@@ -676,12 +676,12 @@ Basta colar o texto abaixo no agente IA e, em seguida, fazer sua pergunta.
 Você tem acesso a uma base pública de conhecimento normativo do IFPR em Markdown.
 
 Use primeiro o manifesto:
-https://raw.githubusercontent.com/simplifica-if/base-conhecimento/refs/heads/main/manifest.json
+https://raw.githubusercontent.com/simplifica-if/base-conhecimento/main/manifest.json
 
 Procedimento:
 1. Consulte o manifest.json para identificar documentos por title, aliases, keywords, ementa, órgão, ano e status_vigencia.
 2. Quando um documento for relevante, baixe o Markdown correspondente usando o campo path:
-   https://raw.githubusercontent.com/simplifica-if/base-conhecimento/refs/heads/main/<path>
+   https://raw.githubusercontent.com/simplifica-if/base-conhecimento/main/<path>
 3. Use os arquivos Markdown como base de consulta normativa e cite sempre o title, a fonte oficial indicada em fonte e o trecho ou seção usada.
 4. Não invente normas, números, datas ou obrigações. Se a base não contiver o documento necessário, diga isso e recomende consultar a fonte oficial.
 5. Trate esta base como curadoria operacional. Para decisões administrativas, jurídicas ou acadêmicas, confira sempre a publicação oficial indicada em fonte.
