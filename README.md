@@ -35,13 +35,6 @@ Exemplos de perguntas que você pode fazer depois de colar o prompt:
 - Quais documentos devo consultar sobre ensino médio integrado?
 - Existe alguma norma do IFPR sobre assistência estudantil?
 
-## Estrutura
-
-- Arquivos `*.md` na raiz: leis, normas e compilações.
-- `manifest.json`: índice estruturado para consumo automático.
-- `docs/padrao-front-matter-legislacao.md`: contrato de metadados.
-- `scripts/`: geração e validação local da base.
-
 ## Normas publicadas
 
 | Documento | Tipo | Ano | Assunto |
@@ -78,6 +71,12 @@ Exemplos de perguntas que você pode fazer depois de colar o prompt:
 python3 scripts/gerar_base.py
 python3 scripts/validar_base.py
 ```
+## Estrutura
+
+- Arquivos `*.md` na raiz: leis, normas e compilações.
+- `manifest.json`: índice estruturado para consumo automático.
+- `docs/padrao-front-matter-legislacao.md`: contrato de metadados.
+- `scripts/`: geração e validação local da base.
 
 ## Licença
 
