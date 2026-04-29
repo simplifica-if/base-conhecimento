@@ -1,33 +1,48 @@
-# Base de Conhecimento Legislativa IFPR
+# Base de Conhecimento Normativa do IFPR
 
-## Resumo
+## Como usar
 
-Base pública em Markdown para consulta de legislação, resoluções, portarias e documentos normativos usados por skills e fluxos de análise do IFPR.
+Esta é uma base pública de consulta sobre normas, legislação, resoluções, portarias e outros documentos de referência usados em análises relacionadas ao IFPR.
+
+Você pode usar esta base de duas formas:
+
+1. **Consultar manualmente:** veja a lista em [Normas publicadas](#normas-publicadas), clique no documento desejado e leia o conteúdo.
+2. **Usar com um agente IA:** copie o prompt abaixo e cole no ChatGPT, Claude, Codex, Cursor ou outro agente que consiga acessar links da internet.
 
 > Aviso: esta base é uma curadoria operacional. Para decisões administrativas, jurídicas ou acadêmicas, confira sempre a publicação oficial indicada no campo `fonte` de cada documento.
 
-## Consumo por GitHub raw
-
-Depois de publicar este repositório no GitHub, outras skills podem consultar:
-
-- `manifest.json` para descobrir documentos por metadados, aliases e palavras-chave.
-- o campo `path` de cada item do manifesto para buscar o Markdown correspondente via GitHub raw.
-
-Exemplo de URL raw, após definir o remoto público:
+Você não precisa entender GitHub ou programação para usar o prompt. Basta colar o texto abaixo no agente IA e, em seguida, fazer sua pergunta.
 
 ```text
-https://raw.githubusercontent.com/<owner>/simplifica-if-base-conhecimento/main/manifest.json
-https://raw.githubusercontent.com/<owner>/simplifica-if-base-conhecimento/main/<path>
+Você tem acesso a uma base pública de conhecimento normativo do IFPR em Markdown.
+
+Use primeiro o manifesto:
+https://raw.githubusercontent.com/simplifica-if/base-conhecimento/refs/heads/main/manifest.json
+
+Procedimento:
+1. Consulte o manifest.json para identificar documentos por title, aliases, keywords, ementa, órgão, ano e status_vigencia.
+2. Quando um documento for relevante, baixe o Markdown correspondente usando o campo path:
+   https://raw.githubusercontent.com/simplifica-if/base-conhecimento/refs/heads/main/<path>
+3. Use os arquivos Markdown como base de consulta normativa e cite sempre o title, a fonte oficial indicada em fonte e o trecho ou seção usada.
+4. Não invente normas, números, datas ou obrigações. Se a base não contiver o documento necessário, diga isso e recomende consultar a fonte oficial.
+5. Trate esta base como curadoria operacional. Para decisões administrativas, jurídicas ou acadêmicas, confira sempre a publicação oficial indicada em fonte.
 ```
+
+Exemplos de perguntas que você pode fazer depois de colar o prompt:
+
+- Quais normas da base tratam de PPC de cursos técnicos?
+- O que a base traz sobre adaptação e flexibilização curricular?
+- Quais documentos devo consultar sobre ensino médio integrado?
+- Existe alguma norma do IFPR sobre assistência estudantil?
 
 ## Estrutura
 
-- Arquivos `*.md` na raiz: normas e compilações legislativas.
+- Arquivos `*.md` na raiz: leis, normas e compilações.
 - `manifest.json`: índice estruturado para consumo automático.
 - `docs/padrao-front-matter-legislacao.md`: contrato de metadados.
 - `scripts/`: geração e validação local da base.
 
-## Legislação publicada
+## Normas publicadas
 
 | Documento | Tipo | Ano | Assunto |
 |-----------|------|-----|---------|
