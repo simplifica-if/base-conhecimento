@@ -11,7 +11,7 @@ Você pode usar esta base de duas formas:
 
 > Aviso: esta base é uma curadoria operacional. Para decisões administrativas, jurídicas ou acadêmicas, confira sempre a publicação oficial indicada no campo `fonte` de cada documento.
 
-Você não precisa entender GitHub ou programação para usar o prompt. Basta colar o texto abaixo no agente IA e, em seguida, fazer sua pergunta.
+Basta colar o texto abaixo no agente IA e, em seguida, fazer sua pergunta.
 
 ```text
 Você tem acesso a uma base pública de conhecimento normativo do IFPR em Markdown.
