@@ -1,6 +1,6 @@
 ## Resumo
 
-Padrão oficial de `front matter` para arquivos de arquivos Markdown de legislação na raiz deste repositório. Define campos mínimos, campos opcionais, convenções de preenchimento e regras de compatibilidade legada para permitir consumo automático por skills, LLMs e ferramentas de indexação.
+Padrão oficial de `front matter` para arquivos Markdown de legislação em `normas/` neste repositório. Define campos mínimos, campos opcionais, convenções de preenchimento e regras de compatibilidade legada para permitir consumo automático por skills, LLMs e ferramentas de indexação.
 
 ---
 
@@ -87,6 +87,8 @@ relaciona_se_a:
 - `keywords` deve conter termos de domínio, não frases longas.
 - `aliases` deve conter formas pelas quais o texto costuma ser citado em PPCs e pareceres.
 - O corpo do arquivo continua começando com `## Resumo`.
+- Os arquivos devem ficar em `normas/<jurisdicao>/<tipo-plural>/`.
+- O nome do arquivo não deve usar prefixo de data. A data oficial deve ficar em `data_publicacao`.
 
 ---
 

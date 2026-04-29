@@ -1,18 +1,25 @@
 #!/usr/bin/env python3
-"""Gera a base pública de legislação a partir do repositório interno."""
+"""Gera a base pública de legislação a partir dos arquivos em normas/."""
 
 from __future__ import annotations
 
 import json
 import re
-import shutil
 from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-SOURCE = ROOT.parent / "alfred4ifpr" / "knowledge" / "legislacao"
+SOURCE = ROOT / "normas"
 USER_PATH_PATTERN = "/" + "Users/"
 DOWNLOADS_PATTERN = "Down" + "loads"
+TIPO_DIRETORIOS = {
+    ("BR", "Lei"): "normas/br/leis",
+    ("BR", "Resolução"): "normas/br/resolucoes",
+    ("BR", "Compilação"): "normas/br/compilacoes",
+    ("IFPR", "Resolução"): "normas/ifpr/resolucoes",
+    ("IFPR", "Portaria"): "normas/ifpr/portarias",
+    ("IFPR", "Nota Técnica"): "normas/ifpr/notas-tecnicas",
+}
 
 
 NORMAS = [
@@ -442,6 +449,23 @@ def yaml_scalar(value: object) -> str:
     return json.dumps(text, ensure_ascii=False)
 
 
+def nome_publico(meta: dict) -> str:
+    return re.sub(r"^\d{4}-\d{2}-\d{2}_", "", str(meta["target"]))
+
+
+def caminho_publico(meta: dict) -> str:
+    key = (str(meta["jurisdicao"]), str(meta["tipo_documento"]))
+    try:
+        diretorio = TIPO_DIRETORIOS[key]
+    except KeyError as exc:
+        raise ValueError(f"tipo sem diretório configurado: {key}") from exc
+    return f"{diretorio}/{nome_publico(meta)}"
+
+
+def caminho_fonte(meta: dict) -> Path:
+    return ROOT / caminho_publico(meta)
+
+
 def frontmatter(meta: dict) -> str:
     order = [
         "title",
@@ -633,36 +657,44 @@ def write_readme(manifest: list[dict]) -> None:
         f"| [{item['title']}]({item['path']}) | {item['tipo_documento']} | {item['ano']} | {item['ementa']} |"
         for item in manifest
     )
-    readme = f"""# Base de Conhecimento Legislativa IFPR
+    readme = f"""# Base de Conhecimento Normativa do IFPR
 
-## Resumo
+## Como usar
 
-Base pública em Markdown para consulta de legislação, resoluções, portarias e documentos normativos usados por skills e fluxos de análise do IFPR.
+Esta é uma base pública de consulta sobre normas, legislação, resoluções, portarias e outros documentos de referência usados em análises relacionadas ao IFPR.
+
+Você pode usar esta base de duas formas:
+
+1. **Consultar manualmente:** veja a lista em [Normas publicadas](#normas-publicadas), clique no documento desejado e leia o conteúdo.
+2. **Usar com um agente IA:** copie o prompt abaixo e cole no ChatGPT, Claude, Codex, Cursor ou outro agente que consiga acessar links da internet.
 
 > Aviso: esta base é uma curadoria operacional. Para decisões administrativas, jurídicas ou acadêmicas, confira sempre a publicação oficial indicada no campo `fonte` de cada documento.
 
-## Consumo por GitHub raw
-
-Depois de publicar este repositório no GitHub, outras skills podem consultar:
-
-- `manifest.json` para descobrir documentos por metadados, aliases e palavras-chave.
-- o campo `path` de cada item do manifesto para buscar o Markdown correspondente via GitHub raw.
-
-Exemplo de URL raw, após definir o remoto público:
+Basta colar o texto abaixo no agente IA e, em seguida, fazer sua pergunta.
 
 ```text
-https://raw.githubusercontent.com/<owner>/simplifica-if-base-conhecimento/main/manifest.json
-https://raw.githubusercontent.com/<owner>/simplifica-if-base-conhecimento/main/<path>
+Você tem acesso a uma base pública de conhecimento normativo do IFPR em Markdown.
+
+Use primeiro o manifesto:
+https://raw.githubusercontent.com/simplifica-if/base-conhecimento/refs/heads/main/manifest.json
+
+Procedimento:
+1. Consulte o manifest.json para identificar documentos por title, aliases, keywords, ementa, órgão, ano e status_vigencia.
+2. Quando um documento for relevante, baixe o Markdown correspondente usando o campo path:
+   https://raw.githubusercontent.com/simplifica-if/base-conhecimento/refs/heads/main/<path>
+3. Use os arquivos Markdown como base de consulta normativa e cite sempre o title, a fonte oficial indicada em fonte e o trecho ou seção usada.
+4. Não invente normas, números, datas ou obrigações. Se a base não contiver o documento necessário, diga isso e recomende consultar a fonte oficial.
+5. Trate esta base como curadoria operacional. Para decisões administrativas, jurídicas ou acadêmicas, confira sempre a publicação oficial indicada em fonte.
 ```
 
-## Estrutura
+Exemplos de perguntas que você pode fazer depois de colar o prompt:
 
-- Arquivos `*.md` na raiz: normas e compilações legislativas.
-- `manifest.json`: índice estruturado para consumo automático.
-- `docs/padrao-front-matter-legislacao.md`: contrato de metadados.
-- `scripts/`: geração e validação local da base.
+- Quais normas da base tratam de PPC de cursos técnicos?
+- O que a base traz sobre adaptação e flexibilização curricular?
+- Quais documentos devo consultar sobre ensino médio integrado?
+- Existe alguma norma do IFPR sobre assistência estudantil?
 
-## Legislação publicada
+## Normas publicadas
 
 | Documento | Tipo | Ano | Assunto |
 |-----------|------|-----|---------|
@@ -674,6 +706,13 @@ https://raw.githubusercontent.com/<owner>/simplifica-if-base-conhecimento/main/<
 python3 scripts/gerar_base.py
 python3 scripts/validar_base.py
 ```
+
+## Estrutura
+
+- `normas/`: leis, resoluções, portarias, notas técnicas e compilações, organizadas por jurisdição e tipo documental.
+- `manifest.json`: índice estruturado para consumo automático.
+- `docs/padrao-front-matter-legislacao.md`: contrato de metadados.
+- `scripts/`: geração e validação local da base.
 
 ## Licença
 
@@ -694,10 +733,24 @@ def write_static_files() -> None:
     )
     docs = ROOT / "docs"
     docs.mkdir(exist_ok=True)
-    shutil.copyfile(SOURCE / "padrao-front-matter-legislacao.md", docs / "padrao-front-matter-legislacao.md")
-    text = (docs / "padrao-front-matter-legislacao.md").read_text(encoding="utf-8")
-    text = re.sub(r"\[knowledge/legislacao\]\(" + re.escape(USER_PATH_PATTERN) + r"[^)]+/alfred4ifpr/knowledge/legislacao\)", "arquivos Markdown de legislação na raiz deste repositório", text)
-    (docs / "padrao-front-matter-legislacao.md").write_text(text, encoding="utf-8")
+    doc_path = docs / "padrao-front-matter-legislacao.md"
+    if doc_path.exists():
+        text = doc_path.read_text(encoding="utf-8")
+    else:
+        text = "## Resumo\n\nPadrão oficial de `front matter` para arquivos Markdown de legislação em `normas/` neste repositório.\n"
+    text = re.sub(r"\[knowledge/legislacao\]\(" + re.escape(USER_PATH_PATTERN) + r"[^)]+/alfred4ifpr/knowledge/legislacao\)", "arquivos Markdown de legislação em `normas/` neste repositório", text)
+    text = text.replace(
+        "na raiz deste repositório",
+        "em `normas/` neste repositório",
+    )
+    if "`normas/<jurisdicao>/<tipo-plural>/`" not in text:
+        text = text.replace(
+            "- O corpo do arquivo continua começando com `## Resumo`.",
+            "- O corpo do arquivo continua começando com `## Resumo`.\n"
+            "- Os arquivos devem ficar em `normas/<jurisdicao>/<tipo-plural>/`.\n"
+            "- O nome do arquivo não deve usar prefixo de data. A data oficial deve ficar em `data_publicacao`.",
+        )
+    doc_path.write_text(text, encoding="utf-8")
 
 
 def main() -> None:
@@ -705,17 +758,27 @@ def main() -> None:
         raise SystemExit(f"Fonte não encontrada: {SOURCE}")
     write_static_files()
     manifest = []
-    targets = {item["target"] for item in NORMAS}
+    targets = {caminho_publico(item) for item in NORMAS}
     for stale in ROOT.glob("*.md"):
-        if stale.name != "README.md" and stale.name not in targets:
+        if stale.name != "README.md":
             stale.unlink()
+    normas_root = ROOT / "normas"
+    if normas_root.exists():
+        for stale in normas_root.rglob("*.md"):
+            if str(stale.relative_to(ROOT)) not in targets:
+                stale.unlink()
     for meta in NORMAS:
-        source_path = SOURCE / meta["source"]
+        public_path = caminho_publico(meta)
+        source_path = caminho_fonte(meta)
+        if not source_path.exists():
+            raise SystemExit(f"Fonte local não encontrada: {source_path}")
         body = body_from_resumo(source_path.read_text(encoding="utf-8"))
         if meta["source"] == "resolucao-259-2025-calendario.md":
             body = fix_resolucao_259(body)
         output = frontmatter(meta) + body
-        (ROOT / meta["target"]).write_text(output, encoding="utf-8")
+        output_path = ROOT / public_path
+        output_path.parent.mkdir(parents=True, exist_ok=True)
+        output_path.write_text(output, encoding="utf-8")
         item = {key: meta.get(key, "") for key in [
             "title",
             "tipo_documento",
@@ -730,7 +793,7 @@ def main() -> None:
             "aliases",
             "fonte",
         ]}
-        item["path"] = meta["target"]
+        item["path"] = public_path
         manifest.append(item)
     manifest.sort(key=lambda item: (str(item["data_publicacao"]), item["title"]))
     (ROOT / "manifest.json").write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
