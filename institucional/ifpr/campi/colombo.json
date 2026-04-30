@@ -4,11 +4,110 @@
   "tipo_unidade": "campus",
   "links": {
     "site": "https://colombo.ifpr.edu.br/",
-    "calendario_academico": "https://colombo.ifpr.edu.br/index.php/menu-academico/calendario-academico/"
+    "calendario_academico": "https://ifpr.edu.br/colombo/menu-academico/calendario-academico/"
   },
-  "cursos": [],
+  "cursos": [
+    {
+      "id": "tecnico-em-administracao-integrado-ao-ensino-medio",
+      "nome": "Técnico Integrado em Administração",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/colombo/tecnicos-integrados/tecnico-em-administracao/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnico-em-alimentos-integrado-ao-ensino-medio",
+      "nome": "Técnico Integrado em Alimentos",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/colombo/tecnicos-integrados/tecnico-em-alimentos/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnico-em-informatica-integrado-ao-ensino-medio",
+      "nome": "Técnico Integrado em Informática",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/colombo/tecnicos-integrados/tecnico-em-informatica/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnico-em-administracao-subsequente",
+      "nome": "Técnico Subsequente em Administração",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "url": "https://ifpr.edu.br/colombo/tecnicos-subsequentes/tecnico-em-administracao/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnologia-em-alimentos",
+      "nome": "Tecnologia em Alimentos",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "url": "https://ifpr.edu.br/colombo/superiores-tecnologia/tecnologia-em-alimentos/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
+      "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "url": "https://ifpr.edu.br/colombo/superiores-tecnologia/tads/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnologia-em-processos-gerenciais",
+      "nome": "Tecnologia em Processos Gerenciais",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "url": "https://ifpr.edu.br/colombo/superiores-tecnologia/tecnologia-em-processos-gerenciais/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "licenciatura-em-pedagogia",
+      "nome": "Licenciatura em Pedagogia",
+      "nivel": "superior",
+      "tipo_oferta": "licenciatura",
+      "url": "https://ifpr.edu.br/colombo/licenciatura-em-pedagogia/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "licenciatura-em-historia",
+      "nome": "Licenciatura em História",
+      "nivel": "superior",
+      "tipo_oferta": "licenciatura",
+      "url": "https://ifpr.edu.br/colombo/licenciatura-em-historia/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    }
+  ],
   "curadoria": {
-    "status_cursos": "dados_pendentes",
+    "status_cursos": "dados_curados",
+    "fontes": [
+      "https://ifpr.edu.br/colombo/cursos/",
+      "https://ifpr.edu.br/colombo/tecnicos-integrados/",
+      "https://ifpr.edu.br/colombo/tecnicos-subsequentes/",
+      "https://ifpr.edu.br/colombo/superiores-tecnologia/",
+      "https://ifpr.edu.br/colombo/superiores-licenciaturas/",
+      "https://ifpr.edu.br/colombo/menu-academico/calendario-academico/"
+    ],
     "verificado_em": "2026-04-30"
   }
 }
