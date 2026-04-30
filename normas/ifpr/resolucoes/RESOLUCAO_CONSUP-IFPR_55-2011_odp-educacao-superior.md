@@ -17,7 +17,6 @@ keywords:
 aliases:
   - "Resolução nº 55/2011"
   - "Resolução CONSUP/IFPR 55/2011"
-  - 2011-12-21_RESOLUCAO_CONSUP-IFPR_55-2011.md
 fonte: https://ifpr.edu.br/resolucao-no-552011/
 alterada_por:
   - "Resolução CONSUP/IFPR nº 14/2014"

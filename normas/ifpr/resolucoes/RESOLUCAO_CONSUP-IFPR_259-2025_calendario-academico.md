@@ -17,7 +17,6 @@ keywords:
 aliases:
   - "Resolução CONSUP/IFPR nº 259/2025"
   - "Resolução IFPR 259/2025"
-  - resolucao-259-2025-calendario.md
 fonte: "Fonte oficial pendente de confirmação pública"
 ---
 

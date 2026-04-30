@@ -17,7 +17,6 @@ keywords:
 aliases:
   - "Portaria PROENS/IFPR nº 121/2024"
   - "Portaria PROENS 121/2024"
-  - 2024-06-12_PORTARIA_PROENS-IFPR_121-2024_abertura-cursos.md
 fonte: "Fonte oficial pendente de confirmação pública"
 ---
 

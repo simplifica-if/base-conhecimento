@@ -17,7 +17,6 @@ keywords:
 aliases:
   - "Resolução CONSUP/IFPR nº 190/2024"
   - "Resolução IFPR 190/2024"
-  - 2024-04-30_RESOLUCAO_CONSUP-IFPR_190-2024_odp.md
 fonte: "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=3110625&id_orgao_publicacao=0"
 revoga:
   - "Resolução IFPR nº 54/2011"
