@@ -18,7 +18,11 @@ Aprendizado a partir do Campus Arapongas:
 7. Não cadastre páginas auxiliares como curso ou oferta formal apenas por aparecerem sob `Nossos Cursos`.
 8. Para FIC e outras ofertas temporárias, não presuma que a página ainda representa uma oferta ativa. Muitas páginas antigas permanecem publicadas como histórico.
 9. Antes de cadastrar uma oferta temporária como ativa, verifique a página, editais, ano/turma, período de inscrição ou outro indício explícito de vigência atual.
-10. Se a página parecer histórica, antiga ou sem indicação clara de oferta vigente, não inclua no cadastro principal de `cursos` como oferta ativa. Registre apenas depois que houver campo próprio para histórico, se necessário.
+10. Se a página parecer histórica, antiga ou sem indicação clara de oferta vigente, não inclua no cadastro principal de `cursos` como oferta ativa. A base institucional registra apenas o estado atual.
+11. Use `modalidade` para distinguir `presencial`, `ead` e `semipresencial`.
+12. Use `escopo` para indicar se a oferta é própria do `campus`, de `rede`, de `programa` ou de `polo`.
+13. Use `situacao` para registrar a vigência atual da oferta: `ativo`, `em_oferta`, `suspenso` ou `incerto`.
+14. Quando a oferta estiver vinculada a programa institucional, como Pronacampo, cadastre o programa em `programas` e suas ofertas em `programas[].ofertas`, não misturadas com os cursos regulares do campus.
 
 ## Exemplo: Arapongas
 
@@ -36,6 +40,6 @@ A árvore oficial de cursos foi identificada a partir de:
 - `https://ifpr.edu.br/arapongas/nossos-cursos/tecnico-subsequente/`
 - `https://ifpr.edu.br/arapongas/nossos-cursos/ead/`
 
-As páginas `Partiu IF` e `Cursos de Formação Inicial e Continuada (FIC)` aparecem na árvore de `Nossos Cursos`. Use `tipo_oferta: "programa institucional"` para Partiu IF e `tipo_oferta: "FIC"` para cursos FIC, mantendo `nivel` como nível educacional.
+As páginas `Partiu IF` e `Cursos de Formação Inicial e Continuada (FIC)` podem aparecer na árvore de `Nossos Cursos`, mas não devem ser misturadas aos cursos regulares do campus quando forem ofertas de programa institucional ou ofertas temporárias. Nesses casos, use `programas` e registre apenas ofertas com vigência atual confirmada.
 
 Atenção: no caso de Arapongas, a árvore de FIC inclui páginas antigas, como ofertas de anos anteriores. Não cadastre todos os filhos de `Cursos FIC` automaticamente como cursos ativos; primeiro confirme a vigência de cada oferta.

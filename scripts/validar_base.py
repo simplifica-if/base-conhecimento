@@ -310,6 +310,38 @@ def validate_campus_file(path: Path, index_item: dict[str, object]) -> list[str]
             if "url" in curso:
                 errors.extend(validate_https_url(curso["url"], f"{relative(path)}: cursos[].url"))
 
+    programas = data.get("programas", [])
+    if not isinstance(programas, list):
+        errors.append(f"{relative(path)}: programas deve ser array")
+    else:
+        seen_program_ids: set[str] = set()
+        for programa in programas:
+            if not isinstance(programa, dict):
+                continue
+            programa_id = programa.get("id")
+            if isinstance(programa_id, str):
+                if programa_id in seen_program_ids:
+                    errors.append(f"{relative(path)}: programa duplicado: {programa_id}")
+                seen_program_ids.add(programa_id)
+            if "url" in programa:
+                errors.extend(validate_https_url(programa["url"], f"{relative(path)}: programas[].url"))
+
+            ofertas = programa.get("ofertas")
+            if not isinstance(ofertas, list):
+                errors.append(f"{relative(path)}: programas[].ofertas deve ser array")
+                continue
+            seen_offer_ids: set[str] = set()
+            for oferta in ofertas:
+                if not isinstance(oferta, dict):
+                    continue
+                oferta_id = oferta.get("id")
+                if isinstance(oferta_id, str):
+                    if oferta_id in seen_offer_ids:
+                        errors.append(f"{relative(path)}: oferta duplicada em programa {programa_id}: {oferta_id}")
+                    seen_offer_ids.add(oferta_id)
+                if "url" in oferta:
+                    errors.extend(validate_https_url(oferta["url"], f"{relative(path)}: programas[].ofertas[].url"))
+
     curadoria = data.get("curadoria")
     if not isinstance(curadoria, dict):
         errors.append(f"{relative(path)}: curadoria deve ser objeto")

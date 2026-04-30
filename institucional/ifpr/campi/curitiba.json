@@ -6,9 +6,471 @@
     "site": "https://curitiba.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/curitiba/calendario-academico/"
   },
-  "cursos": [],
+  "cursos": [
+    {
+      "id": "tecnico-em-administracao-integrado-ao-ensino-medio",
+      "nome": "Técnico em Administração Integrado ao Ensino Médio",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-tecnicos-de-ensino-medio-integrado/administracao-3/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnico-em-contabilidade-integrado-ao-ensino-medio",
+      "nome": "Técnico em Contabilidade Integrado ao Ensino Médio",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-tecnicos-de-ensino-medio-integrado/contabilidade/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnico-em-eletronica-integrado-ao-ensino-medio",
+      "nome": "Técnico em Eletrônica Integrado ao Ensino Médio",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-tecnicos-de-ensino-medio-integrado/eletronica/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnico-em-informatica-integrado-ao-ensino-medio",
+      "nome": "Técnico em Informática Integrado ao Ensino Médio",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-tecnicos-de-ensino-medio-integrado/informatica-2/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnico-em-mecanica-integrado-ao-ensino-medio",
+      "nome": "Técnico em Mecânica Integrado ao Ensino Médio",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-tecnicos-de-ensino-medio-integrado/mecanica-2/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnico-em-petroleo-e-gas-integrado-ao-ensino-medio",
+      "nome": "Técnico em Petróleo e Gás Integrado ao Ensino Médio",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-tecnicos-de-ensino-medio-integrado/tecnico-integrado-petroleo-e-gas/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnico-em-processos-fotograficos-integrado-ao-ensino-medio",
+      "nome": "Técnico em Processos Fotográficos Integrado ao Ensino Médio",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-tecnicos-de-ensino-medio-integrado/processosfotograficos/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnico-em-programacao-de-jogos-digitais-integrado-ao-ensino-medio",
+      "nome": "Técnico em Programação de Jogos Digitais Integrado ao Ensino Médio",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-tecnicos-de-ensino-medio-integrado/jogosdigitais-2/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnico-em-condominio",
+      "nome": "Técnico em Condomínio",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-tecnicos-subsequentes/condominio/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnico-em-edificacoes",
+      "nome": "Técnico em Edificações",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-tecnicos-subsequentes/edificacoes/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnico-em-eletromecanica",
+      "nome": "Técnico em Eletromecânica",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-tecnicos-subsequentes/eletromecanica-2/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnico-em-eletrotecnica",
+      "nome": "Técnico em Eletrotécnica",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-tecnicos-subsequentes/eletrotecnica/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnico-em-enfermagem",
+      "nome": "Técnico em Enfermagem",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-tecnicos-subsequentes/enfermagem-2/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnico-em-eventos",
+      "nome": "Técnico em Eventos",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-tecnicos-subsequentes/eventos-2/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnico-em-massoterapia",
+      "nome": "Técnico em Massoterapia",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-tecnicos-subsequentes/massoterapia-2/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnico-em-mecanica",
+      "nome": "Técnico em Mecânica",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-tecnicos-subsequentes/mecanica/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnico-em-processos-fotograficos",
+      "nome": "Técnico em Processos Fotográficos",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-tecnicos-subsequentes/processos-fotograficos/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnico-em-producao-de-audio-e-video",
+      "nome": "Técnico em Produção de Áudio e Vídeo",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-tecnicos-subsequentes/producaoaudioevideo/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnico-em-protese-dentaria",
+      "nome": "Técnico em Prótese Dentária",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-tecnicos-subsequentes/protesedentaria/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnico-em-radiologia",
+      "nome": "Técnico em Radiologia",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-tecnicos-subsequentes/radiologia-2/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnico-em-saude-bucal",
+      "nome": "Técnico em Saúde Bucal",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-tecnicos-subsequentes/saudebucal/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnico-em-telecomunicacoes",
+      "nome": "Técnico em Telecomunicações",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-tecnicos-subsequentes/telecomunicacoes-2/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnico-em-defesa-civil-ead",
+      "nome": "Técnico em Defesa Civil",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "url": "https://ifpr.edu.br/curitiba/curso-defesacivil/",
+      "modalidade": "ead",
+      "situacao": "em_oferta",
+      "escopo": "polo"
+    },
+    {
+      "id": "bacharelado-em-ciencias-contabeis",
+      "nome": "Bacharelado em Ciências Contábeis",
+      "nivel": "superior",
+      "tipo_oferta": "bacharelado",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-superiores/contabilidade/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "licenciatura-em-educacao-do-campo",
+      "nome": "Licenciatura em Educação do Campo",
+      "nivel": "superior",
+      "tipo_oferta": "licenciatura",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-superiores/licenciatura-em-educacao-do-campo/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "licenciatura-em-pedagogia",
+      "nome": "Licenciatura em Pedagogia",
+      "nivel": "superior",
+      "tipo_oferta": "licenciatura",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-superiores/licenciatura-em-pedagogia/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnologia-em-gestao-publica",
+      "nome": "Tecnologia em Gestão Pública",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-superiores/gestaopublica/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnologia-em-massoterapia",
+      "nome": "Tecnologia em Massoterapia",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-superiores/massoterapia/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnologia-em-processos-escolares",
+      "nome": "Tecnologia em Processos Escolares",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-superiores/curso-superior-de-tecnologia-em-processos-escolares/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnologia-em-processos-gerenciais",
+      "nome": "Tecnologia em Processos Gerenciais",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-superiores/processos-gerenciais/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "tecnologia-em-secretariado",
+      "nome": "Tecnologia em Secretariado",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-superiores/secretariado/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "aperfeicoamento-em-educacao-para-relacoes-etnico-raciais",
+      "nome": "Aperfeiçoamento em Educação para Relações Étnico-raciais",
+      "nivel": "pós-graduação",
+      "tipo_oferta": "especialização",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/pos-graduacao-2/aperfeicoamento-em-educacao-para-relacoes-etnico-raciais/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "especializacao-em-ciencias-da-natureza-ensino-de-fisica-e-astronomia",
+      "nome": "Especialização em Ciências da Natureza: Ensino de Física e Astronomia",
+      "nivel": "pós-graduação",
+      "tipo_oferta": "especialização",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/pos-graduacao-2/especializacao-em-ciencias-da-natureza-ensino-de-fisica-e-astronomia/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "especializacao-em-design-educacional",
+      "nome": "Especialização em Design Educacional: Formação docente para construção de materiais didáticos digitais",
+      "nivel": "pós-graduação",
+      "tipo_oferta": "especialização",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/pos-graduacao-2/design-educacional-formacao-docente-para-construcao-de-materiais-didaticos-digitais/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "especializacao-em-educacao-musical-para-educacao-basica",
+      "nome": "Especialização em Educação Musical para a Educação Básica",
+      "nivel": "pós-graduação",
+      "tipo_oferta": "especialização",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/pos-graduacao-2/especializacao-em-educacao-musical-para-educacao-basica/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "especializacao-em-educacao-profissional",
+      "nome": "Especialização em Educação Profissional",
+      "nivel": "pós-graduação",
+      "tipo_oferta": "especialização",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/pos-graduacao-2/especializacao-em-educacao-profissional/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "especializacao-em-gestao-empresarial-contabil-e-tributaria",
+      "nome": "Especialização em Gestão Empresarial, Contábil e Tributária",
+      "nivel": "pós-graduação",
+      "tipo_oferta": "especialização",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/pos-graduacao-2/especializacao-em-gestao-empresarial-contabil-e-tributaria/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "especializacao-em-gestao-e-negocios",
+      "nome": "Especialização em Gestão e Negócios",
+      "nivel": "pós-graduação",
+      "tipo_oferta": "especialização",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/pos-graduacao-2/especializacao-de-gestao-e-negocios/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "especializacao-em-gestao-publica",
+      "nome": "Especialização em Gestão Pública",
+      "nivel": "pós-graduação",
+      "tipo_oferta": "especialização",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/pos-graduacao-2/especializacao-em-gestao-publica/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "especializacao-em-gestao-social-de-politicas-publicas",
+      "nome": "Especialização em Gestão Social de Políticas Públicas",
+      "nivel": "pós-graduação",
+      "tipo_oferta": "especialização",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/pos-graduacao-2/especializacao-em-gestao-social-e-politicas-publicas/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "mestrado-profissional-em-educacao-profissional-e-tecnologica-profept",
+      "nome": "Mestrado Profissional em Educação Profissional e Tecnológica (ProfEPT)",
+      "nivel": "pós-graduação",
+      "tipo_oferta": "mestrado",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/pos-graduacao-2/mestrado-profissional-profept/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
+      "id": "mestrado-profissional-em-propriedade-intelectual-e-transferencia-de-tecnologia-para-inovacao-profnit",
+      "nome": "Mestrado Profissional em Propriedade Intelectual e Transferência de Tecnologia para Inovação (PROFNIT)",
+      "nivel": "pós-graduação",
+      "tipo_oferta": "mestrado",
+      "url": "https://ifpr.edu.br/curitiba/nossos-cursos/pos-graduacao-2/mestrado-profissional-profnit/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    }
+  ],
   "curadoria": {
-    "status_cursos": "dados_pendentes",
+    "status_cursos": "dados_curados",
+    "fontes": [
+      "https://ifpr.edu.br/curitiba/nossos-cursos/",
+      "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-tecnicos-de-ensino-medio-integrado/",
+      "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-tecnicos-subsequentes/",
+      "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-tecnicos-a-distancia/",
+      "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-superiores/",
+      "https://ifpr.edu.br/curitiba/nossos-cursos/pos-graduacao-2/",
+      "https://ifpr.edu.br/curitiba/curso-defesacivil/",
+      "https://ifpr.edu.br/curitiba/pronacampo/",
+      "https://ifpr.edu.br/curitiba/pronacampo/editais-pronacampo/"
+    ],
     "verificado_em": "2026-04-30"
-  }
+  },
+  "programas": [
+    {
+      "id": "pronacampo",
+      "nome": "Pronacampo",
+      "tipo": "programa institucional",
+      "url": "https://ifpr.edu.br/curitiba/pronacampo/",
+      "ofertas": [
+        {
+          "id": "educacao-do-campo-e-agroecologia",
+          "nome": "Educação do Campo e Agroecologia",
+          "nivel": "formação inicial e continuada",
+          "tipo_oferta": "FIC",
+          "modalidade": "presencial",
+          "situacao": "em_oferta",
+          "url": "https://ifpr.edu.br/curitiba/pronacampo/",
+          "escopo": "programa"
+        },
+        {
+          "id": "educacao-musical",
+          "nome": "Educação Musical",
+          "nivel": "formação inicial e continuada",
+          "tipo_oferta": "FIC",
+          "modalidade": "presencial",
+          "situacao": "em_oferta",
+          "url": "https://ifpr.edu.br/curitiba/pronacampo/",
+          "escopo": "programa"
+        }
+      ]
+    }
+  ]
 }

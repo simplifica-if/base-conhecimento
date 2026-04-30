@@ -94,10 +94,143 @@
               "programa institucional"
             ]
           },
+          "modalidade": {
+            "enum": [
+              "presencial",
+              "ead",
+              "semipresencial"
+            ]
+          },
+          "situacao": {
+            "enum": [
+              "ativo",
+              "em_oferta",
+              "suspenso",
+              "incerto"
+            ]
+          },
+          "escopo": {
+            "enum": [
+              "campus",
+              "rede",
+              "programa",
+              "polo"
+            ]
+          },
           "url": {
             "type": "string",
             "format": "uri",
             "pattern": "^https://"
+          }
+        }
+      }
+    },
+    "programas": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "nome",
+          "tipo",
+          "url",
+          "ofertas"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          },
+          "nome": {
+            "type": "string",
+            "minLength": 1
+          },
+          "tipo": {
+            "enum": [
+              "programa institucional"
+            ]
+          },
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https://"
+          },
+          "ofertas": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "id",
+                "nome",
+                "nivel",
+                "tipo_oferta",
+                "modalidade",
+                "situacao",
+                "escopo",
+                "url"
+              ],
+              "additionalProperties": false,
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+                },
+                "nome": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "nivel": {
+                  "enum": [
+                    "fundamental",
+                    "médio",
+                    "superior",
+                    "pós-graduação",
+                    "formação inicial e continuada"
+                  ]
+                },
+                "tipo_oferta": {
+                  "enum": [
+                    "técnico integrado",
+                    "técnico subsequente",
+                    "graduação tecnológica",
+                    "bacharelado",
+                    "licenciatura",
+                    "especialização",
+                    "mestrado",
+                    "FIC"
+                  ]
+                },
+                "modalidade": {
+                  "enum": [
+                    "presencial",
+                    "ead",
+                    "semipresencial"
+                  ]
+                },
+                "situacao": {
+                  "enum": [
+                    "ativo",
+                    "em_oferta",
+                    "suspenso",
+                    "incerto"
+                  ]
+                },
+                "escopo": {
+                  "enum": [
+                    "campus",
+                    "rede",
+                    "programa",
+                    "polo"
+                  ]
+                },
+                "url": {
+                  "type": "string",
+                  "format": "uri",
+                  "pattern": "^https://"
+                }
+              }
+            }
           }
         }
       }
