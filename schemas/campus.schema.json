@@ -53,23 +53,77 @@
     },
     "cursos": {
       "type": "array",
-      "maxItems": 0
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "nome",
+          "nivel",
+          "tipo_oferta",
+          "url"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          },
+          "nome": {
+            "type": "string",
+            "minLength": 1
+          },
+          "nivel": {
+            "enum": [
+              "fundamental",
+              "médio",
+              "superior",
+              "pós-graduação",
+              "formação inicial e continuada"
+            ]
+          },
+          "tipo_oferta": {
+            "enum": [
+              "técnico integrado",
+              "técnico subsequente",
+              "graduação tecnológica",
+              "bacharelado",
+              "licenciatura",
+              "especialização",
+              "mestrado",
+              "FIC",
+              "programa institucional"
+            ]
+          },
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https://"
+          }
+        }
+      }
     },
     "curadoria": {
       "type": "object",
       "required": [
         "status_cursos",
-        "fonte_inicial",
         "verificado_em"
       ],
       "additionalProperties": false,
       "properties": {
         "status_cursos": {
-          "const": "dados_pendentes"
+          "enum": [
+            "dados_pendentes",
+            "dados_parciais",
+            "dados_curados"
+          ]
         },
-        "fonte_inicial": {
-          "type": "string",
-          "minLength": 1
+        "fontes": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https://"
+          }
         },
         "verificado_em": {
           "type": "string",

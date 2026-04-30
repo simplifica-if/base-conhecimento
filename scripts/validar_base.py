@@ -294,17 +294,34 @@ def validate_campus_file(path: Path, index_item: dict[str, object]) -> list[str]
             else:
                 errors.extend(validate_https_url(links[field], f"{relative(path)}: links.{field}"))
 
-    if data.get("cursos") != []:
-        errors.append(f"{relative(path)}: cursos deve existir como array vazio na v1")
+    cursos = data.get("cursos")
+    if not isinstance(cursos, list):
+        errors.append(f"{relative(path)}: cursos deve ser array")
+    else:
+        seen_course_ids: set[str] = set()
+        for curso in cursos:
+            if not isinstance(curso, dict):
+                continue
+            curso_id = curso.get("id")
+            if isinstance(curso_id, str):
+                if curso_id in seen_course_ids:
+                    errors.append(f"{relative(path)}: curso duplicado: {curso_id}")
+                seen_course_ids.add(curso_id)
+            if "url" in curso:
+                errors.extend(validate_https_url(curso["url"], f"{relative(path)}: cursos[].url"))
 
     curadoria = data.get("curadoria")
     if not isinstance(curadoria, dict):
         errors.append(f"{relative(path)}: curadoria deve ser objeto")
     else:
-        if curadoria.get("status_cursos") != "dados_pendentes":
-            errors.append(f"{relative(path)}: curadoria.status_cursos deve ser dados_pendentes")
-        if not isinstance(curadoria.get("fonte_inicial"), str) or not curadoria.get("fonte_inicial"):
-            errors.append(f"{relative(path)}: curadoria.fonte_inicial deve ser texto não vazio")
+        if curadoria.get("status_cursos") not in {"dados_pendentes", "dados_parciais", "dados_curados"}:
+            errors.append(f"{relative(path)}: curadoria.status_cursos inválido")
+        fontes = curadoria.get("fontes", [])
+        if not isinstance(fontes, list):
+            errors.append(f"{relative(path)}: curadoria.fontes deve ser array")
+        else:
+            for fonte in fontes:
+                errors.extend(validate_https_url(fonte, f"{relative(path)}: curadoria.fontes[]"))
         if not isinstance(curadoria.get("verificado_em"), str) or not re.fullmatch(r"\d{4}-\d{2}-\d{2}", curadoria.get("verificado_em", "")):
             errors.append(f"{relative(path)}: curadoria.verificado_em deve estar em YYYY-MM-DD")
 
@@ -402,7 +419,7 @@ def main() -> int:
     manifest, manifest_errors = load_manifest()
     errors.extend(manifest_errors)
 
-    root_markdown_paths = [path.name for path in ROOT.glob("*.md") if path.name != "README.md"]
+    root_markdown_paths = [path.name for path in ROOT.glob("*.md") if path.name not in {"AGENTS.md", "README.md"}]
     if root_markdown_paths:
         errors.append(f"normas não devem ficar na raiz do repositório: {sorted(root_markdown_paths)}")
 
