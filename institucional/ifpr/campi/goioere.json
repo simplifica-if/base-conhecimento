@@ -1,0 +1,15 @@
+{
+  "id": "goioere",
+  "nome": "Goioerê",
+  "tipo_unidade": "campus",
+  "links": {
+    "site": "https://goioere.ifpr.edu.br/",
+    "calendario_academico": "https://ifpr.edu.br/goioere/institucional/calendario-academico/"
+  },
+  "cursos": [],
+  "curadoria": {
+    "status_cursos": "dados_pendentes",
+    "fonte_inicial": "CSV Campi IFPR fornecido pelo mantenedor",
+    "verificado_em": "2026-04-30"
+  }
+}

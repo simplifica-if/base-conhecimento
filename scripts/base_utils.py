@@ -8,6 +8,13 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 NORMAS_ROOT = ROOT / "normas"
+INSTITUCIONAL_ROOT = ROOT / "institucional"
+INSTITUCIONAL_MANIFEST_PATH = ROOT / "institucional_manifest.json"
+CAMPI_INDEX_PATH = INSTITUCIONAL_ROOT / "ifpr" / "campi" / "index.json"
+SCHEMAS_ROOT = ROOT / "schemas"
+INSTITUCIONAL_MANIFEST_SCHEMA_PATH = SCHEMAS_ROOT / "institucional_manifest.schema.json"
+CAMPI_INDEX_SCHEMA_PATH = SCHEMAS_ROOT / "campi_index.schema.json"
+CAMPUS_SCHEMA_PATH = SCHEMAS_ROOT / "campus.schema.json"
 MANIFEST_PATH = ROOT / "manifest.json"
 README_PATH = ROOT / "README.md"
 
@@ -43,6 +50,7 @@ TIPO_DIRETORIOS = {
     ("IFPR", "Portaria"): "normas/ifpr/portarias",
     ("IFPR", "Nota Técnica"): "normas/ifpr/notas-tecnicas",
 }
+TIPOS_UNIDADE_INSTITUCIONAL = {"campus", "campus_avancado"}
 
 
 def relative(path: Path) -> str:

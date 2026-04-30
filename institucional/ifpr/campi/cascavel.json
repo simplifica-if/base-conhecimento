@@ -1,0 +1,15 @@
+{
+  "id": "cascavel",
+  "nome": "Cascavel",
+  "tipo_unidade": "campus",
+  "links": {
+    "site": "https://cascavel.ifpr.edu.br/",
+    "calendario_academico": "https://ifpr.edu.br/cascavel/calendario-academico/"
+  },
+  "cursos": [],
+  "curadoria": {
+    "status_cursos": "dados_pendentes",
+    "fonte_inicial": "CSV Campi IFPR fornecido pelo mantenedor",
+    "verificado_em": "2026-04-30"
+  }
+}

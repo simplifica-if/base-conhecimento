@@ -1,0 +1,15 @@
+{
+  "id": "quedas-do-iguacu",
+  "nome": "Quedas do Iguaçu",
+  "tipo_unidade": "campus",
+  "links": {
+    "site": "https://quedasdoiguacu.ifpr.edu.br/",
+    "calendario_academico": "https://ifpr.edu.br/quedas-do-iguacu/academico/calendario/"
+  },
+  "cursos": [],
+  "curadoria": {
+    "status_cursos": "dados_pendentes",
+    "fonte_inicial": "CSV Campi IFPR fornecido pelo mantenedor",
+    "verificado_em": "2026-04-30"
+  }
+}

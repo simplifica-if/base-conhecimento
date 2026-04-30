@@ -1,0 +1,15 @@
+{
+  "id": "barracao",
+  "nome": "Barracão",
+  "tipo_unidade": "campus",
+  "links": {
+    "site": "https://barracao.ifpr.edu.br/",
+    "calendario_academico": "https://ifpr.edu.br/barracao/academico/calendario-academico-e-administrativo/"
+  },
+  "cursos": [],
+  "curadoria": {
+    "status_cursos": "dados_pendentes",
+    "fonte_inicial": "CSV Campi IFPR fornecido pelo mantenedor",
+    "verificado_em": "2026-04-30"
+  }
+}

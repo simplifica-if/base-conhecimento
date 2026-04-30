@@ -1,0 +1,15 @@
+{
+  "id": "londrina",
+  "nome": "Londrina",
+  "tipo_unidade": "campus",
+  "links": {
+    "site": "https://londrina.ifpr.edu.br/",
+    "calendario_academico": "https://ifpr.edu.br/londrina/menu-alunos/area-do-estudante/orientacoes-de-procedimentos/"
+  },
+  "cursos": [],
+  "curadoria": {
+    "status_cursos": "dados_pendentes",
+    "fonte_inicial": "CSV Campi IFPR fornecido pelo mantenedor",
+    "verificado_em": "2026-04-30"
+  }
+}

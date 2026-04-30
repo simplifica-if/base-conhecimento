@@ -1,0 +1,15 @@
+{
+  "id": "campo-largo",
+  "nome": "Campo Largo",
+  "tipo_unidade": "campus",
+  "links": {
+    "site": "https://campolargo.ifpr.edu.br/",
+    "calendario_academico": "https://ifpr.edu.br/campo-largo/espaco-do-aluno/calendario-academico-2/"
+  },
+  "cursos": [],
+  "curadoria": {
+    "status_cursos": "dados_pendentes",
+    "fonte_inicial": "CSV Campi IFPR fornecido pelo mantenedor",
+    "verificado_em": "2026-04-30"
+  }
+}

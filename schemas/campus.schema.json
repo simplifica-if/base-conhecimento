@@ -1,0 +1,81 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/simplifica-if/base-conhecimento/main/schemas/campus.schema.json",
+  "title": "Campus do IFPR",
+  "type": "object",
+  "required": [
+    "id",
+    "nome",
+    "tipo_unidade",
+    "links",
+    "cursos",
+    "curadoria"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "nome": {
+      "type": "string",
+      "minLength": 1
+    },
+    "tipo_unidade": {
+      "enum": [
+        "campus",
+        "campus_avancado"
+      ]
+    },
+    "links": {
+      "type": "object",
+      "required": [
+        "site",
+        "calendario_academico"
+      ],
+      "additionalProperties": {
+        "type": "string",
+        "format": "uri",
+        "pattern": "^https://"
+      },
+      "properties": {
+        "site": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https://"
+        },
+        "calendario_academico": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https://"
+        }
+      }
+    },
+    "cursos": {
+      "type": "array",
+      "maxItems": 0
+    },
+    "curadoria": {
+      "type": "object",
+      "required": [
+        "status_cursos",
+        "fonte_inicial",
+        "verificado_em"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "status_cursos": {
+          "const": "dados_pendentes"
+        },
+        "fonte_inicial": {
+          "type": "string",
+          "minLength": 1
+        },
+        "verificado_em": {
+          "type": "string",
+          "format": "date"
+        }
+      }
+    }
+  }
+}

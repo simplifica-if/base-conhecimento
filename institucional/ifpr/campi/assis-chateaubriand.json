@@ -1,0 +1,15 @@
+{
+  "id": "assis-chateaubriand",
+  "nome": "Assis Chateaubriand",
+  "tipo_unidade": "campus",
+  "links": {
+    "site": "https://ifpr.edu.br/assis-chateaubriand/",
+    "calendario_academico": "https://ifpr.edu.br/assis-chateaubriand/menu-academico/area-do-estudante/vida-academica/calendario-academico/"
+  },
+  "cursos": [],
+  "curadoria": {
+    "status_cursos": "dados_pendentes",
+    "fonte_inicial": "CSV Campi IFPR fornecido pelo mantenedor",
+    "verificado_em": "2026-04-30"
+  }
+}

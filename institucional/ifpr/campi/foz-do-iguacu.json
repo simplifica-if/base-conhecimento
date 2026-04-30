@@ -1,0 +1,15 @@
+{
+  "id": "foz-do-iguacu",
+  "nome": "Foz do Iguaçu",
+  "tipo_unidade": "campus",
+  "links": {
+    "site": "https://ifpr.edu.br/foz-do-iguacu/",
+    "calendario_academico": "https://ifpr.edu.br/foz-do-iguacu/alunos/calendario-academico/"
+  },
+  "cursos": [],
+  "curadoria": {
+    "status_cursos": "dados_pendentes",
+    "fonte_inicial": "CSV Campi IFPR fornecido pelo mantenedor",
+    "verificado_em": "2026-04-30"
+  }
+}

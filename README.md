@@ -1,8 +1,8 @@
-# Base de Conhecimento Normativa do IFPR
+# Base de Conhecimento do IFPR
 
 ## Como usar
 
-Esta é uma base pública de consulta sobre normas, legislação, resoluções, portarias e outros documentos de referência usados em análises relacionadas ao IFPR.
+Esta é uma base pública de consulta sobre normas, legislação, resoluções, portarias, metadados institucionais e outros documentos de referência usados em análises relacionadas ao IFPR.
 
 Você pode usar esta base de duas formas:
 
@@ -14,18 +14,23 @@ Você pode usar esta base de duas formas:
 Basta colar o texto abaixo no agente IA e, em seguida, fazer sua pergunta.
 
 ```text
-Você tem acesso a uma base pública de conhecimento normativo do IFPR em Markdown.
+Você tem acesso a uma base pública de conhecimento do IFPR.
 
 Use primeiro o manifesto:
 https://raw.githubusercontent.com/simplifica-if/base-conhecimento/main/manifest.json
+
+Para metadados institucionais do IFPR, use também:
+https://raw.githubusercontent.com/simplifica-if/base-conhecimento/main/institucional_manifest.json
 
 Procedimento:
 1. Consulte o manifest.json para identificar documentos por title, aliases, keywords, ementa, órgão, ano e status_vigencia.
 2. Quando um documento for relevante, baixe o Markdown correspondente usando o campo path:
    https://raw.githubusercontent.com/simplifica-if/base-conhecimento/main/<path>
-3. Use os arquivos Markdown como base de consulta normativa e cite sempre o title, a fonte oficial indicada em fonte e o trecho ou seção usada.
-4. Não invente normas, números, datas ou obrigações. Se a base não contiver o documento necessário, diga isso e recomende consultar a fonte oficial.
-5. Trate esta base como curadoria operacional. Para decisões administrativas, jurídicas ou acadêmicas, confira sempre a publicação oficial indicada em fonte.
+3. Para perguntas sobre campi, calendário acadêmico ou páginas institucionais, consulte o institucional_manifest.json, abra a coleção indicada e use os JSONs dos campi para localizar os links oficiais.
+4. Quando a pergunta exigir conteúdo interno das páginas dos campi, navegue nos links oficiais indicados nos metadados e cite a página consultada.
+5. Use os arquivos Markdown como base de consulta normativa e cite sempre o title, a fonte oficial indicada em fonte e o trecho ou seção usada.
+6. Não invente normas, números, datas, campi, cursos ou obrigações. Se a base não contiver o dado necessário, diga isso e recomende consultar a fonte oficial.
+7. Trate esta base como curadoria operacional. Para decisões administrativas, jurídicas ou acadêmicas, confira sempre a publicação oficial indicada em fonte.
 ```
 
 Exemplos de perguntas que você pode fazer depois de colar o prompt:
@@ -34,6 +39,8 @@ Exemplos de perguntas que você pode fazer depois de colar o prompt:
 - O que a base traz sobre adaptação e flexibilização curricular?
 - Quais documentos devo consultar sobre ensino médio integrado?
 - Existe alguma norma do IFPR sobre assistência estudantil?
+- Quais campi do IFPR estão cadastrados na base?
+- Onde encontro o calendário acadêmico do Campus Curitiba?
 
 ## Normas publicadas
 
@@ -75,7 +82,10 @@ python3 scripts/validar_base.py
 ## Estrutura
 
 - `normas/`: leis, resoluções, portarias, notas técnicas e compilações, organizadas por jurisdição e tipo documental.
+- `institucional/`: metadados institucionais estruturados, como o cadastro de campi do IFPR.
 - `manifest.json`: índice estruturado para consumo automático.
+- `institucional_manifest.json`: índice estruturado das coleções institucionais.
+- `schemas/`: contratos JSON Schema dos metadados institucionais.
 - `docs/padrao-front-matter-legislacao.md`: contrato de metadados.
 - `scripts/`: geração e validação local da base.
 

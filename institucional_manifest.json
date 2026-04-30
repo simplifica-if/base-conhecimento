@@ -1,0 +1,15 @@
+{
+  "title": "Metadados institucionais do IFPR",
+  "tipo": "cadastro_institucional",
+  "versao": 1,
+  "atualizado_em": "2026-04-30",
+  "colecoes": [
+    {
+      "id": "campi-ifpr",
+      "title": "Campi do IFPR",
+      "tipo_item": "campus",
+      "path": "institucional/ifpr/campi/index.json",
+      "total_itens": 26
+    }
+  ]
+}

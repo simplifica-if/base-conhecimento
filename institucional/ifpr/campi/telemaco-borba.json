@@ -1,0 +1,15 @@
+{
+  "id": "telemaco-borba",
+  "nome": "Avançado Telêmaco Borba",
+  "tipo_unidade": "campus_avancado",
+  "links": {
+    "site": "https://ifpr.edu.br/telemaco-borba/",
+    "calendario_academico": "https://ifpr.edu.br/telemaco-borba/estudantes/calendario-academico-5/"
+  },
+  "cursos": [],
+  "curadoria": {
+    "status_cursos": "dados_pendentes",
+    "fonte_inicial": "CSV Campi IFPR fornecido pelo mantenedor",
+    "verificado_em": "2026-04-30"
+  }
+}
