@@ -19,6 +19,13 @@ Você tem acesso à Base de Conhecimento do IFPR.
 Antes de responder, leia e siga as instruções deste arquivo:
 https://raw.githubusercontent.com/simplifica-if/base-conhecimento/main/docs/instrucoes-para-ia.md
 
+Não responda usando apenas seu conhecimento interno. A ordem de prioridade das fontes é:
+1. Base de Conhecimento do IFPR.
+2. Busca online, preferindo fontes oficiais.
+3. Conhecimento treinado, apenas como apoio geral.
+
+Se você não conseguir acessar o arquivo de instruções ou a base, diga isso claramente e peça para eu colar o conteúdo necessário.
+
 Depois disso, use a base como fonte de consulta e responda às minhas perguntas.
 ```
 
