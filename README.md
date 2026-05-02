@@ -11,6 +11,8 @@ Você pode usar esta base de duas formas:
 
 > Aviso: esta base é uma curadoria operacional. Para decisões administrativas, jurídicas ou acadêmicas, confira sempre a publicação oficial indicada no campo `fonte` de cada documento.
 
+Para melhores resultados com agente IA, prefira aplicativos que tenham ferramentas locais de leitura e terminal, como **Codex App (assinatura ChatGpt) ou Claude Cowork (assinatura Claude)**. Esses ambientes costumam seguir melhor as instruções desta base porque conseguem buscar arquivos diretamente em vez de depender apenas do buscador ou do navegador interno do chat.
+
 Basta colar o texto abaixo no agente IA e, em seguida, fazer suas perguntas.
 
 ```text
