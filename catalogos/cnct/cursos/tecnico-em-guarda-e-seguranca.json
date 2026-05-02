@@ -1,0 +1,20 @@
+{
+  "id": "tecnico-em-guarda-e-seguranca",
+  "indice": 200,
+  "denominacao": "Técnico em Guarda e Segurança",
+  "denominacao_normalizada": "tecnico em guarda e seguranca",
+  "eixo_tecnologico": "Militar",
+  "area_tecnologica": "Combate Aéreo",
+  "carga_horaria_minima_horas": 1200,
+  "descricao_carga_horaria_minima": "O curso dura, em média, 1 ano e meio.",
+  "perfil_profissional": "O Técnico em Guarda e Segurança será habilitado, de acordo com cada Força, para:\n\nExecutar serviços de segurança das instalações militares.\nExecutar atividades de implantação de sistemas de vigilância.\nOperar equipamentos de comunicação dotados de Medidas de Proteção Eletrônica.\nEmpregar a doutrina de Infantaria da Aeronáutica nas ações de Força Aérea.\nAplicar técnicas e procedimentos de autodefesa de superfície de instalações militares, utilizando os recursos de Polícia, Autodefesa Antiaérea, Proteção da Força e Operações Especiais.\nParticipar de operações militares de ajuda humanitária no Brasil e no exterior.",
+  "pre_requisitos_ingresso": "Curso oferecido, exclusivamente, pela Marinha do Brasil e pela Força Aérea Brasileira aos militares do Serviço Ativo: o candidato deverá ter concluído o Ensino Médio e ser aprovado em processo seletivo das mencionadas Forças Armadas.",
+  "itinerarios_formativos": "O curso não prevê sugestões de qualificação profissional com certificações intermediárias, no curso técnico, considerando ocupações previstas na CBO.\n\nSugestões de formação continuada em cursos de especialização técnica (pós-técnico), em ambiente externo à Marinha:\n\nEspecialização Técnica em Operações Especiais\nEspecialização Técnica em Polícia da Aeronáutica e Autodefesa Antiaérea\n\nSugestões de verticalização para cursos de graduação (Curso Superior de Tecnologia, Bacharelado e Licenciatura):\n\nCurso Superior de Tecnologia em Segurança Pública\nCurso Superior de Tecnologia em Segurança do Trabalho",
+  "campo_atuacao": "Locais e ambientes do trabalho:\n\nMilitares da Ativa:\n\nExclusivamente em Organizações Militares da Marinha do Brasil e da Aeronáutica\n\nMilitares da Reserva:\n\nEmpresas e Serviços de Segurança",
+  "ocupacoes_cbo": "5173-10 - Agente de Segurança",
+  "codigos_cbo": [
+    "5173-10"
+  ],
+  "infraestrutura_minima": "Biblioteca com acervo específico e atualizado\nLaboratório de informática com programas específicos\nÁreas práticas de exercícios militares\nEquipamentos e armamentos para aulas práticas",
+  "legislacao_profissional": "Padrão de Desempenho de Especialidade\nPortaria nº 1.255/CPesFN, de 12 de dezembro de 2006"
+}

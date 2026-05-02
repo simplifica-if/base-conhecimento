@@ -1,0 +1,25 @@
+{
+  "id": "tecnico-em-design-de-joias",
+  "indice": 126,
+  "denominacao": "Técnico em Design de Joias",
+  "denominacao_normalizada": "tecnico em design de joias",
+  "eixo_tecnologico": "Produção Cultural e Design",
+  "area_tecnologica": "Design",
+  "carga_horaria_minima_horas": 800,
+  "descricao_carga_horaria_minima": "O curso dura, em média, 1 ano.\n\nO curso, na modalidade presencial, poderá prever até 20% da sua carga horária total em atividades não presenciais.\n\nO curso poderá ser realizado na modalidade EaD com, no mínimo, 20% de sua carga horária em atividades presenciais, nos termos das normas específicas definidas em cada sistema de ensino.\n\nA instituição, ofertante do curso, poderá desenvolver a carga horária em regime de alternância, com períodos de estudos na escola e outros períodos no campo de atuação/local de trabalho.\n\nAlém da carga horária mínima prevista, o curso poderá ter estágio curricular supervisionado obrigatório, a critério da instituição ofertante.\n\nCaso o curso seja ofertado na modalidade EaD, a carga horária de estágio deverá ser cumprida de forma presencial.",
+  "perfil_profissional": "O Técnico em Design de Joias será habilitado para:\n\nDesenvolver esboços e desenhos de joias.\nUtilizar tendências do mercado joalheiro.\nRealizar estudos volumétricos e executar modelos tridimensionais.\nAplicar aspectos ergonômicos ao projeto.\nUtilizar as técnicas de ourivesaria e de lapidação de gemas.\nElaborar documentação técnica normatizada.\nSupervisionar processos de produção de joias.\nAplicar os conceitos de sustentabilidade ao desenvolvimento de joias.\n\nPara atuação como Técnico em Design de Joias, são fundamentais:\n\nConhecimentos interdisciplinares relacionados aos processos de criação, envolvendo pesquisa, idealização, planejamento,\nexecução técnica, fruição e recepção estética.\nCompetências comunicativas e empreendedoras voltadas à proposição de projetos, ao coletivo, à gestão, à solução de\nproblemas e à resiliência, entre outras competências socioemocionais.",
+  "pre_requisitos_ingresso": "Para ingresso no Curso Técnico Subsequente, o estudante deverá ter concluído o Ensino Médio.\nPara ingresso no Curso Técnico Concomitante, o estudante deverá estar cursando o Ensino Médio.\nPara ingresso no Curso Técnico Integrado ao Ensino Médio, o estudante deverá ter concluído o Ensino Fundamental.\nPara ingresso no Curso Técnico Integrado à Educação de Jovens e Adultos, o estudante deverá ter concluído o Ensino Fundamental.",
+  "itinerarios_formativos": "Sugestões de qualificação profissional com certificações intermediárias, no curso técnico, considerando ocupações previstas na CBO:\n\nArtesão de Biojoias\nCravejador de Joias\nDesenhista de Joias e Bijuterias\nFundidor de Joias\nGravador de Joias\nOperador de Processos de Estamparia para Joias\n\nSugestões de formação continuada em cursos de especialização técnica (pós-técnico):\nEspecialização Técnica em Gemologia\n\nSugestões de verticalização para cursos de graduação (Curso Superior de Tecnologia, Bacharelado e Licenciatura):\n\nCurso Superior de Tecnologia em Design de Produto\nBacharelado em Design Industrial\nBacharelado em Design Gráfico",
+  "campo_atuacao": "Locais e ambientes de trabalho:\n\nEscritórios de Design\nIndústrias Joalheiras\nJoalherias\nProfissional Autônomo",
+  "ocupacoes_cbo": "7911-20 - Artesão Confeccionador de Biojóias e Ecojóias\n3544-15 - Avaliador de Joias\n7510-05 - Cravador de Joias\n7510-05 - Cravejador de Joias\n7510-05 - Engastador (joias)\n7511-15 - Gravador de Joias\n7510-10 - Joalheiro na Confecção de Bijuterias e Joias de Fantasia\n7511-25 - Trabalhador de Confecções de Bijuterias e Joias de Fantasia",
+  "codigos_cbo": [
+    "7911-20",
+    "3544-15",
+    "7510-05",
+    "7511-15",
+    "7510-10",
+    "7511-25"
+  ],
+  "infraestrutura_minima": "Biblioteca com acervo físico ou virtual específico e atualizado\nLaboratório de informática com programas específicos\nLaboratório de modelagem\nLaboratório de ourivesaria",
+  "legislacao_profissional": "Profissão não regulamentada."
+}

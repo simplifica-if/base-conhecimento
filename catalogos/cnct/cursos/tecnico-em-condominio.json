@@ -1,0 +1,20 @@
+{
+  "id": "tecnico-em-condominio",
+  "indice": 77,
+  "denominacao": "Técnico em Condomínio",
+  "denominacao_normalizada": "tecnico em condominio",
+  "eixo_tecnologico": "Gestão e Negócios",
+  "area_tecnologica": "Gerencial",
+  "carga_horaria_minima_horas": 800,
+  "descricao_carga_horaria_minima": "O curso dura, em média, 1 ano.\n\nO curso ofertado, na modalidade presencial, poderá prever até 20% da sua carga horária total em atividades não presenciais.\n\nO curso poderá ser realizado na modalidade EaD com, no mínimo, 20% da carga horária em atividades presenciais, nos termos das normas específicas definidas em cada sistema de ensino.\n\nA instituição, ofertante do curso, poderá desenvolver a carga horária em regime de alternância, com períodos de estudos na escola e outros períodos no campo/local de trabalho.\n\nAlém da carga horária mínima prevista, o curso poderá ter estágio curricular supervisionado obrigatório, a critério da instituição ofertante.\n\nCaso o curso seja ofertado na modalidade EaD, a carga horária de estágio deverá ser cumprida de forma presencial.",
+  "perfil_profissional": "O Técnico em Condomínio será habilitado para:\n\nExecutar atividades administrativas voltadas a recursos humanos, financeiros e de gestão de suprimentos e materiais, de acordo com convenção condominial.\nSupervisionar a conservação e manutenção predial.\nConduzir reuniões e assembleias de condomínios.\nElaborar atas e relatórios de prestação de contas.\nPromover a integração dos condôminos.\n\nPara atuação como Técnico em Condomínio, são fundamentais:\n\nConhecimentos e saberes relacionados aos processos de gestão condominial, de modo a atuar em conformidade com as legislações e diretrizes de órgãos reguladores, como também com as normas de saúde e segurança do trabalho.\nAtuação pautada na construção de relacionamentos positivos, atenção à sustentabilidade, resolução efetiva de conflitos e respeito à diversidade.",
+  "pre_requisitos_ingresso": "Para ingresso no Curso Técnico Subsequente, o estudante deverá ter concluído o Ensino Médio.\nPara ingresso no Curso Técnico Concomitante, o estudante deverá estar cursando o Ensino Médio.\nPara ingresso no Curso Técnico Integrado ao Ensino Médio, o estudante deverá ter concluído o Ensino Fundamental.\nPara ingresso no Curso Técnico Integrado à Educação de Jovens e Adultos, o estudante deverá ter concluído o Ensino Fundamental.",
+  "itinerarios_formativos": "Sugestões de qualificação profissional com certificações intermediárias, no curso técnico, considerando ocupações previstas na CBO:\n\nAuxiliar de Serviços Condominais\n\nSugestões de formação continuada em cursos de especialização técnica (pós-técnico):\n\nEspecialização Técnica em Sustentabilidade\nEspecialização Técnica em Comunicação\n\nSugestões de verticalização para cursos de graduação (Curso Superior de Tecnologia, bacharelado e licenciatura):\n\nCurso Superior de Tecnologia em Processos Gerenciais\nBacharelado em Administração\nBacharelado em Direito",
+  "campo_atuacao": "Locais e ambientes de trabalho:\n\nEmpresas Administradoras de Condomínio\nCondomínios com Administração Própria",
+  "ocupacoes_cbo": "5101-10 - Administrador de Edifícios",
+  "codigos_cbo": [
+    "5101-10"
+  ],
+  "infraestrutura_minima": "Biblioteca com acervo físico ou virtual específico e atualizado\nLaboratório de informática com programas específicos",
+  "legislacao_profissional": "Profissão não regulamentada."
+}

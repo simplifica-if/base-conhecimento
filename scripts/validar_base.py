@@ -10,9 +10,18 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 from base_utils import (
+    CATALOGOS_MANIFEST_PATH,
+    CATALOGOS_MANIFEST_SCHEMA_PATH,
+    CATALOGOS_ROOT,
     CAMPI_INDEX_PATH,
     CAMPI_INDEX_SCHEMA_PATH,
     CAMPUS_SCHEMA_PATH,
+    CNCT_CURSO_SCHEMA_PATH,
+    CNCT_CURSOS_ROOT,
+    CNCT_INDEX_PATH,
+    CNCT_INDEX_SCHEMA_PATH,
+    CNCT_MANIFEST_PATH,
+    CNCT_MANIFEST_SCHEMA_PATH,
     INSTITUCIONAL_MANIFEST_PATH,
     INSTITUCIONAL_MANIFEST_SCHEMA_PATH,
     INSTITUCIONAL_ROOT,
@@ -32,6 +41,24 @@ from base_utils import (
 LOCAL_PATTERNS = ["/" + "Users/", "Down" + "loads/", "file" + "://"]
 SLUG_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+CNCT_COURSE_FIELDS = [
+    "id",
+    "indice",
+    "denominacao",
+    "denominacao_normalizada",
+    "eixo_tecnologico",
+    "area_tecnologica",
+    "carga_horaria_minima_horas",
+    "descricao_carga_horaria_minima",
+    "perfil_profissional",
+    "pre_requisitos_ingresso",
+    "itinerarios_formativos",
+    "campo_atuacao",
+    "ocupacoes_cbo",
+    "codigos_cbo",
+    "infraestrutura_minima",
+    "legislacao_profissional",
+]
 
 
 def validate_links(path: Path, text: str) -> list[str]:
@@ -442,6 +469,167 @@ def validate_institucional() -> list[str]:
     return errors
 
 
+def validate_cnct_course_file(path: Path, index_item: dict[str, object]) -> list[str]:
+    errors: list[str] = []
+    data, json_errors = load_json(path, f"curso CNCT {relative(path)}")
+    errors.extend(json_errors)
+    if errors:
+        return errors
+    if not isinstance(data, dict):
+        return [f"{relative(path)} deve conter um objeto JSON"]
+    errors.extend(validate_with_schema(data, CNCT_CURSO_SCHEMA_PATH, relative(path)))
+
+    course_id = data.get("id")
+    if not isinstance(course_id, str) or not SLUG_RE.fullmatch(course_id):
+        errors.append(f"{relative(path)}: id deve ser slug ASCII minúsculo")
+    elif path.name != f"{course_id}.json":
+        errors.append(f"{relative(path)}: nome do arquivo diverge do id")
+
+    for field in [
+        "id",
+        "denominacao",
+        "denominacao_normalizada",
+        "eixo_tecnologico",
+        "area_tecnologica",
+        "carga_horaria_minima_horas",
+        "codigos_cbo",
+    ]:
+        if data.get(field) != index_item.get(field):
+            errors.append(f"{relative(path)}: campo {field} diverge do index.json")
+
+    codigos_cbo = data.get("codigos_cbo")
+    if isinstance(codigos_cbo, list):
+        seen_codes: set[str] = set()
+        for codigo in codigos_cbo:
+            if not isinstance(codigo, str):
+                continue
+            if codigo in seen_codes:
+                errors.append(f"{relative(path)}: codigos_cbo duplicado: {codigo}")
+            seen_codes.add(codigo)
+            if codigo not in str(data.get("ocupacoes_cbo", "")):
+                errors.append(f"{relative(path)}: codigos_cbo não aparece em ocupacoes_cbo: {codigo}")
+
+    return errors
+
+
+def validate_catalogos() -> list[str]:
+    errors: list[str] = []
+    catalogos_manifest, manifest_errors = load_json(CATALOGOS_MANIFEST_PATH, "catalogos_manifest.json")
+    errors.extend(manifest_errors)
+    cnct_manifest, cnct_manifest_errors = load_json(CNCT_MANIFEST_PATH, "manifesto CNCT")
+    errors.extend(cnct_manifest_errors)
+    cnct_index, cnct_index_errors = load_json(CNCT_INDEX_PATH, "índice CNCT")
+    errors.extend(cnct_index_errors)
+    if errors:
+        return errors
+
+    if not isinstance(catalogos_manifest, dict):
+        errors.append("catalogos_manifest.json deve conter um objeto JSON")
+    else:
+        errors.extend(validate_with_schema(catalogos_manifest, CATALOGOS_MANIFEST_SCHEMA_PATH, "catalogos_manifest.json"))
+        catalogos = catalogos_manifest.get("catalogos")
+        if not isinstance(catalogos, list) or not catalogos:
+            errors.append("catalogos_manifest.json: catalogos deve ser lista não vazia")
+        else:
+            cnct_collection = next((item for item in catalogos if isinstance(item, dict) and item.get("id") == "cnct"), None)
+            if cnct_collection is None:
+                errors.append("catalogos_manifest.json: catálogo cnct ausente")
+            else:
+                if cnct_collection.get("path") != relative(CNCT_MANIFEST_PATH):
+                    errors.append("catalogos_manifest.json: path do catálogo cnct diverge do manifesto CNCT")
+
+    if not isinstance(cnct_manifest, dict):
+        errors.append(f"{relative(CNCT_MANIFEST_PATH)} deve conter um objeto JSON")
+    else:
+        errors.extend(validate_with_schema(cnct_manifest, CNCT_MANIFEST_SCHEMA_PATH, relative(CNCT_MANIFEST_PATH)))
+        if cnct_manifest.get("index_path") != relative(CNCT_INDEX_PATH):
+            errors.append(f"{relative(CNCT_MANIFEST_PATH)}: index_path diverge do índice CNCT")
+        if cnct_manifest.get("campos_curso") != CNCT_COURSE_FIELDS:
+            errors.append(f"{relative(CNCT_MANIFEST_PATH)}: campos_curso diverge do contrato esperado")
+        for field in ["fonte_url", "atos_normativos_url", "catalogo_pdf_url"]:
+            errors.extend(validate_https_url(cnct_manifest.get(field), f"{relative(CNCT_MANIFEST_PATH)}: {field}"))
+
+    if not isinstance(cnct_index, dict):
+        errors.append(f"{relative(CNCT_INDEX_PATH)} deve conter um objeto JSON")
+        return errors
+    errors.extend(validate_with_schema(cnct_index, CNCT_INDEX_SCHEMA_PATH, relative(CNCT_INDEX_PATH)))
+
+    items = cnct_index.get("items")
+    if not isinstance(items, list) or not items:
+        errors.append(f"{relative(CNCT_INDEX_PATH)}: items deve ser lista não vazia")
+        return errors
+
+    if isinstance(catalogos_manifest, dict):
+        catalogos = catalogos_manifest.get("catalogos")
+        if isinstance(catalogos, list):
+            cnct_collection = next((item for item in catalogos if isinstance(item, dict) and item.get("id") == "cnct"), None)
+            if isinstance(cnct_collection, dict) and cnct_collection.get("total_itens") != len(items):
+                errors.append("catalogos_manifest.json: total_itens do CNCT diverge do index.json")
+    if isinstance(cnct_manifest, dict) and cnct_manifest.get("total_cursos") != len(items):
+        errors.append(f"{relative(CNCT_MANIFEST_PATH)}: total_cursos diverge do index.json")
+    if cnct_index.get("total_cursos") != len(items):
+        errors.append(f"{relative(CNCT_INDEX_PATH)}: total_cursos diverge de items")
+
+    seen_ids: set[str] = set()
+    seen_indices: set[int] = set()
+    index_paths: set[str] = set()
+    for item in items:
+        if not isinstance(item, dict):
+            errors.append(f"{relative(CNCT_INDEX_PATH)}: item deve ser objeto")
+            continue
+        course_id = item.get("id")
+        path_value = item.get("path")
+        if not isinstance(course_id, str) or not SLUG_RE.fullmatch(course_id):
+            errors.append(f"{relative(CNCT_INDEX_PATH)}: id inválido: {course_id}")
+        elif course_id in seen_ids:
+            errors.append(f"{relative(CNCT_INDEX_PATH)}: id duplicado: {course_id}")
+        else:
+            seen_ids.add(course_id)
+        if not isinstance(path_value, str):
+            errors.append(f"{relative(CNCT_INDEX_PATH)}: path ausente em {course_id}")
+            continue
+        expected_path = f"catalogos/cnct/cursos/{course_id}.json"
+        if path_value != expected_path:
+            errors.append(f"{relative(CNCT_INDEX_PATH)}: path inválido em {course_id}: {path_value}")
+            continue
+        if path_value in index_paths:
+            errors.append(f"{relative(CNCT_INDEX_PATH)}: path duplicado: {path_value}")
+        index_paths.add(path_value)
+
+        course_errors_before = len(errors)
+        errors.extend(validate_cnct_course_file(ROOT / path_value, item))
+        if len(errors) == course_errors_before:
+            course_data, _json_errors = load_json(ROOT / path_value, f"curso CNCT {path_value}")
+            if isinstance(course_data, dict):
+                indice = course_data.get("indice")
+                if isinstance(indice, int):
+                    if indice in seen_indices:
+                        errors.append(f"{path_value}: indice duplicado: {indice}")
+                    seen_indices.add(indice)
+
+    course_paths = {relative(path) for path in CNCT_CURSOS_ROOT.glob("*.json")}
+    if index_paths != course_paths:
+        errors.append(
+            "index.json não cobre exatamente os arquivos de cursos CNCT: "
+            f"index={sorted(index_paths)} arquivos={sorted(course_paths)}"
+        )
+
+    expected_catalog_files = {
+        relative(CNCT_MANIFEST_PATH),
+        relative(CNCT_INDEX_PATH),
+        *course_paths,
+    }
+    actual_catalog_files = {relative(path) for path in CATALOGOS_ROOT.rglob("*.json")}
+    actual_catalog_files.discard("catalogos_manifest.json")
+    if actual_catalog_files != expected_catalog_files:
+        errors.append(
+            "catalogos/ contém arquivos JSON fora do contrato esperado: "
+            f"esperado={sorted(expected_catalog_files)} arquivos={sorted(actual_catalog_files)}"
+        )
+
+    return errors
+
+
 def main() -> int:
     errors: list[str] = []
     if any(ROOT.rglob(".DS_Store")):
@@ -469,6 +657,7 @@ def main() -> int:
             errors.append(f"README.md contém padrão local proibido: {pattern}")
     errors.extend(validate_links(README_PATH, readme_text))
     errors.extend(validate_institucional())
+    errors.extend(validate_catalogos())
 
     for path in sorted(NORMAS_ROOT.rglob("*.md")):
         errors.extend(validate_markdown(path))
@@ -486,7 +675,7 @@ def main() -> int:
         for error in errors:
             print(f"ERRO: {error}", file=sys.stderr)
         return 1
-    print(f"Base válida: {len(manifest)} normas publicadas e metadados institucionais conferidos.")
+    print(f"Base válida: {len(manifest)} normas publicadas, metadados institucionais e catálogos conferidos.")
     return 0
 
 

@@ -1,0 +1,22 @@
+{
+  "id": "tecnico-em-desenho-militar",
+  "indice": 195,
+  "denominacao": "Técnico em Desenho Militar",
+  "denominacao_normalizada": "tecnico em desenho militar",
+  "eixo_tecnologico": "Militar",
+  "area_tecnologica": "Combate Aéreo",
+  "carga_horaria_minima_horas": 1200,
+  "descricao_carga_horaria_minima": "O curso dura, em média, 1 ano e meio.",
+  "perfil_profissional": "O Técnico em Desenho Militar será habilitado para:\n\nExecutar e interpretar desenhos de projetos na área de construção civil, de arquitetura, de infraestrutura de aeronáutica, de pistas, de máquinas e de equipamentos, de viaturas e de peças.\nConfeccionar e interpretar desenhos e projetos de levantamentos planimétricos e altimétricos de terrenos, baseados em rumos, azimutes e cadernetas topográficas.\nElaborar desenhos geométricos, perspectivos e de gráficos estatísticos em geral.\nUtilizar softwares apropriados para desenho, com o uso da computação gráfica.\nCriar, confeccionar e interpretar trabalhos artísticos e de ilustração diversa, convencional e digital.",
+  "pre_requisitos_ingresso": "Curso oferecido pela Força Aérea Brasileira: o candidato deverá ter concluído o Ensino Médio e ser aprovado em processo seletivo daquela Força Armada.",
+  "itinerarios_formativos": "O curso não prevê sugestões de qualificação profissional com certificações intermediárias, no curso técnico, considerando ocupações previstas na CBO.\n\nO curso não prevê Sugestões de formação continuada em cursos de especialização técnica (pós-técnico).\n\nSugestões de verticalização para cursos de graduação (Curso Superior de Tecnologia, Bacharelado e Licenciatura):\n\nCurso Superior de Tecnologia em Construção de Edifícios\nBacharelado em Engenharia Civil\nBacharelado em Engenharia Mecânica\nBacharelado em Arquitetura e Urbanismo",
+  "campo_atuacao": "Locais e ambientes de trabalho:\n\nMilitares da Ativa:\n\nExclusivamente em Organizações Militares da Aeronáutica\n\nMilitares da Reserva e Outros Profissionais:\n\nEmpresas de Engenharia e de Arquitetura Públicas e Privadas",
+  "ocupacoes_cbo": "3185-10 - Desenhista Projetista de Construção Civil\n3181-15 - Desenhista Técnico (Construção Civil)\n3180-15 - Desenhista Detalhista",
+  "codigos_cbo": [
+    "3185-10",
+    "3181-15",
+    "3180-15"
+  ],
+  "infraestrutura_minima": "Biblioteca com acervo específico e atualizado\nLaboratório de desenho\nLaboratório de informática com softwares atualizados",
+  "legislacao_profissional": "Padrão de Desempenho de Especialidade"
+}

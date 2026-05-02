@@ -1,0 +1,105 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/simplifica-if/base-conhecimento/main/schemas/cnct_manifest.schema.json",
+  "title": "Manifesto do CNCT",
+  "type": "object",
+  "required": [
+    "id",
+    "title",
+    "sigla",
+    "tipo",
+    "tipo_item",
+    "schema_version",
+    "edicao",
+    "atualizacao_referencia",
+    "atualizado_em",
+    "fonte",
+    "fonte_url",
+    "atos_normativos_url",
+    "catalogo_pdf_url",
+    "csv_origem_sha256",
+    "total_cursos",
+    "index_path",
+    "campos_curso",
+    "uso_recomendado"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "const": "cnct"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "sigla": {
+      "const": "CNCT"
+    },
+    "tipo": {
+      "const": "catalogo_nacional_cursos_tecnicos"
+    },
+    "tipo_item": {
+      "const": "curso_tecnico_cnct"
+    },
+    "schema_version": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "edicao": {
+      "type": "string",
+      "minLength": 1
+    },
+    "atualizacao_referencia": {
+      "type": "string",
+      "minLength": 1
+    },
+    "atualizado_em": {
+      "type": "string",
+      "format": "date"
+    },
+    "fonte": {
+      "type": "string",
+      "minLength": 1
+    },
+    "fonte_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "atos_normativos_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "catalogo_pdf_url": {
+      "type": "string",
+      "format": "uri"
+    },
+    "csv_origem_sha256": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "total_cursos": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "index_path": {
+      "type": "string",
+      "pattern": "^catalogos/cnct/index\\.json$"
+    },
+    "campos_curso": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "uso_recomendado": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    }
+  }
+}

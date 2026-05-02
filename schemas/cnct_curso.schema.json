@@ -1,0 +1,94 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/simplifica-if/base-conhecimento/main/schemas/cnct_curso.schema.json",
+  "title": "Curso CNCT",
+  "type": "object",
+  "required": [
+    "id",
+    "indice",
+    "denominacao",
+    "denominacao_normalizada",
+    "eixo_tecnologico",
+    "area_tecnologica",
+    "carga_horaria_minima_horas",
+    "descricao_carga_horaria_minima",
+    "perfil_profissional",
+    "pre_requisitos_ingresso",
+    "itinerarios_formativos",
+    "campo_atuacao",
+    "ocupacoes_cbo",
+    "codigos_cbo",
+    "infraestrutura_minima",
+    "legislacao_profissional"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "indice": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "denominacao": {
+      "type": "string",
+      "minLength": 1
+    },
+    "denominacao_normalizada": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?: [a-z0-9]+)*$"
+    },
+    "eixo_tecnologico": {
+      "type": "string",
+      "minLength": 1
+    },
+    "area_tecnologica": {
+      "type": "string",
+      "minLength": 1
+    },
+    "carga_horaria_minima_horas": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "descricao_carga_horaria_minima": {
+      "type": "string",
+      "minLength": 1
+    },
+    "perfil_profissional": {
+      "type": "string",
+      "minLength": 1
+    },
+    "pre_requisitos_ingresso": {
+      "type": "string",
+      "minLength": 1
+    },
+    "itinerarios_formativos": {
+      "type": "string",
+      "minLength": 1
+    },
+    "campo_atuacao": {
+      "type": "string",
+      "minLength": 1
+    },
+    "ocupacoes_cbo": {
+      "type": "string",
+      "minLength": 1
+    },
+    "codigos_cbo": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "pattern": "^\\d{4}(?:-\\d{2})?$"
+      }
+    },
+    "infraestrutura_minima": {
+      "type": "string",
+      "minLength": 1
+    },
+    "legislacao_profissional": {
+      "type": "string",
+      "minLength": 1
+    }
+  }
+}

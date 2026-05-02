@@ -1,0 +1,20 @@
+{
+  "id": "tecnico-em-equipamentos-de-voo",
+  "indice": 197,
+  "denominacao": "Técnico em Equipamentos de Voo",
+  "denominacao_normalizada": "tecnico em equipamentos de voo",
+  "eixo_tecnologico": "Militar",
+  "area_tecnologica": "Combate Aéreo",
+  "carga_horaria_minima_horas": 1200,
+  "descricao_carga_horaria_minima": "O curso dura, em média, 1 ano e meio.",
+  "perfil_profissional": "O Técnico em Equipamento de Voo será habilitado para:\n\nExecutar e inspecionar serviços técnicos de manutenção em equipamentos de segurança, de salvamento e de sobrevivência.\nPreparar cargas para lançamentos aéreos.\nExecutar a dobragem, manutenção e inspeção dos diversos tipos de paraquedas.\nManusear, transportar e armazenar equipamentos de segurança, salvamento e sobrevivência dentro das regras de segurança.",
+  "pre_requisitos_ingresso": "Curso oferecido pela Força Aérea Brasileira: o candidato deverá ter concluído o Ensino Médio e ser aprovado em processo seletivo daquela Força Armada.",
+  "itinerarios_formativos": "O curso não prevê sugestões de qualificação profissional com certificações intermediárias, no curso técnico, considerando ocupações previstas na CBO.\n\nSugestões de formação continuada em cursos de especialização técnica (pós-técnico):\n\nEspecialização Técnica em Atualização Técnica de Mantenedor\nEspecialização Técnica em Atualização Técnica em Equipamentos de Segurança, Sobrevivência e Salvamento (SSS)\nEspecialização Técnica em Inspetor em Equipamentos de Segurança, Sobrevivência e Salvamento (SSS)\nCursos de Familiarização nas Diversas Aeronaves da FAB\n\nSugestões de verticalização para cursos de graduação (Curso Superior de Tecnologia, Bacharelado e Licenciatura):\n\nCurso Superior de Tecnologia em Gestão de Segurança Pública\nCurso Superior de Tecnologia em Gestão de Segurança Privada\nBacharelado em Engenharia de Segurança do Trabalho",
+  "campo_atuacao": "Locais e ambientes de trabalho:\n\nMilitares da Ativa:\n\nExclusivamente em Organizações Militares da Aeronáutica\n\nMilitares da Reserva e Outros Profissionais:\n\nEmpresas de Aviação Civil",
+  "ocupacoes_cbo": "5173-10 - Agente de Segurança",
+  "codigos_cbo": [
+    "5173-10"
+  ],
+  "infraestrutura_minima": "Biblioteca e videoteca com acervo específico e atualizado\nLaboratório de informática com programas específicos\nLaboratório de eletricidade e eletrônica\nLaboratório de instrumento de aeronaves\nLaboratório de medidas e componentes eletrônicos\nLaboratório de sistemas microprocessados e microcontrolados\nLaboratório de simuladores de aeronave operacional\nFerramentaria para aulas práticas\nTorre de secagem de paraquedas",
+  "legislacao_profissional": "Padrão de Desempenho de Especialidade"
+}

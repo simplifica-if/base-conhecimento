@@ -1,0 +1,18 @@
+{
+  "id": "tecnico-em-operacao-de-radar",
+  "indice": 212,
+  "denominacao": "Técnico em Operação de Radar",
+  "denominacao_normalizada": "tecnico em operacao de radar",
+  "eixo_tecnologico": "Militar",
+  "area_tecnologica": "Combate Naval",
+  "carga_horaria_minima_horas": 1200,
+  "descricao_carga_horaria_minima": "O curso dura, em média, 1 ano e meio.",
+  "perfil_profissional": "O Técnico em Operação de Radar será habilitado para:\n\nOperar o sistema de radares.\nDeterminar a posição do navio em cartas náuticas pelo método de navegação.\nUtilizar equipamentos de ecobatímetro, radiogoniômetro, agulha magnética, agulha giroscópica e fac-simile meteorológico.\nExecutar correções em cartas náuticas e publicações de auxílio à navegação.\nOperar equipamentos de comunicação entre navios no mar.\nEmpregar as regras internacionais de navegação com vistas à prevenção de acidentes.\nUtilizar, também, os procedimentos de controle de avarias e de suporte básico à vida.",
+  "pre_requisitos_ingresso": "Curso oferecido, exclusivamente, pela Marinha do Brasil aos militares do Serviço Ativo: o candidato deverá ter concluído o Ensino Médio e ser aprovado em processo seletivo da mencionada Força Armada.",
+  "itinerarios_formativos": "O curso não prevê possibilidade de qualificação profissional com certificações intermediárias, no curso técnico, considerando ocupações previstas na CBO.\n\nO curso não prevê possibilidade de formação continuada em cursos de especialização técnica (pós-técnico).\n\nO curso não prevê possibilidade de verticalização para cursos de graduação (Curso Superior de Tecnologia, Bacharelado e Licenciatura) no âmbito da Marinha.",
+  "campo_atuacao": "Locais e ambientes do trabalho:\n\nMilitares da Ativa:\n\nExclusivamente em Organizações Militares da Marinha do Brasil\n\nMilitares da Reserva:\n\nEmpresas de Navegação e Plataformas Continentais",
+  "ocupacoes_cbo": "Ocupação ainda não classificada.",
+  "codigos_cbo": [],
+  "infraestrutura_minima": "Biblioteca e videoteca com acervo específico e atualizado\nLaboratório de informática com programas atualizados\nSimuladores",
+  "legislacao_profissional": "Catálogo de Referenciais de Competências Profissionais (CR) da Marinha do Brasil"
+}

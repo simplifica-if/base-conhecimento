@@ -1,0 +1,18 @@
+{
+  "id": "tecnico-em-mergulho",
+  "indice": 211,
+  "denominacao": "Técnico em Mergulho",
+  "denominacao_normalizada": "tecnico em mergulho",
+  "eixo_tecnologico": "Militar",
+  "area_tecnologica": "Combate Naval",
+  "carga_horaria_minima_horas": 1200,
+  "descricao_carga_horaria_minima": "O curso dura, em média, 1 ano e meio.",
+  "perfil_profissional": "O Técnico em Mergulho será habilitado para:\n\nExecutar técnicas de mergulho.\nSupervisionar a utilização de câmara de recompressão.\nInspecionar obras vivas de navios.\nExecutar a manutenção planejada dos equipamentos de mergulho.\nOperar equipamento de fotografia e filmagem submarina.\nUtilizar os equipamentos de corte e solda submarina.\nRealizar navegação costeira e estimada.\nExecutar atividades de socorro e salvamento.\nParticipar de resgate de submarino.\nManipular cargas explosivas submersas.\nOperar os sistemas de complexo hiperbárico e de instalações de mergulho.\nPlanejar o consumo de gases e demais consumíveis utilizados no mergulho profundo.",
+  "pre_requisitos_ingresso": "Curso oferecido, exclusivamente, pela Marinha do Brasil aos militares do Serviço Ativo: o candidato deverá ter concluído o Ensino Médio e ser aprovado em processo seletivo da mencionada Força Armada.",
+  "itinerarios_formativos": "O curso não prevê possibilidade de qualificação profissional com certificações intermediárias, no curso técnico, considerando ocupações previstas na CBO.\n\nO curso não prevê possibilidade de formação continuada em cursos de especialização técnica (pós-técnico).\n\nO curso não prevê possibilidade de verticalização para cursos de graduação (Curso Superior de Tecnologia, Bacharelado e Licenciatura) no âmbito da Marinha.",
+  "campo_atuacao": "Locais e ambientes do trabalho:\n\nMilitares da Ativa:\n\nExclusivamente em Organizações Militares da Marinha do Brasil\n\nMilitares da Reserva:\n\nPlataformas de Petróleo\nEstaleiros\nNavios de Mergulho\nEmpresa de Offshore",
+  "ocupacoes_cbo": "Ocupação ainda não classificada.",
+  "codigos_cbo": [],
+  "infraestrutura_minima": "Biblioteca e videoteca com acervo específico e atualizado\nLaboratório de informática com programas específicos\nEmbarcações de apoio ao mergulho\nEquipamentos de mergulho\nInstalações hiperbáricas\nPiscina\nSimulador de salvamento submarino\nTanques de mergulho",
+  "legislacao_profissional": "Catálogo de Referenciais de Competências Profissionais (CR) da Marinha do Brasil\nNORMAM-15: Normas da Autoridade Marítima para Atividades Subaquáticas\nComOpNav-702: Normas para a Atividade Especial de Mergulho"
+}

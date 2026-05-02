@@ -1,0 +1,22 @@
+{
+  "id": "tecnico-em-mecanica-de-aeronaves",
+  "indice": 203,
+  "denominacao": "Técnico em Mecânica de Aeronaves",
+  "denominacao_normalizada": "tecnico em mecanica de aeronaves",
+  "eixo_tecnologico": "Militar",
+  "area_tecnologica": "Combate Aéreo",
+  "carga_horaria_minima_horas": 1200,
+  "descricao_carga_horaria_minima": "O curso dura, em média, 1 ano e meio.",
+  "perfil_profissional": "O Técnico em Mecânica de Aeronaves será habilitado para:\n\nAtuar na manutenção de aeronaves e em seus equipamentos.\nExecutar inspeções em motores de aviões e helicópteros e nos seguintes sistemas: hélice, hidráulica, pneumática, combustível, comandos de voo em aviões e helicópteros, radiocomunicação, radionavegação e combate à corrosão, conforme especificações e normas técnicas.\nInterpretar manuais técnicos das diferentes aeronaves e equipamentos.\nAtuar como mecânico de voo.\nExercer tarefas alinhadas às atividades de estrutura e pintura de aeronaves e de eletricidade e instrumentos aeronáuticos.",
+  "pre_requisitos_ingresso": "Curso oferecido pela Força Aérea Brasileira: o candidato deverá ter concluído o Ensino Médio e ser aprovado em processo seletivo daquela Força Armada.",
+  "itinerarios_formativos": "O curso não prevê sugestões de qualificação profissional com certificações intermediárias, no curso técnico, considerando ocupações previstas na CBO.\n\nSugestões de formação continuada em cursos de especialização técnica (pós-técnico):\n\nEspecialização Técnica em Elevação de Nível de Mantenedor\nEspecialização Técnica em Atualização de Mantenedores\nEspecialização Técnica em Inspetor de Manutenção Aeronáutica\n\nSugestões de verticalização para cursos de graduação (Curso Superior de Tecnologia, Bacharelado e Licenciatura):\n\nCurso Superior de Tecnologia em Gestão de Manutenção Aeronáutica\nBacharelado em Engenharia Aeronáutica\nBacharelado em Engenharia Elétrica\nBacharelado em Ciências Aeronáuticas",
+  "campo_atuacao": "Locais e ambientes de trabalho:\n\nMilitares da Ativa:\n\nSetores de Manutenção de Aeronaves de Parques de Material Aeronáutico\nDivisões e Esquadrões de Suprimento e Manutenção de Bases Aéreas\nEsquadrões de Voo\n\nMilitares da Reserva e Outros Profissionais:\n\nEmpresas Aéreas e Oficinas de Manutenção Aeronáutica Homologadas pela ANAC\nAeroportos e Navios com Plataformas de Voo",
+  "ocupacoes_cbo": "3143-10 - Técnico Mecânico (Aeronaves)\n9531-05 - Eletricista de Instalações (Aeronaves)\n9141-05 - Mecânico de Manutenção de Aeronaves",
+  "codigos_cbo": [
+    "3143-10",
+    "9531-05",
+    "9141-05"
+  ],
+  "infraestrutura_minima": "Biblioteca e videoteca com acervo específico e atualizado\nLaboratório de informática com programas específicos",
+  "legislacao_profissional": "Padrão de Desempenho de Especialidade"
+}

@@ -1,0 +1,20 @@
+{
+  "id": "tecnico-em-bombeiro-aeronautico",
+  "indice": 192,
+  "denominacao": "Técnico em Bombeiro Aeronáutico",
+  "denominacao_normalizada": "tecnico em bombeiro aeronautico",
+  "eixo_tecnologico": "Militar",
+  "area_tecnologica": "Combate Aéreo",
+  "carga_horaria_minima_horas": 1200,
+  "descricao_carga_horaria_minima": "O curso dura, em média, 1 ano e meio.",
+  "perfil_profissional": "O Técnico em Bombeiro Aeronáutico será habilitado para:\n\nExecutar atividades operacionais de prevenção, salvamento e combate a incêndio em aeródromos, centro de lançamento de foguetes e edificações.\nUtilizar técnicas de aplicação de agentes extintores.\nGerenciar e comandar as equipes de bombeiros e outros profissionais nas situações de emergência, de acordo com os padrões estabelecidos nas legislações nacionais e internacionais específicas.\nExecutar os procedimentos aplicáveis a ocorrências com produtos perigosos.\nAtuar na formação de bombeiros e na formação de brigadas de incêndio.\nIdentificar as características das aeronaves militares e civis.\nElaborar planos de prevenção, salvamento e combate a incêndio.\nAtuar nas inspeções técnicas de proteção contra incêndio e controle de estoques de materiais.\nExecutar os procedimentos de atendimento Pré-Hospitalar (APH), de salvamento em altura e em ambientes confinados.",
+  "pre_requisitos_ingresso": "Curso oferecido pela Força Aérea Brasileira: o candidato deverá ter concluído o Ensino Médio e ser aprovado em processo seletivo daquela Força Armada.",
+  "itinerarios_formativos": "O curso não prevê sugestões de qualificação profissional com certificações intermediárias, no curso técnico, considerando ocupações previstas na CBO.\nO curso não prevê sugestões de formação continuada em cursos de especialização técnica (pós-técnico).\nO curso não prevê Sugestões de verticalização para cursos de graduação (Curso Superior de Tecnologia, Bacharelado e Licenciatura).",
+  "campo_atuacao": "Locais e ambientes de trabalho:\n\nMilitares da Ativa:\n\nExclusivamente em Organizações da Aeronáutica\n\nMilitares da Reserva e Outros Profissionais:\n\nAeródromos Civis\nEmpresas Prestadoras de Serviço de Prevenção, Salvamento e Combate a Incêndio",
+  "ocupacoes_cbo": "5171-05 - Bombeiro de Aeródromo",
+  "codigos_cbo": [
+    "5171-05"
+  ],
+  "infraestrutura_minima": "Biblioteca e videoteca com acervo específico e atualizado\nLaboratório de informática com programas específicos\nLaboratório de simuladores de aeronaves padrão CCI (carro contraincêndio) para treinamento de salvamento e combate a incêndio padrão OACI (organização da aviação civil internacional)\nLaboratório específico de salvamento e combate a incêndio\nCentro de treinamento",
+  "legislacao_profissional": "Padrão de Desempenho de Especialidade\nResolução Anac nº 279, de 10 de julho de 2013, e atualizações subsequentes"
+}

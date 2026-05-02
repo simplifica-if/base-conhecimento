@@ -1,0 +1,23 @@
+{
+  "id": "tecnico-em-comercio-exterior",
+  "indice": 71,
+  "denominacao": "Técnico em Comércio Exterior",
+  "denominacao_normalizada": "tecnico em comercio exterior",
+  "eixo_tecnologico": "Gestão e Negócios",
+  "area_tecnologica": "Comercial",
+  "carga_horaria_minima_horas": 800,
+  "descricao_carga_horaria_minima": "O curso dura, em média, 1 ano.\n\nO curso ofertado, na modalidade presencial, poderá prever até 20% da sua carga horária total em atividades não presenciais.\n\nO curso poderá ser realizado na modalidade EaD com, no mínimo, 20% da carga horária em atividades presenciais, nos termos das normas específicas definidas em cada sistema de ensino.\n\nA instituição, ofertante do curso, poderá desenvolver a carga horária em regime de alternância, com períodos de estudos na escola e outros períodos no campo/local de trabalho.\n\nAlém da carga horária mínima prevista, o curso poderá ter estágio curricular supervisionado obrigatório, a critério da instituição ofertante.\n\nCaso o curso seja ofertado na modalidade EaD, a carga horária de estágio será cumprida de forma presencial.",
+  "perfil_profissional": "O Técnico em Comércio Exterior será habilitado para:\n\nPrestar apoio a análises de mercado por intermédio da aplicação de regras e políticas cambiais específicas de países envolvidos nas negociações.\nExecutar e controlar atividades inerentes ao processo de exportação e importação.\nCumprir os trâmites aduaneiros em operações de importação e exportação.\nElaborar cálculos de custos, preços e tributos.\nUtilizar canais informatizados de órgãos reguladores, como Receita Federal, Siscomex e Inmetro.\nExecutar procedimentos de transporte, armazenamento e logística internacional.\n\nPara atuação como Técnico em Comércio Exterior, são fundamentais:\n\nConhecimentos e saberes relacionados à área de exportação e importação, com atuação em conformidade com as legislações e diretrizes de conduta, como também com as normas de saúde e segurança do trabalho, pautada em ações empreendedoras e inovadoras, com foco em geração de novas oportunidades de negócio internacionais.\nAtuação com base na construção de relacionamentos positivos, respeito à diversidade, atenção à sustentabilidade, trabalho em equipe e resolução efetiva de conflitos.",
+  "pre_requisitos_ingresso": "Para ingresso no Curso Técnico Subsequente, o estudante deverá ter concluído o Ensino Médio.\nPara ingresso no Curso Técnico Concomitante, o estudante deverá estar cursando o Ensino Médio.\nPara ingresso no Curso Técnico Integrado ao Ensino Médio, o estudante deverá ter concluído o Ensino Fundamental.\nPara ingresso no Curso Técnico Integrado à Educação de Jovens e Adultos, o estudante deverá ter concluído o Ensino Fundamental.",
+  "itinerarios_formativos": "Sugestões de qualificação profissional com certificações intermediárias, no curso técnico, considerando ocupações previstas na CBO:\n\nAssistente de Despachante Aduaneiro\nAuxiliar de Serviços em Comércio Exterior\nAuxiliar Financeiro\nAuxiliar de Serviços de Importação e Exportação\nComprador\nRepresentante Comercial\nAssistente de Logística\nOperador de Teleatendimento\nPromotor de Vendas\n\nSugestões de formação continuada em cursos de especialização técnica (pós-técnico):\n\nEspecialização Técnica em Logística Multimodal\nEspecialização Técnica em Legislação Aduaneira\nEspecialização Técnica em Legislação de Comércio Internacional\n\nSugestões de verticalização para cursos de graduação (Curso Superior de Tecnologia, bacharelado e licenciatura):\n\nCurso Superior de Tecnologia em Comércio Exterior\nBacharelado em Negócios Internacionais\nBacharelado em Relações Internacionais\nBacharelado em Comércio Exterior",
+  "campo_atuacao": "Locais e ambientes de trabalho:\n\nIndústrias e/ou Comércios em Geral\nPrestadores de Serviços",
+  "ocupacoes_cbo": "3513-10 - Técnico em Administração de Comércio Exterior\n3543-05 - Analista de Exportação e Importação\n3421-05 - Analista de Transporte em Comércio Exterior\n3422-10 - Despachante Aduaneiro",
+  "codigos_cbo": [
+    "3513-10",
+    "3543-05",
+    "3421-05",
+    "3422-10"
+  ],
+  "infraestrutura_minima": "Biblioteca com acervo físico ou virtual específico e atualizado\nLaboratório de informática com programas específicos",
+  "legislacao_profissional": "Profissão não regulamentada."
+}

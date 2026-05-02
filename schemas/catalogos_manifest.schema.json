@@ -1,0 +1,74 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/simplifica-if/base-conhecimento/main/schemas/catalogos_manifest.schema.json",
+  "title": "Manifesto de catálogos estruturados",
+  "type": "object",
+  "required": [
+    "title",
+    "tipo",
+    "versao",
+    "atualizado_em",
+    "catalogos"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "tipo": {
+      "const": "catalogos_estruturados"
+    },
+    "versao": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "atualizado_em": {
+      "type": "string",
+      "format": "date"
+    },
+    "catalogos": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "title",
+          "sigla",
+          "tipo_item",
+          "path",
+          "total_itens"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          },
+          "title": {
+            "type": "string",
+            "minLength": 1
+          },
+          "sigla": {
+            "type": "string",
+            "minLength": 1
+          },
+          "tipo_item": {
+            "enum": [
+              "curso_tecnico_cnct"
+            ]
+          },
+          "path": {
+            "type": "string",
+            "pattern": "^catalogos/cnct/manifest\\.json$"
+          },
+          "total_itens": {
+            "type": "integer",
+            "minimum": 1
+          }
+        }
+      }
+    }
+  }
+}

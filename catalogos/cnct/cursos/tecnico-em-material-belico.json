@@ -1,0 +1,22 @@
+{
+  "id": "tecnico-em-material-belico",
+  "indice": 202,
+  "denominacao": "Técnico em Material Bélico",
+  "denominacao_normalizada": "tecnico em material belico",
+  "eixo_tecnologico": "Militar",
+  "area_tecnologica": "Combate Aéreo",
+  "carga_horaria_minima_horas": 1200,
+  "descricao_carga_horaria_minima": "O curso dura, em média, 1 ano e meio.",
+  "perfil_profissional": "O Técnico em Material Bélico será habilitado, de acordo com cada Força, para:\n\nExecutar procedimentos técnicos, prestar suporte e compor equipes multidisciplinares direcionadas às diversas tecnologias e equipamentos da área bélica, empregados em meios militares.\nExecutar serviços de tripulante operacional, metralhador em aeronaves, manutenção, pesquisa de avarias, reparos e aferição de equipamentos bélicos.\nExecutar serviços de artilheiro de bordo em aeronaves, manutenção, pesquisa de avarias, reparos e aferição de equipamentos bélicos.\nRealizar a instalação de assentos ejetáveis (FAB).\nArmar e desarmar aeronaves.\nIdentificar e prevenir corrosão em itens bélicos.\nRealizar a harmonização de sistemas de tiro e inventariar o sistema de lançamento de cargas nas aeronaves de combate.\nArmazenar e manejar itens bélicos ativos, controlando-os por meio de sistemas informatizados.",
+  "pre_requisitos_ingresso": "Curso oferecido, exclusivamente, pela Marinha do Brasil e pela Força Aérea Brasileira aos militares do Serviço Ativo: o candidato deverá ter concluído o Ensino Médio e ser aprovado em processo seletivo das mencionadas Forças Armadas.",
+  "itinerarios_formativos": "O curso não prevê sugestões de qualificação profissional com certificações intermediárias, no curso técnico, considerando ocupações previstas na CBO.\n\nSugestões de formação continuada em cursos de especialização técnica (pós-técnico):\n\nEspecialização Técnica em Manipulação de Material de Demolição\nEspecialização Técnica em Neutralização e Destruição de Artefatos Explosivos\nEspecialização Técnica em Atualização de Mantenedor em Material Bélico\nEspecialização Técnica em Inspetor de Material Bélico\nEspecialização em Manutenção em Assento Ejetável em Aeronave de Combate\nEspecialização em Aeronave de Combate de Asa Fixa e Asa Rotativa\n\nSugestões de verticalização para cursos de graduação (Curso Superior de Tecnologia, Bacharelado e Licenciatura), em ambiente externo à Marinha:\n\nCurso Superior de Tecnologia em Sistemas de Armas",
+  "campo_atuacao": "Locais e ambientes do trabalho:\n\nMilitares da Ativa:\n\nExclusivamente em Organizações Militares da Marinha do Brasil e da Aeronáutica\n\nMilitares da Reserva:\n\nIndústrias de Material Bélico",
+  "ocupacoes_cbo": "9502-05 - Encarregado de Manutenção Elétrica de Veículos\n9144-05 - Mecânico de Manutenção de Automóveis, Motocicletas e Veículos Similares\n9144-25 - Mecânico de Veículos Automotores a Diesel (exceto tratores)\n9502-05 - Encarregado de Manutenção Elétrica de Veículos",
+  "codigos_cbo": [
+    "9502-05",
+    "9144-05",
+    "9144-25"
+  ],
+  "infraestrutura_minima": "Biblioteca e videoteca com acervo específico e atualizado\nLaboratório de informática com programas atualizados\nLaboratório de eletricidade e eletrônica\nLaboratório de hidráulica e pneumática\nLaboratório de manutenção mecânica\nLaboratório específico de guarda e segurança",
+  "legislacao_profissional": "Padrão de Desempenho de Especialidade\nCatálogo de Referenciais de Competências Profissionais (CR) da Marinha do Brasil"
+}

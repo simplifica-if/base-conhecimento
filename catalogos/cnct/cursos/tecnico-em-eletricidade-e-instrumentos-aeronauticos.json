@@ -1,0 +1,20 @@
+{
+  "id": "tecnico-em-eletricidade-e-instrumentos-aeronauticos",
+  "indice": 196,
+  "denominacao": "Técnico em Eletricidade e Instrumentos Aeronáuticos",
+  "denominacao_normalizada": "tecnico em eletricidade e instrumentos aeronauticos",
+  "eixo_tecnologico": "Militar",
+  "area_tecnologica": "Combate Aéreo",
+  "carga_horaria_minima_horas": 1200,
+  "descricao_carga_horaria_minima": "O curso dura, em média, 1 ano e meio.",
+  "perfil_profissional": "O Técnico em Eletricidade e Instrumentos Aeronáuticos será habilitado para:\n\nExecutar serviços de operação e manutenção preventiva e corretiva de sistemas aviônicos em aeronaves e oficinas, tais como: sistemas elétricos, sistemas de navegação e comunicação, sistemas de radar, sistemas de controle de tiro, sistemas de sensores e similares.\nUtilizar-se de interpretação e análise de diagramas esquemáticos de circuitos elétricos, eletrônicos e de aviônicos.\nOperar equipamentos de apoio de solo.",
+  "pre_requisitos_ingresso": "Curso oferecido pela Força Aérea Brasileira: o candidato deverá ter concluído o Ensino Médio e ser aprovado em processo seletivo daquela Força Armada.",
+  "itinerarios_formativos": "O curso não prevê sugestões de qualificação profissional com certificações intermediárias, no curso técnico, considerando ocupações previstas na CBO.\n\nSugestões de formação continuada em cursos de especialização técnica (pós-técnico):\n\nEspecialização Técnica em Mantenedor de Aeronaves\nEspecialização Técnica em Elevação de Nível em Eletricidade e Instrumentos\nEspecialização Técnica em Inspetor de Aeronaves\nEspecialização Técnica em Inspetor de Aviação e Manutenção\nEspecialização Técnica em Apoio em Aviação\nEspecialização Técnica em Mecânico de Aeronave Cougar\n\nSugestões de verticalização para cursos de graduação (Curso Superior de Tecnologia, Bacharelado e Licenciatura):\n\nCurso Superior de Tecnologia em Manutenção de Aeronaves",
+  "campo_atuacao": "Locais e ambientes de trabalho:\n\nMilitares da Ativa:\n\nExclusivamente em Organizações Militares do Exército Brasileiro e da Aeronáutica\n\nMilitares da Reserva e Outros Profissionais:\n\nEmpresas e Serviços de Aviação Civil",
+  "ocupacoes_cbo": "9141-05 - Mecânico de Manutenção de Aeronaves, em Geral",
+  "codigos_cbo": [
+    "9141-05"
+  ],
+  "infraestrutura_minima": "Biblioteca e videoteca com acervo específico e atualizado\nLaboratório de informática com programas específicos\nLaboratório de eletricidade e eletrônica\nLaboratório de instrumento de aeronaves\nLaboratório de medidas e componentes eletrônicos\nLaboratório de sistemas microprocessados e microcontrolados\nLaboratório de simuladores de aeronave operacional\nFerramentaria para aulas práticas",
+  "legislacao_profissional": "Padrão de Desempenho de Especialidade"
+}

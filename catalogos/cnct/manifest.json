@@ -1,0 +1,41 @@
+{
+  "id": "cnct",
+  "title": "Catálogo Nacional de Cursos Técnicos",
+  "sigla": "CNCT",
+  "tipo": "catalogo_nacional_cursos_tecnicos",
+  "tipo_item": "curso_tecnico_cnct",
+  "schema_version": 1,
+  "edicao": "4ª edição",
+  "atualizacao_referencia": "maio/2024",
+  "atualizado_em": "2026-05-02",
+  "fonte": "Ministério da Educação / Secretaria de Educação Profissional e Tecnológica",
+  "fonte_url": "https://portal.mec.gov.br/catalogos-nacionais-de-cursos-tecnicos",
+  "atos_normativos_url": "https://portal.mec.gov.br/catalogos-nacionais-de-cursos-tecnicos/legislacao-e-atos-normativos-cnct",
+  "catalogo_pdf_url": "https://www.gov.br/mec/pt-br/acesso-a-informacao/institucional/estrutura-organizacional/orgaos-especificos-singulares/secretaria-de-educacao-profissional/catalogos-nacionais-de-cursos/CNCT_catalogogerado2022_2023.pdf",
+  "csv_origem_sha256": "1fd099c0abd8868e3b3f4cd43be80d18f22b1be72c68c7e1cfa4141c1efe72ba",
+  "total_cursos": 218,
+  "index_path": "catalogos/cnct/index.json",
+  "campos_curso": [
+    "id",
+    "indice",
+    "denominacao",
+    "denominacao_normalizada",
+    "eixo_tecnologico",
+    "area_tecnologica",
+    "carga_horaria_minima_horas",
+    "descricao_carga_horaria_minima",
+    "perfil_profissional",
+    "pre_requisitos_ingresso",
+    "itinerarios_formativos",
+    "campo_atuacao",
+    "ocupacoes_cbo",
+    "codigos_cbo",
+    "infraestrutura_minima",
+    "legislacao_profissional"
+  ],
+  "uso_recomendado": [
+    "Consulte primeiro catalogos/cnct/index.json para localizar cursos por denominação, eixo, área, CBO ou carga horária mínima.",
+    "Abra apenas os arquivos em catalogos/cnct/cursos/*.json relevantes para consultar os dados completos.",
+    "Use os campos canônicos do arquivo do curso ao responder."
+  ]
+}

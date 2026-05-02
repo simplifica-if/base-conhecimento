@@ -1,0 +1,23 @@
+{
+  "id": "tecnico-em-financas",
+  "indice": 86,
+  "denominacao": "Técnico em Finanças",
+  "denominacao_normalizada": "tecnico em financas",
+  "eixo_tecnologico": "Gestão e Negócios",
+  "area_tecnologica": "Operações Financeiras",
+  "carga_horaria_minima_horas": 800,
+  "descricao_carga_horaria_minima": "O curso dura, em média, 1 ano.\n\nO curso ofertado, na modalidade presencial, poderá prever até 20% da sua carga horária total em atividades não presenciais.\n\nO curso poderá ser realizado na modalidade EaD com, no mínimo, 20% da carga horária em atividades presenciais, nos termos das normas específicas definidas em cada sistema de ensino.\n\nA instituição, ofertante do curso, poderá desenvolver a carga horária em regime de alternância, com períodos de estudos na escola e outros períodos no campo/local de trabalho.\n\nAlém da carga horária mínima prevista, o curso poderá ter estágio curricular supervisionado obrigatório, a critério da instituição ofertante.\n\nCaso o curso seja ofertado na modalidade EaD, a carga horária de estágio será cumprida de forma presencial.",
+  "perfil_profissional": "O Técnico em Finanças será habilitado para:\n\nRealizar operações relativas a serviços e produtos financeiros de empréstimos, financiamentos, investimentos e bancários.\nElaborar e analisar fluxos de caixa e demais relatórios financeiros.\nEfetuar lançamentos contábeis, ordens de pagamento e de contas a pagar e receber.\nAnalisar mercado de capitais, contratos bancários e legislações contábil, tributária, trabalhista e do consumidor.\nColetar informações e elaborar orçamento empresarial.\nElaborar relatórios de controle de custos, de gastos e de despesas gerais.\nAtuar de acordo com princípios da educação financeira organizacional e pessoal.\nUtilizar sistemas informatizados na execução de atividades financeiras.\n\nPara atuação como Técnico em Finanças, são fundamentais:\n\nConhecimentos e saberes relacionados à área financeira e bancária, para atuação em conformidade com as legislações e preceitos da Governança Corporativa e Compliance, como também com normas de saúde e segurança do trabalho.\nCompetências socioemocionais e atributos comportamentais relacionados à comunicação clara e cordial, respeito à diversidade, trabalho colaborativo, flexibilidade na resolução de conflitos e protagonismo na análise e solução de problemas.",
+  "pre_requisitos_ingresso": "Para ingresso no Curso Técnico Subsequente, o estudante deverá ter concluído o Ensino Médio.\nPara ingresso no Curso Técnico Concomitante, o estudante deverá estar cursando o Ensino Médio.\nPara ingresso no Curso Técnico Integrado ao Ensino Médio, o estudante deverá ter concluído o Ensino Fundamental.\nPara ingresso no Curso Técnico Integrado à Educação de Jovens e Adultos, o estudante deverá ter concluído o Ensino Fundamental.",
+  "itinerarios_formativos": "Sugestões de qualificação profissional com certificações intermediárias, no curso técnico, considerando ocupações previstas na CBO:\n\nAgente de Microcrédito\nAuxiliar Administrativo\nAuxiliar de Crédito e Cobrança\nAuxiliar de Tesouraria\nAuxiliar Financeiro\nAssistente de Planejamento Financeiro\n\nSugestões de formação continuada em cursos de especialização técnica (pós-técnico):\n\nEspecialização Técnica em Tesouraria\n\nSugestões de verticalização para cursos de graduação (Curso Superior de Tecnologia, bacharelado e licenciatura):\n\nCurso Superior de Tecnologia em Gestão Financeira\nBacharelado em Ciências Contábeis\nBacharelado em Ciências Econômicas",
+  "campo_atuacao": "Locais e ambientes de trabalho:\n\nIndústrias e/ou Comércios em Geral\nPrestadores de Serviços\nBancos e Financeiras",
+  "ocupacoes_cbo": "3532-05 - Técnico de Operações e Serviços Bancários - Câmbio\n3532-10 - Técnico de Operações e Serviços Bancários - Crédito Imobiliário\n3532-15 - Técnico de Operações e Serviços Bancários - Crédito Rural\n3532-20 - Técnico de Operações e Serviços Bancários - Leasing",
+  "codigos_cbo": [
+    "3532-05",
+    "3532-10",
+    "3532-15",
+    "3532-20"
+  ],
+  "infraestrutura_minima": "Biblioteca com acervo físico ou virtual específico e atualizado\nLaboratório de informática com programas específicos",
+  "legislacao_profissional": "Profissão não regulamentada."
+}

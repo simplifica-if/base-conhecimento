@@ -1,0 +1,20 @@
+{
+  "id": "tecnico-em-fotointeligencia",
+  "indice": 199,
+  "denominacao": "Técnico em Fotointeligência",
+  "denominacao_normalizada": "tecnico em fotointeligencia",
+  "eixo_tecnologico": "Militar",
+  "area_tecnologica": "Combate Aéreo",
+  "carga_horaria_minima_horas": 1200,
+  "descricao_carga_horaria_minima": "O curso dura, em média, 2 anos.",
+  "perfil_profissional": "O Técnico em Fotointeligência será habilitado para:\n\nParticipar nos planejamentos de briefings, debriefings e como tripulante de missões de reconhecimento aéreo, sensoriamento remoto, vigilância aérea, patrulha e guerra eletrônica para coleta de dados de interesse militar.\nAnalisar imagens em diferentes tipos de softwares de processamento digital, bem como em Sistemas de Informações Geográficas.\nAnalisar dados obtidos por sensores acoplados aos sistemas de armas das aeronaves de combate.\nOperar sensores aeroembarcados em aeronaves tripuladas e não tripuladas.\nAtuar diretamente na área da Inteligência Operacional.",
+  "pre_requisitos_ingresso": "Curso oferecido pela Força Aérea Brasileira: o candidato deverá ter concluído o Ensino Médio e ser aprovado em processo seletivo daquela Força Armada.",
+  "itinerarios_formativos": "O curso não prevê sugestões de qualificação profissional com certificações intermediárias, no curso técnico, considerando ocupações previstas na CBO.\n\nSugestões de formação continuada em cursos de especialização técnica (pós-técnico):\n\nEspecialização Técnica em Mantenedor\nEspecialização Técnica em Inspetor\nEspecialização Técnica em Ensaios Não Destrutivos\n\nSugestões de verticalização para cursos de graduação (Curso Superior de Tecnologia, Bacharelado e Licenciatura):\n\nCurso Superior de Tecnologia em Fotointeligência\nCurso Superior de Tecnologia em Geoprocessamento\nBacharelado em Engenharia Cartográfica",
+  "campo_atuacao": "Locais e ambientes de trabalho:\n\nMilitares da Ativa:\n\nExclusivamente em Organizações Militares da Aeronáutica\n\nMilitares da Reserva e Outros Profissionais:\n\nEmpresas de Sensoriamento Remoto Públicas e Privadas",
+  "ocupacoes_cbo": "3123-10 - Técnico em Geodésia e Cartografia",
+  "codigos_cbo": [
+    "3123-10"
+  ],
+  "infraestrutura_minima": "Biblioteca e videoteca com acervo específico e atualizado\nLaboratório de informática com programas específicos",
+  "legislacao_profissional": "Padrão de Desempenho de Especialidade"
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Catálogos estruturados da base de conhecimento",
+  "tipo": "catalogos_estruturados",
+  "versao": 1,
+  "atualizado_em": "2026-05-02",
+  "catalogos": [
+    {
+      "id": "cnct",
+      "title": "Catálogo Nacional de Cursos Técnicos",
+      "sigla": "CNCT",
+      "tipo_item": "curso_tecnico_cnct",
+      "path": "catalogos/cnct/manifest.json",
+      "total_itens": 218
+    }
+  ]
+}

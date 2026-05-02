@@ -1,0 +1,20 @@
+{
+  "id": "tecnico-em-qualidade",
+  "indice": 80,
+  "denominacao": "Técnico em Qualidade",
+  "denominacao_normalizada": "tecnico em qualidade",
+  "eixo_tecnologico": "Gestão e Negócios",
+  "area_tecnologica": "Gerencial",
+  "carga_horaria_minima_horas": 800,
+  "descricao_carga_horaria_minima": "O curso dura, em média, 1 ano.\n\nO curso ofertado, na modalidade presencial, poderá prever até 20% da sua carga horária total em atividades não presenciais.\n\nO curso poderá ser realizado na modalidade EaD com, no mínimo, 20% da carga horária em atividades presenciais, nos termos das normas específicas definidas em cada sistema de ensino.\n\nA instituição, ofertante do curso, poderá desenvolver a carga horária em regime de alternância, com períodos de estudos na escola e outros períodos no campo/local de trabalho.\n\nAlém da carga horária mínima prevista, o curso poderá ter estágio curricular supervisionado obrigatório, a critério da instituição ofertante.\n\nCaso o curso seja ofertado na modalidade EaD, a carga horária de estágio será cumprida de forma presencial.",
+  "perfil_profissional": "O Técnico em Qualidade será habilitado para:\n\nElaborar manuais, procedimentos, diagnósticos e relatórios de processos de qualidade das organizações.\nRegistrar o controle da qualidade.\nExecutar auditorias internas da qualidade.\nAcompanhar auditorias externas.\nDivulgar procedimentos de qualidade.\nPropor ações de informação e formação específica.\nIdentificar inconformidades em serviços, produtos e processos e suas possíveis causas.\nPropor ações corretivas e preventivas.\nInterpretar conjunto de mecanismos e procedimentos de integridade, controle e auditoria.\nExecutar atividades voltadas à prevenção, à detecção e resolução de desvios, a fraudes, a irregularidades e atos ilícitos praticados nas organizações.\n\nPara atuação como Técnico em Qualidade, são fundamentais:\n\nConhecimentos e saberes relacionados ao funcionamento da área de qualidade e compliance, de modo a atuar em conformidade com as legislações e diretrizes de conduta, como também com as normas de saúde e segurança do trabalho.\nAtuação de forma proativa em atividades técnico-administrativas de gestão e controle da qualidade, pautadas nos preceitos da governança corporativa, demonstrando comprometimento com os padrões e modelos institucionais.",
+  "pre_requisitos_ingresso": "Para ingresso no Curso Técnico Subsequente, o estudante deverá ter concluído o Ensino Médio.\nPara ingresso no Curso Técnico Concomitante, o estudante deverá estar cursando o Ensino Médio.\nPara ingresso no Curso Técnico Integrado ao Ensino Médio, o estudante deverá ter concluído o Ensino Fundamental.\nPara ingresso no Curso Técnico Integrado à Educação de Jovens e Adultos, o estudante deverá ter concluído o Ensino Fundamental.",
+  "itinerarios_formativos": "Sugestões de qualificação profissional com certificações intermediárias, no curso técnico, considerando ocupações previstas na CBO:\n\nAssistente de Planejamento e Controle de Produção\nAssistente de Controle de Qualidade\nAssistente de Compliance\n\nSugestões de formação continuada em cursos de especialização técnica (pós-técnico):\n\nEspecialização Técnica em Sustentabilidade\nEspecialização Técnica em Gestão de Riscos e Compliance\n\nSugestões de verticalização para cursos de graduação (Curso Superior de Tecnologia, bacharelado e licenciatura):\n\nCurso Superior de Tecnologia em Gestão da Qualidade\nBacharelado em Administração",
+  "campo_atuacao": "Locais e ambientes de trabalho:\n\nIndústrias e Comércios em Geral\nEmpresas de Consultoria e Auditorias",
+  "ocupacoes_cbo": "3912-05 - Inspetor de Qualidade",
+  "codigos_cbo": [
+    "3912-05"
+  ],
+  "infraestrutura_minima": "Biblioteca com acervo físico ou virtual específico e atualizado\nLaboratório de informática com programas específicos",
+  "legislacao_profissional": "Profissão não regulamentada."
+}

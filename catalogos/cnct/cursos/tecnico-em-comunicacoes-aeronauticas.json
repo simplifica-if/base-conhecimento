@@ -1,0 +1,22 @@
+{
+  "id": "tecnico-em-comunicacoes-aeronauticas",
+  "indice": 193,
+  "denominacao": "Técnico em Comunicações Aeronáuticas",
+  "denominacao_normalizada": "tecnico em comunicacoes aeronauticas",
+  "eixo_tecnologico": "Militar",
+  "area_tecnologica": "Combate Aéreo",
+  "carga_horaria_minima_horas": 1200,
+  "descricao_carga_horaria_minima": "O curso dura, em média, 1 ano e meio.",
+  "perfil_profissional": "O Técnico em Comunicações Aeronáuticas será habilitado para:\n\nOperar e manter sistemas e equipamentos de telecomunicações e telemática, de acordo com normas e procedimentos rígidos que permitem a transmissão e a recepção de informações, seja em terra ou em voo.\nGarantir um fluxo seguro e eficiente de voz e dados para os sistemas de comunicações administrativas, militares, aerostáticas e aeronáuticas, com ênfase em atividades de tráfego aéreo, em segurança da informação e em defesa aérea.\nRealizar manutenção orgânica de equipamentos relacionados à navegação aérea, à guerra eletrônica, à informação aeronáutica, à meteorologia e à busca e salvamento.",
+  "pre_requisitos_ingresso": "Curso oferecido pela Força Aérea Brasileira: o candidato deverá ter concluído o Ensino Médio e ser aprovado em processo seletivo daquela Força Armada.",
+  "itinerarios_formativos": "O curso não prevê sugestões de qualificação profissional com certificações intermediárias, no curso técnico, considerando ocupações previstas na CBO.\n\nSugestões de formação continuada em cursos de especialização técnica (pós-técnico):\n\nEspecialização Técnica em Padronização da Instrução no Sistema de Controle do Espaço Aéreo Brasileiro (SISCEAB)\n\nSugestões de verticalização para cursos de graduação (Curso Superior de Tecnologia, Bacharelado e Licenciatura):\n\nCurso Superior de Tecnologia em Comunicações Aeronáuticas\nCurso Superior de Tecnologia em Redes de Computadores\nCurso Superior de Tecnologia em Segurança da Informação\nBacharelado em Ciências Aeronáuticas",
+  "campo_atuacao": "Locais e ambientes de trabalho:\n\nMilitares da Ativa:\n\nExclusivamente em Organizações Militares da Aeronáutica\n\nMilitares da Reserva e Outros Profissionais:\n\nEmpresas de Telecomunicações ou de Infraestrutura Aeroportuária Públicas e Privadas\nServiço de Informação Aeronáutica e Tecnologia da Informação",
+  "ocupacoes_cbo": "3133-10 - Técnico de Rede (Telecomunicações)\n3133-15 - Técnico de Telecomunicações (Telefonia)\n3133-20 - Técnico em Transmissões\n3133-20 - Técnico de Manutenção de Equipamento de Transmissão",
+  "codigos_cbo": [
+    "3133-10",
+    "3133-15",
+    "3133-20"
+  ],
+  "infraestrutura_minima": "Biblioteca com acervo específico e atualizado\nLaboratório de informática com programas específicos\nLaboratório de antenas\nLaboratório de eletricidade e eletrônica\nLaboratório de rede de comunicação\nLaboratório de telefonia e telecomunicações",
+  "legislacao_profissional": "Padrão de Desempenho de Especialidade"
+}

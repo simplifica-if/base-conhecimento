@@ -1,0 +1,20 @@
+{
+  "id": "tecnico-em-controle-de-trafego-aereo",
+  "indice": 194,
+  "denominacao": "Técnico em Controle de Tráfego Aéreo",
+  "denominacao_normalizada": "tecnico em controle de trafego aereo",
+  "eixo_tecnologico": "Militar",
+  "area_tecnologica": "Combate Aéreo",
+  "carga_horaria_minima_horas": 1200,
+  "descricao_carga_horaria_minima": "O curso dura, em média, 1 ano e meio.\n\nAlém da carga horária mínima prevista, o curso poderá ter estágio curricular supervisionado obrigatório, a critério da instituição militar ofertante.",
+  "perfil_profissional": "O Técnico em Controle de Tráfego Aéreo será habilitado, de acordo com cada Força, para:\n\nRealizar o controle de tráfego de aeronaves civis e militares em voo ou em solo, por meio de sistemas radar e não radar.\nAtuar na defesa aeroespacial do Brasil.\nControlar aeronaves em pouso, decolagem ou efetuando manobras de pista, por meio de contato visual ou radar em órgãos de controle localizadas em aeroportos ou porta-aviões.\nRealizar comunicação com os pilotos por meio de frequência de rádio.\nControlar aeronaves na zona de controle e aproximação em navios com plataforma de voo.",
+  "pre_requisitos_ingresso": "Curso oferecido, exclusivamente, pela Marinha do Brasil e pela Força Aérea Brasileira aos militares do Serviço Ativo: o candidato deverá ter concluído o Ensino Médio e ser aprovado em processo seletivo das mencionadas Forças Armadas.",
+  "itinerarios_formativos": "O curso não prevê sugestões de qualificação profissional com certificações intermediárias, no curso técnico, considerando ocupações previstas na CBO.\n\nSugestões de formação continuada em cursos de especialização técnica (pós-técnico):\n\nEspecialização Técnica em Formação de Instrutor\nEspecialização Técnica em Supervisor e Chefe de Sala nos Órgãos de Controle\nEspecialização Técnica em Instrutor Prático Operacional\nEspecialização Técnica em Supervisor de Equipe\nEspecialização Técnica em Prática Operacional\nEspecialização Técnica em Sistema Anticolisão de Bordo (ACAS II)\nEspecialização Técnica em Prática Real de Controle de Tráfego Aéreo Militar\nEspecialização Técnica em Gerenciamento de Fluxo (FMC)\n\nSugestões de verticalização para cursos de graduação (Curso Superior de Tecnologia, Bacharelado e Licenciatura), em ambiente externo à Marinha:\n\nCurso Superior de Tecnologia em Gerenciamento de Tráfego Aéreo\nBacharelado em Ciências Aeronáuticas",
+  "campo_atuacao": "Locais e ambientes do trabalho:\n\nMilitares da Ativa:\n\nExclusivamente em Organizações Militares da Marinha do Brasil ou da Aeronáutica\n\nMilitares da Reserva:\n\nAeródromos\nAeroportos\nEmpresas com plataformas de voo",
+  "ocupacoes_cbo": "3425-05 - Controlador de Tráfego Aéreo",
+  "codigos_cbo": [
+    "3425-05"
+  ],
+  "infraestrutura_minima": "Biblioteca e videoteca com acervo específico e atualizado\nLaboratório de informática com programas específicos\nLaboratório de línguas Laboratório de controle radar e não radar\nLaboratório de simuladores de tráfego aéreo\nLaboratório específico de controle de tráfego aéreo",
+  "legislacao_profissional": "Padrão de Desempenho de Especialidade"
+}

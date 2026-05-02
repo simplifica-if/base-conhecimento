@@ -1,0 +1,2897 @@
+{
+  "id": "cnct-cursos",
+  "title": "Cursos do Catálogo Nacional de Cursos Técnicos",
+  "descricao": "Índice compacto para busca de cursos técnicos do CNCT por agentes IA.",
+  "tipo_item": "curso_tecnico_cnct",
+  "schema_version": 1,
+  "atualizado_em": "2026-05-02",
+  "total_cursos": 218,
+  "items": [
+    {
+      "id": "tecnico-em-agente-comunitario-de-saude",
+      "denominacao": "Técnico em Agente Comunitário de Saúde",
+      "denominacao_normalizada": "tecnico em agente comunitario de saude",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Gestão e Promoção da Saúde e Bem-Estar",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3222-55"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-agente-comunitario-de-saude.json"
+    },
+    {
+      "id": "tecnico-em-analises-clinicas",
+      "denominacao": "Técnico em Análises Clínicas",
+      "denominacao_normalizada": "tecnico em analises clinicas",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Gestão e Promoção da Saúde e Bem-Estar",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3242-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-analises-clinicas.json"
+    },
+    {
+      "id": "tecnico-em-citopatologia",
+      "denominacao": "Técnico em Citopatologia",
+      "denominacao_normalizada": "tecnico em citopatologia",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Gestão e Promoção da Saúde e Bem-Estar",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3242-15"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-citopatologia.json"
+    },
+    {
+      "id": "tecnico-em-cuidados-de-idosos",
+      "denominacao": "Técnico em Cuidados de Idosos",
+      "denominacao_normalizada": "tecnico em cuidados de idosos",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Gestão e Promoção da Saúde e Bem-Estar",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "5162-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-cuidados-de-idosos.json"
+    },
+    {
+      "id": "tecnico-em-dependencia-quimica",
+      "denominacao": "Técnico em Dependência Química",
+      "denominacao_normalizada": "tecnico em dependencia quimica",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Gestão e Promoção da Saúde e Bem-Estar",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "5153-15"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-dependencia-quimica.json"
+    },
+    {
+      "id": "tecnico-em-enfermagem",
+      "denominacao": "Técnico em Enfermagem",
+      "denominacao_normalizada": "tecnico em enfermagem",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Gestão e Promoção da Saúde e Bem-Estar",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3222-05",
+        "3222-30",
+        "3222-15",
+        "3222-20",
+        "3222-35",
+        "3222-10",
+        "3222-25",
+        "3222-40",
+        "3222-45",
+        "3222-50"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-enfermagem.json"
+    },
+    {
+      "id": "tecnico-em-equipamentos-biomedicos",
+      "denominacao": "Técnico em Equipamentos Biomédicos",
+      "denominacao_normalizada": "tecnico em equipamentos biomedicos",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Gestão e Promoção da Saúde e Bem-Estar",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "9153-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-equipamentos-biomedicos.json"
+    },
+    {
+      "id": "tecnico-em-estetica",
+      "denominacao": "Técnico em Estética",
+      "denominacao_normalizada": "tecnico em estetica",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Gestão e Promoção da Saúde e Bem-Estar",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3221-30"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-estetica.json"
+    },
+    {
+      "id": "tecnico-em-farmacia",
+      "denominacao": "Técnico em Farmácia",
+      "denominacao_normalizada": "tecnico em farmacia",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Gestão e Promoção da Saúde e Bem-Estar",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3251-15",
+        "3251-05",
+        "3251-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-farmacia.json"
+    },
+    {
+      "id": "tecnico-em-gerencia-em-saude",
+      "denominacao": "Técnico em Gerência em Saúde",
+      "denominacao_normalizada": "tecnico em gerencia em saude",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Gestão e Promoção da Saúde e Bem-Estar",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-gerencia-em-saude.json"
+    },
+    {
+      "id": "tecnico-em-hemoterapia",
+      "denominacao": "Técnico em Hemoterapia",
+      "denominacao_normalizada": "tecnico em hemoterapia",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Gestão e Promoção da Saúde e Bem-Estar",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3242-20"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-hemoterapia.json"
+    },
+    {
+      "id": "tecnico-em-imagem-pessoal",
+      "denominacao": "Técnico em Imagem Pessoal",
+      "denominacao_normalizada": "tecnico em imagem pessoal",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Gestão e Promoção da Saúde e Bem-Estar",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-imagem-pessoal.json"
+    },
+    {
+      "id": "tecnico-em-imobilizacoes-ortopedicas",
+      "denominacao": "Técnico em Imobilizações Ortopédicas",
+      "denominacao_normalizada": "tecnico em imobilizacoes ortopedicas",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Gestão e Promoção da Saúde e Bem-Estar",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3226-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-imobilizacoes-ortopedicas.json"
+    },
+    {
+      "id": "tecnico-em-massoterapia",
+      "denominacao": "Técnico em Massoterapia",
+      "denominacao_normalizada": "tecnico em massoterapia",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Gestão e Promoção da Saúde e Bem-Estar",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3221-20"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-massoterapia.json"
+    },
+    {
+      "id": "tecnico-em-necropsia",
+      "denominacao": "Técnico em Necropsia",
+      "denominacao_normalizada": "tecnico em necropsia",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Gestão e Promoção da Saúde e Bem-Estar",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3281-05",
+        "3281-10",
+        "5165-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-necropsia.json"
+    },
+    {
+      "id": "tecnico-em-nutricao-e-dietetica",
+      "denominacao": "Técnico em Nutrição e Dietética",
+      "denominacao_normalizada": "tecnico em nutricao e dietetica",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Gestão e Promoção da Saúde e Bem-Estar",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3252-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-nutricao-e-dietetica.json"
+    },
+    {
+      "id": "tecnico-em-optica",
+      "denominacao": "Técnico em Óptica",
+      "denominacao_normalizada": "tecnico em optica",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Gestão e Promoção da Saúde e Bem-Estar",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3223-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-optica.json"
+    },
+    {
+      "id": "tecnico-em-optometria",
+      "denominacao": "Técnico em Optometria",
+      "denominacao_normalizada": "tecnico em optometria",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Gestão e Promoção da Saúde e Bem-Estar",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3223-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-optometria.json"
+    },
+    {
+      "id": "tecnico-em-orteses-e-proteses",
+      "denominacao": "Técnico em Órteses e Próteses",
+      "denominacao_normalizada": "tecnico em orteses e proteses",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Gestão e Promoção da Saúde e Bem-Estar",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3225-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-orteses-e-proteses.json"
+    },
+    {
+      "id": "tecnico-em-podologia",
+      "denominacao": "Técnico em Podologia",
+      "denominacao_normalizada": "tecnico em podologia",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Gestão e Promoção da Saúde e Bem-Estar",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3221-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-podologia.json"
+    },
+    {
+      "id": "tecnico-em-protese-dentaria",
+      "denominacao": "Técnico em Prótese Dentária",
+      "denominacao_normalizada": "tecnico em protese dentaria",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Gestão e Promoção da Saúde e Bem-Estar",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3224-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-protese-dentaria.json"
+    },
+    {
+      "id": "tecnico-em-radiologia",
+      "denominacao": "Técnico em Radiologia",
+      "denominacao_normalizada": "tecnico em radiologia",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Gestão e Promoção da Saúde e Bem-Estar",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3241-15"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-radiologia.json"
+    },
+    {
+      "id": "tecnico-em-registros-e-informacoes-em-saude",
+      "denominacao": "Técnico em Registros e Informações em Saúde",
+      "denominacao_normalizada": "tecnico em registros e informacoes em saude",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Gestão e Promoção da Saúde e Bem-Estar",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "4153-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-registros-e-informacoes-em-saude.json"
+    },
+    {
+      "id": "tecnico-em-saude-bucal",
+      "denominacao": "Técnico em Saúde Bucal",
+      "denominacao_normalizada": "tecnico em saude bucal",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Gestão e Promoção da Saúde e Bem-Estar",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3224-05",
+        "3224-25",
+        "3224-30"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-saude-bucal.json"
+    },
+    {
+      "id": "tecnico-em-terapias-holisticas",
+      "denominacao": "Técnico em Terapias Holísticas",
+      "denominacao_normalizada": "tecnico em terapias holisticas",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Gestão e Promoção da Saúde e Bem-Estar",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3221-25"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-terapias-holisticas.json"
+    },
+    {
+      "id": "tecnico-em-veterinaria",
+      "denominacao": "Técnico em Veterinária",
+      "denominacao_normalizada": "tecnico em veterinaria",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Gestão e Promoção da Saúde e Bem-Estar",
+      "carga_horaria_minima_horas": 1000,
+      "codigos_cbo": [
+        "5193-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-veterinaria.json"
+    },
+    {
+      "id": "tecnico-em-vigilancia-em-saude",
+      "denominacao": "Técnico em Vigilância em Saúde",
+      "denominacao_normalizada": "tecnico em vigilancia em saude",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Gestão e Promoção da Saúde e Bem-Estar",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3522-10",
+        "3522-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-vigilancia-em-saude.json"
+    },
+    {
+      "id": "tecnico-em-controle-ambiental",
+      "denominacao": "Técnico em Controle Ambiental",
+      "denominacao_normalizada": "tecnico em controle ambiental",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Proteção e Reabilitação de Ecossistemas",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3115-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-controle-ambiental.json"
+    },
+    {
+      "id": "tecnico-em-meio-ambiente",
+      "denominacao": "Técnico em Meio Ambiente",
+      "denominacao_normalizada": "tecnico em meio ambiente",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Proteção e Reabilitação de Ecossistemas",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3115-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-meio-ambiente.json"
+    },
+    {
+      "id": "tecnico-em-meteorologia",
+      "denominacao": "Técnico em Meteorologia",
+      "denominacao_normalizada": "tecnico em meteorologia",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Proteção e Reabilitação de Ecossistemas",
+      "carga_horaria_minima_horas": 1000,
+      "codigos_cbo": [
+        "3115-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-meteorologia.json"
+    },
+    {
+      "id": "tecnico-em-reciclagem",
+      "denominacao": "Técnico em Reciclagem",
+      "denominacao_normalizada": "tecnico em reciclagem",
+      "eixo_tecnologico": "Ambiente e Saúde",
+      "area_tecnologica": "Proteção e Reabilitação de Ecossistemas",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-reciclagem.json"
+    },
+    {
+      "id": "tecnico-em-automacao-industrial",
+      "denominacao": "Técnico em Automação Industrial",
+      "denominacao_normalizada": "tecnico em automacao industrial",
+      "eixo_tecnologico": "Controle e Processos Industriais",
+      "area_tecnologica": "Eletrônica e Automação",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3001-05",
+        "3132-15"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-automacao-industrial.json"
+    },
+    {
+      "id": "tecnico-em-eletroeletronica",
+      "denominacao": "Técnico em Eletroeletrônica",
+      "denominacao_normalizada": "tecnico em eletroeletronica",
+      "eixo_tecnologico": "Controle e Processos Industriais",
+      "area_tecnologica": "Eletrônica e Automação",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3003-05",
+        "7311-35",
+        "7311-50"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-eletroeletronica.json"
+    },
+    {
+      "id": "tecnico-em-eletromecanica",
+      "denominacao": "Técnico em Eletromecânica",
+      "denominacao_normalizada": "tecnico em eletromecanica",
+      "eixo_tecnologico": "Controle e Processos Industriais",
+      "area_tecnologica": "Eletrônica e Automação",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3003-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-eletromecanica.json"
+    },
+    {
+      "id": "tecnico-em-eletronica",
+      "denominacao": "Técnico em Eletrônica",
+      "denominacao_normalizada": "tecnico em eletronica",
+      "eixo_tecnologico": "Controle e Processos Industriais",
+      "area_tecnologica": "Eletrônica e Automação",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3132-05",
+        "3132-10",
+        "3132-15",
+        "3132-20"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-eletronica.json"
+    },
+    {
+      "id": "tecnico-em-instrumentacao-industrial",
+      "denominacao": "Técnico em Instrumentação Industrial",
+      "denominacao_normalizada": "tecnico em instrumentacao industrial",
+      "eixo_tecnologico": "Controle e Processos Industriais",
+      "area_tecnologica": "Eletrônica e Automação",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3134-10",
+        "3134-05",
+        "3134-15"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-instrumentacao-industrial.json"
+    },
+    {
+      "id": "tecnico-em-mecatronica",
+      "denominacao": "Técnico em Mecatrônica",
+      "denominacao_normalizada": "tecnico em mecatronica",
+      "eixo_tecnologico": "Controle e Processos Industriais",
+      "area_tecnologica": "Eletrônica e Automação",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3001-05",
+        "3001-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-mecatronica.json"
+    },
+    {
+      "id": "tecnico-em-manutencao-aeronautica-em-avionicos",
+      "denominacao": "Técnico em Manutenção Aeronáutica em Aviônicos",
+      "denominacao_normalizada": "tecnico em manutencao aeronautica em avionicos",
+      "eixo_tecnologico": "Controle e Processos Industriais",
+      "area_tecnologica": "Manutenção e Operação",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3143-10",
+        "9141-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-manutencao-aeronautica-em-avionicos.json"
+    },
+    {
+      "id": "tecnico-em-manutencao-aeronautica-em-celula",
+      "denominacao": "Técnico em Manutenção Aeronáutica em Célula",
+      "denominacao_normalizada": "tecnico em manutencao aeronautica em celula",
+      "eixo_tecnologico": "Controle e Processos Industriais",
+      "area_tecnologica": "Manutenção e Operação",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3143-10",
+        "9141-05",
+        "9141-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-manutencao-aeronautica-em-celula.json"
+    },
+    {
+      "id": "tecnico-em-manutencao-aeronautica-em-grupo-motopropulsor",
+      "denominacao": "Técnico em Manutenção Aeronáutica em Grupo Motopropulsor",
+      "denominacao_normalizada": "tecnico em manutencao aeronautica em grupo motopropulsor",
+      "eixo_tecnologico": "Controle e Processos Industriais",
+      "area_tecnologica": "Manutenção e Operação",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3143-10",
+        "9141-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-manutencao-aeronautica-em-grupo-motopropulsor.json"
+    },
+    {
+      "id": "tecnico-em-manutencao-automotiva",
+      "denominacao": "Técnico em Manutenção Automotiva",
+      "denominacao_normalizada": "tecnico em manutencao automotiva",
+      "eixo_tecnologico": "Controle e Processos Industriais",
+      "area_tecnologica": "Manutenção e Operação",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3143-05",
+        "3144-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-manutencao-automotiva.json"
+    },
+    {
+      "id": "tecnico-em-manutencao-de-maquinas-industriais",
+      "denominacao": "Técnico em Manutenção de Máquinas Industriais",
+      "denominacao_normalizada": "tecnico em manutencao de maquinas industriais",
+      "eixo_tecnologico": "Controle e Processos Industriais",
+      "area_tecnologica": "Manutenção e Operação",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "9113-05",
+        "3144-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-manutencao-de-maquinas-industriais.json"
+    },
+    {
+      "id": "tecnico-em-manutencao-de-maquinas-navais",
+      "denominacao": "Técnico em Manutenção de Máquinas Navais",
+      "denominacao_normalizada": "tecnico em manutencao de maquinas navais",
+      "eixo_tecnologico": "Controle e Processos Industriais",
+      "area_tecnologica": "Manutenção e Operação",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3143-15",
+        "9142-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-manutencao-de-maquinas-navais.json"
+    },
+    {
+      "id": "tecnico-em-manutencao-de-maquinas-pesadas",
+      "denominacao": "Técnico em Manutenção de Máquinas Pesadas",
+      "denominacao_normalizada": "tecnico em manutencao de maquinas pesadas",
+      "eixo_tecnologico": "Controle e Processos Industriais",
+      "area_tecnologica": "Manutenção e Operação",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "9131-05",
+        "9131-10",
+        "9131-15",
+        "9131-20",
+        "9144-20"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-manutencao-de-maquinas-pesadas.json"
+    },
+    {
+      "id": "tecnico-em-manutencao-de-sistemas-metroferroviarios",
+      "denominacao": "Técnico em Manutenção de Sistemas Metroferroviários",
+      "denominacao_normalizada": "tecnico em manutencao de sistemas metroferroviarios",
+      "eixo_tecnologico": "Controle e Processos Industriais",
+      "area_tecnologica": "Manutenção e Operação",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "9143-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-manutencao-de-sistemas-metroferroviarios.json"
+    },
+    {
+      "id": "tecnico-em-fabricacao-mecanica",
+      "denominacao": "Técnico em Fabricação Mecânica",
+      "denominacao_normalizada": "tecnico em fabricacao mecanica",
+      "eixo_tecnologico": "Controle e Processos Industriais",
+      "area_tecnologica": "Metalmecânica",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3142-05",
+        "3142-10",
+        "3911-25",
+        "3146-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-fabricacao-mecanica.json"
+    },
+    {
+      "id": "tecnico-em-ferramentaria",
+      "denominacao": "Técnico em Ferramentaria",
+      "denominacao_normalizada": "tecnico em ferramentaria",
+      "eixo_tecnologico": "Controle e Processos Industriais",
+      "area_tecnologica": "Metalmecânica",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "7211-05",
+        "7211-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-ferramentaria.json"
+    },
+    {
+      "id": "tecnico-em-fundicao",
+      "denominacao": "Técnico em Fundição",
+      "denominacao_normalizada": "tecnico em fundicao",
+      "eixo_tecnologico": "Controle e Processos Industriais",
+      "area_tecnologica": "Metalmecânica",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3147-15",
+        "7711-10",
+        "7213-25",
+        "7222-15",
+        "7222-20",
+        "7223-25",
+        "8212-20",
+        "8221-15"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-fundicao.json"
+    },
+    {
+      "id": "tecnico-em-mecanica",
+      "denominacao": "Técnico em Mecânica",
+      "denominacao_normalizada": "tecnico em mecanica",
+      "eixo_tecnologico": "Controle e Processos Industriais",
+      "area_tecnologica": "Metalmecânica",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3141-10",
+        "3141-05",
+        "9151-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-mecanica.json"
+    },
+    {
+      "id": "tecnico-em-mecanica-de-precisao",
+      "denominacao": "Técnico em Mecânica de Precisão",
+      "denominacao_normalizada": "tecnico em mecanica de precisao",
+      "eixo_tecnologico": "Controle e Processos Industriais",
+      "area_tecnologica": "Metalmecânica",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3141-05",
+        "9151-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-mecanica-de-precisao.json"
+    },
+    {
+      "id": "tecnico-em-metalurgia",
+      "denominacao": "Técnico em Metalurgia",
+      "denominacao_normalizada": "tecnico em metalurgia",
+      "eixo_tecnologico": "Controle e Processos Industriais",
+      "area_tecnologica": "Metalmecânica",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3146-20",
+        "3147-05",
+        "3147-10",
+        "3147-20",
+        "3147-25",
+        "3147-30"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-metalurgia.json"
+    },
+    {
+      "id": "tecnico-em-metrologia",
+      "denominacao": "Técnico em Metrologia",
+      "denominacao_normalizada": "tecnico em metrologia",
+      "eixo_tecnologico": "Controle e Processos Industriais",
+      "area_tecnologica": "Metalmecânica",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3134-05",
+        "3523-05",
+        "3523-10",
+        "3523-15"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-metrologia.json"
+    },
+    {
+      "id": "tecnico-em-soldagem",
+      "denominacao": "Técnico em Soldagem",
+      "denominacao_normalizada": "tecnico em soldagem",
+      "eixo_tecnologico": "Controle e Processos Industriais",
+      "area_tecnologica": "Metalmecânica",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3146-20",
+        "7243-05",
+        "7243-15",
+        "7243-10",
+        "7243-20",
+        "7243-25"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-soldagem.json"
+    },
+    {
+      "id": "tecnico-em-eletrotecnica",
+      "denominacao": "Técnico em Eletrotécnica",
+      "denominacao_normalizada": "tecnico em eletrotecnica",
+      "eixo_tecnologico": "Controle e Processos Industriais",
+      "area_tecnologica": "Sistemas de Energia",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3131-05",
+        "3131-10",
+        "3131-15",
+        "3131-20",
+        "3131-25",
+        "3131-30",
+        "3187-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-eletrotecnica.json"
+    },
+    {
+      "id": "tecnico-em-refrigeracao-e-climatizacao",
+      "denominacao": "Técnico em Refrigeração e Climatização",
+      "denominacao_normalizada": "tecnico em refrigeracao e climatizacao",
+      "eixo_tecnologico": "Controle e Processos Industriais",
+      "area_tecnologica": "Sistemas de Energia",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "7257-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-refrigeracao-e-climatizacao.json"
+    },
+    {
+      "id": "tecnico-em-sistemas-a-gas",
+      "denominacao": "Técnico em Sistemas a Gás",
+      "denominacao_normalizada": "tecnico em sistemas a gas",
+      "eixo_tecnologico": "Controle e Processos Industriais",
+      "area_tecnologica": "Sistemas de Energia",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "7241-15",
+        "7241-30"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-sistemas-a-gas.json"
+    },
+    {
+      "id": "tecnico-em-sistemas-de-energia-renovavel",
+      "denominacao": "Técnico em Sistemas de Energia Renovável",
+      "denominacao_normalizada": "tecnico em sistemas de energia renovavel",
+      "eixo_tecnologico": "Controle e Processos Industriais",
+      "area_tecnologica": "Sistemas de Energia",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3131-10",
+        "8611-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-sistemas-de-energia-renovavel.json"
+    },
+    {
+      "id": "tecnico-em-alimentacao-escolar",
+      "denominacao": "Técnico em Alimentação Escolar",
+      "denominacao_normalizada": "tecnico em alimentacao escolar",
+      "eixo_tecnologico": "Desenvolvimento Educacional e Social",
+      "area_tecnologica": "Gestão Educacional",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "8414-08"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-alimentacao-escolar.json"
+    },
+    {
+      "id": "tecnico-em-arquivo",
+      "denominacao": "Técnico em Arquivo",
+      "denominacao_normalizada": "tecnico em arquivo",
+      "eixo_tecnologico": "Desenvolvimento Educacional e Social",
+      "area_tecnologica": "Gestão Educacional",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-arquivo.json"
+    },
+    {
+      "id": "tecnico-em-biblioteconomia",
+      "denominacao": "Técnico em Biblioteconomia",
+      "denominacao_normalizada": "tecnico em biblioteconomia",
+      "eixo_tecnologico": "Desenvolvimento Educacional e Social",
+      "area_tecnologica": "Gestão Educacional",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "3711-10",
+        "3711-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-biblioteconomia.json"
+    },
+    {
+      "id": "tecnico-em-infraestrutura-escolar",
+      "denominacao": "Técnico em Infraestrutura Escolar",
+      "denominacao_normalizada": "tecnico em infraestrutura escolar",
+      "eixo_tecnologico": "Desenvolvimento Educacional e Social",
+      "area_tecnologica": "Gestão Educacional",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "5143-25"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-infraestrutura-escolar.json"
+    },
+    {
+      "id": "tecnico-em-secretaria-escolar",
+      "denominacao": "Técnico em Secretaria Escolar",
+      "denominacao_normalizada": "tecnico em secretaria escolar",
+      "eixo_tecnologico": "Desenvolvimento Educacional e Social",
+      "area_tecnologica": "Gestão Educacional",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "3515-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-secretaria-escolar.json"
+    },
+    {
+      "id": "tecnico-em-desenvolvimento-comunitario",
+      "denominacao": "Técnico em Desenvolvimento Comunitário",
+      "denominacao_normalizada": "tecnico em desenvolvimento comunitario",
+      "eixo_tecnologico": "Desenvolvimento Educacional e Social",
+      "area_tecnologica": "Intervenção Social",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "5153-25",
+        "5153-05",
+        "5153-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-desenvolvimento-comunitario.json"
+    },
+    {
+      "id": "tecnico-em-producao-de-materiais-didaticos-bilingues-em-libras-lingua-portuguesa",
+      "denominacao": "Técnico em Produção de Materiais Didáticos Bilíngues em Libras/Língua Portuguesa",
+      "denominacao_normalizada": "tecnico em producao de materiais didaticos bilingues em libras lingua portuguesa",
+      "eixo_tecnologico": "Desenvolvimento Educacional e Social",
+      "area_tecnologica": "Intervenção Social",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-producao-de-materiais-didaticos-bilingues-em-libras-lingua-portuguesa.json"
+    },
+    {
+      "id": "tecnico-em-traducao-e-interpretacao-de-libras",
+      "denominacao": "Técnico em Tradução e Interpretação de Libras",
+      "denominacao_normalizada": "tecnico em traducao e interpretacao de libras",
+      "eixo_tecnologico": "Desenvolvimento Educacional e Social",
+      "area_tecnologica": "Intervenção Social",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-traducao-e-interpretacao-de-libras.json"
+    },
+    {
+      "id": "tecnico-em-treinamento-e-instrucao-de-caes-guias",
+      "denominacao": "Técnico em Treinamento e Instrução de Cães-Guias",
+      "denominacao_normalizada": "tecnico em treinamento e instrucao de caes guias",
+      "eixo_tecnologico": "Desenvolvimento Educacional e Social",
+      "area_tecnologica": "Intervenção Social",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "6230-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-treinamento-e-instrucao-de-caes-guias.json"
+    },
+    {
+      "id": "tecnico-em-brinquedoteca",
+      "denominacao": "Técnico em Brinquedoteca",
+      "denominacao_normalizada": "tecnico em brinquedoteca",
+      "eixo_tecnologico": "Desenvolvimento Educacional e Social",
+      "area_tecnologica": "Tecnologia, Inovação e Práticas Laboratoriais",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-brinquedoteca.json"
+    },
+    {
+      "id": "tecnico-em-laboratorio-de-ciencias-da-natureza",
+      "denominacao": "Técnico em Laboratório de Ciências da Natureza",
+      "denominacao_normalizada": "tecnico em laboratorio de ciencias da natureza",
+      "eixo_tecnologico": "Desenvolvimento Educacional e Social",
+      "area_tecnologica": "Tecnologia, Inovação e Práticas Laboratoriais",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "8181-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-laboratorio-de-ciencias-da-natureza.json"
+    },
+    {
+      "id": "tecnico-em-multimeios-didaticos",
+      "denominacao": "Técnico em Multimeios Didáticos",
+      "denominacao_normalizada": "tecnico em multimeios didaticos",
+      "eixo_tecnologico": "Desenvolvimento Educacional e Social",
+      "area_tecnologica": "Tecnologia, Inovação e Práticas Laboratoriais",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-multimeios-didaticos.json"
+    },
+    {
+      "id": "tecnico-em-comercio",
+      "denominacao": "Técnico em Comércio",
+      "denominacao_normalizada": "tecnico em comercio",
+      "eixo_tecnologico": "Gestão e Negócios",
+      "area_tecnologica": "Comercial",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "1414-05",
+        "1414-10",
+        "3541-40",
+        "3542-05",
+        "3547-05",
+        "5211-05",
+        "5211-15"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-comercio.json"
+    },
+    {
+      "id": "tecnico-em-comercio-exterior",
+      "denominacao": "Técnico em Comércio Exterior",
+      "denominacao_normalizada": "tecnico em comercio exterior",
+      "eixo_tecnologico": "Gestão e Negócios",
+      "area_tecnologica": "Comercial",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "3513-10",
+        "3543-05",
+        "3421-05",
+        "3422-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-comercio-exterior.json"
+    },
+    {
+      "id": "tecnico-em-marketing",
+      "denominacao": "Técnico em Marketing",
+      "denominacao_normalizada": "tecnico em marketing",
+      "eixo_tecnologico": "Gestão e Negócios",
+      "area_tecnologica": "Comercial",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "3541-40",
+        "3541-30"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-marketing.json"
+    },
+    {
+      "id": "tecnico-em-seguros",
+      "denominacao": "Técnico em Seguros",
+      "denominacao_normalizada": "tecnico em seguros",
+      "eixo_tecnologico": "Gestão e Negócios",
+      "area_tecnologica": "Comercial",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "3517-35",
+        "3517-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-seguros.json"
+    },
+    {
+      "id": "tecnico-em-transacoes-imobiliarias",
+      "denominacao": "Técnico em Transações Imobiliárias",
+      "denominacao_normalizada": "tecnico em transacoes imobiliarias",
+      "eixo_tecnologico": "Gestão e Negócios",
+      "area_tecnologica": "Comercial",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "3546-05",
+        "3544-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-transacoes-imobiliarias.json"
+    },
+    {
+      "id": "tecnico-em-vendas",
+      "denominacao": "Técnico em Vendas",
+      "denominacao_normalizada": "tecnico em vendas",
+      "eixo_tecnologico": "Gestão e Negócios",
+      "area_tecnologica": "Comercial",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "3541-40",
+        "5211-15",
+        "3547-05",
+        "3541-35"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-vendas.json"
+    },
+    {
+      "id": "tecnico-em-administracao",
+      "denominacao": "Técnico em Administração",
+      "denominacao_normalizada": "tecnico em administracao",
+      "eixo_tecnologico": "Gestão e Negócios",
+      "area_tecnologica": "Gerencial",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-administracao.json"
+    },
+    {
+      "id": "tecnico-em-condominio",
+      "denominacao": "Técnico em Condomínio",
+      "denominacao_normalizada": "tecnico em condominio",
+      "eixo_tecnologico": "Gestão e Negócios",
+      "area_tecnologica": "Gerencial",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "5101-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-condominio.json"
+    },
+    {
+      "id": "tecnico-em-cooperativismo",
+      "denominacao": "Técnico em Cooperativismo",
+      "denominacao_normalizada": "tecnico em cooperativismo",
+      "eixo_tecnologico": "Gestão e Negócios",
+      "area_tecnologica": "Gerencial",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-cooperativismo.json"
+    },
+    {
+      "id": "tecnico-em-logistica",
+      "denominacao": "Técnico em Logística",
+      "denominacao_normalizada": "tecnico em logistica",
+      "eixo_tecnologico": "Gestão e Negócios",
+      "area_tecnologica": "Gerencial",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "3911-25",
+        "3421-10",
+        "3911-15"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-logistica.json"
+    },
+    {
+      "id": "tecnico-em-qualidade",
+      "denominacao": "Técnico em Qualidade",
+      "denominacao_normalizada": "tecnico em qualidade",
+      "eixo_tecnologico": "Gestão e Negócios",
+      "area_tecnologica": "Gerencial",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "3912-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-qualidade.json"
+    },
+    {
+      "id": "tecnico-em-recursos-humanos",
+      "denominacao": "Técnico em Recursos Humanos",
+      "denominacao_normalizada": "tecnico em recursos humanos",
+      "eixo_tecnologico": "Gestão e Negócios",
+      "area_tecnologica": "Gerencial",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "3513-15",
+        "4110-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-recursos-humanos.json"
+    },
+    {
+      "id": "tecnico-em-secretariado",
+      "denominacao": "Técnico em Secretariado",
+      "denominacao_normalizada": "tecnico em secretariado",
+      "eixo_tecnologico": "Gestão e Negócios",
+      "area_tecnologica": "Gerencial",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-secretariado.json"
+    },
+    {
+      "id": "tecnico-em-servicos-juridicos",
+      "denominacao": "Técnico em Serviços Jurídicos",
+      "denominacao_normalizada": "tecnico em servicos juridicos",
+      "eixo_tecnologico": "Gestão e Negócios",
+      "area_tecnologica": "Gerencial",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "3514-30",
+        "3514-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-servicos-juridicos.json"
+    },
+    {
+      "id": "tecnico-em-servicos-publicos",
+      "denominacao": "Técnico em Serviços Públicos",
+      "denominacao_normalizada": "tecnico em servicos publicos",
+      "eixo_tecnologico": "Gestão e Negócios",
+      "area_tecnologica": "Gerencial",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-servicos-publicos.json"
+    },
+    {
+      "id": "tecnico-em-contabilidade",
+      "denominacao": "Técnico em Contabilidade",
+      "denominacao_normalizada": "tecnico em contabilidade",
+      "eixo_tecnologico": "Gestão e Negócios",
+      "area_tecnologica": "Operações Financeiras",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "3511-05",
+        "3511-10",
+        "3511-15"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-contabilidade.json"
+    },
+    {
+      "id": "tecnico-em-financas",
+      "denominacao": "Técnico em Finanças",
+      "denominacao_normalizada": "tecnico em financas",
+      "eixo_tecnologico": "Gestão e Negócios",
+      "area_tecnologica": "Operações Financeiras",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "3532-05",
+        "3532-10",
+        "3532-15",
+        "3532-20"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-financas.json"
+    },
+    {
+      "id": "tecnico-em-computacao-grafica",
+      "denominacao": "Técnico em Computação Gráfica",
+      "denominacao_normalizada": "tecnico em computacao grafica",
+      "eixo_tecnologico": "Informação e Comunicação",
+      "area_tecnologica": "Desenvolvimento de Sistemas",
+      "carga_horaria_minima_horas": 1000,
+      "codigos_cbo": [
+        "3171-20"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-computacao-grafica.json"
+    },
+    {
+      "id": "tecnico-em-desenvolvimento-de-sistemas",
+      "denominacao": "Técnico em Desenvolvimento de Sistemas",
+      "denominacao_normalizada": "tecnico em desenvolvimento de sistemas",
+      "eixo_tecnologico": "Informação e Comunicação",
+      "area_tecnologica": "Desenvolvimento de Sistemas",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3171-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-desenvolvimento-de-sistemas.json"
+    },
+    {
+      "id": "tecnico-em-informatica",
+      "denominacao": "Técnico em Informática",
+      "denominacao_normalizada": "tecnico em informatica",
+      "eixo_tecnologico": "Informação e Comunicação",
+      "area_tecnologica": "Desenvolvimento de Sistemas",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3171",
+        "3172"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-informatica.json"
+    },
+    {
+      "id": "tecnico-em-informatica-para-internet",
+      "denominacao": "Técnico em Informática para Internet",
+      "denominacao_normalizada": "tecnico em informatica para internet",
+      "eixo_tecnologico": "Informação e Comunicação",
+      "area_tecnologica": "Desenvolvimento de Sistemas",
+      "carga_horaria_minima_horas": 1000,
+      "codigos_cbo": [
+        "3171-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-informatica-para-internet.json"
+    },
+    {
+      "id": "tecnico-em-programacao-de-jogos-digitais",
+      "denominacao": "Técnico em Programação de Jogos Digitais",
+      "denominacao_normalizada": "tecnico em programacao de jogos digitais",
+      "eixo_tecnologico": "Informação e Comunicação",
+      "area_tecnologica": "Desenvolvimento de Sistemas",
+      "carga_horaria_minima_horas": 1000,
+      "codigos_cbo": [
+        "3171-20"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-programacao-de-jogos-digitais.json"
+    },
+    {
+      "id": "tecnico-em-manutencao-e-suporte-em-informatica",
+      "denominacao": "Técnico em Manutenção e Suporte em Informática",
+      "denominacao_normalizada": "tecnico em manutencao e suporte em informatica",
+      "eixo_tecnologico": "Informação e Comunicação",
+      "area_tecnologica": "Infraestrutura de Informação e Comunicação",
+      "carga_horaria_minima_horas": 1000,
+      "codigos_cbo": [
+        "3132-20",
+        "3172-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-manutencao-e-suporte-em-informatica.json"
+    },
+    {
+      "id": "tecnico-em-redes-de-computadores",
+      "denominacao": "Técnico em Redes de Computadores",
+      "denominacao_normalizada": "tecnico em redes de computadores",
+      "eixo_tecnologico": "Informação e Comunicação",
+      "area_tecnologica": "Infraestrutura de Informação e Comunicação",
+      "carga_horaria_minima_horas": 1000,
+      "codigos_cbo": [
+        "3132-20",
+        "3172-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-redes-de-computadores.json"
+    },
+    {
+      "id": "tecnico-em-telecomunicacoes",
+      "denominacao": "Técnico em Telecomunicações",
+      "denominacao_normalizada": "tecnico em telecomunicacoes",
+      "eixo_tecnologico": "Informação e Comunicação",
+      "area_tecnologica": "Infraestrutura de Informação e Comunicação",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3133-15",
+        "3133-05",
+        "3133-10",
+        "3133-20",
+        "3912-05",
+        "7313-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-telecomunicacoes.json"
+    },
+    {
+      "id": "tecnico-em-carpintaria",
+      "denominacao": "Técnico em Carpintaria",
+      "denominacao_normalizada": "tecnico em carpintaria",
+      "eixo_tecnologico": "Infraestrutura",
+      "area_tecnologica": "Construção de Obras",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3212-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-carpintaria.json"
+    },
+    {
+      "id": "tecnico-em-desenho-de-construcao-civil",
+      "denominacao": "Técnico em Desenho de Construção Civil",
+      "denominacao_normalizada": "tecnico em desenho de construcao civil",
+      "eixo_tecnologico": "Infraestrutura",
+      "area_tecnologica": "Construção de Obras",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3180-05",
+        "3180-15",
+        "3180-10",
+        "3181-05",
+        "3181-10",
+        "3181-15",
+        "3181-20",
+        "3185-05",
+        "3185-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-desenho-de-construcao-civil.json"
+    },
+    {
+      "id": "tecnico-em-edificacoes",
+      "denominacao": "Técnico em Edificações",
+      "denominacao_normalizada": "tecnico em edificacoes",
+      "eixo_tecnologico": "Infraestrutura",
+      "area_tecnologica": "Construção de Obras",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3121-05",
+        "3180-05",
+        "3180-15",
+        "3180-10",
+        "3181-05",
+        "3181-20",
+        "5143-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-edificacoes.json"
+    },
+    {
+      "id": "tecnico-em-estradas",
+      "denominacao": "Técnico em Estradas",
+      "denominacao_normalizada": "tecnico em estradas",
+      "eixo_tecnologico": "Infraestrutura",
+      "area_tecnologica": "Construção de Obras",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3122-05",
+        "3123-20"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-estradas.json"
+    },
+    {
+      "id": "tecnico-em-saneamento",
+      "denominacao": "Técnico em Saneamento",
+      "denominacao_normalizada": "tecnico em saneamento",
+      "eixo_tecnologico": "Infraestrutura",
+      "area_tecnologica": "Construção de Obras",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3122-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-saneamento.json"
+    },
+    {
+      "id": "tecnico-em-agrimensura",
+      "denominacao": "Técnico em Agrimensura",
+      "denominacao_normalizada": "tecnico em agrimensura",
+      "eixo_tecnologico": "Infraestrutura",
+      "area_tecnologica": "Mensuração Espacial e Volumétrica",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3123-05",
+        "3123-20",
+        "3123-10",
+        "3123-15",
+        "3181-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-agrimensura.json"
+    },
+    {
+      "id": "tecnico-em-geodesia-e-cartografia",
+      "denominacao": "Técnico em Geodésia e Cartografia",
+      "denominacao_normalizada": "tecnico em geodesia e cartografia",
+      "eixo_tecnologico": "Infraestrutura",
+      "area_tecnologica": "Mensuração Espacial e Volumétrica",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3123-05",
+        "3123-10",
+        "3123-15",
+        "3181-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-geodesia-e-cartografia.json"
+    },
+    {
+      "id": "tecnico-em-geoprocessamento",
+      "denominacao": "Técnico em Geoprocessamento",
+      "denominacao_normalizada": "tecnico em geoprocessamento",
+      "eixo_tecnologico": "Infraestrutura",
+      "area_tecnologica": "Mensuração Espacial e Volumétrica",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3123-20",
+        "3123-05",
+        "3123-10",
+        "3123-15",
+        "3181-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-geoprocessamento.json"
+    },
+    {
+      "id": "tecnico-em-hidrologia",
+      "denominacao": "Técnico em Hidrologia",
+      "denominacao_normalizada": "tecnico em hidrologia",
+      "eixo_tecnologico": "Infraestrutura",
+      "area_tecnologica": "Mensuração Espacial e Volumétrica",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3123-15",
+        "3123-05",
+        "3123-10",
+        "3123-20"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-hidrologia.json"
+    },
+    {
+      "id": "tecnico-aeroportuario",
+      "denominacao": "Técnico Aeroportuário",
+      "denominacao_normalizada": "tecnico aeroportuario",
+      "eixo_tecnologico": "Infraestrutura",
+      "area_tecnologica": "Operações de Transporte",
+      "carga_horaria_minima_horas": 1000,
+      "codigos_cbo": [
+        "3425-20",
+        "3425-25",
+        "3425-35",
+        "3425-45"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-aeroportuario.json"
+    },
+    {
+      "id": "tecnico-em-portos",
+      "denominacao": "Técnico em Portos",
+      "denominacao_normalizada": "tecnico em portos",
+      "eixo_tecnologico": "Infraestrutura",
+      "area_tecnologica": "Operações de Transporte",
+      "carga_horaria_minima_horas": 1000,
+      "codigos_cbo": [
+        "3422-10",
+        "3426-05",
+        "3426-10",
+        "3543-05",
+        "4142-15"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-portos.json"
+    },
+    {
+      "id": "tecnico-em-transito",
+      "denominacao": "Técnico em Trânsito",
+      "denominacao_normalizada": "tecnico em transito",
+      "eixo_tecnologico": "Infraestrutura",
+      "area_tecnologica": "Operações de Transporte",
+      "carga_horaria_minima_horas": 1000,
+      "codigos_cbo": [
+        "3423-05",
+        "3423-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-transito.json"
+    },
+    {
+      "id": "tecnico-em-transporte-aquaviario",
+      "denominacao": "Técnico em Transporte Aquaviário",
+      "denominacao_normalizada": "tecnico em transporte aquaviario",
+      "eixo_tecnologico": "Infraestrutura",
+      "area_tecnologica": "Operações de Transporte",
+      "carga_horaria_minima_horas": 1000,
+      "codigos_cbo": [
+        "3426-10",
+        "3426-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-transporte-aquaviario.json"
+    },
+    {
+      "id": "tecnico-em-transporte-de-cargas",
+      "denominacao": "Técnico em Transporte de Cargas",
+      "denominacao_normalizada": "tecnico em transporte de cargas",
+      "eixo_tecnologico": "Infraestrutura",
+      "area_tecnologica": "Operações de Transporte",
+      "carga_horaria_minima_horas": 1000,
+      "codigos_cbo": [
+        "3423-05",
+        "3423-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-transporte-de-cargas.json"
+    },
+    {
+      "id": "tecnico-em-transporte-metroferroviario",
+      "denominacao": "Técnico em Transporte Metroferroviário",
+      "denominacao_normalizada": "tecnico em transporte metroferroviario",
+      "eixo_tecnologico": "Infraestrutura",
+      "area_tecnologica": "Operações de Transporte",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3421-20",
+        "3421-10",
+        "3423-15",
+        "7831-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-transporte-metroferroviario.json"
+    },
+    {
+      "id": "tecnico-em-transporte-rodoviario",
+      "denominacao": "Técnico em Transporte Rodoviário",
+      "denominacao_normalizada": "tecnico em transporte rodoviario",
+      "eixo_tecnologico": "Infraestrutura",
+      "area_tecnologica": "Operações de Transporte",
+      "carga_horaria_minima_horas": 1000,
+      "codigos_cbo": [
+        "3422-10",
+        "3423-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-transporte-rodoviario.json"
+    },
+    {
+      "id": "tecnico-em-agroindustria",
+      "denominacao": "Técnico em Agroindústria",
+      "denominacao_normalizada": "tecnico em agroindustria",
+      "eixo_tecnologico": "Produção Alimentícia",
+      "area_tecnologica": "Este Eixo Tecnológico não possui divisão em Áreas Tecnológicas.",
+      "carga_horaria_minima_horas": 1000,
+      "codigos_cbo": [
+        "8181-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-agroindustria.json"
+    },
+    {
+      "id": "tecnico-em-alimentos",
+      "denominacao": "Técnico em Alimentos",
+      "denominacao_normalizada": "tecnico em alimentos",
+      "eixo_tecnologico": "Produção Alimentícia",
+      "area_tecnologica": "Este Eixo Tecnológico não possui divisão em Áreas Tecnológicas.",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3252-05",
+        "8181-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-alimentos.json"
+    },
+    {
+      "id": "tecnico-em-cervejaria",
+      "denominacao": "Técnico em Cervejaria",
+      "denominacao_normalizada": "tecnico em cervejaria",
+      "eixo_tecnologico": "Produção Alimentícia",
+      "area_tecnologica": "Este Eixo Tecnológico não possui divisão em Áreas Tecnológicas.",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "8417-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-cervejaria.json"
+    },
+    {
+      "id": "tecnico-em-confeitaria",
+      "denominacao": "Técnico em Confeitaria",
+      "denominacao_normalizada": "tecnico em confeitaria",
+      "eixo_tecnologico": "Produção Alimentícia",
+      "area_tecnologica": "Este Eixo Tecnológico não possui divisão em Áreas Tecnológicas.",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "8483-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-confeitaria.json"
+    },
+    {
+      "id": "tecnico-em-panificacao",
+      "denominacao": "Técnico em Panificação",
+      "denominacao_normalizada": "tecnico em panificacao",
+      "eixo_tecnologico": "Produção Alimentícia",
+      "area_tecnologica": "Este Eixo Tecnológico não possui divisão em Áreas Tecnológicas.",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "8483-05",
+        "5135-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-panificacao.json"
+    },
+    {
+      "id": "tecnico-em-viticultura-e-enologia",
+      "denominacao": "Técnico em Viticultura e Enologia",
+      "denominacao_normalizada": "tecnico em viticultura e enologia",
+      "eixo_tecnologico": "Produção Alimentícia",
+      "area_tecnologica": "Este Eixo Tecnológico não possui divisão em Áreas Tecnológicas.",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3250-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-viticultura-e-enologia.json"
+    },
+    {
+      "id": "tecnico-em-multimidia",
+      "denominacao": "Técnico em Multimídia",
+      "denominacao_normalizada": "tecnico em multimidia",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Comunicação Midiática",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "3171-20",
+        "3171-05",
+        "3171-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-multimidia.json"
+    },
+    {
+      "id": "tecnico-em-processos-fotograficos",
+      "denominacao": "Técnico em Processos Fotográficos",
+      "denominacao_normalizada": "tecnico em processos fotograficos",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Comunicação Midiática",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-processos-fotograficos.json"
+    },
+    {
+      "id": "tecnico-em-producao-de-audio-e-video",
+      "denominacao": "Técnico em Produção de Áudio e Vídeo",
+      "denominacao_normalizada": "tecnico em producao de audio e video",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Comunicação Midiática",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3721-15",
+        "3732-05",
+        "3732-20",
+        "3742-10",
+        "3744-05",
+        "3744-15",
+        "5173-30",
+        "7661-20",
+        "3731-05",
+        "3731-20",
+        "3741-05",
+        "3741-10",
+        "3741-35",
+        "3743-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-producao-de-audio-e-video.json"
+    },
+    {
+      "id": "tecnico-em-publicidade",
+      "denominacao": "Técnico em Publicidade",
+      "denominacao_normalizada": "tecnico em publicidade",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Comunicação Midiática",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-publicidade.json"
+    },
+    {
+      "id": "tecnico-em-radio-e-televisao",
+      "denominacao": "Técnico em Rádio e Televisão",
+      "denominacao_normalizada": "tecnico em radio e televisao",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Comunicação Midiática",
+      "carga_horaria_minima_horas": 1000,
+      "codigos_cbo": [
+        "3732-15",
+        "3731-10",
+        "3741-25",
+        "3732-05",
+        "3732-10",
+        "3732-20",
+        "3731-05",
+        "3731-15",
+        "3731-20",
+        "3731-25",
+        "3741-05",
+        "3741-10",
+        "3741-15",
+        "3741-20",
+        "3741-30",
+        "3741-35",
+        "3741-40",
+        "3741-45"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-radio-e-televisao.json"
+    },
+    {
+      "id": "tecnico-em-cenografia",
+      "denominacao": "Técnico em Cenografia",
+      "denominacao_normalizada": "tecnico em cenografia",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Design",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "3742",
+        "3742-05",
+        "3742-10",
+        "3742-15"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-cenografia.json"
+    },
+    {
+      "id": "tecnico-em-design-de-calcados",
+      "denominacao": "Técnico em Design de Calçados",
+      "denominacao_normalizada": "tecnico em design de calcados",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Design",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "3188-15"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-design-de-calcados.json"
+    },
+    {
+      "id": "tecnico-em-design-de-embalagens",
+      "denominacao": "Técnico em Design de Embalagens",
+      "denominacao_normalizada": "tecnico em design de embalagens",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Design",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "3184-30"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-design-de-embalagens.json"
+    },
+    {
+      "id": "tecnico-em-design-de-interiores",
+      "denominacao": "Técnico em Design de Interiores",
+      "denominacao_normalizada": "tecnico em design de interiores",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Design",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3751-05",
+        "3180-10",
+        "3751-10",
+        "3751-15",
+        "3751-20",
+        "3180-05",
+        "3180-15"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-design-de-interiores.json"
+    },
+    {
+      "id": "tecnico-em-design-de-joias",
+      "denominacao": "Técnico em Design de Joias",
+      "denominacao_normalizada": "tecnico em design de joias",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Design",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "7911-20",
+        "3544-15",
+        "7510-05",
+        "7511-15",
+        "7510-10",
+        "7511-25"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-design-de-joias.json"
+    },
+    {
+      "id": "tecnico-em-design-de-moda",
+      "denominacao": "Técnico em Design de Moda",
+      "denominacao_normalizada": "tecnico em design de moda",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Design",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-design-de-moda.json"
+    },
+    {
+      "id": "tecnico-em-design-de-moveis",
+      "denominacao": "Técnico em Design de Móveis",
+      "denominacao_normalizada": "tecnico em design de moveis",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Design",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "3184-25",
+        "3188-05",
+        "7711-15",
+        "7711-05",
+        "7711-10",
+        "7711-20"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-design-de-moveis.json"
+    },
+    {
+      "id": "tecnico-em-design-grafico",
+      "denominacao": "Técnico em Design Gráfico",
+      "denominacao_normalizada": "tecnico em design grafico",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Design",
+      "carga_horaria_minima_horas": 1000,
+      "codigos_cbo": [
+        "3713-05",
+        "3184-05",
+        "3713-10",
+        "3184-10",
+        "3184-15",
+        "3184-20",
+        "3184-25",
+        "3184-30"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-design-grafico.json"
+    },
+    {
+      "id": "tecnico-em-estilismo-e-coordenacao-de-moda",
+      "denominacao": "Técnico em Estilismo e Coordenação de Moda",
+      "denominacao_normalizada": "tecnico em estilismo e coordenacao de moda",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Design",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-estilismo-e-coordenacao-de-moda.json"
+    },
+    {
+      "id": "tecnico-em-fabricacao-de-instrumentos-musicais",
+      "denominacao": "Técnico em Fabricação de Instrumentos Musicais",
+      "denominacao_normalizada": "tecnico em fabricacao de instrumentos musicais",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Design",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "7421-20",
+        "7421-05",
+        "7421-10",
+        "7421-15",
+        "7421-25",
+        "7421-30",
+        "7421-35",
+        "7421-40"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-fabricacao-de-instrumentos-musicais.json"
+    },
+    {
+      "id": "tecnico-em-figurino-cenico",
+      "denominacao": "Técnico em Figurino Cênico",
+      "denominacao_normalizada": "tecnico em figurino cenico",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Design",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "3188-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-figurino-cenico.json"
+    },
+    {
+      "id": "tecnico-em-modelagem-do-vestuario",
+      "denominacao": "Técnico em Modelagem do Vestuário",
+      "denominacao_normalizada": "tecnico em modelagem do vestuario",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Design",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "3188-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-modelagem-do-vestuario.json"
+    },
+    {
+      "id": "tecnico-em-producao-de-moda",
+      "denominacao": "Técnico em Produção de Moda",
+      "denominacao_normalizada": "tecnico em producao de moda",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Design",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "3751-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-producao-de-moda.json"
+    },
+    {
+      "id": "tecnico-em-artesanato",
+      "denominacao": "Técnico em Artesanato",
+      "denominacao_normalizada": "tecnico em artesanato",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Manifestações Artísticas",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "7521-05",
+        "7911-05",
+        "7911-10",
+        "7911-15",
+        "7911-20",
+        "7911-25",
+        "7911-30",
+        "7911-35",
+        "7911-40",
+        "7911-45",
+        "7911-50",
+        "7911-55",
+        "7911-60"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-artesanato.json"
+    },
+    {
+      "id": "tecnico-em-artes-circenses",
+      "denominacao": "Técnico em Artes Circenses",
+      "denominacao_normalizada": "tecnico em artes circenses",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Manifestações Artísticas",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3762-15",
+        "3762-05",
+        "3762-10",
+        "3762-20",
+        "3762-25",
+        "3762-30",
+        "3762-35",
+        "3762-40",
+        "3762-45",
+        "3762-50",
+        "3762-55",
+        "3763-25",
+        "3763-05",
+        "3763-10",
+        "3763-15",
+        "3763-20"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-artes-circenses.json"
+    },
+    {
+      "id": "tecnico-em-artes-visuais",
+      "denominacao": "Técnico em Artes Visuais",
+      "denominacao_normalizada": "tecnico em artes visuais",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Manifestações Artísticas",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-artes-visuais.json"
+    },
+    {
+      "id": "tecnico-em-canto",
+      "denominacao": "Técnico em Canto",
+      "denominacao_normalizada": "tecnico em canto",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Manifestações Artísticas",
+      "carga_horaria_minima_horas": 1000,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-canto.json"
+    },
+    {
+      "id": "tecnico-em-composicao-e-arranjo",
+      "denominacao": "Técnico em Composição e Arranjo",
+      "denominacao_normalizada": "tecnico em composicao e arranjo",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Manifestações Artísticas",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-composicao-e-arranjo.json"
+    },
+    {
+      "id": "tecnico-em-conservacao-e-restauro",
+      "denominacao": "Técnico em Conservação e Restauro",
+      "denominacao_normalizada": "tecnico em conservacao e restauro",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Manifestações Artísticas",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "7687-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-conservacao-e-restauro.json"
+    },
+    {
+      "id": "tecnico-em-danca",
+      "denominacao": "Técnico em Dança",
+      "denominacao_normalizada": "tecnico em danca",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Manifestações Artísticas",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3761-05",
+        "3761-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-danca.json"
+    },
+    {
+      "id": "tecnico-em-instrumento-musical",
+      "denominacao": "Técnico em Instrumento Musical",
+      "denominacao_normalizada": "tecnico em instrumento musical",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Manifestações Artísticas",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-instrumento-musical.json"
+    },
+    {
+      "id": "tecnico-em-museologia",
+      "denominacao": "Técnico em Museologia",
+      "denominacao_normalizada": "tecnico em museologia",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Manifestações Artísticas",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3712-10",
+        "3712-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-museologia.json"
+    },
+    {
+      "id": "tecnico-em-paisagismo",
+      "denominacao": "Técnico em Paisagismo",
+      "denominacao_normalizada": "tecnico em paisagismo",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Manifestações Artísticas",
+      "carga_horaria_minima_horas": 1000,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-paisagismo.json"
+    },
+    {
+      "id": "tecnico-em-producao-cultural",
+      "denominacao": "Técnico em Produção Cultural",
+      "denominacao_normalizada": "tecnico em producao cultural",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Manifestações Artísticas",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-producao-cultural.json"
+    },
+    {
+      "id": "tecnico-em-regencia",
+      "denominacao": "Técnico em Regência",
+      "denominacao_normalizada": "tecnico em regencia",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Manifestações Artísticas",
+      "carga_horaria_minima_horas": 1000,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-regencia.json"
+    },
+    {
+      "id": "tecnico-em-teatro",
+      "denominacao": "Técnico em Teatro",
+      "denominacao_normalizada": "tecnico em teatro",
+      "eixo_tecnologico": "Produção Cultural e Design",
+      "area_tecnologica": "Manifestações Artísticas",
+      "carga_horaria_minima_horas": 1000,
+      "codigos_cbo": [
+        "3742-05",
+        "3742-10",
+        "3742-15"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-teatro.json"
+    },
+    {
+      "id": "tecnico-em-construcao-naval",
+      "denominacao": "Técnico em Construção Naval",
+      "denominacao_normalizada": "tecnico em construcao naval",
+      "eixo_tecnologico": "Produção Industrial",
+      "area_tecnologica": "Manufatura",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3182-15",
+        "3182-05",
+        "3182-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-construcao-naval.json"
+    },
+    {
+      "id": "tecnico-em-moveis",
+      "denominacao": "Técnico em Móveis",
+      "denominacao_normalizada": "tecnico em moveis",
+      "eixo_tecnologico": "Produção Industrial",
+      "area_tecnologica": "Manufatura",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3184-25",
+        "3192-05",
+        "3188-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-moveis.json"
+    },
+    {
+      "id": "tecnico-em-planejamento-e-controle-da-producao",
+      "denominacao": "Técnico em Planejamento e Controle da Produção",
+      "denominacao_normalizada": "tecnico em planejamento e controle da producao",
+      "eixo_tecnologico": "Produção Industrial",
+      "area_tecnologica": "Manufatura",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "3911-25"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-planejamento-e-controle-da-producao.json"
+    },
+    {
+      "id": "tecnico-em-processamento-da-madeira",
+      "denominacao": "Técnico em Processamento da Madeira",
+      "denominacao_normalizada": "tecnico em processamento da madeira",
+      "eixo_tecnologico": "Produção Industrial",
+      "area_tecnologica": "Manufatura",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3212-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-processamento-da-madeira.json"
+    },
+    {
+      "id": "tecnico-em-processos-graficos",
+      "denominacao": "Técnico em Processos Gráficos",
+      "denominacao_normalizada": "tecnico em processos graficos",
+      "eixo_tecnologico": "Produção Industrial",
+      "area_tecnologica": "Manufatura",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3713-10",
+        "3713-05",
+        "3184-05",
+        "7606-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-processos-graficos.json"
+    },
+    {
+      "id": "tecnico-em-ceramica",
+      "denominacao": "Técnico em Cerâmica",
+      "denominacao_normalizada": "tecnico em ceramica",
+      "eixo_tecnologico": "Produção Industrial",
+      "area_tecnologica": "Materiais",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "7523-05",
+        "3113-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-ceramica.json"
+    },
+    {
+      "id": "tecnico-em-plasticos",
+      "denominacao": "Técnico em Plásticos",
+      "denominacao_normalizada": "tecnico em plasticos",
+      "eixo_tecnologico": "Produção Industrial",
+      "area_tecnologica": "Materiais",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3114-10",
+        "3114-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-plasticos.json"
+    },
+    {
+      "id": "tecnico-em-vidros",
+      "denominacao": "Técnico em Vidros",
+      "denominacao_normalizada": "tecnico em vidros",
+      "eixo_tecnologico": "Produção Industrial",
+      "area_tecnologica": "Materiais",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3113-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-vidros.json"
+    },
+    {
+      "id": "tecnico-em-acucar-e-alcool",
+      "denominacao": "Técnico em Açúcar e Álcool",
+      "denominacao_normalizada": "tecnico em acucar e alcool",
+      "eixo_tecnologico": "Produção Industrial",
+      "area_tecnologica": "Química",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3111-05",
+        "3111-10",
+        "3111-15",
+        "3253-05",
+        "3253-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-acucar-e-alcool.json"
+    },
+    {
+      "id": "tecnico-em-biocombustiveis",
+      "denominacao": "Técnico em Biocombustíveis",
+      "denominacao_normalizada": "tecnico em biocombustiveis",
+      "eixo_tecnologico": "Produção Industrial",
+      "area_tecnologica": "Química",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-biocombustiveis.json"
+    },
+    {
+      "id": "tecnico-em-biotecnologia",
+      "denominacao": "Técnico em Biotecnologia",
+      "denominacao_normalizada": "tecnico em biotecnologia",
+      "eixo_tecnologico": "Produção Industrial",
+      "area_tecnologica": "Química",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3253-05",
+        "3253-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-biotecnologia.json"
+    },
+    {
+      "id": "tecnico-em-celulose-e-papel",
+      "denominacao": "Técnico em Celulose e Papel",
+      "denominacao_normalizada": "tecnico em celulose e papel",
+      "eixo_tecnologico": "Produção Industrial",
+      "area_tecnologica": "Química",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3111-10",
+        "3117-05",
+        "3111-05",
+        "3111-15",
+        "3117-10",
+        "3117-15"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-celulose-e-papel.json"
+    },
+    {
+      "id": "tecnico-em-curtimento",
+      "denominacao": "Técnico em Curtimento",
+      "denominacao_normalizada": "tecnico em curtimento",
+      "eixo_tecnologico": "Produção Industrial",
+      "area_tecnologica": "Química",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3111-15",
+        "7602-05",
+        "7622-05",
+        "7622-10",
+        "7622-15",
+        "7622-20"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-curtimento.json"
+    },
+    {
+      "id": "tecnico-em-petroleo-e-gas",
+      "denominacao": "Técnico em Petróleo e Gás",
+      "denominacao_normalizada": "tecnico em petroleo e gas",
+      "eixo_tecnologico": "Produção Industrial",
+      "area_tecnologica": "Química",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3011-15",
+        "3163-10",
+        "3163-25"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-petroleo-e-gas.json"
+    },
+    {
+      "id": "tecnico-em-petroquimica",
+      "denominacao": "Técnico em Petroquímica",
+      "denominacao_normalizada": "tecnico em petroquimica",
+      "eixo_tecnologico": "Produção Industrial",
+      "area_tecnologica": "Química",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3112-05",
+        "3163-25"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-petroquimica.json"
+    },
+    {
+      "id": "tecnico-em-quimica",
+      "denominacao": "Técnico em Química",
+      "denominacao_normalizada": "tecnico em quimica",
+      "eixo_tecnologico": "Produção Industrial",
+      "area_tecnologica": "Química",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3111-05",
+        "3011-10",
+        "3011-15",
+        "3112-05",
+        "3011-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-quimica.json"
+    },
+    {
+      "id": "tecnico-em-calcados",
+      "denominacao": "Técnico em Calçados",
+      "denominacao_normalizada": "tecnico em calcados",
+      "eixo_tecnologico": "Produção Industrial",
+      "area_tecnologica": "Têxtil e Vestuário",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3191-05",
+        "3191-10",
+        "3188-15"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-calcados.json"
+    },
+    {
+      "id": "tecnico-em-joalheria",
+      "denominacao": "Técnico em Joalheria",
+      "denominacao_normalizada": "tecnico em joalheria",
+      "eixo_tecnologico": "Produção Industrial",
+      "area_tecnologica": "Têxtil e Vestuário",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-joalheria.json"
+    },
+    {
+      "id": "tecnico-em-textil",
+      "denominacao": "Técnico em Têxtil",
+      "denominacao_normalizada": "tecnico em textil",
+      "eixo_tecnologico": "Produção Industrial",
+      "area_tecnologica": "Têxtil e Vestuário",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3116-10",
+        "3184-20",
+        "3523-20",
+        "7213-05",
+        "7601-05",
+        "7601-20",
+        "7601-25",
+        "7611-05",
+        "7611-10",
+        "7618-10",
+        "7618-15",
+        "3116-15",
+        "3116-20",
+        "3116-25",
+        "3117-10",
+        "3116-05",
+        "3117-20",
+        "3117-05",
+        "3117-15",
+        "3117-25"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-textil.json"
+    },
+    {
+      "id": "tecnico-em-vestuario",
+      "denominacao": "Técnico em Vestuário",
+      "denominacao_normalizada": "tecnico em vestuario",
+      "eixo_tecnologico": "Produção Industrial",
+      "area_tecnologica": "Têxtil e Vestuário",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3191-10",
+        "3191-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-vestuario.json"
+    },
+    {
+      "id": "tecnico-em-geologia",
+      "denominacao": "Técnico em Geologia",
+      "denominacao_normalizada": "tecnico em geologia",
+      "eixo_tecnologico": "Recursos Naturais",
+      "area_tecnologica": "Mineração e Extração",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3161-05",
+        "3161-10",
+        "3161-15",
+        "3161-20",
+        "3163-20"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-geologia.json"
+    },
+    {
+      "id": "tecnico-em-mineracao",
+      "denominacao": "Técnico em Mineração",
+      "denominacao_normalizada": "tecnico em mineracao",
+      "eixo_tecnologico": "Recursos Naturais",
+      "area_tecnologica": "Mineração e Extração",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3163-05",
+        "3163-30",
+        "3163-20",
+        "3163-15"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-mineracao.json"
+    },
+    {
+      "id": "tecnico-em-aquicultura",
+      "denominacao": "Técnico em Aquicultura",
+      "denominacao_normalizada": "tecnico em aquicultura",
+      "eixo_tecnologico": "Recursos Naturais",
+      "area_tecnologica": "Pesca e Aquicultura",
+      "carga_horaria_minima_horas": 1000,
+      "codigos_cbo": [
+        "3213-05",
+        "3213-10",
+        "3213-15",
+        "3213-20"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-aquicultura.json"
+    },
+    {
+      "id": "tecnico-em-pesca",
+      "denominacao": "Técnico em Pesca",
+      "denominacao_normalizada": "tecnico em pesca",
+      "eixo_tecnologico": "Recursos Naturais",
+      "area_tecnologica": "Pesca e Aquicultura",
+      "carga_horaria_minima_horas": 1000,
+      "codigos_cbo": [
+        "3412-20",
+        "3412-25"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-pesca.json"
+    },
+    {
+      "id": "tecnico-em-recursos-pesqueiros",
+      "denominacao": "Técnico em Recursos Pesqueiros",
+      "denominacao_normalizada": "tecnico em recursos pesqueiros",
+      "eixo_tecnologico": "Recursos Naturais",
+      "area_tecnologica": "Pesca e Aquicultura",
+      "carga_horaria_minima_horas": 1000,
+      "codigos_cbo": [
+        "3213-05",
+        "3213-10",
+        "3213-15",
+        "3213-20",
+        "3412-20",
+        "3412-25"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-recursos-pesqueiros.json"
+    },
+    {
+      "id": "tecnico-em-agricultura",
+      "denominacao": "Técnico em Agricultura",
+      "denominacao_normalizada": "tecnico em agricultura",
+      "eixo_tecnologico": "Recursos Naturais",
+      "area_tecnologica": "Produção Agrícola e Pecuária",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3211-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-agricultura.json"
+    },
+    {
+      "id": "tecnico-em-agroecologia",
+      "denominacao": "Técnico em Agroecologia",
+      "denominacao_normalizada": "tecnico em agroecologia",
+      "eixo_tecnologico": "Recursos Naturais",
+      "area_tecnologica": "Produção Agrícola e Pecuária",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3211-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-agroecologia.json"
+    },
+    {
+      "id": "tecnico-em-agronegocio",
+      "denominacao": "Técnico em Agronegócio",
+      "denominacao_normalizada": "tecnico em agronegocio",
+      "eixo_tecnologico": "Recursos Naturais",
+      "area_tecnologica": "Produção Agrícola e Pecuária",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-agronegocio.json"
+    },
+    {
+      "id": "tecnico-em-agropecuaria",
+      "denominacao": "Técnico em Agropecuária",
+      "denominacao_normalizada": "tecnico em agropecuaria",
+      "eixo_tecnologico": "Recursos Naturais",
+      "area_tecnologica": "Produção Agrícola e Pecuária",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3211-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-agropecuaria.json"
+    },
+    {
+      "id": "tecnico-em-apicultura",
+      "denominacao": "Técnico em Apicultura",
+      "denominacao_normalizada": "tecnico em apicultura",
+      "eixo_tecnologico": "Recursos Naturais",
+      "area_tecnologica": "Produção Agrícola e Pecuária",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "6134-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-apicultura.json"
+    },
+    {
+      "id": "tecnico-em-cafeicultura",
+      "denominacao": "Técnico em Cafeicultura",
+      "denominacao_normalizada": "tecnico em cafeicultura",
+      "eixo_tecnologico": "Recursos Naturais",
+      "area_tecnologica": "Produção Agrícola e Pecuária",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3211-05",
+        "3252-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-cafeicultura.json"
+    },
+    {
+      "id": "tecnico-em-fruticultura",
+      "denominacao": "Técnico em Fruticultura",
+      "denominacao_normalizada": "tecnico em fruticultura",
+      "eixo_tecnologico": "Recursos Naturais",
+      "area_tecnologica": "Produção Agrícola e Pecuária",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3211-05",
+        "3252-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-fruticultura.json"
+    },
+    {
+      "id": "tecnico-em-zootecnia",
+      "denominacao": "Técnico em Zootecnia",
+      "denominacao_normalizada": "tecnico em zootecnia",
+      "eixo_tecnologico": "Recursos Naturais",
+      "area_tecnologica": "Produção Agrícola e Pecuária",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3231-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-zootecnia.json"
+    },
+    {
+      "id": "tecnico-em-florestas",
+      "denominacao": "Técnico em Florestas",
+      "denominacao_normalizada": "tecnico em florestas",
+      "eixo_tecnologico": "Recursos Naturais",
+      "area_tecnologica": "Silvicultura",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3212-10",
+        "3212-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-florestas.json"
+    },
+    {
+      "id": "tecnico-em-defesa-civil",
+      "denominacao": "Técnico em Defesa Civil",
+      "denominacao_normalizada": "tecnico em defesa civil",
+      "eixo_tecnologico": "Segurança",
+      "area_tecnologica": "Este Eixo Tecnológico não possui divisão em Áreas Tecnológicas.",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "3516-05",
+        "1421-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-defesa-civil.json"
+    },
+    {
+      "id": "tecnico-em-prevencao-e-combate-a-incendio",
+      "denominacao": "Técnico em Prevenção e Combate a Incêndio",
+      "denominacao_normalizada": "tecnico em prevencao e combate a incendio",
+      "eixo_tecnologico": "Segurança",
+      "area_tecnologica": "Este Eixo Tecnológico não possui divisão em Áreas Tecnológicas.",
+      "carga_horaria_minima_horas": 1000,
+      "codigos_cbo": [
+        "5171-05",
+        "5171-10",
+        "5103-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-prevencao-e-combate-a-incendio.json"
+    },
+    {
+      "id": "tecnico-em-seguranca-do-trabalho",
+      "denominacao": "Técnico em Segurança do Trabalho",
+      "denominacao_normalizada": "tecnico em seguranca do trabalho",
+      "eixo_tecnologico": "Segurança",
+      "area_tecnologica": "Este Eixo Tecnológico não possui divisão em Áreas Tecnológicas.",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3516-05",
+        "3516-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-seguranca-do-trabalho.json"
+    },
+    {
+      "id": "tecnico-em-hospedagem",
+      "denominacao": "Técnico em Hospedagem",
+      "denominacao_normalizada": "tecnico em hospedagem",
+      "eixo_tecnologico": "Turismo, Hospitalidade e Lazer",
+      "area_tecnologica": "Acolhimento e Hospedagem",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "4221-20",
+        "5131-15",
+        "5131-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-hospedagem.json"
+    },
+    {
+      "id": "tecnico-em-eventos",
+      "denominacao": "Técnico em Eventos",
+      "denominacao_normalizada": "tecnico em eventos",
+      "eixo_tecnologico": "Turismo, Hospitalidade e Lazer",
+      "area_tecnologica": "Apoio técnico a eventos",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "3548-20",
+        "3548-25"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-eventos.json"
+    },
+    {
+      "id": "tecnico-em-agenciamento-de-viagem",
+      "denominacao": "Técnico em Agenciamento de Viagem",
+      "denominacao_normalizada": "tecnico em agenciamento de viagem",
+      "eixo_tecnologico": "Turismo, Hospitalidade e Lazer",
+      "area_tecnologica": "Atividades Turísticas",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "3548-10",
+        "3548-15"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-agenciamento-de-viagem.json"
+    },
+    {
+      "id": "tecnico-em-guia-de-turismo",
+      "denominacao": "Técnico em Guia de Turismo",
+      "denominacao_normalizada": "tecnico em guia de turismo",
+      "eixo_tecnologico": "Turismo, Hospitalidade e Lazer",
+      "area_tecnologica": "Atividades Turísticas",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "5114-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-guia-de-turismo.json"
+    },
+    {
+      "id": "tecnico-em-lazer",
+      "denominacao": "Técnico em Lazer",
+      "denominacao_normalizada": "tecnico em lazer",
+      "eixo_tecnologico": "Turismo, Hospitalidade e Lazer",
+      "area_tecnologica": "Recreação e Sociabilidade",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "3714-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-lazer.json"
+    },
+    {
+      "id": "tecnico-em-gastronomia",
+      "denominacao": "Técnico em Gastronomia",
+      "denominacao_normalizada": "tecnico em gastronomia",
+      "eixo_tecnologico": "Turismo, Hospitalidade e Lazer",
+      "area_tecnologica": "Serviços de Gastronomia",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "5132-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-gastronomia.json"
+    },
+    {
+      "id": "tecnico-em-servicos-de-restaurante-e-bar",
+      "denominacao": "Técnico em Serviços de Restaurante e Bar",
+      "denominacao_normalizada": "tecnico em servicos de restaurante e bar",
+      "eixo_tecnologico": "Turismo, Hospitalidade e Lazer",
+      "area_tecnologica": "Serviços de Gastronomia",
+      "carga_horaria_minima_horas": 800,
+      "codigos_cbo": [
+        "5101-30",
+        "5101-35",
+        "5134-15",
+        "5134-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-servicos-de-restaurante-e-bar.json"
+    },
+    {
+      "id": "tecnico-em-bombeiro-aeronautico",
+      "denominacao": "Técnico em Bombeiro Aeronáutico",
+      "denominacao_normalizada": "tecnico em bombeiro aeronautico",
+      "eixo_tecnologico": "Militar",
+      "area_tecnologica": "Combate Aéreo",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "5171-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-bombeiro-aeronautico.json"
+    },
+    {
+      "id": "tecnico-em-comunicacoes-aeronauticas",
+      "denominacao": "Técnico em Comunicações Aeronáuticas",
+      "denominacao_normalizada": "tecnico em comunicacoes aeronauticas",
+      "eixo_tecnologico": "Militar",
+      "area_tecnologica": "Combate Aéreo",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3133-10",
+        "3133-15",
+        "3133-20"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-comunicacoes-aeronauticas.json"
+    },
+    {
+      "id": "tecnico-em-controle-de-trafego-aereo",
+      "denominacao": "Técnico em Controle de Tráfego Aéreo",
+      "denominacao_normalizada": "tecnico em controle de trafego aereo",
+      "eixo_tecnologico": "Militar",
+      "area_tecnologica": "Combate Aéreo",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3425-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-controle-de-trafego-aereo.json"
+    },
+    {
+      "id": "tecnico-em-desenho-militar",
+      "denominacao": "Técnico em Desenho Militar",
+      "denominacao_normalizada": "tecnico em desenho militar",
+      "eixo_tecnologico": "Militar",
+      "area_tecnologica": "Combate Aéreo",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3185-10",
+        "3181-15",
+        "3180-15"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-desenho-militar.json"
+    },
+    {
+      "id": "tecnico-em-eletricidade-e-instrumentos-aeronauticos",
+      "denominacao": "Técnico em Eletricidade e Instrumentos Aeronáuticos",
+      "denominacao_normalizada": "tecnico em eletricidade e instrumentos aeronauticos",
+      "eixo_tecnologico": "Militar",
+      "area_tecnologica": "Combate Aéreo",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "9141-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-eletricidade-e-instrumentos-aeronauticos.json"
+    },
+    {
+      "id": "tecnico-em-equipamentos-de-voo",
+      "denominacao": "Técnico em Equipamentos de Voo",
+      "denominacao_normalizada": "tecnico em equipamentos de voo",
+      "eixo_tecnologico": "Militar",
+      "area_tecnologica": "Combate Aéreo",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "5173-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-equipamentos-de-voo.json"
+    },
+    {
+      "id": "tecnico-em-estrutura-e-pintura-de-aeronaves",
+      "denominacao": "Técnico em Estrutura e Pintura de Aeronaves",
+      "denominacao_normalizada": "tecnico em estrutura e pintura de aeronaves",
+      "eixo_tecnologico": "Militar",
+      "area_tecnologica": "Combate Aéreo",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "7244-30",
+        "7256-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-estrutura-e-pintura-de-aeronaves.json"
+    },
+    {
+      "id": "tecnico-em-fotointeligencia",
+      "denominacao": "Técnico em Fotointeligência",
+      "denominacao_normalizada": "tecnico em fotointeligencia",
+      "eixo_tecnologico": "Militar",
+      "area_tecnologica": "Combate Aéreo",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3123-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-fotointeligencia.json"
+    },
+    {
+      "id": "tecnico-em-guarda-e-seguranca",
+      "denominacao": "Técnico em Guarda e Segurança",
+      "denominacao_normalizada": "tecnico em guarda e seguranca",
+      "eixo_tecnologico": "Militar",
+      "area_tecnologica": "Combate Aéreo",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "5173-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-guarda-e-seguranca.json"
+    },
+    {
+      "id": "tecnico-em-informacoes-aeronauticas",
+      "denominacao": "Técnico em Informações Aeronáuticas",
+      "denominacao_normalizada": "tecnico em informacoes aeronauticas",
+      "eixo_tecnologico": "Militar",
+      "area_tecnologica": "Combate Aéreo",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "5173-10"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-informacoes-aeronauticas.json"
+    },
+    {
+      "id": "tecnico-em-material-belico",
+      "denominacao": "Técnico em Material Bélico",
+      "denominacao_normalizada": "tecnico em material belico",
+      "eixo_tecnologico": "Militar",
+      "area_tecnologica": "Combate Aéreo",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "9502-05",
+        "9144-05",
+        "9144-25"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-material-belico.json"
+    },
+    {
+      "id": "tecnico-em-mecanica-de-aeronaves",
+      "denominacao": "Técnico em Mecânica de Aeronaves",
+      "denominacao_normalizada": "tecnico em mecanica de aeronaves",
+      "eixo_tecnologico": "Militar",
+      "area_tecnologica": "Combate Aéreo",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3143-10",
+        "9531-05",
+        "9141-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-mecanica-de-aeronaves.json"
+    },
+    {
+      "id": "tecnico-em-suprimento",
+      "denominacao": "Técnico em Suprimento",
+      "denominacao_normalizada": "tecnico em suprimento",
+      "eixo_tecnologico": "Militar",
+      "area_tecnologica": "Combate Aéreo",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3911-15"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-suprimento.json"
+    },
+    {
+      "id": "tecnico-em-comunicacoes-navais",
+      "denominacao": "Técnico em Comunicações Navais",
+      "denominacao_normalizada": "tecnico em comunicacoes navais",
+      "eixo_tecnologico": "Militar",
+      "area_tecnologica": "Combate Naval",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-comunicacoes-navais.json"
+    },
+    {
+      "id": "tecnico-em-controle-de-trafego-aereo-2",
+      "denominacao": "Técnico em Controle de Tráfego Aéreo",
+      "denominacao_normalizada": "tecnico em controle de trafego aereo",
+      "eixo_tecnologico": "Militar",
+      "area_tecnologica": "Combate Naval",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3425-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-controle-de-trafego-aereo-2.json"
+    },
+    {
+      "id": "tecnico-em-estrutura-e-pintura-de-aeronaves-2",
+      "denominacao": "Técnico em Estrutura e Pintura de Aeronaves",
+      "denominacao_normalizada": "tecnico em estrutura e pintura de aeronaves",
+      "eixo_tecnologico": "Militar",
+      "area_tecnologica": "Combate Naval",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "7244-30",
+        "7256-05"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-estrutura-e-pintura-de-aeronaves-2.json"
+    },
+    {
+      "id": "tecnico-em-hidrografia",
+      "denominacao": "Técnico em Hidrografia",
+      "denominacao_normalizada": "tecnico em hidrografia",
+      "eixo_tecnologico": "Militar",
+      "area_tecnologica": "Combate Naval",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "3123-15"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-hidrografia.json"
+    },
+    {
+      "id": "tecnico-em-manobras-e-equipamentos-de-conves",
+      "denominacao": "Técnico em Manobras e Equipamentos de Convés",
+      "denominacao_normalizada": "tecnico em manobras e equipamentos de conves",
+      "eixo_tecnologico": "Militar",
+      "area_tecnologica": "Combate Naval",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-manobras-e-equipamentos-de-conves.json"
+    },
+    {
+      "id": "tecnico-em-material-belico-2",
+      "denominacao": "Técnico em Material Bélico",
+      "denominacao_normalizada": "tecnico em material belico",
+      "eixo_tecnologico": "Militar",
+      "area_tecnologica": "Combate Naval",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [
+        "9502-05",
+        "9144-05",
+        "9144-25"
+      ],
+      "path": "catalogos/cnct/cursos/tecnico-em-material-belico-2.json"
+    },
+    {
+      "id": "tecnico-em-mergulho",
+      "denominacao": "Técnico em Mergulho",
+      "denominacao_normalizada": "tecnico em mergulho",
+      "eixo_tecnologico": "Militar",
+      "area_tecnologica": "Combate Naval",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-mergulho.json"
+    },
+    {
+      "id": "tecnico-em-operacao-de-radar",
+      "denominacao": "Técnico em Operação de Radar",
+      "denominacao_normalizada": "tecnico em operacao de radar",
+      "eixo_tecnologico": "Militar",
+      "area_tecnologica": "Combate Naval",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-operacao-de-radar.json"
+    },
+    {
+      "id": "tecnico-em-operacao-de-sonar",
+      "denominacao": "Técnico em Operação de Sonar",
+      "denominacao_normalizada": "tecnico em operacao de sonar",
+      "eixo_tecnologico": "Militar",
+      "area_tecnologica": "Combate Naval",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-operacao-de-sonar.json"
+    },
+    {
+      "id": "tecnico-em-operacoes-de-engenharia-militar",
+      "denominacao": "Técnico em Operações de Engenharia Militar",
+      "denominacao_normalizada": "tecnico em operacoes de engenharia militar",
+      "eixo_tecnologico": "Militar",
+      "area_tecnologica": "Combate Naval",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-operacoes-de-engenharia-militar.json"
+    },
+    {
+      "id": "tecnico-em-preparacao-fisica-e-desportiva-militar",
+      "denominacao": "Técnico em Preparação Física e Desportiva Militar",
+      "denominacao_normalizada": "tecnico em preparacao fisica e desportiva militar",
+      "eixo_tecnologico": "Militar",
+      "area_tecnologica": "Combate Naval",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-preparacao-fisica-e-desportiva-militar.json"
+    },
+    {
+      "id": "tecnico-em-sensores-de-aviacao",
+      "denominacao": "Técnico em Sensores de Aviação",
+      "denominacao_normalizada": "tecnico em sensores de aviacao",
+      "eixo_tecnologico": "Militar",
+      "area_tecnologica": "Combate Naval",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-sensores-de-aviacao.json"
+    },
+    {
+      "id": "tecnico-em-sinais-navais",
+      "denominacao": "Técnico em Sinais Navais",
+      "denominacao_normalizada": "tecnico em sinais navais",
+      "eixo_tecnologico": "Militar",
+      "area_tecnologica": "Combate Naval",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-sinais-navais.json"
+    },
+    {
+      "id": "tecnico-em-sinalizacao-nautica",
+      "denominacao": "Técnico em Sinalização Náutica",
+      "denominacao_normalizada": "tecnico em sinalizacao nautica",
+      "eixo_tecnologico": "Militar",
+      "area_tecnologica": "Combate Naval",
+      "carga_horaria_minima_horas": 1200,
+      "codigos_cbo": [],
+      "path": "catalogos/cnct/cursos/tecnico-em-sinalizacao-nautica.json"
+    }
+  ]
+}

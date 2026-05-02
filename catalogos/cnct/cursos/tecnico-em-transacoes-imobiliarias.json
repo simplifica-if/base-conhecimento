@@ -1,0 +1,21 @@
+{
+  "id": "tecnico-em-transacoes-imobiliarias",
+  "indice": 74,
+  "denominacao": "Técnico em Transações Imobiliárias",
+  "denominacao_normalizada": "tecnico em transacoes imobiliarias",
+  "eixo_tecnologico": "Gestão e Negócios",
+  "area_tecnologica": "Comercial",
+  "carga_horaria_minima_horas": 800,
+  "descricao_carga_horaria_minima": "O curso dura, em média, 1 ano.\n\nO curso ofertado, na modalidade presencial, poderá prever até 20% da sua carga horária total em atividades não presenciais.\n\nO curso poderá ser realizado na modalidade EaD com, no mínimo, 20% da carga horária em atividades presenciais, nos termos das normas específicas definidas em cada sistema de ensino.\n\nA instituição, ofertante do curso, poderá desenvolver a carga horária em regime de alternância, com períodos de estudos na escola e outros períodos no campo/local de trabalho.\n\nAlém da carga horária mínima prevista, o curso poderá ter estágio curricular supervisionado obrigatório, a critério da instituição ofertante.\n\nCaso o curso seja ofertado na modalidade EaD, a carga horária de estágio será cumprida de forma presencial.",
+  "perfil_profissional": "O Técnico em Transações Imobiliárias será habilitado para:\n\nExecutar atividades de intermediação na compra, venda, permuta e locação de imóveis, sejam terrenos ou edificações.\nRealizar captação, vistoria e demonstração de imóveis.\nPrestar assessoria na identificação de oportunidades de negócios, no processo de transferências, estruturações e registros imobiliários.\nOrientar quanto ao financiamento imobiliário.\nAvaliar imóveis para determinar valor de mercado.\n\nPara atuação como Técnico em Transações Imobiliárias, são fundamentais:\n\nConhecimentos e saberes relacionados ao mercado imobiliário, de modo a atuar em conformidade com a legislação profissional e do setor, com diretrizes de conduta e com normas de saúde e segurança do trabalho.\nAtuação de forma proativa, comunicando-se de forma clara e cordial, demonstrando desinibição e comprometimento com necessidades, desejos e percepção da realidade social de clientes, além de respeito à diversidade e à sustentabilidade.",
+  "pre_requisitos_ingresso": "Para ingresso no Curso Técnico Subsequente, o estudante deverá ter concluído o Ensino Médio.\nPara ingresso no Curso Técnico Concomitante, o estudante deverá estar cursando o Ensino Médio.\nPara ingresso no Curso Técnico Integrado ao Ensino Médio, o estudante deverá ter concluído o Ensino Fundamental.\nPara ingresso no Curso Técnico Integrado à Educação de Jovens e Adultos, o estudante deverá ter concluído o Ensino Fundamental.",
+  "itinerarios_formativos": "Sugestões de qualificação profissional com certificações intermediárias, no curso técnico, considerando ocupações previstas na CBO:\n\nNão identificadas\n\nSugestões de formação continuada em cursos de especialização técnica (pós-técnico):\n\nEspecialização Técnica em Comunicação\nEspecialização Técnica em Comércio Eletrônico\nEspecialização Técnica em Redação de Contratos\nEspecialização Técnica em Mídias Digitais\n\nSugestões de verticalização para cursos de graduação (Curso Superior de Tecnologia, bacharelado e licenciatura):\n\nCurso Superior de Tecnologia em Negócios Imobiliários\nCurso Superior de Tecnologia em Marketing\nCurso Superior de Tecnologia em Gestão Comercial\nCurso Superior de Tecnologia em Gestão Financeira\nBacharelado em Administração\nBacharelado em Direito",
+  "campo_atuacao": "Locais e ambientes de trabalho:\n\nEmpresas do setor imobiliário sejam da construção civil, urbanizadoras, loteadoras, incorporadoras, agências financeiras\nEmpresas prestadoras de serviços imobiliários\nBancos",
+  "ocupacoes_cbo": "3546-05 - Corretor de Imóveis\n3544-10 - Avaliador de Imóveis",
+  "codigos_cbo": [
+    "3546-05",
+    "3544-10"
+  ],
+  "infraestrutura_minima": "Biblioteca com acervo físico ou virtual específico e atualizado\nLaboratório de informática com programas específicos",
+  "legislacao_profissional": "Lei nº 6.530, de 12 de maio de 1978\nDecreto nº 81.871, de 29 de junho de 1978"
+}

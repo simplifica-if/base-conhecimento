@@ -1,0 +1,20 @@
+{
+  "id": "tecnico-em-modelagem-do-vestuario",
+  "indice": 133,
+  "denominacao": "Técnico em Modelagem do Vestuário",
+  "denominacao_normalizada": "tecnico em modelagem do vestuario",
+  "eixo_tecnologico": "Produção Cultural e Design",
+  "area_tecnologica": "Design",
+  "carga_horaria_minima_horas": 800,
+  "descricao_carga_horaria_minima": "O curso dura, em média, 1 ano.\n\nO curso, na modalidade presencial, poderá prever até 20% da sua carga horária total em atividades não presenciais.\n\nO curso poderá ser realizado na modalidade EaD com, no mínimo, 20% de sua carga horária em atividades presenciais, nos termos das normas específicas definidas em cada sistema de ensino.\n\nA instituição, ofertante do curso, poderá desenvolver a carga horária em regime de alternância, com períodos de estudos na escola e outros períodos no campo de atuação/local de trabalho.\n\nAlém da carga horária mínima prevista, o curso poderá ter estágio curricular supervisionado obrigatório, a critério da instituição ofertante.\n\nCaso o curso seja ofertado na modalidade EaD, a carga horária de estágio deverá ser cumprida de forma presencial.",
+  "perfil_profissional": "O Técnico em Modelagem do Vestuário será habilitado para:\n\nCriar e desenvolver projetos de moda.\nUtilizar técnicas de modelagem bi e tridimensionais.\nElaborar desenhos e fichas técnicas.\nRepresentar graficamente peças de vestuário planificadas.\nUtilizar ferramentas da computação gráfica para moda.\nSupervisionar produção de peça-piloto e produção em série.\nAvaliar a vestibilidade e a viabilidade técnica do produto.\n\nPara atuação como Técnico em Modelagem do Vestuário, são fundamentais:\n\nConhecimentos interdisciplinares relacionados aos processos de criação, envolvendo pesquisa, idealização, planejamento, execução técnica, fruição e recepção estética.\nCompetências comunicacionais e empreendedoras voltadas à proposição de projetos, ao coletivo, à gestão, à solução de problemas e à resiliência, entre outras competências socioemocionais.",
+  "pre_requisitos_ingresso": "Para ingresso no Curso Técnico Subsequente, o estudante deverá ter concluído o Ensino Médio.\nPara ingresso no Curso Técnico Concomitante, o estudante deverá estar cursando o Ensino Médio.\nPara ingresso no Curso Técnico Integrado ao Ensino Médio, o estudante deverá ter concluído o Ensino Fundamental.\nPara ingresso no Curso Técnico Integrado à Educação de Jovens e Adultos, o estudante deverá ter concluído o Ensino Fundamental.",
+  "itinerarios_formativos": "Sugestões de qualificação profissional com certificações intermediárias, no curso técnico, considerando ocupações previstas na CBO:\n\nDesenhista de Moda\nAlfaiate Modelista\nModelista de Roupa\n\nSugestões de formação continuada em Especializações Técnicas:\n\nEspecialização Técnica em Alfaiataria\nEspecialização Técnica em Modista\nEspecialização Técnica em Costureiro de Roupa de Couro e Pele\n\nSugestões de verticalização para cursos de graduação:\n\nCurso Superior de Tecnologia em Design de Moda\nCurso Superior de Tecnologia em Design de Produto\nBacharelado em Design de Moda",
+  "campo_atuacao": "Locais e ambientes de trabalho:\n\nIndústrias de Confecção do Vestuário\nAssessoria em Modelagem\nEmpresas de Desenvolvimento de Produtos e Projetos\nLojas e Estúdios\nAteliês de Costura e Figurino\nConsultoria em Produção para TV, Teatro, Cinema e Desfiles\nProfissional Autônomo",
+  "ocupacoes_cbo": "3188-10 - Modelista de Roupas",
+  "codigos_cbo": [
+    "3188-10"
+  ],
+  "infraestrutura_minima": "Biblioteca com acervo físico ou virtual específico e atualizado\nLaboratório de informática com programas específicos\nLaboratório de modelagem\nLaboratório de moulage\nLaboratório de corte\nLaboratório de costura\nLaboratório de desenho",
+  "legislacao_profissional": "Profissão não regulamentada."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "tecnico-em-geoprocessamento",
+  "indice": 102,
+  "denominacao": "Técnico em Geoprocessamento",
+  "denominacao_normalizada": "tecnico em geoprocessamento",
+  "eixo_tecnologico": "Infraestrutura",
+  "area_tecnologica": "Mensuração Espacial e Volumétrica",
+  "carga_horaria_minima_horas": 1200,
+  "descricao_carga_horaria_minima": "O curso dura, em média, 1 ano e meio\n\nO curso, na modalidade presencial, poderá prever até 20% da sua carga horária total em atividades não presenciais.\n\nO curso poderá ser realizado na modalidade EaD com, pelo menos, 20% de sua carga horária em atividades presenciais, nos termos das normas específicas definidas em cada sistema de ensino.\n\nA instituição poderá desenvolver o curso em regime de alternância com períodos de estudo na escola e no campo de atuação/local de trabalho.\n\nAlém da carga horária mínima prevista, o curso poderá ter estágio curricular supervisionado obrigatório, a critério da instituição ofertante.\n\nCaso o curso seja ofertado na modalidade EaD, a carga horária de estágio será cumprida de forma presencial.",
+  "perfil_profissional": "O Técnico em Geoprocessamento será habilitado para:\n\nExecutar levantamentos e coletas de dados espaciais.\nImplantar projetos de sistemas de transporte, de obras civis, industriais e rurais.\nElaborar produtos cartográficos a partir de fotos terrestres, aéreas e imagens de satélite.\nAnalisar dados espaciais.\nUtilizar ferramentas de geoprocessamento.\nrealizar a modelagem de dados espaciais\nDefinir consultas relacionadas aos fenômenos mapeados para geração de relatórios e mapas temáticos.\nPrestar assistência técnica na compra, venda e utilização de equipamentos especializados.\nCoordenar e supervisionar a execução de serviços técnicos.\nRealizar perícias técnicas.\nOrganizar e supervisionar levantamento e mapeamento.\n\nPara atuação como Técnico em Geoprocessamento, são fundamentais:\n\nConhecimentos e saberes relacionados à obtenção de dados espaciais e cadastrais, de mapeamento da superfície terrestre, auxiliando em atividades nas áreas de cartografia, fotogrametria, sensoriamento remoto e sistema de informação geográfica.\nEspírito de liderança, compromisso e ética para garantir o cumprimento da legislação e das normas técnicas vigentes.\nConhecimentos relacionados à solução de problemas técnicos e trabalhistas e à gestão de conflitos.",
+  "pre_requisitos_ingresso": "Para ingresso no Curso Técnico Subsequente, o estudante deverá ter concluído o Ensino Médio.\nPara ingresso no Curso Técnico Concomitante, o estudante deverá estar cursando o Ensino Médio.\nPara ingresso no Curso Técnico Integrado ao Ensino Médio, o estudante deverá ter concluído o Ensino Fundamental.\nPara ingresso no Curso Técnico Integrado à Educação de Jovens e Adultos, o estudante deverá ter concluído o Ensino Fundamental.",
+  "itinerarios_formativos": "Sugestões de qualificação profissional com certificações intermediárias, no curso técnico, considerando ocupações previstas na CBO:\n\nCadista para a Construção Civil\nEditor de Maquetes Eletrônicas\n\nSugestões de formação continuada em cursos de especialização técnica (pós-técnico):\n\nEspecialização Técnica em Banco de Dados Espaciais\nEspecialização Técnica em Cadastramento Técnico Multifinalitário\nEspecialização Técnica em Georreferenciamento de Imóveis Rurais\n\nSugestões de verticalização para cursos de graduação (Curso Superior de Tecnologia, Bacharelado e Licenciatura):\n\nCurso Superior de Tecnologia em Geoprocessamento\nCurso Superior de Tecnologia em Construção Civil\nCurso Superior de Tecnologia em Agrimensura\nBacharelado em Engenharia de Agrimensura\nBacharelado em Engenharia Cartográfica\nBacharelado em Engenharia Cartográfica e de Agrimensura\nBacharelado em Geografia\nBacharelado em Engenharia Ambiental",
+  "campo_atuacao": "Locais e ambientes de trabalho:\n\nAtividades de mapeamento e levantamento topográfico, de comercialização de equipamentos e instrumentos específicos da função, de aerolevantamentos\nEntidades ambientais\nAtividades de logística e distribuição de cargas\nForças Armadas\nConcessionárias de serviços públicos\nAgências reguladoras",
+  "ocupacoes_cbo": "3123-20 - Topógrafo\n3123-05 - Técnico em Agrimensura\n3123-10 - Técnico em Geodésia e Cartografia\n3123-15 - Técnico em Hidrografia\n3181-10 - Desenhista Técnico (cartografia)\n3181-10 - Desenhista de Cartografia\n3181-10 - Desenhista Técnico de Topografia",
+  "codigos_cbo": [
+    "3123-20",
+    "3123-05",
+    "3123-10",
+    "3123-15",
+    "3181-10"
+  ],
+  "infraestrutura_minima": "Biblioteca com acervo físico ou virtual específico e atualizado\nLaboratório de informática com programas específicos\nLaboratório de coletas de dados espaciais\nLaboratório de geoprocessamento\nLaboratório de topografia",
+  "legislacao_profissional": "Lei nº 5.524, de 5 de novembro de 1968\nDecreto nº 90.922, de 6 de fevereiro de 1985\nResolução CFT nº 89, de 6 de dezembro de 2019"
+}

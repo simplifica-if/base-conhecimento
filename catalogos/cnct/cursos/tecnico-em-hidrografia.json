@@ -1,0 +1,20 @@
+{
+  "id": "tecnico-em-hidrografia",
+  "indice": 208,
+  "denominacao": "Técnico em Hidrografia",
+  "denominacao_normalizada": "tecnico em hidrografia",
+  "eixo_tecnologico": "Militar",
+  "area_tecnologica": "Combate Naval",
+  "carga_horaria_minima_horas": 1200,
+  "descricao_carga_horaria_minima": "O curso dura, em média, 1 ano e meio.",
+  "perfil_profissional": "O Técnico em Hidrografia será habilitado para:\n\nColetar dados meteorológicos, maregráficos, oceanográficos, hidrográficos, geológicos, por meio da operação de equipamentos específicos.\nInterpretar boletins meteorológicos.\nConfeccionar cartas náuticas oceânicas e de vias navegáveis interiores, sob supervisão profissional pertinente.\nEfetuar medições em campo para execução dos métodos topográfico-altimétricos.\nRealizar cálculos topográficos.\nIdentificar astros e elementos que determinam sua posição na esfera celeste.\nDeterminar a posição de um navio por meio de métodos específicos.\nOrientar equipes nas tarefas de medição de ângulos, observação e cálculos de marés.\nOperar sistemas de geoprocessamento.",
+  "pre_requisitos_ingresso": "Curso oferecido, exclusivamente, pela Marinha do Brasil aos militares do Serviço Ativo: o candidato deverá ter concluído o Ensino Médio e ser aprovado em processo seletivo da mencionada Força Armada.",
+  "itinerarios_formativos": "O curso não prevê possibilidade de qualificação profissional com certificações intermediárias, no curso técnico, considerando ocupações previstas na CBO.\n\nO curso não prevê possibilidade de formação continuada em cursos de especialização técnica (pós-técnico).\n\nO curso não prevê possibilidade de verticalização para cursos de graduação (Curso Superior de Tecnologia, Bacharelado e Licenciatura) no âmbito da Marinha.",
+  "campo_atuacao": "Locais e ambientes do trabalho:\n\nMilitares da Ativa:\n\nExclusivamente nas Organizações Militares da Marinha do Brasil\n\nMilitares da Reserva:\n\nAdministrações Portuárias\nEmpresas de construção ou consultoria, que realizem trabalhos de hidráulica marítima ou fluvial\nEmpresas de construção civil\nEmpresas de navegação mercante e de pesca",
+  "ocupacoes_cbo": "3123-15 - Técnico em Hidrografia",
+  "codigos_cbo": [
+    "3123-15"
+  ],
+  "infraestrutura_minima": "Biblioteca e videoteca com acervo específico e atualizado\nLaboratório de informática com programas específicos\nLaboratório de dados oceanográficos\nLaboratório de meteorologia\nLaboratório de topografia e geodésia\nLaboratório de geoprocessamento",
+  "legislacao_profissional": "Catálogo de Referenciais de Competências Profissionais (CR) da Marinha do Brasil"
+}

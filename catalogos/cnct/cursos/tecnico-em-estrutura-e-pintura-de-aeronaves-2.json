@@ -1,0 +1,21 @@
+{
+  "id": "tecnico-em-estrutura-e-pintura-de-aeronaves-2",
+  "indice": 207,
+  "denominacao": "Técnico em Estrutura e Pintura de Aeronaves",
+  "denominacao_normalizada": "tecnico em estrutura e pintura de aeronaves",
+  "eixo_tecnologico": "Militar",
+  "area_tecnologica": "Combate Naval",
+  "carga_horaria_minima_horas": 1200,
+  "descricao_carga_horaria_minima": "O curso dura, em média, 1 ano e meio.",
+  "perfil_profissional": "O Técnico em Estrutura e Pintura de Aeronaves será habilitado, de acordo com cada Força, para:\n\nExecutar serviços de estrutura, de pintura e de manipulação de plásticos e de materiais não metálicos em aeronaves e seus componentes.\nMoldar e confeccionar gabaritos, fabricar peças metálicas, plásticas e similares.\nReparar peças de aeronaves e realizar reparos e construções em materiais compósitos.\nRealizar ensaios não destrutivos, controle e combate à corrosão e aplicação de selantes.",
+  "pre_requisitos_ingresso": "Curso oferecido, exclusivamente, pela Marinha do Brasil e pela Força Aérea Brasileira aos militares do Serviço Ativo: o candidato deverá ter concluído o Ensino Médio e ser aprovado em processo seletivo das mencionadas Forças Armadas.",
+  "itinerarios_formativos": "O curso não prevê sugestões de qualificação profissional com certificações intermediárias, no curso técnico, considerando ocupações previstas na CBO.\n\nSugestões de formação continuada em cursos de especialização técnica (pós-técnico):\n\nEspecialização Técnica em Mantenedor\nEspecialização Técnica em Inspetor\nEspecialização Técnica em Ensaios Não Destrutivos\n\nSugestões de verticalização para cursos de graduação (Curso Superior de Tecnologia, Bacharelado e Licenciatura):\n\nCurso Superior de Tecnologia em Manutenção de Aeronaves\nBacharelado em Engenharia Aeronáutica",
+  "campo_atuacao": "Locais e ambientes de trabalho:\n\nMilitares da Ativa:\n\nExclusivamente em Organizações Militares da Aeronáutica\n\nMilitares da Reserva:\n\nEmpresas Aéreas e Oficinas de Manutenção Aeronáutica\nIndústria de Produtos Aeronáuticos\nMontadoras de Aeronaves\nEscolas e Centros de Instrução de Aviação\nEmpresas que prestam serviços aéreos especializados, aviação offshore, agrícola e outros",
+  "ocupacoes_cbo": "7244-30 - Chapeador de Aeronaves\n7256-05 - Montador de Estruturas de Aeronaves",
+  "codigos_cbo": [
+    "7244-30",
+    "7256-05"
+  ],
+  "infraestrutura_minima": "Biblioteca e videoteca com acervo específico e atualizado\nLaboratório de informática com programas específicos\nLaboratório de ensaios e corrosão\nLaboratório de desenho técnico\nLaboratório de materiais\nLaboratório específico de estrutura e pintura",
+  "legislacao_profissional": "Padrão de Desempenho de Especialidade"
+}
