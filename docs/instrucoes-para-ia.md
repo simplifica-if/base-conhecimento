@@ -16,6 +16,15 @@ Para baixar qualquer arquivo indicado nos manifestos, use o padrão:
 https://raw.githubusercontent.com/simplifica-if/base-conhecimento/main/<path>
 ```
 
+Se o ambiente bloquear um arquivo específico no `raw.githubusercontent.com`, não trate isso como ausência do dado. Tente o mesmo `path` por rotas alternativas:
+
+```text
+https://cdn.jsdelivr.net/gh/simplifica-if/base-conhecimento@main/<path>
+https://github.com/simplifica-if/base-conhecimento/blob/main/<path>
+```
+
+Use a URL do GitHub como página de leitura quando o ambiente conseguir abrir páginas web, mas não arquivos raw. Ao citar a fonte da base, cite o arquivo consultado e informe se usou uma rota alternativa de acesso.
+
 ## Hierarquia de fontes
 
 A ordem de prioridade das fontes é obrigatória:
@@ -41,7 +50,8 @@ Se não conseguir acessar estas instruções, os manifestos ou os arquivos da ba
 5. Quando a pergunta exigir conteúdo interno das páginas dos campi, navegue nos links oficiais indicados nos metadados e cite a página consultada.
 6. Para consultas ao Catálogo Nacional de Cursos Técnicos (CNCT), abra o `catalogos_manifest.json`, localize o catálogo `cnct`, abra `catalogos/cnct/manifest.json` e use `catalogos/cnct/index.json` para buscar cursos por denominação, eixo tecnológico, área tecnológica, CBO ou carga horária mínima.
 7. Depois de localizar candidatos no índice do CNCT, baixe apenas os arquivos `catalogos/cnct/cursos/*.json` relevantes para consultar os dados completos.
-8. Quando houver mais de um documento relevante, compare as fontes e indique eventuais diferenças de escopo, vigência ou hierarquia normativa.
+8. Se o ambiente bloquear os arquivos completos de `catalogos/cnct/cursos/*.json`, tente as rotas alternativas indicadas em [Ponto de partida](#ponto-de-partida). Se ainda assim não conseguir abrir os arquivos completos, use apenas os campos disponíveis em `catalogos/cnct/index.json`, deixe essa limitação explícita e, quando necessário, complemente com a fonte oficial do MEC indicada em `catalogos/cnct/manifest.json`.
+9. Quando houver mais de um documento relevante, compare as fontes e indique eventuais diferenças de escopo, vigência ou hierarquia normativa.
 
 ## Regras de resposta
 
