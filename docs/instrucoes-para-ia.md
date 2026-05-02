@@ -4,26 +4,20 @@ Este arquivo orienta agentes IA que consultam a Base de Conhecimento do IFPR. Us
 
 ## Ponto de partida
 
-Use primeiro os índices públicos da base:
+Use primeiro os índices públicos da base pela publicação do GitHub Pages:
 
-- Manifesto geral: `https://raw.githubusercontent.com/simplifica-if/base-conhecimento/main/manifest.json`
-- Manifesto institucional: `https://raw.githubusercontent.com/simplifica-if/base-conhecimento/main/institucional_manifest.json`
-- Manifesto de catálogos: `https://raw.githubusercontent.com/simplifica-if/base-conhecimento/main/catalogos_manifest.json`
+- Ponto de entrada para agentes IA: `https://simplifica-if.github.io/base-conhecimento/llms.txt`
+- Manifesto geral: `https://simplifica-if.github.io/base-conhecimento/manifest.json`
+- Manifesto institucional: `https://simplifica-if.github.io/base-conhecimento/institucional_manifest.json`
+- Manifesto de catálogos: `https://simplifica-if.github.io/base-conhecimento/catalogos_manifest.json`
 
-Para baixar qualquer arquivo indicado nos manifestos, use o padrão:
-
-```text
-https://raw.githubusercontent.com/simplifica-if/base-conhecimento/main/<path>
-```
-
-Se o ambiente bloquear um arquivo específico no `raw.githubusercontent.com`, não trate isso como ausência do dado. Tente o mesmo `path` por rotas alternativas:
+Para baixar qualquer arquivo indicado nos manifestos, use somente este padrão:
 
 ```text
-https://cdn.jsdelivr.net/gh/simplifica-if/base-conhecimento@main/<path>
-https://github.com/simplifica-if/base-conhecimento/blob/main/<path>
+https://simplifica-if.github.io/base-conhecimento/<path>
 ```
 
-Use a URL do GitHub como página de leitura quando o ambiente conseguir abrir páginas web, mas não arquivos raw. Ao citar a fonte da base, cite o arquivo consultado e informe se usou uma rota alternativa de acesso.
+Não use outros domínios para consultar arquivos desta base. Se o ambiente bloquear `https://simplifica-if.github.io/base-conhecimento/` ou qualquer arquivo necessário nesse domínio, diga claramente que não conseguiu acessar a base e não responda com outras fontes ou conhecimento interno.
 
 ## Hierarquia de fontes
 
@@ -39,7 +33,7 @@ Use busca online quando a base não contiver o dado necessário, quando a pergun
 
 Use conhecimento treinado apenas para contexto geral, explicações auxiliares ou orientação de leitura. Não use conhecimento treinado para afirmar normas, números, datas, campi, cursos, obrigações, vigência ou links institucionais específicos quando a informação deveria ser verificada na base ou em fonte oficial.
 
-Se não conseguir acessar estas instruções, os manifestos ou os arquivos da base, não substitua a consulta por memória interna. Diga claramente que não conseguiu acessar a base e peça ao usuário para colar o conteúdo necessário ou habilitar o acesso aos links.
+Se não conseguir acessar estas instruções, os manifestos ou os arquivos necessários da base em `https://simplifica-if.github.io/base-conhecimento/`, não substitua a consulta por memória interna, busca online ou outro espelho. Diga claramente que não conseguiu acessar a base.
 
 ## Procedimento de consulta
 
@@ -50,7 +44,7 @@ Se não conseguir acessar estas instruções, os manifestos ou os arquivos da ba
 5. Quando a pergunta exigir conteúdo interno das páginas dos campi, navegue nos links oficiais indicados nos metadados e cite a página consultada.
 6. Para consultas ao Catálogo Nacional de Cursos Técnicos (CNCT), abra o `catalogos_manifest.json`, localize o catálogo `cnct`, abra `catalogos/cnct/manifest.json` e use `catalogos/cnct/index.json` para buscar cursos por denominação, eixo tecnológico, área tecnológica, CBO ou carga horária mínima.
 7. Depois de localizar candidatos no índice do CNCT, baixe apenas os arquivos `catalogos/cnct/cursos/*.json` relevantes para consultar os dados completos.
-8. Se o ambiente bloquear os arquivos completos de `catalogos/cnct/cursos/*.json`, tente as rotas alternativas indicadas em [Ponto de partida](#ponto-de-partida). Se ainda assim não conseguir abrir os arquivos completos, use apenas os campos disponíveis em `catalogos/cnct/index.json`, deixe essa limitação explícita e, quando necessário, complemente com a fonte oficial do MEC indicada em `catalogos/cnct/manifest.json`.
+8. Se o ambiente bloquear os arquivos completos de `catalogos/cnct/cursos/*.json`, use apenas os campos disponíveis em `catalogos/cnct/index.json` quando isso for suficiente para responder. Se os campos do índice não forem suficientes, diga claramente que não conseguiu acessar os arquivos completos da base e não complemente com outras fontes.
 9. Quando houver mais de um documento relevante, compare as fontes e indique eventuais diferenças de escopo, vigência ou hierarquia normativa.
 
 ## Regras de resposta

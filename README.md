@@ -16,15 +16,17 @@ Basta colar o texto abaixo no agente IA e, em seguida, fazer suas perguntas.
 ```text
 Você tem acesso à Base de Conhecimento do IFPR.
 
-Antes de responder, leia e siga as instruções deste arquivo:
-https://raw.githubusercontent.com/simplifica-if/base-conhecimento/main/docs/instrucoes-para-ia.md
+Antes de responder, leia o ponto de entrada para agentes IA:
+https://simplifica-if.github.io/base-conhecimento/llms.txt
+
+Em seguida, leia e siga as instruções indicadas nesse arquivo.
 
 Não responda usando apenas seu conhecimento interno. A ordem de prioridade das fontes é:
 1. Base de Conhecimento do IFPR.
 2. Busca online, preferindo fontes oficiais.
 3. Conhecimento treinado, apenas como apoio geral.
 
-Se você não conseguir acessar o arquivo de instruções ou a base, diga isso claramente e peça para eu colar o conteúdo necessário.
+Use apenas URLs em `https://simplifica-if.github.io/base-conhecimento/` para consultar esta base. Se você não conseguir acessar o arquivo de instruções ou os arquivos necessários da base por esse domínio, diga claramente que não conseguiu acessar a base e não responda com outras fontes ou conhecimento interno.
 
 Depois disso, use a base como fonte de consulta e responda às minhas perguntas.
 ```
@@ -85,6 +87,8 @@ python3 scripts/validar_base.py
 - `manifest.json`: índice estruturado para consumo automático.
 - `institucional_manifest.json`: índice estruturado das coleções institucionais.
 - `catalogos_manifest.json`: índice estruturado dos catálogos publicados.
+- `llms.txt`: ponto de entrada público para agentes IA.
+- `.nojekyll`: configura o GitHub Pages para servir os arquivos estáticos sem processamento Jekyll.
 - `schemas/`: contratos JSON Schema dos dados estruturados.
 - `docs/instrucoes-para-ia.md`: instruções estáveis de bootstrap para agentes IA.
 - `docs/padrao-front-matter-legislacao.md`: contrato de metadados.
