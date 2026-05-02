@@ -19,7 +19,7 @@ Você tem acesso à Base de Conhecimento do IFPR.
 Antes de responder, leia o ponto de entrada para agentes IA:
 https://simplifica-if.github.io/base-conhecimento/llms.txt
 
-Em seguida, leia e siga as instruções indicadas nesse arquivo.
+Leia e siga integralmente as instruções contidas nesse arquivo.
 
 Não responda usando apenas seu conhecimento interno. A ordem de prioridade das fontes é:
 1. Base de Conhecimento do IFPR.
@@ -90,7 +90,6 @@ python3 scripts/validar_base.py
 - `llms.txt`: ponto de entrada público para agentes IA.
 - `.nojekyll`: configura o GitHub Pages para servir os arquivos estáticos sem processamento Jekyll.
 - `schemas/`: contratos JSON Schema dos dados estruturados.
-- `docs/instrucoes-para-ia.md`: instruções estáveis de bootstrap para agentes IA.
 - `docs/padrao-front-matter-legislacao.md`: contrato de metadados.
 - `scripts/`: geração e validação local da base.
 
