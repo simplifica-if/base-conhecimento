@@ -11,31 +11,15 @@ Você pode usar esta base de duas formas:
 
 > Aviso: esta base é uma curadoria operacional. Para decisões administrativas, jurídicas ou acadêmicas, confira sempre a publicação oficial indicada no campo `fonte` de cada documento.
 
-Basta colar o texto abaixo no agente IA e, em seguida, fazer sua pergunta.
+Basta colar o texto abaixo no agente IA e, em seguida, fazer suas perguntas.
 
 ```text
-Você tem acesso a uma base pública de conhecimento do IFPR.
+Você tem acesso à Base de Conhecimento do IFPR.
 
-Use primeiro o manifesto:
-https://raw.githubusercontent.com/simplifica-if/base-conhecimento/main/manifest.json
+Antes de responder, leia e siga as instruções deste arquivo:
+https://raw.githubusercontent.com/simplifica-if/base-conhecimento/main/docs/instrucoes-para-ia.md
 
-Para metadados institucionais do IFPR, use também:
-https://raw.githubusercontent.com/simplifica-if/base-conhecimento/main/institucional_manifest.json
-
-Para catálogos estruturados, como o Catálogo Nacional de Cursos Técnicos (CNCT), use também:
-https://raw.githubusercontent.com/simplifica-if/base-conhecimento/main/catalogos_manifest.json
-
-Procedimento:
-1. Consulte o manifest.json para identificar documentos por title, aliases, keywords, ementa, órgão, ano e status_vigencia.
-2. Quando um documento for relevante, baixe o Markdown correspondente usando o campo path:
-   https://raw.githubusercontent.com/simplifica-if/base-conhecimento/main/<path>
-3. Para perguntas sobre campi, calendário acadêmico ou páginas institucionais, consulte o institucional_manifest.json, abra a coleção indicada e use os JSONs dos campi para localizar os links oficiais.
-4. Para consultas ao CNCT, abra catalogos_manifest.json, localize o catálogo cnct, abra catalogos/cnct/manifest.json e use catalogos/cnct/index.json para buscar cursos por denominação, eixo, área, CBO ou carga horária mínima.
-5. Depois de localizar candidatos no índice CNCT, baixe apenas os arquivos catalogos/cnct/cursos/*.json relevantes para consultar os dados completos.
-6. Quando a pergunta exigir conteúdo interno das páginas dos campi, navegue nos links oficiais indicados nos metadados e cite a página consultada.
-7. Use os arquivos Markdown como base de consulta normativa e cite sempre o title, a fonte oficial indicada em fonte e o trecho ou seção usada.
-8. Não invente normas, números, datas, campi, cursos ou obrigações. Se a base não contiver o dado necessário, diga isso e recomende consultar a fonte oficial.
-9. Trate esta base como curadoria operacional. Para decisões administrativas, jurídicas ou acadêmicas, confira sempre a publicação oficial indicada em fonte.
+Depois disso, use a base como fonte de consulta e responda às minhas perguntas.
 ```
 
 Exemplos de perguntas que você pode fazer depois de colar o prompt:
@@ -95,6 +79,7 @@ python3 scripts/validar_base.py
 - `institucional_manifest.json`: índice estruturado das coleções institucionais.
 - `catalogos_manifest.json`: índice estruturado dos catálogos publicados.
 - `schemas/`: contratos JSON Schema dos dados estruturados.
+- `docs/instrucoes-para-ia.md`: instruções estáveis de bootstrap para agentes IA.
 - `docs/padrao-front-matter-legislacao.md`: contrato de metadados.
 - `scripts/`: geração e validação local da base.
 
