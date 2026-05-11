@@ -13,6 +13,7 @@
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/colombo/tecnicos-integrados/tecnico-em-administracao/",
+      "ppc_url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2022/08/PPC_Integrado_ADM_final.pdf",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus"
@@ -23,6 +24,7 @@
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/colombo/tecnicos-integrados/tecnico-em-alimentos/",
+      "ppc_url": "https://drive.google.com/file/d/1jHQ6KClwctTpQ8k0zWnhNFULMhqqcoyl/view?usp=sharing",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus"
@@ -33,6 +35,7 @@
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/colombo/tecnicos-integrados/tecnico-em-informatica/",
+      "ppc_url": "https://drive.google.com/file/d/1-CWGEpZfgRXQeT9UT3qLT5JCDpBn9biB/view?usp=sharing",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus"
@@ -43,6 +46,7 @@
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
       "url": "https://ifpr.edu.br/colombo/tecnicos-subsequentes/tecnico-em-administracao/",
+      "ppc_url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2022/08/PPC_Subs_Adm_Versao_Final.pdf",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus"
@@ -53,6 +57,7 @@
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",
       "url": "https://ifpr.edu.br/colombo/superiores-tecnologia/tecnologia-em-alimentos/",
+      "ppc_url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2022/08/PPCTAL_2022_Final-1.pdf",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus"
@@ -63,6 +68,7 @@
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",
       "url": "https://ifpr.edu.br/colombo/superiores-tecnologia/tads/",
+      "ppc_url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2022/12/PPC-DO-TADS-APROVADO-PELO-CONSEPE-52-2022.pdf",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus"
@@ -73,6 +79,7 @@
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",
       "url": "https://ifpr.edu.br/colombo/superiores-tecnologia/tecnologia-em-processos-gerenciais/",
+      "ppc_url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2025/03/PPC_TPG_COLOMBO_FINAL_CONSEPE_REV.pdf",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus"
@@ -83,6 +90,7 @@
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
       "url": "https://ifpr.edu.br/colombo/licenciatura-em-pedagogia/",
+      "ppc_url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2024/10/PPC_PEDAGOGIA_COLOMBO_2024.pdf",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus"
@@ -93,6 +101,7 @@
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
       "url": "https://ifpr.edu.br/colombo/licenciatura-em-historia/",
+      "ppc_url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2024/10/PPC-HISTORIA-COLOMBO_APROVADO-FINAL.pdf",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus"
@@ -108,6 +117,6 @@
       "https://ifpr.edu.br/colombo/superiores-licenciaturas/",
       "https://ifpr.edu.br/colombo/menu-academico/calendario-academico/"
     ],
-    "verificado_em": "2026-04-30"
+    "verificado_em": "2026-05-11"
   }
 }

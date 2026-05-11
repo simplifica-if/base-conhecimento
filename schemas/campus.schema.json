@@ -121,6 +121,11 @@
             "type": "string",
             "format": "uri",
             "pattern": "^https://"
+          },
+          "ppc_url": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https://"
           }
         }
       }
