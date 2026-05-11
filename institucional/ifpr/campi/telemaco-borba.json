@@ -6,9 +6,186 @@
     "site": "https://ifpr.edu.br/telemaco-borba/",
     "calendario_academico": "https://ifpr.edu.br/telemaco-borba/estudantes/calendario-academico-5/"
   },
-  "cursos": [],
+  "cursos": [
+    {
+      "id": "tecnologia-em-manutencao-industrial",
+      "nome": "Tecnologia em Manutenção Industrial",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/telemaco-borba/cursos-graduacao/tecnologia-em-manutencao-industrial/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2025/08/07_2025_PPC_Tecnologia-em-Manutencao-Industrial-Atualizacao-1.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/tecnologia-em-manutencao-industrial.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2019,
+            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO N° 21, DE 13 DE JUNHO DE 2019",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "2505 horas. 1.1.10 Vagas totais (anual) 40 vagas. 1.1.11 Escolaridade mínima exigida Ensino Médio completo. 7 == picture [472 x",
+            "secao": "Vagas totais (anual)",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual"
+          }
+        }
+      }
+    },
+    {
+      "id": "engenharia-eletrica",
+      "nome": "Engenharia Elétrica",
+      "nivel": "superior",
+      "tipo_oferta": "bacharelado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/telemaco-borba/cursos-graduacao/engenharia-eletrica/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2025/10/PPC_Engenharia_Eletrica_Campus_TB_2019_2021-REVISADO.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/engenharia-eletrica.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2018,
+            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO 24/2018 – CONSUP/IFPR",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "ula: Seriado anual. Vagas totais (anual): 40 vagas. Escolaridade mínima exigida: Ensino Médio Completo. Coordenador: Nome: Ronaldo",
+            "secao": "Vagas totais (anual)",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual"
+          }
+        }
+      }
+    },
+    {
+      "id": "licenciatura-em-fisica",
+      "nome": "Licenciatura em Física",
+      "nivel": "superior",
+      "tipo_oferta": "licenciatura",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/telemaco-borba/cursos-graduacao/licenciatura-em-fisica-2014/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2023/02/PPC-2022-LFIS-Graduacao-IFPR-TB-.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/licenciatura-em-fisica.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2013,
+            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO 25/2013 AJUSTE PARECER CONSEPE NºXX/ANO",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "268 horas. 7 1.1.10 Vagas totais (anual): 40 (quarenta) vagas. 7 1.1.11 Escolaridade mínima exigida: Ensino Médio completo. 7 1.1.12 Coordena",
+            "secao": "Vagas totais",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-automacao-industrial-integrado-ao-ensino-medio",
+      "nome": "Técnico em Automação Industrial Integrado ao Ensino Médio",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/telemaco-borba/cursos-tecnicos-integrados/automacao-industrial/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2026/02/PPC-TECNICO-EM-AUTOMACAO-VERSAO-FINAL.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/tecnico-em-automacao-industrial-integrado-ao-ensino-medio.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2019,
+            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO 33/2014 (CONSUP) AJUSTE PARECER CONSEPE Nº 49/2019",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "aliação: Trimestral Total de vagas anuais: Uma turma de 40 vagas por ano Regime de oferta: Anual Ano e resolução de criação do curso: Resolução",
+            "secao": "Total de vagas anuais",
+            "status_curadoria": "sugerido"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-informatica-para-internet-integrado-ao-ensino-medio",
+      "nome": "Técnico em Informática para Internet Integrado ao Ensino Médio",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/telemaco-borba/cursos-tecnicos-integrados/informatica-para-internet/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2026/02/PPC-CURSO-TECNICO-EM-INFORMATICA-VERSAO-FINAL.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/tecnico-em-informatica-para-internet-integrado-ao-ensino-medio.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2012,
+            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO 41/2012 (CONSUP)",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "aliação: Trimestral Total de vagas anuais: Uma turma de 40 vagas por ano Regime de oferta: Anual Ano e resolução de criação do curso: Resolução",
+            "secao": "Total de vagas anuais",
+            "status_curadoria": "sugerido"
+          }
+        }
+      }
+    }
+  ],
   "curadoria": {
-    "status_cursos": "dados_pendentes",
-    "verificado_em": "2026-04-30"
+    "status_cursos": "dados_parciais",
+    "verificado_em": "2026-05-11",
+    "fontes": [
+      "https://ifpr.edu.br/telemaco-borba/"
+    ]
   }
 }

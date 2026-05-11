@@ -6,9 +6,115 @@
     "site": "https://coronelvivida.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/coronel-vivida/academico/calendario-academico/"
   },
-  "cursos": [],
+  "cursos": [
+    {
+      "id": "tecnologia-em-gestao-financeira",
+      "nome": "Tecnologia em Gestão Financeira",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/coronel-vivida/nossos-cursos/graduacao/tecnologia-em-gestao-financeira/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/coronel-vivida/wp-content/uploads/sites/10/2025/12/PPC_TECNOLOGO_EM_GESTAO_FINANCEIRA_atualizacao_12-2025.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/coronel-vivida/tecnologia-em-gestao-financeira.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2025,
+            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO CONSUP/IFPR Nº 128, DE 07 DE JUNHO DE 2023 AJUSTE PARECER CONSEPE Nº 12/2023 - ATUALIZADO 12/2025",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 10,
+            "trecho_fonte": "8 1.1.7 Horário de oferta do curso 8 1.1.8 Prazo de Integralização Curricular 8 1.1.9 Carga horária total do Curso 9 1.1.10 Vagas totais (anual) 9 1.1.11 Escolaridade mínima exigida 10 1.1.12 Coordenador 10 1",
+            "secao": "oferta",
+            "status_curadoria": "sugerido"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-cooperativismo",
+      "nome": "Técnico em Cooperativismo",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/coronel-vivida/nossos-cursos/tecnicos-integrados/cooperativismo/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/coronel-vivida/wp-content/uploads/sites/10/2026/05/PPC-COOP-VERSAO-FINAL-09.12.2025.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/coronel-vivida/tecnico-em-cooperativismo.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2025,
+            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO N. 31/2017 AJUSTE PARECER CONSEPE Nº 14/2025",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": ") Trimestral 1.1.14 Vagas totais 40 vagas. 1.1.15 Escolaridade mínima exigida/requisito de acesso ao curso Ensino Fundame",
+            "secao": "Vagas totais",
+            "status_curadoria": "sugerido"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-administracao",
+      "nome": "Técnico em Administração",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/coronel-vivida/nossos-cursos/tecnicos-integrados/tecnico-administracao/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/coronel-vivida/wp-content/uploads/sites/10/2026/05/PPC-ADM-VERSAO-FINAL-09.12.2025.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/coronel-vivida/tecnico-em-administracao.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2025,
+            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO N. 39/2014 AJUSTE PARECER CONSEPE Nº 15/2025",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": ") Trimestral 1.1.14 Vagas totais Quarenta vagas. 7 == picture [595 x 83] intentionally omitted <== 1.1.15 Escolaridade mínima e",
+            "secao": "Vagas totais",
+            "status_curadoria": "sugerido"
+          }
+        }
+      }
+    }
+  ],
   "curadoria": {
-    "status_cursos": "dados_pendentes",
-    "verificado_em": "2026-04-30"
+    "status_cursos": "dados_parciais",
+    "verificado_em": "2026-05-11",
+    "fontes": [
+      "https://coronelvivida.ifpr.edu.br/"
+    ]
   }
 }

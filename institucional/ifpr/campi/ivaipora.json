@@ -6,9 +6,293 @@
     "site": "https://ivaipora.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/ivaipora/estudantes/calendario-academico/"
   },
-  "cursos": [],
+  "cursos": [
+    {
+      "id": "tecnico-em-agropecuaria-integrado-ao-ensino-medio",
+      "nome": "Técnico em Agropecuária Integrado ao Ensino Médio",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/ivaipora/nossos-cursos/cursos-tecnicos/tecnico-em-agropecuaria-integrado-ao-ensino-medio/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/ivaipora/wp-content/uploads/sites/15/2024/10/PPC-Agropecuaria.aprovado-CONSUP.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/ivaipora/tecnico-em-agropecuaria-integrado-ao-ensino-medio.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2024,
+            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO CONSUP/IFPR Nº 187, DE 17 DE ABRIL DE 2024",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 35,
+            "trecho_fonte": "o semestral. 1.1.14 Vagas totais Número mínimo: 20 Número máximo: 35 1.1.15 Escolaridade mínima exigida/requisito de acesso ao curso Ensino Fundamen",
+            "secao": "Vagas totais",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 35 vagas e mínimo de 20 vagas"
+          }
+        }
+      }
+    },
+    {
+      "id": "bacharelado-em-sistemas-de-informacao",
+      "nome": "Bacharelado em Sistemas de Informação",
+      "nivel": "superior",
+      "tipo_oferta": "bacharelado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/ivaipora/nossos-cursos/ensino-superior/bacharelado-em-sistemas-de-informacao/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/ivaipora/wp-content/uploads/sites/15/2026/02/PPC_SI_2026.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/ivaipora/bacharelado-em-sistemas-de-informacao.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2008,
+            "trecho_fonte": "11.892, de 29 de dezembro de 2008. A sede da Reitoria do IFPR está localizada em Curitiba – PR",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "de extensão 1.1.10 Vagas totais (anual): 40 vagas 1.1.11 Escolaridade mínima exigida : Ensino Médio Completo. 7 == picture [471 x",
+            "secao": "Vagas totais (anual)",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual"
+          }
+        }
+      }
+    },
+    {
+      "id": "engenharia-agronomica",
+      "nome": "Engenharia Agronômica",
+      "nivel": "superior",
+      "tipo_oferta": "bacharelado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/ivaipora/nossos-cursos/ensino-superior/engenharia-agronomica/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/ivaipora/wp-content/uploads/sites/15/2024/08/PPC_2019_2022-Agronomia.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/ivaipora/engenharia-agronomica.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2018,
+            "trecho_fonte": "O curso foi concebido a partir da demanda da comunidade pertencente ao Território do Vale do Ivaí, além de municípios do Território Paraná Centro e outros da região central do Estado do Paraná. Além disso, a proposição de abertura do curso de Engenharia Agronômica consta no Plano",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "mponente curricular Vagas totais (anual): 40 vagas Escolaridade mínima exigida: Ensino Médio completo. Coordenador: Nome: Denis Sa",
+            "secao": "Vagas totais (anual)",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-agroecologia-integrado",
+      "nome": "Técnico em Agroecologia Integrado",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/ivaipora/nossos-cursos/cursos-tecnicos/tecnico-em-agroecologia-integrado/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/ivaipora/wp-content/uploads/sites/15/2017/03/PPC-Integrado-em-Agroecologia-26-04-final.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/ivaipora/tecnico-em-agroecologia-integrado.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2014,
+            "trecho_fonte": "Autorizado pela Resolução n° 41 de 16 de Dezembro de 2014 do Conselho Superior - IFPR",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 35,
+            "trecho_fonte": "rária de estágio: 0 Número máximo de vagas do curso: 35 Número mínimo de vagas do curso: 20 Ano de criação do curso: 2014 Requisitos de acesso ao Curso: Ensino fundamental",
+            "secao": "Número máximo de vagas do curso",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 35 vagas e mínimo de 20 vagas"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnologia-em-agroecologia",
+      "nome": "Tecnologia em Agroecologia",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/ivaipora/nossos-cursos/ensino-superior/tecnologia-em-agroecologia/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/ivaipora/wp-content/uploads/sites/15/2017/03/PPCSuperiorTecnologiaemAgroecologia.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/ivaipora/tecnologia-em-agroecologia.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 1936,
+            "trecho_fonte": "Em 1936 é criado o “Curso Comercial”, que funcionava nas dependências da já extinta Escola Alemã. Este curso é considerado o ponto de partida da história do IFPR. Dois anos depois, o Colégio Progresso passa a intitular-se “Sociedade Colégio Progresso“",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Recursos Naturais. Número de vagas ofertadas: mínimo 30 (trinta), e máximo, 40 (quarenta) vagas. Turno de oferta: Noturno com atividades práticas diurnas espo",
+            "secao": "Número de vagas",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
+          }
+        }
+      }
+    },
+    {
+      "id": "licenciatura-em-fisica",
+      "nome": "Licenciatura em Física",
+      "nivel": "superior",
+      "tipo_oferta": "licenciatura",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/ivaipora/nossos-cursos/ensino-superior/licenciatura-em-fisica/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/ivaipora/wp-content/uploads/sites/15/2025/02/PPC-Fisica_APS.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/ivaipora/licenciatura-em-fisica.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2008,
+            "trecho_fonte": "O Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR), criado em 29 de dezembro de 2008 pela Lei 11.892, tem sua origem da Escola Técnica da Universidade Federal do Paraná (ET-UFPR), que por sua vez, tem origem da Escola Alemã, fundada em 1869 por Gottlieb Müelle",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 36,
+            "trecho_fonte": "Exatas e da Terra. Quantidade de Vagas: mínimo: 20 (vinte) vagas; máximo: 36 (trinta e seis) vagas. Turno de oferta : Noturno Horário de oferta do curso: 19",
+            "secao": "Quantidade de Vagas",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 36 vagas e mínimo de 20 vagas"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-eletrotecnica-integrado",
+      "nome": "Técnico em Eletrotécnica Integrado",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/ivaipora/nossos-cursos/cursos-tecnicos/eletrotecnica-integrado-ao-ensino-medio/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/ivaipora/wp-content/uploads/sites/15/2017/03/PPC-Eletrotecnica-integrado.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/ivaipora/tecnico-em-eletrotecnica-integrado.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2009,
+            "trecho_fonte": "Fundamentado na pedagogia das competências, o Projeto Pedagógico do Curso Técnico de Nível Médio Integrado em Eletrotécnica propõe um processo avaliativo que realmente garanta ao aluno o desenvolvimento das competências (conhecimento, habilidade e atitudes) inerentes ao eixo tecn",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "estágio: 250 horas Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20 Ano de criação do curso: 2013 Requisitos de acesso ao Curso: Escolaridade exigi",
+            "secao": "Número máximo de vagas do curso",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-informatica-integrado-ao-ensino-medio",
+      "nome": "Técnico em Informática Integrado ao Ensino Médio",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/ivaipora/nossos-cursos/cursos-tecnicos/tecnico-em-informatica/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/ivaipora/wp-content/uploads/sites/15/2024/03/PPC-Informatica-2025.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/ivaipora/tecnico-em-informatica-integrado-ao-ensino-medio.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2011,
+            "trecho_fonte": "AUTORIZADO PELA Resolução nº 70 de 21 de dezembro de 2011",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "( ) Modular 1.1.14 Vagas totais Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20 1.1.15 Escolaridade mínima exigida/requisito de acesso ao curso Ensino fundamen",
+            "secao": "Vagas totais",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+          }
+        }
+      }
+    }
+  ],
   "curadoria": {
-    "status_cursos": "dados_pendentes",
-    "verificado_em": "2026-04-30"
+    "status_cursos": "dados_parciais",
+    "verificado_em": "2026-05-11",
+    "fontes": [
+      "https://ivaipora.ifpr.edu.br/"
+    ]
   }
 }

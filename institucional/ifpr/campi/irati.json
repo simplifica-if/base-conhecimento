@@ -6,9 +6,187 @@
     "site": "https://irati.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/irati/calendario-academico/"
   },
-  "cursos": [],
+  "cursos": [
+    {
+      "id": "bacharelado-em-engenharia-de-software",
+      "nome": "Bacharelado em Engenharia de Software",
+      "nivel": "superior",
+      "tipo_oferta": "bacharelado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/irati/nossos-cursos/cursos_superiores/bacharelado-em-engenharia-de-software/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/irati/wp-content/uploads/sites/14/2025/06/PPC-Bacharelado-em-Engenharia-de-Software-2025.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/irati/bacharelado-em-engenharia-de-software.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2025,
+            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO CONSUP/IFPR Nº 234, DE 10 DE JUNHO DE 2025",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "3200 horas. 1.1.10 Vagas totais (anual) 40 vagas 1.1.11 Escolaridade mínima exigida Ensino Médio completo 1.1.12 Coordenador Nom",
+            "secao": "Vagas totais (anual)",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual"
+          }
+        }
+      }
+    },
+    {
+      "id": "bacharelado-em-agronomia",
+      "nome": "Bacharelado em Agronomia",
+      "nivel": "superior",
+      "tipo_oferta": "bacharelado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/irati/nossos-cursos/cursos_superiores/bacharelado-em-agronomia/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/irati/wp-content/uploads/sites/14/2025/03/PPC-Agronomia_AJUSTE-APS1.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/irati/bacharelado-em-agronomia.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2008,
+            "trecho_fonte": "A instituição foi criada em dezembro de 2008 através da Lei n.º 11.892 que instituiu a Rede Federal de Educação Profissional e Tecnológica e os 38 institutos federais hoje existentes no país. Com a Lei em vigor, a Escola Técnica da Universidade Federal do Paraná (ET-UFPR) foi tra",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "4.570 horas 1.1.10 Vagas totais (anual) 40 1.1.11 Escolaridade mínima exigida Ensino Médio completo. 1.1.12 Coordenador Nom",
+            "secao": "Vagas totais (anual)",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual"
+          }
+        }
+      }
+    },
+    {
+      "id": "licenciatura-em-quimica",
+      "nome": "Licenciatura em Química",
+      "nivel": "superior",
+      "tipo_oferta": "licenciatura",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/irati/nossos-cursos/cursos_superiores/licenciatura-em-quimica/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/irati/wp-content/uploads/sites/14/2025/05/PPC_Quimica___Alteracao_APS.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/irati/licenciatura-em-quimica.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2017,
+            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO N° 38 DE 14 DE JULHO DE 2017",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 10,
+            "trecho_fonte": "6 1.1.7 Horário de oferta do curso 6 1.1.8 Prazo de Integralização Curricular 7 1.1.9 Carga-Horária total do Curso 7 1.1.10 Vagas totais (anual) 7 1.1.11 Escolaridade mínima exigida 7 1.1.12 Coordenadora 7 1.1",
+            "secao": "oferta",
+            "status_curadoria": "sugerido"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
+      "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/irati/nossos-cursos/cursos_superiores/tecnologia-em-analise-e-desenvolvimento-de-sistemas/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/irati/wp-content/uploads/sites/14/2025/03/PPC-Turmas-ingressantes-a-partir-de-2021-ajuste-2025.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/irati/tecnologia-em-analise-e-desenvolvimento-de-sistemas.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2014,
+            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO 30/2014",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 10,
+            "trecho_fonte": "6 1.1.7 Horário de oferta do curso 6 1.1.8 Prazo de Integralização Curricular 6 1.1.9 Carga-Horário total do Curso 7 1.1.10 Vagas totais (anual) 7 1.1.11 Escolaridade mínima exigida 7 1.1.12 Coordenador 7 1.1",
+            "secao": "oferta",
+            "status_curadoria": "sugerido"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-informatica",
+      "nome": "Técnico em Informática (Integrado)",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/irati/nossos-cursos/tecnicos-integrados/tecnico-em-informatica-integrado-ao-ensino-medio/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/irati/wp-content/uploads/sites/14/2025/12/PPC-Tecnico-em-Informatica-Vigente.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/irati/tecnico-em-informatica.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2022,
+            "trecho_fonte": "1 APRESENTAÇÃO DO PROJETO ......................................................................................... 7 1.1 IDENTIFICAÇÃO ........................................................................................................... 7 1.1.1 Processo",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 80,
+            "trecho_fonte": "trimestres. 1.1.14 Vagas totais (anual) Número máximo de vagas do curso: 80 (ingresso matutino) e 80 (ingresso vespertino) Número mínimo de vagas do curso: 20 (ingresso matutino) e 20 (ingresso vespertino) 1.1.15 Escolaridade mínima exigi",
+            "secao": "Vagas totais (anual)",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual",
+            "forma_oferta": "máximo de 80 vagas e mínimo de 20 vagas"
+          }
+        }
+      }
+    }
+  ],
   "curadoria": {
-    "status_cursos": "dados_pendentes",
-    "verificado_em": "2026-04-30"
+    "status_cursos": "dados_parciais",
+    "verificado_em": "2026-05-11",
+    "fontes": [
+      "https://irati.ifpr.edu.br/"
+    ]
   }
 }

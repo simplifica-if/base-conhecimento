@@ -6,9 +6,315 @@
     "site": "https://londrina.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/londrina/menu-alunos/area-do-estudante/orientacoes-de-procedimentos/"
   },
-  "cursos": [],
+  "cursos": [
+    {
+      "id": "tecnico-em-biotecnologia-integrado-ao-ensino-medio",
+      "nome": "Técnico em Biotecnologia Integrado ao Ensino Médio",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/londrina/ensino-medio-integrado-a-biotecnologia/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2025/11/PPC-Tecnico-em-Biotecnologia-Integrado-ao-Ensino-Medio-2-1.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/londrina/tecnico-em-biotecnologia-integrado-ao-ensino-medio.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2001,
+            "trecho_fonte": "LOCAL DE REALIZAÇÃO/CAMPUS: Rua Alagoas, 2001, Jardim Canadá. CEP 86.020-430 – Londrina – Paraná E-mail: HOME-PAGE: TEL: secretarialondrina@ifpr.edu.br http://londrina.ifpr.edu.br (43) 3878-6100",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "gio não obrigatório Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20 Ano de criação do curso: 2014 Requisitos de acesso ao Curso: Ensino fundamental",
+            "secao": "Número máximo de vagas do curso",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+          }
+        }
+      }
+    },
+    {
+      "id": "especializacao-lato-sensu-em-saude-coletiva-com-enfase-na-promocao-da-saude",
+      "nome": "Especializacao Lato Sensu em Saude Coletiva com Enfase na Promocao da Saude",
+      "nivel": "pós-graduação",
+      "tipo_oferta": "especialização",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/londrina/especializacao-lato-sensu-em-saude-coletiva-com-enfase-na-promocao-da-saude/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2025/09/PPC_PG_Saude-Coletiva_2025.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/londrina/especializacao-lato-sensu-em-saude-coletiva-com-enfase-na-promocao-da-saude.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "erro",
+          "mensagem_erro": "Conversão sem texto útil; PDF parece digitalizado/baseado em imagens e exige OCR dedicado."
+        }
+      }
+    },
+    {
+      "id": "licenciatura-em-ciencias-biologicas-2",
+      "nome": "Licenciatura em Ciencias Biologicas 2",
+      "nivel": "superior",
+      "tipo_oferta": "licenciatura",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/londrina/licenciatura-em-ciencias-biologicas-2/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2025/12/PPC-MATRIZ-288.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/londrina/licenciatura-em-ciencias-biologicas-2.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2014,
+            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO nº 26 / 2014 AJUSTE PARECER CONSEPE NºXX/ANO",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Curso 3.217h 1.1.10 Vagas totais (anual) No mínimo 20 e no máximo 40 vagas 1.1.11 Escolaridade mínima exigida Ensino médio completo. 1.1.12 Coordena",
+            "secao": "Vagas totais (anual)",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-enfermagem",
+      "nome": "Tecnico em Enfermagem",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/londrina/tecnico-em-enfermagem/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2023/12/PPC-2022_-CURSO-TECNICO-EM-ENFERMAGEM.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/londrina/tecnico-em-enfermagem.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2011,
+            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO N° 073 DE 21 DE DEZEMBRO DE 2011 DO CONSELHO SUPERIOR - IFPR",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 30,
+            "trecho_fonte": "as totais (por ano) Número máximo de vagas do curso: 30 vagas Número mínimo de vagas do curso: 20 vagas 1.1.15 Escolaridade mínima exigida/requisito de acesso ao curso Ensino mé",
+            "secao": "Número máximo de vagas do curso",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-informatica-integrado-ao-ensino-medio",
+      "nome": "Técnico em Informática Integrado ao Ensino Médio",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/londrina/tecnico-em-informatica-integrado/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2025/11/PPC-Tecnico-Informatica-Integrado-ao-Ensino-Medio-PDF-2017-1-1.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/londrina/tecnico-em-informatica-integrado-ao-ensino-medio.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2001,
+            "trecho_fonte": "LOCAL DE REALIZAÇÃO/CAMPUS: Rua Alagoas, nº 2001 – Centro – CEP 86020-430 - Londrina – Paraná",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "de estágio: 0 horas Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20 Ano de criação do curso: 2012 Requisitos de acesso ao Curso: Ensino Fundamental",
+            "secao": "Número máximo de vagas do curso",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-massoterapia",
+      "nome": "Tecnico em Massoterapia",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/londrina/tecnico-em-massoterapia/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2018/04/PPC-Tecnico-em-Massoterapia.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/londrina/tecnico-em-massoterapia.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2011,
+            "trecho_fonte": "Autorizado pela Resolução n° 75/2011 de 21/12/2011 do Conselho Superior - IFPR",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "estágio obrigatório Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20 Ano de criação do curso: 2009 Requisitos de acesso ao Curso: Ensino médio compl",
+            "secao": "Número máximo de vagas do curso",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-protese-dentaria-2",
+      "nome": "Tecnico em Protese Dentaria 2",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/londrina/tecnico-em-protese-dentaria-2/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2023/12/PPC-Tecnico-em-Protese-Dentaria.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/londrina/tecnico-em-protese-dentaria-2.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2009,
+            "trecho_fonte": "A avaliação do processo de ensino aprendizagem segue a Portaria nº 120 de 06 de agosto de 2009/IFPR e demais normativas correlatas institucionais e a LDBEN nº 9394/96. No processo pedagógico, alunos e professores são sujeitos ativos e devem atuar de forma consciente, não apenas c",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "CURSO : 1200 horas NÚMERO DE VAGAS: 40 ESTÁGIO SUPERVISIONADO: 0 CARGA HORÁRIA TOTAL: 1200 horas MÍNIMO MÁXIMO 20 40 ----- End of picture text ----- 3. ESTRUTURA E FUNCIONAMENTO 3.1 Justificativa",
+            "secao": "NÚMERO DE VAGAS",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-saude-bucal",
+      "nome": "Tecnico em Saude Bucal",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/londrina/tecnico-em-saude-bucal/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2023/12/PPC-Tecnico-em-Saude-Bucal.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/londrina/tecnico-em-saude-bucal.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2011,
+            "trecho_fonte": "Ano de criação do curso: 2011 (Resolução CONSUP/IFPR 74/11)",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 30,
+            "trecho_fonte": "ia de estágio: 70h. Número máximo de vagas do curso: 30 Número mínimo de vagas do curso: 20 Ano de criação do curso: 2011 (Resolução CONSUP/IFPR 74/11) Requisitos de acess",
+            "secao": "Número máximo de vagas do curso",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
+      "nome": "Tecnologia em Analise e Desenvolvimento de Sistemas",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/londrina/tecnologia-em-analise-e-desenvolvimento-de-sistemas/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2025/02/IFPR_PPC_TADS_Londrina_2025_v1.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/londrina/tecnologia-em-analise-e-desenvolvimento-de-sistemas.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2024,
+            "trecho_fonte": "A Região Metropolitana de Londrina (RMLO), segundo o IBGE (2024) é estimada em 1.088.006 hab., a segunda maior do Paraná. A RMLO é formada pelos municípios de Londrina, Alvorada do Sul, Arapongas, Assaí, Bela Vista do Paraíso, Cambé, Centenário do Sul, Florestópolis, Guaraci, Ibi",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "obrigatório. 1.1.10 Vagas totais (anual) Quarenta vagas. 1.1.11 Escolaridade mínima exigida Ensino Médio completo. 1.1.12 Coordenador N",
+            "secao": "Vagas totais (anual)",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual"
+          }
+        }
+      }
+    }
+  ],
   "curadoria": {
-    "status_cursos": "dados_pendentes",
-    "verificado_em": "2026-04-30"
+    "status_cursos": "dados_parciais",
+    "verificado_em": "2026-05-11",
+    "fontes": [
+      "https://ifpr.edu.br/londrina/"
+    ]
   }
 }

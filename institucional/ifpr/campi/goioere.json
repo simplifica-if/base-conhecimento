@@ -9,6 +9,9 @@
   "cursos": [],
   "curadoria": {
     "status_cursos": "dados_pendentes",
-    "verificado_em": "2026-04-30"
+    "verificado_em": "2026-05-11",
+    "fontes": [
+      "https://ifpr.edu.br/goioere/"
+    ]
   }
 }

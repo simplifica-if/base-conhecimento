@@ -176,6 +176,39 @@
                 "type": "object",
                 "additionalProperties": false,
                 "properties": {
+                  "ano_documento": {
+                    "type": "object",
+                    "required": [
+                      "ano",
+                      "trecho_fonte",
+                      "status_curadoria"
+                    ],
+                    "additionalProperties": false,
+                    "properties": {
+                      "ano": {
+                        "type": "integer",
+                        "minimum": 1900
+                      },
+                      "trecho_fonte": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "secao": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "status_curadoria": {
+                        "enum": [
+                          "sugerido",
+                          "revisado"
+                        ]
+                      },
+                      "revisado_em": {
+                        "type": "string",
+                        "format": "date"
+                      }
+                    }
+                  },
                   "vagas": {
                     "type": "object",
                     "required": [

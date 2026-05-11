@@ -6,9 +6,186 @@
     "site": "https://paranavai.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/paranavai/secretaria/protocolos-academicos/"
   },
-  "cursos": [],
+  "cursos": [
+    {
+      "id": "especializacao-em-gestao-da-qualidade-e-tecnologia-de-alimentos",
+      "nome": "Especialização em Gestão da Qualidade e Tecnologia de Alimentos",
+      "nivel": "pós-graduação",
+      "tipo_oferta": "especialização",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/paranavai/cursos-de-pos-graduacao/gestao-da-qualidade-e-tecnologia-de-alimentos/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2021/11/PPC_final.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/paranavai/especializacao-em-gestao-da-qualidade-e-tecnologia-de-alimentos.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2014,
+            "trecho_fonte": "Observa-se o seguinte artigo da Resolução CONSUP/IFPR nº 09/2014: 39",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "07) - 3.2 Número de vagas ofertadas: mínimo 20, máximo 40 vagas. 3.3 Pré-requisitos: Graduação em Engenharia de Alimentos, Tecnologia de",
+            "secao": "vagas ofertadas",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+          }
+        }
+      }
+    },
+    {
+      "id": "engenharia-de-software",
+      "nome": "Engenharia de Software (bacharelado)",
+      "nivel": "superior",
+      "tipo_oferta": "bacharelado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/paranavai/cursos-superiores/engenharia-de-software-bacharelado/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2025/01/PPC-de-Engenharia-de-Software-–-Turmas-iniciadas-ate-2022-Atualizado.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/paranavai/engenharia-de-software.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2018,
+            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO 37 DE 29 DE JULHO DE 2018",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "mponente curricular Vagas totais (anuais): 40 Escolaridade mínima exigida: Ensino Médio Completo Coordenador: Nome: Frank Will",
+            "secao": "Vagas totais (anuais)",
+            "status_curadoria": "sugerido"
+          }
+        }
+      }
+    },
+    {
+      "id": "engenharia-eletrica",
+      "nome": "Engenharia Elétrica (bacharelado)",
+      "nivel": "superior",
+      "tipo_oferta": "bacharelado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/paranavai/cursos-superiores/engenharia-eletrica/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2025/01/PPC_Eletrica2023__APS_2025_vf.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/paranavai/engenharia-eletrica.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2014,
+            "trecho_fonte": "O Jubilamento do curso obedece à regulamentação da Resolução CONSUP/IFPR n°14 de 10 de junho de 2014, onde define que o tempo máximo para jubilamento consiste no dobro do tempo mínimo previsto no PPC menos um ano",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "200 horas. 1.1.10 Vagas totais (anual) 40 vagas por ano 1.1.11 Escolaridade mínima exigida Ensino Médio completo. 1.1.12 Coorde",
+            "secao": "Vagas totais (anual)",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual"
+          }
+        }
+      }
+    },
+    {
+      "id": "licenciatura-em-quimica",
+      "nome": "Licenciatura em Química",
+      "nivel": "superior",
+      "tipo_oferta": "licenciatura",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/paranavai/cursos-superiores/licenciatura-em-quimica/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2025/01/PPC_LicQUIMICA_2025_AJUSTES_EXTRAORDINARIOS_ATIVIDADES_PRATICAS_SUPERVISIONADAS_SEi.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/paranavai/licenciatura-em-quimica.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2013,
+            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO 24/2013",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "s Exatas e da Terra Quantidade de Vagas: 40 (máximo) anuais Carga horária do curso: 3201 horas Turno de Oferta: Noturno Grau",
+            "secao": "Quantidade de Vagas",
+            "status_curadoria": "sugerido"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-eletromecanica-subsequente",
+      "nome": "Técnico em Eletromecânica Subsequente",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/paranavai/cursos-tecnicos-subsequentes/tecnico-em-eletromecanica-subsequente/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2019/12/PPC-Eletromecanica-2020.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/paranavai/tecnico-em-eletromecanica-subsequente.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2020,
+            "trecho_fonte": "Nível: Médio Forma de oferta: Subsequente Modalidade de oferta: ( x ) Presencial ( ) A distância Tempo de duração total do curso em anos: 2 Turno de oferta: ( ) Matutino ( ) Vespertino ( x ) Noturno ( ) Diurno ( ) Integral Horário de oferta do curso: 19:20 - 22:50 Carga horária t",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "120 (horas relógio) Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20 Ano de criação do curso: 2010 Ano letivo de implantação do ajuste: 2020 Ano de",
+            "secao": "Número máximo de vagas do curso",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+          }
+        }
+      }
+    }
+  ],
   "curadoria": {
-    "status_cursos": "dados_pendentes",
-    "verificado_em": "2026-04-30"
+    "status_cursos": "dados_parciais",
+    "verificado_em": "2026-05-11",
+    "fontes": [
+      "https://paranavai.ifpr.edu.br/"
+    ]
   }
 }

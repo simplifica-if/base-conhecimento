@@ -6,9 +6,187 @@
     "site": "https://ifpr.edu.br/pinhais/",
     "calendario_academico": "https://ifpr.edu.br/pinhais/institucional/area-do-aluno/calendario-academico/"
   },
-  "cursos": [],
+  "cursos": [
+    {
+      "id": "bacharelado-em-administracao",
+      "nome": "Bacharelado em Administração",
+      "nivel": "superior",
+      "tipo_oferta": "bacharelado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/pinhais/institucional/nossos-cursos/cursos-superiores/bacharelado-em-administracao/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/pinhais/wp-content/uploads/sites/22/2025/12/PPC-Bac.-Administracao-Alterado-2025-Pos-CONSEPE.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/pinhais/bacharelado-em-administracao.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2025,
+            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO CONSUP/IFPR Nº 126/2023 AJUSTE – PARECER CONSEPE Nº 34/2025",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 10,
+            "trecho_fonte": "8 1.1.7 Horário de oferta do curso 8 1.1.8 Prazo de Integralização Curricular 8 1.1.9 Carga-Horário total do Curso 8 1.1.10 Vagas totais (anual) 8 1.1.11 Escolaridade mínima exigida 8 1.1.12 Coordenador 8 1.1",
+            "secao": "oferta",
+            "status_curadoria": "sugerido"
+          }
+        }
+      }
+    },
+    {
+      "id": "bacharelado-em-ciencia-da-computacao",
+      "nome": "Bacharelado em Ciência da Computação",
+      "nivel": "superior",
+      "tipo_oferta": "bacharelado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/pinhais/institucional/nossos-cursos/cursos-superiores/bacharelado-em-ciencia-da-computacao/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/pinhais/wp-content/uploads/sites/22/2026/04/PPC-BCC-2027.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/pinhais/bacharelado-em-ciencia-da-computacao.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2021,
+            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO CONSUP/IFPR Nº 33 PORTARIA Nº 57, DE 08 DE OUTUBRO DE 2021",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "oras relógio 1.1.10 Vagas totais (anual) 40 vagas 1.1.11 Escolaridade mínima exigida Ensino Médio completo. 7 == picture [121 x 3",
+            "secao": "Vagas totais (anual)",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnologia-em-gestao-da-tecnologia-da-informacao",
+      "nome": "Tecnologia em Gestão da Tecnologia da Informação",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/pinhais/institucional/nossos-cursos/cursos-superiores/gti/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/pinhais/wp-content/uploads/sites/22/2025/12/PPC_versao_atualizada.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/pinhais/tecnologia-em-gestao-da-tecnologia-da-informacao.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2025,
+            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO Nº 20, DE 13 DE JUNHO DE 2019. AJUSTE PARECER CONSEPE Nº 40/2025",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "2240 horas. 1.1.10 Vagas totais (anual) 40 vagas. 1.1.11 Escolaridade mínima exigida Ensino Médio completo. 1.1.12 Coordenador O",
+            "secao": "Vagas totais (anual)",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-administracao-integrado-ao-ensino-medio",
+      "nome": "Curso Técnico em Administração Integrado ao Ensino Médio",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/pinhais/institucional/nossos-cursos/tecnicos-integrados/administracao/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/pinhais/wp-content/uploads/sites/22/2025/05/Projeto_Pedagogico_de_Curso_3530515_PPC_ADM_2025_aprovadoCONSEPE.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/pinhais/tecnico-em-administracao-integrado-ao-ensino-medio.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2025,
+            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO Nº 40/2014 AJUSTE PARECER CONSEPE Nº 6/2025",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "1.1.14 Vagas totais Número mínimo de vagas por turno: 20 vagas de ingresso. Número máximo de vagas por turno: 40 vagas de ingresso. Número máximo de vagas: 80 vagas de ingresso. A cada ano ser",
+            "secao": "Número mínimo de vagas por turno",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-informatica-integrado-ao-ensino-medio",
+      "nome": "Curso Técnico em Informática Integrado ao Ensino Médio",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/pinhais/institucional/nossos-cursos/tecnicos-integrados/informatica/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/pinhais/wp-content/uploads/sites/22/2025/04/PPC_Informatica_Integrado_EnsinoMedio_2019.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/pinhais/tecnico-em-informatica-integrado-ao-ensino-medio.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2014,
+            "trecho_fonte": "RESOLUÇÃO DE CRIAÇÃO: Resolução nº 50, de 16 de dezembro de 2014, do Conselho Superior - IFPR",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "ria de estágio: N/A Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20 Ano de criação do curso: 2014 Ano de início de primeira turma: 2015 Tipo de Mat",
+            "secao": "Número máximo de vagas do curso",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+          }
+        }
+      }
+    }
+  ],
   "curadoria": {
-    "status_cursos": "dados_pendentes",
-    "verificado_em": "2026-04-30"
+    "status_cursos": "dados_parciais",
+    "verificado_em": "2026-05-11",
+    "fontes": [
+      "https://ifpr.edu.br/pinhais/"
+    ]
   }
 }

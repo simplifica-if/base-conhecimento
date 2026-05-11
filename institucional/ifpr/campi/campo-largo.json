@@ -6,9 +6,293 @@
     "site": "https://campolargo.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/campo-largo/espaco-do-aluno/calendario-academico-2/"
   },
-  "cursos": [],
+  "cursos": [
+    {
+      "id": "administracao",
+      "nome": "Administração",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/campo-largo/nossos-cursos/cursos-ensino-medio-integrado/administracao/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2023/01/PPC-EMI-ADMINISTRACAO_-Versao-Resolucao.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/campo-largo/administracao.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2010,
+            "trecho_fonte": "Neste contexto, foi implantado, em 24 de maio de 2010, o Campus Campo Largo, que está localizado na Região Metropolitana de Curitiba (Microrregião Curitiba). Embora o município faça limite com a capital do estado, sua localização é estratégica, pois também atende estudantes morad",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "ágio: não se aplica Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 30 Ano de criação do curso: 2022 Ano de início de primeira turma: fevereiro de 202",
+            "secao": "Número máximo de vagas do curso",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnologia-em-materiais",
+      "nome": "Curso Superior de Tecnologia em Materiais",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/campo-largo/nossos-cursos/cursos-superiores/curso-superior-de-tecnologia-em-materiais/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2024/02/PPC_Tecnologo_Materiais_Ext.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/campo-largo/tecnologia-em-materiais.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2022,
+            "trecho_fonte": "Portaria da Direção-Geral do Campus nº 103 de 22 de agosto de 2022",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "omitted <== 1.1.10 Vagas totais (anual) 40 vagas 1.1.11 Escolaridade mínima exigida Ensino Médio Completo 1.1.12 Coordenador Nom",
+            "secao": "Vagas totais (anual)",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnologia-em-processos-gerenciais",
+      "nome": "Curso Superior de Tecnologia em Processos Gerenciais",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/campo-largo/nossos-cursos/cursos-superiores/curso-superior-de-tecnologia-em-processos-gerenciais/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2025/08/PPC_Tecnologo_Processos_Gerenciais_ingressantes_2024.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/campo-largo/tecnologia-em-processos-gerenciais.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2019,
+            "trecho_fonte": "Portaria da Direção-Geral do Campus nº 65/2019",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "1.760 horas. 1.1.10 Vagas totais (anual) 40 vagas 1.1.11 Escolaridade mínima exigida Ensino Médio Completo 1.1.12 Coordenador Nom",
+            "secao": "Vagas totais (anual)",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual"
+          }
+        }
+      }
+    },
+    {
+      "id": "licenciatura-em-matematica",
+      "nome": "Licenciatura em Matemática",
+      "nivel": "superior",
+      "tipo_oferta": "licenciatura",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/campo-largo/nossos-cursos/cursos-superiores/curso-de-licenciatura-em-matematica/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2019/12/PPC_Licenciatura_Matematica_Versao_Pos_CONSUP.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/campo-largo/licenciatura-em-matematica.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2018,
+            "trecho_fonte": "Resolução da Direção-Geral do Campus nº 99/2018 Luciane Schulz Fonseca Adriane Roberta Ribeiro dos Santos Antonio Brandão Campus do Mar Camila de Fátima Modesto Claudio Kleina Elaine Siqueira Razzoto Elisete Poncio Aires Elton Dias Júnior Estanislau Velasco Júnior Fábio Lucas da",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "3.200 horas 1.1.10 Vagas totais (anual) 40 vagas 1.1.11 Escolaridade mínima exigida Ensino Médio Completo. 1.1.12 Coordenador No",
+            "secao": "Vagas totais (anual)",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual"
+          }
+        }
+      }
+    },
+    {
+      "id": "bacharelado-em-engenharia-eletrica",
+      "nome": "Bacharelado em Engenharia Elétrica",
+      "nivel": "superior",
+      "tipo_oferta": "bacharelado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/campo-largo/nossos-cursos/cursos-superiores/curso-de-bacharelado-em-engenharia-eletrica/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2025/08/2023_PPC-Engenharia-Eletrica_v25.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/campo-largo/bacharelado-em-engenharia-eletrica.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2022,
+            "trecho_fonte": "Portaria DG/CLargo/IFPR nº 104, 01/setembro/2022",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "600 horas 9 1.1.10 Vagas totais (anual) 40 vagas 1.1.11 Escolaridade mínima exigida Ensino Médio Completo 1.1.12 Coordenador Nom",
+            "secao": "Vagas totais (anual)",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual"
+          }
+        }
+      }
+    },
+    {
+      "id": "administracao-proeja",
+      "nome": "Administração – PROEJA",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/campo-largo/nossos-cursos/cursos-ensino-medio-integrado/administracao-proeja/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2018/12/PPC-PROEJA.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/campo-largo/administracao-proeja.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2017,
+            "trecho_fonte": "O espaço da formação, composto por espaços didáticos e relação com empresas, possibilitará aos técnicos, experiências de aprendizagem que integram a teoria e a prática profissional. Dessa forma, os estudantes poderão vivenciar o trabalho coletivo, solidário e interativo, contribu",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "ágio: não se aplica Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 30 Ano de criação do curso: início do projeto em 2017 Ano de início de primeira tu",
+            "secao": "Número máximo de vagas do curso",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnologia-em-agroecologia",
+      "nome": "Curso Superior de Tecnologia em Agroecologia",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/campo-largo/nossos-cursos/cursos-superiores/curso-superior-de-tecnologia-em-agroecologia/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2025/11/PPC_TecnologoAgro_2025_aprovado-CONSEPE-em-2025.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/campo-largo/tecnologia-em-agroecologia.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2025,
+            "trecho_fonte": "Autorizado pela Resolução n° 02/2016 do Conselho Superior - IFPR AJUSTE Aprovado pelo PARECER CONSEPE - 38 / 2025 Processo SEI nº 23411.001988/2025-54",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "2.480 horas 1.1.10 Vagas totais (anual) - 40 vagas para turmas ministradas no campus Campo Largo. 1 == picture [452 x 55] intentio",
+            "secao": "Vagas totais",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual"
+          }
+        }
+      }
+    },
+    {
+      "id": "automacao-industrial",
+      "nome": "Automação Industrial",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/campo-largo/nossos-cursos/cursos-ensino-medio-integrado/automacao/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2023/04/PPC-EMI_Automacao-versao-para-sei-POS-PARECER-ultimo.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/campo-largo/automacao-industrial.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2010,
+            "trecho_fonte": "O campus Campo Largo foi implantado em 24/05/2010 e está localizado na Região Metropolitana de Curitiba (Microrregião Curitiba). Embora o município faça limite com a capital do estado, sua localização é estratégica, pois também atende estudantes moradores dos Municípios de Balsa",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "ágio: não se aplica Número máximo de vagas do Curso: 40 Número mínimo de vagas do Curso: 30 Ano de criação do Curso: 2015 Ano letivo de implantação do ajuste: 2020 Ano de",
+            "secao": "Número máximo de vagas do Curso",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
+          }
+        }
+      }
+    }
+  ],
   "curadoria": {
-    "status_cursos": "dados_pendentes",
-    "verificado_em": "2026-04-30"
+    "status_cursos": "dados_parciais",
+    "verificado_em": "2026-05-11",
+    "fontes": [
+      "https://campolargo.ifpr.edu.br/"
+    ]
   }
 }

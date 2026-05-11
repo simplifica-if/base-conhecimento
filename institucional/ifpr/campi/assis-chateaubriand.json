@@ -6,9 +6,222 @@
     "site": "https://ifpr.edu.br/assis-chateaubriand/",
     "calendario_academico": "https://ifpr.edu.br/assis-chateaubriand/menu-academico/area-do-estudante/vida-academica/calendario-academico/"
   },
-  "cursos": [],
+  "cursos": [
+    {
+      "id": "tecnologia-em-automacao-industrial",
+      "nome": "Tecnologia em Automação Industrial",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/cursos-superiores/tecnologia-em-automacao-industrial/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/assis-chateaubriand/wp-content/uploads/sites/3/2026/02/PPC_Tecnologia_em_Automacao_Industrial_2026.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnologia-em-automacao-industrial.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2025,
+            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO CONSUP/IFPR Nº 267/2025",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 10,
+            "trecho_fonte": "7 1.1.7 Horário de oferta do curso 7 1.1.8 Prazo de Integralização Curricular 7 1.1.9 Carga-Horária total do Curso 7 1.1.10 Vagas totais (anual) 7 1.1.11 Escolaridade mínima exigida 7 1.1.12 Coordenador 8 1.1",
+            "secao": "oferta",
+            "status_curadoria": "sugerido"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-mecatronica-integrado-ao-ensino-medio",
+      "nome": "Técnico em Mecatrônica Integrado ao Ensino Médio",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/cursos-tecnicos/tecnico-em-mecatronica-integrado-ao-ensino-medio/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/assis-chateaubriand/wp-content/uploads/sites/3/2026/02/PPC_Tecnico_em_Mecatronica_Integrado_2026.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnico-em-mecatronica-integrado-ao-ensino-medio.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2025,
+            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO CONSUP/IFPR Nº 261/2025",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": ") Trimestral 1.1.16 Vagas totais (anual) Até 40 vagas. 1.1.17 Escolaridade mínima exigida/requisito de acesso ao curso Ensino Fundame",
+            "secao": "Vagas totais",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-alimentos",
+      "nome": "Técnico em Alimentos",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/cursos-subsequentes/tecnico-em-alimentos/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/assis-chateaubriand/wp-content/uploads/sites/3/2023/07/Versao-3-do-PPC.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnico-em-alimentos.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2022,
+            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO CONSUP Nº114, de 21 de DEZEMBRO DE 2022 PARECER CONSEPE Nº 64/2022",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Vagas totais Serão ofertadas um total de 40 vagas anuais no processo seletivo com um número mínimo de 20 vagas. No IFPR campus As",
+            "secao": "ofertadas",
+            "status_curadoria": "sugerido"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-comercio",
+      "nome": "Técnico em Comércio",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/cursos-tecnicos/comercio-integrado-ao-ensino-medio/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/assis-chateaubriand/wp-content/uploads/sites/3/2022/10/PPC-do-Curso-de-Tecnico-em-Comercio.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnico-em-comercio.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2019,
+            "trecho_fonte": "NÚMERO DO PROCESSO: 23411.006660/2018-03 NOME DO CURSO: Curso Técnico em Comércio EIXO TECNOLÓGICO : Gestão e Negócios COORDENAÇÃO DO CURSO Coordenador: Alexandre José Schumacher E-mail: alexandre.schumacher@ifpr.edu.br Telefone: (44) 9 9964 2244 CAMPUS Endereço: Avenida Cívica,",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "rária de estágio: 0 Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20 Ano de criação do curso: 2019 Ano de início de primeira turma: 2020 Tipo de mat",
+            "secao": "Número máximo de vagas do curso",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-agropecuaria",
+      "nome": "Técnico em Agropecuária",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/cursos-subsequentes/tecnico-em-agropecuaria/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/assis-chateaubriand/wp-content/uploads/sites/3/2021/09/PPC-Curso-tecnico-em-agropecuaria-subsequente-Versao-2021.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnico-em-agropecuaria.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2023,
+            "trecho_fonte": "O Curso Técnico em Agropecuária no IFPR, campus Assis Chateaubriand, é resultado de amplas discussões de todos os eixos tecnológicos (PDI 2019-2023), de debates com entidades regionais diretamente relacionadas ao setor produtivo, respaldado na demanda profissional em nível nacion",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "estágio obrigatório Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 24 vagas Ano de criação do curso: 2019 Ano letivo de implantação do ajuste: 2021 A",
+            "secao": "Número máximo de vagas do curso",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 24 vagas"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnologia-em-gestao-comercial",
+      "nome": "Tecnologia em Gestão Comercial",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/cursos-superiores/tecnologia-em-gestao-comercial/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/assis-chateaubriand/wp-content/uploads/sites/3/2023/07/PPC_curricularizacao_TGC_2023_07.05.2023.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnologia-em-gestao-comercial.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2019,
+            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO Nº 29 DE 14 JUNHO DE 2019 AJUSTE PARECER CONSEPE Nº XX/ANO",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "150 horas). 1.1.10 Vagas totais (anual) Mínimo: 20 vagas Máximo: 40 vagas Oferta: anual 1.1.11 Escolaridade mínima exigida Ensino Médio completo. 1",
+            "secao": "Vagas totais (anual)",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+          }
+        }
+      }
+    }
+  ],
   "curadoria": {
-    "status_cursos": "dados_pendentes",
-    "verificado_em": "2026-04-30"
+    "status_cursos": "dados_parciais",
+    "verificado_em": "2026-05-11",
+    "fontes": [
+      "https://ifpr.edu.br/assis-chateaubriand/"
+    ]
   }
 }

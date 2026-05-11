@@ -12,21 +12,102 @@
       "nome": "Curso Técnico em Sistemas de Energia Renovável Integrado ao Ensino Médio",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
-      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/curso-tecnico-integrado-ao-ensino-medio/tecnico-integrado-ao-ensino-medio-tecnico-em-sistemas-de-energia-renovavel/"
+      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/curso-tecnico-integrado-ao-ensino-medio/tecnico-integrado-ao-ensino-medio-tecnico-em-sistemas-de-energia-renovavel/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/arapongas/wp-content/uploads/sites/2/2025/12/PPC_Tecnico_em_Sistemas_de_Energia_Renovavel___Arapongas-2.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/arapongas/tecnico-em-sistemas-de-energia-renovavel-integrado-ao-ensino-medio.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2025,
+            "trecho_fonte": "CAMPUS AVANÇADO ARAPONGAS 2025",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-11"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Vagas totais: Mínimo: 20 vagas; Máximo: 40 vagas",
+            "secao": "1.1.14 Vagas totais",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-11",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+          }
+        }
+      }
     },
     {
       "id": "tecnologia-em-processos-gerenciais",
       "nome": "Tecnologia em Processos Gerenciais",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",
-      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/graduacao-em-processos-gerenciais/tecnologia-em-processos-gerenciais/"
+      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/graduacao-em-processos-gerenciais/tecnologia-em-processos-gerenciais/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/arapongas/wp-content/uploads/sites/2/2025/12/PPC_Graduacao_IFPR___PROCESSOS_GERENCIAIS_ARAPONGAS__1-1.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/arapongas/tecnologia-em-processos-gerenciais.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2025,
+            "trecho_fonte": "Arapongas 2025",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-11"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Vagas totais (anual): 40 vagas.",
+            "secao": "1.1.10 Vagas totais (anual)",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-11",
+            "periodicidade": "anual"
+          }
+        }
+      }
     },
     {
       "id": "especializacao-em-docencia-e-praticas-educativas",
       "nome": "Especialização em Docência e Práticas Educativas",
       "nivel": "pós-graduação",
       "tipo_oferta": "especialização",
-      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/pos-graduacao/especializacao-em-docencia-e-praticas-educativas/"
+      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/pos-graduacao/especializacao-em-docencia-e-praticas-educativas/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/arapongas/wp-content/uploads/sites/2/2023/10/PPC-Pos-em-Docencia-e-Praticas-educativas.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/arapongas/especializacao-em-docencia-e-praticas-educativas.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2023,
+            "trecho_fonte": "2023",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-11"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Vagas ofertadas: a) Mínimo: 20 vagas (Resolução Consup/IFPR n.121/2023); b) Máximo: 40 vagas",
+            "secao": "2.3 Vagas ofertadas",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-11",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+          }
+        }
+      }
     },
     {
       "id": "tecnico-em-melhoria-de-processos",
@@ -68,14 +149,68 @@
       "nome": "Programação Web",
       "nivel": "formação inicial e continuada",
       "tipo_oferta": "FIC",
-      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/cursos-fic/programacao-web/"
+      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/cursos-fic/programacao-web/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/arapongas/wp-content/uploads/sites/2/2025/03/PPC_FIC_Programacao_WEB.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/arapongas/programacao-web.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2025,
+            "trecho_fonte": "Arapongas 2025",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-11"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Vagas totais: 20 a 40 vagas",
+            "secao": "1.11 Vagas totais",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-11",
+            "forma_oferta": "20 a 40 vagas"
+          }
+        }
+      }
     },
     {
       "id": "programacao-com-enfase-em-analise-de-dados",
       "nome": "Programação com ênfase em Análise de Dados",
       "nivel": "formação inicial e continuada",
       "tipo_oferta": "FIC",
-      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/cursos-fic/programacao-com-enfase-em-analise-de-dados/"
+      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/cursos-fic/programacao-com-enfase-em-analise-de-dados/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/arapongas/wp-content/uploads/sites/2/2024/06/PPC_FIC_Programacao_com_enfase_em_AD.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/arapongas/programacao-com-enfase-em-analise-de-dados.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2024,
+            "trecho_fonte": "Arapongas 2024",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-11"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Vagas totais: 20 a 40 vagas",
+            "secao": "1.11 Vagas totais",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-11",
+            "forma_oferta": "20 a 40 vagas"
+          }
+        }
+      }
     },
     {
       "id": "gestao-de-competencias-para-exames-de-larga-escala",
@@ -104,6 +239,6 @@
       "https://ifpr.edu.br/arapongas/nossos-cursos/partiu-if/",
       "https://ifpr.edu.br/arapongas/nossos-cursos/cursos-fic/"
     ],
-    "verificado_em": "2026-04-30"
+    "verificado_em": "2026-05-11"
   }
 }

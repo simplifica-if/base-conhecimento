@@ -6,9 +6,83 @@
     "site": "https://capanema.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/capanema/?page_id=644"
   },
-  "cursos": [],
+  "cursos": [
+    {
+      "id": "tecnologia-em-sistemas-para-internet",
+      "nome": "Tecnologia em Sistemas para Internet",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/capanema/nossos-cursos/graduacao/tecnologia-em-sistemas-para-internet/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/capanema/wp-content/uploads/sites/7/2026/01/PPC-SISTEMAS-PARA-INTERNET-CAPANEMA-2026.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/capanema/tecnologia-em-sistemas-para-internet.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2025,
+            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO CONSUP Nº 269/2025 AJUSTE PARECER CONSEPE NºXX/ANO",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "omitted <== 1.1.10 Vagas totais (anual) 40 vagas 1.1.11 Escolaridade mínima exigida Ensino Médio completo. 1.1.12 Coordenador No",
+            "secao": "Vagas totais (anual)",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual"
+          }
+        }
+      }
+    },
+    {
+      "id": "licenciatura-em-matematica",
+      "nome": "Licenciatura em Matemática",
+      "nivel": "superior",
+      "tipo_oferta": "licenciatura",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/capanema/nossos-cursos/graduacao/licenciatura-em-matematica/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/capanema/wp-content/uploads/sites/7/2023/07/PPC-2023.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/capanema/licenciatura-em-matematica.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2023,
+            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO Nº 28 de 29 de junho de 2018 AJUSTE PARECER CONSEPE Nº 2369914/2023",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "da Extensão 1.1.10 Vagas totais (anual) 40 vagas 1.1.11 Escolaridade mínima exigida Ensino Médio completo. 1.1.12 Coordenador No",
+            "secao": "Vagas totais (anual)",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual"
+          }
+        }
+      }
+    }
+  ],
   "curadoria": {
-    "status_cursos": "dados_pendentes",
-    "verificado_em": "2026-04-30"
+    "status_cursos": "dados_parciais",
+    "verificado_em": "2026-05-11",
+    "fontes": [
+      "https://capanema.ifpr.edu.br/"
+    ]
   }
 }

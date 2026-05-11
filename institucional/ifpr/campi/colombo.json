@@ -26,6 +26,13 @@
           "status": "convertido"
         },
         "metadados": {
+          "ano_documento": {
+            "ano": 2018,
+            "trecho_fonte": "COLOMBO 2018",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-11"
+          },
           "vagas": {
             "quantidade": 40,
             "periodicidade": "anual",
@@ -100,6 +107,13 @@
           "status": "convertido"
         },
         "metadados": {
+          "ano_documento": {
+            "ano": 2018,
+            "trecho_fonte": "COLOMBO 2018",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-11"
+          },
           "vagas": {
             "quantidade": 40,
             "periodicidade": "não especificada",
@@ -131,6 +145,13 @@
           "status": "convertido"
         },
         "metadados": {
+          "ano_documento": {
+            "ano": 2022,
+            "trecho_fonte": "Colombo-PR 2022",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-11"
+          },
           "vagas": {
             "quantidade": 40,
             "periodicidade": "anual",
@@ -161,6 +182,13 @@
           "status": "convertido"
         },
         "metadados": {
+          "ano_documento": {
+            "ano": 2022,
+            "trecho_fonte": "COLOMBO 2022",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-11"
+          },
           "vagas": {
             "quantidade": 40,
             "periodicidade": "anual",
@@ -191,6 +219,13 @@
           "status": "convertido"
         },
         "metadados": {
+          "ano_documento": {
+            "ano": 2022,
+            "trecho_fonte": "COLOMBO 2022",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-11"
+          },
           "vagas": {
             "quantidade": 40,
             "periodicidade": "anual",
@@ -222,6 +257,13 @@
           "status": "convertido"
         },
         "metadados": {
+          "ano_documento": {
+            "ano": 2024,
+            "trecho_fonte": "Colombo 2024",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-11"
+          },
           "vagas": {
             "quantidade": 40,
             "periodicidade": "anual",
@@ -252,6 +294,13 @@
           "status": "convertido"
         },
         "metadados": {
+          "ano_documento": {
+            "ano": 2024,
+            "trecho_fonte": "Colombo 2024",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-11"
+          },
           "vagas": {
             "quantidade": 40,
             "periodicidade": "anual",

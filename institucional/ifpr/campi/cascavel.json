@@ -6,9 +6,188 @@
     "site": "https://cascavel.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/cascavel/calendario-academico/"
   },
-  "cursos": [],
+  "cursos": [
+    {
+      "id": "tecnologia-em-gestao-ambiental",
+      "nome": "Tecnologia em Gestão Ambiental",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/cascavel/cursos/graduacao/tecnologia-em-gestao-ambiental/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/cascavel/wp-content/uploads/sites/8/2026/02/NOVO-PPC-Tecnologia-em-gestao-ambiental_2026.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/cascavel/tecnologia-em-gestao-ambiental.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2026,
+            "trecho_fonte": "Atualização 09 de fevereiro de 2026",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "plementares. 1.1.10 Vagas totais (anual) 40 vagas. 1.1.11 Escolaridade mínima exigida Ensino Médio completo. 1.1.12 Coordenador N",
+            "secao": "Vagas totais (anual)",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-quimica",
+      "nome": "Técnico em Química",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/cascavel/cursos/ensino-medio-integrado/tecnico-em-quimica/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/cascavel/wp-content/uploads/sites/8/2021/11/PPC-Tec.-em-Quimica-2021-2.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/cascavel/tecnico-em-quimica.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2015,
+            "trecho_fonte": "RESOLUÇÃO DE CRIAÇÃO: Resolução n°13/2015 ( IFPR, 2015)",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "ágio: Não se aplica Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20 Ano de criação do curso: 2015 Ano letivo de implantação do ajuste: 2022 Ano de",
+            "secao": "Número máximo de vagas do curso",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
+      "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/cascavel/cursos/graduacao/tads/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/cascavel/wp-content/uploads/sites/8/2026/02/PPC_TADS_2023_ATUALIZACAO_2026.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/cascavel/tecnologia-em-analise-e-desenvolvimento-de-sistemas.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2025,
+            "trecho_fonte": "Atualização 17 de Janeiro de 2025",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "s: 100 horas 1.1.10 Vagas totais (anual) 40 vagas. 1.1.11 Escolaridade mínima exigida Ensino Médio completo. 1.1.12 Coordenador N",
+            "secao": "Vagas totais (anual)",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-informatica",
+      "nome": "Técnico em Informática",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/cascavel/cursos/ensino-medio-integrado/tecnico-em-informatica/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/cascavel/wp-content/uploads/sites/8/2018/02/PPC-INFORMATICA-vigente_01_2018.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/cascavel/tecnico-em-informatica.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2013,
+            "trecho_fonte": "Autorizado pela Resolução n°33/2013 do Conselho Superior - IFPR",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "de estágio: Não há Número Máximo de Vagas por Curso: 40 Número Mínimo de Vagas por Curso: 30 Ano de Criação do Curso: 2013 Requisitos de acesso ao Curso: Ensino fundamental",
+            "secao": "Número Máximo de Vagas por Curso",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
+          }
+        }
+      }
+    },
+    {
+      "id": "licenciatura-em-quimica",
+      "nome": "Licenciatura em Química",
+      "nivel": "superior",
+      "tipo_oferta": "licenciatura",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/cascavel/cursos/graduacao/licenciatura-em-quimica/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/cascavel/wp-content/uploads/sites/8/2025/01/ATUALIZACAO_DO_AJUSTE_CURRICULAR_ORDINARIO_PPC_LICENCIATURA_EM_QUIMICA.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/cascavel/licenciatura-em-quimica.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2023,
+            "trecho_fonte": "Portaria da Direção – Geral do campus Nº 346, de 13 de Junho de 2023",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "s: 200 horas 1.1.10 Vagas totais (anual) 40 vagas. 1.1.11 Escolaridade mínima exigida Ensino Médio completo. 1.1.12 Coordenador N",
+            "secao": "Vagas totais (anual)",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual"
+          }
+        }
+      }
+    }
+  ],
   "curadoria": {
-    "status_cursos": "dados_pendentes",
-    "verificado_em": "2026-04-30"
+    "status_cursos": "dados_parciais",
+    "verificado_em": "2026-05-11",
+    "fontes": [
+      "https://cascavel.ifpr.edu.br/"
+    ]
   }
 }

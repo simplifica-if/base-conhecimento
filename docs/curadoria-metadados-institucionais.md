@@ -36,9 +36,10 @@ Quando a página oficial do curso indicar o Projeto Pedagógico de Curso, regist
 6. Se não houver link oficial claro para PPC, omita `ppc`; não use `null` nem marcador de pendência no curso.
 7. Preserve URLs HTTPS absolutas. Links oficiais em Google Drive podem ser usados quando a página do curso apontar diretamente para eles.
 8. Use `ppc.conversao.status` como `pendente` enquanto o Markdown ainda não tiver sido gerado.
-9. Metadados extraídos do PPC, como vagas, devem ficar em `ppc.metadados` com contexto e evidência textual; não registre apenas um número solto.
+9. Metadados extraídos do PPC, como ano do documento e vagas, devem ficar em `ppc.metadados` com contexto e evidência textual; não registre apenas um número solto.
 10. A conversão para Markdown é apoio à leitura e extração. A fonte oficial continua sendo o PDF indicado em `ppc.url`.
 11. Para converter PDFs em Markdown, use o script opcional `scripts/converter_ppcs_markdown.py`, com dependências instaladas por `uv venv && uv pip install -r requirements-ppc.txt`. O conversor padrão é PyMuPDF4LLM com OCR local disponível.
+12. Registre o ano do PPC em `ppc.metadados.ano_documento` quando houver evidência no documento, preferencialmente na capa, folha de rosto, ato de ajuste ou indicação clara de revisão vigente.
 
 ## Exemplo: Arapongas
 

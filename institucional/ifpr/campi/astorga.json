@@ -6,9 +6,83 @@
     "site": "https://astorga.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/astorga/estudantes/calendario-academico/"
   },
-  "cursos": [],
+  "cursos": [
+    {
+      "id": "licenciatura-em-pedagogia",
+      "nome": "Licenciatura em Pedagogia",
+      "nivel": "superior",
+      "tipo_oferta": "licenciatura",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/astorga/menu-principal/nossos-cursos/pedagogia/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/astorga/wp-content/uploads/sites/4/2026/02/PPC-PEDAGOGIA-2025.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/astorga/licenciatura-em-pedagogia.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2023,
+            "trecho_fonte": "Comissão de Estruturação de Curso Portaria DG/Londrina/IFPR no 352, de 24 de fevereiro de 2023",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 20,
+            "trecho_fonte": "plementares. 1.1.10 Vagas totais (anual) 20 vagas (mínimo) a 40 vagas (máximo). 1.1.11 Escolaridade mínima exigida Ensino Médio c",
+            "secao": "Vagas totais (anual)",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual"
+          }
+        }
+      }
+    },
+    {
+      "id": "curso-tecnico-de-informatica-integrado-ao-ensino-medio",
+      "nome": "Curso Técnico de Informática Integrado ao Ensino Médio (TINFEM)",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/astorga/menu-principal/nossos-cursos/tecnicos-integrados/tinfem/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/astorga/wp-content/uploads/sites/4/2017/11/PPC-Tecnico-em-Informatica-Integrado-ao-Ensino-Medio-Astorga-2018.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/astorga/curso-tecnico-de-informatica-integrado-ao-ensino-medio.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2010,
+            "trecho_fonte": "Com esse intuito que o IFPR Câmpus Avançado Astorga busca atuar no sentido do desenvolvimento local e regional na perspectiva da construção da cidadania, sem perder a dimensão do universal, oportunizando uma “formação profissional e tecnológica contextualizada, banhada de conheci",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "de estágio: não há Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 30 vagas Ano de criação do curso: 2014 Ano de início da oferta do curso: 2015 Requ",
+            "secao": "Número máximo de vagas do curso",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
+          }
+        }
+      }
+    }
+  ],
   "curadoria": {
-    "status_cursos": "dados_pendentes",
-    "verificado_em": "2026-04-30"
+    "status_cursos": "dados_parciais",
+    "verificado_em": "2026-05-11",
+    "fontes": [
+      "https://astorga.ifpr.edu.br/"
+    ]
   }
 }
