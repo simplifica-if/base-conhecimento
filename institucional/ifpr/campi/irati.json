@@ -179,6 +179,50 @@
             "forma_oferta": "máximo de 80 vagas e mínimo de 20 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "IRA002",
+        "vagas": 160
+      }
+    },
+    {
+      "id": "tecnico-em-agroecologia",
+      "nome": "Técnico em Agroecologia",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/irati/tecnico-em-agroecologia/",
+      "suap": {
+        "codigo": "IRA001",
+        "vagas": 160
+      },
+      "ppc": {
+        "url": "https://ifpr.edu.br/irati/wp-content/uploads/sites/14/2025/12/PPC-Tecnico-em-Agroecologia-Vigente.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/irati/tecnico-em-agroecologia.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2025,
+            "trecho_fonte": "IFPR IRATI 2025",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 160,
+            "trecho_fonte": "Máximo de 80 alunos para a turma da manhã e máximo de 80 alunos para a turma da tarde.",
+            "secao": "1.1.14 Vagas totais",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 80 alunos para a turma da manhã e máximo de 80 alunos para a turma da tarde",
+            "turno": "matutino e vespertino"
+          }
+        }
       }
     }
   ],

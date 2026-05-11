@@ -75,6 +75,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "AST002",
+        "vagas": 40
       }
     }
   ],

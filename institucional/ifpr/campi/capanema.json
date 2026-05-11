@@ -76,6 +76,123 @@
           }
         }
       }
+    },
+    {
+      "id": "tecnico-em-agroecologia",
+      "nome": "Técnico em Agroecologia",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/capanema/nossos-cursos/tecnico-integrado-ao-ensino-medio/tecnico-em-agroecologia/",
+      "suap": {
+        "codigo": "CAP003",
+        "vagas": 40
+      },
+      "ppc": {
+        "url": "https://ifpr.edu.br/capanema/wp-content/uploads/sites/7/2018/02/PPC-Versao-Aprovada-CONSUP.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/capanema/tecnico-em-agroecologia.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2017,
+            "trecho_fonte": "Autorizado pela Resolução nº 33, de 14 de julho de 2017, do Conselho Superior - IFPR",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "de Vida: 100 horas Número máximo de vagas do curso : 40 Número mínimo de vagas do curso: 20 Requisitos de acesso ao Curso: Ensino Fundamental Anos Finais completo, ser fil",
+            "secao": "Número máximo de vagas do curso",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-cooperativismo",
+      "nome": "Técnico em Cooperativismo",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/capanema/nossos-cursos/tecnico-integrado-ao-ensino-medio/tecnico-em-cooperativismo/",
+      "suap": {
+        "codigo": "CAP001",
+        "vagas": 40
+      },
+      "ppc": {
+        "url": "https://ifpr.edu.br/capanema/wp-content/uploads/sites/7/2018/04/PPC-Cooperativismo-2018-Capanema.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/capanema/tecnico-em-cooperativismo.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2017,
+            "trecho_fonte": "CAMPUS CAPANEMA CAPANEMA 2017",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "estágio: 120 horas Número máximo de vagas do curso : 40 Número mínimo de vagas do curso: 20 Ano de criação do curso : 2014 Requisitos de acesso ao Curso: Ensino Fundamenta",
+            "secao": "Número máximo de vagas do curso",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-informatica",
+      "nome": "Técnico em Informática",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/capanema/nossos-cursos/tecnico-integrado-ao-ensino-medio/tecnico-integrado-informatica/",
+      "suap": {
+        "codigo": "CAP002",
+        "vagas": 50
+      },
+      "ppc": {
+        "url": "https://ifpr.edu.br/capanema/wp-content/uploads/sites/7/2020/09/Projeto-Pedagogico-do-Curso-Tecnico-em-Informatica-versao-final-ingresso-2021-3-1.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/capanema/tecnico-em-informatica.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2020,
+            "trecho_fonte": "CAPANEMA - PR 2020",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "hora-relógio: 3210h Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20 Ano de criação do curso: 2016 Ano letivo de implantação do ajuste: 2021 Ano de",
+            "secao": "Número máximo de vagas do curso",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+          }
+        }
+      }
     }
   ],
   "curadoria": {

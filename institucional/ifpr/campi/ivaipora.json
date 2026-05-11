@@ -40,6 +40,10 @@
             "forma_oferta": "máximo de 35 vagas e mínimo de 20 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "IVAAGROP",
+        "vagas": 35
       }
     },
     {
@@ -145,6 +149,10 @@
             "forma_oferta": "máximo de 35 vagas e mínimo de 20 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "IVA001",
+        "vagas": 36
       }
     },
     {

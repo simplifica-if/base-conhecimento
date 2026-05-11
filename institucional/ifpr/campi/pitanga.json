@@ -39,6 +39,10 @@
             "status_curadoria": "sugerido"
           }
         }
+      },
+      "suap": {
+        "codigo": "PIT003",
+        "vagas": 40
       }
     },
     {
@@ -73,6 +77,10 @@
             "status_curadoria": "sugerido"
           }
         }
+      },
+      "suap": {
+        "codigo": "PIT001",
+        "vagas": 40
       }
     },
     {
@@ -213,6 +221,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "PIT002",
+        "vagas": 40
       }
     }
   ],

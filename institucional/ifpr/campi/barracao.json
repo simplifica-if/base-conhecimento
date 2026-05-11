@@ -75,6 +75,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "BA002",
+        "vagas": 40
       }
     },
     {
@@ -110,6 +114,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "BA001",
+        "vagas": 80
       }
     }
   ],

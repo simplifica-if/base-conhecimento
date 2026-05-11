@@ -179,6 +179,72 @@
           }
         }
       }
+    },
+    {
+      "id": "tecnico-em-agroindustria",
+      "nome": "Técnico em Agroindústria",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/paranavai/tecnico-em-agroindustria/",
+      "suap": {
+        "codigo": "PVAI001",
+        "vagas": 40
+      }
+    },
+    {
+      "id": "tecnico-em-informatica",
+      "nome": "Técnico em Informática",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/paranavai/tecnico-em-informatica/",
+      "suap": {
+        "codigo": "PVAI003",
+        "vagas": 40
+      }
+    },
+    {
+      "id": "tecnico-em-mecatronica",
+      "nome": "Técnico em Mecatrônica",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/paranavai/ensino-medio/tecnico-em-mecatronica/",
+      "suap": {
+        "codigo": "PVAI004",
+        "vagas": 40
+      },
+      "ppc": {
+        "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2017/05/PPC_Mecatronica_Pvai_inicio2017.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/paranavai/tecnico-em-mecatronica.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2016,
+            "trecho_fonte": "Paranavaí 2016",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Número máximo de vagas do curso : 40 alunos.",
+            "secao": "2. Características do Curso",
+            "status_curadoria": "sugerido"
+          }
+        }
+      }
     }
   ],
   "curadoria": {

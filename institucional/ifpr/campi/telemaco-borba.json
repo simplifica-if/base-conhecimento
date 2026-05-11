@@ -144,6 +144,10 @@
             "status_curadoria": "sugerido"
           }
         }
+      },
+      "suap": {
+        "codigo": "TBOR001",
+        "vagas": 40
       }
     },
     {
@@ -174,6 +178,48 @@
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "aliação: Trimestral Total de vagas anuais: Uma turma de 40 vagas por ano Regime de oferta: Anual Ano e resolução de criação do curso: Resolução",
+            "secao": "Total de vagas anuais",
+            "status_curadoria": "sugerido"
+          }
+        }
+      },
+      "suap": {
+        "codigo": "TBOR002",
+        "vagas": 40
+      }
+    },
+    {
+      "id": "tecnico-em-mecanica",
+      "nome": "Técnico em Mecânica",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/telemaco-borba/cursos-tecnicos-integrados/tecnico-em-mecanica/",
+      "suap": {
+        "codigo": "TBOR003",
+        "vagas": 40
+      },
+      "ppc": {
+        "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2026/02/PPC-CURSO-TECNICO-INTEGRADO-EM-MECANICA_FINAL.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/tecnico-em-mecanica.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2025,
+            "trecho_fonte": "Telêmaco Borba 2025",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "aliação: Trimestral Total de vagas anuais: Uma turma de 40 vagas por ano Regime de oferta: Anual Ano e resolução de criação do curso: 11 / 2011",
             "secao": "Total de vagas anuais",
             "status_curadoria": "sugerido"
           }

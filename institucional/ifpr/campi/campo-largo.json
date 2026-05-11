@@ -40,6 +40,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "CL001",
+        "vagas": 40
       }
     },
     {
@@ -285,6 +289,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "CL003",
+        "vagas": 40
       }
     }
   ],

@@ -39,6 +39,10 @@
             "status_curadoria": "sugerido"
           }
         }
+      },
+      "suap": {
+        "codigo": "PGUA004",
+        "vagas": 40
       }
     },
     {
@@ -177,6 +181,10 @@
             "status_curadoria": "sugerido"
           }
         }
+      },
+      "suap": {
+        "codigo": "PGUA003",
+        "vagas": 40
       }
     },
     {
@@ -247,6 +255,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "PGUA001",
+        "vagas": 40
       }
     },
     {
@@ -282,6 +294,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "PGUA002",
+        "vagas": 40
       }
     }
   ],

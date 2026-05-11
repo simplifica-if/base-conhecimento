@@ -42,6 +42,10 @@
             "forma_oferta": "máximo de 35 vagas e mínimo de 20 vagas do curso"
           }
         }
+      },
+      "suap": {
+        "codigo": "CTB001",
+        "vagas": 40
       }
     },
     {
@@ -79,6 +83,10 @@
             "forma_oferta": "máximo de 37 vagas e mínimo de 30 vagas do curso"
           }
         }
+      },
+      "suap": {
+        "codigo": "CTB003",
+        "vagas": 40
       }
     },
     {
@@ -116,6 +124,10 @@
             "forma_oferta": "máximo de 35 vagas e mínimo de 20 vagas do curso"
           }
         }
+      },
+      "suap": {
+        "codigo": "CTB006",
+        "vagas": 40
       }
     },
     {
@@ -153,6 +165,10 @@
             "forma_oferta": "máximo de 35 vagas e mínimo de 30 vagas do curso"
           }
         }
+      },
+      "suap": {
+        "codigo": "CTB010",
+        "vagas": 40
       }
     },
     {
@@ -190,6 +206,10 @@
             "forma_oferta": "máximo de 35 vagas e mínimo de 20 vagas do curso"
           }
         }
+      },
+      "suap": {
+        "codigo": "CTB012",
+        "vagas": 40
       }
     },
     {
@@ -227,6 +247,10 @@
             "forma_oferta": "máximo de 35 vagas e mínimo de 30 vagas do curso"
           }
         }
+      },
+      "suap": {
+        "codigo": "CTB014",
+        "vagas": 40
       }
     },
     {
@@ -264,6 +288,10 @@
             "forma_oferta": "máximo de 30 vagas e mínimo de 15 vagas do curso"
           }
         }
+      },
+      "suap": {
+        "codigo": "CTB015",
+        "vagas": 40
       }
     },
     {
@@ -301,6 +329,10 @@
             "forma_oferta": "máximo de 35 vagas e mínimo de 30 vagas do curso"
           }
         }
+      },
+      "suap": {
+        "codigo": "CTB018",
+        "vagas": 40
       }
     },
     {

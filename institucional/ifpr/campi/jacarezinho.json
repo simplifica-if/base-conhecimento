@@ -110,6 +110,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 15 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "JAC003",
+        "vagas": 40
       }
     },
     {
@@ -215,6 +219,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "JAC001",
+        "vagas": 40
       }
     },
     {
@@ -248,6 +256,45 @@
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 30 vagas e mínimo de 15 vagas"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-eletromecanica",
+      "nome": "Técnico em Eletromecânica",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/jacarezinho/cursos/cursos-integrados/tecnico-em-eletromecanica-2/projeto-pedagogico-do-curso/",
+      "suap": {
+        "codigo": "JAC006",
+        "vagas": 40
+      },
+      "ppc": {
+        "url": "https://ifpr.edu.br/jacarezinho/wp-content/uploads/sites/16/2018/07/Projeto-Pedagogico-do-Curso-Tecnico-em-Eletromecanica.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/jacarezinho/tecnico-em-eletromecanica.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2017,
+            "trecho_fonte": "Jacarezinho 2017",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 20,
+            "trecho_fonte": "Total: 3.390 horas Número máximo de vagas do curso: 20 Número mínimo de vagas do curso: 15 Ano de criação do curso: 2018 Requisitos de acesso aos cursos técnicos de nível",
+            "secao": "Número máximo de vagas do curso",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 20 vagas e mínimo de 15 vagas"
           }
         }
       }

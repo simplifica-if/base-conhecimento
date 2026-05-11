@@ -24,6 +24,15 @@ Aprendizado a partir do Campus Arapongas:
 13. Use `situacao` para registrar a vigência atual da oferta: `ativo`, `em_oferta`, `suspenso` ou `incerto`.
 14. Quando a oferta estiver vinculada a programa institucional, como Pronacampo, cadastre o programa em `programas` e suas ofertas em `programas[].ofertas`, não misturadas com os cursos regulares do campus.
 
+## Metadados do SUAP
+
+Use o campo opcional `cursos[].suap` para registrar metadados administrativos vindos do sistema acadêmico SUAP.
+
+1. Registre o código do curso no sistema em `cursos[].suap.codigo`.
+2. Registre o número de vagas cadastradas no sistema em `cursos[].suap.vagas`.
+3. `cursos[].suap.vagas` representa o dado administrativo do SUAP, não a quantidade de vagas declarada no PPC.
+4. Preserve `cursos[].ppc.metadados.vagas` para vagas extraídas do Projeto Pedagógico de Curso, sempre com contexto e evidência textual.
+
 ## Links para PPC dos cursos
 
 Quando a página oficial do curso indicar o Projeto Pedagógico de Curso, registre os dados no campo opcional `ppc` do item em `cursos`. O PDF oficial fica em `ppc.url`, e o Markdown convertido, quando existir, fica versionado à parte e referenciado em `ppc.markdown_path`.

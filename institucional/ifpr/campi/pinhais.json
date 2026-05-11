@@ -144,6 +144,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "PIN001",
+        "vagas": 40
       }
     },
     {
@@ -179,6 +183,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "PIN002",
+        "vagas": 80
       }
     }
   ],

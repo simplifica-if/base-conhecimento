@@ -44,6 +44,10 @@
             "revisado_em": "2026-05-11"
           }
         }
+      },
+      "suap": {
+        "codigo": "COL001",
+        "vagas": 40
       }
     },
     {
@@ -65,6 +69,10 @@
           "status": "erro",
           "mensagem_erro": "Conversão interrompida após tempo excessivo em PDF grande ou digitalizado; requer estratégia OCR dedicada."
         }
+      },
+      "suap": {
+        "codigo": "COL002",
+        "vagas": 40
       }
     },
     {
@@ -86,6 +94,10 @@
           "status": "erro",
           "mensagem_erro": "Conversão interrompida após tempo excessivo em PDF grande ou digitalizado; requer estratégia OCR dedicada."
         }
+      },
+      "suap": {
+        "codigo": "COL003",
+        "vagas": 40
       }
     },
     {

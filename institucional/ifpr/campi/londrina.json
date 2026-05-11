@@ -40,6 +40,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "LON001",
+        "vagas": 40
       }
     },
     {
@@ -167,6 +171,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "LON003",
+        "vagas": 40
       }
     },
     {

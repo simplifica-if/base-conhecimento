@@ -75,6 +75,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "CAS003",
+        "vagas": 40
       }
     },
     {
@@ -145,6 +149,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "CAS002",
+        "vagas": 40
       }
     },
     {
@@ -178,6 +186,45 @@
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
             "periodicidade": "anual"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-edificacoes",
+      "nome": "Técnico em Edificações",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/cascavel/cursos/ensino-medio-integrado/tecnico-em-edificacoes/apresentacao/",
+      "suap": {
+        "codigo": "CAS001",
+        "vagas": 40
+      },
+      "ppc": {
+        "url": "https://ifpr.edu.br/cascavel/wp-content/uploads/sites/8/2024/01/Edificacoes-Projeto_Pedagogico_de_Cursos_Tecnicos_do_IFPR.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/cascavel/tecnico-em-edificacoes.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2023,
+            "trecho_fonte": "Cascavel 2023",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Número máximo e mínimo de vagas do curso respectivamente: 40 e 30.",
+            "secao": "1.1.14 Vagas totais",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
           }
         }
       }

@@ -74,6 +74,10 @@
             "periodicidade": "anual"
           }
         }
+      },
+      "suap": {
+        "codigo": "AC013",
+        "vagas": 40
       }
     },
     {
@@ -143,6 +147,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "AC004",
+        "vagas": 40
       }
     },
     {
@@ -178,6 +186,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 24 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "AC001",
+        "vagas": 40
       }
     },
     {
@@ -214,6 +226,59 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
+      }
+    },
+    {
+      "id": "tecnico-em-eletromecanica-integrado-ao-ensino-medio",
+      "nome": "Técnico em Eletromecânica Integrado ao Ensino Médio",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/cursos-tecnicos/eletromecanica-integradoensino-medio/informacoes/",
+      "suap": {
+        "codigo": "AC005",
+        "vagas": 40
+      },
+      "ppc": {
+        "url": "https://ifpr.edu.br/assis-chateaubriand/wp-content/uploads/sites/3/2024/02/PPC-Integrado-em-Eletromecanica-11-DE-DEZEMBRO-DE-2013.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnico-em-eletromecanica-integrado-ao-ensino-medio.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2013,
+            "trecho_fonte": "CURITIBA 2013",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "ORAS AULA: 4000 h/a NÚMERO DE VAGAS: CARGA HORÁRIA TOTAL – HORAS RELÓGIO: 3331h/r MÍNIMO 20 MÁXIMO 40 CARGA HORÁRIA DE ESTÁGIO: Não obrigatório PARCERIA COM OUTRAS ESPECIFICAR (anex",
+            "secao": "NÚMERO DE VAGAS",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-informatica-para-internet-integrado-ao-ensino-medio",
+      "nome": "Técnico em Informática para Internet Integrado ao Ensino Médio",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/cursos-tecnicos/curso-tecnico-em-informatica-para-a-internet/",
+      "suap": {
+        "codigo": "AC008",
+        "vagas": 40
       }
     }
   ],

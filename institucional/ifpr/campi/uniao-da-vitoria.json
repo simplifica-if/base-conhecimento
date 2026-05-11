@@ -180,6 +180,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "UVIT001",
+        "vagas": 50
       }
     },
     {
@@ -215,6 +219,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "UVIT002",
+        "vagas": 40
       }
     }
   ],

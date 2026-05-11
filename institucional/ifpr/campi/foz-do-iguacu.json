@@ -250,6 +250,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 24 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "FOZ001",
+        "vagas": 40
       }
     },
     {
@@ -285,6 +289,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 35 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "FOZ002",
+        "vagas": 40
       }
     },
     {
@@ -320,6 +328,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 35 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "FOZ003",
+        "vagas": 40
       }
     },
     {
@@ -355,6 +367,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 24 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "FOZ005",
+        "vagas": 40
       }
     },
     {
