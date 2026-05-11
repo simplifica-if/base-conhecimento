@@ -112,6 +112,10 @@
             "status_curadoria": "sugerido"
           }
         }
+      },
+      "suap": {
+        "codigo": "AC003",
+        "vagas": 40
       }
     },
     {
@@ -188,7 +192,7 @@
         }
       },
       "suap": {
-        "codigo": "AC001",
+        "codigo": "AC002",
         "vagas": 40
       }
     },
@@ -280,13 +284,81 @@
         "codigo": "AC008",
         "vagas": 40
       }
+    },
+    {
+      "id": "tecnico-em-eletrotecnica-subsequente",
+      "nome": "Técnico em Eletrotécnica Subsequente",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/cursos-subsequentes/eletrotecnica/informacoes/",
+      "suap": {
+        "codigo": "AC007",
+        "vagas": 40
+      },
+      "ppc": {
+        "url": "https://ifpr.edu.br/assis-chateaubriand/wp-content/uploads/sites/3/2017/08/PPC-Eletrotecnica.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnico-em-eletrotecnica-subsequente.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "GA HORÁRIA: 1.360 h NÚMERO DE VAGAS: 40 ESTÁGIO: Não obrigatório MÍNIMO 20 MÁXIMO 40 CARGA HORÁRIA TOTAL: 1.360 h 3. ESTRUTURA E FUNCIONAMENTO 3.1 Justificativa da",
+            "secao": "NÚMERO DE VAGAS",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-eletromecanica-subsequente",
+      "nome": "Técnico em Eletromecânica Subsequente",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/cursos-subsequentes/eletromecanica/informacoes/",
+      "suap": {
+        "codigo": "AC006",
+        "vagas": 40
+      },
+      "ppc": {
+        "url": "https://ifpr.edu.br/assis-chateaubriand/wp-content/uploads/sites/3/2017/04/PPC-Eletromecanica_Subsequente.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnico-em-eletromecanica-subsequente.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "RÁRIA TOTAL: 1.360h NÚMERO DE VAGAS: MÍNIMO MÁXIMO 20 40 3. ESTRUTURA E FUNCIONAMENTO 3.1 Justificativa da oferta do Curso É inegável o",
+            "secao": "NÚMERO DE VAGAS",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+          }
+        }
+      }
     }
   ],
   "curadoria": {
     "status_cursos": "dados_parciais",
     "verificado_em": "2026-05-11",
     "fontes": [
-      "https://ifpr.edu.br/assis-chateaubriand/"
+      "https://ifpr.edu.br/assis-chateaubriand/",
+      "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/cursos-subsequentes/eletrotecnica/",
+      "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/cursos-subsequentes/eletromecanica/"
     ]
   }
 }

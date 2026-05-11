@@ -374,8 +374,8 @@
       }
     },
     {
-      "id": "tecnico-em-cozinha",
-      "nome": "Tecnico em Cozinha",
+      "id": "tecnico-em-gastronomia",
+      "nome": "Técnico em Gastronomia",
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
       "modalidade": "presencial",
@@ -384,7 +384,7 @@
       "url": "https://ifpr.edu.br/foz-do-iguacu/tecnicos-subsequentes/tecnico-em-cozinha/",
       "ppc": {
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2022/10/PPC-Tecnico-em-Gastronomia.2022.10.10.22.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/tecnico-em-cozinha.md",
+        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/tecnico-em-gastronomia.md",
         "conversao": {
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
@@ -393,9 +393,9 @@
         },
         "metadados": {
           "ano_documento": {
-            "ano": 1996,
-            "trecho_fonte": "Assim, é percebido que a sociedade está em constante processo de transformação de suas estruturas e tecnologias. Diante dessa realidade, o IFPR, como instituição de ensino voltada para a educação técnica, tecnológica e a formação profissional, vem realizando grandes modificações",
-            "secao": "Capa / folha inicial",
+            "ano": 2022,
+            "trecho_fonte": "PPC-Tecnico-em-Gastronomia.2022.10.10.22.pdf",
+            "secao": "Nome do arquivo oficial / PPC vigente",
             "status_curadoria": "sugerido"
           },
           "vagas": {
@@ -406,6 +406,10 @@
             "forma_oferta": "máximo de 26 vagas e mínimo de 13 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "FOZ004",
+        "vagas": 40
       }
     }
   ],
@@ -413,7 +417,8 @@
     "status_cursos": "dados_parciais",
     "verificado_em": "2026-05-11",
     "fontes": [
-      "https://ifpr.edu.br/foz-do-iguacu/"
+      "https://ifpr.edu.br/foz-do-iguacu/",
+      "https://ifpr.edu.br/foz-do-iguacu/tecnicos-subsequentes/"
     ]
   }
 }

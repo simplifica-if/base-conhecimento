@@ -136,6 +136,10 @@
             "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "LON002",
+        "vagas": 30
       }
     },
     {
@@ -210,6 +214,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "LON004",
+        "vagas": 40
       }
     },
     {
@@ -245,6 +253,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "LON005",
+        "vagas": 40
       }
     },
     {
@@ -280,6 +292,10 @@
             "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "LON006",
+        "vagas": 30
       }
     },
     {

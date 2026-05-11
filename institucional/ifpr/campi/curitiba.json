@@ -370,6 +370,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 25 vagas do curso"
           }
         }
+      },
+      "suap": {
+        "codigo": "CTB002",
+        "vagas": 30
       }
     },
     {
@@ -407,6 +411,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas do curso"
           }
         }
+      },
+      "suap": {
+        "codigo": "CTB004",
+        "vagas": 30
       }
     },
     {
@@ -444,6 +452,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas do curso"
           }
         }
+      },
+      "suap": {
+        "codigo": "CTB005",
+        "vagas": 30
       }
     },
     {
@@ -481,6 +493,10 @@
             "forma_oferta": "máximo de 35 vagas e mínimo de 20 vagas do curso"
           }
         }
+      },
+      "suap": {
+        "codigo": "CTB007",
+        "vagas": 30
       }
     },
     {
@@ -502,6 +518,10 @@
           "status": "erro",
           "mensagem_erro": "Falha na conversão: TypeError: 'NoneType' object is not iterable"
         }
+      },
+      "suap": {
+        "codigo": "CTB008",
+        "vagas": 30
       }
     },
     {
@@ -539,6 +559,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 25 vagas do curso"
           }
         }
+      },
+      "suap": {
+        "codigo": "CTB009",
+        "vagas": 30
       }
     },
     {
@@ -576,6 +600,10 @@
             "forma_oferta": "máximo de 36 vagas e mínimo de 30 vagas do curso"
           }
         }
+      },
+      "suap": {
+        "codigo": "CTB011",
+        "vagas": 30
       }
     },
     {
@@ -614,6 +642,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas por ingresso anual"
           }
         }
+      },
+      "suap": {
+        "codigo": "CTB013",
+        "vagas": 30
       }
     },
     {
@@ -651,6 +683,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas do curso"
           }
         }
+      },
+      "suap": {
+        "codigo": "CTB016",
+        "vagas": 30
       }
     },
     {
@@ -688,6 +724,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 25 vagas por turno"
           }
         }
+      },
+      "suap": {
+        "codigo": "CTB017",
+        "vagas": 30
       }
     },
     {
@@ -698,7 +738,11 @@
       "url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-tecnicos-subsequentes/protesedentaria/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus"
+      "escopo": "campus",
+      "suap": {
+        "codigo": "CTB019",
+        "vagas": 30
+      }
     },
     {
       "id": "tecnico-em-radiologia",
@@ -735,6 +779,10 @@
             "forma_oferta": "máximo de 35 vagas e mínimo de 20 vagas do curso"
           }
         }
+      },
+      "suap": {
+        "codigo": "CTB020",
+        "vagas": 30
       }
     },
     {
@@ -773,6 +821,10 @@
             "forma_oferta": "máximo de 25 vagas, mínimo de 15 vagas e reserva de 2 vagas por ingresso anual"
           }
         }
+      },
+      "suap": {
+        "codigo": "CTB021",
+        "vagas": 35
       }
     },
     {
@@ -794,6 +846,10 @@
           "status": "erro",
           "mensagem_erro": "Falha na conversão: HTTPError: HTTP Error 404: Not Found"
         }
+      },
+      "suap": {
+        "codigo": "CTB022",
+        "vagas": 30
       }
     },
     {

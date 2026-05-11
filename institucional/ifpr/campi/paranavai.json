@@ -178,6 +178,10 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "PVAI002",
+        "vagas": 40
       }
     },
     {

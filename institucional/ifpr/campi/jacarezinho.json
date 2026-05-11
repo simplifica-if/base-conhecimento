@@ -258,6 +258,10 @@
             "forma_oferta": "máximo de 30 vagas e mínimo de 15 vagas"
           }
         }
+      },
+      "suap": {
+        "codigo": "JAC005",
+        "vagas": 30
       }
     },
     {

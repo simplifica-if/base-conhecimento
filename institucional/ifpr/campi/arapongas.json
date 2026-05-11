@@ -118,7 +118,36 @@
       "nome": "Técnico em Melhoria de Processos",
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
-      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/tecnico-subsequente/tecnico-em-melhoria-de-processos/"
+      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/tecnico-subsequente/tecnico-em-melhoria-de-processos/",
+      "suap": {
+        "codigo": "AR001",
+        "vagas": 40
+      },
+      "ppc": {
+        "url": "https://ifpr.edu.br/arapongas/wp-content/uploads/sites/2/2022/09/PPC___CURSO_TECNICO_EM_MELHORIA_DE_PROCESSOS___VERSAO_FINAL.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/arapongas/tecnico-em-melhoria-de-processos.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2021,
+            "trecho_fonte": "ARAPONGAS 2021",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "ágio: Não se Aplica Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20 Ano de criação do curso: 2021 Ano letivo de implantação do ajuste: Não se Aplic",
+            "secao": "Número máximo de vagas do curso",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+          }
+        }
+      }
     },
     {
       "id": "tecnico-em-agente-comunitario-de-saude",
