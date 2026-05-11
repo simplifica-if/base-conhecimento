@@ -9,6 +9,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 NORMAS_ROOT = ROOT / "normas"
 INSTITUCIONAL_ROOT = ROOT / "institucional"
+PPCS_ROOT = INSTITUCIONAL_ROOT / "ifpr" / "ppcs"
 CATALOGOS_ROOT = ROOT / "catalogos"
 INSTITUCIONAL_MANIFEST_PATH = ROOT / "institucional_manifest.json"
 CATALOGOS_MANIFEST_PATH = ROOT / "catalogos_manifest.json"

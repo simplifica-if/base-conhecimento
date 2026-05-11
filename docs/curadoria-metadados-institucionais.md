@@ -26,15 +26,19 @@ Aprendizado a partir do Campus Arapongas:
 
 ## Links para PPC dos cursos
 
-Quando a página oficial do curso indicar o Projeto Pedagógico de Curso, registre o link no campo opcional `ppc_url` do item em `cursos`.
+Quando a página oficial do curso indicar o Projeto Pedagógico de Curso, registre os dados no campo opcional `ppc` do item em `cursos`. O PDF oficial fica em `ppc.url`, e o Markdown convertido, quando existir, fica versionado à parte e referenciado em `ppc.markdown_path`.
 
 1. Use como fonte primária a própria página oficial cadastrada em `cursos[].url`.
 2. Aceite links descritos como PPC, Projeto Pedagógico do Curso, Projeto Político Pedagógico do Curso ou Plano de Curso equivalente.
 3. Não use matriz curricular, edital, resolução, formulário, manual, notícia ou documento auxiliar como substituto de PPC.
 4. Ignore o Projeto Político Pedagógico genérico do campus quando houver documento específico do curso.
 5. Quando houver mais de um PPC, registre apenas o documento vigente ou mais recente, priorizando textos como "vigente", "novo", "atualizado", "válido a partir de" ou o ano mais recente.
-6. Se não houver link oficial claro para PPC, omita `ppc_url`; não use `null` nem marcador de pendência no curso.
+6. Se não houver link oficial claro para PPC, omita `ppc`; não use `null` nem marcador de pendência no curso.
 7. Preserve URLs HTTPS absolutas. Links oficiais em Google Drive podem ser usados quando a página do curso apontar diretamente para eles.
+8. Use `ppc.conversao.status` como `pendente` enquanto o Markdown ainda não tiver sido gerado.
+9. Metadados extraídos do PPC, como vagas, devem ficar em `ppc.metadados` com contexto e evidência textual; não registre apenas um número solto.
+10. A conversão para Markdown é apoio à leitura e extração. A fonte oficial continua sendo o PDF indicado em `ppc.url`.
+11. Para converter PDFs em Markdown, use o script opcional `scripts/converter_ppcs_markdown.py`, com dependências instaladas por `uv venv && uv pip install -r requirements-ppc.txt`. O conversor padrão é PyMuPDF4LLM com OCR local disponível.
 
 ## Exemplo: Arapongas
 

@@ -13,10 +13,31 @@
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/colombo/tecnicos-integrados/tecnico-em-administracao/",
-      "ppc_url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2022/08/PPC_Integrado_ADM_final.pdf",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus"
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2022/08/PPC_Integrado_ADM_final.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/colombo/tecnico-em-administracao-integrado-ao-ensino-medio.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "vagas": {
+            "quantidade": 40,
+            "periodicidade": "anual",
+            "turno": "matutino e vespertino",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas do curso",
+            "trecho_fonte": "Número máximo de vagas do curso: 40 vagas; Número mínimo de vagas do curso: 20 vagas",
+            "secao": "1.2 Características do Curso",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-11"
+          }
+        }
+      }
     },
     {
       "id": "tecnico-em-alimentos-integrado-ao-ensino-medio",
@@ -24,10 +45,20 @@
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/colombo/tecnicos-integrados/tecnico-em-alimentos/",
-      "ppc_url": "https://drive.google.com/file/d/1jHQ6KClwctTpQ8k0zWnhNFULMhqqcoyl/view?usp=sharing",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus"
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://drive.google.com/file/d/1jHQ6KClwctTpQ8k0zWnhNFULMhqqcoyl/view?usp=sharing",
+        "markdown_path": "institucional/ifpr/ppcs/colombo/tecnico-em-alimentos-integrado-ao-ensino-medio.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "erro",
+          "mensagem_erro": "Conversão interrompida após tempo excessivo em PDF grande ou digitalizado; requer estratégia OCR dedicada."
+        }
+      }
     },
     {
       "id": "tecnico-em-informatica-integrado-ao-ensino-medio",
@@ -35,10 +66,20 @@
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/colombo/tecnicos-integrados/tecnico-em-informatica/",
-      "ppc_url": "https://drive.google.com/file/d/1-CWGEpZfgRXQeT9UT3qLT5JCDpBn9biB/view?usp=sharing",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus"
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://drive.google.com/file/d/1-CWGEpZfgRXQeT9UT3qLT5JCDpBn9biB/view?usp=sharing",
+        "markdown_path": "institucional/ifpr/ppcs/colombo/tecnico-em-informatica-integrado-ao-ensino-medio.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "erro",
+          "mensagem_erro": "Conversão interrompida após tempo excessivo em PDF grande ou digitalizado; requer estratégia OCR dedicada."
+        }
+      }
     },
     {
       "id": "tecnico-em-administracao-subsequente",
@@ -46,10 +87,30 @@
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
       "url": "https://ifpr.edu.br/colombo/tecnicos-subsequentes/tecnico-em-administracao/",
-      "ppc_url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2022/08/PPC_Subs_Adm_Versao_Final.pdf",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus"
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2022/08/PPC_Subs_Adm_Versao_Final.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/colombo/tecnico-em-administracao-subsequente.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "vagas": {
+            "quantidade": 40,
+            "periodicidade": "não especificada",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas do curso",
+            "trecho_fonte": "Número máximo de vagas do curso: 40 vagas; Número mínimo de vagas do curso: 20 vagas",
+            "secao": "Características do Curso",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-11"
+          }
+        }
+      }
     },
     {
       "id": "tecnologia-em-alimentos",
@@ -57,10 +118,29 @@
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",
       "url": "https://ifpr.edu.br/colombo/superiores-tecnologia/tecnologia-em-alimentos/",
-      "ppc_url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2022/08/PPCTAL_2022_Final-1.pdf",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus"
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2022/08/PPCTAL_2022_Final-1.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/colombo/tecnologia-em-alimentos.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "vagas": {
+            "quantidade": 40,
+            "periodicidade": "anual",
+            "trecho_fonte": "1.1.10 Vagas totais (anual): 40 vagas.",
+            "secao": "1.1.10 Vagas totais (anual)",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-11"
+          }
+        }
+      }
     },
     {
       "id": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
@@ -68,10 +148,29 @@
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",
       "url": "https://ifpr.edu.br/colombo/superiores-tecnologia/tads/",
-      "ppc_url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2022/12/PPC-DO-TADS-APROVADO-PELO-CONSEPE-52-2022.pdf",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus"
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2022/12/PPC-DO-TADS-APROVADO-PELO-CONSEPE-52-2022.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/colombo/tecnologia-em-analise-e-desenvolvimento-de-sistemas.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "vagas": {
+            "quantidade": 40,
+            "periodicidade": "anual",
+            "trecho_fonte": "1.1.10 Vagas totais (anual): 40",
+            "secao": "1.1.10 Vagas totais (anual)",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-11"
+          }
+        }
+      }
     },
     {
       "id": "tecnologia-em-processos-gerenciais",
@@ -79,10 +178,30 @@
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",
       "url": "https://ifpr.edu.br/colombo/superiores-tecnologia/tecnologia-em-processos-gerenciais/",
-      "ppc_url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2025/03/PPC_TPG_COLOMBO_FINAL_CONSEPE_REV.pdf",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus"
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2025/03/PPC_TPG_COLOMBO_FINAL_CONSEPE_REV.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/colombo/tecnologia-em-processos-gerenciais.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "vagas": {
+            "quantidade": 40,
+            "periodicidade": "anual",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "trecho_fonte": "1.1.10 Vagas totais (anual): Máximo 40 vagas; Mínimo 20 vagas",
+            "secao": "1.1.10 Vagas totais (anual)",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-11"
+          }
+        }
+      }
     },
     {
       "id": "licenciatura-em-pedagogia",
@@ -90,10 +209,29 @@
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
       "url": "https://ifpr.edu.br/colombo/licenciatura-em-pedagogia/",
-      "ppc_url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2024/10/PPC_PEDAGOGIA_COLOMBO_2024.pdf",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus"
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2024/10/PPC_PEDAGOGIA_COLOMBO_2024.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/colombo/licenciatura-em-pedagogia.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "vagas": {
+            "quantidade": 40,
+            "periodicidade": "anual",
+            "trecho_fonte": "1.1.10 Vagas totais (anual): 40 vagas",
+            "secao": "1.1.10 Vagas totais (anual)",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-11"
+          }
+        }
+      }
     },
     {
       "id": "licenciatura-em-historia",
@@ -101,10 +239,29 @@
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
       "url": "https://ifpr.edu.br/colombo/licenciatura-em-historia/",
-      "ppc_url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2024/10/PPC-HISTORIA-COLOMBO_APROVADO-FINAL.pdf",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus"
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2024/10/PPC-HISTORIA-COLOMBO_APROVADO-FINAL.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/colombo/licenciatura-em-historia.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11",
+          "status": "convertido"
+        },
+        "metadados": {
+          "vagas": {
+            "quantidade": 40,
+            "periodicidade": "anual",
+            "trecho_fonte": "1.1.10 Vagas totais (anual): 40 vagas",
+            "secao": "1.1.10 Vagas totais (anual)",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-11"
+          }
+        }
+      }
     }
   ],
   "curadoria": {

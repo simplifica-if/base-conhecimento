@@ -150,7 +150,7 @@ def validate_manifest_item(item: dict[str, object]) -> list[str]:
 def validate_local_patterns() -> list[str]:
     errors: list[str] = []
     for path in ROOT.rglob("*"):
-        if ".git" in path.parts or not path.is_file():
+        if any(part in {".git", ".venv"} for part in path.parts) or not path.is_file():
             continue
         try:
             text = path.read_text(encoding="utf-8")
@@ -336,6 +336,37 @@ def validate_campus_file(path: Path, index_item: dict[str, object]) -> list[str]
                 seen_course_ids.add(curso_id)
             if "url" in curso:
                 errors.extend(validate_https_url(curso["url"], f"{relative(path)}: cursos[].url"))
+            if "ppc_url" in curso:
+                errors.append(f"{relative(path)}: cursos[].ppc_url foi substituído por cursos[].ppc.url")
+            ppc = curso.get("ppc")
+            if ppc is not None:
+                if not isinstance(ppc, dict):
+                    errors.append(f"{relative(path)}: cursos[].ppc deve ser objeto")
+                    continue
+                errors.extend(validate_https_url(ppc.get("url"), f"{relative(path)}: cursos[].ppc.url"))
+
+                markdown_path = ppc.get("markdown_path")
+                if not isinstance(markdown_path, str):
+                    errors.append(f"{relative(path)}: cursos[].ppc.markdown_path deve ser texto")
+                elif not markdown_path.startswith("institucional/ifpr/ppcs/") or not markdown_path.endswith(".md"):
+                    errors.append(f"{relative(path)}: cursos[].ppc.markdown_path deve apontar para institucional/ifpr/ppcs/*.md")
+                elif isinstance(campus_id, str) and isinstance(curso_id, str):
+                    expected = f"institucional/ifpr/ppcs/{campus_id}/{curso_id}.md"
+                    if markdown_path != expected:
+                        errors.append(f"{relative(path)}: cursos[].ppc.markdown_path esperado para {curso_id}: {expected}")
+
+                conversao = ppc.get("conversao")
+                if not isinstance(conversao, dict):
+                    errors.append(f"{relative(path)}: cursos[].ppc.conversao deve ser objeto")
+                elif conversao.get("status") == "convertido":
+                    if isinstance(markdown_path, str) and not (ROOT / markdown_path).exists():
+                        errors.append(f"{relative(path)}: markdown convertido inexistente: {markdown_path}")
+
+                metadados = ppc.get("metadados")
+                if isinstance(metadados, dict):
+                    vagas = metadados.get("vagas")
+                    if vagas is not None and not isinstance(vagas, dict):
+                        errors.append(f"{relative(path)}: cursos[].ppc.metadados.vagas deve ser objeto contextual")
 
     programas = data.get("programas", [])
     if not isinstance(programas, list):

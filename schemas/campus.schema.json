@@ -122,10 +122,112 @@
             "format": "uri",
             "pattern": "^https://"
           },
-          "ppc_url": {
-            "type": "string",
-            "format": "uri",
-            "pattern": "^https://"
+          "ppc": {
+            "type": "object",
+            "required": [
+              "url",
+              "markdown_path",
+              "conversao"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "url": {
+                "type": "string",
+                "format": "uri",
+                "pattern": "^https://"
+              },
+              "markdown_path": {
+                "type": "string",
+                "pattern": "^institucional/ifpr/ppcs/[a-z0-9]+(?:-[a-z0-9]+)*/[a-z0-9]+(?:-[a-z0-9]+)*\\.md$"
+              },
+              "conversao": {
+                "type": "object",
+                "required": [
+                  "status"
+                ],
+                "additionalProperties": false,
+                "properties": {
+                  "ferramenta": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "versao_ferramenta": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "convertido_em": {
+                    "type": "string",
+                    "format": "date"
+                  },
+                  "mensagem_erro": {
+                    "type": "string",
+                    "minLength": 1
+                  },
+                  "status": {
+                    "enum": [
+                      "pendente",
+                      "convertido",
+                      "erro"
+                    ]
+                  }
+                }
+              },
+              "metadados": {
+                "type": "object",
+                "additionalProperties": false,
+                "properties": {
+                  "vagas": {
+                    "type": "object",
+                    "required": [
+                      "quantidade",
+                      "trecho_fonte",
+                      "status_curadoria"
+                    ],
+                    "additionalProperties": false,
+                    "properties": {
+                      "quantidade": {
+                        "type": "integer",
+                        "minimum": 0
+                      },
+                      "periodicidade": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "turno": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "forma_oferta": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "trecho_fonte": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "pagina": {
+                        "type": "integer",
+                        "minimum": 1
+                      },
+                      "secao": {
+                        "type": "string",
+                        "minLength": 1
+                      },
+                      "status_curadoria": {
+                        "enum": [
+                          "sugerido",
+                          "revisado"
+                        ]
+                      },
+                      "revisado_em": {
+                        "type": "string",
+                        "format": "date"
+                      }
+                    }
+                  }
+                }
+              }
+            }
           }
         }
       }
