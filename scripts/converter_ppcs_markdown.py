@@ -121,6 +121,57 @@ def sanitize_markdown(markdown: str) -> str:
     markdown = markdown.replace("\x00", "")
     local_file_scheme = "file:" + "//"
     markdown = re.sub(r"<?" + re.escape(local_file_scheme) + r"[^)\]\s>]+>?", "", markdown)
+    markdown = post_process_markdown(markdown)
+    return markdown
+
+
+def post_process_markdown(markdown: str) -> str:
+    """Remove artefatos recorrentes do conversor preservando texto OCR útil.
+
+    O PyMuPDF4LLM marca imagens omitidas e pode envolver o texto extraído por OCR
+    em blocos "Start/End of picture text". O texto desses blocos às vezes contém
+    matrizes, quadros e formulários importantes, então removemos só os marcadores.
+    """
+
+    markdown = re.sub(
+        r"^[ \t]*(?:\*\*)?\d{1,4}(?:\*\*)?[ \t]*\n"
+        r"(?:[ \t]*\n)?"
+        r"[ \t]*\*\*==> picture \[[0-9]+ x [0-9]+\] intentionally omitted <==\*\*[ \t]*\n",
+        "",
+        markdown,
+        flags=re.MULTILINE,
+    )
+    markdown = re.sub(
+        r"^[ \t]*\*\*==> picture \[[0-9]+ x [0-9]+\] intentionally omitted <==\*\*[ \t]*\n"
+        r"(?:[ \t]*\n)?"
+        r"[ \t]*(?:\*\*)?\d{1,4}(?:\*\*)?[ \t]*\n",
+        "",
+        markdown,
+        flags=re.MULTILINE,
+    )
+    markdown = re.sub(
+        r"^[ \t]*\*\*==> picture \[[0-9]+ x [0-9]+\] intentionally omitted <==\*\*[ \t]*\n",
+        "",
+        markdown,
+        flags=re.MULTILINE,
+    )
+    markdown = markdown.replace("**----- Start of picture text -----**<br>\n", "")
+    markdown = markdown.replace("**----- End of picture text -----**<br>\n", "")
+    markdown = re.sub(r"^[ \t]*eme<br>[ \t]*\n?", "", markdown, flags=re.MULTILINE)
+    markdown = re.sub(
+        r"^\|\|\*\*INSTITUTO FEDERAL DO PARANÁ\*\*\|[ \t]*Pró-Reitoria de Ensino[ \t]*-\*\*PROENS\*\*\|\|\|[ \t]*\n",
+        "",
+        markdown,
+        flags=re.MULTILINE,
+    )
+    markdown = re.sub(
+        r"[ \t]*\*\*INSTITUTO FEDERAL DO PARANÁ\*\*[ \t]*\|[ \t]*Pró-Reitoria de Ensino[ \t]*-[ \t]*\*\*PROENS\*\*[ \t]*",
+        " ",
+        markdown,
+    )
+    markdown = re.sub(r"^\|{7,}\n", "", markdown, flags=re.MULTILINE)
+    markdown = re.sub(r"[ \t]+$", "", markdown, flags=re.MULTILINE)
+    markdown = re.sub(r"\n{3,}", "\n\n", markdown)
     return markdown
 
 

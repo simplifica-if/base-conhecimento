@@ -3,6 +3,7 @@
 
 from __future__ import annotations
 
+import argparse
 import json
 import re
 import sys
@@ -43,6 +44,24 @@ from base_utils import (
 
 
 LOCAL_PATTERNS = ["/" + "Users/", "Down" + "loads/", "file" + "://"]
+PPC_CONVERSION_ARTIFACTS = [
+    (
+        "placeholder de imagem omitida",
+        re.compile(r"picture \[[0-9]+ x [0-9]+\] intentionally omitted"),
+    ),
+    (
+        "marcador de início/fim de texto de imagem",
+        re.compile(r"Start of picture text|End of picture text"),
+    ),
+    (
+        "OCR residual isolado",
+        re.compile(r"^\s*eme<br>\s*$", re.MULTILINE),
+    ),
+    (
+        "rodapé PROENS de conversão",
+        re.compile(r"INSTITUTO FEDERAL DO PARANÁ.*Pró-Reitoria de Ensino - \*\*PROENS\*\*"),
+    ),
+]
 SLUG_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
 DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 CNCT_COURSE_FIELDS = [
@@ -110,6 +129,16 @@ def validate_markdown(path: Path) -> list[str]:
             errors.append(f"{relative(path)}: alias parece nome antigo de arquivo: {alias}")
 
     errors.extend(validate_links(path, text))
+    return errors
+
+
+def validate_ppc_conversion_artifacts() -> list[str]:
+    errors: list[str] = []
+    for path in sorted((INSTITUCIONAL_ROOT / "ifpr" / "ppcs").glob("*/*.md")):
+        text = path.read_text(encoding="utf-8", errors="ignore")
+        for label, pattern in PPC_CONVERSION_ARTIFACTS:
+            if pattern.search(text):
+                errors.append(f"{relative(path)}: contém artefato de conversão: {label}")
     return errors
 
 
@@ -767,6 +796,14 @@ def validate_catalogos() -> list[str]:
 
 
 def main() -> int:
+    parser = argparse.ArgumentParser(description=__doc__)
+    parser.add_argument(
+        "--check-ppc-artifacts",
+        action="store_true",
+        help="Também acusa artefatos conhecidos de conversão nos PPCs em Markdown.",
+    )
+    args = parser.parse_args()
+
     errors: list[str] = []
     if any(ROOT.rglob(".DS_Store")):
         errors.append("há arquivos .DS_Store no repositório")
@@ -794,6 +831,8 @@ def main() -> int:
     errors.extend(validate_links(README_PATH, readme_text))
     errors.extend(validate_institucional())
     errors.extend(validate_catalogos())
+    if args.check_ppc_artifacts:
+        errors.extend(validate_ppc_conversion_artifacts())
 
     for path in sorted(NORMAS_ROOT.rglob("*.md")):
         errors.extend(validate_markdown(path))
