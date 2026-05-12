@@ -1,80 +1,62 @@
-INSTITUTO FEDERAL DO PARANÁ PRÓ-REITORIA DE ENSINO – PROENS DIRETORIA DE ENSINO MÉDIO E TÉCNICO COORDENAÇÃO DE ENSINO MÉDIO E TÉCNICO INSTITUTOFEDERAL PARANA 
+INSTITUTO FEDERAL DO PARANÁ PRÓ-REITORIA DE ENSINO – PROENS DIRETORIA DE ENSINO MÉDIO E TÉCNICO COORDENAÇÃO DE ENSINO MÉDIO E TÉCNICO INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-**PROJETO PEDAGÓGICO DO CURSO TÉCNICO EM MECÂNICA INTEGRADO AO ENSINO MÉDIO** 
+**PROJETO PEDAGÓGICO DO CURSO TÉCNICO EM MECÂNICA INTEGRADO AO ENSINO MÉDIO**
 
-**CURITIBA 2016** 
+**CURITIBA 2016**
 
-1 
+1
 
-INSTITUTOFEDERAL PARANA 
+INSTITUTOFEDERAL PARANA
 
-**==> picture [97 x 18] intentionally omitted <==**
+MinisteriodaEducacao<br>InstitutoFederaldoParana<br># **MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA INSTITUTO FEDERAL DO PARANÁ CÂMPUS CURITIBA**
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+**PROJETO PEDAGÓGICO DO CURSO TÉCNICO EM MECÂNICA INTEGRADO AO ENSINO MÉDIO**
 
+**Autorizado pela Resolução n° 12/09 do Conselho Superior - IFPR**
 
-# **MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA INSTITUTO FEDERAL DO PARANÁ CÂMPUS CURITIBA** 
+2
 
-**PROJETO PEDAGÓGICO DO CURSO TÉCNICO EM MECÂNICA INTEGRADO AO ENSINO MÉDIO** 
+**CURITIBA 2016**
 
-**Autorizado pela Resolução n° 12/09 do Conselho Superior - IFPR** 
+INSTITUTOFEDERAL<br>PARANA<br>MinisteriodaEducacao<br>InstitutoFederaldoParana<br>## **INSTITUTO FEDERAL DO PARANÁ**
 
-2 
+**Reitor** _**Pró Tempore**_
 
-**CURITIBA 2016** 
+Elio de Almeida Cordeiro
 
-**==> picture [69 x 16] intentionally omitted <==**
+## **Pró-reitor de Ensino**
 
-**----- Start of picture text -----**<br>
-INSTITUTOFEDERAL<br>PARANA<br>**----- End of picture text -----**<br>
+Ezequiel Westphal
 
+## **Diretor de Ensino Médio e Técnico**
 
-**==> picture [97 x 18] intentionally omitted <==**
+André Carvalho Baída
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+## **Coordenadora de Ensino Médio e Técnico**
 
+Marissoni do Rocio Hilgenberg
 
-## **INSTITUTO FEDERAL DO PARANÁ** 
+## **Diretor Geral do Campus** _**Pró Tempore**_
 
-**Reitor** _**Pró Tempore**_ 
+Adriano Willian da Silva
 
-Elio de Almeida Cordeiro 
+## **Diretora de Ensino, Pesquisa e Extensão**
 
-## **Pró-reitor de Ensino** 
+Sheila Cristina Freitas
 
-Ezequiel Westphal 
+## **Coordenação do Curso**
 
-## **Diretor de Ensino Médio e Técnico** 
+Márcio Madi
 
-André Carvalho Baída 
+3
 
-## **Coordenadora de Ensino Médio e Técnico** 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-Marissoni do Rocio Hilgenberg 
+INSTITUTOFEDERAL PARANA
 
-## **Diretor Geral do Campus** _**Pró Tempore**_ 
-
-Adriano Willian da Silva 
-
-## **Diretora de Ensino, Pesquisa e Extensão** 
-
-Sheila Cristina Freitas 
-
-## **Coordenação do Curso** 
-
-Márcio Madi 
-
-3 
-
-MinisteriodaEducacao InstitutoFederaldoParana 
-
-INSTITUTOFEDERAL PARANA 
-
-## **SUMÁRIO** 
+## **SUMÁRIO**
 
 |**1.**|**IDENTIFICAÇÃO DO PROJETO ................................................................................................................. 5**|
 |---|---|
@@ -106,350 +88,278 @@ INSTITUTOFEDERAL PARANA
 |**IFPR- CÂMPUS CURITIBA .................................................................................................................................. 92**|**IFPR- CÂMPUS CURITIBA .................................................................................................................................. 92**|
 |**5.**|**REFERÊNCIAS BIBLIOGRÁFICAS .......................................................................................................... 95**|
 
+4
 
+INSTITUTOFEDERAL PARANA
 
-4 
+MinisteriodaEducacao<br>InstitutoFederaldoParana<br>## **1. IDENTIFICAÇÃO DO PROJETO**
 
-INSTITUTOFEDERAL PARANA 
+## **PROCESSO NÚMERO: 23397.000395/2014-43**
 
-**==> picture [96 x 18] intentionally omitted <==**
+**NOME DO CURSO: Técnico em Mecânica Integrado com Ensino Médio**
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+**EIXO TECNOLÓGICO: Controle e Processos Industriais**
 
+**COORDENAÇÃO:**
 
-## **1. IDENTIFICAÇÃO DO PROJETO** 
+**Coordenador: Márcio Madi**
 
-## **PROCESSO NÚMERO: 23397.000395/2014-43** 
+**E-mail: marcio.madi@ifpr.edu.br Vice-Coordenador: Celso Luiz Buiar E-mail: buiar@ifpr.edu.br**
 
-**NOME DO CURSO: Técnico em Mecânica Integrado com Ensino Médio** 
-
-**EIXO TECNOLÓGICO: Controle e Processos Industriais** 
-
-**COORDENAÇÃO:** 
-
-**Coordenador: Márcio Madi** 
-
-**E-mail: marcio.madi@ifpr.edu.br Vice-Coordenador: Celso Luiz Buiar E-mail: buiar@ifpr.edu.br** 
-
-**LOCAL DO CÂMPUS : Rua João Negrão, 1285, Bairro Rebouças – CEP: 80.230-150 – Curitiba – Paraná – Brasil.** 
+**LOCAL DO CÂMPUS : Rua João Negrão, 1285, Bairro Rebouças – CEP: 80.230-150 – Curitiba – Paraná – Brasil.**
 
 |**TEL: (41) 3595-8804**|**HOME-PAGE:**<br>**curitiba.ifpr.edu.br**|**E-mail:**<br>**direcao.ensino.curitiba@ifpr.edu.br**|
 |---|---|---|
 |**DIREÇÃO GERAL: Dr. Adriano Willian da Silva**|||
 |**DIREÇÃO DE ENSINO: Me. Sheila Cristina Freitas**|||
 
+## **RESOLUÇÃO DE CRIAÇÃO:** Resolução 12/09 do Conselho Superior
 
+**APROVAÇÃO DO PROJETO PEDAGÓGICO DO CURSO ( ) AJUSTE CURRICULAR DO PROJETO PEDAGÓGICO DO CURSO (X)**
 
-## **RESOLUÇÃO DE CRIAÇÃO:** Resolução 12/09 do Conselho Superior 
+**COMISSÃO RESPONSÁVEL PELA ELABORAÇÃO DO PPC OU AJUSTE CURRICULAR:**
 
-**APROVAÇÃO DO PROJETO PEDAGÓGICO DO CURSO ( ) AJUSTE CURRICULAR DO PROJETO PEDAGÓGICO DO CURSO (X)** 
+- Danniella Rosa;
 
-**COMISSÃO RESPONSÁVEL PELA ELABORAÇÃO DO PPC OU AJUSTE CURRICULAR:** 
+- Luiz Maurício Valente Tigrinho;
 
-- Danniella Rosa; 
+- Oswaldo Henrique Gutierrez Branco;
 
-- Luiz Maurício Valente Tigrinho; 
+- Márcio Madi;
 
-- Oswaldo Henrique Gutierrez Branco; 
+- Viviane Writzl;
 
-- Márcio Madi; 
+- Wagner Frederico Chiesorin Uhlmann;
 
-- Viviane Writzl; 
+- Rogério Gomes;
 
-- Wagner Frederico Chiesorin Uhlmann; 
+5
 
-- Rogério Gomes; 
+INSTITUTOFEDERAL PARANA
 
-5 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-INSTITUTOFEDERAL PARANA 
+- Celso Luiz Buiar;
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+- Gislaine Fátima Filla;
 
-- Celso Luiz Buiar; 
+- Crisiane R. V. Oliveira;
 
-- Gislaine Fátima Filla; 
+- Adriano Willian da Silva;
 
-- Crisiane R. V. Oliveira; 
+- André Roberto Cremonezi;
 
-- Adriano Willian da Silva; 
+- Angela Maria dos Santos;
 
-- André Roberto Cremonezi; 
+- Anjor Mujica de Paula;
 
-- Angela Maria dos Santos; 
+- Deise Leandra Fontana;
 
-- Anjor Mujica de Paula; 
+- Edson Luiz Linczuk;
 
-- Deise Leandra Fontana; 
+- Ederson Prestes Santos Lima;
 
-- Edson Luiz Linczuk; 
+- Edilson Aparecido Chaves;
 
-- Ederson Prestes Santos Lima; 
+- Fábio Ricardo Gioppo;
 
-- Edilson Aparecido Chaves; 
+- Flávia Duarte Ferraz Sampaio;
 
-- Fábio Ricardo Gioppo; 
+- Ísis Moura Tavares;
 
-- Flávia Duarte Ferraz Sampaio; 
+- Leandro Rafael Pinto;
 
-- Ísis Moura Tavares; 
+- Luiz Carlos Giacomossi;
 
-- Leandro Rafael Pinto; 
+- Magnus Eduardo Goulart;
 
-- Luiz Carlos Giacomossi; 
+- Marcos Otaviano da Silva;
 
-- Magnus Eduardo Goulart; 
+- Maristella Gabardo;
 
-- Marcos Otaviano da Silva; 
+- Sileide France Turan Salvador;
 
-- Maristella Gabardo; 
+- Thiago André Guimarães;
 
-- Sileide France Turan Salvador; 
+- Thiago Augusto Divardim de Oliveira;
 
-- Thiago André Guimarães; 
+- Vagner dos Santos;
 
-- Thiago Augusto Divardim de Oliveira; 
+- Valter Roberto Schaffrath;
 
-- Vagner dos Santos; 
+- Vanderci Benjamin Ruschel;
 
-- Valter Roberto Schaffrath; 
+- Wellington Cesar Gallice.
 
-- Vanderci Benjamin Ruschel; 
+6
 
-- Wellington Cesar Gallice. 
+INSTITUTOFEDERAL PARANA
 
-6 
+MinisteriodaEducacao<br>InstitutoFederaldoParana<br>## **2. CARACTERÍSTICAS DO CURSO**
 
-INSTITUTOFEDERAL PARANA 
+**Nível:** Educação Profissional de Nível Técnica integrada ao Ensino Médio
 
-**==> picture [97 x 18] intentionally omitted <==**
+**Forma de Oferta:** Integrado
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+**Modalidade:** Presencial
 
+**Tempo de duração do curso:** 3 anos.
 
-## **2. CARACTERÍSTICAS DO CURSO** 
+**Turno de oferta:** Tarde com possibilidade de aulas no período da manhã
 
-**Nível:** Educação Profissional de Nível Técnica integrada ao Ensino Médio 
+**Horário de oferta do curso:** 7:15 às 12:30h  e 13:15 às 18:30h
 
-**Forma de Oferta:** Integrado 
+**Carga horária Total:** 3682 horas
 
-**Modalidade:** Presencial 
+**Número máximo de vagas do curso: 35**
 
-**Tempo de duração do curso:** 3 anos. 
+## **Número mínimo de vagas do curso: 20**
 
-**Turno de oferta:** Tarde com possibilidade de aulas no período da manhã 
+**Ano de criação do curso:** 2009
 
-**Horário de oferta do curso:** 7:15 às 12:30h  e 13:15 às 18:30h 
+**Requisitos de acesso ao Curso:** Ensino Fundamental Completo e aprovação no processo seletivo
 
-**Carga horária Total:** 3682 horas 
+regulamentado pela Pró-Reitoria de Ensino em parceria com o Câmpus.
 
-**Número máximo de vagas do curso: 35** 
+**Regime Escolar:** anual
 
-## **Número mínimo de vagas do curso: 20** 
+INSTITUTOFEDERAL<br>PARANA<br>MinisteriodaEducacao<br>InstitutoFederaldoParana<br>## **3. ESTRUTURA E FUNCIONAMENTO**
 
-**Ano de criação do curso:** 2009 
+O plano de curso apresentado na sequência versa sobre a estrutura e organização curricular do Curso Técnico de Nível Médio Integrado em Mecânica. O presente projeto respeita a legislação federal que rege este nível de ensino, em específico na LDB nº 9394/96 e o conjunto de leis, decretos, pareceres e referenciais curriculares que normatizam a Educação Profissional Técnica de Nível Médio no sistema educacional brasileiro. São preceitos desta proposta a compreensão da educação como uma prática social e cooperativa, visando à formação do profissional-cidadão crítico-reflexivo, competente técnica e eticamente e comprometido com as transformações sociais, políticas e culturais do mundo, capaz de atuar no mundo do trabalho, na perspectiva da edificação de uma sociedade mais justa e igualitária.
 
-**Requisitos de acesso ao Curso:** Ensino Fundamental Completo e aprovação no processo seletivo 
+## **3.1 JUSTIFICATIVA**
 
-regulamentado pela Pró-Reitoria de Ensino em parceria com o Câmpus. 
+Com a retomada do crescimento econômico a partir da década passada e com a expansão do setor industrial, tornou-se necessária, tendo em vista o grande número de evasão escolar nas instituições de ensino médio regular, uma melhor qualificação dos profissionais que atuam neste setor da economia. Afinal, a modernização das indústrias brasileiras, o surgimento de multinacionais brasileiras e a substituição de recursos humanos por procedimentos mecânicos, eletromecânicos ou informatizados, bem como a terceirização de certos serviços até então realizados dentro da própria indústria, trouxeram uma nova dinâmica para o setor secundário no nosso país.
 
-**Regime Escolar:** anual 
+A formação técnica integrada possibilita a formação profissional acompanhada do desenvolvimento do discente no ensino médio. Isto modifica o quadro de evasão nesta fase educacional, pois o discente não precisará abandonar seus estudos e sim ter uma formação para o mundo do trabalho, na qual o indivíduo é entendido em sua totalidade, visando-se à construção do pensamento crítico reflexivo, do cidadão comprometido com o desenvolvimento humano e sustentável de toda a comunidade.
 
-7 
+Segundo o Instituto Paranaense de Desenvolvimento Econômico e Social (Ipardes), em Curitiba e na Região Metropolitana o indicador de Valor de Transformação Industrial do Paraná mostra que na estrutura industrial do Estado, predominam os segmentos de veículos automotores, alimentos e refino de petróleo, responsáveis por aproximadamente 58% do valor da transformação da indústria estadual. Sendo que veículos automotores detêm 20,9% deste valor e o setor de Máquinas e Equipamentos 4,2%.
 
-**==> picture [69 x 16] intentionally omitted <==**
+8
 
-**----- Start of picture text -----**<br>
-INSTITUTOFEDERAL<br>PARANA<br>**----- End of picture text -----**<br>
+MinisteriodaEducacao INSTITUTOFEDERAL InstitutoFederaldoParana PARANA
 
+Tais transformações provocaram mudanças nos perfis profissionais requisitados pelo setor industrial, a fim de inserir as empresas no mundo globalizado, que exige novos padrões de produção, serviço e qualidade.
 
-**==> picture [97 x 18] intentionally omitted <==**
+Diante deste quadro, a instalação e manutenção de equipamentos mecânicos, a administração e a gestão da produção, dentre outros, constituem áreas de suma importância para todo o setor industrial, que possui uma demanda por profissionais que dominam tais conhecimentos.
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+Assim, a colocação do Técnico em Mecânica no mundo do trabalho colaborará com o fortalecimento da economia brasileira e culminará com a inserção dos jovens no mercado formal de trabalho, seja através de contratações por meio das indústrias do setor metal-mecânico, pela prestação de serviços ou pelo empreendedorismo.
 
+É com base nesta premissa, que o Câmpus Curitiba do IFPR oferta o Curso Técnico em Mecânica, visando a formação de técnicos para o setor industrial e para as empresas prestadoras de serviços, que são carentes de profissionais qualificados para a execução de serviços técnicos e à realização da fabricação e manutenção de equipamentos mecânicos industriais.
 
-## **3. ESTRUTURA E FUNCIONAMENTO** 
+INSTITUTOFEDERAL<br>PARANA<br>MinisteriodaEducacao<br>InstitutoFederaldoParana<br>## **3.2  OBJETIVOS**
 
-O plano de curso apresentado na sequência versa sobre a estrutura e organização curricular do Curso Técnico de Nível Médio Integrado em Mecânica. O presente projeto respeita a legislação federal que rege este nível de ensino, em específico na LDB nº 9394/96 e o conjunto de leis, decretos, pareceres e referenciais curriculares que normatizam a Educação Profissional Técnica de Nível Médio no sistema educacional brasileiro. São preceitos desta proposta a compreensão da educação como uma prática social e cooperativa, visando à formação do profissional-cidadão crítico-reflexivo, competente técnica e eticamente e comprometido com as transformações sociais, políticas e culturais do mundo, capaz de atuar no mundo do trabalho, na perspectiva da edificação de uma sociedade mais justa e igualitária. 
+## **3.2.1** Objetivo geral
 
-## **3.1 JUSTIFICATIVA** 
+Do ponto de vista da formação geral é o aprimoramento do educando como pessoa humana, incluindo a formação ética e o desenvolvimento da autonomia intelectual e do pensamento crítico, segundo a LDB 9394/96 em seu Art 35.º.
 
-Com a retomada do crescimento econômico a partir da década passada e com a expansão do setor industrial, tornou-se necessária, tendo em vista o grande número de evasão escolar nas instituições de ensino médio regular, uma melhor qualificação dos profissionais que atuam neste setor da economia. Afinal, a modernização das indústrias brasileiras, o surgimento de multinacionais brasileiras e a substituição de recursos humanos por procedimentos mecânicos, eletromecânicos ou informatizados, bem como a terceirização de certos serviços até então realizados dentro da própria indústria, trouxeram uma nova dinâmica para o setor secundário no nosso país. 
+## 3.2.2 Objetivos específicos
 
-A formação técnica integrada possibilita a formação profissional acompanhada do desenvolvimento do discente no ensino médio. Isto modifica o quadro de evasão nesta fase educacional, pois o discente não precisará abandonar seus estudos e sim ter uma formação para o mundo do trabalho, na qual o indivíduo é entendido em sua totalidade, visando-se à construção do pensamento crítico reflexivo, do cidadão comprometido com o desenvolvimento humano e sustentável de toda a comunidade. 
+São objetivos específicos do curso formar profissionais capazes de:
 
-Segundo o Instituto Paranaense de Desenvolvimento Econômico e Social (Ipardes), em Curitiba e na Região Metropolitana o indicador de Valor de Transformação Industrial do Paraná mostra que na estrutura industrial do Estado, predominam os segmentos de veículos automotores, alimentos e refino de petróleo, responsáveis por aproximadamente 58% do valor da transformação da indústria estadual. Sendo que veículos automotores detêm 20,9% deste valor e o setor de Máquinas e Equipamentos 4,2%. 
+- Conhecer as formas contemporâneas de linguagem, com vistas ao exercício da cidadania e à
 
-8 
+- preparação básica para o trabalho, a formação ética e o desenvolvimento da autonomia intelectual e do pensamento crítico;
 
-MinisteriodaEducacao INSTITUTOFEDERAL InstitutoFederaldoParana PARANA 
+- Compreender a sociedade, sua gênese e transformação e os múltiplos fatores que nela intervêm
 
-Tais transformações provocaram mudanças nos perfis profissionais requisitados pelo setor industrial, a fim de inserir as empresas no mundo globalizado, que exige novos padrões de produção, serviço e qualidade. 
+- como produtos da ação humana e do seu papel como agente social;
 
-Diante deste quadro, a instalação e manutenção de equipamentos mecânicos, a administração e a gestão da produção, dentre outros, constituem áreas de suma importância para todo o setor industrial, que possui uma demanda por profissionais que dominam tais conhecimentos. 
+- Ler, articular e interpretar símbolos e códigos em diferentes linguagens e representações,
 
-Assim, a colocação do Técnico em Mecânica no mundo do trabalho colaborará com o fortalecimento da economia brasileira e culminará com a inserção dos jovens no mercado formal de trabalho, seja através de contratações por meio das indústrias do setor metal-mecânico, pela prestação de serviços ou pelo empreendedorismo. 
+- estabelecendo estratégias de solução e articulando os conhecimentos das várias ciências e outros campos do saber;
 
-É com base nesta premissa, que o Câmpus Curitiba do IFPR oferta o Curso Técnico em Mecânica, visando a formação de técnicos para o setor industrial e para as empresas prestadoras de serviços, que são carentes de profissionais qualificados para a execução de serviços técnicos e à realização da fabricação e manutenção de equipamentos mecânicos industriais. 
+- Dominar os princípios básicos que norteiam a mecânica, articulando esses conhecimentos com
 
-9 
+- as normas técnicas afins, segurança do trabalho, saúde e meio ambiente;
 
-**==> picture [69 x 16] intentionally omitted <==**
+- Planejar, executar e gerenciar a manutenção de equipamentos mecânicos;
 
-**----- Start of picture text -----**<br>
-INSTITUTOFEDERAL<br>PARANA<br>**----- End of picture text -----**<br>
+- Auxiliar na elaboração de projetos e execução de desenhos de equipamentos mecânicos e seus
 
+- componentes;
 
-**==> picture [97 x 18] intentionally omitted <==**
+- Colaborar na execução das atividades de cálculos técnicos, orçamentos e especificações de
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+- materiais em projetos mecânicos;
 
+- Coordenar e supervisionar instalações, realizando manutenção preventiva e corretiva de
 
-## **3.2  OBJETIVOS** 
+- serviços mecânicos;
 
-## **3.2.1** Objetivo geral 
+- Executar trabalhos de controle de qualidade, ensaio de materiais, de pesquisa aplicada bem como a execução de processos de fabricação.
 
-Do ponto de vista da formação geral é o aprimoramento do educando como pessoa humana, incluindo a formação ética e o desenvolvimento da autonomia intelectual e do pensamento crítico, segundo a LDB 9394/96 em seu Art 35.º. 
+INSTITUTOFEDERAL<br>PARANA<br>MinisteriodaEducacao<br>InstitutoFederaldoParana<br>## **3.3  REQUISITOS DE ACESSO**
 
-## 3.2.2 Objetivos específicos 
+O acesso ao curso técnico de nível médio integrado em Mecânica será realizado através de processo seletivo regulamentado pela Pró-Reitoria de Ensino da Instituição em parceria com o câmpus, exigindo o ensino fundamental completo.
 
-São objetivos específicos do curso formar profissionais capazes de: 
+## **3.4  PERFIL PROFISSIONAL DE CONCLUSÃO**
 
-- Conhecer as formas contemporâneas de linguagem, com vistas ao exercício da cidadania e à 
+O técnico em mecânica por se tratar de um profissional que fabrica, instala, opera e supervisiona equipamentos mecânicos encontra um mercado de trabalho bastante amplo no nosso país.  Os profissionais egressos do curso deverão estar habilitados a:
 
-- preparação básica para o trabalho, a formação ética e o desenvolvimento da autonomia intelectual e do pensamento crítico; 
+- Compreender e aplicar os conhecimentos científico-tecnológicos, para explicar o funcionamento
 
-- Compreender a sociedade, sua gênese e transformação e os múltiplos fatores que nela intervêm 
+- dos processos produtivos, planejando, executando e avaliando ações de intervenção na realidade;
 
-- como produtos da ação humana e do seu papel como agente social; 
+- Utilizar adequadamente a linguagem oral e escrita como instrumento de comunicação e interação social necessária ao desempenho profissional;
 
-- Ler, articular e interpretar símbolos e códigos em diferentes linguagens e representações, 
+- Exercer liderança, sabendo trabalhar e coordenar equipes de trabalho que atuam na instalação, montagem, operação e manutenção de máquinas e equipamentos, possibilitando que o profissional possa posicionar-se criticamente;
 
-- estabelecendo estratégias de solução e articulando os conhecimentos das várias ciências e outros campos do saber; 
+- Aplicar técnicas de medição e ensaios, auxiliando na avaliação das características e
 
-- Dominar os princípios básicos que norteiam a mecânica, articulando esses conhecimentos com 
+- propriedades dos materiais, insumos e elementos de máquina, visando à melhoria da qualidade de produtos e serviços da planta industrial mecânica;
 
-- as normas técnicas afins, segurança do trabalho, saúde e meio ambiente; 
+- Realizar o controle de qualidade dos bens e serviços produzidos utilizando critérios de
 
-- Planejar, executar e gerenciar a manutenção de equipamentos mecânicos; 
+- padronização e mensuração;
 
-- Auxiliar na elaboração de projetos e execução de desenhos de equipamentos mecânicos e seus 
+- Executar a instalação de máquinas e equipamentos, especificando materiais, acessórios,
 
-- componentes; 
+- dispositivos e instrumentos, que possibilitem a otimização de sistemas convencionais, propondo a incorporação de novas tecnologias;
 
-- Colaborar na execução das atividades de cálculos técnicos, orçamentos e especificações de 
+- Elaborar orçamentos de instalações mecânicas e de manutenção de máquinas e equipamentos,
 
-- materiais em projetos mecânicos; 
+- considerando a relação custo/benefício;
 
-- Coordenar e supervisionar instalações, realizando manutenção preventiva e corretiva de 
+- Aplicar normas técnicas e especificações em projetos, processos de fabricação, na instalação de
 
-- serviços mecânicos; 
+- máquinas e equipamentos e na manutenção industrial mecânica, auxiliado por catálogos, manuais e tabelas;
 
-- Executar trabalhos de controle de qualidade, ensaio de materiais, de pesquisa aplicada bem como a execução de processos de fabricação. 
+11
 
-10 
+MinisteriodaEducacao INSTITUTOFEDERAL InstitutoFederaldoParana PARANA
 
-**==> picture [69 x 16] intentionally omitted <==**
+- Ler, articular e interpretar símbolos e códigos em diferentes linguagens e representações,
 
-**----- Start of picture text -----**<br>
-INSTITUTOFEDERAL<br>PARANA<br>**----- End of picture text -----**<br>
+- estabelecendo estratégias de solução e articulando os conhecimentos das várias ciências e outros campos do saber;
 
+- Compreender os fundamentos científico-tecnológicos dos processos produtivos, relacionando a
 
-**==> picture [97 x 18] intentionally omitted <==**
+- teoria com a prática nas diversas áreas do saber.
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+## **3.5 ORGANIZAÇÃO CURRICULAR**
 
+## **3.5.1. Práticas pedagógicas previstas**
 
-## **3.3  REQUISITOS DE ACESSO** 
+A organização do curso Técnico de Nível Médio Integrado em Mecânica tem como princípio educativo a relação teoria-prática, dessa forma o processo pedagógico estará centrado em seminários, visitas técnicas, pesquisas, práticas laboratoriais, estudos de caso e desenvolvimento de projetos, entre outros.
 
-O acesso ao curso técnico de nível médio integrado em Mecânica será realizado através de processo seletivo regulamentado pela Pró-Reitoria de Ensino da Instituição em parceria com o câmpus, exigindo o ensino fundamental completo. 
+## **3.5.2. Prática profissional**
 
-## **3.4  PERFIL PROFISSIONAL DE CONCLUSÃO** 
+A prática profissional permeará todo o curso, como uma forma de propiciar uma convivência mais consistente com a área. Desta forma, o aluno poderá realizar estágio, de forma optativa.
 
-O técnico em mecânica por se tratar de um profissional que fabrica, instala, opera e supervisiona equipamentos mecânicos encontra um mercado de trabalho bastante amplo no nosso país.  Os profissionais egressos do curso deverão estar habilitados a: 
+## **3.5.3. Matriz curricular**
 
-- Compreender e aplicar os conhecimentos científico-tecnológicos, para explicar o funcionamento 
+A organização curricular do Curso Técnico de Nível Médio Integrado em Mecânica está amparada nas determinações legais presentes nas Diretrizes Curriculares Nacionais para a Educação Profissional de Nível Técnico, nos Referenciais Curriculares Nacionais da Educação Profissional e no Decreto 5.154/2004.
 
-- dos processos produtivos, planejando, executando e avaliando ações de intervenção na realidade; 
+A organização do curso está estruturada em regime seriado anual com uma matriz curricular definida por componentes curriculares, dividida em três anos letivos no período diurno. Desde o primeiro ano do curso o aluno terá componentes curriculares da formação geral em nível médio e componentes curriculares específicas da formação profissional em Mecânica. Por se tratar de um curso integrado, as componentes curriculares do Núcleo Comum estarão voltadas para uma
 
-- Utilizar adequadamente a linguagem oral e escrita como instrumento de comunicação e interação social necessária ao desempenho profissional; 
+INSTITUTOFEDERAL<br>PARANA<br>MinisteriodaEducacao<br>InstitutoFederaldoParana<br>compreensão crítica do mundo do trabalho que subsidiam uma formação técnica/cidadã do aluno. A carga horária do curso está totalizando 4360 horas-aulas para os componentes curriculares.
 
-- Exercer liderança, sabendo trabalhar e coordenar equipes de trabalho que atuam na instalação, montagem, operação e manutenção de máquinas e equipamentos, possibilitando que o profissional possa posicionar-se criticamente; 
+Os conteúdos transversais referentes a Educação Ambiental (Lei nº 9.795/99, que dispõe sobre a Política Nacional de Educação Ambiental e Resolução CNE/CEB 02/2012), Educação para o Trânsito (Lei nº 9.503/97, que institui o Código de Trânsito Brasileiro), Educação em Direitos Humanos (Decreto nº 7.037/2009, que institui o Programa Nacional de Direitos Humanos – PNDH 3), Educação Alimentar e Nutrição Escolar (Lei nº 11.947/2009, que dispõe sobre o atendimento da alimentação escolar), História e Cultura Afro-Brasileira e Africana (Lei 10.639/2003 que estabelece o ensino de história e cultura afro-brasileira e africana), Educação Financeira serão tratados por meio interdisciplinar em todo currículo escolar.
 
-- Aplicar técnicas de medição e ensaios, auxiliando na avaliação das características e 
+## **TÉCNICO EM MECÂNICA - INTEGRADO**
 
-- propriedades dos materiais, insumos e elementos de máquina, visando à melhoria da qualidade de produtos e serviços da planta industrial mecânica; 
-
-- Realizar o controle de qualidade dos bens e serviços produzidos utilizando critérios de 
-
-- padronização e mensuração; 
-
-- Executar a instalação de máquinas e equipamentos, especificando materiais, acessórios, 
-
-- dispositivos e instrumentos, que possibilitem a otimização de sistemas convencionais, propondo a incorporação de novas tecnologias; 
-
-- Elaborar orçamentos de instalações mecânicas e de manutenção de máquinas e equipamentos, 
-
-- considerando a relação custo/benefício; 
-
-- Aplicar normas técnicas e especificações em projetos, processos de fabricação, na instalação de 
-
-- máquinas e equipamentos e na manutenção industrial mecânica, auxiliado por catálogos, manuais e tabelas; 
-
-11 
-
-MinisteriodaEducacao INSTITUTOFEDERAL InstitutoFederaldoParana PARANA 
-
-- Ler, articular e interpretar símbolos e códigos em diferentes linguagens e representações, 
-
-- estabelecendo estratégias de solução e articulando os conhecimentos das várias ciências e outros campos do saber; 
-
-- Compreender os fundamentos científico-tecnológicos dos processos produtivos, relacionando a 
-
-- teoria com a prática nas diversas áreas do saber. 
-
-## **3.5 ORGANIZAÇÃO CURRICULAR** 
-
-## **3.5.1. Práticas pedagógicas previstas** 
-
-A organização do curso Técnico de Nível Médio Integrado em Mecânica tem como princípio educativo a relação teoria-prática, dessa forma o processo pedagógico estará centrado em seminários, visitas técnicas, pesquisas, práticas laboratoriais, estudos de caso e desenvolvimento de projetos, entre outros. 
-
-## **3.5.2. Prática profissional** 
-
-A prática profissional permeará todo o curso, como uma forma de propiciar uma convivência mais consistente com a área. Desta forma, o aluno poderá realizar estágio, de forma optativa. 
-
-## **3.5.3. Matriz curricular** 
-
-A organização curricular do Curso Técnico de Nível Médio Integrado em Mecânica está amparada nas determinações legais presentes nas Diretrizes Curriculares Nacionais para a Educação Profissional de Nível Técnico, nos Referenciais Curriculares Nacionais da Educação Profissional e no Decreto 5.154/2004. 
-
-A organização do curso está estruturada em regime seriado anual com uma matriz curricular definida por componentes curriculares, dividida em três anos letivos no período diurno. Desde o primeiro ano do curso o aluno terá componentes curriculares da formação geral em nível médio e componentes curriculares específicas da formação profissional em Mecânica. Por se tratar de um curso integrado, as componentes curriculares do Núcleo Comum estarão voltadas para uma 
-
-12 
-
-**==> picture [70 x 17] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-INSTITUTOFEDERAL<br>PARANA<br>**----- End of picture text -----**<br>
-
-
-**==> picture [97 x 18] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
-
-
-compreensão crítica do mundo do trabalho que subsidiam uma formação técnica/cidadã do aluno. A carga horária do curso está totalizando 4360 horas-aulas para os componentes curriculares. 
-
-Os conteúdos transversais referentes a Educação Ambiental (Lei nº 9.795/99, que dispõe sobre a Política Nacional de Educação Ambiental e Resolução CNE/CEB 02/2012), Educação para o Trânsito (Lei nº 9.503/97, que institui o Código de Trânsito Brasileiro), Educação em Direitos Humanos (Decreto nº 7.037/2009, que institui o Programa Nacional de Direitos Humanos – PNDH 3), Educação Alimentar e Nutrição Escolar (Lei nº 11.947/2009, que dispõe sobre o atendimento da alimentação escolar), História e Cultura Afro-Brasileira e Africana (Lei 10.639/2003 que estabelece o ensino de história e cultura afro-brasileira e africana), Educação Financeira serão tratados por meio interdisciplinar em todo currículo escolar. 
-
-## **TÉCNICO EM MECÂNICA - INTEGRADO** 
-
-## **MATRIZ CURRICULAR** 
+## **MATRIZ CURRICULAR**
 
 |**COMPONENTES**<br>**CURRICULARES**|**CARGA HORÁRIA**|**CARGA HORÁRIA**|**CARGA HORÁRIA**|
 |---|---|---|---|
@@ -476,11 +386,9 @@ Os conteúdos transversais referentes a Educação Ambiental (Lei nº 9.795/99, 
 |**TOTAL**|**35**|**1400**|**1180**|
 |**2º ANO**||||
 
+13
 
-
-13 
-
-Ministerioda Educacao InstitutoFederaldoParana 
+Ministerioda Educacao InstitutoFederaldoParana
 
 |LínguaPortuguesaII|2|80|68|
 |---|---|---|---|
@@ -525,183 +433,143 @@ Ministerioda Educacao InstitutoFederaldoParana
 |**TOTAL**|**35**|**1400**|**1184**|
 |**TOTAL GERAL**|**109**|**4360**|**3682**|
 
+* Uma hora-aula corresponde a 50 minutos; 01* carga horária semanal; 02* carga horária anual
 
+14
 
-* Uma hora-aula corresponde a 50 minutos; 01* carga horária semanal; 02* carga horária anual 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-14 
+INSTITUTOFEDERAL<br>PARANA<br>## **3.6 CRITÉRIOS DE AVALIAÇÃO DE APRENDIZAGEM**
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+A avaliação da aprendizagem nos componentes curriculares do curso técnico em Mecânica será realizada de forma contínua, cumulativa e sistemática, em consonância com a Portaria 120/09 do IFPR. Dessa forma, a avaliação assume as funções diagnóstica, formativa e integradora, tendo como princípio fundamental o desenvolvimento da consciência crítica e constituindo instrumento colaborador na verificação da aprendizagem, com o predomínio dos aspectos qualitativos sobre os quantitativos.
 
-**==> picture [69 x 16] intentionally omitted <==**
+Diante dessa perspectiva, a avaliação deverá contemplar os seguintes critérios:
 
-**----- Start of picture text -----**<br>
-INSTITUTOFEDERAL<br>PARANA<br>**----- End of picture text -----**<br>
+- Diagnóstico e registro o progresso do aluno e suas dificuldades;
 
+- Realização da auto-avaliação pelo aluno e professor;
 
-## **3.6 CRITÉRIOS DE AVALIAÇÃO DE APRENDIZAGEM** 
+- Orientação ao aluno quanto aos esforços necessários para superar suas dificuldades;
 
-A avaliação da aprendizagem nos componentes curriculares do curso técnico em Mecânica será realizada de forma contínua, cumulativa e sistemática, em consonância com a Portaria 120/09 do IFPR. Dessa forma, a avaliação assume as funções diagnóstica, formativa e integradora, tendo como princípio fundamental o desenvolvimento da consciência crítica e constituindo instrumento colaborador na verificação da aprendizagem, com o predomínio dos aspectos qualitativos sobre os quantitativos. 
+- Utilização de seus resultados para planejar e replanejar os conteúdos curriculares;
 
-Diante dessa perspectiva, a avaliação deverá contemplar os seguintes critérios: 
+- Inclusão de tarefas contextualizadas;
 
-- Diagnóstico e registro o progresso do aluno e suas dificuldades; 
+- Utilização funcional do conhecimento;
 
-- Realização da auto-avaliação pelo aluno e professor; 
+- Divulgação das exigências da tarefa antes da sua avaliação;
 
-- Orientação ao aluno quanto aos esforços necessários para superar suas dificuldades; 
+- Exigência dos mesmos procedimentos de avaliação para todos os alunos;
 
-- Utilização de seus resultados para planejar e replanejar os conteúdos curriculares; 
+- Divulgação dos resultados do processo avaliativo;
 
-- Inclusão de tarefas contextualizadas; 
+- Apoio disponível para aqueles que têm dificuldades;
 
-- Utilização funcional do conhecimento; 
+- Discussão e correção dos erros mais importantes sob a ótica da construção de conhecimentos,
 
-- Divulgação das exigências da tarefa antes da sua avaliação; 
+- atitudes e habilidades.
 
-- Exigência dos mesmos procedimentos de avaliação para todos os alunos; 
+Quanto aos conteúdos e periodicidade, a avaliação do desempenho escolar é feita por componente curricular e por bimestres, considerando-se os aspectos de assiduidade e aproveitamento, ambos eliminatórios. A assiduidade diz respeito à freqüência às aulas teóricas, aos trabalhos escolares, aos exercícios de aplicação e atividades práticas, que não deve ser inferior a 75% das aulas dadas, segundo Resolução nº 45/2011 IFPR.
 
-- Divulgação dos resultados do processo avaliativo; 
+Configura-se também, como critério da avaliação da aprendizagem, o texto disposto nos Art. 9º (incisos I, II, III e IV), Art. 10º e Art. 11º da Portaria Nº 120/2009 do Instituto Federal do Paraná e os resultados parciais obtidos no processo de avaliação serão emitidos por componente curricular e divulgados em edital, devendo ser expressos por conceitos, sendo:
 
-- Apoio disponível para aqueles que têm dificuldades; 
+A – Aprendizagem Plena
 
-- Discussão e correção dos erros mais importantes sob a ótica da construção de conhecimentos, 
+- B – Aprendizagem Parcialmente Plena
 
-- atitudes e habilidades. 
+- C – Aprendizagem Suficiente
 
-Quanto aos conteúdos e periodicidade, a avaliação do desempenho escolar é feita por componente curricular e por bimestres, considerando-se os aspectos de assiduidade e aproveitamento, ambos eliminatórios. A assiduidade diz respeito à freqüência às aulas teóricas, aos trabalhos escolares, aos exercícios de aplicação e atividades práticas, que não deve ser inferior a 75% das aulas dadas, segundo Resolução nº 45/2011 IFPR. 
+INSTITUTOFEDERAL<br>PARANA<br>MinisteriodaEducacao<br>InstitutoFederaldoParana<br>D - Aprendizagem Insuficiente<br>Em suma, o conceito mínimo para aprovação na componente curricular é C e a frequência mínima é de 75% sobre o total das aulas dadas.
 
-Configura-se também, como critério da avaliação da aprendizagem, o texto disposto nos Art. 9º (incisos I, II, III e IV), Art. 10º e Art. 11º da Portaria Nº 120/2009 do Instituto Federal do Paraná e os resultados parciais obtidos no processo de avaliação serão emitidos por componente curricular e divulgados em edital, devendo ser expressos por conceitos, sendo: 
+A recuperação paralela se dará de acordo com a Portaria 120/2009 em seus Art.16º, Art.17º e Art.18º que estabelecem as seguintes prerrogativas:
 
-A – Aprendizagem Plena 
+No decorrer do período letivo serão oferecidos estudos de recuperação paralela ou retomada dos conteúdos a todos os estudando, principalmente aos que encontrarem dificuldade de aprendizagem.
 
-- B – Aprendizagem Parcialmente Plena 
+O planejamento do processo de recuperação paralela é de responsabilidade do professor da unidade/área curricular, o qual envolve a identificação das dificuldades apresentadas pelos alunos e permite a seleção dos objetivos e atividades que deverão ser realizadas para promoção da aprendizagem.
 
-- C – Aprendizagem Suficiente 
+No processo de recuperação paralela os professores oportunizarão atividades diversificadas, tais como roteiro de estudos, apoio ao ensino, participação nos projetos de reforço, entre outras atividades. É responsabilidade do aluno procurar o professor em seu horário de apoio ao ensino, para o desenvolvimento das atividades porém, o professor terá autonomia para convocar o aluno em outros momentos caso julgue necessário.
 
-15 
+## **3.7 CRITÉRIOS DE APROVEITAMENTO E PROCEDIMENTOS DE AVALIAÇÃO DE COMPETÊNCIAS ANTERIORMENTE DESENVOLVIDAS**
 
-**==> picture [69 x 16] intentionally omitted <==**
+O aproveitamento de estudos está fundamentado no Art. 63 da Resolução Nº 54/11 que afirma: _Art. 63 - Nos Cursos de Ensino Médio Integrado e PROEJA, não há possibilidade de aproveitamento de estudos._
 
-**----- Start of picture text -----**<br>
-INSTITUTOFEDERAL<br>PARANA<br>**----- End of picture text -----**<br>
+**Certificação de Conhecimentos:** o estudante poderá solicitar certificação de conhecimentos adquiridos através de experiências previamente vivenciadas, inclusive fora do ambiente escolar com o fim de alcançar a dispensa de algum(s) componente(s) curricular(es) integrantes da matriz curricular do curso. O respectivo processo de certificação consistirá em uma avaliação teórica ou teórico-prática, conforme as características do componente curricular.
 
+16
 
-**==> picture [97 x 18] intentionally omitted <==**
+INSTITUTOFEDERAL PARANA
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**Educação Inclusiva:** O projeto político de curso, aqui, muito além de ser o ponto de referência da prática educacional do IFPR – Câmpus Curitiba deve, segundo Veiga (1998, p.13) “[...] ser construído e vivenciado em todos os momentos, por todos os envolvidos com o processo educativo da escola.” Desta forma, aspectos pontuais da aprendizagem inclusiva, que é uma questão individual de cada estudante na sua diversidade, deve ser amplamente discutido com o grupo de professores, coordenadores e técnicos administrativos envolvidos com o processo de aprendizagem, de forma que o estudante com necessidade específica seja verdadeiramente atendido permaneça na escola, aprendendo e sendo respeitado em suas potencialidades.
 
+A educação inclusiva requer uma redefinição conceitual e organizacional das políticas educacionais. Nesta perspectiva, o financiamento dos serviços de apoio aos alunos público alvo da educação especial devem integrar os custos gerais com o desenvolvimento do ensino, pesquisa e extensão, sendo disponibilizados em qualquer nível, etapa ou modalidade de ensino, no âmbito da educação pública ou privada.
 
-**==> picture [151 x 11] intentionally omitted <==**
+A Política Nacional de Educação Especial na Perspectiva da Educação Inclusiva (2008) tem como objetivo garantir o acesso, a participação e a aprendizagem dos alunos com deficiência, transtornos globais do desenvolvimento e altas habilidades/superdotação na escola regular, orientando para a transversalidade da educação especial, o atendimento educacional especializado, a continuidade da escolarização, a formação de professores, a participação da família e da comunidade, a acessibilidade e a articulação intersetorial na implantação das políticas públicas.
 
-**----- Start of picture text -----**<br>
-D - Aprendizagem Insuficiente<br>**----- End of picture text -----**<br>
+Com vistas à Educação Profissional e Tecnológica, objetiva-se ressaltar as condições necessárias para o pleno acesso, participação e aprendizagem dos estudantes com deficiência. Ressalta-se que a inclusão deve considerar quesito da Legislação vigente, tais quais:
 
+- Constituição Federal (1988), artigo 205 – educação é direito de todos;
 
-Em suma, o conceito mínimo para aprovação na componente curricular é C e a frequência mínima é de 75% sobre o total das aulas dadas. 
+- Lei 10.436 (2002) – reconhece a Língua Brasileira de Sinais, Libras;
 
-A recuperação paralela se dará de acordo com a Portaria 120/2009 em seus Art.16º, Art.17º e Art.18º que estabelecem as seguintes prerrogativas: 
+- Decreto 5.296 (2004) – regulamenta as Leis 10.048 e 10.098 (ambas do ano de 2000) que estabelece os critérios de acessibilidade e atendimento prioritário em estabelecimentos de ensino de qualquer nível, incluindo salas de aula, bibliotecas, auditórios, instalações desportivas, laboratórios, áreas de lazer e sanitários;
 
-No decorrer do período letivo serão oferecidos estudos de recuperação paralela ou retomada dos conteúdos a todos os estudando, principalmente aos que encontrarem dificuldade de aprendizagem. 
+- Portaria 3.284 (2003) – dispõe sobre os requisitos de acessibilidade à pessoas com deficiência;
 
-O planejamento do processo de recuperação paralela é de responsabilidade do professor da unidade/área curricular, o qual envolve a identificação das dificuldades apresentadas pelos alunos e permite a seleção dos objetivos e atividades que deverão ser realizadas para promoção da aprendizagem. 
+- Decreto 5.626 (2005) – regulamenta a Lei 10.436 (2002) sobre o uso e difusão de Libras, bem
 
-No processo de recuperação paralela os professores oportunizarão atividades diversificadas, tais como roteiro de estudos, apoio ao ensino, participação nos projetos de reforço, entre outras atividades. É responsabilidade do aluno procurar o professor em seu horário de apoio ao ensino, para o desenvolvimento das atividades porém, o professor terá autonomia para convocar o aluno em outros momentos caso julgue necessário. 
+- como componente dos cursos de formação de professores;
 
-## **3.7 CRITÉRIOS DE APROVEITAMENTO E PROCEDIMENTOS DE AVALIAÇÃO DE COMPETÊNCIAS ANTERIORMENTE DESENVOLVIDAS** 
+- Política Nacional de Educação Especial na perspectiva de Educação Inclusiva (MEC, 2008) –
 
-O aproveitamento de estudos está fundamentado no Art. 63 da Resolução Nº 54/11 que afirma: _Art. 63 - Nos Cursos de Ensino Médio Integrado e PROEJA, não há possibilidade de aproveitamento de estudos._ 
+- define a Educação Especial como modalidade transversal em todos os níveis, modos e etapas; disponibiliza recursos e serviços de acessibilidade, bem como atendimento educacional
 
-**Certificação de Conhecimentos:** o estudante poderá solicitar certificação de conhecimentos adquiridos através de experiências previamente vivenciadas, inclusive fora do ambiente escolar com o fim de alcançar a dispensa de algum(s) componente(s) curricular(es) integrantes da matriz curricular do curso. O respectivo processo de certificação consistirá em uma avaliação teórica ou teórico-prática, conforme as características do componente curricular. 
+17
 
-16 
+INSTITUTOFEDERAL PARANA
 
-INSTITUTOFEDERAL PARANA 
+MinisteriodaEducacao<br>InstitutoFederaldoParana<br>especializado e a complementação dos estudos às pessoas com deficiência, transtornos globais do desenvolvimento e altas habilidades/superdotação.
 
-**==> picture [97 x 18] intentionally omitted <==**
+O Instituto Federal do Paraná instituiu para o atendimento educacional especializado o Núcleo de Atendimento à Pessoas com Necessidades Especiais (NAPNE), visando o cumprimento da Política e seus desmembramentos. O NAPNE promove o atendimento aos estudantes; monitora as adaptações curriculares, recursos didáticos, estratégias para o desenvolvimento escolar, atividades desenvolvidas; verifica  e estimula o relacionamento de apoio ofertado; bem como acompanha as evoluções demonstradas; serve de apoio à Coordenação Pedagógica; além de avaliar a possibilidade de apoios de instituições parceiras.
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+Os Parâmetros Curriculares Nacionais definem as estratégias para a educação dos alunos com necessidades educacionais específicas e classificam as adequações curriculares em duas categorias: não significativas e significativas (BRASIL, 1999). As adequações curriculares não significativas do currículo são as que implicam modificações menores e são facilmente realizadas pelos professores dentro do contexto normal da sala de aula. As adequações significativas são adotadas quando as medidas anteriores – não significativas – são insuficientes no auxilio ao processo de aprendizagem dos alunos. Nesta última situação, as estratégias devem ser definidas conjuntamente entre o NAPNE, a seção pedagógica e demais profissionais da educação que acompanhem o estudante, seja dentro da sala de aula regular ou em atividades extracurriculares. Juntamente a estas estratégias, o IFPR – Câmpus Curitiba elabora ambientes de aprendizagem, nos quais oficinas, aulas de reforço e nivelamento são apresentadas, de forma que o estudante adapte-se e permaneça na instituição, tendo seu aprendizado garantido.
 
+## **3.8 INSTALAÇÕES E EQUIPAMENTOS, RECURSOS TECNOLÓGICOS E BIBLIOTECA**
 
-**Educação Inclusiva:** O projeto político de curso, aqui, muito além de ser o ponto de referência da prática educacional do IFPR – Câmpus Curitiba deve, segundo Veiga (1998, p.13) “[...] ser construído e vivenciado em todos os momentos, por todos os envolvidos com o processo educativo da escola.” Desta forma, aspectos pontuais da aprendizagem inclusiva, que é uma questão individual de cada estudante na sua diversidade, deve ser amplamente discutido com o grupo de professores, coordenadores e técnicos administrativos envolvidos com o processo de aprendizagem, de forma que o estudante com necessidade específica seja verdadeiramente atendido permaneça na escola, aprendendo e sendo respeitado em suas potencialidades. 
+Deverão compor o quadro de instalações e equipamentos necessários para a realização do curso:
 
-A educação inclusiva requer uma redefinição conceitual e organizacional das políticas educacionais. Nesta perspectiva, o financiamento dos serviços de apoio aos alunos público alvo da educação especial devem integrar os custos gerais com o desenvolvimento do ensino, pesquisa e extensão, sendo disponibilizados em qualquer nível, etapa ou modalidade de ensino, no âmbito da educação pública ou privada. 
+- Sala de Audiovisual;
 
-A Política Nacional de Educação Especial na Perspectiva da Educação Inclusiva (2008) tem como objetivo garantir o acesso, a participação e a aprendizagem dos alunos com deficiência, transtornos globais do desenvolvimento e altas habilidades/superdotação na escola regular, orientando para a transversalidade da educação especial, o atendimento educacional especializado, a continuidade da escolarização, a formação de professores, a participação da família e da comunidade, a acessibilidade e a articulação intersetorial na implantação das políticas públicas. 
+- Salas de Aula;
 
-Com vistas à Educação Profissional e Tecnológica, objetiva-se ressaltar as condições necessárias para o pleno acesso, participação e aprendizagem dos estudantes com deficiência. Ressalta-se que a inclusão deve considerar quesito da Legislação vigente, tais quais: 
+- Laboratório de Informática com Programas Específicos;
 
-- Constituição Federal (1988), artigo 205 – educação é direito de todos; 
+- Biblioteca com Acervo Específico Atualizado;
 
-- Lei 10.436 (2002) – reconhece a Língua Brasileira de Sinais, Libras; 
+- Laboratório de Elementos de Automação (hidráulica e pneumática);
 
-- Decreto 5.296 (2004) – regulamenta as Leis 10.048 e 10.098 (ambas do ano de 2000) que estabelece os critérios de acessibilidade e atendimento prioritário em estabelecimentos de ensino de qualquer nível, incluindo salas de aula, bibliotecas, auditórios, instalações desportivas, laboratórios, áreas de lazer e sanitários; 
+18
 
-- Portaria 3.284 (2003) – dispõe sobre os requisitos de acessibilidade à pessoas com deficiência; 
+## 1INSTITUTOFEDERAL PARANA
 
-- Decreto 5.626 (2005) – regulamenta a Lei 10.436 (2002) sobre o uso e difusão de Libras, bem 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-- como componente dos cursos de formação de professores; 
+- Laboratório de Máquinas Térmicas e de Fluxo;
 
-- Política Nacional de Educação Especial na perspectiva de Educação Inclusiva (MEC, 2008) – 
+- Laboratório de Metrologia;
 
-- define a Educação Especial como modalidade transversal em todos os níveis, modos e etapas; disponibiliza recursos e serviços de acessibilidade, bem como atendimento educacional 
+- Laboratório de Ensaio de Materiais, Metalografia e Tratamentos Térmicos;
 
-17 
+- Laboratório de Conformação Mecânica;
 
-INSTITUTOFEDERAL PARANA 
+- Laboratório de Soldagem;
 
-**==> picture [97 x 18] intentionally omitted <==**
+- Laboratório de Usinagem;
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+- Laboratório de Instalações Industriais.
 
+## **3.9 PERFIL DO PESSOAL DOCENTE E TÉCNICO**
 
-especializado e a complementação dos estudos às pessoas com deficiência, transtornos globais do desenvolvimento e altas habilidades/superdotação. 
-
-O Instituto Federal do Paraná instituiu para o atendimento educacional especializado o Núcleo de Atendimento à Pessoas com Necessidades Especiais (NAPNE), visando o cumprimento da Política e seus desmembramentos. O NAPNE promove o atendimento aos estudantes; monitora as adaptações curriculares, recursos didáticos, estratégias para o desenvolvimento escolar, atividades desenvolvidas; verifica  e estimula o relacionamento de apoio ofertado; bem como acompanha as evoluções demonstradas; serve de apoio à Coordenação Pedagógica; além de avaliar a possibilidade de apoios de instituições parceiras. 
-
-Os Parâmetros Curriculares Nacionais definem as estratégias para a educação dos alunos com necessidades educacionais específicas e classificam as adequações curriculares em duas categorias: não significativas e significativas (BRASIL, 1999). As adequações curriculares não significativas do currículo são as que implicam modificações menores e são facilmente realizadas pelos professores dentro do contexto normal da sala de aula. As adequações significativas são adotadas quando as medidas anteriores – não significativas – são insuficientes no auxilio ao processo de aprendizagem dos alunos. Nesta última situação, as estratégias devem ser definidas conjuntamente entre o NAPNE, a seção pedagógica e demais profissionais da educação que acompanhem o estudante, seja dentro da sala de aula regular ou em atividades extracurriculares. Juntamente a estas estratégias, o IFPR – Câmpus Curitiba elabora ambientes de aprendizagem, nos quais oficinas, aulas de reforço e nivelamento são apresentadas, de forma que o estudante adapte-se e permaneça na instituição, tendo seu aprendizado garantido. 
-
-## **3.8 INSTALAÇÕES E EQUIPAMENTOS, RECURSOS TECNOLÓGICOS E BIBLIOTECA** 
-
-Deverão compor o quadro de instalações e equipamentos necessários para a realização do curso: 
-
-- Sala de Audiovisual; 
-
-- Salas de Aula; 
-
-- Laboratório de Informática com Programas Específicos; 
-
-- Biblioteca com Acervo Específico Atualizado; 
-
-- Laboratório de Elementos de Automação (hidráulica e pneumática); 
-
-18 
-
-## 1INSTITUTOFEDERAL PARANA 
-
-MinisteriodaEducacao InstitutoFederaldoParana 
-
-- Laboratório de Máquinas Térmicas e de Fluxo; 
-
-- Laboratório de Metrologia; 
-
-- Laboratório de Ensaio de Materiais, Metalografia e Tratamentos Térmicos; 
-
-- Laboratório de Conformação Mecânica; 
-
-- Laboratório de Soldagem; 
-
-- Laboratório de Usinagem; 
-
-- Laboratório de Instalações Industriais. 
-
-## **3.9 PERFIL DO PESSOAL DOCENTE E TÉCNICO** 
-
-## **3.9.1. Perfil do pessoal docente** 
+## **3.9.1. Perfil do pessoal docente**
 
 |**Nome**|**Titulação**|**Graduação**|**Regime de Trabalho**|
 |---|---|---|---|
@@ -717,11 +585,9 @@ MinisteriodaEducacao InstitutoFederaldoParana
 |Denilson Roberto<br>Schena|Mestrado|História|Dedicação Exclusiva|
 |Diana Gurgel Pegorini|Mestrado|Programa Especial de<br>Formação Pedagógica /<br>Inglês<br>Secretariado Executivo|Dedicação Exclusiva|
 
+19
 
-
-19 
-
-Ministerio da Educacao InstitutoFederaldoParana 
+Ministerio da Educacao InstitutoFederaldoParana
 
 |INSTITUTOFEDERAL<br>PARANA|||Ministerio da Educacao<br>InstitutoFederaldoParana|
 |---|---|---|---|
@@ -747,13 +613,11 @@ Ministerio da Educacao InstitutoFederaldoParana
 |Mércia Freire Rocha<br>Cordeiro Machado|Mestrado|Licenciatura em<br>Educação Física|Dedicação Exclusiva|
 |Oswaldo Henrique<br>Gutierrez Branco|Mestrado|Engenharia Mecânica|Dedicação Exclusiva|
 
+20
 
+Ministerioda Educacao InstitutoFederaldoParana
 
-20 
-
-Ministerioda Educacao InstitutoFederaldoParana 
-
-## INSTITUTOFEDERAL PARANA 
+## INSTITUTOFEDERAL PARANA
 
 |INSTITUTOFEDERAL<br>PARANA|||Ministerioda Educacao<br>InstitutoFederaldoParana|
 |---|---|---|---|
@@ -768,9 +632,7 @@ Ministerioda Educacao InstitutoFederaldoParana
 |Wellington Cesar Gallice|Mestrado|Química|Dedicação Exclusiva|
 |Wilson Lemos Júnior|Mestrado|Educação Artística com<br>Habilitação em Música|Dedicação Exclusiva|
 
-
-
-## **3.9.2. Pessoal técnico administrativo** 
+## **3.9.2. Pessoal técnico administrativo**
 
 |**Nome**|**Titulação**|**Graduação**|**Setor**|
 |---|---|---|---|
@@ -789,13 +651,11 @@ Ministerioda Educacao InstitutoFederaldoParana
 |Ed Carlos Da Silva|Graduação|Sistemas da informação|Técnico de Tecnologia<br>da Informação|
 |Edilza Silva Dos Santos|Graduação|Biblioteconomia|Bibliotecária|
 
+21
 
+1 INSTITUTOFEDERAL PARANA
 
-21 
-
-1 INSTITUTOFEDERAL PARANA 
-
-Ministerioda Educacao InstitutoFederaldoParana 
+Ministerioda Educacao InstitutoFederaldoParana
 
 |Erica Santana|Graduação|Educação física|Técnico em Assuntos<br>Educacionais|
 |---|---|---|---|
@@ -821,489 +681,435 @@ Ministerioda Educacao InstitutoFederaldoParana
 |Susi<br>De<br>Fatima<br>Carvalho Da Silva|Graduação|Gestão pública|Auxiliar de Biblioteca|
 |Vivaldo<br>Cordeiro<br>Gonçalves|Especialização|Gestão da informação|Bibliotecário|
 
+## **3.10 EXPEDIÇÃO DE DIPLOMAS E CERTIFICADOS**
 
+O diploma certificando a conclusão será emitido quando do término do curso, desde que os estudantes que integralizarem com aprovação todos componentes curriculares do curso e com as atividades complementares concluídas farão jus ao **Diploma de Técnico em Mecânica do Eixo Tecnológico de Controle e Processos Industriais** e receberão o histórico de conclusão do Ensino Médio.
 
-## **3.10 EXPEDIÇÃO DE DIPLOMAS E CERTIFICADOS** 
+1INSTITUTOFEDERAL<br>PARANA<br>3.11  PROGRAMA DO CURSO<br>MinisteriodaEducacao InstitutoFederaldoParana
 
-O diploma certificando a conclusão será emitido quando do término do curso, desde que os estudantes que integralizarem com aprovação todos componentes curriculares do curso e com as atividades complementares concluídas farão jus ao **Diploma de Técnico em Mecânica do Eixo Tecnológico de Controle e Processos Industriais** e receberão o histórico de conclusão do Ensino Médio. 
+## **3.11.1. COMPONENTES CURRICULARES**
 
-22 
+## **Campus Curitiba do IFPR**
 
-**==> picture [230 x 100] intentionally omitted <==**
+**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular: Informática Instrumental Carga Horária: 80 Período Letivo: 1º ANO Ementa:** Sistemas Operacionais; Editor de textos; Formatação de textos; Planilhas Eletrônicas; Produção de Relatórios; Apresentação de Slides. **Bibliografia Básica:** - CORNACHIONE, E.B. Informática aplicada às áreas de contabilidade e administração. São Paulo: Atlas, 2008.
 
-**----- Start of picture text -----**<br>
-1INSTITUTOFEDERAL<br>PARANA<br>3.11  PROGRAMA DO CURSO<br>**----- End of picture text -----**<br>
+- NORTON, P. Introdução à Informática. Rio de Janeiro: Makron Books, 1996.
 
+- VIANA, M.M. Fundamentos de Informática para Universitários: Brasport, 1996.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+**Bibliografia Complementar:**
 
-## **3.11.1. COMPONENTES CURRICULARES** 
+- ALMEIDA, M.G. de, Fundamentos de Informática. Rio de Janeiro: Brasport, 1999.
 
-## **Campus Curitiba do IFPR** 
+- VELLOSO, F. C., Informática Conceitos Básicos. Rio de Janeiro: Campus, 1999.
 
-**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular: Informática Instrumental Carga Horária: 80 Período Letivo: 1º ANO Ementa:** Sistemas Operacionais; Editor de textos; Formatação de textos; Planilhas Eletrônicas; Produção de Relatórios; Apresentação de Slides. **Bibliografia Básica:** - CORNACHIONE, E.B. Informática aplicada às áreas de contabilidade e administração. São Paulo: Atlas, 2008. 
+- WHITE, R. Como Funciona o Computador. São Paulo: Quark, 1995.
 
-- NORTON, P. Introdução à Informática. Rio de Janeiro: Makron Books, 1996. 
+INSTITUTOFEDERAL<br>PARANA<br>MinisteriodaEducacao InstitutoFederaldoParana
 
-- VIANA, M.M. Fundamentos de Informática para Universitários: Brasport, 1996. 
+## **Campus Curitiba do IFPR**
 
-**Bibliografia Complementar:** 
+**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular: Metrologia Carga Horária: 120 Período Letivo: 1º ANO**
 
-- ALMEIDA, M.G. de, Fundamentos de Informática. Rio de Janeiro: Brasport, 1999. 
+**Ementa:** Conceitos básicos; Estrutura metrológica e sistema internacional de unidades; Unidades dimensionais – sistema métrico e inglês; Conversão de unidades e grandezas; Medir: processo de medição e obtenção de resultados; Incerteza de medição; Causas de erro e seus tratamentos; Calibração de sistemas de medição; Medição direta; Medição indireta; Instrumentos de medição direta – régua graduada, paquímetro, micrômetro e goniômetro; Instrumentos de medição indireta – relógio comparador e relógio apalpador; Calibradores e verificadores; Blocos padrão; Medição tridimensional; Tolerância dimensional; Ajustes ISO; Tolerância geométrica; Acabamento superficial (rugosidade). **Bibliografia Básica:**
 
-- VELLOSO, F. C., Informática Conceitos Básicos. Rio de Janeiro: Campus, 1999. 
+- ALBERTAZZI, A.; SOUZA, A. R. de. Fundamentos de Metrologia Científica e Industrial. 1ª Edição. São Paulo. Editora Manole. 2008.
 
-- WHITE, R. Como Funciona o Computador. São Paulo: Quark, 1995. 
+- LIRA, F. A. Metrologia na Indústria. 3ª Edição. São Paulo. Editora Érica. 2004.
 
-23 
+- ª GUEDES, P. Metrologia Industrial. 1 Edição. São Paulo. Editora Lidel Zamboni. 2011
 
-**==> picture [69 x 16] intentionally omitted <==**
+## Bibliografia Complementar:
 
-**----- Start of picture text -----**<br>
-INSTITUTOFEDERAL<br>PARANA<br>**----- End of picture text -----**<br>
+- SANTOS Jr., M. J. dos. Metrologia Dimensional – teoria e prática. 2ª Edição. Porto Alegre. Editora
 
+- UFRRS. 1995.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+- SILVA NETO, J. C. Metrologia e Controle Dimensional. 1ª Edição. São Paulo. Editora Elsevier. 2012.
 
-## **Campus Curitiba do IFPR** 
+- MARINHO, FUNDAÇÂO ROBERTO. Livro Profissionalizante de Mecânica – Metrologia. São Paulo. Editora Fiesp. 2007
 
-**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular: Metrologia Carga Horária: 120 Período Letivo: 1º ANO** 
+24
 
-**Ementa:** Conceitos básicos; Estrutura metrológica e sistema internacional de unidades; Unidades dimensionais – sistema métrico e inglês; Conversão de unidades e grandezas; Medir: processo de medição e obtenção de resultados; Incerteza de medição; Causas de erro e seus tratamentos; Calibração de sistemas de medição; Medição direta; Medição indireta; Instrumentos de medição direta – régua graduada, paquímetro, micrômetro e goniômetro; Instrumentos de medição indireta – relógio comparador e relógio apalpador; Calibradores e verificadores; Blocos padrão; Medição tridimensional; Tolerância dimensional; Ajustes ISO; Tolerância geométrica; Acabamento superficial (rugosidade). **Bibliografia Básica:** 
+INSTITUTOFEDERAL PARANA
 
-- ALBERTAZZI, A.; SOUZA, A. R. de. Fundamentos de Metrologia Científica e Industrial. 1ª Edição. São Paulo. Editora Manole. 2008. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-- LIRA, F. A. Metrologia na Indústria. 3ª Edição. São Paulo. Editora Érica. 2004. 
+## **Campus Curitiba do IFPR**
 
-- ª GUEDES, P. Metrologia Industrial. 1 Edição. São Paulo. Editora Lidel Zamboni. 2011 
+**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular: Desenho Técnico Carga Horária: 120 Período Letivo: 1º ANO**
 
-## Bibliografia Complementar: 
+**Ementa:** Normas ABNT – NBR para desenho mecânico; Letreiro técnico; Formatos de folhas; Tipos de linhas; Cotagem; Escalas; Projeção ortogonal – 1º e 3º diedros; Perspectivas – isométrica e cavaleira; Cortes – total, meio corte, parcial, em desvio e rebatido; Seções; Vistas auxiliares; Elaboração de croquis de equipamentos mecânicos; Representação de elementos de máquinas; Ajustes Mecânicos; Desenhos auxiliados por computador; Desenhos em 2D e 3D.
 
-- SANTOS Jr., M. J. dos. Metrologia Dimensional – teoria e prática. 2ª Edição. Porto Alegre. Editora 
+## **Bibliografia Básica:**
 
-- UFRRS. 1995. 
+- SILVA, A.; RIBEIRO, C. A.; DIAS, J.; SOUSA, L. Desenho Técnico Moderno. 4ª Edital. São Paulo. Editora LTC. 2006.
 
-- SILVA NETO, J. C. Metrologia e Controle Dimensional. 1ª Edição. São Paulo. Editora Elsevier. 2012. 
+- LEAKE, J.; BORGERSON, J. Manual de Desenho Técnico para Engenharia. 1ª Edital. São Paulo. Editora LTC. 2010 - CRUZ, M. D. Desenho Técnico para Mecânica. 1º Edital. São Paulo. Editora Érica. 2010.
 
-- MARINHO, FUNDAÇÂO ROBERTO. Livro Profissionalizante de Mecânica – Metrologia. São Paulo. Editora Fiesp. 2007 
+## **Bibliografia Complementar:**
 
-24 
+- MANFÉ, G. Desenho técnico mecânico – Vol. 1. 1ª Edição. São Paulo. Editora Hemus. 2004 - SPECK, H. J. Manual básico de desenho técnico. 2ª Edição. Florianópolis. Editora UFSC. 2001 - SCHNEIDER, W. Desenho Técnico Industrial. 1º Edital. São Paulo. Editora Hemus. 2008.
 
-INSTITUTOFEDERAL PARANA 
+25
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+INSTITUTOFEDERAL PARANA
 
-## **Campus Curitiba do IFPR** 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular: Desenho Técnico Carga Horária: 120 Período Letivo: 1º ANO** 
+## **Campus Curitiba do IFPR**
 
-**Ementa:** Normas ABNT – NBR para desenho mecânico; Letreiro técnico; Formatos de folhas; Tipos de linhas; Cotagem; Escalas; Projeção ortogonal – 1º e 3º diedros; Perspectivas – isométrica e cavaleira; Cortes – total, meio corte, parcial, em desvio e rebatido; Seções; Vistas auxiliares; Elaboração de croquis de equipamentos mecânicos; Representação de elementos de máquinas; Ajustes Mecânicos; Desenhos auxiliados por computador; Desenhos em 2D e 3D. 
+**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular: Tecnologia dos Materiais Carga Horária: 120 Período Letivo: 2º ANO**
 
-## **Bibliografia Básica:** 
+**Ementa:** Classificação dos materiais; Ligações interatômicas; Estrutura cristalina; Imperfeições cristalinas; Deformações dos metais; Gráfico tensão x deformação; Propriedades mecânicas gerais dos materiais metálicos e não metálicos; Homogeneidade e isotropia;  Diagrama de Fase; Diagrama Fe-C; Microestrutura; Tratamentos Térmicos e Termoquímicos; Ensaios mecânicos destrutivos.
 
-- SILVA, A.; RIBEIRO, C. A.; DIAS, J.; SOUSA, L. Desenho Técnico Moderno. 4ª Edital. São Paulo. Editora LTC. 2006. 
+## **Bibliografia Básica:**
 
-- LEAKE, J.; BORGERSON, J. Manual de Desenho Técnico para Engenharia. 1ª Edital. São Paulo. Editora LTC. 2010 - CRUZ, M. D. Desenho Técnico para Mecânica. 1º Edital. São Paulo. Editora Érica. 2010. 
+- CALLISTER, W. D. Jr. Ciência e Engenharia dos Materiais – Uma Introdução. 7ª Edição. São Paulo. Editora LTC. 2008.
 
-## **Bibliografia Complementar:** 
+- SOUZA, S. A. Ensaios Mecânicos de Materiais Metálicos. 5ª Edição. São Paulo. Editora Blucher. 2004.
 
-- MANFÉ, G. Desenho técnico mecânico – Vol. 1. 1ª Edição. São Paulo. Editora Hemus. 2004 - SPECK, H. J. Manual básico de desenho técnico. 2ª Edição. Florianópolis. Editora UFSC. 2001 - SCHNEIDER, W. Desenho Técnico Industrial. 1º Edital. São Paulo. Editora Hemus. 2008. 
+- VAN VLACK, L. H. Princípios de ciência e tecnologia dos materiais. 4ª Edição. São Paulo. Editora Campus. 2003.
 
-25 
+## **Bibliografia Complementar:**
 
-INSTITUTOFEDERAL PARANA 
+- CANEVAROLO, S. V. Ciência dos Polímeros. 1ª Edição. São Paulo. Editora Artliber. 2002.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+- SPIM, J. A.; GARCIA, A. Ensaios dos Materiais. 1ª Edição. São Paulo. Editora LTC. 2000.
 
-## **Campus Curitiba do IFPR** 
+- COLPAERT, H. Metalografia dos Produtos Metalurgicos Comuns. 4ª Edição. São Paulo. Editora Blucher. 2008.
 
-**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular: Tecnologia dos Materiais Carga Horária: 120 Período Letivo: 2º ANO** 
+26
 
-**Ementa:** Classificação dos materiais; Ligações interatômicas; Estrutura cristalina; Imperfeições cristalinas; Deformações dos metais; Gráfico tensão x deformação; Propriedades mecânicas gerais dos materiais metálicos e não metálicos; Homogeneidade e isotropia;  Diagrama de Fase; Diagrama Fe-C; Microestrutura; Tratamentos Térmicos e Termoquímicos; Ensaios mecânicos destrutivos. 
+INSTITUTOFEDERAL PARANA
 
-## **Bibliografia Básica:** 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-- CALLISTER, W. D. Jr. Ciência e Engenharia dos Materiais – Uma Introdução. 7ª Edição. São Paulo. Editora LTC. 2008. 
+## **Campus Curitiba do IFPR**
 
-- SOUZA, S. A. Ensaios Mecânicos de Materiais Metálicos. 5ª Edição. São Paulo. Editora Blucher. 2004. 
+**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular: Segurança do Trabalho Carga Horária: 40 Período Letivo: 1º ANO**
 
-- VAN VLACK, L. H. Princípios de ciência e tecnologia dos materiais. 4ª Edição. São Paulo. Editora Campus. 2003. 
+**Ementa:** Princípios da ciência segurança do trabalho; Acidentes de trabalho; Legislação específica de ST; CIPA; Proteção contra incêndios, choques elétricos e riscos ambientais; Equipamento de proteção individual (EPI); Normas regulamentadoras sobre segurança e medicina do trabalho; Higiene ocupacional.
 
-## **Bibliografia Complementar:** 
+**Bibliografia Básica:** - MANUAIS DE LEGISLAÇÃO ÁTLAS. Segurança e Medicina do Trabalho. 65ª Edição. São Paulo. Editora Átlas. 2010. - GONÇALVES, E. A. Manual de Segurança e Saúde no Trabalho. 5ª Edição. São Paulo. Editora LTR. 2009. - ZOCCHIO, A; PEDRO, L. C. F. Segurança em Trabalhos com Maquinaria. São Paulo.Editora LTR, 2002.
 
-- CANEVAROLO, S. V. Ciência dos Polímeros. 1ª Edição. São Paulo. Editora Artliber. 2002. 
+## **Bibliografia Complementar:**
 
-- SPIM, J. A.; GARCIA, A. Ensaios dos Materiais. 1ª Edição. São Paulo. Editora LTC. 2000. 
+- BREVIGLIERO, E.; POSSEBON, J.; SPINELI, R. Higiene Ocupacional: Agentes biológicos, químicos e físicos. 4ª Edição. São Paulo. Editora SENAC. 2006. - CAMPOS, A; TAVARES, J. da C; LIMA. V. Prevenção e Controle de Risco em Máquinas, Equipamentos e Instalações. 4ª Ed. São Paulo: SENAC, 2010. - Segurança e Saúde no trabalho – NRS de 1 a 35. 1 Edição. Editora Riddel. 2013
 
-- COLPAERT, H. Metalografia dos Produtos Metalurgicos Comuns. 4ª Edição. São Paulo. Editora Blucher. 2008. 
+27
 
-26 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-INSTITUTOFEDERAL PARANA 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## **Campus Curitiba do IFPR**
 
-## **Campus Curitiba do IFPR** 
+**Curso: Mecânica Integrado**
 
-**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular: Segurança do Trabalho Carga Horária: 40 Período Letivo: 1º ANO** 
+## **Eixo Tecnológico: Controle e Processos Industriais**
 
-**Ementa:** Princípios da ciência segurança do trabalho; Acidentes de trabalho; Legislação específica de ST; CIPA; Proteção contra incêndios, choques elétricos e riscos ambientais; Equipamento de proteção individual (EPI); Normas regulamentadoras sobre segurança e medicina do trabalho; Higiene ocupacional. 
+**Componente Curricular: Circuitos Hidráulicos e Pneumáticos Carga Horária: 80 Período Letivo: 1º ANO**
 
-**Bibliografia Básica:** - MANUAIS DE LEGISLAÇÃO ÁTLAS. Segurança e Medicina do Trabalho. 65ª Edição. São Paulo. Editora Átlas. 2010. - GONÇALVES, E. A. Manual de Segurança e Saúde no Trabalho. 5ª Edição. São Paulo. Editora LTR. 2009. - ZOCCHIO, A; PEDRO, L. C. F. Segurança em Trabalhos com Maquinaria. São Paulo.Editora LTR, 2002. 
+**Ementa:** Conceitos físicos aplicados à pneumática; Componentes pneumáticos (simbologia e função); Sistemas pneumáticos; Sistemas eletropneumáticos; Análise e síntese de circuitos pneumáticos; Componentes físicos aplicados à hidráulica; Componentes hidráulicos (simbologia e função); Sistemas hidráulicos; Sistemas eletrohidráulicos; Análise e síntese de circuitos hidráulicos; Automação eletropneumática e eletrohidráulica.
 
-## **Bibliografia Complementar:** 
+## **Bibliografia Básica:**
 
-- BREVIGLIERO, E.; POSSEBON, J.; SPINELI, R. Higiene Ocupacional: Agentes biológicos, químicos e físicos. 4ª Edição. São Paulo. Editora SENAC. 2006. - CAMPOS, A; TAVARES, J. da C; LIMA. V. Prevenção e Controle de Risco em Máquinas, Equipamentos e Instalações. 4ª Ed. São Paulo: SENAC, 2010. - Segurança e Saúde no trabalho – NRS de 1 a 35. 1 Edição. Editora Riddel. 2013 
+- BONACORSO, N. Automação Eletropneumática. 11ª Edição. São Paulo. Editora Érica. 2009.
 
-27 
+- ROSA, D. Organização de Apostila Técnica de Circuitos Hidráulicos Pneumáticos. Curitiba. 2007. - ª LEDULAK, J, A. Acionamentos Eletropneumáticos. 22 Edição. Curitiba. Editora Editorial. 2010.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## **Bibliografia Complementar:**
 
-INSTITUTOFEDERAL PARANA 
+- FESTO DIDACTIC BRASIL. Introdução à Pneumática. São Paulo. Festo. 1998.
 
-## **Campus Curitiba do IFPR** 
+- FESTO DIDACTIC BRASIL. Sistemas Eletropneumáticos São Paulo. Festo. 2001.
 
-**Curso: Mecânica Integrado** 
+- PARKER HANNIFIN. Tecnologia Hidráulica Industrial. São Paulo. Parker. 2001.
 
-## **Eixo Tecnológico: Controle e Processos Industriais** 
+28
 
-**Componente Curricular: Circuitos Hidráulicos e Pneumáticos Carga Horária: 80 Período Letivo: 1º ANO** 
+INSTITUTOFEDERAL PARANA
 
-**Ementa:** Conceitos físicos aplicados à pneumática; Componentes pneumáticos (simbologia e função); Sistemas pneumáticos; Sistemas eletropneumáticos; Análise e síntese de circuitos pneumáticos; Componentes físicos aplicados à hidráulica; Componentes hidráulicos (simbologia e função); Sistemas hidráulicos; Sistemas eletrohidráulicos; Análise e síntese de circuitos hidráulicos; Automação eletropneumática e eletrohidráulica. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-## **Bibliografia Básica:** 
+## **Campus Curitiba do IFPR**
 
-- BONACORSO, N. Automação Eletropneumática. 11ª Edição. São Paulo. Editora Érica. 2009. 
+**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular: Tecnologia dos Materiais Carga Horária: 120 Período Letivo: 2º ANO**
 
-- ROSA, D. Organização de Apostila Técnica de Circuitos Hidráulicos Pneumáticos. Curitiba. 2007. - ª LEDULAK, J, A. Acionamentos Eletropneumáticos. 22 Edição. Curitiba. Editora Editorial. 2010. 
+**Ementa:** Classificação dos materiais; Ligações interatômicas; Estrutura cristalina; Imperfeições cristalinas; Deformações dos metais; Gráfico tensão x deformação; Propriedades mecânicas gerais dos materiais metálicos e não metálicos; Homogeneidade e isotropia;  Diagrama de Fase; Diagrama Fe-C; Microestrutura; Tratamentos Térmicos e Termoquímicos; Ensaios mecânicos destrutivos.
 
-## **Bibliografia Complementar:** 
+## **Bibliografia Básica:**
 
-- FESTO DIDACTIC BRASIL. Introdução à Pneumática. São Paulo. Festo. 1998. 
+- CALLISTER, W. D. Jr. Ciência e Engenharia dos Materiais – Uma Introdução. 7ª Edição. São Paulo. Editora LTC. 2008.
 
-- FESTO DIDACTIC BRASIL. Sistemas Eletropneumáticos São Paulo. Festo. 2001. 
+- SOUZA, S. A. Ensaios Mecânicos de Materiais Metálicos. 5ª Edição. São Paulo. Editora Blucher. 2004.
 
-- PARKER HANNIFIN. Tecnologia Hidráulica Industrial. São Paulo. Parker. 2001. 
+- VAN VLACK, L. H. Princípios de ciência e tecnologia dos materiais. 4ª Edição. São Paulo. Editora Campus. 2003.
 
-28 
+## **Bibliografia Complementar:**
 
-INSTITUTOFEDERAL PARANA 
+- CANEVAROLO, S. V. Ciência dos Polímeros. 1ª Edição. São Paulo. Editora Artliber. 2002.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+- SPIM, J. A.; GARCIA, A. Ensaios dos Materiais. 1ª Edição. São Paulo. Editora LTC. 2000.
 
-## **Campus Curitiba do IFPR** 
+- COLPAERT, H. Metalografia dos Produtos Metalurgicos Comuns. 4ª Edição. São Paulo. Editora Blucher. 2008.
 
-**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular: Tecnologia dos Materiais Carga Horária: 120 Período Letivo: 2º ANO** 
+INSTITUTOFEDERAL<br>PARANA<br>MinisteriodaEducacao InstitutoFederaldoParana
 
-**Ementa:** Classificação dos materiais; Ligações interatômicas; Estrutura cristalina; Imperfeições cristalinas; Deformações dos metais; Gráfico tensão x deformação; Propriedades mecânicas gerais dos materiais metálicos e não metálicos; Homogeneidade e isotropia;  Diagrama de Fase; Diagrama Fe-C; Microestrutura; Tratamentos Térmicos e Termoquímicos; Ensaios mecânicos destrutivos. 
+## **Campus Curitiba do IFPR**
 
-## **Bibliografia Básica:** 
-
-- CALLISTER, W. D. Jr. Ciência e Engenharia dos Materiais – Uma Introdução. 7ª Edição. São Paulo. Editora LTC. 2008. 
-
-- SOUZA, S. A. Ensaios Mecânicos de Materiais Metálicos. 5ª Edição. São Paulo. Editora Blucher. 2004. 
-
-- VAN VLACK, L. H. Princípios de ciência e tecnologia dos materiais. 4ª Edição. São Paulo. Editora Campus. 2003. 
-
-## **Bibliografia Complementar:** 
-
-- CANEVAROLO, S. V. Ciência dos Polímeros. 1ª Edição. São Paulo. Editora Artliber. 2002. 
-
-- SPIM, J. A.; GARCIA, A. Ensaios dos Materiais. 1ª Edição. São Paulo. Editora LTC. 2000. 
-
-- COLPAERT, H. Metalografia dos Produtos Metalurgicos Comuns. 4ª Edição. São Paulo. Editora Blucher. 2008. 
-
-29 
-
-**==> picture [69 x 16] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-INSTITUTOFEDERAL<br>PARANA<br>**----- End of picture text -----**<br>
-
-
-MinisteriodaEducacao InstitutoFederaldoParana 
-
-## **Campus Curitiba do IFPR** 
-
-## **Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais** 
+## **Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais**
 
 |**Processos Industriais**|**Processos Industriais**|
 |---|---|
 |**Componente Curricular:Máquinas de Fluxo**||
 |**Carga Horária: 80**|**Período Letivo: 2º ANO**|
 
+**Ementa:** Tubulações; Máquinas de fluxo; Compressores; Classificação das Máquinas Hidráulicas; Bombas; Cavitação; Perdas e Rendimentos.
 
+## **Bibliografia Básica:**
 
-**Ementa:** Tubulações; Máquinas de fluxo; Compressores; Classificação das Máquinas Hidráulicas; Bombas; Cavitação; Perdas e Rendimentos. 
+- MACINTYRE, A. J. Bombas e Instalações de Bombeamento. 2ª Edição. São Paulo. Editora LTC. 1997.
 
-## **Bibliografia Básica:** 
+- LIMA, E. P. C. Mecânica das Bombas. 2ª Edição. São Paulo. Editora Interciência. 2003.
 
-- MACINTYRE, A. J. Bombas e Instalações de Bombeamento. 2ª Edição. São Paulo. Editora LTC. 1997. 
+- SOUZA, Z. Projeto de Máquinas de Fluxo – Bombas Hidráulicas com Rotores Radiais e Axiais. 1ª Edição. Rio de Janeiro. Editora Interciência. 2011.
 
-- LIMA, E. P. C. Mecânica das Bombas. 2ª Edição. São Paulo. Editora Interciência. 2003. 
+## **Bibliografia Complementar:**
 
-- SOUZA, Z. Projeto de Máquinas de Fluxo – Bombas Hidráulicas com Rotores Radiais e Axiais. 1ª Edição. Rio de Janeiro. Editora Interciência. 2011. 
+- TELLES, P. C. S. Tubulações Industriais. 10ª Edição. São Paulo. Editora LTC. 2001.
 
-## **Bibliografia Complementar:** 
+- SOUZA, Z. Projeto de Máquinas de Fluxo – Motores Hidráulicos com Rotores Tipo Francis. 1ª Edição. Rio de Janeiro. Editora Interciência. 2011.
 
-- TELLES, P. C. S. Tubulações Industriais. 10ª Edição. São Paulo. Editora LTC. 2001. 
+- SOUZA, Z. Projeto de Máquinas de Fluxo – Turbinas Hidráulicas com Motores Axiais. 1ª Edição. Rio de Janeiro. Editora Interciência. 2011.
 
-- SOUZA, Z. Projeto de Máquinas de Fluxo – Motores Hidráulicos com Rotores Tipo Francis. 1ª Edição. Rio de Janeiro. Editora Interciência. 2011. 
+30
 
-- SOUZA, Z. Projeto de Máquinas de Fluxo – Turbinas Hidráulicas com Motores Axiais. 1ª Edição. Rio de Janeiro. Editora Interciência. 2011. 
+INSTITUTOFEDERAL PARANA
 
-30 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-INSTITUTOFEDERAL PARANA 
+## **Campus Curitiba do IFPR**
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais**
 
-## **Campus Curitiba do IFPR** 
+**Componente Curricular: Máquinas Térmicas Carga Horária: 80 Período Letivo: 2º ANO Ementa:** Termodinâmica; Ciclo de Carnot; Ciclos reais; Teoria da Combustão; Máquinas térmicas.
 
-**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais** 
+## **Bibliografia Básica:**
 
-**Componente Curricular: Máquinas Térmicas Carga Horária: 80 Período Letivo: 2º ANO Ementa:** Termodinâmica; Ciclo de Carnot; Ciclos reais; Teoria da Combustão; Máquinas térmicas. 
+- SCHMIDT, F. W. Introdução às Ciências Térmicas. 2ª Edição. São Paulo. Editora Blucher. 1996. - QUADROS, S. Termodinâmica e a Invenção das Máquinas Térmicas. 1ª Edição. São Paulo. Editora Scipione. 1996.
 
-## **Bibliografia Básica:** 
+- ª
 
-- SCHMIDT, F. W. Introdução às Ciências Térmicas. 2ª Edição. São Paulo. Editora Blucher. 1996. - QUADROS, S. Termodinâmica e a Invenção das Máquinas Térmicas. 1ª Edição. São Paulo. Editora Scipione. 1996. 
+- WILEN, G. J. Van. Fundamentos da Termodinâmica Clássica. 4 Edição. São Paulo. Editora Blucher.
 
-- ª 
+## **Bibliografia Complementar:**
 
-- WILEN, G. J. Van. Fundamentos da Termodinâmica Clássica. 4 Edição. São Paulo. Editora Blucher. 
+- MORAN, M. Princípios de Termodinâmica para Engenharia. 6ª Edição. São Paulo. Editora LTC. 2009. - INCROPERA, F. Fundamentos de Transferência de Calor e de Massa. 6ª Edição. São Paulo. Editora LTC. 2008.
 
-## **Bibliografia Complementar:** 
+- ª COSTA, E. C. Refrigeração. 3 Edição. São Paulo. Editora Edgard Blucher. 1982
 
-- MORAN, M. Princípios de Termodinâmica para Engenharia. 6ª Edição. São Paulo. Editora LTC. 2009. - INCROPERA, F. Fundamentos de Transferência de Calor e de Massa. 6ª Edição. São Paulo. Editora LTC. 2008. 
+INSTITUTOFEDERAL<br>PARANA<br>MinisteriodaEducacao InstitutoFederaldoParana
 
-- ª COSTA, E. C. Refrigeração. 3 Edição. São Paulo. Editora Edgard Blucher. 1982 
+## **Campus Curitiba do IFPR**
 
-31 
+**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular: Resistência dos Materiais e Elementos de Máquinas Carga Horária: 240 Período Letivo: 2º ANO**
 
-**==> picture [69 x 16] intentionally omitted <==**
+**Ementa:** Estática de uma partícula e de um corpo rígido; Momentos de Inércia Planar e Polar; Torque e Potência em Elementos Rotativos; Conceitos de Tensão e Deformação; Elasticidade e Lei de Hooke; Tensões Admissíveis e Coeficiente de Segurança. Esforços Puros: Tração; Compressão; Cisalhamento; Flexão; e Torção. Diagramas de Momento Fletor e Esforço Cortante; Esforços Cíclicos. Sistemas de transmissão; Transmissão por correias; Transmissão por engrenagens; Redutores e Motoredutores; Principais elementos de máquinas (eixos, chavetas e acoplamentos, parafusos, rebites e molas); Mancais de rolamentos e de deslizamentos.
 
-**----- Start of picture text -----**<br>
-INSTITUTOFEDERAL<br>PARANA<br>**----- End of picture text -----**<br>
+## **Bibliografia Básica:**
 
+- MELCONIAN, S. Mecânica Técnica e Resistência dos Materiais. 18ª Edição. São Paulo. Editora Érica. 2008.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+- MELCONIAN, S. Elementos de Máquinas. 9ª Edição. São Paulo. Editora Érica. 2009.
 
-## **Campus Curitiba do IFPR** 
+- HIBBELER, R. C. Estática. 12ª Edição. São Paulo. Editora Pearson. 2011.
 
-**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular: Resistência dos Materiais e Elementos de Máquinas Carga Horária: 240 Período Letivo: 2º ANO** 
+- HIBBELER, R. C. Dinâmica– 12ª Edição. São Paulo. Editora Pearson. 2011.
 
-**Ementa:** Estática de uma partícula e de um corpo rígido; Momentos de Inércia Planar e Polar; Torque e Potência em Elementos Rotativos; Conceitos de Tensão e Deformação; Elasticidade e Lei de Hooke; Tensões Admissíveis e Coeficiente de Segurança. Esforços Puros: Tração; Compressão; Cisalhamento; Flexão; e Torção. Diagramas de Momento Fletor e Esforço Cortante; Esforços Cíclicos. Sistemas de transmissão; Transmissão por correias; Transmissão por engrenagens; Redutores e Motoredutores; Principais elementos de máquinas (eixos, chavetas e acoplamentos, parafusos, rebites e molas); Mancais de rolamentos e de deslizamentos. 
+## **Bibliografia Complementar:**
 
-## **Bibliografia Básica:** 
+- HIBBELER, R. C. Resistência dos Materiais. 7ª Edição. São Paulo. Editora Pearson. 2010.
 
-- MELCONIAN, S. Mecânica Técnica e Resistência dos Materiais. 18ª Edição. São Paulo. Editora Érica. 2008. 
+- COLLINS, J. A. Projetos Mecânicos de Elementos de Máquinas. 1ª Edição. São Paulo. Editora LTC. 2006. - – ª BUDINAS, R. G. Elementos de Máquinas de Shigley Projeto de Engenharia Mecânica. 8 Edição.
 
-- MELCONIAN, S. Elementos de Máquinas. 9ª Edição. São Paulo. Editora Érica. 2009. 
+32
 
-- HIBBELER, R. C. Estática. 12ª Edição. São Paulo. Editora Pearson. 2011. 
+INSTITUTOFEDERAL PARANA
 
-- HIBBELER, R. C. Dinâmica– 12ª Edição. São Paulo. Editora Pearson. 2011. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-## **Bibliografia Complementar:** 
+## **Campus Curitiba do IFPR**
 
-- HIBBELER, R. C. Resistência dos Materiais. 7ª Edição. São Paulo. Editora Pearson. 2010. 
+**Curso: Mecânica Integrado**
 
-- COLLINS, J. A. Projetos Mecânicos de Elementos de Máquinas. 1ª Edição. São Paulo. Editora LTC. 2006. - – ª BUDINAS, R. G. Elementos de Máquinas de Shigley Projeto de Engenharia Mecânica. 8 Edição. 
+**Eixo Tecnológico: Controle e Processos Industriais**
 
-32 
+**Componente Curricular: Processos de Fabricação Carga Horária: 80 Período Letivo: 2º ANO**
 
-INSTITUTOFEDERAL PARANA 
+**Ementa:** Classificação dos processos; Processos de conformação mecânica: laminação, forjamento, extrusão, trefilação e estampagem; Processos de fundição: em molde de areia, em molde metálico, de precisão; Processos de Soldagem: eletrodo revestido, TIG, MIG/MAG, arco submerso, soldagem por resistência, soldagem a gás, brasagem, entre outros; Metalurgia do Pó.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## **Bibliografia Básica:**
 
-## **Campus Curitiba do IFPR** 
+- WAINER, E. Soldagem, Processos e Metalurgia. São Paulo. Editora Blucher. 1995. - HELMAN, H. Fundamentos da Conformação Mecânica dos Materiais. São Paulo. Editora Artliber. 2005. - TORRE, J. Manual Prático de Fundição e Elementos de Corrosão. São Paulo. Editora Hemus. 2004.
 
-**Curso: Mecânica Integrado** 
+## **Bibliografia Complementar:**
 
-**Eixo Tecnológico: Controle e Processos Industriais** 
+- MARQUES, P. V.; MODENESI, P. J. Soldagem – Fundamentos e Tecnologia. 3ª Edição. Belo Horizonte. Editora UFMG. 2009.
 
-**Componente Curricular: Processos de Fabricação Carga Horária: 80 Período Letivo: 2º ANO** 
+- PARIS, A. A. F. de. Tecnologia da Soldagem de Ferros Fundidos. Porto Alegre. Editora UFSM. 2003. - BRESCIANI FILHO, E. Conformação Plástica dos Metais. São Paulo. Editora Unicamp. 1997. - RIZZO, E. M. da S. Processos de Laminação dos Aços – Uma Introdução. Rio de Janeiro. Editora ABM. 2007.
 
-**Ementa:** Classificação dos processos; Processos de conformação mecânica: laminação, forjamento, extrusão, trefilação e estampagem; Processos de fundição: em molde de areia, em molde metálico, de precisão; Processos de Soldagem: eletrodo revestido, TIG, MIG/MAG, arco submerso, soldagem por resistência, soldagem a gás, brasagem, entre outros; Metalurgia do Pó. 
+33
 
-## **Bibliografia Básica:** 
+INSTITUTOFEDERAL PARANA
 
-- WAINER, E. Soldagem, Processos e Metalurgia. São Paulo. Editora Blucher. 1995. - HELMAN, H. Fundamentos da Conformação Mecânica dos Materiais. São Paulo. Editora Artliber. 2005. - TORRE, J. Manual Prático de Fundição e Elementos de Corrosão. São Paulo. Editora Hemus. 2004. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-## **Bibliografia Complementar:** 
+## **Campus Curitiba do IFPR**
 
-- MARQUES, P. V.; MODENESI, P. J. Soldagem – Fundamentos e Tecnologia. 3ª Edição. Belo Horizonte. Editora UFMG. 2009. 
+**Curso: Mecânica Integrado**
 
-- PARIS, A. A. F. de. Tecnologia da Soldagem de Ferros Fundidos. Porto Alegre. Editora UFSM. 2003. - BRESCIANI FILHO, E. Conformação Plástica dos Metais. São Paulo. Editora Unicamp. 1997. - RIZZO, E. M. da S. Processos de Laminação dos Aços – Uma Introdução. Rio de Janeiro. Editora ABM. 2007. 
+**Eixo Tecnológico: Controle e Processos Industriais**
 
-33 
+**Componente Curricular: Programação, Planejamento e Controle da Produção Carga Horária: 80 Período Letivo: 3º ANO**
 
-INSTITUTOFEDERAL PARANA 
+**Ementa:** Estrutura e Características de Sistemas de Produção: Sistemas Contínuos, Sistemas em Lotes, Sistemas por Projetos; Planejamento Agregado da Produção: Dimensionamento de Capacidade; Previsão de Demanda- Médias Móveis, Alisamento Exponencial Simples, Regressão Linear, Métodos para Demanda Sazonal; Planejamento Mestre da Produção: Dimensionamento de Leiaute de Sistemas Produtivos: Leiaute por Produto, Leiaute por Processo, Células de Manufatura; Elaboração de Plano Mestre; Modelagem Matemática para Planejamento Mestre da Produção; Programação da Produção: Gestão de Estoques; MRP; Sistemas Just-in-Time; Sistemas Kanban.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## **Bibliografia Básica:**
 
-## **Campus Curitiba do IFPR** 
+- TUBINO, D. F. Planejamento e Controle da Produção - Teoria e Prática - 2ª Edição. São Paulo. Editora Átlas. 2009
 
-**Curso: Mecânica Integrado** 
+- MARTINS, P.G.; LAUGENI, F. – Administração da Produção. 2ª Edição. São Paulo. Editora Saraiva. 2005.
 
-**Eixo Tecnológico: Controle e Processos Industriais** 
+- ª PALADINI, E. P. Gestão da Qualidade. 1 Edição. São Paulo. Editora Átlas. 2004.
 
-**Componente Curricular: Programação, Planejamento e Controle da Produção Carga Horária: 80 Período Letivo: 3º ANO** 
+## **Bibliografia Complementar:**
 
-**Ementa:** Estrutura e Características de Sistemas de Produção: Sistemas Contínuos, Sistemas em Lotes, Sistemas por Projetos; Planejamento Agregado da Produção: Dimensionamento de Capacidade; Previsão de Demanda- Médias Móveis, Alisamento Exponencial Simples, Regressão Linear, Métodos para Demanda Sazonal; Planejamento Mestre da Produção: Dimensionamento de Leiaute de Sistemas Produtivos: Leiaute por Produto, Leiaute por Processo, Células de Manufatura; Elaboração de Plano Mestre; Modelagem Matemática para Planejamento Mestre da Produção; Programação da Produção: Gestão de Estoques; MRP; Sistemas Just-in-Time; Sistemas Kanban. 
+- ROBLES Jr, A.; BONELLI, V. Gestão da Qualidade e do Meio Ambiente: Enfoque Econômico, Financeiro e Patrimonial. 1ª Edição. São Paulo. Editora Átlas. 2006.
 
-## **Bibliografia Básica:** 
+- SLACK, N. Administração da Produção. 3ª Edição. São Paulo. Editora Atlas. 2009. - ª PARANHOS FILHO, M. Gestão da Produção Industrial. 1 Edição. Editora IBPEX. 2008.
 
-- TUBINO, D. F. Planejamento e Controle da Produção - Teoria e Prática - 2ª Edição. São Paulo. Editora Átlas. 2009 
+INSTITUTOFEDERAL<br>PARANA<br>MinisteriodaEducacao InstitutoFederaldoParana
 
-- MARTINS, P.G.; LAUGENI, F. – Administração da Produção. 2ª Edição. São Paulo. Editora Saraiva. 2005. 
+## **Campus Curitiba do IFPR**
 
-- ª PALADINI, E. P. Gestão da Qualidade. 1 Edição. São Paulo. Editora Átlas. 2004. 
+**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular: Manutenção Industrial Carga Horária: 80 Período Letivo: 3º ANO**
 
-## **Bibliografia Complementar:** 
+**Ementa:** Introdução à Gestão da Manutenção. Organização da Manutenção. Fator Humano na Manutenção. PCM – Planejamento e Controle da Manutenção. Filosofias da Manutenção. Organogramas Práticos de Manutenção. Ensaios Não Destrutivos. Análise de Falhas. Mecânica da Fratura.
 
-- ROBLES Jr, A.; BONELLI, V. Gestão da Qualidade e do Meio Ambiente: Enfoque Econômico, Financeiro e Patrimonial. 1ª Edição. São Paulo. Editora Átlas. 2006. 
+**Bibliografia Básica:** - RODRIGUES, M. Gestão da Manutenção Elétrica, Eletrônica e Mecânica. 22ª Edição. Curitiba. Editora Base Editorial. 2010. - KARDEC, A.; NASCIF, J. Manutenção: função estratégica. 3ª Edição. Rio de Janeiro. Editora Qualitmark. 2009. - VIANA, H. R. G. Planejamento e Controle de Manutenção. 2ª Edição. Rio de Janeiro. Editora Qualitmark. 2008. **Bibliografia Complementar:** - LAFRAIA, J. R. B. Manual de Confiabilidade, Manutenabilidade e Disponibilidade. 3ª Edição. Rio de Janeiro. Editora Qualitmark. 2009. - FOGLIATTO, F. S. Confiabilidade e Manutenção Industrial. 1ª Edição. Rio de Janeiro. Editora Campus. 2009. - VERRI, L. A. Gerenciamento Pela Qualidade Total na Manutenção Industrial. 1ª Edição. Rio de Janeiro. Editora Qualitmark. 2007. - Manuais de Equipamentos.
 
-- SLACK, N. Administração da Produção. 3ª Edição. São Paulo. Editora Atlas. 2009. - ª PARANHOS FILHO, M. Gestão da Produção Industrial. 1 Edição. Editora IBPEX. 2008. 
+INSTITUTOFEDERAL<br>PARANA<br>MinisteriodaEducacao InstitutoFederaldoParana
 
-34 
+## **Campus Curitiba do IFPR**
 
-**==> picture [69 x 16] intentionally omitted <==**
+**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular: Usinagem Carga Horária: 120 Período Letivo: 3º ANO**
 
-**----- Start of picture text -----**<br>
-INSTITUTOFEDERAL<br>PARANA<br>**----- End of picture text -----**<br>
+**Ementa:** Classificação dos processos e das máquinas de usinagem; Terminologia e conceitos básicos sobre os movimentos e as relações geométricas do processo de usinagem; Ferramentas para usinagem; Princípios de usinagem dos materiais; Fluidos de corte; Processos convencionais de usinagem com geometria definida e não definida; Processos não convencionais de usinagem; Planejamento de usinagem.
 
+## **Bibliografia Básica:**
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+- FERRARESI, D. Fundamentos da Usinagem dos Metais. São Paulo, Editora Blucher. 2003. - STEMMER, C. E. Ferramentas de Corte I. 6ª Edição. Florianópolis. Editora UFSC. 2005. - STEMMER, C. E. Ferramentas de Corte II. 3ª Edição. Florianópolis. Editora UFSC. 2003. - MACHADO, A. R.; COELHO, R. T.; ABRÃO, A. M. Teoria da Usinagem dos Materiais. São Paulo. Editora Blucher. 2009.
 
-## **Campus Curitiba do IFPR** 
+## **Bibliografia Complementar:**
 
-**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular: Manutenção Industrial Carga Horária: 80 Período Letivo: 3º ANO** 
+- SANDVIK, C. Corokey. O seu Guia para Produtividade. 6ª Edição. São Paulo. Editora Sandvik. 2005. - SANDVIK, C. Corokey. Ferramentas para Torneamento: produtos para usinagem. São Paulo. Editora Sandvik. 2002.
 
-**Ementa:** Introdução à Gestão da Manutenção. Organização da Manutenção. Fator Humano na Manutenção. PCM – Planejamento e Controle da Manutenção. Filosofias da Manutenção. Organogramas Práticos de Manutenção. Ensaios Não Destrutivos. Análise de Falhas. Mecânica da Fratura. 
+- BIANCHI, E. C.; AGUIAR, P. R.; PIUBELI, B. A. Aplicação e Utilização dos Fluídos de Corte nos Processos de Retificação. São Paulo. Editora Artliber. 2004.
 
-**Bibliografia Básica:** - RODRIGUES, M. Gestão da Manutenção Elétrica, Eletrônica e Mecânica. 22ª Edição. Curitiba. Editora Base Editorial. 2010. - KARDEC, A.; NASCIF, J. Manutenção: função estratégica. 3ª Edição. Rio de Janeiro. Editora Qualitmark. 2009. - VIANA, H. R. G. Planejamento e Controle de Manutenção. 2ª Edição. Rio de Janeiro. Editora Qualitmark. 2008. **Bibliografia Complementar:** - LAFRAIA, J. R. B. Manual de Confiabilidade, Manutenabilidade e Disponibilidade. 3ª Edição. Rio de Janeiro. Editora Qualitmark. 2009. - FOGLIATTO, F. S. Confiabilidade e Manutenção Industrial. 1ª Edição. Rio de Janeiro. Editora Campus. 2009. - VERRI, L. A. Gerenciamento Pela Qualidade Total na Manutenção Industrial. 1ª Edição. Rio de Janeiro. Editora Qualitmark. 2007. - Manuais de Equipamentos. 
+- SANTOS, S. C.; SALES, W. F. Aspectos Tribológicos da Usinagem dos Materiais. São Paulo. Editora Artliber. 2007.
 
-35 
+- Catálogos de fabricantes de ferramentas de corte.
 
-**==> picture [69 x 16] intentionally omitted <==**
+36
 
-**----- Start of picture text -----**<br>
-INSTITUTOFEDERAL<br>PARANA<br>**----- End of picture text -----**<br>
+INSTITUTOFEDERAL PARANA
 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## **Campus Curitiba do IFPR**
 
-## **Campus Curitiba do IFPR** 
+## **Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais**
 
-**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular: Usinagem Carga Horária: 120 Período Letivo: 3º ANO** 
+**Componente Curricular: Comando Numérico Computadorizado Carga Horária: 80 Período Letivo: 3º ANO**
 
-**Ementa:** Classificação dos processos e das máquinas de usinagem; Terminologia e conceitos básicos sobre os movimentos e as relações geométricas do processo de usinagem; Ferramentas para usinagem; Princípios de usinagem dos materiais; Fluidos de corte; Processos convencionais de usinagem com geometria definida e não definida; Processos não convencionais de usinagem; Planejamento de usinagem. 
+**Ementa:** Automatização dos processos de usinagem; Planejamento dos processos de usinagem (CAPP); Estrutura da programação CNC (comando numérico computadorizado); Programação assistida por computador (CAD, CAM); Integração de dados e operação; Manufatura integrada por computador (CIM).
 
-## **Bibliografia Básica:** 
+## **Bibliografia Básica:**
 
-- FERRARESI, D. Fundamentos da Usinagem dos Metais. São Paulo, Editora Blucher. 2003. - STEMMER, C. E. Ferramentas de Corte I. 6ª Edição. Florianópolis. Editora UFSC. 2005. - STEMMER, C. E. Ferramentas de Corte II. 3ª Edição. Florianópolis. Editora UFSC. 2003. - MACHADO, A. R.; COELHO, R. T.; ABRÃO, A. M. Teoria da Usinagem dos Materiais. São Paulo. Editora Blucher. 2009. 
+- CASSANIGA, F. A. Fácil Programação do Controle Numérico. 1ª Edição. Sorocaba. Editora CNC Tecnologia. 2005.
 
-## **Bibliografia Complementar:** 
+- CASSANIGA, F. A. Fácil Programação do Controle Numérico FANUC. 1ª Edição. Sorocaba. Editora CNC Tecnologia. 2005.
 
-- SANDVIK, C. Corokey. O seu Guia para Produtividade. 6ª Edição. São Paulo. Editora Sandvik. 2005. - SANDVIK, C. Corokey. Ferramentas para Torneamento: produtos para usinagem. São Paulo. Editora Sandvik. 2002. 
+- SILVA, S. D. da. CNC – Programação de Comandos Numéricos Computadorizados – Torneamento. 8ª Edição. São Paulo. Editora Érica. 2008.
 
-- BIANCHI, E. C.; AGUIAR, P. R.; PIUBELI, B. A. Aplicação e Utilização dos Fluídos de Corte nos Processos de Retificação. São Paulo. Editora Artliber. 2004. 
+## **Bibliografia Complementar:**
 
-- SANTOS, S. C.; SALES, W. F. Aspectos Tribológicos da Usinagem dos Materiais. São Paulo. Editora Artliber. 2007. 
+- FERRARESI, D. Fundamentos da Usinagem dos Metais. São Paulo, Editora Blucher. 2003.
 
-- Catálogos de fabricantes de ferramentas de corte. 
+- SOUZA, A. F. de; ULBRICH, C. B. L. Engenharia Integrada por Computador e Sistemas CAD/CAM/CNC – Princípios e Aplicações. 1ª Edição. São Paulo. Editora Artibler. 2009. - Catálogos de fabricantes de ferramentas.
 
-36 
+37
 
-INSTITUTOFEDERAL PARANA 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-## **Campus Curitiba do IFPR** 
+## **Campus Curitiba do IFPR**
 
-## **Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais** 
+**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular: Projetos Mecânicos Carga Horária: 120 Período Letivo: 3º ANO**
 
-**Componente Curricular: Comando Numérico Computadorizado Carga Horária: 80 Período Letivo: 3º ANO** 
+**Ementa:** Levantamento analítico do problema; Solução técnica; Ante-projeto; Montagem do projeto; Desenho do conjunto mecânico; Lista de peças; Detalhamento para fabricação; Memorial de especificações; Ferramentas de desenvolvimento de projeto. **Bibliografia Básica:**
 
-**Ementa:** Automatização dos processos de usinagem; Planejamento dos processos de usinagem (CAPP); Estrutura da programação CNC (comando numérico computadorizado); Programação assistida por computador (CAD, CAM); Integração de dados e operação; Manufatura integrada por computador (CIM). 
+- SHIGLEY, J. E. Projeto de Engenharia Mecânica. 7ª Edição. Porto Alegre. Editora Bookman. 2005. - NORTON, R. Projeto de Máquinas. 2ª Edição. Porto Alegre. Editora Bookman. 2004. - COLLINS, J. A. Projetos Mecânicos de Elementos de Máquinas. 1ª Edição. São Paulo. Editora LTC. 2006.
 
-## **Bibliografia Básica:** 
+## **Bibliografia Complementar:**
 
-- CASSANIGA, F. A. Fácil Programação do Controle Numérico. 1ª Edição. Sorocaba. Editora CNC Tecnologia. 2005. 
+- MATTAR, J. Metodologia Científica na Era da Informática. 3ª Edição. São Paulo. Editora Saraiva. 2008. - FACHIN, O. Fundamentos de Metodologia. 5ª Edição. São Paulo. Editora Saraiva. 2006. - PAHL, G.; BEITZ, W.; FELDHUSEN, J.; GROTE, K. H. Projeto na Engenharia. 1ª Edição. São Paulo. Blucher. 2005.
 
-- CASSANIGA, F. A. Fácil Programação do Controle Numérico FANUC. 1ª Edição. Sorocaba. Editora CNC Tecnologia. 2005. 
+38
 
-- SILVA, S. D. da. CNC – Programação de Comandos Numéricos Computadorizados – Torneamento. 8ª Edição. São Paulo. Editora Érica. 2008. 
+INSTITUTOFEDERAL PARANA
 
-## **Bibliografia Complementar:** 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-- FERRARESI, D. Fundamentos da Usinagem dos Metais. São Paulo, Editora Blucher. 2003. 
+## **Campus Curitiba do IFPR**
 
-- SOUZA, A. F. de; ULBRICH, C. B. L. Engenharia Integrada por Computador e Sistemas CAD/CAM/CNC – Princípios e Aplicações. 1ª Edição. São Paulo. Editora Artibler. 2009. - Catálogos de fabricantes de ferramentas. 
+**Curso: Mecânica Integrado**
 
-37 
-
-INSTITUTOFEDERAL PARANA 
-
-MinisteriodaEducacao InstitutoFederaldoParana 
-
-## **Campus Curitiba do IFPR** 
-
-**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular: Projetos Mecânicos Carga Horária: 120 Período Letivo: 3º ANO** 
-
-**Ementa:** Levantamento analítico do problema; Solução técnica; Ante-projeto; Montagem do projeto; Desenho do conjunto mecânico; Lista de peças; Detalhamento para fabricação; Memorial de especificações; Ferramentas de desenvolvimento de projeto. **Bibliografia Básica:** 
-
-- SHIGLEY, J. E. Projeto de Engenharia Mecânica. 7ª Edição. Porto Alegre. Editora Bookman. 2005. - NORTON, R. Projeto de Máquinas. 2ª Edição. Porto Alegre. Editora Bookman. 2004. - COLLINS, J. A. Projetos Mecânicos de Elementos de Máquinas. 1ª Edição. São Paulo. Editora LTC. 2006. 
-
-## **Bibliografia Complementar:** 
-
-- MATTAR, J. Metodologia Científica na Era da Informática. 3ª Edição. São Paulo. Editora Saraiva. 2008. - FACHIN, O. Fundamentos de Metodologia. 5ª Edição. São Paulo. Editora Saraiva. 2006. - PAHL, G.; BEITZ, W.; FELDHUSEN, J.; GROTE, K. H. Projeto na Engenharia. 1ª Edição. São Paulo. Blucher. 2005. 
-
-38 
-
-INSTITUTOFEDERAL PARANA 
-
-MinisteriodaEducacao InstitutoFederaldoParana 
-
-## **Campus Curitiba do IFPR** 
-
-**Curso: Mecânica Integrado** 
-
-## **Eixo Tecnológico: Controle e Processos Industriais** 
+## **Eixo Tecnológico: Controle e Processos Industriais**
 
 |**Processos Industriais**|**Processos Industriais**|
 |---|---|
 |**Componente Curricular:Gestão da Qualidade e Meio Ambiente**||
 |**Carga Horária: 40**|**Período Letivo: 3º ANO**|
 
+**Ementa: Gestão da Qualidade:** Os processos e suas interações na qualidade do produto. Certificação da Qualidade -  ISO 9001:2008. Auditoria Interna. Satisfação dos Clientes. **Gestão do Meio Ambiente:** Certificação do Meio Ambiente -  ISO 14000: 2004. Sustentabilidade. Processos de Reciclagem. Tratamento de Resíduos. Órgãos Ambientais. Energias renováveis ( Solar, Eólica, Biomassa, etc.). Reaproveitamento de água.
 
+## **Bibliografia Básica:**
 
-**Ementa: Gestão da Qualidade:** Os processos e suas interações na qualidade do produto. Certificação da Qualidade -  ISO 9001:2008. Auditoria Interna. Satisfação dos Clientes. **Gestão do Meio Ambiente:** Certificação do Meio Ambiente -  ISO 14000: 2004. Sustentabilidade. Processos de Reciclagem. Tratamento de Resíduos. Órgãos Ambientais. Energias renováveis ( Solar, Eólica, Biomassa, etc.). Reaproveitamento de água. 
+- MELLO, Carlos Henrique Pereira – ISO 9001:2008: Sistema de Gestão da Qualidade para operações de produção e serviços, 2009.
 
-## **Bibliografia Básica:** 
+- DE SORDI, JOSÉ OSVALDO, Gestão por Processos: Uma Abordagem da Moderna Administração. 2 ed. São Paulo, Saraiva, 2008.
 
-- MELLO, Carlos Henrique Pereira – ISO 9001:2008: Sistema de Gestão da Qualidade para operações de produção e serviços, 2009. 
+- PALADINI, Edson Pacheco, Gestão da Qualidade. 2 ed. São Paulo: Atlas, 2004.
 
-- DE SORDI, JOSÉ OSVALDO, Gestão por Processos: Uma Abordagem da Moderna Administração. 2 ed. São Paulo, Saraiva, 2008. 
+- SEIFFERT, Mari Elizabete Bernardini – ISO 14001: Sistema de Gestão Ambiental: Implantação Objetiva e Econômica.  4ª  Edição, 2011.
 
-- PALADINI, Edson Pacheco, Gestão da Qualidade. 2 ed. São Paulo: Atlas, 2004. 
+- BECHARA, E., Licenciamento e Compensação Ambiental. 1ª edição – Atlas.
 
-- SEIFFERT, Mari Elizabete Bernardini – ISO 14001: Sistema de Gestão Ambiental: Implantação Objetiva e Econômica.  4ª  Edição, 2011. 
+- **Bibliografia Complementar:** - MARANHÃO, M. ISO Série 9000- manual de implementação versão 2000. Rio de Janeiro. Qualitymark, 2006.
 
-- BECHARA, E., Licenciamento e Compensação Ambiental. 1ª edição – Atlas. 
+- OLIVEIRA, O. (ORG.) Gestão da qualidade: tópicos avançados. São Paulo: Thomson Learning, 2004. 29 exemplares
 
-- **Bibliografia Complementar:** - MARANHÃO, M. ISO Série 9000- manual de implementação versão 2000. Rio de Janeiro. Qualitymark, 2006. 
+- CARVALHO, M. M. et al. Gestão da qualidade: teoria e casos. Rio de Janeiro: Elsevier, 2006. Fiorillo, C. A. P., Licenciamento Ambiental _._ – Editora Saraiva.
 
-- OLIVEIRA, O. (ORG.) Gestão da qualidade: tópicos avançados. São Paulo: Thomson Learning, 2004. 29 exemplares 
+39
 
-- CARVALHO, M. M. et al. Gestão da qualidade: teoria e casos. Rio de Janeiro: Elsevier, 2006. Fiorillo, C. A. P., Licenciamento Ambiental _._ – Editora Saraiva. 
+INSTITUTOFEDERAL PARANA
 
-39 
-
-INSTITUTOFEDERAL PARANA 
-
-MinisteriodaEducacao InstitutoFederaldoParana 
+MinisteriodaEducacao InstitutoFederaldoParana
 
 |**Câmpus Curitiba do IFPR**|**Câmpus Curitiba do IFPR**|**Câmpus Curitiba do IFPR**|
 |---|---|---|
@@ -1312,1590 +1118,1442 @@ MinisteriodaEducacao InstitutoFederaldoParana
 |**Componente Curricular**: Língua Portuguesa I|||
 |**Carga Horária** (hora aula): 120||**Período letivo: 1º ano**|
 
+## _**Ementa:**_
 
+_Literatura Brasileira: O que é literatura – Introdução ao estudo de literatura; Gêneros literários, estilos de época; Quinhentismo – Principais autores, principais características, textos significativos, leitura e análise literária; Barroco – Principais autores, principais características, textos significativos, leitura e análise literária; Arcadismo – Principais autores, principais características, textos significativos, leitura e análise literária. Produção de texto (escrito): diversidade de propostas, conforme especificidade de cada turma e temas da atualidade. Resumo, resenha, parágrafo dissertativo. Produção de texto (oral): debates, seminários com clareza de ideias, articulação de fala, informação/ conteúdo bem fundamentada(o) e vocabulário pertinente. Conhecimentos linguísticos: ortografia. Análise linguística de situações presentes em textos produzidos pelos alunos._
 
-## _**Ementa:**_ 
+## **Bibliografia Básica:**
 
-_Literatura Brasileira: O que é literatura – Introdução ao estudo de literatura; Gêneros literários, estilos de época; Quinhentismo – Principais autores, principais características, textos significativos, leitura e análise literária; Barroco – Principais autores, principais características, textos significativos, leitura e análise literária; Arcadismo – Principais autores, principais características, textos significativos, leitura e análise literária. Produção de texto (escrito): diversidade de propostas, conforme especificidade de cada turma e temas da atualidade. Resumo, resenha, parágrafo dissertativo. Produção de texto (oral): debates, seminários com clareza de ideias, articulação de fala, informação/ conteúdo bem fundamentada(o) e vocabulário pertinente. Conhecimentos linguísticos: ortografia. Análise linguística de situações presentes em textos produzidos pelos alunos._ 
+BOSI, Alfredo. _História concisa da literatura brasileira._ 3. ed. São Paulo: Cultrix, 1985. CAMPOS, Elizabeth Marques. _Viva Português: ensino médio_ . São Paulo: Ática, 2010. POSSENTI, Sírio. _Por que (não) ensinar gramática na escola_ . Campinas, SP: Mercado das Letras, 1996.
 
-## **Bibliografia Básica:** 
+## **Bibliografia Complementar:**
 
-BOSI, Alfredo. _História concisa da literatura brasileira._ 3. ed. São Paulo: Cultrix, 1985. CAMPOS, Elizabeth Marques. _Viva Português: ensino médio_ . São Paulo: Ática, 2010. POSSENTI, Sírio. _Por que (não) ensinar gramática na escola_ . Campinas, SP: Mercado das Letras, 1996. 
+BAGNO, Marcos. _Preconceito linguístico_ . O que é, como se faz.54. ed. São Paulo: Edições Loyola, 2011. BORTONI-RICARDO, Stella Maris. _Educação em língua materna: a sociolingüística na sala de aula._ São Paulo: Parábola Editorial, 2004. KOCH, Ingedore. _A coesão textual_ . São Paulo: Contexto, 1999. KOCH, Ingedore; TRAVAGLIA, Luiz Carlos. _Texto e Coerência_ . São Paulo: Cortez, 1999. Dicionários de língua portuguesa.
 
-## **Bibliografia Complementar:** 
+40
 
-BAGNO, Marcos. _Preconceito linguístico_ . O que é, como se faz.54. ed. São Paulo: Edições Loyola, 2011. BORTONI-RICARDO, Stella Maris. _Educação em língua materna: a sociolingüística na sala de aula._ São Paulo: Parábola Editorial, 2004. KOCH, Ingedore. _A coesão textual_ . São Paulo: Contexto, 1999. KOCH, Ingedore; TRAVAGLIA, Luiz Carlos. _Texto e Coerência_ . São Paulo: Cortez, 1999. Dicionários de língua portuguesa. 
+INSTITUTOFEDERAL PARANA
 
-40 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-INSTITUTOFEDERAL PARANA 
+## **Câmpus Curitiba do IFPR**
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular** : Língua Portuguesa II **Carga Horária** (hora aula): 80 **Período letivo: 2º**
 
-## **Câmpus Curitiba do IFPR** 
+**Ementa:**
 
-**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular** : Língua Portuguesa II **Carga Horária** (hora aula): 80 **Período letivo: 2º** 
+## **LITERATURA**
 
-**Ementa:** 
+Romantismo, Ultrarromantismo, Realismo, Naturalismo, Parnasianismo, Simbolismo
 
-## **LITERATURA** 
+## **GRAMÁTICA**
 
-Romantismo, Ultrarromantismo, Realismo, Naturalismo, Parnasianismo, Simbolismo 
+Substantivo, Adjetivo, Artigo e numeral, Pronome, Verbo, Advérbio, Preposição e conjunção, Interjeição, Sujeito e predicado, Objetos e adjuntos, Tipos de predicado e predicativo, Tipos de sujeito, Adjunto adnominal e complemento nominal, Aposto e vocativo
 
-## **GRAMÁTICA** 
+## **PRODUÇÃO DE TEXTO – GÊNEROS TEXTUAIS**
 
-Substantivo, Adjetivo, Artigo e numeral, Pronome, Verbo, Advérbio, Preposição e conjunção, Interjeição, Sujeito e predicado, Objetos e adjuntos, Tipos de predicado e predicativo, Tipos de sujeito, Adjunto adnominal e complemento nominal, Aposto e vocativo 
+Campanha comunitária, Mesa-redonda, Conto, Notícia, Entrevista, Reportagem, Anúncio publicitário, Crítica
 
-## **PRODUÇÃO DE TEXTO – GÊNEROS TEXTUAIS** 
+## **LEITURA E INTERPRETAÇÃO DE TEXTO**
 
-Campanha comunitária, Mesa-redonda, Conto, Notícia, Entrevista, Reportagem, Anúncio publicitário, Crítica 
+Explicação e demonstração, Justificação e conclusão, Hipóteses e relação, Inferência e interpretação
 
-## **LEITURA E INTERPRETAÇÃO DE TEXTO** 
+## **Bibliografia Básica:**
 
-Explicação e demonstração, Justificação e conclusão, Hipóteses e relação, Inferência e interpretação 
+BOSI, Alfredo. História concisa da literatura brasileira. 48. ed. São Paulo: Cultrix, 2012. CEREJA, Willian Roberto; MAGALHÃES, Thereza Analia Cochar. Português : linguagens: volume 2 : ensino médio . 7. ed. rev. e ampl. São Paulo: Atual, 2010 FIORIN, José Luiz; SAVIOLI, Francisco Platão. Para entender o texto: leitura e redação. 17. ed. São Paulo: Ática, 2007
 
-## **Bibliografia Básica:** 
+## **Bibliografia Complementar:**
 
-BOSI, Alfredo. História concisa da literatura brasileira. 48. ed. São Paulo: Cultrix, 2012. CEREJA, Willian Roberto; MAGALHÃES, Thereza Analia Cochar. Português : linguagens: volume 2 : ensino médio . 7. ed. rev. e ampl. São Paulo: Atual, 2010 FIORIN, José Luiz; SAVIOLI, Francisco Platão. Para entender o texto: leitura e redação. 17. ed. São Paulo: Ática, 2007 
+GARCIA, Othon Moacyr. Comunicação em prosa moderna: aprenda a escrever, aprendendo a pensar. 10 ed. Rio de Janeiro: FGV, 2010 FARACO, Carlos Alberto; TEZZA, Cristóvão. Oficina de texto. 9. ed. Petrópolis: Vozes, 2011 NEVES, Maria Helena de Moura. Gramática de usos do português. 2. ed. São Paulo: UNESP, 2011
 
-## **Bibliografia Complementar:** 
+41
 
-GARCIA, Othon Moacyr. Comunicação em prosa moderna: aprenda a escrever, aprendendo a pensar. 10 ed. Rio de Janeiro: FGV, 2010 FARACO, Carlos Alberto; TEZZA, Cristóvão. Oficina de texto. 9. ed. Petrópolis: Vozes, 2011 NEVES, Maria Helena de Moura. Gramática de usos do português. 2. ed. São Paulo: UNESP, 2011 
+INSTITUTOFEDERAL PARANA
 
-41 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-INSTITUTOFEDERAL PARANA 
+## **Câmpus Curitiba do IFPR**
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular** : Língua Portuguesa III **Carga Horária** (hora aula): 80 **Período letivo: 3º ano**
 
-## **Câmpus Curitiba do IFPR** 
+**Ementa:**
 
-**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular** : Língua Portuguesa III **Carga Horária** (hora aula): 80 **Período letivo: 3º ano** 
+Literatura Brasileira - Pré-Modernismo: contexto histórico, linguagem, principais autores e obras; Modernismo: primeira fase/poesia; Modernismo, 2a fase/prosa regionalista de 30; A poesia da geração de 30; Literatura Contemporânea em todas as suas manifestações: conto, poesia, romance e teatro. Leitura de obras representativas dos períodos estudados. Produção de texto (escrita): diversidade de propostas, conforme especificidade de cada turma e temas da atualidade. Dissertação, argumentação, contra-argumentação em todas as suas modalidades de gênero. Produção de texto (oral): debates e seminários com clareza de ideias, boa articulação de fala, informação/conteúdo bem fundamentada(o) e vocabulário pertinente. Gramática: período composto por subordinação; período composto por coordenação; concordância verbal, concordância nominal; regência verbal e regência nominal; pontuação; ortografia. Análise lingüística de situações presentes em textos produzidos pelos alunos. Leitura: diversos gêneros extraídos de jornais e revistas
 
-**Ementa:** 
+## **Bibliografia Básica:**
 
-Literatura Brasileira - Pré-Modernismo: contexto histórico, linguagem, principais autores e obras; Modernismo: primeira fase/poesia; Modernismo, 2a fase/prosa regionalista de 30; A poesia da geração de 30; Literatura Contemporânea em todas as suas manifestações: conto, poesia, romance e teatro. Leitura de obras representativas dos períodos estudados. Produção de texto (escrita): diversidade de propostas, conforme especificidade de cada turma e temas da atualidade. Dissertação, argumentação, contra-argumentação em todas as suas modalidades de gênero. Produção de texto (oral): debates e seminários com clareza de ideias, boa articulação de fala, informação/conteúdo bem fundamentada(o) e vocabulário pertinente. Gramática: período composto por subordinação; período composto por coordenação; concordância verbal, concordância nominal; regência verbal e regência nominal; pontuação; ortografia. Análise lingüística de situações presentes em textos produzidos pelos alunos. Leitura: diversos gêneros extraídos de jornais e revistas 
+AZEREDO, José Carlos. _Ensino de Português: fundamentos, percursos e objetos._ Rio de Janeiro: Zahar, 2007. MATTOS E SILVA, Rosa Virgínia. _Contradições no Ensino de Português._ São Paulo: Contexto, 1997. PERINI, Mário A. _Para uma nova gramática do português._ São Paulo: Ática, 1995. POSSENTI, Sírio. _Por que (não) ensinar gramática na escola._ Campinas, SP: Mercado das Letras, 1996.
 
-## **Bibliografia Básica:** 
+## **Bibliografia Complementar:**
 
-AZEREDO, José Carlos. _Ensino de Português: fundamentos, percursos e objetos._ Rio de Janeiro: Zahar, 2007. MATTOS E SILVA, Rosa Virgínia. _Contradições no Ensino de Português._ São Paulo: Contexto, 1997. PERINI, Mário A. _Para uma nova gramática do português._ São Paulo: Ática, 1995. POSSENTI, Sírio. _Por que (não) ensinar gramática na escola._ Campinas, SP: Mercado das Letras, 1996. 
+CANDIDO, Antonio. _Literatura e Sociedade._ São Paulo: TAQ, 2000. ECO, Umberto. _Seis Passeios pelos Bosques da Ficção._ São Paulo: Companhia das Letras, 2001. GANCHO. Cândida Vilares. _Como analisar narrativas._ São Paulo: Ática, 2002. KOCH, Ingedore. _As tramas do texto._ Rio de Janeiro: Nova Fronteira, 2008. KOCH, Ingedore. _A coesão textual._ São Paulo: Contexto, 1999. KOCH, Ingedore; TRAVAGLIA, Luiz Carlos. _Texto e Coerência._ São Paulo: Cortez, 1999. SCHWARZ, Roberto. _Ao vencedor as batatas._ São Paulo: Editora 34, 2003.
 
-## **Bibliografia Complementar:** 
+INSTITUTOFEDERAL<br>PARANA<br>MinisteriodaEducacao InstitutoFederaldoParana
 
-CANDIDO, Antonio. _Literatura e Sociedade._ São Paulo: TAQ, 2000. ECO, Umberto. _Seis Passeios pelos Bosques da Ficção._ São Paulo: Companhia das Letras, 2001. GANCHO. Cândida Vilares. _Como analisar narrativas._ São Paulo: Ática, 2002. KOCH, Ingedore. _As tramas do texto._ Rio de Janeiro: Nova Fronteira, 2008. KOCH, Ingedore. _A coesão textual._ São Paulo: Contexto, 1999. KOCH, Ingedore; TRAVAGLIA, Luiz Carlos. _Texto e Coerência._ São Paulo: Cortez, 1999. SCHWARZ, Roberto. _Ao vencedor as batatas._ São Paulo: Editora 34, 2003. 
+## **Câmpus Curitiba do IFPR**
 
-42 
+**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular** : MATEMÁTICA I **Carga Horária** (hora aula): **120 Período letivo: 1º ano**
 
-**==> picture [69 x 16] intentionally omitted <==**
+**Ementa:**
 
-**----- Start of picture text -----**<br>
-INSTITUTOFEDERAL<br>PARANA<br>**----- End of picture text -----**<br>
+**CONJUNTOS** (operações com conjuntos, problemas que envolvam conjuntos, conjuntos numéricos, intervalos, operações com intervalos, par ordenado, produto cartesiano); **FUNÇÕES** (conceito de função, domínio, contradomínio e imagem de uma função, estudo do domínio de uma função, gráfico de uma função, construção e interpretação de gráficos, crescimento e decrescimento, função composta, tipos de função: injetora, sobrejetora e bijetora, função inversa. função polinomial); **FUNÇÃO POLINOMIAL DE 1º GRAU** (gráfico, determinação de uma função a partir do gráfico, crescimento e decrescimento, estudo do sinal, inequações); **FUNÇÃO POLINOMIAL DE 2º GRAU (** gráfico, zeros ou raízes, vértice da parábola, valor máximo ou valor mínimo, crescimento e decrescimento, estudo do sinal, inequações); **FUNÇÃO MODULAR (** Modulo ou valor absoluto de um número real; função modular, equação e inequação modular); **FUNÇÃO EXPONENCIAL** (potenciação, função exponencial, equações exponenciais e sistemas, inequações exponenciais); **FUNÇÃO LOGARÍTMICA (** logaritmo, condição de existência, propriedades dos logaritmos, mudança de base, função logarítmica, equação logarítmica e sistemas, inequações logarítmicas); **SEQUÊNCIA** (progressão  aritmética, fórmula do termo geral da PA, interpretação gráfica da PA, soma dos termos de uma PA, progressão geométrica, fórmula do termo geral da PG, interpretação gráfica da PG, soma dos n termos de um PG, soma dos termos de uma PG infinita, problemas que envolvem PA e PG. **Bibliografia Básica:** BARROSO, J.M. Conexões com a Matemática. São Paulo: Moderna, 2010. BARROSO, J.M.; POZZANI, A. P. Matemática: Caderno de Revisão. São Paulo: Moderna, 2010. SOUZA, J. Matemática – Coleção Novo Olhar. São Paulo:FTD, 2010. IEZZI, G. Fundamentos da Matemática: funções. Vol. 1. 8ª ed. São Paulo: Atual editora, 2004. IEZZI, G. Fundamentos da Matemática: logaritmos. Vol. 2. 9ª ed. São Paulo: Atual editora, 2004.
 
+**Bibliografia Complementar:** DANTE, L. R. Matemática: Contexto e Aplicações. São Paulo: Ática, 2011. IEZZI, G.; DOLCE,O. ; DEGENSZAJIN, D.; PÉRIGO, R.; ALMEIDA, N. Matemática: Ciência e Aplicações. São Paulo: Saraiva, 2010. GIOVANNI, J. R.; BONJORNO, J.R. Matemática Completa. São Paulo: FTD. 2002. RIBEIRO, J. Matemática. São Paulo: Scipione, 2011. SMOLE, K.S.; DINIZ, M.I. Matemática Ensino Médio. São Paulo: Saraiva, 6ª edição, 2010.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+MinisteriodaEducacao<br>INSTITUTOFEDERAL<br>InstitutoFederaldoParana<br>PARANA<br>## **Câmpus Curitiba do IFPR**
 
-## **Câmpus Curitiba do IFPR** 
+**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais**
 
-**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular** : MATEMÁTICA I **Carga Horária** (hora aula): **120 Período letivo: 1º ano** 
+**Componente Curricular** : MATEMÁTICA II
 
-**Ementa:** 
+**Carga Horária** (hora aula): **120 Período letivo: 2º ano**
 
-**CONJUNTOS** (operações com conjuntos, problemas que envolvam conjuntos, conjuntos numéricos, intervalos, operações com intervalos, par ordenado, produto cartesiano); **FUNÇÕES** (conceito de função, domínio, contradomínio e imagem de uma função, estudo do domínio de uma função, gráfico de uma função, construção e interpretação de gráficos, crescimento e decrescimento, função composta, tipos de função: injetora, sobrejetora e bijetora, função inversa. função polinomial); **FUNÇÃO POLINOMIAL DE 1º GRAU** (gráfico, determinação de uma função a partir do gráfico, crescimento e decrescimento, estudo do sinal, inequações); **FUNÇÃO POLINOMIAL DE 2º GRAU (** gráfico, zeros ou raízes, vértice da parábola, valor máximo ou valor mínimo, crescimento e decrescimento, estudo do sinal, inequações); **FUNÇÃO MODULAR (** Modulo ou valor absoluto de um número real; função modular, equação e inequação modular); **FUNÇÃO EXPONENCIAL** (potenciação, função exponencial, equações exponenciais e sistemas, inequações exponenciais); **FUNÇÃO LOGARÍTMICA (** logaritmo, condição de existência, propriedades dos logaritmos, mudança de base, função logarítmica, equação logarítmica e sistemas, inequações logarítmicas); **SEQUÊNCIA** (progressão  aritmética, fórmula do termo geral da PA, interpretação gráfica da PA, soma dos termos de uma PA, progressão geométrica, fórmula do termo geral da PG, interpretação gráfica da PG, soma dos n termos de um PG, soma dos termos de uma PG infinita, problemas que envolvem PA e PG. **Bibliografia Básica:** BARROSO, J.M. Conexões com a Matemática. São Paulo: Moderna, 2010. BARROSO, J.M.; POZZANI, A. P. Matemática: Caderno de Revisão. São Paulo: Moderna, 2010. SOUZA, J. Matemática – Coleção Novo Olhar. São Paulo:FTD, 2010. IEZZI, G. Fundamentos da Matemática: funções. Vol. 1. 8ª ed. São Paulo: Atual editora, 2004. IEZZI, G. Fundamentos da Matemática: logaritmos. Vol. 2. 9ª ed. São Paulo: Atual editora, 2004. 
+## **Ementa:**
 
-**Bibliografia Complementar:** DANTE, L. R. Matemática: Contexto e Aplicações. São Paulo: Ática, 2011. IEZZI, G.; DOLCE,O. ; DEGENSZAJIN, D.; PÉRIGO, R.; ALMEIDA, N. Matemática: Ciência e Aplicações. São Paulo: Saraiva, 2010. GIOVANNI, J. R.; BONJORNO, J.R. Matemática Completa. São Paulo: FTD. 2002. RIBEIRO, J. Matemática. São Paulo: Scipione, 2011. SMOLE, K.S.; DINIZ, M.I. Matemática Ensino Médio. São Paulo: Saraiva, 6ª edição, 2010. 
+**INTRODUÇÃO A TRIGONOMETRIA** (semelhança de triângulos, teorema de tales, teorema de Pitágoras, triângulo retângulo, seno, cosseno e tangente dos ângulos agudos, razões trigonométricas no triângulo retângulo); **TRIGONOMETRIA** (arco de circunferência, unidades de medida, comprimento de um arco, circunferência trigonométrica, arcos côngruos, seno, cosseno e tangente de um arco, simetria no estudo do seno, cosseno e da tangente, lei dos senos e lei dos cossenos, gráfico da função seno e cosseno e tangente, demais razões trigonométricas, equações trigonométricas, inequações trigonométricas, relação trigonométrica fundamental, valor numérico de uma expressão trigonométrica, propriedade dos arcos complementares, fórmulas da adição e subtração de arcos. fórmulas da multiplicação de arco); **MATRIZES** (representação genérica. iipos de matrizes, igualdade de matrizes, adição e subtração de matrizes, propriedades de operações de matrizes, multiplicação de um número real por uma matriz, multiplicação de matrizes, propriedades da multiplicação de matrizes, matriz inversa); **DETERMINANTES** (Determinante de 2ª e 3ª ordem, regra de Sarrus, determinante de ordem maior que três, teorema de Laplace, propriedades e teoremas (Jacobi e Binet), determinante de matriz inversa); **SISTEMAS LINEARES** (equações lineares, sistemas de equações lineares, classificação de sistemas, matrizes associadas a um sistema linear, sistemas lineares equivalentes, regra de Cramer, resolução de um sistema linear por escalonamento, discussão de um sistema linear); **ANÁLISE COMBINATÓRIA** (Princípio Multiplicativo, fatorial, permutações simples e permutações com repetição, arranjos simples, combinações simples, número binomial, triângulo de Pascal, fórmula do binômio de Newton); **PROBABILIDADE (e** spaço amostral, tipos de eventos, probabilidade de um evento em um espaço amostral finito, probabilidade com reunião e intersecção de eventos, probabilidade condicional, eventos independentes, método binomial); **GEOMETRIA PLANA** (polígonos, polígonos regulares, relações métricas, área das principais superfícies poligonais planas, círculo e circunferência); **GEOMETRIA ESPACIAL** (poliedros, poliedros regulares, prismas, elementos do prisma, áreas de superfície de um prisma, paralelepípedo, hexaedro, área da superfície, volume de um prisma, pirâmides, elementos da pirâmide, áreas de superfície de uma pirâmide, tronco de pirâmide, tetraedro regular, área da superfície, volume de uma pirâmide, cilindros, área da superfície de um cilindro, volume de um cilindro, cones, área da superfície de um cone, volume de um cone, tronco de um cone reto, esferas, superfície esférica, área  e volume da esfera.
 
-43 
+## **Bibliografia Básica:**
 
-**==> picture [455 x 23] intentionally omitted <==**
+BARROSO, J.M. Conexões com a Matemática. São Paulo: Moderna, 2010.
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>INSTITUTOFEDERAL<br>InstitutoFederaldoParana<br>PARANA<br>**----- End of picture text -----**<br>
+BARROSO, J.M.; POZZANI, A. P. Matemática: Caderno de Revisão. São Paulo: Moderna, 2010.
 
+SOUZA, J. Matemática – Coleção Novo Olhar. São Paulo:FTD, 2010.
 
-## **Câmpus Curitiba do IFPR** 
+IEZZI, G. Fundamentos da Matemática: trigonometria. Vol. 3. 8ª ed. São Paulo: Saraiva, 2004.
 
-**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais** 
+44
 
-**Componente Curricular** : MATEMÁTICA II 
+MinisteriodaEducacao INSTITUTOFEDERAL InstitutoFederaldoParana PARANA
 
-**Carga Horária** (hora aula): **120 Período letivo: 2º ano** 
+IEZZI, G. Fundamentos da Matemática: sequências, matrizes, determinantes e sistemas lineares. Vol. 4. 7ª ed. São Paulo: Atual editora, 2004
 
-## **Ementa:** 
+## **Bibliografia Complementar:**
 
-**INTRODUÇÃO A TRIGONOMETRIA** (semelhança de triângulos, teorema de tales, teorema de Pitágoras, triângulo retângulo, seno, cosseno e tangente dos ângulos agudos, razões trigonométricas no triângulo retângulo); **TRIGONOMETRIA** (arco de circunferência, unidades de medida, comprimento de um arco, circunferência trigonométrica, arcos côngruos, seno, cosseno e tangente de um arco, simetria no estudo do seno, cosseno e da tangente, lei dos senos e lei dos cossenos, gráfico da função seno e cosseno e tangente, demais razões trigonométricas, equações trigonométricas, inequações trigonométricas, relação trigonométrica fundamental, valor numérico de uma expressão trigonométrica, propriedade dos arcos complementares, fórmulas da adição e subtração de arcos. fórmulas da multiplicação de arco); **MATRIZES** (representação genérica. iipos de matrizes, igualdade de matrizes, adição e subtração de matrizes, propriedades de operações de matrizes, multiplicação de um número real por uma matriz, multiplicação de matrizes, propriedades da multiplicação de matrizes, matriz inversa); **DETERMINANTES** (Determinante de 2ª e 3ª ordem, regra de Sarrus, determinante de ordem maior que três, teorema de Laplace, propriedades e teoremas (Jacobi e Binet), determinante de matriz inversa); **SISTEMAS LINEARES** (equações lineares, sistemas de equações lineares, classificação de sistemas, matrizes associadas a um sistema linear, sistemas lineares equivalentes, regra de Cramer, resolução de um sistema linear por escalonamento, discussão de um sistema linear); **ANÁLISE COMBINATÓRIA** (Princípio Multiplicativo, fatorial, permutações simples e permutações com repetição, arranjos simples, combinações simples, número binomial, triângulo de Pascal, fórmula do binômio de Newton); **PROBABILIDADE (e** spaço amostral, tipos de eventos, probabilidade de um evento em um espaço amostral finito, probabilidade com reunião e intersecção de eventos, probabilidade condicional, eventos independentes, método binomial); **GEOMETRIA PLANA** (polígonos, polígonos regulares, relações métricas, área das principais superfícies poligonais planas, círculo e circunferência); **GEOMETRIA ESPACIAL** (poliedros, poliedros regulares, prismas, elementos do prisma, áreas de superfície de um prisma, paralelepípedo, hexaedro, área da superfície, volume de um prisma, pirâmides, elementos da pirâmide, áreas de superfície de uma pirâmide, tronco de pirâmide, tetraedro regular, área da superfície, volume de uma pirâmide, cilindros, área da superfície de um cilindro, volume de um cilindro, cones, área da superfície de um cone, volume de um cone, tronco de um cone reto, esferas, superfície esférica, área  e volume da esfera. 
+DANTE, L. R. Matemática: Contexto e Aplicações. São Paulo: Ática, 2011. IEZZI, G.; DOLCE,O. ; DEGENSZAJIN, D.; PÉRIGO, R.; ALMEIDA, N. Matemática: Ciência e Aplicações. São Paulo: Saraiva, 2010.
 
-## **Bibliografia Básica:** 
+GIOVANNI, J. R.; BONJORNO, J.R. Matemática Completa. São Paulo: FTD. 2002. RIBEIRO, J. Matemática. São Paulo: Scipione, 2011.
 
-BARROSO, J.M. Conexões com a Matemática. São Paulo: Moderna, 2010. 
+SMOLE, K.S.; DINIZ, M.I. Matemática Ensino Médio. São Paulo: Saraiva, 6ª edição, 2010.
 
-BARROSO, J.M.; POZZANI, A. P. Matemática: Caderno de Revisão. São Paulo: Moderna, 2010. 
+MinisteriodaEducacao<br>INSTITUTOFEDERAL<br>InstitutoFederaldoParana<br>PARANA<br>## **Câmpus Curitiba do IFPR**
 
-SOUZA, J. Matemática – Coleção Novo Olhar. São Paulo:FTD, 2010. 
+**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais**
 
-IEZZI, G. Fundamentos da Matemática: trigonometria. Vol. 3. 8ª ed. São Paulo: Saraiva, 2004. 
+**Componente Curricular** : MATEMÁTICA III
 
-44 
+**Carga Horária** (hora aula): **120 Período letivo: 3º ano**
 
-MinisteriodaEducacao INSTITUTOFEDERAL InstitutoFederaldoParana PARANA 
+## **Ementa:**
 
-IEZZI, G. Fundamentos da Matemática: sequências, matrizes, determinantes e sistemas lineares. Vol. 4. 7ª ed. São Paulo: Atual editora, 2004 
+**GEOMETRIA ANALÍTICA – PONTOS E RETAS (r** eta orientada, distância entre dois pontos na reta, razão de secção, sistema de coordenadas cartesianas, distância entre dois pontos no plano cartesiano, coordenadas do ponto médio, estudo da reta, condição de alinhamento de três pontos, equação geral da reta, inclinação e coeficiente angular, cálculo do coeficiente angular, equação da reta conhecido um ponto e o coeficiente angular, equação reduzida da reta, equação segmentária da reta, equações paramétricas da reta, posições relativas de duas retas no plano cartesiano, pontos e retas simétricas em relação a uma reta dada, ângulo entre duas retas, distância entre ponto e reta, bissetriz de duas retas, cálculo da área de um triângulo) **GEOMETRIA ANALÍTICA: ESTUDO DA CIRCUNFERÊNCIA (e** quação reduzida e equação geral da circunferência, posições relativas de um ponto e uma circunferência, posições relativas de uma reta e uma circunferência); **CONJUNTO DOS NÚMEROS COMPLEXOS (** forma algébrica, plano de Argand-Gauss, igualdade de complexos, conjugado de um complexo, operações com complexos, potências de i, representação geométrica de um número complexo, módulo e argumento de um número complexo, forma trigonométrica de um número complexo, operações na forma trigonométrica); **POLINÔMIOS E EQUAÇÕES POLINOMIAIS (** grau de um polinômio, valor numérico, adição, subtração e multiplicação, polinômio identicamente nulo, identidade de polinômios, divisão: método da chave, método dos coeficientes a determinar, divisão de P(x) por: binômio tipo (ax+b) e binômio tipo (x-a), divisão de P(x) por um produto de binômios (xa).(x-b), Dispositivo de Briot-Ruffini, decomposição de polinômio do 2º grau em fatores, decomposição de um polinômio de grau maior ou igual a três, raízes duplas, triplas, entre outras, teorema fundamental da álgebra, multiplicidade de uma raiz, raízes nulas e raízes complexas, relações de Girard, raízes racionais). **MATEMÁTICA FINANCEIRA** (porcentagem, juros simples, juros compostos);
 
-## **Bibliografia Complementar:** 
+**Bibliografia Básica:** BARROSO, J.M. Conexões com a Matemática. São Paulo: Moderna, 2010. BARROSO, J.M.; POZZANI, A. P. Matemática: Caderno de Revisão. São Paulo: Moderna, 2010. SOUZA, J. Matemática – Coleção Novo Olhar. São Paulo:FTD, 2010. IEZZI, G. Fundamentos da Matemática: complexos e polinômios. Vol. 6. 7ª ed. São Paulo: Atual editora, 2004. IEZZI, G. Fundamentos da Matemática: geometria espacial. Vol. 10. 5ª ed. São Paulo: Saraiva, 1993.
 
-DANTE, L. R. Matemática: Contexto e Aplicações. São Paulo: Ática, 2011. IEZZI, G.; DOLCE,O. ; DEGENSZAJIN, D.; PÉRIGO, R.; ALMEIDA, N. Matemática: Ciência e Aplicações. São Paulo: Saraiva, 2010. 
+46
 
-GIOVANNI, J. R.; BONJORNO, J.R. Matemática Completa. São Paulo: FTD. 2002. RIBEIRO, J. Matemática. São Paulo: Scipione, 2011. 
+INSTITUTOFEDERAL PARANA
 
-SMOLE, K.S.; DINIZ, M.I. Matemática Ensino Médio. São Paulo: Saraiva, 6ª edição, 2010. 
+MinisteriodaEducacao<br>InstitutoFederaldoParana<br>## **Bibliografia Complementar:**
 
-45 
+DANTE, L. R. Matemática: Contexto e Aplicações. São Paulo: Ática, 2011. IEZZI, G.; DOLCE,O. ; DEGENSZAJIN, D.; PÉRIGO, R.; ALMEIDA, N. Matemática: Ciência e Aplicações. São Paulo: Saraiva, 2010.
 
-**==> picture [455 x 23] intentionally omitted <==**
+GIOVANNI, J. R.; BONJORNO, J.R. Matemática Completa. São Paulo: FTD. 2002. RIBEIRO, J. Matemática. São Paulo: Scipione, 2011.
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>INSTITUTOFEDERAL<br>InstitutoFederaldoParana<br>PARANA<br>**----- End of picture text -----**<br>
+SMOLE, K.S.; DINIZ, M.I. Matemática Ensino Médio. São Paulo: Saraiva, 6ª edição, 2010.
 
+47
 
-## **Câmpus Curitiba do IFPR** 
+INSTITUTOFEDERAL PARANA
 
-**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais** 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-**Componente Curricular** : MATEMÁTICA III 
+**Câmpus Curitiba do IFPR Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular** : GEOGRAFIA I **Carga Horária** (hora aula): 80 **Período letivo:** 1º ano
 
-**Carga Horária** (hora aula): **120 Período letivo: 3º ano** 
+**Ementa:**
 
-## **Ementa:** 
+Conceitos instrumentais de Geografia e de espaço natural – A ciência geográfica. Localização e orientação, Os mapas, Representação cartográfica, Tecnologias modernas aplicadas à cartografia, Estrutura Geológica, As estruturas e formas de relevo, Uso e conservação do solo, Os fenômenos climáticos, Hidrografia, Biomas e formações vegetais, As conferências em defesa do meio ambiente.
 
-**GEOMETRIA ANALÍTICA – PONTOS E RETAS (r** eta orientada, distância entre dois pontos na reta, razão de secção, sistema de coordenadas cartesianas, distância entre dois pontos no plano cartesiano, coordenadas do ponto médio, estudo da reta, condição de alinhamento de três pontos, equação geral da reta, inclinação e coeficiente angular, cálculo do coeficiente angular, equação da reta conhecido um ponto e o coeficiente angular, equação reduzida da reta, equação segmentária da reta, equações paramétricas da reta, posições relativas de duas retas no plano cartesiano, pontos e retas simétricas em relação a uma reta dada, ângulo entre duas retas, distância entre ponto e reta, bissetriz de duas retas, cálculo da área de um triângulo) **GEOMETRIA ANALÍTICA: ESTUDO DA CIRCUNFERÊNCIA (e** quação reduzida e equação geral da circunferência, posições relativas de um ponto e uma circunferência, posições relativas de uma reta e uma circunferência); **CONJUNTO DOS NÚMEROS COMPLEXOS (** forma algébrica, plano de Argand-Gauss, igualdade de complexos, conjugado de um complexo, operações com complexos, potências de i, representação geométrica de um número complexo, módulo e argumento de um número complexo, forma trigonométrica de um número complexo, operações na forma trigonométrica); **POLINÔMIOS E EQUAÇÕES POLINOMIAIS (** grau de um polinômio, valor numérico, adição, subtração e multiplicação, polinômio identicamente nulo, identidade de polinômios, divisão: método da chave, método dos coeficientes a determinar, divisão de P(x) por: binômio tipo (ax+b) e binômio tipo (x-a), divisão de P(x) por um produto de binômios (xa).(x-b), Dispositivo de Briot-Ruffini, decomposição de polinômio do 2º grau em fatores, decomposição de um polinômio de grau maior ou igual a três, raízes duplas, triplas, entre outras, teorema fundamental da álgebra, multiplicidade de uma raiz, raízes nulas e raízes complexas, relações de Girard, raízes racionais). **MATEMÁTICA FINANCEIRA** (porcentagem, juros simples, juros compostos); 
+**Bibliografia Básica:**
 
-**Bibliografia Básica:** BARROSO, J.M. Conexões com a Matemática. São Paulo: Moderna, 2010. BARROSO, J.M.; POZZANI, A. P. Matemática: Caderno de Revisão. São Paulo: Moderna, 2010. SOUZA, J. Matemática – Coleção Novo Olhar. São Paulo:FTD, 2010. IEZZI, G. Fundamentos da Matemática: complexos e polinômios. Vol. 6. 7ª ed. São Paulo: Atual editora, 2004. IEZZI, G. Fundamentos da Matemática: geometria espacial. Vol. 10. 5ª ed. São Paulo: Saraiva, 1993. 
+ALMEIDA, R. D. **Do desenho ao mapa: iniciação cartográfica na escola** . São Paulo: Contexto, 2001. 115p.
 
-46 
+ROSS, J. L. S. **Geomorfologia, ambiente e planejamento** . São Paulo: Contexto, 1990.
 
-INSTITUTOFEDERAL PARANA 
+GONÇALVES, Carlos Walter Porto. **Os (des) caminhos do meio ambiente.** 8ª ed. São Paulo: Contexto, 2001.
 
-**==> picture [97 x 20] intentionally omitted <==**
+## **Bibliografia Complementar:**
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+PFLUCK, L. D. **Mapeamento Geo-ambiental e Planejamento Urbano** . EdunioesteUniversidade Estadual do Oeste do Paraná. Cascavel, 2002, p.57 -115.
 
+MENDONÇA, Francisco. Geografia socioambiental. In: MENDONÇA, F; KOZEL, S. (Orgs **). Elementos de Epistemologia da Geografia Contemporânea** . Curitiba. UFPR, 2002.121144.
 
-## **Bibliografia Complementar:** 
+ROSS, Jurandir Sanches (org.). **Geografia do Brasil** . São Paulo: EDUSP, 1995.
 
-DANTE, L. R. Matemática: Contexto e Aplicações. São Paulo: Ática, 2011. IEZZI, G.; DOLCE,O. ; DEGENSZAJIN, D.; PÉRIGO, R.; ALMEIDA, N. Matemática: Ciência e Aplicações. São Paulo: Saraiva, 2010. 
+48
 
-GIOVANNI, J. R.; BONJORNO, J.R. Matemática Completa. São Paulo: FTD. 2002. RIBEIRO, J. Matemática. São Paulo: Scipione, 2011. 
+INSTITUTOFEDERAL PARANA
 
-SMOLE, K.S.; DINIZ, M.I. Matemática Ensino Médio. São Paulo: Saraiva, 6ª edição, 2010. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-47 
+## **Câmpus Curitiba do IFPR**
 
-INSTITUTOFEDERAL PARANA 
+**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular** : GEOGRAFIA II **Carga Horária** (hora aula):80 **Período letivo:** 2º ano
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+**Ementa:**
 
-**Câmpus Curitiba do IFPR Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular** : GEOGRAFIA I **Carga Horária** (hora aula): 80 **Período letivo:** 1º ano 
+Apresentação dos processos históricos que constituíram o quadro de industrialização no Brasil. Reflexão acerca da produção de energia mundial e brasileira – energias nãorenováveis x energia limpa. Características da população mundial e brasileira, enfatizando no caso do Brasil aspectos culturais e sociais. Estudo dos aspectos demográficos mundiais e brasileiros, relacionando as mudanças sociais, políticas e econômicas com o atual panorama populacional. Estudo do espaço urbano, aprofundando a questão das origens das cidades e principais problemas enfrentados com a urbanização no Brasil. Estudo do espaço rural brasileiro, focando em sua importância econômica e suas profundas desigualdades sociais.
 
-**Ementa:** 
+## **Bibliografia Básica:**
 
-Conceitos instrumentais de Geografia e de espaço natural – A ciência geográfica. Localização e orientação, Os mapas, Representação cartográfica, Tecnologias modernas aplicadas à cartografia, Estrutura Geológica, As estruturas e formas de relevo, Uso e conservação do solo, Os fenômenos climáticos, Hidrografia, Biomas e formações vegetais, As conferências em defesa do meio ambiente. 
+ANDRADE, Manuel Correia de. **Geografia Econômica.** São Paulo: Atlas, 1998.
 
-**Bibliografia Básica:** 
+BENKO, Georges. **Economia, espaço e globalização na aurora do século XXI** . São Paulo: Hucitec, 1996.
 
-ALMEIDA, R. D. **Do desenho ao mapa: iniciação cartográfica na escola** . São Paulo: Contexto, 2001. 115p. 
+CARLOS, Ana Fani Alessandri. **Espaço e indústria** . São Paulo: Contexto, 1997 (Repensando a Geografia).
 
-ROSS, J. L. S. **Geomorfologia, ambiente e planejamento** . São Paulo: Contexto, 1990. 
+ROSS, Jurandir Sanches (org.). **Geografia do Brasil** . São Paulo: EDUSP, 1995.
 
-GONÇALVES, Carlos Walter Porto. **Os (des) caminhos do meio ambiente.** 8ª ed. São Paulo: Contexto, 2001. 
+## **Bibliografia Complementar:**
 
-## **Bibliografia Complementar:** 
+AZZONI, Carlos Roberto. **Onde Produzir? Aplicação da Teoria da localização no Brasil** . São Paulo: IPE-USP, 1985.
 
-PFLUCK, L. D. **Mapeamento Geo-ambiental e Planejamento Urbano** . EdunioesteUniversidade Estadual do Oeste do Paraná. Cascavel, 2002, p.57 -115. 
+BECKOUSECHE, Pierre. **Indústria em só mundo** . São Paulo: Ática, 1998 (Geografia Hoje)
 
-MENDONÇA, Francisco. Geografia socioambiental. In: MENDONÇA, F; KOZEL, S. (Orgs **). Elementos de Epistemologia da Geografia Contemporânea** . Curitiba. UFPR, 2002.121144. 
+CLEMENT, Ademir. **Economia regional e urbana** . São Paulo: Atlas, 1994.
 
-ROSS, Jurandir Sanches (org.). **Geografia do Brasil** . São Paulo: EDUSP, 1995. 
+DEAN, Warren,. **A industrialização de São Paulo.** Rio de Janeiro: Bertrand Brasil, 1991.
 
-48 
+GEORGE, Pierre, et al (orgs.). **Geografia Ativa** . São Paulo: Difel, 1980.
 
-INSTITUTOFEDERAL PARANA 
+HUNT, E. K, SHERMAN, H. J. **História do pensamento econômico** . Petrópolis: Vozes, 1998.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+49
 
-## **Câmpus Curitiba do IFPR** 
+1 INSTITUTOFEDERAL MinisteriodaEducacao InstitutoFederaldoParana PARANA MANZAGOL, Claude. **Lógica do espaço industrial** . São Paulo, 1985.
 
-**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular** : GEOGRAFIA II **Carga Horária** (hora aula):80 **Período letivo:** 2º ano 
+OLIVEIRA, Ariovaldo Umbelino de. **Amazônia** : monopólio, expropriação e conflitos. Campinas (SP): Papirus, 1990. (Série Educando)
 
-**Ementa:** 
+50
 
-Apresentação dos processos históricos que constituíram o quadro de industrialização no Brasil. Reflexão acerca da produção de energia mundial e brasileira – energias nãorenováveis x energia limpa. Características da população mundial e brasileira, enfatizando no caso do Brasil aspectos culturais e sociais. Estudo dos aspectos demográficos mundiais e brasileiros, relacionando as mudanças sociais, políticas e econômicas com o atual panorama populacional. Estudo do espaço urbano, aprofundando a questão das origens das cidades e principais problemas enfrentados com a urbanização no Brasil. Estudo do espaço rural brasileiro, focando em sua importância econômica e suas profundas desigualdades sociais. 
+INSTITUTOFEDERAL PARANA
 
-## **Bibliografia Básica:** 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-ANDRADE, Manuel Correia de. **Geografia Econômica.** São Paulo: Atlas, 1998. 
+## **Câmpus Curitiba do IFPR**
 
-BENKO, Georges. **Economia, espaço e globalização na aurora do século XXI** . São Paulo: Hucitec, 1996. 
+**Curso: Mecânica Integrado**
 
-CARLOS, Ana Fani Alessandri. **Espaço e indústria** . São Paulo: Contexto, 1997 (Repensando a Geografia). 
+**Eixo Tecnológico: Controle e Processos Industriais**
 
-ROSS, Jurandir Sanches (org.). **Geografia do Brasil** . São Paulo: EDUSP, 1995. 
+**Componente Curricular** : GEOGRAFIA III **Carga Horária** (hora aula):80 **Período letivo:** 3º ano
 
-## **Bibliografia Complementar:** 
+**Ementa:**
 
-AZZONI, Carlos Roberto. **Onde Produzir? Aplicação da Teoria da localização no Brasil** . São Paulo: IPE-USP, 1985. 
+A regionalização do mundo - O Capitalismo; O Socialismo; Capitalismo X Socialismo – Guerra Fria; O mundo pós Guerra Fria; A internacionalização do capital; O subdesenvolvimento; Novos Países Industrializados: substituição de importações; Novos Países Industrializados: plataforma de exportação; O Comércio Mundial; União Européia; Outros blocos econômicos; As novas migrações internacionais e a xenofobia; Nacionalismo, separatismo e minorias étnicas; O Islã – entre a paz e o terrorismo; Oriente Médio; O mundo sem a URSS - As mudanças no território do leste europeu e no mundo com o fim da URSS; O Novo Leste Europeu; A comunidade dos Estados Independentes; China – um país , dois sistemas; Coréia do Norte, Cube e Vietnã; América Latina; África; Reino Unido e França; Itália e Alemanha; Canadá e Japão; Austrália e Nova Zelândia – os ricos do sul; Estados Unidos – a superpotência mundial.
 
-BECKOUSECHE, Pierre. **Indústria em só mundo** . São Paulo: Ática, 1998 (Geografia Hoje) 
+**Bibliografia Básica:**
 
-CLEMENT, Ademir. **Economia regional e urbana** . São Paulo: Atlas, 1994. 
+CASTELLS, M. **A sociedade em rede** . 3 ed.São Paulo: paz e Terra. 1999. (A era da informação: economia, sociedade e cultura, v. 1)
 
-DEAN, Warren,. **A industrialização de São Paulo.** Rio de Janeiro: Bertrand Brasil, 1991. 
+HARVEY, D. **A condição pós moderna** : uma pesquisa sobre as origens da mudança cultural. São Paulo: Loyola, 1993.
 
-GEORGE, Pierre, et al (orgs.). **Geografia Ativa** . São Paulo: Difel, 1980. 
+SANTOS, M. **A natureza do espaço: técnica e tempo, razão e emoção.** São Paulo: Ed. da USP, 2004.
 
-HUNT, E. K, SHERMAN, H. J. **História do pensamento econômico** . Petrópolis: Vozes, 1998. 
+## **Bibliografia Complementar:**
 
-49 
+CLAVAL, P. História da Geografia. Lisboa: Edições 60, 2006.
 
-1 INSTITUTOFEDERAL MinisteriodaEducacao InstitutoFederaldoParana PARANA MANZAGOL, Claude. **Lógica do espaço industrial** . São Paulo, 1985. 
+JAMENSON, F. A cultura do dinheiro: ensaios sobre a globalização. Petrópolis: Vozes, 2001.
 
-OLIVEIRA, Ariovaldo Umbelino de. **Amazônia** : monopólio, expropriação e conflitos. Campinas (SP): Papirus, 1990. (Série Educando) 
+KURZ, R. O colapso da modernização: da derrocada do socialismo de caserna á crise da economia mundial. São Paulo: Paz e Terra, 1993.
 
-50 
+LACOSTE, Y. A geografia serve, em primeiro lugar, para fazer a guerra. Campinas: Papirus, 1988.
 
-INSTITUTOFEDERAL PARANA 
+LEONARD, M. O que a China pensa? São Paulo: Laurosse do Brasil.,1991.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+51
 
-## **Câmpus Curitiba do IFPR** 
+MinisteriodaEducacao INSTITUTOFEDERAL InstitutoFederaldoParana PARANA
 
-**Curso: Mecânica Integrado** 
+RAFESTIN, C. Por uma geografia do poder. São Paulo: Ática, 1993.
 
-**Eixo Tecnológico: Controle e Processos Industriais** 
+REIS, FILHO, D.A.: FERREIRA, J. ZENHA, C. o século XX- O tempo das crises, revoluções, fascismos e guerra: Rio de Janeiro: Civilização brasileira, 2000.
 
-**Componente Curricular** : GEOGRAFIA III **Carga Horária** (hora aula):80 **Período letivo:** 3º ano 
+TREVIZAN, C. China: o renascimento do império. São Paulo: Companhia das Letras, 2007.
 
-**Ementa:** 
+52
 
-A regionalização do mundo - O Capitalismo; O Socialismo; Capitalismo X Socialismo – Guerra Fria; O mundo pós Guerra Fria; A internacionalização do capital; O subdesenvolvimento; Novos Países Industrializados: substituição de importações; Novos Países Industrializados: plataforma de exportação; O Comércio Mundial; União Européia; Outros blocos econômicos; As novas migrações internacionais e a xenofobia; Nacionalismo, separatismo e minorias étnicas; O Islã – entre a paz e o terrorismo; Oriente Médio; O mundo sem a URSS - As mudanças no território do leste europeu e no mundo com o fim da URSS; O Novo Leste Europeu; A comunidade dos Estados Independentes; China – um país , dois sistemas; Coréia do Norte, Cube e Vietnã; América Latina; África; Reino Unido e França; Itália e Alemanha; Canadá e Japão; Austrália e Nova Zelândia – os ricos do sul; Estados Unidos – a superpotência mundial. 
+INSTITUTOFEDERAL PARANA
 
-**Bibliografia Básica:** 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-CASTELLS, M. **A sociedade em rede** . 3 ed.São Paulo: paz e Terra. 1999. (A era da informação: economia, sociedade e cultura, v. 1) 
+**Câmpus Curitiba do IFPR Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular** : HISTORIA I **Carga Horária** (hora aula):80 **Período letivo:** 1º ano **Ementa:** Análise da historiografia presente no livro didático de História (PNLD, 2012) a respeito da história Clássica: economia, sociedade e política, assim como do período medieval incluindo capítulos sobre a história da Europa Ocidental, da América, da África do Oriente e  do Antigo Regime.
 
-HARVEY, D. **A condição pós moderna** : uma pesquisa sobre as origens da mudança cultural. São Paulo: Loyola, 1993. 
+## **Bibliografia Básica:**
 
-SANTOS, M. **A natureza do espaço: técnica e tempo, razão e emoção.** São Paulo: Ed. da USP, 2004. 
+1.LE GOFF, Jacques. A Idade Média Explicada a meus Filhos. Rio de Janeiro: Agir, 2007.
 
-## **Bibliografia Complementar:** 
+2. História da Vida Privada no Brasil (vol. 1) Fernando Novais (org.), 523 págs., Ed.
 
-CLAVAL, P. História da Geografia. Lisboa: Edições 60, 2006. 
+Cia. das Letras.
 
-JAMENSON, F. A cultura do dinheiro: ensaios sobre a globalização. Petrópolis: Vozes, 2001. 
+3.VAINFAS. Ronaldo,...[et al.]. História: das sociedades sem Estado às monarquias absolutistas. V.1. São Paulo: Saraiva, 2010.
 
-KURZ, R. O colapso da modernização: da derrocada do socialismo de caserna á crise da economia mundial. São Paulo: Paz e Terra, 1993. 
+4.GINZBURG, Carlo. O queijo e os vermes: o cotidiano e as ideias de um moleiro perseguido pela Inquisição. São Paulo: Companhia das Letras, 1998.
 
-LACOSTE, Y. A geografia serve, em primeiro lugar, para fazer a guerra. Campinas: Papirus, 1988. 
+## **Bibliografia Complementar:**
 
-LEONARD, M. O que a China pensa? São Paulo: Laurosse do Brasil.,1991. 
+BOXER, Charles. A Idade de Ouro do Brasil; São Paulo: Cia Editora Nacional, 1963. Colonial; São Paulo: Cia das letras, 1988.
 
-51 
+DUBY, Georges. Guerreiros e Camponeses Os Primórdios do Crescimento Econômico Europeu - Séculos VII - XII; Lisboa: Estampa, 1993. DUBY, Georges. O Tempo das Catedrais; Lisboa: Estampa, 1993
 
-MinisteriodaEducacao INSTITUTOFEDERAL InstitutoFederaldoParana PARANA 
+GARRAFFONI, Renata Senna. _Gladiadores na Roma Antiga: dos combates às paixões cotidianas._ São Paulo: Annablume/Fapesp, 2005. GRIMAL, Pierre. A Civilização Romana; Lisboa: Edições 70, 2001
 
-RAFESTIN, C. Por uma geografia do poder. São Paulo: Ática, 1993. 
+53
 
-REIS, FILHO, D.A.: FERREIRA, J. ZENHA, C. o século XX- O tempo das crises, revoluções, fascismos e guerra: Rio de Janeiro: Civilização brasileira, 2000. 
+INSTITUTOFEDERAL PARANA
 
-TREVIZAN, C. China: o renascimento do império. São Paulo: Companhia das Letras, 2007. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-52 
+## **Câmpus Curitiba do IFPR**
 
-INSTITUTOFEDERAL PARANA 
+**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais**
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+**Componente Curricular** : HISTORIA II **Carga Horária** (hora aula):80 **Período letivo:** 2º ano
 
-**Câmpus Curitiba do IFPR Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular** : HISTORIA I **Carga Horária** (hora aula):80 **Período letivo:** 1º ano **Ementa:** Análise da historiografia presente no livro didático de História (PNLD, 2012) a respeito da história Clássica: economia, sociedade e política, assim como do período medieval incluindo capítulos sobre a história da Europa Ocidental, da América, da África do Oriente e  do Antigo Regime. 
+**Ementa:**
 
-## **Bibliografia Básica:** 
+Compreensão dos principais aspectos históricos que marcaram os séculos XVI, XVII, XVIII e parte do XIX, tanto no Brasil como fora dele, procurando entender de que forma os aspectos da chamada modernidade são fundamentais para a formação do homem contemporâneo, tanto em suas possibilidades, quanto em suas limitações e problemas.
 
-1.LE GOFF, Jacques. A Idade Média Explicada a meus Filhos. Rio de Janeiro: Agir, 2007. 
+**Bibliografia Básica:** 1. LE GOFF, J. Por amor às cidades: conversações com Jean Lebrun. São Paulo: UNESP, 1988.
 
-2. História da Vida Privada no Brasil (vol. 1) Fernando Novais (org.), 523 págs., Ed. 
+2. DUBY, G. (Org.).  História da vida privada 2: da Europa feudal à Renascença. São Paulo: Companhia das Letras, 1990.
 
-Cia. das Letras. 
+3. NOVAIS, F.(Dir.); ALENCASTRO, L.F. de (Org.).  História da Vida privada no Brasil. São Paulo: Companhia das Letras, 1997, 4 v.
 
-3.VAINFAS. Ronaldo,...[et al.]. História: das sociedades sem Estado às monarquias absolutistas. V.1. São Paulo: Saraiva, 2010. 
+## **Bibliografia Complementar:**
 
-4.GINZBURG, Carlo. O queijo e os vermes: o cotidiano e as ideias de um moleiro perseguido pela Inquisição. São Paulo: Companhia das Letras, 1998. 
+1. BRASIL. Secretaria de Educação Fundamental. Parâmetros Curriculares nacionais: terceiro e quarto ciclos do ensino fundamental: introdução aos Parâmetros Curriculares Nacionais. Brasília: MEC/SEF, 1998.
 
-## **Bibliografia Complementar:** 
+2. BITTENCOURT, Circe M. F.  O saber histórico em sala de aula. São Paulo: Contexto, 1990.
 
-BOXER, Charles. A Idade de Ouro do Brasil; São Paulo: Cia Editora Nacional, 1963. Colonial; São Paulo: Cia das letras, 1988. 
+3. BURKE, P. A escrita da História: novas perspectivas. São Paulo: UNESP, 1992. 4. DUBY, G. (Org.). História da vida privada 2: da Europa feudal à Renascença. São Paulo: Companhia das Letras, 1990.
 
-DUBY, Georges. Guerreiros e Camponeses Os Primórdios do Crescimento Econômico Europeu - Séculos VII - XII; Lisboa: Estampa, 1993. DUBY, Georges. O Tempo das Catedrais; Lisboa: Estampa, 1993 
+5. FERRO, M. História das colonizações: das conquistas às independências.  Século XIII a XX. São Paulo: Companhia das Letras, 1996. 6. FONSECA, T. N. de Lima. História e Ensino de História. Belo Horizonte: Autêntica, 2006. 7. HOBSBAWM, E. Sobre História. São Paulo: Companhia das Letras, 1998.
 
-GARRAFFONI, Renata Senna. _Gladiadores na Roma Antiga: dos combates às paixões cotidianas._ São Paulo: Annablume/Fapesp, 2005. GRIMAL, Pierre. A Civilização Romana; Lisboa: Edições 70, 2001 
+8. HOBSBAWM, Eric. Da Revolução Inglesa ao Imperialismo. Forense Universitária, 2009. 9. LE GOFF, J. Por amor às cidades: conversações com Jean Lebrun. São Paulo: UNESP, 1988.
 
-53 
+10. MARKUN, Paulo. Cabeza de Vaca. Companhia das Letras, 2009. 11. NOVAIS, F.(Dir.); ALENCASTRO, L.F. de (Org.). História da Vida privada no Brasil. São Paulo: Companhia das Letras, 1997, 4 v.
 
-INSTITUTOFEDERAL PARANA 
+12. PINSKY, Carla B. (Org.). Fontes Históricas. São Paulo: Contexto, 2005. 13. SCHWARCZ, L. M. As barbas do imperador. São Paulo: Companhia das Letras, 1998. 14. STADEN, Hans. Duas viagens ao Brasil. Martin Claret. 2006.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+54
 
-## **Câmpus Curitiba do IFPR** 
+INSTITUTOFEDERAL PARANA
 
-**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais** 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-**Componente Curricular** : HISTORIA II **Carga Horária** (hora aula):80 **Período letivo:** 2º ano 
+15. THOREAU, Henry David. A desobediência civil. Martin Claret, 2002. 16.VAINFAS, R. (Dir.)  Dicionário de Brasil colonial (1500-1808). Rio de Janeiro: Objetiva, 2002.
 
-**Ementa:** 
+55
 
-Compreensão dos principais aspectos históricos que marcaram os séculos XVI, XVII, XVIII e parte do XIX, tanto no Brasil como fora dele, procurando entender de que forma os aspectos da chamada modernidade são fundamentais para a formação do homem contemporâneo, tanto em suas possibilidades, quanto em suas limitações e problemas. 
+INSTITUTOFEDERAL PARANA
 
-**Bibliografia Básica:** 1. LE GOFF, J. Por amor às cidades: conversações com Jean Lebrun. São Paulo: UNESP, 1988. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-2. DUBY, G. (Org.).  História da vida privada 2: da Europa feudal à Renascença. São Paulo: Companhia das Letras, 1990. 
+## **Câmpus Curitiba do IFPR**
 
-3. NOVAIS, F.(Dir.); ALENCASTRO, L.F. de (Org.).  História da Vida privada no Brasil. São Paulo: Companhia das Letras, 1997, 4 v. 
+**Curso: Mecânica Integrado**
 
-## **Bibliografia Complementar:** 
+**Componente Curricular** : HISTORIA III **Carga Horária** (hora aula): 80
 
-1. BRASIL. Secretaria de Educação Fundamental. Parâmetros Curriculares nacionais: terceiro e quarto ciclos do ensino fundamental: introdução aos Parâmetros Curriculares Nacionais. Brasília: MEC/SEF, 1998. 
+**Eixo Tecnológico: Controle e Processos Industriais**
 
-2. BITTENCOURT, Circe M. F.  O saber histórico em sala de aula. São Paulo: Contexto, 1990. 
+**Período letivo:** 3º ano
 
-3. BURKE, P. A escrita da História: novas perspectivas. São Paulo: UNESP, 1992. 4. DUBY, G. (Org.). História da vida privada 2: da Europa feudal à Renascença. São Paulo: Companhia das Letras, 1990. 
+**Ementa:**
 
-5. FERRO, M. História das colonizações: das conquistas às independências.  Século XIII a XX. São Paulo: Companhia das Letras, 1996. 6. FONSECA, T. N. de Lima. História e Ensino de História. Belo Horizonte: Autêntica, 2006. 7. HOBSBAWM, E. Sobre História. São Paulo: Companhia das Letras, 1998. 
+Análise nas transformações do mundo contemporâneo a partir do final do século XIX até a contemporaneidade. Ênfase nas temáticas culturais e políticas buscando inserir o estudante nos principais temas do mundo atual: ideologia, guerras, papel da mulher, posição das minorias e nas novas relações humanas da sociedade do XXI. Buscar-se-á fazer a interlocução da história brasileira republicana com a chamada história mundial identificando suas conexões históricas e culturais.
 
-8. HOBSBAWM, Eric. Da Revolução Inglesa ao Imperialismo. Forense Universitária, 2009. 9. LE GOFF, J. Por amor às cidades: conversações com Jean Lebrun. São Paulo: UNESP, 1988. 
+## **Bibliografia Básica:**
 
-10. MARKUN, Paulo. Cabeza de Vaca. Companhia das Letras, 2009. 11. NOVAIS, F.(Dir.); ALENCASTRO, L.F. de (Org.). História da Vida privada no Brasil. São Paulo: Companhia das Letras, 1997, 4 v. 
+1. Orwell, G. A Revolução dos bichos. São Paulo: Companhia das Letras, 2007.
 
-12. PINSKY, Carla B. (Org.). Fontes Históricas. São Paulo: Contexto, 2005. 13. SCHWARCZ, L. M. As barbas do imperador. São Paulo: Companhia das Letras, 1998. 14. STADEN, Hans. Duas viagens ao Brasil. Martin Claret. 2006. 
+2. Huxley, A. Admirável Mundo Novo. Rio de Janeiro: Globo, 2009.
 
-54 
+3. Morais, F. Olga. São Paulo: Companhia das Letras, 2008.
 
-INSTITUTOFEDERAL PARANA 
+4. Remarque, E. M. Nada de novo no front. Porto Alegre: LPM.  2004.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+5. Carvalho, J. M. Cidadania no Brasil: o longo caminho. Rio de Janeiro: Civilização Brasileira, 2006.
 
-15. THOREAU, Henry David. A desobediência civil. Martin Claret, 2002. 16.VAINFAS, R. (Dir.)  Dicionário de Brasil colonial (1500-1808). Rio de Janeiro: Objetiva, 2002. 
+## **Bibliografia Complementar:**
 
-55 
+1. Gabeira, F. O que é isso companheiro? São Paulo: Companhia das Letras. 2009
 
-INSTITUTOFEDERAL PARANA 
+2. Saviano, R. Gomorra: a história real de um jornalista infiltrado na violenta máfia Napolitana. 2009.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+3. Novais, F. (org.) História da Vida Privada no Brasil: contrastes da intimidade contemporânea. São Paulo: Companhia das Letras. 1988.
 
-## **Câmpus Curitiba do IFPR** 
+4. Silva, A. C. A África explicada aos meus filhos. Rio de Janeiro: Agir, 2008.
 
-**Curso: Mecânica Integrado** 
+5. Fausto, B. História Concisa do Brasil. São Paulo: EDUSP, 2010.
 
-**Componente Curricular** : HISTORIA III **Carga Horária** (hora aula): 80 
+56
 
-**Eixo Tecnológico: Controle e Processos Industriais** 
+INSTITUTOFEDERAL PARANA
 
-**Período letivo:** 3º ano 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-**Ementa:** 
+## **Câmpus Curitiba do IFPR**
 
-Análise nas transformações do mundo contemporâneo a partir do final do século XIX até a contemporaneidade. Ênfase nas temáticas culturais e políticas buscando inserir o estudante nos principais temas do mundo atual: ideologia, guerras, papel da mulher, posição das minorias e nas novas relações humanas da sociedade do XXI. Buscar-se-á fazer a interlocução da história brasileira republicana com a chamada história mundial identificando suas conexões históricas e culturais. 
+**Curso: Mecânica Integrado**
 
-## **Bibliografia Básica:** 
+**Componente Curricular** : Sociologia I **Carga Horária** (horas-aulas) 40 h
 
-1. Orwell, G. A Revolução dos bichos. São Paulo: Companhia das Letras, 2007. 
+**Eixo Tecnológico: Controle e Processos Industriais**
 
-2. Huxley, A. Admirável Mundo Novo. Rio de Janeiro: Globo, 2009. 
+**Período letivo:** 1º ano
 
-3. Morais, F. Olga. São Paulo: Companhia das Letras, 2008. 
+## **Ementa:**
 
-4. Remarque, E. M. Nada de novo no front. Porto Alegre: LPM.  2004. 
+**Sociedade e Conhecimento:** produção social do conhecimento; contexto histórico da formação da sociologia. **Indivíduo e Sociedade:** processo de socialização; indivíduo e modernidade; sociabilidade contemporânea. **Estrutura social e desigualdade:** explicações sociológicas clássicas e contemporâneas; desigualdades sociais no Brasil.
 
-5. Carvalho, J. M. Cidadania no Brasil: o longo caminho. Rio de Janeiro: Civilização Brasileira, 2006. 
+## **Bibliografia Básica:**
 
-## **Bibliografia Complementar:** 
+COSTA, Cristina Sociologia: Introdução à ciência da sociedade. 3ª Ed. São Paulo: Moderna, 2005.
 
-1. Gabeira, F. O que é isso companheiro? São Paulo: Companhia das Letras. 2009 
+GIDDENS, Anthony. Sociologia. 6ª ed. Porto Alegre: Penso, 2012. TOMAZI, Nelson Dacio. Sociologia Para o Ensino Médio. 2ª ed. São Paulo: Atual, 2007.
 
-2. Saviano, R. Gomorra: a história real de um jornalista infiltrado na violenta máfia Napolitana. 2009. 
+## **Bibliografia complementar:**
 
-3. Novais, F. (org.) História da Vida Privada no Brasil: contrastes da intimidade contemporânea. São Paulo: Companhia das Letras. 1988. 
+BAUMAN, Zygmunt. 44 cartas do mundo líquido moderno. Rio de Janeiro: Zahar, 2011. BERGER, Peter. Perspectivas sociológicas. Uma visão humanística 2ª ed. Petrópolis: Vozes, 2004.
 
-4. Silva, A. C. A África explicada aos meus filhos. Rio de Janeiro: Agir, 2008. 
+MARTINS, Carlos Benedito. O que é Sociologia. 60ª ed. São Paulo: Brasiliense, 2003. MILLS, Wrigth C. Sobre o Artesanato Intelectual e outros ensaios. Rio de Janeiro: Jorge Zahar Ed., 2009.
 
-5. Fausto, B. História Concisa do Brasil. São Paulo: EDUSP, 2010. 
+VELHO, Gilberto. Individualismo e cultura: notas para uma antropologia da sociedade contemporânea. Rio de Janeiro: Jorge Zahar Ed., 2008.
 
-56 
+INSTITUTOFEDERAL<br>PARANA<br>MinisteriodaEducacao<br>InstitutoFederaldoParana<br>## **Câmpus Curitiba do IFPR**
 
-INSTITUTOFEDERAL PARANA 
+## **Curso: Mecânica Integrado**
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+**Componente Curricular** : Sociologia II **Carga Horária (horas-aulas):** 40 h
 
-## **Câmpus Curitiba do IFPR** 
+**Eixo Tecnológico: Controle e Processos Industriais**
 
-**Curso: Mecânica Integrado** 
+**Período letivo:** 2º ano
 
-**Componente Curricular** : Sociologia I **Carga Horária** (horas-aulas) 40 h 
+## **Ementa:**
 
-**Eixo Tecnológico: Controle e Processos Industriais** 
+**Trabalho e sociedade:** Trabalho na formação do homem; Trabalho, Cultura e conhecimento; trabalho no modo de produção capitalista; princípios Taylorista e o sistema Fordista de produção. **Atuais mudanças no mundo do trabalho:** princípios Toyotista e o sistema Flexível de produção; Discurso da qualidade total, do empreendedorismo e das competências; cultura, consumo e ideologia. **Assimetrias no mercado de trabalho:** jovens e o trabalho na contemporaneidade; preconceito, discriminação e desigualdade.
 
-**Período letivo:** 1º ano 
+## **Bibliografia Básica:**
 
-## **Ementa:** 
+FÁVERO, Osmar et all. Juventude e contemporaneidade. Brasília: UNESC, MEC, ANPed, 2007 (Coleção Educação para todos;16)
 
-**Sociedade e Conhecimento:** produção social do conhecimento; contexto histórico da formação da sociologia. **Indivíduo e Sociedade:** processo de socialização; indivíduo e modernidade; sociabilidade contemporânea. **Estrutura social e desigualdade:** explicações sociológicas clássicas e contemporâneas; desigualdades sociais no Brasil. 
+TOMAZI, Nelson Dacio. Sociologia Para o Ensino Médio. 2ª ed. São Paulo: Atual, 2007. SENNETT, Richard. A corrosão do caráter. Consequencias pessoais do trabalho no novo capitalismo. 7 ª Ed. Rio de Janeiro: Record, 2003
 
-## **Bibliografia Básica:** 
+## **Bibliografia complementar:**
 
-COSTA, Cristina Sociologia: Introdução à ciência da sociedade. 3ª Ed. São Paulo: Moderna, 2005. 
+ALVES, Giovanni. Trabalho e cinema. O mundo do trabalho através do cinema. Londrina: Praxis, 2008. V. 1-2.
 
-GIDDENS, Anthony. Sociologia. 6ª ed. Porto Alegre: Penso, 2012. TOMAZI, Nelson Dacio. Sociologia Para o Ensino Médio. 2ª ed. São Paulo: Atual, 2007. 
+CASTEL.  Robert. A metamorfose da questão social: uma crônica do salário. 4ª Petrópolis: Vozes, 2003.
 
-## **Bibliografia complementar:** 
+GIDDENS, Anthony. Sociologia. 6ª ed. Porto Alegre: Penso, 2012. GOFFMAN, Erving. Estigma. Notas sobre a identidade deteriorada. 4ª. Rio de Janeiro: Guanabara, 2004.
 
-BAUMAN, Zygmunt. 44 cartas do mundo líquido moderno. Rio de Janeiro: Zahar, 2011. BERGER, Peter. Perspectivas sociológicas. Uma visão humanística 2ª ed. Petrópolis: Vozes, 2004. 
+VELHO, Gilberto. Individualismo e cultura: notas para uma antropologia da sociedade contemporânea. Rio de Janeiro: Jorge Zahar Ed., 2008.
 
-MARTINS, Carlos Benedito. O que é Sociologia. 60ª ed. São Paulo: Brasiliense, 2003. MILLS, Wrigth C. Sobre o Artesanato Intelectual e outros ensaios. Rio de Janeiro: Jorge Zahar Ed., 2009. 
+58
 
-VELHO, Gilberto. Individualismo e cultura: notas para uma antropologia da sociedade contemporânea. Rio de Janeiro: Jorge Zahar Ed., 2008. 
+INSTITUTOFEDERAL PARANA
 
-57 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-**==> picture [69 x 16] intentionally omitted <==**
+## **Câmpus Curitiba do IFPR**
 
-**----- Start of picture text -----**<br>
-INSTITUTOFEDERAL<br>PARANA<br>**----- End of picture text -----**<br>
+**Curso: Mecânica Integrado**
 
+**Componente Curricular** : Sociologia III **Carga Horária (horas-aulas):** 40 h
 
-**==> picture [97 x 20] intentionally omitted <==**
+**Eixo Tecnológico: Controle e Processos Industriais**
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+**Período letivo:** 3º ano
 
+## **Ementa:**
 
-## **Câmpus Curitiba do IFPR** 
+**Poder, política e Estado:** surgimento e transformações do Estado moderno; teorias sociológicas clássicas sobre o Estado; Democracia, partidos políticos e representação. **Política, Cidadania e Movimentos Sociais:** Direitos e cidadania; Movimentos sociais no mundo. **Direitos e cidadania no Brasil:** lutas no período colonial e no Brasil República; cidadania regulada; Movimento operário e os novos movimentos sociais; jovens e a política.
 
-## **Curso: Mecânica Integrado** 
+## **Bibliografia Básica:**
 
-**Componente Curricular** : Sociologia II **Carga Horária (horas-aulas):** 40 h 
+FÁVERO, Osmar et all. Juventude e contemporaneidade. Brasília: UNESC, MEC, ANPed, 2007 (Coleção Educação para todos;16) OLIVEIRA, Francisco e RIZEK, Cibele S (orgs) . A era da indeterminação. São Paulo: Boitempo, 2007. TOMAZI, Nelson Dacio. Sociologia Para o Ensino Médio. 2ª ed. São Paulo: Atual, 2007.
 
-**Eixo Tecnológico: Controle e Processos Industriais** 
+## **Bibliografia complementar:**
 
-**Período letivo:** 2º ano 
+BAUMAN, Zygmunt. 44 cartas do mundo líquido moderno. Rio de Janeiro: Zahar, 2011. BOBBIO, Norberto. Estado, governo, sociedade: para uma teoria geral da política.14ª Ed,. Rio de Janeiro: Paz e Terra, 1987 FAORO, Raymundo. A república inacabada. Rio de Janeiro: Globo, 2007 REIS, Jose Carlos. As identidades do Brasil. De Varnhagen a FHC. 9ª Ed. São Paulo: FGV, 2007.
 
-## **Ementa:** 
+VELHO, Gilberto. Individualismo e cultura: notas para uma antropologia da sociedade contemporânea. Rio de Janeiro: Jorge Zahar Ed., 2008.
 
-**Trabalho e sociedade:** Trabalho na formação do homem; Trabalho, Cultura e conhecimento; trabalho no modo de produção capitalista; princípios Taylorista e o sistema Fordista de produção. **Atuais mudanças no mundo do trabalho:** princípios Toyotista e o sistema Flexível de produção; Discurso da qualidade total, do empreendedorismo e das competências; cultura, consumo e ideologia. **Assimetrias no mercado de trabalho:** jovens e o trabalho na contemporaneidade; preconceito, discriminação e desigualdade. 
+59
 
-## **Bibliografia Básica:** 
+INSTITUTOFEDERAL PARANA
 
-FÁVERO, Osmar et all. Juventude e contemporaneidade. Brasília: UNESC, MEC, ANPed, 2007 (Coleção Educação para todos;16) 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-TOMAZI, Nelson Dacio. Sociologia Para o Ensino Médio. 2ª ed. São Paulo: Atual, 2007. SENNETT, Richard. A corrosão do caráter. Consequencias pessoais do trabalho no novo capitalismo. 7 ª Ed. Rio de Janeiro: Record, 2003 
+## **Câmpus Curitiba do IFPR**
 
-## **Bibliografia complementar:** 
+**Curso: Mecânica Integrado**
 
-ALVES, Giovanni. Trabalho e cinema. O mundo do trabalho através do cinema. Londrina: Praxis, 2008. V. 1-2. 
+**Componente Curricular** : FILOSOFIA I **Carga Horária** (hora aula): 40
 
-CASTEL.  Robert. A metamorfose da questão social: uma crônica do salário. 4ª Petrópolis: Vozes, 2003. 
+**Eixo Tecnológico: Controle e Processos Industriais**
 
-GIDDENS, Anthony. Sociologia. 6ª ed. Porto Alegre: Penso, 2012. GOFFMAN, Erving. Estigma. Notas sobre a identidade deteriorada. 4ª. Rio de Janeiro: Guanabara, 2004. 
+**Período letivo:** 1º ano
 
-VELHO, Gilberto. Individualismo e cultura: notas para uma antropologia da sociedade contemporânea. Rio de Janeiro: Jorge Zahar Ed., 2008. 
+## **Ementa:**
 
-58 
+Conhecer e analisar os principais tópicos da tradição filosófica antiga, desde o rompimento para com a Mitologia até a construção sistemática de Aristóteles, perpassando aspectos da filosofia teórica e prática, conforme descrição:
 
-INSTITUTOFEDERAL PARANA 
+## - **ORIGEM DA FILOSOFIA**
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+- **Origem da Filosofia**
 
-## **Câmpus Curitiba do IFPR** 
+- **Definição de Filosofia**
 
-**Curso: Mecânica Integrado** 
+- **Áreas da Filosofia**
 
-**Componente Curricular** : Sociologia III **Carga Horária (horas-aulas):** 40 h 
+## - **O NASCIMENTO DA RACIONALIDADE OCIDENTAL**
 
-**Eixo Tecnológico: Controle e Processos Industriais** 
+– **Heráclito e Parmênides**
 
-**Período letivo:** 3º ano 
+– **Teoria do Conhecimento em Platão e Aristóteles**
 
-## **Ementa:** 
+– **ÉTICA E POLÍTICA:**
 
-**Poder, política e Estado:** surgimento e transformações do Estado moderno; teorias sociológicas clássicas sobre o Estado; Democracia, partidos políticos e representação. **Política, Cidadania e Movimentos Sociais:** Direitos e cidadania; Movimentos sociais no mundo. **Direitos e cidadania no Brasil:** lutas no período colonial e no Brasil República; cidadania regulada; Movimento operário e os novos movimentos sociais; jovens e a política. 
+- **A construção da ética e da política ocidentais**
 
-## **Bibliografia Básica:** 
+- **Política e ética em Platão e Aristóteles**
 
-FÁVERO, Osmar et all. Juventude e contemporaneidade. Brasília: UNESC, MEC, ANPed, 2007 (Coleção Educação para todos;16) OLIVEIRA, Francisco e RIZEK, Cibele S (orgs) . A era da indeterminação. São Paulo: Boitempo, 2007. TOMAZI, Nelson Dacio. Sociologia Para o Ensino Médio. 2ª ed. São Paulo: Atual, 2007. 
+## – **HELENISMO**
 
-## **Bibliografia complementar:** 
+## - **Helenismo e a Filosofia Greco-romana**
 
-BAUMAN, Zygmunt. 44 cartas do mundo líquido moderno. Rio de Janeiro: Zahar, 2011. BOBBIO, Norberto. Estado, governo, sociedade: para uma teoria geral da política.14ª Ed,. Rio de Janeiro: Paz e Terra, 1987 FAORO, Raymundo. A república inacabada. Rio de Janeiro: Globo, 2007 REIS, Jose Carlos. As identidades do Brasil. De Varnhagen a FHC. 9ª Ed. São Paulo: FGV, 2007. 
+- **O novo homem ocidental**
 
-VELHO, Gilberto. Individualismo e cultura: notas para uma antropologia da sociedade contemporânea. Rio de Janeiro: Jorge Zahar Ed., 2008. 
+**Bibliografia Básica:** ARISTÓTELES. **Obras. Poetica. Retorica. Logica. Fisica. Metafisica. Tratados de etica. Politica: constitucion de Atenas.** Madrid, Espanha: Aguilar, s/d.
 
-59 
+BARNES, Jonathan. **Filósofos pré-socráticos.** 2. ed. São Paulo: M. Fontes, 1997
 
-INSTITUTOFEDERAL PARANA 
+CHAUÍ, Marilena. **Iniciação à Filosofia: ensino médio.** São Paulo: Ática, 2010.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+60
 
-## **Câmpus Curitiba do IFPR** 
+INSTITUTOFEDERAL PARANA
 
-**Curso: Mecânica Integrado** 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-**Componente Curricular** : FILOSOFIA I **Carga Horária** (hora aula): 40 
+**Bibliografia Complementar:** ABBAGNANO, Nicola. **História da filosofia.** 6. ed. Vol. 1 e 2 Lisboa: Presença, 2000.
 
-**Eixo Tecnológico: Controle e Processos Industriais** 
+REALE, Giovanni; ANTISERI, Dario. **História da filosofia.** Vol. 1 e 2. São Paulo: Paulus, 2003. PLATÃO. **A República.** São Paulo: Difusão Européia do Livro, s/d.
 
-**Período letivo:** 1º ano 
+61
 
-## **Ementa:** 
+MinisteriodaEducacao INSTITUTOFEDERAL InstitutoFederaldoParana PARANA
 
-Conhecer e analisar os principais tópicos da tradição filosófica antiga, desde o rompimento para com a Mitologia até a construção sistemática de Aristóteles, perpassando aspectos da filosofia teórica e prática, conforme descrição: 
+**Câmpus Curitiba do IFPR Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular** : FILOSOFIA II **Carga Horária (** hora aula): 40 **Período letivo:** 2º ano
 
-## - **ORIGEM DA FILOSOFIA** 
+**Ementa:**
 
-- **Origem da Filosofia** 
+Conhecer e analisar os principais tópicos da tradição filosófica da medieval e Moderna, em termos de Filosofia Teórica e Política, perpassando o Racionalismo, Empirismo, Contractualismo e Iluminismo, conforme descrição:
 
-- **Definição de Filosofia** 
+1 - **FILOSOFIA MEDIEVAL E A FUSÃO ENTRE HELENISMO E CRISTIANISMO** 1. **A transição do Medievo à Idade das Luzes**
 
-- **Áreas da Filosofia** 
+2. – **O ALVORECER DA MODERNIDADE**
 
-## - **O NASCIMENTO DA RACIONALIDADE OCIDENTAL** 
+   1. **A construção do homem moderno**
 
-– **Heráclito e Parmênides** 
+2.2 - **O Renascimento e o novo debate político**
 
-– **Teoria do Conhecimento em Platão e Aristóteles** 
+2.3 – **A construção da ideia de Estado Moderno**
 
-– **ÉTICA E POLÍTICA:** 
+## 3 - **O CONTRATUALISMO**
 
-- **A construção da ética e da política ocidentais** 
+3.1 – **A consolidação da ideia de Estado Moderno**
 
-- **Política e ética em Platão e Aristóteles** 
+3.2 – **A concepção de Estado de Thomas Hobbes**
 
-## – **HELENISMO** 
+3.3 – **A proposta de Estado de Rousseau e John Locke**
 
-## - **Helenismo e a Filosofia Greco-romana** 
+4 - **O ADVENTO DA CONSCIÊNCIA E DA CIÊNCIA MODERNA**
 
-- **O novo homem ocidental** 
+4.1 – **O Novo Método de Francis Bacon**
 
-**Bibliografia Básica:** ARISTÓTELES. **Obras. Poetica. Retorica. Logica. Fisica. Metafisica. Tratados de etica. Politica: constitucion de Atenas.** Madrid, Espanha: Aguilar, s/d. 
+4.2 – **A Revolução Cartesiano**
 
-BARNES, Jonathan. **Filósofos pré-socráticos.** 2. ed. São Paulo: M. Fontes, 1997 
+4.3 – **Empirismo e experimentalismo: John Locke e David Hume**
 
-CHAUÍ, Marilena. **Iniciação à Filosofia: ensino médio.** São Paulo: Ática, 2010. 
+5 - **FILOSOFIA MODERNA: A RAZÃO COMO PARADIGMA ÉTICO**
 
-60 
+5.1 – **A Ética de Espinosa**
 
-INSTITUTOFEDERAL PARANA 
+5.2 – **Immanuel Kant e a emancipação Racional e Moral**
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## **Bibliografia Básica:**
 
-**Bibliografia Complementar:** ABBAGNANO, Nicola. **História da filosofia.** 6. ed. Vol. 1 e 2 Lisboa: Presença, 2000. 
+GOSTINHO. **Confissões.** São Paulo: Nova Cultural, 2000. (Os Pensadores)
 
-REALE, Giovanni; ANTISERI, Dario. **História da filosofia.** Vol. 1 e 2. São Paulo: Paulus, 2003. PLATÃO. **A República.** São Paulo: Difusão Européia do Livro, s/d. 
+CHAUÍ, Marilena. **Iniciação à Filosofia: ensino médio.** São Paulo: Ática, 2010. DESCARTES, René. **Discurso do método. As paixões da alma. Meditações. Objeções e respostas.** São Paulo: Nova Cultural, 1996. (Os pensadores).
 
-61 
+HUME, David. **Tratado da natureza humana:** uma tentativa de introduzir o método experimental de raciocínio nos assuntos morais. São Paulo: UNESP, 2001
 
-MinisteriodaEducacao INSTITUTOFEDERAL InstitutoFederaldoParana PARANA 
+INSTITUTOFEDERAL<br>PARANA<br>MinisteriodaEducacao InstitutoFederaldoParana
 
-**Câmpus Curitiba do IFPR Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular** : FILOSOFIA II **Carga Horária (** hora aula): 40 **Período letivo:** 2º ano 
+KANT, Immanuel. **À paz perpétua.** Porto Alegre: L & PM, 1989.
 
-**Ementa:** 
+LOCKE, John. **Carta acerca da tolerância. Segundo tratado sobre o governo. Ensaio acerca do entendimento humano.** São Paulo: Abril Cultural, 2000. (Os pensadores).
 
-Conhecer e analisar os principais tópicos da tradição filosófica da medieval e Moderna, em termos de Filosofia Teórica e Política, perpassando o Racionalismo, Empirismo, Contractualismo e Iluminismo, conforme descrição: 
+ROUSSEAU, Jean-Jacques. **Contrato social.** São Paulo: Formar, [s.d.]. 130 p. (Grandes mestres do pensamento, 2).
 
-1 - **FILOSOFIA MEDIEVAL E A FUSÃO ENTRE HELENISMO E CRISTIANISMO** 1. **A transição do Medievo à Idade das Luzes** 
+**Bibliografia Complementar:** ABBAGNANO, Nicola. **História da filosofia.** 6. ed. Vol. 1 e 2 Lisboa: Presença, 2000.
 
-2. – **O ALVORECER DA MODERNIDADE** 
+REALE, Giovanni; ANTISERI, Dario. **História da filosofia.** Vol. 1 e 2. São Paulo: Paulus, 2003.
 
-   1. **A construção do homem moderno** 
+TOMÁS DE AQUINO, Santo. **Suma Teológica.** 2. ed. Porto Alegre: Escola Superior de Teologia São Lourenço de Brindes, 1980. 12 vol
 
-2.2 - **O Renascimento e o novo debate político** 
+63
 
-2.3 – **A construção da ideia de Estado Moderno** 
+INSTITUTOFEDERAL PARANA
 
-## 3 - **O CONTRATUALISMO** 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-3.1 – **A consolidação da ideia de Estado Moderno** 
+**Câmpus Curitiba do IFPR Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular** : FILOSOFIA III **Carga Horária** (hora aula): 40 **Período letivo:** 3º ano **Ementa:**
 
-3.2 – **A concepção de Estado de Thomas Hobbes** 
+Conhecer e analisar os principais tópicos da tradição filosófica da contemporânea, na tentativa de apresentar o posto da Filosofia no contexto atual, refletindo temas do passado recente e presente, conforme descrição:
 
-3.3 – **A proposta de Estado de Rousseau e John Locke** 
+## 1 - **FILOSOFIA CONTEMPORÂNEA**
 
-4 - **O ADVENTO DA CONSCIÊNCIA E DA CIÊNCIA MODERNA** 
+## 1. - **A Crise do Racionalismo Moderno** 2. – **o Idealismo Absoluto de Hegel e seus prolongamentos**
 
-4.1 – **O Novo Método de Francis Bacon** 
+## 2. – **A CRISE DE IDENTIDADE FILOSÓFICA**
 
-4.2 – **A Revolução Cartesiano** 
+1. – **Nietzsche e a revisão da Metafísica**
 
-4.3 – **Empirismo e experimentalismo: John Locke e David Hume** 
+2. – **Metafísica e Niilismo**
 
-5 - **FILOSOFIA MODERNA: A RAZÃO COMO PARADIGMA ÉTICO** 
+## 3– **FENOMENOLOGIA E HERMENÊUTICA**
 
-5.1 – **A Ética de Espinosa** 
+1. – **Tentativas de Reabilitação da Filosofia**
 
-5.2 – **Immanuel Kant e a emancipação Racional e Moral** 
+2. – **Filosofia como “ciência rigorosa”**
 
-## **Bibliografia Básica:** 
+## 4- **A DISSOLUÇÃO DA “IGUALDADE” BURGUESA**
 
-GOSTINHO. **Confissões.** São Paulo: Nova Cultural, 2000. (Os Pensadores) 
+1. – **A Filosofia como crítica social: Marx; Gramsci** 2. – **Filosofia e Pensamento Político Contemporâneo** 3. - **Totalitarismo, Nazismo, Alienação, Indústria Cultural**
 
-CHAUÍ, Marilena. **Iniciação à Filosofia: ensino médio.** São Paulo: Ática, 2010. DESCARTES, René. **Discurso do método. As paixões da alma. Meditações. Objeções e respostas.** São Paulo: Nova Cultural, 1996. (Os pensadores). 
+## 5- **TEMAS DO NOSSO COTIDIANO**
 
-HUME, David. **Tratado da natureza humana:** uma tentativa de introduzir o método experimental de raciocínio nos assuntos morais. São Paulo: UNESP, 2001 
+1. **Sexualidade**
 
-62 
+2. – **Técnica**
 
-**==> picture [69 x 16] intentionally omitted <==**
+3. – **Política**
 
-**----- Start of picture text -----**<br>
-INSTITUTOFEDERAL<br>PARANA<br>**----- End of picture text -----**<br>
+4. – **Questões de Gênero**
 
+64
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+1 INSTITUTOFEDERAL MinisteriodaEducacao PARANA InstitutoFederaldoParana **Bibliografia Básica:** CHAUÍ, Marilena. **Iniciação à Filosofia: ensino médio.** São Paulo: Ática, 2010. GILES, Thomas Ransom. **História do existencialismo e da fenomenologia.** São Paulo: EPU, 1975. HEIDEGGER, Martin. **Da experiência do pensar.** Porto Alegre-RS: Globo, 1969.
 
-KANT, Immanuel. **À paz perpétua.** Porto Alegre: L & PM, 1989. 
+**Bibliografia Complementar:** ABBAGNANO, Nicola. **História da filosofia.** 6. ed. Vol. 1 e 2 Lisboa: Presença, 2000.
 
-LOCKE, John. **Carta acerca da tolerância. Segundo tratado sobre o governo. Ensaio acerca do entendimento humano.** São Paulo: Abril Cultural, 2000. (Os pensadores). 
+REALE, Giovanni; ANTISERI, Dario. **História da filosofia.** Vol. 1 e 2. São Paulo: Paulus, 2003. HUME, David. **Tratado da natureza humana:** uma tentativa de introduzir o método experimental de raciocínio nos assuntos morais. São Paulo: UNESP, 2001
 
-ROUSSEAU, Jean-Jacques. **Contrato social.** São Paulo: Formar, [s.d.]. 130 p. (Grandes mestres do pensamento, 2). 
+INSTITUTOFEDERAL<br>PARANA<br>MinisteriodaEducacao<br>InstitutoFederaldoParana<br>## **Câmpus Curitiba do IFPR**
 
-**Bibliografia Complementar:** ABBAGNANO, Nicola. **História da filosofia.** 6. ed. Vol. 1 e 2 Lisboa: Presença, 2000. 
+**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais**
 
-REALE, Giovanni; ANTISERI, Dario. **História da filosofia.** Vol. 1 e 2. São Paulo: Paulus, 2003. 
+**Componente Curricular** : Educação Física I **Carga Horária** : 80h **Período letivo:** 1º ano
 
-TOMÁS DE AQUINO, Santo. **Suma Teológica.** 2. ed. Porto Alegre: Escola Superior de Teologia São Lourenço de Brindes, 1980. 12 vol 
+## **Ementa:**
 
-63 
+Análise das diversas manifestações da Atividade Corporal nas diferentes fases da existência humana: Histórico, fundamentos teórico\práticos e vivência de elementos da Cultura Corporal como jogos, brincadeiras, dança, esportes, ginástica, lutas, etc.; em contextos históricos, culturais e sociais distintos.
 
-INSTITUTOFEDERAL PARANA 
+## **Bibliografia Básica:**
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+- CASTELLANI FILHO, Lino. **Educação física no Brasil** : a história que não se conta. Campinas: Papirus, 1988.
 
-**Câmpus Curitiba do IFPR Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular** : FILOSOFIA III **Carga Horária** (hora aula): 40 **Período letivo:** 3º ano **Ementa:** 
+- FERREIRA, V. **Dança escolar** : um novo ritmo. Rio de Janeiro: Sprint, 2005.
 
-Conhecer e analisar os principais tópicos da tradição filosófica da contemporânea, na tentativa de apresentar o posto da Filosofia no contexto atual, refletindo temas do passado recente e presente, conforme descrição: 
+- MELO, Victor Andrade de. **História da educação física e do esporte no Brasil** . São Paulo: Ibrasa, 1999.
 
-## 1 - **FILOSOFIA CONTEMPORÂNEA** 
+- SECRETARIA DE ESTADO DA EDUCAÇÃO. **Livro didático público da Educação física** . Curitiba: SEED-PR, 2006.
 
-## 1. - **A Crise do Racionalismo Moderno** 2. – **o Idealismo Absoluto de Hegel e seus prolongamentos** 
+- SOARES, Carmen Lúcia. **Educação física** : raízes européias e Brasil. Campinas: Autores Associados, 2001.
 
-## 2. – **A CRISE DE IDENTIDADE FILOSÓFICA** 
+## **Bibliografia Complementar:**
 
-1. – **Nietzsche e a revisão da Metafísica** 
+- BARDINI, Carmela. **Danças Circulares** . In: FOLHAS. Secretaria de Estado da Educação, SEED. Curitiba, Paraná, 2009.
 
-2. – **Metafísica e Niilismo** 
+- BROTTO, F. O. **Jogos cooperativos** : o jogo e o esporte como um exercício de convivência. Santos: Projeto Cooperação, 2002.
 
-## 3– **FENOMENOLOGIA E HERMENÊUTICA** 
+- COLETIVO DE AUTORES. **Metodologia do Ensino da Educação Física** . 2 ed., São Paulo: Cortez, 2009.
 
-1. – **Tentativas de Reabilitação da Filosofia** 
+- • DANTAS, Estélio H. M. **Pensando o corpo e o movimento** . Rio de Janeiro: Shape, 2005.
 
-2. – **Filosofia como “ciência rigorosa”** 
+- • PRONI, M. W. e LUCENA, R. **Esporte, História e Sociedade** . Campinas: Autores Associados, 2002.
 
-## 4- **A DISSOLUÇÃO DA “IGUALDADE” BURGUESA** 
-
-1. – **A Filosofia como crítica social: Marx; Gramsci** 2. – **Filosofia e Pensamento Político Contemporâneo** 3. - **Totalitarismo, Nazismo, Alienação, Indústria Cultural** 
-
-## 5- **TEMAS DO NOSSO COTIDIANO** 
-
-1. **Sexualidade** 
-
-2. – **Técnica** 
-
-3. – **Política** 
-
-4. – **Questões de Gênero** 
-
-64 
-
-1 INSTITUTOFEDERAL MinisteriodaEducacao PARANA InstitutoFederaldoParana **Bibliografia Básica:** CHAUÍ, Marilena. **Iniciação à Filosofia: ensino médio.** São Paulo: Ática, 2010. GILES, Thomas Ransom. **História do existencialismo e da fenomenologia.** São Paulo: EPU, 1975. HEIDEGGER, Martin. **Da experiência do pensar.** Porto Alegre-RS: Globo, 1969. 
-
-**Bibliografia Complementar:** ABBAGNANO, Nicola. **História da filosofia.** 6. ed. Vol. 1 e 2 Lisboa: Presença, 2000. 
-
-REALE, Giovanni; ANTISERI, Dario. **História da filosofia.** Vol. 1 e 2. São Paulo: Paulus, 2003. HUME, David. **Tratado da natureza humana:** uma tentativa de introduzir o método experimental de raciocínio nos assuntos morais. São Paulo: UNESP, 2001 
-
-65 
-
-**==> picture [69 x 16] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-INSTITUTOFEDERAL<br>PARANA<br>**----- End of picture text -----**<br>
-
-
-**==> picture [97 x 18] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
-
-
-## **Câmpus Curitiba do IFPR** 
-
-**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais** 
-
-**Componente Curricular** : Educação Física I **Carga Horária** : 80h **Período letivo:** 1º ano 
-
-## **Ementa:** 
-
-Análise das diversas manifestações da Atividade Corporal nas diferentes fases da existência humana: Histórico, fundamentos teórico\práticos e vivência de elementos da Cultura Corporal como jogos, brincadeiras, dança, esportes, ginástica, lutas, etc.; em contextos históricos, culturais e sociais distintos. 
-
-## **Bibliografia Básica:** 
-
-- CASTELLANI FILHO, Lino. **Educação física no Brasil** : a história que não se conta. Campinas: Papirus, 1988. 
-
-- FERREIRA, V. **Dança escolar** : um novo ritmo. Rio de Janeiro: Sprint, 2005. 
-
-- MELO, Victor Andrade de. **História da educação física e do esporte no Brasil** . São Paulo: Ibrasa, 1999. 
-
-- SECRETARIA DE ESTADO DA EDUCAÇÃO. **Livro didático público da Educação física** . Curitiba: SEED-PR, 2006. 
-
-- SOARES, Carmen Lúcia. **Educação física** : raízes européias e Brasil. Campinas: Autores Associados, 2001. 
-
-## **Bibliografia Complementar:** 
-
-- BARDINI, Carmela. **Danças Circulares** . In: FOLHAS. Secretaria de Estado da Educação, SEED. Curitiba, Paraná, 2009. 
-
-- BROTTO, F. O. **Jogos cooperativos** : o jogo e o esporte como um exercício de convivência. Santos: Projeto Cooperação, 2002. 
-
-- COLETIVO DE AUTORES. **Metodologia do Ensino da Educação Física** . 2 ed., São Paulo: Cortez, 2009. 
-
-- • DANTAS, Estélio H. M. **Pensando o corpo e o movimento** . Rio de Janeiro: Shape, 2005. 
-
-- • PRONI, M. W. e LUCENA, R. **Esporte, História e Sociedade** . Campinas: Autores Associados, 2002. 
-
-66 
+66
 
 |**Curso: Mecânica Integrado**<br>INSTITUTOFEDERAL||**Eixo Tecnológico: Controle e**<br>**Processos Industriais**<br>Ministerioda Educacao<br>~~InctitutoEodoraldoP~~arana|**Eixo Tecnológico: Controle e**<br>**Processos Industriais**<br>Ministerioda Educacao<br>~~InctitutoEodoraldoP~~arana|**Eixo Tecnológico: Controle e**<br>**Processos Industriais**<br>Ministerioda Educacao<br>~~InctitutoEodoraldoP~~arana|
 |---|---|---|---|---|
 |**Componente Curricular**: Educação Física II|||||
 |**Carga Horária(horas-aulas): **80h||**Período letivo:**2º ano|||
 
+## **Ementa:**
 
+Análise das transformações culturais e filosóficas da humanidade e sua influência sobre o Corpo. Relações entre o mundo do trabalho e o esporte na contemporaneidade; Vivência e discussão de elementos da Cultura Corporal como as lutas, a dança, o esporte e o lazer, frente a aspectos históricos, culturais e movimentos sociais. Atividade física, saúde e qualidade de vida.
 
-## **Ementa:** 
+## **Bibliografia Básica:**
 
-Análise das transformações culturais e filosóficas da humanidade e sua influência sobre o Corpo. Relações entre o mundo do trabalho e o esporte na contemporaneidade; Vivência e discussão de elementos da Cultura Corporal como as lutas, a dança, o esporte e o lazer, frente a aspectos históricos, culturais e movimentos sociais. Atividade física, saúde e qualidade de vida. 
+- BETTI, Mauro. **Janela de vidro** : esporte, televisão e educação física. Campinas: Papirus, 1998.
 
-## **Bibliografia Básica:** 
+- GONÇALVES, M. A. S. **Sentir, pensar, agir** : corporeidade e educação. 5 ed. Campinas: Papirus, 2001.
 
-- BETTI, Mauro. **Janela de vidro** : esporte, televisão e educação física. Campinas: Papirus, 1998. 
+- MARCELLINO, Nelson Carvalho. **Estudos do lazer** : uma introdução. 2. ed. ampl. Campinas: Autores Associados, 2000.
 
-- GONÇALVES, M. A. S. **Sentir, pensar, agir** : corporeidade e educação. 5 ed. Campinas: Papirus, 2001. 
+- SECRETARIA DE ESTADO DA EDUCAÇÃO. **Livro didático público da Educação física** . Curitiba: SEED-PR, 2006.
 
-- MARCELLINO, Nelson Carvalho. **Estudos do lazer** : uma introdução. 2. ed. ampl. Campinas: Autores Associados, 2000. 
+- SOARES, Carmen Lúcia. **Educação física** : raízes europeias e Brasil. Campinas: Autores Associados, 2001.
 
-- SECRETARIA DE ESTADO DA EDUCAÇÃO. **Livro didático público da Educação física** . Curitiba: SEED-PR, 2006. 
+## •
 
-- SOARES, Carmen Lúcia. **Educação física** : raízes europeias e Brasil. Campinas: Autores Associados, 2001. 
+## **Bibliografia Complementar:**
 
-## • 
+- ASSIS DE OLIVEIRA, Sávio. **Reinventando o esporte** : possibilidade da prática pedagógica. Campinas: Autores Associados, 2001.
 
-## **Bibliografia Complementar:** 
+- BRACHT, Valter. **Sociologia crítica do Esporte** . Ijuí: Unijuí, 2003.
 
-- ASSIS DE OLIVEIRA, Sávio. **Reinventando o esporte** : possibilidade da prática pedagógica. Campinas: Autores Associados, 2001. 
+- DANTAS, Estélio H. M. **Pensando o corpo e o movimento** . Rio de Janeiro: Shape, 2005.
 
-- BRACHT, Valter. **Sociologia crítica do Esporte** . Ijuí: Unijuí, 2003. 
+- LUCENA, Ricardo de Figueredo. **O esporte na cidade:** aspectos do esforço civilizador brasileiro. Campinas: Autores Associados, 2001.
 
-- DANTAS, Estélio H. M. **Pensando o corpo e o movimento** . Rio de Janeiro: Shape, 2005. 
+- PEREIRA NETTO, Nilo Silva. **Mancala** . In: FOLHAS. Secretaria de Estado da Educação, SEED. Curitiba, Paraná, 2011.
 
-- LUCENA, Ricardo de Figueredo. **O esporte na cidade:** aspectos do esforço civilizador brasileiro. Campinas: Autores Associados, 2001. 
+INSTITUTOFEDERAL<br>PARANA<br>MinisteriodaEducacao<br>InstitutoFederaldoParana<br>## **Câmpus Curitiba do IFPR**
 
-- PEREIRA NETTO, Nilo Silva. **Mancala** . In: FOLHAS. Secretaria de Estado da Educação, SEED. Curitiba, Paraná, 2011. 
+## **Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais**
 
-67 
+**Componente Curricular** : Educação Física III **Carga Horária (horas-aulas)** : 40h **Período letivo:** 3º ano
 
-**==> picture [69 x 16] intentionally omitted <==**
+## **Ementa:**
 
-**----- Start of picture text -----**<br>
-INSTITUTOFEDERAL<br>PARANA<br>**----- End of picture text -----**<br>
+Elementos da Cultura Corporal: Dança, Lutas, Jogos, Brincadeiras e Esportes - modalidades específicas e suas características. Estudo e Promoção da Saúde e da Qualidade de Vida. Políticas Públicas de Esporte e Lazer. Aplicação prática de conceitos específicos da ciência da ação motriz. Reflexão crítica e contextual das dimensões da Cultura Corporal.
 
+## **Bibliografia Básica:**
 
-**==> picture [97 x 20] intentionally omitted <==**
+- BETTI, Mauro. **Janela de vidro** : esporte, televisão e educação física. Campinas: Papirus, 1998.
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+- DANTAS, Estélio H. M. **Pensando o corpo e o movimento** . Rio de Janeiro: Shape, 2005.
 
+- MELO, Marcelo Paula de. **Esporte e Juventude Pobre** : políticas públicas de lazer na Vila Olímpica da Maré. Campinas: Autores Associados, 2005.
 
-## **Câmpus Curitiba do IFPR** 
+- NAHAS, Markus V. **Atividade física, saúde e qualidade de vida** : conceitos e sugestões para um estilo de vida ativo. 5. ed. Londrina: Midiograf, 2010.
 
-## **Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais** 
+- SHARKEY, B. J. **Condicionamento físico e saúde** . 4 ed. Porto Alegre: ArtMed,1998.
 
-**Componente Curricular** : Educação Física III **Carga Horária (horas-aulas)** : 40h **Período letivo:** 3º ano 
+## **Bibliografia Complementar:**
 
-## **Ementa:** 
+- BRACHT, Valter. **Sociologia crítica do Esporte** . Ijuí: Unijuí, 2003.
 
-Elementos da Cultura Corporal: Dança, Lutas, Jogos, Brincadeiras e Esportes - modalidades específicas e suas características. Estudo e Promoção da Saúde e da Qualidade de Vida. Políticas Públicas de Esporte e Lazer. Aplicação prática de conceitos específicos da ciência da ação motriz. Reflexão crítica e contextual das dimensões da Cultura Corporal. 
+- COSTA, Roberto Fernandes da. **Composição corporal:** teoria e prática da avaliação. São Paulo: Manole, 2001.
 
-## **Bibliografia Básica:** 
+- DAOLIO, Jocimar. **Futebol, cultura e sociedade** . Campinas: Autores Associados, 2005.
 
-- BETTI, Mauro. **Janela de vidro** : esporte, televisão e educação física. Campinas: Papirus, 1998. 
+- MARCELLINO, Nelson Carvalho. **Lazer e educação** . 2 ed. São Paulo: Papirus, 1990.
 
-- DANTAS, Estélio H. M. **Pensando o corpo e o movimento** . Rio de Janeiro: Shape, 2005. 
+- STIGGER, Marco Paulo. **Esporte, lazer e estilos de vida** : um estudo etnográfico. Campinas, SP: Autores Associados, 2002.
 
-- MELO, Marcelo Paula de. **Esporte e Juventude Pobre** : políticas públicas de lazer na Vila Olímpica da Maré. Campinas: Autores Associados, 2005. 
+68
 
-- NAHAS, Markus V. **Atividade física, saúde e qualidade de vida** : conceitos e sugestões para um estilo de vida ativo. 5. ed. Londrina: Midiograf, 2010. 
+INSTITUTOFEDERAL PARANA
 
-- SHARKEY, B. J. **Condicionamento físico e saúde** . 4 ed. Porto Alegre: ArtMed,1998. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-## **Bibliografia Complementar:** 
+## **Câmpus Curitiba do IFPR**
 
-- BRACHT, Valter. **Sociologia crítica do Esporte** . Ijuí: Unijuí, 2003. 
+**Curso: Mecânica Integrado**
 
-- COSTA, Roberto Fernandes da. **Composição corporal:** teoria e prática da avaliação. São Paulo: Manole, 2001. 
+**Eixo Tecnológico: Controle e Processos Industriais**
 
-- DAOLIO, Jocimar. **Futebol, cultura e sociedade** . Campinas: Autores Associados, 2005. 
+**Componente Curricular** : Artes I **Carga Horária** (hora-aula):40 **Período letivo:** 1[o] ano **Ementa**
 
-- MARCELLINO, Nelson Carvalho. **Lazer e educação** . 2 ed. São Paulo: Papirus, 1990. 
+Os elementos formais das 5 linguagens artísticas básicas: a) música, b) artes visuais, c) teatro d) dança e) artes audiovisuais; as diferentes linguagens artísticas e as suas relações com os contextos de criação, com ênfase na música (ritmo, grafia musical, timbre, etc) e no audiovisual (gravação sonora, relação entre som e imagem, a arte na publicidade e psicoacustica da música); apreciação e produção artística; a história da arte: períodos e movimentos artísticos, com ênfase na pré-história, antiguidade (arte egipcia e arte grega), idade média, renascimento, barroco e clássico; o papel da arte na humanidade e o desenvolvimento e compreensão das manifestações artísticas em seus diferentes contextos; cultura popular e a música popular brasileira; prática musical.
 
-- STIGGER, Marco Paulo. **Esporte, lazer e estilos de vida** : um estudo etnográfico. Campinas, SP: Autores Associados, 2002. 
+**Bibliografia Básica:** PROENÇA, Graça. Descobrindo a história da arte. São Paulo: Ática, 2008. CANDÉ, Roland de. História universal da música. 2 volumes. São Paulo: Martins Fontes, 2001. CASCUDO, Luis da Câmara. Dicionário do Folclore Brasileiro. Belo Horizonte: Itatiaia, 1988. OSTROWER, Fayga. Universos da arte. 24.ed. Rio de Janeiro: Campus, 2004. GEERTZ, Clifford. A interpretação das culturas. Rio de Janeiro: LTC, 1973. GRIFFITHS, Paul. A música moderna. Rio de Janeiro: Jorge Zahar, 1998. GROUT, Donald J. & PALISCA, Claude V. História da música ocidental. Lisboa: Gradiva, 2005.
 
-68 
+MED, Bohumil. Teoria da música.  4.ed. Brasília: Musimed, 1996. SCHAFER, R. Murray. O ouvido pensante. São Paulo: Editora UNESP, 1991. ______. A afinação do mundo. São Paulo: Editora UNESP, 2001. WISNIK, José Miguel. O som e o sentido. São Paulo: Companhia das Letras, 2002.
 
-INSTITUTOFEDERAL PARANA 
+## **Bibliografia Complementar:**
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+POZENATO, Kenia. Introdução a história da arte. Porto Alegre: Mercado Aberto, 1998. BARRAL I ALTET, Xavier. História da arte. Campinas: Papirus, 1994. NUNES, Benedito. Introdução a filosofia da arte. São Paulo: Ática, 2008. TIRAPELI, Percival. Arte indígena do pré-colonial a contemporaneidade. São Paulo: Nacional, 2007. CALABRIA, Carla Paula Brondi. Arte, história e produção 1: Arte brasileira. São Paulo: FTD, 1997. IAVELBERG, Rosa. Para gostar de aprender arte: sala de aula e formação de professores. São Paulo: Artmed, 2003. FUSARI, Maria F. de Rezende e. Arte na educação escolar. São Paulo: Cortez, 2001. SANT’ANNA, Affonso Romano de. Baroque: âme du Brésil. Rio de Janeiro: Comunicação Máxima, 1997. GRAMANI, Daniella (Org.). Rabeca, o som do inesperado. Curitiba: [s.n.], 2003.
 
-## **Câmpus Curitiba do IFPR** 
+69
 
-**Curso: Mecânica Integrado** 
+MinisteriodaEducacao INSTITUTOFEDERAL InstitutoFederaldoParana PARANA
 
-**Eixo Tecnológico: Controle e Processos Industriais** 
+MARCHI, Lia; SAENGER, Juliana;  CORRÊA,  Roberto  (Org.).  Tocadores: homem, terra, música e cordas. Curitiba: Olaria, 2002.
 
-**Componente Curricular** : Artes I **Carga Horária** (hora-aula):40 **Período letivo:** 1[o] ano **Ementa** 
+MARIZ. Vasco. História da Música no Brasil. Rio de Janeiro: Nova Fronteira, 2005. SACKS, Oliver. Alicinações musicais. São Paulo: Companhia das Letras, 2007. PEVSNER, Nikolaus. Origens da arquitetura moderna e do design. 2.ed. São Paulo: Martins Fontes, 2001. GOMBRICH, E.H. A História da Arte. Rio de Janeiro: LTC, 1999. SANTOS, Maria das Graças V. Proença dos. História da arte. 16.ed. São Paulo: Ática, 2001.
 
-Os elementos formais das 5 linguagens artísticas básicas: a) música, b) artes visuais, c) teatro d) dança e) artes audiovisuais; as diferentes linguagens artísticas e as suas relações com os contextos de criação, com ênfase na música (ritmo, grafia musical, timbre, etc) e no audiovisual (gravação sonora, relação entre som e imagem, a arte na publicidade e psicoacustica da música); apreciação e produção artística; a história da arte: períodos e movimentos artísticos, com ênfase na pré-história, antiguidade (arte egipcia e arte grega), idade média, renascimento, barroco e clássico; o papel da arte na humanidade e o desenvolvimento e compreensão das manifestações artísticas em seus diferentes contextos; cultura popular e a música popular brasileira; prática musical. 
+INSTITUTOFEDERAL<br>PARANA<br>MinisteriodaEducacao InstitutoFederaldoParana
 
-**Bibliografia Básica:** PROENÇA, Graça. Descobrindo a história da arte. São Paulo: Ática, 2008. CANDÉ, Roland de. História universal da música. 2 volumes. São Paulo: Martins Fontes, 2001. CASCUDO, Luis da Câmara. Dicionário do Folclore Brasileiro. Belo Horizonte: Itatiaia, 1988. OSTROWER, Fayga. Universos da arte. 24.ed. Rio de Janeiro: Campus, 2004. GEERTZ, Clifford. A interpretação das culturas. Rio de Janeiro: LTC, 1973. GRIFFITHS, Paul. A música moderna. Rio de Janeiro: Jorge Zahar, 1998. GROUT, Donald J. & PALISCA, Claude V. História da música ocidental. Lisboa: Gradiva, 2005. 
+## **Câmpus Curitiba do IFPR**
 
-MED, Bohumil. Teoria da música.  4.ed. Brasília: Musimed, 1996. SCHAFER, R. Murray. O ouvido pensante. São Paulo: Editora UNESP, 1991. ______. A afinação do mundo. São Paulo: Editora UNESP, 2001. WISNIK, José Miguel. O som e o sentido. São Paulo: Companhia das Letras, 2002. 
+**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais**
 
-## **Bibliografia Complementar:** 
+**Componente Curricular** : Artes II **Carga Horária** ( hora aula):40 **Período letivo:** 2[o] ano
 
-POZENATO, Kenia. Introdução a história da arte. Porto Alegre: Mercado Aberto, 1998. BARRAL I ALTET, Xavier. História da arte. Campinas: Papirus, 1994. NUNES, Benedito. Introdução a filosofia da arte. São Paulo: Ática, 2008. TIRAPELI, Percival. Arte indígena do pré-colonial a contemporaneidade. São Paulo: Nacional, 2007. CALABRIA, Carla Paula Brondi. Arte, história e produção 1: Arte brasileira. São Paulo: FTD, 1997. IAVELBERG, Rosa. Para gostar de aprender arte: sala de aula e formação de professores. São Paulo: Artmed, 2003. FUSARI, Maria F. de Rezende e. Arte na educação escolar. São Paulo: Cortez, 2001. SANT’ANNA, Affonso Romano de. Baroque: âme du Brésil. Rio de Janeiro: Comunicação Máxima, 1997. GRAMANI, Daniella (Org.). Rabeca, o som do inesperado. Curitiba: [s.n.], 2003. 
+**Ementa**
 
-69 
+Os elementos formadores das 5 linguagens artísticas básicas: a) música, b) artes visuais, c) teatro d) dança e)artes áudio visuais; as diferentes linguagens artísticas e as suas relações com os contextos de criação, com ênfase em teatro (figurino, maquiagem, texto teatral e cenário), dança (movimento expressivo, repetição e continuação do movimento), espaço, movimento individual e em grupo), performance e apreciação artística; o desenvolvimento da criatividade; a relação entre arte, sociedade e cultura; diversidades artísticas: a arte em diferentes contextos; a história da arte: períodos e movimentos artísticos com ênfase no modernismo e na arte contemporânea; interações entre as diferentes linguagens artísticas: instalações artísticas; a arte e a cultura popular e a relação entre o fazer artístico e a sociedade contemporânea.
 
-MinisteriodaEducacao INSTITUTOFEDERAL InstitutoFederaldoParana PARANA 
+**Bibliografia Básica:** BRECHT, Bertold. Estudos sobre teatro. Rio de Janeiro: Nova Fronteira, 2005. CASCUDO, Luis da Câmara. Dicionário do Folclore Brasileiro. Belo Horizonte: Itatiaia, 1988. GEERTZ, Clifford. A interpretação das culturas. Rio de Janeiro: LTC, 1973. LABAN, Rudolf. Domínio do movimento. São Paulo: Summus, 1978. OSSONA, Paulina. A educação pela dança. São Paulo: Summus Editorial, 1988. OSTROWER, Fayga. Universos da arte. 24.ed. Rio de Janeiro: Campus, 2004. PROENÇA, Graça. Descobrindo a história da arte. São Paulo: Ática, 2008.
 
-MARCHI, Lia; SAENGER, Juliana;  CORRÊA,  Roberto  (Org.).  Tocadores: homem, terra, música e cordas. Curitiba: Olaria, 2002. 
+## **Bibliografia Complementar:**
 
-MARIZ. Vasco. História da Música no Brasil. Rio de Janeiro: Nova Fronteira, 2005. SACKS, Oliver. Alicinações musicais. São Paulo: Companhia das Letras, 2007. PEVSNER, Nikolaus. Origens da arquitetura moderna e do design. 2.ed. São Paulo: Martins Fontes, 2001. GOMBRICH, E.H. A História da Arte. Rio de Janeiro: LTC, 1999. SANTOS, Maria das Graças V. Proença dos. História da arte. 16.ed. São Paulo: Ática, 2001. 
+POZENATO, Kenia. Introdução a história da arte. Porto Alegre: Mercado Aberto, 1998. BARRAL I ALTET, Xavier. História da arte. Campinas: Papirus, 1994. NUNES, Benedito. Introdução a filosofia da arte. São Paulo: Ática, 2008. CALABRIA, Carla Paula Brondi. Arte, história e produção 1: Arte brasileira. São Paulo: FTD, 1997.
 
-70 
+IAVELBERG, Rosa. Para gostar de aprender arte: sala de aula e formação de professores. São Paulo: Artmed, 2003. FUSARI, Maria F. de Rezende e. Arte na educação escolar. São Paulo: Cortez, 2001. MARIZ. Vasco. História da Música no Brasil. Rio de Janeiro: Nova Fronteira, 2005. SACKS, Oliver. Alicinações musicais. São Paulo: Companhia das Letras, 2007. ARGAN, Giulio Carlo. Arte moderna. São Paulo: Companhia das Letras, 1992. CUMMING, Robert. Para entender a arte. São Paulo: Ática, 1998. PEVSNER, Nikolaus. Origens da arquitetura moderna e do design. 2.ed. São Paulo: Martins Fontes, 2001. GOMBRICH, E.H. A História da Arte. Rio de Janeiro: LTC, 1999. CONNOR, Steven. Cultura pós-moderna: introdução às teorias do contemporâneo. 3.ed. São Paulo: Loyola, 1996.
 
-**==> picture [69 x 16] intentionally omitted <==**
+71
 
-**----- Start of picture text -----**<br>
-INSTITUTOFEDERAL<br>PARANA<br>**----- End of picture text -----**<br>
+INSTITUTOFEDERAL PARANA
 
+MinisteriodaEducacao<br>InstitutoFederaldoParana<br>SANTOS, Maria das Graças V. Proença dos. História da arte. 16.ed. São Paulo: Ática, 2001.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+72
 
-## **Câmpus Curitiba do IFPR** 
+INSTITUTOFEDERAL PARANA
 
-**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais** 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-**Componente Curricular** : Artes II **Carga Horária** ( hora aula):40 **Período letivo:** 2[o] ano 
+## **Câmpus Curitiba do IFPR**
 
-**Ementa** 
+**Curso: Mecânica Integrado**
 
-Os elementos formadores das 5 linguagens artísticas básicas: a) música, b) artes visuais, c) teatro d) dança e)artes áudio visuais; as diferentes linguagens artísticas e as suas relações com os contextos de criação, com ênfase em teatro (figurino, maquiagem, texto teatral e cenário), dança (movimento expressivo, repetição e continuação do movimento), espaço, movimento individual e em grupo), performance e apreciação artística; o desenvolvimento da criatividade; a relação entre arte, sociedade e cultura; diversidades artísticas: a arte em diferentes contextos; a história da arte: períodos e movimentos artísticos com ênfase no modernismo e na arte contemporânea; interações entre as diferentes linguagens artísticas: instalações artísticas; a arte e a cultura popular e a relação entre o fazer artístico e a sociedade contemporânea. 
+**Eixo Tecnológico: Controle e Processos Industriais**
 
-**Bibliografia Básica:** BRECHT, Bertold. Estudos sobre teatro. Rio de Janeiro: Nova Fronteira, 2005. CASCUDO, Luis da Câmara. Dicionário do Folclore Brasileiro. Belo Horizonte: Itatiaia, 1988. GEERTZ, Clifford. A interpretação das culturas. Rio de Janeiro: LTC, 1973. LABAN, Rudolf. Domínio do movimento. São Paulo: Summus, 1978. OSSONA, Paulina. A educação pela dança. São Paulo: Summus Editorial, 1988. OSTROWER, Fayga. Universos da arte. 24.ed. Rio de Janeiro: Campus, 2004. PROENÇA, Graça. Descobrindo a história da arte. São Paulo: Ática, 2008. 
+**Componente Curricular** : Artes III **Carga Horária** (hora aula): 40 **Período letivo:** 3[o] ano **Ementa**
 
-## **Bibliografia Complementar:** 
+Os elementos formadores das 5 linguagens artísticas básicas: a) música, b) artes visuais, c) teatro d) dança e)artes áudio visuais; as diferentes linguagens artísticas e as suas relações com os contextos de criação com ênfase em artes visuais (cor, textura, volume, figura e fundo, perspectiva), a arte em diferentes contextos: escola, rua, praças, teatros, espaços religiosos, espaços públicos e privados; o papel da arte como elemento humanizador e agente de transformação social; a história da arte: a contemporaneidade; arte brasileira e de outros continentes; multimídias, hipermídias e o fazer artístico contemporâneo; interações entre as diferentes linguagens artísticas: os princípios da composição e a análise de gêneros, estilos, formas e técnicas artísticas.
 
-POZENATO, Kenia. Introdução a história da arte. Porto Alegre: Mercado Aberto, 1998. BARRAL I ALTET, Xavier. História da arte. Campinas: Papirus, 1994. NUNES, Benedito. Introdução a filosofia da arte. São Paulo: Ática, 2008. CALABRIA, Carla Paula Brondi. Arte, história e produção 1: Arte brasileira. São Paulo: FTD, 1997. 
+**Bibliografia Básica:** ADES, Dawn. Arte na América Latina: a era moderna. São Paulo: Cosac & Naify, 1997. ARGAN, Giulio Carlo. A Arte Moderna, Do Iluminismo aos movimentos contemporâneos. São Paulo: Cosac & Naify, 1999. CALABRIA, Carla Paula Brondi. Arte, história e produção 1: Arte brasileira. São Paulo: FTD, 1997. CHIPPS, Herstel B.. Teorias da Arte Moderna. São Paulo: Editora Livraria Martins Fontes, 1998. DONDIS, A.. Sintaxe da Linguagem Visual. São Paulo: Editora Livraria Martins Fontes, 1992. GEERTZ, Clifford. A interpretação das culturas. Rio de Janeiro: LTC, 1973. HARRISON, Charles et al. Primitivismo, Cubismo, Abstração: Começos do Século XX. São Paulo: Cosac & Naify, 1999. KANDINSKY, Wassily. Ponto e Linha Sobre o Plano. São Paulo: Editora Livraria Martins Fontes, 1990 ORTIZ, Renato. Cultura e modernidade. São Paulo: Brasiliense, 1991. OSTROWER, Fayga. Universos da arte. 24.ed. Rio de Janeiro: Campus, 2004.
 
-IAVELBERG, Rosa. Para gostar de aprender arte: sala de aula e formação de professores. São Paulo: Artmed, 2003. FUSARI, Maria F. de Rezende e. Arte na educação escolar. São Paulo: Cortez, 2001. MARIZ. Vasco. História da Música no Brasil. Rio de Janeiro: Nova Fronteira, 2005. SACKS, Oliver. Alicinações musicais. São Paulo: Companhia das Letras, 2007. ARGAN, Giulio Carlo. Arte moderna. São Paulo: Companhia das Letras, 1992. CUMMING, Robert. Para entender a arte. São Paulo: Ática, 1998. PEVSNER, Nikolaus. Origens da arquitetura moderna e do design. 2.ed. São Paulo: Martins Fontes, 2001. GOMBRICH, E.H. A História da Arte. Rio de Janeiro: LTC, 1999. CONNOR, Steven. Cultura pós-moderna: introdução às teorias do contemporâneo. 3.ed. São Paulo: Loyola, 1996. 
+**Bibliografia Complementar:** SCHAFER, R. Murray. O ouvido pensante. São Paulo: Editora UNESP, 1991. POZENATO, Kenia. Introdução a história da arte. Porto Alegre: Mercado Aberto, 1998. BARRAL I ALTET, Xavier. História da arte. Campinas: Papirus, 1994. NUNES, Benedito. Introdução a filosofia da arte. São Paulo: Ática, 2008. PROENÇA, Graça. Descobrindo a história da arte. São Paulo: Ática, 2008. IAVELBERG, Rosa. Para gostar de aprender arte: sala de aula e formação de professores. São Paulo: Artmed, 2003. FUSARI, Maria F. de Rezende e. Arte na educação escolar. São Paulo: Cortez, 2001. SANT’ANNA, Affonso Romano de. Baroque: âme du Brésil. Rio de Janeiro: Comunicação Máxima, 1997. MARIZ. Vasco. História da Música no Brasil. Rio de Janeiro: Nova Fronteira, 2005.
 
-71 
+73
 
-INSTITUTOFEDERAL PARANA 
+INSTITUTOFEDERAL PARANA
 
-**==> picture [97 x 20] intentionally omitted <==**
+MinisteriodaEducacao InstitutoFederaldoParana
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+WISNIK, José Miguel. O som e o sentido. São Paulo: Companhia das Letras, 2002. BRECHT, Bertold. Estudos sobre teatro. Rio de Janeiro: Nova Fronteira, 2005. LABAN, Rudolf. Domínio do movimento. São Paulo: Summus, 1978. OSSONA, Paulina. A educação pela dança. São Paulo: Summus Editorial, 1988. ARGAN, Giulio Carlo. Arte moderna. São Paulo: Companhia das Letras, 1992. CUMMING, Robert. Para entender a arte. São Paulo: Ática, 1998. PEVSNER, Nikolaus. Origens da arquitetura moderna e do design. 2.ed. São Paulo: Martins Fontes, 2001. GOMBRICH, E.H. A História da Arte. Rio de Janeiro: LTC, 1999.
 
+CONNOR, Steven. Cultura pós-moderna: introdução às teorias do contemporâneo. 3.ed. São Paulo: Loyola, 1996. SANTOS, Maria das Graças V. Proença dos. História da arte. 16.ed. São Paulo: Ática, 2001.
 
-SANTOS, Maria das Graças V. Proença dos. História da arte. 16.ed. São Paulo: Ática, 2001. 
+74
 
-72 
+INSTITUTOFEDERAL PARANA
 
-INSTITUTOFEDERAL PARANA 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## **Câmpus Curitiba do IFPR**
 
-## **Câmpus Curitiba do IFPR** 
+**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular** : Língua Inglesa I **Carga Horária** (hora aula): 80 **Período letivo:** 1º ano
 
-**Curso: Mecânica Integrado** 
+**Ementa:**
 
-**Eixo Tecnológico: Controle e Processos Industriais** 
+Capacitar os alunos a desenvolver competência comunicativa em língua inglesa, através da leitura, compreensão e interpretação de textos, aquisição de vocabulário, estudo de aspectos gramaticais contextualizados e reflexões sobre a linguagem e a construção dos significados. Ativar o conhecimento prévio do aluno, proporcionando-lhe uma postura crítica em sua produção oral e escrita. Desenvolver reflexões em/sobre a língua inglesa com foco no Letramento Crítico considerando a língua inglesa como discurso. Representações sobre a língua inglesa em diferentes contextos sócio-discursivos. Perspectivas e conflitos na construção de sentidos em língua inglesa. Aspectos culturais e estruturais da língua inglesa com base em contextos discursivos diversos. Capacitação e desenvolvimento das competências comunicativas em língua inglesa, através da leitura, compreensão e interpretação de textos, aquisição de vocabulário, estudo de aspectos gramaticais e literários, contextualizados e reflexões sobre a linguagem e a construção dos significados. Temas locais e globais em língua inglesa (jogos e competição; tecnologia e cidadania; alimentação e saúde; sustentabilidade, dinheiro e educação financeira; direitos humanos e relações sociais). Leitura e expressão (oral e escrita) em língua.
 
-**Componente Curricular** : Artes III **Carga Horária** (hora aula): 40 **Período letivo:** 3[o] ano **Ementa** 
+**Bibliografia Básica:**
 
-Os elementos formadores das 5 linguagens artísticas básicas: a) música, b) artes visuais, c) teatro d) dança e)artes áudio visuais; as diferentes linguagens artísticas e as suas relações com os contextos de criação com ênfase em artes visuais (cor, textura, volume, figura e fundo, perspectiva), a arte em diferentes contextos: escola, rua, praças, teatros, espaços religiosos, espaços públicos e privados; o papel da arte como elemento humanizador e agente de transformação social; a história da arte: a contemporaneidade; arte brasileira e de outros continentes; multimídias, hipermídias e o fazer artístico contemporâneo; interações entre as diferentes linguagens artísticas: os princípios da composição e a análise de gêneros, estilos, formas e técnicas artísticas. 
+ANTUNES, Celso. **Como desenvolver conteúdos explorando as Inteligências Múltiplas** . Petrópolis: Vozes, 2002.
 
-**Bibliografia Básica:** ADES, Dawn. Arte na América Latina: a era moderna. São Paulo: Cosac & Naify, 1997. ARGAN, Giulio Carlo. A Arte Moderna, Do Iluminismo aos movimentos contemporâneos. São Paulo: Cosac & Naify, 1999. CALABRIA, Carla Paula Brondi. Arte, história e produção 1: Arte brasileira. São Paulo: FTD, 1997. CHIPPS, Herstel B.. Teorias da Arte Moderna. São Paulo: Editora Livraria Martins Fontes, 1998. DONDIS, A.. Sintaxe da Linguagem Visual. São Paulo: Editora Livraria Martins Fontes, 1992. GEERTZ, Clifford. A interpretação das culturas. Rio de Janeiro: LTC, 1973. HARRISON, Charles et al. Primitivismo, Cubismo, Abstração: Começos do Século XX. São Paulo: Cosac & Naify, 1999. KANDINSKY, Wassily. Ponto e Linha Sobre o Plano. São Paulo: Editora Livraria Martins Fontes, 1990 ORTIZ, Renato. Cultura e modernidade. São Paulo: Brasiliense, 1991. OSTROWER, Fayga. Universos da arte. 24.ed. Rio de Janeiro: Campus, 2004. 
+COPE, B.; KALANTZIS, M. **Multiliteracies** : literacy learning and the design of social futures. London: Routledge, 2000. DIAS, et all. **Inglês para o Ensino Médio** . 2. Ed. São Paulo: Macmillan, 2010.
 
-**Bibliografia Complementar:** SCHAFER, R. Murray. O ouvido pensante. São Paulo: Editora UNESP, 1991. POZENATO, Kenia. Introdução a história da arte. Porto Alegre: Mercado Aberto, 1998. BARRAL I ALTET, Xavier. História da arte. Campinas: Papirus, 1994. NUNES, Benedito. Introdução a filosofia da arte. São Paulo: Ática, 2008. PROENÇA, Graça. Descobrindo a história da arte. São Paulo: Ática, 2008. IAVELBERG, Rosa. Para gostar de aprender arte: sala de aula e formação de professores. São Paulo: Artmed, 2003. FUSARI, Maria F. de Rezende e. Arte na educação escolar. São Paulo: Cortez, 2001. SANT’ANNA, Affonso Romano de. Baroque: âme du Brésil. Rio de Janeiro: Comunicação Máxima, 1997. MARIZ. Vasco. História da Música no Brasil. Rio de Janeiro: Nova Fronteira, 2005. 
+FERRARI, Mariza; RUBIN, Sarah G. **Inglês** : de olho no mundo do trabalho. São Paulo: Scipione, 2007.
 
-73 
+GARDNER, Howard. **Inteligências múltiplas, a teoria na prática.** Porto Alegre: 2000.
 
-INSTITUTOFEDERAL PARANA 
+GEE, J. A. **Social linguistics** : a brief Introduction. Rowley, MA: Newbury House, 1972.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+LOURES, R.C.R – **Educar e inovar na Sustentabilidade** . Cultura: Unindus, 2008, p. 110.
 
-WISNIK, José Miguel. O som e o sentido. São Paulo: Companhia das Letras, 2002. BRECHT, Bertold. Estudos sobre teatro. Rio de Janeiro: Nova Fronteira, 2005. LABAN, Rudolf. Domínio do movimento. São Paulo: Summus, 1978. OSSONA, Paulina. A educação pela dança. São Paulo: Summus Editorial, 1988. ARGAN, Giulio Carlo. Arte moderna. São Paulo: Companhia das Letras, 1992. CUMMING, Robert. Para entender a arte. São Paulo: Ática, 1998. PEVSNER, Nikolaus. Origens da arquitetura moderna e do design. 2.ed. São Paulo: Martins Fontes, 2001. GOMBRICH, E.H. A História da Arte. Rio de Janeiro: LTC, 1999. 
+75
 
-CONNOR, Steven. Cultura pós-moderna: introdução às teorias do contemporâneo. 3.ed. São Paulo: Loyola, 1996. SANTOS, Maria das Graças V. Proença dos. História da arte. 16.ed. São Paulo: Ática, 2001. 
+MinisteriodaEducacao INSTITUTOFEDERAL InstitutoFederaldoParana PARANA
 
-74 
+## **Bibliografia Complementar:**
 
-INSTITUTOFEDERAL PARANA 
+DIAS, Reinildes; JUCÁ, Leina; FARIA, Raquel. **PRIME 1 - student's book with audio CD.** Macmillan ELT, 2010.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+KERNERMAN, L. **Password – English Dictionary for speakers of Portuguese** . Martins Fontes, 2010.
 
-## **Câmpus Curitiba do IFPR** 
+MURPHY, Raymond. **Essential Grammar in Use – Elementary-Pre-Intermediate** . CUP, 2007.
 
-**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular** : Língua Inglesa I **Carga Horária** (hora aula): 80 **Período letivo:** 1º ano 
+INSTITUTOFEDERAL<br>PARANA<br>MinisteriodaEducacao InstitutoFederaldoParana
 
-**Ementa:** 
+**Câmpus Curitiba do IFPR Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular** : Língua Inglesa II **Carga Horária** (hora aula): 80 **Período letivo:** 2º ano
 
-Capacitar os alunos a desenvolver competência comunicativa em língua inglesa, através da leitura, compreensão e interpretação de textos, aquisição de vocabulário, estudo de aspectos gramaticais contextualizados e reflexões sobre a linguagem e a construção dos significados. Ativar o conhecimento prévio do aluno, proporcionando-lhe uma postura crítica em sua produção oral e escrita. Desenvolver reflexões em/sobre a língua inglesa com foco no Letramento Crítico considerando a língua inglesa como discurso. Representações sobre a língua inglesa em diferentes contextos sócio-discursivos. Perspectivas e conflitos na construção de sentidos em língua inglesa. Aspectos culturais e estruturais da língua inglesa com base em contextos discursivos diversos. Capacitação e desenvolvimento das competências comunicativas em língua inglesa, através da leitura, compreensão e interpretação de textos, aquisição de vocabulário, estudo de aspectos gramaticais e literários, contextualizados e reflexões sobre a linguagem e a construção dos significados. Temas locais e globais em língua inglesa (jogos e competição; tecnologia e cidadania; alimentação e saúde; sustentabilidade, dinheiro e educação financeira; direitos humanos e relações sociais). Leitura e expressão (oral e escrita) em língua. 
+## **Ementa:**
 
-**Bibliografia Básica:** 
+Desenvolver competência comunicativa em língua inglesa, através da leitura, compreensão e interpretação de textos, aquisição de vocabulário, estudo de aspectos gramaticais contextualizados e reflexões sobre a linguagem e a construção dos significados. Refletir em/sobre a língua inglesa com foco no Letramento Crítico, considerando a língua inglesa como discurso, ativando o conhecimento prévio do aluno, proporcionando-lhe uma postura crítica em sua produção oral e escrita. Representações sobre a língua inglesa em diferentes contextos sócio-discursivos. Aspectos culturais e estruturais da língua inglesa com base em contextos discursivos diversos. Desenvolvimento das competências comunicativas em língua inglesa, através da leitura, compreensão e interpretação de textos, aquisição de vocabulário, estudo de aspectos gramaticais e literários, contextualizados e reflexões sobre a linguagem e a construção dos significados. Proposição de responder, mais pontualmente, às necessidades dos contextos do curso, preparando os educandos. Temas locais e globais em língua inglesa (jogos e competição; tecnologia e cidadania; alimentação e saúde; sustentabilidade, dinheiro e educação financeira; direitos humanos relações sociais). Leitura e expressão (oral e escrita) em língua inglesa. **Bibliografia Básica:** ANTUNES, Celso. **Como desenvolver conteúdos explorando as Inteligências Múltiplas** . Petrópolis: Vozes, 2002. COPE, B.; KALANTZIS, M. **Multiliteracies** : literacy learning and the design of social futures. London: Routledge, 2000. DIAS, et all. **Inglês para o Ensino Médio** . 2. Ed. São Paulo: Macmillan, 2010. FERRARI, Mariza; RUBIN, Sarah G. **Inglês** : de olho no mundo do trabalho. São Paulo: Scipione, 2007. GARDNER, Howard. **Inteligências múltiplas, a teoria na prática.** Porto Alegre: 2000.
 
-ANTUNES, Celso. **Como desenvolver conteúdos explorando as Inteligências Múltiplas** . Petrópolis: Vozes, 2002. 
+77
 
-COPE, B.; KALANTZIS, M. **Multiliteracies** : literacy learning and the design of social futures. London: Routledge, 2000. DIAS, et all. **Inglês para o Ensino Médio** . 2. Ed. São Paulo: Macmillan, 2010. 
+1 INSTITUTOFEDERAL PARANA
 
-FERRARI, Mariza; RUBIN, Sarah G. **Inglês** : de olho no mundo do trabalho. São Paulo: Scipione, 2007. 
+## MinisteriodaEducacao InstitutoFederaldoParana
 
-GARDNER, Howard. **Inteligências múltiplas, a teoria na prática.** Porto Alegre: 2000. 
+GEE, J. A. **Social linguistics** : a brief Introduction. Rowley, MA: Newbury House, 1972.
 
-GEE, J. A. **Social linguistics** : a brief Introduction. Rowley, MA: Newbury House, 1972. 
+LOURES, R.C.R – **Educar e inovar na Sustentabilidade** . Cultura: Unindus, 2008, p. 110.
 
-LOURES, R.C.R – **Educar e inovar na Sustentabilidade** . Cultura: Unindus, 2008, p. 110. 
+## **Bibliografia Complementar:**
 
-75 
+DIAS, Reinildes; JUCÁ, Leina; FARIA, Raquel. **PRIME 2 - student's book with audio CD.** Macmillan ELT, 2010.
 
-MinisteriodaEducacao INSTITUTOFEDERAL InstitutoFederaldoParana PARANA 
+KERNERMAN, L. **Password – English Dictionary for speakers of Portuguese** . Martins Fontes, 2010.
 
-## **Bibliografia Complementar:** 
+MURPHY, Raymond. **Essential Grammar in Use – Elementary-Pre-Intermediate** . CUP, 2007.
 
-DIAS, Reinildes; JUCÁ, Leina; FARIA, Raquel. **PRIME 1 - student's book with audio CD.** Macmillan ELT, 2010. 
+78
 
-KERNERMAN, L. **Password – English Dictionary for speakers of Portuguese** . Martins Fontes, 2010. 
+1INSTITUTOFEDERAL PARANA
 
-MURPHY, Raymond. **Essential Grammar in Use – Elementary-Pre-Intermediate** . CUP, 2007. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-76 
+**Câmpus Curitiba do IFPR Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular** : Língua Inglesa III **Carga Horária** (hora aula): 80 **Período letivo:** 3º ano
 
-**==> picture [69 x 16] intentionally omitted <==**
+## **Ementa:**
 
-**----- Start of picture text -----**<br>
-INSTITUTOFEDERAL<br>PARANA<br>**----- End of picture text -----**<br>
+Reflexões em/sobre a língua inglesa com foco no Letramento Crítico. A língua inglesa como discurso. Representações sobre a língua inglesa em diferentes contextos sócio-discursivos. Perspectivas e conflitos na construção de sentidos em língua inglesa. Aspectos culturais e estruturais em língua inglesa com base em contextos discursivos diversos. Leitura de produções artísticas (literatura, cinema e outras linguagens) de/em língua inglesa.
 
+Temas locais e globais em língua inglesa específicos da série, abordando vocabulário e estruturas linguísticas pertinentes: jogos e competição; tecnologia e cidadania; alimentação e saúde; dinheiro e educação financeira; Direitos Humanos. Leitura e expressão (oral e escrita) em língua inglesa.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## **Bibliografia Básica:**
 
-**Câmpus Curitiba do IFPR Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular** : Língua Inglesa II **Carga Horária** (hora aula): 80 **Período letivo:** 2º ano 
+AMOS, Eduardo; PRESCHER, Elisabeth. **The Richmond Simplified Grammar of English.** Richmond Publishing, 2008. COLLINS. **Dicionario Prático Collins Inglês-Portugues-Inglês.** São Paulo: DISAL, 2004. DIAS, Reinildes; JUCÁ, Leina; FARIA, Raquel. **PRIME 3 - student's book with audio CD.** Macmillan ELT, 2010. **OSDE Booklet.** Centre for the Study of Social and Global Justice. Nottingham University. Nottingham, England. Disponível em www.osdemethodology.org.uk. SAMPEDRO R.; HILLYARD, S. **Global Issues.** Oxford University Press, 2010.
 
-## **Ementa:** 
+## **Bibliografia Complementar:**
 
-Desenvolver competência comunicativa em língua inglesa, através da leitura, compreensão e interpretação de textos, aquisição de vocabulário, estudo de aspectos gramaticais contextualizados e reflexões sobre a linguagem e a construção dos significados. Refletir em/sobre a língua inglesa com foco no Letramento Crítico, considerando a língua inglesa como discurso, ativando o conhecimento prévio do aluno, proporcionando-lhe uma postura crítica em sua produção oral e escrita. Representações sobre a língua inglesa em diferentes contextos sócio-discursivos. Aspectos culturais e estruturais da língua inglesa com base em contextos discursivos diversos. Desenvolvimento das competências comunicativas em língua inglesa, através da leitura, compreensão e interpretação de textos, aquisição de vocabulário, estudo de aspectos gramaticais e literários, contextualizados e reflexões sobre a linguagem e a construção dos significados. Proposição de responder, mais pontualmente, às necessidades dos contextos do curso, preparando os educandos. Temas locais e globais em língua inglesa (jogos e competição; tecnologia e cidadania; alimentação e saúde; sustentabilidade, dinheiro e educação financeira; direitos humanos relações sociais). Leitura e expressão (oral e escrita) em língua inglesa. **Bibliografia Básica:** ANTUNES, Celso. **Como desenvolver conteúdos explorando as Inteligências Múltiplas** . Petrópolis: Vozes, 2002. COPE, B.; KALANTZIS, M. **Multiliteracies** : literacy learning and the design of social futures. London: Routledge, 2000. DIAS, et all. **Inglês para o Ensino Médio** . 2. Ed. São Paulo: Macmillan, 2010. FERRARI, Mariza; RUBIN, Sarah G. **Inglês** : de olho no mundo do trabalho. São Paulo: Scipione, 2007. GARDNER, Howard. **Inteligências múltiplas, a teoria na prática.** Porto Alegre: 2000. 
+DIAS, Reinildes; JUCÁ, Leina; FARIA, Raquel. **PRIME 3 - student's book with audio CD.** Macmillan ELT, 2010.
 
-77 
+KERNERMAN, L. **Password – English Dictionary for speakers of Portuguese** . Martins Fontes, 2010. MURPHY, Raymond. **Essential Grammar in Use – Elementary-Pre-Intermediate** . CUP, 2007.
 
-1 INSTITUTOFEDERAL PARANA 
+79
 
-## MinisteriodaEducacao InstitutoFederaldoParana 
+1 INSTITUTOFEDERAL PARANA
 
-GEE, J. A. **Social linguistics** : a brief Introduction. Rowley, MA: Newbury House, 1972. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-LOURES, R.C.R – **Educar e inovar na Sustentabilidade** . Cultura: Unindus, 2008, p. 110. 
+## **Campus Curitiba do IFPR**
 
-## **Bibliografia Complementar:** 
+**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais**
 
-DIAS, Reinildes; JUCÁ, Leina; FARIA, Raquel. **PRIME 2 - student's book with audio CD.** Macmillan ELT, 2010. 
+**Componente Curricular** : Língua Espanhola I **Carga Horária** : 80 **Período letivo:** 2º ano
 
-KERNERMAN, L. **Password – English Dictionary for speakers of Portuguese** . Martins Fontes, 2010. 
+**Ementa:**
 
-MURPHY, Raymond. **Essential Grammar in Use – Elementary-Pre-Intermediate** . CUP, 2007. 
+Reflexões sobre língua e linguagem, de modo a promover uma competência comunicativa e sociocultural em língua espanhola que permita ao estudante comunicar-se, ler, entender, interpretar, construir sentidos e estabelecer inter-relações, principalmente sobre seu entorno: sua personalidade, cidade, bairro, casa e atividades rotineira.  Acercamentos sobre valores, crenças e costumes dos mais diversos países que falam espanhol, principalmente focados nos aspectos listados de forma que o contato com diferentes realidades e visões de mundo contribua para o seu desenvolvimento como indivíduo e cidadão.
 
-78 
+**Bibliografia Básica:** OSMAN, S.; ELIAS, N.;IZQUIERDO,S.; REIS, P. **Enlaces:** Español para jóvenes brasileños. Madrid: Editora SGEL, 2007. 1ed.
 
-1INSTITUTOFEDERAL PARANA 
+MORENO, C.; FERNÁNDEZ, G.M.E. **Gramática contrastiva del español para brasileños.** Madrid: Editora SGEL, 2007. 1ed. UNIVERSIDAD DE ALCALÁ DE HENARES. **Señas:** diccionario para la enseñanza de la lengua española para brasileños. Tradução de Eduardo Brandão & Cláudia Berliner. São Paulo, Martins Fontes: 2001. HERMOSO, A. G. et al. **Conjugar es fácil en español** . Madrid: Edelsa, 1999. DICCIONARIO **Escolar Vox da Língua Espanhola** São Paulo: Ed. Escala Brasil, 2006. **Bibliografia Complementar:** BANNELL, R. I. **Razão, reflexão e comunicação intercultural:** buscando a qualidade de vida na sala de aula. Pesquisas em Discurso Pedagógico, 2(1): 78-87, PUC-Rio de Janeiro, 2003. BRASIL. Ministério da Educação. **Lei de Diretrizes e Bases das Educação Nacional.** Brasília: Secretaria de Educação Básica, 1996. BRASIL, Ministério da Educação. **Orientações curriculares para o Ensino Médio.** Linguagens, códigos e suas tecnologias. Brasília: Secretaria de Educação Básica, 2006. BRASIL, Ministério da Educação. **Parâmetros Curriculares Nacionais do Ensino Médio.** Linguagens, códigos e suas tecnologias. Brasília: Secretaria de Educação Média e Tecnológica, 2000. CONSEJO DE EUROPA. **Marco Común Europeo de Referencia para las Lenguas:** aprendizaje, enseñanza, evaluación. Unión Europea, 2001. Disponível em: http://cvc.cervantes.es/obref/marco acessado em 05/03/2010. SCHNEUWLY, B.; DOLZ, J. **Gêneros orais e escritos na escola.** Campinas: Mercado de Letras, 2004. SOARES, M.B. **Letramento:** um tema em três gêneros. Belo Horizonte: Autêntica, 1999. VIUDEZ, F. C. **Usos de la gramática – elemental** . Madrid: Ed. Edelsa,1996 HERMOSO, A. G. **Conjugar es fácil** . Madrid: Ed. Edelsa, 1997 VAQUERO, Nuria. **¿Dónde estás, Aurora Gavilán?: material audiovisual.** São Paulo: Moderna:
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+80
 
-**Câmpus Curitiba do IFPR Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular** : Língua Inglesa III **Carga Horária** (hora aula): 80 **Período letivo:** 3º ano 
+1 INSTITUTOFEDERAL PARANA Santillana, 2009.
 
-## **Ementa:** 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-Reflexões em/sobre a língua inglesa com foco no Letramento Crítico. A língua inglesa como discurso. Representações sobre a língua inglesa em diferentes contextos sócio-discursivos. Perspectivas e conflitos na construção de sentidos em língua inglesa. Aspectos culturais e estruturais em língua inglesa com base em contextos discursivos diversos. Leitura de produções artísticas (literatura, cinema e outras linguagens) de/em língua inglesa. 
+81
 
-Temas locais e globais em língua inglesa específicos da série, abordando vocabulário e estruturas linguísticas pertinentes: jogos e competição; tecnologia e cidadania; alimentação e saúde; dinheiro e educação financeira; Direitos Humanos. Leitura e expressão (oral e escrita) em língua inglesa. 
+INSTITUTOFEDERAL PARANA
 
-## **Bibliografia Básica:** 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-AMOS, Eduardo; PRESCHER, Elisabeth. **The Richmond Simplified Grammar of English.** Richmond Publishing, 2008. COLLINS. **Dicionario Prático Collins Inglês-Portugues-Inglês.** São Paulo: DISAL, 2004. DIAS, Reinildes; JUCÁ, Leina; FARIA, Raquel. **PRIME 3 - student's book with audio CD.** Macmillan ELT, 2010. **OSDE Booklet.** Centre for the Study of Social and Global Justice. Nottingham University. Nottingham, England. Disponível em www.osdemethodology.org.uk. SAMPEDRO R.; HILLYARD, S. **Global Issues.** Oxford University Press, 2010. 
+## **Câmpus Curitiba do IFPR**
 
-## **Bibliografia Complementar:** 
+**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular:** Biologia I **Carga Horária (horas-aulas):** 80 **Período letivo:** 1º ano
 
-DIAS, Reinildes; JUCÁ, Leina; FARIA, Raquel. **PRIME 3 - student's book with audio CD.** Macmillan ELT, 2010. 
+## **Ementa:**
 
-KERNERMAN, L. **Password – English Dictionary for speakers of Portuguese** . Martins Fontes, 2010. MURPHY, Raymond. **Essential Grammar in Use – Elementary-Pre-Intermediate** . CUP, 2007. 
+**ORIGEM DA VIDA E CITOLOGIA** (Introdução à Biologia, origem e evolução da vida; Introdução à Citologia e envoltórios celulares; Citoplasma; Metabolismo energético da célula; O núcleo e a síntese protéica; Divisão celular); **REPRODUÇÃO, EMBRIOLOGIA E HISTOLOGIA ANIMAL** (Reprodução assexuada e sexuada; Reprodução humana; Desenvolvimento embrionário na espécie humana; Anexos embrionários; Embriologia comparada; Tecidos epitelial, conjuntivo, muscular e nervoso).
 
-79 
+## **Bibliografia Básica:**
 
-1 INSTITUTOFEDERAL PARANA 
+LOPES, S. **Biologia** : essencial. 1. ed. São Paulo: Saraiva, 2003. LOPES, S.; ROSSO, S. **Biologia** . 1. ed. São Paulo: Saraiva, 2005. LOPES, S.; ROSSO, S. **Bio** . Volume 1. 1. ed. São Paulo: Saraiva, 2010.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## **Bibliografia Complementar:**
 
-## **Campus Curitiba do IFPR** 
+PEZZI, A.; GOWDAK, D.O.; MATTOS, N.S. de. **Biologia** . Volume 1. 1. ed. São Paulo: FTD, 2010.
 
-**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais** 
+REINACH, F. **A longa marcha dos grilos canibais** : e outras crônicas sobre a vida no planeta Terra. 1. ed. São Paulo: Companhia Das Letras, 2010. SILVA JÚNIOR, C.; SASSON, S. **Biologia** . Volume 1. 8. ed. São Paulo: Saraiva, 2005. COOPER, G.M; HAUSMAN, R. **A célula** : uma abordagem molecular, 3.ed. São Paulo: Artmed, 2007.
 
-**Componente Curricular** : Língua Espanhola I **Carga Horária** : 80 **Período letivo:** 2º ano 
+JUNQUEIRA, L. C.; CARNEIRO, J. **Histologia Básica** , 11.ed. São Paulo: Guanabara Koogan, 2008.
 
-**Ementa:** 
+82
 
-Reflexões sobre língua e linguagem, de modo a promover uma competência comunicativa e sociocultural em língua espanhola que permita ao estudante comunicar-se, ler, entender, interpretar, construir sentidos e estabelecer inter-relações, principalmente sobre seu entorno: sua personalidade, cidade, bairro, casa e atividades rotineira.  Acercamentos sobre valores, crenças e costumes dos mais diversos países que falam espanhol, principalmente focados nos aspectos listados de forma que o contato com diferentes realidades e visões de mundo contribua para o seu desenvolvimento como indivíduo e cidadão. 
+INSTITUTOFEDERAL PARANA
 
-**Bibliografia Básica:** OSMAN, S.; ELIAS, N.;IZQUIERDO,S.; REIS, P. **Enlaces:** Español para jóvenes brasileños. Madrid: Editora SGEL, 2007. 1ed. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-MORENO, C.; FERNÁNDEZ, G.M.E. **Gramática contrastiva del español para brasileños.** Madrid: Editora SGEL, 2007. 1ed. UNIVERSIDAD DE ALCALÁ DE HENARES. **Señas:** diccionario para la enseñanza de la lengua española para brasileños. Tradução de Eduardo Brandão & Cláudia Berliner. São Paulo, Martins Fontes: 2001. HERMOSO, A. G. et al. **Conjugar es fácil en español** . Madrid: Edelsa, 1999. DICCIONARIO **Escolar Vox da Língua Espanhola** São Paulo: Ed. Escala Brasil, 2006. **Bibliografia Complementar:** BANNELL, R. I. **Razão, reflexão e comunicação intercultural:** buscando a qualidade de vida na sala de aula. Pesquisas em Discurso Pedagógico, 2(1): 78-87, PUC-Rio de Janeiro, 2003. BRASIL. Ministério da Educação. **Lei de Diretrizes e Bases das Educação Nacional.** Brasília: Secretaria de Educação Básica, 1996. BRASIL, Ministério da Educação. **Orientações curriculares para o Ensino Médio.** Linguagens, códigos e suas tecnologias. Brasília: Secretaria de Educação Básica, 2006. BRASIL, Ministério da Educação. **Parâmetros Curriculares Nacionais do Ensino Médio.** Linguagens, códigos e suas tecnologias. Brasília: Secretaria de Educação Média e Tecnológica, 2000. CONSEJO DE EUROPA. **Marco Común Europeo de Referencia para las Lenguas:** aprendizaje, enseñanza, evaluación. Unión Europea, 2001. Disponível em: http://cvc.cervantes.es/obref/marco acessado em 05/03/2010. SCHNEUWLY, B.; DOLZ, J. **Gêneros orais e escritos na escola.** Campinas: Mercado de Letras, 2004. SOARES, M.B. **Letramento:** um tema em três gêneros. Belo Horizonte: Autêntica, 1999. VIUDEZ, F. C. **Usos de la gramática – elemental** . Madrid: Ed. Edelsa,1996 HERMOSO, A. G. **Conjugar es fácil** . Madrid: Ed. Edelsa, 1997 VAQUERO, Nuria. **¿Dónde estás, Aurora Gavilán?: material audiovisual.** São Paulo: Moderna: 
+**Câmpus Curitiba do IFPR Eixo Tecnológico: Controle e Processos Industriais**
 
-80 
+**Curso: Mecânica Integrado**
 
-1 INSTITUTOFEDERAL PARANA Santillana, 2009. 
+**Componente Curricular** : BIOLOGIA II **Carga Horária** (hora aula): 80 **Ementa:**
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+**Período letivo:** 2º ano
 
-81 
+A diversidade dos seres vivos no planeta. As relações entre os seres vivos e destes com o ambiente. Introdução à classificação biológica. Estudo dos vírus e doenças relacionadas. Estudo das bactérias: estrutura celular, doenças relacionadas e biotecnologia. Características gerais das algas. Os fungos: características gerais e importância para os outros seres. Protozoários: características e doenças que afetam os seres humanos. O estudo das plantas: grupos e relações com os outros seres vivos.  Animais: Relações ecológicas e evolutivas entre os diferentes filos de vertebrados e invertebrados. Reconhecimento dos fatores relacionados à evolução, distribuição e diversidade de seres vivos no planeta.
 
-INSTITUTOFEDERAL PARANA 
+## **Bibliografia Básica:**
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+AMABIS, José Mariano; Martho, Gilberto Rodrigues. **Biologia dos organismos** . 3ª ed. Moderna: São Paulo: 2010.
 
-## **Câmpus Curitiba do IFPR** 
+LOPES, S. & ROSSO, S. 2005. **Biologia.** 1ª ed. Volume único. Editora Saraiva, São Paulo. 608 pp.
 
-**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular:** Biologia I **Carga Horária (horas-aulas):** 80 **Período letivo:** 1º ano 
+UZUNIAN, A., BIRNER, E. **Biologia** - volume único. 3a ed. Harbra: São Paulo: 2008.
 
-## **Ementa:** 
+## **Bibliografia Complementar:**
 
-**ORIGEM DA VIDA E CITOLOGIA** (Introdução à Biologia, origem e evolução da vida; Introdução à Citologia e envoltórios celulares; Citoplasma; Metabolismo energético da célula; O núcleo e a síntese protéica; Divisão celular); **REPRODUÇÃO, EMBRIOLOGIA E HISTOLOGIA ANIMAL** (Reprodução assexuada e sexuada; Reprodução humana; Desenvolvimento embrionário na espécie humana; Anexos embrionários; Embriologia comparada; Tecidos epitelial, conjuntivo, muscular e nervoso). 
+MARGULIS, L. & SCHWARTZ, K.V. **Os cinco reinos.** 3ª Ed. Rio de Janeiro. GuanabaraKoogan. 2001.
 
-## **Bibliografia Básica:** 
+MILLER, T. **Ciência Ambietal.** Cencage Learning: São Paulo, 2007.
 
-LOPES, S. **Biologia** : essencial. 1. ed. São Paulo: Saraiva, 2003. LOPES, S.; ROSSO, S. **Biologia** . 1. ed. São Paulo: Saraiva, 2005. LOPES, S.; ROSSO, S. **Bio** . Volume 1. 1. ed. São Paulo: Saraiva, 2010. 
+REINACH, F. **A longa marcha dos grilos canibais** : e outras crônicas sobre a vida no planeta Terra. 1. ed. São Paulo: Companhia Das Letras, 2010
 
-## **Bibliografia Complementar:** 
+83
 
-PEZZI, A.; GOWDAK, D.O.; MATTOS, N.S. de. **Biologia** . Volume 1. 1. ed. São Paulo: FTD, 2010. 
+INSTITUTOFEDERAL PARANA
 
-REINACH, F. **A longa marcha dos grilos canibais** : e outras crônicas sobre a vida no planeta Terra. 1. ed. São Paulo: Companhia Das Letras, 2010. SILVA JÚNIOR, C.; SASSON, S. **Biologia** . Volume 1. 8. ed. São Paulo: Saraiva, 2005. COOPER, G.M; HAUSMAN, R. **A célula** : uma abordagem molecular, 3.ed. São Paulo: Artmed, 2007. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-JUNQUEIRA, L. C.; CARNEIRO, J. **Histologia Básica** , 11.ed. São Paulo: Guanabara Koogan, 2008. 
+## **Câmpus Curitiba do IFPR**
 
-82 
+**Curso: Mecânica Integrado**
 
-INSTITUTOFEDERAL PARANA 
+**Eixo Tecnológico: Controle e Processos Industriais**
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+**Componente Curricular** : BIOLOGIA III **Carga Horária** (hora aula): 80 **Período letivo:** 3º ano
 
-**Câmpus Curitiba do IFPR Eixo Tecnológico: Controle e Processos Industriais** 
+**Ementa:**
 
-**Curso: Mecânica Integrado** 
+Estímulo à reflexão sobre a origem e evolução da vida e como os seres vivos se relacionam com o meio ambiente; a importância do entendimento e conhecimento dos temas e princípios biológicos no cotidiano das pessoas e no seu bem-estar e na própria sobrevivência e perpetuação da espécie humana. GENÉTICA (A primeira lei de Mendel e conceitos fundamentais em Genética; A Segunda lei de Mendel; A herança dos grupos sangüíneos humanos; Hereditariedade e cromossomos sexuais; Biotecnologia); EVOLUÇÃO (Teorias, evidências, processos e fatores evolutivos; Genética de populações); ECOLOGIA (Introdução, fluxo de energia e ciclo da matéria; Relações entre os seres vivos; ecologia da população; sucessão ecológica; biomas; a quebra do equilíbrio ecológico).
 
-**Componente Curricular** : BIOLOGIA II **Carga Horária** (hora aula): 80 **Ementa:** 
+## **Bibliografia Básica:**
 
-**Período letivo:** 2º ano 
+Griffiths, A.J.F.; Carroll, S.B.; Lewontin, R.C.; Wessler, S.R. 2009. **Introdução à Genética** . 9ª Ed. Editora: Guanabara Koogan. ISBN. 9788527714976.
 
-A diversidade dos seres vivos no planeta. As relações entre os seres vivos e destes com o ambiente. Introdução à classificação biológica. Estudo dos vírus e doenças relacionadas. Estudo das bactérias: estrutura celular, doenças relacionadas e biotecnologia. Características gerais das algas. Os fungos: características gerais e importância para os outros seres. Protozoários: características e doenças que afetam os seres humanos. O estudo das plantas: grupos e relações com os outros seres vivos.  Animais: Relações ecológicas e evolutivas entre os diferentes filos de vertebrados e invertebrados. Reconhecimento dos fatores relacionados à evolução, distribuição e diversidade de seres vivos no planeta. 
+Purves,W.K; Sadava, D.; Orians, H.G.; Heller, H.C. 2009. **Vida - A Ciência da Biologia - Volume II : Evolução, Diversidade e Ecologia.** 8ª Ed. Editora: Artmed. ISBN. 9788536319223.
 
-## **Bibliografia Básica:** 
+Townsend, C.R.; Harper, J.L.; Begon, M. 2007. **Ecologia - De Indivíduos a Ecossistemas.** 4ª Ed. Editora: Artmed. ISBN. 9788536308845
 
-AMABIS, José Mariano; Martho, Gilberto Rodrigues. **Biologia dos organismos** . 3ª ed. Moderna: São Paulo: 2010. 
+**Bibliografia Complementar:** Pereira, L.V. 2005. **Sequenciaram o Genoma Humano ... E agora ?** 2ª Ed. Editora: Moderna. ISBN. 8516045889.
 
-LOPES, S. & ROSSO, S. 2005. **Biologia.** 1ª ed. Volume único. Editora Saraiva, São Paulo. 608 pp. 
+Lopes, R.J. 2009. **Além de Darwin.** Editora: Globo Editora. ISBN. 9788525047687. Fernandez, F. 2004. **O Poema Imperfeito - Crônicas de Biologia, Conservação da Natureza e seus Heróis.** 2ª Ed. Editora: UFPR. ISBN. 8573351152.
 
-UZUNIAN, A., BIRNER, E. **Biologia** - volume único. 3a ed. Harbra: São Paulo: 2008. 
+84
 
-## **Bibliografia Complementar:** 
+INSTITUTOFEDERAL PARANA
 
-MARGULIS, L. & SCHWARTZ, K.V. **Os cinco reinos.** 3ª Ed. Rio de Janeiro. GuanabaraKoogan. 2001. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-MILLER, T. **Ciência Ambietal.** Cencage Learning: São Paulo, 2007. 
+## **Câmpus Curitiba do IFPR**
 
-REINACH, F. **A longa marcha dos grilos canibais** : e outras crônicas sobre a vida no planeta Terra. 1. ed. São Paulo: Companhia Das Letras, 2010 
+**Curso: Mecânica Integrado**
 
-83 
+**Eixo Tecnológico: Controle e Processos Industriais**
 
-INSTITUTOFEDERAL PARANA 
+**Componente Curricular** : FÍSICA I
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+**Carga Horária** (hora aula):120
 
-## **Câmpus Curitiba do IFPR** 
+**Período letivo:** 1º ano
 
-**Curso: Mecânica Integrado** 
+## **Ementa:**
 
-**Eixo Tecnológico: Controle e Processos Industriais** 
+Sistema Internacional de Unidades; Unidades de Grandeza e grandezas básicas; Cinemática – MRU, MRUV, Lançamento Vertical, Vetores, Movimento circular, Composição de movimentos; Força; Leis de Newton – Atrito, Força centrípeta; Relatividade Restrita; Estática de corpos rígidos;Trabalho e Potência; Momento Linear e conservação de momento; energia mecânica e sua conservação; Gravitação e Leis de Kepler; Hidrostática – Pressão, Densidade, Teorema de Stevin, Princípio de Pascal, Empuxo.
 
-**Componente Curricular** : BIOLOGIA III **Carga Horária** (hora aula): 80 **Período letivo:** 3º ano 
+## **Bibliografia Básica:**
 
-**Ementa:** 
+MÁXIMO, A., ALVARENGA, B. Física. Ensino Médio. Antonio Máximo e Beatriz Alvarenga. Volume 1. Editora Scipione.
 
-Estímulo à reflexão sobre a origem e evolução da vida e como os seres vivos se relacionam com o meio ambiente; a importância do entendimento e conhecimento dos temas e princípios biológicos no cotidiano das pessoas e no seu bem-estar e na própria sobrevivência e perpetuação da espécie humana. GENÉTICA (A primeira lei de Mendel e conceitos fundamentais em Genética; A Segunda lei de Mendel; A herança dos grupos sangüíneos humanos; Hereditariedade e cromossomos sexuais; Biotecnologia); EVOLUÇÃO (Teorias, evidências, processos e fatores evolutivos; Genética de populações); ECOLOGIA (Introdução, fluxo de energia e ciclo da matéria; Relações entre os seres vivos; ecologia da população; sucessão ecológica; biomas; a quebra do equilíbrio ecológico). 
+- GASPAR, A. Física. Ensino Médio. Volume Único. Editora Ática.
 
-## **Bibliografia Básica:** 
+- FILHO, A. G., TOSCANO, C. Física. Ensino Médio. Volume Único. Editora Scipione. -HALLIDAY e RESNICK. Fundamentos de Física 1, 6a. Edição Brasileira. Editora Livros Técnicos e Científicos.
 
-Griffiths, A.J.F.; Carroll, S.B.; Lewontin, R.C.; Wessler, S.R. 2009. **Introdução à Genética** . 9ª Ed. Editora: Guanabara Koogan. ISBN. 9788527714976. 
+- -TIPLER, P. A., Física, Vol. 1 e 3. , Ed. Guanabara Dois.
 
-Purves,W.K; Sadava, D.; Orians, H.G.; Heller, H.C. 2009. **Vida - A Ciência da Biologia - Volume II : Evolução, Diversidade e Ecologia.** 8ª Ed. Editora: Artmed. ISBN. 9788536319223. 
+## **Bibliografia Complementar:**
 
-Townsend, C.R.; Harper, J.L.; Begon, M. 2007. **Ecologia - De Indivíduos a Ecossistemas.** 4ª Ed. Editora: Artmed. ISBN. 9788536308845 
+- RAMALHO JR, F., FERRARO, N. G., SOARES, P. A. T., Física, 1 ano, Editora Moderna. - BARRETO, M., Física no Ensino Médio. Papirus Editora.
 
-**Bibliografia Complementar:** Pereira, L.V. 2005. **Sequenciaram o Genoma Humano ... E agora ?** 2ª Ed. Editora: Moderna. ISBN. 8516045889. 
+- -NUSSENZWEIG, H. M., Curso de Física Básica, Vol. 1 , Ed. Edgard Blücher Ltda.
 
-Lopes, R.J. 2009. **Além de Darwin.** Editora: Globo Editora. ISBN. 9788525047687. Fernandez, F. 2004. **O Poema Imperfeito - Crônicas de Biologia, Conservação da Natureza e seus Heróis.** 2ª Ed. Editora: UFPR. ISBN. 8573351152. 
+- SEARS, F.W., ZEMANSKI, M., YOUNG, D., FREEDMAN, R. , Fisica I. 10a. edição, Addison-Wesley. São Paulo, 2003.
 
-84 
+- YAMAMOTO, K., FUKE, L. F., Física para o Ensino Médio. Editora Saraiva.
 
-INSTITUTOFEDERAL PARANA 
+85
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+INSTITUTOFEDERAL PARANA
 
-## **Câmpus Curitiba do IFPR** 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-**Curso: Mecânica Integrado** 
+## **Câmpus Curitiba do IFPR**
 
-**Eixo Tecnológico: Controle e Processos Industriais** 
+**Curso: Mecânica Integrado**
 
-**Componente Curricular** : FÍSICA I 
+**Componente Curricular** : FÍSICA II **Carga Horária** (hora aula): 80
 
-**Carga Horária** (hora aula):120 
+**Eixo Tecnológico: Controle e Processos Industriais**
 
-**Período letivo:** 1º ano 
+**Período letivo:** 2º ano
 
-## **Ementa:** 
+## **Ementa:**
 
-Sistema Internacional de Unidades; Unidades de Grandeza e grandezas básicas; Cinemática – MRU, MRUV, Lançamento Vertical, Vetores, Movimento circular, Composição de movimentos; Força; Leis de Newton – Atrito, Força centrípeta; Relatividade Restrita; Estática de corpos rígidos;Trabalho e Potência; Momento Linear e conservação de momento; energia mecânica e sua conservação; Gravitação e Leis de Kepler; Hidrostática – Pressão, Densidade, Teorema de Stevin, Princípio de Pascal, Empuxo. 
+Escalas Termométricas; Dilatação de Sólidos e Líquidos; Transformações Gasosas; Equação de um gás ideal; Calor, Capacidade Térmica; Calor Específico; Primeira e Segunda Leis da Termodinâmica; Mudança de Fases; Reflexão e Refração da Luz; Espelhos; Lentes; Instrumentos Ópticos; Ondas; Acústica; Óptica Física, Radiação Térmica e o Postulado de Planck; Propriedades Ondulatórias das Partículas; Lasers; Espectros Atômico
 
-## **Bibliografia Básica:** 
+## **Bibliografia Básica:**
 
-MÁXIMO, A., ALVARENGA, B. Física. Ensino Médio. Antonio Máximo e Beatriz Alvarenga. Volume 1. Editora Scipione. 
+- MÁXIMO, A., ALVARENGA, B. Física. Ensino Médio. Antonio Máximo e Beatriz Alvarenga. Volume 2. Editora Scipione.
 
-- GASPAR, A. Física. Ensino Médio. Volume Único. Editora Ática. 
+- GASPAR, A. Física. Ensino Médio. Volume Único. Editora Ática.
 
-- FILHO, A. G., TOSCANO, C. Física. Ensino Médio. Volume Único. Editora Scipione. -HALLIDAY e RESNICK. Fundamentos de Física 1, 6a. Edição Brasileira. Editora Livros Técnicos e Científicos. 
+- FILHO, A. G., TOSCANO, C. Física. Ensino Médio. Volume Único. Editora Scipione. -HALLIDAY e RESNICK. Fundamentos de Física 2 - Gravitação, Ondas e Termodinâmica, 6a. Edição Brasileira. Editora Livros Técnicos e Científicos.
 
-- -TIPLER, P. A., Física, Vol. 1 e 3. , Ed. Guanabara Dois. 
+- -TIPLER, P. A., Física, Vol. 1 e 2. , Ed. Guanabara Dois.
 
-## **Bibliografia Complementar:** 
+## **Bibliografia Complementar:**
 
-- RAMALHO JR, F., FERRARO, N. G., SOARES, P. A. T., Física, 1 ano, Editora Moderna. - BARRETO, M., Física no Ensino Médio. Papirus Editora. 
+- RAMALHO JR, F., FERRARO, N. G., SOARES, P. A. T., Física, 2 ano, Editora Moderna. - BARRETO, M., Física no Ensino Médio. Papirus Editora. -NUSSENZWEIG, H. M., Curso de Física Básica, Vol. 2 - Gravitação, Ondas e Calor, Ed. Edgard Blücher Ltda.
 
-- -NUSSENZWEIG, H. M., Curso de Física Básica, Vol. 1 , Ed. Edgard Blücher Ltda. 
+- SEARS, F.W., ZEMANSKI, M., YOUNG, D., FREEDMAN, R. , Fisica II. 10a. edição, Addison-Wesley. São Paulo, 2003.
 
-- SEARS, F.W., ZEMANSKI, M., YOUNG, D., FREEDMAN, R. , Fisica I. 10a. edição, Addison-Wesley. São Paulo, 2003. 
+- YAMAMOTO, K., FUKE, L. F., Física para o Ensino Médio. Editora Saraiva.
 
-- YAMAMOTO, K., FUKE, L. F., Física para o Ensino Médio. Editora Saraiva. 
+86
 
-85 
+INSTITUTOFEDERAL PARANA
 
-INSTITUTOFEDERAL PARANA 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+**Câmpus Curitiba do IFPR Eixo Tecnológico: Controle e Processos Industriais** : FÍSICAIII :80 **Período letivo:** 3º ano
 
-## **Câmpus Curitiba do IFPR** 
+**Curso: Mecânica Integrado**
 
-**Curso: Mecânica Integrado** 
+**Componente Curricular** : FÍSICAIII **Carga Horária** (hora aula):80
 
-**Componente Curricular** : FÍSICA II **Carga Horária** (hora aula): 80 
+**Ementa:**
 
-**Eixo Tecnológico: Controle e Processos Industriais** 
+Carga Elétrica e Lei de Coulomb; Campo Elétrico e Potencial Elétrico; Corrente Elétrica; Tensão Elétrica e Potência Elétrica; Circuitos com Capacitores e Resistores; Campo Magnético e Força Magnética; Indução Eletromagnética; Geradores e Transformadores; Espectro Eletromagnético; Efeito Fotoelétrico; Natureza corpuscular das ondas; Raio -X e radioatividade; Física de partículas.
 
-**Período letivo:** 2º ano 
+## **Bibliografia Básica:**
 
-## **Ementa:** 
+MÁXIMO, A., ALVARENGA, B. Física. Ensino Médio. Antonio Máximo e Beatriz Alvarenga. Volume 3. Editora Scipione.
 
-Escalas Termométricas; Dilatação de Sólidos e Líquidos; Transformações Gasosas; Equação de um gás ideal; Calor, Capacidade Térmica; Calor Específico; Primeira e Segunda Leis da Termodinâmica; Mudança de Fases; Reflexão e Refração da Luz; Espelhos; Lentes; Instrumentos Ópticos; Ondas; Acústica; Óptica Física, Radiação Térmica e o Postulado de Planck; Propriedades Ondulatórias das Partículas; Lasers; Espectros Atômico 
+- GASPAR, A. Física. Ensino Médio. Volume 3. Editora Ática.
 
-## **Bibliografia Básica:** 
+- FILHO, A. G., TOSCANO, C. Física. Ensino Médio. Volume Único. Editora Scipione. -HALLIDAY e RESNICK. Fundamentos de Física 3, 6a. Edição Brasileira. Editora Livros Técnicos e Científicos.
 
-- MÁXIMO, A., ALVARENGA, B. Física. Ensino Médio. Antonio Máximo e Beatriz Alvarenga. Volume 2. Editora Scipione. 
+- -TIPLER, P. A., Física, Vol. 3. , Ed. Guanabara Dois.
 
-- GASPAR, A. Física. Ensino Médio. Volume Único. Editora Ática. 
+## **Bibliografia Complementar:**
 
-- FILHO, A. G., TOSCANO, C. Física. Ensino Médio. Volume Único. Editora Scipione. -HALLIDAY e RESNICK. Fundamentos de Física 2 - Gravitação, Ondas e Termodinâmica, 6a. Edição Brasileira. Editora Livros Técnicos e Científicos. 
+- RAMALHO JR, F., FERRARO, N. G., SOARES, P. A. T., Física, 3ano, Editora Moderna. - BARRETO, M., Física no Ensino Médio. Papirus Editora.
 
-- -TIPLER, P. A., Física, Vol. 1 e 2. , Ed. Guanabara Dois. 
+- NUSSENZWEIG, H. M., Curso de Física Básica, Vol. 3 , Ed. Edgard Blücher Ltda. - SEARS, F.W., ZEMANSKI, M., YOUNG, D., FREEDMAN, R. , Fisica III. 10a. edição, Addison-Wesley. São Paulo, 2003.
 
-## **Bibliografia Complementar:** 
+- YAMAMOTO, K., FUKE, L. F., Física para o Ensino Médio. Editora Saraiva.
 
-- RAMALHO JR, F., FERRARO, N. G., SOARES, P. A. T., Física, 2 ano, Editora Moderna. - BARRETO, M., Física no Ensino Médio. Papirus Editora. -NUSSENZWEIG, H. M., Curso de Física Básica, Vol. 2 - Gravitação, Ondas e Calor, Ed. Edgard Blücher Ltda. 
+INSTITUTOFEDERAL<br>PARANA<br>MinisteriodaEducacao InstitutoFederaldoParana
 
-- SEARS, F.W., ZEMANSKI, M., YOUNG, D., FREEDMAN, R. , Fisica II. 10a. edição, Addison-Wesley. São Paulo, 2003. 
+## **Câmpus Curitiba do IFPR**
 
-- YAMAMOTO, K., FUKE, L. F., Física para o Ensino Médio. Editora Saraiva. 
+**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais**
 
-86 
+**Componente Curricular** : Química I **Carga Horária** (hora aula): 80 **Período letivo:** 1º ano
 
-INSTITUTOFEDERAL PARANA 
+## **Ementa:**
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+Introdução à Química; Matéria, energia e suas transformações; Substâncias químicas, Teoria Atômica, Estrutura atômica; Periodicidade Química; Ligações interatômicas, Interações intermoleculares; Funções inorgânicas, Quantidade de matéria (mol) e Estequiometria.
 
-**Câmpus Curitiba do IFPR Eixo Tecnológico: Controle e Processos Industriais** : FÍSICAIII :80 **Período letivo:** 3º ano 
+## **Bibliografia Básica:**
 
-**Curso: Mecânica Integrado** 
+FELTRE, R. **Química.** 6 ed. V.1, São Paulo: Moderna, 2004.
 
-**Componente Curricular** : FÍSICAIII **Carga Horária** (hora aula):80 
+CARVALHO, G.C; **Química Moderna** , V. único, São Paulo: Scipione, 2000.
 
-**Ementa:** 
+USBERCO, João; SALVADOR, Edgard. **Química essencial.** 4. ed. V.único, São Paulo: Saraiva, 2007.
 
-Carga Elétrica e Lei de Coulomb; Campo Elétrico e Potencial Elétrico; Corrente Elétrica; Tensão Elétrica e Potência Elétrica; Circuitos com Capacitores e Resistores; Campo Magnético e Força Magnética; Indução Eletromagnética; Geradores e Transformadores; Espectro Eletromagnético; Efeito Fotoelétrico; Natureza corpuscular das ondas; Raio -X e radioatividade; Física de partículas. 
+SARDELLA, A.; MATEUS, E. **Curso de química.** 21ª ed. V. 1, São Paulo: Ática, 1995.
 
-## **Bibliografia Básica:** 
+TITO, F. M.; CANTO, E. L. **Química na abordagem do cotidiano** . 3ª ed. V. 1, São Paulo: Moderna, 2003.
 
-MÁXIMO, A., ALVARENGA, B. Física. Ensino Médio. Antonio Máximo e Beatriz Alvarenga. Volume 3. Editora Scipione. 
+## **Bibliografia Complementar:**
 
-- GASPAR, A. Física. Ensino Médio. Volume 3. Editora Ática. 
+PERUZZO, F. M.; CANTO, E. L. **Química na abordagem do cotidiano** . 2ª ed. V. 2. São Paulo: Moderna,1999.
 
-- FILHO, A. G., TOSCANO, C. Física. Ensino Médio. Volume Único. Editora Scipione. -HALLIDAY e RESNICK. Fundamentos de Física 3, 6a. Edição Brasileira. Editora Livros Técnicos e Científicos. 
+VANIN, J.A. **Alquimistas e Químicos: o passado, o presente e o futuro** , 11ª ed. V. único. São Paulo, Editora Moderna, 1994.
 
-- -TIPLER, P. A., Física, Vol. 3. , Ed. Guanabara Dois. 
+KOTZ, John C.; TREICHEL, Paul; WEAVER, Gabriela C. **Química geral e reações químicas.** V. 2. São Paulo: Cengage Learning, 2010.
 
-## **Bibliografia Complementar:** 
+BROWN, T. L.; LEMAY, H. E.; BURSTEN, B. E. **Química: a ciência central** . 9ª ed. V. único. São Paulo: Pearson PrenticeHall, 2005.
 
-- RAMALHO JR, F., FERRARO, N. G., SOARES, P. A. T., Física, 3ano, Editora Moderna. - BARRETO, M., Física no Ensino Médio. Papirus Editora. 
+REIS, M; **Química Integral.** V. único. São Paulo: FTD, 1993.
 
-- NUSSENZWEIG, H. M., Curso de Física Básica, Vol. 3 , Ed. Edgard Blücher Ltda. - SEARS, F.W., ZEMANSKI, M., YOUNG, D., FREEDMAN, R. , Fisica III. 10a. edição, Addison-Wesley. São Paulo, 2003. 
+88
 
-- YAMAMOTO, K., FUKE, L. F., Física para o Ensino Médio. Editora Saraiva. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-87 
+INSTITUTOFEDERAL PARANA
 
-**==> picture [69 x 16] intentionally omitted <==**
+## **Campus Curitiba do IFPR**
 
-**----- Start of picture text -----**<br>
-INSTITUTOFEDERAL<br>PARANA<br>**----- End of picture text -----**<br>
+**Curso: Mecânica Integrado**
 
+**Componente Curricular** : Química II **Carga Horária** (hora aula): 80
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+**Eixo Tecnológico:** Controle e Processos Industriais
 
-## **Câmpus Curitiba do IFPR** 
+**Período letivo:** 2º Ano
 
-**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais** 
+## **Ementa:**
 
-**Componente Curricular** : Química I **Carga Horária** (hora aula): 80 **Período letivo:** 1º ano 
+Grandezas Químicas; Estequiometria; Soluções; Propriedades Coligativas; Termoquímica; Cinética Química; Equilíbrio Químico; Eletroquímica; Radioatividade
 
-## **Ementa:** 
+## **Bibliografia Básica:**
 
-Introdução à Química; Matéria, energia e suas transformações; Substâncias químicas, Teoria Atômica, Estrutura atômica; Periodicidade Química; Ligações interatômicas, Interações intermoleculares; Funções inorgânicas, Quantidade de matéria (mol) e Estequiometria. 
+FELTRE, R. **Química.** 6 ed. V.2, São Paulo: Moderna, 2004.
 
-## **Bibliografia Básica:** 
+CARVALHO, G.C; **Química Moderna** , V. único, São Paulo: Scipione, 2000.
 
-FELTRE, R. **Química.** 6 ed. V.1, São Paulo: Moderna, 2004. 
+USBERCO, João; SALVADOR, Edgard. **Química essencial.** 4. ed. V. único, São Paulo: Saraiva, 2007.
 
-CARVALHO, G.C; **Química Moderna** , V. único, São Paulo: Scipione, 2000. 
+SARDELLA, A.; MATEUS, E. **Curso de química.** 21ª ed. V. 2, São Paulo: Ática, 1995.
 
-USBERCO, João; SALVADOR, Edgard. **Química essencial.** 4. ed. V.único, São Paulo: Saraiva, 2007. 
+TITO, F. M.; CANTO, E. L. **Química na abordagem do cotidiano** . 3ª ed. V. 2, São Paulo: Moderna, 2003.
 
-SARDELLA, A.; MATEUS, E. **Curso de química.** 21ª ed. V. 1, São Paulo: Ática, 1995. 
+## **Bibliografia Complementar:**
 
-TITO, F. M.; CANTO, E. L. **Química na abordagem do cotidiano** . 3ª ed. V. 1, São Paulo: Moderna, 2003. 
+PERUZZO, F. M.; CANTO, E. L. **Química na abordagem do cotidiano** . 2ª ed. V. 2. São Paulo: Moderna,1999.
 
-## **Bibliografia Complementar:** 
+VANIN, J.A. **Alquimistas e Químicos: o passado, o presente e o futuro** , 11ª ed. V. único. São Paulo, Editora Moderna, 1994.
 
-PERUZZO, F. M.; CANTO, E. L. **Química na abordagem do cotidiano** . 2ª ed. V. 2. São Paulo: Moderna,1999. 
+KOTZ, John C.; TREICHEL, Paul; WEAVER, Gabriela C. **Química geral e reações químicas.** V. 2. São Paulo: Cengage Learning, 2010.
 
-VANIN, J.A. **Alquimistas e Químicos: o passado, o presente e o futuro** , 11ª ed. V. único. São Paulo, Editora Moderna, 1994. 
+BROWN, T. L.; LEMAY, H. E.; BURSTEN, B. E. **Química: a ciência central** . 9ª ed. V. único. São Paulo: Pearson PrenticeHall, 2005.
 
-KOTZ, John C.; TREICHEL, Paul; WEAVER, Gabriela C. **Química geral e reações químicas.** V. 2. São Paulo: Cengage Learning, 2010. 
+REIS, M; **Química Integral.** V. único. São Paulo: FTD, 1993.
 
-BROWN, T. L.; LEMAY, H. E.; BURSTEN, B. E. **Química: a ciência central** . 9ª ed. V. único. São Paulo: Pearson PrenticeHall, 2005. 
+INSTITUTOFEDERAL<br>PARANA<br>MinisteriodaEducacao InstitutoFederaldoParana
 
-REIS, M; **Química Integral.** V. único. São Paulo: FTD, 1993. 
+## **Câmpus Curitiba do IFPR**
 
-88 
+## **Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais**
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+**Componente Curricular** : Química III **Carga Horária:** (hora aula): 80 **Período letivo:** 3º ano
 
-INSTITUTOFEDERAL PARANA 
+## **Ementa:**
 
-## **Campus Curitiba do IFPR** 
+Introdução à Química orgânica; Classificação dos carbonos e das cadeias carbônicas; Nomenclatura das funções orgânicas; Métodos de obtenção de compostos orgânicos; Séries orgânicas; Isomeria plana e espacial; Mecanismos de reação; Principais compostos orgânicos e suas utilizações; Polímeros e açúcares.
 
-**Curso: Mecânica Integrado** 
+## **Bibliografia Básica:**
 
-**Componente Curricular** : Química II **Carga Horária** (hora aula): 80 
+FELTRE, R. **Química.** 6 ed. V.3, São Paulo: Moderna, 2004.
 
-**Eixo Tecnológico:** Controle e Processos Industriais 
+CARVALHO, G.C; **Química Moderna** , V. único, São Paulo: Scipione, 2000.
 
-**Período letivo:** 2º Ano 
+USBERCO, João; SALVADOR, Edgard. **Química essencial.** 4. ed. V. único, São Paulo: Saraiva, 2007.
 
-## **Ementa:** 
+SARDELLA, A.; MATEUS, E. **Curso de química.** 21ª ed. V. 3, São Paulo: Ática, 1995.
 
-Grandezas Químicas; Estequiometria; Soluções; Propriedades Coligativas; Termoquímica; Cinética Química; Equilíbrio Químico; Eletroquímica; Radioatividade 
+TITO, F. M.; CANTO, E. L. **Química na abordagem do cotidiano** . 3ª ed. V. 3, São Paulo: Moderna, 2003.
 
-## **Bibliografia Básica:** 
+## **Bibliografia Complementar:**
 
-FELTRE, R. **Química.** 6 ed. V.2, São Paulo: Moderna, 2004. 
+PERUZZO, F. M.; CANTO, E. L. **Química na abordagem do cotidiano** . 2ª ed. V. 3. São Paulo: Moderna,1999.
 
-CARVALHO, G.C; **Química Moderna** , V. único, São Paulo: Scipione, 2000. 
+VANIN, J.A. **Alquimistas e Químicos: o passado, o presente e o futuro** , 11ª ed. V. único. São Paulo, Editora Moderna, 1994.
 
-USBERCO, João; SALVADOR, Edgard. **Química essencial.** 4. ed. V. único, São Paulo: Saraiva, 2007. 
+KOTZ, John C.; TREICHEL, Paul; WEAVER, Gabriela C. **Química geral e reações químicas.** V. 3. São Paulo: Cengage Learning, 2010.
 
-SARDELLA, A.; MATEUS, E. **Curso de química.** 21ª ed. V. 2, São Paulo: Ática, 1995. 
+BROWN, T. L.; LEMAY, H. E.; BURSTEN, B. E. **Química: a ciência central** . 9ª ed. V. único. São Paulo: Pearson PrenticeHall, 2005.
 
-TITO, F. M.; CANTO, E. L. **Química na abordagem do cotidiano** . 3ª ed. V. 2, São Paulo: Moderna, 2003. 
+REIS, M; **Química Integral.** V. único. São Paulo: FTD, 1993.
 
-## **Bibliografia Complementar:** 
+90
 
-PERUZZO, F. M.; CANTO, E. L. **Química na abordagem do cotidiano** . 2ª ed. V. 2. São Paulo: Moderna,1999. 
+INSTITUTOFEDERAL PARANA
 
-VANIN, J.A. **Alquimistas e Químicos: o passado, o presente e o futuro** , 11ª ed. V. único. São Paulo, Editora Moderna, 1994. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-KOTZ, John C.; TREICHEL, Paul; WEAVER, Gabriela C. **Química geral e reações químicas.** V. 2. São Paulo: Cengage Learning, 2010. 
+## **Câmpus Curitiba do IFPR**
 
-BROWN, T. L.; LEMAY, H. E.; BURSTEN, B. E. **Química: a ciência central** . 9ª ed. V. único. São Paulo: Pearson PrenticeHall, 2005. 
+**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular** : Temas contemporâneos **Carga Horária (hora-aula):** 40 h **Período letivo:** 3º ano
 
-REIS, M; **Química Integral.** V. único. São Paulo: FTD, 1993. 
+## **Ementa:**
 
-89 
+Análise de temas contemporâneos a partir dos estudos envolvendo diferentes áreas de conhecimento, tendo como foco de investigação o indivíduo, a sociedade, a ciência e a tecnologia no século XXI.
 
-**==> picture [69 x 16] intentionally omitted <==**
+## **Bibliografia Básica:**
 
-**----- Start of picture text -----**<br>
-INSTITUTOFEDERAL<br>PARANA<br>**----- End of picture text -----**<br>
+BAUMAN, Zygmunt. Modernidade líquida **.** Rio de Janeiro: Zahar, 2001.
 
+RESENDE, Beatriz. Contemporâneos. Expressão da literatura Brasileira no século XXI. Rio de Janeiro: Casa da Palavra, Biblioteca Nacional, 2008.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+TORRES, Carlos M. et all. Física, ciência e tecnologia. São Paulo: Moderna, 2010
 
-## **Câmpus Curitiba do IFPR** 
+## **Bibliografia complementar:**
 
-## **Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais** 
+ARENDT, Hannah. A condição humana. 10ª Ed. Rio de Janeiro:  Forense Universitária, 2005 FÁVERO, Osmar et all. Juventude e contemporaneidade. Brasília: UNESC, MEC, ANPed, 2007 (Coleção Educação para todos;16)
 
-**Componente Curricular** : Química III **Carga Horária:** (hora aula): 80 **Período letivo:** 3º ano 
+GIDDENS, Anthony. Sociologia. 6ª ed. Porto Alegre: Penso, 2012.
 
-## **Ementa:** 
+OLIVEIRA, Francisco e RIZEK, Cibele S (orgs) . A era da indeterminação. São Paulo: Boitempo, 2007.
 
-Introdução à Química orgânica; Classificação dos carbonos e das cadeias carbônicas; Nomenclatura das funções orgânicas; Métodos de obtenção de compostos orgânicos; Séries orgânicas; Isomeria plana e espacial; Mecanismos de reação; Principais compostos orgânicos e suas utilizações; Polímeros e açúcares. 
+REVISTA SCIENTIFIC AMERICAN Brasil. São Paulo: Ediouro Duetto Editorial LTDA
 
-## **Bibliografia Básica:** 
+91
 
-FELTRE, R. **Química.** 6 ed. V.3, São Paulo: Moderna, 2004. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-CARVALHO, G.C; **Química Moderna** , V. único, São Paulo: Scipione, 2000. 
+INSTITUTOFEDERAL<br>PARANA<br>## **4. REGULAMENTO DO ESTÁGIO CURRICULAR NÃO OBRIGATÓRIO IFPR- CÂMPUS CURITIBA**
 
-USBERCO, João; SALVADOR, Edgard. **Química essencial.** 4. ed. V. único, São Paulo: Saraiva, 2007. 
+## **CAPÍTULO I DA NATUREZA E FINALIDADE**
 
-SARDELLA, A.; MATEUS, E. **Curso de química.** 21ª ed. V. 3, São Paulo: Ática, 1995. 
+Artigo 1º - O estágio curricular não obrigatório é um ato educativo de natureza opcional, com a finalidade de complementar os conhecimentos teóricos recebidos pelo estudante ao longo das atividades de ensino/aprendizagem e obedecerá a legislação específica, bem como as normas e diretrizes internas da IFPR.
 
-TITO, F. M.; CANTO, E. L. **Química na abordagem do cotidiano** . 3ª ed. V. 3, São Paulo: Moderna, 2003. 
+## **CAPÍTULO II DA ORGANIZAÇÃO**
 
-## **Bibliografia Complementar:** 
+Artigo 2º - O estágio curricular não obrigatório deve ser organizado tendo em vista os seguintes objetivos: I – ampliar a formação acadêmico-profissional do estudante;
 
-PERUZZO, F. M.; CANTO, E. L. **Química na abordagem do cotidiano** . 2ª ed. V. 3. São Paulo: Moderna,1999. 
+II- propiciar ao estudante, na prática, a aplicação dos conhecimentos teóricos obtidos durante a realização do curso;
 
-VANIN, J.A. **Alquimistas e Químicos: o passado, o presente e o futuro** , 11ª ed. V. único. São Paulo, Editora Moderna, 1994. 
+III - promover a integração social do estudante.
 
-KOTZ, John C.; TREICHEL, Paul; WEAVER, Gabriela C. **Química geral e reações químicas.** V. 3. São Paulo: Cengage Learning, 2010. 
+Artigo 3º - O estágio curricular não obrigatório será regulamentado pela Pró-Reitoria de Extensão, Pesquisa e Inovação em articulação com a Direção de Ensino e Diretoria de  Pesquisa,  Extensão e Inovação do Campus Curitiba, com as seguintes atribuições:
 
-BROWN, T. L.; LEMAY, H. E.; BURSTEN, B. E. **Química: a ciência central** . 9ª ed. V. único. São Paulo: Pearson PrenticeHall, 2005. 
+I - celebrar convênio com a entidade concedente de estágio ou agência de integração empresa-escola;
 
-REIS, M; **Química Integral.** V. único. São Paulo: FTD, 1993. 
+II - aprovar o plano de estágio elaborado pelo estudante e seu orientador;
 
-90 
+III - assegurar a supervisão acadêmica do estágio, a ser realizada de forma compartilhada  pelos orientadores e pelos supervisores profissionais vinculados às entidades concedentes;
 
-INSTITUTOFEDERAL PARANA 
+IV - aprovar e assinar o termo de compromisso de estágio, conforme legislação vigente.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+Artigo 4º - Só poderão estagiar estudantes regularmente matriculados e com freqüência regular, preferencialmente depois de cursado um semestre letivo.
 
-## **Câmpus Curitiba do IFPR** 
+§ único - a duração do estágio curricular não obrigatório não poderá ser inferior a um semestre letivo.
 
-**Curso: Mecânica Integrado Eixo Tecnológico: Controle e Processos Industriais Componente Curricular** : Temas contemporâneos **Carga Horária (hora-aula):** 40 h **Período letivo:** 3º ano 
+## **CAPÍTULO III DO CAMPO DE ESTÁGIO**
 
-## **Ementa:** 
+Artigo 5º - Constituem campo de estágio as entidades de direito privado, os órgãos de administração pública, as instituições de ensino, a comunidade em geral e as próprias unidades de serviços e ensino do IFPR Artigo 6º - Para aprovação de campo de estágio serão considerados pelo Câmpus Curitiba, em relação à entidade ofertante de campo de estágio:
 
-Análise de temas contemporâneos a partir dos estudos envolvendo diferentes áreas de conhecimento, tendo como foco de investigação o indivíduo, a sociedade, a ciência e a tecnologia no século XXI. 
+I - existência de infra-estrutura material e de recursos humanos;
 
-## **Bibliografia Básica:** 
+II - aceitação das condições de supervisão e avaliação do Câmpus Curitiba do IFPR;
 
-BAUMAN, Zygmunt. Modernidade líquida **.** Rio de Janeiro: Zahar, 2001. 
+III - anuência e acatamento às normas disciplinadoras do estágio curricular não obrigatório do IFPR-Câmpus Curitiba;
 
-RESENDE, Beatriz. Contemporâneos. Expressão da literatura Brasileira no século XXI. Rio de Janeiro: Casa da Palavra, Biblioteca Nacional, 2008. 
+Artigo 7º - O campo de estágio será aprovado pela Direção de Ensino e Direção de Extensão, Pesquisa e Inovação do Câmpus Curitiba com a entidade concedente de estágio ou agentes de integração empresa-escola, estes últimos entendidos como entidades que atuam na intermediação da busca de campos de estágio e ofertas de vagas.
 
-TORRES, Carlos M. et all. Física, ciência e tecnologia. São Paulo: Moderna, 2010 
+§ 1º - A jornada do estágio deverá ser compatível com o horário escolar do estudante;
 
-## **Bibliografia complementar:** 
+§ 2º - deverá ser garantida a adequação entre as atividades desenvolvidas no estágio e a área de formação do estudante.
 
-ARENDT, Hannah. A condição humana. 10ª Ed. Rio de Janeiro:  Forense Universitária, 2005 FÁVERO, Osmar et all. Juventude e contemporaneidade. Brasília: UNESC, MEC, ANPed, 2007 (Coleção Educação para todos;16) 
+**CAPÍTULO IV**
 
-GIDDENS, Anthony. Sociologia. 6ª ed. Porto Alegre: Penso, 2012. 
+## **DA SUPERVISÃO E ORIENTAÇÃO DE ESTÁGIO**
 
-OLIVEIRA, Francisco e RIZEK, Cibele S (orgs) . A era da indeterminação. São Paulo: Boitempo, 2007. 
+Artigo 8º - A supervisão do estágio curricular não obrigatório caberá ao profissional vinculado à entidade concedente do estágio em conjunto com profissional orientador indicado pelo curso ao qual o aluno está matriculado.
 
-REVISTA SCIENTIFIC AMERICAN Brasil. São Paulo: Ediouro Duetto Editorial LTDA 
+Artigo 9º - Cabe ao profissional orientador do estágio:
 
-91 
+92
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## INSTITUTOFEDERAL PARANA
 
-**==> picture [69 x 16] intentionally omitted <==**
+MinisteriodaEducacao<br>InstitutoFederaldoParana<br>I - elaborar em conjunto com o estudante estagiário o plano de estágio, observada a adequação das atividades de estágio com a área de formação do estudante, de forma a garantir o desenvolvimento de competências necessárias à sua formação profissional.
 
-**----- Start of picture text -----**<br>
-INSTITUTOFEDERAL<br>PARANA<br>**----- End of picture text -----**<br>
+II - solicitar relatórios dos estágios, verificar a assiduidade do estagiário e preencher a ficha de avaliação. Artigo 10 - Cabe ao supervisor profissional da entidade concedente:
 
+I - avaliar as atividades desenvolvidas pelo estudante estagiário;
 
-## **4. REGULAMENTO DO ESTÁGIO CURRICULAR NÃO OBRIGATÓRIO IFPR- CÂMPUS CURITIBA** 
+II - assinar a ficha de freqüência do aluno estagiário;
 
-## **CAPÍTULO I DA NATUREZA E FINALIDADE** 
+III - orientar a elaboração dos relatórios do estágio e preencher a ficha de avaliação;
 
-Artigo 1º - O estágio curricular não obrigatório é um ato educativo de natureza opcional, com a finalidade de complementar os conhecimentos teóricos recebidos pelo estudante ao longo das atividades de ensino/aprendizagem e obedecerá a legislação específica, bem como as normas e diretrizes internas da IFPR. 
+IV - verificar a adequação das atividades de estágio com a área de formação do estudante, de forma a garantir o desenvolvimento de competências necessárias à sua formação profissional.
 
-## **CAPÍTULO II DA ORGANIZAÇÃO** 
+## **CAPÍTULO V DA AVALIAÇÃO DO ESTÁGIO**
 
-Artigo 2º - O estágio curricular não obrigatório deve ser organizado tendo em vista os seguintes objetivos: I – ampliar a formação acadêmico-profissional do estudante; 
+Artigo 11 - A avaliação do estágio curricular não obrigatório será realizada pelo profissional orientador do estágio, em conjunto com o supervisor profissional da entidade concedente, observados os seguintes critérios: I - desempenho profissional do estudante estagiário nas atividades contidas no plano de estágio; II - assiduidade do estudante estagiário na entidade concedente;
 
-II- propiciar ao estudante, na prática, a aplicação dos conhecimentos teóricos obtidos durante a realização do curso; 
+## **CAPÍTULO VI DAS DISPOSIÇÕES GERAIS**
 
-III - promover a integração social do estudante. 
+Artigo 12 - O estágio de que trata este regulamento não cria vínculo empregatício de qualquer natureza entre o estudante e a entidade concedente, facultado ao estagiário o recebimento de bolsa.
 
-Artigo 3º - O estágio curricular não obrigatório será regulamentado pela Pró-Reitoria de Extensão, Pesquisa e Inovação em articulação com a Direção de Ensino e Diretoria de  Pesquisa,  Extensão e Inovação do Campus Curitiba, com as seguintes atribuições: 
+§ único – A entidade concedente de estágio ou os agentes de integração empresa-escola providenciarão seguro de acidentes pessoais ao estudante em regime de estágio curricular não obrigatório.
 
-I - celebrar convênio com a entidade concedente de estágio ou agência de integração empresa-escola; 
+Artigo14 - A entidade concedente poderá expedir declaração referente à realização de estágio curricular não obrigatório, depois de cumpridas todas as formalidades previstas para essa modalidade.
 
-II - aprovar o plano de estágio elaborado pelo estudante e seu orientador; 
+Artigo 15 - Os casos omissos serão resolvidos pela Direção de Ensino e Direção de Extensão, Pesquisa e Inovação do Campus Curitiba do IFPR em consonância com as orientações recebidas da Pró-Reitoria de Extensão, Pesquisa e Inovação.
 
-III - assegurar a supervisão acadêmica do estágio, a ser realizada de forma compartilhada  pelos orientadores e pelos supervisores profissionais vinculados às entidades concedentes; 
+Curitiba, 12  janeiro de 2013.
 
-IV - aprovar e assinar o termo de compromisso de estágio, conforme legislação vigente. 
+Direção Ensino, Pesquisa e Extensão do IFPR-Câmpus Curitiba
 
-Artigo 4º - Só poderão estagiar estudantes regularmente matriculados e com freqüência regular, preferencialmente depois de cursado um semestre letivo. 
+INSTITUTOFEDERAL<br>PARANA<br>MinisteriodaEducacao<br>InstitutoFederaldoParana<br>## **Relatório de Atividades de Estágio Curricular Não Obrigatório**
 
-§ único - a duração do estágio curricular não obrigatório não poderá ser inferior a um semestre letivo. 
+O relatório será elaborado pelo estagiário devendo conter:
 
-## **CAPÍTULO III DO CAMPO DE ESTÁGIO** 
+- 1) Dados de identificação do estagiário e da unidade concedente.
 
-Artigo 5º - Constituem campo de estágio as entidades de direito privado, os órgãos de administração pública, as instituições de ensino, a comunidade em geral e as próprias unidades de serviços e ensino do IFPR Artigo 6º - Para aprovação de campo de estágio serão considerados pelo Câmpus Curitiba, em relação à entidade ofertante de campo de estágio: 
+- 2) Setores em que o estagiário atuou na empresa.
 
-I - existência de infra-estrutura material e de recursos humanos; 
+- 3) Descrever as atividades desenvolvidas.
 
-II - aceitação das condições de supervisão e avaliação do Câmpus Curitiba do IFPR; 
+- 4) Apresentar pelo menos uma situação real de trabalho, vivenciada pelo estagiário na unidade concedente, contemplando as atividades de trabalho vinculadas área de formação acadêmica-profissional.
 
-III - anuência e acatamento às normas disciplinadoras do estágio curricular não obrigatório do IFPR-Câmpus Curitiba; 
+- 5) Avaliação do estágio pelo acadêmico. O estagiário deve responder as seguintes perguntas: 1º) Com relação ao desenvolvimento das atividades.
 
-Artigo 7º - O campo de estágio será aprovado pela Direção de Ensino e Direção de Extensão, Pesquisa e Inovação do Câmpus Curitiba com a entidade concedente de estágio ou agentes de integração empresa-escola, estes últimos entendidos como entidades que atuam na intermediação da busca de campos de estágio e ofertas de vagas. 
+   - 1.1) Está de acordo com suas expectativas?
 
-§ 1º - A jornada do estágio deverá ser compatível com o horário escolar do estudante; 
+   - 1.2) Está oferecendo experiência para o exercício profissional futuro?
 
-§ 2º - deverá ser garantida a adequação entre as atividades desenvolvidas no estágio e a área de formação do estudante. 
+   - 1.3) Permite conhecer novas técnicas e metodologias de trabalho?
 
-**CAPÍTULO IV** 
+   - 1.4) Oferece experiência prática na sua área de formação?
 
-## **DA SUPERVISÃO E ORIENTAÇÃO DE ESTÁGIO** 
+   - 1.5) Permite conhecer a importância do trabalho em equipe?
 
-Artigo 8º - A supervisão do estágio curricular não obrigatório caberá ao profissional vinculado à entidade concedente do estágio em conjunto com profissional orientador indicado pelo curso ao qual o aluno está matriculado. 
+   - 1.6) Você sugere que outro acadêmico faça um estágio semelhante ao seu? Por quê?
 
-Artigo 9º - Cabe ao profissional orientador do estágio: 
+   - 2º) Com relação ao ambiente de trabalho.
 
-92 
+2.1) O ambiente físico é adequado?
 
-## INSTITUTOFEDERAL PARANA 
+2.2) Houve integração com os funcionários da empresa?
 
-**==> picture [97 x 18] intentionally omitted <==**
+2.3) Como foi a orientação e supervisão exercidas pela empresa ?
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+## 6) Avaliação do estágio pelo supervisor.
 
-
-I - elaborar em conjunto com o estudante estagiário o plano de estágio, observada a adequação das atividades de estágio com a área de formação do estudante, de forma a garantir o desenvolvimento de competências necessárias à sua formação profissional. 
-
-II - solicitar relatórios dos estágios, verificar a assiduidade do estagiário e preencher a ficha de avaliação. Artigo 10 - Cabe ao supervisor profissional da entidade concedente: 
-
-I - avaliar as atividades desenvolvidas pelo estudante estagiário; 
-
-II - assinar a ficha de freqüência do aluno estagiário; 
-
-III - orientar a elaboração dos relatórios do estágio e preencher a ficha de avaliação; 
-
-IV - verificar a adequação das atividades de estágio com a área de formação do estudante, de forma a garantir o desenvolvimento de competências necessárias à sua formação profissional. 
-
-## **CAPÍTULO V DA AVALIAÇÃO DO ESTÁGIO** 
-
-Artigo 11 - A avaliação do estágio curricular não obrigatório será realizada pelo profissional orientador do estágio, em conjunto com o supervisor profissional da entidade concedente, observados os seguintes critérios: I - desempenho profissional do estudante estagiário nas atividades contidas no plano de estágio; II - assiduidade do estudante estagiário na entidade concedente; 
-
-## **CAPÍTULO VI DAS DISPOSIÇÕES GERAIS** 
-
-Artigo 12 - O estágio de que trata este regulamento não cria vínculo empregatício de qualquer natureza entre o estudante e a entidade concedente, facultado ao estagiário o recebimento de bolsa. 
-
-§ único – A entidade concedente de estágio ou os agentes de integração empresa-escola providenciarão seguro de acidentes pessoais ao estudante em regime de estágio curricular não obrigatório. 
-
-Artigo14 - A entidade concedente poderá expedir declaração referente à realização de estágio curricular não obrigatório, depois de cumpridas todas as formalidades previstas para essa modalidade. 
-
-Artigo 15 - Os casos omissos serão resolvidos pela Direção de Ensino e Direção de Extensão, Pesquisa e Inovação do Campus Curitiba do IFPR em consonância com as orientações recebidas da Pró-Reitoria de Extensão, Pesquisa e Inovação. 
-
-Curitiba, 12  janeiro de 2013. 
-
-Direção Ensino, Pesquisa e Extensão do IFPR-Câmpus Curitiba 
-
-93 
-
-**==> picture [69 x 17] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-INSTITUTOFEDERAL<br>PARANA<br>**----- End of picture text -----**<br>
-
-
-**==> picture [97 x 18] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
-
-
-## **Relatório de Atividades de Estágio Curricular Não Obrigatório** 
-
-O relatório será elaborado pelo estagiário devendo conter: 
-
-- 1) Dados de identificação do estagiário e da unidade concedente. 
-
-- 2) Setores em que o estagiário atuou na empresa. 
-
-- 3) Descrever as atividades desenvolvidas. 
-
-- 4) Apresentar pelo menos uma situação real de trabalho, vivenciada pelo estagiário na unidade concedente, contemplando as atividades de trabalho vinculadas área de formação acadêmica-profissional. 
-
-- 5) Avaliação do estágio pelo acadêmico. O estagiário deve responder as seguintes perguntas: 1º) Com relação ao desenvolvimento das atividades. 
-
-   - 1.1) Está de acordo com suas expectativas? 
-
-   - 1.2) Está oferecendo experiência para o exercício profissional futuro? 
-
-   - 1.3) Permite conhecer novas técnicas e metodologias de trabalho? 
-
-   - 1.4) Oferece experiência prática na sua área de formação? 
-
-   - 1.5) Permite conhecer a importância do trabalho em equipe? 
-
-   - 1.6) Você sugere que outro acadêmico faça um estágio semelhante ao seu? Por quê? 
-
-   - 2º) Com relação ao ambiente de trabalho. 
-
-2.1) O ambiente físico é adequado? 
-
-2.2) Houve integração com os funcionários da empresa? 
-
-2.3) Como foi a orientação e supervisão exercidas pela empresa ? 
-
-## 6) Avaliação do estágio pelo supervisor. 
-
-O supervisor deverá preencher os seguintes itens: 
+O supervisor deverá preencher os seguintes itens:
 
 ||Aspectos considerados do estagiário|Muito bom|Bom|Regular|
 |---|---|---|---|---|
@@ -2908,101 +2566,79 @@ O supervisor deverá preencher os seguintes itens:
 |7)|Compreensão das tarefas.||||
 |8)|Contribuição com idéias.||||
 
+Recomendações:____________________________________________________________________________________________________
 
+__________________________________________________________________________________________________________________
 
-Recomendações:____________________________________________________________________________________________________ 
+__________________________________________________________________________________________________________________
 
-__________________________________________________________________________________________________________________ 
+______________________________________ 7) Avaliação do estágio pelo professor orientador
 
-__________________________________________________________________________________________________________________ 
+Diante das respostas dadas pelo estagiário e pelo supervisor de estágio, considero o estágio concluído com (   ) êxito                         (   ) sem êxito
 
-______________________________________ 7) Avaliação do estágio pelo professor orientador 
+Data e local:
 
-Diante das respostas dadas pelo estagiário e pelo supervisor de estágio, considero o estágio concluído com (   ) êxito                         (   ) sem êxito 
+Assinatura do Estagiário:
 
-Data e local: 
+Assinatura do Supervisor: Assinatura do Professor Orientador:
 
-Assinatura do Estagiário: 
+INSTITUTOFEDERAL<br>PARANA<br>MinisteriodaEducacao<br>InstitutoFederaldoParana<br>## **5. REFERÊNCIAS BIBLIOGRÁFICAS**
 
-Assinatura do Supervisor: Assinatura do Professor Orientador: 
+BRASIL. Catálogo Nacional de Cursos Técnicos. 2008. Disponível em: <pronatec.mec .gov.br/cnct>. Acesso em: 22 de março de 2016.
 
-94 
+IFPR. Resolução nº 12/09 IFPR, de 14 de outubro de 2009. Resolve pela criação do Curso Técnico em Mecânica Integrado ao Ensino Médio do IFPR. Disponível em: < curitiba.ifpr.edu.br/.../Res.12.09>. Acesso em: 22 de março de 2016.
 
-**==> picture [69 x 16] intentionally omitted <==**
+BRASIL. Lei nº 9.394/96, de 20 de dezembro de 1996. Lei de Diretrizes e Bases da Educação Nacional. Disponível em: < portal.mec.gov.br/seed/arquivos/pdf/tvescola/leis/lein9394.pdf>. Acesso em: 22 de março de 2016.
 
-**----- Start of picture text -----**<br>
-INSTITUTOFEDERAL<br>PARANA<br>**----- End of picture text -----**<br>
+BRASIL. Decreto 5.154/2004, de 23 de julho de 2004. Regulamenta o § 2º do art. 36 e os arts. 39 a 41 da Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, e dá outras providências. Disponível em:
 
+- <www.planalto.gov.br/ccivil_03/_ato2004.../2004/decreto/d5154.htm>. Acesso em: 22 de março de 2016.
 
-**==> picture [97 x 18] intentionally omitted <==**
+BRASIL. Lei nº 9.795/99, de 27 de abril de 1999. Dispõe sobre a educação ambiental, institui a Política Nacional de Educação Ambiental e dá outras providências. Disponível em:
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+<www.planalto.gov.br/ccivil_03/leis/L9795.htm>. Acesso em: 22 de março de 2016.
 
+BRASIL. Resolução CNE/CEB nº02/12, de 30 de janeiro de 2012. Define Diretrizes Curriculares Nacionais para o Ensino Médio. Disponível em :< portal.mec.gov.br>. Acesso em: 22 de março de 2016.
 
-## **5. REFERÊNCIAS BIBLIOGRÁFICAS** 
+BRASIL. Lei nº 9.503/97. 1997. Código de Trânsito Brasileiro. Disponível em:
 
-BRASIL. Catálogo Nacional de Cursos Técnicos. 2008. Disponível em: <pronatec.mec .gov.br/cnct>. Acesso em: 22 de março de 2016. 
+<www.planalto.gov.br/ccivil_03/leis/L9503.htm>. Acesso em: 22 de março de 2016.
 
-IFPR. Resolução nº 12/09 IFPR, de 14 de outubro de 2009. Resolve pela criação do Curso Técnico em Mecânica Integrado ao Ensino Médio do IFPR. Disponível em: < curitiba.ifpr.edu.br/.../Res.12.09>. Acesso em: 22 de março de 2016. 
+BRASIL. Decreto nº 7.037/09, de 21 de dezembro de 2009. Programa Nacional de Direitos Humanos. Disponível em: < www.planalto.gov.br/ccivil_03/_Ato2007-2010/.../Decreto/D7037.htm>. Acesso em: 22 de março de 2016.
 
-BRASIL. Lei nº 9.394/96, de 20 de dezembro de 1996. Lei de Diretrizes e Bases da Educação Nacional. Disponível em: < portal.mec.gov.br/seed/arquivos/pdf/tvescola/leis/lein9394.pdf>. Acesso em: 22 de março de 2016. 
+BRASIL. Lei nº 11.947/2009, de 16 de junho de 2009. Dispõe sobre o atendimento da alimentação escolar e do Programa Dinheiro Direto na Escola aos alunos da educação básica. Disponível em: <www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11947.htm>. Acesso em: 22 de março de 2016.
 
-BRASIL. Decreto 5.154/2004, de 23 de julho de 2004. Regulamenta o § 2º do art. 36 e os arts. 39 a 41 da Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, e dá outras providências. Disponível em: 
+BRASIL. Lei nº 10.639/03. 2003. Altera a Lei no 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da Rede de Ensino a obrigatoriedade da temática "História e Cultura Afro-Brasileira", e dá outras providências. Disponível em: < www.planalto.gov.br/ccivil_03/leis/2003/L10.639.htm>. Acesso em: 22 de março de 2016.
 
-- <www.planalto.gov.br/ccivil_03/_ato2004.../2004/decreto/d5154.htm>. Acesso em: 22 de março de 2016. 
+95
 
-BRASIL. Lei nº 9.795/99, de 27 de abril de 1999. Dispõe sobre a educação ambiental, institui a Política Nacional de Educação Ambiental e dá outras providências. Disponível em: 
+MinisteriodaEducacao INSTITUTOFEDERAL InstitutoFederaldoParana PARANA
 
-<www.planalto.gov.br/ccivil_03/leis/L9795.htm>. Acesso em: 22 de março de 2016. 
+IPARDES – Instituto Paranaense de Desenvolvimento Econômico e Social. Disponível em: <www.ipardes.gov.br>. Acesso em: 22 de março de 2016.
 
-BRASIL. Resolução CNE/CEB nº02/12, de 30 de janeiro de 2012. Define Diretrizes Curriculares Nacionais para o Ensino Médio. Disponível em :< portal.mec.gov.br>. Acesso em: 22 de março de 2016. 
+IFPR. Parecer CNE/CEB nº 39/04, de 8 de dezembro de 2004. Aplicação do Decreto nº 5.154/2004 na Educação Profissional Técnica de nível médio e no Ensino Médio. Disponível em: <reitoria.ifpr.edu.br/Diretoria de Ensino Médio e Técnico – DEMTEC>. Acesso em: 22 de março de 2016.
 
-BRASIL. Lei nº 9.503/97. 1997. Código de Trânsito Brasileiro. Disponível em: 
+BRASIL. Resolução CNE/CEB nº 04/99, de 19 de abril de 1999. Institui as Diretrizes Curriculares Nacionais para a Educação Profissional de Nível Técnico. Disponível em: <portal.mec.gov.br/setec/arquivos/pdf/RCNE_CEB04_99.pdf>. Acesso em: 22 de março de 2016.
 
-<www.planalto.gov.br/ccivil_03/leis/L9503.htm>. Acesso em: 22 de março de 2016. 
+BRASIL. Portaria nº 120/09, de 3 de julho de 2009. Dispõe sobre a tramitação, a avaliação e a aprovação do enquadramento dos projetos desportivos ou paradesportivos, bem como a captação, o acompanhamento e monitoramento da execução e da prestação de contas os projetos devidamente aprovados, de que tratam a Lei nº 11.438, de 2 9 de dezembro de 2006 e o Decreto nº 6.180, de 3 de agosto de 2007, no âmbito do Ministério do Esporte, e dá outras providências. Disponível em: <www.esporte.gov.br/arquivos/.../portariaN12003072009.pdf>. Acesso em: 22 de março de 2016.
 
-BRASIL. Decreto nº 7.037/09, de 21 de dezembro de 2009. Programa Nacional de Direitos Humanos. Disponível em: < www.planalto.gov.br/ccivil_03/_Ato2007-2010/.../Decreto/D7037.htm>. Acesso em: 22 de março de 2016. 
+BRASIL. Resolução CNE/CEB nº 06/12, de 20 de setembro de 2012. Define Diretrizes Curriculares Nacionais para a Educação Profissional Técnica de Nível Médio. Disponível em: <portal.mec.gov.br>. Acesso em 22 de março de 2016.
 
-BRASIL. Lei nº 11.947/2009, de 16 de junho de 2009. Dispõe sobre o atendimento da alimentação escolar e do Programa Dinheiro Direto na Escola aos alunos da educação básica. Disponível em: <www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11947.htm>. Acesso em: 22 de março de 2016. 
+BRASIL. Constituição Federal, Art 250. 1988. Disponível em: <www.jusbrasil.com.br/topicos>. Acesso em: 22 de março de 2016.
 
-BRASIL. Lei nº 10.639/03. 2003. Altera a Lei no 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da Rede de Ensino a obrigatoriedade da temática "História e Cultura Afro-Brasileira", e dá outras providências. Disponível em: < www.planalto.gov.br/ccivil_03/leis/2003/L10.639.htm>. Acesso em: 22 de março de 2016. 
+BRASIL. Lei nº 10.436/02, de 24 de abril de 2002. Dispõe sobre a Língua Brasileira de Sinais - Líbras e dá outras providências. Disponível em: <www.planalto.gov.br/ccivil_03/leis/2002/L10436.htm>. Acesso em: 22 de março de 2016.
 
-95 
+BRASIL. Decreto nº 5.296/04, de 2 de dezembro de 2004. Regulamenta as Leis n 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências. Disponível em: <www.planalto.gov.br/ccivil_03/_ato2004-2006/.../decreto/d5296.htm>. Acesso em: 22 de março de 2016.
 
-MinisteriodaEducacao INSTITUTOFEDERAL InstitutoFederaldoParana PARANA 
+BRASIL. Portaria nº 3.284/03, de 7 de novembro de 2013. Dispõe sobre requisitos de acessibilidade de pessoas portadoras de deficiências, para instruir os processos de autorização e de reconhecimento de cursos, e de credenciamento de instituições. Disponível em:
 
-IPARDES – Instituto Paranaense de Desenvolvimento Econômico e Social. Disponível em: <www.ipardes.gov.br>. Acesso em: 22 de março de 2016. 
+<portal.mec.gov.br/seesp/arquivos/pdf/port3284.pdf>. Acesso em: 22 de março de 2016.
 
-IFPR. Parecer CNE/CEB nº 39/04, de 8 de dezembro de 2004. Aplicação do Decreto nº 5.154/2004 na Educação Profissional Técnica de nível médio e no Ensino Médio. Disponível em: <reitoria.ifpr.edu.br/Diretoria de Ensino Médio e Técnico – DEMTEC>. Acesso em: 22 de março de 2016. 
+96
 
-BRASIL. Resolução CNE/CEB nº 04/99, de 19 de abril de 1999. Institui as Diretrizes Curriculares Nacionais para a Educação Profissional de Nível Técnico. Disponível em: <portal.mec.gov.br/setec/arquivos/pdf/RCNE_CEB04_99.pdf>. Acesso em: 22 de março de 2016. 
+INSTITUTOFEDERAL PARANA
 
-BRASIL. Portaria nº 120/09, de 3 de julho de 2009. Dispõe sobre a tramitação, a avaliação e a aprovação do enquadramento dos projetos desportivos ou paradesportivos, bem como a captação, o acompanhamento e monitoramento da execução e da prestação de contas os projetos devidamente aprovados, de que tratam a Lei nº 11.438, de 2 9 de dezembro de 2006 e o Decreto nº 6.180, de 3 de agosto de 2007, no âmbito do Ministério do Esporte, e dá outras providências. Disponível em: <www.esporte.gov.br/arquivos/.../portariaN12003072009.pdf>. Acesso em: 22 de março de 2016. 
+MinisteriodaEducacao<br>InstitutoFederaldoParana<br>BRASIL. Decreto nº 5.626/05, de 22 de dezembro de 2005. Regulamenta a Lei no 10.436, de 24 de abril de 2002, que dispõe sobre a Língua Brasileira de Sinais - Libras, e o art. 18 da Lei no 10.098, de 19 de dezembro de 2000. Disponível em: <www.planalto.gov.br/ccivil_03/_ato20042006/.../decreto/d5626.htm>. Acesso em: 22 de março de 2016.
 
-BRASIL. Resolução CNE/CEB nº 06/12, de 20 de setembro de 2012. Define Diretrizes Curriculares Nacionais para a Educação Profissional Técnica de Nível Médio. Disponível em: <portal.mec.gov.br>. Acesso em 22 de março de 2016. 
-
-BRASIL. Constituição Federal, Art 250. 1988. Disponível em: <www.jusbrasil.com.br/topicos>. Acesso em: 22 de março de 2016. 
-
-BRASIL. Lei nº 10.436/02, de 24 de abril de 2002. Dispõe sobre a Língua Brasileira de Sinais - Líbras e dá outras providências. Disponível em: <www.planalto.gov.br/ccivil_03/leis/2002/L10436.htm>. Acesso em: 22 de março de 2016. 
-
-BRASIL. Decreto nº 5.296/04, de 2 de dezembro de 2004. Regulamenta as Leis n 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências. Disponível em: <www.planalto.gov.br/ccivil_03/_ato2004-2006/.../decreto/d5296.htm>. Acesso em: 22 de março de 2016. 
-
-BRASIL. Portaria nº 3.284/03, de 7 de novembro de 2013. Dispõe sobre requisitos de acessibilidade de pessoas portadoras de deficiências, para instruir os processos de autorização e de reconhecimento de cursos, e de credenciamento de instituições. Disponível em: 
-
-<portal.mec.gov.br/seesp/arquivos/pdf/port3284.pdf>. Acesso em: 22 de março de 2016. 
-
-96 
-
-INSTITUTOFEDERAL PARANA 
-
-**==> picture [97 x 18] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
-
-
-BRASIL. Decreto nº 5.626/05, de 22 de dezembro de 2005. Regulamenta a Lei no 10.436, de 24 de abril de 2002, que dispõe sobre a Língua Brasileira de Sinais - Libras, e o art. 18 da Lei no 10.098, de 19 de dezembro de 2000. Disponível em: <www.planalto.gov.br/ccivil_03/_ato20042006/.../decreto/d5626.htm>. Acesso em: 22 de março de 2016. 
-
-97 
+97
 

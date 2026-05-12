@@ -1,34 +1,30 @@
-## **MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA INSTITUTO FEDERAL DO PARANÁ CAMPUS PARANAVAÍ** 
+## **MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA INSTITUTO FEDERAL DO PARANÁ CAMPUS PARANAVAÍ**
 
-## **PROJETO PEDAGÓGICO DE CURSO TÉCNICO EM MECATRÔNICA INTEGRADO AO ENSINO MÉDIO** 
+## **PROJETO PEDAGÓGICO DE CURSO TÉCNICO EM MECATRÔNICA INTEGRADO AO ENSINO MÉDIO**
 
-## **Autorizado pela Resolução n° ...........do Conselho Superior - IFPR** 
+## **Autorizado pela Resolução n° ...........do Conselho Superior - IFPR**
 
-**Paranavaí 2016** 
+**Paranavaí 2016**
 
-**==> picture [458 x 63] intentionally omitted <==**
+## **Reitor** _**Pro Tempore**_ Adacir Antônio Zanatta
 
-## **Reitor** _**Pro Tempore**_ Adacir Antônio Zanatta 
+**Pró-Reitor de Ensino** Sérgio Garcia dos Martires
 
-**Pró-Reitor de Ensino** Sérgio Garcia dos Martires 
+**Diretor de Ensino Médio e Técnico** Amarildo Pinheiro Magalhães
 
-**Diretor de Ensino Médio e Técnico** Amarildo Pinheiro Magalhães 
+**Coordenador de Ensino Médio e Técnico** Marissoni do Rocio Hilgenberg
 
-**Coordenador de Ensino Médio e Técnico** Marissoni do Rocio Hilgenberg 
+**Direção Geral do Campus** José Barbosa Dias Júnior
 
-**Direção Geral do Campus** José Barbosa Dias Júnior 
+**Direção de Ensino, Pesquisa e Extensão** Valeriê Cardoso Machado Inaba
 
-**Direção de Ensino, Pesquisa e Extensão** Valeriê Cardoso Machado Inaba 
+**Coordenador de Curso** Ricardo Toshiyuki Kato
 
-**Coordenador de Curso** Ricardo Toshiyuki Kato 
+**Núcleo Docente Estruturante** Ana Maria Denardi (Mestre) Anderson Rodrigo Piccini (Doutorando) Antão Rodrigo Valentim (Mestre) Eber de Santi Gouvêa (Mestre) Edno Gentilho Junior (Mestre) Edson Júnior Acordi (Doutorando) Nivaldo Eloi De Souza (Doutor) Ricardo Gouveia Teodoro (Doutorando) Ricardo Toshiyuki Kato (Mestrando) Thiago Tonon (Mestre)
 
-**Núcleo Docente Estruturante** Ana Maria Denardi (Mestre) Anderson Rodrigo Piccini (Doutorando) Antão Rodrigo Valentim (Mestre) Eber de Santi Gouvêa (Mestre) Edno Gentilho Junior (Mestre) Edson Júnior Acordi (Doutorando) Nivaldo Eloi De Souza (Doutor) Ricardo Gouveia Teodoro (Doutorando) Ricardo Toshiyuki Kato (Mestrando) Thiago Tonon (Mestre) 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
-
-## **SUMÁRIO** 
+## **SUMÁRIO**
 
 |1.|IDENTIFICAÇÃO DO PROJETO................................................................................................. 4|
 |---|---|
@@ -60,107 +56,97 @@
 ||5.6. ANEXO VI ......................................................................................................................... 121|
 ||5.7. ANEXO VII ........................................................................................................................ 122|
 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
+## **1. IDENTIFICAÇÃO DO PROJETO**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+**Processo número**
 
-**==> picture [458 x 63] intentionally omitted <==**
+## **23405.000271/2016-83**
 
-## **1. IDENTIFICAÇÃO DO PROJETO** 
+**Nome do curso:** Técnico em Mecatrônica Integrado ao Ensino Médio
 
-**Processo número** 
+**Eixo Tecnológico:** Controle e Processos Industriais
 
-## **23405.000271/2016-83** 
+## **COORDENAÇÃO:**
 
-**Nome do curso:** Técnico em Mecatrônica Integrado ao Ensino Médio 
+**Coordenador** : Prof. Ricardo Toshiyuki Kato
 
-**Eixo Tecnológico:** Controle e Processos Industriais 
+**e-mail:** ricardo.kato@ifpr.edu.br
 
-## **COORDENAÇÃO:** 
+**Telefone:** (44) 3482 0110
 
-**Coordenador** : Prof. Ricardo Toshiyuki Kato 
+**Vice Coordenador:** Eber de Santi Gouvêa
 
-**e-mail:** ricardo.kato@ifpr.edu.br 
+**Telefone:** (44) 3482-0110
 
-**Telefone:** (44) 3482 0110 
+**e-mail:** eber.gouvea@ifpr.edu.br
 
-**Vice Coordenador:** Eber de Santi Gouvêa 
+**Local de Realização / Campus** : Rua José Felipe Tequinha, nº 1400 – Jardim das Nações – CEP:
 
-**Telefone:** (44) 3482-0110 
+87703-536 - Paranavaí – PR
 
-**e-mail:** eber.gouvea@ifpr.edu.br 
+**Telefone:** (44) 3482-0110 **Home Page** : http://paranavai.ifpr.edu.br/
 
-**Local de Realização / Campus** : Rua José Felipe Tequinha, nº 1400 – Jardim das Nações – CEP: 
+**RESOLUÇÃO DE CRIAÇÃO:**
 
-87703-536 - Paranavaí – PR 
+**APROVAÇÃO DO PROJETO PEDAGÓGICO DO CURSO ( X )**
 
-**Telefone:** (44) 3482-0110 **Home Page** : http://paranavai.ifpr.edu.br/ 
+**AJUSTE CURRICULAR DO PROJETO PEDAGÓGICO DO CURSO ( )**
 
-**RESOLUÇÃO DE CRIAÇÃO:** 
+## _**COMISSÃO RESPONSÁVEL PELA ELABORAÇÃO DO PPC OU AJUSTE CURRICULAR:**_
 
-**APROVAÇÃO DO PROJETO PEDAGÓGICO DO CURSO ( X )** 
+> **Professores: Bibliotecárias:**
 
-**AJUSTE CURRICULAR DO PROJETO PEDAGÓGICO DO CURSO ( )** 
+> _Ana Maria Denardi (Mestre) Dalva Oliveira Cabral_
 
-## _**COMISSÃO RESPONSÁVEL PELA ELABORAÇÃO DO PPC OU AJUSTE CURRICULAR:**_ 
+> _Anderson Rodrigo Piccini (Doutorando) Zineide Pereira dos Santos Antão Rodrigo Valentim (Mestre) Eber de Santi Gouvêa (Mestre)_ **Pedagogas:**
 
-> **Professores: Bibliotecárias:** 
+> _Edno Gentilho Junior (Mestre) Alessandra Batista de Godoi Branco Edson Júnior Acordi (Doutorando) Vanilza Valentim dos Santos Nivaldo Eloi De Souza (Doutor) Ricardo Toshiyuki Kato (Mestrando) Thiago Tonon (Mestre)_
 
-> _Ana Maria Denardi (Mestre) Dalva Oliveira Cabral_ 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-> _Anderson Rodrigo Piccini (Doutorando) Zineide Pereira dos Santos Antão Rodrigo Valentim (Mestre) Eber de Santi Gouvêa (Mestre)_ **Pedagogas:** 
+## **2. CARACTERÍSTICAS DO CURSO**
 
-> _Edno Gentilho Junior (Mestre) Alessandra Batista de Godoi Branco Edson Júnior Acordi (Doutorando) Vanilza Valentim dos Santos Nivaldo Eloi De Souza (Doutor) Ricardo Toshiyuki Kato (Mestrando) Thiago Tonon (Mestre)_ 
+**Nível:** Educação Profissional de Nível Técnico
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+**Modalidade:** Presencial.
 
-**==> picture [458 x 63] intentionally omitted <==**
+**Forma de Oferta** : Integrado.
 
-## **2. CARACTERÍSTICAS DO CURSO** 
+**Tempo de duração do curso** : Quatro anos
 
-**Nível:** Educação Profissional de Nível Técnico 
+**Turno de Oferta:** Matutino.
 
-**Modalidade:** Presencial. 
+**Horário de Oferta do Curso:** de segunda-feira a sexta-feira das 7:40 às 12:10
 
-**Forma de Oferta** : Integrado. 
+**Carga Horária Total do Curso** : 3532 h/r.
 
-**Tempo de duração do curso** : Quatro anos 
+**Número máximo de vagas do curso** : 40 alunos.
 
-**Turno de Oferta:** Matutino. 
+**Ano de criação do curso:** 2016
 
-**Horário de Oferta do Curso:** de segunda-feira a sexta-feira das 7:40 às 12:10 
+**Requisitos de acesso ao Curso:** Possuir o ensino fundamental completo e a aprovação no processo seletivo regulamentado pela Pró-Reitoria de Ensino em parceria com o campus.
 
-**Carga Horária Total do Curso** : 3532 h/r. 
+**Tipo de Matrícula:** Serial.
 
-**Número máximo de vagas do curso** : 40 alunos. 
+**Regime Escolar:** Anual. **Instituição Parceira** : Não.
 
-**Ano de criação do curso:** 2016 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-**Requisitos de acesso ao Curso:** Possuir o ensino fundamental completo e a aprovação no processo seletivo regulamentado pela Pró-Reitoria de Ensino em parceria com o campus. 
+## **3. ESTRUTURA E FUNCIONAMENTO**
 
-**Tipo de Matrícula:** Serial. 
+## **3.1. Justificativa da oferta do Curso**
 
-**Regime Escolar:** Anual. **Instituição Parceira** : Não. 
+Com base legal e aparada nos princípios fundamentados na LDB Nº 9.394/96 e no conjunto de leis, decretos, pareceres e referenciais curriculares que normatizam a Educação Profissional no sistema educacional brasileiro, o Instituto Federal de Educação, Ciência e Tecnologia do Paraná – Campus Paranavaí apresenta neste documento o Projeto Pedagógico do Curso Técnico em Mecatrônica Integrado ao Ensino do eixo tecnológico Controle e Processos Industriais.
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+O Curso Técnico em Mecatrônica Integrado ao Ensino Médio tem como objetivo oportunizar aos estudantes: qualificação técnica, gratuita e de qualidade. Assim, o estudante, além de poder ingressar no mundo do trabalho, poderá prosseguir sua trajetória acadêmica ingressando em um curso superior.
 
-**==> picture [458 x 63] intentionally omitted <==**
+Justifica-se a abertura do referido curso, pois os principais indicadores econômicos do país apontam que nos últimos anos a economia brasileira vem crescendo. A indústria paranaense está acompanhando esta tendência, firmando o processo de crescimento do estado em ritmo acelerado. Segundo dados do Ministério do Trabalho, o Paraná foi o Estado que mais gerou empregos no primeiro trimestre de 2015. O Paraná registrou a criação de 25.678 postos de trabalho formais, superior à média nacional segundo o Ministério do Trabalho e Emprego, ainda destaca que as regiões com maior geração de empregos formais, neste período, foram: Região Noroeste, Região Oeste e Região Metropolitana de Curitiba.
 
-## **3. ESTRUTURA E FUNCIONAMENTO** 
+Especificamente a cidade de Paranavaí, que atualmente possui 86.775 habitantes, é considerada cidade polo da AMUNPAR (Associação dos Municípios do Noroeste Paranaense), que congrega 27 municípios da Região Noroeste do Paraná. A tabela 01 apresenta o total de habitantes existentes na região da AMUNPAR (IBGE, 2016).
 
-## **3.1. Justificativa da oferta do Curso** 
-
-Com base legal e aparada nos princípios fundamentados na LDB Nº 9.394/96 e no conjunto de leis, decretos, pareceres e referenciais curriculares que normatizam a Educação Profissional no sistema educacional brasileiro, o Instituto Federal de Educação, Ciência e Tecnologia do Paraná – Campus Paranavaí apresenta neste documento o Projeto Pedagógico do Curso Técnico em Mecatrônica Integrado ao Ensino do eixo tecnológico Controle e Processos Industriais. 
-
-O Curso Técnico em Mecatrônica Integrado ao Ensino Médio tem como objetivo oportunizar aos estudantes: qualificação técnica, gratuita e de qualidade. Assim, o estudante, além de poder ingressar no mundo do trabalho, poderá prosseguir sua trajetória acadêmica ingressando em um curso superior. 
-
-Justifica-se a abertura do referido curso, pois os principais indicadores econômicos do país apontam que nos últimos anos a economia brasileira vem crescendo. A indústria paranaense está acompanhando esta tendência, firmando o processo de crescimento do estado em ritmo acelerado. Segundo dados do Ministério do Trabalho, o Paraná foi o Estado que mais gerou empregos no primeiro trimestre de 2015. O Paraná registrou a criação de 25.678 postos de trabalho formais, superior à média nacional segundo o Ministério do Trabalho e Emprego, ainda destaca que as regiões com maior geração de empregos formais, neste período, foram: Região Noroeste, Região Oeste e Região Metropolitana de Curitiba. 
-
-Especificamente a cidade de Paranavaí, que atualmente possui 86.775 habitantes, é considerada cidade polo da AMUNPAR (Associação dos Municípios do Noroeste Paranaense), que congrega 27 municípios da Região Noroeste do Paraná. A tabela 01 apresenta o total de habitantes existentes na região da AMUNPAR (IBGE, 2016). 
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
 |**MUNICÍPIOS AMUNPAR**|**HABITANTES**|
 |---|---|
@@ -194,323 +180,299 @@ Especificamente a cidade de Paranavaí, que atualmente possui 86.775 habitantes,
 |TerraRica|15256|
 |**TOTAL**|**266010**|
 
+Quadro 01. Quantidade de habitantes da região da AMUNPAR.
 
+O setor industrial da região de Paranavaí se encontra em plena expansão. Novas empresas do setor metal mecânico estão se instalando na região, com o objetivo de atender a demanda de implementos agrícolas, utilizados na agricultura da mandioca, laranja e cana-de-açúcar. O setor industrial da região Noroeste do Paraná conta com mais de 340 empresas instaladas que juntas geram, entre 2010 a 2014, mais 58% de arrecadação fiscal para a região. Neste mesmo período ocorreu um aumento de 185 novas empresas instaladas, representando mais de 22% segundo dados da Secretária Municipal de Desenvolvimento Econômico e Turismo de Paranavaí. O parque industrial tem uma área de mais de 100 hectares, sendo que as
 
-Quadro 01. Quantidade de habitantes da região da AMUNPAR. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-O setor industrial da região de Paranavaí se encontra em plena expansão. Novas empresas do setor metal mecânico estão se instalando na região, com o objetivo de atender a demanda de implementos agrícolas, utilizados na agricultura da mandioca, laranja e cana-de-açúcar. O setor industrial da região Noroeste do Paraná conta com mais de 340 empresas instaladas que juntas geram, entre 2010 a 2014, mais 58% de arrecadação fiscal para a região. Neste mesmo período ocorreu um aumento de 185 novas empresas instaladas, representando mais de 22% segundo dados da Secretária Municipal de Desenvolvimento Econômico e Turismo de Paranavaí. O parque industrial tem uma área de mais de 100 hectares, sendo que as 
+principais indústrias da cidade são: Louis Dreyfus Commodities Citrus, Citri Agroindustrial, Navi Carnes, Yoki Alimentos, Gessopar Decorações, Frangos Canção (GT Foods), Refrigerantes Garoto, Ivo Recap (Cronnus Pneus), Incopostes, Vilaços Implementos Rodoviários, Projeluz Indústria de Luminárias, Carrocerias Modelo, Carrocerias Imperatriz.
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+Além do exposto, cabe ressaltar que a região onde Paranavaí está localizada, é considerada um APL (Arranjo Produtivo Local) da Mandioca, contanto com várias empresas que trabalham com processamento da mandioca. Ainda, Paranavaí está a 78 km da cidade de Loanda, que é considerado um APL de Metais Sanitários, contando com aproximadamente 22 empresas do setor metal mecânico.
 
-**==> picture [458 x 63] intentionally omitted <==**
+Assim o Técnico em Mecatrônica encontra espaço privilegiado nesse mercado de trabalho, principalmente na indústria e empresas de prestação de serviços, por se tratar de um profissional especializado em automação industrial, importante para o funcionamento desses setores da economia. E o Instituto Federal de Educação, Ciência e Tecnologia do Paraná – Campus Paranavaí, vem buscando atender às solicitações de qualificação profissional e formação básica dos cidadãos, alavancando o comércio e a indústria regional, formando cidadãos, novas frentes de trabalho, novos empregos, melhoria na qualidade dos serviços prestados, sistematização na resolução dos problemas locais com a possibilidade de manter as pessoas em suas cidades, diminuindo a migração para outros lugares com melhor infraestrutura, gerando possibilidades para o emprego e a empregabilidade.
 
-principais indústrias da cidade são: Louis Dreyfus Commodities Citrus, Citri Agroindustrial, Navi Carnes, Yoki Alimentos, Gessopar Decorações, Frangos Canção (GT Foods), Refrigerantes Garoto, Ivo Recap (Cronnus Pneus), Incopostes, Vilaços Implementos Rodoviários, Projeluz Indústria de Luminárias, Carrocerias Modelo, Carrocerias Imperatriz. 
+A existência do curso Técnico em Mecatrônica Integrado ao Ensino Médio na região proporciona, certamente, o desenvolvimento industrial nesta área, o que tem um reflexo positivo no mercado de trabalho, abrindo o campo para os futuros profissionais e empresários da área de elétrica, mecânica, automação e mecatrônica industrial.
 
-Além do exposto, cabe ressaltar que a região onde Paranavaí está localizada, é considerada um APL (Arranjo Produtivo Local) da Mandioca, contanto com várias empresas que trabalham com processamento da mandioca. Ainda, Paranavaí está a 78 km da cidade de Loanda, que é considerado um APL de Metais Sanitários, contando com aproximadamente 22 empresas do setor metal mecânico. 
+Além de um ensino profissionalizante, o Curso Técnico em Mecatrônica Integrado ao Ensino Médio, objetiva fornecer por meio do Ensino Médio, uma formação sólida e de qualidade na área básica.
 
-Assim o Técnico em Mecatrônica encontra espaço privilegiado nesse mercado de trabalho, principalmente na indústria e empresas de prestação de serviços, por se tratar de um profissional especializado em automação industrial, importante para o funcionamento desses setores da economia. E o Instituto Federal de Educação, Ciência e Tecnologia do Paraná – Campus Paranavaí, vem buscando atender às solicitações de qualificação profissional e formação básica dos cidadãos, alavancando o comércio e a indústria regional, formando cidadãos, novas frentes de trabalho, novos empregos, melhoria na qualidade dos serviços prestados, sistematização na resolução dos problemas locais com a possibilidade de manter as pessoas em suas cidades, diminuindo a migração para outros lugares com melhor infraestrutura, gerando possibilidades para o emprego e a empregabilidade. 
+Os conteúdos curriculares da educação básica observarão a difusão de valores fundamentais ao interesse social, aos direitos e deveres dos cidadãos, de respeito ao bem comum e à ordem democrática, à consideração das condições de escolaridade dos estudantes em cada estabelecimento, à orientação para o mundo do trabalho, à promoção do desporto educacional e apoio às práticas desportivas não-formais, buscando a consolidação e o aprofundamento dos conhecimentos adquiridos no ensino fundamental, possibilitando o prosseguimento de estudos, a preparação básica
 
-A existência do curso Técnico em Mecatrônica Integrado ao Ensino Médio na região proporciona, certamente, o desenvolvimento industrial nesta área, o que tem um reflexo positivo no mercado de trabalho, abrindo o campo para os futuros profissionais e empresários da área de elétrica, mecânica, automação e mecatrônica industrial. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-Além de um ensino profissionalizante, o Curso Técnico em Mecatrônica Integrado ao Ensino Médio, objetiva fornecer por meio do Ensino Médio, uma formação sólida e de qualidade na área básica. 
+para o mundo do trabalho e a cidadania do educando, para continuar aprendendo, de modo a ser capaz de se adaptar com flexibilidade a novas condições de ocupação ou aperfeiçoamento posteriores, o aprimoramento do educando como pessoa, incluindo a formação ética e o desenvolvimento da autonomia intelectual e do pensamento crítico, a compreensão dos fundamentos científico-tecnológicos dos processos produtivos, relacionando a teoria com a prática, no ensino de cada componente curricular.
 
-Os conteúdos curriculares da educação básica observarão a difusão de valores fundamentais ao interesse social, aos direitos e deveres dos cidadãos, de respeito ao bem comum e à ordem democrática, à consideração das condições de escolaridade dos estudantes em cada estabelecimento, à orientação para o mundo do trabalho, à promoção do desporto educacional e apoio às práticas desportivas não-formais, buscando a consolidação e o aprofundamento dos conhecimentos adquiridos no ensino fundamental, possibilitando o prosseguimento de estudos, a preparação básica 
+Os conteúdos, as metodologias e as formas de avaliação serão organizados de tal forma que ao final do Ensino Médio o educando demonstre domínio dos princípios científicos e tecnológicos que presidem a produção moderna, conhecimento das formas contemporâneas de linguagem e o domínio dos conhecimentos de Filosofia e de Sociologia necessários ao exercício da cidadania.
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+Com relação à infraestrutura e equipamentos necessários para a abertura do Curso Técnico em Mecatrônica Integrado ao Ensino Médio a abertura do curso justificasse, pois aproveitará grande parte da infraestrutura e equipamentos existentes no _Campus_ , utilizados pelos cursos Técnico em Eletromecânica Integrado ao Ensino Médio e o Técnico em Eletromecânica Subsequente ao Ensino Médio. Cabe ressaltar também que o _Campus_ de Paranavaí já possui professores que atual no Eixo Tecnológico Controle e Processos Industriais.
 
-**==> picture [458 x 63] intentionally omitted <==**
+Em vista do exposto, a Direção Geral do IFPR – _Campus_ Paranavaí, compôs a Comissão de Estruturação do Curso, conforme portaria n° 26 de 31 de março de 2016 (Anexo VI), que elaborou o presente Projeto Pedagógico do Curso Técnico em Mecatrônica Integrado ao Ensino Médio.
 
-para o mundo do trabalho e a cidadania do educando, para continuar aprendendo, de modo a ser capaz de se adaptar com flexibilidade a novas condições de ocupação ou aperfeiçoamento posteriores, o aprimoramento do educando como pessoa, incluindo a formação ética e o desenvolvimento da autonomia intelectual e do pensamento crítico, a compreensão dos fundamentos científico-tecnológicos dos processos produtivos, relacionando a teoria com a prática, no ensino de cada componente curricular. 
+## **3.2. Objetivos do Curso**
 
-Os conteúdos, as metodologias e as formas de avaliação serão organizados de tal forma que ao final do Ensino Médio o educando demonstre domínio dos princípios científicos e tecnológicos que presidem a produção moderna, conhecimento das formas contemporâneas de linguagem e o domínio dos conhecimentos de Filosofia e de Sociologia necessários ao exercício da cidadania. 
+O objetivo principal é proporcionar formação baseada na indissociabilidade entre a formação geral (Base Nacional Comum) e a formação específica (componentes técnicos) buscando integrar conceitos teóricos com aplicações práticas, através da apresentação de uma estrutura curricular adaptada para as necessidades da região, de modo a formar técnicos mecatrônicos com princípios éticos e conscientes da sua função em uma sociedade. O curso tem a proposta de conceber um perfil profissional ao técnico mecatrônico que o habilite a atuar em projetos e execução de automação de equipamentos, processos industriais e sistemas robotizados, buscando formar cidadãos conscientes, críticos e preparados para o mundo do trabalho.
 
-Com relação à infraestrutura e equipamentos necessários para a abertura do Curso Técnico em Mecatrônica Integrado ao Ensino Médio a abertura do curso justificasse, pois aproveitará grande parte da infraestrutura e equipamentos existentes no _Campus_ , utilizados pelos cursos Técnico em Eletromecânica Integrado ao Ensino Médio e o Técnico em Eletromecânica Subsequente ao Ensino Médio. Cabe ressaltar também que o _Campus_ de Paranavaí já possui professores que atual no Eixo Tecnológico Controle e Processos Industriais. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-Em vista do exposto, a Direção Geral do IFPR – _Campus_ Paranavaí, compôs a Comissão de Estruturação do Curso, conforme portaria n° 26 de 31 de março de 2016 (Anexo VI), que elaborou o presente Projeto Pedagógico do Curso Técnico em Mecatrônica Integrado ao Ensino Médio. 
+Além disso, se busca habilitar o profissional para o desenvolvimento do raciocínio lógico, científico e humanístico, para a resolução criativa de problemas, bem como para desenvolver a capacidade de apropriar-se dos conhecimentos relacionados ao desempenho da profissão.
 
-## **3.2. Objetivos do Curso** 
+## **3.2.1. Objetivos Específicos do Curso**
 
-O objetivo principal é proporcionar formação baseada na indissociabilidade entre a formação geral (Base Nacional Comum) e a formação específica (componentes técnicos) buscando integrar conceitos teóricos com aplicações práticas, através da apresentação de uma estrutura curricular adaptada para as necessidades da região, de modo a formar técnicos mecatrônicos com princípios éticos e conscientes da sua função em uma sociedade. O curso tem a proposta de conceber um perfil profissional ao técnico mecatrônico que o habilite a atuar em projetos e execução de automação de equipamentos, processos industriais e sistemas robotizados, buscando formar cidadãos conscientes, críticos e preparados para o mundo do trabalho. 
+O Curso Técnico em Mecatrônica Integrado ao Ensino Médio do IFPR Campus Paranavaí tem por objetivos específicos:
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+- Mobilizar as ações criativas, éticas, empreendedoras, além da reflexão dos impactos ambientais, econômicos e socioculturais;
 
-**==> picture [458 x 63] intentionally omitted <==**
+- Consolidar e aprimorar os conhecimentos adquiridos no ensino fundamental, integrando conhecimentos teóricos com aplicações em práticas laboratoriais, possibilitando o prosseguimento dos estudos;
 
-Além disso, se busca habilitar o profissional para o desenvolvimento do raciocínio lógico, científico e humanístico, para a resolução criativa de problemas, bem como para desenvolver a capacidade de apropriar-se dos conhecimentos relacionados ao desempenho da profissão. 
+- Proporcionar uma preparação básica para o trabalho e a cidadania do educando, para continuar aprendendo, de modo a ser capaz de se adaptar com flexibilidade a novas condições de ocupação ou aperfeiçoamento posteriores;
 
-## **3.2.1. Objetivos Específicos do Curso** 
+- Permitir o aprimoramento como cidadão consciente, incluindo a formação ética e o desenvolvimento da autonomia intelectual e do pensamento crítico;
 
-O Curso Técnico em Mecatrônica Integrado ao Ensino Médio do IFPR Campus Paranavaí tem por objetivos específicos: 
+- Possibilitar a compreensão dos fundamentos científico-tecnológicos dos processos produtivos, relacionando a teoria com a prática, no ensino de cada componente curricular.
 
-- Mobilizar as ações criativas, éticas, empreendedoras, além da reflexão dos impactos ambientais, econômicos e socioculturais; 
+## **3.3. Perfil Profissional de Conclusão**
 
-- Consolidar e aprimorar os conhecimentos adquiridos no ensino fundamental, integrando conhecimentos teóricos com aplicações em práticas laboratoriais, possibilitando o prosseguimento dos estudos; 
+Segundo o Catálogo Nacional do Curso Técnicos do Ministério da Educação, edição 2012, o Técnico em Mecatrônica é o profissional que atua no projeto, execução e instalação de máquinas e equipamentos automatizados e sistemas robotizados. Realiza manutenção, medições e testes dessas máquinas, equipamentos e sistemas conforme especificações técnicas. Programa e opera essas máquinas, observando as normas de segurança.
 
-- Proporcionar uma preparação básica para o trabalho e a cidadania do educando, para continuar aprendendo, de modo a ser capaz de se adaptar com flexibilidade a novas condições de ocupação ou aperfeiçoamento posteriores; 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-- Permitir o aprimoramento como cidadão consciente, incluindo a formação ética e o desenvolvimento da autonomia intelectual e do pensamento crítico; 
+O profissional formado no curso Técnico em Mecatrônica na modalidade Integrado ao Ensino Médio do IFPR – Campus Paranavaí deverá possuir as seguintes competências:
 
-- Possibilitar a compreensão dos fundamentos científico-tecnológicos dos processos produtivos, relacionando a teoria com a prática, no ensino de cada componente curricular. 
+- Apresentar aprofundamento dos conhecimentos adquiridos no ensino fundamental, possibilitando o prosseguimento de estudos;
 
-## **3.3. Perfil Profissional de Conclusão** 
+- Ter preparação básica para o trabalho e a cidadania do educando, para continuar aprendendo, de modo a ser capaz de se adaptar com flexibilidade a novas condições de ocupação ou aperfeiçoamento posteriores;
 
-Segundo o Catálogo Nacional do Curso Técnicos do Ministério da Educação, edição 2012, o Técnico em Mecatrônica é o profissional que atua no projeto, execução e instalação de máquinas e equipamentos automatizados e sistemas robotizados. Realiza manutenção, medições e testes dessas máquinas, equipamentos e sistemas conforme especificações técnicas. Programa e opera essas máquinas, observando as normas de segurança. 
+- Compreender os fundamentos científico-tecnológicos dos processos produtivos, relacionando a teoria com a prática, no ensino de cada componente curricular;
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+- Coordenar e desenvolver equipes de trabalho que atuam na instalação, na produção e na manutenção, aplicando métodos e técnicas de gestão administrativa e de pessoas;
 
-**==> picture [458 x 63] intentionally omitted <==**
+- Aplicar normas técnicas e especificações de catálogos, manuais e tabelas em projetos, em processos de fabricação, na instalação de máquinas e de equipamentos e na manutenção industrial;
 
-O profissional formado no curso Técnico em Mecatrônica na modalidade Integrado ao Ensino Médio do IFPR – Campus Paranavaí deverá possuir as seguintes competências: 
+- Entender os conceitos fundamentais relacionados ao projeto e implementação de sistemas automatizados com o uso de CLPs ou microcontroladores;
 
-- Apresentar aprofundamento dos conhecimentos adquiridos no ensino fundamental, possibilitando o prosseguimento de estudos; 
+- Conhecer sistemas automatizados com redes industriais e IHMs;
 
-- Ter preparação básica para o trabalho e a cidadania do educando, para continuar aprendendo, de modo a ser capaz de se adaptar com flexibilidade a novas condições de ocupação ou aperfeiçoamento posteriores; 
+- Especificar corretamente equipamentos e componentes eletrônicoeletromecânicos para acionamento de máquinas e comandos elétricos
 
-- Compreender os fundamentos científico-tecnológicos dos processos produtivos, relacionando a teoria com a prática, no ensino de cada componente curricular; 
+- Conhecer circuitos eletropneumáticos;
 
-- Coordenar e desenvolver equipes de trabalho que atuam na instalação, na produção e na manutenção, aplicando métodos e técnicas de gestão administrativa e de pessoas; 
+- Ter conhecimentos sobre operação e programação de CNC;
 
-- Aplicar normas técnicas e especificações de catálogos, manuais e tabelas em projetos, em processos de fabricação, na instalação de máquinas e de equipamentos e na manutenção industrial; 
+- Especificar equipamentos de medição;
 
-- Entender os conceitos fundamentais relacionados ao projeto e implementação de sistemas automatizados com o uso de CLPs ou microcontroladores; 
+- Conhecer os fundamentos da robótica e de sistemas de controle;
 
-- Conhecer sistemas automatizados com redes industriais e IHMs; 
+- Projetar máquinas e equipamentos, utilizando técnicas de desenho e de representação gráfica com seus fundamentos matemáticos e geométricos;
 
-- Especificar corretamente equipamentos e componentes eletrônicoeletromecânicos para acionamento de máquinas e comandos elétricos 
+- Elaborar projetos, leiautes, diagramas e esquemas, correlacionando-os com as normas técnicas e com os princípios científicos e tecnológicos;
 
-- Conhecer circuitos eletropneumáticos; 
+- Aplicar técnicas de medição e ensaios visando à melhoria da qualidade de produtos e serviços da planta industrial;
 
-- Ter conhecimentos sobre operação e programação de CNC; 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-- Especificar equipamentos de medição; 
+- Avaliar as características e propriedades dos materiais, insumos e elementos de máquinas, correlacionando-as com seus fundamentos matemáticos, físicos e químicos para a aplicação nos processos de controle de qualidade;
 
-- Conhecer os fundamentos da robótica e de sistemas de controle; 
+- Desenvolver projetos de manutenção de instalações e de sistemas industriais, caracterizando e determinando aplicações de materiais, acessórios, dispositivos, instrumentos, equipamentos e máquinas;
 
-- Projetar máquinas e equipamentos, utilizando técnicas de desenho e de representação gráfica com seus fundamentos matemáticos e geométricos; 
+- Projetar melhorias nos sistemas convencionais de produção, instalação e manutenção, propondo incorporação de novas tecnologias;
 
-- Elaborar projetos, leiautes, diagramas e esquemas, correlacionando-os com as normas técnicas e com os princípios científicos e tecnológicos; 
+- Elaborar planilha de custos de aquisição, modernização e manutenção de máquinas e equipamentos, considerando a relação custo e benefício;
 
-- Aplicar técnicas de medição e ensaios visando à melhoria da qualidade de produtos e serviços da planta industrial; 
+- Identificar os elementos de conversão, transformação, transporte e distribuição de energia, aplicando-os nos trabalhos de implantação e manutenção do processo produto;
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+- Identificar as atividades de conservação e utilização de energia, propondo a racionalização de uso e fontes alternativas.
 
-**==> picture [458 x 63] intentionally omitted <==**
+## **São atribuições e responsabilidades do profissional Técnico em Mecatrônica** :
 
-- Avaliar as características e propriedades dos materiais, insumos e elementos de máquinas, correlacionando-as com seus fundamentos matemáticos, físicos e químicos para a aplicação nos processos de controle de qualidade; 
+- Elaborar projetos de dispositivos e sistemas produtivos;
 
-- Desenvolver projetos de manutenção de instalações e de sistemas industriais, caracterizando e determinando aplicações de materiais, acessórios, dispositivos, instrumentos, equipamentos e máquinas; 
+- Integrar e implementar sistemas robotizados e automatizados;
 
-- Projetar melhorias nos sistemas convencionais de produção, instalação e manutenção, propondo incorporação de novas tecnologias; 
+- Elaborar ou atualizar documentação de sistemas automatizados;
 
-- Elaborar planilha de custos de aquisição, modernização e manutenção de máquinas e equipamentos, considerando a relação custo e benefício; 
+- Analisar tecnicamente a aquisição de dispositivos e sistemas produtivos;
 
-- Identificar os elementos de conversão, transformação, transporte e distribuição de energia, aplicando-os nos trabalhos de implantação e manutenção do processo produto; 
+- Fiscalização da execução de serviços e de atividade de sua competência;
 
-- Identificar as atividades de conservação e utilização de energia, propondo a racionalização de uso e fontes alternativas. 
+- Planejar manutenção preventiva e preditiva de sistemas e equipamentos produtivos;
 
-## **São atribuições e responsabilidades do profissional Técnico em Mecatrônica** : 
+- Operação e/ou utilização de equipamentos, instalações e materiais;
 
-- Elaborar projetos de dispositivos e sistemas produtivos; 
+- Realizar manutenções em equipamentos elétricos e mecânicos, utilizando ferramentas adequadas para a tal.
 
-- Integrar e implementar sistemas robotizados e automatizados; 
+## **O mercado de trabalho em que o profissional Técnico em Mecatrônica poderá exercer suas atividades consiste em:**
 
-- Elaborar ou atualizar documentação de sistemas automatizados; 
+- Empresas de assistência técnica especializada;
 
-- Analisar tecnicamente a aquisição de dispositivos e sistemas produtivos; 
+- Empresas montadoras de instalações industriais;
 
-- Fiscalização da execução de serviços e de atividade de sua competência; 
+- Empresas prestadoras de serviços de manutenção;
 
-- Planejar manutenção preventiva e preditiva de sistemas e equipamentos produtivos; 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-- Operação e/ou utilização de equipamentos, instalações e materiais; 
+- Fabricantes de máquinas, componentes e equipamentos robotizados;
 
-- Realizar manutenções em equipamentos elétricos e mecânicos, utilizando ferramentas adequadas para a tal. 
+- Indústria de diversos setores, como: metal mecânico, automobilística, eletroeletrônico, têxtil, concessionárias de energia elétrica, automação de sistemas;
 
-## **O mercado de trabalho em que o profissional Técnico em Mecatrônica poderá exercer suas atividades consiste em:** 
+- Segmentos agroindustriais, desde indústrias de alimentos e bebidas, agroindústrias não alimentares e outras empresas de pequeno, médio e grande porte do setor agroindustrial;
 
-- Empresas de assistência técnica especializada; 
+- Autônomo, prestador de serviços e consultorias em atividades internas intrínsecas do setor industrial;
 
-- Empresas montadoras de instalações industriais; 
+- Laboratório de controle de qualidade, de manutenção e pesquisa;
 
-- Empresas prestadoras de serviços de manutenção; 
+- Empreendedor do próprio negócio industrial.
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+## **3.4. Avaliação da Aprendizagem**
 
-**==> picture [458 x 63] intentionally omitted <==**
+A avaliação da aprendizagem no Curso Técnico em Mecatrônica Integrado ao Ensino Médio do IFPR Campus Paranavaí atende ao disposto na Lei n° 9.394/96, Lei de Diretrizes e Base da Educação Nacional - LDB, que em seu artigo 24, inciso V, alínea “a” versa sobre a avaliação contínua e cumulativa do desempenho do estudante, com prevalência dos aspectos qualitativos sobre os quantitativos e dos resultados ao longo do período sobre os de eventuais provas finais.
 
-- Fabricantes de máquinas, componentes e equipamentos robotizados; 
+Em consonância com estas orientações está a Portaria n°120/2009-IFPR, que estabelece os critérios de avaliação do processo ensino aprendizagem do IFPR, que em seu artigo 1º aponta alunos e professores como sujeitos ativos que devem atuar de forma consciente, não apenas como parte do processo de conhecimento e aprendizagem, mas, sim, como seres humanos imersos numa cultura e que apresentam histórias particulares de vida. O processo de avaliação, de acordo com o artigo 4º, deve ser compreendido como julgamento de valor sobre as manifestações da realidade, tendo em vista uma tomada de decisão, considerando que:
 
-- Indústria de diversos setores, como: metal mecânico, automobilística, eletroeletrônico, têxtil, concessionárias de energia elétrica, automação de sistemas; 
+I – Para avaliar deve-se considerar o que está sendo avaliado, como está sendo avaliado e por que e para que está sendo avaliado;
 
-- Segmentos agroindustriais, desde indústrias de alimentos e bebidas, agroindústrias não alimentares e outras empresas de pequeno, médio e grande porte do setor agroindustrial; 
+II – Para avaliar é preciso ter clareza que a avaliação do processo ensino aprendizagem envolve: os docentes, a instituição, o discente e a sociedade;
 
-- Autônomo, prestador de serviços e consultorias em atividades internas intrínsecas do setor industrial; 
+III – Na avaliação o discente deve ser considerado como um agente ativo do seu processo educativo e saber antecipadamente o que será avaliado, de maneira que as regras são estabelecidas de maneira clara e com a participação do aluno.
 
-- Laboratório de controle de qualidade, de manutenção e pesquisa; 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-- Empreendedor do próprio negócio industrial. 
+O artigo 5º. Garantir que a avaliação por competência será: diagnóstica, formativa e somativa. Como meios para avaliação, o artigo 6º considera: a) Seminários; b) Trabalho individual e/ou em grupo; c) Teste escrito e/ou oral; d) Demonstração de técnicas em laboratório; e) Dramatização; f) Apresentação do trabalho final de iniciação científica; g) Artigo científico; h) Projeto Final de Curso; i) Portfólios; j) Resenhas; l) Auto avaliação, entre outros.
 
-## **3.4. Avaliação da Aprendizagem** 
+O artigo 9º diz que os resultados obtidos no processo de avaliação serão emitidos por área curricular e divulgados em edital, devendo ser expressos por conceitos, sendo:
 
-A avaliação da aprendizagem no Curso Técnico em Mecatrônica Integrado ao Ensino Médio do IFPR Campus Paranavaí atende ao disposto na Lei n° 9.394/96, Lei de Diretrizes e Base da Educação Nacional - LDB, que em seu artigo 24, inciso V, alínea “a” versa sobre a avaliação contínua e cumulativa do desempenho do estudante, com prevalência dos aspectos qualitativos sobre os quantitativos e dos resultados ao longo do período sobre os de eventuais provas finais. 
+I. Conceito A – Quando a aprendizagem do estudante foi PLENA e atingiu os objetivos propostos no processo ensino aprendizagem;
 
-Em consonância com estas orientações está a Portaria n°120/2009-IFPR, que estabelece os critérios de avaliação do processo ensino aprendizagem do IFPR, que em seu artigo 1º aponta alunos e professores como sujeitos ativos que devem atuar de forma consciente, não apenas como parte do processo de conhecimento e aprendizagem, mas, sim, como seres humanos imersos numa cultura e que apresentam histórias particulares de vida. O processo de avaliação, de acordo com o artigo 4º, deve ser compreendido como julgamento de valor sobre as manifestações da realidade, tendo em vista uma tomada de decisão, considerando que: 
+II. Conceito B – A aprendizagem do estudante foi PARCIALMENTE PLENA e atingiu níveis desejáveis aos objetivos propostos no processo ensino aprendizagem;
 
-I – Para avaliar deve-se considerar o que está sendo avaliado, como está sendo avaliado e por que e para que está sendo avaliado; 
+III. Conceito C – A aprendizagem do estudante foi SUFICIENTE e atingiu níveis aceitáveis aos objetivos propostos, sem comprometimento à continuidade no processo ensino aprendizagem;
 
-II – Para avaliar é preciso ter clareza que a avaliação do processo ensino aprendizagem envolve: os docentes, a instituição, o discente e a sociedade; 
+IV. Conceito D - A aprendizagem do estudante foi INSUFICIENTE e não atingiu os objetivos propostos, comprometendo e/ou inviabilizando o desenvolvimento do processo ensino aprendizagem.
 
-III – Na avaliação o discente deve ser considerado como um agente ativo do seu processo educativo e saber antecipadamente o que será avaliado, de maneira que as regras são estabelecidas de maneira clara e com a participação do aluno. 
+Os conceitos deverão ter emissão parcial após cada término do bimestre letivo e emissão final após o término do semestre e/ou ano letivo.
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+São requisitos para aprovação nas aulas práticas e estágios:
 
-**==> picture [458 x 63] intentionally omitted <==**
+I – Obtenção dos conceitos A (Aprendizagem Plena), B (Aprendizagem Parcialmente Plena) e C (Aprendizagem Suficiente), no conjunto das atividades definidas no Plano de Ensino;
 
-O artigo 5º. Garantir que a avaliação por competência será: diagnóstica, formativa e somativa. Como meios para avaliação, o artigo 6º considera: a) Seminários; b) Trabalho individual e/ou em grupo; c) Teste escrito e/ou oral; d) Demonstração de técnicas em laboratório; e) Dramatização; f) Apresentação do trabalho final de iniciação científica; g) Artigo científico; h) Projeto Final de Curso; i) Portfólios; j) Resenhas; l) Auto avaliação, entre outros. 
+II – Frequência igual ou superior a setenta e cinco por cento (75%);
 
-O artigo 9º diz que os resultados obtidos no processo de avaliação serão emitidos por área curricular e divulgados em edital, devendo ser expressos por conceitos, sendo: 
+Novamente, o alinhamento entre o inciso VI do 24º artigo da LDB 9.394/96 e o 11º artigo da Portaria n°120/2009-IFPR diz que, no Curso Técnico em Mecatrônica Integrado ao Ensino Médio, o aluno será considerado APROVADO quando obtiver conceito igual ou superior a C em todos os componentes curriculares e frequência igual ou superior a 75% do total de horas letivas para aprovação.
 
-I. Conceito A – Quando a aprendizagem do estudante foi PLENA e atingiu os objetivos propostos no processo ensino aprendizagem; 
+O estudante será considerado REPROVADO quando não obtiver frequência superior a 75% do total de horas letivas para aprovação ou não atingir conceito igual ou superior a C.
 
-II. Conceito B – A aprendizagem do estudante foi PARCIALMENTE PLENA e atingiu níveis desejáveis aos objetivos propostos no processo ensino aprendizagem; 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-III. Conceito C – A aprendizagem do estudante foi SUFICIENTE e atingiu níveis aceitáveis aos objetivos propostos, sem comprometimento à continuidade no processo ensino aprendizagem; 
+Terá direito a PROGRESSÃO PARCIAL o estudante que não conseguir atingir conceito igual ou superior a C em até três componentes curriculares distintos e obtiver frequência superior a 75% do total de horas letivas. O estudante em regime de progressão parcial deverá realizar os componentes curriculares em que foi reprovado em regime de dependência, preferencialmente, no período subsequente à reprovação, em turma regular ou especial aberta para esse fim, no contra turno do seu curso. No caso de matrícula em turma especial, o docente poderá utilizar como metodologia de ensino, planos individuais de estudo, de acordo com a necessidade de aprendizagem de cada estudante. Caso o estudante tenha pendências em quatro ou mais componentes curriculares ficará retido na série em que se encontra e deverá matricular-se em todos os componentes curriculares dessa série.
 
-IV. Conceito D - A aprendizagem do estudante foi INSUFICIENTE e não atingiu os objetivos propostos, comprometendo e/ou inviabilizando o desenvolvimento do processo ensino aprendizagem. 
+Ainda no artigo 24 da Lei no 9.394/96, o inciso V, alínea “e”, versa obrigatoriedade dos estudos de recuperação paralela ao período letivo. No Curso Técnico em Mecatrônica Integrado ao Ensino Médio do IFPR Campus Paranavaí, será oportunizada recuperação paralela com a retomada de conteúdo, bem como os professores ofertarão atendimento acadêmico, destinando sua carga-horária de apoio ao ensino para essa finalidade. Na oportunidade serão realizadas atividades que permitam a retomada dos conteúdos como, por exemplo, exercícios práticos, correção individualizada de provas e trabalhos, além de listas de exercícios dirigidas aos conteúdos deficitários.
 
-Os conceitos deverão ter emissão parcial após cada término do bimestre letivo e emissão final após o término do semestre e/ou ano letivo. 
+Além da apresentação dessa questão em Lei, segundo a Portaria/IFPR n°120/09 será oferecido ao estudante ao longo do ano letivo estudos de recuperação paralela ou retomada dos conteúdos a todos os estudantes, principalmente aos que apresentarem dificuldades de aprendizagem. Também está disposto nesta Portaria que o planejamento do processo de recuperação paralela é de responsabilidade do professor da unidade/área curricular, o qual envolve a identificação das dificuldades apresentadas pelos estudantes e permite a seleção dos objetivos e atividades que deverão ser realizadas para a promoção da aprendizagem.
 
-São requisitos para aprovação nas aulas práticas e estágios: 
+E nesse processo de recuperação paralela os professores poderão oportunizar atividades diversificadas, tais como roteiro de estudo, apoio ao ensino, participação nos projetos de reforço, entre outras atividades, entretanto, é responsabilidade do estudante procurar os professores, em seu horário de apoio ao ensino, para o desenvolvimento das atividades, porém, os professores terão autonomia para convocar os estudantes em outros momentos, caso julgue necessário.
 
-I – Obtenção dos conceitos A (Aprendizagem Plena), B (Aprendizagem Parcialmente Plena) e C (Aprendizagem Suficiente), no conjunto das atividades definidas no Plano de Ensino; 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-II – Frequência igual ou superior a setenta e cinco por cento (75%); 
+## **3.5. Critérios de aproveitamento de estudos anteriores e procedimentos de avaliação de competências anteriormente desenvolvidas**
 
-Novamente, o alinhamento entre o inciso VI do 24º artigo da LDB 9.394/96 e o 11º artigo da Portaria n°120/2009-IFPR diz que, no Curso Técnico em Mecatrônica Integrado ao Ensino Médio, o aluno será considerado APROVADO quando obtiver conceito igual ou superior a C em todos os componentes curriculares e frequência igual ou superior a 75% do total de horas letivas para aprovação. 
+Em relação ao aproveitamento de estudos anteriores que compreende o processo de aproveitamento de componentes curriculares cursados com êxito em outro curso, segundo a Resolução CONSUP/IFPR n° 54/2011 - IFPR, artigo 63, os cursos de Ensino Médio Integrado, não apresentam possibilidades desse aproveitamento de estudos.
 
-O estudante será considerado REPROVADO quando não obtiver frequência superior a 75% do total de horas letivas para aprovação ou não atingir conceito igual ou superior a C. 
+## **3.6. Certificação de Conhecimentos Anteriores**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+Como citado na Resolução CONSUP/IFPR n° 54/2011 e de acordo com a LDB 9394/96 e a Resolução CNE/CEB nº 06/12, o conhecimento adquirido na educação profissional e tecnológica, inclusive no trabalho, poderá ser objeto de avaliação, reconhecimento e certificação para prosseguimento ou conclusão de estudos.
 
-**==> picture [458 x 63] intentionally omitted <==**
+De acordo com o contido no parágrafo 2º, do Art. 37, da Resolução CNE/CEB nº06/12: “A certificação profissional abrange a avaliação do itinerário profissional e de vida do estudante, visando ao seu aproveitamento para prosseguimento de estudos ou ao reconhecimento para fins de certificação para exercício profissional, de estudos não formais e experiência no trabalho, bem como de orientação para continuidade de estudos, segundo itinerários formativos coerentes com os históricos profissionais dos cidadãos, para valorização da experiência extraescolar”.
 
-Terá direito a PROGRESSÃO PARCIAL o estudante que não conseguir atingir conceito igual ou superior a C em até três componentes curriculares distintos e obtiver frequência superior a 75% do total de horas letivas. O estudante em regime de progressão parcial deverá realizar os componentes curriculares em que foi reprovado em regime de dependência, preferencialmente, no período subsequente à reprovação, em turma regular ou especial aberta para esse fim, no contra turno do seu curso. No caso de matrícula em turma especial, o docente poderá utilizar como metodologia de ensino, planos individuais de estudo, de acordo com a necessidade de aprendizagem de cada estudante. Caso o estudante tenha pendências em quatro ou mais componentes curriculares ficará retido na série em que se encontra e deverá matricular-se em todos os componentes curriculares dessa série. 
+## **3.7. Instalações e Equipamentos, recursos tecnológicos e biblioteca**
 
-Ainda no artigo 24 da Lei no 9.394/96, o inciso V, alínea “e”, versa obrigatoriedade dos estudos de recuperação paralela ao período letivo. No Curso Técnico em Mecatrônica Integrado ao Ensino Médio do IFPR Campus Paranavaí, será oportunizada recuperação paralela com a retomada de conteúdo, bem como os professores ofertarão atendimento acadêmico, destinando sua carga-horária de apoio ao ensino para essa finalidade. Na oportunidade serão realizadas atividades que permitam a retomada dos conteúdos como, por exemplo, exercícios práticos, correção individualizada de provas e trabalhos, além de listas de exercícios dirigidas aos conteúdos deficitários. 
+O curso Técnico em Mecatrônica Integrado ao Ensino Médio proposto pelo Campus Paranavaí deverá contar, segundo o Catálogo Nacional de Cursos Técnicos edição 2012, com:
 
-Além da apresentação dessa questão em Lei, segundo a Portaria/IFPR n°120/09 será oferecido ao estudante ao longo do ano letivo estudos de recuperação paralela ou retomada dos conteúdos a todos os estudantes, principalmente aos que apresentarem dificuldades de aprendizagem. Também está disposto nesta Portaria que o planejamento do processo de recuperação paralela é de responsabilidade do professor da unidade/área curricular, o qual envolve a identificação das dificuldades apresentadas pelos estudantes e permite a seleção dos objetivos e atividades que deverão ser realizadas para a promoção da aprendizagem. 
+- Biblioteca com acervo específico e atualizado, conforme as obras listadas nas ementas dos componentes curriculares;
 
-E nesse processo de recuperação paralela os professores poderão oportunizar atividades diversificadas, tais como roteiro de estudo, apoio ao ensino, participação nos projetos de reforço, entre outras atividades, entretanto, é responsabilidade do estudante procurar os professores, em seu horário de apoio ao ensino, para o desenvolvimento das atividades, porém, os professores terão autonomia para convocar os estudantes em outros momentos, caso julgue necessário. 
+- 01 laboratório de controladores programáveis;
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+- 01 laboratório de controle e sistemas supervisórios;
 
-**==> picture [458 x 63] intentionally omitted <==**
+- 01 laboratório de informática com programas específicos;
 
-## **3.5. Critérios de aproveitamento de estudos anteriores e procedimentos de avaliação de competências anteriormente desenvolvidas** 
+- 01 laboratório de eletricidade e eletrônica;
 
-Em relação ao aproveitamento de estudos anteriores que compreende o processo de aproveitamento de componentes curriculares cursados com êxito em outro curso, segundo a Resolução CONSUP/IFPR n° 54/2011 - IFPR, artigo 63, os cursos de Ensino Médio Integrado, não apresentam possibilidades desse aproveitamento de estudos. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-## **3.6. Certificação de Conhecimentos Anteriores** 
+- 01 laboratório de hidráulica e pneumática;
 
-Como citado na Resolução CONSUP/IFPR n° 54/2011 e de acordo com a LDB 9394/96 e a Resolução CNE/CEB nº 06/12, o conhecimento adquirido na educação profissional e tecnológica, inclusive no trabalho, poderá ser objeto de avaliação, reconhecimento e certificação para prosseguimento ou conclusão de estudos. 
+- 01 laboratório de máquinas elétricas;
 
-De acordo com o contido no parágrafo 2º, do Art. 37, da Resolução CNE/CEB nº06/12: “A certificação profissional abrange a avaliação do itinerário profissional e de vida do estudante, visando ao seu aproveitamento para prosseguimento de estudos ou ao reconhecimento para fins de certificação para exercício profissional, de estudos não formais e experiência no trabalho, bem como de orientação para continuidade de estudos, segundo itinerários formativos coerentes com os históricos profissionais dos cidadãos, para valorização da experiência extraescolar”. 
+- 01 laboratório de metrologia dimensional e medidas elétricas;
 
-## **3.7. Instalações e Equipamentos, recursos tecnológicos e biblioteca** 
+- 01 laboratório de processos de fabricação;
 
-O curso Técnico em Mecatrônica Integrado ao Ensino Médio proposto pelo Campus Paranavaí deverá contar, segundo o Catálogo Nacional de Cursos Técnicos edição 2012, com: 
+- 01 laboratório de robótica, comando numérico e célula de manufatura.
 
-- Biblioteca com acervo específico e atualizado, conforme as obras listadas nas ementas dos componentes curriculares; 
+## Atualmente o Campus possui:
 
-- 01 laboratório de controladores programáveis; 
+- 01 biblioteca com acervo específico.
 
-- 01 laboratório de controle e sistemas supervisórios; 
+- 06 laboratórios de informática com programas didáticos e específicos.
 
-- 01 laboratório de informática com programas específicos; 
+- Laboratório 01:
 
-- 01 laboratório de eletricidade e eletrônica; 
+   - laboratório de soldagem;
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+   - laboratório de materiais e ensaios;
 
-**==> picture [458 x 63] intentionally omitted <==**
+   - laboratório de controle e sistemas supervisórios;
 
-- 01 laboratório de hidráulica e pneumática; 
+   - laboratório de comando numérico;
 
-- 01 laboratório de máquinas elétricas; 
+   - laboratório de metrologia.
 
-- 01 laboratório de metrologia dimensional e medidas elétricas; 
+- Laboratório 02:
 
-- 01 laboratório de processos de fabricação; 
+   - laboratório de pesquisa.
 
-- 01 laboratório de robótica, comando numérico e célula de manufatura. 
+- Laboratório 03:
 
-## Atualmente o Campus possui: 
+   - laboratório de processos de fabricação;
 
-- 01 biblioteca com acervo específico. 
+   - laboratório de comando numérico.
 
-- 06 laboratórios de informática com programas didáticos e específicos. 
+- Laboratório 04:
 
-- Laboratório 01: 
+   - laboratório de controladores programáveis;
 
-   - laboratório de soldagem; 
+   - laboratório de eletricidade e eletrônica;
 
-   - laboratório de materiais e ensaios; 
+   - laboratório de hidráulica, pneumática e automação;
 
-   - laboratório de controle e sistemas supervisórios; 
+   - laboratório de máquinas elétricas e acionamentos.
 
-   - laboratório de comando numérico; 
+- 01 laboratório de química;
 
-   - laboratório de metrologia. 
+- 01 laboratório de física;
 
-- Laboratório 02: 
+- 01 laboratório de microbiologia/biologia com experimentoteca;
 
-   - laboratório de pesquisa. 
+- Auditório para palestras e seminários;
 
-- Laboratório 03: 
+O Eixo Controle e Processos Industriais possui um Bloco de Laboratórios Técnicos contendo:
 
-   - laboratório de processos de fabricação; 
+- 05 laboratórios técnicos;
 
-   - laboratório de comando numérico. 
+- 01 sala de apoio professores;
 
-- Laboratório 04: 
+- 01 Escritório Modelo;
 
-   - laboratório de controladores programáveis; 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-   - laboratório de eletricidade e eletrônica; 
+- Banheiros Feminino, Masculino e para Deficiente Físico;
 
-   - laboratório de hidráulica, pneumática e automação; 
+- Depósito;
 
-   - laboratório de máquinas elétricas e acionamentos. 
+- Depósito de Material de Limpeza (DML).
 
-- 01 laboratório de química; 
+Todas as dependências deste bloco de laboratórios técnicos utilizadas atualmente para o Curso Técnico Subsequente em Eletromecânica serão utilizadas para a execução dos demais cursos do Eixo Controle e Processos Industriais a serem implantados.
 
-- 01 laboratório de física; 
-
-- 01 laboratório de microbiologia/biologia com experimentoteca; 
-
-- Auditório para palestras e seminários; 
-
-O Eixo Controle e Processos Industriais possui um Bloco de Laboratórios Técnicos contendo: 
-
-- 05 laboratórios técnicos; 
-
-- 01 sala de apoio professores; 
-
-- 01 Escritório Modelo; 
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
-
-- Banheiros Feminino, Masculino e para Deficiente Físico; 
-
-- Depósito; 
-
-- Depósito de Material de Limpeza (DML). 
-
-Todas as dependências deste bloco de laboratórios técnicos utilizadas atualmente para o Curso Técnico Subsequente em Eletromecânica serão utilizadas para a execução dos demais cursos do Eixo Controle e Processos Industriais a serem implantados. 
-
-As informações sobre equipamentos de laboratórios e acervo bibliográfico constam abaixo, de acordo com formulário próprio para abertura de cursos. Laboratório de informática, com área de 65m[2] , contendo os seguintes equipamentos e programas: 
+As informações sobre equipamentos de laboratórios e acervo bibliográfico constam abaixo, de acordo com formulário próprio para abertura de cursos. Laboratório de informática, com área de 65m[2] , contendo os seguintes equipamentos e programas:
 
 |programas:||||
 |---|---|---|---|
@@ -540,13 +502,9 @@ As informações sobre equipamentos de laboratórios e acervo bibliográfico con
 |Proteus PCB|10|R$ 1100,00|Adquirir|
 |**SUB-TOTAL**||**R$ 117.655,50**||
 
+Laboratório de Química, compartilhado com o eixo de produção alimentícia, com área de 65 m[2] , contendo os seguintes equipamentos:
 
-
-Laboratório de Química, compartilhado com o eixo de produção alimentícia, com área de 65 m[2] , contendo os seguintes equipamentos: 
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
 |**Equipamento**|**Quantidade**|**Valor médio**|**Situação**|
 |---|---|---|---|
@@ -581,21 +539,15 @@ Laboratório de Química, compartilhado com o eixo de produção alimentícia, c
 |Homogeneizador de amostras líquidas|1|R$ 12.000,00|Disponível|
 |**SUB-TOTAL**|**R$312.749,18**|||
 
-
-
-A instituição possui um laboratório completo de física, com diversos equipamentos, para realização de experimentos nas áreas: mecânica dos fluídos, mecânica dos sólidos, óptica, termodinâmica, ondulatória, eletricidade, eletromagnetismo, magnetismo e hidrodinâmica. 
+A instituição possui um laboratório completo de física, com diversos equipamentos, para realização de experimentos nas áreas: mecânica dos fluídos, mecânica dos sólidos, óptica, termodinâmica, ondulatória, eletricidade, eletromagnetismo, magnetismo e hidrodinâmica.
 
 |**Equipamento**|**Quantidade**|**Valor Médio**|**Situação**|
 |---|---|---|---|
 |Laboratóriopara o ensino da física.|1|R$51.000|Disponível|
 
+O laboratório de biologia/microbiologia compartilhado com a experimentoteca, com área de 85m[2] , contendo os seguintes equipamentos:
 
-
-O laboratório de biologia/microbiologia compartilhado com a experimentoteca, com área de 85m[2] , contendo os seguintes equipamentos: 
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
 |**Equipamento**|**Quantidade**|**Valor médio**|**Situação**|
 |---|---|---|---|
@@ -615,9 +567,7 @@ O laboratório de biologia/microbiologia compartilhado com a experimentoteca, co
 |Refrigerador|2|R$ 2.000,00|Disponível|
 |**SUB-TOTAL**|**R$183.303,84**|||
 
-
-
-Laboratório de Eletricidade, Eletrônica e Automação, com área de 87,96 m[2] , com os seguintes equipamentos: 
+Laboratório de Eletricidade, Eletrônica e Automação, com área de 87,96 m[2] , com os seguintes equipamentos:
 
 |**Equipamento**<br>Volume Componentes Eletrônicos<br>Multímetros Digitais De Bancada<br>Fonte De Alimentação ModFa 3030<br>DigitalSimétrica<br>Ferro De Solda 42w 127v<br>Osciloscópio Digital 60mhz<br>Fonte Chaveada 24v 10a 110/220v<br>Processador Digital De Sinais<br>Termômetro De Vareta<br>Termômetro Digital Infravermelho Td 955<br>Kit De Sensores<br>Protoboard 830 Furos<br>Quadro Branco<br>Cadeira Escolar<br>Multímetro Digital Com 3 Dígitos Et2231<br>Alicate Amperímetro Digital Com 3<br>DígitosEt 3960<br>Capacímetro Digital 3 Dígitos Mc 153<br>Ponte Lcr Mxb-821<br>Kit De Sensores Parte<br>1OperationalAmplifierUnit Cu-6842<br>Kit De Sensores Parte 2 SignalConvert|**Quantidade**|**Valor Médio**|**Situação**|
 |---|---|---|---|
@@ -641,11 +591,7 @@ Laboratório de Eletricidade, Eletrônica e Automação, com área de 87,96 m[2]
 ||1|R$ 6.000|Disponível|
 ||1|R$6.000|Disponível|
 
-
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
 |Unit Cu- 6842||||
 |---|---|---|---|
@@ -663,9 +609,7 @@ Laboratório de Eletricidade, Eletrônica e Automação, com área de 87,96 m[2]
 |Bancadas Didáticas de Acionamento<br>Automático|2|R$ 24.000|Disponível|
 |**SUB-TOTAL**|||**R$ 200.823**|
 
-
-
-## Laboratório de Usinagem, com área de 87 m[2] ,contendo os seguintes equipamentos: 
+## Laboratório de Usinagem, com área de 87 m[2] ,contendo os seguintes equipamentos:
 
 |**Equipamento**|**Quantidade**|**Valor Médio**|**Situação**|
 |---|---|---|---|
@@ -679,11 +623,7 @@ Laboratório de Eletricidade, Eletrônica e Automação, com área de 87,96 m[2]
 |Tesourapara corte de chapa n° 3|1|R$200|Disponível|
 |Bancada industrial móvel com gavetas e<br>armário porta ferramentas, com jogos de<br>ferramentasincluso.|2|R$ 1.700|Disponível|
 
-
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
 |Morsa de bancada n° 4|4|R$1.200|Disponível|
 |---|---|---|---|
@@ -707,9 +647,7 @@ Laboratório de Eletricidade, Eletrônica e Automação, com área de 87,96 m[2]
 |Altímetro deprecisão|1|R$16.000|Disponível|
 |**SUB-TOTAL**|||**R$ 288.490**|
 
-
-
-Laboratório de Hidráulica e Pneumática, com área de 36m[2] , com os seguintes equipamentos: 
+Laboratório de Hidráulica e Pneumática, com área de 36m[2] , com os seguintes equipamentos:
 
 |**Equipamento**|**Quantidade**|**Valor Médio**|**Situação**|
 |---|---|---|---|
@@ -720,13 +658,9 @@ Laboratório de Hidráulica e Pneumática, com área de 36m[2] , com os seguinte
 |Bancadas de Acionamento Automático|1|R$12.000|Disponível|
 |**SUB-TOTAL**|||**R$ 226.000**|
 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
-
-Laboratório de Máquinas Elétricas e Acionamentos, com área de 43,64m[2] , com os seguintes equipamentos: 
+Laboratório de Máquinas Elétricas e Acionamentos, com área de 43,64m[2] , com os seguintes equipamentos:
 
 |**Equipamento**|**Quantidade**|**Valor Médio**|**Situação**|
 |---|---|---|---|
@@ -754,13 +688,9 @@ Laboratório de Máquinas Elétricas e Acionamentos, com área de 43,64m[2] , co
 |Motor Trifásico 0,5cv, 220/384v, 60hz, 4<br>Polos, Marca Nova, Modelo 71-49/12,<br>Azul|4|R$ 1.184|Disponível|
 |**SUB-TOTAL**|||**R$ 75.876**|
 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
-
-O laboratório de Soldagem, materiais e ensaios com os seguintes equipamentos: 
+O laboratório de Soldagem, materiais e ensaios com os seguintes equipamentos:
 
 |**Equipamento**|**Quantidade**|**Valor Médio**|**Situação**|
 |---|---|---|---|
@@ -784,17 +714,13 @@ O laboratório de Soldagem, materiais e ensaios com os seguintes equipamentos:
 |**SUB-TOTAL**|||**R$ 214.950**|
 |**TOTAL INVESTIMENTO**|**R$**||**1.619.848**|
 
+Os laboratórios de controle e redes industriais, instrumentação e sinais, estão inclusos nos laboratórios de eletricidade e eletrônica e hidráulica e pneumática. Já existem alguns equipamentos necessários para estes laboratórios, e outros estão sendo planejados e comprados para este fim.
 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-Os laboratórios de controle e redes industriais, instrumentação e sinais, estão inclusos nos laboratórios de eletricidade e eletrônica e hidráulica e pneumática. Já existem alguns equipamentos necessários para estes laboratórios, e outros estão sendo planejados e comprados para este fim. 
+## **3.8. Pessoas envolvidas - docentes e técnicos**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
-
-## **3.8. Pessoas envolvidas - docentes e técnicos** 
-
-## **Corpo Docente** 
+## **Corpo Docente**
 
 |**Nome Docente**|**Titulação Graduação**|**Regime de**<br>**Trabalho**|
 |---|---|---|
@@ -823,11 +749,7 @@ Os laboratórios de controle e redes industriais, instrumentação e sinais, est
 |LUANA PAGANO PERES MOLINA|Licenciatura em História||
 |LUCAS DE MELO ANDRADE|Licenciatura em História|**20h**|
 
-
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
 |LUIZ CARLOS SOARES DE<br>FIGUEIREDO FILHO|Licenciatura Plena em Química|**DE**|
 |---|---|---|
@@ -847,9 +769,7 @@ Os laboratórios de controle e redes industriais, instrumentação e sinais, est
 |VIVIANE MORETTO DA SILVA FULY|Licenciatura em Matemática|**DE**|
 |VIVIANE SILVA DOS SANTOS|Licenciatura em Letras|**DE**|
 
-
-
-**Corpo Técnico-Administrativo** 
+**Corpo Técnico-Administrativo**
 
 |**Nome**|**Função**|**Regime**<br>**trabalho**|
 |---|---|---|
@@ -868,11 +788,7 @@ Os laboratórios de controle e redes industriais, instrumentação e sinais, est
 |Elaine Maestre Polido|Assistente de Alunos|40 horas|
 |Elizete Pinto Cruz|Tradutor/Interprete de|40 horas|
 
-
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
 ||Linguagem de Sinais||
 |---|---|---|
@@ -894,115 +810,99 @@ Os laboratórios de controle e redes industriais, instrumentação e sinais, est
 |Vanilza Valentim dos Santos|Pedagoga|40 horas|
 |Zineide Pereira dos Santos|Bibliotecária|40 horas|
 
+## **3.9. Descrição de Diplomas e Certificados a serem expedidos**
 
+Os estudantes que integralizarem todos os componentes dos quatro anos do curso com aproveitamento igual ou superior a C nos componentes curriculares e frequência igual ou superior a 75% em todas as séries, atingindo a condição de aprovado receberão o histórico escolar de conclusão de curso e Diploma de Técnico em Mecatrônica, do Eixo Tecnológico Controle e Processos Industriais.
 
-## **3.9. Descrição de Diplomas e Certificados a serem expedidos** 
+## **3.10. Organização Curricular**
 
-Os estudantes que integralizarem todos os componentes dos quatro anos do curso com aproveitamento igual ou superior a C nos componentes curriculares e frequência igual ou superior a 75% em todas as séries, atingindo a condição de aprovado receberão o histórico escolar de conclusão de curso e Diploma de Técnico em Mecatrônica, do Eixo Tecnológico Controle e Processos Industriais. 
+De acordo com o Art. 27º da Resolução CNE/CEB 06/2012 _, os cursos de Educação Profissional Técnica de Nível Médio, na forma articulada com o Ensino Médio, integrada ou concomitante em instituições de ensino distintas com projeto pedagógico unificado, têm as cargas horárias totais de, no mínimo, 3.000, 3.100 ou 3.200 horas, conforme o número de horas para as respectivas habilitações profissionais indicadas no Catálogo Nacional de Cursos Técnicos, seja de 800, 1.000 ou 1.200 horas._
 
-## **3.10. Organização Curricular** 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-De acordo com o Art. 27º da Resolução CNE/CEB 06/2012 _, os cursos de Educação Profissional Técnica de Nível Médio, na forma articulada com o Ensino Médio, integrada ou concomitante em instituições de ensino distintas com projeto pedagógico unificado, têm as cargas horárias totais de, no mínimo, 3.000, 3.100 ou 3.200 horas, conforme o número de horas para as respectivas habilitações profissionais indicadas no Catálogo Nacional de Cursos Técnicos, seja de 800, 1.000 ou 1.200 horas._ 
+Nos termos da Resolução CNE/CEB nº 06/2012 e do Catálogo Nacional de Cursos Técnicos (2012), os cursos técnicos do Eixo Tecnológico Controle e Processos Industriais, Técnico em Mecatrônica deverá ter no mínimo 1.200 horas destinadas à parte profissionalizante. O Técnico em Mecatrônica Integrado ao Ensino Médio a ser oferecido pelo Instituto Federal do Paraná, Campus Paranavaí possui um total 1.240 horas referentes à parte técnica, incluindo 70 horas de Português Instrumental, 32 horas de Inglês Técnico e 70 horas de Matemática Aplicada, dadas pela Formação Geral e 2.760 horas referentes ao Ensino Médio, o curso conta ainda com 200 horas de atividades complementares obrigatórias, totalizando 3533 horas, distribuídas em quatro anos. A carga horária atribuída está, portanto, em consonância com a legislação vigente. Conforme a LDB 9394/96, o curso terá 200 dias letivos, previstos em calendário escolar. Quando esse total não puder ser atingido por meio das atividades regulares no turno de funcionamento do Curso, será prevista complementação de dias letivos aos sábados.
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+O Decreto nº 5.154/2004, que trata da Educação Profissional, regulamenta que os cursos de formação técnica na modalidade integrada de nível médio deve ser oferecida na mesma instituição, em matrícula única para cada estudante, com planejamento que o conduza à habilitação profissional técnica de nível médio. A certificação de conclusão do curso será emitida somente após o término dos quatro anos do curso.
 
-**==> picture [458 x 63] intentionally omitted <==**
+Para que tal integralização ocorra, os alunos devem demonstrar, na prática, a aplicação dos conceitos aprendidos. Entende-se que a formação integral, permite:
 
-Nos termos da Resolução CNE/CEB nº 06/2012 e do Catálogo Nacional de Cursos Técnicos (2012), os cursos técnicos do Eixo Tecnológico Controle e Processos Industriais, Técnico em Mecatrônica deverá ter no mínimo 1.200 horas destinadas à parte profissionalizante. O Técnico em Mecatrônica Integrado ao Ensino Médio a ser oferecido pelo Instituto Federal do Paraná, Campus Paranavaí possui um total 1.240 horas referentes à parte técnica, incluindo 70 horas de Português Instrumental, 32 horas de Inglês Técnico e 70 horas de Matemática Aplicada, dadas pela Formação Geral e 2.760 horas referentes ao Ensino Médio, o curso conta ainda com 200 horas de atividades complementares obrigatórias, totalizando 3533 horas, distribuídas em quatro anos. A carga horária atribuída está, portanto, em consonância com a legislação vigente. Conforme a LDB 9394/96, o curso terá 200 dias letivos, previstos em calendário escolar. Quando esse total não puder ser atingido por meio das atividades regulares no turno de funcionamento do Curso, será prevista complementação de dias letivos aos sábados. 
+[...] acesso a conhecimentos científicos, mas também promove a reflexão crítica sobre os padrões culturais que se constituem normas de conduta de um grupo social, assim como a apropriação de referências e tendências que se manifestam em tempos e espaços históricos, os quais expressam concepções, problemas, crises e potenciais de uma sociedade, que se vê traduzida e/ou questionada nas suas manifestações. Assim, evidencia-se a unicidade entre as dimensões científico-tecnológico-cultural, a partir da compreensão do trabalho em seu sentido ontológico. O princípio da unicidade entre pensamento e ação é correlato à busca intencional da convergência entre teoria e prática na ação humana (BRASIL, 2013, p. 216).
 
-O Decreto nº 5.154/2004, que trata da Educação Profissional, regulamenta que os cursos de formação técnica na modalidade integrada de nível médio deve ser oferecida na mesma instituição, em matrícula única para cada estudante, com planejamento que o conduza à habilitação profissional técnica de nível médio. A certificação de conclusão do curso será emitida somente após o término dos quatro anos do curso. 
+Com a finalidade de atender aos objetivos precípuos da Educação Profissional e Tecnológica os componentes curriculares de Filosofia e Sociologia incluem em suas
 
-Para que tal integralização ocorra, os alunos devem demonstrar, na prática, a aplicação dos conceitos aprendidos. Entende-se que a formação integral, permite: 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-[...] acesso a conhecimentos científicos, mas também promove a reflexão crítica sobre os padrões culturais que se constituem normas de conduta de um grupo social, assim como a apropriação de referências e tendências que se manifestam em tempos e espaços históricos, os quais expressam concepções, problemas, crises e potenciais de uma sociedade, que se vê traduzida e/ou questionada nas suas manifestações. Assim, evidencia-se a unicidade entre as dimensões científico-tecnológico-cultural, a partir da compreensão do trabalho em seu sentido ontológico. O princípio da unicidade entre pensamento e ação é correlato à busca intencional da convergência entre teoria e prática na ação humana (BRASIL, 2013, p. 216). 
+discussões por entre os conteúdos estruturantes questões como: as relações étnicoraciais, o ensino de História e Cultura Afro-Brasileira, Africana e dos povos indígenas, conforme disposto nas Leis 10.639/2003 e 11.645/2008, no intuito de favorecer o desenvolvimento da nação primando pela inclusão social, buscando combater o racismo que tanto prejuízo causou a nação agredindo direta ou indiretamente segmentos sociais e raciais. Além de abordarem questões relativas ao meio ambiente e a intervenção do homem, em conteúdos como globalização e bioética, e questões concernentes às minorias e o respeito ético, como as questões de gênero e diversidade sexual.
 
-Com a finalidade de atender aos objetivos precípuos da Educação Profissional e Tecnológica os componentes curriculares de Filosofia e Sociologia incluem em suas 
+O tema ambiente também está sempre presente nas aulas de Geografia. Há uma variedade de conteúdos geográficos que viabilizam a discussão, a reflexão e trabalhos envolvendo a temática ambiental, como por exemplo: a relação entre clima e vegetação e o caso do efeito estufa; os problemas advindos do desmatamento, das queimadas e da poluição em todas as suas instâncias; os conflitos humanos acerca da luta pela terra e por condições menos miseráveis de vida, muitas vezes ocasionados pela má distribuição de renda, consequência do capitalismo; enfim, são diversos os temas abordados nas aulas de Geografia que podem instigar maiores reflexões sobre o cuidado com o ambiente.
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+Como a temática da consciência negra e dos povos indígenas deve perpassar por diversas componentes curriculares do ensino básico, durante as aulas de Geografia, há inúmeros conteúdos que oportunizam as discussões sobre a cultura dos povos africanos e indígenas, pois, estudar as relações entre etnias, o racismo, a diversidade, a cultura, e temas afins, faz parte das modificações e relações existentes no espaço geográfico. Os conteúdos que mais favorecem a abordagem dessa temática seriam, por exemplo, o caso da luta pela terra no Brasil; estudos de populações; a questão indígena no Brasil; os continentes e em especial, a África; os desdobramentos do capitalismo e da globalização.
 
-**==> picture [458 x 63] intentionally omitted <==**
+No caso do componente curricular de Artes, há também muitas formas de discutir essa temática, pois a cultura, e por consequência, as suas mais variadas expressões humanas são conteúdos inseridos no currículo de Artes no ensino básico. Nesse sentido, essas aulas devem promover discussões acerca do racismo, da tolerância, do respeito mútuo, da compreensão e entendimento das diferentes expressões artísticas sem juízo de valor, mas sim, com admiração e respeito. Essas questões podem ser trabalhadas por meio de filmes, poemas, músicas, teatros, desenhos, leituras, etc. Também nas aulas de Artes, há muitas possibilidades de abordar a questão ambiental, seja por meio de atividades de desenho, gincanas,
 
-discussões por entre os conteúdos estruturantes questões como: as relações étnicoraciais, o ensino de História e Cultura Afro-Brasileira, Africana e dos povos indígenas, conforme disposto nas Leis 10.639/2003 e 11.645/2008, no intuito de favorecer o desenvolvimento da nação primando pela inclusão social, buscando combater o racismo que tanto prejuízo causou a nação agredindo direta ou indiretamente segmentos sociais e raciais. Além de abordarem questões relativas ao meio ambiente e a intervenção do homem, em conteúdos como globalização e bioética, e questões concernentes às minorias e o respeito ético, como as questões de gênero e diversidade sexual. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-O tema ambiente também está sempre presente nas aulas de Geografia. Há uma variedade de conteúdos geográficos que viabilizam a discussão, a reflexão e trabalhos envolvendo a temática ambiental, como por exemplo: a relação entre clima e vegetação e o caso do efeito estufa; os problemas advindos do desmatamento, das queimadas e da poluição em todas as suas instâncias; os conflitos humanos acerca da luta pela terra e por condições menos miseráveis de vida, muitas vezes ocasionados pela má distribuição de renda, consequência do capitalismo; enfim, são diversos os temas abordados nas aulas de Geografia que podem instigar maiores reflexões sobre o cuidado com o ambiente. 
+teatros, músicas e poemas trabalhados não somente em dias específicos como o Dia da Árvore, o Dia do Meio Ambiente, a entrada da primavera e outros, mas também, em quaisquer períodos do ano letivo.
 
-Como a temática da consciência negra e dos povos indígenas deve perpassar por diversas componentes curriculares do ensino básico, durante as aulas de Geografia, há inúmeros conteúdos que oportunizam as discussões sobre a cultura dos povos africanos e indígenas, pois, estudar as relações entre etnias, o racismo, a diversidade, a cultura, e temas afins, faz parte das modificações e relações existentes no espaço geográfico. Os conteúdos que mais favorecem a abordagem dessa temática seriam, por exemplo, o caso da luta pela terra no Brasil; estudos de populações; a questão indígena no Brasil; os continentes e em especial, a África; os desdobramentos do capitalismo e da globalização. 
+Nessa perspectiva, o componente curricular de História constitui-se em um rico manancial para se efetivar os anseios de uma formação crítica que discute o estudo da História da África e dos Africanos, a luta dos negros no Brasil, a cultura negra brasileira e o negro na formação da sociedade nacional, com ênfase na contribuição do povo negro nas áreas social, econômica e políticas pertinentes à História do Brasil, bem como a cultura indígena. Para realizar o ensino de história acerca destes conteúdos, filmes (“Vista minha pele”, “Kiriku”, “O pesadelo de Darwin”, “Caramuru”, dentre outros), textos (de escritores africanos e indígenas e de demais estudiosos), diálogo com a religiosidade (para desmistificar preconceitos sobre a Umbanda e o Candomblé, por exemplo), conhecimento sobre instituições como a FUNAI - Fundação Nacional do Índio e movimentos como o Movimento Negro tornam-se essenciais para que as Leis que regulamentam o ensino de tais conteúdos se efetivem no chão da escola.
 
-No caso do componente curricular de Artes, há também muitas formas de discutir essa temática, pois a cultura, e por consequência, as suas mais variadas expressões humanas são conteúdos inseridos no currículo de Artes no ensino básico. Nesse sentido, essas aulas devem promover discussões acerca do racismo, da tolerância, do respeito mútuo, da compreensão e entendimento das diferentes expressões artísticas sem juízo de valor, mas sim, com admiração e respeito. Essas questões podem ser trabalhadas por meio de filmes, poemas, músicas, teatros, desenhos, leituras, etc. Também nas aulas de Artes, há muitas possibilidades de abordar a questão ambiental, seja por meio de atividades de desenho, gincanas, 
+Já no que compete ao componente curricular de Língua Portuguesa, as temáticas da consciência negra e dos povos indígenas, serão abordadas através de diversos textos que tragam em seu âmago elementos para discussão de pontos pertinentes à cultura, língua, religiosidade e características de etnia. No que compete a cultura negra, a partir da Literatura, serão levantados elementos do estilo linguístico e estética da literatura afro-brasileira e suas implicações culturais, sem perder de vista que ela não deixa de ser Literatura Brasileira, mas possui suas especificidades. Nesse sentido, valorizar as produções que são ricas em características próprias desse povo. Sobre os povos indígenas, trabalhar com os textos literários que retratam o índio e pensá-los de forma crítica no que tange o retrato da cultura e do próprio ser indígena.
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+As práticas pedagógicas a serem desenvolvidas no processo de ensino dos componentes curriculares se baseiam em tendências pedagógicas progressistas, uma vez que alia prática-teoria-prática, ou seja, que o ensinar e aprender parte do que o estudante já sabe, aliando os saberes escolares, construindo um novo conhecimento de forma inter e transdisciplinar, valorizando os conhecimentos dos estudantes. Em meio aos componentes curriculares serão propostas atividades práticas complementares que impelem o estudante a buscar alternativas para solucionar problemas, a experimentar, a aprender e ensinar.
 
-**==> picture [458 x 63] intentionally omitted <==**
+O contexto socioeconômico e cultural também é levado em conta para formação dos Técnicos em Mecatrônica Integrado ao Ensino Médio, estando incluído
 
-teatros, músicas e poemas trabalhados não somente em dias específicos como o Dia da Árvore, o Dia do Meio Ambiente, a entrada da primavera e outros, mas também, em quaisquer períodos do ano letivo. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-Nessa perspectiva, o componente curricular de História constitui-se em um rico manancial para se efetivar os anseios de uma formação crítica que discute o estudo da História da África e dos Africanos, a luta dos negros no Brasil, a cultura negra brasileira e o negro na formação da sociedade nacional, com ênfase na contribuição do povo negro nas áreas social, econômica e políticas pertinentes à História do Brasil, bem como a cultura indígena. Para realizar o ensino de história acerca destes conteúdos, filmes (“Vista minha pele”, “Kiriku”, “O pesadelo de Darwin”, “Caramuru”, dentre outros), textos (de escritores africanos e indígenas e de demais estudiosos), diálogo com a religiosidade (para desmistificar preconceitos sobre a Umbanda e o Candomblé, por exemplo), conhecimento sobre instituições como a FUNAI - Fundação Nacional do Índio e movimentos como o Movimento Negro tornam-se essenciais para que as Leis que regulamentam o ensino de tais conteúdos se efetivem no chão da escola. 
+no conduzir das aulas por meio de conhecimentos transversais que não se incluem em apenas um ou dois componentes curriculares, mas durante todo o desenvolvimento do curso, assim como também são trabalhados os conteúdos informais, que visam a formação ética e humanizadora, tratando de assuntos como políticas afirmativas, gênero, meio ambiente e diversidade sexual, além de temas da atualidade.
 
-Já no que compete ao componente curricular de Língua Portuguesa, as temáticas da consciência negra e dos povos indígenas, serão abordadas através de diversos textos que tragam em seu âmago elementos para discussão de pontos pertinentes à cultura, língua, religiosidade e características de etnia. No que compete a cultura negra, a partir da Literatura, serão levantados elementos do estilo linguístico e estética da literatura afro-brasileira e suas implicações culturais, sem perder de vista que ela não deixa de ser Literatura Brasileira, mas possui suas especificidades. Nesse sentido, valorizar as produções que são ricas em características próprias desse povo. Sobre os povos indígenas, trabalhar com os textos literários que retratam o índio e pensá-los de forma crítica no que tange o retrato da cultura e do próprio ser indígena. 
+Dessa forma, as práticas pedagógicas do curso Técnico em Mecatrônica Integrado ao Ensino Médio do IFPR campus Paranavaí, por meio de suas organizações didático-pedagógicas visam à formação do profissional-cidadão. O estágio no Curso Técnico em Mecatrônica Integrado ao Ensino Médio não será cobrado; porém, o aluno poderá realizar estágio não obrigatório, conforme art. 4º, da Resolução nº 02/2013, que regulamenta os estágios no âmbito do IFPR. No caso de realização de estágio não obrigatório, o aluno poderá solicitar declaração de realização de estágio não obrigatório, de acordo com o parágrafo único desse _caput_ .
 
-As práticas pedagógicas a serem desenvolvidas no processo de ensino dos componentes curriculares se baseiam em tendências pedagógicas progressistas, uma vez que alia prática-teoria-prática, ou seja, que o ensinar e aprender parte do que o estudante já sabe, aliando os saberes escolares, construindo um novo conhecimento de forma inter e transdisciplinar, valorizando os conhecimentos dos estudantes. Em meio aos componentes curriculares serão propostas atividades práticas complementares que impelem o estudante a buscar alternativas para solucionar problemas, a experimentar, a aprender e ensinar. 
+## **3.10.1. Relação entre Ensino, Pesquisa, Inovação e Extensão**
 
-O contexto socioeconômico e cultural também é levado em conta para formação dos Técnicos em Mecatrônica Integrado ao Ensino Médio, estando incluído 
+O Curso Técnico em Mecatrônica Integrado ao Ensino Médio prevê ainda a participação dos estudantes nas mais diferentes modalidades de estudo e também com os professores na participação de projetos de pesquisa, extensão, inovação e ensino, pela atuação constante nos projetos oferecidos pelos professores e em editais oferecidos pela Pró–Reitoria competente (PROEPI). Os estudantes irão atuar no desenvolvimento e melhoria de processos industriais como também no desenvolvimento de projetos e produtos, além de atuar em pesquisas e serviços solicitados por empresas da região para iniciar o contato com o mundo do trabalho. Os estudantes ainda farão parte de grupos de pesquisa do campus para desempenhar suas atividades e melhoria do currículo.
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+Pretende-se ainda realizar estudos/pesquisas em rede sobre temáticas e problemáticas de relevância social oportunizando reflexões coletivas e estabelecimento de políticas para a resolução de problemas. Desenvolver, através de grupos de pesquisa, estudos que permitam avançar do modelo de conhecimento disciplinar para o conhecimento contextualizado, no qual a interdisciplinaridade e a transdisciplinaridade constituem premissas básicas. Gerar a partir do curso, parcerias para pesquisas envolvendo estudantes e professores, permitindo o intercâmbio e a mobilidade dos mesmos. Estabelecer estratégias relacionadas à questões/problemas comuns, gerando fomento, produção científica e difusão do conhecimento integrado, econômico, social, cultural, político e sua disseminação através de publicações, da
 
-**==> picture [458 x 63] intentionally omitted <==**
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-no conduzir das aulas por meio de conhecimentos transversais que não se incluem em apenas um ou dois componentes curriculares, mas durante todo o desenvolvimento do curso, assim como também são trabalhados os conteúdos informais, que visam a formação ética e humanizadora, tratando de assuntos como políticas afirmativas, gênero, meio ambiente e diversidade sexual, além de temas da atualidade. 
+internet e da extensão universitária. Discutir de forma ativa, proativa, participativa e articulada ao projeto acadêmico, demandas socialmente exigidas e ofertar programas de educação continuada ou cursos de Extensão que venham a acrescentar um conhecimento significativo para a superação das necessidades, assegurando o equilíbrio destes com as inovações que surgem no trabalho. Prestar serviços, através da extensão, com o objetivo de ajudar em processos de mudanças e, sobretudo avançar nos direitos humanos fundamentais.
 
-Dessa forma, as práticas pedagógicas do curso Técnico em Mecatrônica Integrado ao Ensino Médio do IFPR campus Paranavaí, por meio de suas organizações didático-pedagógicas visam à formação do profissional-cidadão. O estágio no Curso Técnico em Mecatrônica Integrado ao Ensino Médio não será cobrado; porém, o aluno poderá realizar estágio não obrigatório, conforme art. 4º, da Resolução nº 02/2013, que regulamenta os estágios no âmbito do IFPR. No caso de realização de estágio não obrigatório, o aluno poderá solicitar declaração de realização de estágio não obrigatório, de acordo com o parágrafo único desse _caput_ . 
+Essa relação entre a pesquisa, o ensino, inovação e a extensão é dinâmica e contribui para a transformação da sociedade num processo de incorporação de novos modos de vida e de uso de tecnologias, capazes de operacionalizar efetivamente a relação entre teoria e prática.
 
-## **3.10.1. Relação entre Ensino, Pesquisa, Inovação e Extensão** 
+## **3.10.2. Complementação de estudos e Atividades Complementares**
 
-O Curso Técnico em Mecatrônica Integrado ao Ensino Médio prevê ainda a participação dos estudantes nas mais diferentes modalidades de estudo e também com os professores na participação de projetos de pesquisa, extensão, inovação e ensino, pela atuação constante nos projetos oferecidos pelos professores e em editais oferecidos pela Pró–Reitoria competente (PROEPI). Os estudantes irão atuar no desenvolvimento e melhoria de processos industriais como também no desenvolvimento de projetos e produtos, além de atuar em pesquisas e serviços solicitados por empresas da região para iniciar o contato com o mundo do trabalho. Os estudantes ainda farão parte de grupos de pesquisa do campus para desempenhar suas atividades e melhoria do currículo. 
+O IFPR Campus Paranavaí tem como intuito oportunizar uma formação plena do estudante, ou seja, uma formação profissional e humana, integrado aos conhecimentos elaborados socialmente. Isso será realizado por meio das aulas dos componentes curriculares, como também em momentos extraclasses. Estes momentos consistem em eventos que abordem temas interdisciplinares, necessários para o desenvolvimento do processo ensino e aprendizagem, como Semana do Meio Ambiente, Dia da Inclusão, Dia da Consciência Negra, Semana da Pátria, Semana do Livro e da Biblioteca, Mostras de Cursos, Feira de Inovação Tecnológica e também palestras e cursos com temáticas sobre diversidade sexual, processo de envelhecimento, direitos humanos, educação alimentar e nutricional, segurança de transito, cultural e ética, momentos de motivação e autoestima.
 
-Pretende-se ainda realizar estudos/pesquisas em rede sobre temáticas e problemáticas de relevância social oportunizando reflexões coletivas e estabelecimento de políticas para a resolução de problemas. Desenvolver, através de grupos de pesquisa, estudos que permitam avançar do modelo de conhecimento disciplinar para o conhecimento contextualizado, no qual a interdisciplinaridade e a transdisciplinaridade constituem premissas básicas. Gerar a partir do curso, parcerias para pesquisas envolvendo estudantes e professores, permitindo o intercâmbio e a mobilidade dos mesmos. Estabelecer estratégias relacionadas à questões/problemas comuns, gerando fomento, produção científica e difusão do conhecimento integrado, econômico, social, cultural, político e sua disseminação através de publicações, da 
+Esses eventos serão organizados pela equipe de professores dos cursos, os quais divididos em grupos serão responsáveis pelas diferentes atividades propostas em calendário, como também das atividades que se fizerem necessárias no decorrer do processo. Para complementar a formação acadêmica dos estudantes serão ofertados projetos FICs - Formação Inicial Continuada, nas áreas dos componentes curriculares para que os mesmos sejam oportunizados a refletir sobre o próprio processo da aprendizagem, relembrar conceitos, construir novos conhecimentos, proporcionando um trabalho concomitante dos conhecimentos teóricos e práticos ensinados em sala de aula, como também com os conhecimentos teóricos e práticos aprendidos em momentos extracurriculares.
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-**==> picture [458 x 63] intentionally omitted <==**
+Esses momentos serão uma complementação dos componentes curriculares da grade curricular obrigatória no qual serão enfatizadas aulas práticas dos componentes curriculares de Química, Biologia, Física, Artes, além de oficinas de produção textual e Língua Estrangeira Moderna.
 
-internet e da extensão universitária. Discutir de forma ativa, proativa, participativa e articulada ao projeto acadêmico, demandas socialmente exigidas e ofertar programas de educação continuada ou cursos de Extensão que venham a acrescentar um conhecimento significativo para a superação das necessidades, assegurando o equilíbrio destes com as inovações que surgem no trabalho. Prestar serviços, através da extensão, com o objetivo de ajudar em processos de mudanças e, sobretudo avançar nos direitos humanos fundamentais. 
+As práticas realizadas com os estudantes farão uso da estrutura dos laboratórios e seus materiais. Essas atividades realizadas extraclasse servirão como uma forma de oportunizar melhor compreensão da teoria/prática. Para que todas essas atividades sejam realmente uma ferramenta importante para o processo de construção do cidadão serão realizados trabalhos de conscientização com os estudantes e com os pais, para que os mesmos entendam que a ação de estudar deve ser constante, contínua e paralela as suas obrigações enquanto ser estudante. Isso será feito por meio de conversas com os estudantes, nos quais serão abordadas questões como desempenho acadêmico, plano de estudo, comparecimento ao atendimento acadêmico, monitoria, com o objetivo de que também sejam responsáveis com sua aprendizagem. Isso se faz necessário uma vez que essas atividades não terão caráter obrigatório.
 
-Essa relação entre a pesquisa, o ensino, inovação e a extensão é dinâmica e contribui para a transformação da sociedade num processo de incorporação de novos modos de vida e de uso de tecnologias, capazes de operacionalizar efetivamente a relação entre teoria e prática. 
+O Curso Técnico em Mecatrônica Integrado ao Ensino Médio prevê ainda a realização de atividades complementares como parte integrante da organização curricular, conforme **Anexo I** . O estudante deverá realizar no mínimo 200 horas em atividades complementares. Caracterizam-se como ações curriculares que possibilitam a formação complementar e interdisciplinar do estudante, e estão classificadas em três grupos:
 
-## **3.10.2. Complementação de estudos e Atividades Complementares** 
+- I. Atividades de ensino;
 
-O IFPR Campus Paranavaí tem como intuito oportunizar uma formação plena do estudante, ou seja, uma formação profissional e humana, integrado aos conhecimentos elaborados socialmente. Isso será realizado por meio das aulas dos componentes curriculares, como também em momentos extraclasses. Estes momentos consistem em eventos que abordem temas interdisciplinares, necessários para o desenvolvimento do processo ensino e aprendizagem, como Semana do Meio Ambiente, Dia da Inclusão, Dia da Consciência Negra, Semana da Pátria, Semana do Livro e da Biblioteca, Mostras de Cursos, Feira de Inovação Tecnológica e também palestras e cursos com temáticas sobre diversidade sexual, processo de envelhecimento, direitos humanos, educação alimentar e nutricional, segurança de transito, cultural e ética, momentos de motivação e autoestima. 
+- II. Atividades de pesquisa, extensão e inovação;
 
-Esses eventos serão organizados pela equipe de professores dos cursos, os quais divididos em grupos serão responsáveis pelas diferentes atividades propostas em calendário, como também das atividades que se fizerem necessárias no decorrer do processo. Para complementar a formação acadêmica dos estudantes serão ofertados projetos FICs - Formação Inicial Continuada, nas áreas dos componentes curriculares para que os mesmos sejam oportunizados a refletir sobre o próprio processo da aprendizagem, relembrar conceitos, construir novos conhecimentos, proporcionando um trabalho concomitante dos conhecimentos teóricos e práticos ensinados em sala de aula, como também com os conhecimentos teóricos e práticos aprendidos em momentos extracurriculares. 
+- III. Atividades de formação social, humana e cultural.
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+Para cada grupo serão computadas, no máximo, 80 horas de atividades complementares.
 
-**==> picture [458 x 63] intentionally omitted <==**
+As atividades complementares correspondem à carga horária registrada nos documentos (certificados, declarações), conforme **Anexo I** .
 
-Esses momentos serão uma complementação dos componentes curriculares da grade curricular obrigatória no qual serão enfatizadas aulas práticas dos componentes curriculares de Química, Biologia, Física, Artes, além de oficinas de produção textual e Língua Estrangeira Moderna. 
+Para que os estudantes vivenciem, obrigatoriamente, atividades diversificadas, estas deverão ser cumpridas por eles ao longo do curso, em pelo menos dois grupos. As horas excedentes nesses dois grupos poderão ser direcionadas ao outro grupo ainda não contemplado.
 
-As práticas realizadas com os estudantes farão uso da estrutura dos laboratórios e seus materiais. Essas atividades realizadas extraclasse servirão como uma forma de oportunizar melhor compreensão da teoria/prática. Para que todas essas atividades sejam realmente uma ferramenta importante para o processo de construção do cidadão serão realizados trabalhos de conscientização com os estudantes e com os pais, para que os mesmos entendam que a ação de estudar deve ser constante, contínua e paralela as suas obrigações enquanto ser estudante. Isso será feito por meio de conversas com os estudantes, nos quais serão abordadas questões como desempenho acadêmico, plano de estudo, comparecimento ao atendimento acadêmico, monitoria, com o objetivo de que também sejam responsáveis com sua aprendizagem. Isso se faz necessário uma vez que essas atividades não terão caráter obrigatório. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-O Curso Técnico em Mecatrônica Integrado ao Ensino Médio prevê ainda a realização de atividades complementares como parte integrante da organização curricular, conforme **Anexo I** . O estudante deverá realizar no mínimo 200 horas em atividades complementares. Caracterizam-se como ações curriculares que possibilitam a formação complementar e interdisciplinar do estudante, e estão classificadas em três grupos: 
+Para os documentos que não possuem carga horária será utilizada a tabela de
 
-- I. Atividades de ensino; 
+equivalência. Serão consideradas, para efeito de equivalência as atividades listadas na tabela abaixo:
 
-- II. Atividades de pesquisa, extensão e inovação; 
-
-- III. Atividades de formação social, humana e cultural. 
-
-Para cada grupo serão computadas, no máximo, 80 horas de atividades complementares. 
-
-As atividades complementares correspondem à carga horária registrada nos documentos (certificados, declarações), conforme **Anexo I** . 
-
-Para que os estudantes vivenciem, obrigatoriamente, atividades diversificadas, estas deverão ser cumpridas por eles ao longo do curso, em pelo menos dois grupos. As horas excedentes nesses dois grupos poderão ser direcionadas ao outro grupo ainda não contemplado. 
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
-
-Para os documentos que não possuem carga horária será utilizada a tabela de 
-
-equivalência. Serão consideradas, para efeito de equivalência as atividades listadas na tabela abaixo: 
-
-## **TABELA DE EQUIVALÊNCIA DAS ATIVIDADES COMPLEMENTARES DO CURSO TÉCNICO EM MECATRÔNICA INTEGRADO AO ENSINO MÉDIO** 
+## **TABELA DE EQUIVALÊNCIA DAS ATIVIDADES COMPLEMENTARES DO CURSO TÉCNICO EM MECATRÔNICA INTEGRADO AO ENSINO MÉDIO**
 
 |**ATIVIDADES**|**CARGA HORÁRIA**<br>|**CARGA HORÁRIA**<br>|
 |---|---|---|
@@ -1015,13 +915,9 @@ equivalência. Serão consideradas, para efeito de equivalência as atividades l
 |Palestras|Contabilizado por<br>participação|3h por participação|
 |Participação<br>em<br>atividades<br>beneficentes, voluntário e atividades<br>comunitárias sem carga-horária pré-<br>estabelecida.|Contabilizado por<br>participação|3h por participação|
 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
-
-## **3.10.3 Matriz Curricular** 
+## **3.10.3 Matriz Curricular**
 
 |**3.10.3 Matriz Curricular**|||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -1059,11 +955,7 @@ equivalência. Serão consideradas, para efeito de equivalência as atividades l
 |Robótica e Sistemas Embarcados||||||||||2|80|67|
 |Projeto Integrador||||||||||2|80|67|
 
-
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
 |Total Formação Geral e Diversificada – 4000 h/a- 3332h/r|25|1000|833|25|1000|833|25|1000|833|25|1000|833|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -1071,205 +963,185 @@ equivalência. Serão consideradas, para efeito de equivalência as atividades l
 |TOTAL GERAL COM ATIVIDADE COMPLEMENTAR –<br>3532 h/r|||||||||||||
 |* Língua Estrangeira Moderna – Espanhol - 160h|||||||||||||
 
+* A Língua Espanhola, de matrícula facultativa ao estudante, será ofertada no Centro de Ensino de Línguas Estrangeiras do Campus de Paranavaí, no contra turno do curso. O estudante poderá matricular-se, independente do período que estejam cursando.
 
+## **INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí**
 
-* A Língua Espanhola, de matrícula facultativa ao estudante, será ofertada no Centro de Ensino de Línguas Estrangeiras do Campus de Paranavaí, no contra turno do curso. O estudante poderá matricular-se, independente do período que estejam cursando. 
+Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-## **INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** 
+## **3.10.4. Ementas dos Componentes Curriculares**
 
-Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-**==> picture [458 x 63] intentionally omitted <==**
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Língua Portuguesa e Literatura Brasileira I **Carga Horária (hora aula)** : 120 **Período Letivo** : 1º ano
 
-## **3.10.4. Ementas dos Componentes Curriculares** 
+## **EMENTA**
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+Estudo do discurso, resultado da interação entre interlocutores em contexto sóciohistoricamente determinado, a partir dos gêneros discursivos como unidade básica de trabalho. Reflexões sobre os aspetos caracterizadores da formação cultural brasileira. Estudo crítico de textos literários na abordagem de temáticas relacionadas à cultura afrobrasileira e indígena
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Língua Portuguesa e Literatura Brasileira I **Carga Horária (hora aula)** : 120 **Período Letivo** : 1º ano 
+## **METODOLOGIA**
 
-## **EMENTA** 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Resolução de problemas; Análise e discussão de casos ou artigos; Atividade interdisciplinar em sala.
 
-Estudo do discurso, resultado da interação entre interlocutores em contexto sóciohistoricamente determinado, a partir dos gêneros discursivos como unidade básica de trabalho. Reflexões sobre os aspetos caracterizadores da formação cultural brasileira. Estudo crítico de textos literários na abordagem de temáticas relacionadas à cultura afrobrasileira e indígena 
+**BIBLIOGRAFIA BÁSICA** RAMOS, R. A. (Org.) **Ser Protagonista** : Língua Portuguesa, 1º ano: ensino médio. São Paulo: Edições SM, 2013. ______. **Ser Protagonista:** Língua Portuguesa, 2º ano: ensino médio. São Paulo: Edições SM, 2013. ______. **Ser Protagonista:** Língua Portuguesa, 3º ano: ensino médio. São Paulo: Edições SM, 2013. BECHARA, E. **Gramática Escolar da Língua Portuguesa** . 2. ed. Ampl. e Atual. pelo novo Acordo Ortográfico. Rio de Janeiro: Nova Fronteira, 2010. PATROCÍNIO, Mauro Ferreira do. **Aprender e Praticar Gramática** . São Paulo: FTD, 2011. Vol. Único.
 
-## **METODOLOGIA** 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Resolução de problemas; Análise e discussão de casos ou artigos; Atividade interdisciplinar em sala. 
+BERND, **Zilá. Introdução à literatura negra.** São Paulo: Brasiliense, 1988. BORTONE, M. E. **Intertextualidade e Interdisciplinariedade** . Brasília: UnB. Disponível em: < http://aprender.unb.br/mod/book/print.php?id=616878> . Acesso em: 09 fev. 2008. CAMPOS, M. I. B.; ASSUMPÇÃO, N. **Tantas Linguagens** . 1. ed. São Paulo: Scipione, 2007. Vols. 1 e 2. CEREJA, W. R.; MAGALHÃES, T. C. **Texto e interação** : uma proposta de produção textual a partir de gêneros e projetos. São Paulo: Atual, 2000. ______. **Texto e interação** : uma proposta de produção textual a partir de gêneros e projetos. São Paulo: Atual, 2005. CHIAPINNI, L. (Coord.). **Aprender e ensinar com textos de alunos** . São Paulo: Cortez, 1997. Vol. 1. DERRIDA, J. **A Farmácia de Platão** . Trad. Rogério da Costa. 3. ed. São Paulo: Iluminuras, 2005. FARACO, C. A. & TEZZA, C. **Prática de Texto** : Língua Portuguesa para nossos estudantes.
 
-**BIBLIOGRAFIA BÁSICA** RAMOS, R. A. (Org.) **Ser Protagonista** : Língua Portuguesa, 1º ano: ensino médio. São Paulo: Edições SM, 2013. ______. **Ser Protagonista:** Língua Portuguesa, 2º ano: ensino médio. São Paulo: Edições SM, 2013. ______. **Ser Protagonista:** Língua Portuguesa, 3º ano: ensino médio. São Paulo: Edições SM, 2013. BECHARA, E. **Gramática Escolar da Língua Portuguesa** . 2. ed. Ampl. e Atual. pelo novo Acordo Ortográfico. Rio de Janeiro: Nova Fronteira, 2010. PATROCÍNIO, Mauro Ferreira do. **Aprender e Praticar Gramática** . São Paulo: FTD, 2011. Vol. Único. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+Petrópolis: Vozes, 1992. FARACO, Carlos Emílio; MOURA, F. M. **Gramática** . São Paulo: FTD, 1993. FERREIRA, **Mauro. Aprender e Praticar Gramática** . ed. renov. São Paulo: FTD, 2010. GERALDI, J. W. **Portos de Passagem** . 4. ed. São Paulo: Martins Fontes, 1997. Vários autores. **Dialogismo, Polifonia, Intertextualidade** : em torno de Bakhtin. BARROS, D. L. P.; FIORIN, J. L. (Orgs.). 2. ed. 1 reimpr. São Paulo: EDUSP, 2003. **HALL, Stuart. A identidade cultural na Pós-modernidade. Rio de Janeiro: DP&A, 1999.** KURY, A. G. **Novas lições de análise sintática** . São Paulo: Ática, 1998. KABENGELE, Munanga. **Origens africanas do Brasil contemporâneo: histórias, línguas, cultura e civilizações** . São Paulo: Global, 2009.
 
-BERND, **Zilá. Introdução à literatura negra.** São Paulo: Brasiliense, 1988. BORTONE, M. E. **Intertextualidade e Interdisciplinariedade** . Brasília: UnB. Disponível em: < http://aprender.unb.br/mod/book/print.php?id=616878> . Acesso em: 09 fev. 2008. CAMPOS, M. I. B.; ASSUMPÇÃO, N. **Tantas Linguagens** . 1. ed. São Paulo: Scipione, 2007. Vols. 1 e 2. CEREJA, W. R.; MAGALHÃES, T. C. **Texto e interação** : uma proposta de produção textual a partir de gêneros e projetos. São Paulo: Atual, 2000. ______. **Texto e interação** : uma proposta de produção textual a partir de gêneros e projetos. São Paulo: Atual, 2005. CHIAPINNI, L. (Coord.). **Aprender e ensinar com textos de alunos** . São Paulo: Cortez, 1997. Vol. 1. DERRIDA, J. **A Farmácia de Platão** . Trad. Rogério da Costa. 3. ed. São Paulo: Iluminuras, 2005. FARACO, C. A. & TEZZA, C. **Prática de Texto** : Língua Portuguesa para nossos estudantes. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-**==> picture [458 x 63] intentionally omitted <==**
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais
 
-Petrópolis: Vozes, 1992. FARACO, Carlos Emílio; MOURA, F. M. **Gramática** . São Paulo: FTD, 1993. FERREIRA, **Mauro. Aprender e Praticar Gramática** . ed. renov. São Paulo: FTD, 2010. GERALDI, J. W. **Portos de Passagem** . 4. ed. São Paulo: Martins Fontes, 1997. Vários autores. **Dialogismo, Polifonia, Intertextualidade** : em torno de Bakhtin. BARROS, D. L. P.; FIORIN, J. L. (Orgs.). 2. ed. 1 reimpr. São Paulo: EDUSP, 2003. **HALL, Stuart. A identidade cultural na Pós-modernidade. Rio de Janeiro: DP&A, 1999.** KURY, A. G. **Novas lições de análise sintática** . São Paulo: Ática, 1998. KABENGELE, Munanga. **Origens africanas do Brasil contemporâneo: histórias, línguas, cultura e civilizações** . São Paulo: Global, 2009. 
+**Componente Curricular** : Matemática I **Carga Horária (hora aula)** : 120 **Período Letivo** : 1º ano
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+## **EMENTA**
 
-**==> picture [458 x 63] intentionally omitted <==**
+Conjuntos Numéricos. Intervalos. Sistema Cartesiano Ortogonal. Função. Função do 1º e 2º graus. Inequações de 1º e 2º graus. Domínio de funções reais. Função definida por várias sentenças. Sequências. Progressão Aritmética. Progressão Geométrica.
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+## **METODOLOGIA**
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo; Resolução de problemas; Atividade interdisciplinar em sala de aula.
 
-**Componente Curricular** : Matemática I **Carga Horária (hora aula)** : 120 **Período Letivo** : 1º ano 
+## **METODOLOGIA**
 
-## **EMENTA** 
+Ex: aulas expositivas, com a utilização de: experimentos, vídeos, áudios; pesquisa individual ou em grupo e resolução de problemas.
 
-Conjuntos Numéricos. Intervalos. Sistema Cartesiano Ortogonal. Função. Função do 1º e 2º graus. Inequações de 1º e 2º graus. Domínio de funções reais. Função definida por várias sentenças. Sequências. Progressão Aritmética. Progressão Geométrica. 
+## **BIBLIOGRAFIA BÁSICA**
 
-## **METODOLOGIA** 
+DANTE, Luis Roberto. **Matemática** : Contexto e Aplicações. 4. ed. São Paulo: Ática, 2010. Vol. 1.
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo; Resolução de problemas; Atividade interdisciplinar em sala de aula. 
+FACCHINI, W. **Matemática** : para a escola de hoje. São Paulo: FTD, 2006. PAIVA, M. **Matemática** . São Paulo: Editora Moderna, 2005. Souza, J. **Novo Olhar Matemática** . 2. Ed. São Paulo: FTD, 2013. Vol.1.
 
-## **METODOLOGIA** 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-Ex: aulas expositivas, com a utilização de: experimentos, vídeos, áudios; pesquisa individual ou em grupo e resolução de problemas. 
+IEZZI, G. _et al_ . **Fundamentos da Matemática Elementar** . São Paulo: Atual, 2003. Vols. 1 a 10. LIMA, E. L. **A Matemática do Ensino Médio** . Rio de Janeiro: Sociedade Brasileira de Matemática, 2003. Vol. 1.
 
-## **BIBLIOGRAFIA BÁSICA** 
+MELLO, J. L. P.; BARROSO, J. M. **Matemática** : Construção e Significado. São Paulo, Moderna. 2005.
 
-DANTE, Luis Roberto. **Matemática** : Contexto e Aplicações. 4. ed. São Paulo: Ática, 2010. Vol. 1. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-FACCHINI, W. **Matemática** : para a escola de hoje. São Paulo: FTD, 2006. PAIVA, M. **Matemática** . São Paulo: Editora Moderna, 2005. Souza, J. **Novo Olhar Matemática** . 2. Ed. São Paulo: FTD, 2013. Vol.1. 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais
 
-IEZZI, G. _et al_ . **Fundamentos da Matemática Elementar** . São Paulo: Atual, 2003. Vols. 1 a 10. LIMA, E. L. **A Matemática do Ensino Médio** . Rio de Janeiro: Sociedade Brasileira de Matemática, 2003. Vol. 1. 
+**Componente Curricular** : Biologia I **Carga Horária (hora aula)** : 80 **Período Letivo** : 1º ano
 
-MELLO, J. L. P.; BARROSO, J. M. **Matemática** : Construção e Significado. São Paulo, Moderna. 2005. 
+## **EMENTA**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+Introdução à Biologia, Método Científico, Origem da Vida, Citologia, Histologia: Animal.
 
-**==> picture [458 x 63] intentionally omitted <==**
+## **METODOLOGIA**
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Resolução de problemas; Análise e discussão de casos ou artigos; Atividade interdisciplinar em laboratório ou sala de aula.
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais 
+## **BIBLIOGRAFIA BÁSICA**
 
-**Componente Curricular** : Biologia I **Carga Horária (hora aula)** : 80 **Período Letivo** : 1º ano 
+AMABIS, J.M.; MARTHO, G.R. **Fundamentos da Biologia Moderna** . 4. ed. São Paulo: Moderna, 2011. Vol. Único. AMABIS, J.M.; MARTHO, G.R. **Biologia das células** . 2. ed. São Paulo: Moderna, 2005. Vol. 1. AMABIS, J.M.; MARTHO, G.R. **Biologia dos organismos** . 2. ed. São Paulo: Moderna, 2004. Vol. 2. AMABIS, J.M.; MARTHO, G.R. **Biologia das populações** . 1. ed. São Paulo: Moderna, 2005. Vol. 3. LINHARES, S., GEWANDSZNAJDER, F. **Biologia hoje** : citologia, histologia e origem da vida. São Paulo: Ática, 2002. Vol. 1. LINHARES, S., GEWANDSZNAJDER, F. **Biologia hoje** : os seres vivos. São Paulo: Ática, 2000. Vol. 2. LINHARES, S., GEWANDSZNAJDER, F. **Biologia hoje** : genética, evolução e ecologia. São Paulo: Ática, 2002. Vol. 3.
 
-## **EMENTA** 
+**BIBLIOGRAFIA COMPLEMENTAR**
 
-Introdução à Biologia, Método Científico, Origem da Vida, Citologia, Histologia: Animal. 
+AMABIS, J.M.; MARTHO, G.R. **Conceitos de biologia** . São Paulo: Moderna, 2001. CHEIDA, L.M. **Biologia Moderna** . São Paulo: FTD, 2002. LOPES, S.; ROSSO, S. **Bio** . 2. ed. São Paulo: Saraiva, 2010. Vol. 1. LOPES, S.; ROSSO, S. **Bio** . 1. ed. São Paulo: Saraiva, 2006. Vol. 2. LOPES, S.; ROSSO, S. **Bio** . 1. ed. São Paulo: Saraiva, 2006. Vol. 3. MARCZWSKI, M; VÉLEZ, E. **Ciências Biológicas** . São Paulo: FTD, 1999.
 
-## **METODOLOGIA** 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Resolução de problemas; Análise e discussão de casos ou artigos; Atividade interdisciplinar em laboratório ou sala de aula. 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-## **BIBLIOGRAFIA BÁSICA** 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Química I **Carga Horária (hora aula)** : 80 **Período Letivo** : 1º ano
 
-AMABIS, J.M.; MARTHO, G.R. **Fundamentos da Biologia Moderna** . 4. ed. São Paulo: Moderna, 2011. Vol. Único. AMABIS, J.M.; MARTHO, G.R. **Biologia das células** . 2. ed. São Paulo: Moderna, 2005. Vol. 1. AMABIS, J.M.; MARTHO, G.R. **Biologia dos organismos** . 2. ed. São Paulo: Moderna, 2004. Vol. 2. AMABIS, J.M.; MARTHO, G.R. **Biologia das populações** . 1. ed. São Paulo: Moderna, 2005. Vol. 3. LINHARES, S., GEWANDSZNAJDER, F. **Biologia hoje** : citologia, histologia e origem da vida. São Paulo: Ática, 2002. Vol. 1. LINHARES, S., GEWANDSZNAJDER, F. **Biologia hoje** : os seres vivos. São Paulo: Ática, 2000. Vol. 2. LINHARES, S., GEWANDSZNAJDER, F. **Biologia hoje** : genética, evolução e ecologia. São Paulo: Ática, 2002. Vol. 3. 
+## **EMENTA**
 
-**BIBLIOGRAFIA COMPLEMENTAR** 
+Visão geral da Química. Estrutura atômica. Matéria e suas transformações. Classificação Periódica dos Elementos. Ligações Químicas. Geometria Molecular. Funções Inorgânicas. Reações Químicas. Cálculos Químico e Estequiométrico. Estudo sucinto sobre os principais elementos químicos.
 
-AMABIS, J.M.; MARTHO, G.R. **Conceitos de biologia** . São Paulo: Moderna, 2001. CHEIDA, L.M. **Biologia Moderna** . São Paulo: FTD, 2002. LOPES, S.; ROSSO, S. **Bio** . 2. ed. São Paulo: Saraiva, 2010. Vol. 1. LOPES, S.; ROSSO, S. **Bio** . 1. ed. São Paulo: Saraiva, 2006. Vol. 2. LOPES, S.; ROSSO, S. **Bio** . 1. ed. São Paulo: Saraiva, 2006. Vol. 3. MARCZWSKI, M; VÉLEZ, E. **Ciências Biológicas** . São Paulo: FTD, 1999. 
+## **METODOLOGIA**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Resolução de problemas; Atividade interdisciplinar em laboratório ou sala de aula.
 
-**==> picture [458 x 63] intentionally omitted <==**
+## **BIBLIOGRAFIA BÁSICA**
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+FELTRE, R. **Química** . 6. ed. São Paulo: Moderna, 2004. REIS, M. **Completamente química** – Química Geral. São Paulo: FTD, 2001. PERUZZO, T.M. & CANTO, E.L. **Química** . São Paulo: Moderna, 1999.
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Química I **Carga Horária (hora aula)** : 80 **Período Letivo** : 1º ano 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-## **EMENTA** 
+COVRE, G.J. **Química: o homem e a natureza** . São Paulo: FTD, 2000. LEMBO, A. **Química realidade e contexto** . 3. ed. São Paulo: Ática, 2004. USBERCO, J. & SALVADOR, E. **Química** . 5. ed. São Paulo: Saraiva, 2002. SANTOS, W.L.P.; MÓL, G. S. **Química e Sociedade** . São Paulo: Nova Geração, 2010. MORITA. **Manual de Soluções, Reagentes e Solventes** . 5. ed. São Paulo: Edgard Blucher, 1972,1983.
 
-Visão geral da Química. Estrutura atômica. Matéria e suas transformações. Classificação Periódica dos Elementos. Ligações Químicas. Geometria Molecular. Funções Inorgânicas. Reações Químicas. Cálculos Químico e Estequiométrico. Estudo sucinto sobre os principais elementos químicos. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-## **METODOLOGIA** 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Resolução de problemas; Atividade interdisciplinar em laboratório ou sala de aula. 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Filosofia I **Carga Horária (hora aula)** : 40 **Período Letivo** : 1º ano
 
-## **BIBLIOGRAFIA BÁSICA** 
+## **EMENTA**
 
-FELTRE, R. **Química** . 6. ed. São Paulo: Moderna, 2004. REIS, M. **Completamente química** – Química Geral. São Paulo: FTD, 2001. PERUZZO, T.M. & CANTO, E.L. **Química** . São Paulo: Moderna, 1999. 
+Mito e filosofia: Saber mítico: estrutura do pensamento mítico e características do mito. Saber filosófico: estrutura e características do pensamento filosófico pré-socrático. Relação entre mito e filosofia: diferenças e semelhanças entre o mito e a filosofia pré-socrática. Atualidade do mito: a presença do discurso mítico na cultura contemporânea. O que é a filosofia? Principais características da filosofia, ou seja, como se estruturam a racionalidade, o conceito e a explicitação filosófica. História da filosofia: as escolas cosmológica, sofista, socrática e o helenismo. Teoria do conhecimento. As formas de conhecimento e/ou correntes filosóficas: Ceticismo; Racionalismo; Empirismo; Criticismo. O problema da verdade: correspondência, revelação e convenção. A questão do método: dedução e indução. Conhecimento e lógica: silogismo, falácias e retórica.
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+## **METODOLOGIA**
 
-COVRE, G.J. **Química: o homem e a natureza** . São Paulo: FTD, 2000. LEMBO, A. **Química realidade e contexto** . 3. ed. São Paulo: Ática, 2004. USBERCO, J. & SALVADOR, E. **Química** . 5. ed. São Paulo: Saraiva, 2002. SANTOS, W.L.P.; MÓL, G. S. **Química e Sociedade** . São Paulo: Nova Geração, 2010. MORITA. **Manual de Soluções, Reagentes e Solventes** . 5. ed. São Paulo: Edgard Blucher, 1972,1983. 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Resolução de problemas; Atividade interdisciplinar em sala de aula.
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+## **BIBLIOGRAFIA BÁSICA**
 
-**==> picture [458 x 63] intentionally omitted <==**
+ARANHA, Maria Lúcia de Arruda; MARTINS, Maria Helena Pires. **Filosofando** _:_ Introdução à Filosofia. 4. ed. São Paulo: Moderna, 2009. CHAUÍ, Marilena. **Iniciação à filosofia** _:_ ensino médio. São Paulo: Ática, 2010. MARCONDES, Danilo. **Textos básicos de filosofia** _:_ dos pré-socráticos a Wittgenstein. 6. ed. Rio de Janeiro: Jorge Zahar Ed., 2009.
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Filosofia I **Carga Horária (hora aula)** : 40 **Período Letivo** : 1º ano 
+COTRIM, Gilberto; FERNANDES, Mirna. **Fundamentos de Filosofia** _._ São Paulo: Saraiva, 2010.
 
-## **EMENTA** 
+DELEUZE, Gilles; GUATTARI, Félix. **O que é a Filosofia?** trad. Bento Prado Jr. e Alberto Alonso Muñoz. Rio de Janeiro: Ed. 34, 1992. KENNY, Anthony. **Uma nova história da Filosofia Ocidental** . Trad. Carlos Alberto Bárbaro. São Paulo: Edições Loyola, 2009. Vols. I a IV. MARÇAL, Jairo (Org.). **Antologia de Textos Filosóficos** . Curitiba: SEED-PR, 2009. MARCONDES, Danilo. **Textos básicos de ética** _:_ de Platão a Foucault. 4. ed. Rio de Janeiro: Jorge Zahar Ed., 2009. REALE, Giovanni; ANTISERI, Dario. **História da Filosofia** _._ São Paulo: Paulus, 1990. Vols. 1 a 3. LAPORTE, Ana Maria et al. _Para filosofar_ . São Paulo: Scipione, 2000.
 
-Mito e filosofia: Saber mítico: estrutura do pensamento mítico e características do mito. Saber filosófico: estrutura e características do pensamento filosófico pré-socrático. Relação entre mito e filosofia: diferenças e semelhanças entre o mito e a filosofia pré-socrática. Atualidade do mito: a presença do discurso mítico na cultura contemporânea. O que é a filosofia? Principais características da filosofia, ou seja, como se estruturam a racionalidade, o conceito e a explicitação filosófica. História da filosofia: as escolas cosmológica, sofista, socrática e o helenismo. Teoria do conhecimento. As formas de conhecimento e/ou correntes filosóficas: Ceticismo; Racionalismo; Empirismo; Criticismo. O problema da verdade: correspondência, revelação e convenção. A questão do método: dedução e indução. Conhecimento e lógica: silogismo, falácias e retórica. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-## **METODOLOGIA** 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Resolução de problemas; Atividade interdisciplinar em sala de aula. 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Sociologia I **Carga Horária (hora aula)** : 40 **Período Letivo** : 1º ano
 
-## **BIBLIOGRAFIA BÁSICA** 
+## **EMENTA**
 
-ARANHA, Maria Lúcia de Arruda; MARTINS, Maria Helena Pires. **Filosofando** _:_ Introdução à Filosofia. 4. ed. São Paulo: Moderna, 2009. CHAUÍ, Marilena. **Iniciação à filosofia** _:_ ensino médio. São Paulo: Ática, 2010. MARCONDES, Danilo. **Textos básicos de filosofia** _:_ dos pré-socráticos a Wittgenstein. 6. ed. Rio de Janeiro: Jorge Zahar Ed., 2009. 
+O surgimento da sociologia e as teorias sociológicas: Contexto histórico de surgimento da sociologia; desenvolvimento do pensamento social; Teorias sociológicas clássicas: Comte, Durkheim, Engels e Marx, Weber; Indivíduo e sociedade; O desenvolvimento da Sociologia no Brasil. O processo de socialização e as instituições sociais: Instituições sociais: Familiares; Escolares; Religiosas; Instituições de Reinserção (prisões, manicômios, educandários, asilos etc.).
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+## **METODOLOGIA**
 
-COTRIM, Gilberto; FERNANDES, Mirna. **Fundamentos de Filosofia** _._ São Paulo: Saraiva, 2010. 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Atividade interdisciplinar em ou sala de aula.
 
-DELEUZE, Gilles; GUATTARI, Félix. **O que é a Filosofia?** trad. Bento Prado Jr. e Alberto Alonso Muñoz. Rio de Janeiro: Ed. 34, 1992. KENNY, Anthony. **Uma nova história da Filosofia Ocidental** . Trad. Carlos Alberto Bárbaro. São Paulo: Edições Loyola, 2009. Vols. I a IV. MARÇAL, Jairo (Org.). **Antologia de Textos Filosóficos** . Curitiba: SEED-PR, 2009. MARCONDES, Danilo. **Textos básicos de ética** _:_ de Platão a Foucault. 4. ed. Rio de Janeiro: Jorge Zahar Ed., 2009. REALE, Giovanni; ANTISERI, Dario. **História da Filosofia** _._ São Paulo: Paulus, 1990. Vols. 1 a 3. LAPORTE, Ana Maria et al. _Para filosofar_ . São Paulo: Scipione, 2000. 
+## **BIBLIOGRAFIA BÁSICA**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+ARAÚJO, Silvia Maria de; BRIDI, Maria Aparecida; MOTIM, Benilde Lenzi. **Sociologia** . São Paulo: scipione, 2013. OLIVEIRA, Luiz Fernandes; COSTA, Ricardo Cesar Rocha. **Sociologia Para Jovens do Século XXI** . 3. ed. Rio de Janeiro: Imperial Novo Milênio, 2013. TOMAZI, Nelson Dacio. **Sociologia para o Ensino Médio** . São Paulo: Saraiva, 2010.
 
-**==> picture [458 x 63] intentionally omitted <==**
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+BAUMAN, Zygmunt. **Modernidade líquida** . Editora Zahar, 2001. BOBBIO, Norberto. **Dicionário de política** . Norberto Bobbio, Nicola Matteucci e Gianfranco Pasquino. Trad. Carmem C., Varrialeet ai.coord. trad. João Ferreira; rev. geral João Ferreira e Luis Guerreiro Pinto Cacais. Brasília: Editora Universidade de Brasília, 1998. 2 Vols. BOUDON, Raymond; BOURRICAUD, François. **Dicionário crítico de Sociologia** . Editora Ática, 2000. FREYRE, Gilberto. **Casa-grande e Senzala** . São Paulo: Editora Global, 2003. GIDDENS, Anthony. **Sociologia** . Porto Alegre: Editora Artmed, 2005. QUINTANEIRO, Tânia et al. UM TOQUE DE CLASSICOS: DURKHEIM, MARX E WEBER. Belo Horizonte: Ed. da UFMG , 1996. SCOTT, John. **50 sociólogos fundamentais** . São Paulo: Editora Contexto, 2007.
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Sociologia I **Carga Horária (hora aula)** : 40 **Período Letivo** : 1º ano 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-## **EMENTA** 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-O surgimento da sociologia e as teorias sociológicas: Contexto histórico de surgimento da sociologia; desenvolvimento do pensamento social; Teorias sociológicas clássicas: Comte, Durkheim, Engels e Marx, Weber; Indivíduo e sociedade; O desenvolvimento da Sociologia no Brasil. O processo de socialização e as instituições sociais: Instituições sociais: Familiares; Escolares; Religiosas; Instituições de Reinserção (prisões, manicômios, educandários, asilos etc.). 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Geografia I **Carga Horária (hora aula)** : 80 **Período Letivo** : 1º ano
 
-## **METODOLOGIA** 
+## **EMENTA**
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Atividade interdisciplinar em ou sala de aula. 
+Astronomia; Cartografia; Dinâmica da Litosfera; A Atmosfera e os tipos de climas; As mudanças climáticas contemporâneas; Dinâmica da Hidrosfera; A Biosfera e a relação da sociedade com os climas, o relevo, as vegetações e a hidrografia.
 
-## **BIBLIOGRAFIA BÁSICA** 
+## **METODOLOGIA**
 
-ARAÚJO, Silvia Maria de; BRIDI, Maria Aparecida; MOTIM, Benilde Lenzi. **Sociologia** . São Paulo: scipione, 2013. OLIVEIRA, Luiz Fernandes; COSTA, Ricardo Cesar Rocha. **Sociologia Para Jovens do Século XXI** . 3. ed. Rio de Janeiro: Imperial Novo Milênio, 2013. TOMAZI, Nelson Dacio. **Sociologia para o Ensino Médio** . São Paulo: Saraiva, 2010. 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Resolução de problemas; Atividade interdisciplinar em sala de aula.
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+## **BIBLIOGRAFIA BÁSICA**
 
-BAUMAN, Zygmunt. **Modernidade líquida** . Editora Zahar, 2001. BOBBIO, Norberto. **Dicionário de política** . Norberto Bobbio, Nicola Matteucci e Gianfranco Pasquino. Trad. Carmem C., Varrialeet ai.coord. trad. João Ferreira; rev. geral João Ferreira e Luis Guerreiro Pinto Cacais. Brasília: Editora Universidade de Brasília, 1998. 2 Vols. BOUDON, Raymond; BOURRICAUD, François. **Dicionário crítico de Sociologia** . Editora Ática, 2000. FREYRE, Gilberto. **Casa-grande e Senzala** . São Paulo: Editora Global, 2003. GIDDENS, Anthony. **Sociologia** . Porto Alegre: Editora Artmed, 2005. QUINTANEIRO, Tânia et al. UM TOQUE DE CLASSICOS: DURKHEIM, MARX E WEBER. Belo Horizonte: Ed. da UFMG , 1996. SCOTT, John. **50 sociólogos fundamentais** . São Paulo: Editora Contexto, 2007. 
+ALMEIDA, Lúcia Marina e RIGOLIN, Tércio Barbosa. **Geografia Geral e do Brasil** . São Paulo: Ática, 2009. IBGE - Instituto Brasileiro de Geografia e Estatística. **Atlas Geográfico Escolar** . 3. ed. Rio de Janeiro, 2006. MAGNOLI, Demétrio; ARAÚJO, Regina. **Geografia** : A construção do mundo. São Paulo: Moderna, 2005. MOREIRA, João Carlos e SENE, Eustáquio de. **Geografia Geral e do Brasil** : Espaço geográfico e globalização. São Paulo: Scipione, 2009. TERRA, Lygia e COELHO, Marcos de Amorim. **Geografia Geral e do Brasil** : O espaço natural e socioeconômico. São Paulo: Moderna, 2005.
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-**==> picture [458 x 63] intentionally omitted <==**
+ADAS, Melhem. **Panorama Geográfico do Brasil** : contradições, impasses e desafios socioespaciais. São Paulo: Moderna, 2004. BOLIGIAN, Levon; ALVES, Andressa. **Geografia** : Espaço e Vivência. São Paulo: Atual, 2004.
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+GARCIA, Hélio Carlos e GARAVELLO, Tito Márcio. **Geografia** : De olho no mundo de trabalho. São Paulo: Scipione, 2006. MOREIRA, Igor. **O Espaço Geográfico** : Geografia Geral e do Brasil. 47. ed. São Paulo: Ática, 2003. MOREIRA, João Carlos e SENE, Eustáquio de. **Geografia Geral e do Brasil** : espaço geográfico e globalização. São Paulo: Scipione, 2004. TAMDJIAN, James O.; MENDES, Ivan L. **Geografia Geral e do Brasil** – Estudos para a compreensão do espaço. São Paulo: FTD, 2004. VESENTINI, José William. **Geografia** : série Brasil. São Paulo: Ática, 2003.
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Geografia I **Carga Horária (hora aula)** : 80 **Período Letivo** : 1º ano 
-
-## **EMENTA** 
-
-Astronomia; Cartografia; Dinâmica da Litosfera; A Atmosfera e os tipos de climas; As mudanças climáticas contemporâneas; Dinâmica da Hidrosfera; A Biosfera e a relação da sociedade com os climas, o relevo, as vegetações e a hidrografia. 
-
-## **METODOLOGIA** 
-
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Resolução de problemas; Atividade interdisciplinar em sala de aula. 
-
-## **BIBLIOGRAFIA BÁSICA** 
-
-ALMEIDA, Lúcia Marina e RIGOLIN, Tércio Barbosa. **Geografia Geral e do Brasil** . São Paulo: Ática, 2009. IBGE - Instituto Brasileiro de Geografia e Estatística. **Atlas Geográfico Escolar** . 3. ed. Rio de Janeiro, 2006. MAGNOLI, Demétrio; ARAÚJO, Regina. **Geografia** : A construção do mundo. São Paulo: Moderna, 2005. MOREIRA, João Carlos e SENE, Eustáquio de. **Geografia Geral e do Brasil** : Espaço geográfico e globalização. São Paulo: Scipione, 2009. TERRA, Lygia e COELHO, Marcos de Amorim. **Geografia Geral e do Brasil** : O espaço natural e socioeconômico. São Paulo: Moderna, 2005. 
-
-## **BIBLIOGRAFIA COMPLEMENTAR** 
-
-ADAS, Melhem. **Panorama Geográfico do Brasil** : contradições, impasses e desafios socioespaciais. São Paulo: Moderna, 2004. BOLIGIAN, Levon; ALVES, Andressa. **Geografia** : Espaço e Vivência. São Paulo: Atual, 2004. 
-
-GARCIA, Hélio Carlos e GARAVELLO, Tito Márcio. **Geografia** : De olho no mundo de trabalho. São Paulo: Scipione, 2006. MOREIRA, Igor. **O Espaço Geográfico** : Geografia Geral e do Brasil. 47. ed. São Paulo: Ática, 2003. MOREIRA, João Carlos e SENE, Eustáquio de. **Geografia Geral e do Brasil** : espaço geográfico e globalização. São Paulo: Scipione, 2004. TAMDJIAN, James O.; MENDES, Ivan L. **Geografia Geral e do Brasil** – Estudos para a compreensão do espaço. São Paulo: FTD, 2004. VESENTINI, José William. **Geografia** : série Brasil. São Paulo: Ática, 2003. 
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
 |**IFPR – CÂMPUS PARANAVAÍ**|**IFPR – CÂMPUS PARANAVAÍ**|
 |---|---|
@@ -1281,91 +1153,81 @@ GARCIA, Hélio Carlos e GARAVELLO, Tito Márcio. **Geografia** : De olho no mund
 |**BIBLIOGRAFIA BÁSICA**<br>OJEDA, E. A. B. & PETTA, N. L. de.**História**: uma abordagem integrada. 2. ed. São Paulo:<br>Editora Moderna, s/d.<br>SERIACOPI, G. C. A. & SERIACOPI, R.**História**. São Paulo: Ática, 2005.<br>VICENTINO, C. & DORIGO, G.**História Geral e do Brasil**. São Paulo: Scipione, 2010. Vols.<br>1 a 3.||
 |**BIBLIOGRAFIA COMPLEMENTAR**<br>ALVES, A. & OLIVEIRA, L. F. de.**Conexões com a história**: das origens do homem à<br>conquista do novo mundo. São Paulo: Moderna, 2010. Vols. 1 a 3.<br>ARRUDA, J. J.**Toda a História**. São Paulo: Editora Ática, 2004.<br>TEIXEIRA, F M. P.**Brasil, História e Sociedade**. São Paulo: Ática, 2001.||
 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais
 
-**==> picture [458 x 63] intentionally omitted <==**
+**Componente Curricular** : Artes I **Carga Horária (hora aula)** : 80 **Período Letivo** : 1º ano
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+## **EMENTA**
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais 
+Dimensão conceitual de Arte. Função da Arte. Linguagens Artísticas: música, dança, teatro e Artes visuais. A Arte como forma de conhecimento. Manifestações artísticas através da história. Culturas ancestrais: Artes indígenas e dos povos africanos. Música. Arte na Préhistória. Arte Egípcia. Arte Grega. Arte Romana. Arte Românica. Arte Renascentista. Arte Gótica. O Renascimento e a Arte na Itália e na Alemanha. Arte Barroca na Europa e no Brasil. Artes do corpo: música corporal e _Body Art_ .
 
-**Componente Curricular** : Artes I **Carga Horária (hora aula)** : 80 **Período Letivo** : 1º ano 
+## **METODOLOGIA**
 
-## **EMENTA** 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Atividade interdisciplinar em sala de aula.
 
-Dimensão conceitual de Arte. Função da Arte. Linguagens Artísticas: música, dança, teatro e Artes visuais. A Arte como forma de conhecimento. Manifestações artísticas através da história. Culturas ancestrais: Artes indígenas e dos povos africanos. Música. Arte na Préhistória. Arte Egípcia. Arte Grega. Arte Romana. Arte Românica. Arte Renascentista. Arte Gótica. O Renascimento e a Arte na Itália e na Alemanha. Arte Barroca na Europa e no Brasil. Artes do corpo: música corporal e _Body Art_ . 
+## **BIBLIOGRAFIA BÁSICA**
 
-## **METODOLOGIA** 
+BENNETT, Roy. **Uma breve história da música** . Rio de Janeiro: Zahar, 1986. BOZZANO, H. B.; FRENDA, P.; GUSMÃO, T. C.. **Arte em interação** . Livro didático para o Ensino médio. IBEP, 1ª Edição,São Paulo, 2013 CALABRIA, C.P. **Arte Ocidental** . São Paulo: FTD, 2004. COLL, César e TEBEROSKY, Ana. **Aprendendo arte** . São Paulo: Ática, 2000. IVALBERG, Rosa. **Para gostar de aprender arte** : sala de sula e formação de professores. Porto Alegre: ARTMED, 2003. PROENÇA, Graça. **História da Arte** . São Paulo: Ática, 2000. PROENÇA, Graça. **Descobrindo a História da Arte** . São Paulo: Ática, 2005. STRICKLAND, Carol. **Arte Comentada: da Pré-história ao Pós-moderno** . Rio de Janeiro: Ediouro, 2004.
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Atividade interdisciplinar em sala de aula. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-## **BIBLIOGRAFIA BÁSICA** 
+GASSET, Jorge Ortega Y. **Ensaios de Estética** : Monalisa, Três quadros do Vinho e Velazquéz. São Paulo: Cortez, 2011. GOMBRICH, E. H. **A História da Arte** . 16. ed. São Paulo: LCT, 2000.
 
-BENNETT, Roy. **Uma breve história da música** . Rio de Janeiro: Zahar, 1986. BOZZANO, H. B.; FRENDA, P.; GUSMÃO, T. C.. **Arte em interação** . Livro didático para o Ensino médio. IBEP, 1ª Edição,São Paulo, 2013 CALABRIA, C.P. **Arte Ocidental** . São Paulo: FTD, 2004. COLL, César e TEBEROSKY, Ana. **Aprendendo arte** . São Paulo: Ática, 2000. IVALBERG, Rosa. **Para gostar de aprender arte** : sala de sula e formação de professores. Porto Alegre: ARTMED, 2003. PROENÇA, Graça. **História da Arte** . São Paulo: Ática, 2000. PROENÇA, Graça. **Descobrindo a História da Arte** . São Paulo: Ática, 2005. STRICKLAND, Carol. **Arte Comentada: da Pré-história ao Pós-moderno** . Rio de Janeiro: Ediouro, 2004. 
+KINDERSLEY, DORLING. **Grandes pinturas** . Tradução de Maria da Anunciação Rodrigues. São Paulo: Publifolha, 2012. LIMA, Renata. **Tetos do Brasil** . São Paulo: Babel Editora, 2011.
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+SANTAELLA, Lucia. P **or que as comunicações e as artes estão convergindo?** São Paulo: Paulus, 2007. SCHAFER, Murray. **O ouvido pensante** . 4ª ed. São Paulo: Ed. UNESP, 1991.
 
-GASSET, Jorge Ortega Y. **Ensaios de Estética** : Monalisa, Três quadros do Vinho e Velazquéz. São Paulo: Cortez, 2011. GOMBRICH, E. H. **A História da Arte** . 16. ed. São Paulo: LCT, 2000. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-KINDERSLEY, DORLING. **Grandes pinturas** . Tradução de Maria da Anunciação Rodrigues. São Paulo: Publifolha, 2012. LIMA, Renata. **Tetos do Brasil** . São Paulo: Babel Editora, 2011. 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-SANTAELLA, Lucia. P **or que as comunicações e as artes estão convergindo?** São Paulo: Paulus, 2007. SCHAFER, Murray. **O ouvido pensante** . 4ª ed. São Paulo: Ed. UNESP, 1991. 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+**Componente Curricular** : Física I
 
-**==> picture [458 x 63] intentionally omitted <==**
+**Carga Horária (hora aula)** : 80 **Período Letivo** : 1º ano
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+## **EMENTA**
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais 
+Cinemática. Leis de Newton. Leis da conservação.
 
-**Componente Curricular** : Física I 
+## **METODOLOGIA**
 
-**Carga Horária (hora aula)** : 80 **Período Letivo** : 1º ano 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo; Resolução de problemas; Atividade interdisciplinar em laboratório ou sala de aula.
 
-## **EMENTA** 
+## **BIBLIOGRAFIA BÁSICA**
 
-Cinemática. Leis de Newton. Leis da conservação. 
+ALVARENGA, B.; MÁXIMO, A. **Curso de Física** . São Paulo: Scipione, 2000. DOCA, R. H. _et al._ **Universo da Física** . 18. ed. reform. São Paulo: Saraiva, 2001. GASPAR, A. **Física** . São Paulo: Ática, 2003.
 
-## **METODOLOGIA** 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo; Resolução de problemas; Atividade interdisciplinar em laboratório ou sala de aula. 
+PARANÁ, D. **Física** . 5. ed. São Paulo: Ática, 2000. RAMALHO, F. _et al._ **Física** . 8. ed. São Paulo: Moderna, 2004. BISCUOLA, G. _et al_ . **Tópicos de Física** . São Paulo: Saraiva, 2007.
 
-## **BIBLIOGRAFIA BÁSICA** 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-ALVARENGA, B.; MÁXIMO, A. **Curso de Física** . São Paulo: Scipione, 2000. DOCA, R. H. _et al._ **Universo da Física** . 18. ed. reform. São Paulo: Saraiva, 2001. GASPAR, A. **Física** . São Paulo: Ática, 2003. 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Educação Física I **Carga Horária (hora aula)** : 80 **Período Letivo** : 1º ano
 
-PARANÁ, D. **Física** . 5. ed. São Paulo: Ática, 2000. RAMALHO, F. _et al._ **Física** . 8. ed. São Paulo: Moderna, 2004. BISCUOLA, G. _et al_ . **Tópicos de Física** . São Paulo: Saraiva, 2007. 
+## **EMENTA**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+Esportes individuais. Esportes coletivos. Recreação e lazer. Aptidão física. Orientações gerais para a prática da atividade física.
 
-**==> picture [458 x 63] intentionally omitted <==**
+**METODOLOGIA**
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, atividades dirigidas; Atividade interdisciplinar em sala de aula. **BIBLIOGRAFIA BÁSICA**
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Educação Física I **Carga Horária (hora aula)** : 80 **Período Letivo** : 1º ano 
+ANDERSON, Bob. **Alongue-se no trabalho** . São Paulo: Summus, 1998. BARBANTI, Valdir José. **Aptidão física** : um convite à saúde. São Paulo: Manole Dois, 1990. BARROS NETO, Turibio Leite de. **Exercício, saúde e desempenho físico** . São Paulo: Atheneu, 1997. COSTA, Roberto F. da. **Composição corporal** : teoria e prática da avaliação. 1. ed. São Paulo: Editora Manole Ltda, 2001. Dantas, Estélio A. M. **Flexibilidade** : alongamento e flexionamento. 4. ed. Rio de Janeiro: Shape Editora Ltda, 1999. FOX, Edward L. et all. **Bases fisiológicas do exercício e do esporte** . 6. ed. Rio de Janeiro: Guanabara Koogan, 2000. **BIBLIOGRAFIA COMPLEMENTAR**
 
-## **EMENTA** 
+GUEDES, Dartagnan P. & Guedes, Joana E. R. P. **Controle de peso corporal** : composição corporal, atividade física e nutrição. Londrina: Editora Midiograf, 1998. MCARDLE, William D. **Fisiologia do exercício** : energia, nutrição e desempenho. 4. ed. Rio de Janeiro: Editora Guanabara Koogan S. A., 1998. MORENO, Guilherme. **Recreação 1000 com acessórios** . Rio de Janeiro: Sprint, 1999. SHARKEY, B. J. **Condicionamento físico e saúde** . 4. ed. Porto Alegre: ARTMED, 1998. WEINECK, Jürgen. **Biologia do esporte** . São Paulo: Manole, 2000.
 
-Esportes individuais. Esportes coletivos. Recreação e lazer. Aptidão física. Orientações gerais para a prática da atividade física. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-**METODOLOGIA** 
-
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, atividades dirigidas; Atividade interdisciplinar em sala de aula. **BIBLIOGRAFIA BÁSICA** 
-
-ANDERSON, Bob. **Alongue-se no trabalho** . São Paulo: Summus, 1998. BARBANTI, Valdir José. **Aptidão física** : um convite à saúde. São Paulo: Manole Dois, 1990. BARROS NETO, Turibio Leite de. **Exercício, saúde e desempenho físico** . São Paulo: Atheneu, 1997. COSTA, Roberto F. da. **Composição corporal** : teoria e prática da avaliação. 1. ed. São Paulo: Editora Manole Ltda, 2001. Dantas, Estélio A. M. **Flexibilidade** : alongamento e flexionamento. 4. ed. Rio de Janeiro: Shape Editora Ltda, 1999. FOX, Edward L. et all. **Bases fisiológicas do exercício e do esporte** . 6. ed. Rio de Janeiro: Guanabara Koogan, 2000. **BIBLIOGRAFIA COMPLEMENTAR** 
-
-GUEDES, Dartagnan P. & Guedes, Joana E. R. P. **Controle de peso corporal** : composição corporal, atividade física e nutrição. Londrina: Editora Midiograf, 1998. MCARDLE, William D. **Fisiologia do exercício** : energia, nutrição e desempenho. 4. ed. Rio de Janeiro: Editora Guanabara Koogan S. A., 1998. MORENO, Guilherme. **Recreação 1000 com acessórios** . Rio de Janeiro: Sprint, 1999. SHARKEY, B. J. **Condicionamento físico e saúde** . 4. ed. Porto Alegre: ARTMED, 1998. WEINECK, Jürgen. **Biologia do esporte** . São Paulo: Manole, 2000. 
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
-
-## **IFPR – CÂMPUS PARANAVAÍ** 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
 |**IFPR – CÂMPUS PARANAVAÍ**|**IFPR – CÂMPUS PARANAVAÍ**|
 |---|---|
@@ -1377,127 +1239,113 @@ GUEDES, Dartagnan P. & Guedes, Joana E. R. P. **Controle de peso corporal** : co
 |**BIBLIOGRAFIA BÁSICA**<br>RAMOS, R. A. (Org.)**Ser Protagonista:**Língua Portuguesa, 1º ano: ensino médio. São<br>Paulo: Edições SM, 2013.<br>______.**Ser Protagonista:**Língua Portuguesa, 2º ano: ensino médio. São Paulo: Edições<br>SM, 2013.<br>______.**Ser Protagonista:**Língua Portuguesa, 3º ano: ensino médio. São Paulo: Edições<br>SM, 2013.<br>BECHARA, E.**Gramática Escolar da Língua Portuguesa**. 2. ed. Ampl. e Atual. pelo novo<br>Acordo Ortográfico. Rio de Janeiro: Nova Fronteira, 2010.<br>PATROCÍNIO, Mauro Ferreira do.**Aprender e Praticar Gramática**. São Paulo: FTD, 2011.<br>Vol. Único.||
 |**BIBLIOGRAFIA COMPLEMENTAR**<br>BERND, Zilá**. Introdução à literatura negra.**São Paulo: Brasiliense, 1988.<br>BORTONE, M. E.**Intertextualidade e Interdisciplinariedade.**Brasília: UnB. Disponível em:<br><http://aprender.unb.br/mod/book/print.php?id=616878>. Acesso em: 09 fev. 2008.<br>CAMPOS, M. I. B.; ASSUMPÇÃO, N.**Tantas Linguagens**. 1. ed. São Paulo: Scipione, 2007.<br>Vols. 1 e 2.<br>CEREJA, W. R.; MAGALHÃES, T. C.**Texto e interação**: uma proposta de produção textual<br>a partir de gêneros e projetos. São Paulo: Atual, 2000.<br>______.**Texto e interação**: uma proposta de produção textual a partir de gêneros e<br>projetos. São Paulo: Atual, 2005.<br>CHIAPINNI, L. (Coord.).**Aprender e ensinar com textos de alunos**. São Paulo: Cortez,<br>1997. Vol. 1.<br>DERRIDA, J.**A Farmácia de Platão**. Trad. Rogério da Costa. 3. ed. São Paulo: Iluminuras,<br>2005.<br>FARACO,C.A. & TEZZA,C.**Prática de Texto**:Língua Portuguesa para nossos estudantes.<br>Petrópolis:Vozes, 1992.<br>FARACO, Carlos Emílio; MOURA, F. M.**Gramática**. São Paulo: FTD, 1993.<br>FERREIRA,**Mauro. Aprender e Praticar Gramática**. ed. renov. São Paulo: FTD, 2010.<br>GERALDI, J. W.**Portos de Passagem**. 4. ed. São Paulo: Martins Fontes, 1997.||
 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
+Vários autores. **Dialogismo, Polifonia, Intertextualidade:** em torno de Bakhtin. BARROS, D. L. P.; FIORIN, J. L. (Orgs.). 2 ed. 1 reimpr. São Paulo: EDUSP, 2003. HALL, Stuart. **A identidade cultural na Pós-modernidade** . Rio de Janeiro: DP&A, 1999. KURY, A. G. **Novas lições de análise sintática** . São Paulo: Ática, 1998. KABENGELE, Munanga. **Origens africanas do Brasil contemporâneo: histórias, línguas, cultura e civilizações** . São Paulo: Global, 2009.
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-**==> picture [458 x 63] intentionally omitted <==**
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-Vários autores. **Dialogismo, Polifonia, Intertextualidade:** em torno de Bakhtin. BARROS, D. L. P.; FIORIN, J. L. (Orgs.). 2 ed. 1 reimpr. São Paulo: EDUSP, 2003. HALL, Stuart. **A identidade cultural na Pós-modernidade** . Rio de Janeiro: DP&A, 1999. KURY, A. G. **Novas lições de análise sintática** . São Paulo: Ática, 1998. KABENGELE, Munanga. **Origens africanas do Brasil contemporâneo: histórias, línguas, cultura e civilizações** . São Paulo: Global, 2009. 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Matemática II **Carga Horária (hora aula)** : 120 **Carga Horária (hora aula)** : 120
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+## **EMENTA**
 
-**==> picture [458 x 63] intentionally omitted <==**
+Função Modular. Função exponencial. Função logarítmica. Relações trigonométricas no triângulo retângulo. Triângulos quaisquer. Circunferência trigonométrica: seno e cosseno. Tangente e outras razões trigonométricas. Adição de arco e arco duplo. Funções trigonométricas. Matemática Financeira (Juros Simples e Compostos). Introdução à estatística (Medidas de tendência central).
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+## **METODOLOGIA**
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Matemática II **Carga Horária (hora aula)** : 120 **Carga Horária (hora aula)** : 120 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo; Resolução de problemas; Atividade interdisciplinar em sala de aula.
 
-## **EMENTA** 
+## **METODOLOGIA**
 
-Função Modular. Função exponencial. Função logarítmica. Relações trigonométricas no triângulo retângulo. Triângulos quaisquer. Circunferência trigonométrica: seno e cosseno. Tangente e outras razões trigonométricas. Adição de arco e arco duplo. Funções trigonométricas. Matemática Financeira (Juros Simples e Compostos). Introdução à estatística (Medidas de tendência central). 
+Ex: aulas expositivas, com a utilização de: experimentos, vídeos, áudios; pesquisa individual ou em grupo e resolução de problemas.
 
-## **METODOLOGIA** 
+## **BIBLIOGRAFIA BÁSICA**
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo; Resolução de problemas; Atividade interdisciplinar em sala de aula. 
+DANTE, Luis Roberto. **Matemática** : Contexto e Aplicações. 4. ed. São Paulo: Ática, 2010. Vols. 1 e 2.
 
-## **METODOLOGIA** 
+FACCHINI, W. **Matemática** : para a escola de hoje. São Paulo: FTD, 2006. PAIVA, M. **Matemática** . São Paulo: Editora Moderna, 2005. Souza, J. **Novo Olhar Matemática.** 2. Ed. São Paulo: FTD, 2013. Vols.1 e 2.
 
-Ex: aulas expositivas, com a utilização de: experimentos, vídeos, áudios; pesquisa individual ou em grupo e resolução de problemas. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-## **BIBLIOGRAFIA BÁSICA** 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-DANTE, Luis Roberto. **Matemática** : Contexto e Aplicações. 4. ed. São Paulo: Ática, 2010. Vols. 1 e 2. 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais
 
-FACCHINI, W. **Matemática** : para a escola de hoje. São Paulo: FTD, 2006. PAIVA, M. **Matemática** . São Paulo: Editora Moderna, 2005. Souza, J. **Novo Olhar Matemática.** 2. Ed. São Paulo: FTD, 2013. Vols.1 e 2. 
+**Componente Curricular** : Biologia II
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+**Carga Horária (hora aula)** : 80 **Período Letivo** : 2º ano
 
-**==> picture [458 x 63] intentionally omitted <==**
+## **EMENTA**
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+Nomenclatura Científica. Classificação dos Seres Vivos. Vírus. Eubactérias, Arqueas, Protoctista, Fungi, Metaphyta, Metazoa.
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais 
+## **METODOLOGIA**
 
-**Componente Curricular** : Biologia II 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Resolução de problemas; Atividade interdisciplinar em laboratório ou sala de aula.
 
-**Carga Horária (hora aula)** : 80 **Período Letivo** : 2º ano 
+## **BIBLIOGRAFIA BÁSICA**
 
-## **EMENTA** 
+AMABIS, J.M.; MARTHO, G.R. **Fundamentos da Biologia Moderna** . 4. ed. São Paulo: Moderna, 2011. AMABIS, J.M.; MARTHO, G.R. **Biologia das células** . 2. ed. São Paulo: Moderna, 2005. Vol. 1. AMABIS, J.M.; MARTHO, G.R. **Biologia dos organismos** . 2. ed. São Paulo: Moderna, 2004. Vol. 2. AMABIS, J.M.; MARTHO, G.R. **Biologia das populações** . 1. ed. São Paulo: Moderna, 2005. Vol. 3. LINHARES, S., GEWANDSZNAJDER, F. **Biologia hoje** : citologia, histologia e origem da vida. São Paulo: Ática, 2002. Vol. 1. LINHARES, S., GEWANDSZNAJDER, F. **Biologia hoje** : os seres vivos. São Paulo: Ática, 2000. Vol. 2. LINHARES, S., GEWANDSZNAJDER, F. **Biologia hoje** : genética, evolução e ecologia. São Paulo: Ática, 2002. Vol. 3.
 
-Nomenclatura Científica. Classificação dos Seres Vivos. Vírus. Eubactérias, Arqueas, Protoctista, Fungi, Metaphyta, Metazoa. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-## **METODOLOGIA** 
+LOPES, S.; ROSSO, S. **Bio** . 2. ed. São Paulo: Saraiva, 2010. Vol. 1. LOPES, S.; ROSSO, S. **Bio** . 1. ed. São Paulo: Saraiva, 2006. Vol. 2. LOPES, S.; ROSSO, S. **Bio** . 1. ed. São Paulo: Saraiva, 2006. Vol. 3.
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Resolução de problemas; Atividade interdisciplinar em laboratório ou sala de aula. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-## **BIBLIOGRAFIA BÁSICA** 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-AMABIS, J.M.; MARTHO, G.R. **Fundamentos da Biologia Moderna** . 4. ed. São Paulo: Moderna, 2011. AMABIS, J.M.; MARTHO, G.R. **Biologia das células** . 2. ed. São Paulo: Moderna, 2005. Vol. 1. AMABIS, J.M.; MARTHO, G.R. **Biologia dos organismos** . 2. ed. São Paulo: Moderna, 2004. Vol. 2. AMABIS, J.M.; MARTHO, G.R. **Biologia das populações** . 1. ed. São Paulo: Moderna, 2005. Vol. 3. LINHARES, S., GEWANDSZNAJDER, F. **Biologia hoje** : citologia, histologia e origem da vida. São Paulo: Ática, 2002. Vol. 1. LINHARES, S., GEWANDSZNAJDER, F. **Biologia hoje** : os seres vivos. São Paulo: Ática, 2000. Vol. 2. LINHARES, S., GEWANDSZNAJDER, F. **Biologia hoje** : genética, evolução e ecologia. São Paulo: Ática, 2002. Vol. 3. 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+**Componente Curricular** : Química II **Carga Horária (hora aula)** : 80 **Período Letivo** : 2º ano
 
-LOPES, S.; ROSSO, S. **Bio** . 2. ed. São Paulo: Saraiva, 2010. Vol. 1. LOPES, S.; ROSSO, S. **Bio** . 1. ed. São Paulo: Saraiva, 2006. Vol. 2. LOPES, S.; ROSSO, S. **Bio** . 1. ed. São Paulo: Saraiva, 2006. Vol. 3. 
+## **EMENTA**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+Estudo dos Gases. Soluções. Propriedades Coligativas. Termoquímica. Cinética Química. Equilíbrio Químico. Eletroquímica.
 
-**==> picture [458 x 63] intentionally omitted <==**
+## **METODOLOGIA**
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Resolução de problemas; Análise e discussão de casos ou artigos; Atividade interdisciplinar em laboratório ou sala de aula.
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais 
+## **BIBLIOGRAFIA BÁSICA**
 
-**Componente Curricular** : Química II **Carga Horária (hora aula)** : 80 **Período Letivo** : 2º ano 
+FELTRE, R. **Química** . 6. ed. São Paulo: Moderna, 2004. REIS, M. **Completamente química** – Química Geral. São Paulo: FTD, 2001. PERUZZO, T.M. & CANTO, E.L. **Química** . São Paulo: Editora Moderna, 1999.
 
-## **EMENTA** 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-Estudo dos Gases. Soluções. Propriedades Coligativas. Termoquímica. Cinética Química. Equilíbrio Químico. Eletroquímica. 
+COVRE, G.J. **Química** : o homem e a natureza. São Paulo: FTD, 2000. LEMBO, A. **Química realidade e contexto** . 3. ed. São Paulo: Ática, 2004. USBERCO, J. & SALVADOR, E. **Química** . 5. ed. São Paulo: Saraiva, 2002. SANTOS, W.L.P.; MÓL, G. S. **Química e Sociedade** . São Paulo: Nova Geração, 2010 MORITA. **Manual de Soluções, Reagentes e Solventes** . 5. ed. São Paulo: Edgard Blucher, 1972, 1983.
 
-## **METODOLOGIA** 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Resolução de problemas; Análise e discussão de casos ou artigos; Atividade interdisciplinar em laboratório ou sala de aula. 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-## **BIBLIOGRAFIA BÁSICA** 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Filosofia II **Carga Horária (hora aula)** : 40 **Período Letivo** : 2º ano
 
-FELTRE, R. **Química** . 6. ed. São Paulo: Moderna, 2004. REIS, M. **Completamente química** – Química Geral. São Paulo: FTD, 2001. PERUZZO, T.M. & CANTO, E.L. **Química** . São Paulo: Editora Moderna, 1999. 
+## **EMENTA**
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+Ética e moral: contextualização histórica da construção da reflexão ética. Ética e moral: conceituações. Pluralidade ética: eudaemonista, hedonista, cristã, etc. Ética e violência: os problemas da alteridade e das virtudes. Razão, desejo e vontade: o conflito entre alma racional e alma irracional em Platão e a estrutura da ética aristotélica (“Ética a Nicômacos”). O problema da Liberdade: conceituações de sujeito e autonomia e a necessidade das normas para o convívio social. Filosofia política: O problema do poder: o estado e o enfrentamento da violência; Liberdade e igualdade política: liberdade e liberalidade; Política e ideologia: liberalismo (neoliberalismo), republicanismo, socialismo, marxismo, as relações políticas e econômicas no contexto do mundo globalizado.  Esfera pública e privada: conceituações; concepções políticas: grega, medieval, renascentista, moderna e contemporânea.
 
-COVRE, G.J. **Química** : o homem e a natureza. São Paulo: FTD, 2000. LEMBO, A. **Química realidade e contexto** . 3. ed. São Paulo: Ática, 2004. USBERCO, J. & SALVADOR, E. **Química** . 5. ed. São Paulo: Saraiva, 2002. SANTOS, W.L.P.; MÓL, G. S. **Química e Sociedade** . São Paulo: Nova Geração, 2010 MORITA. **Manual de Soluções, Reagentes e Solventes** . 5. ed. São Paulo: Edgard Blucher, 1972, 1983. 
+## **METODOLOGIA**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Atividade interdisciplinar em sala de aula.
 
-**==> picture [458 x 63] intentionally omitted <==**
+## **BIBLIOGRAFIA BÁSICA**
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+ARANHA, Maria Lúcia de Arruda; MARTINS, Maria Helena Pires. **Filosofando** _:_ Introdução à Filosofia. 4. ed. São Paulo: Moderna, 2009. CHAUÍ, Marilena. **Iniciação à filosofia** _:_ ensino médio. São Paulo: Ática, 2010. MARCONDES, Danilo. **Textos básicos de filosofia** _:_ dos pré-socráticos a Wittgenstein. 6. ed. Rio de Janeiro: Jorge Zahar Ed., 2009.
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Filosofia II **Carga Horária (hora aula)** : 40 **Período Letivo** : 2º ano 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-## **EMENTA** 
+COTRIM, Gilberto; FERNANDES, Mirna. **Fundamentos de Filosofia** _._ São Paulo: Saraiva, 2010. DELEUZE, Gilles; GUATTARI, Félix. **O que é a Filosofia?** Trad. Bento Prado Jr. e Alberto Alonso Muñoz. Rio de Janeiro: Ed. 34, 1992.
 
-Ética e moral: contextualização histórica da construção da reflexão ética. Ética e moral: conceituações. Pluralidade ética: eudaemonista, hedonista, cristã, etc. Ética e violência: os problemas da alteridade e das virtudes. Razão, desejo e vontade: o conflito entre alma racional e alma irracional em Platão e a estrutura da ética aristotélica (“Ética a Nicômacos”). O problema da Liberdade: conceituações de sujeito e autonomia e a necessidade das normas para o convívio social. Filosofia política: O problema do poder: o estado e o enfrentamento da violência; Liberdade e igualdade política: liberdade e liberalidade; Política e ideologia: liberalismo (neoliberalismo), republicanismo, socialismo, marxismo, as relações políticas e econômicas no contexto do mundo globalizado.  Esfera pública e privada: conceituações; concepções políticas: grega, medieval, renascentista, moderna e contemporânea. 
+KENNY, Anthony. **Uma nova história da Filosofia Ocidental** . trad. Carlos Alberto Bárbaro. São Paulo: Edições Loyola, 2009. Vols. I a IV. MARÇAL, Jairo (Org.). **Antologia de Textos Filosóficos** . Curitiba: SEED-PR, 2009. MARCONDES, Danilo. **Textos básicos de ética** _:_ de Platão a Foucault. 4. ed. Rio de Janeiro: Jorge Zahar Ed., 2009.
 
-## **METODOLOGIA** 
+REALE, Giovanni; ANTISERI, Dario. **História da Filosofia** _._ São Paulo: Paulus, 1990. Vols. 1 a 3. LAPORTE, Ana Maria et al. **Para filosofar** . São Paulo: Scipione, 2000.
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Atividade interdisciplinar em sala de aula. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-## **BIBLIOGRAFIA BÁSICA** 
-
-ARANHA, Maria Lúcia de Arruda; MARTINS, Maria Helena Pires. **Filosofando** _:_ Introdução à Filosofia. 4. ed. São Paulo: Moderna, 2009. CHAUÍ, Marilena. **Iniciação à filosofia** _:_ ensino médio. São Paulo: Ática, 2010. MARCONDES, Danilo. **Textos básicos de filosofia** _:_ dos pré-socráticos a Wittgenstein. 6. ed. Rio de Janeiro: Jorge Zahar Ed., 2009. 
-
-## **BIBLIOGRAFIA COMPLEMENTAR** 
-
-COTRIM, Gilberto; FERNANDES, Mirna. **Fundamentos de Filosofia** _._ São Paulo: Saraiva, 2010. DELEUZE, Gilles; GUATTARI, Félix. **O que é a Filosofia?** Trad. Bento Prado Jr. e Alberto Alonso Muñoz. Rio de Janeiro: Ed. 34, 1992. 
-
-KENNY, Anthony. **Uma nova história da Filosofia Ocidental** . trad. Carlos Alberto Bárbaro. São Paulo: Edições Loyola, 2009. Vols. I a IV. MARÇAL, Jairo (Org.). **Antologia de Textos Filosóficos** . Curitiba: SEED-PR, 2009. MARCONDES, Danilo. **Textos básicos de ética** _:_ de Platão a Foucault. 4. ed. Rio de Janeiro: Jorge Zahar Ed., 2009. 
-
-REALE, Giovanni; ANTISERI, Dario. **História da Filosofia** _._ São Paulo: Paulus, 1990. Vols. 1 a 3. LAPORTE, Ana Maria et al. **Para filosofar** . São Paulo: Scipione, 2000. 
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
-
-## **IFPR – CÂMPUS PARANAVAÍ** 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
 |**IFPR – CÂMPUS PARANAVAÍ**|**IFPR – CÂMPUS PARANAVAÍ**|
 |---|---|
@@ -1509,15 +1357,11 @@ REALE, Giovanni; ANTISERI, Dario. **História da Filosofia** _._ São Paulo: Pau
 |**BIBLIOGRAFIA BÁSICA**<br>ARAÚJO, Silvia Maria de; BRIDI, Maria Aparecida; MOTIM, Benilde Lenzi.**Sociologia**. São<br>Paulo: scipione, 2013.<br>OLIVEIRA, Luiz Fernandes; COSTA, Ricardo Cesar Rocha.**Sociologia Para Jovens do**<br>**Século XXI**. 3. ed. Rio de Janeiro: Imperial Novo Milênio, 2013.<br>TOMAZI, Nelson Dacio.**Sociologia para o Ensino Médio**. São Paulo: Saraiva, 2010.<br>.||
 |**BIBLIOGRAFIA COMPLEMENTAR**<br>BAUMAN, Zygmunt.**Modernidade líquida**. Editora Zahar, 2001.<br>BOBBIO, Norberto.**Dicionário de política**. Norberto Bobbio, Nicola Matteucci e Gianfranco<br>Pasquino. Trad. Carmem C., Varrialeet ai.coord. trad. João Ferreira; rev. geral João Ferreira<br>e Luis Guerreiro Pinto Cacais. Brasília: Editora Universidade de Brasília, 1998. Vários<br>Colaboradores. Obra em 2v.<br>BOUDON, Raymond; BOURRICAUD, François.**Dicionário crítico de Sociologia**. Editora<br>Ática, 2000.<br>FREYRE, Gilberto.**Casa-grande e Senzala**. São Paulo: Editora Global, 2003.<br>GIDDENS, Anthony.**Sociologia**. Porto Alegre: Editora Artmed, 2005.<br>QUINTANEIRO, Tânia et. al.**Um Toque de Clássicos**: Durkheim, Marx e Weber. Belo<br>Horizonte: Ed. da UFMG, 1996.<br>SCOTT, John.**50 sociólogos fundamentais**. São Paulo: Editora Contexto, 2007.||
 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
-
-## **IFPR – CÂMPUS PARANAVAÍ** 
-
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais
 
 |**IFPR – CÂMPUS PARANAVAÍ**|**IFPR – CÂMPUS PARANAVAÍ**|
 |---|---|
@@ -1530,173 +1374,155 @@ REALE, Giovanni; ANTISERI, Dario. **História da Filosofia** _._ São Paulo: Pau
 |**BIBLIOGRAFIA BÁSICA**<br>ALMEIDA, Lúcia Marina e RIGOLIN, Tércio Barbosa.**Geografia Geral e do Brasil**. São<br>Paulo: Ática, 2009.<br>MAGNOLI, Demétrio e ARAÚJO, Regina.**Geografia**: A construção do mundo. São Paulo:<br>Moderna, 2005.<br>MOREIRA, João Carlos e SENE, Eustáquio de.**Geografia Geral e do Brasil**: Espaço<br>geográfico e globalização. São Paulo: Scipione, 2009.<br>TERRA, Lygia e COELHO, Marcos de Amorim.**Geografia Geral e do Brasil**: O espaço<br>natural e socioeconômico. São Paulo: Moderna, 2005.||
 |**BIBLIOGRAFIA COMPLEMENTAR**<br>BOLIGIAN, Levon; ALVES, Andressa.**Geografia**: Espaço e Vivência. São Paulo: Atual,<br>2004.<br>GARCIA, Hélio Carlos; GARAVELLO, Tito Márcio.**Geografia**: De olho no mundo de<br>trabalho. São Paulo: Scipione, 2006.<br>MOREIRA, Igor.**O Espaço Geográfico**: Geografia Geral e do Brasil. 47. ed. São Paulo:<br>Ática, 2003.<br>TAMDJIAN, James O.; MENDES, Ivan L.**Geografia Geral e do Brasil**– Estudos para a<br>compreensão do espaço. São Paulo: FTD, 2004.||
 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais
 
-**==> picture [458 x 63] intentionally omitted <==**
+**Componente Curricular** : História II **Carga Horária (hora aula)** : 40 **Período Letivo** : 2º ano
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+## **EMENTA**
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais 
+A Ásia durante o período medieval. O mundo árabe e o Império Islâmico. Os reinos africanos. O Império Bizantino. A Europa medieval e o Império Carolíngio. O mundo feudal. Igreja e poder. O renascimento comercial e urbano. Cultura e sociedade dos povos nativos americanos e africanos.
 
-**Componente Curricular** : História II **Carga Horária (hora aula)** : 40 **Período Letivo** : 2º ano 
+## **METODOLOGIA**
 
-## **EMENTA** 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Atividade interdisciplinar em sala de aula.
 
-A Ásia durante o período medieval. O mundo árabe e o Império Islâmico. Os reinos africanos. O Império Bizantino. A Europa medieval e o Império Carolíngio. O mundo feudal. Igreja e poder. O renascimento comercial e urbano. Cultura e sociedade dos povos nativos americanos e africanos. 
+## **BIBLIOGRAFIA BÁSICA**
 
-## **METODOLOGIA** 
+OJEDA, E. A. B. & PETTA, N. L. de. **História** : uma abordagem integrada. 2. ed. São Paulo: Editora Moderna, s/d.
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Atividade interdisciplinar em sala de aula. 
+SERIACOPI, G. C. A. & SERIACOPI, R. **História** . Volume único, 1. ed. São Paulo: Ática, 2005.
 
-## **BIBLIOGRAFIA BÁSICA** 
+VICENTINO, C. & DORIGO, G. **História Geral e do Brasil** . Volume 1. São Paulo: Scipione, 2010.
 
-OJEDA, E. A. B. & PETTA, N. L. de. **História** : uma abordagem integrada. 2. ed. São Paulo: Editora Moderna, s/d. 
+______. **História geral e do Brasil** . Volume 2. São Paulo: Scipione, 2010. ______. **História Geral e do Brasil** . Volume 3. São Paulo: Scipione, 2010.
 
-SERIACOPI, G. C. A. & SERIACOPI, R. **História** . Volume único, 1. ed. São Paulo: Ática, 2005. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-VICENTINO, C. & DORIGO, G. **História Geral e do Brasil** . Volume 1. São Paulo: Scipione, 2010. 
+ALVES, A. & OLIVEIRA, L. F. de. **Conexões com a história** : das origens do homem à conquista do novo mundo. São Paulo: Editora Moderna, 2010. Vol. 1.
 
-______. **História geral e do Brasil** . Volume 2. São Paulo: Scipione, 2010. ______. **História Geral e do Brasil** . Volume 3. São Paulo: Scipione, 2010. 
+______. **Conexões com a história** : da colonização da América ao século XIX. São Paulo: Editora Moderna, 2010. Vol. 2.
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+______. **Conexões com a história** : da expansão imperialista aos dias atuais. São Paulo: Scipione, 2010. Vol. 3. ARRUDA, J. J. **Toda a História** . São Paulo: Ática, 2004. TEIXEIRA, F M. P. **Brasil, História e Sociedade** . São Paulo, Ática, 2001.
 
-ALVES, A. & OLIVEIRA, L. F. de. **Conexões com a história** : das origens do homem à conquista do novo mundo. São Paulo: Editora Moderna, 2010. Vol. 1. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-______. **Conexões com a história** : da colonização da América ao século XIX. São Paulo: Editora Moderna, 2010. Vol. 2. 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-______. **Conexões com a história** : da expansão imperialista aos dias atuais. São Paulo: Scipione, 2010. Vol. 3. ARRUDA, J. J. **Toda a História** . São Paulo: Ática, 2004. TEIXEIRA, F M. P. **Brasil, História e Sociedade** . São Paulo, Ática, 2001. 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Artes II **Carga Horária (hora aula)** : 40 **Período Letivo** : 2º ano
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+## **EMENTA**
 
-**==> picture [458 x 63] intentionally omitted <==**
+Impressionismo. Dadaísmo. Expressionismo. Cubismo. Surrealismo. Abstracionismo. Futurismo. Fauvismo. Movimento Modernista no Brasil. Tropicália. Manguebeat. Arte contemporânea: música, teatro e Artes visuais. Cultura indígena e afro-brasileira. A Arte na América Latina.
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+## **METODOLOGIA**
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Artes II **Carga Horária (hora aula)** : 40 **Período Letivo** : 2º ano 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Atividade interdisciplinar em sala de aula.
 
-## **EMENTA** 
+## **BIBLIOGRAFIA BÁSICA**
 
-Impressionismo. Dadaísmo. Expressionismo. Cubismo. Surrealismo. Abstracionismo. Futurismo. Fauvismo. Movimento Modernista no Brasil. Tropicália. Manguebeat. Arte contemporânea: música, teatro e Artes visuais. Cultura indígena e afro-brasileira. A Arte na América Latina. 
+BENNETT, Roy. **Uma breve história da música** . Rio de Janeiro: Zahar, 1986. BOZZANO, H. B.; FRENDA, P.; GUSMÃO, T. C.. **Arte em interação** . Livro didático para o Ensino médio. IBEP, 1ª Edição,São Paulo, 2013 CALABRIA, C.P. **Arte Ocidental** . São Paulo: FTD, 2004. COLL, César e TEBEROSKY, Ana. **Aprendendo arte** . São Paulo: Ática, 2000. IVALBERG, Rosa. **Para gostar de aprender arte** : sala de sula e formação de professores. Porto Alegre: ARTMED, 2003. PROENÇA, Graça. **História da Arte** . São Paulo: Ática, 2000. PROENÇA, Graça. **Descobrindo a História da Arte** . São Paulo: Ática, 2005. STRICKLAND, Carol. **Arte Comentada: da Pré-história ao Pós-moderno** . Rio de Janeiro: Ediouro, 2004.
 
-## **METODOLOGIA** 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Atividade interdisciplinar em sala de aula. 
+GASSET, Jorge Ortega Y. **Ensaios de Estética** : Monalisa, Três quadros do Vinho e Velazquéz. São Paulo: Cortez, 2011. GOMBRICH, E. H. **A História da Arte** . 16. ed. São Paulo: LCT, 2000. KINDERSLEY, DORLING. **Grandes pinturas** . Tradução de Maria da Anunciação Rodrigues. São Paulo: Publifolha, 2012. LIMA, Renata. **Tetos do Brasil** . São Paulo: Babel Editora, 2011. SANTAELLA, Lucia. P **or que as comunicações e as artes estão convergindo?** São Paulo: Paulus, 2007. SCHAFER, Murray. **O ouvido pensante** . 4ª ed. São Paulo: Ed. UNESP, 1991.
 
-## **BIBLIOGRAFIA BÁSICA** 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-BENNETT, Roy. **Uma breve história da música** . Rio de Janeiro: Zahar, 1986. BOZZANO, H. B.; FRENDA, P.; GUSMÃO, T. C.. **Arte em interação** . Livro didático para o Ensino médio. IBEP, 1ª Edição,São Paulo, 2013 CALABRIA, C.P. **Arte Ocidental** . São Paulo: FTD, 2004. COLL, César e TEBEROSKY, Ana. **Aprendendo arte** . São Paulo: Ática, 2000. IVALBERG, Rosa. **Para gostar de aprender arte** : sala de sula e formação de professores. Porto Alegre: ARTMED, 2003. PROENÇA, Graça. **História da Arte** . São Paulo: Ática, 2000. PROENÇA, Graça. **Descobrindo a História da Arte** . São Paulo: Ática, 2005. STRICKLAND, Carol. **Arte Comentada: da Pré-história ao Pós-moderno** . Rio de Janeiro: Ediouro, 2004. 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Língua Estrangeira Moderna – Inglês I **Carga Horária (hora aula)** : 80 **Período Letivo** : 2º ano
 
-GASSET, Jorge Ortega Y. **Ensaios de Estética** : Monalisa, Três quadros do Vinho e Velazquéz. São Paulo: Cortez, 2011. GOMBRICH, E. H. **A História da Arte** . 16. ed. São Paulo: LCT, 2000. KINDERSLEY, DORLING. **Grandes pinturas** . Tradução de Maria da Anunciação Rodrigues. São Paulo: Publifolha, 2012. LIMA, Renata. **Tetos do Brasil** . São Paulo: Babel Editora, 2011. SANTAELLA, Lucia. P **or que as comunicações e as artes estão convergindo?** São Paulo: Paulus, 2007. SCHAFER, Murray. **O ouvido pensante** . 4ª ed. São Paulo: Ed. UNESP, 1991. 
+## **EMENTA**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+Interpretação e tradução de textos em inglês para a língua portuguesa e vice versa. Manuseamento de dicionário bilíngue inglês-português. Identificação da estrutura e os tempos verbais: presente, passado, futuro e imperativo. “Wh-questions”. Pronomes. Vocabulário a partir dos textos. Falso cognatos. Forma possessiva. Artigo indefinido. Grupos nominais.
 
-**==> picture [458 x 63] intentionally omitted <==**
+## **METODOLOGIA**
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Resolução atividades.
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Língua Estrangeira Moderna – Inglês I **Carga Horária (hora aula)** : 80 **Período Letivo** : 2º ano 
+## **BIBLIOGRAFIA BÁSICA**
 
-## **EMENTA** 
+BRASIL. **Parâmetros Curriculares Nacionais** . Brasília: MEC/SEF. AUN, E.; MORAES, M. C. P.; SANSANOVICZ, N. B. **English for all.** 1 ed. São Paulo: Saraiva, 2010. Vol. 1 e 2. MUNHOZ, R. **Inglês instrumental:** estratégias de leitura: módulo I. São Paulo: Textonovo, 2000. URPHY, R. **English Grammar in Use.** 2. ed. Cambridge, 1994. MARQUES, A. **Dicionário inglês português – português-inglês.** São Paulo: Ática. Oxford Advanced Dictionary. 6. ed. Oxford, 2003.
 
-Interpretação e tradução de textos em inglês para a língua portuguesa e vice versa. Manuseamento de dicionário bilíngue inglês-português. Identificação da estrutura e os tempos verbais: presente, passado, futuro e imperativo. “Wh-questions”. Pronomes. Vocabulário a partir dos textos. Falso cognatos. Forma possessiva. Artigo indefinido. Grupos nominais. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-## **METODOLOGIA** 
+GALLO, L. **Inglês para informática** : módulo I **.** 2 ed. São Paulo: Ícone, 2011. MARQUES, A. **Dicionário inglês português** – português-inglês. São Paulo: Ática. Oxford Advanced Dictionary. 6. ed. Oxford, 2003. MURPHY. R. English Grammar in Use. Cambridge. Uk. 1997. RICHARDS, J.C. **Interchange Intro** . 3. ed. Editora Cambridge. RICHARDS,J.C. **New interchange – English for International Comunication.** 13. ed. Cambridge, 1997.
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Resolução atividades. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-## **BIBLIOGRAFIA BÁSICA** 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-BRASIL. **Parâmetros Curriculares Nacionais** . Brasília: MEC/SEF. AUN, E.; MORAES, M. C. P.; SANSANOVICZ, N. B. **English for all.** 1 ed. São Paulo: Saraiva, 2010. Vol. 1 e 2. MUNHOZ, R. **Inglês instrumental:** estratégias de leitura: módulo I. São Paulo: Textonovo, 2000. URPHY, R. **English Grammar in Use.** 2. ed. Cambridge, 1994. MARQUES, A. **Dicionário inglês português – português-inglês.** São Paulo: Ática. Oxford Advanced Dictionary. 6. ed. Oxford, 2003. 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+**Componente Curricular** : Física II **Carga Horária (hora aula)** : 80 **Período Letivo** : 2º ano
 
-GALLO, L. **Inglês para informática** : módulo I **.** 2 ed. São Paulo: Ícone, 2011. MARQUES, A. **Dicionário inglês português** – português-inglês. São Paulo: Ática. Oxford Advanced Dictionary. 6. ed. Oxford, 2003. MURPHY. R. English Grammar in Use. Cambridge. Uk. 1997. RICHARDS, J.C. **Interchange Intro** . 3. ed. Editora Cambridge. RICHARDS,J.C. **New interchange – English for International Comunication.** 13. ed. Cambridge, 1997. 
+## **EMENTA**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+Estática dos fluídos. Termologia. Ondulatória. Ótica geométrica.
 
-**==> picture [458 x 63] intentionally omitted <==**
+## **METODOLOGIA**
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula.
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais 
+## **BIBLIOGRAFIA BÁSICA**
 
-**Componente Curricular** : Física II **Carga Horária (hora aula)** : 80 **Período Letivo** : 2º ano 
+ALVARENGA, B.; MÁXIMO, A. **Curso de Física** . São Paulo: Scipione, 2000. DOCA, R. H. _et al._ **Universo da Física** . 18. ed. Reformulada. São Paulo: Saraiva, 2001. GASPAR, A. **Física.** São Paulo: Ática, 2003.
 
-## **EMENTA** 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-Estática dos fluídos. Termologia. Ondulatória. Ótica geométrica. 
+PARANÁ, D. **Física** . 5. ed. São Paulo: Ática, 2000. RAMALHO,F. _et al._ **Física** . 8. ed. São Paulo: Moderna, 2004. BISCUOLA, G. et al. **Tópicos de Física** . São Paulo: Saraiva, 2007.
 
-## **METODOLOGIA** 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula. 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-## **BIBLIOGRAFIA BÁSICA** 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais
 
-ALVARENGA, B.; MÁXIMO, A. **Curso de Física** . São Paulo: Scipione, 2000. DOCA, R. H. _et al._ **Universo da Física** . 18. ed. Reformulada. São Paulo: Saraiva, 2001. GASPAR, A. **Física.** São Paulo: Ática, 2003. 
+**Componente Curricular** : Educação Física II **Carga Horária (hora aula)** : 80 **Período Letivo** : 2º ano
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+## **EMENTA**
 
-PARANÁ, D. **Física** . 5. ed. São Paulo: Ática, 2000. RAMALHO,F. _et al._ **Física** . 8. ed. São Paulo: Moderna, 2004. BISCUOLA, G. et al. **Tópicos de Física** . São Paulo: Saraiva, 2007. 
+Esportes individuais. Esportes coletivos. Recreação e lazer. Benefícios da atividade física. Hábitos alimentares e atividade física. Estilo de vida ativo, longevidade e saúde.
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+## **METODOLOGIA**
 
-**==> picture [458 x 63] intentionally omitted <==**
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Atividades dirigidas; Atividade interdisciplinar em sala de aula.
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+## **BIBLIOGRAFIA BÁSICA**
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais 
+ANDERSON, Bob. **Alongue-se no trabalho** . São Paulo: Summus, 1998. BARBANTI, Valdir José. **Aptidão física** : um convite à saúde. São Paulo: Manole Dois, 1990. BARROS NETO, Turibio Leite de. **Exercício, saúde e desempenho físico** . São Paulo: Atheneu, 1997. 70p. COSTA, Roberto F. da. **Composição corporal: teoria e prática da avaliação** . São Paulo: Editora Manole Ltda, 2001. Dantas, Estélio A. M. **Flexibilidade** : alongamento e flexionamento. 4. ed. Rio de Janeiro: Shape Editora Ltda, 1999. FOX, Edward L. et all. **Bases fisiológicas do exercício e do esporte** . 6. ed. Rio de Janeiro: Guanabara Koogan, 2000. 560 p.
 
-**Componente Curricular** : Educação Física II **Carga Horária (hora aula)** : 80 **Período Letivo** : 2º ano 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-## **EMENTA** 
+GUEDES, Dartagnan P.; Guedes, Joana E. R. P. **Controle de peso corporal** : composição corporal, atividade física e nutrição. Londrina: Editora Midiograf, 1998. MCARDLE, William D. **Fisiologia do exercício** : energia, nutrição e desempenho. 4. ed. Rio de Janeiro: Editora Guanabara Koogan S. A., 1998. MORENO, Guilherme. **Recreação 1000 com acessórios** . Rio de Janeiro: Sprint, 1999. SHARKEY, B. J. **Condicionamento físico e saúde** . 4. ed. Porto Alegre: ARTMED, 1998. WEINECK, Jürgen. **Biologia do esporte** . São Paulo: Manole, 2000.
 
-Esportes individuais. Esportes coletivos. Recreação e lazer. Benefícios da atividade física. Hábitos alimentares e atividade física. Estilo de vida ativo, longevidade e saúde. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-## **METODOLOGIA** 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Atividades dirigidas; Atividade interdisciplinar em sala de aula. 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Língua Portuguesa e Literatura Brasileira III **Carga Horária (hora aula)** : 80 **Período Letivo** : 3º ano **EMENTA**
 
-## **BIBLIOGRAFIA BÁSICA** 
+Estudo do discurso, resultado da interação entre interlocutores em contexto sóciohistoricamente determinado, a partir dos gêneros discursivos como unidade básica de trabalho. Reflexões sobre os aspetos caracterizadores da formação cultural brasileira. Estudo crítico de textos literários na abordagem de temáticas relacionadas à cultura afrobrasileira e indígena.
 
-ANDERSON, Bob. **Alongue-se no trabalho** . São Paulo: Summus, 1998. BARBANTI, Valdir José. **Aptidão física** : um convite à saúde. São Paulo: Manole Dois, 1990. BARROS NETO, Turibio Leite de. **Exercício, saúde e desempenho físico** . São Paulo: Atheneu, 1997. 70p. COSTA, Roberto F. da. **Composição corporal: teoria e prática da avaliação** . São Paulo: Editora Manole Ltda, 2001. Dantas, Estélio A. M. **Flexibilidade** : alongamento e flexionamento. 4. ed. Rio de Janeiro: Shape Editora Ltda, 1999. FOX, Edward L. et all. **Bases fisiológicas do exercício e do esporte** . 6. ed. Rio de Janeiro: Guanabara Koogan, 2000. 560 p. 
+**METODOLOGIA** Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em sala de aula.
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+**BIBLIOGRAFIA BÁSICA** RAMOS, R. A. (Org.). **Ser Protagonista:** Língua Portuguesa, 1º ano: ensino médio. São Paulo: Edições SM, 2013. ______. **Ser Protagonista:** Língua Portuguesa, 2º ano: ensino médio. São Paulo: Edições SM, 2013. ______. **Ser Protagonista:** Língua Portuguesa, 3º ano: ensino médio. São Paulo: Edições SM, 2013. BECHARA, E. **Gramática Escolar da Língua Portuguesa** . 2. ed. Ampl. e Atual. pelo novo Acordo Ortográfico. Rio de Janeiro: Nova Fronteira, 2010. PATROCÍNIO, Mauro Ferreira do. **Aprender e Praticar Gramática** . São Paulo: FTD, 2011. Vol. Único.
 
-GUEDES, Dartagnan P.; Guedes, Joana E. R. P. **Controle de peso corporal** : composição corporal, atividade física e nutrição. Londrina: Editora Midiograf, 1998. MCARDLE, William D. **Fisiologia do exercício** : energia, nutrição e desempenho. 4. ed. Rio de Janeiro: Editora Guanabara Koogan S. A., 1998. MORENO, Guilherme. **Recreação 1000 com acessórios** . Rio de Janeiro: Sprint, 1999. SHARKEY, B. J. **Condicionamento físico e saúde** . 4. ed. Porto Alegre: ARTMED, 1998. WEINECK, Jürgen. **Biologia do esporte** . São Paulo: Manole, 2000. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+BERND, Zilá. **Introdução à literatura negra** . São Paulo: Brasiliense, 1988. BORTONE, M. E. **Intertextualidade e Interdisciplinariedade.** Brasília: UnB. Disponível em: < http://aprender.unb.br/mod/book/print.php?id=616878> . Acesso em: 09 fev. 2008. CAMPOS, M. I. B.; ASSUMPÇÃO, N. **Tantas Linguagens** . 1. ed. São Paulo: Scipione, 2007. Vols. 1 e 2. CEREJA, W. R.; MAGALHÃES, T. C. **Texto e interação** : uma proposta de produção textual a partir de gêneros e projetos. São Paulo: Atual, 2000. ______. **Texto e interação** : uma proposta de produção textual a partir de gêneros e projetos. São Paulo: Atual, 2005. CHIAPINNI, L. (Coord.). **Aprender e ensinar com textos de alunos** . São Paulo: Cortez, 1997. Vol. 1. DERRIDA, J. **A Farmácia de Platão** . Trad. Rogério da Costa. 3. ed. São Paulo: Iluminuras, 2005. FARACO,C.A. & TEZZA,C. **Prática de Texto** :Língua Portuguesa para nossos estudantes. Petrópolis: Vozes, 1992. FARACO, Carlos Emílio; MOURA, F. M. **Gramática** . São Paulo: FTD, 1993. FERREIRA, **Mauro. Aprender e Praticar Gramática** . ed.renov. São Paulo: FTD, 2010. GERALDI, J. W. **Portos de Passagem** . 4. ed. São Paulo: Martins Fontes, 1997. Vários autores. **Dialogismo, Polifonia, Intertextualidade** : em torno de Bakhtin. BARROS,
 
-**==> picture [458 x 63] intentionally omitted <==**
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+D. L. P.; FIORIN, J. L. (Orgs.). 2 ed. 1 reimpr. São Paulo: EDUSP, 2003. HALL, Stuart. **A identidade cultural na Pós-modernidade** . Rio de Janeiro: DP&A, 1999. KURY, A. G. **Novas lições de análise sintática** . São Paulo: Ática, 1998. KABENGELE, Munanga. **Origens africanas do Brasil contemporâneo: histórias, línguas, cultura e civilizações** . São Paulo: Global, 2009.
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Língua Portuguesa e Literatura Brasileira III **Carga Horária (hora aula)** : 80 **Período Letivo** : 3º ano **EMENTA** 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-Estudo do discurso, resultado da interação entre interlocutores em contexto sóciohistoricamente determinado, a partir dos gêneros discursivos como unidade básica de trabalho. Reflexões sobre os aspetos caracterizadores da formação cultural brasileira. Estudo crítico de textos literários na abordagem de temáticas relacionadas à cultura afrobrasileira e indígena. 
-
-**METODOLOGIA** Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em sala de aula. 
-
-**BIBLIOGRAFIA BÁSICA** RAMOS, R. A. (Org.). **Ser Protagonista:** Língua Portuguesa, 1º ano: ensino médio. São Paulo: Edições SM, 2013. ______. **Ser Protagonista:** Língua Portuguesa, 2º ano: ensino médio. São Paulo: Edições SM, 2013. ______. **Ser Protagonista:** Língua Portuguesa, 3º ano: ensino médio. São Paulo: Edições SM, 2013. BECHARA, E. **Gramática Escolar da Língua Portuguesa** . 2. ed. Ampl. e Atual. pelo novo Acordo Ortográfico. Rio de Janeiro: Nova Fronteira, 2010. PATROCÍNIO, Mauro Ferreira do. **Aprender e Praticar Gramática** . São Paulo: FTD, 2011. Vol. Único. 
-
-## **BIBLIOGRAFIA COMPLEMENTAR** 
-
-BERND, Zilá. **Introdução à literatura negra** . São Paulo: Brasiliense, 1988. BORTONE, M. E. **Intertextualidade e Interdisciplinariedade.** Brasília: UnB. Disponível em: < http://aprender.unb.br/mod/book/print.php?id=616878> . Acesso em: 09 fev. 2008. CAMPOS, M. I. B.; ASSUMPÇÃO, N. **Tantas Linguagens** . 1. ed. São Paulo: Scipione, 2007. Vols. 1 e 2. CEREJA, W. R.; MAGALHÃES, T. C. **Texto e interação** : uma proposta de produção textual a partir de gêneros e projetos. São Paulo: Atual, 2000. ______. **Texto e interação** : uma proposta de produção textual a partir de gêneros e projetos. São Paulo: Atual, 2005. CHIAPINNI, L. (Coord.). **Aprender e ensinar com textos de alunos** . São Paulo: Cortez, 1997. Vol. 1. DERRIDA, J. **A Farmácia de Platão** . Trad. Rogério da Costa. 3. ed. São Paulo: Iluminuras, 2005. FARACO,C.A. & TEZZA,C. **Prática de Texto** :Língua Portuguesa para nossos estudantes. Petrópolis: Vozes, 1992. FARACO, Carlos Emílio; MOURA, F. M. **Gramática** . São Paulo: FTD, 1993. FERREIRA, **Mauro. Aprender e Praticar Gramática** . ed.renov. São Paulo: FTD, 2010. GERALDI, J. W. **Portos de Passagem** . 4. ed. São Paulo: Martins Fontes, 1997. Vários autores. **Dialogismo, Polifonia, Intertextualidade** : em torno de Bakhtin. BARROS, 
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
-
-D. L. P.; FIORIN, J. L. (Orgs.). 2 ed. 1 reimpr. São Paulo: EDUSP, 2003. HALL, Stuart. **A identidade cultural na Pós-modernidade** . Rio de Janeiro: DP&A, 1999. KURY, A. G. **Novas lições de análise sintática** . São Paulo: Ática, 1998. KABENGELE, Munanga. **Origens africanas do Brasil contemporâneo: histórias, línguas, cultura e civilizações** . São Paulo: Global, 2009. 
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
-
-## **IFPR – CÂMPUS PARANAVAÍ** 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
 |**IFPR – CÂMPUS PARANAVAÍ**|**IFPR – CÂMPUS PARANAVAÍ**|
 |---|---|
@@ -1708,149 +1534,135 @@ D. L. P.; FIORIN, J. L. (Orgs.). 2 ed. 1 reimpr. São Paulo: EDUSP, 2003. HALL, 
 |**METODOLOGIA**<br>Ex: aulas expositivas, com a utilização de: experimentos, vídeos, áudios; pesquisa individual<br>ou em grupo e resolução de problemas.||
 |**BIBLIOGRAFIA BÁSICA**<br>DANTE, Luis Roberto.**Matemática**: Contexto e Aplicações. 4. ed. São Paulo: Ática, 2010.<br>Vols. 2 e 3.<br>FACCHINI, W.**Matemática**: para a escola de hoje. São Paulo: FTD, 2006.<br>PAIVA, M.**Matemática**. São Paulo: Editora Moderna, 2005.<br>Souza, J.**Novo Olhar Matemática.**2. Ed. São Paulo: FTD, 2013. Vols. 2 e 3.||
 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais
 
-**==> picture [458 x 63] intentionally omitted <==**
+**Componente Curricular** : Biologia III
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+**Carga Horária (hora aula)** : 80 **Período Letivo** : 3º ano
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais 
+## **EMENTA**
 
-**Componente Curricular** : Biologia III 
+Fisiologia comparada. Embriologia. Genética. Ecologia. Evolução.
 
-**Carga Horária (hora aula)** : 80 **Período Letivo** : 3º ano 
+## **METODOLOGIA**
 
-## **EMENTA** 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula.
 
-Fisiologia comparada. Embriologia. Genética. Ecologia. Evolução. 
+## **BIBLIOGRAFIA BÁSICA**
 
-## **METODOLOGIA** 
+AMABIS, J.M.; MARTHO, G.R. **Fundamentos da Biologia Moderna** . 4. ed. São Paulo: Editora Moderna, 2011. Vol. Único. AMABIS, J.M.; MARTHO, G.R. **Biologia das células** . 2. ed. São Paulo: Moderna, 2005. Vol. 1. AMABIS, J.M.; MARTHO, G.R. **Biologia dos organismos** . 2. ed. São Paulo: Moderna, 2004. Vol. 2. AMABIS, J.M.; MARTHO, G.R. **Biologia das populações** . 1. ed. São Paulo: Moderna, 2005. Vol. 3. LINHARES, S., GEWANDSZNAJDER, F. **Biologia hoje** : citologia, histologia e origem da vida. São Paulo: Ática, 2002. Vol. 1. LINHARES, S., GEWANDSZNAJDER, F. **Biologia hoje** : os seres vivos. São Paulo: Ática, 2000. Vol. 2. LINHARES, S., GEWANDSZNAJDER, F. **Biologia hoje** : genética, evolução e ecologia. São Paulo: Ática, 2002. Vol. 3.
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-## **BIBLIOGRAFIA BÁSICA** 
+LOPES, S.; ROSSO, S. **Bio** . 2. ed. São Paulo: Saraiva, 2010. Vol. 1. LOPES, S.; ROSSO, S. **Bio** . 1. ed. São Paulo: Saraiva, 2006. Vol. 2. LOPES, S.; ROSSO, S. **Bio** . 1. ed. São Paulo: Saraiva, 2006. Vol. 3.
 
-AMABIS, J.M.; MARTHO, G.R. **Fundamentos da Biologia Moderna** . 4. ed. São Paulo: Editora Moderna, 2011. Vol. Único. AMABIS, J.M.; MARTHO, G.R. **Biologia das células** . 2. ed. São Paulo: Moderna, 2005. Vol. 1. AMABIS, J.M.; MARTHO, G.R. **Biologia dos organismos** . 2. ed. São Paulo: Moderna, 2004. Vol. 2. AMABIS, J.M.; MARTHO, G.R. **Biologia das populações** . 1. ed. São Paulo: Moderna, 2005. Vol. 3. LINHARES, S., GEWANDSZNAJDER, F. **Biologia hoje** : citologia, histologia e origem da vida. São Paulo: Ática, 2002. Vol. 1. LINHARES, S., GEWANDSZNAJDER, F. **Biologia hoje** : os seres vivos. São Paulo: Ática, 2000. Vol. 2. LINHARES, S., GEWANDSZNAJDER, F. **Biologia hoje** : genética, evolução e ecologia. São Paulo: Ática, 2002. Vol. 3. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-LOPES, S.; ROSSO, S. **Bio** . 2. ed. São Paulo: Saraiva, 2010. Vol. 1. LOPES, S.; ROSSO, S. **Bio** . 1. ed. São Paulo: Saraiva, 2006. Vol. 2. LOPES, S.; ROSSO, S. **Bio** . 1. ed. São Paulo: Saraiva, 2006. Vol. 3. 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Química III **Carga Horária (hora aula)** : 80 **Período Letivo** : 3º ano
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+## **EMENTA**
 
-**==> picture [458 x 63] intentionally omitted <==**
+Introdução a química orgânica, hidrocarbonetos. Funções Orgânicas. Isomeria. Reações dos compostos orgânicos.
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+## **METODOLOGIA**
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Química III **Carga Horária (hora aula)** : 80 **Período Letivo** : 3º ano 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula.
 
-## **EMENTA** 
+## **BIBLIOGRAFIA BÁSICA**
 
-Introdução a química orgânica, hidrocarbonetos. Funções Orgânicas. Isomeria. Reações dos compostos orgânicos. 
+FELTRE, R. **Química** . 6. ed. São Paulo: Moderna, 2004. 3 Volumes. REIS, M. **Completamente química** . São Paulo: FTD, 2001. 3 Volumes. PERUZZO, T.M.; CANTO, E.L. **Química** . São Paulo: Moderna, 1999.
 
-## **METODOLOGIA** 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula. 
+COVRE, G.J. **Química: o homem e a natureza** . São Paulo: FTD, 2000. 3 Volumes. LEMBO, A. **Química realidade e contexto** . 3. ed. São Paulo: Ática, 2004. 3 Volumes. USBERCO, J. & SALVADOR, E. **Química** . 5. ed. São Paulo: Saraiva, 2002. SANTOS, W.L.P.; MÓL, G. S. **Química e Sociedade** . São Paulo: Nova Geração, 2010. MORITA. **Manual de Soluções, Reagentes e Solventes** . 5. ed. São Paulo: Edgard Blucher, 1983.
 
-## **BIBLIOGRAFIA BÁSICA** 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-FELTRE, R. **Química** . 6. ed. São Paulo: Moderna, 2004. 3 Volumes. REIS, M. **Completamente química** . São Paulo: FTD, 2001. 3 Volumes. PERUZZO, T.M.; CANTO, E.L. **Química** . São Paulo: Moderna, 1999. 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Filosofia III **Carga Horária (hora aula)** : 40 **Período Letivo** : 3º ano
 
-COVRE, G.J. **Química: o homem e a natureza** . São Paulo: FTD, 2000. 3 Volumes. LEMBO, A. **Química realidade e contexto** . 3. ed. São Paulo: Ática, 2004. 3 Volumes. USBERCO, J. & SALVADOR, E. **Química** . 5. ed. São Paulo: Saraiva, 2002. SANTOS, W.L.P.; MÓL, G. S. **Química e Sociedade** . São Paulo: Nova Geração, 2010. MORITA. **Manual de Soluções, Reagentes e Solventes** . 5. ed. São Paulo: Edgard Blucher, 1983. 
+## **EMENTA**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+Filosofia da ciência: Concepções de ciências: a ciência na antiguidade e a ciência da pós Revolução científica moderna até os dias de hoje. A questão do método científico: senso comum e ciência; empirismo e epistemologia, dedução e indução. A classificação atual dos campos científicos: da natureza, exatas, humanas. A relação entre ciência e ética: bioética e o problema das contribuições e limites da ciência. Ciências e ideologia: ciência e poder; ciência e as tecnologias atuais; ciência e mercado. _Estética:_ Natureza da arte: a história e as concepções de arte. Categorias estéticas: feio, belo, sublime, trágico, cômico, grotesco, gosto, etc. Estética e a indústria cultural: a relação entre estética e ideologia. Filosofia e arte: as concepções de estética segundo Baumgarten e Kant. Teoria do conhecimento: Senso comum e bom-senso. O Positivismo. Epistemologia moderna e contemporânea.  A Escola de Frankfurt.  Fenomenologia.  Existencialismo.
 
-**==> picture [458 x 63] intentionally omitted <==**
+## **METODOLOGIA**
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em sala de aula.
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Filosofia III **Carga Horária (hora aula)** : 40 **Período Letivo** : 3º ano 
+## **BIBLIOGRAFIA BÁSICA**
 
-## **EMENTA** 
+ARANHA, Maria Lúcia de Arruda; MARTINS, Maria Helena Pires. **Filosofando** : Introdução à Filosofia. 4. ed. São Paulo: Moderna, 2009. CHAUÍ, Marilena. **Iniciação à filosofia** : ensino médio, volume único. São Paulo: Ática, 2010. MARCONDES, Danilo. **Textos básicos de filosofia** : dos pré-socráticos a Wittgenstein. 6. ed. Rio de Janeiro: Jorge Zahar Ed., 2009.
 
-Filosofia da ciência: Concepções de ciências: a ciência na antiguidade e a ciência da pós Revolução científica moderna até os dias de hoje. A questão do método científico: senso comum e ciência; empirismo e epistemologia, dedução e indução. A classificação atual dos campos científicos: da natureza, exatas, humanas. A relação entre ciência e ética: bioética e o problema das contribuições e limites da ciência. Ciências e ideologia: ciência e poder; ciência e as tecnologias atuais; ciência e mercado. _Estética:_ Natureza da arte: a história e as concepções de arte. Categorias estéticas: feio, belo, sublime, trágico, cômico, grotesco, gosto, etc. Estética e a indústria cultural: a relação entre estética e ideologia. Filosofia e arte: as concepções de estética segundo Baumgarten e Kant. Teoria do conhecimento: Senso comum e bom-senso. O Positivismo. Epistemologia moderna e contemporânea.  A Escola de Frankfurt.  Fenomenologia.  Existencialismo. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-## **METODOLOGIA** 
+COTRIM, Gilberto; FERNANDES, Mirna. **Fundamentos de Filosofia** . São Paulo: Saraiva, 2010. DELEUZE, Gilles; GUATTARI, Félix. **O que é a Filosofia?** trad. Bento Prado Jr. e Alberto Alonso Muñoz. Rio de Janeiro: Ed. 34, 1992. KENNY, Anthony. **Uma nova história da Filosofia Ocidental** . trad. Carlos Alberto Bárbaro. São Paulo: Edições Loyola, 2009. Vols. I a IV. MARÇAL, Jairo (Org.). **Antologia de Textos Filosóficos** . Curitiba: SEED-PR, 2009. MARCONDES, Danilo. **Textos básicos de ética** : de Platão a Foucault. 4. ed. Rio de Janeiro: Jorge Zahar Ed., 2009. REALE, Giovanni; ANTISERI, Dario. **História da Filosofia** . São Paulo: Paulus, 1990. Vols. 1 a 3. LAPORTE, Ana Maria et al. **Para filosofar** . São Paulo: Scipione, 2000.
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em sala de aula. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-## **BIBLIOGRAFIA BÁSICA** 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-ARANHA, Maria Lúcia de Arruda; MARTINS, Maria Helena Pires. **Filosofando** : Introdução à Filosofia. 4. ed. São Paulo: Moderna, 2009. CHAUÍ, Marilena. **Iniciação à filosofia** : ensino médio, volume único. São Paulo: Ática, 2010. MARCONDES, Danilo. **Textos básicos de filosofia** : dos pré-socráticos a Wittgenstein. 6. ed. Rio de Janeiro: Jorge Zahar Ed., 2009. 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+**Componente Curricular** : Sociologia III **Carga Horária (hora aula)** : 40 **Período Letivo** : 3º ano
 
-COTRIM, Gilberto; FERNANDES, Mirna. **Fundamentos de Filosofia** . São Paulo: Saraiva, 2010. DELEUZE, Gilles; GUATTARI, Félix. **O que é a Filosofia?** trad. Bento Prado Jr. e Alberto Alonso Muñoz. Rio de Janeiro: Ed. 34, 1992. KENNY, Anthony. **Uma nova história da Filosofia Ocidental** . trad. Carlos Alberto Bárbaro. São Paulo: Edições Loyola, 2009. Vols. I a IV. MARÇAL, Jairo (Org.). **Antologia de Textos Filosóficos** . Curitiba: SEED-PR, 2009. MARCONDES, Danilo. **Textos básicos de ética** : de Platão a Foucault. 4. ed. Rio de Janeiro: Jorge Zahar Ed., 2009. REALE, Giovanni; ANTISERI, Dario. **História da Filosofia** . São Paulo: Paulus, 1990. Vols. 1 a 3. LAPORTE, Ana Maria et al. **Para filosofar** . São Paulo: Scipione, 2000. 
+## **EMENTA**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+Cultura e indústria cultural: Desenvolvimento antropológico do conceito de cultura e sua contribuição na análise das diferentes sociedades; Diversidade cultural; Identidade; conceito de alteridade; indústria cultural; Meios de comunicação de massa e cultura de massa; Sociedade de consumo; Indústria cultural no Brasil; Cultura afro-brasileira e africana; Culturas indígenas; novos meios de comunicação.
 
-**==> picture [458 x 63] intentionally omitted <==**
+## **METODOLOGIA**
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em sala de aula.
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais 
+## **BIBLIOGRAFIA BÁSICA**
 
-**Componente Curricular** : Sociologia III **Carga Horária (hora aula)** : 40 **Período Letivo** : 3º ano 
+ARAÚJO, Silvia Maria de; BRIDI, Maria Aparecida; MOTIM, Benilde Lenzi. **Sociologia** . São Paulo: scipione, 2013.
 
-## **EMENTA** 
+OLIVEIRA, Luiz Fernandes; COSTA, Ricardo Cesar Rocha. **Sociologia Para Jovens do Século XXI** . 3. ed. Rio de Janeiro: Imperial Novo Milênio, 2013. TOMAZI, Nelson Dacio. **Sociologia para o Ensino Médio** . São Paulo: Saraiva, 2010.
 
-Cultura e indústria cultural: Desenvolvimento antropológico do conceito de cultura e sua contribuição na análise das diferentes sociedades; Diversidade cultural; Identidade; conceito de alteridade; indústria cultural; Meios de comunicação de massa e cultura de massa; Sociedade de consumo; Indústria cultural no Brasil; Cultura afro-brasileira e africana; Culturas indígenas; novos meios de comunicação. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-## **METODOLOGIA** 
+BAUMAN, Zygmunt. **Modernidade líquida** . Editora Zahar, 2001. BOBBIO, Norberto. **Dicionário de política** . Norberto Bobbio, Nicola Matteucci e Gianfranco Pasquino. Trad. Carmem C., Varrialeet ai.coord. trad. João Ferreira; rev. geral João Ferreira e Luis Guerreiro Pinto Cacais. Brasília: Editora Universidade de Brasília, 1998. 2 Vols. BOUDON, Raymond; BOURRICAUD, François. Dicionário crítico de Sociologia. Editora Ática, 2000. FREYRE, Gilberto. **Casa-grande e Senzala** . São Paulo: Editora Global, 2003. GIDDENS, Anthony. **Sociologia** . Porto Alegre: Editora Artmed, 2005.
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em sala de aula. 
+QUINTANEIRO, Tânia et. al. **Um Toque de Clássicos** : Durkheim, Marx e Weber. Belo Horizonte : Ed. da UFMG, 1996. SCOTT, John. **50 sociólogos fundamentais** . São Paulo: Editora Contexto, 2007.
 
-## **BIBLIOGRAFIA BÁSICA** 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-ARAÚJO, Silvia Maria de; BRIDI, Maria Aparecida; MOTIM, Benilde Lenzi. **Sociologia** . São Paulo: scipione, 2013. 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-OLIVEIRA, Luiz Fernandes; COSTA, Ricardo Cesar Rocha. **Sociologia Para Jovens do Século XXI** . 3. ed. Rio de Janeiro: Imperial Novo Milênio, 2013. TOMAZI, Nelson Dacio. **Sociologia para o Ensino Médio** . São Paulo: Saraiva, 2010. 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : História III **Carga Horária (hora aula)** : 80 **Período Letivo** : 3º ano
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+## **EMENTA**
 
-BAUMAN, Zygmunt. **Modernidade líquida** . Editora Zahar, 2001. BOBBIO, Norberto. **Dicionário de política** . Norberto Bobbio, Nicola Matteucci e Gianfranco Pasquino. Trad. Carmem C., Varrialeet ai.coord. trad. João Ferreira; rev. geral João Ferreira e Luis Guerreiro Pinto Cacais. Brasília: Editora Universidade de Brasília, 1998. 2 Vols. BOUDON, Raymond; BOURRICAUD, François. Dicionário crítico de Sociologia. Editora Ática, 2000. FREYRE, Gilberto. **Casa-grande e Senzala** . São Paulo: Editora Global, 2003. GIDDENS, Anthony. **Sociologia** . Porto Alegre: Editora Artmed, 2005. 
+Soberania e Estado Nacional. As monarquias nacionais europeias. O Humanismo e o Renascimento. A Reforma Protestante. A expansão marítima europeia. Reinos e Impérios Africanos.  A formação dos impérios coloniais. Os Estados Modernos e o absolutismo. A América que Colombo encontrou. A colonização espanhola na América. A colonização portuguesa na América. Trabalho e cultura indígena. O tráfico negreiro. A escravidão na colônia portuguesa. O Iluminismo. A Revolução Industrial. A formação dos Estados Unidos. A Revolução Francesa. Napoleão. A independência do Brasil. Primeiro e Segundo Reinados. O fim da escravidão.
 
-QUINTANEIRO, Tânia et. al. **Um Toque de Clássicos** : Durkheim, Marx e Weber. Belo Horizonte : Ed. da UFMG, 1996. SCOTT, John. **50 sociólogos fundamentais** . São Paulo: Editora Contexto, 2007. 
+## **METODOLOGIA**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em sala de aula.
 
-**==> picture [458 x 63] intentionally omitted <==**
+## **BIBLIOGRAFIA BÁSICA**
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+OJEDA, E. A. B. & PETTA, N. L. de. **História** : uma abordagem integrada. 2. ed. São Paulo: Editora Moderna, s/d.
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : História III **Carga Horária (hora aula)** : 80 **Período Letivo** : 3º ano 
+SERIACOPI, G. C. A. & SERIACOPI, R. **História** . Volume único. 1. ed. São Paulo: Ática, 2005. VICENTINO, C. & DORIGO, G. **História Geral e do Brasil** . São Paulo: Scipione, 2010. Vols. 1 a 3.
 
-## **EMENTA** 
+CAPELLARI, M. A. & NOGUEIRA, F. H. G (Orgs.). **História** . São Paulo: Edições SM, 2010.
 
-Soberania e Estado Nacional. As monarquias nacionais europeias. O Humanismo e o Renascimento. A Reforma Protestante. A expansão marítima europeia. Reinos e Impérios Africanos.  A formação dos impérios coloniais. Os Estados Modernos e o absolutismo. A América que Colombo encontrou. A colonização espanhola na América. A colonização portuguesa na América. Trabalho e cultura indígena. O tráfico negreiro. A escravidão na colônia portuguesa. O Iluminismo. A Revolução Industrial. A formação dos Estados Unidos. A Revolução Francesa. Napoleão. A independência do Brasil. Primeiro e Segundo Reinados. O fim da escravidão. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-## **METODOLOGIA** 
+ALVES, A. & OLIVEIRA, L. F. de. **Conexões com a história** : das origens do homem à conquista do novo mundo. São Paulo: Editora Moderna, 2010. Vol. 1. ______. **Conexões com a história** : da colonização da América ao século XIX. São Paulo: Editora Moderna, 2010. Vol. 2. ______. Conexões com a história: da expansão imperialista aos dias atuais. São Paulo: Scipione, 2010. Vol. 3. ARRUDA, J. J. **Toda a História** . São Paulo. Editora Ática, 2004. TEIXEIRA, F M. P. **Brasil, História e Sociedade** . São Paulo, Ática, 2001.
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em sala de aula. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-## **BIBLIOGRAFIA BÁSICA** 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-OJEDA, E. A. B. & PETTA, N. L. de. **História** : uma abordagem integrada. 2. ed. São Paulo: Editora Moderna, s/d. 
-
-SERIACOPI, G. C. A. & SERIACOPI, R. **História** . Volume único. 1. ed. São Paulo: Ática, 2005. VICENTINO, C. & DORIGO, G. **História Geral e do Brasil** . São Paulo: Scipione, 2010. Vols. 1 a 3. 
-
-CAPELLARI, M. A. & NOGUEIRA, F. H. G (Orgs.). **História** . São Paulo: Edições SM, 2010. 
-
-## **BIBLIOGRAFIA COMPLEMENTAR** 
-
-ALVES, A. & OLIVEIRA, L. F. de. **Conexões com a história** : das origens do homem à conquista do novo mundo. São Paulo: Editora Moderna, 2010. Vol. 1. ______. **Conexões com a história** : da colonização da América ao século XIX. São Paulo: Editora Moderna, 2010. Vol. 2. ______. Conexões com a história: da expansão imperialista aos dias atuais. São Paulo: Scipione, 2010. Vol. 3. ARRUDA, J. J. **Toda a História** . São Paulo. Editora Ática, 2004. TEIXEIRA, F M. P. **Brasil, História e Sociedade** . São Paulo, Ática, 2001. 
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
-
-## **IFPR – CÂMPUS PARANAVAÍ** 
-
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais
 
 |**IFPR – CÂMPUS PARANAVAÍ**|**IFPR – CÂMPUS PARANAVAÍ**|
 |---|---|
@@ -1863,93 +1675,83 @@ ALVES, A. & OLIVEIRA, L. F. de. **Conexões com a história** : das origens do h
 |**BIBLIOGRAFIA BÁSICA**<br>ALMEIDA, Lúcia Marina e RIGOLIN, Tércio Barbosa.**Geografia Geral e do Brasil**. São<br>Paulo: Ática, 2009.<br>MAGNOLI, Demétrio; ARAÚJO, Regina.**Geografia**: A construção do mundo. São Paulo:<br>Moderna, 2005.<br>MOREIRA, João Carlos e SENE, Eustáquio de.**Geografia Geral e do Brasil**: Espaço<br>geográfico e globalização. São Paulo: Scipione, 2009.<br>TERRA, Lygia; COELHO, Marcos de Amorim.**Geografia Geral e do Brasil**: O espaço<br>natural e socioeconômico. São Paulo: Moderna, 2005.||
 |**BIBLIOGRAFIA COMPLEMENTAR**<br>BOLIGIAN, Levon; ALVES, Andressa.**Geografia**: Espaço e Vivência. São Paulo: Atual,<br>2004.<br>GARCIA, Hélio Carlos e GARAVELLO, Tito Márcio.**Geografia**: De olho no mundo de<br>trabalho. São Paulo: Scipione, 2006.<br>MOREIRA, Igor.**O Espaço Geográfico**: Geografia Geral e do Brasil. 47. ed. São Paulo:<br>Ática, 2003.<br>TAMDJIAN, James O.; MENDES, Ivan L.**Geografia Geral e do Brasil –**Estudos para a<br>compreensão do espaço. São Paulo: FTD, 2004.||
 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais
 
-**==> picture [458 x 63] intentionally omitted <==**
+**Componente Curricular** : Física III
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+**Carga Horária (hora aula)** : 80 **Período Letivo** : 3º ano
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais 
+## **EMENTA**
 
-**Componente Curricular** : Física III 
+Eletrostática. Eletrodinâmica. Magnetismo. Eletromagnetismo. Tópicos de Física Moderna.
 
-**Carga Horária (hora aula)** : 80 **Período Letivo** : 3º ano 
+## **METODOLOGIA**
 
-## **EMENTA** 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula.
 
-Eletrostática. Eletrodinâmica. Magnetismo. Eletromagnetismo. Tópicos de Física Moderna. 
+## **BIBLIOGRAFIA BÁSICA**
 
-## **METODOLOGIA** 
+ALVARENGA, B.; MÁXIMO, A. **Curso de Física** . São Paulo: Scipione, 2000. DOCA, R. H. _et al._ **Universo da Física** . 18. ed. Reformulada. São Paulo: Saraiva, 2001. GASPAR, A. **Física** . São Paulo: Ática, 2003.
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-## **BIBLIOGRAFIA BÁSICA** 
+PARANÁ, D. **Física** . 5. ed. São Paulo: Ática, 2000. RAMALHO, F. _et al._ **Física** . 8. ed. São Paulo: Moderna, 2004. BISCUOLA, G. et al. **Tópicos de Física** . São Paulo: Saraiva, 2007.
 
-ALVARENGA, B.; MÁXIMO, A. **Curso de Física** . São Paulo: Scipione, 2000. DOCA, R. H. _et al._ **Universo da Física** . 18. ed. Reformulada. São Paulo: Saraiva, 2001. GASPAR, A. **Física** . São Paulo: Ática, 2003. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-PARANÁ, D. **Física** . 5. ed. São Paulo: Ática, 2000. RAMALHO, F. _et al._ **Física** . 8. ed. São Paulo: Moderna, 2004. BISCUOLA, G. et al. **Tópicos de Física** . São Paulo: Saraiva, 2007. 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+**Componente Curricular** : Língua Estrangeira Moderna – Inglês II **Carga Horária (hora aula)** : 40 **Período Letivo** : 3º ano
 
-**==> picture [458 x 63] intentionally omitted <==**
+## **EMENTA**
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+Interpretação e tradução de textos em inglês para a língua portuguesa e vice versa. Manuseamento de dicionário bilíngue inglês-português. Identificação da estrutura e os tempos verbais: condicional, presente perfeito, passado perfeito e “ _continuous_ ”. Voz passiva. Uso de verbos modais. Vocabulário a partir dos textos. Grupos nominais. Conjunção.
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais 
+## **METODOLOGIA**
 
-**Componente Curricular** : Língua Estrangeira Moderna – Inglês II **Carga Horária (hora aula)** : 40 **Período Letivo** : 3º ano 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em sala de aula.
 
-## **EMENTA** 
+## **BIBLIOGRAFIA BÁSICA**
 
-Interpretação e tradução de textos em inglês para a língua portuguesa e vice versa. Manuseamento de dicionário bilíngue inglês-português. Identificação da estrutura e os tempos verbais: condicional, presente perfeito, passado perfeito e “ _continuous_ ”. Voz passiva. Uso de verbos modais. Vocabulário a partir dos textos. Grupos nominais. Conjunção. 
+MURPHY, R. **English Grammar in Use** . 2. ed. Cambridge, 1994. MARQUES, A. **Dicionário inglês português** – português-inglês. São Paulo: Ática. OXFORD ADVANCED DICTIONARY. 6. ed. Oxford, 2003. BRASIL. MEC. **Parâmetros Curriculares Nacionais** . MEC/SEF. AUN, E.; MORAES, M. C. P.; SANSANOVICZ, N. B. **English for all** . São Paulo: Saraiva, 2010. Vols. 1 e 2. MUNHOZ, R. **Inglês instrumental** : estratégias de leitura: módulo I. São Paulo: Texto novo, 2000.
 
-## **METODOLOGIA** 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em sala de aula. 
+GALLO, L. **Inglês para informática** : módulo I **.** 2. ed. São Paulo: Ícone, 2011. MARQUES, A. **Dicionário inglês português** – português-inglês. São Paulo: Ática. OXFORD ADVANCED DICTIONARY. 6. ed. Oxford, 2003. MURPHY. R. English Grammar in Use. Cambridge. Uk. 1997. RICHARDS, J.C. **Interchange Intro** . 3. ed. Editora Cambridge. RICHARDS,J.C. **New interchange – English for International Comunication** . 13. ed. Cambridge, 1997.
 
-## **BIBLIOGRAFIA BÁSICA** 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-MURPHY, R. **English Grammar in Use** . 2. ed. Cambridge, 1994. MARQUES, A. **Dicionário inglês português** – português-inglês. São Paulo: Ática. OXFORD ADVANCED DICTIONARY. 6. ed. Oxford, 2003. BRASIL. MEC. **Parâmetros Curriculares Nacionais** . MEC/SEF. AUN, E.; MORAES, M. C. P.; SANSANOVICZ, N. B. **English for all** . São Paulo: Saraiva, 2010. Vols. 1 e 2. MUNHOZ, R. **Inglês instrumental** : estratégias de leitura: módulo I. São Paulo: Texto novo, 2000. 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais
 
-GALLO, L. **Inglês para informática** : módulo I **.** 2. ed. São Paulo: Ícone, 2011. MARQUES, A. **Dicionário inglês português** – português-inglês. São Paulo: Ática. OXFORD ADVANCED DICTIONARY. 6. ed. Oxford, 2003. MURPHY. R. English Grammar in Use. Cambridge. Uk. 1997. RICHARDS, J.C. **Interchange Intro** . 3. ed. Editora Cambridge. RICHARDS,J.C. **New interchange – English for International Comunication** . 13. ed. Cambridge, 1997. 
+**Componente Curricular** : Língua Estrangeira Moderna – Espanhol
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+**Carga Horária (hora aula)** : 160 **Período Letivo** : Ofertado anualmente
 
-**==> picture [458 x 63] intentionally omitted <==**
+**EMENTA**
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+Introdução das estruturas básicas da língua espanhola necessárias à comunicação do idioma, envolvendo leitura e compreensão de textos escritos, bem como à produção oral e escrita. Tempos verbais, vocabulário.
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais 
+## **METODOLOGIA**
 
-**Componente Curricular** : Língua Estrangeira Moderna – Espanhol 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula.
 
-**Carga Horária (hora aula)** : 160 **Período Letivo** : Ofertado anualmente 
+## **BIBLIOGRAFIA BÁSICA**
 
-**EMENTA** 
+MILANE, Esther Maria. GRADVOHL, Isabel. BAPTISTA, Livia. **Listo** : Español através de Textos. Santillana, 2010. ROMANOS, Henrique; Carvalho, Jacira Paes de. **Espanhol Expansíon** . São Paulo: FTD, 2010. MENON, Lorena. MELONE, Enrique. **Tiempo Español** : Lengua Y Cultura. São Paulo: Atual, 2007.
 
-Introdução das estruturas básicas da língua espanhola necessárias à comunicação do idioma, envolvendo leitura e compreensão de textos escritos, bem como à produção oral e escrita. Tempos verbais, vocabulário. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-## **METODOLOGIA** 
+FLAVIAN, Eugenia. FERNANDEZ, Gretel Eres. BRIONES, Ana Isabel. **Español Ahora** . Vol. 1. Moderna: 2003. FLAVIAN, Eugenia. FERNANDEZ, Gretel Eres. BRIONES, Ana Isabel. **Español Ahora** . Vol. 2. Moderna: 2003. FLAVIAN, Eugenia. FERNANDEZ, Gretel Eres. BRIONES, Ana Isabel. **Español Ahora** . Vol. 3. Moderna: 2003. MILANI, Esther Maria. Gramática de Espanhol para brasileiros. 4. ed. São Paulo: Saraiva, 2011. PRADA, Maria de; MAREÉ, Pilar. Entorno Laboral: Español Lengua Extranjera. Madrid: Edelsa Grupo Didascalia, 2013. RAMIRO CAGGIANO BLANCO. Gramática de La Lengua Española - Usos, Conceptos Y Ejercícios. Scipione: 2009.
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula. 
-
-## **BIBLIOGRAFIA BÁSICA** 
-
-MILANE, Esther Maria. GRADVOHL, Isabel. BAPTISTA, Livia. **Listo** : Español através de Textos. Santillana, 2010. ROMANOS, Henrique; Carvalho, Jacira Paes de. **Espanhol Expansíon** . São Paulo: FTD, 2010. MENON, Lorena. MELONE, Enrique. **Tiempo Español** : Lengua Y Cultura. São Paulo: Atual, 2007. 
-
-## **BIBLIOGRAFIA COMPLEMENTAR** 
-
-FLAVIAN, Eugenia. FERNANDEZ, Gretel Eres. BRIONES, Ana Isabel. **Español Ahora** . Vol. 1. Moderna: 2003. FLAVIAN, Eugenia. FERNANDEZ, Gretel Eres. BRIONES, Ana Isabel. **Español Ahora** . Vol. 2. Moderna: 2003. FLAVIAN, Eugenia. FERNANDEZ, Gretel Eres. BRIONES, Ana Isabel. **Español Ahora** . Vol. 3. Moderna: 2003. MILANI, Esther Maria. Gramática de Espanhol para brasileiros. 4. ed. São Paulo: Saraiva, 2011. PRADA, Maria de; MAREÉ, Pilar. Entorno Laboral: Español Lengua Extranjera. Madrid: Edelsa Grupo Didascalia, 2013. RAMIRO CAGGIANO BLANCO. Gramática de La Lengua Española - Usos, Conceptos Y Ejercícios. Scipione: 2009. 
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
 |**IFPR – CÂMPUS PARANAVAÍ**|**IFPR – CÂMPUS PARANAVAÍ**|
 |---|---|
@@ -1961,19 +1763,13 @@ FLAVIAN, Eugenia. FERNANDEZ, Gretel Eres. BRIONES, Ana Isabel. **Español Ahora*
 |**BIBLIOGRAFIA BÁSICA**<br>RAMOS, R. A. (Org.)**Ser Protagonista:**Língua Portuguesa, 1º ano: ensino médio. São<br>Paulo: Edições SM, 2013.<br>______.**Ser Protagonista:**Língua Portuguesa, 2º ano: ensino médio. São Paulo: Edições<br>SM, 2013.<br>______.**Ser Protagonista:**Língua Portuguesa, 3º ano: ensino médio. São Paulo: Edições<br>SM, 2013.<br>BECHARA, E.**Gramática Escolar da Língua Portuguesa**. 2. ed. Ampl. e Atual. pelo novo<br>Acordo Ortográfico. Rio de Janeiro: Nova Fronteira, 2010.<br>PATROCÍNIO, Mauro Ferreira do.**Aprender e Praticar Gramática**. São Paulo: FTD, 2011.<br>Vol. Único.||
 |**BIBLIOGRAFIA COMPLEMENTAR**<br>BERND, Zilá.**Introdução à literatura negra**. São Paulo: Brasiliense, 1988.<br>BORTONE, M. E.**Intertextualidade e Interdisciplinariedade.**Brasília: UnB. Disponível em:<br><http://aprender.unb.br/mod/book/print.php?id=616878>. Acesso em: 09 fev. 2008.<br>CAMPOS, M. I. B.; ASSUMPÇÃO, N.**Tantas Linguagens**. 1. ed. São Paulo: Scipione, 2007.<br>Vols. 1 e 2.<br>CEREJA, W. R.; MAGALHÃES, T. C.**Texto e interação**: uma proposta de produção textual<br>a partir de gêneros e projetos. São Paulo: Atual, 2000.<br>______.**Texto e interação**: uma proposta de produção textual a partir de gêneros e<br>projetos. São Paulo: Atual, 2005.<br>CHIAPINNI, L. (Coord.).**Aprender e ensinar com textos de alunos**. São Paulo: Cortez,<br>1997. Vol. 1.<br>DERRIDA, J.**A Farmácia de Platão**. Trad. Rogério da Costa. 3. ed. São Paulo: Iluminuras,<br>2005.<br>FARACO,C.A. & TEZZA,C.**Prática de Texto**:Língua Portuguesa para nossos estudantes.<br>Petrópolis: Vozes, 1992.<br>FARACO, Carlos Emílio; MOURA, F. M.**Gramática**. São Paulo: FTD, 1993.<br>FERREIRA,**Mauro. Aprender e Praticar Gramática**. ed.renov. São Paulo: FTD, 2010.<br>GERALDI, J. W.**Portos de Passagem**. 4. ed. São Paulo: Martins Fontes, 1997.<br>Vários autores.**Dialogismo, Polifonia, Intertextualidade**: em torno de Bakhtin. BARROS,<br>D. L. P.; FIORIN, J. L. (Orgs.). 2 ed. 1 reimpr. São Paulo: EDUSP, 2003.<br>HALL, Stuart.**A identidade cultural na Pós-modernidade**. Rio de Janeiro: DP&A, 1999.||
 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
+KURY, A. G. **Novas lições de análise sintática** . São Paulo: Ática, 1998. KABENGELE, Munanga. **Origens africanas do Brasil contemporâneo: histórias, línguas, cultura e civilizações** . São Paulo: Global, 2009.
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-**==> picture [458 x 63] intentionally omitted <==**
-
-KURY, A. G. **Novas lições de análise sintática** . São Paulo: Ática, 1998. KABENGELE, Munanga. **Origens africanas do Brasil contemporâneo: histórias, línguas, cultura e civilizações** . São Paulo: Global, 2009. 
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
-
-## **IFPR – CÂMPUS PARANAVAÍ** 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
 |**IFPR – CÂMPUS PARANAVAÍ**|**IFPR – CÂMPUS PARANAVAÍ**|
 |---|---|
@@ -1985,61 +1781,53 @@ KURY, A. G. **Novas lições de análise sintática** . São Paulo: Ática, 1998
 |**METODOLOGIA**<br>Ex: aulas expositivas, com a utilização de: experimentos, vídeos, áudios; pesquisa individual<br>ou em grupo e resolução de problemas.||
 |**BIBLIOGRAFIA BÁSICA**<br>DANTE, Luis Roberto.**Matemática**: Contexto e Aplicações. 4. ed. São Paulo: Ática, 2010.<br>Vols. 2 a 3.<br>FACCHINI, W.**Matemática**: para a escola de hoje. São Paulo: FTD, 2006.<br>PAIVA, M.**Matemática**. São Paulo: Editora Moderna, 2005.<br>Souza, J.**Novo Olhar Matemática.**2. Ed. São Paulo: FTD, 2013. Vols. 2 a 3.||
 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Filosofia IV **Carga Horária (hora aula)** : 40 **Período Letivo** : 4º ano
 
-**==> picture [458 x 63] intentionally omitted <==**
+## **EMENTA**
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+O problema da liberdade: ética e liberdade, sujeito, autonomia e as normas; o existencialismo de Sartre; ética e virtude em Aristóteles. A ética profissional; o problema da verdade: conhecimento e ideologia; o materialismo histórico. Filosofia política: poder, Estado, cidadania e direitos; conceitos de esfera pública e privada. Estética: arte e indústria cultural; estética e ética; a arte como forma de pensamento.
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Filosofia IV **Carga Horária (hora aula)** : 40 **Período Letivo** : 4º ano 
+## **METODOLOGIA**
 
-## **EMENTA** 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em sala de aula.
 
-O problema da liberdade: ética e liberdade, sujeito, autonomia e as normas; o existencialismo de Sartre; ética e virtude em Aristóteles. A ética profissional; o problema da verdade: conhecimento e ideologia; o materialismo histórico. Filosofia política: poder, Estado, cidadania e direitos; conceitos de esfera pública e privada. Estética: arte e indústria cultural; estética e ética; a arte como forma de pensamento. 
+## **BIBLIOGRAFIA BÁSICA**
 
-## **METODOLOGIA** 
+ARANHA, Maria Lúcia de Arruda; MARTINS, Maria Helena Pires. **Filosofando** : Introdução à Filosofia. 4. ed. São Paulo: Moderna, 2009. CHAUÍ, Marilena. **Iniciação à filosofia** : ensino médio. São Paulo: Ática, 2010. MARCONDES, Danilo. **Textos básicos de filosofia** : dos pré-socráticos a Wittgenstein. 6. ed. Rio de Janeiro: Jorge Zahar Ed., 2009.
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em sala de aula. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-## **BIBLIOGRAFIA BÁSICA** 
+COTRIM, Gilberto; FERNANDES, Mirna. **Fundamentos de Filosofia** . São Paulo: Saraiva, 2010. DELEUZE, Gilles; GUATTARI, Félix. **O que é a Filosofia?** trad. Bento Prado Jr. e Alberto Alonso Muñoz. Rio de Janeiro: Ed. 34, 1992. KENNY, Anthony. **Uma nova história da Filosofia Ocidental** . trad. Carlos Alberto Bárbaro. São Paulo: Edições Loyola, 2009. Vols. I a IV. MARÇAL, Jairo (Org.). **Antologia de Textos Filosóficos** . Curitiba: SEED-PR, 2009. MARCONDES, Danilo. **Textos básicos de ética: de Platão a Foucault** . 4. ed. Rio de Janeiro: Jorge Zahar Ed., 2009. REALE, Giovanni; ANTISERI, Dario. **História da Filosofia** . São Paulo: Paulus, 1990. Vols. 1 a 3. LAPORTE, Ana Maria et al. **Para filosofar** . São Paulo: Scipione, 2000.
 
-ARANHA, Maria Lúcia de Arruda; MARTINS, Maria Helena Pires. **Filosofando** : Introdução à Filosofia. 4. ed. São Paulo: Moderna, 2009. CHAUÍ, Marilena. **Iniciação à filosofia** : ensino médio. São Paulo: Ática, 2010. MARCONDES, Danilo. **Textos básicos de filosofia** : dos pré-socráticos a Wittgenstein. 6. ed. Rio de Janeiro: Jorge Zahar Ed., 2009. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-COTRIM, Gilberto; FERNANDES, Mirna. **Fundamentos de Filosofia** . São Paulo: Saraiva, 2010. DELEUZE, Gilles; GUATTARI, Félix. **O que é a Filosofia?** trad. Bento Prado Jr. e Alberto Alonso Muñoz. Rio de Janeiro: Ed. 34, 1992. KENNY, Anthony. **Uma nova história da Filosofia Ocidental** . trad. Carlos Alberto Bárbaro. São Paulo: Edições Loyola, 2009. Vols. I a IV. MARÇAL, Jairo (Org.). **Antologia de Textos Filosóficos** . Curitiba: SEED-PR, 2009. MARCONDES, Danilo. **Textos básicos de ética: de Platão a Foucault** . 4. ed. Rio de Janeiro: Jorge Zahar Ed., 2009. REALE, Giovanni; ANTISERI, Dario. **História da Filosofia** . São Paulo: Paulus, 1990. Vols. 1 a 3. LAPORTE, Ana Maria et al. **Para filosofar** . São Paulo: Scipione, 2000. 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Sociologia IV **Carga Horária (hora aula)** : 40 **Período Letivo** : 4º ano
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+**EMENTA** Sociologia contemporânea: conceitos de urbano, cidade, pólis, cidade na idade média, formação da cidade moderna, cidade contemporânea; Crime, violência, periferias, segregação social e margens sociais; Feminismo, gênero, sexualidade e teoria queer; movimento feminista; movimento LGBT; Pós-colonialismo; pós-modernidade e pósmodernismo; Juventude; questões raciais; movimento negro; política racial no Brasil.
 
-**==> picture [458 x 63] intentionally omitted <==**
+## **METODOLOGIA**
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em sala de aula.
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Sociologia IV **Carga Horária (hora aula)** : 40 **Período Letivo** : 4º ano 
+## **BIBLIOGRAFIA BÁSICA**
 
-**EMENTA** Sociologia contemporânea: conceitos de urbano, cidade, pólis, cidade na idade média, formação da cidade moderna, cidade contemporânea; Crime, violência, periferias, segregação social e margens sociais; Feminismo, gênero, sexualidade e teoria queer; movimento feminista; movimento LGBT; Pós-colonialismo; pós-modernidade e pósmodernismo; Juventude; questões raciais; movimento negro; política racial no Brasil. 
+ARAÚJO, Silvia Maria de; BRIDI, Maria Aparecida; MOTIM, Benilde Lenzi. **Sociologia** . São Paulo: scipione, 2013.
 
-## **METODOLOGIA** 
+OLIVEIRA, Luiz Fernandes; COSTA, Ricardo Cesar Rocha. **Sociologia Para Jovens do Século XXI** . 3. ed. Rio de Janeiro: Imperial Novo Milênio, 2013. TOMAZI, Nelson Dacio. **Sociologia para o Ensino Médio** . São Paulo: Saraiva, 2010.
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em sala de aula. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-## **BIBLIOGRAFIA BÁSICA** 
+BAUMAN, Zygmunt. **Modernidade líquida** . Editora Zahar, 2001. BOBBIO, Norberto. **Dicionário de política** . Norberto Bobbio, Nicola Matteucci e Gianfranco Pasquino. Trad. Carmem C., Varrialeet ai.coord. trad. João Ferreira; rev. geral João Ferreira e Luis Guerreiro Pinto Cacais. Brasília: Editora Universidade de Brasília, 1998. 2 Vols. BOUDON, Raymond; BOURRICAUD, François. **Dicionário crítico de Sociologia** . Editora Ática, 2000. FREYRE, Gilberto. **Casa-grande e Senzala** . São Paulo: Editora Global, 2003. GIDDENS, Anthony. **Sociologia** . Porto Alegre: Editora Artmed, 2005. QUINTANEIRO, Tânia et. al. **Um Toque de Clássicos** : Durheim, Marx e Weber. Belo Horizonte: Ed. da UFMG , 1996. SCOTT, John. **50 sociólogos fundamentais** . São Paulo: Editora Contexto, 2007.
 
-ARAÚJO, Silvia Maria de; BRIDI, Maria Aparecida; MOTIM, Benilde Lenzi. **Sociologia** . São Paulo: scipione, 2013. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-OLIVEIRA, Luiz Fernandes; COSTA, Ricardo Cesar Rocha. **Sociologia Para Jovens do Século XXI** . 3. ed. Rio de Janeiro: Imperial Novo Milênio, 2013. TOMAZI, Nelson Dacio. **Sociologia para o Ensino Médio** . São Paulo: Saraiva, 2010. 
-
-## **BIBLIOGRAFIA COMPLEMENTAR** 
-
-BAUMAN, Zygmunt. **Modernidade líquida** . Editora Zahar, 2001. BOBBIO, Norberto. **Dicionário de política** . Norberto Bobbio, Nicola Matteucci e Gianfranco Pasquino. Trad. Carmem C., Varrialeet ai.coord. trad. João Ferreira; rev. geral João Ferreira e Luis Guerreiro Pinto Cacais. Brasília: Editora Universidade de Brasília, 1998. 2 Vols. BOUDON, Raymond; BOURRICAUD, François. **Dicionário crítico de Sociologia** . Editora Ática, 2000. FREYRE, Gilberto. **Casa-grande e Senzala** . São Paulo: Editora Global, 2003. GIDDENS, Anthony. **Sociologia** . Porto Alegre: Editora Artmed, 2005. QUINTANEIRO, Tânia et. al. **Um Toque de Clássicos** : Durheim, Marx e Weber. Belo Horizonte: Ed. da UFMG , 1996. SCOTT, John. **50 sociólogos fundamentais** . São Paulo: Editora Contexto, 2007. 
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
-
-## **IFPR – CÂMPUS PARANAVAÍ** 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
 |**IFPR – CÂMPUS PARANAVAÍ**|**IFPR – CÂMPUS PARANAVAÍ**|
 |---|---|
@@ -2051,113 +1839,101 @@ BAUMAN, Zygmunt. **Modernidade líquida** . Editora Zahar, 2001. BOBBIO, Norbert
 |**BIBLIOGRAFIA BÁSICA**<br>OJEDA, E. A. B. & PETTA, N. L. de.**História**: uma abordagem integrada. 2. ed. São Paulo:<br>Editora Moderna, s/d.<br>SERIACOPI, G. C. A. & SERIACOPI, R.**História**. 1. ed. São Paulo: Ática, 2005.<br>VICENTINO, C. & DORIGO, G.**História Geral e do Brasil**. São Paulo: Scipione, 2010. 3<br>Vols.<br>CAPELLARI, M. A. & NOGUEIRA, F. H. G. (Orgs.).**História**. São Paulo: Edições SM, 2010.<br>.||
 |**BIBLIOGRAFIA COMPLEMENTAR**<br>ALVES, A. & OLIVEIRA, L. F. de.**Conexões com a história**: das origens do homem à<br>conquista do novo mundo. Volume 1. São Paulo: Editora Moderna, 2010.<br>______.**Conexões com a história**: da colonização da América ao século XIX. Volume 2.<br>São Paulo: Editora Moderna, 2010.<br>______.**Conexões com a história**: da expansão imperialista aos dias atuais. Volume 3.<br>São Paulo: Scipione, 2010.<br>ARRUDA, J. J.**Toda a História**. São Paulo. Editora Ática, 2004.<br>TEIXEIRA, F M. P.**Brasil, História e Sociedade**. São Paulo, Ática, 2001.||
 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Geografia IV **Carga Horária (hora aula)** : 40 **Período Letivo** : 4º ano
 
-**==> picture [458 x 63] intentionally omitted <==**
+## **EMENTA**
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+Os sistemas políticos e econômicos (Capitalismo e Socialismo); Guerra Fria e as Revoluções na Coréia, na China, no Vietnã e em Cuba; Geopolítica e a disputa de territórios pelas minorias étnicas; Geopolítica do Brasil e Geografia do Brasil e do Paraná.
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Geografia IV **Carga Horária (hora aula)** : 40 **Período Letivo** : 4º ano 
+## **METODOLOGIA**
 
-## **EMENTA** 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em sala de aula.
 
-Os sistemas políticos e econômicos (Capitalismo e Socialismo); Guerra Fria e as Revoluções na Coréia, na China, no Vietnã e em Cuba; Geopolítica e a disputa de territórios pelas minorias étnicas; Geopolítica do Brasil e Geografia do Brasil e do Paraná. 
+## **BIBLIOGRAFIA BÁSICA**
 
-## **METODOLOGIA** 
+ALMEIDA, Lúcia Marina e RIGOLIN, Tércio Barbosa. **Geografia Geral e do Brasil** . São Paulo: Ática, 2009. MAGNOLI, Demétrio e ARAÚJO, Regina. **Geografia** : A construção do mundo. São Paulo: Moderna, 2005.
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em sala de aula. 
+MOREIRA, João Carlos e SENE, Eustáquio de. **Geografia Geral e do Brasil** : Espaço geográfico e globalização. São Paulo: Scipione, 2009.
 
-## **BIBLIOGRAFIA BÁSICA** 
+TERRA, Lygia e COELHO, Marcos de Amorim. **Geografia Geral e do Brasil** : O espaço natural e socioeconômico. São Paulo: Moderna, 2005.
 
-ALMEIDA, Lúcia Marina e RIGOLIN, Tércio Barbosa. **Geografia Geral e do Brasil** . São Paulo: Ática, 2009. MAGNOLI, Demétrio e ARAÚJO, Regina. **Geografia** : A construção do mundo. São Paulo: Moderna, 2005. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-MOREIRA, João Carlos e SENE, Eustáquio de. **Geografia Geral e do Brasil** : Espaço geográfico e globalização. São Paulo: Scipione, 2009. 
+BOLIGIAN, Levon; ALVES, Andressa. **Geografia** : Espaço e Vivência. São Paulo: Atual, 2004.
 
-TERRA, Lygia e COELHO, Marcos de Amorim. **Geografia Geral e do Brasil** : O espaço natural e socioeconômico. São Paulo: Moderna, 2005. 
+GARCIA, Hélio Carlos e GARAVELLO, Tito Márcio. **Geografia** : De olho no mundo de trabalho. São Paulo: Scipione, 2006. MOREIRA, Igor. **O Espaço Geográfico** : Geografia Geral e do Brasil. 47. ed. São Paulo: Ática, 2003. TAMDJIAN, James O.; MENDES, Ivan L. **Geografia Geral e do Brasil** – Estudos para a compreensão do espaço. São Paulo: FTD, 2004.
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-BOLIGIAN, Levon; ALVES, Andressa. **Geografia** : Espaço e Vivência. São Paulo: Atual, 2004. 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-GARCIA, Hélio Carlos e GARAVELLO, Tito Márcio. **Geografia** : De olho no mundo de trabalho. São Paulo: Scipione, 2006. MOREIRA, Igor. **O Espaço Geográfico** : Geografia Geral e do Brasil. 47. ed. São Paulo: Ática, 2003. TAMDJIAN, James O.; MENDES, Ivan L. **Geografia Geral e do Brasil** – Estudos para a compreensão do espaço. São Paulo: FTD, 2004. 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Língua Estrangeira Moderna - Inglês III **Carga Horária (hora aula)** : 40 **Período Letivo** : 4º ano
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+**EMENTA** Interpretação e tradução de textos em inglês para a língua portuguesa e vice-versa. Manuseamento de dicionário bilíngüe inglês-português. Voz passiva. Uso de verbos modais. Questions tag. Phrasal verbs. Adjectivos. Advérbios. Discursos indiretos.  Vocabulário a partir dos textos. Grupos nominais. Conjunção.
 
-**==> picture [458 x 63] intentionally omitted <==**
+## **METODOLOGIA**
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Resolução de exercícios; Atividade interdisciplinar em sala de aula.
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Língua Estrangeira Moderna - Inglês III **Carga Horária (hora aula)** : 40 **Período Letivo** : 4º ano 
+**BIBLIOGRAFIA BÁSICA** BRASIL. **Parâmetros Curriculares Nacionais** . Brasília: MEC/SEF. AUN, E.; MORAES, M. C. P.; SANSANOVICZ, N. B. **English for all** . 1. ed. São Paulo: Saraiva, 2010. Vols. 1 e 2. MUNHOZ, R. **Inglês instrumental** : estratégias de leitura: módulo I. São Paulo: Textonovo, 2000.
 
-**EMENTA** Interpretação e tradução de textos em inglês para a língua portuguesa e vice-versa. Manuseamento de dicionário bilíngüe inglês-português. Voz passiva. Uso de verbos modais. Questions tag. Phrasal verbs. Adjectivos. Advérbios. Discursos indiretos.  Vocabulário a partir dos textos. Grupos nominais. Conjunção. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-## **METODOLOGIA** 
+GALLO, L. **Inglês para informática** : módulo I **.** 2 ed. São Paulo: Ícone, 2011. MARQUES, A. **Dicionário inglês português** – português-inglês. São Paulo: Ática. Oxford Advanced Dictionary. 6. ed. Oxford, 2003. MURPHY. R. **English Grammar in Use** . Cambridge. Uk. 1997. RICHARDS, J.C. **Interchange Intro** . 3. ed. Editora Cambridge. RICHARDS,J.C. **New interchange – English for International Comunication.** 13. ed. Cambridge, 1997.
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Resolução de exercícios; Atividade interdisciplinar em sala de aula. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-**BIBLIOGRAFIA BÁSICA** BRASIL. **Parâmetros Curriculares Nacionais** . Brasília: MEC/SEF. AUN, E.; MORAES, M. C. P.; SANSANOVICZ, N. B. **English for all** . 1. ed. São Paulo: Saraiva, 2010. Vols. 1 e 2. MUNHOZ, R. **Inglês instrumental** : estratégias de leitura: módulo I. São Paulo: Textonovo, 2000. 
+## **IFPR – CAMPUS PARANAVAÍ**
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Introdução às Práticas Laboratoriais **Carga Horária (hora aula)** : 80 **Período Letivo** : 1º ano
 
-GALLO, L. **Inglês para informática** : módulo I **.** 2 ed. São Paulo: Ícone, 2011. MARQUES, A. **Dicionário inglês português** – português-inglês. São Paulo: Ática. Oxford Advanced Dictionary. 6. ed. Oxford, 2003. MURPHY. R. **English Grammar in Use** . Cambridge. Uk. 1997. RICHARDS, J.C. **Interchange Intro** . 3. ed. Editora Cambridge. RICHARDS,J.C. **New interchange – English for International Comunication.** 13. ed. Cambridge, 1997. 
+## **EMENTA**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+Práticas laboratoriais para o desenvolvimento de habilidades com instrumentos de medição de grandezas elétricas: multímetro, osciloscópio, voltímetros, ohmnímetros, amperímetros e wattímetros. Utilização de ferramentas de medidas de grandezas físicas; Utilização de ferramentas para desenvolvimento de circuitos eletrônicos; Prática de montagem (solda); Softwares de simulação: Matlab, Proteus, Labview. Desenvolvimento de circuitos elétricos para noções de conceitos de corrente, tensão, potência, energia elétrica, leis de ohm, análise de circuitos, resistência, capacitância e indutância. Legislação de segurança no trabalho; acidente do trabalho, doenças ocupacionais e relacionadas ao trabalho; ambiente de trabalho e riscos operacionais; Prevenção e controle de riscos em máquinas, equipamentos e instalações; segurança em eletricidade; equipamento de proteção individual e coletiva; sinalização de segurança; desenvolvimento industrial e meio ambiente; prevenção e combate a incêndios.
 
-**==> picture [458 x 63] intentionally omitted <==**
+## **METODOLOGIA**
 
-## **IFPR – CAMPUS PARANAVAÍ** 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula.
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Introdução às Práticas Laboratoriais **Carga Horária (hora aula)** : 80 **Período Letivo** : 1º ano 
+**BIBLIOGRAFIA BÁSICA**
 
-## **EMENTA** 
+ALVAREZ, Marina André de. **Aulas práticas no laboratório: como torná-las eficientes.** São Paulo: EPUB, 2003. 122 p.
 
-Práticas laboratoriais para o desenvolvimento de habilidades com instrumentos de medição de grandezas elétricas: multímetro, osciloscópio, voltímetros, ohmnímetros, amperímetros e wattímetros. Utilização de ferramentas de medidas de grandezas físicas; Utilização de ferramentas para desenvolvimento de circuitos eletrônicos; Prática de montagem (solda); Softwares de simulação: Matlab, Proteus, Labview. Desenvolvimento de circuitos elétricos para noções de conceitos de corrente, tensão, potência, energia elétrica, leis de ohm, análise de circuitos, resistência, capacitância e indutância. Legislação de segurança no trabalho; acidente do trabalho, doenças ocupacionais e relacionadas ao trabalho; ambiente de trabalho e riscos operacionais; Prevenção e controle de riscos em máquinas, equipamentos e instalações; segurança em eletricidade; equipamento de proteção individual e coletiva; sinalização de segurança; desenvolvimento industrial e meio ambiente; prevenção e combate a incêndios. 
+CAPUANO, Francisco G; MARINO, Maria Aparecida Mendes. **Laboratório de eletricidade e eletrônica: teoria e prática.** 24. ed. São Paulo: Érica, 2007. 310 p. GILAT, Amos. **MATLAB com aplicações em engenharia.** 4. ed. Porto Alegre: Bookman,2012. 417p. PAGANO, S.C.R.S. **Legislação de segurança, acidente do trabalho e saúde do trabalhador** . Ed. LTR, 2007. BADIA, J.C.N., RIBEIRO, D. da S. **Higiene e segurança do trabalho** . PROMIMP. Pelotas: CEFET-RS, 2006. HOEPPNER, Marcos Garcia. **Normas regulamentadoras relativas à segurança e medicina do trabalho** . 4. ed. São Paulo: Ícone Editora, 2010.
 
-## **METODOLOGIA** 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula. 
+ROSÁRIO, João Maurício. **Princípios de mecatrônica.** São Paulo: Prentice-Hall, 2005.356
 
-**BIBLIOGRAFIA BÁSICA** 
+p. ALBUQUERQUE, Rômulo Oliveira. **Análise de circuitos em corrente contínua** . 21. ed. São Paulo: Érica, 2008.
 
-ALVAREZ, Marina André de. **Aulas práticas no laboratório: como torná-las eficientes.** São Paulo: EPUB, 2003. 122 p. 
+BOYLESTAD, Robert L. **Introdução à análise de circuitos** . 10. ed. São Paulo: Pearson Prentice Hall, 2004. BARROS, B. F. de; Guimarães, E. C. de A.; Borelli, R.; Gedra, R. L.; Pinheiro, S. R. **NR-10 - guia prático de análise e aplicação** . 1. ed. São Paulo: Érica, 2008. **IFPR – CÂMPUS PARANAVAÍ**
 
-CAPUANO, Francisco G; MARINO, Maria Aparecida Mendes. **Laboratório de eletricidade e eletrônica: teoria e prática.** 24. ed. São Paulo: Érica, 2007. 310 p. GILAT, Amos. **MATLAB com aplicações em engenharia.** 4. ed. Porto Alegre: Bookman,2012. 417p. PAGANO, S.C.R.S. **Legislação de segurança, acidente do trabalho e saúde do trabalhador** . Ed. LTR, 2007. BADIA, J.C.N., RIBEIRO, D. da S. **Higiene e segurança do trabalho** . PROMIMP. Pelotas: CEFET-RS, 2006. HOEPPNER, Marcos Garcia. **Normas regulamentadoras relativas à segurança e medicina do trabalho** . 4. ed. São Paulo: Ícone Editora, 2010. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Desenho Técnico e CAD **Carga Horária (hora aula)** : 80 **Período Letivo** : 1º ano
 
-ROSÁRIO, João Maurício. **Princípios de mecatrônica.** São Paulo: Prentice-Hall, 2005.356 
+## **EMENTA**
 
-p. ALBUQUERQUE, Rômulo Oliveira. **Análise de circuitos em corrente contínua** . 21. ed. São Paulo: Érica, 2008. 
+Materiais e ferramentas de desenho técnico. Normas e convenções técnicas. Introdução ao desenho técnico (caligrafia técnica, Folha de Desenho, Leiaute e Dimensões, tipos de linhas para desenho técnico). Noções de desenho geométrico. Escalas. Cotagem. Projeções. Projeção ortogonal. Vistas ortográficas. Perspectivas (isométrica e cavaleiras). Introdução ao Desenho Assistido por Computador (Auto CAD). Interface. Configurações iniciais. Ferramentas de Precisão. Comandos de visualização. Comandos de desenho e de edição. Criação e configuração de camadas (layers). Criação e configuração de cotas. Hachuras. Configuração de plotagem. Etapas para criação de projetos em 2D.
 
-BOYLESTAD, Robert L. **Introdução à análise de circuitos** . 10. ed. São Paulo: Pearson Prentice Hall, 2004. BARROS, B. F. de; Guimarães, E. C. de A.; Borelli, R.; Gedra, R. L.; Pinheiro, S. R. **NR-10 - guia prático de análise e aplicação** . 1. ed. São Paulo: Érica, 2008. **IFPR – CÂMPUS PARANAVAÍ** 
+**METODOLOGIA** Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula.
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+## **BIBLIOGRAFIA BÁSICA**
 
-**==> picture [458 x 63] intentionally omitted <==**
+LIMA C. C. **Estudo dirigido do AutoCad 2010** . São Paulo: Érica, 2009. JUNGHANS, Daniel. **Informática aplicada ao desenho técnico** . Curitiba: Base Editorial, 2010. 224 p. (Educação profissional). ISBN 9788579055478 (broch.) PROVENZA, Francesco. **Manual do Desenhista** . São Paulo: Provenza, 1997. STRAUHS, Faimara do Rocio. **Desenho técnico** . Curitiba: Base Editorial, 2010. 112 p. (Educação profissional. Ensino médio técnico). ISBN 9788579055393 (broch.)
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Desenho Técnico e CAD **Carga Horária (hora aula)** : 80 **Período Letivo** : 1º ano 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-## **EMENTA** 
+ABNT. **Coletânea de normas de desenho técnico** . São Paulo, Senai-dte-dmd, 1990. ARCAS, S.; ARCAS, J. F. e GONZALEZ, I. **Perspectiva para Principiantes** . Editora: Könemann. 2006. BAPTISTA, P. F. e MICELI, M. T. **Desenho Técnico Básico** . Editora Imperial Novo milênio. 3ª Ed. 2008. BUENO. C.P; Papazoglou, R. S. **Desenho técnico para engenharia** . 1. ed. São Paulo: Jurua, 2008. MAGUIRE, D. E.; SIMMONS, C. H. **Desenho Técnico: problemas e soluções gerais de desenho.** São Paulo: Hemus, 2004. MANFÈ, Giovanni; POZZA, Rino; SCARATO, Giovanni. **Desenho técnico mecânico: curso completo para as escolas técnicas e ciclo básico das Faculdades de engenharia** . São Paulo: Hemus, 2004. Vol. 1 e 2. MICELI, M. T **. Desenho Técnico Básico.** 2ª ed. Rio de Janeiro: Ao Livro Técnico, 2001. NETTO, Claudia Campos. **Estudo Dirigido de Autocad 2015 - Para Windows** . Érica, 2014.320p. PEREIRA,N. DE CASTRO. **Desenho Técnico** . Curitiba: Base, 2012. SILVA, Arlindo et al. (). **Desenho técnico moderno** . 4. ed. Rio de Janeiro: LTC, c2006. 475 p. ISBN 9788521615224 (broch.). SILVEIRA, Samuel João. **Aprendendo Autocad 2015 - Simples e Rápido** . Visual Books.
 
-Materiais e ferramentas de desenho técnico. Normas e convenções técnicas. Introdução ao desenho técnico (caligrafia técnica, Folha de Desenho, Leiaute e Dimensões, tipos de linhas para desenho técnico). Noções de desenho geométrico. Escalas. Cotagem. Projeções. Projeção ortogonal. Vistas ortográficas. Perspectivas (isométrica e cavaleiras). Introdução ao Desenho Assistido por Computador (Auto CAD). Interface. Configurações iniciais. Ferramentas de Precisão. Comandos de visualização. Comandos de desenho e de edição. Criação e configuração de camadas (layers). Criação e configuração de cotas. Hachuras. Configuração de plotagem. Etapas para criação de projetos em 2D. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-**METODOLOGIA** Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula. 
-
-## **BIBLIOGRAFIA BÁSICA** 
-
-LIMA C. C. **Estudo dirigido do AutoCad 2010** . São Paulo: Érica, 2009. JUNGHANS, Daniel. **Informática aplicada ao desenho técnico** . Curitiba: Base Editorial, 2010. 224 p. (Educação profissional). ISBN 9788579055478 (broch.) PROVENZA, Francesco. **Manual do Desenhista** . São Paulo: Provenza, 1997. STRAUHS, Faimara do Rocio. **Desenho técnico** . Curitiba: Base Editorial, 2010. 112 p. (Educação profissional. Ensino médio técnico). ISBN 9788579055393 (broch.) 
-
-## **BIBLIOGRAFIA COMPLEMENTAR** 
-
-ABNT. **Coletânea de normas de desenho técnico** . São Paulo, Senai-dte-dmd, 1990. ARCAS, S.; ARCAS, J. F. e GONZALEZ, I. **Perspectiva para Principiantes** . Editora: Könemann. 2006. BAPTISTA, P. F. e MICELI, M. T. **Desenho Técnico Básico** . Editora Imperial Novo milênio. 3ª Ed. 2008. BUENO. C.P; Papazoglou, R. S. **Desenho técnico para engenharia** . 1. ed. São Paulo: Jurua, 2008. MAGUIRE, D. E.; SIMMONS, C. H. **Desenho Técnico: problemas e soluções gerais de desenho.** São Paulo: Hemus, 2004. MANFÈ, Giovanni; POZZA, Rino; SCARATO, Giovanni. **Desenho técnico mecânico: curso completo para as escolas técnicas e ciclo básico das Faculdades de engenharia** . São Paulo: Hemus, 2004. Vol. 1 e 2. MICELI, M. T **. Desenho Técnico Básico.** 2ª ed. Rio de Janeiro: Ao Livro Técnico, 2001. NETTO, Claudia Campos. **Estudo Dirigido de Autocad 2015 - Para Windows** . Érica, 2014.320p. PEREIRA,N. DE CASTRO. **Desenho Técnico** . Curitiba: Base, 2012. SILVA, Arlindo et al. (). **Desenho técnico moderno** . 4. ed. Rio de Janeiro: LTC, c2006. 475 p. ISBN 9788521615224 (broch.). SILVEIRA, Samuel João. **Aprendendo Autocad 2015 - Simples e Rápido** . Visual Books. 
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
-
-## **IFPR – CÂMPUS PARANAVAÍ** 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
 |**IFPR – CÂMPUS PARANAVAÍ**|**IFPR – CÂMPUS PARANAVAÍ**|
 |---|---|
@@ -2169,163 +1945,147 @@ ABNT. **Coletânea de normas de desenho técnico** . São Paulo, Senai-dte-dmd, 
 |**BIBLIOGRAFIA BÁSICA**<br>IDOETA, Ivan Valeije; CAPUANO, Francisco Gabriel.**Elementos de eletrônica digital**. 42.<br>ed. São Paulo: Érica, 2008.<br>TOCCI, Ronald J.; WIDMER, Neal S.; MOSS, Gregory L.**Sistemas digitais**: princípios e<br>aplicações. 10. ed. São Paulo: Pearson Prentice Hall, 2007.<br>SEDRA, Adel S.; SMITH, Kenneth C.**Microeletrônica**. 4. ed. São Paulo: Makron Books,<br>2000.||
 |**BIBLIOGRAFIA COMPLEMENTAR**<br>BOYLESTAD, Robert L.; NASHELSKY, Louis.**Dispositivos eletrônicos e teoria de**<br>**circuitos**. 8. ed. São Paulo: Pearson Prentice Hall, 2007.<br>MALVINO, Albert Paul.**Eletrônica**. 4. ed. São Paulo: Makron Books, 1997. Vol. 2.<br>DORF, Richard C.; SVOBODA, James A.**Introdução aos circuitos elétricos**. 7. ed. Rio de<br>Janeiro: LTC, 2008.<br>NAHVI, Mahmood; EDMINISTER, Joseph.**Teoria e problemas de circuitos elétricos**. 4.<br>ed. Porto Alegre: Bookman, 2005.||
 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+**Curso:** Técnico em Mecatrônica Integrado **Eixo Tecnológico:** Controle e Processos ao Ensino Médio Industriais **Componente Curricular** : Análise de Circuitos Elétricos **Carga Horária (hora aula)** : 80 **Período Letivo:** 2º Ano
 
-**==> picture [458 x 63] intentionally omitted <==**
+## **EMENTA**
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+Analise de Circuitos Elétricos - Eletrostática: atomística, condutores e isolantes, carga elétrica, potencial elétrico, eletrização, capacitores e capacitância. Eletrodinâmica: tensão elétrica, corrente elétrica, resistência elétrica, lei de Ohm, efeito Joule, resistores, potência elétrica, associação de resistores, fontes de tensão e de corrente, leis de Kirchhoff, divisor de tensão e divisor de corrente, transformação de fontes, transformação estrela-triângulo, ponte de Wheatstone, análise nodal. Teoremas: Norton, Thévenin, superposição. Eletromagnetismo: campo magnético, imãs, substâncias magnéticas e não-magnéticas, imãs transitórios e permanentes, eletroímãs, indutor e indutância. Transitóriosem circuitos de corrente contínua. Instrumentos para medidas elétricas. Técnicas de soldagem. Grandezas senoidais: Tipos de ondas (quadrada, triangular, dente de serra, senoidal), diagrama fasorial, valor médio, valor eficaz e instantâneo. Lei de Lenz e Lei de Faraday. Análise fasorial: circuitos (RL e RC), impedância, potência (ativa, reativa e aparente), fator de potência, correção do fator de potência. Circuitos trifásicos: ligação em estrela e em triângulo, ligações mistas, potências em sistemas trifásicos. Teoria dos semicondutores. Diodos. Transistor bipolar como chave. Reguladores de tensão. Amplificadores operacionais e suas aplicações. Circuitos osciladores.
 
-**Curso:** Técnico em Mecatrônica Integrado **Eixo Tecnológico:** Controle e Processos ao Ensino Médio Industriais **Componente Curricular** : Análise de Circuitos Elétricos **Carga Horária (hora aula)** : 80 **Período Letivo:** 2º Ano 
+## **METODOLOGIA**
 
-## **EMENTA** 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula. **BIBLIOGRAFIA BASICA:**
 
-Analise de Circuitos Elétricos - Eletrostática: atomística, condutores e isolantes, carga elétrica, potencial elétrico, eletrização, capacitores e capacitância. Eletrodinâmica: tensão elétrica, corrente elétrica, resistência elétrica, lei de Ohm, efeito Joule, resistores, potência elétrica, associação de resistores, fontes de tensão e de corrente, leis de Kirchhoff, divisor de tensão e divisor de corrente, transformação de fontes, transformação estrela-triângulo, ponte de Wheatstone, análise nodal. Teoremas: Norton, Thévenin, superposição. Eletromagnetismo: campo magnético, imãs, substâncias magnéticas e não-magnéticas, imãs transitórios e permanentes, eletroímãs, indutor e indutância. Transitóriosem circuitos de corrente contínua. Instrumentos para medidas elétricas. Técnicas de soldagem. Grandezas senoidais: Tipos de ondas (quadrada, triangular, dente de serra, senoidal), diagrama fasorial, valor médio, valor eficaz e instantâneo. Lei de Lenz e Lei de Faraday. Análise fasorial: circuitos (RL e RC), impedância, potência (ativa, reativa e aparente), fator de potência, correção do fator de potência. Circuitos trifásicos: ligação em estrela e em triângulo, ligações mistas, potências em sistemas trifásicos. Teoria dos semicondutores. Diodos. Transistor bipolar como chave. Reguladores de tensão. Amplificadores operacionais e suas aplicações. Circuitos osciladores. 
+ALBUQUERQUE, Rômulo Oliveira. **Análise de circuitos em corrente contínua** . 21. ed. São Paulo: Érica, 2008. BOYLESTAD, Robert L. **Introdução à análise de circuitos** . 10. ed. São Paulo: Pearson Prentice Hall, 2004. MARIOTTO, Paulo Antônio. **Análise de circuitos elétricos** . São Paulo: Prentice Hall, 2003. **BIBLIOGRAFIA COMPLEMENTAR**
 
-## **METODOLOGIA** 
+DORF, Richard C.; SVOBODA, James A. **Introdução aos circuitos elétricos** . 7. ed. Rio de Janeiro: LTC, 2008. NAHVI, Mahmood; EDMINISTER, Joseph. **Teoria e problemas de circuitos elétricos** . 4. ed. Porto Alegre: Bookman, 2005. ALEXANDER, Charles K.; SADIKU, Matthew N. O. **Fundamentos de circuitos elétricos** . 3. ed. São Paulo: McGraw-Hill, 2008.CAVALIN, G., S. Cervelin. **Instalações elétricas prediais** . 19. ed. São Paulo: Érica, 2009. GUERRINI, D.P. **Iluminação** : teoria e projeto. 2. ed. São Paulo: Erica, 2008.
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula. **BIBLIOGRAFIA BASICA:** 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-ALBUQUERQUE, Rômulo Oliveira. **Análise de circuitos em corrente contínua** . 21. ed. São Paulo: Érica, 2008. BOYLESTAD, Robert L. **Introdução à análise de circuitos** . 10. ed. São Paulo: Pearson Prentice Hall, 2004. MARIOTTO, Paulo Antônio. **Análise de circuitos elétricos** . São Paulo: Prentice Hall, 2003. **BIBLIOGRAFIA COMPLEMENTAR** 
+## **IFPR – CAMPUS PARANAVAÍ**
 
-DORF, Richard C.; SVOBODA, James A. **Introdução aos circuitos elétricos** . 7. ed. Rio de Janeiro: LTC, 2008. NAHVI, Mahmood; EDMINISTER, Joseph. **Teoria e problemas de circuitos elétricos** . 4. ed. Porto Alegre: Bookman, 2005. ALEXANDER, Charles K.; SADIKU, Matthew N. O. **Fundamentos de circuitos elétricos** . 3. ed. São Paulo: McGraw-Hill, 2008.CAVALIN, G., S. Cervelin. **Instalações elétricas prediais** . 19. ed. São Paulo: Érica, 2009. GUERRINI, D.P. **Iluminação** : teoria e projeto. 2. ed. São Paulo: Erica, 2008. 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Introdução a Programação **Carga Horária (hora aula)** : 80 **Período Letivo** : 3º ano
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+## **EMENTA**
 
-**==> picture [458 x 63] intentionally omitted <==**
+Fundamentos de algoritmos e lógica, linguagens de programação e ambientes de desenvolvimento (IDE). Introdução a identificadores, tipos de dados, operadores, expressões, estrutura de seleção, estrutura de repetição, acesso a arquivos, funções e passagem de parâmetros, utilizando a linguagem C aplicada ao controle de periféricos, aquisição de dados.
 
-## **IFPR – CAMPUS PARANAVAÍ** 
+## **METODOLOGIA**
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Introdução a Programação **Carga Horária (hora aula)** : 80 **Período Letivo** : 3º ano 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula.
 
-## **EMENTA** 
+## **BIBLIOGRAFIA BÁSICA**
 
-Fundamentos de algoritmos e lógica, linguagens de programação e ambientes de desenvolvimento (IDE). Introdução a identificadores, tipos de dados, operadores, expressões, estrutura de seleção, estrutura de repetição, acesso a arquivos, funções e passagem de parâmetros, utilizando a linguagem C aplicada ao controle de periféricos, aquisição de dados. 
+MANZANO, José Augusto N. G.; OLIVEIRA, Jayr Figueiredo de. **Algoritmos: lógica para desenvolvimento de programação de computadores** . 26. São Paulo: Érica, 2012. 328 p. LOPES, Anita; GARCIA, Guto **.. Introdução à programação: 500 algoritmos resolvidos.** Rio de Janeiro: Campus, 2002.
 
-## **METODOLOGIA** 
+MEDINA, Marco; FERTIG, Cristina **. Algoritmos e Programação: Teoria e Prática.** 2. ed. São Paulo: Novatec, 2006. 384 p.
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula. 
+FORBELLONE, André Luiz Villar; EBERSPÄCHER, Henri Frederico. **Lógica de programação: a construção de algoritmos e estruturas de dados.** 3. ed. São Paulo: Pearson Prentice Hall, 2005. 218 p.
 
-## **BIBLIOGRAFIA BÁSICA** 
+MANZANO, José Augusto N. G.. **Estudo dirigido de Linguagem C** . 7. ed. São Paulo: Érica, 2003. MIZRAHI, Victorine Viviane; **Treinamento em Linguagem C.** 2 ed. Pearson - Prentice-Hall 2008. PAIVA, Severino. **Introdução à Programação: do algoritmo às linguagens atuais** . Rio de Janeiro: Ciência Moderna, 2008. 192 p.
 
-MANZANO, José Augusto N. G.; OLIVEIRA, Jayr Figueiredo de. **Algoritmos: lógica para desenvolvimento de programação de computadores** . 26. São Paulo: Érica, 2012. 328 p. LOPES, Anita; GARCIA, Guto **.. Introdução à programação: 500 algoritmos resolvidos.** Rio de Janeiro: Campus, 2002. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-MEDINA, Marco; FERTIG, Cristina **. Algoritmos e Programação: Teoria e Prática.** 2. ed. São Paulo: Novatec, 2006. 384 p. 
+MANZANO, José Augusto N. G. **Estudo dirigido de linguagem C** . 14.ed. São Paulo: Érica, 2010. 212 p. MIZRAHI, Victorine Viviane. **Treinamento em linguagem c++: módulo 2** . 2.ed. São Paulo: Pearson, 2006. 309 p
 
-FORBELLONE, André Luiz Villar; EBERSPÄCHER, Henri Frederico. **Lógica de programação: a construção de algoritmos e estruturas de dados.** 3. ed. São Paulo: Pearson Prentice Hall, 2005. 218 p. 
+VELLOSO, Fernando de Castro. **Informática: conceitos básicos** . 8. ed. re. e atual. Rio de Janeiro: Campus, 2011.
 
-MANZANO, José Augusto N. G.. **Estudo dirigido de Linguagem C** . 7. ed. São Paulo: Érica, 2003. MIZRAHI, Victorine Viviane; **Treinamento em Linguagem C.** 2 ed. Pearson - Prentice-Hall 2008. PAIVA, Severino. **Introdução à Programação: do algoritmo às linguagens atuais** . Rio de Janeiro: Ciência Moderna, 2008. 192 p. 
+ARAÚJO, Everton Coimbra de. **Algoritmos: fundamentos e prática.** 3. ed. Florianópolis: Visual Books, 2007. 414 p.
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+FARREL, Joyce. **Lógica e Design de Programação: introdução.** 5.ed. São Paulo: Cengage Learning, 2010. 416 p. FARRER, Harry et al **. Algoritmos Estruturados.** 3. ed. Rio de Janeiro: Editora LTC, 1999. 284 p. WIRTH, Niklaus. **Algoritmos e Estruturas de Dados** . Rio de Janeiro: LTC, 1999. 255 p. TUCKER, Allen B; NOONAN, Robert. **Linguagens de programação: princípios e paradigmas** . 2. ed. São Paulo: McGraw-Hill, 2008. 599 p.
 
-MANZANO, José Augusto N. G. **Estudo dirigido de linguagem C** . 14.ed. São Paulo: Érica, 2010. 212 p. MIZRAHI, Victorine Viviane. **Treinamento em linguagem c++: módulo 2** . 2.ed. São Paulo: Pearson, 2006. 309 p 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-VELLOSO, Fernando de Castro. **Informática: conceitos básicos** . 8. ed. re. e atual. Rio de Janeiro: Campus, 2011. 
+ASCENCIO, Ana Fernanda Gomes; CAMPOS, Edilene Aparecida Veneruchi. **Fundamentos da Programação de Computadores** . 2ª. São Paulo: Prentice Hall, 2008. 434 p.
 
-ARAÚJO, Everton Coimbra de. **Algoritmos: fundamentos e prática.** 3. ed. Florianópolis: Visual Books, 2007. 414 p. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-FARREL, Joyce. **Lógica e Design de Programação: introdução.** 5.ed. São Paulo: Cengage Learning, 2010. 416 p. FARRER, Harry et al **. Algoritmos Estruturados.** 3. ed. Rio de Janeiro: Editora LTC, 1999. 284 p. WIRTH, Niklaus. **Algoritmos e Estruturas de Dados** . Rio de Janeiro: LTC, 1999. 255 p. TUCKER, Allen B; NOONAN, Robert. **Linguagens de programação: princípios e paradigmas** . 2. ed. São Paulo: McGraw-Hill, 2008. 599 p. 
+## **IFPR – CAMPUS PARANAVAÍ**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+**Curso:** Técnico em Mecatrônica Integrado **Eixo Tecnológico:** Controle e Processos ao Ensino Médio Industriais
 
-**==> picture [458 x 63] intentionally omitted <==**
+**Componente Curricular** : Tecnologia dos Materiais
 
-ASCENCIO, Ana Fernanda Gomes; CAMPOS, Edilene Aparecida Veneruchi. **Fundamentos da Programação de Computadores** . 2ª. São Paulo: Prentice Hall, 2008. 434 p. 
+**Carga Horária (hora aula)** : 80 **Período Letivo:** 3º Ano
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+## **EMENTA**
 
-**==> picture [458 x 63] intentionally omitted <==**
+Classificação dos materiais; Estrutura atômica; Ligações Interatômicas nos sólidos; Estrutura de sólidos cristalinos; Imperfeições cristalinas; Deformações dos metais: elástica e plástica; Homogeneidade e isotropia; Diagrama de fase em condições de equilíbrio; Diagrama de fases Ferro-Carbono; Transformação de fases em metais: desenvolvimento da microestrutura; Tratamentos térmicos e termoquímicos; Ensaios destrutivos; Ensaios nãodestrutivo; Materiais cerâmicos; Materiais poliméricos; Compósitos.
 
-## **IFPR – CAMPUS PARANAVAÍ** 
+## **METODOLOGIA**
 
-**Curso:** Técnico em Mecatrônica Integrado **Eixo Tecnológico:** Controle e Processos ao Ensino Médio Industriais 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula.
 
-**Componente Curricular** : Tecnologia dos Materiais 
+## **BIBLIOGRAFIA BASICA:**
 
-**Carga Horária (hora aula)** : 80 **Período Letivo:** 3º Ano 
+CALLISTER, W. D. **Ciência e Engenharia de Materiais - Uma Introdução.** São Paulo: LTC, 1999.
 
-## **EMENTA** 
+GARCIA, A. **Ensaios dos materiais** . Rio de Janeiro: LTC, 2000.
 
-Classificação dos materiais; Estrutura atômica; Ligações Interatômicas nos sólidos; Estrutura de sólidos cristalinos; Imperfeições cristalinas; Deformações dos metais: elástica e plástica; Homogeneidade e isotropia; Diagrama de fase em condições de equilíbrio; Diagrama de fases Ferro-Carbono; Transformação de fases em metais: desenvolvimento da microestrutura; Tratamentos térmicos e termoquímicos; Ensaios destrutivos; Ensaios nãodestrutivo; Materiais cerâmicos; Materiais poliméricos; Compósitos. 
+SMITH, W. F. **Princípios de Ciência e Engenharia dos Materiais** . São Paulo: MacGrawHill.
 
-## **METODOLOGIA** 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula. 
+ASHBY, M. F. e Jones, D. R. H.; **Engineering Materials** 2: An Introduction to Microstructures, Processing and Design, 3. ed., Butterworh Heinemann, 2005.
 
-## **BIBLIOGRAFIA BASICA:** 
+CALLISTER, W. D. **Ciência e Engenharia de Materiais - Uma Introdução** . 5 ed. Rio de Janeiro: LTC, 2002.
 
-CALLISTER, W. D. **Ciência e Engenharia de Materiais - Uma Introdução.** São Paulo: LTC, 1999. 
+GARCIA, A. **Solidificação** : Fundamentos e Aplicações. Campinas: UNICAMP, 2001.
 
-GARCIA, A. **Ensaios dos materiais** . Rio de Janeiro: LTC, 2000. 
+SHAKELFORD, J. F. _**Introduction to Materials Science for Engineers**_ , 7. ed.
 
-SMITH, W. F. **Princípios de Ciência e Engenharia dos Materiais** . São Paulo: MacGrawHill. 
+VAN VLACK, LAWRENCE H. **Princípios de Ciência e Tecnologia dos Materiais** . 11.ed. Rio de Janeiro: Câmpus, 1994.
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-ASHBY, M. F. e Jones, D. R. H.; **Engineering Materials** 2: An Introduction to Microstructures, Processing and Design, 3. ed., Butterworh Heinemann, 2005. 
+## **IFPR – CAMPUS PARANAVAÍ**
 
-CALLISTER, W. D. **Ciência e Engenharia de Materiais - Uma Introdução** . 5 ed. Rio de Janeiro: LTC, 2002. 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Comandos, Acionamentos e Instalações de Máquinas Elétricas **Carga Horária (hora aula)** : 80 **Carga Horária (hora aula)** : 80
 
-GARCIA, A. **Solidificação** : Fundamentos e Aplicações. Campinas: UNICAMP, 2001. 
+## **EMENTA**
 
-SHAKELFORD, J. F. _**Introduction to Materials Science for Engineers**_ , 7. ed. 
+Conversão eletromecânica de energia; Transformadores; Máquinas de corrente contínua; Máquinas de corrente alternada, assíncrona e síncronas; Motores de Passo; Servomotores; Máquinas Especiais; Acionamento elétrico de máquinas; Partida direta; Partida estrelatriângulo; Diagramas elétricos de sistemas de acionamento; Tensões em Instalações Industriais; Dimensionamento; Proteção de Instalações Elétricas Industriais; Fator de Potência em Instalações Elétricas Industriais; Desenvolvimento de Projetos Elétricos Industriais. Dispositivos de comando: relés, contatos, contatores, proteção, sinalização; temporizadores; Painéis de comando; Montagem com partida direta e indireta; Partida indireta utilizando chave estrela triângulo; Partida indireta utilizando auto-trafo; Acionamento com inversores de Frequência; Acionamento com soft-starter.
 
-VAN VLACK, LAWRENCE H. **Princípios de Ciência e Tecnologia dos Materiais** . 11.ed. Rio de Janeiro: Câmpus, 1994. 
+## **METODOLOGIA**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula.
 
-**==> picture [458 x 63] intentionally omitted <==**
+## **BIBLIOGRAFIA BASICA:**
 
-## **IFPR – CAMPUS PARANAVAÍ** 
+KOSOW, Irving L. **Máquinas Elétricas e transformadores** . 4. Ed. V. 01; KOSOW, Irving L. Máquinas Elétricas e transformadores. 4.ed. - V. 02; SIMONE, Gilio Aluisio. **Máquinas de Corrente Contínua** - Teoria e Exercícios. SIMONE, Gilio Aluisio. **Máquinas de Indução Trifásicas** - Teoria e Exercícios. DEL TORO, Vincent. **Fundamentos de máquinas elétricas** . Tradução de Onofre de Andrade Martins. Rio de Janeiro: Livros Técnicos e Científicos, 1994. MARTIGNONI, Alfonso. **Máquinas de corrente alternada** . Porto Alegre: Globo, 1970. FILHO, J. Mamede. **Instalações elétricas industriais** . 5.ed. Rio de Janeiro: LTC,2007. CREDER, H. **Instalações elétricas** . 15.ed. Rio de Janeiro: LTC, 2007.
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Comandos, Acionamentos e Instalações de Máquinas Elétricas **Carga Horária (hora aula)** : 80 **Carga Horária (hora aula)** : 80 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-## **EMENTA** 
+MARTIGNONI, Alfonso. **Máquinas elétricas de corrente continua** . 5. ed. Rio de Janeiro, 1987; MARTIGNONI, Alfonso. **Transformadores** . 6. ed. rev. Porto Alegre: Globo, 1983; MARTIGNONI, A., **Transformadores** ; OLIVEIRA, J. C. Transformadores: teoria e ensaios; HALLIDAY, D., RESNICK, R., WALKER, J. **Fundamentos de física** : eletromagnetismo. NASCIMENTO JUNIOR, G. C. **Máquinas Elétricas** : teoria e ensaios; FITZGERALD, A. E., KUSKO, A., KINGSLEY, C. **Máquinas Elétricas** ; SEN, P. C. Principles of electric machines and power electronics”, John Wile. Gerenciamento de Projetos – estabelecendo diferenciais VARGAS, Ricardo Viana. Competitivos. NISKIER, J. , A.J. Macintyre. **Instalações elétricas.** 5.ed. Rio de Janeiro: LTC,2008. CAVALIN, G., S. Cervelin. **Instalações elétricas prediais** . 19.ed. São Paulo:Érica, 2009. GUERRINI, D.P. **Iluminação: teoria e projeto** . 2.ed. São Paulo: Erica, 2008.
 
-Conversão eletromecânica de energia; Transformadores; Máquinas de corrente contínua; Máquinas de corrente alternada, assíncrona e síncronas; Motores de Passo; Servomotores; Máquinas Especiais; Acionamento elétrico de máquinas; Partida direta; Partida estrelatriângulo; Diagramas elétricos de sistemas de acionamento; Tensões em Instalações Industriais; Dimensionamento; Proteção de Instalações Elétricas Industriais; Fator de Potência em Instalações Elétricas Industriais; Desenvolvimento de Projetos Elétricos Industriais. Dispositivos de comando: relés, contatos, contatores, proteção, sinalização; temporizadores; Painéis de comando; Montagem com partida direta e indireta; Partida indireta utilizando chave estrela triângulo; Partida indireta utilizando auto-trafo; Acionamento com inversores de Frequência; Acionamento com soft-starter. 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-## **METODOLOGIA** 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula. 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Administração e Empreendedorismo **Carga Horária (hora aula)** : 40 **Período Letivo** : 3º ano
 
-## **BIBLIOGRAFIA BASICA:** 
+**EMENTA**
 
-KOSOW, Irving L. **Máquinas Elétricas e transformadores** . 4. Ed. V. 01; KOSOW, Irving L. Máquinas Elétricas e transformadores. 4.ed. - V. 02; SIMONE, Gilio Aluisio. **Máquinas de Corrente Contínua** - Teoria e Exercícios. SIMONE, Gilio Aluisio. **Máquinas de Indução Trifásicas** - Teoria e Exercícios. DEL TORO, Vincent. **Fundamentos de máquinas elétricas** . Tradução de Onofre de Andrade Martins. Rio de Janeiro: Livros Técnicos e Científicos, 1994. MARTIGNONI, Alfonso. **Máquinas de corrente alternada** . Porto Alegre: Globo, 1970. FILHO, J. Mamede. **Instalações elétricas industriais** . 5.ed. Rio de Janeiro: LTC,2007. CREDER, H. **Instalações elétricas** . 15.ed. Rio de Janeiro: LTC, 2007. 
+Histórico sobre evolução da Administração; Conceito de Administração e papel do Administrador; Liderança; Conflito e resolução de conflitos; Estruturas organizacionais; Jogos de Empresa; Conceito de Marketing; Segmentação de Mercado; Posicionamento de Mercado; Pesquisa de Marketing; Administração estratégica da produção; Sistemas de produção; Planejamento e controle da produção; Sistema de administração da produção – JIT e Kanban; Gestão da qualidade e meio ambiente; Empreendedorismo; O perfil do empreendedor: qualidades, habilidades e competências do empreendedor; Elaboração de Plano de Negócios; Intra-empreendedor (empreendedor corporativo).
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+## **METODOLOGIA**
 
-MARTIGNONI, Alfonso. **Máquinas elétricas de corrente continua** . 5. ed. Rio de Janeiro, 1987; MARTIGNONI, Alfonso. **Transformadores** . 6. ed. rev. Porto Alegre: Globo, 1983; MARTIGNONI, A., **Transformadores** ; OLIVEIRA, J. C. Transformadores: teoria e ensaios; HALLIDAY, D., RESNICK, R., WALKER, J. **Fundamentos de física** : eletromagnetismo. NASCIMENTO JUNIOR, G. C. **Máquinas Elétricas** : teoria e ensaios; FITZGERALD, A. E., KUSKO, A., KINGSLEY, C. **Máquinas Elétricas** ; SEN, P. C. Principles of electric machines and power electronics”, John Wile. Gerenciamento de Projetos – estabelecendo diferenciais VARGAS, Ricardo Viana. Competitivos. NISKIER, J. , A.J. Macintyre. **Instalações elétricas.** 5.ed. Rio de Janeiro: LTC,2008. CAVALIN, G., S. Cervelin. **Instalações elétricas prediais** . 19.ed. São Paulo:Érica, 2009. GUERRINI, D.P. **Iluminação: teoria e projeto** . 2.ed. São Paulo: Erica, 2008. 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula.
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+## **BIBLIOGRAFIA BÁSICA**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+ANDRADE, R. O. B.; AMBONI, N. **Fundamentos de Administração para cursos de gestão** . Rio de Janeiro: Elsevier, 2011. CHIAVENATO, I. **Administração: teoria, processo e prática** . 7. tiragem. Rio de Janeiro: Elsevier, 2007. GAUTHIER, F. A. O.; MACEDO, M.; JUNIOR, SILVESTRE L. **Empreendedorismo** . Editora Livro Técnico, 2010. KOTLER, P. **Marketing de A a Z: 84 conceitos que todo profissional precisa saber** . Rio de Janeiro: Elsevier, 2003.
 
-**==> picture [458 x 63] intentionally omitted <==**
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Administração e Empreendedorismo **Carga Horária (hora aula)** : 40 **Período Letivo** : 3º ano 
+JACOBS, R.; CHASE, R. B. **Administração da produção e de operações** : o essencial. São Paulo, Bookman, 2009. MARTINS, Petrônio G.; LAUGENI, Fernando Piero. **Administração da Produção** . 2. ed. Editora Saraiva, 2005. DORNELAS, J. C. A. **Empreendedorismo: transformando ideias em negócios** . 2 ed. Rio de Janeiro: Câmpus, 2001. SLACK, N.; CHAMBERS, S.; JOHNSTON, R. **Administração da Produção** . 3. ed. Editora Atlas, 2009. CARVALHO, M. M.; PALADINI, E. P. (Coord). **Gestão da Qualidade** : Teoria e Casos. 2. ed. rev. Rio de Janeiro: Elsevier, 2012.
 
-**EMENTA** 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-Histórico sobre evolução da Administração; Conceito de Administração e papel do Administrador; Liderança; Conflito e resolução de conflitos; Estruturas organizacionais; Jogos de Empresa; Conceito de Marketing; Segmentação de Mercado; Posicionamento de Mercado; Pesquisa de Marketing; Administração estratégica da produção; Sistemas de produção; Planejamento e controle da produção; Sistema de administração da produção – JIT e Kanban; Gestão da qualidade e meio ambiente; Empreendedorismo; O perfil do empreendedor: qualidades, habilidades e competências do empreendedor; Elaboração de Plano de Negócios; Intra-empreendedor (empreendedor corporativo). 
-
-## **METODOLOGIA** 
-
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula. 
-
-## **BIBLIOGRAFIA BÁSICA** 
-
-ANDRADE, R. O. B.; AMBONI, N. **Fundamentos de Administração para cursos de gestão** . Rio de Janeiro: Elsevier, 2011. CHIAVENATO, I. **Administração: teoria, processo e prática** . 7. tiragem. Rio de Janeiro: Elsevier, 2007. GAUTHIER, F. A. O.; MACEDO, M.; JUNIOR, SILVESTRE L. **Empreendedorismo** . Editora Livro Técnico, 2010. KOTLER, P. **Marketing de A a Z: 84 conceitos que todo profissional precisa saber** . Rio de Janeiro: Elsevier, 2003. 
-
-## **BIBLIOGRAFIA COMPLEMENTAR** 
-
-JACOBS, R.; CHASE, R. B. **Administração da produção e de operações** : o essencial. São Paulo, Bookman, 2009. MARTINS, Petrônio G.; LAUGENI, Fernando Piero. **Administração da Produção** . 2. ed. Editora Saraiva, 2005. DORNELAS, J. C. A. **Empreendedorismo: transformando ideias em negócios** . 2 ed. Rio de Janeiro: Câmpus, 2001. SLACK, N.; CHAMBERS, S.; JOHNSTON, R. **Administração da Produção** . 3. ed. Editora Atlas, 2009. CARVALHO, M. M.; PALADINI, E. P. (Coord). **Gestão da Qualidade** : Teoria e Casos. 2. ed. rev. Rio de Janeiro: Elsevier, 2012. 
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
-
-## **IFPR – CÂMPUS PARANAVAÍ** 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
 |**IFPR – CÂMPUS PARANAVAÍ**|**IFPR – CÂMPUS PARANAVAÍ**|
 |---|---|
@@ -2337,131 +2097,119 @@ JACOBS, R.; CHASE, R. B. **Administração da produção e de operações** : o 
 |**BIBLIOGRAFIA BÁSICA**<br>BOYLESTAD, Robert L.; NASHELSKY, Louis.**Dispositivos eletrônicos e teoria de**<br>**circuitos.**8. ed. São Paulo: Pearson Prentice Hall, 2007.<br>MALVINO, Albert Paul.**Eletrônica**. 4. ed. São Paulo: Makron Books, 1997. v2.<br>SEDRA, Adel S.; SMITH, Kenneth C.**Microeletrônica**. 5. ed. São Paulo. Pearson Prentice<br>Hall, 207.||
 |**BIBLIOGRAFIA COMPLEMENTAR**<br>AHMED, Ashfaq.**Eletrônica de potência.**São Paulo: Prentice-Hall, 2000. 479p<br>DORF, Richard C.; SVOBODA, James A.**Introdução aos circuitos elétricos**. 7. ed. Rio de<br>Janeiro: LTC, 2008.<br>NAHVI, Mahmood; EDMINISTER, Joseph.**Teoria e problemas de circuitos elétricos**. 4.<br>ed. Porto Alegre: Bookman, 2005.||
 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
+## **IFPR – CAMPUS PARANAVAÍ**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais
 
-**==> picture [458 x 63] intentionally omitted <==**
+**Componente Curricular** : Automação Industrial
 
-## **IFPR – CAMPUS PARANAVAÍ** 
+**Carga Horária (hora aula)** : 80 **Período Letivo** : 4º ano
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais 
+## **EMENTA**
 
-**Componente Curricular** : Automação Industrial 
+Conceitos gerais sobre instrumentação industrial; Sensores Industriais; Leitura de sinais de sensores; Instrumentos para medição de pressão; Instrumentos para medição de nível; Instrumentos para medição de vazão; Instrumentos para medição de temperatura; Instrumentos para medição de pressão; Instrumentação analítica; Elementos finais de controle. Introdução aos sistemas de controle; CLP – princípio de funcionamento; Principais formas de programação em CLP; Linguagem Ladder – sintaxe e comandos; Regras de operação com variáveis; Compilador para a linguagem Ladder; Documentação de projetos. Redes Industriais; Modbus; Fieldbus; Fundation; Profibus; ASI; OPC e Hart.
 
-**Carga Horária (hora aula)** : 80 **Período Letivo** : 4º ano 
+## **METODOLOGIA**
 
-## **EMENTA** 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula.
 
-Conceitos gerais sobre instrumentação industrial; Sensores Industriais; Leitura de sinais de sensores; Instrumentos para medição de pressão; Instrumentos para medição de nível; Instrumentos para medição de vazão; Instrumentos para medição de temperatura; Instrumentos para medição de pressão; Instrumentação analítica; Elementos finais de controle. Introdução aos sistemas de controle; CLP – princípio de funcionamento; Principais formas de programação em CLP; Linguagem Ladder – sintaxe e comandos; Regras de operação com variáveis; Compilador para a linguagem Ladder; Documentação de projetos. Redes Industriais; Modbus; Fieldbus; Fundation; Profibus; ASI; OPC e Hart. 
+## **BIBLIOGRAFIA BÁSICA**
 
-## **METODOLOGIA** 
+CAPELLI, Alexandre **. Automação industrial: controle do movimento e processos contínuos.** 2. ed. São Paulo: Érica, 2008. 236 p. ISBN 9788536501178 FRANCHI, Claiton Moro. **Controle de processos industriais: princípios e aplicações** . São Paulo: Érica, 2011. 255 p. ISBN 9788536503691 (broch.) DELMÉE, Gérard Jean et al **. Instrumentação industrial** . 3. ed. Rio de Janeiro: Interciência: IBP, 2011. 668 p. ISBN 9788571932456
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-## **BIBLIOGRAFIA BÁSICA** 
+LUGLI, Alexandre Baratella; SANTOS, Max Mauro Dias **. Redes industriais para automação industrial: AS-I, PROFIBUS e PROFINET** . 1. ed. São Paulo: Érica, 2010. 174 p. ISBN 9788536503288 (broch.). SANT'ANNA, Solimara Ravani de; COSTA, Wagner Teixeira da. **Lógica de programação e automação** . Curitiba: Livro Técnico, 2012. 144 p. ISBN 9788563687340 (broch.). THOMAZINI, Daniel; ALBUQUERQUE, Pedro U. B. de. **Sensores industriais: fundamentos e aplicações** . 7. ed. rev. São Paulo: Érica, 2010. 224 p. ISBN 9788536500713 (broch.).
 
-CAPELLI, Alexandre **. Automação industrial: controle do movimento e processos contínuos.** 2. ed. São Paulo: Érica, 2008. 236 p. ISBN 9788536501178 FRANCHI, Claiton Moro. **Controle de processos industriais: princípios e aplicações** . São Paulo: Érica, 2011. 255 p. ISBN 9788536503691 (broch.) DELMÉE, Gérard Jean et al **. Instrumentação industrial** . 3. ed. Rio de Janeiro: Interciência: IBP, 2011. 668 p. ISBN 9788571932456 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+## **IFPR – CAMPUS PARANAVAÍ**
 
-LUGLI, Alexandre Baratella; SANTOS, Max Mauro Dias **. Redes industriais para automação industrial: AS-I, PROFIBUS e PROFINET** . 1. ed. São Paulo: Érica, 2010. 174 p. ISBN 9788536503288 (broch.). SANT'ANNA, Solimara Ravani de; COSTA, Wagner Teixeira da. **Lógica de programação e automação** . Curitiba: Livro Técnico, 2012. 144 p. ISBN 9788563687340 (broch.). THOMAZINI, Daniel; ALBUQUERQUE, Pedro U. B. de. **Sensores industriais: fundamentos e aplicações** . 7. ed. rev. São Paulo: Érica, 2010. 224 p. ISBN 9788536500713 (broch.). 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Ensino Médio Processos Industriais
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+**Componente Curricular** : Comando Numérico Computadorizado
 
-**==> picture [458 x 63] intentionally omitted <==**
+**Carga Horária (hora aula)** : 80 **Período Letivo** : 4º ano
 
-## **IFPR – CAMPUS PARANAVAÍ** 
+## **EMENTA**
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Ensino Médio Processos Industriais 
+Introdução ao comando numérico. Processos de usinagem com máquinas CNC: Pontos de referência, Eixos de referência, Sistemas de coordenadas, Características e recursos operacionais do torno CNC, Planejamento do processo, Estrutura e características da programação, Linguagem de programação, Funções preparatórias, auxiliares, miscelâneas e ciclos automáticos, Parâmetros tecnológicos de usinagem, Prática de operação em torno e centro de usinagem CNC. Aplicação das técnicas CAD/CAM.
 
-**Componente Curricular** : Comando Numérico Computadorizado 
+## **METODOLOGIA**
 
-**Carga Horária (hora aula)** : 80 **Período Letivo** : 4º ano 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula.
 
-## **EMENTA** 
+## **BIBLIOGRAFIA BÁSICA**
 
-Introdução ao comando numérico. Processos de usinagem com máquinas CNC: Pontos de referência, Eixos de referência, Sistemas de coordenadas, Características e recursos operacionais do torno CNC, Planejamento do processo, Estrutura e características da programação, Linguagem de programação, Funções preparatórias, auxiliares, miscelâneas e ciclos automáticos, Parâmetros tecnológicos de usinagem, Prática de operação em torno e centro de usinagem CNC. Aplicação das técnicas CAD/CAM. 
+ROMI **. Manual de operação CNC, comando Fanuc** . São Paulo: ROMI, 2002. 33 p. ROMI. **Manual de operação e programação CNC, comando Siemens** . São Paulo: ROMI, 2002. 94 p
 
-## **METODOLOGIA** 
+SANDVIK DO BRASIL S.A.. **Manual técnico de usinagem: torneamento, fresamento, furação, madrilhamento, sistemas de fixação** . São Paulo: [s.n.], [200-]. n.p. SANDVIK DO BRASIL S.A **.. Ferramentas para torneamento: produtos para usinagem.** São Paulo: Sandvik, 2000 232 p.
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-## **BIBLIOGRAFIA BÁSICA** 
+ROMI. **Manual de programação e operação CNC MACH 9.** São Paulo: ROMI, 2002. 222 p. ROMI. **Manual de programação e operação CNC MACH-9MP** . São Paulo: ROMI, 2002. 185 p. SANDVIK DO BRASIL S.A.. **Ferramentas rotativas: produtos para usinagem** . São Paulo: Sandvik, 1999. 232 p.
 
-ROMI **. Manual de operação CNC, comando Fanuc** . São Paulo: ROMI, 2002. 33 p. ROMI. **Manual de operação e programação CNC, comando Siemens** . São Paulo: ROMI, 2002. 94 p 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-SANDVIK DO BRASIL S.A.. **Manual técnico de usinagem: torneamento, fresamento, furação, madrilhamento, sistemas de fixação** . São Paulo: [s.n.], [200-]. n.p. SANDVIK DO BRASIL S.A **.. Ferramentas para torneamento: produtos para usinagem.** São Paulo: Sandvik, 2000 232 p. 
+## **IFPR – CAMPUS PARANAVAÍ**
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Ensino Médio Processos Industriais
 
-ROMI. **Manual de programação e operação CNC MACH 9.** São Paulo: ROMI, 2002. 222 p. ROMI. **Manual de programação e operação CNC MACH-9MP** . São Paulo: ROMI, 2002. 185 p. SANDVIK DO BRASIL S.A.. **Ferramentas rotativas: produtos para usinagem** . São Paulo: Sandvik, 1999. 232 p. 
+**Componente Curricular** : Processos de Fabricação **Carga Horária (hora aula)** : 80 **Período Letivo** : 4º ano
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+## **EMENTA**
 
-**==> picture [458 x 63] intentionally omitted <==**
+Classificação dos processos de fabricação mecânica; Processos metalúrgicos; Processos de fundição; Processos de conformação mecânica; Processos de Soldagem; Caracterização da soldagem; Terminologia e simbologia na soldagem; Soldagem a arco elétrico; Usinagem por geometria definida; Usinagem por geometria não-definida; Máquinas, características, nomenclaturas e formas de fresamento e torneamento; Teoria básica do corte em processos de usinagem; Cálculos e operação de cabeçote divisor universal; Confecção de superfícies técnicas pelo processo de usinagem; aplicação e parâmetros de corte.
 
-## **IFPR – CAMPUS PARANAVAÍ** 
+## **METODOLOGIA**
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Ensino Médio Processos Industriais 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula.
 
-**Componente Curricular** : Processos de Fabricação **Carga Horária (hora aula)** : 80 **Período Letivo** : 4º ano 
+## **BIBLIOGRAFIA BÁSICA**
 
-## **EMENTA** 
+CHIAVERINI, V. **Tecnologia Mecânica, vol II** . São Paulo: Makron Books, 1986. CHIAVERINI, Vicente. **Tecnologia mecânica: estrutura e propriedades das ligas metálicas** v. 1. 2. ed. São Paulo: Makron Books, Pearson Education, 1986. 266 p. HOFFMAN, Salvador. **Manual prático da soldagem: treinamento.** Rio Grande Do Sul: Caxias do sul, 1987. 77 p.
 
-Classificação dos processos de fabricação mecânica; Processos metalúrgicos; Processos de fundição; Processos de conformação mecânica; Processos de Soldagem; Caracterização da soldagem; Terminologia e simbologia na soldagem; Soldagem a arco elétrico; Usinagem por geometria definida; Usinagem por geometria não-definida; Máquinas, características, nomenclaturas e formas de fresamento e torneamento; Teoria básica do corte em processos de usinagem; Cálculos e operação de cabeçote divisor universal; Confecção de superfícies técnicas pelo processo de usinagem; aplicação e parâmetros de corte. 
+WEISS, Almiro. **Soldagem.** Curitiba: Editora do Livro Técnico, 2010. 128 p.
 
-## **METODOLOGIA** 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Leituras dirigidas e debates; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula. 
+WLADIKA, Walmir Eros. **Especificação e aplicação de materiais** . Curitiba: Base Editorial, 2010.
 
-## **BIBLIOGRAFIA BÁSICA** 
+HELMANM, H. CETLIN, P. R. **Fundamentos da conformação mecânica dos metais** . São Paulo: Artlibler, 2005.
 
-CHIAVERINI, V. **Tecnologia Mecânica, vol II** . São Paulo: Makron Books, 1986. CHIAVERINI, Vicente. **Tecnologia mecânica: estrutura e propriedades das ligas metálicas** v. 1. 2. ed. São Paulo: Makron Books, Pearson Education, 1986. 266 p. HOFFMAN, Salvador. **Manual prático da soldagem: treinamento.** Rio Grande Do Sul: Caxias do sul, 1987. 77 p. 
+CHIAVERINI, Vicente. **Aços e Ferros Fundidos** . ed. São Paulo: Makron Books,1998 FERREIRA, J. M. G. C., **Tecnologia da fundição** . Lisboa: Fundação Calouste Gulbenkian, 1999 SOLDAGEM: **Processos e Metalurgia** . 2. ed. São Paulo: E. Blucher, 1992. 494 p
 
-WEISS, Almiro. **Soldagem.** Curitiba: Editora do Livro Técnico, 2010. 128 p. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
-WLADIKA, Walmir Eros. **Especificação e aplicação de materiais** . Curitiba: Base Editorial, 2010. 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais
 
-HELMANM, H. CETLIN, P. R. **Fundamentos da conformação mecânica dos metais** . São Paulo: Artlibler, 2005. 
+**Componente Curricular** : Circuitos Pneumáticos e Hidráulicos **Carga Horária (hora aula)** : 80 **Período Letivo** : 4º ano
 
-CHIAVERINI, Vicente. **Aços e Ferros Fundidos** . ed. São Paulo: Makron Books,1998 FERREIRA, J. M. G. C., **Tecnologia da fundição** . Lisboa: Fundação Calouste Gulbenkian, 1999 SOLDAGEM: **Processos e Metalurgia** . 2. ed. São Paulo: E. Blucher, 1992. 494 p 
+## **EMENTA**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+Conceitos físicos aplicados à pneumática; Componentes pneumáticos (simbologia e função); Sistemas pneumáticos; Sistemas eletropneumáticos; Análise e síntese de circuitos pneumáticos; Componentes físicos aplicados à hidráulica; Componentes hidráulicos (simbologia e função); Sistemas hidráulicos; Sistemas eletro-hidráulicos; Análise e síntese de circuitos hidráulicos; Automação eletropneumática e eletro-hidráulica
 
-**==> picture [458 x 63] intentionally omitted <==**
+## **METODOLOGIA**
 
-## **IFPR – CÂMPUS PARANAVAÍ** 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula.
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais 
+## **BIBLIOGRAFIA BÁSICA**
 
-**Componente Curricular** : Circuitos Pneumáticos e Hidráulicos **Carga Horária (hora aula)** : 80 **Período Letivo** : 4º ano 
+BONACORSO, Nelson Gauze, NOLL, Valdir. **Automação Eletropneumática** . 12. ed. São Paulo: Érica, 2013. FIALHO, Arivelto Bustamante. **Automação Hidráulica** – Projetos, Dimensionamento e Análise de Circuitos. 6. ed. São Paulo: Érica, 2011. NATALE, Ferdinando. Automação industrial. 10. ed. São Paulo: Érica, 2008.
 
-## **EMENTA** 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-Conceitos físicos aplicados à pneumática; Componentes pneumáticos (simbologia e função); Sistemas pneumáticos; Sistemas eletropneumáticos; Análise e síntese de circuitos pneumáticos; Componentes físicos aplicados à hidráulica; Componentes hidráulicos (simbologia e função); Sistemas hidráulicos; Sistemas eletro-hidráulicos; Análise e síntese de circuitos hidráulicos; Automação eletropneumática e eletro-hidráulica 
+FIALHO, Arivelto Bustamante. **Automação Pneumática** - Projetos, Dimensionamento e Análise de Circuitos. 7. ed. São Paulo: Érica, 2011 LELUDAK, Jorge Assade. **Acionamentos eletropneumáticos.** Curitiba: Base Editoral, 2010.
 
-## **METODOLOGIA** 
+SANTOS, Winderson Eugenio dos. **Controladores lógicos programáveis** : CLPs. Curitiba: Base Editorial, 2010.
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo; Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-## **BIBLIOGRAFIA BÁSICA** 
-
-BONACORSO, Nelson Gauze, NOLL, Valdir. **Automação Eletropneumática** . 12. ed. São Paulo: Érica, 2013. FIALHO, Arivelto Bustamante. **Automação Hidráulica** – Projetos, Dimensionamento e Análise de Circuitos. 6. ed. São Paulo: Érica, 2011. NATALE, Ferdinando. Automação industrial. 10. ed. São Paulo: Érica, 2008. 
-
-## **BIBLIOGRAFIA COMPLEMENTAR** 
-
-FIALHO, Arivelto Bustamante. **Automação Pneumática** - Projetos, Dimensionamento e Análise de Circuitos. 7. ed. São Paulo: Érica, 2011 LELUDAK, Jorge Assade. **Acionamentos eletropneumáticos.** Curitiba: Base Editoral, 2010. 
-
-SANTOS, Winderson Eugenio dos. **Controladores lógicos programáveis** : CLPs. Curitiba: Base Editorial, 2010. 
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
-
-## **IFPR – CÂMPUS PARANAVAÍ** 
+## **IFPR – CÂMPUS PARANAVAÍ**
 
 |**IFPR – CÂMPUS PARANAVAÍ**|**IFPR – CÂMPUS PARANAVAÍ**|
 |---|---|
@@ -2473,721 +2221,659 @@ SANTOS, Winderson Eugenio dos. **Controladores lógicos programáveis** : CLPs. 
 |**BIBLIOGRAFIA BÁSICA**<br>BEER, F. P.; JOHNSTON, E. R.; MAZUREK, D. F.; EISENBERG, E.R.**Mecânica Vetorial**<br>**para Engenheiros: Estática**. 9 ed. Porto Alegre: AMGH, 2012.<br>BEER, F. P.; JOHNSTON JR; E. RUSSELL.**Resistência dos Materiais**. São Paulo: Mc<br>Graw Hill, 1997.<br>HIBBELER, R. C.**Estática – Mecânica para Engenharia**. 12 ed. São Paulo: Pearson<br>Prentice Hall, 2011.<br>HIBBELER, R. C.**Resistência dos Materiais**. 7 ed. São Paulo: Pearson Prentice Hall, 2010.<br>MELCONIAN, S.**Mecânica Técnica e Resistência dos Materiais**. São Paulo: Mc Graw Hill,<br>1996.<br>MELCONIAN, S.**Elementos de Máquina**. São Paulo: Editora Érica, 1999.<br>PROVENZA, F.**Mecânica Aplicada**. São Paulo: PROTEC, 1994.<br>SHIGLEY, J.**Elementos de Máquinas**. São Paulo: Livros Técnicos e Científicos, 1992.||
 |**BIBLIOGRAFIA COMPLEMENTAR**<br>BEER, Ferdinand Pierre; BEER, Ferdinand Pierre; JOHNSTON, E. Russell (Elwood Russell).<br>**Resistência dos materiais**. 3. ed. São Paulo: Pearson Prentice Hall, 2006.<br>HIBBELER, R. C.**Estática – Mecânica para Engenharia**. 10 ed. São Paulo: Pearson<br>Prentice Hall, 2005.<br>HIBBELER, R. C.**Resistência dos Materiais**. 5 ed. São Paulo: Pearson Prentice Hall, 2004.<br>MELCONIAN, S.**Mecânica técnica e resistência dos materiais**. 18. ed. São Paulo: Erica,<br>2007.<br>NIEMANN, G.**Elementos de Máquinas**. São Paulo: Edgard Blucher, 1993.<br>NORTON, R. L.**Projeto de Máquinas – Uma abordagem inegrada**. 2 ed. Porto Alegre:<br>Bookman, 2004.||
 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
+## **IFPR – CAMPUS PARANAVAÍ**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Robótica e Sistemas Embarcados **Carga Horária (hora aula)** : 80 **Período Letivo** : 4º ano
 
-**==> picture [458 x 63] intentionally omitted <==**
+## **EMENTA**
 
-## **IFPR – CAMPUS PARANAVAÍ** 
+Compreender os conceitos básicos dos robôs manipuladores industriais. Introdução à Robótica industrial. Classificação dos vários tipos de robôs. Manipuladores robóticos. O robô e a automação. Estrutura e Tipologia dos Sistemas Robotizados. Componentes. Tipo de juntas. Espaço de trabalho. Aplicações típicas de robôs móveis. Robótica industrial vs. Robótica móvel. Sistemas de locomoção. Tipos de robôs móveis. Tipos de atuadores para robôs móveis. Visão artificial. Programação na robótica. Exemplos de aplicação. Principais características e conceitos de sistemas embarcados; Visão geral sobre Microcontroladores: Tipos de arquiteturas; Memórias internas; Registradores; Modos de Endereçamento; Instruções; Sistema de interrupções; Dispositivos de entrada e saída (GPIO); Estudo dos conversores A/D; Estudo dos conversores D/A; Dispositivos periféricos; Desenvolvimento de projetos utilizando microcontroladores; Projetos com microcontrolador empregando (GPIO), conversores e atuadores; Atividades de laboratório.
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais **Componente Curricular** : Robótica e Sistemas Embarcados **Carga Horária (hora aula)** : 80 **Período Letivo** : 4º ano 
+## **METODOLOGIA**
 
-## **EMENTA** 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula.
 
-Compreender os conceitos básicos dos robôs manipuladores industriais. Introdução à Robótica industrial. Classificação dos vários tipos de robôs. Manipuladores robóticos. O robô e a automação. Estrutura e Tipologia dos Sistemas Robotizados. Componentes. Tipo de juntas. Espaço de trabalho. Aplicações típicas de robôs móveis. Robótica industrial vs. Robótica móvel. Sistemas de locomoção. Tipos de robôs móveis. Tipos de atuadores para robôs móveis. Visão artificial. Programação na robótica. Exemplos de aplicação. Principais características e conceitos de sistemas embarcados; Visão geral sobre Microcontroladores: Tipos de arquiteturas; Memórias internas; Registradores; Modos de Endereçamento; Instruções; Sistema de interrupções; Dispositivos de entrada e saída (GPIO); Estudo dos conversores A/D; Estudo dos conversores D/A; Dispositivos periféricos; Desenvolvimento de projetos utilizando microcontroladores; Projetos com microcontrolador empregando (GPIO), conversores e atuadores; Atividades de laboratório. 
+## **BIBLIOGRAFIA BÁSICA**
 
-## **METODOLOGIA** 
+ROMERO, R., **Robótica Móvel** , Editora LTC, 2014 ROMANO, V.F. **Robótica Industrial** : aplicações na indústria de manufatura e de processos. São Paulo: Edgard Blucher, 2002 ROSÁRIO, J. M. **Princípios de Mecatrônica** .Pearson Prentice Hall, 2005. NICOLOSI, Denys Emílio Campion. **Laboratório de microcontroladores família 8051** : **treino de instruções, hardware e software** . 5. ed. São Paulo: Érica, 2010. 206 p. OLIVEIRA, André Schneider de; ANDRADE, Fernando Souza de; **Sistemas Embarcados Hardware e Firmware na Prática** , Editora Érica, 2010.
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-## **BIBLIOGRAFIA BÁSICA** 
+MATARIC, Maja J., **Introdução à Robótica** , Editora UNESP, 2014. PAZOS, Fernando. **Automação de sistemas e robótica** . Rio de Janeiro: Axcel Books, 2002, p. 377. BOLTON, W. **Mecatrônica** : uma abordagem multidisciplinar. 4.ed. Porto Alegre: Bookman, 2010. 664 p. CETINKUNT, Sabri. **Mecatrônica** . São Paulo: LTC, 2008. PEREIRA, Fábio. **Microcontroladores PIC: programação em C** . São Paulo: Érica, 2010. 358 p. GROOVER, Mikell et al. **Robótica** – Tecnologia e Programação. São Paulo: McGraw Hill, 1989. GROOVER, M.P.; WEISS, M.; NAGEL, R.N.; ODREY, N.G. **Robótica** : Tecnologia e Programação. McGraw-Hill, 1998. **IFPR – CAMPUS PARANAVAÍ**
 
-ROMERO, R., **Robótica Móvel** , Editora LTC, 2014 ROMANO, V.F. **Robótica Industrial** : aplicações na indústria de manufatura e de processos. São Paulo: Edgard Blucher, 2002 ROSÁRIO, J. M. **Princípios de Mecatrônica** .Pearson Prentice Hall, 2005. NICOLOSI, Denys Emílio Campion. **Laboratório de microcontroladores família 8051** : **treino de instruções, hardware e software** . 5. ed. São Paulo: Érica, 2010. 206 p. OLIVEIRA, André Schneider de; ANDRADE, Fernando Souza de; **Sistemas Embarcados Hardware e Firmware na Prática** , Editora Érica, 2010. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais
 
-MATARIC, Maja J., **Introdução à Robótica** , Editora UNESP, 2014. PAZOS, Fernando. **Automação de sistemas e robótica** . Rio de Janeiro: Axcel Books, 2002, p. 377. BOLTON, W. **Mecatrônica** : uma abordagem multidisciplinar. 4.ed. Porto Alegre: Bookman, 2010. 664 p. CETINKUNT, Sabri. **Mecatrônica** . São Paulo: LTC, 2008. PEREIRA, Fábio. **Microcontroladores PIC: programação em C** . São Paulo: Érica, 2010. 358 p. GROOVER, Mikell et al. **Robótica** – Tecnologia e Programação. São Paulo: McGraw Hill, 1989. GROOVER, M.P.; WEISS, M.; NAGEL, R.N.; ODREY, N.G. **Robótica** : Tecnologia e Programação. McGraw-Hill, 1998. **IFPR – CAMPUS PARANAVAÍ** 
+**Componente Curricular** : Projeto integrador
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+**Carga Horária (hora aula)** : 80 **Período Letivo** : 4º ano
 
-**==> picture [458 x 63] intentionally omitted <==**
+## **EMENTA**
 
-**Curso** : Técnico em Mecatrônica Integrado ao **Eixo Tecnológico** : Controle e Processos Ensino Médio Industriais 
+O conhecimento científico: natureza e especificidade. O método científico. A pesquisa científica: conceito e classificação. Métodos e técnicas de pesquisa. Princípios metodológicos para elaboração de projetos e relatórios de pesquisa. Normas técnicas para a elaboração de trabalhos científicos (ABNT). Integrar os componentes curriculares realizados durante o decorrer do curso e elaborar um projeto integrador mesclando a teoria com a prática estabelecida nos laboratórios.
 
-**Componente Curricular** : Projeto integrador 
+## **METODOLOGIA**
 
-**Carga Horária (hora aula)** : 80 **Período Letivo** : 4º ano 
+Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula. **BIBLIOGRAFIA BÁSICA**
 
-## **EMENTA** 
+KUHLTHAU, Carol Collier; CAMPELLO, Bernadete Santos (Org.). **Como orientar a pesquisa escolar: estratégias para o processo de aprendizagem** . Belo Horizonte: Autêntica, 2010. 252 p. (Formação Humana na Escola). ISBN 9788575263235 (broch.). TOMASI, Carolina; MEDEIROS, João Bosco. **Comunicação científica: normas técnicas para redação científica** . São Paulo, SP: Atlas, 2008. 256 p. ISBN 9788522451203 (broch) MARCONI, Marina de Andrade; LAKATOS, Eva Maria. **Fundamentos de metodologia científica** . 7. ed. São Paulo: Atlas, 2010. 297 p. ISBN 9788522457588 (broch.).. MARTINS, Gilberto de Andrade. **Manual para elaboração de monografias e dissertações** . 3. ed. São Paulo: Atlas, 2002. 134 p. ISBN 9788522432325 (broch.).
 
-O conhecimento científico: natureza e especificidade. O método científico. A pesquisa científica: conceito e classificação. Métodos e técnicas de pesquisa. Princípios metodológicos para elaboração de projetos e relatórios de pesquisa. Normas técnicas para a elaboração de trabalhos científicos (ABNT). Integrar os componentes curriculares realizados durante o decorrer do curso e elaborar um projeto integrador mesclando a teoria com a prática estabelecida nos laboratórios. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-## **METODOLOGIA** 
+MATTAR, João. **Metodologia científica na era da informática.** 3. ed. rev. atual. São Paulo: Saraiva, 2008. xxviii, 308 p. ISBN 9788502064478 (broch.). DEMO, Pedro. **Metodologia do conhecimento científico** . São Paulo: Atlas, 2011. 216 p. ISBN 9788522426478.
 
-Aulas expositivo-dialogadas com uso de projetor multimídia; Vídeos; Pesquisa individual ou em grupo, Listas de exercícios; Atividade interdisciplinar em laboratório ou sala de aula. **BIBLIOGRAFIA BÁSICA** 
+MARCONI, Marina de Andrade; LAKATOS, Eva Maria. **Metodologia do trabalho científico: procedimentos básicos, pesquisa bibliográfica, projeto e relatório, publicações e trabalhos científicos** . 7. ed. São Paulo: Atlas, 2007. 225 p. ISBN 9788522448784 (broch.). INSTITUTO FEDERAL DO PARANÁ. **Normas para apresentação de trabalhos acadêmicos do Instituto Federal do Paraná (IFPR)** . Curitiba , 2010. 86p. ISBN 9788591074303 (broch.).
 
-KUHLTHAU, Carol Collier; CAMPELLO, Bernadete Santos (Org.). **Como orientar a pesquisa escolar: estratégias para o processo de aprendizagem** . Belo Horizonte: Autêntica, 2010. 252 p. (Formação Humana na Escola). ISBN 9788575263235 (broch.). TOMASI, Carolina; MEDEIROS, João Bosco. **Comunicação científica: normas técnicas para redação científica** . São Paulo, SP: Atlas, 2008. 256 p. ISBN 9788522451203 (broch) MARCONI, Marina de Andrade; LAKATOS, Eva Maria. **Fundamentos de metodologia científica** . 7. ed. São Paulo: Atlas, 2010. 297 p. ISBN 9788522457588 (broch.).. MARTINS, Gilberto de Andrade. **Manual para elaboração de monografias e dissertações** . 3. ed. São Paulo: Atlas, 2002. 134 p. ISBN 9788522432325 (broch.). 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+## **4. REFERÊNCIAS**
 
-MATTAR, João. **Metodologia científica na era da informática.** 3. ed. rev. atual. São Paulo: Saraiva, 2008. xxviii, 308 p. ISBN 9788502064478 (broch.). DEMO, Pedro. **Metodologia do conhecimento científico** . São Paulo: Atlas, 2011. 216 p. ISBN 9788522426478. 
+BRASIL. **Diretrizes Curriculares Nacionais para a Educação Básica** . Brasília: MEC, 2013.
 
-MARCONI, Marina de Andrade; LAKATOS, Eva Maria. **Metodologia do trabalho científico: procedimentos básicos, pesquisa bibliográfica, projeto e relatório, publicações e trabalhos científicos** . 7. ed. São Paulo: Atlas, 2007. 225 p. ISBN 9788522448784 (broch.). INSTITUTO FEDERAL DO PARANÁ. **Normas para apresentação de trabalhos acadêmicos do Instituto Federal do Paraná (IFPR)** . Curitiba , 2010. 86p. ISBN 9788591074303 (broch.). 
+______. **Resolução nº 6, de 20 de setembro de 2012** . Define as Diretrizes Curriculares Nacionais para a Educação Profissional Técnica de Nível Médio. Brasília: CNE/CEB, 2012.
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+______. **Catálogo Nacional dos Cursos Técnicos** . 2.ed. Brasília: Ministério da Educação, 2012.
 
-**==> picture [458 x 63] intentionally omitted <==**
+______. **Lei nº 11.645, de 10 março de 2008.** Altera a Lei n[o] 9.394, de 20 de dezembro de 1996, modificada pela Lei n[o] 10.639, de 9 de janeiro de 2003, que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da rede de ensino a obrigatoriedade da temática “História e Cultura AfroBrasileira e Indígena”. Brasília: Casa Civil, 2008.
 
-## **4. REFERÊNCIAS** 
+______. **Lei nº 11.161, de 5 de agosto de 2005** . Dispõe sobre o ensino de língua espanhola. Brasília: Casa Civil, 2005.
 
-BRASIL. **Diretrizes Curriculares Nacionais para a Educação Básica** . Brasília: MEC, 2013. 
+______. **Decreto nº 5.154** , de 23 de julho de 2004. Regulamenta o § 2º do art. 36 e os arts. 39 a 41 da Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, e dá outras providências. Brasília/DF: 2004.
 
-______. **Resolução nº 6, de 20 de setembro de 2012** . Define as Diretrizes Curriculares Nacionais para a Educação Profissional Técnica de Nível Médio. Brasília: CNE/CEB, 2012. 
+______. **Parecer CNE/CEB nº 39** , de 08 de dezembro de 2004. Aplicação do Decreto nº 5.154/2004 na Educação Profissional Técnica de nível médio e no Ensino Médio. p. 397-410. Brasília: CEB/MEC, 2004.
 
-______. **Catálogo Nacional dos Cursos Técnicos** . 2.ed. Brasília: Ministério da Educação, 2012. 
+______. **Lei n[o] 10.639, de 9 de janeiro de 2003** . Altera a Lei n[o] 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da Rede de Ensino a obrigatoriedade da temática "História e Cultura Afro-Brasileira". Brasília: Casa Civil, 2003.
 
-______. **Lei nº 11.645, de 10 março de 2008.** Altera a Lei n[o] 9.394, de 20 de dezembro de 1996, modificada pela Lei n[o] 10.639, de 9 de janeiro de 2003, que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da rede de ensino a obrigatoriedade da temática “História e Cultura AfroBrasileira e Indígena”. Brasília: Casa Civil, 2008. 
+______. **Lei nº 9.394** , de 20 de dezembro de 1996. Estabelece as diretrizes e bases da educação nacional. Brasília/DF: 1996.
 
-______. **Lei nº 11.161, de 5 de agosto de 2005** . Dispõe sobre o ensino de língua espanhola. Brasília: Casa Civil, 2005. 
+IFPR. Instituto Federal do Paraná. **Portaria nº 120** , de 06 de agosto de 2009. Estabelece os critérios de avaliação do processo ensino aprendizagem do IFPR. Curitiba/PR: 2009.
 
-______. **Decreto nº 5.154** , de 23 de julho de 2004. Regulamenta o § 2º do art. 36 e os arts. 39 a 41 da Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, e dá outras providências. Brasília/DF: 2004. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-______. **Parecer CNE/CEB nº 39** , de 08 de dezembro de 2004. Aplicação do Decreto nº 5.154/2004 na Educação Profissional Técnica de nível médio e no Ensino Médio. p. 397-410. Brasília: CEB/MEC, 2004. 
+______. **Resolução nº 54** , de 21 de dezembro de 2011. Dispõe sobre a Organização Didático-Pedagógica daEducação Profissional Técnica de Nível Médio e FormaçãoInicial e Continuada de Trabalhadores no âmbito do InstitutoFederal do Paraná–IFPR. Curitiba/PR: 2011.
 
-______. **Lei n[o] 10.639, de 9 de janeiro de 2003** . Altera a Lei n[o] 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da Rede de Ensino a obrigatoriedade da temática "História e Cultura Afro-Brasileira". Brasília: Casa Civil, 2003. 
+______. **Resolução nº 2, de 26 de março de 2013** . Aprova o regulamento de estágios no âmbito do IFPR. Curitiba/PR, 2013.
 
-______. **Lei nº 9.394** , de 20 de dezembro de 1996. Estabelece as diretrizes e bases da educação nacional. Brasília/DF: 1996. 
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (IBGE). Censo 2010. Disponível em: <http://censo2010.ibge.gov.br/>. Acesso em: 01 mar. 2016.
 
-IFPR. Instituto Federal do Paraná. **Portaria nº 120** , de 06 de agosto de 2009. Estabelece os critérios de avaliação do processo ensino aprendizagem do IFPR. Curitiba/PR: 2009. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+## **5. ANEXOS**
 
-**==> picture [458 x 63] intentionally omitted <==**
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-______. **Resolução nº 54** , de 21 de dezembro de 2011. Dispõe sobre a Organização Didático-Pedagógica daEducação Profissional Técnica de Nível Médio e FormaçãoInicial e Continuada de Trabalhadores no âmbito do InstitutoFederal do Paraná–IFPR. Curitiba/PR: 2011. 
+## **5.1. ANEXO I**
 
-______. **Resolução nº 2, de 26 de março de 2013** . Aprova o regulamento de estágios no âmbito do IFPR. Curitiba/PR, 2013. 
+## **INSTRUÇÃO INTERNA DE PROCEDIMENTOS DO CAMPUS IIPC N° 02, DE 30 DE ABRIL DE 2015– DIREÇÃO GERAL DO IFPR CAMPUS PARANAVAÍ**
 
-INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (IBGE). Censo 2010. Disponível em: <http://censo2010.ibge.gov.br/>. Acesso em: 01 mar. 2016. 
+Normatiza e regulamenta as atividades complementares para os cursos técnicos e superiores do IFPR-Campus Paranavaí.
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+CONSIDERANDO:
 
-**==> picture [458 x 63] intentionally omitted <==**
+A Resolução Nº 4/1999 do Conselho Nacional de Educação (CNE/CEB), que institui as Diretrizes Curriculares Nacionais para a Educação Profissional de Nível Técnico;
 
-## **5. ANEXOS** 
+Os princípios fixados pelo Parecer Nº 1362/2001 do Conselho Nacional de Educação (CNE/CES) que orienta sobre as Diretrizes Curriculares Nacionais dos Cursos de Engenharia;
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+Os princípios fixados pelo Parecer Nº 39/2004 do Conselho Nacional de Educação (CNE/CEB) que orienta sobre a organização da Educação Profissional Técnica de nível médio e Ensino Médio;
 
-**==> picture [458 x 63] intentionally omitted <==**
+Os princípios fixados pelo Parecer Nº 8/2007 do Conselho Nacional de Educação (CNE/CES) que orienta sobre a carga horária mínima e integralização e duração de cursos de graduação, bacharelados, na modalidade presencial;
 
-## **5.1. ANEXO I** 
+A Resolução Nº 2/2007 do Conselho Nacional de Educação (CNE/CES), que dispõe sobre a carga horária mínima e integralização e duração de cursos de graduação, bacharelados, na modalidade presencial;
 
-## **INSTRUÇÃO INTERNA DE PROCEDIMENTOS DO CAMPUS IIPC N° 02, DE 30 DE ABRIL DE 2015– DIREÇÃO GERAL DO IFPR CAMPUS PARANAVAÍ** 
+A Resolução Nº 2/2012 do Conselho Nacional de Educação (CNE/CEB), que define as Diretrizes Nacionais para o Ensino Médio;
 
-Normatiza e regulamenta as atividades complementares para os cursos técnicos e superiores do IFPR-Campus Paranavaí. 
+A Resolução N° 02 de 26 de março de 2013 do CONSUP/IFPR, que dispõe sobre o estágio de estudantes no âmbito do IFPR.
 
-CONSIDERANDO: 
+A Direção Geral do IFPR Campus Paranavaí INSTITUI as normas e orientações para integralização das atividades complementares para os cursos técnicos e superiores do Campus Paranavaí, conforme segue:
 
-A Resolução Nº 4/1999 do Conselho Nacional de Educação (CNE/CEB), que institui as Diretrizes Curriculares Nacionais para a Educação Profissional de Nível Técnico; 
+## **CAPÍTULO I DA NATUREZA DAS ATIVIDADES COMPLEMENTARES**
 
-Os princípios fixados pelo Parecer Nº 1362/2001 do Conselho Nacional de Educação (CNE/CES) que orienta sobre as Diretrizes Curriculares Nacionais dos Cursos de Engenharia; 
+- **Art. 1.º** O presente regulamento define as Atividades Complementares contendo as normas gerais para a sua operacionalização no âmbito do IFPR - Campus de Paranavaí.
 
-Os princípios fixados pelo Parecer Nº 39/2004 do Conselho Nacional de Educação (CNE/CEB) que orienta sobre a organização da Educação Profissional Técnica de nível médio e Ensino Médio; 
+- **Art. 2.º** São consideradas Atividades Complementares todas as atividades de natureza acadêmica, científica, artística, esportiva e cultural que buscam a integração e/ou articulação entre ensino médio, profissionalizante e superior, além da pesquisa e extensão, e que não estão compreendidas nas práticas pedagógicas previstas no
 
-Os princípios fixados pelo Parecer Nº 8/2007 do Conselho Nacional de Educação (CNE/CES) que orienta sobre a carga horária mínima e integralização e duração de cursos de graduação, bacharelados, na modalidade presencial; 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-A Resolução Nº 2/2007 do Conselho Nacional de Educação (CNE/CES), que dispõe sobre a carga horária mínima e integralização e duração de cursos de graduação, bacharelados, na modalidade presencial; 
+desenvolvimento regular dos componentes curriculares obrigatórios do currículo pleno.
 
-A Resolução Nº 2/2012 do Conselho Nacional de Educação (CNE/CEB), que define as Diretrizes Nacionais para o Ensino Médio; 
+**Art. 3.º** _É obrigatório e de responsabilidade dos estudantes dos cursos que tiverem o requisito explicitado no Projeto Pedagógico de Curso o cumprimento da carga horária destinada às Atividades Complementares, sendo o seu integral cumprimento, indispensável para a Conclusão do Curso._
 
-A Resolução N° 02 de 26 de março de 2013 do CONSUP/IFPR, que dispõe sobre o estágio de estudantes no âmbito do IFPR. 
+**Art. 4.º** As Atividades Complementares poderão ser validadas a partir do ingresso do estudante no Curso, desde que os comprovantes de participação sejam devidamente protocolados no setor de protocolo.
 
-A Direção Geral do IFPR Campus Paranavaí INSTITUI as normas e orientações para integralização das atividades complementares para os cursos técnicos e superiores do Campus Paranavaí, conforme segue: 
+## **CAPÍTULO II DO LOCAL E DA REALIZAÇÃO**
 
-## **CAPÍTULO I DA NATUREZA DAS ATIVIDADES COMPLEMENTARES** 
+**Art. 5.º** As Atividades Complementares poderão ser desenvolvidas no próprio IFPR ou em organizações públicas e privadas que propiciem a complementação da formação do estudante conforme Artigo 2° deste Regulamento.
 
-- **Art. 1.º** O presente regulamento define as Atividades Complementares contendo as normas gerais para a sua operacionalização no âmbito do IFPR - Campus de Paranavaí. 
+**Parágrafo único** : As Atividades Complementares deverão,preferencialmente,ser realizadas em horários distintos do curso frequentado, não podendo ser utilizadas para justificativa de faltas.
 
-- **Art. 2.º** São consideradas Atividades Complementares todas as atividades de natureza acadêmica, científica, artística, esportiva e cultural que buscam a integração e/ou articulação entre ensino médio, profissionalizante e superior, além da pesquisa e extensão, e que não estão compreendidas nas práticas pedagógicas previstas no 
+## **CAPÍTULO II DAS ATIVIDADES COMPLEMENTARES**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+**Art. 6.º** As Atividades Complementares são ações curriculares que possibilitam a formação complementar e interdisciplinar do estudante, as quais estão classificadas em três grupos:
 
-**==> picture [458 x 63] intentionally omitted <==**
+**I** – Atividades de ensino;
 
-desenvolvimento regular dos componentes curriculares obrigatórios do currículo pleno. 
+- **II** – Atividades de pesquisa, extensão e inovação;
 
-**Art. 3.º** _É obrigatório e de responsabilidade dos estudantes dos cursos que tiverem o requisito explicitado no Projeto Pedagógico de Curso o cumprimento da carga horária destinada às Atividades Complementares, sendo o seu integral cumprimento, indispensável para a Conclusão do Curso._ 
+- **III** – Atividades de formação social, humana e cultural.
 
-**Art. 4.º** As Atividades Complementares poderão ser validadas a partir do ingresso do estudante no Curso, desde que os comprovantes de participação sejam devidamente protocolados no setor de protocolo. 
+## **Seção I Das Atividades de Ensino**
 
-## **CAPÍTULO II DO LOCAL E DA REALIZAÇÃO** 
+**Art. 7.º** No presente regulamento serão consideradas Atividades de Ensino aquelas realizadas no âmbito do próprio curso, podendo ser:
 
-**Art. 5.º** As Atividades Complementares poderão ser desenvolvidas no próprio IFPR ou em organizações públicas e privadas que propiciem a complementação da formação do estudante conforme Artigo 2° deste Regulamento. 
+- a) estágio supervisionado (não obrigatório);
 
-**Parágrafo único** : As Atividades Complementares deverão,preferencialmente,ser realizadas em horários distintos do curso frequentado, não podendo ser utilizadas para justificativa de faltas. 
+- b) monitoria;
 
-## **CAPÍTULO II DAS ATIVIDADES COMPLEMENTARES** 
+- c) aula magna;
 
-**Art. 6.º** As Atividades Complementares são ações curriculares que possibilitam a formação complementar e interdisciplinar do estudante, as quais estão classificadas em três grupos: 
+- d) palestras;
 
-**I** – Atividades de ensino; 
+- e) fóruns e seminários;
 
-- **II** – Atividades de pesquisa, extensão e inovação; 
+- f) conferências e congressos;
 
-- **III** – Atividades de formação social, humana e cultural. 
+- g) debates;
 
-## **Seção I Das Atividades de Ensino** 
+- h) encontros;
 
-**Art. 7.º** No presente regulamento serão consideradas Atividades de Ensino aquelas realizadas no âmbito do próprio curso, podendo ser: 
+- i) jornadas acadêmicas;
 
-- a) estágio supervisionado (não obrigatório); 
+- j) simpósios;
 
-- b) monitoria; 
+- k) visitas monitoradas realizadas pelo IFPR;
 
-- c) aula magna; 
+- l) atividades de campo; m) outros cursos técnicos ou de graduação em áreas correlatas ao curso;
 
-- d) palestras; 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-- e) fóruns e seminários; 
+- n) curso de qualificação em áreas correlatas ao curso (FIC – Formação Inicial e Continuada; FC - Formação Continuada);
 
-- f) conferências e congressos; 
+- o) participação em projetos de ensino;
 
-- g) debates; 
+- p) participação em grupos de estudos.
 
-- h) encontros; 
+## **Subseção I Do Estágio Supervisionado Não Obrigatório**
 
-- i) jornadas acadêmicas; 
+- **Art. 8.º** O Estágio Supervisionado é ato educativo escolar, desenvolvido no ambiente de trabalho, que visa à preparação para o trabalho produtivo dos estudantes que estejam frequentando os cursos de ensino regular no Instituto Federal do Paraná. O Estágio supervisionado obedece à regulamentação própria e à Resolução CONSUP/IFPR n° 02 de 26 de março de 2013, em consonância com o disposto na Lei nº 11.788/2008.
 
-- j) simpósios; 
+- **Art. 9.º** Somente as horas do **Estágio Supervisionado Não Obrigatório** serão computadas como Atividades Complementares.
 
-- k) visitas monitoradas realizadas pelo IFPR; 
+## **Subseção II Da Monitoria**
 
-- l) atividades de campo; m) outros cursos técnicos ou de graduação em áreas correlatas ao curso; 
+- **Art. 10.** A **Monitoria** é considerada uma experiência pedagógica oferecida ao estudante regularmente matriculado, sendo desenvolvida sob a orientação e supervisão docente.
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+**Parágrafo único** : A Monitoria obedece à regulamentação própria estabelecida por meio de edital específico.
 
-**==> picture [458 x 63] intentionally omitted <==**
+## **Seção II Das Atividades de Pesquisa, Extensão e Inovação**
 
-- n) curso de qualificação em áreas correlatas ao curso (FIC – Formação Inicial e Continuada; FC - Formação Continuada); 
+- **Art. 11.** São consideradas Atividades de Pesquisa, Extensão e Inovação aquelas que se referem à produção do conhecimento, por meio de estudos específicos, visando a desenvolver no estudante a vocação, o interesse e a aptidão para a investigação, com vistas ao avanço científico, cultural, tecnológico e socioeconômico da região e do país. Serão consideradas Atividades de Pesquisa, Extensão e Inovação:
 
-- o) participação em projetos de ensino; 
+   - a) participação em programas de bolsas institucionais;
 
-- p) participação em grupos de estudos. 
+   - b) participação em programas de bolsas ofertados por Agências de Fomento;
 
-## **Subseção I Do Estágio Supervisionado Não Obrigatório** 
+   - c) participação em projetos de Pesquisa, Extensão e Inovação;
 
-- **Art. 8.º** O Estágio Supervisionado é ato educativo escolar, desenvolvido no ambiente de trabalho, que visa à preparação para o trabalho produtivo dos estudantes que estejam frequentando os cursos de ensino regular no Instituto Federal do Paraná. O Estágio supervisionado obedece à regulamentação própria e à Resolução CONSUP/IFPR n° 02 de 26 de março de 2013, em consonância com o disposto na Lei nº 11.788/2008. 
+   - d) participação como apresentador de trabalhos em palestras, congressos e seminários;
 
-- **Art. 9.º** Somente as horas do **Estágio Supervisionado Não Obrigatório** serão computadas como Atividades Complementares. 
+   - e) participação como expositor em exposições técnico-científicas;
 
-## **Subseção II Da Monitoria** 
+   - f) participação na organização de exposições e seminários de caráter acadêmico;
 
-- **Art. 10.** A **Monitoria** é considerada uma experiência pedagógica oferecida ao estudante regularmente matriculado, sendo desenvolvida sob a orientação e supervisão docente. 
+   - g) publicações em revistas técnicas;
 
-**Parágrafo único** : A Monitoria obedece à regulamentação própria estabelecida por meio de edital específico. 
+   - h) publicações em anais de eventos técnico-científicos ou em periódicos científicos de abrangência local, regional, nacional ou internacional;
 
-## **Seção II Das Atividades de Pesquisa, Extensão e Inovação** 
+   - i) livro ou capítulo de livros publicados;
 
-- **Art. 11.** São consideradas Atividades de Pesquisa, Extensão e Inovação aquelas que se referem à produção do conhecimento, por meio de estudos específicos, visando a desenvolver no estudante a vocação, o interesse e a aptidão para a investigação, com vistas ao avanço científico, cultural, tecnológico e socioeconômico da região e do país. Serão consideradas Atividades de Pesquisa, Extensão e Inovação: 
+   - j) participação em grupos de pesquisas;
 
-   - a) participação em programas de bolsas institucionais; 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-   - b) participação em programas de bolsas ofertados por Agências de Fomento; 
+- k) participação em Empresa Júnior, Hotel Tecnológico, Incubadora Tecnológica;
 
-   - c) participação em projetos de Pesquisa, Extensão e Inovação; 
+- l) participação em projetos multidisciplinares ou interdisciplinares.
 
-   - d) participação como apresentador de trabalhos em palestras, congressos e seminários; 
+## **Seção III Das Atividades de formação social, humana e cultural**
 
-   - e) participação como expositor em exposições técnico-científicas; 
+**Art. 12.** Serão consideradas Atividades de Formação Social, Humana e Cultural as seguintes atividades:
 
-   - f) participação na organização de exposições e seminários de caráter acadêmico; 
+- a) participação em atividades esportivas;
 
-   - g) publicações em revistas técnicas; 
+- b) participação em cursos de língua estrangeira;
 
-   - h) publicações em anais de eventos técnico-científicos ou em periódicos científicos de abrangência local, regional, nacional ou internacional; 
+- c) participação em atividades artísticas e culturais, tais como: banda marcial, camerata de sopro, teatro, coral, radioamadorismo e outras;
 
-   - i) livro ou capítulo de livros publicados; 
+- d) participação na organização de exposições e seminários de caráter artístico ou cultural;
 
-   - j) participação em grupos de pesquisas; 
+- e) participação como expositor em exposição artística ou cultural;
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+- f) participação efetiva em Diretórios e Centros Acadêmicos, Entidades de Classe, Conselhos e Colegiados internos à Instituição;
 
-**==> picture [458 x 63] intentionally omitted <==**
+- g) participação em trabalho voluntário, atividades comunitárias, Comissão Interna de Prevenção de Acidentes (CIPAS), associações de bairros, brigadas de incêndio e associações escolares;
 
-- k) participação em Empresa Júnior, Hotel Tecnológico, Incubadora Tecnológica; 
+- h) participação em atividades beneficentes;
 
-- l) participação em projetos multidisciplinares ou interdisciplinares. 
+- i) atuação como instrutor em palestras técnicas, seminários, cursos da área específica, desde que não remunerados;
 
-## **Seção III Das Atividades de formação social, humana e cultural** 
+- j) engajamento como docente não remunerado em cursos preparatórios e de reforço escolar.
 
-**Art. 12.** Serão consideradas Atividades de Formação Social, Humana e Cultural as seguintes atividades: 
+## **CAPÍTULO III DA ADMINISTRAÇÃO**
 
-- a) participação em atividades esportivas; 
+**Art. 13.** A organização administrativa das atividades complementares do Instituto Federal do Paraná - Campus Paranavaí envolve:
 
-- b) participação em cursos de língua estrangeira; 
+**I** – Núcleo Docente Estruturante; **II** – Coordenador de Curso;
 
-- c) participação em atividades artísticas e culturais, tais como: banda marcial, camerata de sopro, teatro, coral, radioamadorismo e outras; 
+**III** – Responsável pelo registro das Atividades Complementares; **IV** – Colegiado de Curso.
 
-- d) participação na organização de exposições e seminários de caráter artístico ou cultural; 
+- **Art. 14.** _Compete ao Núcleo Docente Estruturante (NDE):_
 
-- e) participação como expositor em exposição artística ou cultural; 
+   - **I** – Especificar as Atividades Complementares, com base na carga horária total prevista na matriz curricular do Projeto Político Pedagógico do Curso, especificando:
 
-- f) participação efetiva em Diretórios e Centros Acadêmicos, Entidades de Classe, Conselhos e Colegiados internos à Instituição; 
+      - a) a carga horária mínima a ser destinado ao cumprimento de atividades complementares em cada grupo; e
 
-- g) participação em trabalho voluntário, atividades comunitárias, Comissão Interna de Prevenção de Acidentes (CIPAS), associações de bairros, brigadas de incêndio e associações escolares; 
+      - b) os critérios de equivalência entre a carga horária efetivamente cumprida no exercício de atividade de determinado tipo/grupo, bem como a carga horária a ser considerada para fins de validação como Atividade Complementar.
 
-- h) participação em atividades beneficentes; 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-- i) atuação como instrutor em palestras técnicas, seminários, cursos da área específica, desde que não remunerados; 
+**Parágrafo único** : A especificação de que trata o inciso I será parte integrante do Projeto Político Pedagógico do Curso.
 
-- j) engajamento como docente não remunerado em cursos preparatórios e de reforço escolar. 
+**Art. 15.** Compete à Coordenação de Curso:
 
-## **CAPÍTULO III DA ADMINISTRAÇÃO** 
+- **I** –  no início de cada período letivo, em conjunto com o Colegiado do Curso: oportunizar, organizar e divulgar as Atividades Complementares do Curso;
 
-**Art. 13.** A organização administrativa das atividades complementares do Instituto Federal do Paraná - Campus Paranavaí envolve: 
+- **II** –  incentivar a participação dos estudantes em eventos acadêmicos e culturais organizados pelo Colegiado e demais órgãos do Campus;
 
-**I** – Núcleo Docente Estruturante; **II** – Coordenador de Curso; 
+- **III** – buscar parcerias com outros núcleos e órgãos internos e externos, junto aos quais os estudantes possam desenvolver as Atividades Complementares;
 
-**III** – Responsável pelo registro das Atividades Complementares; **IV** – Colegiado de Curso. 
+- **IV** –  indicar um professor para acompanhamento das Atividades Complementares.
 
-- **Art. 14.** _Compete ao Núcleo Docente Estruturante (NDE):_ 
+**Parágrafo único** : O professor responsável pelo acompanhamento das Atividades Complementares poderá destinar até 2 horas semanais de sua carga horária para realização das atribuições pertinentes à função. Esta carga horária será considerada como atividade de ensino e deverá ser contabilizada como aula.
 
-   - **I** – Especificar as Atividades Complementares, com base na carga horária total prevista na matriz curricular do Projeto Político Pedagógico do Curso, especificando: 
+- **Art. 16.** A supervisão das Atividades Complementares será realizada por professor responsável designado pela Coordenação de Curso.
 
-      - a) a carga horária mínima a ser destinado ao cumprimento de atividades complementares em cada grupo; e 
+- **Art. 17.** Compete ao professor responsável pelo Acompanhamento das Atividades Complementares as seguintes atribuições:
 
-      - b) os critérios de equivalência entre a carga horária efetivamente cumprida no exercício de atividade de determinado tipo/grupo, bem como a carga horária a ser considerada para fins de validação como Atividade Complementar. 
+   - **I** – executar as normas previstas neste Regulamento;
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+   - **II** – gerenciar todas as questões referentes às Atividades Complementares; **III** – realizar reuniões com os estudantes do curso com a finalidade de orientá-los e prestar esclarecimentos referentes às Atividades Complementares;
 
-**==> picture [458 x 63] intentionally omitted <==**
+   - **IV** – receber e conferir a documentação comprobatória das Atividades Complementares dos estudantes nos prazos estabelecidos;
 
-**Parágrafo único** : A especificação de que trata o inciso I será parte integrante do Projeto Político Pedagógico do Curso. 
+   - **V** – proceder à análise dos documentos recebidos e sua pertinência como Atividade Complementar, atribuindo carga horária até o limite máximo de cada atividade, de acordo com a tabela de convalidação e equivalência existente no Projeto Político Pedagógico do Curso;
 
-**Art. 15.** Compete à Coordenação de Curso: 
+   - **VI** – proceder os registros referentes às Atividades Complementares e demais atividades dela decorrentes, mantendo o cadastro individual atualizado para o acompanhamento do desenvolvimento das atividades executadas pelo estudante;
 
-- **I** –  no início de cada período letivo, em conjunto com o Colegiado do Curso: oportunizar, organizar e divulgar as Atividades Complementares do Curso; 
+   - **VII** – emitir parecer referente à documentação apresentada pelo estudante, fazer e encaminhar relatórios ao final de cada semestre das atividades desenvolvidas à Coordenação de Curso;
 
-- **II** –  incentivar a participação dos estudantes em eventos acadêmicos e culturais organizados pelo Colegiado e demais órgãos do Campus; 
+   - **VIII** – publicar semestralmente, na forma de edital, ao final de cada semestre, a carga horária já contabilizada de cada estudante;
 
-- **III** – buscar parcerias com outros núcleos e órgãos internos e externos, junto aos quais os estudantes possam desenvolver as Atividades Complementares; 
+   - **IX** – propor à Coordenação de Curso a inclusão de novas atividades acadêmicas quando for necessário;
 
-- **IV** –  indicar um professor para acompanhamento das Atividades Complementares. 
+   - **XI** – participar das reuniões necessárias para a operacionalização das ações referentes às Atividades Complementares;
 
-**Parágrafo único** : O professor responsável pelo acompanhamento das Atividades Complementares poderá destinar até 2 horas semanais de sua carga horária para realização das atribuições pertinentes à função. Esta carga horária será considerada como atividade de ensino e deverá ser contabilizada como aula. 
+   - **XII** – realizar a alimentação do Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA);
 
-- **Art. 16.** A supervisão das Atividades Complementares será realizada por professor responsável designado pela Coordenação de Curso. 
+   - **XIII** –  encaminhar à Secretaria Acadêmica do Campus o resultado final das Atividades Complementares;
 
-- **Art. 17.** Compete ao professor responsável pelo Acompanhamento das Atividades Complementares as seguintes atribuições: 
+   - **XIV** – encaminhar os casos omissos ao Colegiado de Curso.
 
-   - **I** – executar as normas previstas neste Regulamento; 
+## **Art. 18.** Compete ao Colegiado de Curso as seguintes atribuições:
 
-   - **II** – gerenciar todas as questões referentes às Atividades Complementares; **III** – realizar reuniões com os estudantes do curso com a finalidade de orientá-los e prestar esclarecimentos referentes às Atividades Complementares; 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-   - **IV** – receber e conferir a documentação comprobatória das Atividades Complementares dos estudantes nos prazos estabelecidos; 
+- **I** –  analisar os pedidos de reconsideração formulados pelos estudantes em relação ao indeferimento do cômputo das atividades;
 
-   - **V** – proceder à análise dos documentos recebidos e sua pertinência como Atividade Complementar, atribuindo carga horária até o limite máximo de cada atividade, de acordo com a tabela de convalidação e equivalência existente no Projeto Político Pedagógico do Curso; 
+- **II** – propor e executar atividades que oportunizem carga horária de Atividades Complementares;
 
-   - **VI** – proceder os registros referentes às Atividades Complementares e demais atividades dela decorrentes, mantendo o cadastro individual atualizado para o acompanhamento do desenvolvimento das atividades executadas pelo estudante; 
+## **CAPÍTULO V DA SECRETARIA ACADÊMICA**
 
-   - **VII** – emitir parecer referente à documentação apresentada pelo estudante, fazer e encaminhar relatórios ao final de cada semestre das atividades desenvolvidas à Coordenação de Curso; 
+- **Art. 19.** À Secretaria Acadêmica do Campus compete:
 
-   - **VIII** – publicar semestralmente, na forma de edital, ao final de cada semestre, a carga horária já contabilizada de cada estudante; 
+   - **I** – receber e protocolar os comprovantes das atividades realizadas pelos estudantes;
 
-   - **IX** – propor à Coordenação de Curso a inclusão de novas atividades acadêmicas quando for necessário; 
+**II** – entregar ao professor Responsável pelas Atividades Complementares de cada curso os comprovantes das Atividades Complementares protocoladas.
 
-   - **XI** – participar das reuniões necessárias para a operacionalização das ações referentes às Atividades Complementares; 
+- **Parágrafo único** : A Secretaria Acadêmica autenticará duas cópias do comprovante da Atividade Complementar apresentado pelo aluno, sendo que uma ficará na pasta do aluno, na própria secretaria, e outra será encaminhada ao professor responsável pelas Atividades Complementares do Curso.
 
-   - **XII** – realizar a alimentação do Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA); 
+## **CAPÍTULO VI DAS OBRIGAÇÕES DO ESTUDANTE**
 
-   - **XIII** –  encaminhar à Secretaria Acadêmica do Campus o resultado final das Atividades Complementares; 
+**Art. 20.** Ao estudante compete:
 
-   - **XIV** – encaminhar os casos omissos ao Colegiado de Curso. 
+- **I** – cumprir a carga horária total das Atividades Complementares conforme estabelecido no Projeto Político Pedagógico do Curso;
 
-## **Art. 18.** Compete ao Colegiado de Curso as seguintes atribuições: 
+- **II** – protocolar junto à Secretaria Acadêmica do Campuscópia de documentação que ateste o cumprimento das Atividades Complementares;
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+- **III** – atender a todas as exigências presentes neste regulamento.
 
-**==> picture [458 x 63] intentionally omitted <==**
+**Parágrafo único** : É responsabilidade do estudante a iniciativa, a realização e o gerenciamento das próprias Atividades Complementares a serem cumpridas ao longo de sua trajetória acadêmica.
 
-- **I** –  analisar os pedidos de reconsideração formulados pelos estudantes em relação ao indeferimento do cômputo das atividades; 
+- **Art. 21.** O estudante deverá protocolar junto à Secretaria Acadêmica duas cópias do documento comprobatório da realização da Atividade Complementar. A documentação a ser apresentada deverá ser devidamente legitimada pela Instituição emitente, contendo carimbo e assinatura ou outra forma de avaliação e especificação de carga horária, período de execução e descrição da Atividade.
 
-- **II** – propor e executar atividades que oportunizem carga horária de Atividades Complementares; 
+- **Art. 22.** O estudante deverá protocolar seus comprovantes das Atividades Complementares num prazo máximo de 30 dias antes do último dia letivo da última série ou período do curso.
 
-## **CAPÍTULO V DA SECRETARIA ACADÊMICA** 
+- **Art. 23.** O estudante transferido de outra Instituição de Ensino deverá cumprir integralmente a carga horária das atividades complementares estabelecidas para o curso, sendo convalidadas as horas cumpridas em tais atividades durante o período cursado na instituição anterior, desde que comprovadas na documentação de transferência.
 
-- **Art. 19.** À Secretaria Acadêmica do Campus compete: 
+**Parágrafo único** : A convalidação dar-se-á de forma direta, ou seja, toda a carga horária de Atividades Complementares realizada no período
 
-   - **I** – receber e protocolar os comprovantes das atividades realizadas pelos estudantes; 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-**II** – entregar ao professor Responsável pelas Atividades Complementares de cada curso os comprovantes das Atividades Complementares protocoladas. 
+em que o aluno estava em curso na Instituição de Ensino anterior será contabilizada.
 
-- **Parágrafo único** : A Secretaria Acadêmica autenticará duas cópias do comprovante da Atividade Complementar apresentado pelo aluno, sendo que uma ficará na pasta do aluno, na própria secretaria, e outra será encaminhada ao professor responsável pelas Atividades Complementares do Curso. 
+## **CAPÍTULO VII DAS DISPOSIÇÕES GERAIS**
 
-## **CAPÍTULO VI DAS OBRIGAÇÕES DO ESTUDANTE** 
+- **Art. 24.** Outros comprovantes de Atividades Complementares não elencadas nas Seções I, II e III poderão ser protocolados. Estes serão analisados e validados em primeira instância pelo professor responsável pelas Atividades Complementares e, se o aluno achar necessário, encaminhar para a segunda e última instância que é o Colegiado do Curso.
 
-**Art. 20.** Ao estudante compete: 
+- **Art. 25.** O desenvolvimento das Atividades Complementares está explicitado no Projeto Pedagógico de cada Curso.
 
-- **I** – cumprir a carga horária total das Atividades Complementares conforme estabelecido no Projeto Político Pedagógico do Curso; 
+- **Art. 26.** As Atividades Complementares realizadas durante o período de eventual trancamento, bem como realizadas antes do ingresso do estudante no curso, não serão contabilizadas.
 
-- **II** – protocolar junto à Secretaria Acadêmica do Campuscópia de documentação que ateste o cumprimento das Atividades Complementares; 
+- **Art. 27.** Caso a Atividade Complementar realizada pelo aluno seja indeferida, por parte do professor responsável pelo acompanhamento das Atividades Complementares, o aluno poderá protocolar pedido de recurso destinado ao Colegiado do Curso.
 
-- **III** – atender a todas as exigências presentes neste regulamento. 
+- **Art. 28.** O trâmite da documentação das atividades complementares ocorrerá conforme o fluxo apresentado no Anexo I.
 
-**Parágrafo único** : É responsabilidade do estudante a iniciativa, a realização e o gerenciamento das próprias Atividades Complementares a serem cumpridas ao longo de sua trajetória acadêmica. 
+- **Art. 29.** Os casos omissos serão resolvidos pela Direção de Ensino, Pesquisa e Extensão, ouvida pelo Colegiado do Curso.
 
-- **Art. 21.** O estudante deverá protocolar junto à Secretaria Acadêmica duas cópias do documento comprobatório da realização da Atividade Complementar. A documentação a ser apresentada deverá ser devidamente legitimada pela Instituição emitente, contendo carimbo e assinatura ou outra forma de avaliação e especificação de carga horária, período de execução e descrição da Atividade. 
+- **Art. 30.** _Este regulamento entrará em vigor na data de sua publicação, revogando-se as disposições em contrário._
 
-- **Art. 22.** O estudante deverá protocolar seus comprovantes das Atividades Complementares num prazo máximo de 30 dias antes do último dia letivo da última série ou período do curso. 
+_**JOSÉ BARBOSA DIAS JÚNIOR** Diretor Geral do Campus Paranavaí IFPR – Instituto Federal do Paraná_
 
-- **Art. 23.** O estudante transferido de outra Instituição de Ensino deverá cumprir integralmente a carga horária das atividades complementares estabelecidas para o curso, sendo convalidadas as horas cumpridas em tais atividades durante o período cursado na instituição anterior, desde que comprovadas na documentação de transferência. 
+## **O DOCUMENTO ORIGINAL ENCONTRA-SE ASSINADO.**
 
-**Parágrafo único** : A convalidação dar-se-á de forma direta, ou seja, toda a carga horária de Atividades Complementares realizada no período 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+## **5.2. ANEXO II**
 
-**==> picture [458 x 63] intentionally omitted <==**
+## **FLUXO DA DOCUMENTAÇÃO DAS ATIVIDADES COMPLEMENTARES**
 
-em que o aluno estava em curso na Instituição de Ensino anterior será contabilizada. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-## **CAPÍTULO VII DAS DISPOSIÇÕES GERAIS** 
+## **5.3. ANEXO III**
 
-- **Art. 24.** Outros comprovantes de Atividades Complementares não elencadas nas Seções I, II e III poderão ser protocolados. Estes serão analisados e validados em primeira instância pelo professor responsável pelas Atividades Complementares e, se o aluno achar necessário, encaminhar para a segunda e última instância que é o Colegiado do Curso. 
+## **REGULAMENTO DO ESTÁGIO NÃO OBRIGATÓRIO**
 
-- **Art. 25.** O desenvolvimento das Atividades Complementares está explicitado no Projeto Pedagógico de cada Curso. 
+## **IFPR – CAMPUS PARANAVAÍ**
 
-- **Art. 26.** As Atividades Complementares realizadas durante o período de eventual trancamento, bem como realizadas antes do ingresso do estudante no curso, não serão contabilizadas. 
+## **Curso Técnico em Mecatrônica Integrado ao Ensino Médio**
 
-- **Art. 27.** Caso a Atividade Complementar realizada pelo aluno seja indeferida, por parte do professor responsável pelo acompanhamento das Atividades Complementares, o aluno poderá protocolar pedido de recurso destinado ao Colegiado do Curso. 
+## **CAPÍTULO I DA NATUREZA E FINALIDADE**
 
-- **Art. 28.** O trâmite da documentação das atividades complementares ocorrerá conforme o fluxo apresentado no Anexo I. 
+**Artigo 1º** - O estágio curricular **NÃO OBRIGATÓRIO** é um ato educativo de natureza opcional, com a finalidade de complementar os conhecimentos teóricos recebidos pelo estudante ao longo da sua trajetória acadêmica. O estágio consiste em atividade pedagógica cujo propósito está em conformidade com a Lei nº. 11.788 de 25/09/2008, devendo:
 
-- **Art. 29.** Os casos omissos serão resolvidos pela Direção de Ensino, Pesquisa e Extensão, ouvida pelo Colegiado do Curso. 
+I. Ser realizado sob a responsabilidade e coordenação da instituição de ensino, nos termos da legislação vigente;
 
-- **Art. 30.** _Este regulamento entrará em vigor na data de sua publicação, revogando-se as disposições em contrário._ 
+II. Propiciar experiência acadêmico-profissional que vise à preparação para o trabalho produtivo;
 
-_**JOSÉ BARBOSA DIAS JÚNIOR** Diretor Geral do Campus Paranavaí IFPR – Instituto Federal do Paraná_ 
+III. Oportunizar o aprendizado de competências da atividade profissional e a contextualização curricular;
 
-## **O DOCUMENTO ORIGINAL ENCONTRA-SE ASSINADO.** 
+IV. Preparar o aluno para a cidadania e para o mundo do trabalho.
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+## **CAPÍTULO II DA ORGANIZAÇÃO E ADMINISTRAÇÃO**
 
-**==> picture [458 x 63] intentionally omitted <==**
+**Art. 2º** – O estágio não cria vínculo empregatício de qualquer natureza, observados os seguintes requisitos para a sua formalização:
 
-## **5.2. ANEXO II** 
+I. Celebração de termo de compromisso entre educando, a parte concedente do estágio e a instituição de ensino. Formulário disponível em: <http://reitoria.ifpr.edu.br/menuinstitucional/pro-reitorias/proepi-2/empreendedorismoinovador/empregabilidade/estagios2/formularios/>- 1.2 Estágio realizado em empresa/instituição-externo;
 
-## **FLUXO DA DOCUMENTAÇÃO DAS ATIVIDADES COMPLEMENTARES** 
+II. Compatibilidade entre as atividades desenvolvidas no estágio e aquelas previstas no termo de compromisso.
 
-**==> picture [422 x 581] intentionally omitted <==**
+**Art. 3º** – Poderão realizar o estágio não obrigatório, os alunos regularmente matriculados no Curso Técnico em Mecatrônica Integrado ao Ensino Médio, a partir do 2° ano do curso.
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+**Art. 4º –** A carga horária realizada, no estágio não obrigatório, deverá ser incluída como acréscimo do processo ensino e aprendizagem no Histórico Escolar do aluno. (Art. 4° da Res. N°02/2013 CONSUP/IFPR )
 
-**==> picture [458 x 63] intentionally omitted <==**
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-## **5.3. ANEXO III** 
+**Art. 5º** – A carga horária realizada, pelo aluno, durante o estágio não obrigatório, poderá ser validada como Atividade Complementar, desde que o pedido seja protocolado junto à Secretaria Acadêmica do Campus, conforme orientações da IIP N° 02/2015 IFPR - Campus Paranavaí.
 
-## **REGULAMENTO DO ESTÁGIO NÃO OBRIGATÓRIO** 
+**Parágrafo único:** Poderá ser emitida, mediante solicitação prévia do aluno interessado, declaração de realização de estágio não-obrigatório.
 
-## **IFPR – CAMPUS PARANAVAÍ** 
+**Art. 6°** – A organização administrativa do estágio no âmbito do IFPR - Campus Paranavaí será composta pelas seguintes unidades:
 
-## **Curso Técnico em Mecatrônica Integrado ao Ensino Médio** 
+I – Colegiado de curso;
 
-## **CAPÍTULO I DA NATUREZA E FINALIDADE** 
+II – Coordenador de Curso;
 
-**Artigo 1º** - O estágio curricular **NÃO OBRIGATÓRIO** é um ato educativo de natureza opcional, com a finalidade de complementar os conhecimentos teóricos recebidos pelo estudante ao longo da sua trajetória acadêmica. O estágio consiste em atividade pedagógica cujo propósito está em conformidade com a Lei nº. 11.788 de 25/09/2008, devendo: 
+III – Seção de Estágio e de Relações Comunitárias;
 
-I. Ser realizado sob a responsabilidade e coordenação da instituição de ensino, nos termos da legislação vigente; 
+**Art. 7°** – Compete ao colegiado de curso:
 
-II. Propiciar experiência acadêmico-profissional que vise à preparação para o trabalho produtivo; 
+I – Elaborar regulamentação específica para os estágios obrigatórios e não obrigatórios de seus cursos;
 
-III. Oportunizar o aprendizado de competências da atividade profissional e a contextualização curricular; 
+II – Definir o período do curso a partir do qual serão aceitas solicitações de estágios não obrigatórios;
 
-IV. Preparar o aluno para a cidadania e para o mundo do trabalho. 
+III – Aprovar e compatibilizar os planos didáticos dos estágios elaborados pelos professores orientadores.
 
-## **CAPÍTULO II DA ORGANIZAÇÃO E ADMINISTRAÇÃO** 
+**Art. 8°** – Compete ao Coordenador de Curso:
 
-**Art. 2º** – O estágio não cria vínculo empregatício de qualquer natureza, observados os seguintes requisitos para a sua formalização: 
+I. Definir em conjunto com os professores orientadores os locais adequados para realização dos estágios do curso, por meio de visitas às Unidades Concedentes;
 
-I. Celebração de termo de compromisso entre educando, a parte concedente do estágio e a instituição de ensino. Formulário disponível em: <http://reitoria.ifpr.edu.br/menuinstitucional/pro-reitorias/proepi-2/empreendedorismoinovador/empregabilidade/estagios2/formularios/>- 1.2 Estágio realizado em empresa/instituição-externo; 
+II. Manter fluxo de informações relativas ao acompanhamento e desenvolvimento dos estágios em processo no curso;
 
-II. Compatibilidade entre as atividades desenvolvidas no estágio e aquelas previstas no termo de compromisso. 
+III. Realizar, em conjunto com os professores orientadores de estágio do curso, o planejamento, desenvolvimento e avaliação dos estágios.
 
-**Art. 3º** – Poderão realizar o estágio não obrigatório, os alunos regularmente matriculados no Curso Técnico em Mecatrônica Integrado ao Ensino Médio, a partir do 2° ano do curso. 
+**Art. 9°** – Compete a Seção de Estágio e de Relações Comunitárias:
 
-**Art. 4º –** A carga horária realizada, no estágio não obrigatório, deverá ser incluída como acréscimo do processo ensino e aprendizagem no Histórico Escolar do aluno. (Art. 4° da Res. N°02/2013 CONSUP/IFPR ) 
+I. Executar as políticas de desenvolvimento, acompanhamento e avaliação do estágio, em consonância com as normativas da Pró-Reitoria de Extensão, Pesquisa e Inovação;
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+II. Manter fluxo de informações relativas ao acompanhamento e desenvolvimento dos estágios em processo, bem como assegurar a socialização de informações junto às Coordenações de Curso e ao campo de estágio;
 
-**==> picture [458 x 63] intentionally omitted <==**
+III. Orientar os alunos quanto ao preenchimento da documentação necessária à execução do estágio;
 
-**Art. 5º** – A carga horária realizada, pelo aluno, durante o estágio não obrigatório, poderá ser validada como Atividade Complementar, desde que o pedido seja protocolado junto à Secretaria Acadêmica do Campus, conforme orientações da IIP N° 02/2015 IFPR - Campus Paranavaí. 
+IV. Assinar, como Instituição de Ensino, os Termos de Compromisso de Estágios, Termos Aditivos e demais documentos referentes a estágios de discentes vinculados ao Campus;
 
-**Parágrafo único:** Poderá ser emitida, mediante solicitação prévia do aluno interessado, declaração de realização de estágio não-obrigatório. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-**Art. 6°** – A organização administrativa do estágio no âmbito do IFPR - Campus Paranavaí será composta pelas seguintes unidades: 
+V. Organizar a documentação relacionada aos estágios, encaminhando aos interessados as vias respectivas e mantendo arquivada uma via na Unidade Orientadora de Estágios;
 
-I – Colegiado de curso; 
+VI. Enviar à Secretaria do Campus os relatórios finais dos estágios não obrigatórios para registro da carga horária realizada;
 
-II – Coordenador de Curso; 
+VII. Enviar a relação dos alunos para o setor responsável para que seja providenciado o seguro.
 
-III – Seção de Estágio e de Relações Comunitárias; 
+Parágrafo único - A aceitação como estágio do exercício das atividades referidas no _caput_ deste artigo dependerá de decisão do Coordenador do Curso e Orientador, que levará em consideração o tipo de atividade desenvolvida e a sua contribuição para a formação profissional do estudante.
 
-**Art. 7°** – Compete ao colegiado de curso: 
+## **CAPÍTULO III DO CAMPO DE ESTÁGIO**
 
-I – Elaborar regulamentação específica para os estágios obrigatórios e não obrigatórios de seus cursos; 
+**Art. 10°** – Constituem campo de estágio as entidades de direito privado, os órgãos de administração pública, as instituições de ensino, a comunidade em geral e as próprias unidades de serviços e ensino do IFPR.
 
-II – Definir o período do curso a partir do qual serão aceitas solicitações de estágios não obrigatórios; 
+**Art. 11°** – Para aprovação de campo de estágio serão considerados pelo IFPR - Campus Paranavaí, em relação à entidade ofertante de campo de estágio:
 
-III – Aprovar e compatibilizar os planos didáticos dos estágios elaborados pelos professores orientadores. 
+- I. existência de infraestrutura material e de recursos humanos;
 
-**Art. 8°** – Compete ao Coordenador de Curso: 
+- II. aceitação das condições de supervisão e avaliação do IFPR - Campus Paranavaí;
 
-I. Definir em conjunto com os professores orientadores os locais adequados para realização dos estágios do curso, por meio de visitas às Unidades Concedentes; 
+III. anuência e acatamento às normas disciplinadoras do estágio curricular não obrigatório do IFPR - Campus Paranavaí.
 
-II. Manter fluxo de informações relativas ao acompanhamento e desenvolvimento dos estágios em processo no curso; 
+**Art. 12°** – O campo de estágio será aprovado e oficializado pela Seção de Estágios e de Relações Comunitárias com a entidade concedente de estágio ou agentes de integração empresa-escola, estes últimos entendidos como entidades que atuam na intermediação da busca de campos de estágio e ofertas de vagas.
 
-III. Realizar, em conjunto com os professores orientadores de estágio do curso, o planejamento, desenvolvimento e avaliação dos estágios. 
+**Art. 13** – Constituem campo de estágio as entidades de direito privado, os órgãos de administração pública direta, autárquica e fundacional de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, bem como profissionais liberais de nível superior e devidamente registrados em seus respectivos conselhos de fiscalização profissional, desde que apresentem condições para:
 
-**Art. 9°** – Compete a Seção de Estágio e de Relações Comunitárias: 
+- I. Planejamento e execução conjunta das atividades de estágio;
 
-I. Executar as políticas de desenvolvimento, acompanhamento e avaliação do estágio, em consonância com as normativas da Pró-Reitoria de Extensão, Pesquisa e Inovação; 
+II. Avaliação e aprofundamento dos conhecimentos teórico-práticos de campo específico de trabalho;
 
-II. Manter fluxo de informações relativas ao acompanhamento e desenvolvimento dos estágios em processo, bem como assegurar a socialização de informações junto às Coordenações de Curso e ao campo de estágio; 
+III. Vivência efetiva de situações concretas de vida e trabalho, dentro de um campo profissional.
 
-III. Orientar os alunos quanto ao preenchimento da documentação necessária à execução do estágio; 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-IV. Assinar, como Instituição de Ensino, os Termos de Compromisso de Estágios, Termos Aditivos e demais documentos referentes a estágios de discentes vinculados ao Campus; 
+**Art. 14°** – As instituições serão cadastradas pelo Instituto Federal do Paraná como entidades concedentes de campo de estágio, sendo facultativa a formalização de Termo de Convênio. As entidades concedentes deverão atender aos seguintes requisitos: Existência de infraestrutura material e de recursos humanos;
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+Anuência e acatamento às normas disciplinadoras dos estágios do Instituto Federal do Paraná; Obtenção de avaliação satisfatória das instalações e de sua adequação à formação cultural e profissional do educando.
 
-**==> picture [458 x 63] intentionally omitted <==**
+**Parágrafo único** . Os formulários específicos para realização do convênio das entidades concedentes conforme caput deste artigo estão disponíveis em:
 
-V. Organizar a documentação relacionada aos estágios, encaminhando aos interessados as vias respectivas e mantendo arquivada uma via na Unidade Orientadora de Estágios; 
+<http://reitoria.ifpr.edu.br/menu-institucional/pro-reitorias/proepi-
 
-VI. Enviar à Secretaria do Campus os relatórios finais dos estágios não obrigatórios para registro da carga horária realizada; 
+- 2/empreendedorismoinovador/empregabilidade/estagios-2/modelos-de-convenios-de-estagio/> –Convênio de Estágio – IFPR como Instituição de Ensino
 
-VII. Enviar a relação dos alunos para o setor responsável para que seja providenciado o seguro. 
+## **CAPÍTULO IV DA SUPERVISÃO E ORIENTAÇÃO DE ESTÁGIO**
 
-Parágrafo único - A aceitação como estágio do exercício das atividades referidas no _caput_ deste artigo dependerá de decisão do Coordenador do Curso e Orientador, que levará em consideração o tipo de atividade desenvolvida e a sua contribuição para a formação profissional do estudante. 
+**Art. 15°** – A supervisão do estágio curricular não obrigatório caberá ao profissional vinculado à entidade concedente do estágio em conjunto com o professor orientador indicado pela Coordenação de Curso.
 
-## **CAPÍTULO III DO CAMPO DE ESTÁGIO** 
+## **Art. 16°** – Cabe ao professor orientador do estágio:
 
-**Art. 10°** – Constituem campo de estágio as entidades de direito privado, os órgãos de administração pública, as instituições de ensino, a comunidade em geral e as próprias unidades de serviços e ensino do IFPR. 
+I. Elaborar em conjunto com o estudante estagiário o plano de estágio, observada a adequação das atividades de estágio com a área de formação do estudante, de forma a garantir o desenvolvimento de competências necessárias à sua formação profissional.
 
-**Art. 11°** – Para aprovação de campo de estágio serão considerados pelo IFPR - Campus Paranavaí, em relação à entidade ofertante de campo de estágio: 
+- **Art. 17°** – Cabe ao supervisor profissional da entidade concedente:
 
-- I. existência de infraestrutura material e de recursos humanos; 
+- I. Avaliar as atividades desenvolvidas pelo estudante estagiário;
 
-- II. aceitação das condições de supervisão e avaliação do IFPR - Campus Paranavaí; 
+- II. Assinar a ficha de frequência do aluno estagiário;
 
-III. anuência e acatamento às normas disciplinadoras do estágio curricular não obrigatório do IFPR - Campus Paranavaí. 
+- III. Orientar a elaboração dos relatórios do estágio e preencher a ficha de avaliação;
 
-**Art. 12°** – O campo de estágio será aprovado e oficializado pela Seção de Estágios e de Relações Comunitárias com a entidade concedente de estágio ou agentes de integração empresa-escola, estes últimos entendidos como entidades que atuam na intermediação da busca de campos de estágio e ofertas de vagas. 
+IV. Verificar a adequação das atividades de estágio com a área de formação do estudante, de forma a garantir o desenvolvimento de competências necessárias à sua formação profissional.
 
-**Art. 13** – Constituem campo de estágio as entidades de direito privado, os órgãos de administração pública direta, autárquica e fundacional de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, bem como profissionais liberais de nível superior e devidamente registrados em seus respectivos conselhos de fiscalização profissional, desde que apresentem condições para: 
+**Art. 18°** – Supervisão de estágios deve ser entendida como a assessoria dada ao aluno no decorrer de sua prática profissional, por docente orientador e por profissional do campo de estágio de forma a proporcionar ao estagiário o pleno desempenho de ações, princípios e valores inerentes à realidade da profissão.
 
-- I. Planejamento e execução conjunta das atividades de estágio; 
+**Art. 19°** – A forma como o docente orientador de estágio irá realizar a supervisão de estágio, deverá levar em consideração as especificidades das atividades de cada estágio. A supervisão do estágio poderá acontecer das seguintes formas:
 
-II. Avaliação e aprofundamento dos conhecimentos teórico-práticos de campo específico de trabalho; 
+I – Supervisão direta: acompanhamento e orientação do estágio através de observação contínua e direta das atividades ocorrentes nos campos de estágio ao longo de todo o processo pelo professor orientador, podendo ser complementada com entrevistas e reuniões com os estudantes e/ou nos campos de estágios.
 
-III. Vivência efetiva de situações concretas de vida e trabalho, dentro de um campo profissional. 
+II – Supervisão semi-direta: acompanhamento e orientação do estágio por meio de visitas periódicas aos campos de estágios pelo professor orientador, que manterá também contato
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-**==> picture [458 x 63] intentionally omitted <==**
+com o profissional responsável pelo(s) estagiário(s), além do complemento de entrevistas e reuniões com os estudantes.
 
-**Art. 14°** – As instituições serão cadastradas pelo Instituto Federal do Paraná como entidades concedentes de campo de estágio, sendo facultativa a formalização de Termo de Convênio. As entidades concedentes deverão atender aos seguintes requisitos: Existência de infraestrutura material e de recursos humanos; 
+III – Supervisão indireta: acompanhamento feito via relatórios, reuniões e visitas ocasionais aos campos de estágio, onde se processarão contatos e/ou reuniões com o(s) profissional(is) responsável(is).
 
-Anuência e acatamento às normas disciplinadoras dos estágios do Instituto Federal do Paraná; Obtenção de avaliação satisfatória das instalações e de sua adequação à formação cultural e profissional do educando. 
+**Parágrafo único:** A supervisão do estágio é considerada atividade de apoio ao ensino, conforme estabelecido no Art. 6° da Resolução 002/2009 CONSUP/IFPR.
 
-**Parágrafo único** . Os formulários específicos para realização do convênio das entidades concedentes conforme caput deste artigo estão disponíveis em: 
+**Art. 20°** – A avaliação dos estagiários será feita pelo professor orientador ou coordenador de curso ou um representante por ele designado, de forma sistemática e contínua, com a colaboração dos profissionais supervisores dos campos de estágios.
 
-<http://reitoria.ifpr.edu.br/menu-institucional/pro-reitorias/proepi- 
+**§ 1º** Para avaliação do aluno estagiário será utilizado o instrumento disponível em: <http://reitoria.ifpr.edu.br/menu-institucional/pro-reitorias/proepi-
 
-- 2/empreendedorismoinovador/empregabilidade/estagios-2/modelos-de-convenios-de-estagio/> –Convênio de Estágio – IFPR como Instituição de Ensino 
+2/empreendedorismoinovador/empregabilidade/estagios-2/formularios/> - 2.1 Ficha de avaliação de estágio;
 
-## **CAPÍTULO IV DA SUPERVISÃO E ORIENTAÇÃO DE ESTÁGIO** 
+## **CAPÍTULO V DESLIGAMENTO DE ESTÁGIO**
 
-**Art. 15°** – A supervisão do estágio curricular não obrigatório caberá ao profissional vinculado à entidade concedente do estágio em conjunto com o professor orientador indicado pela Coordenação de Curso. 
+**Art. 21°** – O desligamento do estudante da Unidade Concedente de Estágio ocorrerá automaticamente após encerrado o prazo fixado no Termo de Compromisso de Estágio.
 
-## **Art. 16°** – Cabe ao professor orientador do estágio: 
+**Art. 22°** – O estudante será desligado da Unidade Concedente de Estágio antes do encerramento do período previsto no Termo de Compromisso de Estágio nos seguintes casos:
 
-I. Elaborar em conjunto com o estudante estagiário o plano de estágio, observada a adequação das atividades de estágio com a área de formação do estudante, de forma a garantir o desenvolvimento de competências necessárias à sua formação profissional. 
+I. A pedido do estudante, mediante comunicação prévia por escrito à Unidade Concedente de Estágio e ao IFPR;
 
-- **Art. 17°** – Cabe ao supervisor profissional da entidade concedente: 
+II. Por iniciativa da Unidade Concedente de Estágio, quando o estudante deixar de cumprir obrigações previstas no Termo de Compromisso de Estágio, mediante comunicação ao estudante com no mínimo 5 (cinco) dias de antecedência;
 
-- I. Avaliar as atividades desenvolvidas pelo estudante estagiário; 
+III. Por iniciativa do IFPR, quando a Unidade Concedente de Estágio deixar de cumprir obrigações previstas no respectivo instrumento jurídico;
 
-- II. Assinar a ficha de frequência do aluno estagiário; 
+IV. Por iniciativa do IFPR, quando o estudante infringir normas disciplinares da Instituição que levem ao seu desligamento do corpo discente;
 
-- III. Orientar a elaboração dos relatórios do estágio e preencher a ficha de avaliação; 
+V. Por iniciativa do IFPR, quando ocorrer o trancamento da matrícula, a desistência, o jubilamento ou a conclusão do curso pelo estudante;
 
-IV. Verificar a adequação das atividades de estágio com a área de formação do estudante, de forma a garantir o desenvolvimento de competências necessárias à sua formação profissional. 
+VI. Quando o instrumento jurídico celebrado entre o IFPR e a Unidade Concedente de Estágio for rescindido.
 
-**Art. 18°** – Supervisão de estágios deve ser entendida como a assessoria dada ao aluno no decorrer de sua prática profissional, por docente orientador e por profissional do campo de estágio de forma a proporcionar ao estagiário o pleno desempenho de ações, princípios e valores inerentes à realidade da profissão. 
+**Parágrafo único.** Ocorrendo o desligamento do estudante no caso previsto no Inciso II deste Artigo, a Unidade Concedente de Estágio comunicará o fato à Coordenação de Estágio do Campus do estudante, e encaminhará para efeito de registro até 3 (três) dias após o cancelamento, o Termo de Rescisão do instrumento jurídico firmado entre as partes, para
 
-**Art. 19°** – A forma como o docente orientador de estágio irá realizar a supervisão de estágio, deverá levar em consideração as especificidades das atividades de cada estágio. A supervisão do estágio poderá acontecer das seguintes formas: 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-I – Supervisão direta: acompanhamento e orientação do estágio através de observação contínua e direta das atividades ocorrentes nos campos de estágio ao longo de todo o processo pelo professor orientador, podendo ser complementada com entrevistas e reuniões com os estudantes e/ou nos campos de estágios. 
+análise e assinatura, disponível em: <http://reitoria.ifpr.edu.br/menu-institucional/proreitorias/proepi-2/empreendedorismoinovador/empregabilidade/estagios-2/formularios/> - 2.2 Rescisão de Contrato.
 
-II – Supervisão semi-direta: acompanhamento e orientação do estágio por meio de visitas periódicas aos campos de estágios pelo professor orientador, que manterá também contato 
+## **CAPÍTULO VI DAS DISPOSIÇÕES GERAIS**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+**Art. 23º** – O estágio de que trata este regulamento não cria vínculo empregatício de qualquer natureza entre o estudante e a entidade concedente, facultado ao estagiário o recebimento de bolsa.
 
-**==> picture [458 x 63] intentionally omitted <==**
+**§ Único** – A entidade concedente de estágio ou os agentes de integração empresa-escola providenciarão seguro de acidentes pessoais ao estudante em regime de estágio curricular não obrigatório.
 
-com o profissional responsável pelo(s) estagiário(s), além do complemento de entrevistas e reuniões com os estudantes. 
+**Art. 24º** – A entidade concedente poderá expedir declaração referente à realização de estágio curricular não obrigatório, depois de cumpridas todas as formalidades previstas para essa modalidade.
 
-III – Supervisão indireta: acompanhamento feito via relatórios, reuniões e visitas ocasionais aos campos de estágio, onde se processarão contatos e/ou reuniões com o(s) profissional(is) responsável(is). 
+**Art. 25º** – Os casos omissos serão resolvidos pela Direção de Ensino, Pesquisa e Extensão do Campus Paranavaí do IFPR em consonância com as orientações recebidas pela Seção de Estágios e de Relações Comunitárias.
 
-**Parágrafo único:** A supervisão do estágio é considerada atividade de apoio ao ensino, conforme estabelecido no Art. 6° da Resolução 002/2009 CONSUP/IFPR. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-**Art. 20°** – A avaliação dos estagiários será feita pelo professor orientador ou coordenador de curso ou um representante por ele designado, de forma sistemática e contínua, com a colaboração dos profissionais supervisores dos campos de estágios. 
+## **5.4. ANEXO IV**
 
-**§ 1º** Para avaliação do aluno estagiário será utilizado o instrumento disponível em: <http://reitoria.ifpr.edu.br/menu-institucional/pro-reitorias/proepi- 
+## **REGULAMENTO DO PROJETO INTEGRADOR**
 
-2/empreendedorismoinovador/empregabilidade/estagios-2/formularios/> - 2.1 Ficha de avaliação de estágio; 
+## **REGULAMENTO DO COMPONENTE CURRICULAR “PROJETO INTEGRADOR” DO CURSO TÉCNICO EM MECATRÔNICA INTEGRADO AO ENSINO MÉDIO**
 
-## **CAPÍTULO V DESLIGAMENTO DE ESTÁGIO** 
+## **CAPÍTULO I DA FINALIDADE**
 
-**Art. 21°** – O desligamento do estudante da Unidade Concedente de Estágio ocorrerá automaticamente após encerrado o prazo fixado no Termo de Compromisso de Estágio. 
+**Art. 1º** O Projeto Integrador é um componente curricular obrigatório e integrante da última série do Curso Técnico em Mecatrônica Integrado ao Ensino Médio do Instituto Federal do Paraná (IFPR) do campus Paranavaí e tem por finalidade aplicar os conhecimentos adquiridos ao longo do curso e estimular a capacidade criativa dos estudantes, por intermédio da elaboração de um projeto relacionado à área de mecatrônica.
 
-**Art. 22°** – O estudante será desligado da Unidade Concedente de Estágio antes do encerramento do período previsto no Termo de Compromisso de Estágio nos seguintes casos: 
+**Art. 2º** O Projeto Integrador pode ser realizado em equipe, no qual o número máximo de estudantes que compõe cada equipe é definido pelo docente responsável pela disciplina.
 
-I. A pedido do estudante, mediante comunicação prévia por escrito à Unidade Concedente de Estágio e ao IFPR; 
+## **CAPÍTULO II DO FUNCIONAMENTO**
 
-II. Por iniciativa da Unidade Concedente de Estágio, quando o estudante deixar de cumprir obrigações previstas no Termo de Compromisso de Estágio, mediante comunicação ao estudante com no mínimo 5 (cinco) dias de antecedência; 
+**Art. 3º** Em até 15 (quinze) dias após o início do período letivo, os estudantes que compõe a equipe, conjuntamente com um professor orientador, deverão definir o tema do projeto a ser desenvolvido e encaminhar a proposta do trabalho ao docente responsável pelo componente curricular Projeto Integrador, para aprovação.
 
-III. Por iniciativa do IFPR, quando a Unidade Concedente de Estágio deixar de cumprir obrigações previstas no respectivo instrumento jurídico; 
+**Parágrafo único -** A proposta do Projeto Integrador deverá compreender: I - Título, mesmo que provisório; II – Objetivos do Projeto Integrador; III - Cronograma de atividades.
 
-IV. Por iniciativa do IFPR, quando o estudante infringir normas disciplinares da Instituição que levem ao seu desligamento do corpo discente; 
+## **CAPÍTULO III DO DOCENTE RESPONSÁVEL PELA DISCIPLINA**
 
-V. Por iniciativa do IFPR, quando ocorrer o trancamento da matrícula, a desistência, o jubilamento ou a conclusão do curso pelo estudante; 
+**Art. 4°** A responsabilidade do Projeto Integrador será realizado por um professor da área técnica integrante da carreira docente lotado no colegiado do Curso Técnico em Mecatrônica Integrado ao Ensino Médio, cujos encargos de ensino corresponderão a duas horas-aula semanais.
 
-VI. Quando o instrumento jurídico celebrado entre o IFPR e a Unidade Concedente de Estágio for rescindido. 
+**Art. 5°** Compete ao docente responsável pelo projeto integrador:
 
-**Parágrafo único.** Ocorrendo o desligamento do estudante no caso previsto no Inciso II deste Artigo, a Unidade Concedente de Estágio comunicará o fato à Coordenação de Estágio do Campus do estudante, e encaminhará para efeito de registro até 3 (três) dias após o cancelamento, o Termo de Rescisão do instrumento jurídico firmado entre as partes, para 
+I – responder pelo Projeto Integrador junto ao coordenador e ao colegiado do curso Técnico em Mecatrônica Integrado ao Ensino Médio;
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+II – realizar atividades semanais em sala de aula com os estudantes e se necessário, com os orientadores das equipes;
 
-**==> picture [458 x 63] intentionally omitted <==**
+III – estabelecer datas para as avaliações previstas no critério de avaliação;
 
-análise e assinatura, disponível em: <http://reitoria.ifpr.edu.br/menu-institucional/proreitorias/proepi-2/empreendedorismoinovador/empregabilidade/estagios-2/formularios/> - 2.2 Rescisão de Contrato. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-## **CAPÍTULO VI DAS DISPOSIÇÕES GERAIS** 
+IV – auxiliar os discentes no desenvolvimento dos projetos;
 
-**Art. 23º** – O estágio de que trata este regulamento não cria vínculo empregatício de qualquer natureza entre o estudante e a entidade concedente, facultado ao estagiário o recebimento de bolsa. 
+V – confirmar a aprovação do Projeto Integrador, tendo em seu poder o trabalho final definitivo; VI – encaminhar à Secretaria Acadêmica os resultados das avaliações previstas.
 
-**§ Único** – A entidade concedente de estágio ou os agentes de integração empresa-escola providenciarão seguro de acidentes pessoais ao estudante em regime de estágio curricular não obrigatório. 
+## **CAPÍTULO IV DA ORIENTAÇÃO**
 
-**Art. 24º** – A entidade concedente poderá expedir declaração referente à realização de estágio curricular não obrigatório, depois de cumpridas todas as formalidades previstas para essa modalidade. 
+**Art. 6°** A orientação de cada equipe do Projeto Integrador será exercida por um professor do Curso Técnico em Mecatrônica Integrado ao Ensino Médio e fundamentada na proposta de projeto aprovado pelo docente responsável do componente curricular.
 
-**Art. 25º** – Os casos omissos serão resolvidos pela Direção de Ensino, Pesquisa e Extensão do Campus Paranavaí do IFPR em consonância com as orientações recebidas pela Seção de Estágios e de Relações Comunitárias. 
+**Parágrafo único.** Eventualmente, o Projeto Integrador poderá ser co-orientado por professor ou profissional com experiência comprovada na área de conhecimento, desde que aprovado pelo docente responsável pela disciplina. O co-orientador não precisa pertencer ao quadro de docentes do Instituto Federal do Paraná – Campus Paranavaí.
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+## **CAPÍTULO V DA AVALIAÇÃO**
 
-**==> picture [458 x 63] intentionally omitted <==**
+**Art. 7º** Os estudantes deverão entregar ao docente responsável do Projeto Integrador as cópias impressas do relatório final em número equivalente ao de avaliadores que comporão sua banca, no mínimo 15 dias antes da data da defesa pública do trabalho.
 
-## **5.4. ANEXO IV** 
+**Art. 8º** A defesa do Projeto Integrador deve ser pública, perante banca examinadora constituída pelo orientador ou pelo co-orientador e por, pelo menos, mais dois membros que não tenham contribuído formalmente com a realização do trabalho.
 
-## **REGULAMENTO DO PROJETO INTEGRADOR** 
+**§ 1º** A banca examinadora poderá ser constituída por professores e profissionais de nível superior e tecnólogo externos ao Instituto Federal do Paraná, campus Paranavaí.
 
-## **REGULAMENTO DO COMPONENTE CURRICULAR “PROJETO INTEGRADOR” DO CURSO TÉCNICO EM MECATRÔNICA INTEGRADO AO ENSINO MÉDIO** 
+**§ 2º** Cabe ao professor orientador ou co-orientador presidir a banca examinadora.
 
-## **CAPÍTULO I DA FINALIDADE** 
+**§ 3º** Se por alguma eventualidade justificada, o orientador e o co-orientador estiverem impossibilitados de presidirem a banca examinadora, cabe ao professor responsável do Projeto Integrador presidir a banca examinadora.
 
-**Art. 1º** O Projeto Integrador é um componente curricular obrigatório e integrante da última série do Curso Técnico em Mecatrônica Integrado ao Ensino Médio do Instituto Federal do Paraná (IFPR) do campus Paranavaí e tem por finalidade aplicar os conhecimentos adquiridos ao longo do curso e estimular a capacidade criativa dos estudantes, por intermédio da elaboração de um projeto relacionado à área de mecatrônica. 
+**Art. 9º** As equipes devem apresentar-se à banca examinadora na data, local e horário determinados pelo docente responsável do Projeto Integrador.
 
-**Art. 2º** O Projeto Integrador pode ser realizado em equipe, no qual o número máximo de estudantes que compõe cada equipe é definido pelo docente responsável pela disciplina. 
+**Art. 10** Os tempos de exposição e arguição serão definidos pelo docente responsável do Projeto Integrador e controlados pelo presidente da banca examinadora.
 
-## **CAPÍTULO II DO FUNCIONAMENTO** 
+**Parágrafo único.** Em um prazo de até 5 (cinco) dias úteis após a data da defesa pública, a Banca Examinadora, excetuando-se o orientador e o co-orientador do Projeto Integrador, procederão a avaliação do trabalho, onde serão avaliados o desenvolvimento e a apresentação do projeto, e o domínio sobre o tema proposto, sendo atribuído um conceito para cada estudante avaliado de acordo com o Art. 9° da Portaria nº120 de 06 de agosto de 2009 do Instituto Federal do Paraná.
 
-**Art. 3º** Em até 15 (quinze) dias após o início do período letivo, os estudantes que compõe a equipe, conjuntamente com um professor orientador, deverão definir o tema do projeto a ser desenvolvido e encaminhar a proposta do trabalho ao docente responsável pelo componente curricular Projeto Integrador, para aprovação. 
+**Art. 11** A avaliação do rendimento discente durante o ano letivo dar-se-á em conformidade com o critério de avaliação definido pelo docente responsável do Projeto Integrador, no qual deverá constar obrigatoriamente a defesa pública do trabalho perante uma banca examinadora.
 
-**Parágrafo único -** A proposta do Projeto Integrador deverá compreender: I - Título, mesmo que provisório; II – Objetivos do Projeto Integrador; III - Cronograma de atividades. 
+**Art. 12** Em caso da banca examinadora recomendar correções ou alterações, a equipe deverá efetuá-las, sob supervisão do orientador do Projeto Integrador, em no máximo 15 (quinze) dias após a data da defesa pública.
 
-## **CAPÍTULO III DO DOCENTE RESPONSÁVEL PELA DISCIPLINA** 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-**Art. 4°** A responsabilidade do Projeto Integrador será realizado por um professor da área técnica integrante da carreira docente lotado no colegiado do Curso Técnico em Mecatrônica Integrado ao Ensino Médio, cujos encargos de ensino corresponderão a duas horas-aula semanais. 
+**Parágrafo único.** Terminado o prazo estabelecido para a realização das correções, a equipe deve providenciar uma cópia do trabalho definitivo, juntamente com cópia do material apresentado na ocasião da defesa pública para ser entregue ao docente responsável do Projeto Integrador.
 
-**Art. 5°** Compete ao docente responsável pelo projeto integrador: 
+## **CAPÍTULO VI DAS DISPOSIÇÕES GERAIS**
 
-I – responder pelo Projeto Integrador junto ao coordenador e ao colegiado do curso Técnico em Mecatrônica Integrado ao Ensino Médio; 
+**Art. 14** Os casos omissos serão resolvidos pelo Coordenador do curso, em concordância com o Colegiado do curso Técnico em Mecatrônica Integrado ao Ensino Médio.
 
-II – realizar atividades semanais em sala de aula com os estudantes e se necessário, com os orientadores das equipes; 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-III – estabelecer datas para as avaliações previstas no critério de avaliação; 
+## **5.5. ANEXO V**
 
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+## **ATA DE APROVAÇÃO DE CRIAÇÃO DO CURSO TÉCNICO EM MECATRÔNICA INTEGRADO AO ENSINO MÉDIO**
 
-**==> picture [458 x 63] intentionally omitted <==**
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-IV – auxiliar os discentes no desenvolvimento dos projetos; 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-V – confirmar a aprovação do Projeto Integrador, tendo em seu poder o trabalho final definitivo; VI – encaminhar à Secretaria Acadêmica os resultados das avaliações previstas. 
+## **5.6. ANEXO VI**
 
-## **CAPÍTULO IV DA ORIENTAÇÃO** 
+## **PORTARIA DE CRIAÇÃO DA COMISSÃO DE ESTRUTURAÇÃO DO CURSO TÉCNICO EM MECATRÔNICA INTEGRADO AO ENSINO MÉDIO**
 
-**Art. 6°** A orientação de cada equipe do Projeto Integrador será exercida por um professor do Curso Técnico em Mecatrônica Integrado ao Ensino Médio e fundamentada na proposta de projeto aprovado pelo docente responsável do componente curricular. 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 
-**Parágrafo único.** Eventualmente, o Projeto Integrador poderá ser co-orientado por professor ou profissional com experiência comprovada na área de conhecimento, desde que aprovado pelo docente responsável pela disciplina. O co-orientador não precisa pertencer ao quadro de docentes do Instituto Federal do Paraná – Campus Paranavaí. 
+## **5.7. ANEXO VII**
 
-## **CAPÍTULO V DA AVALIAÇÃO** 
+**ATA N° 001/2016 CODIC/IFPR/PARANAVAÍ- APROVAÇÃO DO CURSO TÉCNICO EM MECATRÔNICA INTEGRADO AO ENSINO MÉDIO**
 
-**Art. 7º** Os estudantes deverão entregar ao docente responsável do Projeto Integrador as cópias impressas do relatório final em número equivalente ao de avaliadores que comporão sua banca, no mínimo 15 dias antes da data da defesa pública do trabalho. 
-
-**Art. 8º** A defesa do Projeto Integrador deve ser pública, perante banca examinadora constituída pelo orientador ou pelo co-orientador e por, pelo menos, mais dois membros que não tenham contribuído formalmente com a realização do trabalho. 
-
-**§ 1º** A banca examinadora poderá ser constituída por professores e profissionais de nível superior e tecnólogo externos ao Instituto Federal do Paraná, campus Paranavaí. 
-
-**§ 2º** Cabe ao professor orientador ou co-orientador presidir a banca examinadora. 
-
-**§ 3º** Se por alguma eventualidade justificada, o orientador e o co-orientador estiverem impossibilitados de presidirem a banca examinadora, cabe ao professor responsável do Projeto Integrador presidir a banca examinadora. 
-
-**Art. 9º** As equipes devem apresentar-se à banca examinadora na data, local e horário determinados pelo docente responsável do Projeto Integrador. 
-
-**Art. 10** Os tempos de exposição e arguição serão definidos pelo docente responsável do Projeto Integrador e controlados pelo presidente da banca examinadora. 
-
-**Parágrafo único.** Em um prazo de até 5 (cinco) dias úteis após a data da defesa pública, a Banca Examinadora, excetuando-se o orientador e o co-orientador do Projeto Integrador, procederão a avaliação do trabalho, onde serão avaliados o desenvolvimento e a apresentação do projeto, e o domínio sobre o tema proposto, sendo atribuído um conceito para cada estudante avaliado de acordo com o Art. 9° da Portaria nº120 de 06 de agosto de 2009 do Instituto Federal do Paraná. 
-
-**Art. 11** A avaliação do rendimento discente durante o ano letivo dar-se-á em conformidade com o critério de avaliação definido pelo docente responsável do Projeto Integrador, no qual deverá constar obrigatoriamente a defesa pública do trabalho perante uma banca examinadora. 
-
-**Art. 12** Em caso da banca examinadora recomendar correções ou alterações, a equipe deverá efetuá-las, sob supervisão do orientador do Projeto Integrador, em no máximo 15 (quinze) dias após a data da defesa pública. 
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
-
-**Parágrafo único.** Terminado o prazo estabelecido para a realização das correções, a equipe deve providenciar uma cópia do trabalho definitivo, juntamente com cópia do material apresentado na ocasião da defesa pública para ser entregue ao docente responsável do Projeto Integrador. 
-
-## **CAPÍTULO VI DAS DISPOSIÇÕES GERAIS** 
-
-**Art. 14** Os casos omissos serão resolvidos pelo Coordenador do curso, em concordância com o Colegiado do curso Técnico em Mecatrônica Integrado ao Ensino Médio. 
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
-
-## **5.5. ANEXO V** 
-
-## **ATA DE APROVAÇÃO DE CRIAÇÃO DO CURSO TÉCNICO EM MECATRÔNICA INTEGRADO AO ENSINO MÉDIO** 
-
-**==> picture [413 x 575] intentionally omitted <==**
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
-
-**==> picture [424 x 649] intentionally omitted <==**
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
-
-## **5.6. ANEXO VI** 
-
-## **PORTARIA DE CRIAÇÃO DA COMISSÃO DE ESTRUTURAÇÃO DO CURSO TÉCNICO EM MECATRÔNICA INTEGRADO AO ENSINO MÉDIO** 
-
-**==> picture [392 x 607] intentionally omitted <==**
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
-
-**==> picture [458 x 63] intentionally omitted <==**
-
-## **5.7. ANEXO VII** 
-
-**ATA N° 001/2016 CODIC/IFPR/PARANAVAÍ- APROVAÇÃO DO CURSO TÉCNICO EM MECATRÔNICA INTEGRADO AO ENSINO MÉDIO** 
-
-**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil 
+**INSTITUTO FEDERAL DO PARANÁ | Campus Paranavaí** Av. José Felipe “Tequinha”, 1400 – Jd. das Nações,  Paranavaí - PR | CEP 87703-536  - Brasil
 

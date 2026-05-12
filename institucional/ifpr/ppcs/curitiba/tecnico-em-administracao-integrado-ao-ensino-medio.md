@@ -1,266 +1,247 @@
-**==> picture [454 x 22] intentionally omitted <==**
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>INSTITUTOFEDERAL<br>InstitutoFederaldoParana<br>PARANA<br>**----- End of picture text -----**<br>
+MinisteriodaEducacao<br>INSTITUTOFEDERAL<br>InstitutoFederaldoParana<br>PARANA<br># **MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA INSTITUTO FEDERAL DO PARANÁ CÂMPUS CURITIBA**
 
+**PROJETO PEDAGÓGICO DO CURSO TÉCNICO EM ADMINISTRAÇÃO INTEGRADO AO ENSINO MÉDIO**
 
-# **MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA INSTITUTO FEDERAL DO PARANÁ CÂMPUS CURITIBA** 
+## **Autorizado pela Resolução nº 66/2011 do Conselho Superior - IFPR**
 
-**PROJETO PEDAGÓGICO DO CURSO TÉCNICO EM ADMINISTRAÇÃO INTEGRADO AO ENSINO MÉDIO** 
+**CURITIBA 2014**
 
-## **Autorizado pela Resolução nº 66/2011 do Conselho Superior - IFPR** 
+## **INSTITUTO FEDERAL DO PARANÁ**
 
-**CURITIBA 2014** 
+## **Reitor**
 
-## **INSTITUTO FEDERAL DO PARANÁ** 
+Irineu Mário Colombo
 
-## **Reitor** 
+## **Pró-reitor de Ensino**
 
-Irineu Mário Colombo 
+Ezequiel Westphal
 
-## **Pró-reitor de Ensino** 
+## **Diretor de Ensino Médio e Técnico**
 
-Ezequiel Westphal 
+Evandro Cherubin Rolim
 
-## **Diretor de Ensino Médio e Técnico** 
+## **Coordenador de Ensino Médio e Técnico**
 
-Evandro Cherubin Rolim 
+Gabriel Carneiro Leão
 
-## **Coordenador de Ensino Médio e Técnico** 
+## **Direção Geral do Câmpus**
 
-Gabriel Carneiro Leão 
+Adriano William da Silva
 
-## **Direção Geral do Câmpus** 
+## **Diretor de Ensino**
 
-Adriano William da Silva 
+Sheila Cristiana de Freitas
 
-## **Diretor de Ensino** 
+**Coordenação de Ensino** Gislaine de Fátima Filla
 
-Sheila Cristiana de Freitas 
+**Coordenação do Curso** Leila Araújo de Sousa
 
-**Coordenação de Ensino** Gislaine de Fátima Filla 
+2
 
-**Coordenação do Curso** Leila Araújo de Sousa 
+## **SUMÁRIO**
 
-2 
+**1. IDENTIFICAÇÃO DO PROJETO ................................................................................................... 04 2. CARACTERÍSTICAS DO CURSO ................................................................................................. 05 3. ESTRUTURA E FUNCIONAMENTO ............................................................................................. 05** 3.1 Justificativa da oferta do Curso ................................................................................................ 05 3.2 Objetivos do curso ................................................................................................................... 06 3.3 Perfil profissional do egresso ................................................................................................... 06 3.4 Avaliação da aprendizagem ..................................................................................................... 07 3.5 Critérios de aproveitamento e procedimentos de avaliação de competências profissionais anteriormente desenvolvidas.......................................................................................................... 08 3.6 Instalações, equipamentos, recursos tecnológicos e biblioteca .............................................. 08 3.7 Pessoal docente e técnico ....................................................................................................... 09 3.8 Expedição de diplomas e certificados ...................................................................................... 12 3.9 Organização curricular ............................................................................................................. 13 3.10 Ementa dos componentes curriculares .................................................................................. 15 **4. DOCUMENTOS ANEXOS .............................................................................................................. 58 5. REFERÊNCIAS .............................................................................................................................. 62**
 
-## **SUMÁRIO** 
+INSTITUTOFEDERAL<br>PARANA<br>MinisteriodaEducacao<br>InstitutoFederaldoParana<br>## **1. IDENTIFICAÇÃO DO PROJETO**
 
-**1. IDENTIFICAÇÃO DO PROJETO ................................................................................................... 04 2. CARACTERÍSTICAS DO CURSO ................................................................................................. 05 3. ESTRUTURA E FUNCIONAMENTO ............................................................................................. 05** 3.1 Justificativa da oferta do Curso ................................................................................................ 05 3.2 Objetivos do curso ................................................................................................................... 06 3.3 Perfil profissional do egresso ................................................................................................... 06 3.4 Avaliação da aprendizagem ..................................................................................................... 07 3.5 Critérios de aproveitamento e procedimentos de avaliação de competências profissionais anteriormente desenvolvidas.......................................................................................................... 08 3.6 Instalações, equipamentos, recursos tecnológicos e biblioteca .............................................. 08 3.7 Pessoal docente e técnico ....................................................................................................... 09 3.8 Expedição de diplomas e certificados ...................................................................................... 12 3.9 Organização curricular ............................................................................................................. 13 3.10 Ementa dos componentes curriculares .................................................................................. 15 **4. DOCUMENTOS ANEXOS .............................................................................................................. 58 5. REFERÊNCIAS .............................................................................................................................. 62** 
+**PROCESSO NÚMERO:** 23397.000333/2014-31 **NOME DO CURSO:** Técnico em Administração Integrado ao Ensino Médio **EIXO TECNOLÓGICO:** Gestão e Negócios **COORDENAÇÃO Coordenador:** Profa. Dra. Leila Araújo de Sousa **E-mail:** leila.sousa@ifpr.edu.br **Telefone:** (41) 3535-1604 **Vice-Coordenador:** Profa. Me. Deise Leandra Fontana **E-mail:** deise.fontana@ifpr.edu.br **Telefone:** (41) 3535-1604
 
-3 
+**LOCAL DO CÂMPUS :** Rua João Negrão, 1285, Bairro Rebouças, Cep. 80230-150 – Curitiba - Pr
 
-**==> picture [69 x 16] intentionally omitted <==**
+**TEL: HOME-PAGE: E-mail:** (41) 3535-1604 curitiba.ifpr.edu.br direcao.curitiba@ifpr.edu.br **DIREÇÃO GERAL:** Prof. Dr. Adriano Willian da Silva **DIREÇÃO DE ENSINO:** Profa. Me. Sheila Cristiana de Freitas **RESOLUÇÃO DE CRIAÇÃO:** Resolução 66/2011 do Conselho Superior **APROVAÇÃO DO PROJETO PEDAGÓGICO DO CURSO ( ) AJUSTE CURRICULAR DO PROJETO PEDAGÓGICO DO CURSO (X)**
 
-**----- Start of picture text -----**<br>
-INSTITUTOFEDERAL<br>PARANA<br>**----- End of picture text -----**<br>
+**COMISSÃO RESPONSÁVEL PELA ELABORAÇÃO DO PPC OU AJUSTE CURRICULAR:** Candida de Fátima Deichmann Santos Lima Deise Leandra Fontana Leila Araújo de Sousa
 
+4
 
-**==> picture [96 x 20] intentionally omitted <==**
+Ministerioda Educacao InstitutoFederaldoParana
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+INSTITUTOFEDERAL PARANA
 
+## **2. CARACTERÍSTICAS DO CURSO**
 
-## **1. IDENTIFICAÇÃO DO PROJETO** 
+**Nível:** Educação Profissional Técnica de Nível Médio
 
-**PROCESSO NÚMERO:** 23397.000333/2014-31 **NOME DO CURSO:** Técnico em Administração Integrado ao Ensino Médio **EIXO TECNOLÓGICO:** Gestão e Negócios **COORDENAÇÃO Coordenador:** Profa. Dra. Leila Araújo de Sousa **E-mail:** leila.sousa@ifpr.edu.br **Telefone:** (41) 3535-1604 **Vice-Coordenador:** Profa. Me. Deise Leandra Fontana **E-mail:** deise.fontana@ifpr.edu.br **Telefone:** (41) 3535-1604 
+**Forma de Oferta:** Integrado
 
-**LOCAL DO CÂMPUS :** Rua João Negrão, 1285, Bairro Rebouças, Cep. 80230-150 – Curitiba - Pr 
+## **Modalidade:** Presencial
 
-**TEL: HOME-PAGE: E-mail:** (41) 3535-1604 curitiba.ifpr.edu.br direcao.curitiba@ifpr.edu.br **DIREÇÃO GERAL:** Prof. Dr. Adriano Willian da Silva **DIREÇÃO DE ENSINO:** Profa. Me. Sheila Cristiana de Freitas **RESOLUÇÃO DE CRIAÇÃO:** Resolução 66/2011 do Conselho Superior **APROVAÇÃO DO PROJETO PEDAGÓGICO DO CURSO ( ) AJUSTE CURRICULAR DO PROJETO PEDAGÓGICO DO CURSO (X)** 
+**Tempo de duração do curso:** 3 anos
 
-**COMISSÃO RESPONSÁVEL PELA ELABORAÇÃO DO PPC OU AJUSTE CURRICULAR:** Candida de Fátima Deichmann Santos Lima Deise Leandra Fontana Leila Araújo de Sousa 
+**Turno de oferta:** manhã com possibilidade de aulas no período da tarde
 
-4 
+**Horário de oferta do curso:** período matutino de segunda-feira a sexta-feira, com um dia de contraturno no período vespertino nos dois primeiros anos.
 
-Ministerioda Educacao InstitutoFederaldoParana 
+**Carga horária Total:** 3254 h/a
 
-INSTITUTOFEDERAL PARANA 
+**Número máximo de vagas do curso:** 35
 
-## **2. CARACTERÍSTICAS DO CURSO** 
+**Número mínimo de vagas do curso:** 20
 
-**Nível:** Educação Profissional Técnica de Nível Médio 
+## **Ano de criação do curso:** 2011
 
-**Forma de Oferta:** Integrado 
+**Requisitos de acesso ao Curso:** Ensino fundamental concluído e aprovação no processo seletivo regulamentado pela Pró-Reitoria de Ensino em parceria com o campus.
 
-## **Modalidade:** Presencial 
+**Regime Escolar:** Anual
 
-**Tempo de duração do curso:** 3 anos 
+**Parceria:** Não há
 
-**Turno de oferta:** manhã com possibilidade de aulas no período da tarde 
+## **3. ESTRUTURA E FUNCIONAMENTO**
 
-**Horário de oferta do curso:** período matutino de segunda-feira a sexta-feira, com um dia de contraturno no período vespertino nos dois primeiros anos. 
+## **3.1 – Justificativa da oferta do curso**
 
-**Carga horária Total:** 3254 h/a 
+As organizações são uma realidade do mundo contemporâneo e quase tudo o que acontece ao nosso redor depende delas. Elas estão presentes ao fornecer meios para o atendimento das necessidades humanas. No entanto, para alcançar seus objetivos, as organizações devem ser capazes de utilizar corretamente seus recursos e, para isso, precisam de administração.
 
-**Número máximo de vagas do curso:** 35 
+Administração é, portanto, uma ciência social aplicada, fundamentada em um conjunto de normas e funções para gerenciar elementos de produção. Dessa forma, é impossível falar em administração sem falar em objetivos e responsabilidades. Neste contexto, o Técnico em Administração é a ligação entre os meios (recursos financeiros, tecnológicos e humanos) e os fins (objetivos). Assim, cabe ao Técnico em Administração combinar os recursos na proporção adequada levando em consideração o contexto em que se insere cada organização, pois em um mundo cada vez mais globalizado e competitivo, o sucesso ou insucesso das organizações depende da qualidade de sua administração.
 
-**Número mínimo de vagas do curso:** 20 
+Administrar é, então, o processo de tomar, realizar e alcançar ações que utilizam recursos para atingir objetivos. Para tanto, o administrador deve lançar mão das funções básicas da administração (Planejar, Organizar, Dirigir e Controlar).
 
-## **Ano de criação do curso:** 2011 
+Nos últimos anos, as organizações vivem em um ambiente em constantes mudanças. Tais mudanças têm um impacto determinante na administração. Para enfrentar esses desafios os profissionais da administração precisam reconhecer as tendências do ambiente organizacional, antecipando assim os problemas e aproveitando as oportunidades.
 
-**Requisitos de acesso ao Curso:** Ensino fundamental concluído e aprovação no processo seletivo regulamentado pela Pró-Reitoria de Ensino em parceria com o campus. 
+5
 
-**Regime Escolar:** Anual 
+Ministerioda Educacao InstitutoFederaldoParana
 
-**Parceria:** Não há 
+INSTITUTOFEDERAL PARANA
 
-## **3. ESTRUTURA E FUNCIONAMENTO** 
+Investir na formação da área administrativa tornou-se um fator importante por propiciar um número cada vez maior de indivíduos com conhecimentos e informações para o ingresso no mercado de trabalho formal e informal, uma vez que há uma crescente exigência de pessoas qualificadas para a atuação profissional.
 
-## **3.1 – Justificativa da oferta do curso** 
+Mesmo as micros e pequenas empresas que não se enquadram entre as líderes e inovadoras passaram a promover e/ou incentivar programas de escolarização, qualificação e requalificação de seus colaboradores, buscando construir o novo perfil que tende a se generalizar no mercado, especificamente em Curitiba e região metropolitana que conforme nota técnica do IPARDES (2010) tem aumentado cada vez mais nos últimos anos.
 
-As organizações são uma realidade do mundo contemporâneo e quase tudo o que acontece ao nosso redor depende delas. Elas estão presentes ao fornecer meios para o atendimento das necessidades humanas. No entanto, para alcançar seus objetivos, as organizações devem ser capazes de utilizar corretamente seus recursos e, para isso, precisam de administração. 
+Com base no cenário exposto, verifica-se que o curso Técnico em Administração na modalidade integrada do câmpus Curitiba do IFPR, procura suprir as demandas locais através da formação de profissionais capazes de atender as demandas emergentes de modo eficaz, critico e consciente.
 
-Administração é, portanto, uma ciência social aplicada, fundamentada em um conjunto de normas e funções para gerenciar elementos de produção. Dessa forma, é impossível falar em administração sem falar em objetivos e responsabilidades. Neste contexto, o Técnico em Administração é a ligação entre os meios (recursos financeiros, tecnológicos e humanos) e os fins (objetivos). Assim, cabe ao Técnico em Administração combinar os recursos na proporção adequada levando em consideração o contexto em que se insere cada organização, pois em um mundo cada vez mais globalizado e competitivo, o sucesso ou insucesso das organizações depende da qualidade de sua administração. 
+## **3.2 - Objetivos do Curso**
 
-Administrar é, então, o processo de tomar, realizar e alcançar ações que utilizam recursos para atingir objetivos. Para tanto, o administrador deve lançar mão das funções básicas da administração (Planejar, Organizar, Dirigir e Controlar). 
+O curso visa formar profissionais para atuar na área administrativa visando atender as exigências do mundo do trabalho, assessorando e desenvolvendo ações de planejamento, organização, direção e controle nas organizações, bem como a formação de um indivíduo crítico e um cidadão consciente.
 
-Nos últimos anos, as organizações vivem em um ambiente em constantes mudanças. Tais mudanças têm um impacto determinante na administração. Para enfrentar esses desafios os profissionais da administração precisam reconhecer as tendências do ambiente organizacional, antecipando assim os problemas e aproveitando as oportunidades. 
+São objetivos específicos do Curso Técnico em Administração Integrado ao Ensino Médio:
 
-5 
+- Conhecer as formas contemporâneas de linguagem, com vistas ao exercício da cidadania e à preparação básica para o trabalho, a formação ética e o desenvolvimento da autonomia intelectual e do pensamento crítico;
 
-Ministerioda Educacao InstitutoFederaldoParana 
+- Compreender a sociedade, sua gênese e transformação e os múltiplos fatores que nela intervêm como produtos da ação humana e do seu papel como agente social;
 
-INSTITUTOFEDERAL PARANA 
+- Ler, articular e interpretar símbolos e códigos em diferentes linguagens e representações, estabelecendo estratégias de solução e articulando os conhecimentos das várias ciências e outros campos do saber;
 
-Investir na formação da área administrativa tornou-se um fator importante por propiciar um número cada vez maior de indivíduos com conhecimentos e informações para o ingresso no mercado de trabalho formal e informal, uma vez que há uma crescente exigência de pessoas qualificadas para a atuação profissional. 
+- Desenvolver a formação de profissionais conscientes de seu potencial e de suas responsabilidades, na participação e na construção do mundo de trabalho, como membros ativos da sociedade em que vivem objetivando o aprender contínuo, a postura ética e a flexibilidade nas relações;
 
-Mesmo as micros e pequenas empresas que não se enquadram entre as líderes e inovadoras passaram a promover e/ou incentivar programas de escolarização, qualificação e requalificação de seus colaboradores, buscando construir o novo perfil que tende a se generalizar no mercado, especificamente em Curitiba e região metropolitana que conforme nota técnica do IPARDES (2010) tem aumentado cada vez mais nos últimos anos. 
+- Proporcionar ao aluno o diálogo com a prática organizacional através de visitas-técnicas, palestras e seminários de cunho profissional, simulações de casos reais, dentre outras vivências;
 
-Com base no cenário exposto, verifica-se que o curso Técnico em Administração na modalidade integrada do câmpus Curitiba do IFPR, procura suprir as demandas locais através da formação de profissionais capazes de atender as demandas emergentes de modo eficaz, critico e consciente. 
+- Formar um profissional de nível técnico com capacidade de atuar nas atividades administrativas, dando a ele conhecimentos teórico-práticos que o capacitem a ser um empreendedor, nas organizações onde trabalhe, ou no desenvolvimento de um empreendimento próprio.
 
-## **3.2 - Objetivos do Curso** 
+## **3.3 - Perfil profissional do Egresso**
 
-O curso visa formar profissionais para atuar na área administrativa visando atender as exigências do mundo do trabalho, assessorando e desenvolvendo ações de planejamento, organização, direção e controle nas organizações, bem como a formação de um indivíduo crítico e um cidadão consciente. 
+A escola tem a responsabilidade social de estar formando profissionais para uma sociedade em mudança. Assim, num mundo global que exige formação geral e não específica, o currículo
 
-São objetivos específicos do Curso Técnico em Administração Integrado ao Ensino Médio: 
+6
 
-- Conhecer as formas contemporâneas de linguagem, com vistas ao exercício da cidadania e à preparação básica para o trabalho, a formação ética e o desenvolvimento da autonomia intelectual e do pensamento crítico; 
+Ministerioda Educacao InstitutoFederaldoParana
 
-- Compreender a sociedade, sua gênese e transformação e os múltiplos fatores que nela intervêm como produtos da ação humana e do seu papel como agente social; 
+INSTITUTOFEDERAL PARANA
 
-- Ler, articular e interpretar símbolos e códigos em diferentes linguagens e representações, estabelecendo estratégias de solução e articulando os conhecimentos das várias ciências e outros campos do saber; 
+deverá formar profissionais de administração, da Área de Gestão, em nível Técnico com competência para:
 
-- Desenvolver a formação de profissionais conscientes de seu potencial e de suas responsabilidades, na participação e na construção do mundo de trabalho, como membros ativos da sociedade em que vivem objetivando o aprender contínuo, a postura ética e a flexibilidade nas relações; 
+- inserir-se  no mundo do trabalho de modo compromissado com o desenvolvimento regional sustentável;
 
-- Proporcionar ao aluno o diálogo com a prática organizacional através de visitas-técnicas, palestras e seminários de cunho profissional, simulações de casos reais, dentre outras vivências; 
+- que atuem com base em princípios éticos e de maneira sustentável;
 
-- Formar um profissional de nível técnico com capacidade de atuar nas atividades administrativas, dando a ele conhecimentos teórico-práticos que o capacitem a ser um empreendedor, nas organizações onde trabalhe, ou no desenvolvimento de um empreendimento próprio. 
+- que saibam interagir e aprimorar continuamente seus aprendizados a partir da convivência democrática com culturas, modos de ser e pontos de vista divergentes;
 
-## **3.3 - Perfil profissional do Egresso** 
+- sejam cidadãos críticos, propositivos e dinâmicos na busca por novos conhecimentos;
 
-A escola tem a responsabilidade social de estar formando profissionais para uma sociedade em mudança. Assim, num mundo global que exige formação geral e não específica, o currículo 
+- Entender as funções administrativas de planejamento, organização, direção e controle;
 
-6 
+- Identificar e relacionar o fluxo de informações e utilizar os procedimentos necessários e recomendáveis para a tomada de decisão;
 
-Ministerioda Educacao InstitutoFederaldoParana 
+- Analisar e elaborar rotinas e procedimentos administrativos;
 
-INSTITUTOFEDERAL PARANA 
+- Identificar e interpretar resultados de estudos de mercado, utilizando-os no processo de administração;
 
-deverá formar profissionais de administração, da Área de Gestão, em nível Técnico com competência para: 
+- Identificar as estruturas orçamentárias e societárias das organizações;
 
-- inserir-se  no mundo do trabalho de modo compromissado com o desenvolvimento regional sustentável; 
+- Entender e executar os procedimentos operacionais dos ciclos de administração que se referem aos recursos humanos, aos recursos materiais, ao patrimônio, ao suporte logístico, à produção, aos sistemas de informações, aos tributos e às finanças;
 
-- que atuem com base em princípios éticos e de maneira sustentável; 
+- Apresentar bom relacionamento, senso crítico-reflexivo, iniciativa, flexibilidade, senso de observação, auto-gestão, abstração e raciocínio lógico;
 
-- que saibam interagir e aprimorar continuamente seus aprendizados a partir da convivência democrática com culturas, modos de ser e pontos de vista divergentes; 
+- Aplicar as habilidades cognitivas e afetivas, fundamentadas nos conhecimentos técnicocientíficos, éticos, políticos e educativos, que contribuem para o alcance da qualidade da atividade administrativa;
 
-- sejam cidadãos críticos, propositivos e dinâmicos na busca por novos conhecimentos; 
+- Ter criatividade e atualização, buscando constantemente ser agente ativo em aprimoramento profissional acompanhando a evolução técnica científica do mundo do trabalho, atuando como agente ativo de transformação social de sua realidade;
 
-- Entender as funções administrativas de planejamento, organização, direção e controle; 
+- Apresentar perfil de liderança, buscando o aprimoramento de características que propiciam a atividade de liderança.
 
-- Identificar e relacionar o fluxo de informações e utilizar os procedimentos necessários e recomendáveis para a tomada de decisão; 
+## **3.4 - Avaliação da aprendizagem**
 
-- Analisar e elaborar rotinas e procedimentos administrativos; 
+Como instrumentos de avaliação poderão ser utilizados: atividades diagnósticas, individuais ou/e em equipe; trabalhos teórico-práticos produzidos e/ou aplicados individualmente ou em grupos (trabalhos projetos, relatórios, seminários etc.); portfólios; exercícios; avaliações ou outros instrumentos pertinentes que o professor julgue mais condizentes com os objetivos que serão traçados ao longo do processo de aprendizagem, com a finalidade de verificar se os objetivos da componente curricular foram alcançados.
 
-- Identificar e interpretar resultados de estudos de mercado, utilizando-os no processo de administração; 
+Configura-se também, como critério da avaliação da aprendizagem, o texto disposto no Art. 10 e Art. 11 da Portaria Nº 120/09 do Instituto Federal do Paraná e os resultados parciais obtidos no processo de avaliação serão emitidos por componente curricular e divulgados em edital, devendo ser expressos por conceitos, sendo:
 
-- Identificar as estruturas orçamentárias e societárias das organizações; 
+- A – Aprendizagem do Aluno Foi Plena
 
-- Entender e executar os procedimentos operacionais dos ciclos de administração que se referem aos recursos humanos, aos recursos materiais, ao patrimônio, ao suporte logístico, à produção, aos sistemas de informações, aos tributos e às finanças; 
+- B – Aprendizagem do Aluno Foi Parcialmente Plena
 
-- Apresentar bom relacionamento, senso crítico-reflexivo, iniciativa, flexibilidade, senso de observação, auto-gestão, abstração e raciocínio lógico; 
+7
 
-- Aplicar as habilidades cognitivas e afetivas, fundamentadas nos conhecimentos técnicocientíficos, éticos, políticos e educativos, que contribuem para o alcance da qualidade da atividade administrativa; 
+Ministerioda Educacao InstitutoFederaldoParana
 
-- Ter criatividade e atualização, buscando constantemente ser agente ativo em aprimoramento profissional acompanhando a evolução técnica científica do mundo do trabalho, atuando como agente ativo de transformação social de sua realidade; 
+INSTITUTOFEDERAL PARANA
 
-- Apresentar perfil de liderança, buscando o aprimoramento de características que propiciam a atividade de liderança. 
+C – Aprendizagem do Aluno Foi Suficiente
 
-## **3.4 - Avaliação da aprendizagem** 
+D - Aprendizagem do Aluno Foi Insuficiente
 
-Como instrumentos de avaliação poderão ser utilizados: atividades diagnósticas, individuais ou/e em equipe; trabalhos teórico-práticos produzidos e/ou aplicados individualmente ou em grupos (trabalhos projetos, relatórios, seminários etc.); portfólios; exercícios; avaliações ou outros instrumentos pertinentes que o professor julgue mais condizentes com os objetivos que serão traçados ao longo do processo de aprendizagem, com a finalidade de verificar se os objetivos da componente curricular foram alcançados. 
+Serão critérios norteadores da aprendizagem:
 
-Configura-se também, como critério da avaliação da aprendizagem, o texto disposto no Art. 10 e Art. 11 da Portaria Nº 120/09 do Instituto Federal do Paraná e os resultados parciais obtidos no processo de avaliação serão emitidos por componente curricular e divulgados em edital, devendo ser expressos por conceitos, sendo: 
+ **Identificação do problema** : atividade em que o aluno toma conhecimento do problema, analisa e conclui quanto ao que está solicitado, quanto ao que é necessário fazer para a sua superação;
 
-- A – Aprendizagem do Aluno Foi Plena 
+   - **Elaboração de hipóteses** : após análise da situação, o aluno formula caminhos possíveis para a solução pretendida;
 
-- B – Aprendizagem do Aluno Foi Parcialmente Plena 
+   - **Encaminhamento de soluções** : a partir das hipóteses formuladas e dos seus ensaios, concluir sobre a solução que pareça mais adequada;
 
-7 
+   - **Comunicação escrita e/ou oral** : habilidade discente de articulação, fundamentação, clareza e objetividade de idéias;
 
-Ministerioda Educacao InstitutoFederaldoParana 
+   - **Interesse/dedicação: itens observados** : iniciativa em pesquisar, se informar, ilustrar o que se discute ou pesquisa, concentração e esforço para acompanhar as atividades de aula, esclarecendo dúvidas, complementando, exemplificando...
 
-INSTITUTOFEDERAL PARANA 
+   - **Participação** : conduta discente ativa, como sujeito de reconstrução do conhecimento;
 
-C – Aprendizagem do Aluno Foi Suficiente 
+   - **Indicadores da participação** : registro das idéias desenvolvidas e/ou cumprimento das tarefas e/ou intervenções deduzidas e/ou questionamentos fundamentais;
 
-D - Aprendizagem do Aluno Foi Insuficiente 
+   - **Pontualidade** : atitude discente reveladora de compromisso com as responsabilidades escolares;
 
-Serão critérios norteadores da aprendizagem: 
+   - **Indicadores da Pontualidade** : cumprimento dos horários e/ou tarefas propostas;
 
- **Identificação do problema** : atividade em que o aluno toma conhecimento do problema, analisa e conclui quanto ao que está solicitado, quanto ao que é necessário fazer para a sua superação; 
+   - **Solidariedade** : conduta discente de atenção ao próximo e de preocupação coletiva, socialização de informações experiências e conhecimentos que possam beneficiar o grupo;
 
-   - **Elaboração de hipóteses** : após análise da situação, o aluno formula caminhos possíveis para a solução pretendida; 
+   - **Indicadores da solidariedade** : disposição de partilhar conhecimentos já construídos e/ou disposição de acompanhar e orientar o desempenho escolar do companheiro.
 
-   - **Encaminhamento de soluções** : a partir das hipóteses formuladas e dos seus ensaios, concluir sobre a solução que pareça mais adequada; 
+   - **Recuperação Paralela** : forma de avaliação definida a critério do professor para recuperação da nota mínima a cada semestre.
 
-   - **Comunicação escrita e/ou oral** : habilidade discente de articulação, fundamentação, clareza e objetividade de idéias; 
+   - **Condições de Aprovação** : o discente será considerado aprovado quando obtiver o conceito igual ou superior a C e frequência igual ou superior a 75% em cada componente curricular, ao final do período letivo.
 
-   - **Interesse/dedicação: itens observados** : iniciativa em pesquisar, se informar, ilustrar o que se discute ou pesquisa, concentração e esforço para acompanhar as atividades de aula, esclarecendo dúvidas, complementando, exemplificando... 
+   - **Progressão Parcial** : o discente que reprovar em até 3 (três) componentes curriculares do período letivo poderá realizar os componentes curriculares em que foi reprovado em regime de dependência, preferencialmente, no período letivo subsequente à reprovação.
 
-   - **Participação** : conduta discente ativa, como sujeito de reconstrução do conhecimento; 
+   - **Regime de dependência** : o discente em regime de dependência deverá matricular-se em componente curricular regular ou turma especial aberta para esse fim no contraturno do curso. Ainda, o discente que reprovar em 4(quatro) ou mais componentes curriculares ficará detido na série em que se encontra e deverá realizar matrícula em todos os componentes curriculares desta série.
 
-   - **Indicadores da participação** : registro das idéias desenvolvidas e/ou cumprimento das tarefas e/ou intervenções deduzidas e/ou questionamentos fundamentais; 
+- **3.5 - Critérios de aproveitamento de estudos anteriores e procedimentos de avaliação de competências anteriormente desenvolvidas**
 
-   - **Pontualidade** : atitude discente reveladora de compromisso com as responsabilidades escolares; 
+8
 
-   - **Indicadores da Pontualidade** : cumprimento dos horários e/ou tarefas propostas; 
+1INSTITUTOFEDERAL MinisteriodaEducacao InstitutoFederaldoParana PARANA A dispensa por certificação de conhecimentos anteriores será possível mediante a solicitação do discente em período estipulado em edital e disponibilizado no sitio do câmpus ou por iniciativa do professor da componente curricular do curso. Para tanto, o discente deverá comprovar o domínio de conhecimento através da aprovação em avaliação ou mediante comprovação formal e reconhecida.
 
-   - **Solidariedade** : conduta discente de atenção ao próximo e de preocupação coletiva, socialização de informações experiências e conhecimentos que possam beneficiar o grupo; 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-   - **Indicadores da solidariedade** : disposição de partilhar conhecimentos já construídos e/ou disposição de acompanhar e orientar o desempenho escolar do companheiro. 
+A avaliação da dispensa será realizada por uma Comissão composta por professores da área de conhecimento correspondente a qual estabelecerá os procedimentos e os critérios para a avaliação, de acordo com o previsto no projeto do curso em tempo não superior a 15 (quinze) dias úteis a partir do seu recebimento.
 
-   - **Recuperação Paralela** : forma de avaliação definida a critério do professor para recuperação da nota mínima a cada semestre. 
+## **3.6 - Instalações e equipamentos, recursos tecnológicos e biblioteca:**
 
-   - **Condições de Aprovação** : o discente será considerado aprovado quando obtiver o conceito igual ou superior a C e frequência igual ou superior a 75% em cada componente curricular, ao final do período letivo. 
+O Instituto Federal do Paraná – Campus Curitiba, conta com uma boa infraestrutura para atender às exigências do Curso Técnico em Administração Integrado ao Ensino Médio, tanto para o desenvolvimento das aulas teóricas, quanto das aulas práticas.
 
-   - **Progressão Parcial** : o discente que reprovar em até 3 (três) componentes curriculares do período letivo poderá realizar os componentes curriculares em que foi reprovado em regime de dependência, preferencialmente, no período letivo subsequente à reprovação. 
+O campus conta com 30 salas de aula; 3 laboratório de Informática com programas específicos; 8 salas administrativas; 1 biblioteca central com acervo específico e atualizado; 1 sala de professores; 1 auditório; 1 sala de serviços gerais com máquinas fotocopiadoras e 1 cantina terceirizada.
 
-   - **Regime de dependência** : o discente em regime de dependência deverá matricular-se em componente curricular regular ou turma especial aberta para esse fim no contraturno do curso. Ainda, o discente que reprovar em 4(quatro) ou mais componentes curriculares ficará detido na série em que se encontra e deverá realizar matrícula em todos os componentes curriculares desta série. 
+## **3.7 – Pessoal docente e técnico**
 
-- **3.5 - Critérios de aproveitamento de estudos anteriores e procedimentos de avaliação de competências anteriormente desenvolvidas** 
+Além da existência das Pró-Reitorias, Direção de Ensino e Coordenação Pedagógica, o câmpus conta com professores com titulação entre especialista, mestres e doutores, sendo em sua maioria servidores em regime de Dedicação Exclusiva. Ainda, o Instituto Federal do Paraná – Câmpus Curitiba conta ainda com técnicos de nível intermediário e superior que fornecerão suporte ao trabalho pedagógico, conforme disposto abaixo:
 
-8 
-
-1INSTITUTOFEDERAL MinisteriodaEducacao InstitutoFederaldoParana PARANA A dispensa por certificação de conhecimentos anteriores será possível mediante a solicitação do discente em período estipulado em edital e disponibilizado no sitio do câmpus ou por iniciativa do professor da componente curricular do curso. Para tanto, o discente deverá comprovar o domínio de conhecimento através da aprovação em avaliação ou mediante comprovação formal e reconhecida. 
-
-MinisteriodaEducacao InstitutoFederaldoParana 
-
-A avaliação da dispensa será realizada por uma Comissão composta por professores da área de conhecimento correspondente a qual estabelecerá os procedimentos e os critérios para a avaliação, de acordo com o previsto no projeto do curso em tempo não superior a 15 (quinze) dias úteis a partir do seu recebimento. 
-
-## **3.6 - Instalações e equipamentos, recursos tecnológicos e biblioteca:** 
-
-O Instituto Federal do Paraná – Campus Curitiba, conta com uma boa infraestrutura para atender às exigências do Curso Técnico em Administração Integrado ao Ensino Médio, tanto para o desenvolvimento das aulas teóricas, quanto das aulas práticas. 
-
-O campus conta com 30 salas de aula; 3 laboratório de Informática com programas específicos; 8 salas administrativas; 1 biblioteca central com acervo específico e atualizado; 1 sala de professores; 1 auditório; 1 sala de serviços gerais com máquinas fotocopiadoras e 1 cantina terceirizada. 
-
-## **3.7 – Pessoal docente e técnico** 
-
-Além da existência das Pró-Reitorias, Direção de Ensino e Coordenação Pedagógica, o câmpus conta com professores com titulação entre especialista, mestres e doutores, sendo em sua maioria servidores em regime de Dedicação Exclusiva. Ainda, o Instituto Federal do Paraná – Câmpus Curitiba conta ainda com técnicos de nível intermediário e superior que fornecerão suporte ao trabalho pedagógico, conforme disposto abaixo: 
-
-## PESSOAL DOCENTE 
+## PESSOAL DOCENTE
 
 |**NOME**|**FORMAÇÃO**|**REGIME DE TRABALHO**|
 |---|---|---|
@@ -276,11 +257,9 @@ Além da existência das Pró-Reitorias, Direção de Ensino e Coordenação Ped
 |AngelaMaria dos Santos|Doutorado em Física|DedicaçãoExclusiva|
 |Berenice<br>Marie<br>Ballande<br>Romanelli|Doutorado em Educação|Dedicação Exclusiva|
 
+9
 
-
-9 
-
-Ministerioda Educacao InstitutoFederaldoParana 
+Ministerioda Educacao InstitutoFederaldoParana
 
 |1<br>INSTITUTOFEDERAL<br>PARANA||Ministerioda Educacao<br>InstitutoFederaldoParana|
 |---|---|---|
@@ -317,13 +296,11 @@ Ministerioda Educacao InstitutoFederaldoParana
 |Marcos Otaviano Da Silva|Mestrado em Radiologia.|Dedicação Exclusiva|
 |MarineideMaria Silva|Doutorado emCiências SociaisD|DedicaçãoExclusiva|
 
+10
 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-10 
-
-MinisteriodaEducacao InstitutoFederaldoParana 
-
-## 1 INSTITUTOFEDERAL PARANA 
+## 1 INSTITUTOFEDERAL PARANA
 
 |1<br>INSTITUTOFEDERAL<br>PARANA||MinisteriodaEducacao<br>InstitutoFederaldoParana|
 |---|---|---|
@@ -347,9 +324,7 @@ MinisteriodaEducacao InstitutoFederaldoParana
 |Vanessa Lopes Ribeiro|Mestrado em Literatura|DedicaçãoExclusiva|
 |Vilmar Fernandes|Doutorado em Engenharia e<br>Ciências dos Materiais|DedicaçãoExclusiva|
 
-
-
-## PESSOAL TÉCNICO ADMINISTRATIVO 
+## PESSOAL TÉCNICO ADMINISTRATIVO
 
 |**NOME**|**TITULAÇÃO**|**GRADUAÇÃO**|
 |---|---|---|
@@ -363,13 +338,11 @@ MinisteriodaEducacao InstitutoFederaldoParana
 |Claudio Oliveira Souza|Especialização|Informática|
 |Danielle<br>Priscila<br>Gamballi Graduação|Gamballi Graduação|Gestão pública|
 
+11
 
+Ministerioda Educacao InstitutoFederaldoParana
 
-11 
-
-Ministerioda Educacao InstitutoFederaldoParana 
-
-INSTITUTOFEDERAL PARANA 
+INSTITUTOFEDERAL PARANA
 
 |INSTITUTOFEDERAL<br>PARANA||Ministerioda Educacao<br>InstitutoFederaldoParana|
 |---|---|---|
@@ -405,27 +378,25 @@ INSTITUTOFEDERAL PARANA
 |Vivaldo Cordeiro Gonçalves|Especialização|Gestão dainformação|
 |CristianeRibeiro|Especialização|Pedagogia|
 
+## **3.8  Expedição de diplomas e certificados**
 
+O diploma certificando a conclusão será emitido quando do término do curso, desde que o estudante esteja aprovado em todos os componentes curriculares e com as atividades complementares concluídas. Dessa forma, os estudantes aprovados farão jus ao Diploma de **Técnico em Administração do Eixo Tecnológico Gestão e Negócios** e receberão o histórico de conclusão do Ensino Médio.
 
-## **3.8  Expedição de diplomas e certificados** 
+12
 
-O diploma certificando a conclusão será emitido quando do término do curso, desde que o estudante esteja aprovado em todos os componentes curriculares e com as atividades complementares concluídas. Dessa forma, os estudantes aprovados farão jus ao Diploma de **Técnico em Administração do Eixo Tecnológico Gestão e Negócios** e receberão o histórico de conclusão do Ensino Médio. 
+1INSTITUTOFEDERAL PARANA
 
-12 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-1INSTITUTOFEDERAL PARANA 
+## **3.9 - Organização Curricular**
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+O curso Técnico em Administração Integrado ao Ensino Médio procura construir uma organização curricular pautada nos princípios básicos do currículo integrado, tendo como principais eixos estruturantes a ciência, a cultura, o trabalho e a tecnologia.
 
-## **3.9 - Organização Curricular** 
+Quanto aos procedimentos metodológicos propostos na organização do Curso Técnico em Administração é importante destacar que os professores têm autonomia para o desenvolvimento do trabalho pedagógico, de modo a possibilitar uma relação e uma articulação entre a formação geral e a habilitação técnica. Assim, ocorre uma integração entre a ciência, a tecnologia, a cultura e o mundo do trabalho. A indissociabilidade entre a teoria e prática no processo educativo, dá-se através de uma prática interdisciplinar, a qual supera a fragmentação de conhecimentos e a segmentação da organização curricular disciplinar.
 
-O curso Técnico em Administração Integrado ao Ensino Médio procura construir uma organização curricular pautada nos princípios básicos do currículo integrado, tendo como principais eixos estruturantes a ciência, a cultura, o trabalho e a tecnologia. 
+Os conteúdos obrigatórios com tratamento transversal serão trabalhados por meio de temas relacionados aos Direitos Humanos e tratados interdisciplinarmente e, também, serão reforçados como conteúdo especifico da disciplina Temas Contemporâneos ofertada no último ano do curso.
 
-Quanto aos procedimentos metodológicos propostos na organização do Curso Técnico em Administração é importante destacar que os professores têm autonomia para o desenvolvimento do trabalho pedagógico, de modo a possibilitar uma relação e uma articulação entre a formação geral e a habilitação técnica. Assim, ocorre uma integração entre a ciência, a tecnologia, a cultura e o mundo do trabalho. A indissociabilidade entre a teoria e prática no processo educativo, dá-se através de uma prática interdisciplinar, a qual supera a fragmentação de conhecimentos e a segmentação da organização curricular disciplinar. 
-
-Os conteúdos obrigatórios com tratamento transversal serão trabalhados por meio de temas relacionados aos Direitos Humanos e tratados interdisciplinarmente e, também, serão reforçados como conteúdo especifico da disciplina Temas Contemporâneos ofertada no último ano do curso. 
-
-O Curso Técnico em Administração Integrado ao ensino Médio do Instituto Federal do Paraná – Câmpus Curitiba compreende três anos, compondo-se de componentes curriculares de formação geral do ensino médio que resultarão no total de 3840 horas aulas e 3288 horas relógio. 
+O Curso Técnico em Administração Integrado ao ensino Médio do Instituto Federal do Paraná – Câmpus Curitiba compreende três anos, compondo-se de componentes curriculares de formação geral do ensino médio que resultarão no total de 3840 horas aulas e 3288 horas relógio.
 
 |**COMPONENTES**<br>**CURRICULARES**|**CARGA HORÁRIA**|**CARGA HORÁRIA**|**CARGA HORÁRIA**|
 |---|---|---|---|
@@ -454,15 +425,13 @@ O Curso Técnico em Administração Integrado ao ensino Médio do Instituto Fede
 |Língua Portuguesa II|02|80|68|
 |Educação Física II|02|80|68|
 
+13
 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-13 
+## 1
 
-MinisteriodaEducacao InstitutoFederaldoParana 
-
-## 1 
-
-INSTITUTOFEDERAL PARANA 
+INSTITUTOFEDERAL PARANA
 
 |INSTITUTOFEDERAL<br>PARANA|||MinisteriodaEducacao<br>InstitutoFederaldoParana|
 |---|---|---|---|
@@ -506,137 +475,135 @@ INSTITUTOFEDERAL PARANA
 |**TOTAL**|**32 **|**1280**|**1086**|
 |**TOTAL GERAL**|**97 **|**3840**|**3288**|
 
+* Uma hora-aula corresponde a 50 minutos; 01* carga horária semanal; 02* carga horária anual
 
+14
 
-* Uma hora-aula corresponde a 50 minutos; 01* carga horária semanal; 02* carga horária anual 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-14 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## **3.10 Ementas dos Componentes Curriculares**
 
-INSTITUTOFEDERAL PARANA 
+## **Campus Curitiba - IFPR**
 
-## **3.10 Ementas dos Componentes Curriculares** 
+**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Economia e Mercados **Carga Horária:** 40 **Período letivo:** 1º ano
 
-## **Campus Curitiba - IFPR** 
+## **Ementa:**
 
-**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Economia e Mercados **Carga Horária:** 40 **Período letivo:** 1º ano 
+Histórico da economia brasileira, conceitos, definição e objeto da economia, a economia como ciência, o sistema econômico, contabilidade nacional, consumo e poupança, introdução à teoria monetária, o crédito e o sistema financeiro, inflação, economia internacional, o mercado, taxa de câmbio e o regime cambial brasileiro, globalização do sistema financeiro internacional.
 
-## **Ementa:** 
+## **Bibliografia Básica:**
 
-Histórico da economia brasileira, conceitos, definição e objeto da economia, a economia como ciência, o sistema econômico, contabilidade nacional, consumo e poupança, introdução à teoria monetária, o crédito e o sistema financeiro, inflação, economia internacional, o mercado, taxa de câmbio e o regime cambial brasileiro, globalização do sistema financeiro internacional. 
+SILVA, Cesar Leite da. **Introdução à Economia** . 19ª Ed. São Paulo: Saraiva, 2010.
 
-## **Bibliografia Básica:** 
+VASCONCELLOS, Marco Antonio S; GARCIA, Manoel E. **Fundamentos de Economia** . 4ª Ed. São Paulo: Saraiva, 2012.
 
-SILVA, Cesar Leite da. **Introdução à Economia** . 19ª Ed. São Paulo: Saraiva, 2010. 
+MENDES, Judas Tadeu Grassi. **Economia Fundamentos e Aplicações** . 2ª Ed. São Paulo: Pearson, 2009.
 
-VASCONCELLOS, Marco Antonio S; GARCIA, Manoel E. **Fundamentos de Economia** . 4ª Ed. São Paulo: Saraiva, 2012. 
+## **Bibliografia Complementar:**
 
-MENDES, Judas Tadeu Grassi. **Economia Fundamentos e Aplicações** . 2ª Ed. São Paulo: Pearson, 2009. 
+MONTELLA, Maura. **Economia Passo a Passo** . 2ª Ed. São Cristovão: Qualitymark Ltda, 2007.
 
-## **Bibliografia Complementar:** 
+FURTADO, Celso. **Formação Econômica do Brasil** . 34ª, São Paulo: ScharczLtda, 2007.
 
-MONTELLA, Maura. **Economia Passo a Passo** . 2ª Ed. São Cristovão: Qualitymark Ltda, 2007. 
+LAGIOIA, Umbelin Cravo Teixeira, Fundamentos do Mercado de Capitais, São Paulo: Atlas S.A., 2011.
 
-FURTADO, Celso. **Formação Econômica do Brasil** . 34ª, São Paulo: ScharczLtda, 2007. 
+**Campus Curitiba - IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Informática Instrumental **Carga Horária** : 80 **Período letivo** : 1º ano **Ementa:** O computador: origem, funcionamento, componentes básicos. Tecnologia hardware: processadores, memória, dispositivos de E/S, redes de computadores. Software: categorias, sistemas operacionais, linguagens de aplicação. Planilhas. Banco de dados. Editor de texto, multimídia.
 
-LAGIOIA, Umbelin Cravo Teixeira, Fundamentos do Mercado de Capitais, São Paulo: Atlas S.A., 2011. 
+**Bibliografia Básica:** CORNACHIONE, E.B. **Informática aplicada às áreas de contabilidade e administração** . São Paulo: Atlas, 2008. Norton P. **Introdução à Informática** . Rio de Janeiro: Makron Books, 1996. Viana M.M. **Fundamentos de Informática para Universitários** : Brasport, 1996. **Bibliografia Complementar:** Almeida M.G. de, **Fundamentos de Informática** . Rio de Janeiro: Brasport, 1999. Velloso, F. C., **Informática Conceitos Básicos** . Rio de Janeiro: Campus, 1999. White R. **Como Funciona o Computador** . São Paulo: Quark, 1995.
 
-**Campus Curitiba - IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Informática Instrumental **Carga Horária** : 80 **Período letivo** : 1º ano **Ementa:** O computador: origem, funcionamento, componentes básicos. Tecnologia hardware: processadores, memória, dispositivos de E/S, redes de computadores. Software: categorias, sistemas operacionais, linguagens de aplicação. Planilhas. Banco de dados. Editor de texto, multimídia. 
+15
 
-**Bibliografia Básica:** CORNACHIONE, E.B. **Informática aplicada às áreas de contabilidade e administração** . São Paulo: Atlas, 2008. Norton P. **Introdução à Informática** . Rio de Janeiro: Makron Books, 1996. Viana M.M. **Fundamentos de Informática para Universitários** : Brasport, 1996. **Bibliografia Complementar:** Almeida M.G. de, **Fundamentos de Informática** . Rio de Janeiro: Brasport, 1999. Velloso, F. C., **Informática Conceitos Básicos** . Rio de Janeiro: Campus, 1999. White R. **Como Funciona o Computador** . São Paulo: Quark, 1995. 
+INSTITUTOFEDERAL PARANA
 
-15 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-INSTITUTOFEDERAL PARANA 
+**Campus Curitiba – IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Contabilidade Básica **Carga Horária:** 80 **Período letivo:** 1º ano **Ementa:**
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+Contabilidade (histórico, conceito, campos de atuação); Principais documentos Contábeis (notas fiscais, recibos, faturas, duplicatas, contratos, requisição de materiais); Patrimônio (conceito e definição: bens, direitos e obrigações, aspectos qualitativos e quantitativos, representação gráfica do patrimônio, situações líquidas patrimoniais, patrimônio líquido, formação do patrimônio e suas variações); Elementos Patrimoniais – Contas (conceito, classificação das contas patrimoniais e de resultado, noções de débito e crédito, plano de contas); Caracterização de Atos e Fatos Administrativos; Caracterização dos livros de Escrituração; Balancete e razonetes; Demonstrações contábeis.
 
-**Campus Curitiba – IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Contabilidade Básica **Carga Horária:** 80 **Período letivo:** 1º ano **Ementa:** 
+**Bibliografia Básica:** RIBEIRO, Osni Moura. **Contabilidade Geral Fácil** . 6ed. São Paulo: Saraiva, 2010.
 
-Contabilidade (histórico, conceito, campos de atuação); Principais documentos Contábeis (notas fiscais, recibos, faturas, duplicatas, contratos, requisição de materiais); Patrimônio (conceito e definição: bens, direitos e obrigações, aspectos qualitativos e quantitativos, representação gráfica do patrimônio, situações líquidas patrimoniais, patrimônio líquido, formação do patrimônio e suas variações); Elementos Patrimoniais – Contas (conceito, classificação das contas patrimoniais e de resultado, noções de débito e crédito, plano de contas); Caracterização de Atos e Fatos Administrativos; Caracterização dos livros de Escrituração; Balancete e razonetes; Demonstrações contábeis. 
+MATARAZZO, Dante Carmine. **Análise financeira de balanços** : abordagem básica e gerencial. São Paulo: Atlas, 1998. MARION, José Carlos. **Contabilidade Básica** . São Paulo: Atlas, 1998. EQUIPE DE PROFESSORES DA FEA/USP. **Contabilidade Introdutória** . 11ed. São Paulo: Atlas, 2010.
 
-**Bibliografia Básica:** RIBEIRO, Osni Moura. **Contabilidade Geral Fácil** . 6ed. São Paulo: Saraiva, 2010. 
+## **Bibliografia Complementar:**
 
-MATARAZZO, Dante Carmine. **Análise financeira de balanços** : abordagem básica e gerencial. São Paulo: Atlas, 1998. MARION, José Carlos. **Contabilidade Básica** . São Paulo: Atlas, 1998. EQUIPE DE PROFESSORES DA FEA/USP. **Contabilidade Introdutória** . 11ed. São Paulo: Atlas, 2010. 
+FREZATTI, Fábio. **Orçamento empresarial:** planejamento e controle gerencial. São Paulo: Atlas. AVILA, Carlos Alberto de. **Gestão contábil para contadores e não contadores** . Curitiba: IBPEX,2006 **.**
 
-## **Bibliografia Complementar:** 
+IUDICIBUS, Sérgio de; MARION, José Carlos. **Curso de Contabilidade para não contadores para as áreas de administração, economia, direito e engenharia** . 6ed. São Paulo: Atlas, 2009. PADOVEZE, Clovis Luis. **Manual de Contabilidade Introdutória e Intermediária** : Textos e Exercícios. 9ed. São Paulo: Atlas, 2009.
 
-FREZATTI, Fábio. **Orçamento empresarial:** planejamento e controle gerencial. São Paulo: Atlas. AVILA, Carlos Alberto de. **Gestão contábil para contadores e não contadores** . Curitiba: IBPEX,2006 **.** 
+RIBEIRO, Osni Moura. **Contabilidade Básica Fácil.** 27ed. São Paulo: Saraiva, 2010.
 
-IUDICIBUS, Sérgio de; MARION, José Carlos. **Curso de Contabilidade para não contadores para as áreas de administração, economia, direito e engenharia** . 6ed. São Paulo: Atlas, 2009. PADOVEZE, Clovis Luis. **Manual de Contabilidade Introdutória e Intermediária** : Textos e Exercícios. 9ed. São Paulo: Atlas, 2009. 
+**Campus Curitiba – IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Rotinas Administrativas **Carga Horária:** 80 **Período letivo:** 1º ano **Ementa:** Atendimento ao público; Ética profissional; Técnicas de telemarketing; Conhecimento de diversos tipos de documentos; Técnicas de arquivamento e documentação. Controle de estoques, almoxarifado e de compras. Noções sobre Programa 5S.
 
-RIBEIRO, Osni Moura. **Contabilidade Básica Fácil.** 27ed. São Paulo: Saraiva, 2010. 
+16
 
-**Campus Curitiba – IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Rotinas Administrativas **Carga Horária:** 80 **Período letivo:** 1º ano **Ementa:** Atendimento ao público; Ética profissional; Técnicas de telemarketing; Conhecimento de diversos tipos de documentos; Técnicas de arquivamento e documentação. Controle de estoques, almoxarifado e de compras. Noções sobre Programa 5S. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-16 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## **Bibliografia Básica:**
 
-INSTITUTOFEDERAL PARANA 
+ADDISON, Michael E. **Fundamentos de organização & métodos** . Rio de Janeiro: Zahar, 1979.
 
-## **Bibliografia Básica:** 
+CINTRA, M.; CUNHA, M. P. DA. **Rotinas Administrativas** - Programa De Qualificação. KCM, 2008.
 
-ADDISON, Michael E. **Fundamentos de organização & métodos** . Rio de Janeiro: Zahar, 1979. 
+PEDROSO, E. T. e outros. **Elaboração, análise e racionalização de formulários** . São Paulo: Atlas, 2009.
 
-CINTRA, M.; CUNHA, M. P. DA. **Rotinas Administrativas** - Programa De Qualificação. KCM, 2008. 
+## **Bibliografia Complementar:**
 
-PEDROSO, E. T. e outros. **Elaboração, análise e racionalização de formulários** . São Paulo: Atlas, 2009. 
+CRAZE, R.. F.S. **A arte milenar chinesa de organização de espaço** . Rio de Janeiro: Campus, 1998.
 
-## **Bibliografia Complementar:** 
+LUPORINI, C.E.; P. N.M. **Sistemas administrativos** : uma abordagem moderna de O & M. São Paulo: Atlas, 1985.
 
-CRAZE, R.. F.S. **A arte milenar chinesa de organização de espaço** . Rio de Janeiro: Campus, 1998. 
+SIMCSIK, T. **Organização, métodos, informação e sistemas** . São Paulo: Makron, 1992.
 
-LUPORINI, C.E.; P. N.M. **Sistemas administrativos** : uma abordagem moderna de O & M. São Paulo: Atlas, 1985. 
+## **Campus Curitiba – IFPR**
 
-SIMCSIK, T. **Organização, métodos, informação e sistemas** . São Paulo: Makron, 1992. 
+**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Teoria Geral da Administração **Carga Horária:** 80 **Período letivo:** 1º ano
 
-## **Campus Curitiba – IFPR** 
+## **Ementa:**
 
-**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Teoria Geral da Administração **Carga Horária:** 80 **Período letivo:** 1º ano 
+Administração, organizações e sociedade. História da administração e as escolas de administração; Conceitos básicos e contemporâneos de Administração; Os pilares da Administração: planejamento, organização, direção e controle.
 
-## **Ementa:** 
+## **Bibliografia Básica:**
 
-Administração, organizações e sociedade. História da administração e as escolas de administração; Conceitos básicos e contemporâneos de Administração; Os pilares da Administração: planejamento, organização, direção e controle. 
+SOBRAL, Filipe; PECI, Alketa. **Administração:** teoria e prática no contexto brasileiro. São Paulo: Pearson Education do Brasil, 2013.
 
-## **Bibliografia Básica:** 
+RAYMUNDO, Paulo R. **O que é administração** . 2ª Ed. São Paulo: Brasiliense, 2010.
 
-SOBRAL, Filipe; PECI, Alketa. **Administração:** teoria e prática no contexto brasileiro. São Paulo: Pearson Education do Brasil, 2013. 
+RICHERS, Raimar. **O que é empresa** . São Paulo: Brasiliense, 2010.
 
-RAYMUNDO, Paulo R. **O que é administração** . 2ª Ed. São Paulo: Brasiliense, 2010. 
+HALL, R. H. **Organizações:** estrutura e processos. São Paulo: Prentice-Hall do Brasil, 2004.
 
-RICHERS, Raimar. **O que é empresa** . São Paulo: Brasiliense, 2010. 
+CHIAVENATO, Idalberto. **Cartas a um jovem administrador** : o futuro está na administração. 6ª Ed. Rio de janeiro: Elsevier, 2006.
 
-HALL, R. H. **Organizações:** estrutura e processos. São Paulo: Prentice-Hall do Brasil, 2004. 
+MAXIMIANO, Antonio, C. A. **Teoria geral da administração** . 6ª Ed. São Paulo: Atlas 2008.
 
-CHIAVENATO, Idalberto. **Cartas a um jovem administrador** : o futuro está na administração. 6ª Ed. Rio de janeiro: Elsevier, 2006. 
+MORGAN, G. **Imagens da organização** . Edição executiva. São Paulo: Atlas, 2000.
 
-MAXIMIANO, Antonio, C. A. **Teoria geral da administração** . 6ª Ed. São Paulo: Atlas 2008. 
+MOTTA, Fernando C. P.; VASCONCELOS, Isabella. F. G. **Teoria Geral da Administração** . 3ª. Ed. São Paulo: CENGAGE 2006.
 
-MORGAN, G. **Imagens da organização** . Edição executiva. São Paulo: Atlas, 2000. 
+## **Bibliografia Complementar:**
 
-MOTTA, Fernando C. P.; VASCONCELOS, Isabella. F. G. **Teoria Geral da Administração** . 3ª. Ed. São Paulo: CENGAGE 2006. 
+AMARU, A. C. **Teoria geral da administração** . 2. ed. São Paulo: Atlas, 2000.
 
-## **Bibliografia Complementar:** 
+ARGYRIS, C. **Enfrentando defesas empresariais** . Campus, 1992.
 
-AMARU, A. C. **Teoria geral da administração** . 2. ed. São Paulo: Atlas, 2000. 
+CHAMPION, D. J. **A sociologia das organizações** . Editora Saraiva, 1980.
 
-ARGYRIS, C. **Enfrentando defesas empresariais** . Campus, 1992. 
+CHANLAT, J-F. **O indivíduo e a organização:** dimensões esquecidas. Volumes I,II e III. São Paulo: Atlas, 1994.
 
-CHAMPION, D. J. **A sociologia das organizações** . Editora Saraiva, 1980. 
+17
 
-CHANLAT, J-F. **O indivíduo e a organização:** dimensões esquecidas. Volumes I,II e III. São Paulo: Atlas, 1994. 
+INSTITUTOFEDERAL PARANA
 
-17 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-INSTITUTOFEDERAL PARANA 
+CHIAVENATO, I. **Administração:** teoria, processo e prática. 3. ed. São Paulo: Makron Books, 2000. DAFT, R. L. **Teoria e projeto das organizações** . 6. ed. Editora LTC, 1999.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
-
-CHIAVENATO, I. **Administração:** teoria, processo e prática. 3. ed. São Paulo: Makron Books, 2000. DAFT, R. L. **Teoria e projeto das organizações** . 6. ed. Editora LTC, 1999. 
-
-MINTZBERG H.; QUINN, J.B. **O processo da estratégia** . 3. ed. São Paulo: Bookman, 2001. ROBBINS, S. P. **Administração** : mudanças e perspectivas. São Paulo: Saraiva, 2000. SENGE, P. **A quinta disciplina** . São Paulo: Best Seller, 1998. 
+MINTZBERG H.; QUINN, J.B. **O processo da estratégia** . 3. ed. São Paulo: Bookman, 2001. ROBBINS, S. P. **Administração** : mudanças e perspectivas. São Paulo: Saraiva, 2000. SENGE, P. **A quinta disciplina** . São Paulo: Best Seller, 1998.
 
 |**Campus Curitiba - IFPR**|**Campus Curitiba - IFPR**|
 |---|---|
@@ -644,13 +611,11 @@ MINTZBERG H.; QUINN, J.B. **O processo da estratégia** . 3. ed. São Paulo: Boo
 |**Componente Curricular**: Gestão de Pessoas||
 |**Carga Horária:**80|**Período letivo:**2º ano|
 
+## **Ementa:**
 
+Modelos e formas de gestão de pessoas; Gestão de carreira; Cultura e clima organizacional; Estrutura organizacional e relações de poder; Diversidade no ambiente de trabalho; Recrutamento e seleção de pessoal; Treinamento e desenvolvimento; Plano de cargos e salários; Avaliação de desempenho; Benefícios sociais; Histórico da segurança do trabalho e do prevencionismo no Brasil; Conceitos e causas dos acidentes de trabalho; Consequências e custos do acidente de trabalho; Cadastro e comunicação do acidente de trabalho- CAT; Equipamento de proteção individual - EPis; Ergonomia e Saúde Ocupacional; Processos e controle de riscos físicos, químicos e biológicos; Mapa de riscos; Programa de Prevenção de Riscos Ambientais - PPRA; Semana Interna de Prevenção de Acidentes do Trabalho - SIPAT; Comissão Interna para Prevenção de Acidentes - CIPA.
 
-## **Ementa:** 
-
-Modelos e formas de gestão de pessoas; Gestão de carreira; Cultura e clima organizacional; Estrutura organizacional e relações de poder; Diversidade no ambiente de trabalho; Recrutamento e seleção de pessoal; Treinamento e desenvolvimento; Plano de cargos e salários; Avaliação de desempenho; Benefícios sociais; Histórico da segurança do trabalho e do prevencionismo no Brasil; Conceitos e causas dos acidentes de trabalho; Consequências e custos do acidente de trabalho; Cadastro e comunicação do acidente de trabalho- CAT; Equipamento de proteção individual - EPis; Ergonomia e Saúde Ocupacional; Processos e controle de riscos físicos, químicos e biológicos; Mapa de riscos; Programa de Prevenção de Riscos Ambientais - PPRA; Semana Interna de Prevenção de Acidentes do Trabalho - SIPAT; Comissão Interna para Prevenção de Acidentes - CIPA. 
-
-**Bibliografia Básica:** BRASIL, Normas Regulamentadoras. **Segurança e Medicina do Trabalho** . 67 Ed. São Paulo: Atlas, 2011. CHIAVENATO, Idalberto. **Gestão de Pessoas** : O Novo Papel dos Recursos Humanos nas Organizações. Rio de Janeiro: Campus, 1999. FLEURY, M. T. L. (org.). **As Pessoas na Organização** . São Paulo: Gente, 2002. **Bibliografia Complementar:** ARAÚJO, G. M. **Normas Regulamentadoras Comentadas** : Legislação de Segurança e Saúde no Trabalho. 8. ed. Rio de Janeiro: Gerenciamento Verde, 2011. FARIA, José Henrique de. **Análise Crítica das Teorias e Práticas Organizacionais** . São Paulo: Atlas, 2007. LIMONGI-FRANÇA, Ana Cristina. **Práticas de Recursos Humanos** : Conceitos, Ferramentas e Procedimentos. São Paulo: Atlas, 2009. 
+**Bibliografia Básica:** BRASIL, Normas Regulamentadoras. **Segurança e Medicina do Trabalho** . 67 Ed. São Paulo: Atlas, 2011. CHIAVENATO, Idalberto. **Gestão de Pessoas** : O Novo Papel dos Recursos Humanos nas Organizações. Rio de Janeiro: Campus, 1999. FLEURY, M. T. L. (org.). **As Pessoas na Organização** . São Paulo: Gente, 2002. **Bibliografia Complementar:** ARAÚJO, G. M. **Normas Regulamentadoras Comentadas** : Legislação de Segurança e Saúde no Trabalho. 8. ed. Rio de Janeiro: Gerenciamento Verde, 2011. FARIA, José Henrique de. **Análise Crítica das Teorias e Práticas Organizacionais** . São Paulo: Atlas, 2007. LIMONGI-FRANÇA, Ana Cristina. **Práticas de Recursos Humanos** : Conceitos, Ferramentas e Procedimentos. São Paulo: Atlas, 2009.
 
 |**Campus Curitiba - IFPR**|**Campus Curitiba - IFPR**|
 |---|---|
@@ -658,45 +623,43 @@ Modelos e formas de gestão de pessoas; Gestão de carreira; Cultura e clima org
 |**Componente Curricular**: Administração da Produção e Qualidade||
 |**Carga Horária:**80|**Período letivo:**2º ano|
 
+18
 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-18 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## **Ementa:**
 
-INSTITUTOFEDERAL PARANA 
+Introdução à Administração da Produção; Visão Estratégica da Produção; Produção na Organização; Estratégias de Produção; Projetos de Produtos; Administração dos Recursos Materiais; Fundamentos de Conceitos Básicos de Gestão da Qualidade; Enfoques para Gestão da Qualidade; Sistemas de Gestão da Qualidade; Custos da Qualidade; Histórico da Qualidade no Brasil; Ferramentas e técnicas para a Qualidade total.
 
-## **Ementa:** 
+## **Bibliografia Básica:**
 
-Introdução à Administração da Produção; Visão Estratégica da Produção; Produção na Organização; Estratégias de Produção; Projetos de Produtos; Administração dos Recursos Materiais; Fundamentos de Conceitos Básicos de Gestão da Qualidade; Enfoques para Gestão da Qualidade; Sistemas de Gestão da Qualidade; Custos da Qualidade; Histórico da Qualidade no Brasil; Ferramentas e técnicas para a Qualidade total. 
+CORRÊA, Henrique; CORRÊA, Carlos A. **Administração da produção e de operações (manufatura e serviços)** : uma abordagem estratégica. 2. ed. São Paulo: Atlas, 2009.
 
-## **Bibliografia Básica:** 
+JACOBS, F. Robert; CHANCE, Richard B. **Administração da produção e de operações** : o essencial. Porto Alegre: Bookman, 2009.
 
-CORRÊA, Henrique; CORRÊA, Carlos A. **Administração da produção e de operações (manufatura e serviços)** : uma abordagem estratégica. 2. ed. São Paulo: Atlas, 2009. 
+SLACK, Nigel ; JOHNSON, Robert; CHAMBERS, Stuart. **Administração da Produção** . 3. ed. São Paulo: Atlas, 2009.
 
-JACOBS, F. Robert; CHANCE, Richard B. **Administração da produção e de operações** : o essencial. Porto Alegre: Bookman, 2009. 
+RITZMAN, Larry P.; KAJEWSKI, Lee; MALHORTA, Manoj. **Administração da produção e operações** . São Paulo: Prentice Hall, 2009.
 
-SLACK, Nigel ; JOHNSON, Robert; CHAMBERS, Stuart. **Administração da Produção** . 3. ed. São Paulo: Atlas, 2009. 
+CHASE, Richard B.; AQUILANO, Nicholas J.; JACOBS, F. Robert. **Administração da produção e operações** : para vantagens competitivas. São Paulo: McGraw Hill, 2006.
 
-RITZMAN, Larry P.; KAJEWSKI, Lee; MALHORTA, Manoj. **Administração da produção e operações** . São Paulo: Prentice Hall, 2009. 
+## **Bibliografia Complementar:**
 
-CHASE, Richard B.; AQUILANO, Nicholas J.; JACOBS, F. Robert. **Administração da produção e operações** : para vantagens competitivas. São Paulo: McGraw Hill, 2006. 
+ARAÚJO, Marco Antonio de. **Administração de produção e operações** . Rio de Janeiro: Brasport, 2009.
 
-## **Bibliografia Complementar:** 
+LAMMING, Richard; BROWN, Steven; JONES, Peter. **Administração de produção e operações** . Rio de Janeiro: Campus, 2005.
 
-ARAÚJO, Marco Antonio de. **Administração de produção e operações** . Rio de Janeiro: Brasport, 2009. 
+MARTINS, Petrônio G.; LAUGENI, Fernando P. **Administração da produção** . São Paulo: Saraiva, 2005.
 
-LAMMING, Richard; BROWN, Steven; JONES, Peter. **Administração de produção e operações** . Rio de Janeiro: Campus, 2005. 
+MOREIRA, Daniel Augusto. **Administração da produção e operações** . São Paulo: Cengage, 2008.
 
-MARTINS, Petrônio G.; LAUGENI, Fernando P. **Administração da produção** . São Paulo: Saraiva, 2005. 
+DIAS, Marco Aurélio Pereira. **Administração de materiais** – uma abordagem logística. 4. ed. São Paulo: Atlas, 1993.
 
-MOREIRA, Daniel Augusto. **Administração da produção e operações** . São Paulo: Cengage, 2008. 
+SHINGO, S. **Sistema Toyota de produção** : do ponto de vista da engenharia da produção. Porto Alegre: Bookman, 1996.
 
-DIAS, Marco Aurélio Pereira. **Administração de materiais** – uma abordagem logística. 4. ed. São Paulo: Atlas, 1993. 
-
-SHINGO, S. **Sistema Toyota de produção** : do ponto de vista da engenharia da produção. Porto Alegre: Bookman, 1996. 
-
-TUBINO, D. F. **Manual de planejamento e controle da produção** . 2. ed. São Paulo: Atlas, 1999. 
+TUBINO, D. F. **Manual de planejamento e controle da produção** . 2. ed. São Paulo: Atlas, 1999.
 
 |**Campus Curitiba – IFPR**|**Campus Curitiba – IFPR**|
 |---|---|
@@ -705,99 +668,97 @@ TUBINO, D. F. **Manual de planejamento e controle da produção** . 2. ed. São 
 |**Carga Horária:**80|**Período letivo:**2º ano|
 |**Ementa:**||
 
+Juros, capitalização, descontos. Taxas. Séries de pagamentos. Equivalência de capitais. Sistemas de amortização. Correção monetária e inflação. Conceitos fundamentais de análise de investimentos.Critérios na tomada de decisões sobre investimentos.  Fluxos de caixa e respectivas uniformizações.Métodos de avaliação de investimentos.
 
+19
 
-Juros, capitalização, descontos. Taxas. Séries de pagamentos. Equivalência de capitais. Sistemas de amortização. Correção monetária e inflação. Conceitos fundamentais de análise de investimentos.Critérios na tomada de decisões sobre investimentos.  Fluxos de caixa e respectivas uniformizações.Métodos de avaliação de investimentos. 
+INSTITUTOFEDERAL PARANA
 
-19 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-INSTITUTOFEDERAL PARANA 
+## **Bibliografia Básica:**
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+ASSAF NETO, A. **Matemática financeira e suas aplicações** . São Paulo: Atlas, 2001.
 
-## **Bibliografia Básica:** 
+CASAROTTO FILHO, N. **Análise de investimentos** . São Paulo: Atlas, 1997.
 
-ASSAF NETO, A. **Matemática financeira e suas aplicações** . São Paulo: Atlas, 2001. 
+KUHNEN, O. L. & BAUER, U. R. **Matemática financeira aplicada e análise de investimentos** . São Paulo: Atlas, 1996.
 
-CASAROTTO FILHO, N. **Análise de investimentos** . São Paulo: Atlas, 1997. 
+## **Bibliografia Complementar:**
 
-KUHNEN, O. L. & BAUER, U. R. **Matemática financeira aplicada e análise de investimentos** . São Paulo: Atlas, 1996. 
+MATIAS, W. F. **Matemática financeira** . São Paulo: Atlas, 1993.
 
-## **Bibliografia Complementar:** 
+PUCCINI, Abelardo de Lima. **Matemática financeira: objetiva e aplicada** . São Paulo: Saraiva,1999. SCHUBERT, P. **Análise de investimentos e taxa de retorno** . São Paulo: Ática, 1985.
 
-MATIAS, W. F. **Matemática financeira** . São Paulo: Atlas, 1993. 
+**Campus Curitiba do IFPR Curso:** Técnico em Administração Integrado **Componente Curricular** : Noções de Direito Público e Privado **Carga Horária:** 80 **Período letivo:** 2º ano **Ementa:** Introdução ao estudo do Direito. Direito Constitucional. Direito Civil – Parte Geral. Direito das Obrigações. Contratos. Noções de Direito Empresarial. **Bibliografia Básica:** COLETO, Aline Cristina; ALBANO, Cícero José. **Direito aplicado a cursos técnicos** . Curitiba: Editora do Livro Técnico, 2010. COTRIM, Gilberto. **Direito fundamental:** instituições de direito público e privado. 23. Ed. São Paulo: Saraiva, 2009. MARTINS, Sérgio Pinto. **Instituições de direito público e privado.** 12. Ed. São Paulo, SP: Atlas, 2012. **Bibliografia Complementar:** BITTENCOURT, Marcus Vinicius Corrêa. **Curso de direito constitucional.** 2ª Ed. Belo Horizonte: Forum, 2008. BRANCATO, Ricardo Teixeira. **Instituições de direito público e de direito privado.** 14ª Ed. São Paulo: Saraiva, 2011. COELHO, Fábio Ulhoa. **Curso de direito comercial:** direito de empresa. 16ª Ed. São Paulo: Saraiva, 2011. DOWER, Nélson Godoy Bassil. **Instituições de direito público e privado.** 13ª Ed. rev. e atual. São Paulo: Saraiva, 2005. FÜHRER, Maximilianus Cláudio Américo; MILARÉ, Édis. **Manual de direito público e privado.** 18ª Ed. São Paulo: Revista dos Tribunais, 2011.
 
-PUCCINI, Abelardo de Lima. **Matemática financeira: objetiva e aplicada** . São Paulo: Saraiva,1999. SCHUBERT, P. **Análise de investimentos e taxa de retorno** . São Paulo: Ática, 1985. 
+**Campus Curitiba – IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Contabilidade Empresarial
 
-**Campus Curitiba do IFPR Curso:** Técnico em Administração Integrado **Componente Curricular** : Noções de Direito Público e Privado **Carga Horária:** 80 **Período letivo:** 2º ano **Ementa:** Introdução ao estudo do Direito. Direito Constitucional. Direito Civil – Parte Geral. Direito das Obrigações. Contratos. Noções de Direito Empresarial. **Bibliografia Básica:** COLETO, Aline Cristina; ALBANO, Cícero José. **Direito aplicado a cursos técnicos** . Curitiba: Editora do Livro Técnico, 2010. COTRIM, Gilberto. **Direito fundamental:** instituições de direito público e privado. 23. Ed. São Paulo: Saraiva, 2009. MARTINS, Sérgio Pinto. **Instituições de direito público e privado.** 12. Ed. São Paulo, SP: Atlas, 2012. **Bibliografia Complementar:** BITTENCOURT, Marcus Vinicius Corrêa. **Curso de direito constitucional.** 2ª Ed. Belo Horizonte: Forum, 2008. BRANCATO, Ricardo Teixeira. **Instituições de direito público e de direito privado.** 14ª Ed. São Paulo: Saraiva, 2011. COELHO, Fábio Ulhoa. **Curso de direito comercial:** direito de empresa. 16ª Ed. São Paulo: Saraiva, 2011. DOWER, Nélson Godoy Bassil. **Instituições de direito público e privado.** 13ª Ed. rev. e atual. São Paulo: Saraiva, 2005. FÜHRER, Maximilianus Cláudio Américo; MILARÉ, Édis. **Manual de direito público e privado.** 18ª Ed. São Paulo: Revista dos Tribunais, 2011. 
+20
 
-**Campus Curitiba – IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Contabilidade Empresarial 
+INSTITUTOFEDERAL PARANA
 
-20 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-INSTITUTOFEDERAL PARANA 
+**Carga Horária:** 80
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+**Período letivo:** 2º ano
 
-**Carga Horária:** 80 
+## **Ementa:**
 
-**Período letivo:** 2º ano 
+A contabilidade empresarial enquanto ferramenta de gestão contábil e administrativa. Características das empresas e usuários das informações contábeis. Sistemas Contábeis. Relatórios Contábeis. Balanço Patrimonial e grupos de contas. Aspectos do endividamento. Situação Financeiro e Situação Econômica. Regime de competência e regime de caixa. Demonstração do Resultado do Exercício. Demonstração de Fluxo de Caixa. A Análise de Balanços como instrumento de decisão. Contabilidade de Custos como instrumento de apoio à decisão. Margem de Contribuição. Ponto de Equilíbrio. Gestão de Impostos.
 
-## **Ementa:** 
+## **Bibliografia Básica:**
 
-A contabilidade empresarial enquanto ferramenta de gestão contábil e administrativa. Características das empresas e usuários das informações contábeis. Sistemas Contábeis. Relatórios Contábeis. Balanço Patrimonial e grupos de contas. Aspectos do endividamento. Situação Financeiro e Situação Econômica. Regime de competência e regime de caixa. Demonstração do Resultado do Exercício. Demonstração de Fluxo de Caixa. A Análise de Balanços como instrumento de decisão. Contabilidade de Custos como instrumento de apoio à decisão. Margem de Contribuição. Ponto de Equilíbrio. Gestão de Impostos. 
+IUDÍCIBUS, Sérgio de. **Contabilidade Gerencial** . 6ª Ed. São Paulo: Atlas, 2006. MARION, José Carlos. **Contabilidade Empresarial** . 15ª Ed. São Paulo: Atlas, 2009.
 
-## **Bibliografia Básica:** 
+MARTINS, Eliseu. **Contabilidade de Custos** . 10ª Ed. São Paulo: Atlas, 2010.
 
-IUDÍCIBUS, Sérgio de. **Contabilidade Gerencial** . 6ª Ed. São Paulo: Atlas, 2006. MARION, José Carlos. **Contabilidade Empresarial** . 15ª Ed. São Paulo: Atlas, 2009. 
+## **Bibliografia Complementar:**
 
-MARTINS, Eliseu. **Contabilidade de Custos** . 10ª Ed. São Paulo: Atlas, 2010. 
+CHING, Hong Yuh. **Contabilidade Gerencial** . São Paulo: Pearson Prentice Hall, 2006.
 
-## **Bibliografia Complementar:** 
+CHING, Hong Yuh,. MARQUES, Fernando, PRADO, Lucilene. **Contabilidade e finanças para não especialistas** .  São Paulo: Pearson Prentice Hall, 2003.
 
-CHING, Hong Yuh. **Contabilidade Gerencial** . São Paulo: Pearson Prentice Hall, 2006. 
+MARION, José Carlos, SOARES, Adenilson Honório. **Contabilidade como instrumento para tomada de decisões** : uma introdução. São Paulo: Alinea, 2001.
 
-CHING, Hong Yuh,. MARQUES, Fernando, PRADO, Lucilene. **Contabilidade e finanças para não especialistas** .  São Paulo: Pearson Prentice Hall, 2003. 
+**Campus Curitiba – IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Empreendedorismo **Carga Horária:** 40 **Período letivo:** 3º ano **Ementa:**
 
-MARION, José Carlos, SOARES, Adenilson Honório. **Contabilidade como instrumento para tomada de decisões** : uma introdução. São Paulo: Alinea, 2001. 
+A Evolução no Processo de Gestão no Mundo Contemporâneo; As Pessoas e as Mudanças; A Educação Empreendedora; O Desenvolvimento de Competências; Criatividade e Inovação Empresarial; O Planejamento do Empreendedor; O Plano de Negócios (PN).
 
-**Campus Curitiba – IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Empreendedorismo **Carga Horária:** 40 **Período letivo:** 3º ano **Ementa:** 
+## **Bibliografia Básica:**
 
-A Evolução no Processo de Gestão no Mundo Contemporâneo; As Pessoas e as Mudanças; A Educação Empreendedora; O Desenvolvimento de Competências; Criatividade e Inovação Empresarial; O Planejamento do Empreendedor; O Plano de Negócios (PN). 
+DOLABELA, F. **O segredo de Luísa** : uma idéia, uma paixão e um plano de negócios: como nasce o empreendedor e se cria uma empresa. São Paulo: Cultura, 1999.
 
-## **Bibliografia Básica:** 
+DORNELAS, J. C. A. **Empreendedorismo** : transformando idéias em negócios. 2ª Ed. Rio de Janeiro: Campus, 2005.
 
-DOLABELA, F. **O segredo de Luísa** : uma idéia, uma paixão e um plano de negócios: como nasce o empreendedor e se cria uma empresa. São Paulo: Cultura, 1999. 
+SALIM, C. S.; HOCHMAN, N.; RAMAL, A.C.; RAMAL, S.A. **Construindo Planos de Negócios** : todos os passos necessários para planejar e desenvolver negócios de sucesso. Rio de Janeiro: Campus, 2001.
 
-DORNELAS, J. C. A. **Empreendedorismo** : transformando idéias em negócios. 2ª Ed. Rio de Janeiro: Campus, 2005. 
+21
 
-SALIM, C. S.; HOCHMAN, N.; RAMAL, A.C.; RAMAL, S.A. **Construindo Planos de Negócios** : todos os passos necessários para planejar e desenvolver negócios de sucesso. Rio de Janeiro: Campus, 2001. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-21 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## **Bibliografia Complementar:**
 
-INSTITUTOFEDERAL PARANA 
+CHIAVENATO, I. **Empreendedorismo** : dando asas ao espírito empreendedor. 3ª Ed. São Paulo: Saraiva, 2008.
 
-## **Bibliografia Complementar:** 
+DORNELAS, J. C. A. **Empreendedorismo na prática** : mitos e verdades dos empreendedores de sucesso. Rio de Janeiro: Elsevier, 2007.
 
-CHIAVENATO, I. **Empreendedorismo** : dando asas ao espírito empreendedor. 3ª Ed. São Paulo: Saraiva, 2008. 
+MAXIMIANO, A. C. A. **Administração para empreendedores** : fundamentos da criação e da gestão de novos negócios. São Paulo: Prentice-Hall, 2006.
 
-DORNELAS, J. C. A. **Empreendedorismo na prática** : mitos e verdades dos empreendedores de sucesso. Rio de Janeiro: Elsevier, 2007. 
+**Campus Curitiba – IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Log ística Empresarial **Carga Horária:** 40 **Período letivo:** 3º ano
 
-MAXIMIANO, A. C. A. **Administração para empreendedores** : fundamentos da criação e da gestão de novos negócios. São Paulo: Prentice-Hall, 2006. 
+## **Ementa:**
 
-**Campus Curitiba – IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Log ística Empresarial **Carga Horária:** 40 **Período letivo:** 3º ano 
+Logística empresarial: conceito, evolução, objetivos; Logística integrada e _Supply Chain Management_ (SCM); custos logísticos; logística de distribuição: estratégias, canais de distribuição, ciclo de pedido, operadores logísticos; armazenagem e localização de instalações; gestão de estoques: importância, fundamentos para uma adequada política de estoques, ferramentas básicas; a área de compras: seleção, negociação e avaliação de fornecedores, _outsourcing_ ; o papel do transporte na estratégia logística: classificação dos modais de transporte, intermodalidade e operadores logísticos; tecnologia da informação aplicada à logística; logística reversa; a situação da infraestrutura logística no Brasil.
 
-## **Ementa:** 
+**Bibliografia Básica:** BALLOU, Ronald H. **Logística Empresarial: transportes, administração de materiais e distribuição física** . São Paulo: Atlas, 2003. DIAS, Marco Aurélio P. **Administração de Materiais** : edição compacta. 4ª Ed. São Paulo: Atlas, 2005.
 
-Logística empresarial: conceito, evolução, objetivos; Logística integrada e _Supply Chain Management_ (SCM); custos logísticos; logística de distribuição: estratégias, canais de distribuição, ciclo de pedido, operadores logísticos; armazenagem e localização de instalações; gestão de estoques: importância, fundamentos para uma adequada política de estoques, ferramentas básicas; a área de compras: seleção, negociação e avaliação de fornecedores, _outsourcing_ ; o papel do transporte na estratégia logística: classificação dos modais de transporte, intermodalidade e operadores logísticos; tecnologia da informação aplicada à logística; logística reversa; a situação da infraestrutura logística no Brasil. 
+FLEURY, P. F.; WANKE, P.; FIGUEIREDO, K. F. (Orgs.). **Logística empresarial** : a perspectiva brasileira. São Paulo: Atlas, 2000. **Bibliografia Complementar:** CHING, H. Y. **Gestão de estoques na cadeia de logística integrada** . São Paulo: Atlas, 1999. PIRES, Sílvio R. I. **Gestão da Cadeia de Suprimentos** : conceitos, estratégias, práticas e casos. Supplychain management. São Paulo: Atlas, 2004.
 
-**Bibliografia Básica:** BALLOU, Ronald H. **Logística Empresarial: transportes, administração de materiais e distribuição física** . São Paulo: Atlas, 2003. DIAS, Marco Aurélio P. **Administração de Materiais** : edição compacta. 4ª Ed. São Paulo: Atlas, 2005. 
-
-FLEURY, P. F.; WANKE, P.; FIGUEIREDO, K. F. (Orgs.). **Logística empresarial** : a perspectiva brasileira. São Paulo: Atlas, 2000. **Bibliografia Complementar:** CHING, H. Y. **Gestão de estoques na cadeia de logística integrada** . São Paulo: Atlas, 1999. PIRES, Sílvio R. I. **Gestão da Cadeia de Suprimentos** : conceitos, estratégias, práticas e casos. Supplychain management. São Paulo: Atlas, 2004. 
-
-POZO, H. **Administração de recursos materiais e patrimoniais** . 2ª Ed. São Paulo: Atlas, 2003. 
+POZO, H. **Administração de recursos materiais e patrimoniais** . 2ª Ed. São Paulo: Atlas, 2003.
 
 |**Campus Curitiba – IFPR**|**Campus Curitiba – IFPR**|
 |---|---|
@@ -805,59 +766,51 @@ POZO, H. **Administração de recursos materiais e patrimoniais** . 2ª Ed. São
 |**Componente Curricular**: Administração Financeira||
 |**Carga Horária:**80|**Período letivo:**3º ano|
 
+22
 
+INSTITUTOFEDERAL PARANA
 
-22 
+MinisteriodaEducacao<br>InstitutoFederaldoParana<br>## **Ementa:**
 
-INSTITUTOFEDERAL PARANA 
+A função financeira na empresa. Análise de demonstrativos financeiros. Análise dinâmica de balanços. Administração dos ativos da empresa. Crédito mercantil. Estoques. Contas a receber. Orçamento e administração de caixa. Análise do custo/volume/lucro. Análise de investimentos. Estrutura do capital da empresa. Sistema financeiro nacional e internacional. Fontes de financiamento a curto, médio e longo prazos. Indexadores financeiros. Custo de capital.
 
-**==> picture [96 x 20] intentionally omitted <==**
+## **Bibliografia Básica:**
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+ASSAF NETO, Alexandre; SILVA, César Augusto Tiburcio. **Administração do capital de giro** . 3ª Ed. São Paulo: Atlas, 2002.
 
+GITMAN, Lawrence Jeffrey. **Princípios de administração financeira** . 7.ed. São Paulo: Harbra, [c1997].
 
-## **Ementa:** 
+SANTOS, Edno de Oliveira. **Administração financeira da pequena e média empresa** . São Paulo: Atlas, 2001.
 
-A função financeira na empresa. Análise de demonstrativos financeiros. Análise dinâmica de balanços. Administração dos ativos da empresa. Crédito mercantil. Estoques. Contas a receber. Orçamento e administração de caixa. Análise do custo/volume/lucro. Análise de investimentos. Estrutura do capital da empresa. Sistema financeiro nacional e internacional. Fontes de financiamento a curto, médio e longo prazos. Indexadores financeiros. Custo de capital. 
+## **Bibliografia Complementar:**
 
-## **Bibliografia Básica:** 
+SANVICENTE, Antonio Zoratto. **Administração financeira** . 3ª Ed. São Paulo: Atlas, 1987.
 
-ASSAF NETO, Alexandre; SILVA, César Augusto Tiburcio. **Administração do capital de giro** . 3ª Ed. São Paulo: Atlas, 2002. 
+SCHUBERT, P. **Análise de investimentos e taxa de retorno** . São Paulo: Ática, 1985.
 
-GITMAN, Lawrence Jeffrey. **Princípios de administração financeira** . 7.ed. São Paulo: Harbra, [c1997]. 
+VIEIRA S. J. D. **Matemática financeira** . São Paulo, Atlas, 1997.
 
-SANTOS, Edno de Oliveira. **Administração financeira da pequena e média empresa** . São Paulo: Atlas, 2001. 
+**Câmpus Curitiba do IFPR Curso:** Técnico em Administração Integrado **Componente Curricular** : Direito Trabalhista e Tributário **Carga Horária:** 80 **Período letivo:** 3º Ano
 
-## **Bibliografia Complementar:** 
+**Ementa:** Introdução ao Direito do Trabalho. Direito Individual de Trabalho. Noções de Direito Coletivo do Trabalho. Noções Gerais de Direito Tributário– Princípios – Espécies – Obrigação Tributária – Crédito Tributário – Processo Administrativo Fiscal. **Bibliografia Básica:** COLETO, Aline Cristina; ALBANO, Cícero José. **Direito aplicado a cursos técnicos** . Curitiba: Editora do Livro Técnico, 2010. CARVALHO, Paulo de Barros. **Curso de direito tributário.** 23ª Ed. São Paulo: Saraiva, 2011. MARTINS, Sérgio Pinto. **Direito do trabalho.** 27ª Ed. São Paulo: Atlas, 2011.
 
-SANVICENTE, Antonio Zoratto. **Administração financeira** . 3ª Ed. São Paulo: Atlas, 1987. 
+## **Bibliografia Complementar:**
 
-SCHUBERT, P. **Análise de investimentos e taxa de retorno** . São Paulo: Ática, 1985. 
+AMARO, Luciano. **Direito tributário brasileiro.** 17ª Ed. São Paulo: Saraiva, 2011.
 
-VIEIRA S. J. D. **Matemática financeira** . São Paulo, Atlas, 1997. 
+DELGADO, Maurício Godinho. **Curso de direito do trabalho.** 10ª Ed. São Paulo: LTr, 2011.
 
-**Câmpus Curitiba do IFPR Curso:** Técnico em Administração Integrado **Componente Curricular** : Direito Trabalhista e Tributário **Carga Horária:** 80 **Período letivo:** 3º Ano 
+MARTINS, Ives Gandra da Silva (Coord.). **Curso de direito tributário.** 13ª Ed. São Paulo: Saraiva, 2011.
 
-**Ementa:** Introdução ao Direito do Trabalho. Direito Individual de Trabalho. Noções de Direito Coletivo do Trabalho. Noções Gerais de Direito Tributário– Princípios – Espécies – Obrigação Tributária – Crédito Tributário – Processo Administrativo Fiscal. **Bibliografia Básica:** COLETO, Aline Cristina; ALBANO, Cícero José. **Direito aplicado a cursos técnicos** . Curitiba: Editora do Livro Técnico, 2010. CARVALHO, Paulo de Barros. **Curso de direito tributário.** 23ª Ed. São Paulo: Saraiva, 2011. MARTINS, Sérgio Pinto. **Direito do trabalho.** 27ª Ed. São Paulo: Atlas, 2011. 
+NASCIMENTO, Amauri Mascaro. **Curso de direito do trabalho:** história e teoria geral do direito do trabalho, relações individuais e coletivas do trabalho. 26ª Ed. São Paulo: Saraiva, 2011
 
-## **Bibliografia Complementar:** 
+23
 
-AMARO, Luciano. **Direito tributário brasileiro.** 17ª Ed. São Paulo: Saraiva, 2011. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-DELGADO, Maurício Godinho. **Curso de direito do trabalho.** 10ª Ed. São Paulo: LTr, 2011. 
+INSTITUTOFEDERAL PARANA
 
-MARTINS, Ives Gandra da Silva (Coord.). **Curso de direito tributário.** 13ª Ed. São Paulo: Saraiva, 2011. 
-
-NASCIMENTO, Amauri Mascaro. **Curso de direito do trabalho:** história e teoria geral do direito do trabalho, relações individuais e coletivas do trabalho. 26ª Ed. São Paulo: Saraiva, 2011 
-
-23 
-
-MinisteriodaEducacao InstitutoFederaldoParana 
-
-INSTITUTOFEDERAL PARANA 
-
-VIANNA, Cláudia Salles Vilela. **Manual prático das relações trabalhistas.** 10ª Ed. São Paulo: LTr, 2009. 
+VIANNA, Cláudia Salles Vilela. **Manual prático das relações trabalhistas.** 10ª Ed. São Paulo: LTr, 2009.
 
 |**Campus Curitiba – IFPR**|
 |---|
@@ -896,29 +849,27 @@ VIANNA, Cláudia Salles Vilela. **Manual prático das relações trabalhistas.**
 |MINTZBERG, H.**Criando organizações eficazes**: estruturas em cinco configurações. 2 ed. São|
 |Paulo: Atlas, 2003.|
 
+24
 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-24 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## **Bibliografia Complementar:**
 
-INSTITUTOFEDERAL PARANA 
+CHIAVENATO, I. **Administração:** teoria, processo e prática. 3. ed. São Paulo: Makron Books, 2000.
 
-## **Bibliografia Complementar:** 
+FARIA, José Henrique de. **Análise Crítica das Teorias e Práticas Organizacionais** . São Paulo: Atlas, 2007.
 
-CHIAVENATO, I. **Administração:** teoria, processo e prática. 3. ed. São Paulo: Makron Books, 2000. 
+HALL, R. H. **Organizações:** estrutura e processos. São Paulo: Prentice-Hall do Brasil, 2004.
 
-FARIA, José Henrique de. **Análise Crítica das Teorias e Práticas Organizacionais** . São Paulo: Atlas, 2007. 
+LAKATOS, E. M.; MARCONI, M. A. **Metodologia Cientifica** . 5 ed. São Paulo: Atlas, 2007.
 
-HALL, R. H. **Organizações:** estrutura e processos. São Paulo: Prentice-Hall do Brasil, 2004. 
+MAXIMIANO, A. C. A. **Administração para empreendedores** : fundamentos da criação e da gestão de novos negócios. São Paulo: Prentice-Hall, 2006.
 
-LAKATOS, E. M.; MARCONI, M. A. **Metodologia Cientifica** . 5 ed. São Paulo: Atlas, 2007. 
+RICHERS, Raimar. **O que é empresa** . São Paulo: Brasiliense, 2010.
 
-MAXIMIANO, A. C. A. **Administração para empreendedores** : fundamentos da criação e da gestão de novos negócios. São Paulo: Prentice-Hall, 2006. 
-
-RICHERS, Raimar. **O que é empresa** . São Paulo: Brasiliense, 2010. 
-
-RUIZ, J. A. **Metodologia Cientifica** . 6 ed. São Paulo: Atlas, 2006. 
+RUIZ, J. A. **Metodologia Cientifica** . 6 ed. São Paulo: Atlas, 2006.
 
 |**Campus Curitiba do IFPR**|**Campus Curitiba do IFPR**|
 |---|---|
@@ -929,57 +880,55 @@ RUIZ, J. A. **Metodologia Cientifica** . 6 ed. São Paulo: Atlas, 2006.
 |**Bibliografia Básica:**<br>BOSI, Alfredo.**História concisa da literatura brasileira**_._3. ed. São Paulo: Cultrix, 1985.<br>CAMPOS, Elizabeth Marques.**Viva Português: ensino médio**. São Paulo: Ática, 2010.<br>POSSENTI, Sírio.**Por que (não) ensinar gramática na escola**. Campinas, SP: Mercado das Letras,<br>1996.||
 |**Bibliografia Complementar:**<br>BAGNO, Marcos.**Preconceito linguístico**. O que é, como se faz.54. ed. São Paulo: Edições Loyola,<br>2011.<br>BORTONI-RICARDO, Stella Maris.**Educação em língua materna: a sociolingüística na sala de**<br>**aula.**São Paulo: Parábola Editorial, 2004.<br>KOCH, Ingedore.**A coesão textual**. São Paulo: Contexto, 1999.<br>KOCH, Ingedore; TRAVAGLIA, Luiz Carlos.**Texto e Coerência**. São Paulo: Cortez, 1999.<br>Dicionários de língua portuguesa.||
 
+25
 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-25 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+**Campus Curitiba do IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Língua Portuguesa II **Carga Horária** : 80 **Período letivo:** 2º ano **Ementa:** LITERATURA Romantismo, Ultrarromantismo, Realismo, Naturalismo, Parnasianismo, Simbolismo GRAMÁTICA Substantivo, Adjetivo, Artigo e numeral, Pronome, Verbo, Advérbio, Preposição e conjunção, Interjeição, Sujeito e predicado, Objetos e adjuntos, Tipos de predicado e predicativo, Tipos de sujeito, Adjunto adnominal e complemento nominal, Aposto e vocativo PRODUÇÃO DE TEXTO – GÊNEROS TEXTUAIS Campanha comunitária, Mesa-redonda, Conto, Notícia, Entrevista, Reportagem, Anúncio publicitário, Crítica LEITURA E INTERPRETAÇÃO DE TEXTO Explicação e demonstração, Justificação e conclusão, Hipóteses e relação, Inferência e interpretação. **Bibliografia Básica:** BOSI, Alfredo. **História concisa da literatura brasileira** . 48. ed. São Paulo: Cultrix, 2012. CEREJA, Willian Roberto; MAGALHÃES, Thereza Analia Cochar. **Português** : linguagens: volume 2 : ensino médio . 7. ed. rev. e ampl. São Paulo: Atual, 2010 FIORIN, José Luiz; SAVIOLI, Francisco Platão. **Para entender o texto** : leitura e redação. 17. ed. São Paulo: Ática, 2007. **Bibliografia Complementar:** GARCIA, Othon Moacyr. **Comunicação em prosa moderna** : aprenda a escrever, aprendendo a pensar. 10 ed. Rio de Janeiro: FGV, 2010 FARACO, Carlos Alberto; TEZZA, Cristóvão. **Oficina de texto** . 9. ed. Petrópolis: Vozes, 2011 NEVES, Maria Helena de Moura. **Gramática de usos do português** . 2. ed. São Paulo: UNESP, 2011.
 
-INSTITUTOFEDERAL PARANA 
+**Campus Curitiba do IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Língua Portuguesa III **Carga Horária** : 80 **Período letivo:** 3º ano
 
-**Campus Curitiba do IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Língua Portuguesa II **Carga Horária** : 80 **Período letivo:** 2º ano **Ementa:** LITERATURA Romantismo, Ultrarromantismo, Realismo, Naturalismo, Parnasianismo, Simbolismo GRAMÁTICA Substantivo, Adjetivo, Artigo e numeral, Pronome, Verbo, Advérbio, Preposição e conjunção, Interjeição, Sujeito e predicado, Objetos e adjuntos, Tipos de predicado e predicativo, Tipos de sujeito, Adjunto adnominal e complemento nominal, Aposto e vocativo PRODUÇÃO DE TEXTO – GÊNEROS TEXTUAIS Campanha comunitária, Mesa-redonda, Conto, Notícia, Entrevista, Reportagem, Anúncio publicitário, Crítica LEITURA E INTERPRETAÇÃO DE TEXTO Explicação e demonstração, Justificação e conclusão, Hipóteses e relação, Inferência e interpretação. **Bibliografia Básica:** BOSI, Alfredo. **História concisa da literatura brasileira** . 48. ed. São Paulo: Cultrix, 2012. CEREJA, Willian Roberto; MAGALHÃES, Thereza Analia Cochar. **Português** : linguagens: volume 2 : ensino médio . 7. ed. rev. e ampl. São Paulo: Atual, 2010 FIORIN, José Luiz; SAVIOLI, Francisco Platão. **Para entender o texto** : leitura e redação. 17. ed. São Paulo: Ática, 2007. **Bibliografia Complementar:** GARCIA, Othon Moacyr. **Comunicação em prosa moderna** : aprenda a escrever, aprendendo a pensar. 10 ed. Rio de Janeiro: FGV, 2010 FARACO, Carlos Alberto; TEZZA, Cristóvão. **Oficina de texto** . 9. ed. Petrópolis: Vozes, 2011 NEVES, Maria Helena de Moura. **Gramática de usos do português** . 2. ed. São Paulo: UNESP, 2011. 
+26
 
-**Campus Curitiba do IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Língua Portuguesa III **Carga Horária** : 80 **Período letivo:** 3º ano 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-26 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## **Ementa:**
 
-INSTITUTOFEDERAL PARANA 
+Literatura Brasileira - Pré-Modernismo: contexto histórico, linguagem, principais autores e obras; Modernismo: primeira fase/poesia; Modernismo, 2a fase/prosa regionalista de 30; A poesia da geração de 30; Literatura Contemporânea em todas as suas manifestações: conto, poesia, romance e teatro. Leitura de obras representativas dos períodos estudados.
 
-## **Ementa:** 
+Produção de texto (escrita): diversidade de propostas, conforme especificidade de cada turma e temas da atualidade. Dissertação, argumentação, contra-argumentação em todas as suas modalidades de gênero.
 
-Literatura Brasileira - Pré-Modernismo: contexto histórico, linguagem, principais autores e obras; Modernismo: primeira fase/poesia; Modernismo, 2a fase/prosa regionalista de 30; A poesia da geração de 30; Literatura Contemporânea em todas as suas manifestações: conto, poesia, romance e teatro. Leitura de obras representativas dos períodos estudados. 
+Produção de texto (oral): debates e seminários com clareza de ideias, boa articulação de fala, informação/conteúdo bem fundamentada(o) e vocabulário pertinente.
 
-Produção de texto (escrita): diversidade de propostas, conforme especificidade de cada turma e temas da atualidade. Dissertação, argumentação, contra-argumentação em todas as suas modalidades de gênero. 
+Gramática: período composto por subordinação; período composto por coordenação; concordância verbal, concordância nominal; regência verbal e regência nominal; pontuação; ortografia. Análise lingüística de situações presentes em textos produzidos pelos alunos. Leitura: diversos gêneros extraídos de jornais e revistas.
 
-Produção de texto (oral): debates e seminários com clareza de ideias, boa articulação de fala, informação/conteúdo bem fundamentada(o) e vocabulário pertinente. 
+## **Bibliografia Básica:**
 
-Gramática: período composto por subordinação; período composto por coordenação; concordância verbal, concordância nominal; regência verbal e regência nominal; pontuação; ortografia. Análise lingüística de situações presentes em textos produzidos pelos alunos. Leitura: diversos gêneros extraídos de jornais e revistas. 
+AZEREDO, José Carlos. **Ensino de Português:** fundamentos, percursos e objetos _._ Rio de Janeiro: Zahar, 2007.
 
-## **Bibliografia Básica:** 
+MATTOS E SILVA, Rosa Virgínia. **Contradições no Ensino de Português** _._ São Paulo: Contexto, 1997.
 
-AZEREDO, José Carlos. **Ensino de Português:** fundamentos, percursos e objetos _._ Rio de Janeiro: Zahar, 2007. 
+PERINI, Mário A. **Para uma nova gramática do português** _._ São Paulo: Ática, 1995.
 
-MATTOS E SILVA, Rosa Virgínia. **Contradições no Ensino de Português** _._ São Paulo: Contexto, 1997. 
+POSSENTI, Sírio. **Por que (não) ensinar gramática na escola** _._ Campinas, SP: Mercado das Letras, 1996.
 
-PERINI, Mário A. **Para uma nova gramática do português** _._ São Paulo: Ática, 1995. 
+## **Bibliografia Complementar:**
 
-POSSENTI, Sírio. **Por que (não) ensinar gramática na escola** _._ Campinas, SP: Mercado das Letras, 1996. 
+CANDIDO, Antonio. **Literatura e Sociedade** _._ São Paulo: TAQ, 2000.
 
-## **Bibliografia Complementar:** 
+ECO, Umberto. **Seis Passeios pelos Bosques da Ficção** _._ São Paulo: Companhia das Letras, 2001. GANCHO. Cândida Vilares. **Como analisar narrativas** _._ São Paulo: Ática, 2002.
 
-CANDIDO, Antonio. **Literatura e Sociedade** _._ São Paulo: TAQ, 2000. 
+KOCH, Ingedore. **As tramas do texto** _._ Rio de Janeiro: Nova Fronteira, 2008.
 
-ECO, Umberto. **Seis Passeios pelos Bosques da Ficção** _._ São Paulo: Companhia das Letras, 2001. GANCHO. Cândida Vilares. **Como analisar narrativas** _._ São Paulo: Ática, 2002. 
+KOCH, Ingedore. **A coesão textual** _._ São Paulo: Contexto, 1999.
 
-KOCH, Ingedore. **As tramas do texto** _._ Rio de Janeiro: Nova Fronteira, 2008. 
+KOCH, Ingedore; TRAVAGLIA, Luiz Carlos. **Texto e Coerência** _._ São Paulo: Cortez, 1999.
 
-KOCH, Ingedore. **A coesão textual** _._ São Paulo: Contexto, 1999. 
-
-KOCH, Ingedore; TRAVAGLIA, Luiz Carlos. **Texto e Coerência** _._ São Paulo: Cortez, 1999. 
-
-SCHWARZ, Roberto. **Ao vencedor as batatas** _._ São Paulo: Editora 34, 2003. 
+SCHWARZ, Roberto. **Ao vencedor as batatas** _._ São Paulo: Editora 34, 2003.
 
 ||**Campus Curitiba do IFPR**|**Campus Curitiba do IFPR**|**Campus Curitiba do IFPR**|**Campus Curitiba do IFPR**|
 |---|---|---|---|---|
@@ -988,33 +937,31 @@ SCHWARZ, Roberto. **Ao vencedor as batatas** _._ São Paulo: Editora 34, 2003.
 |**Carga Horária**: 80||||**Período letivo:**1º ano|
 |**Ementa:**|||||
 
+Língua Espanhola como Língua Estrangeira Moderna, variedade padrão e variação linguística. Introdução às quatro habilidades comunicativas em língua espanhola: expressão oral/escrita e compreensão oral/leitora. Prática de leitura, escrita e oralidade em língua espanhola. Prática de escuta de textos orais em língua espanhola.Prática de análise linguística em situações comunicativas. Leitura e análise de gêneros textuais diversos. Produção oral e escrita em língua
 
+27
 
-Língua Espanhola como Língua Estrangeira Moderna, variedade padrão e variação linguística. Introdução às quatro habilidades comunicativas em língua espanhola: expressão oral/escrita e compreensão oral/leitora. Prática de leitura, escrita e oralidade em língua espanhola. Prática de escuta de textos orais em língua espanhola.Prática de análise linguística em situações comunicativas. Leitura e análise de gêneros textuais diversos. Produção oral e escrita em língua 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-27 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+espanhola.
 
-INSTITUTOFEDERAL PARANA 
+**Estratégias Pedagógicas:** Aulas expositivas dialogadas, leitura e estudo, realização de trabalhos individuais e em grupo, avaliações escritas e orais, uso de recursos audiovisuais, quadro branco e acervo bibliográfico disponível na Biblioteca.
 
-espanhola. 
+Avaliações bimestrais, uma ou mais por bimestre, correspondendo às unidades do conteúdo programático. Os alunos serão avaliados por participação em sala de aula, verificada pela leitura e estudos dos conteúdos relacionados; pela apresentação de seminários individuais ou em grupos; por meio de provas dissertativas, trabalhos individuais ou em grupos, com ou sem consulta.
 
-**Estratégias Pedagógicas:** Aulas expositivas dialogadas, leitura e estudo, realização de trabalhos individuais e em grupo, avaliações escritas e orais, uso de recursos audiovisuais, quadro branco e acervo bibliográfico disponível na Biblioteca. 
+## **Referência Básica**
 
-Avaliações bimestrais, uma ou mais por bimestre, correspondendo às unidades do conteúdo programático. Os alunos serão avaliados por participação em sala de aula, verificada pela leitura e estudos dos conteúdos relacionados; pela apresentação de seminários individuais ou em grupos; por meio de provas dissertativas, trabalhos individuais ou em grupos, com ou sem consulta. 
+OSMAN, Soraia; ELIAS, Neide; IZQUIERDO, Sonia. **Enlaces 1: español para jóvenes brasileños** . 2.ª Ed. São Paulo, Macmillan, 2010.
 
-## **Referência Básica** 
+GONZÁLEZ HERMOSO, A. **Gramática de español lengua extrajera** .Ed. Edelsa. Grupo Didascalia Sª. Madrid. 1995.
 
-OSMAN, Soraia; ELIAS, Neide; IZQUIERDO, Sonia. **Enlaces 1: español para jóvenes brasileños** . 2.ª Ed. São Paulo, Macmillan, 2010. 
+Dicionário Larousse. **Espanhol-Português** .  1.ª Ed. Larousse do Brasil: São Paulo, 2010.
 
-GONZÁLEZ HERMOSO, A. **Gramática de español lengua extrajera** .Ed. Edelsa. Grupo Didascalia Sª. Madrid. 1995. 
+## **Referência Complementar**
 
-Dicionário Larousse. **Espanhol-Português** .  1.ª Ed. Larousse do Brasil: São Paulo, 2010. 
-
-## **Referência Complementar** 
-
-SANTOS Gargallo, Isabel e SANCHEZ Lobato, Jesús. **Vademecum para la Formación de Profesores** . 1.ª Ed. S.G.E.L: Madrid, 2004. WIDDOWSON, H.G. **O Ensino de Línguas para a Comunicação** . São Paulo: Pontes, 2005. ABRAHÃO, Maria Helena Vieira Abrahão. **Prática de Ensino de Língua Estrangeira: experiências e reflexões** . 1. ed. São Paulo: Pontes, 2004. RAMOS, Rosinda de Castro Guerra (org.). **Reflexão e ações no ensino-aprendizagem de línguas** . 1. ed. São Paulo: Mercado de Letras, 2003. 
+SANTOS Gargallo, Isabel e SANCHEZ Lobato, Jesús. **Vademecum para la Formación de Profesores** . 1.ª Ed. S.G.E.L: Madrid, 2004. WIDDOWSON, H.G. **O Ensino de Línguas para a Comunicação** . São Paulo: Pontes, 2005. ABRAHÃO, Maria Helena Vieira Abrahão. **Prática de Ensino de Língua Estrangeira: experiências e reflexões** . 1. ed. São Paulo: Pontes, 2004. RAMOS, Rosinda de Castro Guerra (org.). **Reflexão e ações no ensino-aprendizagem de línguas** . 1. ed. São Paulo: Mercado de Letras, 2003.
 
 |**Campus Curitiba do IFPR**|**Campus Curitiba do IFPR**|**Campus Curitiba do IFPR**|
 |---|---|---|
@@ -1022,39 +969,37 @@ SANTOS Gargallo, Isabel e SANCHEZ Lobato, Jesús. **Vademecum para la Formación
 |**Componente Curricular**: Língua Estrangeira – Espanhol II|||
 |**Carga Horária**: 80||**Período letivo:**2º ano|
 
+**Ementa:** Língua Espanhola como Língua Estrangeira Moderna, variedade padrão e variação linguística. Estudo das estruturas linguísticas e funções comunicativas de nível básico. Prática integrada das habilidades de produção (fala e escrita) e de recepção (audição e leitura). Ênfase na descrição e narração, oral e escrita, de rotinas, costumes e eventos no presente e no passado. Expressão de planos, intenções e projetos para o futuro. Trabalho com textos orais, escritos, vídeos e filmes mostrando a relação entre língua e cultura em suas diferentes variantes e modalidades. Prática de análise linguística em situações comunicativas. Leitura e análise de gêneros textuais diversos. Produção oral e escrita em língua espanhola.
 
+**Estratégias Pedagógicas:** Aulas expositivas dialogadas, leitura e estudo, realização de trabalhos individuais e em grupo, avaliações escritas e orais, uso de recursos audiovisuais,
 
-**Ementa:** Língua Espanhola como Língua Estrangeira Moderna, variedade padrão e variação linguística. Estudo das estruturas linguísticas e funções comunicativas de nível básico. Prática integrada das habilidades de produção (fala e escrita) e de recepção (audição e leitura). Ênfase na descrição e narração, oral e escrita, de rotinas, costumes e eventos no presente e no passado. Expressão de planos, intenções e projetos para o futuro. Trabalho com textos orais, escritos, vídeos e filmes mostrando a relação entre língua e cultura em suas diferentes variantes e modalidades. Prática de análise linguística em situações comunicativas. Leitura e análise de gêneros textuais diversos. Produção oral e escrita em língua espanhola. 
+28
 
-**Estratégias Pedagógicas:** Aulas expositivas dialogadas, leitura e estudo, realização de trabalhos individuais e em grupo, avaliações escritas e orais, uso de recursos audiovisuais, 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-28 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+quadro branco e acervo bibliográfico disponível na Biblioteca.
 
-INSTITUTOFEDERAL PARANA 
+Avaliações bimestrais, uma ou mais por bimestre, correspondendo às unidades do conteúdo programático. Os alunos serão avaliados por participação em sala de aula, verificada pela leitura e estudos dos conteúdos relacionados; pela apresentação de seminários individuais ou em grupos; por meio de provas dissertativas, trabalhos individuais ou em grupos, com ou sem consulta.
 
-quadro branco e acervo bibliográfico disponível na Biblioteca. 
+## **Referência Básica**
 
-Avaliações bimestrais, uma ou mais por bimestre, correspondendo às unidades do conteúdo programático. Os alunos serão avaliados por participação em sala de aula, verificada pela leitura e estudos dos conteúdos relacionados; pela apresentação de seminários individuais ou em grupos; por meio de provas dissertativas, trabalhos individuais ou em grupos, com ou sem consulta. 
+OSMAN, Soraia; ELIAS, Neide; IZQUIERDO, Sonia. **Enlaces 2: español para jóvenes brasileños** . 2.ª Ed. São Paulo, Macmillan, 2010.
 
-## **Referência Básica** 
+GONZÁLEZ HERMOSO, A. **Gramática de español lengua extrajera** .Ed. Edelsa. Grupo DidascaliaSª. Madrid. 1995.
 
-OSMAN, Soraia; ELIAS, Neide; IZQUIERDO, Sonia. **Enlaces 2: español para jóvenes brasileños** . 2.ª Ed. São Paulo, Macmillan, 2010. 
+Dicionário Larousse Espanhol-Português.  1.ª Ed. Larousse do Brasil: São Paulo, 2010.
 
-GONZÁLEZ HERMOSO, A. **Gramática de español lengua extrajera** .Ed. Edelsa. Grupo DidascaliaSª. Madrid. 1995. 
+## **Referência Complementar**
 
-Dicionário Larousse Espanhol-Português.  1.ª Ed. Larousse do Brasil: São Paulo, 2010. 
+SANTOS Gargallo, Isabel e SANCHEZ Lobato, Jesús. **Vademecum para la Formación de Profesores** . 1.ª Ed. S.G.E.L: Madrid, 2004.
 
-## **Referência Complementar** 
+WIDDOWSON, H.G. **O Ensino de Línguas para a Comunicação** . São Paulo: Pontes, 2005.
 
-SANTOS Gargallo, Isabel e SANCHEZ Lobato, Jesús. **Vademecum para la Formación de Profesores** . 1.ª Ed. S.G.E.L: Madrid, 2004. 
+ABRAHÃO, Maria Helena Vieira Abrahão. **Prática de Ensino de Língua Estrangeira: experiências e reflexões** . 1. ed. São Paulo: Pontes, 2004.
 
-WIDDOWSON, H.G. **O Ensino de Línguas para a Comunicação** . São Paulo: Pontes, 2005. 
-
-ABRAHÃO, Maria Helena Vieira Abrahão. **Prática de Ensino de Língua Estrangeira: experiências e reflexões** . 1. ed. São Paulo: Pontes, 2004. 
-
-RAMOS, Rosinda de Castro Guerra (org.). **Reflexão e ações no ensino-aprendizagem de línguas** . 1. ed. São Paulo: Mercado de Letras, 2003. 
+RAMOS, Rosinda de Castro Guerra (org.). **Reflexão e ações no ensino-aprendizagem de línguas** . 1. ed. São Paulo: Mercado de Letras, 2003.
 
 ||**Campus Curitiba do IFPR**|**Campus Curitiba do IFPR**|
 |---|---|---|
@@ -1062,27 +1007,25 @@ RAMOS, Rosinda de Castro Guerra (org.). **Reflexão e ações no ensino-aprendiz
 |**Componente Curricular**: Lín|: Língua Estrangeira – Espanhol III||
 |**Carga Horária**: 80||**Período letivo:**3º ano|
 
+**Ementa:** Língua Espanhola como Língua Estrangeira Moderna, variedade padrão e variação linguística. Aperfeiçoamento das compreensões leitora e auditiva e das produções oral e escrita em nível básico. Produção de textos orais e escritos claros sobre temas simples que exijam a expressão da opinião. Aperfeiçoamento da competência linguístico-comunicativa em nível intermediário. Integração das quatro habilidades linguísticas. Aspectos socioculturais do mundo hispânico. Desenvolvimento das quatro habilidades da competência comunicativa – expressão oral/ escrita e compreensão oral/ leitora. Incentivo à expressão da opinião. Discussão sobre as variedades das culturas hispânicas. Aperfeiçoamento das compreensões leitora e auditiva e das produções oral e escrita. Produção de textos orais e escritos claros sobre temas diversos, indicando os prós e contras das diferentes opções.
 
+**Estratégias Pedagógicas:** Aulas expositivas dialogadas, leitura e estudo, realização de trabalhos individuais e em grupo, avaliações escritas e orais, uso de recursos audiovisuais,
 
-**Ementa:** Língua Espanhola como Língua Estrangeira Moderna, variedade padrão e variação linguística. Aperfeiçoamento das compreensões leitora e auditiva e das produções oral e escrita em nível básico. Produção de textos orais e escritos claros sobre temas simples que exijam a expressão da opinião. Aperfeiçoamento da competência linguístico-comunicativa em nível intermediário. Integração das quatro habilidades linguísticas. Aspectos socioculturais do mundo hispânico. Desenvolvimento das quatro habilidades da competência comunicativa – expressão oral/ escrita e compreensão oral/ leitora. Incentivo à expressão da opinião. Discussão sobre as variedades das culturas hispânicas. Aperfeiçoamento das compreensões leitora e auditiva e das produções oral e escrita. Produção de textos orais e escritos claros sobre temas diversos, indicando os prós e contras das diferentes opções. 
+29
 
-**Estratégias Pedagógicas:** Aulas expositivas dialogadas, leitura e estudo, realização de trabalhos individuais e em grupo, avaliações escritas e orais, uso de recursos audiovisuais, 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-29 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+quadro branco e acervo bibliográfico disponível na Biblioteca.
 
-INSTITUTOFEDERAL PARANA 
+Avaliações bimestrais, uma ou mais por bimestre, correspondendo às unidades do conteúdo programático. Os alunos serão avaliados por participação em sala de aula, verificada pela leitura e estudos dos conteúdos relacionados; pela apresentação de seminários individuais ou em grupos; por meio de provas dissertativas, trabalhos individuais ou em grupos, com ou sem consulta.
 
-quadro branco e acervo bibliográfico disponível na Biblioteca. 
+**Referência Básica** OSMAN, Soraia; ELIAS, Neide; IZQUIERDO, Sonia. **Enlaces 3: español para jóvenes brasileños** . 2.ª Ed. São Paulo, Macmillan, 2010. GONZÁLEZ HERMOSO, A. **Gramática de español lengua extrajera** .Ed. Edelsa. Grupo DidascaliaSª. Madrid. 1995.
 
-Avaliações bimestrais, uma ou mais por bimestre, correspondendo às unidades do conteúdo programático. Os alunos serão avaliados por participação em sala de aula, verificada pela leitura e estudos dos conteúdos relacionados; pela apresentação de seminários individuais ou em grupos; por meio de provas dissertativas, trabalhos individuais ou em grupos, com ou sem consulta. 
+Dicionário Larousse Espanhol-Português.  1.ª Ed. Larousse do Brasil: São Paulo, 2010.
 
-**Referência Básica** OSMAN, Soraia; ELIAS, Neide; IZQUIERDO, Sonia. **Enlaces 3: español para jóvenes brasileños** . 2.ª Ed. São Paulo, Macmillan, 2010. GONZÁLEZ HERMOSO, A. **Gramática de español lengua extrajera** .Ed. Edelsa. Grupo DidascaliaSª. Madrid. 1995. 
-
-Dicionário Larousse Espanhol-Português.  1.ª Ed. Larousse do Brasil: São Paulo, 2010. 
-
-**Referência Complementar** SANTOS Gargallo, Isabel e SANCHEZ Lobato, Jesús. **Vademecum para la Formación de Profesores** . 1.ª Ed. S.G.E.L: Madrid, 2004. WIDDOWSON, H.G. **O Ensino de Línguas para a Comunicação** . São Paulo: Pontes, 2005. ABRAHÃO, Maria Helena Vieira Abrahão. **Prática de Ensino de Língua Estrangeira: experiências e reflexões** . 1. ed. São Paulo: Pontes, 2004. RAMOS, Rosinda de Castro Guerra (org.). **Reflexão e ações no ensino-aprendizagem de línguas** . 1. ed. São Paulo: Mercado de Letras, 2003. 
+**Referência Complementar** SANTOS Gargallo, Isabel e SANCHEZ Lobato, Jesús. **Vademecum para la Formación de Profesores** . 1.ª Ed. S.G.E.L: Madrid, 2004. WIDDOWSON, H.G. **O Ensino de Línguas para a Comunicação** . São Paulo: Pontes, 2005. ABRAHÃO, Maria Helena Vieira Abrahão. **Prática de Ensino de Língua Estrangeira: experiências e reflexões** . 1. ed. São Paulo: Pontes, 2004. RAMOS, Rosinda de Castro Guerra (org.). **Reflexão e ações no ensino-aprendizagem de línguas** . 1. ed. São Paulo: Mercado de Letras, 2003.
 
 |**Campus Curitiba do IFPR**|**Campus Curitiba do IFPR**|
 |---|---|
@@ -1091,213 +1034,205 @@ Dicionário Larousse Espanhol-Português.  1.ª Ed. Larousse do Brasil: São Pau
 |**Carga Horária**: 120|**Período letivo:**1º ano|
 |**Ementa:**||
 
+CONJUNTOS (operações com conjuntos, problemas que envolvam conjuntos, conjuntos numéricos, intervalos, operações com intervalos, par ordenado, produto cartesiano); FUNÇÕES (conceito de função, domínio, contradomínio e imagem de uma função, estudo do domínio de uma função, gráfico de uma função, construção e interpretação de gráficos, crescimento e decrescimento, função composta, tipos de função: injetora, sobrejetora e bijetora, função inversa. função polinomial); FUNÇÃO POLINOMIAL DE 1º GRAU (gráfico, determinação de uma função a partir do gráfico, crescimento e decrescimento, estudo do sinal, inequações); FUNÇÃO POLINOMIAL DE 2º GRAU (gráfico, zeros ou raízes, vértice da parábola, valor máximo ou valor mínimo, crescimento e decrescimento, estudo do sinal, inequações); FUNÇÃO MODULAR (Modulo ou valor absoluto de um número real; função modular, equação e inequação modular); FUNÇÃO EXPONENCIAL (potenciação, função exponencial, equações exponenciais e sistemas, inequações exponenciais); FUNÇÃO LOGARÍTMICA (logaritmo, condição de existência, propriedades dos logaritmos, mudança de base, função logarítmica, equação logarítmica e sistemas, inequações logarítmicas); SEQUÊNCIA (progressão  aritmética, fórmula do termo geral da PA, interpretação gráfica da PA, soma dos termos de uma PA, progressão geométrica, fórmula do termo geral da PG, interpretação gráfica da PG, soma dos n termos de um PG, soma dos termos de uma PG infinita, problemas que envolvem PA e PG.
 
+30
 
-CONJUNTOS (operações com conjuntos, problemas que envolvam conjuntos, conjuntos numéricos, intervalos, operações com intervalos, par ordenado, produto cartesiano); FUNÇÕES (conceito de função, domínio, contradomínio e imagem de uma função, estudo do domínio de uma função, gráfico de uma função, construção e interpretação de gráficos, crescimento e decrescimento, função composta, tipos de função: injetora, sobrejetora e bijetora, função inversa. função polinomial); FUNÇÃO POLINOMIAL DE 1º GRAU (gráfico, determinação de uma função a partir do gráfico, crescimento e decrescimento, estudo do sinal, inequações); FUNÇÃO POLINOMIAL DE 2º GRAU (gráfico, zeros ou raízes, vértice da parábola, valor máximo ou valor mínimo, crescimento e decrescimento, estudo do sinal, inequações); FUNÇÃO MODULAR (Modulo ou valor absoluto de um número real; função modular, equação e inequação modular); FUNÇÃO EXPONENCIAL (potenciação, função exponencial, equações exponenciais e sistemas, inequações exponenciais); FUNÇÃO LOGARÍTMICA (logaritmo, condição de existência, propriedades dos logaritmos, mudança de base, função logarítmica, equação logarítmica e sistemas, inequações logarítmicas); SEQUÊNCIA (progressão  aritmética, fórmula do termo geral da PA, interpretação gráfica da PA, soma dos termos de uma PA, progressão geométrica, fórmula do termo geral da PG, interpretação gráfica da PG, soma dos n termos de um PG, soma dos termos de uma PG infinita, problemas que envolvem PA e PG. 
+INSTITUTOFEDERAL PARANA
 
-30 
+MinisteriodaEducacao<br>InstitutoFederaldoParana<br>## **Bibliografia Básica:**
 
-INSTITUTOFEDERAL PARANA 
+BARROSO, J.M. **Conexões com a Matemática** . São Paulo: Moderna, 2010.
 
-**==> picture [96 x 20] intentionally omitted <==**
+BARROSO, J.M.; POZZANI, A. P. **Matemática** : Caderno de Revisão. São Paulo: Moderna, 2010.
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+SOUZA, J. **Matemática** – Coleção Novo Olhar. São Paulo:FTD, 2010.
 
+IEZZI, G. **Fundamentos da Matemática** : funções. Vol. 1. 8ª ed. São Paulo: Atual editora, 2004.
 
-## **Bibliografia Básica:** 
+IEZZI, G. **Fundamentos da Matemática** : logaritmos. Vol. 2. 9ª ed. São Paulo: Atual editora, 2004.
 
-BARROSO, J.M. **Conexões com a Matemática** . São Paulo: Moderna, 2010. 
+## **Bibliografia Complementar:**
 
-BARROSO, J.M.; POZZANI, A. P. **Matemática** : Caderno de Revisão. São Paulo: Moderna, 2010. 
+DANTE, L. R. **Matemática** : Contexto e Aplicações. São Paulo: Ática, 2011.
 
-SOUZA, J. **Matemática** – Coleção Novo Olhar. São Paulo:FTD, 2010. 
+IEZZI, G.; DOLCE,O. ; DEGENSZAJIN, D.; PÉRIGO, R.; ALMEIDA, N. **Matemática** : Ciência e Aplicações. São Paulo: Saraiva, 2010.
 
-IEZZI, G. **Fundamentos da Matemática** : funções. Vol. 1. 8ª ed. São Paulo: Atual editora, 2004. 
+GIOVANNI, J. R.; BONJORNO, J.R. **Matemática Completa** . São Paulo: FTD. 2002.
 
-IEZZI, G. **Fundamentos da Matemática** : logaritmos. Vol. 2. 9ª ed. São Paulo: Atual editora, 2004. 
+RIBEIRO, J. **Matemática** . São Paulo: Scipione, 2011.
 
-## **Bibliografia Complementar:** 
+SMOLE, K.S.; DINIZ, M.I. **Matemática Ensino Médio** . São Paulo: Saraiva, 6ª edição, 2010.
 
-DANTE, L. R. **Matemática** : Contexto e Aplicações. São Paulo: Ática, 2011. 
+## **Campus Curitiba do IFPR**
 
-IEZZI, G.; DOLCE,O. ; DEGENSZAJIN, D.; PÉRIGO, R.; ALMEIDA, N. **Matemática** : Ciência e Aplicações. São Paulo: Saraiva, 2010. 
+**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : MATEMÁTICA II **Carga Horária** : 120 **Período letivo:** 2º ano
 
-GIOVANNI, J. R.; BONJORNO, J.R. **Matemática Completa** . São Paulo: FTD. 2002. 
+## **Ementa:**
 
-RIBEIRO, J. **Matemática** . São Paulo: Scipione, 2011. 
+INTRODUÇÃO A TRIGONOMETRIA (semelhança de triângulos, teorema de tales, teorema de Pitágoras, triângulo retângulo, seno, cosseno e tangente dos ângulos agudos, razões trigonométricas no triângulo retângulo); TRIGONOMETRIA (arco de circunferência, unidades de medida, comprimento de um arco, circunferência trigonométrica, arcos côngruos, seno, cosseno e tangente de um arco, simetria no estudo do seno, cosseno e da tangente, lei dos senos e lei dos cossenos, gráfico da função seno e cosseno e tangente, demais razões trigonométricas, equações trigonométricas, inequações trigonométricas, relação trigonométrica fundamental, valor numérico de uma expressão trigonométrica, propriedade dos arcos complementares, fórmulas da adição e subtração de arcos. fórmulas da multiplicação de arco); MATRIZES (representação genérica. iipos de matrizes, igualdade de matrizes, adição e subtração de matrizes, propriedades de operações de matrizes, multiplicação de um número real por uma matriz, multiplicação de matrizes, propriedades da multiplicação de matrizes, matriz inversa); DETERMINANTES (Determinante de 2ª e 3ª ordem, regra de Sarrus, determinante de ordem maior que três, teorema de Laplace, propriedades e teoremas (Jacobi e Binet), determinante de matriz inversa); SISTEMAS LINEARES (equações lineares, sistemas de equações lineares, classificação de sistemas, matrizes associadas a um sistema linear, sistemas lineares equivalentes, regra de Cramer, resolução de um sistema linear por escalonamento, discussão de um sistema linear); ANÁLISE COMBINATÓRIA (Princípio Multiplicativo, fatorial, permutações simples e permutações com repetição, arranjos simples, combinações simples, número binomial, triângulo de Pascal, fórmula do binômio de Newton); PROBABILIDADE (espaço amostral, tipos de eventos, probabilidade de um evento em um espaço amostral finito, probabilidade com reunião e intersecção de eventos, probabilidade condicional, eventos independentes, método binomial); GEOMETRIA PLANA (polígonos, polígonos regulares, relações métricas, área das principais superfícies poligonais planas, círculo e circunferência); GEOMETRIA ESPACIAL (poliedros, poliedros regulares, prismas, elementos do prisma, áreas de superfície de um prisma, paralelepípedo, hexaedro, área da superfície, volume de um prisma, pirâmides, elementos da pirâmide, áreas de
 
-SMOLE, K.S.; DINIZ, M.I. **Matemática Ensino Médio** . São Paulo: Saraiva, 6ª edição, 2010. 
+31
 
-## **Campus Curitiba do IFPR** 
+INSTITUTOFEDERAL PARANA
 
-**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : MATEMÁTICA II **Carga Horária** : 120 **Período letivo:** 2º ano 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-## **Ementa:** 
+superfície de uma pirâmide, tronco de pirâmide, tetraedro regular, área da superfície, volume de uma pirâmide, cilindros, área da superfície de um cilindro, volume de um cilindro, cones, área da superfície de um cone, volume de um cone, tronco de um cone reto, esferas, superfície esférica, áreae volume da esfera.
 
-INTRODUÇÃO A TRIGONOMETRIA (semelhança de triângulos, teorema de tales, teorema de Pitágoras, triângulo retângulo, seno, cosseno e tangente dos ângulos agudos, razões trigonométricas no triângulo retângulo); TRIGONOMETRIA (arco de circunferência, unidades de medida, comprimento de um arco, circunferência trigonométrica, arcos côngruos, seno, cosseno e tangente de um arco, simetria no estudo do seno, cosseno e da tangente, lei dos senos e lei dos cossenos, gráfico da função seno e cosseno e tangente, demais razões trigonométricas, equações trigonométricas, inequações trigonométricas, relação trigonométrica fundamental, valor numérico de uma expressão trigonométrica, propriedade dos arcos complementares, fórmulas da adição e subtração de arcos. fórmulas da multiplicação de arco); MATRIZES (representação genérica. iipos de matrizes, igualdade de matrizes, adição e subtração de matrizes, propriedades de operações de matrizes, multiplicação de um número real por uma matriz, multiplicação de matrizes, propriedades da multiplicação de matrizes, matriz inversa); DETERMINANTES (Determinante de 2ª e 3ª ordem, regra de Sarrus, determinante de ordem maior que três, teorema de Laplace, propriedades e teoremas (Jacobi e Binet), determinante de matriz inversa); SISTEMAS LINEARES (equações lineares, sistemas de equações lineares, classificação de sistemas, matrizes associadas a um sistema linear, sistemas lineares equivalentes, regra de Cramer, resolução de um sistema linear por escalonamento, discussão de um sistema linear); ANÁLISE COMBINATÓRIA (Princípio Multiplicativo, fatorial, permutações simples e permutações com repetição, arranjos simples, combinações simples, número binomial, triângulo de Pascal, fórmula do binômio de Newton); PROBABILIDADE (espaço amostral, tipos de eventos, probabilidade de um evento em um espaço amostral finito, probabilidade com reunião e intersecção de eventos, probabilidade condicional, eventos independentes, método binomial); GEOMETRIA PLANA (polígonos, polígonos regulares, relações métricas, área das principais superfícies poligonais planas, círculo e circunferência); GEOMETRIA ESPACIAL (poliedros, poliedros regulares, prismas, elementos do prisma, áreas de superfície de um prisma, paralelepípedo, hexaedro, área da superfície, volume de um prisma, pirâmides, elementos da pirâmide, áreas de 
+## **Bibliografia Básica:**
 
-31 
+BARROSO, J.M. **Conexões com a Matemática** . São Paulo: Moderna, 2010.
 
-INSTITUTOFEDERAL PARANA 
+BARROSO, J.M.; POZZANI, A. P. **Matemática** : Caderno de Revisão. São Paulo: Moderna, 2010.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+SOUZA, J. **Matemática** – Coleção Novo Olhar. São Paulo:FTD, 2010.
 
-superfície de uma pirâmide, tronco de pirâmide, tetraedro regular, área da superfície, volume de uma pirâmide, cilindros, área da superfície de um cilindro, volume de um cilindro, cones, área da superfície de um cone, volume de um cone, tronco de um cone reto, esferas, superfície esférica, áreae volume da esfera. 
+IEZZI, G. **Fundamentos da Matemática** : trigonometria. Vol. 3. 8ª ed. São Paulo: Saraiva, 2004.
 
-## **Bibliografia Básica:** 
+IEZZI, G. **Fundamentos da Matemática** : sequências, matrizes, determinantes e sistemas lineares. Vol. 4. 7ª ed. São Paulo: Atual editora, 2004.
 
-BARROSO, J.M. **Conexões com a Matemática** . São Paulo: Moderna, 2010. 
+## **Bibliografia Complementar:**
 
-BARROSO, J.M.; POZZANI, A. P. **Matemática** : Caderno de Revisão. São Paulo: Moderna, 2010. 
+DANTE, L. R. **Matemática** : Contexto e Aplicações. São Paulo: Ática, 2011.
 
-SOUZA, J. **Matemática** – Coleção Novo Olhar. São Paulo:FTD, 2010. 
+IEZZI, G.; DOLCE,O. ; DEGENSZAJIN, D.; PÉRIGO, R.; ALMEIDA, N. **Matemática** : Ciência e Aplicações. São Paulo: Saraiva, 2010.
 
-IEZZI, G. **Fundamentos da Matemática** : trigonometria. Vol. 3. 8ª ed. São Paulo: Saraiva, 2004. 
+GIOVANNI, J. R.; BONJORNO, J.R. **Matemática Completa** . São Paulo: FTD. 2002.
 
-IEZZI, G. **Fundamentos da Matemática** : sequências, matrizes, determinantes e sistemas lineares. Vol. 4. 7ª ed. São Paulo: Atual editora, 2004. 
+RIBEIRO, J. **Matemática** . São Paulo: Scipione, 2011.
 
-## **Bibliografia Complementar:** 
+SMOLE, K.S.; DINIZ, M.I. **Matemática Ensino Médio** . São Paulo: Saraiva, 6ª edição, 2010.
 
-DANTE, L. R. **Matemática** : Contexto e Aplicações. São Paulo: Ática, 2011. 
+## **Campus Curitiba do IFPR**
 
-IEZZI, G.; DOLCE,O. ; DEGENSZAJIN, D.; PÉRIGO, R.; ALMEIDA, N. **Matemática** : Ciência e Aplicações. São Paulo: Saraiva, 2010. 
+**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : MATEMÁTICA III **Carga Horária** : 120 **Período letivo:** 3º ano
 
-GIOVANNI, J. R.; BONJORNO, J.R. **Matemática Completa** . São Paulo: FTD. 2002. 
+## **Ementa:**
 
-RIBEIRO, J. **Matemática** . São Paulo: Scipione, 2011. 
+GEOMETRIA ANALÍTICA – PONTOS E RETAS (reta orientada, distância entre dois pontos na reta, razão de secção, sistema de coordenadas cartesianas, distância entre dois pontos no plano cartesiano, coordenadas do ponto médio, estudo da reta, condição de alinhamento de três pontos, equação geral da reta, inclinação e coeficiente angular, cálculo do coeficiente angular, equação da reta conhecido um ponto e o coeficiente angular, equação reduzida da reta, equação segmentária da reta, equações paramétricas da reta, posições relativas de duas retas no plano cartesiano, pontos e retas simétricas em relação a uma reta dada, ângulo entre duas retas, distância entre ponto e reta, bissetriz de duas retas, cálculo da área de um triângulo) GEOMETRIA ANALÍTICA: ESTUDO DA CIRCUNFERÊNCIA (equação reduzida e equação geral da circunferência, posições relativas de um ponto e uma circunferência, posições relativas de uma reta e uma circunferência); CONJUNTO DOS NÚMEROS COMPLEXOS (forma algébrica, plano de Argand-Gauss, igualdade de complexos, conjugado de um complexo, operações com complexos, potências de i, representação geométrica de um número complexo, módulo e argumento de um número complexo, forma trigonométrica de um número complexo, operações na forma trigonométrica); POLINÔMIOS E EQUAÇÕES POLINOMIAIS (grau de um polinômio, valor numérico, adição, subtração e multiplicação, polinômio identicamente nulo, identidade de polinômios, divisão: método da chave, método dos coeficientes a determinar, divisão de P(x) por: binômio tipo (ax+b) e binômio tipo (x-a), divisão de P(x) por um produto de - - - º binômios (x a).(x b), Dispositivo de Briot Ruffini, decomposição de polinômio do 2 grau em fatores,
 
-SMOLE, K.S.; DINIZ, M.I. **Matemática Ensino Médio** . São Paulo: Saraiva, 6ª edição, 2010. 
+32
 
-## **Campus Curitiba do IFPR** 
+INSTITUTOFEDERAL PARANA
 
-**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : MATEMÁTICA III **Carga Horária** : 120 **Período letivo:** 3º ano 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-## **Ementa:** 
+decomposição de um polinômio de grau maior ou igual a três, raízes duplas, triplas, entre outras, teorema fundamental da álgebra, multiplicidade de uma raiz, raízes nulas e raízes complexas, relações de Girard, raízes racionais). MATEMÁTICA FINANCEIRA (porcentagem, juros simples, juros compostos);
 
-GEOMETRIA ANALÍTICA – PONTOS E RETAS (reta orientada, distância entre dois pontos na reta, razão de secção, sistema de coordenadas cartesianas, distância entre dois pontos no plano cartesiano, coordenadas do ponto médio, estudo da reta, condição de alinhamento de três pontos, equação geral da reta, inclinação e coeficiente angular, cálculo do coeficiente angular, equação da reta conhecido um ponto e o coeficiente angular, equação reduzida da reta, equação segmentária da reta, equações paramétricas da reta, posições relativas de duas retas no plano cartesiano, pontos e retas simétricas em relação a uma reta dada, ângulo entre duas retas, distância entre ponto e reta, bissetriz de duas retas, cálculo da área de um triângulo) GEOMETRIA ANALÍTICA: ESTUDO DA CIRCUNFERÊNCIA (equação reduzida e equação geral da circunferência, posições relativas de um ponto e uma circunferência, posições relativas de uma reta e uma circunferência); CONJUNTO DOS NÚMEROS COMPLEXOS (forma algébrica, plano de Argand-Gauss, igualdade de complexos, conjugado de um complexo, operações com complexos, potências de i, representação geométrica de um número complexo, módulo e argumento de um número complexo, forma trigonométrica de um número complexo, operações na forma trigonométrica); POLINÔMIOS E EQUAÇÕES POLINOMIAIS (grau de um polinômio, valor numérico, adição, subtração e multiplicação, polinômio identicamente nulo, identidade de polinômios, divisão: método da chave, método dos coeficientes a determinar, divisão de P(x) por: binômio tipo (ax+b) e binômio tipo (x-a), divisão de P(x) por um produto de - - - º binômios (x a).(x b), Dispositivo de Briot Ruffini, decomposição de polinômio do 2 grau em fatores, 
+## **Bibliografia Básica:**
 
-32 
+BARROSO, J.M. **Conexões com a Matemática** . São Paulo: Moderna, 2010.
 
-INSTITUTOFEDERAL PARANA 
+BARROSO, J.M.; POZZANI, A. P. **Matemática** : Caderno de Revisão. São Paulo: Moderna, 2010.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+SOUZA, J. **Matemática** – Coleção Novo Olhar. São Paulo:FTD, 2010.
 
-decomposição de um polinômio de grau maior ou igual a três, raízes duplas, triplas, entre outras, teorema fundamental da álgebra, multiplicidade de uma raiz, raízes nulas e raízes complexas, relações de Girard, raízes racionais). MATEMÁTICA FINANCEIRA (porcentagem, juros simples, juros compostos); 
+IEZZI, G. **Fundamentos da Matemática** : complexos e polinômios. Vol. 6. 7ª ed. São Paulo: Atual editora, 2004.
 
-## **Bibliografia Básica:** 
+IEZZI, G. **Fundamentos da Matemática** : geometria espacial. Vol. 10. 5ª ed. São Paulo: Saraiva, 1993.
 
-BARROSO, J.M. **Conexões com a Matemática** . São Paulo: Moderna, 2010. 
+## **Bibliografia Complementar:**
 
-BARROSO, J.M.; POZZANI, A. P. **Matemática** : Caderno de Revisão. São Paulo: Moderna, 2010. 
+DANTE, L. R. **Matemática** : Contexto e Aplicações. São Paulo: Ática, 2011.
 
-SOUZA, J. **Matemática** – Coleção Novo Olhar. São Paulo:FTD, 2010. 
+IEZZI, G.; DOLCE,O. ; DEGENSZAJIN, D.; PÉRIGO, R.; ALMEIDA, N. **Matemática** : Ciência e Aplicações. São Paulo: Saraiva, 2010.
 
-IEZZI, G. **Fundamentos da Matemática** : complexos e polinômios. Vol. 6. 7ª ed. São Paulo: Atual editora, 2004. 
+GIOVANNI, J. R.; BONJORNO, J.R. **Matemática Completa** . São Paulo: FTD. 2002.
 
-IEZZI, G. **Fundamentos da Matemática** : geometria espacial. Vol. 10. 5ª ed. São Paulo: Saraiva, 1993. 
+RIBEIRO, J. **Matemática** . São Paulo: Scipione, 2011.
 
-## **Bibliografia Complementar:** 
+SMOLE, K.S.; DINIZ, M.I. **Matemática Ensino Médio** . São Paulo: Saraiva, 6ª edição, 2010.
 
-DANTE, L. R. **Matemática** : Contexto e Aplicações. São Paulo: Ática, 2011. 
+## **Campus Curitiba do IFPR**
 
-IEZZI, G.; DOLCE,O. ; DEGENSZAJIN, D.; PÉRIGO, R.; ALMEIDA, N. **Matemática** : Ciência e Aplicações. São Paulo: Saraiva, 2010. 
+**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : GEOGRAFIA I **Carga Horária** : 80 **Período letivo:** 1º ano
 
-GIOVANNI, J. R.; BONJORNO, J.R. **Matemática Completa** . São Paulo: FTD. 2002. 
+## **Ementa:**
 
-RIBEIRO, J. **Matemática** . São Paulo: Scipione, 2011. 
+Conceitos instrumentais de Geografia e de espaço natural – A ciência geográfica. Localização e orientação, Os mapas, Representação cartográfica, Tecnologias modernas aplicadas à cartografia, Estrutura Geológica, As estruturas e formas de relevo, Uso e conservação do solo, Os fenômenos climáticos, Hidrografia, Biomas e formações vegetais, As conferências em defesa do meio ambiente. **Bibliografia Básica:**
 
-SMOLE, K.S.; DINIZ, M.I. **Matemática Ensino Médio** . São Paulo: Saraiva, 6ª edição, 2010. 
+ALMEIDA, R. D. **Do desenho ao mapa: iniciação cartográfica na escola** . São Paulo: Contexto, 2001. 115p.
 
-## **Campus Curitiba do IFPR** 
+ROSS, J. L. S. **Geomorfologia, ambiente e planejamento** . São Paulo: Contexto, 1990.
 
-**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : GEOGRAFIA I **Carga Horária** : 80 **Período letivo:** 1º ano 
+GONÇALVES, Carlos Walter Porto. **Os (des) caminhos do meio ambiente.** 8ª ed. São Paulo: Contexto, 2001.
 
-## **Ementa:** 
+## **Bibliografia Complementar:**
 
-Conceitos instrumentais de Geografia e de espaço natural – A ciência geográfica. Localização e orientação, Os mapas, Representação cartográfica, Tecnologias modernas aplicadas à cartografia, Estrutura Geológica, As estruturas e formas de relevo, Uso e conservação do solo, Os fenômenos climáticos, Hidrografia, Biomas e formações vegetais, As conferências em defesa do meio ambiente. **Bibliografia Básica:** 
+PFLUCK, L. D. **Mapeamento Geo-ambiental e Planejamento Urbano** . Edunioeste- Universidade
 
-ALMEIDA, R. D. **Do desenho ao mapa: iniciação cartográfica na escola** . São Paulo: Contexto, 2001. 115p. 
+33
 
-ROSS, J. L. S. **Geomorfologia, ambiente e planejamento** . São Paulo: Contexto, 1990. 
+INSTITUTOFEDERAL PARANA
 
-GONÇALVES, Carlos Walter Porto. **Os (des) caminhos do meio ambiente.** 8ª ed. São Paulo: Contexto, 2001. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-## **Bibliografia Complementar:** 
+Estadual do Oeste do Paraná. Cascavel, 2002, p.57 -115.
 
-PFLUCK, L. D. **Mapeamento Geo-ambiental e Planejamento Urbano** . Edunioeste- Universidade 
+MENDONÇA, Francisco. Geografia socioambiental. In: MENDONÇA, F; KOZEL, S. (Orgs **). Elementos de Epistemologia da Geografia Contemporânea** . Curitiba. UFPR, 2002.121-144. ROSS, Jurandir Sanches (org.). **Geografia do Brasil** . São Paulo: EDUSP, 1995.
 
-33 
+## **Campus Curitiba do IFPR**
 
-INSTITUTOFEDERAL PARANA 
+**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : GEOGRAFIA II **Carga Horária** : 80 **Período letivo:** 2º ano
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## **Ementa:**
 
-Estadual do Oeste do Paraná. Cascavel, 2002, p.57 -115. 
+Apresentação dos processos históricos que constituíram o quadro de industrialização no Brasil. Reflexão acerca da produção de energia mundial e brasileira – energias não-renováveis x energia limpa. Características da população mundial e brasileira, enfatizando no caso do Brasil aspectos culturais e sociais. Estudo dos aspectos demográficos mundiais e brasileiros, relacionando as mudanças sociais, políticas e econômicas com o atual panorama populacional. Estudo do espaço urbano, aprofundando a questão das origens das cidades e principais problemas enfrentados com a urbanização no Brasil. Estudo do espaço rural brasileiro, focando em sua importância econômica e suas profundas desigualdades sociais.
 
-MENDONÇA, Francisco. Geografia socioambiental. In: MENDONÇA, F; KOZEL, S. (Orgs **). Elementos de Epistemologia da Geografia Contemporânea** . Curitiba. UFPR, 2002.121-144. ROSS, Jurandir Sanches (org.). **Geografia do Brasil** . São Paulo: EDUSP, 1995. 
+## **Bibliografia Básica:**
 
-## **Campus Curitiba do IFPR** 
+ANDRADE, Manuel Correia de. **Geografia Econômica.** São Paulo: Atlas, 1998. BENKO, Georges. **Economia, espaço e globalização na aurora do século XXI** . São Paulo: Hucitec, 1996.
 
-**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : GEOGRAFIA II **Carga Horária** : 80 **Período letivo:** 2º ano 
+CARLOS, Ana Fani Alessandri. **Espaço e indústria** . São Paulo: Contexto, 1997 (Repensando a Geografia).
 
-## **Ementa:** 
+ROSS, Jurandir Sanches (org.). **Geografia do Brasil** . São Paulo: EDUSP, 1995.
 
-Apresentação dos processos históricos que constituíram o quadro de industrialização no Brasil. Reflexão acerca da produção de energia mundial e brasileira – energias não-renováveis x energia limpa. Características da população mundial e brasileira, enfatizando no caso do Brasil aspectos culturais e sociais. Estudo dos aspectos demográficos mundiais e brasileiros, relacionando as mudanças sociais, políticas e econômicas com o atual panorama populacional. Estudo do espaço urbano, aprofundando a questão das origens das cidades e principais problemas enfrentados com a urbanização no Brasil. Estudo do espaço rural brasileiro, focando em sua importância econômica e suas profundas desigualdades sociais. 
+## **Bibliografia Complementar:**
 
-## **Bibliografia Básica:** 
+AZZONI, Carlos Roberto. **Onde Produzir? Aplicação da Teoria da localização no Brasil** . São Paulo: IPE-USP, 1985. BECKOUSECHE, Pierre. **Indústria em só mundo** . São Paulo: Ática, 1998 (Geografia Hoje) CLEMENT, Ademir. **Economia regional e urbana** . São Paulo: Atlas, 1994.
 
-ANDRADE, Manuel Correia de. **Geografia Econômica.** São Paulo: Atlas, 1998. BENKO, Georges. **Economia, espaço e globalização na aurora do século XXI** . São Paulo: Hucitec, 1996. 
+DEAN, Warren,. **A industrialização de São Paulo.** Rio de Janeiro: Bertrand Brasil, 1991. GEORGE, Pierre, et al (orgs.). **Geografia Ativa** . São Paulo: Difel, 1980. HUNT, E. K, SHERMAN, H. J. **História do pensamento econômico** . Petrópolis: Vozes, 1998. MANZAGOL, Claude. **Lógica do espaço industrial** . São Paulo, 1985. OLIVEIRA, Ariovaldo Umbelino de. **Amazônia** : monopólio, expropriação e conflitos. Campinas (SP): Papirus, 1990. (Série Educando)
 
-CARLOS, Ana Fani Alessandri. **Espaço e indústria** . São Paulo: Contexto, 1997 (Repensando a Geografia). 
+34
 
-ROSS, Jurandir Sanches (org.). **Geografia do Brasil** . São Paulo: EDUSP, 1995. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-## **Bibliografia Complementar:** 
+INSTITUTOFEDERAL PARANA
 
-AZZONI, Carlos Roberto. **Onde Produzir? Aplicação da Teoria da localização no Brasil** . São Paulo: IPE-USP, 1985. BECKOUSECHE, Pierre. **Indústria em só mundo** . São Paulo: Ática, 1998 (Geografia Hoje) CLEMENT, Ademir. **Economia regional e urbana** . São Paulo: Atlas, 1994. 
+## **Campus Curitiba do IFPR**
 
-DEAN, Warren,. **A industrialização de São Paulo.** Rio de Janeiro: Bertrand Brasil, 1991. GEORGE, Pierre, et al (orgs.). **Geografia Ativa** . São Paulo: Difel, 1980. HUNT, E. K, SHERMAN, H. J. **História do pensamento econômico** . Petrópolis: Vozes, 1998. MANZAGOL, Claude. **Lógica do espaço industrial** . São Paulo, 1985. OLIVEIRA, Ariovaldo Umbelino de. **Amazônia** : monopólio, expropriação e conflitos. Campinas (SP): Papirus, 1990. (Série Educando) 
+**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : GEOGRAFIA III **Carga Horária** : 80 **Período letivo:** 3º ano
 
-34 
+## **Ementa:**
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+A regionalização do mundo - O Capitalismo; O Socialismo; Capitalismo X Socialismo – Guerra Fria; O mundo pós Guerra Fria; A internacionalização do capital; O subdesenvolvimento; Novos Países Industrializados: substituição de importações; Novos Países Industrializados: plataforma de exportação; O Comércio Mundial; União Européia; Outros blocos econômicos; As novas migrações internacionais e a xenofobia; Nacionalismo, separatismo e minorias étnicas; O Islã – entre a paz e o terrorismo; Oriente Médio; O mundo sem a URSS - As mudanças no território do leste europeu e no mundo com o fim da URSS; O Novo Leste Europeu; A comunidade dos Estados Independentes; China – um país , dois sistemas; Coréia do Norte, Cube e Vietnã; América Latina; África; Reino Unido e França; Itália e Alemanha; Canadá e Japão; Austrália e Nova Zelândia – os ricos do sul; Estados Unidos – a superpotência mundial.
 
-INSTITUTOFEDERAL PARANA 
+## **Bibliografia Básica:**
 
-## **Campus Curitiba do IFPR** 
+CASTELLS, M. **A sociedade em rede** . 3 ed.São Paulo: paz e Terra. 1999. (A era da informação: economia, sociedade e cultura, v. 1)
 
-**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : GEOGRAFIA III **Carga Horária** : 80 **Período letivo:** 3º ano 
+HARVEY, D. **A condição pós moderna** : uma pesquisa sobre as origens da mudança cultural. São Paulo: Loyola, 1993.
 
-## **Ementa:** 
+SANTOS, M. **A natureza do espaço: técnica e tempo, razão e emoção.** São Paulo: Ed. da USP, 2004.
 
-A regionalização do mundo - O Capitalismo; O Socialismo; Capitalismo X Socialismo – Guerra Fria; O mundo pós Guerra Fria; A internacionalização do capital; O subdesenvolvimento; Novos Países Industrializados: substituição de importações; Novos Países Industrializados: plataforma de exportação; O Comércio Mundial; União Européia; Outros blocos econômicos; As novas migrações internacionais e a xenofobia; Nacionalismo, separatismo e minorias étnicas; O Islã – entre a paz e o terrorismo; Oriente Médio; O mundo sem a URSS - As mudanças no território do leste europeu e no mundo com o fim da URSS; O Novo Leste Europeu; A comunidade dos Estados Independentes; China – um país , dois sistemas; Coréia do Norte, Cube e Vietnã; América Latina; África; Reino Unido e França; Itália e Alemanha; Canadá e Japão; Austrália e Nova Zelândia – os ricos do sul; Estados Unidos – a superpotência mundial. 
+## **Bibliografia Complementar:**
 
-## **Bibliografia Básica:** 
+CLAVAL, P. **História da Geografia** . Lisboa: Edições 60, 2006.
 
-CASTELLS, M. **A sociedade em rede** . 3 ed.São Paulo: paz e Terra. 1999. (A era da informação: economia, sociedade e cultura, v. 1) 
+JAMENSON, F. **A cultura do dinheiro** : ensaios sobre a globalização. Petrópolis: Vozes, 2001.
 
-HARVEY, D. **A condição pós moderna** : uma pesquisa sobre as origens da mudança cultural. São Paulo: Loyola, 1993. 
+KURZ, R. **O colapso da modernização** : da derrocada do socialismo de caserna á crise da economia mundial. São Paulo: Paz e Terra, 1993.
 
-SANTOS, M. **A natureza do espaço: técnica e tempo, razão e emoção.** São Paulo: Ed. da USP, 2004. 
+LACOSTE, Y. **A geografia serve, em primeiro lugar, para fazer a guerra** . Campinas: Papirus, 1988.
 
-## **Bibliografia Complementar:** 
+LEONARD, M. **O que a China pensa?** São Paulo: Laurosse do Brasil.,1991.
 
-CLAVAL, P. **História da Geografia** . Lisboa: Edições 60, 2006. 
+RAFESTIN, C. **Por uma geografia do poder** . São Paulo: Ática, 1993.
 
-JAMENSON, F. **A cultura do dinheiro** : ensaios sobre a globalização. Petrópolis: Vozes, 2001. 
+REIS, FILHO, D.A.: FERREIRA, J. ZENHA, C. **O século XX** - O tempo das crises, revoluções, fascismos e guerra: Rio de Janeiro: Civilização brasileira, 2000.
 
-KURZ, R. **O colapso da modernização** : da derrocada do socialismo de caserna á crise da economia mundial. São Paulo: Paz e Terra, 1993. 
-
-LACOSTE, Y. **A geografia serve, em primeiro lugar, para fazer a guerra** . Campinas: Papirus, 1988. 
-
-LEONARD, M. **O que a China pensa?** São Paulo: Laurosse do Brasil.,1991. 
-
-RAFESTIN, C. **Por uma geografia do poder** . São Paulo: Ática, 1993. 
-
-REIS, FILHO, D.A.: FERREIRA, J. ZENHA, C. **O século XX** - O tempo das crises, revoluções, fascismos e guerra: Rio de Janeiro: Civilização brasileira, 2000. 
-
-TREVIZAN, C. **China** : o renascimento do império. São Paulo: Companhia das Letras, 2007. 
+TREVIZAN, C. **China** : o renascimento do império. São Paulo: Companhia das Letras, 2007.
 
 |**Campus Curitiba do IFPR**|**Campus Curitiba do IFPR**|
 |---|---|
@@ -1305,133 +1240,119 @@ TREVIZAN, C. **China** : o renascimento do império. São Paulo: Companhia das L
 |**Componente Curricular**: HISTORIA I||
 |**Carga Horária**: 80|**Período letivo:**1º ano|
 
+35
 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-35 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## **Ementa:**
 
-INSTITUTOFEDERAL PARANA 
+Análise da historiografia presente no livro didático de História (PNLD, 2012) a respeito da história Clássica: economia, sociedade e política, assim como do período medieval incluindo capítulos sobre a história da Europa Ocidental, da América, da África do Oriente edo Antigo Regime.
 
-## **Ementa:** 
+## **Bibliografia Básica:**
 
-Análise da historiografia presente no livro didático de História (PNLD, 2012) a respeito da história Clássica: economia, sociedade e política, assim como do período medieval incluindo capítulos sobre a história da Europa Ocidental, da América, da África do Oriente edo Antigo Regime. 
+LE GOFF, Jacques. **A Idade Média Explicada a meus Filhos** . Rio de Janeiro: Agir, 2007. **História da Vida Privada no Brasil** (vol. 1) Fernando Novais (org.), 523 págs., Ed. Cia. das Letras.
 
-## **Bibliografia Básica:** 
+VAINFAS. Ronaldo,...[et al.]. **História:** das sociedades sem Estado às monarquias absolutistas. V.1. São Paulo: Saraiva, 2010.
 
-LE GOFF, Jacques. **A Idade Média Explicada a meus Filhos** . Rio de Janeiro: Agir, 2007. **História da Vida Privada no Brasil** (vol. 1) Fernando Novais (org.), 523 págs., Ed. Cia. das Letras. 
+GINZBURG, Carlo. **O queijo e os vermes** : o cotidiano e as ideias de um moleiro perseguido pela Inquisição. São Paulo: Companhia das Letras, 1998.
 
-VAINFAS. Ronaldo,...[et al.]. **História:** das sociedades sem Estado às monarquias absolutistas. V.1. São Paulo: Saraiva, 2010. 
+## **Bibliografia Complementar:**
 
-GINZBURG, Carlo. **O queijo e os vermes** : o cotidiano e as ideias de um moleiro perseguido pela Inquisição. São Paulo: Companhia das Letras, 1998. 
+BOXER, Charles. **A Idade de Ouro do Brasil** . São Paulo: Cia Editora Nacional, 1963.
 
-## **Bibliografia Complementar:** 
+Colonial; São Paulo: Cia das letras, 1988.
 
-BOXER, Charles. **A Idade de Ouro do Brasil** . São Paulo: Cia Editora Nacional, 1963. 
+DUBY, Georges. **Guerreiros e Camponeses** Os Primórdios do Crescimento Econômico Europeu - Séculos VII - XII; Lisboa: Estampa, 1993.
 
-Colonial; São Paulo: Cia das letras, 1988. 
+DUBY, Georges. **O Tempo das Catedrais** . Lisboa: Estampa, 1993
 
-DUBY, Georges. **Guerreiros e Camponeses** Os Primórdios do Crescimento Econômico Europeu - Séculos VII - XII; Lisboa: Estampa, 1993. 
+GARRAFFONI, Renata Senna. **Gladiadores na Roma Antiga** _: dos combates às paixões cotidianas._ São Paulo: Annablume/Fapesp, 2005.
 
-DUBY, Georges. **O Tempo das Catedrais** . Lisboa: Estampa, 1993 
+GRIMAL, Pierre. A Civilização Romana. Lisboa: Edições 70, 2001
 
-GARRAFFONI, Renata Senna. **Gladiadores na Roma Antiga** _: dos combates às paixões cotidianas._ São Paulo: Annablume/Fapesp, 2005. 
+## **Campus Curitiba do IFPR**
 
-GRIMAL, Pierre. A Civilização Romana. Lisboa: Edições 70, 2001 
+**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : HISTORIA II **Carga Horária** : 80 **Período letivo:** 2º ano
 
-## **Campus Curitiba do IFPR** 
+**Ementa:**
 
-**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : HISTORIA II **Carga Horária** : 80 **Período letivo:** 2º ano 
+Compreensão dos principais aspectos históricos que marcaram os séculos XVI, XVII, XVIII e parte do XIX, tanto no Brasil como fora dele, procurando entender de que forma os aspectos da chamada modernidade são fundamentais para a formação do homem contemporâneo, tanto em suas possibilidades, quanto em suas limitações e problemas.
 
-**Ementa:** 
+## **Bibliografia Básica:**
 
-Compreensão dos principais aspectos históricos que marcaram os séculos XVI, XVII, XVIII e parte do XIX, tanto no Brasil como fora dele, procurando entender de que forma os aspectos da chamada modernidade são fundamentais para a formação do homem contemporâneo, tanto em suas possibilidades, quanto em suas limitações e problemas. 
+LE GOFF, J. **Por amor às cidades** : conversações com Jean Lebrun. São Paulo: UNESP, 1988. DUBY, G. (Org.). **História da vida privada** 2: da Europa feudal à Renascença. São Paulo: Companhia das Letras, 1990.
 
-## **Bibliografia Básica:** 
+NOVAIS, F.(Dir.); ALENCASTRO, L.F. de (Org.). **História da Vida privada no Brasil** . São
 
-LE GOFF, J. **Por amor às cidades** : conversações com Jean Lebrun. São Paulo: UNESP, 1988. DUBY, G. (Org.). **História da vida privada** 2: da Europa feudal à Renascença. São Paulo: Companhia das Letras, 1990. 
+Paulo: Companhia das Letras, 1997, 4 v.
 
-NOVAIS, F.(Dir.); ALENCASTRO, L.F. de (Org.). **História da Vida privada no Brasil** . São 
+36
 
-Paulo: Companhia das Letras, 1997, 4 v. 
+INSTITUTOFEDERAL PARANA
 
-36 
+MinisteriodaEducacao<br>InstitutoFederaldoParana<br>## **Bibliografia Complementar:**
 
-INSTITUTOFEDERAL PARANA 
+BRASIL. Secretaria de Educação Fundamental. Parâmetros Curriculares nacionais: terceiro e quarto ciclos do ensino fundamental: introdução aos Parâmetros Curriculares Nacionais. Brasília: MEC/SEF, 1998.
 
-**==> picture [96 x 20] intentionally omitted <==**
+BITTENCOURT, Circe M. F. **O saber histórico em sala de aula** . São Paulo: Contexto, 1990.
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+BURKE, P. **A escrita da História** : novas perspectivas. São Paulo: UNESP, 1992.
 
+DUBY, G. (Org.). **História da vida privada** 2: da Europa feudal à Renascença. São Paulo: Companhia das Letras, 1990.
 
-## **Bibliografia Complementar:** 
+FERRO, M. **História das colonizações** : das conquistas às independências.  Século XIII
 
-BRASIL. Secretaria de Educação Fundamental. Parâmetros Curriculares nacionais: terceiro e quarto ciclos do ensino fundamental: introdução aos Parâmetros Curriculares Nacionais. Brasília: MEC/SEF, 1998. 
+a XX. São Paulo: Companhia das Letras, 1996.
 
-BITTENCOURT, Circe M. F. **O saber histórico em sala de aula** . São Paulo: Contexto, 1990. 
+FONSECA, T. N. de Lima. **História e Ensino de História** . Belo Horizonte: Autêntica, 2006. HOBSBAWM, E. **Sobre História** . São Paulo: Companhia das Letras, 1998.
 
-BURKE, P. **A escrita da História** : novas perspectivas. São Paulo: UNESP, 1992. 
+HOBSBAWM, Eric. **Da Revolução Inglesa ao Imperialismo** . Forense Universitária, 2009.
 
-DUBY, G. (Org.). **História da vida privada** 2: da Europa feudal à Renascença. São Paulo: Companhia das Letras, 1990. 
+LE GOFF, J. **Por amor às cidades: conversações com Jean Lebrun** . São Paulo: UNESP, 1988.
 
-FERRO, M. **História das colonizações** : das conquistas às independências.  Século XIII 
+MARKUN, Paulo. **Cabeza de Vaca** . Companhia das Letras, 2009.
 
-a XX. São Paulo: Companhia das Letras, 1996. 
+NOVAIS, F.(Dir.); ALENCASTRO, L.F. de (Org.). **História da Vida privada no Brasi** l. SãoPaulo: Companhia das Letras, 1997, 4 v.
 
-FONSECA, T. N. de Lima. **História e Ensino de História** . Belo Horizonte: Autêntica, 2006. HOBSBAWM, E. **Sobre História** . São Paulo: Companhia das Letras, 1998. 
+PINSKY, Carla B. (Org.). **Fontes Históricas** . São Paulo: Contexto, 2005.
 
-HOBSBAWM, Eric. **Da Revolução Inglesa ao Imperialismo** . Forense Universitária, 2009. 
+SCHWARCZ, L. M. **As barbas do imperador** . São Paulo: Companhia das Letras, 1998. STADEN, Hans. **Duas viagens ao Brasil** . Martin Claret. 2006.
 
-LE GOFF, J. **Por amor às cidades: conversações com Jean Lebrun** . São Paulo: UNESP, 1988. 
+THOREAU, Henry David. **A desobediência civil** . Martin Claret, 2002.
 
-MARKUN, Paulo. **Cabeza de Vaca** . Companhia das Letras, 2009. 
+VAINFAS, R. (Dir.) **Dicionário de Brasil colonial (1500-1808).** Rio de Janeiro: Objetiva, 2002.
 
-NOVAIS, F.(Dir.); ALENCASTRO, L.F. de (Org.). **História da Vida privada no Brasi** l. SãoPaulo: Companhia das Letras, 1997, 4 v. 
+**Campus Curitiba do IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : HISTORIA III **Carga Horária** : 80 **Período letivo:** 3º ano **Ementa:** Análise nas transformações do mundo contemporâneo a partir do final do século XIX até a contemporaneidade. Ênfase nas temáticas culturais e políticas buscando inserir o estudante nos principais temas do mundo atual: ideologia, guerras, papel da mulher, posição das minorias e nas novas relações humanas da sociedade do XXI. Buscar-se-á fazer a interlocução da história brasileira republicana com a chamada história mundial identificando suas conexões históricas e culturais.
 
-PINSKY, Carla B. (Org.). **Fontes Históricas** . São Paulo: Contexto, 2005. 
+37
 
-SCHWARCZ, L. M. **As barbas do imperador** . São Paulo: Companhia das Letras, 1998. STADEN, Hans. **Duas viagens ao Brasil** . Martin Claret. 2006. 
+INSTITUTOFEDERAL PARANA
 
-THOREAU, Henry David. **A desobediência civil** . Martin Claret, 2002. 
+MinisteriodaEducacao<br>InstitutoFederaldoParana<br>## **Bibliografia Básica:**
 
-VAINFAS, R. (Dir.) **Dicionário de Brasil colonial (1500-1808).** Rio de Janeiro: Objetiva, 2002. 
+Orwell, G. A Revolução dos bichos. São Paulo: Companhia das Letras, 2007.
 
-**Campus Curitiba do IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : HISTORIA III **Carga Horária** : 80 **Período letivo:** 3º ano **Ementa:** Análise nas transformações do mundo contemporâneo a partir do final do século XIX até a contemporaneidade. Ênfase nas temáticas culturais e políticas buscando inserir o estudante nos principais temas do mundo atual: ideologia, guerras, papel da mulher, posição das minorias e nas novas relações humanas da sociedade do XXI. Buscar-se-á fazer a interlocução da história brasileira republicana com a chamada história mundial identificando suas conexões históricas e culturais. 
+Huxley, A. Admirável Mundo Novo. Rio de Janeiro: Globo, 2009.
 
-37 
+Morais, F. Olga. São Paulo: Companhia das Letras, 2008.
 
-INSTITUTOFEDERAL PARANA 
+Remarque, E. M. Nada de novo no front. Porto Alegre: LPM.  2004.
 
-**==> picture [96 x 20] intentionally omitted <==**
+Carvalho, J. M. Cidadania no Brasil: o longo caminho. Rio de Janeiro: Civilização Brasileira, 2006.
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+## **Bibliografia Complementar:**
 
+Gabeira, F. O que é isso companheiro? São Paulo: Companhia das Letras. 2009
 
-## **Bibliografia Básica:** 
+Saviano, R. Gomorra: a história real de um jornalista infiltrado na violenta máfia Napolitana. 2009.
 
-Orwell, G. A Revolução dos bichos. São Paulo: Companhia das Letras, 2007. 
+Novais, F. (org.) História da Vida Privada no Brasil: contrastes da intimidade contemporânea. São Paulo: Companhia das Letras. 1988.
 
-Huxley, A. Admirável Mundo Novo. Rio de Janeiro: Globo, 2009. 
+Silva, A. C. A África explicada aos meus filhos. Rio de Janeiro: Agir, 2008.
 
-Morais, F. Olga. São Paulo: Companhia das Letras, 2008. 
-
-Remarque, E. M. Nada de novo no front. Porto Alegre: LPM.  2004. 
-
-Carvalho, J. M. Cidadania no Brasil: o longo caminho. Rio de Janeiro: Civilização Brasileira, 2006. 
-
-## **Bibliografia Complementar:** 
-
-Gabeira, F. O que é isso companheiro? São Paulo: Companhia das Letras. 2009 
-
-Saviano, R. Gomorra: a história real de um jornalista infiltrado na violenta máfia Napolitana. 2009. 
-
-Novais, F. (org.) História da Vida Privada no Brasil: contrastes da intimidade contemporânea. São Paulo: Companhia das Letras. 1988. 
-
-Silva, A. C. A África explicada aos meus filhos. Rio de Janeiro: Agir, 2008. 
-
-Fausto, B. História Concisa do Brasil. São Paulo: EDUSP, 2010. 
+Fausto, B. História Concisa do Brasil. São Paulo: EDUSP, 2010.
 
 |**Campus Curitiba do IFPR**|**Campus Curitiba do IFPR**|
 |---|---|
@@ -1439,229 +1360,227 @@ Fausto, B. História Concisa do Brasil. São Paulo: EDUSP, 2010.
 |**Componente Curricular**: Sociologia I||
 |**Carga Horária**: 40|**Período letivo:**1º ano|
 
+## **Ementa:**
 
+Sociedade e Conhecimento: produção social do conhecimento;contexto histórico da formação da sociologia. Indivíduo e Sociedade: proc esso de socialização; indivíduo e modernidade; sociabilidade contemporânea. Estrutura social e desigualdade: explicações sociológicas clássicas e contemporâneas; desigualdades sociais no Brasil.
 
-## **Ementa:** 
+## **Bibliografia Básica:**
 
-Sociedade e Conhecimento: produção social do conhecimento;contexto histórico da formação da sociologia. Indivíduo e Sociedade: proc esso de socialização; indivíduo e modernidade; sociabilidade contemporânea. Estrutura social e desigualdade: explicações sociológicas clássicas e contemporâneas; desigualdades sociais no Brasil. 
+COSTA, Cristina. **Sociologia** : Introdução à ciência da sociedade. 3ª Ed. São Paulo: Moderna, 2005. GIDDENS, Anthony. **Sociologia** . 6ª ed. Porto Alegre: Penso, 2012. TOMAZI, Nelson Dacio. **Sociologia Para o Ensino Médio** . 2ª ed. São Paulo: Atual, 2007.
 
-## **Bibliografia Básica:** 
+**Bibliografia complementar:** BAUMAN, Zygmunt. **44 cartas do mundo líquido moderno** . Rio de Janeiro: Zahar, 2011.
 
-COSTA, Cristina. **Sociologia** : Introdução à ciência da sociedade. 3ª Ed. São Paulo: Moderna, 2005. GIDDENS, Anthony. **Sociologia** . 6ª ed. Porto Alegre: Penso, 2012. TOMAZI, Nelson Dacio. **Sociologia Para o Ensino Médio** . 2ª ed. São Paulo: Atual, 2007. 
+BERGER, Peter. **Perspectivas sociológicas** . Uma visão humanística 2ª ed. Petrópolis: Vozes,
 
-**Bibliografia complementar:** BAUMAN, Zygmunt. **44 cartas do mundo líquido moderno** . Rio de Janeiro: Zahar, 2011. 
+2004.
 
-BERGER, Peter. **Perspectivas sociológicas** . Uma visão humanística 2ª ed. Petrópolis: Vozes, 
+MARTINS, Carlos Benedito. **O que é Sociologia.** 60ª ed. São Paulo: Brasiliense, 2003.
 
-2004. 
+MILLS, Wrigth C. **Sobre o Artesanato Intelectual e outros ensaios** . Rio de Janeiro: Jorge Zahar Ed., 2009.
 
-MARTINS, Carlos Benedito. **O que é Sociologia.** 60ª ed. São Paulo: Brasiliense, 2003. 
+VELHO, Gilberto **. Individualismo e cultura** : notas para uma antropologia da sociedade contemporânea. Rio de Janeiro: Jorge Zahar Ed., 2008.
 
-MILLS, Wrigth C. **Sobre o Artesanato Intelectual e outros ensaios** . Rio de Janeiro: Jorge Zahar Ed., 2009. 
+38
 
-VELHO, Gilberto **. Individualismo e cultura** : notas para uma antropologia da sociedade contemporânea. Rio de Janeiro: Jorge Zahar Ed., 2008. 
+INSTITUTOFEDERAL PARANA
 
-38 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-INSTITUTOFEDERAL PARANA 
+## **Campus Curitiba do IFPR**
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Sociologia II **Carga Horária:** 40 **Período letivo:** 2º ano
 
-## **Campus Curitiba do IFPR** 
+## **Ementa:**
 
-**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Sociologia II **Carga Horária:** 40 **Período letivo:** 2º ano 
+TRABALHO E SOCIEDADE: Trabalho na formação do homem; Trabalho, Cultura e conhecimento; trabalho no modo de produção capitalista; princípios Taylorista e o sistema Fordista de produção. ATUAIS MUDANÇAS NO MUNDO DO TRABALHO: princípios Toyotista e o sistema Flexível de produção; Discurso da qualidade total, do empreendedorismo e das competências; cultura, consumo e ideologia. ASSIMETRIAS NO MERCADO DE TRABALHO: jovens e o trabalho na contemporaneidade; preconceito, discriminação e desigualdade.
 
-## **Ementa:** 
+**Bibliografia Básica:** FÁVERO, Osmar etall. **Juventude e contemporaneidade** . Brasília: UNESC, MEC, ANPed, 2007 (Coleção Educação para todos;16)
 
-TRABALHO E SOCIEDADE: Trabalho na formação do homem; Trabalho, Cultura e conhecimento; trabalho no modo de produção capitalista; princípios Taylorista e o sistema Fordista de produção. ATUAIS MUDANÇAS NO MUNDO DO TRABALHO: princípios Toyotista e o sistema Flexível de produção; Discurso da qualidade total, do empreendedorismo e das competências; cultura, consumo e ideologia. ASSIMETRIAS NO MERCADO DE TRABALHO: jovens e o trabalho na contemporaneidade; preconceito, discriminação e desigualdade. 
+TOMAZI, Nelson Dacio. **Sociologia Para o Ensino Médio** . 2ª ed. São Paulo: Atual, 2007. SENNETT, Richard. **A corrosão do caráter** . Consequencias pessoais do trabalho no novo capitalismo.7 ª Ed. Rio de Janeiro: Record, 2003.
 
-**Bibliografia Básica:** FÁVERO, Osmar etall. **Juventude e contemporaneidade** . Brasília: UNESC, MEC, ANPed, 2007 (Coleção Educação para todos;16) 
+## **Bibliografia complementar:**
 
-TOMAZI, Nelson Dacio. **Sociologia Para o Ensino Médio** . 2ª ed. São Paulo: Atual, 2007. SENNETT, Richard. **A corrosão do caráter** . Consequencias pessoais do trabalho no novo capitalismo.7 ª Ed. Rio de Janeiro: Record, 2003. 
+ALVES, Giovanni. **Trabalho e cinema** . O mundo do trabalho através do cinema. Londrina: Praxis, 2008. V. 1-2.
 
-## **Bibliografia complementar:** 
+CASTEL.  Robert. **A metamorfose da questão social** : uma crônica do salário. 4ª Petrópolis: Vozes, 2003.
 
-ALVES, Giovanni. **Trabalho e cinema** . O mundo do trabalho através do cinema. Londrina: Praxis, 2008. V. 1-2. 
+GIDDENS, Anthony. **Sociologia.** 6ª ed. Porto Alegre: Penso, 2012.
 
-CASTEL.  Robert. **A metamorfose da questão social** : uma crônica do salário. 4ª Petrópolis: Vozes, 2003. 
+GOFFMAN, Erving. Estigma. **Notas sobre a identidade deteriorada** . 4ª. Rio de Janeiro: Guanabara, 2004.
 
-GIDDENS, Anthony. **Sociologia.** 6ª ed. Porto Alegre: Penso, 2012. 
+VELHO, Gilberto. **Individualismo e cultura** : notas para uma antropologia da sociedade contemporânea. Rio de Janeiro: Jorge Zahar Ed., 2008.
 
-GOFFMAN, Erving. Estigma. **Notas sobre a identidade deteriorada** . 4ª. Rio de Janeiro: Guanabara, 2004. 
+## **Campus Curitiba do IFPR**
 
-VELHO, Gilberto. **Individualismo e cultura** : notas para uma antropologia da sociedade contemporânea. Rio de Janeiro: Jorge Zahar Ed., 2008. 
+**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Sociologia III **Carga Horária:** 40 **Período letivo:** 3º ano
 
-## **Campus Curitiba do IFPR** 
+39
 
-**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Sociologia III **Carga Horária:** 40 **Período letivo:** 3º ano 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-39 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## **Ementa:**
 
-INSTITUTOFEDERAL PARANA 
+PODER, POLÍTICA E ESTADO: surgimento e transformações do Estado moderno; teorias sociológicas clássicas sobre o Estado; Democracia, partidos políticos e representação. POLÍTICA,CIDADANIA E MOVIMENTOS SOCIAIS: Direitos e cidadania; Movimentos sociais no mundo. DIREITOS E CIDADANIA NO BRASIL: lutas no período colonial e no Brasil República; cidadania regulada; Movimento operário e os novos movimentos sociais; jovens e a política.
 
-## **Ementa:** 
+## **Bibliografia Básica:**
 
-PODER, POLÍTICA E ESTADO: surgimento e transformações do Estado moderno; teorias sociológicas clássicas sobre o Estado; Democracia, partidos políticos e representação. POLÍTICA,CIDADANIA E MOVIMENTOS SOCIAIS: Direitos e cidadania; Movimentos sociais no mundo. DIREITOS E CIDADANIA NO BRASIL: lutas no período colonial e no Brasil República; cidadania regulada; Movimento operário e os novos movimentos sociais; jovens e a política. 
+FÁVERO, Osmar etall. **Juventude e contemporaneidade** . Brasília: UNESC, MEC, ANPed, 2007 (Coleção Educação para todos;16)
 
-## **Bibliografia Básica:** 
+OLIVEIRA, Francisco e RIZEK, Cibele S (orgs) **. A era da indeterminação** . São Paulo: Boitempo, 2007.
 
-FÁVERO, Osmar etall. **Juventude e contemporaneidade** . Brasília: UNESC, MEC, ANPed, 2007 (Coleção Educação para todos;16) 
+TOMAZI, Nelson Dacio. **Sociologia Para o Ensino Médio** . 2ª ed. São Paulo: Atual, 2007.
 
-OLIVEIRA, Francisco e RIZEK, Cibele S (orgs) **. A era da indeterminação** . São Paulo: Boitempo, 2007. 
+## **Bibliografia complementar:**
 
-TOMAZI, Nelson Dacio. **Sociologia Para o Ensino Médio** . 2ª ed. São Paulo: Atual, 2007. 
+BAUMAN, Zygmunt. **44 cartas do mundo líquido moderno** . Rio de Janeiro: Zahar, 2011.
 
-## **Bibliografia complementar:** 
+BOBBIO, Norberto. **Estado, governo, sociedade** : para uma teoria geral da política.14ª Ed,. Rio de Janeiro: Paz e Terra, 1987
 
-BAUMAN, Zygmunt. **44 cartas do mundo líquido moderno** . Rio de Janeiro: Zahar, 2011. 
+FAORO, Raymundo. **A república inacabada** . Rio de Janeiro: Globo, 2007
 
-BOBBIO, Norberto. **Estado, governo, sociedade** : para uma teoria geral da política.14ª Ed,. Rio de Janeiro: Paz e Terra, 1987 
+REIS, Jose Carlos. **As identidades do Brasil** . De Varnhagen a FHC. 9ª Ed. São Paulo: FGV, 2007.
 
-FAORO, Raymundo. **A república inacabada** . Rio de Janeiro: Globo, 2007 
+VELHO, Gilberto. **Individualismo e cultura** : notas para uma antropologia da sociedade contemporânea. Rio de Janeiro: Jorge Zahar Ed., 2008.
 
-REIS, Jose Carlos. **As identidades do Brasil** . De Varnhagen a FHC. 9ª Ed. São Paulo: FGV, 2007. 
+## **Campus Curitiba do IFPR**
 
-VELHO, Gilberto. **Individualismo e cultura** : notas para uma antropologia da sociedade contemporânea. Rio de Janeiro: Jorge Zahar Ed., 2008. 
+**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : FILOSOFIA I **Carga Horária** : 40 **Período letivo:** 1º ano **Ementa:**
 
-## **Campus Curitiba do IFPR** 
+Conhecer e analisar os principais tópicos da tradição filosófica antiga, desde o rompimento para com a Mitologia até a construção sistemática de Aristóteles, perpassando aspectos da filosofia teórica e prática, conforme descrição:
 
-**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : FILOSOFIA I **Carga Horária** : 40 **Período letivo:** 1º ano **Ementa:** 
+ORIGEM DA FILOSOFIA - Origem da Filosofia
 
-Conhecer e analisar os principais tópicos da tradição filosófica antiga, desde o rompimento para com a Mitologia até a construção sistemática de Aristóteles, perpassando aspectos da filosofia teórica e prática, conforme descrição: 
+- Definição de Filosofia - Áreas da Filosofia
 
-ORIGEM DA FILOSOFIA - Origem da Filosofia 
+O NASCIMENTO DA RACIONALIDADE OCIDENTAL – Heráclito e Parmênides
 
-- Definição de Filosofia - Áreas da Filosofia 
+– Teoria do Conhecimento em Platão e Aristóteles ÉTICA E POLÍTICA: - A construção da ética e da política ocidentais - Política e ética em Platão e Aristóteles
 
-O NASCIMENTO DA RACIONALIDADE OCIDENTAL – Heráclito e Parmênides 
+ELENISMO
 
-– Teoria do Conhecimento em Platão e Aristóteles ÉTICA E POLÍTICA: - A construção da ética e da política ocidentais - Política e ética em Platão e Aristóteles 
+40
 
-ELENISMO 
+INSTITUTOFEDERAL PARANA
 
-40 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-INSTITUTOFEDERAL PARANA 
+- Helenismo e a Filosofia Greco-romana - O novo homem ocidental
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+**Bibliografia Básica:** ARISTÓTELES. **Obras. Poetica. Retorica. Logica. Fisica. Metafisica. Tratados de etica. Politica: constitucion de Atenas.** Madrid, Espanha: Aguilar, s/d.
 
-- Helenismo e a Filosofia Greco-romana - O novo homem ocidental 
+BARNES, Jonathan. **Filósofos pré-socráticos.** 2. ed. São Paulo: M. Fontes, 1997 CHAUÍ, Marilena. **Iniciação à Filosofia: ensino médio.** São Paulo: Ática, 2010.
 
-**Bibliografia Básica:** ARISTÓTELES. **Obras. Poetica. Retorica. Logica. Fisica. Metafisica. Tratados de etica. Politica: constitucion de Atenas.** Madrid, Espanha: Aguilar, s/d. 
+**Bibliografia Complementar:** ABBAGNANO, Nicola. **História da filosofia.** 6. ed. Vol. 1 e 2 Lisboa: Presença, 2000.
 
-BARNES, Jonathan. **Filósofos pré-socráticos.** 2. ed. São Paulo: M. Fontes, 1997 CHAUÍ, Marilena. **Iniciação à Filosofia: ensino médio.** São Paulo: Ática, 2010. 
+REALE, Giovanni; ANTISERI, Dario. **História da filosofia.** Vol. 1 e 2. São Paulo: Paulus, 2003. PLATÃO. **A República.** São Paulo: Difusão Européia do Livro, s/d.
 
-**Bibliografia Complementar:** ABBAGNANO, Nicola. **História da filosofia.** 6. ed. Vol. 1 e 2 Lisboa: Presença, 2000. 
+## **Campus Curitiba do IFPR**
 
-REALE, Giovanni; ANTISERI, Dario. **História da filosofia.** Vol. 1 e 2. São Paulo: Paulus, 2003. PLATÃO. **A República.** São Paulo: Difusão Européia do Livro, s/d. 
+**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : FILOSOFIA II **Carga Horária** : 40 **Período letivo:** 2º ano **Ementa:**
 
-## **Campus Curitiba do IFPR** 
+Conhecer e analisar os principais tópicos da tradição filosófica da medieval e Moderna, em termos de Filosofia Teórica e Política, perpassando o Racionalismo, Empirismo, Contractualismo e Iluminismo, conforme descrição:
 
-**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : FILOSOFIA II **Carga Horária** : 40 **Período letivo:** 2º ano **Ementa:** 
+1 - FILOSOFIA MEDIEVAL E A FUSÃO ENTRE HELENISMO E CRISTIANISMO 1. A transição do Medievo à Idade das Luzes 2. – O ALVORECER DA MODERNIDADE 1. A construção do homem moderno 2.2 - O Renascimento e o novo debate político 2.3 – A construção da ideia de Estado Moderno
 
-Conhecer e analisar os principais tópicos da tradição filosófica da medieval e Moderna, em termos de Filosofia Teórica e Política, perpassando o Racionalismo, Empirismo, Contractualismo e Iluminismo, conforme descrição: 
+3 - O CONTRATUALISMO 3.1 – A consolidação da ideia de Estado Moderno 3.2 – A concepção de Estado de Thomas Hobbes 3.3 – A proposta de Estado de Rousseau e John Locke 4 - O ADVENTO DA CONSCIÊNCIA E DA CIÊNCIA MODERNA 4.1 – O Novo Método de Francis Bacon 4.2 – A Revolução Cartesiano 4.3 – Empirismo e experimentalismo: John Locke e David Hume 5 - FILOSOFIA MODERNA: A RAZÃO COMO PARADIGMA ÉTICO 5.1 – A Ética de Espinosa 5.2 – Immanuel Kant e a emancipação Racional e Moral
 
-1 - FILOSOFIA MEDIEVAL E A FUSÃO ENTRE HELENISMO E CRISTIANISMO 1. A transição do Medievo à Idade das Luzes 2. – O ALVORECER DA MODERNIDADE 1. A construção do homem moderno 2.2 - O Renascimento e o novo debate político 2.3 – A construção da ideia de Estado Moderno 
+41
 
-3 - O CONTRATUALISMO 3.1 – A consolidação da ideia de Estado Moderno 3.2 – A concepção de Estado de Thomas Hobbes 3.3 – A proposta de Estado de Rousseau e John Locke 4 - O ADVENTO DA CONSCIÊNCIA E DA CIÊNCIA MODERNA 4.1 – O Novo Método de Francis Bacon 4.2 – A Revolução Cartesiano 4.3 – Empirismo e experimentalismo: John Locke e David Hume 5 - FILOSOFIA MODERNA: A RAZÃO COMO PARADIGMA ÉTICO 5.1 – A Ética de Espinosa 5.2 – Immanuel Kant e a emancipação Racional e Moral 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-41 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## **Bibliografia Básica:**
 
-INSTITUTOFEDERAL PARANA 
+GOSTINHO. **Confissões.** São Paulo: Nova Cultural, 2000. (Os Pensadores) CHAUÍ, Marilena. **Iniciação à Filosofia: ensino médio.** São Paulo: Ática, 2010.
 
-## **Bibliografia Básica:** 
+DESCARTES, René. **Discurso do método. As paixões da alma. Meditações. Objeções e respostas.** São Paulo: Nova Cultural, 1996. (Os pensadores). HUME, David. **Tratado da natureza humana:** uma tentativa de introduzir o método experimental de raciocínio nos assuntos morais. São Paulo: UNESP, 2001
 
-GOSTINHO. **Confissões.** São Paulo: Nova Cultural, 2000. (Os Pensadores) CHAUÍ, Marilena. **Iniciação à Filosofia: ensino médio.** São Paulo: Ática, 2010. 
+KANT, Immanuel. **À paz perpétua.** Porto Alegre: L & PM, 1989.
 
-DESCARTES, René. **Discurso do método. As paixões da alma. Meditações. Objeções e respostas.** São Paulo: Nova Cultural, 1996. (Os pensadores). HUME, David. **Tratado da natureza humana:** uma tentativa de introduzir o método experimental de raciocínio nos assuntos morais. São Paulo: UNESP, 2001 
+LOCKE, John. **Carta acerca da tolerância. Segundo tratado sobre o governo. Ensaio acerca do entendimento humano.** São Paulo: Abril Cultural, 2000. (Os pensadores). ROUSSEAU, Jean-Jacques. **Contrato social.** São Paulo: Formar, [s.d.]. 130 p. (Grandes mestres do pensamento, 2).
 
-KANT, Immanuel. **À paz perpétua.** Porto Alegre: L & PM, 1989. 
+**Bibliografia Complementar:** ABBAGNANO, Nicola. **História da filosofia.** 6. ed. Vol. 1 e 2 Lisboa: Presença, 2000. REALE, Giovanni; ANTISERI, Dario. **História da filosofia.** Vol. 1 e 2. São Paulo: Paulus, 2003. TOMÁS DE AQUINO, Santo. **Suma Teológica.** 2. ed. Porto Alegre: Escola Superior de Teologia São Lourenço de Brindes, 1980. 12 vol
 
-LOCKE, John. **Carta acerca da tolerância. Segundo tratado sobre o governo. Ensaio acerca do entendimento humano.** São Paulo: Abril Cultural, 2000. (Os pensadores). ROUSSEAU, Jean-Jacques. **Contrato social.** São Paulo: Formar, [s.d.]. 130 p. (Grandes mestres do pensamento, 2). 
+## **Campus Curitiba do IFPR**
 
-**Bibliografia Complementar:** ABBAGNANO, Nicola. **História da filosofia.** 6. ed. Vol. 1 e 2 Lisboa: Presença, 2000. REALE, Giovanni; ANTISERI, Dario. **História da filosofia.** Vol. 1 e 2. São Paulo: Paulus, 2003. TOMÁS DE AQUINO, Santo. **Suma Teológica.** 2. ed. Porto Alegre: Escola Superior de Teologia São Lourenço de Brindes, 1980. 12 vol 
+**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : FILOSOFIA III **Carga Horária** : 40 **Período letivo:** 3º ano
 
-## **Campus Curitiba do IFPR** 
+## **Ementa:**
 
-**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : FILOSOFIA III **Carga Horária** : 40 **Período letivo:** 3º ano 
+Conhecer e analisar os principais tópicos da tradição filosófica da contemporânea, na tentativa de apresentar o posto da Filosofia no contexto atual, refletindo temas do passado recente e presente, conforme descrição:
 
-## **Ementa:** 
+1 - FILOSOFIA CONTEMPORÂNEA 1. - A Crise do Racionalismo Moderno 2. – o Idealismo Absoluto de Hegel e seus prolongamentos 2– A CRISE DE IDENTIDADE FILOSÓFICA 1. – Nietzsche e a revisão da Metafísica
 
-Conhecer e analisar os principais tópicos da tradição filosófica da contemporânea, na tentativa de apresentar o posto da Filosofia no contexto atual, refletindo temas do passado recente e presente, conforme descrição: 
+2. – Metafísica e Niilismo 3– FENOMENOLOGIA E HERMENÊUTICA 1. – Tentativas de Reabilitação da Filosofia
 
-1 - FILOSOFIA CONTEMPORÂNEA 1. - A Crise do Racionalismo Moderno 2. – o Idealismo Absoluto de Hegel e seus prolongamentos 2– A CRISE DE IDENTIDADE FILOSÓFICA 1. – Nietzsche e a revisão da Metafísica 
+2. – Filosofia como “ciência rigorosa”
 
-2. – Metafísica e Niilismo 3– FENOMENOLOGIA E HERMENÊUTICA 1. – Tentativas de Reabilitação da Filosofia 
+4- A DISSOLUÇÃO DA “IGUALDADE” BURGUESA
 
-2. – Filosofia como “ciência rigorosa” 
+1. – A Filosofia como crítica social: Marx; Gramsci 2. – Filosofia e Pensamento Político Contemporâneo
 
-4- A DISSOLUÇÃO DA “IGUALDADE” BURGUESA 
+3. - Totalitarismo, Nazismo, Alienação, Indústria Cultural
 
-1. – A Filosofia como crítica social: Marx; Gramsci 2. – Filosofia e Pensamento Político Contemporâneo 
+42
 
-3. - Totalitarismo, Nazismo, Alienação, Indústria Cultural 
+MinisteriodaEducacao INSTITUTOFEDERAL InstitutoFederaldoParana PARANA
 
-42 
+5- TEMAS DO NOSSO COTIDIANO
 
-MinisteriodaEducacao INSTITUTOFEDERAL InstitutoFederaldoParana PARANA 
+1. Sexualidade 2. – Técnica 3. – Política 4. – Questões de Gênero
 
-5- TEMAS DO NOSSO COTIDIANO 
+**Bibliografia Básica:** CHAUÍ, Marilena. **Iniciação à Filosofia: ensino médio.** São Paulo: Ática, 2010.
 
-1. Sexualidade 2. – Técnica 3. – Política 4. – Questões de Gênero 
+GILES, Thomas Ransom. **História do existencialismo e da fenomenologia.** São Paulo: EPU, 1975.
 
-**Bibliografia Básica:** CHAUÍ, Marilena. **Iniciação à Filosofia: ensino médio.** São Paulo: Ática, 2010. 
+HEIDEGGER, Martin. **Da experiência do pensar.** Porto Alegre-RS: Globo, 1969.
 
-GILES, Thomas Ransom. **História do existencialismo e da fenomenologia.** São Paulo: EPU, 1975. 
+**Bibliografia Complementar:** ABBAGNANO, Nicola. **História da filosofia.** 6. ed. Vol. 1 e 2 Lisboa: Presença, 2000. REALE, Giovanni; ANTISERI, Dario. **História da filosofia.** Vol. 1 e 2. São Paulo: Paulus, 2003. HUME, David. **Tratado da natureza humana:** uma tentativa de introduzir o método experimental de raciocínio nos assuntos morais. São Paulo: UNESP, 2001.
 
-HEIDEGGER, Martin. **Da experiência do pensar.** Porto Alegre-RS: Globo, 1969. 
+## **Campus Curitiba do IFPR**
 
-**Bibliografia Complementar:** ABBAGNANO, Nicola. **História da filosofia.** 6. ed. Vol. 1 e 2 Lisboa: Presença, 2000. REALE, Giovanni; ANTISERI, Dario. **História da filosofia.** Vol. 1 e 2. São Paulo: Paulus, 2003. HUME, David. **Tratado da natureza humana:** uma tentativa de introduzir o método experimental de raciocínio nos assuntos morais. São Paulo: UNESP, 2001. 
+**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Educação Física I **Carga Horária** : 80 **Período letivo:** 1º ano
 
-## **Campus Curitiba do IFPR** 
+## **Ementa:**
 
-**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Educação Física I **Carga Horária** : 80 **Período letivo:** 1º ano 
+Análise das diversas manifestações da Atividade Corporal nas diferentes fases da existência humana: Histórico, fundamentos teórico\práticos e vivência de elementos da Cultura Corporal como jogos, brincadeiras, dança, esportes, ginástica, lutas, etc.; em contextos históricos, culturais e sociais distintos.
 
-## **Ementa:** 
+## **Bibliografia Básica:**
 
-Análise das diversas manifestações da Atividade Corporal nas diferentes fases da existência humana: Histórico, fundamentos teórico\práticos e vivência de elementos da Cultura Corporal como jogos, brincadeiras, dança, esportes, ginástica, lutas, etc.; em contextos históricos, culturais e sociais distintos. 
+CASTELLANI FILHO, Lino. **Educação física no Brasil** : a história que não se conta. Campinas: Papirus, 1988.
 
-## **Bibliografia Básica:** 
+FERREIRA, V. **Dança escolar** : um novo ritmo. Rio de Janeiro: Sprint, 2005.
 
-CASTELLANI FILHO, Lino. **Educação física no Brasil** : a história que não se conta. Campinas: Papirus, 1988. 
+MELO, Victor Andrade de. **História da educação física e do esporte no Brasil** . São Paulo: Ibrasa, 1999.
 
-FERREIRA, V. **Dança escolar** : um novo ritmo. Rio de Janeiro: Sprint, 2005. 
+SECRETARIA DE ESTADO DA EDUCAÇÃO. **Livro didático público da Educação física** . Curitiba: SEED-PR, 2006.
 
-MELO, Victor Andrade de. **História da educação física e do esporte no Brasil** . São Paulo: Ibrasa, 1999. 
+SOARES, Carmen Lúcia. **Educação física** : raízes européias e Brasil. Campinas: Autores Associados, 2001.
 
-SECRETARIA DE ESTADO DA EDUCAÇÃO. **Livro didático público da Educação física** . Curitiba: SEED-PR, 2006. 
+## **Bibliografia Complementar:**
 
-SOARES, Carmen Lúcia. **Educação física** : raízes européias e Brasil. Campinas: Autores Associados, 2001. 
+BARDINI, Carmela. **Danças Circulares** . In: FOLHAS. Secretaria de Estado da Educação, SEED. Curitiba, Paraná, 2009.
 
-## **Bibliografia Complementar:** 
+BROTTO, F. O. **Jogos cooperativos** : o jogo e o esporte como um exercício de convivência. Santos:
 
-BARDINI, Carmela. **Danças Circulares** . In: FOLHAS. Secretaria de Estado da Educação, SEED. Curitiba, Paraná, 2009. 
+43
 
-BROTTO, F. O. **Jogos cooperativos** : o jogo e o esporte como um exercício de convivência. Santos: 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-43 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## Projeto Cooperação, 2002.
 
-INSTITUTOFEDERAL PARANA 
+COLETIVO DE AUTORES. **Metodologia do Ensino da Educação Física** . 2 ed., São Paulo: Cortez, 2009.
 
-## Projeto Cooperação, 2002. 
+DANTAS, Estélio H. M. **Pensando o corpo e o movimento** . Rio de Janeiro: Shape, 2005.
 
-COLETIVO DE AUTORES. **Metodologia do Ensino da Educação Física** . 2 ed., São Paulo: Cortez, 2009. 
+PRONI, M. W. e LUCENA, R. **Esporte, História e Sociedade** . Campinas: Autores Associados, 2002.
 
-DANTAS, Estélio H. M. **Pensando o corpo e o movimento** . Rio de Janeiro: Shape, 2005. 
-
-PRONI, M. W. e LUCENA, R. **Esporte, História e Sociedade** . Campinas: Autores Associados, 2002. 
-
-## **Campus Curitiba do IFPR** 
+## **Campus Curitiba do IFPR**
 
 |**Curso:**Administração|ão||**Eixo Tecnológico:**Gestão e Negócios|**Eixo Tecnológico:**Gestão e Negócios|
 |---|---|---|---|---|
@@ -1669,59 +1588,55 @@ PRONI, M. W. e LUCENA, R. **Esporte, História e Sociedade** . Campinas: Autores
 |**Carga Horária**: 80|||**Período letivo:**2º ano||
 |**Ementa:**|||||
 
+Análise das transformações culturais e filosóficas da humanidade e sua influência sobre o corpo. Relações entre o mundo do trabalho e o esporte na contemporaneidade. Vivencia e discussão de elementos da cultura corporal como as lutas, a dança, o esporte e o lazer, frente aos aspectos históricos, culturais e movimentos sociais. Atividade física, saúde e qualidade de vida.
 
+**Bibliografia Básica:** BETTI, Mauro. **Janela de vidro** : esporte, televisão e educação física. Campinas: Papirus, 1998. GONÇALVES, M. A. S **. Sentir, pensar, agir** : corporeidade e educação. 5 ed. Campinas: Papirus, 2001. MARCELLINO, Nelson Carvalho. **Lazer e educação** . 2 ed. São Paulo: Papirus, 1990.
 
-Análise das transformações culturais e filosóficas da humanidade e sua influência sobre o corpo. Relações entre o mundo do trabalho e o esporte na contemporaneidade. Vivencia e discussão de elementos da cultura corporal como as lutas, a dança, o esporte e o lazer, frente aos aspectos históricos, culturais e movimentos sociais. Atividade física, saúde e qualidade de vida. 
+SECRETARIA DE ESTADO DA EDUCAÇÃO. **Livro didático público da Educação física** . Curitiba: SEED-PR, 2006. SOARES, Carmen Lúcia. **Educação física** : raízes européias e Brasil. Campinas: Autores Associados, 2001.
 
-**Bibliografia Básica:** BETTI, Mauro. **Janela de vidro** : esporte, televisão e educação física. Campinas: Papirus, 1998. GONÇALVES, M. A. S **. Sentir, pensar, agir** : corporeidade e educação. 5 ed. Campinas: Papirus, 2001. MARCELLINO, Nelson Carvalho. **Lazer e educação** . 2 ed. São Paulo: Papirus, 1990. 
+## **Bibliografia Complementar:**
 
-SECRETARIA DE ESTADO DA EDUCAÇÃO. **Livro didático público da Educação física** . Curitiba: SEED-PR, 2006. SOARES, Carmen Lúcia. **Educação física** : raízes européias e Brasil. Campinas: Autores Associados, 2001. 
+ASSIS DE OLIVEIRA, Sávio. **Reinventando o esporte** : possibilidade da prática pedagógica. Campinas: Autores Associados, 2001. BRACHT, Valter. **Sociologia crítica do Esporte** . Ijuí: Unijuí, 2003.
 
-## **Bibliografia Complementar:** 
+COSTA, Roberto Fernandes da. **Composição corporal:** teoria e prática da avaliação. São Paulo: Manole, 2001.
 
-ASSIS DE OLIVEIRA, Sávio. **Reinventando o esporte** : possibilidade da prática pedagógica. Campinas: Autores Associados, 2001. BRACHT, Valter. **Sociologia crítica do Esporte** . Ijuí: Unijuí, 2003. 
+DANTAS, Estélio H. M. **Pensando o corpo e o movimento** . Rio de Janeiro: Shape, 2005.
 
-COSTA, Roberto Fernandes da. **Composição corporal:** teoria e prática da avaliação. São Paulo: Manole, 2001. 
+LUCENA, R. F. **O esporte na cidade** : aspectos do esforço civilizador brasileiro. Campinas: Autores Associados, 2001.
 
-DANTAS, Estélio H. M. **Pensando o corpo e o movimento** . Rio de Janeiro: Shape, 2005. 
-
-LUCENA, R. F. **O esporte na cidade** : aspectos do esforço civilizador brasileiro. Campinas: Autores Associados, 2001. 
-
-PEREIRA NETTO, Nilo S. Mancala. In: FOLHAS. Secretária de Estado da Educação – SEED. Curitiba, Paraná, 2011. 
+PEREIRA NETTO, Nilo S. Mancala. In: FOLHAS. Secretária de Estado da Educação – SEED. Curitiba, Paraná, 2011.
 
 |**Campus Curitiba do IFPR**|**Campus Curitiba do IFPR**|
 |---|---|
 |**Curso:**Administração|**Eixo Tecnológico:**Gestão e Negócios|
 
+44
 
+INSTITUTOFEDERAL PARANA
 
-44 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-INSTITUTOFEDERAL PARANA 
+**Componente Curricular** : Educação Física III **Carga Horária** : 40 **Período letivo:** 3º ano
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## **Ementa:**
 
-**Componente Curricular** : Educação Física III **Carga Horária** : 40 **Período letivo:** 3º ano 
+Elementos da Cultura Corporal:Dança, Lutas, Jogos, Brincadeiras e Esportes - modalidades específicas e suas características. Estudo e Promoção da Saúde e da Qualidade de Vida.  Políticas Públicas de Esporte e Lazer. Aplicação prática de conceitos específicos da ciência da ação motriz. Reflexão crítica e contextual das dimensões da Cultura Corporal.
 
-## **Ementa:** 
+## **Bibliografia Básica:**
 
-Elementos da Cultura Corporal:Dança, Lutas, Jogos, Brincadeiras e Esportes - modalidades específicas e suas características. Estudo e Promoção da Saúde e da Qualidade de Vida.  Políticas Públicas de Esporte e Lazer. Aplicação prática de conceitos específicos da ciência da ação motriz. Reflexão crítica e contextual das dimensões da Cultura Corporal. 
+BETTI, Mauro. **Janela de vidro** : esporte, televisão e educação física. Campinas: Papirus, 1998. DANTAS, Estélio H. M. **Pensando o corpo e o movimento** . Rio de Janeiro: Shape, 2005. MELO, Marcelo Paula de. **Esporte e Juventude Pobre** : políticas públicas de lazer na Vila Olímpica da Maré. Campinas: Autores Associados, 2005.
 
-## **Bibliografia Básica:** 
+NAHAS, Markus V. **Atividade física, saúde e qualidade de vida** : conceitos e sugestões para um estilo de vida ativo. 5. ed. Londrina: Midiograf, 2010. SHARKEY, B. J. **Condicionamento físico e saúde** . 4 ed. Porto Alegre: ArtMed,1998.
 
-BETTI, Mauro. **Janela de vidro** : esporte, televisão e educação física. Campinas: Papirus, 1998. DANTAS, Estélio H. M. **Pensando o corpo e o movimento** . Rio de Janeiro: Shape, 2005. MELO, Marcelo Paula de. **Esporte e Juventude Pobre** : políticas públicas de lazer na Vila Olímpica da Maré. Campinas: Autores Associados, 2005. 
+## **Bibliografia Complementar:**
 
-NAHAS, Markus V. **Atividade física, saúde e qualidade de vida** : conceitos e sugestões para um estilo de vida ativo. 5. ed. Londrina: Midiograf, 2010. SHARKEY, B. J. **Condicionamento físico e saúde** . 4 ed. Porto Alegre: ArtMed,1998. 
+BRACHT, Valter. **Sociologia crítica do Esporte** . Ijuí: Unijuí, 2003.
 
-## **Bibliografia Complementar:** 
+COSTA, Roberto Fernandes da. **Composição corporal:** teoria e prática da avaliação. São Paulo: Manole, 2001.
 
-BRACHT, Valter. **Sociologia crítica do Esporte** . Ijuí: Unijuí, 2003. 
+DAOLIO, Jocimar. **Futebol, cultura e sociedade** . Campinas: Autores Associados, 2005. MARCELLINO, Nelson Carvalho. **Lazer e educação** . 2 ed. São Paulo: Papirus, 1990.
 
-COSTA, Roberto Fernandes da. **Composição corporal:** teoria e prática da avaliação. São Paulo: Manole, 2001. 
-
-DAOLIO, Jocimar. **Futebol, cultura e sociedade** . Campinas: Autores Associados, 2005. MARCELLINO, Nelson Carvalho. **Lazer e educação** . 2 ed. São Paulo: Papirus, 1990. 
-
-STIGGER, Marco Paulo. **Esporte, lazer e estilos de vida** : um estudo etnográfico. Campinas, SP: Autores Associados, 2002. 
+STIGGER, Marco Paulo. **Esporte, lazer e estilos de vida** : um estudo etnográfico. Campinas, SP: Autores Associados, 2002.
 
 |**Campus Curitiba do IFPR**|**Campus Curitiba do IFPR**|**Campus Curitiba do IFPR**|**Campus Curitiba do IFPR**|
 |---|---|---|---|
@@ -1729,79 +1644,77 @@ STIGGER, Marco Paulo. **Esporte, lazer e estilos de vida** : um estudo etnográf
 |**Componente Curricular**: ArteI||||
 |**Carga Horária**: 40|||**Período letivo: **1 o ano|
 
+## **Ementa**
 
+Os elementos formais das 5 linguagens artísticas básicas: a) música, b) artes visuais, c) teatro d) dança e) artes audiovisuais; as diferentes linguagens artísticas e as suas relações com os contextos de criação, com ênfase na música (ritmo, grafia musical, timbre, etc) e no audiovisual (gravação sonora, relação entre som e imagem, a arte na publicidade e psicoacustica da música); apreciação e produção artística;a história da arte: períodos e movimentos artísticos, com ênfase na pré-história, antiguidade (arte egípcia e arte grega), idade média, renascimento, barroco e clássico; o papel da arte na humanidade e o desenvolvimento e compreensão das manifestações artísticas em seus diferentes contextos; cultura popular e a música popular brasileira; prática musical.
 
-## **Ementa** 
+45
 
-Os elementos formais das 5 linguagens artísticas básicas: a) música, b) artes visuais, c) teatro d) dança e) artes audiovisuais; as diferentes linguagens artísticas e as suas relações com os contextos de criação, com ênfase na música (ritmo, grafia musical, timbre, etc) e no audiovisual (gravação sonora, relação entre som e imagem, a arte na publicidade e psicoacustica da música); apreciação e produção artística;a história da arte: períodos e movimentos artísticos, com ênfase na pré-história, antiguidade (arte egípcia e arte grega), idade média, renascimento, barroco e clássico; o papel da arte na humanidade e o desenvolvimento e compreensão das manifestações artísticas em seus diferentes contextos; cultura popular e a música popular brasileira; prática musical. 
+Ministerioda Educacao InstitutoFederaldoParana
 
-45 
+INSTITUTOFEDERAL PARANA
 
-Ministerioda Educacao InstitutoFederaldoParana 
+## **Bibliografia Básica:**
 
-INSTITUTOFEDERAL PARANA 
+PROENÇA, Graça. **Descobrindo a história da arte** . São Paulo: Ática, 2008. CANDÉ, Roland de. **História universal da música** . 2 volumes. São Paulo: Martins Fontes, 2001. CASCUDO, Luis da Câmara. **Dicionário do Folclore Brasileiro** . Belo Horizonte: Itatiaia, 1988. OSTROWER, Fayga. Universos da arte. 24.ed. Rio de Janeiro: Campus, 2004. GEERTZ, Clifford. **A interpretação das culturas** . Rio de Janeiro: LTC, 1973. GRIFFITHS, Paul. **A música moderna** . Rio de Janeiro: Jorge Zahar, 1998.
 
-## **Bibliografia Básica:** 
+GROUT, Donald J. & PALISCA, Claude V. **História da música ocidental** . Lisboa: Gradiva, 2005. MED, Bohumil. **Teoria da música** .  4.ed. Brasília: Musimed, 1996.
 
-PROENÇA, Graça. **Descobrindo a história da arte** . São Paulo: Ática, 2008. CANDÉ, Roland de. **História universal da música** . 2 volumes. São Paulo: Martins Fontes, 2001. CASCUDO, Luis da Câmara. **Dicionário do Folclore Brasileiro** . Belo Horizonte: Itatiaia, 1988. OSTROWER, Fayga. Universos da arte. 24.ed. Rio de Janeiro: Campus, 2004. GEERTZ, Clifford. **A interpretação das culturas** . Rio de Janeiro: LTC, 1973. GRIFFITHS, Paul. **A música moderna** . Rio de Janeiro: Jorge Zahar, 1998. 
+SCHAFER, R. Murray. **O ouvido pensante** . São Paulo: Editora UNESP, 1991.
 
-GROUT, Donald J. & PALISCA, Claude V. **História da música ocidental** . Lisboa: Gradiva, 2005. MED, Bohumil. **Teoria da música** .  4.ed. Brasília: Musimed, 1996. 
+______. **A afinação do mundo** . São Paulo: Editora UNESP, 2001.
 
-SCHAFER, R. Murray. **O ouvido pensante** . São Paulo: Editora UNESP, 1991. 
+WISNIK, José Miguel. **O som e o sentido** . São Paulo: Companhia das Letras, 2002.
 
-______. **A afinação do mundo** . São Paulo: Editora UNESP, 2001. 
+## **Bibliografia Complementar:**
 
-WISNIK, José Miguel. **O som e o sentido** . São Paulo: Companhia das Letras, 2002. 
+POZENATO, Kenia. **Introdução a história da arte** . Porto Alegre: Mercado Aberto, 1998. BARRAL I ALTET, Xavier. **História da arte. Campinas** . Papirus, 1994. NUNES, Benedito. **Introdução a filosofia da arte** . São Paulo: Ática, 2008. TIRAPELI, Percival. **Arte indígena do pré-colonial a contemporaneidade** . São Paulo: Nacional, 2007.
 
-## **Bibliografia Complementar:** 
+CALABRIA, Carla Paula Brondi. **Arte, história e produção 1** : Arte brasileira. São Paulo: FTD, 1997. IAVELBERG, Rosa. **Para gostar de aprender arte** : sala de aula e formação de professores. São Paulo: Artmed, 2003.
 
-POZENATO, Kenia. **Introdução a história da arte** . Porto Alegre: Mercado Aberto, 1998. BARRAL I ALTET, Xavier. **História da arte. Campinas** . Papirus, 1994. NUNES, Benedito. **Introdução a filosofia da arte** . São Paulo: Ática, 2008. TIRAPELI, Percival. **Arte indígena do pré-colonial a contemporaneidade** . São Paulo: Nacional, 2007. 
+FUSARI, Maria F. de Rezende e. **Arte na educação escolar** . São Paulo: Cortez, 2001. SANT’ANNA, Affonso Romano de. **Baroque: âmeduBrésil** . Rio de Janeiro: Comunicação Máxima, 1997. GRAMANI, Daniella (Org.). **Rabeca, o som do inesperado** . Curitiba: [s.n.], 2003. MARCHI, Lia; SAENGER, Juliana;  CORRÊA,  Roberto  (Org.). **Tocadores** : homem, terra, música e cordas. Curitiba: Olaria, 2002.
 
-CALABRIA, Carla Paula Brondi. **Arte, história e produção 1** : Arte brasileira. São Paulo: FTD, 1997. IAVELBERG, Rosa. **Para gostar de aprender arte** : sala de aula e formação de professores. São Paulo: Artmed, 2003. 
+MARIZ. Vasco. **História da Música no Brasil** . Rio de Janeiro: Nova Fronteira, 2005. SACKS, Oliver. **Alicinações musicais** . São Paulo: Companhia das Letras, 2007. PEVSNER, Nikolaus. **Origens da arquitetura moderna e do design** . 2.ed. São Paulo: Martins Fontes, 2001. GOMBRICH, E.H. A. **História da Arte** . Rio de Janeiro: LTC, 1999. SANTOS, Maria das Graças V. **Proença dos. História da arte** . 16.ed. São Paulo: Ática, 2001.
 
-FUSARI, Maria F. de Rezende e. **Arte na educação escolar** . São Paulo: Cortez, 2001. SANT’ANNA, Affonso Romano de. **Baroque: âmeduBrésil** . Rio de Janeiro: Comunicação Máxima, 1997. GRAMANI, Daniella (Org.). **Rabeca, o som do inesperado** . Curitiba: [s.n.], 2003. MARCHI, Lia; SAENGER, Juliana;  CORRÊA,  Roberto  (Org.). **Tocadores** : homem, terra, música e cordas. Curitiba: Olaria, 2002. 
+**Campus Curitiba do IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Arte II
 
-MARIZ. Vasco. **História da Música no Brasil** . Rio de Janeiro: Nova Fronteira, 2005. SACKS, Oliver. **Alicinações musicais** . São Paulo: Companhia das Letras, 2007. PEVSNER, Nikolaus. **Origens da arquitetura moderna e do design** . 2.ed. São Paulo: Martins Fontes, 2001. GOMBRICH, E.H. A. **História da Arte** . Rio de Janeiro: LTC, 1999. SANTOS, Maria das Graças V. **Proença dos. História da arte** . 16.ed. São Paulo: Ática, 2001. 
+46
 
-**Campus Curitiba do IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Arte II 
+Ministerioda Educacao InstitutoFederaldoParana
 
-46 
+INSTITUTOFEDERAL PARANA
 
-Ministerioda Educacao InstitutoFederaldoParana 
+**Carga Horária** : 40
 
-INSTITUTOFEDERAL PARANA 
+## **Período letivo:** 2[o] ano
 
-**Carga Horária** : 40 
+## **Ementa**
 
-## **Período letivo:** 2[o] ano 
+Os elementos formadores das 5 linguagens artísticas básicas: a) música, b) artes visuais, c) teatro d) dança e)artes áudio visuais; as diferentes linguagens artísticas e as suas relações com os contextos de criação, com ênfase em teatro (figurino, maquiagem, texto teatral e cenário), dança (movimento expressivo, repetição e continuação do movimento), espaço, movimento individual e em grupo), performance e apreciação artística; o desenvolvimento da criatividade; a relação entre arte, sociedade e cultura; diversidades artísticas: a arte em diferentes contextos;a história da arte: períodos e movimentos artísticos com ênfase no modernismo e na arte contemporânea; interações entre as diferentes linguagens artísticas: instalações artísticas; a arte e a cultura popular e a relação entre o fazer artístico e a sociedade contemporânea.
 
-## **Ementa** 
+## **Bibliografia Básica:**
 
-Os elementos formadores das 5 linguagens artísticas básicas: a) música, b) artes visuais, c) teatro d) dança e)artes áudio visuais; as diferentes linguagens artísticas e as suas relações com os contextos de criação, com ênfase em teatro (figurino, maquiagem, texto teatral e cenário), dança (movimento expressivo, repetição e continuação do movimento), espaço, movimento individual e em grupo), performance e apreciação artística; o desenvolvimento da criatividade; a relação entre arte, sociedade e cultura; diversidades artísticas: a arte em diferentes contextos;a história da arte: períodos e movimentos artísticos com ênfase no modernismo e na arte contemporânea; interações entre as diferentes linguagens artísticas: instalações artísticas; a arte e a cultura popular e a relação entre o fazer artístico e a sociedade contemporânea. 
+BRECHT, Bertold. **Estudos sobre teatro** . Rio de Janeiro: Nova Fronteira, 2005. CASCUDO, Luis da Câmara. **Dicionário do Folclore Brasileiro** . Belo Horizonte: Itatiaia, 1988. GEERTZ, Clifford. **A interpretação das culturas** . Rio de Janeiro: LTC, 1973. LABAN, Rudolf. **Domínio do movimento** . São Paulo: Summus, 1978. OSSONA, Paulina. **A educação pela dança** . São Paulo: Summus Editorial, 1988. OSTROWER, Fayga. **Universos da arte** . 24.ed. Rio de Janeiro: Campus, 2004. PROENÇA, Graça. **Descobrindo a história da arte** . São Paulo: Ática, 2008.
 
-## **Bibliografia Básica:** 
+## **Bibliografia Complementar:**
 
-BRECHT, Bertold. **Estudos sobre teatro** . Rio de Janeiro: Nova Fronteira, 2005. CASCUDO, Luis da Câmara. **Dicionário do Folclore Brasileiro** . Belo Horizonte: Itatiaia, 1988. GEERTZ, Clifford. **A interpretação das culturas** . Rio de Janeiro: LTC, 1973. LABAN, Rudolf. **Domínio do movimento** . São Paulo: Summus, 1978. OSSONA, Paulina. **A educação pela dança** . São Paulo: Summus Editorial, 1988. OSTROWER, Fayga. **Universos da arte** . 24.ed. Rio de Janeiro: Campus, 2004. PROENÇA, Graça. **Descobrindo a história da arte** . São Paulo: Ática, 2008. 
+POZENATO, Kenia. **Introdução a história da arte** . Porto Alegre: Mercado Aberto, 1998. BARRAL I ALTET, Xavier. **História da arte** . Campinas: Papirus, 1994. NUNES, Benedito. **Introdução a filosofia da arte** . São Paulo: Ática, 2008.
 
-## **Bibliografia Complementar:** 
+CALABRIA, Carla Paula Brondi. **Arte, história e produção 1** : Arte brasileira. São Paulo: FTD, 1997. IAVELBERG, Rosa. **Para gostar de aprender arte** : sala de aula e formação de professores. São Paulo: Artmed, 2003.
 
-POZENATO, Kenia. **Introdução a história da arte** . Porto Alegre: Mercado Aberto, 1998. BARRAL I ALTET, Xavier. **História da arte** . Campinas: Papirus, 1994. NUNES, Benedito. **Introdução a filosofia da arte** . São Paulo: Ática, 2008. 
+FUSARI, Maria F. de Rezende e. **Arte na educação escolar** . São Paulo: Cortez, 2001.
 
-CALABRIA, Carla Paula Brondi. **Arte, história e produção 1** : Arte brasileira. São Paulo: FTD, 1997. IAVELBERG, Rosa. **Para gostar de aprender arte** : sala de aula e formação de professores. São Paulo: Artmed, 2003. 
+MARIZ. Vasco. **História da Música no Brasil** . Rio de Janeiro: Nova Fronteira, 2005. SACKS, Oliver. **Alicinações musicais** . São Paulo: Companhia das Letras, 2007. ARGAN, Giulio Carlo. **Arte moderna** . São Paulo: Companhia das Letras, 1992. CUMMING, Robert. **Para entender a arte** . São Paulo: Ática, 1998. PEVSNER, Nikolaus. **Origens da arquitetura moderna e do design** . 2.ed. São Paulo: Martins Fontes, 2001.
 
-FUSARI, Maria F. de Rezende e. **Arte na educação escolar** . São Paulo: Cortez, 2001. 
+GOMBRICH, E.H. **A História da Arte** . Rio de Janeiro: LTC, 1999. CONNOR, Steven. **Cultura pós-moderna** : introdução às teorias do contemporâneo. 3.ed. São Paulo: Loyola, 1996.
 
-MARIZ. Vasco. **História da Música no Brasil** . Rio de Janeiro: Nova Fronteira, 2005. SACKS, Oliver. **Alicinações musicais** . São Paulo: Companhia das Letras, 2007. ARGAN, Giulio Carlo. **Arte moderna** . São Paulo: Companhia das Letras, 1992. CUMMING, Robert. **Para entender a arte** . São Paulo: Ática, 1998. PEVSNER, Nikolaus. **Origens da arquitetura moderna e do design** . 2.ed. São Paulo: Martins Fontes, 2001. 
+SANTOS, Maria das Graças V. Proença dos. **História da arte** . 16.ed. São Paulo: Ática, 2001.
 
-GOMBRICH, E.H. **A História da Arte** . Rio de Janeiro: LTC, 1999. CONNOR, Steven. **Cultura pós-moderna** : introdução às teorias do contemporâneo. 3.ed. São Paulo: Loyola, 1996. 
+47
 
-SANTOS, Maria das Graças V. Proença dos. **História da arte** . 16.ed. São Paulo: Ática, 2001. 
+Ministerioda Educacao InstitutoFederaldoParana
 
-47 
-
-Ministerioda Educacao InstitutoFederaldoParana 
-
-INSTITUTOFEDERAL PARANA 
+INSTITUTOFEDERAL PARANA
 
 |**Campus Curitiba do IFPR**|**Campus Curitiba do IFPR**|**Campus Curitiba do IFPR**|
 |---|---|---|
@@ -1809,71 +1722,69 @@ INSTITUTOFEDERAL PARANA
 |**Componente Curricular**: ArteIII|||
 |**Carga Horária**: 40|**Período letivo: **3 o ano||
 
+## **Ementa**
 
+Os elementos formadores das 5 linguagens artísticas básicas: a) música, b) artes visuais, c) teatro d) dança e)artes áudio visuais; as diferentes linguagens artísticas e as suas relações com os contextos de criação com ênfase em artes visuais (cor, textura, volume, figura e fundo, perspectiva), a arte em diferentes contextos: escola, rua, praças, teatros, espaços religiosos, espaços públicos e privados; o papel da arte como elemento humanizador e agente de transformação social;a história da arte: a contemporaneidade; arte brasileira e de outros continentes; multimídias, hipermídias e o fazer artístico contemporâneo; interações entre as diferentes linguagens artísticas: os princípios da composição e a análise de gêneros, estilos, formas e técnicas artísticas.
 
-## **Ementa** 
+## **Bibliografia Básica:**
 
-Os elementos formadores das 5 linguagens artísticas básicas: a) música, b) artes visuais, c) teatro d) dança e)artes áudio visuais; as diferentes linguagens artísticas e as suas relações com os contextos de criação com ênfase em artes visuais (cor, textura, volume, figura e fundo, perspectiva), a arte em diferentes contextos: escola, rua, praças, teatros, espaços religiosos, espaços públicos e privados; o papel da arte como elemento humanizador e agente de transformação social;a história da arte: a contemporaneidade; arte brasileira e de outros continentes; multimídias, hipermídias e o fazer artístico contemporâneo; interações entre as diferentes linguagens artísticas: os princípios da composição e a análise de gêneros, estilos, formas e técnicas artísticas. 
+ADES, Dawn. **Arte na** : a era moderna. S o  a lo: Cosac &Naify, 1997.
 
-## **Bibliografia Básica:** 
+ARGAN, Giulio Carlo. **A Arte Moderna** , Do Il minismo aos mo imen os con em or neos. S o Paulo: Cosac &Naify, 1999.
 
-ADES, Dawn. **Arte na** : a era moderna. S o  a lo: Cosac &Naify, 1997. 
+CALABRIA, Carla Paula Brondi. **Arte, história e produção 1** : Arte brasileira. São Paulo: FTD, 1997.
 
-ARGAN, Giulio Carlo. **A Arte Moderna** , Do Il minismo aos mo imen os con em or neos. S o Paulo: Cosac &Naify, 1999. 
+CHIPPS, Herstel B. **Teorias da Arte Moderna** . S o  a lo: Editora Livraria Martins Fontes, 1998. DONDIS, A. **Sintaxe da Linguagem Visual** . S o  a lo: Editora Livraria Martins Fontes, 1992.
 
-CALABRIA, Carla Paula Brondi. **Arte, história e produção 1** : Arte brasileira. São Paulo: FTD, 1997. 
+GEERTZ, Clifford. **A interpretação das culturas** . Rio de Janeiro: LTC, 1973.
 
-CHIPPS, Herstel B. **Teorias da Arte Moderna** . S o  a lo: Editora Livraria Martins Fontes, 1998. DONDIS, A. **Sintaxe da Linguagem Visual** . S o  a lo: Editora Livraria Martins Fontes, 1992. 
+HARRISON, Charles et al. o   ome os do S c lo   . S o Paulo: Cosac &Naify, 1999.
 
-GEERTZ, Clifford. **A interpretação das culturas** . Rio de Janeiro: LTC, 1973. 
+KANDINSKY, Wassily. **Ponto e Linha Sobre o Plano** . S o  a lo: Editora Livraria Martins Fontes, 1990
 
-HARRISON, Charles et al. o   ome os do S c lo   . S o Paulo: Cosac &Naify, 1999. 
+ORTIZ, Renato. **Cultura e modernidade** . São Paulo: Brasiliense, 1991.
 
-KANDINSKY, Wassily. **Ponto e Linha Sobre o Plano** . S o  a lo: Editora Livraria Martins Fontes, 1990 
+OSTROWER, Fayga. **Universos da arte** . 24.ed. Rio de Janeiro: Campus, 2004.
 
-ORTIZ, Renato. **Cultura e modernidade** . São Paulo: Brasiliense, 1991. 
+## **Bibliografia Complementar:**
 
-OSTROWER, Fayga. **Universos da arte** . 24.ed. Rio de Janeiro: Campus, 2004. 
+SCHAFER, R. Murray. **O ouvido pensante** . São Paulo: Editora UNESP, 1991.
 
-## **Bibliografia Complementar:** 
+POZENATO, Kenia. **Introdução a história da arte** . Porto Alegre: Mercado Aberto, 1998.
 
-SCHAFER, R. Murray. **O ouvido pensante** . São Paulo: Editora UNESP, 1991. 
+BARRAL I ALTET, Xavier. **História da arte** . Campinas: Papirus, 1994. NUNES, Benedito. **Introdução a filosofia da arte** . São Paulo: Ática, 2008.
 
-POZENATO, Kenia. **Introdução a história da arte** . Porto Alegre: Mercado Aberto, 1998. 
+PROENÇA, Graça. **Descobrindo a história da arte** . São Paulo: Ática, 2008.
 
-BARRAL I ALTET, Xavier. **História da arte** . Campinas: Papirus, 1994. NUNES, Benedito. **Introdução a filosofia da arte** . São Paulo: Ática, 2008. 
+IAVELBERG, Rosa. **Para gostar de aprender arte** : sala de aula e formação de professores. São Paulo: Artmed, 2003.
 
-PROENÇA, Graça. **Descobrindo a história da arte** . São Paulo: Ática, 2008. 
+FUSARI, Maria F. de Rezende e. **Arte na educação escolar** . São Paulo: Cortez, 2001.
 
-IAVELBERG, Rosa. **Para gostar de aprender arte** : sala de aula e formação de professores. São Paulo: Artmed, 2003. 
+SANT’ANNA, Affonso Romano de. **Baroque: âmeduBrésil** . Rio de Janeiro: Comunicação Máxima, 1997.
 
-FUSARI, Maria F. de Rezende e. **Arte na educação escolar** . São Paulo: Cortez, 2001. 
+MARIZ. Vasco. **História da Música no Brasil** . Rio de Janeiro: Nova Fronteira, 2005.
 
-SANT’ANNA, Affonso Romano de. **Baroque: âmeduBrésil** . Rio de Janeiro: Comunicação Máxima, 1997. 
+WISNIK, José Miguel. **O som e o sentido** . São Paulo: Companhia das Letras, 2002.
 
-MARIZ. Vasco. **História da Música no Brasil** . Rio de Janeiro: Nova Fronteira, 2005. 
+48
 
-WISNIK, José Miguel. **O som e o sentido** . São Paulo: Companhia das Letras, 2002. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-48 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+BRECHT, Bertold. **Estudos sobre teatro** . Rio de Janeiro: Nova Fronteira, 2005.
 
-INSTITUTOFEDERAL PARANA 
+LABAN, Rudolf. **Domínio do movimento** . São Paulo: Summus, 1978.
 
-BRECHT, Bertold. **Estudos sobre teatro** . Rio de Janeiro: Nova Fronteira, 2005. 
+OSSONA, Paulina. **A educação pela dança** . São Paulo: Summus Editorial, 1988. ARGAN, Giulio Carlo. **Arte moderna** . São Paulo: Companhia das Letras, 1992. CUMMING, Robert. **Para entender a arte** . São Paulo: Ática, 1998.
 
-LABAN, Rudolf. **Domínio do movimento** . São Paulo: Summus, 1978. 
+PEVSNER, Nikolaus. **Origens da arquitetura moderna e do design** . 2.ed. São Paulo: Martins Fontes, 2001.
 
-OSSONA, Paulina. **A educação pela dança** . São Paulo: Summus Editorial, 1988. ARGAN, Giulio Carlo. **Arte moderna** . São Paulo: Companhia das Letras, 1992. CUMMING, Robert. **Para entender a arte** . São Paulo: Ática, 1998. 
+GOMBRICH, E.H. **A História da Arte** . Rio de Janeiro: LTC, 1999.
 
-PEVSNER, Nikolaus. **Origens da arquitetura moderna e do design** . 2.ed. São Paulo: Martins Fontes, 2001. 
+CONNOR, Steven. **Cultura pós-moderna: introdução às teorias do contemporâneo** . 3.ed. São Paulo: Loyola, 1996.
 
-GOMBRICH, E.H. **A História da Arte** . Rio de Janeiro: LTC, 1999. 
-
-CONNOR, Steven. **Cultura pós-moderna: introdução às teorias do contemporâneo** . 3.ed. São Paulo: Loyola, 1996. 
-
-SANTOS, Maria das Graças V. **Proença dos. História da arte** . 16.ed. São Paulo: Ática, 2001. 
+SANTOS, Maria das Graças V. **Proença dos. História da arte** . 16.ed. São Paulo: Ática, 2001.
 
 |**Campus Curitiba do IFPR**|**Campus Curitiba do IFPR**|
 |---|---|
@@ -1883,21 +1794,19 @@ SANTOS, Maria das Graças V. **Proença dos. História da arte** . 16.ed. São P
 |**Ementa:**<br>Reflexões em/sobre a língua inglesa com foco no Letramento Crítico. A língua inglesa como discurso.<br>Representações sobre a língua inglesa em diferentes contextos sócio-discursivos. Perspectivas e<br>conflitos na construção de sentidos em língua inglesa. Aspectos culturais e estruturais em língua<br>inglesa com base em contextos discursivos diversos. Leitura de produções artísticas (literatura,<br>cinema e outras linguagens) de/em língua inglesa.<br>Temas locais e globais em língua inglesa específicos da série, abordando vocabulário e estruturas<br>linguísticas pertinentes: jogos e competição; tecnologia e cidadania; alimentação e saúde; dinheiro e<br>educação financeira; Direitos Humanos.<br>Leitura e expressão (oral e escrita) em língua inglesa.||
 |**Bibliografia Básica:**<br>AMOS, Eduardo; PRESCHER, Elisabeth.**The Richmond Simplified Grammar of English.**<br>Richmond Publishing, 2008.<br>COLLINS.**Dicionario Prático Collins Inglês-Portugues-Inglês.**São Paulo: DISAL, 2004.<br>DIAS, Reinildes; JUCÁ, Leina; FARIA, Raquel.**PRIME 3 - student's book with audio CD.**Macmillan<br>ELT, 2010.<br>**OSDE Booklet.**Centre for the Study of Social and Global Justice. Nottingham University.<br>Nottingham, England. Disponívelemwww.osdemethodology.org.uk<br>.<br>SAMPEDRO R.; HILLYARD, S.**Global Issues.**Oxford University Press, 2010.||
 
+49
 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-49 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## **Bibliografia Complementar:**
 
-INSTITUTOFEDERAL PARANA 
+DIAS, Reinildes; JUCÁ, Leina; FARIA, Raquel. **PRIME 3 - student's book with audio CD.** Macmillan ELT, 2010.
 
-## **Bibliografia Complementar:** 
+KERNERMAN, L. **Password – English Dictionary for speakers of Portuguese** . Martins Fontes, 2010.
 
-DIAS, Reinildes; JUCÁ, Leina; FARIA, Raquel. **PRIME 3 - student's book with audio CD.** Macmillan ELT, 2010. 
-
-KERNERMAN, L. **Password – English Dictionary for speakers of Portuguese** . Martins Fontes, 2010. 
-
-MURPHY, Raymond. **Essential Grammar in Use – Elementary-Pre-Intermediate** . CUP, 2007. 
+MURPHY, Raymond. **Essential Grammar in Use – Elementary-Pre-Intermediate** . CUP, 2007.
 
 |**Campus Curitiba do IFPR**|**Campus Curitiba do IFPR**|
 |---|---|
@@ -1905,51 +1814,49 @@ MURPHY, Raymond. **Essential Grammar in Use – Elementary-Pre-Intermediate** . 
 |**Componente Curricular:**Biologia I||
 |**Carga Horária:**80|**Período letivo:**1º ano|
 
+**Ementa:**
 
+ORIGEM DA VIDA E CITOLOGIA (Introdução à Biologia, origem e evolução da vida; Introdução à Citologia e envoltórios celulares; Citoplasma; Metabolismo energético da célula; O núcleo e a síntese protéica; Divisão celular); REPRODUÇÃO, EMBRIOLOGIA E HISTOLOGIA ANIMAL (Reprodução assexuada e sexuada; Reprodução humana; Desenvolvimento embrionário na espécie humana; Anexos embrionários; Embriologia comparada; Tecidos epitelial, conjuntivo, muscular e nervoso).
 
-**Ementa:** 
+## **Bibliografia Básica:**
 
-ORIGEM DA VIDA E CITOLOGIA (Introdução à Biologia, origem e evolução da vida; Introdução à Citologia e envoltórios celulares; Citoplasma; Metabolismo energético da célula; O núcleo e a síntese protéica; Divisão celular); REPRODUÇÃO, EMBRIOLOGIA E HISTOLOGIA ANIMAL (Reprodução assexuada e sexuada; Reprodução humana; Desenvolvimento embrionário na espécie humana; Anexos embrionários; Embriologia comparada; Tecidos epitelial, conjuntivo, muscular e nervoso). 
+LOPES, S. **Biologia** : essencial. 1. ed. São Paulo: Saraiva, 2003. LOPES, S.; ROSSO, S. **Biologia** . 1. ed. São Paulo: Saraiva, 2005. LOPES, S.; ROSSO, S. **Bio** . Volume 1. 1. ed. São Paulo: Saraiva, 2010.
 
-## **Bibliografia Básica:** 
+## **Bibliografia Complementar:**
 
-LOPES, S. **Biologia** : essencial. 1. ed. São Paulo: Saraiva, 2003. LOPES, S.; ROSSO, S. **Biologia** . 1. ed. São Paulo: Saraiva, 2005. LOPES, S.; ROSSO, S. **Bio** . Volume 1. 1. ed. São Paulo: Saraiva, 2010. 
+PEZZI, A.; GOWDAK, D.O.; MATTOS, N.S. de. **Biologia** . Volume 1. 1. ed. São Paulo: FTD, 2010. REINACH, F. **A longa marcha dos grilos canibais** : e outras crônicas sobre a vida no planeta Terra. 1. ed. São Paulo: Companhia Das Letras, 2010. SILVA JÚNIOR, C.; SASSON, S. **Biologia** . Volume 1. 8. ed. São Paulo: Saraiva, 2005.
 
-## **Bibliografia Complementar:** 
+COOPER, G.M; HAUSMAN,R. **A célula** : uma abordagem molecular, 3.ed. São Paulo: Artmed, 2007. JUNQUEIRA, L. C.; CARNEIRO, J. **Histologia Básica** , 11.ed. São Paulo: Guanabara Koogan, 2008.
 
-PEZZI, A.; GOWDAK, D.O.; MATTOS, N.S. de. **Biologia** . Volume 1. 1. ed. São Paulo: FTD, 2010. REINACH, F. **A longa marcha dos grilos canibais** : e outras crônicas sobre a vida no planeta Terra. 1. ed. São Paulo: Companhia Das Letras, 2010. SILVA JÚNIOR, C.; SASSON, S. **Biologia** . Volume 1. 8. ed. São Paulo: Saraiva, 2005. 
+## **Campus Curitiba do IFPR**
 
-COOPER, G.M; HAUSMAN,R. **A célula** : uma abordagem molecular, 3.ed. São Paulo: Artmed, 2007. JUNQUEIRA, L. C.; CARNEIRO, J. **Histologia Básica** , 11.ed. São Paulo: Guanabara Koogan, 2008. 
+**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : BIOLOGIA II **Carga Horária** : 80 **Período letivo:** 2º ano **Ementa:**
 
-## **Campus Curitiba do IFPR** 
+A diversidade dos seres vivos no planeta. As relações entre os seres vivos e destes com o ambiente. Introdução à classificação biológica. Estudo dos vírus e doenças relacionadas. Estudo das bactérias: estrutura celular, doenças relacionadas e biotecnologia. Características gerais das algas. Os fungos: características gerais e importância para os outros seres. Protozoários: características e doenças que afetam os seres humanos. O estudo das plantas: grupos e relações com os outros seres vivos. Animais: Relações ecológicas e evolutivas entre os diferentes filos de vertebrados e invertebrados.
 
-**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : BIOLOGIA II **Carga Horária** : 80 **Período letivo:** 2º ano **Ementa:** 
+50
 
-A diversidade dos seres vivos no planeta. As relações entre os seres vivos e destes com o ambiente. Introdução à classificação biológica. Estudo dos vírus e doenças relacionadas. Estudo das bactérias: estrutura celular, doenças relacionadas e biotecnologia. Características gerais das algas. Os fungos: características gerais e importância para os outros seres. Protozoários: características e doenças que afetam os seres humanos. O estudo das plantas: grupos e relações com os outros seres vivos. Animais: Relações ecológicas e evolutivas entre os diferentes filos de vertebrados e invertebrados. 
+INSTITUTOFEDERAL PARANA
 
-50 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-INSTITUTOFEDERAL PARANA 
+Reconhecimento dos fatores relacionados à evolução, distribuição e diversidade de seres vivos no planeta.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## **Bibliografia Básica:**
 
-Reconhecimento dos fatores relacionados à evolução, distribuição e diversidade de seres vivos no planeta. 
+AMABIS, José Mariano; Martho, Gilberto Rodrigues. **Biologia dos organismos** . 3ª ed. Moderna: São Paulo: 2010.
 
-## **Bibliografia Básica:** 
+LOPES, S. & ROSSO, S. 2005. **Biologia.** 1ª ed. Volume único. Editora Saraiva, São Paulo. 608 pp.
 
-AMABIS, José Mariano; Martho, Gilberto Rodrigues. **Biologia dos organismos** . 3ª ed. Moderna: São Paulo: 2010. 
+UZUNIAN, A., BIRNER, E. **Biologia** - volume único. 3a ed. Harbra: São Paulo: 2008.
 
-LOPES, S. & ROSSO, S. 2005. **Biologia.** 1ª ed. Volume único. Editora Saraiva, São Paulo. 608 pp. 
+## **Bibliografia Complementar:**
 
-UZUNIAN, A., BIRNER, E. **Biologia** - volume único. 3a ed. Harbra: São Paulo: 2008. 
+MARGULIS, L. & SCHWARTZ, K.V. **Os cinco reinos.** 3ª Ed. Rio de Janeiro. Guanabara-Koogan. 2001.
 
-## **Bibliografia Complementar:** 
+MILLER, T. **Ciência Ambietal.** Cencage Learning: São Paulo, 2007.
 
-MARGULIS, L. & SCHWARTZ, K.V. **Os cinco reinos.** 3ª Ed. Rio de Janeiro. Guanabara-Koogan. 2001. 
-
-MILLER, T. **Ciência Ambietal.** Cencage Learning: São Paulo, 2007. 
-
-REINACH, F. **A longa marcha dos grilos canibais** : e outras crônicas sobre a vida no planeta Terra. 1. ed. São Paulo: Companhia Das Letras, 2010. 
+REINACH, F. **A longa marcha dos grilos canibais** : e outras crônicas sobre a vida no planeta Terra. 1. ed. São Paulo: Companhia Das Letras, 2010.
 
 |**Campus Curitiba do IFPR**|**Campus Curitiba do IFPR**|
 |---|---|
@@ -1957,391 +1864,377 @@ REINACH, F. **A longa marcha dos grilos canibais** : e outras crônicas sobre a 
 |**Componente Curricular**: BIOLOGIA III||
 |**Carga Horária**: 80|**Período letivo:**3º ano|
 
+## **Ementa:**
 
+Estímulo à reflexão sobre a origem e evolução da vida e como os seres vivos se relacionam com o meio ambiente; a importância do entendimento e conhecimento dos temas e princípios biológicos no cotidiano das pessoas e no seu bem-estar e na própria sobrevivência e perpetuação da espécie humana. GENÉTICA (A primeira lei de Mendel e conceitos fundamentais em Genética; A Segunda lei de Mendel; A herança dos grupos sangüíneos humanos; Hereditariedade e cromossomos sexuais; Biotecnologia); EVOLUÇÃO (Teorias, evidências, processos e fatores evolutivos; Genética de populações); ECOLOGIA (Introdução, fluxo de energia e ciclo da matéria; Relações entre os seres vivos; ecologia da população; sucessão ecológica; biomas; a quebra do equilíbrio ecológico).
 
-## **Ementa:** 
+## **Bibliografia Básica:**
 
-Estímulo à reflexão sobre a origem e evolução da vida e como os seres vivos se relacionam com o meio ambiente; a importância do entendimento e conhecimento dos temas e princípios biológicos no cotidiano das pessoas e no seu bem-estar e na própria sobrevivência e perpetuação da espécie humana. GENÉTICA (A primeira lei de Mendel e conceitos fundamentais em Genética; A Segunda lei de Mendel; A herança dos grupos sangüíneos humanos; Hereditariedade e cromossomos sexuais; Biotecnologia); EVOLUÇÃO (Teorias, evidências, processos e fatores evolutivos; Genética de populações); ECOLOGIA (Introdução, fluxo de energia e ciclo da matéria; Relações entre os seres vivos; ecologia da população; sucessão ecológica; biomas; a quebra do equilíbrio ecológico). 
+Griffiths, A.J.F.; Carroll, S.B.; Lewontin, R.C.; Wessler, S.R. 2009. **Introdução à Genética** . 9ª Ed. Editora: Guanabara Koogan. ISBN. 9788527714976. Purves,W.K; Sadava, D.; Orians, H.G.; Heller, H.C. 2009. **Vida - A Ciência da Biologia - Volume II : Evolução, Diversidade e Ecologia.** 8ª Ed. Editora: Artmed. ISBN. 9788536319223. Townsend, C.R.; Harper, J.L.; Begon, M. 2007. **Ecologia - De Indivíduos a Ecossistemas.** 4ª Ed. Editora: Artmed. ISBN. 9788536308845
 
-## **Bibliografia Básica:** 
+**Bibliografia Complementar:**
 
-Griffiths, A.J.F.; Carroll, S.B.; Lewontin, R.C.; Wessler, S.R. 2009. **Introdução à Genética** . 9ª Ed. Editora: Guanabara Koogan. ISBN. 9788527714976. Purves,W.K; Sadava, D.; Orians, H.G.; Heller, H.C. 2009. **Vida - A Ciência da Biologia - Volume II : Evolução, Diversidade e Ecologia.** 8ª Ed. Editora: Artmed. ISBN. 9788536319223. Townsend, C.R.; Harper, J.L.; Begon, M. 2007. **Ecologia - De Indivíduos a Ecossistemas.** 4ª Ed. Editora: Artmed. ISBN. 9788536308845 
+Pereira, L.V. 2005. **Sequenciaram o Genoma Humano ... E agora ?** 2ª Ed. Editora: Moderna. ISBN.8516045889.
 
-**Bibliografia Complementar:** 
+51
 
-Pereira, L.V. 2005. **Sequenciaram o Genoma Humano ... E agora ?** 2ª Ed. Editora: Moderna. ISBN.8516045889. 
+INSTITUTOFEDERAL PARANA
 
-51 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-INSTITUTOFEDERAL PARANA 
+Lopes, R.J. 2009. **Além de Darwin.**
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+Lopes, R.J. 2009. **Além de Darwin.** Editora: Globo Editora. ISBN. 9788525047687. Fernandez, F. 2004. **O Poema Imperfeito - Crônicas de Biologia, Conservação da Natureza e seus Heróis.** 2ª Ed. Editora: UFPR. ISBN. 8573351152.
 
-Lopes, R.J. 2009. **Além de Darwin.** 
+## **Campus Curitiba do IFPR**
 
-Lopes, R.J. 2009. **Além de Darwin.** Editora: Globo Editora. ISBN. 9788525047687. Fernandez, F. 2004. **O Poema Imperfeito - Crônicas de Biologia, Conservação da Natureza e seus Heróis.** 2ª Ed. Editora: UFPR. ISBN. 8573351152. 
+**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : FÍSICAI **Carga Horária** : 120 **Período letivo:** 1º ano **Ementa:**
 
-## **Campus Curitiba do IFPR** 
+Sistema Internacional de Unidades; Unidades de Grandeza e grandezas básicas; Cinemática – MRU, MRUV, Lançamento Vertical, Vetores, Movimento circular, Composição de movimentos; Força; Leis de Newton – Atrito, Força centrípeta; Relatividade Restrita; Estática de corpos rígidos;Trabalho e Potência; Momento Linear e conservação de momento; energia mecânica e sua conservação; Gravitação e Leis de Kepler; Hidrostática – Pressão, Densidade, Teorema de Stevin, Princípio de Pascal, Empuxo.
 
-**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : FÍSICAI **Carga Horária** : 120 **Período letivo:** 1º ano **Ementa:** 
+## **Bibliografia Básica:**
 
-Sistema Internacional de Unidades; Unidades de Grandeza e grandezas básicas; Cinemática – MRU, MRUV, Lançamento Vertical, Vetores, Movimento circular, Composição de movimentos; Força; Leis de Newton – Atrito, Força centrípeta; Relatividade Restrita; Estática de corpos rígidos;Trabalho e Potência; Momento Linear e conservação de momento; energia mecânica e sua conservação; Gravitação e Leis de Kepler; Hidrostática – Pressão, Densidade, Teorema de Stevin, Princípio de Pascal, Empuxo. 
+MÁXIMO, A., ALVARENGA, B. **Física: Ensino Médio** . Antonio Máximo e Beatriz Alvarenga. Volume 1. Editora Scipione.
 
-## **Bibliografia Básica:** 
+GASPAR, A **. Física: Ensino Médio** . Volume Único. Editora Ática.
 
-MÁXIMO, A., ALVARENGA, B. **Física: Ensino Médio** . Antonio Máximo e Beatriz Alvarenga. Volume 1. Editora Scipione. 
+FILHO, A. G., TOSCANO, C. **Física: Ensino Médio** . Volume Único. Editora Scipione.HALLIDAY e RESNICK. **Fundamentos de Física 1** . 6a. Edição Brasileira. Editora Livros Técnicos e Científicos. TIPLER, P. A. **Física** . Vol. 1 e 3. , Ed. Guanabara Dois.
 
-GASPAR, A **. Física: Ensino Médio** . Volume Único. Editora Ática. 
+## **Bibliografia Complementar:**
 
-FILHO, A. G., TOSCANO, C. **Física: Ensino Médio** . Volume Único. Editora Scipione.HALLIDAY e RESNICK. **Fundamentos de Física 1** . 6a. Edição Brasileira. Editora Livros Técnicos e Científicos. TIPLER, P. A. **Física** . Vol. 1 e 3. , Ed. Guanabara Dois. 
+RAMALHO JR, F., FERRARO, N. G., SOARES, P. A. T. **Física** . 1 ano. Editora Moderna.
 
-## **Bibliografia Complementar:** 
+BARRETO, M. **Física no Ensino Médio** . Papirus Editora.
 
-RAMALHO JR, F., FERRARO, N. G., SOARES, P. A. T. **Física** . 1 ano. Editora Moderna. 
+NUSSENZWEIG, H. M., **Curso de Física Básica** , Vol. 1 , Ed. EdgardBlücher Ltda.
 
-BARRETO, M. **Física no Ensino Médio** . Papirus Editora. 
+SEARS, F.W., ZEMANSKI, M., YOUNG, D., FREEDMAN, R. **Fisica I** . 10a. edição, Addison-Wesley. São Paulo, 2003.
 
-NUSSENZWEIG, H. M., **Curso de Física Básica** , Vol. 1 , Ed. EdgardBlücher Ltda. 
+YAMAMOTO, K., FUKE, L. F. **Física para o Ensino Médio** . Editora Saraiva.
 
-SEARS, F.W., ZEMANSKI, M., YOUNG, D., FREEDMAN, R. **Fisica I** . 10a. edição, Addison-Wesley. São Paulo, 2003. 
+**Campus Curitiba do IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : FÍSICA II **Carga Horária** : 80 **Período letivo:** 2º ano
 
-YAMAMOTO, K., FUKE, L. F. **Física para o Ensino Médio** . Editora Saraiva. 
+52
 
-**Campus Curitiba do IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : FÍSICA II **Carga Horária** : 80 **Período letivo:** 2º ano 
+INSTITUTOFEDERAL PARANA
 
-52 
+MinisteriodaEducacao<br>InstitutoFederaldoParana<br>## **Ementa:**
 
-INSTITUTOFEDERAL PARANA 
+Escalas Termométricas; Dilatação de Sólidos e Líquidos; Transformações Gasosas; Equação de um gás ideal; Calor, Capacidade Térmica; Calor Específico; Primeira e Segunda Leis da Termodinâmica; Mudança de Fases; Reflexão e Refração da Luz; Espelhos; Lentes; Instrumentos Ópticos; Ondas; Acústica; Óptica Física, Radiação Térmica e o Postulado de Planck; Propriedades Ondulatórias das Partículas; Lasers; Espectros Atômico.
 
-**==> picture [96 x 20] intentionally omitted <==**
+## **Bibliografia Básica:**
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+MÁXIMO, A., ALVARENGA, B. **Física** . Ensino Médio. Antonio Máximo e Beatriz Alvarenga. Volume 2. Editora Scipione.
 
+GASPAR, A. **Física** . Ensino Médio. Volume Único. Editora Ática.
 
-## **Ementa:** 
+FILHO, A. G., TOSCANO, C **. Física** . Ensino Médio. Volume Único. Editora Scipione.
 
-Escalas Termométricas; Dilatação de Sólidos e Líquidos; Transformações Gasosas; Equação de um gás ideal; Calor, Capacidade Térmica; Calor Específico; Primeira e Segunda Leis da Termodinâmica; Mudança de Fases; Reflexão e Refração da Luz; Espelhos; Lentes; Instrumentos Ópticos; Ondas; Acústica; Óptica Física, Radiação Térmica e o Postulado de Planck; Propriedades Ondulatórias das Partículas; Lasers; Espectros Atômico. 
+HALLIDAY e RESNICK. **Fundamentos de Física 2** - Gravitação, Ondas e Termodinâmica, 6a. Edição Brasileira. Editora Livros Técnicos e Científicos.
 
-## **Bibliografia Básica:** 
+TIPLER, P. A.. **Física** ,. Vol. 1 e 2.  Ed. Guanabara Dois.
 
-MÁXIMO, A., ALVARENGA, B. **Física** . Ensino Médio. Antonio Máximo e Beatriz Alvarenga. Volume 2. Editora Scipione. 
+## **Bibliografia Complementar:**
 
-GASPAR, A. **Física** . Ensino Médio. Volume Único. Editora Ática. 
+RAMALHO JR, F., FERRARO, N. G., SOARES, P. A. T. **Física** - 2 ano. Editora Moderna.
 
-FILHO, A. G., TOSCANO, C **. Física** . Ensino Médio. Volume Único. Editora Scipione. 
+BARRETO, M., **Física no Ensino Médio** . Papirus Editora.
 
-HALLIDAY e RESNICK. **Fundamentos de Física 2** - Gravitação, Ondas e Termodinâmica, 6a. Edição Brasileira. Editora Livros Técnicos e Científicos. 
+NUSSENZWEIG, H. M. **Curso de Física Básica** . Vol. 2 - Gravitação, Ondas e Calor, Ed. EdgardBlücher Ltda.
 
-TIPLER, P. A.. **Física** ,. Vol. 1 e 2.  Ed. Guanabara Dois. 
+SEARS, F.W., ZEMANSKI, M., YOUNG, D., FREEDMAN, R. **Fisica II** . 10a. Ed. Addison-Wesley. São Paulo, 2003.
 
-## **Bibliografia Complementar:** 
+YAMAMOTO, K., FUKE, L. F. **Física para o Ensino Médio** . Editora Saraiva.
 
-RAMALHO JR, F., FERRARO, N. G., SOARES, P. A. T. **Física** - 2 ano. Editora Moderna. 
+## **Campus Curitiba do IFPR**
 
-BARRETO, M., **Física no Ensino Médio** . Papirus Editora. 
+**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : FÍSICA III **Carga Horária** : 80 **Período letivo:** 3º ano
 
-NUSSENZWEIG, H. M. **Curso de Física Básica** . Vol. 2 - Gravitação, Ondas e Calor, Ed. EdgardBlücher Ltda. 
+**Ementa:**
 
-SEARS, F.W., ZEMANSKI, M., YOUNG, D., FREEDMAN, R. **Fisica II** . 10a. Ed. Addison-Wesley. São Paulo, 2003. 
+Carga Elétrica e Lei de Coulomb; Campo Elétrico e Potencial Elétrico; Corrente Elétrica; Tensão Elétrica e Potência Elétrica; Circuitos com Capacitores e Resistores; Campo Magnético e Força Magnética; Indução Eletromagnética; Geradores e Transformadores; Espectro Eletromagnético; Efeito Fotoelétrico; Natureza corpuscular das ondas; Raio -X e radioatividade; Física de partículas.
 
-YAMAMOTO, K., FUKE, L. F. **Física para o Ensino Médio** . Editora Saraiva. 
+## **Bibliografia Básica:**
 
-## **Campus Curitiba do IFPR** 
+MÁXIMO, A., ALVARENGA, B. Física. Ensino Médio. Antonio Máximo e Beatriz Alvarenga. Volume 3. Editora Scipione.
 
-**Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : FÍSICA III **Carga Horária** : 80 **Período letivo:** 3º ano 
+GASPAR, A. Física. Ensino Médio. Volume 3. Editora Ática.
 
-**Ementa:** 
+FILHO, A. G., TOSCANO, C. Física. Ensino Médio. Volume Único. Editora Scipione.
 
-Carga Elétrica e Lei de Coulomb; Campo Elétrico e Potencial Elétrico; Corrente Elétrica; Tensão Elétrica e Potência Elétrica; Circuitos com Capacitores e Resistores; Campo Magnético e Força Magnética; Indução Eletromagnética; Geradores e Transformadores; Espectro Eletromagnético; Efeito Fotoelétrico; Natureza corpuscular das ondas; Raio -X e radioatividade; Física de partículas. 
+HALLIDAY e RESNICK. Fundamentos de Física 3, 6a. Edição Brasileira. Editora Livros Técnicos e Científicos.
 
-## **Bibliografia Básica:** 
+53
 
-MÁXIMO, A., ALVARENGA, B. Física. Ensino Médio. Antonio Máximo e Beatriz Alvarenga. Volume 3. Editora Scipione. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-GASPAR, A. Física. Ensino Médio. Volume 3. Editora Ática. 
+INSTITUTOFEDERAL PARANA
 
-FILHO, A. G., TOSCANO, C. Física. Ensino Médio. Volume Único. Editora Scipione. 
+TIPLER, P. A., Física, Vol. 3. , Ed. Guanabara Dois.
 
-HALLIDAY e RESNICK. Fundamentos de Física 3, 6a. Edição Brasileira. Editora Livros Técnicos e Científicos. 
+## **Bibliografia Complementar:**
 
-53 
+RAMALHO JR, F., FERRARO, N. G., SOARES, P. A. T., Física, 3ano, Editora Moderna.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+BARRETO, M., Física no Ensino Médio. Papirus Editora.
 
-INSTITUTOFEDERAL PARANA 
+NUSSENZWEIG, H. M., Curso de Física Básica, Vol. 3 , Ed. EdgardBlücher Ltda.
 
-TIPLER, P. A., Física, Vol. 3. , Ed. Guanabara Dois. 
+SEARS, F.W., ZEMANSKI, M., YOUNG, D., FREEDMAN, R. ,Fisica III. 10a. edição, Addison-Wesley. São Paulo, 2003.
 
-## **Bibliografia Complementar:** 
+YAMAMOTO, K., FUKE, L. F., Física para o Ensino Médio. Editora Saraiva.
 
-RAMALHO JR, F., FERRARO, N. G., SOARES, P. A. T., Física, 3ano, Editora Moderna. 
+**Câmpus Curitiba do IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Química I **Carga Horária** : 80 **Período letivo:** 1º ano **Ementa:** Introdução à Química; Matéria, energia e suas transformações; Substâncias químicas, Teoria Atômica, Estrutura atômica; Periodicidade Química; Ligações interatômicas, Interações intermoleculares; Funções inorgânicas, Quantidade de matéria (mol) e Estequiometria. **Bibliografia Básica:** FELTRE, R. **Química.** 6 ed. V.1, São Paulo: Moderna, 2004. CARVALHO, G.C; **Química Moderna** , V. único, São Paulo: Scipione, 2000. USBERCO, João; SALVADOR, Edgard. **Química essencial.** 4. ed.V.único, São Paulo: Saraiva, 2007. SARDELLA, A.; MATEUS, E. **Curso de química.** 21ª ed. V. 1, São Paulo: Ática, 1995. TITO, F. M.; CANTO, E. L. **Química na abordagem do cotidiano** . 3ª ed. V. 1, São Paulo: Moderna, 2003. **Bibliografia Complementar:** PERUZZO, F. M.; CANTO, E. L. **Química na abordagem do cotidiano** . 2ª ed. V. 2. São Paulo: Moderna,1999. VANIN, J.A. **Alquimistas e Químicos: o passado, o presente e o futuro** , 11ª ed. V. único. São Paulo, Editora Moderna, 1994. KOTZ, John C.; TREICHEL, Paul; WEAVER, Gabriela C. **Química geral e reações químicas.** V. 2. São Paulo: Cengage Learning, 2010. BROWN, T. L.; LEMAY, H. E.; BURSTEN, B. E. **Química: a ciência central** . 9ª ed. V. único. São Paulo: Pearson PrenticeHall, 2005. REIS, M; **Química Integral.** V. único. São Paulo: FTD, 1993.
 
-BARRETO, M., Física no Ensino Médio. Papirus Editora. 
+54
 
-NUSSENZWEIG, H. M., Curso de Física Básica, Vol. 3 , Ed. EdgardBlücher Ltda. 
+INSTITUTOFEDERAL PARANA
 
-SEARS, F.W., ZEMANSKI, M., YOUNG, D., FREEDMAN, R. ,Fisica III. 10a. edição, Addison-Wesley. São Paulo, 2003. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-YAMAMOTO, K., FUKE, L. F., Física para o Ensino Médio. Editora Saraiva. 
+**Câmpus Curitiba do IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Química II **Carga Horária** : 80 **Período letivo:** 2º ano **Ementa:**
 
-**Câmpus Curitiba do IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Química I **Carga Horária** : 80 **Período letivo:** 1º ano **Ementa:** Introdução à Química; Matéria, energia e suas transformações; Substâncias químicas, Teoria Atômica, Estrutura atômica; Periodicidade Química; Ligações interatômicas, Interações intermoleculares; Funções inorgânicas, Quantidade de matéria (mol) e Estequiometria. **Bibliografia Básica:** FELTRE, R. **Química.** 6 ed. V.1, São Paulo: Moderna, 2004. CARVALHO, G.C; **Química Moderna** , V. único, São Paulo: Scipione, 2000. USBERCO, João; SALVADOR, Edgard. **Química essencial.** 4. ed.V.único, São Paulo: Saraiva, 2007. SARDELLA, A.; MATEUS, E. **Curso de química.** 21ª ed. V. 1, São Paulo: Ática, 1995. TITO, F. M.; CANTO, E. L. **Química na abordagem do cotidiano** . 3ª ed. V. 1, São Paulo: Moderna, 2003. **Bibliografia Complementar:** PERUZZO, F. M.; CANTO, E. L. **Química na abordagem do cotidiano** . 2ª ed. V. 2. São Paulo: Moderna,1999. VANIN, J.A. **Alquimistas e Químicos: o passado, o presente e o futuro** , 11ª ed. V. único. São Paulo, Editora Moderna, 1994. KOTZ, John C.; TREICHEL, Paul; WEAVER, Gabriela C. **Química geral e reações químicas.** V. 2. São Paulo: Cengage Learning, 2010. BROWN, T. L.; LEMAY, H. E.; BURSTEN, B. E. **Química: a ciência central** . 9ª ed. V. único. São Paulo: Pearson PrenticeHall, 2005. REIS, M; **Química Integral.** V. único. São Paulo: FTD, 1993. 
+Estudo das soluções; Termoquímica; Cinética Química; Equilíbrio Químico; Eletroquímica; Radioatividade.
 
-54 
+**Bibliografia Básica:** FELTRE, R. **Química.** 6 ed. V.2, São Paulo: Moderna, 2004.
 
-INSTITUTOFEDERAL PARANA 
+CARVALHO, G.C; **Química Moderna** , V. único, São Paulo: Scipione, 2000. USBERCO, João; SALVADOR, Edgard. **Química essencial.** 4. ed.V.único, São Paulo: Saraiva, 2007.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+SARDELLA, A.; MATEUS, E. **Curso de química.** 21ª ed. V. 2, São Paulo: Ática, 1995. TITO, F. M.; CANTO, E. L. **Química na abordagem do cotidiano** . 3ª ed. V. 2, São Paulo: Moderna, 2003.
 
-**Câmpus Curitiba do IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Química II **Carga Horária** : 80 **Período letivo:** 2º ano **Ementa:** 
+## **Bibliografia Complementar:**
 
-Estudo das soluções; Termoquímica; Cinética Química; Equilíbrio Químico; Eletroquímica; Radioatividade. 
+PERUZZO, F. M.; CANTO, E. L. **Química na abordagem do cotidiano** . 2ª ed. V. 2. São Paulo: Moderna,1999.
 
-**Bibliografia Básica:** FELTRE, R. **Química.** 6 ed. V.2, São Paulo: Moderna, 2004. 
+VANIN, J.A. **Alquimistas e Químicos: o passado, o presente e o futuro** , 11ª ed. V. único. São Paulo, Editora Moderna, 1994.
 
-CARVALHO, G.C; **Química Moderna** , V. único, São Paulo: Scipione, 2000. USBERCO, João; SALVADOR, Edgard. **Química essencial.** 4. ed.V.único, São Paulo: Saraiva, 2007. 
+KOTZ, John C.; TREICHEL, Paul; WEAVER, Gabriela C. **Química geral e reações químicas.** V. 2. São Paulo: Cengage Learning, 2010.
 
-SARDELLA, A.; MATEUS, E. **Curso de química.** 21ª ed. V. 2, São Paulo: Ática, 1995. TITO, F. M.; CANTO, E. L. **Química na abordagem do cotidiano** . 3ª ed. V. 2, São Paulo: Moderna, 2003. 
+BROWN, T. L.; LEMAY, H. E.; BURSTEN, B. E. **Química: a ciência central** . 9ª ed. V. único. São Paulo: Pearson PrenticeHall, 2005.
 
-## **Bibliografia Complementar:** 
+REIS, M; **Química Integral.** V. único. São Paulo: FTD, 1993.
 
-PERUZZO, F. M.; CANTO, E. L. **Química na abordagem do cotidiano** . 2ª ed. V. 2. São Paulo: Moderna,1999. 
+**Campus Curitiba do IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Química III **Carga Horária** : 80 **Período letivo:** 3º ano **Ementa:** Introdução à Química orgânica; Classificação dos carbonos e das cadeias carbônicas; Nomenclatura das funções orgânicas; Métodos de obtenção de compostos orgânicos; Séries orgânicas; Isomeria plana e espacial; Mecanismos de reação; Principais compostos orgânicos e suas utilizações; Polímeros e açúcares.
 
-VANIN, J.A. **Alquimistas e Químicos: o passado, o presente e o futuro** , 11ª ed. V. único. São Paulo, Editora Moderna, 1994. 
+55
 
-KOTZ, John C.; TREICHEL, Paul; WEAVER, Gabriela C. **Química geral e reações químicas.** V. 2. São Paulo: Cengage Learning, 2010. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-BROWN, T. L.; LEMAY, H. E.; BURSTEN, B. E. **Química: a ciência central** . 9ª ed. V. único. São Paulo: Pearson PrenticeHall, 2005. 
+INSTITUTOFEDERAL PARANA
 
-REIS, M; **Química Integral.** V. único. São Paulo: FTD, 1993. 
+## **Bibliografia Básica:**
 
-**Campus Curitiba do IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Química III **Carga Horária** : 80 **Período letivo:** 3º ano **Ementa:** Introdução à Química orgânica; Classificação dos carbonos e das cadeias carbônicas; Nomenclatura das funções orgânicas; Métodos de obtenção de compostos orgânicos; Séries orgânicas; Isomeria plana e espacial; Mecanismos de reação; Principais compostos orgânicos e suas utilizações; Polímeros e açúcares. 
+FELTRE, R. **Química.** 6 ed. V.3, São Paulo: Moderna, 2004.
 
-55 
+CARVALHO, G.C; **Química Moderna** , V. único, São Paulo: Scipione, 2000.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+USBERCO, João; SALVADOR, Edgard. **Química essencial.** 4. ed. V. único, São Paulo: Saraiva, 2007.
 
-INSTITUTOFEDERAL PARANA 
+SARDELLA, A.; MATEUS, E. **Curso de química.** 21ª ed. V. 3, São Paulo: Ática, 1995.
 
-## **Bibliografia Básica:** 
+TITO, F. M.; CANTO, E. L. **Química na abordagem do cotidiano** . 3ª ed. V. 3, São Paulo: Moderna, 2003.
 
-FELTRE, R. **Química.** 6 ed. V.3, São Paulo: Moderna, 2004. 
+## **Bibliografia Complementar:**
 
-CARVALHO, G.C; **Química Moderna** , V. único, São Paulo: Scipione, 2000. 
+PERUZZO, F. M.; CANTO, E. L. **Química na abordagem do cotidiano** . 2ª ed. V. 3. São Paulo: Moderna,1999.
 
-USBERCO, João; SALVADOR, Edgard. **Química essencial.** 4. ed. V. único, São Paulo: Saraiva, 2007. 
+VANIN, J.A. **Alquimistas e Químicos: o passado, o presente e o futuro** , 11ª ed. V. único. São Paulo, Editora Moderna, 1994.
 
-SARDELLA, A.; MATEUS, E. **Curso de química.** 21ª ed. V. 3, São Paulo: Ática, 1995. 
+KOTZ, John C.; TREICHEL, Paul; WEAVER, Gabriela C. **Química geral e reações químicas.** V. 3. São Paulo: Cengage Learning, 2010.
 
-TITO, F. M.; CANTO, E. L. **Química na abordagem do cotidiano** . 3ª ed. V. 3, São Paulo: Moderna, 2003. 
+BROWN, T. L.; LEMAY, H. E.; BURSTEN, B. E. **Química: a ciência central** . 9ª ed. V. único. São Paulo: Pearson PrenticeHall, 2005.
 
-## **Bibliografia Complementar:** 
+REIS, M; **Química Integral.** V. único. São Paulo: FTD, 1993.
 
-PERUZZO, F. M.; CANTO, E. L. **Química na abordagem do cotidiano** . 2ª ed. V. 3. São Paulo: Moderna,1999. 
+**Campus Curitiba do IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Temas contemporâneos **Carga Horária:** 40 **Período letivo:** 3º ano
 
-VANIN, J.A. **Alquimistas e Químicos: o passado, o presente e o futuro** , 11ª ed. V. único. São Paulo, Editora Moderna, 1994. 
+## **Ementa:**
 
-KOTZ, John C.; TREICHEL, Paul; WEAVER, Gabriela C. **Química geral e reações químicas.** V. 3. São Paulo: Cengage Learning, 2010. 
+Análise de temas contemporâneos a partir dos estudos envolvendo diferentes áreas de conhecimento, tendo como foco de investigação o indivíduo, a sociedade, a ciência e a tecnologia no século XXI.
 
-BROWN, T. L.; LEMAY, H. E.; BURSTEN, B. E. **Química: a ciência central** . 9ª ed. V. único. São Paulo: Pearson PrenticeHall, 2005. 
+**Bibliografia Básica:** BAUMAN, Zygmunt. **Modernidade líquida.** Rio de Janeiro: Zahar, 2001.
 
-REIS, M; **Química Integral.** V. único. São Paulo: FTD, 1993. 
+RESENDE, Beatriz. **Contemporâneos. Expressão da literatura Brasileira no século XXI** . Rio de Janeiro: Casa da Palavra, Biblioteca Nacional, 2008.
 
-**Campus Curitiba do IFPR Curso:** Administração **Eixo Tecnológico:** Gestão e Negócios **Componente Curricular** : Temas contemporâneos **Carga Horária:** 40 **Período letivo:** 3º ano 
+TORRES, Carlos M; et al. **Física, ciência e tecnologia** . São Paulo: Moderna, 2010.
 
-## **Ementa:** 
+56
 
-Análise de temas contemporâneos a partir dos estudos envolvendo diferentes áreas de conhecimento, tendo como foco de investigação o indivíduo, a sociedade, a ciência e a tecnologia no século XXI. 
+1
 
-**Bibliografia Básica:** BAUMAN, Zygmunt. **Modernidade líquida.** Rio de Janeiro: Zahar, 2001. 
+Ministerioda Educacao InstitutoFederaldoParana
 
-RESENDE, Beatriz. **Contemporâneos. Expressão da literatura Brasileira no século XXI** . Rio de Janeiro: Casa da Palavra, Biblioteca Nacional, 2008. 
+INSTITUTOFEDERAL PARANA
 
-TORRES, Carlos M; et al. **Física, ciência e tecnologia** . São Paulo: Moderna, 2010. 
+## **Bibliografia complementar:**
 
-56 
+ARENDT, Hannah. **A condição humana** . 10ª Ed. Rio de Janeiro:Forense Universitária, 2005
 
-1 
+FÁVERO, Osmar et al. **Juventude e contemporaneidade** . Brasília: UNESC, MEC, ANPed, 2007 (Coleção Educação para todos;16)
 
-Ministerioda Educacao InstitutoFederaldoParana 
+GIDDENS, Anthony. **Sociologia** . 6ª ed. Porto Alegre: Penso, 2012.
 
-INSTITUTOFEDERAL PARANA 
+OLIVEIRA, Francisco e RIZEK, Cibele S (orgs) . **A era da indeterminação** . São Paulo: Boitempo, 2007.
 
-## **Bibliografia complementar:** 
+**REVISTA SCIENTIFIC AMERICAN.** Brasil. São Paulo: Ediouro Duetto Editorial LTDA
 
-ARENDT, Hannah. **A condição humana** . 10ª Ed. Rio de Janeiro:Forense Universitária, 2005 
+57
 
-FÁVERO, Osmar et al. **Juventude e contemporaneidade** . Brasília: UNESC, MEC, ANPed, 2007 (Coleção Educação para todos;16) 
+Ministerioda Educacao InstitutoFederaldoParana
 
-GIDDENS, Anthony. **Sociologia** . 6ª ed. Porto Alegre: Penso, 2012. 
+INSTITUTOFEDERAL PARANA
 
-OLIVEIRA, Francisco e RIZEK, Cibele S (orgs) . **A era da indeterminação** . São Paulo: Boitempo, 2007. 
+## **4. Documentos anexos:**
 
-**REVISTA SCIENTIFIC AMERICAN.** Brasil. São Paulo: Ediouro Duetto Editorial LTDA 
+## **REGULAMENTO DO ESTÁGIO NÃO OBRIGATÓRIO DOS CURSOS DO CAMPUS CURITIBA DO INSTITUTO FEDERAL DO PARANÁ**
 
-57 
+## **CURSO: TÉCNICO INTEGRADO EM ADMINISTRAÇÃO**
 
-Ministerioda Educacao InstitutoFederaldoParana 
+## CAPÍTULO I
 
-INSTITUTOFEDERAL PARANA 
+DA NATUREZA E FINALIDADE
 
-## **4. Documentos anexos:** 
+Artigo 1º - O estágio curricular não obrigatório é um ato educativo de natureza opcional, com a finalidade de complementar os conhecimentos teóricos recebidos pelo estudante ao longo das atividades de ensino/aprendizagem e obedecerá a legislação específica, bem como as normas e diretrizes internas da IFPR.
 
-## **REGULAMENTO DO ESTÁGIO NÃO OBRIGATÓRIO DOS CURSOS DO CAMPUS CURITIBA DO INSTITUTO FEDERAL DO PARANÁ** 
+## CAPÍTULO II
 
-## **CURSO: TÉCNICO INTEGRADO EM ADMINISTRAÇÃO** 
+## DA ORGANIZAÇÃO
 
-## CAPÍTULO I 
+Artigo 2º - O estágio curricular não obrigatório deve ser organizado tendo em vista os seguintes objetivos:
 
-DA NATUREZA E FINALIDADE 
+I – ampliar a formação acadêmico-profissional do estudante;
 
-Artigo 1º - O estágio curricular não obrigatório é um ato educativo de natureza opcional, com a finalidade de complementar os conhecimentos teóricos recebidos pelo estudante ao longo das atividades de ensino/aprendizagem e obedecerá a legislação específica, bem como as normas e diretrizes internas da IFPR. 
+II- propiciar ao estudante, na prática, a aplicação dos conhecimentos teóricos obtidos durante a realização do curso;
 
-## CAPÍTULO II 
+III - promover a integração social do estudante.
 
-## DA ORGANIZAÇÃO 
+Artigo 3º - O estágio curricular não obrigatório será regulamentado pela Pró-Reitoria de Interação com a Sociedade em articulação com a Direção de Ensino, Pesquisa e Extensão do Campus Curitiba, com as seguintes atribuições:
 
-Artigo 2º - O estágio curricular não obrigatório deve ser organizado tendo em vista os seguintes objetivos: 
+I - celebrar convênio com a entidade concedente de estágio ou agência de integração empresaescola;
 
-I – ampliar a formação acadêmico-profissional do estudante; 
+II - aprovar o plano de estágio elaborado pelo estudante e seu orientador;
 
-II- propiciar ao estudante, na prática, a aplicação dos conhecimentos teóricos obtidos durante a realização do curso; 
+III - assegurar a supervisão acadêmica do estágio, a ser realizada de forma compartilhadapelos orientadores e pelos supervisores profissionais vinculados às entidades concedentes;
 
-III - promover a integração social do estudante. 
+IV - aprovar e assinar o termo de compromisso de estágio, conforme legislação vigente.
 
-Artigo 3º - O estágio curricular não obrigatório será regulamentado pela Pró-Reitoria de Interação com a Sociedade em articulação com a Direção de Ensino, Pesquisa e Extensão do Campus Curitiba, com as seguintes atribuições: 
+Artigo 4º - Só poderão estagiar estudantes regularmente matriculados e com freqüência regular, preferencialmente depois de cursado um semestre letivo.
 
-I - celebrar convênio com a entidade concedente de estágio ou agência de integração empresaescola; 
+§ único - a duração do estágio curricular não obrigatório não poderá ser inferior a um semestre letivo. Artigo 5º - Para fins de aproveitamento de créditos é vedada a equivalência entre estágio curricular obrigatório e não obrigatório.
 
-II - aprovar o plano de estágio elaborado pelo estudante e seu orientador; 
+## CAPÍTULO III
 
-III - assegurar a supervisão acadêmica do estágio, a ser realizada de forma compartilhadapelos orientadores e pelos supervisores profissionais vinculados às entidades concedentes; 
+## DO CAMPO DE ESTÁGIO
 
-IV - aprovar e assinar o termo de compromisso de estágio, conforme legislação vigente. 
+Artigo 6º - Constituem campo de estágio as entidades de direito privado, os órgãos de administração pública, as instituições de ensino, a comunidade em geral e as próprias unidades de serviços e ensino do IFPR
 
-Artigo 4º - Só poderão estagiar estudantes regularmente matriculados e com freqüência regular, preferencialmente depois de cursado um semestre letivo. 
+Artigo 7º - Para aprovação de campo de estágio serão considerados pelo Campus Curitiba, em relação à entidade ofertante de campo de estágio:
 
-§ único - a duração do estágio curricular não obrigatório não poderá ser inferior a um semestre letivo. Artigo 5º - Para fins de aproveitamento de créditos é vedada a equivalência entre estágio curricular obrigatório e não obrigatório. 
+I - existência de infra-estrutura material e de recursos humanos;
 
-## CAPÍTULO III 
+II - aceitação das condições de supervisão e avaliação do Campus Curitiba do IFPR;
 
-## DO CAMPO DE ESTÁGIO 
+III - anuência e acatamento às normas disciplinadoras do estágio curricular não obrigatório do Campus Curitiba do IFPR;
 
-Artigo 6º - Constituem campo de estágio as entidades de direito privado, os órgãos de administração pública, as instituições de ensino, a comunidade em geral e as próprias unidades de serviços e ensino do IFPR 
+Artigo 8º - O campo de estágio será aprovado e oficializado pela Pró-Reitoria de Interação com a Sociedade com a entidade concedente de estágio ou agentes de integração empresa-escola, estes últimos entendidos como entidades que atuam na intermediação da busca de campos de stágio e ofertas de vagas.
 
-Artigo 7º - Para aprovação de campo de estágio serão considerados pelo Campus Curitiba, em relação à entidade ofertante de campo de estágio: 
+§ 1º - A jornada do estágio deverá ser compatível com o horário escolar do estudante;
 
-I - existência de infra-estrutura material e de recursos humanos; 
+58
 
-II - aceitação das condições de supervisão e avaliação do Campus Curitiba do IFPR; 
+Ministerioda Educacao InstitutoFederaldoParana
 
-III - anuência e acatamento às normas disciplinadoras do estágio curricular não obrigatório do Campus Curitiba do IFPR; 
+INSTITUTOFEDERAL PARANA
 
-Artigo 8º - O campo de estágio será aprovado e oficializado pela Pró-Reitoria de Interação com a Sociedade com a entidade concedente de estágio ou agentes de integração empresa-escola, estes últimos entendidos como entidades que atuam na intermediação da busca de campos de stágio e ofertas de vagas. 
+§ 2º - deverá ser garantida a adequação entre as atividades desenvolvidas no estágio e a área de formação do estudante.
 
-§ 1º - A jornada do estágio deverá ser compatível com o horário escolar do estudante; 
+## CAPÍTULO IV
 
-58 
+## DA SUPERVISÃO E ORIENTAÇÃO DE ESTÁGIO
 
-Ministerioda Educacao InstitutoFederaldoParana 
+Artigo 9º - A supervisão do estágio curricular não obrigatório caberá ao profissional vinculado à entidade concedente do estágio em conjunto com profissional orientador indicado pelo curso ao qual o aluno está matriculado.
 
-INSTITUTOFEDERAL PARANA 
+Artigo 10 - Cabe ao profissional orientador do estágio:
 
-§ 2º - deverá ser garantida a adequação entre as atividades desenvolvidas no estágio e a área de formação do estudante. 
+I - elaborar em conjunto com o estudante estagiário o plano de estágio, observada a adequação das atividades de estágio com a área de formação do estudante, de forma a garantir o desenvolvimento de competências necessárias à sua formação profissional.
 
-## CAPÍTULO IV 
+II - solicitar relatórios trimestrais dos estágios, verificar a assiduidade do estagiário e preencher a ficha de avaliação.
 
-## DA SUPERVISÃO E ORIENTAÇÃO DE ESTÁGIO 
+Artigo 11 - Cabe ao supervisor profissional da entidade concedente:
 
-Artigo 9º - A supervisão do estágio curricular não obrigatório caberá ao profissional vinculado à entidade concedente do estágio em conjunto com profissional orientador indicado pelo curso ao qual o aluno está matriculado. 
+I - avaliar as atividades desenvolvidas pelo estudante estagiário;
 
-Artigo 10 - Cabe ao profissional orientador do estágio: 
+II - assinar a ficha de freqüência do aluno estagiário;
 
-I - elaborar em conjunto com o estudante estagiário o plano de estágio, observada a adequação das atividades de estágio com a área de formação do estudante, de forma a garantir o desenvolvimento de competências necessárias à sua formação profissional. 
+III - orientar a elaboração dos relatórios do estágio e preencher a ficha de avaliação;
 
-II - solicitar relatórios trimestrais dos estágios, verificar a assiduidade do estagiário e preencher a ficha de avaliação. 
+IV - verificar a adequação das atividades de estágio com a área de formação do estudante, de forma a garantir o desenvolvimento de competências necessárias à sua formação profissional.
 
-Artigo 11 - Cabe ao supervisor profissional da entidade concedente: 
+## CAPÍTULO V
 
-I - avaliar as atividades desenvolvidas pelo estudante estagiário; 
+## DA AVALIAÇÃO DO ESTÁGIO
 
-II - assinar a ficha de freqüência do aluno estagiário; 
+Artigo 12 - A avaliação do estágio curricular não obrigatório será realizada pelo profissional orientador do estágio, em conjunto com o supervisor profissional da entidade concedente, observados os seguintes critérios:
 
-III - orientar a elaboração dos relatórios do estágio e preencher a ficha de avaliação; 
+I - desempenho profissional do estudante estagiário nas atividades contidas no plano de estágio; II - assiduidade do estudante estagiário na entidade concedente;
 
-IV - verificar a adequação das atividades de estágio com a área de formação do estudante, de forma a garantir o desenvolvimento de competências necessárias à sua formação profissional. 
+## CAPÍTULO VI
 
-## CAPÍTULO V 
+## DAS DISPOSIÇÕES GERAIS
 
-## DA AVALIAÇÃO DO ESTÁGIO 
+Artigo 13 - O estágio de que trata este regulamento não cria vínculo empregatício de qualquer natureza entre o estudante e a entidade concedente, facultado ao estagiário o recebimento de bolsa. § único – A entidade concedente de estágio ou os agentes de integração empresa-escola providenciarão seguro de acidentes pessoais ao estudante em regime de estágio curricular não obrigatório.
 
-Artigo 12 - A avaliação do estágio curricular não obrigatório será realizada pelo profissional orientador do estágio, em conjunto com o supervisor profissional da entidade concedente, observados os seguintes critérios: 
+Artigo14 - A entidade concedente poderá expedir declaração referente à realização de estágio curricular não obrigatório, depois de cumpridas todas as formalidades previstas para essa modalidade.
 
-I - desempenho profissional do estudante estagiário nas atividades contidas no plano de estágio; II - assiduidade do estudante estagiário na entidade concedente; 
+Artigo 15 - Os casos omissos serão resolvidos pela Direção de Ensino, Pesquisa e Extensão do Campus Curitiba do IFPR em consonância com as orientações recebidas da Pró-Reitoria de Interação com a Sociedade.
 
-## CAPÍTULO VI 
+Curitiba, 20 de fevereiro de 2013.
 
-## DAS DISPOSIÇÕES GERAIS 
+Direção de Ensino                                          Direção de Pesquisa, Extensão e Inovação
 
-Artigo 13 - O estágio de que trata este regulamento não cria vínculo empregatício de qualquer natureza entre o estudante e a entidade concedente, facultado ao estagiário o recebimento de bolsa. § único – A entidade concedente de estágio ou os agentes de integração empresa-escola providenciarão seguro de acidentes pessoais ao estudante em regime de estágio curricular não obrigatório. 
+59
 
-Artigo14 - A entidade concedente poderá expedir declaração referente à realização de estágio curricular não obrigatório, depois de cumpridas todas as formalidades previstas para essa modalidade. 
+INSTITUTOFEDERAL PARANA
 
-Artigo 15 - Os casos omissos serão resolvidos pela Direção de Ensino, Pesquisa e Extensão do Campus Curitiba do IFPR em consonância com as orientações recebidas da Pró-Reitoria de Interação com a Sociedade. 
+MinisteriodaEducacao<br>InstitutoFederaldoParana<br>## **RELATÓRIO DE ATIVIDADES DE ESTÁGIO CURRICULAR NÃO OBRIGATÓRIO**
 
-Curitiba, 20 de fevereiro de 2013. 
+O relatório será elaborado pelo estagiário devendo conter:
 
-Direção de Ensino                                          Direção de Pesquisa, Extensão e Inovação 
+- 1) Dados de identificação do estagiário e da unidade concedente.
 
-59 
+- 2) Setores em que o estagiário atuou na empresa.
 
-INSTITUTOFEDERAL PARANA 
+- 3) Descrever as atividades desenvolvidas.
 
-**==> picture [96 x 20] intentionally omitted <==**
+- 4) Apresentar pelo menos uma situação real de trabalho, vivenciada pelo estagiário na unidade concedente, contemplando as atividades de trabalho vinculadas área de formação acadêmica-profissional.
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+- 5) Avaliação do estágio pelo acadêmico. O estagiário deve responder as seguintes perguntas:
 
+1º) Com relação ao desenvolvimento das atividades.
 
-## **RELATÓRIO DE ATIVIDADES DE ESTÁGIO CURRICULAR NÃO OBRIGATÓRIO** 
+- 1.1) Está de acordo com suas expectativas?
 
-O relatório será elaborado pelo estagiário devendo conter: 
+- 1.2) Está oferecendo experiência para o exercício profissional futuro?
 
-- 1) Dados de identificação do estagiário e da unidade concedente. 
+- 1.3) Permite conhecer novas técnicas e metodologias de trabalho?
 
-- 2) Setores em que o estagiário atuou na empresa. 
+- 1.4) Oferece experiência prática na sua área de formação?
 
-- 3) Descrever as atividades desenvolvidas. 
+- 1.5) Permite conhecer a importância do trabalho em equipe?
 
-- 4) Apresentar pelo menos uma situação real de trabalho, vivenciada pelo estagiário na unidade concedente, contemplando as atividades de trabalho vinculadas área de formação acadêmica-profissional. 
+- 1.6) Você sugere que outro acadêmico faça um estágio semelhante ao seu? Por quê?
 
-- 5) Avaliação do estágio pelo acadêmico. O estagiário deve responder as seguintes perguntas: 
+2º) Com relação ao ambiente de trabalho:
 
-1º) Com relação ao desenvolvimento das atividades. 
+## 2.1) O ambiente físico é adequado?
 
-- 1.1) Está de acordo com suas expectativas? 
+   - 2.2) Houve integração com os funcionários da empresa?
 
-- 1.2) Está oferecendo experiência para o exercício profissional futuro? 
+   - 2.3) Como foi a orientação e supervisão exercidas pela empresa?
 
-- 1.3) Permite conhecer novas técnicas e metodologias de trabalho? 
+- 6) Avaliação do estágio pelo supervisor.
 
-- 1.4) Oferece experiência prática na sua área de formação? 
-
-- 1.5) Permite conhecer a importância do trabalho em equipe? 
-
-- 1.6) Você sugere que outro acadêmico faça um estágio semelhante ao seu? Por quê? 
-
-2º) Com relação ao ambiente de trabalho: 
-
-## 2.1) O ambiente físico é adequado? 
-
-   - 2.2) Houve integração com os funcionários da empresa? 
-
-   - 2.3) Como foi a orientação e supervisão exercidas pela empresa? 
-
-- 6) Avaliação do estágio pelo supervisor. 
-
-O supervisor deverá preencher os seguintes itens: 
+O supervisor deverá preencher os seguintes itens:
 
 ||Aspectos considerados do<br>estagiário|Muito<br>bom|Bom|Regular|
 |---|---|---|---|---|
@@ -2351,11 +2244,9 @@ O supervisor deverá preencher os seguintes itens:
 |4)|Capacidade de autocrítica.||||
 |5)|Iniciativa e persistência no||||
 
+60
 
-
-60 
-
-MinisteriodaEducacao InstitutoFederaldoParana 
+MinisteriodaEducacao InstitutoFederaldoParana
 
 ||INSTITUTOFEDERAL<br>PARANA|
 |---|---|
@@ -2365,117 +2256,107 @@ MinisteriodaEducacao InstitutoFederaldoParana
 |7)|Compreensão das tarefas.|
 |8)|Contribuição com idéias.|
 
+Recomendações:___________________________________________________________________
 
+_________________________________________________________________________________
 
-Recomendações:___________________________________________________________________ 
+_________________________________________________________________________________
 
-_________________________________________________________________________________ 
+_________________________________________________________________________________
 
-_________________________________________________________________________________ 
+_________________________________________________________________________________
 
-_________________________________________________________________________________ 
+___________________________
 
-_________________________________________________________________________________ 
+## 7) Avaliação do estágio pelo professor orientador:
 
-___________________________ 
+Diante das respostas dadas pelo estagiário e pelo supervisor de estágio, considero o estágio concluído com
 
-## 7) Avaliação do estágio pelo professor orientador: 
+(   ) êxito                         (   ) sem êxito
 
-Diante das respostas dadas pelo estagiário e pelo supervisor de estágio, considero o estágio concluído com 
+Data e local:__________________________________________________________________
 
-(   ) êxito                         (   ) sem êxito 
+Assinatura do Estagiário: ________________________________________________________
 
-Data e local:__________________________________________________________________ 
+Assinatura do Supervisor:________________________________________________________
 
-Assinatura do Estagiário: ________________________________________________________ 
+Assinatura do Professor Orientador: ________________________________________________
 
-Assinatura do Supervisor:________________________________________________________ 
+61
 
-Assinatura do Professor Orientador: ________________________________________________ 
+INSTITUTOFEDERAL PARANA
 
-61 
+Ministerioda Educacao InstitutoFederaldoParana
 
-INSTITUTOFEDERAL PARANA 
+## **5. Referências:**
 
-Ministerioda Educacao InstitutoFederaldoParana 
+Catálogo Nacional de Cursos Técnicos.
 
-## **5. Referências:** 
+Lei de Diretrizes e Bases da Educação Nacional (LDB).
 
-Catálogo Nacional de Cursos Técnicos. 
+Parecer CNE/CEB nº 39/2004.
 
-Lei de Diretrizes e Bases da Educação Nacional (LDB). 
+Resolução 54/2011 IFPR.
 
-Parecer CNE/CEB nº 39/2004. 
+Portaria 120/2009 IFPR.
 
-Resolução 54/2011 IFPR. 
+Lei 11.645/2008. Resolução 02/2012 CNE/CEB.
 
-Portaria 120/2009 IFPR. 
+Resolução n[o] 02/2013 - CONSUP/IFPR (Regulamento de Estágios no IFPR).
 
-Lei 11.645/2008. Resolução 02/2012 CNE/CEB. 
+Secretaria de Políticas de Promoção da Igualdade Racial.
 
-Resolução n[o] 02/2013 - CONSUP/IFPR (Regulamento de Estágios no IFPR). 
+INSTITUTOFEDERAL<br>PARANA<br>Ministerioda Educacao InstitutoFederaldoParana
 
-Secretaria de Políticas de Promoção da Igualdade Racial. 
+## **ANEXOS**
 
-62 
+## **NAPNE - Núcleo de Atendimento a Pessoas com Necessidades Especificas**
 
-**==> picture [68 x 16] intentionally omitted <==**
+O projeto político de curso, aqui, muito além de ser o ponto de referência da prática educacional do IFPR –   m  s   ri iba de e, seg ndo Veiga (1998,  .13) “[...] ser construído e vivenciado em todos os momentos, por todos os envolvidos com o processo ed ca i o da escola.” Des a forma, as ectos pontuais da aprendizagem inclusiva, que é uma questão individual de cada estudante na sua diversidade, deve ser amplamente discutido com o grupo de professores, coordenadores e técnicos administrativos envolvidos com o processo de aprendizagem, de forma que o estudante com necessidade específica seja verdadeiramente atendido permaneça na escola, aprendendo e sendo respeitado em suas potencialidades.
 
-**----- Start of picture text -----**<br>
-INSTITUTOFEDERAL<br>PARANA<br>**----- End of picture text -----**<br>
+A educação inclusiva requer uma redefinição conceitual e organizacional das políticas educacionais. Nesta perspectiva, o financiamento dos serviços de apoio aos alunos público alvo da educação especial devem integrar os custos gerais com o desenvolvimento do ensino, pesquisa e extensão, sendo disponibilizados em qualquer nível, etapa ou modalidade de ensino, no âmbito da educação pública ou privada.
 
+A Política Nacional de Educação Especial na Perspectiva da Educação Inclusiva (2008) tem como objetivo garantir o acesso, a participação e a aprendizagem dos alunos com deficiência, transtornos globais do desenvolvimento e altas habilidades/superdotação na escola regular, orientando para a transversalidade da educação especial, o atendimento educacional especializado, a continuidade da escolarização, a formação de professores, a participação da família e da comunidade, a acessibilidade e a articulação intersetorial na implantação das políticas públicas.
 
-Ministerioda Educacao InstitutoFederaldoParana 
+Com vistas à Educação Profissional e Tecnológica, objetiva-se ressaltar as condições necessárias para o pleno acesso, participação e aprendizagem dos estudantes com deficiência. Ressalta-se que a inclusão deve considerar quesito da Legislação vigente, tais quais:
 
-## **ANEXOS** 
+ Constituição Federal (1988), artigo 205 – educação é direito de todos;  Lei 10.436 (2002) – reconhece a Língua Brasileira de Sinais, Libras;  Decreto 5.296 (2004) – regulamenta as Leis 10.048 e 10.098 (ambas do ano de 2000) que estabelece os critérios de acessibilidade e atendimento prioritário em estabelecimentos de ensino de qualquer nível, incluindo salas de aula, bibliotecas, auditórios, instalações desportivas, laboratórios, áreas de lazer e sanitários;
 
-## **NAPNE - Núcleo de Atendimento a Pessoas com Necessidades Especificas** 
+ Portaria 3.284 (2003) – dispõe sobre os requisitos de acessibilidade à pessoas com deficiência;
 
-O projeto político de curso, aqui, muito além de ser o ponto de referência da prática educacional do IFPR –   m  s   ri iba de e, seg ndo Veiga (1998,  .13) “[...] ser construído e vivenciado em todos os momentos, por todos os envolvidos com o processo ed ca i o da escola.” Des a forma, as ectos pontuais da aprendizagem inclusiva, que é uma questão individual de cada estudante na sua diversidade, deve ser amplamente discutido com o grupo de professores, coordenadores e técnicos administrativos envolvidos com o processo de aprendizagem, de forma que o estudante com necessidade específica seja verdadeiramente atendido permaneça na escola, aprendendo e sendo respeitado em suas potencialidades. 
+ Decreto 5.626 (2005) – regulamenta a Lei 10.436 (2002) sobre o uso e difusão de Libras, bem como componente dos cursos de formação de professores;
 
-A educação inclusiva requer uma redefinição conceitual e organizacional das políticas educacionais. Nesta perspectiva, o financiamento dos serviços de apoio aos alunos público alvo da educação especial devem integrar os custos gerais com o desenvolvimento do ensino, pesquisa e extensão, sendo disponibilizados em qualquer nível, etapa ou modalidade de ensino, no âmbito da educação pública ou privada. 
+63
 
-A Política Nacional de Educação Especial na Perspectiva da Educação Inclusiva (2008) tem como objetivo garantir o acesso, a participação e a aprendizagem dos alunos com deficiência, transtornos globais do desenvolvimento e altas habilidades/superdotação na escola regular, orientando para a transversalidade da educação especial, o atendimento educacional especializado, a continuidade da escolarização, a formação de professores, a participação da família e da comunidade, a acessibilidade e a articulação intersetorial na implantação das políticas públicas. 
+INSTITUTOFEDERAL PARANA
 
-Com vistas à Educação Profissional e Tecnológica, objetiva-se ressaltar as condições necessárias para o pleno acesso, participação e aprendizagem dos estudantes com deficiência. Ressalta-se que a inclusão deve considerar quesito da Legislação vigente, tais quais: 
+Ministerioda Educacao InstitutoFederaldoParana
 
- Constituição Federal (1988), artigo 205 – educação é direito de todos;  Lei 10.436 (2002) – reconhece a Língua Brasileira de Sinais, Libras;  Decreto 5.296 (2004) – regulamenta as Leis 10.048 e 10.098 (ambas do ano de 2000) que estabelece os critérios de acessibilidade e atendimento prioritário em estabelecimentos de ensino de qualquer nível, incluindo salas de aula, bibliotecas, auditórios, instalações desportivas, laboratórios, áreas de lazer e sanitários; 
+ Decreto 6.571 (2008) – institui o apoio financeiro da União ao ampliar a oferta do atendimento educacional especializado (AEE) à estudantes com deficiência, transtornos globais do desenvolvimento e altas habilidades/superdotação. Institui os Núcleos de Acessibilidade a fim de eliminar barreiras atitudinais, pedagógicas, arquitetônicas e de comunicação que impedem ou dificultam o acesso à educação superior das pessoas com deficiência;
 
- Portaria 3.284 (2003) – dispõe sobre os requisitos de acessibilidade à pessoas com deficiência; 
+ Resolução CNE/CEB nº 4 (2009) – estabelece diretrizes de acessibilidade na Educação Básica;
 
- Decreto 5.626 (2005) – regulamenta a Lei 10.436 (2002) sobre o uso e difusão de Libras, bem como componente dos cursos de formação de professores; 
+ Decreto 6.949 (2009) – assegura acesso ao sistema educacional inclusivo em todos os níveis; e
 
-63 
+ Política Nacional de Educação Especial na perspectiva de Educação Inclusiva (MEC, 2008) – define a Educação Especial como modalidade transversal em todos os níveis, modos e etapas; disponibiliza recursos e serviços de acessibilidade, bem como atendimento educacional especializado e a complementação dos estudos às pessoas com deficiência, transtornos globais do desenvolvimento e altas habilidades/superdotação.
 
-INSTITUTOFEDERAL PARANA 
+O Instituto Federal do Paraná instituiu para o atendimento educacional especializado o Núcleo de Atendimento à Pessoas com Necessidades Especiais (NAPNE), visando o cumprimento da Política e seus desmembramentos. O NAPNE promove o atendimento aos estudantes; monitora as adaptações curriculares, recursos didáticos, estratégias para o desenvolvimento escolar, atividades desenvolvidas; verifica e estimula o relacionamento de apoio ofertado; bem como acompanha as evoluções demonstradas; serve de apoio à Coordenação Pedagógica; além de avaliar a possibilidade de apoios de instituições parceiras.
 
-Ministerioda Educacao InstitutoFederaldoParana 
+Os Parâmetros Curriculares Nacionais definem as estratégias para a educação dos alunos com necessidades educacionais específicas e classificam as adequações curriculares em duas categorias: não significativas e significativas (BRASIL, 1999). As adequações curriculares não significativas do currículo são as que implicam modificações menores e são facilmente realizadas pelos professores dentro do contexto normal da sala de aula. As adequações significativas são adotadas quando as medidas anteriores – não significativas – são insuficientes no auxilio ao processo de aprendizagem dos alunos. Nesta última situação, as estratégias devem ser definidas conjuntamente entre o NAPNE, a seção pedagógica e demais profissionais da educação que acompanhem o estudante, seja dentro da sala de aula regular ou em atividades extracurriculares. Juntamente a estas estratégias, o IFPR – Câmpus Curitiba elabora ambientes de aprendizagem, nos quais oficinas, aulas de reforço e nivelamento são apresentadas, de forma que o estudante adapte-se e permaneça na instituição, tendo seu aprendizado garantido.
 
- Decreto 6.571 (2008) – institui o apoio financeiro da União ao ampliar a oferta do atendimento educacional especializado (AEE) à estudantes com deficiência, transtornos globais do desenvolvimento e altas habilidades/superdotação. Institui os Núcleos de Acessibilidade a fim de eliminar barreiras atitudinais, pedagógicas, arquitetônicas e de comunicação que impedem ou dificultam o acesso à educação superior das pessoas com deficiência; 
+64
 
- Resolução CNE/CEB nº 4 (2009) – estabelece diretrizes de acessibilidade na Educação Básica; 
+Ministerioda Educacao InstitutoFederaldoParana
 
- Decreto 6.949 (2009) – assegura acesso ao sistema educacional inclusivo em todos os níveis; e 
+INSTITUTOFEDERAL PARANA
 
- Política Nacional de Educação Especial na perspectiva de Educação Inclusiva (MEC, 2008) – define a Educação Especial como modalidade transversal em todos os níveis, modos e etapas; disponibiliza recursos e serviços de acessibilidade, bem como atendimento educacional especializado e a complementação dos estudos às pessoas com deficiência, transtornos globais do desenvolvimento e altas habilidades/superdotação. 
+## **Referências**
 
-O Instituto Federal do Paraná instituiu para o atendimento educacional especializado o Núcleo de Atendimento à Pessoas com Necessidades Especiais (NAPNE), visando o cumprimento da Política e seus desmembramentos. O NAPNE promove o atendimento aos estudantes; monitora as adaptações curriculares, recursos didáticos, estratégias para o desenvolvimento escolar, atividades desenvolvidas; verifica e estimula o relacionamento de apoio ofertado; bem como acompanha as evoluções demonstradas; serve de apoio à Coordenação Pedagógica; além de avaliar a possibilidade de apoios de instituições parceiras. 
+BRASIL. Ministério da Educação. Secretaria de Educação Fundamental. Secretaria de Educação Especial. **Parâmetros Curriculares Nacionais: adaptações curriculares.** Brasília: MEC/SEF/SEESP, 1999.
 
-Os Parâmetros Curriculares Nacionais definem as estratégias para a educação dos alunos com necessidades educacionais específicas e classificam as adequações curriculares em duas categorias: não significativas e significativas (BRASIL, 1999). As adequações curriculares não significativas do currículo são as que implicam modificações menores e são facilmente realizadas pelos professores dentro do contexto normal da sala de aula. As adequações significativas são adotadas quando as medidas anteriores – não significativas – são insuficientes no auxilio ao processo de aprendizagem dos alunos. Nesta última situação, as estratégias devem ser definidas conjuntamente entre o NAPNE, a seção pedagógica e demais profissionais da educação que acompanhem o estudante, seja dentro da sala de aula regular ou em atividades extracurriculares. Juntamente a estas estratégias, o IFPR – Câmpus Curitiba elabora ambientes de aprendizagem, nos quais oficinas, aulas de reforço e nivelamento são apresentadas, de forma que o estudante adapte-se e permaneça na instituição, tendo seu aprendizado garantido. 
+VEIGA, I. P. A. Projeto Político Pedagógico da escola: uma construção coletiva. In: VEIGA, I. P. A. **Projeto Político Pedagógico da Escola: uma construção possível** . Campinas: Papirus, 1998.
 
-64 
+NOTA técnica IPARDES, O Paraná na Primeira Década do Século XXI, Nº 20, Curitiba, 2010. Acessado em: 09/05/2014 http://www.ipardes.gov.br/biblioteca/docs/NT_20_parana_primeira_decada_sec_xxi.pdf
 
-Ministerioda Educacao InstitutoFederaldoParana 
-
-INSTITUTOFEDERAL PARANA 
-
-## **Referências** 
-
-BRASIL. Ministério da Educação. Secretaria de Educação Fundamental. Secretaria de Educação Especial. **Parâmetros Curriculares Nacionais: adaptações curriculares.** Brasília: MEC/SEF/SEESP, 1999. 
-
-VEIGA, I. P. A. Projeto Político Pedagógico da escola: uma construção coletiva. In: VEIGA, I. P. A. **Projeto Político Pedagógico da Escola: uma construção possível** . Campinas: Papirus, 1998. 
-
-NOTA técnica IPARDES, O Paraná na Primeira Década do Século XXI, Nº 20, Curitiba, 2010. Acessado em: 09/05/2014 http://www.ipardes.gov.br/biblioteca/docs/NT_20_parana_primeira_decada_sec_xxi.pdf 
-
-65 
+65
 
