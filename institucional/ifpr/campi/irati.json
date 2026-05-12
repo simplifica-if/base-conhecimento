@@ -34,10 +34,11 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "3200 horas. 1.1.10 Vagas totais (anual) 40 vagas 1.1.11 Escolaridade mínima exigida Ensino Médio completo 1.1.12 Coordenador Nom",
+            "trecho_fonte": "Vagas totais (anual) 40 vagas",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -69,10 +70,11 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "4.570 horas 1.1.10 Vagas totais (anual) 40 1.1.11 Escolaridade mínima exigida Ensino Médio completo. 1.1.12 Coordenador Nom",
+            "trecho_fonte": "Vagas totais (anual) 40",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -101,12 +103,6 @@
             "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO N° 38 DE 14 DE JULHO DE 2017",
             "secao": "Capa / folha inicial",
             "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 10,
-            "trecho_fonte": "6 1.1.7 Horário de oferta do curso 6 1.1.8 Prazo de Integralização Curricular 7 1.1.9 Carga-Horária total do Curso 7 1.1.10 Vagas totais (anual) 7 1.1.11 Escolaridade mínima exigida 7 1.1.12 Coordenadora 7 1.1",
-            "secao": "oferta",
-            "status_curadoria": "sugerido"
           }
         }
       }
@@ -134,12 +130,6 @@
             "ano": 2014,
             "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO 30/2014",
             "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 10,
-            "trecho_fonte": "6 1.1.7 Horário de oferta do curso 6 1.1.8 Prazo de Integralização Curricular 6 1.1.9 Carga-Horário total do Curso 7 1.1.10 Vagas totais (anual) 7 1.1.11 Escolaridade mínima exigida 7 1.1.12 Coordenador 7 1.1",
-            "secao": "oferta",
             "status_curadoria": "sugerido"
           }
         }
@@ -172,11 +162,11 @@
           },
           "vagas": {
             "quantidade": 80,
-            "trecho_fonte": "trimestres. 1.1.14 Vagas totais (anual) Número máximo de vagas do curso: 80 (ingresso matutino) e 80 (ingresso vespertino) Número mínimo de vagas do curso: 20 (ingresso matutino) e 20 (ingresso vespertino) 1.1.15 Escolaridade mínima exigi",
+            "trecho_fonte": "Vagas totais (anual): número máximo de vagas do curso: 80 (ingresso matutino) e 80 (ingresso vespertino); número mínimo de vagas do curso: 20 (ingresso matutino) e 20 (ingresso vespertino)",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
             "periodicidade": "anual",
-            "forma_oferta": "máximo de 80 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 80 vagas por ingresso matutino e 80 por ingresso vespertino; mínimo de 20 por ingresso"
           }
         }
       },

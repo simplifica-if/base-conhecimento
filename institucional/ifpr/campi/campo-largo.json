@@ -34,7 +34,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "ágio: não se aplica Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 30 Ano de criação do curso: 2022 Ano de início de primeira turma: fevereiro de 202",
+            "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 30",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
@@ -73,10 +73,11 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "omitted <== 1.1.10 Vagas totais (anual) 40 vagas 1.1.11 Escolaridade mínima exigida Ensino Médio Completo 1.1.12 Coordenador Nom",
+            "trecho_fonte": "Vagas totais (anual) 40 vagas",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -108,10 +109,11 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "1.760 horas. 1.1.10 Vagas totais (anual) 40 vagas 1.1.11 Escolaridade mínima exigida Ensino Médio Completo 1.1.12 Coordenador Nom",
+            "trecho_fonte": "Vagas totais (anual) 40 vagas",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -143,10 +145,11 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "3.200 horas 1.1.10 Vagas totais (anual) 40 vagas 1.1.11 Escolaridade mínima exigida Ensino Médio Completo. 1.1.12 Coordenador No",
+            "trecho_fonte": "Vagas totais (anual) 40 vagas",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -178,10 +181,11 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "600 horas 9 1.1.10 Vagas totais (anual) 40 vagas 1.1.11 Escolaridade mínima exigida Ensino Médio Completo 1.1.12 Coordenador Nom",
+            "trecho_fonte": "Vagas totais (anual) 40 vagas",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -213,7 +217,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "ágio: não se aplica Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 30 Ano de criação do curso: início do projeto em 2017 Ano de início de primeira tu",
+            "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 30",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
@@ -248,10 +252,11 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "2.480 horas 1.1.10 Vagas totais (anual) - 40 vagas para turmas ministradas no campus Campo Largo. 1 == picture [452 x 55] intentio",
+            "trecho_fonte": "Vagas totais (anual) - 40 vagas para turmas ministradas no campus Campo Largo. 1",
             "secao": "Vagas totais",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -283,7 +288,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "ágio: não se aplica Número máximo de vagas do Curso: 40 Número mínimo de vagas do Curso: 30 Ano de criação do Curso: 2015 Ano letivo de implantação do ajuste: 2020 Ano de",
+            "trecho_fonte": "Número máximo de vagas do Curso: 40 Número mínimo de vagas do Curso: 30",
             "secao": "Número máximo de vagas do Curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
@@ -326,7 +331,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "ágio: Não se aplica Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 30 Ano de criação do curso: 2018 Ano letivo de implantação do ajuste: 2021 Ano de",
+            "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 30",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
@@ -365,7 +370,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "ágio: não se aplica Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 30 Ano de criação do curso: Ano de início de primeira turma: fevereiro de 2020 Tip",
+            "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 30",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"

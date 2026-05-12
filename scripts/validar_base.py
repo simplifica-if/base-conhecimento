@@ -28,6 +28,10 @@ from base_utils import (
     MANIFEST_FIELDS,
     MANIFEST_PATH,
     NORMAS_ROOT,
+    PROCESSO_SELETIVO_SCHEMA_PATH,
+    PROCESSOS_SELETIVOS_INDEX_PATH,
+    PROCESSOS_SELETIVOS_INDEX_SCHEMA_PATH,
+    PROCESSOS_SELETIVOS_ROOT,
     README_PATH,
     REQUIRED_FIELDS,
     ROOT,
@@ -441,6 +445,9 @@ def validate_institucional() -> list[str]:
             else:
                 if campi_collection.get("path") != relative(CAMPI_INDEX_PATH):
                     errors.append("institucional_manifest.json: path da coleção campi-ifpr diverge do índice")
+            processos_collection = next((item for item in colecoes if isinstance(item, dict) and item.get("id") == "processos-seletivos-ifpr"), None)
+            if processos_collection is not None and processos_collection.get("path") != relative(PROCESSOS_SELETIVOS_INDEX_PATH):
+                errors.append("institucional_manifest.json: path da coleção processos-seletivos-ifpr diverge do índice")
 
     if not isinstance(index, dict):
         errors.append(f"{relative(CAMPI_INDEX_PATH)} deve conter um objeto JSON")
@@ -495,6 +502,104 @@ def validate_institucional() -> list[str]:
         errors.append(
             "index.json não cobre exatamente os arquivos de campi: "
             f"index={sorted(index_paths)} arquivos={sorted(campus_paths)}"
+        )
+
+    errors.extend(validate_processos_seletivos(manifest))
+
+    return errors
+
+
+def validate_processos_seletivos(manifest: object) -> list[str]:
+    errors: list[str] = []
+    index, index_errors = load_json(PROCESSOS_SELETIVOS_INDEX_PATH, "índice de processos seletivos")
+    errors.extend(index_errors)
+    if errors:
+        return errors
+    if not isinstance(index, dict):
+        return [f"{relative(PROCESSOS_SELETIVOS_INDEX_PATH)} deve conter um objeto JSON"]
+
+    errors.extend(validate_with_schema(index, PROCESSOS_SELETIVOS_INDEX_SCHEMA_PATH, relative(PROCESSOS_SELETIVOS_INDEX_PATH)))
+    items = index.get("items")
+    if not isinstance(items, list) or not items:
+        errors.append(f"{relative(PROCESSOS_SELETIVOS_INDEX_PATH)}: items deve ser lista não vazia")
+        return errors
+
+    if isinstance(manifest, dict):
+        colecoes = manifest.get("colecoes")
+        if isinstance(colecoes, list):
+            processos_collection = next(
+                (item for item in colecoes if isinstance(item, dict) and item.get("id") == "processos-seletivos-ifpr"),
+                None,
+            )
+            if isinstance(processos_collection, dict) and processos_collection.get("total_itens") != len(items):
+                errors.append("institucional_manifest.json: total_itens de processos-seletivos-ifpr diverge do index.json")
+
+    if index.get("total_itens") != len(items):
+        errors.append(f"{relative(PROCESSOS_SELETIVOS_INDEX_PATH)}: total_itens diverge de items")
+
+    seen_ids: set[str] = set()
+    seen_years: set[int] = set()
+    index_paths: set[str] = set()
+    for item in items:
+        if not isinstance(item, dict):
+            errors.append(f"{relative(PROCESSOS_SELETIVOS_INDEX_PATH)}: item deve ser objeto")
+            continue
+        process_id = item.get("id")
+        year = item.get("ano_ingresso")
+        path_value = item.get("path")
+        if not isinstance(process_id, str) or not SLUG_RE.fullmatch(process_id):
+            errors.append(f"{relative(PROCESSOS_SELETIVOS_INDEX_PATH)}: id inválido: {process_id}")
+        elif process_id in seen_ids:
+            errors.append(f"{relative(PROCESSOS_SELETIVOS_INDEX_PATH)}: id duplicado: {process_id}")
+        else:
+            seen_ids.add(process_id)
+        if isinstance(year, int):
+            if year in seen_years:
+                errors.append(f"{relative(PROCESSOS_SELETIVOS_INDEX_PATH)}: ano_ingresso duplicado: {year}")
+            seen_years.add(year)
+        if not isinstance(path_value, str):
+            errors.append(f"{relative(PROCESSOS_SELETIVOS_INDEX_PATH)}: path ausente em {process_id}")
+            continue
+        if not path_value.startswith("institucional/ifpr/processos-seletivos/") or not path_value.endswith(".json"):
+            errors.append(f"{relative(PROCESSOS_SELETIVOS_INDEX_PATH)}: path inválido em {process_id}: {path_value}")
+            continue
+        index_paths.add(path_value)
+
+        process_path = ROOT / path_value
+        data, json_errors = load_json(process_path, f"processo seletivo {path_value}")
+        errors.extend(json_errors)
+        if not isinstance(data, dict):
+            continue
+        errors.extend(validate_with_schema(data, PROCESSO_SELETIVO_SCHEMA_PATH, path_value))
+        if data.get("id") != process_id:
+            errors.append(f"{path_value}: id diverge do index.json")
+        if data.get("ano_ingresso") != year:
+            errors.append(f"{path_value}: ano_ingresso diverge do index.json")
+        if data.get("nome") != item.get("nome"):
+            errors.append(f"{path_value}: nome diverge do index.json")
+        if process_path.name != f"{process_id}.json":
+            errors.append(f"{path_value}: nome do arquivo diverge do id")
+        for fonte in data.get("fontes", []):
+            errors.extend(validate_https_url(fonte, f"{path_value}: fontes[]"))
+        for edital in data.get("editais", []):
+            if isinstance(edital, dict):
+                errors.extend(validate_https_url(edital.get("url"), f"{path_value}: editais[].url"))
+        for oferta in data.get("ofertas", []):
+            if not isinstance(oferta, dict):
+                continue
+            fonte = oferta.get("fonte")
+            if isinstance(fonte, dict):
+                errors.extend(validate_https_url(fonte.get("url"), f"{path_value}: ofertas[].fonte.url"))
+
+    process_paths = {
+        relative(path)
+        for path in PROCESSOS_SELETIVOS_ROOT.glob("*.json")
+        if path.name != "index.json"
+    }
+    if index_paths != process_paths:
+        errors.append(
+            "index.json de processos seletivos não cobre exatamente os arquivos: "
+            f"index={sorted(index_paths)} arquivos={sorted(process_paths)}"
         )
 
     return errors

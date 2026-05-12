@@ -34,10 +34,11 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "omitted <== 1.1.10 Vagas totais (anual) 40 vagas 1.1.11 Escolaridade mínima exigida Ensino Médio completo. 1.1.12 Coordenador No",
+            "trecho_fonte": "Vagas totais (anual) 40 vagas",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -69,10 +70,11 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "da Extensão 1.1.10 Vagas totais (anual) 40 vagas 1.1.11 Escolaridade mínima exigida Ensino Médio completo. 1.1.12 Coordenador No",
+            "trecho_fonte": "Vagas totais (anual) 40 vagas",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -108,7 +110,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "de Vida: 100 horas Número máximo de vagas do curso : 40 Número mínimo de vagas do curso: 20 Requisitos de acesso ao Curso: Ensino Fundamental Anos Finais completo, ser fil",
+            "trecho_fonte": "Número máximo de vagas do curso : 40 Número mínimo de vagas do curso: 20",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
@@ -147,7 +149,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "estágio: 120 horas Número máximo de vagas do curso : 40 Número mínimo de vagas do curso: 20 Ano de criação do curso : 2014 Requisitos de acesso ao Curso: Ensino Fundamenta",
+            "trecho_fonte": "Número máximo de vagas do curso : 40 Número mínimo de vagas do curso: 20",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
@@ -186,7 +188,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "hora-relógio: 3210h Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20 Ano de criação do curso: 2016 Ano letivo de implantação do ajuste: 2021 Ano de",
+            "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"

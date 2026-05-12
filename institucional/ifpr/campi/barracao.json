@@ -34,10 +34,11 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "1914 horas 1.1.10 Vagas totais (anual) 40 vagas 1.1.11 Escolaridade mínima exigida Ensino Médio completo. 1.1.12 Coordenador No",
+            "trecho_fonte": "Vagas totais (anual) 40 vagas",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -69,7 +70,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "1.1.14 Vagas totais Número mínimo de vagas do curso: 20. Número máximo de vagas do curso: 40. - 1.1.15 Escolaridade mínima exigida/requisito de acesso ao curso Ensino Funda",
+            "trecho_fonte": "Vagas totais Número mínimo de vagas do curso: 20. Número máximo de vagas do curso: 40",
             "secao": "Número mínimo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
@@ -108,7 +109,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "êmico Anual. 1.1.14 Vagas totais Mínimo: 20. Máximo: 40. 1.1.15 Escolaridade mínima exigida/requisito de acesso ao curso Ensino fundame",
+            "trecho_fonte": "Vagas totais Mínimo: 20. Máximo: 40",
             "secao": "Vagas totais",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"

@@ -1,0 +1,250 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/simplifica-if/base-conhecimento/main/schemas/processo_seletivo.schema.json",
+  "title": "Processo seletivo do IFPR",
+  "type": "object",
+  "required": [
+    "id",
+    "nome",
+    "ano_ingresso",
+    "instituicao",
+    "fontes",
+    "editais",
+    "ofertas",
+    "curadoria"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "nome": {
+      "type": "string",
+      "minLength": 1
+    },
+    "ano_ingresso": {
+      "type": "integer",
+      "minimum": 1900
+    },
+    "instituicao": {
+      "const": "IFPR"
+    },
+    "fontes": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "format": "uri",
+        "pattern": "^https://"
+      }
+    },
+    "editais": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "titulo",
+          "url"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          },
+          "titulo": {
+            "type": "string",
+            "minLength": 1
+          },
+          "numero": {
+            "type": "string",
+            "minLength": 1
+          },
+          "ano": {
+            "type": "integer",
+            "minimum": 1900
+          },
+          "tipo": {
+            "enum": [
+              "técnico integrado",
+              "técnico subsequente",
+              "técnico ead",
+              "graduação",
+              "vagas remanescentes",
+              "outro"
+            ]
+          },
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https://"
+          }
+        }
+      }
+    },
+    "ofertas": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "campus_id",
+          "curso_nome",
+          "tipo_oferta",
+          "vagas",
+          "fonte"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          },
+          "campus_id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          },
+          "curso_id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          },
+          "curso_nome": {
+            "type": "string",
+            "minLength": 1
+          },
+          "tipo_oferta": {
+            "enum": [
+              "técnico integrado",
+              "técnico subsequente",
+              "graduação tecnológica",
+              "bacharelado",
+              "licenciatura",
+              "especialização",
+              "mestrado",
+              "FIC",
+              "outro"
+            ]
+          },
+          "modalidade": {
+            "enum": [
+              "presencial",
+              "ead",
+              "semipresencial"
+            ]
+          },
+          "turno": {
+            "type": "string",
+            "minLength": 1
+          },
+          "vagas": {
+            "type": "object",
+            "required": [
+              "quantidade",
+              "trecho_fonte",
+              "status_curadoria"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "quantidade": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "forma_oferta": {
+                "type": "string",
+                "minLength": 1
+              },
+              "trecho_fonte": {
+                "type": "string",
+                "minLength": 1
+              },
+              "pagina": {
+                "type": "integer",
+                "minimum": 1
+              },
+              "status_curadoria": {
+                "enum": [
+                  "sugerido",
+                  "revisado"
+                ]
+              },
+              "revisado_em": {
+                "type": "string",
+                "format": "date"
+              }
+            }
+          },
+          "cotas": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": [
+                "categoria",
+                "vagas"
+              ],
+              "additionalProperties": false,
+              "properties": {
+                "categoria": {
+                  "type": "string",
+                  "minLength": 1
+                },
+                "vagas": {
+                  "type": "integer",
+                  "minimum": 0
+                }
+              }
+            }
+          },
+          "fonte": {
+            "type": "object",
+            "required": [
+              "url"
+            ],
+            "additionalProperties": false,
+            "properties": {
+              "edital_id": {
+                "type": "string",
+                "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+              },
+              "url": {
+                "type": "string",
+                "format": "uri",
+                "pattern": "^https://"
+              },
+              "pagina": {
+                "type": "integer",
+                "minimum": 1
+              }
+            }
+          }
+        }
+      }
+    },
+    "curadoria": {
+      "type": "object",
+      "required": [
+        "status_ofertas",
+        "verificado_em"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "status_ofertas": {
+          "enum": [
+            "dados_pendentes",
+            "dados_parciais",
+            "dados_curados"
+          ]
+        },
+        "observacoes": {
+          "type": "string",
+          "minLength": 1
+        },
+        "verificado_em": {
+          "type": "string",
+          "format": "date"
+        }
+      }
+    }
+  }
+}

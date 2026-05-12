@@ -34,10 +34,11 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "( ) Modular 1.1.14 Vagas totais (anual) 40 1.1.15 Escolaridade mínima exigida/requisito de acesso ao curso Ensino Fundament",
+            "trecho_fonte": "Vagas totais (anual) 40",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       },
@@ -73,10 +74,11 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "al (Seriado) 1.1.14 Vagas totais (anual) 40 1.1.15 Escolaridade mínima exigida/requisito de acesso ao curso Ensino Fundament",
+            "trecho_fonte": "Vagas totais (anual) 40",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       },
@@ -112,10 +114,11 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "al (Seriado) 1.1.14 Vagas totais (anual) 40 (número mínimo vagas 20) 1.1.15 Escolaridade mínima exigida/requisito de acesso",
+            "trecho_fonte": "Vagas totais (anual) 40 (número mínimo vagas 20)",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       },
@@ -151,9 +154,10 @@
           },
           "vagas": {
             "quantidade": 30,
-            "trecho_fonte": "Extensão: 440 horas Vagas totais (anuais): 30 12 == picture [456 x 67] intentionally omitted <== Escolaridade mínima exigida",
+            "trecho_fonte": "Vagas totais (anuais): 30 12",
             "secao": "Vagas totais (anuais)",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "sugerido",
+            "forma_oferta": "30 vagas anuais"
           }
         }
       }
@@ -185,9 +189,10 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "des complementares. Vagas totais (anuais): 40. Escolaridade mínima exigida: Ensino Médio completo. 11 == picture [456 x 67] i",
+            "trecho_fonte": "Vagas totais (anuais): 40",
             "secao": "Vagas totais (anuais)",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "sugerido",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -219,9 +224,10 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "3600 h/a - 3000 h/r Vagas totais (anuais): 40 Escolaridade mínima exigida: Ensino Médio completo Nome do(a) Coordenador(a): Br",
+            "trecho_fonte": "Vagas totais (anuais): 40",
             "secao": "Vagas totais (anuais)",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "sugerido",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -253,10 +259,11 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "mentares: 200 horas Vagas totais (anual): 40 vagas Escolaridade mínima exigida : Ensino Médio completo Coordenadora Nome: Aline Ro",
+            "trecho_fonte": "Vagas totais (anual): 40 vagas",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -288,9 +295,10 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "o: Ciências Humanas Quantidade de Vagas: 40 vagas anuais Turno de oferta: Noturno e Vespertino[1 ] Horário de oferta do curso: No",
+            "trecho_fonte": "Quantidade de Vagas: 40 vagas anuais",
             "secao": "Quantidade de Vagas",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "sugerido",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -322,9 +330,10 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "mentares: 130 horas Vagas totais (anuais): 40 Escolaridade mínima exigida: Ensino Médio completo Nome da Coordenadora: Dayanna",
+            "trecho_fonte": "Vagas totais (anuais): 40",
             "secao": "Vagas totais (anuais)",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "sugerido",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -356,10 +365,11 @@
           },
           "vagas": {
             "quantidade": 50,
-            "trecho_fonte": "9 3224 horas 1.1.10 Vagas totais (anual) 50 Vagas. 1.1.11 Escolaridade mínima exigida Ensino Médio completo. 1.1.12 Coordenador N",
+            "trecho_fonte": "Vagas totais (anual) 50 Vagas",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "50 vagas anuais"
           }
         }
       }
@@ -391,9 +401,10 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "(horas/aula): 3.720 Vagas totais (anuais): 40 Escolaridade mínima exigida: Ensino Médio completo Nome do Coordenador: Alexandr",
+            "trecho_fonte": "Vagas totais (anuais): 40",
             "secao": "Vagas totais (anuais)",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "sugerido",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }

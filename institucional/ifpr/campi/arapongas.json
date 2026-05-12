@@ -70,11 +70,12 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "Vagas totais (anual): 40 vagas.",
+            "trecho_fonte": "Vagas totais (anual): 40 vagas",
             "secao": "1.1.10 Vagas totais (anual)",
             "status_curadoria": "revisado",
             "revisado_em": "2026-05-11",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -141,7 +142,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "ágio: Não se Aplica Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20 Ano de criação do curso: 2021 Ano letivo de implantação do ajuste: Não se Aplic",
+            "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"

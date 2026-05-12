@@ -10,6 +10,13 @@
       "tipo_item": "campus",
       "path": "institucional/ifpr/campi/index.json",
       "total_itens": 26
+    },
+    {
+      "id": "processos-seletivos-ifpr",
+      "title": "Processos seletivos do IFPR",
+      "tipo_item": "processo_seletivo",
+      "path": "institucional/ifpr/processos-seletivos/index.json",
+      "total_itens": 2
     }
   ]
 }

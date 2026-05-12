@@ -34,7 +34,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "gio não obrigatório Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20 Ano de criação do curso: 2014 Requisitos de acesso ao Curso: Ensino fundamental",
+            "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
@@ -94,7 +94,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "Curso 3.217h 1.1.10 Vagas totais (anual) No mínimo 20 e no máximo 40 vagas 1.1.11 Escolaridade mínima exigida Ensino médio completo. 1.1.12 Coordena",
+            "trecho_fonte": "Vagas totais (anual) No mínimo 20 e no máximo 40 vagas",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
             "periodicidade": "anual",
@@ -130,7 +130,7 @@
           },
           "vagas": {
             "quantidade": 30,
-            "trecho_fonte": "as totais (por ano) Número máximo de vagas do curso: 30 vagas Número mínimo de vagas do curso: 20 vagas 1.1.15 Escolaridade mínima exigida/requisito de acesso ao curso Ensino mé",
+            "trecho_fonte": "Número máximo de vagas do curso: 30 vagas Número mínimo de vagas do curso: 20 vagas",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas"
@@ -169,7 +169,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "de estágio: 0 horas Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20 Ano de criação do curso: 2012 Requisitos de acesso ao Curso: Ensino Fundamental",
+            "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
@@ -208,7 +208,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "estágio obrigatório Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20 Ano de criação do curso: 2009 Requisitos de acesso ao Curso: Ensino médio compl",
+            "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
@@ -247,7 +247,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "CURSO : 1200 horas NÚMERO DE VAGAS: 40 ESTÁGIO SUPERVISIONADO: 0 CARGA HORÁRIA TOTAL: 1200 horas MÍNIMO MÁXIMO 20 40 ----- End of picture text ----- 3. ESTRUTURA E FUNCIONAMENTO 3.1 Justificativa",
+            "trecho_fonte": "NÚMERO DE VAGAS: 40 ESTÁGIO SUPERVISIONADO: 0 CARGA HORÁRIA TOTAL: 1200 horas MÍNIMO MÁXIMO 20 40",
             "secao": "NÚMERO DE VAGAS",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
@@ -286,7 +286,7 @@
           },
           "vagas": {
             "quantidade": 30,
-            "trecho_fonte": "ia de estágio: 70h. Número máximo de vagas do curso: 30 Número mínimo de vagas do curso: 20 Ano de criação do curso: 2011 (Resolução CONSUP/IFPR 74/11) Requisitos de acess",
+            "trecho_fonte": "Número máximo de vagas do curso: 30 Número mínimo de vagas do curso: 20",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas"
@@ -325,10 +325,11 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "obrigatório. 1.1.10 Vagas totais (anual) Quarenta vagas. 1.1.11 Escolaridade mínima exigida Ensino Médio completo. 1.1.12 Coordenador N",
+            "trecho_fonte": "Vagas totais (anual) Quarenta vagas",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas"
           }
         }
       }

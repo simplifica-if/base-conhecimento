@@ -34,9 +34,10 @@
           },
           "vagas": {
             "quantidade": 30,
-            "trecho_fonte": "lly omitted <== 3.2 Vagas: 30 vagas Mínimo: 20 vagas Máximo: 30 vagas O número máximo de vagas é limitado pela infr",
+            "trecho_fonte": "Vagas: 30 vagas Mínimo: 20 vagas Máximo: 30 vagas O número máximo de vagas é limitado pela infr",
             "secao": "Vagas",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas"
           }
         }
       }
@@ -68,7 +69,7 @@
           },
           "vagas": {
             "quantidade": 30,
-            "trecho_fonte": "tura em física. 2.3 Vagas ofertadas a) Mínimo: 20 vagas (Resolução Consup/IFPR n.121/2023) b) Máximo: 30 vagas 2.4 Público-alvo Professores do Ensino Fundamental I, do Ensino Fundament",
+            "trecho_fonte": "Vagas ofertadas a) Mínimo: 20 vagas (Resolução Consup/IFPR n.121/2023) b) Máximo: 30 vagas",
             "secao": "Vagas ofertadas",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas"
@@ -103,10 +104,11 @@
           },
           "vagas": {
             "quantidade": 44,
-            "trecho_fonte": "urso - 1916h 1.1.10 Vagas totais (anual) 44 (quarenta e quatro), sendo 40 brasileiros e 4 estrangeiros 1.1.11 Escolaridade m",
+            "trecho_fonte": "Vagas totais (anual) 44 (quarenta e quatro), sendo 40 brasileiros e 4 estrangeiros",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "44 vagas anuais"
           }
         }
       }
@@ -138,7 +140,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "omitted <== 1.1.10 Vagas totais (anual) Mínimo de 20 e máximo de 40. Sendo, 90% das vagas (36) para brasileiros e 10% das vagas (4) destinadas à Ar",
+            "trecho_fonte": "Vagas totais (anual) Mínimo de 20 e máximo de 40. Sendo, 90% das vagas (36) para brasileiros e 10% das vagas (4) destinadas à Ar",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
             "periodicidade": "anual",
@@ -174,7 +176,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "s Exatas e da Terra Número de vagas ofertadas: Mínimo 20 e Máximo 40 vagas por ano Turno de oferta: Noturno, com possibilidade de realização de Está",
+            "trecho_fonte": "Número de vagas ofertadas: Mínimo 20 e Máximo 40 vagas por ano",
             "secao": "Número de vagas",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
@@ -209,10 +211,11 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "2.000 horas. 1.1.10 Vagas totais (anual) 40 1.1.11 Escolaridade mínima exigida Ensino Médio completo. 7 == picture [471 x 55",
+            "trecho_fonte": "Vagas totais (anual) 40",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -244,7 +247,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "Total: 3.125 horas Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 24 vagas Ano de criação do curso: 00000 Requisitos de acesso ao Curso: Ensino Fund",
+            "trecho_fonte": "Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 24 vagas",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 24 vagas"
@@ -283,7 +286,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "io: Não obrigatório Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 35 Ano de criação do curso: Ano de início de primeira turma: 2020 Tipo de matrícul",
+            "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 35",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 35 vagas"
@@ -322,7 +325,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "20 hora-aula horas. Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 35 Ano de criação do curso: 2010 Requisitos de acesso ao Curso: Exigência de forma",
+            "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 35",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 35 vagas"
@@ -361,7 +364,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "o: Não obrigatório. Número máximo de vagas do curso: 40 alunos anuais. Número mínimo de vagas do curso: 24 alunos anuais. Ano de criação do curso: Requisitos de acesso ao Curso: Exigênci",
+            "trecho_fonte": "Número máximo de vagas do curso: 40 alunos anuais. Número mínimo de vagas do curso: 24 alunos anuais",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 24 vagas"
@@ -400,7 +403,7 @@
           },
           "vagas": {
             "quantidade": 26,
-            "trecho_fonte": "800h (oitocentas) Número máximo de vagas do curso: 26 (vinte e seis), sendo 22 brasileiros e 4 estrangeiros (oriundos exclusivamente do Paraguai ou da Argentina) Número mínimo de vagas do curso: 13 (treze) Ano de criação do curso: 2012 Ano letivo de implantação do ajuste: 2023",
+            "trecho_fonte": "Número máximo de vagas do curso: 26 (vinte e seis), sendo 22 brasileiros e 4 estrangeiros (oriundos exclusivamente do Paraguai ou da Argentina) Número mínimo de vagas do curso: 13 (treze)",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 26 vagas e mínimo de 13 vagas"

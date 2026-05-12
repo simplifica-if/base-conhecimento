@@ -34,10 +34,11 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "2505 horas. 1.1.10 Vagas totais (anual) 40 vagas. 1.1.11 Escolaridade mínima exigida Ensino Médio completo. 7 == picture [472 x",
+            "trecho_fonte": "Vagas totais (anual) 40 vagas",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -69,10 +70,11 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "ula: Seriado anual. Vagas totais (anual): 40 vagas. Escolaridade mínima exigida: Ensino Médio Completo. Coordenador: Nome: Ronaldo",
+            "trecho_fonte": "Vagas totais (anual): 40 vagas",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -104,10 +106,11 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "268 horas. 7 1.1.10 Vagas totais (anual): 40 (quarenta) vagas. 7 1.1.11 Escolaridade mínima exigida: Ensino Médio completo. 7 1.1.12 Coordena",
+            "trecho_fonte": "Vagas totais (anual): 40 (quarenta) vagas. 7",
             "secao": "Vagas totais",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -139,9 +142,10 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "aliação: Trimestral Total de vagas anuais: Uma turma de 40 vagas por ano Regime de oferta: Anual Ano e resolução de criação do curso: Resolução",
+            "trecho_fonte": "Total de vagas anuais: Uma turma de 40 vagas por ano",
             "secao": "Total de vagas anuais",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "sugerido",
+            "forma_oferta": "40 vagas"
           }
         }
       },
@@ -177,9 +181,10 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "aliação: Trimestral Total de vagas anuais: Uma turma de 40 vagas por ano Regime de oferta: Anual Ano e resolução de criação do curso: Resolução",
+            "trecho_fonte": "Total de vagas anuais: Uma turma de 40 vagas por ano",
             "secao": "Total de vagas anuais",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "sugerido",
+            "forma_oferta": "40 vagas"
           }
         }
       },
@@ -219,9 +224,10 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "aliação: Trimestral Total de vagas anuais: Uma turma de 40 vagas por ano Regime de oferta: Anual Ano e resolução de criação do curso: 11 / 2011",
+            "trecho_fonte": "Total de vagas anuais: Uma turma de 40 vagas por ano",
             "secao": "Total de vagas anuais",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "sugerido",
+            "forma_oferta": "40 vagas"
           }
         }
       }

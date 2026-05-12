@@ -34,10 +34,11 @@
           },
           "vagas": {
             "quantidade": 20,
-            "trecho_fonte": "plementares. 1.1.10 Vagas totais (anual) 20 vagas (mínimo) a 40 vagas (máximo). 1.1.11 Escolaridade mínima exigida Ensino Médio c",
+            "trecho_fonte": "Vagas totais (anual) 20 vagas (mínimo) a 40 vagas (máximo)",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       }
@@ -69,7 +70,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "de estágio: não há Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 30 vagas Ano de criação do curso: 2014 Ano de início da oferta do curso: 2015 Requ",
+            "trecho_fonte": "Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 30 vagas",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
@@ -112,7 +113,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "ágio: Não se Aplica Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 30 INSTITUTO FEDERAL DO PARANÁ Pró-Reitoria de Ensino - PROENS Av. Victor Ferreira",
+            "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 30 INSTITUTO FEDERAL DO PARANÁ Pró-Reitoria de Ensino - PROENS Av. Victor Ferreira",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"

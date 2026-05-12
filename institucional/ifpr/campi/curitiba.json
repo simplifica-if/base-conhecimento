@@ -932,7 +932,8 @@
             "secao": "1.1.10 Vagas totais (anual)",
             "status_curadoria": "revisado",
             "revisado_em": "2026-05-11",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas"
           }
         }
       }
@@ -1120,7 +1121,8 @@
             "secao": "Vagas totais (anual)",
             "status_curadoria": "revisado",
             "revisado_em": "2026-05-11",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }

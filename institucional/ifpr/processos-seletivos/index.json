@@ -1,0 +1,18 @@
+{
+  "title": "Processos seletivos do IFPR",
+  "total_itens": 2,
+  "items": [
+    {
+      "id": "processo-seletivo-2025",
+      "ano_ingresso": 2025,
+      "nome": "Processo Seletivo 2025",
+      "path": "institucional/ifpr/processos-seletivos/processo-seletivo-2025.json"
+    },
+    {
+      "id": "processo-seletivo-2026",
+      "ano_ingresso": 2026,
+      "nome": "Processo Seletivo 2026",
+      "path": "institucional/ifpr/processos-seletivos/processo-seletivo-2026.json"
+    }
+  ]
+}

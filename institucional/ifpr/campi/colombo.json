@@ -167,10 +167,11 @@
           "vagas": {
             "quantidade": 40,
             "periodicidade": "anual",
-            "trecho_fonte": "1.1.10 Vagas totais (anual): 40 vagas.",
+            "trecho_fonte": "Vagas totais (anual): 40 vagas",
             "secao": "1.1.10 Vagas totais (anual)",
             "status_curadoria": "revisado",
-            "revisado_em": "2026-05-11"
+            "revisado_em": "2026-05-11",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -204,10 +205,11 @@
           "vagas": {
             "quantidade": 40,
             "periodicidade": "anual",
-            "trecho_fonte": "1.1.10 Vagas totais (anual): 40",
+            "trecho_fonte": "Vagas totais (anual): 40",
             "secao": "1.1.10 Vagas totais (anual)",
             "status_curadoria": "revisado",
-            "revisado_em": "2026-05-11"
+            "revisado_em": "2026-05-11",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -279,10 +281,11 @@
           "vagas": {
             "quantidade": 40,
             "periodicidade": "anual",
-            "trecho_fonte": "1.1.10 Vagas totais (anual): 40 vagas",
+            "trecho_fonte": "Vagas totais (anual): 40 vagas",
             "secao": "1.1.10 Vagas totais (anual)",
             "status_curadoria": "revisado",
-            "revisado_em": "2026-05-11"
+            "revisado_em": "2026-05-11",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -316,10 +319,11 @@
           "vagas": {
             "quantidade": 40,
             "periodicidade": "anual",
-            "trecho_fonte": "1.1.10 Vagas totais (anual): 40 vagas",
+            "trecho_fonte": "Vagas totais (anual): 40 vagas",
             "secao": "1.1.10 Vagas totais (anual)",
             "status_curadoria": "revisado",
-            "revisado_em": "2026-05-11"
+            "revisado_em": "2026-05-11",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }

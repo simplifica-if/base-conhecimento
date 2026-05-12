@@ -34,9 +34,10 @@
           },
           "vagas": {
             "quantidade": 10,
-            "trecho_fonte": "6 1.1.7 Horário de Oferta do Curso 6 1.1.8 Prazo de Integralização Curricular 6 1.1.9 Carga-horária Total do Curso 6 1.1.10 Vagas Totais (Anual) 6 1.1.11 Escolaridade Mínima Exigida 7 1.1.12 Coordenador 7 1.1",
+            "trecho_fonte": "Vagas Totais (Anual) 6",
             "secao": "Oferta",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "sugerido",
+            "forma_oferta": "6 vagas anuais"
           }
         }
       }
@@ -68,7 +69,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "2.130 horas. 1.1.10 Vagas totais (anual) Mínimo: 20 vagas – Máximo: 40 vagas. 7 == picture [471 x 55] intentionally omitted <== 1.1.11 Escolaridade mí",
+            "trecho_fonte": "Vagas totais (anual) Mínimo: 20 vagas – Máximo: 40 vagas. 7",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
             "periodicidade": "anual",
@@ -104,7 +105,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "oras/relógio 1.1.10 Vagas totais (anual) Mínimo: 20 – Máximo: 40 1.1.11 Escolaridade mínima exigida Ensino Médio completo. 5 == picture [459 x 5",
+            "trecho_fonte": "Vagas totais (anual) Mínimo: 20 – Máximo: 40",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
             "periodicidade": "anual",
@@ -140,7 +141,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "omitted <== 1.1.10 Vagas Totais (anual) Mínimo 20 - Máximo 40 1.1.11 Escolaridade Mínima Exigida Ensino Médio completo. 1.1.12 Coordenador No",
+            "trecho_fonte": "Vagas Totais (anual) Mínimo 20 - Máximo 40",
             "secao": "Vagas Totais (anual)",
             "status_curadoria": "sugerido",
             "periodicidade": "anual",
@@ -176,7 +177,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "3.390 horas 1.1.10 Vagas Totais (anual) Mínimo 20 - Máximo 40 1.1.11 Escolaridade Mínima Exigida Ensino Médio Completo. 1.1.12 Coordenador No",
+            "trecho_fonte": "Vagas Totais (anual) Mínimo 20 - Máximo 40",
             "secao": "Vagas Totais (anual)",
             "status_curadoria": "sugerido",
             "periodicidade": "anual",
@@ -216,7 +217,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "gio não obrigatório Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 20 vagas Ano de criação do curso: 2015 Requisitos de acesso ao Curso: ensino funda",
+            "trecho_fonte": "Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 20 vagas",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
@@ -255,7 +256,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "gio não obrigatório Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 20 vagas Ano de criação do curso: 2014 Requisitos de acesso ao Curso: ensino funda",
+            "trecho_fonte": "Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 20 vagas",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
@@ -294,7 +295,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "gio não obrigatório Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 20 vagas Ano de criação do curso: 2011 Requisitos de acesso ao Curso: ensino funda",
+            "trecho_fonte": "Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 20 vagas",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"

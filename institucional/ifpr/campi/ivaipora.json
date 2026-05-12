@@ -34,7 +34,7 @@
           },
           "vagas": {
             "quantidade": 35,
-            "trecho_fonte": "o semestral. 1.1.14 Vagas totais Número mínimo: 20 Número máximo: 35 1.1.15 Escolaridade mínima exigida/requisito de acesso ao curso Ensino Fundamen",
+            "trecho_fonte": "Vagas totais Número mínimo: 20 Número máximo: 35",
             "secao": "Vagas totais",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 35 vagas e mínimo de 20 vagas"
@@ -73,10 +73,11 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "de extensão 1.1.10 Vagas totais (anual): 40 vagas 1.1.11 Escolaridade mínima exigida : Ensino Médio Completo. 7 == picture [471 x",
+            "trecho_fonte": "Vagas totais (anual): 40 vagas",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -108,10 +109,11 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "mponente curricular Vagas totais (anual): 40 vagas Escolaridade mínima exigida: Ensino Médio completo. Coordenador: Nome: Denis Sa",
+            "trecho_fonte": "Vagas totais (anual): 40 vagas",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -143,7 +145,7 @@
           },
           "vagas": {
             "quantidade": 35,
-            "trecho_fonte": "rária de estágio: 0 Número máximo de vagas do curso: 35 Número mínimo de vagas do curso: 20 Ano de criação do curso: 2014 Requisitos de acesso ao Curso: Ensino fundamental",
+            "trecho_fonte": "Número máximo de vagas do curso: 35 Número mínimo de vagas do curso: 20",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 35 vagas e mínimo de 20 vagas"
@@ -182,7 +184,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "Recursos Naturais. Número de vagas ofertadas: mínimo 30 (trinta), e máximo, 40 (quarenta) vagas. Turno de oferta: Noturno com atividades práticas diurnas espo",
+            "trecho_fonte": "Número de vagas ofertadas: mínimo 30 (trinta), e máximo, 40 (quarenta) vagas",
             "secao": "Número de vagas",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
@@ -217,7 +219,7 @@
           },
           "vagas": {
             "quantidade": 36,
-            "trecho_fonte": "Exatas e da Terra. Quantidade de Vagas: mínimo: 20 (vinte) vagas; máximo: 36 (trinta e seis) vagas. Turno de oferta : Noturno Horário de oferta do curso: 19",
+            "trecho_fonte": "Quantidade de Vagas: mínimo: 20 (vinte) vagas; máximo: 36 (trinta e seis) vagas",
             "secao": "Quantidade de Vagas",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 36 vagas e mínimo de 20 vagas"
@@ -252,7 +254,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "estágio: 250 horas Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20 Ano de criação do curso: 2013 Requisitos de acesso ao Curso: Escolaridade exigi",
+            "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
@@ -287,7 +289,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "( ) Modular 1.1.14 Vagas totais Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20 1.1.15 Escolaridade mínima exigida/requisito de acesso ao curso Ensino fundamen",
+            "trecho_fonte": "Vagas totais Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
             "secao": "Vagas totais",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"

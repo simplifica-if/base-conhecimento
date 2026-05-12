@@ -34,9 +34,10 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "( ) Modular 1.1.14 Vagas totais 40 (quarenta) vagas/ano 1.1.15 Escolaridade mínima exigida/requisito de acesso ao c",
+            "trecho_fonte": "Vagas totais 40 (quarenta) vagas/ano",
             "secao": "Vagas totais",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "sugerido",
+            "forma_oferta": "40 vagas"
           }
         }
       },
@@ -72,9 +73,10 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "ano letivo. 1.1.14 Vagas totais 40 (quarenta) vagas/ano 1.1.15 Escolaridade mínima exigida/requisito de acesso ao curso A escolarid",
+            "trecho_fonte": "Vagas totais 40 (quarenta) vagas/ano",
             "secao": "Vagas totais",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "sugerido",
+            "forma_oferta": "40 vagas"
           }
         }
       },
@@ -110,10 +112,11 @@
           },
           "vagas": {
             "quantidade": 20,
-            "trecho_fonte": "ponente curricular. Vagas totais (anual): 20 vagas (mínimo) a 40 vagas (máximo). Escolaridade mínima exigida: Ensino Médio complet",
+            "trecho_fonte": "Vagas totais (anual): 20 vagas (mínimo) a 40 vagas (máximo)",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       }
@@ -145,10 +148,11 @@
           },
           "vagas": {
             "quantidade": 20,
-            "trecho_fonte": "ponente curricular. Vagas totais (anual): 20 vagas (mínimo) a 40 vagas (máximo). Escolaridade mínima exigida: Ensino Médio complet",
+            "trecho_fonte": "Vagas totais (anual): 20 vagas (mínimo) a 40 vagas (máximo)",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       }
@@ -180,10 +184,11 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "plementares. 1.1.10 Vagas totais (anual) 40 vagas. 1.1.11 Escolaridade mínima exigida Ensino Médio completo. 7 == picture [472 x",
+            "trecho_fonte": "Vagas totais (anual) 40 vagas",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -215,7 +220,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "ária de estágio: 0h Número máximo de vagas do curso: 40 5 Número mínimo de vagas do curso: 20 Ano de criação do curso: 2014 Requisitos de acesso ao Curso: Ensino Fundamental",
+            "trecho_fonte": "Número máximo de vagas do curso: 40 5 Número mínimo de vagas do curso: 20",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"

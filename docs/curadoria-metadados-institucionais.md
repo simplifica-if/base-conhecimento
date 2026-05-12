@@ -33,6 +33,18 @@ Use o campo opcional `cursos[].suap` para registrar metadados administrativos vi
 3. `cursos[].suap.vagas` representa o dado administrativo do SUAP, não a quantidade de vagas declarada no PPC.
 4. Preserve `cursos[].ppc.metadados.vagas` para vagas extraídas do Projeto Pedagógico de Curso, sempre com contexto e evidência textual.
 
+## Processos seletivos
+
+Use a coleção `institucional/ifpr/processos-seletivos/` para registrar vagas efetivamente ofertadas em editais de ingresso. Cada arquivo representa um ano de ingresso e pode conter múltiplos editais e ofertas.
+
+1. Não registre vagas de processo seletivo dentro do JSON do campus.
+2. `cursos[].ppc.metadados.vagas` representa vagas previstas no PPC.
+3. `cursos[].suap.vagas` representa vagas cadastradas no sistema acadêmico.
+4. `processos-seletivos[].ofertas[].vagas` representa vagas ofertadas no edital daquele ano de ingresso.
+5. Quando possível, vincule a oferta ao curso do campus por `campus_id` e `curso_id`; se ainda não houver correspondência confiável, registre `curso_nome` e mantenha o vínculo pendente de curadoria.
+6. Preserve a fonte oficial do edital ou anexo em `ofertas[].fonte.url` e use `trecho_fonte` para registrar a evidência textual da quantidade de vagas.
+7. Quando houver distribuição por cotas, registre o total em `vagas.quantidade` e o detalhamento em `cotas[]`.
+
 ## Links para PPC dos cursos
 
 Quando a página oficial do curso indicar o Projeto Pedagógico de Curso, registre os dados no campo opcional `ppc` do item em `cursos`. O PDF oficial fica em `ppc.url`, e o Markdown convertido, quando existir, fica versionado à parte e referenciado em `ppc.markdown_path`.

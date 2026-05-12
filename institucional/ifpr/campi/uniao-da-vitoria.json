@@ -34,10 +34,11 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "4.206 horas 1.1.10 Vagas totais (anual) 40 vagas 1.1.11 Escolaridade mínima exigida Ensino Médio completo. 1.1.12 Coordenador No",
+            "trecho_fonte": "Vagas totais (anual) 40 vagas",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -69,10 +70,11 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "o 2400 horas 1.1.10 Vagas totais (anual) 40 1.1.11 Escolaridade mínima exigida Ensino Médio completo. 1.1.12 Coordenador Nom",
+            "trecho_fonte": "Vagas totais (anual) 40",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -104,7 +106,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "nto de Sistemas 2.3 Vagas ofertadas a) Mínimo: 20 vagas (Resolução Consup/IFPR n.121/2023) b) Máximo: 40 vagas 2.4 Público-alvo Portadores de diploma de curso superior, preferencialmen",
+            "trecho_fonte": "Vagas ofertadas a) Mínimo: 20 vagas (Resolução Consup/IFPR n.121/2023) b) Máximo: 40 vagas",
             "secao": "Vagas ofertadas",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
@@ -139,7 +141,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "estágio: 100 horas Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20 Ano de criação do curso: 2014 Tipo de Matrícula: por semestre Regime Acadêmico",
+            "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
@@ -174,7 +176,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "1.1.14 Vagas totais Número mínimo de vagas do curso: 20. Número máximo de vagas do curso: 40. 1 Para melhor compreensão vide SILVA, Fabiane Aparecida de Souza Soares da. Cu",
+            "trecho_fonte": "Vagas totais Número mínimo de vagas do curso: 20. Número máximo de vagas do curso: 40. 1 Para melhor compreensão vide SILVA, Fabiane Aparecida de Souza Soares da. Cu",
             "secao": "Número mínimo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
@@ -213,7 +215,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "1.1.14 Vagas totais Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20 1.1.15 Escolaridade mínima exigida/requisito de acesso ao curso Ensino fundamen",
+            "trecho_fonte": "Vagas totais Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"

@@ -34,9 +34,10 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "ano letivo. 1.1.15 Vagas totais 40 (quarenta) vagas 1.1.16 Escolaridade mínima exigida/requisito de acesso ao curso",
+            "trecho_fonte": "Vagas totais 40 (quarenta) vagas",
             "secao": "Vagas totais",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "sugerido",
+            "forma_oferta": "40 vagas"
           }
         }
       },
@@ -72,10 +73,11 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "plementares. 1.1.10 Vagas totais (anual) 40 vagas 1.1.11 Escolaridade mínima exigida Ensino Médio completo. == picture [472 x 55]",
+            "trecho_fonte": "Vagas totais (anual) 40 vagas",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -103,12 +105,6 @@
             "ano": 2014,
             "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO 31/2014",
             "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 10,
-            "trecho_fonte": "6 1.1.7 Horário de oferta do curso 6 1.1.8 Prazo de Integralização Curricular 6 1.1.9 Carga-Horário total do Curso 6 1.1.10 Vagas totais (anual) 6 1.1.11 Escolaridade mínima exigida 6 1.1.12 Coordenador 7 1.1",
-            "secao": "oferta",
             "status_curadoria": "sugerido"
           }
         }
@@ -141,7 +137,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "4.200 horas/aula. NÚMERO DE VAGAS: DURAÇÃO DE 4 ANOS. MÍNIMO MÁXIMO 10 40 3. ESTRUTURA E FUNCIONAMENTO 3.1 Justificativa da oferta do Curso 3.1.1 Os Inst",
+            "trecho_fonte": "NÚMERO DE VAGAS: DURAÇÃO DE 4 ANOS. MÍNIMO MÁXIMO 10 40 3. ESTRUTURA E FUNCIONAMENTO 3.1 Justificativa da oferta do Curso 3.1.1 Os Inst",
             "secao": "NÚMERO DE VAGAS",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 10 vagas"
@@ -172,12 +168,6 @@
             "ano": 2023,
             "trecho_fonte": "Colegiado de Gestão Pedagógica de Campus (Portaria de Pessoal 154/2023)",
             "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 120,
-            "trecho_fonte": "R). Na época, foram ofertados três cursos de nível médio-técnico integrado: Aquicultura, Informática e Logística, totalizando o preenchimento de 120 vagas com estudantes do litoral paranaense. Na data de 29 de dezembro de 2008, com a",
-            "secao": "oferta",
             "status_curadoria": "sugerido"
           }
         }
@@ -249,7 +239,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "( ) Modular 1.1.14 Vagas totais Número máximo de vagas do curso: 40 (quarenta). Número mínimo de vagas do curso: 20 (vinte). 1.1.15 Escolaridade mínima exigida/requisito de acesso ao curso Ensino",
+            "trecho_fonte": "Vagas totais Número máximo de vagas do curso: 40 (quarenta). Número mínimo de vagas do curso: 20 (vinte)",
             "secao": "Vagas totais",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
@@ -288,7 +278,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "uma) horas relógio. Número máximo de vagas do curso: 40 (quarenta). Número mínimo de vagas do curso: 20 (vinte). Ano de criação do curso: 2011. Ano de oferta do curso: 2013. Requisito",
+            "trecho_fonte": "Número máximo de vagas do curso: 40 (quarenta). Número mínimo de vagas do curso: 20 (vinte)",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"

@@ -34,7 +34,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "êmico Anual. 1.1.14 Vagas totais Mínimo de 25 (vinte e cinco) e máximo de 40 (quarenta) vagas anuais. 1.1.15 Escolaridade mínima exigida/requisito de acesso",
+            "trecho_fonte": "Vagas totais Mínimo de 25 (vinte e cinco) e máximo de 40 (quarenta) vagas anuais",
             "secao": "Vagas totais",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 25 vagas"
@@ -73,7 +73,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "ada por ano. 1.1.14 Vagas totais 40 (quarenta) vagas anuais, sendo: mínimo de 25 e máximo de 40 vagas. 1.1.15 Escolaridade mínima exigida/requisito de acesso ao curso Ensino F",
+            "trecho_fonte": "Vagas totais 40 (quarenta) vagas anuais, sendo: mínimo de 25 e máximo de 40 vagas",
             "secao": "Vagas totais",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 25 vagas"
@@ -112,9 +112,10 @@
           },
           "vagas": {
             "quantidade": 30,
-            "trecho_fonte": "ção - 3.2 Número de vagas ofertadas: 30 vagas. 3.3 Pré-requisitos: Curso superior completo em licenciatura em geral 3.4 Públi",
+            "trecho_fonte": "Número de vagas ofertadas: 30 vagas",
             "secao": "vagas ofertadas",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "sugerido",
+            "forma_oferta": "30 vagas"
           }
         }
       }
@@ -146,10 +147,11 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "ponente curricular. Vagas totais (anual): 40 vagas Escolaridade mínima exigida: Ensino Médio completo. Coordenador: Nome: Catiussa",
+            "trecho_fonte": "Vagas totais (anual): 40 vagas",
             "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }

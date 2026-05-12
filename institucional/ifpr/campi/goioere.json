@@ -38,7 +38,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "gio não obrigatório Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 20 vagas Ano de criação do curso: 2014 Requisitos de acesso ao Curso: ensino funda",
+            "trecho_fonte": "Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 20 vagas",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
@@ -77,7 +77,7 @@
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "gio não obrigatório Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 20 vagas Ano de criação do curso: 2016 Requisitos de acesso ao Curso: Ensino funda",
+            "trecho_fonte": "Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 20 vagas",
             "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
