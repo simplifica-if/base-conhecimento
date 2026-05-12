@@ -1,64 +1,53 @@
-**==> picture [470 x 55] intentionally omitted <==**
 
-## **MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO SUPERIOR INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ PRÓ - REITORIA DE ENSINO DIRETORIA DE ENSINO** 
+## **MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO SUPERIOR INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ PRÓ - REITORIA DE ENSINO DIRETORIA DE ENSINO**
 
-## **PROJETO PEDAGÓGICO DO CURSO DE LICENCIATURA EM QUÍMICA** 
+## **PROJETO PEDAGÓGICO DO CURSO DE LICENCIATURA EM QUÍMICA**
 
-## **AUTORIZADO PELA RESOLUÇÃO Nº 40/2017 CONSUP/IFPR AJUSTE PARECER CONSEPE NºXX/ANO** 
+## **AUTORIZADO PELA RESOLUÇÃO Nº 40/2017 CONSUP/IFPR AJUSTE PARECER CONSEPE NºXX/ANO**
 
-Pitanga 2022 
+Pitanga 2022
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**
 
-## **INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ** 
+## **Reitor**
 
-## **Reitor** 
+Odacir Antonio Zanatta
 
-Odacir Antonio Zanatta 
+**Pró-Reitor de Ensino** Amarildo Pinheiro Magalhães
 
-**Pró-Reitor de Ensino** Amarildo Pinheiro Magalhães 
+## **Pró-Reitor(a) de Ensino Adjunto(a)**
 
-## **Pró-Reitor(a) de Ensino Adjunto(a)** 
+Cristiane Ribeiro da Silva
 
-Cristiane Ribeiro da Silva 
+**Diretor/a de Ensino** Patrícia Daniela Maciel
 
-**Diretor/a de Ensino** Patrícia Daniela Maciel 
+## **Coordenador/a de Cursos de Graduação**
 
-## **Coordenador/a de Cursos de Graduação** 
+Katia Andrea Silva da Costa
 
-Katia Andrea Silva da Costa 
+## **Direção Geral do Campus**
 
-## **Direção Geral do Campus** 
+Maicon Rogério de Souza
 
-Maicon Rogério de Souza 
+## **Direção de Ensino, Pesquisa e Extensão do Campus**
 
-## **Direção de Ensino, Pesquisa e Extensão do Campus** 
+Daniel Rotella Cocco
 
-Daniel Rotella Cocco 
+## **Coordenador de Curso**
 
-## **Coordenador de Curso** 
+Diego Pessoa Rocha
 
-Diego Pessoa Rocha 
+## **Núcleo Docente Estruturante**
 
-## **Núcleo Docente Estruturante** 
+Aline Fabiane Barbieri Ana Paula Hilário Gregório Diego Pessoa Rocha Daniel Rotella Cocco Felipe Augusto Fernandes Borges Josias Reis Lima Leila Cleuri Pryjma Maicon Rogério de Souza Marcela Marta Lazaretti Tormena
 
-Aline Fabiane Barbieri Ana Paula Hilário Gregório Diego Pessoa Rocha Daniel Rotella Cocco Felipe Augusto Fernandes Borges Josias Reis Lima Leila Cleuri Pryjma Maicon Rogério de Souza Marcela Marta Lazaretti Tormena 
+**Comissão de Estruturação de Curso** Aline Fabiane Barbieri Ana Paula Hilário Gregório Anauzira Silveira de Rezende Kurita
 
-**Comissão de Estruturação de Curso** Aline Fabiane Barbieri Ana Paula Hilário Gregório Anauzira Silveira de Rezende Kurita 
+Andressa Kapusinski Michalak Daniel Rotella Cocco Diego Pessoa Rocha Felipe Augusto Fernandes Borges Fernando Ruy Jéssica de Almeida Moreira Getão Josias Reis Lima Maicon Rogério de Souza Marcela Marta Lazaretti Tormena Maria Fernanda Lacerda de Oliveira Marta Rodrigues de Souza
 
-1 
+## **Colegiado de Gestão Pedagógica de Campus**
 
-**==> picture [472 x 55] intentionally omitted <==**
-
-Andressa Kapusinski Michalak Daniel Rotella Cocco Diego Pessoa Rocha Felipe Augusto Fernandes Borges Fernando Ruy Jéssica de Almeida Moreira Getão Josias Reis Lima Maicon Rogério de Souza Marcela Marta Lazaretti Tormena Maria Fernanda Lacerda de Oliveira Marta Rodrigues de Souza 
-
-## **Colegiado de Gestão Pedagógica de Campus** 
-
-Aline Fabiane Barbieri Celso Fernando Claro de Oliveira Daniel Rotella Cocco Diego Pessoa Rocha Felipe Augusto Fernandes Borges Jéssica de Almeida Moreira Gestão Josias Reis Lima Leandro Delgado de Souza Marta Rodrigues de Souza 
-
-2 
-
-**==> picture [472 x 55] intentionally omitted <==**
+Aline Fabiane Barbieri Celso Fernando Claro de Oliveira Daniel Rotella Cocco Diego Pessoa Rocha Felipe Augusto Fernandes Borges Jéssica de Almeida Moreira Gestão Josias Reis Lima Leandro Delgado de Souza Marta Rodrigues de Souza
 
 |1. APRESENTAÇÃO DO PROJETO|7|
 |---|---|
@@ -93,12 +82,6 @@ Aline Fabiane Barbieri Celso Fernando Claro de Oliveira Daniel Rotella Cocco Die
 |2.3 RESPONSABILIDADE SOCIAL, AMBIENTAL E PATRIMONIAL|28|
 |2.3.1 A Responsabilidade Social do Curso|28|
 |2.3.2 Meio Ambiente e Desenvolvimento Humano|29|
-
-
-
-3 
-
-**==> picture [472 x 55] intentionally omitted <==**
 
 |2.3.3 Memória, Patrimônio Artístico e Cultural|29|
 |---|---|
@@ -135,12 +118,6 @@ Aline Fabiane Barbieri Celso Fernando Claro de Oliveira Daniel Rotella Cocco Die
 |4.5.1 Integração com as redes públicas de ensino e proposição de atividades práticas de||
 |ensino para licenciaturas|124|
 
-
-
-4 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |4.5.2 Integração com o sistema local e regional de saúde (SUS) e proposição de atividades|4.5.2 Integração com o sistema local e regional de saúde (SUS) e proposição de atividades|
 |---|---|
 |práticas de ensino para áreas da saúde|124|
@@ -176,12 +153,6 @@ Aline Fabiane Barbieri Celso Fernando Claro de Oliveira Daniel Rotella Cocco Die
 |7.3 ÁREAS DE ESTUDO ESPECÍFICO|155|
 |7.4 ÁREAS DE ESPORTE E VIVÊNCIA|155|
 
-
-
-5 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |7.5 ÁREAS DE ATENDIMENTO DISCENTE|156|
 |---|---|
 |7.6 ÁREAS DE APOIO|156|
@@ -200,823 +171,639 @@ Aline Fabiane Barbieri Celso Fernando Claro de Oliveira Daniel Rotella Cocco Die
 |**APÊNDICE D - REGULAMENTO DE ATIVIDADES COMPLEMENTARES**|194|
 |ANEXO|202|
 
+## **1. APRESENTAÇÃO DO PROJETO**
 
+## 1.1 IDENTIFICAÇÃO
 
-6 
+## **1.1.1 Denominação do Curso**
 
-**==> picture [472 x 55] intentionally omitted <==**
+Curso Superior de Licenciatura em Química.
 
-## **1. APRESENTAÇÃO DO PROJETO** 
+## **1.1.2 Área do Conhecimento/Eixo Tecnológico**
 
-## 1.1 IDENTIFICAÇÃO 
+Ciências Exatas e da Terra/Desenvolvimento Educacional e Social.
 
-## **1.1.1 Denominação do Curso** 
+## **1.1.3 Modalidade**
 
-Curso Superior de Licenciatura em Química. 
+Presencial.
 
-## **1.1.2 Área do Conhecimento/Eixo Tecnológico** 
+## **1.1.4 Grau**
 
-Ciências Exatas e da Terra/Desenvolvimento Educacional e Social. 
+Licenciatura.
 
-## **1.1.3 Modalidade** 
+## **1.1.5 Regime Letivo (Periodicidade)**
 
-Presencial. 
+Semestral.
 
-## **1.1.4 Grau** 
+## **1.1.6 Turno principal do curso**
 
-Licenciatura. 
+Noturno.
 
-## **1.1.5 Regime Letivo (Periodicidade)** 
+## **1.1.7 Horário de oferta do curso**
 
-Semestral. 
+De segunda a sexta-feira, das 19h (início) às 22h30 (término), com intervalo das 20h40 às 20h50.
 
-## **1.1.6 Turno principal do curso** 
+## **1.1.8 Prazo de Integralização Curricular**
 
-Noturno. 
+8 semestres (mínimo).
 
-## **1.1.7 Horário de oferta do curso** 
+## **1.1.9 Carga-Horária total do Curso**
 
-De segunda a sexta-feira, das 19h (início) às 22h30 (término), com intervalo das 20h40 às 20h50. 
+3218 horas (total) sendo 400 horas destinadas a estágio obrigatório e 200 horas destinadas às atividades complementares.
 
-## **1.1.8 Prazo de Integralização Curricular** 
+## **1.1.10 Vagas totais (anual)**
 
-8 semestres (mínimo). 
+40 vagas.
 
-## **1.1.9 Carga-Horária total do Curso** 
+## **1.1.11 Escolaridade mínima exigida**
 
-3218 horas (total) sendo 400 horas destinadas a estágio obrigatório e 200 horas destinadas às atividades complementares. 
+Ensino Médio completo.
 
-## **1.1.10 Vagas totais (anual)** 
+## **1.1.12 Coordenador**
 
-40 vagas. 
+Nome: Diego Pessoa Rocha Titulação Máxima: Doutor Regime de Trabalho: DE
 
-## **1.1.11 Escolaridade mínima exigida** 
+## **1.1.13 Coordenador substituto**
 
-Ensino Médio completo. 
+Nome: Titulação Máxima: Regime de Trabalho:
 
-7 
+## **1.1.14 Endereço de Oferta**
 
-**==> picture [472 x 55] intentionally omitted <==**
+Campus: Pitanga. Rua e número: José de Alencar, 1080. Bairro: Planalto Cidade: Pitanga UF: PR CEP: 85200-000
 
-## **1.1.12 Coordenador** 
+## 1.2 CONTEXTO HISTÓRICO DO PROJETO NO IFPR
 
-Nome: Diego Pessoa Rocha Titulação Máxima: Doutor Regime de Trabalho: DE 
+## **1.2.1 O Instituto Federal do Paraná**
 
-## **1.1.13 Coordenador substituto** 
+O Instituto Federal do Paraná teve origem a partir da Lei 11.982 de 29 de dezembro de 2008 (BRASIL, 2008a) que instituiu a Rede Federal de Educação Profissional, Científica e Tecnológica, criando a Rede Federal de Educação, Ciência e Tecnologia.
 
-Nome: Titulação Máxima: Regime de Trabalho: 
+O Artigo 2º da Lei 11.982/2008 caracteriza os Institutos Federais como:
 
-## **1.1.14 Endereço de Oferta** 
+[...] instituições de educação superior, básica e profissional, pluricurriculares e multicampi, especializados na oferta de educação profissional e tecnológica nas diferentes modalidades de ensino, com base na conjugação de conhecimentos técnicos e tecnológicos com as suas práticas pedagógicas, nos termos desta Lei (BRASIL, 2008a).
 
-Campus: Pitanga. Rua e número: José de Alencar, 1080. Bairro: Planalto Cidade: Pitanga UF: PR CEP: 85200-000 
+A partir desse parágrafo, entende-se que, “[...] para efeito da incidência das disposições que regem a regulação, avaliação e supervisão das instituições e dos cursos de educação superior, os Institutos Federais são equiparados às universidades federais” (BRASIL, 2008a).
 
-8 
+No Brasil, existem 38 Institutos que constituem a Rede Federal de Educação Profissional, Científica e Tecnológica, vinculada à Secretaria de Educação Profissional e Tecnológica do Ministério da Educação (SETEC/MEC). O Artigo 5º da Lei 11.982/2008 (BRASIL, 2008) determina a presença dos Institutos Federais nas diferentes unidades da federação, indicando em seu inciso XXV a criação do Instituto Federal do Paraná, mediante a transformação da Escola Técnica da Universidade Federal do Paraná.
 
-**==> picture [472 x 55] intentionally omitted <==**
+As finalidades e características dos Institutos Federais e, portanto, do Instituto Federal do Paraná (IFPR) são descritas nos incisos do Artigo 6º da referida lei, como sendo:
 
-## 1.2 CONTEXTO HISTÓRICO DO PROJETO NO IFPR 
+I – ofertar educação profissional e tecnológica, em todos os seus níveis e modalidades, formando e qualificando cidadãos com vistas na atuação
 
-## **1.2.1 O Instituto Federal do Paraná** 
+profissional nos diversos setores da economia, com ênfase no desenvolvimento socioeconômico local, regional e nacional;
 
-O Instituto Federal do Paraná teve origem a partir da Lei 11.982 de 29 de dezembro de 2008 (BRASIL, 2008a) que instituiu a Rede Federal de Educação Profissional, Científica e Tecnológica, criando a Rede Federal de Educação, Ciência e Tecnologia. 
+II – desenvolver a educação profissional e tecnológica como processo educativo e investigativo de geração e adaptação de soluções técnicas e tecnológicas às demandas sociais e peculiaridades regionais;
 
-O Artigo 2º da Lei 11.982/2008 caracteriza os Institutos Federais como: 
+III – promover a integração e a verticalização da educação básica à educação profissional e educação superior, otimizando a infra-estrutura física, os quadros de pessoal e os recursos de gestão;
 
-[...] instituições de educação superior, básica e profissional, pluricurriculares e multicampi, especializados na oferta de educação profissional e tecnológica nas diferentes modalidades de ensino, com base na conjugação de conhecimentos técnicos e tecnológicos com as suas práticas pedagógicas, nos termos desta Lei (BRASIL, 2008a). 
+IV – orientar sua oferta formativa em benefício da consolidação e fortalecimento dos arranjos produtivos, sociais e culturais locais, identificados com base no mapeamento das potencialidades de desenvolvimento socioeconômico e cultural no âmbito de atuação do Instituto Federal;
 
-A partir desse parágrafo, entende-se que, “[...] para efeito da incidência das disposições que regem a regulação, avaliação e supervisão das instituições e dos cursos de educação superior, os Institutos Federais são equiparados às universidades federais” (BRASIL, 2008a). 
+V – constituir-se em centro de excelência na oferta do ensino de ciências, em geral, e de ciências aplicadas, em particular, estimulando o desenvolvimento de espírito crítico, voltado à investigação empírica;
 
-No Brasil, existem 38 Institutos que constituem a Rede Federal de Educação Profissional, Científica e Tecnológica, vinculada à Secretaria de Educação Profissional e Tecnológica do Ministério da Educação (SETEC/MEC). O Artigo 5º da Lei 11.982/2008 (BRASIL, 2008) determina a presença dos Institutos Federais nas diferentes unidades da federação, indicando em seu inciso XXV a criação do Instituto Federal do Paraná, mediante a transformação da Escola Técnica da Universidade Federal do Paraná. 
+VI – qualificar-se como centro de referência no apoio à oferta do ensino de ciências nas instituições públicas de ensino, oferecendo capacitação técnica e atualização pedagógica aos docentes das redes públicas de ensino;
 
-As finalidades e características dos Institutos Federais e, portanto, do Instituto Federal do Paraná (IFPR) são descritas nos incisos do Artigo 6º da referida lei, como sendo: 
+VII – desenvolver programas de extensão e de divulgação científica e tecnológica;
 
-I – ofertar educação profissional e tecnológica, em todos os seus níveis e modalidades, formando e qualificando cidadãos com vistas na atuação 
+VIII – realizar e estimular a pesquisa aplicada, a produção cultural, o empreendedorismo, o cooperativismo e o desenvolvimento científico e tecnológico;
 
-9 
+IX – promover a produção, o desenvolvimento e a transferência de tecnologias sociais, notadamente as voltadas à preservação do meio ambiente (BRASIL, 2008a).
 
-**==> picture [472 x 55] intentionally omitted <==**
+A partir disso, estabelecem-se os objetivos dos Institutos Federais, descritos no Artigo 7º da mesma lei:
 
-profissional nos diversos setores da economia, com ênfase no desenvolvimento socioeconômico local, regional e nacional; 
+I – ministrar educação profissional técnica de nível médio, prioritariamente na forma de cursos integrados, para os concluintes do ensino fundamental e para o público da educação de jovens e adultos;
 
-II – desenvolver a educação profissional e tecnológica como processo educativo e investigativo de geração e adaptação de soluções técnicas e tecnológicas às demandas sociais e peculiaridades regionais; 
+II – ministrar cursos de formação inicial e continuada de trabalhadores, objetivando a capacitação, o aperfeiçoamento, a especialização e a atualização de profissionais, em todos os níveis de escolaridade, nas áreas da educação profissional e tecnológica;
 
-III – promover a integração e a verticalização da educação básica à educação profissional e educação superior, otimizando a infra-estrutura física, os quadros de pessoal e os recursos de gestão; 
+III – realizar pesquisas aplicadas, estimulando o desenvolvimento de soluções técnicas e tecnológicas, estendendo seus benefícios à comunidade;
 
-IV – orientar sua oferta formativa em benefício da consolidação e fortalecimento dos arranjos produtivos, sociais e culturais locais, identificados com base no mapeamento das potencialidades de desenvolvimento socioeconômico e cultural no âmbito de atuação do Instituto Federal; 
+IV – desenvolver atividades de extensão de acordo com os princípios e finalidades da educação profissional e tecnológica, em articulação com o mundo do trabalho e os segmentos sociais, e com ênfase na produção, desenvolvimento e difusão de conhecimentos científicos e tecnológicos; V – estimular e apoiar processos educativos que levem à geração de trabalho e renda e à emancipação do cidadão na perspectiva do desenvolvimento socioeconômico local e regional; e
 
-V – constituir-se em centro de excelência na oferta do ensino de ciências, em geral, e de ciências aplicadas, em particular, estimulando o desenvolvimento de espírito crítico, voltado à investigação empírica; 
+VI – ministrar em nível de educação superior (BRASIL, 2008a).
 
-VI – qualificar-se como centro de referência no apoio à oferta do ensino de ciências nas instituições públicas de ensino, oferecendo capacitação técnica e atualização pedagógica aos docentes das redes públicas de ensino; 
+Um dos diferenciais dos Institutos Federais é a proposta de verticalização do ensino, sendo possível oferecer, na mesma instituição, desde a Educação Básica até a Pós-Graduação (especialização, mestrado e doutorado). O Ensino Superior é ministrado nos Institutos Federais, observando o disposto nas alíneas do Artigo7º, inciso VI, que confere a abrangência de atuação desse nível nas instituições vinculadas à Rede Federal de Educação, Ciência e Tecnologia:
 
-VII – desenvolver programas de extensão e de divulgação científica e tecnológica; 
+a) cursos superiores de tecnologia visando à formação de profissionais para os diferentes setores da economia;
 
-VIII – realizar e estimular a pesquisa aplicada, a produção cultural, o empreendedorismo, o cooperativismo e o desenvolvimento científico e tecnológico; 
+b) cursos de licenciatura, bem como programas especiais de formação pedagógica, com vistas na formação de professores para a educação básica,
 
-IX – promover a produção, o desenvolvimento e a transferência de tecnologias sociais, notadamente as voltadas à preservação do meio ambiente (BRASIL, 2008a). 
+sobretudo nas áreas de ciências e matemática, e para a educação profissional;
 
-A partir disso, estabelecem-se os objetivos dos Institutos Federais, descritos no Artigo 7º da mesma lei: 
+c) cursos de bacharelado e engenharia, visando à formação de profissionais para os diferentes setores da economia e áreas do conhecimento;
 
-10 
+d) cursos de pós-graduação lato sensu de aperfeiçoamento e especialização, visando à formação de especialistas nas diferentes áreas do conhecimento; e
 
-**==> picture [472 x 55] intentionally omitted <==**
+e) cursos de pós-graduação stricto sensu de mestrado e doutorado, que contribuam para promover o estabelecimento de bases sólidas em educação, ciência e tecnologia, com vistas no processo de geração e inovação tecnológica (BRASIL, 2008a).
 
-I – ministrar educação profissional técnica de nível médio, prioritariamente na forma de cursos integrados, para os concluintes do ensino fundamental e para o público da educação de jovens e adultos; 
+O Instituto Federal do Paraná (IFPR), após oito anos de implantação, estrutura-se em 20 _campi_ , 6 _campi_ avançados e 4 centros de referência, ofertando cursos em nível médio, técnico e superior, além de cursos de Formação Inicial e Continuada (FIC) e de Educação a Distância (EaD). Os _campi_ do IFPR estão localizados nos municípios de Assis Chateaubriand **,** Campo Largo, Capanema, Cascavel **,** Colombo, Curitiba, Foz do Iguaçu, Irati, Ivaiporã, Jacarezinho, Jaguariaíva, Londrina **,** Palmas, Paranaguá, Paranavaí **,** Pinhais, Pitanga **,** Telêmaco Borba, Umuarama e União da Vitória. Enquanto os _campi_ avançados estão localizados nas cidades de Arapongas, Astorga **,** Barracão **,** Coronel Vivida, Goioerê e Quedas do Iguaçu. Os centros de referências encontram-se nas cidades de Maringá, Ponta Grossa, São José dos Pinhais e Toledo.
 
-II – ministrar cursos de formação inicial e continuada de trabalhadores, objetivando a capacitação, o aperfeiçoamento, a especialização e a atualização de profissionais, em todos os níveis de escolaridade, nas áreas da educação profissional e tecnológica; 
+O Paraná é um dos estados brasileiros que mais se destaca no crescimento econômico e na qualidade de vida, conforme o Índice de Desenvolvimento Humano (IDH) médio. A economia paranaense está entre as cinco maiores do país, tendo apresentado, no ano de 2008, um crescimento de 5,8%, atingindo um PIB de 169,8 bilhões de reais, correspondente a 5,84% do PIB nacional (IPARDES, 2008).
 
-III – realizar pesquisas aplicadas, estimulando o desenvolvimento de soluções técnicas e tecnológicas, estendendo seus benefícios à comunidade; 
+Na composição do PIB paranaense, o setor de serviços se destaca, correspondendo a 62,7% do total, seguido dos setores industrial e agropecuário que participam, respectivamente, com 29,1% e 8,2% (IPARDES, 2008).
 
-IV – desenvolver atividades de extensão de acordo com os princípios e finalidades da educação profissional e tecnológica, em articulação com o mundo do trabalho e os segmentos sociais, e com ênfase na produção, desenvolvimento e difusão de conhecimentos científicos e tecnológicos; V – estimular e apoiar processos educativos que levem à geração de trabalho e renda e à emancipação do cidadão na perspectiva do desenvolvimento socioeconômico local e regional; e 
+O Paraná é o maior produtor nacional de grãos, apresentando uma pauta agrícola diversificada, na qual se destacam a soja, o milho, o trigo, o feijão e a cana-de-açúcar. Na pecuária, o destaque é da avicultura, que corresponde a 25,3% do total de abates do País. Nos segmentos de bovinos e suínos, a participação do Estado atinge 4,2% e 16,0%, respectivamente (IPARDES, 2008).
 
-VI – ministrar em nível de educação superior (BRASIL, 2008a). 
+No setor industrial, predominam os segmentos de alimentos e bebidas, refino de petróleo e fabricação/montagem de veículos automotores. Enquanto, no comércio internacional se destacam as transações principalmente, com a Argentina e a Alemanha. Entre os principais produtos exportados estão a soja, material de transporte e carne, enquanto os mais importados são materiais de transporte, produtos químicos e derivados de petróleo (IPARDES, 2008).
 
-Um dos diferenciais dos Institutos Federais é a proposta de verticalização do ensino, sendo possível oferecer, na mesma instituição, desde a Educação Básica até a Pós-Graduação (especialização, mestrado e doutorado). O Ensino Superior é ministrado nos Institutos Federais, observando o disposto nas alíneas do Artigo7º, inciso VI, que confere a abrangência de atuação desse nível nas instituições vinculadas à Rede Federal de Educação, Ciência e Tecnologia: 
+Neste panorama, o IFPR oferece condições adequadas para a produção de conhecimento e para a qualificação do trabalho, necessárias ao desenvolvimento socioeconômico do Paraná. Por isso, a distribuição espacial dos _campi_ procurou contemplar o estado como um todo, situando as unidades em municípios considerados polos de desenvolvimento regional. Nesse ínterim, é prevista a ampliação constante da rede por meio da implantação de novos _campi_ e núcleos avançados, abrangendo regiões com carência de atendimento e com baixo IDH.
 
-a) cursos superiores de tecnologia visando à formação de profissionais para os diferentes setores da economia; 
+No Município de Pitanga, a implantação do Instituto Federal do Paraná ocorreu no ano de 2014 com a oferta de cursos do Programa Nacional de Acesso ao Ensino Técnico e Emprego (PRONATEC): Vendas e Auxiliar Administrativo, e o curso FIC em Auxiliar Administrativo.
 
-b) cursos de licenciatura, bem como programas especiais de formação pedagógica, com vistas na formação de professores para a educação básica, 
+A autorização de funcionamento do _Campus_ Pitanga ocorreu pela Portaria nº 27, de 21 de janeiro de 2015, iniciando suas atividades de ensino em 09 de fevereiro de 2015, com o curso Técnico em Cooperativismo Integrado ao Ensino Médio, no mesmo ano foi ofertado o curso FIC em Condutor Ambiental Local.
 
-11 
+No ano de 2016, além da continuidade do curso Técnico em Cooperativismo Integrado ao Ensino Médio, o IFPR _Campus_ Pitanga ofertou cursos Técnicos Subsequentes na modalidade de EaD: Administração, Agente Comunitário de Saúde, Logística, Meio Ambiente e Serviços Públicos, com polos nos municípios de Palmital, Cândido de Abreu e Pitanga. Neste mesmo ano
 
-**==> picture [472 x 55] intentionally omitted <==**
+em parceria com a Casa Familiar Rural Vitor Mariano de Castro, Secretaria Municipal de Educação e o Núcleo Regional de Educação do Município de Pitanga, foram ofertados cursos FIC em: Agente de Desenvolvimento Cooperativista, Auxiliar Administrativo, Inglês Básico, Programador de Sistemas e Recreador.
 
-sobretudo nas áreas de ciências e matemática, e para a educação profissional; 
+Em 2017, além de quatro turmas de Técnico em Cooperativismo Integrado ao Ensino Médio, e da continuidade dos cursos Técnicos Subsequentes na modalidade de EaD o IFPR _Campus_ Pitanga oferta o curso de Pós Graduação, nível de Especialização, em Interdisciplinaridade e Docência na Educação Básica e o curso FIC em Auxiliar Administrativo.
 
-c) cursos de bacharelado e engenharia, visando à formação de profissionais para os diferentes setores da economia e áreas do conhecimento; 
+O curso de Licenciatura em Química corresponde ao plano de verticalização do ensino no IFPR _Campus_ Pitanga. A oferta de cursos superiores gratuitos e de qualidade atende a demanda e colabora para o desenvolvimento regional.
 
-d) cursos de pós-graduação lato sensu de aperfeiçoamento e especialização, visando à formação de especialistas nas diferentes áreas do conhecimento; e 
+## **1.2.2 O Curso Superior de Licenciatura em Química**
 
-e) cursos de pós-graduação stricto sensu de mestrado e doutorado, que contribuam para promover o estabelecimento de bases sólidas em educação, ciência e tecnologia, com vistas no processo de geração e inovação tecnológica (BRASIL, 2008a). 
+O Instituto Federal do Paraná tem como missão promover a educação profissional, científica e tecnológica, pública, gratuita e de excelência, por meio do ensino, pesquisa e extensão, visando à formação integral de cidadãos críticos, empreendedores, comprometidos com a sustentabilidade e com o desenvolvimento local e regional. Sendo assim, no ano de 2016 o Instituto Federal do Paraná – _Campus_ Pitanga realizou um levantamento do número de estudantes concluintes do Ensino Fundamental com o objetivo de propor a abertura de novos cursos. Identificou-se que naquele momento o número de estudantes aptos a ingressarem no Curso Técnico Integrado em Cooperativismo era insuficiente para a abertura de um novo Curso Técnico Integrado num campus em fase de consolidação no município. O cenário identificado indicou que a oferta de Cursos Superiores era um possível caminho para atingir um maior número de estudantes possibilitando a consolidação e expansão do campus.
 
-O Instituto Federal do Paraná (IFPR), após oito anos de implantação, estrutura-se em 20 _campi_ , 6 _campi_ avançados e 4 centros de referência, ofertando cursos em nível médio, técnico e superior, além de cursos de Formação Inicial e Continuada (FIC) e de Educação a Distância (EaD). Os _campi_ do IFPR estão localizados nos municípios de Assis Chateaubriand **,** Campo Largo, Capanema, Cascavel **,** Colombo, Curitiba, Foz do Iguaçu, Irati, Ivaiporã, Jacarezinho, Jaguariaíva, Londrina **,** Palmas, Paranaguá, Paranavaí **,** Pinhais, Pitanga **,** Telêmaco Borba, Umuarama e União da Vitória. Enquanto os _campi_ avançados estão localizados nas cidades de Arapongas, Astorga **,** Barracão **,** Coronel Vivida, Goioerê e Quedas do Iguaçu. Os centros de referências encontram-se nas cidades de Maringá, Ponta Grossa, São José dos Pinhais e Toledo. 
+Tais discussões, a respeito da oferta de um Curso Superior, iniciadas no ano de 2016, foram pautadas a partir da análise da Lei n° 11892 de 29 de dezembro de 2008 que criou a Rede Federal de Educação Profissional, Científica e Tecnológica da qual o Instituto Federal do Paraná faz parte.
 
-O Paraná é um dos estados brasileiros que mais se destaca no crescimento econômico e na qualidade de vida, conforme o Índice de Desenvolvimento Humano (IDH) médio. A economia paranaense está entre as cinco maiores do país, tendo apresentado, no ano de 2008, um crescimento de 5,8%, atingindo um PIB de 169,8 bilhões de reais, correspondente a 5,84% do PIB nacional (IPARDES, 2008). 
+O artigo 7° desta Lei apresenta os objetivos dos Institutos Federais e, entre eles, está a oferta de Cursos de Licenciatura.
 
-Na composição do PIB paranaense, o setor de serviços se destaca, correspondendo a 62,7% do total, seguido dos setores industrial e agropecuário que participam, respectivamente, com 29,1% e 8,2% (IPARDES, 2008). 
+A oferta do curso de Licenciatura em Química no IFPR _Campus_ Pitanga propicia a verticalização do ensino e a expansão do _Campus_ como instituição de ensino, pesquisa, extensão e inovação, contribuindo com o desenvolvimento regional pautado na melhoria da educação.
 
-12 
+A construção do Projeto Pedagógico do Curso (PPC) ocorreu de forma coletiva. Inicialmente, foi designada, pela Direção Geral do IFPR _Campus_ Pitanga, a Comissão Estruturante de Curso (CEC) por meio da Portaria 15 de 10 de março de 2017 (IFPR – _Campus_ PITANGA, 2017). Na sequência foram realizadas reuniões para elaboração e aprovação da Proposta de Abertura de Curso (PAC) de Licenciatura em Química. Após a aprovação da PAC, o PPC foi elaborado, discutido e aprovado pelos órgãos colegiados. Por fim, a abertura do curso foi aprovada à luz da Resolução N°40/2017 CONSUP/IFPR.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **1.2.3 Missão, Visão e Valores**
 
-O Paraná é o maior produtor nacional de grãos, apresentando uma pauta agrícola diversificada, na qual se destacam a soja, o milho, o trigo, o feijão e a cana-de-açúcar. Na pecuária, o destaque é da avicultura, que corresponde a 25,3% do total de abates do País. Nos segmentos de bovinos e suínos, a participação do Estado atinge 4,2% e 16,0%, respectivamente (IPARDES, 2008). 
+A missão do IFPR se constitui em:
 
-No setor industrial, predominam os segmentos de alimentos e bebidas, refino de petróleo e fabricação/montagem de veículos automotores. Enquanto, no comércio internacional se destacam as transações principalmente, com a Argentina e a Alemanha. Entre os principais produtos exportados estão a soja, material de transporte e carne, enquanto os mais importados são materiais de transporte, produtos químicos e derivados de petróleo (IPARDES, 2008). 
+Promover a educação profissional e tecnológica, pública, de qualidade, socialmente referenciada, por meio do ensino, pesquisa e extensão, visando à formação de cidadãos críticos, autônomos e empreendedores, comprometidos com a sustentabilidade (PDI-IFPR, 2014/2018, p. 25).
 
-Neste panorama, o IFPR oferece condições adequadas para a produção de conhecimento e para a qualificação do trabalho, necessárias ao desenvolvimento socioeconômico do Paraná. Por isso, a distribuição espacial dos _campi_ procurou contemplar o estado como um todo, situando as unidades em municípios considerados polos de desenvolvimento regional. Nesse ínterim, é prevista a ampliação constante da rede por meio da implantação de novos _campi_ e núcleos avançados, abrangendo regiões com carência de atendimento e com baixo IDH. 
+Dessa missão, deriva-se a visão institucional “Ser referência em educação profissional, tecnológica e científica, reconhecida pelo compromisso com a transformação social” (PDI-IFPR, 2014/2018, p. 25). Os valores dos quais o IFPR preza são:
 
-No Município de Pitanga, a implantação do Instituto Federal do Paraná ocorreu no ano de 2014 com a oferta de cursos do Programa Nacional de Acesso ao Ensino Técnico e Emprego (PRONATEC): Vendas e Auxiliar Administrativo, e o curso FIC em Auxiliar Administrativo. 
+- Pessoas;
 
-A autorização de funcionamento do _Campus_ Pitanga ocorreu pela Portaria nº 27, de 21 de janeiro de 2015, iniciando suas atividades de ensino em 09 de fevereiro de 2015, com o curso Técnico em Cooperativismo Integrado ao Ensino Médio, no mesmo ano foi ofertado o curso FIC em Condutor Ambiental Local. 
+- Visão sistêmica;
 
-No ano de 2016, além da continuidade do curso Técnico em Cooperativismo Integrado ao Ensino Médio, o IFPR _Campus_ Pitanga ofertou cursos Técnicos Subsequentes na modalidade de EaD: Administração, Agente Comunitário de Saúde, Logística, Meio Ambiente e Serviços Públicos, com polos nos municípios de Palmital, Cândido de Abreu e Pitanga. Neste mesmo ano 
+- Educação de qualidade e excelência;
 
-13 
+- Eficiência e Eficácia;
 
-**==> picture [472 x 55] intentionally omitted <==**
+- Ética;
 
-em parceria com a Casa Familiar Rural Vitor Mariano de Castro, Secretaria Municipal de Educação e o Núcleo Regional de Educação do Município de Pitanga, foram ofertados cursos FIC em: Agente de Desenvolvimento Cooperativista, Auxiliar Administrativo, Inglês Básico, Programador de Sistemas e Recreador. 
+- Sustentabilidade;
 
-Em 2017, além de quatro turmas de Técnico em Cooperativismo Integrado ao Ensino Médio, e da continuidade dos cursos Técnicos Subsequentes na modalidade de EaD o IFPR _Campus_ Pitanga oferta o curso de Pós Graduação, nível de Especialização, em Interdisciplinaridade e Docência na Educação Básica e o curso FIC em Auxiliar Administrativo. 
+- Qualidade de vida;
 
-O curso de Licenciatura em Química corresponde ao plano de verticalização do ensino no IFPR _Campus_ Pitanga. A oferta de cursos superiores gratuitos e de qualidade atende a demanda e colabora para o desenvolvimento regional. 
+- Diversidade humana e cultural;
 
-## **1.2.2 O Curso Superior de Licenciatura em Química** 
+- Inclusão social;
 
-O Instituto Federal do Paraná tem como missão promover a educação profissional, científica e tecnológica, pública, gratuita e de excelência, por meio do ensino, pesquisa e extensão, visando à formação integral de cidadãos críticos, empreendedores, comprometidos com a sustentabilidade e com o desenvolvimento local e regional. Sendo assim, no ano de 2016 o Instituto Federal do Paraná – _Campus_ Pitanga realizou um levantamento do número de estudantes concluintes do Ensino Fundamental com o objetivo de propor a abertura de novos cursos. Identificou-se que naquele momento o número de estudantes aptos a ingressarem no Curso Técnico Integrado em Cooperativismo era insuficiente para a abertura de um novo Curso Técnico Integrado num campus em fase de consolidação no município. O cenário identificado indicou que a oferta de Cursos Superiores era um possível caminho para atingir um maior número de estudantes possibilitando a consolidação e expansão do campus. 
+- Empreendedorismo e inovação;
 
-Tais discussões, a respeito da oferta de um Curso Superior, iniciadas no ano de 2016, foram pautadas a partir da análise da Lei n° 11892 de 29 de dezembro de 2008 que criou a Rede Federal de Educação Profissional, Científica e Tecnológica da qual o Instituto Federal do Paraná faz parte. 
+- Respeito às características regionais;
 
-14 
+- Democracia e transparência (PDI-IFPR, 2014/2018, p. 25).
 
-**==> picture [472 x 55] intentionally omitted <==**
+A partir do compromisso social, que se evidencia na missão, na visão e nos valores institucionais, o IFPR propõe uma formação sólida, com base nos valores democráticos como princípios fundamentais à educação e à produção de conhecimentos com base no tripé da educação - ensino, pesquisa e extensão, permitindo uma integração efetiva entre os membros da comunidade escolar, a sociedade e o mundo do trabalho.
 
-O artigo 7° desta Lei apresenta os objetivos dos Institutos Federais e, entre eles, está a oferta de Cursos de Licenciatura. 
+## 1.3 O PROJETO PEDAGÓGICO DO CURSO
 
-A oferta do curso de Licenciatura em Química no IFPR _Campus_ Pitanga propicia a verticalização do ensino e a expansão do _Campus_ como instituição de ensino, pesquisa, extensão e inovação, contribuindo com o desenvolvimento regional pautado na melhoria da educação. 
+## **1.3.1 Integração do Projeto ao PDI, PPI e PPP.**
 
-A construção do Projeto Pedagógico do Curso (PPC) ocorreu de forma coletiva. Inicialmente, foi designada, pela Direção Geral do IFPR _Campus_ Pitanga, a Comissão Estruturante de Curso (CEC) por meio da Portaria 15 de 10 de março de 2017 (IFPR – _Campus_ PITANGA, 2017). Na sequência foram realizadas reuniões para elaboração e aprovação da Proposta de Abertura de Curso (PAC) de Licenciatura em Química. Após a aprovação da PAC, o PPC foi elaborado, discutido e aprovado pelos órgãos colegiados. Por fim, a abertura do curso foi aprovada à luz da Resolução N°40/2017 CONSUP/IFPR. 
+O presente curso além de contribuir para a obtenção da meta de vagas nas licenciaturas também o faz com relação à identidade institucional. Nessa direção o curso representado pelo presente PPC articula os preceitos defendidos pelo PDI com os saberes desenvolvidos em suas práticas pedagógicas. Ou seja, para além de saberes puramente do conteúdo específico são elaborados também saberes que atravessam a vida pública dos professores que atuarão em uma sociedade cada vez mais complexa. Os temas tratados pelo projeto pedagógico institucional atravessam uma percepção orgânica da formação. Um dos temas que já relatamos é o papel de saberes relacionados à vida pública da atividade profissional. Isso exige da instituição formadora o mesmo compromisso com a vida em sociedade. Ou seja, o trabalho e a escola como processos formadores da sociedade têm o papel de viabilizar tanto a apropriação dos produtos culturais advindos da área de atuação como de sua recontextualização na realidade atual. Dessa forma, o tripé entre ensino, pesquisa e extensão pode colaborar na obtenção deste objetivo visto que cada uma dessas dimensões do processo formativo lida com práticas e saberes de dimensões diferentes que contribuem para proporcionar uma experiência formativa mais complexa e atual.
 
-## **1.2.3 Missão, Visão e Valores** 
+E assim o Projeto Político Pedagógico do _campus_ Pitanga também é atendido tanto a partir dos objetivos formativos em comum como relativo ao número de vagas previstas na lei de criação
 
-A missão do IFPR se constitui em: 
+dos Institutos Federais. Ou seja, a identidade institucional expressa no PDI, PPI e PPP são contemplados pelo PPC do curso em sua concepção de formação permeando todo o currículo tanto a partir de referências específicas da profissão docente como os saberes da vida social. E assim o presente curso visa formar profissionais que possam atuar na área de ensino de ciências da natureza, mais especificamente na de Ensino de Química tanto na atuação direta como professor ou em forma indireta como na produção de materiais curriculares. A partir do paradigma do desenvolvimento profissional entendemos também que a etapa aqui defendida é uma de um contínuo formativo. Ou seja, o presente curso não é uma etapa final, mas sim a etapa inicial para a profissionalização docente.
 
-Promover a educação profissional e tecnológica, pública, de qualidade, socialmente referenciada, por meio do ensino, pesquisa e extensão, visando à formação de cidadãos críticos, autônomos e empreendedores, comprometidos com a sustentabilidade (PDI-IFPR, 2014/2018, p. 25). 
+## **1.3.2 Fundamentos Legais e Normativos da Área**
 
-Dessa missão, deriva-se a visão institucional “Ser referência em educação profissional, tecnológica e científica, reconhecida pelo compromisso com a transformação social” (PDI-IFPR, 2014/2018, p. 25). Os valores dos quais o IFPR preza são: 
+O curso Superior de Licenciatura em Química foi autorizado pela resolução nº 40 de 14 de julho de 2017, do conselho superior do IFPR. O curso busca atender a necessidade colocada pela Lei de Diretrizes e Bases LDB 9394/96 expressa principalmente em seu artigo 62 sobre a formação de professores para atuar na educação básica. O curso também se fundamenta nas Diretrizes Nacionais Curriculares para os Cursos de Química (resoluções CNE/CES 1303, de 6 de novembro de 2001 e CNE/CES 8, de 11 de março de 2002). Tendo esse conjunto de diretrizes o PPC do presente curso foi construído através da estrutura proposta pela Resolução 19/2017 do CONSUP/IFPR que estabelece a política institucional de formação de profissionais do magistério da educação básica no IFPR e aprova o regulamento para projeto pedagógico de curso de licenciatura no IFPR. Tendo em vista a Curricularização da Extensão, levamos em conta, além da já citada LDB, a Resolução CNE/CES n. 7, de 18 de dezembro de 2018 que, estabelece as Diretrizes para a Extensão na Educação Superior Brasileira, regulamentando a meta 12.7 do Plano Nacional de Educação (PNE 2014-2024), a Instrução Normativa Reitoria/IFPR n.1, de 26 de julho de 2021 que institui a regulamentação para a implementação da Curricularização da Extensão no âmbito do IFPR. Com base na concepção de extensão expressa pelos documentos já referidos em conjunto com as Diretrizes para a Curricularização da Extensão na Rede Federal de Educação Profissional, Científica e Tecnológica publicadas pelo CONIF tecemos o PPC atual do curso partindo da premissa de uma constante avaliação e melhoria dos processos formativos atendendo a legislação.
 
-- Pessoas; 
+## **1.3.3 Integração do Projeto com o SINAES**
 
-- Visão sistêmica; 
+O Projeto Pedagógico do Curso (PPC) Superior de Licenciatura em Química foi elaborado com base no Instrumento de Avaliação de Cursos de Graduação do Sistema Nacional de Avaliação da Educação Superior (SINAES), conforme Lei nº 10.861 de 14/04/2004 (BRASIL, 2004).
 
-- Educação de qualidade e excelência; 
+O SINAES estabelece 10 dimensões, as quais devem ser utilizadas como referencial para o desenvolvimento do projeto do curso, a fim de garantir a qualidade da atuação acadêmica e social. Essas dimensões se integram ao projeto pedagógico da seguinte maneira:
 
-- Eficiência e Eficácia; 
+1. _A missão e o Plano de Desenvolvimento Institucional_ : A missão da instituição é colocada em prática em todos os _campi_ e cursos ofertados. Por meio da qualificação dos docentes, em programas de mestrado e doutorado, infraestrutura de laboratórios, desenvolvimento de projetos de pesquisa e extensão, é possível oferecer uma educação de excelência, visando sempre a formação integral do estudante e o desenvolvimento da sociedade a qual está inserido.
 
-- Ética; 
+2. _A política para o ensino, a pesquisa, a pós-graduação, a extensão e as respectivas normas de operacionalização, incluídos os procedimentos para estímulo à produção acadêmica, as bolsas de pesquisa, de monitoria e demais modalidades_ : Por meio das Políticas de Gestão Acadêmica, descritas no PDI, os campi são subsidiados a fim de, fortalecer ações de ensino, pesquisa e extensão, garantir recursos financeiros, incentivo à promoção, divulgação e participação em eventos científicos com publicação de pesquisas. As ações de políticas estudantis, garante aos mesmos diversas modalidades de bolsas que vão desde bolsa permanência a bolsas de pesquisa e monitoria. A participação dos estudantes de graduação em projetos de pesquisa e extensão é fortemente encorajada pelos docentes desde o início do curso.
 
-15 
+3. _A responsabilidade social da instituição, considerada especialmente no que se refere à sua contribuição em relação à inclusão social, ao desenvolvimento econômico e social, à defesa do meio ambiente, da memória cultural, da produção artística e do patrimônio cultural_ : A responsabilidade social inicia a partir do momento que a comunidade é
 
-**==> picture [472 x 55] intentionally omitted <==**
+convidada a integrar a instituição. Através do curso Superior de Licenciatura em Química é possível promover o desenvolvimento econômico e social com ações práticas, através de projetos de ensino, pesquisa e extensão, que além de agregar conhecimento aos estudantes, contribuem com a inclusão social e o desenvolvimento local.
 
-- Sustentabilidade; 
+4. _A comunicação com a sociedade_ : A comunicação ocorre de forma direta, onde a comunidade acadêmica promove ações conjuntas com órgãos públicos e privados, a fim de contribuir com soluções, desenvolvimento de atividades, entre outros.
 
-- Qualidade de vida; 
+5. _As políticas de pessoal, de carreiras do corpo docente e corpo técnico-administrativo, seu aperfeiçoamento, desenvolvimento profissional e suas condições de trabalho_ : Há um grande incentivo da gestão para as práticas de aperfeiçoamento de docentes e técnicos administrativos, através de cursos curtos, graduação ou programas de pós-graduação.
 
-- Diversidade humana e cultural; 
+6. _Organização e gestão da instituição, especialmente o funcionamento e representatividade dos colegiados, sua independência e autonomia na relação com a mantenedora, e a participação dos segmentos da comunidade universitária nos processos decisórios_ : Os colegiados de curso e de gestão pedagógica têm autonomia para a tomada de ações que valorizem o bom andamento dos trabalhos. O colegiado do curso de Licenciatura em Química conta com a representação dos estudantes, que levam ao grupo discussões pertinentes para o desenvolvimento e aprimoramento de ações que envolvam todos os estudantes do curso.
 
-- Inclusão social; 
+7. _Infraestrutura física, especialmente a de ensino e de pesquisa, biblioteca, recursos de informação e comunicação_ : Avaliações constantes da estrutura física de laboratórios, salas de aulas, biblioteca e recursos de informação e comunicação são realizadas e sempre que necessário, as devidas providências são tomadas para a melhoria da infraestrutura e a garantia da qualidade do ensino.
 
-- Empreendedorismo e inovação; 
+8. _Planejamento e avaliação, especialmente em relação aos processos, resultados e eficácia da autoavaliação institucional_ : Estas ações são coordenadas pela Comissão Própria de Avaliação (CPA) de cada instituição e orientadas pelas diretrizes e pelo roteiro da autoavaliação institucional da CONAES.
 
-- Respeito às características regionais; 
+9. _Políticas de atendimento aos estudantes_ : Por meio da gestão acadêmica, existem programas de apoio aos estudantes. Esses programas contemplam todos os estudantes
 
-- Democracia e transparência (PDI-IFPR, 2014/2018, p. 25). 
+através de bolsas de inclusão social, assistência complementar, monitoria, pesquisas, participação em eventos e iniciação científica. Também são oferecidos estímulos à permanência, organização estudantil e acompanhamento de egressos.
 
-A partir do compromisso social, que se evidencia na missão, na visão e nos valores institucionais, o IFPR propõe uma formação sólida, com base nos valores democráticos como princípios fundamentais à educação e à produção de conhecimentos com base no tripé da educação - ensino, pesquisa e extensão, permitindo uma integração efetiva entre os membros da comunidade escolar, a sociedade e o mundo do trabalho. 
+10. _Sustentabilidade financeira, tendo em vista o significado social da continuidade dos compromissos na oferta da educação superior_ : O uso adequado dos recursos financeiros garante à sociedade a oferta de ensino de qualidade. Dessa forma, a gestão e administração do orçamento e as políticas e estratégias de gestão acadêmica são de suma importância para o desenvolvimento do curso e cumprimento das metas e prioridades estabelecidas.
 
-## 1.3 O PROJETO PEDAGÓGICO DO CURSO 
+## **2. PRINCÍPIOS E FUNDAMENTOS PEDAGÓGICOS**
 
-## **1.3.1 Integração do Projeto ao PDI, PPI e PPP.** 
+## 2.1 JUSTIFICATIVA
 
-O presente curso além de contribuir para a obtenção da meta de vagas nas licenciaturas também o faz com relação à identidade institucional. Nessa direção o curso representado pelo presente PPC articula os preceitos defendidos pelo PDI com os saberes desenvolvidos em suas práticas pedagógicas. Ou seja, para além de saberes puramente do conteúdo específico são elaborados também saberes que atravessam a vida pública dos professores que atuarão em uma sociedade cada vez mais complexa. Os temas tratados pelo projeto pedagógico institucional atravessam uma percepção orgânica da formação. Um dos temas que já relatamos é o papel de saberes relacionados à vida pública da atividade profissional. Isso exige da instituição formadora o mesmo compromisso com a vida em sociedade. Ou seja, o trabalho e a escola como processos formadores da sociedade têm o papel de viabilizar tanto a apropriação dos produtos culturais advindos da área de atuação como de sua recontextualização na realidade atual. Dessa forma, o tripé entre ensino, pesquisa e extensão pode colaborar na obtenção deste objetivo visto que cada uma dessas dimensões do processo formativo lida com práticas e saberes de dimensões diferentes que contribuem para proporcionar uma experiência formativa mais complexa e atual. 
+Conforme destaca o Plano de Desenvolvimento Institucional (PDI) e seu Estatuto Consolidado (atualizado em 2015), o IFPR consiste em uma instituição fundamental para o desenvolvimento socioeconômico local e regional, atuando nos campos do Ensino, Pesquisa, Extensão e Inovação. Conforme destaca o Artigo 4º de seu estatuto:
 
-E assim o Projeto Político Pedagógico do _campus_ Pitanga também é atendido tanto a partir dos objetivos formativos em comum como relativo ao número de vagas previstas na lei de criação 
+O Instituto Federal do Paraná tem as seguintes finalidades e características:
 
-16 
+I - ofertar educação profissional e tecnológica, em todos os seus níveis e modalidades, formando e qualificando cidadãos com vistas à atuação profissional nos diversos setores da economia, com ênfase no desenvolvimento socioeconômico local, regional e nacional;
 
-**==> picture [472 x 55] intentionally omitted <==**
+II - desenvolver a educação profissional e tecnológica como processo educativo e investigativo, e de geração e adaptação de soluções técnicas e tecnológicas às demandas sociais e peculiaridades regionais;
 
-dos Institutos Federais. Ou seja, a identidade institucional expressa no PDI, PPI e PPP são contemplados pelo PPC do curso em sua concepção de formação permeando todo o currículo tanto a partir de referências específicas da profissão docente como os saberes da vida social. E assim o presente curso visa formar profissionais que possam atuar na área de ensino de ciências da natureza, mais especificamente na de Ensino de Química tanto na atuação direta como professor ou em forma indireta como na produção de materiais curriculares. A partir do paradigma do desenvolvimento profissional entendemos também que a etapa aqui defendida é uma de um contínuo formativo. Ou seja, o presente curso não é uma etapa final, mas sim a etapa inicial para a profissionalização docente. 
+III - promover a integração e a verticalização da educação básica à educação profissional e educação superior, otimizando a infraestrutura física, os quadros de pessoal e os recursos de gestão;
 
-## **1.3.2 Fundamentos Legais e Normativos da Área** 
+IV - orientar sua oferta formativa em benefício da consolidação e fortalecimento dos arranjos produtivos, sociais e culturais locais, identificados com base no mapeamento das potencialidades de desenvolvimento socioeconômico e cultural no âmbito de atuação do Instituto Federal do Paraná;
 
-O curso Superior de Licenciatura em Química foi autorizado pela resolução nº 40 de 14 de julho de 2017, do conselho superior do IFPR. O curso busca atender a necessidade colocada pela Lei de Diretrizes e Bases LDB 9394/96 expressa principalmente em seu artigo 62 sobre a formação de professores para atuar na educação básica. O curso também se fundamenta nas Diretrizes Nacionais Curriculares para os Cursos de Química (resoluções CNE/CES 1303, de 6 de novembro de 2001 e CNE/CES 8, de 11 de março de 2002). Tendo esse conjunto de diretrizes o PPC do presente curso foi construído através da estrutura proposta pela Resolução 19/2017 do CONSUP/IFPR que estabelece a política institucional de formação de profissionais do magistério da educação básica no IFPR e aprova o regulamento para projeto pedagógico de curso de licenciatura no IFPR. Tendo em vista a Curricularização da Extensão, levamos em conta, além da já citada LDB, a Resolução CNE/CES n. 7, de 18 de dezembro de 2018 que, estabelece as Diretrizes para a Extensão na Educação Superior Brasileira, regulamentando a meta 12.7 do Plano Nacional de Educação (PNE 2014-2024), a Instrução Normativa Reitoria/IFPR n.1, de 26 de julho de 2021 que institui a regulamentação para a implementação da Curricularização da Extensão no âmbito do IFPR. Com base na concepção de extensão expressa pelos documentos já referidos em conjunto com as Diretrizes para a Curricularização da Extensão na Rede Federal de Educação Profissional, Científica e Tecnológica publicadas pelo CONIF tecemos o PPC atual do curso partindo da premissa de uma constante avaliação e melhoria dos processos formativos atendendo a legislação. 
+V - constituir-se em centro de excelência na oferta do ensino de ciências, em geral, e de ciências aplicadas, em particular, estimulando o desenvolvimento de espírito crítico, voltado à investigação empírica;
 
-17 
+VI - qualificar-se como centro de referência no apoio à oferta do ensino de ciências nas instituições públicas de ensino, oferecendo capacitação técnica e atualização pedagógica aos docentes das redes públicas de ensino;
 
-**==> picture [472 x 55] intentionally omitted <==**
+VII - desenvolver programas de extensão e de divulgação científica e tecnológica;
 
-## **1.3.3 Integração do Projeto com o SINAES** 
+VIII - realizar e estimular a pesquisa aplicada, a produção cultural, o empreendedorismo, o cooperativismo e o desenvolvimento científico e tecnológico;
 
-O Projeto Pedagógico do Curso (PPC) Superior de Licenciatura em Química foi elaborado com base no Instrumento de Avaliação de Cursos de Graduação do Sistema Nacional de Avaliação da Educação Superior (SINAES), conforme Lei nº 10.861 de 14/04/2004 (BRASIL, 2004). 
+IX - promover a produção, o desenvolvimento e a transferência de tecnologias sociais, notadamente as voltadas à preservação do meio ambiente;
 
-O SINAES estabelece 10 dimensões, as quais devem ser utilizadas como referencial para o desenvolvimento do projeto do curso, a fim de garantir a qualidade da atuação acadêmica e social. Essas dimensões se integram ao projeto pedagógico da seguinte maneira: 
+X - participar de programas de capacitação, qualificação e requalificação dos profissionais de educação da rede pública;
 
-1. _A missão e o Plano de Desenvolvimento Institucional_ : A missão da instituição é colocada em prática em todos os _campi_ e cursos ofertados. Por meio da qualificação dos docentes, em programas de mestrado e doutorado, infraestrutura de laboratórios, desenvolvimento de projetos de pesquisa e extensão, é possível oferecer uma educação de excelência, visando sempre a formação integral do estudante e o desenvolvimento da sociedade a qual está inserido. 
+XI - O IFPR, verificado o interesse social e as demandas de âmbito local e regional, poderá ofertar cursos fora da área tecnológica.
 
-2. _A política para o ensino, a pesquisa, a pós-graduação, a extensão e as respectivas normas de operacionalização, incluídos os procedimentos para estímulo à produção acadêmica, as bolsas de pesquisa, de monitoria e demais modalidades_ : Por meio das Políticas de Gestão Acadêmica, descritas no PDI, os campi são subsidiados a fim de, fortalecer ações de ensino, pesquisa e extensão, garantir recursos financeiros, incentivo à promoção, divulgação e participação em eventos científicos com publicação de pesquisas. As ações de políticas estudantis, garante aos mesmos diversas modalidades de bolsas que vão desde bolsa permanência a bolsas de pesquisa e monitoria. A participação dos estudantes de graduação em projetos de pesquisa e extensão é fortemente encorajada pelos docentes desde o início do curso. 
+Com base nas finalidades institucionais, a análise do contexto regional permite identificar um amplo conjunto de demandas nas quais o IFPR pode auxiliar. No âmbito da implementação e do fortalecimento dos cursos de licenciaturas, o artigo 7º da Lei nº 11.892/2008 acerca da educação
 
-3. _A responsabilidade social da instituição, considerada especialmente no que se refere à sua contribuição em relação à inclusão social, ao desenvolvimento econômico e social, à defesa do meio ambiente, da memória cultural, da produção artística e do patrimônio cultural_ : A responsabilidade social inicia a partir do momento que a comunidade é 
+superior, determina que os Institutos Federais ofertem “[...] cursos de licenciatura, bem como programas especiais de formação pedagógica, com vistas na formação de professores para a educação básica, sobretudo nas áreas de ciências e matemática, e para a educação profissional” (BRASIL, 2008a).
 
-18 
+O IFPR _Campus_ Pitanga está situado a uma distância de 340 km da capital do Estado do Paraná, Curitiba. De acordo com o último Censo do Instituto Brasileiro de Geografia e Estatística (IBGE, 2010a), realizado em 2010, Pitanga tem 32.638 habitantes. Além disso, apresenta um PIB per capita de R$ 20.862,7, tendo como principal fonte de recursos a agropecuária (IBGE, 2014).
 
-**==> picture [472 x 55] intentionally omitted <==**
+O Município de Pitanga faz parte da mesorregião geográfica Centro-Sul paranaense, sendo a microrregião geográfica composta pelos municípios de: Nova Tebas; Cândido de Abreu, Laranjal, Palmital, Santa Maria do Oeste, Turvo, Boa Ventura de São Roque, Pitanga, Mato Rico, Campina do Simão e Manoel Ribas (IPARDES, 2012).
 
-convidada a integrar a instituição. Através do curso Superior de Licenciatura em Química é possível promover o desenvolvimento econômico e social com ações práticas, através de projetos de ensino, pesquisa e extensão, que além de agregar conhecimento aos estudantes, contribuem com a inclusão social e o desenvolvimento local. 
+Como pode ser observado nas Figuras 1, 2 e 3, fica nítida a carência social e econômica da região central do Paraná. A distribuição espacial dos indicadores, resultado de estudos realizados pelo Instituto Paranaense de Desenvolvimento Econômico e Social (IPARDES) e Instituto de Pesquisa Econômica Aplicada (IPEA), demonstra a relevância da ação sistemática do IFPR no desenvolvimento regional (IPEA, 2015).
 
-4. _A comunicação com a sociedade_ : A comunicação ocorre de forma direta, onde a comunidade acadêmica promove ações conjuntas com órgãos públicos e privados, a fim de contribuir com soluções, desenvolvimento de atividades, entre outros. 
+**Figura 1** : Índice de Desenvolvimento Humano – Municipal- IDHM[1] (IPARDES – IPEA).
 
-5. _As políticas de pessoal, de carreiras do corpo docente e corpo técnico-administrativo, seu aperfeiçoamento, desenvolvimento profissional e suas condições de trabalho_ : Há um grande incentivo da gestão para as práticas de aperfeiçoamento de docentes e técnicos administrativos, através de cursos curtos, graduação ou programas de pós-graduação. 
+> 1 O IDHM é um índice composto que agrega três das mais importantes dimensões do desenvolvimento humano: a oportunidade de viver uma vida longa e saudável (IDHM Saúde); de ter acesso a conhecimento (IDHM Educação) e ter um padrão de vida que garanta as necessidades básicas (IDHM Renda). O índice varia de 0 (zero) a 1 (um) e apresenta as seguintes faixas de desenvolvimento humano municipal: * 0,000 a 0,499 - muito baixo; * 0,500 a 0,599 - baixo; * 0,600 a 0,699 - médio; * 0,700 a 0,799 - alto; e * 0,800 e mais - muito alto. Fonte(s): Instituto de Pesquisa Econômica Aplicada (IPEA), Programa das Nações Unidas para o Desenvolvimento (PNUD) e Fundação João Pinheiro (FJP) (ATLAS, 2013).
 
-6. _Organização e gestão da instituição, especialmente o funcionamento e representatividade dos colegiados, sua independência e autonomia na relação com a mantenedora, e a participação dos segmentos da comunidade universitária nos processos decisórios_ : Os colegiados de curso e de gestão pedagógica têm autonomia para a tomada de ações que valorizem o bom andamento dos trabalhos. O colegiado do curso de Licenciatura em Química conta com a representação dos estudantes, que levam ao grupo discussões pertinentes para o desenvolvimento e aprimoramento de ações que envolvam todos os estudantes do curso. 
+**Figura 2** : Atlas de vulnerabilidade social[2] nos municípios brasileiros (IPEA, 2015).
 
-7. _Infraestrutura física, especialmente a de ensino e de pesquisa, biblioteca, recursos de informação e comunicação_ : Avaliações constantes da estrutura física de laboratórios, salas de aulas, biblioteca e recursos de informação e comunicação são realizadas e sempre que necessário, as devidas providências são tomadas para a melhoria da infraestrutura e a garantia da qualidade do ensino. 
+> 2 É um índice que procura destacar diferentes situações de exclusão e vulnerabilidade social no território brasileiro, numa perspectiva que vai além da pobreza entendida apenas como insuficiência de renda. Por meio de suas dimensões e indicadores pretende-se sinalizar o acesso, à ausência ou a insuficiência de alguns “ativos” que condicionam o bem-estar dos cidadãos e que remetem a direitos que, a princípio, deveriam estar à disposição de todo cidadão (IPEA, 2015).
 
-8. _Planejamento e avaliação, especialmente em relação aos processos, resultados e eficácia da autoavaliação institucional_ : Estas ações são coordenadas pela Comissão Própria de Avaliação (CPA) de cada instituição e orientadas pelas diretrizes e pelo roteiro da autoavaliação institucional da CONAES. 
+**Figura 3** : Caracterização Econômica Regional do Paraná (IPEA).
 
-9. _Políticas de atendimento aos estudantes_ : Por meio da gestão acadêmica, existem programas de apoio aos estudantes. Esses programas contemplam todos os estudantes 
+A relevância da atuação do IFPR no campo da formação continuada dos professores e dos demais profissionais da Educação Básica constitui uma demanda declarada por instituições de atuação em âmbito regional: Núcleo Regional de Educação (NRE) com sede em Pitanga; Consórcio Intermunicipal para Desenvolvimento Rural e Urbano Sustentável da Região Central do Estado do Paraná (CID – Centro); Associação dos Municípios do Centro do Paraná (AMOCENTRO); grupo gestor do Território da Cidadania Paraná Centro; Consórcio de Segurança Alimentar e Nutricional para o Desenvolvimento Local (CONSAD) e a Secretaria Municipal de Educação de Pitanga.
 
-19 
+Nesse contexto, Pitanga se encontra, geograficamente, em uma região estratégica para contribuir com a ampla formação de docentes da área de Licenciatura em Química. O município pode atingir toda a região central do Paraná e assim proporcionar de maneira significativa a diminuição do déficit de profissionais habilitados na área de Química. O Paraná possui 10.444.526 habitantes (IBGE, 2010b) e quatorze cursos de Licenciatura em Química, sendo dois ofertados à
 
-**==> picture [472 x 55] intentionally omitted <==**
+distância e 12 presenciais (MEC, 2013 _apud_ MARAFÃO; GLUITZ; SANTOS-TONIAL, 2015), no entanto, nenhum deles se encontra na região de Pitanga. O baixo número de vagas em instituições públicas implica no deslocamento de discentes para outras cidades. Conforme dados apresentados pelo Observatório Regional do IFPR (IFPR, 2013), em sua análise de implantação de cursos de nível superior no _Campus_ Pitanga, a microrregião de Pitanga apresenta atualmente seis cursos de licenciatura, no entanto, nenhum em Química.
 
-através de bolsas de inclusão social, assistência complementar, monitoria, pesquisas, participação em eventos e iniciação científica. Também são oferecidos estímulos à permanência, organização estudantil e acompanhamento de egressos. 
+O Plano Nacional de Educação (BRASIL, 2014a) determina diretrizes, objetivos e metas para a educação brasileira para um período de 10 anos. Sendo que uma delas refere-se à formação de professores da Educação Básica pretendendo alcançar até 2024 a formação específica de nível superior obtida em curso de licenciatura na área de conhecimento que atuam. Os dados do censo escolar de 2013 indicam que 51,7% dos professores do Ensino Médio não têm licenciatura na disciplina que ministram e que outros 22% não são licenciados. Na disciplina de Química, especificamente, apenas 33,7% dos professores do Ensino Médio são licenciados na área (UOL, 2014).
 
-10. _Sustentabilidade financeira, tendo em vista o significado social da continuidade dos compromissos na oferta da educação superior_ : O uso adequado dos recursos financeiros garante à sociedade a oferta de ensino de qualidade. Dessa forma, a gestão e administração do orçamento e as políticas e estratégias de gestão acadêmica são de suma importância para o desenvolvimento do curso e cumprimento das metas e prioridades estabelecidas. 
+Ainda de acordo com o PNE, em 2014, apenas 61,4% dos discentes com idade escolar entre 15 e 17 anos estão matriculados no Ensino Médio, a meta para 2024 é de 85%. O aumento em relação ao número de discentes ingressantes no Ensino Médio, a integralização do ensino e a formação na área específica são fatores que apontam o aumento da demanda de professores, necessitando a abertura de novos cursos de licenciatura.
 
-## **2. PRINCÍPIOS E FUNDAMENTOS PEDAGÓGICOS** 
+Considerando o exposto, a oferta do curso de Licenciatura em Química no IFPR _Campus_ Pitanga propicia a verticalização do ensino e a expansão do _Campus_ como instituição de ensino, pesquisa, extensão e inovação, contribuindo com o desenvolvimento regional pautado na melhoria da educação.
 
-## 2.1 JUSTIFICATIVA 
+A construção do Projeto Pedagógico do Curso (PPC) ocorreu de forma coletiva. Inicialmente, foi designada, pela Direção Geral do IFPR _Campus_ Pitanga, a Comissão Estruturante de Curso (CEC) por meio da Portaria 15 de 10 de março de 2017 (IFPR – _CAMPUS_ PITANGA, 2017). Na sequência foram realizadas reuniões para elaboração e aprovação da Proposta de
 
-Conforme destaca o Plano de Desenvolvimento Institucional (PDI) e seu Estatuto Consolidado (atualizado em 2015), o IFPR consiste em uma instituição fundamental para o desenvolvimento socioeconômico local e regional, atuando nos campos do Ensino, Pesquisa, Extensão e Inovação. Conforme destaca o Artigo 4º de seu estatuto: 
+Abertura de Curso (PAC) de Licenciatura em Química. Após a aprovação da PAC, o PPC foi elaborado, discutido e aprovado pelos órgãos colegiados.
 
-O Instituto Federal do Paraná tem as seguintes finalidades e características: 
+## 2.2 OBJETIVOS
 
-I - ofertar educação profissional e tecnológica, em todos os seus níveis e modalidades, formando e qualificando cidadãos com vistas à atuação profissional nos diversos setores da economia, com ênfase no desenvolvimento socioeconômico local, regional e nacional; 
+## **2.2.1 Objetivo Geral**
 
-II - desenvolver a educação profissional e tecnológica como processo educativo e investigativo, e de geração e adaptação de soluções técnicas e tecnológicas às demandas sociais e peculiaridades regionais; 
+Formar docentes de Química com amplo domínio dos conhecimentos teóricos, experimentais e da prática pedagógica, que possuam capacidade reflexiva e crítica, comprometidos com o desenvolvimento social, ambiental, cientifico e tecnológico.
 
-20 
+## **2.2.2 Objetivos Específicos**
 
-**==> picture [472 x 55] intentionally omitted <==**
+Propiciar formação básica e sólida em Química que permita ao discente buscar atualização e aprimoramento profissional para o desenvolvimento das atividades de ensino, pesquisa, inovação e extensão.
 
-III - promover a integração e a verticalização da educação básica à educação profissional e educação superior, otimizando a infraestrutura física, os quadros de pessoal e os recursos de gestão; 
+Promover a ampliação e o aperfeiçoamento do uso da Língua Portuguesa e da capacidade comunicativa, oral e escrita, como elementos fundamentais da formação dos professores, e da aprendizagem da Língua Brasileira de Sinais (LIBRAS).
 
-IV - orientar sua oferta formativa em benefício da consolidação e fortalecimento dos arranjos produtivos, sociais e culturais locais, identificados com base no mapeamento das potencialidades de desenvolvimento socioeconômico e cultural no âmbito de atuação do Instituto Federal do Paraná; 
+Possibilitar a participação do discente em programas de mobilidade acadêmica e de intercâmbio.
 
-V - constituir-se em centro de excelência na oferta do ensino de ciências, em geral, e de ciências aplicadas, em particular, estimulando o desenvolvimento de espírito crítico, voltado à investigação empírica; 
+Discutir sobre os impactos ambientais relacionados à área de Química e a necessidade da preservação da vida e do meio ambiente.
 
-VI - qualificar-se como centro de referência no apoio à oferta do ensino de ciências nas instituições públicas de ensino, oferecendo capacitação técnica e atualização pedagógica aos docentes das redes públicas de ensino; 
+Preparar para atuação em atividades previstas por conselhos reguladores da profissão.
 
-VII - desenvolver programas de extensão e de divulgação científica e tecnológica; 
+Desenvolver a capacidade de conviver em grupo, contribuindo com a formação ética, política e cultural.
 
-VIII - realizar e estimular a pesquisa aplicada, a produção cultural, o empreendedorismo, o cooperativismo e o desenvolvimento científico e tecnológico; 
+Propiciar a vivência de métodos e instrumentos de avaliação diversificados que incentivem e orientem na preparação e desenvolvimento de recursos didáticos e instrucionais relativos à prática pedagógica, bem como na análise e na avaliação do processo de ensino e aprendizagem.
 
-IX - promover a produção, o desenvolvimento e a transferência de tecnologias sociais, notadamente as voltadas à preservação do meio ambiente; 
+Desenvolver saberes profissionais do exercício da docência com formação humanística, emancipatória e crítica frente ao contexto cultural, socioeconômico e político da região em que está inserido.
 
-X - participar de programas de capacitação, qualificação e requalificação dos profissionais de educação da rede pública; 
+Propiciar a participação em ambientes de produção e difusão científica e cultural no contexto da educação em Química e áreas afins.
 
-XI - O IFPR, verificado o interesse social e as demandas de âmbito local e regional, poderá ofertar cursos fora da área tecnológica. 
+Abordar questões socioambientais, éticas, estéticas e relativas à diversidade étnico-racial, de gênero, sexual, religiosa, de faixa geracional e sociocultural como princípios de equidade.
 
-Com base nas finalidades institucionais, a análise do contexto regional permite identificar um amplo conjunto de demandas nas quais o IFPR pode auxiliar. No âmbito da implementação e do fortalecimento dos cursos de licenciaturas, o artigo 7º da Lei nº 11.892/2008 acerca da educação 
+## 2.3 RESPONSABILIDADE SOCIAL, AMBIENTAL E PATRIMONIAL
 
-21 
+## **2.3.1 A Responsabilidade Social do Curso**
 
-**==> picture [472 x 55] intentionally omitted <==**
+Segundo a ISO 26000, a responsabilidade social se expressa pelo propósito das organizações em incorporarem considerações socioambientais em seus processos decisórios e a responsabilizar-se pelos impactos de suas decisões e atividades na sociedade e no meio ambiente. Nesse cenário, as instituições de ensino não devem estar deslocadas, pois segundo a LDB (BRASIL, 1996), a Educação Superior é responsável por formar profissionais comprometidos com o meio social em que estão inseridos, segundo a LDB (BRASIL, 1996), a responsabilidade social das instituições de ensino superior se estende para a comunidade, para recursos naturais e instrumentais, que integram o desenvolvimento regional e social.
 
-superior, determina que os Institutos Federais ofertem “[...] cursos de licenciatura, bem como programas especiais de formação pedagógica, com vistas na formação de professores para a educação básica, sobretudo nas áreas de ciências e matemática, e para a educação profissional” (BRASIL, 2008a). 
+Assim, estudantes e a comunidade acadêmica podem atuar na gestão e prática de projetos que promovam a responsabilidade social nos espaços que estão inseridos. Pode-se dizer que, a responsabilidade social efetiva-se na construção da cidadania, na qual, com uma perspectiva integrativa de atuação pedagógica e profissional, ocorre o incentivo e a propagação de saberes
 
-O IFPR _Campus_ Pitanga está situado a uma distância de 340 km da capital do Estado do Paraná, Curitiba. De acordo com o último Censo do Instituto Brasileiro de Geografia e Estatística (IBGE, 2010a), realizado em 2010, Pitanga tem 32.638 habitantes. Além disso, apresenta um PIB per capita de R$ 20.862,7, tendo como principal fonte de recursos a agropecuária (IBGE, 2014). 
+acadêmicos, tecnológicos e populares, para emancipação social. Segundo o Sistema de Avaliação da Educação Superior (SINAES), a Lei n° 10.861, de 14 de abril de 2004, regulamenta que as IES brasileiras devem realizar ações educacionais em quatro pilares: ensino, pesquisa, extensão e responsabilidade social. Nessa perspectiva, o curso Superior de Licenciatura em Química promove ações para a responsabilidade social, como em eventos, no IFTECH e IFAGROTECH. E também em disciplinas do curso, destacando e incentivando o desenvolvimento de tecnologias na região abarcada pelo instituto. Procura, desta forma, destacar a importância da participação de todos os agentes sociais para o desenvolvimento da região e a promoção da igualdade. Procura-se, ainda, promover discussões dentro de ambiente institucional e com a comunidade acadêmica sobre os Objetivos do Desenvolvimento Sustentável e incentivos ao desenvolvimento de arranjos produtivos locais.
 
-O Município de Pitanga faz parte da mesorregião geográfica Centro-Sul paranaense, sendo a microrregião geográfica composta pelos municípios de: Nova Tebas; Cândido de Abreu, Laranjal, Palmital, Santa Maria do Oeste, Turvo, Boa Ventura de São Roque, Pitanga, Mato Rico, Campina do Simão e Manoel Ribas (IPARDES, 2012). 
+## **2.3.2 Meio Ambiente e Desenvolvimento Humano**
 
-Como pode ser observado nas Figuras 1, 2 e 3, fica nítida a carência social e econômica da região central do Paraná. A distribuição espacial dos indicadores, resultado de estudos realizados pelo Instituto Paranaense de Desenvolvimento Econômico e Social (IPARDES) e Instituto de Pesquisa Econômica Aplicada (IPEA), demonstra a relevância da ação sistemática do IFPR no desenvolvimento regional (IPEA, 2015). 
+Segundo o que é apresentado no Artigo 2º da Política Nacional de Educação Ambiental Lei 9.795/99, “A educação ambiental é um componente essencial e permanente da educação nacional, devendo estar presente, de forma articulada, em todos os níveis e modalidades do processo educativo, em caráter formal e não-formal.”.
 
-22 
+O curso Superior de Licenciatura em Química procura promover a educação ambiental e o desenvolvimento do ser humano, procurando dialogar nas disciplinas ofertadas, assim como em disciplinas específicas (Ciência, Tecnologia e Sociedade e Química e Meio Ambiente), discussões sobre consumo consciente e sustentável, instruindo, assim, a comunidade acadêmica a propagar essas práticas social e regionalmente. Sendo que eventos no _Campus_ também preconizam essas questões ambientais e de desenvolvimento social e humano.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **2.3.3 Memória, Patrimônio Artístico e Cultural**
 
-**==> picture [433 x 227] intentionally omitted <==**
+O IFPR apresenta em sua estrutura uma série de grupos de trabalho que visam resguardar e promover atividades artísticas e culturais. Estes grupos de trabalho geralmente são compostos por servidores, podendo em alguns casos também apresentar a participação de discentes, pais e outros membros da comunidade.
 
-**Figura 1** : Índice de Desenvolvimento Humano – Municipal- IDHM[1] (IPARDES – IPEA). 
+Os Núcleos de Arte e Cultura (NAC) do IFPR têm por finalidade fomentar, valorizar e fortalecer a formação, a difusão, a articulação, a produção e a fruição artística e cultural, assessorando na interlocução da gestão política, artística e cultural da instituição (Resolução nº 69/2017). O NAC visa apoiar e fomentar programas, projetos, cursos, eventos, de cunho educativo, cultural, artístico e social de modo a promover a integração entre a teoria e a prática na formação dos futuros profissionais, envolvendo Ensino, Pesquisa e Extensão (Resolução nº 69/2017).
 
-> 1 O IDHM é um índice composto que agrega três das mais importantes dimensões do desenvolvimento humano: a oportunidade de viver uma vida longa e saudável (IDHM Saúde); de ter acesso a conhecimento (IDHM Educação) e ter um padrão de vida que garanta as necessidades básicas (IDHM Renda). O índice varia de 0 (zero) a 1 (um) e apresenta as seguintes faixas de desenvolvimento humano municipal: * 0,000 a 0,499 - muito baixo; * 0,500 a 0,599 - baixo; * 0,600 a 0,699 - médio; * 0,700 a 0,799 - alto; e * 0,800 e mais - muito alto. Fonte(s): Instituto de Pesquisa Econômica Aplicada (IPEA), Programa das Nações Unidas para o Desenvolvimento (PNUD) e Fundação João Pinheiro (FJP) (ATLAS, 2013). 
+Por sua vez, os Núcleos de Estudos Afro-Brasileiros e Indígenas (Neabi) do IFPR visam a realização de debates e reflexões, no âmbito do IFPR e da sociedade civil a que pertence, acerca das relações étnico-raciais, com foco especial em populações negras, africanas, afro descendentes e originárias tradicionais (etnias indígenas). Com isso, pretende-se produzir conhecimentos e estimular práticas e atitudes que, além de incidir no combate à invisibilidade que caracteriza essas identidades socioculturais nos espaços públicos e de poder, possam, por meio de ações de extensão, pesquisa, inovação e ensino, estimular a tomada de consciência sobre os direitos das populações mencionadas (Resolução nº 71/2018).
 
-23 
+Outra iniciativa foi a elaboração do “Portal das Artes” do IFPR, disponível no endereço eletrônico https://reitoria.ifpr.edu.br/portal-das-artes, que busca divulgar cursos, eventos artísticos culturais, projetos de ensino, pesquisa e extensão, e preservar a memória destas ações. Ainda, o Observatório das Artes do IFPR consiste no espaço de divulgação das atividades propostas e da criação de tempos e espaços que utilizam a Arte, contribuindo assim na formação de mediadores culturais capazes de fomentar e planejar projetos artísticos e culturais em que ações comunitárias inclusivas e interculturais sejam disseminadas, motivando quanto às novas formas da construção do processo cognitivo, crítico e criativo da comunidade acadêmica e desenvolvendo um olhar sensível – o estético, a percepção, a criatividade e a reflexão sobre sua própria identidade, seus valores e os conhecimentos construídos na Educação Profissional e Tecnológica.
 
-**==> picture [472 x 55] intentionally omitted <==**
+O Centro de Línguas do Instituto Federal do Paraná (CELIF) tem por atribuição coordenar as ações de ensino, pesquisa, extensão e inovação na área de línguas, para as comunidades interna e externa, com vistas à inclusão social, à diversidade cultural e à interculturalidade (Resolução nº 65/2017). E pela execução de atividades culturais, esportivas e sociais é promovida a integração escola-comunidade.
 
-**==> picture [458 x 276] intentionally omitted <==**
+De acordo com o Plano de Desenvolvimento Institucional (PDI) do _Campus_ Pitanga, para o período 2019-2023, as metas relacionadas à Memória e Patrimônio Culturais e Produção Artística e Cultural são: promover ao menos uma Mostra anual de trabalhos artísticos; estabelecer parceria anual com entidades culturais locais (associações, artesãos, artistas, ativistas culturais, etc.); organizar encontros e palestras anuais em parceria com professores de outras instituições escolares como forma de socializar o conhecimento em Arte e Cultura; propor anualmente Oficina para Intercâmbio das respectivas áreas de conhecimento da disciplina de Arte (artes visuais, teatro, dança e música); organizar espaço para exposições artísticas; e criar um Centro de Memória do Campus Pitanga (PDI 2019-2023).
 
-**Figura 2** : Atlas de vulnerabilidade social[2] nos municípios brasileiros (IPEA, 2015). 
+No curso Superior de Licenciatura em Química, parte dos componentes curriculares se correlacionam de modo transversal neste contexto, por exemplo, Português Instrumental; Ciência, Tecnologia e Sociedade; Libras; dentre outras.
 
-> 2 É um índice que procura destacar diferentes situações de exclusão e vulnerabilidade social no território brasileiro, numa perspectiva que vai além da pobreza entendida apenas como insuficiência de renda. Por meio de suas dimensões e indicadores pretende-se sinalizar o acesso, à ausência ou a insuficiência de alguns “ativos” que condicionam o bem-estar dos cidadãos e que remetem a direitos que, a princípio, deveriam estar à disposição de todo cidadão (IPEA, 2015). 
+## **2.3.4 Comunicação e Relações com a Comunidade**
 
-24 
+Em termos de comunicação, o curso Superior de Licenciatura em Química, assim como os demais cursos ofertados pelo _Campus_ Pitanga, encontra-se amparado pelos representantes da Rede de Comunicadores do IFPR na unidade. Por meio deste trabalho em equipe, busca-se estabelecer um diálogo com a comunidade de forma ampla, eficaz e transparente.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Tal trabalho tem início com a divulgação do curso durante o processo seletivo anual e prossegue com a divulgação das ações do curso (eventos científicos, mostras, feiras, festividades, etc), provimento de informações diversas, fortalecimento do vínculo entre os discentes e o _Campus_ , formação de uma identidade institucional e de uma identidade local, entre outras iniciativas que contribuem para ampliar e fortalecer as relações do _Campus_ Pitanga com a comunidade acadêmica e a região.
 
-**==> picture [457 x 308] intentionally omitted <==**
+As ações de comunicação são divulgadas a partir de três canais oficiais: o site institucional do Campus (https://pitanga.ifpr.edu.br/), a página do _campus_ no Facebook (https://www.facebook.com/ifprcampuspitanga) e o perfil do _campus_ no Instagram (https://www.instagram.com/ifpr.pitanga/). Para tanto, são criados materiais escritos, imagéticos e audiovisuais, os quais são produzidos tanto por servidores locais, quanto pela equipe de
 
-**Figura 3** : Caracterização Econômica Regional do Paraná (IPEA). 
+comunicação lotada em Curitiba. Também é privilegiado o atendimento ao público por meio dos canais oficiais supracitados, voltado à resposta de dúvidas e ao acolhimento de críticas e sugestões.
 
-A relevância da atuação do IFPR no campo da formação continuada dos professores e dos demais profissionais da Educação Básica constitui uma demanda declarada por instituições de atuação em âmbito regional: Núcleo Regional de Educação (NRE) com sede em Pitanga; Consórcio Intermunicipal para Desenvolvimento Rural e Urbano Sustentável da Região Central do Estado do Paraná (CID – Centro); Associação dos Municípios do Centro do Paraná (AMOCENTRO); grupo gestor do Território da Cidadania Paraná Centro; Consórcio de Segurança Alimentar e Nutricional para o Desenvolvimento Local (CONSAD) e a Secretaria Municipal de Educação de Pitanga. 
+As iniciativas de comunicação auxiliam na implementação da visão do IFPR, favorecem maior engajamento com a sociedade local, ajudam a inserir o _Campus_ na sociedade pitanguense, abrem espaço para que os mais diferentes setores locais participem da vida acadêmica e possibilitam a construção de uma instituição mais democrática e que atende ao público-alvo do IFPR.
 
-Nesse contexto, Pitanga se encontra, geograficamente, em uma região estratégica para contribuir com a ampla formação de docentes da área de Licenciatura em Química. O município pode atingir toda a região central do Paraná e assim proporcionar de maneira significativa a diminuição do déficit de profissionais habilitados na área de Química. O Paraná possui 10.444.526 habitantes (IBGE, 2010b) e quatorze cursos de Licenciatura em Química, sendo dois ofertados à 
+## 2.4 CONCEPÇÃO DO CURSO
 
-25 
+A proposta do respectivo curso prioriza uma formação humanística emancipatória e crítica, concebendo o conhecimento como fato histórico e social. Nesta concepção, considera-se a humanidade como algo externo às pessoas, sendo produzida historicamente deve ser apropriada pelos representantes da espécie que nem sempre têm acesso aos conhecimentos que os tornam humanos. Portanto, uma educação humanística prioriza o acesso ao conhecimento historicamente produzido pela humanidade. Mas este não é qualquer conhecimento, segundo Saviani (2005), para que a educação possa humanizar deve ter como referência conhecimentos objetivos, científicos, sistematizados historicamente que tomam forma institucionalizada na escola.
 
-**==> picture [472 x 55] intentionally omitted <==**
+A apropriação de tais conhecimentos possibilita ao indivíduo da espécie humana tornar-se humano. Pois “[...] o homem não se faz homem naturalmente; ele não nasce sabendo ser homem, vale dizer, ele não nasce sabendo sentir, pensar, avaliar, agir [...] é preciso aprender, o que implica o trabalho educativo” (SAVIANI, 2005, p. 7).
 
-distância e 12 presenciais (MEC, 2013 _apud_ MARAFÃO; GLUITZ; SANTOS-TONIAL, 2015), no entanto, nenhum deles se encontra na região de Pitanga. O baixo número de vagas em instituições públicas implica no deslocamento de discentes para outras cidades. Conforme dados apresentados pelo Observatório Regional do IFPR (IFPR, 2013), em sua análise de implantação de cursos de nível superior no _Campus_ Pitanga, a microrregião de Pitanga apresenta atualmente seis cursos de licenciatura, no entanto, nenhum em Química. 
+Neste sentido, a apropriação do conhecimento não ocorre na experiência imediata, mas de forma mediada e “Ao garantir a apropriação do saber escolar, a escola está também possibilitando o desenvolvimento de formas mais elaboradas de pensar e sentir o mundo” (MEIRA, 2012, p. 94). Portanto, no decorrer do processo de humanização é preciso assimilar experiência de gerações anteriores adquirindo significações, concedendo-lhes sentidos pessoais. O sentido e o significado das ações são contínuos na consciência humana, estes são apreendidos pela atividade. Assim, é
 
-O Plano Nacional de Educação (BRASIL, 2014a) determina diretrizes, objetivos e metas para a educação brasileira para um período de 10 anos. Sendo que uma delas refere-se à formação de professores da Educação Básica pretendendo alcançar até 2024 a formação específica de nível superior obtida em curso de licenciatura na área de conhecimento que atuam. Os dados do censo escolar de 2013 indicam que 51,7% dos professores do Ensino Médio não têm licenciatura na disciplina que ministram e que outros 22% não são licenciados. Na disciplina de Química, especificamente, apenas 33,7% dos professores do Ensino Médio são licenciados na área (UOL, 2014). 
+preciso entender o objetivo das atividades propostas, provocar respostas e projetar novas necessidades, vinculadas à formação humana.
 
-Ainda de acordo com o PNE, em 2014, apenas 61,4% dos discentes com idade escolar entre 15 e 17 anos estão matriculados no Ensino Médio, a meta para 2024 é de 85%. O aumento em relação ao número de discentes ingressantes no Ensino Médio, a integralização do ensino e a formação na área específica são fatores que apontam o aumento da demanda de professores, necessitando a abertura de novos cursos de licenciatura. 
+Considerando a constituição de uma educação que seja emancipadora Saviani (1985, p. 10) é consonante ao afirmar que é preciso ocorrer a passagem do “senso comum à consciência filosófica”, ou seja, é preciso “passar de uma concepção fragmentária, incoerente, desarticulada, implícita, degradada, mecânica, passiva e simplista a uma concepção unitária, coerente, articulada, explícita, original, intencional, ativa e cultivada”. Negar uma educação com estes propósitos significa exclusão do processo, mesmo que, aparentemente, esteja incluso. Neste caso, não há conforto em uma educação empobrecida e direcionada às necessidades do sistema econômico vigente como é de praxe, mas uma educação que fomente mudanças sociais, uma educação vinculada à vida, que analisa constantemente a realidade de forma crítica. Entendemos tal análise da realidade a partir de Gasparin (2009), pelo qual ser crítico é saber que os fatos e aquilo que se faz, apresentam pelo menos dois aspectos, várias perspectivas, ponderar a necessidade de algo analisando limitações e determinações, considerando que as pessoas não são absolutas, mas interdependentes.
 
-Considerando o exposto, a oferta do curso de Licenciatura em Química no IFPR _Campus_ Pitanga propicia a verticalização do ensino e a expansão do _Campus_ como instituição de ensino, pesquisa, extensão e inovação, contribuindo com o desenvolvimento regional pautado na melhoria da educação. 
+Neste âmbito, destaca-se uma educação de cunho crítico que supere o empírico, passe pela abstração e chegue ao concreto, ou seja, a passagem do senso comum à consciência filosófica implica a passagem do empírico ao concreto o que concerne superar o princípio de não contradição pelo princípio da contradição situando a educação em uma perspectiva crítica. Esta perspectiva, conforme Vázquez (1977) permite transformar o mundo criadoramente.
 
-A construção do Projeto Pedagógico do Curso (PPC) ocorreu de forma coletiva. Inicialmente, foi designada, pela Direção Geral do IFPR _Campus_ Pitanga, a Comissão Estruturante de Curso (CEC) por meio da Portaria 15 de 10 de março de 2017 (IFPR – _CAMPUS_ PITANGA, 2017). Na sequência foram realizadas reuniões para elaboração e aprovação da Proposta de 
+## 2.5 PERFIL DO EGRESSO
 
-26 
+Segundo as Diretrizes Curriculares Nacionais para os Cursos de Química, de 2001, as novas características do contexto histórico contemporâneo demandam a necessidade de formação de novas subjetividades, sobretudo, “pluridimensional” (BRASIL, 2001a, p. 1). Faz-se relevante, nesse sentido, a preocupação com a construção de um novo homem para um novo mundo, um
 
-**==> picture [472 x 55] intentionally omitted <==**
+sujeito com responsabilidade social, especialmente em relação aos recursos naturais e a busca pela qualidade de vida (BRASIL, 2001a).
 
-Abertura de Curso (PAC) de Licenciatura em Química. Após a aprovação da PAC, o PPC foi elaborado, discutido e aprovado pelos órgãos colegiados. 
+Assim sendo, o egresso do curso de Licenciatura em Química deve portar os conhecimentos “[...] suficientes para uma ação interativa e responsável na sociedade, seja como profissional, seja como cidadão” (BRASIL, 2001a, p. 2). O Licenciado em Química:
 
-## 2.2 OBJETIVOS 
+[...] deve ter formação generalista, mas sólida e abrangente em conteúdos dos diversos campos da Química, preparação adequada à aplicação pedagógica do conhecimento e experiências de Química e de áreas afins na atuação profissional como educador na educação fundamental e média (BRASIL, 2001a, p. 4).
 
-## **2.2.1 Objetivo Geral** 
+Conforme as Diretrizes Curriculares Nacionais para os Cursos de Química o Licenciado em Química, em relação à formação pessoal, deve:
 
-Formar docentes de Química com amplo domínio dos conhecimentos teóricos, experimentais e da prática pedagógica, que possuam capacidade reflexiva e crítica, comprometidos com o desenvolvimento social, ambiental, cientifico e tecnológico. 
+Possuir conhecimento sólido e abrangente na área de atuação, com domínio das técnicas básicas de utilização de laboratórios, bem como dos procedimentos necessários de primeiros socorros, nos casos dos acidentes mais comuns em laboratórios de Química.
 
-## **2.2.2 Objetivos Específicos** 
+Possuir capacidade crítica para analisar de maneira conveniente os seus próprios conhecimentos; assimilar os novos conhecimentos científicos e/ou educacionais e refletir sobre o comportamento ético que a sociedade espera de sua atuação e de suas relações com o contexto cultural, socioeconômico e político.
 
-Propiciar formação básica e sólida em Química que permita ao discente buscar atualização e aprimoramento profissional para o desenvolvimento das atividades de ensino, pesquisa, inovação e extensão. 
+Identificar os aspectos filosóficos e sociais que definem a realidade educacional.
 
-Promover a ampliação e o aperfeiçoamento do uso da Língua Portuguesa e da capacidade comunicativa, oral e escrita, como elementos fundamentais da formação dos professores, e da aprendizagem da Língua Brasileira de Sinais (LIBRAS). 
+Identificar o processo de ensino/aprendizagem como processo humano em construção.
 
-Possibilitar a participação do discente em programas de mobilidade acadêmica e de intercâmbio. 
+Ter uma visão crítica com relação ao papel social da Ciência e à sua natureza epistemológica, compreendendo o processo histórico-social de sua construção.
 
-Discutir sobre os impactos ambientais relacionados à área de Química e a necessidade da preservação da vida e do meio ambiente. 
+Saber trabalhar em equipe e ter uma boa compreensão das diversas etapas que compõem uma pesquisa educacional.
 
-Preparar para atuação em atividades previstas por conselhos reguladores da profissão. 
+Ter interesse no auto-aperfeiçoamento contínuo, curiosidade e capacidade para estudos extracurriculares individuais ou em grupo, espírito investigativo, criatividade e iniciativa na busca de soluções para questões individuais e coletivas relacionadas com o ensino de Química, bem como para acompanhar as rápidas mudanças tecnológicas oferecidas pela interdisciplinaridade, como forma de garantir a qualidade do ensino de Química.
 
-27 
+Ter formação humanística que permita exercer plenamente sua cidadania e, enquanto profissional, respeitar o direito à vida e ao bem estar dos cidadãos.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Ter habilidades que o capacitem para a preparação e desenvolvimento de recursos didáticos e instrucionais relativos à sua prática e avaliação da qualidade do material disponível no mercado, além de ser preparado para atuar como pesquisador no ensino de Química (BRASIL, 2001a, p. 6-7).
 
-Desenvolver a capacidade de conviver em grupo, contribuindo com a formação ética, política e cultural. 
+Com relação à compreensão da Química:
 
-Propiciar a vivência de métodos e instrumentos de avaliação diversificados que incentivem e orientem na preparação e desenvolvimento de recursos didáticos e instrucionais relativos à prática pedagógica, bem como na análise e na avaliação do processo de ensino e aprendizagem. 
+Compreender os conceitos, leis e princípios da Química.
 
-Desenvolver saberes profissionais do exercício da docência com formação humanística, emancipatória e crítica frente ao contexto cultural, socioeconômico e político da região em que está inserido. 
+Conhecer as propriedades físicas e químicas principais dos elementos e compostos, que possibilitem entender e prever o seu comportamento físicoquímico, aspectos de reatividade, mecanismos e estabilidade.
 
-Propiciar a participação em ambientes de produção e difusão científica e cultural no contexto da educação em Química e áreas afins. 
+Acompanhar e compreender os avanços científico-tecnológicos e educacionais.
 
-Abordar questões socioambientais, éticas, estéticas e relativas à diversidade étnico-racial, de gênero, sexual, religiosa, de faixa geracional e sociocultural como princípios de equidade. 
+Reconhecer a Química como uma construção humana e compreender os aspectos históricos de sua produção e suas relações com o contexto cultural, socioeconômico e político (BRASIL, 2001a, p. 7).
 
-## 2.3 RESPONSABILIDADE SOCIAL, AMBIENTAL E PATRIMONIAL 
+Com relação à busca de informação e à comunicação e expressão:
 
-## **2.3.1 A Responsabilidade Social do Curso** 
+Saber identificar e fazer busca nas fontes de informações relevantes para a Química, inclusive as disponíveis nas modalidades eletrônica e remota, que possibilitem a contínua atualização técnica, científica, humanística e pedagógica.
 
-Segundo a ISO 26000, a responsabilidade social se expressa pelo propósito das organizações em incorporarem considerações socioambientais em seus processos decisórios e a responsabilizar-se pelos impactos de suas decisões e atividades na sociedade e no meio ambiente. Nesse cenário, as instituições de ensino não devem estar deslocadas, pois segundo a LDB (BRASIL, 1996), a Educação Superior é responsável por formar profissionais comprometidos com o meio social em que estão inseridos, segundo a LDB (BRASIL, 1996), a responsabilidade social das instituições de ensino superior se estende para a comunidade, para recursos naturais e instrumentais, que integram o desenvolvimento regional e social. 
+Ler, compreender e interpretar os textos científico-tecnológicos em idioma pátrio e estrangeiro (especialmente inglês e/ou espanhol).
 
-Assim, estudantes e a comunidade acadêmica podem atuar na gestão e prática de projetos que promovam a responsabilidade social nos espaços que estão inseridos. Pode-se dizer que, a responsabilidade social efetiva-se na construção da cidadania, na qual, com uma perspectiva integrativa de atuação pedagógica e profissional, ocorre o incentivo e a propagação de saberes 
+Saber interpretar e utilizar as diferentes formas de representação (tabelas, gráficos, símbolos, expressões, etc.).
 
-28 
+Saber escrever e avaliar criticamente os materiais didáticos, como livros, apostilas, "kits", modelos, programas computacionais e materiais alternativos.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Demonstrar bom relacionamento interpessoal e saber comunicar corretamente os projetos e resultados de pesquisa na linguagem educacional, oral e escrita (textos, relatórios, pareceres, "posters", internet, etc.) em idioma pátrio (BRASIL, 2001a, p. 7).
 
-acadêmicos, tecnológicos e populares, para emancipação social. Segundo o Sistema de Avaliação da Educação Superior (SINAES), a Lei n° 10.861, de 14 de abril de 2004, regulamenta que as IES brasileiras devem realizar ações educacionais em quatro pilares: ensino, pesquisa, extensão e responsabilidade social. Nessa perspectiva, o curso Superior de Licenciatura em Química promove ações para a responsabilidade social, como em eventos, no IFTECH e IFAGROTECH. E também em disciplinas do curso, destacando e incentivando o desenvolvimento de tecnologias na região abarcada pelo instituto. Procura, desta forma, destacar a importância da participação de todos os agentes sociais para o desenvolvimento da região e a promoção da igualdade. Procura-se, ainda, promover discussões dentro de ambiente institucional e com a comunidade acadêmica sobre os Objetivos do Desenvolvimento Sustentável e incentivos ao desenvolvimento de arranjos produtivos locais. 
+Com relação ao ensino de Química:
 
-## **2.3.2 Meio Ambiente e Desenvolvimento Humano** 
+Refletir de forma crítica a sua prática em sala de aula, identificando problemas de ensino/aprendizagem.
 
-Segundo o que é apresentado no Artigo 2º da Política Nacional de Educação Ambiental Lei 9.795/99, “A educação ambiental é um componente essencial e permanente da educação nacional, devendo estar presente, de forma articulada, em todos os níveis e modalidades do processo educativo, em caráter formal e não-formal.”. 
+Compreender e avaliar criticamente os aspectos sociais, tecnológicos, ambientais, políticos e éticos relacionados às aplicações da Química na sociedade.
 
-O curso Superior de Licenciatura em Química procura promover a educação ambiental e o desenvolvimento do ser humano, procurando dialogar nas disciplinas ofertadas, assim como em disciplinas específicas (Ciência, Tecnologia e Sociedade e Química e Meio Ambiente), discussões sobre consumo consciente e sustentável, instruindo, assim, a comunidade acadêmica a propagar essas práticas social e regionalmente. Sendo que eventos no _Campus_ também preconizam essas questões ambientais e de desenvolvimento social e humano. 
+Saber trabalhar em laboratório e saber usar a experimentação em Química como recurso didático.
 
-## **2.3.3 Memória, Patrimônio Artístico e Cultural** 
+Possuir conhecimentos básicos do uso de computadores e sua aplicação em ensino de Química.
 
-O IFPR apresenta em sua estrutura uma série de grupos de trabalho que visam resguardar e promover atividades artísticas e culturais. Estes grupos de trabalho geralmente são compostos por servidores, podendo em alguns casos também apresentar a participação de discentes, pais e outros membros da comunidade. 
+Possuir conhecimento dos procedimentos e normas de segurança no trabalho.
 
-29 
+Conhecer teorias psicopedagógicas que fundamentam o processo de ensino-aprendizagem, bem como os princípios de planejamento educacional.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Conhecer os fundamentos, a natureza e as principais pesquisas de ensino de Química.
 
-Os Núcleos de Arte e Cultura (NAC) do IFPR têm por finalidade fomentar, valorizar e fortalecer a formação, a difusão, a articulação, a produção e a fruição artística e cultural, assessorando na interlocução da gestão política, artística e cultural da instituição (Resolução nº 69/2017). O NAC visa apoiar e fomentar programas, projetos, cursos, eventos, de cunho educativo, cultural, artístico e social de modo a promover a integração entre a teoria e a prática na formação dos futuros profissionais, envolvendo Ensino, Pesquisa e Extensão (Resolução nº 69/2017). 
+Conhecer e vivenciar projetos e propostas curriculares de ensino de Química.
 
-Por sua vez, os Núcleos de Estudos Afro-Brasileiros e Indígenas (Neabi) do IFPR visam a realização de debates e reflexões, no âmbito do IFPR e da sociedade civil a que pertence, acerca das relações étnico-raciais, com foco especial em populações negras, africanas, afro descendentes e originárias tradicionais (etnias indígenas). Com isso, pretende-se produzir conhecimentos e estimular práticas e atitudes que, além de incidir no combate à invisibilidade que caracteriza essas identidades socioculturais nos espaços públicos e de poder, possam, por meio de ações de extensão, pesquisa, inovação e ensino, estimular a tomada de consciência sobre os direitos das populações mencionadas (Resolução nº 71/2018). 
+Ter atitude favorável à incorporação, na sua prática, dos resultados da pesquisa educacional em ensino de Química, visando solucionar os problemas relacionados ao ensino/aprendizagem (BRASIL, 2001a, p. 8).
 
-Outra iniciativa foi a elaboração do “Portal das Artes” do IFPR, disponível no endereço eletrônico https://reitoria.ifpr.edu.br/portal-das-artes, que busca divulgar cursos, eventos artísticos culturais, projetos de ensino, pesquisa e extensão, e preservar a memória destas ações. Ainda, o Observatório das Artes do IFPR consiste no espaço de divulgação das atividades propostas e da criação de tempos e espaços que utilizam a Arte, contribuindo assim na formação de mediadores culturais capazes de fomentar e planejar projetos artísticos e culturais em que ações comunitárias inclusivas e interculturais sejam disseminadas, motivando quanto às novas formas da construção do processo cognitivo, crítico e criativo da comunidade acadêmica e desenvolvendo um olhar sensível – o estético, a percepção, a criatividade e a reflexão sobre sua própria identidade, seus valores e os conhecimentos construídos na Educação Profissional e Tecnológica. 
+Com relação à profissão:
 
-O Centro de Línguas do Instituto Federal do Paraná (CELIF) tem por atribuição coordenar as ações de ensino, pesquisa, extensão e inovação na área de línguas, para as comunidades interna e externa, com vistas à inclusão social, à diversidade cultural e à interculturalidade (Resolução nº 65/2017). E pela execução de atividades culturais, esportivas e sociais é promovida a integração escola-comunidade. 
+Ter consciência da importância social da profissão como possibilidade de desenvolvimento social e coletivo.
 
-30 
+Ter capacidade de disseminar e difundir e/ou utilizar o conhecimento relevante para a comunidade.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Atuar no magistério, em nível de ensino fundamental e médio, de acordo com a legislação específica, utilizando metodologia de ensino variada,
 
-De acordo com o Plano de Desenvolvimento Institucional (PDI) do _Campus_ Pitanga, para o período 2019-2023, as metas relacionadas à Memória e Patrimônio Culturais e Produção Artística e Cultural são: promover ao menos uma Mostra anual de trabalhos artísticos; estabelecer parceria anual com entidades culturais locais (associações, artesãos, artistas, ativistas culturais, etc.); organizar encontros e palestras anuais em parceria com professores de outras instituições escolares como forma de socializar o conhecimento em Arte e Cultura; propor anualmente Oficina para Intercâmbio das respectivas áreas de conhecimento da disciplina de Arte (artes visuais, teatro, dança e música); organizar espaço para exposições artísticas; e criar um Centro de Memória do Campus Pitanga (PDI 2019-2023). 
+contribuir para o desenvolvimento intelectual dos estudantes e para despertar o interesse científico em adolescentes; organizar e usar laboratórios de Química; escrever e analisar criticamente livros didáticos e paradidáticos e indicar bibliografia para o ensino de Química; analisar e elaborar programas para esses níveis de ensino.
 
-No curso Superior de Licenciatura em Química, parte dos componentes curriculares se correlacionam de modo transversal neste contexto, por exemplo, Português Instrumental; Ciência, Tecnologia e Sociedade; Libras; dentre outras. 
+Exercer a sua profissão com espírito dinâmico, criativo, na busca de novas alternativas educacionais, enfrentando como desafio as dificuldades do magistério.
 
-## **2.3.4 Comunicação e Relações com a Comunidade** 
+Conhecer criticamente os problemas educacionais brasileiros.
 
-Em termos de comunicação, o curso Superior de Licenciatura em Química, assim como os demais cursos ofertados pelo _Campus_ Pitanga, encontra-se amparado pelos representantes da Rede de Comunicadores do IFPR na unidade. Por meio deste trabalho em equipe, busca-se estabelecer um diálogo com a comunidade de forma ampla, eficaz e transparente. 
+Identificar no contexto da realidade escolar os fatores determinantes no processo educativo, tais como o contexto socioeconômico, política educacional, administração escolar e fatores específicos do processo de ensino-aprendizagem de Química.
 
-Tal trabalho tem início com a divulgação do curso durante o processo seletivo anual e prossegue com a divulgação das ações do curso (eventos científicos, mostras, feiras, festividades, etc), provimento de informações diversas, fortalecimento do vínculo entre os discentes e o _Campus_ , formação de uma identidade institucional e de uma identidade local, entre outras iniciativas que contribuem para ampliar e fortalecer as relações do _Campus_ Pitanga com a comunidade acadêmica e a região. 
+Assumir conscientemente a tarefa educativa, cumprindo o papel social de preparar os alunos para o exercício consciente da cidadania.
 
-As ações de comunicação são divulgadas a partir de três canais oficiais: o site institucional do Campus (https://pitanga.ifpr.edu.br/), a página do _campus_ no Facebook (https://www.facebook.com/ifprcampuspitanga) e o perfil do _campus_ no Instagram (https://www.instagram.com/ifpr.pitanga/). Para tanto, são criados materiais escritos, imagéticos e audiovisuais, os quais são produzidos tanto por servidores locais, quanto pela equipe de 
+Desempenhar outras atividades na sociedade, para cujo sucesso uma sólida formação universitária seja importante fator (BRASIL, 2001a, p. 8).
 
-31 
+As Diretrizes Curriculares Nacionais para a Formação de Professores da Educação Básica, em nível superior, curso de licenciatura, de graduação plena (BRASIL, 2001) e a Resolução CNE/CP Nº 02/2015, que trata das Diretrizes Curriculares Nacionais para a formação inicial em nível superior (cursos de Licenciatura, cursos de formação pedagógica para graduados e cursos de segunda licenciatura) e para a formação continuada, explanam sobre a importância de formar o Licenciado tendo em vista o desenvolvimento das características consideradas, na atualidade, como inerentes à atividade docente, entre as quais se destacam: orientação e mediação do ensino para a aprendizagem do discente; comprometimento com a eficácia do aprendizado do discente; assumir e lidar com a diversidade entre os discentes; promoção de atividades culturais; desenvolvimento de práticas investigativas; elaboração e execução de projetos que envolvem conteúdos curriculares; utilização de novas metodologias, estratégias e materiais de apoio; desenvolvimento de trabalhos em equipe.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **2.5.1 Áreas de Atuação do Egresso**
 
-comunicação lotada em Curitiba. Também é privilegiado o atendimento ao público por meio dos canais oficiais supracitados, voltado à resposta de dúvidas e ao acolhimento de críticas e sugestões. 
+O Licenciado em Química poderá atuar: na docência em instituições de ensino que oferecem cursos de nível fundamental e médio nas diferentes modalidades de ensino, tais como educação de jovens e adultos, ensino profissionalizante integrado e subsequente, considerando as particularidades e necessidades específicas de cada um; na produção, desenvolvimento e avaliação de programas e materiais didáticos para o ensino de Química nas modalidades presencial e a distância; em espaços de educação não formal, como feiras de divulgação científica e museus; em instituições que desenvolvam pesquisas educacionais.
 
-As iniciativas de comunicação auxiliam na implementação da visão do IFPR, favorecem maior engajamento com a sociedade local, ajudam a inserir o _Campus_ na sociedade pitanguense, abrem espaço para que os mais diferentes setores locais participem da vida acadêmica e possibilitam a construção de uma instituição mais democrática e que atende ao público-alvo do IFPR. 
+De acordo com a Resolução Normativa nº 36/74, Artigo 1º, do Conselho Federal de Química, em termos de carga horária das disciplinas cursadas, obterão as seguintes atribuições legais:
 
-## 2.4 CONCEPÇÃO DO CURSO 
+1) direção, supervisão, programação, coordenação, orientação e responsabilidade técnica no âmbito de suas atribuições respectivas;
 
-A proposta do respectivo curso prioriza uma formação humanística emancipatória e crítica, concebendo o conhecimento como fato histórico e social. Nesta concepção, considera-se a humanidade como algo externo às pessoas, sendo produzida historicamente deve ser apropriada pelos representantes da espécie que nem sempre têm acesso aos conhecimentos que os tornam humanos. Portanto, uma educação humanística prioriza o acesso ao conhecimento historicamente produzido pela humanidade. Mas este não é qualquer conhecimento, segundo Saviani (2005), para que a educação possa humanizar deve ter como referência conhecimentos objetivos, científicos, sistematizados historicamente que tomam forma institucionalizada na escola. 
+2) assistência, assessoria, consultoria, elaboração de orçamentos, divulgação e comercialização no âmbito das atribuições respectivas;
 
-A apropriação de tais conhecimentos possibilita ao indivíduo da espécie humana tornar-se humano. Pois “[...] o homem não se faz homem naturalmente; ele não nasce sabendo ser homem, vale dizer, ele não nasce sabendo sentir, pensar, avaliar, agir [...] é preciso aprender, o que implica o trabalho educativo” (SAVIANI, 2005, p. 7). 
+3) vistoria, perícia, avaliação, arbitramento de serviços técnicos, elaboração de pareceres, laudos e atestados, no âmbito das atribuições respectivas;
 
-Neste sentido, a apropriação do conhecimento não ocorre na experiência imediata, mas de forma mediada e “Ao garantir a apropriação do saber escolar, a escola está também possibilitando o desenvolvimento de formas mais elaboradas de pensar e sentir o mundo” (MEIRA, 2012, p. 94). Portanto, no decorrer do processo de humanização é preciso assimilar experiência de gerações anteriores adquirindo significações, concedendo-lhes sentidos pessoais. O sentido e o significado das ações são contínuos na consciência humana, estes são apreendidos pela atividade. Assim, é 
+4) exercício do magistério, respeitada a legislação específica;
 
-32 
+5) desempenho de cargos e funções técnicas, no âmbito das atribuições respectivas;
 
-**==> picture [472 x 55] intentionally omitted <==**
+6) ensaios e pesquisas em geral. Pesquisas e desenvolvimento de métodos e produtos;
 
-preciso entender o objetivo das atividades propostas, provocar respostas e projetar novas necessidades, vinculadas à formação humana. 
+7) análises química e físico-química, químico-biológica, bromatológica, toxicológica, biotecnológica e legal, padronização e controle de qualidade (CFQ, 1974).
 
-Considerando a constituição de uma educação que seja emancipadora Saviani (1985, p. 10) é consonante ao afirmar que é preciso ocorrer a passagem do “senso comum à consciência filosófica”, ou seja, é preciso “passar de uma concepção fragmentária, incoerente, desarticulada, implícita, degradada, mecânica, passiva e simplista a uma concepção unitária, coerente, articulada, explícita, original, intencional, ativa e cultivada”. Negar uma educação com estes propósitos significa exclusão do processo, mesmo que, aparentemente, esteja incluso. Neste caso, não há conforto em uma educação empobrecida e direcionada às necessidades do sistema econômico vigente como é de praxe, mas uma educação que fomente mudanças sociais, uma educação vinculada à vida, que analisa constantemente a realidade de forma crítica. Entendemos tal análise da realidade a partir de Gasparin (2009), pelo qual ser crítico é saber que os fatos e aquilo que se faz, apresentam pelo menos dois aspectos, várias perspectivas, ponderar a necessidade de algo analisando limitações e determinações, considerando que as pessoas não são absolutas, mas interdependentes. 
+## **2.5.2 Acompanhamento de Egressos**
 
-Neste âmbito, destaca-se uma educação de cunho crítico que supere o empírico, passe pela abstração e chegue ao concreto, ou seja, a passagem do senso comum à consciência filosófica implica a passagem do empírico ao concreto o que concerne superar o princípio de não contradição pelo princípio da contradição situando a educação em uma perspectiva crítica. Esta perspectiva, conforme Vázquez (1977) permite transformar o mundo criadoramente. 
+O acompanhamento é realizado por monitoramento de egresso, que articula a formação geral com a formação profissional, conforme previsto no Plano de Desenvolvimento Institucional do Instituto Federal do Paraná (PDI, 2014, p. 60):
 
-## 2.5 PERFIL DO EGRESSO 
+Monitoramento de egressos – o periódico conta com egressos com o intuito de acompanhar os estudantes do IFPR mesmo após a conclusão de seus cursos, mantendo banco de dados específico e promovendo ações de integração que podem servir para consolidar e avaliar políticas institucionais de formação ou de difusão tecnológica.
 
-Segundo as Diretrizes Curriculares Nacionais para os Cursos de Química, de 2001, as novas características do contexto histórico contemporâneo demandam a necessidade de formação de novas subjetividades, sobretudo, “pluridimensional” (BRASIL, 2001a, p. 1). Faz-se relevante, nesse sentido, a preocupação com a construção de um novo homem para um novo mundo, um 
+Dessa forma, o acompanhamento do egresso do curso de Licenciatura em Química visa assegurar a comunicação entre este e a instituição, divulgando informações sobre sua área de formação, eventos acadêmicos-científicos, atividades de formação continuada e oportunidades profissionais.
 
-33 
+Além disso, levantar dados em relação a interesses e necessidades para a oferta de formação continuada, promovendo encontros, cursos de extensão, palestras, a fim de atualizar e/ou complementar os saberes adquiridos ao longo do curso finalizado, contribuindo para a inserção no mundo do trabalho.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **2.5.3 Registro Profissional**
 
-sujeito com responsabilidade social, especialmente em relação aos recursos naturais e a busca pela qualidade de vida (BRASIL, 2001a). 
+O IFPR _Campus_ Pitanga e o Colegiado do curso de Licenciatura em Química devem cumprir os trâmites exigidos pelo Conselho Federal de Química para o cadastramento do curso junto a esse órgão possibilitando o Registro Profissional dos egressos do curso de Licenciatura em Química proposto. Cabe ao _Campus_ orientar os egressos sobre os procedimentos para registro de portadores de diploma de Licenciado em Química em Conselhos Regionais de Química.
 
-Assim sendo, o egresso do curso de Licenciatura em Química deve portar os conhecimentos “[...] suficientes para uma ação interativa e responsável na sociedade, seja como profissional, seja como cidadão” (BRASIL, 2001a, p. 2). O Licenciado em Química: 
+A Resolução Normativa n° 94 de 19 de setembro de 1986 regulamenta o registro em Conselhos Regionais de Química (CRQ) de portadores de diploma de Licenciado em Química com currículo de natureza “Química” no artigo 2º:
 
-[...] deve ter formação generalista, mas sólida e abrangente em conteúdos dos diversos campos da Química, preparação adequada à aplicação pedagógica do conhecimento e experiências de Química e de áreas afins na atuação profissional como educador na educação fundamental e média (BRASIL, 2001a, p. 4). 
+Deverão ser registrados sob o título de Licenciados em Química com as atribuições de 01 a 07, contidas no Art. 1º da RN n.º 36 os portadores de diploma de “Licenciado em Química”, obtido em curso de “Licenciatura Plena em Ciências — Habilitação em Química, reconhecido pelo Ministério da Educação, cujo currículo mínimo, tal como fixado pela Resolução n.º 30, de 11.07.74, do Conselho Federal de Educação, tenha sido acrescido de disciplinas complementares de natureza “Química”, prescritas no Art. 1º da R.O. n.º 1.511 de 12.12.1975 do CFQ, em caráter profissional, ou constantes do histórico escolar complementado, apostilado no referido diploma, devidamente reconhecido na forma da legislação em vigor.
 
-Conforme as Diretrizes Curriculares Nacionais para os Cursos de Química o Licenciado em Química, em relação à formação pessoal, deve: 
+Parágrafo Único — Aos portadores de currículos que não completem os créditos prescritos neste artigo, serão conferidas atribuições proporcionais, de acordo com as disciplinas cursadas (CRQ, 1986).
 
-Possuir conhecimento sólido e abrangente na área de atuação, com domínio das técnicas básicas de utilização de laboratórios, bem como dos procedimentos necessários de primeiros socorros, nos casos dos acidentes mais comuns em laboratórios de Química. 
+## **3. METODOLOGIA E ESTRATÉGIAS PEDAGÓGICAS**
 
-Possuir capacidade crítica para analisar de maneira conveniente os seus próprios conhecimentos; assimilar os novos conhecimentos científicos e/ou educacionais e refletir sobre o comportamento ético que a sociedade espera de sua atuação e de suas relações com o contexto cultural, socioeconômico e político. 
+Conforme propõe Pacheco (2011), a orientação pedagógica dos Institutos Federais deve recusar o conhecimento exclusivamente enciclopédico, assentando-se no pensamento analítico,
 
-Identificar os aspectos filosóficos e sociais que definem a realidade educacional. 
+buscando uma formação profissional mais abrangente e flexível, com menos ênfase na formação para ofícios, priorizando a compreensão do mundo do trabalho.
 
-Identificar o processo de ensino/aprendizagem como processo humano em construção. 
+Nessa perspectiva, o currículo e as práticas pedagógicas buscam problematizar a realidade de forma que as respostas se tornem novo ponto de partida na busca constante do conhecimento, entendendo-o de forma histórica e, portanto, como processo, como percurso dinâmico. Para tanto, são destacados diversos procedimentos didáticos pedagógicos, como atividades teórica, demonstrativas e práticas contextualizadas. O processo de ensino e aprendizagem extrapola os limites da sala de aula, desenvolvendo-se significações pessoais e coletivas aproximando-se da realidade.
 
-34 
+Tal posicionamento implica na articulação entre o conteúdo e a sociedade, como elemento de entendimento e transformação social. Conforme Gasparin (2012, p. 2) isso implica em trabalhar o conteúdo “[...] de forma contextualizada em todas as áreas do conhecimento humano [...] os conteúdos são sempre uma produção histórica de como os homens produzem sua vida nas relações sociais de trabalho em cada modo de produção”. O conteúdo, dessa maneira, expande-se em múltiplas determinações contidas no todo social, a apropriação do conhecimento deixa de ser um produto fragmentado, anistórico, mas representa a vida em diversas dimensões da mesma realidade.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Gasparin (2009) afirma que os conteúdos escolares não estão na escola, mas fora dela. Na escola torna-se teoria é ensinado e volta à sociedade. Nesses termos, o que muda a sociedade é a prática, que representa a essência da vida social, mas não há prática eficaz sem a teoria, ou seja, teoria e prática juntas formam a práxis, que é a prática imbuída da teoria. Pela práxis o ser humano é levado a refletir, considerar as contradições que se impõem no processo histórico como forma de ampliar a concepção da realidade em suas múltiplas determinações.
 
-Ter uma visão crítica com relação ao papel social da Ciência e à sua natureza epistemológica, compreendendo o processo histórico-social de sua construção. 
+Saviani (1985) destaca que o povo detém a prática transformadora do homem de massa, mas acolhe concepções hegemônicas sem questioná-las. Pensamentos hegemônicos se converte em senso comum, obtendo o consenso de todas as camadas que integram a sociedade, sendo necessário extrair o que aí tem de positivo, ou seja, _o bom senso_ , elaborando-o de maneira que se conceba um mundo em consideração às demandas populares superando concepções dominantes. Para o autor supracitado a elevação do nível cultural é uma necessidade ao considerarmos a superação de forças
 
-Saber trabalhar em equipe e ter uma boa compreensão das diversas etapas que compõem uma pesquisa educacional. 
+hegemônicas, permitindo olhares diferenciados sobre a realidade, concebendo a educação como instrumento de luta e transformação por meio da práxis criadora.
 
-Ter interesse no auto-aperfeiçoamento contínuo, curiosidade e capacidade para estudos extracurriculares individuais ou em grupo, espírito investigativo, criatividade e iniciativa na busca de soluções para questões individuais e coletivas relacionadas com o ensino de Química, bem como para acompanhar as rápidas mudanças tecnológicas oferecidas pela interdisciplinaridade, como forma de garantir a qualidade do ensino de Química. 
+A consciência comum é incapaz ao ser deixada por si só de “superar sua concepção espontânea e irreflexiva da atividade prática e ascender a uma verdadeira concepção – filosófica – da praxis” (VÁZQUEZ, 1977, p. 16). A educação, nesse sentido, busca romper os “[...] interesses dominantes aqueles elementos que estão articulados em torno deles, mas não inerentes à ideologia dominante e rearticulá-los em torno dos interesses populares, dando-lhes a consciência, a coesão e a coerência de uma concepção de mundo elaborada” (SAVIANI, 1985, p. 10-11).
 
-Ter formação humanística que permita exercer plenamente sua cidadania e, enquanto profissional, respeitar o direito à vida e ao bem estar dos cidadãos. 
+Neste âmbito, é preciso considerar que as sociedades humanas se estruturam pelo trabalho, concebendo-o como a transformação da natureza de acordo com suas necessidades, constituindo um mundo humano. Neste processo, Saviani (2007) afirma que educação e trabalho não se dissociam, são atributos essenciais do ser humano que se define pela racionalidade, o que denota uma não casualidade em relação à capacidade de trabalhar e educar.
 
-Ter habilidades que o capacitem para a preparação e desenvolvimento de recursos didáticos e instrucionais relativos à sua prática e avaliação da qualidade do material disponível no mercado, além de ser preparado para atuar como pesquisador no ensino de Química (BRASIL, 2001a, p. 6-7). 
+O trabalho costura as diferentes formas de educação, nas diferentes formas de vida, no conjunto da história. A produção da existência pela transformação da natureza produz o próprio homem, o que denota um ato educativo de produzir-se a si mesmo no processo de trabalho. Assim, “A produção da existência implica o desenvolvimento de formas e conteúdos cuja validade é estabelecida pela experiência, o que configura um verdadeiro processo de aprendizagem” (SAVIANI, 2007, p. 154).
 
-Com relação à compreensão da Química: 
+Desse modo, a organização curricular do curso de Licenciatura em Química, está estruturada à construção de conhecimento que articula teoria e prática, capacitando o discente no domínio e uso dos conteúdos integrados teórica e praticamente ao seu cotidiano. O compromisso do processo educativo é o desenvolvimento integral, não apenas no aspecto cognitivo, mas também nos aspectos afetivos e sociais, em uma perspectiva emancipatória e de destaque dos sujeitos envolvidos nesse processo.
 
-Compreender os conceitos, leis e princípios da Química. 
+O IFPR _Campus_ Pitanga oferece equipe multiprofissional contando com psicólogo, assistente social e Docente de Educação Especial. Será oferecido Atendimento Pedagógico que
 
-Conhecer as propriedades físicas e químicas principais dos elementos e compostos, que possibilitem entender e prever o seu comportamento físicoquímico, aspectos de reatividade, mecanismos e estabilidade. 
+pretende, principalmente, orientar e auxiliar os discentes da instituição no tocante às lacunas no processo de ensino e aprendizagem, com o intuito de potencializá-lo. O Atendimento Pedagógico torna-se relevante à medida que atende aos discentes em sua diversidade e, por meio de orientações, busca estratégias de organização dos estudos, superação das dificuldades de aprendizagem, resolução de problemas que estejam interferindo no processo de ensino e aprendizagem. Sob responsabilidade da equipe pedagógica e da coordenação de curso será desenvolvido um esquema de diagnóstico de dificuldades de aprendizagem e estratégias de recuperação de estudos que proporcione aos estudantes o pleno acompanhamento do desenvolvimento do curso.
 
-Acompanhar e compreender os avanços científico-tecnológicos e educacionais. 
+O Curso de Licenciatura em Química do IFPR _Campus_ Pitanga, pretende viabilizar a realização de diversas atividades articuladas ao ensino, tais como monitoria, pesquisa e atividades de extensão. A monitoria é uma atividade auxiliar à docência podendo ser remunerada mediante editais de assistência estudantil do IFPR, exercida por discentes regularmente matriculados no curso, visando o maior envolvimento desses e contribuindo para a diminuição das taxas de evasão.
 
-35 
+A participação discente em atividades de extensão é de suma importância para que haja a aproximação entre a comunidade interna e externa. Para tanto, os docentes deverão desenvolver projetos e ações que garantam a interação e a atuação dos discentes na transformação da realidade local.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## 3.1 RELAÇÃO ENTRE ENSINO, PESQUISA, EXTENSÃO E INOVAÇÃO
 
-Reconhecer a Química como uma construção humana e compreender os aspectos históricos de sua produção e suas relações com o contexto cultural, socioeconômico e político (BRASIL, 2001a, p. 7). 
+A indissociabilidade entre Ensino, Pesquisa e Extensão deve acontecer ao longo de todo o curso, desde as propostas curriculares até as atividades extracurriculares que poderão ocorrer dentro ou fora da Instituição.
 
-Com relação à busca de informação e à comunicação e expressão: 
+O Curso de Licenciatura em Química está organizado de modo a permitir flexibilidade curricular, possibilitando ao discente, trajetórias em áreas afins e/ou correlatas, desde que estas contribuam para o perfil do egresso, no intuito de dimensionar as suas potencialidades e contribuir com a sua autonomia intelectual e profissional diante do mundo do trabalho em constante transformação.
 
-Saber identificar e fazer busca nas fontes de informações relevantes para a Química, inclusive as disponíveis nas modalidades eletrônica e remota, que possibilitem a contínua atualização técnica, científica, humanística e pedagógica. 
+Os componentes curriculares da área pedagógica oferecem embasamento para a prática docente possibilitando a inserção no mundo do trabalho, o Estágio Supervisionado em suas várias modalidades permite o contato do discente com a futura profissão. A Atividade Prática como Componente Curricular (APCC) tem como objetivos a experimentação de elementos da prática pedagógica desde o início da formação e debates de questões educacionais.
 
-Ler, compreender e interpretar os textos científico-tecnológicos em idioma pátrio e estrangeiro (especialmente inglês e/ou espanhol). 
+A matriz curricular foi planejada de modo a permitir espaços de flexibilização da trajetória de aprendizagem, oferecendo componentes curriculares optativos. Com a finalidade de reforçar a inserção de ações com valorização extensionista e visão social são previstas discussões em relação ao desenvolvimento da sociedade, cultura e direitos humanos nos componentes curriculares Ciência, Tecnologia e Sociedade e Educação em Direitos Humanos. Além disso, o discente deverá cumprir um mínimo de 200 (duzentas) horas de atividades acadêmico-científico-culturais, denominadas Atividades Complementares (AC), sendo obrigatórias para integralização da carga horária total do curso. Tais atividades visam aprimorar a formação, contribuindo para o desenvolvimento de cidadãos críticos, autônomos e reflexivos conscientes de seus direitos e deveres e de seu ser e estar no mundo. As Atividades Complementares seguem regulamento próprio.
 
-Saber interpretar e utilizar as diferentes formas de representação (tabelas, gráficos, símbolos, expressões, etc.). 
+As produções provenientes de trabalhos de iniciação científica, extensão, projetos de pesquisa e relatórios de estágio ou similares serão divulgadas em eventos científicos e/ou periódicos da área. Os trabalhos desenvolvidos por bolsistas e demais integrantes, sob a orientação de professores, serão divulgados no Encontro Científico de Inovação, Pesquisa e Extensão (ECIPE) que ocorre anualmente no _Campus_ Pitanga, onde serão selecionados trabalhos a serem apresentados no SE²PIN – Seminário de Extensão, Ensino, Pesquisa e Inovação – promovido anualmente pelo IFPR. Eventualmente serão ofertados cursos de extensão, semana de curso, palestras e seminários que possam contribuir para uma formação ampla e integrada às diversas áreas de conhecimento.
 
-Saber escrever e avaliar criticamente os materiais didáticos, como livros, apostilas, "kits", modelos, programas computacionais e materiais alternativos. 
+Serão desenvolvidos projetos interdisciplinares de pesquisa e extensão com propostas de reflexão acerca do processo de ensino aprendizagem e dos desafios da educação atual estabelecendo uma ponte entre o IFPR e as escolas de Ensino Básico.
 
-Demonstrar bom relacionamento interpessoal e saber comunicar corretamente os projetos e resultados de pesquisa na linguagem educacional, oral e escrita (textos, relatórios, pareceres, "posters", internet, etc.) em idioma pátrio (BRASIL, 2001a, p. 7). 
+O IFPR incentiva a pesquisa, inovação e extensão por meio do oferecimento de bolsas em programas como PRADI; PIBIC; PIBEX, do apoio ao pesquisador como PIAP, além do Programa
 
-Com relação ao ensino de Química: 
+de apoio a participação em eventos estudantis que tem por objetivo apoiar a participação de discentes do IFPR matriculados nos cursos regulares, em eventos de natureza científica, cultural, política e esportiva, no território nacional e/ou do MERCOSUL, custeando despesas com inscrição, hospedagem, alimentação e transporte. As práticas de pesquisa, extensão e inovação relacionada ao Curso de Licenciatura em Química devem estar de acordo com a legislação nacional, desta forma, os produtos que por ventura forem desenvolvidos deverão seguir as políticas de pesquisa, extensão e inovação do IFPR, registro de propriedade intelectual e depósito de pedido patentário.
 
-Refletir de forma crítica a sua prática em sala de aula, identificando problemas de ensino/aprendizagem. 
+## 3.2 TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO NO PROCESSO DE ENSINO-APRENDIZAGEM
 
-36 
+No IFPR _Campus_ Pitanga todas as salas de aula contam com equipamentos multimídia que permitem aos docentes o uso de recursos didáticos digitais. As salas também possuem acesso à _internet_ possibilitando aos docentes o rápido acesso a informações, a exibição de vídeos didáticos, experimentos virtuais e demais recursos disponíveis que contribuam com o processo de ensino e aprendizagem.
 
-**==> picture [472 x 55] intentionally omitted <==**
+A _internet_ no _Campus_ é oferecida tanto via _wireless_ como por meio de pontos de acesso cabeados na biblioteca, facilitando aos discentes o acesso a conteúdos para realização de pesquisas, elaboração de trabalho, relatórios e demais atividades propostas. O _Campus_ oferece ainda, laboratório de informática com 35 computadores com acesso à _internet._ O laboratório de Ciências conta com computador próprio para uso em aulas e atividades de pesquisa.
 
-Compreender e avaliar criticamente os aspectos sociais, tecnológicos, ambientais, políticos e éticos relacionados às aplicações da Química na sociedade. 
+O IFPR utiliza o sistema _Karavellas_ que permite ao docente realizar atividades em ambiente virtual de aprendizagem. No _Karavellas_ o docente pode interagir com os discentes, criar fóruns de discussão, disponibilizar materiais que podem ser acessados. Ferramentas como _Moodle_ e _Google Classroom_ também estão disponíveis para utilização e oferecem recursos semelhantes.
 
-Saber trabalhar em laboratório e saber usar a experimentação em Química como recurso didático. 
+O curso de Licenciatura em Química busca formar profissionais capazes de utilizar Tecnologias Digitais de Informação e Comunicação e, para tanto, oferece o componente curricular Tecnologia no Ensino, direcionando o uso de _softwares_ livres relacionados ao contexto do curso de Licenciatura em Química.
 
-Possuir conhecimentos básicos do uso de computadores e sua aplicação em ensino de Química. 
+## 3.3 ESTRATÉGIAS DE ENSINO E APRENDIZAGEM
 
-Possuir conhecimento dos procedimentos e normas de segurança no trabalho. 
+## **3.3.1 Material Didático**
 
-Conhecer teorias psicopedagógicas que fundamentam o processo de ensino-aprendizagem, bem como os princípios de planejamento educacional. 
+## NSA.
 
-Conhecer os fundamentos, a natureza e as principais pesquisas de ensino de Química. 
+## **3.3.2 Mecanismos de Interação entre docentes, tutores e estudantes**
 
-Conhecer e vivenciar projetos e propostas curriculares de ensino de Química. 
+NSA.
 
-Ter atitude favorável à incorporação, na sua prática, dos resultados da pesquisa educacional em ensino de Química, visando solucionar os problemas relacionados ao ensino/aprendizagem (BRASIL, 2001a, p. 8). 
+## **3.3.3 Atividades de Tutoria**
 
-Com relação à profissão: 
+## NSA.
 
-Ter consciência da importância social da profissão como possibilidade de desenvolvimento social e coletivo. 
+## **3.3.4 Ambiente Virtual de Aprendizagem (AVA)**
 
-Ter capacidade de disseminar e difundir e/ou utilizar o conhecimento relevante para a comunidade. 
+## NSA.
 
-Atuar no magistério, em nível de ensino fundamental e médio, de acordo com a legislação específica, utilizando metodologia de ensino variada, 
+## **3.3.5 Atividades Práticas Supervisionadas (APSs)**
 
-37 
+As Atividades Práticas Supervisionadas (APS) no curso de Licenciatura em Química do Instituto Federal do Paraná (IFPR) estão normatizadas conforme a Resolução CNE/CES nº 3, de 02 de julho de 2007, e a Portaria PROENS/IFPR nº 150, de 13 de dezembro de 2024. As APS são atividades acadêmicas desenvolvidas pelos discentes sob a supervisão docente, podendo incluir estudos dirigidos, trabalhos individuais e em grupo, pesquisas, atividades de campo, seminários e demais estratégias metodológicas que promovam a articulação entre teoria e prática. A adoção das APS é facultativa e limitada a, no máximo, 10% da carga horária do componente curricular ao qual se vinculam, devendo estar prevista no plano de ensino do docente responsável. A implementação das APS será deliberada na última reunião do Colegiado anterior ao início de cada semestre letivo, sendo facultado aos docentes a opção por sua utilização nos componentes curriculares sob sua responsabilidade. Quando adotadas, as APS deverão constar na seção "Metodologia" do plano de ensino, especificando carga horária, cronograma, conteúdos, metodologias e critérios de avaliação. O planejamento e a execução das APS devem atender às diretrizes institucionais, incluindo a acessibilidade para estudantes com Necessidades Educacionais Específicas. Para fins de registro acadêmico, as APS equivalem a atividades letivas e devem ser devidamente documentadas no Sistema Unificado de Administração Pública (SUAP), garantindo sua rastreabilidade e conformidade com a normatização vigente.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## 4. ORGANIZAÇÃO CURRICULAR
 
-contribuir para o desenvolvimento intelectual dos estudantes e para despertar o interesse científico em adolescentes; organizar e usar laboratórios de Química; escrever e analisar criticamente livros didáticos e paradidáticos e indicar bibliografia para o ensino de Química; analisar e elaborar programas para esses níveis de ensino. 
+## 4.1 ESTRUTURA CURRICULAR
 
-Exercer a sua profissão com espírito dinâmico, criativo, na busca de novas alternativas educacionais, enfrentando como desafio as dificuldades do magistério. 
+A estrutura curricular do curso de Licenciatura em Química está organizada em acordo com a Lei de Diretrizes e Bases da Educação Nacional (LDB) nº 9394/96 (BRASIL, 1996), a Resolução do Conselho Nacional de Educação/Conselho Pleno (CNE/CP) nº 2/2015 (BRASIL, 2015a) que institui as Diretrizes Curriculares Nacionais (DCN) para a formação inicial em nível superior (cursos de licenciatura, cursos de formação pedagógica para graduados e cursos de segunda licenciatura) e para a formação continuada. Organiza-se ainda pelas diretrizes institucionais incluídas na Resolução CONSUP/IFPR nº 55/2011 (IFPR, 2011b), na Resolução CONSUP/IFPR nº 19/2017 (IFPR, 2017b) e atendendo exigências do Conselho Federal de Química em sua Resolução Ordinária n° 1511 de 12 de dezembro de 1975 (CFQ, 1975).
 
-Conhecer criticamente os problemas educacionais brasileiros. 
+A formação do licenciado em Química segue as orientações da Resolução CNE/Câmara de educação Superior (CES) nº 08/2002 (BRASIL, 2002b) que estabelece as Diretrizes Curriculares para cursos de Bacharelado e Licenciatura em Química. A flexibilização curricular como forma de possibilitar ao egresso uma formação humanística sem que haja prejuízo em sua formação científica, didática e tecnológica é um princípio estabelecido por essas diretrizes. A formação humanística possibilita ao egresso condições de exercer a profissão em defesa da vida, do ambiente e do bem estar dos cidadãos. Essas diretrizes destacam ainda que os profissionais da Química:
 
-Identificar no contexto da realidade escolar os fatores determinantes no processo educativo, tais como o contexto socioeconômico, política educacional, administração escolar e fatores específicos do processo de ensino-aprendizagem de Química. 
+[...] devem compreender e avaliar criticamente os aspectos sociais, tecnológicos, ambientais, políticos e éticos relacionados às aplicações da Química na sociedade, bem como, devem possuir capacidade crítica para avaliar seu próprio conhecimento e refletir sobre o comportamento ético que a sociedade espera de sua atuação (BRASIL, 2002b).
 
-Assumir conscientemente a tarefa educativa, cumprindo o papel social de preparar os alunos para o exercício consciente da cidadania. 
+A estrutura curricular corrobora com a formação contextualizada que envolve conhecimentos, princípios e valores que potencializam a ação humana. A partir disso, a matriz
 
-Desempenhar outras atividades na sociedade, para cujo sucesso uma sólida formação universitária seja importante fator (BRASIL, 2001a, p. 8). 
+curricular procura, pela distribuição de conteúdos, disponibilizar conhecimentos necessários para atender os objetivos do curso.
 
-As Diretrizes Curriculares Nacionais para a Formação de Professores da Educação Básica, em nível superior, curso de licenciatura, de graduação plena (BRASIL, 2001) e a Resolução CNE/CP Nº 02/2015, que trata das Diretrizes Curriculares Nacionais para a formação inicial em nível superior (cursos de Licenciatura, cursos de formação pedagógica para graduados e cursos de segunda licenciatura) e para a formação continuada, explanam sobre a importância de formar o Licenciado tendo em vista o desenvolvimento das características consideradas, na atualidade, como inerentes à atividade docente, entre as quais se destacam: orientação e mediação do ensino para a aprendizagem do discente; comprometimento com a eficácia do aprendizado do discente; assumir e lidar com a diversidade entre os discentes; promoção de atividades culturais; desenvolvimento de práticas investigativas; elaboração e execução de projetos que envolvem conteúdos curriculares; utilização de novas metodologias, estratégias e materiais de apoio; desenvolvimento de trabalhos em equipe. 
+Em atendimento à Lei nº 11.645/2008 (BRASIL, 2008b) e a Resolução CNE/CP nº 1/2004 (BRASIL, 2004a) e nº 2/2015 (BRASIL,2015a) sobre as temáticas História e Cultura AfroBrasileira, Indígena e Quilombola, e Nota Técnica nº 24/2015 (BRASIL, 2015b) que trata sobre o conceito de gênero do Plano Nacional de Educação, tais temáticas permeiam os conteúdos curriculares, especificamente no componente curricular: Ciência, Tecnologia e Sociedade.
 
-38 
+Considerando a Resolução CNE/CP nº 2/2015 (BRASIL, 2015a) que aborda a educação do campo e educação de jovens e adultos, e a Lei nº 12.764/2012 (BRASIL, 2012a) que trata sobre a Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista, os componentes curriculares Políticas Educacionais e Gestão Escolar e Educação em Direitos Humanos, respectivamente, abordam tais temáticas.
 
-**==> picture [472 x 55] intentionally omitted <==**
+A temática Educação Ambiental, Lei nº. 9.795/1999 (BRASIL, 1999), Decreto nº. 4.281/2002 (BRASIL, 2002c) e Resolução CNE/CP nº. 02/2012 (BRASIL, 2012b) e a temática Educação Alimentar e Nutricional, Lei nº. 11.947/2009 (BRASIL, 2009) serão abrangidas nos componentes curriculares Química Ambiental e Química de Alimentos, respectivamente.
 
-## **2.5.1 Áreas de Atuação do Egresso** 
+Em atendimento à Lei nº. 9.503/1997 (BRASIL, 1997) será oferecida palestras sobre a temática Educação para Segurança no Trânsito, sendo que a carga horária da mesma poderá ser computada como AC.
 
-O Licenciado em Química poderá atuar: na docência em instituições de ensino que oferecem cursos de nível fundamental e médio nas diferentes modalidades de ensino, tais como educação de jovens e adultos, ensino profissionalizante integrado e subsequente, considerando as particularidades e necessidades específicas de cada um; na produção, desenvolvimento e avaliação de programas e materiais didáticos para o ensino de Química nas modalidades presencial e a distância; em espaços de educação não formal, como feiras de divulgação científica e museus; em instituições que desenvolvam pesquisas educacionais. 
+Conforme Decreto nº. 5.626/2005 (BRASIL, 2005a) a Língua Brasileira de Sinais (LIBRAS) é oferecida como componente curricular obrigatório.
 
-De acordo com a Resolução Normativa nº 36/74, Artigo 1º, do Conselho Federal de Química, em termos de carga horária das disciplinas cursadas, obterão as seguintes atribuições legais: 
+De acordo com o CNE/CP nº. 01/2012 (BRASIL, 2012c) é ofertado o componente curricular de Educação em Direitos Humanos.
 
-1) direção, supervisão, programação, coordenação, orientação e responsabilidade técnica no âmbito de suas atribuições respectivas; 
+A estrutura curricular do curso de Licenciatura em Química apresenta:
 
-2) assistência, assessoria, consultoria, elaboração de orçamentos, divulgação e comercialização no âmbito das atribuições respectivas; 
-
-3) vistoria, perícia, avaliação, arbitramento de serviços técnicos, elaboração de pareceres, laudos e atestados, no âmbito das atribuições respectivas; 
-
-4) exercício do magistério, respeitada a legislação específica; 
-
-5) desempenho de cargos e funções técnicas, no âmbito das atribuições respectivas; 
-
-6) ensaios e pesquisas em geral. Pesquisas e desenvolvimento de métodos e produtos; 
-
-39 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-7) análises química e físico-química, químico-biológica, bromatológica, toxicológica, biotecnológica e legal, padronização e controle de qualidade (CFQ, 1974). 
-
-## **2.5.2 Acompanhamento de Egressos** 
-
-O acompanhamento é realizado por monitoramento de egresso, que articula a formação geral com a formação profissional, conforme previsto no Plano de Desenvolvimento Institucional do Instituto Federal do Paraná (PDI, 2014, p. 60): 
-
-Monitoramento de egressos – o periódico conta com egressos com o intuito de acompanhar os estudantes do IFPR mesmo após a conclusão de seus cursos, mantendo banco de dados específico e promovendo ações de integração que podem servir para consolidar e avaliar políticas institucionais de formação ou de difusão tecnológica. 
-
-Dessa forma, o acompanhamento do egresso do curso de Licenciatura em Química visa assegurar a comunicação entre este e a instituição, divulgando informações sobre sua área de formação, eventos acadêmicos-científicos, atividades de formação continuada e oportunidades profissionais. 
-
-Além disso, levantar dados em relação a interesses e necessidades para a oferta de formação continuada, promovendo encontros, cursos de extensão, palestras, a fim de atualizar e/ou complementar os saberes adquiridos ao longo do curso finalizado, contribuindo para a inserção no mundo do trabalho. 
-
-## **2.5.3 Registro Profissional** 
-
-40 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-O IFPR _Campus_ Pitanga e o Colegiado do curso de Licenciatura em Química devem cumprir os trâmites exigidos pelo Conselho Federal de Química para o cadastramento do curso junto a esse órgão possibilitando o Registro Profissional dos egressos do curso de Licenciatura em Química proposto. Cabe ao _Campus_ orientar os egressos sobre os procedimentos para registro de portadores de diploma de Licenciado em Química em Conselhos Regionais de Química. 
-
-A Resolução Normativa n° 94 de 19 de setembro de 1986 regulamenta o registro em Conselhos Regionais de Química (CRQ) de portadores de diploma de Licenciado em Química com currículo de natureza “Química” no artigo 2º: 
-
-Deverão ser registrados sob o título de Licenciados em Química com as atribuições de 01 a 07, contidas no Art. 1º da RN n.º 36 os portadores de diploma de “Licenciado em Química”, obtido em curso de “Licenciatura Plena em Ciências — Habilitação em Química, reconhecido pelo Ministério da Educação, cujo currículo mínimo, tal como fixado pela Resolução n.º 30, de 11.07.74, do Conselho Federal de Educação, tenha sido acrescido de disciplinas complementares de natureza “Química”, prescritas no Art. 1º da R.O. n.º 1.511 de 12.12.1975 do CFQ, em caráter profissional, ou constantes do histórico escolar complementado, apostilado no referido diploma, devidamente reconhecido na forma da legislação em vigor. 
-
-Parágrafo Único — Aos portadores de currículos que não completem os créditos prescritos neste artigo, serão conferidas atribuições proporcionais, de acordo com as disciplinas cursadas (CRQ, 1986). 
-
-## **3. METODOLOGIA E ESTRATÉGIAS PEDAGÓGICAS** 
-
-Conforme propõe Pacheco (2011), a orientação pedagógica dos Institutos Federais deve recusar o conhecimento exclusivamente enciclopédico, assentando-se no pensamento analítico, 
-
-41 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-buscando uma formação profissional mais abrangente e flexível, com menos ênfase na formação para ofícios, priorizando a compreensão do mundo do trabalho. 
-
-Nessa perspectiva, o currículo e as práticas pedagógicas buscam problematizar a realidade de forma que as respostas se tornem novo ponto de partida na busca constante do conhecimento, entendendo-o de forma histórica e, portanto, como processo, como percurso dinâmico. Para tanto, são destacados diversos procedimentos didáticos pedagógicos, como atividades teórica, demonstrativas e práticas contextualizadas. O processo de ensino e aprendizagem extrapola os limites da sala de aula, desenvolvendo-se significações pessoais e coletivas aproximando-se da realidade. 
-
-Tal posicionamento implica na articulação entre o conteúdo e a sociedade, como elemento de entendimento e transformação social. Conforme Gasparin (2012, p. 2) isso implica em trabalhar o conteúdo “[...] de forma contextualizada em todas as áreas do conhecimento humano [...] os conteúdos são sempre uma produção histórica de como os homens produzem sua vida nas relações sociais de trabalho em cada modo de produção”. O conteúdo, dessa maneira, expande-se em múltiplas determinações contidas no todo social, a apropriação do conhecimento deixa de ser um produto fragmentado, anistórico, mas representa a vida em diversas dimensões da mesma realidade. 
-
-Gasparin (2009) afirma que os conteúdos escolares não estão na escola, mas fora dela. Na escola torna-se teoria é ensinado e volta à sociedade. Nesses termos, o que muda a sociedade é a prática, que representa a essência da vida social, mas não há prática eficaz sem a teoria, ou seja, teoria e prática juntas formam a práxis, que é a prática imbuída da teoria. Pela práxis o ser humano é levado a refletir, considerar as contradições que se impõem no processo histórico como forma de ampliar a concepção da realidade em suas múltiplas determinações. 
-
-Saviani (1985) destaca que o povo detém a prática transformadora do homem de massa, mas acolhe concepções hegemônicas sem questioná-las. Pensamentos hegemônicos se converte em senso comum, obtendo o consenso de todas as camadas que integram a sociedade, sendo necessário extrair o que aí tem de positivo, ou seja, _o bom senso_ , elaborando-o de maneira que se conceba um mundo em consideração às demandas populares superando concepções dominantes. Para o autor supracitado a elevação do nível cultural é uma necessidade ao considerarmos a superação de forças 
-
-42 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-hegemônicas, permitindo olhares diferenciados sobre a realidade, concebendo a educação como instrumento de luta e transformação por meio da práxis criadora. 
-
-A consciência comum é incapaz ao ser deixada por si só de “superar sua concepção espontânea e irreflexiva da atividade prática e ascender a uma verdadeira concepção – filosófica – da praxis” (VÁZQUEZ, 1977, p. 16). A educação, nesse sentido, busca romper os “[...] interesses dominantes aqueles elementos que estão articulados em torno deles, mas não inerentes à ideologia dominante e rearticulá-los em torno dos interesses populares, dando-lhes a consciência, a coesão e a coerência de uma concepção de mundo elaborada” (SAVIANI, 1985, p. 10-11). 
-
-Neste âmbito, é preciso considerar que as sociedades humanas se estruturam pelo trabalho, concebendo-o como a transformação da natureza de acordo com suas necessidades, constituindo um mundo humano. Neste processo, Saviani (2007) afirma que educação e trabalho não se dissociam, são atributos essenciais do ser humano que se define pela racionalidade, o que denota uma não casualidade em relação à capacidade de trabalhar e educar. 
-
-O trabalho costura as diferentes formas de educação, nas diferentes formas de vida, no conjunto da história. A produção da existência pela transformação da natureza produz o próprio homem, o que denota um ato educativo de produzir-se a si mesmo no processo de trabalho. Assim, “A produção da existência implica o desenvolvimento de formas e conteúdos cuja validade é estabelecida pela experiência, o que configura um verdadeiro processo de aprendizagem” (SAVIANI, 2007, p. 154). 
-
-Desse modo, a organização curricular do curso de Licenciatura em Química, está estruturada à construção de conhecimento que articula teoria e prática, capacitando o discente no domínio e uso dos conteúdos integrados teórica e praticamente ao seu cotidiano. O compromisso do processo educativo é o desenvolvimento integral, não apenas no aspecto cognitivo, mas também nos aspectos afetivos e sociais, em uma perspectiva emancipatória e de destaque dos sujeitos envolvidos nesse processo. 
-
-O IFPR _Campus_ Pitanga oferece equipe multiprofissional contando com psicólogo, assistente social e Docente de Educação Especial. Será oferecido Atendimento Pedagógico que 
-
-43 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-pretende, principalmente, orientar e auxiliar os discentes da instituição no tocante às lacunas no processo de ensino e aprendizagem, com o intuito de potencializá-lo. O Atendimento Pedagógico torna-se relevante à medida que atende aos discentes em sua diversidade e, por meio de orientações, busca estratégias de organização dos estudos, superação das dificuldades de aprendizagem, resolução de problemas que estejam interferindo no processo de ensino e aprendizagem. Sob responsabilidade da equipe pedagógica e da coordenação de curso será desenvolvido um esquema de diagnóstico de dificuldades de aprendizagem e estratégias de recuperação de estudos que proporcione aos estudantes o pleno acompanhamento do desenvolvimento do curso. 
-
-O Curso de Licenciatura em Química do IFPR _Campus_ Pitanga, pretende viabilizar a realização de diversas atividades articuladas ao ensino, tais como monitoria, pesquisa e atividades de extensão. A monitoria é uma atividade auxiliar à docência podendo ser remunerada mediante editais de assistência estudantil do IFPR, exercida por discentes regularmente matriculados no curso, visando o maior envolvimento desses e contribuindo para a diminuição das taxas de evasão. 
-
-A participação discente em atividades de extensão é de suma importância para que haja a aproximação entre a comunidade interna e externa. Para tanto, os docentes deverão desenvolver projetos e ações que garantam a interação e a atuação dos discentes na transformação da realidade local. 
-
-## 3.1 RELAÇÃO ENTRE ENSINO, PESQUISA, EXTENSÃO E INOVAÇÃO 
-
-A indissociabilidade entre Ensino, Pesquisa e Extensão deve acontecer ao longo de todo o curso, desde as propostas curriculares até as atividades extracurriculares que poderão ocorrer dentro ou fora da Instituição. 
-
-O Curso de Licenciatura em Química está organizado de modo a permitir flexibilidade curricular, possibilitando ao discente, trajetórias em áreas afins e/ou correlatas, desde que estas contribuam para o perfil do egresso, no intuito de dimensionar as suas potencialidades e contribuir com a sua autonomia intelectual e profissional diante do mundo do trabalho em constante transformação. 
-
-44 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-Os componentes curriculares da área pedagógica oferecem embasamento para a prática docente possibilitando a inserção no mundo do trabalho, o Estágio Supervisionado em suas várias modalidades permite o contato do discente com a futura profissão. A Atividade Prática como Componente Curricular (APCC) tem como objetivos a experimentação de elementos da prática pedagógica desde o início da formação e debates de questões educacionais. 
-
-A matriz curricular foi planejada de modo a permitir espaços de flexibilização da trajetória de aprendizagem, oferecendo componentes curriculares optativos. Com a finalidade de reforçar a inserção de ações com valorização extensionista e visão social são previstas discussões em relação ao desenvolvimento da sociedade, cultura e direitos humanos nos componentes curriculares Ciência, Tecnologia e Sociedade e Educação em Direitos Humanos. Além disso, o discente deverá cumprir um mínimo de 200 (duzentas) horas de atividades acadêmico-científico-culturais, denominadas Atividades Complementares (AC), sendo obrigatórias para integralização da carga horária total do curso. Tais atividades visam aprimorar a formação, contribuindo para o desenvolvimento de cidadãos críticos, autônomos e reflexivos conscientes de seus direitos e deveres e de seu ser e estar no mundo. As Atividades Complementares seguem regulamento próprio. 
-
-As produções provenientes de trabalhos de iniciação científica, extensão, projetos de pesquisa e relatórios de estágio ou similares serão divulgadas em eventos científicos e/ou periódicos da área. Os trabalhos desenvolvidos por bolsistas e demais integrantes, sob a orientação de professores, serão divulgados no Encontro Científico de Inovação, Pesquisa e Extensão (ECIPE) que ocorre anualmente no _Campus_ Pitanga, onde serão selecionados trabalhos a serem apresentados no SE²PIN – Seminário de Extensão, Ensino, Pesquisa e Inovação – promovido anualmente pelo IFPR. Eventualmente serão ofertados cursos de extensão, semana de curso, palestras e seminários que possam contribuir para uma formação ampla e integrada às diversas áreas de conhecimento. 
-
-Serão desenvolvidos projetos interdisciplinares de pesquisa e extensão com propostas de reflexão acerca do processo de ensino aprendizagem e dos desafios da educação atual estabelecendo uma ponte entre o IFPR e as escolas de Ensino Básico. 
-
-O IFPR incentiva a pesquisa, inovação e extensão por meio do oferecimento de bolsas em programas como PRADI; PIBIC; PIBEX, do apoio ao pesquisador como PIAP, além do Programa 
-
-45 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-de apoio a participação em eventos estudantis que tem por objetivo apoiar a participação de discentes do IFPR matriculados nos cursos regulares, em eventos de natureza científica, cultural, política e esportiva, no território nacional e/ou do MERCOSUL, custeando despesas com inscrição, hospedagem, alimentação e transporte. As práticas de pesquisa, extensão e inovação relacionada ao Curso de Licenciatura em Química devem estar de acordo com a legislação nacional, desta forma, os produtos que por ventura forem desenvolvidos deverão seguir as políticas de pesquisa, extensão e inovação do IFPR, registro de propriedade intelectual e depósito de pedido patentário. 
-
-## 3.2 TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO NO PROCESSO DE ENSINO-APRENDIZAGEM 
-
-No IFPR _Campus_ Pitanga todas as salas de aula contam com equipamentos multimídia que permitem aos docentes o uso de recursos didáticos digitais. As salas também possuem acesso à _internet_ possibilitando aos docentes o rápido acesso a informações, a exibição de vídeos didáticos, experimentos virtuais e demais recursos disponíveis que contribuam com o processo de ensino e aprendizagem. 
-
-A _internet_ no _Campus_ é oferecida tanto via _wireless_ como por meio de pontos de acesso cabeados na biblioteca, facilitando aos discentes o acesso a conteúdos para realização de pesquisas, elaboração de trabalho, relatórios e demais atividades propostas. O _Campus_ oferece ainda, laboratório de informática com 35 computadores com acesso à _internet._ O laboratório de Ciências conta com computador próprio para uso em aulas e atividades de pesquisa. 
-
-O IFPR utiliza o sistema _Karavellas_ que permite ao docente realizar atividades em ambiente virtual de aprendizagem. No _Karavellas_ o docente pode interagir com os discentes, criar fóruns de discussão, disponibilizar materiais que podem ser acessados. Ferramentas como _Moodle_ e _Google Classroom_ também estão disponíveis para utilização e oferecem recursos semelhantes. 
-
-O curso de Licenciatura em Química busca formar profissionais capazes de utilizar Tecnologias Digitais de Informação e Comunicação e, para tanto, oferece o componente curricular Tecnologia no Ensino, direcionando o uso de _softwares_ livres relacionados ao contexto do curso de Licenciatura em Química. 
-
-46 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-## 3.3 ESTRATÉGIAS DE ENSINO E APRENDIZAGEM 
-
-## **3.3.1 Material Didático** 
-
-## NSA. 
-
-## **3.3.2 Mecanismos de Interação entre docentes, tutores e estudantes** 
-
-NSA. 
-
-## **3.3.3 Atividades de Tutoria** 
-
-## NSA. 
-
-## **3.3.4 Ambiente Virtual de Aprendizagem (AVA)** 
-
-## NSA. 
-
-## **3.3.5 Atividades Práticas Supervisionadas (APSs)** 
-
-As Atividades Práticas Supervisionadas (APS) no curso de Licenciatura em Química do Instituto Federal do Paraná (IFPR) estão normatizadas conforme a Resolução CNE/CES nº 3, de 02 de julho de 2007, e a Portaria PROENS/IFPR nº 150, de 13 de dezembro de 2024. As APS são atividades acadêmicas desenvolvidas pelos discentes sob a supervisão docente, podendo incluir estudos dirigidos, trabalhos individuais e em grupo, pesquisas, atividades de campo, seminários e demais estratégias metodológicas que promovam a articulação entre teoria e prática. A adoção das APS é facultativa e limitada a, no máximo, 10% da carga horária do componente curricular ao qual se vinculam, devendo estar prevista no plano de ensino do docente responsável. A implementação das APS será deliberada na última reunião do Colegiado anterior ao início de cada semestre letivo, sendo facultado aos docentes a opção por sua utilização nos componentes curriculares sob sua responsabilidade. Quando adotadas, as APS deverão constar na seção "Metodologia" do plano de ensino, especificando carga horária, cronograma, conteúdos, metodologias e critérios de avaliação. O planejamento e a execução das APS devem atender às diretrizes institucionais, incluindo a acessibilidade para estudantes com Necessidades Educacionais Específicas. Para fins de registro acadêmico, as APS equivalem a atividades letivas e devem ser devidamente documentadas no Sistema Unificado de Administração Pública (SUAP), garantindo sua rastreabilidade e conformidade com a normatização vigente. 
-
-47 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-## 4. ORGANIZAÇÃO CURRICULAR 
-
-## 4.1 ESTRUTURA CURRICULAR 
-
-A estrutura curricular do curso de Licenciatura em Química está organizada em acordo com a Lei de Diretrizes e Bases da Educação Nacional (LDB) nº 9394/96 (BRASIL, 1996), a Resolução do Conselho Nacional de Educação/Conselho Pleno (CNE/CP) nº 2/2015 (BRASIL, 2015a) que institui as Diretrizes Curriculares Nacionais (DCN) para a formação inicial em nível superior (cursos de licenciatura, cursos de formação pedagógica para graduados e cursos de segunda licenciatura) e para a formação continuada. Organiza-se ainda pelas diretrizes institucionais incluídas na Resolução CONSUP/IFPR nº 55/2011 (IFPR, 2011b), na Resolução CONSUP/IFPR nº 19/2017 (IFPR, 2017b) e atendendo exigências do Conselho Federal de Química em sua Resolução Ordinária n° 1511 de 12 de dezembro de 1975 (CFQ, 1975). 
-
-A formação do licenciado em Química segue as orientações da Resolução CNE/Câmara de educação Superior (CES) nº 08/2002 (BRASIL, 2002b) que estabelece as Diretrizes Curriculares para cursos de Bacharelado e Licenciatura em Química. A flexibilização curricular como forma de possibilitar ao egresso uma formação humanística sem que haja prejuízo em sua formação científica, didática e tecnológica é um princípio estabelecido por essas diretrizes. A formação humanística possibilita ao egresso condições de exercer a profissão em defesa da vida, do ambiente e do bem estar dos cidadãos. Essas diretrizes destacam ainda que os profissionais da Química: 
-
-[...] devem compreender e avaliar criticamente os aspectos sociais, tecnológicos, ambientais, políticos e éticos relacionados às aplicações da Química na sociedade, bem como, devem possuir capacidade crítica para avaliar seu próprio conhecimento e refletir sobre o comportamento ético que a sociedade espera de sua atuação (BRASIL, 2002b). 
-
-A estrutura curricular corrobora com a formação contextualizada que envolve conhecimentos, princípios e valores que potencializam a ação humana. A partir disso, a matriz 
-
-48 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-curricular procura, pela distribuição de conteúdos, disponibilizar conhecimentos necessários para atender os objetivos do curso. 
-
-Em atendimento à Lei nº 11.645/2008 (BRASIL, 2008b) e a Resolução CNE/CP nº 1/2004 (BRASIL, 2004a) e nº 2/2015 (BRASIL,2015a) sobre as temáticas História e Cultura AfroBrasileira, Indígena e Quilombola, e Nota Técnica nº 24/2015 (BRASIL, 2015b) que trata sobre o conceito de gênero do Plano Nacional de Educação, tais temáticas permeiam os conteúdos curriculares, especificamente no componente curricular: Ciência, Tecnologia e Sociedade. 
-
-Considerando a Resolução CNE/CP nº 2/2015 (BRASIL, 2015a) que aborda a educação do campo e educação de jovens e adultos, e a Lei nº 12.764/2012 (BRASIL, 2012a) que trata sobre a Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista, os componentes curriculares Políticas Educacionais e Gestão Escolar e Educação em Direitos Humanos, respectivamente, abordam tais temáticas. 
-
-A temática Educação Ambiental, Lei nº. 9.795/1999 (BRASIL, 1999), Decreto nº. 4.281/2002 (BRASIL, 2002c) e Resolução CNE/CP nº. 02/2012 (BRASIL, 2012b) e a temática Educação Alimentar e Nutricional, Lei nº. 11.947/2009 (BRASIL, 2009) serão abrangidas nos componentes curriculares Química Ambiental e Química de Alimentos, respectivamente. 
-
-Em atendimento à Lei nº. 9.503/1997 (BRASIL, 1997) será oferecida palestras sobre a temática Educação para Segurança no Trânsito, sendo que a carga horária da mesma poderá ser computada como AC. 
-
-Conforme Decreto nº. 5.626/2005 (BRASIL, 2005a) a Língua Brasileira de Sinais (LIBRAS) é oferecida como componente curricular obrigatório. 
-
-De acordo com o CNE/CP nº. 01/2012 (BRASIL, 2012c) é ofertado o componente curricular de Educação em Direitos Humanos. 
-
-A estrutura curricular do curso de Licenciatura em Química apresenta: 
-
-49 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-**Tabela 1:** Estrutura curricular do curso de Licenciatura em Química. 
+**Tabela 1:** Estrutura curricular do curso de Licenciatura em Química.
 
 |**Atividade**|**Carga Horária (em hora**<br>**relógio)**|
 |---|---|
@@ -1027,49 +814,35 @@ A estrutura curricular do curso de Licenciatura em Química apresenta:
 |Atividades Complementares|200h|
 |Total de Efetivo Trabalho Acadêmico|3218h|
 
+A integralização da carga horária do curso é estabelecida para ser cumprida no prazo mínimo 4 e no máximo 7 anos de acordo com a Resolução CONSUP/IFPR nº 14/2014 (IFPR, 2014b) que alterou a Resolução CONSUP/IFPR nº 55/2011 (IFPR, 2011b). Como forma de atender a flexibilização, a contextualização e a atualização permanente do currículo são ofertadas as AC, os componentes curriculares optativos, as APCC o Estágio Supervisionado entre outros componentes. Além disso, o regime escolar é definido por componente curricular possibilitando ao discente realizar matrículas em componentes de diferentes períodos do curso.
 
+Como forma de proporcionar embasamento teórico-conceitual são ofertados componentes como Matemática, Física , Português Instrumental e Química Geral nos semestres iniciais. A oferta desses componentes de Formação Geral busca completar as possíveis lacunas da formação discente e prepará-los para os componentes de aprofundamento, evitando assim as dificuldades encontradas que ocasionem baixo rendimento e/ou evasão.
 
-50 
+Os componentes curriculares relacionados à formação específica encontram-se distribuídos ao longo do curso numa sequência que vai do simples ao complexo buscando relacionar os componentes entre si de modo que seja evitada uma visão fragmentada dos conteúdos.
 
-**==> picture [472 x 55] intentionally omitted <==**
+A matriz curricular prevê atividades experimentais vinculados aos componentes teóricos de Química e Física. Tais componentes garantem a experimentação na formação discente. Nesse processo, entende-se que a experimentação é parte importante para o ensino dessa ciência e pode ser compreendida como uma ferramenta para a construção de conhecimentos químicos que poderá ser incorporada pelo discente em sua futura prática docente.
 
-A integralização da carga horária do curso é estabelecida para ser cumprida no prazo mínimo 4 e no máximo 7 anos de acordo com a Resolução CONSUP/IFPR nº 14/2014 (IFPR, 2014b) que alterou a Resolução CONSUP/IFPR nº 55/2011 (IFPR, 2011b). Como forma de atender a flexibilização, a contextualização e a atualização permanente do currículo são ofertadas as AC, os componentes curriculares optativos, as APCC o Estágio Supervisionado entre outros componentes. Além disso, o regime escolar é definido por componente curricular possibilitando ao discente realizar matrículas em componentes de diferentes períodos do curso. 
+A abordagem experimental apresenta caráter integrador ou investigativo que fomenta a pesquisa, a inovação, a contextualização e a inter-relação entre teoria e prática.
 
-Como forma de proporcionar embasamento teórico-conceitual são ofertados componentes como Matemática, Física , Português Instrumental e Química Geral nos semestres iniciais. A oferta desses componentes de Formação Geral busca completar as possíveis lacunas da formação discente e prepará-los para os componentes de aprofundamento, evitando assim as dificuldades encontradas que ocasionem baixo rendimento e/ou evasão. 
+Em conjunto com a formação específica em Química é essencial que os discentes possam enfrentar os desafios da docência, sendo abordados no decorrer do processo de ensino e aprendizagem, aspectos sociais, históricos e políticos. Como forma de atender a esses objetivos as
 
-Os componentes curriculares relacionados à formação específica encontram-se distribuídos ao longo do curso numa sequência que vai do simples ao complexo buscando relacionar os componentes entre si de modo que seja evitada uma visão fragmentada dos conteúdos. 
+APCC foram inseridas na matriz curricular, permeando todo o processo formativo desde o início do curso, conforme previsto no Anexo II da Resolução CONSUP/IFPR 19/2017 (IFPR, 2017a):
 
-A matriz curricular prevê atividades experimentais vinculados aos componentes teóricos de Química e Física. Tais componentes garantem a experimentação na formação discente. Nesse processo, entende-se que a experimentação é parte importante para o ensino dessa ciência e pode ser compreendida como uma ferramenta para a construção de conhecimentos químicos que poderá ser incorporada pelo discente em sua futura prática docente. 
+Art. 17: No que se refere a organização curricular, os cursos de Graduação em Licenciatura devem considerar:
 
-A abordagem experimental apresenta caráter integrador ou investigativo que fomenta a pesquisa, a inovação, a contextualização e a inter-relação entre teoria e prática. 
+[...] V – Pelo menos um quinto (1/5) da carga horária total do curso deve ser destinada à formação pedagógica, incluídas as Práticas enquanto Componente Curricular – PCCs
 
-Em conjunto com a formação específica em Química é essencial que os discentes possam enfrentar os desafios da docência, sendo abordados no decorrer do processo de ensino e aprendizagem, aspectos sociais, históricos e políticos. Como forma de atender a esses objetivos as 
+[...] X – a prática como componente curricular é obrigatória aos cursos de Licenciatura por meio de componentes e atividades que proporcionem a prática de ensino. Deverá ter no mínimo de 400 horas, integradas à carga horária mínima, e distribuídas ao longo do curso.
 
-51 
+A estrutura curricular oferece o Estágio Supervisionado a partir do 4º semestre do curso, regido por regulamento próprio. O discente pode vivenciar mediante o Estágio Supervisionado a docência como uma prática constituída pela teoria e pela reflexão. Além do Estágio Supervisionado, para a integralização do curso, os discentes deverão apresentar as AC, sendo as mesmas não computadas na carga horária semanal por se tratarem de atividades teórico-práticas de aprofundamento em áreas específicas de interesses dos estudantes. Estas atividades visam o desenvolvimento do discente nos âmbitos acadêmico, científico e cultural, pela obtenção de conhecimentos adicionais ao Curso, permitindo que o mesmo complemente sua formação.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Com base no Artigo nº 81 da Lei 9.394 de 1996 (BRASIL, 1996), na Portaria 2.253 de 2001 (BRASIL, 2001c) e na Portaria 4.059 de 2004 (BRASIL, 2004f), poderá ocorrer a realização de atividades semipresenciais nos componentes curriculares do curso de Licenciatura em Química desde que respeitada a legislação e que seja previsto nas ementas de cada componente. A orientação docente em relação ao componente curricular poderá ser realizada mediante contato com os discentes utilizando meio eletrônico.
 
-APCC foram inseridas na matriz curricular, permeando todo o processo formativo desde o início do curso, conforme previsto no Anexo II da Resolução CONSUP/IFPR 19/2017 (IFPR, 2017a): 
+## **4.1.1 Representação Gráfica do Processo Formativo**
 
-Art. 17: No que se refere a organização curricular, os cursos de Graduação em Licenciatura devem considerar: 
+A tabela a seguir apresenta a organização didático-pedagógica do curso de Licenciatura em Química:
 
-[...] V – Pelo menos um quinto (1/5) da carga horária total do curso deve ser destinada à formação pedagógica, incluídas as Práticas enquanto Componente Curricular – PCCs 
-
-[...] X – a prática como componente curricular é obrigatória aos cursos de Licenciatura por meio de componentes e atividades que proporcionem a prática de ensino. Deverá ter no mínimo de 400 horas, integradas à carga horária mínima, e distribuídas ao longo do curso. 
-
-A estrutura curricular oferece o Estágio Supervisionado a partir do 4º semestre do curso, regido por regulamento próprio. O discente pode vivenciar mediante o Estágio Supervisionado a docência como uma prática constituída pela teoria e pela reflexão. Além do Estágio Supervisionado, para a integralização do curso, os discentes deverão apresentar as AC, sendo as mesmas não computadas na carga horária semanal por se tratarem de atividades teórico-práticas de aprofundamento em áreas específicas de interesses dos estudantes. Estas atividades visam o desenvolvimento do discente nos âmbitos acadêmico, científico e cultural, pela obtenção de conhecimentos adicionais ao Curso, permitindo que o mesmo complemente sua formação. 
-
-Com base no Artigo nº 81 da Lei 9.394 de 1996 (BRASIL, 1996), na Portaria 2.253 de 2001 (BRASIL, 2001c) e na Portaria 4.059 de 2004 (BRASIL, 2004f), poderá ocorrer a realização de atividades semipresenciais nos componentes curriculares do curso de Licenciatura em Química desde que respeitada a legislação e que seja previsto nas ementas de cada componente. A orientação docente em relação ao componente curricular poderá ser realizada mediante contato com os discentes utilizando meio eletrônico. 
-
-52 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-## **4.1.1 Representação Gráfica do Processo Formativo** 
-
-A tabela a seguir apresenta a organização didático-pedagógica do curso de Licenciatura em Química: 
-
-**Tabela 2** : Organização didático-pedagógica do Curso de Licenciatura em Química. 
+**Tabela 2** : Organização didático-pedagógica do Curso de Licenciatura em Química.
 
 |**1° Semestre**|**(H/A)**|**2° Semestre**|**(H/A)**|**3° Semestre**|**(H/A)**|**4° Semestre**|**(H/A)**|
 |---|---|---|---|---|---|---|---|
@@ -1103,12 +876,6 @@ A tabela a seguir apresenta a organização didático-pedagógica do curso de Li
 |||||||||
 |||||||||
 
-
-
-53 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
 |||||||||
 |---|---|---|---|---|---|---|---|
 |||||||||
@@ -1135,17 +902,11 @@ A tabela a seguir apresenta a organização didático-pedagógica do curso de Li
 |Estágio Supervisionado I|**120**|Estágio Supervisionado II|**120**|||||
 |||||||||
 
+## **4.1.2 Matriz Curricular**
 
+A tabela abaixo apresenta a matriz curricular do curso de Licenciatura em Química:
 
-54 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-## **4.1.2 Matriz Curricular** 
-
-A tabela abaixo apresenta a matriz curricular do curso de Licenciatura em Química: 
-
-**Tabela 3:** Matriz curricular do curso de Licenciatura em Química. 
+**Tabela 3:** Matriz curricular do curso de Licenciatura em Química.
 
 ||**Semanas do semestre letivo:**||**Tipo**<br>**(C, P,**<br>**ES)**|**Número**<br>**de aulas**<br>**semanais**|**Hora-**<br>**aula**<br>**(min)**|**Hora-**<br>**Relógio**<br>**(min)**|**% CH**<br>**Extensão**|**% CH**<br>**em**<br>**EaD**|
 |---|---|---|---|---|---|---|---|---|
@@ -1157,12 +918,6 @@ A tabela abaixo apresenta a matriz curricular do curso de Licenciatura em Quími
 ||Libras|2|P|4|80|67|0|33|
 ||Introdução às práticas Laboratoriais|3|C|2|40|33|0|0|
 ||Políticas educacionais e gestão escolar|1|C|4|80|67|0|33|
-
-
-
-55 
-
-**==> picture [471 x 55] intentionally omitted <==**
 
 ||História da Educação|1|C|2|40|33|0|0|
 |---|---|---|---|---|---|---|---|---|
@@ -1178,12 +933,6 @@ A tabela abaixo apresenta a matriz curricular do curso de Licenciatura em Quími
 ||**Subtotal (Total do período)**||||**440**|**368**|**0**|**33**|
 ||||||||||
 
-
-
-56 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
 |**3º Semestre**|Matemática III|1|C|4|80|67|0|0|
 |---|---|---|---|---|---|---|---|---|
 ||Física II|1|C|4|80|67|0|0|
@@ -1197,12 +946,6 @@ A tabela abaixo apresenta a matriz curricular do curso de Licenciatura em Quími
 |**4º Semestre**|Matemática IV|1|C|4|80|67|0|0|
 ||Química Orgânica I|2|C|4|80|67|0|0|
 ||Química Inorgânica II|2|C|4|80|67|0|0|
-
-
-
-57 
-
-**==> picture [471 x 55] intentionally omitted <==**
 
 ||Física III|1|C|4|80|67|0|0|
 |---|---|---|---|---|---|---|---|---|
@@ -1218,12 +961,6 @@ A tabela abaixo apresenta a matriz curricular do curso de Licenciatura em Quími
 ||Estágio Supervisionado I|3|ES|6|120|100|0|0|
 ||||||0|0|0|0|
 
-
-
-58 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
 ||**Subtotal (Total do período)**||||**400**|**333**|**0**|**0**|
 |---|---|---|---|---|---|---|---|---|
 ||||||||||
@@ -1237,12 +974,6 @@ A tabela abaixo apresenta a matriz curricular do curso de Licenciatura em Quími
 ||||||||||
 |**7º Semestre**|Físico-Química II|2|C|4|80|67|0|0|
 ||Bioquímica|2|C|4|80|67|0|0|
-
-
-
-59 
-
-**==> picture [471 x 55] intentionally omitted <==**
 
 ||EXTENSÃO II|3|AE|6|120|100|0|33|
 |---|---|---|---|---|---|---|---|---|
@@ -1259,12 +990,6 @@ A tabela abaixo apresenta a matriz curricular do curso de Licenciatura em Quími
 ||**DISTRIBUIÇÃO - CARGA HORÁRIA**||||||||
 ||**(C) Componentes curriculares obrigatórios**||||**2200**|**1833**|||
 
-
-
-60 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
 |**(O) Componentes Optativos**|**40**|**33**|||
 |---|---|---|---|---|
 |**(E) Componentes Eletivos**|**0**|**0**|||
@@ -1278,19 +1003,13 @@ A tabela abaixo apresenta a matriz curricular do curso de Licenciatura em Quími
 |**Núcleo III**|**1701.2**|**1418**|||
 |**CARGA HORÁRIA TOTAL DO CURSO**||**3218**|||
 
+## **4.1.3 Componentes Optativos**
 
+Considerando a flexibilização curricular, conforme Resolução CONSUP/IFPR nº 19/2017 (IFPR, 2017b), Artigo n°19 do Anexo II, o discente poderá escolher Componentes Curriculares Optativos, sendo 2 horas/aulas (34h) no 6º semestre. O Componente Curricular Optativo será ofertado desde que tenha um número mínimo de 20 discentes matriculados, bem como, um limite máximo de 40.
 
-61 
+A tabela a seguir apresenta a relação dos Componentes Curriculares Optativos que serão ofertados no curso de Licenciatura em Química.
 
-**==> picture [472 x 55] intentionally omitted <==**
-
-## **4.1.3 Componentes Optativos** 
-
-Considerando a flexibilização curricular, conforme Resolução CONSUP/IFPR nº 19/2017 (IFPR, 2017b), Artigo n°19 do Anexo II, o discente poderá escolher Componentes Curriculares Optativos, sendo 2 horas/aulas (34h) no 6º semestre. O Componente Curricular Optativo será ofertado desde que tenha um número mínimo de 20 discentes matriculados, bem como, um limite máximo de 40. 
-
-A tabela a seguir apresenta a relação dos Componentes Curriculares Optativos que serão ofertados no curso de Licenciatura em Química. 
-
-**Tabela 4** : Componentes curriculares optativos do curso de Licenciatura em Química. 
+**Tabela 4** : Componentes curriculares optativos do curso de Licenciatura em Química.
 
 |Estatística e Probabilidade|40 horas/aula (33h)|
 |---|---|
@@ -1304,263 +1023,229 @@ A tabela a seguir apresenta a relação dos Componentes Curriculares Optativos q
 |Ética e Educação|40 horas/aula (33h)|
 |Química dos Alimentos|40 horas/aula (33h)|
 
+## **4.1.4 Componentes Eletivos**
 
+O discente poderá ainda cursar os componentes curriculares de sua livre escolha, em outros cursos de ensino superior do IFPR _Campus_ Pitanga para enriquecimento científico e cultural, responsabilizando-se pela matrícula e envio de certificação à coordenação do curso após concluir a disciplina.
 
-62 
+## **4.1.5 Componentes de Extensão**
 
-**==> picture [472 x 55] intentionally omitted <==**
+Em atendimento à Resolução CNE/CES n. 7, de 18 de dezembro de 2018, que estabelece as Diretrizes para a Extensão na Educação Superior Brasileira, bem como à Instrução Normativa Reitoria/IFPR n.1, de 26 de julho de 2021, que institui a regulamentação para a implementação da Curricularização da Extensão no âmbito do IFPR, a matriz curricular do curso de Licenciatura em Química conta com os componentes de Extensão I, II, e III, totalizando 351h de extensão curricularizadas no curso.
 
-## **4.1.4 Componentes Eletivos** 
+Os componentes serão voltados para o desenvolvimento de programas, projetos, cursos, oficinas, eventos, publicações e prestação de serviços, dentro do contexto da extensão universitária. Os docentes dos componentes curriculares desenvolverão a cada semestre, com os estudantes, ações de extensão relacionadas à área de Licenciatura em Química e afins, de acordo com os objetivos do plano de ensino, das ementas dos componentes curriculares e das instruções normativas vigentes.
 
-O discente poderá ainda cursar os componentes curriculares de sua livre escolha, em outros cursos de ensino superior do IFPR _Campus_ Pitanga para enriquecimento científico e cultural, responsabilizando-se pela matrícula e envio de certificação à coordenação do curso após concluir a disciplina. 
+Os estudantes que participarem de projetos de extensão fora dos componentes curriculares específicos poderão, nas datas estabelecidas em calendário acadêmico, e munidos dos certificados das horas de participação como membro/a de um projeto ou programa de extensão, na área do curso, pedir o aproveitamento destas horas para os componentes curriculares específicos de extensão, conforme Regulamento disponível no Apêndice A. Dessa forma, garante-se o acesso de todos e todas aos componentes curriculares e, além disso, abre-se a possibilidade de que o/a
 
-## **4.1.5 Componentes de Extensão** 
+estudante encontre outros meios para cumprimento de sua carga horária em atividades extensionistas.
 
-Em atendimento à Resolução CNE/CES n. 7, de 18 de dezembro de 2018, que estabelece as Diretrizes para a Extensão na Educação Superior Brasileira, bem como à Instrução Normativa Reitoria/IFPR n.1, de 26 de julho de 2021, que institui a regulamentação para a implementação da Curricularização da Extensão no âmbito do IFPR, a matriz curricular do curso de Licenciatura em Química conta com os componentes de Extensão I, II, e III, totalizando 351h de extensão curricularizadas no curso. 
+## 4.2 EMENTÁRIO E BIBLIOGRAFIAS
 
-Os componentes serão voltados para o desenvolvimento de programas, projetos, cursos, oficinas, eventos, publicações e prestação de serviços, dentro do contexto da extensão universitária. Os docentes dos componentes curriculares desenvolverão a cada semestre, com os estudantes, ações de extensão relacionadas à área de Licenciatura em Química e afins, de acordo com os objetivos do plano de ensino, das ementas dos componentes curriculares e das instruções normativas vigentes. 
+## **1º SEMESTRE:**
 
-Os estudantes que participarem de projetos de extensão fora dos componentes curriculares específicos poderão, nas datas estabelecidas em calendário acadêmico, e munidos dos certificados das horas de participação como membro/a de um projeto ou programa de extensão, na área do curso, pedir o aproveitamento destas horas para os componentes curriculares específicos de extensão, conforme Regulamento disponível no Apêndice A. Dessa forma, garante-se o acesso de todos e todas aos componentes curriculares e, além disso, abre-se a possibilidade de que o/a 
+COMPONENTE CURRICULAR: Matemática I
 
-63 
+CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio
 
-**==> picture [472 x 55] intentionally omitted <==**
+## EMENTA:
 
-estudante encontre outros meios para cumprimento de sua carga horária em atividades extensionistas. 
+1. Operação dos números Naturais
 
-## 4.2 EMENTÁRIO E BIBLIOGRAFIAS 
+   - a. Adição, subtração, multiplicação, divisão, potenciação, radiciação e expressões numéricas.
 
-## **1º SEMESTRE:** 
+   - b. Múltiplos, divisores, MMC e MDC
 
-COMPONENTE CURRICULAR: Matemática I 
+2. Números Inteiros
 
-CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio 
+   - a. Adição, subtração, multiplicação, divisão, potenciação, radiciação e expressões numéricas.
 
-## EMENTA: 
+3. Números fracionários
 
-1. Operação dos números Naturais 
+   - a. Redução e comparação de frações
 
-   - a. Adição, subtração, multiplicação, divisão, potenciação, radiciação e expressões numéricas. 
+   - b. Operações com Frações
 
-   - b. Múltiplos, divisores, MMC e MDC 
+4. Forma decimal dos números fracionários
 
-2. Números Inteiros 
+   - a. Adição, subtração, multiplicação, divisão e potenciação
 
-   - a. Adição, subtração, multiplicação, divisão, potenciação, radiciação e expressões numéricas. 
+   - b. Representação decimal de um número Racional
 
-3. Números fracionários 
+5. Equação do 1º grau
 
-   - a. Redução e comparação de frações 
+6. Sistema de equação lineares
 
-   - b. Operações com Frações 
+7. Razões e Proporções
 
-4. Forma decimal dos números fracionários 
+   - a. Grandezas diretamente e inversamente proporcionais
 
-   - a. Adição, subtração, multiplicação, divisão e potenciação 
+   - b. Regra de Três Simples e Composta
 
-   - b. Representação decimal de um número Racional 
+8. Cálculo Algébrico
 
-5. Equação do 1º grau 
+   - a. Adição, subtração, multiplicação, divisão e potenciação de monômios
 
-6. Sistema de equação lineares 
+   - b. Adição, subtração, multiplicação e divisão de polinômios
 
-7. Razões e Proporções 
+   - c. Produtos notáveis
 
-   - a. Grandezas diretamente e inversamente proporcionais 
+   - d. Fatoração de polinômios
 
-   - b. Regra de Três Simples e Composta 
+   - e. MMC de Polinômios
 
-8. Cálculo Algébrico 
+   - f. Frações algébricas
 
-   - a. Adição, subtração, multiplicação, divisão e potenciação de monômios 
+      - i. Simplificação, adição, subtração, multiplicação e divisão
 
-   - b. Adição, subtração, multiplicação e divisão de polinômios 
+9. Equação do 2º grau
 
-   - c. Produtos notáveis 
+10. Vetores
 
-   - d. Fatoração de polinômios 
+   - a. Norma (módulo) de Vetor
 
-64 
+   - b. Adição de vetores
 
-**==> picture [472 x 55] intentionally omitted <==**
+   - c. Multiplicação de Número Real por Vetor
 
-   - e. MMC de Polinômios 
+   - d. Soma de Ponto com Vetor
 
-   - f. Frações algébricas 
+   - e. Produto Escalar (ângulo entre Vetores)
 
-      - i. Simplificação, adição, subtração, multiplicação e divisão 
+11. Geometria Plana e Espacial
 
-9. Equação do 2º grau 
+   - a. Transformação das unidades de Medidas de comprimento
 
-10. Vetores 
+   - b. Perímetro de paralelogramos, Triângulos, polígonos regulares e circunferência
 
-   - a. Norma (módulo) de Vetor 
+   - c. Transformação das unidades de Medidas de superfície
 
-   - b. Adição de vetores 
+   - d. Área de paralelogramos, Triângulos, polígonos regulares, circunferência e área lateral da esfera e cone
 
-   - c. Multiplicação de Número Real por Vetor 
+   - e. Transformação das unidades de Medidas de volume
 
-   - d. Soma de Ponto com Vetor 
+   - f. Volume do paralelepípedo, pirâmide, esfera e cone
 
-   - e. Produto Escalar (ângulo entre Vetores) 
+12. Transformação das unidades de Medidas de massa
 
-11. Geometria Plana e Espacial 
+## BIBLIOGRAFIA BÁSICA:
 
-   - a. Transformação das unidades de Medidas de comprimento 
+IEZZI, Gelson; MURAKAMI, Carlos. Fundamentos de matemática elementar, v. 1: conjuntos e funções. 9. ed. São Paulo: Atual, 2013
 
-   - b. Perímetro de paralelogramos, Triângulos, polígonos regulares e circunferência 
+IEZZI, Gelson. Fundamentos de matemática elementar, v. 3: trigonometria. 9. ed. São Paulo: Atual, 2013.
 
-   - c. Transformação das unidades de Medidas de superfície 
+CARAÇA, Bento de Jesus. Conceitos fundamentais da matemática. 9. ed. Lisboa: Gradiva, 2016.
 
-   - d. Área de paralelogramos, Triângulos, polígonos regulares, circunferência e área lateral da esfera e cone 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-   - e. Transformação das unidades de Medidas de volume 
+SILVA, Jhone Caldeira; Gomes, Olimpio Ribeiro. Estruturas algébricas para licenciatura fundamentos de matemática. Editora Blucher 2016
 
-   - f. Volume do paralelepípedo, pirâmide, esfera e cone 
+ORGANIZADORA FERNANDA CESAR BONAFINI. Matemática, 2ª ed. Editora Pearson 2020 DANTE, Luiz Roberto. Matemática: contexto e aplicações. 5. ed. São Paulo: Ática, 2011. 3 v. ISBN 9788508129669 - v. 1 (broch.)
 
-12. Transformação das unidades de Medidas de massa 
+LIMA, Elon Lages et al. A matemática do ensino médio. 10. ed. Rio de Janeiro: Sociedade Brasileira de Matemática, 2012.
 
-## BIBLIOGRAFIA BÁSICA: 
+## COMPONENTE CURRICULAR: Química Geral I
 
-IEZZI, Gelson; MURAKAMI, Carlos. Fundamentos de matemática elementar, v. 1: conjuntos e funções. 9. ed. São Paulo: Atual, 2013 
+CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio
 
-IEZZI, Gelson. Fundamentos de matemática elementar, v. 3: trigonometria. 9. ed. São Paulo: Atual, 2013. 
+## EMENTA:
 
-CARAÇA, Bento de Jesus. Conceitos fundamentais da matemática. 9. ed. Lisboa: Gradiva, 2016. 
+Estrutura atômica e tabela periódica. Ligações químicas: estruturas de Lewis e repulsão do par eletrônico da camada de valência. Estrutura da matéria. Radioatividade.
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+## BIBLIOGRAFIA BÁSICA:
 
-SILVA, Jhone Caldeira; Gomes, Olimpio Ribeiro. Estruturas algébricas para licenciatura fundamentos de matemática. Editora Blucher 2016 
+ATKINS, P.; JONES, L. **Princípios de Química** : Questionando a vida moderna e o meio ambiente. 5. ed. Porto Alegre: Editora Bookman, 2006.
 
-ORGANIZADORA FERNANDA CESAR BONAFINI. Matemática, 2ª ed. Editora Pearson 2020 DANTE, Luiz Roberto. Matemática: contexto e aplicações. 5. ed. São Paulo: Ática, 2011. 3 v. ISBN 9788508129669 - v. 1 (broch.) 
+BRADY, J. E.; HUMISTON, G. E. **Química geral** . 2. ed., v. 1. Rio de Janeiro: Livros Técnicos e Científicos, 1986.
 
-LIMA, Elon Lages et al. A matemática do ensino médio. 10. ed. Rio de Janeiro: Sociedade Brasileira de Matemática, 2012. 
+BRADY, J. E.; HUMISTON, G. E. **Química geral** . 2. ed., v. 2. Rio de Janeiro: Livros Técnicos e Científicos, 1986.
 
-## COMPONENTE CURRICULAR: Química Geral I 
+BROWN, T. L.; LEMAY, H. E.; BURSTEN, B. E. **Química** : a ciência central.13. ed. São Paulo: Editora Pearson Education, 2017.
 
-65 
+RUSSEL, J. B. **Química Geral** . 2. ed. São Paulo: Pearson Makron Books, 2006.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio 
+BETTELHEIM, F. A. _et al_ . **Introdução à Química Geral.** 1. ed. São Paulo: Cengage Learning, 2012.
 
-## EMENTA: 
+KOTZ, J. C.; TREICHEL, P. WEAVER, G. C. **Química Geral e Reações Químicas** . 6. ed., v. 1. São Paulo: Cengage Learning, 2010.
 
-Estrutura atômica e tabela periódica. Ligações químicas: estruturas de Lewis e repulsão do par eletrônico da camada de valência. Estrutura da matéria. Radioatividade. 
+KOTZ, J. C.; TREICHEL, P. WEAVER, G. C. **Química Geral e Reações Químicas** . 6. ed. v. 2. São Paulo: Cengage Learning, 2010.
 
-## BIBLIOGRAFIA BÁSICA: 
+MAHAN, B. M.; MYERS, R. J. **Química** : um curso universitário. 1. ed. São Paulo. Editora Edgard Blucher, 1995.
 
-ATKINS, P.; JONES, L. **Princípios de Química** : Questionando a vida moderna e o meio ambiente. 5. ed. Porto Alegre: Editora Bookman, 2006. 
+RUSSEL, J. B. **Química Geral** . 2. ed. v. 2. São Paulo: Pearson Makron Books, 2006.
 
-BRADY, J. E.; HUMISTON, G. E. **Química geral** . 2. ed., v. 1. Rio de Janeiro: Livros Técnicos e Científicos, 1986. 
+COMPONENTE CURRICULAR: Ciência, Tecnologia e Sociedade
 
-BRADY, J. E.; HUMISTON, G. E. **Química geral** . 2. ed., v. 2. Rio de Janeiro: Livros Técnicos e Científicos, 1986. 
+CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio
 
-BROWN, T. L.; LEMAY, H. E.; BURSTEN, B. E. **Química** : a ciência central.13. ed. São Paulo: Editora Pearson Education, 2017. 
+## EMENTA:
 
-RUSSEL, J. B. **Química Geral** . 2. ed. São Paulo: Pearson Makron Books, 2006. 
+Cidadania e Direitos Humanos. O conceito de gênero e suas representações sociais. História e Cultura Afro-Brasileira, Indígena e Quilombola.
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+## BIBLIOGRAFIA BÁSICA:
 
-BETTELHEIM, F. A. _et al_ . **Introdução à Química Geral.** 1. ed. São Paulo: Cengage Learning, 2012. 
+AZEVEDO, F. **A cultura brasileira** . 7. ed., São Paulo: Edusp, 2010. CARVALHO, J. M. **Cidadania no Brasil** : O longo caminho. 21. ed., Rio de Janeiro: Civilização Brasileira, 2016. LALLEMENT, M. **História das ideias sociológicas** : Das origens a Max Weber. 5. ed., Petrópolis: Vozes, 2012. GOMES, F. S. **De Olho em Zumbi dos Palmares** : histórias, símbolos e memória social. 1. ed., São Paulo: Claro Enigma, 2011.
 
-KOTZ, J. C.; TREICHEL, P. WEAVER, G. C. **Química Geral e Reações Químicas** . 6. ed., v. 1. São Paulo: Cengage Learning, 2010. 
+HUNT, L. **A invenção dos direitos humanos** : uma história. Curitiba: A página, 2012.
 
-KOTZ, J. C.; TREICHEL, P. WEAVER, G. C. **Química Geral e Reações Químicas** . 6. ed. v. 2. São Paulo: Cengage Learning, 2010. 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-MAHAN, B. M.; MYERS, R. J. **Química** : um curso universitário. 1. ed. São Paulo. Editora Edgard Blucher, 1995. 
+BOTELHO, A.; SCHWARCZ, L. M. **Cidadania, um projeto em construção** : minorias, justiça e direitos. São Paulo: Clara enigma, 2012. FAUSTO, B. **História concisa do Brasil** . 3. ed., São Paulo: Edusp, 2015. SYSS, A. Diversidade Étnico-Racial e Educação Superior Brasileira. 1. ed., Rio de Janeiro: Edur UFRRJ, 2008.
 
-RUSSEL, J. B. **Química Geral** . 2. ed. v. 2. São Paulo: Pearson Makron Books, 2006. 
+PARANÁ. **Educando para as relações étnico-raciais II** . (Cadernos temáticos dos desafios educacionais contemporâneos). Curitiba: SEED, 2008. 208 p. Disponível em: <http://www.educadores.diaadia.pr.gov.br/arquivos/File/cadernos_tematicos/tematico_raciais. pdf>. Acesso em: 17 maio 2017. ROSS, J. L. S. **Geografia do Brasil** . 6. ed., São Paulo: Edusp, 2014. SOUZA, M. M. **África e Brasil africano** . São Paulo: Ática, 2014.
 
-COMPONENTE CURRICULAR: Ciência, Tecnologia e Sociedade 
+COMPONENTE CURRICULAR: Libras
 
-CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio 
+CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio
 
-## EMENTA: 
+## EMENTA:
 
-Cidadania e Direitos Humanos. O conceito de gênero e suas representações sociais. História e Cultura Afro-Brasileira, Indígena e Quilombola. 
+Aspectos históricos: cultura surda, identidade e língua de sinais. Aspectos clínicos, educacionais e sócio-antropológicos da surdez. A Língua de Sinais Brasileira - Libras: noções gramaticais. O ensino de Libras e noções básicas dos aspectos linguísticos. Relaciona, através da prática como componente curricular, os conhecimentos em Libras com atividades formativas que promovam experiências e reflexões próprias ao exercício da docência.
 
-66 
+BIBLIOGRAFIA BÁSICA:
 
-**==> picture [472 x 55] intentionally omitted <==**
+BRITO, L. F. **Por uma Gramática de Línguas de Sinais** . Rio de Janeiro: Tempo Brasileiro,1995.
 
-## BIBLIOGRAFIA BÁSICA: 
+FERNANDES, S. **Educação de surdos.** Curitiba: InterSaberes, 2012.
 
-AZEVEDO, F. **A cultura brasileira** . 7. ed., São Paulo: Edusp, 2010. CARVALHO, J. M. **Cidadania no Brasil** : O longo caminho. 21. ed., Rio de Janeiro: Civilização Brasileira, 2016. LALLEMENT, M. **História das ideias sociológicas** : Das origens a Max Weber. 5. ed., Petrópolis: Vozes, 2012. GOMES, F. S. **De Olho em Zumbi dos Palmares** : histórias, símbolos e memória social. 1. ed., São Paulo: Claro Enigma, 2011. 
+CAPOVILLA, F. C. et al. **Dicionário da Língua de Sinais do Brasil:** a libras e suas mãos. São Paulo: EDUSP, 2017. 3 v.
 
-HUNT, L. **A invenção dos direitos humanos** : uma história. Curitiba: A página, 2012. 
+QUADROS, R. M.; KARNOPP, L. **Língua de Sinais Brasileira** : estudos lingüísticos. Porto Alegre: Artmed, 2004.
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-BOTELHO, A.; SCHWARCZ, L. M. **Cidadania, um projeto em construção** : minorias, justiça e direitos. São Paulo: Clara enigma, 2012. FAUSTO, B. **História concisa do Brasil** . 3. ed., São Paulo: Edusp, 2015. SYSS, A. Diversidade Étnico-Racial e Educação Superior Brasileira. 1. ed., Rio de Janeiro: Edur UFRRJ, 2008. 
+LACERDA, C. B. F. de; SANTOS, Lara Ferreira dos (org.). **Tenho um aluno surdo, e agora?:** introdução à Libras e educação de surdos. 1. ed. São Carlos: EDUFSCAR, 2013. GESSER, A. **LIBRAS? Que Língua é essa?** 1. ed., São Paulo: Parábola Editorial, 2009. PEREIRA, M. C. C.; _et al_ . **LIBRAS Conhecimento Além dos Sinais** . 1. ed., São Paulo: Pearson Education – Br, 2011.
 
-PARANÁ. **Educando para as relações étnico-raciais II** . (Cadernos temáticos dos desafios educacionais contemporâneos). Curitiba: SEED, 2008. 208 p. Disponível em: <http://www.educadores.diaadia.pr.gov.br/arquivos/File/cadernos_tematicos/tematico_raciais. pdf>. Acesso em: 17 maio 2017. ROSS, J. L. S. **Geografia do Brasil** . 6. ed., São Paulo: Edusp, 2014. SOUZA, M. M. **África e Brasil africano** . São Paulo: Ática, 2014. 
+STROBEL, K.As imagens do outro sobre a cultura surda. 4. ed. Florianópolis: Ed. UFSC, 2018.
 
-COMPONENTE CURRICULAR: Libras 
+ZAMBONI, L. M. S. **Cientistas, jornalistas e a divulgação científica** : Subjetividade e heterogeneidade no discurso da divulgação científica. Campinas: Fapesp/Autores associados, 2001 .
 
-CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio 
+COMPONENTE CURRICULAR: Introdução às práticas Laboratoriais
 
-## EMENTA: 
+CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio
 
-Aspectos históricos: cultura surda, identidade e língua de sinais. Aspectos clínicos, educacionais e sócio-antropológicos da surdez. A Língua de Sinais Brasileira - Libras: noções gramaticais. O ensino de Libras e noções básicas dos aspectos linguísticos. Relaciona, através da prática como componente curricular, os conhecimentos em Libras com atividades formativas que promovam experiências e reflexões próprias ao exercício da docência. 
+EMENTA:
 
-67 
+Segurança no laboratório de química. Toxicidade dos compostos e manipulação de resíduos. Propriedades físicas das espécies químicas. Materiais de laboratório: Calibração, nomenclaturas e aplicações. Erros e tratamentos de dados analíticos. Técnicas laboratoriais básicas. Métodos Físico-Químicos de Separação.
 
-**==> picture [472 x 55] intentionally omitted <==**
+BIBLIOGRAFIA BÁSICA:
 
-BIBLIOGRAFIA BÁSICA: 
+ATKINS, P.; JONES, L. **Princípios de Química** : Questionando a vida moderna e o meio ambiente. 5. ed. Porto Alegre: Editora Bookman, 2006.
 
-BRITO, L. F. **Por uma Gramática de Línguas de Sinais** . Rio de Janeiro: Tempo Brasileiro,1995. 
+BESSLER, K. E.; NEDER, A. V. F. **Química em Tubos de Ensaio** : uma abordagem para principiantes. 1. ed. São Paulo: E. Blucher, 2004.
 
-FERNANDES, S. **Educação de surdos.** Curitiba: InterSaberes, 2012. 
+BROWN, T. L.; LEMAY, H. E.; BURSTEN B. E. **Química** : a ciência central. 13. ed. São Paulo: Editora Pearson Education, 2017. LENZI, E.; _et al_ . **Química Geral Experimental** . Rio de Janeiro: Freitas Bastos, 2004. TRINDADE, D. F.; _et al_ . **Química Básica Experimental** . 3. ed. São Paulo: Ícone Editora, 2006. BIBLIOGRAFIA COMPLEMENTAR:
 
-CAPOVILLA, F. C. et al. **Dicionário da Língua de Sinais do Brasil:** a libras e suas mãos. São Paulo: EDUSP, 2017. 3 v. 
+CONSTATINO, M. G.; SILVA, G. V. J.; DONATE P. M. **Fundamentos De Química Experimental** . 2. ed. São Paulo: Edusp, 2004. KOTZ, J. C.; TREICHEL, P. WEAVER, G. C. **Química Geral e Reações Químicas** . 6. ed., v. 1. São Paulo: Cengage Learning, 2010. KOTZ, J. C.; TREICHEL, P. WEAVER, G. C. **Química Geral e Reações Químicas** . 6. ed., v. 2. São Paulo: Cengage Learning, 2010. MAHAN, B. M.; MYERS, R. J. **Química** : um curso universitário. 1. ed. São Paulo. Editora Edgard Blucher, 1995. RUSSEL, J. B. **Química Geral** . 2 **.** ed., v. 2. São Paulo: Pearson Makron Books, 2006.
 
-QUADROS, R. M.; KARNOPP, L. **Língua de Sinais Brasileira** : estudos lingüísticos. Porto Alegre: Artmed, 2004. 
+COMPONENTE CURRICULAR: Políticas educacionais e gestão escolar
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio EMENTA:
 
-LACERDA, C. B. F. de; SANTOS, Lara Ferreira dos (org.). **Tenho um aluno surdo, e agora?:** introdução à Libras e educação de surdos. 1. ed. São Carlos: EDUFSCAR, 2013. GESSER, A. **LIBRAS? Que Língua é essa?** 1. ed., São Paulo: Parábola Editorial, 2009. PEREIRA, M. C. C.; _et al_ . **LIBRAS Conhecimento Além dos Sinais** . 1. ed., São Paulo: Pearson Education – Br, 2011. 
+Conceitos básicos no campo das políticas públicas sociais e educacionais. A legislação educacional brasileira. O neoliberalismo e as políticas educacionais. O papel das agências internacionais na regulação das políticas educacionais. O processo de mercadorização da educação básica a partir dos anos de 1990. Gestão educacional e escolar. Políticas educacionais brasileiras de educação do campo. Política brasileira de Educação de Jovens e Adultos. BIBLIOGRAFIA BÁSICA:
 
-STROBEL, K.As imagens do outro sobre a cultura surda. 4. ed. Florianópolis: Ed. UFSC, 2018. 
+ANDREOTTI, A. L.; LOMBARDI, J. C.; MINTO, L. W. (Orgs.). História da Administração Escolar no Brasil - do Diretor ao Gestor. 2ª ed. São Paulo: Alínea. 2013.
 
-ZAMBONI, L. M. S. **Cientistas, jornalistas e a divulgação científica** : Subjetividade e heterogeneidade no discurso da divulgação científica. Campinas: Fapesp/Autores associados, 2001 . 
-
-COMPONENTE CURRICULAR: Introdução às práticas Laboratoriais 
-
-CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio 
-
-EMENTA: 
-
-Segurança no laboratório de química. Toxicidade dos compostos e manipulação de resíduos. Propriedades físicas das espécies químicas. Materiais de laboratório: Calibração, nomenclaturas e aplicações. Erros e tratamentos de dados analíticos. Técnicas laboratoriais básicas. Métodos Físico-Químicos de Separação. 
-
-BIBLIOGRAFIA BÁSICA: 
-
-ATKINS, P.; JONES, L. **Princípios de Química** : Questionando a vida moderna e o meio ambiente. 5. ed. Porto Alegre: Editora Bookman, 2006. 
-
-BESSLER, K. E.; NEDER, A. V. F. **Química em Tubos de Ensaio** : uma abordagem para principiantes. 1. ed. São Paulo: E. Blucher, 2004. 
-
-68 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-BROWN, T. L.; LEMAY, H. E.; BURSTEN B. E. **Química** : a ciência central. 13. ed. São Paulo: Editora Pearson Education, 2017. LENZI, E.; _et al_ . **Química Geral Experimental** . Rio de Janeiro: Freitas Bastos, 2004. TRINDADE, D. F.; _et al_ . **Química Básica Experimental** . 3. ed. São Paulo: Ícone Editora, 2006. BIBLIOGRAFIA COMPLEMENTAR: 
-
-CONSTATINO, M. G.; SILVA, G. V. J.; DONATE P. M. **Fundamentos De Química Experimental** . 2. ed. São Paulo: Edusp, 2004. KOTZ, J. C.; TREICHEL, P. WEAVER, G. C. **Química Geral e Reações Químicas** . 6. ed., v. 1. São Paulo: Cengage Learning, 2010. KOTZ, J. C.; TREICHEL, P. WEAVER, G. C. **Química Geral e Reações Químicas** . 6. ed., v. 2. São Paulo: Cengage Learning, 2010. MAHAN, B. M.; MYERS, R. J. **Química** : um curso universitário. 1. ed. São Paulo. Editora Edgard Blucher, 1995. RUSSEL, J. B. **Química Geral** . 2 **.** ed., v. 2. São Paulo: Pearson Makron Books, 2006. 
-
-COMPONENTE CURRICULAR: Políticas educacionais e gestão escolar 
-
-CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio EMENTA: 
-
-Conceitos básicos no campo das políticas públicas sociais e educacionais. A legislação educacional brasileira. O neoliberalismo e as políticas educacionais. O papel das agências internacionais na regulação das políticas educacionais. O processo de mercadorização da educação básica a partir dos anos de 1990. Gestão educacional e escolar. Políticas educacionais brasileiras de educação do campo. Política brasileira de Educação de Jovens e Adultos. BIBLIOGRAFIA BÁSICA: 
-
-ANDREOTTI, A. L.; LOMBARDI, J. C.; MINTO, L. W. (Orgs.). História da Administração Escolar no Brasil - do Diretor ao Gestor. 2ª ed. São Paulo: Alínea. 2013. 
-
-AZEVEDO, M. L. N. O novo regime fiscal: a retórica da intransigência, o constrangimento da oferta de bens públicos e o comprometimento do PNE 2014-2024. **Tópicos Educacionais** , Recife, v. 22, n. 1, jan/jun. 2016. Disponível em: https://periodicos.ufpe.br/revistas/topicoseducacionais/article/view/22442/18628. Acesso em: 18 maio 2022. 
-
-69 
-
-**==> picture [472 x 55] intentionally omitted <==**
+AZEVEDO, M. L. N. O novo regime fiscal: a retórica da intransigência, o constrangimento da oferta de bens públicos e o comprometimento do PNE 2014-2024. **Tópicos Educacionais** , Recife, v. 22, n. 1, jan/jun. 2016. Disponível em: https://periodicos.ufpe.br/revistas/topicoseducacionais/article/view/22442/18628. Acesso em: 18 maio 2022.
 
 |BALL, S. J.; MAINARDES, J. (orgs.).**Políticas educacionais**: questões e dilemas. São Paulo:|
 |---|
@@ -1603,479 +1288,421 @@ AZEVEDO, M. L. N. O novo regime fiscal: a retórica da intransigência, o constr
 |NOMA, A. K.; TOLEDO, C. A. A. (orgs.).**Políticas públicas e educação escolar no Brasil**.|
 |Maringá: EDUEM, 2017.|
 
+COMPONENTE CURRICULAR: História da Educação
 
+CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio
 
-70 
+## EMENTA:
 
-**==> picture [472 x 55] intentionally omitted <==**
+Sistemas educacionais para a manutenção das relações de dominação e poder nas sociedades da Antiguidade, Medievo e Modernidade. Principais correntes do pensamento pedagógico a partir da modernidade. História da Educação no Brasil.
 
-COMPONENTE CURRICULAR: História da Educação 
+BIBLIOGRAFIA BÁSICA:
 
-CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio 
+MANACORDA, M. A. **História da educação** : da Antiguidade aos nossos dias. 13. ed. São Paulo: Cortez, 2010.
 
-## EMENTA: 
+MÉSZÁROS, I. **A Educação para além do Capital** . São Paulo: Boitempo, 2008. ROMANELLI, O. O. **História da Educação no Brasil** . 36. ed. Petrópolis: Vozes, 2010. SAVIANI, D. **História das Ideias Pedagógicas no Brasil** . 3. ed. Campinas: Autores Associados, 2010.
 
-Sistemas educacionais para a manutenção das relações de dominação e poder nas sociedades da Antiguidade, Medievo e Modernidade. Principais correntes do pensamento pedagógico a partir da modernidade. História da Educação no Brasil. 
+SAVIANI, D.; LOMBARDI, J. C. (Orgs.). **História, educação e transformação** : Tendências e perspectivas para a educação pública no Brasil. São Paulo: Autores Associados, 2011.
 
-BIBLIOGRAFIA BÁSICA: 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-MANACORDA, M. A. **História da educação** : da Antiguidade aos nossos dias. 13. ed. São Paulo: Cortez, 2010. 
+ALTHUSSER, L. **Aparelhos ideológicos de Estado** . Rio de Janeiro: Graal, 1989. CECCON, C. _et al_ . **A vida na escola e a escola da vida** . Petrópolis: Vozes, 1982. MANACORDA, M. A. **Marx e a pedagogia moderna** . São Paulo: Cortez/Autores Associados, 1991.
 
-MÉSZÁROS, I. **A Educação para além do Capital** . São Paulo: Boitempo, 2008. ROMANELLI, O. O. **História da Educação no Brasil** . 36. ed. Petrópolis: Vozes, 2010. SAVIANI, D. **História das Ideias Pedagógicas no Brasil** . 3. ed. Campinas: Autores Associados, 2010. 
+LEFEBVRE, H. **Lógica formal/Lógica dialética** . Rio de Janeiro: Civilização Brasileira, 1975. LUZURIAGA, L. **História da educação e da Pedagogia** . São Paulo: Editora Nacional. 2001. SNYDERS, G. **Escola, classe e luta de classes** . Lisboa, Moraes, 1981.
 
-SAVIANI, D.; LOMBARDI, J. C. (Orgs.). **História, educação e transformação** : Tendências e perspectivas para a educação pública no Brasil. São Paulo: Autores Associados, 2011. 
+COMPONENTE CURRICULAR: Metodologia de Pesquisa
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio
 
-ALTHUSSER, L. **Aparelhos ideológicos de Estado** . Rio de Janeiro: Graal, 1989. CECCON, C. _et al_ . **A vida na escola e a escola da vida** . Petrópolis: Vozes, 1982. MANACORDA, M. A. **Marx e a pedagogia moderna** . São Paulo: Cortez/Autores Associados, 1991. 
+EMENTA:
 
-LEFEBVRE, H. **Lógica formal/Lógica dialética** . Rio de Janeiro: Civilização Brasileira, 1975. LUZURIAGA, L. **História da educação e da Pedagogia** . São Paulo: Editora Nacional. 2001. SNYDERS, G. **Escola, classe e luta de classes** . Lisboa, Moraes, 1981. 
+Diferenciar os tipos de conhecimentos. Ciência, Tecnologia e sociedade. Análise e produção de textos acadêmico-científicos. Orientações para elaboração dos principais gêneros: fichamento, resumo, relatório de pesquisa, resenha e artigo científico. Estrutura de um trabalho acadêmico. Normas da ABNT. Ética e pesquisa. Busca em banco de dados.
 
-COMPONENTE CURRICULAR: Metodologia de Pesquisa 
+BIBLIOGRAFIA BÁSICA:
 
-CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio 
+COLLINS, H.; EVANS, R. **Repensando a expertise** . Tradução Igor Antônio Lourenço da Silva. Belo Horizonte: Fabrefactum, 2010. 241 p.
 
-EMENTA: 
+COLLINS, H.; PINCH, T. **O Golem à solta:** o que você deveria saber sobre tecnologia. Belo Horizonte: Fabrefactum, 2010.
 
-71 
+ECO, Umberto. **Como se faz uma tese** . 17 ed. São Paulo: Perspectiva, 2002.
 
-**==> picture [472 x 55] intentionally omitted <==**
+LAKATOS, E. MARCONI, M. **Metodologia do trabalho científico.** São Paulo: Atlas, 1992. MOTA-ROTH, D.; HENDGES, G.R. **Produção textual na universidade.** São Paulo: Parábola, 2010. SERAFINI, M. T. **Como escrever textos** . 7 ed. São Paulo: Globo, 1996. SEVERINO, A. J. **Metodologia do Trabalho Científico** . 20 ed. São Paulo: Cortez, 1995.
 
-Diferenciar os tipos de conhecimentos. Ciência, Tecnologia e sociedade. Análise e produção de textos acadêmico-científicos. Orientações para elaboração dos principais gêneros: fichamento, resumo, relatório de pesquisa, resenha e artigo científico. Estrutura de um trabalho acadêmico. Normas da ABNT. Ética e pesquisa. Busca em banco de dados. 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-BIBLIOGRAFIA BÁSICA: 
+ALVES, R. **Filosofia da Ciência** : introdução aos jogos e suas regras. São Paulo: Brasiliense, 1981.
 
-COLLINS, H.; EVANS, R. **Repensando a expertise** . Tradução Igor Antônio Lourenço da Silva. Belo Horizonte: Fabrefactum, 2010. 241 p. 
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **Coletânea de normas técnicas** : elaboração de TCC, dissertação e teses. Rio de Janeiro: 2012. ASSOCIAÇÃO  BRASILEIRA  DE  NORMAS  TÉCNICAS. **NBR  6022** :  informação  e documentação: artigo em publicação periódica científica impressa: apresentação. Rio de Janeiro, 2003. ASSOCIAÇÃO  BRASILEIRA  DE  NORMAS  TÉCNICAS. **NBR  6023** :  informação  e documentação: referência: elaboração. Rio de Janeiro: 2018. ASSOCIAÇÃO  BRASILEIRA  DE  NORMAS  TÉCNICAS. **NBR  6024** :  informação  e documentação: numeração progressiva das seções de um documento. Rio de janeiro, 2012. ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **NBR 6027** : informação e documentação: sumário: apresentação. Rio de Janeiro, 2003. ASSOCIAÇÃO  BRASILEIRA  DE  NORMAS  TÉCNICAS. **NBR  6028** :  informação  e documentação: resumo: apresentação. Rio de Janeiro, 2003. ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **NBR 10520** : informação e documentação: citações em documentos: apresentação. Rio de Janeiro, 2002. ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **NBR 14724** : informação e documentação: trabalhos acadêmicos: apresentação. Rio de Janeiro, 2011. ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **NBR 15287:** informação e documentação: projetos de pesquisa: apresentação. Rio de Janeiro, 2011. CHALMERS, A. F. **O que é ciência afinal?** São Paulo: Brasiliense, 1993. GIL, Fernando (org.). **A ciência tal qual se faz** . Lisboa: Edições João Sá da Costa, 1999.
 
-COLLINS, H.; PINCH, T. **O Golem à solta:** o que você deveria saber sobre tecnologia. Belo Horizonte: Fabrefactum, 2010. 
+LARROSA, J. O ensaio e a escrita acadêmica. **Educação & Realidade** , Porto Alegre, v. 28, n. 2, p. 101-115, jul./dez. 2003.
 
-ECO, Umberto. **Como se faz uma tese** . 17 ed. São Paulo: Perspectiva, 2002. 
+LATOUR, Bruno. **Ciência em ação** : como seguir cientistas e engenheiros sociedade afora. Tradução Ivone Benedetti. São Paulo: UNESP, 2011. 440 p.
 
-LAKATOS, E. MARCONI, M. **Metodologia do trabalho científico.** São Paulo: Atlas, 1992. MOTA-ROTH, D.; HENDGES, G.R. **Produção textual na universidade.** São Paulo: Parábola, 2010. SERAFINI, M. T. **Como escrever textos** . 7 ed. São Paulo: Globo, 1996. SEVERINO, A. J. **Metodologia do Trabalho Científico** . 20 ed. São Paulo: Cortez, 1995. 
+MEDEIROS, J. B. **Redação científica** . São Paulo: Atlas, 2014.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+SILVA, A. C. T.; BELLINI, L. M. (org.). **Iniciação à ciência e à pesquisa** : a construção do conhecimento. Maringá: Eduem, 2009. (Formação de Professores – EaD, n. 36.
 
-ALVES, R. **Filosofia da Ciência** : introdução aos jogos e suas regras. São Paulo: Brasiliense, 1981. 
+## **2º SEMESTRE:**
 
-ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **Coletânea de normas técnicas** : elaboração de TCC, dissertação e teses. Rio de Janeiro: 2012. ASSOCIAÇÃO  BRASILEIRA  DE  NORMAS  TÉCNICAS. **NBR  6022** :  informação  e documentação: artigo em publicação periódica científica impressa: apresentação. Rio de Janeiro, 2003. ASSOCIAÇÃO  BRASILEIRA  DE  NORMAS  TÉCNICAS. **NBR  6023** :  informação  e documentação: referência: elaboração. Rio de Janeiro: 2018. ASSOCIAÇÃO  BRASILEIRA  DE  NORMAS  TÉCNICAS. **NBR  6024** :  informação  e documentação: numeração progressiva das seções de um documento. Rio de janeiro, 2012. ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **NBR 6027** : informação e documentação: sumário: apresentação. Rio de Janeiro, 2003. ASSOCIAÇÃO  BRASILEIRA  DE  NORMAS  TÉCNICAS. **NBR  6028** :  informação  e documentação: resumo: apresentação. Rio de Janeiro, 2003. ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **NBR 10520** : informação e documentação: citações em documentos: apresentação. Rio de Janeiro, 2002. ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **NBR 14724** : informação e documentação: trabalhos acadêmicos: apresentação. Rio de Janeiro, 2011. ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. **NBR 15287:** informação e documentação: projetos de pesquisa: apresentação. Rio de Janeiro, 2011. CHALMERS, A. F. **O que é ciência afinal?** São Paulo: Brasiliense, 1993. GIL, Fernando (org.). **A ciência tal qual se faz** . Lisboa: Edições João Sá da Costa, 1999. 
+COMPONENTE CURRICULAR: Matemática II
 
-72 
+CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio
 
-**==> picture [472 x 55] intentionally omitted <==**
+## EMENTA:
 
-LARROSA, J. O ensaio e a escrita acadêmica. **Educação & Realidade** , Porto Alegre, v. 28, n. 2, p. 101-115, jul./dez. 2003. 
+1. Funções Afins
 
-LATOUR, Bruno. **Ciência em ação** : como seguir cientistas e engenheiros sociedade afora. Tradução Ivone Benedetti. São Paulo: UNESP, 2011. 440 p. 
+2. Funções Quadráticas
 
-MEDEIROS, J. B. **Redação científica** . São Paulo: Atlas, 2014. 
+3. Funções Polinomiais
 
-SILVA, A. C. T.; BELLINI, L. M. (org.). **Iniciação à ciência e à pesquisa** : a construção do conhecimento. Maringá: Eduem, 2009. (Formação de Professores – EaD, n. 36. 
+4. Funções Exponenciais
 
-## **2º SEMESTRE:** 
+5. Funções Logarítmicas
 
-COMPONENTE CURRICULAR: Matemática II 
+6. Trigonometria e Funções Trigonométricas
 
-CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio 
+   - a. Relações métricas no triângulo retângulo
 
-## EMENTA: 
+   - b. Relações trigonométricas no triângulo retângulo
 
-1. Funções Afins 
+7. Funções Trigonométricas
 
-2. Funções Quadráticas 
+## BIBLIOGRAFIA BÁSICA:
 
-3. Funções Polinomiais 
+STEWART, J. Cálculo. 4. ed. São Paulo: Thomson Pioneira, 2017. v. 1. BOULOS, P. Pré-Cálculo. São Paulo: Pearson, 2001.
 
-4. Funções Exponenciais 
+GUIDORIZZI, H. L. Um curso de cálculo. 5. ed. Rio de Janeiro: LTC, 2001. v. 1. LEITHOLD, L. O cálculo com geometria analítica. 3. ed. São Paulo: Harbra, 1994. v.1.
 
-5. Funções Logarítmicas 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-6. Trigonometria e Funções Trigonométricas 
+IEZZI, Gelson; MURAKAMI, Carlos. Fundamentos de matemática elementar, v. 1: conjuntos e funções. 9. ed. São Paulo: Atual, 2013.
 
-   - a. Relações métricas no triângulo retângulo 
+IEZZI, G. Fundamentos de matemática elementar: logaritmos. 10. ed. São Paulo: Atual, 2013. v. 2.
 
-   - b. Relações trigonométricas no triângulo retângulo 
+IEZZI, G. Fundamentos de matemática elementar: trigonometria. 9. ed. São Paulo: Atual, 2013. v. 3.
 
-7. Funções Trigonométricas 
+GUIDORIZZI, H. L. Um curso de cálculo. 5. ed. Rio de Janeiro: LTC, 2001 v.2. SIMMONS, G. F. Cálculo com geometria analítica. São Paulo: Makron Books, 1988. v. 2. THOMAS, G. B. Cálculo. 12. ed. São Paulo: Prentice Hall, 2003. v. 2.
 
-## BIBLIOGRAFIA BÁSICA: 
+## COMPONENTE CURRICULAR: Física I
 
-STEWART, J. Cálculo. 4. ed. São Paulo: Thomson Pioneira, 2017. v. 1. BOULOS, P. Pré-Cálculo. São Paulo: Pearson, 2001. 
+CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio
 
-GUIDORIZZI, H. L. Um curso de cálculo. 5. ed. Rio de Janeiro: LTC, 2001. v. 1. LEITHOLD, L. O cálculo com geometria analítica. 3. ed. São Paulo: Harbra, 1994. v.1. 
+## EMENTA:
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+Sistemas de unidades. Análise dimensional. Teoria de erros. Vetores. Cinemática. Dinâmica e Leis de Newton. Trabalho e energia. Lei de conservação da energia. Impulso e momento linear. Sistemas de partículas. Colisões. Movimento de rotação. Conservação do momento angular. Atividades experimentais relacionadas aos conteúdos do componente curricular.
 
-IEZZI, Gelson; MURAKAMI, Carlos. Fundamentos de matemática elementar, v. 1: conjuntos e funções. 9. ed. São Paulo: Atual, 2013. 
+## BIBLIOGRAFIA BÁSICA:
 
-IEZZI, G. Fundamentos de matemática elementar: logaritmos. 10. ed. São Paulo: Atual, 2013. v. 2. 
+FINN, E. J.; ALONSO, M. **Física** : um curso universitário - Mecânica. 2. ed. São Paulo: E. Blücher, 2014.
 
-IEZZI, G. Fundamentos de matemática elementar: trigonometria. 9. ed. São Paulo: Atual, 2013. v. 3. 
+HALLIDAY, D.; RESNICK, R.; WALKER, J. **Fundamentos de Física** : Mecânica. 10. ed. Rio de Janeiro: LTC, 2016.
 
-73 
+NUSSENZVEIG, H. M. **Curso de Física Básica** : Mecânica. 5. ed. São Paulo: E. Blücher, 2013. SEARS, F. W.; ZEMANSKY, M. W.; FREEDMAN, R. A. **Física 1** - Mecânica. 14. ed. São Paulo: Pearson, 2016.
 
-**==> picture [472 x 55] intentionally omitted <==**
+TIPLER, P. A.; MOSCA, G. **Física** : para cientistas e engenheiros. 6. ed. Rio de Janeiro: LTC, 2009.
 
-GUIDORIZZI, H. L. Um curso de cálculo. 5. ed. Rio de Janeiro: LTC, 2001 v.2. SIMMONS, G. F. Cálculo com geometria analítica. São Paulo: Makron Books, 1988. v. 2. THOMAS, G. B. Cálculo. 12. ed. São Paulo: Prentice Hall, 2003. v. 2. 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-## COMPONENTE CURRICULAR: Física I 
+BARROS NETO, B.; SCARMINIO, I. S.; BRUNS, R. E. **Como fazer experimentos** : pesquisa e desenvolvimento na ciência e na indústria. 4. ed. Porto Alegre: Bookman, 2010.
 
-CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio 
+EVANGELISTA, L. R. **Perspectivas em História da Física** : dos Babilônios a síntese Newtoniana. Rio de Janeiro: Ciência Moderna, 2011.
 
-## EMENTA: 
+FEYNMAN, R. P.; LEIGHTON, R. B.; SANDS, M. L. **Feynman** : Lições de Física. Porto Alegre: Bookman, 2008.
 
-Sistemas de unidades. Análise dimensional. Teoria de erros. Vetores. Cinemática. Dinâmica e Leis de Newton. Trabalho e energia. Lei de conservação da energia. Impulso e momento linear. Sistemas de partículas. Colisões. Movimento de rotação. Conservação do momento angular. Atividades experimentais relacionadas aos conteúdos do componente curricular. 
+HEWITT, P. G. **Fundamentos de Física Conceitual** . 1. ed. Porto Alegre: Editora Bookman, 2008.
 
-## BIBLIOGRAFIA BÁSICA: 
+HEWITT, P. G. **Física Conceitual** . 12. ed. Porto Alegre: Editora Bookman, 2015. KNIGHT, R. D. **Física** : uma abordagem estratégica. 2 **.** ed. Porto Alegre: Bookman, 2009.
 
-FINN, E. J.; ALONSO, M. **Física** : um curso universitário - Mecânica. 2. ed. São Paulo: E. Blücher, 2014. 
+PERUZZO, J. **Experimentos de física básica** : mecânica. 1. ed. São Paulo: Livraria da Física, 2012.
 
-HALLIDAY, D.; RESNICK, R.; WALKER, J. **Fundamentos de Física** : Mecânica. 10. ed. Rio de Janeiro: LTC, 2016. 
+COMPONENTE CURRICULAR: Química Geral II
 
-NUSSENZVEIG, H. M. **Curso de Física Básica** : Mecânica. 5. ed. São Paulo: E. Blücher, 2013. SEARS, F. W.; ZEMANSKY, M. W.; FREEDMAN, R. A. **Física 1** - Mecânica. 14. ed. São Paulo: Pearson, 2016. 
+CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio
 
-TIPLER, P. A.; MOSCA, G. **Física** : para cientistas e engenheiros. 6. ed. Rio de Janeiro: LTC, 2009. 
+## EMENTA:
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+Soluções. Propriedades Coligativas das Soluções. Noções de Termoquímica e Cinética Química. Equilíbrio químico.
 
-BARROS NETO, B.; SCARMINIO, I. S.; BRUNS, R. E. **Como fazer experimentos** : pesquisa e desenvolvimento na ciência e na indústria. 4. ed. Porto Alegre: Bookman, 2010. 
+BIBLIOGRAFIA BÁSICA:
 
-EVANGELISTA, L. R. **Perspectivas em História da Física** : dos Babilônios a síntese Newtoniana. Rio de Janeiro: Ciência Moderna, 2011. 
+ATKINS, P. **Físico-Química** . 9. ed., v. 1. Rio de Janeiro: LTC, 2012. ATKINS, P. **Físico-Química** . 9. ed., v. 2. Rio de Janeiro: LTC, 2012.
 
-FEYNMAN, R. P.; LEIGHTON, R. B.; SANDS, M. L. **Feynman** : Lições de Física. Porto Alegre: Bookman, 2008. 
+ATKINS, P. **Físico-Química** . 9. ed., v. 3. Rio de Janeiro: LTC, 2012.
 
-HEWITT, P. G. **Fundamentos de Física Conceitual** . 1. ed. Porto Alegre: Editora Bookman, 2008. 
+BROWN, T. L.; LEMAY, H. E.; BURSTEN, B. E. **Química** : a ciência central. 13. ed. São Paulo: Editora Pearson Education, 2017.
 
-HEWITT, P. G. **Física Conceitual** . 12. ed. Porto Alegre: Editora Bookman, 2015. KNIGHT, R. D. **Física** : uma abordagem estratégica. 2 **.** ed. Porto Alegre: Bookman, 2009. 
+RUSSEL, J. B. **Química Geral** . 2. ed., v. 1. São Paulo: Pearson Makron Books, 2006.
 
-74 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-**==> picture [472 x 55] intentionally omitted <==**
+ATKINS, P.; JONES, L. **Princípios de Química** : Questionando a vida moderna e o meio ambiente. 5. ed. Porto Alegre: Bookman, 2006.
 
-PERUZZO, J. **Experimentos de física básica** : mecânica. 1. ed. São Paulo: Livraria da Física, 2012. 
+KOTZ, J. C.; TREICHEL, P.; WEAVER, G. C. **Química Geral e Reações Químicas** . 6. ed., v. 1. São Paulo: Cengage Learning, 2010.
 
-COMPONENTE CURRICULAR: Química Geral II 
+KOTZ, J. C.; TREICHEL, P. WEAVER, G. C. **Química Geral e Reações Químicas** . 6. ed., v. 2. São Paulo: Cengage Learning, 2010.
 
-CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio 
+MAHAN, B. M.; MYERS, R. J. **Química** : um curso universitário. 1. ed. São Paulo. Edgard Blucher, 1995.
 
-## EMENTA: 
+RUSSEL, J. B. **Química Geral.** 2. ed., v. 2. São Paulo: Pearson Makron Books, 2006.
 
-Soluções. Propriedades Coligativas das Soluções. Noções de Termoquímica e Cinética Química. Equilíbrio químico. 
+COMPONENTE CURRICULAR: Educação em Direitos Humanos
 
-BIBLIOGRAFIA BÁSICA: 
+CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio
 
-ATKINS, P. **Físico-Química** . 9. ed., v. 1. Rio de Janeiro: LTC, 2012. ATKINS, P. **Físico-Química** . 9. ed., v. 2. Rio de Janeiro: LTC, 2012. 
+## EMENTA:
 
-ATKINS, P. **Físico-Química** . 9. ed., v. 3. Rio de Janeiro: LTC, 2012. 
+Conceito de direitos humanos. Educação, direitos humanos e a formação para a cidadania. História dos direitos humanos e suas implicações para o campo educacional. Documentos nacionais e internacionais sobre educação em direitos humanos. A Declaração Universal dos Direitos Humanos. O Estatuto da Criança e do Adolescente. O Programa Nacional de Direitos Humanos. As Diretrizes Nacionais para a Educação em Direitos Humanos. Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista. BIBLIOGRAFIA BÁSICA:
 
-BROWN, T. L.; LEMAY, H. E.; BURSTEN, B. E. **Química** : a ciência central. 13. ed. São Paulo: Editora Pearson Education, 2017. 
+BRASIL. **Lei n. 8.069, de 13 de julho de 1990** . Dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências. 1990. Disponível em: <http://www.planalto.gov.br/ccivil_03/leis/L8069.htm>. Acesso em: 11 maio 2017. BRASIL. **Programa Nacional de Direitos Humanos (PNDH III)** . Brasília: SEED/PR, 2010. Disponível em: <http://www.sdh.gov.br/assuntos/direito-para-todos/programas/pdfs/programanacional-de-direitos-humanos-pndh-3>. Acesso em: 11 maio 2017. BRASIL. **Resolução n. 1 de 30 de maio de 2012** . Estabelece Diretrizes Nacionais para a Educação em Direitos Humanos. 2012. Disponível em: <http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=10889rcp001-12&category_slug=maio-2012-pdf&Itemid=30192>. Acesso em: 11 maio 2017. CANDAU, V. M. F. **Somos todos/as iguais?** Escola, discriminação e educação em direitos humanos. São Paulo: Lamparina, 2012. CANDAU, V. M. F.; PAULO, I. A.; ANDRADE, M.; LUCINDA, M. C.; SACAVINO, S. B.; AMORIM, V. (Orgs.). **Educação em Direitos Humanos e formação de professores(as)** . São Paulo: Cortez, 2013. ONU. ORGANIZAÇÃO MUNDIAL DAS NAÇÕES UNIDAS. **Declaração Universal dos Direitos Humanos** - 1948. 2000. Disponível em: <http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/por.pdf>. Acesso em: 30 abr. 2017. SILVEIRA, R. M. G.; DIAS, A. A.; FERREIRA, L. F. G.; FEITOSA, M. L. P. A.; MAYER Z. M. N. T. (Orgs.). **Educação em direitos humanos** : fundamentos teórico-metodológicos. Brasil: SEDH, 2010. p. 399-412. Disponível em: <http://www.cchla.ufpb.br/ncdh/wpcontent/uploads/2014/07/merged.compressed.pdf>. Acesso em: 11 maio 2017. BIBLIOGRAFIA COMPLEMENTAR: FONSECA, M. O Banco Mundial como referência para a justiça social no terceiro mundo: evidências do caso brasileiro. **Revista da Faculdade de Educação** , São Paulo, v. 24, n.1, p. 37-69, jan./jun.1998. Disponível em:
 
-RUSSEL, J. B. **Química Geral** . 2. ed., v. 1. São Paulo: Pearson Makron Books, 2006. 
+<http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-25551998000100004>. Acesso em: 10 maio 2017.
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+FROTA, M. **Políticas públicas internacionais e nacionais de educação em direitos humanos** : configuração e função social no contexto da crise estrutural do capital. 217 f. Dissertação (Mestrado em Educação) – Universidade Estadual de Maringá. Maringá, PR, 2014. Disponível em: <http://www.ppe.uem.br/dissertacoes/2014%20-%20Matheus.pdf>. Acesso em: 28 abr. 2017.
 
-ATKINS, P.; JONES, L. **Princípios de Química** : Questionando a vida moderna e o meio ambiente. 5. ed. Porto Alegre: Bookman, 2006. 
+NUNES, M. O. **O Plano Nacional de Educação em Direitos Humanos e a realidade da escola pública** . 2013, 118f. Dissertação (Mestrado em Educação) – Universidade Estadual de Londrina, Londrina, PR, 2013. Disponível em: <http://www.bibliotecadigital.uel.br/document/?code=vtls000183599>. Acesso em: 11 maio 2017.
 
-KOTZ, J. C.; TREICHEL, P.; WEAVER, G. C. **Química Geral e Reações Químicas** . 6. ed., v. 1. São Paulo: Cengage Learning, 2010. 
+OLIVEIRA, V. V. **Direitos humanos e suas justificativas na mídia** : a controvérsia envolvendo o PNDH-3. 2013, 177f. Dissertação (Mestrado em Comunicação Social) – Universidade Federal de Minas Gerais, Belo Horizonte, 2013. Disponível em: <http://www.compolitica.org/home/wpcontent/uploads/2013/05/Disserta%C3%A7%C3%A3o-Vanessa-Veiga.pdf>. Acesso em: 11 maio 2017.
 
-KOTZ, J. C.; TREICHEL, P. WEAVER, G. C. **Química Geral e Reações Químicas** . 6. ed., v. 2. São Paulo: Cengage Learning, 2010. 
+TONET, I. **Educação, cidadania e emancipação humana** . Ijuí: Unijuí, 2005. Disponível em: <http://ivotonet.xpg.uol.com.br/arquivos/EDUCACAO_CIDADANIA_E_EMANCIPACAO_HUM ANA.pdf>. Acesso em: 10 maio 2017.
 
-MAHAN, B. M.; MYERS, R. J. **Química** : um curso universitário. 1. ed. São Paulo. Edgard Blucher, 1995. 
+COMPONENTE CURRICULAR: Química Geral Experimental
 
-RUSSEL, J. B. **Química Geral.** 2. ed., v. 2. São Paulo: Pearson Makron Books, 2006. 
+CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio
 
-COMPONENTE CURRICULAR: Educação em Direitos Humanos 
+## EMENTA:
 
-75 
+Práticas laboratoriais relacionadas com os tópicos abordados nas disciplinas de Química Geral I e II. Relaciona, através da prática como componente curricular, os conhecimentos nas práticas Laboratoriais com atividades formativas que promovam experiências e reflexões próprias ao exercício da docência.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## BIBLIOGRAFIA BÁSICA:
 
-CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio 
+ATKINS, P. **Físico-Química.** 9. ed., v. 1. Rio de Janeiro: LTC, 2012. ATKINS, P. **Físico-Química.** 9. ed., v. 2. Rio de Janeiro: LTC, 2012. ATKINS, P. **Físico-Química.** 9. ed., v. 3. Rio de Janeiro: LTC, 2012.
 
-## EMENTA: 
+BROWN, T. L.; LEMAY, H. E.; BURSTEN, B. E. **Química** : a ciência central. 13. ed. São Paulo: Editora Pearson Education, 2017.
 
-Conceito de direitos humanos. Educação, direitos humanos e a formação para a cidadania. História dos direitos humanos e suas implicações para o campo educacional. Documentos nacionais e internacionais sobre educação em direitos humanos. A Declaração Universal dos Direitos Humanos. O Estatuto da Criança e do Adolescente. O Programa Nacional de Direitos Humanos. As Diretrizes Nacionais para a Educação em Direitos Humanos. Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista. BIBLIOGRAFIA BÁSICA: 
+LENZI, E.; _et al_ . **Química Geral Experimental** . Rio de Janeiro: Freitas Bastos, 2004.
 
-BRASIL. **Lei n. 8.069, de 13 de julho de 1990** . Dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências. 1990. Disponível em: <http://www.planalto.gov.br/ccivil_03/leis/L8069.htm>. Acesso em: 11 maio 2017. BRASIL. **Programa Nacional de Direitos Humanos (PNDH III)** . Brasília: SEED/PR, 2010. Disponível em: <http://www.sdh.gov.br/assuntos/direito-para-todos/programas/pdfs/programanacional-de-direitos-humanos-pndh-3>. Acesso em: 11 maio 2017. BRASIL. **Resolução n. 1 de 30 de maio de 2012** . Estabelece Diretrizes Nacionais para a Educação em Direitos Humanos. 2012. Disponível em: <http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=10889rcp001-12&category_slug=maio-2012-pdf&Itemid=30192>. Acesso em: 11 maio 2017. CANDAU, V. M. F. **Somos todos/as iguais?** Escola, discriminação e educação em direitos humanos. São Paulo: Lamparina, 2012. CANDAU, V. M. F.; PAULO, I. A.; ANDRADE, M.; LUCINDA, M. C.; SACAVINO, S. B.; AMORIM, V. (Orgs.). **Educação em Direitos Humanos e formação de professores(as)** . São Paulo: Cortez, 2013. ONU. ORGANIZAÇÃO MUNDIAL DAS NAÇÕES UNIDAS. **Declaração Universal dos Direitos Humanos** - 1948. 2000. Disponível em: <http://www.ohchr.org/EN/UDHR/Documents/UDHR_Translations/por.pdf>. Acesso em: 30 abr. 2017. SILVEIRA, R. M. G.; DIAS, A. A.; FERREIRA, L. F. G.; FEITOSA, M. L. P. A.; MAYER Z. M. N. T. (Orgs.). **Educação em direitos humanos** : fundamentos teórico-metodológicos. Brasil: SEDH, 2010. p. 399-412. Disponível em: <http://www.cchla.ufpb.br/ncdh/wpcontent/uploads/2014/07/merged.compressed.pdf>. Acesso em: 11 maio 2017. BIBLIOGRAFIA COMPLEMENTAR: FONSECA, M. O Banco Mundial como referência para a justiça social no terceiro mundo: evidências do caso brasileiro. **Revista da Faculdade de Educação** , São Paulo, v. 24, n.1, p. 37-69, jan./jun.1998. Disponível em: 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-76 
+ATKINS, P.; JONES, L. **Princípios de Química** : Questionando a vida moderna e o meio ambiente. 5. ed. Porto Alegre: Bookman, 2006.
 
-**==> picture [472 x 55] intentionally omitted <==**
+KOTZ, J. C.; TREICHEL, P. WEAVER, G. C. **Química Geral e Reações Químicas** . 6. ed., v. 1. São Paulo: Cengage Learning, 2010.
 
-<http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0102-25551998000100004>. Acesso em: 10 maio 2017. 
+KOTZ, J. C.; TREICHEL, P. WEAVER, G. C. **Química Geral e Reações Químicas** . 6. ed., v. 2. São Paulo: Cengage Learning, 2010.
 
-FROTA, M. **Políticas públicas internacionais e nacionais de educação em direitos humanos** : configuração e função social no contexto da crise estrutural do capital. 217 f. Dissertação (Mestrado em Educação) – Universidade Estadual de Maringá. Maringá, PR, 2014. Disponível em: <http://www.ppe.uem.br/dissertacoes/2014%20-%20Matheus.pdf>. Acesso em: 28 abr. 2017. 
+RUSSEL, J. B. **Química Geral** . 2. ed., v. 1. São Paulo: Pearson Makron Books, 2006. RUSSEL, J. B. **Química Geral** . 2. ed., v. 2, São Paulo: Pearson Makron Books, 2006.
 
-NUNES, M. O. **O Plano Nacional de Educação em Direitos Humanos e a realidade da escola pública** . 2013, 118f. Dissertação (Mestrado em Educação) – Universidade Estadual de Londrina, Londrina, PR, 2013. Disponível em: <http://www.bibliotecadigital.uel.br/document/?code=vtls000183599>. Acesso em: 11 maio 2017. 
+COMPONENTE CURRICULAR: Psicologia da Educação
 
-OLIVEIRA, V. V. **Direitos humanos e suas justificativas na mídia** : a controvérsia envolvendo o PNDH-3. 2013, 177f. Dissertação (Mestrado em Comunicação Social) – Universidade Federal de Minas Gerais, Belo Horizonte, 2013. Disponível em: <http://www.compolitica.org/home/wpcontent/uploads/2013/05/Disserta%C3%A7%C3%A3o-Vanessa-Veiga.pdf>. Acesso em: 11 maio 2017. 
+CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio
 
-TONET, I. **Educação, cidadania e emancipação humana** . Ijuí: Unijuí, 2005. Disponível em: <http://ivotonet.xpg.uol.com.br/arquivos/EDUCACAO_CIDADANIA_E_EMANCIPACAO_HUM ANA.pdf>. Acesso em: 10 maio 2017. 
+EMENTA:
 
-COMPONENTE CURRICULAR: Química Geral Experimental 
+História e fundamentos da Psicologia. Principais abordagens da Psicologia. As contribuições da Psicologia para a área da educação e seu papel para formação docente. Aprendizagem e desenvolvimento para as perspectivas: Psicanalítica, Humanista, Epistemologia Genética, Histórico-Cultural, Walloniana e Comportamental. Temas contemporâneos em Psicologia: gênero, raça, etnia e Gerontologia.
 
-CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio 
+BIBLIOGRAFIA BÁSICA:
 
-## EMENTA: 
+BOCK, A. M. B.; FURTADO, O.; TEIXEIRA, M. L. (org.). **Psicologia** : uma introdução ao estudo da psicologia. São Paulo: Saraiva, 2007.
 
-Práticas laboratoriais relacionadas com os tópicos abordados nas disciplinas de Química Geral I e II. Relaciona, através da prática como componente curricular, os conhecimentos nas práticas Laboratoriais com atividades formativas que promovam experiências e reflexões próprias ao exercício da docência. 
+DANTAS, H. A afetividade e a construção do sujeito na Psicogenética de Wallon. _In:_ Piaget, Vigotski, Wallon: teorias psicogenéticas em discussão. São Paulo: Summus, 1992.
 
-## BIBLIOGRAFIA BÁSICA: 
+FREUD, S. **O mal estar na civilização, novas conferências introdutórias à Psicanálise e outros textos** (1930-1936). São Paulo: Companhia das Letras, 2010. PIAGET, J. **Seis estudos de psicologia. São Paulo** : Forense, 2010.
 
-ATKINS, P. **Físico-Química.** 9. ed., v. 1. Rio de Janeiro: LTC, 2012. ATKINS, P. **Físico-Química.** 9. ed., v. 2. Rio de Janeiro: LTC, 2012. ATKINS, P. **Físico-Química.** 9. ed., v. 3. Rio de Janeiro: LTC, 2012. 
+PIAGET, J. **A representação do mundo na criança** . São Paulo: Ideias e letras, 2005.
 
-BROWN, T. L.; LEMAY, H. E.; BURSTEN, B. E. **Química** : a ciência central. 13. ed. São Paulo: Editora Pearson Education, 2017. 
+SKINNER, B. F. Tecnologia do ensino. Tradução de Rodolpho Azzi. São Paulo: Herder/EDUSP,1972.
 
-LENZI, E.; _et al_ . **Química Geral Experimental** . Rio de Janeiro: Freitas Bastos, 2004. 
+WALLON, H. **Psicologia e educação da criança** . Lisboa: Editorial Vega, 1979. VYGOTSKY, L. S. **A Formação Social da Mente** . 2. ed **.** Martins Fontes, 1988. VYGOTSKY, L. S. **Pensamento e Linguagem** . 4. ed. São Paulo: Martins Fontes, 1987.
 
-77 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-**==> picture [472 x 55] intentionally omitted <==**
+BECKER, F. **Educação e construção do conhecimento.** Porto Alegre: Penso, 2012.
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+CACHIONI, Meire; NERI, Anita Liberalesso. Educação e gerontologia: desafios e oportunidades. **Revista Brasileira de Ciências do Envelhecimento Humano** , Passo Fundo, v. 1, n. 1, p. 99-115, jan./jun. 2004.
 
-ATKINS, P.; JONES, L. **Princípios de Química** : Questionando a vida moderna e o meio ambiente. 5. ed. Porto Alegre: Bookman, 2006. 
+COSTA, C.S. Educação das relações étnico-raciais, educação escolar quilombola e educação escolar indígena na educação básica: especificidades e aproximações. **Educação e Fronteiras On-line** , Dourados, v.9, n.26, p. 128-140, maio/ago.2019.
 
-KOTZ, J. C.; TREICHEL, P. WEAVER, G. C. **Química Geral e Reações Químicas** . 6. ed., v. 1. São Paulo: Cengage Learning, 2010. 
+GALVÃO, I. **Henri Wallon:** uma concepção dialética do desenvolvimento infantil. Petrópolis: Vozes, 2000.
 
-KOTZ, J. C.; TREICHEL, P. WEAVER, G. C. **Química Geral e Reações Químicas** . 6. ed., v. 2. São Paulo: Cengage Learning, 2010. 
+GUACIRA, Lopes Louro. **Gênero, sexualidade e educação:** uma perspectiva pós estruturalista. Petrópolis: Vozes, 2004.
 
-RUSSEL, J. B. **Química Geral** . 2. ed., v. 1. São Paulo: Pearson Makron Books, 2006. RUSSEL, J. B. **Química Geral** . 2. ed., v. 2, São Paulo: Pearson Makron Books, 2006. 
+INHELDER, B.; PIAGET, J. **Da lógica da criança à lógica do adolescente.** São Paulo: Pioneira, 1976.
 
-COMPONENTE CURRICULAR: Psicologia da Educação 
+KUFLER, M. C. **Freud e a educação** : o mestre do impossível. São Paulo: Scipione, 1989. MACEDO, L. **Ensaios construtivistas.** São Paulo: Casa do Psicólogo, 1994.
 
-CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio 
+NEGREIROS, D.F. Educação das relações étnico-raciais: análise da formação de docentes por meio dos programas Uniafro e Africanidades. **Revista Planejamento e Políticas Públicas** , Brasília, v.1, n.48, p. 81-105, jan./jun. 2017.
 
-EMENTA: 
+PIAGET, J. **O juízo moral na criança.** São Paulo: Summus, 1994.
 
-História e fundamentos da Psicologia. Principais abordagens da Psicologia. As contribuições da Psicologia para a área da educação e seu papel para formação docente. Aprendizagem e desenvolvimento para as perspectivas: Psicanalítica, Humanista, Epistemologia Genética, Histórico-Cultural, Walloniana e Comportamental. Temas contemporâneos em Psicologia: gênero, raça, etnia e Gerontologia. 
+SKINNER, B.F. **Sobre o Behavorismo.** São Paulo: Cultrix, 1990.
 
-BIBLIOGRAFIA BÁSICA: 
+VYGOTSKY, L. S.; LURIA, A. R.; LEONTIEV, A. N. **Linguagem, desenvolvimento e aprendizagem** . 5. ed. São Paulo: Icone,1994.
 
-BOCK, A. M. B.; FURTADO, O.; TEIXEIRA, M. L. (org.). **Psicologia** : uma introdução ao estudo da psicologia. São Paulo: Saraiva, 2007. 
+## **3º SEMESTRE:**
 
-DANTAS, H. A afetividade e a construção do sujeito na Psicogenética de Wallon. _In:_ Piaget, Vigotski, Wallon: teorias psicogenéticas em discussão. São Paulo: Summus, 1992. 
+## COMPONENTE CURRICULAR: Matemática III
 
-FREUD, S. **O mal estar na civilização, novas conferências introdutórias à Psicanálise e outros textos** (1930-1936). São Paulo: Companhia das Letras, 2010. PIAGET, J. **Seis estudos de psicologia. São Paulo** : Forense, 2010. 
+CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio
 
-PIAGET, J. **A representação do mundo na criança** . São Paulo: Ideias e letras, 2005. 
+EMENTA:
 
-SKINNER, B. F. Tecnologia do ensino. Tradução de Rodolpho Azzi. São Paulo: Herder/EDUSP,1972. 
+1. Intervalos da reta
 
-WALLON, H. **Psicologia e educação da criança** . Lisboa: Editorial Vega, 1979. VYGOTSKY, L. S. **A Formação Social da Mente** . 2. ed **.** Martins Fontes, 1988. VYGOTSKY, L. S. **Pensamento e Linguagem** . 4. ed. São Paulo: Martins Fontes, 1987. 
+2. Limites
 
-78 
+   - a. Definição
 
-**==> picture [472 x 55] intentionally omitted <==**
+   - b. Propriedades dos Limites
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+   - c. Limites laterais
 
-BECKER, F. **Educação e construção do conhecimento.** Porto Alegre: Penso, 2012. 
+   - d. Cálculo de Limites
 
-CACHIONI, Meire; NERI, Anita Liberalesso. Educação e gerontologia: desafios e oportunidades. **Revista Brasileira de Ciências do Envelhecimento Humano** , Passo Fundo, v. 1, n. 1, p. 99-115, jan./jun. 2004. 
+   - e. Limites no Infinito
 
-COSTA, C.S. Educação das relações étnico-raciais, educação escolar quilombola e educação escolar indígena na educação básica: especificidades e aproximações. **Educação e Fronteiras On-line** , Dourados, v.9, n.26, p. 128-140, maio/ago.2019. 
+   - f. limites infinitos
 
-GALVÃO, I. **Henri Wallon:** uma concepção dialética do desenvolvimento infantil. Petrópolis: Vozes, 2000. 
+   - g. Limites Fundamentais
 
-GUACIRA, Lopes Louro. **Gênero, sexualidade e educação:** uma perspectiva pós estruturalista. Petrópolis: Vozes, 2004. 
+3. Continuidade
 
-INHELDER, B.; PIAGET, J. **Da lógica da criança à lógica do adolescente.** São Paulo: Pioneira, 1976. 
+4. Derivadas
 
-KUFLER, M. C. **Freud e a educação** : o mestre do impossível. São Paulo: Scipione, 1989. MACEDO, L. **Ensaios construtivistas.** São Paulo: Casa do Psicólogo, 1994. 
+   - a. Definição
 
-NEGREIROS, D.F. Educação das relações étnico-raciais: análise da formação de docentes por meio dos programas Uniafro e Africanidades. **Revista Planejamento e Políticas Públicas** , Brasília, v.1, n.48, p. 81-105, jan./jun. 2017. 
+   - b. Interpretação Geométrica e Física das derivadas
 
-PIAGET, J. **O juízo moral na criança.** São Paulo: Summus, 1994. 
+   - c. Regras de Derivação
 
-SKINNER, B.F. **Sobre o Behavorismo.** São Paulo: Cultrix, 1990. 
+   - d. Derivadas de Funções
 
-VYGOTSKY, L. S.; LURIA, A. R.; LEONTIEV, A. N. **Linguagem, desenvolvimento e aprendizagem** . 5. ed. São Paulo: Icone,1994. 
+   - e. Derivadas sucessivas
 
-## **3º SEMESTRE:** 
+   - f. aplicações das derivadas: Máximos e Mínimos
 
-## COMPONENTE CURRICULAR: Matemática III 
+   - g. Regra de L’Hospital
 
-CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio 
+## BIBLIOGRAFIA BÁSICA:
 
-EMENTA: 
+GUIDORIZZI, H. L. Um curso de cálculo. 5. ed. Rio de Janeiro: LTC, 2001. v. 1.
 
-1. Intervalos da reta 
+LIMA, E. L. Análise real: volume 1: funções de uma variável . 12. ed. Rio de Janeiro: IMPA, 2018.
 
-2. Limites 
+LEITHOLD, L. O cálculo com geometria analítica. 3. ed. São Paulo: Harbra, 1994. v. 1. STEWART, J. Cálculo. 8. ed. São Paulo: Thomson Pioneira, 2017. v. 1.
 
-   - a. Definição 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-   - b. Propriedades dos Limites 
+ANTON, H., BIVENS, I.; DAVIS, S. Cálculo. 10. ed. Porto Alegre: Bookman, 2014. v. 1. FLEMMING, D. M. Cálculo A: funções, limite, derivação, integração. 6. ed. São Paulo: Pearson Prentice Hall, 2006.
 
-   - c. Limites laterais 
+SIMMONS, G. F. Cálculo com geometria analítica. São Paulo: Pearson Makron Books, 1988. v. 1.
 
-   - d. Cálculo de Limites 
+THOMAS, G. B. Cálculo. 12. ed. São Paulo: Prentice Hall, 2012. v. 1.
 
-   - e. Limites no Infinito 
+## COMPONENTE CURRICULAR: Física II
 
-79 
+CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio
 
-**==> picture [472 x 55] intentionally omitted <==**
+## EMENTA:
 
-   - f. limites infinitos 
+Gravitação. Oscilações. Ondas mecânicas. Temperatura. Mecânica dos fluidos primeira lei da termodinâmica. Teoria cinética dos gases. Segunda lei da termodinâmica. Máquinas Térmicas. Entropia. Atividades experimentais relacionadas aos conteúdos do componente curricular.
 
-   - g. Limites Fundamentais 
+## BIBLIOGRAFIA BÁSICA:
 
-3. Continuidade 
+HALLIDAY, D.; RESNICK, R.; WALKER, J. **Fundamentos de Física** : Gravitação, Ondas, Termodinâmica. 10. ed., v. 2. Rio de Janeiro: LTC, 2016. HALLIDAY, D.; RESNICK, R.; WALKER, J. **Fundamentos de Física** : Óptica e Física Moderna **.** 10. ed., v. 4. Rio de Janeiro: Editora LTC, 2016. NUSSENZVEIG, H. M. **Curso de Física Básica** : Mecânica. 5. ed., v. 1. São Paulo: E. Blücher, 2013. NUSSENZVEIG, H. M. **Curso de Física Básica** : Fluidos, Oscilações e Ondas, Calor. 5. ed., v. 2. São Paulo: E. Blücher, 2014. TIPLER, P. A.; MOSCA, G. **Física** : para cientistas e engenheiros. 6. ed., v. 1. Rio de Janeiro: LTC, 2009. BIBLIOGRAFIA COMPLEMENTAR: FEYNMAN, R. P.; LEIGHTON, R. B.; SANDS, M. L. **Feynman** : Lições de Física. v. 1. Porto Alegre: Bookman, 2008. FINN, E. J.; ALONSO, M. **Física** : um curso universitário – Campos e ondas. 2. ed., v. 2. São Paulo: E. Blücher, 2014. HEWITT, P. G. **Física Conceitual** . 12. ed. Porto Alegre: Bookman, 2015. KNIGHT, R. D. **Física** : uma abordagem estratégica. 2. ed., v. 1. Porto Alegre: Bookman, 2009. SANTORO, A. et al. **Estimativas e erros em experimentos de física** . 3. ed. Rio de Janeiro: EDUERJ, 2013.
 
-4. Derivadas 
+SEARS, F. W.; ZEMANSKY, M. W.; FREEDMAN, R. A. **Física 2** : Termodinâmica e Ondas. 14 **.** ed., v. 2. São Paulo: Editora Pearson, 2016.
 
-   - a. Definição 
+## COMPONENTE CURRICULAR: Química Inorgânica I
 
-   - b. Interpretação Geométrica e Física das derivadas 
+CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio
 
-   - c. Regras de Derivação 
+## EMENTA:
 
-   - d. Derivadas de Funções 
+Tabela periódica: Propriedades, ligações e reatividade dos compostos dos elementos de transição. Características principais dos elementos. Nomenclatura de compostos inorgânicos. Estudo dos elementos representativos e demais grupos: constantes físicas, estado natural, obtenção, propriedades químicas e físicas, aplicação dos principais compostos. Química ácidobase.
 
-   - e. Derivadas sucessivas 
+BIBLIOGRAFIA BÁSICA:
 
-   - f. aplicações das derivadas: Máximos e Mínimos 
+CANHAM, G. R.; OVERTON, T. **Química Inorgânica Descritiva** . 5. ed. Rio de Janeiro: LTC, 2015.
 
-   - g. Regra de L’Hospital 
+FAZZIO, A.; WATARI, K. **Introdução à teoria de grupos com aplicações em moléculas e sólidos** . 1. ed. Santa Maria: UFSM, 2009.
 
-## BIBLIOGRAFIA BÁSICA: 
+LEE, J. D. **Química Inorgânica Não Tão Concisa** . 5. ed. São Paulo: Edgar Blücher, 2003. ROGERS, G. E. **Química Inorgânica Descritiva, de Coordenação e do Estado Sólido** . 1. ed. São Paulo: Cengage, 2017.
 
-GUIDORIZZI, H. L. Um curso de cálculo. 5. ed. Rio de Janeiro: LTC, 2001. v. 1. 
+SHRIVER, D.; ATKINS, P. **Química inorgânica** . 4. ed. Porto Alegre: Bookman, 2008.
 
-LIMA, E. L. Análise real: volume 1: funções de uma variável . 12. ed. Rio de Janeiro: IMPA, 2018. 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-LEITHOLD, L. O cálculo com geometria analítica. 3. ed. São Paulo: Harbra, 1994. v. 1. STEWART, J. Cálculo. 8. ed. São Paulo: Thomson Pioneira, 2017. v. 1. 
+BROWN, T. L.; LEMAY, H. E.; BURSTEN, B. E. **Química** : a ciência central. 13. ed. São Paulo: Pearson Education, 2017.
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+DUPONT, J. **Química organometálica** : elementos do bloco d. São Paulo: Bookman, 2005. FARIAS, R. F. **Práticas de Química Inorgânica** . 4. ed. Campinas: Alinea Átomo, 2013. HOUSECROFT, C. E. **Química Inorgânica** . 4. ed., v. 1. Rio de Janeiro: LTC, 2013. RUSSEL, J. B. **Química Geral** . 2. ed., v. 1. São Paulo: Pearson Makron Books, 2006.
 
-ANTON, H., BIVENS, I.; DAVIS, S. Cálculo. 10. ed. Porto Alegre: Bookman, 2014. v. 1. FLEMMING, D. M. Cálculo A: funções, limite, derivação, integração. 6. ed. São Paulo: Pearson Prentice Hall, 2006. 
+COMPONENTE CURRICULAR: História e Filosofia da Ciência
 
-SIMMONS, G. F. Cálculo com geometria analítica. São Paulo: Pearson Makron Books, 1988. v. 1. 
+CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio
 
-THOMAS, G. B. Cálculo. 12. ed. São Paulo: Prentice Hall, 2012. v. 1. 
+## EMENTA:
 
-## COMPONENTE CURRICULAR: Física II 
+Definições de ciência e método científico. As concepções racionalistas e empiristas de ciência: da antiguidade à modernidade. Compreensão histórica e filosófica da Revolução Científica. Concepções de objetividade e experiência. Teorias sobre o progresso da ciência. Ruptura e continuidade na história da ciência.
 
-CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio 
+## BIBLIOGRAFIA BÁSICA:
 
-## EMENTA: 
+ALVES, R. **Filosofia da ciência** : introdução ao jogo e suas regras. 10. ed. São Paulo: Loyola, 2005.
 
-Gravitação. Oscilações. Ondas mecânicas. Temperatura. Mecânica dos fluidos primeira lei da termodinâmica. Teoria cinética dos gases. Segunda lei da termodinâmica. Máquinas Térmicas. Entropia. Atividades experimentais relacionadas aos conteúdos do componente curricular. 
+ARAUJO, I. L. **Introdução à filosofia da ciência** . 3. ed. Curitiba: UFPR, 2010. ARISTÓTELES. **Metafísica** . 2. ed. São Paulo: Edipro, 2012.
 
-80 
+DESCARTES, R. **Discurso do método** . 4. ed. São Paulo: Martins Fontes, 2009. KUHN, T. **Estrutura das revoluções científicas** . 5. ed. São Paulo: Perspectiva, 2000.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-## BIBLIOGRAFIA BÁSICA: 
+BRAGA, M.; GUERRA, A.; REIS, J. C. **Breve história da ciência moderna** : A belle-époque da ciência. 2. ed. Rio de Janeiro: Jorge Zahar, 2011.
 
-HALLIDAY, D.; RESNICK, R.; WALKER, J. **Fundamentos de Física** : Gravitação, Ondas, Termodinâmica. 10. ed., v. 2. Rio de Janeiro: LTC, 2016. HALLIDAY, D.; RESNICK, R.; WALKER, J. **Fundamentos de Física** : Óptica e Física Moderna **.** 10. ed., v. 4. Rio de Janeiro: Editora LTC, 2016. NUSSENZVEIG, H. M. **Curso de Física Básica** : Mecânica. 5. ed., v. 1. São Paulo: E. Blücher, 2013. NUSSENZVEIG, H. M. **Curso de Física Básica** : Fluidos, Oscilações e Ondas, Calor. 5. ed., v. 2. São Paulo: E. Blücher, 2014. TIPLER, P. A.; MOSCA, G. **Física** : para cientistas e engenheiros. 6. ed., v. 1. Rio de Janeiro: LTC, 2009. BIBLIOGRAFIA COMPLEMENTAR: FEYNMAN, R. P.; LEIGHTON, R. B.; SANDS, M. L. **Feynman** : Lições de Física. v. 1. Porto Alegre: Bookman, 2008. FINN, E. J.; ALONSO, M. **Física** : um curso universitário – Campos e ondas. 2. ed., v. 2. São Paulo: E. Blücher, 2014. HEWITT, P. G. **Física Conceitual** . 12. ed. Porto Alegre: Bookman, 2015. KNIGHT, R. D. **Física** : uma abordagem estratégica. 2. ed., v. 1. Porto Alegre: Bookman, 2009. SANTORO, A. et al. **Estimativas e erros em experimentos de física** . 3. ed. Rio de Janeiro: EDUERJ, 2013. 
+CHAUÍ, M. **Convite à Filosofia** . São Paulo: Ática, 2015.
 
-SEARS, F. W.; ZEMANSKY, M. W.; FREEDMAN, R. A. **Física 2** : Termodinâmica e Ondas. 14 **.** ed., v. 2. São Paulo: Editora Pearson, 2016. 
+DURANT, W. **A história da Filosofia** . (Coleção Os Pensadores). São Paulo: Nova Cultural, 1996.
 
-## COMPONENTE CURRICULAR: Química Inorgânica I 
+FEYERABEND, P. **Contra o método** . 2. ed. São Paulo: Unesp, 2011.
 
-CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio 
+POPPER, K. **A lógica da pesquisa científica** . 2. ed. São Paulo: Cultrix, 2013. RUSSELL, B. **Os problemas da filosofia** . Lisboa: Edições 70, 2008.
 
-## EMENTA: 
+COMPONENTE CURRICULAR: Metodologia e Prática de Ensino de Química
 
-Tabela periódica: Propriedades, ligações e reatividade dos compostos dos elementos de transição. Características principais dos elementos. Nomenclatura de compostos inorgânicos. Estudo dos elementos representativos e demais grupos: constantes físicas, estado natural, obtenção, propriedades químicas e físicas, aplicação dos principais compostos. Química ácidobase. 
+CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio
 
-BIBLIOGRAFIA BÁSICA: 
+## EMENTA:
 
-81 
+Contribuições das pesquisas em ensino de ciências. Perspectivas atuais para o ensino de química. Questões sociocientíficas. Contextualização. Interdisciplinaridade. Abordagem CTSA (Ciência, Tecnologia, Sociedade e Ambiente). Alfabetização científica e tecnológica. Abordagens metodológicas para o ensino de química: Três Momentos Pedagógicos; Oficinas Temáticas; Sequências Didáticas; Situação de Estudo.
 
-**==> picture [472 x 55] intentionally omitted <==**
+BIBLIOGRAFIA BÁSICA:
 
-CANHAM, G. R.; OVERTON, T. **Química Inorgânica Descritiva** . 5. ed. Rio de Janeiro: LTC, 2015. 
+LOPES, J. G. S. **Reflexões Sobre Formação de Professores e Educação Química** . 1. ed., São Paulo: Livraria da Física, 2015.
 
-FAZZIO, A.; WATARI, K. **Introdução à teoria de grupos com aplicações em moléculas e sólidos** . 1. ed. Santa Maria: UFSM, 2009. 
+GRUPO DE PESQUISA EM EDUCAÇÃO QUÍMICA. **Interações e transformações IV** : Guia do Professor. 5. ed., São Paulo: EDUSP, 2008.
 
-LEE, J. D. **Química Inorgânica Não Tão Concisa** . 5. ed. São Paulo: Edgar Blücher, 2003. ROGERS, G. E. **Química Inorgânica Descritiva, de Coordenação e do Estado Sólido** . 1. ed. São Paulo: Cengage, 2017. 
+MALDANER, O. A. **A formação Inicial e Continuada de Professores de química** . Professores/Pesquisadores. 3. ed., Ijuí: Ijuí: UNIJUÍ, 2006.
 
-SHRIVER, D.; ATKINS, P. **Química inorgânica** . 4. ed. Porto Alegre: Bookman, 2008. 
+NETO, B. B. **Como fazer experimentos** : Aplicações na ciência e na indústria. 4. ed., Porto Alegre: Bookman Companhia, 2010.
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+SANTOS, W. L. P.; SCHNETZLER, R. P. **Educação em Química** : Compromisso com a cidadania. 3. ed., Ijuí: Ijuí: UNIJUÍ, 2000. 144 p
 
-BROWN, T. L.; LEMAY, H. E.; BURSTEN, B. E. **Química** : a ciência central. 13. ed. São Paulo: Pearson Education, 2017. 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-DUPONT, J. **Química organometálica** : elementos do bloco d. São Paulo: Bookman, 2005. FARIAS, R. F. **Práticas de Química Inorgânica** . 4. ed. Campinas: Alinea Átomo, 2013. HOUSECROFT, C. E. **Química Inorgânica** . 4. ed., v. 1. Rio de Janeiro: LTC, 2013. RUSSEL, J. B. **Química Geral** . 2. ed., v. 1. São Paulo: Pearson Makron Books, 2006. 
+GALIAZZI, M. C. **Educar pela pesquisa** : Ambiente de Formação. 1. ed. Ijuí: Unijuí, 2011.
 
-COMPONENTE CURRICULAR: História e Filosofia da Ciência 
+GRUPO DE PESQUISA EM EDUCAÇÃO QUÍMICA. **Interações e Tranformações II – Reelaborando conceitos sobre transformações químicas – química e sobrevivência** . 1. ed., São Paulo: EDUSP, 2011.
 
-CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio 
+LUDKE, M.; ANDRÉ, M. E. D. A. **Pesquisa em Educação** : Abordagens Qualitativas. 8. ed., São Paulo: EPU, 1981. 99p.
 
-## EMENTA: 
+LEITE, L. S. **Tecnologia Educacional** . 7. ed., São Paulo: Vozes, 2011.
 
-Definições de ciência e método científico. As concepções racionalistas e empiristas de ciência: da antiguidade à modernidade. Compreensão histórica e filosófica da Revolução Científica. Concepções de objetividade e experiência. Teorias sobre o progresso da ciência. Ruptura e continuidade na história da ciência. 
+VASCONCELLOS, C. S. **Construção do conhecimento em sala de aula** . 10. ed., São Paulo: Libertad, 2000.
 
-## BIBLIOGRAFIA BÁSICA: 
+## COMPONENTE CURRICULAR: Didática
 
-ALVES, R. **Filosofia da ciência** : introdução ao jogo e suas regras. 10. ed. São Paulo: Loyola, 2005. 
+CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio
 
-ARAUJO, I. L. **Introdução à filosofia da ciência** . 3. ed. Curitiba: UFPR, 2010. ARISTÓTELES. **Metafísica** . 2. ed. São Paulo: Edipro, 2012. 
+## EMENTA:
 
-DESCARTES, R. **Discurso do método** . 4. ed. São Paulo: Martins Fontes, 2009. KUHN, T. **Estrutura das revoluções científicas** . 5. ed. São Paulo: Perspectiva, 2000. 
-
-82 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-## BIBLIOGRAFIA COMPLEMENTAR: 
-
-BRAGA, M.; GUERRA, A.; REIS, J. C. **Breve história da ciência moderna** : A belle-époque da ciência. 2. ed. Rio de Janeiro: Jorge Zahar, 2011. 
-
-CHAUÍ, M. **Convite à Filosofia** . São Paulo: Ática, 2015. 
-
-DURANT, W. **A história da Filosofia** . (Coleção Os Pensadores). São Paulo: Nova Cultural, 1996. 
-
-FEYERABEND, P. **Contra o método** . 2. ed. São Paulo: Unesp, 2011. 
-
-POPPER, K. **A lógica da pesquisa científica** . 2. ed. São Paulo: Cultrix, 2013. RUSSELL, B. **Os problemas da filosofia** . Lisboa: Edições 70, 2008. 
-
-COMPONENTE CURRICULAR: Metodologia e Prática de Ensino de Química 
-
-CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio 
-
-## EMENTA: 
-
-Contribuições das pesquisas em ensino de ciências. Perspectivas atuais para o ensino de química. Questões sociocientíficas. Contextualização. Interdisciplinaridade. Abordagem CTSA (Ciência, Tecnologia, Sociedade e Ambiente). Alfabetização científica e tecnológica. Abordagens metodológicas para o ensino de química: Três Momentos Pedagógicos; Oficinas Temáticas; Sequências Didáticas; Situação de Estudo. 
-
-BIBLIOGRAFIA BÁSICA: 
-
-LOPES, J. G. S. **Reflexões Sobre Formação de Professores e Educação Química** . 1. ed., São Paulo: Livraria da Física, 2015. 
-
-GRUPO DE PESQUISA EM EDUCAÇÃO QUÍMICA. **Interações e transformações IV** : Guia do Professor. 5. ed., São Paulo: EDUSP, 2008. 
-
-MALDANER, O. A. **A formação Inicial e Continuada de Professores de química** . Professores/Pesquisadores. 3. ed., Ijuí: Ijuí: UNIJUÍ, 2006. 
-
-NETO, B. B. **Como fazer experimentos** : Aplicações na ciência e na indústria. 4. ed., Porto Alegre: Bookman Companhia, 2010. 
-
-SANTOS, W. L. P.; SCHNETZLER, R. P. **Educação em Química** : Compromisso com a cidadania. 3. ed., Ijuí: Ijuí: UNIJUÍ, 2000. 144 p 
-
-## BIBLIOGRAFIA COMPLEMENTAR: 
-
-GALIAZZI, M. C. **Educar pela pesquisa** : Ambiente de Formação. 1. ed. Ijuí: Unijuí, 2011. 
-
-83 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-GRUPO DE PESQUISA EM EDUCAÇÃO QUÍMICA. **Interações e Tranformações II – Reelaborando conceitos sobre transformações químicas – química e sobrevivência** . 1. ed., São Paulo: EDUSP, 2011. 
-
-LUDKE, M.; ANDRÉ, M. E. D. A. **Pesquisa em Educação** : Abordagens Qualitativas. 8. ed., São Paulo: EPU, 1981. 99p. 
-
-LEITE, L. S. **Tecnologia Educacional** . 7. ed., São Paulo: Vozes, 2011. 
-
-VASCONCELLOS, C. S. **Construção do conhecimento em sala de aula** . 10. ed., São Paulo: Libertad, 2000. 
-
-## COMPONENTE CURRICULAR: Didática 
-
-CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio 
-
-## EMENTA: 
-
-Pressupostos teóricos, históricos, filosóficos e sociais da Didática. O contexto educacional/educação e sociedade emergente. Conceitos do ensinar e do aprender. Ensino e tendências pedagógicas. Dimensões político-sociais, técnicas e humanas da Didática e suas implicações no processo de ensino e aprendizagem. A didática e seus elementos metodológicos: suas determinações filosóficas, epistemológicas e psicológicas. A organização do ensino: planejamentos e sistematizações. Relação entre os conteúdos, objetivos, procedimentos metodológicos e avaliação no processo de ensino e de aprendizagem. Os princípios unificadores do trabalho docente: Teoria/Prática; Unidade Conteúdo/sujeito/forma. BIBLIOGRAFIA BÁSICA: 
+Pressupostos teóricos, históricos, filosóficos e sociais da Didática. O contexto educacional/educação e sociedade emergente. Conceitos do ensinar e do aprender. Ensino e tendências pedagógicas. Dimensões político-sociais, técnicas e humanas da Didática e suas implicações no processo de ensino e aprendizagem. A didática e seus elementos metodológicos: suas determinações filosóficas, epistemológicas e psicológicas. A organização do ensino: planejamentos e sistematizações. Relação entre os conteúdos, objetivos, procedimentos metodológicos e avaliação no processo de ensino e de aprendizagem. Os princípios unificadores do trabalho docente: Teoria/Prática; Unidade Conteúdo/sujeito/forma. BIBLIOGRAFIA BÁSICA:
 
 |ABRANTES, A. A.; MARTINS, L. M.**Relações entre conteúdos de ensino e processos de**|
 |---|
@@ -2093,1065 +1720,923 @@ Pressupostos teóricos, históricos, filosóficos e sociais da Didática. O cont
 |https://www.scielo.br/j/es/a/GkhgksVWNhmjD6DnxtxdwsM/abstract/?lang=pt<br>Acesso<br>em|
 |20/05/2022.|
 
+SAVIANI, Dermeval. Sobre a natureza e especificidade da educação. **Germinal: Marxismo e Educação em Debate** , Salvador, v. 7, n. 1, p. 286-293, jun. 2015. Disponível em https://periodicos.ufba.br/index.php/revistagerminal/article/view/13575 Acesso em 20/05/2022. SFORNI, Marta Sueli de Faria. Interação entre Didática e Teoria Histórico-Cultural. IN: **Educação & Realidade** , Porto Alegre, v. 40, n. 2, p. 375-397, abr./jun. 2015. Disponível em https://www.scielo.br/j/edreal/a/Fx3RsNJtkq8QVxzXWCvYg6p/abstract/?lang=pt Acesso em 20/05/2022.
 
+SILVA, Marco Antônio. A Fetichização do Livro Didático no Brasil. **Revista Educacão e Realidade** , Porto Alegre, v. 37, n. 3, p. 803-821, set./dez. 2012. Disponível em https://www.scielo.br/j/edreal/a/wNQB9SzJFYhbLVr6pqvp4wg/abstract/?lang=pt Acesso em 20/05/2022.
 
-84 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-**==> picture [472 x 55] intentionally omitted <==**
+GASPARIN, J. L. **Uma Didática para a Pedagogia Histórico-Crítica** . 5. ed. rev. Campinas: Autores Associados, 2009.
 
-SAVIANI, Dermeval. Sobre a natureza e especificidade da educação. **Germinal: Marxismo e Educação em Debate** , Salvador, v. 7, n. 1, p. 286-293, jun. 2015. Disponível em https://periodicos.ufba.br/index.php/revistagerminal/article/view/13575 Acesso em 20/05/2022. SFORNI, Marta Sueli de Faria. Interação entre Didática e Teoria Histórico-Cultural. IN: **Educação & Realidade** , Porto Alegre, v. 40, n. 2, p. 375-397, abr./jun. 2015. Disponível em https://www.scielo.br/j/edreal/a/Fx3RsNJtkq8QVxzXWCvYg6p/abstract/?lang=pt Acesso em 20/05/2022. 
+LIBÂNEO, J. C. **Democratização da escola pública** : a pedagogia crítico-social dos conteúdos. 25. ed. São Paulo: Loyola, 2010. 149 p. LIBÂNEO, J. C. **Didática** . 18. ed., São Paulo: Cortez, 2008. SACRISTÁN, J. G. **Compreender e Transformar o Ensino** . 4. ed., Porto Alegre: Artmed, 1998.
 
-SILVA, Marco Antônio. A Fetichização do Livro Didático no Brasil. **Revista Educacão e Realidade** , Porto Alegre, v. 37, n. 3, p. 803-821, set./dez. 2012. Disponível em https://www.scielo.br/j/edreal/a/wNQB9SzJFYhbLVr6pqvp4wg/abstract/?lang=pt Acesso em 20/05/2022. 
+SAVIANI, D. **Pedagogia Histórico-Crítica** : primeiras aproximações.11. ed. Campinas: Autores Associados, 2011.
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+COMPONENTE CURRICULAR: Fundamentos da Educação
 
-GASPARIN, J. L. **Uma Didática para a Pedagogia Histórico-Crítica** . 5. ed. rev. Campinas: Autores Associados, 2009. 
+CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio
 
-LIBÂNEO, J. C. **Democratização da escola pública** : a pedagogia crítico-social dos conteúdos. 25. ed. São Paulo: Loyola, 2010. 149 p. LIBÂNEO, J. C. **Didática** . 18. ed., São Paulo: Cortez, 2008. SACRISTÁN, J. G. **Compreender e Transformar o Ensino** . 4. ed., Porto Alegre: Artmed, 1998. 
+## EMENTA:
 
-SAVIANI, D. **Pedagogia Histórico-Crítica** : primeiras aproximações.11. ed. Campinas: Autores Associados, 2011. 
+Pressupostos teóricos, históricos, sociais e epistemológicos que fundamentam a educação. Concepções de homem, sociedade, educação, conhecimento, método, metodologia e dos processos de ensino e de aprendizagem. Unidade teoria e prática como fundamento da atividade pedagógica. Tendências e correntes da educação: teorias críticas e não-críticas.
 
-COMPONENTE CURRICULAR: Fundamentos da Educação 
+BIBLIOGRAFIA BÁSICA:
 
-CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio 
+ALTHUSSER, L. **Aparelhos ideológicos de Estado** . Rio de Janeiro: Graal, 1989.
 
-## EMENTA: 
+DUARTE, N. A anatomia do homem é a chave da anatomia do macaco: A dialética em Vigotskie em Marx e a questão do saber objetivo na educação escolar. **Educação & Sociedade** , ano
 
-Pressupostos teóricos, históricos, sociais e epistemológicos que fundamentam a educação. Concepções de homem, sociedade, educação, conhecimento, método, metodologia e dos processos de ensino e de aprendizagem. Unidade teoria e prática como fundamento da atividade pedagógica. Tendências e correntes da educação: teorias críticas e não-críticas. 
+XXI,nº 71, Julho/00.Disponível em: https://www.scielo.br/j/es/a/GkhgksVWNhmjD6DnxtxdwsM/?lang=pt&format=pdf. Acesso em 24/maio/2022. SAVIANI, D. **Pedagogia histórico-crítica** : primeiras aproximações. 8. ed. revista e ampliada. Campinas: Autores Associados, 2003.
 
-BIBLIOGRAFIA BÁSICA: 
+SAVIANI, Demerval. **Escola e Democracia.** Campinas: Autores Associados, 2008. SUCHODOLSKI, B. **A pedagogia e as grandes correntes filosóficas.** Lisboa, Horizonte, 1984.
 
-ALTHUSSER, L. **Aparelhos ideológicos de Estado** . Rio de Janeiro: Graal, 1989. 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-DUARTE, N. A anatomia do homem é a chave da anatomia do macaco: A dialética em Vigotskie em Marx e a questão do saber objetivo na educação escolar. **Educação & Sociedade** , ano 
+BOURDIEU, P.; PASSERON, J. C. **A reprodução** : Elementos para uma teoria do sistema de ensino. Rio de Janeiro: Livraria Francisco Alves, 1975. DEMO, P. **Pobreza política.** São Paulo: Cortez, 1988.
 
-85 
+GARCIA, J. D. A.; LAZARINI, A. Q.; BARBIERI, A. F.; _et al_ . A origem da escola pública no século XIX: contraposição ou coerência com as necessidades do capital? **Revista Tempos e Espaços em Educação** , São Cristóvão, Sergipe, Brasil, v. 10, n. 21, p. 177-190, jan./abr. 2017. Disponível em: <https://seer.ufs.br/index.php/revtee/article/view/6341>. Acesso em: 24 mar. 2017.
 
-**==> picture [472 x 55] intentionally omitted <==**
+MARX, K. **A ideologia alemã** . São Paulo: Moraes, 1984.
 
-XXI,nº 71, Julho/00.Disponível em: https://www.scielo.br/j/es/a/GkhgksVWNhmjD6DnxtxdwsM/?lang=pt&format=pdf. Acesso em 24/maio/2022. SAVIANI, D. **Pedagogia histórico-crítica** : primeiras aproximações. 8. ed. revista e ampliada. Campinas: Autores Associados, 2003. 
+MARX, K. **Contribuição para a crítica da economia política** . Lisboa: Editorial Estampa, 1973. MÉSZÁROS, I. **A Educação para além do Capital.** São Paulo: Boitempo, 2008. SAVIANI, D. **História das ideias pedagógicas no Brasil** . 3. ed. Campinas, SP: Autores Associados, 2011.
 
-SAVIANI, Demerval. **Escola e Democracia.** Campinas: Autores Associados, 2008. SUCHODOLSKI, B. **A pedagogia e as grandes correntes filosóficas.** Lisboa, Horizonte, 1984. 
+SNYDERS, G. **Escola, classe e luta de classes** . Lisboa, Moraes, 1981. TEIXEIRA, A. **Educação não é privilégio** . São Paulo: Companhia Editora Nacional, 1977.
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+## **4º SEMESTRE:**
 
-BOURDIEU, P.; PASSERON, J. C. **A reprodução** : Elementos para uma teoria do sistema de ensino. Rio de Janeiro: Livraria Francisco Alves, 1975. DEMO, P. **Pobreza política.** São Paulo: Cortez, 1988. 
+COMPONENTE CURRICULAR: Matemática IV
 
-GARCIA, J. D. A.; LAZARINI, A. Q.; BARBIERI, A. F.; _et al_ . A origem da escola pública no século XIX: contraposição ou coerência com as necessidades do capital? **Revista Tempos e Espaços em Educação** , São Cristóvão, Sergipe, Brasil, v. 10, n. 21, p. 177-190, jan./abr. 2017. Disponível em: <https://seer.ufs.br/index.php/revtee/article/view/6341>. Acesso em: 24 mar. 2017. 
+CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio
 
-MARX, K. **A ideologia alemã** . São Paulo: Moraes, 1984. 
+EMENTA:
 
-MARX, K. **Contribuição para a crítica da economia política** . Lisboa: Editorial Estampa, 1973. MÉSZÁROS, I. **A Educação para além do Capital.** São Paulo: Boitempo, 2008. SAVIANI, D. **História das ideias pedagógicas no Brasil** . 3. ed. Campinas, SP: Autores Associados, 2011. 
+1. Integral
 
-SNYDERS, G. **Escola, classe e luta de classes** . Lisboa, Moraes, 1981. TEIXEIRA, A. **Educação não é privilégio** . São Paulo: Companhia Editora Nacional, 1977. 
+   - a. Integral Indefinida e Integral definida
 
-## **4º SEMESTRE:** 
+   - b. Propriedades das integrais
 
-COMPONENTE CURRICULAR: Matemática IV 
+   - c. Teorema fundamental do cálculo
 
-CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio 
+   - d. Métodos de Integração
 
-EMENTA: 
+## e. Aplicações das Integrais
 
-1. Integral 
+2. Noções do Cálculo em R[n]
 
-   - a. Integral Indefinida e Integral definida 
+## BIBLIOGRAFIA BÁSICA:
 
-   - b. Propriedades das integrais 
+GUIDORIZZI, H. L. Um curso de cálculo. 5. ed. Rio de Janeiro: LTC, 2001. v. 1. GUIDORIZZI, H. L. Um curso de cálculo. 5. ed. Rio de Janeiro: LTC, 2001. v. 2.
 
-   - c. Teorema fundamental do cálculo 
+LIMA, E. L. Análise real: volume 1: funções de uma variável . 12. ed. Rio de Janeiro: IMPA, 2018.
 
-   - d. Métodos de Integração 
+LEITHOLD, L. O cálculo com geometria analítica. 3. ed. São Paulo: Harbra, 1994. v. 1. LEITHOLD, L. O Cálculo com Geometria Analítica. 3. ed. São Paulo: Harbra, 1994. v. 2. STEWART, J. Cálculo. 8. ed. São Paulo: Thomson Pioneira, 2017. v. 1.
 
-86 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-**==> picture [472 x 55] intentionally omitted <==**
+ANTON, H., BIVENS, I.; DAVIS, S. Cálculo. 10. ed. Porto Alegre: Bookman, 2014. v. 1. FLEMMING, D. M. Cálculo A: funções, limite, derivação, integração. 6. ed. São Paulo: Pearson Prentice Hall, 2006.
 
-## e. Aplicações das Integrais 
+SIMMONS, G. F. Cálculo com geometria analítica. São Paulo: Pearson Makron Books, 1988. v. 1.
 
-2. Noções do Cálculo em R[n] 
+THOMAS, G. B. Cálculo. 12. ed. São Paulo: Prentice Hall, 2012. v. 1.
 
-## BIBLIOGRAFIA BÁSICA: 
+COMPONENTE CURRICULAR: Química Orgânica I
 
-GUIDORIZZI, H. L. Um curso de cálculo. 5. ed. Rio de Janeiro: LTC, 2001. v. 1. GUIDORIZZI, H. L. Um curso de cálculo. 5. ed. Rio de Janeiro: LTC, 2001. v. 2. 
+CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio
 
-LIMA, E. L. Análise real: volume 1: funções de uma variável . 12. ed. Rio de Janeiro: IMPA, 2018. 
+## EMENTA:
 
-LEITHOLD, L. O cálculo com geometria analítica. 3. ed. São Paulo: Harbra, 1994. v. 1. LEITHOLD, L. O Cálculo com Geometria Analítica. 3. ed. São Paulo: Harbra, 1994. v. 2. STEWART, J. Cálculo. 8. ed. São Paulo: Thomson Pioneira, 2017. v. 1. 
+Introdução a química do carbono. Hidrocarbonetos: Classificação de cadeias, nomenclatura, propriedades físicas e reatividade. Funções orgânicas. Estereoquímica.
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+## BIBLIOGRAFIA BÁSICA:
 
-ANTON, H., BIVENS, I.; DAVIS, S. Cálculo. 10. ed. Porto Alegre: Bookman, 2014. v. 1. FLEMMING, D. M. Cálculo A: funções, limite, derivação, integração. 6. ed. São Paulo: Pearson Prentice Hall, 2006. 
+ALLINGER, N. L. _et al_ . **Química Orgânica** . 2. ed. Rio de Janeiro: Guanabara, 1976. MCMURRY, J. **Química Orgânica** . v. 1. São Paulo: Pioneira Thomson Learning, 2005. MCMURRY, J. **Química Orgânica** . v. 2. São Paulo: Pioneira Thomson Learning, 2005. SOLOMONS, G. **Química Orgânica** . 10. ed., v. 1. Rio de Janeiro: LTC, 2012. SOLOMONS, G. **Química Orgânica** . 10. ed., v. 2. Rio de Janeiro: LTC, 2012. BRUICE, P. Y. **Química orgânica** . 4. ed. v.1. São Paulo: Pearson/Prentice Hall, 2006
 
-SIMMONS, G. F. Cálculo com geometria analítica. São Paulo: Pearson Makron Books, 1988. v. 1. 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-THOMAS, G. B. Cálculo. 12. ed. São Paulo: Prentice Hall, 2012. v. 1. 
+BARBOSA, L. C. A. **Introdução à Química Orgânica** . São Paulo: Prentice Hall, 2004. BETTELHEIM, F. A. _et al_ . **Introdução à Química Orgânica** . 1. ed., São Paulo: Cengage Learning, 2012.
 
-COMPONENTE CURRICULAR: Química Orgânica I 
+CAREY, F. A. **Química Orgânica** . 7. ed., v. 1. Porto Alegre: AMGH, 2011. SILVERSTEIN, R. M. **Identificação espectrométrica de compostos orgânicos** . 6. ed., Rio de Janeiro: LTC, 2007.
 
-CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio 
+VOLLHARDT, K. P. C.; SCHORE, N. E. **Química orgânica** : estrutura e função. 4. ed., Porto Alegre, Bookman, 2004.
 
-## EMENTA: 
+## COMPONENTE CURRICULAR: Química Inorgânica II
 
-Introdução a química do carbono. Hidrocarbonetos: Classificação de cadeias, nomenclatura, propriedades físicas e reatividade. Funções orgânicas. Estereoquímica. 
+## CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio
 
-## BIBLIOGRAFIA BÁSICA: 
+## EMENTA:
 
-ALLINGER, N. L. _et al_ . **Química Orgânica** . 2. ed. Rio de Janeiro: Guanabara, 1976. MCMURRY, J. **Química Orgânica** . v. 1. São Paulo: Pioneira Thomson Learning, 2005. MCMURRY, J. **Química Orgânica** . v. 2. São Paulo: Pioneira Thomson Learning, 2005. SOLOMONS, G. **Química Orgânica** . 10. ed., v. 1. Rio de Janeiro: LTC, 2012. SOLOMONS, G. **Química Orgânica** . 10. ed., v. 2. Rio de Janeiro: LTC, 2012. BRUICE, P. Y. **Química orgânica** . 4. ed. v.1. São Paulo: Pearson/Prentice Hall, 2006 
+Teoria dos Orbitais Moleculares. Complexos de Metais de Transição. Ligação Química nos Processos Metálicos. Noções sobre organometálicos. Simetria e teoria de grupo. Ligações coordenadas em metais de transição.
 
-87 
+## BIBLIOGRAFIA BÁSICA:
 
-**==> picture [472 x 55] intentionally omitted <==**
+CANHAM, G. R.; OVERTON, T. **Química Inorgânica Descritiva** . 5. ed., Rio de Janeiro: LTC, 2015.
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+FAZZIO, A.; WATARI, K. **Introdução à teoria de grupos com aplicações em moléculas e sólidos** . 1. ed., Santa Maria: UFSM, 2009.
 
-BARBOSA, L. C. A. **Introdução à Química Orgânica** . São Paulo: Prentice Hall, 2004. BETTELHEIM, F. A. _et al_ . **Introdução à Química Orgânica** . 1. ed., São Paulo: Cengage Learning, 2012. 
+LEE, J. D. **Química Inorgânica Não Tão Concisa** . 5. ed., São Paulo: Edgar Blücher, 2003. ROGERS, G. E. **Química Inorgânica Descritiva, de Coordenação e do Estado Sólido** . 1. ed., São Paulo: Cengage, 2017.
 
-CAREY, F. A. **Química Orgânica** . 7. ed., v. 1. Porto Alegre: AMGH, 2011. SILVERSTEIN, R. M. **Identificação espectrométrica de compostos orgânicos** . 6. ed., Rio de Janeiro: LTC, 2007. 
+SHRIVER, D.; ATKINS, P. **Química inorgânica** . 4. ed., Porto Alegre: Bookman, 2008.
 
-VOLLHARDT, K. P. C.; SCHORE, N. E. **Química orgânica** : estrutura e função. 4. ed., Porto Alegre, Bookman, 2004. 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-## COMPONENTE CURRICULAR: Química Inorgânica II 
+BROWN, T. L.; LEMAY, H. E.; BURSTEN B. E. **Química** : a ciência central. 13. ed., São Paulo: Pearson Education, 2017.
 
-## CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio 
+DUPONT, J. **Química organometálica** : elementos do bloco d. São Paulo: Bookman, 2005. FARIAS, R. F. **Química de Coordenação** : fundamentos e atualidades. 2. ed. Campinas: Átomo, 2009.
 
-## EMENTA: 
+HOUSECROF, C. E. **Química Inorgânica** . 4. ed., v. 2. Rio de Janeiro: LTC, 2013.
 
-Teoria dos Orbitais Moleculares. Complexos de Metais de Transição. Ligação Química nos Processos Metálicos. Noções sobre organometálicos. Simetria e teoria de grupo. Ligações coordenadas em metais de transição. 
+RUSSEL, J. B. **Química Geral** . 2. ed., v. 1. São Paulo: Pearson Makron Books, 2006.
 
-## BIBLIOGRAFIA BÁSICA: 
+COMPONENTE CURRICULAR: Física III
 
-CANHAM, G. R.; OVERTON, T. **Química Inorgânica Descritiva** . 5. ed., Rio de Janeiro: LTC, 2015. 
+CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio
 
-FAZZIO, A.; WATARI, K. **Introdução à teoria de grupos com aplicações em moléculas e sólidos** . 1. ed., Santa Maria: UFSM, 2009. 
+## EMENTA:
 
-LEE, J. D. **Química Inorgânica Não Tão Concisa** . 5. ed., São Paulo: Edgar Blücher, 2003. ROGERS, G. E. **Química Inorgânica Descritiva, de Coordenação e do Estado Sólido** . 1. ed., São Paulo: Cengage, 2017. 
+Carga elétrica. Lei de Coulomb. Campo elétrico. Lei de Gauss. Potencial elétrico. Capacitância. Corrente e resistência. Circuitos elétricos em corrente contínua. Magnetismo. O campo magnético. A indução magnética. Leis de Maxwell. Indutância. Atividades experimentais relacionadas aos conteúdos do componente curricular.
 
-SHRIVER, D.; ATKINS, P. **Química inorgânica** . 4. ed., Porto Alegre: Bookman, 2008. 
+## BIBLIOGRAFIA BÁSICA:
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+HALLIDAY, D.; RESNICK, R.; WALKER, J. **Fundamentos de Física** : Eletromagnetismo. 10. ed., v. 3. Rio de Janeiro: LTC, 2016.
 
-BROWN, T. L.; LEMAY, H. E.; BURSTEN B. E. **Química** : a ciência central. 13. ed., São Paulo: Pearson Education, 2017. 
+HALLIDAY, D.; RESNICK, R.; WALKER, J. **Fundamentos de Física** : Óptica e Física Moderna. 10. ed., v. 4. Rio de Janeiro: LTC, 2016.
 
-DUPONT, J. **Química organometálica** : elementos do bloco d. São Paulo: Bookman, 2005. FARIAS, R. F. **Química de Coordenação** : fundamentos e atualidades. 2. ed. Campinas: Átomo, 2009. 
+NUSSENZVEIG, H. M. **Curso de Física Básica** : Eletromagnetismo. 2. ed., v. 3. São Paulo: E. Blücher, 2015. NUSSENZVEIG, H. M. **Curso de Física Básica** : Óptica, Relatividade e Física Quântica. 2. ed., v. 4. São Paulo: E. Blücher, 2014.
 
-HOUSECROF, C. E. **Química Inorgânica** . 4. ed., v. 2. Rio de Janeiro: LTC, 2013. 
+TIPLER, P. A.; MOSCA, G. **Física** : para cientistas e engenheiros - Eletricidade e Magnetismo. 6. ed., v. 2, Rio de Janeiro: LTC, 2009.
 
-88 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-**==> picture [472 x 55] intentionally omitted <==**
+BARROS NETO, B.; SCARMINIO, I. S.; BRUNS, R. E. **Como fazer experimentos** : pesquisa e desenvolvimento na ciência e na indústria. 4. ed. Porto Alegre: Bookman, 2010.
 
-RUSSEL, J. B. **Química Geral** . 2. ed., v. 1. São Paulo: Pearson Makron Books, 2006. 
+FEYNMAN, R. P.; LEIGHTON, R. B.; SANDS, M. L. **Feynman** : Lições de Física. v. 2, Porto Alegre: Bookman, 2008.
 
-COMPONENTE CURRICULAR: Física III 
+FEYNMAN, R. P.; LEIGHTON, R. B.; SANDS, M. L. **Feynman** : Lições de Física. v. 3, Porto Alegre: Bookman, 2008.
 
-CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio 
+HEWITT, P. G. **Física Conceitual** . 12. ed. Porto Alegre: Bookman, 2015.
 
-## EMENTA: 
+KNIGHT, R. D. **Física** : uma abordagem estratégica. 2. ed., v. 3, Porto Alegre: Bookman, 2009. PERUZZO, J. **Experimentos de física básica** : eletromagnetismo, física moderna e ciências espaciais. 1. ed. São Paulo: Livraria da Física, 2013.
 
-Carga elétrica. Lei de Coulomb. Campo elétrico. Lei de Gauss. Potencial elétrico. Capacitância. Corrente e resistência. Circuitos elétricos em corrente contínua. Magnetismo. O campo magnético. A indução magnética. Leis de Maxwell. Indutância. Atividades experimentais relacionadas aos conteúdos do componente curricular. 
+TIPLER, P. A.; MOSCA, G. **Física** : para cientistas e engenheiros – Física Moderna: Mecânica Quântica, Relatividade e a Estrutura da Matéria. 6. ed., v. 3, Rio de Janeiro: LTC, 2009.
 
-## BIBLIOGRAFIA BÁSICA: 
+## COMPONENTE CURRICULAR: História da Química
 
-HALLIDAY, D.; RESNICK, R.; WALKER, J. **Fundamentos de Física** : Eletromagnetismo. 10. ed., v. 3. Rio de Janeiro: LTC, 2016. 
+## CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio
 
-HALLIDAY, D.; RESNICK, R.; WALKER, J. **Fundamentos de Física** : Óptica e Física Moderna. 10. ed., v. 4. Rio de Janeiro: LTC, 2016. 
+## EMENTA:
 
-NUSSENZVEIG, H. M. **Curso de Física Básica** : Eletromagnetismo. 2. ed., v. 3. São Paulo: E. Blücher, 2015. NUSSENZVEIG, H. M. **Curso de Física Básica** : Óptica, Relatividade e Física Quântica. 2. ed., v. 4. São Paulo: E. Blücher, 2014. 
+Os quatro elementos de Aristóteles. A iatroquímica. Paracelso e seus discípulos. A química pneumática e o estudo dos gases segundo Scheele, Priestley, Cavendish e Lavoisier. A teoria do flogístico e a evolução do conceito de combustão e do oxigênio. O trabalho de Lavoisier e o novo paradigma da Química. Tabela Periódica e elementos químicos. Modelos Atômicos. História da Química no Brasil e América Latina. História da Química nos livros didáticos. Elaboração de propostas de ensino utilizando História da Química como princípio norteador.
 
-TIPLER, P. A.; MOSCA, G. **Física** : para cientistas e engenheiros - Eletricidade e Magnetismo. 6. ed., v. 2, Rio de Janeiro: LTC, 2009. 
+## BIBLIOGRAFIA BÁSICA:
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+ARAGÃO, M. J. **História da Química** . Rio de Janeiro: Interciência, 2008.
 
-BARROS NETO, B.; SCARMINIO, I. S.; BRUNS, R. E. **Como fazer experimentos** : pesquisa e desenvolvimento na ciência e na indústria. 4. ed. Porto Alegre: Bookman, 2010. 
+DELIZOICOV, D.; ANGOTTI, J. A.; PERNAMBUCO, M. M. **Ensino de Ciências** : Fundamentos e Métodos. 3. ed., São Paulo: Cortez, 2009.
 
-FEYNMAN, R. P.; LEIGHTON, R. B.; SANDS, M. L. **Feynman** : Lições de Física. v. 2, Porto Alegre: Bookman, 2008. 
+GREENBERG, A. **Uma Breve História da Química** : da Alquimia às Ciências Moleculares Modernas. São Paulo: Blucher, 2010.
 
-FEYNMAN, R. P.; LEIGHTON, R. B.; SANDS, M. L. **Feynman** : Lições de Física. v. 3, Porto Alegre: Bookman, 2008. 
+FARIAS, R. F.; NEVES, L. S.; SILVA, D. D. **História da química no Brasil** . 4. ed., Campinas: Átomo, 2011. FARIAS, R. F. **Para Gostar de Ler a História da Química** . Campinas: Átomo, 2013.
 
-HEWITT, P. G. **Física Conceitual** . 12. ed. Porto Alegre: Bookman, 2015. 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-KNIGHT, R. D. **Física** : uma abordagem estratégica. 2. ed., v. 3, Porto Alegre: Bookman, 2009. PERUZZO, J. **Experimentos de física básica** : eletromagnetismo, física moderna e ciências espaciais. 1. ed. São Paulo: Livraria da Física, 2013. 
+CALADO, J. **Haja Luz! Uma História da Química Através de Tudo** . Lisboa: Editora Ist Press, 2012.
 
-89 
+KEAN, S. **A colher que desaparece** : e outras histórias reais de loucura, amor e morte a partir dos elementos químicos. Rio de Janeiro: Zahar, 2011.
 
-**==> picture [472 x 55] intentionally omitted <==**
+LATOUR, B.; WOOLGAR, S. **A vida de Laboratório** : A Produção dos Fatos Científicos. Rio de Janeiro: Relume Dumará, 1997. SACKS, O. W. **Tio Tungstênio** : Memórias de uma Infância Química. São Paulo: Companhia das Letras, 2008. STRATHERN, P. **O Sonho de Mendeleiev** : A Verdadeira História da Química. 1. ed., Rio de Janeiro: Zahar, 2002.
 
-TIPLER, P. A.; MOSCA, G. **Física** : para cientistas e engenheiros – Física Moderna: Mecânica Quântica, Relatividade e a Estrutura da Matéria. 6. ed., v. 3, Rio de Janeiro: LTC, 2009. 
+COMPONENTE CURRICULAR: Tecnologia da Informação e da Comunicação no Ensino de Química
 
-## COMPONENTE CURRICULAR: História da Química 
+CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio
 
-## CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio 
+## EMENTA:
 
-## EMENTA: 
+Utilização de Software aplicado. Jogos Digitais. Laboratórios Virtuais. Utilização e desenvolvimento de tecnologia embarcada com a plataforma Arduino. Relaciona, através da prática como componente curricular, os conhecimentos em Tecnologia da Informação e da Comunicação no Ensino de Química com atividades formativas que promovam experiências e reflexões próprias ao exercício da docência.
 
-Os quatro elementos de Aristóteles. A iatroquímica. Paracelso e seus discípulos. A química pneumática e o estudo dos gases segundo Scheele, Priestley, Cavendish e Lavoisier. A teoria do flogístico e a evolução do conceito de combustão e do oxigênio. O trabalho de Lavoisier e o novo paradigma da Química. Tabela Periódica e elementos químicos. Modelos Atômicos. História da Química no Brasil e América Latina. História da Química nos livros didáticos. Elaboração de propostas de ensino utilizando História da Química como princípio norteador. 
+## BIBLIOGRAFIA BÁSICA:
 
-## BIBLIOGRAFIA BÁSICA: 
+FEDELI, R. D.; POLLONI, E. G. F.; PERES, F. E. **Introdução à ciência da computação** . 2. ed., São Paulo: Cengage Learning. 2010.
 
-ARAGÃO, M. J. **História da Química** . Rio de Janeiro: Interciência, 2008. 
+MONK, S. **Programação com Arduíno** . São Paulo: Artmed, 2013. MONK, S. **30 Projetos com Arduíno** . São Paulo: Bookman, 2013. MONK, S. **Programação com Arduíno II** . São Paulo: Bookman, 2014. VELLOSO, C. F. **Informática** : Conceitos Básicos: 9. ed., Rio de Janeiro. 2014.
 
-DELIZOICOV, D.; ANGOTTI, J. A.; PERNAMBUCO, M. M. **Ensino de Ciências** : Fundamentos e Métodos. 3. ed., São Paulo: Cortez, 2009. 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-GREENBERG, A. **Uma Breve História da Química** : da Alquimia às Ciências Moleculares Modernas. São Paulo: Blucher, 2010. 
+ENGELBRECHT A. M.; PIVA, D. **Algoritmos e Programação de Computadores** . Rio de Janeiro: Elsevier. 2012.
 
-FARIAS, R. F.; NEVES, L. S.; SILVA, D. D. **História da química no Brasil** . 4. ed., Campinas: Átomo, 2011. FARIAS, R. F. **Para Gostar de Ler a História da Química** . Campinas: Átomo, 2013. 
+FOROUZAN, B.; MOSHARRAF, F. **Fundamentos da Ciência da Computação** . São Paulo: Cenage Learning. 2011.
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+LOPES, A.; GARCIA, G. **Introdução à Programação** : 500 Algoritmos Resolvidos. Rio de Janeiro: Elsevier, 2002.
 
-CALADO, J. **Haja Luz! Uma História da Química Através de Tudo** . Lisboa: Editora Ist Press, 2012. 
+NORTON, P. **Introdução à Informática** . São Paulo: Pearson. SANTOS, R. **Introdução à Programação Orientada a Objetos usando JAVA** . Rio de Janeiro: Elsevier, 2013.
 
-KEAN, S. **A colher que desaparece** : e outras histórias reais de loucura, amor e morte a partir dos elementos químicos. Rio de Janeiro: Zahar, 2011. 
+## **5º SEMESTRE:**
 
-LATOUR, B.; WOOLGAR, S. **A vida de Laboratório** : A Produção dos Fatos Científicos. Rio de Janeiro: Relume Dumará, 1997. SACKS, O. W. **Tio Tungstênio** : Memórias de uma Infância Química. São Paulo: Companhia das Letras, 2008. STRATHERN, P. **O Sonho de Mendeleiev** : A Verdadeira História da Química. 1. ed., Rio de Janeiro: Zahar, 2002. 
+COMPONENTE CURRICULAR: Química Analítica I
 
-90 
+CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio
 
-**==> picture [472 x 55] intentionally omitted <==**
+## EMENTA:
 
-COMPONENTE CURRICULAR: Tecnologia da Informação e da Comunicação no Ensino de Química 
+Introdução à análise qualitativa. Equilíbrio químico de ácido-base, de soluções tampões, de complexos e de óxido-redução. Solubilidade e produto de solubilidade. Análise sistemática de cátions e ânions. Aplicações desses conceitos à análise química.
 
-CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio 
+## BIBLIOGRAFIA BÁSICA:
 
-## EMENTA: 
+ATKINS, P.; JONES, L. **Princípios de Química** : Questionando a vida moderna e o meio ambiente. 5. ed., Porto Alegre: Editora Bookman, 2006.
 
-Utilização de Software aplicado. Jogos Digitais. Laboratórios Virtuais. Utilização e desenvolvimento de tecnologia embarcada com a plataforma Arduino. Relaciona, através da prática como componente curricular, os conhecimentos em Tecnologia da Informação e da Comunicação no Ensino de Química com atividades formativas que promovam experiências e reflexões próprias ao exercício da docência. 
+HARRIS, D. C. **Análise Química Quantitativa** . 7. ed., Rio de Janeiro: LTC, 2008. HIGSON, S. P. J. **Química Analítica** . São Paulo: McGraw-Hill, 2009.
 
-## BIBLIOGRAFIA BÁSICA: 
+SKOOG, D. A. **Fundamentos de Química Analítica** . 9. ed., São Paulo: Pioneira Thomson Learning, 2014.
 
-FEDELI, R. D.; POLLONI, E. G. F.; PERES, F. E. **Introdução à ciência da computação** . 2. ed., São Paulo: Cengage Learning. 2010. 
+VOGEL, A. I. **Química Analítica Qualitativa** . 5. ed., São Paulo: Mestre Jou, 1981.
 
-MONK, S. **Programação com Arduíno** . São Paulo: Artmed, 2013. MONK, S. **30 Projetos com Arduíno** . São Paulo: Bookman, 2013. MONK, S. **Programação com Arduíno II** . São Paulo: Bookman, 2014. VELLOSO, C. F. **Informática** : Conceitos Básicos: 9. ed., Rio de Janeiro. 2014. 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+BACCAN, N. _et al_ . **Química Analítica Quantitativa Elementar** . 3. ed., São Paulo: E. Blucher, 2010.
 
-ENGELBRECHT A. M.; PIVA, D. **Algoritmos e Programação de Computadores** . Rio de Janeiro: Elsevier. 2012. 
+BARBOSA, G. P. **Química Analítica** - Uma abordagem qualitativa e quantitativa. 1. ed., São Paulo: Érica, 2014.
 
-FOROUZAN, B.; MOSHARRAF, F. **Fundamentos da Ciência da Computação** . São Paulo: Cenage Learning. 2011. 
+BROWN, T. L.; LEMAY, H. E.; BURSTEN B. E. **Química** : a ciência central. 13. ed., São Paulo: Pearson Education, 2017.
 
-LOPES, A.; GARCIA, G. **Introdução à Programação** : 500 Algoritmos Resolvidos. Rio de Janeiro: Elsevier, 2002. 
+OLIVEIRA, A. F. **Equilíbrios em solução aquosa orientados à aplicação** : sistema ácido base de Bronsted e outros equilíbrios. 1. ed., Campinas: Átomo, 2009. VOGEL, A. I. **Análise Química Quantitativa** . 6. ed., Rio de Janeiro: LTC, 2011.
 
-NORTON, P. **Introdução à Informática** . São Paulo: Pearson. SANTOS, R. **Introdução à Programação Orientada a Objetos usando JAVA** . Rio de Janeiro: Elsevier, 2013. 
+COMPONENTE CURRICULAR: Química Orgânica II
 
-## **5º SEMESTRE:** 
+CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio
 
-COMPONENTE CURRICULAR: Química Analítica I 
+## EMENTA:
 
-CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio 
+Reações orgânicas de substituição nucleofílica e eliminação. Oxidação e redução de compostos orgânicos. Esterificação, transesterificação e saponificação. Polimerização.
 
-91 
+BIBLIOGRAFIA BÁSICA:
 
-**==> picture [472 x 55] intentionally omitted <==**
+ALLINGER, N. L. _et al_ . **Química Orgânica** . 2. ed., Rio de Janeiro: Guanabara, 1976.
 
-## EMENTA: 
+MCMURRY, J. **Química Orgânica** . v. 1. São Paulo: Pioneira Thomson Learning, 2005. MCMURRY, J. **Química Orgânica** . v. 2. São Paulo: Pioneira Thomson Learning, 2005. SOLOMONS, G. **Química Orgânica** . 10. ed., v. 1. Rio de Janeiro: LTC, 2012. SOLOMONS, G. **Química Orgânica** . 10. ed., v. 2. Rio de Janeiro: LTC, 2012.
 
-Introdução à análise qualitativa. Equilíbrio químico de ácido-base, de soluções tampões, de complexos e de óxido-redução. Solubilidade e produto de solubilidade. Análise sistemática de cátions e ânions. Aplicações desses conceitos à análise química. 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-## BIBLIOGRAFIA BÁSICA: 
+BARBOSA, L. C. A. **Introdução à Química Orgânica** . São Paulo: Prentice Hall, 2004. BRAIBANTE, H. T. S. **Química Orgânica** – Um curso experimental. 1. ed., Campinas: Átomo, 2015.
 
-ATKINS, P.; JONES, L. **Princípios de Química** : Questionando a vida moderna e o meio ambiente. 5. ed., Porto Alegre: Editora Bookman, 2006. 
+CAREY, F. A. **Química Orgânica** . 7. ed., v. 2. Porto Alegre: AMGH, 2011. SILVERSTEIN, R. M. **Identificação espectrométrica de compostos orgânicos** . 6. ed., Rio de Janeiro: LTC, 2007.
 
-HARRIS, D. C. **Análise Química Quantitativa** . 7. ed., Rio de Janeiro: LTC, 2008. HIGSON, S. P. J. **Química Analítica** . São Paulo: McGraw-Hill, 2009. 
+VOLLHARDT, K. P. C.; SCHORE, N. E. **Química orgânica** : estrutura e função. 4. ed., Porto Alegre: Bookman, 2004.
 
-SKOOG, D. A. **Fundamentos de Química Analítica** . 9. ed., São Paulo: Pioneira Thomson Learning, 2014. 
+## COMPONENTE CURRICULAR: Física IV
 
-VOGEL, A. I. **Química Analítica Qualitativa** . 5. ed., São Paulo: Mestre Jou, 1981. 
+CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+## EMENTA:
 
-BACCAN, N. _et al_ . **Química Analítica Quantitativa Elementar** . 3. ed., São Paulo: E. Blucher, 2010. 
+Óptica Geométrica; Ondulatória; Fenômenos Ondulatórios; Acústica; Tópicos de Física Moderna. Atividades experimentais relacionadas aos conteúdos do componente curricular.
 
-BARBOSA, G. P. **Química Analítica** - Uma abordagem qualitativa e quantitativa. 1. ed., São Paulo: Érica, 2014. 
+## BIBLIOGRAFIA BÁSICA:
 
-BROWN, T. L.; LEMAY, H. E.; BURSTEN B. E. **Química** : a ciência central. 13. ed., São Paulo: Pearson Education, 2017. 
+HALLIDAY, D.; RESNICK, R.; WALKER, J. **Fundamentos de física** : eletromagnetismo. 10. ed. Rio de Janeiro: LTC, 2016. v. 3.
 
-OLIVEIRA, A. F. **Equilíbrios em solução aquosa orientados à aplicação** : sistema ácido base de Bronsted e outros equilíbrios. 1. ed., Campinas: Átomo, 2009. VOGEL, A. I. **Análise Química Quantitativa** . 6. ed., Rio de Janeiro: LTC, 2011. 
+HALLIDAY, D.; RESNICK, R.; WALKER, J. **Fundamentos de física** : óptica e física moderna. 10. ed. Rio de Janeiro: LTC, 2016. v. 4.
 
-COMPONENTE CURRICULAR: Química Orgânica II 
+NUSSENZVEIG, H. M. **Curso de física básica 3** : eletromagnetismo. 2. ed. São Paulo: E. Blücher, 2015. v. 3.
 
-CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio 
+NUSSENZVEIG, H. M. **Curso de física básica 4** : ótica, relatividade e física quântica. 2. ed. São Paulo: E. Blücher, 2014. v. 4.
 
-## EMENTA: 
+TIPLER, P. A.; MOSCA, G. **Física para cientistas e engenheiros** : eletricidade e magnetismo. 6. ed. Rio de Janeiro: LTC, 2009. v. 2.
 
-Reações orgânicas de substituição nucleofílica e eliminação. Oxidação e redução de compostos orgânicos. Esterificação, transesterificação e saponificação. Polimerização. 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-BIBLIOGRAFIA BÁSICA: 
+BARROS NETO, B.; SCARMINIO, I. S.; BRUNS, R. E. **Como fazer experimentos** : pesquisa e desenvolvimento na ciência e na indústria. 4. ed. Porto Alegre: Bookman, 2010. FEYNMAN, R. P.; LEIGHTON, R. B.; SANDS, M. L. **Feynman** : lições de física. Porto Alegre: Bookman, 2008. v. 2. FEYNMAN, R. P.; LEIGHTON, R. B.; SANDS, M. L. **Feynman** : lições de física. Porto Alegre: Bookman, 2008. v. 3. HEWITT, P. G. **Física Conceitual** . 12. ed. Porto Alegre: Bookman, 2015. TIPLER, P. A.; MOSCA, G. **Física para cientistas e engenheiros** : física moderna: mecânica quântica, relatividade e a estrutura da matéria. 6. ed. Rio de Janeiro: LTC, 2009. v. 3. KNIGHT, R. D. **Física** : uma abordagem estratégica. 2. ed. Porto Alegre: Bookman, 2009. v. 3. PERUZZO, J. **Experimentos de física básica** : termodinâmica, ondulatória e óptica. 1. ed., São Paulo: Livraria da Física, 2012.
 
-ALLINGER, N. L. _et al_ . **Química Orgânica** . 2. ed., Rio de Janeiro: Guanabara, 1976. 
+SANTORO, A. et al. **Estimativas e erros em experimentos de física** . 3. ed. Rio de Janeiro: EDUERJ, 2013.
 
-92 
+COMPONENTE CURRICULAR: Instrumentação para o Ensino de Química I CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio EMENTA:
 
-**==> picture [472 x 55] intentionally omitted <==**
+Abordagem teórica, fenomenológica, histórica e representacional dos conteúdos para o ensino de Química. Aprendizagem significativa e mapas conceituais. Concepções alternativas. Obstáculos epistemológicos no ensino de química. Modelos e analogias. Jogos didáticos. Educação em espaços informais, não formais e divulgação científica. Planejamento e Avaliação no ensino de química.
 
-MCMURRY, J. **Química Orgânica** . v. 1. São Paulo: Pioneira Thomson Learning, 2005. MCMURRY, J. **Química Orgânica** . v. 2. São Paulo: Pioneira Thomson Learning, 2005. SOLOMONS, G. **Química Orgânica** . 10. ed., v. 1. Rio de Janeiro: LTC, 2012. SOLOMONS, G. **Química Orgânica** . 10. ed., v. 2. Rio de Janeiro: LTC, 2012. 
+## BIBLIOGRAFIA BÁSICA:
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+ABDALLA, M. F. B. **O senso prático do ser e estar na profissão** . São Paulo: Cortez, 2006. 120 p. LUDKE, M.; ANDRÉ, M. E. D. A. **Pesquisa em Educação** : Abordagens Qualitativas. 8. ed., São Paulo: EPU, 1981. 99 p. ROSA, M. I. **Investigação e ensino** : articulações e possibilidades na formação de professores de ciências. Ijuí: UNIJUÍ, 2004. 184 p.
 
-BARBOSA, L. C. A. **Introdução à Química Orgânica** . São Paulo: Prentice Hall, 2004. BRAIBANTE, H. T. S. **Química Orgânica** – Um curso experimental. 1. ed., Campinas: Átomo, 2015. 
+SANTOS, W. L. P.; SCHNETZLER, R. P. **Educação em Química** : Compromisso com a cidadania. 3. ed., Ijuí: UNIJUÍ, 2000. 144 p.
 
-CAREY, F. A. **Química Orgânica** . 7. ed., v. 2. Porto Alegre: AMGH, 2011. SILVERSTEIN, R. M. **Identificação espectrométrica de compostos orgânicos** . 6. ed., Rio de Janeiro: LTC, 2007. 
+MALDANER, O. A. **A formação Inicial e Continuada de Professores de química** . Professores/Pesquisadores. 3. ed., Ijuí: UNIJUÍ, 2006. 424 p. BIBLIOGRAFIA COMPLEMENTAR:
 
-VOLLHARDT, K. P. C.; SCHORE, N. E. **Química orgânica** : estrutura e função. 4. ed., Porto Alegre: Bookman, 2004. 
+BRASIL. **Programa Nacional do Livro Didático para o Ensino Médio** (PNLEM). Brasília: MEC, 2006.
 
-## COMPONENTE CURRICULAR: Física IV 
+GALIAZZI, M. C.; GONÇALVES, F. P. A natureza pedagógica da Experimentação: uma pesquisa na Licenciatura em Química. **Química Nova** , v. 27, n. 2, p. 326-331, 2004. GIORDAN, M. O papel da experimentação no Ensino de Química. **Química Nova** , n. 10, p. 4349, nov. 1999. ROMANELLI, L. I.; JUSTI, R. S. **Aprendendo Química** . 2. ed., Ijuí: UNIJUÍ, 1998. 152p. SANTOS, W. L. P. Letramento em química, educação planetária e inclusão social. **Química Nova** , v. 29, n. 3, p. 611-620, 2006. SOARES, M. H. F. B.; CAVALHEIRO, E. T. G. O Ludo como um Jogo para Discutir Conceitos em Termoquímica. **Química Nova na Escola** , São Paulo, v. 22, p. 27-31, 2006. TENO, A. M. A utilização do cotidiano no Ensino de Química. **Química Nova** , v.9, n.2, p- 172173, 1986.
 
-CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio 
+COMPONENTE CURRICULAR: Estágio Supervisionado I
 
-## EMENTA: 
+CARGA HORÁRIA: 120 Hora/aula e 100 Hora/relógio EMENTA:
 
-Óptica Geométrica; Ondulatória; Fenômenos Ondulatórios; Acústica; Tópicos de Física Moderna. Atividades experimentais relacionadas aos conteúdos do componente curricular. 
+Constituição da disciplina de química: histórico e evolução. Leitura e discussão sobre os documentos oficiais. Observação de aulas de química nas instituições de educação básica. Participação em reuniões pedagógicas. Diagnóstico do ambiente escolar. BIBLIOGRAFIA BÁSICA:
 
-## BIBLIOGRAFIA BÁSICA: 
+FERREIRA, J. L. **Formação de professores** : História, políticas educacionais e práticas pedagógicas. 1. ed., Curitiba: Appris, 2015. LOPES, J. G. S. **Reflexões Sobre Formação de Professores e Educação Química** . 1. ed., São Paulo: Livraria da Física,2015. MALDANER, O. A. **A formação Inicial e Continuada de Professores de Química** . Professores/Pesquisadores. 3. ed., Ijuí: Ijuí: UNIJUÍ, 2006. MORIN, Edgar. **Os sete saberes para a educação do futuro** . 1. ed., Lisboa: Instituto Piaget, 2010.
 
-HALLIDAY, D.; RESNICK, R.; WALKER, J. **Fundamentos de física** : eletromagnetismo. 10. ed. Rio de Janeiro: LTC, 2016. v. 3. 
+SANTOS, W. L. P.; SCHNETZLER, R. P. **Educação em Química** : Compromisso com a cidadania. 3. ed., Ijuí: Ijuí: UNIJUÍ, 2000. 144p.
 
-HALLIDAY, D.; RESNICK, R.; WALKER, J. **Fundamentos de física** : óptica e física moderna. 10. ed. Rio de Janeiro: LTC, 2016. v. 4. 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-NUSSENZVEIG, H. M. **Curso de física básica 3** : eletromagnetismo. 2. ed. São Paulo: E. Blücher, 2015. v. 3. 
+ABDALLA, M. F. B. **O senso prático do ser e estar na profissão** . São Paulo: Cortez, 2006. 120p.
 
-NUSSENZVEIG, H. M. **Curso de física básica 4** : ótica, relatividade e física quântica. 2. ed. São Paulo: E. Blücher, 2014. v. 4. 
+GRUPO DE PESQUISA EM EDUCAÇÃO QUÍMICA. **Interações e Transformações II** – Reelaborando conceitos sobre transformações químicas – química e sobrevivência. 1. ed., São Paulo: EDUSP, 2011.
 
-TIPLER, P. A.; MOSCA, G. **Física para cientistas e engenheiros** : eletricidade e magnetismo. 6. ed. Rio de Janeiro: LTC, 2009. v. 2. 
+ROSA, M. I. **Investigação e ensino** : articulações e possibilidades na formação de professores de ciências. Ijuí: UNIJUÍ, 2004. 184p.
 
-93 
+SANTOS, W. L. P.; SCHNETZLER, R. P. **Educação em Química** : Compromisso com a cidadania. 3. ed., Ijuí: UNIJUÍ, 2000. 144p.
 
-**==> picture [472 x 55] intentionally omitted <==**
+VASCONCELLOS, C. S. **Construção do conhecimento em sala de aula** . 10. ed., São Paulo: Libertad, 2000.
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+## **6º SEMESTRE:**
 
-BARROS NETO, B.; SCARMINIO, I. S.; BRUNS, R. E. **Como fazer experimentos** : pesquisa e desenvolvimento na ciência e na indústria. 4. ed. Porto Alegre: Bookman, 2010. FEYNMAN, R. P.; LEIGHTON, R. B.; SANDS, M. L. **Feynman** : lições de física. Porto Alegre: Bookman, 2008. v. 2. FEYNMAN, R. P.; LEIGHTON, R. B.; SANDS, M. L. **Feynman** : lições de física. Porto Alegre: Bookman, 2008. v. 3. HEWITT, P. G. **Física Conceitual** . 12. ed. Porto Alegre: Bookman, 2015. TIPLER, P. A.; MOSCA, G. **Física para cientistas e engenheiros** : física moderna: mecânica quântica, relatividade e a estrutura da matéria. 6. ed. Rio de Janeiro: LTC, 2009. v. 3. KNIGHT, R. D. **Física** : uma abordagem estratégica. 2. ed. Porto Alegre: Bookman, 2009. v. 3. PERUZZO, J. **Experimentos de física básica** : termodinâmica, ondulatória e óptica. 1. ed., São Paulo: Livraria da Física, 2012. 
+COMPONENTE CURRICULAR: Química Analítica II
 
-SANTORO, A. et al. **Estimativas e erros em experimentos de física** . 3. ed. Rio de Janeiro: EDUERJ, 2013. 
+## CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio EMENTA:
 
-COMPONENTE CURRICULAR: Instrumentação para o Ensino de Química I CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio EMENTA: 
+Introdução a análise quantitativa. Volumetria de neutralização. Natureza física dos precipitados. Pesagens, Gravimetria. Volumetria de precipitação. Volumetria de formação de complexos. Volumetria de óxido-redução.
 
-Abordagem teórica, fenomenológica, histórica e representacional dos conteúdos para o ensino de Química. Aprendizagem significativa e mapas conceituais. Concepções alternativas. Obstáculos epistemológicos no ensino de química. Modelos e analogias. Jogos didáticos. Educação em espaços informais, não formais e divulgação científica. Planejamento e Avaliação no ensino de química. 
+## BIBLIOGRAFIA BÁSICA:
 
-## BIBLIOGRAFIA BÁSICA: 
+BACCAN, N. _et al_ . **Química Analítica Quantitativa Elementar** . 3. ed. São Paulo: Blucher, 2010. HARRIS, D. C. **Análise Química Quantitativa** . 7. ed., Rio de Janeiro: LTC, 2008. HIGSON, S. P. J. **Química Analítica** . São Paulo: McGraw-Hill, 2009.
 
-ABDALLA, M. F. B. **O senso prático do ser e estar na profissão** . São Paulo: Cortez, 2006. 120 p. LUDKE, M.; ANDRÉ, M. E. D. A. **Pesquisa em Educação** : Abordagens Qualitativas. 8. ed., São Paulo: EPU, 1981. 99 p. ROSA, M. I. **Investigação e ensino** : articulações e possibilidades na formação de professores de ciências. Ijuí: UNIJUÍ, 2004. 184 p. 
+SKOOG, D. A. **Fundamentos de Química Analítica** . 9. ed., São Paulo: Pioneira Thomson Learning, 2014.
 
-SANTOS, W. L. P.; SCHNETZLER, R. P. **Educação em Química** : Compromisso com a cidadania. 3. ed., Ijuí: UNIJUÍ, 2000. 144 p. 
+VOGEL, A. I. **Química Analítica Qualitativa** . 5. ed., São Paulo: Mestre Jou, 1981.
 
-94 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-**==> picture [472 x 55] intentionally omitted <==**
+BARBOSA, G. P. **Química Analítica** : Uma abordagem qualitativa e quantitativa. 1. ed., São Paulo: Érica, 2014.
 
-MALDANER, O. A. **A formação Inicial e Continuada de Professores de química** . Professores/Pesquisadores. 3. ed., Ijuí: UNIJUÍ, 2006. 424 p. BIBLIOGRAFIA COMPLEMENTAR: 
+BROWN, T. L.; LEMAY, H. E.; BURSTEN B. E. **Química** : a ciência central. 13. ed., São Paulo: Pearson Education, 2017.
 
-BRASIL. **Programa Nacional do Livro Didático para o Ensino Médio** (PNLEM). Brasília: MEC, 2006. 
+OLIVEIRA, A. F. **Equilíbrios em solução aquosa orientados à aplicação** : sistema ácido base de Bronsted e outros equilíbrios. 1. ed., Campinas: Átomo, 2009. VOGEL, A. I. **Análise Química Quantitativa** . 6. ed., Rio de Janeiro: LTC, 2011.
 
-GALIAZZI, M. C.; GONÇALVES, F. P. A natureza pedagógica da Experimentação: uma pesquisa na Licenciatura em Química. **Química Nova** , v. 27, n. 2, p. 326-331, 2004. GIORDAN, M. O papel da experimentação no Ensino de Química. **Química Nova** , n. 10, p. 4349, nov. 1999. ROMANELLI, L. I.; JUSTI, R. S. **Aprendendo Química** . 2. ed., Ijuí: UNIJUÍ, 1998. 152p. SANTOS, W. L. P. Letramento em química, educação planetária e inclusão social. **Química Nova** , v. 29, n. 3, p. 611-620, 2006. SOARES, M. H. F. B.; CAVALHEIRO, E. T. G. O Ludo como um Jogo para Discutir Conceitos em Termoquímica. **Química Nova na Escola** , São Paulo, v. 22, p. 27-31, 2006. TENO, A. M. A utilização do cotidiano no Ensino de Química. **Química Nova** , v.9, n.2, p- 172173, 1986. 
+COMPONENTE CURRICULAR: EXTENSÃO I
 
-COMPONENTE CURRICULAR: Estágio Supervisionado I 
+CARGA HORÁRIA: 101 Hora/aula e 84 Hora/relógio
 
-CARGA HORÁRIA: 120 Hora/aula e 100 Hora/relógio EMENTA: 
+## EMENTA:
 
-Constituição da disciplina de química: histórico e evolução. Leitura e discussão sobre os documentos oficiais. Observação de aulas de química nas instituições de educação básica. Participação em reuniões pedagógicas. Diagnóstico do ambiente escolar. BIBLIOGRAFIA BÁSICA: 
+Conceito de extensão universitária. Diretrizes para as ações de extensão. Tipologia das ações de extensão. Planejamento e desenvolvimento de ações de extensão (programas, projetos, cursos, oficinas, eventos, publicações e/ou prestação de serviços).
 
-FERREIRA, J. L. **Formação de professores** : História, políticas educacionais e práticas pedagógicas. 1. ed., Curitiba: Appris, 2015. LOPES, J. G. S. **Reflexões Sobre Formação de Professores e Educação Química** . 1. ed., São Paulo: Livraria da Física,2015. MALDANER, O. A. **A formação Inicial e Continuada de Professores de Química** . Professores/Pesquisadores. 3. ed., Ijuí: Ijuí: UNIJUÍ, 2006. MORIN, Edgar. **Os sete saberes para a educação do futuro** . 1. ed., Lisboa: Instituto Piaget, 2010. 
+BIBLIOGRAFIA BÁSICA:
 
-95 
+CONTADOR, C.R. **Projetos Sociais** : avaliação e prática. 4ª Ed. São Paulo: Atlas, 2000. 375p. GAZZOLA, A.L.A., ALMEIDA, S.G. (Org.). **Universidade; Cooperação Internacional e diversidade** . Belo Horizonte: Editora UFMG, 2006. 324p. MINAYO, M.C.S. (Org.). **Pesquisa Social** : teoria, método e criatividade. 25. ed. Revista e atualizada. Petrópolis, RJ: Vozes, 2007. 108p. NOGUEIRA, M.D.P. **Políticas de Extensão Universitária Brasileira.** Belo Horizonte: Editora UFMG, 2005. 135p. SANTOS, B.S. **Universidade do Século XXI** : para uma reforma democrática e emancipatória da Universidade. São Paulo: Cortez, 2004. 120p. (Coleção questões da nossa época; v. 120).
 
-**==> picture [472 x 55] intentionally omitted <==**
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-SANTOS, W. L. P.; SCHNETZLER, R. P. **Educação em Química** : Compromisso com a cidadania. 3. ed., Ijuí: Ijuí: UNIJUÍ, 2000. 144p. 
+BRASIL. **Resolução CNE/CES nº 7, de 18 de dezembro de 2018** , que estabelece as Diretrizes para a Extensão na Educação Superior Brasileira e regimenta o disposto na Meta 12.7 da Lei nº 13.005/2014. Disponível em: https://www.in.gov.br/materia//asset_publisher/Kujrw0TZC2Mb/content/id/55877808 FORPROEX. **Política nacional de extensão universitária.** Manaus, 2012. Disponível em: https://proex.ufsc.br/files/2016/04/Política-Nacional-de-Extensão-Universitária-e-book.pdf
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+FREIRE, P. **Extensão ou comunicação?** 7ª Ed. Rio de Janeiro; Paz e Terra, 1983. 93p. GADOTTI, M. **Extensão Universitária: Para quê?.** Brasil: Instituto Paulo Freire , 2017. Disponível em: https://www.paulofreire.org/images/pdfs/Extensão_Universitária__Moacir_Gadotti_fevereiro_2017.pdf
 
-ABDALLA, M. F. B. **O senso prático do ser e estar na profissão** . São Paulo: Cortez, 2006. 120p. 
+SOUZA, A.L.L. **A história da Extensão Universitária.** Campinas, SP: Editora Alinea, 2000. 138p.
 
-GRUPO DE PESQUISA EM EDUCAÇÃO QUÍMICA. **Interações e Transformações II** – Reelaborando conceitos sobre transformações químicas – química e sobrevivência. 1. ed., São Paulo: EDUSP, 2011. 
+COMPONENTE CURRICULAR: Físico-Química I
 
-ROSA, M. I. **Investigação e ensino** : articulações e possibilidades na formação de professores de ciências. Ijuí: UNIJUÍ, 2004. 184p. 
+CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio
 
-SANTOS, W. L. P.; SCHNETZLER, R. P. **Educação em Química** : Compromisso com a cidadania. 3. ed., Ijuí: UNIJUÍ, 2000. 144p. 
+EMENTA:
 
-VASCONCELLOS, C. S. **Construção do conhecimento em sala de aula** . 10. ed., São Paulo: Libertad, 2000. 
+Sistemas termodinâmicos. Gases ideais e reais. Leis da termodinâmica e suas aplicações em sistemas físico-químicos. Cálculo de variação de Entalpia e Entropia. Energia livre de Gibbs e Condições de equilíbrio físico e químico.
 
-## **6º SEMESTRE:** 
+BIBLIOGRAFIA BÁSICA:
 
-COMPONENTE CURRICULAR: Química Analítica II 
+ATKINS, P. **Físico-Química** . 9. ed., v. 1. Rio de Janeiro: LTC, 2012. BALL, D. W. **Físico-Química** . 1. ed., v. 1. São Paulo: Cengage, 2005.
 
-## CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio EMENTA: 
+CASTELLAN, G. W. **Físico-Química** . 1. ed., v. 1. Rio de Janeiro: Livros Técnicos e Científicos, 1986.
 
-Introdução a análise quantitativa. Volumetria de neutralização. Natureza física dos precipitados. Pesagens, Gravimetria. Volumetria de precipitação. Volumetria de formação de complexos. Volumetria de óxido-redução. 
+CHANG, R. **Físico-Química** . 3. ed., v. 1, Porto Alegre: Bookman, 2009. LEVINE, I. N. **Físico-Química** . 6. ed., v. 1, Rio de Janeiro: LTC, 2012.
 
-## BIBLIOGRAFIA BÁSICA: 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-BACCAN, N. _et al_ . **Química Analítica Quantitativa Elementar** . 3. ed. São Paulo: Blucher, 2010. HARRIS, D. C. **Análise Química Quantitativa** . 7. ed., Rio de Janeiro: LTC, 2008. HIGSON, S. P. J. **Química Analítica** . São Paulo: McGraw-Hill, 2009. 
+ATKINS, P.; PAULA, J., FRIEDMAN, R. **Quanta matéria e mudança** : uma abordagem molecular para a físico-química. v. 1, Rio de Janeiro: Livros Técnicos e Científicos, 2011. ATKINS, P.; PAULA, J., FRIEDMAN, R. **Quanta matéria e mudança** : uma abordagem molecular para a físico-química. v. 2, Rio de Janeiro: Livros Técnicos e Científicos, 2011. BARROW, G. M. **Físico-Química** . 1 ed., São Paulo: Reverte, 1982.
 
-SKOOG, D. A. **Fundamentos de Química Analítica** . 9. ed., São Paulo: Pioneira Thomson Learning, 2014. 
+MOORE, W. J. **Físico-Química** . 4 ed., São Paulo: Edgard Blücher, 1976. RUSSEL, J. B. **Química Geral** . 2 ed., v. 2, São Paulo: Pearson Makron Books, 2006.
 
-VOGEL, A. I. **Química Analítica Qualitativa** . 5. ed., São Paulo: Mestre Jou, 1981. 
+COMPONENTE CURRICULAR: Instrumentação para o Ensino de Química II
 
-96 
+CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio
 
-**==> picture [472 x 55] intentionally omitted <==**
+## EMENTA:
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+Experimentação no ensino de química. Estratégias didáticas experimentais. Sequência de Ensino por Investigação. Elaboração e execução de aulas experimentais investigativas. Avaliação de livros didáticos e paradidáticos.
 
-BARBOSA, G. P. **Química Analítica** : Uma abordagem qualitativa e quantitativa. 1. ed., São Paulo: Érica, 2014. 
+## BIBLIOGRAFIA BÁSICA:
 
-BROWN, T. L.; LEMAY, H. E.; BURSTEN B. E. **Química** : a ciência central. 13. ed., São Paulo: Pearson Education, 2017. 
+GREENBERG, A. **Uma Breve História da Química** : da Alquimia às Ciências Moleculares Modernas. São Paulo: E. Blucher, 2010.
 
-OLIVEIRA, A. F. **Equilíbrios em solução aquosa orientados à aplicação** : sistema ácido base de Bronsted e outros equilíbrios. 1. ed., Campinas: Átomo, 2009. VOGEL, A. I. **Análise Química Quantitativa** . 6. ed., Rio de Janeiro: LTC, 2011. 
+FARIAS, R. F.; NEVES, L. S.; SILVA, D. D. **História da química no Brasil** . 4. ed., Campinas: Átomo, 2011.
 
-COMPONENTE CURRICULAR: EXTENSÃO I 
+LUDKE, M.; ANDRÉ, M. E. D. A. **Pesquisa em Educação** : Abordagens Qualitativas. 8. ed., São Paulo: EPU, 1981. 99p.
 
-CARGA HORÁRIA: 101 Hora/aula e 84 Hora/relógio 
+ROSA, M. I. **Investigação e ensino** : articulações e possibilidades na formação de professores de ciências. Ijuí: UNIJUÍ, 2004. 184p.
 
-## EMENTA: 
+SANTOS, W. L. P.; SCHNETZLER, R. P. **Educação em Química** : Compromisso com a cidadania. 3. ed., Ijuí: UNIJUÍ, 2000. 144p.
 
-Conceito de extensão universitária. Diretrizes para as ações de extensão. Tipologia das ações de extensão. Planejamento e desenvolvimento de ações de extensão (programas, projetos, cursos, oficinas, eventos, publicações e/ou prestação de serviços). 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-BIBLIOGRAFIA BÁSICA: 
+BRASIL. **Programa Nacional do Livro Didático para o Ensino Médio** (PNLEM). Brasília, MEC, 2006.
 
-CONTADOR, C.R. **Projetos Sociais** : avaliação e prática. 4ª Ed. São Paulo: Atlas, 2000. 375p. GAZZOLA, A.L.A., ALMEIDA, S.G. (Org.). **Universidade; Cooperação Internacional e diversidade** . Belo Horizonte: Editora UFMG, 2006. 324p. MINAYO, M.C.S. (Org.). **Pesquisa Social** : teoria, método e criatividade. 25. ed. Revista e atualizada. Petrópolis, RJ: Vozes, 2007. 108p. NOGUEIRA, M.D.P. **Políticas de Extensão Universitária Brasileira.** Belo Horizonte: Editora UFMG, 2005. 135p. SANTOS, B.S. **Universidade do Século XXI** : para uma reforma democrática e emancipatória da Universidade. São Paulo: Cortez, 2004. 120p. (Coleção questões da nossa época; v. 120). 
+GALIAZZI, M. C.; GONÇALVES, F. P. A Natureza pedagógica da Experimentação: uma pesquisa na Licenciatura em Química. **Química Nova** , v. 27, n. 2, p. 326-331, 2004. GIORDAN, M. O papel da experimentação no Ensino de Química. **Química Nova** , n. 10, p. 4349, nov. 1999.
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+ROMANELLI, L. I.; JUSTI. R. S. **Aprendendo Química** . 2. ed., Ijuí: UNIJUÍ, 1998. 152p. SOARES, M. H. F. B.; CAVALHEIRO, E. T. G. O Ludo como um Jogo para Discutir Conceitos em Termoquímica. **Química Nova na Escola** , São Paulo, v. 22, p. 27-31, 2006.
 
-BRASIL. **Resolução CNE/CES nº 7, de 18 de dezembro de 2018** , que estabelece as Diretrizes para a Extensão na Educação Superior Brasileira e regimenta o disposto na Meta 12.7 da Lei nº 13.005/2014. Disponível em: https://www.in.gov.br/materia//asset_publisher/Kujrw0TZC2Mb/content/id/55877808 FORPROEX. **Política nacional de extensão universitária.** Manaus, 2012. Disponível em: https://proex.ufsc.br/files/2016/04/Política-Nacional-de-Extensão-Universitária-e-book.pdf 
+COMPONENTE CURRICULAR: Estágio Supervisionado II
 
-97 
+CARGA HORÁRIA: 120 Hora/aula e 100 Hora/relógio
 
-**==> picture [472 x 55] intentionally omitted <==**
+EMENTA: Planejamento e desenvolvimento de semi-regências no IFPR- Campus Pitanga. BIBLIOGRAFIA BÁSICA: FERREIRA, J. L. **Formação de professores** : História, políticas educacionais e práticas pedagógicas. 1. ed., Curitiba: Appris, 2015. LOPES, J. G. S. **Reflexões sobre Formação de Professores e Educação Química** . 1. ed., São Paulo: Livraria da Física, 2015.
 
-FREIRE, P. **Extensão ou comunicação?** 7ª Ed. Rio de Janeiro; Paz e Terra, 1983. 93p. GADOTTI, M. **Extensão Universitária: Para quê?.** Brasil: Instituto Paulo Freire , 2017. Disponível em: https://www.paulofreire.org/images/pdfs/Extensão_Universitária__Moacir_Gadotti_fevereiro_2017.pdf 
+MALDANER, O. A. **A formação Inicial e Continuada de Professores de Química** . Professores/Pesquisadores. 3. ed., Ijuí: Ijuí: UNIJUÍ, 2006. MORIN, E. **Os sete saberes para a educação do futuro** . 1. ed., Lisboa: Instituto Piaget, 2010. SANTOS, W. L. P.; SCHNETZLER, R. P. **Educação em Química** : Compromisso com a cidadania. 3. ed., Ijuí: Ijuí: UNIJUÍ, 2000. 144p
 
-SOUZA, A.L.L. **A história da Extensão Universitária.** Campinas, SP: Editora Alinea, 2000. 138p. 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-COMPONENTE CURRICULAR: Físico-Química I 
+ABDALLA, M. F. B. **O senso prático do ser e estar na profissão** . São Paulo: Cortez, 2006. 120p. GRUPO DE PESQUISA EM EDUCAÇÃO QUÍMICA. **Interações e Transformações II** : Reelaborando conceitos sobre transformações químicas – química e sobrevivência. 1. ed., São Paulo: EDUSP, 2011. ROSA, M. I. **Investigação e ensino** : articulações e possibilidades na formação de professores de ciências. Ijuí: UNIJUÍ, 2004. 184p. SANTOS, W. L. P.; SCHNETZLER, R. P. **Educação em Química** : Compromisso com a cidadania. 3. ed., Ijuí: UNIJUÍ, 2000. 144p. VASCONCELLOS, C. S. **Construção do conhecimento em sala de aula** . 10. ed., São Paulo: Libertad, 2000.
 
-CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio 
+COMPONENTE CURRICULAR: TCC I CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio EMENTA: Orientação e elaboração de um projeto de pesquisa. Normas estruturais e recursos de apresentação de trabalhos acadêmico-científicos.
 
-EMENTA: 
+BIBLIOGRAFIA BÁSICA:
 
-Sistemas termodinâmicos. Gases ideais e reais. Leis da termodinâmica e suas aplicações em sistemas físico-químicos. Cálculo de variação de Entalpia e Entropia. Energia livre de Gibbs e Condições de equilíbrio físico e químico. 
+ALVES-MAZZOTTI, A. J. A revisão bibliográfica em teses e dissertações: meus tipos inesquecíveis – o retorno. _In:_ **A bússola do escrever** : desafios e estratégias na orientação e escrita de teses e dissertações. BIANCHETTI, L.; MACHADO, A. M. N. (Orgs.). São Paulo: Cortez, 2002, p. 25-44. GIL, A. C. **Como elaborar projetos de pesquisa** . 5 ed. São Paulo: Atlas, 2010. LAKATOS, E. M.; MARCONI, M. A. **Fundamentos de metodologia científica** . 8 ed. São Paulo: Atlas, 2017. LUNA, S.V. **Planejamento de pesquisa:** uma introdução. São Paulo: EDUC, 2011. MEDEIROS, J. B.; TOMASI, C. **Redação de artigos científicos** . Métodos de realização, seleção de periódicos, publicação. São Paulo: Atlas, 2016. MOTA-ROTH, D.; HENDGES, G.R. **Produção textual na universidade.** São Paulo: Parábola, 2010. PINHEIRO, J. M. S. **Da iniciação científica ao TCC** : uma abordagem para os cursos de tecnologia. Rio de Janeiro: Ciência Moderna, 2010. SEVERINO, A. J. **Metodologia do trabalho científico** . 24 ed. São Paulo: Cortez, 2015.
 
-BIBLIOGRAFIA BÁSICA: 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-ATKINS, P. **Físico-Química** . 9. ed., v. 1. Rio de Janeiro: LTC, 2012. BALL, D. W. **Físico-Química** . 1. ed., v. 1. São Paulo: Cengage, 2005. 
+ALVES, R. **Filosofia da ciência** : introdução ao jogo e suas regras. 10. ed. São Paulo: Loyola, 2005. ECO, U. **Como se faz uma tese** . 23 ed. São Paulo: Perspectiva, 2010. GIL, A. C. **Métodos e técnicas de pesquisa social** . 6 ed. São Paulo: Atlas, 2016. GOLDENBERG, M. **A Arte de Pesquisar** : como fazer pesquisa qualitativa em Ciências Sociais. Rio de Janeiro: Record, 2004.
 
-CASTELLAN, G. W. **Físico-Química** . 1. ed., v. 1. Rio de Janeiro: Livros Técnicos e Científicos, 1986. 
+## **7º SEMESTRE:**
 
-CHANG, R. **Físico-Química** . 3. ed., v. 1, Porto Alegre: Bookman, 2009. LEVINE, I. N. **Físico-Química** . 6. ed., v. 1, Rio de Janeiro: LTC, 2012. 
+COMPONENTE CURRICULAR: Físico-Química II
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio
 
-ATKINS, P.; PAULA, J., FRIEDMAN, R. **Quanta matéria e mudança** : uma abordagem molecular para a físico-química. v. 1, Rio de Janeiro: Livros Técnicos e Científicos, 2011. ATKINS, P.; PAULA, J., FRIEDMAN, R. **Quanta matéria e mudança** : uma abordagem molecular para a físico-química. v. 2, Rio de Janeiro: Livros Técnicos e Científicos, 2011. BARROW, G. M. **Físico-Química** . 1 ed., São Paulo: Reverte, 1982. 
+EMENTA:
 
-MOORE, W. J. **Físico-Química** . 4 ed., São Paulo: Edgard Blücher, 1976. RUSSEL, J. B. **Química Geral** . 2 ed., v. 2, São Paulo: Pearson Makron Books, 2006. 
+Velocidade de reações químicas. Leis empíricas de velocidade de reação química. Fatores que influenciam a velocidade de reação. Teoria de colisões e teoria do complexo ativado. Eletroquímica. Pilhas e Eletrólise.
 
-COMPONENTE CURRICULAR: Instrumentação para o Ensino de Química II 
+BIBLIOGRAFIA BÁSICA:
 
-98 
+ATKINS, P. **Físico-Química** . 9. ed., v. 2, Rio de Janeiro: LTC, 2012. BALL, D. W. **Físico-Química** . 1. ed., v. 2, São Paulo: Cengage, 2005.
 
-**==> picture [472 x 55] intentionally omitted <==**
+CASTELLAN, G. W. **Físico-Química** . 1. ed., v. 2, Rio de Janeiro: Livros Técnicos e Científicos Editora, 1986.
 
-CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio 
+CHANG, R. **Físico-Química** . 3. ed., v. 2, Porto Alegre: Bookman, 2009. LEVINE, I. N. **Físico-Química** . 6. ed., v. 2, Rio de Janeiro: LTC, 2012.
 
-## EMENTA: 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-Experimentação no ensino de química. Estratégias didáticas experimentais. Sequência de Ensino por Investigação. Elaboração e execução de aulas experimentais investigativas. Avaliação de livros didáticos e paradidáticos. 
+ATKINS, P. **Físico-Química** . 9 ed., v. 1, Rio de Janeiro: LTC, 2012. ATKINS, P. **Físico-Química** . 9 ed., v. 3, Rio de Janeiro: LTC, 2012. FARIAS, R. F. **Cinética Química** : teoria e prática. 2. ed., Campinas: Átomo, 2013. MOORE, W. J. **Físico-Química** . 4. ed., v. 2, São Paulo: Edgard Blucher, 1976. RUSSEL, J. B. **Química Geral.** 2 ed., v. 2, São Paulo: Pearson Makron Books, 2006.
 
-## BIBLIOGRAFIA BÁSICA: 
+COMPONENTE CURRICULAR: EXTENSÃO II
 
-GREENBERG, A. **Uma Breve História da Química** : da Alquimia às Ciências Moleculares Modernas. São Paulo: E. Blucher, 2010. 
+CARGA HORÁRIA: 120 Hora/aula e 100 Hora/relógio
 
-FARIAS, R. F.; NEVES, L. S.; SILVA, D. D. **História da química no Brasil** . 4. ed., Campinas: Átomo, 2011. 
+EMENTA:
 
-LUDKE, M.; ANDRÉ, M. E. D. A. **Pesquisa em Educação** : Abordagens Qualitativas. 8. ed., São Paulo: EPU, 1981. 99p. 
+Planejamento e desenvolvimento de ações de extensão (programas, projetos, cursos, oficinas, eventos, publicações e/ou prestação de serviços).
 
-ROSA, M. I. **Investigação e ensino** : articulações e possibilidades na formação de professores de ciências. Ijuí: UNIJUÍ, 2004. 184p. 
+BIBLIOGRAFIA BÁSICA:
 
-SANTOS, W. L. P.; SCHNETZLER, R. P. **Educação em Química** : Compromisso com a cidadania. 3. ed., Ijuí: UNIJUÍ, 2000. 144p. 
+CONTADOR, C.R. **Projetos Sociais** : avaliação e prática. 4ª Ed. São Paulo: Atlas, 2000. 375p. GAZZOLA, A.L.A., ALMEIDA, S.G. (Org.). **Universidade; Cooperação Internacional e diversidade** . Belo Horizonte: Editora UFMG, 2006. 324p.
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+MINAYO, M.C.S. (Org.). **Pesquisa Social** : teoria, método e criatividade. 25. ed. Revista e atualizada. Petrópolis, RJ: Vozes, 2007. 108p.
 
-BRASIL. **Programa Nacional do Livro Didático para o Ensino Médio** (PNLEM). Brasília, MEC, 2006. 
+NOGUEIRA, M.D.P. **Políticas de Extensão Universitária Brasileira.** Belo Horizonte: Editora UFMG, 2005. 135p.
 
-GALIAZZI, M. C.; GONÇALVES, F. P. A Natureza pedagógica da Experimentação: uma pesquisa na Licenciatura em Química. **Química Nova** , v. 27, n. 2, p. 326-331, 2004. GIORDAN, M. O papel da experimentação no Ensino de Química. **Química Nova** , n. 10, p. 4349, nov. 1999. 
+SANTOS, B.S. **Universidade do Século XXI** : para uma reforma democrática e emancipatória da Universidade. São Paulo: Cortez, 2004. 120p. (Coleção questões da nossa época; v. 120).
 
-ROMANELLI, L. I.; JUSTI. R. S. **Aprendendo Química** . 2. ed., Ijuí: UNIJUÍ, 1998. 152p. SOARES, M. H. F. B.; CAVALHEIRO, E. T. G. O Ludo como um Jogo para Discutir Conceitos em Termoquímica. **Química Nova na Escola** , São Paulo, v. 22, p. 27-31, 2006. 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-COMPONENTE CURRICULAR: Estágio Supervisionado II 
+BRASIL. **Resolução CNE/CES nº 7, de 18 de dezembro de 2018** , que estabelece as Diretrizes para a Extensão na Educação Superior Brasileira e regimenta o disposto na Meta 12.7 da Lei nº
 
-CARGA HORÁRIA: 120 Hora/aula e 100 Hora/relógio 
+13.005/2014. Disponível em: https://www.in.gov.br/materia//asset_publisher/Kujrw0TZC2Mb/content/id/55877808 FORPROEX. **Política nacional de extensão universitária.** Manaus, 2012. Disponível em: https://proex.ufsc.br/files/2016/04/Política-Nacional-de-Extensão-Universitária-e-book.pdf FREIRE, P. **Extensão ou comunicação?** 7ª Ed. Rio de Janeiro; Paz e Terra, 1983. 93p. GADOTTI, M. **Extensão Universitária: Para quê?.** Brasil: Instituto Paulo Freire , 2017. Disponível em: https://www.paulofreire.org/images/pdfs/Extensão_Universitária__Moacir_Gadotti_fevereiro_2017.pdf
 
-99 
+SOUZA, A.L.L. **A história da Extensão Universitária.** Campinas, SP: Editora Alinea, 2000. 138p.
 
-**==> picture [472 x 55] intentionally omitted <==**
+COMPONENTE CURRICULAR: Bioquímica
 
-EMENTA: Planejamento e desenvolvimento de semi-regências no IFPR- Campus Pitanga. BIBLIOGRAFIA BÁSICA: FERREIRA, J. L. **Formação de professores** : História, políticas educacionais e práticas pedagógicas. 1. ed., Curitiba: Appris, 2015. LOPES, J. G. S. **Reflexões sobre Formação de Professores e Educação Química** . 1. ed., São Paulo: Livraria da Física, 2015. 
+CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio
 
-MALDANER, O. A. **A formação Inicial e Continuada de Professores de Química** . Professores/Pesquisadores. 3. ed., Ijuí: Ijuí: UNIJUÍ, 2006. MORIN, E. **Os sete saberes para a educação do futuro** . 1. ed., Lisboa: Instituto Piaget, 2010. SANTOS, W. L. P.; SCHNETZLER, R. P. **Educação em Química** : Compromisso com a cidadania. 3. ed., Ijuí: Ijuí: UNIJUÍ, 2000. 144p 
+## EMENTA:
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+I ntrodução à Bioquímica. Estruturas, propriedades químicas e funções de biomoléculas: carboidratos, lipídios, aminoácidos, proteínas, nucleótidos e ácidos nucleicos. Introdução ao metabolismo. Respiração celular. Fermentações.
 
-ABDALLA, M. F. B. **O senso prático do ser e estar na profissão** . São Paulo: Cortez, 2006. 120p. GRUPO DE PESQUISA EM EDUCAÇÃO QUÍMICA. **Interações e Transformações II** : Reelaborando conceitos sobre transformações químicas – química e sobrevivência. 1. ed., São Paulo: EDUSP, 2011. ROSA, M. I. **Investigação e ensino** : articulações e possibilidades na formação de professores de ciências. Ijuí: UNIJUÍ, 2004. 184p. SANTOS, W. L. P.; SCHNETZLER, R. P. **Educação em Química** : Compromisso com a cidadania. 3. ed., Ijuí: UNIJUÍ, 2000. 144p. VASCONCELLOS, C. S. **Construção do conhecimento em sala de aula** . 10. ed., São Paulo: Libertad, 2000. 
+BIBLIOGRAFIA BÁSICA:
 
-COMPONENTE CURRICULAR: TCC I CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio EMENTA: Orientação e elaboração de um projeto de pesquisa. Normas estruturais e recursos de apresentação de trabalhos acadêmico-científicos. 
+FERRIER, D. R. Bioquímica ilustrada. 7. ed. Porto Alegre: Artmed, 2019. (8)
 
-100 
+NELSON, D. L.; COX, M. M. Princípios de bioquímica Lehninger. 6. ed. Porto Alegre: Artmed, 2014. BELLÉ, Luziane Potrich; SANDRI, Silvana. Bioquímica aplicada: reconhecimento e caracterização de biomoléculas. São Paulo: Érica, 2014. MARZZOCO, A.; TORRES, B. B. Bioquímica Básica. 4. ed. Rio de Janeiro: Guanabara Koogan, 2015. VOET, D.; VOET, J. G. Bioquímica. Porto Alegre: Artmed, 2013.
 
-**==> picture [472 x 55] intentionally omitted <==**
+BIBLIOGRAFIA COMPLEMENTAR: JUNQUEIRA, L. C.; CARNEIRO, J. Biologia celular e molecular. 9. ed. Rio de Janeiro: Guanabara Koogan, 2012. KOOLMAN, J.; RÖHM, K. H. Bioquímica: texto e atlas. 4. ed. Porto Alegre: Artmed, 2013. (1) (ESGOTADO)
 
-BIBLIOGRAFIA BÁSICA: 
+KOBLITZ, M. G. B. Bioquímica de alimentos: teoria e aplicações práticas. Rio de Janeiro: Guanabara Koogan, 2008.
 
-ALVES-MAZZOTTI, A. J. A revisão bibliográfica em teses e dissertações: meus tipos inesquecíveis – o retorno. _In:_ **A bússola do escrever** : desafios e estratégias na orientação e escrita de teses e dissertações. BIANCHETTI, L.; MACHADO, A. M. N. (Orgs.). São Paulo: Cortez, 2002, p. 25-44. GIL, A. C. **Como elaborar projetos de pesquisa** . 5 ed. São Paulo: Atlas, 2010. LAKATOS, E. M.; MARCONI, M. A. **Fundamentos de metodologia científica** . 8 ed. São Paulo: Atlas, 2017. LUNA, S.V. **Planejamento de pesquisa:** uma introdução. São Paulo: EDUC, 2011. MEDEIROS, J. B.; TOMASI, C. **Redação de artigos científicos** . Métodos de realização, seleção de periódicos, publicação. São Paulo: Atlas, 2016. MOTA-ROTH, D.; HENDGES, G.R. **Produção textual na universidade.** São Paulo: Parábola, 2010. PINHEIRO, J. M. S. **Da iniciação científica ao TCC** : uma abordagem para os cursos de tecnologia. Rio de Janeiro: Ciência Moderna, 2010. SEVERINO, A. J. **Metodologia do trabalho científico** . 24 ed. São Paulo: Cortez, 2015. 
+ALBERTS, B.; BRAY, D.; LEWIS, J.; RAFF, M.; ROBERTS, K.; WATSON, J. D. Biologia molecular da célula. Porto Alegre: Artes Médicas, 1999.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+RIBEIRO, E. P., SERAVALLI, E. A. G. Química de alimentos. 2. ed. São Paulo: Edgard Blücher Ltda, 2007
 
-ALVES, R. **Filosofia da ciência** : introdução ao jogo e suas regras. 10. ed. São Paulo: Loyola, 2005. ECO, U. **Como se faz uma tese** . 23 ed. São Paulo: Perspectiva, 2010. GIL, A. C. **Métodos e técnicas de pesquisa social** . 6 ed. São Paulo: Atlas, 2016. GOLDENBERG, M. **A Arte de Pesquisar** : como fazer pesquisa qualitativa em Ciências Sociais. Rio de Janeiro: Record, 2004. 
+COMPONENTE CURRICULAR: TCC II
 
-## **7º SEMESTRE:** 
+CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio
 
-COMPONENTE CURRICULAR: Físico-Química II 
+EMENTA:
 
-CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio 
+Elaboração do trabalho de conclusão de curso.
 
-EMENTA: 
+BIBLIOGRAFIA BÁSICA:
 
-Velocidade de reações químicas. Leis empíricas de velocidade de reação química. Fatores que influenciam a velocidade de reação. Teoria de colisões e teoria do complexo ativado. Eletroquímica. Pilhas e Eletrólise. 
+GIL, A. C. **Como elaborar projetos de pesquisa** . 5 ed. São Paulo: Atlas, 2010. LAKATOS, E. M.; MARCONI, M. A. **Fundamentos de Metodologia Científica** . 8 ed. São Paulo: Atlas, 2017. MEDEIROS, J. B.; TOMASI, C. **Redação de Artigos Científicos** . Métodos de realização, seleção de periódicos, publicação. São Paulo: Atlas, 2016. PINHEIRO, J. M. S. **Da iniciação científica ao TCC** : uma abordagem para os cursos de tecnologia. Rio de Janeiro: Ciência Moderna, 2010. SEVERINO, A. J. **Metodologia do trabalho científico** . 24 ed. São Paulo: Cortez, 2015.
 
-BIBLIOGRAFIA BÁSICA: 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-101 
+ALVES, R. **Filosofia da ciência** : introdução ao jogo e suas regras. 10 ed. São Paulo: Loyola, 2005. ECO, U. **Como se faz uma tese** . 23 ed. São Paulo: Perspectiva, 2010. GIL, A. C. **Métodos e técnicas de pesquisa social** . 6 ed. São Paulo: Atlas, 2016. GOLDENBERG, M. **A Arte de Pesquisar** : como fazer pesquisa qualitativa em Ciências Sociais. Rio de Janeiro: Record, 2004. SPECTOR, N. **Manual para a redação de teses, dissertações e projetos de pesquisa** . Rio de Janeiro: Guanabara Koogan, 1997.
 
-**==> picture [472 x 55] intentionally omitted <==**
+COMPONENTE CURRICULAR: Estágio Supervisionado III CARGA HORÁRIA: 120 Hora/aula e 100 Hora/relógio EMENTA:
 
-ATKINS, P. **Físico-Química** . 9. ed., v. 2, Rio de Janeiro: LTC, 2012. BALL, D. W. **Físico-Química** . 1. ed., v. 2, São Paulo: Cengage, 2005. 
+Planejamento de sequência didática. Implementação de sequências didáticas nas instituições de educação básica.
 
-CASTELLAN, G. W. **Físico-Química** . 1. ed., v. 2, Rio de Janeiro: Livros Técnicos e Científicos Editora, 1986. 
+## BIBLIOGRAFIA BÁSICA:
 
-CHANG, R. **Físico-Química** . 3. ed., v. 2, Porto Alegre: Bookman, 2009. LEVINE, I. N. **Físico-Química** . 6. ed., v. 2, Rio de Janeiro: LTC, 2012. 
+FERREIRA, J. L. **Formação de professores** : História, políticas educacionais e práticas pedagógicas. 1. ed., Curitiba: Appris, 2015. LOPES, J. G. S. **Reflexões sobre Formação de Professores e Educação Química** . 1. ed., São Paulo: Livraria da Física, 2015. MALDANER, O. A. **A formação Inicial e Continuada de Professores de Química** . Professores/Pesquisadores. 3. ed., Ijuí: Ijuí: UNIJUÍ, 2006. MORIN, E. **Os sete saberes para a educação do futuro** . 1. ed., Lisboa: Instituto Piaget, 2010. SANTOS, W. L. P.; SCHNETZLER, R. P. **Educação em Química** : Compromisso com a cidadania. 3. ed., Ijuí: Ijuí: UNIJUÍ, 2000. 144p.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+BIBLIOGRAFIA COMPLEMENTAR: ABDALLA, M. F. B. **O senso prático do ser e estar na profissão** . São Paulo: Cortez, 2006. 120p. BROWN, T. L.; LEMAY, H. E.; BURSTEN, B. E. **Química** . A ciência Central. 9. ed., São Paulo: Pearson, 2005. ROSA, M. I. **Investigação e ensino** : articulações e possibilidades na formação de professores de ciências. Ijuí: UNIJUÍ, 2004. 184 p.
 
-ATKINS, P. **Físico-Química** . 9 ed., v. 1, Rio de Janeiro: LTC, 2012. ATKINS, P. **Físico-Química** . 9 ed., v. 3, Rio de Janeiro: LTC, 2012. FARIAS, R. F. **Cinética Química** : teoria e prática. 2. ed., Campinas: Átomo, 2013. MOORE, W. J. **Físico-Química** . 4. ed., v. 2, São Paulo: Edgard Blucher, 1976. RUSSEL, J. B. **Química Geral.** 2 ed., v. 2, São Paulo: Pearson Makron Books, 2006. 
+SANTOS, W. L. P.; SCHNETZLER, R. P. **Educação em Química** : Compromisso com a cidadania. 3. ed., Ijuí: UNIJUÍ, 2000. 144 p.
 
-COMPONENTE CURRICULAR: EXTENSÃO II 
+VASCONCELLOS, C. S. **Construção do conhecimento em sala de aula** . 10. ed., São Paulo: Libertad, 2000.
 
-CARGA HORÁRIA: 120 Hora/aula e 100 Hora/relógio 
+## **8º SEMESTRE:**
 
-EMENTA: 
+## COMPONENTE CURRICULAR: EXTENSÃO III
 
-Planejamento e desenvolvimento de ações de extensão (programas, projetos, cursos, oficinas, eventos, publicações e/ou prestação de serviços). 
+CARGA HORÁRIA: 201 Hora/aula e 167 Hora/relógio
 
-BIBLIOGRAFIA BÁSICA: 
+## EMENTA:
 
-CONTADOR, C.R. **Projetos Sociais** : avaliação e prática. 4ª Ed. São Paulo: Atlas, 2000. 375p. GAZZOLA, A.L.A., ALMEIDA, S.G. (Org.). **Universidade; Cooperação Internacional e diversidade** . Belo Horizonte: Editora UFMG, 2006. 324p. 
+Planejamento e desenvolvimento de ações de extensão (programas, projetos, cursos, oficinas, eventos, publicações e/ou prestação de serviços).
 
-MINAYO, M.C.S. (Org.). **Pesquisa Social** : teoria, método e criatividade. 25. ed. Revista e atualizada. Petrópolis, RJ: Vozes, 2007. 108p. 
+BIBLIOGRAFIA BÁSICA:
 
-NOGUEIRA, M.D.P. **Políticas de Extensão Universitária Brasileira.** Belo Horizonte: Editora UFMG, 2005. 135p. 
+CONTADOR, C.R. **Projetos Sociais** : avaliação e prática. 4ª Ed. São Paulo: Atlas, 2000. 375p. GAZZOLA, A.L.A., ALMEIDA, S.G. (Org.). **Universidade; Cooperação Internacional e diversidade** . Belo Horizonte: Editora UFMG, 2006. 324p.
 
-SANTOS, B.S. **Universidade do Século XXI** : para uma reforma democrática e emancipatória da Universidade. São Paulo: Cortez, 2004. 120p. (Coleção questões da nossa época; v. 120). 
+MINAYO, M.C.S. (Org.). **Pesquisa Social** : teoria, método e criatividade. 25. ed. Revista e atualizada. Petrópolis, RJ: Vozes, 2007. 108p.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+NOGUEIRA, M.D.P. **Políticas de Extensão Universitária Brasileira.** Belo Horizonte: Editora UFMG, 2005. 135p.
 
-BRASIL. **Resolução CNE/CES nº 7, de 18 de dezembro de 2018** , que estabelece as Diretrizes para a Extensão na Educação Superior Brasileira e regimenta o disposto na Meta 12.7 da Lei nº 
+SANTOS, B.S. **Universidade do Século XXI** : para uma reforma democrática e emancipatória da Universidade. São Paulo: Cortez, 2004. 120p. (Coleção questões da nossa época; v. 120).
 
-102 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-**==> picture [472 x 55] intentionally omitted <==**
+BRASIL. **Resolução CNE/CES nº 7, de 18 de dezembro de 2018** , que estabelece as Diretrizes para a Extensão na Educação Superior Brasileira e regimenta o disposto na Meta 12.7 da Lei nº 13.005/2014. Disponível em: https://www.in.gov.br/materia//asset_publisher/Kujrw0TZC2Mb/content/id/55877808
 
-13.005/2014. Disponível em: https://www.in.gov.br/materia//asset_publisher/Kujrw0TZC2Mb/content/id/55877808 FORPROEX. **Política nacional de extensão universitária.** Manaus, 2012. Disponível em: https://proex.ufsc.br/files/2016/04/Política-Nacional-de-Extensão-Universitária-e-book.pdf FREIRE, P. **Extensão ou comunicação?** 7ª Ed. Rio de Janeiro; Paz e Terra, 1983. 93p. GADOTTI, M. **Extensão Universitária: Para quê?.** Brasil: Instituto Paulo Freire , 2017. Disponível em: https://www.paulofreire.org/images/pdfs/Extensão_Universitária__Moacir_Gadotti_fevereiro_2017.pdf 
+FORPROEX. **Política nacional de extensão universitária.** Manaus, 2012. Disponível em: https://proex.ufsc.br/files/2016/04/Política-Nacional-de-Extensão-Universitária-e-book.pdf FREIRE, P. **Extensão ou comunicação?** 7ª Ed. Rio de Janeiro; Paz e Terra, 1983. 93p. GADOTTI, M. **Extensão Universitária: Para quê?.** Brasil: Instituto Paulo Freire , 2017. Disponível em: https://www.paulofreire.org/images/pdfs/Extensão_Universitária__Moacir_Gadotti_fevereiro_2017.pdf
 
-SOUZA, A.L.L. **A história da Extensão Universitária.** Campinas, SP: Editora Alinea, 2000. 138p. 
+SOUZA, A.L.L. **A história da Extensão Universitária.** Campinas, SP: Editora Alinea, 2000. 138p.
 
-COMPONENTE CURRICULAR: Bioquímica 
+COMPONENTE CURRICULAR: TCC III
 
-CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio 
+CARGA HORÁRIA: 120 Hora/aula e 100 Hora/relógio
 
-## EMENTA: 
+EMENTA:
 
-I ntrodução à Bioquímica. Estruturas, propriedades químicas e funções de biomoléculas: carboidratos, lipídios, aminoácidos, proteínas, nucleótidos e ácidos nucleicos. Introdução ao metabolismo. Respiração celular. Fermentações. 
+Elaboração do trabalho de conclusão de curso, apresentação e defesa do trabalho final.
 
-BIBLIOGRAFIA BÁSICA: 
+BIBLIOGRAFIA BÁSICA:
 
-FERRIER, D. R. Bioquímica ilustrada. 7. ed. Porto Alegre: Artmed, 2019. (8) 
+GIL, A. C. **Como elaborar projetos de pesquisa** . 5 ed. São Paulo: Atlas, 2010. LAKATOS, E. M.; MARCONI, M. A. **Fundamentos de Metodologia Científica** . 8 ed. São Paulo: Atlas, 2017.
 
-NELSON, D. L.; COX, M. M. Princípios de bioquímica Lehninger. 6. ed. Porto Alegre: Artmed, 2014. BELLÉ, Luziane Potrich; SANDRI, Silvana. Bioquímica aplicada: reconhecimento e caracterização de biomoléculas. São Paulo: Érica, 2014. MARZZOCO, A.; TORRES, B. B. Bioquímica Básica. 4. ed. Rio de Janeiro: Guanabara Koogan, 2015. VOET, D.; VOET, J. G. Bioquímica. Porto Alegre: Artmed, 2013. 
+MEDEIROS, J. B.; TOMASI, C. **Redação de Artigos Científicos** . Métodos de realização, seleção de periódicos, publicação. São Paulo: Atlas, 2016.
 
-BIBLIOGRAFIA COMPLEMENTAR: JUNQUEIRA, L. C.; CARNEIRO, J. Biologia celular e molecular. 9. ed. Rio de Janeiro: Guanabara Koogan, 2012. KOOLMAN, J.; RÖHM, K. H. Bioquímica: texto e atlas. 4. ed. Porto Alegre: Artmed, 2013. (1) (ESGOTADO) 
+PINHEIRO, J. M. S. **Da iniciação científica ao TCC** : uma abordagem para os cursos de tecnologia. Rio de Janeiro: Ciência Moderna, 2010. SEVERINO, A. J. **Metodologia do trabalho científico** . 24 ed. São Paulo: Cortez, 2015.
 
-103 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-**==> picture [472 x 55] intentionally omitted <==**
+ALVES, R. **Filosofia da ciência** : introdução ao jogo e suas regras. 10 ed. São Paulo: Loyola, 2005.
 
-KOBLITZ, M. G. B. Bioquímica de alimentos: teoria e aplicações práticas. Rio de Janeiro: Guanabara Koogan, 2008. 
+ECO, U. **Como se faz uma tese** . 23 ed. São Paulo: Perspectiva, 2010. GIL, A. C. **Métodos e técnicas de pesquisa social** . 6 ed. São Paulo: Atlas, 2016. GOLDENBERG, M. **A Arte de Pesquisar** : como fazer pesquisa qualitativa em Ciências Sociais. Rio de Janeiro: Record, 2004.
 
-ALBERTS, B.; BRAY, D.; LEWIS, J.; RAFF, M.; ROBERTS, K.; WATSON, J. D. Biologia molecular da célula. Porto Alegre: Artes Médicas, 1999. 
+SPECTOR, N. **Manual para a redação de teses, dissertações e projetos de pesquisa** . Rio de Janeiro: Guanabara Koogan, 1997.
 
-RIBEIRO, E. P., SERAVALLI, E. A. G. Química de alimentos. 2. ed. São Paulo: Edgard Blücher Ltda, 2007 
+## COMPONENTE CURRICULAR: Química e Meio Ambiente
 
-COMPONENTE CURRICULAR: TCC II 
+CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio
 
-CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio 
+EMENTA:
 
-EMENTA: 
+Educação ambiental. Os impactos socioambientais da tecnologia. Ciclos Biogeoquímicos. Química da Atmosfera, da Hidrosfera e Litosfera. Impactos ambientais e desenvolvimento sustentável. Resíduos sólidos e resíduos radioativos. Tecnologia de tratamento de rejeitos visando a minimização, reciclagem e reuso.
 
-Elaboração do trabalho de conclusão de curso. 
+BIBLIOGRAFIA BÁSICA:
 
-BIBLIOGRAFIA BÁSICA: 
+BAIRD, C.; CANN, M. Química ambiental. 4. ed., Porto Alegre: Bookman, 2011. 844p.
 
-GIL, A. C. **Como elaborar projetos de pesquisa** . 5 ed. São Paulo: Atlas, 2010. LAKATOS, E. M.; MARCONI, M. A. **Fundamentos de Metodologia Científica** . 8 ed. São Paulo: Atlas, 2017. MEDEIROS, J. B.; TOMASI, C. **Redação de Artigos Científicos** . Métodos de realização, seleção de periódicos, publicação. São Paulo: Atlas, 2016. PINHEIRO, J. M. S. **Da iniciação científica ao TCC** : uma abordagem para os cursos de tecnologia. Rio de Janeiro: Ciência Moderna, 2010. SEVERINO, A. J. **Metodologia do trabalho científico** . 24 ed. São Paulo: Cortez, 2015. 
+BARBOSA, R. P.; IBRAHIN, F. I. D. Resíduos Sólidos - Impactos, Manejo e Gestão Ambiental. São Paulo: Érica, 2014. 176p.
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+DAVIS, M. L.; MASTEN, S. J. Princípios de engenharia ambiental. 3. ed., Porto Alegre: AMGH, 2016. 872p.
 
-ALVES, R. **Filosofia da ciência** : introdução ao jogo e suas regras. 10 ed. São Paulo: Loyola, 2005. ECO, U. **Como se faz uma tese** . 23 ed. São Paulo: Perspectiva, 2010. GIL, A. C. **Métodos e técnicas de pesquisa social** . 6 ed. São Paulo: Atlas, 2016. GOLDENBERG, M. **A Arte de Pesquisar** : como fazer pesquisa qualitativa em Ciências Sociais. Rio de Janeiro: Record, 2004. SPECTOR, N. **Manual para a redação de teses, dissertações e projetos de pesquisa** . Rio de Janeiro: Guanabara Koogan, 1997. 
+MANAHAN, S. Química ambiental. 9. ed., Porto Alegre: Bookman, 2012. 944p.
 
-104 
+ROCHA, J. C.; ROSA, A. H.; CARDOSO, A. A. Introdução à química ambiental. 2. ed., Porto Alegre: Bookman, 2009. 256p.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-COMPONENTE CURRICULAR: Estágio Supervisionado III CARGA HORÁRIA: 120 Hora/aula e 100 Hora/relógio EMENTA: 
+ALMEIDA, F. Os Desafios da Sustentabilidade. Rio de Janeiro: Elsevier, 2007.
 
-Planejamento de sequência didática. Implementação de sequências didáticas nas instituições de educação básica. 
+CRUZ, H. M. Análises Microbiológicas e Físico-Químicas - Conceitos Para Gestão Ambiental. 1. ed., São Paulo: Érica, 2014.
 
-## BIBLIOGRAFIA BÁSICA: 
+MILLER, J. G. T. Ciência Ambiental.11. ed., São Paulo: Cengage, 2014. 568p.
 
-FERREIRA, J. L. **Formação de professores** : História, políticas educacionais e práticas pedagógicas. 1. ed., Curitiba: Appris, 2015. LOPES, J. G. S. **Reflexões sobre Formação de Professores e Educação Química** . 1. ed., São Paulo: Livraria da Física, 2015. MALDANER, O. A. **A formação Inicial e Continuada de Professores de Química** . Professores/Pesquisadores. 3. ed., Ijuí: Ijuí: UNIJUÍ, 2006. MORIN, E. **Os sete saberes para a educação do futuro** . 1. ed., Lisboa: Instituto Piaget, 2010. SANTOS, W. L. P.; SCHNETZLER, R. P. **Educação em Química** : Compromisso com a cidadania. 3. ed., Ijuí: Ijuí: UNIJUÍ, 2000. 144p. 
+RICKLEFS, R. E. A Economia da Natureza. 7. ed., Rio de Janeiro. Guanabara Koogan, 2016. LEONARD. A. A história das coisas - da natureza ao lixo, o que acontece com tudo que consumimos. 1. ed., Rio de Janeiro: ZAHAR, 2011. 304p.
 
-BIBLIOGRAFIA COMPLEMENTAR: ABDALLA, M. F. B. **O senso prático do ser e estar na profissão** . São Paulo: Cortez, 2006. 120p. BROWN, T. L.; LEMAY, H. E.; BURSTEN, B. E. **Química** . A ciência Central. 9. ed., São Paulo: Pearson, 2005. ROSA, M. I. **Investigação e ensino** : articulações e possibilidades na formação de professores de ciências. Ijuí: UNIJUÍ, 2004. 184 p. 
+COMPONENTE CURRICULAR: Estágio Supervisionado IV
 
-SANTOS, W. L. P.; SCHNETZLER, R. P. **Educação em Química** : Compromisso com a cidadania. 3. ed., Ijuí: UNIJUÍ, 2000. 144 p. 
+CARGA HORÁRIA: 120 Hora/aula e 100 Hora/relógio
 
-VASCONCELLOS, C. S. **Construção do conhecimento em sala de aula** . 10. ed., São Paulo: Libertad, 2000. 
+## EMENTA:
 
-## **8º SEMESTRE:** 
+Planejamento de sequência didática. Implementação de sequências didáticas nas instituições de educação básica.
 
-## COMPONENTE CURRICULAR: EXTENSÃO III 
+## BIBLIOGRAFIA BÁSICA:
 
-105 
+FERREIRA, J. L. **Formação de professores** : História, políticas educacionais e práticas pedagógicas. 1. ed., Curitiba: Appris, 2015.
 
-**==> picture [472 x 55] intentionally omitted <==**
+LOPES, J. G. S. **Reflexões sobre Formação de Professores e Educação Química** . 1. ed., São Paulo: Livraria da Física, 2015.
 
-CARGA HORÁRIA: 201 Hora/aula e 167 Hora/relógio 
+MALDANER, O. A. **A formação Inicial e Continuada de Professores de Química** . Professores/Pesquisadores. 3. ed., Ijuí: Ijuí: UNIJUÍ, 2006.
 
-## EMENTA: 
+MORIN, E. **Os sete saberes para a educação do futuro** . 1. ed., Lisboa: Instituto Piaget, 2010. SANTOS, W. L. P.; SCHNETZLER, R. P. **Educação em Química** : Compromisso com a cidadania. 3. ed., Ijuí: Ijuí: UNIJUÍ, 2000. 144p.
 
-Planejamento e desenvolvimento de ações de extensão (programas, projetos, cursos, oficinas, eventos, publicações e/ou prestação de serviços). 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-BIBLIOGRAFIA BÁSICA: 
+ABDALLA, M. F. B. **O senso prático do ser e estar na profissão** . São Paulo: Cortez, 2006. 120p.
 
-CONTADOR, C.R. **Projetos Sociais** : avaliação e prática. 4ª Ed. São Paulo: Atlas, 2000. 375p. GAZZOLA, A.L.A., ALMEIDA, S.G. (Org.). **Universidade; Cooperação Internacional e diversidade** . Belo Horizonte: Editora UFMG, 2006. 324p. 
+BROWN, T. L.; LEMAY, H. E.; BURSTEN, B. E. **Química** . A ciência Central. 9. ed., São Paulo: Pearson, 2005.
 
-MINAYO, M.C.S. (Org.). **Pesquisa Social** : teoria, método e criatividade. 25. ed. Revista e atualizada. Petrópolis, RJ: Vozes, 2007. 108p. 
+ROSA, M. I. **Investigação e ensino** : articulações e possibilidades na formação de professores de ciências. Ijuí: UNIJUÍ, 2004. 184p.
 
-NOGUEIRA, M.D.P. **Políticas de Extensão Universitária Brasileira.** Belo Horizonte: Editora UFMG, 2005. 135p. 
+SANTOS, W. L. P.; SCHNETZLER, R. P. **Educação em Química** : Compromisso com a cidadania. 3. ed., Ijuí: UNIJUÍ, 2000. 144p.
 
-SANTOS, B.S. **Universidade do Século XXI** : para uma reforma democrática e emancipatória da Universidade. São Paulo: Cortez, 2004. 120p. (Coleção questões da nossa época; v. 120). 
+VASCONCELLOS, C. S. **Construção do conhecimento em sala de aula** . 10. ed., São Paulo: Libertad, 2000.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+## **OPTATIVAS:**
 
-BRASIL. **Resolução CNE/CES nº 7, de 18 de dezembro de 2018** , que estabelece as Diretrizes para a Extensão na Educação Superior Brasileira e regimenta o disposto na Meta 12.7 da Lei nº 13.005/2014. Disponível em: https://www.in.gov.br/materia//asset_publisher/Kujrw0TZC2Mb/content/id/55877808 
+## COMPONENTE CURRICULAR: Estatística e Probabilidade
 
-FORPROEX. **Política nacional de extensão universitária.** Manaus, 2012. Disponível em: https://proex.ufsc.br/files/2016/04/Política-Nacional-de-Extensão-Universitária-e-book.pdf FREIRE, P. **Extensão ou comunicação?** 7ª Ed. Rio de Janeiro; Paz e Terra, 1983. 93p. GADOTTI, M. **Extensão Universitária: Para quê?.** Brasil: Instituto Paulo Freire , 2017. Disponível em: https://www.paulofreire.org/images/pdfs/Extensão_Universitária__Moacir_Gadotti_fevereiro_2017.pdf 
+## CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio
 
-SOUZA, A.L.L. **A história da Extensão Universitária.** Campinas, SP: Editora Alinea, 2000. 138p. 
+## EMENTA:
 
-COMPONENTE CURRICULAR: TCC III 
+Representação de Dados em tabelas e gráficos. Noções de amostragem. Medidas de tendência central, dispersão e posição. Distribuição de frequências. Elementos da probabilidade. Distribuições discretas e contínuas de Probabilidades. Estimativa de parâmetros. Testes de hipóteses. Análise da variância. Correlação e regressão.
 
-CARGA HORÁRIA: 120 Hora/aula e 100 Hora/relógio 
+## BIBLIOGRAFIA BÁSICA:
 
-106 
+BUSSAB, W. O., MORETIN, P. A. **Estatística básica** . 8. ed., São Paulo: Saraiva, 2014. CRESPO, A. A. **Estatística Fácil** . 19. ed., São Paulo: Saraiva, 2012.
 
-**==> picture [472 x 55] intentionally omitted <==**
+IEZZI, G.; HAZZAN, S.; DEGENSZAJN, D. **Fundamentos da matemática Elementar** : Matemática Financeira e Estatística. 2. ed., v. 11, São Paulo: Atual, 2013.
 
-EMENTA: 
+FONSECA, J. S., MARTINS, G. A. **Curso de estatística** . 6. ed., São Paulo: Atlas, 2006. TRIOLA, M. F. **Introdução à estatística** : Atualização da Tecnologia. 11. ed., Rio de Janeiro: LTC, 2013.
 
-Elaboração do trabalho de conclusão de curso, apresentação e defesa do trabalho final. 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-BIBLIOGRAFIA BÁSICA: 
+COSTA NETO, P. L. O. **Estatística básica** . São Paulo: Edgard Blücher, 2005.
 
-GIL, A. C. **Como elaborar projetos de pesquisa** . 5 ed. São Paulo: Atlas, 2010. LAKATOS, E. M.; MARCONI, M. A. **Fundamentos de Metodologia Científica** . 8 ed. São Paulo: Atlas, 2017. 
+HUFF, D.; GEIS, I.; CASOTTI, B. **Como mentir com Estatística** . 1. ed., Rio de Janeiro: Intrinseca, 2016.
 
-MEDEIROS, J. B.; TOMASI, C. **Redação de Artigos Científicos** . Métodos de realização, seleção de periódicos, publicação. São Paulo: Atlas, 2016. 
+MAGALHÃES, M. M.; LIMA, A. C. **Noções de Probabilidade e Estatística** . 7. ed., São Paulo: EDUSP, 2013.
 
-PINHEIRO, J. M. S. **Da iniciação científica ao TCC** : uma abordagem para os cursos de tecnologia. Rio de Janeiro: Ciência Moderna, 2010. SEVERINO, A. J. **Metodologia do trabalho científico** . 24 ed. São Paulo: Cortez, 2015. 
+PINHEIRA, J. I.; CUNHA, S. B.; CARVAJAL, S.; _et al_ . **Estatística básica** : a arte de trabalhar com dados. São Paulo: Campus, 2008.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+SILVA, N. N. **Amostragem probabilística** : um curso introdutório. São Paulo: EDUSP, 2015.
 
-ALVES, R. **Filosofia da ciência** : introdução ao jogo e suas regras. 10 ed. São Paulo: Loyola, 2005. 
+## COMPONENTE CURRICULAR: Microbiologia
 
-ECO, U. **Como se faz uma tese** . 23 ed. São Paulo: Perspectiva, 2010. GIL, A. C. **Métodos e técnicas de pesquisa social** . 6 ed. São Paulo: Atlas, 2016. GOLDENBERG, M. **A Arte de Pesquisar** : como fazer pesquisa qualitativa em Ciências Sociais. Rio de Janeiro: Record, 2004. 
+CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio
 
-SPECTOR, N. **Manual para a redação de teses, dissertações e projetos de pesquisa** . Rio de Janeiro: Guanabara Koogan, 1997. 
+## EMENTA:
 
-## COMPONENTE CURRICULAR: Química e Meio Ambiente 
+Introdução à Microbiologia. Morfologia e arranjo celular de microrganismos. Classificação dos microrganismos. Fundamentos de microscopia e visualização de microrganismos. Técnicas de assepsia e desinfecção por agentes químicos e físicos. Técnicas de semeadura e meios de cultura. Curva de crescimento. Fatores que interferem no crescimento. Métodos de controle de microrganismos.
 
-CARGA HORÁRIA: 80 Hora/aula e 67 Hora/relógio 
+## BIBLIOGRAFIA BÁSICA:
 
-EMENTA: 
+Trabulsi, L. R. **Microbiologia** . 5. ed., São Paulo: Atheneu, 2008. 780p.
 
-Educação ambiental. Os impactos socioambientais da tecnologia. Ciclos Biogeoquímicos. Química da Atmosfera, da Hidrosfera e Litosfera. Impactos ambientais e desenvolvimento sustentável. Resíduos sólidos e resíduos radioativos. Tecnologia de tratamento de rejeitos visando a minimização, reciclagem e reuso. 
+Pelczar, M. **Microbiologia** : conceitos e aplicações. 2. ed., v. 1, São Paulo: Makron,1996. 524p. TORTORA, G. J.; FUNKE, B. R.; CASE, C. L. **Microbiologia** . 12. ed. Porto Alegre: Artmed, 2017.
 
-BIBLIOGRAFIA BÁSICA: 
+RIBEIRO, M. C. **Microbiologia Prática** : Aplicações de Aprendizagem de Microbiologia Básica. 2. ed., São Paulo: Atheneu, 2011. 249p.
 
-BAIRD, C.; CANN, M. Química ambiental. 4. ed., Porto Alegre: Bookman, 2011. 844p. 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-107 
+CRUZ, H. M. **Análises Microbiológicas e Físico-Químicas** : Conceitos para Gestão Ambiental. 1. ed., São Paulo: Érica, 2014.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Franco, B. D. G. M. **Microbiologia dos alimentos** . 2. ed., São Paulo: Atheneu, 2003.182p. FORSYTHE, S. J. **Microbiologia da segurança dos alimentos** . 2. ed., Porto Alegre: Artmed, 2013. 602p.
 
-BARBOSA, R. P.; IBRAHIN, F. I. D. Resíduos Sólidos - Impactos, Manejo e Gestão Ambiental. São Paulo: Érica, 2014. 176p. 
+JAY, J. M. **Microbiologia de alimentos** . 6. ed., Porto Alegre: Artmed, 2005. 712p. MADIGAN, M. T.; _et al_ . **Microbiologia de Brock** . 14. ed., Porto Alegre: Artmed, 2016.
 
-DAVIS, M. L.; MASTEN, S. J. Princípios de engenharia ambiental. 3. ed., Porto Alegre: AMGH, 2016. 872p. 
+COMPONENTE CURRICULAR: Inglês Instrumental
 
-MANAHAN, S. Química ambiental. 9. ed., Porto Alegre: Bookman, 2012. 944p. 
+CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio
 
-ROCHA, J. C.; ROSA, A. H.; CARDOSO, A. A. Introdução à química ambiental. 2. ed., Porto Alegre: Bookman, 2009. 256p. 
+## EMENTA:
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+Leitura e reflexões críticas de textos autênticos de diferentes fontes e gêneros textuais. Conscientização do processo de leitura. Utilização dos elementos iconográficos do texto. Noção do texto como um todo linear, coeso e coerente. Estratégias de leitura. Gramática da língua inglesa. Aquisição de vocabulário. Reconhecimento de gêneros textuais. Análise textual de gênero.
 
-ALMEIDA, F. Os Desafios da Sustentabilidade. Rio de Janeiro: Elsevier, 2007. 
+## BIBLIOGRAFIA BÁSICA:
 
-CRUZ, H. M. Análises Microbiológicas e Físico-Químicas - Conceitos Para Gestão Ambiental. 1. ed., São Paulo: Érica, 2014. 
+FERRARI, M. T; RUBIN, S. G. **Inglês** . Coleção Novos Tempos. Scipione, 2000. FERRARI, M. T.; RUBIN, S. G. **Inglês** : de olho no mundo do trabalho. São Paulo: Scipione, 2008.
 
-MILLER, J. G. T. Ciência Ambiental.11. ed., São Paulo: Cengage, 2014. 568p. 
+MUNHOZ, R. **Inglês instrumental** : estratégias de leitura. v. 2, São Paulo: Textonovo: Centro Paula Souza, 2004. MURPHY, R. **Essential grammar in use** . Cambridge: University Press, 2007.
 
-RICKLEFS, R. E. A Economia da Natureza. 7. ed., Rio de Janeiro. Guanabara Koogan, 2016. LEONARD. A. A história das coisas - da natureza ao lixo, o que acontece com tudo que consumimos. 1. ed., Rio de Janeiro: ZAHAR, 2011. 304p. 
+SOUZA, A. G. F.; _et. al_ . **Leitura em Língua Inglesa** : Uma Abordagem Instrumental. 2. ed., São Paulo: Disal, 2005.
 
-COMPONENTE CURRICULAR: Estágio Supervisionado IV 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-CARGA HORÁRIA: 120 Hora/aula e 100 Hora/relógio 
+CRISTOVÃO, V. L. L. **Modelos didáticos de gênero** : uma abordagem para o ensino de língua estrangeira. Londrina: UEL, 2007. 298p.
 
-## EMENTA: 
+JACOBS, M. A. **Como não aprender inglês** : edição definitiva: erros e soluções práticas. Rio de Janeiro: Elsevier, 2002. MARTINEZ, R. **Como escrever tudo em inglês** : escrever a coisa certa em qualquer situação. 14. ed., Rio de Janeiro: Elsevier, 2002. TORRES, N. **Gramática prática da língua inglesa** : o inglês descomplicado. 10. ed., São Paulo: Saraiva, 2007.
 
-Planejamento de sequência didática. Implementação de sequências didáticas nas instituições de educação básica. 
+PAIVA (Org.). **Práticas de ensino e aprendizagem de inglês com foco na autonomia** . Belo Horizonte: Faculdade de Letras da UFMG, 2005.
 
-## BIBLIOGRAFIA BÁSICA: 
+## COMPONENTE CURRICULAR: Espanhol Instrumental
 
-FERREIRA, J. L. **Formação de professores** : História, políticas educacionais e práticas pedagógicas. 1. ed., Curitiba: Appris, 2015. 
+CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio
 
-LOPES, J. G. S. **Reflexões sobre Formação de Professores e Educação Química** . 1. ed., São Paulo: Livraria da Física, 2015. 
+## EMENTA:
 
-MALDANER, O. A. **A formação Inicial e Continuada de Professores de Química** . Professores/Pesquisadores. 3. ed., Ijuí: Ijuí: UNIJUÍ, 2006. 
+Leitura instrumental em língua espanhola. Introdução à leitura de textos. Estratégias de leitura. Vocabulário e estruturas básicas abordadas de forma funcional. Introdução ao idioma espanhol. Conhecimento básico da língua espanhola. Vocabulário básico. Estruturas Gramaticais: regras gerais, ortografia diversa, exercícios práticos. Implicações e aplicabilidade na área turística. Interpretação de textos. Leitura, produção e compreensão de textos gerais e específicos. Aplicação de vocabulário básico: saudações, identificação, fórmulas usuais na conversação, nacionalidades, profissões e outras.
 
-MORIN, E. **Os sete saberes para a educação do futuro** . 1. ed., Lisboa: Instituto Piaget, 2010. SANTOS, W. L. P.; SCHNETZLER, R. P. **Educação em Química** : Compromisso com a cidadania. 3. ed., Ijuí: Ijuí: UNIJUÍ, 2000. 144p. 
+## BIBLIOGRAFIA BÁSICA:
 
-108 
+ARAGONÉS, L.; PALENCIA, R. **Gramática de Uso del Español** : teoria y práctica. Madrid: Ediciones SM, s.d.
 
-**==> picture [472 x 55] intentionally omitted <==**
+CENTELLAS, A. **Método de Español para Extranjeros, niveles elemental, intermedio** . Madrid: Edinumen, 1996.
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+FERNÁNDEZ, G. E.; MORENO, C. **Gramática Constrativa del Español para brasileños** . Madrid: SgelEducación, 2005.
 
-ABDALLA, M. F. B. **O senso prático do ser e estar na profissão** . São Paulo: Cortez, 2006. 120p. 
+PALACIOS, M.; CATINO, G. **Espanhol para o Ensino Médio** . São Paulo: Scipione, 2004. SILVA, C. F. **Español através de textos** . Rio de Janeiro: Ao livro técnico, 2004.
 
-BROWN, T. L.; LEMAY, H. E.; BURSTEN, B. E. **Química** . A ciência Central. 9. ed., São Paulo: Pearson, 2005. 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-ROSA, M. I. **Investigação e ensino** : articulações e possibilidades na formação de professores de ciências. Ijuí: UNIJUÍ, 2004. 184p. 
+FLAVIÁN, E.; ERES FERNÁNDEZ, G. **Minidicionário Espanhol-Português/PortuguêsEspanhol** . São Paulo: Ática, 1994.
 
-SANTOS, W. L. P.; SCHNETZLER, R. P. **Educação em Química** : Compromisso com a cidadania. 3. ed., Ijuí: UNIJUÍ, 2000. 144p. 
+GONZÁLEZ HERMOSO, A.; _et al_ . **Gramática de españollenguaextranjera** . Madrid: Edelsa, 1996.
 
-VASCONCELLOS, C. S. **Construção do conhecimento em sala de aula** . 10. ed., São Paulo: Libertad, 2000. 
+MATTE , B. F. **Gramática comunicativa del español** . 2 tomos. Madrid: Edelsa, 1998. MILANI, E. M. **Gramática de espanhol para brasileiros** . São Paulo: Saraiva, 1999. SILES ARTÉS, J. **Adquisición de léxico** : ejerciciosprácticos. Madrid: SGEL, 1995.
 
-## **OPTATIVAS:** 
+## COMPONENTE CURRICULAR: Pluralidade Cultural
 
-## COMPONENTE CURRICULAR: Estatística e Probabilidade 
+CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio
 
-## CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio 
+EMENTA:
 
-## EMENTA: 
+Cultura e hibridismo culturais. Identidade e historicidade dos sujeitos. Diversidade cultural: relações sociais, raciais e de gênero. O patrimônio natural e histórico e o conceito de preservação.
 
-Representação de Dados em tabelas e gráficos. Noções de amostragem. Medidas de tendência central, dispersão e posição. Distribuição de frequências. Elementos da probabilidade. Distribuições discretas e contínuas de Probabilidades. Estimativa de parâmetros. Testes de hipóteses. Análise da variância. Correlação e regressão. 
+## BIBLIOGRAFIA BÁSICA:
 
-## BIBLIOGRAFIA BÁSICA: 
+BAUMAN, Z. **Modernidade Líquida** . Rio de Janeiro: Zahar, 2001.
 
-BUSSAB, W. O., MORETIN, P. A. **Estatística básica** . 8. ed., São Paulo: Saraiva, 2014. CRESPO, A. A. **Estatística Fácil** . 19. ed., São Paulo: Saraiva, 2012. 
+BHABHA, H. **O local da cultura** . Belo Horizonte: UFMG, 2001.
 
-IEZZI, G.; HAZZAN, S.; DEGENSZAJN, D. **Fundamentos da matemática Elementar** : Matemática Financeira e Estatística. 2. ed., v. 11, São Paulo: Atual, 2013. 
+CANCLINI, N. G. **Culturas híbridas** : estratégias para entrar e sair da modernidade. 4. ed., São Paulo: Edusp, 2013.
 
-FONSECA, J. S., MARTINS, G. A. **Curso de estatística** . 6. ed., São Paulo: Atlas, 2006. TRIOLA, M. F. **Introdução à estatística** : Atualização da Tecnologia. 11. ed., Rio de Janeiro: LTC, 2013. 
+CANCLINI, N. G. **Sociedade sem relato** : antropologia e estética da iminência. São Paulo: Edusp, 2012.
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+EAGLETON, T. **A ideia de cultura** . São Paulo: UNESP, 2005.
 
-COSTA NETO, P. L. O. **Estatística básica** . São Paulo: Edgard Blücher, 2005. 
+HALL, S. **Da diáspora** : Identidades e mediações culturais. Belo Horizonte: UFMG, 2003.
 
-HUFF, D.; GEIS, I.; CASOTTI, B. **Como mentir com Estatística** . 1. ed., Rio de Janeiro: Intrinseca, 2016. 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-109 
+BAUMAN, Z. **Modernidade e ambivalência** . Rio de Janeiro: Zahar, 1999. BAUMAN, Z. **O mal-estar da Pós-Modernidade** . Rio de Janeiro: Zahar, 1998.
 
-**==> picture [472 x 55] intentionally omitted <==**
+CANCLINI, N. G. **Consumidores e cidadãos** . 5. ed., Rio de Janeiro: UFRJ, 2005.
 
-MAGALHÃES, M. M.; LIMA, A. C. **Noções de Probabilidade e Estatística** . 7. ed., São Paulo: EDUSP, 2013. 
+CUCHE, D. **A noção de cultura nas ciências sociais** . 2. ed., Bauru, São Paulo: Edusc, 2002. JAMESON, F. **A cultura do dinheiro** : ensaios sobre a globalização. Petrópolis: Vozes, 2001. MC LAREN, P. **Multiculturalismo revolucionário** : pedagogia do dissenso para o novo milênio. Porto Alegre: Artes Médicas, 2000.
 
-PINHEIRA, J. I.; CUNHA, S. B.; CARVAJAL, S.; _et al_ . **Estatística básica** : a arte de trabalhar com dados. São Paulo: Campus, 2008. 
+PETERS, M. **Pós-estruturalismo e filosofia da diferença** . Belo Horizonte: Autêntica, 2000. SANTAELLA, L. **Linguagens líquidas na era da mobilidade** . São Paulo: Paulus, 2007. SANTOS, B. S. **A globalização e as ciências sociais** . São Paulo: Cortez, 2002.
 
-SILVA, N. N. **Amostragem probabilística** : um curso introdutório. São Paulo: EDUSP, 2015. 
+COMPONENTE CURRICULAR: Teoria do Currículo
 
-## COMPONENTE CURRICULAR: Microbiologia 
+CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio
 
-CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio 
+EMENTA:
 
-## EMENTA: 
+Teorias do currículo: tradicionais, críticas e pós-críticas. A relação entre escola, currículo e cultura (Currículo e cultura como práticas de significação das relações sociais e de construção de sujeitos.). Currículo oculto. Seleção de conteúdos e organização do trabalho docente. Crítica e autonomia docente na organização curricular. Objetivos críticos e normativos da teoria curricular. A relação entre currículo e prática pedagógica.
 
-Introdução à Microbiologia. Morfologia e arranjo celular de microrganismos. Classificação dos microrganismos. Fundamentos de microscopia e visualização de microrganismos. Técnicas de assepsia e desinfecção por agentes químicos e físicos. Técnicas de semeadura e meios de cultura. Curva de crescimento. Fatores que interferem no crescimento. Métodos de controle de microrganismos. 
+BIBLIOGRAFIA BÁSICA: APPLE, M. **Ideologia e currículo** . Porto Alegre: Artmed, 2006. ARROYO, M. G. **Currículo, território em disputa** . Petrópolis: Vozes, 2011. GOODSON, I. **Currículo** : teoria e história. Petrópolis: Vozes, 1995. SACRISTÁN, J. G. **O currículo** : uma reflexão sobre a prática. 3. ed., Porto Alegre: Artmed, 2000. SILVA, T. T. **Documentos de identidade** : uma introdução às teorias do currículo. Belo Horizonte: Autêntica, 1999.
 
-## BIBLIOGRAFIA BÁSICA: 
+VEIGA-NETO, A. Cultura e currículo. **Contrapontos** , v. 2, n. 4, p. 43-51, jan-abr. 2002. BIBLIOGRAFIA COMPLEMENTAR: GOODSON, I. **A Construção Social do Currículo** . Lisboa: Educa, 1997. GRAMSCI, A. **Os Intelectuais e a Organização da Cultura** . Rio de Janeiro: Civ. Brasileira, 1978. SACRISTÁN, J. G. O currículo: os conteúdos do ensino ou uma análise prática. In: .; PÉREZ GÓMEZ, A. I. **Compreender e transformar o ensino** . 4. ed., Porto Alegre: ArtMed, 2000. SERRES, M. **Polegarzinha** : uma nova forma de viver em harmonia e pensar as instituições, de ser e de saber. Rio de Janeiro: Ber-trand Brasil. 2013.
 
-Trabulsi, L. R. **Microbiologia** . 5. ed., São Paulo: Atheneu, 2008. 780p. 
+COMPONENTE CURRICULAR: Fundamentos Teóricos em Ensino Aprendizagem CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio EMENTA: Primeiras teorias behavioristas (Watson, Guthrie e Thorndike). O behaviorismo de Skinner. O neo-behaviorismo de Gagné. O cognitivismo de Piaget, Bruner, Vigotsky, Ausubel e Kelly. O humanismo de Rogers e Novak. As pedagogias de Freire. A teoria de Gardner. BIBLIOGRAFIA BÁSICA: FREIRE, P. **Pedagogia da autonomia** : saberes necessários à prática educativa. 53. ed., São Paulo: Paz e Terra, 2011. GARDNER, H. **A Nova Ciência da Mente** : Uma História da Revolução Cognitiva. São Paulo: EDUSP, 1995. ILLERIS, K. **Teorias contemporâneas da aprendizagem** . Porto Alegre: Penso-Artmed, 2013.
 
-Pelczar, M. **Microbiologia** : conceitos e aplicações. 2. ed., v. 1, São Paulo: Makron,1996. 524p. TORTORA, G. J.; FUNKE, B. R.; CASE, C. L. **Microbiologia** . 12. ed. Porto Alegre: Artmed, 2017. 
+MOREIRA, M. A. **A Teoria da aprendizagem significativa e sua implementação em sala de aula** . Brasília: UnB, 2006.
 
-RIBEIRO, M. C. **Microbiologia Prática** : Aplicações de Aprendizagem de Microbiologia Básica. 2. ed., São Paulo: Atheneu, 2011. 249p. 
+PIAGET, J. **O Nascimento da Inteligência na Criança** . 4. ed., Rio de Janeiro: Zahar, 1982.
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-CRUZ, H. M. **Análises Microbiológicas e Físico-Químicas** : Conceitos para Gestão Ambiental. 1. ed., São Paulo: Érica, 2014. 
+FREIRE, P. **Ação cultural para a liberdade** . 14. ed., Rio de Janeiro: Paz e Terra, 2011. NOVAK, J. D. **Uma teoria de educação** . São Paulo: Editora Pioneira, 1981. PIAGET, J.; GRÉCO, P. **Aprendizagem e conhecimento** . Rio de Janeiro: Freitas Bastos, 1974.
 
-Franco, B. D. G. M. **Microbiologia dos alimentos** . 2. ed., São Paulo: Atheneu, 2003.182p. FORSYTHE, S. J. **Microbiologia da segurança dos alimentos** . 2. ed., Porto Alegre: Artmed, 2013. 602p. 
+VYGOTSKY, L. S. **A Formação Social da Mente** . 2. ed. **,** São Paulo: Martins Fontes, 1988. VYGOTSKY, L. S. **Pensamento e Linguagem** . 4. ed., São Paulo: Martins Fontes, 1987.
 
-JAY, J. M. **Microbiologia de alimentos** . 6. ed., Porto Alegre: Artmed, 2005. 712p. MADIGAN, M. T.; _et al_ . **Microbiologia de Brock** . 14. ed., Porto Alegre: Artmed, 2016. 
+COMPONENTE CURRICULAR: Educação de Jovens e Adultos
 
-110 
+CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio
 
-**==> picture [472 x 55] intentionally omitted <==**
+## EMENTA:
 
-COMPONENTE CURRICULAR: Inglês Instrumental 
+Abordagem teórica multidimensional: histórica, política, social, filosófica, psicológica, com ênfase na dimensão pedagógica. Contribuições de Paulo Freire. Diretrizes para uma educação de jovens e adultos. Política e educação popular.
 
-CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio 
+## BIBLIOGRAFIA BÁSICA:
 
-## EMENTA: 
+FREIRE, P. **Pedagogia do oprimido** . 45. ed., Rio de Janeiro: Paz e Terra, 2006. FREIRE, P. **Pedagogia da autonomia** . Rio de Janeiro: Paz e Terra, 1999. FREIRE, P. **Política e educação** . São Paulo: Cortez, 1995. SACRISTÁN, J. G. **A educação obrigatória** . Porto Alegre: Artmed, 2001.
 
-Leitura e reflexões críticas de textos autênticos de diferentes fontes e gêneros textuais. Conscientização do processo de leitura. Utilização dos elementos iconográficos do texto. Noção do texto como um todo linear, coeso e coerente. Estratégias de leitura. Gramática da língua inglesa. Aquisição de vocabulário. Reconhecimento de gêneros textuais. Análise textual de gênero. 
+SOARES, B.; GIOVANETTI, M. A.; GOMES, N. L. (Orgs.). **Diálogos na educação de jovens e adultos** . Belo Horizonte: Autêntica, 2006.
 
-## BIBLIOGRAFIA BÁSICA: 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-FERRARI, M. T; RUBIN, S. G. **Inglês** . Coleção Novos Tempos. Scipione, 2000. FERRARI, M. T.; RUBIN, S. G. **Inglês** : de olho no mundo do trabalho. São Paulo: Scipione, 2008. 
+BRANDÃO, C. R. **O que é método Paulo Freire** . São Paulo: Brasiliense, 2003. BRASIL. Câmara de Educação Básica. **Resolução n. 1, de 05 de julho de 2000** - Institui as Diretrizes Curriculares Nacionais para a Educação de Jovens e Adultos. Disponível em: <http://www.mec.gov.br>. Acesso em: 10 maio 2017.
 
-MUNHOZ, R. **Inglês instrumental** : estratégias de leitura. v. 2, São Paulo: Textonovo: Centro Paula Souza, 2004. MURPHY, R. **Essential grammar in use** . Cambridge: University Press, 2007. 
+BRASIL. **Proposta curricular para educação de jovens e adultos** . Introdução. v. 1, Brasília: MEC, 2002.
 
-SOUZA, A. G. F.; _et. al_ . **Leitura em Língua Inglesa** : Uma Abordagem Instrumental. 2. ed., São Paulo: Disal, 2005. 
+FREIRE, P. **Educação como prática da liberdade** . 30. ed., Rio de Janeiro: Paz e Terra, 2007. FREIRE, P. **Pedagogia da esperança** : um reencontro com a pedagogia do oprimido. Rio de Janeiro: Paz e Terra, 1992.
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+FRIGOTTO, G. (Org.). **Educação e crise do trabalho** : perspectivas de final de século. 6. ed., Petrópolis: Vozes, 2001.
 
-CRISTOVÃO, V. L. L. **Modelos didáticos de gênero** : uma abordagem para o ensino de língua estrangeira. Londrina: UEL, 2007. 298p. 
+GADOTTI, M.; ROMÃO, J. E. (Orgs.). **Educação de jovens e adultos** : teoria, prática e proposta. São Paulo: Cortez, 2000.
 
-JACOBS, M. A. **Como não aprender inglês** : edição definitiva: erros e soluções práticas. Rio de Janeiro: Elsevier, 2002. MARTINEZ, R. **Como escrever tudo em inglês** : escrever a coisa certa em qualquer situação. 14. ed., Rio de Janeiro: Elsevier, 2002. TORRES, N. **Gramática prática da língua inglesa** : o inglês descomplicado. 10. ed., São Paulo: Saraiva, 2007. 
+MAGLAIVE, G. **Ensinar adultos** . Portugal: Porto, 1995.
 
-PAIVA (Org.). **Práticas de ensino e aprendizagem de inglês com foco na autonomia** . Belo Horizonte: Faculdade de Letras da UFMG, 2005. 
+PARANÁ. Secretaria de Estado da Educação. Departamento de Educação Básica. **Diretrizes Curriculares da Educação de Jovens e Adultos** . Curitiba: SEED/DEB, 2006. Disponível em: <http://www.educadores.diaadia.pr.gov.br/arquivos/File/diretrizes/dce_eja.pdf>. Acesso em: 10 maio 2017.
 
-## COMPONENTE CURRICULAR: Espanhol Instrumental 
+PINTO, A. V. **Sete lições sobre educação de adultos** . São Paulo: Cortez, 1984.
 
-111 
+COMPONENTE CURRICULAR: Epistemologia da Ciência
 
-**==> picture [472 x 55] intentionally omitted <==**
+CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio
 
-CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio 
+## EMENTA:
 
-## EMENTA: 
+Introdução à epistemologia das ciências naturais. A ciência moderna e suas raízes epistemológicas. Os problemas da possibilidade do conhecimento científico, suas fontes e os limites do conhecimento humano. Diversas concepções sobre a relação da ciência com a verdade. Revoluções científicas e rupturas epistemológicas.
 
-Leitura instrumental em língua espanhola. Introdução à leitura de textos. Estratégias de leitura. Vocabulário e estruturas básicas abordadas de forma funcional. Introdução ao idioma espanhol. Conhecimento básico da língua espanhola. Vocabulário básico. Estruturas Gramaticais: regras gerais, ortografia diversa, exercícios práticos. Implicações e aplicabilidade na área turística. Interpretação de textos. Leitura, produção e compreensão de textos gerais e específicos. Aplicação de vocabulário básico: saudações, identificação, fórmulas usuais na conversação, nacionalidades, profissões e outras. 
+## BIBLIOGRAFIA BÁSICA:
 
-## BIBLIOGRAFIA BÁSICA: 
+KANT, I. **Crítica da razão pura** . (Coleção Os Pensadores). São Paulo: nova cultural, 1996. KUHN, T. **Estrutura das revoluções científicas** . 5. ed., São Paulo: Perspectiva, 2000. NEWTON, I. **Principia** : Princípios Matemáticos de Filosofia Natural. São Paulo: Edusp, 2008. NEWTON, I. **Principia** : Princípios Matemáticos de Filosofia Natural. Livro II e III. São Paulo: Edusp, 2008.
 
-ARAGONÉS, L.; PALENCIA, R. **Gramática de Uso del Español** : teoria y práctica. Madrid: Ediciones SM, s.d. 
+POPPER, K. **A lógica da pesquisa científica** . 2. ed., São Paulo: Cultrix, 2013.
 
-CENTELLAS, A. **Método de Español para Extranjeros, niveles elemental, intermedio** . Madrid: Edinumen, 1996. 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-FERNÁNDEZ, G. E.; MORENO, C. **Gramática Constrativa del Español para brasileños** . Madrid: SgelEducación, 2005. 
+ARAUJO, I. L. **Introdução à filosofia da ciência** . 3. ed., Curitiba: UFPR, 2010. ARISTÓTELES. **Metafísica** . 2. ed., São Paulo: Edipro, 2012. BACON, F. **Novo Órganon** . São Paulo: Edipro, 2014.
 
-PALACIOS, M.; CATINO, G. **Espanhol para o Ensino Médio** . São Paulo: Scipione, 2004. SILVA, C. F. **Español através de textos** . Rio de Janeiro: Ao livro técnico, 2004. 
+DESCARTES, R. **Meditações** . (Coleção Os Pensadores). São Paulo: nova cultural, 1996.
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+FEYERABEND, P. **Contra o método** . 2. ed., São Paulo: Unesp, 2011. HUME, D. **Investigação acerca do entendimento humano** . (Coleção Os Pensadores). São Paulo: nova cultural, 1996.
 
-FLAVIÁN, E.; ERES FERNÁNDEZ, G. **Minidicionário Espanhol-Português/PortuguêsEspanhol** . São Paulo: Ática, 1994. 
+COMPONENTE CURRICULAR: Ética e Educação
 
-GONZÁLEZ HERMOSO, A.; _et al_ . **Gramática de españollenguaextranjera** . Madrid: Edelsa, 1996. 
+CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio
 
-MATTE , B. F. **Gramática comunicativa del español** . 2 tomos. Madrid: Edelsa, 1998. MILANI, E. M. **Gramática de espanhol para brasileiros** . São Paulo: Saraiva, 1999. SILES ARTÉS, J. **Adquisición de léxico** : ejerciciosprácticos. Madrid: SGEL, 1995. 
+## EMENTA:
 
-## COMPONENTE CURRICULAR: Pluralidade Cultural 
+Conceitos fundamentais da ética: bem e mal, dever, felicidade, liberdade e virtude. Os ideais de educação na Grécia antiga. A questão dos valores e da ética nas relações sociais, educacionais e profissionais. A natureza e especificidade da Educação. A ética na profissão do educador. As relações étnico-raciais, cidadania e convivência social. A ética e a educação perante os conflitos sociais na contemporaneidade.
 
-CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio 
+## BIBLIOGRAFIA BÁSICA:
 
-EMENTA: 
+FREIRE, P. **Pedagogia da autonomia** : Saberes Necessários à Prática Educativa. 43. ed., São Paulo: Paz e Terra, 2011.
 
-112 
+FREIRE, P. **Pedagogia do oprimido** . São Paulo: Paz e Terra, 2011.
 
-**==> picture [472 x 55] intentionally omitted <==**
+JAEGER, W. **Paideia** : A Formação do Homem Grego. 6. ed., São Paulo: Martins Fontes, 2013 **.** GIKOVATE, F. **A arte de educar** . Curitiba: Nova didática, 2001. SAVIANI, D. **Pedagogia histórico-crítica** . Campinas: Autores associados, 2013.
 
-Cultura e hibridismo culturais. Identidade e historicidade dos sujeitos. Diversidade cultural: relações sociais, raciais e de gênero. O patrimônio natural e histórico e o conceito de preservação. 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-## BIBLIOGRAFIA BÁSICA: 
+BONJOUR, L.; BAKER, A. **Filosofia** : textos fundamentais comentados. Porto Alegre: Artmed, 2010.
 
-BAUMAN, Z. **Modernidade Líquida** . Rio de Janeiro: Zahar, 2001. 
+CHAUÍ, M. **Convite à Filosofia** . São Paulo: Ática, 2005.
 
-BHABHA, H. **O local da cultura** . Belo Horizonte: UFMG, 2001. 
+MATTOS, R. A. **História e cultura afro-brasileira** . 2. ed., São Paulo: contexto, 2012. MUNDURUKU, D. **O caráter educativo do movimento indígena brasileiro** . São Paulo: Paulinas, 2012.
 
-CANCLINI, N. G. **Culturas híbridas** : estratégias para entrar e sair da modernidade. 4. ed., São Paulo: Edusp, 2013. 
+SOARES, L.; GIOVANETTI, M. A. G. C.; GOMES, N. L. (Orgs.). **Diálogos na educação de jovens e adultos** . Belo Horizonte: Autêntica, 2011.
 
-CANCLINI, N. G. **Sociedade sem relato** : antropologia e estética da iminência. São Paulo: Edusp, 2012. 
+COMPONENTE CURRICULAR: Química dos Alimentos
 
-EAGLETON, T. **A ideia de cultura** . São Paulo: UNESP, 2005. 
+CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio EMENTA: Estudo dos principais componentes químicos dos alimentos. Considerações básicas sobre os sistemas dispersos alimentícios. Principais modificações no processamento. Componentes adversos sob o ponto de vista biológico. Aditivos alimentares. Fraudes e adulterantes. Práticas experimentais relacionadas aos conteúdos teóricos. BIBLIOGRAFIA BÁSICA: ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS (ABNT). NBR ISSO 22000. Sistema de Gestão da Segurança de Alimentos - Requisitos para qualquer organização na cadeia produtiva. 2006. 35p. BRASIL. Ministério da Saúde. Agência Nacional de Vigilância Sanitária. Métodos Físico-Químicos para Análise de Alimentos. 2005. CECCHI, H. M. Fundamentos teóricos e práticos em análise de alimentos. 2. ed., Campinas: Unicamp, 2003. FENNEMA, O. R. Química de alimentos. 4. ed., Porto Alegre: Artmed, 2010. RIBEIRO, E. P., SERAVALLI, E. A. G., Química de Alimentos. 2. ed., São Paulo: Edgard Blücher Ltda, 2007. 196p. BIBLIOGRAFIA COMPLEMENTAR: FRANCO, B. D. G. M. Microbiologia dos alimentos. 2. ed., São Paulo: Atheneu, 2003. 182p. FORSYTHE, S. J. Microbiologia da segurança dos alimentos. 2. ed., Porto Alegre: Artmed, 2013. 602p. JAY, J. M. Microbiologia de alimentos. 6. ed., Porto Alegre: Artmed, 2005. 712p. KOBLITZ, M. G. B. Bioquímica de Alimentos. 3. ed., Rio de Janeiro: Elsevier - Campus, 2015. 256p. MACEDO, G. A.; PASTORE, G. M.; SATO, H. H.; et al. Bioquímica Experimental de Alimentos. 1. ed., São Paulo: Varela, 2005. 187p.
 
-HALL, S. **Da diáspora** : Identidades e mediações culturais. Belo Horizonte: UFMG, 2003. 
+## 4.3 AVALIAÇÃO
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+## **4.3.1 Avaliação da Aprendizagem**
 
-BAUMAN, Z. **Modernidade e ambivalência** . Rio de Janeiro: Zahar, 1999. BAUMAN, Z. **O mal-estar da Pós-Modernidade** . Rio de Janeiro: Zahar, 1998. 
+A avaliação é componente vital da prática pedagógica, tem como função valorizar o ensino e a aprendizagem comprometendo-se com o acompanhamento das formas pelas quais as aprendizagens são edificadas e as competências são constituídas (HADJI, 2001). Deve ser um processo cuidadoso e contínuo que “[...] possibilite uma reflexão crítica sobre todos os elementos,
 
-CANCLINI, N. G. **Consumidores e cidadãos** . 5. ed., Rio de Janeiro: UFRJ, 2005. 
+fatores e momentos que interferem na formação a fim de determinar os resultados alcançados” (SOUZA, 2005, p.75-76).
 
-CUCHE, D. **A noção de cultura nas ciências sociais** . 2. ed., Bauru, São Paulo: Edusc, 2002. JAMESON, F. **A cultura do dinheiro** : ensaios sobre a globalização. Petrópolis: Vozes, 2001. MC LAREN, P. **Multiculturalismo revolucionário** : pedagogia do dissenso para o novo milênio. Porto Alegre: Artes Médicas, 2000. 
+Assim, tomando como pressupostos a Portaria 120 de 06 de agosto de 2009 (IFPR, 2009b) que estabelece os critérios de avaliação do processo de ensino e aprendizagem dos cursos do IFPR, a avaliação assume as funções diagnóstica, formativa e somativa.
 
-PETERS, M. **Pós-estruturalismo e filosofia da diferença** . Belo Horizonte: Autêntica, 2000. SANTAELLA, L. **Linguagens líquidas na era da mobilidade** . São Paulo: Paulus, 2007. SANTOS, B. S. **A globalização e as ciências sociais** . São Paulo: Cortez, 2002. 
+Conforme o artigo 1° da Portaria n°120/09 (IFPR, 2009b), o processo de avaliação deve ser compreendido como julgamento de valor sobre as manifestações da realidade, tendo em vista uma tomada de decisão, considerando que:
 
-COMPONENTE CURRICULAR: Teoria do Currículo 
+I – Para avaliar deve-se considerar o que está sendo avaliado, como está sendo avaliado, porque e para que está sendo avaliado.
 
-CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio 
+II – Para avaliar é preciso ter clareza que a avaliação do processo ensino aprendizagem envolve: os docentes, a instituição, o discente e a sociedade.
 
-EMENTA: 
+III – Na avaliação o discente deve ser considerado como um agente ativo do seu processo educativo e saber antecipadamente o que será avaliado, de forma que as regras sejam estabelecidas de maneira clara e com a participação do discente.
 
-Teorias do currículo: tradicionais, críticas e pós-críticas. A relação entre escola, currículo e cultura (Currículo e cultura como práticas de significação das relações sociais e de construção de sujeitos.). Currículo oculto. Seleção de conteúdos e organização do trabalho docente. Crítica e autonomia docente na organização curricular. Objetivos críticos e normativos da teoria curricular. A relação entre currículo e prática pedagógica. 
-
-113 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-BIBLIOGRAFIA BÁSICA: APPLE, M. **Ideologia e currículo** . Porto Alegre: Artmed, 2006. ARROYO, M. G. **Currículo, território em disputa** . Petrópolis: Vozes, 2011. GOODSON, I. **Currículo** : teoria e história. Petrópolis: Vozes, 1995. SACRISTÁN, J. G. **O currículo** : uma reflexão sobre a prática. 3. ed., Porto Alegre: Artmed, 2000. SILVA, T. T. **Documentos de identidade** : uma introdução às teorias do currículo. Belo Horizonte: Autêntica, 1999. 
-
-VEIGA-NETO, A. Cultura e currículo. **Contrapontos** , v. 2, n. 4, p. 43-51, jan-abr. 2002. BIBLIOGRAFIA COMPLEMENTAR: GOODSON, I. **A Construção Social do Currículo** . Lisboa: Educa, 1997. GRAMSCI, A. **Os Intelectuais e a Organização da Cultura** . Rio de Janeiro: Civ. Brasileira, 1978. SACRISTÁN, J. G. O currículo: os conteúdos do ensino ou uma análise prática. In: .; PÉREZ GÓMEZ, A. I. **Compreender e transformar o ensino** . 4. ed., Porto Alegre: ArtMed, 2000. SERRES, M. **Polegarzinha** : uma nova forma de viver em harmonia e pensar as instituições, de ser e de saber. Rio de Janeiro: Ber-trand Brasil. 2013. 
-
-COMPONENTE CURRICULAR: Fundamentos Teóricos em Ensino Aprendizagem CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio EMENTA: Primeiras teorias behavioristas (Watson, Guthrie e Thorndike). O behaviorismo de Skinner. O neo-behaviorismo de Gagné. O cognitivismo de Piaget, Bruner, Vigotsky, Ausubel e Kelly. O humanismo de Rogers e Novak. As pedagogias de Freire. A teoria de Gardner. BIBLIOGRAFIA BÁSICA: FREIRE, P. **Pedagogia da autonomia** : saberes necessários à prática educativa. 53. ed., São Paulo: Paz e Terra, 2011. GARDNER, H. **A Nova Ciência da Mente** : Uma História da Revolução Cognitiva. São Paulo: EDUSP, 1995. ILLERIS, K. **Teorias contemporâneas da aprendizagem** . Porto Alegre: Penso-Artmed, 2013. 
-
-114 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-MOREIRA, M. A. **A Teoria da aprendizagem significativa e sua implementação em sala de aula** . Brasília: UnB, 2006. 
-
-PIAGET, J. **O Nascimento da Inteligência na Criança** . 4. ed., Rio de Janeiro: Zahar, 1982. 
-
-## BIBLIOGRAFIA COMPLEMENTAR: 
-
-FREIRE, P. **Ação cultural para a liberdade** . 14. ed., Rio de Janeiro: Paz e Terra, 2011. NOVAK, J. D. **Uma teoria de educação** . São Paulo: Editora Pioneira, 1981. PIAGET, J.; GRÉCO, P. **Aprendizagem e conhecimento** . Rio de Janeiro: Freitas Bastos, 1974. 
-
-VYGOTSKY, L. S. **A Formação Social da Mente** . 2. ed. **,** São Paulo: Martins Fontes, 1988. VYGOTSKY, L. S. **Pensamento e Linguagem** . 4. ed., São Paulo: Martins Fontes, 1987. 
-
-COMPONENTE CURRICULAR: Educação de Jovens e Adultos 
-
-CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio 
-
-## EMENTA: 
-
-Abordagem teórica multidimensional: histórica, política, social, filosófica, psicológica, com ênfase na dimensão pedagógica. Contribuições de Paulo Freire. Diretrizes para uma educação de jovens e adultos. Política e educação popular. 
-
-## BIBLIOGRAFIA BÁSICA: 
-
-FREIRE, P. **Pedagogia do oprimido** . 45. ed., Rio de Janeiro: Paz e Terra, 2006. FREIRE, P. **Pedagogia da autonomia** . Rio de Janeiro: Paz e Terra, 1999. FREIRE, P. **Política e educação** . São Paulo: Cortez, 1995. SACRISTÁN, J. G. **A educação obrigatória** . Porto Alegre: Artmed, 2001. 
-
-SOARES, B.; GIOVANETTI, M. A.; GOMES, N. L. (Orgs.). **Diálogos na educação de jovens e adultos** . Belo Horizonte: Autêntica, 2006. 
-
-## BIBLIOGRAFIA COMPLEMENTAR: 
-
-BRANDÃO, C. R. **O que é método Paulo Freire** . São Paulo: Brasiliense, 2003. BRASIL. Câmara de Educação Básica. **Resolução n. 1, de 05 de julho de 2000** - Institui as Diretrizes Curriculares Nacionais para a Educação de Jovens e Adultos. Disponível em: <http://www.mec.gov.br>. Acesso em: 10 maio 2017. 
-
-BRASIL. **Proposta curricular para educação de jovens e adultos** . Introdução. v. 1, Brasília: MEC, 2002. 
-
-115 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-FREIRE, P. **Educação como prática da liberdade** . 30. ed., Rio de Janeiro: Paz e Terra, 2007. FREIRE, P. **Pedagogia da esperança** : um reencontro com a pedagogia do oprimido. Rio de Janeiro: Paz e Terra, 1992. 
-
-FRIGOTTO, G. (Org.). **Educação e crise do trabalho** : perspectivas de final de século. 6. ed., Petrópolis: Vozes, 2001. 
-
-GADOTTI, M.; ROMÃO, J. E. (Orgs.). **Educação de jovens e adultos** : teoria, prática e proposta. São Paulo: Cortez, 2000. 
-
-MAGLAIVE, G. **Ensinar adultos** . Portugal: Porto, 1995. 
-
-PARANÁ. Secretaria de Estado da Educação. Departamento de Educação Básica. **Diretrizes Curriculares da Educação de Jovens e Adultos** . Curitiba: SEED/DEB, 2006. Disponível em: <http://www.educadores.diaadia.pr.gov.br/arquivos/File/diretrizes/dce_eja.pdf>. Acesso em: 10 maio 2017. 
-
-PINTO, A. V. **Sete lições sobre educação de adultos** . São Paulo: Cortez, 1984. 
-
-COMPONENTE CURRICULAR: Epistemologia da Ciência 
-
-CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio 
-
-## EMENTA: 
-
-Introdução à epistemologia das ciências naturais. A ciência moderna e suas raízes epistemológicas. Os problemas da possibilidade do conhecimento científico, suas fontes e os limites do conhecimento humano. Diversas concepções sobre a relação da ciência com a verdade. Revoluções científicas e rupturas epistemológicas. 
-
-## BIBLIOGRAFIA BÁSICA: 
-
-KANT, I. **Crítica da razão pura** . (Coleção Os Pensadores). São Paulo: nova cultural, 1996. KUHN, T. **Estrutura das revoluções científicas** . 5. ed., São Paulo: Perspectiva, 2000. NEWTON, I. **Principia** : Princípios Matemáticos de Filosofia Natural. São Paulo: Edusp, 2008. NEWTON, I. **Principia** : Princípios Matemáticos de Filosofia Natural. Livro II e III. São Paulo: Edusp, 2008. 
-
-POPPER, K. **A lógica da pesquisa científica** . 2. ed., São Paulo: Cultrix, 2013. 
-
-## BIBLIOGRAFIA COMPLEMENTAR: 
-
-ARAUJO, I. L. **Introdução à filosofia da ciência** . 3. ed., Curitiba: UFPR, 2010. ARISTÓTELES. **Metafísica** . 2. ed., São Paulo: Edipro, 2012. BACON, F. **Novo Órganon** . São Paulo: Edipro, 2014. 
-
-DESCARTES, R. **Meditações** . (Coleção Os Pensadores). São Paulo: nova cultural, 1996. 
-
-116 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-FEYERABEND, P. **Contra o método** . 2. ed., São Paulo: Unesp, 2011. HUME, D. **Investigação acerca do entendimento humano** . (Coleção Os Pensadores). São Paulo: nova cultural, 1996. 
-
-COMPONENTE CURRICULAR: Ética e Educação 
-
-CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio 
-
-## EMENTA: 
-
-Conceitos fundamentais da ética: bem e mal, dever, felicidade, liberdade e virtude. Os ideais de educação na Grécia antiga. A questão dos valores e da ética nas relações sociais, educacionais e profissionais. A natureza e especificidade da Educação. A ética na profissão do educador. As relações étnico-raciais, cidadania e convivência social. A ética e a educação perante os conflitos sociais na contemporaneidade. 
-
-## BIBLIOGRAFIA BÁSICA: 
-
-FREIRE, P. **Pedagogia da autonomia** : Saberes Necessários à Prática Educativa. 43. ed., São Paulo: Paz e Terra, 2011. 
-
-FREIRE, P. **Pedagogia do oprimido** . São Paulo: Paz e Terra, 2011. 
-
-JAEGER, W. **Paideia** : A Formação do Homem Grego. 6. ed., São Paulo: Martins Fontes, 2013 **.** GIKOVATE, F. **A arte de educar** . Curitiba: Nova didática, 2001. SAVIANI, D. **Pedagogia histórico-crítica** . Campinas: Autores associados, 2013. 
-
-## BIBLIOGRAFIA COMPLEMENTAR: 
-
-BONJOUR, L.; BAKER, A. **Filosofia** : textos fundamentais comentados. Porto Alegre: Artmed, 2010. 
-
-CHAUÍ, M. **Convite à Filosofia** . São Paulo: Ática, 2005. 
-
-MATTOS, R. A. **História e cultura afro-brasileira** . 2. ed., São Paulo: contexto, 2012. MUNDURUKU, D. **O caráter educativo do movimento indígena brasileiro** . São Paulo: Paulinas, 2012. 
-
-SOARES, L.; GIOVANETTI, M. A. G. C.; GOMES, N. L. (Orgs.). **Diálogos na educação de jovens e adultos** . Belo Horizonte: Autêntica, 2011. 
-
-COMPONENTE CURRICULAR: Química dos Alimentos 
-
-117 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-CARGA HORÁRIA: 40 Hora/aula e 33 Hora/relógio EMENTA: Estudo dos principais componentes químicos dos alimentos. Considerações básicas sobre os sistemas dispersos alimentícios. Principais modificações no processamento. Componentes adversos sob o ponto de vista biológico. Aditivos alimentares. Fraudes e adulterantes. Práticas experimentais relacionadas aos conteúdos teóricos. BIBLIOGRAFIA BÁSICA: ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS (ABNT). NBR ISSO 22000. Sistema de Gestão da Segurança de Alimentos - Requisitos para qualquer organização na cadeia produtiva. 2006. 35p. BRASIL. Ministério da Saúde. Agência Nacional de Vigilância Sanitária. Métodos Físico-Químicos para Análise de Alimentos. 2005. CECCHI, H. M. Fundamentos teóricos e práticos em análise de alimentos. 2. ed., Campinas: Unicamp, 2003. FENNEMA, O. R. Química de alimentos. 4. ed., Porto Alegre: Artmed, 2010. RIBEIRO, E. P., SERAVALLI, E. A. G., Química de Alimentos. 2. ed., São Paulo: Edgard Blücher Ltda, 2007. 196p. BIBLIOGRAFIA COMPLEMENTAR: FRANCO, B. D. G. M. Microbiologia dos alimentos. 2. ed., São Paulo: Atheneu, 2003. 182p. FORSYTHE, S. J. Microbiologia da segurança dos alimentos. 2. ed., Porto Alegre: Artmed, 2013. 602p. JAY, J. M. Microbiologia de alimentos. 6. ed., Porto Alegre: Artmed, 2005. 712p. KOBLITZ, M. G. B. Bioquímica de Alimentos. 3. ed., Rio de Janeiro: Elsevier - Campus, 2015. 256p. MACEDO, G. A.; PASTORE, G. M.; SATO, H. H.; et al. Bioquímica Experimental de Alimentos. 1. ed., São Paulo: Varela, 2005. 187p. 
-
-## 4.3 AVALIAÇÃO 
-
-## **4.3.1 Avaliação da Aprendizagem** 
-
-A avaliação é componente vital da prática pedagógica, tem como função valorizar o ensino e a aprendizagem comprometendo-se com o acompanhamento das formas pelas quais as aprendizagens são edificadas e as competências são constituídas (HADJI, 2001). Deve ser um processo cuidadoso e contínuo que “[...] possibilite uma reflexão crítica sobre todos os elementos, 
-
-118 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-fatores e momentos que interferem na formação a fim de determinar os resultados alcançados” (SOUZA, 2005, p.75-76). 
-
-Assim, tomando como pressupostos a Portaria 120 de 06 de agosto de 2009 (IFPR, 2009b) que estabelece os critérios de avaliação do processo de ensino e aprendizagem dos cursos do IFPR, a avaliação assume as funções diagnóstica, formativa e somativa. 
-
-Conforme o artigo 1° da Portaria n°120/09 (IFPR, 2009b), o processo de avaliação deve ser compreendido como julgamento de valor sobre as manifestações da realidade, tendo em vista uma tomada de decisão, considerando que: 
-
-I – Para avaliar deve-se considerar o que está sendo avaliado, como está sendo avaliado, porque e para que está sendo avaliado. 
-
-II – Para avaliar é preciso ter clareza que a avaliação do processo ensino aprendizagem envolve: os docentes, a instituição, o discente e a sociedade. 
-
-III – Na avaliação o discente deve ser considerado como um agente ativo do seu processo educativo e saber antecipadamente o que será avaliado, de forma que as regras sejam estabelecidas de maneira clara e com a participação do discente. 
-
-Serão considerados meios para operacionalização da avaliação (IFPR, 2009b): 
+Serão considerados meios para operacionalização da avaliação (IFPR, 2009b):
 
 |dos|meios para operacionalização da avaliação (IFPR, 2009b|
 |---|---|
@@ -3167,471 +2652,375 @@ Serão considerados meios para operacionalização da avaliação (IFPR, 2009b):
 |•|Resenhas;|
 |•|Auto avaliação, entre outros.|
 
+Os resultados obtidos no processo de avaliação serão emitidos por componente curricular e disponibilizado por meio eletrônico e/ou divulgado em edital, devendo ser expressos por conceitos, sendo:
 
+I – Conceito A – Quando a aprendizagem do discente foi PLENA e atingiu os objetivos propostos no processo ensino aprendizagem.
 
-Os resultados obtidos no processo de avaliação serão emitidos por componente curricular e disponibilizado por meio eletrônico e/ou divulgado em edital, devendo ser expressos por conceitos, sendo: 
+II – Conceito B – A aprendizagem do discente foi PARCIALMENTE PLENA e atingiu níveis desejáveis aos objetivos propostos no processo ensino aprendizagem.
 
-I – Conceito A – Quando a aprendizagem do discente foi PLENA e atingiu os objetivos propostos no processo ensino aprendizagem. 
+III – Conceito C – A aprendizagem do discente foi SUFICIENTE e atingiu níveis aceitáveis aos objetivos propostos, sem comprometimento à continuidade no processo ensino aprendizagem.
 
-119 
+IV – Conceito D – A aprendizagem do discente foi INSUFICIENTE e não atingiu os objetivos propostos, comprometimento e/ou inviabilizando o desenvolvimento do processo ensino aprendizagem.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Os conceitos terão emissão após cada término do semestre, conforme calendário acadêmico. O discente será considerado APROVADO quando obtiver conceito final igual ou superior a C e frequência igual ou superior a 75% da carga horária de cada componente curricular.
 
-II – Conceito B – A aprendizagem do discente foi PARCIALMENTE PLENA e atingiu níveis desejáveis aos objetivos propostos no processo ensino aprendizagem. 
+O discente será considerado REPROVADO quando não atingir conceito igual ou superior a C e/ou frequência igual ou superior a 75% no componente curricular e ficará em dependência nesse componente, podendo avançar para o semestre seguinte. A progressão parcial será possível se houver no máximo três (03) reprovações. No caso de quatro (04) ou mais reprovações o discente deverá, no semestre seguinte, matricular-se somente nestes componentes. Além disso, a dependência ficará sob a responsabilidade dos professores dos respectivos componentes curriculares, cabendo ao discente matricular-se nas turmas regulares ou turmas especiais oferecidas para esse fim.
 
-III – Conceito C – A aprendizagem do discente foi SUFICIENTE e atingiu níveis aceitáveis aos objetivos propostos, sem comprometimento à continuidade no processo ensino aprendizagem. 
+O Artigo 1º da Resolução CONSUP/IFPR nº 02/2017 (IFPR, 2017a), que retifica os Artigos nº 102 e nº 103 da Resolução CONSUP/IFPR nº 55/2011 (IFPR, 2011b), estabelece as matrículas em regime de dependência:
 
-IV – Conceito D – A aprendizagem do discente foi INSUFICIENTE e não atingiu os objetivos propostos, comprometimento e/ou inviabilizando o desenvolvimento do processo ensino aprendizagem. 
+Art. 102: O estudante que obtiver reprovação em componente(s) curricular(es) terá progressão total ou parcial para o semestre seguinte, e deverá cursar o(s) componente(s) em regime de dependência preferencialmente na próxima oferta regular do curso. Parágrafo único – Os acadêmicos com direito à progressão parcial poderão optar por matricular-se apenas nas disciplinas em dependência. Art. 103: Na impossibilidade de cursar o componente curricular em regime de dependência, na oferta regular do curso, o estudante poderá ser matriculado em turma especial, aberta para esse fim, sendo mantida, obrigatoriamente, a modalidade do curso.
 
-Os conceitos terão emissão após cada término do semestre, conforme calendário acadêmico. O discente será considerado APROVADO quando obtiver conceito final igual ou superior a C e frequência igual ou superior a 75% da carga horária de cada componente curricular. 
+Discentes em processo de adaptação, (transferidos ou que vieram de uma grade que não está mais em uso), serão matriculados no período mais conveniente ao curso em disciplinas que não exigem pré-requisitos, conforme parecer da comissão de avaliação de pedido de aproveitamento de estudos.
 
-O discente será considerado REPROVADO quando não atingir conceito igual ou superior a C e/ou frequência igual ou superior a 75% no componente curricular e ficará em dependência nesse componente, podendo avançar para o semestre seguinte. A progressão parcial será possível se houver no máximo três (03) reprovações. No caso de quatro (04) ou mais reprovações o discente deverá, no semestre seguinte, matricular-se somente nestes componentes. Além disso, a dependência ficará sob a responsabilidade dos professores dos respectivos componentes curriculares, cabendo ao discente matricular-se nas turmas regulares ou turmas especiais oferecidas para esse fim. 
+As avaliações e estudos de recuperação são de responsabilidade do docente, respeitada a autonomia didático/metodológica para definir quais os instrumentos mais adequados a serem utilizados para sanar as lacunas de aprendizagem, conforme disposto no Artigo 8º da Portaria nº 120 (IFPR, 2009b).
 
-O Artigo 1º da Resolução CONSUP/IFPR nº 02/2017 (IFPR, 2017a), que retifica os Artigos nº 102 e nº 103 da Resolução CONSUP/IFPR nº 55/2011 (IFPR, 2011b), estabelece as matrículas em regime de dependência: 
+De acordo com os Artigos 16 e 18 da Portaria nº 120 (IFPR, 2009b) serão oferecidos estudos de recuperação ou retomada de conteúdos a todos os discentes, principalmente aos que apresentarem dificuldades de aprendizagem. No processo de recuperação paralela, o discente deverá oportunizar, preferencialmente, atividades diversificadas, tais como: roteiro de estudos, participação de projetos de reforço e de nivelamento, revisão dos conteúdos, entre outras.
 
-Art. 102: O estudante que obtiver reprovação em componente(s) curricular(es) terá progressão total ou parcial para o semestre seguinte, e deverá cursar o(s) componente(s) em regime de dependência preferencialmente na próxima oferta regular do curso. Parágrafo único – Os acadêmicos com direito à progressão parcial poderão optar por matricular-se apenas nas disciplinas em dependência. Art. 103: Na impossibilidade de cursar o componente curricular em regime de dependência, na oferta regular do curso, o estudante poderá ser matriculado em turma especial, aberta para esse fim, sendo mantida, obrigatoriamente, a modalidade do curso. 
+## **4.3.2 Plano de Avaliação Institucional**
 
-120 
+Nos termos da Lei nº 10.861/2004 (BRASIL, 2004b), toda instituição pública ou privada deve instituir a Comissão Permanente de Avaliação (CPA). A referida lei estabelece o Sistema Nacional de Avaliação da Educação Superior (SINAES), que visa desenvolver processos avaliativos internos nas instituições de ensino, sistematizando a prestação de informações necessárias para a melhoria contínua da educação. Tais informações são solicitadas pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP).
 
-**==> picture [472 x 55] intentionally omitted <==**
+A CPA tem como atribuições: coordenar e articular o processo de Avaliação Institucional, bem como disponibilizar o resultado final à comunidade acadêmica. A CPA do IFPR é composta por docentes, técnicos administrativos, discentes e representantes da comunidade. Por ser uma instituição multicampi a CPA contém representantes dos diversos _Campi_ .
 
-Discentes em processo de adaptação, (transferidos ou que vieram de uma grade que não está mais em uso), serão matriculados no período mais conveniente ao curso em disciplinas que não exigem pré-requisitos, conforme parecer da comissão de avaliação de pedido de aproveitamento de estudos. 
+O Artigo 2º da Lei 10.861/04 (BRASIL, 2004b, grifos do autor) estabelece que, ao promover a avaliação de instituições, de cursos e de desempenho dos discentes, deverá ser assegurado:
 
-As avaliações e estudos de recuperação são de responsabilidade do docente, respeitada a autonomia didático/metodológica para definir quais os instrumentos mais adequados a serem utilizados para sanar as lacunas de aprendizagem, conforme disposto no Artigo 8º da Portaria nº 120 (IFPR, 2009b). 
+I – avaliação institucional, interna e externa, contemplando a análise global e integrada das dimensões, estruturas, relações, compromisso social, atividades, finalidades e responsabilidades sociais das instituições de educação superior e de seus cursos;
 
-De acordo com os Artigos 16 e 18 da Portaria nº 120 (IFPR, 2009b) serão oferecidos estudos de recuperação ou retomada de conteúdos a todos os discentes, principalmente aos que apresentarem dificuldades de aprendizagem. No processo de recuperação paralela, o discente deverá oportunizar, preferencialmente, atividades diversificadas, tais como: roteiro de estudos, participação de projetos de reforço e de nivelamento, revisão dos conteúdos, entre outras. 
+II – o caráter público de todos os procedimentos, dados e resultados dos processos avaliativos;
 
-## **4.3.2 Plano de Avaliação Institucional** 
+III – o respeito à identidade e à diversidade de instituições e de cursos; IV – a participação do corpo discente, docente e técnico-administrativo das instituições de educação superior, e da sociedade civil, por meio de suas representações.
 
-Nos termos da Lei nº 10.861/2004 (BRASIL, 2004b), toda instituição pública ou privada deve instituir a Comissão Permanente de Avaliação (CPA). A referida lei estabelece o Sistema Nacional de Avaliação da Educação Superior (SINAES), que visa desenvolver processos avaliativos internos nas instituições de ensino, sistematizando a prestação de informações necessárias para a melhoria contínua da educação. Tais informações são solicitadas pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP). 
+Parágrafo único. Os resultados da avaliação referida no **caput** deste artigo constituirão referencial básico dos processos de regulação e supervisão da educação superior, neles compreendidos o credenciamento e a renovação de credenciamento de instituições de educação superior, a autorização, o reconhecimento e a renovação de reconhecimento de cursos de graduação.
 
-A CPA tem como atribuições: coordenar e articular o processo de Avaliação Institucional, bem como disponibilizar o resultado final à comunidade acadêmica. A CPA do IFPR é composta por docentes, técnicos administrativos, discentes e representantes da comunidade. Por ser uma instituição multicampi a CPA contém representantes dos diversos _Campi_ . 
+Dessa forma, os trabalhos da CPA pretendem levantar, anualmente, as potencialidades, as fragilidades e as ações estratégicas para a melhoria da qualidade do Ensino Superior no IFPR, levando em consideração as dimensões previstas na legislação para esse nível de ensino. Para tanto, os envolvidos no processo educativo são consultados, mediante instrumentos avaliativos específicos para docentes, discentes e técnicos administrativos.
 
-O Artigo 2º da Lei 10.861/04 (BRASIL, 2004b, grifos do autor) estabelece que, ao promover a avaliação de instituições, de cursos e de desempenho dos discentes, deverá ser assegurado: 
+O IFPR utiliza um Plano de Avaliação Institucional que atende às orientações e dimensões exigidas pelo Sistema Nacional de Avaliação da Educação Superior (SINAES). As três dimensões para o processo de avaliação são: Autoavaliação Institucional, Avaliação Externa _in loco_ e o Exame Nacional de Desempenho dos Estudantes (ENADE).
 
-121 
+A CPA realizará levantamento de dados por meio de formulários eletrônicos, utilizando como metodologia para a interpretação de dados a escala de _Likert_ que expressa o grau de satisfação dos participantes da pesquisa. O formulário contempla proposições que abrangem pontos fundamentais relativos à formulação de relatório de desempenho, integrando assuntos relacionados às ações políticas, pedagógicas e administrativas desenvolvidas no processo de ensino. Após a coleta dos dados e da análise, a CPA os sistematiza divulgando o relatório para a comunidade acadêmica. Tais informações geram um diagnóstico relevante e fundamental aos gestores da instituição, permitindo identificar ações correspondentes a melhoria da educação, conforme objetivos propostos pelo PDI da instituição.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **4.3.3 Avaliação do Curso**
 
-I – avaliação institucional, interna e externa, contemplando a análise global e integrada das dimensões, estruturas, relações, compromisso social, atividades, finalidades e responsabilidades sociais das instituições de educação superior e de seus cursos; 
+Os cursos superiores são avaliados conforme os requisitos instituídos pelo SINAES (BRASIL, 2004b). Ao SINAES cabe promover a avaliação externa englobando a avaliação das Instituições, dos Cursos e do desempenho discente.
 
-II – o caráter público de todos os procedimentos, dados e resultados dos processos avaliativos; 
+Para operacionalização da avaliação, o INEP/MEC, órgão responsável pela mesma, disponibiliza em meio eletrônico, orientações gerais elaboradas pela Comissão Nacional de Avaliação da Educação Superior (CONAES) (BRASIL, 2010). Estas orientações envolvem dinâmicas, procedimentos e mecanismos a serem observados pelas comissões de avaliação de Instituições e de Cursos, e, ocorrem conforme cronogramas emanados do INEP. A avaliação interna e externa constitui um dos aspectos básicos para o necessário aprimoramento da qualidade de ensino, do planejamento e da gestão da Instituição e dos Cursos.
 
-III – o respeito à identidade e à diversidade de instituições e de cursos; IV – a participação do corpo discente, docente e técnico-administrativo das instituições de educação superior, e da sociedade civil, por meio de suas representações. 
+O ENADE consiste em avaliar o desempenho do discente no início e ao final do curso, permitindo a análise dos conhecimentos adquiridos. Outro indicador considerado pelos avaliadores externos, em seus pareceres, são os documentos, previamente analisados, tais como: Censo Educacional, Cadastro Docente e o Formulário Eletrônico com recortes do PPC ou em caso de Avaliação do PDI.
 
-Parágrafo único. Os resultados da avaliação referida no **caput** deste artigo constituirão referencial básico dos processos de regulação e supervisão da educação superior, neles compreendidos o credenciamento e a renovação de credenciamento de instituições de educação superior, a autorização, o reconhecimento e a renovação de reconhecimento de cursos de graduação. 
+## **4.3.4 Avaliação do Projeto Pedagógico do Curso**
 
-Dessa forma, os trabalhos da CPA pretendem levantar, anualmente, as potencialidades, as fragilidades e as ações estratégicas para a melhoria da qualidade do Ensino Superior no IFPR, levando em consideração as dimensões previstas na legislação para esse nível de ensino. Para tanto, os envolvidos no processo educativo são consultados, mediante instrumentos avaliativos específicos para docentes, discentes e técnicos administrativos. 
+A avaliação do PPC do Curso de Licenciatura em Química é de responsabilidade do Colegiado do Curso, que a partir de reuniões ordinárias realizará apontamentos a respeito dos respectivos avanços e desafios. As alterações sugeridas pelo Colegiado de Curso serão repassadas ao Núcleo Docente Estruturante (NDE), o qual analisará e atuará diretamente na estrutura da PPC fazendo revisões/atualizações necessárias. As possíveis alterações poderão ser efetivadas mediante solicitação aos conselhos competentes.
 
-O IFPR utiliza um Plano de Avaliação Institucional que atende às orientações e dimensões exigidas pelo Sistema Nacional de Avaliação da Educação Superior (SINAES). As três dimensões para o processo de avaliação são: Autoavaliação Institucional, Avaliação Externa _in loco_ e o Exame Nacional de Desempenho dos Estudantes (ENADE). 
+## 4.4 ESTÁGIO CURRICULAR
 
-A CPA realizará levantamento de dados por meio de formulários eletrônicos, utilizando como metodologia para a interpretação de dados a escala de _Likert_ que expressa o grau de satisfação dos participantes da pesquisa. O formulário contempla proposições que abrangem pontos fundamentais relativos à formulação de relatório de desempenho, integrando assuntos relacionados às ações políticas, pedagógicas e administrativas desenvolvidas no processo de ensino. Após a coleta dos dados e da análise, a CPA os sistematiza divulgando o relatório para a comunidade acadêmica. Tais informações geram um diagnóstico relevante e fundamental aos gestores da instituição, permitindo identificar ações correspondentes a melhoria da educação, conforme objetivos propostos pelo PDI da instituição. 
+O Estágio Curricular Supervisionado no Curso de Licenciatura em Química do IFPR _Campus_ Pitanga é regido pela Lei 11.788/08 (BRASIL, 2008b) e pelas Resoluções CNE/CP Nº
 
-122 
+02/2015 (BRASIL, 2015b) e CONSUP/IFPR Nº 19/2017(IFPR, 2017b). O regulamento do componente Estágio Curricular Supervisionado encontra-se no Apêndice B.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## 4.4.1 Características do Estágio
 
-## **4.3.3 Avaliação do Curso** 
+Carga Horária Estágio Obrigatório: O componente Estágio Curricular Supervisionado será desenvolvido em forma de conteúdos teórico-práticos, com carga horária total de 400 horas. Este componente curricular está dividido em quatro etapas denominadas: Estágio Supervisionado I, Estágio Supervisionado II, Estágio Supervisionado III e Estágio Supervisionado IV, ministrados respectivamente no decorrer do 5º, 6º, 7º e 8º período, constituindo-se o momento de excelência para a formação discente. A modalidade do Estágio Supervisionado I e Estágio Supervisionado II é semidireta. Enquanto que, a modalidade do Estágio Supervisionado III e Estágio Supervisionado IV é direta.
 
-Os cursos superiores são avaliados conforme os requisitos instituídos pelo SINAES (BRASIL, 2004b). Ao SINAES cabe promover a avaliação externa englobando a avaliação das Instituições, dos Cursos e do desempenho discente. 
+## **4.4.2 Convênios de Estágio**
 
-Para operacionalização da avaliação, o INEP/MEC, órgão responsável pela mesma, disponibiliza em meio eletrônico, orientações gerais elaboradas pela Comissão Nacional de Avaliação da Educação Superior (CONAES) (BRASIL, 2010). Estas orientações envolvem dinâmicas, procedimentos e mecanismos a serem observados pelas comissões de avaliação de Instituições e de Cursos, e, ocorrem conforme cronogramas emanados do INEP. A avaliação interna e externa constitui um dos aspectos básicos para o necessário aprimoramento da qualidade de ensino, do planejamento e da gestão da Instituição e dos Cursos. 
+A Matriz Curricular do Curso Superior de Licenciatura em Química prevê a realização de Estágio Supervisionado Obrigatório, sendo assim, foram firmados convênios de estágio. Este documento prevê e regulamenta a possibilidade de realização de Estágio Obrigatório como forma de proporcionar aos discentes uma formação mais ampla onde possam aplicar os conhecimentos adquiridos em sala de aula.
 
-O ENADE consiste em avaliar o desempenho do discente no início e ao final do curso, permitindo a análise dos conhecimentos adquiridos. Outro indicador considerado pelos avaliadores externos, em seus pareceres, são os documentos, previamente analisados, tais como: Censo Educacional, Cadastro Docente e o Formulário Eletrônico com recortes do PPC ou em caso de Avaliação do PDI. 
+O IFPR _Campus_ Pitanga firmou convênio com o Núcleo Regional de Educação de Pitanga para utilização de laboratórios do Centro Estadual de Educação Profissional Professor Miguel Carlos Parolo, do Colégio Estadual Dom Pedro II e do Colégio Estadual Antônio Dorigon para que, juntamente com sua estrutura, possa atender adequadamente o curso de Licenciatura em Química. As disposições a respeito do Estágio constam no Regulamento Geral de Estágios do _Campus_ Pitanga.
 
-## **4.3.4 Avaliação do Projeto Pedagógico do Curso** 
+## 4.5 INTEGRAÇÃO COM AS ORGANIZAÇÕES PÚBLICAS, CIVIS E PARTICULARES
 
-A avaliação do PPC do Curso de Licenciatura em Química é de responsabilidade do Colegiado do Curso, que a partir de reuniões ordinárias realizará apontamentos a respeito dos respectivos avanços e desafios. As alterações sugeridas pelo Colegiado de Curso serão repassadas ao Núcleo Docente Estruturante (NDE), o qual analisará e atuará diretamente na estrutura da PPC fazendo revisões/atualizações necessárias. As possíveis alterações poderão ser efetivadas mediante solicitação aos conselhos competentes. 
+O curso Superior de Licenciatura em Química do IFPR _Campus_ Pitanga interage com as organizações públicas, civis e particulares. Para isso, conta com o apoio de diferentes setores do _Campus_ , como a Direção de Ensino, Pesquisa e Extensão (DIEPEX), a Seção de Inovação e Empreendedorismo (SIE) e a Seção de Estágios e Relações Comunitárias (SERC).
 
-## 4.4 ESTÁGIO CURRICULAR 
+Ademais, o _Campus_ Pitanga está inserido no contexto local e regional através da participação de representantes em organizações como o Comitê Paraná Centro e o Território Paraná Centro, que buscam o desenvolvimento regional. Além disso, tem participação ativa junto à Associação dos Municípios do Centro do Paraná (AMOCENTRO), que é um órgão de representação regional sob a forma de sociedade civil sem fins lucrativos.
 
-O Estágio Curricular Supervisionado no Curso de Licenciatura em Química do IFPR _Campus_ Pitanga é regido pela Lei 11.788/08 (BRASIL, 2008b) e pelas Resoluções CNE/CP Nº 
+Há também o diálogo entre servidores e discentes do curso e comunidade externa, para o estabelecimento de parcerias quando for de interesse para ambas as partes. Essa integração do curso ocorre por meio de ações de ensino, pesquisa, extensão e inovação, além de práticas profissionais. É através dessas ações que o IFPR _Campus_ Pitanga busca também atender demandas locais e regionais.
 
-123 
+## **4.5.1 Integração com as redes públicas de ensino e proposição de atividades práticas de ensino para licenciaturas**
 
-**==> picture [472 x 55] intentionally omitted <==**
+Os campos de atuação do discente são estabelecimentos de ensino público (preferencialmente) e privado e espaços não formais. No decorrer do estágio, haverá solicitação de atividades de pesquisas, seminários, relatórios de atividades práticas e teóricas, acompanhamento de planos de aula, elaboração e execução de sequências didáticas, desenvolvimento de projetos de ensino de química com articulação de aspectos conceituais com abordagem teórica e/ou experimental.
 
-02/2015 (BRASIL, 2015b) e CONSUP/IFPR Nº 19/2017(IFPR, 2017b). O regulamento do componente Estágio Curricular Supervisionado encontra-se no Apêndice B. 
+## **4.5.2 Integração com o sistema local e regional de saúde (SUS) e proposição de atividades práticas de ensino para áreas da saúde**
 
-## 4.4.1 Características do Estágio 
+NSA
 
-Carga Horária Estágio Obrigatório: O componente Estágio Curricular Supervisionado será desenvolvido em forma de conteúdos teórico-práticos, com carga horária total de 400 horas. Este componente curricular está dividido em quatro etapas denominadas: Estágio Supervisionado I, Estágio Supervisionado II, Estágio Supervisionado III e Estágio Supervisionado IV, ministrados respectivamente no decorrer do 5º, 6º, 7º e 8º período, constituindo-se o momento de excelência para a formação discente. A modalidade do Estágio Supervisionado I e Estágio Supervisionado II é semidireta. Enquanto que, a modalidade do Estágio Supervisionado III e Estágio Supervisionado IV é direta. 
+## **4.5.3 Integração com os setores públicos, civis e privados**
 
-## **4.4.2 Convênios de Estágio** 
+## NSA.
 
-A Matriz Curricular do Curso Superior de Licenciatura em Química prevê a realização de Estágio Supervisionado Obrigatório, sendo assim, foram firmados convênios de estágio. Este documento prevê e regulamenta a possibilidade de realização de Estágio Obrigatório como forma de proporcionar aos discentes uma formação mais ampla onde possam aplicar os conhecimentos adquiridos em sala de aula. 
+## 4.6 TRABALHO DE CONCLUSÃO DE CURSO
 
-O IFPR _Campus_ Pitanga firmou convênio com o Núcleo Regional de Educação de Pitanga para utilização de laboratórios do Centro Estadual de Educação Profissional Professor Miguel Carlos Parolo, do Colégio Estadual Dom Pedro II e do Colégio Estadual Antônio Dorigon para que, juntamente com sua estrutura, possa atender adequadamente o curso de Licenciatura em Química. As disposições a respeito do Estágio constam no Regulamento Geral de Estágios do _Campus_ Pitanga. 
+O Trabalho de Conclusão de Curso (TCC) é obrigatório para a obtenção do título de Licenciado em Química do IFPR _Campus_ Pitanga. O TCC consiste de um artigo ou monografia individual com tema respectivo à área de Química, conforme regulamento Apêndice C.
 
-## 4.5 INTEGRAÇÃO COM AS ORGANIZAÇÕES PÚBLICAS, CIVIS E PARTICULARES 
+## 4.7 ATIVIDADES COMPLEMENTARES
 
-124 
+Conforme as DCN para os Cursos de Química, entende-se que são “[...] **conteúdos complementares** os essenciais para a formação humanística, interdisciplinar e gerencial” (BRASIL, 2001a, p. 9, grifos do autor). Ademais, compreende-se que as AC não se restringem ao primeiro período, mas são realizadas ao longo de todo o curso.
 
-**==> picture [472 x 55] intentionally omitted <==**
+O inciso IV do Artigo 1º da Resolução CNE/CP nº 2, de 19 de fevereiro de 2002, estabelece que na carga horária dos cursos de Formação de Professores da Educação Básica, em nível superior, em curso de licenciatura, de graduação plena, deverão ser direcionadas “200 (duzentas) horas para outras formas de atividades acadêmico-científico-culturais” (BRASIL, 2002d, p. 1).
 
-O curso Superior de Licenciatura em Química do IFPR _Campus_ Pitanga interage com as organizações públicas, civis e particulares. Para isso, conta com o apoio de diferentes setores do _Campus_ , como a Direção de Ensino, Pesquisa e Extensão (DIEPEX), a Seção de Inovação e Empreendedorismo (SIE) e a Seção de Estágios e Relações Comunitárias (SERC). 
+O objetivo das AC é diversificar e enriquecer a formação oferecida na graduação, por meio da participação dos discentes em eventos científicos, culturais e profissionais, como palestras, congressos, encontros, seminários e outros congêneres, em grupos de pesquisa, em projetos sociais e de extensão, publicações de artigos e em cursos de curta duração. Os cursos devem estar relacionados à sua área de conhecimento em interface com temas transversais, tais como sustentabilidade, diversidade, direitos humanos, entre outros, ou associados às atividades de pesquisa, extensão e inovação, como cursos na área de patentes, desenvolvimento e inovação de produtos.
 
-Ademais, o _Campus_ Pitanga está inserido no contexto local e regional através da participação de representantes em organizações como o Comitê Paraná Centro e o Território Paraná Centro, que buscam o desenvolvimento regional. Além disso, tem participação ativa junto à Associação dos Municípios do Centro do Paraná (AMOCENTRO), que é um órgão de representação regional sob a forma de sociedade civil sem fins lucrativos. 
+As AC possuem regulamento próprio (Apêndice D).
 
-Há também o diálogo entre servidores e discentes do curso e comunidade externa, para o estabelecimento de parcerias quando for de interesse para ambas as partes. Essa integração do curso ocorre por meio de ações de ensino, pesquisa, extensão e inovação, além de práticas profissionais. É através dessas ações que o IFPR _Campus_ Pitanga busca também atender demandas locais e regionais. 
+## **5. POLÍTICAS DE ATENDIMENTO AOS ESTUDANTES**
 
-## **4.5.1 Integração com as redes públicas de ensino e proposição de atividades práticas de ensino para licenciaturas** 
+5.1 FORMAS DE ACESSO E PERMANÊNCIA
 
-Os campos de atuação do discente são estabelecimentos de ensino público (preferencialmente) e privado e espaços não formais. No decorrer do estágio, haverá solicitação de atividades de pesquisas, seminários, relatórios de atividades práticas e teóricas, acompanhamento de planos de aula, elaboração e execução de sequências didáticas, desenvolvimento de projetos de ensino de química com articulação de aspectos conceituais com abordagem teórica e/ou experimental. 
+O acesso de discentes ao Curso de Licenciatura em Química do Instituto Federal do Paraná _Campus_ Pitanga poderá ser realizado por meio de:
 
-## **4.5.2 Integração com o sistema local e regional de saúde (SUS) e proposição de atividades práticas de ensino para áreas da saúde** 
+1) Aprovação em Processo Seletivo do Instituto Federal do Paraná.
 
-NSA 
+2) Sistema de Seleção Unificada (SISU) do qual instituições públicas de educação superior oferecem vagas a candidatos participantes do ENEM.
 
-125 
+3) Transferência interna: transferência de discente regularmente matriculado em curso superior do IFPR para outro curso superior no mesmo _Campus_ ou para outro _Campus_ do IFPR, a partir do 2º (segundo) período letivo do curso mediante a existência de vaga e equivalência dos componentes curriculares cursados.
 
-**==> picture [472 x 55] intentionally omitted <==**
+4) Transferência externa: disponibilizada para discente matriculado em curso superior de outras Instituições de Ensino para ingresso em curso de mesmo nível a partir do 2º (segundo) período letivo do curso, mediante a existência de vaga e equivalência dos componentes curriculares cursados.
 
-## **4.5.3 Integração com os setores públicos, civis e privados** 
+5) Aproveitamento de Estudos de Curso de Graduação em que é possível o ingresso de discentes que já possuem diploma de curso superior de área afim, a partir do 2º (segundo) período letivo do curso, mediante a existência de vaga.
 
-## NSA. 
+Observa-se que as transferências internas e externas e o aproveitamento de estudos representam, além das formas de ingresso no Curso de Licenciatura em Química – IFPR _Campus_ Pitanga, a possibilidade de mobilidade acadêmica para outros cursos de graduação.
 
-## 4.6 TRABALHO DE CONCLUSÃO DE CURSO 
+Visando a permanência e êxitos dos discentes a matriz curricular propõe os componentes curriculares de Pré-Cálculo, Física I, Química Geral I e Português Instrumental, possibilitando que o ingressante tenha uma revisão de conteúdos abordados no Ensino Médio otimizando sua entrada no Ensino Superior. São também disponibilizados atendimento aos discentes realizados pelos docentes nos contraturnos escolares. A coordenação de curso irá realizar acompanhamento, por meio de relatórios, propondo ações voltadas para a permanência e êxitos dos discentes.
 
-O Trabalho de Conclusão de Curso (TCC) é obrigatório para a obtenção do título de Licenciado em Química do IFPR _Campus_ Pitanga. O TCC consiste de um artigo ou monografia individual com tema respectivo à área de Química, conforme regulamento Apêndice C. 
+Além disso, o Instituto Federal do Paraná desenvolve as Políticas de Apoio Estudantil do IFPR, regulamentadas pela Resolução do Conselho Superior do IFPR (CONSUP/IFPR) nº 011 /2009, por meio dos vários Programas de Bolsas de Estudos existentes como os Auxílios da Assistência Estudantil, Programas de Bolsas de Inclusão Social, Bolsa Monitoria, Programa de Bolsa de Iniciação Científica, Programa de Bolsa de Extensão, entre outros. O Instituto Federal do Paraná _Campus_ Pitanga promoverá diversas atividades acadêmico-científico-culturais, como oficinas práticas, atividades de aprimoramento acadêmico, intervenções na comunidade, entre outras.
 
-## 4.7 ATIVIDADES COMPLEMENTARES 
+## **5.1.1 Programas de Ensino, Pesquisa, Extensão, Inovação, Inclusão Social e Assistência estudantil**
 
-Conforme as DCN para os Cursos de Química, entende-se que são “[...] **conteúdos complementares** os essenciais para a formação humanística, interdisciplinar e gerencial” (BRASIL, 2001a, p. 9, grifos do autor). Ademais, compreende-se que as AC não se restringem ao primeiro período, mas são realizadas ao longo de todo o curso. 
+A Política de Apoio Estudantil do IFPR é regulamentada pela Resolução CONSUP/IFPR nº 011/2009 (IFPR, 2009a), retificada pela Resolução CONSUP/IFPR nº 53/2011 (IFPR, 2011a), que em seu Artigo 1º define:
 
-O inciso IV do Artigo 1º da Resolução CNE/CP nº 2, de 19 de fevereiro de 2002, estabelece que na carga horária dos cursos de Formação de Professores da Educação Básica, em nível superior, em curso de licenciatura, de graduação plena, deverão ser direcionadas “200 (duzentas) horas para outras formas de atividades acadêmico-científico-culturais” (BRASIL, 2002d, p. 1). 
+A Política de Apoio Estudantil do IFPR compreende o conjunto de ações voltadas aos estudantes e que atendam aos princípios de garantia de acesso, permanência e conclusão do curso de acordo com os princípios da Educação Integral (formação geral, profissional e tecnológica) em estreita articulação com os setores produtivos locais econômicos e sociais.
 
-O objetivo das AC é diversificar e enriquecer a formação oferecida na graduação, por meio da participação dos discentes em eventos científicos, culturais e profissionais, como palestras, congressos, encontros, seminários e outros congêneres, em grupos de pesquisa, em projetos sociais e de extensão, publicações de artigos e em cursos de curta duração. Os cursos devem estar relacionados à sua área de conhecimento em interface com temas transversais, tais como sustentabilidade, diversidade, direitos humanos, entre outros, ou associados às atividades de pesquisa, extensão e inovação, como cursos na área de patentes, desenvolvimento e inovação de produtos. 
+Parágrafo único. Essa Política tem como premissa a respeitabilidade a diversidade social, étnica, racial e inclusiva na perspectiva de uma sociedade democrática e cidadã (IFPR, 2011a).
 
-As AC possuem regulamento próprio (Apêndice D). 
+A Resolução CONSUP/IFPR nº11/2009, Artigo 2º, apresenta os princípios no qual a Política de Apoio Estudantil está pautada:
 
-126 
+I – educação profissional e tecnológica pública e gratuita de qualidade; II – igualdade de oportunidade no acesso, permanência e conclusão de curso;
 
-**==> picture [472 x 55] intentionally omitted <==**
+III – garantia de qualidade de formação tecnológica e humanística voltada ao fortalecimento das políticas de inclusão social;
 
-## **5. POLÍTICAS DE ATENDIMENTO AOS ESTUDANTES** 
+IV – defesa do pluralismo de idéias com reconhecimento a liberdade de expressão;
 
-5.1 FORMAS DE ACESSO E PERMANÊNCIA 
+V – eliminação de qualquer forma de preconceito ou discriminação (IFPR, 2009a).
 
-O acesso de discentes ao Curso de Licenciatura em Química do Instituto Federal do Paraná _Campus_ Pitanga poderá ser realizado por meio de: 
+O Artigo 7º da Resolução CONSUP/IFPR nº 11/2009 apresenta as modalidade de auxílios da Assistência Estudantil:
 
-1) Aprovação em Processo Seletivo do Instituto Federal do Paraná. 
+I – moradia estudantil; II – alimentação; III – transporte; IV – atenção à saúde;
 
-2) Sistema de Seleção Unificada (SISU) do qual instituições públicas de educação superior oferecem vagas a candidatos participantes do ENEM. 
+V – inclusão digital; VI – cultura; VII – esporte; VII – apoio aos estudantes/pais; IX – apoio pedagógico;
 
-3) Transferência interna: transferência de discente regularmente matriculado em curso superior do IFPR para outro curso superior no mesmo _Campus_ ou para outro _Campus_ do IFPR, a partir do 2º (segundo) período letivo do curso mediante a existência de vaga e equivalência dos componentes curriculares cursados. 
+X – acesso, participação e aprendizagem de estudantes com deficiência, transtornos globais do desenvolvimento e altas habilidades e superdotação (IFPR, 2009a).
 
-4) Transferência externa: disponibilizada para discente matriculado em curso superior de outras Instituições de Ensino para ingresso em curso de mesmo nível a partir do 2º (segundo) período letivo do curso, mediante a existência de vaga e equivalência dos componentes curriculares cursados. 
+A Assistência Estudantil oferece ainda: Programa Monitoria, Programa de Inclusão Social, Programa de Apoio à participação de Eventos e o Programa Estudante Atleta, regulamentados,
 
-5) Aproveitamento de Estudos de Curso de Graduação em que é possível o ingresso de discentes que já possuem diploma de curso superior de área afim, a partir do 2º (segundo) período letivo do curso, mediante a existência de vaga. 
+respectivamente, pelas Resoluções CONSUP nº 04/2010 (IFPR, 2010a), nº 64/2010 (IFPR, 2010b) e nº 65/2010 (IFPR, 2010c) e pela Instrução Interna de Procedimento nº 01/2014 (IFPR, 2014a).
 
-Observa-se que as transferências internas e externas e o aproveitamento de estudos representam, além das formas de ingresso no Curso de Licenciatura em Química – IFPR _Campus_ Pitanga, a possibilidade de mobilidade acadêmica para outros cursos de graduação. 
+Além das Políticas da Assistência Estudantil são oferecidas bolsas por meio da Pró Reitoria de Pesquisa, Extensão e Inovação: Programa Institucional de Bolsa de Iniciação Científica (PIBIC), Programa Institucional de Bolsa de Extensão (PIBEX) e o Programa de Apoio ao Desenvolvimento Tecnológico e Inovação (PRADI), regulamentados pela Resolução CONSUP/IFPR nº 05/2010 (IFPR, 2010d) e Portaria SETEC nº 58, de 21 de novembro de 2014 (BRASIL, 2014b).
 
-127 
+O Artigo 1º da Resolução CONSUP/IFPR nº 05/2010 (IFPR, 2010d), traz os seguintes objetivos para os programas de bolsas acima mencionados:
 
-**==> picture [472 x 55] intentionally omitted <==**
+I – possibilitar aos estudantes dos Cursos Técnicos, integrados ou subseqüentes, o desenvolvimento de competências e habilidades nas atividades de pesquisa científica;
 
-Visando a permanência e êxitos dos discentes a matriz curricular propõe os componentes curriculares de Pré-Cálculo, Física I, Química Geral I e Português Instrumental, possibilitando que o ingressante tenha uma revisão de conteúdos abordados no Ensino Médio otimizando sua entrada no Ensino Superior. São também disponibilizados atendimento aos discentes realizados pelos docentes nos contraturnos escolares. A coordenação de curso irá realizar acompanhamento, por meio de relatórios, propondo ações voltadas para a permanência e êxitos dos discentes. 
+II – incentivar a participação dos estudantes em projetos de pesquisa, individuais ou em grupo, desenvolvidos por professores-pesquisadores do IFPR, despertando o interesse pela pesquisa e permitindo o desenvolvimento do pensamento científico;
 
-Além disso, o Instituto Federal do Paraná desenvolve as Políticas de Apoio Estudantil do IFPR, regulamentadas pela Resolução do Conselho Superior do IFPR (CONSUP/IFPR) nº 011 /2009, por meio dos vários Programas de Bolsas de Estudos existentes como os Auxílios da Assistência Estudantil, Programas de Bolsas de Inclusão Social, Bolsa Monitoria, Programa de Bolsa de Iniciação Científica, Programa de Bolsa de Extensão, entre outros. O Instituto Federal do Paraná _Campus_ Pitanga promoverá diversas atividades acadêmico-científico-culturais, como oficinas práticas, atividades de aprimoramento acadêmico, intervenções na comunidade, entre outras. 
+III – contribuir para a formação de recursos humanos qualificados, aprimorando o processo de formação de profissionais para o mercado de trabalho e possibilitando o aprofundamento de conhecimentos na área do projeto ao qual está vinculado; e
 
-## **5.1.1 Programas de Ensino, Pesquisa, Extensão, Inovação, Inclusão Social e Assistência estudantil** 
+IV – otimizar a qualidade de ensino e sua indissociabilidade com a pesquisa e com as atividades extensionistas.
 
-A Política de Apoio Estudantil do IFPR é regulamentada pela Resolução CONSUP/IFPR nº 011/2009 (IFPR, 2009a), retificada pela Resolução CONSUP/IFPR nº 53/2011 (IFPR, 2011a), que em seu Artigo 1º define: 
+O discente do curso de Licenciatura em Química poderá também pleitear bolsas em projetos de Ensino, Extensão, Pesquisa e Inovação que forem submetidos à editais externos por docentes do IFPR conforme regulamentação dada pela Resolução CONSUP/IFPR nº 47/2011 (IFPR, 2011c).
 
-A Política de Apoio Estudantil do IFPR compreende o conjunto de ações voltadas aos estudantes e que atendam aos princípios de garantia de acesso, permanência e conclusão do curso de acordo com os princípios da Educação Integral (formação geral, profissional e tecnológica) em estreita articulação com os setores produtivos locais econômicos e sociais. 
+## **5.1.2 Aproveitamento de Estudos Anteriores**
 
-Parágrafo único. Essa Política tem como premissa a respeitabilidade a diversidade social, étnica, racial e inclusiva na perspectiva de uma sociedade democrática e cidadã (IFPR, 2011a). 
+O Aproveitamento de Estudos Anteriores é previsto na Resolução CONSUP/IFPR nº 55/2011, definido em seu Artigo nº 81: “O aproveitamento de estudos anteriores compreende o processo de aproveitamento de componentes curriculares ou etapas (séries, módulos, blocos) cursadas com êxito em outro curso” (IFPR, 2011).
 
-128 
+Para o curso de Licenciatura em Química apenas podem ser aproveitadas disciplinas em outros cursos de mesmo nível, como previsto nos Artigos 82 e 86. O pedido deverá ser protocolado pelo discente na Secretaria Acadêmica acompanhada de documentação própria, e seguirá o trâmite apresentado no Artigo nº 84 da referida resolução:
 
-**==> picture [472 x 55] intentionally omitted <==**
+O pedido de aproveitamento de estudos deve ser protocolado na Secretaria Acadêmica do Câmpus, por meio de formulário próprio, acompanhado de histórico escolar completo e atualizado da instituição de origem, da ementa e do programa do componente curricular, autenticados pela Instituição de ensino credenciada pelo MEC.
 
-A Resolução CONSUP/IFPR nº11/2009, Artigo 2º, apresenta os princípios no qual a Política de Apoio Estudantil está pautada: 
+§ 1º Os pedidos de aproveitamento de estudos devem ser feitos no prazo estabelecido pelo Calendário Acadêmico.
 
-I – educação profissional e tecnológica pública e gratuita de qualidade; II – igualdade de oportunidade no acesso, permanência e conclusão de curso; 
+§ 2º Os estudantes de cursos na modalidade de educação a distância devem entregar o pedido de aproveitamento de estudos ao tutor do Polo onde se realiza o curso, seguindo os mesmos prazos estabelecidos no parágrafo acima. O tutor deve encaminhar por via postal o pedido para a coordenação do curso correspondente.
 
-III – garantia de qualidade de formação tecnológica e humanística voltada ao fortalecimento das políticas de inclusão social; 
+§ 3º A Secretaria Acadêmica do Câmpus deve encaminhar os processos de aproveitamento de estudos à Direção de Ensino, Pesquisa e Extensão do Câmpus em até dois (02) dias úteis a contar da data do protocolo.
 
-IV – defesa do pluralismo de idéias com reconhecimento a liberdade de expressão; 
+§ 4º O estudante deve estar matriculado no componente curricular para o qual solicita o aproveitamento, ou ainda não tê-lo cursado.
 
-V – eliminação de qualquer forma de preconceito ou discriminação (IFPR, 2009a). 
+§ 5º O resultado do pedido de aproveitamento realizado pelo aluno não deve ultrapassar 10 (dez) dias úteis (IFPR, 2011b).
 
-O Artigo 7º da Resolução CONSUP/IFPR nº 11/2009 apresenta as modalidade de auxílios da Assistência Estudantil: 
+Será constituída, conforme Artigo nº 83 da Resolução CONSUP/IFPR nº 55/2011 (IFPR, 2011b), uma comissão para avaliação do pedido de aproveitamento de estudos, compostas por professores da área de conhecimento, que deverá seguir os critérios:
 
-I – moradia estudantil; II – alimentação; III – transporte; IV – atenção à saúde; 
+I - correspondência entre a instituição de origem e o IFPR em relação às ementas, ao conteúdo programático e à carga horária cursados. A carga horária cursada não deverá ser inferior a 75% daquela indicada na disciplina do curso do IFPR;
 
-V – inclusão digital; VI – cultura; VII – esporte; VII – apoio aos estudantes/pais; IX – apoio pedagógico; 
+II - além da correspondência entre as disciplinas, o processo de aproveitamento de estudos poderá envolver avaliação teórica e/ou prática acerca do conhecimento a ser aproveitado.
 
-X – acesso, participação e aprendizagem de estudantes com deficiência, transtornos globais do desenvolvimento e altas habilidades e superdotação (IFPR, 2009a). 
+Em caso de deferimento, caberá a Secretaria Acadêmica o cadastro do aproveitamento de estudos, como apresentado pelo Artigo nº 85.
 
-A Assistência Estudantil oferece ainda: Programa Monitoria, Programa de Inclusão Social, Programa de Apoio à participação de Eventos e o Programa Estudante Atleta, regulamentados, 
+## **5.1.3 Certificação de Conhecimentos Anteriores**
 
-129 
+A certificação de conhecimentos anteriores está prevista pela Resolução CONSUP/IFPR nº 55/2011, em seu Artigo nº 87:
 
-**==> picture [472 x 55] intentionally omitted <==**
+De acordo com a LDB 9394/96 e a Resolução CNE/CEB No 04/99, o conhecimento adquirido na educação profissional e tecnológica, inclusive no trabalho, poderá ser objeto de avaliação, reconhecimento e certificação para prosseguimento ou conclusão de estudos (IFPR, 2011b).
 
-respectivamente, pelas Resoluções CONSUP nº 04/2010 (IFPR, 2010a), nº 64/2010 (IFPR, 2010b) e nº 65/2010 (IFPR, 2010c) e pela Instrução Interna de Procedimento nº 01/2014 (IFPR, 2014a). 
+Os Artigos nº 88 e nº 90 da Resolução CONSUP/IFPR nº 55/2011 definem a Certificação de Conhecimentos Anteriores e estabelecem os procedimentos do processo de certificação ao discente solicitante:
 
-Além das Políticas da Assistência Estudantil são oferecidas bolsas por meio da Pró Reitoria de Pesquisa, Extensão e Inovação: Programa Institucional de Bolsa de Iniciação Científica (PIBIC), Programa Institucional de Bolsa de Extensão (PIBEX) e o Programa de Apoio ao Desenvolvimento Tecnológico e Inovação (PRADI), regulamentados pela Resolução CONSUP/IFPR nº 05/2010 (IFPR, 2010d) e Portaria SETEC nº 58, de 21 de novembro de 2014 (BRASIL, 2014b). 
+Art. 88. Entende-se por Certificação de Conhecimentos Anteriores a dispensa de frequência em componente curricular do curso do IFPR em que o estudante comprove excepcional domínio de conhecimento através da aprovação em avaliação.
 
-O Artigo 1º da Resolução CONSUP/IFPR nº 05/2010 (IFPR, 2010d), traz os seguintes objetivos para os programas de bolsas acima mencionados: 
+§ 1º A avaliação será realizada sob responsabilidade de Comissão composta por professores da área de conhecimento correspondente, designada pela Direção de Ensino, Pesquisa e Extensão do Câmpus, a qual estabelecerá os procedimentos e os critérios para a avaliação, de acordo com o previsto no projeto do curso e terá quinze (15) dias úteis para a expedição do resultado.
 
-I – possibilitar aos estudantes dos Cursos Técnicos, integrados ou subseqüentes, o desenvolvimento de competências e habilidades nas atividades de pesquisa científica; 
+§ 2º A avaliação para Certificação de Conhecimentos Anteriores poderá ocorrer por solicitação fundamentada do estudante, que justifique a excepcionalidade, ou por iniciativa de professores do curso.
 
-II – incentivar a participação dos estudantes em projetos de pesquisa, individuais ou em grupo, desenvolvidos por professores-pesquisadores do IFPR, despertando o interesse pela pesquisa e permitindo o desenvolvimento do pensamento científico; 
+§ 3º Quando solicitado pelo estudante, o pedido de Certificação de Conhecimentos Anteriores deverá ser feito no prazo de até dez (10) dias a contar do início do período letivo, através de formulário próprio entregue à Secretaria Acadêmica do Câmpus.
 
-III – contribuir para a formação de recursos humanos qualificados, aprimorando o processo de formação de profissionais para o mercado de trabalho e possibilitando o aprofundamento de conhecimentos na área do projeto ao qual está vinculado; e 
+§ 4º Caberá à Comissão designada pela Direção de Ensino, Pesquisa e Extensão do Câmpus estabelecer a programação e a supervisão das avaliações, bem como a homologação dos resultados finais.
 
-IV – otimizar a qualidade de ensino e sua indissociabilidade com a pesquisa e com as atividades extensionistas. 
+§ 5º Não se aplica a Certificação de Conhecimentos Anteriores para o componente curricular de Trabalho de Conclusão de Curso (TCC) ou Monografia, bem como para Estágio Supervisionado.
 
-O discente do curso de Licenciatura em Química poderá também pleitear bolsas em projetos de Ensino, Extensão, Pesquisa e Inovação que forem submetidos à editais externos por docentes do IFPR conforme regulamentação dada pela Resolução CONSUP/IFPR nº 47/2011 (IFPR, 2011c). 
+§ 6º O estudante deverá estar matriculado ou ainda não ter cursado o(s) componente(s) curricular(es) para o(s) qual(is) solicita a certificação de conhecimentos, até que seja expedido o resultado do seu pedido de aproveitamento.
 
-130 
+Art. 90. Caberá à Direção de Ensino, Pesquisa e Extensão do Câmpus encaminhar o resultado à Secretaria Acadêmica do Câmpus através de processo individual por estudante, contendo os componentes curriculares aproveitados com os respectivos conceitos avaliativos e a frequência, acompanhados de atas e/ou relatórios das avaliações, assinado pelos membros da Comissão designada para tal.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Parágrafo único. Os componentes curriculares com certificação de conhecimento serão cadastrados, pela Secretaria Acadêmica do Câmpus, no sistema de controle acadêmico com a frequência integral e o desempenho atingido pelo estudante (IFPR, 2011b).
 
-## **5.1.2 Aproveitamento de Estudos Anteriores** 
+## **5.1.4 Expedição de Diplomas e Certificados**
 
-O Aproveitamento de Estudos Anteriores é previsto na Resolução CONSUP/IFPR nº 55/2011, definido em seu Artigo nº 81: “O aproveitamento de estudos anteriores compreende o processo de aproveitamento de componentes curriculares ou etapas (séries, módulos, blocos) cursadas com êxito em outro curso” (IFPR, 2011). 
+Conforme a Resolução CONSUP/IFPR nº. 55/2011 em seu Artigo 114, define-se que:
 
-Para o curso de Licenciatura em Química apenas podem ser aproveitadas disciplinas em outros cursos de mesmo nível, como previsto nos Artigos 82 e 86. O pedido deverá ser protocolado pelo discente na Secretaria Acadêmica acompanhada de documentação própria, e seguirá o trâmite apresentado no Artigo nº 84 da referida resolução: 
+O estudante que frequentar todos os módulos/unidades curriculares previstos no curso, tendo obtido aproveitamento em todos eles, frequência mínima de setenta e cinco por cento (75%) das horas-aula e Trabalho de Conclusão de Curso ou relatório de Estágio aprovado, quando o curso exigir, antes do prazo para jubilamento, receberá o diploma de concluinte do curso, que será obtido junto à Secretaria Acadêmica de seu Campus, após ter realizado a colação de grau na data agendada pela Instituição.
 
-O pedido de aproveitamento de estudos deve ser protocolado na Secretaria Acadêmica do Câmpus, por meio de formulário próprio, acompanhado de histórico escolar completo e atualizado da instituição de origem, da ementa e do programa do componente curricular, autenticados pela Instituição de ensino credenciada pelo MEC. 
+§ 1º Antes da colação de grau, o formando deverá apresentar à Secretaria Acadêmica do Campus o comprovante de ausência de débito com a biblioteca e com a Direção de Ensino, Pesquisa e Extensão do Campus e, no caso de ter sofrido mudança no nome durante o curso, entregar cópia do documento do qual consta o nome atualizado.
 
-§ 1º Os pedidos de aproveitamento de estudos devem ser feitos no prazo estabelecido pelo Calendário Acadêmico. 
+§ 2º O formando que não comparecer à cerimônia de formatura de seu curso deverá solicitar à Direção Geral, mediante requerimento, nova data para formatura em Gabinete, para receber a outorga do diploma (IFPR, 2011b).
 
-§ 2º Os estudantes de cursos na modalidade de educação a distância devem entregar o pedido de aproveitamento de estudos ao tutor do Polo onde se realiza o curso, seguindo os mesmos prazos estabelecidos no parágrafo acima. O tutor deve encaminhar por via postal o pedido para a coordenação do curso correspondente. 
+O discente terá outorgado o grau pelo Magnífico Reitor ou seu representante, podendo, a partir de então, exercer a profissão. A comprovação de titularidade ocorrerá mediante diploma, os trâmites legais para a expedição de diplomas e certificados ficam a encargo da Secretaria Acadêmica que atuará com base nos preceitos de seu regulamento.
 
-§ 3º A Secretaria Acadêmica do Câmpus deve encaminhar os processos de aproveitamento de estudos à Direção de Ensino, Pesquisa e Extensão do Câmpus em até dois (02) dias úteis a contar da data do protocolo. 
+O ato coletivo de colação de grau será realizado em sessão solene, em dia, hora e local previamente designados pelo Reitor. Os concluintes que não colarem grau na cerimônia de formatura ou necessitarem de antecipação mediante justificativa, poderão fazê-lo, em dia e hora designados pelo reitor, na presença de, pelo menos, dois professores do curso, em sessão solene realizada em gabinete.
 
-§ 4º O estudante deve estar matriculado no componente curricular para o qual solicita o aproveitamento, ou ainda não tê-lo cursado. 
+## **5.1.5 Acessibilidade**
 
-131 
+A instituição constantemente mostra-se preocupada ao cumprir com o expresso no Decreto nº 5.296, de 02 de dezembro de 2004 (BRASIL, 2004), que regulamenta a Lei nº 10.048, de 8 de novembro de 2000 (BRASIL, 2000), oferecendo prioridade de atendimento às pessoas que especifica, e outras providências, e a Lei nº 10.098, de 19 de dezembro de 2000 (BRASIL, 2000), que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas com deficiência definidas.
 
-**==> picture [472 x 55] intentionally omitted <==**
+A instituição busca promover a inclusão, mediante o Núcleo de Atendimento a Pessoas com Necessidades Especiais (NAPNE), buscando desenvolver ações que garantam a permanência e o êxito escolar aos discentes com necessidades especiais. O _Campus_ Pitanga conta com a estrutura padrão do bloco administrativo do Instituto Federal do Paraná que se adequa ao atendimento de discentes em inclusão. O prédio conta com quatro banheiros adaptados para cadeirantes, sinalização tátil de chão e de corrimãos, elevador para cadeirante, portas largas, faixas antiderrapantes nas escadas, entre outros. O IFPR _Campus_ Pitanga, também disponibiliza um computador com software para deficientes visuais, teclado baixa visão, impressão braile, notebook, fones de ouvido, livros em braile, audiolivros e revistas infanto juvenil em braile enviados pela fundação Dorina Nowill, livros com fonte ampliada, entre outros.
 
-§ 5º O resultado do pedido de aproveitamento realizado pelo aluno não deve ultrapassar 10 (dez) dias úteis (IFPR, 2011b). 
+## **5.1.6 Educação Inclusiva**
 
-Será constituída, conforme Artigo nº 83 da Resolução CONSUP/IFPR nº 55/2011 (IFPR, 2011b), uma comissão para avaliação do pedido de aproveitamento de estudos, compostas por professores da área de conhecimento, que deverá seguir os critérios: 
+A educação inclusiva foi incorporada ao curso de Licenciatura em Química sob os seguintes aspectos: adequação da matriz curricular e ações institucionais.
 
-I - correspondência entre a instituição de origem e o IFPR em relação às ementas, ao conteúdo programático e à carga horária cursados. A carga horária cursada não deverá ser inferior a 75% daquela indicada na disciplina do curso do IFPR; 
+A Matriz Curricular conta com componentes curriculares de Libras, em cumprimento ao Decreto nº. 5.626, de 22 de dezembro de 2005 (BRASIL, 2005a). Além disso, foram adequadas as ementas dos componentes curriculares de Química, Física e Matemática no primeiro ano de curso, prevendo uma revisão do Ensino Médio possibilitando êxito escolar dos discentes ingressantes. Condizendo dessa forma com a política de inclusão do IFPR mediante as cotas nos processos seletivos.
 
-II - além da correspondência entre as disciplinas, o processo de aproveitamento de estudos poderá envolver avaliação teórica e/ou prática acerca do conhecimento a ser aproveitado. 
+O IFPR _Campus_ Pitanga busca promover a inclusão, mediante ações do Núcleo de Atendimento às Pessoas com Necessidades Educacionais Especiais (NAPNE), buscando desenvolver ações que garantam a permanência e o êxito escolar aos discentes com necessidades especiais. O _Campus_ Pitanga conta com a estrutura padrão do bloco administrativo do Instituto Federal do Paraná que se adequa ao atendimento de discentes em inclusão. O prédio conta com quatro banheiros adaptados, sinais braile, elevador para cadeirante, portas largas, entre outros. O IFPR _Campus_ Pitanga, também disponibiliza um computador com _software_ para deficientes visuais, teclado de baixa visão, impressão braile e fones de ouvido. Além disso, a instituição mostra-se constantemente preocupada em cumprir com o expresso no Decreto nº 5.296, de 02 de dezembro de 2004 (BRASIL, 2004a), que regulamenta a Lei nº 10.048, de 8 de novembro de 2000 (BRASIL, 2000a), oferecendo prioridade de atendimento às pessoas que especifica, e outras providências, e a Lei nº 10.098, de 19 de dezembro de 2000 (BRASIL, 2000b), que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas com deficiência definidas. O IFPR _Campus_ Pitanga conta com uma equipe de profissionais, contendo psicólogo e assistente social e docente da área de Educação Especial, capacitados para identificar e orientar ações no processo de ensino aprendizagem com a finalidade promover uma educação inclusiva a discentes com necessidades especiais, respeitando as diferenças que envolvem a deficiência, transtornos globais do desenvolvimento, altas habilidades e superdotação.
 
-Em caso de deferimento, caberá a Secretaria Acadêmica o cadastro do aproveitamento de estudos, como apresentado pelo Artigo nº 85. 
+## **5.1.7 Mobilidade Estudantil e Internacionalização**
 
-## **5.1.3 Certificação de Conhecimentos Anteriores** 
+Conforme ações do PDI do IFPR (PDI 2014/2018, p. 48) especifica-se a “Implementação e consolidação do Programa de Mobilidade Estudantil Nacional e Internacional e Programa Ciência Sem Fronteiras”.
 
-A certificação de conhecimentos anteriores está prevista pela Resolução CONSUP/IFPR nº 55/2011, em seu Artigo nº 87: 
+O IFPR, por meio de sua Coordenadoria de Relações Internacionais, busca promover a internacionalização ampla do IFPR, por meio da formulação de políticas, da interlocução com parceiros nacionais e internacionais e do apoio às ações, projetos e programas de internacionalização dos _campi_ e outros setores.
 
-De acordo com a LDB 9394/96 e a Resolução CNE/CEB No 04/99, o conhecimento adquirido na educação profissional e tecnológica, inclusive no trabalho, poderá ser objeto de avaliação, reconhecimento e certificação para prosseguimento ou conclusão de estudos (IFPR, 2011b). 
+De acordo com essa Coordenação, a internacionalização refere-se a todos esforços da instituição para incorporar perspectivas globais no ensino, pesquisa e extensão; para construir competências internacionais e interculturais entre alunos, professores e técnicos; para estabelecer parcerias com comunidades e instituições no exterior.
 
-132 
+As ações especificadas são:
 
-**==> picture [472 x 55] intentionally omitted <==**
+- Participação de Congressos Internacionais, tais como o _World Federation of Colleges and Polytechnics_ (WFCP); Fórum Franco Brasileiro – Ciência e Sociedade.
 
-Os Artigos nº 88 e nº 90 da Resolução CONSUP/IFPR nº 55/2011 definem a Certificação de Conhecimentos Anteriores e estabelecem os procedimentos do processo de certificação ao discente solicitante: 
+- Oportunidade de Bolsa de Estudo – Nível Doutorado
 
-Art. 88. Entende-se por Certificação de Conhecimentos Anteriores a dispensa de frequência em componente curricular do curso do IFPR em que o estudante comprove excepcional domínio de conhecimento através da aprovação em avaliação. 
+- Programa de Bolsa Robert S. McNamara, para candidatos com doutorado em andamento.
 
-§ 1º A avaliação será realizada sob responsabilidade de Comissão composta por professores da área de conhecimento correspondente, designada pela Direção de Ensino, Pesquisa e Extensão do Câmpus, a qual estabelecerá os procedimentos e os critérios para a avaliação, de acordo com o previsto no projeto do curso e terá quinze (15) dias úteis para a expedição do resultado. 
+Tais procedimentos são regulamentados pela Instrução Interna de Procedimentos Nº 02/2014 – PROENS/IFPR – Mobilidade Estudantil.
 
-§ 2º A avaliação para Certificação de Conhecimentos Anteriores poderá ocorrer por solicitação fundamentada do estudante, que justifique a excepcionalidade, ou por iniciativa de professores do curso. 
+## **6. EQUIPE MULTIDISCIPLINAR**
 
-§ 3º Quando solicitado pelo estudante, o pedido de Certificação de Conhecimentos Anteriores deverá ser feito no prazo de até dez (10) dias a contar do início do período letivo, através de formulário próprio entregue à Secretaria Acadêmica do Câmpus. 
+## 6.1. CORPO DOCENTE
 
-§ 4º Caberá à Comissão designada pela Direção de Ensino, Pesquisa e Extensão do Câmpus estabelecer a programação e a supervisão das avaliações, bem como a homologação dos resultados finais. 
+## **6.1.1 Atribuições do Coordenador**
 
-§ 5º Não se aplica a Certificação de Conhecimentos Anteriores para o componente curricular de Trabalho de Conclusão de Curso (TCC) ou Monografia, bem como para Estágio Supervisionado. 
+O manual de competências (IFPR, 2015, p. 228), define a coordenação de curso como
 
-§ 6º O estudante deverá estar matriculado ou ainda não ter cursado o(s) componente(s) curricular(es) para o(s) qual(is) solicita a certificação de conhecimentos, até que seja expedido o resultado do seu pedido de aproveitamento. 
+sendo:
 
-133 
+A coordenação do curso é o órgão responsável pela parte acadêmica e administrativa do curso, estando vinculada diretamente à Coordenadoria de Ensino. A ela compete o acompanhamento da vida acadêmica do aluno do IFPR, desde a entrada no curso pretendido até o seu término. Também é responsável por responder pelo curso no âmbito do Câmpus, assim como contribuir para a organização curricular do Câmpus.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Assim, o coordenador de curso, deverá desempenhar as seguintes competências:
 
-Art. 90. Caberá à Direção de Ensino, Pesquisa e Extensão do Câmpus encaminhar o resultado à Secretaria Acadêmica do Câmpus através de processo individual por estudante, contendo os componentes curriculares aproveitados com os respectivos conceitos avaliativos e a frequência, acompanhados de atas e/ou relatórios das avaliações, assinado pelos membros da Comissão designada para tal. 
+Cumprir e fazer cumprir as normas e procedimentos institucionais;
 
-Parágrafo único. Os componentes curriculares com certificação de conhecimento serão cadastrados, pela Secretaria Acadêmica do Câmpus, no sistema de controle acadêmico com a frequência integral e o desempenho atingido pelo estudante (IFPR, 2011b). 
+Planejar ação didático/pedagógica dos cursos juntamente com a Coordenação de Ensino/Direção de Ensino;
 
-## **5.1.4 Expedição de Diplomas e Certificados** 
+Executar as deliberações do CONSAP e CONSUP;
 
-Conforme a Resolução CONSUP/IFPR nº. 55/2011 em seu Artigo 114, define-se que: 
+Orientar o corpo discente e docente dos cursos sob sua coordenação sobre currículo, frequência, avaliação e demais atividades de ensino;
 
-O estudante que frequentar todos os módulos/unidades curriculares previstos no curso, tendo obtido aproveitamento em todos eles, frequência mínima de setenta e cinco por cento (75%) das horas-aula e Trabalho de Conclusão de Curso ou relatório de Estágio aprovado, quando o curso exigir, antes do prazo para jubilamento, receberá o diploma de concluinte do curso, que será obtido junto à Secretaria Acadêmica de seu Campus, após ter realizado a colação de grau na data agendada pela Instituição. 
+Organizar e registrar por meio de atas, reuniões com os docentes do curso;
 
-§ 1º Antes da colação de grau, o formando deverá apresentar à Secretaria Acadêmica do Campus o comprovante de ausência de débito com a biblioteca e com a Direção de Ensino, Pesquisa e Extensão do Campus e, no caso de ter sofrido mudança no nome durante o curso, entregar cópia do documento do qual consta o nome atualizado. 
+Supervisionar situações acordadas em reuniões:
 
-§ 2º O formando que não comparecer à cerimônia de formatura de seu curso deverá solicitar à Direção Geral, mediante requerimento, nova data para formatura em Gabinete, para receber a outorga do diploma (IFPR, 2011b). 
+Assessorar a coordenação de ensino na fixação dos horários das aulas nos cursos ofertados;
 
-134 
+Planejar em conjunto com a Coordenação de Ensino/Direção de Ensino as dependências do curso;
 
-**==> picture [472 x 55] intentionally omitted <==**
+Presidir a comissão de avaliação dos pedidos de dispensa e opinar na transferência, verificando a equivalência dos estudos feitos, tomando as providências cabíveis;
 
-O discente terá outorgado o grau pelo Magnífico Reitor ou seu representante, podendo, a partir de então, exercer a profissão. A comprovação de titularidade ocorrerá mediante diploma, os trâmites legais para a expedição de diplomas e certificados ficam a encargo da Secretaria Acadêmica que atuará com base nos preceitos de seu regulamento. 
+Atender os pais juntamente com a Coordenação de Ensino;
 
-O ato coletivo de colação de grau será realizado em sessão solene, em dia, hora e local previamente designados pelo Reitor. Os concluintes que não colarem grau na cerimônia de formatura ou necessitarem de antecipação mediante justificativa, poderão fazê-lo, em dia e hora designados pelo reitor, na presença de, pelo menos, dois professores do curso, em sessão solene realizada em gabinete. 
+Exercer o papel de ‘ouvidor’ de alunos e professores em assuntos relacionados ao curso;
 
-## **5.1.5 Acessibilidade** 
+Zelar pelos laboratórios, materiais e equipamentos da sua coordenação específica;
 
-A instituição constantemente mostra-se preocupada ao cumprir com o expresso no Decreto nº 5.296, de 02 de dezembro de 2004 (BRASIL, 2004), que regulamenta a Lei nº 10.048, de 8 de novembro de 2000 (BRASIL, 2000), oferecendo prioridade de atendimento às pessoas que especifica, e outras providências, e a Lei nº 10.098, de 19 de dezembro de 2000 (BRASIL, 2000), que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas com deficiência definidas. 
+Supervisionar o preenchimento do diário de classe e solicitar correções caso sejam necessárias, assinando-os e encaminhando para a Coordenação de Ensino.
 
-A instituição busca promover a inclusão, mediante o Núcleo de Atendimento a Pessoas com Necessidades Especiais (NAPNE), buscando desenvolver ações que garantam a permanência e o êxito escolar aos discentes com necessidades especiais. O _Campus_ Pitanga conta com a estrutura padrão do bloco administrativo do Instituto Federal do Paraná que se adequa ao atendimento de discentes em inclusão. O prédio conta com quatro banheiros adaptados para cadeirantes, sinalização tátil de chão e de corrimãos, elevador para cadeirante, portas largas, faixas antiderrapantes nas escadas, entre outros. O IFPR _Campus_ Pitanga, também disponibiliza um computador com software para deficientes visuais, teclado baixa visão, impressão braile, notebook, fones de ouvido, livros em braile, audiolivros e revistas infanto juvenil em braile enviados pela fundação Dorina Nowill, livros com fonte ampliada, entre outros. 
+Implementação e manutenção dos programas de Assistência Estudantil mantidos pelo IFPR no Câmpus, garantindo desta forma, a permanência e o êxito no processo formativo do aluno, através de atividades como:
 
-135 
+- Divulgar os editais para a comunidade acadêmica (coordenadores, professores e alunos);
 
-**==> picture [472 x 55] intentionally omitted <==**
+- Preencher relatórios e planilhas (mensais e/ou semanais e/ou anuais);
 
-## **5.1.6 Educação Inclusiva** 
+Acompanhar a coordenação de Ensino na supervisão dos registros de frequência;
 
-A educação inclusiva foi incorporada ao curso de Licenciatura em Química sob os seguintes aspectos: adequação da matriz curricular e ações institucionais. 
+Acompanhar a revisão e atualização dos PPC;
 
-A Matriz Curricular conta com componentes curriculares de Libras, em cumprimento ao Decreto nº. 5.626, de 22 de dezembro de 2005 (BRASIL, 2005a). Além disso, foram adequadas as ementas dos componentes curriculares de Química, Física e Matemática no primeiro ano de curso, prevendo uma revisão do Ensino Médio possibilitando êxito escolar dos discentes ingressantes. Condizendo dessa forma com a política de inclusão do IFPR mediante as cotas nos processos seletivos. 
+Acompanhar novas propostas de cursos e auxiliar na elaboração dos PPC;
 
-O IFPR _Campus_ Pitanga busca promover a inclusão, mediante ações do Núcleo de Atendimento às Pessoas com Necessidades Educacionais Especiais (NAPNE), buscando desenvolver ações que garantam a permanência e o êxito escolar aos discentes com necessidades especiais. O _Campus_ Pitanga conta com a estrutura padrão do bloco administrativo do Instituto Federal do Paraná que se adequa ao atendimento de discentes em inclusão. O prédio conta com quatro banheiros adaptados, sinais braile, elevador para cadeirante, portas largas, entre outros. O IFPR _Campus_ Pitanga, também disponibiliza um computador com _software_ para deficientes visuais, teclado de baixa visão, impressão braile e fones de ouvido. Além disso, a instituição mostra-se constantemente preocupada em cumprir com o expresso no Decreto nº 5.296, de 02 de dezembro de 2004 (BRASIL, 2004a), que regulamenta a Lei nº 10.048, de 8 de novembro de 2000 (BRASIL, 2000a), oferecendo prioridade de atendimento às pessoas que especifica, e outras providências, e a Lei nº 10.098, de 19 de dezembro de 2000 (BRASIL, 2000b), que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas com deficiência definidas. O IFPR _Campus_ Pitanga conta com uma equipe de profissionais, contendo psicólogo e assistente social e docente da área de Educação Especial, capacitados para identificar e orientar ações no processo de ensino aprendizagem com a finalidade promover uma educação inclusiva a discentes com necessidades especiais, respeitando as diferenças que envolvem a deficiência, transtornos globais do desenvolvimento, altas habilidades e superdotação. 
+Elaborar calendário acadêmico;
 
-136 
+Auxiliar a coordenação de Ensino/Coordenação de Curso na elaboração dos horários de aulas;
 
-**==> picture [472 x 55] intentionally omitted <==**
+Elaborar, revisar e acompanhar os projetos pedagógicos do curso;
 
-## **5.1.7 Mobilidade Estudantil e Internacionalização** 
+Supervisionar os planos de ensino docente e solicitar correções, caso seja necessário, assinando-os e encaminhando-os à coordenação de ensino;
 
-Conforme ações do PDI do IFPR (PDI 2014/2018, p. 48) especifica-se a “Implementação e consolidação do Programa de Mobilidade Estudantil Nacional e Internacional e Programa Ciência Sem Fronteiras”. 
+Articular a integração entre as áreas de base nacional comum e de formação específica;
 
-O IFPR, por meio de sua Coordenadoria de Relações Internacionais, busca promover a internacionalização ampla do IFPR, por meio da formulação de políticas, da interlocução com parceiros nacionais e internacionais e do apoio às ações, projetos e programas de internacionalização dos _campi_ e outros setores. 
+Elaborar, com o auxílio dos docentes, termos de referências, especificações, planilhas e memoriais, para suprimento de materiais, obras, serviços e equipamentos às necessidades do curso;
 
-De acordo com essa Coordenação, a internacionalização refere-se a todos esforços da instituição para incorporar perspectivas globais no ensino, pesquisa e extensão; para construir competências internacionais e interculturais entre alunos, professores e técnicos; para estabelecer parcerias com comunidades e instituições no exterior. 
+Acompanhar comissões de avaliação de curso, bem como fornecer informações do curso solicitadas pelos órgãos da Reitoria e também pelas Seções do MEC;
 
-As ações especificadas são: 
+Desempenhar outras atividades inerentes à unidade, função ou cargo, não previstas neste manual, mas de interesse da Administração.
 
-- Participação de Congressos Internacionais, tais como o _World Federation of Colleges and Polytechnics_ (WFCP); Fórum Franco Brasileiro – Ciência e Sociedade. 
+Ademais, ao Coordenador do Curso compete:
 
-- Oportunidade de Bolsa de Estudo – Nível Doutorado 
+I. Indicar, junto ao Colegiado do Curso, o discente responsável por coordenar as ações das Atividades Complementares.
 
-- Programa de Bolsa Robert S. McNamara, para candidatos com doutorado em andamento. 
+II. Propiciar condições para o processo de avaliação e acompanhamento das Atividades Complementares.
 
-Tais procedimentos são regulamentados pela Instrução Interna de Procedimentos Nº 02/2014 – PROENS/IFPR – Mobilidade Estudantil. 
+III. Supervisionar o desenvolvimento das Atividades Complementares.
 
-137 
+IV. Definir, junto ao Colegiado do Curso, para as atividades relacionadas no artigo 13, procedimentos de avaliação e pontuação para avaliação de Atividades Complementares em consonância com a PPC do curso de Licenciatura em Química.
 
-**==> picture [472 x 55] intentionally omitted <==**
+V. Avaliar, junto ao Colegiado do Curso, as Atividades Complementares não previstas neste Regulamento.
 
-## **6. EQUIPE MULTIDISCIPLINAR** 
+## **6.1.2 Experiência do Coordenador**
 
-## 6.1. CORPO DOCENTE 
+O coordenador do Curso Superior de Licenciatura em Química é Licenciado e Bacharel em Química pela Universidade Federal de Uberlândia - UFU. Possui mestrado, doutorado e pósdoutorado na mesma instituição em Analítica/Eletroanalítica. Pela Universidade de São Paulo - USP, possui pós-doutorado também em Analítica/Eletroanalítica. A principal linha de pesquisa do coordenador está focada no desenvolvimento de sensores aprimorados e de baixo custo visando a aplicação em análises de amostras de interesse farmacêutico, forense e ambiental.
 
-## **6.1.1 Atribuições do Coordenador** 
+Em sua trajetória profissional o coordenador possui experiência como Supervisor Químico de Qualidade de 2011 a 2015, atuando nas áreas de qualidade e análises de rotina (empresa privada: laboratório agrícola). Também possui experiência como técnico de operação de estação de tratamento de água e esgoto. Ademais, possui experiência no magistério, tendo atuado no Ensino Médio, Ensino Técnico e Ensino Superior, em instituições públicas.
 
-O manual de competências (IFPR, 2015, p. 228), define a coordenação de curso como 
+Em 2021 iniciou a carreira de professor de Ensino Básico, Técnico e Tecnológico no Instituto Federal do Paraná - _Campus_ Pitanga, onde atua nos Cursos Técnico Integrado em Cooperativismo, Licenciatura em Química e Tecnologia em Agroindústria.
 
-sendo: 
+## **6.1.3 Núcleo Docente Estruturante (NDE)**
 
-A coordenação do curso é o órgão responsável pela parte acadêmica e administrativa do curso, estando vinculada diretamente à Coordenadoria de Ensino. A ela compete o acompanhamento da vida acadêmica do aluno do IFPR, desde a entrada no curso pretendido até o seu término. Também é responsável por responder pelo curso no âmbito do Câmpus, assim como contribuir para a organização curricular do Câmpus. 
-
-Assim, o coordenador de curso, deverá desempenhar as seguintes competências: 
-
-Cumprir e fazer cumprir as normas e procedimentos institucionais; 
-
-Planejar ação didático/pedagógica dos cursos juntamente com a Coordenação de Ensino/Direção de Ensino; 
-
-Executar as deliberações do CONSAP e CONSUP; 
-
-Orientar o corpo discente e docente dos cursos sob sua coordenação sobre currículo, frequência, avaliação e demais atividades de ensino; 
-
-Organizar e registrar por meio de atas, reuniões com os docentes do curso; 
-
-Supervisionar situações acordadas em reuniões: 
-
-138 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-Assessorar a coordenação de ensino na fixação dos horários das aulas nos cursos ofertados; 
-
-Planejar em conjunto com a Coordenação de Ensino/Direção de Ensino as dependências do curso; 
-
-Presidir a comissão de avaliação dos pedidos de dispensa e opinar na transferência, verificando a equivalência dos estudos feitos, tomando as providências cabíveis; 
-
-Atender os pais juntamente com a Coordenação de Ensino; 
-
-Exercer o papel de ‘ouvidor’ de alunos e professores em assuntos relacionados ao curso; 
-
-Zelar pelos laboratórios, materiais e equipamentos da sua coordenação específica; 
-
-Supervisionar o preenchimento do diário de classe e solicitar correções caso sejam necessárias, assinando-os e encaminhando para a Coordenação de Ensino. 
-
-Implementação e manutenção dos programas de Assistência Estudantil mantidos pelo IFPR no Câmpus, garantindo desta forma, a permanência e o êxito no processo formativo do aluno, através de atividades como: 
-
-- Divulgar os editais para a comunidade acadêmica (coordenadores, professores e alunos); 
-
-- Preencher relatórios e planilhas (mensais e/ou semanais e/ou anuais); 
-
-Acompanhar a coordenação de Ensino na supervisão dos registros de frequência; 
-
-Acompanhar a revisão e atualização dos PPC; 
-
-Acompanhar novas propostas de cursos e auxiliar na elaboração dos PPC; 
-
-Elaborar calendário acadêmico; 
-
-Auxiliar a coordenação de Ensino/Coordenação de Curso na elaboração dos horários de aulas; 
-
-139 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-Elaborar, revisar e acompanhar os projetos pedagógicos do curso; 
-
-Supervisionar os planos de ensino docente e solicitar correções, caso seja necessário, assinando-os e encaminhando-os à coordenação de ensino; 
-
-Articular a integração entre as áreas de base nacional comum e de formação específica; 
-
-Elaborar, com o auxílio dos docentes, termos de referências, especificações, planilhas e memoriais, para suprimento de materiais, obras, serviços e equipamentos às necessidades do curso; 
-
-Acompanhar comissões de avaliação de curso, bem como fornecer informações do curso solicitadas pelos órgãos da Reitoria e também pelas Seções do MEC; 
-
-Desempenhar outras atividades inerentes à unidade, função ou cargo, não previstas neste manual, mas de interesse da Administração. 
-
-Ademais, ao Coordenador do Curso compete: 
-
-I. Indicar, junto ao Colegiado do Curso, o discente responsável por coordenar as ações das Atividades Complementares. 
-
-II. Propiciar condições para o processo de avaliação e acompanhamento das Atividades Complementares. 
-
-III. Supervisionar o desenvolvimento das Atividades Complementares. 
-
-IV. Definir, junto ao Colegiado do Curso, para as atividades relacionadas no artigo 13, procedimentos de avaliação e pontuação para avaliação de Atividades Complementares em consonância com a PPC do curso de Licenciatura em Química. 
-
-V. Avaliar, junto ao Colegiado do Curso, as Atividades Complementares não previstas neste Regulamento. 
-
-140 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-## **6.1.2 Experiência do Coordenador** 
-
-O coordenador do Curso Superior de Licenciatura em Química é Licenciado e Bacharel em Química pela Universidade Federal de Uberlândia - UFU. Possui mestrado, doutorado e pósdoutorado na mesma instituição em Analítica/Eletroanalítica. Pela Universidade de São Paulo - USP, possui pós-doutorado também em Analítica/Eletroanalítica. A principal linha de pesquisa do coordenador está focada no desenvolvimento de sensores aprimorados e de baixo custo visando a aplicação em análises de amostras de interesse farmacêutico, forense e ambiental. 
-
-Em sua trajetória profissional o coordenador possui experiência como Supervisor Químico de Qualidade de 2011 a 2015, atuando nas áreas de qualidade e análises de rotina (empresa privada: laboratório agrícola). Também possui experiência como técnico de operação de estação de tratamento de água e esgoto. Ademais, possui experiência no magistério, tendo atuado no Ensino Médio, Ensino Técnico e Ensino Superior, em instituições públicas. 
-
-Em 2021 iniciou a carreira de professor de Ensino Básico, Técnico e Tecnológico no Instituto Federal do Paraná - _Campus_ Pitanga, onde atua nos Cursos Técnico Integrado em Cooperativismo, Licenciatura em Química e Tecnologia em Agroindústria. 
-
-## **6.1.3 Núcleo Docente Estruturante (NDE)** 
-
-**Tabela 5** : Núcleo Estruturante do Curso de Licenciatura em Química. 
+**Tabela 5** : Núcleo Estruturante do Curso de Licenciatura em Química.
 
 |**Membros**|**Titulação**|**Formação**|**Regime de**<br>**Trabalho**|
 |---|---|---|---|
 |Aline Fabiane Barbieri|Doutora|Educação Física|DE|
 |Ana Paula Hilário<br>Gregório|Doutora|Química|DE|
 |Diego Pessoa Rocha|Doutor|Química|DE|
-
-
-
-141 
-
-**==> picture [472 x 55] intentionally omitted <==**
 
 |Daniel Rotella Cocco|Mestre|Química|DE|
 |---|---|---|---|
@@ -3640,11 +3029,9 @@ Em 2021 iniciou a carreira de professor de Ensino Básico, Técnico e Tecnológi
 |Maicon Rogério de Souza|Mestre|Física|DE|
 |Marcela Marta Lazaretti<br>Tormena|Doutora|Química|40h|
 
+## **6.1.4 Relação do Corpo docente**
 
-
-## **6.1.4 Relação do Corpo docente** 
-
-**Tabela 6** : Corpo Docente do Curso de Licenciatura em Química. 
+**Tabela 6** : Corpo Docente do Curso de Licenciatura em Química.
 
 |**Nome Completo**|**Curso de**<br>**Graduação**|**Maior**<br>**Titulação**|**Regime de**<br>**Trabalho**<br>**(DE, 40h,**<br>**20h)**|**Link Currículo Lattes**|
 |---|---|---|---|---|
@@ -3654,12 +3041,6 @@ Em 2021 iniciou a carreira de professor de Ensino Básico, Técnico e Tecnológi
 |Cassiana Kissel|Tecnologia<br>em<br>Alimentos|Doutorado|DE|http://lattes.cnpq.br/4420530260331791|
 |Daniel Rotella<br>Cocco|Química|Mestrado|DE|http://lattes.cnpq.br/0143589755803738|
 |Diego Pessoa Rocha|Química|Doutorado|DE|http://lattes.cnpq.br/5001705891979032|
-
-
-
-142 
-
-**==> picture [472 x 55] intentionally omitted <==**
 
 |Douglas Fernando<br>Copatti|Matemática|Doutorado|DE|http://lattes.cnpq.br/2841295552498624|
 |---|---|---|---|---|
@@ -3678,57 +3059,43 @@ Em 2021 iniciou a carreira de professor de Ensino Básico, Técnico e Tecnológi
 |Tânia Regina<br>Rossetto|Artes|Doutorado|DE|http://lattes.cnpq.br/1208049242048811|
 |Wesley Renzi|Física|Doutorado|DE|http://lattes.cnpq.br/4692413862572616|
 
+## **6.1.5 Colegiado de Curso**
 
+A Resolução CONSUP/IFPR nº 08 de 2014 (IFPR, 2014b), estabelece o Colegiado de Curso, em seu artigo 24 define este órgão:
 
-143 
+Os Colegiados de Cursos são órgãos consultivos e deliberativos do Câmpus para assuntos de natureza pedagógica, didática e disciplinar, no âmbito de cada curso, tendo como finalidade o desenvolvimento e fortalecimento dos cursos ofertados, assegurando a participação dos segmentos da comunidade escolar.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Segundo a referida resolução, o Colegiado de Curso é composto por docentes dos componentes curriculares do curso, um representante técnico administrativo em educação ligado diretamente ao curso, quando houver, e dois representantes discentes, de turmas distintas.
 
-## **6.1.5 Colegiado de Curso** 
+As reuniões do Colegiado de curso ocorrem com periodicidade mínima bimestral, sendo convocada pela Coordenação de Curso, e as proposições e deliberações advindas da reunião são lavradas em ata, com a assinatura de todos os membros presentes.
 
-A Resolução CONSUP/IFPR nº 08 de 2014 (IFPR, 2014b), estabelece o Colegiado de Curso, em seu artigo 24 define este órgão: 
+As funções do colegiado, conforme disposto no Artigo nº 27 da Resolução CONSUP/IFPR nº 08/2014, são:
 
-Os Colegiados de Cursos são órgãos consultivos e deliberativos do Câmpus para assuntos de natureza pedagógica, didática e disciplinar, no âmbito de cada curso, tendo como finalidade o desenvolvimento e fortalecimento dos cursos ofertados, assegurando a participação dos segmentos da comunidade escolar. 
+I - Cumprir e fazer cumprir as normas da instituição para o pleno funcionamento do curso;
 
-Segundo a referida resolução, o Colegiado de Curso é composto por docentes dos componentes curriculares do curso, um representante técnico administrativo em educação ligado diretamente ao curso, quando houver, e dois representantes discentes, de turmas distintas. 
+II - Propor revisão do Plano de Curso, quando necessário, respeitadas as diretrizes e normas do IFPR;
 
-As reuniões do Colegiado de curso ocorrem com periodicidade mínima bimestral, sendo convocada pela Coordenação de Curso, e as proposições e deliberações advindas da reunião são lavradas em ata, com a assinatura de todos os membros presentes. 
+III - Manifestar-se sobre as formas de admissão e seleção, bem como sobre o número de vagas iniciais, no que lhe couber;
 
-As funções do colegiado, conforme disposto no Artigo nº 27 da Resolução CONSUP/IFPR nº 08/2014, são: 
+IV - Estabelecer normas internas de funcionamento do curso, respeitadas as diretrizes e normas da instituição; V - Zelar pelo cumprimento dos Planos de Ensino dos componentes curriculares; VI - Orientar e acompanhar a vida escolar/acadêmica dos alunos do curso;
 
-I - Cumprir e fazer cumprir as normas da instituição para o pleno funcionamento do curso; 
+VII - Deliberar sobre requerimentos de alunos no âmbito de suas competências; VIII - Deliberar o horário de aulas do Curso, respeitadas as diretrizes e normas da instituição;
 
-II - Propor revisão do Plano de Curso, quando necessário, respeitadas as diretrizes e normas do IFPR; 
+IX - Estudar, na qualidade de relator ou de membro de comissão especial, as matérias submetidas à apreciação do Colegiado, apresentando o relato e a decisão no prazo estabelecido pelo Colegiado ou pela Coordenação;
 
-III - Manifestar-se sobre as formas de admissão e seleção, bem como sobre o número de vagas iniciais, no que lhe couber; 
+X - Recepcionar os ingressantes do Curso, orientando-os no que se refere ao funcionamento e organização do IFPR;
 
-IV - Estabelecer normas internas de funcionamento do curso, respeitadas as diretrizes e normas da instituição; V - Zelar pelo cumprimento dos Planos de Ensino dos componentes curriculares; VI - Orientar e acompanhar a vida escolar/acadêmica dos alunos do curso; 
+XI - Decidir sobre a aprovação ou reprovação de estudantes com dificuldade de aproveitamento nos componentes curriculares, ou em casos específicos que extrapolem a competência didático-avaliativo-pedagógica docente, desde que convocados (IFPR, 2014b).
 
-144 
+## **6.1.6 Políticas de Capacitação do Corpo Docente**
 
-**==> picture [472 x 55] intentionally omitted <==**
+As políticas de capacitação docente foram instituídas pelo Programa de Incentivo à Formação Inicial, Continuada e de Qualificação de Servidores Públicos, formalizadas pela Resolução CONSUP/IFPR nº 48 de 21 de dezembro de 2011 (IFPR, 2011d). Tais políticas enfatizam a formação, a qualificação e a atualização dos recursos humanos, contemplando os seguintes níveis formativos: cursos de Graduação; cursos de Pós-Graduação Lato Sensu: aperfeiçoamento e especialização; cursos de Pós-Graduação Stricto Sensu: mestrado e doutorado; estágio Pós-Doutoral; outros cursos, estágios, intercâmbios acadêmico-profissionais ou atividades de capacitação, no interesse da Administração.
 
-VII - Deliberar sobre requerimentos de alunos no âmbito de suas competências; VIII - Deliberar o horário de aulas do Curso, respeitadas as diretrizes e normas da instituição; 
+A gestão das políticas de Capacitação é realizada em conjunto entre as Pró Reitorias de Ensino, de Gestão de Pessoas, de Planejamento e Desenvolvimento Institucional, de Administração, de Extensão, Pesquisa e Inovação, as Direções dos _Campi_ e do Ensino a Distância do IFPR, conforme é previsto no artigo 4º da resolução supracitada.
 
-IX - Estudar, na qualidade de relator ou de membro de comissão especial, as matérias submetidas à apreciação do Colegiado, apresentando o relato e a decisão no prazo estabelecido pelo Colegiado ou pela Coordenação; 
+6.2 CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO
 
-X - Recepcionar os ingressantes do Curso, orientando-os no que se refere ao funcionamento e organização do IFPR; 
-
-XI - Decidir sobre a aprovação ou reprovação de estudantes com dificuldade de aproveitamento nos componentes curriculares, ou em casos específicos que extrapolem a competência didático-avaliativo-pedagógica docente, desde que convocados (IFPR, 2014b). 
-
-## **6.1.6 Políticas de Capacitação do Corpo Docente** 
-
-As políticas de capacitação docente foram instituídas pelo Programa de Incentivo à Formação Inicial, Continuada e de Qualificação de Servidores Públicos, formalizadas pela Resolução CONSUP/IFPR nº 48 de 21 de dezembro de 2011 (IFPR, 2011d). Tais políticas enfatizam a formação, a qualificação e a atualização dos recursos humanos, contemplando os seguintes níveis formativos: cursos de Graduação; cursos de Pós-Graduação Lato Sensu: aperfeiçoamento e especialização; cursos de Pós-Graduação Stricto Sensu: mestrado e doutorado; estágio Pós-Doutoral; outros cursos, estágios, intercâmbios acadêmico-profissionais ou atividades de capacitação, no interesse da Administração. 
-
-A gestão das políticas de Capacitação é realizada em conjunto entre as Pró Reitorias de Ensino, de Gestão de Pessoas, de Planejamento e Desenvolvimento Institucional, de Administração, de Extensão, Pesquisa e Inovação, as Direções dos _Campi_ e do Ensino a Distância do IFPR, conforme é previsto no artigo 4º da resolução supracitada. 
-
-145 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-6.2 CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO 
-
-**Tabela 7** : Técnicos administrativos do IFPR _Campus_ Pitanga. 
+**Tabela 7** : Técnicos administrativos do IFPR _Campus_ Pitanga.
 
 |**Nome**|**Formação**|**Regime de**<br>**Trabalho**<br>**(40h, 30h ou 20h)**|**Cargo**|
 |---|---|---|---|
@@ -3743,12 +3110,6 @@ A gestão das políticas de Capacitação é realizada em conjunto entre as Pró
 |Lurdes Antunes|•<br>Graduada em Administração<br>•<br>(UNICENTRO)|40h|Auxiliar em<br>Administração|
 |Marcelo Mazetto|•<br>Graduado<br>em<br>Comunicação<br>Social/Publicidade e Propaganda (UNIPAR)<br>•<br>Especialista<br>em<br>Gestão<br>Estratégica<br>de<br>Marketing (UNIPAR)|40h|Assistente em<br>Administração|
 
-
-
-146 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |Marta Rodrigues de<br>Souza|•<br>Graduada em Pedagogia (UERGS)<br>•<br>Graduada em Letras - Libras (EFICAZ)<br>•<br>Especialista em Libras (FACINTER)<br>•<br>Especialista em Libras (UCP)|40h|Técnica em<br>Assuntos<br>Educacionais|
 |---|---|---|---|
 |Rovilson Endrigo<br>Moraes|•<br>Graduado<br>em<br>Sistemas<br>de<br>Informação<br>(UCP/ASSESPI)<br>•<br>Especialista em Engenharia de Software<br>(Centro Universitário Tupy)<br>•<br>Especialista em Docência do Ensino Superior<br>(FSB)<br>•<br>Especialista em Administração de Banco de<br>Dados (CEI)|40h|Técnico em<br>Tecnologia da<br>Informação|
@@ -3757,67 +3118,49 @@ A gestão das políticas de Capacitação é realizada em conjunto entre as Pró
 |Thiago Henrique<br>Bellé|•<br>Graduado em Medicina Veterinária (UFFS)<br>•<br>Especialista em MBA em Gestão Comercial e<br>Vendas (UNIVEL)<br>•<br>Especialista - Residência Médica (UFPR)<br>•<br>Mestre em Ciência Animal (UFPR)|40h|Técnico de<br>Laboratório –<br>Alimentos|
 |Wellington Henrique<br>Machado de Lima|•<br>Graduado em Comércio Exterior (UNINTER)<br>•<br>Graduado em Gestão Pública<br>•<br>(IFPR)<br>•<br>Especialista em Tecnologia da Informação<br>aplicado na Educação (SÃO BRAZ)|40h|Auxiliar em<br>Administração|
 
+## **6.2.1 Políticas de Capacitação do Corpo Técnico Administrativo em Educação**
 
+As políticas de Capacitação dos Técnicos Administrativos são regidas pela Resolução CONSUP/IFPR nº 48 de 21 de dezembro de 2011 (IFPR, 2011d).
 
-## **6.2.1 Políticas de Capacitação do Corpo Técnico Administrativo em Educação** 
+## 6.3 INSTRUMENTOS DE GESTÃO DEMOCRÁTICA
 
-As políticas de Capacitação dos Técnicos Administrativos são regidas pela Resolução CONSUP/IFPR nº 48 de 21 de dezembro de 2011 (IFPR, 2011d). 
+## **6.3.1 Funcionamento dos Colegiados de Gestão**
 
-147 
+Os artigos 14 e 15 da Lei de Diretrizes e Bases da Educação Nacional estabelecem os princípios e responsabilidades da IES na implementação da Gestão Democrática.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Art. 14. Os sistemas de ensino definirão as normas da gestão democrática do ensino público na educação básica, de acordo com as suas peculiaridades e conforme os seguintes princípios: I – participação dos profissionais da educação na elaboração do projeto pedagógico da escola; II – participação das comunidades escolar e local em conselhos escolares ou equivalentes.
 
-## 6.3 INSTRUMENTOS DE GESTÃO DEMOCRÁTICA 
+Art. 15. Os sistemas de ensino assegurarão às unidades escolares públicas de educação básica que os integram progressivos graus de autonomia pedagógica e administrativa e de gestão financeira, observadas as normas gerais de direito financeiro público (LDB, 2005, p. 12).
 
-## **6.3.1 Funcionamento dos Colegiados de Gestão** 
+Considerando a lei supracitada, o IFPR, regulamenta por meio das Resoluções nº 08/2014 e nº 22/2014 os regimentos internos de cada campus e regimento internos dos colegiados de cada _campus_ do IFPR, respectivamente. O Colégio de Dirigentes do _Campus_ – CODIC, consiste em um órgão que auxilia e assessora a gestão do _Campus_ . O CODIC é órgão consultivo, propositivo, avaliativo, mobilizador e normativo de apoio técnico-político à gestão do _Campus_ . A função consultiva e propositiva corresponde às competências para assessorar a gestão do _Campus_ , opinando sobre as ações pedagógicas, administrativas, orçamentárias e disciplinares exercidas pelas Unidades Executivas. A função avaliativa corresponde às competências para diagnosticar, avaliar e fiscalizar o cumprimento das ações desenvolvidas pelo Campus. A função mobilizadora corresponde às competências para apoiar, promover e estimular a comunidade escolar e local em busca da melhoria da qualidade do ensino e do acesso à escola. A função normativa corresponde à função de orientar e disciplinar, por meio de normas complementares, diretrizes e indicações, dentro do âmbito de sua competência, obedecendo aos marcos legais do IFPR. O CODIC é constituído pela Direção Geral, Direção de Planejamento e Administração, Direção de Ensino, Pesquisa e Extensão, Coordenações de Curso, representante Docente, representante de Técnico Administrativo em Educação, representante Discente, representante de Pais de estudante do ensino médio integrado e representante da Sociedade Civil.
 
-Os artigos 14 e 15 da Lei de Diretrizes e Bases da Educação Nacional estabelecem os princípios e responsabilidades da IES na implementação da Gestão Democrática. 
+O Colegiado de Gestão Pedagógica do _Campus_ – CGPC consiste em um auxiliar da gestão pedagógica, com atuação regular e planejada na concepção, execução, controle, acompanhamento e avaliação dos processos pedagógicos da ação educativa. A competência do CGPC será exercida nos limites da legislação em vigor, das diretrizes da política educacional vigente expedida pelo IFPR e do compromisso de serem centros permanentes de debates e órgãos articuladores dos setores escolares e comunitários. O CGPC é coordenado pela Direção de Ensino, Pesquisa, Extensão e Inovação e tem como membros a Coordenação de Ensino, as Coordenações de Curso, o Coordenador do NAPNE e uma Pedagoga da SEPAE.
 
-Art. 14. Os sistemas de ensino definirão as normas da gestão democrática do ensino público na educação básica, de acordo com as suas peculiaridades e conforme os seguintes princípios: I – participação dos profissionais da educação na elaboração do projeto pedagógico da escola; II – participação das comunidades escolar e local em conselhos escolares ou equivalentes. 
+Os Colegiados de cursos são órgãos consultivos e deliberativos do _Campus_ para assuntos de natureza pedagógica, didática e disciplinar, no âmbito de cada curso, tendo como finalidade o desenvolvimento e fortalecimento dos cursos ofertados, assegurando a participação dos segmentos da comunidade escolar. Os colegiados de curso são compostos: pelos docentes dos componentes curriculares do curso; 01 representante técnico administrativo em educação ligado diretamente ao curso; 02 representantes discentes de turmas distintas. O Colegiado é presidido pelo coordenador do curso e, na sua ausência, pela Coordenação de Ensino do _Campus_ .
 
-Art. 15. Os sistemas de ensino assegurarão às unidades escolares públicas de educação básica que os integram progressivos graus de autonomia pedagógica e administrativa e de gestão financeira, observadas as normas gerais de direito financeiro público (LDB, 2005, p. 12). 
+## **6.3.2 Representatividade da Comunidade Acadêmica**
 
-Considerando a lei supracitada, o IFPR, regulamenta por meio das Resoluções nº 08/2014 e nº 22/2014 os regimentos internos de cada campus e regimento internos dos colegiados de cada _campus_ do IFPR, respectivamente. O Colégio de Dirigentes do _Campus_ – CODIC, consiste em um órgão que auxilia e assessora a gestão do _Campus_ . O CODIC é órgão consultivo, propositivo, avaliativo, mobilizador e normativo de apoio técnico-político à gestão do _Campus_ . A função consultiva e propositiva corresponde às competências para assessorar a gestão do _Campus_ , opinando sobre as ações pedagógicas, administrativas, orçamentárias e disciplinares exercidas pelas Unidades Executivas. A função avaliativa corresponde às competências para diagnosticar, avaliar e fiscalizar o cumprimento das ações desenvolvidas pelo Campus. A função mobilizadora corresponde às competências para apoiar, promover e estimular a comunidade escolar e local em busca da melhoria da qualidade do ensino e do acesso à escola. A função normativa corresponde à função de orientar e disciplinar, por meio de normas complementares, diretrizes e indicações, dentro do âmbito de sua competência, obedecendo aos marcos legais do IFPR. O CODIC é constituído pela Direção Geral, Direção de Planejamento e Administração, Direção de Ensino, Pesquisa e Extensão, Coordenações de Curso, representante Docente, representante de Técnico Administrativo em Educação, representante Discente, representante de Pais de estudante do ensino médio integrado e representante da Sociedade Civil. 
+A Comissão Própria de Avaliação (CPA) possui a missão de conduzir os processos de avaliação internos da Instituição, sendo um canal importante para dar voz à comunidade acadêmica. Regulamentada no IFPR pela Resolução nº 56/2012, a CPA assegura a participação de todos os segmentos da comunidade interna e sociedade civil no processo de avaliação do IFPR; quantifica a qualidade, tanto do ensino, como das ações vinculadas à gestão. Estes índices permitem detectar potencialidades e fragilidades da instituição, objetivando corrigir problemas e reforçar pontos fortes. A participação de servidores e discentes também ocorre por meio de reuniões pedagógicas, reuniões de professores e reuniões de colegiado, onde há presença de um discente, representante da turma em questão. Em relação aos assuntos pedagógicos, os _campi_ do IFPR possuem uma Seção Pedagógica e de Assuntos Estudantis (SEPAE), a qual é responsável por auxiliar os docentes e estudantes nas ações referentes ao processo ensino-aprendizagem articulado com a Assistência Estudantil.
 
-148 
+As Resoluções constituídas pelo IFPR por meio do CONSUP e as IIP (Instruções Internas de Procedimentos) das Pró-Reitorias e Diretorias Sistêmicas, orientam tanto servidores quanto estudantes em relação ao que pode ou não ser feito, garantindo a legalidade na tomada de decisões.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **6.3.3 Participação da Sociedade Civil na Gestão do Curso**
 
-O Colegiado de Gestão Pedagógica do _Campus_ – CGPC consiste em um auxiliar da gestão pedagógica, com atuação regular e planejada na concepção, execução, controle, acompanhamento e avaliação dos processos pedagógicos da ação educativa. A competência do CGPC será exercida nos limites da legislação em vigor, das diretrizes da política educacional vigente expedida pelo IFPR e do compromisso de serem centros permanentes de debates e órgãos articuladores dos setores escolares e comunitários. O CGPC é coordenado pela Direção de Ensino, Pesquisa, Extensão e Inovação e tem como membros a Coordenação de Ensino, as Coordenações de Curso, o Coordenador do NAPNE e uma Pedagoga da SEPAE. 
+A participação e colaboração da Sociedade Civil na Gestão do _Campus_ Pitanga e, por consequência, na gestão do Curso Superior de Licenciatura em Química, se dá por meio da atuação dos membros do CODIC cujas atribuições consultivas, propositivas, avaliativas, mobilizadoras e normativas se dão no âmbito do apoio técnico-político à gestão do campus. No CODIC, conforme estabelecido pela Resolução nº 8 de 30 de abril de 2014, é assegurada a participação da sociedade civil, por meio de 2 representantes sendo 1 indicado por entidades patronais e 1 indicado por entidades dos (das) trabalhadores (as). No CODIC participam também: as diretorias do campus; representantes dos docentes, técnicos e estudantes, 1 representante dos pais dos alunos da Educação Profissional Técnica integrada ao Ensino Médio.
 
-Os Colegiados de cursos são órgãos consultivos e deliberativos do _Campus_ para assuntos de natureza pedagógica, didática e disciplinar, no âmbito de cada curso, tendo como finalidade o desenvolvimento e fortalecimento dos cursos ofertados, assegurando a participação dos segmentos da comunidade escolar. Os colegiados de curso são compostos: pelos docentes dos componentes curriculares do curso; 01 representante técnico administrativo em educação ligado diretamente ao curso; 02 representantes discentes de turmas distintas. O Colegiado é presidido pelo coordenador do curso e, na sua ausência, pela Coordenação de Ensino do _Campus_ . 
+## **7. INFRAESTRUTURA**
 
-## **6.3.2 Representatividade da Comunidade Acadêmica** 
+O _Campus_ Pitanga iniciou sua estruturação física no ano de 2013, com a construção do Bloco 01 (Administrativo) e Guarita, sendo estes finalizados em 2015. O Bloco Administrativo conta com 2.127,10m² e hoje abriga tanto as atividades administrativas quanto pedagógicas: funcionam ali, atualmente, todas as unidades administrativas, sala de professores, além das salas de aula, laboratório de informática, biblioteca, sala de tecnologia de informação e seção pedagógica e de assuntos estudantis. Para práticas esportivas, há uma quadra de areia no terreno do _Campus_ .
 
-A Comissão Própria de Avaliação (CPA) possui a missão de conduzir os processos de avaliação internos da Instituição, sendo um canal importante para dar voz à comunidade acadêmica. Regulamentada no IFPR pela Resolução nº 56/2012, a CPA assegura a participação de todos os segmentos da comunidade interna e sociedade civil no processo de avaliação do IFPR; quantifica a qualidade, tanto do ensino, como das ações vinculadas à gestão. Estes índices permitem detectar potencialidades e fragilidades da instituição, objetivando corrigir problemas e reforçar pontos fortes. A participação de servidores e discentes também ocorre por meio de reuniões pedagógicas, reuniões de professores e reuniões de colegiado, onde há presença de um discente, representante da turma em questão. Em relação aos assuntos pedagógicos, os _campi_ do IFPR possuem uma Seção Pedagógica e de Assuntos Estudantis (SEPAE), a qual é responsável por auxiliar os docentes e estudantes nas ações referentes ao processo ensino-aprendizagem articulado com a Assistência Estudantil. 
+Há uma estrutura no terreno do _Campus_ , um barracão com aproximadamente 400 m², e que hoje abriga os laboratórios de artes, robótica e música, servindo ainda como depósito para alguns materiais. É uma construção que necessita de reparos, para que possa ser utilizada de maneira plena.
 
-149 
+Além disso, há o recém terminado Bloco de Laboratórios (Bloco Técnico), que conta com 561,27m² e abriga os laboratórios de química orgânica, química inorgânica, carnes e derivados,
 
-**==> picture [472 x 55] intentionally omitted <==**
+frutas e hortaliças, leites e derivados. Há, ainda, um Bloco Didático em construção, que terá 914,29m², contando com 6 salas de aula, área para depósito de resíduos e abrigará 3 laboratórios.
 
-As Resoluções constituídas pelo IFPR por meio do CONSUP e as IIP (Instruções Internas de Procedimentos) das Pró-Reitorias e Diretorias Sistêmicas, orientam tanto servidores quanto estudantes em relação ao que pode ou não ser feito, garantindo a legalidade na tomada de decisões. 
+## 7.1 ÁREAS DE ENSINO ESPECÍFICAS
 
-## **6.3.3 Participação da Sociedade Civil na Gestão do Curso** 
-
-A participação e colaboração da Sociedade Civil na Gestão do _Campus_ Pitanga e, por consequência, na gestão do Curso Superior de Licenciatura em Química, se dá por meio da atuação dos membros do CODIC cujas atribuições consultivas, propositivas, avaliativas, mobilizadoras e normativas se dão no âmbito do apoio técnico-político à gestão do campus. No CODIC, conforme estabelecido pela Resolução nº 8 de 30 de abril de 2014, é assegurada a participação da sociedade civil, por meio de 2 representantes sendo 1 indicado por entidades patronais e 1 indicado por entidades dos (das) trabalhadores (as). No CODIC participam também: as diretorias do campus; representantes dos docentes, técnicos e estudantes, 1 representante dos pais dos alunos da Educação Profissional Técnica integrada ao Ensino Médio. 
-
-## **7. INFRAESTRUTURA** 
-
-O _Campus_ Pitanga iniciou sua estruturação física no ano de 2013, com a construção do Bloco 01 (Administrativo) e Guarita, sendo estes finalizados em 2015. O Bloco Administrativo conta com 2.127,10m² e hoje abriga tanto as atividades administrativas quanto pedagógicas: funcionam ali, atualmente, todas as unidades administrativas, sala de professores, além das salas de aula, laboratório de informática, biblioteca, sala de tecnologia de informação e seção pedagógica e de assuntos estudantis. Para práticas esportivas, há uma quadra de areia no terreno do _Campus_ . 
-
-Há uma estrutura no terreno do _Campus_ , um barracão com aproximadamente 400 m², e que hoje abriga os laboratórios de artes, robótica e música, servindo ainda como depósito para alguns materiais. É uma construção que necessita de reparos, para que possa ser utilizada de maneira plena. 
-
-Além disso, há o recém terminado Bloco de Laboratórios (Bloco Técnico), que conta com 561,27m² e abriga os laboratórios de química orgânica, química inorgânica, carnes e derivados, 
-
-150 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-frutas e hortaliças, leites e derivados. Há, ainda, um Bloco Didático em construção, que terá 914,29m², contando com 6 salas de aula, área para depósito de resíduos e abrigará 3 laboratórios. 
-
-## 7.1 ÁREAS DE ENSINO ESPECÍFICAS 
-
-**Tabela 8** : Ambientes específicos do IFPR _Campus_ Pitanga. 
+**Tabela 8** : Ambientes específicos do IFPR _Campus_ Pitanga.
 
 |**Ambiente**|**Existente**|**A construir**|**Área (m2) **|
 |---|---|---|---|
@@ -3826,11 +3169,9 @@ frutas e hortaliças, leites e derivados. Há, ainda, um Bloco Didático em cons
 |Coordenadoria de curso|Não|Não|-|
 |Sala de reuniões|Sim|Não|38 m²|
 
+## 7.2 ÁREAS DE ESTUDO GERAL
 
-
-## 7.2 ÁREAS DE ESTUDO GERAL 
-
-**Tabela 9** : Áreas de estudo geral do IFPR _Campus_ Pitanga. 
+**Tabela 9** : Áreas de estudo geral do IFPR _Campus_ Pitanga.
 
 |**Ambiente**|**Existente**<br>**(sim/não)**|**A construir**<br>**(sim/não)**|**Área (m2) **|
 |---|---|---|---|
@@ -3842,19 +3183,13 @@ frutas e hortaliças, leites e derivados. Há, ainda, um Bloco Didático em cons
 |Laboratório de Robótica|Sim|Não|30 m²|
 |Áreas externas|Sim|Não|60 000 m²|
 
+O laboratório de informática e a biblioteca estão localizados no bloco Administrativo padrão do IFPR, enquanto o Laboratório de Ciências (Física, Química e Biologia) está localizado na construção.
 
+O laboratório de informática conta com 35 mesas, 35 cadeiras, 01 quadro branco e 35 computadores, com a configuração: _Windows_ 7, processador AMD A8-5500B APU _with Radeon_ (tm) HD _Graphics_ 3.2 GHz, Memória de 8GB, 64 _Bits_ .
 
-151 
+O laboratório de Ciências (Química, Física e Biologia), Arte, Robótica e Música foram organizados na construção. Os discentes têm acesso aos laboratórios apenas com acompanhamento de docentes responsáveis. Os laboratórios de Arte e Música, contam com mesas e cadeiras, e materiais providenciados pelos docentes. O laboratório de Robótica conta com mesas e cadeiras, e kits de robótica. O laboratório de ciência, que irá ser utilizado para o curso de Licenciatura em Química, conta com os equipamentos descritos nas tabelas a seguir:
 
-**==> picture [472 x 55] intentionally omitted <==**
-
-O laboratório de informática e a biblioteca estão localizados no bloco Administrativo padrão do IFPR, enquanto o Laboratório de Ciências (Física, Química e Biologia) está localizado na construção. 
-
-O laboratório de informática conta com 35 mesas, 35 cadeiras, 01 quadro branco e 35 computadores, com a configuração: _Windows_ 7, processador AMD A8-5500B APU _with Radeon_ (tm) HD _Graphics_ 3.2 GHz, Memória de 8GB, 64 _Bits_ . 
-
-O laboratório de Ciências (Química, Física e Biologia), Arte, Robótica e Música foram organizados na construção. Os discentes têm acesso aos laboratórios apenas com acompanhamento de docentes responsáveis. Os laboratórios de Arte e Música, contam com mesas e cadeiras, e materiais providenciados pelos docentes. O laboratório de Robótica conta com mesas e cadeiras, e kits de robótica. O laboratório de ciência, que irá ser utilizado para o curso de Licenciatura em Química, conta com os equipamentos descritos nas tabelas a seguir: 
-
-**Tabela 10** : Equipamentos do laboratório de Ciências do IFPR _Campus_ Pitanga . 
+**Tabela 10** : Equipamentos do laboratório de Ciências do IFPR _Campus_ Pitanga .
 
 |**DESCRIÇÃO DOS EQUIPAMENTOS**|**QUANTIDADE**|
 |---|---|
@@ -3869,21 +3204,13 @@ O laboratório de Ciências (Química, Física e Biologia), Arte, Robótica e M�
 |Destilador de água tipo pilsen|1|
 |Espectrofotômetro|1|
 
-
-
-152 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |Estrutura celular ampliada|2|
 |---|---|
 |Microscópio biológico 1600X|4|
 |Mitoses em resinas plásticas emborrachadas 8 peças|1|
 |Turbidímetro|1|
 
-
-
-**Tabela 11** : Materiais de consumo do laboratório de Ciências do IFPR _Campus_ Pitanga. 
+**Tabela 11** : Materiais de consumo do laboratório de Ciências do IFPR _Campus_ Pitanga.
 
 |**DESCRIÇÃO DOS MATERIAIS DE CONSUMO DO**<br>**LABORATÓRIO**|**QUANTIDADE**|
 |---|---|
@@ -3903,12 +3230,6 @@ O laboratório de Ciências (Química, Física e Biologia), Arte, Robótica e M�
 |Becker de vidro borosilicato 250ml|25|
 |Becker de vidro borosilicato 1000ml|9|
 |Bico de bunsen com registro para gás, regulagem de ar|6|
-
-
-
-153 
-
-**==> picture [472 x 55] intentionally omitted <==**
 
 |Bureta graduada 50ml|6|
 |---|---|
@@ -3936,12 +3257,6 @@ O laboratório de Ciências (Química, Física e Biologia), Arte, Robótica e M�
 |Hidróxido de sódio 1kg|1|
 |Kit genética mosca - das – frutas|1|
 
-
-
-154 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |Lâminas histológicas com 80 peças|2|
 |---|---|
 |Lâminas para bisturi nº24|2|
@@ -3968,12 +3283,6 @@ O laboratório de Ciências (Química, Física e Biologia), Arte, Robótica e M�
 |Pipeta de vidro volumétrica|6|
 |Pipetador de borracha tipo pera com 3 vias|6|
 
-
-
-155 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |Pisseta 500 ml|10|
 |---|---|
 |Proveta de vidro graduada 500 ml|2|
@@ -3985,15 +3294,13 @@ O laboratório de Ciências (Química, Física e Biologia), Arte, Robótica e M�
 |Vidro relógio 8 cm|10|
 |Vidro de relógio 20 cm|10|
 
+## 7.3 ÁREAS DE ESTUDO ESPECÍFICO
 
+O Instituto Federal do Paraná _Campus_ Pitanga, não possui ambiente de estudo específico para o curso de Licenciatura em Química. Todos os ambientes do _Campus_ são utilizados em conjunto pelos cursos oferecidos.
 
-## 7.3 ÁREAS DE ESTUDO ESPECÍFICO 
+## 7.4 ÁREAS DE ESPORTE E VIVÊNCIA
 
-O Instituto Federal do Paraná _Campus_ Pitanga, não possui ambiente de estudo específico para o curso de Licenciatura em Química. Todos os ambientes do _Campus_ são utilizados em conjunto pelos cursos oferecidos. 
-
-## 7.4 ÁREAS DE ESPORTE E VIVÊNCIA 
-
-**Tabela 12** : Áreas de esportes e vivências do IFPR _Campus_ Pitanga. 
+**Tabela 12** : Áreas de esportes e vivências do IFPR _Campus_ Pitanga.
 
 |**Ambiente**|**Existente**|**A construir**|**Área (m2) **|
 |---|---|---|---|
@@ -4003,15 +3310,11 @@ O Instituto Federal do Paraná _Campus_ Pitanga, não possui ambiente de estudo 
 |Pátio coberto|Sim|Não|106,93 m²|
 |Áreas externas|Sim|Não|60.000 m²|
 
+156
 
+7.5 ÁREAS DE ATENDIMENTO DISCENTE
 
-156 
-
-7.5 ÁREAS DE ATENDIMENTO DISCENTE 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-**Tabela 13** : Áreas de atendimento discente do IFPR _Campus_ Pitanga. 
+**Tabela 13** : Áreas de atendimento discente do IFPR _Campus_ Pitanga.
 
 |**Ambiente**|**Existente**|**A construir**|**Área (m2) **|
 |---|---|---|---|
@@ -4021,11 +3324,9 @@ O Instituto Federal do Paraná _Campus_ Pitanga, não possui ambiente de estudo 
 |Primeiros socorros|Não|Não|-|
 |Serviço social|Sim|Não|25m²|
 
+## 7.6 ÁREAS DE APOIO
 
-
-## 7.6 ÁREAS DE APOIO 
-
-**Tabela 14** : Áreas de apoio do IFPR _Campus_ Pitanga. 
+**Tabela 14** : Áreas de apoio do IFPR _Campus_ Pitanga.
 
 |**Ambiente**|**Existente**|**A construir**|**Área (m2) **|
 |---|---|---|---|
@@ -4034,509 +3335,405 @@ O Instituto Federal do Paraná _Campus_ Pitanga, não possui ambiente de estudo 
 |Sala de audiovisual|Não|Não|-|
 |Mecanografia|Não|Não|-|
 
+## 7.7 BIBLIOTECA
 
+A biblioteca conta com estantes, com acervo de 1692 livros além de periódicos, mesas redondas com cadeiras para estudo em grupos, 06 (seis) computadores ( _Windows_ 7, processador AMD A8-5500B APU _with Radeon_ (tm) HD _Graphics_ 3.2 GHz, Memória de 8GB, 64 Bits), 40 armários para guardar bolsas e materiais, espaço destinado à secretaria, 02 salas com mesas e cadeiras para estudos individuais ou em grupos, 01 sala de almoxarifado e 01 sala para o NAPNE que contém: um computador de mesa e um notebook adaptado para pessoas com baixa visão, uma
 
-## 7.7 BIBLIOTECA 
+impressora braile, quatro fones de ouvidos para pessoas surdas, livros para pessoas com baixa visão, livros em braile e livros audiovisuais.
 
-A biblioteca conta com estantes, com acervo de 1692 livros além de periódicos, mesas redondas com cadeiras para estudo em grupos, 06 (seis) computadores ( _Windows_ 7, processador AMD A8-5500B APU _with Radeon_ (tm) HD _Graphics_ 3.2 GHz, Memória de 8GB, 64 Bits), 40 armários para guardar bolsas e materiais, espaço destinado à secretaria, 02 salas com mesas e cadeiras para estudos individuais ou em grupos, 01 sala de almoxarifado e 01 sala para o NAPNE que contém: um computador de mesa e um notebook adaptado para pessoas com baixa visão, uma 
+As normas de utilização da biblioteca do IFPR _Campus_ Pitanga são especificadas no _Regulamento Geral da Biblioteca do IFPR Campus Pitanga_ , publicada como anexo da portaria nº 54 de 24 de novembro de 2016 (IFPR- _CAMPUS_ PITANGA, 2016). A biblioteca funciona de segunda a sexta-feira no horário das 7h30 às 11h30; 13h às 17h e das 18h às 22h.
 
-157 
+A biblioteca é de livre acesso dos discentes, servidores, colaboradores e comunidade externa. Sendo que a comunidade externa poderá utilizar unicamente para consulta local. Para o serviço de empréstimo o usuário deverá apresentar o seu cartão de identificação, documento oficial com foto e/ou crachá funcional. A biblioteca é informatizada e o sistema de empréstimo utilizado é o _Pergamum_ por meio do qual o usuário pode realizar renovações, desde que esteja dentro do prazo de devolução. Em relação aos prazos de empréstimo e quantidades de exemplares estabelecese que: os discentes e colaboradores poderão emprestar, simultaneamente, no máximo 3 exemplares pelo prazo de 7 dias e servidores 5 exemplares pelo prazo de 14 dias. Serão permitidas apenas 3 renovações via internet, dentro do prazo estipulado de empréstimo. Caso o usuário opte por fazer a renovação na biblioteca, os empréstimos somente serão renovados mediante apresentação dos materiais e do cartão de identificação ou documento oficial com foto.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Quanto ao não cumprimento das formalidades constantes no regulamento serão aplicadas as penalidades dispostas no Artigo 10:
 
-impressora braile, quatro fones de ouvidos para pessoas surdas, livros para pessoas com baixa visão, livros em braile e livros audiovisuais. 
+I. O usuário em débito com a biblioteca deverá regularizar sua situação e solicitar a declaração de inexistência de pendências para cancelar, trancar matrícula, solicitar transferência ou retirar certificados e/ou diplomas.
 
-As normas de utilização da biblioteca do IFPR _Campus_ Pitanga são especificadas no _Regulamento Geral da Biblioteca do IFPR Campus Pitanga_ , publicada como anexo da portaria nº 54 de 24 de novembro de 2016 (IFPR- _CAMPUS_ PITANGA, 2016). A biblioteca funciona de segunda a sexta-feira no horário das 7h30 às 11h30; 13h às 17h e das 18h às 22h. 
+II. O usuário em débito, não poderá utilizar nenhum serviço da biblioteca, até que regularize sua situação.
 
-A biblioteca é de livre acesso dos discentes, servidores, colaboradores e comunidade externa. Sendo que a comunidade externa poderá utilizar unicamente para consulta local. Para o serviço de empréstimo o usuário deverá apresentar o seu cartão de identificação, documento oficial com foto e/ou crachá funcional. A biblioteca é informatizada e o sistema de empréstimo utilizado é o _Pergamum_ por meio do qual o usuário pode realizar renovações, desde que esteja dentro do prazo de devolução. Em relação aos prazos de empréstimo e quantidades de exemplares estabelecese que: os discentes e colaboradores poderão emprestar, simultaneamente, no máximo 3 exemplares pelo prazo de 7 dias e servidores 5 exemplares pelo prazo de 14 dias. Serão permitidas apenas 3 renovações via internet, dentro do prazo estipulado de empréstimo. Caso o usuário opte por fazer a renovação na biblioteca, os empréstimos somente serão renovados mediante apresentação dos materiais e do cartão de identificação ou documento oficial com foto. 
+III. Para cada dia de atraso na devolução de material por empréstimo normal e/ou especial será contado dois dias de suspensão por material.
 
-Quanto ao não cumprimento das formalidades constantes no regulamento serão aplicadas as penalidades dispostas no Artigo 10: 
+IV. O atraso na devolução de material retirado pelo ‘empréstimo especial’ será contado com dois dias de suspensão por material.
 
-I. O usuário em débito com a biblioteca deverá regularizar sua situação e solicitar a declaração de inexistência de pendências para cancelar, trancar matrícula, solicitar transferência ou retirar certificados e/ou diplomas. 
+V. O usuário que extraviar material em seu poder deverá providenciar a reposição da obra e cumprir o período de suspensão correspondente entre a data de término do prazo do empréstimo e a efetiva reposição da obra.
 
-II. O usuário em débito, não poderá utilizar nenhum serviço da biblioteca, até que regularize sua situação. 
+VI. O prazo máximo para reposição é de 30 (trinta) dias a contar da data em que venceu o prazo para devolução (IFPR- _CAMPUS_ PITANGA, 2016).
 
-III. Para cada dia de atraso na devolução de material por empréstimo normal e/ou especial será contado dois dias de suspensão por material. 
+O Regulamento aplica-se a todos os usuários e está disponível na íntegra no site da instituição. Atualmente a biblioteca do IFPR _Campus_ Pitanga conta com 400 exemplares vinculados ao curso de Licenciatura em Química.
 
-158 
+Art. 22. Compete à Biblioteca:
 
-**==> picture [472 x 55] intentionally omitted <==**
+a) Elaborar a Ficha Catalográfica para a Versão Revisada do Trabalho de Conclusão de Curso.
 
-IV. O atraso na devolução de material retirado pelo ‘empréstimo especial’ será contado com dois dias de suspensão por material. 
+b) Realizar o cadastramento da cópia da Versão Revisada do Trabalho de Conclusão de Curso Final em seu acervo.
 
-V. O usuário que extraviar material em seu poder deverá providenciar a reposição da obra e cumprir o período de suspensão correspondente entre a data de término do prazo do empréstimo e a efetiva reposição da obra. 
+## **8. PLANEJAMENTO ECONÔMICO E SUSTENTABILIDADE FINANCEIRA**
 
-VI. O prazo máximo para reposição é de 30 (trinta) dias a contar da data em que venceu o prazo para devolução (IFPR- _CAMPUS_ PITANGA, 2016). 
+## 8.1 EXPANSÃO DO QUADRO DOCENTE
 
-O Regulamento aplica-se a todos os usuários e está disponível na íntegra no site da instituição. Atualmente a biblioteca do IFPR _Campus_ Pitanga conta com 400 exemplares vinculados ao curso de Licenciatura em Química. 
+A necessidade de expansão de quadro docente é analisada a cada ano através da análise de carga horária dos docentes que fazem parte do corpo docente. Nesta análise anual são consideradas as cargas horárias de componentes curriculares do Curso Superior de Licenciatura em Química. No momento o campus já dispões de códigos de vagas para docentes que foram inseridos no planejamento do próximo concurso previsto para o ano de 2023.
 
-Art. 22. Compete à Biblioteca: 
+## 8.2 PROJEÇÃO DE AQUISIÇÃO DE MATERIAIS PERMANENTE E CONSUMO
 
-a) Elaborar a Ficha Catalográfica para a Versão Revisada do Trabalho de Conclusão de Curso. 
+As aquisições de materiais permanentes e de consumo são parte da rotina do _Campus_ e, no caso do curso Superior de Licenciatura em Química, ocorrerá como forma de manutenção da infraestrutura e equipamentos já existentes.
 
-b) Realizar o cadastramento da cópia da Versão Revisada do Trabalho de Conclusão de Curso Final em seu acervo. 
+## 8.3 PROJEÇÃO DE AQUISIÇÃO DE ACERVO BIBLIOGRÁFICO
 
-## **8. PLANEJAMENTO ECONÔMICO E SUSTENTABILIDADE FINANCEIRA** 
+O acervo bibliográfico do campus e da plataforma digital do sistema de biblioteca atende atualmente ao curso. Entretanto, deve-se ter em mente que o desenvolvimento do conhecimento e possíveis mudanças futuras no curso podem pedir a inclusão de novo acervo. Esse mesmo será incluído nas aquisições regulares realizadas pela instituição.
 
-## 8.1 EXPANSÃO DO QUADRO DOCENTE 
+## **REFERÊNCIAS**
 
-A necessidade de expansão de quadro docente é analisada a cada ano através da análise de carga horária dos docentes que fazem parte do corpo docente. Nesta análise anual são consideradas as cargas horárias de componentes curriculares do Curso Superior de Licenciatura em Química. No momento o campus já dispões de códigos de vagas para docentes que foram inseridos no planejamento do próximo concurso previsto para o ano de 2023. 
+BRASIL. **Lei nº 9394 de 20 de dezembro de 1996** . Estabelece as diretrizes e bases da educação nacional. 1996. Disponível em: <http://www.planalto.gov.br/ccivil_03/leis/L9394.htm>. Acesso em: 07 maio 2017.
 
-159 
+BRASIL. **Lei nº 9.503, de 23 de setembro de 1997** . Institui o Código de Trânsito Brasileiro. 1997. Disponível em: <http://www.planalto.gov.br/ccivil_03/leis/L9503.htm>. Acesso em: 25 maio 2017.
 
-**==> picture [472 x 55] intentionally omitted <==**
+BRASIL. **Lei nº 9.795, de 27 de abril de 1999** . Dispõe sobre a educação ambiental, institui a Política Nacional de Educação Ambiental e dá outras providências. 1999. Disponível em: <http://www.planalto.gov.br/ccivil_03/leis/L9795.htm>. Acesso em: 25 maio 2017.
 
-## 8.2 PROJEÇÃO DE AQUISIÇÃO DE MATERIAIS PERMANENTE E CONSUMO 
+BRASIL. **Lei nº 10.048, de 8 de novembro de 2000.** Dá prioridade de atendimento às pessoas que especifica, e dá outras providências. 2000a. Disponível em: <http://www.planalto.gov.br/ccivil_03/leis/L10048.htm>. Acesso em: 07 maio 2017.
 
-As aquisições de materiais permanentes e de consumo são parte da rotina do _Campus_ e, no caso do curso Superior de Licenciatura em Química, ocorrerá como forma de manutenção da infraestrutura e equipamentos já existentes. 
+BRASIL. **Lei nº 10.098, de 19 de dezembro de 2000.** Estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências. 2000b. Disponível em: <http://www.planalto.gov.br/ccivil_03/leis/L10098.htm>. Acesso em: 07 maio 2017.
 
-## 8.3 PROJEÇÃO DE AQUISIÇÃO DE ACERVO BIBLIOGRÁFICO 
+BRASIL. **Diretrizes Curriculares Nacionais para os Cursos de Química** - PARECER Nº 1.303/2001 CNE/CES. 2001a. Disponível em: <http://portal.mec.gov.br/cne/arquivos/pdf/CES1303.pdf>. Acesso em: 06 maio 2017.
 
-O acervo bibliográfico do campus e da plataforma digital do sistema de biblioteca atende atualmente ao curso. Entretanto, deve-se ter em mente que o desenvolvimento do conhecimento e possíveis mudanças futuras no curso podem pedir a inclusão de novo acervo. Esse mesmo será incluído nas aquisições regulares realizadas pela instituição. 
+BRASIL. **Diretrizes Curriculares Nacionais para a Formação de Professores da Educação Básica, em nível superior, curso de licenciatura, de graduação plena** - PARECER Nº: CNE/CP 009/2001. 2001b. Disponível em: <http://portal.mec.gov.br/cne/arquivos/pdf/009.pdf>. Acesso em: 06 maio 2017.
 
-## **REFERÊNCIAS** 
+BRASIL. **Portaria  nº  2.253,  de  18  de  outubro  de  2001** .  2001c.  Disponível  em: <http://www.cmconsultoria.com.br/legislacao/portarias/2001/por_2001_2253_MEC_regulamenta cao_oferecimento.pdf>. Acesso em: 25 maio 2017.
 
-BRASIL. **Lei nº 9394 de 20 de dezembro de 1996** . Estabelece as diretrizes e bases da educação nacional. 1996. Disponível em: <http://www.planalto.gov.br/ccivil_03/leis/L9394.htm>. Acesso em: 07 maio 2017. 
+BRASIL. CONSELHO NACIONAL DE EDUCAÇÃO (CNE). **Resolução 1, de 18 de fevereiro de 2002** . 2002a. Disponível em: <http://portal.mec.gov.br/cne/arquivos/pdf/rcp01_02.pdf>. Acesso em: 15 maio 2017.
 
-BRASIL. **Lei nº 9.503, de 23 de setembro de 1997** . Institui o Código de Trânsito Brasileiro. 1997. Disponível em: <http://www.planalto.gov.br/ccivil_03/leis/L9503.htm>. Acesso em: 25 maio 2017. 
+BRASIL. CONSELHO NACIONAL DE EDUCAÇÃO (CNE). **Resolução 8, de 11 de março de 2002** . 2002b. Disponível em: <http://portal.mec.gov.br/cne/arquivos/pdf/rces08_02.pdf>. Acesso em: 15 maio 2017.
 
-BRASIL. **Lei nº 9.795, de 27 de abril de 1999** . Dispõe sobre a educação ambiental, institui a Política Nacional de Educação Ambiental e dá outras providências. 1999. Disponível em: <http://www.planalto.gov.br/ccivil_03/leis/L9795.htm>. Acesso em: 25 maio 2017. 
+BRASIL. **DECRETO Nº 4.281, DE 25 DE JUNHO DE 2002** . Regulamenta a Lei n[o] 9.795, de 27 de abril de 1999, que institui a Política Nacional de Educação Ambiental, e dá outras providências. 2002c. Disponível em: <http://www.planalto.gov.br/ccivil_03/decreto/2002/d4281.htm>. Acesso em: 25 maio 2017.
 
-160 
+BRASIL. CONSELHO NACIONAL DE EDUCAÇÃO (CNE). **Resolução 2, de 19 de fevereiro de 2002** . 2002d. Disponível em: <http://portal.mec.gov.br/cne/arquivos/pdf/CP022002.pdf>. Acesso em: 07 maio 2017.
 
-**==> picture [472 x 55] intentionally omitted <==**
+BRASIL. **Decreto nº 5.296, de 02 de dezembro de 2004.** Regulamenta as Leis n[o] 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências. 2004a. Disponível em: <http://www.planalto.gov.br/ccivil_03/_ato20042006/2004/decreto/d5296.htm>. Acesso em: 07 maio 2017.
 
-BRASIL. **Lei nº 10.048, de 8 de novembro de 2000.** Dá prioridade de atendimento às pessoas que especifica, e dá outras providências. 2000a. Disponível em: <http://www.planalto.gov.br/ccivil_03/leis/L10048.htm>. Acesso em: 07 maio 2017. 
+BRASIL. **Lei nº 10.861 de 14 de abril de 2004.** Institui o Sistema Nacional de Avaliação da Educação  Superior  –  SINAES  e  dá  outras  providências.  2004b.  Disponível  em: <http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.861.htm>. Acesso em: 07 maio 2017
 
-BRASIL. **Lei nº 10.098, de 19 de dezembro de 2000.** Estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências. 2000b. Disponível em: <http://www.planalto.gov.br/ccivil_03/leis/L10098.htm>. Acesso em: 07 maio 2017. 
+BRASIL. CONSELHO NACIONAL DE EDUCAÇÃO (CNE). **Resolução nº 1, de 17 de junho de 2004** . Institui Diretrizes Curriculares Nacionais para a Educação das Relações Étnico Raciais e para o Ensino de História e Cultura Afro-Brasileira e Africana. 2004d. Disponível em: <http://portal.mec.gov.br/cne/arquivos/pdf/res012004.pdf>. Acesso em: 25 maio 2017.
 
-BRASIL. **Diretrizes Curriculares Nacionais para os Cursos de Química** - PARECER Nº 1.303/2001 CNE/CES. 2001a. Disponível em: <http://portal.mec.gov.br/cne/arquivos/pdf/CES1303.pdf>. Acesso em: 06 maio 2017. 
+BRASIL. MINISTÉRIO DA EDUCAÇÃO. **Portaria 4059 de 10 de dezembro de 2004** . 2004e. Disponível em: <http://portal.mec.gov.br/sesu/arquivos/pdf/nova/acs_portaria4059.pdf>. Acesso em: 15 maio 2017.
 
-BRASIL. **Diretrizes Curriculares Nacionais para a Formação de Professores da Educação Básica, em nível superior, curso de licenciatura, de graduação plena** - PARECER Nº: CNE/CP 009/2001. 2001b. Disponível em: <http://portal.mec.gov.br/cne/arquivos/pdf/009.pdf>. Acesso em: 06 maio 2017. 
+BRASIL. **Decreto nº. 5.626, de 22 de dezembro de 2005.** Regulamenta a Lei n[o] 10.436, de 24 de abril de 2002, que dispõe sobre a Língua Brasileira de Sinais - Libras, e o art. 18 da Lei n[o] 10.098, de 19 de dezembro de 2000. 2005a. Disponível em: <http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/decreto/d5626.htm>. Acesso em: 07 maio 2017.
 
-BRASIL. **Portaria  nº  2.253,  de  18  de  outubro  de  2001** .  2001c.  Disponível  em: <http://www.cmconsultoria.com.br/legislacao/portarias/2001/por_2001_2253_MEC_regulamenta cao_oferecimento.pdf>. Acesso em: 25 maio 2017. 
+BRASIL. **Lei n[o ] 11.091, de 12 de janeiro de 2005.** Dispõe sobre a estruturação do Plano de Carreira dos Cargos Técnico-Administrativos em Educação, no âmbito das Instituições Federais de Ensino vinculadas ao Ministério da Educação, e dá outras providências. 2005b. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11091.htm. Acesso em: 07 maio 2017.
 
-BRASIL. CONSELHO NACIONAL DE EDUCAÇÃO (CNE). **Resolução 1, de 18 de fevereiro de 2002** . 2002a. Disponível em: <http://portal.mec.gov.br/cne/arquivos/pdf/rcp01_02.pdf>. Acesso em: 15 maio 2017. 
+BRASIL. **Lei 11.982, de 29 de dezembro de 2008.** Institui a Rede Federal de Educação Profissional, Científica e Tecnológica, cria os Institutos Federais de Educação, Ciência e Tecnologia, e dá outras providências. 2008a. Disponível em: <http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11892.htm>. Acesso em: 7 maio 2017.
 
-BRASIL. CONSELHO NACIONAL DE EDUCAÇÃO (CNE). **Resolução 8, de 11 de março de 2002** . 2002b. Disponível em: <http://portal.mec.gov.br/cne/arquivos/pdf/rces08_02.pdf>. Acesso em: 15 maio 2017. 
+BRASIL. **Lei nº 11.645, de 10 março de 2008** . Altera a Lei nº 9.394, de 20 de dezembro de 1996, modificada pela Lei no 10.639, de 9 de janeiro de 2003, que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da rede de ensino a obrigatoriedade da temática “História   e   Cultura   Afro-Brasileira   e   Indígena”.   2008b.   Disponível   em: <http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11645.htm>. Acesso em: 25 maio 2017.
 
-161 
+BRASIL. **Lei nº 11.788, de 25 de setembro de 2008.** Dispõe sobre o estágio de estudantes; altera a redação do art. 428 da Consolidação das Leis do Trabalho – CLT. 2008c. Disponível em: <http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm>. Acesso em: 15 maio 2017.
 
-**==> picture [472 x 55] intentionally omitted <==**
+BRASIL. **Lei nº 11.947, de 16 de junho de 2009** . Dispõe sobre o atendimento da alimentação escolar e do Programa Dinheiro Direto na Escola aos alunos da educação básica; altera as Leis nos 10.880, de 9 de junho de 2004, 11.273, de 6 de fevereiro de 2006, 11.507, de 20 de julho de 2007; revoga dispositivos da Medida Provisória no 2.178-36, de 24 de agosto de 2001, e a Lei no 8.913, de  12  de  julho  de  1994;  e  dá  outras  providências.  2009.  Disponível  em: <http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11947.htm>. Acesso em: 25 maio 2017.
 
-BRASIL. **DECRETO Nº 4.281, DE 25 DE JUNHO DE 2002** . Regulamenta a Lei n[o] 9.795, de 27 de abril de 1999, que institui a Política Nacional de Educação Ambiental, e dá outras providências. 2002c. Disponível em: <http://www.planalto.gov.br/ccivil_03/decreto/2002/d4281.htm>. Acesso em: 25 maio 2017. 
+BRASIL. COMISSÃO NACIONAL DE AVALIAÇÃO DA EDUCAÇÃO SUPERIOR (CONAES). **Resolução nº 01, de 17 de junho de 2010** . Normatiza o Núcleo Docente Estruturante e dá outras providências. 2010.
 
-BRASIL. CONSELHO NACIONAL DE EDUCAÇÃO (CNE). **Resolução 2, de 19 de fevereiro de 2002** . 2002d. Disponível em: <http://portal.mec.gov.br/cne/arquivos/pdf/CP022002.pdf>. Acesso em: 07 maio 2017. 
+BRASIL. Lei nº 12.764, de 27 de dezembro de 2012. Institui a Política Nacional de Proteção dos Direitos  da  Pessoa  com  Transtorno  do  Espectro  Autista.  2012a.  Disponível  em: <http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12764.htm>. Acesso em: 22 maio 2017.
 
-BRASIL. **Decreto nº 5.296, de 02 de dezembro de 2004.** Regulamenta as Leis n[o] 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências. 2004a. Disponível em: <http://www.planalto.gov.br/ccivil_03/_ato20042006/2004/decreto/d5296.htm>. Acesso em: 07 maio 2017. 
+BRASIL. CONSELHO NACIONAL DE EDUCAÇÃO (CNE). **Resolução nº 2, de 15 de junho de 2012** . Estabelece as Diretrizes Curriculares
 
-BRASIL. **Lei nº 10.861 de 14 de abril de 2004.** Institui o Sistema Nacional de Avaliação da Educação  Superior  –  SINAES  e  dá  outras  providências.  2004b.  Disponível  em: <http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.861.htm>. Acesso em: 07 maio 2017 
+Nacionais para a Educação Ambiental. 2012b. Disponível em: <http://conferenciainfanto.mec.gov.br/images/pdf/diretrizes.pdf>. Acesso em: 25 maio 2017.
 
-BRASIL. CONSELHO NACIONAL DE EDUCAÇÃO (CNE). **Resolução nº 1, de 17 de junho de 2004** . Institui Diretrizes Curriculares Nacionais para a Educação das Relações Étnico Raciais e para o Ensino de História e Cultura Afro-Brasileira e Africana. 2004d. Disponível em: <http://portal.mec.gov.br/cne/arquivos/pdf/res012004.pdf>. Acesso em: 25 maio 2017. 
+BRASIL. CONSELHO NACIONAL DE EDUCAÇÃO (CNE). **Resolução nº 1, de 30 de maio de 2012** . Estabelece Diretrizes Nacionais para a Educação em Direitos Humanos. 2012c. Disponível em: <https://prograd.ufg.br/up/90/o/rcp001_12.pdf>. Acesso em: 25 maio 2017.
 
-BRASIL. MINISTÉRIO DA EDUCAÇÃO. **Portaria 4059 de 10 de dezembro de 2004** . 2004e. Disponível em: <http://portal.mec.gov.br/sesu/arquivos/pdf/nova/acs_portaria4059.pdf>. Acesso em: 15 maio 2017. 
+BRASIL. Lei nº 12.772, de 28 de dezembro de 2012. Dispõe sobre a estruturação do Plano de Carreiras e Cargos de Magistério Federal. 2012d. Disponível em: <http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12772.htm>. Acesso em: 07 maio 2017.
 
-162 
+BRASIL. **Lei nº 13.005, de 25 junho de 2014** . Aprova o Plano Nacional de Educação – PNE e dá outras providências. 2014a. Disponível em: <http://www.planalto.gov.br/CCIVIL_03/_Ato20112014/2014/Lei/L13005.htm>. Acesso em: 05 jan. 2017.
 
-**==> picture [472 x 55] intentionally omitted <==**
+BRASIL. SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA. **Portaria SETEC nº 58, de 21 de novembro de 2014** . Regulamenta a concessão de bolsas de pesquisa, desenvolvimento, inovação e intercâmbio, no âmbito dos Institutos Federais de Educação, Ciência e Tecnologia. 2014b. Disponível em: <http://www.lex.com.br/legis_26205423_PORTARIA_N_58_DE_21_DE_NOVEMBRO_DE_2 014.aspx>. Acesso em: 07 maio 2017.
 
-BRASIL. **Decreto nº. 5.626, de 22 de dezembro de 2005.** Regulamenta a Lei n[o] 10.436, de 24 de abril de 2002, que dispõe sobre a Língua Brasileira de Sinais - Libras, e o art. 18 da Lei n[o] 10.098, de 19 de dezembro de 2000. 2005a. Disponível em: <http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/decreto/d5626.htm>. Acesso em: 07 maio 2017. 
+BRASIL. CONSELHO NACIONAL DE EDUCAÇÃO. **Resolução nº 2, de 1º de julho de 2015** . Define as Diretrizes Curriculares Nacionais para a formação inicial em nível superior (cursos de licenciatura, cursos de formação pedagógica para graduados e cursos de segunda licenciatura) e para a formação continuada. 2015a. Disponível em: <http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=17719-rescne-cp-002-03072015&Itemid=30192>. Acesso em: 25 maio 2017.
 
-BRASIL. **Lei n[o ] 11.091, de 12 de janeiro de 2005.** Dispõe sobre a estruturação do Plano de Carreira dos Cargos Técnico-Administrativos em Educação, no âmbito das Instituições Federais de Ensino vinculadas ao Ministério da Educação, e dá outras providências. 2005b. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11091.htm. Acesso em: 07 maio 2017. 
+BRASIL. MINISTÉRIO DA EDUCAÇÃO. **Nota Técnica nº 24 de 17 de agosto de 2015** . 2015b. Disponível em: <http://www.spm.gov.br/assuntos/conselho/nota-tecnica-no-24-conceito-generono-pne-mec.pdf>. Acesso em: 22 maio 2017.
 
-BRASIL. **Lei 11.982, de 29 de dezembro de 2008.** Institui a Rede Federal de Educação Profissional, Científica e Tecnológica, cria os Institutos Federais de Educação, Ciência e Tecnologia, e dá outras providências. 2008a. Disponível em: <http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11892.htm>. Acesso em: 7 maio 2017. 
+CONSELHO FEDERAL DE QUÍMICA (CFQ). **Resolução n°35 de 25 de abril de 1974** . 1974. Disponível em: <http://www.cfq.org.br/rn/RN36.htm>. Acesso em: 15 maio 2017.
 
-BRASIL. **Lei nº 11.645, de 10 março de 2008** . Altera a Lei nº 9.394, de 20 de dezembro de 1996, modificada pela Lei no 10.639, de 9 de janeiro de 2003, que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da rede de ensino a obrigatoriedade da temática “História   e   Cultura   Afro-Brasileira   e   Indígena”.   2008b.   Disponível   em: <http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11645.htm>. Acesso em: 25 maio 2017. 
+CONSELHO REGIONAL DE QUÍMICA (CRQ). **Resolução Normativa nº 36 de 25 de abril de 1974** . 1974. Disponível em: <http://www.crq4.org.br/resolucao_normativa_n_36  de_250474>. Acesso em: 08 maio 2017.
 
-BRASIL. **Lei nº 11.788, de 25 de setembro de 2008.** Dispõe sobre o estágio de estudantes; altera a redação do art. 428 da Consolidação das Leis do Trabalho – CLT. 2008c. Disponível em: <http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm>. Acesso em: 15 maio 2017. 
+CONSELHO FEDERAL DE QUÍMICA (CFQ). **Resolução n°1511 de 12 de dezembro de 1975** . 1975. Disponível em: <http://www.cfq.org.br/atrprof.htm>. Acesso em: 15 maio 2017.
 
-163 
+CONSELHO REGIONAL DE QUÍMICA (CRQ). **Resolução Normativa n° 94 de 19 de setembro de 1986** . 1986. Disponível em: <http://www.cfq.org.br/rn/RN94.htm>. Acesso em: 08 maio 2017.
 
-**==> picture [472 x 55] intentionally omitted <==**
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (IBGE). **População** . 2010a. Disponível em: <http://www.cidades.ibge.gov.br/v4/brasil/pr/pitanga/panorama>. Acesso em: 24 maio 2017.
 
-BRASIL. **Lei nº 11.947, de 16 de junho de 2009** . Dispõe sobre o atendimento da alimentação escolar e do Programa Dinheiro Direto na Escola aos alunos da educação básica; altera as Leis nos 10.880, de 9 de junho de 2004, 11.273, de 6 de fevereiro de 2006, 11.507, de 20 de julho de 2007; revoga dispositivos da Medida Provisória no 2.178-36, de 24 de agosto de 2001, e a Lei no 8.913, de  12  de  julho  de  1994;  e  dá  outras  providências.  2009.  Disponível  em: <http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2009/lei/l11947.htm>. Acesso em: 25 maio 2017. 
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (IBGE). Estados.
 
-BRASIL. COMISSÃO NACIONAL DE AVALIAÇÃO DA EDUCAÇÃO SUPERIOR (CONAES). **Resolução nº 01, de 17 de junho de 2010** . Normatiza o Núcleo Docente Estruturante e dá outras providências. 2010. 
+2010b. Disponível em: <http://www.cidades.ibge.gov.br/v4/brasil/pr/pitanga/panorama>. Acesso em: 24 maio 2017.
 
-BRASIL. Lei nº 12.764, de 27 de dezembro de 2012. Institui a Política Nacional de Proteção dos Direitos  da  Pessoa  com  Transtorno  do  Espectro  Autista.  2012a.  Disponível  em: <http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12764.htm>. Acesso em: 22 maio 2017. 
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (IBGE). **Economia** . 2014. Disponível em: <http://www.cidades.ibge.gov.br/v4/brasil/pr/pitanga/panorama>. Acesso em: 24 maio 2017.
 
-BRASIL. CONSELHO NACIONAL DE EDUCAÇÃO (CNE). **Resolução nº 2, de 15 de junho de 2012** . Estabelece as Diretrizes Curriculares 
+INSTITUTO FEDERAL DO PARANÁ (IFPR). **Resolução nº 11, de 21 de dezembro de 2009** . Aprova a Política de Apoio Estudantil do Instituto Federal do Paraná. 2009a.
 
-Nacionais para a Educação Ambiental. 2012b. Disponível em: <http://conferenciainfanto.mec.gov.br/images/pdf/diretrizes.pdf>. Acesso em: 25 maio 2017. 
+INSTITUTO FEDERAL DO PARANÁ (IFPR). **Portaria nº 120 de 06 de agosto de 2009** . Estabelece os critérios de avaliação do processo ensino aprendizagem do IFPR. 2009b. Disponível em: <http://reitoria.ifpr.edu.br/wp-content/uploads/2015/02/120-CRIT%C3%89RIOS-DEAVALIA%C3%87AO-DO-PROCESSO-ENSINO-APRENDIZAGEM-DO-IFPR.pdf>.  Acesso em: 25 maio 2017.
 
-BRASIL. CONSELHO NACIONAL DE EDUCAÇÃO (CNE). **Resolução nº 1, de 30 de maio de 2012** . Estabelece Diretrizes Nacionais para a Educação em Direitos Humanos. 2012c. Disponível em: <https://prograd.ufg.br/up/90/o/rcp001_12.pdf>. Acesso em: 25 maio 2017. 
+INSTITUTO FEDERAL DO PARANÁ (IFPR). **Portaria nº 4 de 22 de junho de 2009** . Dispõe sobre o estágio no Instituto Federal do Paraná. 2009c. Disponível em: <http://reitoria.ifpr.edu.br/wp-content/uploads/2009/06/PORTARIA-4-DE-ESTGIO-corrigidaSilvia.pdf>. Acesso em: 25 maio 2017.
 
-BRASIL. Lei nº 12.772, de 28 de dezembro de 2012. Dispõe sobre a estruturação do Plano de Carreiras e Cargos de Magistério Federal. 2012d. Disponível em: <http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12772.htm>. Acesso em: 07 maio 2017. 
+INSTITUTO FEDERAL DO PARANÁ (IFPR). **Resolução nº 4 /2010 – CONSELHO SUPERIOR** . Dispõe sobre o Programa de Monitoria do Instituto Federal do Paraná. 2010a. Disponível em: <http://reitoria.ifpr.edu.br/wpcontent/uploads/2009/03/RESOLU%C3%87%C3%83O-N%C2%BA-04-2010.pdf>. Acesso em: 25 maio 2017.
 
-164 
+INSTITUTO FEDERAL DO PARANÁ (IFPR). **Resolução nº 64 de 21 de junho de 2010** . 2010b. Disponível em: <http://reitoria.ifpr.edu.br/resolucao-64-2010/>. Acesso em: 25 maio 2017.
 
-**==> picture [472 x 55] intentionally omitted <==**
+INSTITUTO FEDERAL DO PARANÁ (IFPR). **Resolução nº 65 de 28 de julho de 2010** . 2010c. Disponível em: <http://reitoria.ifpr.edu.br/resolucao-65-2010/>. Acesso em: 25 maio 2017.
 
-BRASIL. **Lei nº 13.005, de 25 junho de 2014** . Aprova o Plano Nacional de Educação – PNE e dá outras providências. 2014a. Disponível em: <http://www.planalto.gov.br/CCIVIL_03/_Ato20112014/2014/Lei/L13005.htm>. Acesso em: 05 jan. 2017. 
+INSTITUTO FEDERAL DO PARANÁ (IFPR). **Resolução nº 05, de 29 de março de 2010** . Cria o Programa de Bolsas de Iniciação Científica e o Plano de Trabalho para captação de recursos. 2010d.
 
-BRASIL. SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA. **Portaria SETEC nº 58, de 21 de novembro de 2014** . Regulamenta a concessão de bolsas de pesquisa, desenvolvimento, inovação e intercâmbio, no âmbito dos Institutos Federais de Educação, Ciência e Tecnologia. 2014b. Disponível em: <http://www.lex.com.br/legis_26205423_PORTARIA_N_58_DE_21_DE_NOVEMBRO_DE_2 014.aspx>. Acesso em: 07 maio 2017. 
+INSTITUTO FEDERAL DO PARANÁ (IFPR). **Resolução nº 53, de 21 de dezembro de 2011** . Altera os Artigos 7º, 8º e 12º da Resolução n°11/09, que determina a Política de Apoio Estudantil do Instituto Federal do Paraná. 2011a. Disponível em: <http://reitoria.ifpr.edu.br/resolucao532011/>. Acesso em: 25 maio 2017.
 
-BRASIL. CONSELHO NACIONAL DE EDUCAÇÃO. **Resolução nº 2, de 1º de julho de 2015** . Define as Diretrizes Curriculares Nacionais para a formação inicial em nível superior (cursos de licenciatura, cursos de formação pedagógica para graduados e cursos de segunda licenciatura) e para a formação continuada. 2015a. Disponível em: <http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=17719-rescne-cp-002-03072015&Itemid=30192>. Acesso em: 25 maio 2017. 
+INSTITUTO FEDERAL DO PARANÁ (IFPR). **Resolução nº 55, de 21 de dezembro de 2011** . Dispõe sobre a Organização Didático Pedagógica da Educação Superior no âmbito do Instituto Federal do Paraná – IFPR. 2011b.
 
-BRASIL. MINISTÉRIO DA EDUCAÇÃO. **Nota Técnica nº 24 de 17 de agosto de 2015** . 2015b. Disponível em: <http://www.spm.gov.br/assuntos/conselho/nota-tecnica-no-24-conceito-generono-pne-mec.pdf>. Acesso em: 22 maio 2017. 
+INSTITUTO FEDERAL DO PARANÁ (IFPR). **Resolução nº 47, de 21 de dezembro de 2011** Aprova o Programa Institucional de Incentivo ao Ensino, Extensão, Pesquisa e Inovação no Instituto Federal do Paraná. 2011c.
 
-CONSELHO FEDERAL DE QUÍMICA (CFQ). **Resolução n°35 de 25 de abril de 1974** . 1974. Disponível em: <http://www.cfq.org.br/rn/RN36.htm>. Acesso em: 15 maio 2017. 
+INSTITUTO FEDERAL DO PARANÁ (IFPR). **Resolução nº 48, de 21 de dezembro de 2011** . Programa de Qualificação e Formação dos Servidores do IFPR. 2011d.
 
-CONSELHO REGIONAL DE QUÍMICA (CRQ). **Resolução Normativa nº 36 de 25 de abril de 1974** . 1974. Disponível em: <http://www.crq4.org.br/resolucao_normativa_n_36  de_250474>. Acesso em: 08 maio 2017. 
+INSTITUTO FEDERAL DO PARANÁ (IFPR). **Observatório Regional** : Cenário Socioeconômico das Unidades do IFPR, n. 1, out./nov. 2013.
 
-CONSELHO FEDERAL DE QUÍMICA (CFQ). **Resolução n°1511 de 12 de dezembro de 1975** . 1975. Disponível em: <http://www.cfq.org.br/atrprof.htm>. Acesso em: 15 maio 2017. 
+INSTITUTO FEDERAL DO PARANÁ (IFPR). **Instrução Interna de Procedimentos - IIP nº 001/2014 PROENS/IFPR, 28/03/2014** . Cria e Regulamenta o Programa Estudante-Atleta no Instituto Federal do Paraná. 2014a. Disponível em: <http://reitoria.ifpr.edu.br/wpcontent/uploads/2013/07/IIP_PROENS_001.2014_estudante_atleta.pdf>. Acesso em: 25 maio 2017.
 
-165 
+INSTITUTO FEDERAL DO PARANÁ (IFPR). **Resolução nº 08, de 30 de abril de 2014** . Regulamenta o Regimento Interno Comum aos Câmpus do IFPR. 2014b. Disponível em: <http://curitiba.ifpr.edu.br/wp-content/uploads/2011/06/Resolu%C3%A7%C3%A3o-08.14Regimento-interno-comum-aos-campus-09.05.14.pdf>. Acesso em: 25 maio 2017.
 
-**==> picture [472 x 55] intentionally omitted <==**
+INSTITUTO FEDERAL DO PARANÁ (IFPR). **Resolução nº 14, de 10 de junho de 2014.** Altera a Resolução 55/2011, que dispõe sobre a Organização Didático-Pedagógica na Educação Superior no âmbito do IFPR. 2014c. Disponível em: <http://reitoria.ifpr.edu.br/wpcontent/uploads/2014/06/Resolu%C3%A7%C3%A3o-n%C2%BA-14-de-2014..pdf>. Acesso em: 25 maio 2017.
 
-CONSELHO REGIONAL DE QUÍMICA (CRQ). **Resolução Normativa n° 94 de 19 de setembro de 1986** . 1986. Disponível em: <http://www.cfq.org.br/rn/RN94.htm>. Acesso em: 08 maio 2017. 
+INSTITUTO FEDERAL DO PARANÁ (IFPR). **Plano de Desenvolvimento Institucional (PDI) 2014-2018** . 2014d. Disponível em: <http://info.ifpr.edu.br/informacoes-institucionais/pdi-planode-desenvolvimento-institucional/>. Acesso em: 22 mar. 2017.
 
-INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (IBGE). **População** . 2010a. Disponível em: <http://www.cidades.ibge.gov.br/v4/brasil/pr/pitanga/panorama>. Acesso em: 24 maio 2017. 
+INSTITUTO FEDERAL DO PARANÁ (IFPR). **Manual de competências, de 10 de maio de 2015** . Consolida a estrutura organizacional Multicampus do IFPR e a necessidade de definição e padronização das competências inerentes a cada cargo/função. 2015.
 
-INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (IBGE). Estados. 
+INSTITUTO FEDERAL DO PARANÁ (IFPR). **Instrução Interna de Procedimentos PROENS/IFPR nº 01 de 22 de junho de 2016** . Regulamenta a oferta de cursos regulares no âmbito do Instituto Federal do Paraná. 2016. Disponível em: <http://reitoria.ifpr.edu.br/wpcontent/uploads/2014/06/IIP-01-2016.pdf>. Acesso em: 25 maio 2017.
 
-2010b. Disponível em: <http://www.cidades.ibge.gov.br/v4/brasil/pr/pitanga/panorama>. Acesso em: 24 maio 2017. 
+INSTITUTO FEDERAL DO PARANÁ (IFPR-PITANGA). **Portaria nº 54, de 24 de novembro de 2016** . Aprova o Regimento Geral da Biblioteca do Instituto Federal do Paraná – Campus Pitanga. 2016. Disponível em: <http://reitoria.ifpr.edu.br/wp-content/uploads/2016/11/Portaria54_-regulamento-biblioteca.pdf>. Acesso em: 25 maio 2017.
 
-INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (IBGE). **Economia** . 2014. Disponível em: <http://www.cidades.ibge.gov.br/v4/brasil/pr/pitanga/panorama>. Acesso em: 24 maio 2017. 
+INSTITUTO FEDERAL DO PARANÁ (IFPR-PITANGA). **Portaria nº 15 de 10 de março de 2017** . Delega a Comissão de Estruturação de Cursos (CEC) do _Campus_ Pitanga. 2017. Disponível em: <http://reitoria.ifpr.edu.br/wp-content/uploads/2017/01/Portaria-15.pdf>. Acesso em: 25 maio 2017.
 
-INSTITUTO FEDERAL DO PARANÁ (IFPR). **Resolução nº 11, de 21 de dezembro de 2009** . Aprova a Política de Apoio Estudantil do Instituto Federal do Paraná. 2009a. 
+INSTITUTO FEDERAL DO PARANÁ (IFPR). **Resolução nº 02, de 23 de janeiro de 2017** . Altera a Resolução 55/2011, que dispõe sobre a Organização Didático-Pedagógica na Educação Superior no âmbito do Instituto Federal do Paraná - IFPR. 2017a.
 
-INSTITUTO FEDERAL DO PARANÁ (IFPR). **Portaria nº 120 de 06 de agosto de 2009** . Estabelece os critérios de avaliação do processo ensino aprendizagem do IFPR. 2009b. Disponível em: <http://reitoria.ifpr.edu.br/wp-content/uploads/2015/02/120-CRIT%C3%89RIOS-DEAVALIA%C3%87AO-DO-PROCESSO-ENSINO-APRENDIZAGEM-DO-IFPR.pdf>.  Acesso em: 25 maio 2017. 
+INSTITUTO FEDERAL DO PARANÁ (IFPR). **Resolução nº 19, de 24 de março de 2017** . Estabelece a Política Institucional de Formação de Profissionais do Magistério da Educação Básica no IFPR e aprova o Regulamento para Projeto Pedagógico de Curso de Licenciatura no IFPR. 2017b.
 
-INSTITUTO FEDERAL DO PARANÁ (IFPR). **Portaria nº 4 de 22 de junho de 2009** . Dispõe sobre o estágio no Instituto Federal do Paraná. 2009c. Disponível em: <http://reitoria.ifpr.edu.br/wp-content/uploads/2009/06/PORTARIA-4-DE-ESTGIO-corrigidaSilvia.pdf>. Acesso em: 25 maio 2017. 
+INSTITUTO PARANAENSE DE DESENVOLVIMENTO ECONÔMICO E SOCIAL SOCIAL (IPARDES). **Perfil  avançado  do  município  de  Pitanga** .  2008.  Disponível  em:
 
-166 
+<http://www.ipardes.gov.br/perfil_municipal/MontaPerfil.php?codlocal=92&btOk=ok>. Acesso em: 7 maio 2017.
 
-**==> picture [472 x 55] intentionally omitted <==**
+MANACORDA, M. A. **História da educação** : da Antiguidade aos nossos dias. 13. ed., São Paulo: Cortez, 2010.
 
-INSTITUTO FEDERAL DO PARANÁ (IFPR). **Resolução nº 4 /2010 – CONSELHO SUPERIOR** . Dispõe sobre o Programa de Monitoria do Instituto Federal do Paraná. 2010a. Disponível em: <http://reitoria.ifpr.edu.br/wpcontent/uploads/2009/03/RESOLU%C3%87%C3%83O-N%C2%BA-04-2010.pdf>. Acesso em: 25 maio 2017. 
+MARAFÃO, D.; GLUITZ, A. C.; SANTOS-TONIAL, L. M. Panorama dos Cursos de Licenciatura em Química Ofertados pelas Instituições de Ensino Superior do Estado do Paraná. **Rev. Virtual Quim.** , v. 7, n. 3, p. 811-822, abr. 2015. Disponível em: <http://rvqsub.sbq.org.br/index.php/rvq/article/viewArticle/689>. Acesso: 24 maio 2017.
 
-INSTITUTO FEDERAL DO PARANÁ (IFPR). **Resolução nº 64 de 21 de junho de 2010** . 2010b. Disponível em: <http://reitoria.ifpr.edu.br/resolucao-64-2010/>. Acesso em: 25 maio 2017. 
+MARIZ, R. **Em seis anos, 40% dos professores do ensino médio terão condições para se aposentar** . Disponível em: <http://oglobo.globo.com/sociedade/educacao/em-seis-anos-40-dosprofessores-do-ensino-medio-terao-condicoes-para-se-aposentar-17417068>. Acesso em: 22 mar. 2017.
 
-INSTITUTO FEDERAL DO PARANÁ (IFPR). **Resolução nº 65 de 28 de julho de 2010** . 2010c. Disponível em: <http://reitoria.ifpr.edu.br/resolucao-65-2010/>. Acesso em: 25 maio 2017. 
+MEIRA, M. E. M. Incluir para continuar excluindo: a produção da exclusão na educação brasileira à luz da psicologia histórico-cultural. In: FACCI, M. G. D.; MEIRA, M. E. M.; TULESKI, S. C. (Orgs.). **A exclusão dos “incluídos”** : uma crítica da psicologia da educação à patologização e medicalização dos processos educativos. 2. ed., Maringá: Eduem, 2012, p. 75-106.
 
-INSTITUTO FEDERAL DO PARANÁ (IFPR). **Resolução nº 05, de 29 de março de 2010** . Cria o Programa de Bolsas de Iniciação Científica e o Plano de Trabalho para captação de recursos. 2010d. 
+MORENO, A. C.; TENENTE, L.; FAJARDO, V. **ENEM 2015** : Notas por Escolas. Disponível em: <http://especiais.g1.globo.com/educacao/2016/enem-2015-notas-por-escolas>. Acesso em: 22 mar. 2017.
 
-INSTITUTO FEDERAL DO PARANÁ (IFPR). **Resolução nº 53, de 21 de dezembro de 2011** . Altera os Artigos 7º, 8º e 12º da Resolução n°11/09, que determina a Política de Apoio Estudantil do Instituto Federal do Paraná. 2011a. Disponível em: <http://reitoria.ifpr.edu.br/resolucao532011/>. Acesso em: 25 maio 2017. 
+SAVIANI, D. **Educação** : do senso comum à consciência filosófica. 5 ed., São Paulo: Cortez: Autores Associados, 1985.
 
-INSTITUTO FEDERAL DO PARANÁ (IFPR). **Resolução nº 55, de 21 de dezembro de 2011** . Dispõe sobre a Organização Didático Pedagógica da Educação Superior no âmbito do Instituto Federal do Paraná – IFPR. 2011b. 
+SAVIANI, D. **Pedagogia histórico-crítica** : primeiras aproximações. 9 ed., Campinas: Autores Associados, 2005.
 
-INSTITUTO FEDERAL DO PARANÁ (IFPR). **Resolução nº 47, de 21 de dezembro de 2011** Aprova o Programa Institucional de Incentivo ao Ensino, Extensão, Pesquisa e Inovação no Instituto Federal do Paraná. 2011c. 
+VÁZQUEZ, A. S. **Filosofia da práxis** . 2. ed., Rio de Janeiro: Paz e Terra, 1977.
 
-167 
+VEIGA, I. P. Perspectivas para reflexão em torno do projeto político-pedagógico. In: VEIGA, I. P. A.; RESENDE, L. G. (Orgs.). **Escola** : espaço do projeto político-pedagógico. Campinas: Papirus, 1998.
 
-**==> picture [472 x 55] intentionally omitted <==**
+**UOL** . Maioria dos docentes de ensino médio não tem formação na área que atua. 2014. Disponível em: <https://educacao.uol.com.br/noticias/2014/04/11/maioria-dos-docentes-do-medio-nao-temlicenciatura-na-area-em-que-atua.htm>. Acesso em: 24 maio 2017.
 
-INSTITUTO FEDERAL DO PARANÁ (IFPR). **Resolução nº 48, de 21 de dezembro de 2011** . Programa de Qualificação e Formação dos Servidores do IFPR. 2011d. 
+## **APÊNDICES**
 
-INSTITUTO FEDERAL DO PARANÁ (IFPR). **Observatório Regional** : Cenário Socioeconômico das Unidades do IFPR, n. 1, out./nov. 2013. 
+## **APÊNDICE A - REGULAMENTO PARA APROVEITAMENTO DE CARGA HORÁRIA PARA OS COMPONENTES DE EXTENSÃO**
 
-INSTITUTO FEDERAL DO PARANÁ (IFPR). **Instrução Interna de Procedimentos - IIP nº 001/2014 PROENS/IFPR, 28/03/2014** . Cria e Regulamenta o Programa Estudante-Atleta no Instituto Federal do Paraná. 2014a. Disponível em: <http://reitoria.ifpr.edu.br/wpcontent/uploads/2013/07/IIP_PROENS_001.2014_estudante_atleta.pdf>. Acesso em: 25 maio 2017. 
+Art. 1º - O presente Regulamento estabelece o fluxo dos pedidos e análises para aproveitamento de horas como participante de projetos de extensão e sua convalidação com os componentes curriculares “Extensão” I, II e III do Curso Superior de Licenciatura em Química do IFPR/PITANGA.
 
-INSTITUTO FEDERAL DO PARANÁ (IFPR). **Resolução nº 08, de 30 de abril de 2014** . Regulamenta o Regimento Interno Comum aos Câmpus do IFPR. 2014b. Disponível em: <http://curitiba.ifpr.edu.br/wp-content/uploads/2011/06/Resolu%C3%A7%C3%A3o-08.14Regimento-interno-comum-aos-campus-09.05.14.pdf>. Acesso em: 25 maio 2017. 
+Art. 2º - O/a estudante que participar como colaborador(a) em programas, projetos, cursos, oficinas, eventos, publicações e/ou prestação de serviços de extensão no âmbito do IFPR – _Campus_ Pitanga, poderá solicitar convalidação destas horas para os componentes curriculares “Extensão” I, II e III. Art. 3° - O/a estudante que participar das atividades descritas no Art. 2º e desejar convalidar as horas, deverá protocolar, junto à Secretaria Acadêmica, o pedido de convalidação por meio do formulário de “Aproveitamento de horas de extensão”, anexo a este Regulamento (Apêndice A1). Art. 4° - O requerimento deverá ser feito em datas previamente estabelecidas em Calendário Acadêmico.
 
-INSTITUTO FEDERAL DO PARANÁ (IFPR). **Resolução nº 14, de 10 de junho de 2014.** Altera a Resolução 55/2011, que dispõe sobre a Organização Didático-Pedagógica na Educação Superior no âmbito do IFPR. 2014c. Disponível em: <http://reitoria.ifpr.edu.br/wpcontent/uploads/2014/06/Resolu%C3%A7%C3%A3o-n%C2%BA-14-de-2014..pdf>. Acesso em: 25 maio 2017. 
+Art. 5º - Junto ao requerimento, deverá ser anexado certificado comprovando o total de horas em que o/a estudante participou, como colaborador/a, do(s) programa(s), projeto(s), curso(s), oficina(s), evento(s), publicação(ões) e/ou prestação(ões) de serviços de extensão.
 
-INSTITUTO FEDERAL DO PARANÁ (IFPR). **Plano de Desenvolvimento Institucional (PDI) 2014-2018** . 2014d. Disponível em: <http://info.ifpr.edu.br/informacoes-institucionais/pdi-planode-desenvolvimento-institucional/>. Acesso em: 22 mar. 2017. 
+Art. 6º - Para o aproveitamento de componentes específicos de “Extensão” I, II e III, o/a estudante deverá comprovar, **no mínimo** , a mesma carga horária do componente em atividades de extensão. Art. 7º - O/a estudante poderá se utilizar de mais de um certificado/atividade para compor a carga horária do componente que queira convalidar.
 
-168 
+Art. 8º - Caso a carga horária do(s) certificado(s)/atividade(s) permita, o/a estudante poderá solicitar convalidação de mais de um componente de Extensão em seu pedido.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Art. 9º - A análise dos pedidos de aproveitamento de carga(s) horária(s) de atividades de extensão ficará a cargo do Colegiado de Curso, ou de Comissão específica por este designada.
 
-INSTITUTO FEDERAL DO PARANÁ (IFPR). **Manual de competências, de 10 de maio de 2015** . Consolida a estrutura organizacional Multicampus do IFPR e a necessidade de definição e padronização das competências inerentes a cada cargo/função. 2015. 
+Art. 10º - Será emitido parecer fundamentado deferindo ou indeferindo o pedido do/a estudante. Art. 11º - Os casos omissos serão analisados pelo Colegiado do Curso.
 
-INSTITUTO FEDERAL DO PARANÁ (IFPR). **Instrução Interna de Procedimentos PROENS/IFPR nº 01 de 22 de junho de 2016** . Regulamenta a oferta de cursos regulares no âmbito do Instituto Federal do Paraná. 2016. Disponível em: <http://reitoria.ifpr.edu.br/wpcontent/uploads/2014/06/IIP-01-2016.pdf>. Acesso em: 25 maio 2017. 
+## **APÊNDICE A1**
 
-INSTITUTO FEDERAL DO PARANÁ (IFPR-PITANGA). **Portaria nº 54, de 24 de novembro de 2016** . Aprova o Regimento Geral da Biblioteca do Instituto Federal do Paraná – Campus Pitanga. 2016. Disponível em: <http://reitoria.ifpr.edu.br/wp-content/uploads/2016/11/Portaria54_-regulamento-biblioteca.pdf>. Acesso em: 25 maio 2017. 
+## **FORMULÁRIO PARA REQUERIMENTO DE APROVEITAMENTO DE CARGA HORÁRIA PARA OS COMPONENTES DE EXTENSÃO**
 
-INSTITUTO FEDERAL DO PARANÁ (IFPR-PITANGA). **Portaria nº 15 de 10 de março de 2017** . Delega a Comissão de Estruturação de Cursos (CEC) do _Campus_ Pitanga. 2017. Disponível em: <http://reitoria.ifpr.edu.br/wp-content/uploads/2017/01/Portaria-15.pdf>. Acesso em: 25 maio 2017. 
+Estudante:
 
-INSTITUTO FEDERAL DO PARANÁ (IFPR). **Resolução nº 02, de 23 de janeiro de 2017** . Altera a Resolução 55/2011, que dispõe sobre a Organização Didático-Pedagógica na Educação Superior no âmbito do Instituto Federal do Paraná - IFPR. 2017a. 
+Licenciatura em Química Período/ano: Nº de Matrícula: Telefone:
 
-INSTITUTO FEDERAL DO PARANÁ (IFPR). **Resolução nº 19, de 24 de março de 2017** . Estabelece a Política Institucional de Formação de Profissionais do Magistério da Educação Básica no IFPR e aprova o Regulamento para Projeto Pedagógico de Curso de Licenciatura no IFPR. 2017b. 
+DESCRIÇÃO DA ATIVIDADE DE  QUANTIDADE DE  COMPONENTE REQUERIDO<br>EXTENSÃO  HORAS<br>COMPROVADAS<br>Pitanga,  de  de 20  .<br>Assinatura do aluno
 
-INSTITUTO PARANAENSE DE DESENVOLVIMENTO ECONÔMICO E SOCIAL SOCIAL (IPARDES). **Perfil  avançado  do  município  de  Pitanga** .  2008.  Disponível  em: 
+Secretaria Acadêmica
 
-169 
+> ( **Anexar** documentos comprobatórios)
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **APÊNDICE B - REGULAMENTO DO COMPONENTE ESTÁGIO CURRICULAR SUPERVISIONADO**
 
-<http://www.ipardes.gov.br/perfil_municipal/MontaPerfil.php?codlocal=92&btOk=ok>. Acesso em: 7 maio 2017. 
+## **CAPÍTULO I**
 
-MANACORDA, M. A. **História da educação** : da Antiguidade aos nossos dias. 13. ed., São Paulo: Cortez, 2010. 
+## **Da Caracterização**
 
-MARAFÃO, D.; GLUITZ, A. C.; SANTOS-TONIAL, L. M. Panorama dos Cursos de Licenciatura em Química Ofertados pelas Instituições de Ensino Superior do Estado do Paraná. **Rev. Virtual Quim.** , v. 7, n. 3, p. 811-822, abr. 2015. Disponível em: <http://rvqsub.sbq.org.br/index.php/rvq/article/viewArticle/689>. Acesso: 24 maio 2017. 
+Art. 1º O componente Estágio Curricular Supervisionado, integrante do currículo do Curso de Licenciatura em Química, do IFPR _Campus_ Pitanga, será desenvolvido em forma de conteúdos teórico-práticos, com carga horária total de 400 horas. Este componente curricular está dividido em quatro etapas denominadas: Estágio Supervisionado I, Estágio Supervisionado II, Estágio Supervisionado III e Estágio Supervisionado IV, ministrados do 4º ao 8º semestre, respectivamente, de acordo com as normas estabelecidas neste regulamento, constituindo-se o momento de excelência para a formação discente.
 
-MARIZ, R. **Em seis anos, 40% dos professores do ensino médio terão condições para se aposentar** . Disponível em: <http://oglobo.globo.com/sociedade/educacao/em-seis-anos-40-dosprofessores-do-ensino-medio-terao-condicoes-para-se-aposentar-17417068>. Acesso em: 22 mar. 2017. 
+Parágrafo único. O Estágio Curricular Supervisionado no Curso de Licenciatura em Química do IFPR _Campus_ Pitanga é regido pela Lei 11.788/08 (BRASIL, 2008b) e pelas Resoluções CNE/CP Nº 02/2015 (BRASIL, 2015b) e CONSUP/IFPR Nº 19/2017(IFPR, 2017b).
 
-MEIRA, M. E. M. Incluir para continuar excluindo: a produção da exclusão na educação brasileira à luz da psicologia histórico-cultural. In: FACCI, M. G. D.; MEIRA, M. E. M.; TULESKI, S. C. (Orgs.). **A exclusão dos “incluídos”** : uma crítica da psicologia da educação à patologização e medicalização dos processos educativos. 2. ed., Maringá: Eduem, 2012, p. 75-106. 
+Art. 2º O componente Estágio Curricular Supervisionado tem como finalidade:
 
-MORENO, A. C.; TENENTE, L.; FAJARDO, V. **ENEM 2015** : Notas por Escolas. Disponível em: <http://especiais.g1.globo.com/educacao/2016/enem-2015-notas-por-escolas>. Acesso em: 22 mar. 2017. 
+I - Viabilizar a reflexão teórica sobre a prática pedagógica em Química em diferentes campos de atuação.
 
-SAVIANI, D. **Educação** : do senso comum à consciência filosófica. 5 ed., São Paulo: Cortez: Autores Associados, 1985. 
+II - Oportunizar o desenvolvimento de habilidades necessárias à ação docente.
 
-170 
+III - Proporcionar o intercâmbio de informações e experiências concretas para o efetivo exercício da profissão.
 
-**==> picture [472 x 55] intentionally omitted <==**
+IV - Possibilitar a aplicação de conteúdos do Curso de Licenciatura em Química, de acordo com a realidade das instituições escolares e demais espaços de atuação.
 
-SAVIANI, D. **Pedagogia histórico-crítica** : primeiras aproximações. 9 ed., Campinas: Autores Associados, 2005. 
+V - Oportunizar a vivência real e objetiva junto à Educação Básica e espaços não formais, levando
 
-VÁZQUEZ, A. S. **Filosofia da práxis** . 2. ed., Rio de Janeiro: Paz e Terra, 1977. 
+em consideração a diversidade de contextos em que se apresenta a realidade sociocultural.
 
-VEIGA, I. P. Perspectivas para reflexão em torno do projeto político-pedagógico. In: VEIGA, I. P. A.; RESENDE, L. G. (Orgs.). **Escola** : espaço do projeto político-pedagógico. Campinas: Papirus, 1998. 
+## **CAPÍTULO II**
 
-**UOL** . Maioria dos docentes de ensino médio não tem formação na área que atua. 2014. Disponível em: <https://educacao.uol.com.br/noticias/2014/04/11/maioria-dos-docentes-do-medio-nao-temlicenciatura-na-area-em-que-atua.htm>. Acesso em: 24 maio 2017. 
+## **Da Organização e do Funcionamento**
 
-171 
+Art. 3º O componente Estágio Curricular Supervisionado ocorre da seguinte forma:
 
-**==> picture [472 x 55] intentionally omitted <==**
+I – Estágio Curricular Supervisionado I
 
-## **APÊNDICES** 
+II – Estágio Supervisionado II
 
-172 
+III – Estágio Supervisionado III
 
-**==> picture [472 x 55] intentionally omitted <==**
+IV – Estágio Curricular Supervisionado IV
 
-## **APÊNDICE A - REGULAMENTO PARA APROVEITAMENTO DE CARGA HORÁRIA PARA OS COMPONENTES DE EXTENSÃO** 
+§ 1º A carga horária dos componentes Estágio Curricular Supervisionado I, II, III e IV é de 100 horas cada, perfazendo o total de 400 horas.
 
-Art. 1º - O presente Regulamento estabelece o fluxo dos pedidos e análises para aproveitamento de horas como participante de projetos de extensão e sua convalidação com os componentes curriculares “Extensão” I, II e III do Curso Superior de Licenciatura em Química do IFPR/PITANGA. 
+§ 2º Os componentes Estágio Curricular Supervisionado especificados no parágrafo anterior são organizados de acordo com a referida distribuição:
 
-Art. 2º - O/a estudante que participar como colaborador(a) em programas, projetos, cursos, oficinas, eventos, publicações e/ou prestação de serviços de extensão no âmbito do IFPR – _Campus_ Pitanga, poderá solicitar convalidação destas horas para os componentes curriculares “Extensão” I, II e III. Art. 3° - O/a estudante que participar das atividades descritas no Art. 2º e desejar convalidar as horas, deverá protocolar, junto à Secretaria Acadêmica, o pedido de convalidação por meio do formulário de “Aproveitamento de horas de extensão”, anexo a este Regulamento (Apêndice A1). Art. 4° - O requerimento deverá ser feito em datas previamente estabelecidas em Calendário Acadêmico. 
+I. A orientação do docente do componente Estágio Curricular será realizada por meio de carga horária semipresencial por meio eletrônico.
 
-Art. 5º - Junto ao requerimento, deverá ser anexado certificado comprovando o total de horas em que o/a estudante participou, como colaborador/a, do(s) programa(s), projeto(s), curso(s), oficina(s), evento(s), publicação(ões) e/ou prestação(ões) de serviços de extensão. 
+II. O contato com o discente ocorrerá por meio eletrônico para envio de materiais, solicitação de atividades de pesquisas, relatórios de atividades práticas e teóricas, acompanhamento de plano de aula.
 
-Art. 6º - Para o aproveitamento de componentes específicos de “Extensão” I, II e III, o/a estudante deverá comprovar, **no mínimo** , a mesma carga horária do componente em atividades de extensão. Art. 7º - O/a estudante poderá se utilizar de mais de um certificado/atividade para compor a carga horária do componente que queira convalidar. 
+§ 3º Os campos de atuação previstos neste regulamento para atuação do discente são: estabelecimentos de ensino público (preferencialmente) e privado, e espaços não formais.
 
-Art. 8º - Caso a carga horária do(s) certificado(s)/atividade(s) permita, o/a estudante poderá solicitar convalidação de mais de um componente de Extensão em seu pedido. 
+§ 4º O primeiro contato com a administração e o serviço de supervisão no campo de Estágio se promove por intermédio do coordenador e/ou orientador de Estágio, objetivando a coleta de informações relativas ao desenvolvimento das atividades tais como o número de turmas, período de funcionamento e, prioritariamente, para firmar o compromisso entre as partes, bem como subsidiar o planejamento do componente Estágio Curricular Supervisionado.
 
-Art. 9º - A análise dos pedidos de aproveitamento de carga(s) horária(s) de atividades de extensão ficará a cargo do Colegiado de Curso, ou de Comissão específica por este designada. 
+Art. 4º Para que o discente do Curso de Licenciatura em Química possa atuar nos diferentes campos de Estágio, a distribuição da proposta de trabalho deve se orientar por:
 
-Art. 10º - Será emitido parecer fundamentado deferindo ou indeferindo o pedido do/a estudante. Art. 11º - Os casos omissos serão analisados pelo Colegiado do Curso. 
+I - Constituição da disciplina de química: histórico e evolução. Leitura e discussão sobre os documentos oficiais. Observação de aulas de química nas instituições de educação básica, 100 horas.
 
-173 
+II - Planejamento e desenvolvimento de Semirregências no IFPR- _Campus_ Pitanga, 100 horas. III- Planejamento de sequência didática. Implementação de sequências didáticas nas instituições de educação básica, 100 horas.
 
-**==> picture [472 x 55] intentionally omitted <==**
+IV- Planejamento de sequência didática. Implementação de sequências didáticas nas instituições de educação básica, 100 horas.
 
-## **APÊNDICE A1** 
+Art. 5º A duração do Estágio Curricular Supervisionado deve ser de no mínimo 100 dias, sendo que a jornada do Estágio não deve ultrapassar 6 horas diárias e 30 horas semanais.
 
-## **FORMULÁRIO PARA REQUERIMENTO DE APROVEITAMENTO DE CARGA HORÁRIA PARA OS COMPONENTES DE EXTENSÃO** 
+## **TÍTULO III**
 
-Estudante: 
+## **Do Perfil e das Atribuições do Docente Coordenador, do Docente Orientador e do Supervisor de Estágio**
 
-Licenciatura em Química Período/ano: Nº de Matrícula: Telefone: 
+Art. 6º O coordenador do componente Estágio Curricular Supervisionado é o docente com formação e experiência específica em Química, ou áreas afins, preferencialmente o coordenador do curso de Licenciatura em Química.
 
-**==> picture [471 x 179] intentionally omitted <==**
+Parágrafo único. Ao coordenador de Estágio compete:
 
-**----- Start of picture text -----**<br>
-DESCRIÇÃO DA ATIVIDADE DE  QUANTIDADE DE  COMPONENTE REQUERIDO<br>EXTENSÃO  HORAS<br>COMPROVADAS<br>Pitanga,  de  de 20  .<br>**----- End of picture text -----**<br>
+I - Estabelecer e manter contato com possíveis campos de Estágio.
 
+II - Mediar a comunicação entre o campo de Estágio e o Curso de Licenciatura em Química.
 
-Assinatura do aluno 
+III - Designar os docentes orientadores, articulando carga horária, número de estagiários e campos de Estágio.
 
-Secretaria Acadêmica 
+IV - Acompanhar o Estágio, cuidando para que ele ocorra na forma prevista em lei e conforme o programa do componente Estágio Curricular Supervisionado previsto na PPC do Curso de Licenciatura em Química.
 
-> ( **Anexar** documentos comprobatórios) 
+V - Acompanhar os orientadores de Estágio por meio de reuniões periódicas.
 
-174 
+Art. 7º O professor orientador do componente Estágio Curricular Supervisionado é o docente da área de Química com formação e experiência específica em Química e áreas afins, designado pelo coordenador.
 
-**==> picture [472 x 55] intentionally omitted <==**
+§ 1º Ao orientador de Estágio compete:
 
-## **APÊNDICE B - REGULAMENTO DO COMPONENTE ESTÁGIO CURRICULAR SUPERVISIONADO** 
+I - Acompanhar a produção acadêmica e científica de relatos da prática pedagógica em Química, solicitando Relatório semestral a cada componente.
 
-## **CAPÍTULO I** 
+II - Manter o coordenador ciente das ações desenvolvidas pelo estagiário.
 
-## **Da Caracterização** 
+III - Proporcionar condições para que o estagiário vivencie o cotidiano do ensino na Educação Básica e/ou espaços não formais.
 
-Art. 1º O componente Estágio Curricular Supervisionado, integrante do currículo do Curso de Licenciatura em Química, do IFPR _Campus_ Pitanga, será desenvolvido em forma de conteúdos teórico-práticos, com carga horária total de 400 horas. Este componente curricular está dividido em quatro etapas denominadas: Estágio Supervisionado I, Estágio Supervisionado II, Estágio Supervisionado III e Estágio Supervisionado IV, ministrados do 4º ao 8º semestre, respectivamente, de acordo com as normas estabelecidas neste regulamento, constituindo-se o momento de excelência para a formação discente. 
+IV - Orientar o estagiário no planejamento e na execução das atividades docentes.
 
-Parágrafo único. O Estágio Curricular Supervisionado no Curso de Licenciatura em Química do IFPR _Campus_ Pitanga é regido pela Lei 11.788/08 (BRASIL, 2008b) e pelas Resoluções CNE/CP Nº 02/2015 (BRASIL, 2015b) e CONSUP/IFPR Nº 19/2017(IFPR, 2017b). 
+V - Acompanhar efetivamente as atividades de prática pedagógica e em outras por eles desenvolvidas, sendo necessária a presença do mesmo no campo de Estágio no dia e horário da prática pedagógica em Química do estagiário.
 
-Art. 2º O componente Estágio Curricular Supervisionado tem como finalidade: 
+VI - Indicar as fontes de pesquisas e de consultas necessárias às soluções das dificuldades encontradas.
 
-I - Viabilizar a reflexão teórica sobre a prática pedagógica em Química em diferentes campos de atuação. 
+VII - Avaliar o desempenho do estagiário conforme critérios estabelecidos.
 
-II - Oportunizar o desenvolvimento de habilidades necessárias à ação docente. 
+VIII - Manter contatos periódicos com a administração e supervisão do Estágio, intervindo sempre que necessário.
 
-III - Proporcionar o intercâmbio de informações e experiências concretas para o efetivo exercício da profissão. 
+IX - Acompanhar a frequência do estagiário, conforme carga horária estabelecida para o Estágio Curricular Supervisionado.
 
-IV - Possibilitar a aplicação de conteúdos do Curso de Licenciatura em Química, de acordo com a realidade das instituições escolares e demais espaços de atuação. 
+X - Cumprir integralmente as normas estabelecidas no regulamento do componente Estágio Curricular Supervisionado do Curso de Licenciatura em Química, bem como em outras normas da Instituição que regulam as atividades do componente Estágio Curricular Supervisionado.
 
-V - Oportunizar a vivência real e objetiva junto à Educação Básica e espaços não formais, levando 
+§ 2º Cada orientador deve orientar no máximo 10 estagiários.
 
-em consideração a diversidade de contextos em que se apresenta a realidade sociocultural. 
+Art. 8º O supervisor do componente Estágio Curricular Supervisionado é o profissional (co) responsável pelo acompanhamento e supervisão do estagiário, no campo de Estágio, apresentando ou não formação na área de Química.
 
-## **CAPÍTULO II** 
+§ 1º É necessário que o supervisor esteja presente no campo de Estágio no dia e horário da prática pedagógica em Química do estagiário.
 
-## **Da Organização e do Funcionamento** 
+§ 2º Ao Supervisor de Estágio compete:
 
-175 
+I - Auxiliar o estagiário nas questões técnico-administrativas do campo de Estágio.
 
-**==> picture [472 x 55] intentionally omitted <==**
+II - Garantir as condições mínimas necessárias para a realização do Estágio.
 
-Art. 3º O componente Estágio Curricular Supervisionado ocorre da seguinte forma: 
+III - Manter o coordenador de Estágio informado sobre as ações do estagiário, bem como avaliar essas ações, sempre que solicitado.
 
-I – Estágio Curricular Supervisionado I 
+IV - Informar ao coordenador as eventuais modificações no cronograma de atividades do campo de Estágio ou estrutura de funcionamento do mesmo.
 
-II – Estágio Supervisionado II 
+V - Realizar a avaliação das atividades desempenhadas pelo estagiário segundo critérios estabelecidos pelo curso.
 
-III – Estágio Supervisionado III 
+## **TÍTULO IV**
 
-IV – Estágio Curricular Supervisionado IV 
+## **Das Atribuições do Estagiário**
 
-§ 1º A carga horária dos componentes Estágio Curricular Supervisionado I, II, III e IV é de 100 horas cada, perfazendo o total de 400 horas. 
+Art. 9º O discente deve cumprir as etapas do componente Estágio Curricular Supervisionado conforme o estabelecido nos incisos I e II do Artigo 3º deste regulamento.
 
-§ 2º Os componentes Estágio Curricular Supervisionado especificados no parágrafo anterior são organizados de acordo com a referida distribuição: 
+§ 1º Não é permitido ao discente antecipar carga horária do componente Estágio Curricular Supervisionado.
 
-I. A orientação do docente do componente Estágio Curricular será realizada por meio de carga horária semipresencial por meio eletrônico. 
+§ 2º O discente pode propor carga horária excedente, de forma voluntária, para atuação pedagógica, desde que a proposta obedeça às mesmas normas exigidas para carga horária obrigatória.
 
-II. O contato com o discente ocorrerá por meio eletrônico para envio de materiais, solicitação de atividades de pesquisas, relatórios de atividades práticas e teóricas, acompanhamento de plano de aula. 
+## **CAPÍTULO V**
 
-§ 3º Os campos de atuação previstos neste regulamento para atuação do discente são: estabelecimentos de ensino público (preferencialmente) e privado, e espaços não formais. 
+## **Da Avaliação e Da Promoção**
 
-§ 4º O primeiro contato com a administração e o serviço de supervisão no campo de Estágio se promove por intermédio do coordenador e/ou orientador de Estágio, objetivando a coleta de informações relativas ao desenvolvimento das atividades tais como o número de turmas, período de funcionamento e, prioritariamente, para firmar o compromisso entre as partes, bem como subsidiar o planejamento do componente Estágio Curricular Supervisionado. 
+Art. 10º A avaliação e a promoção no componente Estágio Curricular Supervisionado ficam condicionada à observância dos seguintes aspectos:
 
-Art. 4º Para que o discente do Curso de Licenciatura em Química possa atuar nos diferentes campos de Estágio, a distribuição da proposta de trabalho deve se orientar por: 
+I - Desempenho nas atividades teórico-práticas promovidas e/ou solicitadas pelo docente orientador.
 
-I - Constituição da disciplina de química: histórico e evolução. Leitura e discussão sobre os documentos oficiais. Observação de aulas de química nas instituições de educação básica, 100 horas. 
+II - Desempenho na prática pedagógica.
 
-II - Planejamento e desenvolvimento de Semirregências no IFPR- _Campus_ Pitanga, 100 horas. III- Planejamento de sequência didática. Implementação de sequências didáticas nas instituições de educação básica, 100 horas. 
+III- Apresentação dos planos de aulas e relatórios semanais das atividades desenvolvidas.
 
-176 
+IV - Apresentação do relatório final, segundo normas técnico-científicas previamente estabelecidas.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Parágrafo único. O docente orientador do componente Estágio Curricular Supervisionado pode estabelecer outros critérios, desde que devidamente registrados e esclarecidos aos discentes.
 
-IV- Planejamento de sequência didática. Implementação de sequências didáticas nas instituições de educação básica, 100 horas. 
+Art. 11º Pode fazer parte da avaliação do componente Estágio Curricular Supervisionado as observações feitas pelo docente de classe, pelo docente orientador e pela equipe técnicopedagógica do campo de Estágio.
 
-Art. 5º A duração do Estágio Curricular Supervisionado deve ser de no mínimo 100 dias, sendo que a jornada do Estágio não deve ultrapassar 6 horas diárias e 30 horas semanais. 
+Art. 12º Tendo em vista as especificidades didático-pedagógicas do componente Estágio Curricular Supervisionado não há, para o estagiário, revisão de avaliação e realização de avaliação final, bem como não lhe é permitido cursá-la em regime de dependência.
 
-## **TÍTULO III** 
+Art. 13º Cada etapa do componente Estágio Curricular Supervisionado, conforme o disposto no
 
-## **Do Perfil e das Atribuições do Docente Coordenador, do Docente Orientador e do Supervisor de Estágio** 
+Art. 3º deste regulamento, deve ter três conceitos de avaliação periódica. O conceito final é computado a partir do resultado dos conceitos periódicos.
 
-Art. 6º O coordenador do componente Estágio Curricular Supervisionado é o docente com formação e experiência específica em Química, ou áreas afins, preferencialmente o coordenador do curso de Licenciatura em Química. 
+Parágrafo único. Os critérios para atribuição dos conceitos são aprovados conforme Portaria nº 120 de 6 de agosto de 2009 (IFPR, 2009), observando o disposto nos Artigos 11, 12 e 13 deste regulamento.
 
-Parágrafo único. Ao coordenador de Estágio compete: 
+## **CAPÍTULO VI**
 
-I - Estabelecer e manter contato com possíveis campos de Estágio. 
+## **Das Disposições Gerais**
 
-II - Mediar a comunicação entre o campo de Estágio e o Curso de Licenciatura em Química. 
+Art. 14º A carga horária do componente Estágio Curricular Supervisionado atribuída ao docente será igual à carga horária do componente conforme o disposto na estrutura curricular do curso, e o número máximo de 10 discentes por docente poderá ser estendido para 18 discentes por turma.
 
-III - Designar os docentes orientadores, articulando carga horária, número de estagiários e campos de Estágio. 
+§ 1º No caso de abertura de novas turmas, estas somente deverão ocorrer quando o número de discentes matriculados ultrapassar o estipulado acima, com o aval do Colegiado do Curso de Licenciatura em Química.
 
-IV - Acompanhar o Estágio, cuidando para que ele ocorra na forma prevista em lei e conforme o programa do componente Estágio Curricular Supervisionado previsto na PPC do Curso de Licenciatura em Química. 
+§ 2º Cabe ao coordenador de Estágio o encaminhamento da relação nominal dos discentes do componente Estágio Curricular Supervisionado para a Coordenação de Estágio, com o objetivo de atender ao disposto no caput deste artigo.
 
-V - Acompanhar os orientadores de Estágio por meio de reuniões periódicas. 
+Art. 15º Os casos omissos serão resolvidos pelo Colegiado do Curso de Licenciatura em Química.
 
-Art. 7º O professor orientador do componente Estágio Curricular Supervisionado é o docente da área de Química com formação e experiência específica em Química e áreas afins, designado pelo coordenador. 
+## **TERMO DE COMPROMISSO DE ESTÁGIO OBRIGATÓRIO CURSOS DE LICENCIATURA**
 
-§ 1º Ao orientador de Estágio compete: 
-
-I - Acompanhar a produção acadêmica e científica de relatos da prática pedagógica em Química, solicitando Relatório semestral a cada componente. 
-
-II - Manter o coordenador ciente das ações desenvolvidas pelo estagiário. 
-
-III - Proporcionar condições para que o estagiário vivencie o cotidiano do ensino na Educação Básica e/ou espaços não formais. 
-
-177 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-IV - Orientar o estagiário no planejamento e na execução das atividades docentes. 
-
-V - Acompanhar efetivamente as atividades de prática pedagógica e em outras por eles desenvolvidas, sendo necessária a presença do mesmo no campo de Estágio no dia e horário da prática pedagógica em Química do estagiário. 
-
-VI - Indicar as fontes de pesquisas e de consultas necessárias às soluções das dificuldades encontradas. 
-
-VII - Avaliar o desempenho do estagiário conforme critérios estabelecidos. 
-
-VIII - Manter contatos periódicos com a administração e supervisão do Estágio, intervindo sempre que necessário. 
-
-IX - Acompanhar a frequência do estagiário, conforme carga horária estabelecida para o Estágio Curricular Supervisionado. 
-
-X - Cumprir integralmente as normas estabelecidas no regulamento do componente Estágio Curricular Supervisionado do Curso de Licenciatura em Química, bem como em outras normas da Instituição que regulam as atividades do componente Estágio Curricular Supervisionado. 
-
-§ 2º Cada orientador deve orientar no máximo 10 estagiários. 
-
-Art. 8º O supervisor do componente Estágio Curricular Supervisionado é o profissional (co) responsável pelo acompanhamento e supervisão do estagiário, no campo de Estágio, apresentando ou não formação na área de Química. 
-
-§ 1º É necessário que o supervisor esteja presente no campo de Estágio no dia e horário da prática pedagógica em Química do estagiário. 
-
-§ 2º Ao Supervisor de Estágio compete: 
-
-I - Auxiliar o estagiário nas questões técnico-administrativas do campo de Estágio. 
-
-II - Garantir as condições mínimas necessárias para a realização do Estágio. 
-
-III - Manter o coordenador de Estágio informado sobre as ações do estagiário, bem como avaliar essas ações, sempre que solicitado. 
-
-IV - Informar ao coordenador as eventuais modificações no cronograma de atividades do campo de Estágio ou estrutura de funcionamento do mesmo. 
-
-V - Realizar a avaliação das atividades desempenhadas pelo estagiário segundo critérios estabelecidos pelo curso. 
-
-178 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-## **TÍTULO IV** 
-
-## **Das Atribuições do Estagiário** 
-
-Art. 9º O discente deve cumprir as etapas do componente Estágio Curricular Supervisionado conforme o estabelecido nos incisos I e II do Artigo 3º deste regulamento. 
-
-§ 1º Não é permitido ao discente antecipar carga horária do componente Estágio Curricular Supervisionado. 
-
-§ 2º O discente pode propor carga horária excedente, de forma voluntária, para atuação pedagógica, desde que a proposta obedeça às mesmas normas exigidas para carga horária obrigatória. 
-
-## **CAPÍTULO V** 
-
-## **Da Avaliação e Da Promoção** 
-
-Art. 10º A avaliação e a promoção no componente Estágio Curricular Supervisionado ficam condicionada à observância dos seguintes aspectos: 
-
-I - Desempenho nas atividades teórico-práticas promovidas e/ou solicitadas pelo docente orientador. 
-
-II - Desempenho na prática pedagógica. 
-
-III- Apresentação dos planos de aulas e relatórios semanais das atividades desenvolvidas. 
-
-IV - Apresentação do relatório final, segundo normas técnico-científicas previamente estabelecidas. 
-
-Parágrafo único. O docente orientador do componente Estágio Curricular Supervisionado pode estabelecer outros critérios, desde que devidamente registrados e esclarecidos aos discentes. 
-
-Art. 11º Pode fazer parte da avaliação do componente Estágio Curricular Supervisionado as observações feitas pelo docente de classe, pelo docente orientador e pela equipe técnicopedagógica do campo de Estágio. 
-
-Art. 12º Tendo em vista as especificidades didático-pedagógicas do componente Estágio Curricular Supervisionado não há, para o estagiário, revisão de avaliação e realização de avaliação final, bem como não lhe é permitido cursá-la em regime de dependência. 
-
-Art. 13º Cada etapa do componente Estágio Curricular Supervisionado, conforme o disposto no 
-
-179 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-Art. 3º deste regulamento, deve ter três conceitos de avaliação periódica. O conceito final é computado a partir do resultado dos conceitos periódicos. 
-
-Parágrafo único. Os critérios para atribuição dos conceitos são aprovados conforme Portaria nº 120 de 6 de agosto de 2009 (IFPR, 2009), observando o disposto nos Artigos 11, 12 e 13 deste regulamento. 
-
-## **CAPÍTULO VI** 
-
-## **Das Disposições Gerais** 
-
-Art. 14º A carga horária do componente Estágio Curricular Supervisionado atribuída ao docente será igual à carga horária do componente conforme o disposto na estrutura curricular do curso, e o número máximo de 10 discentes por docente poderá ser estendido para 18 discentes por turma. 
-
-§ 1º No caso de abertura de novas turmas, estas somente deverão ocorrer quando o número de discentes matriculados ultrapassar o estipulado acima, com o aval do Colegiado do Curso de Licenciatura em Química. 
-
-§ 2º Cabe ao coordenador de Estágio o encaminhamento da relação nominal dos discentes do componente Estágio Curricular Supervisionado para a Coordenação de Estágio, com o objetivo de atender ao disposto no caput deste artigo. 
-
-Art. 15º Os casos omissos serão resolvidos pelo Colegiado do Curso de Licenciatura em Química. 
-
-180 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-## **TERMO DE COMPROMISSO DE ESTÁGIO OBRIGATÓRIO CURSOS DE LICENCIATURA** 
-
-As partes abaixo qualificadas celebram neste ato o Termo de Compromisso de Estágio conforme a Lei nº 11.788/08. 
+As partes abaixo qualificadas celebram neste ato o Termo de Compromisso de Estágio conforme a Lei nº 11.788/08.
 
 |**DADOS DA INSTITUIÇÃO DE ENSINO – CAMPO DE ESTÁGIO**|**DADOS DA INSTITUIÇÃO DE ENSINO – CAMPO DE ESTÁGIO**|**DADOS DA INSTITUIÇÃO DE ENSINO – CAMPO DE ESTÁGIO**|**DADOS DA INSTITUIÇÃO DE ENSINO – CAMPO DE ESTÁGIO**|**DADOS DA INSTITUIÇÃO DE ENSINO – CAMPO DE ESTÁGIO**|**DADOS DA INSTITUIÇÃO DE ENSINO – CAMPO DE ESTÁGIO**||
 |---|---|---|---|---|---|---|
@@ -4557,727 +3754,637 @@ As partes abaixo qualificadas celebram neste ato o Termo de Compromisso de Está
 ||||||||
 ||/<br>/||||||
 
+o Compromisso em consonância com o Art. 82 da Lei nº 9394/96 – LDB, Art. 1  da Lei nº 11.788/08 mediante as seguintes cláusulas e condições:
 
+**CLÁUSULA PRIMEIRA** As atividades a serem desenvolvidas durante o Estágio constam de programação acordada entre as partes, Plano de Atividades em anexo- e terão por finalidade propiciar ao Estudante uma experiência acadêmico-profissional em um campo de trabalho determinado, visando: a) o aprimoramento técnicocientífico em sua formação; b) a maior proximidade do aluno, com as condições reais de trabalho, por intermédio de práticas afins com a natureza e especificidade da área definida nos projetos políticos pedagógicos de cada curso;
 
-o Compromisso em consonância com o Art. 82 da Lei nº 9394/96 – LDB, Art. 1  da Lei nº 11.788/08 mediante as seguintes cláusulas e condições: 
+**CLÁUSULA SEGUNDA O presente estágio somente poderá ser iniciado após assinatura das partes envolvidas, não sendo reconhecido ou validada com DATA RETROATIVA;**
 
-**CLÁUSULA PRIMEIRA** As atividades a serem desenvolvidas durante o Estágio constam de programação acordada entre as partes, Plano de Atividades em anexo- e terão por finalidade propiciar ao Estudante uma experiência acadêmico-profissional em um campo de trabalho determinado, visando: a) o aprimoramento técnicocientífico em sua formação; b) a maior proximidade do aluno, com as condições reais de trabalho, por intermédio de práticas afins com a natureza e especificidade da área definida nos projetos políticos pedagógicos de cada curso; 
+**CLÁUSULA  TERCEIRA** O  estágio  será  desenvolvido  no  período  de /    / a /    / , no horário das     às     hs, ser prorrogado, através de emissão de Termo Aditivo;
 
-**CLÁUSULA SEGUNDA O presente estágio somente poderá ser iniciado após assinatura das partes envolvidas, não sendo reconhecido ou validada com DATA RETROATIVA;** 
+**CLÁUSULA QUARTA** Em caso do presente estágio ser prorrogado, o preenchimento e a assinatura do Termo Aditivo deverão ser providenciados antes da data de encerramento, contida na Cláusula Terceira neste Termo de Compromisso;
 
-**CLÁUSULA  TERCEIRA** O  estágio  será  desenvolvido  no  período  de /    / a /    / , no horário das     às     hs, ser prorrogado, através de emissão de Termo Aditivo; 
+**CLÁUSULA QUINTA** Na vigência deste Termo de Compromisso o Estudante será protegido contra Acidentes Pessoais,  providenciado  pela  IFPR  e  representado  pela  Apólice  n° da  Companhia
 
-**CLÁUSULA QUARTA** Em caso do presente estágio ser prorrogado, o preenchimento e a assinatura do Termo Aditivo deverão ser providenciados antes da data de encerramento, contida na Cláusula Terceira neste Termo de Compromisso; 
+**CLÁUSULA SEXTA** Nos termos do Art. 3° da Lei n° 11.788/08, o Estudante não terá, para quaisquer efeitos, vínculo empregatício com a Parte Concedente;
 
-**CLÁUSULA QUINTA** Na vigência deste Termo de Compromisso o Estudante será protegido contra Acidentes Pessoais,  providenciado  pela  IFPR  e  representado  pela  Apólice  n° da  Companhia 
+**CLÁUSULA SÉTIMA** Constituem motivo para interrupção automática da vigência do presente Termo de Compromisso de Estágio:
 
-**CLÁUSULA SEXTA** Nos termos do Art. 3° da Lei n° 11.788/08, o Estudante não terá, para quaisquer efeitos, vínculo empregatício com a Parte Concedente; 
+- Conclusão ou abandono do curso e o trancamento de matrícula;
 
-**CLÁUSULA SÉTIMA** Constituem motivo para interrupção automática da vigência do presente Termo de Compromisso de Estágio: 
+- Não cumprimento do convencionado neste Termo de Compromisso.
 
-- Conclusão ou abandono do curso e o trancamento de matrícula; 
+- Solicitação do estudante;
 
-- Não cumprimento do convencionado neste Termo de Compromisso. 
+- Solicitação da parte concedente;
 
-- Solicitação do estudante; 
+- Solicitação da instituição de ensino. **CLÁUSULA OITAVA** : A instituição de ensino indica como orientador do estágio o (a) professor (a) identificado (a) acima, o (a) qual será responsável pelo acompanhamento e avaliação das atividades dos estagiários.
 
-- Solicitação da parte concedente; 
+**CLÁUSULA NONA** : Os estagiários comprometem-se a cumprir fielmente o Plano de Atividades de Estágio, observando as normas disciplinares e de segurança impostas pela concedente **,** bem como a atender às orientações gerais recebidas da mesma, responsabilizando-se por danos advindos de eventual inobservância de tais normas.
 
-181 
+**CLÁUSULA DÉCIMA:** Compete a cada estagiário apresentar periodicamente, em prazo não superior a 06 (seis) meses, à instituição de ensino, relatório das atividades desenvolvidas, de acordo com o estabelecido no plano de estágio, com vista obrigatória da concedente.
 
-**==> picture [472 x 55] intentionally omitted <==**
+**CLÁUSULA DÉCIMA PRIMEIRA:** a concedente assegura aos estagiários, conforme o artigo 13 da Lei Federal nº 11.788/2008, período de recesso de 30 (trinta) dias, caso o estágio tenha duração igual ou superior a 01 (um) ano, o qual será gozado preferencialmente durante suas férias escolares. Este recesso será proporcional nos casos em que o período de estágio seja inferior a 01 (um) ano.
 
-- Solicitação da instituição de ensino. **CLÁUSULA OITAVA** : A instituição de ensino indica como orientador do estágio o (a) professor (a) identificado (a) acima, o (a) qual será responsável pelo acompanhamento e avaliação das atividades dos estagiários. 
+**CLÁUSULA DÉCIMA SEGUNDA:** À concedente cabe oferecer condições físicas e materiais indispensáveis ao desempenho dos estagiários, controlando sua frequência, exercendo supervisão adequada, comunicando à instituição de ensino qualquer irregularidade no estágio.
 
-**CLÁUSULA NONA** : Os estagiários comprometem-se a cumprir fielmente o Plano de Atividades de Estágio, observando as normas disciplinares e de segurança impostas pela concedente **,** bem como a atender às orientações gerais recebidas da mesma, responsabilizando-se por danos advindos de eventual inobservância de tais normas. 
+**CLÁUSULA DÉCIMA TERCEIRA:** Ao final do estágio a concedente fornecerá aos estagiários uma Declaração de Atividades, a fim de que os (as) mesmos (as) possam comprovar a sua experiência.
 
-**CLÁUSULA DÉCIMA:** Compete a cada estagiário apresentar periodicamente, em prazo não superior a 06 (seis) meses, à instituição de ensino, relatório das atividades desenvolvidas, de acordo com o estabelecido no plano de estágio, com vista obrigatória da concedente. 
+**CLÁUSULA DÉCIMA QUARTA** : O presente instrumento poderá ser alterado ou rescindido de comum acordo entre as partes ou unilateralmente, mediante prévia comunicação de uma das partes a outra, com antecedência mínima de 05 (cinco) dias úteis, ou ainda por descumprimento de quaisquer de suas cláusulas, cabendo à parte que der causa à inadimplência arcar com os prejuízos dela advindos. Em caso de conclusão do curso, abandono ou trancamento de matrícula no curso pelo estagiário, sua exclusão do presente termo será automática.
 
-**CLÁUSULA DÉCIMA PRIMEIRA:** a concedente assegura aos estagiários, conforme o artigo 13 da Lei Federal nº 11.788/2008, período de recesso de 30 (trinta) dias, caso o estágio tenha duração igual ou superior a 01 (um) ano, o qual será gozado preferencialmente durante suas férias escolares. Este recesso será proporcional nos casos em que o período de estágio seja inferior a 01 (um) ano. 
+**CLÁUSULA DÉCIMA QUINTA** : As partes celebrantes deste Termo de Compromisso e Plano de Atividades de Estágio declaram pleno conhecimento dos termos da Lei Federal nº 11.788/2008, comprometendo-se ao seu fiel cumprimento.
 
-**CLÁUSULA DÉCIMA SEGUNDA:** À concedente cabe oferecer condições físicas e materiais indispensáveis ao desempenho dos estagiários, controlando sua frequência, exercendo supervisão adequada, comunicando à instituição de ensino qualquer irregularidade no estágio. 
+**CLÁUSULA DÉCIMA SEXTA:** Fica eleito o Foro da Comarca de Pitanga-PR para dirimir questões resultantes do presente Termo de Compromisso e Plano de Atividades de Estágio, renunciando as partes a qualquer outro, por mais privilegiado que seja.
 
-**CLÁUSULA DÉCIMA TERCEIRA:** Ao final do estágio a concedente fornecerá aos estagiários uma Declaração de Atividades, a fim de que os (as) mesmos (as) possam comprovar a sua experiência. 
+E, por estar de inteiro e comum acordo com as condições deste Termo de Compromisso, as partes assinam em 04 (quatro) vias de igual teor.
 
-**CLÁUSULA DÉCIMA QUARTA** : O presente instrumento poderá ser alterado ou rescindido de comum acordo entre as partes ou unilateralmente, mediante prévia comunicação de uma das partes a outra, com antecedência mínima de 05 (cinco) dias úteis, ou ainda por descumprimento de quaisquer de suas cláusulas, cabendo à parte que der causa à inadimplência arcar com os prejuízos dela advindos. Em caso de conclusão do curso, abandono ou trancamento de matrícula no curso pelo estagiário, sua exclusão do presente termo será automática. 
+, de de
 
-**CLÁUSULA DÉCIMA QUINTA** : As partes celebrantes deste Termo de Compromisso e Plano de Atividades de Estágio declaram pleno conhecimento dos termos da Lei Federal nº 11.788/2008, comprometendo-se ao seu fiel cumprimento. 
+UNIDADE CONCEDENTE
 
-**CLÁUSULA DÉCIMA SEXTA:** Fica eleito o Foro da Comarca de Pitanga-PR para dirimir questões resultantes do presente Termo de Compromisso e Plano de Atividades de Estágio, renunciando as partes a qualquer outro, por mais privilegiado que seja. 
+(assinatura e carimbo)
 
-E, por estar de inteiro e comum acordo com as condições deste Termo de Compromisso, as partes assinam em 04 (quatro) vias de igual teor. 
+ESTUDANTE (assinatura)
 
-, de de 
+PROFESSOR ORIENTADOR DE ESTÁGIOS/IFPR (assinatura e carimbo)
 
-UNIDADE CONCEDENTE 
+COORDENADOR DO CURSO – IFPR (assinatura e carimbo)
 
-(assinatura e carimbo) 
+CHEFE DE SEÇÃO DE ESTÁGIOS E RELAÇÕES COMUNITÁRIAS – IFPR (assinatura e carimbo)
 
-ESTUDANTE (assinatura) 
+## **PLANO DE ATIVIDADES DE ESTÁGIO CURRICULAR - LICENCIATURA**
 
-PROFESSOR ORIENTADOR DE ESTÁGIOS/IFPR (assinatura e carimbo) 
+Este PLANO DE ATIVIDADES DE ESTÁGIO é parte integrante do Termo de Compromisso de Estágio, nos termos da Lei nº 11.788, de 25 de setembro de 2008.
 
-COORDENADOR DO CURSO – IFPR (assinatura e carimbo) 
+## **DADOS DO ESTAGIÁRIO**
 
-CHEFE DE SEÇÃO DE ESTÁGIOS E RELAÇÕES COMUNITÁRIAS – IFPR (assinatura e carimbo) 
+**Nome completo** : **Matrícula** :
 
-182 
+**Curso** :
 
-**==> picture [472 x 55] intentionally omitted <==**
+**Turma** :
 
-## **PLANO DE ATIVIDADES DE ESTÁGIO CURRICULAR - LICENCIATURA** 
+**Período** :
 
-Este PLANO DE ATIVIDADES DE ESTÁGIO é parte integrante do Termo de Compromisso de Estágio, nos termos da Lei nº 11.788, de 25 de setembro de 2008. 
+**Turno do curso** :
 
-## **DADOS DO ESTAGIÁRIO** 
+**Telefone** : ( ) **E-mail** : **Professor Orientador** : **Telefone** : ( ) **E-mail** :
 
-**Nome completo** : **Matrícula** : 
+## **DADOS DA CONCEDENTE**
 
-**Curso** : 
+**Razão Social** :
 
-**Turma** : 
+**CNPJ** :
 
-**Período** : 
+## **Ramo de Atividade** :
 
-**Turno do curso** : 
+**Endereço** :
 
-**Telefone** : ( ) **E-mail** : **Professor Orientador** : **Telefone** : ( ) **E-mail** : 
+**Telefone** : ( ) **E-mail** :
 
-## **DADOS DA CONCEDENTE** 
+## **DADOS DO ESTÁGIO**
 
-**Razão Social** : 
+Período de estágio: / / a / / Horário de estágio: : às : Objetivos:
 
-**CNPJ** : 
+Atividades a ser realizadas:
 
-## **Ramo de Atividade** : 
+## **a) Modalidade da Supervisão: Direta**
 
-**Endereço** : 
+**b) Carga Horária Total: horas**
 
-**Telefone** : ( ) **E-mail** : 
+Local:
 
-## **DADOS DO ESTÁGIO** 
+, de de 20
 
-Período de estágio: / / a / / Horário de estágio: : às : Objetivos: 
+Coordenador do Curso
 
-Atividades a ser realizadas: 
+Professor Orientador IFPR
 
-183 
+Orientador na Unidade Concedente
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **APÊNDICE C - REGULAMENTO DE TRABALHO DE CONCLUSÃO DE CURSO**
 
-## **a) Modalidade da Supervisão: Direta** 
+## **CAPÍTULO I**
 
-**b) Carga Horária Total: horas** 
+## **DAS CARACTERÍSTICAS E OBJETIVOS**
 
-Local: 
+Art. 1º O Trabalho de Conclusão de Curso (TCC) é obrigatório para a obtenção do título de Licenciado em Química do Instituto Federal do Paraná _Campus_ Pitanga.
 
-, de de 20 
+Parágrafo único: O TCC será apresentado sob a forma de monografia, independente da natureza teórica ou prática do trabalho desenvolvido pelo discente e será regido pelas normas definidas pela Associação Brasileira de Normas Técnicas (ABNT).
 
-Coordenador do Curso 
+Art. 2º Os objetivos do Trabalho Conclusão de Curso (TCC) são:
 
-Professor Orientador IFPR 
+I - Colocar os discentes em contato com problemas reais na área do curso e/ou áreas afins.
 
-Orientador na Unidade Concedente 
+II - Possibilitar a demonstração, em trabalho acadêmico apropriado, de que o discente desenvolveu habilidade investigativa e criadora, conseguindo aplicar os conhecimentos obtidos na solução de algum problema ou questão real da área.
 
-184 
+III - Propiciar a investigação por meio da pesquisa, como forma sistematizada, disciplinada e formal de resolução de problemas das organizações ligadas às áreas do curso e/ou áreas afins.
 
-**==> picture [472 x 55] intentionally omitted <==**
+IV - Executar projetos que levem ao desenvolvimento de produtos, serviços ou processos para resolução de problemas, no sentido de ampliar a integração entre organizações e o Instituto Federal do Paraná.
 
-## **APÊNDICE C - REGULAMENTO DE TRABALHO DE CONCLUSÃO DE CURSO** 
+V - Intensificar a extensão universitária por meio da resolução de problemas existentes na sociedade.
 
-## **CAPÍTULO I** 
+VI - Aplicar as teorias, conceitos, modelos e metodologias aprendidas durante o curso, na elaboração de trabalhos eficazes.
 
-## **DAS CARACTERÍSTICAS E OBJETIVOS** 
+VII - Familiarizar o discente com o desenvolvimento de trabalhos de pesquisa e de implementação de projetos.
 
-Art. 1º O Trabalho de Conclusão de Curso (TCC) é obrigatório para a obtenção do título de Licenciado em Química do Instituto Federal do Paraná _Campus_ Pitanga. 
+VIII - Desenvolver a proficiência escrita, adequada a relatórios técnicos.
 
-Parágrafo único: O TCC será apresentado sob a forma de monografia, independente da natureza teórica ou prática do trabalho desenvolvido pelo discente e será regido pelas normas definidas pela Associação Brasileira de Normas Técnicas (ABNT). 
+IX - Permitir a síntese e a sistematização de conhecimentos e habilidades desenvolvidos ao longo do curso de graduação.
 
-Art. 2º Os objetivos do Trabalho Conclusão de Curso (TCC) são: 
+X - Proporcionar a construção do conhecimento coletivo.
 
-I - Colocar os discentes em contato com problemas reais na área do curso e/ou áreas afins. 
+XI - Ser instrumento de avaliação e de formação dos discentes dentro dos critérios definidos no projeto pedagógico do curso.
 
-II - Possibilitar a demonstração, em trabalho acadêmico apropriado, de que o discente desenvolveu habilidade investigativa e criadora, conseguindo aplicar os conhecimentos obtidos na solução de algum problema ou questão real da área. 
+Art.3º O TCC deverá ser realizado individualmente.
 
-III - Propiciar a investigação por meio da pesquisa, como forma sistematizada, disciplinada e formal de resolução de problemas das organizações ligadas às áreas do curso e/ou áreas afins. 
+## **CAPÍTULO II**
 
-IV - Executar projetos que levem ao desenvolvimento de produtos, serviços ou processos para resolução de problemas, no sentido de ampliar a integração entre organizações e o Instituto Federal do Paraná. 
+## **DO TEMA DO TCC**
 
-V - Intensificar a extensão universitária por meio da resolução de problemas existentes na sociedade. 
+Art 4º O tema para o TCC deve estar inserido em uma das áreas do curso e/ou áreas afins.
 
-VI - Aplicar as teorias, conceitos, modelos e metodologias aprendidas durante o curso, na elaboração de trabalhos eficazes. 
+## **CAPÍTULO III**
 
-VII - Familiarizar o discente com o desenvolvimento de trabalhos de pesquisa e de implementação de projetos. 
+## **DO VÍNCULO DE ORIENTAÇÃO**
 
-VIII - Desenvolver a proficiência escrita, adequada a relatórios técnicos. 
+Art. 5º A solicitação de vínculo com orientador será protocolada na Secretaria, em até trinta dias após o início do sétimo semestre por meio de formulário específico.
 
-IX - Permitir a síntese e a sistematização de conhecimentos e habilidades desenvolvidos ao longo do curso de graduação. 
+§1º Um documento com as linhas de pesquisa e respectivos orientadores, aos quais os discentes deverão se vincular para o desenvolvimento do TCC será expedido pela Coordenação do curso.
 
-X - Proporcionar a construção do conhecimento coletivo. 
+§2º Ao final do prazo, o coordenador de Curso efetuará análise das indicações de vínculos solicitados pelos discentes e, em até trinta dias homologará análise e informará acerca da designação dos orientadores de cada discente.
 
-185 
+§3º Será permitida a orientação de no máximo sete discentes por docente.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **CAPÍTULO IV**
 
-XI - Ser instrumento de avaliação e de formação dos discentes dentro dos critérios definidos no projeto pedagógico do curso. 
+## **DA APRESENTAÇÃO  DOS TRABALHOS**
 
-Art.3º O TCC deverá ser realizado individualmente. 
+Art. 6º A apresentação do Trabalho de Conclusão de Curso será durante o componente curricular de TCC II e em até trinta dias antes do término do oitavo semestre, mediante recomendação do professor orientador, o discente deverá apresentar seu trabalho, para uma banca de Defesa de Trabalhos Conclusão de Curso, a qual será designada pelo Professor Orientador em data previamente agendada calendário vigente.
 
-## **CAPÍTULO II** 
+Art. 7º Para ser aprovado no TCC, o discente deverá apresentar ao professor orientador o
 
-## **DO TEMA DO TCC** 
+documento que comprove as participações em reuniões com o orientador e outras solicitações pertinentes.
 
-Art 4º O tema para o TCC deve estar inserido em uma das áreas do curso e/ou áreas afins. 
+Art. 8º O conceito final deverá levar em consideração os seguintes critérios:
 
-## **CAPÍTULO III** 
+a) O conceito atribuído pelo professor-orientador com base em relatórios de progresso elaborados pelo mesmo em momentos apropriados e apresentado por meio de folha de avaliação detalhada de acordo com formulário de avaliação.
 
-## **DO VÍNCULO DE ORIENTAÇÃO** 
+b) O conceito atribuído pelo professor orientador referente ao aspecto metodológico da Monografia Final de TCC.
 
-Art. 5º A solicitação de vínculo com orientador será protocolada na Secretaria, em até trinta dias após o início do sétimo semestre por meio de formulário específico. 
+c) O conceito atribuído à defesa do TCC perante a Banca Examinadora durante a Sessão de Defesa. Art. 9º O TCC deverá ser entregue para o professor de TCC II, sob protocolo e autorização do professor Orientador, nos prazos definidos pelo Colegiado de Curso.
 
-§1º Um documento com as linhas de pesquisa e respectivos orientadores, aos quais os discentes deverão se vincular para o desenvolvimento do TCC será expedido pela Coordenação do curso. 
+## **CAPÍTULO V**
 
-§2º Ao final do prazo, o coordenador de Curso efetuará análise das indicações de vínculos solicitados pelos discentes e, em até trinta dias homologará análise e informará acerca da designação dos orientadores de cada discente. 
+## **DO ACOMPANHAMENTO E ORIENTAÇÃO**
 
-§3º Será permitida a orientação de no máximo sete discentes por docente. 
+Art. 10. O acompanhamento dos discentes no TCC dar-se-á pelo professor orientador nos dois últimos semestres do curso com assessoria da Coordenação, observando-se sempre a linha de pesquisa em que será desenvolvido o projeto, a área de atuação e a disponibilidade do professor orientador.
 
-## **CAPÍTULO IV** 
+§ 1º A mudança de vínculo com o orientador deverá ser solicitada pelo discente junto à Coordenação de Curso com a concordância dos professores orientadores, aprovada e comunicada à Coordenação de Curso para registro dentro dos prazos estabelecidos pelo calendário do semestre. § 2º O acompanhamento do TCC será feito por meio de reuniões periódicas, previamente agendadas entre professor orientador e orientando.
 
-## **DA APRESENTAÇÃO  DOS TRABALHOS** 
+§ 3º É obrigatória a participação do discente em pelo menos 75% das reuniões de orientação, sob pena de não ter o trabalho recomendado para a Defesa.
 
-Art. 6º A apresentação do Trabalho de Conclusão de Curso será durante o componente curricular de TCC II e em até trinta dias antes do término do oitavo semestre, mediante recomendação do professor orientador, o discente deverá apresentar seu trabalho, para uma banca de Defesa de Trabalhos Conclusão de Curso, a qual será designada pelo Professor Orientador em data previamente agendada calendário vigente. 
+## **CAPÍTULO VI**
 
-Art. 7º Para ser aprovado no TCC, o discente deverá apresentar ao professor orientador o 
+## **DA AUTORIZAÇÃO PARA DEFESA**
 
-186 
+Art. 11. Durante o oitavo semestre do curso o trabalho desenvolvido por ocasião da qualificação deverá ser avaliado pelo professor Orientador e estar em condições de defesa perante a banca de avaliação.
 
-**==> picture [472 x 55] intentionally omitted <==**
+§ 1º O TCC será qualificado com base em critérios estabelecidos pelo professor orientador sendo que ao final da avaliação serão considerados como autorizados ou não autorizados.
 
-documento que comprove as participações em reuniões com o orientador e outras solicitações pertinentes. 
+§ 2º Os trabalhos considerados não autorizados pelo Professor Orientador deverão ser entregues à Coordenação de Curso ficando o discente obrigado a cursar novamente o componente curricular TCC II.
 
-Art. 8º O conceito final deverá levar em consideração os seguintes critérios: 
+## **CAPÍTULO VII**
 
-a) O conceito atribuído pelo professor-orientador com base em relatórios de progresso elaborados pelo mesmo em momentos apropriados e apresentado por meio de folha de avaliação detalhada de acordo com formulário de avaliação. 
+## **DA DEFESA DO TRABALHO DE CONCLUSÃO DE CURSO**
 
-b) O conceito atribuído pelo professor orientador referente ao aspecto metodológico da Monografia Final de TCC. 
+Art. 12. A defesa do TCC ocorrerá em evento específico, cuja data, horário e local serão informados em edital interno próprio para tal evento e seguindo o calendário vigente.
 
-c) O conceito atribuído à defesa do TCC perante a Banca Examinadora durante a Sessão de Defesa. Art. 9º O TCC deverá ser entregue para o professor de TCC II, sob protocolo e autorização do professor Orientador, nos prazos definidos pelo Colegiado de Curso. 
+§ 1º Para participar da defesa do TCC, o discente deverá entregar, na Secretaria Acadêmica, até a data máxima prevista pelo Colegiado de Curso:
 
-## **CAPÍTULO V** 
+a) Três vias do trabalho, encadernadas em espiral.
 
-## **DO ACOMPANHAMENTO E ORIENTAÇÃO** 
+b) Documentação do orientador, autorizando o trabalho para a defesa.
 
-Art. 10. O acompanhamento dos discentes no TCC dar-se-á pelo professor orientador nos dois últimos semestres do curso com assessoria da Coordenação, observando-se sempre a linha de pesquisa em que será desenvolvido o projeto, a área de atuação e a disponibilidade do professor orientador. 
+§ 2º Quando a trabalho final for entregue em data posterior ao limite definido pelo Colegiado do Curso, a relevância do motivo deve ser avaliada pelo coordenador do curso em conjunto com o Colegiado do Curso, desde que não haja prejuízo para os demais prazos previstos no calendário vigente.
 
-§ 1º A mudança de vínculo com o orientador deverá ser solicitada pelo discente junto à Coordenação de Curso com a concordância dos professores orientadores, aprovada e comunicada à Coordenação de Curso para registro dentro dos prazos estabelecidos pelo calendário do semestre. § 2º O acompanhamento do TCC será feito por meio de reuniões periódicas, previamente agendadas entre professor orientador e orientando. 
+## **CAPÍTULO VIII**
 
-§ 3º É obrigatória a participação do discente em pelo menos 75% das reuniões de orientação, sob pena de não ter o trabalho recomendado para a Defesa. 
+## **DA COMPOSIÇÃO DAS BANCAS DE DEFESA**
 
-## **CAPÍTULO VI** 
+Art. 13. A banca de defesa do TCC será composta por três membros titulares e um membro suplente:
 
-## **DA AUTORIZAÇÃO PARA DEFESA** 
+§ 1º poderão ser membros os professores dos Cursos de Graduação do IFPR, com interesse na área de abrangência da pesquisa, professores de outras Instituições de Ensino Superior, ou ainda por
 
-187 
+profissionais de nível superior que exerçam atividades afins com o tema do TCC, sendo que o professor-orientador é o presidente da banca.
 
-**==> picture [472 x 55] intentionally omitted <==**
+§ 2º Não poderá ser indicado para compor a banca cônjuge, convivente, parente consanguíneo ou afim, em linha reta ou colateral, até segundo grau do discente.
 
-Art. 11. Durante o oitavo semestre do curso o trabalho desenvolvido por ocasião da qualificação deverá ser avaliado pelo professor Orientador e estar em condições de defesa perante a banca de avaliação. 
+§ 3º O Professor Orientador, em conjunto com a Coordenação de Curso, definirá a composição das bancas, respeitando os seguintes critérios:
 
-§ 1º O TCC será qualificado com base em critérios estabelecidos pelo professor orientador sendo que ao final da avaliação serão considerados como autorizados ou não autorizados. 
+a) Equidade do número de indicações de cada componente da banca.
 
-§ 2º Os trabalhos considerados não autorizados pelo Professor Orientador deverão ser entregues à Coordenação de Curso ficando o discente obrigado a cursar novamente o componente curricular TCC II. 
+b) Área de pesquisa e atuação acadêmica do membro da banca.
 
-## **CAPÍTULO VII** 
+c) Interesse e disponibilidade do membro da banca.
 
-## **DA DEFESA DO TRABALHO DE CONCLUSÃO DE CURSO** 
+## **CAPÍTULO IX DA APRESENTAÇÃO E AVALIAÇÃO DO TCC**
 
-Art. 12. A defesa do TCC ocorrerá em evento específico, cuja data, horário e local serão informados em edital interno próprio para tal evento e seguindo o calendário vigente. 
+Art. 14. A defesa do TCC ocorrerá:
 
-§ 1º Para participar da defesa do TCC, o discente deverá entregar, na Secretaria Acadêmica, até a data máxima prevista pelo Colegiado de Curso: 
+a) Com duração de 20 a 30 minutos com tolerância de dez minutos para os discentes apresentarem seu trabalho.
 
-a) Três vias do trabalho, encadernadas em espiral. 
+b) Até 10 (quinze) minutos para cada componente da Banca Examinadora para fazer sua arguição.
 
-b) Documentação do orientador, autorizando o trabalho para a defesa. 
+c) Até 10 (dez) minutos para os discentes responderem a cada um dos examinadores.
 
-§ 2º Quando a trabalho final for entregue em data posterior ao limite definido pelo Colegiado do Curso, a relevância do motivo deve ser avaliada pelo coordenador do curso em conjunto com o Colegiado do Curso, desde que não haja prejuízo para os demais prazos previstos no calendário vigente. 
+Parágrafo único - A duração total da sessão pública de Defesa não pode ser superior a 1h40min (uma hora e quarenta minutos), excluindo a duração da sessão secreta para redação da Ata de Defesa e do parecer da banca examinadora.
 
-## **CAPÍTULO VIII** 
+Art. 15. A atribuição dos conceitos dar-se-á após o encerramento da etapa de arguição, em sessão secreta.
 
-## **DA COMPOSIÇÃO DAS BANCAS DE DEFESA** 
+§ 1º Os conceitos serão individuais por examinador, levando em consideração o texto escrito, a exposição oral e a defesa na arguição pela banca examinadora.
 
-Art. 13. A banca de defesa do TCC será composta por três membros titulares e um membro suplente: 
+§ 2º O conceito final da Sessão de Defesa será decidido pela banca.
 
-§ 1º poderão ser membros os professores dos Cursos de Graduação do IFPR, com interesse na área de abrangência da pesquisa, professores de outras Instituições de Ensino Superior, ou ainda por 
+Art. 16. O discente será aprovado no TCC se obter os conceitos A, B ou C, será considerado reprovado se obter o conceito D.
 
-188 
+**CAPÍTULO X**
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **DA ENTREGA DA VERSÃO FINAL DO TCC**
 
-profissionais de nível superior que exerçam atividades afins com o tema do TCC, sendo que o professor-orientador é o presidente da banca. 
+Art. 17. Até dois dias antes do encerramento do semestre letivo e em consonância com o calendário vigente, o discente deverá entregar na Secretaria Acadêmica, juntamente com o encaminhamento do professor orientador, que declara ter avaliado e incorporado as sugestões da banca examinadora, uma cópia encadernada em capa dura, que será encaminhada à biblioteca e uma cópia em CD-ROM ou DVD ou outro formato digital aprovado pelo colegiado de curso.
 
-§ 2º Não poderá ser indicado para compor a banca cônjuge, convivente, parente consanguíneo ou afim, em linha reta ou colateral, até segundo grau do discente. 
+§ 1º Deverá ser entregue autorização do discente para divulgação do trabalho no site do IFPR.
 
-§ 3º O Professor Orientador, em conjunto com a Coordenação de Curso, definirá a composição das bancas, respeitando os seguintes critérios: 
+§ 2º Antes da entrega da versão final deverá o discente dirigir-se a biblioteca para elaboração da ficha Catalográfica do trabalho final.
 
-a) Equidade do número de indicações de cada componente da banca. 
+§ 3º Caso o discente não entregue a versão final, o mesmo obterá conceito D no componente curricular TCC II.
 
-b) Área de pesquisa e atuação acadêmica do membro da banca. 
+## **CAPÍTULO XI DAS ATRIBUIÇÕES DO COORDENADOR DE CURSO**
 
-c) Interesse e disponibilidade do membro da banca. 
+Art. 18. Compete ao Coordenador de curso:
 
-## **CAPÍTULO IX DA APRESENTAÇÃO E AVALIAÇÃO DO TCC** 
+a) Acompanhar junto à Secretaria Acadêmica os procedimentos necessários aos registros das atividades do TCC.
 
-Art. 14. A defesa do TCC ocorrerá: 
+b) Apoiar os professores orientadores, esclarecendo dúvidas com relação aos regulamentos e procedimentos acadêmicos.
 
-a) Com duração de 20 a 30 minutos com tolerância de dez minutos para os discentes apresentarem seu trabalho. 
+c) Cadastrar semestralmente os docentes interessados em orientar trabalhos com os respectivos interesses e disponibilidades e organizar as pastas de orientação.
 
-b) Até 10 (quinze) minutos para cada componente da Banca Examinadora para fazer sua arguição. 
+d) Estipular prazos para as definições das bancas e suas realizações.
 
-c) Até 10 (dez) minutos para os discentes responderem a cada um dos examinadores. 
+e) Supervisionar a condução de todos os procedimentos necessários para a conclusão dos Trabalhos de Conclusão de Curso e organizar, em conjunto com o Colegiado de Curso, soluções para os casos que surgirem.
 
-Parágrafo único - A duração total da sessão pública de Defesa não pode ser superior a 1h40min (uma hora e quarenta minutos), excluindo a duração da sessão secreta para redação da Ata de Defesa e do parecer da banca examinadora. 
+f) Definir local para disponibilização da versão digital das Versões Revisadas dos Trabalhos Finais.
 
-Art. 15. A atribuição dos conceitos dar-se-á após o encerramento da etapa de arguição, em sessão secreta. 
+## **CAPÍTULO XII**
 
-§ 1º Os conceitos serão individuais por examinador, levando em consideração o texto escrito, a exposição oral e a defesa na arguição pela banca examinadora. 
+## **DAS ATRIBUIÇÕES DO PROFESSOR ORIENTADOR**
 
-§ 2º O conceito final da Sessão de Defesa será decidido pela banca. 
+Art. 19. Compete ao Professor Orientador:
 
-Art. 16. O discente será aprovado no TCC se obter os conceitos A, B ou C, será considerado reprovado se obter o conceito D. 
+a) Definir linhas e sugerir temas de seu interesse, condizentes com o perfil do curso e de seu domínio de conhecimento, para serem analisados e escolhidos pelos discentes.
 
-**CAPÍTULO X** 
+b) Quando solicitado pela coordenação do curso, apresentar e discutir, com os discentes, os temas propostos.
 
-189 
+c) Orientar o discente na elaboração da proposta do TCC, bem como do trabalho final, dentro dos preceitos da conduta ética.
 
-**==> picture [472 x 55] intentionally omitted <==**
+d) Acompanhar o desenvolvimento do TCC.
 
-## **DA ENTREGA DA VERSÃO FINAL DO TCC** 
+e) Avaliar o trabalho escrito e autorizar ou não o envio do mesmo para defesa.
 
-Art. 17. Até dois dias antes do encerramento do semestre letivo e em consonância com o calendário vigente, o discente deverá entregar na Secretaria Acadêmica, juntamente com o encaminhamento do professor orientador, que declara ter avaliado e incorporado as sugestões da banca examinadora, uma cópia encadernada em capa dura, que será encaminhada à biblioteca e uma cópia em CD-ROM ou DVD ou outro formato digital aprovado pelo colegiado de curso. 
+f) Participar da qualificação e da banca de defesa do Trabalho de Conclusão de Curso dos seus orientados.
 
-§ 1º Deverá ser entregue autorização do discente para divulgação do trabalho no site do IFPR. 
+g) Supervisionar a elaboração do Projeto de Pesquisa, da pesquisa em si e das Monografias de Qualificação e Final de seu orientando.
 
-§ 2º Antes da entrega da versão final deverá o discente dirigir-se a biblioteca para elaboração da ficha Catalográfica do trabalho final. 
+h) Observar e respeitar todas as datas limites de entrega de materiais relacionados ao TCC descritos em calendário aprovado pelo Colegiado de Curso.
 
-§ 3º Caso o discente não entregue a versão final, o mesmo obterá conceito D no componente curricular TCC II. 
+i) Aprovar a entrega do Projeto de Pesquisa e Relatórios de seu orientando através de sua assinatura e data.
 
-## **CAPÍTULO XI DAS ATRIBUIÇÕES DO COORDENADOR DE CURSO** 
+j) Analisar e aprovar as versões digitais, impressas, e formulários que o discente deve entregar aos diversos órgãos internos.
 
-Art. 18. Compete ao Coordenador de curso: 
+k) Presidir a Sessão de Defesa dos Trabalhos Finais de seus orientandos.
 
-a) Acompanhar junto à Secretaria Acadêmica os procedimentos necessários aos registros das atividades do TCC. 
+l) Supervisionar se as alterações recomendadas pelos membros da Banca Examinadora foram realizadas pelo discente, após sua apresentação.
 
-b) Apoiar os professores orientadores, esclarecendo dúvidas com relação aos regulamentos e procedimentos acadêmicos. 
+m) Reunir-se com o discente, após a divulgação do resultado da avaliação da Defesa da Monografia Final, para avaliar as considerações emitidas pela banca examinadora e decidir quais serão acatadas e incluídas nas versões seguintes da Monografia.
 
-c) Cadastrar semestralmente os docentes interessados em orientar trabalhos com os respectivos interesses e disponibilidades e organizar as pastas de orientação. 
+n) Assinar as atas e formulários inerentes ao processo de avaliação do TCC.
 
-d) Estipular prazos para as definições das bancas e suas realizações. 
+o) Conferir se os trabalhos elaborados sob sua orientação estão em conformidade com as Normas e Padrões para Normalização de Trabalhos Acadêmicos.
 
-e) Supervisionar a condução de todos os procedimentos necessários para a conclusão dos Trabalhos de Conclusão de Curso e organizar, em conjunto com o Colegiado de Curso, soluções para os casos que surgirem. 
+p) Analisar o mérito, deliberar sobre as incorporações das sugestões feitas por ele e pela banca de defesa e verificar se o discente procedeu às alterações solicitadas.
 
-f) Definir local para disponibilização da versão digital das Versões Revisadas dos Trabalhos Finais. 
+Parágrafo único: A recusa por parte do docente de proceder à orientação de TCC quando solicitado, deverá ser justificada por escrito e encaminhada à coordenação do seu respectivo curso, ficando arquivada em seu prontuário.
 
-## **CAPÍTULO XII** 
+## **CAPÍTULO XIII DAS ATRIBUIÇÕES DO DISCENTE**
 
-190 
+Art. 20. Compete ao discente:
 
-**==> picture [472 x 55] intentionally omitted <==**
+a) Estudar e aplicar as normas técnicas de elaboração de monografia.
 
-## **DAS ATRIBUIÇÕES DO PROFESSOR ORIENTADOR** 
+b) Elaborar proposta de TCC, após escolha do tema e estabelecimento formal do vínculo com o orientador.
 
-Art. 19. Compete ao Professor Orientador: 
+c) Procurar o professor orientador para estabelecimento de vínculo de orientação e discutir, com este, a proposta de Trabalho de Conclusão de Curso.
 
-a) Definir linhas e sugerir temas de seu interesse, condizentes com o perfil do curso e de seu domínio de conhecimento, para serem analisados e escolhidos pelos discentes. 
+d) Comparecer às reuniões agendadas pelo orientador.
 
-b) Quando solicitado pela coordenação do curso, apresentar e discutir, com os discentes, os temas propostos. 
+e) Apresentar o TCC para qualificação do orientador.
 
-c) Orientar o discente na elaboração da proposta do TCC, bem como do trabalho final, dentro dos preceitos da conduta ética. 
+f) Conduzir e executar o TCC, obedecendo às normas definidas neste regulamento e os padrões éticos de respeito a direitos autorais.
 
-d) Acompanhar o desenvolvimento do TCC. 
+g) Redigir e defender o trabalho final.
 
-e) Avaliar o trabalho escrito e autorizar ou não o envio do mesmo para defesa. 
+h) Entregar cópia corrigida do trabalho final.
 
-f) Participar da qualificação e da banca de defesa do Trabalho de Conclusão de Curso dos seus orientados. 
+i) Tomar ciência e cumprir os prazos estabelecidos pelo IFPR e pelo professor orientador.
 
-g) Supervisionar a elaboração do Projeto de Pesquisa, da pesquisa em si e das Monografias de Qualificação e Final de seu orientando. 
+j) Realizar as mudanças e/ou alterações que forem indicadas e/ou propostas pela Banca de Defesa antes do trabalho definitivo.
 
-h) Observar e respeitar todas as datas limites de entrega de materiais relacionados ao TCC descritos em calendário aprovado pelo Colegiado de Curso. 
+k) Elaborar sua pesquisa e produzir todos os relatórios exigidos e entregá-los nos prazos definidos pelo Colegiado do Curso ou por seu professor-orientador.
 
-i) Aprovar a entrega do Projeto de Pesquisa e Relatórios de seu orientando através de sua assinatura e data. 
+l) Elaborar seu TCC de acordo com os padrões estabelecidos e entregá-lo no prazo para a avaliação da Banca Examinadora.
 
-j) Analisar e aprovar as versões digitais, impressas, e formulários que o discente deve entregar aos diversos órgãos internos. 
+m) Elaborar a apresentação de seu TCC e apresentá-la na data e hora marcadas para a Banca Examinadora.
 
-k) Presidir a Sessão de Defesa dos Trabalhos Finais de seus orientandos. 
+n) Providenciar a Ficha Catalográfica de sua monografia junto à Biblioteca, antes da encadernação da Versão Revisada do TCC final.
 
-l) Supervisionar se as alterações recomendadas pelos membros da Banca Examinadora foram realizadas pelo discente, após sua apresentação. 
+o) Entregar cópia de seu TCC Final devidamente encadernado à Secretaria no prazo indicado, sob pena de reversão do resultado.
 
-m) Reunir-se com o discente, após a divulgação do resultado da avaliação da Defesa da Monografia Final, para avaliar as considerações emitidas pela banca examinadora e decidir quais serão acatadas e incluídas nas versões seguintes da Monografia. 
+p) Cadastrar cópia digital de seu TCC em repositório específico, definido pela Coordenação de Curso.
 
-n) Assinar as atas e formulários inerentes ao processo de avaliação do TCC. 
+q) Obedecer a todos os prazos estabelecidos no Calendário Vigente e entregar à Coordenação de Curso e à Secretaria todos os documentos pertinentes solicitados neste regulamento.
 
-o) Conferir se os trabalhos elaborados sob sua orientação estão em conformidade com as Normas e Padrões para Normalização de Trabalhos Acadêmicos. 
+r) Respeitar este regulamento.
 
-191 
+s) Ser ético e respeitar os direitos autorais e comitês de ética.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **CAPÍTULO XIV**
 
-p) Analisar o mérito, deliberar sobre as incorporações das sugestões feitas por ele e pela banca de defesa e verificar se o discente procedeu às alterações solicitadas. 
+## **DAS ATRIBUIÇÕES DOS MEMBROS DA BANCA**
 
-Parágrafo único: A recusa por parte do docente de proceder à orientação de TCC quando solicitado, deverá ser justificada por escrito e encaminhada à coordenação do seu respectivo curso, ficando arquivada em seu prontuário. 
+Art. 21. Compete ao Professor membro da Banca Examinadora:
 
-## **CAPÍTULO XIII DAS ATRIBUIÇÕES DO DISCENTE** 
+a) Corrigir o TCC a ele submetido para avaliação e elaborar seu parecer.
 
-Art. 20. Compete ao discente: 
+b) Em caso de impedimento para comparecer à Sessão de Defesa, avisar com o máximo de antecedência ao professor-orientador e ao coordenador do curso para que o Suplente possa substituí-lo.
 
-a) Estudar e aplicar as normas técnicas de elaboração de monografia. 
+c) Assinar as atas e formulários inerentes ao processo de avaliação do TCC.
 
-b) Elaborar proposta de TCC, após escolha do tema e estabelecimento formal do vínculo com o orientador. 
+## **CAPÍTULO XV**
 
-c) Procurar o professor orientador para estabelecimento de vínculo de orientação e discutir, com este, a proposta de Trabalho de Conclusão de Curso. 
+## **DAS ATRIBUIÇÕES DA BIBLIOTECA DO IFPR**
 
-d) Comparecer às reuniões agendadas pelo orientador. 
+Art. 22. Compete à Biblioteca:
 
-e) Apresentar o TCC para qualificação do orientador. 
+a) Elaborar a Ficha Catalográfica para a Versão Revisada do Trabalho de Conclusão de Curso.
 
-f) Conduzir e executar o TCC, obedecendo às normas definidas neste regulamento e os padrões éticos de respeito a direitos autorais. 
+b) Realizar o cadastramento da cópia da Versão Revisada do Trabalho de Conclusão de Curso Final em seu acervo.
 
-g) Redigir e defender o trabalho final. 
+## **CAPÍTULO XVI**
 
-h) Entregar cópia corrigida do trabalho final. 
+## **DAS DISPOSIÇÕES GERAIS**
 
-i) Tomar ciência e cumprir os prazos estabelecidos pelo IFPR e pelo professor orientador. 
+Art. 23. Os formulários e demais documentos citados neste regulamento serão elaborados pela Coordenação de Curso.
 
-j) Realizar as mudanças e/ou alterações que forem indicadas e/ou propostas pela Banca de Defesa antes do trabalho definitivo. 
+Art. 24. Os casos omissos neste regulamento serão resolvidos pelo Coordenador de Curso assessorado pelo Colegiado de Curso.
 
-k) Elaborar sua pesquisa e produzir todos os relatórios exigidos e entregá-los nos prazos definidos pelo Colegiado do Curso ou por seu professor-orientador. 
+## **APÊNDICE D - REGULAMENTO DE ATIVIDADES COMPLEMENTARES**
 
-l) Elaborar seu TCC de acordo com os padrões estabelecidos e entregá-lo no prazo para a avaliação da Banca Examinadora. 
+## **CAPÍTULO I**
 
-m) Elaborar a apresentação de seu TCC e apresentá-la na data e hora marcadas para a Banca Examinadora. 
+## **DAS FINALIDADES**
 
-192 
+Art. 1º As Atividades Complementares se constituem em parte integrante do currículo do curso de Licenciatura em Química.
 
-**==> picture [472 x 55] intentionally omitted <==**
+§1º O Regulamento das Atividades Complementares do Curso de Licenciatura em Química é regido pelas Resoluções CNE/CP Nº 2/2015 (BRASIL, 2015b) e CONSUP/IFPR Nº 19/2017 (IFPR, 2017b).
 
-n) Providenciar a Ficha Catalográfica de sua monografia junto à Biblioteca, antes da encadernação da Versão Revisada do TCC final. 
+§2º As Atividades Complementares são desenvolvidas dentro do prazo de conclusão do curso, sendo componente curricular obrigatório para a graduação do discente.
 
-o) Entregar cópia de seu TCC Final devidamente encadernado à Secretaria no prazo indicado, sob pena de reversão do resultado. 
+§3º Caberá ao discente participar de Atividades Complementares que privilegiem a construção de conhecimentos sociais, humanos, culturais e profissionais. Tais atividades serão adicionais às demais atividades acadêmicas e deverão contemplar os grupos de atividades descritos neste Regulamento.
 
-p) Cadastrar cópia digital de seu TCC em repositório específico, definido pela Coordenação de Curso. 
+Art. 2º As Atividades Complementares têm por objetivo enriquecer o processo de ensino e aprendizagem, privilegiando:
 
-q) Obedecer a todos os prazos estabelecidos no Calendário Vigente e entregar à Coordenação de Curso e à Secretaria todos os documentos pertinentes solicitados neste regulamento. 
+I. Atividades de complementação da formação social, humana e cultural.
 
-r) Respeitar este regulamento. 
+II. Atividades de cunho comunitário e de interesse coletivo.
 
-s) Ser ético e respeitar os direitos autorais e comitês de ética. 
+III. Atividades de iniciação científica, tecnológica e de formação profissional.
 
-## **CAPÍTULO XIV** 
+## **CAPÍTULO II**
 
-## **DAS ATRIBUIÇÕES DOS MEMBROS DA BANCA** 
+## **DO LOCAL E DA REALIZAÇÃO**
 
-Art. 21. Compete ao Professor membro da Banca Examinadora: 
+Art. 3º As Atividades Complementares poderão ser desenvolvidas no próprio IFPR ou em organizações públicas e privadas, que propiciem a complementação da formação do discente, assegurando o alcance dos objetivos previstos nos Artigos 1º e 2º deste Regulamento.
 
-a) Corrigir o TCC a ele submetido para avaliação e elaborar seu parecer. 
+Parágrafo único - As Atividades Complementares deverão ser realizadas fora do horário das aulas da graduação, não sendo justificativa para faltas em outras disciplinas/unidades curriculares.
 
-b) Em caso de impedimento para comparecer à Sessão de Defesa, avisar com o máximo de antecedência ao professor-orientador e ao coordenador do curso para que o Suplente possa substituí-lo. 
+## **CAPÍTULO III SEÇÃO I DAS ATRIBUIÇÕES**
 
-c) Assinar as atas e formulários inerentes ao processo de avaliação do TCC. 
+Art. 4º Ao Coordenador do Curso compete:
 
-## **CAPÍTULO XV** 
+I. Indicar, junto ao Colegiado do Curso, o discente responsável por coordenar as ações das Atividades Complementares.
 
-## **DAS ATRIBUIÇÕES DA BIBLIOTECA DO IFPR** 
+II. Propiciar condições para o processo de avaliação e acompanhamento das Atividades Complementares.
 
-Art. 22. Compete à Biblioteca: 
+III. Supervisionar o desenvolvimento das Atividades Complementares.
 
-a) Elaborar a Ficha Catalográfica para a Versão Revisada do Trabalho de Conclusão de Curso. 
+IV. Definir, junto ao Colegiado do Curso, para as atividades relacionadas no artigo 13, procedimentos de avaliação e pontuação para avaliação de Atividades Complementares em consonância com a PPC do curso de Licenciatura em Química.
 
-b) Realizar o cadastramento da cópia da Versão Revisada do Trabalho de Conclusão de Curso Final em seu acervo. 
+V. Avaliar, junto ao Colegiado do Curso, as Atividades Complementares não previstas neste Regulamento.
 
-## **CAPÍTULO XVI** 
+## **SEÇÃO II DO COLEGIADO DO CURSO**
 
-193 
+Art. 5º - Ao Colegiado do Curso compete:
 
-**==> picture [472 x 55] intentionally omitted <==**
+I. Propor ao Coordenador do Curso, para as atividades relacionadas no artigo 13, procedimentos de avaliação e pontuação para avaliação de Atividades Complementares, em consonância com a PPC do curso de Licenciatura em Química.
 
-## **DAS DISPOSIÇÕES GERAIS** 
+II. Propor ao Coordenador do Curso atividades de enriquecimento curricular que poderão ser consideradas Atividades Complementares, em consonância com a PPC de Licenciatura em Química.
 
-Art. 23. Os formulários e demais documentos citados neste regulamento serão elaborados pela Coordenação de Curso. 
+III. Propor ao Coordenador do Curso a avaliação das Atividades Complementares não previstas neste Regulamento.
 
-Art. 24. Os casos omissos neste regulamento serão resolvidos pelo Coordenador de Curso assessorado pelo Colegiado de Curso. 
+## **SEÇÃO III DO DOCENTE RESPONSÁVEL**
 
-194 
+Art. 6º - Ao docente responsável pelas Atividades Complementares, compete:
 
-**==> picture [472 x 55] intentionally omitted <==**
+I. Analisar e validar a documentação das Atividades Complementares apresentadas pelo discente, levando em consideração este Regulamento.
 
-## **APÊNDICE D - REGULAMENTO DE ATIVIDADES COMPLEMENTARES** 
+II. Avaliar e pontuar as Atividades Complementares desenvolvidas pelo discente, de acordo com os critérios estabelecidos, levando em consideração a documentação apresentada.
 
-## **CAPÍTULO I** 
+III. Orientar o discente quanto à pontuação e aos procedimentos relativos às Atividades Complementares.
 
-## **DAS FINALIDADES** 
+IV. Fixar e divulgar locais, datas e horários para atendimento aos discentes.
 
-Art. 1º As Atividades Complementares se constituem em parte integrante do currículo do curso de Licenciatura em Química. 
+V. Registrar as Atividades Complementares desenvolvidas pelo discente, bem como os procedimentos administrativos inerentes a essa atividade.
 
-§1º O Regulamento das Atividades Complementares do Curso de Licenciatura em Química é regido pelas Resoluções CNE/CP Nº 2/2015 (BRASIL, 2015b) e CONSUP/IFPR Nº 19/2017 (IFPR, 2017b). 
+VI. Encaminhar ao órgão de Registros Acadêmicos, o resultado da matrícula e da avaliação das Atividades Complementares.
 
-§2º As Atividades Complementares são desenvolvidas dentro do prazo de conclusão do curso, sendo componente curricular obrigatório para a graduação do discente. 
+VII. Participar das reuniões necessárias para a operacionalização das ações referentes às Atividades Complementares.
 
-§3º Caberá ao discente participar de Atividades Complementares que privilegiem a construção de conhecimentos sociais, humanos, culturais e profissionais. Tais atividades serão adicionais às demais atividades acadêmicas e deverão contemplar os grupos de atividades descritos neste Regulamento. 
+## **SEÇÃO IV DO DISCENTE**
 
-Art. 2º As Atividades Complementares têm por objetivo enriquecer o processo de ensino e aprendizagem, privilegiando: 
+Art. 7º - Aos discentes compete:
 
-I. Atividades de complementação da formação social, humana e cultural. 
+I. Informar-se sobre o Regulamento e as atividades oferecidas dentro ou fora do IFPR/Pitanga que propiciem pontuações para Atividades Complementares.
 
-II. Atividades de cunho comunitário e de interesse coletivo. 
+II. Inscrever-se e participar efetivamente das atividades.
 
-III. Atividades de iniciação científica, tecnológica e de formação profissional. 
+III. Solicitar a avaliação em Atividades Complementares, conforme prevê este Regulamento.
 
-## **CAPÍTULO II** 
+IV. Providenciar a documentação comprobatória, relativa à sua participação efetiva nas atividades realizadas.
 
-## **DO LOCAL E DA REALIZAÇÃO** 
+V. Entregar a documentação necessária para a pontuação e a avaliação das Atividades Complementares até a data limite estabelecida no Calendário Acadêmico.
 
-Art. 3º As Atividades Complementares poderão ser desenvolvidas no próprio IFPR ou em organizações públicas e privadas, que propiciem a complementação da formação do discente, assegurando o alcance dos objetivos previstos nos Artigos 1º e 2º deste Regulamento. 
+VI. Arquivar a documentação comprobatória das Atividades Complementares e apresentá-la sempre que solicitada.
 
-Parágrafo único - As Atividades Complementares deverão ser realizadas fora do horário das aulas da graduação, não sendo justificativa para faltas em outras disciplinas/unidades curriculares. 
+VII. Retirar a documentação apresentada junto ao docente responsável em até 60 dias corridos após a publicação do resultado, a documentação não retirada no prazo estabelecido será destruída.
 
-195 
+§1º A documentação a ser apresentada deverá ser devidamente legitimada pela Instituição emitente, contendo carimbo e assinatura ou outra forma de avaliação e especificação de carga horária, período de execução e descrição da atividade.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **CAPÍTULO IV DO PROCESSO DE MATRÍCULA**
 
-## **CAPÍTULO III SEÇÃO I DAS ATRIBUIÇÕES** 
+Art. 8º O discente deverá protocolar junto ao professor responsável a entrega da documentação comprobatória para avaliação em Atividades Complementares, no momento que julgar ter os pontos necessários para avaliação.
 
-Art. 4º Ao Coordenador do Curso compete: 
+§1º A documentação comprobatória deverá ser entregue até a data limite prevista em Calendário Acadêmico.
 
-I. Indicar, junto ao Colegiado do Curso, o discente responsável por coordenar as ações das Atividades Complementares. 
+§2º Caso o discente complete o número mínimo de pontos exigido para aprovação em Atividades Complementares, a matrícula será realizada, sendo o discente considerado aprovado.
 
-II. Propiciar condições para o processo de avaliação e acompanhamento das Atividades Complementares. 
+§3º Caso o discente não complete o número mínimo de pontos exigido para aprovação em Atividades Complementares, a matrícula não será realizada.
 
-III. Supervisionar o desenvolvimento das Atividades Complementares. 
+§4º Caso o discente tenha como único requisito faltante para conclusão do curso as Atividades Complementares e não complete o número mínimo de pontos exigido para aprovação, a matrícula será realizada e o discente será considerado reprovado.
 
-IV. Definir, junto ao Colegiado do Curso, para as atividades relacionadas no artigo 13, procedimentos de avaliação e pontuação para avaliação de Atividades Complementares em consonância com a PPC do curso de Licenciatura em Química. 
+Art. 9º A matrícula e a avaliação em Atividades Complementares deverão ser realizadas até a data limite para lançamento de conceitos estabelecidos no Calendário Acadêmico.
 
-V. Avaliar, junto ao Colegiado do Curso, as Atividades Complementares não previstas neste Regulamento. 
+Art. 10 Não será aceita matrícula em enriquecimento curricular em Atividades Complementares. Art. 11 Não haverá dispensa ou convalidação das Atividades Complementares.
 
-## **SEÇÃO II DO COLEGIADO DO CURSO** 
+## **CAPÍTULO V**
 
-Art. 5º - Ao Colegiado do Curso compete: 
+## **DA AVALIAÇÃO DAS ATIVIDADES COMPLEMENTARES**
 
-I. Propor ao Coordenador do Curso, para as atividades relacionadas no artigo 13, procedimentos de avaliação e pontuação para avaliação de Atividades Complementares, em consonância com a PPC do curso de Licenciatura em Química. 
+Art. 12 Na avaliação das Atividades Complementares, desenvolvidas pelo discente, serão considerados:
 
-II. Propor ao Coordenador do Curso atividades de enriquecimento curricular que poderão ser consideradas Atividades Complementares, em consonância com a PPC de Licenciatura em Química. 
+I. A compatibilidade e a relevância das atividades desenvolvidas, de acordo com o Regulamento, e os objetivos do curso em que o discente estiver matriculado.
 
-III. Propor ao Coordenador do Curso a avaliação das Atividades Complementares não previstas neste Regulamento. 
+II. O total de horas dedicadas à atividade. Parágrafo único - Somente será considerada, para efeito de pontuação, a participação em atividades desenvolvidas a partir do ingresso do discente no Curso. Art. 13 - Poderão ser validadas como Atividades Complementares:
 
-196 
+Grupo 1 - Atividades de complementação da formação social, humana e cultural:
 
-**==> picture [472 x 55] intentionally omitted <==**
+I. Atividades esportivas - participação nas atividades esportivas.
 
-## **SEÇÃO III DO DOCENTE RESPONSÁVEL** 
+II. Cursos de língua estrangeira – participação com aproveitamento em cursos de língua estrangeira. III. Participação em atividades artísticas e culturais, tais como: banda marcial, camerata de sopro, teatro, coral, radioamadorismo e outras.
 
-Art. 6º - Ao docente responsável pelas Atividades Complementares, compete: 
+IV. Participação efetiva na organização de exposições e seminários de caráter artístico ou cultural. V. Participação como expositor em exposição artística ou cultural.
 
-I. Analisar e validar a documentação das Atividades Complementares apresentadas pelo discente, levando em consideração este Regulamento. 
+Grupo 2 - Atividades de cunho comunitário e de interesse coletivo:
 
-II. Avaliar e pontuar as Atividades Complementares desenvolvidas pelo discente, de acordo com os critérios estabelecidos, levando em consideração a documentação apresentada. 
+I. Participação efetiva em Diretórios e Centros Acadêmicos, Entidades de Classe, Conselhos e Colegiados internos à Instituição.
 
-III. Orientar o discente quanto à pontuação e aos procedimentos relativos às Atividades Complementares. 
+II. Participação efetiva em trabalho voluntário, atividades comunitárias, associações de bairros, brigadas de incêndio e associações escolares.
 
-IV. Fixar e divulgar locais, datas e horários para atendimento aos discentes. 
+III. Participação em atividades beneficentes.
 
-V. Registrar as Atividades Complementares desenvolvidas pelo discente, bem como os procedimentos administrativos inerentes a essa atividade. 
+IV. Atuação como instrutor em palestras técnicas, seminários, cursos da área específica, desde que não remunerados e de interesse da sociedade.
 
-VI. Encaminhar ao órgão de Registros Acadêmicos, o resultado da matrícula e da avaliação das Atividades Complementares. 
+V. Engajamento como docente não remunerado em cursos preparatórios e de reforço escolar. VI. Participação em projetos de extensão, não remunerados, e de interesse social. Grupo 3 - Atividades de iniciação científica, tecnológica e de formação profissional na área do curso de Licenciatura em Química:
 
-VII. Participar das reuniões necessárias para a operacionalização das ações referentes às Atividades Complementares. 
+I. Participação em cursos de fundamento científico ou de gestão.
 
-## **SEÇÃO IV DO DISCENTE** 
+II. Participação em palestras, congressos e seminários técnico-científicos.
 
-Art. 7º - Aos discentes compete: 
+III. Participação como apresentador de trabalhos em palestras, congressos e seminários técnicocientíficos.
 
-I. Informar-se sobre o Regulamento e as atividades oferecidas dentro ou fora do IFPR/Pitanga que propiciem pontuações para Atividades Complementares. 
+IV. Participação em projetos de pesquisa, inovação e extensão.
 
-II. Inscrever-se e participar efetivamente das atividades. 
+V. Participação como expositor em exposições técnico-científicas.
 
-III. Solicitar a avaliação em Atividades Complementares, conforme prevê este Regulamento. 
+VI. Participação efetiva na organização de exposições e seminários de caráter acadêmico.
 
-IV. Providenciar a documentação comprobatória, relativa à sua participação efetiva nas atividades realizadas. 
+VII. Publicações em periódicos.
 
-V. Entregar a documentação necessária para a pontuação e a avaliação das Atividades Complementares até a data limite estabelecida no Calendário Acadêmico. 
+VIII. Publicações em anais de eventos técnico-científicos ou em periódicos científicos de abrangência local, regional, nacional ou internacional.
 
-197 
+IX. Estágio não obrigatório.
 
-**==> picture [472 x 55] intentionally omitted <==**
+X. Trabalho como empreendedor na área do curso.
 
-VI. Arquivar a documentação comprobatória das Atividades Complementares e apresentá-la sempre que solicitada. 
+XI. Monitorias na área do curso.
 
-VII. Retirar a documentação apresentada junto ao docente responsável em até 60 dias corridos após a publicação do resultado, a documentação não retirada no prazo estabelecido será destruída. 
+XII. Participação em visitas técnicas na área do curso.
 
-§1º A documentação a ser apresentada deverá ser devidamente legitimada pela Instituição emitente, contendo carimbo e assinatura ou outra forma de avaliação e especificação de carga horária, período de execução e descrição da atividade. 
+XIII. Participação em projetos multidisciplinares ou interdisciplinares.
 
-## **CAPÍTULO IV DO PROCESSO DE MATRÍCULA** 
+§1º Os projetos multidisciplinares ou interdisciplinares referem-se àqueles de característica opcional por parte do discente, não previstos no currículo do curso.
 
-Art. 8º O discente deverá protocolar junto ao professor responsável a entrega da documentação comprobatória para avaliação em Atividades Complementares, no momento que julgar ter os pontos necessários para avaliação. 
+## **CAPÍTULO VI DA PONTUAÇÃO**
 
-§1º A documentação comprobatória deverá ser entregue até a data limite prevista em Calendário Acadêmico. 
+Art. 14 As Atividades Complementares serão avaliadas, segundo a carga horária ou por participação efetiva nas atividades, atendendo ao disposto no parágrafo 1º do Art. 7º deste Regulamento.
 
-§2º Caso o discente complete o número mínimo de pontos exigido para aprovação em Atividades Complementares, a matrícula será realizada, sendo o discente considerado aprovado. 
+Parágrafo único - As atividades que se enquadram em mais de um item serão pontuadas por aquele que propiciar maior pontuação.
 
-§3º Caso o discente não complete o número mínimo de pontos exigido para aprovação em Atividades Complementares, a matrícula não será realizada. 
+Art. 15 O discente deverá participar de atividades que contemplem os 3 Grupos listados no Artigo 13 deste Regulamento.
 
-§4º Caso o discente tenha como único requisito faltante para conclusão do curso as Atividades Complementares e não complete o número mínimo de pontos exigido para aprovação, a matrícula será realizada e o discente será considerado reprovado. 
+Art. 16 – O discente poderá integralizar:
 
-Art. 9º A matrícula e a avaliação em Atividades Complementares deverão ser realizadas até a data limite para lançamento de conceitos estabelecidos no Calendário Acadêmico. 
+- I. 30 pontos no grupo 1.
 
-Art. 10 Não será aceita matrícula em enriquecimento curricular em Atividades Complementares. Art. 11 Não haverá dispensa ou convalidação das Atividades Complementares. 
+II. 30 pontos no grupo 2.
 
-## **CAPÍTULO V** 
+- III. 40 pontos no grupo 3.
 
-## **DA AVALIAÇÃO DAS ATIVIDADES COMPLEMENTARES** 
+Art. 17 - Caberá ao Colegiado de Curso propor ao Coordenador do Curso a pontuação dos itens de cada Grupo, respeitados os Artigos 15 e 16.
 
-198 
+Parágrafo único - O Apêndice 2 deste Regulamento será utilizado como referência para definição dos pontos em cada item.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **CAPÍTULO VII DA AVALIAÇÃO**
 
-Art. 12 Na avaliação das Atividades Complementares, desenvolvidas pelo discente, serão considerados: 
+Art. 18 - Será considerado aprovado o discente que, na avaliação, obtiver 100 pontos.
 
-I. A compatibilidade e a relevância das atividades desenvolvidas, de acordo com o Regulamento, e os objetivos do curso em que o discente estiver matriculado. 
+Parágrafo único - Para fins de registro acadêmico constará no histórico escolar do discente apenas o conceito “aprovado” ou “reprovado” em Atividades Complementares, não sendo registrado o número de pontos que o discente conseguir para obtenção de tal resultado.
 
-II. O total de horas dedicadas à atividade. Parágrafo único - Somente será considerada, para efeito de pontuação, a participação em atividades desenvolvidas a partir do ingresso do discente no Curso. Art. 13 - Poderão ser validadas como Atividades Complementares: 
+## **CAPÍTULO VIII DAS DISPOSIÇÕES GERAIS**
 
-Grupo 1 - Atividades de complementação da formação social, humana e cultural: 
+Art. 19 - Os casos omissos neste Regulamento serão tratados pelo Colegiado do Curso.
 
-I. Atividades esportivas - participação nas atividades esportivas. 
+## **APÊNDICE 2 PONTUAÇÃO SUGERIDA PARA AS ATIVIDADES COMPLEMENTARES**
 
-II. Cursos de língua estrangeira – participação com aproveitamento em cursos de língua estrangeira. III. Participação em atividades artísticas e culturais, tais como: banda marcial, camerata de sopro, teatro, coral, radioamadorismo e outras. 
+1) Serão atribuídos até 5 (cinco) pontos por semestre por participação nas atividades esportivas em Instituições, de acordo com o Art. 3º deste Regulamento.
 
-IV. Participação efetiva na organização de exposições e seminários de caráter artístico ou cultural. V. Participação como expositor em exposição artística ou cultural. 
+2) Serão atribuídos até 5 (cinco) pontos, por semestre, por participação nas atividades artísticas e culturais, tais como: banda marcial, camerata de sopro, teatro, coral, radioamadorismo e outras, em Instituições, de acordo com o Art. 3º deste Regulamento.
 
-Grupo 2 - Atividades de cunho comunitário e de interesse coletivo: 
+3) Serão atribuídos até 5 (cinco) pontos, por semestre, por participação efetiva em Diretórios Acadêmicos e Entidades de Classe.
 
-I. Participação efetiva em Diretórios e Centros Acadêmicos, Entidades de Classe, Conselhos e Colegiados internos à Instituição. 
+4) Serão atribuídos 10 (dez) pontos, por semestre, por participação efetiva em trabalho voluntário, atividades comunitárias, CIPAS, associações de bairros, brigadas de incêndio e associações escolares.
 
-II. Participação efetiva em trabalho voluntário, atividades comunitárias, associações de bairros, brigadas de incêndio e associações escolares. 
+- 5) Será atribuído 0,5 (meio) ponto, por hora, por participação em cursos da área específica de cada curso de graduação, de fundamento científico ou de gestão.
 
-III. Participação em atividades beneficentes. 
+6) Será atribuído 1,0 (um) ponto, por hora, pela participação em palestras técnicas, congressos e seminários.
 
-IV. Atuação como instrutor em palestras técnicas, seminários, cursos da área específica, desde que não remunerados e de interesse da sociedade. 
+- 7) Serão atribuídos até 5 (cinco) pontos, por semestre, para o discente que obtiver frequência e aprovação em cursos de língua estrangeira.
 
-V. Engajamento como docente não remunerado em cursos preparatórios e de reforço escolar. VI. Participação em projetos de extensão, não remunerados, e de interesse social. Grupo 3 - Atividades de iniciação científica, tecnológica e de formação profissional na área do curso de Licenciatura em Química: 
+- 8) Serão atribuídos até 5 (cinco) pontos, por hora, por apresentação de palestras técnicas, seminários, cursos da área específica, de cada curso de graduação.
 
-I. Participação em cursos de fundamento científico ou de gestão. 
+9) Serão atribuídos até 10 (dez) pontos a artigos científicos publicados e até 15 (quinze) pontos a projetos de iniciação científica e tecnológica, relacionados com o objetivo do Curso.
 
-II. Participação em palestras, congressos e seminários técnico-científicos. 
+10) Serão atribuídos até 10 (dez) pontos para cada participação como expositor em exposição técnica, artística ou cultural.
 
-199 
+11) Será atribuído 0,5 (meio) ponto por hora pelo estágio não obrigatório.
 
-**==> picture [472 x 55] intentionally omitted <==**
+12) Serão atribuídos 5 (cinco) pontos por visita técnica.
 
-III. Participação como apresentador de trabalhos em palestras, congressos e seminários técnicocientíficos. 
+13) Serão atribuídos 5 (cinco) pontos por participação efetiva na organização de exposições e seminários de caráter acadêmico, artístico ou cultural.
 
-IV. Participação em projetos de pesquisa, inovação e extensão. 
+14) Serão atribuídos até 10 (dez) pontos por participação em atividades beneficentes.
 
-V. Participação como expositor em exposições técnico-científicas. 
+## **ANEXO**
 
-VI. Participação efetiva na organização de exposições e seminários de caráter acadêmico. 
+- Atas de reuniões;
 
-VII. Publicações em periódicos. 
+- Atas do colegiado do curso;
 
-VIII. Publicações em anais de eventos técnico-científicos ou em periódicos científicos de abrangência local, regional, nacional ou internacional. 
+- Atas do NDE;
 
-IX. Estágio não obrigatório. 
+- Demais documentos comprobatórios necessários.
 
-X. Trabalho como empreendedor na área do curso. 
+As atas da Comissão Estruturante do Curso, do Núcleo Estruturante de Curso e Colégio Dirigente do Campus encontram-se dispostos na segunda versão do Projeto Pedagógico do Curso de Licenciatura em Química que podem ser encontrados no processo de número 23411.001948/2017-01 a partir da página de número 485.
 
-XI. Monitorias na área do curso. 
-
-XII. Participação em visitas técnicas na área do curso. 
-
-XIII. Participação em projetos multidisciplinares ou interdisciplinares. 
-
-§1º Os projetos multidisciplinares ou interdisciplinares referem-se àqueles de característica opcional por parte do discente, não previstos no currículo do curso. 
-
-## **CAPÍTULO VI DA PONTUAÇÃO** 
-
-Art. 14 As Atividades Complementares serão avaliadas, segundo a carga horária ou por participação efetiva nas atividades, atendendo ao disposto no parágrafo 1º do Art. 7º deste Regulamento. 
-
-Parágrafo único - As atividades que se enquadram em mais de um item serão pontuadas por aquele que propiciar maior pontuação. 
-
-Art. 15 O discente deverá participar de atividades que contemplem os 3 Grupos listados no Artigo 13 deste Regulamento. 
-
-Art. 16 – O discente poderá integralizar: 
-
-- I. 30 pontos no grupo 1. 
-
-II. 30 pontos no grupo 2. 
-
-- III. 40 pontos no grupo 3. 
-
-200 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-Art. 17 - Caberá ao Colegiado de Curso propor ao Coordenador do Curso a pontuação dos itens de cada Grupo, respeitados os Artigos 15 e 16. 
-
-Parágrafo único - O Apêndice 2 deste Regulamento será utilizado como referência para definição dos pontos em cada item. 
-
-## **CAPÍTULO VII DA AVALIAÇÃO** 
-
-Art. 18 - Será considerado aprovado o discente que, na avaliação, obtiver 100 pontos. 
-
-Parágrafo único - Para fins de registro acadêmico constará no histórico escolar do discente apenas o conceito “aprovado” ou “reprovado” em Atividades Complementares, não sendo registrado o número de pontos que o discente conseguir para obtenção de tal resultado. 
-
-## **CAPÍTULO VIII DAS DISPOSIÇÕES GERAIS** 
-
-Art. 19 - Os casos omissos neste Regulamento serão tratados pelo Colegiado do Curso. 
-
-## **APÊNDICE 2 PONTUAÇÃO SUGERIDA PARA AS ATIVIDADES COMPLEMENTARES** 
-
-1) Serão atribuídos até 5 (cinco) pontos por semestre por participação nas atividades esportivas em Instituições, de acordo com o Art. 3º deste Regulamento. 
-
-2) Serão atribuídos até 5 (cinco) pontos, por semestre, por participação nas atividades artísticas e culturais, tais como: banda marcial, camerata de sopro, teatro, coral, radioamadorismo e outras, em Instituições, de acordo com o Art. 3º deste Regulamento. 
-
-3) Serão atribuídos até 5 (cinco) pontos, por semestre, por participação efetiva em Diretórios Acadêmicos e Entidades de Classe. 
-
-201 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-4) Serão atribuídos 10 (dez) pontos, por semestre, por participação efetiva em trabalho voluntário, atividades comunitárias, CIPAS, associações de bairros, brigadas de incêndio e associações escolares. 
-
-- 5) Será atribuído 0,5 (meio) ponto, por hora, por participação em cursos da área específica de cada curso de graduação, de fundamento científico ou de gestão. 
-
-6) Será atribuído 1,0 (um) ponto, por hora, pela participação em palestras técnicas, congressos e seminários. 
-
-- 7) Serão atribuídos até 5 (cinco) pontos, por semestre, para o discente que obtiver frequência e aprovação em cursos de língua estrangeira. 
-
-- 8) Serão atribuídos até 5 (cinco) pontos, por hora, por apresentação de palestras técnicas, seminários, cursos da área específica, de cada curso de graduação. 
-
-9) Serão atribuídos até 10 (dez) pontos a artigos científicos publicados e até 15 (quinze) pontos a projetos de iniciação científica e tecnológica, relacionados com o objetivo do Curso. 
-
-10) Serão atribuídos até 10 (dez) pontos para cada participação como expositor em exposição técnica, artística ou cultural. 
-
-11) Será atribuído 0,5 (meio) ponto por hora pelo estágio não obrigatório. 
-
-12) Serão atribuídos 5 (cinco) pontos por visita técnica. 
-
-13) Serão atribuídos 5 (cinco) pontos por participação efetiva na organização de exposições e seminários de caráter acadêmico, artístico ou cultural. 
-
-14) Serão atribuídos até 10 (dez) pontos por participação em atividades beneficentes. 
-
-202 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-## **ANEXO** 
-
-- Atas de reuniões; 
-
-- Atas do colegiado do curso; 
-
-- Atas do NDE; 
-
-- Demais documentos comprobatórios necessários. 
-
-As atas da Comissão Estruturante do Curso, do Núcleo Estruturante de Curso e Colégio Dirigente do Campus encontram-se dispostos na segunda versão do Projeto Pedagógico do Curso de Licenciatura em Química que podem ser encontrados no processo de número 23411.001948/2017-01 a partir da página de número 485. 
-
-203 
+203
 
