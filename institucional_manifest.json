@@ -17,6 +17,13 @@
       "tipo_item": "processo_seletivo",
       "path": "institucional/ifpr/processos-seletivos/index.json",
       "total_itens": 2
+    },
+    {
+      "id": "referencias-ifpr",
+      "title": "Referências institucionais do IFPR",
+      "tipo_item": "referencia_institucional",
+      "path": "institucional/ifpr/referencias/index.json",
+      "total_itens": 1
     }
   ]
 }

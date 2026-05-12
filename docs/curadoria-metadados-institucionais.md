@@ -2,6 +2,14 @@
 
 Este documento registra práticas para manter metadados institucionais do IFPR em JSON, com foco em consumo por agentes IA.
 
+## Organização de documentos da base
+
+Use `docs/` apenas para documentação de apoio à construção, manutenção e curadoria da base, como instruções operacionais, padrões de metadados e aprendizados de curadoria.
+
+Conteúdos destinados à consulta como parte da base de conhecimento devem ficar na coleção temática correspondente, não em `docs/`. Para referências institucionais transversais do IFPR que não sejam cadastro de campus, PPC ou processo seletivo, use `institucional/ifpr/referencias/` e atualize `institucional/ifpr/referencias/index.json`.
+
+Exemplo: uma nota técnica sobre a Matriz Orçamentária da Rede Federal, quando usada como referência institucional para planejamento do IFPR, deve ficar em `institucional/ifpr/referencias/`, e não em `docs/`.
+
 ## Cursos nos sites dos campi
 
 Ao pesquisar cursos em páginas de campi do IFPR, prefira fontes oficiais do próprio IFPR e registre em `curadoria.fontes` as páginas usadas para preencher ou revisar os dados.

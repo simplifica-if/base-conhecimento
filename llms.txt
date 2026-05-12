@@ -32,6 +32,15 @@ Use conhecimento treinado apenas para contexto geral, explicações auxiliares o
 - Manifesto institucional: https://simplifica-if.github.io/base-conhecimento/institucional_manifest.json
 - Manifesto de catálogos: https://simplifica-if.github.io/base-conhecimento/catalogos_manifest.json
 
+## Documentos institucionais de referência
+
+- Matriz orçamentária da Rede Federal: https://simplifica-if.github.io/base-conhecimento/institucional/ifpr/referencias/matriz-orcamentaria-rede-federal.md
+
+## Documentos de apoio à manutenção
+
+- Curadoria de metadados institucionais: https://simplifica-if.github.io/base-conhecimento/docs/curadoria-metadados-institucionais.md
+- Padrão de front matter para legislação: https://simplifica-if.github.io/base-conhecimento/docs/padrao-front-matter-legislacao.md
+
 ## Padrão para arquivos da base
 
 Use o campo `path` dos manifestos com este padrão:
@@ -43,7 +52,7 @@ https://simplifica-if.github.io/base-conhecimento/<path>
 1. Consulte o `manifest.json` para identificar documentos por `title`, `aliases`, `keywords`, `ementa`, `orgao`, `ano` e `status_vigencia`.
 2. Quando um documento for relevante, baixe o Markdown correspondente usando o campo `path`.
 3. Use os arquivos Markdown como base de consulta normativa. Cite sempre o `title`, a fonte oficial indicada no campo `fonte` e o trecho, artigo, seção ou item usado.
-4. Para perguntas sobre campi, calendário acadêmico, páginas institucionais ou dados institucionais do IFPR, consulte o `institucional_manifest.json`, abra a coleção indicada e use os JSONs dos campi para localizar dados e links oficiais.
+4. Para perguntas sobre campi, calendário acadêmico, páginas institucionais, dados institucionais ou referências institucionais do IFPR, consulte o `institucional_manifest.json`, abra a coleção indicada e use os arquivos referenciados para localizar dados e links oficiais.
 5. Quando a pergunta exigir conteúdo interno das páginas dos campi, navegue nos links oficiais indicados nos metadados e cite a página consultada.
 6. Para consultas ao Catálogo Nacional de Cursos Técnicos (CNCT), abra o `catalogos_manifest.json`, localize o catálogo `cnct`, abra `catalogos/cnct/manifest.json` e use `catalogos/cnct/index.json` para buscar cursos por denominação, eixo tecnológico, área tecnológica, CBO ou carga horária mínima.
 7. Depois de localizar candidatos no índice do CNCT, baixe apenas os arquivos `catalogos/cnct/cursos/*.json` relevantes para consultar os dados completos.

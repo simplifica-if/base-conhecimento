@@ -82,10 +82,19 @@ python3 scripts/gerar_base.py
 python3 scripts/validar_base.py
 ```
 
+## Documentos institucionais de referência
+
+- [Matriz orçamentária da Rede Federal](institucional/ifpr/referencias/matriz-orcamentaria-rede-federal.md)
+
+## Documentos de apoio à manutenção
+
+- [Curadoria de metadados institucionais](docs/curadoria-metadados-institucionais.md)
+- [Padrão de front matter para legislação](docs/padrao-front-matter-legislacao.md)
+
 ## Estrutura
 
 - `normas/`: leis, resoluções, portarias, notas técnicas e compilações, organizadas por jurisdição e tipo documental.
-- `institucional/`: metadados institucionais estruturados, como o cadastro de campi do IFPR.
+- `institucional/`: metadados e referências institucionais, como o cadastro de campi do IFPR e notas de referência em `institucional/ifpr/referencias/`.
 - `catalogos/`: catálogos estruturados para busca por agentes IA, como o CNCT.
 - `manifest.json`: índice estruturado para consumo automático.
 - `institucional_manifest.json`: índice estruturado das coleções institucionais.
@@ -93,6 +102,7 @@ python3 scripts/validar_base.py
 - `llms.txt`: ponto de entrada público para agentes IA.
 - `.nojekyll`: configura o GitHub Pages para servir os arquivos estáticos sem processamento Jekyll.
 - `schemas/`: contratos JSON Schema dos dados estruturados.
+- `docs/`: documentação de apoio à manutenção e curadoria da base, não conteúdo principal da base de conhecimento.
 - `docs/padrao-front-matter-legislacao.md`: contrato de metadados.
 - `scripts/`: geração e validação local da base.
 

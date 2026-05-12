@@ -52,12 +52,13 @@
           "tipo_item": {
             "enum": [
               "campus",
-              "processo_seletivo"
+              "processo_seletivo",
+              "referencia_institucional"
             ]
           },
           "path": {
             "type": "string",
-            "pattern": "^institucional/ifpr/(campi|processos-seletivos)/index\\.json$"
+            "pattern": "^institucional/ifpr/(campi|processos-seletivos|referencias)/index\\.json$"
           },
           "total_itens": {
             "type": "integer",

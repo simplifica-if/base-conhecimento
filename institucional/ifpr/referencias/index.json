@@ -1,0 +1,13 @@
+{
+  "title": "Referências institucionais do IFPR",
+  "total_itens": 1,
+  "items": [
+    {
+      "id": "matriz-orcamentaria-rede-federal",
+      "titulo": "Matriz orçamentária da Rede Federal",
+      "tipo": "nota_tecnica",
+      "path": "institucional/ifpr/referencias/matriz-orcamentaria-rede-federal.md",
+      "descricao": "Nota técnica sobre a Matriz de Distribuição Orçamentária da Rede Federal de EPCT, com foco em carga horária para matriz e cursos técnicos integrados."
+    }
+  ]
+}
