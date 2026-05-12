@@ -1,201 +1,122 @@
-# Matriz orçamentária da Rede Federal
+# Matriz orçamentária: carga horária financiada em cursos técnicos integrados
 
-Nota técnica institucional para consulta operacional sobre como a Matriz de Distribuição Orçamentária da Rede Federal de EPCT trata matrículas, carga horária e cursos técnicos integrados ao ensino médio.
+A matriz orçamentária da Rede Federal não repassa um valor fixo por aluno nem financia automaticamente toda a carga horária prevista no PPC. Para o bloco de Funcionamento, a metodologia da Portaria MEC nº 646/2022 usa a `Matrícula Total`, calculada a partir da `CHM` - carga horária para matriz, ajustada de acordo com o catálogo do MEC.
 
-Data de referência desta nota: 2026-05-12.
+Para cursos técnicos integrados ao ensino médio, a carga horária de referência depende da carga horária mínima da habilitação profissional indicada no CNCT:
 
-## Resumo executivo
+| Carga técnica mínima no CNCT | CHM de referência para curso integrado |
+|------------------------------|----------------------------------------|
+| `800h` | `3000h` |
+| `1000h` | `3100h` |
+| `1200h` | `3200h` |
 
-A matriz orçamentária da Rede Federal não define um valor fixo nacional "por aluno". Ela distribui um montante orçamentário anual entre instituições e unidades a partir de indicadores, principalmente a `Matrícula Total` no bloco de Funcionamento.
+Assim, um curso técnico integrado cuja habilitação CNCT seja de `1200h`, como `Técnico em Informática`, tem como referência histórica de matriz `3200h`.
 
-Para um curso técnico integrado ao ensino médio, o que interessa para a matriz não é apenas a carga horária total do PPC, mas a carga horária usada como `CHM` - carga horária para matriz, ajustada de acordo com o catálogo do MEC.
+## O que entra no cálculo
 
-No caso de `Técnico em Informática` integrado ao ensino médio:
+Para estimativa simplificada, use:
 
-- o CNCT registra carga horária mínima profissional de `1200h`;
-- a Portaria SETEC/MEC nº 25/2015, art. 5º, §2º, alínea `b`, usava `3200h` para cursos técnicos integrados quando a habilitação profissional indicada no CNCT era de `1200h`;
-- portanto, em planejamento conservador, a `CHM` esperada para matriz é `3200h`, mesmo que o PPC tenha, por exemplo, `2100h` de Formação Geral Básica mais `1200h` de formação técnica, totalizando `3300h`.
+```text
+CHM = carga horária para matriz
+Duração = duração do ciclo, em anos
+PC = peso do curso
+FECH = (CHM / Duração) / 800
+Matrícula Total (MT) por aluno/ano = FECH * PC
+```
 
-Com duração de 3 anos, curso presencial, sem bonificação de agropecuária e peso mínimo de integrado `1,5`, cada estudante ativo durante todo o ano tende a gerar:
+Onde:
+
+- `CHM` é a carga horária reconhecida para matriz, não necessariamente a carga total do PPC;
+- `800h` é a referência anual usada no fator de equalização de carga horária;
+- `PC` é o peso do curso;
+- para cursos técnicos integrados, a Portaria MEC nº 646/2022 registra peso mínimo `1,5`;
+- cursos da área de agropecuária recebem bonificação específica; os exemplos abaixo assumem curso sem bonificação.
+
+## Duração do curso: 3 ou 4 anos
+
+A duração do ciclo afeta a matrícula total anual. A matriz anualiza a CHM: quanto maior a duração, menor a carga anualizada por estudante naquele ano.
+
+Exemplo com `CHM = 3200h` e `PC = 1,5`:
+
+```text
+Curso de 3 anos:
+FECH = (3200 / 3) / 800 = 1,3333
+MT por aluno/ano = 1,3333 * 1,5 = 2,0
+
+Curso de 4 anos:
+FECH = (3200 / 4) / 800 = 1,0
+MT por aluno/ano = 1,0 * 1,5 = 1,5
+```
+
+Isso não significa, por si só, que o curso de 4 anos recebe menos ao longo de toda a trajetória do estudante, pois o aluno permanece ativo por mais tempo. A diferença aparece no valor anual por aluno ativo.
+
+Em regime estável, com a mesma entrada anual de estudantes, um curso de 4 anos tende a ter mais coortes simultaneamente ativas do que um curso de 3 anos. Mesmo assim, para planejamento de trabalho docente, infraestrutura e carga horária ofertada, a comparação relevante é entre `carga total do PPC` e `CHM`.
+
+## Quando há carga horária acima do parâmetro de matriz
+
+Compare a carga total do PPC com a CHM de referência:
+
+```text
+saldo_acima_da_CHM = carga_total_do_PPC - CHM
+```
+
+Interpretação:
+
+- se o saldo for `0h`, a carga do PPC coincide com a CHM de referência;
+- se o saldo for positivo, há carga horária acima do parâmetro usado na estimativa de matriz;
+- se o saldo for negativo, o PPC está abaixo da CHM de referência, o que exige análise curricular e normativa própria.
+
+Exemplos:
+
+| Situação | CHM de referência | Carga total do PPC | Saldo acima da CHM |
+|----------|-------------------|--------------------|--------------------|
+| Integrado com habilitação CNCT de `800h` e PPC de `3200h` | `3000h` | `3200h` | `200h` |
+| Integrado com habilitação CNCT de `1000h` e PPC de `3200h` | `3100h` | `3200h` | `100h` |
+| Integrado com habilitação CNCT de `1200h` e PPC de `3200h` | `3200h` | `3200h` | `0h` |
+| Integrado com habilitação CNCT de `1200h` e PPC de `3300h` | `3200h` | `3300h` | `100h` |
+
+## Exemplo: Técnico em Informática integrado
+
+O CNCT registra `Técnico em Informática` com carga horária mínima profissional de `1200h`. Pela correspondência usada historicamente pela SETEC para cursos técnicos integrados:
+
+```text
+Carga técnica CNCT = 1200h
+CHM de referência = 3200h
+```
+
+Se o PPC tiver `3200h`:
+
+```text
+saldo_acima_da_CHM = 3200 - 3200 = 0h
+```
+
+Se o PPC tiver `3300h`, por exemplo por organizar `2100h` de Formação Geral Básica e `1200h` de formação técnica:
+
+```text
+saldo_acima_da_CHM = 3300 - 3200 = 100h
+```
+
+Para um ciclo de 3 anos, curso sem bonificação de agropecuária e peso `1,5`:
 
 ```text
 FECH = (3200 / 3) / 800 = 1,3333
-Matrícula Total por aluno = 1,3333 * 1,5 = 2,0
+MT por aluno/ano = 1,3333 * 1,5 = 2,0
 ```
 
-Assim, o curso gera aproximadamente `2,0 matrículas totais por aluno por ano`. O valor em reais depende do valor anual da matrícula total na matriz daquele exercício:
+Para um ciclo de 4 anos:
 
 ```text
-R$ por aluno/ano = 2,0 * valor da matrícula total presencial do exercício
+FECH = (3200 / 4) / 800 = 1,0
+MT por aluno/ano = 1,0 * 1,5 = 1,5
 ```
-
-## Como a Matrícula Total é calculada
-
-A Portaria MEC nº 646/2022 descreve o cálculo da Matrícula Total em quatro etapas: equalização, ponderação, bonificação e finalização.
-
-### 1. Equalização
-
-O objetivo é equiparar ciclos de cursos com diferentes cargas horárias, usando referência de `800h` anuais e considerando os dias ativos no período analisado.
-
-Variáveis principais:
-
-```text
-QTDC = (DTC - DIC) + 1
-CHMD = CHM / QTDC
-```
-
-Onde:
-
-- `QTDC` = quantidade de dias do ciclo;
-- `DTC` = data prevista de término do ciclo;
-- `DIC` = data de início do ciclo;
-- `CHMD` = carga horária média diária;
-- `CHM` = carga horária para matriz, ajustada de acordo com o catálogo do MEC.
-
-Para ciclo com duração maior que 365 dias:
-
-```text
-CHA = CHMD * 365
-FECH = CHA / 800
-```
-
-Onde:
-
-- `CHA` = carga horária anualizada;
-- `FECH` = fator de equalização de carga horária.
-
-Depois, a matriz considera os dias ativos no período analisado:
-
-```text
-FECHDA = FECH * FEDA
-MECHDA = FECHDA * QTM1P
-```
-
-Onde:
-
-- `FEDA` = fator de equalização de dias ativos;
-- `MECHDA` = matrículas equalizadas por carga horária e dias ativos;
-- `QTM1P` = matrículas ativas no período analisado.
-
-Para um aluno ativo durante todo o ano, em um ciclo regular que cobre todo o período, `FEDA` tende a ser `1`.
-
-### 2. Ponderação
-
-A matriz aplica o peso do curso:
-
-```text
-MP = MECHDA * PC
-```
-
-Onde:
-
-- `MP` = matrículas ponderadas;
-- `PC` = peso do curso.
-
-Na Portaria MEC nº 646/2022, os critérios de referência para cursos técnicos usam a infraestrutura profissionalizante prevista no CNCT:
-
-```text
-Peso 1,0 = 1 laboratório
-Peso 1,5 = 2 laboratórios
-Peso 2,0 = 3 laboratórios
-Peso 2,5 = 4 ou mais laboratórios
-```
-
-Para cursos técnicos integrados ao ensino médio, a portaria também registra peso mínimo `1,5`, em função dos laboratórios propedêuticos.
-
-### 3. Bonificação
-
-Cursos da área de agropecuária recebem bonificação:
-
-```text
-BA = MP * 50%
-```
-
-Para cursos que não são da área de agropecuária:
-
-```text
-BA = 0
-```
-
-### 4. Finalização
-
-A Matrícula Total é:
-
-```text
-MT = MP + BA
-```
-
-## Exemplo: Técnico em Informática integrado ao ensino médio
-
-Hipóteses:
-
-```text
-Curso: Técnico em Informática integrado ao ensino médio
-Modalidade: presencial
-Duração do ciclo: 3 anos
-Carga técnica CNCT: 1200h
-Formação Geral Básica do desenho curricular: 2100h
-Carga total do PPC: 3300h
-CHM para matriz: 3200h
-Peso do curso: 1,5
-Agropecuária: não
-Aluno ativo no ano inteiro: sim
-FEDA: 1
-```
-
-Cálculo conservador da matriz:
-
-```text
-CHM = 3200h
-CHA = 3200 / 3 = 1066,67h/ano
-FECH = 1066,67 / 800 = 1,3333
-MECHDA por aluno = 1,3333
-MP por aluno = 1,3333 * 1,5 = 2,0
-BA = 0
-MT por aluno = 2,0
-```
-
-Resultado:
-
-```text
-1 aluno ativo durante todo o ano = aproximadamente 2,0 matrículas totais
-```
-
-Se alguém simulasse usando a carga total do PPC de `3300h`, o resultado seria:
-
-```text
-CHA = 3300 / 3 = 1100h/ano
-FECH = 1100 / 800 = 1,375
-MT por aluno = 1,375 * 1,5 = 2,0625
-```
-
-Mas essa conta é menos conservadora, porque a metodologia pública da matriz fala em `CHM` ajustada ao catálogo do MEC, e não simplesmente em toda a carga horária que o PPC eventualmente acrescente acima do mínimo.
-
-## Interpretação para planejamento
-
-Para estimar impacto orçamentário anual de novas vagas em Técnico em Informática integrado ao ensino médio, use:
-
-```text
-matriculas_totais_ano = alunos_ativos_no_ano * 2,0
-orcamento_estimado = matriculas_totais_ano * valor_matricula_total_presencial_do_exercicio
-```
-
-Exemplo com 40 alunos ativos durante o ano inteiro:
-
-```text
-matriculas_totais_ano = 40 * 2,0 = 80
-orcamento_estimado = 80 * valor_matricula_total_presencial_do_exercicio
-```
-
-O valor final em reais não pode ser determinado apenas pelo curso, porque depende do orçamento anual fixado para a Rede Federal, da matriz do exercício, dos dados da PNP, da distribuição entre instituições, dos demais indicadores e de eventuais ajustes metodológicos.
 
 ## Cuidados de interpretação
 
-1. `Matrícula Total` não é o mesmo que `Aluno-Equivalente`. A matriz orçamentária vigente usa `Matrícula Total` no bloco Funcionamento; outros indicadores usam conceitos como matrícula equivalente ou aluno-equivalente.
-2. `CHC` ou carga horária do ciclo pode aparecer no cadastro acadêmico/PNP, mas o cálculo da matriz usa `CHM` quando anualiza a carga horária de ciclos com duração maior que um ano.
-3. Carga horária acima do mínimo do catálogo pode ser pedagogicamente válida, mas não deve ser presumida como integralmente financiada pela matriz.
-4. A regra `2100h FGB + 1200h técnico = 3300h` decorre da organização curricular do ensino médio com formação técnica e profissional; a regra da matriz para CHM pode permanecer usando o mínimo ajustado ao catálogo.
-5. Para decisão administrativa, conferir sempre a planilha oficial da matriz do exercício e a orientação vigente da SETEC/CONIF.
+1. A matriz usa dados da Plataforma Nilo Peçanha do ano anterior e pode sofrer ajustes metodológicos em cada exercício.
+2. `Matrícula Total` não é o mesmo que `Aluno-Equivalente`, embora ambos usem ideias de equalização de carga horária.
+3. A CHM é parâmetro de matriz; ela não substitui a análise pedagógica, curricular ou legal da carga horária mínima do curso.
+4. Carga horária acima da CHM pode ser pedagogicamente válida, mas não deve ser presumida como integralmente reconhecida para cálculo orçamentário.
+5. Para decisão administrativa, confira a planilha oficial da matriz do exercício e a orientação vigente da SETEC/CONIF.
 
 ## Base normativa principal
 
@@ -210,8 +131,6 @@ Pontos relevantes:
 - institui a Matriz de Distribuição Orçamentária da Rede Federal de EPCT;
 - define que a matriz tem como base as informações publicadas na Plataforma Nilo Peçanha;
 - informa que a matriz de um ano é elaborada com dados da PNP do ano anterior;
-- organiza a matriz em quatro blocos: Funcionamento, Reitoria/Direção-geral, Qualidade e Eficiência, e Assistência Estudantil;
-- define que, após deduzido o valor da assistência estudantil, o bloco Funcionamento equivale a 80% do orçamento total e os blocos Reitoria e Qualidade equivalem, cada um, a 10%;
 - no bloco Funcionamento, usa `Matrícula Total`;
 - no cálculo da Matrícula Total, usa `CHM = Carga horária p/ Matriz (ajustada de acordo com o catálogo do MEC)`.
 
@@ -258,4 +177,4 @@ Pontos relevantes:
 - estabelece que a Formação Geral Básica tem carga horária mínima de `2400h`;
 - no caso da formação técnica e profissional, a Formação Geral Básica mínima passa a ser `2100h`, admitindo que até `300h` dessa carga sejam destinadas ao aprofundamento de estudos de conteúdos da BNCC diretamente relacionados à formação técnica profissional.
 
-Essa regra explica por que um curso técnico integrado pode ser desenhado curricularmente com `2100h` de FGB mais `1200h` de formação técnica. Ela não altera, por si só, a metodologia da matriz orçamentária enquanto a matriz continuar usando a carga ajustada ao catálogo.
+Essa regra explica por que um curso técnico integrado pode ser desenhado curricularmente com `2100h` de FGB mais a carga técnica da habilitação profissional. Ela não altera, por si só, a metodologia da matriz orçamentária enquanto a matriz continuar usando a carga ajustada ao catálogo.
