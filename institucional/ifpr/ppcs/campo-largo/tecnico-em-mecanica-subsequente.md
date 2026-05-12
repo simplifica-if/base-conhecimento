@@ -1,752 +1,680 @@
-INSTITUTOFEDERAL PAA 
+INSTITUTOFEDERAL PAA
 
-**==> picture [117 x 76] intentionally omitted <==**
+FI. 414<br>Ass.<br>Ministerio da Educagao<br>InstitutoFederaldoParana<br>
 
-**----- Start of picture text -----**<br>
-FI. 414<br>Ass.<br>Ministerio da Educagao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+## MINISTERIO DA EDUCACAO
 
+## SECRETARIADEEDUCACAOPROFISSIONALETECNOLOGICA INSTITUTOFEDERALDOPARANA-CAMPUSCAMPOLARGO PRO-REITORIA DE ENSINO
 
-## MINISTERIO DA EDUCACAO 
+## PROJETOPEDAGOGICODOCURSO TECNICOEMMECANICA
 
-## SECRETARIADEEDUCACAOPROFISSIONALETECNOLOGICA INSTITUTOFEDERALDOPARANA-CAMPUSCAMPOLARGO PRO-REITORIA DE ENSINO 
+## AutorizadopelaResolucaon°65/11doConselhoSuperior-IFPR
 
-## PROJETOPEDAGOGICODOCURSO TECNICOEMMECANICA 
+CAMPOLARGO 2015
 
-## AutorizadopelaResolucaon°65/11doConselhoSuperior-IFPR 
+415<br>SN<br>Ass.:<br>
 
-CAMPOLARGO 2015 
+## INSTITUTOFEDERALDOPARANA
 
-**==> picture [57 x 29] intentionally omitted <==**
+## PresidentedaRepublica
 
-**----- Start of picture text -----**<br>
-415<br>SN<br>Ass.:<br>**----- End of picture text -----**<br>
+DilmaRousseff
 
+Ministro daEducacao AloizioMercadanteOliva
 
-## INSTITUTOFEDERALDOPARANA 
+## SecretariodaEducacaoProfissionaleTecnologica
 
-## PresidentedaRepublica 
+MarceloMachadoFeres
 
-DilmaRousseff 
+Reitor pro Tempore ElioAlmeida Cordeiro
 
-Ministro daEducacao AloizioMercadanteOliva 
+## Pro-reitor de Ensino EzequielWestphai
 
-## SecretariodaEducacaoProfissionaleTecnologica 
+DiretordeEnsinoMedioeTecnico AndreCarvalhoBaida
 
-MarceloMachadoFeres 
+## CoordenadoradeEnsinoMedioeTecnico
 
-Reitor pro Tempore ElioAlmeida Cordeiro 
+Marissoni doRocioHilgenberg
 
-## Pro-reitor de Ensino EzequielWestphai 
+DiretorGeral doCampus JoaoClaudioBittencourtMadureira
 
-DiretordeEnsinoMedioeTecnico AndreCarvalhoBaida 
+DiretordeEnsino,PesquisaeExtensao AmauryPessoaGebran
 
-## CoordenadoradeEnsinoMedioeTecnico 
+CoordenacaodoCurso MartaGomesFrancisco
 
-Marissoni doRocioHilgenberg 
+> FI 416
 
-DiretorGeral doCampus JoaoClaudioBittencourtMadureira 
+## SUMARIO
 
-DiretordeEnsino,PesquisaeExtensao AmauryPessoaGebran 
+Ass.:<br>
 
-CoordenacaodoCurso MartaGomesFrancisco 
+## 1. IDENTIFICACAODOPROJETO 2. CARACTERISTICASDOCURSO 3. ESTRUTURAEFUNCIONAMENTO.. 6 6
 
-> FI 416 
+- 3.1Justificativadaofertadocurso
 
-## SUMARIO 
+- 3.2Objetivos do curso...
 
-**==> picture [21 x 9] intentionally omitted <==**
+- 3.2.1Objetivogeral.
 
-**----- Start of picture text -----**<br>
-Ass.:<br>**----- End of picture text -----**<br>
+- 3.2.2Objetivosespecificos 3.3Perfilprofissional deconclusao
 
+- 3.4Criterios de avaliacao da aprendizagem.
 
-## 1. IDENTIFICACAODOPROJETO 2. CARACTERISTICASDOCURSO 3. ESTRUTURAEFUNCIONAMENTO.. 6 6 
+8
 
-- 3.1Justificativadaofertadocurso 
+3.5Criteriosdeaproveitamentode estudos anterioreseprocedimentosdeavaliacao de competenciasanteriormentedesenvolvidas 10 3.6Instalacoeseequipamentos,recursostecnologicosebiblioteca: 11 3.7Pessoasenvolvidas-docentese tecnicos.... 12 3.8Descricaodediplomasecertificadosaseremexpedidos 3.9Organizacao curricular... 222 3.9.1Praticas pedagogicas previstas 3.9.2Praticaprofissional. 21 3.9.3 Matriz curricular... 21 3.10EmentasdosComponentesCurriculares 23 4.DOCUMENTOSANEXOS.. 41
 
-- 3.2Objetivos do curso... 
+- 4.1.RegulamentodeestagiocurricularnaoobrigatoriodoIFPRCampoLargo 4.2.CopiadacapadoProcessoAdministrativoabertoemNovembrode2010peloCampusCampo LargoeAtadoajustecurricularnoColegiadodecurso
 
-- 3.2.1Objetivogeral. 
+- 4.3CopiadaResolucaoIFPRN65/11-autorizandoacriacaodoCursoTécnicoemMecanica modalidadesubsequente,noCampusCampoLargodoIFPR
 
-- 3.2.2Objetivosespecificos 3.3Perfilprofissional deconclusao 
+- 4.4AtadereformulacaodoPPCdeMecanica-16demarcode2015
 
-- 3.4Criterios de avaliacao da aprendizagem. 
+- 4.5AtadereformulacaodoPPCdeMecanica-30demarcode2015
 
-8 
+- 4.6AtadereformulacaodoPPCdeMecanica-13deabrilde2015
 
-3.5Criteriosdeaproveitamentode estudos anterioreseprocedimentosdeavaliacao de competenciasanteriormentedesenvolvidas 10 3.6Instalacoeseequipamentos,recursostecnologicosebiblioteca: 11 3.7Pessoasenvolvidas-docentese tecnicos.... 12 3.8Descricaodediplomasecertificadosaseremexpedidos 3.9Organizacao curricular... 222 3.9.1Praticas pedagogicas previstas 3.9.2Praticaprofissional. 21 3.9.3 Matriz curricular... 21 3.10EmentasdosComponentesCurriculares 23 4.DOCUMENTOSANEXOS.. 41 
+- 4.7Termodeconveniocoma EmpresaUsinagemSpaki
 
-- 4.1.RegulamentodeestagiocurricularnaoobrigatoriodoIFPRCampoLargo 4.2.CopiadacapadoProcessoAdministrativoabertoemNovembrode2010peloCampusCampo LargoeAtadoajustecurricularnoColegiadodecurso 
+- 5.REFERENCIASBIBLIOGRAFICAS
 
-- 4.3CopiadaResolucaoIFPRN65/11-autorizandoacriacaodoCursoTécnicoemMecanica modalidadesubsequente,noCampusCampoLargodoIFPR 
+2 FI 41+<br>Ass.<br>
 
-- 4.4AtadereformulacaodoPPCdeMecanica-16demarcode2015 
+INSTITUTO FEDERAL MINISTERIODA PARANA EDUCACAO
 
-- 4.5AtadereformulacaodoPPCdeMecanica-30demarcode2015 
+UMPAISDETODOS<br>GOVERNO FEDERAL<br>
 
-- 4.6AtadereformulacaodoPPCdeMecanica-13deabrilde2015 
+## 1.IDENTIFICACAODOPROJETO
 
-- 4.7Termodeconveniocoma EmpresaUsinagemSpaki 
+## PROCESSONUMERO:23410.000330/2012-11
 
-- 5.REFERENCIASBIBLIOGRAFICAS 
+## NOMEDOCURSO:TecnicoemMecanica
 
-56 
+## EIXOTECNOLOGICO:ControleeProcessosIndustriais
 
-**==> picture [56 x 27] intentionally omitted <==**
+## COORDENACAO
 
-**----- Start of picture text -----**<br>
-2 FI 41+<br>Ass.<br>**----- End of picture text -----**<br>
+Coordenador:MartaGomesFrancisco
 
+E-mail: marta.francisco@ifpr.edu.br Telefone:41-3208-8206
 
-INSTITUTO FEDERAL MINISTERIODA PARANA EDUCACAO 
+## LOCALDEREALIZACAO/CAMPUS:RuaEngenheiroTourinho,829.VilaSolene Campo Largo
 
-**==> picture [107 x 17] intentionally omitted <==**
+TEL: HOME-PAGE: E-MAIL: 41-32088201 campolargo.ifpr.edu.br secretaria.campo_largo@ifpr.edu.br
 
-**----- Start of picture text -----**<br>
-UMPAISDETODOS<br>GOVERNO FEDERAL<br>**----- End of picture text -----**<br>
+APROVACAODOPROJETOPEDAGOGICODOCURSO() AJUSTECURRICULARDOPROJETOPEDAGOGICODOCURSO(X) COMISSAORESPONSAVELPELOAJUSTECURRICULAR: AnselmoFabris
 
+DanielaBianchiPonceLeondeLima GismarSchilivedeSouza LucianeSchulzFonseca Ricardo Kertscher Rogerio Breganon PatriciaMachado Luciano Alcindo Schulli Helcio Y. Hattori PauloSergioSchneider Marta GomesFrancisco ElianeSiqueiraRazzoto SamuelWiedemann Ronaldo Guedes EquipePedagogica:AliceFelisbino Golin,Flavia Manuella de AlmeidaKsiaszczyk e SimoneMilliorin
 
-## 1.IDENTIFICACAODOPROJETO 
+DOA<br>418<br>FI.<br>ASS. 9<br>
 
-## PROCESSONUMERO:23410.000330/2012-11 
+## 2.CARACTERiSTICASDOCURSO
 
-## NOMEDOCURSO:TecnicoemMecanica 
+## Nivel:EducacaoProfissional TécnicadeNivelMedio
 
-## EIXOTECNOLOGICO:ControleeProcessosIndustriais 
+Modalidade:Presencial
 
-## COORDENACAO 
+FormadeOferta:Subsequente
 
-Coordenador:MartaGomesFrancisco 
+Tempo deduracao do curso:Dois anos
 
-E-mail: marta.francisco@ifpr.edu.br Telefone:41-3208-8206 
+Turnodeoferta:MatutinoeNoturno
 
-## LOCALDEREALIZACAO/CAMPUS:RuaEngenheiroTourinho,829.VilaSolene Campo Largo 
+Horariode oferta do curso:Matutino（inicio:08h00min;termino:11h40min)e Noturno
 
-TEL: HOME-PAGE: E-MAIL: 41-32088201 campolargo.ifpr.edu.br secretaria.campo_largo@ifpr.edu.br 
+(inicio: 18h45min;termino:22h15min).
 
-APROVACAODOPROJETOPEDAGOGICODOCURSO() AJUSTECURRICULARDOPROJETOPEDAGOGICODOCURSO(X) COMISSAORESPONSAVELPELOAJUSTECURRICULAR: AnselmoFabris 
+CargahorariaTotal:1338horasrel6gio
 
-DanielaBianchiPonceLeondeLima GismarSchilivedeSouza LucianeSchulzFonseca Ricardo Kertscher Rogerio Breganon PatriciaMachado Luciano Alcindo Schulli Helcio Y. Hattori PauloSergioSchneider Marta GomesFrancisco ElianeSiqueiraRazzoto SamuelWiedemann Ronaldo Guedes EquipePedagogica:AliceFelisbino Golin,Flavia Manuella de AlmeidaKsiaszczyk e SimoneMilliorin 
+Carga horaria de estagio: Estagio nao obrigatorio
 
-**==> picture [63 x 54] intentionally omitted <==**
+Numeromaximodevagasdocurso:40(quarenta)
 
-**----- Start of picture text -----**<br>
-DOA<br>418<br>FI.<br>ASS. 9<br>**----- End of picture text -----**<br>
+Numerominimodevagasdocurso:20(vinte)
 
+Ano decriacaodocurso:2010
 
-## 2.CARACTERiSTICASDOCURSO 
+Requisitos de acesso aoCurso:Ensino MedioCompleto(Antigo 2° Grau).O acesso ao cursotécnicodenivelmédiosubsequenteemMecanicaserarealizadopormeiode
 
-## Nivel:EducacaoProfissional TécnicadeNivelMedio 
+aprovacaonoprocessoseletivoregulamentadopelaPro-ReitoriadeEnsinoemparceriacom ocampus.
 
-Modalidade:Presencial 
+Tipo deMatricula:Por componente curricular. RegimeEscolar:Anual.
 
-FormadeOferta:Subsequente 
+> FI 419
 
-Tempo deduracao do curso:Dois anos 
+AsS.<br>
 
-Turnodeoferta:MatutinoeNoturno 
+## 3.ESTRUTURAEFUNCIONAMENTO
 
-Horariode oferta do curso:Matutino（inicio:08h00min;termino:11h40min)e Noturno 
+9394/96e0conjuntodeleis,decretos,pareceresereferenciaiscurricularesquenormatizam aEducacaoProfissionalTécnicadeNivelMedionosistemaeducacional brasileiro.Sao
 
-(inicio: 18h45min;termino:22h15min). 
+preceitos desta proposta a compreensao da educacao como uma pratica social e
 
-CargahorariaTotal:1338horasrel6gio 
+e eticamenteecomprometidocomastransformacoessociais,politicase culturais domundo, capazde atuarnomundodotrabalho,naperspectiva daedificacaodeumasociedademais justa e igualitaria.
 
-Carga horaria de estagio: Estagio nao obrigatorio 
+## 3.1Justificativadaofertadocurso
 
-Numeromaximodevagasdocurso:40(quarenta) 
+## Comaretomadadocrescimentoeconomicoapartirdadécadapassadaecoma
 
-Numerominimodevagasdocurso:20(vinte) 
+que atuamneste setor da economia.Afinal,a modernizacao das industrias brasileiras,o procedimentos mecanicos, eletromecanicos ou informatizados, bem como a terceirizacao de certosservicosateentaorealizadosdentrodapropriaindustria,trouxeramumanova dinamicaparaosetorsecundariononossopais.
 
-Ano decriacaodocurso:2010 
+Tais transformacoes provocaram mudancas nos perfis profissionais requisitados pelo
 
-Requisitos de acesso aoCurso:Ensino MedioCompleto(Antigo 2° Grau).O acesso ao cursotécnicodenivelmédiosubsequenteemMecanicaserarealizadopormeiode 
+## padroesdeproducao,servicoequalidade.
 
-aprovacaonoprocessoseletivoregulamentadopelaPro-ReitoriadeEnsinoemparceriacom ocampus. 
+Diante deste quadro, a instalacao e manutencao de equipamentos mecanicos, a administracao e a gestao da producao, dentre outros, constituem areas de suma importancia paratodoosetorindustrial,quepossuiumademandaporprofissionaisquedominamtais conhecimentos.
 
-Tipo deMatricula:Por componente curricular. RegimeEscolar:Anual. 
+Assim,aformacaodoTécnicoemMecanicanomundodotrabalhocolaboraracomo fortalecimentodaeconomiabrasileiraeculminaracomainsercaodosjovensnomercado metalomecanico, pela prestacao de servicos ou pelo empreendedorismo. E com base nesta premissa, que o IFPR campus Campo Largo oferta o curso técnico emMecanica,visandoaformacaodejovenstrabalhadoresparaosetorindustrialeparaas empresas prestadoras de servicos, que sao carentes de profissionais qualificados para a
 
-> FI 419 
+FI. 420<br>Ass.:<br>
 
-6 
+execucaodeservicostecnicosearealizacaodafabricacaoemanutencaodeugEuiperentos mecanicosindustriais.
 
-**==> picture [17 x 11] intentionally omitted <==**
+## 3.2 Objetivos do curso
 
-**----- Start of picture text -----**<br>
-AsS.<br>**----- End of picture text -----**<br>
+## 3.2.1Objetivogeral
 
+a realidade,aptos para realizarem atividades de fabricacao, operacao e manutencao de equipamentos mecanicos naindustria,emempresas deprestacaode servicosecomo profissionalliberalnomundodotrabalho.
 
-## 3.ESTRUTURAEFUNCIONAMENTO 
+## 3.2.2Objetivos especificos
 
-9394/96e0conjuntodeleis,decretos,pareceresereferenciaiscurricularesquenormatizam aEducacaoProfissionalTécnicadeNivelMedionosistemaeducacional brasileiro.Sao 
+## Saoobjetivosespecificosdocurso:
 
-preceitos desta proposta a compreensao da educacao como uma pratica social e 
+Oferecer principios basicos que norteiam a mecanica, articulando esses conhecimentos com as normas técnicas afins, seguranca do trabalho,saude e meio ambiente;
 
-e eticamenteecomprometidocomastransformacoessociais,politicase culturais domundo, capazde atuarnomundodotrabalho,naperspectiva daedificacaodeumasociedademais justa e igualitaria. 
+Oportunizarodesenvolvimentodeprojetos eexecucaodedesenhosde equipamentos mecanicos e seus componentes;
 
-## 3.1Justificativadaofertadocurso 
+## -Desenvolver a habilidade em execucao deatividades de calculos técnicos,
 
-## Comaretomadadocrescimentoeconomicoapartirdadécadapassadaecoma 
+## aspectosambientaisesociais;
 
-que atuamneste setor da economia.Afinal,a modernizacao das industrias brasileiras,o procedimentos mecanicos, eletromecanicos ou informatizados, bem como a terceirizacao de certosservicosateentaorealizadosdentrodapropriaindustria,trouxeramumanova dinamicaparaosetorsecundariononossopais. 
+-Possibilitar situacoes de coordenacao e supervisao de instalacoes erealizacao de manutencao preventiva e corretiva de servicos mecanicos;
 
-Tais transformacoes provocaram mudancas nos perfis profissionais requisitados pelo 
+- Capacitar para a execucao trabalhos de controle de qualidade, ensaio de materiais, depesquisa aplicada bem como a execucao deprocessos de fabricacao.
 
-## padroesdeproducao,servicoequalidade. 
+## 3.3 Perfilprofissional deconclusao
 
-Diante deste quadro, a instalacao e manutencao de equipamentos mecanicos, a administracao e a gestao da producao, dentre outros, constituem areas de suma importancia paratodoosetorindustrial,quepossuiumademandaporprofissionaisquedominamtais conhecimentos. 
+O técnico em mecanica por se tratar de um profissional que fabrica, instala,opera e supervisionaequipamentosmecanicos,encontraummercadodetrabalhoamplonopaise no arranjo produtivo local.Os profissionais egressos do curso deverao estar habilitados a:
 
-Assim,aformacaodoTécnicoemMecanicanomundodotrabalhocolaboraracomo fortalecimentodaeconomiabrasileiraeculminaracomainsercaodosjovensnomercado metalomecanico, pela prestacao de servicos ou pelo empreendedorismo. E com base nesta premissa, que o IFPR campus Campo Largo oferta o curso técnico emMecanica,visandoaformacaodejovenstrabalhadoresparaosetorindustrialeparaas empresas prestadoras de servicos, que sao carentes de profissionais qualificados para a 
+funcionamento dos processos produtivos, planejando, executando e avaliando acoes de intervencaonarealidade;
 
-**==> picture [47 x 29] intentionally omitted <==**
+## Utilizar adequadamente alinguagem oraleescrita comoinstrumentode
 
-**----- Start of picture text -----**<br>
-FI. 420<br>Ass.:<br>**----- End of picture text -----**<br>
+> F1. 421 Ass.:
 
+8
 
-execucaodeservicostecnicosearealizacaodafabricacaoemanutencaodeugEuiperentos mecanicosindustriais. 
+instalacao, montagem, operacao e manutencao de maquinas e equipamentos, possibilitando queoprofissionalpossaposicionar-secriticamente;
 
-## 3.2 Objetivos do curso 
+-Aplicartecnicasdemedicaoeensaios,auxiliandonaavaliacaodascaracteristicase propriedades dos materiais,insumos e elementos de maquinas,visandoa melhoria da qualidadedeprodutoseservicosdaplantaindustrialmecanica;
 
-## 3.2.1Objetivogeral 
+-Realizarocontroledequalidadedosbenseservicosproduzidosutilizandocriterios de padronizacao e mensuracao;
 
-a realidade,aptos para realizarem atividades de fabricacao, operacao e manutencao de equipamentos mecanicos naindustria,emempresas deprestacaode servicosecomo profissionalliberalnomundodotrabalho. 
+-Executar a instalacao de maquinas e equipamentos, especificando materiais, acessorios,dispositivos e instrumentos,que possibilitem a otimizacao de sistemas s
 
-## 3.2.2Objetivos especificos 
+-Elaborar orcamentos de instalacoes mecanicas e de manutencao de maquinas e equipamentos,considerando arelacao custo/beneficio;
 
-## Saoobjetivosespecificosdocurso: 
+- Aplicar normas técnicas e especificacoes em projetos, processos de fabricacao, na instalacao de maquinas e equipamentos e na manutencao industrial mecanica, auxiliado por catalogos,manuaise tabelas;
 
-Oferecer principios basicos que norteiam a mecanica, articulando esses conhecimentos com as normas técnicas afins, seguranca do trabalho,saude e meio ambiente; 
+-Ler,articular e interpretar simbolos e codigos em diferentes linguagens e representacoes,estabelecendoestrategiasdesolucaoearticulandoosconhecimentosdas variascienciaseoutroscamposdosaber;
 
-Oportunizarodesenvolvimentodeprojetos eexecucaodedesenhosde equipamentos mecanicos e seus componentes; 
+-Compreender os fundamentos cientifico-tecnologicos dos processosprodutivos,
 
-## -Desenvolver a habilidade em execucao deatividades de calculos técnicos, 
+Formandoumprofissional na dimensaodomundodotrabalho,capazde articular competenciashumanasetecnicas,comhabilidadeparaidentificare solucionarproblemas contribuindoparaodesenvolvimentoeficazdoprocessodeproducaoe/oudesenvolvimento.
 
-## aspectosambientaisesociais; 
+## 3.4Criteriosde avaliacao da aprendizagem
 
--Possibilitar situacoes de coordenacao e supervisao de instalacoes erealizacao de manutencao preventiva e corretiva de servicos mecanicos; 
+Mecanicaserarealizadadeformacontinua,cumulativaesistematica,emconsonanciacom
 
-- Capacitar para a execucao trabalhos de controle de qualidade, ensaio de materiais, depesquisa aplicada bem como a execucao deprocessos de fabricacao. 
+as funcoes diagnostica,formativa e integradora,tendo como principio fundamental o desenvolvimentodaconscienciacriticaeconstituindoinstrumentocolaboradornaverificacao da aprendizagem, com o predominio dos aspectos qualitativos sobre os quantitativos.
 
-## 3.3 Perfilprofissional deconclusao 
+Diantedessaperspectiva,a avaliacaodeveracontemplarosseguintescriterios: - Diagnostico e registro do progresso do aluno e suas dificuldades;
 
-O técnico em mecanica por se tratar de um profissional que fabrica, instala,opera e supervisionaequipamentosmecanicos,encontraummercadodetrabalhoamplonopaise no arranjo produtivo local.Os profissionais egressos do curso deverao estar habilitados a: 
+FI 422<br>Ass.:<br>
 
-funcionamento dos processos produtivos, planejando, executando e avaliando acoes de intervencaonarealidade; 
+## [suas] Orientacao ao aluno quanto aos esforcos necessarios parasgupeiap dificuldades;
 
-## Utilizar adequadamente alinguagem oraleescrita comoinstrumentode 
+- Utilizacao de seus resultados para planejar e replanejar os conteudos curriculares; -Inclusaodetarefascontextualizadas;
 
-> F1. 421 Ass.: 
+Utilizacaofuncional doconhecimento;
 
-8 
+## - Divulgacao das exigencias da tarefa antes da sua avaliacao;
 
-instalacao, montagem, operacao e manutencao de maquinas e equipamentos, possibilitando queoprofissionalpossaposicionar-secriticamente; 
+- Exigencia dos mesmos procedimentos de avaliacao para todos os alunos;
 
--Aplicartecnicasdemedicaoeensaios,auxiliandonaavaliacaodascaracteristicase propriedades dos materiais,insumos e elementos de maquinas,visandoa melhoria da qualidadedeprodutoseservicosdaplantaindustrialmecanica; 
+## -Apoio disponivelpara aqueles que tem dificuldades;
 
--Realizarocontroledequalidadedosbenseservicosproduzidosutilizandocriterios de padronizacao e mensuracao; 
+## -Discussaoecorrecaodoserrosmaisimportantessobaoticada construcaode conhecimentos,atitudesehabilidades.
 
--Executar a instalacao de maquinas e equipamentos, especificando materiais, acessorios,dispositivos e instrumentos,que possibilitem a otimizacao de sistemas s 
+Emtermosquantitativos,aavaliacaododesempenhoescolar éfeitapor componentes curriculares e bimestres,considerando-se os aspectos de assiduidadee aproveitamento,amboseliminatorios.Aassiduidadedizrespeitoafrequenciaasaulas teoricas,aos trabalhos escolares, aos exercicios de aplicacao e atividades praticas, que nao deveserinferiora75%dasaulasdadas.Oaproveitamentoescolaréavaliadoatravesde acompanhamentocontinuodoestudanteedosresultadosporeleobtidosnasatividades avaliativas, que sao traduzidos em conceitos conforme determinado pela Portaria IFPR N 120/09,artigo9°:
 
--Elaborar orcamentos de instalacoes mecanicas e de manutencao de maquinas e equipamentos,considerando arelacao custo/beneficio; 
+## objetivospropostosnoprocessoensinoaprendizagem;
 
-- Aplicar normas técnicas e especificacoes em projetos, processos de fabricacao, na instalacao de maquinas e equipamentos e na manutencao industrial mecanica, auxiliado por catalogos,manuaise tabelas; 
+atingiu niveis desejaveis aos objetivos propostos no processo ensino aprendizagem; Ill.ConceitoC:a aprendizagemdoalunofoi SUFICIENTEeatingiu niveis aceitaveis aos objetivos propostos, sem comprometimento a continuidadenoprocessoensinoaprendizagem; IV.ConceitoD:aaprendizagemdoalunofoiINSUFICIENTEenao atingiu os objetivos propostos,comprometendo e/ou inviabilizando 0
 
--Ler,articular e interpretar simbolos e codigos em diferentes linguagens e representacoes,estabelecendoestrategiasdesolucaoearticulandoosconhecimentosdas variascienciaseoutroscamposdosaber; 
+A todos os estudantes e, em especial, aos que apresentarem aprendizagem insatisfatoria nos diferentes componentes curriculares,e atendendo a Portaria IFPR n°120/09,seraofertadaarecuperacaoparalelaemhorariodiversodaaularegular.Na recuperacaoparalelaoprofessor identifica as dificuldadesapresentadaspelos estudantese efetivaraaprendizagem.Havendoexitodoestudante,haveraapossibilidadederevisaodos conceitosregistradosanteriormente.
 
--Compreender os fundamentos cientifico-tecnologicos dos processosprodutivos, 
+DeacordocomaPortariaIFPRn°120/09eResolucaoIFPRn°54/11,0estudante
 
-Formandoumprofissional na dimensaodomundodotrabalho,capazde articular competenciashumanasetecnicas,comhabilidadeparaidentificare solucionarproblemas contribuindoparaodesenvolvimentoeficazdoprocessodeproducaoe/oudesenvolvimento. 
+> F1. 423
 
-## 3.4Criteriosde avaliacao da aprendizagem 
+10 Ass.:
 
-Mecanicaserarealizadadeformacontinua,cumulativaesistematica,emconsonanciacom 
+(03)<br>
 
-as funcoes diagnostica,formativa e integradora,tendo como principio fundamental o desenvolvimentodaconscienciacriticaeconstituindoinstrumentocolaboradornaverificacao da aprendizagem, com o predominio dos aspectos qualitativos sobre os quantitativos. 
+componentes curriculares.Areprovacao em quatro(o4)ou mais componentes curriculares implica matricula somente nestes componentes. Sendo o regime de matricula anual.
 
-Diantedessaperspectiva,a avaliacaodeveracontemplarosseguintescriterios: - Diagnostico e registro do progresso do aluno e suas dificuldades; 
+Em suma,o conceito minimo para aprovacao no componente curricular é C e a frequenciaminimaéde75%sobreototaldasaulasdadas.
 
-**==> picture [50 x 27] intentionally omitted <==**
+## 3.5Criteriosdeaproveitamentodeestudos anteriores eprocedimentosde avaliacaodecompetenciasanteriormentedesenvolvidas
 
-**----- Start of picture text -----**<br>
-FI 422<br>Ass.:<br>**----- End of picture text -----**<br>
+No CursoTécnico de Nivel MedioSubsequenteemMecanica,O aproveitamento de estudos e a certificacao de conhecimentos adquiridos por meio de experienciasvivenciadas previamenteaoiniciodocursoocorreraoconformedescritoaseguir,emconsonanciacoma ResolucaoCNE/CEBN06/12eaResolucaoIFPRN54/11.
 
+componentescurricularescursadoscomexitoemoutrocursodeEducacaoProfissional TécnicadeNivel Medio,excetonosCursosdeEnsinoMedioIntegradoePROEJA,e em cursos FiC de, no minimo, 160 horas (mediante avaliacao do estudante), quando solicitado peloestudantedevidamentematriculadonocomponentecurricularouetapaparaoqual solicita o aproveitamento ou ainda nao te-lo cursado,por meio de formulario proprio protocoladonaSecretariaAcademicadoCampuseacompanhadodosdocumentos constantesnoart.66daResolucaoIFPRN°54/11，noprazoestabelecidopeloCalendario Academico.
 
-## [suas] Orientacao ao aluno quanto aos esforcos necessarios parasgupeiap dificuldades; 
+ExtensaodoCampuseopedidodeveseravaliadoporComissaodeAnalisecompostapor professoresdaareadeconhecimentodeacordocomoscritérioscontidosnosincisosIell
 
-- Utilizacao de seus resultados para planejar e replanejar os conteudos curriculares; -Inclusaodetarefascontextualizadas; 
+## niveisdeensinodiferentes.
 
-Utilizacaofuncional doconhecimento; 
+Aavaliacaodoaproveitamentodeestudosanterioresdevevalorizaraexperiencia extraescolardoestudantesolicitantecomvistaacontinuidadedosestudos,coerentecomos itinerarios formativose os historicos profissionais,como preve o artigo 35,S 1°e 2° da ResolucaoCNE/CEBN906/12.
 
-## - Divulgacao das exigencias da tarefa antes da sua avaliacao; 
+## CertificacaodeConhecimentosAnteriorescompreendeoconhecimentoadquiridona
 
-- Exigencia dos mesmos procedimentos de avaliacao para todos os alunos; 
+conhecimentos.Nestecaso a solicitacao deveocorrer ate10(dez) dias acontardoiniciodo
 
-## -Apoio disponivelpara aqueles que tem dificuldades; 
+FI 424<br>Ass.:<br>
 
-## -Discussaoecorrecaodoserrosmaisimportantessobaoticada construcaode conhecimentos,atitudesehabilidades. 
+## [do] periodo letivo, por meio de formulario proprio protocolado na Secretarseadeia
 
-Emtermosquantitativos,aavaliacaododesempenhoescolar éfeitapor componentes curriculares e bimestres,considerando-se os aspectos de assiduidadee aproveitamento,amboseliminatorios.Aassiduidadedizrespeitoafrequenciaasaulas teoricas,aos trabalhos escolares, aos exercicios de aplicacao e atividades praticas, que nao deveserinferiora75%dasaulasdadas.Oaproveitamentoescolaréavaliadoatravesde acompanhamentocontinuodoestudanteedosresultadosporeleobtidosnasatividades avaliativas, que sao traduzidos em conceitos conforme determinado pela Portaria IFPR N 120/09,artigo9°: 
+A certificacaodeconhecimentosanterioresnaoévalidaparaTrabalhodeConclusao de Curso(TCC)ou EstagioSupervisionado.
 
-## objetivospropostosnoprocessoensinoaprendizagem; 
+O respectivo processo de certificacao consistira em uma avaliacao teorica ou teoricopratica,conforme as caracteristicas do componentecurricular,elaboradopela coordenacao e junto aocolegiadodocurso.
 
-atingiu niveis desejaveis aos objetivos propostos no processo ensino aprendizagem; Ill.ConceitoC:a aprendizagemdoalunofoi SUFICIENTEeatingiu niveis aceitaveis aos objetivos propostos, sem comprometimento a continuidadenoprocessoensinoaprendizagem; IV.ConceitoD:aaprendizagemdoalunofoiINSUFICIENTEenao atingiu os objetivos propostos,comprometendo e/ou inviabilizando 0 
+## 3.6Instalacoes e equipamentos,recursos tecnologicos ebiblioteca:
 
-A todos os estudantes e, em especial, aos que apresentarem aprendizagem insatisfatoria nos diferentes componentes curriculares,e atendendo a Portaria IFPR n°120/09,seraofertadaarecuperacaoparalelaemhorariodiversodaaularegular.Na recuperacaoparalelaoprofessor identifica as dificuldadesapresentadaspelos estudantese efetivaraaprendizagem.Havendoexitodoestudante,haveraapossibilidadederevisaodos conceitosregistradosanteriormente. 
+Ocampuscontacom02laboratoriosdeinformatica,destinadosaodesenvolvimento dasatividadesdoscursos:Laboratorio01com17computadoreseLaboratorio2com40
 
-DeacordocomaPortariaIFPRn°120/09eResolucaoIFPRn°54/11,0estudante 
+comunsdocampussaodisponibilizadoscomputadoresparausogeraleacessibilidade digital dacomunidadeescolar.
 
-> F1. 423 
+Abibliotecadocampusestaorganizadacomacervoreferenteabibliografiabasica CAPES de Periodicos e sistema de seguranca.Conta com um sistema informatizado, possibilitandofacil acessovia terminal ao acervo dabiblioteca,queédivididoporareas de conhecimento，facilitando,a procura por titulos especificos,com exemplares de livros e peri6dicos, contemplando todas as areas de abrangencia do curso. E oferecido servicos de emprestimo,renovacaoereserva dematerial,consultas informatizadasa bases dedados e
 
-10 Ass.: 
+bibliograficaevisitasorientadas.
 
-**==> picture [22 x 11] intentionally omitted <==**
+Compoe também o quadro de instalacoes e equipamentos necessarios para a realizacao do curso:
 
-**----- Start of picture text -----**<br>
-(03)<br>**----- End of picture text -----**<br>
+- -Sala deAudiovisual;
 
+- -Salas de Aula;
 
-componentes curriculares.Areprovacao em quatro(o4)ou mais componentes curriculares implica matricula somente nestes componentes. Sendo o regime de matricula anual. 
+- Laboratorio de Automacao Hidraulica e Pneumatica;
 
-Em suma,o conceito minimo para aprovacao no componente curricular é C e a frequenciaminimaéde75%sobreototaldasaulasdadas. 
+- Laboratorio de Maquinas e Aparelhos Mecanicos;
 
-## 3.5Criteriosdeaproveitamentodeestudos anteriores eprocedimentosde avaliacaodecompetenciasanteriormentedesenvolvidas 
+- -Laboratorio deMetrologia;
 
-No CursoTécnico de Nivel MedioSubsequenteemMecanica,O aproveitamento de estudos e a certificacao de conhecimentos adquiridos por meio de experienciasvivenciadas previamenteaoiniciodocursoocorreraoconformedescritoaseguir,emconsonanciacoma ResolucaoCNE/CEBN06/12eaResolucaoIFPRN54/11. 
+## -Laboratorio deTecnologia dosMateriais Ensaio deMateriais;
 
-componentescurricularescursadoscomexitoemoutrocursodeEducacaoProfissional TécnicadeNivel Medio,excetonosCursosdeEnsinoMedioIntegradoePROEJA,e em cursos FiC de, no minimo, 160 horas (mediante avaliacao do estudante), quando solicitado peloestudantedevidamentematriculadonocomponentecurricularouetapaparaoqual solicita o aproveitamento ou ainda nao te-lo cursado,por meio de formulario proprio protocoladonaSecretariaAcademicadoCampuseacompanhadodosdocumentos constantesnoart.66daResolucaoIFPRN°54/11，noprazoestabelecidopeloCalendario Academico. 
+- -Laboratorio de Conformacao Mecanica;
 
-ExtensaodoCampuseopedidodeveseravaliadoporComissaodeAnalisecompostapor professoresdaareadeconhecimentodeacordocomoscritérioscontidosnosincisosIell 
+- -Laboratoriode Soldagem;
 
-## niveisdeensinodiferentes. 
+- Laboratorio de Usinagem;
 
-Aavaliacaodoaproveitamentodeestudosanterioresdevevalorizaraexperiencia extraescolardoestudantesolicitantecomvistaacontinuidadedosestudos,coerentecomos itinerarios formativose os historicos profissionais,como preve o artigo 35,S 1°e 2° da ResolucaoCNE/CEBN906/12. 
+- Laboratorio de Instalacoes Industriais.
 
-## CertificacaodeConhecimentosAnteriorescompreendeoconhecimentoadquiridona 
+## 3.7 Pessoasenvolvidas-docentese tecnicos:
 
-conhecimentos.Nestecaso a solicitacao deveocorrer ate10(dez) dias acontardoiniciodo 
+F1 425 KANA<br>12<br>Ass.<br>CAMP<br>
 
-**==> picture [47 x 25] intentionally omitted <==**
+## 1. Direcao
 
-**----- Start of picture text -----**<br>
-FI 424<br>Ass.:<br>**----- End of picture text -----**<br>
+Nome
 
+JoaoClaudioMadureira
 
-## [do] periodo letivo, por meio de formulario proprio protocolado na Secretarseadeia 
+Regime de Trabalho DedicacaoExclusiva
 
-A certificacaodeconhecimentosanterioresnaoévalidaparaTrabalhodeConclusao de Curso(TCC)ou EstagioSupervisionado. 
+## Formacao superior MedicinaVeterinaria
 
-O respectivo processo de certificacao consistira em uma avaliacao teorica ou teoricopratica,conforme as caracteristicas do componentecurricular,elaboradopela coordenacao e junto aocolegiadodocurso. 
+Pos-graduacao
 
-## 3.6Instalacoes e equipamentos,recursos tecnologicos ebiblioteca: 
+## CienciasemTecnologiadeAlimentos
 
-Ocampuscontacom02laboratoriosdeinformatica,destinadosaodesenvolvimento dasatividadesdoscursos:Laboratorio01com17computadoreseLaboratorio2com40 
+## 2. Direcao de Ensino
 
-comunsdocampussaodisponibilizadoscomputadoresparausogeraleacessibilidade digital dacomunidadeescolar. 
+Nome
 
-Abibliotecadocampusestaorganizadacomacervoreferenteabibliografiabasica CAPES de Periodicos e sistema de seguranca.Conta com um sistema informatizado, possibilitandofacil acessovia terminal ao acervo dabiblioteca,queédivididoporareas de conhecimento，facilitando,a procura por titulos especificos,com exemplares de livros e peri6dicos, contemplando todas as areas de abrangencia do curso. E oferecido servicos de emprestimo,renovacaoereserva dematerial,consultas informatizadasa bases dedados e 
+AmauryPessoaGebran
 
-bibliograficaevisitasorientadas. 
+Regime deTrabalho Dedicacao Exclusiva
 
-Compoe também o quadro de instalacoes e equipamentos necessarios para a realizacao do curso: 
+Formacao superior Engenharia Eletrica
 
-- -Sala deAudiovisual; 
+Pos-graduacao Mestrado emEducacao
 
-- -Salas de Aula; 
+## 3.Coordenacao de Curso
 
-- Laboratorio de Automacao Hidraulica e Pneumatica; 
+Nome
 
-- Laboratorio de Maquinas e Aparelhos Mecanicos; 
+## Marta Gomes Francisco
 
-- -Laboratorio deMetrologia; 
+Regime de Trabalho 20 horas
 
-## -Laboratorio deTecnologia dosMateriais Ensaio deMateriais; 
+Formacao superior Engenharia Mecanica
 
-- -Laboratorio de Conformacao Mecanica; 
+## Pos-graduacao EspecializacaoemControleEstatisticodaQualidade MestradoemEngenhariaMetalurgica-TratamentodeSuperficieMetalica
 
-- -Laboratoriode Soldagem; 
+## 4.Corpo Docente
 
-- Laboratorio de Usinagem; 
+Nome AnselmoFabris Formacao superior Engenharia Mecanica
 
-- Laboratorio de Instalacoes Industriais. 
+Regime deTrabalho<br>Dedicacao Exclusiva<br>
 
-## 3.7 Pessoasenvolvidas-docentese tecnicos: 
+## Pos-graduacao
 
-**==> picture [94 x 45] intentionally omitted <==**
+## MestradoEngenhariaMecanica
 
-**----- Start of picture text -----**<br>
-F1 425 KANA<br>12<br>Ass.<br>CAMP<br>**----- End of picture text -----**<br>
+> Nome Regime de Trabalho
 
+> GismarSchilivedeSouza Dedicacao Exclusiva Formacao superior Tecnologia Mecanica
 
-## 1. Direcao 
+## Pos-graduacao
 
-Nome 
+MestradoemEngenhariaMecanica
 
-JoaoClaudioMadureira 
+> EDER RALDO
 
-Regime de Trabalho DedicacaoExclusiva 
+> F1 426 Ass.:
 
-## Formacao superior MedicinaVeterinaria 
+13
 
-Pos-graduacao 
+## Nome
 
-## CienciasemTecnologiadeAlimentos 
+## Ricardo Kertscher
 
-## 2. Direcao de Ensino 
+Regime d **e** Trabaif DedicacaoExclusiva
 
-Nome 
+Formacao superior Engenharia Mecanica
 
-AmauryPessoaGebran 
+## Pos-graduacao
 
-Regime deTrabalho Dedicacao Exclusiva 
+## EspecializacaoemDistribuicaoeUtilizacaodeGasNatural-eixoControlee Processos Industriais
 
-Formacao superior Engenharia Eletrica 
+## Nome
 
-Pos-graduacao Mestrado emEducacao 
+Rogerio Breganon
 
-## 3.Coordenacao de Curso 
+Regime de Trabalho Dedicacao Exclusiva
 
-Nome 
+Formacao superior Tecnologia Mecanica
 
-## Marta Gomes Francisco 
+## Pos-graduacao Especializacao em Automacao,Controle e Processos Industriais
 
-Regime de Trabalho 20 horas 
+Nome HelcioYosaburoHattori
 
-Formacao superior Engenharia Mecanica 
+Regime de Trabalho Dedicacao Exclusiva
 
-## Pos-graduacao EspecializacaoemControleEstatisticodaQualidade MestradoemEngenhariaMetalurgica-TratamentodeSuperficieMetalica 
+Formacao superior Engenharia Mecanica
 
-## 4.Corpo Docente 
+## Pos-graduacao MestradoemEngenhariaMecanica
 
-Nome AnselmoFabris Formacao superior Engenharia Mecanica 
+## Nome
 
-**==> picture [108 x 28] intentionally omitted <==**
+LucianoAlcindoSchulli
 
-**----- Start of picture text -----**<br>
-Regime deTrabalho<br>Dedicacao Exclusiva<br>**----- End of picture text -----**<br>
+Regime de Trabalho Dedicagao Exclusiva
 
+Formacao superior Engenharia Mecanica
 
-## Pos-graduacao 
+## Pos-graduacao
 
-## MestradoEngenhariaMecanica 
+## Nome Daniela Bianchi Ponce Leon de Lima Formacao superior EngenhariaMecanica Pos-graduagao DoutoradoemEngenhariaMecanica-Manufatura
 
-> Nome Regime de Trabalho 
+Regime de Trabalho Dedicacao Exclusiva
 
-> GismarSchilivedeSouza Dedicacao Exclusiva Formacao superior Tecnologia Mecanica 
+Nome
 
-## Pos-graduacao 
+Paulo Sérgio Schneider
 
-MestradoemEngenhariaMecanica 
+Regime de Trabalho Dedicacao Exclusiva
 
-> EDER RALDO 
+> F1 42+
 
-> F1 426 Ass.: 
+RANA
 
-13 
+Ass.<br>
 
-## Nome 
+Formacao superior EngenheiroMecanico
 
-## Ricardo Kertscher 
+CAMPOL<br>
 
-Regime d **e** Trabaif DedicacaoExclusiva 
+## Pos-graduacao
 
-Formacao superior Engenharia Mecanica 
+## Nome
 
-## Pos-graduacao 
+LucianeSchulzFonseca
 
-## EspecializacaoemDistribuicaoeUtilizacaodeGasNatural-eixoControlee Processos Industriais 
+Regime deTrabalho Dedicacao Exclusiva
 
-## Nome 
+## Formacao superior
 
-Rogerio Breganon 
+Direito
 
-Regime de Trabalho Dedicacao Exclusiva 
+## Pos-graduacao MestreemPoliticasPublicas
 
-Formacao superior Tecnologia Mecanica 
+## Nome
 
-## Pos-graduacao Especializacao em Automacao,Controle e Processos Industriais 
+## Patricia Machado
 
-Nome HelcioYosaburoHattori 
+Regime deTrabalho Dedicacao Exclusiva
 
-Regime de Trabalho Dedicacao Exclusiva 
+## Formacao superior LicenciadaLetras/Portugues
 
-Formacao superior Engenharia Mecanica 
+## Pos-graduacao
 
-## Pos-graduacao MestradoemEngenhariaMecanica 
+## Especialista/Mestradoemandamento
 
-## Nome 
+## Nome
 
-LucianoAlcindoSchulli 
+Marta GomesFrancisco
 
-Regime de Trabalho Dedicagao Exclusiva 
+Regime de Trabalho 20 horas
 
-Formacao superior Engenharia Mecanica 
+Formacao superior Engenheira Mecanica
 
-## Pos-graduacao 
+## Pos-graduacao
 
-## Nome Daniela Bianchi Ponce Leon de Lima Formacao superior EngenhariaMecanica Pos-graduagao DoutoradoemEngenhariaMecanica-Manufatura 
+## EspecializacaoemControleEstatisticodaQualidade MestradoemEngenhariaMetalurgica-TratamentodeSuperficieMetalica
 
-Regime de Trabalho Dedicacao Exclusiva 
+Nome ElianeSiqueiraRazzoto
 
-Nome 
+Regime de Trabalho DedicacaoExclusiva
 
-Paulo Sérgio Schneider 
+Formacao superior Licenciatura Quimica
 
-Regime de Trabalho Dedicacao Exclusiva 
+## Pos-graduacao MestradoemQuimicaAnalitica
 
-> F1 42+ 
+## Nome
 
-RANA 
+Samuel Wiedeman
 
-14 
+Regime deTrabalho 40 horas
 
-**==> picture [21 x 9] intentionally omitted <==**
+Formacao superior LetrasPortugues/lngles
 
-**----- Start of picture text -----**<br>
-Ass.<br>**----- End of picture text -----**<br>
+> F1. 428
 
+Ass.
 
-Formacao superior EngenheiroMecanico 
+15
 
-**==> picture [33 x 11] intentionally omitted <==**
+## Pos-graduacao MestradoLetras/ Concentracao LinguagemeSociedade
 
-**----- Start of picture text -----**<br>
-CAMPOL<br>**----- End of picture text -----**<br>
+## Nome
 
+## Ronaldo Guedes
 
-## Pos-graduacao 
+Regime deTrabalho Dedicacao Exclusiva
 
-## Nome 
+## Formacao superior
 
-LucianeSchulzFonseca 
+## EngenheiroAgronomo
 
-Regime deTrabalho Dedicacao Exclusiva 
+## Pos-graduacao Doutor em Ciencias
 
-## Formacao superior 
+## 5.Tecnicosadministrativos
 
-Direito 
+## Nome
 
-## Pos-graduacao MestreemPoliticasPublicas 
+## AdrianaBarbosa Coelho
 
-## Nome 
+## Regime de Trabalho 40horas
 
-## Patricia Machado 
+## Formacao
 
-Regime deTrabalho Dedicacao Exclusiva 
+Direito
 
-## Formacao superior LicenciadaLetras/Portugues 
+## Funcao
 
-## Pos-graduacao 
+## AssistenteemAdministracao
 
-## Especialista/Mestradoemandamento 
+## Nome
 
-## Nome 
+## AdrianaKlostermanndosSantos
 
-Marta GomesFrancisco 
+Regime de Trabalho 40 horas
 
-Regime de Trabalho 20 horas 
+## Formacao
 
-Formacao superior Engenheira Mecanica 
+## Administracao
 
-## Pos-graduacao 
+## Funcao
 
-## EspecializacaoemControleEstatisticodaQualidade MestradoemEngenhariaMetalurgica-TratamentodeSuperficieMetalica 
+## AssistenteemAdministracao
 
-Nome ElianeSiqueiraRazzoto 
+## Nome
 
-Regime de Trabalho DedicacaoExclusiva 
+AliceFelisbinoGolin
 
-Formacao superior Licenciatura Quimica 
+Regime de Trabalho 40 horas
 
-## Pos-graduacao MestradoemQuimicaAnalitica 
+## Formacao Pedagogia/MestreemEducacao
 
-## Nome 
+## Fungao Pedagoga
 
-Samuel Wiedeman 
+## Nome Andre Augusto Camilo
 
-Regime deTrabalho 40 horas 
+Regime de Trabalho 40horas
 
-Formacao superior LetrasPortugues/lngles 
+Formacao Técnico em Mecanica
 
-> F1. 428 
+Funcao Técnico em laboratorio
 
-Ass. 
+FI. 429 Ass.:
 
-15 
+16
 
-## Pos-graduacao MestradoLetras/ Concentracao LinguagemeSociedade 
+## Nome
 
-## Nome 
+## AngelaPalomaZelliWiedemann
 
-## Ronaldo Guedes 
+## 40horas
 
-Regime deTrabalho Dedicacao Exclusiva 
+## Formacao
 
-## Formacao superior 
+## Licenciatura em Biologia/Especialista
 
-## EngenheiroAgronomo 
+## Fungao
 
-## Pos-graduacao Doutor em Ciencias 
+## Tradutora interprete deLIBRAS
 
-## 5.Tecnicosadministrativos 
+## Nome
 
-## Nome 
+AntonioHenriquePolato
 
-## AdrianaBarbosa Coelho 
+Regime deTrabalho 40 horas
 
-## Regime de Trabalho 40horas 
+## Formacao
 
-## Formacao 
+## Direito/Especializacao
 
-Direito 
+## Funcao
 
-## Funcao 
+## Assistente emAdministracao
 
-## AssistenteemAdministracao 
+Nome
 
-## Nome 
+ClebersonLucianoGomes
 
-## AdrianaKlostermanndosSantos 
+RegimedeTrabalho 40 horas
 
-Regime de Trabalho 40 horas 
+## Formacao Administracao
 
-## Formacao 
+## Funcao
 
-## Administracao 
+## Assistente de alunos
 
-## Funcao 
+## Nome EdilaineCordeiroBaiek
 
-## AssistenteemAdministracao 
+Regime de Trabalho 40horas
 
-## Nome 
+## Formacao Ensino Medio
 
-AliceFelisbinoGolin 
+## Funcao Auxiliar debiblioteca
 
-Regime de Trabalho 40 horas 
+## Nome Elilda dosSantosSilva Formacao Técnica em Contabilidade
 
-## Formacao Pedagogia/MestreemEducacao 
+Regime de Trabalho 40horas
 
-## Fungao Pedagoga 
+## Funcao Técnica em Contabilidade
 
-## Nome Andre Augusto Camilo 
+Nome Regime deTrabalho ElisabetedoCarmoBrantes 40horas
 
-Regime de Trabalho 40horas 
+FI. 430 Ass. CAMPUS SCAMFCI
 
-Formacao Técnico em Mecanica 
+LDOA<br>
 
-Funcao Técnico em laboratorio 
+## Formacao EnsinoMedio
 
-FI. 429 Ass.: 
+## Funcao
 
-16 
+## AssistenteemAdministracao
 
-## Nome 
+## Nome
 
-## AngelaPalomaZelliWiedemann 
+ElisetePoncio Aires
 
-## 40horas 
+Regime de Trabalho 40horas
 
-## Formacao 
+## Formacao
 
-## Licenciatura em Biologia/Especialista 
+## LicenciaturaemLetras/Mestrado
 
-## Fungao 
+## Fungao
 
-## Tradutora interprete deLIBRAS 
+## TecnicaemAssuntosEducacionais
 
-## Nome 
+## Nome
 
-AntonioHenriquePolato 
+## EveliseFernandesPietrovskiSoletti
 
-Regime deTrabalho 40 horas 
+Regime deTrabalho 40horas
 
-## Formacao 
+## Formacao
 
-## Direito/Especializacao 
+## Farmacia/Doutorado
 
-## Funcao 
+## Funcao
 
-## Assistente emAdministracao 
+## Assistentedealunos
 
-Nome 
+Nome FabianadeAguiarGuzzoni
 
-ClebersonLucianoGomes 
+Regime de Trabalho 40horas
 
-RegimedeTrabalho 40 horas 
+## Formacao EngenhariadeAlimentos
 
-## Formacao Administracao 
-
-## Funcao 
-
-## Assistente de alunos 
-
-## Nome EdilaineCordeiroBaiek 
-
-Regime de Trabalho 40horas 
-
-## Formacao Ensino Medio 
-
-## Funcao Auxiliar debiblioteca 
-
-## Nome Elilda dosSantosSilva Formacao Técnica em Contabilidade 
-
-Regime de Trabalho 40horas 
-
-## Funcao Técnica em Contabilidade 
-
-Nome Regime deTrabalho ElisabetedoCarmoBrantes 40horas 
-
-FI. 430 Ass. CAMPUS SCAMFCI 
-
-17 
-
-**==> picture [21 x 9] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-LDOA<br>**----- End of picture text -----**<br>
-
-
-## Formacao EnsinoMedio 
-
-## Funcao 
-
-## AssistenteemAdministracao 
-
-## Nome 
-
-ElisetePoncio Aires 
-
-Regime de Trabalho 40horas 
-
-## Formacao 
-
-## LicenciaturaemLetras/Mestrado 
-
-## Fungao 
-
-## TecnicaemAssuntosEducacionais 
-
-## Nome 
-
-## EveliseFernandesPietrovskiSoletti 
-
-Regime deTrabalho 40horas 
-
-## Formacao 
-
-## Farmacia/Doutorado 
-
-## Funcao 
-
-## Assistentedealunos 
-
-Nome FabianadeAguiarGuzzoni 
-
-Regime de Trabalho 40horas 
-
-## Formacao EngenhariadeAlimentos 
-
-## Funcao Assistente emAdministracao 
+## Funcao Assistente emAdministracao
 
 |Nome|Regime deTrabalho|
 |---|---|
@@ -758,101 +686,87 @@ Regime de Trabalho 40horas
 |Formacao||
 |Técnico emInformatica||
 
+> F 431 Ass.:
 
+LDO<br>
 
-> F 431 Ass.: 
+## Funcao
 
-18 
+## TécnicodeTecnologiadaInformacao
 
-**==> picture [7 x 17] intentionally omitted <==**
+## Nome
 
-**----- Start of picture text -----**<br>
-LDO<br>**----- End of picture text -----**<br>
+## GuilhermeBassodosReis
 
+## Regime de Trabalho 40horas
 
-## Funcao 
+## Formacao
 
-## TécnicodeTecnologiadaInformacao 
+## Ensino Medio
 
-## Nome 
+## Funcao
 
-## GuilhermeBassodosReis 
+## Auxiliardebiblioteca
 
-## Regime de Trabalho 40horas 
+## Nome
 
-## Formacao 
+Israel LuizJulio
 
-## Ensino Medio 
+Regime de Trabalho 40 horas
 
-## Funcao 
+Formacao Comércio Exterior
 
-## Auxiliardebiblioteca 
+## Funcao
 
-## Nome 
+## AssistenteemAdministracao
 
-Israel LuizJulio 
+## Nome
 
-Regime de Trabalho 40 horas 
+LilianeWilcek
 
-Formacao Comércio Exterior 
+Regime de Trabalho 40 horas
 
-## Funcao 
+## Formacao
 
-## AssistenteemAdministracao 
+## Administracao
 
-## Nome 
+## Funcao
 
-LilianeWilcek 
+## AuxiliaremAdministracao
 
-Regime de Trabalho 40 horas 
+Regime de Trabalho 40 horas
 
-## Formacao 
+## Nome
 
-## Administracao 
+## Luciana Milcarek
 
-## Funcao 
+## Formacao Funcao
 
-## AuxiliaremAdministracao 
+## LicenciadaemEducacaoArtisticaeArtesPlasticas/Mestrado
 
-Regime de Trabalho 40 horas 
+## TecnicaemAssuntosEducacionais
 
-## Nome 
+Nome Luciano Urgal Pando
 
-## Luciana Milcarek 
+Regime de Trabalho 40horas
 
-## Formacao Funcao 
+Formacao Ensino Medio
 
-## LicenciadaemEducacaoArtisticaeArtesPlasticas/Mestrado 
+Fungao Assistente de alunos
 
-## TecnicaemAssuntosEducacionais 
+FI.<br>432<br>Ass.:<br>
 
-Nome Luciano Urgal Pando 
+Nome Lucio Schulz Junior
 
-Regime de Trabalho 40horas 
+Regimede 40horas
 
-Formacao Ensino Medio 
+## Formacao Economia/Especializacao
 
-Fungao Assistente de alunos 
+## Fungao Diretor administrativo
 
-19 
+## Nome Naiane Seguro Formacao Contabilidade Pos-graduacao Contadora
 
-**==> picture [50 x 29] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-FI.<br>432<br>Ass.:<br>**----- End of picture text -----**<br>
-
-
-Nome Lucio Schulz Junior 
-
-Regimede 40horas 
-
-## Formacao Economia/Especializacao 
-
-## Fungao Diretor administrativo 
-
-## Nome Naiane Seguro Formacao Contabilidade Pos-graduacao Contadora 
-
-Regime deTrabalho 40 horas 
+Regime deTrabalho 40 horas
 
 |Nome|Regime deTrabalho|
 |---|---|
@@ -874,87 +788,77 @@ Regime deTrabalho 40 horas
 |Nome|Regime de Trabalho|
 |SamantaRamosdosSantos|40horas|
 
+Regime deTrabalho 40 horas
 
+20
 
-Regime deTrabalho 40 horas 
+## Formacao Biologia/Especializacao
 
-20 
+F1 433<br>RANA<br>Ass.:<br>CAMPOL<br>
 
-## Formacao Biologia/Especializacao 
+## Funcao AssistenteemAdministracao
 
-**==> picture [69 x 55] intentionally omitted <==**
+## Nome
 
-**----- Start of picture text -----**<br>
-F1 433<br>RANA<br>Ass.:<br>CAMPOL<br>**----- End of picture text -----**<br>
+SharonAndrioli
 
+RegimedeTrabalho 40 horas
 
-## Funcao AssistenteemAdministracao 
+Formacao TecnicoemSecretariado
 
-## Nome 
+Funcao
 
-SharonAndrioli 
+## SecretariadeGabinete
 
-RegimedeTrabalho 40 horas 
+Nome
 
-Formacao TecnicoemSecretariado 
+SimoneAparecida Milliorin
 
-Funcao 
+Regime de Trabalho 40horas
 
-## SecretariadeGabinete 
+## Formacao Pedagogia/Especializacao
 
-Nome 
+Funcao Pedagoga Nome RegimedeTrabalho SuellenPaolaMartins 40horas Formacao Pedagogia/Especializacao Fungao Assistente em Administracao
 
-SimoneAparecida Milliorin 
+## 3.8 Descricaodediplomasecertificados aserem expedidos
 
-Regime de Trabalho 40horas 
+A organizacaodocurso esta estruturada emregime seriado anual comuma matriz curricular definida por componentes curriculares,dividida em dois anos letivos com uma carga horaria de 1338h(mil trezentas e trinta e oito horas-relogio).
 
-## Formacao Pedagogia/Especializacao 
+Aposa integralizacaodetodasoscomponentescurricularesquecompoemamatriz curricular do curso técnico de nivel médio na forma subsequente, sera conferido ao concluintedocursooDiplomadeTecnicoemMecanicadoEixoTecnologicoControlee Processos Industriais.
 
-Funcao Pedagoga Nome RegimedeTrabalho SuellenPaolaMartins 40horas Formacao Pedagogia/Especializacao Fungao Assistente em Administracao 
+## 3.9 Organizacao curricular
 
-## 3.8 Descricaodediplomasecertificados aserem expedidos 
+FI 434<br>21<br>Ass.:<br>CAMPUS<br>CAMPO<br>
 
-A organizacaodocurso esta estruturada emregime seriado anual comuma matriz curricular definida por componentes curriculares,dividida em dois anos letivos com uma carga horaria de 1338h(mil trezentas e trinta e oito horas-relogio). 
+## 3.9.1Praticaspedagogicasprevistas
 
-Aposa integralizacaodetodasoscomponentescurricularesquecompoemamatriz curricular do curso técnico de nivel médio na forma subsequente, sera conferido ao concluintedocursooDiplomadeTecnicoemMecanicadoEixoTecnologicoControlee Processos Industriais. 
+A organizacaodocursoTécnicodeNivel MedioSubsequenteemMecanica temcomo principio educativo a relacao teoria-pratica, dessa forma o processo pedagogico estara centrado em aulas teoricas,seminarios,visitas tecnicas,pesquisas,praticas laboratoriais, estudosdecasoedesenvolvimentodeprojetos,entreoutros.
 
-## 3.9 Organizacao curricular 
+## 3.9.2Praticaprofissional
 
-**==> picture [97 x 57] intentionally omitted <==**
+A pratica profissional permeara todo o curso como uma forma de propiciar uma convivenciamaisconsistentecomaarea.Oalunopoderaaindarealizarestagio,deforma optativa,devendocumprir oregulamentodoestagiocurricularnaoobrigatoriodoInstituto Federal doParana.
 
-**----- Start of picture text -----**<br>
-FI 434<br>21<br>Ass.:<br>CAMPUS<br>CAMPO<br>**----- End of picture text -----**<br>
+## 3.9.3 Matriz curricular
 
+Curriculares Nacionais paraaEducacaoProfissional deNivel Técnico,nosReferenciais CurricularesNacionaisdaEducacaoProfissional,noDecretoN5154/04enaResolucao CNE/CEBN°06/12queDefineasDiretrizesCurricularesNacionaisparaaEducacao Profissional TécnicadeNivelMedio.
 
-## 3.9.1Praticaspedagogicasprevistas 
+curricular definida por componentes curriculares, dividida em dois anos letivos nos periodos matutinoenoturno.
 
-A organizacaodocursoTécnicodeNivel MedioSubsequenteemMecanica temcomo principio educativo a relacao teoria-pratica, dessa forma o processo pedagogico estara centrado em aulas teoricas,seminarios,visitas tecnicas,pesquisas,praticas laboratoriais, estudosdecasoedesenvolvimentodeprojetos,entreoutros. 
+Nesta solicitacao de reformulacao do Curso Técnico de Nivel Medio Subsequente em Mecanica foram propostas novos componentes curriculares, conteudos e ajuste do horario da hora-aula para cinquenta minutos, cada aula, com acompanhamento individual e coletivo de todo o processo de producao a ser construido. A instituicao e o curso conseguiram ser abertososuficienteparavoltar,rever,rediscutircomtodososatoresenvolvidosnoprocesso
 
-## 3.9.2Praticaprofissional 
+Insere-se tambem na proposta pedagogica o trabalho transversal com temas relevantes paraasociedadebrasileira,atendendo tambemalegislacao vigente.As Resoluc0esCNE/CEB01/2012e02/2012tratamrespectivamentedaeducacaoemdireitos humanos e da questao ambiental, contemplando o Decreto n°7.037/2009,que institui 0 Programa Nacional de Direitos Humanos - PNDH 3 e a Lei n° 9.795/99,que dispoe sobre a PoliticaNacional deEducacaoAmbiental.
 
-A pratica profissional permeara todo o curso como uma forma de propiciar uma convivenciamaisconsistentecomaarea.Oalunopoderaaindarealizarestagio,deforma optativa,devendocumprir oregulamentodoestagiocurricularnaoobrigatoriodoInstituto Federal doParana. 
+s F1. 435 Ass.:
 
-## 3.9.3 Matriz curricular 
+22
 
-Curriculares Nacionais paraaEducacaoProfissional deNivel Técnico,nosReferenciais CurricularesNacionaisdaEducacaoProfissional,noDecretoN5154/04enaResolucao CNE/CEBN°06/12queDefineasDiretrizesCurricularesNacionaisparaaEducacao Profissional TécnicadeNivelMedio. 
+Considerando ainda a Resolucao CNE/CEB n02/2012, a transversieaVolvera tambemo trabalhointegradodosdiferentescomponentescurricularestambematravesdos conteudos:educacao alimentar e nutricional;processo de envelhecimento,respeito e valorizacao do idoso(Lei n° 10.741/2003, que dispoe sobre o Estatuto do ldoso); Educacao para o Transito (Lei n° 9.503/97, que institui o Codigo de TransitoBrasileiro).
 
-curricular definida por componentes curriculares, dividida em dois anos letivos nos periodos matutinoenoturno. 
+Tais conteudos devem fazer parte do trabalho transversal, dialogando com os diferentescomponentescurricularesumavezquesaoessenciaisquandoseobjetivauma formacaohumana e técnica deexcelencia com vistas a formacao integralpara uma participacaocidada,criticaeativanomundodotrabalho.
 
-Nesta solicitacao de reformulacao do Curso Técnico de Nivel Medio Subsequente em Mecanica foram propostas novos componentes curriculares, conteudos e ajuste do horario da hora-aula para cinquenta minutos, cada aula, com acompanhamento individual e coletivo de todo o processo de producao a ser construido. A instituicao e o curso conseguiram ser abertososuficienteparavoltar,rever,rediscutircomtodososatoresenvolvidosnoprocesso 
+## TECNICOEMMECANICA-SUBSEQUENTE
 
-Insere-se tambem na proposta pedagogica o trabalho transversal com temas relevantes paraasociedadebrasileira,atendendo tambemalegislacao vigente.As Resoluc0esCNE/CEB01/2012e02/2012tratamrespectivamentedaeducacaoemdireitos humanos e da questao ambiental, contemplando o Decreto n°7.037/2009,que institui 0 Programa Nacional de Direitos Humanos - PNDH 3 e a Lei n° 9.795/99,que dispoe sobre a PoliticaNacional deEducacaoAmbiental. 
-
-s F1. 435 Ass.: 
-
-22 
-
-Considerando ainda a Resolucao CNE/CEB n02/2012, a transversieaVolvera tambemo trabalhointegradodosdiferentescomponentescurricularestambematravesdos conteudos:educacao alimentar e nutricional;processo de envelhecimento,respeito e valorizacao do idoso(Lei n° 10.741/2003, que dispoe sobre o Estatuto do ldoso); Educacao para o Transito (Lei n° 9.503/97, que institui o Codigo de TransitoBrasileiro). 
-
-Tais conteudos devem fazer parte do trabalho transversal, dialogando com os diferentescomponentescurricularesumavezquesaoessenciaisquandoseobjetivauma formacaohumana e técnica deexcelencia com vistas a formacao integralpara uma participacaocidada,criticaeativanomundodotrabalho. 
-
-## TECNICOEMMECANICA-SUBSEQUENTE 
-
-## MATRIZCURRICULAR 
+## MATRIZCURRICULAR
 
 |COMPONENTES|CARGAHORARIA|CARGAHORARIA|N°aulas|
 |---|---|---|---|
@@ -983,1107 +887,921 @@ Tais conteudos devem fazer parte do trabalho transversal, dialogando com os dife
 |TOTAL|669|800|20|
 |TOTALGERAL|1338|1600|40|
 
+## * Uma hora-aula corresponde a 50 minutos
 
+436<br>FI. 23<br>Ass.<br>
 
-## * Uma hora-aula corresponde a 50 minutos 
+## 3.10EmentasdosComponentesCurriculares
 
-**==> picture [92 x 31] intentionally omitted <==**
+## CampusCampoLargodoIFPR
 
-**----- Start of picture text -----**<br>
-436<br>FI. 23<br>Ass.<br>**----- End of picture text -----**<br>
+> Curso:TecnicodeNivelMedio Eixo tecnologico:Controleeprocessos SubsequenteemMecanica industriais
 
+Componente DesenhoTecnicoMecanico Curricular:
 
-## 3.10EmentasdosComponentesCurriculares 
+> Periodo letivo: 1°ano
 
-## CampusCampoLargodoIFPR 
+## Carga Horaria:80 Horas-aulas
 
-> Curso:TecnicodeNivelMedio Eixo tecnologico:Controleeprocessos SubsequenteemMecanica industriais 
+## Ementa
 
-Componente DesenhoTecnicoMecanico Curricular: 
+NormasABNTparadesenhomecanico;Projecaoortogonal:1°e3°diedros;Perspectivas isometrica;Cortes:total,meio corte,parcial,em desvioe rebatido;Secoes;Vistas auxiliares; Representacaodeelementosdemaquinas;Desenhodeconjuntomecanico;Planificacaode chapas;Toleranciadimensionaleajustes;Toleranciasgeometricasedeposicao.
 
-> Periodo letivo: 1°ano 
+BibliografiaBasica
 
-## Carga Horaria:80 Horas-aulas 
+- -PROVENZA,Francesco.Desenhistade maquinas.SaoPaulo:n.c.,1991.
 
-## Ementa 
+- -PROVENZA,Francesco.Projetista de maquinas.SaoPaulo:n.c.,1991.
 
-NormasABNTparadesenhomecanico;Projecaoortogonal:1°e3°diedros;Perspectivas isometrica;Cortes:total,meio corte,parcial,em desvioe rebatido;Secoes;Vistas auxiliares; Representacaodeelementosdemaquinas;Desenhodeconjuntomecanico;Planificacaode chapas;Toleranciadimensionaleajustes;Toleranciasgeometricasedeposicao. 
+- -THOMAS,T.A.Desenho técnico.Barcelona:G.Gili,1974.
 
-BibliografiaBasica 
+## BibliografiaComplementar
 
-- -PROVENZA,Francesco.Desenhistade maquinas.SaoPaulo:n.c.,1991. 
+-ApresentacaodaFolhaparaDesenhoTécnico.AssociacaoBrasileira deNormasTécnicas, NBR10582.RiodeJaneiro,1988. -Contagem em Desenho Associacao Brasileira de Normas Técnicas,NBR 10126.Rio de Janeiro,1987.
 
-- -PROVENZA,Francesco.Projetista de maquinas.SaoPaulo:n.c.,1991. 
+## Prismatica,1976.
 
-- -THOMAS,T.A.Desenho técnico.Barcelona:G.Gili,1974. 
+- -PUGLIESl,Marcio.Desenho deMaquinas.SaoPaulo:icone,1986.
 
-## BibliografiaComplementar 
+- JONES, Franklin D. Desenho de Projetos de Maquinas. Sao Paulo: Hemus,1976.
 
--ApresentacaodaFolhaparaDesenhoTécnico.AssociacaoBrasileira deNormasTécnicas, NBR10582.RiodeJaneiro,1988. -Contagem em Desenho Associacao Brasileira de Normas Técnicas,NBR 10126.Rio de Janeiro,1987. 
+-AssociacaoBrasileira de Normas Técnicas,NBR 10647.Desenho Técnico-Norma Geral. RiodeJaneiro,1989. s -EmpregodeEscalas emDesenhoTécnico0AssociacaoBrasileiradeNormasTécnicas, NBR8196.RiodeJaneiro,1983
 
-## Prismatica,1976. 
+> -FolhadeDesenho-LeiauteeDimensoes AssociacaoBrasileira de NormasTécnicas, NBR10068.RiodeJaneiro,1987
 
-- -PUGLIESl,Marcio.Desenho deMaquinas.SaoPaulo:icone,1986. 
+- -ROGERS,William N.Interpretacao de Desenho Mecanico.Mexico.Centro Regional de AyudaTécnica,1973
 
-- JONES, Franklin D. Desenho de Projetos de Maquinas. Sao Paulo: Hemus,1976. 
+- -DUBBEL,Heinrich.Manual deConstrucoes deMaquinas.SaoPaulo:Hemus,1976.
 
--AssociacaoBrasileira de Normas Técnicas,NBR 10647.Desenho Técnico-Norma Geral. RiodeJaneiro,1989. s -EmpregodeEscalas emDesenhoTécnico0AssociacaoBrasileiradeNormasTécnicas, NBR8196.RiodeJaneiro,1983 
+NormasTécnicas,NBR10067.RiodeJaneiro,1995.
 
-> -FolhadeDesenho-LeiauteeDimensoes AssociacaoBrasileira de NormasTécnicas, NBR10068.RiodeJaneiro,1987 
+RepresentacaodeEngrenagememDesenhoTécnico.AssociacaoBrasileiradeNormas Técnicas,NB-1331.Rio deJaneiro,1990. -RepresentacoesdeAreadeCorteporMeiodeHachurasemDesenhoTécnico.Associacao
 
-- -ROGERS,William N.Interpretacao de Desenho Mecanico.Mexico.Centro Regional de AyudaTécnica,1973 
+43+<br>24<br>Ass.<br>
 
-- -DUBBEL,Heinrich.Manual deConstrucoes deMaquinas.SaoPaulo:Hemus,1976. 
+## BrasileiradeNormasTecnicas,NBR12298. RiodeJaneiro,1995.
 
-NormasTécnicas,NBR10067.RiodeJaneiro,1995. 
+## Campus Campo Largo do IFPR
 
-RepresentacaodeEngrenagememDesenhoTécnico.AssociacaoBrasileiradeNormas Técnicas,NB-1331.Rio deJaneiro,1990. -RepresentacoesdeAreadeCorteporMeiodeHachurasemDesenhoTécnico.Associacao 
+> Curso:TecnicodeNivel Medio Eixo tecnologico:Controleeprocessos
 
-**==> picture [92 x 30] intentionally omitted <==**
+> SubsequenteemMecanica industriais Componente Mecanica tecnicaeresistenciadosmateriais Curricular: Periodo letivo: 1°ano Carga Horas-aulas:80h Horaria:
 
-**----- Start of picture text -----**<br>
-43+<br>24<br>Ass.<br>**----- End of picture text -----**<br>
+## Ementa
 
+Estaticadeumaparticulaedeumcorporigidoaplicadoacomponenteseconjuntos mecanicos;Momentos de InerciaPlanarePolar;TorqueePotenciaemElementosRotativos; Conceitos deTensaoe Deformacao;Elasticidadee Lei deHooke;TensoesAdmissiveise
 
-## BrasileiradeNormasTecnicas,NBR12298. RiodeJaneiro,1995. 
+Torcao.DiagramasdeMomentoFletoreEsforcoCortante;EsforcosCiclicos
 
-## Campus Campo Largo do IFPR 
+## BibliografiaBasica
 
-> Curso:TecnicodeNivel Medio Eixo tecnologico:Controleeprocessos 
+- CONNALY, Eric A. Funcoes para modelar variacoes. Rio de Janeiro: LTC, 2009.
 
-> SubsequenteemMecanica industriais Componente Mecanica tecnicaeresistenciadosmateriais Curricular: Periodo letivo: 1°ano Carga Horas-aulas:80h Horaria: 
+-MELCONIAN, Sarkis. Mecanica técnica e resistencia dos materiais. Sao Paulo: Erica, 1988. -HIBBELLER,Setima R.C.Resistencia dos Materiais.SaoPaulo:Pearson,2010.
 
-## Ementa 
+Bookman,2004.
 
-Estaticadeumaparticulaedeumcorporigidoaplicadoacomponenteseconjuntos mecanicos;Momentos de InerciaPlanarePolar;TorqueePotenciaemElementosRotativos; Conceitos deTensaoe Deformacao;Elasticidadee Lei deHooke;TensoesAdmissiveise 
+Bookman,2003.
 
-Torcao.DiagramasdeMomentoFletoreEsforcoCortante;EsforcosCiclicos 
+BibliografiaComplementar -BEER,FerdinandPierre;JOHNSTON,E.Russell.MecanicaVetorial paraEngenheiros.Sao Paulo:McGraw-Hill,1973-1991. -PROVENZA,Francisco.Resistencia dosMateriais.SaoPaulo:Pro-Tec,1977.
 
-## BibliografiaBasica 
+-IEZZl, Gelson.Fundamentos da matematica elementar.Vol.1,2,3,6,9 e 10.Sao Paulo: Atual,2005.
 
-- CONNALY, Eric A. Funcoes para modelar variacoes. Rio de Janeiro: LTC, 2009. 
+2005.
 
--MELCONIAN, Sarkis. Mecanica técnica e resistencia dos materiais. Sao Paulo: Erica, 1988. -HIBBELLER,Setima R.C.Resistencia dos Materiais.SaoPaulo:Pearson,2010. 
+S [FI] 438 25<br>ASS.<br>
 
-Bookman,2004. 
+## CampusCampoLargodoIFPR
 
-Bookman,2003. 
+> Curso:TecnicodeNivelMedio Eixotecnologico:Controleeprocessos SubsequenteemMecanica industriais
 
-BibliografiaComplementar -BEER,FerdinandPierre;JOHNSTON,E.Russell.MecanicaVetorial paraEngenheiros.Sao Paulo:McGraw-Hill,1973-1991. -PROVENZA,Francisco.Resistencia dosMateriais.SaoPaulo:Pro-Tec,1977. 
+Componente Curricular: Metodologiae Comunicacao
 
--IEZZl, Gelson.Fundamentos da matematica elementar.Vol.1,2,3,6,9 e 10.Sao Paulo: Atual,2005. 
+> Periodoletivo: 1°ano Carga Horas-aulas:80h Horaria:
 
-2005. 
+Ementa:Leituraeproducaode textosacademicos,visandoa desenvolver habilidades de elaboracao de textos orais e escritos. Enfase para técnicas de apresentacao e producao de redacaooficial.Estrutura da linguagem.Visaogeral doportugues escrito.Aqualidade da linguagemescritaefaladaparaosprofissionais.Regrasbasicasparaacorrecaodetexto. Formas de comunicacao.Barreirasna comunicacao.Percepgao e comunicacoes.Os termos tecnicos,neologismos e os formatos linguisticos profissionais.
 
-**==> picture [103 x 31] intentionally omitted <==**
+## BibliografiaBasica
 
-**----- Start of picture text -----**<br>
-S [FI] 438 25<br>ASS.<br>**----- End of picture text -----**<br>
+- GIL, A. Carlos. Como elaborar projetos de pesquisa. Sao Paulo: Atlas, 2010.
 
+- -Normas para elaboracao de trabalhos academicos do Instituto Federal do Parana (IFPR). InstitutoFederal doParana-SistemadeBibliotecas.Curitiba,2010.
 
-## CampusCampoLargodoIFPR 
+- -MARTINS,Dileta Silveira.Portugues Instrumental. SaoPaulo:Atlas,2010.
 
-> Curso:TecnicodeNivelMedio Eixotecnologico:Controleeprocessos SubsequenteemMecanica industriais 
+## BibliografiaComplementar
 
-Componente Curricular: Metodologiae Comunicacao 
+- -FANCHIN,Odilia.Fundamentosda metodologia.5edicao.SaoPaulo:Saraiva,2006.
 
-> Periodoletivo: 1°ano Carga Horas-aulas:80h Horaria: 
+Vozes,2011.
 
-Ementa:Leituraeproducaode textosacademicos,visandoa desenvolver habilidades de elaboracao de textos orais e escritos. Enfase para técnicas de apresentacao e producao de redacaooficial.Estrutura da linguagem.Visaogeral doportugues escrito.Aqualidade da linguagemescritaefaladaparaosprofissionais.Regrasbasicasparaacorrecaodetexto. Formas de comunicacao.Barreirasna comunicacao.Percepgao e comunicacoes.Os termos tecnicos,neologismos e os formatos linguisticos profissionais. 
+- -MEDEIROS,J.B.; TOMASl, C. Portugues. 4 edicao.Sao Paulo:Atlas, 2010.
 
-## BibliografiaBasica 
+DO<br>43a<br>KANA<br>26<br>Ass.<br>
 
-- GIL, A. Carlos. Como elaborar projetos de pesquisa. Sao Paulo: Atlas, 2010. 
+## CampusCampoLargodoIFPR
 
-- -Normas para elaboracao de trabalhos academicos do Instituto Federal do Parana (IFPR). InstitutoFederal doParana-SistemadeBibliotecas.Curitiba,2010. 
+> Curso:TecnicodeNivelMedio Eixo tecnologico:Controleeprocessos
 
-- -MARTINS,Dileta Silveira.Portugues Instrumental. SaoPaulo:Atlas,2010. 
+> SubsequenteemMecanica industriais Componente Curricular: Metrologia
 
-## BibliografiaComplementar 
+> Periodo letivo: 1°ano Carga Horas-aulas:80h Horaria:
 
-- -FANCHIN,Odilia.Fundamentosda metodologia.5edicao.SaoPaulo:Saraiva,2006. 
+## Ementa
 
-Vozes,2011. 
+Conceitos basicos;Estrutura metrologica e sistema internacional de unidades;Unidades dimensionais -sistemametrico eingles;Conversao de unidades e grandezas;Medir: processodemedicaoe obtencaoderesultados;Incertezademedicao;Causas deerroe seus tratamentos;Calibracao de sistemasde medicao;Medicaodireta;Medicao indireta; Instrumentos demedicao direta.Medicao tridimensional;Toleranciadimensional;Ajustes ISO;Toleranciageometrica;Acabamentosuperficial(rugosidade).
 
-- -MEDEIROS,J.B.; TOMASl, C. Portugues. 4 edicao.Sao Paulo:Atlas, 2010. 
+## BibliografiaBasica
 
-**==> picture [89 x 46] intentionally omitted <==**
+ALBERTAZZl,A.;SOUZA,A.R.Fundamentos de Metrologia Cientifica e Industrial.1 edicao.SaoPaulo:Manole,2008.
 
-**----- Start of picture text -----**<br>
-DO<br>43a<br>KANA<br>26<br>Ass.<br>**----- End of picture text -----**<br>
+- -GONCALVESJunior,ArmandoAlbertazzi.Metrologia-Iell.2edicao.Florianopolis:LAB METRO,1995-2001.
 
+- -LIRA,F.A.Metrologia na Industria.3 edicao.Sao Paulo: Erica,2004.
 
-## CampusCampoLargodoIFPR 
+BibliografiaComplementar ApostiladeMetrologia.Telecurso20oo.Globo.
 
-> Curso:TecnicodeNivelMedio Eixo tecnologico:Controleeprocessos 
+- -SANTOS Jr.,M.J.dos.Metrologia Dimensional-teoria epratica.2edicao.Porto Alegre: UFRGS,1995.
 
-> SubsequenteemMecanica industriais Componente Curricular: Metrologia 
+- -LIMA,SinesioCarneiro.Oestudo da metrologia.2edicao.SaoPaulo:MestreJou,1978.
 
-> Periodo letivo: 1°ano Carga Horas-aulas:80h Horaria: 
+27 Ass
 
-## Ementa 
+## Campus Campo Largo doIFPR
 
-Conceitos basicos;Estrutura metrologica e sistema internacional de unidades;Unidades dimensionais -sistemametrico eingles;Conversao de unidades e grandezas;Medir: processodemedicaoe obtencaoderesultados;Incertezademedicao;Causas deerroe seus tratamentos;Calibracao de sistemasde medicao;Medicaodireta;Medicao indireta; Instrumentos demedicao direta.Medicao tridimensional;Toleranciadimensional;Ajustes ISO;Toleranciageometrica;Acabamentosuperficial(rugosidade). 
+Curso:Tecnico de Nivel Medio Eixo tecnologico:Controle e<br>Subsequente emMecanica processosindustriais<br>Componente Processos deFabricacao<br>Curricular:<br>Periodo letivo:1°ano Carga Horas-aulas: 80h<br>Horaria:<br>Ementa<br>Introducao aos processos de fabricacao mecanica, contexto historico e aplicacao.<br>Estudo dos processos de fabricacao:Processo de Fundicao,metalurgia do po,<br>processos de conformacao mecanica (lingotamento continuo do aco, laminacao,<br>extrusao,trefilacao,forjamento,estampagem). Legislacao e normas técnicas<br>pertinentes.<br>
 
-## BibliografiaBasica 
+## BibliografiaBasica
 
-ALBERTAZZl,A.;SOUZA,A.R.Fundamentos de Metrologia Cientifica e Industrial.1 edicao.SaoPaulo:Manole,2008. 
+- -FRANCO,Antonio G. J. Conformacao de elementos de maquinas. Sao Paulo: F. Provenza, 1991. -SCHAEFFER,Lirio.Conformacao dos metais:metalurgia e mecanica.Porto Alegre: Rigel, 1995. -SIEGEL,Miguel.Fundicao.14a edicao.SaoPaulo:ABM,1984.
 
-- -GONCALVESJunior,ArmandoAlbertazzi.Metrologia-Iell.2edicao.Florianopolis:LAB METRO,1995-2001. 
+Bibliografia Complementar<br>
 
-- -LIRA,F.A.Metrologia na Industria.3 edicao.Sao Paulo: Erica,2004. 
+- -SILVA,B.R.Automovel parte a parte.S.P.Bors,2000. ：BRESClANl FO,Ettore.Conformacao plastica dos metais.5a edicao.Campinas: EditoradaUNICAMP,1997. CHOLLET, H. M.Curso pratico e profissional para mecanicos e automoveis. Sao
 
-BibliografiaComplementar ApostiladeMetrologia.Telecurso20oo.Globo. 
+- Paulo:Hemus,1981. -ApostiladeProcessosdeFabricacao.Telecurso2ooo.Globo.
 
-- -SANTOS Jr.,M.J.dos.Metrologia Dimensional-teoria epratica.2edicao.Porto Alegre: UFRGS,1995. 
+Fl. 441<br>28<br>Ass.:<br>CAMPO<br>
 
-- -LIMA,SinesioCarneiro.Oestudo da metrologia.2edicao.SaoPaulo:MestreJou,1978. 
+CampusCampoLargodoIFPR Curso:TecnicodeNivelMedio Eixo tecnologico:Controleeprocessos SubsequenteemMecanica industriais Componente Curricular: Soldagem Periodo letivo: 1°ano Carga Horas-aulas: 80h Horaria:
 
-27 Ass 
+## Ementa
 
-## Campus Campo Largo doIFPR 
+IntroducaoaosProcessos deSoldagem;Fontes deEnergiaparaSoldagem;Metalurgia da soldagem;SoldagemdosMetais;NormaseQualificacaoemSoldagem
 
-**==> picture [473 x 182] intentionally omitted <==**
+## Bibliografia Basica
 
-**----- Start of picture text -----**<br>
-Curso:Tecnico de Nivel Medio Eixo tecnologico:Controle e<br>Subsequente emMecanica processosindustriais<br>Componente Processos deFabricacao<br>Curricular:<br>Periodo letivo:1°ano Carga Horas-aulas: 80h<br>Horaria:<br>Ementa<br>Introducao aos processos de fabricacao mecanica, contexto historico e aplicacao.<br>Estudo dos processos de fabricacao:Processo de Fundicao,metalurgia do po,<br>processos de conformacao mecanica (lingotamento continuo do aco, laminacao,<br>extrusao,trefilacao,forjamento,estampagem). Legislacao e normas técnicas<br>pertinentes.<br>**----- End of picture text -----**<br>
+-WEISS,Almiro.Soldagem.Curitiba:LT,2010.
 
+-MARQUES, V.Paulo; MODENESI, J. Paulo;BRACARENSE, Q.Alexandre. Soldagem, Fundamentos e Tecnologia.3 edicao.Belo Horizonte: UFMG, 2009.
 
-## BibliografiaBasica 
+Metalurgia.8reimpressao.SaoPaulo:Blucher,2011.
 
-- -FRANCO,Antonio G. J. Conformacao de elementos de maquinas. Sao Paulo: F. Provenza, 1991. -SCHAEFFER,Lirio.Conformacao dos metais:metalurgia e mecanica.Porto Alegre: Rigel, 1995. -SIEGEL,Miguel.Fundicao.14a edicao.SaoPaulo:ABM,1984. 
+## BibliografiaComplementar
 
-**==> picture [156 x 17] intentionally omitted <==**
+- SILVA, André L. da C.; MEl, Paulo R . Acos e Ligas Especiais. 3 edicao. Sao Paulo: Blucher,2010.
 
-**----- Start of picture text -----**<br>
-Bibliografia Complementar<br>**----- End of picture text -----**<br>
+- QUITES, Almir M. Introducao a Soldagem a Arco Voltaico. 1 edicao. Sao Paulo: Soldasoft, 2009.
 
+-PONOMARE,VISCOTTI, A. Soldagem Mig Mag, 1edicao,SaoPaulo:Artliber,2008.
 
-- -SILVA,B.R.Automovel parte a parte.S.P.Bors,2000. ：BRESClANl FO,Ettore.Conformacao plastica dos metais.5a edicao.Campinas: EditoradaUNICAMP,1997. CHOLLET, H. M.Curso pratico e profissional para mecanicos e automoveis. Sao 
+F 44.2 29<br>AsS.<br>
 
-- Paulo:Hemus,1981. -ApostiladeProcessosdeFabricacao.Telecurso2ooo.Globo. 
+## CampusCampoLargodoIFPR
 
-**==> picture [95 x 56] intentionally omitted <==**
+> Curso:TecnicodeNivelMedio Eixo tecnologico:Controleeprocessos SubsequenteemMecanica industriais
 
-**----- Start of picture text -----**<br>
-Fl. 441<br>28<br>Ass.:<br>CAMPO<br>**----- End of picture text -----**<br>
+Componente Curricular: TecnologiadosMateriaiseEnsaios
 
+> Periodo letivo: 1°ano Carga Horas-aulas: 80h Horaria:
 
-CampusCampoLargodoIFPR Curso:TecnicodeNivelMedio Eixo tecnologico:Controleeprocessos SubsequenteemMecanica industriais Componente Curricular: Soldagem Periodo letivo: 1°ano Carga Horas-aulas: 80h Horaria: 
+## Ementa
 
-## Ementa 
+Classificacao dos materiais; Ligacoes interatomicas; Estrutura cristalina; Imperfeicoes cristalinas;Deformacoes dosmetais;Grafico tensaox deformacao;Propriedades mecanicas gerais dosmateriaismetalicose naometalicos;Homogeneidadeeisotropia;Diagramasde mecanicos destrutivos: tracao,dureza,impacto,dobramento,torcao,compressao,fadiga, fluenciaeembutimento.
 
-IntroducaoaosProcessos deSoldagem;Fontes deEnergiaparaSoldagem;Metalurgia da soldagem;SoldagemdosMetais;NormaseQualificacaoemSoldagem 
+## BibliografiaBasica
 
-## Bibliografia Basica 
+- CALLISTER, W. D. Jr. Ciencia e Engenharia dos Materiais - Uma Introducao. 7a edicao. SaoPaulo:LTC,2008.
 
--WEISS,Almiro.Soldagem.Curitiba:LT,2010. 
+- -SOUZA,S.A.Ensaios Mecanicos de MateriaisMetalicos.5edicao.SaoPaulo:Blucher, 2004.
 
--MARQUES, V.Paulo; MODENESI, J. Paulo;BRACARENSE, Q.Alexandre. Soldagem, Fundamentos e Tecnologia.3 edicao.Belo Horizonte: UFMG, 2009. 
+- -VAN VLACK,Lawrence H.Principios de ciencia e tecnologia dos materiais.7 edicao.Rio deJaneiro:Campus,1995.
 
-Metalurgia.8reimpressao.SaoPaulo:Blucher,2011. 
+## Bibliografia Complementar
 
-## BibliografiaComplementar 
+- -SOUZA, Sérgio Augusto de. Ensaios mecanicos de materiais metalicos. Sao Paulo: E. Blucher,1979. Paulo:Hemus,1997.
 
-- SILVA, André L. da C.; MEl, Paulo R . Acos e Ligas Especiais. 3 edicao. Sao Paulo: Blucher,2010. 
+- -COLPAERT, Hubertus.Metalografia dos produtos siderurgicos comuns.3 edicao. Sao Paulo:E.Blucher,1974.
 
-- QUITES, Almir M. Introducao a Soldagem a Arco Voltaico. 1 edicao. Sao Paulo: Soldasoft, 2009. 
+- SMITH, William F. Principios de ciencia e engenharia dos materiais. 3 edicao. Lisboa: McGraw-Hill,1998.
 
--PONOMARE,VISCOTTI, A. Soldagem Mig Mag, 1edicao,SaoPaulo:Artliber,2008. 
+- -SILVA,UbirajaraMarquesdeCarvalho.Técnicaseprocedimentosnametalografiapratica:
 
-**==> picture [91 x 29] intentionally omitted <==**
+Rossi, 1978.<br>
 
-**----- Start of picture text -----**<br>
-F 44.2 29<br>AsS.<br>**----- End of picture text -----**<br>
+> FI 443
 
+30
 
-## CampusCampoLargodoIFPR 
+Ass.
 
-> Curso:TecnicodeNivelMedio Eixo tecnologico:Controleeprocessos SubsequenteemMecanica industriais 
+## Campus Campo Largo doIFPR
 
-Componente Curricular: TecnologiadosMateriaiseEnsaios 
+Curso:Tecnico deNivel Medio Subsequente Eixo tecnologico:Controleeprocessos em Mecanica industriais Componente Matematica Curricular: Periodo letivo: 1° ano Carga Horas-aulas: 80h Horaria:
 
-> Periodo letivo: 1°ano Carga Horas-aulas: 80h Horaria: 
+## Ementa
 
-## Ementa 
+Regra de sinais.Expressoes numericas e algebricas.Fracoes e operacoes com fracoes.Equacao 1° grau.Equacao 2°grau.Potencias e suas propriedades.Potencia de 10.Notacao cientifica.Regra de tres.Geometria Plana. Geometria Espacial.Sistemas Lineares.Funcoes.Trigonometria.Funcoes Trigonometricas.
 
-Classificacao dos materiais; Ligacoes interatomicas; Estrutura cristalina; Imperfeicoes cristalinas;Deformacoes dosmetais;Grafico tensaox deformacao;Propriedades mecanicas gerais dosmateriaismetalicose naometalicos;Homogeneidadeeisotropia;Diagramasde mecanicos destrutivos: tracao,dureza,impacto,dobramento,torcao,compressao,fadiga, fluenciaeembutimento. 
+## BibliografiaBasica
 
-## BibliografiaBasica 
+- -IEZZI, G.Fundamentos da Matematica Elementar. Vol. 1, 2, 3, 6, 9 e 10.Sao Paulo: Atual, 2005.
 
-- CALLISTER, W. D. Jr. Ciencia e Engenharia dos Materiais - Uma Introducao. 7a edicao. SaoPaulo:LTC,2008. 
+- -MARTINS, M. S. Logica - Uma abordagem Introdutoria. Rio de Janeiro.Ciencia Moderna, 2012.
 
-- -SOUZA,S.A.Ensaios Mecanicos de MateriaisMetalicos.5edicao.SaoPaulo:Blucher, 2004. 
+- MOYER, R. E; AYRES JUNIOR, F. Teoria e Problemas de Trigonometria. Porto Alegre: Bookman, 2003.
 
-- -VAN VLACK,Lawrence H.Principios de ciencia e tecnologia dos materiais.7 edicao.Rio deJaneiro:Campus,1995. 
+- -SPIEGEL,M.R.et AL.TeoriaeProblemas deAlgebra.PortoAlegre.Bookman,2004.
 
-## Bibliografia Complementar 
+## Bibliografia Complementar
 
-- -SOUZA, Sérgio Augusto de. Ensaios mecanicos de materiais metalicos. Sao Paulo: E. Blucher,1979. Paulo:Hemus,1997. 
+- CONNALLY, E.A.Funcoes para modelar variacoes. In: SOBRENOME, Nome (org). Titulo. 2a Ed.Rio deJaneiro:LTC,2009.
 
-- -COLPAERT, Hubertus.Metalografia dos produtos siderurgicos comuns.3 edicao. Sao Paulo:E.Blucher,1974. 
+- -BARROSO, J. M. Conexoes com a Matematica.Vol.1.1? edicao. Sao Paulo: Moderna, 2003.
 
-- SMITH, William F. Principios de ciencia e engenharia dos materiais. 3 edicao. Lisboa: McGraw-Hill,1998. 
+- -BARROSO, J. M. ConexOes com a Matematica.Vol. 2.1a edicao. Sao Paulo: Moderna, 2003.
 
-- -SILVA,UbirajaraMarquesdeCarvalho.Técnicaseprocedimentosnametalografiapratica: 
+445<br>32<br>Ass.:<br>
 
-**==> picture [65 x 12] intentionally omitted <==**
+## Campus Campo Largo do IFPR
 
-**----- Start of picture text -----**<br>
-Rossi, 1978.<br>**----- End of picture text -----**<br>
+> Curso:TecnicodeNivelMedio Eixotecnologico:Controleeprocessos
 
+> SubsequenteemMecanica industriais Componente AutomacaoPneumaticaeHidraulica Curricular:
 
-> FI 443 
+> Periodoletivo: 2°ano Carga Horas-aulas: 80h Horaria:
 
-30 
+## Ementa
 
-Ass. 
+Conceitos fisicos aplicados a pneumatica;Componentespneumaticos (simbologia e funcao); Sistemaspneumaticos;Sistemaseletropneumaticos;Analiseesintesedecircuitos pneumaticos;Componentes fisicos aplicados a hidraulica;Componentes hidraulicos (simbologiae funcao);Sistemas hidraulicos;Sistemas eletrohidraulicos;Analise e sintese de circuitoshidraulicos.
 
-## Campus Campo Largo doIFPR 
+## BibliografiaBasica
 
-Curso:Tecnico deNivel Medio Subsequente Eixo tecnologico:Controleeprocessos em Mecanica industriais Componente Matematica Curricular: Periodo letivo: 1° ano Carga Horas-aulas: 80h Horaria: 
+- LELUDAK,Jorge A.Acionamentos Eletropneumaticos.Curitiba: Base, 2010.
 
-## Ementa 
+- -BONACORSO,NelsoGauze;NOLL,Valdir.AutomacaoEletropneumatica.11edicao.Sao Paulo:EditoraErica,2008.
 
-Regra de sinais.Expressoes numericas e algebricas.Fracoes e operacoes com fracoes.Equacao 1° grau.Equacao 2°grau.Potencias e suas propriedades.Potencia de 10.Notacao cientifica.Regra de tres.Geometria Plana. Geometria Espacial.Sistemas Lineares.Funcoes.Trigonometria.Funcoes Trigonometricas. 
+- -FlALHO,Arivelto Bustamante.Automacao Hidraulica-Projetos,Dimensionamento e Analise de CircuitoS.6edicao.SaoPaulo:EditoraErica,2011. -FlALHO,Arivelto Bustamante.Automacao Pneumatica-Projetos,Dimensionamento Analise de Circuitos.7edicao.SaoPaulo:Editora Erica,2011.
 
-## BibliografiaBasica 
+## BibliografiaComplementar
 
-- -IEZZI, G.Fundamentos da Matematica Elementar. Vol. 1, 2, 3, 6, 9 e 10.Sao Paulo: Atual, 2005. 
+- -DRAPINSKl,Janusz.HidraulicaePneumatica.SaoPaulo.McGraw-Hill,1975.
 
-- -MARTINS, M. S. Logica - Uma abordagem Introdutoria. Rio de Janeiro.Ciencia Moderna, 2012. 
+- -STEWART,HarryL.Pneumaticaehidraulica.3edicao.SaoPaulo:Hemus,2007.
 
-- MOYER, R. E; AYRES JUNIOR, F. Teoria e Problemas de Trigonometria. Porto Alegre: Bookman, 2003. 
+- -SCHMITT,A.Treinamentoemhidraulica.Diadema:Rexroth,1981.
 
-- -SPIEGEL,M.R.et AL.TeoriaeProblemas deAlgebra.PortoAlegre.Bookman,2004. 
+F 440 33<br>ASS.<br>
 
-## Bibliografia Complementar 
+## CampusCampoLargodoIFPR
 
-- CONNALLY, E.A.Funcoes para modelar variacoes. In: SOBRENOME, Nome (org). Titulo. 2a Ed.Rio deJaneiro:LTC,2009. 
+> Curso:TecnicodeNivelMedio Eixotecnologico:Controleeprocessos
 
-- -BARROSO, J. M. Conexoes com a Matematica.Vol.1.1? edicao. Sao Paulo: Moderna, 2003. 
+> Subsequente em Mecanica industriais Componente ElementosdeEletromecanica Curricular:
 
-- -BARROSO, J. M. ConexOes com a Matematica.Vol. 2.1a edicao. Sao Paulo: Moderna, 2003. 
+> Periodo letivo: 2°ano Carga Horas-aulas: 80h Horaria:
 
-**==> picture [97 x 32] intentionally omitted <==**
+## Ementa
 
-**----- Start of picture text -----**<br>
-445<br>32<br>Ass.:<br>**----- End of picture text -----**<br>
+Carga Eletrica;Lei de Ohm;Resistores;Corrente Eletrica;Potencia eletrica;Funcionamento dosmotores eletricos;Partida demotoreseletricos;FontesEletricas;Dispositivosde protecao;Conceitos de corrente alternadae continua.CLP.
 
+## BibliografiaBasica
 
-## Campus Campo Largo do IFPR 
+- -DOETA,V. Ivan.Elementos de Eletronica Digitall.41 edicao.SaoPaulo: Erica,2012. -WOLSKl,Belmiro.EletricidadeBasica.Curitiba:Base,2010.
 
-> Curso:TecnicodeNivelMedio Eixotecnologico:Controleeprocessos 
+- -GUSSOW,Milton.EletricidadeBasica.SaoPaulo:McGraw-Hill,1992.
 
-> SubsequenteemMecanica industriais Componente AutomacaoPneumaticaeHidraulica Curricular: 
+## BibliografiaComplementar
 
-> Periodoletivo: 2°ano Carga Horas-aulas: 80h Horaria: 
+- -FRANCHI M.Claiton.Acionamentos Eletricos.4 edicao. Sao Paulo:Erica,2008. -SILVEIRA,PauloR;SANTOS,WindersonE.Automacaoecontrolediscreto.9edicao. Sao Paulo: Erica, 2009. -THOMAZINl,Daniel. Sensores Industriais.8 edicao. Sao Paulo: Erica,2011.
 
-## Ementa 
+F1 447<br>34<br>Ass.<br>
 
-Conceitos fisicos aplicados a pneumatica;Componentespneumaticos (simbologia e funcao); Sistemaspneumaticos;Sistemaseletropneumaticos;Analiseesintesedecircuitos pneumaticos;Componentes fisicos aplicados a hidraulica;Componentes hidraulicos (simbologiae funcao);Sistemas hidraulicos;Sistemas eletrohidraulicos;Analise e sintese de circuitoshidraulicos. 
+CampusCampoLargodoIFPR<br>Curso:TecnicodeNivelMedio Eixotecnologico:Controleeprocessos<br>SubsequenteemMecanica industriais<br>Componente<br>ElementosdeMaquinas<br>Curricular:<br>Periodo letivo: 2°ano Carga Horas-aulas: 80h<br>Horaria:<br>Ementa<br>
 
-## BibliografiaBasica 
+fim.Dimensionamento e calculo de rolamentos,mancais，eixos,acoplamentos，molas，e transmissoesdecorrentes.
 
-- LELUDAK,Jorge A.Acionamentos Eletropneumaticos.Curitiba: Base, 2010. 
+## BibliografiaBasica
 
-- -BONACORSO,NelsoGauze;NOLL,Valdir.AutomacaoEletropneumatica.11edicao.Sao Paulo:EditoraErica,2008. 
+- SARKIS, Melconian. Elementos de Maquinas. 6 edicao. Sao Paulo: Editora Erica, 2005. -NIEMAN,G.Elementos deMaquinas.7edicao.SaoPaulo:Blucher,2000.
 
-- -FlALHO,Arivelto Bustamante.Automacao Hidraulica-Projetos,Dimensionamento e Analise de CircuitoS.6edicao.SaoPaulo:EditoraErica,2011. -FlALHO,Arivelto Bustamante.Automacao Pneumatica-Projetos,Dimensionamento Analise de Circuitos.7edicao.SaoPaulo:Editora Erica,2011. 
+- -SHIGLEY,JosephEdward.Mechanical Engineering/ElementosdeMaquinas.Traducao de Edival Ponciano deCarvalho.Rio deJaneiro:LivrosTécnicose Cientificos,1984.
 
-## BibliografiaComplementar 
+- Bibliografia Complementar
 
-- -DRAPINSKl,Janusz.HidraulicaePneumatica.SaoPaulo.McGraw-Hill,1975. 
+- - BUDYNAS, R.; NISBETT, J.K. Elementos de Maquina de Shigley. 8  edicao. Sao Paulo: McGrawHill,2012
 
-- -STEWART,HarryL.Pneumaticaehidraulica.3edicao.SaoPaulo:Hemus,2007. 
+- -COLLINS,J.A.Projetos Mecanicos de Elementos de Maquinas.1edicao.SaoPaulo:LTC, 2006.
 
-- -SCHMITT,A.Treinamentoemhidraulica.Diadema:Rexroth,1981. 
+LDO<br>F1 448 35<br>Ass.<br>
 
-**==> picture [93 x 31] intentionally omitted <==**
+## Campus Campo Largo do IFPR
 
-**----- Start of picture text -----**<br>
-F 440 33<br>ASS.<br>**----- End of picture text -----**<br>
+> Curso:Tecnico deNivel Medio Eixotecnologico:Controleeprocessos SubsequenteemMecanica industriais
 
+Componente Gestao,QualidadeeMeioAmbiente Curricular:
 
-## CampusCampoLargodoIFPR 
+Periodo letivo: 2°ano Carga Horas-aulas:80h Horaria:
 
-> Curso:TecnicodeNivelMedio Eixotecnologico:Controleeprocessos 
+## Ementa
 
-> Subsequente em Mecanica industriais Componente ElementosdeEletromecanica Curricular: 
+deproducao,tipos deprocesso demanufatura,conceitos demanufatura enxuta,conceitode just intime， tempos deprocessos,sistemas de gestao empresarial ERP，PCP PlanejamentoeControledaProducao,sistemasde gestaodaqualidadeeambienta, ferramentas basicas daqualidadee CEP-ControleEstatistico deProcesso.Conceito de impactoeaspectoambiental,organismoselegislacaoambiental.Acidentesdetrabalho, prevencao de acidentes,EPl's e EPC's,CIPA,PPRA,conceituacao e classificacao de s
 
-> Periodo letivo: 2°ano Carga Horas-aulas: 80h Horaria: 
+BibliografiaBasica - SLACK, N.Administracao da Produgao. 3 edicao. Sao Paulo: Atlas, 2009.
 
-## Ementa 
+## Janeiro:Saraiva,2005.
 
-Carga Eletrica;Lei de Ohm;Resistores;Corrente Eletrica;Potencia eletrica;Funcionamento dosmotores eletricos;Partida demotoreseletricos;FontesEletricas;Dispositivosde protecao;Conceitos de corrente alternadae continua.CLP. 
+- -MARTINS,Petronio Garcia.Administracao daProducao.2 edicao.Sao Paulo:Saraiva, 2005.
 
-## BibliografiaBasica 
+- -BARBOSA FILHO,Antonio Nunes.Seguranga do trabalho e Gestao Ambiental. SaoPaulo: Atlas,2001.
 
-- -DOETA,V. Ivan.Elementos de Eletronica Digitall.41 edicao.SaoPaulo: Erica,2012. -WOLSKl,Belmiro.EletricidadeBasica.Curitiba:Base,2010. 
+-SALiM, Luiz Fernando. Saude e Seguranca no Ambiente de Trabalho.Belo Horizonte: Segrag, 2002.
 
-- -GUSSOW,Milton.EletricidadeBasica.SaoPaulo:McGraw-Hill,1992. 
+## BibliografiaComplementar
 
-## BibliografiaComplementar 
+-WIENEKE,Falko.Gestao da Producao:Planejamento da producao e atendimento de pedidos.2edicao.SaoPaulo:Blucher,2009.
 
-- -FRANCHI M.Claiton.Acionamentos Eletricos.4 edicao. Sao Paulo:Erica,2008. -SILVEIRA,PauloR;SANTOS,WindersonE.Automacaoecontrolediscreto.9edicao. Sao Paulo: Erica, 2009. -THOMAZINl,Daniel. Sensores Industriais.8 edicao. Sao Paulo: Erica,2011. 
+-STONER,James A.F.Gestao da Qualidade e do MeioAmbiente:EnfoqueEconomico, FinanceiroePatrimonial.5edicao.SaoPaulo: LTC,1994. - PALADINl, E. P. Gestao da Qualidade.1 edicao. Sao Paulo: Atlas, 2004. -GILBERTO,Michael.SistemadeGerenciamentoAmbiental.SaoPaulo:Iman,1995.
 
-**==> picture [94 x 31] intentionally omitted <==**
+DO<br>FI. 449<br>Ass. 36<br>
 
-**----- Start of picture text -----**<br>
-F1 447<br>34<br>Ass.<br>**----- End of picture text -----**<br>
+## CampusCampo LargodoIFPR
 
+> Curso:TecnicodeNivel Medio Eixotecnologico:Controleeprocessos SubsequenteemMecanica industriais
 
-**==> picture [464 x 125] intentionally omitted <==**
+Componente ManutencaoIndustrial Curricular: Periodo letivo: 2° ano Carga Horas-aulas: 80h Horaria:
 
-**----- Start of picture text -----**<br>
-CampusCampoLargodoIFPR<br>Curso:TecnicodeNivelMedio Eixotecnologico:Controleeprocessos<br>SubsequenteemMecanica industriais<br>Componente<br>ElementosdeMaquinas<br>Curricular:<br>Periodo letivo: 2°ano Carga Horas-aulas: 80h<br>Horaria:<br>Ementa<br>**----- End of picture text -----**<br>
+## Ementa
 
+Pilares da manutengao;Manutencao mecanica;Lubrificacao;Desgaste;Montagem de
 
-fim.Dimensionamento e calculo de rolamentos,mancais，eixos,acoplamentos，molas，e transmissoesdecorrentes. 
+## BibliografiaBasica
 
-## BibliografiaBasica 
+- -FOGLIATTO,F. S. Confiabilidade e Manutengao Industrial. 1 edicao.Rio de Janeiro: Campus, 2009.
 
-- SARKIS, Melconian. Elementos de Maquinas. 6 edicao. Sao Paulo: Editora Erica, 2005. -NIEMAN,G.Elementos deMaquinas.7edicao.SaoPaulo:Blucher,2000. 
+- -SANTOS,Valdir A. dos.Manual Pratico da Manutencao Industrial. 2 edicao. Santos: icone, 2007.
 
-- -SHIGLEY,JosephEdward.Mechanical Engineering/ElementosdeMaquinas.Traducao de Edival Ponciano deCarvalho.Rio deJaneiro:LivrosTécnicose Cientificos,1984. 
+- -Manutencao.Novo Telecurso.13 edicao.Sao Paulo.GOL:2012.
 
-- Bibliografia Complementar 
+## BibliografiaComplementar
 
-- - BUDYNAS, R.; NISBETT, J.K. Elementos de Maquina de Shigley. 8  edicao. Sao Paulo: McGrawHill,2012 
+- -HARRIS, M.J. Kelly.Administracao da Manutencao Industrial.Rio de Janeiro: IBP, 1990.
 
-- -COLLINS,J.A.Projetos Mecanicos de Elementos de Maquinas.1edicao.SaoPaulo:LTC, 2006. 
+- -VERRl,L.A.GerenciamentoPelaQualidadeTotal naManutencaoIndustrial.1edicao.Rio de Janeiro:Qualitymark,2007. - KARDEC, A.; NASCIF, J. Manutencao: fungao estratégica. 3 edicao. Rio de Janeiro: Qualitmark,2009.
 
-**==> picture [96 x 51] intentionally omitted <==**
+FI 450<br>37<br>Ass.:<br>
 
-**----- Start of picture text -----**<br>
-LDO<br>F1 448 35<br>Ass.<br>**----- End of picture text -----**<br>
+## CampusCampoLargodoIFPR
 
+> Curso:TecnicodeNivelMedioSubsequente Eixo tecnologico:Controleeprocessos emMecanica industriais Componente Maquinaseaparelhosmecanicos Curricular:
 
-## Campus Campo Largo do IFPR 
+> Periodoletivo: 2°ano Carga Horas-aulas: 80h Horaria:
 
-> Curso:Tecnico deNivel Medio Eixotecnologico:Controleeprocessos SubsequenteemMecanica industriais 
+Ementa:Termodinamica;Ciclo deCarnot;Ciclosreais;Combustao;Motores ciclo Ottoe diesel;Maquinas térmicas;Ar condicionado;Geradordevapor;Maquinas defluxo; Compressores;Classificacao dasMaquinasHidraulicas;Bombas;Cavitacao;Perdas e Rendimento.
 
-Componente Gestao,QualidadeeMeioAmbiente Curricular: 
+## BibliografiaBasica
 
-Periodo letivo: 2°ano Carga Horas-aulas:80h Horaria: 
+-MACINTYRE,A.J.Bombas e Instalacoes de Bombeamento.2edicao.SaoPaulo:LTC, 1997. -SONNING,Richard Ewin;BORGNAKKE,C.VAN WYLEN,Gordon John.Fundamentos da Termodinamica.Sao Paulo:1998.
 
-## Ementa 
+- -CIMBLERIS,B.Introducaoa termodinamicageral.Petropolis:1974.
 
-deproducao,tipos deprocesso demanufatura,conceitos demanufatura enxuta,conceitode just intime， tempos deprocessos,sistemas de gestao empresarial ERP，PCP PlanejamentoeControledaProducao,sistemasde gestaodaqualidadeeambienta, ferramentas basicas daqualidadee CEP-ControleEstatistico deProcesso.Conceito de impactoeaspectoambiental,organismoselegislacaoambiental.Acidentesdetrabalho, prevencao de acidentes,EPl's e EPC's,CIPA,PPRA,conceituacao e classificacao de s 
+## BibliografiaComplementar
 
-BibliografiaBasica - SLACK, N.Administracao da Produgao. 3 edicao. Sao Paulo: Atlas, 2009. 
+- -MESNY,Marcelo.Caldeira devapor.BuenosAires:Marymar,1977.
 
-## Janeiro:Saraiva,2005. 
+- -ZEMANSKY,MarkWaldo.CaloreTermodinamica.GuanabaraDois,1978.
 
-- -MARTINS,Petronio Garcia.Administracao daProducao.2 edicao.Sao Paulo:Saraiva, 2005. 
+-BRUHAT, Georges; KASTLER, Alfred; VICHNIEWSKY, Restilav. Curso de fisica geral: Termodinamica.SaoPaulo:LTC,1966. INCROPERA,F.Fundamentos de Transferencia deCalor e deMassa.6edicao.Sao Paulo:LTC,2008.
 
-- -BARBOSA FILHO,Antonio Nunes.Seguranga do trabalho e Gestao Ambiental. SaoPaulo: Atlas,2001. 
+2009.
 
--SALiM, Luiz Fernando. Saude e Seguranca no Ambiente de Trabalho.Belo Horizonte: Segrag, 2002. 
+45M 38<br>Ass.<br>
 
-## BibliografiaComplementar 
+CampusCampoLargodoIFPR Curso:TecnicodeNivel Medio Eixotecnologico:Controleeprocessos SubsequenteemMecanica industriais Componente Curricular: Projetos Mecanicos Periodo 2° ano Carga Horas-aulas: 80h letivo: Horaria: BasesTecnologicas(Ementa) Levantamentoanaliticodoproblemaemetodologiasde solucao;Solucaotécnica;Anteespecificacoes;Ferramentasdedesenvolvimentodeprojeto;Modelamentodoscomponentes emontagememsoftwareCAD3D.
 
--WIENEKE,Falko.Gestao da Producao:Planejamento da producao e atendimento de pedidos.2edicao.SaoPaulo:Blucher,2009. 
+## BibliografiaBasica
 
--STONER,James A.F.Gestao da Qualidade e do MeioAmbiente:EnfoqueEconomico, FinanceiroePatrimonial.5edicao.SaoPaulo: LTC,1994. - PALADINl, E. P. Gestao da Qualidade.1 edicao. Sao Paulo: Atlas, 2004. -GILBERTO,Michael.SistemadeGerenciamentoAmbiental.SaoPaulo:Iman,1995. 
+- -NIEMAN,G.Elementos de Maquinas.7edicao.SaoPaulo:Blucher,2000.
 
-**==> picture [96 x 48] intentionally omitted <==**
+- -SHlGLEY,J.E.Projeto deEngenhariaMecanica.7edicao.PortoAlegre:Bookman,2005. -NORTON,R.ProjetodeMaquinas.2edicao.PortoAlegre:Bookman,2004.
 
-**----- Start of picture text -----**<br>
-DO<br>FI. 449<br>Ass. 36<br>**----- End of picture text -----**<br>
+## BibliografiaComplementar
 
+-FACHIN, O.Fundamentos de Metodologia.5 edicao. Sao Paulo:Saraiva, 2006. -MATTAR,J.MetodologiaCientificanaEra daInformatica. 3a edicao.SaoPaulo: Saraiva,2008.
 
-## CampusCampo LargodoIFPR 
+-PROVENZA,Francesco.Projetista de maquinas. Sao Paulo: N.c.,1991. -PAHL,G.;BEITZ,W.;FELDHUSEN,J.;GROTE,K.H.Projeto na Engenharia.1edicao. SaoPaulo:Blucher,2005. -COLLINS,J.A.Projetos Mecanicos de Elementos de Maquinas.1aedicao.SaoPaulo: LTC,2006.
 
-> Curso:TecnicodeNivel Medio Eixotecnologico:Controleeprocessos SubsequenteemMecanica industriais 
+452<br>39<br>Ass.<br>
 
-Componente ManutencaoIndustrial Curricular: Periodo letivo: 2° ano Carga Horas-aulas: 80h Horaria: 
+## CampusCampo Largo doIFPR
 
-## Ementa 
+> Curso:TecnicodeNivelMedio Eixotecnologico:Controleeprocessos
 
-Pilares da manutengao;Manutencao mecanica;Lubrificacao;Desgaste;Montagem de 
+> SubsequenteemMecanica industriais
 
-## BibliografiaBasica 
+Componente Curricular: Tecnologia,SociedadeeTrabalho
 
-- -FOGLIATTO,F. S. Confiabilidade e Manutengao Industrial. 1 edicao.Rio de Janeiro: Campus, 2009. 
+> Periodo 2°ano Carga Horas-aulas:80h letivo: Horaria:
 
-- -SANTOS,Valdir A. dos.Manual Pratico da Manutencao Industrial. 2 edicao. Santos: icone, 2007. 
+Ementa:Tecnologia,Sociedadee Trabalho;Fundamentos epistemologicose axiologicos da Tecnologia;SociedadeIndustrial;ProcessosProdutivosContemporaneos;Mercadoou MundodoTrabalho;ContratodeTrabalhonoregimejuridicodaCLTesuaspeculiaridades; Direitos e deveres dos trabalhadores CLTe suas implicacoes;Microempresario,Empresario individual(LTDAeEIRELl)esociedadesempresarias;Cooperativasdetrabalho; Propriedadeintelectual eindustrial.
 
-- -Manutencao.Novo Telecurso.13 edicao.Sao Paulo.GOL:2012. 
+## BibliografiaBasica
 
-## BibliografiaComplementar 
+-RESENDE,Ricardo.Direito doTrabalhoEsquematizado.4edicao.SaoPaulo:Forense, 2014.
 
-- -HARRIS, M.J. Kelly.Administracao da Manutencao Industrial.Rio de Janeiro: IBP, 1990. 
+-BAzZO,Walter Antonio.Ciencia,Tecnologiae Sociedade:e o ContextodaEducacao Tecnologica.3edicaorevisada.Florianopolis:UFSC,2011.
 
-- -VERRl,L.A.GerenciamentoPelaQualidadeTotal naManutencaoIndustrial.1edicao.Rio de Janeiro:Qualitymark,2007. - KARDEC, A.; NASCIF, J. Manutencao: fungao estratégica. 3 edicao. Rio de Janeiro: Qualitmark,2009. 
+- DlAS, Reinaldo. Introducao a Sociologia. 2 edicao. Sao Paulo: Pearson Prentice Hall, 2010.
 
-**==> picture [93 x 29] intentionally omitted <==**
+-ALMEIDA,AmadorPaesde.ConsolidacaodasLeisTrabalhistasComentada:legislacao, doutrinaejurisprudencia.SaoPaulo:Saraiva,2011.
 
-**----- Start of picture text -----**<br>
-FI 450<br>37<br>Ass.:<br>**----- End of picture text -----**<br>
+CARRlON,Valentin.Comentarios a ConsolidacaodasLeis do Trabalho:Legislacao Complementar e Jurisprudencia. SaoPaulo:Editora Saraiva,2013.
 
+## Bibliografia Complementar
 
-## CampusCampoLargodoIFPR 
+-DE MAlS, Domenico. O futuro do trabalho: fadiga e ocio na sociedade pos-industrial. 43 edicao.Brasilia:UNB,2000.
 
-> Curso:TecnicodeNivelMedioSubsequente Eixo tecnologico:Controleeprocessos emMecanica industriais Componente Maquinaseaparelhosmecanicos Curricular: 
+- GAMA, R. (Org.). Ciencia e Técnica: antologia de textos historicos. Sao Paulo: T.A. Queiroz,1992.
 
-> Periodoletivo: 2°ano Carga Horas-aulas: 80h Horaria: 
+-GARClA,Gustavo Felipe Barbosa. Manual do Direito do Trabalho.Sao Paulo: Metodo, 2009.
 
-Ementa:Termodinamica;Ciclo deCarnot;Ciclosreais;Combustao;Motores ciclo Ottoe diesel;Maquinas térmicas;Ar condicionado;Geradordevapor;Maquinas defluxo; Compressores;Classificacao dasMaquinasHidraulicas;Bombas;Cavitacao;Perdas e Rendimento. 
+-IGLESIAS,Francisco.A Industrializacao Brasileira.SaoPaulo:Brasiliense,1996.
 
-## BibliografiaBasica 
+LDO<br>FI 453<br>40<br>Ass.:<br>CAMPO<br>
 
--MACINTYRE,A.J.Bombas e Instalacoes de Bombeamento.2edicao.SaoPaulo:LTC, 1997. -SONNING,Richard Ewin;BORGNAKKE,C.VAN WYLEN,Gordon John.Fundamentos da Termodinamica.Sao Paulo:1998. 
+CampusCampoLargodoIFPR<br>Curso:TecnicodeNivel Medio Eixo tecnologico:Controlee processos<br>SubsequenteemMecanica industriais<br>Componente<br>Usinagem Il<br>Curricular:<br>Periodoletivo: 2°ano Carga Horas-aulas:160h<br>Horaria:<br>Ementa<br>
 
-- -CIMBLERIS,B.Introducaoa termodinamicageral.Petropolis:1974. 
+(CAPP);EstruturadaprogramacaoCNC(comandonuméricocomputadorizado); Programacao assistida por computador(CAM); Integracao de dados e operacao; Manufatura integrada por computador (CiM).
 
-## BibliografiaComplementar 
+## BibliografiaBasica
 
-- -MESNY,Marcelo.Caldeira devapor.BuenosAires:Marymar,1977. 
+- -STEMMER,C.E.Ferramentas de Corte Il.Florianopolis:Editora da UFSC,1989.
 
-- -ZEMANSKY,MarkWaldo.CaloreTermodinamica.GuanabaraDois,1978. 
+- -FERRARESl,Dino.Fundamentos da Usinagem dos Metais. Sao Paulo:E.Blucher,1977.
 
--BRUHAT, Georges; KASTLER, Alfred; VICHNIEWSKY, Restilav. Curso de fisica geral: Termodinamica.SaoPaulo:LTC,1966. INCROPERA,F.Fundamentos de Transferencia deCalor e deMassa.6edicao.Sao Paulo:LTC,2008. 
+## Bibliografia Complementar
 
-2009. 
+- -MACHADO,A.R.Teoria da Usinagem dos Metais.SaoPaulo:Blucher,2011.
 
-**==> picture [96 x 27] intentionally omitted <==**
+- -Apostilas do Telecurso 2ooo.FundacaoRobertoMarinho.ComandonumericoCNC tecnicaoperacional:cursobasico.SaoPaulo:EPU,1984.
 
-**----- Start of picture text -----**<br>
-45M 38<br>Ass.<br>**----- End of picture text -----**<br>
+- SILVA, S.D. CNC-Programagao de CNC-Torneamento. Sao Paulo: Erica, 2008.
 
+## * Uma hora-aula corresponde a 50 minutos.
 
-CampusCampoLargodoIFPR Curso:TecnicodeNivel Medio Eixotecnologico:Controleeprocessos SubsequenteemMecanica industriais Componente Curricular: Projetos Mecanicos Periodo 2° ano Carga Horas-aulas: 80h letivo: Horaria: BasesTecnologicas(Ementa) Levantamentoanaliticodoproblemaemetodologiasde solucao;Solucaotécnica;Anteespecificacoes;Ferramentasdedesenvolvimentodeprojeto;Modelamentodoscomponentes emontagememsoftwareCAD3D. 
+FI. 454<br>
 
-## BibliografiaBasica 
+Ass.:<br>
 
-- -NIEMAN,G.Elementos de Maquinas.7edicao.SaoPaulo:Blucher,2000. 
+## 4.DOCUMENTOSANEXOS
 
-- -SHlGLEY,J.E.Projeto deEngenhariaMecanica.7edicao.PortoAlegre:Bookman,2005. -NORTON,R.ProjetodeMaquinas.2edicao.PortoAlegre:Bookman,2004. 
+- 4.1.Regulamentode estagiocurricularnaoobrigatoriodoIFPRCampoLargo
 
-## BibliografiaComplementar 
+- 4.2.CopiadacapadoProcessoAdministrativoabertoemNovembrode2010pelo CampusCampoLargoeAta do ajuste curricularnoColegiado de curso
 
--FACHIN, O.Fundamentos de Metodologia.5 edicao. Sao Paulo:Saraiva, 2006. -MATTAR,J.MetodologiaCientificanaEra daInformatica. 3a edicao.SaoPaulo: Saraiva,2008. 
+- 4.3CopiadaResolucaoIFPRN65/11-autorizandoacriacaodoCursoTecnico emMecanicamodalidadesubsequente,noCampusCampo Largodo IFPR
 
--PROVENZA,Francesco.Projetista de maquinas. Sao Paulo: N.c.,1991. -PAHL,G.;BEITZ,W.;FELDHUSEN,J.;GROTE,K.H.Projeto na Engenharia.1edicao. SaoPaulo:Blucher,2005. -COLLINS,J.A.Projetos Mecanicos de Elementos de Maquinas.1aedicao.SaoPaulo: LTC,2006. 
+- 4.4AtadereformulacaodoPPCdeMecanica-16demarcode2015
 
-**==> picture [91 x 33] intentionally omitted <==**
+- 4.5AtadereformulacaodoPPCdeMecanica-30demarcode2015
 
-**----- Start of picture text -----**<br>
-452<br>39<br>Ass.<br>**----- End of picture text -----**<br>
+- 4.6AtadereformulacaodoPPCdeMecanica-13deabril de2015
 
+- 4.7 Termodeconveniocom aEmpresaUsinagemSpaki
 
-## CampusCampo Largo doIFPR 
+LDO<br>FI. 455<br>Ass.<br>
 
-> Curso:TecnicodeNivelMedio Eixotecnologico:Controleeprocessos 
+INSTITUTO<br>FEDERALDO<br>PARANA<br>MINISTERIODA<br>Campus EDUCACAO UMPAISDETODOSGOVERNOFEDERAL<br>Campo Largo<br>
 
-> SubsequenteemMecanica industriais 
+## REGULAMENTODOESTAGIOCURRICULARNAOOBRIGATORIO
 
-Componente Curricular: Tecnologia,SociedadeeTrabalho 
+## IFPR-CAMPUSCAMPOLARGO
 
-> Periodo 2°ano Carga Horas-aulas:80h letivo: Horaria: 
+## CAPITULOI
 
-Ementa:Tecnologia,Sociedadee Trabalho;Fundamentos epistemologicose axiologicos da Tecnologia;SociedadeIndustrial;ProcessosProdutivosContemporaneos;Mercadoou MundodoTrabalho;ContratodeTrabalhonoregimejuridicodaCLTesuaspeculiaridades; Direitos e deveres dos trabalhadores CLTe suas implicacoes;Microempresario,Empresario individual(LTDAeEIRELl)esociedadesempresarias;Cooperativasdetrabalho; Propriedadeintelectual eindustrial. 
+## DANATUREZAEFINALIDADE
 
-## BibliografiaBasica 
+Artigo1°-Oestagiocurricularnaoobrigatorioéumatoeducativodenaturezaopcional, comafinalidadedecomplementarosconhecimentosteoricosrecebidospeloestudante aolongodasatividadesdeensino/aprendizagemeobedeceraalegislacaoespecifica, bemcomoasnormasediretrizesinternasdaIFPR.
 
--RESENDE,Ricardo.Direito doTrabalhoEsquematizado.4edicao.SaoPaulo:Forense, 2014. 
+## CAPITULOII
 
--BAzZO,Walter Antonio.Ciencia,Tecnologiae Sociedade:e o ContextodaEducacao Tecnologica.3edicaorevisada.Florianopolis:UFSC,2011. 
+## DA ORGANIZACAO
 
-- DlAS, Reinaldo. Introducao a Sociologia. 2 edicao. Sao Paulo: Pearson Prentice Hall, 2010. 
+Artigo 2°-O estagio curricular nao obrigatorio deve ser organizado tendo emvista os seguintesobjetivos:
 
--ALMEIDA,AmadorPaesde.ConsolidacaodasLeisTrabalhistasComentada:legislacao, doutrinaejurisprudencia.SaoPaulo:Saraiva,2011. 
+## I-ampliar a formacao academico-profissional do estudante;
 
-CARRlON,Valentin.Comentarios a ConsolidacaodasLeis do Trabalho:Legislacao Complementar e Jurisprudencia. SaoPaulo:Editora Saraiva,2013. 
+ll-propiciar ao estudante,na pratica,a aplicacao dos conhecimentos teoricos obtidos durantearealizacaodocurso;
 
-## Bibliografia Complementar 
+## Ill-promoveraintegracaosocial doestudante.
 
--DE MAlS, Domenico. O futuro do trabalho: fadiga e ocio na sociedade pos-industrial. 43 edicao.Brasilia:UNB,2000. 
+Extensao,Pesquisa e Inovacao em articulacao coma Direcao de Ensino,Pesquisa e Extensao do Campus CampoLargo,com as seguintes atribuicoes:
 
-- GAMA, R. (Org.). Ciencia e Técnica: antologia de textos historicos. Sao Paulo: T.A. Queiroz,1992. 
+I-celebrar convenio com a entidade concedente de estagioou agencia de integracao empresa-escola;
 
--GARClA,Gustavo Felipe Barbosa. Manual do Direito do Trabalho.Sao Paulo: Metodo, 2009. 
+## ll-aprovaroplanode estagioelaboradopeloestudanteeseu orientador;
 
--IGLESIAS,Francisco.A Industrializacao Brasileira.SaoPaulo:Brasiliense,1996. 
+compartilhadapelosorientadoresepelos supervisoresprofissionaisvinculadosas entidadesconcedentes;
 
-**==> picture [91 x 77] intentionally omitted <==**
+FI. 456 Ass.:
 
-**----- Start of picture text -----**<br>
-LDO<br>FI 453<br>40<br>Ass.:<br>CAMPO<br>**----- End of picture text -----**<br>
+Artigo 4°-Sopoderaoestagiar estudantesregularmentematriculadosecomfrequencia regular,preferencialmentedepoisdecursadoumsemestreletivo.
 
+s unico- a duracao do estagio curricular nao obrigatorio nao podera ser inferior a um semestreletivo.
 
-**==> picture [465 x 125] intentionally omitted <==**
+## CAPITULOIII
 
-**----- Start of picture text -----**<br>
-CampusCampoLargodoIFPR<br>Curso:TecnicodeNivel Medio Eixo tecnologico:Controlee processos<br>SubsequenteemMecanica industriais<br>Componente<br>Usinagem Il<br>Curricular:<br>Periodoletivo: 2°ano Carga Horas-aulas:160h<br>Horaria:<br>Ementa<br>**----- End of picture text -----**<br>
+## DOCAMPODEESTAGIO
 
+Artigo 5° - Constituem campo de estagio as entidades de direito privado, os orgaos de administracaopublica,as instituicoes deensino,a comunidadeem gerale asproprias unidadesdeservicoseensinodoIFPR.
 
-(CAPP);EstruturadaprogramacaoCNC(comandonuméricocomputadorizado); Programacao assistida por computador(CAM); Integracao de dados e operacao; Manufatura integrada por computador (CiM). 
+Campo Largo, em relacao a entidade ofertante de campo de estagio:
 
-## BibliografiaBasica 
+## I-existenciadeinfraestruturamaterialederecursoshumanos;
 
-- -STEMMER,C.E.Ferramentas de Corte Il.Florianopolis:Editora da UFSC,1989. 
+ll - aceitacao das condicoes de supervisao e avaliacao do Campus Campo Largo do IFPR;
 
-- -FERRARESl,Dino.Fundamentos da Usinagem dos Metais. Sao Paulo:E.Blucher,1977. 
+Il-anuenciaeacatamentoasnormasdisciplinadorasdoestagiocurricularnao obrigatorio doIFPR-Campus Campo Largo;
 
-## Bibliografia Complementar 
+Artigo 7°- O campo de estagio sera aprovado pela Direcao de Ensino, Pesquisa e s de integracao empresa escola,estes ultimos entendidos como entidades que atuam na intermediacaodabuscadecamposdeestagioeofertasdevagas.
 
-- -MACHADO,A.R.Teoria da Usinagem dos Metais.SaoPaulo:Blucher,2011. 
+S 1°-A jornada do estagio devera ser compativel como horarioescolar do estudante;
 
-- -Apostilas do Telecurso 2ooo.FundacaoRobertoMarinho.ComandonumericoCNC tecnicaoperacional:cursobasico.SaoPaulo:EPU,1984. 
+S 2°-devera ser garantida a adequacao entre as atividadesdesenvolvidasno estagio e aareadeformacaodoestudante.
 
-- SILVA, S.D. CNC-Programagao de CNC-Torneamento. Sao Paulo: Erica, 2008. 
+## CAPITULOIV
 
-## * Uma hora-aula corresponde a 50 minutos. 
+## DASUPERVISAOEORIENTACAODEESTAGIO
 
-**==> picture [49 x 13] intentionally omitted <==**
+Artigo8-Asupervisaodoestagiocurricularnaoobrigatoriocaberaaoprofissional vinculadoa entidade concedente do estagioemconjunto comprofissional orientador indicadopelocursoaoqualoalunoestamatriculado.
 
-**----- Start of picture text -----**<br>
-FI. 454<br>**----- End of picture text -----**<br>
+## Artigo9°-Cabe aoprofissional orientador do estagio:
 
+I- elaborar em conjunto com o estudante estagiario o plano de estagio, observada a adequacaodasatividadesdeestagiocomaareadeformacaodoestudante,deforma a garantirodesenvolvimentodecompetenciasnecessariasasuaformacaoprofissional.
 
-**==> picture [17 x 11] intentionally omitted <==**
+F1. 457 Ass.
 
-**----- Start of picture text -----**<br>
-Ass.:<br>**----- End of picture text -----**<br>
+ll-solicitarrelatoriosdosestagios,verificaraassiduidadedoestagiarioepreenchera ficha de avaliacao.
 
+Artigo10°-Cabe ao supervisor profissional da entidade concedente:
 
-## 4.DOCUMENTOSANEXOS 
+I-avaliar as atividades desenvolvidaspelo estudante estagiario;
 
-- 4.1.Regulamentode estagiocurricularnaoobrigatoriodoIFPRCampoLargo 
+ll- assinar a ficha defrequencia do aluno estagiario;
 
-- 4.2.CopiadacapadoProcessoAdministrativoabertoemNovembrode2010pelo CampusCampoLargoeAta do ajuste curricularnoColegiado de curso 
+Ill- orientar a elaboracao dos relatorios do estagio e preencher a ficha de avaliacao;
 
-- 4.3CopiadaResolucaoIFPRN65/11-autorizandoacriacaodoCursoTecnico emMecanicamodalidadesubsequente,noCampusCampo Largodo IFPR 
+IV-verificar a adequacaodas atividades deestagio coma area de formacaodo estudante,deformaagarantirodesenvolvimentodecompetenciasnecessariasasua formacao profissional.
 
-- 4.4AtadereformulacaodoPPCdeMecanica-16demarcode2015 
+## CAPITULOV
 
-- 4.5AtadereformulacaodoPPCdeMecanica-30demarcode2015 
+## DA AVALIACAODO ESTAGIO
 
-- 4.6AtadereformulacaodoPPCdeMecanica-13deabril de2015 
+profissional orientador do estagio,em conjunto com o supervisor profissional da entidade concedente,observados osseguintes criterios:
 
-- 4.7 Termodeconveniocom aEmpresaUsinagemSpaki 
+I- desempenhoprofissional do estudante estagiario nas atividades contidas noplano de estagio;
 
-**==> picture [53 x 50] intentionally omitted <==**
+ll-assiduidadedoestudanteestagiarionaentidadeconcedente.
 
-**----- Start of picture text -----**<br>
-LDO<br>FI. 455<br>Ass.<br>**----- End of picture text -----**<br>
+## CAPITULOVI
 
+## DASDISPOSICOESGERAIS
 
-**==> picture [414 x 67] intentionally omitted <==**
+recebimento debolsa.
 
-**----- Start of picture text -----**<br>
-INSTITUTO<br>FEDERALDO<br>PARANA<br>MINISTERIODA<br>Campus EDUCACAO UMPAISDETODOSGOVERNOFEDERAL<br>Campo Largo<br>**----- End of picture text -----**<br>
+s unico -A entidade concedente de estagio ou os agentes de integracao empresacurricular nao obrigatorio.
 
+Artigo14-Aentidadeconcedentepoderaexpedirdeclaracaoreferentearealizacaode estagiocurricularnaoobrigatorio,depoisdecumpridastodasasformalidadesprevistas paraessamodalidade.
 
-## REGULAMENTODOESTAGIOCURRICULARNAOOBRIGATORIO 
+Artigo 15-Os casos omissos seraoresolvidos pela Direcao de Ensino,Pesquisa e recebidas daPro-reitora deExtensao,Pesquisa e Inovacao.
 
-## IFPR-CAMPUSCAMPOLARGO 
+Campo Largo,30 de abril de 2015.
 
-## CAPITULOI 
+458<br>Ass.:<br>CAMPUS<br>
 
-## DANATUREZAEFINALIDADE 
+## DirecaoEnsino,PesquisaeExtensaodoIFPR-CampusCampoLargo.
 
-Artigo1°-Oestagiocurricularnaoobrigatorioéumatoeducativodenaturezaopcional, comafinalidadedecomplementarosconhecimentosteoricosrecebidospeloestudante aolongodasatividadesdeensino/aprendizagemeobedeceraalegislacaoespecifica, bemcomoasnormasediretrizesinternasdaIFPR. 
+## RelatoriodeAtividadesdeEstagioCurricularNaoObrigatorio
 
-## CAPITULOII 
+Orelatorioseraelaboradopeloestagiariodevendoconter:
 
-## DA ORGANIZACAO 
+## 1)Dadosdeidentificacaodoestagiarioedaunidadeconcedente.
 
-Artigo 2°-O estagio curricular nao obrigatorio deve ser organizado tendo emvista os seguintesobjetivos: 
+## 2)Setoresemqueoestagiarioatuounaempresa.
 
-## I-ampliar a formacao academico-profissional do estudante; 
+## 3)Descreverasatividadesdesenvolvidas.
 
-ll-propiciar ao estudante,na pratica,a aplicacao dos conhecimentos teoricos obtidos durantearealizacaodocurso; 
+4)Apresentarpelomenosumasituacaoreal detrabalho,vivenciadapelo estagiarionaunidadeconcedente,contemplandoasatividadesdetrabalho vinculadasareadeformacaoacademica-profissional.
 
-## Ill-promoveraintegracaosocial doestudante. 
+seguintesperguntas:
 
-Extensao,Pesquisa e Inovacao em articulacao coma Direcao de Ensino,Pesquisa e Extensao do Campus CampoLargo,com as seguintes atribuicoes: 
+## 19) Com relacao ao desenvolvimento das atividades.
 
-I-celebrar convenio com a entidade concedente de estagioou agencia de integracao empresa-escola; 
+## 1.1)Estadeacordocomsuasexpectativas?
 
-## ll-aprovaroplanode estagioelaboradopeloestudanteeseu orientador; 
+- 1.2)Estaoferecendoexperienciapara oexercicioprofissional futuro?
 
-compartilhadapelosorientadoresepelos supervisoresprofissionaisvinculadosas entidadesconcedentes; 
+## 1.3)Permiteconhecernovastécnicasemetodologiasdetrabalho?
 
-FI. 456 Ass.: 
+- 1.4)Ofereceexperienciapraticanasuaareadeformacao?
 
-Artigo 4°-Sopoderaoestagiar estudantesregularmentematriculadosecomfrequencia regular,preferencialmentedepoisdecursadoumsemestreletivo. 
+- 1.5) Permite conhecer a importancia do trabalho em equipe?
 
-s unico- a duracao do estagio curricular nao obrigatorio nao podera ser inferior a um semestreletivo. 
+1.6)Vocesugerequeoutroacademicofacaumestagiosemelhante ao seu?Por que?
 
-## CAPITULOIII 
+## 2°)Comrelacaoaoambientedetrabalho.
 
-## DOCAMPODEESTAGIO 
+## 2.1)Oambientefisicoéadequado?
 
-Artigo 5° - Constituem campo de estagio as entidades de direito privado, os orgaos de administracaopublica,as instituicoes deensino,a comunidadeem gerale asproprias unidadesdeservicoseensinodoIFPR. 
+459
 
-Campo Largo, em relacao a entidade ofertante de campo de estagio: 
+FI
 
-## I-existenciadeinfraestruturamaterialederecursoshumanos; 
+Ass.<br>
 
-ll - aceitacao das condicoes de supervisao e avaliacao do Campus Campo Largo do IFPR; 
+## 2.2)Houve integracaocomosfuncionariosdaempresa?
 
-Il-anuenciaeacatamentoasnormasdisciplinadorasdoestagiocurricularnao obrigatorio doIFPR-Campus Campo Largo; 
+## 2.3)Comofoiaorientacaoe supervisaoexercidaspela empresa
 
-Artigo 7°- O campo de estagio sera aprovado pela Direcao de Ensino, Pesquisa e s de integracao empresa escola,estes ultimos entendidos como entidades que atuam na intermediacaodabuscadecamposdeestagioeofertasdevagas. 
+## 6)Avaliacaodoestagiopelosupervisor.
 
-S 1°-A jornada do estagio devera ser compativel como horarioescolar do estudante; 
+Aspectos considerados do Muito Bom Regular<br>estagiario bom<br>Assiduidade<br>2 Relacionamentointerpessoal<br>3 Etica profissional<br>4 Capacidade deautocritica<br>5 Iniciativa epersistenciano<br>desempenhodasatividades<br>6 Espontaneidadeeparticipacao<br>nasatividadesplanejadas<br>Compreensaodastarefas<br>8 Contribuicaocomideias<br>
 
-S 2°-devera ser garantida a adequacao entre as atividadesdesenvolvidasno estagio e aareadeformacaodoestudante. 
+## Recomendacoes:
 
-## CAPITULOIV 
+## 7)Avaliacaodoestagiopeloprofessororientador
 
-## DASUPERVISAOEORIENTACAODEESTAGIO 
+Diantedasrespostas dadaspeloestagiarioepelosupervisorde estagio,considero o estagio concluido com:
 
-Artigo8-Asupervisaodoestagiocurricularnaoobrigatoriocaberaaoprofissional vinculadoa entidade concedente do estagioemconjunto comprofissional orientador indicadopelocursoaoqualoalunoestamatriculado. 
+（）éxito
 
-## Artigo9°-Cabe aoprofissional orientador do estagio: 
+() sem exito
 
-I- elaborar em conjunto com o estudante estagiario o plano de estagio, observada a adequacaodasatividadesdeestagiocomaareadeformacaodoestudante,deforma a garantirodesenvolvimentodecompetenciasnecessariasasuaformacaoprofissional. 
+Data e local:
 
-F1. 457 Ass. 
+Assinatura do Estagiario:
 
-ll-solicitarrelatoriosdosestagios,verificaraassiduidadedoestagiarioepreenchera ficha de avaliacao. 
+Assinatura do Supervisor:
 
-Artigo10°-Cabe ao supervisor profissional da entidade concedente: 
+AssinaturadoProfessorOrientador:
 
-I-avaliar as atividades desenvolvidaspelo estudante estagiario; 
+151<br>INSTITUTOFEDERAL<br>PADAIA<br>
 
-ll- assinar a ficha defrequencia do aluno estagiario; 
+## PROCESSOADMINISTRATIVO
 
-Ill- orientar a elaboracao dos relatorios do estagio e preencher a ficha de avaliacao; 
+F1 343<br>Ass.:<br>Ass.:<br>
 
-IV-verificar a adequacaodas atividades deestagio coma area de formacaodo estudante,deformaagarantirodesenvolvimentodecompetenciasnecessariasasua formacao profissional. 
+PROCESSO<br>23411.008111/2010-18<br>
 
-## CAPITULOV 
+## Cadastradoem15/10/2010
 
-## DA AVALIACAODO ESTAGIO 
+Processodisponivelpararecebimientocom<br>codlgo debarras<br>
 
-profissional orientador do estagio,em conjunto com o supervisor profissional da entidade concedente,observados osseguintes criterios: 
+Nome(s) do Interessado(s): CAMPUS CURITIBA(Outro) Tipo do Processo: DESCONHECIDO-VERSAOANTERIOR AssuntoDetalhado: CURSOTECNICO EMMECANICA Unidade deOrigem: CAMPUSCURITIBA·(11.08) CriadoPor: "MIGRACAO 'Observacao: Processo migrado dosistema anterior. Dados do sistema anterior:TitutoPLANO DE CURSO;Tipo=P
 
-I- desempenhoprofissional do estudante estagiario nas atividades contidas noplano de estagio; 
+Identificador:
 
-ll-assiduidadedoestudanteestagiarionaentidadeconcedente. 
+## OBSERVACOES
 
-## CAPITULOVI 
+## TRAMITACAO
 
-## DASDISPOSICOESGERAIS 
+Data Secao Rubrica Data Secao Rubrica<br>8.1110 PREPPO 16<br>2 12.10 Campus Gurihbe 17<br>3 1.03.11 PREPPG 18<br>4 241.03.1 PREPPC 19<br>5 25.0S.1 CAiBiNEIERETTOR 20<br>6 SOC 21<br>7 8<6.11 PRUENS 22<br>8 304.1 DEMEC 23<br>9 22.08.11 CAnPusCEinBA 24<br>10 28.c8.0 DiRECAOENSiNO 25<br>11 .C9.m CCAnPOLARGO 26<br>12 24.65. PRCENS DEmTEC 27<br>13 21.06.12 C.CAnPCLARCO 28<br>14 2 12 PRCENSDEMTEC 29<br>15 omnbCamyo Moners 30<br>
 
-recebimento debolsa. 
+## ANO
 
-s unico -A entidade concedente de estagio ou os agentes de integracao empresacurricular nao obrigatorio. 
+Arquivo
 
-Artigo14-Aentidadeconcedentepoderaexpedirdeclaracaoreferentearealizacaode estagiocurricularnaoobrigatorio,depoisdecumpridastodasasformalidadesprevistas paraessamodalidade. 
+Fi<br>461 DO<br>Ass. LILSNI-<br>Ass.<br>AMPOL<br>
 
-Artigo 15-Os casos omissos seraoresolvidos pela Direcao de Ensino,Pesquisa e recebidas daPro-reitora deExtensao,Pesquisa e Inovacao. 
+INSTITUTOFEDERAL PAnnA
 
-Campo Largo,30 de abril de 2015. 
+MinisteriodaEducacao<br>InstitutoFeceraldoParana<br>
 
-**==> picture [51 x 53] intentionally omitted <==**
+## RESOLUCAON.65/11.
 
-**----- Start of picture text -----**<br>
-458<br>Ass.:<br>CAMPUS<br>**----- End of picture text -----**<br>
+Autorizaacriacao doCursoTecnicoemMecanica, Modalidade Subsequente,noCampus Campo Largo,do InstitutoFederal doParana(IFPR).
 
+PARANA,no usodesuas'atribuicoes legais.eestatutarias, e,tendovistaocontidonoparecerexaradopeloConselheiro Prof.Ezequiel Westphal noprocess0 n.°23411.004117/2011-97:
 
-## DirecaoEnsino,PesquisaeExtensaodoIFPR-CampusCampoLargo. 
+## RESOLVE:
 
-## RelatoriodeAtividadesdeEstagioCurricularNaoObrigatorio 
+Autorizara criacao doCursoTecnicoemMecanica,modalidadesubsequente,noCampus Campo Largo,do Institutp.Federal doParana (IFPR).
 
-Orelatorioseraelaboradopeloestagiariodevendoconter: 
+## Sala deSessoes do Conselho:em21 dedezembro de2011!
 
-## 1)Dadosdeidentificacaodoestagiarioedaunidadeconcedente. 
+PROF.IRINEU MARIO COLOMBO Presidente
 
-## 2)Setoresemqueoestagiarioatuounaempresa. 
+INSTITUTOFEDERAL PARANA Gampus Camipo Largo
 
-## 3)Descreverasatividadesdesenvolvidas. 
+FI 462<br>AsS.<br>MinisteriodaEducacao<br>InstitutoFecieraidoParana<br>
 
-4)Apresentarpelomenosumasituacaoreal detrabalho,vivenciadapelo estagiarionaunidadeconcedente,contemplandoasatividadesdetrabalho vinculadasareadeformacaoacademica-profissional. 
+## ATAREUNIAOCOLEGIADO
 
-seguintesperguntas: 
+## CURSO TECNICO EMMECANICA-CAMPUSCAMPOLARGO
 
-## 19) Com relacao ao desenvolvimento das atividades. 
+Aos 16 dias domesde marco de doismil e quinze,as 15h00minno InstitutoFederal do
 
-## 1.1)Estadeacordocomsuasexpectativas? 
+- 2 Parana-CampusCampoLargoreuniram-seos servidores:DanielaBianchi PonceLeon
 
-- 1.2)Estaoferecendoexperienciapara oexercicioprofissional futuro? 
+- 3 de Lima,Rogerio Breganon,Anselmo Fabris,Ricardo.Kertscher,Gismar Schilive de
 
-## 1.3)Permiteconhecernovastécnicasemetodologiasdetrabalho? 
+- 4
 
-- 1.4)Ofereceexperienciapraticanasuaareadeformacao? 
+- 5
 
-- 1.5) Permite conhecer a importancia do trabalho em equipe? 
+- 6 PONTOSDEPAUTA:1)ReformulacaodoPPCdeMecanica:Todosforam informados 7 danecessidadedeencaminhamentoaDirecaodeEnsino,ate30de abril,oplano de 8 cursoreformulado.Oprofessor Gismar encaminhara a todos aproposta nova queeleja 9 elaboroue.acoordenadoradecurso.encaminharaaversao atuale asanterioresdePpC
 
-1.6)Vocesugerequeoutroacademicofacaumestagiosemelhante ao seu?Por que? 
+- 10 de Mecanica paraque osgrupos,divididos em comissoes,facam a analise departes da
 
-## 2°)Comrelacaoaoambientedetrabalho. 
+- 11
 
-## 2.1)Oambientefisicoéadequado? 
+- 12 Luciano,AnselmoeRogerio-responsaveispelareformulacaodasdisciplinasUsinagem 13 II,ManutencaoIndustrial,Mecanica Tecnicae Resistencia dos Materiaise Acionamentos 14 PneumaticoseHidraulicos;Comissao2-Gismar,Paulo,DanielaeMarta 15 responsaveispela reformulacaodas disciplinas Tecnologia dosMateriaise Ensaios, 16 Maquinas e aparelhos Mecanicos,Metrologia,Processos de Fabricacao e Gestao; 17 Comissao3-Helcio,RicardoeEliane-responsaveispelareformulacao das disciplinas 18 Desenho Tecnico Mecanico,Elementos de Eletromecanica,Projetos Mecanicos, 19 Elementosde Maquina equalidade,Segurancae Meio Ambiente;Comissao4 20 Ronaldo, Samuel ePatricia-responsaveispelareformulacao das disciplinas 21 Tecnologia,Sociedade.e Trabalhoe Metodologiae Comunicacao.2)Agendamentode 22 entregas tecnicas de equipamentos doLaboratorio de Eletromecanica:O colegiado
 
-459 
+- 23 24 entregas técnicas dos equipamentos listados: 1) Maquina de Ensaio de Impacto Charpy
 
-FI 
+- 25 Comissao:Andre,Gismar,Daniela,Paulo e Anselmo;2) Maquina Universal de 26 Ensaios (Tracao/Compressao)-Comissao: Gismar, André,Rogerio, Marta e Paulo; 3) 27
 
-**==> picture [16 x 7] intentionally omitted <==**
+Pagina.
 
-**----- Start of picture text -----**<br>
-Ass.<br>**----- End of picture text -----**<br>
+INSTITUTOFEDERAL PADAWA Gampus Gampo Largu
 
+F1 463<br>Ass.:<br>CAMP<br>MinisteriodaEducagao<br>nstitutofederalldoParana<br>
 
-## 2.2)Houve integracaocomosfuncionariosdaempresa? 
+- 28 Fonte Plasma Hyperterm Powermax45-Comissao:Rogerio'e Andre;5) Centro de 29 Usinagem（mantendo e confirmando a informacao de.que o centro.tem transformador 30 380 V,mas é 220 V originalmente) - Comissao:Luciano,André,Anselmo,Rogerio e 31 Ricardo;Bancada Hidraulica e Pneumatica e Manipulador-Comissao:Rogerio,André,
 
-## 2.3)Comofoiaorientacaoe supervisaoexercidaspela empresa 
+- 32
 
-## 6)Avaliacaodoestagiopelosupervisor. 
+- 33 Helcio,Paulo,Marta e Daniela.3) Reserva de laboratorios de informatica:Os 34 professoresqueusamlaboratoriodeinformaticarelataramdificuldadeemsolicitar 35 reservas.Ficou-definidoque todosquenecessitarem devemsolicitar a reserva a
 
-**==> picture [398 x 160] intentionally omitted <==**
+- 36
 
-**----- Start of picture text -----**<br>
-Aspectos considerados do Muito Bom Regular<br>estagiario bom<br>Assiduidade<br>2 Relacionamentointerpessoal<br>3 Etica profissional<br>4 Capacidade deautocritica<br>5 Iniciativa epersistenciano<br>desempenhodasatividades<br>6 Espontaneidadeeparticipacao<br>nasatividadesplanejadas<br>Compreensaodastarefas<br>8 Contribuicaocomideias<br>**----- End of picture text -----**<br>
+- 37 Certificacaode ConhecimentosAnteriores -aluno Welinton Shleid:O professor 38 Anselmorelata queoalunonaocompareceu nadatamarcadaparaasavaliacoesde 39 Usinagem Ie MecanicaTecnicaeResistencia dosMateriais;oprofessor Gismarinforma 40 que eomesmo tambemnaocompareceunadatamarcada'para a avaliacaode
 
+- 41 Tecnologia dos MateriaiseEnsaios;OprofessorPaulo informa.queoalunonao 42 compareceu na data marcada para a avaliacaodeMetrologia;oprofessor Rogerio 43 informaqueoalunonaocompareceunadatamarcadaparaaavaliacaodeSoldagem;o 44 professor Samuel informou que o alunocompareceu na data marcada para a avaliacao, 45 poremnaoconseguiucomprovar conhecimentosanterioresna disciplina Metodologia e 46 Comunicacao.5)Situacao em sala de aula do aluno Matheus de Oliveira:O 47 professorRogerio.informaqueoalunotemchegadoatrasadofrequentementeedorme 48 seguidamenteduranteasaulas.Ele informaqueesta situacao aconteceunosdias06e 49 13 de marco,inclusive que a pedagoga Simone acompanhou a situacao.Estasituacao 50 temincomodadoo'professoredemaisprofessoresrelataramqueomesmoocorreem 51 suas aulas. Como opai do aluno este no IFPR Campo Largo no anopassado buscando 52 informacoessobreo.filho,poisomesmojanaoestavavindoaaulahamaisdeummes 53 sem informa-lo,o colegiadoachaprudentepassaresta situacaopara a atuacaodas 54 pedagogaspara algumaprovidencia.6)Porta'aberta doalmoxarifado/barracao:O 55 tecnicoAndreeosprofessores Rogerioe Gismar informaramque aportado 56 almoxarifado/barracaoquepodeseracessadapelasobrasdonovopredioencontra-se 57 aberta(destrancada),deixando o acesso livre a quem quiser entrar. Sendo.assim,0
 
-## Recomendacoes: 
+INSTITUTOFEDERAL PARANA CampusGampn Largo
 
-## 7)Avaliacaodoestagiopeloprofessororientador 
+DO<br>FI. 464<br>Ass.<br>MinisteriodaEducacao<br>CAMPOL InstitutoFederaldoParana<br>
 
-Diantedasrespostas dadaspeloestagiarioepelosupervisorde estagio,considero o estagio concluido com: 
+- 58 colegiado de Mecanica solicitaacoordenacao,quesolicitara a DirecaoGeraldo
 
-（）éxito 
+- 59 campus,que a mesma seja trancada a fimde evitaro.desaparecimentosdos itensque la
 
-() sem exito 
+- 60 se encontram.7)Regularizacaodo trabalhoefetuadonolaboratorio:O tecnicoAndre
 
-Data e local: 
+- 61
 
-Assinatura do Estagiario: 
+- 62 tomar conhecimentose gerarrequisicoes atravesdeste sistema.Acoordenacao do 63 Cursoencaminharaestasolicitacaoa DirecaodeEnsinoparaanalise.8)Barreirade
 
-Assinatura do Supervisor: 
+- 64 contencao na'entradade equipamentos do laboratoriode eletromecanica:Devido 65 asforteschuvasdosultimosdias,olaboratoriodeeletromecanica temsofridofrequentes
 
-AssinaturadoProfessorOrientador: 
+- 66
 
-**==> picture [85 x 23] intentionally omitted <==**
+- 67 Sendo assim,o colegiado pede que seja construida uma barreira de contencao nesta 68 entrada.Aadministracaodocampusfoi informadaeestabarreira deveraserconstruida 69 nasemana.de16a20demarco.Sendooque'seapresentanestemomento,esta ata 70 segue assinada por mim,Daniela Bianchi Ponce Leon de Lima,Coordenadora do Curso 71 Tecnicoem Mecanicaepelos demaispresentes.
 
-**----- Start of picture text -----**<br>
-151<br>INSTITUTOFEDERAL<br>PADAIA<br>**----- End of picture text -----**<br>
+Pagina
 
+INSTITUTOFEDERAL PABANA Campus Campo Largo
 
-## PROCESSOADMINISTRATIVO 
+FI. 465<br>Ass.<br>MinisteriodaEducacao<br>InstitutoFederaldoParana<br>
 
-**==> picture [107 x 64] intentionally omitted <==**
+## ATAREUNIAOCOLEGIADO
 
-**----- Start of picture text -----**<br>
-F1 343<br>Ass.:<br>Ass.:<br>**----- End of picture text -----**<br>
+## CURSO TECNICO EM MECANICA-CAMPUS CAMPOLARGO
 
+   - Aos30dias domesdemarcode doismile quinze,as15h00minno InstitutoFederal do
 
-**==> picture [158 x 24] intentionally omitted <==**
+- 2 Parana-CampusCampo Largoreuniram-seosservidores:DanielaBianchi Ponce Leon
 
-**----- Start of picture text -----**<br>
-PROCESSO<br>23411.008111/2010-18<br>**----- End of picture text -----**<br>
+- 3 de Lima, Rogerio Breganon, Anselmo Fabris, Ricardo Kertscher,Gismar Schilive de
 
+- 4 Souza,Helcio Hattori, Luciano Alcindo Schulli,Paulo Schneider,Marta Gomes Francisco.PONTODEPAUTA:Reformulacaodo PPCdeMecanica:Osmembrosdo
 
-## Cadastradoem15/10/2010 
+- 6 colegiado,divididosem.3comissoes,apresentaram3propostas.dematrizcurricularcom
 
-**==> picture [125 x 17] intentionally omitted <==**
+- 7 leves diferencas.Aposdiscussao,,as3propostasforamorganizadas.numaunicanova
 
-**----- Start of picture text -----**<br>
-Processodisponivelpararecebimientocom<br>codlgo debarras<br>**----- End of picture text -----**<br>
+- 8 proposta de matriz curricular que foi organizada, impressa e entregue a todos para que
 
+- 9 as comissoes apresentemementaspara as disciplinascomponentes danovaproposta
 
-Nome(s) do Interessado(s): CAMPUS CURITIBA(Outro) Tipo do Processo: DESCONHECIDO-VERSAOANTERIOR AssuntoDetalhado: CURSOTECNICO EMMECANICA Unidade deOrigem: CAMPUSCURITIBA·(11.08) CriadoPor: "MIGRACAO 'Observacao: Processo migrado dosistema anterior. Dados do sistema anterior:TitutoPLANO DE CURSO;Tipo=P 
+- 10 emnovareuniaoagendadaparaodia13deabrilde2015.Sendoo'queseapresenta
 
-Identificador: 
+- 11 neste momento,esta ata segueassinadapor mim,DanielaBianchi.Ponce Leon de Lima, 12 CoordenadgradoCurso TecnicoemMecanica epelosdemais.presentes.
 
-## OBSERVACOES 
+Pagina.
 
-## TRAMITACAO 
+F1 466<br>RANA<br>Ass.:<br>
 
-**==> picture [478 x 283] intentionally omitted <==**
+INSTITUTOFEDERAL PABANA Campus Gampo largo
 
-**----- Start of picture text -----**<br>
-Data Secao Rubrica Data Secao Rubrica<br>8.1110 PREPPO 16<br>2 12.10 Campus Gurihbe 17<br>3 1.03.11 PREPPG 18<br>4 241.03.1 PREPPC 19<br>5 25.0S.1 CAiBiNEIERETTOR 20<br>6 SOC 21<br>7 8<6.11 PRUENS 22<br>8 304.1 DEMEC 23<br>9 22.08.11 CAnPusCEinBA 24<br>10 28.c8.0 DiRECAOENSiNO 25<br>11 .C9.m CCAnPOLARGO 26<br>12 24.65. PRCENS DEmTEC 27<br>13 21.06.12 C.CAnPCLARCO 28<br>14 2 12 PRCENSDEMTEC 29<br>15 omnbCamyo Moners 30<br>**----- End of picture text -----**<br>
+MinisteriodaEducagao<br>InstiutoFederaldoParana<br>
 
+## ATA REUNIAO COLEGIADO CURSOTECNICOEMMECANICA-CAMPUSCAMPOLARGO
 
-## ANO 
+Aos13diasdomesdeabril.dedoismilequinze,as15h00minnoInstituto.Federaldo
 
-Arquivo 
+- 2 Parana-CampusCampo Largoreuniram-seosservidores:DanielaBianchiPonce Leon
 
-**==> picture [132 x 58] intentionally omitted <==**
+- 3 de Lima,Rogerio Breganon,Anselmo Fabris,Ricardo Kertscher,Gismar Schilive de
 
-**----- Start of picture text -----**<br>
-Fi<br>461 DO<br>Ass. LILSNI-<br>Ass.<br>AMPOL<br>**----- End of picture text -----**<br>
+- 5 Francisco,AndreAugustoCamilo,RonaldoGuedes,Patricia.Machadoea representante 6 discenteAgnes Tarcilia.PONTos DE PAUTA:1) Organizacaopara estruturacao dos
 
+- 7 laboratoriosque atualmenteéocupada peloSetorAdministrativo:Nesteespaco a 8 Mecanica seraresponsavel peloplanejamentode3 laboratorios:a) Laboratoriode
 
-INSTITUTOFEDERAL PAnnA 
+- 9
 
-**==> picture [82 x 18] intentionally omitted <==**
+- 10 porPauloe Andre.O Prof.Adriano.receberaconviteparaparticipardesta comissao 11 (encaminhadopelacoordenacaodemecanica);b)Laboratoriodeautomacao:A 12 comissaoresponsavelpelaorganizacaodestelaboratorio ficacompostaporRogerio, 13 Pauloe Helcio.AcoordenacaodeMecanica solicitaraacoordenacaodaeletrotecnica 14 que indique umcomponente do Curso Técnicoem Eletrotecnicapara compor esta 15 comissao;c)Laboratorio deDesenho:Acomissaoresponsavelpelaorganizacaodeste 16 laboratorioficacompostapor-HelcioeRicardo.Asinformacoesenecessidades 17 levantadaspelascomissoesdevemserencaminhadasa CoordenacaodeMecanicaate 18 0dia 22 de abril.Estas seraorepassadas a Direcao deensino paraprovidencias.2) 19 Solicitacoes de aproveitamentodeconhecimentos anteriores:Foram encaminhadas 20 aocolegiadoassolicitacoesdosalunosCelioMMiranda,AlexandreLuizGalvaoeAlex 21 Gastao Buture Carneiro.Estas foram analisadas pelos Professores Patricia,Helcioe
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFeceraldoParana<br>**----- End of picture text -----**<br>
+- 22 Rogerio.Osresultados foram encaminhados a secretaria escolar.3) Discussao sobre 23 reformulacao do PPcda Mecanica: Com relacao as discussoes em reunioes 24 anteriores,alteram-separa 2aulaspor semana deMetodologiaeComunicacaono 25 Primeiroanoda Mecanicae2aulaspor semanadeDesenho TecnicoMecanicopara 0 26 Primeiro anodeMecanica.Os arquivos deementas eplanejamentodoPpCda 27 Mecanica que estao sendo trabalhadospelosprofessores,conforme decididona reuniao
 
+Pagina.
 
-## RESOLUCAON.65/11. 
+INSTITUTO FEDERAL PARANA Campus Garapo. Largo
 
-Autorizaacriacao doCursoTecnicoemMecanica, Modalidade Subsequente,noCampus Campo Largo,do InstitutoFederal doParana(IFPR). 
+FI 467<br>ARANA<br>Ass.:<br>Ministerio da Educacao<br>insttutoFederaldoParana<br>
 
-PARANA,no usodesuas'atribuicoes legais.eestatutarias, e,tendovistaocontidonoparecerexaradopeloConselheiro Prof.Ezequiel Westphal noprocess0 n.°23411.004117/2011-97: 
+- 28 de colegiado.anterior a esta,devemserencaminhadospore-mail aesta coordenacao 29 ateodia22deabril.4)Entregas tecnicas:Estaosendoagendadaspelacoordenacao 30 para, no maximo, ate o final do mes de Maio. Apos o agendamento, a coordenacao 31 passara o.contato para as Comissoes de Entregas Tecnicas ja organizadas em reunioes
 
-## RESOLVE: 
+- 32 de colegiados anteriores e estas acompanharao e finalizarao o processo. 5) Submissao 33 do Projeto de Pesquisa do Prof. Paulo Schneider: O referido professor apresentou 0 34 Projeto“Dificuldades deresolucaode equacoes algebricas dos estudantes dos cursos 35 tecnicos em mecanicae integrado de eletromecanica".Ele pretende submeter este
 
-Autorizara criacao doCursoTecnicoemMecanica,modalidadesubsequente,noCampus Campo Largo,do Institutp.Federal doParana (IFPR). 
+36
 
-## Sala deSessoes do Conselho:em21 dedezembro de2011! 
+- 37 encaminhou parte deste pregao disponivel para compra a coordenacao de Mecanica e 38 esta fez o encaminhamento do mesmo aos professores para aquisicoes.Rogerio e 39 Andre fizeram uma lista de solicitacoes destepregao e esta sera encaminhada ao Lucio 40 para aquisicao imediatamente.Sendo o que se apresenta neste momento,esta ata 41 segue assinada pormim,Daniela Bianchi Ponce Leon de Lima,Coordenadora do Curso 42 TecnicoemMecanicaepelosdemaispresentes.
 
-PROF.IRINEU MARIO COLOMBO Presidente 
+INSTITUTO FEDERAL PAANA Caqne Camno Laruo
 
-INSTITUTOFEDERAL PARANA Gampus Camipo Largo 
+FI. 468<br>Ass.<br>292 PUS<br>Mlnist aydaEducacao<br>C<br>
 
-**==> picture [127 x 63] intentionally omitted <==**
+## DECLARACAO
 
-**----- Start of picture text -----**<br>
-FI 462<br>AsS.<br>MinisteriodaEducacao<br>InstitutoFecieraidoParana<br>**----- End of picture text -----**<br>
+## Assunto:Termo de convenio com a Empresa Usinagem Spaki
 
+Declaro, para os devidos fins, que o termo de conveniocom a Empresa Usinagem Spaki nao esta vigorando na data atual, pois o citado convenio foi necessario quando este campus nao possuia laboratorio proprio. Portanto, na atualidade este campus nao possui o termo de convenio e nao faz necessario o citado termo ja que este campus possui laboratorio proprio para realizacao das aulas e atividades laboratoriais para curso Tecnico de Mecanica.
 
-## ATAREUNIAOCOLEGIADO 
+Campo Largo, 27 julho 2015
 
-## CURSO TECNICO EMMECANICA-CAMPUSCAMPOLARGO 
+AmaafyGebran<br>
 
-Aos 16 dias domesde marco de doismil e quinze,as 15h00minno InstitutoFederal do 
+Diretor de Ensino IFPR Campus Campo Largo<br>Prof.Amaury Pessoa Gebran<br>Diretor de Ensino,Pesquisae Extensao<br>INSTITUTO FEDERALDOPARANA<br>CampusCampo Largo<br>SIAPE1122250<br>wceaueo<br>MarltptNeseMartabonasFranciscbCoordenadora deMecanica<br>IAPE:1945993<br>
 
-- 2 Parana-CampusCampoLargoreuniram-seos servidores:DanielaBianchi PonceLeon 
+INSTITUTOFEDERALDOPARANA|CampusCampoLargo Rua:Engenheiro Tourinho,829-Vila Solene-CEP83.607-140-CampoLargoPR.Fone:(41)3208 8201
 
-- 3 de Lima,Rogerio Breganon,Anselmo Fabris,Ricardo.Kertscher,Gismar Schilive de 
+> FI 469 Ass.:
 
-- 4 
+56
 
-- 5 
+## 5.REFERENCIASBIBLIOGRAFICAS
 
-- 6 PONTOSDEPAUTA:1)ReformulacaodoPPCdeMecanica:Todosforam informados 7 danecessidadedeencaminhamentoaDirecaodeEnsino,ate30de abril,oplano de 8 cursoreformulado.Oprofessor Gismar encaminhara a todos aproposta nova queeleja 9 elaboroue.acoordenadoradecurso.encaminharaaversao atuale asanterioresdePpC 
+BRASIL.Diretrizesebasesdaeducacaonacional.Decreton°5.154,de23dejulhode 2004.RegulamentaoS 2°doart.36e0sarts.39a41daLein°9.394,de20de dezembrode1996,queestabeleceasdiretrizesebasesdaeducacaonacional,eda outrasprovidencias.Brasilia,DF,183°daIndependenciae116°daRepublica.
 
-- 10 de Mecanica paraque osgrupos,divididos em comissoes,facam a analise departes da 
+BRASIL.LDB:Lei deDiretrizeseBasesdaEducacaoNacional:Lei n°9.394,de20de dezembrode1996,queestabeleceasdiretrizesebasesdaeducacaonacional[recurso eletronico].8ed.Brasilia:Camara dosDeputados,EdicoesCamara,2013.
 
-- 11 
+MinisteriodaEducacao.ResolucaoCNE/CEBn°6,de20desetembrode 2012.DefineDiretrizesCurricularesNacionaisparaaEducacaoProfissional Tecnicade Nivel Medio.Diariooficial daUniao,Brasilia,21de setembro de2012,Secaol,p.22.
 
-- 12 Luciano,AnselmoeRogerio-responsaveispelareformulacaodasdisciplinasUsinagem 13 II,ManutencaoIndustrial,Mecanica Tecnicae Resistencia dos Materiaise Acionamentos 14 PneumaticoseHidraulicos;Comissao2-Gismar,Paulo,DanielaeMarta 15 responsaveispela reformulacaodas disciplinas Tecnologia dosMateriaise Ensaios, 16 Maquinas e aparelhos Mecanicos,Metrologia,Processos de Fabricacao e Gestao; 17 Comissao3-Helcio,RicardoeEliane-responsaveispelareformulacao das disciplinas 18 Desenho Tecnico Mecanico,Elementos de Eletromecanica,Projetos Mecanicos, 19 Elementosde Maquina equalidade,Segurancae Meio Ambiente;Comissao4 20 Ronaldo, Samuel ePatricia-responsaveispelareformulacao das disciplinas 21 Tecnologia,Sociedade.e Trabalhoe Metodologiae Comunicacao.2)Agendamentode 22 entregas tecnicas de equipamentos doLaboratorio de Eletromecanica:O colegiado 
+CatalogoNacional dosCursosTécnicos.Ministerio daEducacao.Secretaria de Educacao Basica. Disponivel em: http://portal.mec.gov.br/setec/arquivos/pdf3/catalogotecnicos.pdf.Acessoem14julho 2015
 
-- 23 24 entregas técnicas dos equipamentos listados: 1) Maquina de Ensaio de Impacto Charpy 
+INSTITUTO FEDERAL DOPARANA(CONSUP).Portaria n°120,de 06de agostode 2009.EstabeleceoscriteriosdeavaliacaodoprocessoensinoaprendizagemdoIFPR.
 
-- 25 Comissao:Andre,Gismar,Daniela,Paulo e Anselmo;2) Maquina Universal de 26 Ensaios (Tracao/Compressao)-Comissao: Gismar, André,Rogerio, Marta e Paulo; 3) 27 
+Resolucaon°54,de21dedezembrode2011.DispoesobreaOrganizacaoDidaticoPedagogica da Educacao Profissional Técnica de Nivel Médioe Formagao Inicial e ContinuadadeTrabalhadoresnoambitodoInstitutoFederaldoParana-IFPR. Curitiba/PR,SaladeSessoesdoConselho.
 
-Pagina. 
+INSTITUTOFEDERALDOPARANA,ConselhoSuperior doInstitutoFederal doParana. Resolucaon°65,de21dedezembrode2011.AutorizaacriacaodoCursoTécnicoem Mecanica,Modalidade Subsequente,no Campus Campo Largo,do Instituto Federal do Parana(IFPR).Curitiba/PR,SaladeSessoesdoConselho.
 
-INSTITUTOFEDERAL PADAWA Gampus Gampo Largu 
+INSTITUTOFEDERAL PARANA
 
-**==> picture [126 x 58] intentionally omitted <==**
+Ministerio da Educacao<br>
 
-**----- Start of picture text -----**<br>
-F1 463<br>Ass.:<br>CAMP<br>MinisteriodaEducagao<br>nstitutofederalldoParana<br>**----- End of picture text -----**<br>
+## ParecerN°18/2016CEMTEC/DEMTEC/PROENS
 
+## Curitiba,17defevereirode2016.
 
-- 28 Fonte Plasma Hyperterm Powermax45-Comissao:Rogerio'e Andre;5) Centro de 29 Usinagem（mantendo e confirmando a informacao de.que o centro.tem transformador 30 380 V,mas é 220 V originalmente) - Comissao:Luciano,André,Anselmo,Rogerio e 31 Ricardo;Bancada Hidraulica e Pneumatica e Manipulador-Comissao:Rogerio,André, 
+## AoProfessor
 
-- 32 
+## AmauryPessoa Gebran
 
-- 33 Helcio,Paulo,Marta e Daniela.3) Reserva de laboratorios de informatica:Os 34 professoresqueusamlaboratoriodeinformaticarelataramdificuldadeemsolicitar 35 reservas.Ficou-definidoque todosquenecessitarem devemsolicitar a reserva a 
+## DiretordeEnsino,PesquisaeExtensaodoCampusCampo Largo
 
-- 36 
+## do CursoTecnico emMecanica,subsequenteaoEnsinoMedio,tem-se a destacar:
 
-- 37 Certificacaode ConhecimentosAnteriores -aluno Welinton Shleid:O professor 38 Anselmorelata queoalunonaocompareceu nadatamarcadaparaasavaliacoesde 39 Usinagem Ie MecanicaTecnicaeResistencia dosMateriais;oprofessor Gismarinforma 40 que eomesmo tambemnaocompareceunadatamarcada'para a avaliacaode 
+OPPCdoreferidocursoencontra-seAPRovADOporestaDirecaoeseguepara arquivamento no campus.
 
-- 41 Tecnologia dos MateriaiseEnsaios;OprofessorPaulo informa.queoalunonao 42 compareceu na data marcada para a avaliacaodeMetrologia;oprofessor Rogerio 43 informaqueoalunonaocompareceunadatamarcadaparaaavaliacaodeSoldagem;o 44 professor Samuel informou que o alunocompareceu na data marcada para a avaliacao, 45 poremnaoconseguiucomprovar conhecimentosanterioresna disciplina Metodologia e 46 Comunicacao.5)Situacao em sala de aula do aluno Matheus de Oliveira:O 47 professorRogerio.informaqueoalunotemchegadoatrasadofrequentementeedorme 48 seguidamenteduranteasaulas.Ele informaqueesta situacao aconteceunosdias06e 49 13 de marco,inclusive que a pedagoga Simone acompanhou a situacao.Estasituacao 50 temincomodadoo'professoredemaisprofessoresrelataramqueomesmoocorreem 51 suas aulas. Como opai do aluno este no IFPR Campo Largo no anopassado buscando 52 informacoessobreo.filho,poisomesmojanaoestavavindoaaulahamaisdeummes 53 sem informa-lo,o colegiadoachaprudentepassaresta situacaopara a atuacaodas 54 pedagogaspara algumaprovidencia.6)Porta'aberta doalmoxarifado/barracao:O 55 tecnicoAndreeosprofessores Rogerioe Gismar informaramque aportado 56 almoxarifado/barracaoquepodeseracessadapelasobrasdonovopredioencontra-se 57 aberta(destrancada),deixando o acesso livre a quem quiser entrar. Sendo.assim,0 
+Sendo o que se apresenta no momento,encaminhamos o presente processo ao campusparacienciaesolicitamosencaminhamento deumacopiadigitaldoprojetode curso,formatada de acordo com asnormas tecnicas doIFPR,a esta Diretoria paraoe-mail demtec.proens@ifpr.edu.br,respeitandooprazo de 5(cinco) dias a contar dorecebimento desse parecer.
 
-INSTITUTOFEDERAL PARANA CampusGampn Largo 
+Agradecemosacompreensaoenoscolocamosadisposicaoparaquaisquer esclarecimentos.
 
-**==> picture [122 x 76] intentionally omitted <==**
+Atenciosamente,
 
-**----- Start of picture text -----**<br>
-DO<br>FI. 464<br>Ass.<br>MinisteriodaEducacao<br>CAMPOL InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+iannyPaolaDomingues<br>'edagoga PROENS-IFPR<br>SIAPE2170326<br>
 
-
-- 58 colegiado de Mecanica solicitaacoordenacao,quesolicitara a DirecaoGeraldo 
-
-- 59 campus,que a mesma seja trancada a fimde evitaro.desaparecimentosdos itensque la 
-
-- 60 se encontram.7)Regularizacaodo trabalhoefetuadonolaboratorio:O tecnicoAndre 
-
-- 61 
-
-- 62 tomar conhecimentose gerarrequisicoes atravesdeste sistema.Acoordenacao do 63 Cursoencaminharaestasolicitacaoa DirecaodeEnsinoparaanalise.8)Barreirade 
-
-- 64 contencao na'entradade equipamentos do laboratoriode eletromecanica:Devido 65 asforteschuvasdosultimosdias,olaboratoriodeeletromecanica temsofridofrequentes 
-
-- 66 
-
-- 67 Sendo assim,o colegiado pede que seja construida uma barreira de contencao nesta 68 entrada.Aadministracaodocampusfoi informadaeestabarreira deveraserconstruida 69 nasemana.de16a20demarco.Sendooque'seapresentanestemomento,esta ata 70 segue assinada por mim,Daniela Bianchi Ponce Leon de Lima,Coordenadora do Curso 71 Tecnicoem Mecanicaepelos demaispresentes. 
-
-Pagina 
-
-INSTITUTOFEDERAL PABANA Campus Campo Largo 
-
-**==> picture [122 x 59] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-FI. 465<br>Ass.<br>MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
-
-
-## ATAREUNIAOCOLEGIADO 
-
-## CURSO TECNICO EM MECANICA-CAMPUS CAMPOLARGO 
-
-   - Aos30dias domesdemarcode doismile quinze,as15h00minno InstitutoFederal do 
-
-- 2 Parana-CampusCampo Largoreuniram-seosservidores:DanielaBianchi Ponce Leon 
-
-- 3 de Lima, Rogerio Breganon, Anselmo Fabris, Ricardo Kertscher,Gismar Schilive de 
-
-- 4 Souza,Helcio Hattori, Luciano Alcindo Schulli,Paulo Schneider,Marta Gomes Francisco.PONTODEPAUTA:Reformulacaodo PPCdeMecanica:Osmembrosdo 
-
-- 6 colegiado,divididosem.3comissoes,apresentaram3propostas.dematrizcurricularcom 
-
-- 7 leves diferencas.Aposdiscussao,,as3propostasforamorganizadas.numaunicanova 
-
-- 8 proposta de matriz curricular que foi organizada, impressa e entregue a todos para que 
-
-- 9 as comissoes apresentemementaspara as disciplinascomponentes danovaproposta 
-
-- 10 emnovareuniaoagendadaparaodia13deabrilde2015.Sendoo'queseapresenta 
-
-- 11 neste momento,esta ata segueassinadapor mim,DanielaBianchi.Ponce Leon de Lima, 12 CoordenadgradoCurso TecnicoemMecanica epelosdemais.presentes. 
-
-Pagina. 
-
-**==> picture [67 x 27] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-F1 466<br>RANA<br>Ass.:<br>**----- End of picture text -----**<br>
-
-
-INSTITUTOFEDERAL PABANA Campus Gampo largo 
-
-**==> picture [62 x 16] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-MinisteriodaEducagao<br>InstiutoFederaldoParana<br>**----- End of picture text -----**<br>
-
-
-## ATA REUNIAO COLEGIADO CURSOTECNICOEMMECANICA-CAMPUSCAMPOLARGO 
-
-Aos13diasdomesdeabril.dedoismilequinze,as15h00minnoInstituto.Federaldo 
-
-- 2 Parana-CampusCampo Largoreuniram-seosservidores:DanielaBianchiPonce Leon 
-
-- 3 de Lima,Rogerio Breganon,Anselmo Fabris,Ricardo Kertscher,Gismar Schilive de 
-
-- 5 Francisco,AndreAugustoCamilo,RonaldoGuedes,Patricia.Machadoea representante 6 discenteAgnes Tarcilia.PONTos DE PAUTA:1) Organizacaopara estruturacao dos 
-
-- 7 laboratoriosque atualmenteéocupada peloSetorAdministrativo:Nesteespaco a 8 Mecanica seraresponsavel peloplanejamentode3 laboratorios:a) Laboratoriode 
-
-- 9 
-
-- 10 porPauloe Andre.O Prof.Adriano.receberaconviteparaparticipardesta comissao 11 (encaminhadopelacoordenacaodemecanica);b)Laboratoriodeautomacao:A 12 comissaoresponsavelpelaorganizacaodestelaboratorio ficacompostaporRogerio, 13 Pauloe Helcio.AcoordenacaodeMecanica solicitaraacoordenacaodaeletrotecnica 14 que indique umcomponente do Curso Técnicoem Eletrotecnicapara compor esta 15 comissao;c)Laboratorio deDesenho:Acomissaoresponsavelpelaorganizacaodeste 16 laboratorioficacompostapor-HelcioeRicardo.Asinformacoesenecessidades 17 levantadaspelascomissoesdevemserencaminhadasa CoordenacaodeMecanicaate 18 0dia 22 de abril.Estas seraorepassadas a Direcao deensino paraprovidencias.2) 19 Solicitacoes de aproveitamentodeconhecimentos anteriores:Foram encaminhadas 20 aocolegiadoassolicitacoesdosalunosCelioMMiranda,AlexandreLuizGalvaoeAlex 21 Gastao Buture Carneiro.Estas foram analisadas pelos Professores Patricia,Helcioe 
-
-- 22 Rogerio.Osresultados foram encaminhados a secretaria escolar.3) Discussao sobre 23 reformulacao do PPcda Mecanica: Com relacao as discussoes em reunioes 24 anteriores,alteram-separa 2aulaspor semana deMetodologiaeComunicacaono 25 Primeiroanoda Mecanicae2aulaspor semanadeDesenho TecnicoMecanicopara 0 26 Primeiro anodeMecanica.Os arquivos deementas eplanejamentodoPpCda 27 Mecanica que estao sendo trabalhadospelosprofessores,conforme decididona reuniao 
-
-Pagina. 
-
-INSTITUTO FEDERAL PARANA Campus Garapo. Largo 
-
-**==> picture [112 x 76] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-FI 467<br>ARANA<br>Ass.:<br>Ministerio da Educacao<br>insttutoFederaldoParana<br>**----- End of picture text -----**<br>
-
-
-- 28 de colegiado.anterior a esta,devemserencaminhadospore-mail aesta coordenacao 29 ateodia22deabril.4)Entregas tecnicas:Estaosendoagendadaspelacoordenacao 30 para, no maximo, ate o final do mes de Maio. Apos o agendamento, a coordenacao 31 passara o.contato para as Comissoes de Entregas Tecnicas ja organizadas em reunioes 
-
-- 32 de colegiados anteriores e estas acompanharao e finalizarao o processo. 5) Submissao 33 do Projeto de Pesquisa do Prof. Paulo Schneider: O referido professor apresentou 0 34 Projeto“Dificuldades deresolucaode equacoes algebricas dos estudantes dos cursos 35 tecnicos em mecanicae integrado de eletromecanica".Ele pretende submeter este 
-
-36 
-
-- 37 encaminhou parte deste pregao disponivel para compra a coordenacao de Mecanica e 38 esta fez o encaminhamento do mesmo aos professores para aquisicoes.Rogerio e 39 Andre fizeram uma lista de solicitacoes destepregao e esta sera encaminhada ao Lucio 40 para aquisicao imediatamente.Sendo o que se apresenta neste momento,esta ata 41 segue assinada pormim,Daniela Bianchi Ponce Leon de Lima,Coordenadora do Curso 42 TecnicoemMecanicaepelosdemaispresentes. 
-
-INSTITUTO FEDERAL PAANA Caqne Camno Laruo 
-
-**==> picture [119 x 82] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-FI. 468<br>Ass.<br>292 PUS<br>Mlnist aydaEducacao<br>C<br>**----- End of picture text -----**<br>
-
-
-## DECLARACAO 
-
-## Assunto:Termo de convenio com a Empresa Usinagem Spaki 
-
-Declaro, para os devidos fins, que o termo de conveniocom a Empresa Usinagem Spaki nao esta vigorando na data atual, pois o citado convenio foi necessario quando este campus nao possuia laboratorio proprio. Portanto, na atualidade este campus nao possui o termo de convenio e nao faz necessario o citado termo ja que este campus possui laboratorio proprio para realizacao das aulas e atividades laboratoriais para curso Tecnico de Mecanica. 
-
-Campo Largo, 27 julho 2015 
-
-**==> picture [78 x 13] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-AmaafyGebran<br>**----- End of picture text -----**<br>
-
-
-**==> picture [216 x 139] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Diretor de Ensino IFPR Campus Campo Largo<br>Prof.Amaury Pessoa Gebran<br>Diretor de Ensino,Pesquisae Extensao<br>INSTITUTO FEDERALDOPARANA<br>CampusCampo Largo<br>SIAPE1122250<br>wceaueo<br>MarltptNeseMartabonasFranciscbCoordenadora deMecanica<br>IAPE:1945993<br>**----- End of picture text -----**<br>
-
-
-INSTITUTOFEDERALDOPARANA|CampusCampoLargo Rua:Engenheiro Tourinho,829-Vila Solene-CEP83.607-140-CampoLargoPR.Fone:(41)3208 8201 
-
-> FI 469 Ass.: 
-
-56 
-
-## 5.REFERENCIASBIBLIOGRAFICAS 
-
-BRASIL.Diretrizesebasesdaeducacaonacional.Decreton°5.154,de23dejulhode 2004.RegulamentaoS 2°doart.36e0sarts.39a41daLein°9.394,de20de dezembrode1996,queestabeleceasdiretrizesebasesdaeducacaonacional,eda outrasprovidencias.Brasilia,DF,183°daIndependenciae116°daRepublica. 
-
-BRASIL.LDB:Lei deDiretrizeseBasesdaEducacaoNacional:Lei n°9.394,de20de dezembrode1996,queestabeleceasdiretrizesebasesdaeducacaonacional[recurso eletronico].8ed.Brasilia:Camara dosDeputados,EdicoesCamara,2013. 
-
-MinisteriodaEducacao.ResolucaoCNE/CEBn°6,de20desetembrode 2012.DefineDiretrizesCurricularesNacionaisparaaEducacaoProfissional Tecnicade Nivel Medio.Diariooficial daUniao,Brasilia,21de setembro de2012,Secaol,p.22. 
-
-CatalogoNacional dosCursosTécnicos.Ministerio daEducacao.Secretaria de Educacao Basica. Disponivel em: http://portal.mec.gov.br/setec/arquivos/pdf3/catalogotecnicos.pdf.Acessoem14julho 2015 
-
-INSTITUTO FEDERAL DOPARANA(CONSUP).Portaria n°120,de 06de agostode 2009.EstabeleceoscriteriosdeavaliacaodoprocessoensinoaprendizagemdoIFPR. 
-
-Resolucaon°54,de21dedezembrode2011.DispoesobreaOrganizacaoDidaticoPedagogica da Educacao Profissional Técnica de Nivel Médioe Formagao Inicial e ContinuadadeTrabalhadoresnoambitodoInstitutoFederaldoParana-IFPR. Curitiba/PR,SaladeSessoesdoConselho. 
-
-INSTITUTOFEDERALDOPARANA,ConselhoSuperior doInstitutoFederal doParana. Resolucaon°65,de21dedezembrode2011.AutorizaacriacaodoCursoTécnicoem Mecanica,Modalidade Subsequente,no Campus Campo Largo,do Instituto Federal do Parana(IFPR).Curitiba/PR,SaladeSessoesdoConselho. 
-
-INSTITUTOFEDERAL PARANA 
-
-**==> picture [80 x 10] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
-
-
-## ParecerN°18/2016CEMTEC/DEMTEC/PROENS 
-
-## Curitiba,17defevereirode2016. 
-
-## AoProfessor 
-
-## AmauryPessoa Gebran 
-
-## DiretordeEnsino,PesquisaeExtensaodoCampusCampo Largo 
-
-## do CursoTecnico emMecanica,subsequenteaoEnsinoMedio,tem-se a destacar: 
-
-OPPCdoreferidocursoencontra-seAPRovADOporestaDirecaoeseguepara arquivamento no campus. 
-
-Sendo o que se apresenta no momento,encaminhamos o presente processo ao campusparacienciaesolicitamosencaminhamento deumacopiadigitaldoprojetode curso,formatada de acordo com asnormas tecnicas doIFPR,a esta Diretoria paraoe-mail demtec.proens@ifpr.edu.br,respeitandooprazo de 5(cinco) dias a contar dorecebimento desse parecer. 
-
-Agradecemosacompreensaoenoscolocamosadisposicaoparaquaisquer esclarecimentos. 
-
-Atenciosamente, 
-
-**==> picture [106 x 36] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-iannyPaolaDomingues<br>'edagoga PROENS-IFPR<br>SIAPE2170326<br>**----- End of picture text -----**<br>
-
-
-INSTITUTOFEDERALDOPARANA|Pro-Reitoria deEnsino-PROENS Av.VictorFerreiradoAmaral,306,Taruma.CEP82530-230-Curitiba-PR 
+INSTITUTOFEDERALDOPARANA|Pro-Reitoria deEnsino-PROENS Av.VictorFerreiradoAmaral,306,Taruma.CEP82530-230-Curitiba-PR
 

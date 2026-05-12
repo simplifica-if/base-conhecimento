@@ -1,54 +1,43 @@
-**==> picture [471 x 55] intentionally omitted <==**
 
-## **MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO SUPERIOR - SESU INSTITUTO FEDERAL DO PARANÁ PRÓ - REITORIA DE ENSINO DIRETORIA DE ENSINO SUPERIOR - DESUP CAMPUS PARANAVAÍ** 
+## **MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO SUPERIOR - SESU INSTITUTO FEDERAL DO PARANÁ PRÓ - REITORIA DE ENSINO DIRETORIA DE ENSINO SUPERIOR - DESUP CAMPUS PARANAVAÍ**
 
-## **PROJETO PEDAGÓGICO DO CURSO DE BACHARELADO EM ENGENHARIA DE SOFTWARE** 
+## **PROJETO PEDAGÓGICO DO CURSO DE BACHARELADO EM ENGENHARIA DE SOFTWARE**
 
-**AUTORIZADO PELA RESOLUÇÃO 37 DE 29 DE JULHO DE 2018** 
+**AUTORIZADO PELA RESOLUÇÃO 37 DE 29 DE JULHO DE 2018**
 
-Paranavaí-PR 2018 
+Paranavaí-PR 2018
 
-**INSTITUTO FEDERAL DO PARANÁ** 
+**INSTITUTO FEDERAL DO PARANÁ**
 
-**==> picture [472 x 55] intentionally omitted <==**
+**Reitor** Odacir Antonio Zanatta
 
-**Reitor** Odacir Antonio Zanatta 
+**Pró-Reitor de Ensino** Amarildo Pinheiro Magalhães
 
-**Pró-Reitor de Ensino** Amarildo Pinheiro Magalhães 
+**Diretor de Ensino Superior** Paulo César Medeiros
 
-**Diretor de Ensino Superior** Paulo César Medeiros 
+**Coordenador de Ensino Superior** Luciana dos Santos Rosenau
 
-**Coordenador de Ensino Superior** Luciana dos Santos Rosenau 
+**Direção Geral do Campus** José Barbosa Dias Júnior
 
-**Direção Geral do Campus** José Barbosa Dias Júnior 
+**Direção de Ensino, Pesquisa e Extensão do Campus** Valeriê Cardoso Machado Inaba
 
-**Direção de Ensino, Pesquisa e Extensão do Campus** Valeriê Cardoso Machado Inaba 
+**Coordenador de Curso** Frank Willian Cardoso de Oliveira
 
-**Coordenador de Curso** Frank Willian Cardoso de Oliveira 
+**Núcleo Docente Estruturante** André Ricardo Zavan Eduardo Henrique Molina da Cruz Frank Willian Cardoso de Oliveira
 
-**Núcleo Docente Estruturante** André Ricardo Zavan Eduardo Henrique Molina da Cruz Frank Willian Cardoso de Oliveira 
+Hélio Toshio Kamakawa José Barbosa Dias Junior Rafael Henrique Dalegrave Zottesso Willian Nalepa Oizumi
 
-Hélio Toshio Kamakawa José Barbosa Dias Junior Rafael Henrique Dalegrave Zottesso Willian Nalepa Oizumi 
+## **Comissão de Estruturação de Curso**
 
-## **Comissão de Estruturação de Curso** 
+Alessandra Batista de Godoi Branco
 
-Alessandra Batista de Godoi Branco 
+André Ricardo Zavan Antão Rodrigo Valentim Bárbara Poli Uliano Shinkawa Dalva Oliveira Cabral Daniela Eloise Flôr Dayane de Oliveira Gomes Frank Willian Cardoso de Oliveira Késsia Rita da Costa Marchi Lucas de Melo Andrade Rafael Petermann
 
-André Ricardo Zavan Antão Rodrigo Valentim Bárbara Poli Uliano Shinkawa Dalva Oliveira Cabral Daniela Eloise Flôr Dayane de Oliveira Gomes Frank Willian Cardoso de Oliveira Késsia Rita da Costa Marchi Lucas de Melo Andrade Rafael Petermann 
+Sergio Alexandre dos Santos Junior Vanilza Valentim dos Santos Willian Nalepa Oizumi
 
-1 
+## **Colegiado de Gestão Pedagógica de Curso**
 
-**==> picture [472 x 55] intentionally omitted <==**
-
-Sergio Alexandre dos Santos Junior Vanilza Valentim dos Santos Willian Nalepa Oizumi 
-
-## **Colegiado de Gestão Pedagógica de Curso** 
-
-Antão Rodrigo Valentim Viviane Moretto da Silva Fuly Eber de Santi Gouvea Giovanna Caputo dos Anjos Almeida Gleice Rocha dos Santos Almeida Julio Estéfano Augusto Rosa Filho Ricardo Toshiyuki Kato Suellen Jensen Klososki Willian Nalepa Oizumi Vanilza Valentim dos Santos 
-
-2 
-
-**==> picture [472 x 55] intentionally omitted <==**
+Antão Rodrigo Valentim Viviane Moretto da Silva Fuly Eber de Santi Gouvea Giovanna Caputo dos Anjos Almeida Gleice Rocha dos Santos Almeida Julio Estéfano Augusto Rosa Filho Ricardo Toshiyuki Kato Suellen Jensen Klososki Willian Nalepa Oizumi Vanilza Valentim dos Santos
 
 |IDENTIFICAÇÃO|6|
 |---|---|
@@ -84,10 +73,6 @@ Antão Rodrigo Valentim Viviane Moretto da Silva Fuly Eber de Santi Gouvea Giova
 |2.5.6.1 Atividades de Tutoria|66|
 |2.5.7 Atividades Práticas de Ensino|67|
 ||3|
-
-
-
-**==> picture [472 x 55] intentionally omitted <==**
 
 |2.5.8 Atividades Práticas Supervisionadas (APS)|67|
 |---|---|
@@ -125,10 +110,6 @@ Antão Rodrigo Valentim Viviane Moretto da Silva Fuly Eber de Santi Gouvea Giova
 |3.1.7 Plano de Cargos e Salários dos Docentes|141|
 ||4|
 
-
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |3.2 CORPO|TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO|TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO|146|
 |---|---|---|---|
 |3.2.1 Políticas de Capacitação do Técnico Administrativo  em Educação|||149|
@@ -160,95 +141,75 @@ Antão Rodrigo Valentim Viviane Moretto da Silva Fuly Eber de Santi Gouvea Giova
 |**APÊNDICE B - Regulamento de Trabalho de Conclusão de Curso**|||185|
 |**APÊNDICE C - Regulamento de Atividades Complementares**|||193|
 
+## **IDENTIFICAÇÃO**
 
+**Denominação do Curso:** Bacharelado em Engenharia de Software
 
-5 
+**Área do Conhecimento / Eixo Tecnológico:** 10300007 - CIÊNCIA DA COMPUTAÇÃO
 
-**==> picture [472 x 55] intentionally omitted <==**
+**Modalidade:** Presencial
 
-## **IDENTIFICAÇÃO** 
+**Grau:** Bacharelado
 
-**Denominação do Curso:** Bacharelado em Engenharia de Software 
+**Regime Letivo (Periodicidade):**
 
-**Área do Conhecimento / Eixo Tecnológico:** 10300007 - CIÊNCIA DA COMPUTAÇÃO 
+(__) Semestral
 
-**Modalidade:** Presencial 
+(X) Anual
 
-**Grau:** Bacharelado 
+(__) Alternância / por etapas
 
-**Regime Letivo (Periodicidade):** 
+**Turno do curso:**
 
-(__) Semestral 
+(__) Matutino (__) Vespertino
 
-(X) Anual 
+(__) Noturno
 
-(__) Alternância / por etapas 
+(X) Integral: Vespertino e Noturno
 
-**Turno do curso:** 
+**Número de etapas anuais e duração média dos períodos letivos:** NSA **Horário de oferta do curso:** 16:00 - 22:50
 
-(__) Matutino (__) Vespertino 
+**Prazo de Integralização Curricular:** 4 a 7 anos
 
-(__) Noturno 
+**Carga-Horário total do Curso:** 3.208 horas-relógio **Carga-Horária para Estágio Obrigatório:** 300 horas-relógio **Carga Horária de Atividades Complementares:** 235 horas-relógio
 
-(X) Integral: Vespertino e Noturno 
+**Tipo de Matrícula:** Por componente curricular
 
-**Número de etapas anuais e duração média dos períodos letivos:** NSA **Horário de oferta do curso:** 16:00 - 22:50 
+**Vagas totais (anuais):** 40
 
-**Prazo de Integralização Curricular:** 4 a 7 anos 
+**Escolaridade mínima exigida:** Ensino Médio Completo
 
-**Carga-Horário total do Curso:** 3.208 horas-relógio **Carga-Horária para Estágio Obrigatório:** 300 horas-relógio **Carga Horária de Atividades Complementares:** 235 horas-relógio 
+**Coordenador:**
 
-**Tipo de Matrícula:** Por componente curricular 
+Nome: Frank Willian Cardoso de Oliveira Titulação Máxima: Mestre em Desenvolvimento de Tecnologia Regime de Trabalho: (X) DE.  (__) 40h.  (__) 20h.
 
-**Vagas totais (anuais):** 40 
+**Endereço de Oferta**
 
-**Escolaridade mínima exigida:** Ensino Médio Completo 
+Campus: Paranavaí Rua e número: Rua José Felipe Tequinha 1400 Bairro: - Jardim das Nações Cidade: Paranavaí UF: PR CEP: 87703-536
 
-**Coordenador:** 
+## **1. APRESENTAÇÃO DO PROJETO**
 
-Nome: Frank Willian Cardoso de Oliveira Titulação Máxima: Mestre em Desenvolvimento de Tecnologia Regime de Trabalho: (X) DE.  (__) 40h.  (__) 20h. 
+Este documento apresenta o Projeto Pedagógico para o curso de Bacharelado em Engenharia de Software do IFPR campus Paranavaí. Este projeto segue a Instrução Interna de Procedimentos PROENS/IFPR n° 02/2017[1] -- que regulamenta a oferta de cursos regulares no âmbito do IFPR -- e as Diretrizes Curriculares Nacionais para cursos de graduação em Computação, conforme instituído pela Câmara de Educação Superior do Conselho Nacional de Educação, por meio da resolução nº 5, de 16 de novembro de 2016.
 
-**Endereço de Oferta** 
+Nas subseções a seguir apresentamos em detalhes o histórico do Instituto Federal do Paraná, do campus Paranavaí e do curso de Bacharelado em Engenharia de Software.
 
-6 
+## 1.2. HISTÓRICO
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **1.2.1 O Instituto Federal do Paraná**
 
-Campus: Paranavaí Rua e número: Rua José Felipe Tequinha 1400 Bairro: - Jardim das Nações Cidade: Paranavaí UF: PR CEP: 87703-536 
+Esta seção apresenta o IFPR, conforme consta no PPI e PDI, em seu aspecto histórico, sua identidade, o atendimento ao embasamento legal, os dados socioeconômicos e socioambientais, de forma a justificar a importância da criação do curso de Bacharelado em Engenharia de Software no cenário institucional e estadual.
 
-7 
+A história do IFPR inicia-se em 1869 com a criação da Escola Alemã, que em 1914, no pós-guerra, tornou-se o Colégio Progresso. Em 1941 passou a ser conhecida por Academia Comercial Progresso e em 1974 foi integrada como órgão suplementar da Universidade Federal do Paraná (UFPR). Em 1986, passou a ser chamada de Escola Técnica de Comércio da UFPR. Entretanto, com a reorganização administrativa da instituição em 14 de dezembro de 1990, foi denominada de Escola Técnica da Universidade Federal do Paraná (ET/UFPR), sendo elevada à categoria de Setor da UFPR em 1997.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Com a promulgação da Lei nº. 11.982, de 29 de dezembro de 2008, e a instituição da Rede Federal de Educação Profissional, Científica e Tecnológica, a Escola Técnica torna-se o IFPR, possuindo autonomia administrativa, patrimonial, financeira, didático-pedagógica e disciplinar diretamente vinculada ao Ministério da Educação. A Figura 1 exibe uma linha do tempo da história do IFPR.
 
-## **1. APRESENTAÇÃO DO PROJETO** 
+> 1 http://reitoria.ifpr.edu.br/wp-content/uploads/2014/09/IIP-PROENS-02-2017-OFERTA-DE-CURSOSREGULARES-NO-IFPR.pdf
 
-Este documento apresenta o Projeto Pedagógico para o curso de Bacharelado em Engenharia de Software do IFPR campus Paranavaí. Este projeto segue a Instrução Interna de Procedimentos PROENS/IFPR n° 02/2017[1] -- que regulamenta a oferta de cursos regulares no âmbito do IFPR -- e as Diretrizes Curriculares Nacionais para cursos de graduação em Computação, conforme instituído pela Câmara de Educação Superior do Conselho Nacional de Educação, por meio da resolução nº 5, de 16 de novembro de 2016. 
+Figura 1 - Linha do tempo do desenvolvimento institucional (Fonte: http://reitoria.ifpr.edu.br/menu-institucional/institucional/historia/)
 
-Nas subseções a seguir apresentamos em detalhes o histórico do Instituto Federal do Paraná, do campus Paranavaí e do curso de Bacharelado em Engenharia de Software. 
+A estrutura administrativa superior do IFPR é definida pela Portaria nº 1201, de 28 de setembro de 2017. Essa portaria define a estrutura administrativa por meio de 13 organogramas. Os organogramas definem desde a estrutura administrativa das pró-reitorias, até a estrutura administrativa de cada campus.
 
-## 1.2. HISTÓRICO 
-
-## **1.2.1 O Instituto Federal do Paraná** 
-
-Esta seção apresenta o IFPR, conforme consta no PPI e PDI, em seu aspecto histórico, sua identidade, o atendimento ao embasamento legal, os dados socioeconômicos e socioambientais, de forma a justificar a importância da criação do curso de Bacharelado em Engenharia de Software no cenário institucional e estadual. 
-
-A história do IFPR inicia-se em 1869 com a criação da Escola Alemã, que em 1914, no pós-guerra, tornou-se o Colégio Progresso. Em 1941 passou a ser conhecida por Academia Comercial Progresso e em 1974 foi integrada como órgão suplementar da Universidade Federal do Paraná (UFPR). Em 1986, passou a ser chamada de Escola Técnica de Comércio da UFPR. Entretanto, com a reorganização administrativa da instituição em 14 de dezembro de 1990, foi denominada de Escola Técnica da Universidade Federal do Paraná (ET/UFPR), sendo elevada à categoria de Setor da UFPR em 1997. 
-
-Com a promulgação da Lei nº. 11.982, de 29 de dezembro de 2008, e a instituição da Rede Federal de Educação Profissional, Científica e Tecnológica, a Escola Técnica torna-se o IFPR, possuindo autonomia administrativa, patrimonial, financeira, didático-pedagógica e disciplinar diretamente vinculada ao Ministério da Educação. A Figura 1 exibe uma linha do tempo da história do IFPR. 
-
-> 1 http://reitoria.ifpr.edu.br/wp-content/uploads/2014/09/IIP-PROENS-02-2017-OFERTA-DE-CURSOSREGULARES-NO-IFPR.pdf 
-
-8 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-**==> picture [413 x 159] intentionally omitted <==**
-
-Figura 1 - Linha do tempo do desenvolvimento institucional (Fonte: http://reitoria.ifpr.edu.br/menu-institucional/institucional/historia/) 
-
-A estrutura administrativa superior do IFPR é definida pela Portaria nº 1201, de 28 de setembro de 2017. Essa portaria define a estrutura administrativa por meio de 13 organogramas. Os organogramas definem desde a estrutura administrativa das pró-reitorias, até a estrutura administrativa de cada campus. 
-
-Devido a sua estrutura _multicampi_ a sede da reitoria é estrategicamente posicionada na capital do estado no seguinte endereço: 
+Devido a sua estrutura _multicampi_ a sede da reitoria é estrategicamente posicionada na capital do estado no seguinte endereço:
 
 |||
 |---|---|
@@ -258,85 +219,65 @@ Devido a sua estrutura _multicampi_ a sede da reitoria é estrategicamente posic
 |**LOCALIZAÇÃO**|Curitiba/Paraná|
 |**CONTATO**|(41) 3595-7600   -    http://reitoria.ifpr.edu.br/|
 
+## _1.2.1.1 Aporte Legal e Distribuição Geográfica do IFPR_
 
+A instituição teve origem a partir da Lei 11.982 de 29 de dezembro de 2008, que instituiu a Rede Federal de Educação Profissional, Científica e Tecnológica, criando a Rede Federal de Educação, Ciência e Tecnologia.
 
-## _1.2.1.1 Aporte Legal e Distribuição Geográfica do IFPR_ 
+O Art. 2º, da Lei 11.982/2008, caracteriza os Institutos Federais como sendo:
 
-A instituição teve origem a partir da Lei 11.982 de 29 de dezembro de 2008, que instituiu a Rede Federal de Educação Profissional, Científica e Tecnológica, criando a Rede Federal de Educação, Ciência e Tecnologia. 
+[...] instituições de educação superior, básica e profissional, pluricurriculares e multicampi, especializados na oferta de educação profissional e tecnológica nas diferentes modalidades de ensino, com base na conjugação de conhecimentos técnicos e tecnológicos com as suas práticas pedagógicas, nos termos desta Lei.
 
-9 
+No Brasil, existem 38 Institutos que constituem a Rede Federal de Educação Profissional, Científica e Tecnológica, vinculada à Secretaria de Educação Profissional e Tecnológica, do Ministério da Educação (SETEC/MEC). O Art. 5º, da Lei nº 11.982/2008 determina a presença dos Institutos Federais nas diferentes unidades da federação, indicando, em seu inciso XXV, a criação do Instituto Federal do Paraná. A instituição, de acordo com os incisos do Art. 6º, da referida Lei, tem como finalidades e características:
 
-**==> picture [472 x 55] intentionally omitted <==**
+I – ofertar educação profissional e tecnológica, em todos os seus níveis e modalidades, formando e qualificando cidadãos com vistas na atuação profissional nos diversos setores da economia, com ênfase no desenvolvimento socioeconômico local, regional e nacional;
 
-O Art. 2º, da Lei 11.982/2008, caracteriza os Institutos Federais como sendo: 
+II – desenvolver a educação profissional e tecnológica como processo educativo e investigativo de geração e adaptação de soluções técnicas e tecnológicas às demandas sociais e peculiaridades regionais;
 
-[...] instituições de educação superior, básica e profissional, pluricurriculares e multicampi, especializados na oferta de educação profissional e tecnológica nas diferentes modalidades de ensino, com base na conjugação de conhecimentos técnicos e tecnológicos com as suas práticas pedagógicas, nos termos desta Lei. 
+III – promover a integração e a verticalização da educação básica à educação profissional e educação superior, otimizando a infraestrutura física, os quadros de pessoal e os recursos de gestão;
 
-No Brasil, existem 38 Institutos que constituem a Rede Federal de Educação Profissional, Científica e Tecnológica, vinculada à Secretaria de Educação Profissional e Tecnológica, do Ministério da Educação (SETEC/MEC). O Art. 5º, da Lei nº 11.982/2008 determina a presença dos Institutos Federais nas diferentes unidades da federação, indicando, em seu inciso XXV, a criação do Instituto Federal do Paraná. A instituição, de acordo com os incisos do Art. 6º, da referida Lei, tem como finalidades e características: 
+IV – orientar sua oferta formativa em benefício da consolidação e fortalecimento dos arranjos produtivos, sociais e culturais locais, identificados com base no mapeamento das potencialidades de desenvolvimento socioeconômico e cultural no âmbito de atuação do Instituto Federal;
 
-I – ofertar educação profissional e tecnológica, em todos os seus níveis e modalidades, formando e qualificando cidadãos com vistas na atuação profissional nos diversos setores da economia, com ênfase no desenvolvimento socioeconômico local, regional e nacional; 
+V – constituir-se em centro de excelência na oferta do ensino de ciências, em geral, e de ciências aplicadas, em particular, estimulando o desenvolvimento de espírito crítico, voltado à investigação empírica;
 
-II – desenvolver a educação profissional e tecnológica como processo educativo e investigativo de geração e adaptação de soluções técnicas e tecnológicas às demandas sociais e peculiaridades regionais; 
+VI – qualificar-se como centro de referência no apoio à oferta do ensino de ciências nas instituições públicas de ensino, oferecendo capacitação técnica e atualização pedagógica aos docentes das redes públicas de ensino;
 
-III – promover a integração e a verticalização da educação básica à educação profissional e educação superior, otimizando a infraestrutura física, os quadros de pessoal e os recursos de gestão; 
+VII – desenvolver programas de extensão e de divulgação científica e tecnológica;
 
-IV – orientar sua oferta formativa em benefício da consolidação e fortalecimento dos arranjos produtivos, sociais e culturais locais, identificados com base no mapeamento das potencialidades de desenvolvimento socioeconômico e cultural no âmbito de atuação do Instituto Federal; 
+VIII – realizar e estimular a pesquisa aplicada, a produção cultural, o empreendedorismo, o cooperativismo e o desenvolvimento científico e tecnológico;
 
-V – constituir-se em centro de excelência na oferta do ensino de ciências, em geral, e de ciências aplicadas, em particular, estimulando o desenvolvimento de espírito crítico, voltado à investigação empírica; 
+IX – promover a produção, o desenvolvimento e a transferência de tecnologias sociais, notadamente as voltadas à preservação do meio ambiente.
 
-VI – qualificar-se como centro de referência no apoio à oferta do ensino de ciências nas instituições públicas de ensino, oferecendo capacitação técnica e atualização pedagógica aos docentes das redes públicas de ensino; 
+A partir disso, estabelecem-se os objetivos dos Institutos Federais, descritos no Art. 7º da mesma Lei:
 
-VII – desenvolver programas de extensão e de divulgação científica e tecnológica; 
+I – ministrar educação profissional técnica de nível médio, prioritariamente na forma de cursos integrados, para os concluintes do ensino fundamental e para o público da educação de jovens e adultos;
 
-VIII – realizar e estimular a pesquisa aplicada, a produção cultural, o empreendedorismo, o cooperativismo e o desenvolvimento científico e tecnológico; 
+II – ministrar cursos de formação inicial e continuada de trabalhadores, objetivando a capacitação, o aperfeiçoamento, a especialização e a atualização de profissionais, em todos os níveis de escolaridade, nas áreas da educação profissional e tecnológica;
 
-10 
+III – realizar pesquisas aplicadas, estimulando o desenvolvimento de soluções técnicas e tecnológicas, estendendo seus benefícios à comunidade;
 
-**==> picture [472 x 55] intentionally omitted <==**
+IV – desenvolver atividades de extensão de acordo com os princípios e finalidades da educação profissional e tecnológica, em articulação com o mundo do trabalho e os segmentos sociais, e com ênfase na produção, desenvolvimento e difusão de conhecimentos científicos e tecnológicos; V – estimular e apoiar processos educativos que levem à geração de trabalho e renda e à emancipação do cidadão na perspectiva do desenvolvimento socioeconômico local e regional; e VI – ministrar em nível de educação superior.
 
-IX – promover a produção, o desenvolvimento e a transferência de tecnologias sociais, notadamente as voltadas à preservação do meio ambiente. 
+O grande diferencial dos Institutos Federais é a oferta de todos os níveis de ensino na mesma instituição. Pela primeira vez é possível oferecer, no mesmo local, desde a Educação Básica (cursos técnicos de nível médio), cursos superiores e Pós-Graduação _Lato sensu_ (especializações) e _Stricto sensu_ (Mestrado e Doutorado).
 
-A partir disso, estabelecem-se os objetivos dos Institutos Federais, descritos no Art. 7º da mesma Lei: 
+O Ensino Superior será ministrado nos Institutos Federais, observando o disposto nas alíneas do Art. 7º, inciso VI, da Lei nº. 111.982/2008, que dá a abrangência de atuação desse nível nas instituições vinculadas à Rede Federal de Educação, Ciência e Tecnologia:
 
-I – ministrar educação profissional técnica de nível médio, prioritariamente na forma de cursos integrados, para os concluintes do ensino fundamental e para o público da educação de jovens e adultos; 
+a) cursos superiores de tecnologia visando à formação de profissionais para os diferentes setores da economia;
 
-II – ministrar cursos de formação inicial e continuada de trabalhadores, objetivando a capacitação, o aperfeiçoamento, a especialização e a atualização de profissionais, em todos os níveis de escolaridade, nas áreas da educação profissional e tecnológica; 
+b) cursos de licenciatura, bem como programas especiais de formação pedagógica, com vistas na formação de professores para a educação básica, sobretudo nas áreas de ciências e matemática, e para a educação profissional;
 
-III – realizar pesquisas aplicadas, estimulando o desenvolvimento de soluções técnicas e tecnológicas, estendendo seus benefícios à comunidade; 
+c) cursos de bacharelado e engenharia, visando à formação de profissionais para os diferentes setores da economia e áreas do conhecimento;
 
-IV – desenvolver atividades de extensão de acordo com os princípios e finalidades da educação profissional e tecnológica, em articulação com o mundo do trabalho e os segmentos sociais, e com ênfase na produção, desenvolvimento e difusão de conhecimentos científicos e tecnológicos; V – estimular e apoiar processos educativos que levem à geração de trabalho e renda e à emancipação do cidadão na perspectiva do desenvolvimento socioeconômico local e regional; e VI – ministrar em nível de educação superior. 
+d) cursos de pós-graduação lato sensu de aperfeiçoamento e especialização, visando à formação de especialistas nas diferentes áreas do conhecimento; e) cursos de pós-graduação stricto sensu de mestrado e doutorado, que contribuam para promover o estabelecimento de bases sólidas em educação, ciência e tecnologia, com vistas no processo de geração e inovação tecnológica.
 
-O grande diferencial dos Institutos Federais é a oferta de todos os níveis de ensino na mesma instituição. Pela primeira vez é possível oferecer, no mesmo local, desde a Educação Básica (cursos técnicos de nível médio), cursos superiores e Pós-Graduação _Lato sensu_ (especializações) e _Stricto sensu_ (Mestrado e Doutorado). 
+O Instituto Federal do Paraná (IFPR), em 2017, conta com 25 _campi_ , ofertando cursos em nível médio, técnico, superior e de pós-graduação, conforme prevê o Art. 7º, além da oferta de cursos na modalidade à distância em mais de 230 municípios paranaenses e em outras unidades da Federação. Sua organização _multicampi_ levou novas possibilidades de ensino a todo o estado, situando suas unidades em municípios considerados polos de desenvolvimento regional com carência de atendimento e com baixo IDH. Os _campi_ do IFPR estão localizados nos municípios expressos na Figura 02.
 
-O Ensino Superior será ministrado nos Institutos Federais, observando o disposto nas alíneas do Art. 7º, inciso VI, da Lei nº. 111.982/2008, que dá a abrangência de atuação desse nível nas instituições vinculadas à Rede Federal de Educação, Ciência e Tecnologia: 
+Figura 2 - Distribuição geográfica dos _campi_ do IFPR em 2017 (Fonte: http://reitoria.ifpr.edu.br/navegue-no-mapa/)
 
-a) cursos superiores de tecnologia visando à formação de profissionais para os diferentes setores da economia; 
+Uma subdivisão regional auxilia a instituição na elaboração do planejamento estratégico, na previsão de cursos, no reposicionamento dos recursos financeiros e no trabalho colaborativo
 
-b) cursos de licenciatura, bem como programas especiais de formação pedagógica, com vistas na formação de professores para a educação básica, sobretudo nas áreas de ciências e matemática, e para a educação profissional; 
+dos recursos humanos (administrativos e pedagógicos) da instituição. As regiões e seus _campi_ estão subdivididos como segue:
 
-c) cursos de bacharelado e engenharia, visando à formação de profissionais para os diferentes setores da economia e áreas do conhecimento; 
-
-11 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-d) cursos de pós-graduação lato sensu de aperfeiçoamento e especialização, visando à formação de especialistas nas diferentes áreas do conhecimento; e) cursos de pós-graduação stricto sensu de mestrado e doutorado, que contribuam para promover o estabelecimento de bases sólidas em educação, ciência e tecnologia, com vistas no processo de geração e inovação tecnológica. 
-
-O Instituto Federal do Paraná (IFPR), em 2017, conta com 25 _campi_ , ofertando cursos em nível médio, técnico, superior e de pós-graduação, conforme prevê o Art. 7º, além da oferta de cursos na modalidade à distância em mais de 230 municípios paranaenses e em outras unidades da Federação. Sua organização _multicampi_ levou novas possibilidades de ensino a todo o estado, situando suas unidades em municípios considerados polos de desenvolvimento regional com carência de atendimento e com baixo IDH. Os _campi_ do IFPR estão localizados nos municípios expressos na Figura 02. 
-
-**==> picture [336 x 314] intentionally omitted <==**
-
-Figura 2 - Distribuição geográfica dos _campi_ do IFPR em 2017 (Fonte: http://reitoria.ifpr.edu.br/navegue-no-mapa/) 
-
-Uma subdivisão regional auxilia a instituição na elaboração do planejamento estratégico, na previsão de cursos, no reposicionamento dos recursos financeiros e no trabalho colaborativo 
-
-12 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-dos recursos humanos (administrativos e pedagógicos) da instituição. As regiões e seus _campi_ estão subdivididos como segue: 
-
-Quadro - Distribuição dos _campi_ do IFPR por região 
+Quadro - Distribuição dos _campi_ do IFPR por região
 
 |||
 |---|---|
@@ -349,147 +290,125 @@ Quadro - Distribuição dos _campi_ do IFPR por região
 |Noroeste|Paranavaí, Umuarama, Goioerê|
 |Central|Ivaiporã, Telêmaco Borba, Pitanga, Jaguariaíva|
 
+## _1.2.1.3 Inserção Socioeconômica e Socioambiental do IFPR_
 
+A abrangência do IFPR tem motivos: o Paraná é um dos estados brasileiros que mais se destaca no crescimento econômico e na qualidade de vida, conforme revela seu Índice de Desenvolvimento Humano (IDH) médio. A economia paranaense é a quinta maior do País, responde atualmente por 5,98% do PIB nacional, registrando uma renda per capita de R$ 22,7 mil em 2011, acima do valor de R$ 21,5 mil referente ao Brasil.
 
-## _1.2.1.3 Inserção Socioeconômica e Socioambiental do IFPR_ 
+As economias dos municípios da Região Metropolitana de Curitiba estão entre as maiores do Estado. Em razão do dinamismo da indústria e dos serviços, Curitiba, São José dos Pinhais e Araucária são os municípios mais representativos no PIB do Paraná. No interior do Estado, Londrina e Maringá têm forte presença da agroindústria e dos serviços e, em Foz do Iguaçu, sobressaem as atividades ligadas ao turismo e à produção de energia elétrica. Já no litoral, Paranaguá se destaca pelas atividades ligadas ao Porto (PARANÁ, 2014).
 
-A abrangência do IFPR tem motivos: o Paraná é um dos estados brasileiros que mais se destaca no crescimento econômico e na qualidade de vida, conforme revela seu Índice de Desenvolvimento Humano (IDH) médio. A economia paranaense é a quinta maior do País, responde atualmente por 5,98% do PIB nacional, registrando uma renda per capita de R$ 22,7 mil em 2011, acima do valor de R$ 21,5 mil referente ao Brasil. 
+O Paraná é o maior produtor nacional de grãos, apresentando uma pauta agrícola diversificada. A utilização de avançadas técnicas agronômicas coloca o Estado em destaque em termos de produtividade. A cana-de-açúcar, o milho, a soja, a mandioca e o trigo sobressaem na estrutura produtiva da agricultura local, observando-se, em paralelo, forte avanço de outras atividades, como a produção de frutas. Já na pecuária, destaca-se a avicultura, com 27% do total de abates do País. Nos segmentos de bovinos e suínos, a participação do Estado atinge 4,1% e 19,7%, respectivamente (PARANÁ, 2014).
 
-As economias dos municípios da Região Metropolitana de Curitiba estão entre as maiores do Estado. Em razão do dinamismo da indústria e dos serviços, Curitiba, São José dos Pinhais e Araucária são os municípios mais representativos no PIB do Paraná. No interior do Estado, Londrina e Maringá têm forte presença da agroindústria e dos serviços e, em Foz do Iguaçu, sobressaem as atividades ligadas ao turismo e à produção de energia elétrica. Já no litoral, Paranaguá se destaca pelas atividades ligadas ao Porto (PARANÁ, 2014). 
+O valor da transformação industrial do Paraná atingiu R$ 67,4 bilhões em 2011. Na estrutura industrial do Estado, predominam os segmentos de veículos automotores, alimentos e refino de petróleo, responsáveis por aproximadamente 58% do valor da transformação da indústria estadual. O valor adicionado do setor de serviços do Paraná totalizou R$ 130.833.000,00 bilhões em 2011, com grande participação dos ramos de comércio, administração pública e atividades imobiliárias.
 
-13 
+Em 2013, o Paraná respondeu por 7,5% dos US$ 242 bilhões das exportações nacionais, ficando na quinta posição entre os estados brasileiros. Nas importações, os maiores fornecedores de bens ao Paraná foram China, Argentina, Estados Unidos e Alemanha, responsáveis por US$ 8,2 bilhões em negócios com o Estado (PARANÁ, 2014).
 
-**==> picture [472 x 55] intentionally omitted <==**
+O IFPR oferece condições adequadas para a produção de conhecimento e para a qualificação da força de trabalho, necessárias ao estímulo do desenvolvimento socioeconômico do Paraná. Em especial na cidade de Paranavaí, localizada a uma altitude de 503 m e com 202,4 km² de área, 85.643 habitantes e IDH de 0,763, as atividades do IFPR visam contribuir para as atividades econômicas já consolidadas e outras em franca expansão, como a citricultura, que é uma das mais recentes alternativas agrícolas da região e alçou Paranavaí como o maior produtor de Laranja do Paraná. A cidade destaca-se também pela produção de algodão, café, bicho-daseda, abacaxi e soja, é o segundo maior produtor de mandioca do estado, além de possuir amplo desenvolvimento também na indústria e no comércio.
 
-O Paraná é o maior produtor nacional de grãos, apresentando uma pauta agrícola diversificada. A utilização de avançadas técnicas agronômicas coloca o Estado em destaque em termos de produtividade. A cana-de-açúcar, o milho, a soja, a mandioca e o trigo sobressaem na estrutura produtiva da agricultura local, observando-se, em paralelo, forte avanço de outras atividades, como a produção de frutas. Já na pecuária, destaca-se a avicultura, com 27% do total de abates do País. Nos segmentos de bovinos e suínos, a participação do Estado atinge 4,1% e 19,7%, respectivamente (PARANÁ, 2014). 
+Mas as atividades econômicas do estado impõem grande influência sobre a realidade socioambiental. Os dados apresentados anteriormente impactam também nos problemas desencadeados pelo uso indiscriminado dos recursos da natureza em atividades agrícolas, industriais, desmatamento, queimadas, poluição e assoreamento dos rios, entre outros.
 
-O valor da transformação industrial do Paraná atingiu R$ 67,4 bilhões em 2011. Na estrutura industrial do Estado, predominam os segmentos de veículos automotores, alimentos e refino de petróleo, responsáveis por aproximadamente 58% do valor da transformação da indústria estadual. O valor adicionado do setor de serviços do Paraná totalizou R$ 130.833.000,00 bilhões em 2011, com grande participação dos ramos de comércio, administração pública e atividades imobiliárias. 
+Várias atividades econômicas estão cheias de práticas que requerem mudanças, e nesse viés a educação se apresenta como um caminho para a conscientização, discussão e a busca por soluções que garantam a sustentabilidade.
 
-Em 2013, o Paraná respondeu por 7,5% dos US$ 242 bilhões das exportações nacionais, ficando na quinta posição entre os estados brasileiros. Nas importações, os maiores fornecedores de bens ao Paraná foram China, Argentina, Estados Unidos e Alemanha, responsáveis por US$ 8,2 bilhões em negócios com o Estado (PARANÁ, 2014). 
+Neste cenário, a tecnologia da informação é um componente indispensável tanto na automatização de processos, na obtenção de vantagens competitivas, no apoio ao processo decisório, como na implantação de novas estratégias organizacionais que incluam a diminuição de insumos, melhoria de processos, uso consciente, reuso de equipamentos, ou seja, um conjunto de ações que juntas ou isoladas tornam mais sustentável e menos prejudicial o uso da computação.
 
-O IFPR oferece condições adequadas para a produção de conhecimento e para a qualificação da força de trabalho, necessárias ao estímulo do desenvolvimento socioeconômico do Paraná. Em especial na cidade de Paranavaí, localizada a uma altitude de 503 m e com 202,4 km² de área, 85.643 habitantes e IDH de 0,763, as atividades do IFPR visam contribuir para as atividades econômicas já consolidadas e outras em franca expansão, como a citricultura, que é uma das mais recentes alternativas agrícolas da região e alçou Paranavaí como o maior produtor de Laranja do Paraná. A cidade destaca-se também pela produção de algodão, café, bicho-daseda, abacaxi e soja, é o segundo maior produtor de mandioca do estado, além de possuir amplo desenvolvimento também na indústria e no comércio. 
+O reconhecimento das demandas regionais, aliado à necessidade de fortalecer a capacitação dos profissionais de informática de Paranavaí e região, motivou docentes e dirigentes do IFPR Campus Paranavaí a organizar a oferta do curso de Bacharelado em Engenharia de Software.
 
-Mas as atividades econômicas do estado impõem grande influência sobre a realidade socioambiental. Os dados apresentados anteriormente impactam também nos problemas desencadeados pelo uso indiscriminado dos recursos da natureza em atividades agrícolas, industriais, desmatamento, queimadas, poluição e assoreamento dos rios, entre outros. 
+O curso de Bacharelado em Engenharia de Software trata essas e outras questões de forma direta ou de forma transversal aos seus componentes curriculares conforme apresentado na organização didático pedagógica.
 
-Várias atividades econômicas estão cheias de práticas que requerem mudanças, e nesse viés a educação se apresenta como um caminho para a conscientização, discussão e a busca por soluções que garantam a sustentabilidade. 
+## _1.2.1.4 Órgãos Colegiados do IFPR_
 
-Neste cenário, a tecnologia da informação é um componente indispensável tanto na automatização de processos, na obtenção de vantagens competitivas, no apoio ao processo decisório, como na implantação de novas estratégias organizacionais que incluam a diminuição de insumos, melhoria de processos, uso consciente, reuso de equipamentos, ou seja, um conjunto de ações que juntas ou isoladas tornam mais sustentável e menos prejudicial o uso da computação. 
+Atualmente o IFPR conta com quatro órgãos colegiados vinculados à reitoria: Conselho Superior (Consup), o Colégio de Dirigentes (Codir), o Conselho de Ensino Pesquisa e Extensão (Consepe) e o Conselho de Administração e Planejamento (Consap). Além disso, cada campus possui um Colégio de Dirigentes do Campus (Codic).
 
-O reconhecimento das demandas regionais, aliado à necessidade de fortalecer a capacitação dos profissionais de informática de Paranavaí e região, motivou docentes e dirigentes do IFPR Campus Paranavaí a organizar a oferta do curso de Bacharelado em Engenharia de Software. 
+Segundo o estatuto do IFPR, o **Consup** é o órgão consultivo e deliberativo, sendo órgão máximo do Instituto Federal do Paraná.  São competências do Consup **:**
 
-14 
+– Aprovar as diretrizes para atuação do Instituto Federal e zelar pela execução de sua política educacional;
 
-**==> picture [472 x 55] intentionally omitted <==**
+– Aprovar as normas e coordenar o processo de consulta à comunidade escolar para escolha do Reitor do Instituto Federal e dos Diretores-Gerais dos _Campi_ , em consonância com o estabelecido nos arts. 12 e 13 da Lei nº. 11.892/2008;
 
-O curso de Bacharelado em Engenharia de Software trata essas e outras questões de forma direta ou de forma transversal aos seus componentes curriculares conforme apresentado na organização didático pedagógica. 
+– Aprovar os planos de desenvolvimento institucional e de ação e apreciar a proposta orçamentária anual;
 
-## _1.2.1.4 Órgãos Colegiados do IFPR_ 
+- Aprovar o projeto político-pedagógico, a organização didática, regulamentos internos e normas disciplinares;
 
-Atualmente o IFPR conta com quatro órgãos colegiados vinculados à reitoria: Conselho Superior (Consup), o Colégio de Dirigentes (Codir), o Conselho de Ensino Pesquisa e Extensão (Consepe) e o Conselho de Administração e Planejamento (Consap). Além disso, cada campus possui um Colégio de Dirigentes do Campus (Codic). 
+- Aprovar normas relativas à acreditação e à certificação de competências profissionais, nos termos da legislação vigente;
 
-Segundo o estatuto do IFPR, o **Consup** é o órgão consultivo e deliberativo, sendo órgão máximo do Instituto Federal do Paraná.  São competências do Consup **:** 
+– Autorizar o Reitor a conferir títulos de mérito acadêmico;
 
-– Aprovar as diretrizes para atuação do Instituto Federal e zelar pela execução de sua política educacional; 
+– Apreciar as contas do exercício financeiro e o relatório de gestão anual, emitindo parecer conclusivo sobre a propriedade e regularidade dos registros;
 
-– Aprovar as normas e coordenar o processo de consulta à comunidade escolar para escolha do Reitor do Instituto Federal e dos Diretores-Gerais dos _Campi_ , em consonância com o estabelecido nos arts. 12 e 13 da Lei nº. 11.892/2008; 
+– Deliberar sobre taxas, emolumentos e contribuições por prestação de serviços em geral a serem cobrados pelo Instituto Federal;
 
-– Aprovar os planos de desenvolvimento institucional e de ação e apreciar a proposta orçamentária anual; 
+– Autorizar a criação, alteração curricular e extinção de cursos no âmbito do Instituto Federal, bem como o registro de diplomas;
 
-- Aprovar o projeto político-pedagógico, a organização didática, regulamentos internos e normas disciplinares; 
+- Aprovar a estrutura administrativa e o regimento geral do Instituto Federal;
 
-- Aprovar normas relativas à acreditação e à certificação de competências profissionais, nos termos da legislação vigente; 
+– Observar os parâmetros definidos pelo Governo Federal e legislação específica;
 
-– Autorizar o Reitor a conferir títulos de mérito acadêmico; 
+- Deliberar sobre questões submetidas a sua apreciação.
 
-– Apreciar as contas do exercício financeiro e o relatório de gestão anual, emitindo parecer conclusivo sobre a propriedade e regularidade dos registros; 
+O **Codir** é o órgão de apoio ao processo decisório da Reitoria, com caráter consultivo. São competências do Codir:
 
-– Deliberar sobre taxas, emolumentos e contribuições por prestação de serviços em geral a serem cobrados pelo Instituto Federal; 
+- Apreciar e recomendar a distribuição interna de recursos;
 
-– Autorizar a criação, alteração curricular e extinção de cursos no âmbito do Instituto Federal, bem como o registro de diplomas; 
+- Apreciar e recomendar as normas para celebração de acordos, convênios e contratos, bem como para elaboração de cartas de intenção ou de documentos equivalentes;
 
-- Aprovar a estrutura administrativa e o regimento geral do Instituto Federal; 
+- Apresentar a criação e alterações de funções e órgãos administrativos da estrutura organizacional do Instituto Federal;
 
-– Observar os parâmetros definidos pelo Governo Federal e legislação específica; 
+– Apreciar e recomendar o calendário de referência anual;
 
-- Deliberar sobre questões submetidas a sua apreciação. 
+– Apreciar e recomendar normas de aperfeiçoamento da gestão;
 
-O **Codir** é o órgão de apoio ao processo decisório da Reitoria, com caráter consultivo. São competências do Codir: 
+– Apreciar os assuntos de interesse da administração do Instituto Federal a ele submetido.
 
-- Apreciar e recomendar a distribuição interna de recursos; 
+O **Consepe** é órgão propositivo, consultivo, normativo e deliberativo, por delegação do Conselho Superior, no que tange às políticas institucionais de Ensino, Pesquisa e Extensão. As atribuições do Consepe são regulamentadas pela Resolução 48/12 – CONSUP.
 
-- Apreciar e recomendar as normas para celebração de acordos, convênios e contratos, bem como para elaboração de cartas de intenção ou de documentos equivalentes; 
+O **Consap** é órgão consultivo, por delegação do Conselho Superior – Consup, e propositivo no que tange às políticas Institucionais de gestão de pessoas, recursos orçamentários, infraestrutura e expansão física, planejamento e desenvolvimento institucional. As atribuições do Consap são regulamentadas pela Resolução 49/12 – Consup e pela Resolução 21/14 – Consup.
 
-- Apresentar a criação e alterações de funções e órgãos administrativos da estrutura organizacional do Instituto Federal; 
+Por fim, o **Codic** é o órgão normativo, consultivo e propositivo, no que tange às políticas de gestão pedagógica e administrativa. As atribuições do Codic são regulamentadas pela Resolução 41/13 - Consup.
 
-15 
+## _1.2.1.5 Histórico da Criação e Evolução do Campus Paranavaí_
 
-**==> picture [472 x 55] intentionally omitted <==**
+A história do Campus Paranavaí situa-se no contexto de movimentos locais e regionais que pleiteavam a instalação de uma instituição federal de ensino em Paranavaí.
 
-– Apreciar e recomendar o calendário de referência anual; 
+Esse movimento tem como marco documental inicial o Ofício Gabinete 200/2006, de 2 de maio de 2006, emitido por Maurício Yamakawa, prefeito da época, solicitando a instalação do Centro Federal de Educação Tecnológica (CEFET-PR[2] ) em Paranavaí. Os diálogos originados a partir de então culminaram com a apresentação, em novembro de 2006, de uma proposta de projeto para implantação do Campus Paranavaí da Universidade Tecnológica Federal do Paraná (UTFPR). Tal proposta envolvia o então Reitor da UTFPR, Eden Januário Neto, o Vice-Reitor, Pró-Reitores e Diretores de Campus da Universidade, uma Comissão da Amunpar (Associação dos Municípios do Noroeste do Paraná), com representantes de cada um dos vinte e oito municípios[3] , e uma Comissão da UTFPR constituída para esse fim, composta por Celso Aparecido Gandolfo – _in memoriam_ (Diretor do Campus Campo Mourão), Valdomiro Lubachevisk Kurta (Gerente de Relações Empresariais e Comunitárias) e Evandro Luiz Volpato.
 
-– Apreciar e recomendar normas de aperfeiçoamento da gestão; 
+Cumpre salientar que, apesar do empenho institucional, não havia, por parte da UTFPR, total certeza de que a unidade a ser instalada em Paranavaí faria parte da sua estrutura, conforme relato do Professor Eden Januário Neto, por ocasião da décima primeira reunião do Conselho Universitário, do qual era presidente: “O Presidente informou que os 06 (seis) municípios paranaenses (Foz do Iguaçu, Telêmaco Borba, Paranaguá, Jacarezinho, Umuarama e Paranavaí) que haviam sido contemplados no Plano de Expansão da Rede Federal de Educação Tecnológica apresentaram os projetos ao MEC, que irá escalonar as inaugurações: duas em 2008, em 2009 e 2010. A previsão é que o início das atividades ocorra em agosto de 2008. O Presidente esclareceu
 
-– Apreciar os assuntos de interesse da administração do Instituto Federal a ele submetido. 
+> 2 Pela Lei 11.184, de 27 de outubro de 2005, o CEFET-PR foi transformado em Universidade Federal Tecnológica do Paraná (UTFPR).
 
-O **Consepe** é órgão propositivo, consultivo, normativo e deliberativo, por delegação do Conselho Superior, no que tange às políticas institucionais de Ensino, Pesquisa e Extensão. As atribuições do Consepe são regulamentadas pela Resolução 48/12 – CONSUP. 
+> 3 A Comissão foi constituída por meio da Portaria  01/2006 da entidade, representada por seu presidente Walter Romão de Oliveira (in memoriam).
 
-O **Consap** é órgão consultivo, por delegação do Conselho Superior – Consup, e propositivo no que tange às políticas Institucionais de gestão de pessoas, recursos orçamentários, infraestrutura e expansão física, planejamento e desenvolvimento institucional. As atribuições do Consap são regulamentadas pela Resolução 49/12 – Consup e pela Resolução 21/14 – Consup. 
+que o MEC ainda não definiu a natureza jurídica dessas instituições, se Campus da UTFPR ou se constituirão o IFET-PR[4] .”
 
-Por fim, o **Codic** é o órgão normativo, consultivo e propositivo, no que tange às políticas de gestão pedagógica e administrativa. As atribuições do Codic são regulamentadas pela Resolução 41/13 - Consup. 
+Nessa trajetória, notícias jornalísticas do final de 2007 mencionavam, com euforia e esperança, a vinda do IFET-PR para Paranavaí, como evidencia a fala do então Prefeito Maurício Yamakawa “É uma conquista sem precedentes para toda a região. É uma instituição conhecida em todo o Brasil, que vai qualificar mão-de-obra em nível técnico e superior, atraindo grandes empresas[5] .”, bem como a de seu sucessor Rogério Lorenzetti “ _Esta vai ser uma obra importante para Paranavaí e a região. Talvez aquela que mais vai promover o desenvolvimento econômico regional_ ”[6.] A mesma posição era compartilhada pelo Secretário de Educação, Pedro Baraldi, em entrevista de janeiro de 2008: “ _O Ifet vai representar um salto quantitativo e qualitativo na educação da cidade e de toda a região_[7] .”
 
-## _1.2.1.5 Histórico da Criação e Evolução do Campus Paranavaí_ 
+Em audiência pública realizada em 26/10/2007, com a presença do deputado federal André Vargas, definiram-se inicialmente dois cursos: Curso Técnico em Mecânica e Curso Superior de Tecnologia em Manutenção Industrial. Na ocasião, o parlamentar demonstrou compartilhar do entusiasmo local com a instalação do IFET-PR em Paranavaí: “Vai trazer desenvolvimento e vai qualificar a mão-de-obra, atraindo indústrias e investimentos[8] .”
 
-A história do Campus Paranavaí situa-se no contexto de movimentos locais e regionais que pleiteavam a instalação de uma instituição federal de ensino em Paranavaí. 
+Após a troca do terreno inicialmente doado pelo município para as instalações do Campus, que se situava às margens da BR 376, no trevo de acesso ao Jardim Oásis, pelo local atual, cuja doação foi autorizada pela Lei 3.104/2008, a licitação para a construção do primeiro bloco[9] , aconteceu em 12 de fevereiro de 2009 e suas obras perduraram até agosto de 2010, quando o campus entrou oficialmente em funcionamento. Atualmente o campus conta com mais dois blocos didáticos, sendo um deles para laboratórios na área de Controle e Processos Industriais e o outro para salas de aula, salas de reunião e salas de uso geral.
 
-Esse movimento tem como marco documental inicial o Ofício Gabinete 200/2006, de 2 de maio de 2006, emitido por Maurício Yamakawa, prefeito da época, solicitando a instalação do Centro Federal de Educação Tecnológica (CEFET-PR[2] ) em Paranavaí. Os diálogos originados a partir de então culminaram com a apresentação, em novembro de 2006, de uma proposta de projeto para implantação do Campus Paranavaí da Universidade Tecnológica Federal do Paraná (UTFPR). Tal proposta envolvia o então Reitor da UTFPR, Eden Januário Neto, o Vice-Reitor, Pró-Reitores e Diretores de Campus da Universidade, uma Comissão da Amunpar (Associação dos Municípios do Noroeste do Paraná), com representantes de cada um dos vinte e oito municípios[3] , e uma Comissão da UTFPR constituída para esse fim, composta por Celso Aparecido Gandolfo – _in memoriam_ (Diretor do Campus Campo Mourão), Valdomiro Lubachevisk Kurta (Gerente de Relações Empresariais e Comunitárias) e Evandro Luiz Volpato. 
+O primeiro Diretor do Campus foi o Professor Gilson de Lima Moraes, docente remanescente do quadro da Escola Técnica da Universidade Federal do Paraná, nomeado pela Portaria nº 13, de 30 de janeiro de 2009, publicada no Diário Oficial da União (DOU) de 9 de fevereiro de 2009 e exonerado pela Portaria 272, de 19 de janeiro de 2011, publicada no DOU de 20 de maio de 2012. A Direção Geral do Campus foi exercida também, em caráter temporário, pela Professora Edilomar Leonart, durante o período de 25/04/2011 a 14/05/2011, conforme Portaria 238 de 28 de abril de 2011, publicada no DOU de 29 de abril de 2011 e também de 15/05/2011 a 19/05/2011, conforme Portaria 274 de 19 de maio de 2011, publicada no DOU de 20 de maio de 2011.
 
-Cumpre salientar que, apesar do empenho institucional, não havia, por parte da UTFPR, total certeza de que a unidade a ser instalada em Paranavaí faria parte da sua estrutura, conforme relato do Professor Eden Januário Neto, por ocasião da décima primeira reunião do Conselho Universitário, do qual era presidente: “O Presidente informou que os 06 (seis) municípios paranaenses (Foz do Iguaçu, Telêmaco Borba, Paranaguá, Jacarezinho, Umuarama e Paranavaí) que haviam sido contemplados no Plano de Expansão da Rede Federal de Educação Tecnológica apresentaram os projetos ao MEC, que irá escalonar as inaugurações: duas em 2008, em 2009 e 2010. A previsão é que o início das atividades ocorra em agosto de 2008. O Presidente esclareceu 
+> 4 UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ. Ata da Décima Primeira Reunião Ordinária do Conselho Universitário da UTFPR. Disponível online em http://www.utfpr.edu.br/estrutura-universitaria/couni/atas/ 2007_ atas/ata-da-11a-reuniao-ordinaria-de-25-de-julho. Acesso em 6.mar.2012.
 
-> 2 Pela Lei 11.184, de 27 de outubro de 2005, o CEFET-PR foi transformado em Universidade Federal Tecnológica do Paraná (UTFPR). 
+> 5 PREFEITURA DE PARANAVAÍ. DEPARTAMENTO DE IMPRENSA. Ifet de Paranavaí terá área de construção ampliada. In: Paranavaí online: o Portal da Cidade. Disponível online em http://www.paranavaionline.com.br/ noticias/educacao/ ifet_de_paranava_ter_rea_de_instala_o_ampliada. Acesso em 6.mar.2012.
 
-> 3 A Comissão foi constituída por meio da Portaria  01/2006 da entidade, representada por seu presidente Walter Romão de Oliveira (in memoriam). 
+> 6 _____. Ifet de Paranavaí terá área de construção ampliada. In: Paranavaí online: o Portal da Cidade. Disponível online em http://www.paranavaionline.com.br/ noticias/educacao/ ifet_de_paranava_ter_rea_de_instala_o_ampliada. Acesso em 6.mar.2012.
 
-16 
+> 7 _____. Ifet de Paranavaí amplia construção. In: Paranavaí online: o Portal da Cidade. Disponível em
 
-**==> picture [472 x 55] intentionally omitted <==**
+http://www.paranavaionline.com.br/noticias/educacao/ifet_de_paranava_instala_o_ampliada. Acesso em 6.mar.2012.
 
-que o MEC ainda não definiu a natureza jurídica dessas instituições, se Campus da UTFPR ou se constituirão o IFET-PR[4] .” 
+> 8 MONGE, Michele. Paranavaí debate novos cursos para instituto tecnológico. Maringá.com. Disponível online em <
 
-Nessa trajetória, notícias jornalísticas do final de 2007 mencionavam, com euforia e esperança, a vinda do IFET-PR para Paranavaí, como evidencia a fala do então Prefeito Maurício Yamakawa “É uma conquista sem precedentes para toda a região. É uma instituição conhecida em todo o Brasil, que vai qualificar mão-de-obra em nível técnico e superior, atraindo grandes empresas[5] .”, bem como a de seu sucessor Rogério Lorenzetti “ _Esta vai ser uma obra importante para Paranavaí e a região. Talvez aquela que mais vai promover o desenvolvimento econômico regional_ ”[6.] A mesma posição era compartilhada pelo Secretário de Educação, Pedro Baraldi, em entrevista de janeiro de 2008: “ _O Ifet vai representar um salto quantitativo e qualitativo na educação da cidade e de toda a região_[7] .” 
+http://maringa.odiario.com/maringa/noticia/162596/paranavai-debate-novos-cursos-para-instituto-tecnologico/>. Acesso em 7.mar.2012.
 
-Em audiência pública realizada em 26/10/2007, com a presença do deputado federal André Vargas, definiram-se inicialmente dois cursos: Curso Técnico em Mecânica e Curso Superior de Tecnologia em Manutenção Industrial. Na ocasião, o parlamentar demonstrou compartilhar do entusiasmo local com a instalação do IFET-PR em Paranavaí: “Vai trazer desenvolvimento e vai qualificar a mão-de-obra, atraindo indústrias e investimentos[8] .” 
+9 Em 12 de março de 2012 tiveram início as obras do segundo bloco que deverá conter 6 salas de aulas e instalações para abrigar os laboratórios do Eixo Tecnológico de Controle e Processos Industriais.
 
-Após a troca do terreno inicialmente doado pelo município para as instalações do Campus, que se situava às margens da BR 376, no trevo de acesso ao Jardim Oásis, pelo local atual, cuja doação foi autorizada pela Lei 3.104/2008, a licitação para a construção do primeiro bloco[9] , aconteceu em 12 de fevereiro de 2009 e suas obras perduraram até agosto de 2010, quando o campus entrou oficialmente em funcionamento. Atualmente o campus conta com mais dois blocos didáticos, sendo um deles para laboratórios na área de Controle e Processos Industriais e o outro para salas de aula, salas de reunião e salas de uso geral. 
+Em 19 de maio de 2011, foi designado Diretor Geral do Campus, o Professor José Barbosa Dias Júnior[10] , conforme Portaria 273 de 19 de maio de 2011, publicada no DOU de 20 de maio de 2011 e tem exercido a função até o momento.
 
-O primeiro Diretor do Campus foi o Professor Gilson de Lima Moraes, docente remanescente do quadro da Escola Técnica da Universidade Federal do Paraná, nomeado pela Portaria nº 13, de 30 de janeiro de 2009, publicada no Diário Oficial da União (DOU) de 9 de fevereiro de 2009 e exonerado pela Portaria 272, de 19 de janeiro de 2011, publicada no DOU de 20 de maio de 2012. A Direção Geral do Campus foi exercida também, em caráter temporário, pela Professora Edilomar Leonart, durante o período de 25/04/2011 a 14/05/2011, conforme Portaria 238 de 28 de abril de 2011, publicada no DOU de 29 de abril de 2011 e também de 15/05/2011 a 19/05/2011, conforme Portaria 274 de 19 de maio de 2011, publicada no DOU de 20 de maio de 2011. 
+Tal ato refletiu a escolha unânime do coletivo dos servidores do Campus, apresentada ao então reitor-eleito, Professor Irineu Mário Colombo, em reunião realizada no Campus, em 19 de abril do mesmo ano. A partir dessa indicação, começaram a ser organizadas as Diretorias, Coordenações e Seções, sendo que a primeira Diretora Administrativa e Financeira foi a servidora Dayane de Oliveira Gomes[11] , ocupante do cargo efetivo de Contadora, e a primeira Diretora de Ensino, a Professora Daniela Eloise Flôr[12] .
 
-> 4 UNIVERSIDADE TECNOLÓGICA FEDERAL DO PARANÁ. Ata da Décima Primeira Reunião Ordinária do Conselho Universitário da UTFPR. Disponível online em http://www.utfpr.edu.br/estrutura-universitaria/couni/atas/ 2007_ atas/ata-da-11a-reuniao-ordinaria-de-25-de-julho. Acesso em 6.mar.2012. 
+O IFPR Paranavaí iniciou suas atividades oficialmente em 16 de agosto de 2010, com as aulas das primeiras turmas dos cursos técnicos subsequentes em Alimentos (matutino), Eletromecânica (noturno) e Informática (matutino e noturno). O evento contou com a presença do Deputado Federal André Vargas, do Deputado Estadual Enio Verri e de lideranças locais e regionais. Na ocasião o quadro de servidores do Campus era assim constituído: Amarildo Pinheiro Magalhães (Técnico em Assuntos Educacionais), Antão Rodrigo Valentim (Professor do Ensino Básico Técnico e Tecnológico - EBTT), Ayslan Trevizan Possebom (Professor EBTT), Carlos Eduardo Barão (Professor EBTT ), Daniela Eloise Flôr (Professora EBTT), Dayane de Oliveira Gomes (Contadora), José Barbosa Dias Júnior (Professor EBTT), Marcela Moreira Terhaag (Professora EBTT), Marcos Sakada (Assistente em Administração), Ricardo Gouveia Teodoro (Professor EBTT), Sérgio Assis de Almeida (Administrador), Thais Watakabe (Pedagoga), Vanessa Aparecida Marcolino (Professora EBTT), Wesley José de Souza (Assistente em Administração) e Zineide Pereira dos Santos (Bibliotecária).
 
-> 5 PREFEITURA DE PARANAVAÍ. DEPARTAMENTO DE IMPRENSA. Ifet de Paranavaí terá área de construção ampliada. In: Paranavaí online: o Portal da Cidade. Disponível online em http://www.paranavaionline.com.br/ noticias/educacao/ ifet_de_paranava_ter_rea_de_instala_o_ampliada. Acesso em 6.mar.2012. 
-
-> 6 _____. Ifet de Paranavaí terá área de construção ampliada. In: Paranavaí online: o Portal da Cidade. Disponível online em http://www.paranavaionline.com.br/ noticias/educacao/ ifet_de_paranava_ter_rea_de_instala_o_ampliada. Acesso em 6.mar.2012. 
-
-> 7 _____. Ifet de Paranavaí amplia construção. In: Paranavaí online: o Portal da Cidade. Disponível em 
-
-http://www.paranavaionline.com.br/noticias/educacao/ifet_de_paranava_instala_o_ampliada. Acesso em 6.mar.2012. 
-
-> 8 MONGE, Michele. Paranavaí debate novos cursos para instituto tecnológico. Maringá.com. Disponível online em < 
-
-http://maringa.odiario.com/maringa/noticia/162596/paranavai-debate-novos-cursos-para-instituto-tecnologico/>. Acesso em 7.mar.2012. 
-
-9 Em 12 de março de 2012 tiveram início as obras do segundo bloco que deverá conter 6 salas de aulas e instalações para abrigar os laboratórios do Eixo Tecnológico de Controle e Processos Industriais. 
-
-17 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-Em 19 de maio de 2011, foi designado Diretor Geral do Campus, o Professor José Barbosa Dias Júnior[10] , conforme Portaria 273 de 19 de maio de 2011, publicada no DOU de 20 de maio de 2011 e tem exercido a função até o momento. 
-
-Tal ato refletiu a escolha unânime do coletivo dos servidores do Campus, apresentada ao então reitor-eleito, Professor Irineu Mário Colombo, em reunião realizada no Campus, em 19 de abril do mesmo ano. A partir dessa indicação, começaram a ser organizadas as Diretorias, Coordenações e Seções, sendo que a primeira Diretora Administrativa e Financeira foi a servidora Dayane de Oliveira Gomes[11] , ocupante do cargo efetivo de Contadora, e a primeira Diretora de Ensino, a Professora Daniela Eloise Flôr[12] . 
-
-O IFPR Paranavaí iniciou suas atividades oficialmente em 16 de agosto de 2010, com as aulas das primeiras turmas dos cursos técnicos subsequentes em Alimentos (matutino), Eletromecânica (noturno) e Informática (matutino e noturno). O evento contou com a presença do Deputado Federal André Vargas, do Deputado Estadual Enio Verri e de lideranças locais e regionais. Na ocasião o quadro de servidores do Campus era assim constituído: Amarildo Pinheiro Magalhães (Técnico em Assuntos Educacionais), Antão Rodrigo Valentim (Professor do Ensino Básico Técnico e Tecnológico - EBTT), Ayslan Trevizan Possebom (Professor EBTT), Carlos Eduardo Barão (Professor EBTT ), Daniela Eloise Flôr (Professora EBTT), Dayane de Oliveira Gomes (Contadora), José Barbosa Dias Júnior (Professor EBTT), Marcela Moreira Terhaag (Professora EBTT), Marcos Sakada (Assistente em Administração), Ricardo Gouveia Teodoro (Professor EBTT), Sérgio Assis de Almeida (Administrador), Thais Watakabe (Pedagoga), Vanessa Aparecida Marcolino (Professora EBTT), Wesley José de Souza (Assistente em Administração) e Zineide Pereira dos Santos (Bibliotecária). 
-
-A esses servidores foram somando-se outros que, pouco a pouco, foram ampliando o quantitativo de pessoas envolvidas nos trabalhos do Campus, empenhando esforços para o alcance dos objetivos institucionais em torno da oferta de ensino público, gratuito e de qualidade. Atualmente, a força de trabalho do campus abrange os seguintes servidores: 
+A esses servidores foram somando-se outros que, pouco a pouco, foram ampliando o quantitativo de pessoas envolvidas nos trabalhos do Campus, empenhando esforços para o alcance dos objetivos institucionais em torno da oferta de ensino público, gratuito e de qualidade. Atualmente, a força de trabalho do campus abrange os seguintes servidores:
 
 |NOME|CARGO|FUNÇÃO|
 |---|---|---|
@@ -497,17 +416,11 @@ A esses servidores foram somando-se outros que, pouco a pouco, foram ampliando o
 |ALESSANDRA BATISTA DE GODOI BRANCO|TAE/PEDAGOGA||
 |ALESON MARCOS PIVETA|TAE/ASSISTENTE EM<br>ADMINISTRAÇÃO||
 
+> 10 O Prof. José Barbosa Dias Júnior foi redistribuído do IF-GO para o IFPR no primeiro semestre de 2010,  tendo sido o primeiro docente em efetivo exercício no Campus Paranavaí.
 
+> 11 Nomeada pela Portaria 327 de 1 de junho de 2011, publicada no DOU de 3 de junho de 2011, exercendo a função até o presente momento.
 
-> 10 O Prof. José Barbosa Dias Júnior foi redistribuído do IF-GO para o IFPR no primeiro semestre de 2010,  tendo sido o primeiro docente em efetivo exercício no Campus Paranavaí. 
-
-> 11 Nomeada pela Portaria 327 de 1 de junho de 2011, publicada no DOU de 3 de junho de 2011, exercendo a função até o presente momento. 
-
-> 12 Nomeada pela Portaria 327 de 1 de junho de 2011, publicada no DOU de 3 de junho de 2011 e exonerada, a pedido, pela Portaria 754 de 23 de novembro de 2011, publicada no DOU de 24 de novembro de 2011. 
-
-18 
-
-**==> picture [472 x 55] intentionally omitted <==**
+> 12 Nomeada pela Portaria 327 de 1 de junho de 2011, publicada no DOU de 3 de junho de 2011 e exonerada, a pedido, pela Portaria 754 de 23 de novembro de 2011, publicada no DOU de 24 de novembro de 2011.
 
 |ALEXANDRE DA SILVA AVINCOLA|DOCENTE E.B.T.T. (D.E.)||
 |---|---|---|
@@ -528,12 +441,6 @@ A esses servidores foram somando-se outros que, pouco a pouco, foram ampliando o
 |CAMILA CLOZATO LARA|DOCENTE E.B.T.T. (D.E.)||
 |CARLA KOZUKI|TAE/TÉC. LABORATÓRIO FÍSICA||
 
-
-
-19 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |CARLOS EDUARDO BARÃO|DOCENTE E.B.T.T. (D.E.)||
 |---|---|---|
 |CINTHIA BONIN DA SILVA BENASSI|TAE/AUXILIAR DE BIBLIOTECA||
@@ -551,12 +458,6 @@ A esses servidores foram somando-se outros que, pouco a pouco, foram ampliando o
 |EDUARDO HENRIQUE MOLINA DA CRUZ|DOCENTE E.B.T.T. (D.E.)||
 |ELAINE MAESTRE POLIDO|TAE/ASSISTENTE DE ALUNOS||
 |ELIZETE PINTO CRUZ SBRISSIA PITARCH<br>FORCADELL|TAE/TRADUTOR E INTÉRPRETE<br>DE LINGUAGEM DE SINAIS|NÚCLEO DE ATENDIMENTO<br>ÀS PESSOAS COM<br>NECESSIDADES<br>EDUCACIONAIS<br>ESPECÍFICAS|
-
-
-
-20 
-
-**==> picture [472 x 55] intentionally omitted <==**
 
 |ELOILSON DOMINGOS|DOCENTE E.B.T.T. (D.E.)||
 |---|---|---|
@@ -577,12 +478,6 @@ A esses servidores foram somando-se outros que, pouco a pouco, foram ampliando o
 |GLAUCIO TESTA|DOCENTE E.B.T.T. (D.E.)||
 |GLEICE ROCHA DOS SANTOS ALMEIDA|DOCENTE E.B.T.T. (D.E.)||
 
-
-
-21 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |HELIO TOSHIO KAMAKAWA|DOCENTE E.B.T.T. (D.E.)||
 |---|---|---|
 |HUDISON RODRIGO VITURINO DE OLIVEIRA|TAE/TÉCNICO DE<br>LABORATÓRIO/INDUSTRIAL||
@@ -601,12 +496,6 @@ A esses servidores foram somando-se outros que, pouco a pouco, foram ampliando o
 |LUIZ CARLOS SOARES DE FIGUEIREDO<br>FILHO|DOCENTE E.B.T.T. (D.E.)||
 |MARCELO LOPES ROSA|DOCENTE E.B.T.T. (D.E.)||
 
-
-
-22 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |MARCOS AYRES BARBOZA|TAE/PSICÓLOGO||
 |---|---|---|
 |MARCOS HIGUTI|TAE/ASSISTENTE DE ALUNOS||
@@ -624,12 +513,6 @@ A esses servidores foram somando-se outros que, pouco a pouco, foram ampliando o
 |RODOLFO RODRIGUES BARRIONUEVO<br>SILVA|DOCENTE E.B.T.T. (D.E.)||
 |RODRIGO DA SILVA CARVALHO|TAE/ASSISTENTE DE ALUNOS||
 |ROSANA PEREIRA DE CARVALHO|TAE/ASSISTENTE DE ALUNOS|CHEFE DE SEÇÃO DE<br>COMPRAS E CONTRATOS|
-
-
-
-23 
-
-**==> picture [472 x 55] intentionally omitted <==**
 
 |ROSANGELA JOVINO ALVES|DOCENTE E.B.T.T. (D.E.)||
 |---|---|---|
@@ -650,12 +533,6 @@ A esses servidores foram somando-se outros que, pouco a pouco, foram ampliando o
 |VANESSA MONTEIRO|DOCENTE E.B.T.T. (D.E.)||
 |VANILZA VALENTIM DOS SANTOS|TAE/PEDAGOGA||
 
-
-
-24 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |VICENTE RODRIGUES DE ALMEIDA|DOCENTE E.B.T.T. (D.E.)||
 |---|---|---|
 |VIVIANE MORETTO DA SILVA FULY|DOCENTE E.B.T.T. (D.E.)||
@@ -664,103 +541,87 @@ A esses servidores foram somando-se outros que, pouco a pouco, foram ampliando o
 |WILLIAN NALEPA OIZUMI|DOCENTE E.B.T.T. (D.E.)|COORDENADOR DO CURSO<br>SUPERIOR EM ANÁLISE E<br>DESENVOLVIMENTO DE<br>SISTEMAS|
 |ZINEIDE PEREIRA DOS SANTOS|TAE/BIBLIOTECÁRIA|CHEFE DE SEÇÃO DE<br>BIBLIOTECA|
 
+## **1.2.2 O Curso de Bacharelado em Engenharia de Software**
 
+A escolha do curso de Bacharelado em Engenharia de Software para este projeto não foi ao acaso.  Já no PPI do IFPR Campus Paranavaí, estabelece-se a realização de estudos que evitam a concorrência em ofertas procedentes de outras Instituições de Ensino Superior da região, buscando a otimização dos recursos públicos no atendimento das necessidades locais.
 
-## **1.2.2 O Curso de Bacharelado em Engenharia de Software** 
+Desde a sua concepção, o campus Paranavaí tem oferecido cursos na área de tecnologia da informação, tais como os cursos Técnico em Informática Integrado e subsequente ao Ensino Médio e o Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas. Todos esses cursos obtiveram grande êxito na formação de profissionais de nível técnico e tecnólogo. Porém, com o aumento na demanda por profissionais e com a necessidade por profissionais extremamente qualificados, observou-se que há a necessidade de um curso mais completo e mais abrangente que seja acessível para a população de Paranavaí e região. Nesse sentido, o curso de Bacharelado em Engenharia de Software é o ideal para satisfazer as demandas supracitadas.
 
-A escolha do curso de Bacharelado em Engenharia de Software para este projeto não foi ao acaso.  Já no PPI do IFPR Campus Paranavaí, estabelece-se a realização de estudos que evitam a concorrência em ofertas procedentes de outras Instituições de Ensino Superior da região, buscando a otimização dos recursos públicos no atendimento das necessidades locais. 
+Segundo a resolução CNE/CES nº 5, de 16 de novembro de 2016, o Curso de Bacharelado em Engenharia de Software tem por objetivo formar profissionais que:
 
-Desde a sua concepção, o campus Paranavaí tem oferecido cursos na área de tecnologia da informação, tais como os cursos Técnico em Informática Integrado e subsequente ao Ensino Médio e o Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas. Todos esses cursos obtiveram grande êxito na formação de profissionais de nível técnico e tecnólogo. Porém, com o aumento na demanda por profissionais e com a necessidade por profissionais extremamente qualificados, observou-se que há a necessidade de um curso mais completo e mais abrangente que seja acessível para a população de Paranavaí e região. Nesse sentido, o curso de Bacharelado em Engenharia de Software é o ideal para satisfazer as demandas supracitadas. 
+I - possuam sólida formação em Ciência da Computação, Matemática e Produção, visando a criação de sistemas de software de alta qualidade de maneira sistemática, controlada, eficaz e eficiente que levem em consideração questões éticas, sociais, legais e econômicas;
 
-Segundo a resolução CNE/CES nº 5, de 16 de novembro de 2016, o Curso de Bacharelado em Engenharia de Software tem por objetivo formar profissionais que: 
+II - sejam capazes de criar soluções, individualmente ou em equipe, para problemas complexos caracterizados por relações entre domínios de conhecimento e de aplicação;
 
-I - possuam sólida formação em Ciência da Computação, Matemática e Produção, visando a criação de sistemas de software de alta qualidade de maneira sistemática, controlada, eficaz e eficiente que levem em consideração questões éticas, sociais, legais e econômicas; 
+III - sejam capazes de agir de forma reflexiva na construção de software, compreendendo o seu impacto direto ou indireto sobre as pessoas e a sociedade;
 
-II - sejam capazes de criar soluções, individualmente ou em equipe, para problemas complexos caracterizados por relações entre domínios de conhecimento e de aplicação; 
+IV - entendam o contexto social no qual a construção de Software é praticada, bem como os efeitos dos projetos de software na sociedade; V - compreendam os aspectos econômicos e financeiros, associados a novos produtos e organizações;
 
-25 
+VI - reconheçam o caráter fundamental da inovação e da criatividade e compreendam as perspectivas de negócios e oportunidades relevantes.
 
-**==> picture [472 x 55] intentionally omitted <==**
+O perfil de egresso para o curso de Bacharelado em Engenharia de Software vem de encontro com os interesses e as necessidades da sociedade. No contexto regional, espera-se que os profissionais graduados em Engenharia de Software tenham um papel fundamental para o desenvolvimento econômico e social da região, atuando na modernização de produtos, práticas e processos utilizados por empresas e instituições públicas. Dentre as possíveis profissões para o Bacharel em Engenharia de Software estão: Engenheiro de Software, Analista de Sistemas, Gerente de Projetos, Arquiteto de Sistemas, Líder Técnico, Desenvolvedor de Software, dentre outras. Porém, o mercado de trabalho para o profissional de Engenharia de Software não se limita aos cargos supracitados. Devido ao crescimento exponencial do uso de tecnologias, mesmo empresas cujo foco principal não é o desenvolvimento de software que tem investido na contratação de profissionais de Engenharia de Software e isso faz com que o campo de atuação para os egressos do curso seja ainda maior.
 
-III - sejam capazes de agir de forma reflexiva na construção de software, compreendendo o seu impacto direto ou indireto sobre as pessoas e a sociedade; 
+## **1.2.3 Missão, Visão e Valores**
 
-IV - entendam o contexto social no qual a construção de Software é praticada, bem como os efeitos dos projetos de software na sociedade; V - compreendam os aspectos econômicos e financeiros, associados a novos produtos e organizações; 
+O Plano de Desenvolvimento Institucional (PDI), elaborado para 2014-2018, com ampla participação da sociedade em todas as suas esferas, aponta a necessidade de parcerias com os movimentos sociais, as entidades ou instituições públicas e privadas representativas das classes patronal e trabalhadora. O mesmo esclarece o desafio de construir uma nova identidade escolar, que, enraizada na história, se projete para o futuro como protagonista de transformações, refletindo sobre as necessidades do sujeito a partir da análise das esferas social, econômica e cultural, marcando os olhares com o viés da inclusão, da sustentabilidade e da democratização.
 
-VI - reconheçam o caráter fundamental da inovação e da criatividade e compreendam as perspectivas de negócios e oportunidades relevantes. 
+Por meio de reflexões sobre práticas escolares do passado, em que a educação significava instrumento elitizado e, não raro, de poder, compreende-se que a construção de uma identidade que reflita as políticas do IFPR é fundamental para marcar qual é o seu papel na atualidade. Pressupor o trabalho como dimensão constitutiva do ser social, e, neste sentido, como interseção entre o fazer e o aprender, demonstra que o ato de estudar também significa uma forma de trabalho.
 
-O perfil de egresso para o curso de Bacharelado em Engenharia de Software vem de encontro com os interesses e as necessidades da sociedade. No contexto regional, espera-se que os profissionais graduados em Engenharia de Software tenham um papel fundamental para o desenvolvimento econômico e social da região, atuando na modernização de produtos, práticas e processos utilizados por empresas e instituições públicas. Dentre as possíveis profissões para o Bacharel em Engenharia de Software estão: Engenheiro de Software, Analista de Sistemas, Gerente de Projetos, Arquiteto de Sistemas, Líder Técnico, Desenvolvedor de Software, dentre outras. Porém, o mercado de trabalho para o profissional de Engenharia de Software não se limita aos cargos supracitados. Devido ao crescimento exponencial do uso de tecnologias, mesmo empresas cujo foco principal não é o desenvolvimento de software que tem investido na contratação de profissionais de Engenharia de Software e isso faz com que o campo de atuação para os egressos do curso seja ainda maior. 
+Segundo o PDI, “essa articulação com a sociedade e com representantes do mercado de trabalho certamente trará ao processo educativo e formativo valiosa contribuição em relação à compreensão dos valores sociais do trabalho e da dignidade da pessoa humana” (IFPR, 2017, p. 25).
 
-## **1.2.3 Missão, Visão e Valores** 
+O referido documento entende a participação da comunidade como:
 
-O Plano de Desenvolvimento Institucional (PDI), elaborado para 2014-2018, com ampla participação da sociedade em todas as suas esferas, aponta a necessidade de parcerias com os movimentos sociais, as entidades ou instituições públicas e privadas representativas das classes patronal e trabalhadora. O mesmo esclarece o desafio de construir uma nova identidade escolar, que, enraizada na história, se projete para o futuro como protagonista de transformações, refletindo sobre as necessidades do sujeito a partir da análise das esferas social, econômica e cultural, marcando os olhares com o viés da inclusão, da sustentabilidade e da democratização. 
+[...] essencial ao processo educacional que se munirá de condições de despertar nas pessoas a consciência cidadã voltada para a compreensão da realidade social em que vivem e a importância da participação no processo de transformação desta realidade, para que se possa construir uma sociedade mais livre, igualitária, justa, fraterna, solidária e soberana (IFPR, 2017, p. 25).
 
-Por meio de reflexões sobre práticas escolares do passado, em que a educação significava instrumento elitizado e, não raro, de poder, compreende-se que a construção de uma identidade que reflita as políticas do IFPR é fundamental para marcar qual é o seu papel na atualidade. Pressupor o trabalho como dimensão constitutiva do ser social, e, neste sentido, como interseção entre o fazer e o aprender, demonstra que o ato de estudar também significa uma forma de trabalho. 
+A missão do IFPR, com essa perspectiva de ampla participação social e de transformação da realidade, constitui-se em:
 
-Segundo o PDI, “essa articulação com a sociedade e com representantes do mercado de trabalho certamente trará ao processo educativo e formativo valiosa contribuição em relação à compreensão dos valores sociais do trabalho e da dignidade da pessoa humana” (IFPR, 2017, p. 25). 
+Promover a educação profissional e tecnológica, pública, de qualidade, socialmente referenciada, por meio do ensino, pesquisa e extensão, visando à formação de cidadãos críticos, autônomos e empreendedores, comprometidos com a sustentabilidade (IFPR, 2017, p. 27).
 
-O referido documento entende a participação da comunidade como: 
+Dessa missão, deriva-se a visão institucional de “ser referência em educação profissional, tecnológica e científica, reconhecida pelo compromisso com a transformação social” (IFPR, 2014, p. 26).
 
-26 
+Em seu desdobramento, os valores identificados passam a ser os que seguem:
 
-**==> picture [472 x 55] intentionally omitted <==**
+- Pessoas;
 
-[...] essencial ao processo educacional que se munirá de condições de despertar nas pessoas a consciência cidadã voltada para a compreensão da realidade social em que vivem e a importância da participação no processo de transformação desta realidade, para que se possa construir uma sociedade mais livre, igualitária, justa, fraterna, solidária e soberana (IFPR, 2017, p. 25). 
+- Visão sistêmica;
 
-A missão do IFPR, com essa perspectiva de ampla participação social e de transformação da realidade, constitui-se em: 
+- Educação de qualidade e excelência;
 
-Promover a educação profissional e tecnológica, pública, de qualidade, socialmente referenciada, por meio do ensino, pesquisa e extensão, visando à formação de cidadãos críticos, autônomos e empreendedores, comprometidos com a sustentabilidade (IFPR, 2017, p. 27). 
+- Eficiência e eficácia;
 
-Dessa missão, deriva-se a visão institucional de “ser referência em educação profissional, tecnológica e científica, reconhecida pelo compromisso com a transformação social” (IFPR, 2014, p. 26). 
+- Ética;
 
-Em seu desdobramento, os valores identificados passam a ser os que seguem: 
+- Sustentabilidade;
 
-- Pessoas; 
+- Qualidade de vida;
 
-- Visão sistêmica; 
+- Diversidade humana e cultural;
 
-- Educação de qualidade e excelência; 
+- Inclusão social;
 
-- Eficiência e eficácia; 
+- Empreendedorismo e inovação;
 
-- Ética; 
+- Respeito às características regionais;
 
-- Sustentabilidade; 
+- Democracia e transparência.
 
-- Qualidade de vida; 
+O Instituto, com base em seu compromisso social, que se evidencia na missão, na visão e nos valores institucionais, propõe-se a ofertar uma formação sólida, apoiada na ética e nos valores democráticos como princípios fundamentais à educação e à produção de conhecimentos, permitindo uma integração efetiva entre os membros da comunidade escolar, a sociedade e o mundo do trabalho.
 
-- Diversidade humana e cultural; 
+## **2. ORGANIZAÇÃO DIDÁTICO-PEDAGÓGICA**
 
-- Inclusão social; 
+## 2.1 JUSTIFICATIVA
 
-- Empreendedorismo e inovação; 
+Paranavaí, cidade inserida na região Noroeste do Estado do Paraná, foi projetada e
 
-- Respeito às características regionais; 
+colonizada na década de 50 e tem ganhado destaque no contexto estadual e nacional. Ocupa uma posição geográfica de destaque, com distância aproximada de 80 Km dos municípios de Maringá, Cianorte e Loanda. A população atual de Paranavaí é superior a 81.000 habitantes, sendo que aproximadamente 20.000 estão matriculados em seus 65 estabelecimentos de ensino regular, especial e EJA (IPARDES, 2017).
 
-- Democracia e transparência. 
+Paranavaí tornou-se sede de uma microrregião que possui uma população estimada de, aproximadamente, 286.000 habitantes. Essa microrregião é representada pela Amunpar (Associação dos Municípios do Noroeste Paranaense), cuja localização geográfica é expressa no mapa a seguir.
 
-O Instituto, com base em seu compromisso social, que se evidencia na missão, na visão e nos valores institucionais, propõe-se a ofertar uma formação sólida, apoiada na ética e nos valores democráticos como princípios fundamentais à educação e à produção de conhecimentos, permitindo uma integração efetiva entre os membros da comunidade escolar, a sociedade e o mundo do trabalho. 
+Figura 3 - Mapa da região da Amunpar (Fonte: Amunpar – http://www.amunpar.com.br/).
 
-## **2. ORGANIZAÇÃO DIDÁTICO-PEDAGÓGICA** 
+Segundo o censo realizado pelo IBGE (2010), em termos de população, os municípios da região apresentam as seguintes características:
 
-## 2.1 JUSTIFICATIVA 
-
-Paranavaí, cidade inserida na região Noroeste do Estado do Paraná, foi projetada e 
-
-27 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-colonizada na década de 50 e tem ganhado destaque no contexto estadual e nacional. Ocupa uma posição geográfica de destaque, com distância aproximada de 80 Km dos municípios de Maringá, Cianorte e Loanda. A população atual de Paranavaí é superior a 81.000 habitantes, sendo que aproximadamente 20.000 estão matriculados em seus 65 estabelecimentos de ensino regular, especial e EJA (IPARDES, 2017). 
-
-Paranavaí tornou-se sede de uma microrregião que possui uma população estimada de, aproximadamente, 286.000 habitantes. Essa microrregião é representada pela Amunpar (Associação dos Municípios do Noroeste Paranaense), cuja localização geográfica é expressa no mapa a seguir. 
-
-**==> picture [331 x 212] intentionally omitted <==**
-
-Figura 3 - Mapa da região da Amunpar (Fonte: Amunpar – http://www.amunpar.com.br/). 
-
-Segundo o censo realizado pelo IBGE (2010), em termos de população, os municípios da região apresentam as seguintes características: 
-
-Quadro - População dos Municípios da AMUNPAR segundo o IBGE (2010). 
+Quadro - População dos Municípios da AMUNPAR segundo o IBGE (2010).
 
 |||
 |---|---|
@@ -777,12 +638,6 @@ Quadro - População dos Municípios da AMUNPAR segundo o IBGE (2010).
 |||
 |DIAMANTE DO NORTE|5.485|
 |||
-
-
-
-28 
-
-**==> picture [472 x 55] intentionally omitted <==**
 
 |||
 |---|---|
@@ -840,12 +695,6 @@ Quadro - População dos Municípios da AMUNPAR segundo o IBGE (2010).
 |SANTA MÔNICA|3.547|
 |||
 
-
-
-29 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |||
 |---|---|
 |SANTO ANTÔNIO DO CAIUÁ|2.719|
@@ -869,39 +718,29 @@ Quadro - População dos Municípios da AMUNPAR segundo o IBGE (2010).
 |**TOTAL:  28 municípios**|**259.061**|
 |||
 
+O Instituto Federal do Paraná, para atender as demandas dos cidadãos, do mundo de trabalho e da sociedade de Paranavaí e região, iniciou a oferta de cursos técnicos, na área de informática, em 2010, com o curso Técnico em Informática, na modalidade Subsequente. Em 2011, além da modalidade subsequente, iniciou-se nova turma também com a modalidade Concomitante. Como evolução, no ano de 2012 manteve-se turmas do curso Subsequente e iniciou-se a oferta do curso na forma Integrada ao Ensino Médio.
 
+A procura por cursos de Informática no campus, especialmente cursos ofertados pelo Programa Nacional de Acesso ao Ensino Técnico e Emprego (PRONATEC), demonstra que cursos de informática na região de Paranavaí têm grande demanda e interesse pela população concluintes do ensino médio.
 
-O Instituto Federal do Paraná, para atender as demandas dos cidadãos, do mundo de trabalho e da sociedade de Paranavaí e região, iniciou a oferta de cursos técnicos, na área de informática, em 2010, com o curso Técnico em Informática, na modalidade Subsequente. Em 2011, além da modalidade subsequente, iniciou-se nova turma também com a modalidade Concomitante. Como evolução, no ano de 2012 manteve-se turmas do curso Subsequente e iniciou-se a oferta do curso na forma Integrada ao Ensino Médio. 
+O curso superior de Tecnologia em Análise e Desenvolvimento de Sistemas veio em consonância com os princípios dos Institutos Federais, sendo a verticalização do ensino na área de Informática o principal motivador para a oferta do curso, bem como o resultado da Chamada Pública realizada no ano de 2012 onde cursos de Informática se destacaram entre os cursos mais solicitados pelos estudantes e comunidade.
 
-A procura por cursos de Informática no campus, especialmente cursos ofertados pelo Programa Nacional de Acesso ao Ensino Técnico e Emprego (PRONATEC), demonstra que cursos de informática na região de Paranavaí têm grande demanda e interesse pela população concluintes do ensino médio. 
+Porém, segundo indicadores, a demanda por profissionais mais qualificados na área de Engenharia de Software tende a crescer nos próximos anos. Sendo assim, o curso de Tecnologia em Análise e Desenvolvimento de Sistemas ofertado no campus desde 2014 pode não ser o mais adequado para formar os profissionais que vão contribuir com o futuro da indústria paranaense e da região. Por exemplo, conforme apontado pelo Observatório Regional do IFPR (IFPR, 2015), o sistema Fiep indica que o setor de Tecnologia da Informação e Comunicação está entre os setores portadores de futuro para o estado do Paraná (FIEP, 2016). Ademais, pensando nos perfis profissionais para o futuro da indústria paranaense, as profissões ligadas à tecnologia da informação e comunicação - tal como a profissão de Engenheiro de Software - estão dentro dos 12 perfis mais importantes para o futuro da indústria paranaense (FIEP, 2014). Isso significa que
 
-O curso superior de Tecnologia em Análise e Desenvolvimento de Sistemas veio em consonância com os princípios dos Institutos Federais, sendo a verticalização do ensino na área de Informática o principal motivador para a oferta do curso, bem como o resultado da Chamada Pública realizada no ano de 2012 onde cursos de Informática se destacaram entre os cursos mais solicitados pelos estudantes e comunidade. 
+a indústria de tecnologia da informação e comunicação está em crescimento no estado do Paraná e que, portanto, serão necessários cada vez mais profissionais qualificados para atuar nessa indústria.
 
-Porém, segundo indicadores, a demanda por profissionais mais qualificados na área de Engenharia de Software tende a crescer nos próximos anos. Sendo assim, o curso de Tecnologia em Análise e Desenvolvimento de Sistemas ofertado no campus desde 2014 pode não ser o mais adequado para formar os profissionais que vão contribuir com o futuro da indústria paranaense e da região. Por exemplo, conforme apontado pelo Observatório Regional do IFPR (IFPR, 2015), o sistema Fiep indica que o setor de Tecnologia da Informação e Comunicação está entre os setores portadores de futuro para o estado do Paraná (FIEP, 2016). Ademais, pensando nos perfis profissionais para o futuro da indústria paranaense, as profissões ligadas à tecnologia da informação e comunicação - tal como a profissão de Engenheiro de Software - estão dentro dos 12 perfis mais importantes para o futuro da indústria paranaense (FIEP, 2014). Isso significa que 
+Além disso, estudos realizados em um contexto global também têm apontado uma grande demanda por profissionais de engenharia de software. Por exemplo, um estudo realizado pela empresa de recrutamento Michael Page aponta que a profissão de Engenheiro de Software é, atualmente, a profissão com maior demanda no mundo (Michael Page, 2017). Profissionais qualificados de engenharia de software são necessários em países como Inglaterra, Alemanha, França e Brasil.
 
-30 
+Todos os indicadores supracitados corroboram para justificar a criação de um curso de Bacharelado em Engenharia de Software no IFPR campus Paranavaí. De acordo com o PPI, a esse respeito, assume-se a necessidade de fomentar a construção de propostas que abarquem essa importante oportunidade dos trabalhadores.
 
-**==> picture [472 x 55] intentionally omitted <==**
+A Lei no 9.394, de 20 de dezembro de 1996, em seu Art. 43, Capítulo IV, atesta que os cursos superiores têm o papel de, dentre outras coisas, formar diplomados nas diferentes áreas de conhecimento, aptos para a inserção em setores profissionais e para a participação no desenvolvimento da sociedade brasileira, e colaborar na sua formação contínua; estimular o conhecimento dos problemas do mundo presente, em particular os nacionais e regionais, prestar serviços especializados à comunidade e estabelecer com esta uma relação de reciprocidade; e promover a extensão, aberta à participação da população, visando à difusão das conquistas e benefícios resultantes da criação cultural e da pesquisa científica e tecnológica geradas na instituição. Nesse sentido, o curso de Bacharelado Engenharia de Software tem o potencial de contribuir com o desenvolvimento da região de Paranavaí, formando profissionais capazes de atuar no setor de tecnologia da informação e comunicação, resolvendo problemas pertinentes para a população.
 
-a indústria de tecnologia da informação e comunicação está em crescimento no estado do Paraná e que, portanto, serão necessários cada vez mais profissionais qualificados para atuar nessa indústria. 
+Na região de Paranavaí, cursos superiores da área de informática são ofertados por duas instituições de ensino privadas, a saber: Universidade Paranaense (UNIPAR) com o curso de Sistemas de Informação e pela Faculdade de Tecnologia e Ciência do Norte do Paraná (FATECIE) com o curso de Tecnologia em Sistemas para a Internet, além do próprio Instituto Federal do Paraná (IFPR) com o curso de Tecnologia em Análise e Desenvolvimento de Sistemas. Em Maringá, cidade com distância de 80 quilômetros, cinco Instituições de Ensino Superior oferecem cursos na área de informática. O Centro Universitário de Maringá (UniCesumar) oferece os cursos de Tecnologia em Análise e Desenvolvimento de Sistemas, Tecnologia em Redes de Computadores, Tecnologia em Sistemas para a Internet, Tecnologia em Jogos Digitais e Bacharelado em Engenharia de Software. A Faculdade Cidade Verde (FCV) oferece o curso de Tecnologia em Análise e Desenvolvimento de Sistemas. A Faculdade Metropolitana de Maringá (UNIFAMMA) possui os cursos de Bacharelado em Engenharia de Software e em Sistemas de Informação. O Centro Universitário Ingá (Uningá) possui o curso de Bacharelado em Ciência da Computação, que é oferecido nos períodos matutino e noturno. Por fim, a Faculdade de Engenharias e Arquitetura (FEITEP) possui o curso de Engenharia de Computação. Todos estes cursos citados são ofertados de forma particular com alto custo aos moradores de Paranavaí e região. Ainda em Maringá, a Universidade Estadual do Paraná (UEM) oferta cursos gratuitos de Bacharelado em Ciência da Computação, Bacharelado em Informática e Engenharia de Produção com ênfase em Software, todos com cinco anos de duração.
 
-Além disso, estudos realizados em um contexto global também têm apontado uma grande demanda por profissionais de engenharia de software. Por exemplo, um estudo realizado pela empresa de recrutamento Michael Page aponta que a profissão de Engenheiro de Software é, atualmente, a profissão com maior demanda no mundo (Michael Page, 2017). Profissionais qualificados de engenharia de software são necessários em países como Inglaterra, Alemanha, França e Brasil. 
+Contando com diversas empresas de Tecnologia da Informação em Paranavaí e Região, aliada com mercado promissor e em contínua expansão, bem como a falta de oferta de cursos de Engenharia de Software em instituições públicas da região, é importante que o Instituto Federal do Paraná (IFPR) – Campus Paranavaí o ofereça para suprir a demanda de profissionais para a área de Engenharia de Software, bem como para a área de Tecnologia da Informação e Comunicação como um todo, possibilitando aos seus estudantes ensino de qualidade e gratuito em instituição pública federal e se consolidando no cenário regional e nacional como formadora de profissionais altamente capacitados.
 
-Todos os indicadores supracitados corroboram para justificar a criação de um curso de Bacharelado em Engenharia de Software no IFPR campus Paranavaí. De acordo com o PPI, a esse respeito, assume-se a necessidade de fomentar a construção de propostas que abarquem essa importante oportunidade dos trabalhadores. 
+Com base em dados coletados pela internet, na tabela abaixo listamos as principais empresas da região que atuam na área de Engenharia de Software:
 
-A Lei no 9.394, de 20 de dezembro de 1996, em seu Art. 43, Capítulo IV, atesta que os cursos superiores têm o papel de, dentre outras coisas, formar diplomados nas diferentes áreas de conhecimento, aptos para a inserção em setores profissionais e para a participação no desenvolvimento da sociedade brasileira, e colaborar na sua formação contínua; estimular o conhecimento dos problemas do mundo presente, em particular os nacionais e regionais, prestar serviços especializados à comunidade e estabelecer com esta uma relação de reciprocidade; e promover a extensão, aberta à participação da população, visando à difusão das conquistas e benefícios resultantes da criação cultural e da pesquisa científica e tecnológica geradas na instituição. Nesse sentido, o curso de Bacharelado Engenharia de Software tem o potencial de contribuir com o desenvolvimento da região de Paranavaí, formando profissionais capazes de atuar no setor de tecnologia da informação e comunicação, resolvendo problemas pertinentes para a população. 
-
-Na região de Paranavaí, cursos superiores da área de informática são ofertados por duas instituições de ensino privadas, a saber: Universidade Paranaense (UNIPAR) com o curso de Sistemas de Informação e pela Faculdade de Tecnologia e Ciência do Norte do Paraná (FATECIE) com o curso de Tecnologia em Sistemas para a Internet, além do próprio Instituto Federal do Paraná (IFPR) com o curso de Tecnologia em Análise e Desenvolvimento de Sistemas. Em Maringá, cidade com distância de 80 quilômetros, cinco Instituições de Ensino Superior oferecem cursos na área de informática. O Centro Universitário de Maringá (UniCesumar) oferece os cursos de Tecnologia em Análise e Desenvolvimento de Sistemas, Tecnologia em Redes de Computadores, Tecnologia em Sistemas para a Internet, Tecnologia em Jogos Digitais e Bacharelado em Engenharia de Software. A Faculdade Cidade Verde (FCV) oferece o curso de Tecnologia em Análise e Desenvolvimento de Sistemas. A Faculdade Metropolitana de Maringá (UNIFAMMA) possui os cursos de Bacharelado em Engenharia de Software e em Sistemas de Informação. O Centro Universitário Ingá (Uningá) possui o curso de Bacharelado em Ciência da Computação, que é oferecido nos períodos matutino e noturno. Por fim, a Faculdade de Engenharias e Arquitetura (FEITEP) possui o curso de Engenharia de Computação. Todos estes cursos citados são ofertados de forma particular com alto custo aos moradores de Paranavaí e região. Ainda em Maringá, a Universidade Estadual do Paraná (UEM) oferta cursos gratuitos de Bacharelado em Ciência da Computação, Bacharelado em Informática e Engenharia de Produção com ênfase em Software, todos com cinco anos de duração. 
-
-31 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-Contando com diversas empresas de Tecnologia da Informação em Paranavaí e Região, aliada com mercado promissor e em contínua expansão, bem como a falta de oferta de cursos de Engenharia de Software em instituições públicas da região, é importante que o Instituto Federal do Paraná (IFPR) – Campus Paranavaí o ofereça para suprir a demanda de profissionais para a área de Engenharia de Software, bem como para a área de Tecnologia da Informação e Comunicação como um todo, possibilitando aos seus estudantes ensino de qualidade e gratuito em instituição pública federal e se consolidando no cenário regional e nacional como formadora de profissionais altamente capacitados. 
-
-Com base em dados coletados pela internet, na tabela abaixo listamos as principais empresas da região que atuam na área de Engenharia de Software: 
-
-Quadro - Empresas da região de Paranavaí que atuam na área de Engenharia de Software. 
+Quadro - Empresas da região de Paranavaí que atuam na área de Engenharia de Software.
 
 |||
 |---|---|
@@ -918,12 +757,6 @@ Quadro - Empresas da região de Paranavaí que atuam na área de Engenharia de S
 |Atual Sistemas|Maringá-PR|
 |B5S Tecnologia|Maringá-PR|
 |Benner Solution|Maringá-PR|
-
-
-
-32 
-
-**==> picture [472 x 55] intentionally omitted <==**
 
 |||
 |---|---|
@@ -946,12 +779,6 @@ Quadro - Empresas da região de Paranavaí que atuam na área de Engenharia de S
 |Process|Maringá-PR|
 |Produtec|Maringá-PR|
 
-
-
-33 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |||
 |---|---|
 |Publisoft|Maringá-PR|
@@ -965,83 +792,67 @@ Quadro - Empresas da região de Paranavaí que atuam na área de Engenharia de S
 |Vsell TI|Maringá-PR|
 |ZZTech Tecnologia e Sistemas|Maringá-PR|
 
+Além das empresas que atuam diretamente com Engenharia de Software, existem diversas outras empresas e indústrias na região de Paranavaí que possuem setores de TI (Tecnologia da Informação), onde os profissionais de Engenharia de Software também podem atuar. Por fim, a região de Paranavaí conta com o APL (Arranjo Produtivo Local) de Software de Maringá e com a Incubadora Tecnológica de Maringá, iniciativas que direta ou indiretamente têm fomentado a demanda por profissionais de engenharia de software.
 
+Para finalizar, ressaltamos que além de todas as informações apresentadas anteriormente, o curso de Bacharelado em Engenharia de Software também é apoiado por associações e órgãos públicos de Paranavaí e região. Os ofícios de apoio à abertura do curso foram enviados juntamente com a Proposta de Abertura de Curso (PAC) vinculada à este PPC.
 
-Além das empresas que atuam diretamente com Engenharia de Software, existem diversas outras empresas e indústrias na região de Paranavaí que possuem setores de TI (Tecnologia da Informação), onde os profissionais de Engenharia de Software também podem atuar. Por fim, a região de Paranavaí conta com o APL (Arranjo Produtivo Local) de Software de Maringá e com a Incubadora Tecnológica de Maringá, iniciativas que direta ou indiretamente têm fomentado a demanda por profissionais de engenharia de software. 
+## 2.2 OBJETIVOS
 
-Para finalizar, ressaltamos que além de todas as informações apresentadas anteriormente, o curso de Bacharelado em Engenharia de Software também é apoiado por associações e órgãos públicos de Paranavaí e região. Os ofícios de apoio à abertura do curso foram enviados juntamente com a Proposta de Abertura de Curso (PAC) vinculada à este PPC. 
+## **2.2.1 Objetivo Geral**
 
-## 2.2 OBJETIVOS 
+O objetivo geral do Curso de Bacharelado em Engenharia de Software do Instituto Federal do Paraná, campus Paranavaí é formar profissionais qualificados para - de maneira
 
-## **2.2.1 Objetivo Geral** 
+sistemática, controlada, eficaz e eficiente - elicitar, documentar, projetar, validar, implantar e manter sistemas de software de alta qualidade, que levem em consideração questões éticas, sociais, legais e econômicas.
 
-O objetivo geral do Curso de Bacharelado em Engenharia de Software do Instituto Federal do Paraná, campus Paranavaí é formar profissionais qualificados para - de maneira 
+Almeja-se um profissional competente, empreendedor, ético, consciente do seu papel social e de sua contribuição para o avanço tecnológico do mundo do trabalho, que seja capaz de respeitar as diferenças individuais, além de saber produzir a tecnologia em benefício de uma melhor qualidade de vida.
 
-34 
+## **2.2.2 Objetivos Específicos**
 
-**==> picture [472 x 55] intentionally omitted <==**
+Para que as premissas básicas sejam atendidas de forma completa, o curso de Bacharelado em Engenharia de Software do Instituto Federal do Paraná, campus Paranavaí buscará alcançar os seguintes objetivos específicos:
 
-sistemática, controlada, eficaz e eficiente - elicitar, documentar, projetar, validar, implantar e manter sistemas de software de alta qualidade, que levem em consideração questões éticas, sociais, legais e econômicas. 
+- Desenvolver a visão estratégica para formar profissionais competentes, éticos e com espírito empreendedor, capazes de perceber mudanças e inovar, atuando como agentes de sua própria história e da comunidade onde se inserem.
 
-Almeja-se um profissional competente, empreendedor, ético, consciente do seu papel social e de sua contribuição para o avanço tecnológico do mundo do trabalho, que seja capaz de respeitar as diferenças individuais, além de saber produzir a tecnologia em benefício de uma melhor qualidade de vida. 
+- Promover o desenvolvimento de conhecimentos imprescindíveis à atuação profissional, tais como: elicitar, projetar, validar, implantar e manter aplicações de software, além de administrar e padronizar respectivas especificações e documentos, podendo ser realizado de forma individual ou em equipe atuando tanto no âmbito técnico como gerencial, permitindo a sua aplicação na resolução de problemas.
 
-## **2.2.2 Objetivos Específicos** 
+- Desenvolver habilidades para atuar em equipe e de forma interativa, em prol dos objetivos comuns e compreensão da complementaridade das ações coletivas, promovendo a interação dos recursos humanos com os recursos computacionais por meio da coleta, armazenamento, recuperação e distribuição das informações com a eficiência gerencial.
 
-Para que as premissas básicas sejam atendidas de forma completa, o curso de Bacharelado em Engenharia de Software do Instituto Federal do Paraná, campus Paranavaí buscará alcançar os seguintes objetivos específicos: 
+- Formar profissionais com sólidos conhecimentos teóricos e práticos, voltados à apropriação, à utilização e à integralização de tecnologias da área de informática, a partir de um currículo centrado no desenvolvimento de competências e habilidades em um ambiente pedagógico caracterizado pela adoção de alternativas metodológicas dinâmicas e ativas, onde o estudante é o protagonista do seu próprio aprendizado.
 
-- Desenvolver a visão estratégica para formar profissionais competentes, éticos e com espírito empreendedor, capazes de perceber mudanças e inovar, atuando como agentes de sua própria história e da comunidade onde se inserem. 
+- Propiciar ao estudante capacidade de adaptação, com flexibilidade, frente às constantes transformações ocorridas na Sociedade da Tecnologia da Informação e no mundo do trabalho, despertando seu interesse para o exercício do raciocínio reflexivo, crítico, analítico e lógico que possa ser utilizado na formulação de soluções de problemas práticos e reais no mundo do trabalho.
 
-- Promover o desenvolvimento de conhecimentos imprescindíveis à atuação profissional, tais como: elicitar, projetar, validar, implantar e manter aplicações de software, além de administrar e padronizar respectivas especificações e documentos, podendo ser realizado de forma individual ou em equipe atuando tanto no âmbito técnico como gerencial, permitindo a sua aplicação na resolução de problemas. 
+- Capacitar profissionais da área em níveis de maiores eficiência e eficácia, fornecendo assim as bases teóricas e práticas necessárias à compreensão da área de Engenharia de Software, visando promover o conhecimento das ferramentas computacionais, equipamentos de informática e metodologia de projetos na produção de sistemas.
 
-- Desenvolver habilidades para atuar em equipe e de forma interativa, em prol dos objetivos comuns e compreensão da complementaridade das ações coletivas, promovendo a interação dos recursos humanos com os recursos computacionais por meio da coleta, armazenamento, recuperação e distribuição das informações com a eficiência gerencial. 
+## 2.3 CONCEPÇÃO DO CURSO
 
-- Formar profissionais com sólidos conhecimentos teóricos e práticos, voltados à apropriação, à utilização e à integralização de tecnologias da área de informática, a partir de um currículo centrado no desenvolvimento de competências e habilidades em um ambiente pedagógico caracterizado pela adoção de alternativas metodológicas dinâmicas e ativas, onde o estudante é o protagonista do seu próprio aprendizado. 
+O termo “Engenharia de Software” como é conhecido, foi cunhado e usado pela primeira vez pelo professor Friedrich Ludwig Bauer em 1968 na primeira conferência dedicada ao assunto patrocinada pelo NATO Science Committee (Naur, 1969). Seu surgimento decorreu da análise feita na época sobre as condições da indústria de software que estava entrando em um período crítico de colapso conhecido pela alcunha de “crise do software” com início em meados da década de 1960, quando os programas existentes se tornaram difíceis de serem mantidos, estendendo-se até o final da década de 1970 (Pressman, 1995). A crise de software surgiu quando as dificuldades relacionadas ao desenvolvimento do software começaram a ser mais graves, principalmente no aumento das demandas e da complexidade que o software passava a ter, frente a inexistência de técnicas adequadas para resolver tais desafios (Engholm Jr, 2010). Foi a partir desta lacuna que os princípios da Engenharia de Software tomaram forma e passou-se a considerar o que apregoava Bauer, o software passou a partir de então a ser visto como um produto e como tal necessita ser desenvolvido a partir de critérios de produção acentuados na busca de sua qualidade, custo adequado e entregue dentro dos prazos prometidos (Pressman, 1995).
 
-- Propiciar ao estudante capacidade de adaptação, com flexibilidade, frente às constantes transformações ocorridas na Sociedade da Tecnologia da Informação e no mundo do trabalho, despertando seu interesse para o exercício do raciocínio reflexivo, crítico, analítico e lógico que possa ser utilizado na formulação de soluções de problemas práticos e reais no mundo do trabalho. 
+A Engenharia de Software foca sua preocupação em manter o controle sobre todas as fases do processo de desenvolvimento do software por meio de métricas voltadas ao controle produtivo dessas aplicações. Para tanto, deve ser estabelecido e usado sólidos princípios de engenharia para que se possa obter economicamente um software que seja confiável e que funcione eficientemente em máquina reais.
 
-- Capacitar profissionais da área em níveis de maiores eficiência e eficácia, fornecendo assim as bases teóricas e práticas necessárias à compreensão da área de Engenharia de Software, visando promover o conhecimento das ferramentas computacionais, equipamentos de informática e metodologia de projetos na produção de sistemas. 
+No Brasil, a área de Engenharia de Software está presente, como disciplina, em praticamente todos os currículos dos cursos da área de computação. As Diretrizes Curriculares de 1999 não incluíram a Engenharia de Software como curso porque a área ainda não estava consolidada, nem mesmo nos Estados Unidos. Em 2004, a ACM (sigla do inglês - _Association for Computing Machinery_ ) lançou as primeiras diretrizes dos cursos de Engenharia de Software (ACM, 2004) e uma nova versão, mais recentemente, em 2015 (ACM, 2015). Considerando a área consolidada, o Conselho Nacional de Educação (CNE) incluiu o curso de Engenharia de Software nas Diretrizes Curriculares Nacionais da área de Computação, aprovadas pelo CNE em 2012 (MEC, 2012) e homologadas pelo Ministro da Educação em 2016 (MEC, 2016).
 
-## 2.3 CONCEPÇÃO DO CURSO 
+Possivelmente, a área de Engenharia de Software é uma das áreas mais avançadas no país, sendo que o I Simpósio de Engenharia de Software (SBES) ocorreu em 1987. Devido ao enorme crescimento da área, em 2010 foi criado o Congresso Brasileiro de Software (CBSoft), mantido o SBES como um dos eventos principais.
 
-**==> picture [472 x 55] intentionally omitted <==**
+A necessidade de transição do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas para o curso de Bacharelado Engenharia de Software foi concebida com o intuito de realinhar e ajustar a formação do conhecimento de profissionais da área de informática em conceitos, métodos, tecnologia e processos mais apurados, mantendo a consonância com a própria evolução da informática no Brasil e na região.
 
-O termo “Engenharia de Software” como é conhecido, foi cunhado e usado pela primeira vez pelo professor Friedrich Ludwig Bauer em 1968 na primeira conferência dedicada ao assunto patrocinada pelo NATO Science Committee (Naur, 1969). Seu surgimento decorreu da análise feita na época sobre as condições da indústria de software que estava entrando em um período crítico de colapso conhecido pela alcunha de “crise do software” com início em meados da década de 1960, quando os programas existentes se tornaram difíceis de serem mantidos, estendendo-se até o final da década de 1970 (Pressman, 1995). A crise de software surgiu quando as dificuldades relacionadas ao desenvolvimento do software começaram a ser mais graves, principalmente no aumento das demandas e da complexidade que o software passava a ter, frente a inexistência de técnicas adequadas para resolver tais desafios (Engholm Jr, 2010). Foi a partir desta lacuna que os princípios da Engenharia de Software tomaram forma e passou-se a considerar o que apregoava Bauer, o software passou a partir de então a ser visto como um produto e como tal necessita ser desenvolvido a partir de critérios de produção acentuados na busca de sua qualidade, custo adequado e entregue dentro dos prazos prometidos (Pressman, 1995). 
+Conforme preconiza o Plano de Metas e Ações do IFPR Campus Paranavaí, o projeto pedagógico do curso, bem como a constituição do currículo, permanecem com a defesa da participação democrática e construção coletiva, sendo, portanto, elaborado com o apoio da Comissão de Estruturação de Curso, dos professores do Eixo de Informação e Comunicação, capitaneados pelos docentes do Núcleo Docente Estruturante.
 
-A Engenharia de Software foca sua preocupação em manter o controle sobre todas as fases do processo de desenvolvimento do software por meio de métricas voltadas ao controle produtivo dessas aplicações. Para tanto, deve ser estabelecido e usado sólidos princípios de engenharia para que se possa obter economicamente um software que seja confiável e que funcione eficientemente em máquina reais. 
+As primeiras discussões sobre a verticalização do curso superior datam de maio de 2016, conforme Ata nº 01/2016 do Núcleo Docente Estruturante do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas, e em junho de 2016, o assunto é apresentado ao Colegiado do mesmo curso. Já considerando o curso de Bacharelado em Engenharia de Software com um forte apelo nacional e regional, alguns professores realizaram uma visita técnica ao Campus Cornélio Procópio da UTFPR, com o intuito de conhecer as instalações, o formato da educação a distância e trocar experiências com professores e coordenadores. De lá para cá, inúmeras reuniões foram realizadas com o intuito de promover a construção coletiva do novo curso de graduação do eixo de Informação e Comunicação, de forma a atender o PDI (20142018) e ao Plano de Metas e Ações do IFPR – Campus Paranavaí.
 
-No Brasil, a área de Engenharia de Software está presente, como disciplina, em praticamente todos os currículos dos cursos da área de computação. As Diretrizes Curriculares de 1999 não incluíram a Engenharia de Software como curso porque a área ainda não estava consolidada, nem mesmo nos Estados Unidos. Em 2004, a ACM (sigla do inglês - _Association for Computing Machinery_ ) lançou as primeiras diretrizes dos cursos de Engenharia de Software (ACM, 2004) e uma nova versão, mais recentemente, em 2015 (ACM, 2015). Considerando a área consolidada, o Conselho Nacional de Educação (CNE) incluiu o curso de Engenharia de Software nas Diretrizes Curriculares Nacionais da área de Computação, aprovadas pelo CNE em 2012 (MEC, 2012) e homologadas pelo Ministro da Educação em 2016 (MEC, 2016). 
+No que se refere aos benefícios do curso para a sociedade, de acordo com as Diretrizes Curriculares Nacionais para os cursos de graduação em Computação (Parecer CNE/CES nº 136/2012):
 
-Possivelmente, a área de Engenharia de Software é uma das áreas mais avançadas no país, sendo que o I Simpósio de Engenharia de Software (SBES) ocorreu em 1987. Devido ao enorme crescimento da área, em 2010 foi criado o Congresso Brasileiro de Software (CBSoft), mantido o SBES como um dos eventos principais. 
+Todo usuário interage (via mouse, microfone, teclado, câmera, tela sensível, etc.) com o software e este, por sua vez, interage com o hardware dos computadores. O software desempenha um papel central em quase todos os aspectos da vida cotidiana, no governo, bancos e finanças, educação, transporte, entretenimento, medicina, agricultura, indústria e direito, entre outros. Softwares, inclusive, mantêm funcionando os vários serviços eletrônicos e programas sociais de larga escala dos governos, o fornecimento de energia elétrica, as redes de telecomunicações, os serviços de transporte aéreo, os caixas eletrônicos dos bancos, os cartões de crédito, as bolsas de valores e mercadorias, e muito mais. Os produtos de software têm ajudado a sociedade quanto à eficiência e à produtividade. Eles permitem solucionar problemas de forma mais eficaz e fornecem um ambiente muitas vezes, mais seguro, mais flexível e mais aberto. Os produtos de software estão entre os mais complexos dos sistemas artificiais, e software, por sua própria natureza, tem ainda propriedades essenciais intrínsecas (por exemplo, a complexidade, a invisibilidade e a mutabilidade), que não são fáceis de serem dominadas.
 
-A necessidade de transição do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas para o curso de Bacharelado Engenharia de Software foi concebida com o intuito de realinhar e ajustar a formação do conhecimento de profissionais da área de informática em conceitos, métodos, tecnologia e processos mais apurados, mantendo a consonância com a própria evolução da informática no Brasil e na região. 
+## Neste contexto, **o curso de Bacharelado em Engenharia de Software visa à formação de profissionais qualificados para a construção de software de qualidade para a Sociedade** .
 
-Conforme preconiza o Plano de Metas e Ações do IFPR Campus Paranavaí, o projeto pedagógico do curso, bem como a constituição do currículo, permanecem com a defesa da participação democrática e construção coletiva, sendo, portanto, elaborado com o apoio da Comissão de Estruturação de Curso, dos professores do Eixo de Informação e Comunicação, capitaneados pelos docentes do Núcleo Docente Estruturante. 
+O curso de Engenharia de Software a ser ofertado pelo IFPR - campus Paranavaí, tem como concepção uma matriz curricular moderna e convergente, que visa atender as demandas locais e regionais. Os componentes curriculares apresentados nos períodos iniciais são de formação básica e tecnológica progredindo gradualmente para as de conteúdos profissionalizantes e por fim para as específicas de domínio aplicadas à Engenharia de Software. É previsto o envolvimento dos estudantes nas Atividades Acadêmico-Científico-Culturais (ACC) (Atividades Complementares), bem como a integralização de horas de estágio curricular supervisionado obrigatório, que podem ser cumpridas no decorrer do curso.
 
-36 
+O curso de Engenharia Software busca preparar os estudantes para atuarem no desenvolvimento social e profissional nos diversos setores, tais como: produção de software, prestação de serviços de hardware e software, bem como também sendo empreendedor de seu
 
-**==> picture [472 x 55] intentionally omitted <==**
+próprio negócio, atuando em áreas de consultoria e projetos. Portanto, se propõe a formar profissionais éticos e preocupados com o desenvolvimento do país.
 
-As primeiras discussões sobre a verticalização do curso superior datam de maio de 2016, conforme Ata nº 01/2016 do Núcleo Docente Estruturante do Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas, e em junho de 2016, o assunto é apresentado ao Colegiado do mesmo curso. Já considerando o curso de Bacharelado em Engenharia de Software com um forte apelo nacional e regional, alguns professores realizaram uma visita técnica ao Campus Cornélio Procópio da UTFPR, com o intuito de conhecer as instalações, o formato da educação a distância e trocar experiências com professores e coordenadores. De lá para cá, inúmeras reuniões foram realizadas com o intuito de promover a construção coletiva do novo curso de graduação do eixo de Informação e Comunicação, de forma a atender o PDI (20142018) e ao Plano de Metas e Ações do IFPR – Campus Paranavaí. 
+O curso de Bacharelado em Engenharia de Software, em consonância com o Plano de Desenvolvimento Institucional (2014-2018), foi planejado para alinhar as ações com os objetivos estratégicos institucionais, investindo na promoção de parcerias com setor empresarial de referência no mercado, na produção de tecnologia, no processo de transferência de conhecimento e tecnologia e na educação a distância.
 
-No que se refere aos benefícios do curso para a sociedade, de acordo com as Diretrizes Curriculares Nacionais para os cursos de graduação em Computação (Parecer CNE/CES nº 136/2012): 
-
-Todo usuário interage (via mouse, microfone, teclado, câmera, tela sensível, etc.) com o software e este, por sua vez, interage com o hardware dos computadores. O software desempenha um papel central em quase todos os aspectos da vida cotidiana, no governo, bancos e finanças, educação, transporte, entretenimento, medicina, agricultura, indústria e direito, entre outros. Softwares, inclusive, mantêm funcionando os vários serviços eletrônicos e programas sociais de larga escala dos governos, o fornecimento de energia elétrica, as redes de telecomunicações, os serviços de transporte aéreo, os caixas eletrônicos dos bancos, os cartões de crédito, as bolsas de valores e mercadorias, e muito mais. Os produtos de software têm ajudado a sociedade quanto à eficiência e à produtividade. Eles permitem solucionar problemas de forma mais eficaz e fornecem um ambiente muitas vezes, mais seguro, mais flexível e mais aberto. Os produtos de software estão entre os mais complexos dos sistemas artificiais, e software, por sua própria natureza, tem ainda propriedades essenciais intrínsecas (por exemplo, a complexidade, a invisibilidade e a mutabilidade), que não são fáceis de serem dominadas. 
-
-## Neste contexto, **o curso de Bacharelado em Engenharia de Software visa à formação de profissionais qualificados para a construção de software de qualidade para a Sociedade** . 
-
-O curso de Engenharia de Software a ser ofertado pelo IFPR - campus Paranavaí, tem como concepção uma matriz curricular moderna e convergente, que visa atender as demandas locais e regionais. Os componentes curriculares apresentados nos períodos iniciais são de formação básica e tecnológica progredindo gradualmente para as de conteúdos profissionalizantes e por fim para as específicas de domínio aplicadas à Engenharia de Software. É previsto o envolvimento dos estudantes nas Atividades Acadêmico-Científico-Culturais (ACC) (Atividades Complementares), bem como a integralização de horas de estágio curricular supervisionado obrigatório, que podem ser cumpridas no decorrer do curso. 
-
-O curso de Engenharia Software busca preparar os estudantes para atuarem no desenvolvimento social e profissional nos diversos setores, tais como: produção de software, prestação de serviços de hardware e software, bem como também sendo empreendedor de seu 
-
-37 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-próprio negócio, atuando em áreas de consultoria e projetos. Portanto, se propõe a formar profissionais éticos e preocupados com o desenvolvimento do país. 
-
-O curso de Bacharelado em Engenharia de Software, em consonância com o Plano de Desenvolvimento Institucional (2014-2018), foi planejado para alinhar as ações com os objetivos estratégicos institucionais, investindo na promoção de parcerias com setor empresarial de referência no mercado, na produção de tecnologia, no processo de transferência de conhecimento e tecnologia e na educação a distância. 
-
-Tendo como um dos documentos norteadores do planejamento do curso o Plano de Metas e Ações do IFPR Campus Paranavaí (2016-2019), destacamos alguns objetivos, metas e ações que foram balizadores da presente proposição: 
+Tendo como um dos documentos norteadores do planejamento do curso o Plano de Metas e Ações do IFPR Campus Paranavaí (2016-2019), destacamos alguns objetivos, metas e ações que foram balizadores da presente proposição:
 
 |OBJETIVOS|METAS DO CAMPUS|AÇÕES DO NDE|
 |---|---|---|
@@ -1049,309 +860,263 @@ Tendo como um dos documentos norteadores do planejamento do curso o Plano de Met
 |Consolidar o recurso<br>humano do campus:|-Solicitar o quantitativo de enxoval<br>de servidores conforme as<br>necessidades específicas|Apresentação da demanda do curso de<br>Bacharelado em Engenharia de Software à<br>Direção Geral. Avaliação das habilidades e<br>competências do corpo docente atual para<br>definição de vaga.|
 |Incentivar a<br>pesquisa e extensão<br>no campus:|-Incentivar a participação ou<br>formação de grupos de pesquisa.|Criação e formalização do Grupo de<br>Pesquisas em Sistemas Computacionais:<br>Educação, Inovação e Aplicações.|
 
+A Educação Superior é concebida como importante estratégia para que os cidadãos tenham acesso às conquistas científicas e tecnológicas da sociedade, pois com o impacto que as novas tecnologias estão causando na vida cotidiana cresce a exigência por profissionais capazes de interagir em situações novas e em constante mutação.
 
+A Educação Superior requer além do domínio operacional de um determinado fazer, a compreensão global do processo produtivo, com a apreensão do saber tecnológico, a valorização da cultura do trabalho e a mobilização dos valores necessários às tomadas de decisões.
 
-A Educação Superior é concebida como importante estratégia para que os cidadãos tenham acesso às conquistas científicas e tecnológicas da sociedade, pois com o impacto que as novas tecnologias estão causando na vida cotidiana cresce a exigência por profissionais capazes de interagir em situações novas e em constante mutação. 
+A oferta do curso de Bacharelado Engenharia de Software pelo IFPR Campus Paranavaí respeita os objetivos previstos no PDI e no PPI, que incluem:
 
-A Educação Superior requer além do domínio operacional de um determinado fazer, a compreensão global do processo produtivo, com a apreensão do saber tecnológico, a valorização da cultura do trabalho e a mobilização dos valores necessários às tomadas de decisões. 
+- Democratizar a oferta do ensino público e de qualidade;
 
-38 
+- Promover a inclusão digital dos estudantes;
 
-**==> picture [472 x 55] intentionally omitted <==**
+- Promover a elevação do nível de escolarização nos municípios;
 
-A oferta do curso de Bacharelado Engenharia de Software pelo IFPR Campus Paranavaí respeita os objetivos previstos no PDI e no PPI, que incluem: 
+- Colaborar com a modernização da educação e facilitação do aprendizado;
 
-- Democratizar a oferta do ensino público e de qualidade; 
+- Promover a formação de cidadãos conscientes eticamente dos seus direitos e deveres, empreendedores, preparados para atuação pessoal e profissional.
 
-- Promover a inclusão digital dos estudantes; 
+## 2.4 PERFIL DO EGRESSO
 
-- Promover a elevação do nível de escolarização nos municípios; 
+Ao terminar o curso, o egresso estará apto a exercer sua atividade profissional com percepção da sua relevância para o exercício da cidadania, de sua capacidade de analisar e compreender a atual situação do país, buscando, por meio de estudo, investigação e atuação permanentes, novas alternativas de modernização e melhoria do Brasil.
 
-- Colaborar com a modernização da educação e facilitação do aprendizado; 
+Levando em consideração a flexibilidade necessária para atender domínios diversificados de aplicação e as vocações institucionais, segundo as diretrizes curriculares nacionais para cursos de computação, estabelecidas pela resolução CNE/CES nº 5, de 16 de novembro de 2016, espera-se dos egressos dos cursos de Bacharelado em Engenharia de Software que:
 
-- Promover a formação de cidadãos conscientes eticamente dos seus direitos e deveres, empreendedores, preparados para atuação pessoal e profissional. 
+I - possuam sólida formação em Ciência da Computação, Matemática e Produção, visando a criação de sistemas de software de alta qualidade de maneira sistemática, controlada, eficaz e eficiente que levem em consideração questões éticas, sociais, legais e econômicas;
 
-## 2.4 PERFIL DO EGRESSO 
+II - sejam capazes de criar soluções, individualmente ou em equipe, para problemas complexos caracterizados por relações entre domínios de conhecimento e de aplicação;
 
-Ao terminar o curso, o egresso estará apto a exercer sua atividade profissional com percepção da sua relevância para o exercício da cidadania, de sua capacidade de analisar e compreender a atual situação do país, buscando, por meio de estudo, investigação e atuação permanentes, novas alternativas de modernização e melhoria do Brasil. 
+III - sejam capazes de agir de forma reflexiva na construção de software, compreendendo o seu impacto direto ou indireto sobre as pessoas e a sociedade; IV - entendam o contexto social no qual a construção de Software é praticada, bem como os efeitos dos projetos de software na sociedade;
 
-Levando em consideração a flexibilidade necessária para atender domínios diversificados de aplicação e as vocações institucionais, segundo as diretrizes curriculares nacionais para cursos de computação, estabelecidas pela resolução CNE/CES nº 5, de 16 de novembro de 2016, espera-se dos egressos dos cursos de Bacharelado em Engenharia de Software que: 
+V - compreendam os aspectos econômicos e financeiros, associados a novos produtos e organizações;
 
-I - possuam sólida formação em Ciência da Computação, Matemática e Produção, visando a criação de sistemas de software de alta qualidade de maneira sistemática, controlada, eficaz e eficiente que levem em consideração questões éticas, sociais, legais e econômicas; 
+VI - reconheçam o caráter fundamental da inovação e da criatividade e compreendam as perspectivas de negócios e oportunidades relevantes.
 
-II - sejam capazes de criar soluções, individualmente ou em equipe, para problemas complexos caracterizados por relações entre domínios de conhecimento e de aplicação; 
+Além disso, é objetivo estratégico elencado no PDI (2014-2018) e nas diretrizes curriculares nacionais também estabelecem que o curso deve prover uma formação profissional que revele, pelo menos, as habilidades e competências para:
 
-III - sejam capazes de agir de forma reflexiva na construção de software, compreendendo o seu impacto direto ou indireto sobre as pessoas e a sociedade; IV - entendam o contexto social no qual a construção de Software é praticada, bem como os efeitos dos projetos de software na sociedade; 
+I - investigar, compreender e estruturar as características de domínios de aplicação em diversos contextos que levem em consideração questões éticas, sociais, legais e econômicas, individualmente e/ou em equipe;
 
-V - compreendam os aspectos econômicos e financeiros, associados a novos produtos e organizações; 
+II - compreender e aplicar processos, técnicas e procedimentos de construção, evolução e avaliação de software;
 
-VI - reconheçam o caráter fundamental da inovação e da criatividade e compreendam as perspectivas de negócios e oportunidades relevantes. 
+III - analisar e selecionar tecnologias adequadas para a construção de software; IV - conhecer os direitos e propriedades intelectuais inerentes à produção e utilização de software;
 
-Além disso, é objetivo estratégico elencado no PDI (2014-2018) e nas diretrizes curriculares nacionais também estabelecem que o curso deve prover uma formação profissional que revele, pelo menos, as habilidades e competências para: 
+V - avaliar a qualidade de sistemas de software;
 
-39 
+VI - integrar sistemas de software;
 
-**==> picture [472 x 55] intentionally omitted <==**
+VII - gerenciar projetos de software conciliando objetivos conflitantes, com limitações de custos, tempo e com análise de riscos;
 
-I - investigar, compreender e estruturar as características de domínios de aplicação em diversos contextos que levem em consideração questões éticas, sociais, legais e econômicas, individualmente e/ou em equipe; 
+VIII - aplicar adequadamente normas técnicas;
 
-II - compreender e aplicar processos, técnicas e procedimentos de construção, evolução e avaliação de software; 
+IX - qualificar e quantificar seu trabalho baseado em experiências e experimentos;
 
-III - analisar e selecionar tecnologias adequadas para a construção de software; IV - conhecer os direitos e propriedades intelectuais inerentes à produção e utilização de software; 
+X - exercer múltiplas atividades relacionadas a software como: desenvolvimento, evolução, consultoria, negociação, ensino e pesquisa;
 
-V - avaliar a qualidade de sistemas de software; 
+XI - conceber, aplicar e validar princípios, padrões e boas práticas no desenvolvimento de software;
 
-VI - integrar sistemas de software; 
+XII - analisar e criar modelos relacionados ao desenvolvimento de software;
 
-VII - gerenciar projetos de software conciliando objetivos conflitantes, com limitações de custos, tempo e com análise de riscos; 
+XIII - identificar novas oportunidades de negócios e desenvolver soluções inovadoras;
 
-VIII - aplicar adequadamente normas técnicas; 
+XIV - identificar e analisar problemas avaliando as necessidades dos clientes, especificar os requisitos de software, projetar, desenvolver, implementar, verificar e documentar soluções de software baseadas no conhecimento apropriado de teorias, modelos e técnicas.
 
-IX - qualificar e quantificar seu trabalho baseado em experiências e experimentos; 
+## **2.4.1 Áreas de Atuação do Egresso**
 
-X - exercer múltiplas atividades relacionadas a software como: desenvolvimento, evolução, consultoria, negociação, ensino e pesquisa; 
+Não há uma regulamentação que determine as profissões que o Bacharel em Engenharia de Software possa exercer. Portanto, o mercado de trabalho para os egressos do curso é bastante amplo, permitindo que eles atuem tanto no desenvolvimento de software, como também na gerência de projetos de software. Dentro do mercado de trabalho para os egressos do curso, destacam-se os cargos de Engenheiro de Software, Gerente de Projetos, Arquiteto de Software, Analista de Sistemas, Programador e Responsável por Testes Automatizados.
 
-XI - conceber, aplicar e validar princípios, padrões e boas práticas no desenvolvimento de software; 
+Segundo levantamento realizado pela revista Guia do Estudante (2017):
 
-XII - analisar e criar modelos relacionados ao desenvolvimento de software; 
+O Brasil é o oitavo país no ranking mundial de desenvolvedores, fabricantes e distribuidores de softwares, movimentando cerca de 27 bilhões de dólares apenas com o mercado interno. Esse cenário mantém o setor aquecido para os engenheiros. O uso massivo de celulares e tablets pela população brasileira também eleva a busca por profissionais aptos a lidar com esses sistemas. Neste caso, o engenheiro de software é contratado para desenvolver jogos e outros aplicativos, que se tornaram uma ferramenta importante de negócio. Há algum
 
-XIII - identificar novas oportunidades de negócios e desenvolver soluções inovadoras; 
+tempo, as empresas passaram a utilizar os aplicativos para oferecer serviços aos consumidores e, assim, elevar suas vendas. O principal mercado para o profissional são os polos de tecnologia da Região Sudeste, além do Porto digital, em Recife (PE).  A demanda internacional por esse engenheiro também é grande. Neste caso, ele precisa ter bom domínio do inglês.
 
-XIV - identificar e analisar problemas avaliando as necessidades dos clientes, especificar os requisitos de software, projetar, desenvolver, implementar, verificar e documentar soluções de software baseadas no conhecimento apropriado de teorias, modelos e técnicas. 
+## **2.4.2 Acompanhamento de Egressos**
 
-## **2.4.1 Áreas de Atuação do Egresso** 
+O acompanhamento dos egressos ocorrerá em parceria com a sociedade e o setor produtivo, de acordo com o Plano de Desenvolvimento Institucional, visando a construção e difusão de conhecimentos para o desenvolvimento sustentável, possibilitando aos egressos uma formação profissional continuada, desde os níveis de ensino médio técnico, passando pelo ensino superior, até a Pós-graduação. O que permitirá aos estudantes qualificação profissional de qualidade para inseri-los no mercado de trabalho de maneira qualificada (IFPR, 2017).
 
-Não há uma regulamentação que determine as profissões que o Bacharel em Engenharia de Software possa exercer. Portanto, o mercado de trabalho para os egressos do curso é bastante amplo, permitindo que eles atuem tanto no desenvolvimento de software, como também na gerência de projetos de software. Dentro do mercado de trabalho para os egressos do curso, destacam-se os cargos de Engenheiro de Software, Gerente de Projetos, Arquiteto de Software, Analista de Sistemas, Programador e Responsável por Testes Automatizados. 
+O acompanhamento do egresso se faz pelo Sistema de Acompanhamento Permanente de Egressos, e é uma ferramenta importante, que possui vários objetivos:
 
-Segundo levantamento realizado pela revista Guia do Estudante (2017): 
+- Verificar a empregabilidade;
 
-O Brasil é o oitavo país no ranking mundial de desenvolvedores, fabricantes e distribuidores de softwares, movimentando cerca de 27 bilhões de dólares apenas com o mercado interno. Esse cenário mantém o setor aquecido para os engenheiros. O uso massivo de celulares e tablets pela população brasileira também eleva a busca por profissionais aptos a lidar com esses sistemas. Neste caso, o engenheiro de software é contratado para desenvolver jogos e outros aplicativos, que se tornaram uma ferramenta importante de negócio. Há algum 
+- Investigar a atuação dos estudantes recém-formados no mundo do trabalho, se estão exercendo atividades na sua área de graduação;
 
-40 
+- ● Levantar dados em relação à formação continuada;
 
-**==> picture [472 x 55] intentionally omitted <==**
+- Obter informações sobre a opinião dos egressos acerca da qualidade do curso de Bacharelado em Engenharia de Software;
 
-tempo, as empresas passaram a utilizar os aplicativos para oferecer serviços aos consumidores e, assim, elevar suas vendas. O principal mercado para o profissional são os polos de tecnologia da Região Sudeste, além do Porto digital, em Recife (PE).  A demanda internacional por esse engenheiro também é grande. Neste caso, ele precisa ter bom domínio do inglês. 
+- ● Possibilitar o conhecimento das dificuldades do egresso para a integração no mercado trabalho;
 
-## **2.4.2 Acompanhamento de Egressos** 
+- Manter a comunicação entre os ex-estudantes e a Instituição;
 
-O acompanhamento dos egressos ocorrerá em parceria com a sociedade e o setor produtivo, de acordo com o Plano de Desenvolvimento Institucional, visando a construção e difusão de conhecimentos para o desenvolvimento sustentável, possibilitando aos egressos uma formação profissional continuada, desde os níveis de ensino médio técnico, passando pelo ensino superior, até a Pós-graduação. O que permitirá aos estudantes qualificação profissional de qualidade para inseri-los no mercado de trabalho de maneira qualificada (IFPR, 2017). 
+- ● Verificar a visão do aluno em relação à qualidade do curso ofertado e os ajustes necessários;
 
-O acompanhamento do egresso se faz pelo Sistema de Acompanhamento Permanente de Egressos, e é uma ferramenta importante, que possui vários objetivos: 
+- Levantar as principais dificuldades encontradas pelo egresso durante o curso e especialmente após a sua formação para obtenção de emprego;
 
-- Verificar a empregabilidade; 
+- ● Verificar o grau de empregabilidade dos recém-formados;
 
-- Investigar a atuação dos estudantes recém-formados no mundo do trabalho, se estão exercendo atividades na sua área de graduação; 
+- Levantar as necessidades de qualificação profissional dos ex-alunos;
 
-- ● Levantar dados em relação à formação continuada; 
+- Utilizar os dados levantados para avaliar os projetos pedagógicos de cursos e propor melhorias de acordo com as demandas dos egressos e do mundo do trabalho.
 
-- Obter informações sobre a opinião dos egressos acerca da qualidade do curso de Bacharelado em Engenharia de Software; 
+Durante o curso, os alunos serão cadastrados no sistema de gestão. Periodicamente, após a conclusão do curso, o sistema enviará um e-mail aos alunos para lembrá-los do preenchimento do questionário. Dentre as informações colhidas software são:
 
-- ● Possibilitar o conhecimento das dificuldades do egresso para a integração no mercado trabalho; 
+- Sexo e estado civil;
 
-- Manter a comunicação entre os ex-estudantes e a Instituição; 
+- Graduação, habilitação e Pós-graduação;
 
-- ● Verificar a visão do aluno em relação à qualidade do curso ofertado e os ajustes necessários; 
+- Situação atual dos egressos e dificuldades de ingressar no mundo do trabalho;
 
-- Levantar as principais dificuldades encontradas pelo egresso durante o curso e especialmente após a sua formação para obtenção de emprego; 
+- Avaliação do ex-estudante acerca do curso realizado, incluindo sugestões de melhoria;
 
-- ● Verificar o grau de empregabilidade dos recém-formados; 
+- Avaliação do corpo docente;
 
-- Levantar as necessidades de qualificação profissional dos ex-alunos; 
+- Cidade na qual desenvolvem a atividade profissional, a fim de saber se tiveram que se afastar muito do local de formação para ingressarem no campo profissional;
 
-- Utilizar os dados levantados para avaliar os projetos pedagógicos de cursos e propor melhorias de acordo com as demandas dos egressos e do mundo do trabalho. 
+- ● Auto avaliação dos egressos em relação ao seu comprometimento com o curso e com a atuação profissional.
 
-Durante o curso, os alunos serão cadastrados no sistema de gestão. Periodicamente, após a conclusão do curso, o sistema enviará um e-mail aos alunos para lembrá-los do preenchimento do questionário. Dentre as informações colhidas software são: 
+Estes dados serão compilados e publicados periodicamente no site da Instituição. Tais resultados contribuirão para avaliação do curso, bem como para conhecimento da demanda por profissionais da área e possíveis melhorias na qualidade do curso.
 
-- Sexo e estado civil; 
+Outras ações referentes ao acompanhamento dos egressos incluem:
 
-- Graduação, habilitação e Pós-graduação; 
+- Manter os dados cadastrais dos egressos atualizados;
 
-- Situação atual dos egressos e dificuldades de ingressar no mundo do trabalho; 
+- Promover encontros, cursos de extensão, atualização e palestras que atendam às necessidades desses estudantes frente às contínuas inovações do conhecimento das áreas, a fim de atualizar e/ou complementar os saberes adquiridos ao longo do curso finalizado, contribuindo para a inserção no mundo do trabalho e, em consequência, obter sucesso profissional e pessoal;
 
-41 
+- Incentivar e apoiar o reencontro dos estudantes egressos, mantendo-se o vínculo que possibilitará o apoio ao desenvolvimento de sua vida profissional.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **2.4.3 Registro Profissional**
 
-- Avaliação do ex-estudante acerca do curso realizado, incluindo sugestões de melhoria; 
+NSA
 
-- Avaliação do corpo docente; 
+## 2.5 METODOLOGIA E ESTRATÉGIAS PEDAGÓGICAS
 
-- Cidade na qual desenvolvem a atividade profissional, a fim de saber se tiveram que se afastar muito do local de formação para ingressarem no campo profissional; 
+A concepção histórica crítico-social abordada por meio de uma visão sistêmica permite reconhecer que as ações são influenciadas pela história, pelos espaços geográficos, pensamentos, crenças, valores, reações dos outros que contribuem para que haja uma conscientização da necessidade de transformar a realidade vigente. O contexto da formação está sempre em transformação já que tudo que se forma também se transforma através da reflexão e da crítica que produzem uma nova formulação que aponta na direção de uma ação inovadora e transformadora do “status quo” vigente. Isto porque, desde o primeiro momento em que o educador atua, ele está interatuando em função dos pressupostos de intersubjetividade e complexidade.
 
-- ● Auto avaliação dos egressos em relação ao seu comprometimento com o curso e com a atuação profissional. 
+A metodologia de ensino constitui-se de práticas pedagógicas a serem desenvolvidas que possibilitam apresentação dos conteúdos que serão ministrados, com o fim de serem atingidos os objetivos a que o curso se propõe. Sendo o ensino um processo sistemático e intencional de garantir o conhecimento, serão exploradas as diferentes formas de apresentação dos conteúdos, utilizando as mais variadas técnicas de apresentação, como aulas expositivas e dialógicas, trabalhos práticos e escritos em grupo e individuais, visitas técnicas, seminários, estudos dirigidos, debates, entre outras; podendo ser instrumentalizadas por: quadro de vidro,
 
-Estes dados serão compilados e publicados periodicamente no site da Instituição. Tais resultados contribuirão para avaliação do curso, bem como para conhecimento da demanda por profissionais da área e possíveis melhorias na qualidade do curso. 
+transparências, Datashow (projetor), vídeo, uso do laboratório de informática, livros, periódicos, dentre outros.
 
-Outras ações referentes ao acompanhamento dos egressos incluem: 
+De acordo com o PDI (2014 - 2018), as ações educacionais do Instituto devem viabilizar a verticalização do ensino, na medida em que suas políticas de atuação estejam articuladas entre os diferentes níveis e modalidades da educação profissional e tecnológica, permeadas pelo princípio da unicidade do Ensino, Pesquisa e Extensão. Todos os processos educativos, assim como suas respectivas metodologias e meios, têm por base a concepção de educação como elemento de transformação pessoal e social. Para tal, o planejamento e a execução das atividades de ensino, direcionados à formação de profissionais qualificados e com responsabilidade social, serão desenvolvidos numa perspectiva de construção da cidadania. O compromisso do processo educativo é o desenvolvimento integral, não apenas no aspecto cognitivo, mas também nos aspectos afetivos e sociais, em uma perspectiva emancipatória e de destaque dos sujeitos envolvidos nesse processo.
 
-- Manter os dados cadastrais dos egressos atualizados; 
+O curso de Engenharia de Software do IFPR - campus Paranavaí pretende estimular seus estudantes a realizarem diversas atividades articuladas ao ensino, pesquisa e extensão, com vistas ao preparo e desenvolvimento dos processos educativos e emancipação de cada indivíduo. Desse modo o curso prioriza a articulação entre a teoria e a prática, educação e trabalho, a busca da interdisciplinaridade e contextualização das bases tecnológicas, tão cruciais para que o processo de formação do profissional contribua efetivamente para o desenvolvimento e aplicação das competências adquiridas.
 
-- Promover encontros, cursos de extensão, atualização e palestras que atendam às necessidades desses estudantes frente às contínuas inovações do conhecimento das áreas, a fim de atualizar e/ou complementar os saberes adquiridos ao longo do curso finalizado, contribuindo para a inserção no mundo do trabalho e, em consequência, obter sucesso profissional e pessoal; 
+Dentre estratégias pedagógicas que o projeto em questão coaduna com o PDI (2014 - 2018) estão a realização do estágio supervisionado para atender a carência de profissionais técnicos no mundo do trabalho e a parceria com organizações e empresas, além das parcerias educacionais e tecnológicas, nacionais e internacionais. Outra forma é a realização das atividades complementares que visam o incentivo à qualificação profissional e ao estímulo educacional, atendendo consequentemente à demanda de inovações tecnológicas e ao empreendedorismo.
 
-- Incentivar e apoiar o reencontro dos estudantes egressos, mantendo-se o vínculo que possibilitará o apoio ao desenvolvimento de sua vida profissional. 
+## **2.5.1 Relação entre Ensino, Pesquisa, Extensão e Inovação**
 
-## **2.4.3 Registro Profissional** 
+Martins (2011) aborda a indissociabilidade entre ensino, pesquisa e extensão à luz de um estudo realizado sobre a construção do conhecimento na universidade, afirmando que, após a promulgação da Lei nº 9.394, de 20 de dezembro de 1996, Lei de Diretrizes e Bases da Educação Nacional (LDBN), houve um movimento de revisão do processo ensino-aprendizagem por parte dos educadores, que apregoaram que as aprendizagens deveriam associar-se às ações dos estudantes tanto na realidade experimental cotidiana quanto na realidade referente ao futuro exercício profissional.
 
-NSA 
+Em uma análise inicial, Martins (2011) concorda que a construção de competências por parte do indivíduo assegura as condições desejadas para atingir a indissociabilidade entre ensinopesquisa-extensão. Entretanto, a autora sugere uma revisão nas condições que valorizam o ensino, a pesquisa e a extensão.
 
-## 2.5 METODOLOGIA E ESTRATÉGIAS PEDAGÓGICAS 
+Martins (2011) afirma que é imprescindível a afirmação teórica e prática dos processos de ensino, pesquisa e aprendizagem, pois somente assim será possível avançar para as reais transformações educacionais. Além disto, ressalta que o ensino é o ponto inicial para que o
 
-A concepção histórica crítico-social abordada por meio de uma visão sistêmica permite reconhecer que as ações são influenciadas pela história, pelos espaços geográficos, pensamentos, crenças, valores, reações dos outros que contribuem para que haja uma conscientização da necessidade de transformar a realidade vigente. O contexto da formação está sempre em transformação já que tudo que se forma também se transforma através da reflexão e da crítica que produzem uma nova formulação que aponta na direção de uma ação inovadora e transformadora do “status quo” vigente. Isto porque, desde o primeiro momento em que o educador atua, ele está interatuando em função dos pressupostos de intersubjetividade e complexidade. 
+estudante seja confrontado com o produto da ciência, já que o mesmo passa pelos processos de transmissão e apropriação do conhecimento e enfatiza que, apesar de haver críticas à transmissão do conhecimento por meio de aulas expositivas, a sala de aula é um espaço importantíssimo na promoção da aprendizagem.
 
-A metodologia de ensino constitui-se de práticas pedagógicas a serem desenvolvidas que possibilitam apresentação dos conteúdos que serão ministrados, com o fim de serem atingidos os objetivos a que o curso se propõe. Sendo o ensino um processo sistemático e intencional de garantir o conhecimento, serão exploradas as diferentes formas de apresentação dos conteúdos, utilizando as mais variadas técnicas de apresentação, como aulas expositivas e dialógicas, trabalhos práticos e escritos em grupo e individuais, visitas técnicas, seminários, estudos dirigidos, debates, entre outras; podendo ser instrumentalizadas por: quadro de vidro, 
+Em se tratando de pesquisa e extensão, a primeira é de suma importância, pois proporcionará acréscimos ao campo científico e tecnológico. Porém, para que a pesquisa de qualidade seja alcançada é preciso um ensino sólido devido à estreita relação entre o ensino de qualidade e a criatividade intelectual. A extensão trata da possibilidade que professores e, em especial, estudantes têm de se engajar na realidade social, direta e indiretamente. Aos estudantes, a extensão permite que os mesmos, diante de necessidades sociais levantadas, desenvolvam, de forma prática, qualidades e competências adquiridas tanto no processo de ensino quanto no processo de pesquisa, visto que, no primeiro, o estudante é confrontado não apenas com o saberfazer, mas, principalmente, com o desenvolvimento de novos saberes, enquanto que no segundo, o estudante é levado a confrontar o conhecido com o desconhecido, promovendo e articulando novos conhecimentos.
 
-42 
+Juracy _et al_ (2009) sugerem que os institutos federais construam projetos pedagógicos que adotem algumas importantes diretrizes, entre elas que a compreensão do conhecimento deve ser tratada em sua completude, nas diferentes dimensões da vida humana, integrando ciência, tecnologia, cultura e conhecimentos específicos; a concepção das atividades de extensão como forma de diálogo permanente e mais amplo com a sociedade; e que a compreensão da pesquisa nos princípios científico e educativo, entendendo-o como essencial para a construção da autonomia intelectual.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Ainda de acordo com Juracy _et al_ (2009), o objetivo maior dos institutos federais é o da educação profissional. Entretanto, os autores ressaltam que a pesquisa deve ser entendida como princípio educativo, uma vez que a mesma resulta em produção do conhecimento, sendo essa uma atividade que leva o estudante a encontrar respostas aos problemas enfrentados em sua vida cotidiana de forma a estimular sua criatividade.
 
-transparências, Datashow (projetor), vídeo, uso do laboratório de informática, livros, periódicos, dentre outros. 
+Em Pacheco (2010) percebe-se a importância da formação inicial e continuada do estudante, pois a transversalidade e a verticalização são aspectos que contribuem para um currículo único e particular. A transversalidade na educação tecnológica tem a tecnologia como elemento transversal presente no ensino, pesquisa e extensão, ultrapassando as aplicações técnicas e ampliando-se nos aspectos socioeconômicos e culturais. Já a verticalização permite que currículos sejam elaborados de forma a facilitar o diálogo entre as diversas formações, permitindo a construção de itinerários entre as formações da educação profissional e tecnológica, ou seja, qualificação profissional, técnica, graduação e pós-graduação.
 
-De acordo com o PDI (2014 - 2018), as ações educacionais do Instituto devem viabilizar a verticalização do ensino, na medida em que suas políticas de atuação estejam articuladas entre os diferentes níveis e modalidades da educação profissional e tecnológica, permeadas pelo princípio da unicidade do Ensino, Pesquisa e Extensão. Todos os processos educativos, assim como suas respectivas metodologias e meios, têm por base a concepção de educação como elemento de transformação pessoal e social. Para tal, o planejamento e a execução das atividades de ensino, direcionados à formação de profissionais qualificados e com responsabilidade social, serão desenvolvidos numa perspectiva de construção da cidadania. O compromisso do processo educativo é o desenvolvimento integral, não apenas no aspecto cognitivo, mas também nos aspectos afetivos e sociais, em uma perspectiva emancipatória e de destaque dos sujeitos envolvidos nesse processo. 
+A indissociabilidade entre Ensino, Pesquisa e Extensão deve acontecer ao longo de todo o curso, desde as propostas curriculares até as atividades extracurriculares que poderão ocorrer dentro ou fora da Instituição. Vários componentes curriculares propõem a capacitação para a inserção do futuro bacharel em Engenharia de Software no mundo do trabalho, desde a parte técnica até as questões humanas. Além destas, projetos interdisciplinares de extensão poderão ser realizados e oferecidos à comunidade escolar pelos próprios estudantes do curso, tais como informática básica para a melhor idade, consultoria às empresas de desenvolvimento de sistemas da região, cursos de curta duração para pessoas com vulnerabilidade social, que poderão ser ofertados dentro do próprio IFPR ou fora da Instituição. Concomitantemente, os estudantes
 
-O curso de Engenharia de Software do IFPR - campus Paranavaí pretende estimular seus estudantes a realizarem diversas atividades articuladas ao ensino, pesquisa e extensão, com vistas ao preparo e desenvolvimento dos processos educativos e emancipação de cada indivíduo. Desse modo o curso prioriza a articulação entre a teoria e a prática, educação e trabalho, a busca da interdisciplinaridade e contextualização das bases tecnológicas, tão cruciais para que o processo de formação do profissional contribua efetivamente para o desenvolvimento e aplicação das competências adquiridas. 
+poderão estar envolvidos em projetos de iniciação científica, realizando pesquisas de interesse regional no que tange aos processos de engenharia de software.
 
-Dentre estratégias pedagógicas que o projeto em questão coaduna com o PDI (2014 - 2018) estão a realização do estágio supervisionado para atender a carência de profissionais técnicos no mundo do trabalho e a parceria com organizações e empresas, além das parcerias educacionais e tecnológicas, nacionais e internacionais. Outra forma é a realização das atividades complementares que visam o incentivo à qualificação profissional e ao estímulo educacional, atendendo consequentemente à demanda de inovações tecnológicas e ao empreendedorismo. 
+No que se refere à inovação, o curso oferece a integração entre ensino e inovação por meio das disciplinas de Empreendedorismo em Tecnologia da Informação e de Novas Aplicações em Engenharia de Software. Por meio dessas disciplinas, os discentes terão a oportunidade de desenvolver algumas das habilidades necessárias para empreender e inovar. Dessa forma, acredita-se que os discentes estarão preparados para atuar como agentes de mudança na comunidade onde se inserem.
 
-## **2.5.1 Relação entre Ensino, Pesquisa, Extensão e Inovação** 
+Por fim, será promovido pelo IFPR, anualmente, eventos, tais como a Semana de Tecnologia da Informação (SETIF). Nesses eventos, serão tratados temas variados, relacionados à engenharia de software, áreas de atuação profissional, tecnologias na área de computação, inovação, entre outros. Eventualmente serão ofertados aos estudantes cursos de extensão, palestras e seminários que possam contribuir para uma formação ampla e integrada às diversas áreas de conhecimento.
 
-Martins (2011) aborda a indissociabilidade entre ensino, pesquisa e extensão à luz de um estudo realizado sobre a construção do conhecimento na universidade, afirmando que, após a promulgação da Lei nº 9.394, de 20 de dezembro de 1996, Lei de Diretrizes e Bases da Educação Nacional (LDBN), houve um movimento de revisão do processo ensino-aprendizagem por parte dos educadores, que apregoaram que as aprendizagens deveriam associar-se às ações dos estudantes tanto na realidade experimental cotidiana quanto na realidade referente ao futuro exercício profissional. 
+## **2.5.2 Tecnologias Digitais de Informação e Comunicação no processo de ensinoaprendizagem**
 
-Em uma análise inicial, Martins (2011) concorda que a construção de competências por parte do indivíduo assegura as condições desejadas para atingir a indissociabilidade entre ensinopesquisa-extensão. Entretanto, a autora sugere uma revisão nas condições que valorizam o ensino, a pesquisa e a extensão. 
+O Instituto Federal do Paraná faz uso das tecnologias de informação e comunicação por meio de vários sistemas de informações gerenciais. Esses softwares têm como objetivo facilitar e agilizar o acesso às informações, assim como todos os processos da instituição e estão reunidos no Portal de Sistemas Institucionais, disponível em http://sistemas.ifpr.edu.br/. Os sistemas utilizados pela instituição e suas respectivas atribuições são listados a seguir:
 
-Martins (2011) afirma que é imprescindível a afirmação teórica e prática dos processos de ensino, pesquisa e aprendizagem, pois somente assim será possível avançar para as reais transformações educacionais. Além disto, ressalta que o ensino é o ponto inicial para que o 
+- **Sistema Integrado de Gestão de Patrimônio, Administração e Contratos (SIPAC)** : desenvolvido pela UFRN, voltado às unidades responsáveis pelo gerenciamento financeiro, patrimonial e contratual. Sua integração compreende as áreas administrativas que vão desde a requisição até o controle orçamentário.
 
-43 
+- **Sistema Integrado de Gestão de Recursos Humanos (SIGRH)** : voltado à informatização dos procedimentos de recursos humanos, com funcionalidades referentes a marcação ou alteração de férias, cálculos de aposentadoria, avaliação funcional, dimensionamento de força de trabalho, controle de frequência, concursos, capacitações, atendimentos on-line, serviços e requerimentos, registros funcionais, relatórios de RH, dentre outras tarefas.
 
-**==> picture [472 x 55] intentionally omitted <==**
+- **Sistema Integrado de Gestão de Planejamento e Projetos (SIGPP):** permite o gerenciamento das metas pretendidas anualmente pelas unidades estratégicas da instituição - metas que servirão para realização do planejamento anual realizado pela unidade de administração central de toda a instituição.
 
-estudante seja confrontado com o produto da ciência, já que o mesmo passa pelos processos de transmissão e apropriação do conhecimento e enfatiza que, apesar de haver críticas à transmissão do conhecimento por meio de aulas expositivas, a sala de aula é um espaço importantíssimo na promoção da aprendizagem. 
+- **Sistema Integrado de Gestão Eletrônica de documentos (SIGED):** é uma tecnologia cujo principal objetivo é facilitar o controle, armazenamento, compartilhamento e recuperação de informações existentes em documentos, permitindo assim preservar patrimônio e organizar toda a documentação eletronicamente.
 
-Em se tratando de pesquisa e extensão, a primeira é de suma importância, pois proporcionará acréscimos ao campo científico e tecnológico. Porém, para que a pesquisa de qualidade seja alcançada é preciso um ensino sólido devido à estreita relação entre o ensino de qualidade e a criatividade intelectual. A extensão trata da possibilidade que professores e, em especial, estudantes têm de se engajar na realidade social, direta e indiretamente. Aos estudantes, a extensão permite que os mesmos, diante de necessidades sociais levantadas, desenvolvam, de forma prática, qualidades e competências adquiridas tanto no processo de ensino quanto no processo de pesquisa, visto que, no primeiro, o estudante é confrontado não apenas com o saberfazer, mas, principalmente, com o desenvolvimento de novos saberes, enquanto que no segundo, o estudante é levado a confrontar o conhecido com o desconhecido, promovendo e articulando novos conhecimentos. 
+- **Sistema de Administração de Sistemas (SIGAdmin):** gerenciam entidades comuns entre os sistemas informatizados, tais como usuários, permissões, unidades, mensagens,
 
-Juracy _et al_ (2009) sugerem que os institutos federais construam projetos pedagógicos que adotem algumas importantes diretrizes, entre elas que a compreensão do conhecimento deve ser tratada em sua completude, nas diferentes dimensões da vida humana, integrando ciência, tecnologia, cultura e conhecimentos específicos; a concepção das atividades de extensão como forma de diálogo permanente e mais amplo com a sociedade; e que a compreensão da pesquisa nos princípios científico e educativo, entendendo-o como essencial para a construção da autonomia intelectual. 
+notícias, gerência de sites e portais, além de outras funcionalidades, podendo apenas gestores e administradores do sistema acessá-lo.
 
-Ainda de acordo com Juracy _et al_ (2009), o objetivo maior dos institutos federais é o da educação profissional. Entretanto, os autores ressaltam que a pesquisa deve ser entendida como princípio educativo, uma vez que a mesma resulta em produção do conhecimento, sendo essa uma atividade que leva o estudante a encontrar respostas aos problemas enfrentados em sua vida cotidiana de forma a estimular sua criatividade. 
+- **Banco de Vagas** : oferece um controle das vagas ocupadas e disponíveis por campus e pela instituição;
 
-Em Pacheco (2010) percebe-se a importância da formação inicial e continuada do estudante, pois a transversalidade e a verticalização são aspectos que contribuem para um currículo único e particular. A transversalidade na educação tecnológica tem a tecnologia como elemento transversal presente no ensino, pesquisa e extensão, ultrapassando as aplicações técnicas e ampliando-se nos aspectos socioeconômicos e culturais. Já a verticalização permite que currículos sejam elaborados de forma a facilitar o diálogo entre as diversas formações, permitindo a construção de itinerários entre as formações da educação profissional e tecnológica, ou seja, qualificação profissional, técnica, graduação e pós-graduação. 
+- **Certificação Enem** : oferece as funcionalidades de Unidade Certificadora à instituição permitindo a emissão do certificado aos estudantes que se submeteram ao ENEM e alcançaram os requisitos mínimos, emissão de declaração parcial de proficiência, acesso à base de resultados de desempenho.
 
-A indissociabilidade entre Ensino, Pesquisa e Extensão deve acontecer ao longo de todo o curso, desde as propostas curriculares até as atividades extracurriculares que poderão ocorrer dentro ou fora da Instituição. Vários componentes curriculares propõem a capacitação para a inserção do futuro bacharel em Engenharia de Software no mundo do trabalho, desde a parte técnica até as questões humanas. Além destas, projetos interdisciplinares de extensão poderão ser realizados e oferecidos à comunidade escolar pelos próprios estudantes do curso, tais como informática básica para a melhor idade, consultoria às empresas de desenvolvimento de sistemas da região, cursos de curta duração para pessoas com vulnerabilidade social, que poderão ser ofertados dentro do próprio IFPR ou fora da Instituição. Concomitantemente, os estudantes 
+- **Webmail:** oferece um mecanismo de comunicação moderno graças ao acesso aos e-mails institucionais, troca de mensagens instantâneas, sem usar programas específicos para este fim.
 
-44 
+- **Helpdesk:** encaminha solicitações de ajuda na resolução de problemas relacionados aos sistemas utilizados pela Instituição, enviando os pedidos para a central do suporte técnico, gerando protocolo de atendimento, acompanhando a solução e notificando o solicitante dos encaminhamentos do pedido.
 
-**==> picture [472 x 55] intentionally omitted <==**
+- **Gestão INFO:** apresenta por campus, em forma de dados compilados, informações sobre quatro dimensões importantes para a instituição (1) estudantes, (2) execução financeira, (3) pessoal e (4) infraestrutura, ofertando inclusive para acesso público o Relatório Anual de Gestão.
 
-poderão estar envolvidos em projetos de iniciação científica, realizando pesquisas de interesse regional no que tange aos processos de engenharia de software. 
+Os sistemas citados são de cunho administrativo, outros quatro sistemas unificados no Portal dizem respeito diretamente às atividades pedagógicas e os resultados oriundos do processo ensino-aprendizagem, são eles:
 
-No que se refere à inovação, o curso oferece a integração entre ensino e inovação por meio das disciplinas de Empreendedorismo em Tecnologia da Informação e de Novas Aplicações em Engenharia de Software. Por meio dessas disciplinas, os discentes terão a oportunidade de desenvolver algumas das habilidades necessárias para empreender e inovar. Dessa forma, acredita-se que os discentes estarão preparados para atuar como agentes de mudança na comunidade onde se inserem. 
+- **Pergamum:** software bastante utilizado pelas instituições de ensino pois facilita a gestão de acervos bibliográficos, bem como o empréstimo, reserva e renovação de títulos, aplica a catalogação utilizando o formato MARC21, fornece capacitação e treinamento por meio de oficinas e cursos presenciais e mecanismos de personalização de layout para que cada instituição faça sua padronização.
 
-Por fim, será promovido pelo IFPR, anualmente, eventos, tais como a Semana de Tecnologia da Informação (SETIF). Nesses eventos, serão tratados temas variados, relacionados à engenharia de software, áreas de atuação profissional, tecnologias na área de computação, inovação, entre outros. Eventualmente serão ofertados aos estudantes cursos de extensão, palestras e seminários que possam contribuir para uma formação ampla e integrada às diversas áreas de conhecimento. 
+- **Sistema Integrado de Secretarias Acadêmicas (SISA)** : desenvolvido internamente, responsável pelo acompanhamento da documentação acadêmica, tanto na entrada, com a matrícula, quando da gestão documental da vida acadêmica, gerando relatórios.
 
-## **2.5.2 Tecnologias Digitais de Informação e Comunicação no processo de ensinoaprendizagem** 
+- **Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA):** veio em substituição ao SISA e informatiza os procedimentos da área acadêmica através dos módulos de: graduação, pós-graduação ( _Stricto_ e _Lato sensu_ ), ensino técnico, ensino médio, submissão e controle de projetos e bolsistas de pesquisa, submissão e controle de ações de extensão, submissão e controle dos projetos de ensino (monitoria e inovações), registro e relatórios da produção acadêmica dos docentes, atividades de ensino a distância.
 
-O Instituto Federal do Paraná faz uso das tecnologias de informação e comunicação por meio de vários sistemas de informações gerenciais. Esses softwares têm como objetivo facilitar e agilizar o acesso às informações, assim como todos os processos da instituição e estão reunidos no Portal de Sistemas Institucionais, disponível em http://sistemas.ifpr.edu.br/. Os sistemas utilizados pela instituição e suas respectivas atribuições são listados a seguir: 
+- **Karavellas:** ambiente virtual de ensino-aprendizagem (AVEA) que objetiva a melhoria do processo de comunicação entre a instituição e o estudante, minimiza as dificuldades de usabilidade dos usuários e amplia a exploração de novas tecnologias de comunicação digital para a educação, oferecendo uma trilha de conteúdo. A trilha é composta pelo plano de ensino, contextualização, aulas e vídeos, download de materiais, interação, avaliação, ampliação, elaboração e aplicação prática. No item “Plano de Ensino” estão
 
-- **Sistema Integrado de Gestão de Patrimônio, Administração e Contratos (SIPAC)** : desenvolvido pela UFRN, voltado às unidades responsáveis pelo gerenciamento financeiro, patrimonial e contratual. Sua integração compreende as áreas administrativas que vão desde a requisição até o controle orçamentário. 
+elencadas as ementas das disciplinas, com seus respectivos conteúdos, formas avaliativas e referências para consulta. A “Contextualização” apresenta a integração das disciplinas com as formas de atuação profissional. O item “Aulas e Vídeos” disponibiliza links de tele aulas fornecidos pelos docentes. O item “Baixar Materiais” permite a postagem de slides e textos que complementam a aula. “Interação” provê comunicação por meio de fórum, chat e mensagens. O acesso às informações pertinentes aos trabalhos e conteúdo que compõem a avaliação, como provas, atividades auto instrutivas e discursivas são disponibilizadas no menu “Avaliação”. A “Ampliação” oferece recursos extras como livros virtuais, artigos, links de vídeos ou sites de notícias que auxiliem na ampliação do conhecimento. O menu “Elaboração” apresenta questões para reflexão teórica e na opção “Aplicação Prática” é possível estabelecer a relação da teoria estudada com a prática sugeridas nas atividades elaboradas pelo docente.
 
-- **Sistema Integrado de Gestão de Recursos Humanos (SIGRH)** : voltado à informatização dos procedimentos de recursos humanos, com funcionalidades referentes a marcação ou alteração de férias, cálculos de aposentadoria, avaliação funcional, dimensionamento de força de trabalho, controle de frequência, concursos, capacitações, atendimentos on-line, serviços e requerimentos, registros funcionais, relatórios de RH, dentre outras tarefas. 
+Além dos sistemas utilizados para todos os _campi_ do IFPR, o campus Paranavaí também conta com sistemas de informação exclusivos, que são resultado de projetos executados por docentes, técnicos e discentes do campus. Além de proporcionar maior agilidade e segurança para as tarefas do dia a dia, esses sistemas também contribuem com a economicidade de impressão de papel, atendendo à portaria MMA n° 61/2008. Abaixo apresentamos os sistemas utilizados exclusivamente pelo campus Paranavaí:
 
-- **Sistema Integrado de Gestão de Planejamento e Projetos (SIGPP):** permite o gerenciamento das metas pretendidas anualmente pelas unidades estratégicas da instituição - metas que servirão para realização do planejamento anual realizado pela unidade de administração central de toda a instituição. 
+- **Sistema de Certificados e Declarações:** software utilizado pela instituição para emitir certificados com autenticação digital. Esse sistema é vastamente utilizado para a emissão de certificados de eventos, projetos e atividades.
 
-- **Sistema Integrado de Gestão Eletrônica de documentos (SIGED):** é uma tecnologia cujo principal objetivo é facilitar o controle, armazenamento, compartilhamento e recuperação de informações existentes em documentos, permitindo assim preservar patrimônio e organizar toda a documentação eletronicamente. 
+- **Sistema Cronos:** software destinado ao gerenciamento das atividades acadêmicas complementares para os cursos ofertados no campus Paranavaí.
 
-- **Sistema de Administração de Sistemas (SIGAdmin):** gerenciam entidades comuns entre os sistemas informatizados, tais como usuários, permissões, unidades, mensagens, 
+## **2.5.3 Educação Inclusiva**
 
-45 
+A preocupação com a inclusão se reflete no curso sob dois aspectos: 1) na matriz curricular, na qual encontramos componentes curriculares específicos que instrumentalizam o futuro profissional para atuar de forma inclusiva; e 2) pelas ações institucionais com vistas à inclusão da comunidade, adequando acessos, equipamentos e instalações para o uso por pessoas com deficiências. A regulamentação da Inclusão da Pessoa com Deficiência é instituída na Lei 13.146 de 06 de julho de 2015.
 
-**==> picture [472 x 55] intentionally omitted <==**
+A instituição busca promover a inclusão constantemente mostrando-se preocupada ao cumprir com o expresso no Decreto nº 5.296, de 02 de dezembro de 2004, que regulamenta a Lei nº 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e dá outras providências, e a Lei nº 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências, conforme segue:
 
-notícias, gerência de sites e portais, além de outras funcionalidades, podendo apenas gestores e administradores do sistema acessá-lo. 
+Conforme o artigo 6º o atendimento prioritário compreende tratamento diferenciado e atendimento imediato às pessoas de que trata o art. 5º. § 1º O tratamento diferenciado inclui, dentre outros:
 
-- **Banco de Vagas** : oferece um controle das vagas ocupadas e disponíveis por campus e pela instituição; 
+I - assentos de uso preferencial sinalizados, espaços e instalações acessíveis;
 
-- **Certificação Enem** : oferece as funcionalidades de Unidade Certificadora à instituição permitindo a emissão do certificado aos estudantes que se submeteram ao ENEM e alcançaram os requisitos mínimos, emissão de declaração parcial de proficiência, acesso à base de resultados de desempenho. 
+II - mobiliário de recepção e atendimento obrigatoriamente adaptado à altura e à condição física de pessoas em cadeira de rodas, conforme estabelecido nas normas técnicas de acessibilidade da ABNT;
 
-- **Webmail:** oferece um mecanismo de comunicação moderno graças ao acesso aos e-mails institucionais, troca de mensagens instantâneas, sem usar programas específicos para este fim. 
+III - serviços de atendimento para pessoas com deficiência auditiva, prestado por intérpretes ou pessoas capacitadas em Língua Brasileira de Sinais - LIBRAS e no trato com aquelas que não se comuniquem em LIBRAS, e para pessoas surdo cegas, prestado por guias-intérpretes ou pessoas capacitadas neste tipo de atendimento;
 
-- **Helpdesk:** encaminha solicitações de ajuda na resolução de problemas relacionados aos sistemas utilizados pela Instituição, enviando os pedidos para a central do suporte técnico, gerando protocolo de atendimento, acompanhando a solução e notificando o solicitante dos encaminhamentos do pedido. 
+IV - pessoal capacitado para prestar atendimento às pessoas com deficiência visual, mental e múltipla, bem como às pessoas idosas;
 
-- **Gestão INFO:** apresenta por campus, em forma de dados compilados, informações sobre quatro dimensões importantes para a instituição (1) estudantes, (2) execução financeira, (3) pessoal e (4) infraestrutura, ofertando inclusive para acesso público o Relatório Anual de Gestão. 
+V - disponibilidade de área especial para embarque e desembarque de pessoa portadora de deficiência ou com mobilidade reduzida;
 
-Os sistemas citados são de cunho administrativo, outros quatro sistemas unificados no Portal dizem respeito diretamente às atividades pedagógicas e os resultados oriundos do processo ensino-aprendizagem, são eles: 
+VI - sinalização ambiental para orientação das pessoas referidas no art. 5º;
 
-- **Pergamum:** software bastante utilizado pelas instituições de ensino pois facilita a gestão de acervos bibliográficos, bem como o empréstimo, reserva e renovação de títulos, aplica a catalogação utilizando o formato MARC21, fornece capacitação e treinamento por meio de oficinas e cursos presenciais e mecanismos de personalização de layout para que cada instituição faça sua padronização. 
+VII - divulgação, em lugar visível, do direito de atendimento prioritário das pessoas portadoras de deficiência ou com mobilidade reduzida.
 
-- **Sistema Integrado de Secretarias Acadêmicas (SISA)** : desenvolvido internamente, responsável pelo acompanhamento da documentação acadêmica, tanto na entrada, com a matrícula, quando da gestão documental da vida acadêmica, gerando relatórios. 
+VIII - admissão de entrada e permanência de cão-guia ou cão-guia de acompanhamento junto de pessoa portadora de deficiência ou de treinador nos locais dispostos no caput do art. 5º, bem como nas demais edificações de uso público e naquelas de uso coletivo, mediante apresentação da carteira de vacina atualizada do animal; e
 
-- **Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA):** veio em substituição ao SISA e informatiza os procedimentos da área acadêmica através dos módulos de: graduação, pós-graduação ( _Stricto_ e _Lato sensu_ ), ensino técnico, ensino médio, submissão e controle de projetos e bolsistas de pesquisa, submissão e controle de ações de extensão, submissão e controle dos projetos de ensino (monitoria e inovações), registro e relatórios da produção acadêmica dos docentes, atividades de ensino a distância. 
+IX - a existência de local de atendimento específico para as pessoas referidas no art. 5 º.
 
-- **Karavellas:** ambiente virtual de ensino-aprendizagem (AVEA) que objetiva a melhoria do processo de comunicação entre a instituição e o estudante, minimiza as dificuldades de usabilidade dos usuários e amplia a exploração de novas tecnologias de comunicação digital para a educação, oferecendo uma trilha de conteúdo. A trilha é composta pelo plano de ensino, contextualização, aulas e vídeos, download de materiais, interação, avaliação, ampliação, elaboração e aplicação prática. No item “Plano de Ensino” estão 
+§   2º Entende-se por imediato o atendimento prestado às pessoas referidas no art. 5º, antes de qualquer outra, depois de concluído o atendimento que estiver em andamento, observado o disposto no inciso I do parágrafo  único do art. 3 da Lei nº 10.741, de 1º de outubro de 2003 (Estatuto do Idoso).
 
-46 
+§ 3º Nos serviços de emergência dos estabelecimentos públicos e privados de atendimento à saúde, a prioridade conferida por este Decreto fica condicionada à avaliação médica em face da gravidade dos casos a atender.
 
-**==> picture [472 x 55] intentionally omitted <==**
+§ 4º Os órgãos, empresas e instituições referidos no caput do art. 5º devem possuir, pelo menos, um telefone de atendimento adaptado para comunicação com e por pessoas portadoras de deficiência auditiva.
 
-elencadas as ementas das disciplinas, com seus respectivos conteúdos, formas avaliativas e referências para consulta. A “Contextualização” apresenta a integração das disciplinas com as formas de atuação profissional. O item “Aulas e Vídeos” disponibiliza links de tele aulas fornecidos pelos docentes. O item “Baixar Materiais” permite a postagem de slides e textos que complementam a aula. “Interação” provê comunicação por meio de fórum, chat e mensagens. O acesso às informações pertinentes aos trabalhos e conteúdo que compõem a avaliação, como provas, atividades auto instrutivas e discursivas são disponibilizadas no menu “Avaliação”. A “Ampliação” oferece recursos extras como livros virtuais, artigos, links de vídeos ou sites de notícias que auxiliem na ampliação do conhecimento. O menu “Elaboração” apresenta questões para reflexão teórica e na opção “Aplicação Prática” é possível estabelecer a relação da teoria estudada com a prática sugeridas nas atividades elaboradas pelo docente. 
+Art. 7º O atendimento prioritário no âmbito da administração pública federal direta e indireta, bem como das empresas prestadoras de serviços públicos, obedecerá às disposições deste Decreto, além do que estabelece o Decreto n 3.507, de 13 de junho de 2000.
 
-Além dos sistemas utilizados para todos os _campi_ do IFPR, o campus Paranavaí também conta com sistemas de informação exclusivos, que são resultado de projetos executados por docentes, técnicos e discentes do campus. Além de proporcionar maior agilidade e segurança para as tarefas do dia a dia, esses sistemas também contribuem com a economicidade de impressão de papel, atendendo à portaria MMA n° 61/2008. Abaixo apresentamos os sistemas utilizados exclusivamente pelo campus Paranavaí: 
+Parágrafo único.  Cabe aos Estados, Municípios e ao Distrito Federal, no âmbito de suas competências, criar instrumentos para a efetiva implantação e o controle do atendimento prioritário referido neste Decreto.
 
-- **Sistema de Certificados e Declarações:** software utilizado pela instituição para emitir certificados com autenticação digital. Esse sistema é vastamente utilizado para a emissão de certificados de eventos, projetos e atividades. 
+Atualmente o campus Paranavaí conta com recursos de acessibilidade para pessoas portadoras de deficiência ou com mobilidade reduzida. O bloco de ensino do campus está equipado com rampa para acesso às salas de aula e laboratórios instalados no primeiro andar do bloco. Além disso, o campus pretende finalizar a instalação de elevadores exclusivos para pessoas com mobilidade reduzida nos blocos que não possuem rampa. Por fim, está prevista demanda para 2018 referente à adequação dos laboratórios de informática para pessoas com mobilidade reduzida.
 
-- **Sistema Cronos:** software destinado ao gerenciamento das atividades acadêmicas complementares para os cursos ofertados no campus Paranavaí. 
+O curso de Bacharelado em Engenharia de Software do IFPR campus Paranavaí realizará ações de acessibilidade por meio do Núcleo de Atendimento às Pessoas com Necessidades Educacionais Específicas (NAPNE) do campus Paranavaí. o NAPNE é responsável pela
 
-## **2.5.3 Educação Inclusiva** 
+preparação da instituição para receber pessoas com deficiência nos cursos de Formação Inicial e Continuada (FIC), Cursos Técnicos e Tecnológicos (Lato Sensu e Stricto Sensu). Tem como objetivo fomentar a implantação e consolidação de políticas inclusivas no Instituto, por meio da garantia do acesso, permanência e êxito do estudante com necessidades educacionais específicas, nas áreas de ensino, pesquisa e extensão. Atualmente, o NAPNE no IFPR é vinculado à PróReitoria de Ensino (Proens), que tem por finalidade desenvolver políticas de apoio estudantil através de ações que promovam a melhoria do desempenho acadêmico. Nesse contexto, o campus Paranavaí está trabalhando para a regulamentação e implantação junto a reitoria, e no momento, a Tradutora e Intérprete de Libras, Elizete Pinto C. S. P. Forcadell tem trabalhado na coordenação e desenvolvimento do NAPNE para o _campus_ Paranavaí.
 
-A preocupação com a inclusão se reflete no curso sob dois aspectos: 1) na matriz curricular, na qual encontramos componentes curriculares específicos que instrumentalizam o futuro profissional para atuar de forma inclusiva; e 2) pelas ações institucionais com vistas à inclusão da comunidade, adequando acessos, equipamentos e instalações para o uso por pessoas com deficiências. A regulamentação da Inclusão da Pessoa com Deficiência é instituída na Lei 13.146 de 06 de julho de 2015. 
+Nesse sentido, o NAPNE contribuirá para que o curso de Bacharelado em Engenharia de Software atenda aos dispositivos legais relacionados à ampliação do foco dos currículos escolares para abranger a diversidade cultural, étnico-racial, social, física, sensorial, intelectual, linguística, sexual e econômica, bem como os direitos humanos e a educação ambiental e para o trânsito. No curso de Bacharelado em Engenharia de Software a abordagem a esses temas se dará por diferentes meios, em atividades curriculares ou não, ou de forma transversal reintegrando conhecimentos fragmentados pelo próprio método disciplinar.
 
-A instituição busca promover a inclusão constantemente mostrando-se preocupada ao cumprir com o expresso no Decreto nº 5.296, de 02 de dezembro de 2004, que regulamenta a Lei nº 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e dá outras providências, e a Lei nº 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências, conforme segue: 
-
-Conforme o artigo 6º o atendimento prioritário compreende tratamento diferenciado e atendimento imediato às pessoas de que trata o art. 5º. § 1º O tratamento diferenciado inclui, dentre outros: 
-
-I - assentos de uso preferencial sinalizados, espaços e instalações acessíveis; 
-
-47 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-II - mobiliário de recepção e atendimento obrigatoriamente adaptado à altura e à condição física de pessoas em cadeira de rodas, conforme estabelecido nas normas técnicas de acessibilidade da ABNT; 
-
-III - serviços de atendimento para pessoas com deficiência auditiva, prestado por intérpretes ou pessoas capacitadas em Língua Brasileira de Sinais - LIBRAS e no trato com aquelas que não se comuniquem em LIBRAS, e para pessoas surdo cegas, prestado por guias-intérpretes ou pessoas capacitadas neste tipo de atendimento; 
-
-IV - pessoal capacitado para prestar atendimento às pessoas com deficiência visual, mental e múltipla, bem como às pessoas idosas; 
-
-V - disponibilidade de área especial para embarque e desembarque de pessoa portadora de deficiência ou com mobilidade reduzida; 
-
-VI - sinalização ambiental para orientação das pessoas referidas no art. 5º; 
-
-VII - divulgação, em lugar visível, do direito de atendimento prioritário das pessoas portadoras de deficiência ou com mobilidade reduzida. 
-
-VIII - admissão de entrada e permanência de cão-guia ou cão-guia de acompanhamento junto de pessoa portadora de deficiência ou de treinador nos locais dispostos no caput do art. 5º, bem como nas demais edificações de uso público e naquelas de uso coletivo, mediante apresentação da carteira de vacina atualizada do animal; e 
-
-IX - a existência de local de atendimento específico para as pessoas referidas no art. 5 º. 
-
-§   2º Entende-se por imediato o atendimento prestado às pessoas referidas no art. 5º, antes de qualquer outra, depois de concluído o atendimento que estiver em andamento, observado o disposto no inciso I do parágrafo  único do art. 3 da Lei nº 10.741, de 1º de outubro de 2003 (Estatuto do Idoso). 
-
-§ 3º Nos serviços de emergência dos estabelecimentos públicos e privados de atendimento à saúde, a prioridade conferida por este Decreto fica condicionada à avaliação médica em face da gravidade dos casos a atender. 
-
-§ 4º Os órgãos, empresas e instituições referidos no caput do art. 5º devem possuir, pelo menos, um telefone de atendimento adaptado para comunicação com e por pessoas portadoras de deficiência auditiva. 
-
-Art. 7º O atendimento prioritário no âmbito da administração pública federal direta e indireta, bem como das empresas prestadoras de serviços públicos, obedecerá às disposições deste Decreto, além do que estabelece o Decreto n 3.507, de 13 de junho de 2000. 
-
-Parágrafo único.  Cabe aos Estados, Municípios e ao Distrito Federal, no âmbito de suas competências, criar instrumentos para a efetiva implantação e o controle do atendimento prioritário referido neste Decreto. 
-
-Atualmente o campus Paranavaí conta com recursos de acessibilidade para pessoas portadoras de deficiência ou com mobilidade reduzida. O bloco de ensino do campus está equipado com rampa para acesso às salas de aula e laboratórios instalados no primeiro andar do bloco. Além disso, o campus pretende finalizar a instalação de elevadores exclusivos para pessoas com mobilidade reduzida nos blocos que não possuem rampa. Por fim, está prevista demanda para 2018 referente à adequação dos laboratórios de informática para pessoas com mobilidade reduzida. 
-
-O curso de Bacharelado em Engenharia de Software do IFPR campus Paranavaí realizará ações de acessibilidade por meio do Núcleo de Atendimento às Pessoas com Necessidades Educacionais Específicas (NAPNE) do campus Paranavaí. o NAPNE é responsável pela 
-
-48 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-preparação da instituição para receber pessoas com deficiência nos cursos de Formação Inicial e Continuada (FIC), Cursos Técnicos e Tecnológicos (Lato Sensu e Stricto Sensu). Tem como objetivo fomentar a implantação e consolidação de políticas inclusivas no Instituto, por meio da garantia do acesso, permanência e êxito do estudante com necessidades educacionais específicas, nas áreas de ensino, pesquisa e extensão. Atualmente, o NAPNE no IFPR é vinculado à PróReitoria de Ensino (Proens), que tem por finalidade desenvolver políticas de apoio estudantil através de ações que promovam a melhoria do desempenho acadêmico. Nesse contexto, o campus Paranavaí está trabalhando para a regulamentação e implantação junto a reitoria, e no momento, a Tradutora e Intérprete de Libras, Elizete Pinto C. S. P. Forcadell tem trabalhado na coordenação e desenvolvimento do NAPNE para o _campus_ Paranavaí. 
-
-Nesse sentido, o NAPNE contribuirá para que o curso de Bacharelado em Engenharia de Software atenda aos dispositivos legais relacionados à ampliação do foco dos currículos escolares para abranger a diversidade cultural, étnico-racial, social, física, sensorial, intelectual, linguística, sexual e econômica, bem como os direitos humanos e a educação ambiental e para o trânsito. No curso de Bacharelado em Engenharia de Software a abordagem a esses temas se dará por diferentes meios, em atividades curriculares ou não, ou de forma transversal reintegrando conhecimentos fragmentados pelo próprio método disciplinar. 
-
-A estrutura curricular do curso atende aos requisitos legais normatizados em leis, decretos e/ou Diretrizes Curriculares Nacionais e seu tratamento está explícito na tabela a seguir: 
+A estrutura curricular do curso atende aos requisitos legais normatizados em leis, decretos e/ou Diretrizes Curriculares Nacionais e seu tratamento está explícito na tabela a seguir:
 
 |||
 |---|---|
@@ -1361,12 +1126,6 @@ A estrutura curricular do curso atende aos requisitos legais normatizados em lei
 |Educação Ambiental|● Semana do Meio Ambiente<br>● Projetos de ensino, pesquisa, extensão<br>e/ou inovação<br>● Abordagem transversal entre os<br>componentes curriculares|
 |Educação das Relações Étnico-Raciais e<br>para o Ensino de História e Cultura Afro-<br>Brasileira, Africana e Indígena|● Semana da consciência negra<br>● Projetos de ensino, pesquisa, extensão<br>e/ou inovação<br>● Abordagem transversal entre os<br>componentes curriculares|
 
-
-
-49 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |||
 |---|---|
 |Educação em Direitos Humanos|● Projetos de ensino, pesquisa, extensão<br>e/ou inovação<br>● Abordagem transversal entre os<br>componentes curriculares|
@@ -1375,47 +1134,37 @@ A estrutura curricular do curso atende aos requisitos legais normatizados em lei
 |Conceito de Gênero conforme PNE|● Projetos de ensino, pesquisa, extensão<br>e/ou inovação<br>● Abordagem<br>transversal<br>entre<br>os<br>componentes curriculares|
 |Educação para a Segurança no Trânsito|● Projetos de ensino, pesquisa, extensão<br>e/ou inovação<br>● Abordagem<br>transversal<br>entre<br>os<br>componentes curriculares|
 
+## **Língua Brasileira de Sinais**
 
+O Decreto nº 5.626/2005, que regulamenta a Lei no. 10.436/2002 que dispõe sobre a Língua Brasileira de Sinais – LIBRAS, em seu inciso 2º orienta a inclusão da LIBRAS como componente curricular optativo, assim o curso a oferece de forma elegível no decorrer do curso. Art. 3º A Libras deve ser inserida como disciplina curricular obrigatória nos cursos de formação de professores para o exercício do magistério, em nível médio e superior, e nos cursos de Fonoaudiologia, de instituições de ensino, públicas e privadas, do sistema federal de ensino e dos sistemas de ensino dos Estados, do Distrito Federal e dos Municípios.
 
-## **Língua Brasileira de Sinais** 
+§ 1º Todos os cursos de licenciatura, nas diferentes áreas do conhecimento, o curso normal de nível médio, o curso normal superior, o curso de Pedagogia e o curso de Educação Especial são considerados cursos de formação de professores e profissionais da educação para o exercício do magistério.
 
-O Decreto nº 5.626/2005, que regulamenta a Lei no. 10.436/2002 que dispõe sobre a Língua Brasileira de Sinais – LIBRAS, em seu inciso 2º orienta a inclusão da LIBRAS como componente curricular optativo, assim o curso a oferece de forma elegível no decorrer do curso. Art. 3º A Libras deve ser inserida como disciplina curricular obrigatória nos cursos de formação de professores para o exercício do magistério, em nível médio e superior, e nos cursos de Fonoaudiologia, de instituições de ensino, públicas e privadas, do sistema federal de ensino e dos sistemas de ensino dos Estados, do Distrito Federal e dos Municípios. 
+§ 2º A Libras constituir-se-á em disciplina curricular optativa nos demais cursos de educação superior e na educação profissional, a partir de um ano da publicação deste Decreto.
 
-50 
+A oferta de LIBRAS acontece em período de contraturno acadêmico e/ou especialmente aos sábados no decorrer do ano letivo. Sua oferta atenderá no máximo 40 alunos por turma, desde que tenha um mínimo de 20 alunos interessados. Além disso, o IFPR Campus Paranavaí tem a disposição intérprete da língua de sinais que garante o atendimento às necessidades educacionais de alunos surdos nas salas de aula, nos contraturnos, durante a avaliação, bem como orienta o corpo docente quanto ao apoio às especificidades linguísticas do aluno surdo.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **Educação ambiental**
 
-§ 1º Todos os cursos de licenciatura, nas diferentes áreas do conhecimento, o curso normal de nível médio, o curso normal superior, o curso de Pedagogia e o curso de Educação Especial são considerados cursos de formação de professores e profissionais da educação para o exercício do magistério. 
+A Lei nº 9.795/ 1999 e o Decreto Nº 4.281/2002 versam sobre a Política Nacional de Educação Ambiental e sua inserção obrigatória em todos os níveis e modalidades do ensino formal, conforme artigo 10 da Lei nº 9.795/1999:
 
-§ 2º A Libras constituir-se-á em disciplina curricular optativa nos demais cursos de educação superior e na educação profissional, a partir de um ano da publicação deste Decreto. 
+Art. 10. A educação ambiental será desenvolvida como uma prática educativa integrada, contínua e permanente em todos os níveis e modalidades do ensino formal.
 
-A oferta de LIBRAS acontece em período de contraturno acadêmico e/ou especialmente aos sábados no decorrer do ano letivo. Sua oferta atenderá no máximo 40 alunos por turma, desde que tenha um mínimo de 20 alunos interessados. Além disso, o IFPR Campus Paranavaí tem a disposição intérprete da língua de sinais que garante o atendimento às necessidades educacionais de alunos surdos nas salas de aula, nos contraturnos, durante a avaliação, bem como orienta o corpo docente quanto ao apoio às especificidades linguísticas do aluno surdo. 
+§ 1º A educação ambiental não deve ser implantada como disciplina específica no currículo de ensino.
 
-## **Educação ambiental** 
+§ 2º Nos cursos de pós-graduação, extensão e nas áreas voltadas ao aspecto metodológico da educação ambiental, quando se fizer necessário, é facultada a criação de disciplina específica. § 3º Nos cursos de formação e especialização técnico-profissional, em todos os níveis, deve ser incorporado conteúdo que trate da ética ambiental das atividades profissionais a serem desenvolvidas.
 
-A Lei nº 9.795/ 1999 e o Decreto Nº 4.281/2002 versam sobre a Política Nacional de Educação Ambiental e sua inserção obrigatória em todos os níveis e modalidades do ensino formal, conforme artigo 10 da Lei nº 9.795/1999: 
+De forma inquestionável regulada a partir do artigo 5º do Decreto Nº 4.281/2002 que explicita a educação ambiental articulada em todos os níveis e modalidades do processo educativo.
 
-Art. 10. A educação ambiental será desenvolvida como uma prática educativa integrada, contínua e permanente em todos os níveis e modalidades do ensino formal. 
+Art. 5o Na inclusão da Educação Ambiental em todos os níveis e modalidades de ensino, recomenda-se como referência os Parâmetros e as Diretrizes Curriculares Nacionais, observandose:
 
-§ 1º A educação ambiental não deve ser implantada como disciplina específica no currículo de ensino. 
+I - a integração da educação ambiental às disciplinas de modo transversal, contínuo e permanente;
 
-§ 2º Nos cursos de pós-graduação, extensão e nas áreas voltadas ao aspecto metodológico da educação ambiental, quando se fizer necessário, é facultada a criação de disciplina específica. § 3º Nos cursos de formação e especialização técnico-profissional, em todos os níveis, deve ser incorporado conteúdo que trate da ética ambiental das atividades profissionais a serem desenvolvidas. 
+II - a adequação dos programas já vigentes de formação continuada de educadores.
 
-De forma inquestionável regulada a partir do artigo 5º do Decreto Nº 4.281/2002 que explicita a educação ambiental articulada em todos os níveis e modalidades do processo educativo. 
+Desta forma, essa proposta de curso prevê o tratamento deste item de forma transversal entre os componentes curriculares de Fundamentos da Computação e Organização e Arquitetura de Computadores e Ética, Cultura e Sociedade do curso, conforme lista a seguir:
 
-Art. 5o Na inclusão da Educação Ambiental em todos os níveis e modalidades de ensino, recomenda-se como referência os Parâmetros e as Diretrizes Curriculares Nacionais, observandose: 
-
-I - a integração da educação ambiental às disciplinas de modo transversal, contínuo e permanente; 
-
-II - a adequação dos programas já vigentes de formação continuada de educadores. 
-
-Desta forma, essa proposta de curso prevê o tratamento deste item de forma transversal entre os componentes curriculares de Fundamentos da Computação e Organização e Arquitetura de Computadores e Ética, Cultura e Sociedade do curso, conforme lista a seguir: 
-
-A articulação do tema abrange os componentes curriculares de Arquitetura de Computadores e Ética, Cultura e Sociedade, sendo formalizado no projeto a seguir: 
-
-51 
-
-**==> picture [472 x 55] intentionally omitted <==**
+A articulação do tema abrange os componentes curriculares de Arquitetura de Computadores e Ética, Cultura e Sociedade, sendo formalizado no projeto a seguir:
 
 ||||||
 |---|---|---|---|---|
@@ -1428,9 +1177,7 @@ A articulação do tema abrange os componentes curriculares de Arquitetura de Co
 |**Ética, Cultura e**<br>**Sociedade**|||||
 ||||||
 
-
-
-Resultante desta articulação encontra-se o projeto Oficina E-lixo com seus objetivos descritos na tabela a seguir: 
+Resultante desta articulação encontra-se o projeto Oficina E-lixo com seus objetivos descritos na tabela a seguir:
 
 ||||||
 |---|---|---|---|---|
@@ -1440,20 +1187,12 @@ Resultante desta articulação encontra-se o projeto Oficina E-lixo com seus obj
 ||||||
 ||||||
 
-
-
-52 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |||coleta, triagem e<br>reciclagem<br>de<br>lixo eletrônico.|componentes<br>de<br>hardware<br>para<br>o<br>descarte consciente,<br>com<br>intuito<br>de<br>eliminar o impacto<br>ambiental<br>causado<br>pelo lixo eletrônico.|realização<br>do<br>evento<br>intitulado:<br>Mutirão do Lixo<br>Eletrônico<br>em<br>parceira<br>com<br>entidade da cidade.|
 |---|---|---|---|---|
 |**Oficina**<br>**E-lixo**|||||
 ||||||
 
-
-
-O trabalho interdisciplinar que trata o tema de forma transversal faz parte do projeto: 
+O trabalho interdisciplinar que trata o tema de forma transversal faz parte do projeto:
 
 ||||||
 |---|---|---|---|---|
@@ -1463,51 +1202,41 @@ O trabalho interdisciplinar que trata o tema de forma transversal faz parte do p
 |**LABIEN**|||||
 ||||||
 
+O LABIEN realiza atividades culturais, palestras, mesa redonda, atividades com estudantes e acadêmicos de todo o campus, produção de cartazes, etc. e ainda são convidados palestrantes e ativistas para participarem com palestras e apresentações no campus. Segue uma breve relação dos temas ambientais tratados no projeto:
 
+**Projeto** : LABIEN – Laboratório Interdisciplinar e Multidisciplinar de Ensino
 
-O LABIEN realiza atividades culturais, palestras, mesa redonda, atividades com estudantes e acadêmicos de todo o campus, produção de cartazes, etc. e ainda são convidados palestrantes e ativistas para participarem com palestras e apresentações no campus. Segue uma breve relação dos temas ambientais tratados no projeto: 
+**Objetivo:** O LABIEN constitui-se de um projeto que visa garantir a indissociabilidade das atividades de ensino, pesquisa e extensão. O projeto acontece com o apoio de alunos e professores de diversas áreas do saber, considerando suas relações com o ambiente escolar, comunidade e suas diversidades. Seu objetivo é operacionalizar ações que buscam a democratização do saber e de transformação da sociedade no IFPR Campus Paranavaí.
 
-**Projeto** : LABIEN – Laboratório Interdisciplinar e Multidisciplinar de Ensino 
+## **Período de realização:** Anual
 
-53 
+**Tipo de Projeto:** Extensão - Cadastrado no COPE
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **Temas em foco:**
 
-**Objetivo:** O LABIEN constitui-se de um projeto que visa garantir a indissociabilidade das atividades de ensino, pesquisa e extensão. O projeto acontece com o apoio de alunos e professores de diversas áreas do saber, considerando suas relações com o ambiente escolar, comunidade e suas diversidades. Seu objetivo é operacionalizar ações que buscam a democratização do saber e de transformação da sociedade no IFPR Campus Paranavaí. 
+- Oficinas de Sustentabilidade
 
-## **Período de realização:** Anual 
+- Semana do Meio Ambiente - Biodiversidade
 
-**Tipo de Projeto:** Extensão - Cadastrado no COPE 
+- Economia, meio ambiente e inovação
 
-## **Temas em foco:** 
+- Herbicidas Naturais
 
-- Oficinas de Sustentabilidade 
+- Tour Ambiental
 
-- Semana do Meio Ambiente - Biodiversidade 
+- ● Museu de Zoologia
 
-- Economia, meio ambiente e inovação 
+## **Educação: as Relações Étnico-Raciais e o Ensino de História e Cultura Afro-Brasileira, Africana e Indígena**
 
-- Herbicidas Naturais 
+As Diretrizes Curriculares Nacionais que regulam a Educação das Relações ÉtnicoRaciais e o Ensino de História e Cultura Afro-Brasileira, Africana e Indígena, nos termos da Lei Nº 9.394/96, com a redação dada pelas Leis Nº 10.639/2003 e N° 11.645/2008, e da Resolução CNE/CP N° 1/2004, fundamentada no Parecer CNE/CP Nº 3/2004, diz que:
 
-- Tour Ambiental 
+O ensino de História e Cultura Afro-Brasileira e Africana se fará por diferentes meios, em atividades curriculares ou não, em que: – se explicitem, busquem compreender e interpretar, na perspectiva de quem o formule, diferentes formas de expressão e de organização de raciocínios e pensamentos de raiz da cultura africana; – promovam-se oportunidades de diálogo em que se conheçam, se ponham em comunicação diferentes sistemas simbólicos e estruturas conceituais, bem como se busquem formas de convivência respeitosa, além da construção de projeto de sociedade em que todos se sintam encorajados a expor, defender sua especificidade étnico-racial e a buscar garantias para que todos o façam; – sejam
 
-- ● Museu de Zoologia 
+incentivadas atividades em que pessoas – estudantes, professores, servidores, integrantes da comunidade externa aos estabelecimentos de ensino de diferentes culturas interatuem e se interpretem reciprocamente, respeitando os valores, visões de mundo, raciocínios e pensamentos de cada um.
 
-## **Educação: as Relações Étnico-Raciais e o Ensino de História e Cultura Afro-Brasileira, Africana e Indígena** 
+O ensino de História e Cultura Afro-Brasileira e Africana, a educação das relações étnico-raciais, tal como explicita o presente parecer, se desenvolverão no cotidiano das escolas, nos diferentes níveis e modalidades de ensino, como conteúdo de disciplinas, particularmente, Educação Artística, Literatura e História do Brasil, sem prejuízo das demais, em atividades curriculares ou não, trabalhos em salas de aula, nos laboratórios de ciências e de informática, na utilização de sala de leitura, biblioteca, brinquedoteca, áreas de recreação, quadra de esportes e outros ambientes escolares.
 
-As Diretrizes Curriculares Nacionais que regulam a Educação das Relações ÉtnicoRaciais e o Ensino de História e Cultura Afro-Brasileira, Africana e Indígena, nos termos da Lei Nº 9.394/96, com a redação dada pelas Leis Nº 10.639/2003 e N° 11.645/2008, e da Resolução CNE/CP N° 1/2004, fundamentada no Parecer CNE/CP Nº 3/2004, diz que: 
-
-O ensino de História e Cultura Afro-Brasileira e Africana se fará por diferentes meios, em atividades curriculares ou não, em que: – se explicitem, busquem compreender e interpretar, na perspectiva de quem o formule, diferentes formas de expressão e de organização de raciocínios e pensamentos de raiz da cultura africana; – promovam-se oportunidades de diálogo em que se conheçam, se ponham em comunicação diferentes sistemas simbólicos e estruturas conceituais, bem como se busquem formas de convivência respeitosa, além da construção de projeto de sociedade em que todos se sintam encorajados a expor, defender sua especificidade étnico-racial e a buscar garantias para que todos o façam; – sejam 
-
-54 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-incentivadas atividades em que pessoas – estudantes, professores, servidores, integrantes da comunidade externa aos estabelecimentos de ensino de diferentes culturas interatuem e se interpretem reciprocamente, respeitando os valores, visões de mundo, raciocínios e pensamentos de cada um. 
-
-O ensino de História e Cultura Afro-Brasileira e Africana, a educação das relações étnico-raciais, tal como explicita o presente parecer, se desenvolverão no cotidiano das escolas, nos diferentes níveis e modalidades de ensino, como conteúdo de disciplinas, particularmente, Educação Artística, Literatura e História do Brasil, sem prejuízo das demais, em atividades curriculares ou não, trabalhos em salas de aula, nos laboratórios de ciências e de informática, na utilização de sala de leitura, biblioteca, brinquedoteca, áreas de recreação, quadra de esportes e outros ambientes escolares. 
-
-Para garantir indistintamente, por meio da educação, iguais direitos para o pleno desenvolvimento de todos e de cada um, enquanto pessoa, cidadão ou profissional, este projeto pedagógico de curso prevê a abordagem do assunto na forma de projetos sistematizados e de forma transversal e articulada entre as disciplinas de Ética, Cultura e Sociedade e Leitura e Produção de Gêneros Acadêmicos, abordando o assunto conforme segue os conteúdos programáticos dispostos na tabela abaixo: 
+Para garantir indistintamente, por meio da educação, iguais direitos para o pleno desenvolvimento de todos e de cada um, enquanto pessoa, cidadão ou profissional, este projeto pedagógico de curso prevê a abordagem do assunto na forma de projetos sistematizados e de forma transversal e articulada entre as disciplinas de Ética, Cultura e Sociedade e Leitura e Produção de Gêneros Acadêmicos, abordando o assunto conforme segue os conteúdos programáticos dispostos na tabela abaixo:
 
 ||||||
 |---|---|---|---|---|
@@ -1517,20 +1246,12 @@ Para garantir indistintamente, por meio da educação, iguais direitos para o pl
 |**Ética, Cultura e**<br>**Sociedade**|||||
 ||||||
 
-
-
-55 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 ||2|1|Leitura e escrita de<br>gêneros<br>do<br>domínio discursivo<br>acadêmico-<br>científico.|Leitura, discussão e<br>escrita de textos com<br>temática ligada ao<br>tema.<br>Reflexões<br>sobre<br>letramento<br>acadêmico.|
 |---|---|---|---|---|
 |**Leitura e Produção**<br>**de Gêneros**<br>**Acadêmicos**|||||
 ||||||
 
-
-
-O tratamento transversal ao tema está formalizado no projeto a seguir: 
+O tratamento transversal ao tema está formalizado no projeto a seguir:
 
 ||||||
 |---|---|---|---|---|
@@ -1540,81 +1261,71 @@ O tratamento transversal ao tema está formalizado no projeto a seguir:
 |**Momento**<br>**Reflexão**|||||
 ||||||
 
+Além disso, o IFPR Campus Paranavaí tem sistematizado em suas atividades o Mês da Consciência Negra, comemorado próximo a data de 20 de novembro, dia da consciência negra. São realizadas atividades culturais, palestras, mesa redonda, atividades com estudantes e acadêmicos de todo o campus, produção de cartazes, etc. e ainda são convidados palestrantes e ativistas para participarem com palestras e apresentações no campus. Segue uma breve descrição do projeto:
 
+**Projeto** : Mês da Consciência Negra
 
-Além disso, o IFPR Campus Paranavaí tem sistematizado em suas atividades o Mês da Consciência Negra, comemorado próximo a data de 20 de novembro, dia da consciência negra. São realizadas atividades culturais, palestras, mesa redonda, atividades com estudantes e acadêmicos de todo o campus, produção de cartazes, etc. e ainda são convidados palestrantes e ativistas para participarem com palestras e apresentações no campus. Segue uma breve descrição do projeto: 
+## **Objetivos:**
 
-56 
+- Romper com a ideia de que a África é apenas um continente de pobreza e miséria.
 
-**==> picture [472 x 55] intentionally omitted <==**
+- Identificar a África como um _lócus_ de cultura e símbolo de identidade cultural.
 
-**Projeto** : Mês da Consciência Negra 
+- Problematizar o mito da democracia racial no Brasil
 
-## **Objetivos:** 
+- Localizar de que forma o “conformismo” racial se faz presente na mídia, na escola, nas relações familiares, etc.
 
-- Romper com a ideia de que a África é apenas um continente de pobreza e miséria. 
+- Valorizar a originalidade, a diversidade da cultura afro para a formação do povo brasileiro.
 
-- Identificar a África como um _lócus_ de cultura e símbolo de identidade cultural. 
+- Romper com as manifestações do senso comum que naturaliza o preconceito e a inferioridade racial no Brasil.
 
-- Problematizar o mito da democracia racial no Brasil 
+- Resgatar as diferentes manifestações de luta e resistência do movimento negro no Brasil
 
-- Localizar de que forma o “conformismo” racial se faz presente na mídia, na escola, nas relações familiares, etc. 
+- Buscar alternativas que amenizem o preconceito e a discriminação dos afrodescendentes em nosso País.
 
-- Valorizar a originalidade, a diversidade da cultura afro para a formação do povo brasileiro. 
+- Debater sobre os limites e a perspectivas de cotas para negros nas universidades públicas do País.
 
-- Romper com as manifestações do senso comum que naturaliza o preconceito e a inferioridade racial no Brasil. 
+**Período de realização:** Uma vez por ano no mês de novembro
 
-- Resgatar as diferentes manifestações de luta e resistência do movimento negro no Brasil 
+**Tipo de Projeto:** Evento - Sem cadastro no COPE
 
-- Buscar alternativas que amenizem o preconceito e a discriminação dos afrodescendentes em nosso País. 
+## **Temas em foco:**
 
-- Debater sobre os limites e a perspectivas de cotas para negros nas universidades públicas do País. 
+- Originalidade e Diversidade do Continente Africano;
 
-**Período de realização:** Uma vez por ano no mês de novembro 
+- A chegada do negro ao Brasil e a estruturação do sistema colonial
 
-**Tipo de Projeto:** Evento - Sem cadastro no COPE 
+- O Comércio Triangular de Escravos
 
-## **Temas em foco:** 
+- Os diferentes tipos de escravos/ - A luta dos negros à escravidão
 
-- Originalidade e Diversidade do Continente Africano; 
+- Trabalho escravo na atualidade
 
-- A chegada do negro ao Brasil e a estruturação do sistema colonial 
+- O mito da democracia racial: o Brasil é racista? Como?
 
-- O Comércio Triangular de Escravos 
+- Racismo é crime! Manifestações do racismo no futebol, na novela, nos livros, etc.
 
-- Os diferentes tipos de escravos/ - A luta dos negros à escravidão 
+- O branqueamento do negro: alisamento do cabelo; hábitos e valores do homem branco; cadê identidade negra?
 
-- Trabalho escravo na atualidade 
+- A luta dos negros contra o racismo: o que é o movimento negro no País?
 
-- O mito da democracia racial: o Brasil é racista? Como? 
+- Quem é a mulher negra no Brasil?
 
-- Racismo é crime! Manifestações do racismo no futebol, na novela, nos livros, etc. 
+- Identidade e Diversidade da Cultura Negra: a cultura Black Power nas décadas de 1960; a cultura rastafári nos de 1970.
 
-- O branqueamento do negro: alisamento do cabelo; hábitos e valores do homem branco; cadê identidade negra? 
+- A música negra: um estudo sobre o rap no Brasil
 
-- A luta dos negros contra o racismo: o que é o movimento negro no País? 
+- A influência dos hábitos alimentares dos afrodescendentes na culinária brasileira: feijoada; pimenta; doces, cachaça, etc.
 
-- Quem é a mulher negra no Brasil? 
+- A Capoeira: dança, luta e resistência à escravidão.
 
-- Identidade e Diversidade da Cultura Negra: a cultura Black Power nas décadas de 1960; a cultura rastafári nos de 1970. 
+- Congada, maracatu, etc. festas e danças negras.
 
-57 
+## **Processos de Envelhecimento**
 
-**==> picture [472 x 55] intentionally omitted <==**
+Conteúdos voltados ao processo de envelhecimento, ao respeito e a valorização do idoso, de forma a eliminar o preconceito e a produzir conhecimentos sobre a matéria, nos diversos níveis de ensino formal, conforme preconiza a Lei no 10.741/2003, são temas transversais tratados em projetos institucionais.
 
-- A música negra: um estudo sobre o rap no Brasil 
-
-- A influência dos hábitos alimentares dos afrodescendentes na culinária brasileira: feijoada; pimenta; doces, cachaça, etc. 
-
-- A Capoeira: dança, luta e resistência à escravidão. 
-
-- Congada, maracatu, etc. festas e danças negras. 
-
-## **Processos de Envelhecimento** 
-
-Conteúdos voltados ao processo de envelhecimento, ao respeito e a valorização do idoso, de forma a eliminar o preconceito e a produzir conhecimentos sobre a matéria, nos diversos níveis de ensino formal, conforme preconiza a Lei no 10.741/2003, são temas transversais tratados em projetos institucionais. 
-
-Desta forma, essa proposta de curso prevê o tratamento deste item de forma transversal entre os componentes curriculares de Leitura e Produção de Gêneros Acadêmicos e Ética, Cultura e Sociedade do curso: 
+Desta forma, essa proposta de curso prevê o tratamento deste item de forma transversal entre os componentes curriculares de Leitura e Produção de Gêneros Acadêmicos e Ética, Cultura e Sociedade do curso:
 
 ||||||
 |---|---|---|---|---|
@@ -1627,17 +1338,11 @@ Desta forma, essa proposta de curso prevê o tratamento deste item de forma tran
 |**Leitura e**<br>**Produção de**<br>**Gêneros**<br>**Acadêmicos**|||||
 ||||||
 
+## **Conceito de gênero**
 
+A partir da aprovação do Plano Nacional de Educação – PNE (lei nº 13.005, de 25 de junho de 2014), inclui-se uma série de temas que ganharam significativa importância, dentre eles, o debate em torno da dimensão de gênero e orientação sexual nos planos de Educação.
 
-## **Conceito de gênero** 
-
-A partir da aprovação do Plano Nacional de Educação – PNE (lei nº 13.005, de 25 de junho de 2014), inclui-se uma série de temas que ganharam significativa importância, dentre eles, o debate em torno da dimensão de gênero e orientação sexual nos planos de Educação. 
-
-Desta forma, é tratada de modo transversal nas disciplinas de Ética, Cultura e Sociedade e Leitura e Produção de Gêneros Acadêmicos: 
-
-58 
-
-**==> picture [472 x 55] intentionally omitted <==**
+Desta forma, é tratada de modo transversal nas disciplinas de Ética, Cultura e Sociedade e Leitura e Produção de Gêneros Acadêmicos:
 
 ||||||
 |---|---|---|---|---|
@@ -1650,21 +1355,15 @@ Desta forma, é tratada de modo transversal nas disciplinas de Ética, Cultura e
 |**Leitura e**<br>**Produção de**<br>**Gêneros**<br>**Acadêmicos**|||||
 ||||||
 
+## **Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista**
 
+O adequado tratamento de pessoas com deficiência, como preconiza a Convenção Internacional sobre os Direitos da Pessoa com Deficiência e ratificada em emenda constitucional, é fundamental para garantir os direitos, a dignidade, autonomia individual, acessibilidade, participação e inclusão na sociedade e pela igualdade de oportunidades, evidenciando que a deficiência é apenas mais uma característica da condição humana. É também em âmbito escolar que o diálogo favorece a discussão coletiva sobre a falta de acesso, bens e serviços que equiparem as oportunidades, que graças ao modelo social que substitui o modelo médico, esclarece que o fator limitador da pessoa com deficiência é o meio em que está inserida e não a deficiência em si. Os alunos do curso de Bacharelado Engenharia de Software podem contribuir significativamente para o avanço de pesquisas que favoreçam este segmento da sociedade, já que podem desenvolver protótipos e/ou produtos computacionais que atendam a essa demanda.
 
-## **Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista** 
+No que tange a pessoa com transtorno do espectro autista, conforme trata a Lei n° 12.764 de 27/12/2012, especificamente no Art. 4º:
 
-O adequado tratamento de pessoas com deficiência, como preconiza a Convenção Internacional sobre os Direitos da Pessoa com Deficiência e ratificada em emenda constitucional, é fundamental para garantir os direitos, a dignidade, autonomia individual, acessibilidade, participação e inclusão na sociedade e pela igualdade de oportunidades, evidenciando que a deficiência é apenas mais uma característica da condição humana. É também em âmbito escolar que o diálogo favorece a discussão coletiva sobre a falta de acesso, bens e serviços que equiparem as oportunidades, que graças ao modelo social que substitui o modelo médico, esclarece que o fator limitador da pessoa com deficiência é o meio em que está inserida e não a deficiência em si. Os alunos do curso de Bacharelado Engenharia de Software podem contribuir significativamente para o avanço de pesquisas que favoreçam este segmento da sociedade, já que podem desenvolver protótipos e/ou produtos computacionais que atendam a essa demanda. 
+Art. 4º É dever do Estado, da família, da comunidade escolar e da sociedade assegurar o direito da pessoa com transtorno do espectro autista à educação, em sistema educacional inclusivo, garantida a transversalidade da educação especial desde a educação infantil até a educação superior.
 
-No que tange a pessoa com transtorno do espectro autista, conforme trata a Lei n° 12.764 de 27/12/2012, especificamente no Art. 4º: 
-
-Art. 4º É dever do Estado, da família, da comunidade escolar e da sociedade assegurar o direito da pessoa com transtorno do espectro autista à educação, em sistema educacional inclusivo, garantida a transversalidade da educação especial desde a educação infantil até a educação superior. 
-
-Desta forma, é tratada de modo transversal nas disciplinas de Ética, Cultura e Sociedade e Leitura e Produção de Gêneros Acadêmicos: 
-
-59 
-
-**==> picture [472 x 55] intentionally omitted <==**
+Desta forma, é tratada de modo transversal nas disciplinas de Ética, Cultura e Sociedade e Leitura e Produção de Gêneros Acadêmicos:
 
 ||||||
 |---|---|---|---|---|
@@ -1677,29 +1376,23 @@ Desta forma, é tratada de modo transversal nas disciplinas de Ética, Cultura e
 |**Leitura e**<br>**Produção de**<br>**Gêneros**<br>**Acadêmicos**|||||
 ||||||
 
+## **Educação em Direitos Humanos**
 
+As Diretrizes Nacionais para a Educação em Direitos Humanos, estabelecida pela Resolução CNE/CP N° 1, de 30/05/2012, orienta que:
 
-## **Educação em Direitos Humanos** 
+Art. 9º A Educação em Direitos Humanos deverá estar presente na formação inicial e continuada de todos(as) os(as) profissionais das diferentes áreas do conhecimento.
 
-As Diretrizes Nacionais para a Educação em Direitos Humanos, estabelecida pela Resolução CNE/CP N° 1, de 30/05/2012, orienta que: 
+Mais detalhadamente o Art. 7º propõe:
 
-Art. 9º A Educação em Direitos Humanos deverá estar presente na formação inicial e continuada de todos(as) os(as) profissionais das diferentes áreas do conhecimento. 
+A inserção dos conhecimentos concernentes à Educação em Direitos Humanos na organização dos currículos da Educação Básica e da Educação Superior poderá ocorrer das seguintes formas:
 
-Mais detalhadamente o Art. 7º propõe: 
+I - pela transversalidade, por meio de temas relacionados aos Direitos Humanos e tratados interdisciplinarmente;
 
-A inserção dos conhecimentos concernentes à Educação em Direitos Humanos na organização dos currículos da Educação Básica e da Educação Superior poderá ocorrer das seguintes formas: 
+II - como um conteúdo específico de uma das disciplinas já existentes no currículo escolar;
 
-I - pela transversalidade, por meio de temas relacionados aos Direitos Humanos e tratados interdisciplinarmente; 
+III - de maneira mista, ou seja, combinando transversalidade e disciplinaridade;
 
-II - como um conteúdo específico de uma das disciplinas já existentes no currículo escolar; 
-
-III - de maneira mista, ou seja, combinando transversalidade e disciplinaridade; 
-
-Desta forma, é tratada de modo transversal nas disciplinas de Ética, Cultura e Sociedade e Leitura e Produção de Gêneros Acadêmicos conforme segue: 
-
-60 
-
-**==> picture [472 x 55] intentionally omitted <==**
+Desta forma, é tratada de modo transversal nas disciplinas de Ética, Cultura e Sociedade e Leitura e Produção de Gêneros Acadêmicos conforme segue:
 
 ||||||
 |---|---|---|---|---|
@@ -1712,9 +1405,7 @@ Desta forma, é tratada de modo transversal nas disciplinas de Ética, Cultura e
 |**Leitura e**<br>**Produção de**<br>**Gêneros**<br>**Acadêmicos**|||||
 ||||||
 
-
-
-Os temas de inclusão e diversidade humana tratados transversalmente fazem parte dos seguintes projetos: 
+Os temas de inclusão e diversidade humana tratados transversalmente fazem parte dos seguintes projetos:
 
 ||||||
 |---|---|---|---|---|
@@ -1723,12 +1414,6 @@ Os temas de inclusão e diversidade humana tratados transversalmente fazem parte
 ||Horizontal|Mesa redonda<br>para leitura,<br>discussão e<br>conscientizaçã<br>o sobre os<br>Direitos<br>Humanos.|Reflexão sobre os<br>direitos humanos,<br>relações de<br>gênero, grupos<br>sociais, étnicos e<br>minorias.|Leitura,<br>discussão e<br>escrita de<br>textos com as<br>temáticas.|
 |**O Mundo**<br>**em que**<br>**vivemos**|||||
 ||||||
-
-
-
-61 
-
-**==> picture [472 x 55] intentionally omitted <==**
 
 ||Multidisciplinar|Palestras,<br>mesa redonda,<br>oficina,<br>jornada<br>acadêmica,<br>seminários,<br>Intervalos<br>culturais.|Laboratório de<br>operacionalização<br>da união entre<br>teoria e prática do<br>ensino em busca<br>da<br>democratização<br>do saber e de<br>transformação da<br>sociedade.|Preparação do<br>tema,<br>divulgação e<br>organização<br>das ações do<br>projeto.|
 |---|---|---|---|---|
@@ -1741,75 +1426,61 @@ Os temas de inclusão e diversidade humana tratados transversalmente fazem parte
 |**PESC**|||||
 ||||||
 
+As ações estão formalizadas nos projetos a seguir:
 
+**Projeto** : LABIEN – Laboratório Interdisciplinar e Multidisciplinar de Ensino
 
-As ações estão formalizadas nos projetos a seguir: 
+**Objetivo:** O LABIEN constitui-se de um projeto que visa garantir a indissociabilidade das atividades de ensino, pesquisa e extensão. O projeto acontece com o apoio de alunos e professores de diversas áreas do saber, considerando suas relações com o ambiente escolar, comunidade e suas diversidades. Seu objetivo é operacionalizar ações que buscam a democratização do saber e de transformação da sociedade no IFPR Campus Paranavaí.
 
-**Projeto** : LABIEN – Laboratório Interdisciplinar e Multidisciplinar de Ensino 
+**Período de realização:** Anual
 
-62 
+**Tipo de Projeto:** Extensão - Cadastrado no COPE
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **Temas em foco:**
 
-**Objetivo:** O LABIEN constitui-se de um projeto que visa garantir a indissociabilidade das atividades de ensino, pesquisa e extensão. O projeto acontece com o apoio de alunos e professores de diversas áreas do saber, considerando suas relações com o ambiente escolar, comunidade e suas diversidades. Seu objetivo é operacionalizar ações que buscam a democratização do saber e de transformação da sociedade no IFPR Campus Paranavaí. 
+- Oficinas de Sustentabilidade
 
-**Período de realização:** Anual 
+- Semana do Meio Ambiente - Biodiversidade
 
-**Tipo de Projeto:** Extensão - Cadastrado no COPE 
+- Economia, meio ambiente e inovação
 
-## **Temas em foco:** 
+- Herbicidas Naturais
 
-- Oficinas de Sustentabilidade 
+- Tour Ambiental
 
-- Semana do Meio Ambiente - Biodiversidade 
+- Museu de Zoologia
 
-- Economia, meio ambiente e inovação 
+**Projeto** : IF DEBATE
 
-- Herbicidas Naturais 
+**Objetivos:** Congregar família, estudantes, educadores em um espaço social que busca soluções e alternativas, confrontando posicionamentos diversos tanto em relação à intervenção no âmbito social e pessoal. A ação transversal se faz com a atuação de diversos profissionais, em virtude da amplitude dos temas abordados.
 
-- Tour Ambiental 
+**Período de realização:** Anual
 
-- Museu de Zoologia 
+**Tipo de Projeto:** Ação de Extensão - Cadastrado no COPE
 
-**Projeto** : IF DEBATE 
+**Temas em foco:**
 
-**Objetivos:** Congregar família, estudantes, educadores em um espaço social que busca soluções e alternativas, confrontando posicionamentos diversos tanto em relação à intervenção no âmbito social e pessoal. A ação transversal se faz com a atuação de diversos profissionais, em virtude da amplitude dos temas abordados. 
+- Prevenção ao bullying
 
-**Período de realização:** Anual 
+- Transtornos emocionais na adolescência
 
-**Tipo de Projeto:** Ação de Extensão - Cadastrado no COPE 
+- Uso indevido das redes sociais: perigos e consequências
 
-63 
+- Maioridade penal em debate
 
-**==> picture [472 x 55] intentionally omitted <==**
+- Violência sexual contra crianças e adolescentes
 
-**Temas em foco:** 
+- Sexualidade na adolescência
 
-- Prevenção ao bullying 
+**Projeto** : PESC – Programa de Educação em Sistemas de Computação **Objetivos:** contribuir com o desenvolvimento tecnológico e científico institucional, gerando conhecimento e formando acadêmicos com conhecimentos e competência multidisciplinar necessária para uma atuação profissional exitosa. **Período de realização:** Anual **Tipo de Projeto:** Pesquisa - Cadastrado no COPE **Temas em foco:** ● Tecnologia Assistiva; ● Automação; ● Robótica Educacional; ● Programação de Computadores.
 
-- Transtornos emocionais na adolescência 
+## **Educação para a Segurança de Trânsito**
 
-- Uso indevido das redes sociais: perigos e consequências 
+A educação para o trânsito abrange todos os níveis de ensino de forma interdisciplinar, conforme artigo 74 a 76 da Lei no 9.503/1997.
 
-- Maioridade penal em debate 
+Art. 76. A educação para o trânsito será promovida na pré-escola e nas escolas de 1º, 2º e 3º graus, por meio de planejamento e ações coordenadas entre os órgãos e entidades do Sistema Nacional de Trânsito e de Educação, da União, dos Estados, do Distrito Federal e dos Municípios, nas respectivas áreas de atuação.
 
-- Violência sexual contra crianças e adolescentes 
-
-- Sexualidade na adolescência 
-
-**Projeto** : PESC – Programa de Educação em Sistemas de Computação **Objetivos:** contribuir com o desenvolvimento tecnológico e científico institucional, gerando conhecimento e formando acadêmicos com conhecimentos e competência multidisciplinar necessária para uma atuação profissional exitosa. **Período de realização:** Anual **Tipo de Projeto:** Pesquisa - Cadastrado no COPE **Temas em foco:** ● Tecnologia Assistiva; ● Automação; ● Robótica Educacional; ● Programação de Computadores. 
-
-## **Educação para a Segurança de Trânsito** 
-
-A educação para o trânsito abrange todos os níveis de ensino de forma interdisciplinar, conforme artigo 74 a 76 da Lei no 9.503/1997. 
-
-Art. 76. A educação para o trânsito será promovida na pré-escola e nas escolas de 1º, 2º e 3º graus, por meio de planejamento e ações coordenadas entre os órgãos e entidades do Sistema Nacional de Trânsito e de Educação, da União, dos Estados, do Distrito Federal e dos Municípios, nas respectivas áreas de atuação. 
-
-No curso de Bacharelado em Engenharia de Software o tema será tratado de forma transversal em projetos nas disciplinas de Ética, Cultura e Sociedade e Leitura e Produção de Gêneros Acadêmicos e Probabilidade e Estatística conforme segue: 
-
-64 
-
-**==> picture [472 x 55] intentionally omitted <==**
+No curso de Bacharelado em Engenharia de Software o tema será tratado de forma transversal em projetos nas disciplinas de Ética, Cultura e Sociedade e Leitura e Produção de Gêneros Acadêmicos e Probabilidade e Estatística conforme segue:
 
 ||||||
 |---|---|---|---|---|
@@ -1825,85 +1496,65 @@ No curso de Bacharelado em Engenharia de Software o tema será tratado de forma 
 |**Probabilidade e**<br>**Estatística**|||||
 ||||||
 
+A temática da segurança no trânsito aborda vários aspectos que incluem a leitura, discussão e escrita de textos com temática relacionada, além do levantamento e análise de dados estatísticos relativos ao trânsito e seus reflexos na sociedade.
 
+## **2.5.4 Integração**
 
-A temática da segurança no trânsito aborda vários aspectos que incluem a leitura, discussão e escrita de textos com temática relacionada, além do levantamento e análise de dados estatísticos relativos ao trânsito e seus reflexos na sociedade. 
+## _2.5.4.1 Integração com a Pós-Graduação_
 
-65 
+A Seção 2.4.2 deste documento apresenta as formas de acompanhamento dos egressos destacando as ações da Pró-Reitoria de Extensão, Pesquisa e Inovação. Enquanto o Plano de Desenvolvimento Institucional atesta que as ações institucionais devem viabilizar a verticalização do ensino com políticas articuladas entre os diferentes níveis e modalidades de educação profissional e profissional, embasadas no princípio da unicidade do Ensino, Pesquisa e Extensão (BRASIL, 2009).
 
-**==> picture [472 x 55] intentionally omitted <==**
+Com isto, o IFPR – Campus Paranavaí ofertará desde o ensino médio, passando pelo ensino técnico, ensino superior com cursos de tecnologia, licenciatura e bacharelados até a pósgraduação tanto _Latu sensu_ (especialização) quanto _Strictu sensu_ (mestrado e doutorado), bem como a Formação Inicial e Continuada.
 
-## **2.5.4 Integração** 
+O campus Paranavaí, em particular, oferece atualmente a oportunidade para que os alunos iniciem o ensino médio focado na área da informática, passando por uma graduação em Engenharia de Software e, por fim, cursando uma especialização em Desenvolvimento de Sistemas Web, Móveis e Embarcados.
 
-## _2.5.4.1 Integração com a Pós-Graduação_ 
+## _2.5.4.2 Mobilidade Estudantil e Internacionalização_
 
-A Seção 2.4.2 deste documento apresenta as formas de acompanhamento dos egressos destacando as ações da Pró-Reitoria de Extensão, Pesquisa e Inovação. Enquanto o Plano de Desenvolvimento Institucional atesta que as ações institucionais devem viabilizar a verticalização do ensino com políticas articuladas entre os diferentes níveis e modalidades de educação profissional e profissional, embasadas no princípio da unicidade do Ensino, Pesquisa e Extensão (BRASIL, 2009). 
+Com relação à mobilidade estudantil e à internacionalização, cabe ressaltar que:
 
-Com isto, o IFPR – Campus Paranavaí ofertará desde o ensino médio, passando pelo ensino técnico, ensino superior com cursos de tecnologia, licenciatura e bacharelados até a pósgraduação tanto _Latu sensu_ (especialização) quanto _Strictu sensu_ (mestrado e doutorado), bem como a Formação Inicial e Continuada. 
+O IFPR, em sua contribuição para a formação do estudante, assume o compromisso de proporcionar-lhe a mobilidade escolar/acadêmica, a qual envolve os intercâmbios nacionais e internacionais. Seja por meio de programas do Governo Federal, como o Ciência sem Fronteiras, ou por iniciativas próprias decorrentes de demandas locais, a mobilidade estudantil busca colaborar com a formação integral do estudante de maneira inclusiva, transformadora e comprometida com o desenvolvimento humano. (PDI 139140).
 
-O campus Paranavaí, em particular, oferece atualmente a oportunidade para que os alunos iniciem o ensino médio focado na área da informática, passando por uma graduação em Engenharia de Software e, por fim, cursando uma especialização em Desenvolvimento de Sistemas Web, Móveis e Embarcados. 
+Nesse sentido, o campus Paranavaí está em constante busca por editais e por parcerias que favoreçam a mobilidade estudantil e a internacionalização.
 
-## _2.5.4.2 Mobilidade Estudantil e Internacionalização_ 
+## **2.5.5 Material Didático**
 
-Com relação à mobilidade estudantil e à internacionalização, cabe ressaltar que: 
+NSA.
 
-O IFPR, em sua contribuição para a formação do estudante, assume o compromisso de proporcionar-lhe a mobilidade escolar/acadêmica, a qual envolve os intercâmbios nacionais e internacionais. Seja por meio de programas do Governo Federal, como o Ciência sem Fronteiras, ou por iniciativas próprias decorrentes de demandas locais, a mobilidade estudantil busca colaborar com a formação integral do estudante de maneira inclusiva, transformadora e comprometida com o desenvolvimento humano. (PDI 139140). 
+## **2.5.6 Mecanismos de Interação entre docentes, tutores e estudantes**
 
-Nesse sentido, o campus Paranavaí está em constante busca por editais e por parcerias que favoreçam a mobilidade estudantil e a internacionalização. 
+NSA.
 
-## **2.5.5 Material Didático** 
+## _2.5.6.1 Atividades de Tutoria_
 
-NSA. 
+NSA.
 
-## **2.5.6 Mecanismos de Interação entre docentes, tutores e estudantes** 
+## **2.5.7 Atividades Práticas de Ensino**
 
-NSA. 
+## NSA.
 
-## _2.5.6.1 Atividades de Tutoria_ 
+## **2.5.8 Atividades Práticas Supervisionadas (APS)**
 
-NSA. 
+As Atividades Práticas Supervisionadas (APS), definidas e normatizadas pela Portaria PROENS/IFPR Nº 150, de 13 de dezembro de 2024, são atividades acadêmicas, não circunscritas à sala de aula, desenvolvidas sob a orientação, supervisão e avaliação de docentes e realizadas pelos discentes dos cursos de graduação do IFPR, como parte integrante da carga horária do componente curricular.
 
-66 
+São consideradas APS: estudos dirigidos, trabalhos individuais, trabalhos em grupo, atividades em biblioteca, desenvolvimento de projetos, atividades em laboratório, atividades de campo, oficinas, pesquisas, estudos de casos, seminários, desenvolvimento de trabalhos acadêmicos específicos, dentre outros.
 
-**==> picture [472 x 55] intentionally omitted <==**
+As APS não terão horário pré-estabelecido para sua execução e podem ser realizadas a qualquer momento do período letivo, desde que previstas no plano de ensino do docente, estando limitadas a 10% (dez por cento) da carga horária dos componentes curriculares teóricos, práticos ou teórico-práticos aos quais se vinculam.
 
-## **2.5.7 Atividades Práticas de Ensino** 
+As APS poderão ser desenvolvidas no formato de atividades mediadas por tecnologia, utilizando os ambientes virtuais de aprendizagem (AVA) disponibilizados pelo IFPR.
 
-## NSA. 
+## 2.6 ESTRUTURA CURRICULAR
 
-## **2.5.8 Atividades Práticas Supervisionadas (APS)** 
+## **2.6.1 Representação Gráfica do Processo Formativo**
 
-As Atividades Práticas Supervisionadas (APS), definidas e normatizadas pela Portaria PROENS/IFPR Nº 150, de 13 de dezembro de 2024, são atividades acadêmicas, não circunscritas à sala de aula, desenvolvidas sob a orientação, supervisão e avaliação de docentes e realizadas pelos discentes dos cursos de graduação do IFPR, como parte integrante da carga horária do componente curricular. 
+A Figura 4 apresenta a representação gráfica do processo formativo para curso de Bacharelado Engenharia de Software do IFPR campus Paranavaí. Como pode ser observado, o processo formativo é composto por componentes curriculares de três núcleos: núcleo comum, núcleo básico e núcleo específico.
 
-São consideradas APS: estudos dirigidos, trabalhos individuais, trabalhos em grupo, atividades em biblioteca, desenvolvimento de projetos, atividades em laboratório, atividades de campo, oficinas, pesquisas, estudos de casos, seminários, desenvolvimento de trabalhos acadêmicos específicos, dentre outros. 
+Figura 4 - Representação Gráfica do Processo Formativo para o curso de Bacharelado em Engenharia de Software
 
-As APS não terão horário pré-estabelecido para sua execução e podem ser realizadas a qualquer momento do período letivo, desde que previstas no plano de ensino do docente, estando limitadas a 10% (dez por cento) da carga horária dos componentes curriculares teóricos, práticos ou teórico-práticos aos quais se vinculam. 
+O **Núcleo Comum** é composto por disciplinas como matemática e língua portuguesa. O objetivo desse núcleo é fornecer o alicerce necessário para o desenvolvimento social, técnico e profissional dos estudantes.
 
-As APS poderão ser desenvolvidas no formato de atividades mediadas por tecnologia, utilizando os ambientes virtuais de aprendizagem (AVA) disponibilizados pelo IFPR. 
+O **Núcleo Básico** contém disciplinas básicas de Ciência da Computação, tais como algoritmos e teoria da computação. De acordo com a LDB para cursos de computação, essas disciplinas são fundamentais para a formação de profissionais de Engenharia de Software. Por fim, o **Núcleo Específico** é composto por disciplinas específicas de Engenharia de Software.
 
-## 2.6 ESTRUTURA CURRICULAR 
-
-## **2.6.1 Representação Gráfica do Processo Formativo** 
-
-A Figura 4 apresenta a representação gráfica do processo formativo para curso de Bacharelado Engenharia de Software do IFPR campus Paranavaí. Como pode ser observado, o processo formativo é composto por componentes curriculares de três núcleos: núcleo comum, núcleo básico e núcleo específico. 
-
-67 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-**==> picture [471 x 435] intentionally omitted <==**
-
-Figura 4 - Representação Gráfica do Processo Formativo para o curso de Bacharelado em Engenharia de Software 
-
-O **Núcleo Comum** é composto por disciplinas como matemática e língua portuguesa. O objetivo desse núcleo é fornecer o alicerce necessário para o desenvolvimento social, técnico e profissional dos estudantes. 
-
-O **Núcleo Básico** contém disciplinas básicas de Ciência da Computação, tais como algoritmos e teoria da computação. De acordo com a LDB para cursos de computação, essas disciplinas são fundamentais para a formação de profissionais de Engenharia de Software. Por fim, o **Núcleo Específico** é composto por disciplinas específicas de Engenharia de Software. 
-
-68 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-## **2.6.2 Matriz Curricular** 
+## **2.6.2 Matriz Curricular**
 
 ||**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**|**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**|**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**|**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**|**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**|
 |---|---|---|---|---|---|
@@ -1928,7 +1579,6 @@ O **Núcleo Básico** contém disciplinas básicas de Ciência da Computação, 
 ||Engenharia de Software (ES)|C|2|80|<br>67|
 ||Metodologia<br>de<br>Pesquisa<br>em<br>Engenharia de Software (MPES)|<br>C|2|80|<br>67|
 ||**Subtotal(Total doperíodo)**|||**800**|**669**|
-|||||||
 |**2º Ano**|Cálculo (CAL)|C|2|80|<br>67|
 ||Empreendedorismo em Tecnologia da<br>Informação (EMP)|<br>C|2|80|<br>67|
 ||Algoritmos e Estruturas de Dados II<br>(AGII)|<br>C|2|80|<br>67|
@@ -1938,16 +1588,9 @@ O **Núcleo Básico** contém disciplinas básicas de Ciência da Computação, 
 ||Análise e Projeto de Sistemas (APS)|C|2|80|<br>67|
 ||Interação Humano-Computador (IHC)|C|2|80|<br>67|
 
-
-
-69 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 ||Projeto Integrador I (PI1)|C|2|80|<br>67|
 |---|---|---|---|---|---|
 ||**Subtotal(Total doperíodo)**|||**800**|**669**|
-|||||||
 |**3º Ano**|Probabilidade e Estatística (EST)|C|2|80|<br>67|
 ||Desenvolvimento<br>para<br>Dispositivos<br>Móveis (DDM)|<br>C|4|160|<br>133|
 ||Programação Web (PW)|C|4|160|<br>133|
@@ -1957,7 +1600,6 @@ O **Núcleo Básico** contém disciplinas básicas de Ciência da Computação, 
 ||Construção de Software (CS)|C|2|80|<br>67|
 ||Projeto Integrador II (PI2)|C|2|80|<br>67|
 ||**Subtotal(Total doperíodo)**|||**800**|**668**|
-|||||||
 |**4º Ano**|Redes de Computadores e Segurança<br>(RED)|<br>C|2|80|<br>67|
 ||Tópicos em Computação (TEC)|C|4|160|<br>133|
 ||Governança e Gestão de Serviços de<br>Software (GGSS)|<br>C|2|80|<br>67|
@@ -1966,7 +1608,6 @@ O **Núcleo Básico** contém disciplinas básicas de Ciência da Computação, 
 ||Teste de Software (TES)|C|2|80|<br>67|
 ||Trabalho de Conclusão de Curso<br>(TCC)|<br>C|4|160|<br>133|
 ||**Subtotal(Total doperíodo)**|||**800**|**667**|
-|||||||
 |**Ao longo**<br>**do curso**|Estágio Curricular Supervisionado em<br>Engenharia de Software|<br>ES|9|360|<br>300|
 ||Atividades complementares|AC|7,05|282|<br>235|
 ||**Subtotal(Total doperíodo)**|||**642**|**535**|
@@ -1976,21 +1617,11 @@ O **Núcleo Básico** contém disciplinas básicas de Ciência da Computação, 
 |(AC)Atividades Complementares||||282|<br>235|
 |(ES)Estágio Curricular Supervisionado||||360|<br>300|
 
+## **2.6.3 Componentes Optativos**
 
+COMPONENTE CURRICULAR: Língua Brasileira de Sinais CARGA HORÁRIA: 80/67 EMENTA: Aspectos clínicos, educacionais e sócio antropológicos da surdez. A Língua de Sinais Brasileira - Libras: noções básicas de fonologia, de morfologia e de sintaxe. Estudos do léxico da Libras. Praticar Libras. BIBLIOGRAFIA  BÁSICA: PEREIRA, Maria Cristina da Cunha (ORG). **Libras: conhecimento além dos sinais /.** São Paulo: Pearson Prentice Hall, 2011 GESSER, Audrei. **Libras? que língua é essa? crenças e preconceitos em torno da língua de sinais e da realidade surda** . São Paulo: Parábola Editorial, 2009 BRASIL, Secretaria de Educação Especial. **LIBRAS em Contexto.** Brasília: SEESP, 1998. PEREIRA, Maria Cristina da Cunha et al. **Libras: conhecimento além dos sinais.** São Paulo: Pearson Prentice Hall, 2011. QUADROS, R. M.; KARNOPP, Lodenir. **Língua de Sinais Brasileira: estudos linguísticos** . Porto Alegre: Artmed, 2004. BIBLIOGRAFIA COMPLEMENTAR: REIS, Benedicta Aparecida Costa dos; SEGALA, Sueli Ramalho. **ABC em libras** . São Paulo: Panda Books, 2009. 31 p. ISBN 9788578880026 (broch.). BRASIL, Secretaria de Educação Especial. **Língua Brasileira de Sinais** . Brasília: SEESP, 1997. VELOSO, Eden; MAIA, Valdeci. **Aprenda libras com eficiência e rapidez** . 10. ed. Curitiba: Mão Sinais, 2013 228 p. ISBN 9788560683178 (broch.). PARANÁ, Secretaria de Estado da Educação. Superintendência de Educação. Departamento de Educação especial. **Falando com as Mãos: LIBRAS (Língua Brasileira de Sinais)** . Curitiba: SEED/SUED/DEE, 1998. GARCEZ, L. **Técnica de Redação: o que é preciso saber para bem escrever** . São Paulo: Martins, 2001. MEDEIROS, J. B. **Português Instrumenta** l. São Paulo: Atlas, 2010. ZANDWAIS, A. **Estratégias de leitura** . Porto Alegre: Sagra, 1990.
 
-## **2.6.3 Componentes Optativos** 
-
-70 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-COMPONENTE CURRICULAR: Língua Brasileira de Sinais CARGA HORÁRIA: 80/67 EMENTA: Aspectos clínicos, educacionais e sócio antropológicos da surdez. A Língua de Sinais Brasileira - Libras: noções básicas de fonologia, de morfologia e de sintaxe. Estudos do léxico da Libras. Praticar Libras. BIBLIOGRAFIA  BÁSICA: PEREIRA, Maria Cristina da Cunha (ORG). **Libras: conhecimento além dos sinais /.** São Paulo: Pearson Prentice Hall, 2011 GESSER, Audrei. **Libras? que língua é essa? crenças e preconceitos em torno da língua de sinais e da realidade surda** . São Paulo: Parábola Editorial, 2009 BRASIL, Secretaria de Educação Especial. **LIBRAS em Contexto.** Brasília: SEESP, 1998. PEREIRA, Maria Cristina da Cunha et al. **Libras: conhecimento além dos sinais.** São Paulo: Pearson Prentice Hall, 2011. QUADROS, R. M.; KARNOPP, Lodenir. **Língua de Sinais Brasileira: estudos linguísticos** . Porto Alegre: Artmed, 2004. BIBLIOGRAFIA COMPLEMENTAR: REIS, Benedicta Aparecida Costa dos; SEGALA, Sueli Ramalho. **ABC em libras** . São Paulo: Panda Books, 2009. 31 p. ISBN 9788578880026 (broch.). BRASIL, Secretaria de Educação Especial. **Língua Brasileira de Sinais** . Brasília: SEESP, 1997. VELOSO, Eden; MAIA, Valdeci. **Aprenda libras com eficiência e rapidez** . 10. ed. Curitiba: Mão Sinais, 2013 228 p. ISBN 9788560683178 (broch.). PARANÁ, Secretaria de Estado da Educação. Superintendência de Educação. Departamento de Educação especial. **Falando com as Mãos: LIBRAS (Língua Brasileira de Sinais)** . Curitiba: SEED/SUED/DEE, 1998. GARCEZ, L. **Técnica de Redação: o que é preciso saber para bem escrever** . São Paulo: Martins, 2001. MEDEIROS, J. B. **Português Instrumenta** l. São Paulo: Atlas, 2010. ZANDWAIS, A. **Estratégias de leitura** . Porto Alegre: Sagra, 1990. 
-
-COMPONENTE CURRICULAR: Introdução a Sistemas Embarcados 
-
-71 
-
-**==> picture [472 x 55] intentionally omitted <==**
+COMPONENTE CURRICULAR: Introdução a Sistemas Embarcados
 
 |CARGA HORÁRIA: 80/67|
 |---|
@@ -2029,173 +1660,107 @@ COMPONENTE CURRICULAR: Introdução a Sistemas Embarcados
 |MONK, Simon.**Programação com Arduino: começando com sketches**. Porto Alegre:|
 |Bookman, 2013. 147p. (Série tekne). ISBN 9788582600269 (broch.).(3)|
 
+COMPONENTE CURRICULAR: Projeto e Análise de Algoritmos
 
+CARGA HORÁRIA: 80/67 EMENTA: Notações e terminologias. Modelos computacionais. Medidas de complexidade. Paradigmas de projeto de algoritmos. Classificação de problemas computacionais. BIBLIOGRAFIA  BÁSICA: CORMEN, Thomas H et al. **Algoritmos** : teoria e prática. Rio de Janeiro: Elsevier, 2012. 926 p. ISBN 9788535236996 [broch.]. (1) DOBRUSHKIN, V. A. **Métodos para análise de algoritmos** . Rio de Janeiro: LTC, 2012. 659 p. ISBN 9788521620662 (broch.). (2) GERSTING, Judith. **Fundamentos Matemáticos para a Ciência da Computação** . Editora LTC, 5 edition, 2004. ISBN-13: 978-85-21614227. TOSCANI, Laira V.; VELOSO, Paulo A. S. **Complexidade de algoritmos: análise, projeto e métodos** . 3.ed. Rio Grande Do Sul: Bookman, 2012. 262 p. (Livros didáticos informática UFRGS ; 13). ISBN 9788540701380. ZIVIANI, N. **Projeto de Algoritmos com implementações em Java e C++** . São Paulo. Editora Thomson. ISBN 8522105251. BIBLIOGRAFIA COMPLEMENTAR: BOOLOS, George. **Computabilidade e Lógica.** 432p. Editora: UNESP, 2008. 2013. ISBN-10: 8539303663. ISBN-13: 978-8539303663. CARNIELLI, Walter. **Computabilidade, Funções Computáveis, Lógica e Funções Matemáticas** . 416p. Editora: UNESP, 2008. ISBN-10: 8571398976. ISBN-13: 9788571398979. CORMEN, Thomas H. **Desmistificando Algoritmos** . 1 ed. Rio de Janeiro: Elsevier, 2014. ISBN: 978-85-352-7177-5 DROZDEK, Adam. **Estrutura de dados e algoritmos em C++** . São Paulo: Cengage Learning, 2002. 579 p. ISBN 8522102953. (6)
 
-72 
+MENEZES, P. B. **Matemática discreta para computação e informática** . 4. ed. Porto Alegre: Bookman, 2013. 370p. (Série Livros Didáticos Informática UFRGS, v. 16). (3)
 
-**==> picture [472 x 55] intentionally omitted <==**
+SILVA, Osmar Quirino da. **Estrutura de dados e algoritmos usando c** : fundamentos e aplicações. Rio de Janeiro: Ciência Moderna, 2007. 460 p. ISBN 9788573936117 (broch.). (4)
 
-COMPONENTE CURRICULAR: Projeto e Análise de Algoritmos 
+COMPONENTE CURRICULAR: Inteligência Artificial CARGA HORÁRIA: 80/67 EMENTA: Histórico e Fundamentos da Inteligência Artificial (IA). Estratégias de busca para resolução de problemas. Representação do Conhecimento e Raciocínio. Conceitos de aprendizado de máquina. Aplicações de IA. BIBLIOGRAFIA BÁSICA: RUSSELL, S., NORVIG, P.: **Inteligência Artificial** , Elsevier Editora Ltd, 2014. ISBN: 9788535251418. LIMA, I., PINHEIRO, C. A. M. **Inteligência Artificia** l, Elsevier Editora Ltd, 2016. ISBN: 9788535278095. BEN, C. **Inteligência Artificial** , LTC Editora, 2010, ISBN: 9788521629351. FACELI, K., LORENA, A. C., GAMA, J., CARVALHO, A. C. P. L. F., **Inteligência Artificial: Uma Abordagem de Aprendizado de Máquina** , LTC Editora, 2011, ISBN-10: 8521618808. MITCHELL, T.M. **Machine learning** . WCB/McGraw-Hill, 1997. ISBN 0-07-042807-7. BIBLIOGRAFIA COMPLEMENTAR: KNOX, S. W., **Machine Learning: A concise Introduction** , Wiley Editora, 2018, ISBN: 9781119438984. SULLIVAN, W., **Machine Learning for Beginners Guide Algorithms** , Editora PUBLISHDRIVE, 2018, ISBN: 9781975632328. SULLIVAN, W., **Machine Learning for Absolute Begginers: a step by step  guide** ,
 
-CARGA HORÁRIA: 80/67 EMENTA: Notações e terminologias. Modelos computacionais. Medidas de complexidade. Paradigmas de projeto de algoritmos. Classificação de problemas computacionais. BIBLIOGRAFIA  BÁSICA: CORMEN, Thomas H et al. **Algoritmos** : teoria e prática. Rio de Janeiro: Elsevier, 2012. 926 p. ISBN 9788535236996 [broch.]. (1) DOBRUSHKIN, V. A. **Métodos para análise de algoritmos** . Rio de Janeiro: LTC, 2012. 659 p. ISBN 9788521620662 (broch.). (2) GERSTING, Judith. **Fundamentos Matemáticos para a Ciência da Computação** . Editora LTC, 5 edition, 2004. ISBN-13: 978-85-21614227. TOSCANI, Laira V.; VELOSO, Paulo A. S. **Complexidade de algoritmos: análise, projeto e métodos** . 3.ed. Rio Grande Do Sul: Bookman, 2012. 262 p. (Livros didáticos informática UFRGS ; 13). ISBN 9788540701380. ZIVIANI, N. **Projeto de Algoritmos com implementações em Java e C++** . São Paulo. Editora Thomson. ISBN 8522105251. BIBLIOGRAFIA COMPLEMENTAR: BOOLOS, George. **Computabilidade e Lógica.** 432p. Editora: UNESP, 2008. 2013. ISBN-10: 8539303663. ISBN-13: 978-8539303663. CARNIELLI, Walter. **Computabilidade, Funções Computáveis, Lógica e Funções Matemáticas** . 416p. Editora: UNESP, 2008. ISBN-10: 8571398976. ISBN-13: 9788571398979. CORMEN, Thomas H. **Desmistificando Algoritmos** . 1 ed. Rio de Janeiro: Elsevier, 2014. ISBN: 978-85-352-7177-5 DROZDEK, Adam. **Estrutura de dados e algoritmos em C++** . São Paulo: Cengage Learning, 2002. 579 p. ISBN 8522102953. (6) 
+Editora PUBLISHDRIVE, 2018, ISBN: 6610000086788.
 
-73 
+BRAGA, A. P., **Redes Neurais Artificiais** , Editora LTC, 2007, ISBN: 8521615647.
 
-**==> picture [472 x 55] intentionally omitted <==**
+SILVA, I. N., SPATTI, D. H. **Redes Neurais Artificiais para Engenharia e Ciencias Aplicadas: Curso prático** . Editora Artliber, 2010, ISBN: 8588098539.
 
-MENEZES, P. B. **Matemática discreta para computação e informática** . 4. ed. Porto Alegre: Bookman, 2013. 370p. (Série Livros Didáticos Informática UFRGS, v. 16). (3) 
+COMPONENTE CURRICULAR: Reconhecimento de Padrões
 
-SILVA, Osmar Quirino da. **Estrutura de dados e algoritmos usando c** : fundamentos e aplicações. Rio de Janeiro: Ciência Moderna, 2007. 460 p. ISBN 9788573936117 (broch.). (4) 
+CARGA HORÁRIA: 80/67 EMENTA: Conceituação de Reconhecimento de Padrões. Pré-processamento. Extração de características. Classificação (decisão). Classificadores. Aplicações de Reconhecimento de Padrões. BIBLIOGRAFIA BÁSICA: DUDA, R.O.; HART, P.E.; STORK, D.G. **Pattern Classification** , John Wiley & Sons, 2001. ISBN: 978-0-471-05669-0. RUSSELL, S., NORVIG, P.: **Inteligência Artificial** , Elsevier Editora Ltd, 2014. ISBN: 9788535251418. LIMA, I., PINHEIRO, C. A. M. **Inteligência Artificial** , Elsevier Editora Ltd, 2016. ISBN: 9788535278095. BEN, C. **Inteligência Artificial** , LTC Editora, 2010, ISBN: 9788521629351. FACELI, K., LORENA, A. C., GAMA, J., CARVALHO, A. C. P. L. F., **Inteligência Artificial: Uma Abordagem de Aprendizado de Máquina** , LTC Editora, 2011, ISBN-10: 8521618808. BIBLIOGRAFIA COMPLEMENTAR: KNOX, S. W., **Machine Learning: A concise Introduction** , Wiley Editora, 2018, ISBN: 9781119438984. SULLIVAN, W., **Machine Learning for Beginners Guide Algorithms** , Editora PUBLISHDRIVE, 2018, ISBN: 9781975632328.
 
-COMPONENTE CURRICULAR: Inteligência Artificial CARGA HORÁRIA: 80/67 EMENTA: Histórico e Fundamentos da Inteligência Artificial (IA). Estratégias de busca para resolução de problemas. Representação do Conhecimento e Raciocínio. Conceitos de aprendizado de máquina. Aplicações de IA. BIBLIOGRAFIA BÁSICA: RUSSELL, S., NORVIG, P.: **Inteligência Artificial** , Elsevier Editora Ltd, 2014. ISBN: 9788535251418. LIMA, I., PINHEIRO, C. A. M. **Inteligência Artificia** l, Elsevier Editora Ltd, 2016. ISBN: 9788535278095. BEN, C. **Inteligência Artificial** , LTC Editora, 2010, ISBN: 9788521629351. FACELI, K., LORENA, A. C., GAMA, J., CARVALHO, A. C. P. L. F., **Inteligência Artificial: Uma Abordagem de Aprendizado de Máquina** , LTC Editora, 2011, ISBN-10: 8521618808. MITCHELL, T.M. **Machine learning** . WCB/McGraw-Hill, 1997. ISBN 0-07-042807-7. BIBLIOGRAFIA COMPLEMENTAR: KNOX, S. W., **Machine Learning: A concise Introduction** , Wiley Editora, 2018, ISBN: 9781119438984. SULLIVAN, W., **Machine Learning for Beginners Guide Algorithms** , Editora PUBLISHDRIVE, 2018, ISBN: 9781975632328. SULLIVAN, W., **Machine Learning for Absolute Begginers: a step by step  guide** , 
+SULLIVAN, W., **Machine Learning for Absolute Begginers: a step by step  guide** , Editora PUBLISHDRIVE, 2018, ISBN: 6610000086788.
 
-74 
+BRAGA, A. P., **Redes Neurais Artificiais** , Editora LTC, 2007, ISBN: 8521615647.
 
-**==> picture [472 x 55] intentionally omitted <==**
+SILVA, I. N., SPATTI, D. H. **Redes Neurais Artificiais para Engenharia e Ciencias Aplicadas: Curso prático** . Editora Artliber, 2010, ISBN: 8588098539.
 
-Editora PUBLISHDRIVE, 2018, ISBN: 6610000086788. 
+COMPONENTE CURRICULAR:  Formatadores de Textos Científicos
 
-BRAGA, A. P., **Redes Neurais Artificiais** , Editora LTC, 2007, ISBN: 8521615647. 
+CARGA HORÁRIA: 40/33,33 EMENTA: Apresentação da tecnologia. Estrutura básica. Estrutura de arquivo. Comandos de configuração. Trabalhando com figuras e tabelas. Espaços e Parágrafos. Classes e Modelos. Referências e Bibliografias. Fórmulas matemáticas. Notas de rodapé. Templates. Apresentação. BIBLIOGRAFIA BÁSICA: MITTELBACH, F. et al. **The LATEX Companion** . 2. ed. Reading, Massachusetts: Addison-Wesley, 2004. ISBN 0-201-36299-6. KNUTH, D. E. **The TEXbook** , Volume A of Computers and Typesetting. 2. ed. Reading, Massachusetts: Addison-Wesley, 1984. ISBN 0-201-13448-9. LAMPORT, L. **LATEX: A Document Preparation System** . 2. ed. Reading, Massachusett: Addison-Wesley, 1994. ISBN 0-201-52983-1. WAZLAWICK, Raul Sidnei. **Metodologia de pesquisa para ciência da computação.** Rio de Janeiro: Campus, 2009. BOAVENTURA, E. M. **Metodologia da Pesquisa: Monografia, Dissertação e Tese.** São Paulo: Atlas, 2004. BIBLIOGRAFIA COMPLEMENTAR: JACOBINI, M. L. D. P. **Metodologia do Trabalho Acadêmico.** 4. ed. Alínea, 2011.
 
-SILVA, I. N., SPATTI, D. H. **Redes Neurais Artificiais para Engenharia e Ciencias Aplicadas: Curso prático** . Editora Artliber, 2010, ISBN: 8588098539. 
+MARTINS, Gilberto de Andrade. **Manual para Elaboração de Monografias e Dissertações.** 2. ed. São Paulo: Atlas, 2000. MEDEIROS, João Bosco. **Redação Científica: a prática de fichamentos, resumos, resenhas.** 5. ed. São Paulo: Atlas, 2003. WAZLAWICK, Raul Sidnei. **Metodologia de pesquisa para ciência da computação.** Rio de Janeiro: Campus, 2009. CAPES/MEC. **Portal de Periódicos** . Formato Digital.
 
-COMPONENTE CURRICULAR: Reconhecimento de Padrões 
+## 2.7 EMENTÁRIO E BIBLIOGRAFIAS
 
-CARGA HORÁRIA: 80/67 EMENTA: Conceituação de Reconhecimento de Padrões. Pré-processamento. Extração de características. Classificação (decisão). Classificadores. Aplicações de Reconhecimento de Padrões. BIBLIOGRAFIA BÁSICA: DUDA, R.O.; HART, P.E.; STORK, D.G. **Pattern Classification** , John Wiley & Sons, 2001. ISBN: 978-0-471-05669-0. RUSSELL, S., NORVIG, P.: **Inteligência Artificial** , Elsevier Editora Ltd, 2014. ISBN: 9788535251418. LIMA, I., PINHEIRO, C. A. M. **Inteligência Artificial** , Elsevier Editora Ltd, 2016. ISBN: 9788535278095. BEN, C. **Inteligência Artificial** , LTC Editora, 2010, ISBN: 9788521629351. FACELI, K., LORENA, A. C., GAMA, J., CARVALHO, A. C. P. L. F., **Inteligência Artificial: Uma Abordagem de Aprendizado de Máquina** , LTC Editora, 2011, ISBN-10: 8521618808. BIBLIOGRAFIA COMPLEMENTAR: KNOX, S. W., **Machine Learning: A concise Introduction** , Wiley Editora, 2018, ISBN: 9781119438984. SULLIVAN, W., **Machine Learning for Beginners Guide Algorithms** , Editora PUBLISHDRIVE, 2018, ISBN: 9781975632328. 
+COMPONENTE CURRICULAR: Teoria da Computação CARGA HORÁRIA: 80/67 EMENTA: Noções e terminologias matemáticas. Conceitos básicos em teoria da computação. Modelos formais. Computabilidade. Decidibilidade. Introdução à Complexidade.
 
-75 
+BIBLIOGRAFIA BÁSICA: BROOKSHEAR, J. Glenn. **Ciência da computação: uma visão abrangente** . 11. ed. Porto Alegre: Bookman, 2013. 561 p. ISBN 9788582600306. (13) COELHO, Francisco. PEDRO NETO, João. **Teoria da Computação - Computabilidade e Complexidade** . 1 ed. 280 p. Escolar Editora, 2010. ISBN-13: 978-9725922811. DIVERIO, Tiarajú Asmuz; MENEZES, Paulo Blauth 1954-. **Teoria da computação: máquinas universais e computabilidade** . 3.ed. Rio Grande Do Sul: Bookman, 2011. 288 p. (Livros didáticos informática UFGS ; 5) ISBN 9788577808243 (broch.) (2) GERSTING, Judith L. **Fundamentos matemáticos para a ciência da computação: um tratamento moderno de matemática discreta** . 5. ed. Rio de Janeiro: LTC, c2004. 597p. ISBN 9788521614227 (broch.). (8) GOLDBARG, Marco Cesar. GOLDBARG, Elizabeth. **Grafos. Conceitos Algoritmos e Aplicações** . 640 p. Rio de Janeiro: Elsevier,2012. ISBN-13: 978-8535257168. HOPCROFT, John E., MOTWANI, Rajeev., ULLMAN, Jeffrey D. **Introdução à Teoria de Autômatos, Linguagens e Computação** . Rio de Janeiro: Elsevier, 2002. 584 p. ISBN13: 978-8535210729. VIEIRA, Newton José. **Introdução aos fundamentos da computação: linguagens e máquinas** . 1.ed. São Paulo: Thomson, 2006. 319 p. ISBN 8522105081 (broch.). (3) SIPSER, Michael. **Introdução à Teoria da Computação** . Editora Cengage CTP. 1 ed. 488p. ISBN-13: 978-8522104994. BIBLIOGRAFIA COMPLEMENTAR: GUIMARÃES, Ângelo de Moura; LAGES, Newton Alberto de Castilho. **Introdução à ciência da computação** . Rio de Janeiro: LTC, 1984. 165 p. (Ciência de computação). ISBN 9788521603726. (8) MENEZES, P. B. **Matemática discreta para computação e informática** . 4. ed. Porto Alegre: Bookman, 2013. 370p. (Série Livros Didáticos Informática UFRGS, v. 16). (3) MENEZES, Paulo Blauth 1954-.; GARCÍA LÓPEZ, Javier; TOSCANI, Laira V. **Aprendendo matemática discreta com exercícios** . Porto Alegre: Bookman, 2009. 356 p. (Livros didáticos Informática UFRS ; 19). ISBN 9788577804719 (broch.). (4) SOUZA, João Nunes de. **Lógica para ciência da computação** : uma introdução concisa. 2. ed., rev. e atual. Rio de Janeiro: Elsevier, 2008. 220 p. (Editora Campus/SBC). ISBN
 
-**==> picture [472 x 55] intentionally omitted <==**
+9788535229615 (broch.). (3)
 
-SULLIVAN, W., **Machine Learning for Absolute Begginers: a step by step  guide** , Editora PUBLISHDRIVE, 2018, ISBN: 6610000086788. 
+RAMOS, Marcus Vinícius Midena; JOSÉ NETO, João; VEGA, Ítalo Santiago. **Linguagens formais: teoria, modelagem e implementação** . Porto Alegre: Bookman, 2009. 656 p. ISBN 9788577804535 (broch.). (2)
 
-BRAGA, A. P., **Redes Neurais Artificiais** , Editora LTC, 2007, ISBN: 8521615647. 
+SCHEINERMAN, Edward R. **Matemática discreta: uma introdução** . 2.ed. São Paulo: Cengage Learning, 2011. 573 p. ISBN 9788522107964 (broch.). (3)
 
-SILVA, I. N., SPATTI, D. H. **Redes Neurais Artificiais para Engenharia e Ciencias Aplicadas: Curso prático** . Editora Artliber, 2010, ISBN: 8588098539. 
+COMPONENTE CURRICULAR: Engenharia Econômica
 
-COMPONENTE CURRICULAR:  Formatadores de Textos Científicos 
+CARGA HORÁRIA: 80/67
 
-CARGA HORÁRIA: 40/33,33 EMENTA: Apresentação da tecnologia. Estrutura básica. Estrutura de arquivo. Comandos de configuração. Trabalhando com figuras e tabelas. Espaços e Parágrafos. Classes e Modelos. Referências e Bibliografias. Fórmulas matemáticas. Notas de rodapé. Templates. Apresentação. BIBLIOGRAFIA BÁSICA: MITTELBACH, F. et al. **The LATEX Companion** . 2. ed. Reading, Massachusetts: Addison-Wesley, 2004. ISBN 0-201-36299-6. KNUTH, D. E. **The TEXbook** , Volume A of Computers and Typesetting. 2. ed. Reading, Massachusetts: Addison-Wesley, 1984. ISBN 0-201-13448-9. LAMPORT, L. **LATEX: A Document Preparation System** . 2. ed. Reading, Massachusett: Addison-Wesley, 1994. ISBN 0-201-52983-1. WAZLAWICK, Raul Sidnei. **Metodologia de pesquisa para ciência da computação.** Rio de Janeiro: Campus, 2009. BOAVENTURA, E. M. **Metodologia da Pesquisa: Monografia, Dissertação e Tese.** São Paulo: Atlas, 2004. BIBLIOGRAFIA COMPLEMENTAR: JACOBINI, M. L. D. P. **Metodologia do Trabalho Acadêmico.** 4. ed. Alínea, 2011. 
+EMENTA: UNIDADE I - Conceitos Gerais de Economia; Introdução à Microeconomia; Mercado e Formação de Preços; O comportamento do Consumidor; Produção e Custos; Estruturas de Mercados: Concorrência Perfeita, Monopólio e Oligopólio; Introdução à Macroeconomia; Determinação da Renda e Produto Nacional; O papel da Moeda na Economia Capitalista; Políticas Econômicas; Sistemas Monetários e Financeiros; Inflação; Relações Internacionais; UNIDADE II - Conceitos financeiros básicos; Cálculo Financeiro Básico: Juros Simples e Juros Compostos; Tabela Price; Método Hamburguês; Sistema de Amortização Francês; Análise de Investimentos; Equivalência de capitais. Métodos para comparação de oportunidades de investimentos.
 
-76 
+BIBLIOGRAFIA BÁSICA:
 
-**==> picture [472 x 55] intentionally omitted <==**
+ASSAF NETO, Alexandre; LIMA, Fabiano Guasti. **Fundamentos de administração financeira** . 3.ed. São Paulo: Atlas, 2017. 382p. ISBN 9788597009262 (broch.). BLANCHARD, Olivier. **Macroeconomia: teoria e política econômica** . Rio de Janeiro: Campus, 1999 xxvi, 623 p. ISBN 8535204067. CASAROTTO FILHO, Nelson; KOPITTKE, Bruno Hartmut. **Análise de investimentos** . 11. ed. São Paulo: Atlas, 2010 411 p. ISBN 9788522457892 (broch.). MANKIW, N. Gregory. **Introdução à economia** . São Paulo: Cengage Learning, 2014. 824 p. ISBN 9788522111862 (broch.). PINDYCK, Robert S; RUBINFELD, Daniel L. **Microeconomia** . 8. ed. São Paulo: Pearson
 
-MARTINS, Gilberto de Andrade. **Manual para Elaboração de Monografias e Dissertações.** 2. ed. São Paulo: Atlas, 2000. MEDEIROS, João Bosco. **Redação Científica: a prática de fichamentos, resumos, resenhas.** 5. ed. São Paulo: Atlas, 2003. WAZLAWICK, Raul Sidnei. **Metodologia de pesquisa para ciência da computação.** Rio de Janeiro: Campus, 2009. CAPES/MEC. **Portal de Periódicos** . Formato Digital. 
+Education do Brasil, c2014. 742 p. ISBN 9788543000282 (broch.). BIBLIOGRAFIA COMPLEMENTAR: GITMAN, Lawrence J. **Princípios de administração financeira** . 12. ed. São Paulo: Pearson Education do Brasil, 2010. 775 p. ISBN 9788576053323 (broch.). HIRSCHFELD, Henrique. **Engenharia econômica e análise de custos** . 6. ed., rev. atual. e amp. São Paulo: Atlas, 1998, c1978. 465 p. ISBN 8522417970. KUPFER, David; HASENCLEVER, Lia. **Economia industrial: fundamentos teóricos e práticos no Brasil** . 2.ed. Rio de Janeiro: Elsevier : Campus, 2013. 391 p. ISBN 9788535263688 (broch.). ROSSETTI, José Paschoal. **Introdução à economia** . 20.ed. São Paulo: Atlas, 2008. 922p. VASCONCELLOS, Marco Antônio Sandoval de; GARCIA, Manuel E. **Fundamentos de economia** . 2.ed. São Paulo: Saraiva, 2005. 246p.
 
-## 2.7 EMENTÁRIO E BIBLIOGRAFIAS 
+COMPONENTE CURRICULAR: Programação Web CARGA HORÁRIA: 160/133
 
-COMPONENTE CURRICULAR: Teoria da Computação CARGA HORÁRIA: 80/67 EMENTA: Noções e terminologias matemáticas. Conceitos básicos em teoria da computação. Modelos formais. Computabilidade. Decidibilidade. Introdução à Complexidade. 
+EMENTA: Principais conceitos do ambiente web: design, interatividade, evoluções e suas linguagens - marcação, estilo e script. Arquitetura e protocolos para web. Desenvolvimento de páginas dinâmicas. Chamada síncrona e assíncrona com servidor Web. Persistência de dados. Controle de estado, acesso e recursos em aplicações web. Emissão de relatórios. Desenvolvimento de aplicações web com Design patterns. BIBLIOGRAFIA BÁSICA: FREEMAN, Elisabeth; FREEMAN, Eric. **Use a Cabeça! HTML com CSS e XHTML** . 2ª ed. Editora Alta Books, 2008. SILVA, Maurício Samy. **CSS3: desenvolva aplicações web profissionais com uso dos poderosos recursos de estilização das CSS3** . São Paulo: Novatec, 2012. BAUER, Christian; KING, Gavin. **Java Persistence com Hibernate** . Rio de Janeiro: Ciência Moderna, 2007.
 
-77 
+TERUEL, Evandro Carlos. **Arquitetura de sistemas para web com Java utilizando design patterns e frameworks** . Rio de Janeiro: Ciência Moderna, c2012. 543 p. ISBN 9788539902217 (broch.).
 
-**==> picture [472 x 55] intentionally omitted <==**
+SANTOS NETO, Antônio Gonçalves dos. **Java na web** . Rio de Janeiro: Ciência Moderna, c2011. 862 p. ISBN 9788539901241 (broch.). BIBLIOGRAFIA COMPLEMENTAR: LORANGE, Hoa; NIELSEN, Jakob. **Usabilidade na web** . São Paulo: Elsevier, 2007.
 
-BIBLIOGRAFIA BÁSICA: BROOKSHEAR, J. Glenn. **Ciência da computação: uma visão abrangente** . 11. ed. Porto Alegre: Bookman, 2013. 561 p. ISBN 9788582600306. (13) COELHO, Francisco. PEDRO NETO, João. **Teoria da Computação - Computabilidade e Complexidade** . 1 ed. 280 p. Escolar Editora, 2010. ISBN-13: 978-9725922811. DIVERIO, Tiarajú Asmuz; MENEZES, Paulo Blauth 1954-. **Teoria da computação: máquinas universais e computabilidade** . 3.ed. Rio Grande Do Sul: Bookman, 2011. 288 p. (Livros didáticos informática UFGS ; 5) ISBN 9788577808243 (broch.) (2) GERSTING, Judith L. **Fundamentos matemáticos para a ciência da computação: um tratamento moderno de matemática discreta** . 5. ed. Rio de Janeiro: LTC, c2004. 597p. ISBN 9788521614227 (broch.). (8) GOLDBARG, Marco Cesar. GOLDBARG, Elizabeth. **Grafos. Conceitos Algoritmos e Aplicações** . 640 p. Rio de Janeiro: Elsevier,2012. ISBN-13: 978-8535257168. HOPCROFT, John E., MOTWANI, Rajeev., ULLMAN, Jeffrey D. **Introdução à Teoria de Autômatos, Linguagens e Computação** . Rio de Janeiro: Elsevier, 2002. 584 p. ISBN13: 978-8535210729. VIEIRA, Newton José. **Introdução aos fundamentos da computação: linguagens e máquinas** . 1.ed. São Paulo: Thomson, 2006. 319 p. ISBN 8522105081 (broch.). (3) SIPSER, Michael. **Introdução à Teoria da Computação** . Editora Cengage CTP. 1 ed. 488p. ISBN-13: 978-8522104994. BIBLIOGRAFIA COMPLEMENTAR: GUIMARÃES, Ângelo de Moura; LAGES, Newton Alberto de Castilho. **Introdução à ciência da computação** . Rio de Janeiro: LTC, 1984. 165 p. (Ciência de computação). ISBN 9788521603726. (8) MENEZES, P. B. **Matemática discreta para computação e informática** . 4. ed. Porto Alegre: Bookman, 2013. 370p. (Série Livros Didáticos Informática UFRGS, v. 16). (3) MENEZES, Paulo Blauth 1954-.; GARCÍA LÓPEZ, Javier; TOSCANI, Laira V. **Aprendendo matemática discreta com exercícios** . Porto Alegre: Bookman, 2009. 356 p. (Livros didáticos Informática UFRS ; 19). ISBN 9788577804719 (broch.). (4) SOUZA, João Nunes de. **Lógica para ciência da computação** : uma introdução concisa. 2. ed., rev. e atual. Rio de Janeiro: Elsevier, 2008. 220 p. (Editora Campus/SBC). ISBN 
+PAULA FILHO, W. de P. **Multimídia - conceitos e aplicações** . Rio de Janeiro: LTC, 2009.
 
-78 
+SILVA, Mauricio Samy. **jQuery: a biblioteca do programador javascript** . 2. ed. São Paulo: Novatec, 2010.
 
-**==> picture [472 x 55] intentionally omitted <==**
+SMITH, Steve; ADAMS, Cameron; JOHNSON, David; BOLTON, Jina. **A Arte e a Ciência da CSS: crie web designs inspiradores baseados em padrões** . Porto Alegre: Bookman, 2009.
 
-9788535229615 (broch.). (3) 
+WATRALL, Ethan. **Use a Cabeça! Web Design** . Rio de Janeiro: Alta Books, 2009.
 
-RAMOS, Marcus Vinícius Midena; JOSÉ NETO, João; VEGA, Ítalo Santiago. **Linguagens formais: teoria, modelagem e implementação** . Porto Alegre: Bookman, 2009. 656 p. ISBN 9788577804535 (broch.). (2) 
+COMPONENTE CURRICULAR: Teste de Software CARGA HORÁRIA: 80/67
 
-SCHEINERMAN, Edward R. **Matemática discreta: uma introdução** . 2.ed. São Paulo: Cengage Learning, 2011. 573 p. ISBN 9788522107964 (broch.). (3) 
+EMENTA: Qualidade de software. Inspeção de software. Princípios e técnicas de testes de software: teste de unidade, teste de integração e teste de regressão. Desenvolvimento orientado a testes. Automação dos testes. Geração de casos de teste. Teste de interfaces humanas. Teste de aplicações para a web. Teste de aplicações para dispositivos móveis. Testes alfas, beta e de aceitação. Ferramentas de testes. Planos de testes. Gerenciamento do processo de testes. Registro e acompanhamento de problemas. Processo de revisão e auditoria de software.
 
-COMPONENTE CURRICULAR: Engenharia Econômica 
+BIBLIOGRAFIA BÁSICA: PRESSMAN, Roger S. **Engenharia de Software: uma abordagem profissional** . 7. ed. Porto Alegre: McGraw-Hill, 2011. SCHACH, Stephen R. **Engenharia de software: os paradigmas clássicos & orientado a objetos** . 7. ed. São Paulo: McGraw-Hill, 2009. MOLINARI, Leonardo. **Inovação e automação de testes de software** . 1. ed. São Paulo: Érica, 2010. DELAMARO, Marcio; JINO, Mario; MALDONADO, José. **Introdução ao teste de software.** 2. ed. Elsevier Brasil, 2017. KANER, Cem; BACH, James Marcus; PETTICHORD, Bret. **Lessons Learned in Software Testing: A Context-Driven Approach.** 1. ed. John Wiley & Sons, 2001. BIBLIOGRAFIA COMPLEMENTAR: KOSCIANSKI, André; SOARES, Michel dos Santos. **Qualidade de software: aprenda as metodologias e técnicas mais modernas para o desenvolvimento de software** . 2. ed. São Paulo: Novatec, 2007. MAGELA, Rogério. **Engenharia de software aplicada: fundamentos** . Rio de Janeiro: Alta Books, 2006. AULA FILHO, Wilson de Pádua. **Engenharia de software: fundamentos, métodos e padrões** . 3. ed. Rio de Janeiro: LTC, 2009. NOGUEIRA, Marcelo. **Engenharia de software: um framework para a gestão de riscos em projetos de software.** Rio de Janeiro: Ciência Moderna, 2009. MOLINARI, Leonardo. **Gestão de projetos: teoria, técnicas e práticas** . São Paulo: Érica, 2010.
 
-CARGA HORÁRIA: 80/67 
+COMPONENTE CURRICULAR: Construção de Software CARGA HORÁRIA: 80/67
 
-EMENTA: UNIDADE I - Conceitos Gerais de Economia; Introdução à Microeconomia; Mercado e Formação de Preços; O comportamento do Consumidor; Produção e Custos; Estruturas de Mercados: Concorrência Perfeita, Monopólio e Oligopólio; Introdução à Macroeconomia; Determinação da Renda e Produto Nacional; O papel da Moeda na Economia Capitalista; Políticas Econômicas; Sistemas Monetários e Financeiros; Inflação; Relações Internacionais; UNIDADE II - Conceitos financeiros básicos; Cálculo Financeiro Básico: Juros Simples e Juros Compostos; Tabela Price; Método Hamburguês; Sistema de Amortização Francês; Análise de Investimentos; Equivalência de capitais. Métodos para comparação de oportunidades de investimentos. 
+EMENTA: Visão geral da construção de software (minimizar a complexidade, antecipar mudanças, verificações, padrões). Projeto de software. Planejamento da construção de software. Gerenciamento de construção de software. Fundamentos de codificação. Projeto detalhado e codificação. Refatoração.  Detecção e remoção de erros. Integração contínua. BIBLIOGRAFIA BÁSICA: TONSIG, Sérgio Luiz. **Engenharia de software: análise e projeto de sistemas** . 2. ed. Rio de Janeiro: Futura, 2008. 319 p. ISBN 9788573936537 (broch.). ERIEVSKY, Joshua. **Refatoração para padrões** . Porto Alegre: Bookman, 2008. 400 p. ISBN 9788577802449 (broch.). COHN, Mike. **Desenvolvimento de software com Scrum: aplicando métodos ágeis com sucesso** . Porto Alegre: Bookman, 2011. xii, 496 p. ISBN 9788577808076 (broch.). NOGUEIRA, Marcelo. **Engenharia de software: um framework para a gestão de riscos em projetos de software** . Rio de Janeiro: Ciência Moderna, 2009. 202 p. ISBN 9788573937855. WINDER, Russel; ROBERTS, Graham. **Desenvolvendo software em java** . 3.ed. Rio de Janeiro: LTC, 2009. 696 p. ISBN 9788521616580 (broch.) BIBLIOGRAFIA COMPLEMENTAR: DEITEL, Paul J.; DEITEL, Harvey M. **Java: como programar** . 8. ed. São Paulo: Prentice Hall, 2010. xxix,1144 p. ISBN 9788576055631 (enc.). BAUER, Christian; KING, Gavin. **Java Persistence com Hibernate** . Rio de Janeiro: Ciência Moderna, c2007. 844 p. ISBN 9788573936148 (broch.). PAULA FILHO, Wilson de Pádua. **Engenharia de software: fundamentos, métodos e padrões** . 3. ed. Rio de Janeiro: LTC, 2009. 1248 p. ISBN 9788521616504 (broch.). SANTOS, Ciro Meneses. **Desenvolvimento de aplicações comerciais com JAVA e NetBeans** . Rio de Janeiro: Ciência Moderna, 2010. 190 p. ISBN 9878573938920. FORBELLONE, André Luiz Villar; EBERSPÄCHER, Henri Frederico. **Lógica de programação: a construção de algoritmos e estruturas de dados** . 3. ed. São Paulo: Pearson Prentice Hall, 2005. 218 p. ISBN 9788576050247 (broch.).
 
-BIBLIOGRAFIA BÁSICA: 
+COMPONENTE CURRICULAR: Arquitetura e Padrões de Software CARGA HORÁRIA: 80/67 EMENTA: Conceitos de arquitetura de software e projeto detalhado. Conceituação e identificação de requisitos relevantes para a arquitetura. Documentação de arquitetura de software. Fundamentos de arquitetura de software. Método de desenvolvimento de arquitetura de software. Padrões e estilos arquiteturais. Norma ISO/IEC/IEEE 42010:2011. Análise de arquiteturas de software. BIBLIOGRAFIA BÁSICA: KOSCIANSKI, André; SOARES, Michel dos Santos. **Qualidade de software: aprenda as metodologias e técnicas mais modernas para o desenvolvimento de software** . 2. ed. São Paulo: Novatec, 2007. MAGELA, Rogério. **Engenharia de software aplicada: fundamentos** . Rio de Janeiro: Alta Books, 2006. FOWLER, M., **Patterns of Enterprise Application Architecture** , ISBN-13:9780321127426, Addison-Wesley, 2002. SILVEIRA, Paulo. **Introdução à Arquitetura e Design de Software: Uma Introdução à Plataforma Java.** 1. ed. Elsevier Brasil, 2011. PRESSMAN, Roger; MAXIM, Bruce. **Engenharia de Software** . 8ª Edição. McGraw Hill Brasil, 2016. BIBLIOGRAFIA COMPLEMENTAR: SCHACH, Stephen R. **Engenharia de software: os paradigmas clássicos & orientado a objetos** . 7. ed. São Paulo: McGraw-Hill, 2009. MOLINARI, Leonardo. **Inovação e automação de testes de software.** 1. ed. São Paulo: Érica, 2010.
 
-ASSAF NETO, Alexandre; LIMA, Fabiano Guasti. **Fundamentos de administração financeira** . 3.ed. São Paulo: Atlas, 2017. 382p. ISBN 9788597009262 (broch.). BLANCHARD, Olivier. **Macroeconomia: teoria e política econômica** . Rio de Janeiro: Campus, 1999 xxvi, 623 p. ISBN 8535204067. CASAROTTO FILHO, Nelson; KOPITTKE, Bruno Hartmut. **Análise de investimentos** . 11. ed. São Paulo: Atlas, 2010 411 p. ISBN 9788522457892 (broch.). MANKIW, N. Gregory. **Introdução à economia** . São Paulo: Cengage Learning, 2014. 824 p. ISBN 9788522111862 (broch.). PINDYCK, Robert S; RUBINFELD, Daniel L. **Microeconomia** . 8. ed. São Paulo: Pearson 
+PAULA FILHO, Wilson de Pádua. **Engenharia de software: fundamentos, métodos e padrões** . 3. ed. Rio de Janeiro: LTC, 2009. CAPES/MEC. **Portal de Periódicos** . Formato Digital. DEV Media. **Engenharia de Software Magazine** . Formato Digital.
 
-79 
+COMPONENTE CURRICULAR: Análise e Projeto de Sistemas CARGA HORÁRIA: 80/67 EMENTA: Modelagem de software orientada a objetos. Conceitos software, qualidade, requisitos e projeto de software. Notações para registro de modelos orientados a objetos. Processo de requisitos, definições básicas, elicitação, análise, especificação, verificação e validação de requisitos. Modelos e métodos da engenharia de requisitos. Gerência de projetos de engenharia de requisitos. Relação do processo de projeto arquitetural com requisitos. BIBLIOGRAFIA BÁSICA: SOMMERVILLE, Ian. **Engenharia de Software** . 9. ed. São Paulo: Pearson Education do Brasil, 2011. MACHADO, Felipe Nery Rodrigues. **Análise e gestão de requisitos de software: onde nascem os sistemas** . 1. ed. São Paulo: Érica, 2011. PFLEEGER, Shari Lawrence; FRANKLIN, Dino. **Engenharia de software: teoria e prática** . 2. ed. São Paulo: Prentice Hall, 2004. BEZERRA, Eduardo. **Princípios de Análise e Projetos de Sistemas com UML.** 3. ed. Rio de Janeiro: Elsevier, 2014. DENNIS, Alan; WIXOM, Barbara Haley; ROTH, Roberta M. **Análise e Projeto de Sistemas.** 5. ed. São Paulo: LTC, 2014
 
-**==> picture [472 x 55] intentionally omitted <==**
+BIBLIOGRAFIA COMPLEMENTAR: SCHACH, Stephen R. **Engenharia de Software** . 7. ed. Porto Alegre: McGraw-Hill - Artmed, 2009. COHN, Mike. **Desenvolvimento de software com Scrum: aplicando métodos ágeis com sucesso** . Porto Alegre: Bookman, 2011 TONSIG, Sérgio Luiz. **Engenharia de software: análise e projeto de sistemas** . 2. ed. Rio de Janeiro: Futura, 2008
 
-Education do Brasil, c2014. 742 p. ISBN 9788543000282 (broch.). BIBLIOGRAFIA COMPLEMENTAR: GITMAN, Lawrence J. **Princípios de administração financeira** . 12. ed. São Paulo: Pearson Education do Brasil, 2010. 775 p. ISBN 9788576053323 (broch.). HIRSCHFELD, Henrique. **Engenharia econômica e análise de custos** . 6. ed., rev. atual. e amp. São Paulo: Atlas, 1998, c1978. 465 p. ISBN 8522417970. KUPFER, David; HASENCLEVER, Lia. **Economia industrial: fundamentos teóricos e práticos no Brasil** . 2.ed. Rio de Janeiro: Elsevier : Campus, 2013. 391 p. ISBN 9788535263688 (broch.). ROSSETTI, José Paschoal. **Introdução à economia** . 20.ed. São Paulo: Atlas, 2008. 922p. VASCONCELLOS, Marco Antônio Sandoval de; GARCIA, Manuel E. **Fundamentos de economia** . 2.ed. São Paulo: Saraiva, 2005. 246p. 
+SBROCCO, José Henrique Teixeira de Carvalho; MACEDO, Paulo Cesar de. **Metodologias ágeis: engenharia de software sob medida** . 1. ed. São Paulo: Érica, 2012 MEDEIROS, Ernani. **Desenvolvendo software com UML 2.0: definitivo** . São Paulo: Pearson Makron Books, 2004.
 
-COMPONENTE CURRICULAR: Programação Web CARGA HORÁRIA: 160/133 
+COMPONENTE CURRICULAR: Projeto de Software Avançado
 
-EMENTA: Principais conceitos do ambiente web: design, interatividade, evoluções e suas linguagens - marcação, estilo e script. Arquitetura e protocolos para web. Desenvolvimento de páginas dinâmicas. Chamada síncrona e assíncrona com servidor Web. Persistência de dados. Controle de estado, acesso e recursos em aplicações web. Emissão de relatórios. Desenvolvimento de aplicações web com Design patterns. BIBLIOGRAFIA BÁSICA: FREEMAN, Elisabeth; FREEMAN, Eric. **Use a Cabeça! HTML com CSS e XHTML** . 2ª ed. Editora Alta Books, 2008. SILVA, Maurício Samy. **CSS3: desenvolva aplicações web profissionais com uso dos poderosos recursos de estilização das CSS3** . São Paulo: Novatec, 2012. BAUER, Christian; KING, Gavin. **Java Persistence com Hibernate** . Rio de Janeiro: Ciência Moderna, 2007. 
+CARGA HORÁRIA: 160/133
 
-80 
+EMENTA: Princípios e fundamentos de projeto de software orientado a objetos (abstração, acoplamento, coesão, encapsulamento, SOLID, etc). Projeto e implementação de software em diferentes paradigmas de programação. Artefatos de projeto de software. Notações de projeto de software. Qualidade de projeto de software. Atributos de qualidade de projeto de software (concorrência, controle de tratamento de eventos, tratamento de exceções, persistência, distribuição, interação, etc). Padrões de Projeto de Software. Prática de projeto de software.
 
-**==> picture [472 x 55] intentionally omitted <==**
+BIBLIOGRAFIA BÁSICA: GAMMA, Erich et al. **Padrões de projeto: soluções reutilizáveis de software orientado a objetos** . Porto Alegre: Bookman, 2000. 364 p. ISBN 8573076100. MARTIN, Robert C.; MARTIN, Micah. **Princípios, padrões e práticas ágeis em C#.** Porto Alegre: Bookman, 2011. 735 p. PRESSMAN, Roger; MAXIM, Bruce. **Engenharia de Software** . 8ª Edição. McGraw Hill Brasil, 2016. SILVEIRA, Paulo. **Introdução à Arquitetura e Design de Software: Uma Introdução à Plataforma Java.** 1. ed. Elsevier Brasil, 2011. SIERRA, Kathy; BATES, Bert. **Use a cabeça!: Java** . 2. ed. Rio de Janeiro: Alta Books, 2010. 484 p. BIBLIOGRAFIA COMPLEMENTAR: MEDEIROS, Ernani. **Desenvolvendo software com UML 2.0: definitivo** . São Paulo: Pearson Makron Books, 2004. DENNIS, Alan. **Análise e projeto de sistemas** . 5. ed. Rio de Janeiro: LTC, 2014. 461 p. ISBN 9788521625094. PAULA FILHO, Wilson de Pádua. **Engenharia de software: fundamentos, métodos e padrões** . 3. ed. Rio de Janeiro: LTC, 2009. 1248 p. ISBN 9788521616504. DEV Media. **Engenharia de Software Magazine** . Formato Digital. Robert C. Martin, **Design Principles and Design Patterns** , Series of Articles, C++ Report, March 1996. Formato Digital.
 
-TERUEL, Evandro Carlos. **Arquitetura de sistemas para web com Java utilizando design patterns e frameworks** . Rio de Janeiro: Ciência Moderna, c2012. 543 p. ISBN 9788539902217 (broch.). 
-
-SANTOS NETO, Antônio Gonçalves dos. **Java na web** . Rio de Janeiro: Ciência Moderna, c2011. 862 p. ISBN 9788539901241 (broch.). BIBLIOGRAFIA COMPLEMENTAR: LORANGE, Hoa; NIELSEN, Jakob. **Usabilidade na web** . São Paulo: Elsevier, 2007. 
-
-PAULA FILHO, W. de P. **Multimídia - conceitos e aplicações** . Rio de Janeiro: LTC, 2009. 
-
-SILVA, Mauricio Samy. **jQuery: a biblioteca do programador javascript** . 2. ed. São Paulo: Novatec, 2010. 
-
-SMITH, Steve; ADAMS, Cameron; JOHNSON, David; BOLTON, Jina. **A Arte e a Ciência da CSS: crie web designs inspiradores baseados em padrões** . Porto Alegre: Bookman, 2009. 
-
-WATRALL, Ethan. **Use a Cabeça! Web Design** . Rio de Janeiro: Alta Books, 2009. 
-
-COMPONENTE CURRICULAR: Teste de Software CARGA HORÁRIA: 80/67 
-
-EMENTA: Qualidade de software. Inspeção de software. Princípios e técnicas de testes de software: teste de unidade, teste de integração e teste de regressão. Desenvolvimento orientado a testes. Automação dos testes. Geração de casos de teste. Teste de interfaces humanas. Teste de aplicações para a web. Teste de aplicações para dispositivos móveis. Testes alfas, beta e de aceitação. Ferramentas de testes. Planos de testes. Gerenciamento do processo de testes. Registro e acompanhamento de problemas. Processo de revisão e auditoria de software. 
-
-81 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-BIBLIOGRAFIA BÁSICA: PRESSMAN, Roger S. **Engenharia de Software: uma abordagem profissional** . 7. ed. Porto Alegre: McGraw-Hill, 2011. SCHACH, Stephen R. **Engenharia de software: os paradigmas clássicos & orientado a objetos** . 7. ed. São Paulo: McGraw-Hill, 2009. MOLINARI, Leonardo. **Inovação e automação de testes de software** . 1. ed. São Paulo: Érica, 2010. DELAMARO, Marcio; JINO, Mario; MALDONADO, José. **Introdução ao teste de software.** 2. ed. Elsevier Brasil, 2017. KANER, Cem; BACH, James Marcus; PETTICHORD, Bret. **Lessons Learned in Software Testing: A Context-Driven Approach.** 1. ed. John Wiley & Sons, 2001. BIBLIOGRAFIA COMPLEMENTAR: KOSCIANSKI, André; SOARES, Michel dos Santos. **Qualidade de software: aprenda as metodologias e técnicas mais modernas para o desenvolvimento de software** . 2. ed. São Paulo: Novatec, 2007. MAGELA, Rogério. **Engenharia de software aplicada: fundamentos** . Rio de Janeiro: Alta Books, 2006. AULA FILHO, Wilson de Pádua. **Engenharia de software: fundamentos, métodos e padrões** . 3. ed. Rio de Janeiro: LTC, 2009. NOGUEIRA, Marcelo. **Engenharia de software: um framework para a gestão de riscos em projetos de software.** Rio de Janeiro: Ciência Moderna, 2009. MOLINARI, Leonardo. **Gestão de projetos: teoria, técnicas e práticas** . São Paulo: Érica, 2010. 
-
-COMPONENTE CURRICULAR: Construção de Software CARGA HORÁRIA: 80/67 
-
-82 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-EMENTA: Visão geral da construção de software (minimizar a complexidade, antecipar mudanças, verificações, padrões). Projeto de software. Planejamento da construção de software. Gerenciamento de construção de software. Fundamentos de codificação. Projeto detalhado e codificação. Refatoração.  Detecção e remoção de erros. Integração contínua. BIBLIOGRAFIA BÁSICA: TONSIG, Sérgio Luiz. **Engenharia de software: análise e projeto de sistemas** . 2. ed. Rio de Janeiro: Futura, 2008. 319 p. ISBN 9788573936537 (broch.). ERIEVSKY, Joshua. **Refatoração para padrões** . Porto Alegre: Bookman, 2008. 400 p. ISBN 9788577802449 (broch.). COHN, Mike. **Desenvolvimento de software com Scrum: aplicando métodos ágeis com sucesso** . Porto Alegre: Bookman, 2011. xii, 496 p. ISBN 9788577808076 (broch.). NOGUEIRA, Marcelo. **Engenharia de software: um framework para a gestão de riscos em projetos de software** . Rio de Janeiro: Ciência Moderna, 2009. 202 p. ISBN 9788573937855. WINDER, Russel; ROBERTS, Graham. **Desenvolvendo software em java** . 3.ed. Rio de Janeiro: LTC, 2009. 696 p. ISBN 9788521616580 (broch.) BIBLIOGRAFIA COMPLEMENTAR: DEITEL, Paul J.; DEITEL, Harvey M. **Java: como programar** . 8. ed. São Paulo: Prentice Hall, 2010. xxix,1144 p. ISBN 9788576055631 (enc.). BAUER, Christian; KING, Gavin. **Java Persistence com Hibernate** . Rio de Janeiro: Ciência Moderna, c2007. 844 p. ISBN 9788573936148 (broch.). PAULA FILHO, Wilson de Pádua. **Engenharia de software: fundamentos, métodos e padrões** . 3. ed. Rio de Janeiro: LTC, 2009. 1248 p. ISBN 9788521616504 (broch.). SANTOS, Ciro Meneses. **Desenvolvimento de aplicações comerciais com JAVA e NetBeans** . Rio de Janeiro: Ciência Moderna, 2010. 190 p. ISBN 9878573938920. FORBELLONE, André Luiz Villar; EBERSPÄCHER, Henri Frederico. **Lógica de programação: a construção de algoritmos e estruturas de dados** . 3. ed. São Paulo: Pearson Prentice Hall, 2005. 218 p. ISBN 9788576050247 (broch.). 
-
-83 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-COMPONENTE CURRICULAR: Arquitetura e Padrões de Software CARGA HORÁRIA: 80/67 EMENTA: Conceitos de arquitetura de software e projeto detalhado. Conceituação e identificação de requisitos relevantes para a arquitetura. Documentação de arquitetura de software. Fundamentos de arquitetura de software. Método de desenvolvimento de arquitetura de software. Padrões e estilos arquiteturais. Norma ISO/IEC/IEEE 42010:2011. Análise de arquiteturas de software. BIBLIOGRAFIA BÁSICA: KOSCIANSKI, André; SOARES, Michel dos Santos. **Qualidade de software: aprenda as metodologias e técnicas mais modernas para o desenvolvimento de software** . 2. ed. São Paulo: Novatec, 2007. MAGELA, Rogério. **Engenharia de software aplicada: fundamentos** . Rio de Janeiro: Alta Books, 2006. FOWLER, M., **Patterns of Enterprise Application Architecture** , ISBN-13:9780321127426, Addison-Wesley, 2002. SILVEIRA, Paulo. **Introdução à Arquitetura e Design de Software: Uma Introdução à Plataforma Java.** 1. ed. Elsevier Brasil, 2011. PRESSMAN, Roger; MAXIM, Bruce. **Engenharia de Software** . 8ª Edição. McGraw Hill Brasil, 2016. BIBLIOGRAFIA COMPLEMENTAR: SCHACH, Stephen R. **Engenharia de software: os paradigmas clássicos & orientado a objetos** . 7. ed. São Paulo: McGraw-Hill, 2009. MOLINARI, Leonardo. **Inovação e automação de testes de software.** 1. ed. São Paulo: Érica, 2010. 
-
-84 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-PAULA FILHO, Wilson de Pádua. **Engenharia de software: fundamentos, métodos e padrões** . 3. ed. Rio de Janeiro: LTC, 2009. CAPES/MEC. **Portal de Periódicos** . Formato Digital. DEV Media. **Engenharia de Software Magazine** . Formato Digital. 
-
-COMPONENTE CURRICULAR: Análise e Projeto de Sistemas CARGA HORÁRIA: 80/67 EMENTA: Modelagem de software orientada a objetos. Conceitos software, qualidade, requisitos e projeto de software. Notações para registro de modelos orientados a objetos. Processo de requisitos, definições básicas, elicitação, análise, especificação, verificação e validação de requisitos. Modelos e métodos da engenharia de requisitos. Gerência de projetos de engenharia de requisitos. Relação do processo de projeto arquitetural com requisitos. BIBLIOGRAFIA BÁSICA: SOMMERVILLE, Ian. **Engenharia de Software** . 9. ed. São Paulo: Pearson Education do Brasil, 2011. MACHADO, Felipe Nery Rodrigues. **Análise e gestão de requisitos de software: onde nascem os sistemas** . 1. ed. São Paulo: Érica, 2011. PFLEEGER, Shari Lawrence; FRANKLIN, Dino. **Engenharia de software: teoria e prática** . 2. ed. São Paulo: Prentice Hall, 2004. BEZERRA, Eduardo. **Princípios de Análise e Projetos de Sistemas com UML.** 3. ed. Rio de Janeiro: Elsevier, 2014. DENNIS, Alan; WIXOM, Barbara Haley; ROTH, Roberta M. **Análise e Projeto de Sistemas.** 5. ed. São Paulo: LTC, 2014 
-
-85 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-BIBLIOGRAFIA COMPLEMENTAR: SCHACH, Stephen R. **Engenharia de Software** . 7. ed. Porto Alegre: McGraw-Hill - Artmed, 2009. COHN, Mike. **Desenvolvimento de software com Scrum: aplicando métodos ágeis com sucesso** . Porto Alegre: Bookman, 2011 TONSIG, Sérgio Luiz. **Engenharia de software: análise e projeto de sistemas** . 2. ed. Rio de Janeiro: Futura, 2008 
-
-SBROCCO, José Henrique Teixeira de Carvalho; MACEDO, Paulo Cesar de. **Metodologias ágeis: engenharia de software sob medida** . 1. ed. São Paulo: Érica, 2012 MEDEIROS, Ernani. **Desenvolvendo software com UML 2.0: definitivo** . São Paulo: Pearson Makron Books, 2004. 
-
-COMPONENTE CURRICULAR: Projeto de Software Avançado 
-
-CARGA HORÁRIA: 160/133 
-
-EMENTA: Princípios e fundamentos de projeto de software orientado a objetos (abstração, acoplamento, coesão, encapsulamento, SOLID, etc). Projeto e implementação de software em diferentes paradigmas de programação. Artefatos de projeto de software. Notações de projeto de software. Qualidade de projeto de software. Atributos de qualidade de projeto de software (concorrência, controle de tratamento de eventos, tratamento de exceções, persistência, distribuição, interação, etc). Padrões de Projeto de Software. Prática de projeto de software. 
-
-86 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-BIBLIOGRAFIA BÁSICA: GAMMA, Erich et al. **Padrões de projeto: soluções reutilizáveis de software orientado a objetos** . Porto Alegre: Bookman, 2000. 364 p. ISBN 8573076100. MARTIN, Robert C.; MARTIN, Micah. **Princípios, padrões e práticas ágeis em C#.** Porto Alegre: Bookman, 2011. 735 p. PRESSMAN, Roger; MAXIM, Bruce. **Engenharia de Software** . 8ª Edição. McGraw Hill Brasil, 2016. SILVEIRA, Paulo. **Introdução à Arquitetura e Design de Software: Uma Introdução à Plataforma Java.** 1. ed. Elsevier Brasil, 2011. SIERRA, Kathy; BATES, Bert. **Use a cabeça!: Java** . 2. ed. Rio de Janeiro: Alta Books, 2010. 484 p. BIBLIOGRAFIA COMPLEMENTAR: MEDEIROS, Ernani. **Desenvolvendo software com UML 2.0: definitivo** . São Paulo: Pearson Makron Books, 2004. DENNIS, Alan. **Análise e projeto de sistemas** . 5. ed. Rio de Janeiro: LTC, 2014. 461 p. ISBN 9788521625094. PAULA FILHO, Wilson de Pádua. **Engenharia de software: fundamentos, métodos e padrões** . 3. ed. Rio de Janeiro: LTC, 2009. 1248 p. ISBN 9788521616504. DEV Media. **Engenharia de Software Magazine** . Formato Digital. Robert C. Martin, **Design Principles and Design Patterns** , Series of Articles, C++ Report, March 1996. Formato Digital. 
-
-COMPONENTE CURRICULAR: Engenharia de Software CARGA HORÁRIA: 80/67 
-
-87 
-
-**==> picture [472 x 55] intentionally omitted <==**
+COMPONENTE CURRICULAR: Engenharia de Software CARGA HORÁRIA: 80/67
 
 |EMENTA: Engenharia de Software: Conceitos e Objetivos. Paradigmas da Engenharia de|
 |---|
@@ -2226,29 +1791,11 @@ COMPONENTE CURRICULAR: Engenharia de Software CARGA HORÁRIA: 80/67
 |BAZZO, Walter Antonio; PEREIRA, Luiz Teixeira do Vale.**Introdução à engenharia:**|
 |**conceitos, ferramentas e comportamentos.**4. ed. rev. -. Florianópolis: UFSC, 2013.|
 
+COMPONENTE CURRICULAR: Projeto Integrador I CARGA HORÁRIA: 80/67 EMENTA: Desenvolvimento de projeto em engenharia de software utilizando conceitos técnicos abordados em diferentes componentes curriculares. BIBLIOGRAFIA BÁSICA: SCHACH, Stephen R. **Engenharia de Software** . 7. ed. Porto Alegre: McGraw-Hill - Artmed, 2009. COHN, Mike. **Desenvolvimento de software com Scrum: aplicando métodos ágeis com sucesso** . Porto Alegre: Bookman, 2011 DEITEL, Harvey M.; DEITEL, Paul J. **Java: como programar** . 6. ed. São Paulo: Prentice Hall, 2005. BORGES JÚNIOR, Maurício Pereira. **Desenvolvendo sistema para celular** . Rio de Janeiro: Ciência Moderna, 2010. LEITE, Mário. **Acessando bancos de dados com ferramentas RAD: aplicações em Delphi.** Rio de Janeiro: Brasport, 2008. BIBLIOGRAFIA COMPLEMENTAR: OLIVIERO, Carlos A. J. **Faça um site PHP 5.2 com MySQL 5.0: comércio eletrônico - orientado por projeto** . São Paulo: Érica, 2010. BAPTISTA, Luciana Ferreira. **Linguagem SQL: guia prático de aprendizagem** . 1. ed. São Paulo: Érica, 2011. SBROCCO, José Henrique Teixeira de Carvalho; MACEDO, Paulo Cesar de. **Metodologias ágeis: engenharia de software sob medida** . 1. ed. São Paulo: Érica, 2012 MEDEIROS, Ernani. **Desenvolvendo software com UML 2.0: definitivo** . São Paulo: Pearson Makron Books, 2004. SOMMVERVILE, Ian. **Engenharia de Software** . 9. ed. São Paulo: Pearson Education do Brasil, 2011.
 
+COMPONENTE CURRICULAR: Projeto Integrador II CARGA HORÁRIA: 80/67 EMENTA: Desenvolvimento de projeto em engenharia de software e implementação computacional utilizando conceitos técnicos abordados em diferentes componentes curriculares. BIBLIOGRAFIA BÁSICA: SCHACH, Stephen R. **Engenharia de Software** . 7. ed. Porto Alegre: McGraw-Hill - Artmed, 2009. COHN, Mike. **Desenvolvimento de software com Scrum: aplicando métodos ágeis com sucesso** . Porto Alegre: Bookman, 2011. MOLINARI, Leonardo. **Gestão de projetos: teoria, técnicas e práticas** . São Paulo: Érica, 2010. 240 p. ISBN 9788536502762 (broch.). PRESSMAN, Roger S. **Engenharia de Software** : uma abordagem profissional. 7. ed. Porto Alegre: McGraw-Hill, 2011. 780 p. ISBN 9788563308337 (broch.). SBROCCO, José Henrique Teixeira de Carvalho; MACEDO, Paulo Cesar de. **Metodologias ágeis: engenharia de software sob medida** . 1. ed. São Paulo: Érica, 2012. 254 p. ISBN 9788536503981 (broch.). BIBLIOGRAFIA COMPLEMENTAR: SOMMVERVILE, Ian. **Engenharia de Software** . 9. ed. São Paulo: Pearson Education do Brasil, 2011. VICO MAÑAS, Antonio. **Administração de sistemas de informação** . 8. ed., rev. e atual. São Paulo: Érica, 2010. 304 p. ISBN 9788571946354 (broch.). DENNIS, Alan; WIXOM, Barbara Haley. **Análise e projeto de sistemas.** 2. ed. Rio de Janeiro: LTC, 2011. 461 p. ISBN 9788521614579 (broch). TONSIG, Sérgio Luiz. **Engenharia de software** : análise e projeto de sistemas. 2. ed. Rio de Janeiro: Futura, 2008. 319 p. ISBN 9788573936537 (broch.). PAULA FILHO, Wilson de Pádua. **Engenharia de software** : fundamentos, métodos e padrões. 3. ed. Rio de Janeiro: LTC, 2009. 1248 p. ISBN 9788521616504 (broch.).
 
-88 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-COMPONENTE CURRICULAR: Projeto Integrador I CARGA HORÁRIA: 80/67 EMENTA: Desenvolvimento de projeto em engenharia de software utilizando conceitos técnicos abordados em diferentes componentes curriculares. BIBLIOGRAFIA BÁSICA: SCHACH, Stephen R. **Engenharia de Software** . 7. ed. Porto Alegre: McGraw-Hill - Artmed, 2009. COHN, Mike. **Desenvolvimento de software com Scrum: aplicando métodos ágeis com sucesso** . Porto Alegre: Bookman, 2011 DEITEL, Harvey M.; DEITEL, Paul J. **Java: como programar** . 6. ed. São Paulo: Prentice Hall, 2005. BORGES JÚNIOR, Maurício Pereira. **Desenvolvendo sistema para celular** . Rio de Janeiro: Ciência Moderna, 2010. LEITE, Mário. **Acessando bancos de dados com ferramentas RAD: aplicações em Delphi.** Rio de Janeiro: Brasport, 2008. BIBLIOGRAFIA COMPLEMENTAR: OLIVIERO, Carlos A. J. **Faça um site PHP 5.2 com MySQL 5.0: comércio eletrônico - orientado por projeto** . São Paulo: Érica, 2010. BAPTISTA, Luciana Ferreira. **Linguagem SQL: guia prático de aprendizagem** . 1. ed. São Paulo: Érica, 2011. SBROCCO, José Henrique Teixeira de Carvalho; MACEDO, Paulo Cesar de. **Metodologias ágeis: engenharia de software sob medida** . 1. ed. São Paulo: Érica, 2012 MEDEIROS, Ernani. **Desenvolvendo software com UML 2.0: definitivo** . São Paulo: Pearson Makron Books, 2004. SOMMVERVILE, Ian. **Engenharia de Software** . 9. ed. São Paulo: Pearson Education do Brasil, 2011. 
-
-89 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-COMPONENTE CURRICULAR: Projeto Integrador II CARGA HORÁRIA: 80/67 EMENTA: Desenvolvimento de projeto em engenharia de software e implementação computacional utilizando conceitos técnicos abordados em diferentes componentes curriculares. BIBLIOGRAFIA BÁSICA: SCHACH, Stephen R. **Engenharia de Software** . 7. ed. Porto Alegre: McGraw-Hill - Artmed, 2009. COHN, Mike. **Desenvolvimento de software com Scrum: aplicando métodos ágeis com sucesso** . Porto Alegre: Bookman, 2011. MOLINARI, Leonardo. **Gestão de projetos: teoria, técnicas e práticas** . São Paulo: Érica, 2010. 240 p. ISBN 9788536502762 (broch.). PRESSMAN, Roger S. **Engenharia de Software** : uma abordagem profissional. 7. ed. Porto Alegre: McGraw-Hill, 2011. 780 p. ISBN 9788563308337 (broch.). SBROCCO, José Henrique Teixeira de Carvalho; MACEDO, Paulo Cesar de. **Metodologias ágeis: engenharia de software sob medida** . 1. ed. São Paulo: Érica, 2012. 254 p. ISBN 9788536503981 (broch.). BIBLIOGRAFIA COMPLEMENTAR: SOMMVERVILE, Ian. **Engenharia de Software** . 9. ed. São Paulo: Pearson Education do Brasil, 2011. VICO MAÑAS, Antonio. **Administração de sistemas de informação** . 8. ed., rev. e atual. São Paulo: Érica, 2010. 304 p. ISBN 9788571946354 (broch.). DENNIS, Alan; WIXOM, Barbara Haley. **Análise e projeto de sistemas.** 2. ed. Rio de Janeiro: LTC, 2011. 461 p. ISBN 9788521614579 (broch). TONSIG, Sérgio Luiz. **Engenharia de software** : análise e projeto de sistemas. 2. ed. Rio de Janeiro: Futura, 2008. 319 p. ISBN 9788573936537 (broch.). PAULA FILHO, Wilson de Pádua. **Engenharia de software** : fundamentos, métodos e padrões. 3. ed. Rio de Janeiro: LTC, 2009. 1248 p. ISBN 9788521616504 (broch.). 
-
-90 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-COMPONENTE CURRICULAR: Novas Aplicações em Engenharia de Software CARGA HORÁRIA: 80/67 EMENTA: Abordagem do conteúdo dos componentes curriculares, numa leitura interdisciplinar com temas e abordagens atuais da área de Engenharia de Software. Inovações tecnológicas decorrentes de pesquisas recentes. BIBLIOGRAFIA BÁSICA: MOLINARI, Leonardo. **Inovação e automação de testes de software** . 1. ed. São Paulo: Érica, 2010. SBROCCO, José Henrique Teixeira de Carvalho. **UML 2.3: teoria e prática** . 1. ed. São Paulo: Érica, c2011. DUCKETT, Jon. **Introdução à programação web com HTML, XHTML e CSS** . 2. ed. Rio de Janeiro: Ciência Moderna, 2010. ENGHOLM JUNIOR, Hélio. **Engenharia de software na prática** . São Paulo: Novatec, 2010. 438 p. ISBN 9788575222171 (broch.). NOGUEIRA, Marcelo. **Engenharia de software: um framework para a gestão de riscos em projetos de software** . Rio de Janeiro: Ciência Moderna, 2009. 202 p. ISBN 9788573937855. 
-
-91 
-
-**==> picture [472 x 55] intentionally omitted <==**
+COMPONENTE CURRICULAR: Novas Aplicações em Engenharia de Software CARGA HORÁRIA: 80/67 EMENTA: Abordagem do conteúdo dos componentes curriculares, numa leitura interdisciplinar com temas e abordagens atuais da área de Engenharia de Software. Inovações tecnológicas decorrentes de pesquisas recentes. BIBLIOGRAFIA BÁSICA: MOLINARI, Leonardo. **Inovação e automação de testes de software** . 1. ed. São Paulo: Érica, 2010. SBROCCO, José Henrique Teixeira de Carvalho. **UML 2.3: teoria e prática** . 1. ed. São Paulo: Érica, c2011. DUCKETT, Jon. **Introdução à programação web com HTML, XHTML e CSS** . 2. ed. Rio de Janeiro: Ciência Moderna, 2010. ENGHOLM JUNIOR, Hélio. **Engenharia de software na prática** . São Paulo: Novatec, 2010. 438 p. ISBN 9788575222171 (broch.). NOGUEIRA, Marcelo. **Engenharia de software: um framework para a gestão de riscos em projetos de software** . Rio de Janeiro: Ciência Moderna, 2009. 202 p. ISBN 9788573937855.
 
 |BIBLIOGRAFIA COMPLEMENTAR:|BIBLIOGRAFIA COMPLEMENTAR:|
 |---|---|
@@ -2278,133 +1825,95 @@ COMPONENTE CURRICULAR: Novas Aplicações em Engenharia de Software CARGA HORÁR
 |**projeto e métodos**. 3.ed. Rio Grande Do Sul: Bookman, 2012. 262 p. (Livros didáticos||
 |informática<br>UFRGS;<br>13).<br>ISBN<br>9788540701380.||
 
+BIBLIOGRAFIA COMPLEMENTAR: TANENBAUM, Andrew S. **Sistemas operacionais modernos.** 3. ed. São Paulo: Pearson Prentice Hall, 2010. 653 p. ISBN 9788576052371 (broch.). Silberschatz, A. **Sistemas Operacionais com Java** . 7ª edição, ed. Campus, 2008. SCHILDT, Herbert. **C: completo e total** . 3. ed., rev. e atual. São Paulo: Makron Books, 1997. 827 p. ISBN 8534605955 (broch.). STALLINGS, William. **Arquitetura e organização de computadores** . 8. ed. São Paulo: Pearson, 2010. 624 p. ISBN 9788576055648 (broch.). TANENBAUM, Andrew S. 1944-.; WETHERALL, D. **Redes de computadores** . 5. ed. São Paulo: Pearson, 2011. CAPES/MEC. **Portal de Periódicos** . Formato Digital. RUSSELL, Stuart J.; NORVIG, Peter. **Inteligência artificial** . Rio de Janeiro: Elsevier, 2004. 1021 p. ISBN 8535211772 (broch.). COMPONENTE CURRICULAR: Algoritmos e Estruturas de Dados I CARGA HORÁRIA: 160/133 EMENTA: Introdução à Lógica de Programação. Tipos de Dados e de Variáveis. Operadores Aritméticos, Relacionais e Lógicos. Expressões. Estruturas de Decisão e Controle. Conceitos de Programação Estruturada e Modular. Variáveis. Procedimentos e Funções. Recursividade. BIBLIOGRAFIA BÁSICA: FARREL, Joyce. **Lógica e Design de Programação: introdução.** 5.ed. São Paulo: Cengage Learning, 2010. ASCENCIO, Ana Fernanda Gomes; CAMPOS, Edilene Aparecida Veneruchi. **Fundamentos da Programação de Computadores** . 2a. São Paulo: Prentice Hall, 2008. 434 p. FORBELLONE, André Luiz Villar; EBERSPÄCHER, Henri Frederico. **Lógica de programação** : **a construção de algoritmos e estruturas de dados.** 3. ed. São Paulo: Pearson Prentice Hall, 2005. MANZANO, José Augusto N.G; OLIVEIRA, Jayr Figueiredo de. **Algoritmos** : **lógica para**
 
+**desenvolvimento de programação de computadores.** 26. ed. rev. São Paulo: Érica, 2012. 328 p. CORMEN, Thomas H et al. **Algoritmos: Teoria e Prática** . 2. ed. Rio de Janeiro: Campus, 2002. BIBLIOGRAFIA COMPLEMENTAR: MEDINA, Marco; FERTIG, Cristina. **Algoritmos e Programação: Teoria e Prática** . 2. ed. São Paulo: Novatec, 2006. MENEZES, Nilo Ney Coutinho. **Introdução à programação com Python** : algoritmos e lógica de programação para iniciantes. São Paulo: Novatec, 2010. OLIVEIRA, Álvaro Borges de; BORATTI, Isaias Camilo. **Introdução à Programação Algortimos** . 3. ed. São Paulo: Visual Books, 2007. PAIVA, Severino. **Introdução à Programação: do algoritmo às linguagens atuais - inclui Java, PHP, ASP e Objeto Pascal** . São Paulo: Moderna, 2008. DEV Media. **Java Magazine** . Formato Digital.
 
-92 
+COMPONENTE CURRICULAR: Algoritmos e Estruturas de Dados II CARGA HORÁRIA: 80/67
 
-**==> picture [472 x 55] intentionally omitted <==**
+EMENTA: Tipo abstrato de dados. Algoritmos de ordenação e de pesquisa de dados. Listas. Árvores. Tabela de dispersão (hash). BIBLIOGRAFIA BÁSICA: EDELWEISS, Nina; GALANTE, Renata. **Estruturas de dados** . Porto Alegre: Bookman, 2009. 261 p. GOODRICH, Michael T.; TAMASSIA, Roberto. **Estruturas de dados e algoritmos em Java™** . 5. ed. Porto Alegre: Bookman, 2013. 713 p. TENENBAUM, Aaron M.; LANGSAM, Yedidyah; AUGENSTEIN, Moshe. **Estruturas de dados usando C** . São Paulo: Makron Books, 1995, c1989. Pearson Education do Brasil, 884 p.
 
-BIBLIOGRAFIA COMPLEMENTAR: TANENBAUM, Andrew S. **Sistemas operacionais modernos.** 3. ed. São Paulo: Pearson Prentice Hall, 2010. 653 p. ISBN 9788576052371 (broch.). Silberschatz, A. **Sistemas Operacionais com Java** . 7ª edição, ed. Campus, 2008. SCHILDT, Herbert. **C: completo e total** . 3. ed., rev. e atual. São Paulo: Makron Books, 1997. 827 p. ISBN 8534605955 (broch.). STALLINGS, William. **Arquitetura e organização de computadores** . 8. ed. São Paulo: Pearson, 2010. 624 p. ISBN 9788576055648 (broch.). TANENBAUM, Andrew S. 1944-.; WETHERALL, D. **Redes de computadores** . 5. ed. São Paulo: Pearson, 2011. CAPES/MEC. **Portal de Periódicos** . Formato Digital. RUSSELL, Stuart J.; NORVIG, Peter. **Inteligência artificial** . Rio de Janeiro: Elsevier, 2004. 1021 p. ISBN 8535211772 (broch.). COMPONENTE CURRICULAR: Algoritmos e Estruturas de Dados I CARGA HORÁRIA: 160/133 EMENTA: Introdução à Lógica de Programação. Tipos de Dados e de Variáveis. Operadores Aritméticos, Relacionais e Lógicos. Expressões. Estruturas de Decisão e Controle. Conceitos de Programação Estruturada e Modular. Variáveis. Procedimentos e Funções. Recursividade. BIBLIOGRAFIA BÁSICA: FARREL, Joyce. **Lógica e Design de Programação: introdução.** 5.ed. São Paulo: Cengage Learning, 2010. ASCENCIO, Ana Fernanda Gomes; CAMPOS, Edilene Aparecida Veneruchi. **Fundamentos da Programação de Computadores** . 2a. São Paulo: Prentice Hall, 2008. 434 p. FORBELLONE, André Luiz Villar; EBERSPÄCHER, Henri Frederico. **Lógica de programação** : **a construção de algoritmos e estruturas de dados.** 3. ed. São Paulo: Pearson Prentice Hall, 2005. MANZANO, José Augusto N.G; OLIVEIRA, Jayr Figueiredo de. **Algoritmos** : **lógica para** 
+SILVA, Osmar Quirino da. **Estrutura de dados e algoritmos usando c** : fundamentos e aplicações. Rio de Janeiro: Ciência Moderna, 2007.
 
-93 
+DEITEL, H.M.; DEITEL, P.J. **Java Como Programar** . 8. ed. Prentice Hall, 2010.
 
-**==> picture [472 x 55] intentionally omitted <==**
+BIBLIOGRAFIA COMPLEMENTAR:
 
-**desenvolvimento de programação de computadores.** 26. ed. rev. São Paulo: Érica, 2012. 328 p. CORMEN, Thomas H et al. **Algoritmos: Teoria e Prática** . 2. ed. Rio de Janeiro: Campus, 2002. BIBLIOGRAFIA COMPLEMENTAR: MEDINA, Marco; FERTIG, Cristina. **Algoritmos e Programação: Teoria e Prática** . 2. ed. São Paulo: Novatec, 2006. MENEZES, Nilo Ney Coutinho. **Introdução à programação com Python** : algoritmos e lógica de programação para iniciantes. São Paulo: Novatec, 2010. OLIVEIRA, Álvaro Borges de; BORATTI, Isaias Camilo. **Introdução à Programação Algortimos** . 3. ed. São Paulo: Visual Books, 2007. PAIVA, Severino. **Introdução à Programação: do algoritmo às linguagens atuais - inclui Java, PHP, ASP e Objeto Pascal** . São Paulo: Moderna, 2008. DEV Media. **Java Magazine** . Formato Digital. 
+DROZDEK, Adam. **Estrutura de dados e algoritmos em C+** . São Paulo: Cengage Learning, 2002.
 
-COMPONENTE CURRICULAR: Algoritmos e Estruturas de Dados II CARGA HORÁRIA: 80/67 
+LAFORE, Robert. **Estruturas de dados & algoritmos em Java** . Rio de Janeiro: Ciência Moderna, 2004.
 
-EMENTA: Tipo abstrato de dados. Algoritmos de ordenação e de pesquisa de dados. Listas. Árvores. Tabela de dispersão (hash). BIBLIOGRAFIA BÁSICA: EDELWEISS, Nina; GALANTE, Renata. **Estruturas de dados** . Porto Alegre: Bookman, 2009. 261 p. GOODRICH, Michael T.; TAMASSIA, Roberto. **Estruturas de dados e algoritmos em Java™** . 5. ed. Porto Alegre: Bookman, 2013. 713 p. TENENBAUM, Aaron M.; LANGSAM, Yedidyah; AUGENSTEIN, Moshe. **Estruturas de dados usando C** . São Paulo: Makron Books, 1995, c1989. Pearson Education do Brasil, 884 p. 
+LORENZI, Fabiana; MATTOS, Patrícia Noll de; CARVALHO, Tanisi Pereira de. **Estruturas de dados** . São Paulo: Thomson Learning, 2007.
 
-SILVA, Osmar Quirino da. **Estrutura de dados e algoritmos usando c** : fundamentos e aplicações. Rio de Janeiro: Ciência Moderna, 2007. 
+MAIN, M. **Estrutura de dados & outros objetos usando Java** . 4.ed. Rio de Janeiro: Ciência Moderna, 2015.
 
-DEITEL, H.M.; DEITEL, P.J. **Java Como Programar** . 8. ed. Prentice Hall, 2010. 
+DEV Media. **Java Magazine** . Formato Digital.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+COMPONENTE CURRICULAR: Ética, Cultura e Sociedade
 
-94 
+CARGA HORÁRIA: 80/67
 
-**==> picture [472 x 55] intentionally omitted <==**
+EMENTA: Fundamentos históricos, econômicos e políticos da sociedade; Implicações da Ética no ambiente profissional; A Ética na computação; A construção social do conhecimento científico; Política, Poder e Estado; Direitos Humanos; O conceito de Cidadania; Direitos Civis, Políticos e Sociais; Formação da sociedade brasileira e suas matrizes africanas e indígenas: História e Cultura afro-brasileira e indígena; As fronteiras estabelecidas entre os conceitos de Raça, Cultura e Etnia; Etnocentrismo e Alteridade; Meio Ambiente, Globalização e Sustentabilidade.
 
-DROZDEK, Adam. **Estrutura de dados e algoritmos em C+** . São Paulo: Cengage Learning, 2002. 
+## BIBLIOGRAFIA BÁSICA:
 
-LAFORE, Robert. **Estruturas de dados & algoritmos em Java** . Rio de Janeiro: Ciência Moderna, 2004. 
+ARAÚJO, Ana Valéria et al. **Povos Indígenas e a Lei dos “Brancos”** : o direito à diferença. Brasília: Ministério da Educação, Secretaria de Educação Continuada, Alfabetização e Diversidade; LACED/Museu Nacional, 2006. Disponível em: http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=644vol14povos-indigenas-pdf&category_slug=documentos-pdf&Itemid=30192
 
-LORENZI, Fabiana; MATTOS, Patrícia Noll de; CARVALHO, Tanisi Pereira de. **Estruturas de dados** . São Paulo: Thomson Learning, 2007. 
+CARVALHO, José Murilo de. **Cidadania no Brasil** : o longo caminho. 22. ed. Rio de Janeiro: Civilização Brasileira, 2016. 254 p.
 
-MAIN, M. **Estrutura de dados & outros objetos usando Java** . 4.ed. Rio de Janeiro: Ciência Moderna, 2015. 
+FERNANDES, Florestan. **A integração do negro na sociedade de classes** : ensaio de interpretação sociológica. 1. ed. São Paulo: Globo Livros, 2008. 2 v. (Obras reunidas de Florestan Fernandes).
 
-DEV Media. **Java Magazine** . Formato Digital. 
+FOUREZ, Gérard. **A construção das ciências** : introdução à filosofia e à ética das ciências. São Paulo: Unesp - Rio Claro, 1995.
 
-COMPONENTE CURRICULAR: Ética, Cultura e Sociedade 
+GALLO, Silvio Donizetti de Oliveira (Coord.). **Ética e cidadania** : caminhos da filosofia
 
-CARGA HORÁRIA: 80/67 
+(elementos para o ensino de filosofia). 20. ed. Campinas: Papirus, 2012. 112 p. LUCIANO, Gersem dos Santos – Baniwa. **O Índio Brasileiro** : o que você precisa saber sobre os povos indígenas no Brasil de hoje. Brasília: Ministério da Educação, Secretaria de Educação Continuada, Alfabetização e Diversidade; LACED/Museu Nacional, 2006. Disponível em: http://unesdoc.unesco.org/images/0015/001545/154565por.pdf MASIERO, Paulo Cesar. **Ética em computação** . São Paulo: EDUSP, 2000. 213 p. (Acadêmica; 32).
 
-EMENTA: Fundamentos históricos, econômicos e políticos da sociedade; Implicações da Ética no ambiente profissional; A Ética na computação; A construção social do conhecimento científico; Política, Poder e Estado; Direitos Humanos; O conceito de Cidadania; Direitos Civis, Políticos e Sociais; Formação da sociedade brasileira e suas matrizes africanas e indígenas: História e Cultura afro-brasileira e indígena; As fronteiras estabelecidas entre os conceitos de Raça, Cultura e Etnia; Etnocentrismo e Alteridade; Meio Ambiente, Globalização e Sustentabilidade. 
+RIBEIRO, Darcy. **O povo brasileiro** : a formação e o sentido do Brasil. 3. ed. São Paulo: Companhia das Letras, 1995. 476 p.
 
-## BIBLIOGRAFIA BÁSICA: 
+SILVA, José Vitor da (Org.). **Bioética** : meio ambiente, saúde e pesquisa. 1. ed. São Paulo: Iátria, c2006. 203 p.
 
-ARAÚJO, Ana Valéria et al. **Povos Indígenas e a Lei dos “Brancos”** : o direito à diferença. Brasília: Ministério da Educação, Secretaria de Educação Continuada, Alfabetização e Diversidade; LACED/Museu Nacional, 2006. Disponível em: http://portal.mec.gov.br/index.php?option=com_docman&view=download&alias=644vol14povos-indigenas-pdf&category_slug=documentos-pdf&Itemid=30192 
+SOUZA, Herbert José de; RODRIGUES, Carla. **Ética e cidadania** . São Paulo: Moderna, 2005.
 
-CARVALHO, José Murilo de. **Cidadania no Brasil** : o longo caminho. 22. ed. Rio de Janeiro: Civilização Brasileira, 2016. 254 p. 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-FERNANDES, Florestan. **A integração do negro na sociedade de classes** : ensaio de interpretação sociológica. 1. ed. São Paulo: Globo Livros, 2008. 2 v. (Obras reunidas de Florestan Fernandes). 
+BAUMAN, Zygmunt. **Modernidade líquida** . Rio de Janeiro: Zahar, 2001.
 
-FOUREZ, Gérard. **A construção das ciências** : introdução à filosofia e à ética das ciências. São Paulo: Unesp - Rio Claro, 1995. 
+BOBBIO, Norberto. **A era dos direitos** . Rio de Janeiro: Elsevier, 2004. 212 p.
 
-GALLO, Silvio Donizetti de Oliveira (Coord.). **Ética e cidadania** : caminhos da filosofia 
+COMPARATO, Fábio Konder. **Ética** : direito, moral e religião no mundo moderno. São Paulo: Companhia das Letras, 2006.
 
-95 
+FOUCAULT, Michel. **Vigiar e punir** : nascimento da prisão. 41. ed. Petrópolis: Vozes, 2013.
 
-**==> picture [472 x 55] intentionally omitted <==**
+FREYRE, Gilberto. **Casa-grande & senzala** : formação da família brasileira sob o regime da economia patriarcal. 51. ed. rev. São Paulo: Global, 2006. 727 p. (Introdução à história da sociedade patriarcal no Brasil; 1).
 
-(elementos para o ensino de filosofia). 20. ed. Campinas: Papirus, 2012. 112 p. LUCIANO, Gersem dos Santos – Baniwa. **O Índio Brasileiro** : o que você precisa saber sobre os povos indígenas no Brasil de hoje. Brasília: Ministério da Educação, Secretaria de Educação Continuada, Alfabetização e Diversidade; LACED/Museu Nacional, 2006. Disponível em: http://unesdoc.unesco.org/images/0015/001545/154565por.pdf MASIERO, Paulo Cesar. **Ética em computação** . São Paulo: EDUSP, 2000. 213 p. (Acadêmica; 32). 
+PASSOS, Elizete Silva. **Ética nas organizações** . São Paulo: Atlas, 2004. 184p.
 
-RIBEIRO, Darcy. **O povo brasileiro** : a formação e o sentido do Brasil. 3. ed. São Paulo: Companhia das Letras, 1995. 476 p. 
+SÁNCHEZ VÁZQUEZ, Adolfo. **Ética** . 35.ed. Rio de Janeiro: Civilização Brasileira, 2012.
 
-SILVA, José Vitor da (Org.). **Bioética** : meio ambiente, saúde e pesquisa. 1. ed. São Paulo: Iátria, c2006. 203 p. 
+SCHWARCZ, Lilia Moritz. **O espetáculo das raças** : cientistas, instituições e questão racial no Brasil 1870-1930. São Paulo: Companhia das Letras, 1993. 373 p.
 
-SOUZA, Herbert José de; RODRIGUES, Carla. **Ética e cidadania** . São Paulo: Moderna, 2005. 
+SOUZA FILHO, Danilo Marcondes de. **Textos básicos de ética** : de Platão a Foucault. 1. ed. Rio de Janeiro: Zahar, 2007. 143 p.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+COMPONENTE CURRICULAR: Banco de Dados I
 
-BAUMAN, Zygmunt. **Modernidade líquida** . Rio de Janeiro: Zahar, 2001. 
+CARGA HORÁRIA: 80/67 EMENTA: Conceitos Básicos: Banco de Dados, Sistemas Gerenciadores de Banco de Dados (SGBD), Modelos de Banco de Dados. Arquitetura de um SGBD. Banco de Dados Relacional (Conceitos e Arquitetura). Normalização e Dependências funcionais. Projeto de Banco de Dados.  Linguagens de Consulta. Ferramentas CASE. BIBLIOGRAFIA BÁSICA: DAMAS, Luís Manuel Dias. SQL: **Structured query language** . 6.ed. Rio de Janeiro: LTC, 2007. ELMASRI, Ramez; NAVATHE, Sham. **Sistemas de banco de dados** . 6. ed. São Paulo: Pearson Education do Brasil, 2011. HEUSER, Carlos Alberto. P **rojeto de banco de dados** . 6. ed. Porto Alegre: Bookman, 2009. MACHADO, Felipe Nery Rodrigues; ABREU, Maurício Pereira de. **Projeto de banco de dados: uma visão prática** . 17. ed. São Paulo: Érica, 2012. 320 p. ISBN 9788536502526 (broch.). SILBERSCHATZ, Abraham; KORTH, Henry F.; SUDARSHAN, S. **Sistema de banco de dados** . 6. ed. São Paulo: Campus - Elsevier, 2015. 904 p. BIBLIOGRAFIA COMPLEMENTAR: ALVES, William Pereira. **Banco de dados: teoria e desenvolvimento** . 1. ed. São Paulo: Érica, 2009. BAPTISTA, Luciana Ferreira. **Linguagem SQL: guia prático de aprendizagem.** 1. ed. São Paulo: Érica, 2011. GILLENSON, Mark L et al **. Introdução a gerência de banco de dados** . Rio de Janeiro: LTC, 2009. TAKAHASHI, Mana. **Guia mangá de banco de dados** . 1. ed. São Paulo: Novatec, 2009. DEV Media. **SQL Magazine** . Formato Digital.
 
-BOBBIO, Norberto. **A era dos direitos** . Rio de Janeiro: Elsevier, 2004. 212 p. 
+COMPONENTE CURRICULAR: Banco de Dados II CARGA HORÁRIA: 80/67 EMENTA: Banco de dados Objeto Relacional. Linguagem de Definição de Banco de
 
-COMPARATO, Fábio Konder. **Ética** : direito, moral e religião no mundo moderno. São Paulo: Companhia das Letras, 2006. 
+Dados. Linguagem de Manipulação de Banco de Dados. Gatilhos. Procedimentos armazenados. Concorrência. Recuperação. Segurança física e lógica dos dados. Administração de Sistemas de banco de dados. Desenvolvimento de aplicação. Outros Paradigmas de Banco de Dados. BIBLIOGRAFIA BÁSICA: DAMAS, Luís Manuel Dias. SQL: **Structured query language** . 6.ed. Rio de Janeiro: LTC, 2007. ELMASRI, Ramez; NAVATHE, Sham. **Sistemas de banco de dados** . 6. ed. São Paulo: Pearson Education do Brasil, 2011. HEUSER, Carlos Alberto. P **rojeto de banco de dados** . 6. ed. Porto Alegre: Bookman, 2009. MACHADO, Felipe Nery Rodrigues; ABREU, Maurício Pereira de. **Projeto de banco de dados: uma visão prática** . 17. ed. São Paulo: Érica, 2012. 320 p. ISBN 9788536502526 (broch.). SILBERSCHATZ, Abraham; KORTH, Henry F.; SUDARSHAN, S. **Sistema de banco de dados** . 6. ed. São Paulo: Campus - Elsevier, 2015. 904 p. BIBLIOGRAFIA COMPLEMENTAR: ALVES, William Pereira. **Banco de dados: teoria e desenvolvimento** . 1. ed. São Paulo: Érica, 2009. BAPTISTA, Luciana Ferreira. **Linguagem SQL: guia prático de aprendizagem** . 1. ed. São Paulo: Érica, 2011. GILLENSON, Mark L et al. **Introdução a gerência de banco de dados** . Rio de Janeiro: LTC, 2009. TAKAHASHI, Mana. **Guia mangá de banco de dados** . 1. ed. São Paulo: Novatec, 2009. DEV Media. **SQL Magazine** . Formato Digital.
 
-FOUCAULT, Michel. **Vigiar e punir** : nascimento da prisão. 41. ed. Petrópolis: Vozes, 2013. 
+COMPONENTE CURRICULAR: Governança e Gestão de Serviços de Software CARGA HORÁRIA: 80/67 EMENTA: Conceitos de tecnologia da informação, governança de TI e introdução ao
 
-FREYRE, Gilberto. **Casa-grande & senzala** : formação da família brasileira sob o regime da economia patriarcal. 51. ed. rev. São Paulo: Global, 2006. 727 p. (Introdução à história da sociedade patriarcal no Brasil; 1). 
+gerenciamento de projetos. Ciclo de vida de um projeto. Áreas do conhecimento em gerenciamento de projetos. Governança de TI e objetivos estratégicos. As peculiaridades dos projetos de tecnologia da informação. O Gerente de Projetos. Metodologias e Ferramentas aplicadas no gerenciamento de projetos de software. Modelos e Normas relativos à Governança de TI. BIBLIOGRAFIA BÁSICA: BERNAL, Paulo Sérgio M. **Gerenciamento de projetos na prática: implantação, metodologia e ferramentas** . 2. ed. São Paulo: Érica, 2016. CAMARGO, Marta. **Gerenciamento de Projetos: Fundamentos e prática integrada** . Rio de Janeiro: Elsevier, 2014. 256p. MOLINARI, Leonardo. **Gestão de projetos: teoria, técnicas e práticas** . São Paulo: Érica, 2010. PRESSMAN, Roger S. **Engenharia de Software: uma abordagem profissional** . 7. ed. Porto Alegre: McGraw-Hill, 2011. SOMMERVILLE, Ian. **Engenharia de software** . 9. ed. São Paulo: Pearson Prentice Hall, 2011. 529 p. BIBLIOGRAFIA COMPLEMENTAR: FINOCCHIO JÚNIOR, José. **Project model canvas: gerenciamento de projetos sem burocracia** . Rio de Janeiro: Elsevier, 2013. 229 p. PHAM, Andrew; PHAM, Phuong-Van. **Scrum em ação: gerenciamento de desenvolvimento ágil de projetos de software** . São Paulo: Novatec, 2011. 287 p. REZENDE, Denis Alcides. **Sistemas de informações organizacionais: guia prático para projetos em cursos de administração, contabilidade e informática** . 4.ed. São Paulo: Atlas, 2010. 139 p. ISBN 9788522460915 (broch.). TONSIG, Sérgio Luiz. **Engenharia de software: análise e projeto de sistemas** . 2. ed. Rio de Janeiro: Futura, 2008. 319 p. VIEIRA, Marconi Fábio. **Gerenciamento de Projetos de Tecnologia da Informação** . 2 ed. Elsevier, 2007.
 
-PASSOS, Elizete Silva. **Ética nas organizações** . São Paulo: Atlas, 2004. 184p. 
+COMPONENTE CURRICULAR: Interação humano-computador
 
-SÁNCHEZ VÁZQUEZ, Adolfo. **Ética** . 35.ed. Rio de Janeiro: Civilização Brasileira, 2012. 
+CARGA HORÁRIA: 80/67
 
-SCHWARCZ, Lilia Moritz. **O espetáculo das raças** : cientistas, instituições e questão racial no Brasil 1870-1930. São Paulo: Companhia das Letras, 1993. 373 p. 
+EMENTA: Introdução aos conceitos fundamentais da interação entre o usuário e o
 
-SOUZA FILHO, Danilo Marcondes de. **Textos básicos de ética** : de Platão a Foucault. 1. ed. Rio de Janeiro: Zahar, 2007. 143 p. 
-
-COMPONENTE CURRICULAR: Banco de Dados I 
-
-96 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-CARGA HORÁRIA: 80/67 EMENTA: Conceitos Básicos: Banco de Dados, Sistemas Gerenciadores de Banco de Dados (SGBD), Modelos de Banco de Dados. Arquitetura de um SGBD. Banco de Dados Relacional (Conceitos e Arquitetura). Normalização e Dependências funcionais. Projeto de Banco de Dados.  Linguagens de Consulta. Ferramentas CASE. BIBLIOGRAFIA BÁSICA: DAMAS, Luís Manuel Dias. SQL: **Structured query language** . 6.ed. Rio de Janeiro: LTC, 2007. ELMASRI, Ramez; NAVATHE, Sham. **Sistemas de banco de dados** . 6. ed. São Paulo: Pearson Education do Brasil, 2011. HEUSER, Carlos Alberto. P **rojeto de banco de dados** . 6. ed. Porto Alegre: Bookman, 2009. MACHADO, Felipe Nery Rodrigues; ABREU, Maurício Pereira de. **Projeto de banco de dados: uma visão prática** . 17. ed. São Paulo: Érica, 2012. 320 p. ISBN 9788536502526 (broch.). SILBERSCHATZ, Abraham; KORTH, Henry F.; SUDARSHAN, S. **Sistema de banco de dados** . 6. ed. São Paulo: Campus - Elsevier, 2015. 904 p. BIBLIOGRAFIA COMPLEMENTAR: ALVES, William Pereira. **Banco de dados: teoria e desenvolvimento** . 1. ed. São Paulo: Érica, 2009. BAPTISTA, Luciana Ferreira. **Linguagem SQL: guia prático de aprendizagem.** 1. ed. São Paulo: Érica, 2011. GILLENSON, Mark L et al **. Introdução a gerência de banco de dados** . Rio de Janeiro: LTC, 2009. TAKAHASHI, Mana. **Guia mangá de banco de dados** . 1. ed. São Paulo: Novatec, 2009. DEV Media. **SQL Magazine** . Formato Digital. 
-
-COMPONENTE CURRICULAR: Banco de Dados II CARGA HORÁRIA: 80/67 EMENTA: Banco de dados Objeto Relacional. Linguagem de Definição de Banco de 
-
-97 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-Dados. Linguagem de Manipulação de Banco de Dados. Gatilhos. Procedimentos armazenados. Concorrência. Recuperação. Segurança física e lógica dos dados. Administração de Sistemas de banco de dados. Desenvolvimento de aplicação. Outros Paradigmas de Banco de Dados. BIBLIOGRAFIA BÁSICA: DAMAS, Luís Manuel Dias. SQL: **Structured query language** . 6.ed. Rio de Janeiro: LTC, 2007. ELMASRI, Ramez; NAVATHE, Sham. **Sistemas de banco de dados** . 6. ed. São Paulo: Pearson Education do Brasil, 2011. HEUSER, Carlos Alberto. P **rojeto de banco de dados** . 6. ed. Porto Alegre: Bookman, 2009. MACHADO, Felipe Nery Rodrigues; ABREU, Maurício Pereira de. **Projeto de banco de dados: uma visão prática** . 17. ed. São Paulo: Érica, 2012. 320 p. ISBN 9788536502526 (broch.). SILBERSCHATZ, Abraham; KORTH, Henry F.; SUDARSHAN, S. **Sistema de banco de dados** . 6. ed. São Paulo: Campus - Elsevier, 2015. 904 p. BIBLIOGRAFIA COMPLEMENTAR: ALVES, William Pereira. **Banco de dados: teoria e desenvolvimento** . 1. ed. São Paulo: Érica, 2009. BAPTISTA, Luciana Ferreira. **Linguagem SQL: guia prático de aprendizagem** . 1. ed. São Paulo: Érica, 2011. GILLENSON, Mark L et al. **Introdução a gerência de banco de dados** . Rio de Janeiro: LTC, 2009. TAKAHASHI, Mana. **Guia mangá de banco de dados** . 1. ed. São Paulo: Novatec, 2009. DEV Media. **SQL Magazine** . Formato Digital. 
-
-COMPONENTE CURRICULAR: Governança e Gestão de Serviços de Software CARGA HORÁRIA: 80/67 EMENTA: Conceitos de tecnologia da informação, governança de TI e introdução ao 
-
-98 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-gerenciamento de projetos. Ciclo de vida de um projeto. Áreas do conhecimento em gerenciamento de projetos. Governança de TI e objetivos estratégicos. As peculiaridades dos projetos de tecnologia da informação. O Gerente de Projetos. Metodologias e Ferramentas aplicadas no gerenciamento de projetos de software. Modelos e Normas relativos à Governança de TI. BIBLIOGRAFIA BÁSICA: BERNAL, Paulo Sérgio M. **Gerenciamento de projetos na prática: implantação, metodologia e ferramentas** . 2. ed. São Paulo: Érica, 2016. CAMARGO, Marta. **Gerenciamento de Projetos: Fundamentos e prática integrada** . Rio de Janeiro: Elsevier, 2014. 256p. MOLINARI, Leonardo. **Gestão de projetos: teoria, técnicas e práticas** . São Paulo: Érica, 2010. PRESSMAN, Roger S. **Engenharia de Software: uma abordagem profissional** . 7. ed. Porto Alegre: McGraw-Hill, 2011. SOMMERVILLE, Ian. **Engenharia de software** . 9. ed. São Paulo: Pearson Prentice Hall, 2011. 529 p. BIBLIOGRAFIA COMPLEMENTAR: FINOCCHIO JÚNIOR, José. **Project model canvas: gerenciamento de projetos sem burocracia** . Rio de Janeiro: Elsevier, 2013. 229 p. PHAM, Andrew; PHAM, Phuong-Van. **Scrum em ação: gerenciamento de desenvolvimento ágil de projetos de software** . São Paulo: Novatec, 2011. 287 p. REZENDE, Denis Alcides. **Sistemas de informações organizacionais: guia prático para projetos em cursos de administração, contabilidade e informática** . 4.ed. São Paulo: Atlas, 2010. 139 p. ISBN 9788522460915 (broch.). TONSIG, Sérgio Luiz. **Engenharia de software: análise e projeto de sistemas** . 2. ed. Rio de Janeiro: Futura, 2008. 319 p. VIEIRA, Marconi Fábio. **Gerenciamento de Projetos de Tecnologia da Informação** . 2 ed. Elsevier, 2007. 
-
-COMPONENTE CURRICULAR: Interação humano-computador 
-
-CARGA HORÁRIA: 80/67 
-
-EMENTA: Introdução aos conceitos fundamentais da interação entre o usuário e o 
-
-99 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-computador. Definição de usabilidade. Gerações de interfaces e de dispositivos de interação. A evolução dos tipos de interfaces para interação usuário-computador. Aspectos humanos. Aspectos tecnológicos. Métodos e técnicas de design. Ciclo de vida da engenharia de usabilidade. Heurísticas para usabilidade. Ferramentas de apoio. Métodos para avaliação da usabilidade. Padrões para interfaces. Interação do usuário com sistemas multimídia e hipertexto. Conscientização da importância do projeto da interface no impacto ambiental. BIBLIOGRAFIA BÁSICA: BARBOSA, Simone D. J.; SILVA, Bruno Santana da. **Interação humano-computador** . Rio de Janeiro: Elsevier : Campus, c2010. 384p. (Série Campus/SBC). ISBN 9788535234183 (broch.). BENYON, David. **Interação humano-computador.** 2.ed. São Paulo: Pearson Prentice Hall, 2011. 442 p. ISBN 9788579361098. CYBIS, Walter. BETIOL. Adriana Holtz; FAUST, Richard. **Ergonomia e Usabilidade - Conhecimentos, Métodos e Aplicações** . 3ª Ed. São Paulo: Novatec, 2015. 496 p. LOWDERMILK, Travis. **Design Centrado no Usuário** . 1ª Ed. São Paulo: Novatec, 2013. 184p. ROGERS, Yvonne; SHARP, Helen; PREECE, Jennifer. **Design de interação: além da interação humano-computador** . 3. ed. Porto Alegre: Bookman, 2013. 585 p. ISBN 9788582600061 (broch.). BIBLIOGRAFIA COMPLEMENTAR: NASCIMENTO, José Antonio Machado do; AMARAL, Sueli Angélica do. **Avaliação de usabilidade na Internet** . Brasília: Thesaurus, c2010. 141p. NIELSEN, Jakob; LORANGER, Hoa. **Usabilidade na Web: projetando websites com qualidade** . Rio de Janeiro: Elsevier, Campus, 2007. xxiv, 406 p PRESSMAN, Roger S. **Engenharia de Software: uma abordagem profissional** . 7. ed. Porto Alegre: McGraw-Hill, 2011. 780 p SILVA, Maurício Samy. **Web Design Responsivo** . 1ª ed. São Paulo: Novatec, 2014. 336 p. SOMMERVILLE, Ian. **Engenharia de software** . 9. ed. São Paulo: Pearson Prentice Hall, 2011. 529 p. 
-
-100 
-
-**==> picture [472 x 55] intentionally omitted <==**
+computador. Definição de usabilidade. Gerações de interfaces e de dispositivos de interação. A evolução dos tipos de interfaces para interação usuário-computador. Aspectos humanos. Aspectos tecnológicos. Métodos e técnicas de design. Ciclo de vida da engenharia de usabilidade. Heurísticas para usabilidade. Ferramentas de apoio. Métodos para avaliação da usabilidade. Padrões para interfaces. Interação do usuário com sistemas multimídia e hipertexto. Conscientização da importância do projeto da interface no impacto ambiental. BIBLIOGRAFIA BÁSICA: BARBOSA, Simone D. J.; SILVA, Bruno Santana da. **Interação humano-computador** . Rio de Janeiro: Elsevier : Campus, c2010. 384p. (Série Campus/SBC). ISBN 9788535234183 (broch.). BENYON, David. **Interação humano-computador.** 2.ed. São Paulo: Pearson Prentice Hall, 2011. 442 p. ISBN 9788579361098. CYBIS, Walter. BETIOL. Adriana Holtz; FAUST, Richard. **Ergonomia e Usabilidade - Conhecimentos, Métodos e Aplicações** . 3ª Ed. São Paulo: Novatec, 2015. 496 p. LOWDERMILK, Travis. **Design Centrado no Usuário** . 1ª Ed. São Paulo: Novatec, 2013. 184p. ROGERS, Yvonne; SHARP, Helen; PREECE, Jennifer. **Design de interação: além da interação humano-computador** . 3. ed. Porto Alegre: Bookman, 2013. 585 p. ISBN 9788582600061 (broch.). BIBLIOGRAFIA COMPLEMENTAR: NASCIMENTO, José Antonio Machado do; AMARAL, Sueli Angélica do. **Avaliação de usabilidade na Internet** . Brasília: Thesaurus, c2010. 141p. NIELSEN, Jakob; LORANGER, Hoa. **Usabilidade na Web: projetando websites com qualidade** . Rio de Janeiro: Elsevier, Campus, 2007. xxiv, 406 p PRESSMAN, Roger S. **Engenharia de Software: uma abordagem profissional** . 7. ed. Porto Alegre: McGraw-Hill, 2011. 780 p SILVA, Maurício Samy. **Web Design Responsivo** . 1ª ed. São Paulo: Novatec, 2014. 336 p. SOMMERVILLE, Ian. **Engenharia de software** . 9. ed. São Paulo: Pearson Prentice Hall, 2011. 529 p.
 
 |COMPONENTE CURRICULAR: Arquitetura de Computadores|
 |---|
@@ -2437,29 +1946,15 @@ computador. Definição de usabilidade. Gerações de interfaces e de dispositiv
 |**embarcados: hardware e firmware na prática**. 2. ed. São Paulo: Érica, 2010.|
 |TANENBAUM, Andrew S. 1944-.; WETHERALL, D.**Redes de computadores.**5. ed.|
 
+São Paulo: Pearson, 2011.
 
+COMPONENTE CURRICULAR: Sistemas Operacionais
 
-101 
+CARGA HORÁRIA: 80/67 EMENTA: Introdução a sistemas operacionais. Processos e Threads. Gerência de memória. Sistemas de arquivos. Entrada e saída. Virtualização. BIBLIOGRAFIA BÁSICA: MACHADO, Francis B.; MAIA, Luiz Paulo. **Arquitetura de sistemas operacionais** . 5. ed. Rio de Janeiro: LTC, 2013. DEITEL, Harvey M.; DEITEL, Paul J.; CHOFFNES, David R. **Sistemas operacionais** . 3. ed. São Paulo: Pearson Education do Brasil, 2005. TANENBAUM, Andrew S. **Sistemas operacionais modernos.** 3. ed. São Paulo: Pearson Prentice Hall, 2010. 653 p. ISBN 9788576052371 (broch.). OLIVEIRA, Rômulo Silva de; CARISSIMI, Alexandre da Silva; TOSCANI, Simão Sirineo. **Sistemas operacionais** . 4. ed. Porto Alegre: Bookman, c2010. 374 p. (Série livros didáticos informática UFRGS; 11). TANENBAUM, Andrew S. 1944-.; WETHERALL, D. **Redes de computadores.** 5. ed. São Paulo: Pearson, 2011.
 
-**==> picture [472 x 55] intentionally omitted <==**
+BIBLIOGRAFIA COMPLEMENTAR: MACHADO, Francis B.; MAIA, Luiz Paulo. **Fundamentos de sistemas operacionais** . Rio de Janeiro: LTC, 2011. TANENBAUM, Andrew S. 1944-.; WOODHULL, Albert S. **Sistemas operacionais: projeto e implementação** . 3. ed. Porto Alegre: Bookman, 2008. STUART, Brian L. **Princípios de sistemas operacionais: projetos e aplicações** . São Paulo: Cengage Learning, 2011. GUIMARÃES, Angelo de Moura; LAGES, Newton Alberto de Castilho. I **ntrodução à ciência da computação** . Rio de Janeiro: LTC, 1984. BROOKSHEAR, J. Glenn. **Ciência da computação: uma visão abrangente.** 11. ed. Porto Alegre: Bookman, 2013.
 
-São Paulo: Pearson, 2011. 
-
-COMPONENTE CURRICULAR: Sistemas Operacionais 
-
-CARGA HORÁRIA: 80/67 EMENTA: Introdução a sistemas operacionais. Processos e Threads. Gerência de memória. Sistemas de arquivos. Entrada e saída. Virtualização. BIBLIOGRAFIA BÁSICA: MACHADO, Francis B.; MAIA, Luiz Paulo. **Arquitetura de sistemas operacionais** . 5. ed. Rio de Janeiro: LTC, 2013. DEITEL, Harvey M.; DEITEL, Paul J.; CHOFFNES, David R. **Sistemas operacionais** . 3. ed. São Paulo: Pearson Education do Brasil, 2005. TANENBAUM, Andrew S. **Sistemas operacionais modernos.** 3. ed. São Paulo: Pearson Prentice Hall, 2010. 653 p. ISBN 9788576052371 (broch.). OLIVEIRA, Rômulo Silva de; CARISSIMI, Alexandre da Silva; TOSCANI, Simão Sirineo. **Sistemas operacionais** . 4. ed. Porto Alegre: Bookman, c2010. 374 p. (Série livros didáticos informática UFRGS; 11). TANENBAUM, Andrew S. 1944-.; WETHERALL, D. **Redes de computadores.** 5. ed. São Paulo: Pearson, 2011. 
-
-102 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-BIBLIOGRAFIA COMPLEMENTAR: MACHADO, Francis B.; MAIA, Luiz Paulo. **Fundamentos de sistemas operacionais** . Rio de Janeiro: LTC, 2011. TANENBAUM, Andrew S. 1944-.; WOODHULL, Albert S. **Sistemas operacionais: projeto e implementação** . 3. ed. Porto Alegre: Bookman, 2008. STUART, Brian L. **Princípios de sistemas operacionais: projetos e aplicações** . São Paulo: Cengage Learning, 2011. GUIMARÃES, Angelo de Moura; LAGES, Newton Alberto de Castilho. I **ntrodução à ciência da computação** . Rio de Janeiro: LTC, 1984. BROOKSHEAR, J. Glenn. **Ciência da computação: uma visão abrangente.** 11. ed. Porto Alegre: Bookman, 2013. 
-
-COMPONENTE CURRICULAR: Redes de Computadores e Segurança CARGA HORÁRIA: 80/67 EMENTA: Introdução a redes de computadores. Modelo OSI e pilha TCP/IP. Camada de rede, transporte e aplicação. Protocolos. Segurança. BIBLIOGRAFIA BÁSICA: MAIA, Luiz Paulo. **Arquitetura de redes de computadores** . 2.ed. Rio de Janeiro: LTC, 2013 KUROSE, James F.; ROSS, Keith W. **Redes de computadores e a internet: uma abordagem top-down.** 3. ed. São Paulo: Pearson Addison Wesley, 2006. TANENBAUM, Andrew S. 1944.; WETHERALL, D. **Redes de computadores.** 5. ed. São Paulo: Pearson, 2011. MORAES, Alexandre Fernandes de. **Redes sem fio: instalação, configuração e segurança : fundamentos** . 1. ed. São Paulo: Érica, 2010. LYRA, Maurício Rocha. **Segurança e auditoria em sistemas de informação** . Rio de Janeiro: Ciência Moderna, 2008. 
-
-103 
-
-**==> picture [472 x 55] intentionally omitted <==**
+COMPONENTE CURRICULAR: Redes de Computadores e Segurança CARGA HORÁRIA: 80/67 EMENTA: Introdução a redes de computadores. Modelo OSI e pilha TCP/IP. Camada de rede, transporte e aplicação. Protocolos. Segurança. BIBLIOGRAFIA BÁSICA: MAIA, Luiz Paulo. **Arquitetura de redes de computadores** . 2.ed. Rio de Janeiro: LTC, 2013 KUROSE, James F.; ROSS, Keith W. **Redes de computadores e a internet: uma abordagem top-down.** 3. ed. São Paulo: Pearson Addison Wesley, 2006. TANENBAUM, Andrew S. 1944.; WETHERALL, D. **Redes de computadores.** 5. ed. São Paulo: Pearson, 2011. MORAES, Alexandre Fernandes de. **Redes sem fio: instalação, configuração e segurança : fundamentos** . 1. ed. São Paulo: Érica, 2010. LYRA, Maurício Rocha. **Segurança e auditoria em sistemas de informação** . Rio de Janeiro: Ciência Moderna, 2008.
 
 |BIBLIOGRAFIA COMPLEMENTAR:|
 |---|
@@ -2475,465 +1970,383 @@ COMPONENTE CURRICULAR: Redes de Computadores e Segurança CARGA HORÁRIA: 80/67 
 |TANENBAUM, Andrew S. 1944-.; AUSTIN, Todd.**Organização estruturada de**|
 |**computadores.**6.ed. São Paulo: Pearson Prentice Hall, 2013.|
 
+COMPONENTE CURRICULAR: Metodologia de Pesquisa em Engenharia de Software CARGA HORÁRIA: 80/67 EMENTA: Introdução à Pesquisa Científica; Planejamento de Pesquisa Científica; Tipos e Finalidades de Métodos de Pesquisa (Experimento Controlado, Estudo de Caso, _Survey, Action Research_ ); Revisão da Literatura; Métodos de Análise Quantitativa; Métodos de Análise Qualitativa; Planejamento e Estruturação de Artigos Científicos, Monografias e Relatórios Técnicos; Edição de Textos Matemáticos e Científicos (LaTeX); Divulgação e Comunicação da Pesquisa (Apresentações Orais, Painéis, Resumos). BIBLIOGRAFIA BÁSICA: GIL, A. C. **Como elaborar Projetos de Pesquisa** . 5. ed. São Paulo: Atlas, 2010. LAKATOS, Eva Maria; MARCONI, Marina de Andrade. **Metodologia Científica.** 3. ed. São Paulo: Atlas, 2000. SEVERINO, Antônio Joaquim. **Metodologia do Trabalho Científico.** 22. ed. São Paulo: Cortez, 2004. WAZLAWICK, Raul. **Metodologia de pesquisa para ciência da computação.** 2. ed. Elsevier Brasil, 2017. NAKAGAWA, Elisa Yumi; SCANNAVINO, Kátia Romero Felizardo; FABBRI, Sandra
 
+Camargo Pinto Ferraz; FERRARI, Fabiano Cutigi. **Revisão Sistemática da Literatura em Engenharia de Software: Teoria e Prática.** 1. ed. Elsevier Brasil, 2017. BIBLIOGRAFIA COMPLEMENTAR: BOAVENTURA, E. M. **Metodologia da Pesquisa: Monografia, Dissertação e Tese.** São Paulo: Atlas, 2004. JACOBINI, M. L. D. P. **Metodologia do Trabalho Acadêmico.** 4. ed. Alínea, 2011. MARTINS, Gilberto de Andrade. **Manual para Elaboração de Monografias e Dissertações.** 2. ed. São Paulo: Atlas, 2000. MEDEIROS, João Bosco. **Redação Científica: a prática de fichamentos, resumos, resenhas.** 5. ed. São Paulo: Atlas, 2003. WAZLAWICK, Raul Sidnei. **Metodologia de pesquisa para ciência da computação.** Rio de Janeiro: Campus, 2009. CAPES/MEC. **Portal de Periódicos** . Formato Digital. COMPONENTE CURRICULAR: Leitura e Produção de Gêneros Acadêmicos CARGA HORÁRIA: 80/67 EMENTA: Leitura e escrita de gêneros do domínio discursivo acadêmico-científico. Normas de elaboração de documentos do IFPR e da ABNT. BIBLIOGRAFIA BÁSICA: CEREJA, Willian Roberto; MAGALHÃES, Thereza Analia Cochar; CLETO, Ciley. **Interpretação de textos: construindo competências e habilidades em leitura** . São Paulo: Atual, 2009. FIORIN, José Luiz; SAVIOLI, Francisco Platão. **Lições de texto: leitura e redação** . São Paulo: Ática, 1996. MOTTA-ROTH, Désirée; HENDGES, Graciela Rabuske. **Produção textual na universidade** . São Paulo: Parábola Editorial, 2010. SARMENTO, Leila Lauar; TUFANO, Douglas. **Português: literatura, gramática, produção de texto: volume único** . São Paulo: Moderna, 2004.
 
-COMPONENTE CURRICULAR: Metodologia de Pesquisa em Engenharia de Software CARGA HORÁRIA: 80/67 EMENTA: Introdução à Pesquisa Científica; Planejamento de Pesquisa Científica; Tipos e Finalidades de Métodos de Pesquisa (Experimento Controlado, Estudo de Caso, _Survey, Action Research_ ); Revisão da Literatura; Métodos de Análise Quantitativa; Métodos de Análise Qualitativa; Planejamento e Estruturação de Artigos Científicos, Monografias e Relatórios Técnicos; Edição de Textos Matemáticos e Científicos (LaTeX); Divulgação e Comunicação da Pesquisa (Apresentações Orais, Painéis, Resumos). BIBLIOGRAFIA BÁSICA: GIL, A. C. **Como elaborar Projetos de Pesquisa** . 5. ed. São Paulo: Atlas, 2010. LAKATOS, Eva Maria; MARCONI, Marina de Andrade. **Metodologia Científica.** 3. ed. São Paulo: Atlas, 2000. SEVERINO, Antônio Joaquim. **Metodologia do Trabalho Científico.** 22. ed. São Paulo: Cortez, 2004. WAZLAWICK, Raul. **Metodologia de pesquisa para ciência da computação.** 2. ed. Elsevier Brasil, 2017. NAKAGAWA, Elisa Yumi; SCANNAVINO, Kátia Romero Felizardo; FABBRI, Sandra 
+WAZLAWICK, Raul Sidnei. **Metodologia de pesquisa para ciência da computação** . Rio de Janeiro: Campus, 2009. BIBLIOGRAFIA COMPLEMENTAR: ANDRADE, Maria Margarida. **Língua Portuguesa: noções básicas para os cursos superiores** . São Paulo: Atlas, 2004. BECHARA, Evanildo. **Moderna gramática portuguesa** . Rio de Janeiro: Lucerna, 2001. MACHADO, Anna Rachel; LOUSADA, Eliane; ABREU-TARDELLI, Lília Santos. **Planejar gêneros acadêmicos** . São Paulo: Parábola Editorial, 2005. MARTINS, Dileta Silveira; ZILBERKNOP, Lubia Scliar. **Português instrumental: de acordo com as atuais normas da ABNT** . São Paulo: Atlas, 2010. FELTRIM, Valéria Delisandra. **Um levantamento bibliográfico sobre a estruturação de Textos Acadêmicos** . Maringá: Universidade Estadual de Maringá, 2007. Disponível em http://www.din.uem.br/pos-graduacao/mestrado-em-ciencia-dacomputacao/arquivos/formularios/EscritaAcademica.pdf, acesso em 10 de maio de 2018.
 
-104 
+COMPONENTE CURRICULAR: Inglês Instrumental CARGA HORÁRIA: 80/67 EMENTA: Práticas de leitura e escrita por meio de gêneros textuais em Língua Inglesa. BIBLIOGRAFIA BÁSICA: GALLO, Lígia Razera. **Inglês instrumental para informática: módulo I** . 2. ed. São Paulo: Ícone, 2014. MUNHOZ, Rosângela. **Inglês Instrumental: estratégias de leitura: módulo 1** . Edição reformulada e revisada. São Paulo: Textonovo, 2000. MURPHY, Raymond. **Essential grammar in use: gramática básica da língua inglesa com respostas** . 2. ed. São Paulo: Martins Fontes, 2010. SALES, Claudiane Tormes. **Língua inglesa: linguagem, códigos e suas tecnologias** . Curitiba: Editora do Livro Técnico, 2013.
 
-**==> picture [472 x 55] intentionally omitted <==**
+SANTOS, Denise. **Ensino de língua inglesa: foco em estratégias** . Barueri: Disal, 2012. BIBLIOGRAFIA COMPLEMENTAR:
 
-Camargo Pinto Ferraz; FERRARI, Fabiano Cutigi. **Revisão Sistemática da Literatura em Engenharia de Software: Teoria e Prática.** 1. ed. Elsevier Brasil, 2017. BIBLIOGRAFIA COMPLEMENTAR: BOAVENTURA, E. M. **Metodologia da Pesquisa: Monografia, Dissertação e Tese.** São Paulo: Atlas, 2004. JACOBINI, M. L. D. P. **Metodologia do Trabalho Acadêmico.** 4. ed. Alínea, 2011. MARTINS, Gilberto de Andrade. **Manual para Elaboração de Monografias e Dissertações.** 2. ed. São Paulo: Atlas, 2000. MEDEIROS, João Bosco. **Redação Científica: a prática de fichamentos, resumos, resenhas.** 5. ed. São Paulo: Atlas, 2003. WAZLAWICK, Raul Sidnei. **Metodologia de pesquisa para ciência da computação.** Rio de Janeiro: Campus, 2009. CAPES/MEC. **Portal de Periódicos** . Formato Digital. COMPONENTE CURRICULAR: Leitura e Produção de Gêneros Acadêmicos CARGA HORÁRIA: 80/67 EMENTA: Leitura e escrita de gêneros do domínio discursivo acadêmico-científico. Normas de elaboração de documentos do IFPR e da ABNT. BIBLIOGRAFIA BÁSICA: CEREJA, Willian Roberto; MAGALHÃES, Thereza Analia Cochar; CLETO, Ciley. **Interpretação de textos: construindo competências e habilidades em leitura** . São Paulo: Atual, 2009. FIORIN, José Luiz; SAVIOLI, Francisco Platão. **Lições de texto: leitura e redação** . São Paulo: Ática, 1996. MOTTA-ROTH, Désirée; HENDGES, Graciela Rabuske. **Produção textual na universidade** . São Paulo: Parábola Editorial, 2010. SARMENTO, Leila Lauar; TUFANO, Douglas. **Português: literatura, gramática, produção de texto: volume único** . São Paulo: Moderna, 2004. 
+ASSUMPÇÃO, Sônia; FERREIRA, Fernanda Ferreira de. **Help! Meu inglês enferrujou/ exercícios e dicas para você redescobrir o seu inglês** . Rio de Janeiro: Campus, 2012. MURPHY, Raymond. **English grammar in use: a self-study reference and practice book for intermediate learners of english** . 4.ed. New York: Cambridge University, 2012. RICHARDS, Jack C. **Interchange third edition: intro student's book** . 3.ed. Cambridge: Cambridge University, 2005. SAWAYA, Márcia Regina. **Dicionário de informática & internet: inglês-português** . 3. ed. Rio de Janeiro: Nobel, 1999. SOUZA, Adriana Grade Fiorin; et al. **Leitura em língua inglesa: uma abordagem instrumental** . São Paulo: Disal, 2005.
 
-105 
+COMPONENTE CURRICULAR: Probabilidade e Estatśitica
 
-**==> picture [472 x 55] intentionally omitted <==**
+CARGA HORÁRIA:  80/67
 
-WAZLAWICK, Raul Sidnei. **Metodologia de pesquisa para ciência da computação** . Rio de Janeiro: Campus, 2009. BIBLIOGRAFIA COMPLEMENTAR: ANDRADE, Maria Margarida. **Língua Portuguesa: noções básicas para os cursos superiores** . São Paulo: Atlas, 2004. BECHARA, Evanildo. **Moderna gramática portuguesa** . Rio de Janeiro: Lucerna, 2001. MACHADO, Anna Rachel; LOUSADA, Eliane; ABREU-TARDELLI, Lília Santos. **Planejar gêneros acadêmicos** . São Paulo: Parábola Editorial, 2005. MARTINS, Dileta Silveira; ZILBERKNOP, Lubia Scliar. **Português instrumental: de acordo com as atuais normas da ABNT** . São Paulo: Atlas, 2010. FELTRIM, Valéria Delisandra. **Um levantamento bibliográfico sobre a estruturação de Textos Acadêmicos** . Maringá: Universidade Estadual de Maringá, 2007. Disponível em http://www.din.uem.br/pos-graduacao/mestrado-em-ciencia-dacomputacao/arquivos/formularios/EscritaAcademica.pdf, acesso em 10 de maio de 2018. 
+EMENTA: Organização de dados. Medidas de tendência central. Medidas de dispersão. Probabilidade. Variáveis aleatórias. Modelos de distribuição de variáveis aleatórias. Amostragem. Distribuição por amostragem. Intervalos de confiança. Testes de hipóteses. Regressão linear simples. Correlação. Análise de variância. BIBLIOGRAFIA  BÁSICA:
 
-COMPONENTE CURRICULAR: Inglês Instrumental CARGA HORÁRIA: 80/67 EMENTA: Práticas de leitura e escrita por meio de gêneros textuais em Língua Inglesa. BIBLIOGRAFIA BÁSICA: GALLO, Lígia Razera. **Inglês instrumental para informática: módulo I** . 2. ed. São Paulo: Ícone, 2014. MUNHOZ, Rosângela. **Inglês Instrumental: estratégias de leitura: módulo 1** . Edição reformulada e revisada. São Paulo: Textonovo, 2000. MURPHY, Raymond. **Essential grammar in use: gramática básica da língua inglesa com respostas** . 2. ed. São Paulo: Martins Fontes, 2010. SALES, Claudiane Tormes. **Língua inglesa: linguagem, códigos e suas tecnologias** . Curitiba: Editora do Livro Técnico, 2013. 
+FREUND, J. E.; SIMON, G. A. **Estatística Aplicada: economia, administração e contabilidade** . Porto Alegre: Bookman, 2009.
 
-106 
+OLIVEIRA, F. E. M. de. **Estatística e probabilidade: exercícios resolvidos e Propostos.** São Paulo: Atlas, 1995. MORETTIN, P. A; BUSSAB, W. O.. **Estatística básica. 8** . ed. São Paulo: Saraiva, 2013 MONTGOMERY, Douglas C.; RUNGER, George C. **Estatística aplicada e probabilidade para engenheiros.** 6. ed. Rio de Janeiro: LTC, 2016
 
-**==> picture [472 x 55] intentionally omitted <==**
+LAPPONI, Juan Carlos. **Estatística usando Excel.** 4.ed. rev. e atual. Rio de Janeiro:
 
-SANTOS, Denise. **Ensino de língua inglesa: foco em estratégias** . Barueri: Disal, 2012. BIBLIOGRAFIA COMPLEMENTAR: 
+Elsevier, 2005 DOWNING, Douglas; CLARK, Jeff. **Estatística aplicada.** 3. ed. São Paulo: Saraiva, 2011 BIBLIOGRAFIA COMPLEMENTAR: FONSECA, J. S.; MARTINS, G. A.. **Curso de estatística** . 6. ed. São Paulo: Atlas, 1996. LEVINE, D. M. et al. **Estatística: teoria e aplicações usando microsoft excel em português** . 6. ed. Rio de Janeiro: LTC, 2012. CRESPO, A. A.. **Estatística fácil** . 19. ed. São Paulo: Saraiva, 2009. MORETTIN, L. G. **Estatística Básica** . São Paulo, SP: Pearson Makron Books, 2000. MORETTIN, Luiz Gonzaga. **Estatística básica volume 1: probabilidade** . 7. ed. São Paulo: Makron Books, 1999 MARTINS, G. de A., DONAIRE, D. **Princípios de estatística** . São Paulo: Atlas, 1995.
 
-ASSUMPÇÃO, Sônia; FERREIRA, Fernanda Ferreira de. **Help! Meu inglês enferrujou/ exercícios e dicas para você redescobrir o seu inglês** . Rio de Janeiro: Campus, 2012. MURPHY, Raymond. **English grammar in use: a self-study reference and practice book for intermediate learners of english** . 4.ed. New York: Cambridge University, 2012. RICHARDS, Jack C. **Interchange third edition: intro student's book** . 3.ed. Cambridge: Cambridge University, 2005. SAWAYA, Márcia Regina. **Dicionário de informática & internet: inglês-português** . 3. ed. Rio de Janeiro: Nobel, 1999. SOUZA, Adriana Grade Fiorin; et al. **Leitura em língua inglesa: uma abordagem instrumental** . São Paulo: Disal, 2005. 
+COMPONENTE CURRICULAR: Matemática Discreta e Lógica
 
-COMPONENTE CURRICULAR: Probabilidade e Estatśitica 
+CARGA HORÁRIA:  80/67
 
-CARGA HORÁRIA:  80/67 
+EMENTA: Indução e recursão. Conjuntos e relações. Funções e sequências. Somatórias e Produtórias. Análise Combinatória. Introdução a teoria dos grafos.  Conectivos lógicos. Cálculo proposicional. Implicações lógicas. Equivalências lógicas. Quantificadores. Silogismos e lógica da argumentação. Álgebra Booleana.
 
-EMENTA: Organização de dados. Medidas de tendência central. Medidas de dispersão. Probabilidade. Variáveis aleatórias. Modelos de distribuição de variáveis aleatórias. Amostragem. Distribuição por amostragem. Intervalos de confiança. Testes de hipóteses. Regressão linear simples. Correlação. Análise de variância. BIBLIOGRAFIA  BÁSICA: 
+BIBLIOGRAFIA BÁSICA:
 
-FREUND, J. E.; SIMON, G. A. **Estatística Aplicada: economia, administração e contabilidade** . Porto Alegre: Bookman, 2009. 
+GERSTING, J. L. **Fundamentos Matemáticos para a Ciência da Computação: um tratamento moderno de matemática discreta** . 5.ed. Rio de Janeiro, RJ: LTC, 2004.
 
-OLIVEIRA, F. E. M. de. **Estatística e probabilidade: exercícios resolvidos e Propostos.** São Paulo: Atlas, 1995. MORETTIN, P. A; BUSSAB, W. O.. **Estatística básica. 8** . ed. São Paulo: Saraiva, 2013 MONTGOMERY, Douglas C.; RUNGER, George C. **Estatística aplicada e probabilidade para engenheiros.** 6. ed. Rio de Janeiro: LTC, 2016 
+MENEZES, P. B.; TOSCANI, L. V.; LOPEZ., J. G. **Aprendendo Matemática Discreta com Exercícios** . Porto Alegre, RS: Bookman, 2009.
 
-LAPPONI, Juan Carlos. **Estatística usando Excel.** 4.ed. rev. e atual. Rio de Janeiro: 
+SCHEINERMAN, E. R. **Matemática Discreta: uma introdução.** São Paulo, SP: Thomson Learning, 2003.
 
-107 
+ALENCAR FILHO, Edgard. **Iniciação à Lógica Matemática** . São Paulo: Nobel, 2002.
 
-**==> picture [472 x 55] intentionally omitted <==**
+COPI, Irving Marmer. **Introdução à Lógica.** São Paulo: Mestre Jou, 1978.
 
-Elsevier, 2005 DOWNING, Douglas; CLARK, Jeff. **Estatística aplicada.** 3. ed. São Paulo: Saraiva, 2011 BIBLIOGRAFIA COMPLEMENTAR: FONSECA, J. S.; MARTINS, G. A.. **Curso de estatística** . 6. ed. São Paulo: Atlas, 1996. LEVINE, D. M. et al. **Estatística: teoria e aplicações usando microsoft excel em português** . 6. ed. Rio de Janeiro: LTC, 2012. CRESPO, A. A.. **Estatística fácil** . 19. ed. São Paulo: Saraiva, 2009. MORETTIN, L. G. **Estatística Básica** . São Paulo, SP: Pearson Makron Books, 2000. MORETTIN, Luiz Gonzaga. **Estatística básica volume 1: probabilidade** . 7. ed. São Paulo: Makron Books, 1999 MARTINS, G. de A., DONAIRE, D. **Princípios de estatística** . São Paulo: Atlas, 1995. 
+BIBLIOGRAFIA COMPLEMENTAR: MENEZES, P. B. **Matemática discreta para computação e informática** . 4.ed. Porto Alegre: Bookman, 2013. BISPO, C. A. F.; CASTANHEIRA, L. B.; SOUZA FILHO, Oswaldo Melo. **Introdução à lógica matemática** . São Paulo: Cengage Learning, 2012. SOUZA, J. N. **Lógica para ciência da computação: uma introdução concisa** . 2. ed., rev. e atual. Rio de Janeiro: Elsevier, 2008. IEZZI, Gelson; MURAKAMI, Carlos. **Fundamentos de matemática elementar 1: conjuntos e funções** . 9. ed. São Paulo: Atual, 2013. HAZZAN, Samuel. **Fundamentos de matemática elementar 5: combinatória, probabilidade** . 7.ed. São Paulo: Atual, 2004.
 
-COMPONENTE CURRICULAR: Matemática Discreta e Lógica 
+COMPONENTE CURRICULAR: Cálculo CARGA HORÁRIA:  80/67 EMENTA:  A reta real. Intervalos e desigualdades. Funções de uma variável real. Limites. Continuidade. Derivadas de funções. Regra da cadeia. Derivação implícita. Diferencial. Integral. Sequências e Séries. Aplicações. BIBLIOGRAFIA BÁSICA:
 
-CARGA HORÁRIA:  80/67 
+ANTON, Howard; BIVENS, Irl; DAVIS, Stephen. **Cálculo.** 10. ed. Porto Alegre: Bookman, 2014.  v.1.
 
-EMENTA: Indução e recursão. Conjuntos e relações. Funções e sequências. Somatórias e Produtórias. Análise Combinatória. Introdução a teoria dos grafos.  Conectivos lógicos. Cálculo proposicional. Implicações lógicas. Equivalências lógicas. Quantificadores. Silogismos e lógica da argumentação. Álgebra Booleana. 
+STEWART, J. M.. **Cálculo.** São Paulo: Cengage Learning, 2012. v.1.
 
-BIBLIOGRAFIA BÁSICA: 
+FLEMMING, D. M.; GONÇALVES, M. B.. **Cálculo A:** funções, limite, derivação e integração. 6. ed.  São Paulo: Pearson Prentice Hall, 2006. LEUTHOLD, L. **O cálculo com Geometria Analítica** . São Paulo, SP: Makron Books, 1994. v.1.
 
-GERSTING, J. L. **Fundamentos Matemáticos para a Ciência da Computação: um tratamento moderno de matemática discreta** . 5.ed. Rio de Janeiro, RJ: LTC, 2004. 
+THOMAS, G. B.; WEIR, M. D.; HASS, J. **Cálculo.** 12. ed. São Paulo: Pearson Education, 2012. v.1.
 
-MENEZES, P. B.; TOSCANI, L. V.; LOPEZ., J. G. **Aprendendo Matemática Discreta com Exercícios** . Porto Alegre, RS: Bookman, 2009. 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-SCHEINERMAN, E. R. **Matemática Discreta: uma introdução.** São Paulo, SP: Thomson Learning, 2003. 
+SWOKOWSKI, E.W.. **Cálculo com geometria analítica** . 2. ed. São Paulo: Makron
 
-ALENCAR FILHO, Edgard. **Iniciação à Lógica Matemática** . São Paulo: Nobel, 2002. 
+Books, 1994. v.1.
 
-COPI, Irving Marmer. **Introdução à Lógica.** São Paulo: Mestre Jou, 1978. 
+SIMMONS, G. F. **Cálculo com geometria analítica** . São Paulo: McGraw-Hill, 1988. v. 1
 
-108 
+HOFFMANN, L. D.; BRADLEY, G.L. **Cálculo: um curso moderno e suas aplicações** . 10. ed. Rio de Janeiro: LTC, 2010.
 
-**==> picture [472 x 55] intentionally omitted <==**
+MUNEM, M.A.; FOULIS, D.J. 1930. **Cálculo: volume 1** . Rio de Janeiro: LTC, 2014
 
-BIBLIOGRAFIA COMPLEMENTAR: MENEZES, P. B. **Matemática discreta para computação e informática** . 4.ed. Porto Alegre: Bookman, 2013. BISPO, C. A. F.; CASTANHEIRA, L. B.; SOUZA FILHO, Oswaldo Melo. **Introdução à lógica matemática** . São Paulo: Cengage Learning, 2012. SOUZA, J. N. **Lógica para ciência da computação: uma introdução concisa** . 2. ed., rev. e atual. Rio de Janeiro: Elsevier, 2008. IEZZI, Gelson; MURAKAMI, Carlos. **Fundamentos de matemática elementar 1: conjuntos e funções** . 9. ed. São Paulo: Atual, 2013. HAZZAN, Samuel. **Fundamentos de matemática elementar 5: combinatória, probabilidade** . 7.ed. São Paulo: Atual, 2004. 
+GUIDORIZZI, H. L.. **Um curso de cálculo vol.1** . 5. ed. Rio de Janeiro: LTC, 2001
 
-COMPONENTE CURRICULAR: Cálculo CARGA HORÁRIA:  80/67 EMENTA:  A reta real. Intervalos e desigualdades. Funções de uma variável real. Limites. Continuidade. Derivadas de funções. Regra da cadeia. Derivação implícita. Diferencial. Integral. Sequências e Séries. Aplicações. BIBLIOGRAFIA BÁSICA: 
+COMPONENTE CURRICULAR: Desenvolvimento para Dispositivos Móveis CARGA HORÁRIA: 160/133
 
-ANTON, Howard; BIVENS, Irl; DAVIS, Stephen. **Cálculo.** 10. ed. Porto Alegre: Bookman, 2014.  v.1. 
+EMENTA: Características dos dispositivos móveis. Arquiteturas de aplicação móvel. Projeto de interfaces para dispositivos móveis. Manipulação de arquivo e dados. Integração entre dispositivo móvel e a Internet. Uso de APIs para dispositivos móveis. Disponibilização de aplicação desenvolvida para o usuário.
 
-STEWART, J. M.. **Cálculo.** São Paulo: Cengage Learning, 2012. v.1. 
+BIBLIOGRAFIA BÁSICA:
 
-FLEMMING, D. M.; GONÇALVES, M. B.. **Cálculo A:** funções, limite, derivação e integração. 6. ed.  São Paulo: Pearson Prentice Hall, 2006. LEUTHOLD, L. **O cálculo com Geometria Analítica** . São Paulo, SP: Makron Books, 1994. v.1. 
+LECHETA, Ricardo R. **Google Android: aprenda a criar aplicações para dispositivos móveis com o android sdk.** 2. ed. São Paulo: Novatec: 2010.
 
-THOMAS, G. B.; WEIR, M. D.; HASS, J. **Cálculo.** 12. ed. São Paulo: Pearson Education, 2012. v.1. 
+LEE, Wei-Meng. **Introdução ao desenvolvimento de aplicativos para o android** . Rio de Janeiro: Ciência Moderna, c 2011.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+GHATOL, Rohit; PATEL, Yogesh. **Beginning PhoneGap: mobile web framework for JavaScript and HTML5** . New York: Apress, 2012. 332 p. ISBN 9781430239031 (broch.).
 
-SWOKOWSKI, E.W.. **Cálculo com geometria analítica** . 2. ed. São Paulo: Makron 
+BORGES JÚNIOR, Maurício Pereira. **Desenvolvendo de sistema para celular** . Rio de Janeiro: Ciência Moderna, 2010. 146 p. ISBN 9788573938944 (broch.).
 
-109 
+JORDAN, Lucas L.; GREYLING, Pieter. **Practical Android projects** . New York: Apress, 2011. 404 p. ISBN 9781430232438 (broch.).
 
-**==> picture [472 x 55] intentionally omitted <==**
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-Books, 1994. v.1. 
+ROGERS, Yvonne; SHARP, Helen; PREECE, Jennifer. **Design de interação: além da interação humano-computador** . 3. ed. Porto Alegre: Bookman, 2013. MARZULLO, Fabio. **iPhone na prática:** aprenda passo a passo a desenvolver soluções para ios. São Paulo: Novatec, 2012. 269 p. ISBN 9788575222973 (broch.). DEITEL, Paul J. et al. **Android para programadores: uma abordagem baseada em**
 
-SIMMONS, G. F. **Cálculo com geometria analítica** . São Paulo: McGraw-Hill, 1988. v. 1 
+**aplicativos** . Porto Alegre: Bookman, 2013.
 
-HOFFMANN, L. D.; BRADLEY, G.L. **Cálculo: um curso moderno e suas aplicações** . 10. ed. Rio de Janeiro: LTC, 2010. 
+SMITH, Dave; FRIESEN, Geoff. **Receitas Android: uma abordagem para resolução de problemas** . Rio de Janeiro: Ciência Moderna, 2012.
 
-MUNEM, M.A.; FOULIS, D.J. 1930. **Cálculo: volume 1** . Rio de Janeiro: LTC, 2014 
+MEDNIEKS, Zigurd et al. **Programando o android** . São Paulo: Novatec, 2012. 519 p. ISBN 9788575222843 (broch.)
 
-GUIDORIZZI, H. L.. **Um curso de cálculo vol.1** . 5. ed. Rio de Janeiro: LTC, 2001 
+COMPONENTE CURRICULAR: Empreendedorismo em Tecnologia da Informação
 
-COMPONENTE CURRICULAR: Desenvolvimento para Dispositivos Móveis CARGA HORÁRIA: 160/133 
+CARGA HORÁRIA: 80/67
 
-EMENTA: Características dos dispositivos móveis. Arquiteturas de aplicação móvel. Projeto de interfaces para dispositivos móveis. Manipulação de arquivo e dados. Integração entre dispositivo móvel e a Internet. Uso de APIs para dispositivos móveis. Disponibilização de aplicação desenvolvida para o usuário. 
+EMENTA: A dinâmica do Empreendedorismo e da Inovação; O Imperativo da Inovação dentro das Organizações; O Empreendedorismo no Brasil; Identificando Oportunidades associadas à Tecnologia da Informação; Analisando o Perfil do Indivíduo Empreendedor: Qualidades, Habilidades e Competências; O Processo Empreendedor; Os diversos tipos de Empreendedores; Introdução ao Plano de Negócios: da Oportunidade de Negócio a Gestão de Inovação; Indicadores de Viabilidade Econômica e Financeira de Empreendimentos; Estudo de mecanismos e procedimentos para lançamento de uma empresa no mercado: Constituição, tributação e legalização de empresa; O Mercado Tecnológico no Brasil; As relações de Produção, Consumo e Sustentabilidade.
 
-BIBLIOGRAFIA BÁSICA: 
+## BIBLIOGRAFIA BÁSICA:
 
-LECHETA, Ricardo R. **Google Android: aprenda a criar aplicações para dispositivos móveis com o android sdk.** 2. ed. São Paulo: Novatec: 2010. 
+BARON, Robert A.; SHANE, Scott Andrew. **Empreendedorismo: uma visão do processo** . São Paulo: Cengage Learning, 2007. 443 p. ISBN 9788522105335 (broch.). BESSANT, J. R.; TIDD, Joseph. **Inovação e empreendedorismo** . Porto Alegre: Bookman, 2009. 511 p. ISBN 9788577804818 (broch.).
 
-LEE, Wei-Meng. **Introdução ao desenvolvimento de aplicativos para o android** . Rio de Janeiro: Ciência Moderna, c 2011. 
+DORNELAS, José Carlos Assis. **Empreendedorismo: transformando ideias em negócios** . 4. ed. rev. atual. Rio de Janeiro: Elsevier, 2012. 260 p. ISBN 9788535247589 (broch.).
 
-GHATOL, Rohit; PATEL, Yogesh. **Beginning PhoneGap: mobile web framework for JavaScript and HTML5** . New York: Apress, 2012. 332 p. ISBN 9781430239031 (broch.). 
+FERRARI, Roberto. **Empreendedorismo para computação: criando negócios de tecnologia** . São Paulo: Elsevier, 2010. 164 p. (Série Editora Campus/SBC). ISBN 9788535234176 (broch.).
 
-BORGES JÚNIOR, Maurício Pereira. **Desenvolvendo de sistema para celular** . Rio de Janeiro: Ciência Moderna, 2010. 146 p. ISBN 9788573938944 (broch.). 
+MATTOS, João Roberto Loureiro de; GUIMARÃES, Leonam dos Santos. **Gestão da tecnologia e inovação: uma abordagem prática** . 2. ed. São Paulo: Saraiva, 2012. 433 p. ISBN 9788502178946 (broch.).
 
-JORDAN, Lucas L.; GREYLING, Pieter. **Practical Android projects** . New York: Apress, 2011. 404 p. ISBN 9781430232438 (broch.). 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+BALDAM, Roquemar de Lima et al. **Gerenciamento de processos de negócios: BPM - Business Process Management** . 2. ed. São Paulo: Érica, 2007. 240 p. ISBN 9788536501758 (broch.)
 
-ROGERS, Yvonne; SHARP, Helen; PREECE, Jennifer. **Design de interação: além da interação humano-computador** . 3. ed. Porto Alegre: Bookman, 2013. MARZULLO, Fabio. **iPhone na prática:** aprenda passo a passo a desenvolver soluções para ios. São Paulo: Novatec, 2012. 269 p. ISBN 9788575222973 (broch.). DEITEL, Paul J. et al. **Android para programadores: uma abordagem baseada em** 
+BROWN, Tim. **Design thinking: uma metodologia poderosa para decretar o fim das velhas ideias** . Rio de Janeiro: Elsevier, 2010. 249 p. ISBN 9788535238624 (broch.) .
 
-110 
+DIAS, Reinaldo. **Eco-inovação: caminho para o crescimento sustentável** . São Paulo: Atlas, 2014. 208 p. ISBN 9788522485505 (broch.).
 
-**==> picture [472 x 55] intentionally omitted <==**
+FINOCCHIO JÚNIOR, José. **Project model canvas: gerenciamento de projetos sem burocracia** . Rio de Janeiro: Elsevier, 2013. 229 p. ISBN 9788535274561 (broch.). GRANDO, Nei (Org.). **Empreendedorismo inovador: como criar startups de tecnologia no Brasil** . São Paulo: Évora, 2012. 557 p.  ISBN 9788563993434 (broch.). OSTERWALDER, Alexander et al. **Value proposition design: como construir propostas de valor inovadoras** . São Paulo: HSM, 2014. 289 p. (Strategyzer series). ISBN 9788567389257 (broch.).
 
-**aplicativos** . Porto Alegre: Bookman, 2013. 
+REIS, Dálcio Roberto dos. **Gestão da inovação tecnológica** . 2. ed. São Paulo: Manole, 2008. 206 p. ISBN 9788520426784 (broch.).
 
-SMITH, Dave; FRIESEN, Geoff. **Receitas Android: uma abordagem para resolução de problemas** . Rio de Janeiro: Ciência Moderna, 2012. 
+COMPONENTE CURRICULAR: Programação Orientada a Objetos
 
-MEDNIEKS, Zigurd et al. **Programando o android** . São Paulo: Novatec, 2012. 519 p. ISBN 9788575222843 (broch.) 
+CARGA HORÁRIA: 160/133
 
-COMPONENTE CURRICULAR: Empreendedorismo em Tecnologia da Informação 
+EMENTA: Principais conceitos do paradigma orientado a objeto. Elementos de uma classe: atributos, métodos e construtores. Conceitos e objetivos do encapsulamento. Abstração de entidades de um Sistema de Informação para identificar classes. Diferença entre elementos de uma classe e de um objeto. Herança e associação de classes. Definição de um método com comportamentos distintos pela sobrecarga e sobreposição. Coesão e acoplamento de uma classe. Princípios para projetar classes com responsabilidade e reusabilidade. Preparar o aluno para a prática do desenvolvimento de aplicações orientadas a objeto com persistência de dados e emissão de relatórios.
 
-CARGA HORÁRIA: 80/67 
+## BIBLIOGRAFIA BÁSICA:
 
-EMENTA: A dinâmica do Empreendedorismo e da Inovação; O Imperativo da Inovação dentro das Organizações; O Empreendedorismo no Brasil; Identificando Oportunidades associadas à Tecnologia da Informação; Analisando o Perfil do Indivíduo Empreendedor: Qualidades, Habilidades e Competências; O Processo Empreendedor; Os diversos tipos de Empreendedores; Introdução ao Plano de Negócios: da Oportunidade de Negócio a Gestão de Inovação; Indicadores de Viabilidade Econômica e Financeira de Empreendimentos; Estudo de mecanismos e procedimentos para lançamento de uma empresa no mercado: Constituição, tributação e legalização de empresa; O Mercado Tecnológico no Brasil; As relações de Produção, Consumo e Sustentabilidade. 
+HORSTMANN, Cay S.; CORNELL, Gary. **Core Java volume I: fundamentos** . 8. ed. São Paulo: Pearson Education do Brasil, c2010. 383 p. ISBN 9788576053576 (broch.).
 
-## BIBLIOGRAFIA BÁSICA: 
+DEITEL, Paul J.; DEITEL, Harvey M. **Java: como programar** . 8. ed. São Paulo: Prentice Hall, 2010. xxix,1144 p. ISBN 9788576055631 (enc.).
 
-BARON, Robert A.; SHANE, Scott Andrew. **Empreendedorismo: uma visão do processo** . São Paulo: Cengage Learning, 2007. 443 p. ISBN 9788522105335 (broch.). BESSANT, J. R.; TIDD, Joseph. **Inovação e empreendedorismo** . Porto Alegre: Bookman, 2009. 511 p. ISBN 9788577804818 (broch.). 
+BAUER, Christian; KING, Gavin. **Java Persistence com Hibernate** . Rio de Janeiro:
 
-DORNELAS, José Carlos Assis. **Empreendedorismo: transformando ideias em negócios** . 4. ed. rev. atual. Rio de Janeiro: Elsevier, 2012. 260 p. ISBN 9788535247589 (broch.). 
+Ciência Moderna, c2007. 844 p. ISBN 9788573936148 (broch.). SANTOS, Ciro Meneses. **Desenvolvimento de aplicações comerciais com JAVA e NetBeans** . Rio de Janeiro: Ciência Moderna, 2010. 190 p. ISBN 9878573938920. ASCENCIO, Ana Fernanda Gomes; CAMPOS, Edilene Aparecida Veneruchi de. **Fundamentos da programação de computadores: algoritmos, pascal, C/ C++ (padrão ANSI) e Java** . 3. ed. São Paulo: Pearson Prentice Hall, 2012. 569p. ISBN 9788564574168 (broch.). BIBLIOGRAFIA COMPLEMENTAR: TAVARES, André. **Java simplificado.** Rio de Janeiro: Ciência Moderna, 2012 165 p. ISBN 9788539902873 (broch.). GOODRICH, Michael T.; TAMASSIA, Roberto. **Estruturas de dados e algoritmos em Java™. 5** . ed. Porto Alegre: Bookman, 2013. 713 p. ISBN 9788582600184 (broch.). RICHARDSON, Chris. **POJOs em ação: como desenvolver aplicações corporativas com frameworks leves** . Rio de Janeiro: Ciência Moderna, 2007. 559 p. ISBN 9788573935783 (broch.). BORATTI, Isaias Camilo. **Programação orientada a objetos em java** . Florianópolis: Visual Books, 2007. 310 p. ISBN 9788575021996 (broch.). KEITH, Mike. **EJB 3 profissional: java persistence API** . Rio de Janeiro: Ciência Moderna, 2008. xxvi, 518 p. ISBN 9788573936964 (broch.).
 
-FERRARI, Roberto. **Empreendedorismo para computação: criando negócios de tecnologia** . São Paulo: Elsevier, 2010. 164 p. (Série Editora Campus/SBC). ISBN 9788535234176 (broch.). 
+COMPONENTE CURRICULAR: Trabalho de Conclusão de Curso CARGA HORÁRIA: 160/133
 
-MATTOS, João Roberto Loureiro de; GUIMARÃES, Leonam dos Santos. **Gestão da tecnologia e inovação: uma abordagem prática** . 2. ed. São Paulo: Saraiva, 2012. 433 p. ISBN 9788502178946 (broch.). 
+EMENTA: Apresentação de critérios e metodologias para elaboração de proposta e desenvolvimento de projeto de software ou de pesquisa científica formulado sobre tema de livre escolha, que venha a incorporar conhecimentos teóricos, práticos e tecnológicos relevantes para a área. Elaboração de revisão de literatura, coleta de dados, análise dos dados, implementações (quando cabível) e considerações finais. Construção e apresentação de monografia e/ou artigo científico dentro das normas estabelecidas pelo Colegiado e sob orientação técnica de um professor orientador. O trabalho deve estar de acordo com regulamentação própria aplicado ao desenvolvimento do TCC conforme Anexo.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+BIBLIOGRAFIA BÁSICA:
 
-111 
+INSTITUTO FEDERAL DO PARANÁ. **Normas para apresentação de trabalhos acadêmicos do Instituto Federal do Paraná (IFPR).** Curitiba, 2010. RUDIO, Franz Victor. **Introdução ao projeto de pesquisa científica** . 42.ed. Petrópolis, RJ: Vozes, 2014. WAZLAWICK, Raul Sidnei. **Metodologia de pesquisa para ciência da computação** . Rio de Janeiro: Campus, 2009. TOMASI, Carolina; MEDEIROS, João Bosco. **Comunicação científica: normas técnicas para redação científica** . São Paulo, SP: Atlas, 2008. MARTINS JÚNIOR, Joaquim. **Como escrever trabalhos de conclusão de curso: instruções para planejar e montar, desenvolver, concluir, redigir e apresentar trabalhos monográficos e artigos** . 7.ed. Petrópolis: Vozes, 2013. 247 p. ISBN 9788532636034 (broch.).
 
-**==> picture [472 x 55] intentionally omitted <==**
+BIBLIOGRAFIA COMPLEMENTAR: ANDRADE, Maria Margarida de; MARTINS, João Alcino de Andrade (Colab.). **Introdução à metodologia do trabalho científico: elaboração de trabalhos na graduação** . 10. ed. São Paulo: Atlas, 2010. MATTAR, João. **Metodologia científica na era da informática** . 3. ed. rev. atual. São Paulo: Saraiva, 2008. SALOMON, Délcio Vieira. **Como fazer uma monografia** . 12. ed. São Paulo: Martins Fontes, 2010. SILVA, Daniel Nascimento e. **Manual de redação para trabalhos acadêmicos: position paper, ensaios teóricos, artigos científicos e questões discursivas** . São Paulo: Atlas, 2012. BOAVENTURA, Edivaldo M. **Metodologia da pesquisa: monografia, dissertação, tese** . São Paulo: Atlas, 2004. 160p. ISBN 9788522436972 (broch.).
 
-BALDAM, Roquemar de Lima et al. **Gerenciamento de processos de negócios: BPM - Business Process Management** . 2. ed. São Paulo: Érica, 2007. 240 p. ISBN 9788536501758 (broch.) 
+## 2.8 AVALIAÇÃO
 
-BROWN, Tim. **Design thinking: uma metodologia poderosa para decretar o fim das velhas ideias** . Rio de Janeiro: Elsevier, 2010. 249 p. ISBN 9788535238624 (broch.) . 
+## **2.8.1 Avaliação da Aprendizagem**
 
-DIAS, Reinaldo. **Eco-inovação: caminho para o crescimento sustentável** . São Paulo: Atlas, 2014. 208 p. ISBN 9788522485505 (broch.). 
+A avaliação da aprendizagem no IFPR _campus_ Paranavaí, observa a Lei de Diretrizes e Bases da Educação Nacional, Lei n° 9394/96 e a Portaria CONSUP/IFPR n° 50/2017 do Instituto Federal do Paraná, tendo em ambos os documentos seus fundamentos legais.
 
-FINOCCHIO JÚNIOR, José. **Project model canvas: gerenciamento de projetos sem burocracia** . Rio de Janeiro: Elsevier, 2013. 229 p. ISBN 9788535274561 (broch.). GRANDO, Nei (Org.). **Empreendedorismo inovador: como criar startups de tecnologia no Brasil** . São Paulo: Évora, 2012. 557 p.  ISBN 9788563993434 (broch.). OSTERWALDER, Alexander et al. **Value proposition design: como construir propostas de valor inovadoras** . São Paulo: HSM, 2014. 289 p. (Strategyzer series). ISBN 9788567389257 (broch.). 
+A Lei de Diretrizes e Bases da Educação Nacional (LDB 9394/96), afirma que a avaliação do rendimento escolar do discente deve ser contínua e cumulativa, predominando os aspectos
 
-REIS, Dálcio Roberto dos. **Gestão da inovação tecnológica** . 2. ed. São Paulo: Manole, 2008. 206 p. ISBN 9788520426784 (broch.). 
+qualitativos e prevalecendo o desempenho do discente ao longo do período sobre eventuais provas finais.
 
-COMPONENTE CURRICULAR: Programação Orientada a Objetos 
+Para o entendimento completo do processo de avaliação de aprendizagem no curso de Bacharelado em Engenharia de Software, os interessados devem realizar a leitura completa da Portaria CONSUP/IFPR n° 50/2017. A seguir são destacados alguns dos pontos principais da portaria no que se refere à avaliação de ensino-aprendizagem.
 
-CARGA HORÁRIA: 160/133 
+De acordo com o artigo sétimo da portaria CONSUP/IFPR n° 50/2017 os processos de avaliação de ensino-aprendizagem deve ser:
 
-EMENTA: Principais conceitos do paradigma orientado a objeto. Elementos de uma classe: atributos, métodos e construtores. Conceitos e objetivos do encapsulamento. Abstração de entidades de um Sistema de Informação para identificar classes. Diferença entre elementos de uma classe e de um objeto. Herança e associação de classes. Definição de um método com comportamentos distintos pela sobrecarga e sobreposição. Coesão e acoplamento de uma classe. Princípios para projetar classes com responsabilidade e reusabilidade. Preparar o aluno para a prática do desenvolvimento de aplicações orientadas a objeto com persistência de dados e emissão de relatórios. 
+**I. Diagnóstico** : envolve descrição, atribuição de valor e julgamento acerca dos resultados apresentados pelos alunos em diferentes etapas do processo educativo e atende a diferentes objetivos; detecta o nível geral de conhecimento dos alunos, as suas dificuldades e as medidas necessárias para supri-las; permite retroalimentar o processo, servindo como indicador dos elementos de competência que precisarão ser aprofundados ou resgatados.
 
-## BIBLIOGRAFIA BÁSICA: 
+**II. Formativo** : ocorre durante o processo de ensino aprendizagem, é interna ao processo, contínua, interativa e centrada no aluno de caráter diagnóstico; ajuda o aluno a aprender e o professor a ensinar e reavaliar todas as etapas do processo ensino aprendizagem; possibilita o acompanhamento da aquisição e domínio das competências e adequa o ensino às necessidades de ajustes na aprendizagem e no desenvolvimento do aluno.
 
-HORSTMANN, Cay S.; CORNELL, Gary. **Core Java volume I: fundamentos** . 8. ed. São Paulo: Pearson Education do Brasil, c2010. 383 p. ISBN 9788576053576 (broch.). 
+**III. Somativo** : possibilita a avaliação dos objetivos e competências pretendidos; apresenta os resultados de aprendizagens e rendimento dos alunos e seus dados subsidiam o replanejamento do ensino para a próxima etapa.
 
-DEITEL, Paul J.; DEITEL, Harvey M. **Java: como programar** . 8. ed. São Paulo: Prentice Hall, 2010. xxix,1144 p. ISBN 9788576055631 (enc.). 
+Segundo o artigo nono da portaria CONSUP/IFPR n° 50/2017 são instrumentos de avaliação:
 
-BAUER, Christian; KING, Gavin. **Java Persistence com Hibernate** . Rio de Janeiro: 
+I– seminários; II– trabalhos individuais e/ou em grupos; III– testes escritos e/ou orais/sinalizados; IV– demonstrações de técnicas em laboratório; V– dramatizações; VI– apresentações de trabalhos finais de iniciação científica; VII– artigos científicos ou ensaios; VIII– Trabalho de Conclusão de Curso – TCC; IX– relatórios de estágio; X– portfólios; XI– resenhas; XII– autoavaliações; XIII– participações em projetos; XIV– participações em atividades culturais e esportivas; XV– visitas técnicas; XVI– atividades em Ambiente Virtual de Aprendizagem (AVA); XVII– participação em atividades de mobilidade nacional e internacional; XVIII– outras atividades de  ensino,  pesquisa,  extensão  e  inovação  pertinentes
 
-112 
+aos cursos.
 
-**==> picture [472 x 55] intentionally omitted <==**
+As avaliações e estudos de recuperação são de responsabilidade do professor, respeitada a autonomia didático/metodológica para definir quais os instrumentos mais adequados a serem utilizados para sanar as lacunas de aprendizagem.
 
-Ciência Moderna, c2007. 844 p. ISBN 9788573936148 (broch.). SANTOS, Ciro Meneses. **Desenvolvimento de aplicações comerciais com JAVA e NetBeans** . Rio de Janeiro: Ciência Moderna, 2010. 190 p. ISBN 9878573938920. ASCENCIO, Ana Fernanda Gomes; CAMPOS, Edilene Aparecida Veneruchi de. **Fundamentos da programação de computadores: algoritmos, pascal, C/ C++ (padrão ANSI) e Java** . 3. ed. São Paulo: Pearson Prentice Hall, 2012. 569p. ISBN 9788564574168 (broch.). BIBLIOGRAFIA COMPLEMENTAR: TAVARES, André. **Java simplificado.** Rio de Janeiro: Ciência Moderna, 2012 165 p. ISBN 9788539902873 (broch.). GOODRICH, Michael T.; TAMASSIA, Roberto. **Estruturas de dados e algoritmos em Java™. 5** . ed. Porto Alegre: Bookman, 2013. 713 p. ISBN 9788582600184 (broch.). RICHARDSON, Chris. **POJOs em ação: como desenvolver aplicações corporativas com frameworks leves** . Rio de Janeiro: Ciência Moderna, 2007. 559 p. ISBN 9788573935783 (broch.). BORATTI, Isaias Camilo. **Programação orientada a objetos em java** . Florianópolis: Visual Books, 2007. 310 p. ISBN 9788575021996 (broch.). KEITH, Mike. **EJB 3 profissional: java persistence API** . Rio de Janeiro: Ciência Moderna, 2008. xxvi, 518 p. ISBN 9788573936964 (broch.). 
+A recuperação paralela será oferecida aos estudantes que apresentarem dificuldades, por meio de atividades diversificadas, tais como: roteiro de estudos, participação de projetos de reforço e de nivelamento, revisão dos conteúdos, atendimento acadêmico, entre outras.
 
-COMPONENTE CURRICULAR: Trabalho de Conclusão de Curso CARGA HORÁRIA: 160/133 
+A frequência para aprovação deverá ser igual ou superior a setenta e cinco por cento (75%) de cada componente curricular ao final do período letivo. Será considerado reprovado por frequência o estudante que não obtiver frequência igual ou superior a setenta e cinco por cento (75%).
 
-EMENTA: Apresentação de critérios e metodologias para elaboração de proposta e desenvolvimento de projeto de software ou de pesquisa científica formulado sobre tema de livre escolha, que venha a incorporar conhecimentos teóricos, práticos e tecnológicos relevantes para a área. Elaboração de revisão de literatura, coleta de dados, análise dos dados, implementações (quando cabível) e considerações finais. Construção e apresentação de monografia e/ou artigo científico dentro das normas estabelecidas pelo Colegiado e sob orientação técnica de um professor orientador. O trabalho deve estar de acordo com regulamentação própria aplicado ao desenvolvimento do TCC conforme Anexo. 
+Estudantes em processo de adaptação, (transferidos ou que vieram de uma matriz curricular que não está mais em uso), serão matriculados no período mais conveniente ao curso, desde que não seja em componentes curriculares que exigem pré-requisitos.
 
-BIBLIOGRAFIA BÁSICA: 
+Estudantes reprovados poderão, também, ter progressão parcial com a observação dos prérequisitos, desde que a soma dos componentes curriculares em dependência não ultrapasse três componentes curriculares.
 
-113 
+As dependências que foram originadas somente por conceito insuficiente, são balizadas por Plano de Estudos em Regime de Dependência, elaborado anualmente por professor da disciplina. Do plano consta o planejamento anual com os conteúdos programáticos trabalhados e exigidos a cada trimestre, bem como o horário de atendimento docente, a distribuição detalhada das atividades do cronograma com seu respectivo desenvolvimento metodológico e as atividades previstas. Além do calendário de avaliação e as respectivas referências bibliográficas. As dependências que forem ocasionadas por frequência insuficiente devem ser cursadas até que o previsto na LDB e na Resolução nº 50 de 14 de julho de 2017 seja cumprido.
 
-**==> picture [472 x 55] intentionally omitted <==**
+A verificação do rendimento acadêmico, em cada componente curricular, se dará ao término do trimestre, os conceitos deverão ter emissão parcial após o término do bimestre letivo e emissão final após o término do ano letivo. Ao final do período letivo o estudante será considerado APROVADO quando obtiver o conceito final igual ou superior a C e frequência de 75% no componente curricular/área curricular.
 
-INSTITUTO FEDERAL DO PARANÁ. **Normas para apresentação de trabalhos acadêmicos do Instituto Federal do Paraná (IFPR).** Curitiba, 2010. RUDIO, Franz Victor. **Introdução ao projeto de pesquisa científica** . 42.ed. Petrópolis, RJ: Vozes, 2014. WAZLAWICK, Raul Sidnei. **Metodologia de pesquisa para ciência da computação** . Rio de Janeiro: Campus, 2009. TOMASI, Carolina; MEDEIROS, João Bosco. **Comunicação científica: normas técnicas para redação científica** . São Paulo, SP: Atlas, 2008. MARTINS JÚNIOR, Joaquim. **Como escrever trabalhos de conclusão de curso: instruções para planejar e montar, desenvolver, concluir, redigir e apresentar trabalhos monográficos e artigos** . 7.ed. Petrópolis: Vozes, 2013. 247 p. ISBN 9788532636034 (broch.). 
+De acordo com a Resolução nº 50 de 14 de julho de 2017,  que Estabelece as normas de avaliação dos processos de ensino-aprendizagem no âmbito do IFPR, o conceito A é obtido quando a aprendizagem do estudante for PLENA, o conceito B é obtido quando a aprendizagem do estudante for PARCIALMENTE PLENA, o conceito C é obtido quando a aprendizagem do estudante for SUFICIENTE e o conceito D é obtido quando a aprendizagem do estudante for INSUFICIENTE e não atingir os objetivos, conforme critérios propostos no plano de ensino.
 
-BIBLIOGRAFIA COMPLEMENTAR: ANDRADE, Maria Margarida de; MARTINS, João Alcino de Andrade (Colab.). **Introdução à metodologia do trabalho científico: elaboração de trabalhos na graduação** . 10. ed. São Paulo: Atlas, 2010. MATTAR, João. **Metodologia científica na era da informática** . 3. ed. rev. atual. São Paulo: Saraiva, 2008. SALOMON, Délcio Vieira. **Como fazer uma monografia** . 12. ed. São Paulo: Martins Fontes, 2010. SILVA, Daniel Nascimento e. **Manual de redação para trabalhos acadêmicos: position paper, ensaios teóricos, artigos científicos e questões discursivas** . São Paulo: Atlas, 2012. BOAVENTURA, Edivaldo M. **Metodologia da pesquisa: monografia, dissertação, tese** . São Paulo: Atlas, 2004. 160p. ISBN 9788522436972 (broch.). 
+## **2.8.2 Plano de Avaliação Institucional**
 
-## 2.8 AVALIAÇÃO 
+O Plano de Avaliação Institucional do Instituto Federal do Paraná atende às orientações do Sistema Nacional de Avaliação da Educação Superior (SINAES), instituído pela Lei 10861/2004, e tem por objetivo a promoção da qualidade de ensino nesse nível de educação.
 
-## **2.8.1 Avaliação da Aprendizagem** 
+A Lei 10861/2004 prevê três dimensões para a avaliação institucional, quais sejam: a Auto Avaliação Institucional, a Avaliação Externa in loco, e o Exame Nacional de Desempenho dos Estudantes (ENADE).
 
-A avaliação da aprendizagem no IFPR _campus_ Paranavaí, observa a Lei de Diretrizes e Bases da Educação Nacional, Lei n° 9394/96 e a Portaria CONSUP/IFPR n° 50/2017 do Instituto Federal do Paraná, tendo em ambos os documentos seus fundamentos legais. 
+O Art. 3º da Lei 10861/2004 estabelece como objetivo da avaliação das instituições de ensino superior “identificar o seu perfil e o significado de sua atuação, por meio de suas atividades, cursos, programas, projetos e setores, considerando as diferentes dimensões institucionais”. Como dimensões para essa avaliação, o mesmo artigo, em seus incisos, indica dez aspectos:
 
-A Lei de Diretrizes e Bases da Educação Nacional (LDB 9394/96), afirma que a avaliação do rendimento escolar do discente deve ser contínua e cumulativa, predominando os aspectos 
+I – a missão e o plano de desenvolvimento institucional;
 
-114 
+II – a política para o ensino, a pesquisa, a pós-graduação, a extensão e as respectivas formas de operacionalização, incluídos os procedimentos para estímulo à produção acadêmica, as bolsas de pesquisa, de monitoria e demais modalidades;
 
-**==> picture [472 x 55] intentionally omitted <==**
+III – a responsabilidade social da instituição, considerada especialmente no que se refere à sua contribuição em relação à inclusão social, ao desenvolvimento econômico e social, à defesa do meio ambiente, da memória cultural, da produção artística e do patrimônio cultural;
 
-qualitativos e prevalecendo o desempenho do discente ao longo do período sobre eventuais provas finais. 
+IV – a comunicação com a sociedade;
 
-Para o entendimento completo do processo de avaliação de aprendizagem no curso de Bacharelado em Engenharia de Software, os interessados devem realizar a leitura completa da Portaria CONSUP/IFPR n° 50/2017. A seguir são destacados alguns dos pontos principais da portaria no que se refere à avaliação de ensino-aprendizagem. 
+V – as políticas de pessoal, as carreiras do corpo docente e do corpo técnicoadministrativo, seu aperfeiçoamento, desenvolvimento profissional e suas condições de trabalho;
 
-De acordo com o artigo sétimo da portaria CONSUP/IFPR n° 50/2017 os processos de avaliação de ensino-aprendizagem deve ser: 
+VI – organização e gestão da instituição, especialmente o funcionamento e representatividade dos colegiados, sua independência e autonomia na relação com a mantenedora, e a participação dos segmentos da comunidade universitária nos processos decisórios;
 
-**I. Diagnóstico** : envolve descrição, atribuição de valor e julgamento acerca dos resultados apresentados pelos alunos em diferentes etapas do processo educativo e atende a diferentes objetivos; detecta o nível geral de conhecimento dos alunos, as suas dificuldades e as medidas necessárias para supri-las; permite retroalimentar o processo, servindo como indicador dos elementos de competência que precisarão ser aprofundados ou resgatados. 
+VII – infraestrutura física, especialmente a de ensino e de pesquisa, biblioteca, recursos de informação e comunicação;
 
-**II. Formativo** : ocorre durante o processo de ensino aprendizagem, é interna ao processo, contínua, interativa e centrada no aluno de caráter diagnóstico; ajuda o aluno a aprender e o professor a ensinar e reavaliar todas as etapas do processo ensino aprendizagem; possibilita o acompanhamento da aquisição e domínio das competências e adequa o ensino às necessidades de ajustes na aprendizagem e no desenvolvimento do aluno. 
+VIII – planejamento e avaliação, especialmente os processos, resultados e eficácia da autoavaliação institucional;
 
-**III. Somativo** : possibilita a avaliação dos objetivos e competências pretendidos; apresenta os resultados de aprendizagens e rendimento dos alunos e seus dados subsidiam o replanejamento do ensino para a próxima etapa. 
+IX – políticas de atendimento aos estudantes;
 
-Segundo o artigo nono da portaria CONSUP/IFPR n° 50/2017 são instrumentos de avaliação: 
+X – sustentabilidade financeira, tendo em vista o significado social da continuidade dos compromissos na oferta da educação superior. (LEI 10861/2004).
 
-I– seminários; II– trabalhos individuais e/ou em grupos; III– testes escritos e/ou orais/sinalizados; IV– demonstrações de técnicas em laboratório; V– dramatizações; VI– apresentações de trabalhos finais de iniciação científica; VII– artigos científicos ou ensaios; VIII– Trabalho de Conclusão de Curso – TCC; IX– relatórios de estágio; X– portfólios; XI– resenhas; XII– autoavaliações; XIII– participações em projetos; XIV– participações em atividades culturais e esportivas; XV– visitas técnicas; XVI– atividades em Ambiente Virtual de Aprendizagem (AVA); XVII– participação em atividades de mobilidade nacional e internacional; XVIII– outras atividades de  ensino,  pesquisa,  extensão  e  inovação  pertinentes 
+Para o acompanhamento, discussão e execução da Avaliação Institucional, a Lei nº 10861/2004 prevê a criação da Comissão Própria de Avaliação (CPA), que, conforme o Relatório
 
-115 
+de Auto Avaliação do IFPR (2010, p. 17), tem como atribuições “coordenar e articular o processo de Avaliação Institucional, bem como disponibilizar o resultado final à comunidade acadêmica”.
 
-**==> picture [472 x 55] intentionally omitted <==**
+A CPA do IFPR é composta por docentes, técnicos administrativos, discentes e representantes da comunidade paranaense. Por ser uma instituição _multicampi_ , a CPA contém representantes dos diversos _campi_ da instituição que, em seus trabalhos, pretendem levantar, anualmente, as potencialidades, as fragilidades e as ações estratégicas para a melhoria da qualidade do Ensino Superior no IFPR, levando em consideração as dimensões previstas na legislação para esse nível de ensino.
 
-aos cursos. 
+Para tanto, todos os envolvidos no processo educativo são consultados, por meio de instrumentos avaliativos específicos para docentes, discentes e técnicos administrativos. Após a coleta desses dados e sua análise, a CPA os sistematiza e divulga o relatório, disponível a toda a comunidade acadêmica. Os relatórios de avaliação da CPA ficam disponíveis publicamente na página do IFPR[13] .
 
-As avaliações e estudos de recuperação são de responsabilidade do professor, respeitada a autonomia didático/metodológica para definir quais os instrumentos mais adequados a serem utilizados para sanar as lacunas de aprendizagem. 
+## **2.8.3 Avaliação do Curso**
 
-A recuperação paralela será oferecida aos estudantes que apresentarem dificuldades, por meio de atividades diversificadas, tais como: roteiro de estudos, participação de projetos de reforço e de nivelamento, revisão dos conteúdos, atendimento acadêmico, entre outras. 
+O Sistema Nacional de Avaliação da Educação Superior foi instituído pela Lei nº 10861/2004 - SINAES. Ao SINAES cabe promover a avaliação externa englobando a avaliação das Instituições, dos Cursos e do desempenho dos estudantes.
 
-A frequência para aprovação deverá ser igual ou superior a setenta e cinco por cento (75%) de cada componente curricular ao final do período letivo. Será considerado reprovado por frequência o estudante que não obtiver frequência igual ou superior a setenta e cinco por cento (75%). 
+O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP/MEC, órgão responsável pela operacionalização da avaliação no âmbito do SINAES, disponibiliza em meio eletrônico, orientações gerais elaboradas pela Comissão Nacional de Avaliação – CONAES.
 
-Estudantes em processo de adaptação, (transferidos ou que vieram de uma matriz curricular que não está mais em uso), serão matriculados no período mais conveniente ao curso, desde que não seja em componentes curriculares que exigem pré-requisitos. 
+Estas orientações envolvem as dinâmicas, procedimentos e mecanismos a serem observados pelas comissões de avaliação de Instituições e de Cursos, e, ocorrem conforme cronogramas emanados do INEP. Nas visitas “in loco” e, no preenchimento do formulário eletrônico, as instituições são avaliadas em todas as dimensões, basicamente pautadas na organização didático-pedagógica, corpo docente e infraestrutura material e física.
 
-Estudantes reprovados poderão, também, ter progressão parcial com a observação dos prérequisitos, desde que a soma dos componentes curriculares em dependência não ultrapasse três componentes curriculares. 
+A avaliação externa constitui um dos aspectos básicos para o necessário aprimoramento da qualidade de ensino, do planejamento e da gestão da Instituição e dos Cursos.
 
-As dependências que foram originadas somente por conceito insuficiente, são balizadas por Plano de Estudos em Regime de Dependência, elaborado anualmente por professor da disciplina. Do plano consta o planejamento anual com os conteúdos programáticos trabalhados e exigidos a cada trimestre, bem como o horário de atendimento docente, a distribuição detalhada das atividades do cronograma com seu respectivo desenvolvimento metodológico e as atividades previstas. Além do calendário de avaliação e as respectivas referências bibliográficas. As dependências que forem ocasionadas por frequência insuficiente devem ser cursadas até que o previsto na LDB e na Resolução nº 50 de 14 de julho de 2017 seja cumprido. 
+A integração entre avaliação interna e externa no IFPR, parte do princípio de que uma Instituição de Ensino Superior depende do exercício permanente de olhar para dentro de si mesma, delineando uma visão global da Instituição e possibilitar, em curto prazo, as reorientações que se fazem necessárias em todos os aspectos.
 
-A verificação do rendimento acadêmico, em cada componente curricular, se dará ao término do trimestre, os conceitos deverão ter emissão parcial após o término do bimestre letivo e emissão final após o término do ano letivo. Ao final do período letivo o estudante será considerado APROVADO quando obtiver o conceito final igual ou superior a C e frequência de 75% no componente curricular/área curricular. 
+A avaliação do processo de formação acadêmica – ENADE consiste de um exame que, ao avaliar o desempenho do estudante no início e ao final do curso, permite analisar os conhecimentos adquiridos. Outro indicador considerado pelos avaliadores externos, em seus pareceres, são os documentos prévios por eles analisados tais como o Censo Educacional, Cadastro Docente e o Formulário Eletrônico com recortes do Projeto Pedagógico do Curso ou em caso de Avaliação Institucional de Desenvolvimento Institucional – PDI.
 
-De acordo com a Resolução nº 50 de 14 de julho de 2017,  que Estabelece as normas de avaliação dos processos de ensino-aprendizagem no âmbito do IFPR, o conceito A é obtido quando a aprendizagem do estudante for PLENA, o conceito B é obtido quando a aprendizagem do estudante for PARCIALMENTE PLENA, o conceito C é obtido quando a aprendizagem do estudante for SUFICIENTE e o conceito D é obtido quando a aprendizagem do estudante for INSUFICIENTE e não atingir os objetivos, conforme critérios propostos no plano de ensino. 
+> 13 http://reitoria.ifpr.edu.br/menu-institucional/institucional/comissoes/cpa/relatorios/
 
-## **2.8.2 Plano de Avaliação Institucional** 
+## **2.8.4 Avaliação do Projeto Pedagógico do Curso**
 
-O Plano de Avaliação Institucional do Instituto Federal do Paraná atende às orientações do Sistema Nacional de Avaliação da Educação Superior (SINAES), instituído pela Lei 10861/2004, e tem por objetivo a promoção da qualidade de ensino nesse nível de educação. 
+O Projeto Pedagógico do curso de Bacharelado em Engenharia de Software será avaliado continuamente no decorrer do curso, por meio das reuniões de professores, Núcleo Docente Estruturante (NDE) e do seu Colegiado.
 
-116 
+O trabalho pedagógico dos professores do curso é avaliado, periodicamente, nas semanas de planejamento pedagógico quando se efetiva o acompanhamento das atividades desenvolvidas ao longo do processo com os estudantes e os resultados obtidos.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Nesses momentos, tanto a coordenação quanto o corpo docente são informados das dificuldades apresentadas pela turma e os estudantes que necessitam de uma atenção especial. Esse é o espaço, por excelência, para se discutir as alternativas viáveis para o replanejamento das atividades docentes.
 
-A Lei 10861/2004 prevê três dimensões para a avaliação institucional, quais sejam: a Auto Avaliação Institucional, a Avaliação Externa in loco, e o Exame Nacional de Desempenho dos Estudantes (ENADE). 
+De acordo com o Art. 2º da Resolução nº 01/2010 do CONAES, são atribuições do NDE, entre outras:
 
-O Art. 3º da Lei 10861/2004 estabelece como objetivo da avaliação das instituições de ensino superior “identificar o seu perfil e o significado de sua atuação, por meio de suas atividades, cursos, programas, projetos e setores, considerando as diferentes dimensões institucionais”. Como dimensões para essa avaliação, o mesmo artigo, em seus incisos, indica dez aspectos: 
+I. Contribuir para a consolidação do perfil profissional do egresso do curso;
 
-I – a missão e o plano de desenvolvimento institucional; 
+II. Zelar pela integração curricular interdisciplinar entre as diferentes atividades de ensino constantes no currículo;
 
-II – a política para o ensino, a pesquisa, a pós-graduação, a extensão e as respectivas formas de operacionalização, incluídos os procedimentos para estímulo à produção acadêmica, as bolsas de pesquisa, de monitoria e demais modalidades; 
+III. Indicar formas de incentivo ao desenvolvimento de linhas de pesquisa e extensão, oriundas de necessidades da graduação, de exigências do mundo do trabalho e afinadas com as políticas públicas relativas à área de conhecimento do curso;
 
-III – a responsabilidade social da instituição, considerada especialmente no que se refere à sua contribuição em relação à inclusão social, ao desenvolvimento econômico e social, à defesa do meio ambiente, da memória cultural, da produção artística e do patrimônio cultural; 
+IV. Zelar pelo cumprimento das Diretrizes Curriculares Nacionais para os Cursos de Graduação.
 
-IV – a comunicação com a sociedade; 
+As competências dos Colegiados de Cursos são regulamentadas pela Resolução CONSUP/IFPR n° 08/2014 nº 08/2014 do CONSUP. São elas:
 
-V – as políticas de pessoal, as carreiras do corpo docente e do corpo técnicoadministrativo, seu aperfeiçoamento, desenvolvimento profissional e suas condições de trabalho; 
+I- Cumprir e fazer cumprir as normas da instituição para o pleno funcionamento do curso; II- Propor revisão do plano de curso, quando necessário, respeitadas as diretrizes e normas do IFPR;
 
-VI – organização e gestão da instituição, especialmente o funcionamento e representatividade dos colegiados, sua independência e autonomia na relação com a mantenedora, e a participação dos segmentos da comunidade universitária nos processos decisórios; 
+III- Manifestar-se sobre as formas de admissão e seleção, bem como sobre o número de vagas iniciais, no que lhe couber;
 
-VII – infraestrutura física, especialmente a de ensino e de pesquisa, biblioteca, recursos de informação e comunicação; 
+IV- Estabelecer normas internas de funcionamento do curso, respeitadas as diretrizes e normas da instituição;
 
-VIII – planejamento e avaliação, especialmente os processos, resultados e eficácia da autoavaliação institucional; 
+V- Zelar pelo cumprimento dos planos de ensino dos componentes curriculares;
 
-IX – políticas de atendimento aos estudantes; 
+VI- Orientar e acompanhar a vida escolar/acadêmica dos alunos do curso;
 
-X – sustentabilidade financeira, tendo em vista o significado social da continuidade dos compromissos na oferta da educação superior. (LEI 10861/2004). 
+VII- Deliberar sobre requerimentos de alunos no âmbito de suas competências;
 
-Para o acompanhamento, discussão e execução da Avaliação Institucional, a Lei nº 10861/2004 prevê a criação da Comissão Própria de Avaliação (CPA), que, conforme o Relatório 
+VIII- Deliberar o horário de aulas do curso, respeitadas as diretrizes e normas da instituição;
 
-117 
+IX- Estudar, na qualidade de relator ou de membro de comissão especial, as matérias submetidas à apreciação do Colegiado apresentando o relato e a decisão no prazo estabelecido pelo Colegiado ou pela Coordenação;
 
-**==> picture [472 x 55] intentionally omitted <==**
+X- Recepcionar os ingressantes do curso, orientando-os no que se refere ao funcionamento e organização do IFPR;
 
-de Auto Avaliação do IFPR (2010, p. 17), tem como atribuições “coordenar e articular o processo de Avaliação Institucional, bem como disponibilizar o resultado final à comunidade acadêmica”. 
+XI- Decidir sobre a aprovação ou reprovação de estudantes com dificuldade de aproveitamento nos componentes curriculares ou em casos específicos que extrapolam a competência didático-avaliativo-pedagógica docente desde que convocados.
 
-A CPA do IFPR é composta por docentes, técnicos administrativos, discentes e representantes da comunidade paranaense. Por ser uma instituição _multicampi_ , a CPA contém representantes dos diversos _campi_ da instituição que, em seus trabalhos, pretendem levantar, anualmente, as potencialidades, as fragilidades e as ações estratégicas para a melhoria da qualidade do Ensino Superior no IFPR, levando em consideração as dimensões previstas na legislação para esse nível de ensino. 
+O processo de consolidação do Projeto Pedagógico de Curso só é possível com a interação de todos, e a avaliação continuada é o principal mecanismo para assegurar a qualidade das atividades didático-pedagógicas e do funcionamento do curso como um todo.
 
-Para tanto, todos os envolvidos no processo educativo são consultados, por meio de instrumentos avaliativos específicos para docentes, discentes e técnicos administrativos. Após a coleta desses dados e sua análise, a CPA os sistematiza e divulga o relatório, disponível a toda a comunidade acadêmica. Os relatórios de avaliação da CPA ficam disponíveis publicamente na página do IFPR[13] . 
+A readequação do Projeto Pedagógico e a reorientação das dimensões e dos diferentes aspectos do curso são realizadas sempre que necessário, com o comprometimento da coordenação, Órgão colegiado, o Núcleo Docente Estruturante e o corpo discente.
 
-## **2.8.3 Avaliação do Curso** 
+## 2.9 ATIVIDADES DE ESTÁGIO
 
-O Sistema Nacional de Avaliação da Educação Superior foi instituído pela Lei nº 10861/2004 - SINAES. Ao SINAES cabe promover a avaliação externa englobando a avaliação das Instituições, dos Cursos e do desempenho dos estudantes. 
+O curso de Bacharelado em Engenharia de Software permite a realização de estágio não obrigatório e estágio curricular supervisionado. O estágio não obrigatório é desenvolvido como atividade opcional e sua carga horária de execução é acrescida à carga horária regular do curso, não requer cumprimento de carga horária mínima, sendo permitido em qualquer série do curso. Já o estágio curricular supervisionado é considerado requisito para aprovação e obtenção do diploma. Em ambos os casos, o IFPR, por meio do Regulamento dos Estágios do Instituto Federal do Paraná, atende a Lei nº. 11.788, de 25 de setembro de 2008, que dispõe sobre o estágio de estudantes. De acordo com a legislação vigente e toda a regulamentação institucional, os alunos poderão cumprir seus estágios em quaisquer órgãos ou instituições, inclusive o próprio IFPR, que ofereçam atividades correlacionadas às áreas de estudos do curso de Bacharelado em Engenharia de Software, respeitadas a cargas horárias diárias, semanais e totais, e somente após a formalização do mesmo. O estágio não obrigatório segue o disposto na Lei nº. 11.788 e o Regulamento dos Estágios do Instituto Federal do Paraná. O estágio curricular supervisionado, obrigatório para os alunos do curso de Bacharelado em Engenharia de Software do IFPR campus Paranavaí, exige a integralização de 300 horas-relógio e, além de estar pautado nos documentos citados, possui regulamento específico disponível no Apêndice A deste documento.
 
-O Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP/MEC, órgão responsável pela operacionalização da avaliação no âmbito do SINAES, disponibiliza em meio eletrônico, orientações gerais elaboradas pela Comissão Nacional de Avaliação – CONAES. 
+## **2.9.1 Convênios de Estágio**
 
-Estas orientações envolvem as dinâmicas, procedimentos e mecanismos a serem observados pelas comissões de avaliação de Instituições e de Cursos, e, ocorrem conforme cronogramas emanados do INEP. Nas visitas “in loco” e, no preenchimento do formulário eletrônico, as instituições são avaliadas em todas as dimensões, basicamente pautadas na organização didático-pedagógica, corpo docente e infraestrutura material e física. 
+Atualmente o campus Paranavaí possui um convênio de estágio firmado com o Centro de Integração Empresa-Escola do Paraná (CIEE/PR). Esse convênio atende tanto alunos de cursos técnicos como também alunos de nível superior. Atualmente, não há previsão para que outros convênios sejam firmados.
 
-A avaliação externa constitui um dos aspectos básicos para o necessário aprimoramento da qualidade de ensino, do planejamento e da gestão da Instituição e dos Cursos. 
+## 2.10 TRABALHO DE CONCLUSÃO DE CURSO
 
-A integração entre avaliação interna e externa no IFPR, parte do princípio de que uma Instituição de Ensino Superior depende do exercício permanente de olhar para dentro de si mesma, delineando uma visão global da Instituição e possibilitar, em curto prazo, as reorientações que se fazem necessárias em todos os aspectos. 
+O componente curricular Trabalho de Conclusão de Curso proporciona aos alunos a oportunidade de desenvolvimento pleno, estimulando a sua formação prática, de forma independente, interdisciplinar, multidisciplinar e, sobretudo, estreita relações com o mundo do trabalho.
 
-A avaliação do processo de formação acadêmica – ENADE consiste de um exame que, ao avaliar o desempenho do estudante no início e ao final do curso, permite analisar os conhecimentos adquiridos. Outro indicador considerado pelos avaliadores externos, em seus pareceres, são os documentos prévios por eles analisados tais como o Censo Educacional, Cadastro Docente e o Formulário Eletrônico com recortes do Projeto Pedagógico do Curso ou em caso de Avaliação Institucional de Desenvolvimento Institucional – PDI. 
+Constitui-se em uma ferramenta importante na formação acadêmica, pois integra conhecimentos adquiridos ao longo do curso, no estado da arte, em desenvolvimento de aplicações científicas ou tecnológicas, preferencialmente inovadoras.
 
-> 13 http://reitoria.ifpr.edu.br/menu-institucional/institucional/comissoes/cpa/relatorios/ 
+Podendo ser oferecido em diversas modalidades, tais como: projetos técnicos, análise/estudo de casos, performance, desenvolvimento de instrumentos, equipamentos, protótipos, pesquisa aplicada e outros, desde de que estejam de acordo com a natureza da área profissional e fins do curso.
 
-118 
+Cabe ao professor do componente curricular conduzir a organização do trabalho e estabelecer prazos e datas de apresentação para uma banca avaliadora, e ao professor orientador, auxiliar na definição do tema, acompanhar e orientar a construção do trabalho.
 
-**==> picture [472 x 55] intentionally omitted <==**
+As atividades a serem desenvolvidas no Trabalho de Conclusão de Curso devem seguir as orientações descritas no Apêndice B, que trata da regulamentação para a elaboração do Trabalho de Conclusão de Curso. As normas de elaboração da monografia, resultante do TCC, constam no manual intitulado Normas para Apresentação de Trabalhos Acadêmicos do Instituto Federal do Paraná (IFPR)[14] .
 
-## **2.8.4 Avaliação do Projeto Pedagógico do Curso** 
+## 2.11 ATIVIDADES COMPLEMENTARES
 
-O Projeto Pedagógico do curso de Bacharelado em Engenharia de Software será avaliado continuamente no decorrer do curso, por meio das reuniões de professores, Núcleo Docente Estruturante (NDE) e do seu Colegiado. 
+As Atividades Complementares são regidas pela IIP Nº 02 (Instrução Interna de Procedimentos), devidamente aprovado pelo Campus Paranavaí em 31 de Março de 2015, apresentado no Apêndice C ou outra que vier substituí-la.
 
-O trabalho pedagógico dos professores do curso é avaliado, periodicamente, nas semanas de planejamento pedagógico quando se efetiva o acompanhamento das atividades desenvolvidas ao longo do processo com os estudantes e os resultados obtidos. 
+São consideradas atividades complementares todas as experiências acadêmicas e/ou sociais, presenciais ou à distância, na forma individual ou coletiva, realizadas no Instituto Federal do Paraná – Campus Paranavaí ou fora deste, mediante estudos e práticas, que contribuam para a construção do perfil profissional e de cidadania expresso no PPC - Projeto Pedagógico do curso de Bacharel em Engenharia de Software, sempre voltadas para as propostas e/ou dimensões de ensino, iniciação à pesquisa, extensão e inovação, mesmo que o conteúdo programático não esteja previsto na proposta curricular. Deverão, preferencialmente, ser realizadas em horários que não aos dos componentes curriculares do curso frequentado, não sendo justificativa para faltas em outros componentes curriculares.
 
-Nesses momentos, tanto a coordenação quanto o corpo docente são informados das dificuldades apresentadas pela turma e os estudantes que necessitam de uma atenção especial. Esse é o espaço, por excelência, para se discutir as alternativas viáveis para o replanejamento das atividades docentes. 
+Conforme previsto no Apêndice B, em seu Capítulo I Art. 2º:
 
-De acordo com o Art. 2º da Resolução nº 01/2010 do CONAES, são atribuições do NDE, entre outras: 
+“São consideradas atividades complementares todas as atividades de natureza acadêmica, científica, artística, esportiva e cultural que buscam a integração e/ou articulação entre ensino médio, profissionalizante e superior, além da pesquisa e extensão, e que não estão compreendidas nas práticas pedagógicas previstas no desenvolvimento regular dos componentes curriculares obrigatórios do currículo pleno.”
 
-I. Contribuir para a consolidação do perfil profissional do egresso do curso; 
+Tais atividades possuem grande importância para a formação profissional, pois contemplam o desenvolvimento e realização de atividades enriquecedoras, inclusive atividades desenvolvidas fora do ambiente acadêmico, que complementam e aprimoram o perfil profissional e humanístico, necessários para a atuação eficaz no mundo do trabalho, além de proporcionar a
 
-II. Zelar pela integração curricular interdisciplinar entre as diferentes atividades de ensino constantes no currículo; 
+> 14 Disponível em http://reitoria.ifpr.edu.br/servicos/biblioteca/normas-trabalhos-academicos/.
 
-III. Indicar formas de incentivo ao desenvolvimento de linhas de pesquisa e extensão, oriundas de necessidades da graduação, de exigências do mundo do trabalho e afinadas com as políticas públicas relativas à área de conhecimento do curso; 
+integração entre a graduação, a pesquisa, extensão e a inovação, compreendidas das práticas pedagógicas previstas no desenvolvimento regular dos componentes curriculares obrigatórios do currículo pleno.
 
-IV. Zelar pelo cumprimento das Diretrizes Curriculares Nacionais para os Cursos de Graduação. 
+As atividades complementares têm como objetivos estimular a prática de estudos, ampliar, aprofundar e consolidar a formação do discente, nos âmbitos profissional, pessoal e sociocultural, através da diversificação, interdisciplinaridade, atualização, dinamismo e respeito dos interesses individuais na vivência de experiências importantes para seu processo de desenvolvimento. Frente à necessidade de se estimular a prática de estudos independentes, transversais, opcionais, interdisciplinares, de permanente e contextualizada atualização profissional, as atividades complementares visam incentivar uma formação geral do discente, a qual se faz necessária para desenvolver no futuro profissional a capacidade de enfrentar novos desafios, bem como uma progressiva autonomia intelectual, em condições de articular e mobilizar conhecimentos, habilidades, atitudes, valores, para colocá-los em prática e dar respostas originais e criativas aos desafios profissionais e tecnológicos, fazendo com que haja um enriquecimento no processo de aprendizagem, privilegiando a complementação da formação social do cidadão e permitindo seu aperfeiçoamento, agregando valor no âmbito do currículo do discente, ou seja, as atividades complementares referem-se, portanto, a um conjunto de atividades que objetivam enriquecer a formação acadêmica e pedagógica do discente do curso de Bacharel em Engenharia de Software.
 
-As competências dos Colegiados de Cursos são regulamentadas pela Resolução CONSUP/IFPR n° 08/2014 nº 08/2014 do CONSUP. São elas: 
+As atividades complementares têm caráter obrigatório onde o discente deverá comprovar a participação em 235 horas de atividades complementares para integralizar sua matriz curricular, sendo o seu integral cumprimento indispensável para a conclusão do curso.
 
-I- Cumprir e fazer cumprir as normas da instituição para o pleno funcionamento do curso; II- Propor revisão do plano de curso, quando necessário, respeitadas as diretrizes e normas do IFPR; 
+O discente poderá participar em atividades complementares de ensino, pesquisa, extensão e inovação gradativamente, a partir do primeiro ano do curso. Contudo, é importante que o discente iniciante escolha atividades compatíveis com seu nível de conhecimento sobre o curso e/ou sua experiência profissional.
 
-III- Manifestar-se sobre as formas de admissão e seleção, bem como sobre o número de vagas iniciais, no que lhe couber; 
+As atividades de pesquisa, extensão e Inovação propiciam a disseminação do conhecimento técnico e científico produzido no meio acadêmico para a comunidade em geral. Consequentemente, esta interação serve de subsídio para realimentar o processo de pesquisa através da identificação das necessidades das comunidades interna e/ou externa.
 
-IV- Estabelecer normas internas de funcionamento do curso, respeitadas as diretrizes e normas da instituição; 
+Será obrigatória aos discentes do Curso de Bacharelado em Engenharia de Software a participação em atividades de pesquisa e extensão.
 
-V- Zelar pelo cumprimento dos planos de ensino dos componentes curriculares; 
+Dentre as linhas de pesquisa sugeridas a serem seguidas pelos docentes e discentes do curso serão principalmente, não de forma exclusiva, as seguintes linhas:
 
-VI- Orientar e acompanhar a vida escolar/acadêmica dos alunos do curso; 
+- Algoritmos e Programação;
 
-VII- Deliberar sobre requerimentos de alunos no âmbito de suas competências; 
+- Automação;
 
-VIII- Deliberar o horário de aulas do curso, respeitadas as diretrizes e normas da instituição; 
+- Computação Aplicada;
 
-IX- Estudar, na qualidade de relator ou de membro de comissão especial, as matérias submetidas à apreciação do Colegiado apresentando o relato e a decisão no prazo estabelecido pelo Colegiado ou pela Coordenação; 
+- Engenharia de Software;
 
-X- Recepcionar os ingressantes do curso, orientando-os no que se refere ao funcionamento e organização do IFPR; 
+- Sistemas Computacionais;
 
-119 
+- Processamento de Imagem;
 
-**==> picture [472 x 55] intentionally omitted <==**
+- Realidade Virtual e Aumentada.
 
-XI- Decidir sobre a aprovação ou reprovação de estudantes com dificuldade de aproveitamento nos componentes curriculares ou em casos específicos que extrapolam a competência didático-avaliativo-pedagógica docente desde que convocados. 
+De acordo com o Inciso VIII do Art. 6 da Lei No 11.892, de 29 de dezembro de 2008, o Instituto Federal do Paraná possui, dentre suas finalidades, a realização e o estímulo à pesquisa aplicada, à produção cultural, ao empreendedorismo, ao cooperativismo e ao desenvolvimento
 
-O processo de consolidação do Projeto Pedagógico de Curso só é possível com a interação de todos, e a avaliação continuada é o principal mecanismo para assegurar a qualidade das atividades didático-pedagógicas e do funcionamento do curso como um todo. 
+científico e tecnológico, tendo como princípios norteadores: (i) sintonia com o Plano de Desenvolvimento Institucional – PDI; (ii) o desenvolvimento de projetos de pesquisa que reúna, preferencialmente, docentes e discentes de diferentes níveis de formação e em parceria com instituições públicas ou privadas que tenham interface de aplicação com interesse social; (iii) o atendimento às demandas da sociedade, do mundo do trabalho e da produção, com impactos nos arranjos produtivos locais; e (iv) comprometimento com a inovação tecnológica e a transferência de tecnologia para a sociedade.
 
-A readequação do Projeto Pedagógico e a reorientação das dimensões e dos diferentes aspectos do curso são realizadas sempre que necessário, com o comprometimento da coordenação, Órgão colegiado, o Núcleo Docente Estruturante e o corpo discente. 
+No IFPR, esta pesquisa aplicada é desenvolvida através de grupos de trabalho nos quais pesquisadores e discentes se organizam em torno de uma ou mais linhas de investigação. A participação de discentes através de Programas de Iniciação Científica, ocorre de duas formas: (1) com bolsa ou (2) voluntariamente.
 
-## 2.9 ATIVIDADES DE ESTÁGIO 
+Especificamente o campus Paranavaí vem tratando a pesquisa como uma de suas prioridades, com participação ativa dos servidores nos editais para seleção de bolsistas (PIBIS, PIBID, PIBIC, PIBITI, PIBIC-EM, Bolsas institucionais) do Instituto Federal. A cada ano buscase divulgar as ações de pesquisa entre discentes através de feiras científicas, estimulando a participação dos mesmos em eventos realizados em outras instituições.
 
-O curso de Bacharelado em Engenharia de Software permite a realização de estágio não obrigatório e estágio curricular supervisionado. O estágio não obrigatório é desenvolvido como atividade opcional e sua carga horária de execução é acrescida à carga horária regular do curso, não requer cumprimento de carga horária mínima, sendo permitido em qualquer série do curso. Já o estágio curricular supervisionado é considerado requisito para aprovação e obtenção do diploma. Em ambos os casos, o IFPR, por meio do Regulamento dos Estágios do Instituto Federal do Paraná, atende a Lei nº. 11.788, de 25 de setembro de 2008, que dispõe sobre o estágio de estudantes. De acordo com a legislação vigente e toda a regulamentação institucional, os alunos poderão cumprir seus estágios em quaisquer órgãos ou instituições, inclusive o próprio IFPR, que ofereçam atividades correlacionadas às áreas de estudos do curso de Bacharelado em Engenharia de Software, respeitadas a cargas horárias diárias, semanais e totais, e somente após a formalização do mesmo. O estágio não obrigatório segue o disposto na Lei nº. 11.788 e o Regulamento dos Estágios do Instituto Federal do Paraná. O estágio curricular supervisionado, obrigatório para os alunos do curso de Bacharelado em Engenharia de Software do IFPR campus Paranavaí, exige a integralização de 300 horas-relógio e, além de estar pautado nos documentos citados, possui regulamento específico disponível no Apêndice A deste documento. 
+A Extensão é um processo educativo, cultural e científico que, articulado de forma indissociável ao ensino, pesquisa e inovação, enseja a relação transformadora entre o IFPR e a sociedade. Compreende ações culturais, artísticas, desportivas, científicas e tecnológicas que envolvam a comunidades interna e externa.
 
-## **2.9.1 Convênios de Estágio** 
+As ações de extensão são uma via de mão dupla por meio da qual a sociedade é beneficiada através da aplicação dos conhecimentos dos docentes, discentes e técnicos administrativos e a comunidade acadêmica se retroalimenta, adquirindo novos conhecimentos para a constante avaliação e revigoramento do ensino e da pesquisa.
 
-Atualmente o campus Paranavaí possui um convênio de estágio firmado com o Centro de Integração Empresa-Escola do Paraná (CIEE/PR). Esse convênio atende tanto alunos de cursos técnicos como também alunos de nível superior. Atualmente, não há previsão para que outros convênios sejam firmados. 
+Deve-se considerar, portanto, a inclusão social e a promoção do desenvolvimento regional sustentável como tarefas centrais a serem cumpridas, atentando para a diversidade cultural e defesa do meio ambiente, promovendo a interação do saber acadêmico e o popular. São exemplos de atividades de extensão: eventos, palestras, cursos, projetos, encontros, visitas técnicas, entre outros.
 
-## 2.10 TRABALHO DE CONCLUSÃO DE CURSO 
+A natureza das ações de extensão busca favorecer o desenvolvimento de atividades que envolvam a Educação das Relações Étnico-Raciais e para o Ensino de História e Cultura Afrobrasileira e Africana, conforme exigência da Resolução CNE/CP nº 01/2004, além da Educação Ambiental, cuja obrigatoriedade está prevista na Lei 9.795/1999.
 
-O componente curricular Trabalho de Conclusão de Curso proporciona aos alunos a oportunidade de desenvolvimento pleno, estimulando a sua formação prática, de forma independente, interdisciplinar, multidisciplinar e, sobretudo, estreita relações com o mundo do trabalho. 
+No campus Paranavaí, oportuniza-se a participação em extensão a partir das iniciativas organizadas pela Coordenação de Pesquisa e Extensão (visitas e convênios com várias empresas da região, atividades do SINPE - Simpósio de Inovação Pesquisa e Extensão, SEPIN – Seminário de Extensão, Ensino, Pesquisa e Inovação, SETIF – Semana de Tecnologia da Informação, encontros culturais resgatando a cultura local, semana da consciência negra, semana do meio ambiente, entre outras), assim também como nos projetos propostos e orientados pelos docentes e servidores técnico administrativos.
 
-120 
+É responsabilidade do estudante a iniciativa, a realização e o gerenciamento das próprias atividades complementares a serem cumpridas ao longo de sua trajetória acadêmica. O estudante transferido de outra Instituição de ensino deverá apresentar ao professor responsável pelo
 
-**==> picture [472 x 55] intentionally omitted <==**
+acompanhamento das atividades complementares os respectivos comprovantes das atividades cumpridas na instituição de origem.
 
-Constitui-se em uma ferramenta importante na formação acadêmica, pois integra conhecimentos adquiridos ao longo do curso, no estado da arte, em desenvolvimento de aplicações científicas ou tecnológicas, preferencialmente inovadoras. 
+As atividades complementares a serem desenvolvidas, devem seguir as orientações descritas no Apêndice C, que trata a (IIP) Instrução Interna de Procedimentos da natureza das atividades complementares.
 
-Podendo ser oferecido em diversas modalidades, tais como: projetos técnicos, análise/estudo de casos, performance, desenvolvimento de instrumentos, equipamentos, protótipos, pesquisa aplicada e outros, desde de que estejam de acordo com a natureza da área profissional e fins do curso. 
+## **2.11.1 Quadro de atividades complementares**
 
-Cabe ao professor do componente curricular conduzir a organização do trabalho e estabelecer prazos e datas de apresentação para uma banca avaliadora, e ao professor orientador, auxiliar na definição do tema, acompanhar e orientar a construção do trabalho. 
-
-As atividades a serem desenvolvidas no Trabalho de Conclusão de Curso devem seguir as orientações descritas no Apêndice B, que trata da regulamentação para a elaboração do Trabalho de Conclusão de Curso. As normas de elaboração da monografia, resultante do TCC, constam no manual intitulado Normas para Apresentação de Trabalhos Acadêmicos do Instituto Federal do Paraná (IFPR)[14] . 
-
-## 2.11 ATIVIDADES COMPLEMENTARES 
-
-As Atividades Complementares são regidas pela IIP Nº 02 (Instrução Interna de Procedimentos), devidamente aprovado pelo Campus Paranavaí em 31 de Março de 2015, apresentado no Apêndice C ou outra que vier substituí-la. 
-
-São consideradas atividades complementares todas as experiências acadêmicas e/ou sociais, presenciais ou à distância, na forma individual ou coletiva, realizadas no Instituto Federal do Paraná – Campus Paranavaí ou fora deste, mediante estudos e práticas, que contribuam para a construção do perfil profissional e de cidadania expresso no PPC - Projeto Pedagógico do curso de Bacharel em Engenharia de Software, sempre voltadas para as propostas e/ou dimensões de ensino, iniciação à pesquisa, extensão e inovação, mesmo que o conteúdo programático não esteja previsto na proposta curricular. Deverão, preferencialmente, ser realizadas em horários que não aos dos componentes curriculares do curso frequentado, não sendo justificativa para faltas em outros componentes curriculares. 
-
-Conforme previsto no Apêndice B, em seu Capítulo I Art. 2º: 
-
-“São consideradas atividades complementares todas as atividades de natureza acadêmica, científica, artística, esportiva e cultural que buscam a integração e/ou articulação entre ensino médio, profissionalizante e superior, além da pesquisa e extensão, e que não estão compreendidas nas práticas pedagógicas previstas no desenvolvimento regular dos componentes curriculares obrigatórios do currículo pleno.” 
-
-Tais atividades possuem grande importância para a formação profissional, pois contemplam o desenvolvimento e realização de atividades enriquecedoras, inclusive atividades desenvolvidas fora do ambiente acadêmico, que complementam e aprimoram o perfil profissional e humanístico, necessários para a atuação eficaz no mundo do trabalho, além de proporcionar a 
-
-> 14 Disponível em http://reitoria.ifpr.edu.br/servicos/biblioteca/normas-trabalhos-academicos/. 
-
-121 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-integração entre a graduação, a pesquisa, extensão e a inovação, compreendidas das práticas pedagógicas previstas no desenvolvimento regular dos componentes curriculares obrigatórios do currículo pleno. 
-
-As atividades complementares têm como objetivos estimular a prática de estudos, ampliar, aprofundar e consolidar a formação do discente, nos âmbitos profissional, pessoal e sociocultural, através da diversificação, interdisciplinaridade, atualização, dinamismo e respeito dos interesses individuais na vivência de experiências importantes para seu processo de desenvolvimento. Frente à necessidade de se estimular a prática de estudos independentes, transversais, opcionais, interdisciplinares, de permanente e contextualizada atualização profissional, as atividades complementares visam incentivar uma formação geral do discente, a qual se faz necessária para desenvolver no futuro profissional a capacidade de enfrentar novos desafios, bem como uma progressiva autonomia intelectual, em condições de articular e mobilizar conhecimentos, habilidades, atitudes, valores, para colocá-los em prática e dar respostas originais e criativas aos desafios profissionais e tecnológicos, fazendo com que haja um enriquecimento no processo de aprendizagem, privilegiando a complementação da formação social do cidadão e permitindo seu aperfeiçoamento, agregando valor no âmbito do currículo do discente, ou seja, as atividades complementares referem-se, portanto, a um conjunto de atividades que objetivam enriquecer a formação acadêmica e pedagógica do discente do curso de Bacharel em Engenharia de Software. 
-
-As atividades complementares têm caráter obrigatório onde o discente deverá comprovar a participação em 235 horas de atividades complementares para integralizar sua matriz curricular, sendo o seu integral cumprimento indispensável para a conclusão do curso. 
-
-O discente poderá participar em atividades complementares de ensino, pesquisa, extensão e inovação gradativamente, a partir do primeiro ano do curso. Contudo, é importante que o discente iniciante escolha atividades compatíveis com seu nível de conhecimento sobre o curso e/ou sua experiência profissional. 
-
-As atividades de pesquisa, extensão e Inovação propiciam a disseminação do conhecimento técnico e científico produzido no meio acadêmico para a comunidade em geral. Consequentemente, esta interação serve de subsídio para realimentar o processo de pesquisa através da identificação das necessidades das comunidades interna e/ou externa. 
-
-Será obrigatória aos discentes do Curso de Bacharelado em Engenharia de Software a participação em atividades de pesquisa e extensão. 
-
-Dentre as linhas de pesquisa sugeridas a serem seguidas pelos docentes e discentes do curso serão principalmente, não de forma exclusiva, as seguintes linhas: 
-
-- Algoritmos e Programação; 
-
-- Automação; 
-
-- Computação Aplicada; 
-
-- Engenharia de Software; 
-
-- Sistemas Computacionais; 
-
-- Processamento de Imagem; 
-
-- Realidade Virtual e Aumentada. 
-
-De acordo com o Inciso VIII do Art. 6 da Lei No 11.892, de 29 de dezembro de 2008, o Instituto Federal do Paraná possui, dentre suas finalidades, a realização e o estímulo à pesquisa aplicada, à produção cultural, ao empreendedorismo, ao cooperativismo e ao desenvolvimento 
-
-122 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-científico e tecnológico, tendo como princípios norteadores: (i) sintonia com o Plano de Desenvolvimento Institucional – PDI; (ii) o desenvolvimento de projetos de pesquisa que reúna, preferencialmente, docentes e discentes de diferentes níveis de formação e em parceria com instituições públicas ou privadas que tenham interface de aplicação com interesse social; (iii) o atendimento às demandas da sociedade, do mundo do trabalho e da produção, com impactos nos arranjos produtivos locais; e (iv) comprometimento com a inovação tecnológica e a transferência de tecnologia para a sociedade. 
-
-No IFPR, esta pesquisa aplicada é desenvolvida através de grupos de trabalho nos quais pesquisadores e discentes se organizam em torno de uma ou mais linhas de investigação. A participação de discentes através de Programas de Iniciação Científica, ocorre de duas formas: (1) com bolsa ou (2) voluntariamente. 
-
-Especificamente o campus Paranavaí vem tratando a pesquisa como uma de suas prioridades, com participação ativa dos servidores nos editais para seleção de bolsistas (PIBIS, PIBID, PIBIC, PIBITI, PIBIC-EM, Bolsas institucionais) do Instituto Federal. A cada ano buscase divulgar as ações de pesquisa entre discentes através de feiras científicas, estimulando a participação dos mesmos em eventos realizados em outras instituições. 
-
-A Extensão é um processo educativo, cultural e científico que, articulado de forma indissociável ao ensino, pesquisa e inovação, enseja a relação transformadora entre o IFPR e a sociedade. Compreende ações culturais, artísticas, desportivas, científicas e tecnológicas que envolvam a comunidades interna e externa. 
-
-As ações de extensão são uma via de mão dupla por meio da qual a sociedade é beneficiada através da aplicação dos conhecimentos dos docentes, discentes e técnicos administrativos e a comunidade acadêmica se retroalimenta, adquirindo novos conhecimentos para a constante avaliação e revigoramento do ensino e da pesquisa. 
-
-Deve-se considerar, portanto, a inclusão social e a promoção do desenvolvimento regional sustentável como tarefas centrais a serem cumpridas, atentando para a diversidade cultural e defesa do meio ambiente, promovendo a interação do saber acadêmico e o popular. São exemplos de atividades de extensão: eventos, palestras, cursos, projetos, encontros, visitas técnicas, entre outros. 
-
-A natureza das ações de extensão busca favorecer o desenvolvimento de atividades que envolvam a Educação das Relações Étnico-Raciais e para o Ensino de História e Cultura Afrobrasileira e Africana, conforme exigência da Resolução CNE/CP nº 01/2004, além da Educação Ambiental, cuja obrigatoriedade está prevista na Lei 9.795/1999. 
-
-No campus Paranavaí, oportuniza-se a participação em extensão a partir das iniciativas organizadas pela Coordenação de Pesquisa e Extensão (visitas e convênios com várias empresas da região, atividades do SINPE - Simpósio de Inovação Pesquisa e Extensão, SEPIN – Seminário de Extensão, Ensino, Pesquisa e Inovação, SETIF – Semana de Tecnologia da Informação, encontros culturais resgatando a cultura local, semana da consciência negra, semana do meio ambiente, entre outras), assim também como nos projetos propostos e orientados pelos docentes e servidores técnico administrativos. 
-
-É responsabilidade do estudante a iniciativa, a realização e o gerenciamento das próprias atividades complementares a serem cumpridas ao longo de sua trajetória acadêmica. O estudante transferido de outra Instituição de ensino deverá apresentar ao professor responsável pelo 
-
-123 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-acompanhamento das atividades complementares os respectivos comprovantes das atividades cumpridas na instituição de origem. 
-
-As atividades complementares a serem desenvolvidas, devem seguir as orientações descritas no Apêndice C, que trata a (IIP) Instrução Interna de Procedimentos da natureza das atividades complementares. 
-
-## **2.11.1 Quadro de atividades complementares** 
-
-**Atividades do Grupo I são as atividades de Ensino** : Serão consideradas atividades de ensino aquelas realizadas no âmbito do próprio curso. Nesta modalidade o aluno curso de Bacharelado em Engenharia de Software deverá cumprir 155 horas. 
+**Atividades do Grupo I são as atividades de Ensino** : Serão consideradas atividades de ensino aquelas realizadas no âmbito do próprio curso. Nesta modalidade o aluno curso de Bacharelado em Engenharia de Software deverá cumprir 155 horas.
 
 ||||
 |---|---|---|
@@ -2950,12 +2363,6 @@ As atividades complementares a serem desenvolvidas, devem seguir as orientaçõe
 |Conferências e Congressos em áreas correlatas ao curso|50|1:1|
 |Debates em áreas correlatas ao curso|40|1:1|
 |Encontros em áreas correlatas ao curso|50|1:1|
-
-
-
-124 
-
-**==> picture [472 x 55] intentionally omitted <==**
 
 ||||
 |---|---|---|
@@ -2976,15 +2383,9 @@ As atividades complementares a serem desenvolvidas, devem seguir as orientaçõe
 |Outras atividades de ensino|||
 ||||
 
+**Atividades do Grupo II são as atividades de Pesquisa, Extensão e Inovação:** Atividades de Pesquisa, Extensão e Inovação são aquelas que se referem à produção do conhecimento, por meio de estudos específicos, visando desenvolver no estudante a vocação, o
 
-
-**Atividades do Grupo II são as atividades de Pesquisa, Extensão e Inovação:** Atividades de Pesquisa, Extensão e Inovação são aquelas que se referem à produção do conhecimento, por meio de estudos específicos, visando desenvolver no estudante a vocação, o 
-
-125 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-interesse e a aptidão para a investigação, com vistas ao avanço científico, cultural, tecnológico e socioeconômico da região e do país. Nesta modalidade o aluno do curso de Bacharelado em Engenharia de Software deverá cumprir 40 horas. 
+interesse e a aptidão para a investigação, com vistas ao avanço científico, cultural, tecnológico e socioeconômico da região e do país. Nesta modalidade o aluno do curso de Bacharelado em Engenharia de Software deverá cumprir 40 horas.
 
 ||||
 |---|---|---|
@@ -3002,12 +2403,6 @@ interesse e a aptidão para a investigação, com vistas ao avanço científico,
 |Participação efetiva na organização de exposições e seminários de<br>caráter acadêmico|40|1:1|
 |Publicações em revistas técnicas|40|1:1|
 
-
-
-126 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 ||||
 |---|---|---|
 |Publicações em anais de eventos técnico-científicos ou em<br>periódicos científicos de abrangência local, regional, nacional ou<br>internacional|40|1:1|
@@ -3017,9 +2412,7 @@ interesse e a aptidão para a investigação, com vistas ao avanço científico,
 |Participação em projetos multidisciplinares ou interdisciplinares|40|1:1|
 |Outras atividades de Pesquisa, Extensão e Inovação|20|1:2|
 
-
-
-**Atividades do Grupo III são as atividades de formação social, humana e cultural** : Atividades de formação social, humana e cultural são atividades de cunho comunitário, interesse coletivo, prática desportiva, artísticas ou cultural que favoreçam ampla formação de caráter pessoal e/ou profissional. Nesta modalidade o aluno do curso de Bacharelado em Engenharia de Software deverá cumprir 40 horas. 
+**Atividades do Grupo III são as atividades de formação social, humana e cultural** : Atividades de formação social, humana e cultural são atividades de cunho comunitário, interesse coletivo, prática desportiva, artísticas ou cultural que favoreçam ampla formação de caráter pessoal e/ou profissional. Nesta modalidade o aluno do curso de Bacharelado em Engenharia de Software deverá cumprir 40 horas.
 
 ||||
 |---|---|---|
@@ -3030,12 +2423,6 @@ interesse e a aptidão para a investigação, com vistas ao avanço científico,
 ||||
 |Participação em atividades esportivas|20|1:1|
 |Participação em cursos de línguas estrangeiras|30|1:1|
-
-
-
-127 
-
-**==> picture [472 x 55] intentionally omitted <==**
 
 ||||
 |---|---|---|
@@ -3049,50 +2436,38 @@ interesse e a aptidão para a investigação, com vistas ao avanço científico,
 |Engajamento como docente não remunerado em cursos<br>preparatórios e de reforço escolar|20|1:1|
 |Participação em projetos de extensão, não remunerados, e de<br>interesse social|20|1:1|
 
-
-
-128 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 ||||
 |---|---|---|
 |Serviço eleitoral obrigatório|20|1:1|
 |Outras atividades de formação social, humana e cultural|20|1:2|
 
+## 2.12 FORMAS DE ACESSO, PERMANÊNCIA
 
+Em consonância com a Organização Didático Pedagógica dos cursos superiores do Instituto Federal do Paraná relatada na Resolução CONSUP/IFPR nº. 55/2011, o acesso ao curso de Bacharelado em Engenharia de Software do Instituto Federal do Paraná – Campus Paranavaí será por meio de processo seletivo, processo seletivo simplificado, ingresso para portadores de diploma de graduação, ingresso de estudantes estrangeiros, por meio de convênio cultural, ingresso de estudantes especiais e/ou transferência.
 
-## 2.12 FORMAS DE ACESSO, PERMANÊNCIA 
+Na existência de vagas remanescentes, poderão ser oferecidas vagas para transferências internas e externas, mediante a publicação de edital específico com os critérios para este processo. Com base no histórico escolar dos estudantes apresentado, juntamente com a solicitação de transferência, uma comissão de docentes e técnicos administrativos será constituída para análise da documentação e determinação de equivalências de componentes curriculares com base na carga horária e na ementa dos componentes já cursadas.
 
-Em consonância com a Organização Didático Pedagógica dos cursos superiores do Instituto Federal do Paraná relatada na Resolução CONSUP/IFPR nº. 55/2011, o acesso ao curso de Bacharelado em Engenharia de Software do Instituto Federal do Paraná – Campus Paranavaí será por meio de processo seletivo, processo seletivo simplificado, ingresso para portadores de diploma de graduação, ingresso de estudantes estrangeiros, por meio de convênio cultural, ingresso de estudantes especiais e/ou transferência. 
+De acordo com a resolução CONSUP nº 55/2011, seção VI, a matrícula de alunos especiais deve respeitar a compatibilidade de horário, bem como a existência da vaga na disciplina pretendida, onde a seleção se dará através de entrevista, realizada por pelo menos um membro do colegiado do curso e pelo professor da disciplina, com registro em ata.
 
-Na existência de vagas remanescentes, poderão ser oferecidas vagas para transferências internas e externas, mediante a publicação de edital específico com os critérios para este processo. Com base no histórico escolar dos estudantes apresentado, juntamente com a solicitação de transferência, uma comissão de docentes e técnicos administrativos será constituída para análise da documentação e determinação de equivalências de componentes curriculares com base na carga horária e na ementa dos componentes já cursadas. 
+Já a permanência dos estudantes será estimulada por meio da Política de Apoio Estudantil do IFPR, regulamentada pela Resolução CONSUP nº 011/2009. O curso de Bacharelado em Engenharia de Software estimulará seus estudantes a realizarem diversas atividades articuladas ao ensino da graduação, tais como monitoria, iniciação científica e atividades de extensão. Além disso, os estudantes participarão de atividades acadêmicocientífico-culturais, como oficinas práticas, atividades de aprimoramento acadêmico, intervenções na comunidade, dentre outras.
 
-De acordo com a resolução CONSUP nº 55/2011, seção VI, a matrícula de alunos especiais deve respeitar a compatibilidade de horário, bem como a existência da vaga na disciplina pretendida, onde a seleção se dará através de entrevista, realizada por pelo menos um membro do colegiado do curso e pelo professor da disciplina, com registro em ata. 
+A Política de Apoio Estudantil do IFPR compreende o conjunto de ações voltadas aos estudantes e que atendam aos princípios de garantia de acesso, permanência e conclusão do curso de acordo com os fundamentos da Educação Integral (formação geral, profissional e tecnológica), em estreita articulação com os setores produtivos locais, econômicos e sociais da região e é posta em prática, por meio da oferta periódica de vários Programas de Bolsas de Estudos, sendo regulamentada por várias resoluções do Conselho Superior do IFPR conforme detalhado na sequência.
 
-Já a permanência dos estudantes será estimulada por meio da Política de Apoio Estudantil do IFPR, regulamentada pela Resolução CONSUP nº 011/2009. O curso de Bacharelado em Engenharia de Software estimulará seus estudantes a realizarem diversas atividades articuladas ao ensino da graduação, tais como monitoria, iniciação científica e atividades de extensão. Além disso, os estudantes participarão de atividades acadêmicocientífico-culturais, como oficinas práticas, atividades de aprimoramento acadêmico, intervenções na comunidade, dentre outras. 
+Essa Política tem como premissa, a respeitabilidade à diversidade social, étnica, racial e inclusiva na perspectiva de uma sociedade democrática e cidadã, pautando-se nos seguintes princípios:
 
-A Política de Apoio Estudantil do IFPR compreende o conjunto de ações voltadas aos estudantes e que atendam aos princípios de garantia de acesso, permanência e conclusão do curso de acordo com os fundamentos da Educação Integral (formação geral, profissional e tecnológica), em estreita articulação com os setores produtivos locais, econômicos e sociais da região e é posta em prática, por meio da oferta periódica de vários Programas de Bolsas de Estudos, sendo regulamentada por várias resoluções do Conselho Superior do IFPR conforme detalhado na sequência. 
+- I. Educação profissional e tecnológica pública e gratuita de qualidade;
 
-Essa Política tem como premissa, a respeitabilidade à diversidade social, étnica, racial e inclusiva na perspectiva de uma sociedade democrática e cidadã, pautando-se nos seguintes princípios: 
+- II. Igualdade de oportunidade no acesso, permanência e conclusão de curso;
 
-129 
+- III. Garantia de qualidade de formação tecnológica e humanística voltada ao fortalecimento das políticas de inclusão social;
 
-**==> picture [472 x 55] intentionally omitted <==**
+- IV. Defesa do pluralismo de ideias com reconhecimento a liberdade de expressão;
 
-- I. Educação profissional e tecnológica pública e gratuita de qualidade; 
+- V. Eliminação de qualquer forma de preconceito ou discriminação.
 
-- II. Igualdade de oportunidade no acesso, permanência e conclusão de curso; 
+## **2.12.1 Bolsas de Pesquisa, Extensão, Inovação, Inclusão Social, Monitoria e Bolsa-Atleta**
 
-- III. Garantia de qualidade de formação tecnológica e humanística voltada ao fortalecimento das políticas de inclusão social; 
-
-- IV. Defesa do pluralismo de ideias com reconhecimento a liberdade de expressão; 
-
-- V. Eliminação de qualquer forma de preconceito ou discriminação. 
-
-## **2.12.1 Bolsas de Pesquisa, Extensão, Inovação, Inclusão Social, Monitoria e Bolsa-Atleta** 
-
-As bolsas ofertadas pelo IFPR são geridas pelos programas ofertados pela Pró-Reitoria de Ensino (PROENS) e pela Pró-Reitoria de Extensão, Pesquisa e Inovação (PROEPI), o quadro a seguir resume seus objetivos e atos administrativos: 
+As bolsas ofertadas pelo IFPR são geridas pelos programas ofertados pela Pró-Reitoria de Ensino (PROENS) e pela Pró-Reitoria de Extensão, Pesquisa e Inovação (PROEPI), o quadro a seguir resume seus objetivos e atos administrativos:
 
 |||||
 |---|---|---|---|
@@ -3101,23 +2476,11 @@ As bolsas ofertadas pelo IFPR são geridas pelos programas ofertados pela Pró-R
 |**PROEPP**<br>**I**|Programa<br>Institucional de<br>Bolsas de<br>Iniciação em<br>Desenvolvimento<br>Tecnológico e<br>Inovação (PIBITI)|Resolução nº<br>11/2011<br>CONSUP/IFPR<br>25/04/2015|Estimular os estudantes dos cursos de<br>graduação nas atividades, metodologias,<br>conhecimentos<br>e<br>práticas<br>próprias<br>ao<br>desenvolvimento tecnológico e processos de<br>inovação.|
 ||Programa<br>Institucional de<br>Iniciação<br>Científica (PIIC)|Resolução nº<br>11/2011<br>CONSUP/IFPR<br>25/04/2015|Despertar vocação científica e incentivar<br>novos talentos potenciais;<br>Propiciar à Instituição um instrumento de<br>formulação de política de iniciação à<br>pesquisa;<br>Contribuir para a formação de recursos<br>humanos para a pesquisa;<br>Proporcionar a aprendizagem de técnicas e<br>métodos de pesquisa, bem como estimular o<br>desenvolvimento do pensar cientificamente e<br>da criatividade, além de contribuir para a<br>formação científica de recursos humanos que<br>se<br>dedicarão<br>a<br>qualquer<br>atividade<br>profissional.|
 
-
-
-130 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |||||
 |---|---|---|---|
 ||Programa de<br>Bolsas de<br>Extensão<br>(PIBEX)|Resolução nº<br>11/2011<br>CONSUP/IFPR<br>25/04/2015|Desenvolvimento de atividades de extensão<br>com vistas à produção e divulgação do<br>conhecimento a partir da realidade local;<br>Contribuir com a formação do estudante em<br>seus aspectos técnico tecnológico e humano;<br>promover a participação de servidores e<br>estudantes em atividades de integração com<br>a sociedade;<br>Incentivar a interação entre o conhecimento<br>acadêmico e o popular contribuindo com<br>políticas públicas, assim como colaborar<br>com a articulação entre ensino, pesquisa e<br>extensão.|
 ||Programa<br>Institucional de<br>Bolsas de<br>Iniciação<br>Científica (PIBIC)|Resolução nº<br>11/2011<br>CONSUP/IFPR<br>25/04/2015|Ampliar a<br>participação<br>em<br>atividades<br>acadêmicas de iniciação científica;<br>Despertar vocação científica;<br>Contribuir<br>para<br>formação<br>de<br>recursos<br>humanos para a pesquisa;<br>Contribuir para a formação de pesquisadores<br>qualificados;<br>Proporcionar ao bolsista a aprendizagem de<br>métodos e técnicas de pesquisa, bem como<br>estimular o pensamento científico e a<br>criatividade, resultantes da investigação<br>científica.|
 ||Programa de<br>Bolsas de<br>Incentivo ao<br>Empreendedorism<br>o Inovador<br>(PIBIN)|Resolução nº<br>11/2011<br>CONSUP/IFPR<br>25/04/2015|Estimular o desenvolvimento de projetos<br>voltados ao Empreendedorismo Inovador por<br>meio do melhoramento de produtos e<br>processos voltados ao desenvolvimento de<br>Tecnologias<br>Educacionais,<br>Tecnologias<br>Assistivas, Tecnologias de Sustentabilidade,<br>Automação e ao atendimento dos Arranjos<br>Produtivos e Culturais Locais.|
-
-
-
-131 
-
-**==> picture [472 x 55] intentionally omitted <==**
 
 |**PROENS**|**PROENS**||||
 |---|---|---|---|---|
@@ -3127,183 +2490,157 @@ As bolsas ofertadas pelo IFPR são geridas pelos programas ofertados pela Pró-R
 |||Programa<br>de<br>Bolsas de Inclusão<br>Social (PBIS)|Resolução nº 64/10<br>CONSUP/IFPR<br>28/07/2010|Em<br>situação<br>de<br>vulnerabilidade<br>socioeconômica, para concessão de bolsas<br>(auxílios financeiros) para desenvolvimento<br>de atividades acadêmicas|
 |||Programa<br>de<br>Auxílio<br>Complementar ao<br>Estudante|IIP n° 20<br>PROENS/IFPR<br>27/02/2012|Apoio aos estudantes em situação de<br>vulnerabilidade<br>socioeconômica,<br>propiciando recurso financeiro mensal, por<br>meio da oferta de auxílio-moradia, auxílio-<br>alimentação<br>e<br>auxílio-transporte,<br>contribuindo para sua permanência, melhoria<br>do desempenho acadêmico e conclusão do<br>curso.|
 
+## **2.12.2 Aproveitamento de Estudos Anteriores**
 
+A Resolução CONSUP/IFPR nº. 55/2011 dispõe sobre a organização didático-pedagógica dos cursos superiores do IFPR. Normatiza o aproveitamento de estudos anteriores, que compreende o processo de aproveitamento de componentes curriculares ou etapas (séries, módulos, blocos) cursadas com êxito em outro curso, ou seja, o aproveitamento e certificação de estudos anteriores como resultado do reconhecimento da equivalência de um ou mais componentes curriculares,
 
-## **2.12.2 Aproveitamento de Estudos Anteriores** 
+componente curricular de curso de graduação autorizado e/ou reconhecido cursado no IFPR ou de outra instituição.
 
-A Resolução CONSUP/IFPR nº. 55/2011 dispõe sobre a organização didático-pedagógica dos cursos superiores do IFPR. Normatiza o aproveitamento de estudos anteriores, que compreende o processo de aproveitamento de componentes curriculares ou etapas (séries, módulos, blocos) cursadas com êxito em outro curso, ou seja, o aproveitamento e certificação de estudos anteriores como resultado do reconhecimento da equivalência de um ou mais componentes curriculares, 
+A equivalência de estudos, para fins de aproveitamento do componente curricular cursado, somente será concedida:
 
-132 
+I. Quando corresponder a no mínimo 75% (setenta e cinco por cento) da carga horária e do conteúdo programático da unidade de estudo do componente curricular de curso do IFPR;
 
-**==> picture [472 x 55] intentionally omitted <==**
+II. Além da correspondência entre os componentes curriculares, o processo de aproveitamento de estudos poderá envolver avaliação teórica e/ou prática acerca do conhecimento a ser aproveitado, conforme Artigo 83, da Resolução CONSUP/IFPR nº. 55/11.
 
-componente curricular de curso de graduação autorizado e/ou reconhecido cursado no IFPR ou de outra instituição. 
+O aproveitamento de estudos é da competência do Coordenador de Curso, sendo que o mesmo poderá solicitar parecer do docente responsável pelo componente curricular correspondente, quando necessitar de opinião especializada.
 
-A equivalência de estudos, para fins de aproveitamento do componente curricular cursado, somente será concedida: 
+No pedido de aproveitamento de estudos, o estudante deverá anexar seu histórico escolar e os planos de ensino dos componentes curriculares cursados a aproveitar. No processo de aproveitamento de estudos será utilizado formulário próprio, conforme modelo disponível na Secretaria Acadêmica do Campus.
 
-I. Quando corresponder a no mínimo 75% (setenta e cinco por cento) da carga horária e do conteúdo programático da unidade de estudo do componente curricular de curso do IFPR; 
+Os componentes curriculares com aproveitamento de estudos serão cadastrados, pela Secretaria Acadêmica do campus, no sistema de controle acadêmico serão indicados a frequência e o desempenho atingidos pelo estudante no componente curricular realizado em outra instituição de ensino e aproveitado para o currículo do curso do IFPR, conforme parágrafo único do Artigo 85, da Resolução CONSUP/IFPR nº 55/2011.
 
-II. Além da correspondência entre os componentes curriculares, o processo de aproveitamento de estudos poderá envolver avaliação teórica e/ou prática acerca do conhecimento a ser aproveitado, conforme Artigo 83, da Resolução CONSUP/IFPR nº. 55/11. 
+O estudante, no caso de ingresso como portador de diploma, deverá apresentar, também, o diploma do título obtido em nível superior, em curso reconhecido pelo Ministério da Educação. Para as solicitações de aproveitamento de estudos o coordenador de curso deverá encaminhar à secretaria uma relação com as equivalências dos componentes curriculares dispensados para atualização no sistema de gestão acadêmica.
 
-O aproveitamento de estudos é da competência do Coordenador de Curso, sendo que o mesmo poderá solicitar parecer do docente responsável pelo componente curricular correspondente, quando necessitar de opinião especializada. 
+Os componentes curriculares com aproveitamento de estudos serão cadastrados, pela Secretaria Acadêmica do Campus, no sistema de controle acadêmico. Serão indicados a frequência e o desempenho atingidos pelo estudante no componente curricular realizado em outra instituição de ensino e aproveitado para o currículo do curso do IFPR. É importante ressaltar que é vedado o aproveitamento de estudos entre níveis de ensino diferentes, conforme critério estabelecido pela Resolução nº 55/11.
 
-No pedido de aproveitamento de estudos, o estudante deverá anexar seu histórico escolar e os planos de ensino dos componentes curriculares cursados a aproveitar. No processo de aproveitamento de estudos será utilizado formulário próprio, conforme modelo disponível na Secretaria Acadêmica do Campus. 
+De acordo com a LDB nº. 9394/96 e a Resolução CNE/CEB nº 06/12, o conhecimento adquirido na educação profissional e tecnológica, inclusive no trabalho, poderá ser objeto de avaliação, reconhecimento e certificação para prosseguimento ou conclusão de estudos, conforme Art. 87, da Resolução CONSUP/IFPR nº 55/11. Os parágrafos do artigo 88, desta mesma resolução, normatizam o formato da comprovação do excepcional domínio de conhecimento através da aprovação em avaliação.
 
-Os componentes curriculares com aproveitamento de estudos serão cadastrados, pela Secretaria Acadêmica do campus, no sistema de controle acadêmico serão indicados a frequência e o desempenho atingidos pelo estudante no componente curricular realizado em outra instituição de ensino e aproveitado para o currículo do curso do IFPR, conforme parágrafo único do Artigo 85, da Resolução CONSUP/IFPR nº 55/2011. 
+## **2.12.3 Certificação de Conhecimentos Anteriores**
 
-O estudante, no caso de ingresso como portador de diploma, deverá apresentar, também, o diploma do título obtido em nível superior, em curso reconhecido pelo Ministério da Educação. Para as solicitações de aproveitamento de estudos o coordenador de curso deverá encaminhar à secretaria uma relação com as equivalências dos componentes curriculares dispensados para atualização no sistema de gestão acadêmica. 
+De acordo com a Resolução CONSUP/IFPR nº 55/2011, entende-se por Certificação de Conhecimentos Anteriores a dispensa de frequência em componente curricular do curso do IFPR em que o estudante comprove excepcional domínio de conhecimento através da aprovação em avaliação. A avaliação será realizada sob responsabilidade de comissão composta por professores da área de conhecimento correspondente, designada pela Direção de Ensino, Pesquisa e Extensão do Campus, a qual estabelecerá os procedimentos e os critérios para a avaliação, de acordo com a natureza do conhecimento a ser certificado.
 
-Os componentes curriculares com aproveitamento de estudos serão cadastrados, pela Secretaria Acadêmica do Campus, no sistema de controle acadêmico. Serão indicados a frequência e o desempenho atingidos pelo estudante no componente curricular realizado em outra instituição de ensino e aproveitado para o currículo do curso do IFPR. É importante ressaltar que é vedado o aproveitamento de estudos entre níveis de ensino diferentes, conforme critério estabelecido pela Resolução nº 55/11. 
+A avaliação para certificação de conhecimentos anteriores poderá ocorrer por solicitação fundamentada do estudante, que justifique a excepcionalidade, ou por iniciativa de professores do curso.
 
-De acordo com a LDB nº. 9394/96 e a Resolução CNE/CEB nº 06/12, o conhecimento adquirido na educação profissional e tecnológica, inclusive no trabalho, poderá ser objeto de avaliação, reconhecimento e certificação para prosseguimento ou conclusão de estudos, conforme Art. 87, da Resolução CONSUP/IFPR nº 55/11. Os parágrafos do artigo 88, desta mesma resolução, normatizam o formato da comprovação do excepcional domínio de conhecimento através da aprovação em avaliação. 
+Não se aplica a certificação de conhecimentos anteriores para o componente curricular de Trabalho de Conclusão de Curso (TCC) ou Monografia, bem como para o estágio.
 
-133 
+## **2.12.4 Expedição de Diplomas e Certificados**
 
-**==> picture [472 x 55] intentionally omitted <==**
+Conforme Resolução CONSUP/IFPR nº 55/2011, capítulo XIV, Artigo 114, o estudante que frequentar todos os módulos/unidades curriculares previstos no curso, tendo obtido aproveitamento em todos eles, frequência mínima de setenta e cinco por cento (75%) das horasaula e aprovação na unidade curricular de trabalho de conclusão de curso (TCC), quando o curso exigir, antes do prazo para jubilamento -- que é regulamentado pela resolução nº 14/14, para receber o diploma o estudante deve estar regular no ENADE que é componente obrigatório.
 
-## **2.12.3 Certificação de Conhecimentos Anteriores** 
+Os estudantes não inscritos no ENADE, ou ausentes sem dispensa oficial do MEC, não concluem curso, não podem receber certificado de conclusão de curso, colar grau e nem receber diploma, conforme Art. 5º, parágrafo 5º, da Lei nº 10.861/2004. O diploma de concluinte do curso, será obtido junto à Secretaria Acadêmica do Campus, após ter realizado a colação de grau na data agendada pela Instituição.
 
-De acordo com a Resolução CONSUP/IFPR nº 55/2011, entende-se por Certificação de Conhecimentos Anteriores a dispensa de frequência em componente curricular do curso do IFPR em que o estudante comprove excepcional domínio de conhecimento através da aprovação em avaliação. A avaliação será realizada sob responsabilidade de comissão composta por professores da área de conhecimento correspondente, designada pela Direção de Ensino, Pesquisa e Extensão do Campus, a qual estabelecerá os procedimentos e os critérios para a avaliação, de acordo com a natureza do conhecimento a ser certificado. 
+Concluído o curso, o acadêmico terá outorgado o grau pelo Magnífico Reitor ou seu representante, podendo, a partir de então, exercer a profissão. A comprovação de titularidade se dará por meio de diploma, expedido após a cerimônia de colação de grau, mediante o preenchimento de todos os requisitos acadêmicos previstos para esse fim. Os trâmites legais para a expedição de diplomas e certificados ficam a encargo da Secretaria Acadêmica que atuará com base nos preceitos de seu regulamento.
 
-A avaliação para certificação de conhecimentos anteriores poderá ocorrer por solicitação fundamentada do estudante, que justifique a excepcionalidade, ou por iniciativa de professores do curso. 
+Os diplomas relativos a cursos de graduação conferirão os títulos especificados em cada currículo. O diploma conterá, no anverso, o título geral correspondente ao curso, especificando-se no verso, as habilitações. As novas habilitações, adicionais ao título já concedido, serão igualmente consignadas no verso, dispensando-se a expedição de novo diploma.
 
-Não se aplica a certificação de conhecimentos anteriores para o componente curricular de Trabalho de Conclusão de Curso (TCC) ou Monografia, bem como para o estágio. 
+O ato coletivo de colação de grau dos concluintes de curso de graduação será realizado em sessão solene, em dia, hora e local, previamente, designados pelo Reitor. Os acadêmicos concluintes que não colarem grau na cerimônia de formatura, poderão fazê-lo, em dia e hora designados pelo Reitor, na presença de, pelo menos, dois professores, em sessão solene realizada em gabinete.
 
-## **2.12.4 Expedição de Diplomas e Certificados** 
+## **2.12.5 Acessibilidade**
 
-Conforme Resolução CONSUP/IFPR nº 55/2011, capítulo XIV, Artigo 114, o estudante que frequentar todos os módulos/unidades curriculares previstos no curso, tendo obtido aproveitamento em todos eles, frequência mínima de setenta e cinco por cento (75%) das horasaula e aprovação na unidade curricular de trabalho de conclusão de curso (TCC), quando o curso exigir, antes do prazo para jubilamento -- que é regulamentado pela resolução nº 14/14, para receber o diploma o estudante deve estar regular no ENADE que é componente obrigatório. 
+A Constituição Federal, em seus artigos 205, 206 e 208, pactua a educação como direito de todos. O Instituto Federal do Paraná Campus Paranavaí mostrando-se constantemente preocupado com a inclusão de pessoas com deficiência, seja permanente ou temporária, promove por meio de seus recursos humanos e físicos as ajudas técnicas necessárias para o melhor acolhimento e atendimento durante o período escolar.
 
-Os estudantes não inscritos no ENADE, ou ausentes sem dispensa oficial do MEC, não concluem curso, não podem receber certificado de conclusão de curso, colar grau e nem receber diploma, conforme Art. 5º, parágrafo 5º, da Lei nº 10.861/2004. O diploma de concluinte do curso, será obtido junto à Secretaria Acadêmica do Campus, após ter realizado a colação de grau na data agendada pela Instituição. 
+A instituição busca promover a inclusão mostrando-se constantemente preocupada em cumprir com o Decreto no. 5.296, de 02/12/2004, que regulamenta as Leis nº 10.048, de 8/11/2000, a Lei nº 10.098, de 19/12/2000, dando respectivamente prioridade de atendimento às pessoas com deficiência ou com mobilidade reduzida; e estabelecendo normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, conforme segue:
 
-Concluído o curso, o acadêmico terá outorgado o grau pelo Magnífico Reitor ou seu representante, podendo, a partir de então, exercer a profissão. A comprovação de titularidade se dará por meio de diploma, expedido após a cerimônia de colação de grau, mediante o preenchimento de todos os requisitos acadêmicos previstos para esse fim. Os trâmites legais para a expedição de diplomas e certificados ficam a encargo da Secretaria Acadêmica que atuará com base nos preceitos de seu regulamento. 
+I - assentos de uso preferencial sinalizados, espaços e instalações acessíveis; II - mobiliário de recepção e atendimento obrigatoriamente adaptado à altura e a condição física de pessoas em cadeira de rodas, conforme estabelecido na norma técnica de acessibilidade NBR 9050/2004 da ABNT;
 
-Os diplomas relativos a cursos de graduação conferirão os títulos especificados em cada currículo. O diploma conterá, no anverso, o título geral correspondente ao curso, especificando-se no verso, as habilitações. As novas habilitações, adicionais ao título já concedido, serão igualmente consignadas no verso, dispensando-se a expedição de novo diploma. 
+III - serviços de atendimento para pessoas com deficiência auditiva, prestado por intérpretes ou pessoas capacitadas em Língua Brasileira de Sinais - LIBRAS e no trato com aquelas que não se comuniquem em LIBRAS, e para pessoas surdocegas, prestado por guias-intérpretes ou pessoas capacitadas neste tipo de atendimento;
 
-O ato coletivo de colação de grau dos concluintes de curso de graduação será realizado em sessão solene, em dia, hora e local, previamente, designados pelo Reitor. Os acadêmicos concluintes que não colarem grau na cerimônia de formatura, poderão fazê-lo, em dia e hora designados pelo Reitor, na presença de, pelo menos, dois professores, em sessão solene realizada em gabinete. 
+IV - pessoal capacitado para prestar atendimento às pessoas com deficiência visual, mental e múltipla, bem como às pessoas idosas;
 
-134 
+V - disponibilidade de área especial para embarque e desembarque de pessoa portadora de deficiência ou com mobilidade reduzida;
 
-**==> picture [472 x 55] intentionally omitted <==**
+VI - sinalização ambiental;
 
-## **2.12.5 Acessibilidade** 
+VII - divulgação, em lugar visível, do direito de atendimento prioritário das pessoas portadoras de deficiência ou com mobilidade reduzida.
 
-A Constituição Federal, em seus artigos 205, 206 e 208, pactua a educação como direito de todos. O Instituto Federal do Paraná Campus Paranavaí mostrando-se constantemente preocupado com a inclusão de pessoas com deficiência, seja permanente ou temporária, promove por meio de seus recursos humanos e físicos as ajudas técnicas necessárias para o melhor acolhimento e atendimento durante o período escolar. 
+VIII - admissão de entrada e permanência de cão-guia ou cão-guia de acompanhamento junto de pessoa portadora de deficiência ou de treinador, mediante apresentação da carteira de vacina atualizada do animal;
 
-A instituição busca promover a inclusão mostrando-se constantemente preocupada em cumprir com o Decreto no. 5.296, de 02/12/2004, que regulamenta as Leis nº 10.048, de 8/11/2000, a Lei nº 10.098, de 19/12/2000, dando respectivamente prioridade de atendimento às pessoas com deficiência ou com mobilidade reduzida; e estabelecendo normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, conforme segue: 
+IX - existência de local de atendimento específico;
 
-I - assentos de uso preferencial sinalizados, espaços e instalações acessíveis; II - mobiliário de recepção e atendimento obrigatoriamente adaptado à altura e a condição física de pessoas em cadeira de rodas, conforme estabelecido na norma técnica de acessibilidade NBR 9050/2004 da ABNT; 
+X - instalações sanitárias adequadas;
 
-III - serviços de atendimento para pessoas com deficiência auditiva, prestado por intérpretes ou pessoas capacitadas em Língua Brasileira de Sinais - LIBRAS e no trato com aquelas que não se comuniquem em LIBRAS, e para pessoas surdocegas, prestado por guias-intérpretes ou pessoas capacitadas neste tipo de atendimento; 
+XI - Ambientes comuns de livre circulação com eliminação de barreiras arquitetônicas;
 
-IV - pessoal capacitado para prestar atendimento às pessoas com deficiência visual, mental e múltipla, bem como às pessoas idosas; 
+XII - Vagas reservadas no estacionamento;
 
-V - disponibilidade de área especial para embarque e desembarque de pessoa portadora de deficiência ou com mobilidade reduzida; 
+XIII - Rampas de acesso e com corrimão, facilitando a circulação de cadeira de rodas;
 
-VI - sinalização ambiental; 
+XIV - Portas adaptadas para permitir o acesso de cadeiras de rodas;
 
-VII - divulgação, em lugar visível, do direito de atendimento prioritário das pessoas portadoras de deficiência ou com mobilidade reduzida. 
+XV - Bebedouros com níveis de altura acessíveis aos usuários de cadeira de rodas; XVI - Oferta/atendimento aos docentes, técnicos e demais alunos de material de leitura e informações sobre a especificidade do aluno surdo.
 
-VIII - admissão de entrada e permanência de cão-guia ou cão-guia de acompanhamento junto de pessoa portadora de deficiência ou de treinador, mediante apresentação da carteira de vacina atualizada do animal; 
+## **2.12.6 Mobilidade Acadêmica**
 
-IX - existência de local de atendimento específico; 
+O IFPR, por meio de sua Coordenadoria de Relações Internacionais, busca promover a internacionalização ampla do IFPR, através da formulação de políticas, da interlocução com parceiros nacionais e internacionais e do apoio às ações, projetos e programas de internacionalização dos campi e outros setores. A internacionalização refere-se a todos esforços da instituição para incorporar perspectivas globais no ensino, pesquisa e extensão; para construir competências internacionais e interculturais entre alunos, professores e técnicos; para estabelecer parcerias com comunidades e instituições no exterior.
 
-X - instalações sanitárias adequadas; 
+A mobilidade acadêmica no IFPR é regulamentada pela IIP Nº 02/2014. Esse documento cria e regulamenta as normas e procedimentos para a Mobilidade Escolar e Acadêmica, nacional e internacional, de estudantes do IFPR
 
-XI - Ambientes comuns de livre circulação com eliminação de barreiras arquitetônicas; 
+## **3. CORPO DOCENTE E CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO**
 
-XII - Vagas reservadas no estacionamento; 
+## 3.1 CORPO DOCENTE
 
-XIII - Rampas de acesso e com corrimão, facilitando a circulação de cadeira de rodas; 
+## **3.1.1 Atribuições do Coordenador**
 
-XIV - Portas adaptadas para permitir o acesso de cadeiras de rodas; 
+O Coordenador do Curso é mais que um mediador entre alunos e professores. O coordenador deve reconhecer as necessidades da área em que atua e tomar decisões que possam beneficiar a comunidade acadêmica. Atendendo as exigências do Sistema Nacional de Avaliação da Educação Superior (SINAES) para o reconhecimento e a manutenção de cursos superiores, o coordenador de curso gerencia e executa o PPC, acompanha o trabalho dos docentes, é membro do NDE, e está comprometido com a missão, a crença e os valores do Instituto Federal do Paraná, campus Paranavaí. Está atento às mudanças impostas pelo mercado de trabalho a fim de sugerir adequação e modernização do PPC do curso. O Coordenador atua como gestor de equipes e processos, pensando e agindo estrategicamente, colaborando com o desenvolvimento dos alunos e o crescimento da Instituição.
 
-XV - Bebedouros com níveis de altura acessíveis aos usuários de cadeira de rodas; XVI - Oferta/atendimento aos docentes, técnicos e demais alunos de material de leitura e informações sobre a especificidade do aluno surdo. 
+O Coordenador do Curso possui carga horária disponível para atendimento aos alunos, docentes e realização de reuniões com o Colegiado de Curso e o NDE. Encaminha alunos e professores, quando necessário, para o atendimento psicopedagógico. Monitora as atividades acadêmicas para que tenham o sucesso esperado. Organiza atividades de nivelamento para os alunos com dificuldades de aprendizagem e mantém-se atualizada com relação à legislação educacional e a referente ao exercício profissional. Dialoga com direção do Instituto Federal do Paraná para informá-la sobre as necessidades do curso, solicitando medidas saneadoras quando necessário.
 
-135 
+O coordenador de curso possui atribuições, as quais se enquadram nas competências políticas, gerenciais, administrativas e/ou institucionais, e colaboraram para o bom andamento das atividades do Curso como um todo, dentre essas atribuições podemos citar:
 
-**==> picture [472 x 55] intentionally omitted <==**
+- Integrar o planejamento e a ação didático-pedagógico dos cursos sob sua coordenação;
 
-## **2.12.6 Mobilidade Acadêmica** 
+- Executar as deliberações do Conselho Superior;
 
-O IFPR, por meio de sua Coordenadoria de Relações Internacionais, busca promover a internacionalização ampla do IFPR, através da formulação de políticas, da interlocução com parceiros nacionais e internacionais e do apoio às ações, projetos e programas de internacionalização dos campi e outros setores. A internacionalização refere-se a todos esforços da instituição para incorporar perspectivas globais no ensino, pesquisa e extensão; para construir competências internacionais e interculturais entre alunos, professores e técnicos; para estabelecer parcerias com comunidades e instituições no exterior. 
+- Cumprir as determinações dos órgãos diretivos;
 
-A mobilidade acadêmica no IFPR é regulamentada pela IIP Nº 02/2014. Esse documento cria e regulamenta as normas e procedimentos para a Mobilidade Escolar e Acadêmica, nacional e internacional, de estudantes do IFPR 
+- Presidir as reuniões do Colegiado do Curso;
 
-## **3. CORPO DOCENTE E CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO** 
+- Organizar e registrar as reuniões do Colegiado de Curso sob sua coordenação para os assuntos que sejam de interesse dos cursos;
 
-## 3.1 CORPO DOCENTE 
+- Assessorar à coordenação de ensino na fixação dos horários das aulas das áreas de conhecimento ofertadas;
 
-## **3.1.1 Atribuições do Coordenador** 
+- Presidir a sessão de avaliação dos pedidos de dispensa e opinar na transferência, verificando a equivalência dos estudos feitos, tomando as providências cabíveis;
 
-O Coordenador do Curso é mais que um mediador entre alunos e professores. O coordenador deve reconhecer as necessidades da área em que atua e tomar decisões que possam beneficiar a comunidade acadêmica. Atendendo as exigências do Sistema Nacional de Avaliação da Educação Superior (SINAES) para o reconhecimento e a manutenção de cursos superiores, o coordenador de curso gerencia e executa o PPC, acompanha o trabalho dos docentes, é membro do NDE, e está comprometido com a missão, a crença e os valores do Instituto Federal do Paraná, campus Paranavaí. Está atento às mudanças impostas pelo mercado de trabalho a fim de sugerir adequação e modernização do PPC do curso. O Coordenador atua como gestor de equipes e processos, pensando e agindo estrategicamente, colaborando com o desenvolvimento dos alunos e o crescimento da Instituição. 
+- Fornecer à Coordenação de Ensino, conforme calendário, e após a reunião do Colegiado do curso, os resultados do período avaliativo, bem como os diários de classe, devidamente preenchidos;
 
-O Coordenador do Curso possui carga horária disponível para atendimento aos alunos, docentes e realização de reuniões com o Colegiado de Curso e o NDE. Encaminha alunos e professores, quando necessário, para o atendimento psicopedagógico. Monitora as atividades acadêmicas para que tenham o sucesso esperado. Organiza atividades de nivelamento para os alunos com dificuldades de aprendizagem e mantém-se atualizada com relação à legislação educacional e a referente ao exercício profissional. Dialoga com direção do Instituto Federal do Paraná para informá-la sobre as necessidades do curso, solicitando medidas saneadoras quando necessário. 
+- Supervisionar o cumprimento da carga horária do curso coordenado, estipulada na matriz curricular, bem como tomar as devidas providências nos casos em que haja necessária substituição de professores, em caso de faltas justificadas ou atividades extracurriculares;
 
-O coordenador de curso possui atribuições, as quais se enquadram nas competências políticas, gerenciais, administrativas e/ou institucionais, e colaboraram para o bom andamento das atividades do Curso como um todo, dentre essas atribuições podemos citar: 
+- Orientar o corpo discente e docente do curso sob sua coordenação sobre currículo, frequência, avaliação e demais atividades de ensino que lhes possam interessar;
 
-136 
+- Planejar em conjunto com a Coordenação de Ensino as atividades de Orientação Educacional;
 
-**==> picture [472 x 55] intentionally omitted <==**
+- Conhecer o material didático elaborado pelo corpo docente para os cursos sob sua coordenação;
 
-- Integrar o planejamento e a ação didático-pedagógico dos cursos sob sua coordenação; 
+- Supervisionar o preenchimento do registro de classe e solicitar correções caso sejam necessárias, assinando-os;
 
-- Executar as deliberações do Conselho Superior; 
+- Zelar pelos laboratórios, materiais e equipamentos da sua coordenação de eixos específica;
 
-- Cumprir as determinações dos órgãos diretivos; 
+- Articular a integração entre as áreas de base nacional comum e de formação específica;
 
-- Presidir as reuniões do Colegiado do Curso; 
+- Adotar os princípios pedagógicos de Identidade, Diversidade e Autonomia, da interdisciplinaridade e da Contextualização como estruturadores dos currículos do ensino superior, médio profissionalizante;
 
-- Organizar e registrar as reuniões do Colegiado de Curso sob sua coordenação para os assuntos que sejam de interesse dos cursos; 
+- Garantir que as grades curriculares cumpram as determinações da Lei de Diretrizes e Bases da Educação Nacional e demais dispositivos legais;
 
-- Assessorar à coordenação de ensino na fixação dos horários das aulas das áreas de conhecimento ofertadas; 
+- Elaborar, com auxílio dos professores, termos de referências, especificações, planilhas e memoriais, para suprimento de materiais, obras, serviços e equipamentos às necessidades dos cursos.
 
-- Presidir a sessão de avaliação dos pedidos de dispensa e opinar na transferência, verificando a equivalência dos estudos feitos, tomando as providências cabíveis; 
+## **3.1.2 Experiência do Coordenador**
 
-- Fornecer à Coordenação de Ensino, conforme calendário, e após a reunião do Colegiado do curso, os resultados do período avaliativo, bem como os diários de classe, devidamente preenchidos; 
+A Coordenação do curso de Bacharelado em Engenharia de Software está sob a responsabilidade do Prof. Frank Willian Cardoso de Oliveira, graduado em Sistemas de Informação pela Unipar. Possui especialização em Desenvolvimento de Sistema para Web, pela Universidade Estadual de Maringá e Mestrado Profissional em Desenvolvimento de Tecnologia pelo Institutos Lactec, na área de Geração e Transferência de Tecnologia.
 
-- Supervisionar o cumprimento da carga horária do curso coordenado, estipulada na matriz curricular, bem como tomar as devidas providências nos casos em que haja necessária substituição de professores, em caso de faltas justificadas ou atividades extracurriculares; 
+- Tempo de Experiência Profissional 4 anos
 
-- Orientar o corpo discente e docente do curso sob sua coordenação sobre currículo, frequência, avaliação e demais atividades de ensino que lhes possam interessar; 
+- Tempo de Experiência no Magistério Superior 5 anos
 
-- Planejar em conjunto com a Coordenação de Ensino as atividades de Orientação Educacional; 
+- Tempo de Experiência de Gestão Acadêmica 1 ano
 
-- Conhecer o material didático elaborado pelo corpo docente para os cursos sob sua coordenação; 
+- Membro do Colegiado de Gestão Pedagógica do IFPR campus Paranavaí.
 
-- Supervisionar o preenchimento do registro de classe e solicitar correções caso sejam necessárias, assinando-os; 
+A Coordenação do Curso possui uma formação que lhe permite ter domínio do desenvolvimento do Projeto Pedagógico do Curso, sendo o regime de trabalho do Coordenador dedicação exclusiva (DE) com 40 horas de atividades semanais, onde são reservadas 20 horas para a coordenação, administração e condução do Curso.
 
-- Zelar pelos laboratórios, materiais e equipamentos da sua coordenação de eixos específica; 
+## **3.1.3 Núcleo Docente Estruturante (NDE)**
 
-- Articular a integração entre as áreas de base nacional comum e de formação específica; 
+A composição do núcleo docente estruturante (NDE) atende aos dispositivos das Resoluções CONAES nº 01/2010, CONSUP nº 08/2011 e CONSUP n° 15/2014, sendo constituída por cinco docentes do curso de Bacharelado em Engenharia de Software, todos com titulação acadêmica obtida em programas de pós-graduação _strictu senso_ e com regime de trabalho integral (sendo 100% em regime de Dedicação Exclusiva).
 
-- Adotar os princípios pedagógicos de Identidade, Diversidade e Autonomia, da interdisciplinaridade e da Contextualização como estruturadores dos currículos do ensino superior, médio profissionalizante; 
-
-- Garantir que as grades curriculares cumpram as determinações da Lei de Diretrizes e Bases da Educação Nacional e demais dispositivos legais; 
-
-- Elaborar, com auxílio dos professores, termos de referências, especificações, planilhas e memoriais, para suprimento de materiais, obras, serviços e equipamentos às necessidades dos cursos. 
-
-## **3.1.2 Experiência do Coordenador** 
-
-A Coordenação do curso de Bacharelado em Engenharia de Software está sob a responsabilidade do Prof. Frank Willian Cardoso de Oliveira, graduado em Sistemas de Informação pela Unipar. Possui especialização em Desenvolvimento de Sistema para Web, pela Universidade Estadual de Maringá e Mestrado Profissional em Desenvolvimento de Tecnologia pelo Institutos Lactec, na área de Geração e Transferência de Tecnologia. 
-
-137 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-- Tempo de Experiência Profissional 4 anos 
-
-- Tempo de Experiência no Magistério Superior 5 anos 
-
-- Tempo de Experiência de Gestão Acadêmica 1 ano 
-
-- Membro do Colegiado de Gestão Pedagógica do IFPR campus Paranavaí. 
-
-A Coordenação do Curso possui uma formação que lhe permite ter domínio do desenvolvimento do Projeto Pedagógico do Curso, sendo o regime de trabalho do Coordenador dedicação exclusiva (DE) com 40 horas de atividades semanais, onde são reservadas 20 horas para a coordenação, administração e condução do Curso. 
-
-## **3.1.3 Núcleo Docente Estruturante (NDE)** 
-
-A composição do núcleo docente estruturante (NDE) atende aos dispositivos das Resoluções CONAES nº 01/2010, CONSUP nº 08/2011 e CONSUP n° 15/2014, sendo constituída por cinco docentes do curso de Bacharelado em Engenharia de Software, todos com titulação acadêmica obtida em programas de pós-graduação _strictu senso_ e com regime de trabalho integral (sendo 100% em regime de Dedicação Exclusiva). 
-
-Tabela - Relação de Membros do Núcleo Docente Estruturante 
+Tabela - Relação de Membros do Núcleo Docente Estruturante
 
 ||||
 |---|---|---|
@@ -3316,13 +2653,7 @@ Tabela - Relação de Membros do Núcleo Docente Estruturante
 |Rafael Henrique Dalegrave<br>Zottesso|Graduação em Sistemas de Informação|Mestre|
 |Willian Nalepa Oizumi|Graduação em Informática|Doutorando|
 
-
-
-## **3.1.4 Relação do Corpo docente** 
-
-138 
-
-**==> picture [472 x 55] intentionally omitted <==**
+## **3.1.4 Relação do Corpo docente**
 
 ||||||
 |---|---|---|---|---|
@@ -3339,189 +2670,153 @@ Tabela - Relação de Membros do Núcleo Docente Estruturante
 |Lucas de Melo<br>Andrade|História|Mestrado|http://lattes.cnpq.<br>br/708781197312<br>8343|Ética, Cultura e Sociedade (ECS)|
 |Luciana Yoshie<br>Tsuchiya|Matemática|Doutorado|http://lattes.cnpq.<br>br/495356749257<br>5405|Matemática Discreta e Lógica<br>(MDL)<br>Cálculo (CAL)<br>Probabilidade e Estatística (EST)|
 
-
-
-139 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 ||||||
 |---|---|---|---|---|
 |Rafael Henrique<br>Dalegrave Zottesso|Sistemas de<br>Informação|Mestrado|http://lattes.cnpq.<br>br/065415620657<br>2874|Algoritmos e Estruturas de<br>Dados II (AGII)|
 |Sergio Alexandre<br>dos Santos Junior|Economia|Mestrado|http://lattes.cnpq.<br>br/305055588478<br>2765|Empreendedorismo em<br>Tecnologia da Informação<br>(EMP)<br>Engenharia Econômica (EE)|
 |Willian Nalepa<br>Oizumi|Informática|Doutorando|http://lattes.cnpq.<br>br/537710882582<br>7605|Arquitetura e Padrões de<br>Software (ARPS)<br>Construção de Software (CS)<br>Metodologia de Pesquisa em<br>Engenharia de Software (MPES)|
 
+## **3.1.5 Colegiado de Curso**
 
+O Colegiado do Curso é composto pelos docentes que atuarão ministrando aulas no curso de Bacharelado em Engenharia de Software e após abertura do curso, deverá contar ainda com um representante discente, conforme Resolução nº 008/2014 do Instituto Federal do Paraná.
 
-## **3.1.5 Colegiado de Curso** 
+O Colegiado do Curso deverá se reunir trimestralmente em reuniões ordinárias ou sempre que convocado pelo Coordenador do Curso, em reuniões extraordinárias para tratar de assuntos referentes ao funcionamento do curso.
 
-O Colegiado do Curso é composto pelos docentes que atuarão ministrando aulas no curso de Bacharelado em Engenharia de Software e após abertura do curso, deverá contar ainda com um representante discente, conforme Resolução nº 008/2014 do Instituto Federal do Paraná. 
+O corpo docente será constituído por profissionais de diversas áreas, entre elas, Ciências Exatas e da Terra, Ciências Biológicas e da Saúde, Ciências Humanas, Ciências Sociais e Tecnologia. A multidisciplinaridade do corpo docente fundamenta ainda mais o proposto pelos modernos conceitos de formação generalista adotada pela maioria dos cursos superiores, permitindo uma riqueza de conhecimentos que beneficiará a comunidade, a qual contará com um profissional de ampla visão social e humanista. A formação dos docentes está assim distribuída: 6 doutores, 1 doutorando e 7 mestres.
 
-O Colegiado do Curso deverá se reunir trimestralmente em reuniões ordinárias ou sempre que convocado pelo Coordenador do Curso, em reuniões extraordinárias para tratar de assuntos referentes ao funcionamento do curso. 
+## **3.1.6 Políticas de Capacitação Docente**
 
-O corpo docente será constituído por profissionais de diversas áreas, entre elas, Ciências Exatas e da Terra, Ciências Biológicas e da Saúde, Ciências Humanas, Ciências Sociais e Tecnologia. A multidisciplinaridade do corpo docente fundamenta ainda mais o proposto pelos modernos conceitos de formação generalista adotada pela maioria dos cursos superiores, permitindo uma riqueza de conhecimentos que beneficiará a comunidade, a qual contará com um profissional de ampla visão social e humanista. A formação dos docentes está assim distribuída: 6 doutores, 1 doutorando e 7 mestres. 
+As Políticas de Capacitação Docente seguem a Resolução 48/11 do IFPR, que trata do Programa de Qualificação e Formação dos Servidores do IFPR.
 
-## **3.1.6 Políticas de Capacitação Docente** 
+Este Programa enfatiza a formação, qualificação e atualização sistemática em nível de Graduação e Pós-graduação Lato e Stricto Sensu, dos recursos humanos do instituto e de instituições parceiras das redes federal e estadual de ensino para o exercício pleno e eficiente de suas atividades nas instituições de ensino de origem.
 
-As Políticas de Capacitação Docente seguem a Resolução 48/11 do IFPR, que trata do Programa de Qualificação e Formação dos Servidores do IFPR. 
+O Programa de Incentivo à Formação Inicial, Continuada e de Qualificação de Servidores Públicos contemplará, quando possível, os seguintes níveis formativos nas modalidades EAD (Ensino à Distância) e Presencial:
 
-Este Programa enfatiza a formação, qualificação e atualização sistemática em nível de Graduação e Pós-graduação Lato e Stricto Sensu, dos recursos humanos do instituto e de instituições parceiras das redes federal e estadual de ensino para o exercício pleno e eficiente de suas atividades nas instituições de ensino de origem. 
+I. Cursos de Graduação
 
-O Programa de Incentivo à Formação Inicial, Continuada e de Qualificação de Servidores Públicos contemplará, quando possível, os seguintes níveis formativos nas modalidades EAD (Ensino à Distância) e Presencial: 
+- II. Cursos de Pós-Graduação Lato Sensu: aperfeiçoamento e Especialização
 
-I. Cursos de Graduação 
+- III. Cursos de Pós-Graduação Stricto Sensu: mestrado e doutorado
 
-140 
+- IV. Estágio Pós-Doutoral
 
-**==> picture [472 x 55] intentionally omitted <==**
+- V. Outros cursos, estágios, intercâmbios acadêmico-profissionais ou atividades de capacitação, no interesse da Administração.
 
-- II. Cursos de Pós-Graduação Lato Sensu: aperfeiçoamento e Especialização 
+Todos os docentes do IFPR serão beneficiados, em todos os níveis de carreira, prioritariamente, aqueles que não possuam Pós-Graduação nos níveis de mestrado e doutorado.
 
-- III. Cursos de Pós-Graduação Stricto Sensu: mestrado e doutorado 
+Os parâmetros e regulamentos de concessão e remuneração de bolsas terão como base o Programa Institucional de Incentivo ao Ensino, Extensão, Pesquisa e Inovação (PROEPI) do IFPR e os demais auxílios observarão os parâmetros regulamentados pela CAPES e CNPq e demais agências de fomento.
 
-- IV. Estágio Pós-Doutoral 
+## **3.1.7 Plano de Cargos e Salários dos Docentes**
 
-- V. Outros cursos, estágios, intercâmbios acadêmico-profissionais ou atividades de capacitação, no interesse da Administração. 
+O Plano de Carreiras e Cargos do IFPR - Campus Paranavaí foi estruturado a partir de 1º de março de 2013, pela Lei 12.772/2012, sendo composto pelas seguintes Carreiras e cargos:
 
-Todos os docentes do IFPR serão beneficiados, em todos os níveis de carreira, prioritariamente, aqueles que não possuam Pós-Graduação nos níveis de mestrado e doutorado. 
+I - Carreira de Magistério Superior, composta pelos cargos, de nível superior, de provimento efetivo de Professor do Magistério Superior;
 
-Os parâmetros e regulamentos de concessão e remuneração de bolsas terão como base o Programa Institucional de Incentivo ao Ensino, Extensão, Pesquisa e Inovação (PROEPI) do IFPR e os demais auxílios observarão os parâmetros regulamentados pela CAPES e CNPq e demais agências de fomento. 
+- II - Cargo Isolado de provimento efetivo, de nível superior, de Professor Titular-Livre do Magistério Superior;
 
-## **3.1.7 Plano de Cargos e Salários dos Docentes** 
+III - Carreira de Magistério do Ensino Básico, Técnico e Tecnológico, composta pelos cargos de provimento efetivo de Professor do Ensino Básico, Técnico e Tecnológico; e IV - Cargo Isolado de provimento efetivo, de nível superior, de Professor Titular-Livre do Ensino Básico, Técnico e Tecnológico.
 
-O Plano de Carreiras e Cargos do IFPR - Campus Paranavaí foi estruturado a partir de 1º de março de 2013, pela Lei 12.772/2012, sendo composto pelas seguintes Carreiras e cargos: 
+A Carreira de Magistério Superior, IFPR – Campus Paranavaí, é estruturada em classes A, B, C, D e E e respectivos níveis de vencimento. As classes da Carreira de Magistério Superior receberão as seguintes denominações de acordo com a titulação do ocupante do cargo:
 
-I - Carreira de Magistério Superior, composta pelos cargos, de nível superior, de provimento efetivo de Professor do Magistério Superior; 
+I - Classe A, com as denominações de:
 
-- II - Cargo Isolado de provimento efetivo, de nível superior, de Professor Titular-Livre do Magistério Superior; 
+   - a) Professor Adjunto A, se portador do título de doutor;
 
-III - Carreira de Magistério do Ensino Básico, Técnico e Tecnológico, composta pelos cargos de provimento efetivo de Professor do Ensino Básico, Técnico e Tecnológico; e IV - Cargo Isolado de provimento efetivo, de nível superior, de Professor Titular-Livre do Ensino Básico, Técnico e Tecnológico. 
+   - b) Professor Assistente A, se portador do título de mestre;
 
-A Carreira de Magistério Superior, IFPR – Campus Paranavaí, é estruturada em classes A, B, C, D e E e respectivos níveis de vencimento. As classes da Carreira de Magistério Superior receberão as seguintes denominações de acordo com a titulação do ocupante do cargo: 
+   - c) Professor Auxiliar, se graduado ou portador de título de especialista;
 
-I - Classe A, com as denominações de: 
+- II - Classe B, com a denominação de Professor Assistente;
 
-   - a) Professor Adjunto A, se portador do título de doutor; 
+III - Classe C, com a denominação de Professor Adjunto;
 
-   - b) Professor Assistente A, se portador do título de mestre; 
+- IV - Classe D, com a denominação de Professor Associado;
 
-   - c) Professor Auxiliar, se graduado ou portador de título de especialista; 
+- V - Classe E, com a denominação de Professor Titular.
 
-- II - Classe B, com a denominação de Professor Assistente; 
+A Carreira de Magistério Superior destina-se a profissionais habilitados em atividades acadêmicas próprias do pessoal docente no âmbito da educação superior, habilitados em atividades acadêmicas próprias do pessoal docente no âmbito da educação básica e da educação
 
-III - Classe C, com a denominação de Professor Adjunto; 
+profissional e tecnológica, conforme disposto na Lei no 9.394, de 20 de dezembro de 1996, e na Lei nº 11.892, de 29 de dezembro de 2008.
 
-- IV - Classe D, com a denominação de Professor Associado; 
+O enquadramento no Plano de Carreiras e Cargos de Magistério Federal não representa, para qualquer efeito legal, inclusive para efeito de aposentadoria, descontinuidade em relação à Carreira, ao cargo e às atribuições atuais desenvolvidas pelos seus ocupantes.
 
-- V - Classe E, com a denominação de Professor Titular. 
+O ingresso na Carreira de Magistério Superior ocorrerá sempre no primeiro nível de vencimento da Classe A, mediante aprovação em concurso público de provas e títulos.
 
-A Carreira de Magistério Superior destina-se a profissionais habilitados em atividades acadêmicas próprias do pessoal docente no âmbito da educação superior, habilitados em atividades acadêmicas próprias do pessoal docente no âmbito da educação básica e da educação 
+O ingresso nos cargos de provimento efetivo de Professor da Carreira de Magistério do Ensino Básico, Técnico e Tecnológico e da Carreira do Magistério do Ensino Básico Federal ocorrerá sempre no Nível 1 da Classe D I, mediante aprovação em concurso público de provas ou de provas e títulos.
 
-141 
+O concurso para o cargo isolado de Titular-Livre será realizado por comissão especial composta, no mínimo, por 75% (setenta e cinco por cento) de profissionais externos ao IFPR – Campus Paranavaí, nos termos de ato do Ministro de Estado da Educação.
 
-**==> picture [472 x 55] intentionally omitted <==**
+O desenvolvimento na Carreira de Magistério Superior ocorrerá mediante progressão funcional e promoção. A progressão é a passagem do servidor para o nível de vencimento imediatamente superior dentro de uma mesma classe, e promoção, a passagem do servidor de uma classe para outra subsequente.
 
-profissional e tecnológica, conforme disposto na Lei no 9.394, de 20 de dezembro de 1996, e na Lei nº 11.892, de 29 de dezembro de 2008. 
+A progressão na Carreira de Magistério Superior ocorrerá com base nos critérios: o cumprimento do interstício de 24 (vinte e quatro) meses de efetivo exercício em cada nível; e aprovação em avaliação de desempenho. A promoção ocorrerá observados o interstício mínimo de 24 (vinte e quatro) meses no último nível de cada Classe antecedente àquela para a qual se dará a promoção e, ainda, as seguintes condições: I - para a Classe B, com denominação de Professor Assistente, ser aprovado em processo de avaliação de desempenho; II - para a Classe C, com denominação de Professor Adjunto, ser aprovado em processo de avaliação de desempenho; III - para a Classe D, com denominação de Professor Associado: a) possuir o título de doutor; e b) ser aprovado em processo de avaliação de desempenho; e IV - para a Classe E, com denominação de Professor Titular: a) possuir o título de doutor; b) ser aprovado em processo de avaliação de desempenho; e c) lograr aprovação de memorial que deverá considerar as atividades de ensino, pesquisa, extensão, gestão acadêmica e produção profissional relevante, ou defesa de tese acadêmica inédita.
 
-O enquadramento no Plano de Carreiras e Cargos de Magistério Federal não representa, para qualquer efeito legal, inclusive para efeito de aposentadoria, descontinuidade em relação à Carreira, ao cargo e às atribuições atuais desenvolvidas pelos seus ocupantes. 
+As diretrizes gerais para o processo de avaliação de desempenho para fins de progressão e de promoção deverão contemplar as atividades de ensino, pesquisa, extensão e gestão, cabendo aos conselhos competentes no âmbito do IFPR – Campus Paranavaí regulamentar os procedimentos do referido processo.
 
-O ingresso na Carreira de Magistério Superior ocorrerá sempre no primeiro nível de vencimento da Classe A, mediante aprovação em concurso público de provas e títulos. 
+O processo de avaliação para acesso à Classe E, com denominação de Titular, será realizado por comissão especial composta por, no mínimo, 75% (setenta e cinco por cento) de profissionais externos ao IFPR – Campus Paranavaí, nos termos de ato do Ministro de Estado da Educação.
 
-O ingresso nos cargos de provimento efetivo de Professor da Carreira de Magistério do Ensino Básico, Técnico e Tecnológico e da Carreira do Magistério do Ensino Básico Federal ocorrerá sempre no Nível 1 da Classe D I, mediante aprovação em concurso público de provas ou de provas e títulos. 
+Os cursos de mestrado e doutorado serão considerados somente se credenciados pelo Conselho Nacional de Educação e, quando realizados no exterior, revalidados por instituição nacional competente.
 
-O concurso para o cargo isolado de Titular-Livre será realizado por comissão especial composta, no mínimo, por 75% (setenta e cinco por cento) de profissionais externos ao IFPR – Campus Paranavaí, nos termos de ato do Ministro de Estado da Educação. 
+Os docentes aprovados no estágio probatório do respectivo cargo que atenderem os seguintes requisitos de titulação farão jus a processo de aceleração da promoção: I - para o nível
 
-O desenvolvimento na Carreira de Magistério Superior ocorrerá mediante progressão funcional e promoção. A progressão é a passagem do servidor para o nível de vencimento imediatamente superior dentro de uma mesma classe, e promoção, a passagem do servidor de uma classe para outra subsequente. 
+inicial da Classe B, com denominação de Professor Assistente, pela apresentação de titulação de mestre; e II - para o nível inicial da Classe C, com denominação de Professor Adjunto, pela apresentação de titulação de doutor.
 
-A progressão na Carreira de Magistério Superior ocorrerá com base nos critérios: o cumprimento do interstício de 24 (vinte e quatro) meses de efetivo exercício em cada nível; e aprovação em avaliação de desempenho. A promoção ocorrerá observados o interstício mínimo de 24 (vinte e quatro) meses no último nível de cada Classe antecedente àquela para a qual se dará a promoção e, ainda, as seguintes condições: I - para a Classe B, com denominação de Professor Assistente, ser aprovado em processo de avaliação de desempenho; II - para a Classe C, com denominação de Professor Adjunto, ser aprovado em processo de avaliação de desempenho; III - para a Classe D, com denominação de Professor Associado: a) possuir o título de doutor; e b) ser aprovado em processo de avaliação de desempenho; e IV - para a Classe E, com denominação de Professor Titular: a) possuir o título de doutor; b) ser aprovado em processo de avaliação de desempenho; e c) lograr aprovação de memorial que deverá considerar as atividades de ensino, pesquisa, extensão, gestão acadêmica e produção profissional relevante, ou defesa de tese acadêmica inédita. 
+Aos servidores ocupantes de cargos da Carreira de Magistério Superior em 1o de março de 2013, com base na Lei 12.772/2012, é permitida a aceleração da promoção ainda que se encontrem em estágio probatório no cargo. A partir da instituição do Plano de Carreiras e Cargos de Magistério Federal, o desenvolvimento na Carreira de Magistério do Ensino Básico, Técnico e Tecnológico ocorrerá mediante progressão funcional e promoção.
 
-As diretrizes gerais para o processo de avaliação de desempenho para fins de progressão e de promoção deverão contemplar as atividades de ensino, pesquisa, extensão e gestão, cabendo aos conselhos competentes no âmbito do IFPR – Campus Paranavaí regulamentar os procedimentos do referido processo. 
+A progressão é a passagem do servidor para o nível de vencimento imediatamente superior dentro de uma mesma classe, e promoção, a passagem do servidor de uma classe para outra subsequente. Ela ocorrerá com base nos critérios, cumulativamente: I - o cumprimento do interstício de 24 (vinte e quatro) meses de efetivo exercício em cada nível; e II - aprovação em avaliação de desempenho individual.
 
-O processo de avaliação para acesso à Classe E, com denominação de Titular, será realizado por comissão especial composta por, no mínimo, 75% (setenta e cinco por cento) de profissionais externos ao IFPR – Campus Paranavaí, nos termos de ato do Ministro de Estado da Educação. 
+As diretrizes gerais para o processo de avaliação de desempenho para fins de progressão e de promoção serão estabelecidas em ato do Ministério da Educação, e deverão contemplar as atividades de ensino, pesquisa, extensão e gestão, cabendo aos conselhos competentes no âmbito de cada Instituição Federal de Ensino regulamentar os procedimentos do referido processo.
 
-Os cursos de mestrado e doutorado serão considerados somente se credenciados pelo Conselho Nacional de Educação e, quando realizados no exterior, revalidados por instituição nacional competente. 
+O processo de avaliação para acesso à Classe Titular será realizado por comissão especial composta, no mínimo, por 75% (setenta e cinco por cento) de profissionais externos ao IFPR – Campus Paranavaí, e será objeto de regulamentação por ato do Ministro de Estado da Educação. Os cursos de mestrado e doutorado serão considerados somente se credenciados pelo Conselho Federal de Educação e, quando realizados no exterior, revalidados por instituição nacional competente.
 
-Os docentes aprovados no estágio probatório do respectivo cargo que atenderem os seguintes requisitos de titulação farão jus a processo de aceleração da promoção: I - para o nível 
+Aos servidores ocupantes de cargos da Carreira de Magistério do Ensino Básico, Técnico e Tecnológico em 1o de março de 2013, de acordo com a Lei 12.772/2012, é permitida a aceleração da promoção ainda que se encontre em estágio probatório no cargo.
 
-142 
+A estrutura remuneratória do Plano de Carreiras e Cargos de Magistério Federal possui a seguinte composição: I - Vencimento Básico, conforme valores e vigências estabelecidos; e II - Retribuição por Titulação – RT.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Fica instituída a RT, devida ao docente integrante do Plano de Carreiras e Cargos de Magistério Federal em conformidade com a Carreira, cargo, classe, nível e titulação comprovada, nos valores e vigência. A RT será considerada no cálculo dos proventos e das pensões, na forma dos regramentos de regime previdenciário aplicável a cada caso, desde que o certificado ou o título tenham sido obtidos anteriormente à data da inativação. Os valores referentes à RT não serão percebidos cumulativamente para diferentes titulações ou com quaisquer outras Retribuições por Titulação, adicionais ou gratificações de mesma natureza.
 
-inicial da Classe B, com denominação de Professor Assistente, pela apresentação de titulação de mestre; e II - para o nível inicial da Classe C, com denominação de Professor Adjunto, pela apresentação de titulação de doutor. 
+No caso dos ocupantes de cargos da Carreira de Magistério do Ensino Básico, Técnico e Tecnológico, para fins de percepção da RT, será considerada a equivalência da titulação exigida com o Reconhecimento de Saberes e Competências - RSC. Será criado o Conselho Permanente para Reconhecimento de Saberes e Competências no âmbito do Ministério da Educação, com a finalidade de estabelecer os procedimentos para a concessão do RSC.
 
-Aos servidores ocupantes de cargos da Carreira de Magistério Superior em 1o de março de 2013, com base na Lei 12.772/2012, é permitida a aceleração da promoção ainda que se encontrem em estágio probatório no cargo. A partir da instituição do Plano de Carreiras e Cargos de Magistério Federal, o desenvolvimento na Carreira de Magistério do Ensino Básico, Técnico e Tecnológico ocorrerá mediante progressão funcional e promoção. 
+O Professor das IFE, ocupante de cargo efetivo do Plano de Carreiras e Cargos de Magistério Federal, será submetido a um dos seguintes regimes de trabalho: I - 40 (quarenta) horas semanais de trabalho, em tempo integral, com dedicação exclusiva às atividades de ensino, pesquisa,
 
-A progressão é a passagem do servidor para o nível de vencimento imediatamente superior dentro de uma mesma classe, e promoção, a passagem do servidor de uma classe para outra subsequente. Ela ocorrerá com base nos critérios, cumulativamente: I - o cumprimento do interstício de 24 (vinte e quatro) meses de efetivo exercício em cada nível; e II - aprovação em avaliação de desempenho individual. 
+extensão e gestão institucional; ou II - tempo parcial de 20 (vinte) horas semanais de trabalho. Excepcionalmente, a IFE poderá, mediante aprovação de órgão colegiado superior competente, admitir a adoção do regime de 40 (quarenta) horas semanais de trabalho, em tempo integral, observando 2 (dois) turnos diários completos, sem dedicação exclusiva, para áreas com características específicas.
 
-As diretrizes gerais para o processo de avaliação de desempenho para fins de progressão e de promoção serão estabelecidas em ato do Ministério da Educação, e deverão contemplar as atividades de ensino, pesquisa, extensão e gestão, cabendo aos conselhos competentes no âmbito de cada Instituição Federal de Ensino regulamentar os procedimentos do referido processo. 
+O regime de 40 (quarenta) horas com dedicação exclusiva implica o impedimento do exercício de outra atividade remunerada, pública ou privada.
 
-O processo de avaliação para acesso à Classe Titular será realizado por comissão especial composta, no mínimo, por 75% (setenta e cinco por cento) de profissionais externos ao IFPR – Campus Paranavaí, e será objeto de regulamentação por ato do Ministro de Estado da Educação. Os cursos de mestrado e doutorado serão considerados somente se credenciados pelo Conselho Federal de Educação e, quando realizados no exterior, revalidados por instituição nacional competente. 
+Os docentes em regime de 20 (vinte) horas poderão ser temporariamente vinculados ao regime de 40 (quarenta) horas sem dedicação exclusiva após a verificação de inexistência de acúmulo de cargos e da existência de recursos orçamentários e financeiros para as despesas decorrentes da alteração do regime, considerando-se o caráter especial da atribuição do regime de 40 (quarenta) horas sem dedicação exclusiva, nas seguintes hipóteses: I - ocupação de cargo de direção, função gratificada ou função de coordenação de cursos; ou II - participação em outras ações de interesse institucional definidas pelo conselho superior da IFE.
 
-Aos servidores ocupantes de cargos da Carreira de Magistério do Ensino Básico, Técnico e Tecnológico em 1o de março de 2013, de acordo com a Lei 12.772/2012, é permitida a aceleração da promoção ainda que se encontre em estágio probatório no cargo. 
+No regime de dedicação exclusiva, será admitida, observadas as condições da regulamentação própria de cada IFE, a percepção de: I - remuneração de cargos de direção ou funções de confiança; II - retribuição por participação em comissões julgadoras ou verificadoras relacionadas ao ensino, pesquisa ou extensão, quando for o caso; III - bolsas de ensino, pesquisa, extensão ou de estímulo à inovação pagas por agências oficiais de fomento ou organismos internacionais amparadas por ato, tratado ou convenção internacional; IV - bolsa pelo desempenho de atividades de formação de professores da educação básica, no âmbito da Universidade Aberta do Brasil ou de outros programas oficiais de formação de professores; V - bolsa para qualificação docente, paga por agências oficiais de fomento ou organismos nacionais e internacionais congêneres; VI - direitos autorais ou direitos de propriedade intelectual, nos termos da legislação própria, e ganhos econômicos resultantes de projetos de inovação tecnológica; VII - outras hipóteses de bolsas de ensino, pesquisa e extensão, pagas pelas IFE, nos termos de regulamentação de seus órgãos colegiados superiores; VIII - retribuição pecuniária, na forma de pro labore ou cachê pago diretamente ao docente por ente distinto da IFE, pela participação esporádica em palestras, conferências, atividades artísticas e culturais relacionadas à área de atuação do docente; IX - Gratificação por Encargo de Curso ou Concurso X - Função Comissionada de Coordenação de Curso - FCC; XI - retribuição pecuniária, em caráter eventual, por trabalho prestado no âmbito de projetos institucionais de ensino, pesquisa e extensão; e XII - retribuição pecuniária por colaboração esporádica de natureza científica ou tecnológica em assuntos de especialidade do docente, inclusive em polos de inovação tecnológica, devidamente autorizada pela IFE de acordo com suas regras.
 
-A estrutura remuneratória do Plano de Carreiras e Cargos de Magistério Federal possui a seguinte composição: I - Vencimento Básico, conforme valores e vigências estabelecidos; e II - Retribuição por Titulação – RT. 
+O Professor poderá solicitar a alteração de seu regime de trabalho, mediante proposta que será submetida a sua unidade de lotação. A solicitação de mudança de regime de trabalho, aprovada na unidade referida, será encaminhada à Comissão Permanente de Pessoal Docente - CPPD, no caso das IFE vinculadas ao Ministério da Educação, para análise e parecer, e posteriormente à decisão final da autoridade ou Conselho Superior competente.
 
-Fica instituída a RT, devida ao docente integrante do Plano de Carreiras e Cargos de Magistério Federal em conformidade com a Carreira, cargo, classe, nível e titulação comprovada, nos valores e vigência. A RT será considerada no cálculo dos proventos e das pensões, na forma dos regramentos de regime previdenciário aplicável a cada caso, desde que o certificado ou o título tenham sido obtidos anteriormente à data da inativação. Os valores referentes à RT não serão percebidos cumulativamente para diferentes titulações ou com quaisquer outras Retribuições por Titulação, adicionais ou gratificações de mesma natureza. 
+É vedada a mudança de regime de trabalho aos docentes em estágio probatório. Na hipótese de concessão de afastamento sem prejuízo de vencimentos, as solicitações de alteração de regime só serão autorizadas após o decurso de prazo igual ao do afastamento concedido.
 
-No caso dos ocupantes de cargos da Carreira de Magistério do Ensino Básico, Técnico e Tecnológico, para fins de percepção da RT, será considerada a equivalência da titulação exigida com o Reconhecimento de Saberes e Competências - RSC. Será criado o Conselho Permanente para Reconhecimento de Saberes e Competências no âmbito do Ministério da Educação, com a finalidade de estabelecer os procedimentos para a concessão do RSC. 
+A avaliação especial de desempenho do servidor em estágio probatório, ocupante de cargo pertencente ao Plano de Carreiras e Cargos de Magistério Federal, será realizada por Comissão de Avaliação de Desempenho designada pelo Campus. A Comissão de Avaliação de Desempenho deverá ser composta de docentes estáveis, com representações da unidade acadêmica de exercício do docente avaliado e do Colegiado do Curso no qual o docente ministra o maior número de aulas.
 
-O Professor das IFE, ocupante de cargo efetivo do Plano de Carreiras e Cargos de Magistério Federal, será submetido a um dos seguintes regimes de trabalho: I - 40 (quarenta) horas semanais de trabalho, em tempo integral, com dedicação exclusiva às atividades de ensino, pesquisa, 
+A avaliação especial de desempenho do docente em estágio probatório deverá considerar: I - adaptação do professor ao trabalho, verificada por meio de avaliação da capacidade e qualidade no desempenho das atribuições do cargo; II - cumprimento dos deveres e obrigações do servidor público, com estrita observância da ética profissional; III - análise dos relatórios que documentam as atividades científico-acadêmicas e administrativas programadas no plano de trabalho da unidade de exercício e apresentadas pelo docente, em cada etapa de avaliação; IV - a assiduidade, a disciplina, o desempenho didático-pedagógico, a capacidade de iniciativa, produtividade e responsabilidade; V - participação no Programa de Recepção de Docentes instituído pela IFE; e VI - avaliação pelos discentes, conforme normatização própria do Campus.
 
-143 
+A avaliação de desempenho do servidor ocupante de cargo do Plano de Carreiras e Cargos de Magistério Federal em estágio probatório será realizada obedecendo: I - o conhecimento, por parte do avaliado, do instrumento de avaliação e dos resultados de todos os relatórios emitidos pela Comissão de Avaliação de Desempenho, resguardando-se o direito ao contraditório; e II - a realização de reuniões de avaliação com a presença de maioria simples dos membros da Comissão de Avaliação de Desempenho.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Será instituída uma Comissão Permanente de Pessoal Docente - CPPD, eleita pelos seus pares, no Campus, que possua, em seus quadros, pessoal integrante do Plano de Carreiras e Cargos de Magistério Federal. À CPPD caberá prestar assessoramento ao colegiado competente ou dirigente máximo na instituição de ensino, para formulação e acompanhamento da execução da política de pessoal docente, no que diz respeito a: I - dimensionamento da alocação de vagas docentes nas unidades acadêmicas; II - contratação e admissão de professores efetivos e substitutos; III - alteração do regime de trabalho docente; IV - avaliação do desempenho para fins de progressão e promoção funcional; V - solicitação de afastamento de docentes para aperfeiçoamento, especialização, mestrado, doutorado ou pós-doutorado; e VI - liberação de professores para programas de cooperação com outras instituições, universitárias ou não.
 
-extensão e gestão institucional; ou II - tempo parcial de 20 (vinte) horas semanais de trabalho. Excepcionalmente, a IFE poderá, mediante aprovação de órgão colegiado superior competente, admitir a adoção do regime de 40 (quarenta) horas semanais de trabalho, em tempo integral, observando 2 (dois) turnos diários completos, sem dedicação exclusiva, para áreas com características específicas. 
+O corpo docente será constituído pelos cargos efetivos integrantes do Plano de Carreiras e Cargos e pelos Professores Visitantes, Professores Visitantes Estrangeiros e Professores Substitutos.
 
-O regime de 40 (quarenta) horas com dedicação exclusiva implica o impedimento do exercício de outra atividade remunerada, pública ou privada. 
+A contratação temporária de Professores Substitutos, de Professores Visitantes e de Professores Visitantes Estrangeiros será feita de acordo com o que dispõe a Lei no 8.745, de 1993. A contratação de professor visitante e de professor visitante estrangeiro, tem por objetivo: I - apoiar a execução dos programas de pós-graduação stricto sensu; II - contribuir para o aprimoramento de programas de ensino, pesquisa e extensão; III - contribuir para a execução de programas de capacitação docente; ou IV - viabilizar o intercâmbio científico e tecnológico. Excepcionalmente, no âmbito das Instituições da Rede Federal de Educação Profissional, Científica e Tecnológica, poderão ser contratados professor visitante ou professor visitante estrangeiro, sem o título de doutor, desde que possuam comprovada competência em ensino,
 
-Os docentes em regime de 20 (vinte) horas poderão ser temporariamente vinculados ao regime de 40 (quarenta) horas sem dedicação exclusiva após a verificação de inexistência de acúmulo de cargos e da existência de recursos orçamentários e financeiros para as despesas decorrentes da alteração do regime, considerando-se o caráter especial da atribuição do regime de 40 (quarenta) horas sem dedicação exclusiva, nas seguintes hipóteses: I - ocupação de cargo de direção, função gratificada ou função de coordenação de cursos; ou II - participação em outras ações de interesse institucional definidas pelo conselho superior da IFE. 
+pesquisa e extensão tecnológicos ou reconhecimento da qualificação profissional pelo mercado de trabalho, na forma prevista pelo Conselho Superior da instituição contratante.
 
-No regime de dedicação exclusiva, será admitida, observadas as condições da regulamentação própria de cada IFE, a percepção de: I - remuneração de cargos de direção ou funções de confiança; II - retribuição por participação em comissões julgadoras ou verificadoras relacionadas ao ensino, pesquisa ou extensão, quando for o caso; III - bolsas de ensino, pesquisa, extensão ou de estímulo à inovação pagas por agências oficiais de fomento ou organismos internacionais amparadas por ato, tratado ou convenção internacional; IV - bolsa pelo desempenho de atividades de formação de professores da educação básica, no âmbito da Universidade Aberta do Brasil ou de outros programas oficiais de formação de professores; V - bolsa para qualificação docente, paga por agências oficiais de fomento ou organismos nacionais e internacionais congêneres; VI - direitos autorais ou direitos de propriedade intelectual, nos termos da legislação própria, e ganhos econômicos resultantes de projetos de inovação tecnológica; VII - outras hipóteses de bolsas de ensino, pesquisa e extensão, pagas pelas IFE, nos termos de regulamentação de seus órgãos colegiados superiores; VIII - retribuição pecuniária, na forma de pro labore ou cachê pago diretamente ao docente por ente distinto da IFE, pela participação esporádica em palestras, conferências, atividades artísticas e culturais relacionadas à área de atuação do docente; IX - Gratificação por Encargo de Curso ou Concurso X - Função Comissionada de Coordenação de Curso - FCC; XI - retribuição pecuniária, em caráter eventual, por trabalho prestado no âmbito de projetos institucionais de ensino, pesquisa e extensão; e XII - retribuição pecuniária por colaboração esporádica de natureza científica ou tecnológica em assuntos de especialidade do docente, inclusive em polos de inovação tecnológica, devidamente autorizada pela IFE de acordo com suas regras. 
+A contratação de professores substitutos, professores visitantes e professores visitantes estrangeiros poderá ser autorizada pelo dirigente da instituição, condicionada à existência de recursos orçamentários e financeiros para fazer frente às despesas decorrentes da contratação e ao quantitativo máximo de contratos estabelecido para a IFE.
 
-O Professor poderá solicitar a alteração de seu regime de trabalho, mediante proposta que será submetida a sua unidade de lotação. A solicitação de mudança de regime de trabalho, aprovada na unidade referida, será encaminhada à Comissão Permanente de Pessoal Docente - CPPD, no caso das IFE vinculadas ao Ministério da Educação, para análise e parecer, e posteriormente à decisão final da autoridade ou Conselho Superior competente. 
+O ocupante de cargos do Plano de Carreiras e Cargos do Magistério Federal, sem prejuízo dos afastamentos previstos na Lei no 8.112, de 1990, poderá afastar-se de suas funções, assegurados todos os direitos e vantagens a que fizer jus, para: I - participar de programa de pósgraduação stricto sensu ou de pós-doutorado, independentemente do tempo ocupado no cargo ou na instituição; II - prestar colaboração a outra instituição federal de ensino ou de pesquisa, por período de até 4 (quatro) anos, com ônus para a instituição de origem; e III - prestar colaboração técnica ao Ministério da Educação, por período não superior a 1 (um) ano e com ônus para a instituição de origem, visando ao apoio ao desenvolvimento de programas e projetos de relevância.
 
-É vedada a mudança de regime de trabalho aos docentes em estágio probatório. Na hipótese de concessão de afastamento sem prejuízo de vencimentos, as solicitações de alteração de regime só serão autorizadas após o decurso de prazo igual ao do afastamento concedido. 
+A partir de 1o de março de 2013, os servidores ocupantes dos cargos da Carreira de Magistério do Ensino Básico Federal, poderão ser enquadrados na Carreira de Magistério do Ensino Básico, Técnico e Tecnológico, de acordo com as respectivas atribuições.
 
-144 
+Ao servidor titular de cargo efetivo do Plano de Carreiras de Magistério do Ensino Básico Federal cedido para órgão ou entidade no âmbito do Poder Executivo Federal aplica-se, quanto ao prazo de solicitação de enquadramento, podendo o servidor permanecer na condição de cedido. Os cargos de provimento efetivo da Carreira de Magistério do Ensino Básico Federal cujos ocupantes forem enquadrados na Carreira de Magistério do Ensino Básico, Técnico e Tecnológico permanecerão integrando o Quadro de Pessoal das Instituições Federais de Ensino subordinadas.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Aos servidores ocupantes de cargos da Carreira de Magistério do Ensino Básico, Técnico e Tecnológico do Plano de Carreiras e Cargos de Magistério Federal, na data de 1o de março de 2013, será aplicado, para a primeira progressão a ser realizada, observando os critérios de desenvolvimento na Carreira estabelecidos pela Lei 12.772/2012, o interstício de 18 (dezoito) meses.
 
-A avaliação especial de desempenho do servidor em estágio probatório, ocupante de cargo pertencente ao Plano de Carreiras e Cargos de Magistério Federal, será realizada por Comissão de Avaliação de Desempenho designada pelo Campus. A Comissão de Avaliação de Desempenho deverá ser composta de docentes estáveis, com representações da unidade acadêmica de exercício do docente avaliado e do Colegiado do Curso no qual o docente ministra o maior número de aulas. 
+Aos servidores ocupantes de cargos efetivos pertencentes ao Plano de Carreiras e Cargos de Magistério Federal serão concedidos 45 (quarenta e cinco) dias de férias anuais que poderão ser gozadas parceladamente. Aos servidores pertencentes ao Plano de Carreiras e Cargos de Magistério Federal, não se aplicam as disposições do Decreto no 94.664, de 23 de julho de 1987. A partir de 1o de janeiro de 2013, o Incentivo à Qualificação será concedido aos servidores que possuírem certificado, diploma ou titulação que exceda a exigência de escolaridade mínima para ingresso no cargo do qual é titular, independentemente do nível de classificação em que esteja posicionado.
 
-A avaliação especial de desempenho do docente em estágio probatório deverá considerar: I - adaptação do professor ao trabalho, verificada por meio de avaliação da capacidade e qualidade no desempenho das atribuições do cargo; II - cumprimento dos deveres e obrigações do servidor público, com estrita observância da ética profissional; III - análise dos relatórios que documentam as atividades científico-acadêmicas e administrativas programadas no plano de trabalho da unidade de exercício e apresentadas pelo docente, em cada etapa de avaliação; IV - a assiduidade, a disciplina, o desempenho didático-pedagógico, a capacidade de iniciativa, produtividade e responsabilidade; V - participação no Programa de Recepção de Docentes instituído pela IFE; e VI - avaliação pelos discentes, conforme normatização própria do Campus. 
-
-A avaliação de desempenho do servidor ocupante de cargo do Plano de Carreiras e Cargos de Magistério Federal em estágio probatório será realizada obedecendo: I - o conhecimento, por parte do avaliado, do instrumento de avaliação e dos resultados de todos os relatórios emitidos pela Comissão de Avaliação de Desempenho, resguardando-se o direito ao contraditório; e II - a realização de reuniões de avaliação com a presença de maioria simples dos membros da Comissão de Avaliação de Desempenho. 
-
-Será instituída uma Comissão Permanente de Pessoal Docente - CPPD, eleita pelos seus pares, no Campus, que possua, em seus quadros, pessoal integrante do Plano de Carreiras e Cargos de Magistério Federal. À CPPD caberá prestar assessoramento ao colegiado competente ou dirigente máximo na instituição de ensino, para formulação e acompanhamento da execução da política de pessoal docente, no que diz respeito a: I - dimensionamento da alocação de vagas docentes nas unidades acadêmicas; II - contratação e admissão de professores efetivos e substitutos; III - alteração do regime de trabalho docente; IV - avaliação do desempenho para fins de progressão e promoção funcional; V - solicitação de afastamento de docentes para aperfeiçoamento, especialização, mestrado, doutorado ou pós-doutorado; e VI - liberação de professores para programas de cooperação com outras instituições, universitárias ou não. 
-
-O corpo docente será constituído pelos cargos efetivos integrantes do Plano de Carreiras e Cargos e pelos Professores Visitantes, Professores Visitantes Estrangeiros e Professores Substitutos. 
-
-A contratação temporária de Professores Substitutos, de Professores Visitantes e de Professores Visitantes Estrangeiros será feita de acordo com o que dispõe a Lei no 8.745, de 1993. A contratação de professor visitante e de professor visitante estrangeiro, tem por objetivo: I - apoiar a execução dos programas de pós-graduação stricto sensu; II - contribuir para o aprimoramento de programas de ensino, pesquisa e extensão; III - contribuir para a execução de programas de capacitação docente; ou IV - viabilizar o intercâmbio científico e tecnológico. Excepcionalmente, no âmbito das Instituições da Rede Federal de Educação Profissional, Científica e Tecnológica, poderão ser contratados professor visitante ou professor visitante estrangeiro, sem o título de doutor, desde que possuam comprovada competência em ensino, 
-
-145 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-pesquisa e extensão tecnológicos ou reconhecimento da qualificação profissional pelo mercado de trabalho, na forma prevista pelo Conselho Superior da instituição contratante. 
-
-A contratação de professores substitutos, professores visitantes e professores visitantes estrangeiros poderá ser autorizada pelo dirigente da instituição, condicionada à existência de recursos orçamentários e financeiros para fazer frente às despesas decorrentes da contratação e ao quantitativo máximo de contratos estabelecido para a IFE. 
-
-O ocupante de cargos do Plano de Carreiras e Cargos do Magistério Federal, sem prejuízo dos afastamentos previstos na Lei no 8.112, de 1990, poderá afastar-se de suas funções, assegurados todos os direitos e vantagens a que fizer jus, para: I - participar de programa de pósgraduação stricto sensu ou de pós-doutorado, independentemente do tempo ocupado no cargo ou na instituição; II - prestar colaboração a outra instituição federal de ensino ou de pesquisa, por período de até 4 (quatro) anos, com ônus para a instituição de origem; e III - prestar colaboração técnica ao Ministério da Educação, por período não superior a 1 (um) ano e com ônus para a instituição de origem, visando ao apoio ao desenvolvimento de programas e projetos de relevância. 
-
-A partir de 1o de março de 2013, os servidores ocupantes dos cargos da Carreira de Magistério do Ensino Básico Federal, poderão ser enquadrados na Carreira de Magistério do Ensino Básico, Técnico e Tecnológico, de acordo com as respectivas atribuições. 
-
-Ao servidor titular de cargo efetivo do Plano de Carreiras de Magistério do Ensino Básico Federal cedido para órgão ou entidade no âmbito do Poder Executivo Federal aplica-se, quanto ao prazo de solicitação de enquadramento, podendo o servidor permanecer na condição de cedido. Os cargos de provimento efetivo da Carreira de Magistério do Ensino Básico Federal cujos ocupantes forem enquadrados na Carreira de Magistério do Ensino Básico, Técnico e Tecnológico permanecerão integrando o Quadro de Pessoal das Instituições Federais de Ensino subordinadas. 
-
-Aos servidores ocupantes de cargos da Carreira de Magistério do Ensino Básico, Técnico e Tecnológico do Plano de Carreiras e Cargos de Magistério Federal, na data de 1o de março de 2013, será aplicado, para a primeira progressão a ser realizada, observando os critérios de desenvolvimento na Carreira estabelecidos pela Lei 12.772/2012, o interstício de 18 (dezoito) meses. 
-
-Aos servidores ocupantes de cargos efetivos pertencentes ao Plano de Carreiras e Cargos de Magistério Federal serão concedidos 45 (quarenta e cinco) dias de férias anuais que poderão ser gozadas parceladamente. Aos servidores pertencentes ao Plano de Carreiras e Cargos de Magistério Federal, não se aplicam as disposições do Decreto no 94.664, de 23 de julho de 1987. A partir de 1o de janeiro de 2013, o Incentivo à Qualificação será concedido aos servidores que possuírem certificado, diploma ou titulação que exceda a exigência de escolaridade mínima para ingresso no cargo do qual é titular, independentemente do nível de classificação em que esteja posicionado. 
-
-## 3.2 CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO 
-
-146 
-
-**==> picture [472 x 55] intentionally omitted <==**
+## 3.2 CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO
 
 |||||
 |---|---|---|---|
@@ -3539,12 +2834,6 @@ Aos servidores ocupantes de cargos efetivos pertencentes ao Plano de Carreiras e
 |Douglas Pizólio Lucas|Assistente em<br>Administração|Bacharel em Direito|40 horas|
 |Edilson Bruno Romanini|Técnico de<br>Laboratório|Tecnólogo em Alimentos|40 horas|
 
-
-
-147 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |||||
 |---|---|---|---|
 |Edmar da Silva|Assistente de Alunos|Graduado em História|40 horas|
@@ -3561,12 +2850,6 @@ Aos servidores ocupantes de cargos efetivos pertencentes ao Plano de Carreiras e
 |Klessius<br>Alexandre<br>Guimarães|Administrador|Graduado em Administração|40 horas|
 |Marcos Ayres Barbosa|Psicólogo/Chefe de<br>Seção Pedagógica e<br>Assuntos Estudantis|Mestre em Educação|40 horas|
 
-
-
-148 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |||||
 |---|---|---|---|
 |Marcos Higuti|Assistente de Alunos|Superior Incompleto|40 horas|
@@ -3578,67 +2861,57 @@ Aos servidores ocupantes de cargos efetivos pertencentes ao Plano de Carreiras e
 |Vanilza<br>Valentim<br>dos<br>Santos|Pedagoga|Graduada em Pedagogia<br>Especialização em<br>Psicopedagogia|40 horas|
 |Zineide Pereira dos Santos|Bibliotecária|Graduada em Biblioteconomia|40 horas|
 
+## **3.2.1 Políticas de Capacitação do Técnico Administrativo  em Educação**
 
+As Políticas de Capacitação do Corpo Técnico Administrativo seguem a Resolução CONSUP/IFPR 48/11 do IFPR, que trata do Programa de Qualificação e Formação dos Servidores do IFPR.
 
-## **3.2.1 Políticas de Capacitação do Técnico Administrativo  em Educação** 
+Este Programa enfatiza a formação, qualificação e atualização sistemática em nível de Graduação e Pós-graduação Lato e Stricto Sensu, dos recursos humanos do instituto e de instituições parceiras das redes federal e estadual de ensino para o exercício pleno e eficiente de suas atividades nas instituições de ensino de origem.
 
-As Políticas de Capacitação do Corpo Técnico Administrativo seguem a Resolução CONSUP/IFPR 48/11 do IFPR, que trata do Programa de Qualificação e Formação dos Servidores do IFPR. 
+O Programa de Incentivo à Formação Inicial, Continuada e de Qualificação de Servidores Públicos contemplará, quando possível, os seguintes níveis formativos nas modalidades EAD (Ensino à Distância) e Presencial:
 
-Este Programa enfatiza a formação, qualificação e atualização sistemática em nível de Graduação e Pós-graduação Lato e Stricto Sensu, dos recursos humanos do instituto e de instituições parceiras das redes federal e estadual de ensino para o exercício pleno e eficiente de suas atividades nas instituições de ensino de origem. 
+I. Cursos de Graduação
 
-O Programa de Incentivo à Formação Inicial, Continuada e de Qualificação de Servidores Públicos contemplará, quando possível, os seguintes níveis formativos nas modalidades EAD (Ensino à Distância) e Presencial: 
+II. Cursos de Pós-Graduação Lato Sensu: aperfeiçoamento e Especialização III. Cursos de Pós-Graduação Stricto Sensu: mestrado e doutorado
 
-I. Cursos de Graduação 
+IV. Estágio Pós-Doutoral
 
-II. Cursos de Pós-Graduação Lato Sensu: aperfeiçoamento e Especialização III. Cursos de Pós-Graduação Stricto Sensu: mestrado e doutorado 
+V. Outros cursos, estágios, intercâmbios acadêmico-profissionais ou atividades de capacitação, no interesse da Administração.
 
-149 
+Todos os Técnicos Administrativos do IFPR serão beneficiados, em todos os níveis de carreira, prioritariamente, aqueles que não possuam Pós-Graduação nos níveis de mestrado e doutorado.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Os parâmetros e regulamentos de concessão e remuneração de bolsas terão como base o Programa Institucional de Incentivo ao Ensino, Extensão, Pesquisa e Inovação (PROEPI) do IFPR e os demais auxílios observarão os parâmetros regulamentados pela CAPES e CNPq e demais agências de fomento.
 
-IV. Estágio Pós-Doutoral 
+Segundo o Plano de Desenvolvimento Institucional – PDI do IFPR, “deverá ser construído o Programa de Capacitação e Aperfeiçoamento, com o objetivo de: contribuir para o desenvolvimento do servidor, como profissional e cidadão; capacitá-lo para o desenvolvimento de ações de gestão pública; e para o exercício de atividades de forma articulada com a função social da IE”. Essa medida buscará suprir a necessidade de capacitação do corpo Técnico Administrativo atual e ingressante ao quadro de servidores do Instituto Federal do Paraná.
 
-V. Outros cursos, estágios, intercâmbios acadêmico-profissionais ou atividades de capacitação, no interesse da Administração. 
+A Diretoria de Desenvolvimento de Pessoas, através da Coordenadoria de Capacitação e Aperfeiçoamento apresenta um programa de capacitação para técnicos no qual os próprios servidores podem atuar nos eventos internos de capacitação, apoiando o desenvolvimento da aprendizagem continuada do IFPR, como facilitadores/instrutores.
 
-Todos os Técnicos Administrativos do IFPR serão beneficiados, em todos os níveis de carreira, prioritariamente, aqueles que não possuam Pós-Graduação nos níveis de mestrado e doutorado. 
+São 87 temáticas entre aquelas de interesse para técnico administrativos e docentes. Além destas, há a possibilidade de abertura de outras temáticas, conforme sugestões pelo servidor que irá ministrar o programa de Capacitação. As temáticas apresentam conteúdos diversos, tais como nas áreas de administração, gestão de pessoas, atendimento ao público, informática, línguas estrangeiras, legislação, entre outros.
 
-Os parâmetros e regulamentos de concessão e remuneração de bolsas terão como base o Programa Institucional de Incentivo ao Ensino, Extensão, Pesquisa e Inovação (PROEPI) do IFPR e os demais auxílios observarão os parâmetros regulamentados pela CAPES e CNPq e demais agências de fomento. 
+## **3.2.2 Plano de Cargos e Salários dos Servidores Técnico-Administrativos em Educação**
 
-Segundo o Plano de Desenvolvimento Institucional – PDI do IFPR, “deverá ser construído o Programa de Capacitação e Aperfeiçoamento, com o objetivo de: contribuir para o desenvolvimento do servidor, como profissional e cidadão; capacitá-lo para o desenvolvimento de ações de gestão pública; e para o exercício de atividades de forma articulada com a função social da IE”. Essa medida buscará suprir a necessidade de capacitação do corpo Técnico Administrativo atual e ingressante ao quadro de servidores do Instituto Federal do Paraná. 
+O Plano de Carreira está estruturado em 5 (cinco) níveis de classificação, com 4 (quatro) níveis de capacitação cada. Os cargos do Plano de Carreira são organizados em 5 (cinco) níveis de classificação, A, B, C, D e E.
 
-A Diretoria de Desenvolvimento de Pessoas, através da Coordenadoria de Capacitação e Aperfeiçoamento apresenta um programa de capacitação para técnicos no qual os próprios servidores podem atuar nos eventos internos de capacitação, apoiando o desenvolvimento da aprendizagem continuada do IFPR, como facilitadores/instrutores. 
+São atribuições gerais dos cargos que integram o Plano de Carreira, sem prejuízo das atribuições específicas e observados os requisitos de qualificação e competências definidos nas respectivas especificações:
 
-São 87 temáticas entre aquelas de interesse para técnico administrativos e docentes. Além destas, há a possibilidade de abertura de outras temáticas, conforme sugestões pelo servidor que irá ministrar o programa de Capacitação. As temáticas apresentam conteúdos diversos, tais como nas áreas de administração, gestão de pessoas, atendimento ao público, informática, línguas estrangeiras, legislação, entre outros. 
+I - planejar, organizar, executar ou avaliar as atividades inerentes ao apoio técnico administrativo ao ensino;
 
-## **3.2.2 Plano de Cargos e Salários dos Servidores Técnico-Administrativos em Educação** 
+II - planejar, organizar, executar ou avaliar as atividades técnico-administrativas inerentes à pesquisa e à extensão nas Instituições Federais de Ensino;
 
-O Plano de Carreira está estruturado em 5 (cinco) níveis de classificação, com 4 (quatro) níveis de capacitação cada. Os cargos do Plano de Carreira são organizados em 5 (cinco) níveis de classificação, A, B, C, D e E. 
+III - executar tarefas específicas, utilizando-se de recursos materiais, financeiros e outros de que a Instituição Federal de Ensino disponha, a fim de assegurar a eficiência, a eficácia e a efetividade das atividades de ensino, pesquisa e extensão das Instituições Federais de Ensino. Progressão por Capacitação Profissional é a mudança de nível de capacitação, no
 
-São atribuições gerais dos cargos que integram o Plano de Carreira, sem prejuízo das atribuições específicas e observados os requisitos de qualificação e competências definidos nas respectivas especificações: 
+mesmo cargo e nível de classificação, decorrente da obtenção pelo servidor de certificação em Programa de capacitação, compatível com o cargo ocupado, o ambiente organizacional e a carga horária mínima exigida, respeitado o interstício de 18 (dezoito) meses.
 
-I - planejar, organizar, executar ou avaliar as atividades inerentes ao apoio técnico administrativo ao ensino; 
+Progressão por Mérito Profissional é a mudança para o padrão de vencimento imediatamente subsequente, a cada 2 (dois) anos de efetivo exercício, desde que o servidor apresente resultado fixado em programa de avaliação de desempenho, observado o respectivo nível de capacitação.
 
-II - planejar, organizar, executar ou avaliar as atividades técnico-administrativas inerentes à pesquisa e à extensão nas Instituições Federais de Ensino; 
+O servidor que fizer jus à Progressão por Capacitação Profissional será posicionado no nível de capacitação subsequente, no mesmo nível de classificação, em padrão de vencimento na mesma posição relativa a que ocupava anteriormente, mantida a distância entre o padrão que ocupava e o padrão inicial do novo nível de capacitação.
 
-III - executar tarefas específicas, utilizando-se de recursos materiais, financeiros e outros de que a Instituição Federal de Ensino disponha, a fim de assegurar a eficiência, a eficácia e a efetividade das atividades de ensino, pesquisa e extensão das Instituições Federais de Ensino. Progressão por Capacitação Profissional é a mudança de nível de capacitação, no 
+A mudança de nível de capacitação e de padrão de vencimento não acarretará mudança de nível de classificação. A liberação do servidor para a realização de cursos de Mestrado e Doutorado está condicionada ao resultado favorável na avaliação de desempenho. (Incluído pela Lei nº 11,784, de 2008).
 
-150 
+O Incentivo à Qualificação terá por base percentual calculado sobre o padrão de vencimento percebido pelo servidor, na forma do Anexo IV desta Lei, observados os seguintes parâmetros: (Redação dada pela Lei nº 11,784, de 2008).
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **4. INFRAESTRUTURA**
 
-mesmo cargo e nível de classificação, decorrente da obtenção pelo servidor de certificação em Programa de capacitação, compatível com o cargo ocupado, o ambiente organizacional e a carga horária mínima exigida, respeitado o interstício de 18 (dezoito) meses. 
-
-Progressão por Mérito Profissional é a mudança para o padrão de vencimento imediatamente subsequente, a cada 2 (dois) anos de efetivo exercício, desde que o servidor apresente resultado fixado em programa de avaliação de desempenho, observado o respectivo nível de capacitação. 
-
-O servidor que fizer jus à Progressão por Capacitação Profissional será posicionado no nível de capacitação subsequente, no mesmo nível de classificação, em padrão de vencimento na mesma posição relativa a que ocupava anteriormente, mantida a distância entre o padrão que ocupava e o padrão inicial do novo nível de capacitação. 
-
-A mudança de nível de capacitação e de padrão de vencimento não acarretará mudança de nível de classificação. A liberação do servidor para a realização de cursos de Mestrado e Doutorado está condicionada ao resultado favorável na avaliação de desempenho. (Incluído pela Lei nº 11,784, de 2008). 
-
-O Incentivo à Qualificação terá por base percentual calculado sobre o padrão de vencimento percebido pelo servidor, na forma do Anexo IV desta Lei, observados os seguintes parâmetros: (Redação dada pela Lei nº 11,784, de 2008). 
-
-## **4. INFRAESTRUTURA** 
-
-## 4.1 ÁREAS DE ENSINO ESPECÍFICAS 
+## 4.1 ÁREAS DE ENSINO ESPECÍFICAS
 
 |Ambiente|Existente (sim/não)|A construir (sim/não)|Área (m2)|
 |---|---|---|---|
@@ -3647,9 +2920,7 @@ O Incentivo à Qualificação terá por base percentual calculado sobre o padrã
 |Coordenadoria de curso|Sim|Não|1 x 63 m2|
 |Sala de reuniões|Sim|Não|1 x 63 m2|
 
-
-
-## 4.2 ÁREAS DE ESTUDO GERAL 
+## 4.2 ÁREAS DE ESTUDO GERAL
 
 |Ambiente|Existente (sim/não)|A construir (sim/não)|Área (m2)|
 |---|---|---|---|
@@ -3657,19 +2928,11 @@ O Incentivo à Qualificação terá por base percentual calculado sobre o padrã
 |Laboratório de<br>informática|Sim|Não||
 |Laboratório de física|Sim|Não|80 m2|
 
-
-
-151 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |Laboratório de química|Sim|Não|2 de 75 m2<br>1 de 100m2|
 |---|---|---|---|
 |Laboratório de biologia|Sim|Não|80 m2|
 
-
-
-## 4.3 ÁREAS DE ESTUDO ESPECÍFICO 
+## 4.3 ÁREAS DE ESTUDO ESPECÍFICO
 
 |Ambiente|Existente (sim/não)|A construir (sim/não)|Área (m2)|
 |---|---|---|---|
@@ -3677,23 +2940,13 @@ O Incentivo à Qualificação terá por base percentual calculado sobre o padrã
 |Laboratório<br>de<br>Desenvolvimento<br>de<br>Software|Sim|Não|1 x 63 m2|
 |Laboratório<br>de<br>Automação e Robótica|Sim|Não|1 x 63 m2|
 
+## **Laboratórios de informática I, III e IV**
 
+Estes ambientes são utilizados nas aulas práticas de programação e outras que necessitam de computadores para o desenvolvimento das atividades. A Tabela abaixo apresenta o quantitativo de computadores do laboratório I.
 
-## **Laboratórios de informática I, III e IV** 
+Tabela - Quantitativo de Computadores do Laboratório 1
 
-Estes ambientes são utilizados nas aulas práticas de programação e outras que necessitam de computadores para o desenvolvimento das atividades. A Tabela abaixo apresenta o quantitativo de computadores do laboratório I. 
-
-Tabela - Quantitativo de Computadores do Laboratório 1 
-
-**==> picture [468 x 199] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Relação de computadores – Laboratório I<br>Descrição  Quantidade<br>COMPUTADOR DESKTOP, MOD.COMPAQ 6305 ELITE SFF, 500  30<br>HD, 8G MEMÓRIA, PROCESSADOR AMD A8-5500B, TECLADO,<br>MOUSE, MONITOR HP V206hz<br>**----- End of picture text -----**<br>
-
-
-152 
-
-**==> picture [472 x 55] intentionally omitted <==**
+Relação de computadores – Laboratório I<br>Descrição  Quantidade<br>COMPUTADOR DESKTOP, MOD.COMPAQ 6305 ELITE SFF, 500  30<br>HD, 8G MEMÓRIA, PROCESSADOR AMD A8-5500B, TECLADO,<br>MOUSE, MONITOR HP V206hz<br>
 
 |||
 |---|---|
@@ -3702,11 +2955,9 @@ Relação de computadores – Laboratório I<br>Descrição  Quantidade<br>COMPU
 |**TOTAL:**|**31**|
 |||
 
+A Tabela a seguir apresenta o quantitativo de computadores do Laboratório de Informática III.
 
-
-A Tabela a seguir apresenta o quantitativo de computadores do Laboratório de Informática III. 
-
-Tabela - Quantitativo de Computadores 
+Tabela - Quantitativo de Computadores
 
 |||
 |---|---|
@@ -3719,17 +2970,11 @@ Tabela - Quantitativo de Computadores
 |COMPUTADOR DESKTOP, MOD.COMPAQ 6305 ELITE SFF,<br>500 HD, 8G MEMÓRIA, PROCESSADOR AMD A8-5500B,<br>TECLADO, MOUSE, MONITOR HP V206hz|5|
 |COMPUTADOR DESKTOP, MOD.COMPAQ 8200 ELITE SFF,<br>500 HD, 4G MEMÓRIA, PROCESSADOR I5 VPRO,<br>TECLADO, MOUSE, WEB CAM, MONITOR HP L1910|20|
 
+**TOTAL: 30**
 
+A Tabela a seguir apresenta o quantitativo de computadores do Laboratório de Informática IV.
 
-153 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-**TOTAL: 30** 
-
-A Tabela a seguir apresenta o quantitativo de computadores do Laboratório de Informática IV. 
-
-Tabela - Quantitativo de Computadores 
+Tabela - Quantitativo de Computadores
 
 |||
 |---|---|
@@ -3743,17 +2988,11 @@ Tabela - Quantitativo de Computadores
 |**TOTAL:**|**20**|
 |||
 
+## **Laboratório de Desenvolvimento de Software - Laboratório 2**
 
+Este ambiente também é utilizado para o desenvolvimento de várias atividades, além das aulas. Neste laboratório, também estão alocados os equipamentos utilizados nas aulas de Desenvolvimento para Dispositivos Móveis, como os _tablets,_ e os softwares específicos para esse fim. Também, está instalado no laboratório o programa CEDI (Centro de Desenvolvimento em Informática), que tem como objetivo proporcionar aos alunos a oportunidade de projetar e implementar produtos computacionais, colocando em prática todo o conhecimento adquirido ao longo das disciplinas dos cursos oferecidos pela Instituição. A tabela a seguir apresenta o quantitativo dos equipamentos.
 
-## **Laboratório de Desenvolvimento de Software - Laboratório 2** 
-
-Este ambiente também é utilizado para o desenvolvimento de várias atividades, além das aulas. Neste laboratório, também estão alocados os equipamentos utilizados nas aulas de Desenvolvimento para Dispositivos Móveis, como os _tablets,_ e os softwares específicos para esse fim. Também, está instalado no laboratório o programa CEDI (Centro de Desenvolvimento em Informática), que tem como objetivo proporcionar aos alunos a oportunidade de projetar e implementar produtos computacionais, colocando em prática todo o conhecimento adquirido ao longo das disciplinas dos cursos oferecidos pela Instituição. A tabela a seguir apresenta o quantitativo dos equipamentos. 
-
-154 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-Tabela - Quantitativo de Computadores 
+Tabela - Quantitativo de Computadores
 
 |||
 |---|---|
@@ -3770,19 +3009,13 @@ Tabela - Quantitativo de Computadores
 |**TOTAL:**|**39**|
 |||
 
+## **Laboratório de Automação e Robótica - Laboratório 5**
 
+Este é um laboratório multidisciplinar, utilizado para diversos fins. Ele é utilizado principalmente nas aulas e/ou minicursos de robótica, automação, hardware, sistemas operacionais e redes. Os computadores não possuem senha de acesso, para que os alunos fiquem livres para realizar testes e instalações de software aplicativos, sistemas operacionais e outros. Outra característica do laboratório são as bancadas, que visam facilitar o manuseio de hardware. Além das aulas e/ou minicursos, esse laboratório é utilizado para a realização de alguns projetos de pesquisa e extensão, como por exemplo, o Programa de Educação em Sistemas de Computação (PESC).
 
-## **Laboratório de Automação e Robótica - Laboratório 5** 
+Além dos computadores e bancadas, uma pista padrão Olimpíada Brasileira de Robótica (OBR), uma pista de lona emborrachada para realização dos testes e treinamento dos robôs seguidores de linha e uma pista para a treinamento e competição de sumô de robôs. A tabela abaixo apresenta o quantitativo dos equipamentos deste laboratório.
 
-Este é um laboratório multidisciplinar, utilizado para diversos fins. Ele é utilizado principalmente nas aulas e/ou minicursos de robótica, automação, hardware, sistemas operacionais e redes. Os computadores não possuem senha de acesso, para que os alunos fiquem livres para realizar testes e instalações de software aplicativos, sistemas operacionais e outros. Outra característica do laboratório são as bancadas, que visam facilitar o manuseio de hardware. Além das aulas e/ou minicursos, esse laboratório é utilizado para a realização de alguns projetos de pesquisa e extensão, como por exemplo, o Programa de Educação em Sistemas de Computação (PESC). 
-
-155 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-Além dos computadores e bancadas, uma pista padrão Olimpíada Brasileira de Robótica (OBR), uma pista de lona emborrachada para realização dos testes e treinamento dos robôs seguidores de linha e uma pista para a treinamento e competição de sumô de robôs. A tabela abaixo apresenta o quantitativo dos equipamentos deste laboratório. 
-
-Tabela - Quantitativo de Computadores 
+Tabela - Quantitativo de Computadores
 
 |||
 |---|---|
@@ -3803,12 +3036,6 @@ Tabela - Quantitativo de Computadores
 |Arduino Ethernet Shield|5|
 |||
 |||
-
-
-
-156 
-
-**==> picture [472 x 55] intentionally omitted <==**
 
 |||
 |---|---|
@@ -3857,12 +3084,6 @@ Tabela - Quantitativo de Computadores
 |||
 |||
 
-
-
-157 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |||
 |---|---|
 |LED diversos|100|
@@ -3909,12 +3130,6 @@ Tabela - Quantitativo de Computadores
 |||
 |||
 
-
-
-158 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |||
 |---|---|
 |Sugador de solda|1|
@@ -3933,9 +3148,7 @@ Tabela - Quantitativo de Computadores
 |||
 |||
 
-
-
-## 4.4 ÁREAS DE ESPORTE E VIVÊNCIA 
+## 4.4 ÁREAS DE ESPORTE E VIVÊNCIA
 
 |Existente (sim/não)|A construir (sim/não)|Área (m2)|
 |---|---|---|
@@ -3943,9 +3156,7 @@ Tabela - Quantitativo de Computadores
 |Sim|Não|1 x 19,43 m2|
 |Não|Não||
 
-
-
-## 4.5 ÁREAS DE ATENDIMENTO DISCENTE 
+## 4.5 ÁREAS DE ATENDIMENTO DISCENTE
 
 |Ambiente|Existente (sim/não)|A construir (sim/não)|Área (m2)|
 |---|---|---|---|
@@ -3955,38 +3166,28 @@ Tabela - Quantitativo de Computadores
 |Primeiros socorros|Não|Não||
 |Serviço social|Sim|Não|1  x 70 m2|
 
-
-
-## 4.6 ÁREAS DE APOIO 
+## 4.6 ÁREAS DE APOIO
 
 |Ambiente|Existente (sim/não)|A construir (sim/não)|Área (m2)|
 |---|---|---|---|
 |Auditório|Não|Não||
 |Salão de convenção|Não|Não||
 
-
-
-159 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |Sala de áudio-visual|Não|Não||
 |---|---|---|---|
 |Mecanografia|Não|Não||
 
+## 4.7 BIBLIOTECA
 
+A Biblioteca do IFPR - Campus Paranavaí tem por finalidade apoiar as atividades acadêmicas, nas funções de ministrar ensino, realizar pesquisas e desenvolver programas de extensão. Ela está alocada em área física de 486,9m² com capacidade de assento para 51 estudantes. Além disso, a biblioteca oferece aos estudantes 24 computadores de uso geral. Todo o acervo, concernentes aos cursos ministrados no campus, está concentrado em um único espaço físico.
 
-## 4.7 BIBLIOTECA 
+A seguir, são apresentados detalhes sobre o acervo e sobre o funcionamento da biblioteca.
 
-A Biblioteca do IFPR - Campus Paranavaí tem por finalidade apoiar as atividades acadêmicas, nas funções de ministrar ensino, realizar pesquisas e desenvolver programas de extensão. Ela está alocada em área física de 486,9m² com capacidade de assento para 51 estudantes. Além disso, a biblioteca oferece aos estudantes 24 computadores de uso geral. Todo o acervo, concernentes aos cursos ministrados no campus, está concentrado em um único espaço físico. 
+## **4.7.1 Acervo Bibliográfico**
 
-A seguir, são apresentados detalhes sobre o acervo e sobre o funcionamento da biblioteca. 
+O Acervo da biblioteca é constituído de documentos referentes às áreas de ciências humanas, biológicas e da saúde, exatas e tecnológica, sociais e aplicadas e agrárias, e está informatizado. O acesso às coleções é aberto aos usuários, possibilitando que eles próprios busquem a informação desejada. A descrição da coleção é feita com base no código de catalogação AACR-2, a classificação na tabela CDD e notação de autor na tabela Cutter.
 
-## **4.7.1 Acervo Bibliográfico** 
-
-O Acervo da biblioteca é constituído de documentos referentes às áreas de ciências humanas, biológicas e da saúde, exatas e tecnológica, sociais e aplicadas e agrárias, e está informatizado. O acesso às coleções é aberto aos usuários, possibilitando que eles próprios busquem a informação desejada. A descrição da coleção é feita com base no código de catalogação AACR-2, a classificação na tabela CDD e notação de autor na tabela Cutter. 
-
-Tabela - Representação numérica do acervo geral 
+Tabela - Representação numérica do acervo geral
 
 ||||
 |---|---|---|
@@ -3999,13 +3200,7 @@ Tabela - Representação numérica do acervo geral
 |**TOTAL**|**3.760**|**11.151**|
 ||||
 
-
-
-160 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-Tabela - Acervo de livros, segundo as áreas de conhecimento da CAPES/CNPq 
+Tabela - Acervo de livros, segundo as áreas de conhecimento da CAPES/CNPq
 
 ||||
 |---|---|---|
@@ -4023,13 +3218,7 @@ Tabela - Acervo de livros, segundo as áreas de conhecimento da CAPES/CNPq
 |**TOTAL:**|**3.882**|**13.204**|
 ||||
 
-
-
-161 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-Tabela - Acervo de livros por eixo tecnológico do campus 
+Tabela - Acervo de livros por eixo tecnológico do campus
 
 ||||
 |---|---|---|
@@ -4046,67 +3235,57 @@ Tabela - Acervo de livros por eixo tecnológico do campus
 |**TOTAL:**|**2.066**|**9.131**|
 ||||
 
+## **4.7.2 Periódicos Especializados**
 
+Além do acervo físico, como forma de incentivar uma investigação mais aprofundada a respeito dos assuntos tratados nos pilares da instituição – Ensino, Pesquisa, Extensão e Inovação - o IFPR oferece aos servidores e estudantes acesso remoto via Comunidade Acadêmica Federada (CAFe) ao Portal de Periódicos da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). Este tipo de acesso é possível quando a instituição participa da Comunidade mantida pela Rede Nacional de Ensino e Pesquisa (RNP).
 
-## **4.7.2 Periódicos Especializados** 
+O Portal de Periódicos permite consulta a informação científica internacional de várias formas como, por exemplo, busca por assunto, periódico, livro e base. O próprio portal oferta
 
-Além do acervo físico, como forma de incentivar uma investigação mais aprofundada a respeito dos assuntos tratados nos pilares da instituição – Ensino, Pesquisa, Extensão e Inovação - o IFPR oferece aos servidores e estudantes acesso remoto via Comunidade Acadêmica Federada (CAFe) ao Portal de Periódicos da Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES). Este tipo de acesso é possível quando a instituição participa da Comunidade mantida pela Rede Nacional de Ensino e Pesquisa (RNP). 
+gratuitamente treinamentos online para o correto uso da plataforma, agendados por áreas, com a participação de representantes das editoras e sociedades científicas com as quais a Capes assina os conteúdos. Além disso, também é ofertado presencialmente aos acadêmicos orientações de uso da plataforma e incentivado o seu uso. Além do acesso às bases gratuitas, o IFPR oferece acesso a outras 168 bases pagas.
 
-O Portal de Periódicos permite consulta a informação científica internacional de várias formas como, por exemplo, busca por assunto, periódico, livro e base. O próprio portal oferta 
+## **4.7.3 Serviços prestados pela Biblioteca**
 
-162 
+Como um dos instrumentos essenciais ao processo de ensino-aprendizagem, a biblioteca oferece vários serviços aos seus usuários, docentes, discentes e técnicos administrativos, visando promover o acesso e o uso da informação.
 
-**==> picture [472 x 55] intentionally omitted <==**
+A biblioteca disponibiliza dois computadores conectados à Internet, um roteador que permite o acesso a Internet para usuários que possuem _Notebook,_ além dos serviços comuns como os empréstimos domiciliares e entre bibliotecas, educação de usuários e orientação de normalização de trabalhos acadêmicos.
 
-gratuitamente treinamentos online para o correto uso da plataforma, agendados por áreas, com a participação de representantes das editoras e sociedades científicas com as quais a Capes assina os conteúdos. Além disso, também é ofertado presencialmente aos acadêmicos orientações de uso da plataforma e incentivado o seu uso. Além do acesso às bases gratuitas, o IFPR oferece acesso a outras 168 bases pagas. 
+## **4.7.4 Automação**
 
-## **4.7.3 Serviços prestados pela Biblioteca** 
+Os serviços de catalogação e empréstimos encontram-se automatizados, sendo que o _software_ brasileiro adquirido para o gerenciamento dos dados é o _Pergamum_ . O sistema permite fazer empréstimos, renovações e reservas dos materiais bibliográficos. A pesquisa pode ser realizada em uma ou em todas as bibliotecas do IFPR, para saber a localização do item pesquisado.
 
-Como um dos instrumentos essenciais ao processo de ensino-aprendizagem, a biblioteca oferece vários serviços aos seus usuários, docentes, discentes e técnicos administrativos, visando promover o acesso e o uso da informação. 
+O _software_ permite ao usuário recuperar qualquer item da coleção, quer por autor, título, assunto ou termo livre, bem como, saber se o item encontra-se disponível ou emprestado. Toda essa diversidade de possibilidades permite que além do acervo local o usuário também possa dispor dos livros de todas as bibliotecas dos Campi, utilizando-se do empréstimo entre bibliotecas. O catálogo online pode ser acessado por meio da página <http://paranavai.ifpr.edu.br/menu-institucional/biblioteca/>.
 
-A biblioteca disponibiliza dois computadores conectados à Internet, um roteador que permite o acesso a Internet para usuários que possuem _Notebook,_ além dos serviços comuns como os empréstimos domiciliares e entre bibliotecas, educação de usuários e orientação de normalização de trabalhos acadêmicos. 
+Na área da catalogação o sistema faz importação de dados de outras bibliotecas usuárias do sistema _Pergamum_ e cria uma rede de catalogação cooperativa facilitando e agilizando o serviço de catalogação de cada unidade.
 
-## **4.7.4 Automação** 
+## **4.7.5 Sistema de Empréstimo**
 
-Os serviços de catalogação e empréstimos encontram-se automatizados, sendo que o _software_ brasileiro adquirido para o gerenciamento dos dados é o _Pergamum_ . O sistema permite fazer empréstimos, renovações e reservas dos materiais bibliográficos. A pesquisa pode ser realizada em uma ou em todas as bibliotecas do IFPR, para saber a localização do item pesquisado. 
+O sistema de empréstimo domiciliar está disponível aos usuários do Paranavaí do IFPR cadastrados no Sistema da Biblioteca e portadores do Registro Acadêmico (carteira estudantil). O acervo da biblioteca do IF está aberto à comunidade externa para consultas.
 
-O _software_ permite ao usuário recuperar qualquer item da coleção, quer por autor, título, assunto ou termo livre, bem como, saber se o item encontra-se disponível ou emprestado. Toda essa diversidade de possibilidades permite que além do acervo local o usuário também possa dispor dos livros de todas as bibliotecas dos Campi, utilizando-se do empréstimo entre bibliotecas. O catálogo online pode ser acessado por meio da página <http://paranavai.ifpr.edu.br/menu-institucional/biblioteca/>. 
+## _4.7.5.1 Prazos e Quantidades_
 
-Na área da catalogação o sistema faz importação de dados de outras bibliotecas usuárias do sistema _Pergamum_ e cria uma rede de catalogação cooperativa facilitando e agilizando o serviço de catalogação de cada unidade. 
+Alunos: até 2 exemplares por 7 dias consecutivos;
 
-## **4.7.5 Sistema de Empréstimo** 
+Servidores técnico-administrativos: até 2 exemplares por 7 dias consecutivos;
 
-O sistema de empréstimo domiciliar está disponível aos usuários do Paranavaí do IFPR cadastrados no Sistema da Biblioteca e portadores do Registro Acadêmico (carteira estudantil). O acervo da biblioteca do IF está aberto à comunidade externa para consultas. 
+Servidores Docentes: até 3 exemplares por 21 dias corridos e por componente curricular;
 
-## _4.7.5.1 Prazos e Quantidades_ 
+Servidores terceirizados: até 2 exemplares por 7 dias consecutivos.
 
-Alunos: até 2 exemplares por 7 dias consecutivos; 
+## _4.7.5.2 Devoluções_
 
-163 
+Caso ocorra atraso na devolução de qualquer material, o usuário fica suspenso e não pode fazer novos empréstimos até o fim da suspensão, a qual é de dois dias úteis e somente para os serviços da biblioteca.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## _4.7.5.3 Reservas_
 
-Servidores técnico-administrativos: até 2 exemplares por 7 dias consecutivos; 
+As reservas de materiais obedecem a ordem de solicitação, o próprio usuário é o responsável pela verificação da sequência. Podem ser reservados somente os livros que se encontram com todos os exemplares emprestados.
 
-Servidores Docentes: até 3 exemplares por 21 dias corridos e por componente curricular; 
+## _4.7.5.4 Renovações_
 
-Servidores terceirizados: até 2 exemplares por 7 dias consecutivos. 
+A renovação deve ser feita pelo próprio usuário na biblioteca e/ou pela Internet. Os livros podem ser renovados até 2 vezes.
 
-## _4.7.5.2 Devoluções_ 
+## **5. PLANEJAMENTO ECONÔMICO FINANCEIRO**
 
-Caso ocorra atraso na devolução de qualquer material, o usuário fica suspenso e não pode fazer novos empréstimos até o fim da suspensão, a qual é de dois dias úteis e somente para os serviços da biblioteca. 
-
-## _4.7.5.3 Reservas_ 
-
-As reservas de materiais obedecem a ordem de solicitação, o próprio usuário é o responsável pela verificação da sequência. Podem ser reservados somente os livros que se encontram com todos os exemplares emprestados. 
-
-## _4.7.5.4 Renovações_ 
-
-A renovação deve ser feita pelo próprio usuário na biblioteca e/ou pela Internet. Os livros podem ser renovados até 2 vezes. 
-
-## **5. PLANEJAMENTO ECONÔMICO FINANCEIRO** 
-
-## 5.1 EXPANSÃO DO QUADRO DOCENTE 
+## 5.1 EXPANSÃO DO QUADRO DOCENTE
 
 |||||
 |---|---|---|---|
@@ -4117,13 +3296,7 @@ A renovação deve ser feita pelo próprio usuário na biblioteca e/ou pela Inte
 |2021|0|||
 |2022|1|Bacharel em Ciência da Computação,<br>Engenharia de Software, Engenharia<br>da Computação ou Sistemas de<br>Informação|Teste de Software (TES)<br>Novas Aplicações em Engenharia<br>de Software (NAES)|
 
-
-
-164 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-5.2 PROJEÇÃO DE AQUISIÇÃO DE MATERIAIS PERMANENTE E CONSUMO 
+5.2 PROJEÇÃO DE AQUISIÇÃO DE MATERIAIS PERMANENTE E CONSUMO
 
 |**DESCRIÇÃO DO ESPAÇO OU EQUIPAMENTO**|**QUANTIDADE**|**VALOR ESTIMADO**<br>**(TOTAL - R$)**|
 |---|---|---|
@@ -4132,25 +3305,17 @@ A renovação deve ser feita pelo próprio usuário na biblioteca e/ou pela Inte
 |Substituição dos computadores do laboratório 3|30|150000,00|
 |**INVESTIMENTO TOTAL**||180000,00|
 
+## 5.3 PROJEÇÃO DE AQUISIÇÃO DE ACERVO BIBLIOGRÁFICO
 
+Quadro - Projeção de Aquisição de Livros para o Curso de Bacharelado em Engenharia de
 
-## 5.3 PROJEÇÃO DE AQUISIÇÃO DE ACERVO BIBLIOGRÁFICO 
-
-Quadro - Projeção de Aquisição de Livros para o Curso de Bacharelado em Engenharia de 
-
-Software. 
+Software.
 
 |**Título**|**Autor**|**Edição**|**ISBN**|**Vol**|**Ano**|**Editora**|**Quantidade**|**Valor**<br>**Médio**|
 |---|---|---|---|---|---|---|---|---|
 |Sistema de banco<br>de dados|SILBERSCHATZ,<br>Abraham;<br>KORTH, Henry F.;<br>SUDARSHAN, S.|<br>6|9788535245356||2015|Campus -<br>Elsevier|8|187,52|
 |Gerenciamento<br>de Projetos<br>Fundamentos e<br>Prática Integrada|Marta Camargo|1|9788535263664||2014|Campus<br>Elsevier|8|57,12|
 |Governança de<br>Tecnologia da<br>Informação e<br>Comunicação<br>(TIC)|JENNER SOUZA|1|8539906813||2015|Ciência<br>moderna|8|36,23|
-
-
-
-165 
-
-**==> picture [472 x 55] intentionally omitted <==**
 
 |Gerenciamento<br>de Projetos:<br>Estabelecendo<br>Diferenciais<br>Competitivos|Ricardo Vargas|8|8574528366||2016|Brasport|8|80,60|
 |---|---|---|---|---|---|---|---|---|
@@ -4163,12 +3328,6 @@ Software.
 |Ética|SÁNCHEZ<br>VÁZQUEZ,<br>Adolfo|37|9788520010143|único|2017|Civilização<br>Brasileira|7|33,84|
 |O espetáculo das<br>raças: cientistas,<br>instituições e<br>questão racial no<br>Brasil 1870-1930|SCHWARCZ,<br>Lilia Moritz|1|8571643296|único|1993|Companhia<br>das Letras|8|45,07|
 |Textos básicos de<br>ética: de Platão a<br>Foucault|SOUZA FILHO,<br>Danilo Marcondes<br>de|1|9788571109674|único|2007|Zahar|5|41,83|
-
-
-
-166 
-
-**==> picture [472 x 55] intentionally omitted <==**
 
 |Bioética: meio<br>ambiente, saúde e<br>pesquisa|<br>SILVA, José Vitor<br>da (Org.)|1.ed.|9788576140429|1|2006|Iátria|6|58,85|
 |---|---|---|---|---|---|---|---|---|
@@ -4183,12 +3342,6 @@ Software.
 |Estruturas de<br>Dados|Fabiana Lorenzi,<br>Patrícia Noll de<br>Mattos, Tanisi<br>Pereira de<br>Carvalho||8522105561||2007|Thomson<br>Learning|5|65,91|
 |Estruturas de<br>Dados|Nina Edelweiss,<br>Renata Galante||9788577803811||2009|Bookman||68,24|
 
-
-
-167 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |Introdução à<br>programação<br>com Python:<br>algoritmos e<br>lógica de<br>programação<br>para iniciantes|Nilo Ney Coutinho<br>Menezes||9788575222508||2010|Novatec|1|51,37|
 |---|---|---|---|---|---|---|---|---|
 |Estruturas de<br>dados e<br>algoritmos em<br>Java|GOODRICH,<br>Michael T.;<br>TAMASSIA,<br>Roberto|5|9788582600184||2013|Bookman|2|132,94|
@@ -4198,979 +3351,837 @@ Software.
 |ANÁLISE E<br>PROJETO DE<br>SISTEMAS|ALAN DENNIS,<br>BARBARA<br>HALEY E<br>ROBERTA M.<br>ROTH|3|9788521625094|1|2014|LTC|8|183,90|
 |Princípios de<br>Análise e<br>Projetos de<br>Sistemas com<br>UML|Eduardo Bezerra|3|978-<br>8535226263|1|2014|Elsevier|8|70,44|
 
+## **REFERÊNCIAS**
 
+ACM. _Curriculum Guidelines for Undergraduate Degree Programs in Software Engineering_ . _**A Volume of the Computing Curricula Series.**_ 23 de agosto de 2004. Disponível em - https://www.acm.org/binaries/content/assets/education/curricula recommendations/se2004volume.pdf.
 
-168 
+ACM. _Curriculum Guidelines for Undergraduate Degree Programs in Software Engineering_ . _**A Volume of the Computing Curricula Series.**_ 23 de fevereiro de 2015. Disponível em https://www.acm.org/binaries/content/assets/education/se2014.pdf.
 
-**==> picture [472 x 55] intentionally omitted <==**
+BRASIL. **Lei de Diretrizes e Bases da Educação Nacional** . Lei no 9.394, de 20 de dezembro de 1996.
 
-## **REFERÊNCIAS** 
+______. **Lei nº.12.777, de 28 de dezembro de 2012** . Altera o Plano de Carreira dos Servidores da Câmara dos Deputados. Brasília: Casa Civil, 2012.
 
-ACM. _Curriculum Guidelines for Undergraduate Degree Programs in Software Engineering_ . _**A Volume of the Computing Curricula Series.**_ 23 de agosto de 2004. Disponível em - https://www.acm.org/binaries/content/assets/education/curricula recommendations/se2004volume.pdf. 
+______. **Resolução CNE/CEB nº 06, de 20 de setembro de 2012** . Define diretrizes curriculares nacionais para a educação profissional técnica de nível médio. Brasília: MEC/CNE, 2012.
 
-ACM. _Curriculum Guidelines for Undergraduate Degree Programs in Software Engineering_ . _**A Volume of the Computing Curricula Series.**_ 23 de fevereiro de 2015. Disponível em https://www.acm.org/binaries/content/assets/education/se2014.pdf. 
+______. **Resolução nº 1, de 17 de junho de 2010** . Normativa o Núcleo Docente Estruturante e dá outras providências. Brasília: CONAES, 2010.
 
-BRASIL. **Lei de Diretrizes e Bases da Educação Nacional** . Lei no 9.394, de 20 de dezembro de 1996. 
+______. **Lei nº.11.892, de 29 de dezembro 2008** . Institui a Rede Federal de Educação Profissional, Científica e Tecnológica; cria os Institutos Federais de Educação, Ciência e Tecnologia. Brasília: Casa Civil, 2008.
 
-______. **Lei nº.12.777, de 28 de dezembro de 2012** . Altera o Plano de Carreira dos Servidores da Câmara dos Deputados. Brasília: Casa Civil, 2012. 
+**º** ______. **Lei n 11.784, de 22 de setembro de 2008** . Dispõe sobre a reestruturação do Plano Geral de Cargos do Poder Executivo – PGPE. Brasília: Casa Civil, 2008.
 
-______. **Resolução CNE/CEB nº 06, de 20 de setembro de 2012** . Define diretrizes curriculares nacionais para a educação profissional técnica de nível médio. Brasília: MEC/CNE, 2012. 
+______. **Decreto nº.5.773, de 09 de maio de 2006** . Dispõe sobre o exercício das funções de regulação, supervisão e avaliação de instituições de educação superior e cursos superiores de graduação e sequenciais no sistema federal de ensino. Brasília: Casa Civil, 2006.
 
-______. **Resolução nº 1, de 17 de junho de 2010** . Normativa o Núcleo Docente Estruturante e dá outras providências. Brasília: CONAES, 2010. 
+______. **Parecer CNE/CEB nº.221, de 4 de agosto de 2004** . Brasília: CNE/CEB, 2004. Disponível em: <http://portal.mec.gov.br/cne/arquivos/pdf/2004/pces221_04.pdf>. Acesso em: 23 out. 2014.
 
-______. **Lei nº.11.892, de 29 de dezembro 2008** . Institui a Rede Federal de Educação Profissional, Científica e Tecnológica; cria os Institutos Federais de Educação, Ciência e Tecnologia. Brasília: Casa Civil, 2008. 
+______. **Decreto nº 5.296, de 2 de dezembro de 2004** . Regulamenta as Leis n[os] 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e 10.098, de 19
 
-**º** ______. **Lei n 11.784, de 22 de setembro de 2008** . Dispõe sobre a reestruturação do Plano Geral de Cargos do Poder Executivo – PGPE. Brasília: Casa Civil, 2008. 
+de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências. Brasília: Casa Civil, 2004.
 
-______. **Decreto nº.5.773, de 09 de maio de 2006** . Dispõe sobre o exercício das funções de regulação, supervisão e avaliação de instituições de educação superior e cursos superiores de graduação e sequenciais no sistema federal de ensino. Brasília: Casa Civil, 2006. 
+______. **Lei nº. 10.891, de 9 de julho de 2004** . Institui a Bolsa-Atleta. Disponível em: <http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.861.htm>. Acesso em 20/11/2011.
 
-______. **Parecer CNE/CEB nº.221, de 4 de agosto de 2004** . Brasília: CNE/CEB, 2004. Disponível em: <http://portal.mec.gov.br/cne/arquivos/pdf/2004/pces221_04.pdf>. Acesso em: 23 out. 2014. 
+______. **Lei nº. 10.891, de 14 de abril de 2004** . Institui o Sistema Nacional de Avaliação da Educação Superior (SINAES) e dá outras providências. Disponível em: <http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.861.htm>. Acesso em: 20 nov. 2011.
 
-______. **Decreto nº 5.296, de 2 de dezembro de 2004** . Regulamenta as Leis n[os] 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e 10.098, de 19 
+______. **CNE/CP nº. 03 de 18 de dezembro de 2002** . Institui as Diretrizes Curriculares Nacionais para a Organização e o Funcionamento dos Cursos Superiores de Tecnologia. Brasília: 2002.
 
-169 
+______. **Parecer CNE/CP nº 9, de 08 de maio de 2001** . Trata das Diretrizes Curriculares Nacionais para a Formação de Professores da Educação Básica, em nível superior, curso de licenciatura, de graduação plena. Brasília: CNE/CEB, 2001.
 
-**==> picture [472 x 55] intentionally omitted <==**
+______. **Lei nº. 10.098, de 19 de dezembro de 2000** . Estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida. Brasília: Casa Civil, 2000.
 
-de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências. Brasília: Casa Civil, 2004. 
+______. **Lei nº.10.048, de 8 de novembro de 2000** . Dá prioridade de atendimento às pessoas que especifica. Brasília: Casa Civil, 2000.
 
-______. **Lei nº. 10.891, de 9 de julho de 2004** . Institui a Bolsa-Atleta. Disponível em: <http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.861.htm>. Acesso em 20/11/2011. 
+______. **Lei nº 9.394, de 20 de dezembro de 1996** . Estabelece as diretrizes e bases da educação nacional. Brasília/DF: 1996.
 
-______. **Lei nº. 10.891, de 14 de abril de 2004** . Institui o Sistema Nacional de Avaliação da Educação Superior (SINAES) e dá outras providências. Disponível em: <http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/lei/l10.861.htm>. Acesso em: 20 nov. 2011. 
+______. **Resolução CNE/CES nº 05, de 16 de novembro de 2016** . Institui as Diretrizes Curriculares Nacionais para os cursos de graduação na área da Computação. Brasília: MEC/CNE, 2016.
 
-______. **CNE/CP nº. 03 de 18 de dezembro de 2002** . Institui as Diretrizes Curriculares Nacionais para a Organização e o Funcionamento dos Cursos Superiores de Tecnologia. Brasília: 2002. 
+BURIASCO, Regina Luzia Corio de. Sobre avaliação em Matemática: uma reflexão. **Educação em Revista** , Belo Horizonte, n. 36, p. 255-264, dez. 2002.
 
-______. **Parecer CNE/CP nº 9, de 08 de maio de 2001** . Trata das Diretrizes Curriculares Nacionais para a Formação de Professores da Educação Básica, em nível superior, curso de licenciatura, de graduação plena. Brasília: CNE/CEB, 2001. 
+CPA. **Relatório de Auto-Avaliação do IFPR – 2010.** Curitiba, 2011. Disponível em: <http://reitoria.ifpr.edu.br/wp-content/uploads/2011/06/relatorio2010.pdf>. Acesso em: 20 nov. 2011.
 
-______. **Lei nº. 10.098, de 19 de dezembro de 2000** . Estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida. Brasília: Casa Civil, 2000. 
+CONAES. Comissão Nacional de Avaliação da Educação Superior. **Resolução nº 01** , de 17 de junho de 2010: normatiza o Núcleo Docente Estruturante e dá outras providências. Brasília: CONAES, 2010.
 
-______. **Lei nº.10.048, de 8 de novembro de 2000** . Dá prioridade de atendimento às pessoas que especifica. Brasília: Casa Civil, 2000. 
+DEMO, Pedro. **Pesquisa Princípio Científico e Educativo** . 12. ed. São Paulo: Cortez, 2006.
 
-______. **Lei nº 9.394, de 20 de dezembro de 1996** . Estabelece as diretrizes e bases da educação nacional. Brasília/DF: 1996. 
+FIEP. **Perfis profissionais para o futuro da indústria paranaense: Tecnologia da Informação e Comunicação** . ISBN 978-85-88980-85-3. Curitiba: Senai/PR, 2014.
 
-______. **Resolução CNE/CES nº 05, de 16 de novembro de 2016** . Institui as Diretrizes Curriculares Nacionais para os cursos de graduação na área da Computação. Brasília: MEC/CNE, 2016. 
+FIEP. **Setores Portadores de Futuro para o Estado do Paraná 2015-2025** . ISBN 978-85-5520-
 
-BURIASCO, Regina Luzia Corio de. Sobre avaliação em Matemática: uma reflexão. **Educação em Revista** , Belo Horizonte, n. 36, p. 255-264, dez. 2002. 
+005-2. Curitiba: Senai/PR, 2016.
 
-170 
+FOUREZ, G. El movimiento ciência, tecnologia, sociedad (CTS) y la enseñanza de lãs ciencias. **Perspectivas UNESCO** , vol. XXV, nº 1, p. 27-40, março 1995.
 
-**==> picture [472 x 55] intentionally omitted <==**
+_FREIRE, Paulo._ _**Pedagogia do Oprimido** . 27. ed. Rio de Janeiro: Paz e Terra, 1999._
 
-CPA. **Relatório de Auto-Avaliação do IFPR – 2010.** Curitiba, 2011. Disponível em: <http://reitoria.ifpr.edu.br/wp-content/uploads/2011/06/relatorio2010.pdf>. Acesso em: 20 nov. 2011. 
+_IFPR. Instituto Federal do Paraná._ _**Instituto Federal do Paraná. Resolução IFPR/CONSUP nº. 08, de 30 de abril de 2014** . Regulamenta o Regimento Interno Comum aos Campi do IFPR. Curitiba: IFPR/CONSUP, 2014._
 
-CONAES. Comissão Nacional de Avaliação da Educação Superior. **Resolução nº 01** , de 17 de junho de 2010: normatiza o Núcleo Docente Estruturante e dá outras providências. Brasília: CONAES, 2010. 
+_______._ _**Estatuto** . Aprovado pela Resolução nº 13/2011-CONSUP, Retificado pela Resolução nº.39/2012-CONSUP e Resolução nº 02/2014-CONSUP. Curitiba: CONSUP/IFPR, 2014._
 
-DEMO, Pedro. **Pesquisa Princípio Científico e Educativo** . 12. ed. São Paulo: Cortez, 2006. 
+______. **Relatório de Auto-avaliação do IFPR 2011** . Curitiba: IFPR/CPA, 2012.
 
-FIEP. **Perfis profissionais para o futuro da indústria paranaense: Tecnologia da Informação e Comunicação** . ISBN 978-85-88980-85-3. Curitiba: Senai/PR, 2014. 
+______. _**Instrução Interna de Procedimentos nº 20, de 27 de fevereiro de 2012** . Curitiba: IFPR/PROENS, 2012._
 
-FIEP. **Setores Portadores de Futuro para o Estado do Paraná 2015-2025** . ISBN 978-85-5520- 
+______. **Resolução nº 55, de 21 de dezembro de 2011** . Dispõe sobre a Organização DidáticoPedagógica da Educação Superior no âmbito do IFPR. Paraná: IFPR/CONSUP, 2011.
 
-005-2. Curitiba: Senai/PR, 2016. 
+______. **Resolução nº. 48, de 21 de dezembro de 2011** . Institui o Programa de Qualificação e Formação dos Servidores do IFPR. Curitiba: IFPR/CONSUP, 2011.
 
-FOUREZ, G. El movimiento ciência, tecnologia, sociedad (CTS) y la enseñanza de lãs ciencias. **Perspectivas UNESCO** , vol. XXV, nº 1, p. 27-40, março 1995. 
+______. **Resolução nº 53, de 21 de dezembro de 2011** . Altera os Artigos 7º, 8º e 12º da Resolução 011/09, que determina a Política de Apoio Estudantil do IFPR. Paraná: IFPR/CONSUP, 2011.
 
-_FREIRE, Paulo._ _**Pedagogia do Oprimido** . 27. ed. Rio de Janeiro: Paz e Terra, 1999._ 
+______. **Resolução IFPR/CONSUP nº. 11, de 25 de abril de 2011** . Dispõe sobre o Programa Institucional de Bolsas de Iniciação Científica do IFPR. Curitiba: IFPR/CONSUP, 2011.
 
-_IFPR. Instituto Federal do Paraná._ _**Instituto Federal do Paraná. Resolução IFPR/CONSUP nº. 08, de 30 de abril de 2014** . Regulamenta o Regimento Interno Comum aos Campi do IFPR. Curitiba: IFPR/CONSUP, 2014._ 
+______. **Resolução IFPR/CONSUP nº. 64, de 28 de julho de 2010** . Aprova a criação do Programa de Bolsas Acadêmicas de Inclusão Social. Curitiba: IFPR/CONSUP, 2010.
 
-_______._ _**Estatuto** . Aprovado pela Resolução nº 13/2011-CONSUP, Retificado pela Resolução nº.39/2012-CONSUP e Resolução nº 02/2014-CONSUP. Curitiba: CONSUP/IFPR, 2014._ 
+______. **Resolução IFPR/CONSUP nº. 11, de 21 de dezembro de 2009** . Aprova a Política de Apoio Estudantil do IFPR. Curitiba: IFPR/CONSUP, 2009.
 
-______. **Relatório de Auto-avaliação do IFPR 2011** . Curitiba: IFPR/CPA, 2012. 
+______. **Resolução IFPR/CONSUP nº.02, de 30 de março de 2009** . Estabelece diretrizes para a gestão de atividades de Ensino, Pesquisa e Extensão no âmbito do IFPR. Curitiba: IFPR/CONSUP, 2009.
 
-______. _**Instrução Interna de Procedimentos nº 20, de 27 de fevereiro de 2012** . Curitiba: IFPR/PROENS, 2012._ 
+______. **Plano de Desenvolvimento Institucional – PDI** , 2014-2018. Curitiba: IFPR/CONSUP, Versão Revisada. Março, 2017.
 
-______. **Resolução nº 55, de 21 de dezembro de 2011** . Dispõe sobre a Organização DidáticoPedagógica da Educação Superior no âmbito do IFPR. Paraná: IFPR/CONSUP, 2011. 
+______. **Resolução nº 02** , de 30 de março de 2009: estabelece diretrizes para a gestão das atividades de Ensino, Pesquisa e Extensão no âmbito do Instituto Federal do Paraná – IFPR. Curitiba: IFPR, 2009.
 
-______. **Resolução nº. 48, de 21 de dezembro de 2011** . Institui o Programa de Qualificação e Formação dos Servidores do IFPR. Curitiba: IFPR/CONSUP, 2011. 
+______. **Portaria IFPR/PROENS nº 120, de 06 de agosto de 2009** . Estabelece os critérios de avaliação do processo ensino aprendizagem do IFPR. Curitiba: IFPR/PROENS, 2009.
 
-171 
+______. **Projeto Político Pedagógico do Campus Paranavaí** . Disponível em http://paranavai.ifpr.edu.br/menu-institucional/o_instituto/projeto-politico-pedagogico/. Acesso em 22 ago. 2017.
 
-**==> picture [472 x 55] intentionally omitted <==**
+IFRN - INSTITUTO FEDERAL DE EDUCAÇÃO CIÊNCIA E TECNOLÓGIA DO RIO GRANDE DO NORTE. **Projeto Político pedagógico** . Aprovado pela Resolução nº. 033/2009. Natal: IFRN/CONSUP, 2009.
 
-______. **Resolução nº 53, de 21 de dezembro de 2011** . Altera os Artigos 7º, 8º e 12º da Resolução 011/09, que determina a Política de Apoio Estudantil do IFPR. Paraná: IFPR/CONSUP, 2011. 
+LUCKESI, Cipriano Carlos. **Avaliação da Aprendizagem escolar** : estudos e proposições. 12. ed. São Paulo: Cortez, 2002.
 
-______. **Resolução IFPR/CONSUP nº. 11, de 25 de abril de 2011** . Dispõe sobre o Programa Institucional de Bolsas de Iniciação Científica do IFPR. Curitiba: IFPR/CONSUP, 2011. 
+**______.** A base ética da avaliação da aprendizagem na escola **. Disponível em: <http://www.luckesi.com.br/artigosavaliacao.htm>. Acesso em: nov. 2011.**
 
-______. **Resolução IFPR/CONSUP nº. 64, de 28 de julho de 2010** . Aprova a criação do Programa de Bolsas Acadêmicas de Inclusão Social. Curitiba: IFPR/CONSUP, 2010. 
+Michaelpage: **The World’s Most In Demand Professions** , 2017. Disponível em: <http://www.michaelpage.com/minisite/most-in-demand-professions/>. Acesso em: 22 ago. 2017.
 
-______. **Resolução IFPR/CONSUP nº. 11, de 21 de dezembro de 2009** . Aprova a Política de Apoio Estudantil do IFPR. Curitiba: IFPR/CONSUP, 2009. 
+Ministério da Educação. **Diretrizes Curriculares Nacionais para a Educação** . Resolução CNE/CEB nº 06/2012.
 
-______. **Resolução IFPR/CONSUP nº.02, de 30 de março de 2009** . Estabelece diretrizes para a gestão de atividades de Ensino, Pesquisa e Extensão no âmbito do IFPR. Curitiba: IFPR/CONSUP, 2009. 
+SAVIANI, Dermeval. **Pedagogia histórico-critica** : primeiras aproximações. 8. ed. Campinas: Autores Associados, 2003.
 
-______. **Plano de Desenvolvimento Institucional – PDI** , 2014-2018. Curitiba: IFPR/CONSUP, Versão Revisada. Março, 2017. 
+SAUL, Ana Maria. **Avaliação Emancipatória Escolar** . São Paulo: Cortez, 1996.
 
-______. **Resolução nº 02** , de 30 de março de 2009: estabelece diretrizes para a gestão das atividades de Ensino, Pesquisa e Extensão no âmbito do Instituto Federal do Paraná – IFPR. Curitiba: IFPR, 2009. 
+SCHÖN, D. A. **Educando o Profissional Reflexivo** : um novo design para o ensino e a aprendizagem. Artes Médicas: Porto Alegre, 2000.
 
-______. **Portaria IFPR/PROENS nº 120, de 06 de agosto de 2009** . Estabelece os critérios de avaliação do processo ensino aprendizagem do IFPR. Curitiba: IFPR/PROENS, 2009. 
+VASCONCELLOS, Celso dos Santos. **Avaliação da Aprendizagem** : Práticas de Mudança por uma práxis transformadora. São Paulo: Libertad, 2003.
 
-______. **Projeto Político Pedagógico do Campus Paranavaí** . Disponível em http://paranavai.ifpr.edu.br/menu-institucional/o_instituto/projeto-politico-pedagogico/. Acesso em 22 ago. 2017. 
+PARANÁ. Instituto Paranaense de Desenvolvimento Econômico e Social (IPARDES). Disponível em http://www.ipardes.gov.br/. Acesso em: 22 ago. 2017.
 
-IFRN - INSTITUTO FEDERAL DE EDUCAÇÃO CIÊNCIA E TECNOLÓGIA DO RIO GRANDE DO NORTE. **Projeto Político pedagógico** . Aprovado pela Resolução nº. 033/2009. Natal: IFRN/CONSUP, 2009. 
+## **APÊNDICES**
 
-LUCKESI, Cipriano Carlos. **Avaliação da Aprendizagem escolar** : estudos e proposições. 12. ed. São Paulo: Cortez, 2002. 
+## **APÊNDICE A - Regulamento de Estágio Curricular Supervisionado**
 
-172 
+## **CAPÍTULO I DISPOSIÇÕES PRELIMINARES**
 
-**==> picture [472 x 55] intentionally omitted <==**
+**Art. 1** ° O Estágio Curricular Supervisionado visa a consolidação e a articulação das competências desenvolvidas pelo corpo discente ao longo do curso de Bacharelado em Engenharia de Software por meio de atividades formativas, de caráter teórico ou prático, permitindo assim que o acadêmico vivencie situações, contextos e organizações próprios da atuação profissional e da vida cidadã.
 
-**______.** A base ética da avaliação da aprendizagem na escola **. Disponível em: <http://www.luckesi.com.br/artigosavaliacao.htm>. Acesso em: nov. 2011.** 
+**Parágrafo único.** Considera-se corpo discente o estudante, devidamente matriculado junto à instituição em regime normal ou dependência.
 
-Michaelpage: **The World’s Most In Demand Professions** , 2017. Disponível em: <http://www.michaelpage.com/minisite/most-in-demand-professions/>. Acesso em: 22 ago. 2017. 
+**Art. 2°** Este regulamento estabelece normas e diretrizes para a execução do Estágio Curricular Supervisionado pelo corpo discente do curso de Bacharelado em Engenharia de Software e está em acordo com a Lei nº 11.788, de 25 de setembro de 2008 e com a Resolução CONSUP/IFPR n° 02 de 26 de março de 2013 que aprova o Regulamento de Estágios no âmbito do IFPR.
 
-Ministério da Educação. **Diretrizes Curriculares Nacionais para a Educação** . Resolução CNE/CEB nº 06/2012. 
+**Art. 3°** A integralização da carga horária do componente curricular de Estágio Curricular Supervisionado é condição obrigatória para a conclusão do curso de Bacharelado em Engenharia de Software do Instituto Federal do Paraná Campus Paranavaí e deverá ser desenvolvido conforme o previsto na legislação e de acordo com este Regulamento.
 
-SAVIANI, Dermeval. **Pedagogia histórico-critica** : primeiras aproximações. 8. ed. Campinas: Autores Associados, 2003. 
+**Art. 4°** O cumprimento das horas do Estágio Curricular Supervisionado somente será validado a partir do ingresso do estudante no curso, desde que os comprovantes de participação sejam devidamente protocolados na Secretaria Acadêmica do Campus e que os prazos do calendário acadêmico sejam respeitados.
 
-SAUL, Ana Maria. **Avaliação Emancipatória Escolar** . São Paulo: Cortez, 1996. 
+§ 1º Sob nenhuma hipótese será aceita carga horária de estágio decorrente de atividades realizadas sem a especificação do PLANO DE ESTÁGIO e a celebração do TERMO DE COMPROMISSO ou mesmo antes de sua celebração.
 
-SCHÖN, D. A. **Educando o Profissional Reflexivo** : um novo design para o ensino e a aprendizagem. Artes Médicas: Porto Alegre, 2000. 
+§ 2º Para fins de cômputo da carga horária do Estágio Curricular Supervisionado é obrigatório que as atividades desenvolvidas estejam relacionadas com a formação educacional descrita no projeto pedagógico do curso.
 
-VASCONCELLOS, Celso dos Santos. **Avaliação da Aprendizagem** : Práticas de Mudança por uma práxis transformadora. São Paulo: Libertad, 2003. 
+## **CAPÍTULO II DO CAMPO DE ESTÁGIO CURRICULAR SUPERVISIONADO**
 
-PARANÁ. Instituto Paranaense de Desenvolvimento Econômico e Social (IPARDES). Disponível em http://www.ipardes.gov.br/. Acesso em: 22 ago. 2017. 
+**Art. 5º** O Estágio Curricular Supervisionado previsto no projeto pedagógico do curso de Bacharelado em Engenharia de Software, e de acordo com o Art. 9º da Lei nº 11.788/2008, pode ser executado em pessoas jurídicas de direito privado e em órgãos da administração pública direta, autárquica e fundacional de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, bem como com profissionais liberais de nível superior, devidamente registrados em seus respectivos conselhos de fiscalização profissional, desde que apresentem
 
-173 
+condições de proporcionar vivência efetiva de situações concretas de vida e trabalho na área de formação do estudante.
 
-**==> picture [472 x 55] intentionally omitted <==**
+§ 1º O Estágio Curricular Supervisionado, conforme Art. 3º da Lei nº 11.788/2008, não cria vínculo empregatício de qualquer natureza.
 
-## **APÊNDICES** 
+§ 2º O Instituto Federal do Paraná poderá ser campo de estágio para os alunos da própria Instituição, assim como para alunos de outras instituições de ensino.
 
-174 
+## **CAPÍTULO III DO CUMPRIMENTO DO ESTÁGIO CURRICULAR SUPERVISIONADO**
 
-**==> picture [472 x 55] intentionally omitted <==**
+**Art. 6º** A carga horária total do componente curricular de Estágio Curricular Supervisionado será de 300 horas.
 
-## **APÊNDICE A - Regulamento de Estágio Curricular Supervisionado** 
+§ 1º As horas do Estágio Curricular Supervisionado deverão ser cumpridas em horários distintos ao do curso de Bacharelado em Engenharia de Software, exceto nos horários em que haja disciplinas não cursadas devido ao Aproveitamento de Estudos Anteriores ou Certificação de Conhecimentos Anteriores.
 
-## **CAPÍTULO I DISPOSIÇÕES PRELIMINARES** 
+§ 2º A carga horária do Estágio Curricular Supervisionado somente será validada se o acadêmico estiver regularmente matriculado no componente curricular durante sua execução.
 
-**Art. 1** ° O Estágio Curricular Supervisionado visa a consolidação e a articulação das competências desenvolvidas pelo corpo discente ao longo do curso de Bacharelado em Engenharia de Software por meio de atividades formativas, de caráter teórico ou prático, permitindo assim que o acadêmico vivencie situações, contextos e organizações próprios da atuação profissional e da vida cidadã. 
+§ 3º O Estágio Curricular Supervisionado poderá ser realizado em uma ou mais instituições, desde que respeitado o prazo máximo previsto no Art. 11 da Lei nº 11.788/2008.
 
-**Parágrafo único.** Considera-se corpo discente o estudante, devidamente matriculado junto à instituição em regime normal ou dependência. 
+§ 4º O início do cumprimento das horas do componente curricular de Estágio Curricular Supervisionado dar-se-á com a matrícula do estudante no primeiro ano do curso e recomenda-se que a integralização ocorra até o terceiro ano.  Caso não seja possível perfazer o total da carga horária em uma única oportunidade, sugere-se que a fragmentação da mesma ocorra da seguinte forma:
 
-**Art. 2°** Este regulamento estabelece normas e diretrizes para a execução do Estágio Curricular Supervisionado pelo corpo discente do curso de Bacharelado em Engenharia de Software e está em acordo com a Lei nº 11.788, de 25 de setembro de 2008 e com a Resolução CONSUP/IFPR n° 02 de 26 de março de 2013 que aprova o Regulamento de Estágios no âmbito do IFPR. 
+I - 100 horas durante o primeiro ano do curso;
 
-**Art. 3°** A integralização da carga horária do componente curricular de Estágio Curricular Supervisionado é condição obrigatória para a conclusão do curso de Bacharelado em Engenharia de Software do Instituto Federal do Paraná Campus Paranavaí e deverá ser desenvolvido conforme o previsto na legislação e de acordo com este Regulamento. 
+II - 100 horas durante o segundo ano do curso;
 
-**Art. 4°** O cumprimento das horas do Estágio Curricular Supervisionado somente será validado a partir do ingresso do estudante no curso, desde que os comprovantes de participação sejam devidamente protocolados na Secretaria Acadêmica do Campus e que os prazos do calendário acadêmico sejam respeitados. 
+III - 100 horas durante o terceiro ano do curso;
 
-§ 1º Sob nenhuma hipótese será aceita carga horária de estágio decorrente de atividades realizadas sem a especificação do PLANO DE ESTÁGIO e a celebração do TERMO DE COMPROMISSO ou mesmo antes de sua celebração. 
+§ 5º A carga horária excedente das atividades complementares, no que tange atividades de extensão, de monitorias e de iniciação científica na educação superior, desenvolvidas pelo estudante, poderá ser aproveitada para computar como carga horária de Estágio Curricular Supervisionado, conforme previsto no Parágrafo 3º do Art. 2º da Lei nº 11.788/2008. Para tanto, o estudante deverá apresentar extrato de horas das atividades complementares devidamente homologado pelo professor responsável pelas Atividades Complementares.
 
-§ 2º Para fins de cômputo da carga horária do Estágio Curricular Supervisionado é obrigatório que as atividades desenvolvidas estejam relacionadas com a formação educacional descrita no projeto pedagógico do curso. 
+§ 6º A realização exitosa de componentes curriculares optativos poderá ser utilizada para o cumprimento da carga horária de Estágio Curricular Supervisionado, desde que sejam respeitadas as respectivas equivalências entre a carga horária do componente curricular e a carga horária a ser aproveitada. A equivalência entre as cargas horárias citadas deve ser proposta pelo professor responsável e aprovada pela Coordenação de Curso e de Estágio.
 
-## **CAPÍTULO II DO CAMPO DE ESTÁGIO CURRICULAR SUPERVISIONADO** 
+**Art. 7º** O acadêmico que atua na área do curso como trabalhador formal devidamente registrado, autônomo ou empresário, poderá pleitear o aproveitamento de carga horária das atividades de Estágio Curricular Supervisionado.
 
-**Art. 5º** O Estágio Curricular Supervisionado previsto no projeto pedagógico do curso de Bacharelado em Engenharia de Software, e de acordo com o Art. 9º da Lei nº 11.788/2008, pode ser executado em pessoas jurídicas de direito privado e em órgãos da administração pública direta, autárquica e fundacional de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, bem como com profissionais liberais de nível superior, devidamente registrados em seus respectivos conselhos de fiscalização profissional, desde que apresentem 
+§ 1º Para o aproveitamento da carga horária o aluno deverá apresentar todos os documentos pertinentes ao Estágio Curricular Supervisionado, além de relatório descrevendo as atividades realizadas durante o período a ser aproveitado.
 
-175 
+§ 2º A carga horária e o tempo mínimo do Estágio Curricular Supervisionado deverá respeitar o disposto no Art. 10º da Lei nº 11.788.
 
-**==> picture [472 x 55] intentionally omitted <==**
+§ 3º O período avaliado da atividade formal deverá ter sido iniciado em data posterior ao ingresso no curso;
 
-condições de proporcionar vivência efetiva de situações concretas de vida e trabalho na área de formação do estudante. 
+§ 4º O período avaliado da atividade formal não pode ter sido submetido para aproveitamento como atividade complementar;
 
-§ 1º O Estágio Curricular Supervisionado, conforme Art. 3º da Lei nº 11.788/2008, não cria vínculo empregatício de qualquer natureza. 
+§ 5º O aproveitamento será concedido mediante parecer favorável do professor orientador do estágio e homologado pela Coordenação do Curso.
 
-§ 2º O Instituto Federal do Paraná poderá ser campo de estágio para os alunos da própria Instituição, assim como para alunos de outras instituições de ensino. 
+## **CAPÍTULO IV ADMINISTRAÇÃO DO ESTÁGIO CURRICULAR SUPERVISIONADO**
 
-## **CAPÍTULO III DO CUMPRIMENTO DO ESTÁGIO CURRICULAR SUPERVISIONADO** 
+**Art. 8º** O estágio, como ato educativo escolar supervisionado, deverá ter acompanhamento pela instituição e pela parte concedente de estágio. Portanto, a organização administrativa das atividades do Estágio Curricular Supervisionado do curso de Bacharelado em Engenharia de Software envolve:
 
-**Art. 6º** A carga horária total do componente curricular de Estágio Curricular Supervisionado será de 300 horas. 
+I – Colegiado do Curso;
 
-§ 1º As horas do Estágio Curricular Supervisionado deverão ser cumpridas em horários distintos ao do curso de Bacharelado em Engenharia de Software, exceto nos horários em que haja disciplinas não cursadas devido ao Aproveitamento de Estudos Anteriores ou Certificação de Conhecimentos Anteriores. 
+II – Coordenação do Curso;
 
-§ 2º A carga horária do Estágio Curricular Supervisionado somente será validada se o acadêmico estiver regularmente matriculado no componente curricular durante sua execução. 
+III – Coordenação de Estágio Curricular Supervisionado;
 
-§ 3º O Estágio Curricular Supervisionado poderá ser realizado em uma ou mais instituições, desde que respeitado o prazo máximo previsto no Art. 11 da Lei nº 11.788/2008. 
+IV - Orientador de Estágio;
 
-§ 4º O início do cumprimento das horas do componente curricular de Estágio Curricular Supervisionado dar-se-á com a matrícula do estudante no primeiro ano do curso e recomenda-se que a integralização ocorra até o terceiro ano.  Caso não seja possível perfazer o total da carga horária em uma única oportunidade, sugere-se que a fragmentação da mesma ocorra da seguinte forma: 
+V – Supervisor do Estágio;
 
-I - 100 horas durante o primeiro ano do curso; 
+VI – Estagiário;
 
-II - 100 horas durante o segundo ano do curso; 
+**Art. 9º** Compete ao Colegiado do Curso:
 
-III - 100 horas durante o terceiro ano do curso; 
+I – No início de cada período letivo, em conjunto com a Coordenação do Curso, divulgar a importância do Estágio Curricular Supervisionado;
 
-§ 5º A carga horária excedente das atividades complementares, no que tange atividades de extensão, de monitorias e de iniciação científica na educação superior, desenvolvidas pelo estudante, poderá ser aproveitada para computar como carga horária de Estágio Curricular Supervisionado, conforme previsto no Parágrafo 3º do Art. 2º da Lei nº 11.788/2008. Para tanto, o estudante deverá apresentar extrato de horas das atividades complementares devidamente homologado pelo professor responsável pelas Atividades Complementares. 
+II - Deliberar sobre assuntos inerentes ao Estágio Curricular Supervisionado que exijam reflexão e decisão coletiva.
 
-§ 6º A realização exitosa de componentes curriculares optativos poderá ser utilizada para o cumprimento da carga horária de Estágio Curricular Supervisionado, desde que sejam respeitadas as respectivas equivalências entre a carga horária do componente curricular e a carga horária a ser aproveitada. A equivalência entre as cargas horárias citadas deve ser proposta pelo professor responsável e aprovada pela Coordenação de Curso e de Estágio. 
+**Art. 10º** Compete à Coordenação do Curso:
 
-**Art. 7º** O acadêmico que atua na área do curso como trabalhador formal devidamente registrado, autônomo ou empresário, poderá pleitear o aproveitamento de carga horária das atividades de Estágio Curricular Supervisionado. 
+I – No início de cada período letivo, em conjunto com o Colegiado do Curso, divulgar a importância do Estágio Curricular Supervisionado;
 
-176 
+II – Indicar um professor para administrar as atividades do Estágio Curricular Supervisionado; III – Inteirar-se, periodicamente, sobre a situação de cada aluno a respeito do andamento das atividades de estágio.
 
-**==> picture [472 x 55] intentionally omitted <==**
+**Art. 11º** Compete ao Coordenador de Estágio Curricular Supervisionado:
 
-§ 1º Para o aproveitamento da carga horária o aluno deverá apresentar todos os documentos pertinentes ao Estágio Curricular Supervisionado, além de relatório descrevendo as atividades realizadas durante o período a ser aproveitado. 
+I - Acompanhar as atividades de Estágio Curricular Supervisionado do curso de Bacharelado em Engenharia de Software;
 
-§ 2º A carga horária e o tempo mínimo do Estágio Curricular Supervisionado deverá respeitar o disposto no Art. 10º da Lei nº 11.788. 
+II – Designar, em conjunto com a Coordenação do Curso, professor orientador, da área a ser desenvolvido o estágio, como responsável pelo acompanhamento e avaliação das atividades do estagiário;
 
-§ 3º O período avaliado da atividade formal deverá ter sido iniciado em data posterior ao ingresso no curso; 
+III - Cobrar a atualização dos registros de acompanhamento dos estágios, exigindo do educando a apresentação periódica, em prazo não superior a 6 (seis) meses, dos relatórios pertinentes;
 
-§ 4º O período avaliado da atividade formal não pode ter sido submetido para aproveitamento como atividade complementar; 
+IV - Elaborar instrumentos de avaliação dos estágios de seus educandos;
 
-§ 5º O aproveitamento será concedido mediante parecer favorável do professor orientador do estágio e homologado pela Coordenação do Curso. 
+V – Deliberar sobre assuntos inerentes ao Estágio Curricular Supervisionado, apresentando à Seção de Estágio e Relações Comunitárias, Coordenação do Curso ou ao Colegiado do Curso, situações que exijam reflexão e decisão compartilhada;
 
-## **CAPÍTULO IV ADMINISTRAÇÃO DO ESTÁGIO CURRICULAR SUPERVISIONADO** 
+VI - Assessorar a Seção de Estágio e Relações Comunitárias na avaliação de Propostas, Programas e Relatórios de Estágio Curricular Supervisionado na área do curso;
 
-**Art. 8º** O estágio, como ato educativo escolar supervisionado, deverá ter acompanhamento pela instituição e pela parte concedente de estágio. Portanto, a organização administrativa das atividades do Estágio Curricular Supervisionado do curso de Bacharelado em Engenharia de Software envolve: 
+VII – Informar periodicamente, por meio dos registros acadêmicos vigentes, à Coordenação do Curso e à Seção de Estágio e Relações Comunitárias, a situação de cada aluno a respeito do andamento das atividades de estágio, bem como atender às solicitações dos mesmos;
 
-I – Colegiado do Curso; 
+VII – Encaminhar à Seção de Estágio e Relações Comunitárias, quando pertinente, a documentação necessária para a realização de seguros contra acidentes pessoais;
 
-II – Coordenação do Curso; 
+**Parágrafo único** : O Coordenador de Estágio Curricular Supervisionado deverá destinar um quantitativo crescente de horas semanais de sua carga horária para realização das atribuições pertinentes à função, levando em consideração o período de integralização do curso. Esta carga horária será considerada como horas de ensino e deverá ser contabilizada como aula.
 
-III – Coordenação de Estágio Curricular Supervisionado; 
+**Art. 12º** Compete ao Orientador de Estágio Curricular Supervisionado:
 
-IV - Orientador de Estágio; 
+I – Avaliar as instalações da parte concedente do estágio e sua adequação à formação cultural e profissional do educando;
 
-V – Supervisor do Estágio; 
+II - Auxiliar na elaboração e zelar pelo cumprimento das atividades do PLANO DE ESTÁGIO; III - Manter contato com o Supervisor, no intuito de dinamizar o funcionamento do estágio, avaliando as condições de exequibilidade deste, bem como as atividades curriculares desenvolvidas;
 
-VI – Estagiário; 
+**Parágrafo único** : O Orientador de Estágio Curricular Supervisionado, em decisão conjunta com a Coordenação do Curso, respeitado o Regime de Trabalho dos Docentes do IFPR Campus Paranavaí, deverá destinar um quantitativo de horas semanais de sua carga horária para realização das atribuições pertinentes à função, levando em consideração o quantitativo de alunos a serem orientados no decorrer do ano letivo.
 
-**Art. 9º** Compete ao Colegiado do Curso: 
+**Art. 13º** Compete ao Supervisor de Estágio Curricular Supervisionado:
 
-I – No início de cada período letivo, em conjunto com a Coordenação do Curso, divulgar a importância do Estágio Curricular Supervisionado; 
+I - Assegurar a integridade física e moral do acadêmico enquanto estiver estagiando;
 
-II - Deliberar sobre assuntos inerentes ao Estágio Curricular Supervisionado que exijam reflexão e decisão coletiva. 
+II - Participar da elaboração do Plano de Estágio;
 
-**Art. 10º** Compete à Coordenação do Curso: 
+III - Supervisionar o cumprimento do Plano de Estágio e do Cronograma garantindo a compatibilidade entre as atividades desenvolvidas no estágio e aquelas previstas no termo de compromisso;
 
-I – No início de cada período letivo, em conjunto com o Colegiado do Curso, divulgar a importância do Estágio Curricular Supervisionado; 
+IV - Avaliar o estagiário nas atividades desenvolvidas, atestando, através de formulário próprio, o desempenho e a carga horária estagiada;
 
-II – Indicar um professor para administrar as atividades do Estágio Curricular Supervisionado; III – Inteirar-se, periodicamente, sobre a situação de cada aluno a respeito do andamento das atividades de estágio. 
+V - Garantir que as instalações da concedente tenham condições de proporcionar ao educando atividades de aprendizagem social, profissional e cultural;
 
-**Art. 11º** Compete ao Coordenador de Estágio Curricular Supervisionado: 
+VI – Encaminhar à instituição de ensino, com periodicidade máxima de 6 (seis) meses, relatório de atividades, com vista obrigatória ao estagiário;
 
-I - Acompanhar as atividades de Estágio Curricular Supervisionado do curso de Bacharelado em Engenharia de Software; 
+VII - Manter contato com o professor orientador ou com a coordenação de estágio, no intuito de participar questões pertinentes ao estágio, para que todos as situações sejam tratadas com a atenção necessária;
 
-177 
+**Parágrafo único.** Quando tratar-se de Estágio Curricular Supervisionado executado dentro do próprio IFPR, o supervisionamento das atividades poderá ser realizado por um servidor que acumule funções e responsabilidades de professor orientador.
 
-**==> picture [472 x 55] intentionally omitted <==**
+**Art. 14º** Compete ao Estagiário do curso de Bacharelado em Engenharia de Software:
 
-II – Designar, em conjunto com a Coordenação do Curso, professor orientador, da área a ser desenvolvido o estágio, como responsável pelo acompanhamento e avaliação das atividades do estagiário; 
+I - Obter a vaga para a realização do estágio;
 
-III - Cobrar a atualização dos registros de acompanhamento dos estágios, exigindo do educando a apresentação periódica, em prazo não superior a 6 (seis) meses, dos relatórios pertinentes; 
+II - Elaborar e entregar, conforme cronograma, a documentação necessária para a formalização do Estágio Curricular Supervisionado, além dos demais relatórios devidamente preenchidos e assinados;
 
-IV - Elaborar instrumentos de avaliação dos estágios de seus educandos; 
+III - Manter contato constante com o Coordenador de Estágio, Professor Orientador e Supervisor do Estágio;
 
-V – Deliberar sobre assuntos inerentes ao Estágio Curricular Supervisionado, apresentando à Seção de Estágio e Relações Comunitárias, Coordenação do Curso ou ao Colegiado do Curso, situações que exijam reflexão e decisão compartilhada; 
+IV - Contribuir com a elaboração e o cumprimento da carga horária e das atividades do PLANO DE ESTÁGIO, da melhor forma possível.
 
-VI - Assessorar a Seção de Estágio e Relações Comunitárias na avaliação de Propostas, Programas e Relatórios de Estágio Curricular Supervisionado na área do curso; 
+## **CAPÍTULO V CELEBRAÇÃO E ACOMPANHAMENTO DO ESTÁGIO**
 
-VII – Informar periodicamente, por meio dos registros acadêmicos vigentes, à Coordenação do Curso e à Seção de Estágio e Relações Comunitárias, a situação de cada aluno a respeito do andamento das atividades de estágio, bem como atender às solicitações dos mesmos; 
+**Art. 15º** A celebração e a formalização do estágio se darão através de:
 
-VII – Encaminhar à Seção de Estágio e Relações Comunitárias, quando pertinente, a documentação necessária para a realização de seguros contra acidentes pessoais; 
+§ 1º Celebração do TERMO DE COMPROMISSO e do PLANO DE ESTÁGIO entre a instituição de ensino, educando e parte concedente.
 
-**Parágrafo único** : O Coordenador de Estágio Curricular Supervisionado deverá destinar um quantitativo crescente de horas semanais de sua carga horária para realização das atribuições pertinentes à função, levando em consideração o período de integralização do curso. Esta carga horária será considerada como horas de ensino e deverá ser contabilizada como aula. 
+§ 2º Contratação do Seguro Contra Acidentes Pessoais, em favor do estagiário.
 
-**Art. 12º** Compete ao Orientador de Estágio Curricular Supervisionado: 
+§ 3º Registro do desempenho e controle da carga horária do estágio nos Relatórios de Acompanhamento de Estágio.
 
-I – Avaliar as instalações da parte concedente do estágio e sua adequação à formação cultural e profissional do educando; 
+**Art. 16º** A formalização, o acompanhamento e a avaliação das atividades de estágio, deverão, obrigatoriamente, fazer uso de formulários próprios.
 
-II - Auxiliar na elaboração e zelar pelo cumprimento das atividades do PLANO DE ESTÁGIO; III - Manter contato com o Supervisor, no intuito de dinamizar o funcionamento do estágio, avaliando as condições de exequibilidade deste, bem como as atividades curriculares desenvolvidas; 
+**Parágrafo único.** Os formulários do Estágio Curricular Supervisionado estão disponíveis no site do IFPR Campus Paranavaí.
 
-**Parágrafo único** : O Orientador de Estágio Curricular Supervisionado, em decisão conjunta com a Coordenação do Curso, respeitado o Regime de Trabalho dos Docentes do IFPR Campus Paranavaí, deverá destinar um quantitativo de horas semanais de sua carga horária para realização das atribuições pertinentes à função, levando em consideração o quantitativo de alunos a serem orientados no decorrer do ano letivo. 
+## **CAPÍTULO VI CESSAÇÃO DA VIGÊNCIA DO ESTÁGIO**
 
-**Art. 13º** Compete ao Supervisor de Estágio Curricular Supervisionado: 
+**Art. 17º** O Termo de Compromisso do estágio curricular supervisionado pode ser rescindido por cada uma das partes e a qualquer momento. Constituem motivos para a interrupção ou cessação da vigência do Estágio Curricular Supervisionado:
 
-I - Assegurar a integridade física e moral do acadêmico enquanto estiver estagiando; 
+I - Trancamento de Matrícula;
 
-II - Participar da elaboração do Plano de Estágio; 
+II - Transferência de curso;
 
-III - Supervisionar o cumprimento do Plano de Estágio e do Cronograma garantindo a compatibilidade entre as atividades desenvolvidas no estágio e aquelas previstas no termo de compromisso; 
+III - Desligamento do corpo discente;
 
-IV - Avaliar o estagiário nas atividades desenvolvidas, atestando, através de formulário próprio, o desempenho e a carga horária estagiada; 
+IV - Inexistência ou irregularidade de frequência escolar;
 
-178 
+V - Descumprimento do convencionado no Termo de Compromisso de estágio;
 
-**==> picture [472 x 55] intentionally omitted <==**
+VI - Encerramento do prazo fixado no Termo de Compromisso de estágio.
 
-V - Garantir que as instalações da concedente tenham condições de proporcionar ao educando atividades de aprendizagem social, profissional e cultural; 
+**Parágrafo único.** Ocorrendo o desligamento do estudante no caso previsto no Inciso V deste Artigo, o fato deverá ser imediatamente comunicado à Coordenação de Estágio, e para efeito de registro, deverá ser encaminhado em até 5 (cinco) dias após o desligamento, o Termo de Rescisão do instrumento jurídico firmado entre as partes, para análise e assinatura.
 
-VI – Encaminhar à instituição de ensino, com periodicidade máxima de 6 (seis) meses, relatório de atividades, com vista obrigatória ao estagiário; 
+## **CAPÍTULO VII DAS DISPOSIÇÕES FINAIS**
 
-VII - Manter contato com o professor orientador ou com a coordenação de estágio, no intuito de participar questões pertinentes ao estágio, para que todos as situações sejam tratadas com a atenção necessária; 
+**Art. 18º** Os casos omissos serão resolvidos pela Direção de Ensino, Pesquisa e Extensão, ouvido o Colegiado do Curso e a Coordenação de Estágio Curricular Supervisionado.
 
-**Parágrafo único.** Quando tratar-se de Estágio Curricular Supervisionado executado dentro do próprio IFPR, o supervisionamento das atividades poderá ser realizado por um servidor que acumule funções e responsabilidades de professor orientador. 
+## **TERMO DE COMPROMISSO - ESTÁGIO CURRICULAR SUPERVISIONADO**
 
-**Art. 14º** Compete ao Estagiário do curso de Bacharelado em Engenharia de Software: 
+As partes abaixo qualificadas celebram neste ato Termo de Compromisso de Estágio conforme a Lei nº 11.788/08.
 
-I - Obter a vaga para a realização do estágio; 
+**DADOS DA INSTITUIÇÃO CAMPO DE ESTÁGIO** UNIDADE CONCEDENTE: CNPJ: REPRESENTANTE: ENDEREÇO: CIDADE: TELEFONE(S): **DADOS DO ESTUDANTE** NOME: CAMPUS: CURSO: PERÍODO: MATRÍCULA:
 
-II - Elaborar e entregar, conforme cronograma, a documentação necessária para a formalização do Estágio Curricular Supervisionado, além dos demais relatórios devidamente preenchidos e assinados; 
+**Residente à rua ______________________________________________ , n° _______ na cidade de _____________________ , Estado __________________, CEP __________________ , Fone ______________ ,CPF________________________________ Data  de Nascimento _____/_____/____ , doravante denominado Estudante, com interveniência da Instituição de Ensino, celebram o presente Termo de Compromisso em consonância com o Art. 82 da Lei nº 9394/96 – LDB, Art. 1o  da Lei nº 11.788/08 mediante as seguintes cláusulas e condições:**
 
-III - Manter contato constante com o Coordenador de Estágio, Professor Orientador e Supervisor do Estágio; 
+**CLÁUSULA PRIMEIRA As atividades a serem desenvolvidas durante o Estágio  constam de programação acordada entre as partes, Plano de Estágio em anexo) e terão por finalidade propiciar ao Estudante uma experiência acadêmico-profissional em um campo de trabalho determinado, visando :a) o aprimoramento técnico-científico em sua formação; b) a maior proximidade do aluno, com as condições reais de trabalho, por intermédio de práticas afins com a natureza e especificidade da área definida nos projetos políticos pedagógicos de cada curso;**
 
-IV - Contribuir com a elaboração e o cumprimento da carga horária e das atividades do PLANO DE ESTÁGIO, da melhor forma possível. 
+**CLÁUSULA SEGUNDA O presente estágio somente poderá ser iniciado após assinatura das partes envolvidas, não sendo reconhecido ou validado com DATA RETROATIVA;**
 
-## **CAPÍTULO V CELEBRAÇÃO E ACOMPANHAMENTO DO ESTÁGIO** 
+**CLÁUSULA TERCEIRA O estágio será desenvolvido no período de _____/_____/______a _____/_____/______, no horário das _____ às _____ horas e, poderá ser prorrogado, através de emissão de Termo Aditivo; CLÁUSULA QUARTA Em caso do presente estágio ser prorrogado, o preenchimento e a assinatura do Termo Aditivo deverão ser providenciados antes da data de encerramento, contida na Cláusula Terceira neste Termo de Compromisso;**
 
-**Art. 15º** A celebração e a formalização do estágio se darão através de: 
+**CLÁUSULA QUINTA Na vigência deste Termo de Compromisso o Estudante será protegido contra Acidentes Pessoais, providenciado pela IFPR e representado pela Apólice n° ___________ da Companhia__________________.**
 
-§ 1º Celebração do TERMO DE COMPROMISSO e do PLANO DE ESTÁGIO entre a instituição de ensino, educando e parte concedente. 
+**CLÁUSULA SEXTA Nos termos do Art. 3° da Lei n° 11.788/08, o Estudante não terá, para quaisquer efeitos, vínculo empregatício com a Parte Concedente;**
 
-§ 2º Contratação do Seguro Contra Acidentes Pessoais, em favor do estagiário. 
+**CLÁUSULA SÉTIMA Constituem motivo para interrupção automática da vigência do presente Termo de Compromisso de Estágio: I.       Conclusão ou abandono do curso e o trancamento de matrícula; II.   Não cumprimento do convencionado neste Termo de Compromisso. III. Solicitação do estudante; IV. Solicitação da parte concedente; V.  Solicitação da instituição de ensino.**
 
-§ 3º Registro do desempenho e controle da carga horária do estágio nos Relatórios de Acompanhamento de Estágio. 
+**E, por estar de inteiro e comum acordo com as condições deste Termo de Compromisso, as partes assinam em 04 (quatro) vias de igual teor.**
 
-**Art. 16º** A formalização, o acompanhamento e a avaliação das atividades de estágio, deverão, obrigatoriamente, fazer uso de formulários próprios. 
+**_____________________________, _______/_______/_______.**
 
-**Parágrafo único.** Os formulários do Estágio Curricular Supervisionado estão disponíveis no site do IFPR Campus Paranavaí. 
+**___________________________________________ ___________________________________________ UNIDADE CONCEDENTE ESTUDANTE**
 
-## **CAPÍTULO VI CESSAÇÃO DA VIGÊNCIA DO ESTÁGIO** 
+**(ASSINATURA E CARIMBO)                                                                           (ASSINATURA)**
 
-**Art. 17º** O Termo de Compromisso do estágio curricular supervisionado pode ser rescindido por cada uma das partes e a qualquer momento. Constituem motivos para a interrupção ou cessação da vigência do Estágio Curricular Supervisionado: 
+**___________________________________________   PROFESSOR ORIENTADOR DO ESTÁGIO/IFPR (ASSINATURA E CARIMBO)**
 
-179 
+**___________________________________________ ___________________________________________ COORDENADOR DO CURSO – IFPR CHEFE DE SEÇÃO DE ESTÁGIOS E (ASSINATURA E CARIMBO) RELAÇÕES COMUNITÁRIAS – IFPR (ASSINATURA E CARIMBO)**
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **PLANO DE ESTÁGIO CURRICULAR SUPERVISIONADO**
 
-I - Trancamento de Matrícula; 
+**DADOS DO ESTAGIÁRIO** NOME: CURSO: CAMPUS: MATRÍCULA: ENDEREÇO: BAIRRO: CIDADE: CEP: FONE: **1- Nome do Orientador de Estágio na Unidade Concedente: ____________________________________________________ 2- Formação Profissional do Orientador na Unidade Concedente: _______________________________________________ 3-Objetivos do  Estágio: __________________________________________________________________________________ _______________________________________________________________________________________________________ _______________________________________________________________________________________________________ 4- Atividades a serem desenvolvidas pelo estagiário: _______________________________________________________________________________________________________ _______________________________________________________________________________________________________ _______________________________________________________________________________________________________ _______________________________________________________________________________________________________ _______________________________________________________________________________________________________ a) Modalidade da supervisão: [    ] Direta b) Carga Horária Total:   [   ] Indefinida     [   ] Definida: _________________ c) Período de execução: [   ] Indefinido    [   ] Definido:____/______/______ a ____/______/______**
 
-II - Transferência de curso; 
+**Coordenador do Curso IFPR Campus Paranavaí**
 
-III - Desligamento do corpo discente; 
+**Supervisor na Unidade Concedente**
 
-IV - Inexistência ou irregularidade de frequência escolar; 
+**Professor Orientador IFPR Campus Paranavaí**
 
-V - Descumprimento do convencionado no Termo de Compromisso de estágio; 
+## **Estudante**
 
-VI - Encerramento do prazo fixado no Termo de Compromisso de estágio. 
+**APÊNDICE B - Regulamento de Trabalho de Conclusão de Curso**
 
-**Parágrafo único.** Ocorrendo o desligamento do estudante no caso previsto no Inciso V deste Artigo, o fato deverá ser imediatamente comunicado à Coordenação de Estágio, e para efeito de registro, deverá ser encaminhado em até 5 (cinco) dias após o desligamento, o Termo de Rescisão do instrumento jurídico firmado entre as partes, para análise e assinatura. 
+## **CAPÍTULO 1: DISPOSIÇÕES PRELIMINARES**
 
-## **CAPÍTULO VII DAS DISPOSIÇÕES FINAIS** 
+**Art. 1°** Este regulamento estabelece normas, procedimentos, mecanismos de avaliação e diretrizes para a execução do Trabalho de Conclusão de Curso (TCC) pelo corpo discente do curso de Bacharelado em Engenharia de Software a ser seguido como orientação no respectivo componente curricular, buscando a otimização dos recursos profissionalizantes no contexto acadêmico.
 
-**Art. 18º** Os casos omissos serão resolvidos pela Direção de Ensino, Pesquisa e Extensão, ouvido o Colegiado do Curso e a Coordenação de Estágio Curricular Supervisionado. 
+**Parágrafo único.** Considera-se corpo discente o estudante, devidamente matriculado junto à instituição em regime normal ou de dependência.
 
-180 
+**Art. 2°** O Trabalho de Conclusão de Curso (TCC) é condição obrigatória para a conclusão do curso de Bacharelado em Engenharia de Software do Instituto Federal do Paraná campus Paranavaí e será desenvolvido conforme o previsto no Currículo do Curso e de acordo com este Regulamento.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **CAPÍTULO 2: DOS OBJETIVOS DO TRABALHO DE CONCLUSÃO DE CURSO**
 
-## **TERMO DE COMPROMISSO - ESTÁGIO CURRICULAR SUPERVISIONADO** 
+**Art. 3º** O TCC tem por objetivo levar o discente ao desenvolvimento de um produto computacional ou uma pesquisa na área da computação ou tecnologia da informação.
 
-As partes abaixo qualificadas celebram neste ato Termo de Compromisso de Estágio conforme a Lei nº 11.788/08. 
+**Parágrafo Único.** O objetivo do componente curricular é alcançado mediante a elaboração de um trabalho individual teórico-prático, podendo incluir ou não, implementação computacional. O TCC deverá ser cursado pelo discente no quarto ano letivo do curso. A fundamentação e instrumentalização para o desenvolvimento de trabalho de pesquisa é apresentado na unidade curricular de Metodologia de Pesquisa em Engenharia de Software e Leitura e Produção de Gêneros Acadêmicos. No caso do desenvolvimento de produto computacional, o produto consiste em um projeto integrador de todos os componentes curriculares do curso.
 
-**DADOS DA INSTITUIÇÃO CAMPO DE ESTÁGIO** UNIDADE CONCEDENTE: CNPJ: REPRESENTANTE: ENDEREÇO: CIDADE: TELEFONE(S): **DADOS DO ESTUDANTE** NOME: CAMPUS: CURSO: PERÍODO: MATRÍCULA: 
+**Art. 4º** São objetivos do Trabalho de Conclusão de Curso:
 
-**Residente à rua ______________________________________________ , n° _______ na cidade de _____________________ , Estado __________________, CEP __________________ , Fone ______________ ,CPF________________________________ Data  de Nascimento _____/_____/____ , doravante denominado Estudante, com interveniência da Instituição de Ensino, celebram o presente Termo de Compromisso em consonância com o Art. 82 da Lei nº 9394/96 – LDB, Art. 1o  da Lei nº 11.788/08 mediante as seguintes cláusulas e condições:** 
+I. Desenvolver nos estudantes a capacidade de aplicação dos conceitos e das teorias adquiridas durante o curso de forma integrada através da execução de um projeto;
 
-**CLÁUSULA PRIMEIRA As atividades a serem desenvolvidas durante o Estágio  constam de programação acordada entre as partes, Plano de Estágio em anexo) e terão por finalidade propiciar ao Estudante uma experiência acadêmico-profissional em um campo de trabalho determinado, visando :a) o aprimoramento técnico-científico em sua formação; b) a maior proximidade do aluno, com as condições reais de trabalho, por intermédio de práticas afins com a natureza e especificidade da área definida nos projetos políticos pedagógicos de cada curso;** 
+II. Desenvolver nos estudantes a capacidade de planejamento e disciplina para resolver problemas dentro das áreas de sua formação específica;
 
-**CLÁUSULA SEGUNDA O presente estágio somente poderá ser iniciado após assinatura das partes envolvidas, não sendo reconhecido ou validado com DATA RETROATIVA;** 
+III. Possibilitar ao estudante a iniciação à pesquisa e incentivar a publicação de trabalhos científicos;
 
-181 
+IV. Propiciar a abordagem de temas relacionados à prática profissional, inserida na dinâmica da realidade local, regional e nacional;
 
-**==> picture [472 x 55] intentionally omitted <==**
+V. Estimular a construção do conhecimento coletivo.
 
-**CLÁUSULA TERCEIRA O estágio será desenvolvido no período de _____/_____/______a _____/_____/______, no horário das _____ às _____ horas e, poderá ser prorrogado, através de emissão de Termo Aditivo; CLÁUSULA QUARTA Em caso do presente estágio ser prorrogado, o preenchimento e a assinatura do Termo Aditivo deverão ser providenciados antes da data de encerramento, contida na Cláusula Terceira neste Termo de Compromisso;** 
+**Art. 5º** O Trabalho de Conclusão de Curso (TCC) deve ser desenvolvido em uma das seguintes áreas:
 
-**CLÁUSULA QUINTA Na vigência deste Termo de Compromisso o Estudante será protegido contra Acidentes Pessoais, providenciado pela IFPR e representado pela Apólice n° ___________ da Companhia__________________.** 
+I. Engenharia de Software II. Banco de Dados III. Redes de Computadores e Sistemas Distribuídos IV. Desenvolvimento de Sistemas para a Internet V. Desenvolvimento de Sistemas para Desktop VI. Desenvolvimento de Sistemas para Dispositivos Móveis VII. Linguagens de Programação VIII. Inteligência Computacional IX. Computação Gráfica X. Automação e Robótica XII. Informática na Educação XIII. Aplicações de Tecnologia da Informação XV. Sistemas de Informação
 
-**CLÁUSULA SEXTA Nos termos do Art. 3° da Lei n° 11.788/08, o Estudante não terá, para quaisquer efeitos, vínculo empregatício com a Parte Concedente;** 
+**Parágrafo único.** Caso houver interesse pela elaboração do Trabalho de Conclusão de Curso (TCC) em outra área, esta deverá ser apreciada e aprovado pelo Colegiado de Curso.
 
-**CLÁUSULA SÉTIMA Constituem motivo para interrupção automática da vigência do presente Termo de Compromisso de Estágio: I.       Conclusão ou abandono do curso e o trancamento de matrícula; II.   Não cumprimento do convencionado neste Termo de Compromisso. III. Solicitação do estudante; IV. Solicitação da parte concedente; V.  Solicitação da instituição de ensino.** 
+**Art. 6°** São modalidades possíveis do TCC:
 
-**E, por estar de inteiro e comum acordo com as condições deste Termo de Compromisso, as partes assinam em 04 (quatro) vias de igual teor.** 
+I. Monografia; II. Artigo científico.
 
-**_____________________________, _______/_______/_______.** 
+**§ 1º** A monografia deverá seguir as indicações da Associação Brasileira de Normas Técnicas (ABNT) conforme manual institucional do Instituto Federal do Paraná.
 
-**___________________________________________ ___________________________________________ UNIDADE CONCEDENTE ESTUDANTE** 
+**§ 2º** O artigo científico deve estar em formato compatível de acordo com conferências nacionais ou internacionais para posterior submissão. O estudante deverá ser o autor principal e o professor orientador deverá ser coautor do artigo. Cada artigo científico só poderá ser o produto do TCC de um estudante.
 
-**(ASSINATURA E CARIMBO)                                                                           (ASSINATURA)** 
+## **CAPÍTULO 2: DAS ATRIBUIÇÕES**
 
-**___________________________________________   PROFESSOR ORIENTADOR DO ESTÁGIO/IFPR (ASSINATURA E CARIMBO)** 
+**Art. 7°** São partes diretamente envolvidas no desenvolvimento de um Trabalho de Conclusão de Curso:
 
-**___________________________________________ ___________________________________________ COORDENADOR DO CURSO – IFPR CHEFE DE SEÇÃO DE ESTÁGIOS E (ASSINATURA E CARIMBO) RELAÇÕES COMUNITÁRIAS – IFPR (ASSINATURA E CARIMBO)** 
+I. A Coordenação do curso;
 
-182 
+II. O Professor da unidade curricular Trabalho de Conclusão de Curso; III. O Professor Orientador;
 
-**==> picture [472 x 55] intentionally omitted <==**
+IV. O Professor co-orientador (opcional);
 
-## **PLANO DE ESTÁGIO CURRICULAR SUPERVISIONADO** 
+V. Discentes do curso;
 
-**DADOS DO ESTAGIÁRIO** NOME: CURSO: CAMPUS: MATRÍCULA: ENDEREÇO: BAIRRO: CIDADE: CEP: FONE: **1- Nome do Orientador de Estágio na Unidade Concedente: ____________________________________________________ 2- Formação Profissional do Orientador na Unidade Concedente: _______________________________________________ 3-Objetivos do  Estágio: __________________________________________________________________________________ _______________________________________________________________________________________________________ _______________________________________________________________________________________________________ 4- Atividades a serem desenvolvidas pelo estagiário: _______________________________________________________________________________________________________ _______________________________________________________________________________________________________ _______________________________________________________________________________________________________ _______________________________________________________________________________________________________ _______________________________________________________________________________________________________ a) Modalidade da supervisão: [    ] Direta b) Carga Horária Total:   [   ] Indefinida     [   ] Definida: _________________ c) Período de execução: [   ] Indefinido    [   ] Definido:____/______/______ a ____/______/______** 
+VI. A Secretaria Acadêmica.
 
-**Coordenador do Curso IFPR Campus Paranavaí** 
+**Art. 8°** Compete à Coordenação do Curso:
 
-**Supervisor na Unidade Concedente** 
+- I. Realizar reuniões pedagógicas;
 
-**Professor Orientador IFPR Campus Paranavaí** 
+- II. Distribuir as unidades curriculares aos seus respectivos professores;
 
-## **Estudante** 
+- III. Determinar o número de orientandos para cada professor orientador;
 
-183 
+IV. Fornecer adequado encaminhamento a todas as questões relacionadas à legislação e cumprimento deste regulamento;
 
-**==> picture [472 x 55] intentionally omitted <==**
+**Art. 9°** Compete ao professor docente da unidade curricular Trabalho de Conclusão de Curso a gestão de todos os procedimentos relativos ao TCC definidos por este Regulamento e, especialmente, as seguintes atribuições:
 
-184 
+- I. Elaborar e divulgar o calendário das atividades a serem cumpridas no componente curricular de Trabalho de Conclusão de Curso;
 
-**==> picture [472 x 55] intentionally omitted <==**
+II. Articular-se com o Colegiado para compatibilizar diretrizes, organização e desenvolvimento dos trabalhos;
 
-**APÊNDICE B - Regulamento de Trabalho de Conclusão de Curso** 
+III. Orientar os estudantes sobre todos os aspectos relacionados ao TCC, incluindo a escolha de temas e de orientador;
 
-## **CAPÍTULO 1: DISPOSIÇÕES PRELIMINARES** 
+IV. Divulgar o presente regulamento e zelar pelo seu cumprimento;
 
-**Art. 1°** Este regulamento estabelece normas, procedimentos, mecanismos de avaliação e diretrizes para a execução do Trabalho de Conclusão de Curso (TCC) pelo corpo discente do curso de Bacharelado em Engenharia de Software a ser seguido como orientação no respectivo componente curricular, buscando a otimização dos recursos profissionalizantes no contexto acadêmico. 
+- V. Validar e divulgar a relação dos estudantes orientandos com seu respectivo professor orientador;
 
-**Parágrafo único.** Considera-se corpo discente o estudante, devidamente matriculado junto à instituição em regime normal ou de dependência. 
+VI. Disponibilizar para a comunidade acadêmica informações sobre os TCC em andamento;
 
-**Art. 2°** O Trabalho de Conclusão de Curso (TCC) é condição obrigatória para a conclusão do curso de Bacharelado em Engenharia de Software do Instituto Federal do Paraná campus Paranavaí e será desenvolvido conforme o previsto no Currículo do Curso e de acordo com este Regulamento. 
+VII. Organizar e divulgar o calendário das bancas avaliadoras dos TCC ao meio (apresentação prévia) e também ao final do componente curricular (apresentação final); VIII. Elaborar e disponibilizar os formulários para os pareceres de avaliação das bancas avaliadoras, bem como os requerimentos definidos por este Regulamento;
 
-## **CAPÍTULO 2: DOS OBJETIVOS DO TRABALHO DE CONCLUSÃO DE CURSO** 
+IX. Registrar no sistema acadêmico as notas finais de aproveitamento e as frequências dos estudantes no componente curricular;
 
-**Art. 3º** O TCC tem por objetivo levar o discente ao desenvolvimento de um produto computacional ou uma pesquisa na área da computação ou tecnologia da informação. 
+X. Arquivar os documentos referentes ao TCC;
 
-**Parágrafo Único.** O objetivo do componente curricular é alcançado mediante a elaboração de um trabalho individual teórico-prático, podendo incluir ou não, implementação computacional. O TCC deverá ser cursado pelo discente no quarto ano letivo do curso. A fundamentação e instrumentalização para o desenvolvimento de trabalho de pesquisa é apresentado na unidade curricular de Metodologia de Pesquisa em Engenharia de Software e Leitura e Produção de Gêneros Acadêmicos. No caso do desenvolvimento de produto computacional, o produto consiste em um projeto integrador de todos os componentes curriculares do curso. 
+XI. Expedir declarações de participação em bancas avaliadoras de TCC.
 
-**Art. 4º** São objetivos do Trabalho de Conclusão de Curso: 
+**Art. 10°** Compete ao professor orientador as seguintes atribuições:
 
-I. Desenvolver nos estudantes a capacidade de aplicação dos conceitos e das teorias adquiridas durante o curso de forma integrada através da execução de um projeto; 
+- I. Enviar ao professor responsável pela unidade curricular Trabalho de Conclusão de Curso, dentro dos prazos previamente estipulados, os temas de TCC nos quais pretende orientar estudantes;
 
-II. Desenvolver nos estudantes a capacidade de planejamento e disciplina para resolver problemas dentro das áreas de sua formação específica; 
+II. Agendar com os discentes datas e horários para realização dos encontros que se fizerem necessários ao longo do período letivo;
 
-III. Possibilitar ao estudante a iniciação à pesquisa e incentivar a publicação de trabalhos científicos; 
+III. Orientar os estudantes na escrita da proposta de TCC;
 
-IV. Propiciar a abordagem de temas relacionados à prática profissional, inserida na dinâmica da realidade local, regional e nacional; 
+IV. Indicar, caso considere necessário, um co-orientador para o TCC a ser desenvolvido;
 
-V. Estimular a construção do conhecimento coletivo. 
+- V. Zelar pelo cumprimento dos prazos;
 
-185 
+VI. Realizar encontros com os estudantes orientandos no decorrer do componente curricular de Trabalho de Conclusão de Curso, conforme carga horária definida no Art. 18 deste regulamento;
 
-**==> picture [472 x 55] intentionally omitted <==**
+VII. Presidir as bancas avaliadoras do TCC dos seus orientandos e preencher e assinar a seção de avaliação de seus orientandos;
 
-**Art. 5º** O Trabalho de Conclusão de Curso (TCC) deve ser desenvolvido em uma das seguintes áreas: 
+VIII. Entregar ao estudante as correções das versões preliminares do produto do TCC produzido no componente curricular;
 
-I. Engenharia de Software II. Banco de Dados III. Redes de Computadores e Sistemas Distribuídos IV. Desenvolvimento de Sistemas para a Internet V. Desenvolvimento de Sistemas para Desktop VI. Desenvolvimento de Sistemas para Dispositivos Móveis VII. Linguagens de Programação VIII. Inteligência Computacional IX. Computação Gráfica X. Automação e Robótica XII. Informática na Educação XIII. Aplicações de Tecnologia da Informação XV. Sistemas de Informação 
+**Art. 11°** O co-orientador, caso exista, pode ser um docente do IFPR Campus Paranavaí ou um profissional com formação específica e/ou experiência comprovada na área de atuação do TCC.
 
-**Parágrafo único.** Caso houver interesse pela elaboração do Trabalho de Conclusão de Curso (TCC) em outra área, esta deverá ser apreciada e aprovado pelo Colegiado de Curso. 
+**Art. 12°** Compete ao discente as seguintes atribuições:
 
-**Art. 6°** São modalidades possíveis do TCC: 
+I. Conhecer e cumprir o regulamento do TCC e o calendário estabelecido para as atividades do TCC;
 
-I. Monografia; II. Artigo científico. 
+II. Entregar ao professor orientador a Proposta de TCC;
 
-**§ 1º** A monografia deverá seguir as indicações da Associação Brasileira de Normas Técnicas (ABNT) conforme manual institucional do Instituto Federal do Paraná. 
+III. Matricular-se no componente curricular de Trabalho de Conclusão de Curso junto à Secretaria Acadêmica, respeitando os prazos dos calendários dos respectivos componentes curriculares;
 
-**§ 2º** O artigo científico deve estar em formato compatível de acordo com conferências nacionais ou internacionais para posterior submissão. O estudante deverá ser o autor principal e o professor orientador deverá ser coautor do artigo. Cada artigo científico só poderá ser o produto do TCC de um estudante. 
+IV. Participar das reuniões com seu orientador;
 
-## **CAPÍTULO 2: DAS ATRIBUIÇÕES** 
+V. Entregar ao docente responsável pela unidade curricular Trabalho de Conclusão de Curso as cópias da versão preliminar do seu produto do TCC, em número correspondente à quantidade de membros da banca avaliadora, conforme calendário;
 
-**Art. 7°** São partes diretamente envolvidas no desenvolvimento de um Trabalho de Conclusão de Curso: 
+VI. Apresentar o TCC perante a banca avaliadora, no prazo fixado pela Coordenação de TCC; VII. Entregar a versão final dos produtos do TCC, em meio digital, ao docente responsável pela unidade curricular Trabalho de Conclusão de Curso, respeitando os prazos definidos no calendário.
 
-I. A Coordenação do curso; 
+**Art. 13°** Compete à Secretaria Acadêmica as seguintes atribuições:
 
-II. O Professor da unidade curricular Trabalho de Conclusão de Curso; III. O Professor Orientador; 
+I. Efetuar as matrículas dos estudantes nos componentes curriculares do curso;
 
-IV. O Professor co-orientador (opcional); 
+II. Encaminhar documentos ao Coordenador do Curso e docente responsável pela unidade curricular Trabalho de Conclusão de Curso;
 
-V. Discentes do curso; 
+III. Receber e encaminhar à Coordenação de Curso todos os requerimentos relacionados ao TCC;
 
-VI. A Secretaria Acadêmica. 
+IV. Arquivar todos os documentos, requerimentos e trabalhos relacionados ao TCC.
 
-186 
+## C **APÍTULO 3: DA ORIENTAÇÃO E ACOMPANHAMENTO DO DISCENTE**
 
-**==> picture [472 x 55] intentionally omitted <==**
+**Art. 14º** A orientação do estudante no Trabalho de Conclusão de Curso é efetuada por um docente do curso de Bacharelado em Engenharia de Software do IFPR Campus Paranavaí durante todo o desenvolvimento do Trabalho de Conclusão de Curso.
 
-**Art. 8°** Compete à Coordenação do Curso: 
+**Parágrafo único.** Caberá ao estudante a escolha do orientador e, junto com o mesmo, a escolha do tema. Ao orientador é facultada a aceitação do convite para a orientação.
 
-- I. Realizar reuniões pedagógicas; 
+**Art. 15º** O estudante matriculado na unidade curricular Trabalho de Conclusão de Curso deve apresentar sua proposta de trabalho ao docente da unidade curricular, no prazo máximo até 30 (trinta) dias após o início do ano letivo.
 
-- II. Distribuir as unidades curriculares aos seus respectivos professores; 
+**§ 1º** A proposta de que trata este artigo deve ser acompanhada de parecer da anuência do orientador do estudante.
 
-- III. Determinar o número de orientandos para cada professor orientador; 
+**§ 2º** A proposta será avaliada pelo(s) professor(es) da unidade curricular e/ou membros do colegiado do curso.
 
-IV. Fornecer adequado encaminhamento a todas as questões relacionadas à legislação e cumprimento deste regulamento; 
+**§ 3º** O desenvolvimento do trabalho só se dá a partir da aprovação da proposta de trabalho por parte dos avaliadores definidos pelo responsável pelo componente curricular.
 
-**Art. 9°** Compete ao professor docente da unidade curricular Trabalho de Conclusão de Curso a gestão de todos os procedimentos relativos ao TCC definidos por este Regulamento e, especialmente, as seguintes atribuições: 
+**Art. 16º** O professor orientador poderá convidar um co-orientador para acompanhar o discente na realização das atividades do Trabalho de Conclusão de Curso.
 
-- I. Elaborar e divulgar o calendário das atividades a serem cumpridas no componente curricular de Trabalho de Conclusão de Curso; 
+**Parágrafo Único.** O professor orientador deverá apresentar justificativa para a participação de um co-orientador do trabalho. O co-orientador poderá iniciar suas atividades após o aceite da justificativa pela coordenação de curso.
 
-II. Articular-se com o Colegiado para compatibilizar diretrizes, organização e desenvolvimento dos trabalhos; 
+**Art. 17º** O colegiado do Curso reserva-se o direito de incluir ou retirar nomes da lista de orientadores sempre que for do interesse do Curso.
 
-III. Orientar os estudantes sobre todos os aspectos relacionados ao TCC, incluindo a escolha de temas e de orientador; 
+**Parágrafo único.** O professor orientador contabilizará em seu Plano de Trabalho Docente as orientações, conforme regulamentação própria.
 
-IV. Divulgar o presente regulamento e zelar pelo seu cumprimento; 
+**Art. 18º** Cada discente deverá preencher o relatório de acompanhamento de atividades, em conjunto com o professor orientador. De acordo com o calendário de execução do TCC e orientação do Docente responsável pelo componente curricular, o discente deverá entregar os relatórios de acompanhamento.
 
-- V. Validar e divulgar a relação dos estudantes orientandos com seu respectivo professor orientador; 
+**Parágrafo único.** Cada encontro de orientação possui tempo médio de 30 minutos e poderá ser realizada semanalmente, devendo ao final da unidade curricular, somar uma quantia mínima de 17 relatórios de acompanhamento de atividades.
 
-VI. Disponibilizar para a comunidade acadêmica informações sobre os TCC em andamento; 
+## **CAPÍTULO 4: DA PROPOSTA DE TCC**
 
-VII. Organizar e divulgar o calendário das bancas avaliadoras dos TCC ao meio (apresentação prévia) e também ao final do componente curricular (apresentação final); VIII. Elaborar e disponibilizar os formulários para os pareceres de avaliação das bancas avaliadoras, bem como os requerimentos definidos por este Regulamento; 
+**Art. 19º** A Proposta de TCC é um documento elaborado pelo estudante em conjunto com o professor orientador, sob supervisão do docente responsável pela unidade curricular.
 
-IX. Registrar no sistema acadêmico as notas finais de aproveitamento e as frequências dos estudantes no componente curricular; 
+**§ 1º** Caso o produto do TCC seja uma monografia, a proposta de TCC deve conter pelo menos os seguintes itens:
 
-X. Arquivar os documentos referentes ao TCC; 
+I. Identificação, contendo o título do TCC, o nome do estudante e do professor orientador;
 
-XI. Expedir declarações de participação em bancas avaliadoras de TCC. 
+II. Objetivos;
 
-**Art. 10°** Compete ao professor orientador as seguintes atribuições: 
+III. Justificativa;
 
-- I. Enviar ao professor responsável pela unidade curricular Trabalho de Conclusão de Curso, dentro dos prazos previamente estipulados, os temas de TCC nos quais pretende orientar estudantes; 
+IV. Fundamentação teórica ou tecnologias a serem utilizadas;
 
-II. Agendar com os discentes datas e horários para realização dos encontros que se fizerem necessários ao longo do período letivo; 
+V. Metodologia;
 
-III. Orientar os estudantes na escrita da proposta de TCC; 
+VI. Cronograma;
 
-IV. Indicar, caso considere necessário, um co-orientador para o TCC a ser desenvolvido; 
+VII. Referências bibliográficas;
 
-- V. Zelar pelo cumprimento dos prazos; 
+**§ 2º** Caso o produto do TCC seja um artigo científico, a proposta corresponderá ao texto do artigo. Nesse caso, o texto da proposta deve conter pelo menos:
 
-187 
+I. Identificação, contendo o título prévio do artigo, o nome do estudante e do professor orientador;
 
-**==> picture [472 x 55] intentionally omitted <==**
+II. Resumo do trabalho a ser desenvolvido;
 
-VI. Realizar encontros com os estudantes orientandos no decorrer do componente curricular de Trabalho de Conclusão de Curso, conforme carga horária definida no Art. 18 deste regulamento; 
+III. Introdução apresentando a situação atual, objetivos, justificativas e metodologia a ser utilizada;
 
-VII. Presidir as bancas avaliadoras do TCC dos seus orientandos e preencher e assinar a seção de avaliação de seus orientandos; 
+IV. Referencial bibliográfico necessário (bibliografia básica).
 
-VIII. Entregar ao estudante as correções das versões preliminares do produto do TCC produzido no componente curricular; 
+## **CAPÍTULO 5: DA AVALIAÇÃO DE TCC**
 
-**Art. 11°** O co-orientador, caso exista, pode ser um docente do IFPR Campus Paranavaí ou um profissional com formação específica e/ou experiência comprovada na área de atuação do TCC. 
+**Art. 20º** O Trabalho de Conclusão de Curso contará com dois momentos avaliativos. A primeira avaliação ocorrerá aproximadamente no meio do ano letivo e a segunda avaliação ocorrerá no término do ano letivo.
 
-**Art. 12°** Compete ao discente as seguintes atribuições: 
+**Parágrafo único.** As datas de avaliação deverão estar previstas no cronograma de atividades do Trabalho de Conclusão de Curso.
 
-I. Conhecer e cumprir o regulamento do TCC e o calendário estabelecido para as atividades do TCC; 
+**Art. 21º** O preenchimento do Sistema Acadêmico será realizado pelo professor responsável pela unidade curricular após a finalização de cada avaliação. Os conceitos atribuídos na primeira avaliação serão replicados nos períodos avaliativos em abertos, conforme definido no plano de ensino. Os conceitos atribuídos na última avaliação serão replicados nos períodos avaliativos em abertos, conforme definido no plano de ensino. O conceito final do componente curricular será atribuído pelo professor responsável pela unidade curricular em conjunto com a banca avaliadora.
 
-II. Entregar ao professor orientador a Proposta de TCC; 
+**Parágrafo único.** Os conceitos atribuídos deverão estar de acordo com as normas estabelecidas na Resolução do IFPR, sendo conceitos atribuídos A, B, C ou D.
 
-III. Matricular-se no componente curricular de Trabalho de Conclusão de Curso junto à Secretaria Acadêmica, respeitando os prazos dos calendários dos respectivos componentes curriculares; 
+**Art. 22º** A banca prévia ou banca final será constituída por pelo menos 2 (dois) docentes, sendo um docente o professor orientador (presidente da banca) e o outro docente um
 
-IV. Participar das reuniões com seu orientador; 
+professor convidado. É indicado a presença de 3 (três) ou mais professores avaliadores para cada banca.
 
-V. Entregar ao docente responsável pela unidade curricular Trabalho de Conclusão de Curso as cópias da versão preliminar do seu produto do TCC, em número correspondente à quantidade de membros da banca avaliadora, conforme calendário; 
+**§ 1º** O tempo da apresentação do trabalho pelo discente será de 30 (trinta) minutos, sendo reservado até 20 (vinte) minutos para arguição da banca examinadora.
 
-VI. Apresentar o TCC perante a banca avaliadora, no prazo fixado pela Coordenação de TCC; VII. Entregar a versão final dos produtos do TCC, em meio digital, ao docente responsável pela unidade curricular Trabalho de Conclusão de Curso, respeitando os prazos definidos no calendário. 
+**§ 2º** Os nomes dos membros da banca avaliadora serão indicados pelo professor orientador em conformidade com o calendário do TCC;
 
-**Art. 13°** Compete à Secretaria Acadêmica as seguintes atribuições: 
+**§ 3º** As datas, horários, locais e composição das bancas avaliadoras serão divulgados pelo professor responsável pela unidade curricular;
 
-I. Efetuar as matrículas dos estudantes nos componentes curriculares do curso; 
+**§ 4º** Encerrada a sessão, a banca examinadora reunir-se-á para decidir sobre a avaliação do TCC, ocasião em que é lavrada ata, a qual é encaminhada ao professor responsável pela unidade curricular para as providências cabíveis.
 
-II. Encaminhar documentos ao Coordenador do Curso e docente responsável pela unidade curricular Trabalho de Conclusão de Curso; 
+**§ 5º** Pode ser concedido, a critério da banca, um prazo de no máximo 14 dias corridos, a contar da data da defesa, para que o discente efetue as correções e adaptações necessárias no trabalho.
 
-III. Receber e encaminhar à Coordenação de Curso todos os requerimentos relacionados ao TCC; 
+**Art. 23º** Cada membro da banca avaliadora atribuirá um conceito à defesa oral do TCC do estudante. O conceito será correspondente à avaliação e às respostas dadas pelo estudante à arguição pela banca avaliadora.
 
-IV. Arquivar todos os documentos, requerimentos e trabalhos relacionados ao TCC. 
+**Parágrafo Único.** Na avaliação da apresentação e das respostas às arguições orais serão considerados os seguintes critérios:
 
-## C **APÍTULO 3: DA ORIENTAÇÃO E ACOMPANHAMENTO DO DISCENTE** 
+I. Controle e organização do tempo; II. Domínio do conteúdo; III. Clareza e objetividade; IV. Adequação formal do discurso;
 
-**Art. 14º** A orientação do estudante no Trabalho de Conclusão de Curso é efetuada por um docente do curso de Bacharelado em Engenharia de Software do IFPR Campus Paranavaí durante todo o desenvolvimento do Trabalho de Conclusão de Curso. 
+V. Consistência das respostas às manifestações da banca avaliadora.
 
-188 
+**Art. 24º** Na avaliação do texto produzido pelo discente como produto de TCC, cada membro da banca avaliadora atribuirá conceito considerando os seguintes critérios:
 
-**==> picture [472 x 55] intentionally omitted <==**
+I. Delimitação adequada do objeto; II. Relevância do desenvolvimento do objeto; III. Abordagem adequada do problema objeto;
 
-**Parágrafo único.** Caberá ao estudante a escolha do orientador e, junto com o mesmo, a escolha do tema. Ao orientador é facultada a aceitação do convite para a orientação. 
+IV. Domínio do conteúdo;
 
-**Art. 15º** O estudante matriculado na unidade curricular Trabalho de Conclusão de Curso deve apresentar sua proposta de trabalho ao docente da unidade curricular, no prazo máximo até 30 (trinta) dias após o início do ano letivo. 
+V. Abordagem crítica, analítica e propositiva;
 
-**§ 1º** A proposta de que trata este artigo deve ser acompanhada de parecer da anuência do orientador do estudante. 
+VI. Coesão e unidade do trabalho; VII. Análise interdisciplinar; VIII. Observância dos aspectos formais;
 
-**§ 2º** A proposta será avaliada pelo(s) professor(es) da unidade curricular e/ou membros do colegiado do curso. 
+## **CAPÍTULO 6: DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS**
 
-**§ 3º** O desenvolvimento do trabalho só se dá a partir da aprovação da proposta de trabalho por parte dos avaliadores definidos pelo responsável pelo componente curricular. 
+**Art. 25º** Os casos omissos são resolvidos pelo colegiado de curso, no âmbito de suas competências, ouvidos o coordenador de curso, o docente responsável pelo componente curricular e o docente orientador.
 
-**Art. 16º** O professor orientador poderá convidar um co-orientador para acompanhar o discente na realização das atividades do Trabalho de Conclusão de Curso. 
+**Parágrafo único.** Em casos excepcionais, poderão ser solicitados a participação do discente orientado, coordenação de ensino ou direção de ensino para análise e providências.
 
-**Parágrafo Único.** O professor orientador deverá apresentar justificativa para a participação de um co-orientador do trabalho. O co-orientador poderá iniciar suas atividades após o aceite da justificativa pela coordenação de curso. 
+## **APÊNDICE C - Regulamento de Atividades Complementares**
 
-**Art. 17º** O colegiado do Curso reserva-se o direito de incluir ou retirar nomes da lista de orientadores sempre que for do interesse do Curso. 
+## **IIP Nº 02 INSTRUÇÃO INTERNA DE PROCEDIMENTOS DO CAMPUS IIPC Nº 02, DE 31 DE MARÇO DE 2015 – DIREÇÃO GERAL DO IFPR CAMPUS PARANAVAÍ**
 
-**Parágrafo único.** O professor orientador contabilizará em seu Plano de Trabalho Docente as orientações, conforme regulamentação própria. 
+## **CAPÍTULO I: NATUREZA DAS ATIVIDADES COMPLEMENTARES**
 
-**Art. 18º** Cada discente deverá preencher o relatório de acompanhamento de atividades, em conjunto com o professor orientador. De acordo com o calendário de execução do TCC e orientação do Docente responsável pelo componente curricular, o discente deverá entregar os relatórios de acompanhamento. 
+- **Art. 1.º** O presente regulamento define as Atividades Complementares contendo as normas gerais para a sua operacionalização no âmbito do IFPR - campus de Paranavaí.
 
-**Parágrafo único.** Cada encontro de orientação possui tempo médio de 30 minutos e poderá ser realizada semanalmente, devendo ao final da unidade curricular, somar uma quantia mínima de 17 relatórios de acompanhamento de atividades. 
+- **Art. 2.º** São consideradas Atividades Complementares todas as atividades de natureza acadêmica, científica, artística, esportiva e cultural que buscam a integração e/ou articulação entre ensino médio, profissionalizante e superior, além da pesquisa e extensão, e que não estão compreendidas nas práticas pedagógicas previstas no desenvolvimento regular dos componentes curriculares obrigatórios do currículo pleno.
 
-## **CAPÍTULO 4: DA PROPOSTA DE TCC** 
+- **Art. 3.º** É obrigatório e de responsabilidade dos estudantes dos cursos, que tiverem o requisito explicitado no Projeto Pedagógico de Curso, o cumprimento da carga horária destinada às Atividades Complementares, sendo o seu integral cumprimento indispensável para a Conclusão do Curso.
 
-**Art. 19º** A Proposta de TCC é um documento elaborado pelo estudante em conjunto com o professor orientador, sob supervisão do docente responsável pela unidade curricular. 
+- **Art. 4.º** As Atividades Complementares poderão ser validadas a partir do ingresso do estudante no Curso, desde que os comprovantes de participação sejam devidamente protocolados no setor de protocolo.
 
-189 
+## **CAPÍTULO II: DO LOCAL E DA REALIZAÇÃO**
 
-**==> picture [472 x 55] intentionally omitted <==**
+- **Art. 5.º** As Atividades Complementares poderão ser desenvolvidas no próprio IFPR ou em organizações públicas e privadas, que propiciem a complementação da formação do estudante conforme Artigo 2° deste Regulamento.
 
-**§ 1º** Caso o produto do TCC seja uma monografia, a proposta de TCC deve conter pelo menos os seguintes itens: 
+**Parágrafo único** : As Atividades Complementares deverão, preferencialmente, ser realizadas em horários distintos do curso frequentado, não podendo ser utilizadas para justificativa de faltas.
 
-I. Identificação, contendo o título do TCC, o nome do estudante e do professor orientador; 
+## **CAPÍTULO III: DAS ATIVIDADES COMPLEMENTARES**
 
-II. Objetivos; 
+**Art. 6.º** As Atividades Complementares são ações curriculares que possibilitam a formação complementar e interdisciplinar do estudante, estão classificadas em três grupos:
 
-III. Justificativa; 
+**I** – Atividades de ensino; **II** – Atividades de pesquisa, extensão e inovação; **III** – Atividades de formação social, humana e cultural.
 
-IV. Fundamentação teórica ou tecnologias a serem utilizadas; 
+## **Seção I: Das Atividades de Ensino**
 
-V. Metodologia; 
+**Art. 7.º** No presente regulamento serão consideradas Atividades de Ensino aquelas realizadas no âmbito do próprio curso, podendo ser:
 
-VI. Cronograma; 
+a) Estágio Supervisionado (Não Obrigatório);
 
-VII. Referências bibliográficas; 
+b) Monitoria;
 
-**§ 2º** Caso o produto do TCC seja um artigo científico, a proposta corresponderá ao texto do artigo. Nesse caso, o texto da proposta deve conter pelo menos: 
+c) Aula magna;
 
-I. Identificação, contendo o título prévio do artigo, o nome do estudante e do professor orientador; 
+d) Palestras;
 
-II. Resumo do trabalho a ser desenvolvido; 
+e) Fóruns e seminários;
 
-III. Introdução apresentando a situação atual, objetivos, justificativas e metodologia a ser utilizada; 
+f) Conferências e congressos;
 
-IV. Referencial bibliográfico necessário (bibliografia básica). 
+g) Debates;
 
-## **CAPÍTULO 5: DA AVALIAÇÃO DE TCC** 
+h) Encontros;
 
-**Art. 20º** O Trabalho de Conclusão de Curso contará com dois momentos avaliativos. A primeira avaliação ocorrerá aproximadamente no meio do ano letivo e a segunda avaliação ocorrerá no término do ano letivo. 
+i) Jornadas acadêmicas;
 
-**Parágrafo único.** As datas de avaliação deverão estar previstas no cronograma de atividades do Trabalho de Conclusão de Curso. 
+j) Simpósios;
 
-**Art. 21º** O preenchimento do Sistema Acadêmico será realizado pelo professor responsável pela unidade curricular após a finalização de cada avaliação. Os conceitos atribuídos na primeira avaliação serão replicados nos períodos avaliativos em abertos, conforme definido no plano de ensino. Os conceitos atribuídos na última avaliação serão replicados nos períodos avaliativos em abertos, conforme definido no plano de ensino. O conceito final do componente curricular será atribuído pelo professor responsável pela unidade curricular em conjunto com a banca avaliadora. 
+k) Visitas monitoradas realizadas pelo IFPR;
 
-**Parágrafo único.** Os conceitos atribuídos deverão estar de acordo com as normas estabelecidas na Resolução do IFPR, sendo conceitos atribuídos A, B, C ou D. 
+l) Atividades de campo;
 
-**Art. 22º** A banca prévia ou banca final será constituída por pelo menos 2 (dois) docentes, sendo um docente o professor orientador (presidente da banca) e o outro docente um 
+m) Outros cursos técnicos ou de graduação em áreas correlatas ao curso;
 
-190 
+n) Curso de qualificação em áreas correlatas ao curso;
 
-**==> picture [472 x 55] intentionally omitted <==**
+o) Participação em projetos de ensino;
 
-professor convidado. É indicado a presença de 3 (três) ou mais professores avaliadores para cada banca. 
+p) Participação em grupos de estudos;
 
-**§ 1º** O tempo da apresentação do trabalho pelo discente será de 30 (trinta) minutos, sendo reservado até 20 (vinte) minutos para arguição da banca examinadora. 
+q) Menções honrosas;
 
-**§ 2º** Os nomes dos membros da banca avaliadora serão indicados pelo professor orientador em conformidade com o calendário do TCC; 
+r) Honra ao mérito.
 
-**§ 3º** As datas, horários, locais e composição das bancas avaliadoras serão divulgados pelo professor responsável pela unidade curricular; 
+## **Subseção I: Do Estágio Supervisionado Não Obrigatório**
 
-**§ 4º** Encerrada a sessão, a banca examinadora reunir-se-á para decidir sobre a avaliação do TCC, ocasião em que é lavrada ata, a qual é encaminhada ao professor responsável pela unidade curricular para as providências cabíveis. 
+**Art. 8.º** O **Estágio** é ato educativo escolar, desenvolvido no ambiente de trabalho, que visa à preparação para o trabalho produtivo dos estudantes que estejam frequentando os cursos de ensino regular no Instituto Federal do Paraná.
 
-**§ 5º** Pode ser concedido, a critério da banca, um prazo de no máximo 14 dias corridos, a contar da data da defesa, para que o discente efetue as correções e adaptações necessárias no trabalho. 
+**Art. 9.º** O **Estágio Supervisionado Não Obrigatório** obedece à regulamentação própria e à Resolução CONSUP/IFPR n° 02 de 26 de março de 2013, em consonância com o disposto na Lei nº 11.788/2008.
 
-**Art. 23º** Cada membro da banca avaliadora atribuirá um conceito à defesa oral do TCC do estudante. O conceito será correspondente à avaliação e às respostas dadas pelo estudante à arguição pela banca avaliadora. 
+**Parágrafo único:** As horas do **Estágio Obrigatório** não serão computadas como Atividades Complementares.
 
-**Parágrafo Único.** Na avaliação da apresentação e das respostas às arguições orais serão considerados os seguintes critérios: 
+## **Subseção II: Da Monitoria**
 
-I. Controle e organização do tempo; II. Domínio do conteúdo; III. Clareza e objetividade; IV. Adequação formal do discurso; 
+**Art. 10.º** A **Monitoria** é considerada uma experiência pedagógica oferecida ao estudante regularmente matriculado, sendo desenvolvida sob a orientação e supervisão docente.
 
-V. Consistência das respostas às manifestações da banca avaliadora. 
+**Parágrafo único** : A Monitoria obedece à regulamentação própria estabelecida por meio de edital específico.
 
-**Art. 24º** Na avaliação do texto produzido pelo discente como produto de TCC, cada membro da banca avaliadora atribuirá conceito considerando os seguintes critérios: 
+## **Seção II: Das Atividades de Pesquisa, Extensão e Inovação**
 
-I. Delimitação adequada do objeto; II. Relevância do desenvolvimento do objeto; III. Abordagem adequada do problema objeto; 
+**Art. 11.º** São consideradas Atividades de Pesquisa, Extensão e Inovação aquelas que se referem à produção do conhecimento, por meio de estudos específicos, visando a desenvolver no estudante a vocação, o interesse e a aptidão para a investigação, com vistas ao avanço científico, cultural, tecnológico e socioeconômico da região e do país. Serão consideradas Atividades de Pesquisa, Extensão e Inovação:
 
-IV. Domínio do conteúdo; 
+- a) Participação em programas de bolsas institucionais;
 
-V. Abordagem crítica, analítica e propositiva; 
+- b) Participação em programas de bolsas ofertados por Agências de Fomento;
 
-VI. Coesão e unidade do trabalho; VII. Análise interdisciplinar; VIII. Observância dos aspectos formais; 
+- c) Participação em projetos de Pesquisa, Extensão e Inovação;
 
-191 
+- d) Participação como apresentador de trabalhos em palestras, congressos e seminários;
 
-**==> picture [472 x 55] intentionally omitted <==**
+- e) Participação como expositor em exposições técnico-científicas;
 
-## **CAPÍTULO 6: DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS** 
+- f) Participação na organização de exposições e seminários de caráter acadêmico;
 
-**Art. 25º** Os casos omissos são resolvidos pelo colegiado de curso, no âmbito de suas competências, ouvidos o coordenador de curso, o docente responsável pelo componente curricular e o docente orientador. 
+- g) Publicações em revistas técnicas;
 
-**Parágrafo único.** Em casos excepcionais, poderão ser solicitados a participação do discente orientado, coordenação de ensino ou direção de ensino para análise e providências. 
+- h) Publicações em anais de eventos técnico-científicos ou em periódicos científicos de abrangência local, regional, nacional ou internacional;
 
-192 
+- i) Livro ou capítulo de livros publicados;
 
-**==> picture [472 x 55] intentionally omitted <==**
+- j) Participação em grupos de pesquisas;
 
-## **APÊNDICE C - Regulamento de Atividades Complementares** 
+- k) Participação em Empresa Júnior, Hotel Tecnológico, Incubadora Tecnológica;
 
-## **IIP Nº 02 INSTRUÇÃO INTERNA DE PROCEDIMENTOS DO CAMPUS IIPC Nº 02, DE 31 DE MARÇO DE 2015 – DIREÇÃO GERAL DO IFPR CAMPUS PARANAVAÍ** 
+- l) Participação em projetos multidisciplinares ou interdisciplinares;
 
-## **CAPÍTULO I: NATUREZA DAS ATIVIDADES COMPLEMENTARES** 
+- m) Menções honrosas;
 
-- **Art. 1.º** O presente regulamento define as Atividades Complementares contendo as normas gerais para a sua operacionalização no âmbito do IFPR - campus de Paranavaí. 
+- n) Honra ao mérito.
 
-- **Art. 2.º** São consideradas Atividades Complementares todas as atividades de natureza acadêmica, científica, artística, esportiva e cultural que buscam a integração e/ou articulação entre ensino médio, profissionalizante e superior, além da pesquisa e extensão, e que não estão compreendidas nas práticas pedagógicas previstas no desenvolvimento regular dos componentes curriculares obrigatórios do currículo pleno. 
+## **Seção III: Das Atividades de formação social, humana e cultural**
 
-- **Art. 3.º** É obrigatório e de responsabilidade dos estudantes dos cursos, que tiverem o requisito explicitado no Projeto Pedagógico de Curso, o cumprimento da carga horária destinada às Atividades Complementares, sendo o seu integral cumprimento indispensável para a Conclusão do Curso. 
+**Art. 12.º** Serão consideradas Atividades de Formação Social, Humana e Cultural as seguintes atividades:
 
-- **Art. 4.º** As Atividades Complementares poderão ser validadas a partir do ingresso do estudante no Curso, desde que os comprovantes de participação sejam devidamente protocolados no setor de protocolo. 
+a) Participação em atividades esportivas;
 
-## **CAPÍTULO II: DO LOCAL E DA REALIZAÇÃO** 
+b) Participação em cursos de língua estrangeira;
 
-- **Art. 5.º** As Atividades Complementares poderão ser desenvolvidas no próprio IFPR ou em organizações públicas e privadas, que propiciem a complementação da formação do estudante conforme Artigo 2° deste Regulamento. 
+c) Participação em atividades artísticas e culturais, tais como: banda marcial, camerata de sopro, teatro, coral, radioamadorismo e outras;
 
-193 
+d) Participação na organização de exposições e seminários de caráter artístico ou cultural;
 
-**==> picture [472 x 55] intentionally omitted <==**
+e) Participação como expositor em exposição artística ou cultural;
 
-**Parágrafo único** : As Atividades Complementares deverão, preferencialmente, ser realizadas em horários distintos do curso frequentado, não podendo ser utilizadas para justificativa de faltas. 
+f) Participação efetiva em Diretórios e Centros Acadêmicos, Entidades de Classe, Conselhos e Colegiados internos à Instituição;
 
-## **CAPÍTULO III: DAS ATIVIDADES COMPLEMENTARES** 
+g) Participação em trabalho voluntário, atividades comunitárias, Comissão Interna de Prevenção de Acidentes (CIPAS), associações de bairros, brigadas de incêndio e associações escolares;
 
-**Art. 6.º** As Atividades Complementares são ações curriculares que possibilitam a formação complementar e interdisciplinar do estudante, estão classificadas em três grupos: 
+h) Participação em atividades beneficentes;
 
-**I** – Atividades de ensino; **II** – Atividades de pesquisa, extensão e inovação; **III** – Atividades de formação social, humana e cultural. 
+i) Atuação como instrutor em palestras técnicas, seminários, cursos da área específica, desde que não remunerados;
 
-## **Seção I: Das Atividades de Ensino** 
+j) Engajamento como docente não remunerado em cursos preparatórios e de reforço escolar;
 
-**Art. 7.º** No presente regulamento serão consideradas Atividades de Ensino aquelas realizadas no âmbito do próprio curso, podendo ser: 
+k) Menções honrosas;
 
-a) Estágio Supervisionado (Não Obrigatório); 
+l) Honra ao mérito.
 
-b) Monitoria; 
+## **CAPÍTULO III: DA ADMINISTRAÇÃO**
 
-c) Aula magna; 
+**Art. 13.º** A organização administrativa das atividades complementares do Instituto Federal do Paraná - Campus Paranavaí envolve:
 
-d) Palestras; 
+**I** – Núcleo Docente Estruturante;
 
-e) Fóruns e seminários; 
+**II** – Coordenador de Curso;
 
-f) Conferências e congressos; 
+**III** – Responsável pelo registro das Atividades Complementares;
 
-g) Debates; 
+**IV** – Colegiado de Curso.
 
-h) Encontros; 
+**Art. 14.º** Compete ao Núcleo Docente Estruturante (NDE):
 
-i) Jornadas acadêmicas; 
+- **I** – Especificar as Atividades Complementares, com base na carga horária total prevista na matriz curricular do Projeto Político Pedagógico do Curso, especificando:
 
-j) Simpósios; 
+   - a)   a carga horária mínima a ser destinado ao cumprimento de atividades complementares em cada grupo; e
 
-194 
+   - b)   os critérios de equivalência entre a carga horária efetivamente cumprida no exercício de atividade de determinado tipo/grupo, bem como a carga horária a ser considerada para fins de validação como Atividade Complementar.
 
-**==> picture [472 x 55] intentionally omitted <==**
+**Parágrafo único:** A especificação de que trata o inciso I será parte integrante do Projeto Político Pedagógico do Curso.
 
-k) Visitas monitoradas realizadas pelo IFPR; 
+**Art. 15.º** Compete à Coordenação de Curso:
 
-l) Atividades de campo; 
+- **I** –  No início de cada período letivo, em conjunto com o Colegiado do Curso: oportunizar, organizar e divulgar as Atividades Complementares do Curso;
 
-m) Outros cursos técnicos ou de graduação em áreas correlatas ao curso; 
+- **II** –   Incentivar a participação dos estudantes em eventos acadêmicos e culturais organizados pelo Colegiado e demais órgãos do Campus;
 
-n) Curso de qualificação em áreas correlatas ao curso; 
+- **III** – Buscar parcerias com outros núcleos e órgãos internos e externos, junto aos quais os estudantes possam desenvolver as Atividades Complementares;
 
-o) Participação em projetos de ensino; 
+- **IV** – Indicar um professor para acompanhamento das Atividades Complementares.
 
-p) Participação em grupos de estudos; 
+   - **Parágrafo único** : O professor responsável pelo acompanhamento das Atividades Complementares poderá destinar até 2 horas semanais de sua carga horária para realização das atribuições pertinentes à função. Esta carga horária será considerada como atividade de ensino e deverá ser contabilizada como aula.
 
-q) Menções honrosas; 
+- **Art. 16.º** A supervisão das Atividades Complementares será realizada por professor responsável designado pela Coordenação de Curso.
 
-r) Honra ao mérito. 
+- **Art. 17.º** Compete ao professor responsável pelo Acompanhamento das Atividades Complementares as seguintes atribuições:
 
-## **Subseção I: Do Estágio Supervisionado Não Obrigatório** 
+   - **I** – executar as normas previstas neste Regulamento;
 
-**Art. 8.º** O **Estágio** é ato educativo escolar, desenvolvido no ambiente de trabalho, que visa à preparação para o trabalho produtivo dos estudantes que estejam frequentando os cursos de ensino regular no Instituto Federal do Paraná. 
+   - **II** –   gerenciar todas as questões referentes às Atividades Complementares;
 
-**Art. 9.º** O **Estágio Supervisionado Não Obrigatório** obedece à regulamentação própria e à Resolução CONSUP/IFPR n° 02 de 26 de março de 2013, em consonância com o disposto na Lei nº 11.788/2008. 
+   - **III** – realizar reuniões com os estudantes do curso com a finalidade de orientá-los e prestar esclarecimentos referentes às Atividades Complementares;
 
-**Parágrafo único:** As horas do **Estágio Obrigatório** não serão computadas como Atividades Complementares. 
+   - **IV** – receber e conferir a documentação comprobatória das Atividades Complementares dos estudantes nos prazos estabelecidos;
 
-## **Subseção II: Da Monitoria** 
+   - **V** –  proceder à análise dos documentos recebidos e sua pertinência como Atividade Complementar, atribuindo carga horária até o limite máximo de cada atividade, de acordo com a tabela de convalidação e equivalência existente no Projeto Político Pedagógico do Curso;
 
-**Art. 10.º** A **Monitoria** é considerada uma experiência pedagógica oferecida ao estudante regularmente matriculado, sendo desenvolvida sob a orientação e supervisão docente. 
+   - **VI** – proceder os registros referentes às Atividades Complementares e demais atividades dela decorrentes, mantendo o cadastro individual atualizado para o acompanhamento do desenvolvimento das atividades executadas pelo estudante;
 
-195 
+   - **VII** – emitir parecer referente à documentação apresentada pelo estudante, fazer e encaminhar relatórios ao final de cada semestre das atividades desenvolvidas à Coordenação de Curso;
 
-**==> picture [472 x 55] intentionally omitted <==**
+   - **VIII** – publicar semestralmente, na forma de edital, ao final de cada semestre a carga horária já contabilizada de cada estudante;
 
-**Parágrafo único** : A Monitoria obedece à regulamentação própria estabelecida por meio de edital específico. 
+   - **IX** – propor à Coordenação de Curso a inclusão de novas atividades acadêmicas quando for necessário;
 
-## **Seção II: Das Atividades de Pesquisa, Extensão e Inovação** 
+   - **XI** – participar das reuniões necessárias para a operacionalização das ações referentes às Atividades Complementares;
 
-**Art. 11.º** São consideradas Atividades de Pesquisa, Extensão e Inovação aquelas que se referem à produção do conhecimento, por meio de estudos específicos, visando a desenvolver no estudante a vocação, o interesse e a aptidão para a investigação, com vistas ao avanço científico, cultural, tecnológico e socioeconômico da região e do país. Serão consideradas Atividades de Pesquisa, Extensão e Inovação: 
+   - **XII** – realizar a alimentação do Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA);
 
-- a) Participação em programas de bolsas institucionais; 
+   - **XIII** – encaminhar à Secretaria Acadêmica do Campus o resultado final das Atividades Complementares;
 
-- b) Participação em programas de bolsas ofertados por Agências de Fomento; 
+   - **XIV** – encaminhar os casos omissos ao Colegiado de Curso.
 
-- c) Participação em projetos de Pesquisa, Extensão e Inovação; 
+- **Art. 18.º** Compete ao Colegiado de Curso as seguintes atribuições:
 
-- d) Participação como apresentador de trabalhos em palestras, congressos e seminários; 
+   - **I** – Analisar os pedidos de reconsideração formulados pelos estudantes em relação ao indeferimento do cômputo das atividades.
 
-- e) Participação como expositor em exposições técnico-científicas; 
+   - **II** – Propor e executar atividades que oportunizem carga horária de Atividades Complementares;
 
-- f) Participação na organização de exposições e seminários de caráter acadêmico; 
+## **CAPÍTULO V: DA SECRETARIA ACADÊMICA**
 
-- g) Publicações em revistas técnicas; 
+**Art. 19.º** À Secretaria Acadêmica do Campus compete:
 
-- h) Publicações em anais de eventos técnico-científicos ou em periódicos científicos de abrangência local, regional, nacional ou internacional; 
+**I** – Receber e protocolar os comprovantes das atividades realizadas pelos estudantes;
 
-- i) Livro ou capítulo de livros publicados; 
+**II** – Entregar ao professor Responsável pelas Atividades Complementares de cada curso os comprovantes das Atividades Complementares protocoladas.
 
-- j) Participação em grupos de pesquisas; 
+**Parágrafo único:** A Secretaria Acadêmica autenticará duas cópias do comprovante da Atividade Complementar apresentado pelo aluno, sendo que uma ficará na
 
-- k) Participação em Empresa Júnior, Hotel Tecnológico, Incubadora Tecnológica; 
+pasta do aluno, na própria secretaria, e outra será encaminhada ao professor responsável pelas Atividades Complementares do Curso.
 
-- l) Participação em projetos multidisciplinares ou interdisciplinares; 
+## **CAPÍTULO VI: DAS OBRIGAÇÕES DO ESTUDANTE**
 
-- m) Menções honrosas; 
+**Art. 20.º** Ao estudante compete:
 
-- n) Honra ao mérito. 
+      - **I** – Cumprir a carga horária total das Atividades Complementares conforme estabelecido no Projeto Político Pedagógico do Curso;
 
-196 
+      - **II** – Protocolar junto à Secretaria Acadêmica do Campus cópia de documentação que ateste o cumprimento das Atividades Complementares;
 
-**==> picture [472 x 55] intentionally omitted <==**
+- **III** – Atender a todas as exigências presentes neste regulamento.
 
-## **Seção III: Das Atividades de formação social, humana e cultural** 
+   - **Parágrafo único:** É responsabilidade do estudante a iniciativa, a realização e o gerenciamento das próprias Atividades Complementares a serem cumpridas ao longo de sua trajetória acadêmica.
 
-**Art. 12.º** Serão consideradas Atividades de Formação Social, Humana e Cultural as seguintes atividades: 
+   - **Art. 21.º** O estudante deverá protocolar junto à Secretaria Acadêmica duas cópias do documento comprobatório da realização da Atividade Complementar. A documentação a ser apresentada deverá ser devidamente legitimada pela Instituição emitente, contendo carimbo e assinatura ou outra forma de avaliação e especificação de carga horária, período de execução e descrição da Atividade.
 
-a) Participação em atividades esportivas; 
+   - **Art. 22.º** O estudante deverá protocolar seus comprovantes das Atividades Complementares num prazo máximo de 30 dias antes do último dia letivo da última série ou período do curso.
 
-b) Participação em cursos de língua estrangeira; 
+- **Art. 23.º** O estudante transferido de outra Instituição de Ensino deverá cumprir integralmente a carga horária das atividades complementares estabelecidas para o curso, sendo convalidadas as horas cumpridas em tais atividades durante o período cursado na instituição anterior, desde que comprovadas na documentação de transferência.
 
-c) Participação em atividades artísticas e culturais, tais como: banda marcial, camerata de sopro, teatro, coral, radioamadorismo e outras; 
+- **Parágrafo único:** A convalidação dar-se-á de forma direta, ou seja, toda a carga horária de Atividades Complementares realizada no período em que o aluno estava em curso na Instituição de Ensino anterior será contabilizada.
 
-d) Participação na organização de exposições e seminários de caráter artístico ou cultural; 
+## **CAPÍTULO VII: DAS DISPOSIÇÕES GERAIS**
 
-e) Participação como expositor em exposição artística ou cultural; 
+- **Art. 24.º** Outros comprovantes de Atividades Complementares não elencadas nas Seções I, II e III poderão ser protocolados. Estes serão analisados e validados em primeira instância pelo professor responsável pelas Atividades Complementares e, se o professor responsável achar necessário, em segunda instância pelo Colegiado do Curso.
 
-f) Participação efetiva em Diretórios e Centros Acadêmicos, Entidades de Classe, Conselhos e Colegiados internos à Instituição; 
+- **Art. 25.º** O desenvolvimento das Atividades Complementares está explicitado no Projeto Pedagógico de cada Curso.
 
-g) Participação em trabalho voluntário, atividades comunitárias, Comissão Interna de Prevenção de Acidentes (CIPAS), associações de bairros, brigadas de incêndio e associações escolares; 
+- **Art. 26.º** As Atividades Complementares realizadas durante o período de eventual trancamento, bem como realizadas antes do ingresso do estudante no curso, não serão contabilizadas.
 
-h) Participação em atividades beneficentes; 
+- **Art. 27.º** Caso a Atividade Complementar realizada pelo aluno seja indeferida, por parte do professor responsável pelo acompanhamento das Atividades Complementares, o aluno poderá protocolar pedido de recurso destinado ao Colegiado do Curso.
 
-i) Atuação como instrutor em palestras técnicas, seminários, cursos da área específica, desde que não remunerados; 
+- **Art. 28.º** O trâmite da documentação das atividades complementares ocorrerá conforme o fluxo apresentado no Anexo I.
 
-j) Engajamento como docente não remunerado em cursos preparatórios e de reforço escolar; 
+- **Art. 29.º** Os casos omissos serão resolvidos pela Direção de Ensino, Pesquisa e Extensão, ouvida pelo Colegiado do Curso.
 
-k) Menções honrosas; 
+- **Art. 30.º** Este regulamento entrará em vigor na data de sua publicação, revogando-se as disposições em contrário.
 
-l) Honra ao mérito. 
-
-## **CAPÍTULO III: DA ADMINISTRAÇÃO** 
-
-**Art. 13.º** A organização administrativa das atividades complementares do Instituto Federal do Paraná - Campus Paranavaí envolve: 
-
-**I** – Núcleo Docente Estruturante; 
-
-**II** – Coordenador de Curso; 
-
-197 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-**III** – Responsável pelo registro das Atividades Complementares; 
-
-**IV** – Colegiado de Curso. 
-
-**Art. 14.º** Compete ao Núcleo Docente Estruturante (NDE): 
-
-- **I** – Especificar as Atividades Complementares, com base na carga horária total prevista na matriz curricular do Projeto Político Pedagógico do Curso, especificando: 
-
-   - a)   a carga horária mínima a ser destinado ao cumprimento de atividades complementares em cada grupo; e 
-
-   - b)   os critérios de equivalência entre a carga horária efetivamente cumprida no exercício de atividade de determinado tipo/grupo, bem como a carga horária a ser considerada para fins de validação como Atividade Complementar. 
-
-**Parágrafo único:** A especificação de que trata o inciso I será parte integrante do Projeto Político Pedagógico do Curso. 
-
-**Art. 15.º** Compete à Coordenação de Curso: 
-
-- **I** –  No início de cada período letivo, em conjunto com o Colegiado do Curso: oportunizar, organizar e divulgar as Atividades Complementares do Curso; 
-
-- **II** –   Incentivar a participação dos estudantes em eventos acadêmicos e culturais organizados pelo Colegiado e demais órgãos do Campus; 
-
-- **III** – Buscar parcerias com outros núcleos e órgãos internos e externos, junto aos quais os estudantes possam desenvolver as Atividades Complementares; 
-
-- **IV** – Indicar um professor para acompanhamento das Atividades Complementares. 
-
-198 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-   - **Parágrafo único** : O professor responsável pelo acompanhamento das Atividades Complementares poderá destinar até 2 horas semanais de sua carga horária para realização das atribuições pertinentes à função. Esta carga horária será considerada como atividade de ensino e deverá ser contabilizada como aula. 
-
-- **Art. 16.º** A supervisão das Atividades Complementares será realizada por professor responsável designado pela Coordenação de Curso. 
-
-- **Art. 17.º** Compete ao professor responsável pelo Acompanhamento das Atividades Complementares as seguintes atribuições: 
-
-   - **I** – executar as normas previstas neste Regulamento; 
-
-   - **II** –   gerenciar todas as questões referentes às Atividades Complementares; 
-
-   - **III** – realizar reuniões com os estudantes do curso com a finalidade de orientá-los e prestar esclarecimentos referentes às Atividades Complementares; 
-
-   - **IV** – receber e conferir a documentação comprobatória das Atividades Complementares dos estudantes nos prazos estabelecidos; 
-
-   - **V** –  proceder à análise dos documentos recebidos e sua pertinência como Atividade Complementar, atribuindo carga horária até o limite máximo de cada atividade, de acordo com a tabela de convalidação e equivalência existente no Projeto Político Pedagógico do Curso; 
-
-   - **VI** – proceder os registros referentes às Atividades Complementares e demais atividades dela decorrentes, mantendo o cadastro individual atualizado para o acompanhamento do desenvolvimento das atividades executadas pelo estudante; 
-
-   - **VII** – emitir parecer referente à documentação apresentada pelo estudante, fazer e encaminhar relatórios ao final de cada semestre das atividades desenvolvidas à Coordenação de Curso; 
-
-199 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-   - **VIII** – publicar semestralmente, na forma de edital, ao final de cada semestre a carga horária já contabilizada de cada estudante; 
-
-   - **IX** – propor à Coordenação de Curso a inclusão de novas atividades acadêmicas quando for necessário; 
-
-   - **XI** – participar das reuniões necessárias para a operacionalização das ações referentes às Atividades Complementares; 
-
-   - **XII** – realizar a alimentação do Sistema Integrado de Gestão de Atividades Acadêmicas (SIGAA); 
-
-   - **XIII** – encaminhar à Secretaria Acadêmica do Campus o resultado final das Atividades Complementares; 
-
-   - **XIV** – encaminhar os casos omissos ao Colegiado de Curso. 
-
-- **Art. 18.º** Compete ao Colegiado de Curso as seguintes atribuições: 
-
-   - **I** – Analisar os pedidos de reconsideração formulados pelos estudantes em relação ao indeferimento do cômputo das atividades. 
-
-   - **II** – Propor e executar atividades que oportunizem carga horária de Atividades Complementares; 
-
-## **CAPÍTULO V: DA SECRETARIA ACADÊMICA** 
-
-**Art. 19.º** À Secretaria Acadêmica do Campus compete: 
-
-**I** – Receber e protocolar os comprovantes das atividades realizadas pelos estudantes; 
-
-**II** – Entregar ao professor Responsável pelas Atividades Complementares de cada curso os comprovantes das Atividades Complementares protocoladas. 
-
-**Parágrafo único:** A Secretaria Acadêmica autenticará duas cópias do comprovante da Atividade Complementar apresentado pelo aluno, sendo que uma ficará na 
-
-200 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-pasta do aluno, na própria secretaria, e outra será encaminhada ao professor responsável pelas Atividades Complementares do Curso. 
-
-## **CAPÍTULO VI: DAS OBRIGAÇÕES DO ESTUDANTE** 
-
-**Art. 20.º** Ao estudante compete: 
-
-      - **I** – Cumprir a carga horária total das Atividades Complementares conforme estabelecido no Projeto Político Pedagógico do Curso; 
-
-      - **II** – Protocolar junto à Secretaria Acadêmica do Campus cópia de documentação que ateste o cumprimento das Atividades Complementares; 
-
-- **III** – Atender a todas as exigências presentes neste regulamento. 
-
-   - **Parágrafo único:** É responsabilidade do estudante a iniciativa, a realização e o gerenciamento das próprias Atividades Complementares a serem cumpridas ao longo de sua trajetória acadêmica. 
-
-   - **Art. 21.º** O estudante deverá protocolar junto à Secretaria Acadêmica duas cópias do documento comprobatório da realização da Atividade Complementar. A documentação a ser apresentada deverá ser devidamente legitimada pela Instituição emitente, contendo carimbo e assinatura ou outra forma de avaliação e especificação de carga horária, período de execução e descrição da Atividade. 
-
-   - **Art. 22.º** O estudante deverá protocolar seus comprovantes das Atividades Complementares num prazo máximo de 30 dias antes do último dia letivo da última série ou período do curso. 
-
-201 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-- **Art. 23.º** O estudante transferido de outra Instituição de Ensino deverá cumprir integralmente a carga horária das atividades complementares estabelecidas para o curso, sendo convalidadas as horas cumpridas em tais atividades durante o período cursado na instituição anterior, desde que comprovadas na documentação de transferência. 
-
-- **Parágrafo único:** A convalidação dar-se-á de forma direta, ou seja, toda a carga horária de Atividades Complementares realizada no período em que o aluno estava em curso na Instituição de Ensino anterior será contabilizada. 
-
-## **CAPÍTULO VII: DAS DISPOSIÇÕES GERAIS** 
-
-- **Art. 24.º** Outros comprovantes de Atividades Complementares não elencadas nas Seções I, II e III poderão ser protocolados. Estes serão analisados e validados em primeira instância pelo professor responsável pelas Atividades Complementares e, se o professor responsável achar necessário, em segunda instância pelo Colegiado do Curso. 
-
-- **Art. 25.º** O desenvolvimento das Atividades Complementares está explicitado no Projeto Pedagógico de cada Curso. 
-
-- **Art. 26.º** As Atividades Complementares realizadas durante o período de eventual trancamento, bem como realizadas antes do ingresso do estudante no curso, não serão contabilizadas. 
-
-- **Art. 27.º** Caso a Atividade Complementar realizada pelo aluno seja indeferida, por parte do professor responsável pelo acompanhamento das Atividades Complementares, o aluno poderá protocolar pedido de recurso destinado ao Colegiado do Curso. 
-
-202 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-- **Art. 28.º** O trâmite da documentação das atividades complementares ocorrerá conforme o fluxo apresentado no Anexo I. 
-
-- **Art. 29.º** Os casos omissos serão resolvidos pela Direção de Ensino, Pesquisa e Extensão, ouvida pelo Colegiado do Curso. 
-
-- **Art. 30.º** Este regulamento entrará em vigor na data de sua publicação, revogando-se as disposições em contrário. 
-
-203 
+203
 

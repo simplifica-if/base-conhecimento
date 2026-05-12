@@ -1,48 +1,41 @@
-**==> picture [454 x 54] intentionally omitted <==**
 
-## **MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO SUPERIOR INSTITUTO FEDERAL DO PARANÁ CAMPUS PARANAVAÍ** 
+## **MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO SUPERIOR INSTITUTO FEDERAL DO PARANÁ CAMPUS PARANAVAÍ**
 
-**PROJETO PEDAGÓGICO DO CURSO DE ESPECIALIZAÇÃO EM GESTÃO DA QUALIDADE E TECNOLOGIA DE ALIMENTOS** 
+**PROJETO PEDAGÓGICO DO CURSO DE ESPECIALIZAÇÃO EM GESTÃO DA QUALIDADE E TECNOLOGIA DE ALIMENTOS**
 
-## **AUTORIZADO PELA RESOLUÇÃO 41 DE 29 DE JUNHO DE 2018** 
+## **AUTORIZADO PELA RESOLUÇÃO 41 DE 29 DE JUNHO DE 2018**
 
-Paranavaí – 2021 
+Paranavaí – 2021
 
-**==> picture [454 x 54] intentionally omitted <==**
+## **INSTITUTO FEDERAL DO PARANÁ**
 
-## **INSTITUTO FEDERAL DO PARANÁ** 
+## **Reitor**
 
-## **Reitor** 
+Odacir Antônio Zanatta
 
-Odacir Antônio Zanatta 
+**Pró-Reitor de Ensino** Amarildo Pinheiro Magalhães
 
-**Pró-Reitor de Ensino** Amarildo Pinheiro Magalhães 
+## **Diretor de Ensino Superior e Pós-Graduação**
 
-## **Diretor de Ensino Superior e Pós-Graduação** 
+Leandro Rafael Pinto
 
-Leandro Rafael Pinto 
+## **Coordenador de Pós-Graduação**
 
-## **Coordenador de Pós-Graduação** 
+Roberta Rios Amoedo da Cunha Neves Menezes
 
-Roberta Rios Amoedo da Cunha Neves Menezes 
+**Direção Geral do Campus** José Barbosa Dias Júnior
 
-**Direção Geral do Campus** José Barbosa Dias Júnior 
+**Direção de Ensino, Pesquisa e Extensão do Campus** Rafael Petterman
 
-**Direção de Ensino, Pesquisa e Extensão do Campus** Rafael Petterman 
+## **Coordenador de Curso**
 
-## **Coordenador de Curso** 
+Carlos Eduardo Barão
 
-Carlos Eduardo Barão 
+## **Núcleo Docente Estruturante**
 
-## **Núcleo Docente Estruturante** 
+Carlos Eduardo Barão Caroline Mongruel Eleutério dos Santos Keren Hapuque Pinheiro Fernando Sanches de Lima Michele Rosset Rosemeire Carvalho da Silva Suellen Jensen Klososki Tatiana Colombo Pimentel Vanessa Aparecida Monteiro
 
-Carlos Eduardo Barão Caroline Mongruel Eleutério dos Santos Keren Hapuque Pinheiro Fernando Sanches de Lima Michele Rosset Rosemeire Carvalho da Silva Suellen Jensen Klososki Tatiana Colombo Pimentel Vanessa Aparecida Monteiro 
-
-5 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
-## SUMÁRIO 
+## SUMÁRIO
 
 |1-<br>IDENTIFICAÇÃO DA PROPOSTA|8|
 |---|---|
@@ -69,113 +62,91 @@ Carlos Eduardo Barão Caroline Mongruel Eleutério dos Santos Keren Hapuque Pinh
 |19.  INSTALAÇÕES FÍSICAS|58|
 |20. ANEXOS|75|
 
+## **1- IDENTIFICAÇÃO DA PROPOSTA**
 
+1.1 Nome do curso: Especialização em Gestão da Qualidade e Tecnologia de Alimentos
 
-6 
+1.2 Área do conhecimento (CAPES):
 
-**==> picture [454 x 54] intentionally omitted <==**
+http://www.capes.gov.br/images/stories/download/avaliacao/TabelaAreasConhecimento_ 072012.pdf
 
-## **1- IDENTIFICAÇÃO DA PROPOSTA** 
+5.00.00.00-4 – Ciências Agrárias
 
-1.1 Nome do curso: Especialização em Gestão da Qualidade e Tecnologia de Alimentos 
+5.07.00.00-6 – Ciência e Tecnologia de Alimentos
 
-1.2 Área do conhecimento (CAPES): 
+1.3 Linhas de Pesquisa: Gestão da Qualidade Tecnologia de Alimentos
 
-http://www.capes.gov.br/images/stories/download/avaliacao/TabelaAreasConhecimento_ 072012.pdf 
+## **2- DADOS DO PROPONENTE**
 
-5.00.00.00-4 – Ciências Agrárias 
+2.1 Campus responsável: Instituto Federal do Paraná – Campus Paranavaí
 
-5.07.00.00-6 – Ciência e Tecnologia de Alimentos 
+2.2 Nome do(a) Coordenador(a)/Titulação: Carlos Eduardo Barão/ Doutor em Engenharia Química
 
-1.3 Linhas de Pesquisa: Gestão da Qualidade Tecnologia de Alimentos 
+2.3 Telefone do(a) Coordenador(a): (44) 98406-9137
 
-## **2- DADOS DO PROPONENTE** 
+2.4 E-mail do(a) Coordenador(a): carlos.barao@ifpr.edu.br
 
-2.1 Campus responsável: Instituto Federal do Paraná – Campus Paranavaí 
+2.5 Nome do(a) Vice-Coordenador(a)/Titulação: Tatiana Colombo Pimentel/ Doutora em Ciência de Alimentos
 
-2.2 Nome do(a) Coordenador(a)/Titulação: Carlos Eduardo Barão/ Doutor em Engenharia Química 
+2.6 Telefone do(a) Vice-Coordenador(a): (44) 99101-9000
 
-2.3 Telefone do(a) Coordenador(a): (44) 98406-9137 
+2.7 E-mail do(a) Vice-Coordenador(a): tatiana.pimentel@ifpr.edu.br
 
-2.4 E-mail do(a) Coordenador(a): carlos.barao@ifpr.edu.br 
+2.8Nome do(a) Secretário(a) de curso: Priscila Grazielle Flor
 
-2.5 Nome do(a) Vice-Coordenador(a)/Titulação: Tatiana Colombo Pimentel/ Doutora em Ciência de Alimentos 
+## **3. DADOS DO CURSO**
 
-2.6 Telefone do(a) Vice-Coordenador(a): (44) 99101-9000 
+3.1 Tipo de curso: Especialização (Resolução CNE/CES Nº1/2007)
 
-2.7 E-mail do(a) Vice-Coordenador(a): tatiana.pimentel@ifpr.edu.br 
+- 3.2 Número de vagas ofertadas: mínimo 20, máximo 40 vagas.
 
-2.8Nome do(a) Secretário(a) de curso: Priscila Grazielle Flor 
+3.3 Pré-requisitos: Graduação em Engenharia de Alimentos, Tecnologia de Alimentos, Engenharia Agroindustrial, Engenharia Química, Agronomia, Química, Biologia, Biotecnologia, Biomedicina, Nutrição, Enfermagem, Farmácia, Zootecnia, Medicina Veterinária, Tecnologia em Estética e Cosmetologia, Engenharia de Produção, Educação Física, Administração de empresa e Marketing.
 
-7 
+## 3.4 Público alvo
 
-**==> picture [454 x 54] intentionally omitted <==**
+A Especialização em Gestão da Qualidade e Tecnologia de Alimentos abrange um público alvo proveniente de diversas graduações, pois os mesmos podem atuar na área de alimentos em suas diferentes esferas. Desta forma, podem ingressar na especialização proposta profissionais com as seguintes formações: Engenharia de Alimentos, Tecnologia de Alimentos, Engenharia Agroindustrial, Engenharia Química, Agronomia, Química, Biologia, Biotecnologia, Biomedicina, Nutrição, Enfermagem, Farmácia, Zootecnia, Medicina Veterinária, Tecnologia em Estética e Cosmetologia, Engenharia de Produção, Educação Física, Administração de empresa e Marketing.
 
-## **3. DADOS DO CURSO** 
+A proposta de abertura de uma Especialização em Gestão da Qualidade e Tecnologia de Alimentos na modalidade EaD vem de encontro com as necessidades da população na implementação de um curso que possa atender um público alvo abrangente e que apresenta necessidades de conciliar seus horário de trabalho e estudo, adequando-o de acordo com a sua disponibilidade já que o curso pretende atender também a classe ativa no mundo do trabalho.
 
-3.1 Tipo de curso: Especialização (Resolução CNE/CES Nº1/2007) 
+3.5 Modalidade: (      ) presencial (   X  ) a distância
 
-- 3.2 Número de vagas ofertadas: mínimo 20, máximo 40 vagas. 
+(      ) aberto ao público                     (       ) turma fechada – instituição parceira:______
 
-3.3 Pré-requisitos: Graduação em Engenharia de Alimentos, Tecnologia de Alimentos, Engenharia Agroindustrial, Engenharia Química, Agronomia, Química, Biologia, Biotecnologia, Biomedicina, Nutrição, Enfermagem, Farmácia, Zootecnia, Medicina Veterinária, Tecnologia em Estética e Cosmetologia, Engenharia de Produção, Educação Física, Administração de empresa e Marketing. 
+## 3.6 Local de realização do curso:
 
-## 3.4 Público alvo 
+Moodle IFPR
 
-A Especialização em Gestão da Qualidade e Tecnologia de Alimentos abrange um público alvo proveniente de diversas graduações, pois os mesmos podem atuar na área de alimentos em suas diferentes esferas. Desta forma, podem ingressar na especialização proposta profissionais com as seguintes formações: Engenharia de Alimentos, Tecnologia de Alimentos, Engenharia Agroindustrial, Engenharia Química, Agronomia, Química, Biologia, Biotecnologia, Biomedicina, Nutrição, Enfermagem, Farmácia, Zootecnia, Medicina Veterinária, Tecnologia em Estética e Cosmetologia, Engenharia de Produção, Educação Física, Administração de empresa e Marketing. 
+3.7 Local de atendimento aos estudantes: Moodle IFPR
 
-A proposta de abertura de uma Especialização em Gestão da Qualidade e Tecnologia de Alimentos na modalidade EaD vem de encontro com as necessidades da população na implementação de um curso que possa atender um público alvo abrangente e que apresenta necessidades de conciliar seus horário de trabalho e estudo, adequando-o de acordo com a sua disponibilidade já que o curso pretende atender também a classe ativa no mundo do trabalho. 
+3.8 Dias de realização do curso: Curso modalidade EaD.
 
-3.5 Modalidade: (      ) presencial (   X  ) a distância 
+3.9 Horário de oferta do curso: Curso modalidade EaD.
 
-8 
+3.10 Carga horária total do curso: 480 horas.
 
-**==> picture [454 x 54] intentionally omitted <==**
+3.11 Etapas de seleção/avaliação
 
-(      ) aberto ao público                     (       ) turma fechada – instituição parceira:______ 
+(    ) Prova (    ) Entrevista (  X  ) Currículo (  X  ) Experiência
 
-## 3.6 Local de realização do curso: 
+## **1. JUSTIFICATIVA DA PROPOSTA**
 
-Moodle IFPR 
+O Instituto Federal do Paraná tem como característica ser pioneiro nas ofertas de cursos, e, além disso possui um grande domínio da tecnologia de ensino na modalidade EaD, pois trabalha neste âmbito há vários anos. Desta forma, o Instituto Federal do Paraná - Campus Paranavaí vê a importância da oferta da Especialização em Gestão da Qualidade e Tecnologia de Alimentos na modalidade EaD, pois, regionalmente existe uma demanda bastante expressiva dos setores por este curso, mas visa contudo, a possibilidade de expansão do público alvo.
 
-3.7 Local de atendimento aos estudantes: Moodle IFPR 
+A Especialização em Gestão da Qualidade e Tecnologia de Alimentos objetiva a promoção da interação entre Instituição-Empresa e busca favorecer o desenvolvimento de novas tecnologias de interesse para a região e em âmbito nacional, embasando-se em realizar o aprimoramento da formação do aluno de modo a conferir-lhe qualificação de alto nível e promover a pesquisa em desenvolvimento e inovação, enfocando na sua
 
-3.8 Dias de realização do curso: Curso modalidade EaD. 
+organização curricular estratégias e práticas pedagógicas que promovam as relações entre o mundo do trabalho, a educação, a ciência e a tecnologia, buscando proporcionar uma intervenção prática de qualidade na indústria e demais setores de atuação.
 
-3.9 Horário de oferta do curso: Curso modalidade EaD. 
+O Instituto Federal do Paraná – Campus Paranavaí conta com docentes qualificados para atuar nesta especialização além da possibilidade de auxiliar na resolução de problemas pontuais dentro do ramo empresarial e setores envolvidos, na forma de desenvolvimento de projetos que buscam capacitar o estudante de especialização por meio da problematização do seu cotidiano de trabalho, utilizando-se de bases científicas, ou seja, desafiando este indivíduo a trazer para o ambiente acadêmico a realidade do mundo do trabalho em articulação com o conhecimento científico.
 
-3.10 Carga horária total do curso: 480 horas. 
+Portanto, a proposta de abertura da Especialização em Gestão da Qualidade e Tecnologia de Alimentos vem de encontro a essa necessidade, tendo como possível público alvo os estudantes das áreas afins, bem como os trabalhadores das diversas indústrias, os quais, podem se qualificar profissionalmente ao mesmo tempo em que contribuem para o desenvolvimento tecnológico da empresa onde trabalham, podendo ter como objeto de estudo a resolução de problemas industriais, desenvolvimento de novas formulações, entre outras atividades.
 
-3.11 Etapas de seleção/avaliação 
+Cabe enfatizar que a oferta da Especialização em Gestão da Qualidade e Tecnologia de Alimentos para a região de Paranavaí, independentemente da modalidade EaD, é justificada ainda na busca pelo fortalecimento, de forma sistêmica, de todos os segmentos envolvendo a industrialização de alimentos, haja vista que o setor produtor e/ou transformador de matérias primas alimentícias faz parte da esfera industrial regional e o Brasil está entre os maiores produtores mundiais de alimentos (O POVO, 2015).
 
-(    ) Prova (    ) Entrevista (  X  ) Currículo (  X  ) Experiência 
+Na Tabela 1 a título de ilustração e apresenta-se uma pesquisa regional que pode vir a auxiliar na compreensão das demandas locais, mesmo sabendo que a oferta
 
-## **1. JUSTIFICATIVA DA PROPOSTA** 
+EaD possui um âmbito mais globalizado. Assim a tabela 1 apresenta o quantitativo de potenciais alunos para a Especialização em Gestão da Qualidade e Tecnologia de Alimentos. São considerados como alunos potenciais aqueles provenientes de instituições de ensino superior a no máximo 80 Km de distância. Portanto, será feita uma estimativa de potenciais alunos nivelando o número por baixo, pois estudantes de outras localidades também poderão cursar a especialização.
 
-O Instituto Federal do Paraná tem como característica ser pioneiro nas ofertas de cursos, e, além disso possui um grande domínio da tecnologia de ensino na modalidade EaD, pois trabalha neste âmbito há vários anos. Desta forma, o Instituto Federal do Paraná - Campus Paranavaí vê a importância da oferta da Especialização em Gestão da Qualidade e Tecnologia de Alimentos na modalidade EaD, pois, regionalmente existe uma demanda bastante expressiva dos setores por este curso, mas visa contudo, a possibilidade de expansão do público alvo. 
-
-A Especialização em Gestão da Qualidade e Tecnologia de Alimentos objetiva a promoção da interação entre Instituição-Empresa e busca favorecer o desenvolvimento de novas tecnologias de interesse para a região e em âmbito nacional, embasando-se em realizar o aprimoramento da formação do aluno de modo a conferir-lhe qualificação de alto nível e promover a pesquisa em desenvolvimento e inovação, enfocando na sua 
-
-9 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
-organização curricular estratégias e práticas pedagógicas que promovam as relações entre o mundo do trabalho, a educação, a ciência e a tecnologia, buscando proporcionar uma intervenção prática de qualidade na indústria e demais setores de atuação. 
-
-O Instituto Federal do Paraná – Campus Paranavaí conta com docentes qualificados para atuar nesta especialização além da possibilidade de auxiliar na resolução de problemas pontuais dentro do ramo empresarial e setores envolvidos, na forma de desenvolvimento de projetos que buscam capacitar o estudante de especialização por meio da problematização do seu cotidiano de trabalho, utilizando-se de bases científicas, ou seja, desafiando este indivíduo a trazer para o ambiente acadêmico a realidade do mundo do trabalho em articulação com o conhecimento científico. 
-
-Portanto, a proposta de abertura da Especialização em Gestão da Qualidade e Tecnologia de Alimentos vem de encontro a essa necessidade, tendo como possível público alvo os estudantes das áreas afins, bem como os trabalhadores das diversas indústrias, os quais, podem se qualificar profissionalmente ao mesmo tempo em que contribuem para o desenvolvimento tecnológico da empresa onde trabalham, podendo ter como objeto de estudo a resolução de problemas industriais, desenvolvimento de novas formulações, entre outras atividades. 
-
-Cabe enfatizar que a oferta da Especialização em Gestão da Qualidade e Tecnologia de Alimentos para a região de Paranavaí, independentemente da modalidade EaD, é justificada ainda na busca pelo fortalecimento, de forma sistêmica, de todos os segmentos envolvendo a industrialização de alimentos, haja vista que o setor produtor e/ou transformador de matérias primas alimentícias faz parte da esfera industrial regional e o Brasil está entre os maiores produtores mundiais de alimentos (O POVO, 2015). 
-
-Na Tabela 1 a título de ilustração e apresenta-se uma pesquisa regional que pode vir a auxiliar na compreensão das demandas locais, mesmo sabendo que a oferta 
-
-10 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
-EaD possui um âmbito mais globalizado. Assim a tabela 1 apresenta o quantitativo de potenciais alunos para a Especialização em Gestão da Qualidade e Tecnologia de Alimentos. São considerados como alunos potenciais aqueles provenientes de instituições de ensino superior a no máximo 80 Km de distância. Portanto, será feita uma estimativa de potenciais alunos nivelando o número por baixo, pois estudantes de outras localidades também poderão cursar a especialização. 
-
-**Tabela 1** – Quantitativo de alunos potenciais 
+**Tabela 1** – Quantitativo de alunos potenciais
 
 |**Tabela 1**– Quantitativo de|alunos potenciais||
 |---|---|---|
@@ -199,12 +170,6 @@ EaD possui um âmbito mais globalizado. Assim a tabela 1 apresenta o quantitativ
 |Agronomia|UEM|34|
 |Biomedicina|UEM|16|
 
-
-
-11 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
 |Bioquímica|UEM|12|
 |---|---|---|
 |Ciências Biológicas|UEM|32|
@@ -219,240 +184,172 @@ EaD possui um âmbito mais globalizado. Assim a tabela 1 apresenta o quantitativ
 |Zootecnia|UEM|32|
 |**TOTAL/ ANO**||**1.230**|
 
+*Dados obtidos nos sites das instituições
 
+**Dados não disponíveis por ser um curso a distância
 
-*Dados obtidos nos sites das instituições 
+Desta forma, considera-se que a Especialização em Gestão da Qualidade e Tecnologia de Alimentos poderá contribuir para a qualificação profissional de egressos de diversos cursos superiores de Paranavaí e região, mas que ao longo dos anos de sua oferta será capaz de se manter pelo interesse de estudantes de todo território nacional que poderão contar com a ferramenta EaD para sua capacitação profissional.
 
-**Dados não disponíveis por ser um curso a distância 
+É de relevância enfatizar que Especializações com o mesmo enfoque na área, inclusive na modalidade EaD já existem, no entanto, esta proposta tem caráter inovador no que tange a oferta de Especialização EaD na área de maneira gratuita como apresentado na tabela abaixo.
 
-Desta forma, considera-se que a Especialização em Gestão da Qualidade e Tecnologia de Alimentos poderá contribuir para a qualificação profissional de egressos de diversos cursos superiores de Paranavaí e região, mas que ao longo dos anos de sua oferta será capaz de se manter pelo interesse de estudantes de todo território nacional que poderão contar com a ferramenta EaD para sua capacitação profissional. 
+**Tabela 2** – Especializações ofertadas na área
 
-É de relevância enfatizar que Especializações com o mesmo enfoque na área, inclusive na modalidade EaD já existem, no entanto, esta proposta tem caráter inovador no que tange a oferta de Especialização EaD na área de maneira gratuita como apresentado na tabela abaixo. 
-
-**Tabela 2** – Especializações ofertadas na área 
-
-12 
+12
 
 ||**Universidade/Faculdade**<br>**Título**<br>**Público Alvo**<br>**Investimento**<br>**Carga**<br>**Horária**<br>Universidade Cândido<br>Mendes<br>Vigilância<br>Sanitária e<br>Qualidade<br>de Alimentos<br>Nutrição,<br>Farmácia,<br>Medicina<br>Veterinária,<br>Biologia,<br>Biomedicina e<br>Engenharia de<br>Alimentos<br>R$5452,00<br>360h (340h<br>EAD + 20h<br>presencial)<br>USCS<br>Vigilância<br>Sanitária e<br>Qualidade<br>de Alimentos<br>Nutrição,<br>Farmácia,<br>Medicina<br>Veterinária,<br>Biologia,<br>Biomedicina e<br>Engenharia de<br>Alimentos.<br>R$3883,00<br>360h (340h<br>EAD + 20h<br>presencial)<br>USCS<br>Tecnologia<br>de Alimentos<br>Nutrição,<br>Farmácia,<br>Biologia,<br>Biomedicina e<br>Medicina<br>Veterinária.<br>R$4535,00<br>420 h (400h<br>EAD + 20h<br>presencial)<br>Senac<br>Gestão da<br>Segurança<br>de Alimentos<br>Nutricionistas,<br>gastrônomos,<br>agrônomos,<br>médicos<br>veterinários,<br>biólogos,<br>engenheiros de<br>alimentos,<br>advogados,<br>R$5010,00<br>360h EAD<br>13|
 |---|---|
 
-
-
 ||administradores<br>de empresas,<br>agentes da<br>administração<br>pública<br>Estácio<br>Vigilância<br>Sanitária e<br>Qualidade<br>de Alimentos<br>Nutrição,<br>Farmácia,<br>Medicina<br>Veterinária,<br>Biologia,<br>Biomedicina e<br>Engenharia de<br>Alimentos<br>R$5317,00<br>360h (340h<br>EAD + 20h<br>presencial)<br>Universidade Federal de<br>Pelotas<br>Ciência dos<br>Alimentos –<br>Tecnologia<br>de Frutas e<br>Hortaliças<br>Química de<br>Alimentos,<br>Engenharia de<br>Alimentos,<br>Agronomia,<br>Engenharia<br>Agrícola, Química,<br>Química<br>Industrial,<br>Engenharia<br>Química, Química<br>Industrial de<br>Alimentos,<br>Economia<br>Doméstica,<br>Nutrição,<br>Farmácia,<br>Biologia,<br>Tecnologia de<br>Alimentos,<br>Tecnologia<br>Agroindustrial,<br>Tecnologia em<br>Fruticultura,<br>Tecnologia em<br>Viticultura e<br>Gratuito<br>663h (5<br>dias<br>presenciais)<br>14|
 |---|---|
-
-
-
-**==> picture [454 x 54] intentionally omitted <==**
 
 |||Enologia e áreas<br>afins|||
 |---|---|---|---|---|
 |Uniara|Gestão em<br>Segurança<br>Alimentar|Nutricionistas,<br>Farmacêuticos,<br>Agrônomos,<br>Engenheiros de<br>Alimentos,<br>Biomédicos,<br>Engenheiros<br>Químicos,<br>Químicos,<br>Biólogos,<br>Veterinários e<br>áreas afins|R$5625,00|360h|
 |UniyLeya|Engenharia<br>de Alimentos|Engenheiros de<br>Alimentos,<br>Engenheiros<br>Agrônomos,<br>Engenheiros<br>Químicos,<br>Engenheiros de<br>Produção,<br>Nutricionistas,<br>Veterinários,<br>Zootecnistas,<br>Farmacêuticos-Bi<br>oquímicos,<br>Químicos<br>Industriais,<br>Tecnólogos de<br>Alimentos,<br>Administradores<br>de Empresas,<br>Agentes da<br>Administração<br>Pública e demais<br>profissionais de<br>nível superior|R$6116,00|420h EAD|
 
-
-
-15 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
 |UGF|Tecnologia<br>de Alimentos|Nutrição,<br>Farmácia,<br>Biologia,<br>Biomedicina e<br>Medicina<br>Veterinária|R$3450,00|420 h (400h<br>EAD + 20h<br>presencial)|
 |---|---|---|---|---|
 |Universidade Federal de<br>Lavras|Processame<br>nto e<br>controle de<br>qualidade de<br>produtos de<br>origem<br>animal|Engenharia de<br>Alimentos,<br>Ciência de<br>Alimentos,<br>Tecnologia de<br>Laticínios,<br>Agronomia,<br>Nutrição,<br>Gastronomia,<br>Engenharia<br>Química, Biologia,<br>Química,<br>Zootecnia,<br>Medicina<br>Veterinária|RS4218,00|400h (354h<br>EAD e 46h<br>presenciais)|
 |Universidade Federal de<br>Lavras|Tecnologia e<br>qualidade de<br>alimentos<br>vegetais|Engenharia de<br>Alimentos,<br>Ciência de<br>Alimentos,<br>Tecnologia de<br>Laticínios,<br>Agronomia,<br>Nutrição,<br>Gastronomia,<br>Engenharia<br>Química, Biologia,<br>Química,<br>Zootecnia,<br>Medicina<br>Veterinária|RS4218,00|400h (354h<br>EAD e 46h<br>presenciais)|
 
-
-
-16 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
 |UNESP|Segurança<br>Alimentar e<br>Nutricional|Profissionais de<br>nível superior<br>para que se<br>especializem na<br>área de<br>Segurança<br>Alimentar e<br>Nutricional (SAN)|Gratuito|380h (3<br>encontros<br>presenciais)|
 |---|---|---|---|---|
 
+Assim, com a oferta desta proposta de Especialização em Gestão da Qualidade e Tecnologia de Alimentos tem-se o intuito de atender um conjunto mais heterogêneo de população, formando profissionais multi-qualificados em nível estratégico, permitindo a aquisição de competências complexas que capacitariam estes estudantes a lidarem com problemas concretos, criando assim um suporte adequado para viabilizar a finalidade da especialização em promover a integração da formação do aluno com sua experiência social.
 
+Referências:
 
-Assim, com a oferta desta proposta de Especialização em Gestão da Qualidade e Tecnologia de Alimentos tem-se o intuito de atender um conjunto mais heterogêneo de população, formando profissionais multi-qualificados em nível estratégico, permitindo a aquisição de competências complexas que capacitariam estes estudantes a lidarem com problemas concretos, criando assim um suporte adequado para viabilizar a finalidade da especialização em promover a integração da formação do aluno com sua experiência social. 
+O POVO. **Brasil está preparado para ser o maior produtor de alimentos** . Disponível em:
 
-Referências: 
+http://www.opovo.com.br/app/maisnoticias/brasil/2015/07/16/noticiasbrasil,3470942/bras il-esta-preparado-para-ser-o-maior-produtor-de-alimentos-do-mundo.shtml. Acesso em: 22/04/2016.
 
-O POVO. **Brasil está preparado para ser o maior produtor de alimentos** . Disponível em: 
+**PROJETO POLÍTICO PEDAGÓGICO** . INSTITUTO FEDERAL DO PARANÁ – CAMPUS PARANAVAÍ. Disponível em: http://paranavai.ifpr.edu.br/wp-content/uploads/2015/03/Documento-Oficial-PPP.pdf. Acesso em 22/04/2016.
 
-http://www.opovo.com.br/app/maisnoticias/brasil/2015/07/16/noticiasbrasil,3470942/bras il-esta-preparado-para-ser-o-maior-produtor-de-alimentos-do-mundo.shtml. Acesso em: 22/04/2016. 
+## **4. CARACTERIZAÇÃO DA PROPOSTA**
 
-**PROJETO POLÍTICO PEDAGÓGICO** . INSTITUTO FEDERAL DO PARANÁ – CAMPUS PARANAVAÍ. Disponível em: http://paranavai.ifpr.edu.br/wp-content/uploads/2015/03/Documento-Oficial-PPP.pdf. Acesso em 22/04/2016. 
+## **Contextualização Institucional:**
 
-17 
+A implantação do Instituto Federal do Paraná em Paranavaí aconteceu em agosto de 2010, iniciando suas atividades no ensino técnico de nível médio, modalidade subsequente ao Ensino Médio, com os cursos de Alimentos, Eletromecânica e Informática e um total de 160 vagas ofertadas, sendo 40 para o curso de Alimentos, 40 para Eletromecânica e 80 para Informática. Em 2011 foram ofertadas mais 240 vagas, sendo 80 para cada curso, distribuídas em 40 vagas na modalidade concomitante no período vespertino e 40 vagas na modalidade subsequente no período noturno.
 
-**==> picture [454 x 54] intentionally omitted <==**
+Em 2012, foram oferecidas 120 vagas para os cursos subsequentes noturnos em Alimentos, Eletromecânica e Informática (40 vagas cada) e mais 40 vagas para o curso técnico em Informática integrado ao ensino médio, além da adesão ao Programa Mulheres Mil do Governo Federal. O Programa prevê o atendimento de 100 mulheres em situação de vulnerabilidade social dando acesso a projetos locais ordenados de acordo com as necessidades da comunidade, segundo a vocação econômica regional e aptidões pessoais das educandas.
 
-## **4. CARACTERIZAÇÃO DA PROPOSTA** 
+No ano de 2014, 4 Cursos foram criados, sendo 2 Cursos Integrados ao Ensino Médio (Técnico em Agroindústria e Técnico em Eletromecânica) e 2 Cursos Superiores (Licenciatura em Química e Tecnologia em Análise e Desenvolvimento de Sistemas). Estes cursos foram planejados de acordo com as demandas da região, a qual possui, em sua maioria, indústrias da área agroindustrial e metal-mecânica. Além disso, o quantitativo de alunos aumentou em mais de 50 % em relação ao ano de 2013, número significativo para o IFPR e para o desenvolvimento da Região de Paranavaí.
 
-## **Contextualização Institucional:** 
+No ano de 2017 houve a abertura de dois cursos: Técnico Integrado em Mecatrônica (em substituição ao Técnico em Eletromecânica) e a Engenharia Elétrica, com disponibilização de 40 vagas para cada um. No ano de 2019 houve a abertura do
 
-A implantação do Instituto Federal do Paraná em Paranavaí aconteceu em agosto de 2010, iniciando suas atividades no ensino técnico de nível médio, modalidade subsequente ao Ensino Médio, com os cursos de Alimentos, Eletromecânica e Informática e um total de 160 vagas ofertadas, sendo 40 para o curso de Alimentos, 40 para Eletromecânica e 80 para Informática. Em 2011 foram ofertadas mais 240 vagas, sendo 80 para cada curso, distribuídas em 40 vagas na modalidade concomitante no período vespertino e 40 vagas na modalidade subsequente no período noturno. 
+curso de Engenharia de Software com oferta de 40 vagas e finalização do curso de Tecnologia de Análise e Desenvolvimento de Sistemas.
 
-Em 2012, foram oferecidas 120 vagas para os cursos subsequentes noturnos em Alimentos, Eletromecânica e Informática (40 vagas cada) e mais 40 vagas para o curso técnico em Informática integrado ao ensino médio, além da adesão ao Programa Mulheres Mil do Governo Federal. O Programa prevê o atendimento de 100 mulheres em situação de vulnerabilidade social dando acesso a projetos locais ordenados de acordo com as necessidades da comunidade, segundo a vocação econômica regional e aptidões pessoais das educandas. 
+Para que os Cursos tenham o melhor aproveitamento possível, os espaços para os ensinos teórico e prático foram planejados e adaptados por um período de aproximadamente 2 anos. Atualmente, para o andamento dos Cursos de Licenciatura em Química e Técnico em Agroindústria Integrado ao Ensino Médio, cursos afins a esta proposta, o Campus Paranavaí conta com 4 laboratórios de Informática, 2 Laboratórios de Química, 1 Laboratório de Microbiologia/Bioquímica de Alimentos, 1 Laboratório de Biologia, 2 Laboratório de Processos Agroindustriais, 1 Laboratório de Análise Sensorial, e 1 Laboratório de Análises Agroindustriais. Além disso, todos os espaços foram adequadamente equipados para que os alunos pudessem compreender a teoria de forma integrada à prática.
 
-No ano de 2014, 4 Cursos foram criados, sendo 2 Cursos Integrados ao Ensino Médio (Técnico em Agroindústria e Técnico em Eletromecânica) e 2 Cursos Superiores (Licenciatura em Química e Tecnologia em Análise e Desenvolvimento de Sistemas). Estes cursos foram planejados de acordo com as demandas da região, a qual possui, em sua maioria, indústrias da área agroindustrial e metal-mecânica. Além disso, o quantitativo de alunos aumentou em mais de 50 % em relação ao ano de 2013, número significativo para o IFPR e para o desenvolvimento da Região de Paranavaí. 
+Os Professores Específicos da área de alimentos que atenderiam a Especialização em Gestão da Qualidade e Tecnologia de Alimentos são compostos por Doutores (7 Doutores), os quais já trabalham e apresentam experiência em projetos voltados para as linhas de pesquisa propostas para a oferta da Especialização em Gestão da Qualidade e Tecnologia de Alimentos, contribuindo para o fortalecimento da área. Somados a estes existe a participação de 2 professores Doutores de outro Campus (também da área de alimentos).
 
-No ano de 2017 houve a abertura de dois cursos: Técnico Integrado em Mecatrônica (em substituição ao Técnico em Eletromecânica) e a Engenharia Elétrica, com disponibilização de 40 vagas para cada um. No ano de 2019 houve a abertura do 
+É importante salientar que o Campus Paranavaí incentiva seus Professores a se qualificarem e busca a verticalização do Ensino, Pesquisa e Extensão, de forma que a IES atenda as necessidades de Paranavaí e Região, além de se tornar referência em Educação e Pesquisa a Nível Estadual. Isto pode ser referenciado pelos investimentos em Recursos Humanos e em Infraestrutura, por meio da contratação de Profissionais Qualificados para o Ensino e para a Pesquisa, aquisição de equipamentos sofisticados e destinados para pesquisas científicas.
 
-18 
+Ao todo, mais de R$ 600.000,00 já foram investidos em Equipamentos nas áreas de Alimentos, Química e Biologia. Muitos destes equipamentos são destinados,
 
-**==> picture [454 x 54] intentionally omitted <==**
+em grande parte, para Pesquisas e usufruem de espaços específicos para o desenvolvimento dos projetos em andamento. Entretanto, é importante mencionar que tal planejamento vem sendo realizado também com o objetivo de fortalecimento das áreas mencionadas, em se tratando de Ensino e Pesquisa e Profissionais da Área, de forma que a verticalização seja promovida e atenda ao arranjo Produtivo Local e às demandas de Paranavaí e Região, vista pela ampla faixa de Profissionais e recém-formados que a Especialização em Gestão da Qualidade e Tecnologia de Alimentos do referido Campus poderá atender.
 
-curso de Engenharia de Software com oferta de 40 vagas e finalização do curso de Tecnologia de Análise e Desenvolvimento de Sistemas. 
+## **Contextualização Regional:**
 
-Para que os Cursos tenham o melhor aproveitamento possível, os espaços para os ensinos teórico e prático foram planejados e adaptados por um período de aproximadamente 2 anos. Atualmente, para o andamento dos Cursos de Licenciatura em Química e Técnico em Agroindústria Integrado ao Ensino Médio, cursos afins a esta proposta, o Campus Paranavaí conta com 4 laboratórios de Informática, 2 Laboratórios de Química, 1 Laboratório de Microbiologia/Bioquímica de Alimentos, 1 Laboratório de Biologia, 2 Laboratório de Processos Agroindustriais, 1 Laboratório de Análise Sensorial, e 1 Laboratório de Análises Agroindustriais. Além disso, todos os espaços foram adequadamente equipados para que os alunos pudessem compreender a teoria de forma integrada à prática. 
+O Paraná é um dos estados brasileiros que mais se destaca no crescimento econômico e na qualidade de vida, conforme revela seu Índice de Desenvolvimento Humano (IDH) médio. A economia paranaense está entre as cinco maiores do país, sendo responsável por 5,98% do PIB nacional, registrando uma renda _per capita_ de R$ 22,7 mil em 2011, acima do valor de R$ 21,5 mil referente ao Brasil (IPARDES, 2012).
 
-Os Professores Específicos da área de alimentos que atenderiam a Especialização em Gestão da Qualidade e Tecnologia de Alimentos são compostos por Doutores (7 Doutores), os quais já trabalham e apresentam experiência em projetos voltados para as linhas de pesquisa propostas para a oferta da Especialização em Gestão da Qualidade e Tecnologia de Alimentos, contribuindo para o fortalecimento da área. Somados a estes existe a participação de 2 professores Doutores de outro Campus (também da área de alimentos). 
+O estado também é o maior produtor de grãos, com uma produção agrícola diversificada. A cana-de-açúcar (47 milhões de toneladas), o milho (16 milhões de toneladas), a soja (11 milhões de toneladas), a mandioca (3,9 milhões de toneladas) e o trigo (2 milhões de toneladas) se sobressaem na estrutura produtiva da agricultura local. Além disso, conta com forte avanço de outras atividades, como a produção de frutas. Já na pecuária, destaca-se a avicultura, com 27 % do total de abates do País. Nos segmentos de bovinos e suínos, a participação do Estado atinge 4,1 % e 19,7 %, respectivamente (GOVERNO DO ESTADO DO PARANÁ, 2015).
 
-É importante salientar que o Campus Paranavaí incentiva seus Professores a se qualificarem e busca a verticalização do Ensino, Pesquisa e Extensão, de forma que a IES atenda as necessidades de Paranavaí e Região, além de se tornar referência em Educação e Pesquisa a Nível Estadual. Isto pode ser referenciado pelos investimentos em Recursos Humanos e em Infraestrutura, por meio da contratação de Profissionais Qualificados para o Ensino e para a Pesquisa, aquisição de equipamentos sofisticados e destinados para pesquisas científicas. 
+No setor industrial o Paraná atingiu R$ 67,4 bilhões em 2011. Na estrutura industrial do Estado predominam os segmentos de veículos automotores, alimentos e refino de petróleo, responsáveis por aproximadamente 58% do valor da transformação da indústria estadual. O valor adicionado do setor de serviços do Paraná totalizou R$ 130.833.000,00 bilhões em 2011, com grande participação dos ramos de comércio,
 
-Ao todo, mais de R$ 600.000,00 já foram investidos em Equipamentos nas áreas de Alimentos, Química e Biologia. Muitos destes equipamentos são destinados, 
+administração pública e atividades imobiliárias (IPARDES, 2012).
 
-19 
+A região de Paranavaí vem passando por mudanças significativas em seu perfil sócio econômico nos últimos anos, devido à diversificação de produção, com grandes grupos ligados à citricultura como Citrus, Louis Dreyfus Commodities, Citri Agroindustrial e ao ramo de carnes, como é o caso da empresa Mister Frango. Na área de amidos e féculas, de grande importância para região, destacam-se a indústrias Yoki e Indemil, além de outras de portes menores, mas que contribuem significativamente para a economia do município de Paranavaí e região.
 
-**==> picture [454 x 54] intentionally omitted <==**
+As atividades econômicas predominantes no município e região envolvem a agropecuária, a agroindústria e o comércio. Quanto à agroindústria, várias têm se estabelecido na região, principalmente nas áreas de citricultura, aves e amidos e derivados, produtos artesanais típicos da região, os quais são comercializados em feiras no município. O Quadro 1 apresenta o número de indústria presentes no município de Paranavaí, de acordo com a Classificação Nacional de Atividades Econômicas (CNAE).
 
-em grande parte, para Pesquisas e usufruem de espaços específicos para o desenvolvimento dos projetos em andamento. Entretanto, é importante mencionar que tal planejamento vem sendo realizado também com o objetivo de fortalecimento das áreas mencionadas, em se tratando de Ensino e Pesquisa e Profissionais da Área, de forma que a verticalização seja promovida e atenda ao arranjo Produtivo Local e às demandas de Paranavaí e Região, vista pela ampla faixa de Profissionais e recém-formados que a Especialização em Gestão da Qualidade e Tecnologia de Alimentos do referido Campus poderá atender. 
+Quadro 1 – Número de Indústrias por Segmento.
 
-## **Contextualização Regional:** 
+## Fonte: FIEP –Coordenadoria Regional de Paranavaí (INDICADORES DE PARANAVAÍ, 2011)
 
-O Paraná é um dos estados brasileiros que mais se destaca no crescimento econômico e na qualidade de vida, conforme revela seu Índice de Desenvolvimento Humano (IDH) médio. A economia paranaense está entre as cinco maiores do país, sendo responsável por 5,98% do PIB nacional, registrando uma renda _per capita_ de R$ 22,7 mil em 2011, acima do valor de R$ 21,5 mil referente ao Brasil (IPARDES, 2012). 
+Sendo: 17- Fabricação de Celulose, Papel e Produtos de Papel; **11- Fabricação de Bebidas;** 18Impressão e Reprodução de Gravações; 24- Metalurgia; 20- Fabricação de Produtos Químicos; 26Fabricação de Equipamentos de Informática, Produtos Eletrônicos e Ópticos; 27- Fabricação de Máquinas, Aparelhos e Materiais Elétricos; 16- Fabricação de Produtos de Madeira; 29- Fabricação de Veículos Automotores, Reboques e Carrocerias; 13- Fabricação de Produtos Têxteis; 15- Preparação de couros e fabricação de artefatos de couro, artigos para viagem e Calçados; 25- Fabricação de Produtos de Metal, Exceto Máquinas e Equipamentos; 22- Fabricação de Produtos de Borracha e de material Plástico; 28- Fabricação de Máquina e Equipamentos; 32- Fabricação de Produtos Diversos; 23Fabricação de Produtos de Minerais Não Metálicos; 31- Fabricação de Móveis; 14- Confecção de Artigos do Vestuário e Acessórios; **10- Fabricação de Produtos Alimentícios.**
 
-O estado também é o maior produtor de grãos, com uma produção agrícola diversificada. A cana-de-açúcar (47 milhões de toneladas), o milho (16 milhões de toneladas), a soja (11 milhões de toneladas), a mandioca (3,9 milhões de toneladas) e o trigo (2 milhões de toneladas) se sobressaem na estrutura produtiva da agricultura local. Além disso, conta com forte avanço de outras atividades, como a produção de frutas. Já na pecuária, destaca-se a avicultura, com 27 % do total de abates do País. Nos segmentos de bovinos e suínos, a participação do Estado atinge 4,1 % e 19,7 %, respectivamente (GOVERNO DO ESTADO DO PARANÁ, 2015). 
+Dentre as Indústrias de Fabricação de Produtos Alimentícios, 8% são de Fabricação de Amidos e Féculas Vegetais, 30 % Fabricação da Farinha de Mandioca, 4% Abate de Aves, 4% Fabricação de sorvetes e outros gelados comestíveis, 2% Fabricação de óleos vegetais em bruto, exceto óleo de milho, 10% Fabricação de produtos de panificação industrial, 2% Fabricação de laticínios, 14% Fabricação de outros produtos alimentícios não especificados anteriormente, 4% abate de bovinos, 4%
 
-No setor industrial o Paraná atingiu R$ 67,4 bilhões em 2011. Na estrutura industrial do Estado predominam os segmentos de veículos automotores, alimentos e refino de petróleo, responsáveis por aproximadamente 58% do valor da transformação da indústria estadual. O valor adicionado do setor de serviços do Paraná totalizou R$ 130.833.000,00 bilhões em 2011, com grande participação dos ramos de comércio, 
+Torrefação e moagem de café, 4% Fabricação de sucos concentrados de frutas, hortaliças e legumes, 2% Preparação do leite, 2% Fabricação de produtos de carne, 4% Fabricação de alimentos para animais, 2% Fabricação de biscoitos e bolachas, 2% Fabricação de alimentos e pratos prontos e 2% Fabricação de massas alimentícias (INDICADORES DE PARANAVAÍ, 2011).
 
-20 
+Paranavaí é considerada a cidade polo da Amunpar (Associação dos Municípios do Noroeste Paranaense), polarizada pela localização geográfica. A Amunpar é constituída pelos municípios de Alto Paraná, Amaporã, Cruzeiro do Sul, Diamante do Norte, Guairaçá, Inajá, Itaúna do Sul, Jardim Olinda, Loanda, Marilena, Mirador, Nova Aliança do Ivaí, Nova Londrina, Paraíso do Norte, Paranapoema, Paranavaí, Planaltina do Paraná, Porto Rico, Querência do Norte, Santa Cruz do Monte Castelo, Santa Isabel do Ivaí, Santa Mônica, Santo Antônio do Caiuá, São Carlos do Ivaí, São João do Caiuá, São Pedro do Paraná, Tamboara e Terra Rica.
 
-**==> picture [454 x 54] intentionally omitted <==**
+A cidade também possui uma área de 1202 km[2] e segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), possui população estimada em 86.773 habitantes (CENSO, 2015). Em termos de desenvolvimento humano da população, os municípios da região apresentam IDH entre 0,7 e 0,8. O Programa das Nações Unidas para o Desenvolvimento - PNUD (2002) considera como país de baixo desenvolvimento humano aquele que apresenta um IDH menor do que 0,5; médio entre 0,5 e 0,8, e alto quando for acima deste valor. Dessa forma, a região da Amunpar apresenta um médio índice de desenvolvimento humano. Embora não seja um desenvolvimento crítico, a educação tem grande importância, como meio para o desenvolvimento cognitivo, profissional e social do cidadão, sendo a educação o caminho para a transformação da sociedade.
 
-administração pública e atividades imobiliárias (IPARDES, 2012). 
+O setor produtivo que mais cresce e gera empregos em Paranavaí é a indústria. A atividade industrial na cidade é diversificada e consistente. Paranavaí conta com a mais completa indústria processadora de mandioca do país, com a única refinaria capaz de extrair glicose da raiz em todo o Brasil. Diariamente, milhares de toneladas de
 
-A região de Paranavaí vem passando por mudanças significativas em seu perfil sócio econômico nos últimos anos, devido à diversificação de produção, com grandes grupos ligados à citricultura como Citrus, Louis Dreyfus Commodities, Citri Agroindustrial e ao ramo de carnes, como é o caso da empresa Mister Frango. Na área de amidos e féculas, de grande importância para região, destacam-se a indústrias Yoki e Indemil, além de outras de portes menores, mas que contribuem significativamente para a economia do município de Paranavaí e região. 
+mandioca são transformadas em farinha, polvilho e subprodutos industriais. A cidade possui as duas grandes indústrias processadoras de laranja do Estado do Paraná, as quais produzem suco concentrado de laranja, quase que totalmente exportado para o Mercado Comum Europeu.
 
-As atividades econômicas predominantes no município e região envolvem a agropecuária, a agroindústria e o comércio. Quanto à agroindústria, várias têm se estabelecido na região, principalmente nas áreas de citricultura, aves e amidos e derivados, produtos artesanais típicos da região, os quais são comercializados em feiras no município. O Quadro 1 apresenta o número de indústria presentes no município de Paranavaí, de acordo com a Classificação Nacional de Atividades Econômicas (CNAE). 
+A avicultura também é forte no município, contando com inúmeros aviários para abastecer uma avícola, cuja capacidade de alojamento é de 4.000.000 aves, envolvendo a integração de 232 produtores da região, em 362 barracões totalizando 295.000 m[2] . Para isso, sua fábrica de ração produz 9.000 toneladas/mês de ração. A cidade ainda possui indústrias moveleiras, frigoríficos e laticínios. O desenvolvimento da indústria na cidade pode ser medido por alguns indicadores. Entre os financiamentos do Banco Social, cerca de 3% foram aplicados em pequenas indústrias da cidade.
 
-Quadro 1 – Número de Indústrias por Segmento. 
+## REFERÊNCIAS
 
-21 
+CENSO. INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. **Paranavaí** . 2015. Disponível em: http://cidades.ibge.gov.br/xtras/perfil.php?codmun=411840. Acesso em: 22/04/2016.
 
-**==> picture [454 x 54] intentionally omitted <==**
+GOVERNO DO ESTADO DO PARANÁ. **Documento-base. Plano da Educação Estadual do Paraná** , Curitiba, 2015. Disponível em: http://www.seti.pr.gov.br/arquivos/File/documento_base_PEE_PR.pdf. Acesso em : 22/04/2016.
 
-**==> picture [387 x 256] intentionally omitted <==**
+**INDICADORES DE PARANAVAÍ** . 2011. Disponível em:
 
-## Fonte: FIEP –Coordenadoria Regional de Paranavaí (INDICADORES DE PARANAVAÍ, 2011) 
+http://livrozilla.com/doc/1388046/5-dimens%C3%A3o-ind%C3%BAstria-considera%C3% A7%C3%B5es-sobre-a-dimens%C3%A3o-da. Acesso em: 22/04/2016.
 
-Sendo: 17- Fabricação de Celulose, Papel e Produtos de Papel; **11- Fabricação de Bebidas;** 18Impressão e Reprodução de Gravações; 24- Metalurgia; 20- Fabricação de Produtos Químicos; 26Fabricação de Equipamentos de Informática, Produtos Eletrônicos e Ópticos; 27- Fabricação de Máquinas, Aparelhos e Materiais Elétricos; 16- Fabricação de Produtos de Madeira; 29- Fabricação de Veículos Automotores, Reboques e Carrocerias; 13- Fabricação de Produtos Têxteis; 15- Preparação de couros e fabricação de artefatos de couro, artigos para viagem e Calçados; 25- Fabricação de Produtos de Metal, Exceto Máquinas e Equipamentos; 22- Fabricação de Produtos de Borracha e de material Plástico; 28- Fabricação de Máquina e Equipamentos; 32- Fabricação de Produtos Diversos; 23Fabricação de Produtos de Minerais Não Metálicos; 31- Fabricação de Móveis; 14- Confecção de Artigos do Vestuário e Acessórios; **10- Fabricação de Produtos Alimentícios.** 
+INSTITUTO Paranaense de Desenvolvimento Econômico e Social – IPARDES. **Indicadores. Econômicos** . 2012. Disponível em: <http://www.ipardes.gov.br/>. Acesso
 
-Dentre as Indústrias de Fabricação de Produtos Alimentícios, 8% são de Fabricação de Amidos e Féculas Vegetais, 30 % Fabricação da Farinha de Mandioca, 4% Abate de Aves, 4% Fabricação de sorvetes e outros gelados comestíveis, 2% Fabricação de óleos vegetais em bruto, exceto óleo de milho, 10% Fabricação de produtos de panificação industrial, 2% Fabricação de laticínios, 14% Fabricação de outros produtos alimentícios não especificados anteriormente, 4% abate de bovinos, 4% 
+em: 22/04/2016.
 
-22 
+## **5. OBJETIVOS DA PROPOSTA**
 
-**==> picture [454 x 54] intentionally omitted <==**
+Com Base na Resolução CNE/CP Nº2/2015, na Resolução IFPR n.18/2017 e na dimensão político-pedagógica estabelecida no Plano de desenvolvimento Institucional do IFPR (2019-2023), apresentamos como objetivos para o curso:
 
-Torrefação e moagem de café, 4% Fabricação de sucos concentrados de frutas, hortaliças e legumes, 2% Preparação do leite, 2% Fabricação de produtos de carne, 4% Fabricação de alimentos para animais, 2% Fabricação de biscoitos e bolachas, 2% Fabricação de alimentos e pratos prontos e 2% Fabricação de massas alimentícias (INDICADORES DE PARANAVAÍ, 2011). 
+## **Objetivo Geral:**
 
-Paranavaí é considerada a cidade polo da Amunpar (Associação dos Municípios do Noroeste Paranaense), polarizada pela localização geográfica. A Amunpar é constituída pelos municípios de Alto Paraná, Amaporã, Cruzeiro do Sul, Diamante do Norte, Guairaçá, Inajá, Itaúna do Sul, Jardim Olinda, Loanda, Marilena, Mirador, Nova Aliança do Ivaí, Nova Londrina, Paraíso do Norte, Paranapoema, Paranavaí, Planaltina do Paraná, Porto Rico, Querência do Norte, Santa Cruz do Monte Castelo, Santa Isabel do Ivaí, Santa Mônica, Santo Antônio do Caiuá, São Carlos do Ivaí, São João do Caiuá, São Pedro do Paraná, Tamboara e Terra Rica. 
+A Especialização em Gestão da Qualidade e Tecnologia de Alimentos tem como objetivo a formação e capacitação profissional de recursos humanos para atuação de forma ampla e articulada na gestão, desenvolvimento e melhoria da qualidade de produtos e tecnologias na área de alimentos, a fim de colaborar com o crescimento e evolução da pesquisa científica aplicada, contribuindo com o avanço científico nacional.
 
-A cidade também possui uma área de 1202 km[2] e segundo o Instituto Brasileiro de Geografia e Estatística (IBGE), possui população estimada em 86.773 habitantes (CENSO, 2015). Em termos de desenvolvimento humano da população, os municípios da região apresentam IDH entre 0,7 e 0,8. O Programa das Nações Unidas para o Desenvolvimento - PNUD (2002) considera como país de baixo desenvolvimento humano aquele que apresenta um IDH menor do que 0,5; médio entre 0,5 e 0,8, e alto quando for acima deste valor. Dessa forma, a região da Amunpar apresenta um médio índice de desenvolvimento humano. Embora não seja um desenvolvimento crítico, a educação tem grande importância, como meio para o desenvolvimento cognitivo, profissional e social do cidadão, sendo a educação o caminho para a transformação da sociedade. 
+## **Objetivos Específicos:**
 
-O setor produtivo que mais cresce e gera empregos em Paranavaí é a indústria. A atividade industrial na cidade é diversificada e consistente. Paranavaí conta com a mais completa indústria processadora de mandioca do país, com a única refinaria capaz de extrair glicose da raiz em todo o Brasil. Diariamente, milhares de toneladas de 
+● Capacitar recursos humanos de alto nível visando contribuir com o desenvolvimento científico, tecnológico e industrial de todo país;
 
-23 
+● Promover a política de verticalização institucional do Campus Paranavaí, tornando-o centro de referência na área de Ciência e Tecnologia de Alimentos;
 
-**==> picture [454 x 54] intentionally omitted <==**
+● Proporcionar o desenvolvimento de pesquisas de interesse científico, tecnológico e industrial privilegiando processos cooperativos e/ou multidisciplinares;
 
-mandioca são transformadas em farinha, polvilho e subprodutos industriais. A cidade possui as duas grandes indústrias processadoras de laranja do Estado do Paraná, as quais produzem suco concentrado de laranja, quase que totalmente exportado para o Mercado Comum Europeu. 
+● Possibilitar a compreensão dos fundamentos científico-tecnológicos dos processos produtivos com o objetivo de gerar produtos, tecnologias inovadoras para área de Ciência e Tecnologia de Alimentos e gestão da indústria de alimentos. ● Oportunizar a mobilização de ações criativas, éticas, empreendedoras,
 
-A avicultura também é forte no município, contando com inúmeros aviários para abastecer uma avícola, cuja capacidade de alojamento é de 4.000.000 aves, envolvendo a integração de 232 produtores da região, em 362 barracões totalizando 295.000 m[2] . Para isso, sua fábrica de ração produz 9.000 toneladas/mês de ração. A cidade ainda possui indústrias moveleiras, frigoríficos e laticínios. O desenvolvimento da indústria na cidade pode ser medido por alguns indicadores. Entre os financiamentos do Banco Social, cerca de 3% foram aplicados em pequenas indústrias da cidade. 
+além da reflexão dos impactos ambientais, econômicos e socioculturais das mesmas;
 
-## REFERÊNCIAS 
+● Fomentar o estreitamento dos laços da Universidade com a Indústria mediante projetos cooperativos de pesquisa e (P&D), respeitando-se, quando for o caso, a propriedade intelectual;
 
-CENSO. INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. **Paranavaí** . 2015. Disponível em: http://cidades.ibge.gov.br/xtras/perfil.php?codmun=411840. Acesso em: 22/04/2016. 
+● Proporcionar ao aluno do nível de especialização a vivência de que o ensino, a pesquisa e a extensão são inseparáveis, pois, embora constituam cada um deles uma essência distinta de práticas pedagógicas, sempre haverá momentos de intersecção entre elas.
 
-GOVERNO DO ESTADO DO PARANÁ. **Documento-base. Plano da Educação Estadual do Paraná** , Curitiba, 2015. Disponível em: http://www.seti.pr.gov.br/arquivos/File/documento_base_PEE_PR.pdf. Acesso em : 22/04/2016. 
+## **6. ORGANIZAÇÃO DO CURSO**
 
-**INDICADORES DE PARANAVAÍ** . 2011. Disponível em: 
+A Resolução CONSUP/IFPR Nº18/2017 determina que:
 
-http://livrozilla.com/doc/1388046/5-dimens%C3%A3o-ind%C3%BAstria-considera%C3% A7%C3%B5es-sobre-a-dimens%C3%A3o-da. Acesso em: 22/04/2016. 
+Art. 2º § 1º II. Os cursos de Especialização, presenciais ou à distância, propõem-se a aprofundar conhecimentos e habilidades tecnológicas, preparando especialistas em setores das atividades acadêmicas e profissionais, e deverão ter uma carga horária mínima de 360 (trezentas e sessenta) horas, conforme disposto no Artigo 5º da Resolução CNE/CES Nº 01/2007;
 
-INSTITUTO Paranaense de Desenvolvimento Econômico e Social – IPARDES. **Indicadores. Econômicos** . 2012. Disponível em: <http://www.ipardes.gov.br/>. Acesso 
+Art. 11. Parágrafo único. Não serão computadas as horas de estudo individual ou em grupo, sem acompanhamento do docente, bem como o reservado para elaboração do trabalho de conclusão de curso, conforme Art. 5º da Resolução CNE/CES nº 01/2007.
 
-24 
+Art. 12. A matriz curricular pode ser organizada em módulos, com disciplinas obrigatórias, optativas e eletivas, bem como atividades acadêmicas previstas no Projeto Político de Curso (PPC) do curso.
 
-**==> picture [454 x 54] intentionally omitted <==**
+Observando tais determinações legais, o curso de Especialização em Gestão da Qualidade e Tecnologia de Alimentos contará com a oferta de 13 componentes curriculares obrigatórios, assim discriminadas:
 
-em: 22/04/2016. 
+- 03 componentes curriculares de caráter de aprendizagem comum
 
-## **5. OBJETIVOS DA PROPOSTA** 
+- 06 componentes curriculares técnico/tecnológicos, sendo que todos eles terão carga horária individual de 40 horas relógio;
 
-Com Base na Resolução CNE/CP Nº2/2015, na Resolução IFPR n.18/2017 e na dimensão político-pedagógica estabelecida no Plano de desenvolvimento Institucional do IFPR (2019-2023), apresentamos como objetivos para o curso: 
+- 04 componentes curriculares da área de gestão, sendo que todos eles terão carga horária individual de 40 horas relógio;
 
-## **Objetivo Geral:** 
+A carga horária total do curso de especialização será 480 horas relógio, não sendo contabilizadas as horas reservadas para elaboração do trabalho de conclusão de curso.
 
-A Especialização em Gestão da Qualidade e Tecnologia de Alimentos tem como objetivo a formação e capacitação profissional de recursos humanos para atuação de forma ampla e articulada na gestão, desenvolvimento e melhoria da qualidade de produtos e tecnologias na área de alimentos, a fim de colaborar com o crescimento e evolução da pesquisa científica aplicada, contribuindo com o avanço científico nacional. 
+As componentes curriculares foram pensadas tendo em vista o caráter plural do
 
-## **Objetivos Específicos:** 
+público alvo. Os componentes curriculares propostos foram condicionados às seguintes linhas de pesquisa: Linha 1 – Propriedades físico-químicas, Microbiológicas de alimentos e Inovação e Desenvolvimento Tecnológico e Linha 2 – Gestão na indústria de Alimentos.
 
-● Capacitar recursos humanos de alto nível visando contribuir com o desenvolvimento científico, tecnológico e industrial de todo país; 
+Ressalta-se o desenvolvimento de uma grade curricular capaz de fomentar o diálogo entre os diversos profissionais capazes de participar do curso de especialização e, por conseguinte, a elaboração de conhecimentos profícuos para a construção coletiva do conhecimento, para o aperfeiçoamento de práticas de gestão industrial e para o desenvolvimento de tecnologias inovadoras.
 
-● Promover a política de verticalização institucional do Campus Paranavaí, tornando-o centro de referência na área de Ciência e Tecnologia de Alimentos; 
+## Linhas de pesquisa:
 
-● Proporcionar o desenvolvimento de pesquisas de interesse científico, tecnológico e industrial privilegiando processos cooperativos e/ou multidisciplinares; 
-
-● Possibilitar a compreensão dos fundamentos científico-tecnológicos dos processos produtivos com o objetivo de gerar produtos, tecnologias inovadoras para área de Ciência e Tecnologia de Alimentos e gestão da indústria de alimentos. ● Oportunizar a mobilização de ações criativas, éticas, empreendedoras, 
-
-25 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
-além da reflexão dos impactos ambientais, econômicos e socioculturais das mesmas; 
-
-● Fomentar o estreitamento dos laços da Universidade com a Indústria mediante projetos cooperativos de pesquisa e (P&D), respeitando-se, quando for o caso, a propriedade intelectual; 
-
-● Proporcionar ao aluno do nível de especialização a vivência de que o ensino, a pesquisa e a extensão são inseparáveis, pois, embora constituam cada um deles uma essência distinta de práticas pedagógicas, sempre haverá momentos de intersecção entre elas. 
-
-26 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
-## **6. ORGANIZAÇÃO DO CURSO** 
-
-A Resolução CONSUP/IFPR Nº18/2017 determina que: 
-
-Art. 2º § 1º II. Os cursos de Especialização, presenciais ou à distância, propõem-se a aprofundar conhecimentos e habilidades tecnológicas, preparando especialistas em setores das atividades acadêmicas e profissionais, e deverão ter uma carga horária mínima de 360 (trezentas e sessenta) horas, conforme disposto no Artigo 5º da Resolução CNE/CES Nº 01/2007; 
-
-Art. 11. Parágrafo único. Não serão computadas as horas de estudo individual ou em grupo, sem acompanhamento do docente, bem como o reservado para elaboração do trabalho de conclusão de curso, conforme Art. 5º da Resolução CNE/CES nº 01/2007. 
-
-Art. 12. A matriz curricular pode ser organizada em módulos, com disciplinas obrigatórias, optativas e eletivas, bem como atividades acadêmicas previstas no Projeto Político de Curso (PPC) do curso. 
-
-Observando tais determinações legais, o curso de Especialização em Gestão da Qualidade e Tecnologia de Alimentos contará com a oferta de 13 componentes curriculares obrigatórios, assim discriminadas: 
-
-- 03 componentes curriculares de caráter de aprendizagem comum 
-
-- 06 componentes curriculares técnico/tecnológicos, sendo que todos eles terão carga horária individual de 40 horas relógio; 
-
-- 04 componentes curriculares da área de gestão, sendo que todos eles terão carga horária individual de 40 horas relógio; 
-
-A carga horária total do curso de especialização será 480 horas relógio, não sendo contabilizadas as horas reservadas para elaboração do trabalho de conclusão de curso. 
-
-As componentes curriculares foram pensadas tendo em vista o caráter plural do 
-
-27 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
-público alvo. Os componentes curriculares propostos foram condicionados às seguintes linhas de pesquisa: Linha 1 – Propriedades físico-químicas, Microbiológicas de alimentos e Inovação e Desenvolvimento Tecnológico e Linha 2 – Gestão na indústria de Alimentos. 
-
-Ressalta-se o desenvolvimento de uma grade curricular capaz de fomentar o diálogo entre os diversos profissionais capazes de participar do curso de especialização e, por conseguinte, a elaboração de conhecimentos profícuos para a construção coletiva do conhecimento, para o aperfeiçoamento de práticas de gestão industrial e para o desenvolvimento de tecnologias inovadoras. 
-
-## Linhas de pesquisa: 
-
-## **DESCRIÇÃO DAS LINHAS DE PESQUISA** 
+## **DESCRIÇÃO DAS LINHAS DE PESQUISA**
 
 |Linhas de pesquisa:|Linhas de pesquisa:|Linhas de pesquisa:|
 |---|---|---|
@@ -461,21 +358,13 @@ Ressalta-se o desenvolvimento de uma grade curricular capaz de fomentar o diálo
 |Propriedades<br>físico-químicas,<br>Microbiológicas de alimentos<br>e<br>Inovação e Desenvolvimento<br>Tecnológico.|Ciência e Tecnologia de<br>Alimentos|O<br>objetivo<br>desta linha de<br>pesquisa é realizar o estudo<br>e<br>caracterização<br>das<br>matérias-primas e produtos<br>processados;<br>compreender<br>as atividades de avaliação<br>da segurança e qualidade de<br>alimentos<br>e<br>produtos<br>agrícolas.<br>Os<br>projetos<br>desenvolvidos farão uso de<br>análises<br>Físico-químicas<br>e<br>Microbiológicas.|
 |Gestão<br>na<br>indústria<br>de<br>Alimentos|Ciência e Tecnologia de<br>Alimentos|Os objetivos desta linha são:<br>o estudo do planejamento e<br>gestão<br>da<br>qualidade<br>com<br>aplicação de ferramentas da<br>qualidade<br>na<br>melhoria<br>de<br>produtos<br>e<br>processos<br>na|
 
-
-
-28 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
 |indústria|de|alimentos,|alimentos,|
 |---|---|---|---|
 |marketing,|||e|
 |desenvolvimento||de|novos|
 |produtos||||
 
-
-
-## **7. Cronograma das atividades** 
+## **7. Cronograma das atividades**
 
 ||**2021**|**2021**|**2021**|**2021**|**2021**|**2021**|**2021**|**2021**|**2021**|**2021**|**2021**|**2021**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -485,8 +374,6 @@ Ressalta-se o desenvolvimento de uma grade curricular capaz de fomentar o diálo
 |**Processo**<br>**seletivo**|||||||||||**x**||
 |**Registro**<br>**acadêmico**<br>**(matrículas)**||||||||||||**X**|
 
-
-
 ||**2022**|**2022**|**2022**|**2022**|**2022**|**2022**|**2022**|**2022**|**2022**|**2022**|**2022**|**2022**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 |**EVENTOS**|**Jan**|**Fev**|**Mar**|**Abr**|**Mai**|**Jun**|**Jul**|**Ago**|**Set**|**Out**|**Nov**|**Dez**|
@@ -494,15 +381,8 @@ Ressalta-se o desenvolvimento de uma grade curricular capaz de fomentar o diálo
 |**Componentes**<br>**curriculares**<br>**do módulo 1**|||**X**|**X**|**X**|**X**|**x**||||||
 |**Componentes**<br>**curriculares**<br>**do módulo 2**||||||||**X**|**X**|**X**|**X**|**X**|
 
-
-
-29 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
 ||**Período**<br>**de**<br>**elaboração**<br>**do TCC**|||**x**|**X**|**x**|**x**|**x**|**x**|**x**|**x**|**x**|**x**||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-||||||||||||||||
 |||**2023**|||||||||||||
 ||**EVENTOS**|**Jan**|**Fev**|**Mar**|**Abr**|**Mai**||**Jun**|**Jul**|**Ago**|**Set**|**Out**|**Nov**|**Dez**|
 ||**Entrega**<br>**da**<br>**versão**<br>**final**<br>**do TCC**|**X**|||||||||||||
@@ -519,13 +399,7 @@ Ressalta-se o desenvolvimento de uma grade curricular capaz de fomentar o diálo
 |Caroline Mongruel Eleutério dos Santos|||||||Dr. Engenharia de Alimentos||||||||
 |Michele Rosset|||||||Dr Ciência de Alimentos||||||||
 
-
-
-30 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
-## 8.1 Produção acadêmica dos docentes do curso 
+## 8.1 Produção acadêmica dos docentes do curso
 
 |**Nome do Docente**|**Currículo****_Lattes_**|
 |---|---|
@@ -539,181 +413,149 @@ Ressalta-se o desenvolvimento de uma grade curricular capaz de fomentar o diálo
 |Caroline Mongruel Eleutério dos Santos|http://lattes.cnpq.br/5159213149608888|
 |Michele Rosset|http://lattes.cnpq.br/7667121154047623|
 
+## 8.2 Grupos de Pesquisa envolvidos
 
+**Nome:** Desenvolvimento de Novos Produtos e Novas Tecnologias
 
-## 8.2 Grupos de Pesquisa envolvidos 
+**Área de Concentração:** Ciência e Tecnologia de Alimentos
 
-**Nome:** Desenvolvimento de Novos Produtos e Novas Tecnologias 
+**Líder:** Tatiana Colombo Pimentel **Vice-líder:** Suellen Jensen Klososki
 
-**Área de Concentração:** Ciência e Tecnologia de Alimentos 
+**Docentes envolvidos (que participam da proposta):** Carlos Eduardo Barão, Michele Rosset, Suellen Jensen Klososki, Rosemeire Carvalho Silva, Tatiana Colombo Pimentel, Vanessa Aparecida Marcolino e Keren Hapuque Pinheiro. **Ano de criação:** 2013
 
-**Líder:** Tatiana Colombo Pimentel **Vice-líder:** Suellen Jensen Klososki 
+**Descrição:** O grupo tem como característica o desenvolvimento de novos produtos e tecnologias utilizando matérias-primas disponíveis no cotidiano; e/ou excedentes de produção. Além disso, busca originar produtos funcionais, ou seja, que possam trazer benefícios à saúde do consumidor; e aproveitar resíduos de produção (cascas, talos e sementes). Atua na área de tecnologia de alimentos de origem animal e vegetal, com ênfase em produtos lácteos, panificação e derivados de frutas. Os trabalhos pertencentes ao grupo ganharam cinco prêmios em eventos científicos nacionais e
 
-**Docentes envolvidos (que participam da proposta):** Carlos Eduardo Barão, Michele Rosset, Suellen Jensen Klososki, Rosemeire Carvalho Silva, Tatiana Colombo Pimentel, Vanessa Aparecida Marcolino e Keren Hapuque Pinheiro. **Ano de criação:** 2013 
+internacionais.
 
-**Descrição:** O grupo tem como característica o desenvolvimento de novos produtos e tecnologias utilizando matérias-primas disponíveis no cotidiano; e/ou excedentes de produção. Além disso, busca originar produtos funcionais, ou seja, que possam trazer benefícios à saúde do consumidor; e aproveitar resíduos de produção (cascas, talos e sementes). Atua na área de tecnologia de alimentos de origem animal e vegetal, com ênfase em produtos lácteos, panificação e derivados de frutas. Os trabalhos pertencentes ao grupo ganharam cinco prêmios em eventos científicos nacionais e 
-
-31 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
-internacionais. 
-
-**Atividades do Grupo de Pesquisa** : O Grupo de Pesquisa apresenta 282 artigos publicados em periódicos nacionais e internacionais, 666 trabalhos publicados em anais de eventos, 56 capítulos de livros, e 4 livros. Esses dados podem ser comprovados na plataforma Stella Experta. 
+**Atividades do Grupo de Pesquisa** : O Grupo de Pesquisa apresenta 282 artigos publicados em periódicos nacionais e internacionais, 666 trabalhos publicados em anais de eventos, 56 capítulos de livros, e 4 livros. Esses dados podem ser comprovados na plataforma Stella Experta.
 
 |Grupo de Pesquisa|Tipo do Grupo|Linhas de Pesquisa|Docente|
 |---|---|---|---|
 |Desenvolvimento de<br>Novos<br>Produtos<br>e<br>Novas Tecnologias|CNPq|Gestão da Qualidade,<br>Tecnologia<br>de<br>Alimentos,<br>Desenvolvimento<br>de<br>Novos<br>Produtos<br>e<br>novas Tecnologias.|Carlos Eduardo<br>Barão, Denis<br>Fabrício Marchi,<br>Gislaine Silveira<br>Simões, Micgele<br>Rosset, Suellen<br>Jensen Klososki,<br>Keren Hapuque<br>Pinheiro,Tatiana<br>Colombo Pimentel.|
 
+Grupo de Pesquisa - Desenvolvimento de Novos Produtos e Novas Tecnologias
 
+Área de Concentração – (Adicionar o código e nome da Grande Área de acordo com CNPq) 5.00.00.00-4 – Ciências Agrárias 5.070.200-9 – Tecnologia de Alimentos
 
-Grupo de Pesquisa - Desenvolvimento de Novos Produtos e Novas Tecnologias 
+Área (adicionar código e o nome) - 5.07.00.00-6 – Ciência e Tecnologia de Alimentos
 
-Área de Concentração – (Adicionar o código e nome da Grande Área de acordo com CNPq) 5.00.00.00-4 – Ciências Agrárias 5.070.200-9 – Tecnologia de Alimentos 
+Linhas de Pesquisa: Gestão da Qualidade, Tecnologia de Alimentos, Desenvolvimento de Novos Produtos e novas Tecnologias.
 
-Área (adicionar código e o nome) - 5.07.00.00-6 – Ciência e Tecnologia de Alimentos 
+## **9. METODOLOGIA DE TRABALHO E AVALIAÇÃO DO DESEMPENHO DO ESTUDANTE**
 
-Linhas de Pesquisa: Gestão da Qualidade, Tecnologia de Alimentos, Desenvolvimento de Novos Produtos e novas Tecnologias. 
+O professor poderá valer-se de várias estratégias pedagógicas, tais como: aulas expositivas ou interativas via plataforma moodle, discussão e debate dos conteúdos
 
-## **9. METODOLOGIA DE TRABALHO E AVALIAÇÃO DO DESEMPENHO DO ESTUDANTE** 
+expostos nos fóruns específicos de cada componente curricular, estudos dirigidos, entre outros.
 
-O professor poderá valer-se de várias estratégias pedagógicas, tais como: aulas expositivas ou interativas via plataforma moodle, discussão e debate dos conteúdos 
+De acordo com a Resolução 50/2017 que estabelece as normas de avaliação dos processos de ensino-aprendizagem no âmbito do IFPR temos:
 
-32 
+Art. 9º Para a avaliação do processo ensino-aprendizagem, deverão ser utilizados vários instrumentos avaliativos de coleta de dados, como por exemplo:
 
-**==> picture [454 x 54] intentionally omitted <==**
+- I – seminários;
 
-expostos nos fóruns específicos de cada componente curricular, estudos dirigidos, entre outros. 
+- II – trabalhos individuais e/ou em grupos;
 
-De acordo com a Resolução 50/2017 que estabelece as normas de avaliação dos processos de ensino-aprendizagem no âmbito do IFPR temos: 
+- III – testes escritos e/ou orais/sinalizados;
 
-Art. 9º Para a avaliação do processo ensino-aprendizagem, deverão ser utilizados vários instrumentos avaliativos de coleta de dados, como por exemplo: 
+- IV – demonstrações de técnicas em laboratório;
 
-- I – seminários; 
+- V – dramatizações;
 
-- II – trabalhos individuais e/ou em grupos; 
+- VI – apresentações de trabalhos finais de iniciação científica;
 
-- III – testes escritos e/ou orais/sinalizados; 
+- VII – artigos científicos ou ensaios;
 
-- IV – demonstrações de técnicas em laboratório; 
+- VIII – Trabalho de Conclusão de Curso – TCC;
 
-- V – dramatizações; 
+- IX – relatórios de estágio;
 
-- VI – apresentações de trabalhos finais de iniciação científica; 
+- X – portfólios;
 
-- VII – artigos científicos ou ensaios; 
+- XI – resenhas;
 
-- VIII – Trabalho de Conclusão de Curso – TCC; 
+- XII – autoavaliações;
 
-- IX – relatórios de estágio; 
+- XIII – participações em projetos;
 
-- X – portfólios; 
+- XIV – participações em atividades culturais e esportivas;
 
-- XI – resenhas; 
+- XV – visitas técnicas;
 
-- XII – autoavaliações; 
+- XVI – atividades em Ambiente Virtual de Aprendizagem (AVA);
 
-- XIII – participações em projetos; 
+- XVII – participação em atividades de mobilidade nacional e internacional;
 
-33 
+- XVIII – outras atividades de ensino, pesquisa, extensão e inovação pertinentes aos cursos.
 
-**==> picture [454 x 54] intentionally omitted <==**
+No entanto, o professor diante da metodologia EaD poderá adequar as possíveis ferramentas ou atividades avaliativas dentro das possibilidades da plataforma.
 
-- XIV – participações em atividades culturais e esportivas; 
+Como também determinado pela Resolução 50/2017 o estudante será aprovado em um componente curricular quando for atribuído um conceito A (aprendizagem plena), B (aprendizagem parcialmente plena) ou C (aprendizagem suficiente) ao conjunto das avaliações definidas pelo plano de ensino desse mesmo componente curricular. Portanto, um aluno será considerado reprovado em um componente curricular quando não atingir um conceito igual ou superior a C, isto é, quando obtiver o conceito D (aprendizagem insuficiente) [...].
 
-- XV – visitas técnicas; 
+Para o cômputo da carga horária de cada componente curricular serão consideradas as atividades desenvolvidas de acordo com o cronograma desenvolvido pelo professor.
 
-- XVI – atividades em Ambiente Virtual de Aprendizagem (AVA); 
+Em caso de reprova em algum componente curricular, o estudante ficará obrigado a repetir o mesmo em anos posteriores desde que haja nova oferta. A avaliação final do curso deverá ser feita por meio de arguição do Trabalho de Conclusão do Curso (TCC).
 
-- XVII – participação em atividades de mobilidade nacional e internacional; 
+As determinações indicadas abaixo, presentes na Resolução CONSUP/IFPR nº 18/2017, aplicam-se à especialização que aqui apresentamos:
 
-- XVIII – outras atividades de ensino, pesquisa, extensão e inovação pertinentes aos cursos. 
+Art. 15. § 4º A defesa pública do trabalho de conclusão de curso é obrigatória [...].
 
-No entanto, o professor diante da metodologia EaD poderá adequar as possíveis ferramentas ou atividades avaliativas dentro das possibilidades da plataforma. 
+Art. 26. § 1º O curso será considerado concluído após a integralização dos módulos previstos, cumprimento de carga horária e a defesa pública do trabalho de conclusão de curso, para os cursos que têm essa exigência descrita no seu PPC;
 
-Como também determinado pela Resolução 50/2017 o estudante será aprovado em um componente curricular quando for atribuído um conceito A (aprendizagem plena), B (aprendizagem parcialmente plena) ou C (aprendizagem suficiente) ao conjunto das avaliações definidas pelo plano de ensino desse mesmo componente curricular. Portanto, um aluno será considerado reprovado em um componente curricular quando não atingir um conceito igual ou superior a C, isto é, quando obtiver o conceito D (aprendizagem insuficiente) [...]. 
+Art. 26. § 3º Terá direito ao certificado de Aperfeiçoamento o aluno do curso de Especialização que não apresentar o trabalho final, ou que seja considerado insatisfatório, e tenha cumprido todos os créditos em disciplinas e atividades especiais.
 
-Para o cômputo da carga horária de cada componente curricular serão consideradas as atividades desenvolvidas de acordo com o cronograma desenvolvido pelo professor. 
+Art. 26 § 5º Serão considerados aprovados no curso de especialização os estudantes cujos trabalhos de conclusão de curso obtiverem aprovação[...].
 
-Em caso de reprova em algum componente curricular, o estudante ficará obrigado a repetir o mesmo em anos posteriores desde que haja nova oferta. A avaliação final do curso deverá ser feita por meio de arguição do Trabalho de Conclusão do Curso (TCC). 
+## **9.1. Metodologia de trabalho referente ao ambiente virtual de aprendizagem**
 
-As determinações indicadas abaixo, presentes na Resolução CONSUP/IFPR nº 18/2017, aplicam-se à especialização que aqui apresentamos: 
+A proposta metodológica do curso compreende a gestão de conteúdos e atividades avaliativas da aprendizagem, disponibilizadas por meio do ambiente virtual de aprendizagem, bem como em momentos presenciais. A proposta está fundamentada no desenvolvimento de atividades online e assíncronas, subsidiadas por tecnologias digitais.
 
-34 
+No intuito de atender os estudantes os integrantes desta proposta disponibilizarão materiais didáticos específicos para o curso, ainda assim, em momentos distintos o docente poderá utilizar recursos didáticos selecionados a partir de materiais prontos e disponíveis na instituição e/ou em repositórios digitais, sendo tomado os devidos cuidados para disponibilizar materiais (livros, artigos, slides, vídeos, imagens e outros) com licença aberta de direitos autorais, licença Creative Commons ou com autorização expressa dos autores.
 
-**==> picture [454 x 54] intentionally omitted <==**
+No âmbito da aprendizagem virtual a mediação entre docentes e estudantes acontecerá de maneira direta, sem a intervenção de tutores. A relação direta entre estudantes e docentes em cursos na modalidade EaD permite uma maior interação e proporciona uma relação mais dinâmica e pessoal no intuito de diminuir os índices de evasão.
 
-Art. 15. § 4º A defesa pública do trabalho de conclusão de curso é obrigatória [...]. 
+O campus Paranavaí por meio de auxílio advindo da Diretoria do EaD conseguiu junto a essa diretoria a possibilidade de utilização do AVA da Diretoria EaD IFPR, conforme Anexo VII, Parecer DEAD/DEDRE/EP no. 03/2017, no qual o referido campus poderá contar com acompanhamento técnico do suporte EaD. Desta maneira a presente proposta poderá contar com o uso do AVA que fornece os seguintes recursos disponíveis:
 
-Art. 26. § 1º O curso será considerado concluído após a integralização dos módulos previstos, cumprimento de carga horária e a defesa pública do trabalho de conclusão de curso, para os cursos que têm essa exigência descrita no seu PPC; 
+- Postagem de conteúdos em formatos diversos, sejam arquivos textuais, imagens, áudios ou vídeos;
 
-Art. 26. § 3º Terá direito ao certificado de Aperfeiçoamento o aluno do curso de Especialização que não apresentar o trabalho final, ou que seja considerado insatisfatório, e tenha cumprido todos os créditos em disciplinas e atividades especiais. 
+- Criação de fóruns (conversação assíncrona), chats (conversação síncrona), questionários diversos, atividades discursivas, atividades de elaboração (nas quais o estudante pode anexar arquivos multiformatos), glossário, livro e sistema de feedback para devolutiva das atividades;
 
-Art. 26 § 5º Serão considerados aprovados no curso de especialização os estudantes cujos trabalhos de conclusão de curso obtiverem aprovação[...]. 
+- Correio eletrônico;
 
-## **9.1. Metodologia de trabalho referente ao ambiente virtual de aprendizagem** 
+- Relatório de notas.
 
-A proposta metodológica do curso compreende a gestão de conteúdos e atividades avaliativas da aprendizagem, disponibilizadas por meio do ambiente virtual de aprendizagem, bem como em momentos presenciais. A proposta está fundamentada no desenvolvimento de atividades online e assíncronas, subsidiadas por tecnologias digitais. 
+## **10. CRITÉRIOS DE APROVEITAMENTO DE ESTUDOS ANTERIORES**
 
-No intuito de atender os estudantes os integrantes desta proposta disponibilizarão materiais didáticos específicos para o curso, ainda assim, em momentos distintos o docente poderá utilizar recursos didáticos selecionados a partir de materiais prontos e disponíveis na instituição e/ou em repositórios digitais, sendo tomado os devidos cuidados para disponibilizar materiais (livros, artigos, slides, vídeos, imagens e outros) com licença aberta de direitos autorais, licença Creative Commons ou com autorização expressa dos autores. 
+Observa-se o seguinte artigo da Resolução CONSUP/IFPR nº 18/2017:
 
-35 
+Art. 22. Os estudantes matriculados poderão solicitar aproveitamento de saberes adquiridos ou disciplinas formalmente cursados e concluídos em outros Programas de Pós-Graduação, mediante comprovação por meio de instrumento de avaliação ou declaração emitida pela Instituição onde estudou.
 
-**==> picture [454 x 54] intentionally omitted <==**
+§ 1º O aluno poderá requerer dispensa de disciplinas ou módulos de aprendizagem mediante aceitação de créditos em disciplinas ou módulos equivalentes obtidos em outros cursos de Pós-Graduação, cabendo à Coordenação do curso sua apreciação e deferimento.
 
-No âmbito da aprendizagem virtual a mediação entre docentes e estudantes acontecerá de maneira direta, sem a intervenção de tutores. A relação direta entre estudantes e docentes em cursos na modalidade EaD permite uma maior interação e proporciona uma relação mais dinâmica e pessoal no intuito de diminuir os índices de evasão. 
+Considerando tal artigo e seus respectivos parágrafos, resolvemos que no curso de Especialização em Gestão da Qualidade e Tecnologia de Alimentos:
 
-O campus Paranavaí por meio de auxílio advindo da Diretoria do EaD conseguiu junto a essa diretoria a possibilidade de utilização do AVA da Diretoria EaD IFPR, conforme Anexo VII, Parecer DEAD/DEDRE/EP no. 03/2017, no qual o referido campus poderá contar com acompanhamento técnico do suporte EaD. Desta maneira a presente proposta poderá contar com o uso do AVA que fornece os seguintes recursos disponíveis: 
+   1. O aproveitamento de estudos será feito mediante o reconhecimento da identidade ou equivalência entre componentes curriculares, suas cargas horárias e ementas, totalizando, no mínimo, 75% de similaridade entre as ementas. Somente serão considerados para aproveitamento de estudos os componentes curriculares cursados nos últimos 02 (dois) anos.
 
-- Postagem de conteúdos em formatos diversos, sejam arquivos textuais, imagens, áudios ou vídeos; 
+   2. São passíveis de aproveitamento os estudos realizados em outro curso de pós-graduação ( _lato_ e _stricto sensu_ ). Não terão validade e não poderão ser aproveitados estudos feitos em cursos livres ou em estabelecimentos que funcionam sem a devida autorização legal.
 
-- Criação de fóruns (conversação assíncrona), chats (conversação síncrona), questionários diversos, atividades discursivas, atividades de elaboração (nas quais o estudante pode anexar arquivos multiformatos), glossário, livro e sistema de feedback para devolutiva das atividades; 
+   3. A análise do aproveitamento e revalidação dos componentes curriculares ficará a cargo do Colegiado do Curso, tendo como base a legislação vigente dos cursos de Pós-Graduação do IFPR.
 
-- Correio eletrônico; 
+   4. O limite de aproveitamento de saberes certificados ou disciplinas cursadas em outros programas ou Instituições não poderão ultrapassar 30% da carga horária total do curso.
 
-- Relatório de notas. 
+   5. Os documentos que deverão ser apresentados para a análise do aproveitamento de estudos no ato da matrícula são:
 
-## **10. CRITÉRIOS DE APROVEITAMENTO DE ESTUDOS ANTERIORES** 
+- Histórico escolar original ou documento equivalente que ateste os componentes curriculares cursados, a respectiva carga horária, a nota ou o conceito, e o período letivo de integralização;
 
-Observa-se o seguinte artigo da Resolução CONSUP/IFPR nº 18/2017: 
+- Cópia autenticada pela Instituição de origem das ementas dos componentes curriculares cursados e aprovados, constantes no histórico escolar;
 
-Art. 22. Os estudantes matriculados poderão solicitar aproveitamento de saberes adquiridos ou disciplinas formalmente cursados e concluídos em outros Programas de Pós-Graduação, mediante comprovação por meio de instrumento de avaliação ou declaração emitida pela Instituição onde estudou. 
+- Documento expedido pela Instituição de origem em que conste o número e a data do ato de autorização ou reconhecimento do curso.
 
-36 
+   6. Para os componentes curriculares cursados em Pós-Graduação no IFPR, poderão ser dispensados os documentos originais ou cópias autenticadas.
 
-**==> picture [454 x 54] intentionally omitted <==**
+   7. O pedido de aproveitamento de estudos deverá ser efetuado via email para Secretaria Acadêmica do IFPR – Campus Paranavaí, no ato da matrícula, acompanhado dos documentos citados anteriormente.
 
-§ 1º O aluno poderá requerer dispensa de disciplinas ou módulos de aprendizagem mediante aceitação de créditos em disciplinas ou módulos equivalentes obtidos em outros cursos de Pós-Graduação, cabendo à Coordenação do curso sua apreciação e deferimento. 
+## **11. MATRIZ CURRICULAR**
 
-Considerando tal artigo e seus respectivos parágrafos, resolvemos que no curso de Especialização em Gestão da Qualidade e Tecnologia de Alimentos: 
-
-   1. O aproveitamento de estudos será feito mediante o reconhecimento da identidade ou equivalência entre componentes curriculares, suas cargas horárias e ementas, totalizando, no mínimo, 75% de similaridade entre as ementas. Somente serão considerados para aproveitamento de estudos os componentes curriculares cursados nos últimos 02 (dois) anos. 
-
-   2. São passíveis de aproveitamento os estudos realizados em outro curso de pós-graduação ( _lato_ e _stricto sensu_ ). Não terão validade e não poderão ser aproveitados estudos feitos em cursos livres ou em estabelecimentos que funcionam sem a devida autorização legal. 
-
-   3. A análise do aproveitamento e revalidação dos componentes curriculares ficará a cargo do Colegiado do Curso, tendo como base a legislação vigente dos cursos de Pós-Graduação do IFPR. 
-
-   4. O limite de aproveitamento de saberes certificados ou disciplinas cursadas em outros programas ou Instituições não poderão ultrapassar 30% da carga horária total do curso. 
-
-   5. Os documentos que deverão ser apresentados para a análise do aproveitamento de estudos no ato da matrícula são: 
-
-- Histórico escolar original ou documento equivalente que ateste os componentes curriculares cursados, a respectiva carga horária, a nota ou o conceito, e o período letivo de integralização; 
-
-37 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
-- Cópia autenticada pela Instituição de origem das ementas dos componentes curriculares cursados e aprovados, constantes no histórico escolar; 
-
-- Documento expedido pela Instituição de origem em que conste o número e a data do ato de autorização ou reconhecimento do curso. 
-
-   6. Para os componentes curriculares cursados em Pós-Graduação no IFPR, poderão ser dispensados os documentos originais ou cópias autenticadas. 
-
-   7. O pedido de aproveitamento de estudos deverá ser efetuado via email para Secretaria Acadêmica do IFPR – Campus Paranavaí, no ato da matrícula, acompanhado dos documentos citados anteriormente. 
-
-## **11. MATRIZ CURRICULAR** 
-
-## Organização dos componentes curriculares: 
+## Organização dos componentes curriculares:
 
 |<br>Componentes Curriculares|<br>Componentes Curriculares|<br>Componentes Curriculares|Tipo de<br>componente||
 |---|---|---|---|---|
@@ -722,18 +564,10 @@ Considerando tal artigo e seus respectivos parágrafos, resolvemos que no curso 
 |Eixo Comum|Seminários de<br>pesquisa|Suellen<br>Jensen e<br>Rosemeire<br>Silva|Obrigatória|20 horas|
 |Carga Horária Total do Núcleo||||60  horas|
 
-
-
 |Componentes Curriculares|Componentes Curriculares|Componentes Curriculares|Tipo de<br>componente||
 |---|---|---|---|---|
 |Módulo de<br>formação<br>teórico/prática|Nome<br>do<br>Componente<br>Curricular|Docente<br>responsável|Obrigatória<br>Optativa<br>Eletiva|Carga Horária|
 ||Química de Alimentos|Vanessa<br>Marcolino|Obrigatória|40 horas|
-
-
-
-38 
-
-**==> picture [454 x 54] intentionally omitted <==**
 
 |Módulo<br>1<br>-<br>Propriedades<br>físico-químicas,<br>Microbiológicas<br>de<br>alimentos<br>e<br>Inovação<br>e<br>Desenvolvimento<br>Tecnológico.||Tecnologia<br>de<br>Produtos<br>de Origem<br>Animal|Tatiana<br>Pimentel|Obrigatória|40 horas|
 |---|---|---|---|---|---|
@@ -742,8 +576,6 @@ Considerando tal artigo e seus respectivos parágrafos, resolvemos que no curso 
 |||Tecnologia de<br>Produtos de Origem<br>Vegetal|Suellen<br>Klososki|Obrigatória|40 horas|
 |||Tecnologias<br>emergentes na<br>indústria de alimentos|Carlos<br>Eduardo<br>Barão/Tatia<br>na Colombo<br>Pimentel|Obrigatória|40 horas|
 ||Carga Horária Total do Núcleo||||240 horas|
-
-
 
 |Componentes Curriculares|Componentes Curriculares|Componentes Curriculares|Componentes Curriculares|Tipo de<br>componente||
 |---|---|---|---|---|---|
@@ -754,58 +586,46 @@ Considerando tal artigo e seus respectivos parágrafos, resolvemos que no curso 
 |||Marketing e<br>Desenvolvimento de<br>Produtos|Caroline M.<br>E. dos<br>Santos|Obrigatória|40 horas|
 ||Carga Horária Total do Núcleo||||160 horas|
 
-
-
-39 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
 |Componentes Curriculares|Componentes Curriculares|Componentes Curriculares|Tipo de<br>componente||
 |---|---|---|---|---|
 |Módulo de TCC|Nome<br>do<br>Componente<br>Curricular|Docente<br>responsável|Obrigatória<br>Optativa<br>Eletiva|Carga Horária|
 |Módulo TCC|Trabalho de<br>Conclusão de Curso|Vanessa<br>Marcolino|Obrigatória|20 horas|
 
+## **12. EMENTA, BIBLIOGRAFIA E CARGA HORÁRIA DOS COMPONENTES CURRICULARES**
 
+Componente curricular: Inovação na Indústria de Alimentos
 
-## **12. EMENTA, BIBLIOGRAFIA E CARGA HORÁRIA DOS COMPONENTES CURRICULARES** 
+Carga horária: 40 horas
 
-Componente curricular: Inovação na Indústria de Alimentos 
+Ementa: A Indústria de Alimentos. O processo de inovação. Tendências e Inovações em Ciência e Tecnologia de Alimentos. Propriedade Intelectual aplicada a pesquisa e desenvolvimento de produtos/processo na área de alimentos.
 
-Carga horária: 40 horas 
+Bibliografia básica:
 
-Ementa: A Indústria de Alimentos. O processo de inovação. Tendências e Inovações em Ciência e Tecnologia de Alimentos. Propriedade Intelectual aplicada a pesquisa e desenvolvimento de produtos/processo na área de alimentos. 
+COSTA, S. R. R.; KUROZAWA, E.L. Tendências e Inovações em Ciência Tecnologia e Engenharia de Alimentos. São Paulo, SP: Editora Atheneu, 2014.
 
-Bibliografia básica: 
+WEISZ, J. Projetos de inovação tecnológica: planejamento, formulação, avaliação, tomada de decisões. Brasília: IEL, 2009.
 
-COSTA, S. R. R.; KUROZAWA, E.L. Tendências e Inovações em Ciência Tecnologia e Engenharia de Alimentos. São Paulo, SP: Editora Atheneu, 2014. 
+ROSENTHAL, A. Tecnologia de alimentos e inovação – Tendências e perspectivas. Editora Embrapa, 2008.
 
-WEISZ, J. Projetos de inovação tecnológica: planejamento, formulação, avaliação, tomada de decisões. Brasília: IEL, 2009. 
+ZUIN, Luis Fernando Soares; Queiroz, Timóteo Ramos. Agronegócios: Gestão e Inovação. 1ª Edição. Editora Saraiva, 2006. 456 p.
 
-ROSENTHAL, A. Tecnologia de alimentos e inovação – Tendências e perspectivas. Editora Embrapa, 2008. 
+MAPA, Ministério da Agricultura. Coleção curso de Propriedade Intelectual e Inovação no agronegócio, 2. Ed.. – Brasília: MAPA; Florianópolis : EaD/ UFSC, 2010.
 
-ZUIN, Luis Fernando Soares; Queiroz, Timóteo Ramos. Agronegócios: Gestão e Inovação. 1ª Edição. Editora Saraiva, 2006. 456 p. 
+## Bibliografia complementar:
 
-MAPA, Ministério da Agricultura. Coleção curso de Propriedade Intelectual e Inovação no agronegócio, 2. Ed.. – Brasília: MAPA; Florianópolis : EaD/ UFSC, 2010. 
+BARBOSA, C, Propriedade Intelectual. 1ª Edição, Editora Campus, 2009.
 
-## Bibliografia complementar: 
+SERGIO, Takahashi; Passarini, Vânia. Gestão da Inovação de Produtos. Editora Campus. 2006. GAVA, A.J. Tecnologia de Alimentos: princípio e aplicações. São Paulo: Nobel S. A, 2010.
 
-BARBOSA, C, Propriedade Intelectual. 1ª Edição, Editora Campus, 2009. 
+PETROSKI, Henry. Inovação: da ideia ao produto. 1ª Edição. Editora Edgard Blucher. 2008. 212 p.
 
-SERGIO, Takahashi; Passarini, Vânia. Gestão da Inovação de Produtos. Editora Campus. 2006. GAVA, A.J. Tecnologia de Alimentos: princípio e aplicações. São Paulo: Nobel S. A, 2010. 
+BESSANT, John; TIDD, Joe. Inovação e empreendedorismo: administração. Porto Alegre: Bookman, 2009. 512p.
 
-PETROSKI, Henry. Inovação: da ideia ao produto. 1ª Edição. Editora Edgard Blucher. 2008. 212 p. 
+TROTT, P. **Gestão da inovação e desenvolvimento de novos produtos** . 4. Ed. Porto Alegre: Bookman, 2012. 648 p.
 
-40 
+BEZERRA, Charles. A máquina de inovação: mentes e organizações na luta por diferenciação. Porto Alegre: Bookman, 2010. 80p.
 
-**==> picture [454 x 54] intentionally omitted <==**
-
-BESSANT, John; TIDD, Joe. Inovação e empreendedorismo: administração. Porto Alegre: Bookman, 2009. 512p. 
-
-TROTT, P. **Gestão da inovação e desenvolvimento de novos produtos** . 4. Ed. Porto Alegre: Bookman, 2012. 648 p. 
-
-BEZERRA, Charles. A máquina de inovação: mentes e organizações na luta por diferenciação. Porto Alegre: Bookman, 2010. 80p. 
-
-BARBIERI, José. Carlos. Et al. Gestão de ideias para inovação contínua. Porto Alegre: Bookman, 2008. 134p. 
+BARBIERI, José. Carlos. Et al. Gestão de ideias para inovação contínua. Porto Alegre: Bookman, 2008. 134p.
 
 |Componente curricular: Química de Alimentos||
 |---|---|
@@ -837,377 +657,323 @@ BARBIERI, José. Carlos. Et al. Gestão de ideias para inovação contínua. Por
 |MATOS, Simone Pires de; MACEDO, Paula Daiany Gonçalves. Bioquímica dos alimentos:||
 |composição, reações e práticas de conservação. 1.ed. São Paulo: 2015. 128 p.||
 
+PICÓ, Yolanda. Análise química de alimentos: técnicas. 1.ed. Rio de Janeiro: Elsevier : Campus, 2015. 348 p.
 
+Componente curricular: Tecnologia de Produtos de Origem Animal
 
-41 
+Carga horária: 40 horas
 
-**==> picture [454 x 54] intentionally omitted <==**
+Ementa:
 
-PICÓ, Yolanda. Análise química de alimentos: técnicas. 1.ed. Rio de Janeiro: Elsevier : Campus, 2015. 348 p. 
+Composição química da carne. Processamento de embutidos e produtos curados, re-estruturados e enlatados. Composição do leite. Obtenção higiênica do leite e controle de qualidade na recepção. Operações de beneficiamento e processamento do leite. Processamento de queijos, manteiga, produtos fermentados, sorvetes, doce de leite e leite em pó. Tecnologia e processamento de produtos apícolas.
 
-Componente curricular: Tecnologia de Produtos de Origem Animal 
+Bibliografia básica: ORDÓÑEZ, J. A. Tecnologia de Alimentos: alimentos de origem animal. Porto Alegre: Artmed, 2005. Vol. 2.
 
-Carga horária: 40 horas 
+PARDI, M. C. et al. Ciência, Higiene e Tecnologia da Carne. 1. ed. Goiânia: UFG, 2006. Vol. 1. PARDI, M. C. et al. Ciência, Higiene e Tecnologia da Carne. 1. ed. Goiânia: UFG, 2001. Vol. 2. TRONCO, V. M. Manual para Inspeção e Qualidade do Leite. Santa Maria: Editora UFSM, 1997.
 
-Ementa: 
+RAMOS, E.M. & GOMIDE, L.A.M. Avaliação da qualidade de carnes; fundamentos e metodología. Viçosa, Ed. UFV, 2009. 599p.
 
-Composição química da carne. Processamento de embutidos e produtos curados, re-estruturados e enlatados. Composição do leite. Obtenção higiênica do leite e controle de qualidade na recepção. Operações de beneficiamento e processamento do leite. Processamento de queijos, manteiga, produtos fermentados, sorvetes, doce de leite e leite em pó. Tecnologia e processamento de produtos apícolas. 
+Bibliografia complementar:
 
-Bibliografia básica: ORDÓÑEZ, J. A. Tecnologia de Alimentos: alimentos de origem animal. Porto Alegre: Artmed, 2005. Vol. 2. 
+EVANGELISTA, J. Tecnologia de Alimentos. São Paulo: Atheneu, 2005.
 
-PARDI, M. C. et al. Ciência, Higiene e Tecnologia da Carne. 1. ed. Goiânia: UFG, 2006. Vol. 1. PARDI, M. C. et al. Ciência, Higiene e Tecnologia da Carne. 1. ed. Goiânia: UFG, 2001. Vol. 2. TRONCO, V. M. Manual para Inspeção e Qualidade do Leite. Santa Maria: Editora UFSM, 1997. 
+GAVA, A. J. Tecnologia de Alimentos: princípio e aplicações. São Paulo: Nobel S. A, 2010. OETTERER, M.; REGINATO-d’Arce, M. A. B., SPOTO, M. H. F. Fundamentos de Ciência e Tecnologia de Alimentos. Barueri: Manole, 2006.
 
-RAMOS, E.M. & GOMIDE, L.A.M. Avaliação da qualidade de carnes; fundamentos e metodología. Viçosa, Ed. UFV, 2009. 599p. 
+COULTATE, T. P. Alimentos: a química de seus componentes. 3. ed. Porto Alegre: Artmed, 2004.
 
-Bibliografia complementar: 
+FENNEMA, O. R. Química de los Alimentos. 2. ed. Zaragoza: Acribia, 2002.
 
-EVANGELISTA, J. Tecnologia de Alimentos. São Paulo: Atheneu, 2005. 
+Componente Curricular: Gestão da Qualidade e Segurança de Alimentos
 
-GAVA, A. J. Tecnologia de Alimentos: princípio e aplicações. São Paulo: Nobel S. A, 2010. OETTERER, M.; REGINATO-d’Arce, M. A. B., SPOTO, M. H. F. Fundamentos de Ciência e Tecnologia de Alimentos. Barueri: Manole, 2006. 
+Carga horária: 40 horas
 
-COULTATE, T. P. Alimentos: a química de seus componentes. 3. ed. Porto Alegre: Artmed, 2004. 
+Ementa: Conceitos básicos de higiene de alimentos e requisitos higiênicos nas indústrias de alimentos. Métodos de limpeza e sanitização na indústria de alimentos. Qualidade e segurança de alimentos. Boas Práticas de Fabricação. Análise de Perigos e Pontos Críticos de Controle.
 
-FENNEMA, O. R. Química de los Alimentos. 2. ed. Zaragoza: Acribia, 2002. 
+Bibliografia Básica:
 
-Componente Curricular: Gestão da Qualidade e Segurança de Alimentos 
+AZEREDO, D.R.P. **Inocuidade dos Alimentos.** Coleção Ciência, Tecnologia, Engenharia de Alimentos e Nutrição. Volume 1, Atheneu, 1ª Edição, 2016.
 
-Carga horária: 40 horas 
+GERMANO, P.M.L.; GERMANO, M. I. S. **Higiene e vigilância sanitária de alimentos.** 5ª ed. Editora Manole. 2015.
 
-Ementa: Conceitos básicos de higiene de alimentos e requisitos higiênicos nas indústrias de alimentos. Métodos de limpeza e sanitização na indústria de alimentos. Qualidade e segurança de alimentos. Boas Práticas de Fabricação. Análise de Perigos e Pontos Críticos de Controle. 
+GERMANO, P.M.L.; GERMANO, M. I. S. **Sistema de Gestão da Qualidade e Segurança de Alimentos.** Editora Manole, 2013.
 
-42 
+KUAYE, A. Y. **Limpeza e Sanitização na Indústria de Alimentos** . Coleção Ciência, Tecnologia, Engenharia de Alimentos e Nutrição. Volume 4, Atheneu, 1ª Edição, 2016. NETO, N.C.; LOPES, T.H.; MARCOS, E.N.F.; SCHEIDT, M.H. **Higiene e Manipulação de Alimentos** . Editora Livro Técnico, 2012.
 
-**==> picture [454 x 54] intentionally omitted <==**
+## Bibliografia Complementar:
 
-Bibliografia Básica: 
+CARELLE, A.C.; CÂNDIDO, C.C. **Manipulação e Higiene dos Alimentos** . 1ª ed. Editora Érica, 2014.
 
-AZEREDO, D.R.P. **Inocuidade dos Alimentos.** Coleção Ciência, Tecnologia, Engenharia de Alimentos e Nutrição. Volume 1, Atheneu, 1ª Edição, 2016. 
+GAVA, A.J. **Tecnologia de Alimentos: princípio e aplicações** . São Paulo: Nobel S. A, 2010. REY, A.M.; SILVESTRE, A.A. **Comer Sem Riscos: As Doenças Transmitidas Por Alimentos.** Vol. 2. Editora Varela, 2009. REY, A.M.; SILVESTRE, A.A. **Comer Sem Riscos: Manual de Higiene Alimentar Para Manipuladores e Consumidores.** Vol. 1. Editora Varela, 2009. SILVA Jr, E.A. **Manual de Controle Higiênico - Sanitário em Serviços de Alimentação** . 7ª Ed. Editora Varela, 2014.
 
-GERMANO, P.M.L.; GERMANO, M. I. S. **Higiene e vigilância sanitária de alimentos.** 5ª ed. Editora Manole. 2015. 
+Componente Curricular: Tecnologia de Alimentos de produto de Origem Vegetal
 
-GERMANO, P.M.L.; GERMANO, M. I. S. **Sistema de Gestão da Qualidade e Segurança de Alimentos.** Editora Manole, 2013. 
+Carga horária: 40 horas
 
-KUAYE, A. Y. **Limpeza e Sanitização na Indústria de Alimentos** . Coleção Ciência, Tecnologia, Engenharia de Alimentos e Nutrição. Volume 4, Atheneu, 1ª Edição, 2016. NETO, N.C.; LOPES, T.H.; MARCOS, E.N.F.; SCHEIDT, M.H. **Higiene e Manipulação de Alimentos** . Editora Livro Técnico, 2012. 
+Ementa: Tecnologia de frutas e hortaliças: composição química e propriedades. Apertização, Polpas e néctares, Geleias e doces em massa, Desidratados, glaceadas e saturadas com açúcares; Vegetais fermentados e acidificados, Minimamente processados. Tecnologia de amido e derivados. Noções de tecnologia de panificação.
 
-## Bibliografia Complementar: 
+Bibliografia Básica MARCON, M. J. A.; AVANCINI, S. R. P.; AMANTE, E. R. Propriedades Químicas e Tecnológicas do Amido de Mandioca e do Polvilho Azedo. Florianópolis, Editora da UFSC, 2007. 101 p. KOBLITZ, M. G. Matérias-primas alimentícias: composição e controle de qualidade. Rio de Janeiro: Guanabara Koogan, 2014. 301 p.
 
-CARELLE, A.C.; CÂNDIDO, C.C. **Manipulação e Higiene dos Alimentos** . 1ª ed. Editora Érica, 2014. 
+LIMA, U. A.; FERREIRA, A.; ARNALDI, D.; SONODA, D.; FANTINI, R. Agroindustrialização de frutas. 2ª Edição. Volume 5. Piracicaba: FEALQ, 2008. 164 p.
 
-GAVA, A.J. **Tecnologia de Alimentos: princípio e aplicações** . São Paulo: Nobel S. A, 2010. REY, A.M.; SILVESTRE, A.A. **Comer Sem Riscos: As Doenças Transmitidas Por Alimentos.** Vol. 2. Editora Varela, 2009. REY, A.M.; SILVESTRE, A.A. **Comer Sem Riscos: Manual de Higiene Alimentar Para Manipuladores e Consumidores.** Vol. 1. Editora Varela, 2009. SILVA Jr, E.A. **Manual de Controle Higiênico - Sanitário em Serviços de Alimentação** . 7ª Ed. Editora Varela, 2014. 
+AQUARONI, E.; BORZANI, W.; SCHMIDELL, W.; LIMA, U. A. Biotecnologia Industrial. Volume 4. São Paulo:Blucher, 2001. 523 p.
 
-Componente Curricular: Tecnologia de Alimentos de produto de Origem Vegetal 
+SILVA, C. A. B.; FERNANDES, A. R. Projetos de Empreendimentos Agroindustriais: Produtos de Origem Vegetal. Volume 2. Viçosa: Ed. UFV, 2005. 459 p.
 
-Carga horária: 40 horas 
+Bibliografia Complementar
 
-Ementa: Tecnologia de frutas e hortaliças: composição química e propriedades. Apertização, Polpas e néctares, Geleias e doces em massa, Desidratados, glaceadas e saturadas com açúcares; Vegetais fermentados e acidificados, Minimamente processados. Tecnologia de amido e derivados. Noções de tecnologia de panificação. 
+GAVA, A. J.; silva, c. a. b.; frias, j. r. g. Tecnologia de Alimentos: princípios e aplicações. São Paulo: Nobel, 2008.
 
-Bibliografia Básica MARCON, M. J. A.; AVANCINI, S. R. P.; AMANTE, E. R. Propriedades Químicas e Tecnológicas do Amido de Mandioca e do Polvilho Azedo. Florianópolis, Editora da UFSC, 2007. 101 p. KOBLITZ, M. G. Matérias-primas alimentícias: composição e controle de qualidade. Rio de Janeiro: Guanabara Koogan, 2014. 301 p. 
+MORETTO, E.; FETT, R. Processamento e Análise de Biscoito. São Paulo: Varella, 1999. FELLOWS, P. J. Tecnologia do Processamento de Alimentos: princípios e prática. 2ª edição. Porto Alegre: Artmed, 2006.
 
-LIMA, U. A.; FERREIRA, A.; ARNALDI, D.; SONODA, D.; FANTINI, R. Agroindustrialização de frutas. 2ª Edição. Volume 5. Piracicaba: FEALQ, 2008. 164 p. 
+LIMA, U. A. Matérias-Primas dos Alimentos. São Paulo: Blucher, 2010. OETTERER, M.; Regitano d’Arce, A. B.; Spoto, m. h. f. . Fundamentos da Ciência e Tecnologia de Alimentos. Barueri - São Paulo: Manole, 2006. CHITARRA, M. I. F.; CHITARRA, A. B. Pós-colheita de Frutos e Hortaliças: fisiologia e manuseio. Lavras: ESAL/FAEPE, 1990.
 
-43 
+## Componente curricular: Enzimas na Indústria de Alimentos
 
-**==> picture [454 x 54] intentionally omitted <==**
+Carga horária: 40 horas
 
-AQUARONI, E.; BORZANI, W.; SCHMIDELL, W.; LIMA, U. A. Biotecnologia Industrial. Volume 4. São Paulo:Blucher, 2001. 523 p. 
+Ementa: Histórico e importância das enzimas. Os conceitos de reações químicas, a ação de catalisadores enzimáticos e as vantagens e desvantagens de suas aplicações. Estruturas e ações catalíticas, especificidade, nomenclatura e classificação de enzimas. Noções de cinética, atividade enzimática e inibições alostéricas. As aplicações de processos enzimáticos nas indústrias de alimentos e perspectivas futuras.
 
-SILVA, C. A. B.; FERNANDES, A. R. Projetos de Empreendimentos Agroindustriais: Produtos de Origem Vegetal. Volume 2. Viçosa: Ed. UFV, 2005. 459 p. 
+Bibliografia básica:
 
-Bibliografia Complementar 
+AQUARONE, E. et al. (Coord.). **Biotecnologia industrial:** biotecnologia na produção de alimentos. 1. ed. São Paulo: Blucher, 2001. 523 p.
 
-GAVA, A. J.; silva, c. a. b.; frias, j. r. g. Tecnologia de Alimentos: princípios e aplicações. São Paulo: Nobel, 2008. 
+LIMA, U. A.; AQUARONE, E.; BORZANI, W.; SCHMIDELL, W.; (Coord.). **Biotecnologia industrial:** processos fermentativos e enzimáticos. 1. ed. São Paulo: Blucher. 2001. 593 p FOGLER, H. S. **Elementos de Engenharia das Reações Químicas** , 3ª edição, LTC Editora, Rio de Janeiro, 2002.
 
-MORETTO, E.; FETT, R. Processamento e Análise de Biscoito. São Paulo: Varella, 1999. FELLOWS, P. J. Tecnologia do Processamento de Alimentos: princípios e prática. 2ª edição. Porto Alegre: Artmed, 2006. 
+KOBLITZ, M. G. B. (Coord.). **Bioquímica de alimentos:** teoria e aplicações práticas. Rio de Janeiro, RJ: GEN, 2008.
 
-LIMA, U. A. Matérias-Primas dos Alimentos. São Paulo: Blucher, 2010. OETTERER, M.; Regitano d’Arce, A. B.; Spoto, m. h. f. . Fundamentos da Ciência e Tecnologia de Alimentos. Barueri - São Paulo: Manole, 2006. CHITARRA, M. I. F.; CHITARRA, A. B. Pós-colheita de Frutos e Hortaliças: fisiologia e manuseio. Lavras: ESAL/FAEPE, 1990. 
+MARANGONI, A. **Enzyme Kinetics:** a modern approach. New Jersey: Wiley & Sons, 2002.
 
-## Componente curricular: Enzimas na Indústria de Alimentos 
+Bibliografia complementar:
 
-Carga horária: 40 horas 
+BORZANI, W.; LIMA, U. A.; AQUARONE, E. (Coord.). **Biotecnologia:** engenharia bioquímica. São Paulo: Blucher, 1975. v. 3.
 
-Ementa: Histórico e importância das enzimas. Os conceitos de reações químicas, a ação de catalisadores enzimáticos e as vantagens e desvantagens de suas aplicações. Estruturas e ações catalíticas, especificidade, nomenclatura e classificação de enzimas. Noções de cinética, atividade enzimática e inibições alostéricas. As aplicações de processos enzimáticos nas indústrias de alimentos e perspectivas futuras. 
+LEHNINGER, A.L.; NELSON, D.L.; COX, M. M. **Bioquímica** . São Paulo: Sarvier, 000. LEVENSPIEL, O. **Chemical Reaction Engineering** , 3ª edição, John Wiley & Sons, New York, 1998.
 
-Bibliografia básica: 
+NELSON, D; COX, M. **Lehninger:** Princípios de Bioquímica, 5ª Edição, Savier, 2010. SCHMIDELL, W.; LIMA, U. L.; AQUARONE, E.; BORZANI, W. (Coord.). **Biotecnologia Industrial:** engenharia bioquímica. 1. ed. São Paulo: Blucher. 2001. 541 p
 
-AQUARONE, E. et al. (Coord.). **Biotecnologia industrial:** biotecnologia na produção de alimentos. 1. ed. São Paulo: Blucher, 2001. 523 p. 
+Componente curricular: Marketing e desenvolvimento de produtos
 
-LIMA, U. A.; AQUARONE, E.; BORZANI, W.; SCHMIDELL, W.; (Coord.). **Biotecnologia industrial:** processos fermentativos e enzimáticos. 1. ed. São Paulo: Blucher. 2001. 593 p FOGLER, H. S. **Elementos de Engenharia das Reações Químicas** , 3ª edição, LTC Editora, Rio de Janeiro, 2002. 
+Carga horária: 40 horas
 
-KOBLITZ, M. G. B. (Coord.). **Bioquímica de alimentos:** teoria e aplicações práticas. Rio de Janeiro, RJ: GEN, 2008. 
+## Ementa:
 
-MARANGONI, A. **Enzyme Kinetics:** a modern approach. New Jersey: Wiley & Sons, 2002. 
+Importância, definição e caracterização de novos produtos. Mercado de consumo e marketing. Interação consumidor-novos produtos. Pesquisa e etapas no desenvolvimento de novos produtos. Caracterização do Mercado. Processo de compra e adoção de novos produtos pelos consumidores. Ciclo de vida de produtos. Registro de novos produtos.
 
-Bibliografia complementar: 
+## Bibliografia básica:
 
-44 
+BAXTER, M. **Projeto de produtos: guia prático para o desenvolvimento de novos produtos** . 2.ed. São Paulo: Edgar Blücher, 2000.
 
-**==> picture [454 x 54] intentionally omitted <==**
+CHIAVENATO, I.; SAPIRO, A. **Planejamento estratégico: fundamentos e aplicações** . São Paulo: Campus, 2004.
 
-BORZANI, W.; LIMA, U. A.; AQUARONE, E. (Coord.). **Biotecnologia:** engenharia bioquímica. São Paulo: Blucher, 1975. v. 3. 
+CHENG, L.C.; MELO FILHO, L. R. QFD: **Desdobramento da função qualidade na gestão de desenvolvimento de produtos** . 2 ed. São Paulo, Ed. Blucher, 2010. 539p.
 
-LEHNINGER, A.L.; NELSON, D.L.; COX, M. M. **Bioquímica** . São Paulo: Sarvier, 000. LEVENSPIEL, O. **Chemical Reaction Engineering** , 3ª edição, John Wiley & Sons, New York, 1998. 
+CRAWFORD, M.; DI BENEDETTO, A. **Gestão de Novos Produtos** . 11.ed. Porto Alegre: AMGH, 2015. 608 p.
 
-NELSON, D; COX, M. **Lehninger:** Princípios de Bioquímica, 5ª Edição, Savier, 2010. SCHMIDELL, W.; LIMA, U. L.; AQUARONE, E.; BORZANI, W. (Coord.). **Biotecnologia Industrial:** engenharia bioquímica. 1. ed. São Paulo: Blucher. 2001. 541 p 
+TIDD, J.; BESSANT, J. **Gestão da Inovação.** 5.ed. São Paulo: Bookman. 2015. 648 p.
 
-Componente curricular: Marketing e desenvolvimento de produtos 
+## Bibliografia complementar:
 
-Carga horária: 40 horas 
+SERGIO, Takahashi; Passarini, Vânia. **Gestão da Inovação de Produtos** . Editora Campus. 2006.
 
-## Ementa: 
+GAVA, A.J. **Tecnologia de Alimentos: princípio e aplicações** . São Paulo: Nobel S. A, 2010. FELLOWS, J. P. **Tecnologia do processamento de alimentos: princípios e práticas** . 2.ed. Porto Alegre: Artmed, 2008.
 
-Importância, definição e caracterização de novos produtos. Mercado de consumo e marketing. Interação consumidor-novos produtos. Pesquisa e etapas no desenvolvimento de novos produtos. Caracterização do Mercado. Processo de compra e adoção de novos produtos pelos consumidores. Ciclo de vida de produtos. Registro de novos produtos. 
+OETTERER, M.; REGITANO D’ARC, M. A. B.; SPOTO, M. H. F. **Fundamentos de ciência e tecnologia de alimentos** . Barueri-SP: Manole, 2010.
 
-## Bibliografia básica: 
+KOTLER, P. **Administração de marketing: análise, planejamento, implementação e controle** . 10 ed. São Paulo: Prentice-Hall, 2000.
 
-BAXTER, M. **Projeto de produtos: guia prático para o desenvolvimento de novos produtos** . 2.ed. São Paulo: Edgar Blücher, 2000. 
+Componente curricular: Matérias-primas Alimentícias
 
-CHIAVENATO, I.; SAPIRO, A. **Planejamento estratégico: fundamentos e aplicações** . São Paulo: Campus, 2004. 
+Carga horária: 40 horas
 
-CHENG, L.C.; MELO FILHO, L. R. QFD: **Desdobramento da função qualidade na gestão de desenvolvimento de produtos** . 2 ed. São Paulo, Ed. Blucher, 2010. 539p. 
+Ementa: Qualidade da matéria-prima para o processamento agroindustrial, aspectos relevantes na produção e manejo, colheita, abate, transporte, armazenamento e conservação para a manutenção da qualidade. Matérias primas de origem vegetal: frutas e hortaliças (folhosas e tuberosas) aspectos relevantes para indústria de alimentos; grãos proteicos, oleaginosos e amiláceos. Novas fontes de matérias-primas, reconhecendo as potencialidades da biodiversidade local (alimentos tradicionais).
 
-CRAWFORD, M.; DI BENEDETTO, A. **Gestão de Novos Produtos** . 11.ed. Porto Alegre: AMGH, 2015. 608 p. 
+Matérias-primas de origem animal: leite, carne, e ovo, importância da genética e dos sistemas de produção (ambiente) na qualidade do produto final.
 
-TIDD, J.; BESSANT, J. **Gestão da Inovação.** 5.ed. São Paulo: Bookman. 2015. 648 p. 
+Bibliografia Básica:
 
-## Bibliografia complementar: 
+GOMES, F.P. de. **Fruticultura Brasileira.** São Paulo: Nobel, 2007. 446p.
 
-SERGIO, Takahashi; Passarini, Vânia. **Gestão da Inovação de Produtos** . Editora Campus. 2006. 
+GOMIDE, L.A.M.; RAMOS, E.M.; FONTES, P.R. **Tecnologia de abate e tipificação de carcaça.** Minas Gerais: viçosa. UFV, 2006, 336p.
 
-45 
+FRANCO, G. **Tabela de composição química dos alimentos** . São Paulo: Editora Atheneu, 2008. 308p. KOBLITZ, M.G.B. **Matérias-primas alimentícias:** composição e controle de qualidade. Rio de Janeiro: Guanabara Koogan, 2014. 301p.
 
-**==> picture [454 x 54] intentionally omitted <==**
+LIMA, U.A. **Matérias-primas dos alimentos.** São Paulo: Blucher, 2010. 402p.
 
-GAVA, A.J. **Tecnologia de Alimentos: princípio e aplicações** . São Paulo: Nobel S. A, 2010. FELLOWS, J. P. **Tecnologia do processamento de alimentos: princípios e práticas** . 2.ed. Porto Alegre: Artmed, 2008. 
+Bibliografia Complementar:
 
-OETTERER, M.; REGITANO D’ARC, M. A. B.; SPOTO, M. H. F. **Fundamentos de ciência e tecnologia de alimentos** . Barueri-SP: Manole, 2010. 
+EVANGELISTA, J. **Alimentos: um estudo abrangente, nutrição, utilização, alimentos especiais e irradiados, coadjuvantes, contaminação, interações.** São Paulo: Editora Atheneu, 2005. 450p.
 
-KOTLER, P. **Administração de marketing: análise, planejamento, implementação e controle** . 10 ed. São Paulo: Prentice-Hall, 2000. 
+KINUPP, V.C.; LORENZI, H. **Plantas alimentícias não convencionais (PANC) no Brasil:** guia de identificação, aspectos nutricionais e receitas ilustradas. São Paulo: Instituto Plantarum de Estudos da Flora, 2014. 768p.
 
-Componente curricular: Matérias-primas Alimentícias 
+MARCON, M.J.A. **Propriedades químicas e tecnológicas do amido de mandioca e do polvilho azedo.** Florianópolis: Editora UFSC, 2007. 101p.
 
-Carga horária: 40 horas 
+ORDÓÑEZ PEREDA, J.A. **Tecnologia de Alimentos - volume 2:** alimentos de origem animal. Porto Alegre: Artmed, 2005. 279p.
 
-Ementa: Qualidade da matéria-prima para o processamento agroindustrial, aspectos relevantes na produção e manejo, colheita, abate, transporte, armazenamento e conservação para a manutenção da qualidade. Matérias primas de origem vegetal: frutas e hortaliças (folhosas e tuberosas) aspectos relevantes para indústria de alimentos; grãos proteicos, oleaginosos e amiláceos. Novas fontes de matérias-primas, reconhecendo as potencialidades da biodiversidade local (alimentos tradicionais). 
+Componente curricular: Tecnologias Emergentes na Indústria de Alimentos
 
-Matérias-primas de origem animal: leite, carne, e ovo, importância da genética e dos sistemas de produção (ambiente) na qualidade do produto final. 
+Carga horária: 40 horas
 
-Bibliografia Básica: 
+Ementa:
 
-GOMES, F.P. de. **Fruticultura Brasileira.** São Paulo: Nobel, 2007. 446p. 
+Abordagens das tecnologias emergentes envolvendo processos de extração, quimiometria, alimentos funcionais, resíduos agroindústrias, fontes alternativas, análises sensoriais, microbiológicas e físico-químicas.
 
-GOMIDE, L.A.M.; RAMOS, E.M.; FONTES, P.R. **Tecnologia de abate e tipificação de carcaça.** Minas Gerais: viçosa. UFV, 2006, 336p. 
+Bibliografia básica:
 
-FRANCO, G. **Tabela de composição química dos alimentos** . São Paulo: Editora Atheneu, 2008. 308p. KOBLITZ, M.G.B. **Matérias-primas alimentícias:** composição e controle de qualidade. Rio de Janeiro: Guanabara Koogan, 2014. 301p. 
+AUGUSTO, P. D. Princípios da Tecnologia de Alimentos. São Paulo: Editora Atheneu, 2017, v.3, 424p.
 
-LIMA, U.A. **Matérias-primas dos alimentos.** São Paulo: Blucher, 2010. 402p. 
+PEREIRA, C. G; MEIRELES, M. A. A. Fundamentos da Engenharia de Alimentos. São Paulo: Editora Atheneu, 2020, v.6, 865p.
 
-Bibliografia Complementar: 
+FERREIRA, M. M. C, Quimiometria - Conceitos, Métodos e Aplicações. São Paulo: Editora da UNICAMP, 2015, 496p.
 
-EVANGELISTA, J. **Alimentos: um estudo abrangente, nutrição, utilização, alimentos especiais e irradiados, coadjuvantes, contaminação, interações.** São Paulo: Editora Atheneu, 2005. 450p. 
+HAUMONT, R. Um químico na cozinha. Rio de Janeiro: Editora Zahar, 2016, 168p SAIK, R. D. Food 5.0 - How we feed the future. Texas, Estados Unidos Editora Lioncrest Publishing, 2019, 248p
 
-46 
+## **Bibliografia complementar:**
 
-**==> picture [454 x 54] intentionally omitted <==**
+COSTA, S. R. R.; KUROZAWA, E.L. Tendências e Inovações em Ciência Tecnologia e Engenharia de Alimentos. São Paulo, SP: Editora Atheneu, 2014.
 
-KINUPP, V.C.; LORENZI, H. **Plantas alimentícias não convencionais (PANC) no Brasil:** guia de identificação, aspectos nutricionais e receitas ilustradas. São Paulo: Instituto Plantarum de Estudos da Flora, 2014. 768p. 
+VIEIRA, M M C., PASTRANALA, AGUILERA, J. Sustainable Innovation in Food Product Design, Editora  Springer; 2021, 259p.
 
-MARCON, M.J.A. **Propriedades químicas e tecnológicas do amido de mandioca e do polvilho azedo.** Florianópolis: Editora UFSC, 2007. 101p. 
+DAMIANI, C., BECKER, F. S. Inserção de co-produtos na produção de alimentos: Alternativa para redução do lixo orgânico. Paraná: Editora Appris, 2021, 161p.
 
-ORDÓÑEZ PEREDA, J.A. **Tecnologia de Alimentos - volume 2:** alimentos de origem animal. Porto Alegre: Artmed, 2005. 279p. 
+Componente curricular: Metodologia da Pesquisa
 
-Componente curricular: Tecnologias Emergentes na Indústria de Alimentos 
+Carga horária: 40 horas Ementa:
 
-Carga horária: 40 horas 
+O conhecimento científico. Conceito de pesquisa. Modalidades, metodologias e técnicas de pesquisa. Características da escrita acadêmica/científica. Ética na pesquisa. Elaboração de projeto de pesquisa científica.
 
-Ementa: 
+## Bibliografia básica:
 
-Abordagens das tecnologias emergentes envolvendo processos de extração, quimiometria, alimentos funcionais, resíduos agroindústrias, fontes alternativas, análises sensoriais, microbiológicas e físico-químicas. 
+GIL, Antonio Carlos. **Como elaborar projetos de pesquisa.** 5. ed. São Paulo: Atlas, 2010. 184 p.
 
-Bibliografia básica: 
+INSTITUTO FEDERAL DO PARANÁ. **Normas para apresentação de trabalhos acadêmicos do Instituto Federal do Paraná (IFPR).** Curitiba , 2010. 86 p.
 
-AUGUSTO, P. D. Princípios da Tecnologia de Alimentos. São Paulo: Editora Atheneu, 2017, v.3, 424p. 
+MARCONI, Marina de Andrade; LAKATOS, Eva Maria. **Metodologia científica.** 6. ed. São Paulo: Atlas, 2011. 314 p. ISBN 9788522466252 (broch.).
 
-PEREIRA, C. G; MEIRELES, M. A. A. Fundamentos da Engenharia de Alimentos. São Paulo: Editora Atheneu, 2020, v.6, 865p. 
+SEVERINO, Antônio Joaquim. **Metodologia do trabalho científico.** 23. ed. rev. e atual. São Paulo: Cortez, 2007. 304 p. ISBN 9788524913112 (broch.).
 
-FERREIRA, M. M. C, Quimiometria - Conceitos, Métodos e Aplicações. São Paulo: Editora da UNICAMP, 2015, 496p. 
+MACHADO, Anna Rachel; LOUSADA, Eliane; ABREU-TARDELLI, Lília Santos. **Planejar gêneros acadêmicos.** São Paulo: Parábola Editorial, 2005. 116 p. (Leitura e produção de textos técnicos e acadêmicos ; 3). ISBN 9788588456433 (broch.).
 
-HAUMONT, R. Um químico na cozinha. Rio de Janeiro: Editora Zahar, 2016, 168p SAIK, R. D. Food 5.0 - How we feed the future. Texas, Estados Unidos Editora Lioncrest Publishing, 2019, 248p 
+Bibliografia complementar:
 
-## **Bibliografia complementar:** 
+KÖCHE, José Carlos. **Fundamentos de metodologia científica:** teoria da ciência e iniciação à pesquisa. 29.ed. Rio de Janeiro: Vozes, 2011. 182 p. BOAVENTURA, Edivaldo M. **Metodologia da pesquisa:** monografia, dissertação, tese. São Paulo: Atlas, 2004. 160p.
 
-COSTA, S. R. R.; KUROZAWA, E.L. Tendências e Inovações em Ciência Tecnologia e Engenharia de Alimentos. São Paulo, SP: Editora Atheneu, 2014. 
+MOTTA-ROTH, Désirée; HENDGES, Graciela Rabuske. **Produção textual na universidade.** 1. ed. São Paulo: Parábola Editorial, 2010. 166 p.
 
-VIEIRA, M M C., PASTRANALA, AGUILERA, J. Sustainable Innovation in Food Product Design, Editora  Springer; 2021, 259p. 
+MACHADO, Anna Rachel; LOUSADA, Eliane; ABREU-TARDELLI, Lília Santos. **Trabalhos de pesquisa:** diários de leitura para a revisão bibliográfica. São Paulo, Parábola Editorial, 2007. 150 p. (Leitura e produção de textos técnicos e acadêmicos ; 4). ISBN 9788588456693 (broch.).
 
-DAMIANI, C., BECKER, F. S. Inserção de co-produtos na produção de alimentos: Alternativa para redução do lixo orgânico. Paraná: Editora Appris, 2021, 161p. 
+BRASIL. Conselho Nacional de Saúde. Resolução n° 466, de 12 de dezembro de 2012. Aprova normas regulamentadoras de pesquisas envolvendo seres humanos. Brasília: Diário Oficial da União, 2013.
 
-Componente curricular: Metodologia da Pesquisa 
+MEDEIROS, João Bosco. **Redação Científica** . 11. Ed. São Paulo: Atlas, 2012. CHALMERS, A. F. **O que é ciência afinal?** São Paulo: Brasiliense, 1976
 
-47 
+Componente curricular: Tópicos especiais de gestão da qualidade
 
-**==> picture [454 x 54] intentionally omitted <==**
+Carga horária: 40 horas
 
-Carga horária: 40 horas Ementa: 
+## Ementa:
 
-O conhecimento científico. Conceito de pesquisa. Modalidades, metodologias e técnicas de pesquisa. Características da escrita acadêmica/científica. Ética na pesquisa. Elaboração de projeto de pesquisa científica. 
+Conceitos de qualidade e gestão da qualidade. Ferramentas de gestão da qualidade. Garantia e certificações da qualidade.
 
-## Bibliografia básica: 
+Bibliografia básica:
 
-GIL, Antonio Carlos. **Como elaborar projetos de pesquisa.** 5. ed. São Paulo: Atlas, 2010. 184 p. 
+BERTOLINO, Marco Túlio. **Gerenciamento da qualidade na indústria alimentícia** _:_ ênfase na segurança dos alimentos. Porto Alegre: Artmed, 2010.
 
-INSTITUTO FEDERAL DO PARANÁ. **Normas para apresentação de trabalhos acadêmicos do Instituto Federal do Paraná (IFPR).** Curitiba , 2010. 86 p. 
+CARPINETTI, Luiz Cesar Ribeiro. **Gestão da qualidade** _:_ conceitos e técnicas. São Paulo: Atlas, 2012.
 
-MARCONI, Marina de Andrade; LAKATOS, Eva Maria. **Metodologia científica.** 6. ed. São Paulo: Atlas, 2011. 314 p. ISBN 9788522466252 (broch.). 
+LOBO, Renato Nogueirol. **Gestão da qualidade** . São Paulo: Érica, 2010.
 
-SEVERINO, Antônio Joaquim. **Metodologia do trabalho científico.** 23. ed. rev. e atual. São Paulo: Cortez, 2007. 304 p. ISBN 9788524913112 (broch.). 
+ROBLES JÚNIOR, Antônio; BONELLI, Valério Vitor. **Gestão da qualidade e do meio ambiente** : enfoque econômico, financeiro e patrimonial. São Paulo: Atlas, 2006. CARVALHO, Marly Monteiro; PALADINI, Edson P (coord). **Gestão da qualidade** : teoria e casos. 2.ed. Rio de Janeiro: Elsevier Campus, 2012.
 
-MACHADO, Anna Rachel; LOUSADA, Eliane; ABREU-TARDELLI, Lília Santos. **Planejar gêneros acadêmicos.** São Paulo: Parábola Editorial, 2005. 116 p. (Leitura e produção de textos técnicos e acadêmicos ; 3). ISBN 9788588456433 (broch.). 
+Bibliografia complementar:
 
-Bibliografia complementar: 
+ADAMS, James L. **Excelência no desenvolvimento de produtos** : com criar e desenvolver produtos que construam uma imagem de qualidade, elegância, emoção e prazer. São Paulo: M. Books do Brasil, 2013.
 
-KÖCHE, José Carlos. **Fundamentos de metodologia científica:** teoria da ciência e iniciação à pesquisa. 29.ed. Rio de Janeiro: Vozes, 2011. 182 p. BOAVENTURA, Edivaldo M. **Metodologia da pesquisa:** monografia, dissertação, tese. São Paulo: Atlas, 2004. 160p. 
+CORRÊA, Henrique L.; CORRÊA, Carlos A. **Administração de produção e operações** _:_ manufatura e serviços: uma abordagem estratégica. 3.ed. São Paulo: Atlas, 2012. CHIAVENATO, Idalberto. **Introdução à teoria geral da administração** _._ 8.ed. São Paulo: Elsevier, 2011.
 
-MOTTA-ROTH, Désirée; HENDGES, Graciela Rabuske. **Produção textual na universidade.** 1. ed. São Paulo: Parábola Editorial, 2010. 166 p. 
+FRANCHI, Claiton Moro. **Controle de processos industriais: princípios e aplicações** . São Paulo: Érica, 2011.
 
-MACHADO, Anna Rachel; LOUSADA, Eliane; ABREU-TARDELLI, Lília Santos. **Trabalhos de pesquisa:** diários de leitura para a revisão bibliográfica. São Paulo, Parábola Editorial, 2007. 150 p. (Leitura e produção de textos técnicos e acadêmicos ; 4). ISBN 9788588456693 (broch.). 
+KOBLITZ, Maria Gabriela Bello. **Matérias-primas alimentícias** _:_ composição e controle de qualidade. Rio de Janeiro: Guanabara Koogan, 2011. LOBO, Renato Nogueirol. **Gestão da produção** _._ São Paulo: Érica, 2010.
 
-BRASIL. Conselho Nacional de Saúde. Resolução n° 466, de 12 de dezembro de 2012. Aprova normas regulamentadoras de pesquisas envolvendo seres humanos. Brasília: Diário Oficial da União, 2013. 
+SLACK, Nigel; CHAMBERS, Stuart; JOHNSTON, Robert. **Administração da produção** . 3.ed. São Paulo: Atlas, 2009.
 
-MEDEIROS, João Bosco. **Redação Científica** . 11. Ed. São Paulo: Atlas, 2012. CHALMERS, A. F. **O que é ciência afinal?** São Paulo: Brasiliense, 1976 
+Componente curricular: Trabalho de Conclusão de Curso (TCC)
 
-48 
+Carga horária: 20 horas
 
-**==> picture [454 x 54] intentionally omitted <==**
+Ementa:
 
-Componente curricular: Tópicos especiais de gestão da qualidade 
+Elaboração do trabalho final de conclusão de curso: discussão dos resultados, os aspectos gráficos da monografia (as normas da ABNT) e a elaboração das referências bibliográficas apresentação e defesa do trabalho final.
 
-Carga horária: 40 horas 
+Bibliografia básica:
 
-## Ementa: 
+BARROS, Aidil de Jesus Paes de; LEHFELD, Neide Aparecida de Souza. Fundamentos de metodologia científica. 3.ed. São Paulo: Makron Books, 2007.
 
-Conceitos de qualidade e gestão da qualidade. Ferramentas de gestão da qualidade. Garantia e certificações da qualidade. 
+GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 5. ed. São Paulo: Atlas, 2010. MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Metodologia do trabalho científico: procedimentos básicos, pesquisa bibliográfica, projeto e relatório, publicações e trabalhos científicos. 7. ed. São Paulo: Atlas, 2007.
 
-Bibliografia básica: 
+Bibliografia complementar:
 
-BERTOLINO, Marco Túlio. **Gerenciamento da qualidade na indústria alimentícia** _:_ ênfase na segurança dos alimentos. Porto Alegre: Artmed, 2010. 
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. Informação e documentação –Referências – Elaboração: NBR-6023. São Paulo, 2002. GIL, Antonio Carlos. Metodologia do ensino superior. 4. ed. São Paulo: Atlas, 2005. MANZANO, André Luiz N. G.; MANZANO, Maria Izabel N. G. Trabalho de conclusão de curso utilizando o Microsoft Office Word 2007. 2.ed. São Paulo: Érica, 2011. MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Metodologia científica. 6. ed. São Paulo: Atlas, 2011. OTANI, Nilo; FIALHO, Francisco Antonio Pereira. TCC: métodos e técnicas. 2. ed. Florianópolis: Visual Books, 2011.
 
-CARPINETTI, Luiz Cesar Ribeiro. **Gestão da qualidade** _:_ conceitos e técnicas. São Paulo: Atlas, 2012. 
+________________. Informação e documentação – apresentação de citação em documentos: NBR-10520. São Paulo, 2002. ________________. Informação e documentação – Trabalhos acadêmicos -Apresentação: NBR-14724. São Paulo, 2005. ________________. Informação e documentação – Artigo em publicação periódica científica impressa - Apresentação: NBR-6022. São Paulo, 2003.
 
-LOBO, Renato Nogueirol. **Gestão da qualidade** . São Paulo: Érica, 2010. 
+Componente curricular: Seminários de pesquisa
 
-ROBLES JÚNIOR, Antônio; BONELLI, Valério Vitor. **Gestão da qualidade e do meio ambiente** : enfoque econômico, financeiro e patrimonial. São Paulo: Atlas, 2006. CARVALHO, Marly Monteiro; PALADINI, Edson P (coord). **Gestão da qualidade** : teoria e casos. 2.ed. Rio de Janeiro: Elsevier Campus, 2012. 
+Carga horária: 20 horas
 
-Bibliografia complementar: 
+Ementa:
 
-ADAMS, James L. **Excelência no desenvolvimento de produtos** : com criar e desenvolver produtos que construam uma imagem de qualidade, elegância, emoção e prazer. São Paulo: M. Books do Brasil, 2013. 
+Apresentação de palestras de discentes do curso e dos projetos em andamento. Discussão e debates de artigos científicos.
 
-CORRÊA, Henrique L.; CORRÊA, Carlos A. **Administração de produção e operações** _:_ manufatura e serviços: uma abordagem estratégica. 3.ed. São Paulo: Atlas, 2012. CHIAVENATO, Idalberto. **Introdução à teoria geral da administração** _._ 8.ed. São Paulo: Elsevier, 2011. 
+Bibliografia básica:
 
-FRANCHI, Claiton Moro. **Controle de processos industriais: princípios e aplicações** . São Paulo: Érica, 2011. 
+BARROS, Aidil de Jesus Paes de; LEHFELD, Neide Aparecida de Souza. Fundamentos de metodologia científica. 3.ed. São Paulo: Makron Books, 2007.
 
-KOBLITZ, Maria Gabriela Bello. **Matérias-primas alimentícias** _:_ composição e controle de qualidade. Rio de Janeiro: Guanabara Koogan, 2011. LOBO, Renato Nogueirol. **Gestão da produção** _._ São Paulo: Érica, 2010. 
+CARPINETTI, Luiz Cesar Ribeiro. _Gestão da qualidade:_ conceitos e técnicas. São Paulo: Atlas, 2012.
 
-SLACK, Nigel; CHAMBERS, Stuart; JOHNSTON, Robert. **Administração da produção** . 3.ed. São Paulo: Atlas, 2009. 
+GAVA, A.J. Tecnologia de Alimentos: princípio e aplicações. São Paulo: Nobel S. A, 2010. GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 5. ed. São Paulo: Atlas, 2010. MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Metodologia do trabalho científico: procedimentos básicos, pesquisa bibliográfica, projeto e relatório, publicações e trabalhos científicos. 7. ed. São Paulo: Atlas, 2007.
 
-Componente curricular: Trabalho de Conclusão de Curso (TCC) 
+Bibliografia complementar:
 
-Carga horária: 20 horas 
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. Informação e documentação –Referências – Elaboração: NBR-6023. São Paulo, 2002. GIL, Antonio Carlos. Metodologia do ensino superior. 4. ed. São Paulo: Atlas, 2005. MANZANO, André Luiz N. G.; MANZANO, Maria Izabel N. G. Trabalho de conclusão de curso utilizando o Microsoft Office Word 2007. 2.ed. São Paulo: Érica, 2011. MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Metodologia científica. 6. ed. São Paulo: Atlas, 2011.
 
-Ementa: 
+Artigos em periódicos da área de ciência e tecnologia de alimentos
 
-49 
+## **13. EXPEDIÇÃO DE DIPLOMAS E CERTIFICADOS**
 
-**==> picture [454 x 54] intentionally omitted <==**
+Conforme Resolução CONSUP/IFPR nº 18/2017, o IFPR expedirá o certificado de conclusão do Curso de Pós-Graduação Especialização em Gestão da Qualidade e Tecnologia de Alimentos para todos os alunos que forem aprovados em todos os componentes curriculares, obtendo conceito A, B ou C em cada uma delas, conforme Resolução 50/2017 e forem aprovados com conceito A, B ou C no trabalho de conclusão de curso.
 
-Elaboração do trabalho final de conclusão de curso: discussão dos resultados, os aspectos gráficos da monografia (as normas da ABNT) e a elaboração das referências bibliográficas apresentação e defesa do trabalho final. 
+## **14. PERFIL DO EGRESSO**
 
-Bibliografia básica: 
+O especialista em Gestão da Qualidade e Tecnologia de alimentos estará habilitado a desenvolver, aperfeiçoar, otimizar técnicas e produtos e inovar, utilizando conhecimentos técnico-científicos e pesquisas aplicadas, nas soluções de problemas na ações empreendedoras nos vários setores da cadeia alimentícia, podendo atuar na iniciativa privada ou em órgãos públicos. O egresso do curso terá também habilidades para analisar, planejar, gerenciar e implementar a qualidade de produtos alimentícios nos setores produtivos e com maior valor agregado, satisfazendo os consumidores, a legislação vigente e os órgãos de vigilância sanitária.
 
-BARROS, Aidil de Jesus Paes de; LEHFELD, Neide Aparecida de Souza. Fundamentos de metodologia científica. 3.ed. São Paulo: Makron Books, 2007. 
+## **15. TRABALHO DE CONCLUSÃO DE CURSO**
 
-GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 5. ed. São Paulo: Atlas, 2010. MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Metodologia do trabalho científico: procedimentos básicos, pesquisa bibliográfica, projeto e relatório, publicações e trabalhos científicos. 7. ed. São Paulo: Atlas, 2007. 
+O Trabalho de Conclusão de Curso é atividade obrigatória e busca relacionar a parte científica e pedagógica do curso. Pode pertencer a diferentes gêneros textuais, como revisão sistemática e aprofundada da literatura, artigo, patente, registros de propriedade intelectual ou publicações tecnológicas. O TCC será apresentado a uma banca examinadora, composta por 3 membros, sendo um deles o orientador do estudante. A apresentação do trabalho será de no máximo 15 minutos e 05 minutos de arguição para cada componente da banca examinadora, totalizando um tempo máximo de 30 minutos para a defesa do trabalho. O conceito final e a aprovação do estudante estarão sujeitos à avaliação do trabalho escrito, apresentação e arguição. O regulamento para o TCC está apresentado no Anexo I.
 
-Bibliografia complementar: 
+## **16. EXPERIÊNCIA DO COORDENADOR(A)**
 
-ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. Informação e documentação –Referências – Elaboração: NBR-6023. São Paulo, 2002. GIL, Antonio Carlos. Metodologia do ensino superior. 4. ed. São Paulo: Atlas, 2005. MANZANO, André Luiz N. G.; MANZANO, Maria Izabel N. G. Trabalho de conclusão de curso utilizando o Microsoft Office Word 2007. 2.ed. São Paulo: Érica, 2011. MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Metodologia científica. 6. ed. São Paulo: Atlas, 2011. OTANI, Nilo; FIALHO, Francisco Antonio Pereira. TCC: métodos e técnicas. 2. ed. Florianópolis: Visual Books, 2011. 
+Professor do Instituto Federal do Paraná (IFPR) - Campus Paranavaí. Professor Colaborador do Programa de Pós-Graduação em Agronomia na Universidade Estadual de Maringá. É Mestre (UEM, 2008) e Doutor (UEM, 2012) em Engenharia Química. Possui graduação em Engenharia de Alimentos (UEM, 2005). Especialista em Gestão Ambiental de Municípios pela UTFPR. Especialista em Educação: Métodos e Técnicas de Ensino pela UTFPR. Especialista em Logística Empresarial pelo ESAP - PR. Pesquisas na área de desenvolvimento e melhoria de processos e produtos em agroindústrias. Pesquisas em processos de extração utilizando tecnologia verde com foco em fluidos supercríticos e pressurizados
 
-________________. Informação e documentação – apresentação de citação em documentos: NBR-10520. São Paulo, 2002. ________________. Informação e documentação – Trabalhos acadêmicos -Apresentação: NBR-14724. São Paulo, 2005. ________________. Informação e documentação – Artigo em publicação periódica científica impressa - Apresentação: NBR-6022. São Paulo, 2003. 
+Link do Currículo Lattes: http://lattes.cnpq.br/1313859445675827
 
-Componente curricular: Seminários de pesquisa 
+## **17. EXPERIÊNCIA DO VICE-COORDENADOR(A)**
 
-Carga horária: 20 horas 
+Professora do Instituto Federal do Paraná (IFPR) - Campus Paranavaí. Professora e Orientadora no Programa de Pós-graduação em Engenharia de Alimentos da Universidade Estadual de Maringá (PEG) - Nível Mestrado e no Programa de Pós Graduação em Ciência de Alimentos da UEL. Líder do Grupo de Pesquisa "Desenvolvimento de Novos Produtos e Novas Tecnologias". Bolsista Produtividade em Pesquisa do CNPq desde 2020. É Mestre (UEL, 2009) e Doutora (UEL, 2014) em Ciência de Alimentos. Possui graduação em Engenharia de Alimentos (UEM, 2006), especialização em Processamento e Controle de Qualidade de Carne, Leite e Ovos (UFLA, 2008) e em Tecnologia de Frutas e Hortaliças (UFPEL, 2011). Atua principalmente nos seguintes temas: produtos lácteos, sucos de frutas, alimentos funcionais (probióticos, prebióticos, inulina e oligofrutoses), análise sensorial descritiva e afetiva, métodos de estatística multivariada e desenvolvimento de novos produtos.
 
-Ementa: 
+Link do Currículo Lattes: http://lattes.cnpq.br/0563661629304425
 
-Apresentação de palestras de discentes do curso e dos projetos em andamento. Discussão e debates de artigos científicos. 
+## **18. PLANEJAMENTO ECONÔMICO FINANCEIRO**
 
-Bibliografia básica: 
+O Campus Paranavaí possui todos os recursos necessários à oferta do curso, previstos em seu orçamento anual. A carga horária de aulas dos professores do curso estará descrita individualmente no Plano de Trabalho Docente.
 
-50 
+Observando o artigo 1º da IIP nº 03/2014 – PROENS/IFPR, o acervo bibliográfico referente às ementas descritas no Projeto Político Pedagógico do Curso foi definido pelo colegiado do curso. Grande parte desse acervo já está disponível nas bibliotecas dos campi do IFPR e em periódicos acadêmicos _online_ .
 
-**==> picture [454 x 54] intentionally omitted <==**
+O Campus Paranavaí possui também um estúdio para atividades EaD.
 
-BARROS, Aidil de Jesus Paes de; LEHFELD, Neide Aparecida de Souza. Fundamentos de metodologia científica. 3.ed. São Paulo: Makron Books, 2007. 
+## **19.  INSTALAÇÕES FÍSICAS**
 
-CARPINETTI, Luiz Cesar Ribeiro. _Gestão da qualidade:_ conceitos e técnicas. São Paulo: Atlas, 2012. 
+O Campus Paranavaí possui locais de acessibilidade para pessoas com necessidades especiais. Atualmente conta com um bloco onde são realizadas as atividades de ensino e administrativas, além de laboratórios para atender ao referido curso. Estão sendo construídos novos blocos didáticos e laboratórios que serão utilizados pelo curso, além de locais específicos para professores, coordenação, biblioteca, conforme citados na sequência do texto.
 
-GAVA, A.J. Tecnologia de Alimentos: princípio e aplicações. São Paulo: Nobel S. A, 2010. GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 5. ed. São Paulo: Atlas, 2010. MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Metodologia do trabalho científico: procedimentos básicos, pesquisa bibliográfica, projeto e relatório, publicações e trabalhos científicos. 7. ed. São Paulo: Atlas, 2007. 
-
-Bibliografia complementar: 
-
-ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. Informação e documentação –Referências – Elaboração: NBR-6023. São Paulo, 2002. GIL, Antonio Carlos. Metodologia do ensino superior. 4. ed. São Paulo: Atlas, 2005. MANZANO, André Luiz N. G.; MANZANO, Maria Izabel N. G. Trabalho de conclusão de curso utilizando o Microsoft Office Word 2007. 2.ed. São Paulo: Érica, 2011. MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Metodologia científica. 6. ed. São Paulo: Atlas, 2011. 
-
-Artigos em periódicos da área de ciência e tecnologia de alimentos 
-
-## **13. EXPEDIÇÃO DE DIPLOMAS E CERTIFICADOS** 
-
-Conforme Resolução CONSUP/IFPR nº 18/2017, o IFPR expedirá o certificado de conclusão do Curso de Pós-Graduação Especialização em Gestão da Qualidade e Tecnologia de Alimentos para todos os alunos que forem aprovados em todos os componentes curriculares, obtendo conceito A, B ou C em cada uma delas, conforme Resolução 50/2017 e forem aprovados com conceito A, B ou C no trabalho de conclusão de curso. 
-
-51 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
-## **14. PERFIL DO EGRESSO** 
-
-O especialista em Gestão da Qualidade e Tecnologia de alimentos estará habilitado a desenvolver, aperfeiçoar, otimizar técnicas e produtos e inovar, utilizando conhecimentos técnico-científicos e pesquisas aplicadas, nas soluções de problemas na ações empreendedoras nos vários setores da cadeia alimentícia, podendo atuar na iniciativa privada ou em órgãos públicos. O egresso do curso terá também habilidades para analisar, planejar, gerenciar e implementar a qualidade de produtos alimentícios nos setores produtivos e com maior valor agregado, satisfazendo os consumidores, a legislação vigente e os órgãos de vigilância sanitária. 
-
-## **15. TRABALHO DE CONCLUSÃO DE CURSO** 
-
-O Trabalho de Conclusão de Curso é atividade obrigatória e busca relacionar a parte científica e pedagógica do curso. Pode pertencer a diferentes gêneros textuais, como revisão sistemática e aprofundada da literatura, artigo, patente, registros de propriedade intelectual ou publicações tecnológicas. O TCC será apresentado a uma banca examinadora, composta por 3 membros, sendo um deles o orientador do estudante. A apresentação do trabalho será de no máximo 15 minutos e 05 minutos de arguição para cada componente da banca examinadora, totalizando um tempo máximo de 30 minutos para a defesa do trabalho. O conceito final e a aprovação do estudante estarão sujeitos à avaliação do trabalho escrito, apresentação e arguição. O regulamento para o TCC está apresentado no Anexo I. 
-
-52 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
-## **16. EXPERIÊNCIA DO COORDENADOR(A)** 
-
-Professor do Instituto Federal do Paraná (IFPR) - Campus Paranavaí. Professor Colaborador do Programa de Pós-Graduação em Agronomia na Universidade Estadual de Maringá. É Mestre (UEM, 2008) e Doutor (UEM, 2012) em Engenharia Química. Possui graduação em Engenharia de Alimentos (UEM, 2005). Especialista em Gestão Ambiental de Municípios pela UTFPR. Especialista em Educação: Métodos e Técnicas de Ensino pela UTFPR. Especialista em Logística Empresarial pelo ESAP - PR. Pesquisas na área de desenvolvimento e melhoria de processos e produtos em agroindústrias. Pesquisas em processos de extração utilizando tecnologia verde com foco em fluidos supercríticos e pressurizados 
-
-Link do Currículo Lattes: http://lattes.cnpq.br/1313859445675827 
-
-## **17. EXPERIÊNCIA DO VICE-COORDENADOR(A)** 
-
-Professora do Instituto Federal do Paraná (IFPR) - Campus Paranavaí. Professora e Orientadora no Programa de Pós-graduação em Engenharia de Alimentos da Universidade Estadual de Maringá (PEG) - Nível Mestrado e no Programa de Pós Graduação em Ciência de Alimentos da UEL. Líder do Grupo de Pesquisa "Desenvolvimento de Novos Produtos e Novas Tecnologias". Bolsista Produtividade em Pesquisa do CNPq desde 2020. É Mestre (UEL, 2009) e Doutora (UEL, 2014) em Ciência de Alimentos. Possui graduação em Engenharia de Alimentos (UEM, 2006), especialização em Processamento e Controle de Qualidade de Carne, Leite e Ovos (UFLA, 2008) e em Tecnologia de Frutas e Hortaliças (UFPEL, 2011). Atua principalmente nos seguintes temas: produtos lácteos, sucos de frutas, alimentos funcionais (probióticos, prebióticos, inulina e oligofrutoses), análise sensorial descritiva e afetiva, métodos de estatística multivariada e desenvolvimento de novos produtos. 
-
-53 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
-Link do Currículo Lattes: http://lattes.cnpq.br/0563661629304425 
-
-## **18. PLANEJAMENTO ECONÔMICO FINANCEIRO** 
-
-O Campus Paranavaí possui todos os recursos necessários à oferta do curso, previstos em seu orçamento anual. A carga horária de aulas dos professores do curso estará descrita individualmente no Plano de Trabalho Docente. 
-
-Observando o artigo 1º da IIP nº 03/2014 – PROENS/IFPR, o acervo bibliográfico referente às ementas descritas no Projeto Político Pedagógico do Curso foi definido pelo colegiado do curso. Grande parte desse acervo já está disponível nas bibliotecas dos campi do IFPR e em periódicos acadêmicos _online_ . 
-
-O Campus Paranavaí possui também um estúdio para atividades EaD. 
-
-## **19.  INSTALAÇÕES FÍSICAS** 
-
-O Campus Paranavaí possui locais de acessibilidade para pessoas com necessidades especiais. Atualmente conta com um bloco onde são realizadas as atividades de ensino e administrativas, além de laboratórios para atender ao referido curso. Estão sendo construídos novos blocos didáticos e laboratórios que serão utilizados pelo curso, além de locais específicos para professores, coordenação, biblioteca, conforme citados na sequência do texto. 
-
-## 19.1 ÁREAS DE ENSINO ESPECÍFICAS 
+## 19.1 ÁREAS DE ENSINO ESPECÍFICAS
 
 |O ESPECÍFICAS||
 |---|---|
@@ -1215,21 +981,13 @@ O Campus Paranavaí possui locais de acessibilidade para pessoas com necessidade
 |Sala de Aulas|15 - (63 m2)|
 |Sala<br>de<br>Professores|4 - (63 m2)|
 
-
-
-54 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
 |Coordenadoria<br>de<br>Curso|0|
 |---|---|
 |Sala de Reuniões|0|
 
+## 19.2 ÁREAS DE ESTUDO RELACIONADAS COM AS NECESSIDADES DO CURSO
 
-
-## 19.2 ÁREAS DE ESTUDO RELACIONADAS COM AS NECESSIDADES DO CURSO 
-
-## ACRESCENTAR OUTROS LABORATORIOS 
+## ACRESCENTAR OUTROS LABORATORIOS
 
 |**Ambiente**|**Existente**|
 |---|---|
@@ -1243,227 +1001,199 @@ O Campus Paranavaí possui locais de acessibilidade para pessoas com necessidade
 |Laboratório<br>de<br>Processos<br>de<br>Alimentos I|(76 m²)|
 |Laboratório de Pesquisa - Química||
 
-
-
-55 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
 |Laboratório de Análise sensorial|1 - (30 m²)|
 |---|---|
 |Laboratório de Biologia/Biotecnologia|1 – (76 m²)|
 
+Laboratórios de Informática: equipado com 20 computadores cada com a seguinte configuração: Athlon II x2 B22, 2.09 Ghz, Memória Ram de 2 Ghz e HD de 232 Gb
 
+Laboratórios: seguem listados a seguir os laboratórios disponíveis:
 
-Laboratórios de Informática: equipado com 20 computadores cada com a seguinte configuração: Athlon II x2 B22, 2.09 Ghz, Memória Ram de 2 Ghz e HD de 232 Gb 
+## 1) Química Geral/Inorgânica/Química e Análise de Alimentos (100m[2] )
 
-Laboratórios: seguem listados a seguir os laboratórios disponíveis: 
+Esse Laboratório possui 6 bancadas de estudos centrais (com pias nas extremidades e central de gás) além de bancadas laterais distribuídas pelo local onde ficam dispostos os equipamentos (com pias, central de gás e tomadas 220 e 110 volts). Possui quadro branco para as aulas, 30 banquetas, espaço de trabalho do técnico de laboratório, chuveiro e lava-olhos para segurança acidentes de laboratório.
 
-## 1) Química Geral/Inorgânica/Química e Análise de Alimentos (100m[2] ) 
+## 2) Química Analítica/Físico-Química (75m[2] )
 
-Esse Laboratório possui 6 bancadas de estudos centrais (com pias nas extremidades e central de gás) além de bancadas laterais distribuídas pelo local onde ficam dispostos os equipamentos (com pias, central de gás e tomadas 220 e 110 volts). Possui quadro branco para as aulas, 30 banquetas, espaço de trabalho do técnico de laboratório, chuveiro e lava-olhos para segurança acidentes de laboratório. 
+Esse Laboratório possui 3 bancadas de estudos centrais (com pias nas extremidades e central de gás) além de bancadas laterais distribuídas pelo local onde ficam dispostos os equipamentos (com pias, central de gás e tomadas 220 e 110 volts). Possui quadro branco para as aulas, 20 banquetas, espaço de trabalho do técnico de laboratório, chuveiro e lava-olhos para segurança e acidentes de laboratório.
 
-## 2) Química Analítica/Físico-Química (75m[2] ) 
+## 3) Laboratório de Bioquímica/Química Orgânica/Microbiologia (75 m²)
 
-Esse Laboratório possui 3 bancadas de estudos centrais (com pias nas extremidades e central de gás) além de bancadas laterais distribuídas pelo local onde ficam dispostos os equipamentos (com pias, central de gás e tomadas 220 e 110 volts). Possui quadro branco para as aulas, 20 banquetas, espaço de trabalho do técnico de laboratório, chuveiro e lava-olhos para segurança e acidentes de laboratório. 
+Esse Laboratório possui 4 bancadas de estudos centrais (com pias nas extremidades e central de gás) além de bancadas laterais distribuídas pelo local onde ficam dispostos os equipamentos (com pias, estação de trabalho com gás encanado e tomadas 220 e 110 volts). Possui quadro branco para as aulas, 20 banquetas, espaço de trabalho do
 
-## 3) Laboratório de Bioquímica/Química Orgânica/Microbiologia (75 m²) 
+técnico de laboratório, chuveiro e lava-olhos para segurança e acidentes de laboratório.
 
-Esse Laboratório possui 4 bancadas de estudos centrais (com pias nas extremidades e central de gás) além de bancadas laterais distribuídas pelo local onde ficam dispostos os equipamentos (com pias, estação de trabalho com gás encanado e tomadas 220 e 110 volts). Possui quadro branco para as aulas, 20 banquetas, espaço de trabalho do 
+## 4) Laboratório de Pesquisa (30 m²)
 
-56 
+Esse Laboratório possui uma bancada com pia, onde estão dispostos os equipamentos, 4 banquetas, armários e estação de trabalho com tomadas 220 e 110 volts).
 
-**==> picture [454 x 54] intentionally omitted <==**
+## 5) Laboratório de Biologia/Biotecnologia (76 m²)
 
-técnico de laboratório, chuveiro e lava-olhos para segurança e acidentes de laboratório. 
+Esse Laboratório possui 4 bancadas(mesas) e armários laterais distribuídos pelo local onde ficam dispostos os equipamentos (estação de trabalho com gás encanado e tomadas 220 e 110 volts). Possui quadro branco para as aulas, 20 banquetas, espaço de trabalho do técnico de laboratório, chuveiro e lava-olhos para segurança e acidentes de laboratório.
 
-## 4) Laboratório de Pesquisa (30 m²) 
+6) Laboratório de Análise Sensorial (30 m²): laboratório equipado com 7 cabines e cadeiras de avaliação e lâmpadas para análise sensorial
 
-Esse Laboratório possui uma bancada com pia, onde estão dispostos os equipamentos, 4 banquetas, armários e estação de trabalho com tomadas 220 e 110 volts). 
+7) Laboratório de Processos I (60 m²): Esse Laboratório possui 3 bancadas além de bancadas e armários laterais distribuídos pelo local onde ficam dispostos os equipamentos (estação de trabalho com gás encanado e tomadas 220 e 110 volts). Possui quadro branco para as aulas, 20 banquetas, espaço de trabalho do técnico de laboratório, chuveiro e lava-olhos para segurança e acidentes de laboratório.
 
-## 5) Laboratório de Biologia/Biotecnologia (76 m²) 
+8) Laboratório de Processos II (76 m²): Esse Laboratório possui 2 bancadas além de geladeiras e freezer distribuídos pelo local onde ficam dispostos os equipamentos (estação de trabalho com gás encanado e tomadas 220 e 110 volts). Possui quadro branco para as aulas, 20 banquetas, espaço de trabalho do técnico de laboratório, chuveiro e lava-olhos para segurança e acidentes de laboratório.
 
-Esse Laboratório possui 4 bancadas(mesas) e armários laterais distribuídos pelo local onde ficam dispostos os equipamentos (estação de trabalho com gás encanado e tomadas 220 e 110 volts). Possui quadro branco para as aulas, 20 banquetas, espaço de trabalho do técnico de laboratório, chuveiro e lava-olhos para segurança e acidentes de laboratório. 
+9) Laboratório de Agroindústria (80 m²): Esse Laboratório possui 2 bancadas de estudos centrais (com pias nas extremidades, central de gás e armários embutidos) além de bancadas laterais distribuídas pelo local onde ficam dispostos os equipamentos (com pias, estação de trabalho com gás encanado e tomadas 220 e 110 volts). Possui quadro branco para as aulas, 20 banquetas, espaço de trabalho do técnico de laboratório, chuveiro e lava-olhos para segurança e acidentes de laboratório.
 
-6) Laboratório de Análise Sensorial (30 m²): laboratório equipado com 7 cabines e cadeiras de avaliação e lâmpadas para análise sensorial 
+## 19.3 Infra-estrutura Geral
 
-7) Laboratório de Processos I (60 m²): Esse Laboratório possui 3 bancadas além de bancadas e armários laterais distribuídos pelo local onde ficam dispostos os equipamentos (estação de trabalho com gás encanado e tomadas 220 e 110 volts). Possui quadro branco para as aulas, 20 banquetas, espaço de trabalho do técnico de laboratório, chuveiro e lava-olhos para segurança e acidentes de laboratório. 
+Algumas vidrarias e equipamentos, mobiliários, contidos nesses laboratórios: 1 armários para vidraria, armário de metal para guardar pipetas, termômetros e auxiliares, Balcão com 3 portas em fórmica, 1 computador com impressora, 1 tabela periódica dos elementos, Escovas para lavagem de tubos, Pipetas Graduadas e Volumétricas, Erlenmeyers, Béqueres, Provetas, Buretas, Micropipetas Automáticas, Funis de Separação, Funis de Buchnner, Kitassatos, Cadinhos de Alumínio e Porcelana, Suportes Metálicos, Extintores conforme a legislação vigente, espátulas metálicas, de madeira e pinças de porcelanas, Furadores de rolha, pinças de alumínio para frascos, Funis, copos, bandejas, seringas, peras, pissetas, suporte metálico para tubos de ensaios, telas de amianto, suporte para telas de amianto, suporte universal para buretas, trompas de vácuo, Rolhas, bacia, mangueiras de látex, silicone e polietileno, papel de filtro, tesoura, Dessecadores materiais de limpeza, e vidrarias variadas para realização das aulas.
 
-8) Laboratório de Processos II (76 m²): Esse Laboratório possui 2 bancadas além de geladeiras e freezer distribuídos pelo local onde ficam dispostos os equipamentos (estação de trabalho com gás encanado e tomadas 220 e 110 volts). Possui quadro branco para as aulas, 20 banquetas, espaço de trabalho do técnico de laboratório, chuveiro e lava-olhos para segurança e acidentes de laboratório. 
+Os materiais relacionados a seguir serão distribuídos nos laboratórios de acordo com a afinidade de cada área de concentração.
 
-57 
+- Medidor de pH digital portátil de bolso modelo pH-1700;
 
-**==> picture [454 x 54] intentionally omitted <==**
+- Refratômetro portátil modelo RHBO – 90 (0 – 90%Brix);
 
-9) Laboratório de Agroindústria (80 m²): Esse Laboratório possui 2 bancadas de estudos centrais (com pias nas extremidades, central de gás e armários embutidos) além de bancadas laterais distribuídas pelo local onde ficam dispostos os equipamentos (com pias, estação de trabalho com gás encanado e tomadas 220 e 110 volts). Possui quadro branco para as aulas, 20 banquetas, espaço de trabalho do técnico de laboratório, chuveiro e lava-olhos para segurança e acidentes de laboratório. 
+- 5 Agitadores vórtex com velocidade de agitação até 3800RPM;
 
-## 19.3 Infra-estrutura Geral 
+- Cuba de ultrassom por cavitação com capacidade total de 2,5L;
 
-Algumas vidrarias e equipamentos, mobiliários, contidos nesses laboratórios: 1 armários para vidraria, armário de metal para guardar pipetas, termômetros e auxiliares, Balcão com 3 portas em fórmica, 1 computador com impressora, 1 tabela periódica dos elementos, Escovas para lavagem de tubos, Pipetas Graduadas e Volumétricas, Erlenmeyers, Béqueres, Provetas, Buretas, Micropipetas Automáticas, Funis de Separação, Funis de Buchnner, Kitassatos, Cadinhos de Alumínio e Porcelana, Suportes Metálicos, Extintores conforme a legislação vigente, espátulas metálicas, de madeira e pinças de porcelanas, Furadores de rolha, pinças de alumínio para frascos, Funis, copos, bandejas, seringas, peras, pissetas, suporte metálico para tubos de ensaios, telas de amianto, suporte para telas de amianto, suporte universal para buretas, trompas de vácuo, Rolhas, bacia, mangueiras de látex, silicone e polietileno, papel de filtro, tesoura, Dessecadores materiais de limpeza, e vidrarias variadas para realização das aulas. 
+Cuba de ultrassom com controle de temperatura por cavitação com capacidade total de 2,5L;
 
-Os materiais relacionados a seguir serão distribuídos nos laboratórios de acordo com a afinidade de cada área de concentração. 
+- 4 Medidores de pH de bancada com saída para conexão a computadores e
 
-- Medidor de pH digital portátil de bolso modelo pH-1700; 
+- sistema de compensação de temperatura automático e manual;
 
-- Refratômetro portátil modelo RHBO – 90 (0 – 90%Brix); 
+- Estufa incubadora microprocessada para D.B.O modelo Q315M25 com volume
 
-- 5 Agitadores vórtex com velocidade de agitação até 3800RPM; 
+- útil de 192L;
 
-- Cuba de ultrassom por cavitação com capacidade total de 2,5L; 
+- Incubadora D.B.O com fotoperíodo BT 72/HR com faixa de temperatura entre -10
 
-58 
+- a 60ºC e faixa de umidade entre 50 a 90%;
 
-**==> picture [454 x 54] intentionally omitted <==**
+- Banho-maria com circulação modelo MA-159 com faixa de temperatura entre 0
 
-Cuba de ultrassom com controle de temperatura por cavitação com capacidade total de 2,5L; 
+- ate 100ºC;
 
-- 4 Medidores de pH de bancada com saída para conexão a computadores e 
+- 2 Espectrofotômetros UV/Visível modelo SP 2000UV, leitura em absorbância,
 
-- sistema de compensação de temperatura automático e manual; 
+- transmitância e concentração;
 
-- Estufa incubadora microprocessada para D.B.O modelo Q315M25 com volume 
+- Fogão Bosch Style com 4 bocas na cor branco;
 
-- útil de 192L; 
+- Fogão industrial Dako Couraçado com 4 bocas na cor preto;
 
-- Incubadora D.B.O com fotoperíodo BT 72/HR com faixa de temperatura entre -10 
+- Refrigerador de alimentos Frilux com 4 portas na cor metálica;
 
-- a 60ºC e faixa de umidade entre 50 a 90%; 
+- Extrator de óleo modelo MA044/5/50;
 
-- Banho-maria com circulação modelo MA-159 com faixa de temperatura entre 0 
+- 4 Refrigeradores electrolux modelo DF36A com capacidade para 310L na cor
 
-- ate 100ºC; 
+## branco;
 
-- 2 Espectrofotômetros UV/Visível modelo SP 2000UV, leitura em absorbância, 
+- 6 Balanças analíticas com capacidade máxima de 250g;
 
-- transmitância e concentração; 
+   - 4 Balanças semi-analíticas;
 
-- Fogão Bosch Style com 4 bocas na cor branco; 
+- Analisador de umidade por infravermelho modelo IV-2000;
 
-- Fogão industrial Dako Couraçado com 4 bocas na cor preto; 
+- Analisador de umidade por infravermelho para grãos;
 
-- Refrigerador de alimentos Frilux com 4 portas na cor metálica; 
+- Agitador mecânico modelo RW20 com capacidade para agitação de até 20L;
 
-- Extrator de óleo modelo MA044/5/50; 
+- Centrífuga CT-5000 com rotação máxima de 5500rpm;
 
-- 4 Refrigeradores electrolux modelo DF36A com capacidade para 310L na cor 
+- Centrífuga Refrigerada com rotação máxima 15000 rpm;
 
-## branco; 
+- Espectrofotômetro, leitura em absorbância, transmitância e concentração;
 
-- 6 Balanças analíticas com capacidade máxima de 250g; 
+- Estufa com circulação de ar e renovação de ar modelo MA035;
 
-   - 4 Balanças semi-analíticas; 
+- Chapa aquecedora Modelo 208-D com temperatura até 300ºC;
 
-- Analisador de umidade por infravermelho modelo IV-2000; 
+- Bomba a vácuo;
 
-- Analisador de umidade por infravermelho para grãos; 
+- Balança semi-analítica Mark 10000 classe II, com capacidade mínima de 20g e
 
-- Agitador mecânico modelo RW20 com capacidade para agitação de até 20L; 
+- máxima de 10000g (2 unidade);
 
-- Centrífuga CT-5000 com rotação máxima de 5500rpm; 
+- Agitador magnético com aquecimento MA085;
 
-- Centrífuga Refrigerada com rotação máxima 15000 rpm; 
+- Destilador de Nitrogênio Tecnal modelo NE-036/1;
 
-- Espectrofotômetro, leitura em absorbância, transmitância e concentração; 
+- Digestor de fibras modelo MA-044/550;
 
-- Estufa com circulação de ar e renovação de ar modelo MA035; 
+- Forno mufla modelo LF0712 com faixa de temperatura entre 0 a 1200ºC,
 
-- Chapa aquecedora Modelo 208-D com temperatura até 300ºC; 
+- isolamento e câmara interna de cerâmica refrataria;
 
-59 
+- Extrator de óleo modelo MA044/8/50;
 
-**==> picture [454 x 54] intentionally omitted <==**
+- Medidor de pH de bancada sem eletrodo;
 
-- Bomba a vácuo; 
+- Neutralizador de gases scrubber modelo – TE – 152;
 
-- Balança semi-analítica Mark 10000 classe II, com capacidade mínima de 20g e 
+- Galeria para exaustão de gases modelo – TE – 040/25-GE para 40 tubos micro;
 
-- máxima de 10000g (2 unidade); 
+- Destilador de água tipo pilsen modelo – TE -273 com rendimento de 3L/h;
 
-- Agitador magnético com aquecimento MA085; 
+- Agitador vórtex modelo EEQ9053.
 
-- Destilador de Nitrogênio Tecnal modelo NE-036/1; 
+   - Refrigerador electrolux modelo DF36A com capacidade para 310L na cor branco;
 
-- Digestor de fibras modelo MA-044/550; 
+- Homogeneizador de amostras modelo MA – 440;
 
-- Forno mufla modelo LF0712 com faixa de temperatura entre 0 a 1200ºC, 
+- Estufa de esterilização e secagem modelo 400 D com temperatura máxima de
 
-- isolamento e câmara interna de cerâmica refrataria; 
+## 200ºC;
 
-- Extrator de óleo modelo MA044/8/50; 
+- Incubadora D.B.O com fotoperíodo BT 72/HR com faixa de temperatura entre -10
 
-- Medidor de pH de bancada sem eletrodo; 
+a 60ºC e faixa de umidade entre 50 a 90%;
 
-- Neutralizador de gases scrubber modelo – TE – 152; 
+- Osmose reversa modelo Q-842, rendimento de 10L/h;
 
-- Galeria para exaustão de gases modelo – TE – 040/25-GE para 40 tubos micro; 
+- Experimentoteca (matemática, química e biologia);
 
-- Destilador de água tipo pilsen modelo – TE -273 com rendimento de 3L/h; 
+- Microscópio binocular Nikon modelo Eclipse E100 (10 unidades);
 
-- Agitador vórtex modelo EEQ9053. 
+- Microscópio Trinocular.
 
-   - Refrigerador electrolux modelo DF36A com capacidade para 310L na cor branco; 
+- Freezer horizontal Gelopar modelo GHBA-510, capacidade para 510L;
 
-- Homogeneizador de amostras modelo MA – 440; 
+- Balança analítica digital Bioprecisa modelo FA2104N, com capacidade máxima
 
-- Estufa de esterilização e secagem modelo 400 D com temperatura máxima de 
+- de 210g;
 
-## 200ºC; 
+- Banho metabólico tipo Dubnoff com agitação reciprocante modelo MA093, com
 
-- Incubadora D.B.O com fotoperíodo BT 72/HR com faixa de temperatura entre -10 
+temperatura máxima de 99,9ºC;
 
-a 60ºC e faixa de umidade entre 50 a 90%; 
+- Autoclave vertical Logen modelo CS, com capacidade para 18L;
 
-- Osmose reversa modelo Q-842, rendimento de 10L/h; 
+- Estufa para cultura e bacteriologia modelo 410/2NDR, com sistema de
 
-- Experimentoteca (matemática, química e biologia); 
+- aquecimento, circulação e refrigeração;
 
-- Microscópio binocular Nikon modelo Eclipse E100 (10 unidades); 
+- Chapa aquecedora Modelo 208-D com temperatura até 300ºC;
 
-- Microscópio Trinocular. 
+- Microondas Brastemp em inox;
 
-- Freezer horizontal Gelopar modelo GHBA-510, capacidade para 510L; 
+   - 1 Cutter;
 
-- Balança analítica digital Bioprecisa modelo FA2104N, com capacidade máxima 
+   - 1 Processador de Carnes;
 
-- de 210g; 
+   - 1 Embutideira;
 
-- Banho metabólico tipo Dubnoff com agitação reciprocante modelo MA093, com 
+- Microscópio binocular Nikon modelo Eclipse E200;
 
-60 
+- Geladeira Electrolux Double modelo DC360, com capacidade total para 351L.
 
-**==> picture [454 x 54] intentionally omitted <==**
+   - Texturometro TATX – para medida de textura de alimentos, produtos alimentícios
 
-temperatura máxima de 99,9ºC; 
+- e embalagens;
 
-- Autoclave vertical Logen modelo CS, com capacidade para 18L; 
+Cromatógrafo Líquido de Alta Eficiência (HPLC);
 
-- Estufa para cultura e bacteriologia modelo 410/2NDR, com sistema de 
+- 5 Capelas de Exaustão de Gases.
 
-- aquecimento, circulação e refrigeração; 
-
-- Chapa aquecedora Modelo 208-D com temperatura até 300ºC; 
-
-- Microondas Brastemp em inox; 
-
-   - 1 Cutter; 
-
-   - 1 Processador de Carnes; 
-
-   - 1 Embutideira; 
-
-- Microscópio binocular Nikon modelo Eclipse E200; 
-
-- Geladeira Electrolux Double modelo DC360, com capacidade total para 351L. 
-
-   - Texturometro TATX – para medida de textura de alimentos, produtos alimentícios 
-
-- e embalagens; 
-
-Cromatógrafo Líquido de Alta Eficiência (HPLC); 
-
-- 5 Capelas de Exaustão de Gases. 
-
-Reagentes disponíveis no Câmpus Paranavaí para o desenvolvimento de atividades de Ensino, Pesquisa e Extensão: 
+Reagentes disponíveis no Câmpus Paranavaí para o desenvolvimento de atividades de Ensino, Pesquisa e Extensão:
 
 ||REAGENTE|ESTADO FÍSICO||
 |---|---|---|---|
@@ -1474,12 +1204,6 @@ Reagentes disponíveis no Câmpus Paranavaí para o desenvolvimento de atividade
 |5|ACETONA|Liquido|16|
 |6|ACIDO ACETICO GLACIAL|Liquido|11|
 |7|ACIDO ASCÓRBICO (VITAMINA C)|Sólido|2|
-
-
-
-61 
-
-**==> picture [454 x 54] intentionally omitted <==**
 
 |8|ACIDO BENZOICO|Sólido|3|
 |---|---|---|---|
@@ -1514,12 +1238,6 @@ Reagentes disponíveis no Câmpus Paranavaí para o desenvolvimento de atividade
 |47|AGAR DRBC|Sólido|2|
 |48|AGAR EMB|Sólido|1|
 
-
-
-62 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
 |49|AGAR EOSIN METHYLENE BLUE|Líquido|2|
 |---|---|---|---|
 |50|AGAR MONNITOL SALT|Sólido|2|
@@ -1552,12 +1270,6 @@ Reagentes disponíveis no Câmpus Paranavaí para o desenvolvimento de atividade
 |77|CROMATO DE POTASSIO|Sólido|1|
 |78|CERA DE ABELHA FARMACEUTICO|Sólido|1|
 |79|CALDO TRIPITONA DE SOJA|Sólido|3|
-
-
-
-63 
-
-**==> picture [454 x 54] intentionally omitted <==**
 
 |80|CALDO INFUSO CÉREBRO DE CORAÇÃO (BHI)|Sólido|1|
 |---|---|---|---|
@@ -1592,12 +1304,6 @@ Reagentes disponíveis no Câmpus Paranavaí para o desenvolvimento de atividade
 |109|CLORETO DE LÍTIO|Sólido|10|
 |110|DICROMATO DE POTASSIO|Sólido|1|
 
-
-
-64 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
 |111|DIETILAMINA|Liquido|1|
 |---|---|---|---|
 |112|DIMETILSULFÓXIDO|Liquido|3|
@@ -1630,12 +1336,6 @@ Reagentes disponíveis no Câmpus Paranavaí para o desenvolvimento de atividade
 |139|HIDROXIDO DE AMONIO|Liquido|2|
 |140|HIDROXIDO DE BARIO 8-HIDRATADO|Sólido|1|
 |141|HIDROXIDO DE MAGNESIO|Sólido|2|
-
-
-
-65 
-
-**==> picture [454 x 54] intentionally omitted <==**
 
 |142|HIDROXIDO DE POTASSIO|Sólido|1|
 |---|---|---|---|
@@ -1670,12 +1370,6 @@ Reagentes disponíveis no Câmpus Paranavaí para o desenvolvimento de atividade
 |171|OXIDO DE CROMIO III|Sólido|2|
 |172|ÓLEO MINERAL NP-35|Liquido|1|
 
-
-
-66 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
 |173|ÓXIDO DE CÁLCIO|Sólido|1|
 |---|---|---|---|
 |174|PARAFINA|Sólido|1|
@@ -1709,12 +1403,6 @@ Reagentes disponíveis no Câmpus Paranavaí para o desenvolvimento de atividade
 |202|TRIPITONA|Sólido|1|
 |203|UREIA P.A.|Sólido|1|
 
-
-
-67 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
 |204|VANILINA|Sólido|1|
 |---|---|---|---|
 |205|VASELINA|Liquido|1|
@@ -1722,37 +1410,31 @@ Reagentes disponíveis no Câmpus Paranavaí para o desenvolvimento de atividade
 |207|VERDE MALAQUITE|Sólido|1|
 |208|VERMELHO DE METILA|Sólido|1|
 
+## 19.4 BIBLIOTECA
 
+A Biblioteca do Instituto Federal do Paraná – IFPR - Câmpus Paranavaí tem por finalidade apoiar as atividades acadêmicas, nas funções de ministrar ensino, realizar pesquisas e desenvolver programas de extensão.
 
-## 19.4 BIBLIOTECA 
+Todo o acervo, concernentes aos cursos ministrados no Câmpus, está concentrado em um único espaço físico.
 
-A Biblioteca do Instituto Federal do Paraná – IFPR - Câmpus Paranavaí tem por finalidade apoiar as atividades acadêmicas, nas funções de ministrar ensino, realizar pesquisas e desenvolver programas de extensão. 
+## Área física disponível
 
-Todo o acervo, concernentes aos cursos ministrados no Câmpus, está concentrado em um único espaço físico. 
+A Biblioteca do IFPR - Campus Paranavaí tem por finalidade apoiar as atividades acadêmicas, nas funções de ministrar ensino, realizar pesquisas e desenvolver programas de extensão. Ela está alocada em área física de 486,9m² com capacidade de assento para 51 estudantes. Além disso, a biblioteca oferece aos estudantes 24 computadores de uso geral. Todo o acervo, concernentes aos cursos ministrados no campus, está concentrado em um único espaço físico
 
-## Área física disponível 
+## Política de aquisição, atualização e manutenção do acervo
 
-A Biblioteca do IFPR - Campus Paranavaí tem por finalidade apoiar as atividades acadêmicas, nas funções de ministrar ensino, realizar pesquisas e desenvolver programas de extensão. Ela está alocada em área física de 486,9m² com capacidade de assento para 51 estudantes. Além disso, a biblioteca oferece aos estudantes 24 computadores de uso geral. Todo o acervo, concernentes aos cursos ministrados no campus, está concentrado em um único espaço físico 
+A biblioteca tem como objetivo adquirir material de informação de maneira racional e sistemática, utilizando-se para isso dos processos de compra, doação e permuta. Todo o processo de aquisição é norteado por um documento denominado “política de desenvolvimento de coleções” ainda em processo de elaboração.
 
-## Política de aquisição, atualização e manutenção do acervo 
+Os materiais bibliográficos são adquiridos com a finalidade de suprir os programas de
 
-A biblioteca tem como objetivo adquirir material de informação de maneira racional e sistemática, utilizando-se para isso dos processos de compra, doação e permuta. Todo o processo de aquisição é norteado por um documento denominado “política de desenvolvimento de coleções” ainda em processo de elaboração. 
+ensino dos cursos técnicos, futura graduação e licenciaturas previstas em lei, bem como dar apoio aos programas de pesquisa, extensão e FICs.
 
-Os materiais bibliográficos são adquiridos com a finalidade de suprir os programas de 
+Está prevista a implantação de estudos e propostas para elaboração de métodos de conservação preventiva, bem como, a elaboração de uma política de preservação e conservação do material bibliográfico.
 
-68 
+## Acervo bibliográfico
 
-**==> picture [454 x 54] intentionally omitted <==**
+O Acervo da biblioteca é constituído de documentos referentes às áreas de ciências humanas, biológicas e da saúde, exatas e tecnológica, sociais e aplicadas e agrárias. O acesso às coleções é aberto aos usuários, possibilitando que eles próprios busquem a informação desejada. A descrição da coleção é feita com base no código de catalogação AACR-2, a classificação na tabela CDD e notação de autor na tabela Cutter.
 
-ensino dos cursos técnicos, futura graduação e licenciaturas previstas em lei, bem como dar apoio aos programas de pesquisa, extensão e FICs. 
-
-Está prevista a implantação de estudos e propostas para elaboração de métodos de conservação preventiva, bem como, a elaboração de uma política de preservação e conservação do material bibliográfico. 
-
-## Acervo bibliográfico 
-
-O Acervo da biblioteca é constituído de documentos referentes às áreas de ciências humanas, biológicas e da saúde, exatas e tecnológica, sociais e aplicadas e agrárias. O acesso às coleções é aberto aos usuários, possibilitando que eles próprios busquem a informação desejada. A descrição da coleção é feita com base no código de catalogação AACR-2, a classificação na tabela CDD e notação de autor na tabela Cutter. 
-
-## Representação numérica do acervo geral 
+## Representação numérica do acervo geral
 
 |Títulos|Exemplares|
 |---|---|
@@ -1762,21 +1444,13 @@ O Acervo da biblioteca é constituído de documentos referentes às áreas de ci
 |Bases de dados CAPES||
 |TOTAL                                3760|11.151|
 
-
-
-Acervo de livros, segundo as áreas de conhecimento da CAPES/CNPq 
+Acervo de livros, segundo as áreas de conhecimento da CAPES/CNPq
 
 |Áreas<br>Títulos|Exemplares|
 |---|---|
 |Ciências Exatas e da Terra               168|614|
 |Ciências Biológicas                            23|125|
 |Engenharias<br>93|1108|
-
-
-
-69 
-
-**==> picture [454 x 54] intentionally omitted <==**
 
 |Ciências da Saúde                              3|51|
 |---|---|
@@ -1785,9 +1459,7 @@ Acervo de livros, segundo as áreas de conhecimento da CAPES/CNPq
 |Ciências Humanas                             37|94|
 |Linguística, letras e Artes                  170|255|
 
-
-
-Acervo de livros por eixo tecnológico 
+Acervo de livros por eixo tecnológico
 
 |Eixo|Títulos|Exemplares|
 |---|---|---|
@@ -1796,359 +1468,309 @@ Acervo de livros por eixo tecnológico
 |Tecnologia em Informática|118|434|
 |Núcleo Comum|302|959|
 
+## Serviços prestados pela Biblioteca
 
+Como um dos instrumentos essenciais ao processo de ensino-aprendizagem a biblioteca oferece vários serviços aos seus usuários, docentes, discentes e técnicos administrativos, visando promover o acesso e o uso da informação.
 
-## Serviços prestados pela Biblioteca 
+A biblioteca disponibiliza dois computadores conectados à Internet, um roteador que permite o acesso a Internet para usuários que possuem Notebook, além dos serviços comuns como os empréstimos domiciliares e entre bibliotecas, educação de usuários, orientação de normalização de trabalhos acadêmicos.
 
-Como um dos instrumentos essenciais ao processo de ensino-aprendizagem a biblioteca oferece vários serviços aos seus usuários, docentes, discentes e técnicos administrativos, visando promover o acesso e o uso da informação. 
+## Automação
 
-A biblioteca disponibiliza dois computadores conectados à Internet, um roteador que permite o acesso a Internet para usuários que possuem Notebook, além dos serviços comuns como os empréstimos domiciliares e entre bibliotecas, educação de usuários, orientação de normalização de trabalhos acadêmicos. 
+Os serviços de catalogação e empréstimos encontram-se automatizados, sendo que o software brasileiro adquirido para o gerenciamento dos dados é o Pergamum. O
 
-## Automação 
+sistema permite fazer empréstimos, renovações, reservas dos materiais bibliográficos. A pesquisa pode ser realizada em uma ou em todas as bibliotecas do IFPR, saber a localização do item pesquisado.
 
-Os serviços de catalogação e empréstimos encontram-se automatizados, sendo que o software brasileiro adquirido para o gerenciamento dos dados é o Pergamum. O 
+O software permite ao usuário recuperar qualquer item da coleção, quer por autor, título, assunto ou termo livre, bem como, saber se o item encontra-se disponível ou emprestado. Toda essa diversidade de possibilidades permite que além do acervo local o usuário também pode dispor dos livros de todas as bibliotecas dos Câmpus, utilizando-se do empréstimo entre bibliotecas. O catálogo online pode ser acessado por meio da página http://paranavai.ifpr.edu.br/menu-institucional/biblioteca/.
 
-70 
+Na área da catalogação o sistema faz importação de dados de outras bibliotecas usuárias do sistema Pergamum e cria uma rede de catalogação cooperativa facilitando e agilizando o serviço de catalogação de cada unidade.
 
-**==> picture [454 x 54] intentionally omitted <==**
+## Sistema de Empréstimo
 
-sistema permite fazer empréstimos, renovações, reservas dos materiais bibliográficos. A pesquisa pode ser realizada em uma ou em todas as bibliotecas do IFPR, saber a localização do item pesquisado. 
+O sistema de empréstimo domiciliar está disponível aos usuários do Campus Paranavaí do IFPR cadastrados no Sistema da Biblioteca e portadores do Registro Acadêmico (carteira estudantil). O acervo da biblioteca do IF está aberto à comunidade externa para consultas.
 
-O software permite ao usuário recuperar qualquer item da coleção, quer por autor, título, assunto ou termo livre, bem como, saber se o item encontra-se disponível ou emprestado. Toda essa diversidade de possibilidades permite que além do acervo local o usuário também pode dispor dos livros de todas as bibliotecas dos Câmpus, utilizando-se do empréstimo entre bibliotecas. O catálogo online pode ser acessado por meio da página http://paranavai.ifpr.edu.br/menu-institucional/biblioteca/. 
+## Prazos e Quantidades
 
-Na área da catalogação o sistema faz importação de dados de outras bibliotecas usuárias do sistema Pergamum e cria uma rede de catalogação cooperativa facilitando e agilizando o serviço de catalogação de cada unidade. 
+## Livros
 
-## Sistema de Empréstimo 
+Alunos: até 3 exemplares por 14 dias consecutivos;
 
-O sistema de empréstimo domiciliar está disponível aos usuários do Campus Paranavaí do IFPR cadastrados no Sistema da Biblioteca e portadores do Registro Acadêmico (carteira estudantil). O acervo da biblioteca do IF está aberto à comunidade externa para consultas. 
+Servidores técnico-administrativos: até 3 exemplares por 14 dias consecutivos; Servidores Docentes: até 10 exemplares por 30 dias corridos e por disciplina; Servidores terceirizados: até 2 exemplares por 14 dias consecutivos.
 
-## Prazos e Quantidades 
+## Devoluções
 
-## Livros 
+Caso ocorra atraso na devolução de qualquer material, o usuário fica suspenso e não
 
-Alunos: até 3 exemplares por 14 dias consecutivos; 
+pode fazer novos empréstimos até o fim da suspensão, a qual é de dois dias uteis e somente para os serviços da biblioteca.
 
-Servidores técnico-administrativos: até 3 exemplares por 14 dias consecutivos; Servidores Docentes: até 10 exemplares por 30 dias corridos e por disciplina; Servidores terceirizados: até 2 exemplares por 14 dias consecutivos. 
+## Reservas
 
-## Devoluções 
+As reservas de materiais obedecem a ordem de solicitação, o próprio usuário é o responsável pela verificação da sequência.
 
-Caso ocorra atraso na devolução de qualquer material, o usuário fica suspenso e não 
+Podem ser reservados somente os livros que se encontram com todos os exemplares emprestados
 
-71 
+## Renovações
 
-**==> picture [454 x 54] intentionally omitted <==**
+A renovação deve ser feita pelo próprio usuário na biblioteca e/ou pela Internet. Os livros podem ser renovados até 2 vezes.
 
-pode fazer novos empréstimos até o fim da suspensão, a qual é de dois dias uteis e somente para os serviços da biblioteca. 
+## Serviços
 
-## Reservas 
+A Biblioteca do IFPR – Campus Paranavaí oferece aos seus usuários os seguintes serviços:
 
-As reservas de materiais obedecem a ordem de solicitação, o próprio usuário é o responsável pela verificação da sequência. 
+a) Processamento Técnico: registro de materiais do acervo (classificação, catalogação, indexação, etc.) elaboração de fichas catalográficas, quando necessário. b) Serviços de Referências: Orientação nas referências bibliográficas; auxílio no catálogo online; visitas orientadas; treinamento do usuário na utilização da base de dados Pergamum e ao portal da CAPES.
 
-Podem ser reservados somente os livros que se encontram com todos os exemplares emprestados 
+c) Serviços de circulação: empréstimo domiciliar, consulta local e devolução de materiais.
 
-## Renovações 
+## **19.5 INFRA-ESTRUTURA DE ESTÚDIO EaD**
 
-A renovação deve ser feita pelo próprio usuário na biblioteca e/ou pela Internet. Os livros podem ser renovados até 2 vezes. 
+- a) RACK PADRÃO 19" com altura de 42U e profundidade 1000mm COR PRETA COM ACABAMENTO METÁTLICOS;
 
-## Serviços 
+- b) Mobiliários de operação, módulos de fixação padrão Rack 19", Braços articuláveis para fixação dos monitores de áudio e vídeo, Calhas de passagem para acomodação dos cabos, Réguas de energia para alimentação dos equipamentos. Portas frontais e traseiras para acesso aos equipamentos e cabeamentos que serão instalados. Kits de fixação e Montagem, com porcas parafusos e arruelas;
 
-A Biblioteca do IFPR – Campus Paranavaí oferece aos seus usuários os seguintes serviços: 
+- c) MESA DE CORTE E EFEITOS 16 CANAIS COM 4 ENTRADAS HD/SD E SAIDA MULTIVIEW EXPANSÃO ATÉ 8 ENTRADAS - MODELO AV-HS410NM;
 
-a) Processamento Técnico: registro de materiais do acervo (classificação, catalogação, indexação, etc.) elaboração de fichas catalográficas, quando necessário. b) Serviços de Referências: Orientação nas referências bibliográficas; auxílio no catálogo online; visitas orientadas; treinamento do usuário na utilização da base de dados Pergamum e ao portal da CAPES. 
+- d) SERVIDOR COM PROCESSADOR DUPLO 2.66GHZ 6-CORE INTEL XEON "WESTMERE" (12 CORES) 24 GB (6X4GB) NONE1TB 7200-RPM SERIAL ATA 3GB/S HARD DRIVENONENONEATI RADEON HD 5770 1GBONE 18X SUPERDRIVE - MAC PRO MODELO A 1289 XEON64BIT WORKSTATION;
 
-c) Serviços de circulação: empréstimo domiciliar, consulta local e devolução de materiais. 
+e) UNIDADE DE MEMÓRIA EM DISCO RÍGIDO, COM CAPACIDADE DE 16 DISCOS, PRÓPRIAS PARA ARMAZENAMENTO DE SINAIS DE VÍDEO, CONTENDO CONEXÕES PARA INTERLIGAÇÃO A OUTRAS UNIDADES DE MEMÓRIA E A SERVIDORES DE VÍDEO (COM 48TB SENDO 16 DISCOS DE 3TB SATA, DE 3 UNIDADES DE RACK COM DISCOS REMOVÍVEIS FRONTALMENTE, FONTE DE ALIMENTAÇÃO REDUNDANTE - MODELO Cr-R16ex-48tb.
 
-## **19.5 INFRA-ESTRUTURA DE ESTÚDIO EaD** 
+## **20. ANEXOS**
 
-- a) RACK PADRÃO 19" com altura de 42U e profundidade 1000mm COR PRETA COM ACABAMENTO METÁTLICOS; 
+## **Anexo I**
 
-72 
+INSTITUTO FEDERAL DO PARANÁ
 
-**==> picture [454 x 54] intentionally omitted <==**
+## CAMPUS PARANAVAÍ
 
-- b) Mobiliários de operação, módulos de fixação padrão Rack 19", Braços articuláveis para fixação dos monitores de áudio e vídeo, Calhas de passagem para acomodação dos cabos, Réguas de energia para alimentação dos equipamentos. Portas frontais e traseiras para acesso aos equipamentos e cabeamentos que serão instalados. Kits de fixação e Montagem, com porcas parafusos e arruelas; 
+CURSO DE ESPECIALIZAÇÃO EM GESTÃO DA QUALIDADE E TECNOLOGIA DE ALIMENTOS
 
-- c) MESA DE CORTE E EFEITOS 16 CANAIS COM 4 ENTRADAS HD/SD E SAIDA MULTIVIEW EXPANSÃO ATÉ 8 ENTRADAS - MODELO AV-HS410NM; 
+REGULAMENTO DO TRABALHO DE CONCLUSÃO DE CURSO – TCC
 
-- d) SERVIDOR COM PROCESSADOR DUPLO 2.66GHZ 6-CORE INTEL XEON "WESTMERE" (12 CORES) 24 GB (6X4GB) NONE1TB 7200-RPM SERIAL ATA 3GB/S HARD DRIVENONENONEATI RADEON HD 5770 1GBONE 18X SUPERDRIVE - MAC PRO MODELO A 1289 XEON64BIT WORKSTATION; 
+## REGULAMENTO DO TRABALHO DE CONCLUSÃO DE CURSO (TCC)
 
-e) UNIDADE DE MEMÓRIA EM DISCO RÍGIDO, COM CAPACIDADE DE 16 DISCOS, PRÓPRIAS PARA ARMAZENAMENTO DE SINAIS DE VÍDEO, CONTENDO CONEXÕES PARA INTERLIGAÇÃO A OUTRAS UNIDADES DE MEMÓRIA E A SERVIDORES DE VÍDEO (COM 48TB SENDO 16 DISCOS DE 3TB SATA, DE 3 UNIDADES DE RACK COM DISCOS REMOVÍVEIS FRONTALMENTE, FONTE DE ALIMENTAÇÃO REDUNDANTE - MODELO Cr-R16ex-48tb. 
+CAPÍTULO I
 
-## **20. ANEXOS** 
+DAS DISPOSIÇÕES GERAIS
 
-## **Anexo I** 
+**Art. 1º -** O presente Regulamento dispõe sobre o Trabalho de Conclusão de Curso, aqui designado TCC, do Curso de Especialização em Gestão da Qualidade e Tecnologia de Alimentos, do Instituto Federal do Paraná, Campus Paranavaí.
 
-INSTITUTO FEDERAL DO PARANÁ 
+**Art. 2º -** O TCC é requisito obrigatório para a obtenção do Diploma de Especialista em Gestão da Qualidade e Tecnologia de Alimentos
 
-73 
+**Parágrafo Único-** O Trabalho de Conclusão de Curso deverá ser aprovado em banca específica e ser apresentado individualmente.
 
-**==> picture [454 x 54] intentionally omitted <==**
+CAPÍTULO II
 
-## CAMPUS PARANAVAÍ 
+DA CONCEITUAÇÃO E OBJETIVOS
 
-CURSO DE ESPECIALIZAÇÃO EM GESTÃO DA QUALIDADE E TECNOLOGIA DE ALIMENTOS 
+**Art. 3º -** Por TCC, entende-se um trabalho acadêmico, por meio do qual o aluno desenvolverá atividades de sistematização dos conhecimentos obtidos no decorrer do Curso, mediante acompanhamento, orientação e avaliação docente.
 
-REGULAMENTO DO TRABALHO DE CONCLUSÃO DE CURSO – TCC 
+**Parágrafo Único -** O TCC poderá ser apresentado em formato de revisão sistemática e aprofundada da literatura, artigo, patente, registros de propriedade intelectual ou publicações tecnológicas.
 
-## REGULAMENTO DO TRABALHO DE CONCLUSÃO DE CURSO (TCC) 
+**Art. 4º -** A elaboração e desenvolvimento do TCC implicarão rigor metodológico e científico, objetivação, coerência e consistência teórica, organização, sistematização e aprofundamento do tema abordado, contribuindo para o conhecimento científico em Gestão da Qualidade e Tecnologia de Alimentos.
 
-CAPÍTULO I 
+**Art. 5º -** São objetivos Gerais do TCC:
 
-DAS DISPOSIÇÕES GERAIS 
+**I-** Sistematizar os conhecimentos obtidos no decorrer do Curso;
 
-**Art. 1º -** O presente Regulamento dispõe sobre o Trabalho de Conclusão de Curso, aqui designado TCC, do Curso de Especialização em Gestão da Qualidade e Tecnologia de Alimentos, do Instituto Federal do Paraná, Campus Paranavaí. 
+**II-** Desenvolver o espírito crítico, a autonomia intelectual, a capacidade criadora e a curiosidade científica dos futuros especialistas;
 
-**Art. 2º -** O TCC é requisito obrigatório para a obtenção do Diploma de Especialista em Gestão da Qualidade e Tecnologia de Alimentos 
+**III-** Contribuir para o desenvolvimento da produção científica da área;
 
-**Parágrafo Único-** O Trabalho de Conclusão de Curso deverá ser aprovado em banca específica e ser apresentado individualmente. 
+**IV –** Contribuir para a qualificação dos serviços prestados à comunidade local e regional que estejam sob a responsabilidade do estudante trabalhador;
 
-CAPÍTULO II 
+**V** -Subsidiar o processo de ensino-aprendizagem do Curso, contribuindo para a atualização dos conteúdos programáticos dos componentes curriculares integrantes do currículo;
 
-DA CONCEITUAÇÃO E OBJETIVOS 
+**VI** -Desenvolver o estudo permanente e sistemático da práxis profissional;
 
-**Art. 3º -** Por TCC, entende-se um trabalho acadêmico, por meio do qual o aluno desenvolverá atividades de sistematização dos conhecimentos obtidos no decorrer do Curso, mediante acompanhamento, orientação e avaliação docente. 
+**VII** - Proceder à integração do ensino, da pesquisa e da extensão, visando à atenção permanente e contínua aos diferentes grupos sociais investigados.
 
-**Parágrafo Único -** O TCC poderá ser apresentado em formato de revisão sistemática e aprofundada da literatura, artigo, patente, registros de propriedade intelectual ou publicações tecnológicas. 
+## **CAPÍTULO III**
 
-**Art. 4º -** A elaboração e desenvolvimento do TCC implicarão rigor metodológico e científico, objetivação, coerência e consistência teórica, organização, sistematização e aprofundamento do tema abordado, contribuindo para o conhecimento científico em Gestão da Qualidade e Tecnologia de Alimentos. 
+## DA ESTRUTURA ORGANIZACIONAL
 
-**Art. 5º -** São objetivos Gerais do TCC: 
+**Art. 6º -** O TCC contará com a seguinte estrutura organizacional para sua operacionalização:
 
-**I-** Sistematizar os conhecimentos obtidos no decorrer do Curso; 
+- **I.** Colegiado do Curso de Especialização em Gestão da Qualidade e Tecnologia   de Alimentos;
 
-74 
+- **II.** Coordenador e Vice-Coordenador do Curso de Especialização em Gestão da Qualidade e Tecnologia de Alimentos;
 
-**==> picture [454 x 54] intentionally omitted <==**
+- **III.** Professores orientadores;
 
-**II-** Desenvolver o espírito crítico, a autonomia intelectual, a capacidade criadora e a curiosidade científica dos futuros especialistas; 
+- **IV.** Acadêmicos orientandos.
 
-**III-** Contribuir para o desenvolvimento da produção científica da área; 
+**Art. 7º -** São professores orientadores todos os professores que atuem no Curso e cuja área de atuação contribua para o aprofundamento teórico-prático da temática abordada no Projeto de TCC.
 
-**IV –** Contribuir para a qualificação dos serviços prestados à comunidade local e regional que estejam sob a responsabilidade do estudante trabalhador; 
+## **CAPÍTULO IV**
 
-**V** -Subsidiar o processo de ensino-aprendizagem do Curso, contribuindo para a atualização dos conteúdos programáticos dos componentes curriculares integrantes do currículo; 
+DAS ATRIBUIÇÕES
 
-**VI** -Desenvolver o estudo permanente e sistemático da práxis profissional; 
+**Art. 8º -** São atribuições do Colegiado de Curso de Especialização em Gestão da Qualidade e Tecnologia de Alimentos
 
-**VII** - Proceder à integração do ensino, da pesquisa e da extensão, visando à atenção permanente e contínua aos diferentes grupos sociais investigados. 
+**I -** Nomear professores orientadores de TCC;
 
-## **CAPÍTULO III** 
+**II -** Acompanhar o desenvolvimento dos trabalhos, supervisionados pela Coordenação do Curso de  Especialização em Gestão da Qualidade e Tecnologia de Alimentos;
 
-## DA ESTRUTURA ORGANIZACIONAL 
+**III -** Promover alterações no presente Regulamento, sempre que se fizer necessário;
 
-**Art. 6º -** O TCC contará com a seguinte estrutura organizacional para sua operacionalização: 
+**IV-** Estabelecer, juntamente com os professores orientadores, o cronograma para entrega e socialização dos TCC;
 
-- **I.** Colegiado do Curso de Especialização em Gestão da Qualidade e Tecnologia   de Alimentos; 
+**V -** Deliberar sobre os pedidos de mudança de orientador.
 
-- **II.** Coordenador e Vice-Coordenador do Curso de Especialização em Gestão da Qualidade e Tecnologia de Alimentos; 
+**Art. 9º -** São atribuições da Coordenação do Curso de Especialização em Ciências Ambientais:
 
-- **III.** Professores orientadores; 
+- **I-** Homologar a lista dos professores orientadores de TCC, conforme indicação do Colegiado do Curso;
 
-- **IV.** Acadêmicos orientandos. 
+- **II-** Homologar a listagem de alunos por orientador;
 
-**Art. 7º -** São professores orientadores todos os professores que atuem no Curso e cuja área de atuação contribua para o aprofundamento teórico-prático da temática abordada no Projeto de TCC. 
+- **III-** Homologar o cronograma de entrega e socialização dos TCC;
 
-## **CAPÍTULO IV** 
+- **IV-** Acompanhar a orientação de professores orientadores aos alunos;
 
-DAS ATRIBUIÇÕES 
+- **V-** Articular-se com o Colegiado de Curso para compatibilizar diretrizes, organização e desenvolvimento dos projetos;
 
-**Art. 8º -** São atribuições do Colegiado de Curso de Especialização em Gestão da Qualidade e Tecnologia de Alimentos 
+- **VI-** Convocar, sempre que necessário, os orientadores para discutir questões relativas à organização, planejamento, desenvolvimento e avaliação dos TCC.
 
-75 
+- **VII-** Coordenar, junto com o Colegiado do Curso, as propostas de alteração do presente Regulamento;
 
-**==> picture [454 x 54] intentionally omitted <==**
+- **VIII-** Divulgar, através de edital, o cronograma de entrega e apresentação dos TCC;
 
-**I -** Nomear professores orientadores de TCC; 
+- **IX-** Arquivar os documentos referentes aos conceitos dos TCC.
 
-**II -** Acompanhar o desenvolvimento dos trabalhos, supervisionados pela Coordenação do Curso de  Especialização em Gestão da Qualidade e Tecnologia de Alimentos; 
+**Art. 10 º -** São atribuições dos professores orientadores:
 
-**III -** Promover alterações no presente Regulamento, sempre que se fizer necessário; 
+**I-** Orientar, acompanhar e avaliar o desenvolvimento do TCC, em todas as suas fases;
 
-**IV-** Estabelecer, juntamente com os professores orientadores, o cronograma para entrega e socialização dos TCC; 
+**II -** Estabelecer o plano e cronograma de trabalho em conjunto com o orientando;
 
-**V -** Deliberar sobre os pedidos de mudança de orientador. 
+**III-** Definir horários de orientação, junto com seus orientandos;
 
-**Art. 9º -** São atribuições da Coordenação do Curso de Especialização em Ciências Ambientais: 
+**IV -** Informar o orientando sobre as normas e procedimentos previstos neste Regulamento, bem como sobre o registro de acompanhamento e critérios de avaliação dos projetos;
 
-- **I-** Homologar a lista dos professores orientadores de TCC, conforme indicação do Colegiado do Curso; 
+**V-** Indicar bibliografia básica aos acadêmicos sob sua orientação;
 
-- **II-** Homologar a listagem de alunos por orientador; 
+**VI-** Registrar as atividades de acompanhamento e o conceito, encaminhando os documentos específicos à Coordenação do Curso de Especialização em Gestão da Qualidade e Tecnologia de Alimentos;
 
-- **III-** Homologar o cronograma de entrega e socialização dos TCC; 
+**VII-** Avaliar os TCC;
 
-- **IV-** Acompanhar a orientação de professores orientadores aos alunos; 
+**VIII -** Participar de reuniões com a Coordenação do Curso de Especialização em Gestão da Qualidade e Tecnologia de Alimentos sempre que convocado;
 
-- **V-** Articular-se com o Colegiado de Curso para compatibilizar diretrizes, organização e desenvolvimento dos projetos; 
+**Art. 11 º -** São atribuições do orientando:
 
-- **VI-** Convocar, sempre que necessário, os orientadores para discutir questões relativas à organização, planejamento, desenvolvimento e avaliação dos TCC. 
+- **I-** Seguir as normas e procedimentos definidos por este Regulamento;
 
-- **VII-** Coordenar, junto com o Colegiado do Curso, as propostas de alteração do presente Regulamento; 
+**II -** Definir a temática e forma de execução do TCC, em concordância com o professor orientador;
 
-- **VIII-** Divulgar, através de edital, o cronograma de entrega e apresentação dos TCC; 
+**III-** Estabelecer e cumprir o plano de trabalho, a ser elaborado em conjunto com o professor orientador;
 
-- **IX-** Arquivar os documentos referentes aos conceitos dos TCC. 
+**IV-** Estabelecer e cumprir os horários de orientação definidos em conjunto com o professor orientador;
 
-**Art. 10 º -** São atribuições dos professores orientadores: 
+**V -** Respeitar os critérios da metodologia científica e das normas da ABNT (Associação Brasileira de Normas Técnicas – vide Manual de Normas do IFPR) na elaboração do seu trabalho, submetendo-o à apreciação do seu orientador;
 
-**I-** Orientar, acompanhar e avaliar o desenvolvimento do TCC, em todas as suas fases; 
+**VI-** Entregar, dentro do cronograma estabelecido, três cópias impressas simples do Projeto a ser submetido à banca examinadora;
 
-**II -** Estabelecer o plano e cronograma de trabalho em conjunto com o orientando; 
+**§ 1º** A entrega das cópias impressas poderá ser realizada via correio para o endereço do campus, destinado a Secretaria Acadêmica ou pessoalmente.
 
-**III-** Definir horários de orientação, junto com seus orientandos; 
+**VII -** Apresentar oralmente seu trabalho, em banca específica composta por três professores, quando será avaliado pela clareza na exposição dos objetivos, da propriedade da metodologia de trabalho preconizada e da relevância e aplicabilidade dos resultados do trabalho, mediante o uso de linguagem adequada;
 
-76 
+**VIII –** Realizar o TCC considerando os seguintes preceitos sobre má conduta: a) A fabricação, ou a afirmação de que foram obtidos ou conduzidos dados, procedimentos
 
-**==> picture [454 x 54] intentionally omitted <==**
+ou resultados que realmente não o foram; b) A falsificação, ou apresentação de dados, procedimentos ou resultados de pesquisa de maneira relevantemente modificada, imprecisa ou incompleta, a ponto de poder interferir na avaliação do peso científico que realmente conferem às conclusões que deles se extraem; c) O plágio, ou utilização de ideias ou formulações verbais, orais ou escritas, de outrem sem dar-lhe por elas, expressa e claramente, o devido crédito, de modo a gerar razoavelmente a percepção de que sejam ideias ou formulações de autoria própria.
 
-**IV -** Informar o orientando sobre as normas e procedimentos previstos neste Regulamento, bem como sobre o registro de acompanhamento e critérios de avaliação dos projetos; 
+**IX -** Entregar 4 (quatro) cópias em versão final em CD-ROM conforme formato institucional, da versão final do TCC, para a Coordenação do Curso, para arquivo e entrega para o orientador e examinadores.
 
-**V-** Indicar bibliografia básica aos acadêmicos sob sua orientação; 
+CAPÍTULO V
 
-**VI-** Registrar as atividades de acompanhamento e o conceito, encaminhando os documentos específicos à Coordenação do Curso de Especialização em Gestão da Qualidade e Tecnologia de Alimentos; 
+## DA SELEÇÃO DE ORIENTADORES
 
-**VII-** Avaliar os TCC; 
+**Art. 12 º -** Os professores orientadores serão nomeados pelo Colegiado do Curso de Especialização em Gestão da Qualidade e Tecnologia de Alimentos a partir da definição e escolha realizada pelo acadêmico e conforme afinidade da área de atuação e formação profissional dos professores com a temática dos Projetos de TCC.
 
-**VIII -** Participar de reuniões com a Coordenação do Curso de Especialização em Gestão da Qualidade e Tecnologia de Alimentos sempre que convocado; 
+**Art. 13 º -** O número de orientandos por orientador será de no máximo 10 (dez) acadêmicos.
 
-**Art. 11 º -** São atribuições do orientando: 
+**§ 1º -** Em caso de um orientador ser escolhido por um número de acadêmicos maior que o definido no _caput_ deste artigo, caberá ao professor escolher os acadêmicos que mais se aproximem da sua linha de formação e pesquisa.
 
-- **I-** Seguir as normas e procedimentos definidos por este Regulamento; 
+**§2º -** Caberá ao acadêmico que não for selecionado, procurar outro orientador, mantendo como critério a afinidade do projeto com a linha de trabalho deste novo orientador.
 
-**II -** Definir a temática e forma de execução do TCC, em concordância com o professor orientador; 
+**Art. 14 º -** O professor nomeado como Orientador do TCC, tomando conhecimento da proposta prévia de trabalho, manifestará em formulário específico (Anexo II) a aceitação do encargo de orientação.
 
-**III-** Estabelecer e cumprir o plano de trabalho, a ser elaborado em conjunto com o professor orientador; 
+## CAPÍTULO VI
 
-**IV-** Estabelecer e cumprir os horários de orientação definidos em conjunto com o professor orientador; 
+## DO FORMATO DO PROJETO DE TRABALHO DE CONCLUSÃO DE CURSO
 
-**V -** Respeitar os critérios da metodologia científica e das normas da ABNT (Associação Brasileira de Normas Técnicas – vide Manual de Normas do IFPR) na elaboração do seu trabalho, submetendo-o à apreciação do seu orientador; 
+**Art. 15 º -** O acadêmico desenvolverá seu Trabalho de Conclusão de Curso em formato de revisão sistemática e aprofundada da literatura, artigo, patente, registros de propriedade intelectual ou publicações tecnológicas, escolhendo sua temática entre os
 
-**VI-** Entregar, dentro do cronograma estabelecido, três cópias impressas simples do Projeto a ser submetido à banca examinadora; 
+assuntos de abrangência em Gestão da Qualidade e Tecnologia de Alimentos
 
-**§ 1º** A entrega das cópias impressas poderá ser realizada via correio para o endereço do campus, destinado a Secretaria Acadêmica ou pessoalmente. 
+**Parágrafo Único -** A apresentação do TCC deverá atender às normas técnicas para formatação de trabalhos acadêmicos, conforme a ABNT e normas do IFPR.
 
-**VII -** Apresentar oralmente seu trabalho, em banca específica composta por três professores, quando será avaliado pela clareza na exposição dos objetivos, da propriedade da metodologia de trabalho preconizada e da relevância e aplicabilidade dos resultados do trabalho, mediante o uso de linguagem adequada; 
+CAPÍTULO VII
 
-**VIII –** Realizar o TCC considerando os seguintes preceitos sobre má conduta: a) A fabricação, ou a afirmação de que foram obtidos ou conduzidos dados, procedimentos 
+DA AVALIAÇÃO
 
-77 
+**Art. 16 º -** A avaliação do Projeto de TCC compreende:
 
-**==> picture [454 x 54] intentionally omitted <==**
+**I -** Acompanhamento da elaboração e avaliação do Projeto pelo professor orientador;
 
-ou resultados que realmente não o foram; b) A falsificação, ou apresentação de dados, procedimentos ou resultados de pesquisa de maneira relevantemente modificada, imprecisa ou incompleta, a ponto de poder interferir na avaliação do peso científico que realmente conferem às conclusões que deles se extraem; c) O plágio, ou utilização de ideias ou formulações verbais, orais ou escritas, de outrem sem dar-lhe por elas, expressa e claramente, o devido crédito, de modo a gerar razoavelmente a percepção de que sejam ideias ou formulações de autoria própria. 
+**II -** Apresentação do TCC.
 
-**IX -** Entregar 4 (quatro) cópias em versão final em CD-ROM conforme formato institucional, da versão final do TCC, para a Coordenação do Curso, para arquivo e entrega para o orientador e examinadores. 
+**§ 1º -** Para aprovação do Projeto de TCC, o acadêmico deverá ter conceito mínimo equivalente a C, numa escala de A a D atribuída pela banca examinadora sendo os critérios dispostos no Anexo III.
 
-CAPÍTULO V 
+**§ 2º -** O acadêmico com conceito inferior ao mínimo exigido no parágrafo anterior será considerado reprovado, podendo solicitar segunda oportunidade de banca (SOB) (Anexo IV), ou devendo repetir o processo em outro ano letivo;
 
-## DA SELEÇÃO DE ORIENTADORES 
+**Art. 17 º** - A avaliação do TCC, compreende:
 
-**Art. 12 º -** Os professores orientadores serão nomeados pelo Colegiado do Curso de Especialização em Gestão da Qualidade e Tecnologia de Alimentos a partir da definição e escolha realizada pelo acadêmico e conforme afinidade da área de atuação e formação profissional dos professores com a temática dos Projetos de TCC. 
+**I** - Acompanhamento e avaliação contínua pelo professor orientador;
 
-**Art. 13 º -** O número de orientandos por orientador será de no máximo 10 (dez) acadêmicos. 
+**II** - Socialização do TCC, para a comunidade acadêmica.
 
-**§ 1º -** Em caso de um orientador ser escolhido por um número de acadêmicos maior que o definido no _caput_ deste artigo, caberá ao professor escolher os acadêmicos que mais se aproximem da sua linha de formação e pesquisa. 
+**Art. 18 º -** A avaliação do TCC, quanto ao conteúdo, deverá considerar como critérios internos de cientificidade:
 
-**§2º -** Caberá ao acadêmico que não for selecionado, procurar outro orientador, mantendo como critério a afinidade do projeto com a linha de trabalho deste novo orientador. 
+**I-** Objetivação: apreensão dos elementos constitutivos do fenômeno estudado, em consonância com o referencial teórico adotado;
 
-**Art. 14 º -** O professor nomeado como Orientador do TCC, tomando conhecimento da proposta prévia de trabalho, manifestará em formulário específico (Anexo II) a aceitação do encargo de orientação. 
+**II -** Coerência: elaboração de um processo argumentativo que não apresente contradições;
 
-## CAPÍTULO VI 
+**III -** Consistência: argumentação sólida relacionada à fundamentação teórica metodológica.
 
-## DO FORMATO DO PROJETO DE TRABALHO DE CONCLUSÃO DE CURSO 
+**Art. 19 º -** O aluno deverá expor oralmente o tratamento dado ao tema, considerando a apresentação ordenada das partes componentes do trabalho, sem perder de vista sua totalidade e os conhecimentos necessários para sua elaboração, apresentando argumentos coerentes com o referencial teórico adotado, e utilizando registro linguístico apropriado, de acordo com a norma culta.
 
-**Art. 15 º -** O acadêmico desenvolverá seu Trabalho de Conclusão de Curso em formato de revisão sistemática e aprofundada da literatura, artigo, patente, registros de propriedade intelectual ou publicações tecnológicas, escolhendo sua temática entre os 
+**Art. 20 º -** O orientador, em conjunto com a banca examinadora, atribuirá o conceito ao TCC, observando os critérios descritos no Anexo III **.**
 
-78 
+## CAPÍTULO VIII
 
-**==> picture [454 x 54] intentionally omitted <==**
+## DOS PRAZOS
 
-assuntos de abrangência em Gestão da Qualidade e Tecnologia de Alimentos 
+**Art. 21 º -** A Coordenação do Curso de Especialização em Gestão da Qualidade e Tecnologia de Alimentos deverá homologar a nomeação dos professores orientadores.
 
-**Parágrafo Único -** A apresentação do TCC deverá atender às normas técnicas para formatação de trabalhos acadêmicos, conforme a ABNT e normas do IFPR. 
+**Art. 22 º -** A solicitação de substituição de professor orientador, tanto por parte do acadêmico, quanto por parte do orientador, deverá ser feita até 90 (noventa) dias antes da apresentação final do TCC, perante a Coordenação do Curso de Especialização em Gestão da Qualidade e Tecnologia de Alimentos.
 
-CAPÍTULO VII 
+**Parágrafo Único -** A mudança de orientador (Anexo V) ou orientando (Anexo VI) deverá sempre ser acompanhada de uma justificativa que legitime tal pedido.
 
-DA AVALIAÇÃO 
+**Art. 23 º –** O orientando deverá protocolar seu TCC na secretaria do curso, em três vias impressas destinadas à banca julgadora, no prazo de 30 dias antes da data da defesa.
 
-**Art. 16 º -** A avaliação do Projeto de TCC compreende: 
+**Parágrafo Único -** Na ocasião da defesa do TCC deverá ser preenchida a Ata de Defesa, devidamente assinada pelo orientador e membros da banca examinados (Anexo VII).
 
-**I -** Acompanhamento da elaboração e avaliação do Projeto pelo professor orientador; 
+**Art. 24 º -** A entrega do TCC devidamente corrigido, após avaliação da banca examinadora deverá ser no prazo máximo de 30 após a defesa.
 
-**II -** Apresentação do TCC. 
+DAS DISPOSIÇÕES TRANSITÓRIAS E FINAIS
 
-**§ 1º -** Para aprovação do Projeto de TCC, o acadêmico deverá ter conceito mínimo equivalente a C, numa escala de A a D atribuída pela banca examinadora sendo os critérios dispostos no Anexo III. 
+**Art. 25 º** - O orientador que porventura não cumprir os prazos que são de sua responsabilidade ficará impedido de orientar alunos no seguinte ano acadêmico.
 
-**§ 2º -** O acadêmico com conceito inferior ao mínimo exigido no parágrafo anterior será considerado reprovado, podendo solicitar segunda oportunidade de banca (SOB) (Anexo IV), ou devendo repetir o processo em outro ano letivo; 
+**Art. 26 º** - O acadêmico que, por qualquer motivo, abandonar ou reprovar por conceito mesmo após a segunda oportunidade, deverá repetir integralmente o processo.
 
-**Art. 17 º** - A avaliação do TCC, compreende: 
+**Art. 27 º -** As situações não previstas neste Regulamento serão encaminhadas e resolvidas pelo Colegiado do Curso de Especialização em Gestão da Qualidade e Tecnologia de Alimentos.
 
-**I** - Acompanhamento e avaliação contínua pelo professor orientador; 
+___________________________
 
-**II** - Socialização do TCC, para a comunidade acadêmica. 
+Prof. Carlos Eduardo Barão
 
-**Art. 18 º -** A avaliação do TCC, quanto ao conteúdo, deverá considerar como critérios internos de cientificidade: 
+Coordenador do Curso de Especialização em Gestão da Qualidade e Tecnologia de Alimentos
 
-**I-** Objetivação: apreensão dos elementos constitutivos do fenômeno estudado, em consonância com o referencial teórico adotado; 
+___________________________
 
-**II -** Coerência: elaboração de um processo argumentativo que não apresente contradições; 
+Profa. Tatiana Colombo Pimentel
 
-**III -** Consistência: argumentação sólida relacionada à fundamentação teórica metodológica. 
+Vice Coordenadora do Curso de Especialização em Gestão da Qualidade e Tecnologia de Alimentos
 
-**Art. 19 º -** O aluno deverá expor oralmente o tratamento dado ao tema, considerando a apresentação ordenada das partes componentes do trabalho, sem perder de vista sua totalidade e os conhecimentos necessários para sua elaboração, apresentando argumentos coerentes com o referencial teórico adotado, e utilizando registro linguístico apropriado, de acordo com a norma culta. 
+## **ANEXO II**
 
-79 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
-**Art. 20 º -** O orientador, em conjunto com a banca examinadora, atribuirá o conceito ao TCC, observando os critérios descritos no Anexo III **.** 
-
-## CAPÍTULO VIII 
-
-## DOS PRAZOS 
-
-**Art. 21 º -** A Coordenação do Curso de Especialização em Gestão da Qualidade e Tecnologia de Alimentos deverá homologar a nomeação dos professores orientadores. 
-
-**Art. 22 º -** A solicitação de substituição de professor orientador, tanto por parte do acadêmico, quanto por parte do orientador, deverá ser feita até 90 (noventa) dias antes da apresentação final do TCC, perante a Coordenação do Curso de Especialização em Gestão da Qualidade e Tecnologia de Alimentos. 
-
-**Parágrafo Único -** A mudança de orientador (Anexo V) ou orientando (Anexo VI) deverá sempre ser acompanhada de uma justificativa que legitime tal pedido. 
-
-**Art. 23 º –** O orientando deverá protocolar seu TCC na secretaria do curso, em três vias impressas destinadas à banca julgadora, no prazo de 30 dias antes da data da defesa. 
-
-**Parágrafo Único -** Na ocasião da defesa do TCC deverá ser preenchida a Ata de Defesa, devidamente assinada pelo orientador e membros da banca examinados (Anexo VII). 
-
-**Art. 24 º -** A entrega do TCC devidamente corrigido, após avaliação da banca examinadora deverá ser no prazo máximo de 30 após a defesa. 
-
-DAS DISPOSIÇÕES TRANSITÓRIAS E FINAIS 
-
-**Art. 25 º** - O orientador que porventura não cumprir os prazos que são de sua responsabilidade ficará impedido de orientar alunos no seguinte ano acadêmico. 
-
-**Art. 26 º** - O acadêmico que, por qualquer motivo, abandonar ou reprovar por conceito mesmo após a segunda oportunidade, deverá repetir integralmente o processo. 
-
-**Art. 27 º -** As situações não previstas neste Regulamento serão encaminhadas e resolvidas pelo Colegiado do Curso de Especialização em Gestão da Qualidade e Tecnologia de Alimentos. 
-
-___________________________ 
-
-80 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
-Prof. Carlos Eduardo Barão 
-
-Coordenador do Curso de Especialização em Gestão da Qualidade e Tecnologia de Alimentos 
-
-___________________________ 
-
-Profa. Tatiana Colombo Pimentel 
-
-Vice Coordenadora do Curso de Especialização em Gestão da Qualidade e Tecnologia de Alimentos 
-
-81 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
-## **ANEXO II** 
-
-## **TERMO DE COMPROMISSO DE ORIENTAÇÃO** 
+## **TERMO DE COMPROMISSO DE ORIENTAÇÃO**
 
 |Eu, ___________________________________________________ professor (a) do Curso|
 |---|
@@ -2158,17 +1780,11 @@ Vice Coordenadora do Curso de Especialização em Gestão da Qualidade e Tecnolo
 |________, ademais estou ciente do regulamento do trabalho de conclusão de curso.|
 |Paranavaí, _____/______/______|
 
+_____________________________________
 
+## **ANEXO III**
 
-_____________________________________ 
-
-82 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
-## **ANEXO III** 
-
-## **CRITÉRIOS DE AVALIAÇÃO DO TRABALHO DE CONCLUSÃO DE CURSO – TCC** 
+## **CRITÉRIOS DE AVALIAÇÃO DO TRABALHO DE CONCLUSÃO DE CURSO – TCC**
 
 |CRITÉRIOS DE AVALIAÇÃO<br>Critérios|Pontuação<br>(A, B, C ou D)|
 |---|---|
@@ -2182,51 +1798,37 @@ _____________________________________
 |Arguição||
 |Conceito Final||
 
+Legenda: (A) Aprendizagem Plena ; (B) Aprendizagem Parcialmente Plena; (C) Aprendizagem Suficiente; (D) Aprendizagem Insuficiente
 
+## **ANEXO IV**
 
-Legenda: (A) Aprendizagem Plena ; (B) Aprendizagem Parcialmente Plena; (C) Aprendizagem Suficiente; (D) Aprendizagem Insuficiente 
+## **TERMO DE COMPROMISSO – SEGUNDA OPORTUNIDADE DE BANCA**
 
-83 
+Eu, _______________________________________________________, aluno (a) do curso ___________________________________________ do Campus Paranavaí do Instituto Federal do Paraná, declaro para todos os fins que se fizerem necessários que tenho pleno conhecimento dos motivos que levaram à minha reprovação no Trabalho de Conclusão de Curso – TCC, tendo obtido o conceito ____, e, a fim de atender às exigências da Banca Examinadora que concede a mim nova oportunidade para alcançar a aprovação, assumo o compromisso de realizar todas as correções feitas pelos examinadores/orientador, conforme consta dos exemplares devolvidos, entregando em data de ____/____/_____ o exemplar definitivo devidamente encadernado (em espiral), juntamente com o CD/DVD contendo uma cópia digitalizada do Trabalho de Conclusão de Conclusão do Curso.
 
-**==> picture [454 x 54] intentionally omitted <==**
+Declaro ainda estar ciente que a ausência de entrega do documento supracitado implicará em minha reprovação.
 
-## **ANEXO IV** 
+Por ser expressão da verdade, firmo a presente.
 
-## **TERMO DE COMPROMISSO – SEGUNDA OPORTUNIDADE DE BANCA** 
+Paranavaí, _____ de ______________________ de _____ .
 
-Eu, _______________________________________________________, aluno (a) do curso ___________________________________________ do Campus Paranavaí do Instituto Federal do Paraná, declaro para todos os fins que se fizerem necessários que tenho pleno conhecimento dos motivos que levaram à minha reprovação no Trabalho de Conclusão de Curso – TCC, tendo obtido o conceito ____, e, a fim de atender às exigências da Banca Examinadora que concede a mim nova oportunidade para alcançar a aprovação, assumo o compromisso de realizar todas as correções feitas pelos examinadores/orientador, conforme consta dos exemplares devolvidos, entregando em data de ____/____/_____ o exemplar definitivo devidamente encadernado (em espiral), juntamente com o CD/DVD contendo uma cópia digitalizada do Trabalho de Conclusão de Conclusão do Curso. 
+__________________________________________
 
-Declaro ainda estar ciente que a ausência de entrega do documento supracitado implicará em minha reprovação. 
+Aluno (a)
 
-Por ser expressão da verdade, firmo a presente. 
+## **ANEXO V**
 
-Paranavaí, _____ de ______________________ de _____ . 
+## **TERMO DE INTERRUPÇÃO DE ORIENTAÇÃO**
 
-__________________________________________ 
+Eu, ________________________________________________________ professor(a) do Curso de Especialização em Gestão da Qualidade e Tecnologia de Alimentos do Instituto Federal do Paraná, Campus Paranavaí, comunico à Coordenação do Curso que, por motivos justificados em anexo a este, não continuarei a orientar o (a) acadêmico (a) _________________________________________________________________________ _ nas atividades relacionadas ao seu Trabalho de Conclusão de Curso.
 
-Aluno (a) 
+Paranavaí, _______/______/_______ _________________________________ Assinatura do Professor Ciente: _______________________________
 
-84 
+Assinatura da Coordenação do Curso
 
-**==> picture [454 x 54] intentionally omitted <==**
+## **ANEXO VI**
 
-## **ANEXO V** 
-
-## **TERMO DE INTERRUPÇÃO DE ORIENTAÇÃO** 
-
-Eu, ________________________________________________________ professor(a) do Curso de Especialização em Gestão da Qualidade e Tecnologia de Alimentos do Instituto Federal do Paraná, Campus Paranavaí, comunico à Coordenação do Curso que, por motivos justificados em anexo a este, não continuarei a orientar o (a) acadêmico (a) _________________________________________________________________________ _ nas atividades relacionadas ao seu Trabalho de Conclusão de Curso. 
-
-Paranavaí, _______/______/_______ _________________________________ Assinatura do Professor Ciente: _______________________________ 
-
-Assinatura da Coordenação do Curso 
-
-85 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
-## **ANEXO VI** 
-
-## **ATA DE DEFESA DO TRABALHO DE CONCLUSÃO DE CURSO** 
+## **ATA DE DEFESA DO TRABALHO DE CONCLUSÃO DE CURSO**
 
 |CURSO:__________________________________________________|
 |---|
@@ -2252,15 +1854,9 @@ Assinatura da Coordenação do Curso
 |______________________________|
 |Examinador|
 
+## **ANEXO VI**
 
+## **PARECER DEAD/DEDRE/EP Nº 03/2017**
 
-86 
-
-**==> picture [454 x 54] intentionally omitted <==**
-
-## **ANEXO VI** 
-
-## **PARECER DEAD/DEDRE/EP Nº 03/2017** 
-
-87 
+87
 

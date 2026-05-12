@@ -1,162 +1,162 @@
-1 INSTITUTOFEDERAL PARANA 
+1 INSTITUTOFEDERAL PARANA
 
-Ministerioda Educacao InstitutoFederaldoParana 
+Ministerioda Educacao InstitutoFederaldoParana
 
-## **PROJETO PEDAGÓGICO DO CURSO – PPC** 
+## **PROJETO PEDAGÓGICO DO CURSO – PPC**
 
-# **CURSO DE ESPECIALIZAÇÃO** _**LATO SENSU**_ **EM** 
+# **CURSO DE ESPECIALIZAÇÃO** _**LATO SENSU**_ **EM**
 
-**GESTÃO SOCIAL DE POLÍTICAS PÚBLICAS - CAMPUS CURITIBA** 
+**GESTÃO SOCIAL DE POLÍTICAS PÚBLICAS - CAMPUS CURITIBA**
 
-## **AUTORIZADO PELA RESOLUÇÃO N° 62, DE 09 DE OUTUBRO DE 2018** 
+## **AUTORIZADO PELA RESOLUÇÃO N° 62, DE 09 DE OUTUBRO DE 2018**
 
-1 
+1
 
-1 INSTITUTOFEDERAL PARANA 
+1 INSTITUTOFEDERAL PARANA
 
-Ministerioda Educacao InstitutoFederal doParana 
+Ministerioda Educacao InstitutoFederal doParana
 
-## **1. Identificação da proposta** 
+## **1. Identificação da proposta**
 
-## 1.1 Nome do curso: **GESTÃO SOCIAL DE POLÍTICAS PÚBLICAS** 
+## 1.1 Nome do curso: **GESTÃO SOCIAL DE POLÍTICAS PÚBLICAS**
 
-## **1.2 Área de conhecimento** (CAPES) 
+## **1.2 Área de conhecimento** (CAPES)
 
-COLÉGIO DE HUMANIDADES 
+COLÉGIO DE HUMANIDADES
 
-GRANDE ÁREA: CIÊNCIAS SOCIAIS APLICADAS 
+GRANDE ÁREA: CIÊNCIAS SOCIAIS APLICADAS
 
-https://capes.gov.br/avaliacao/sobre-as-areas-de-avaliacao 
+https://capes.gov.br/avaliacao/sobre-as-areas-de-avaliacao
 
-## **1.2.1 Linhas de Pesquisa:** 
+## **1.2.1 Linhas de Pesquisa:**
 
-## _a) Teoria Política Contemporânea_ 
+## _a) Teoria Política Contemporânea_
 
-Contempla pesquisas e questões pertinentes à teoria política contemporânea, embasada nos estudos dos problemas filosóficos de natureza política. De modo mais específico, a linha privilegia alguns temas, tradições e autores que passam pela sociologia, filosofia e história. A linha acolhe pesquisas que se inserem em um amplo espectro temporal que vai do Renascimento até a contemporaneidade. Concentrando-se na abordagem de problemas e estruturas conceituais no âmbito da teoria política e suas inter-relações, assim como seus desdobramentos no pensamento contemporâneo. As pesquisas realizadas nesta linha possibilitarão compreender os princípios que norteiam as políticas públicas e os conflitos de interesses entre grupos e classes sociais. As contribuições da sociologia, da filosofia e da história possibilitam conectar as diversas formas de manifestações das políticas públicas na história, focalizando e entendimento desses processos na contemporaneidade. 
+Contempla pesquisas e questões pertinentes à teoria política contemporânea, embasada nos estudos dos problemas filosóficos de natureza política. De modo mais específico, a linha privilegia alguns temas, tradições e autores que passam pela sociologia, filosofia e história. A linha acolhe pesquisas que se inserem em um amplo espectro temporal que vai do Renascimento até a contemporaneidade. Concentrando-se na abordagem de problemas e estruturas conceituais no âmbito da teoria política e suas inter-relações, assim como seus desdobramentos no pensamento contemporâneo. As pesquisas realizadas nesta linha possibilitarão compreender os princípios que norteiam as políticas públicas e os conflitos de interesses entre grupos e classes sociais. As contribuições da sociologia, da filosofia e da história possibilitam conectar as diversas formas de manifestações das políticas públicas na história, focalizando e entendimento desses processos na contemporaneidade.
 
-## _b) Estado e Governo: estudos do poder local_ 
+## _b) Estado e Governo: estudos do poder local_
 
-Esta linha faz interface entre a teoria do Estado, o planejamento e as políticas públicas. Tem como foco duas dimensões que se relacionam com o desenvolvimento das políticas públicas de curto, médio e longo prazo: a primeira é a compreensão de como o Estado se configura em suas relações de poder global e local e a segunda é a compreensão das políticas públicas aplicadas no Brasil, levando-se em conta a necessidade da população e as condições da realidade local de cada território para o qual a política foi desenvolvida. A linha contribuirá com métodos, técnicas e estudos que colaborem para o aprimoramento da prática e da teoria sobre como o Estado intervém e se organiza no que diz respeito à Gestão Social, levando-se em consideração as idiossincrasias de cada território. 
+Esta linha faz interface entre a teoria do Estado, o planejamento e as políticas públicas. Tem como foco duas dimensões que se relacionam com o desenvolvimento das políticas públicas de curto, médio e longo prazo: a primeira é a compreensão de como o Estado se configura em suas relações de poder global e local e a segunda é a compreensão das políticas públicas aplicadas no Brasil, levando-se em conta a necessidade da população e as condições da realidade local de cada território para o qual a política foi desenvolvida. A linha contribuirá com métodos, técnicas e estudos que colaborem para o aprimoramento da prática e da teoria sobre como o Estado intervém e se organiza no que diz respeito à Gestão Social, levando-se em consideração as idiossincrasias de cada território.
 
-2 
+2
 
-Ministerioda Educacao InstitutoFederaldoParana 
+Ministerioda Educacao InstitutoFederaldoParana
 
-INSTITUTOFEDERAL PARANA 
+INSTITUTOFEDERAL PARANA
 
-## _c) Políticas Públicas: análise institucional_ 
+## _c) Políticas Públicas: análise institucional_
 
-Enfatiza pesquisas sobre planejamento, gestão e governança da administração pública na sociedade civil. A análise institucional poderá ser realizada em diferentes escalas de gestão: comunitária, municipal, intermunicipal, metropolitana, estadual e em redes nacionais e internacionais. Possibilitará compreender a realidade das políticas públicas, bem como sua relação com o seu planejamento. Contribuirá no fortalecimento de banco de dados para futuras consultas e publicações na área. 
+Enfatiza pesquisas sobre planejamento, gestão e governança da administração pública na sociedade civil. A análise institucional poderá ser realizada em diferentes escalas de gestão: comunitária, municipal, intermunicipal, metropolitana, estadual e em redes nacionais e internacionais. Possibilitará compreender a realidade das políticas públicas, bem como sua relação com o seu planejamento. Contribuirá no fortalecimento de banco de dados para futuras consultas e publicações na área.
 
-## 1.3 Campus responsável: CURITIBA 
+## 1.3 Campus responsável: CURITIBA
 
-1.3.1 Nome do Diretor-Geral: ADRIANO WILLIAN DA SILVA VIANA PEREIRA 
+1.3.1 Nome do Diretor-Geral: ADRIANO WILLIAN DA SILVA VIANA PEREIRA
 
-1.3.2 E-mail(s): direcao.geral.curitiba@ifpr.edu.br e direcao.ensino.curitiba@ifpr.edu.br 
+1.3.2 E-mail(s): direcao.geral.curitiba@ifpr.edu.br e direcao.ensino.curitiba@ifpr.edu.br
 
-**2. Dados da Comissão de Estruturação de Curso** (Portarias nº 09/2016 e 18/2017, campus Curitiba) 
+**2. Dados da Comissão de Estruturação de Curso** (Portarias nº 09/2016 e 18/2017, campus Curitiba)
 
-2.1 Nome do Coordenador/Titulação: **Rodrigo Tramutolo Navarro - Doutor** 
+2.1 Nome do Coordenador/Titulação: **Rodrigo Tramutolo Navarro - Doutor**
 
-2.2 Telefones do Coordenador: **(41) 3535-1647** 
+2.2 Telefones do Coordenador: **(41) 3535-1647**
 
-2.3 E-mail do Coordenador: rodrigo.navarro@ifpr.edu.br 
+2.3 E-mail do Coordenador: rodrigo.navarro@ifpr.edu.br
 
-2.4 Nome do Vice-coordenador/Titulação: **Joyce Luciane Correia Muzi - Doutora** 
+2.4 Nome do Vice-coordenador/Titulação: **Joyce Luciane Correia Muzi - Doutora**
 
-2.5 Telefones do Vice-coordenador: **(41) 3535-1647** 
+2.5 Telefones do Vice-coordenador: **(41) 3535-1647**
 
-2.6 E-mail do Vice-coordenador: joyce.muzi@ifpr.edu.br 
+2.6 E-mail do Vice-coordenador: joyce.muzi@ifpr.edu.br
 
-2.7 Outros componentes da CEC: 
+2.7 Outros componentes da CEC:
 
-**Nome / SIAPE / Função / E-mail (** Portarias nº 09/2016 - **Comissão 2016)** 
+**Nome / SIAPE / Função / E-mail (** Portarias nº 09/2016 - **Comissão 2016)**
 
-Adriana Pellanda Gagno - 1918242 - Docente - adriana.gagno@ifpr.edu.br 
+Adriana Pellanda Gagno - 1918242 - Docente - adriana.gagno@ifpr.edu.br
 
-Ana Maria de Carvalho  - 2109561 - Assistente Social - ana.carvalho@ifpr.edu.br Anjor Mujica de Paula - 1917524 - Docente - anjor.mujica@ifpr.edu.br 
+Ana Maria de Carvalho  - 2109561 - Assistente Social - ana.carvalho@ifpr.edu.br Anjor Mujica de Paula - 1917524 - Docente - anjor.mujica@ifpr.edu.br
 
-Cássia Cristina Moretto da Silva - 1781911 - Docente - cassia.silva@ifpr.edu.br 
+Cássia Cristina Moretto da Silva - 1781911 - Docente - cassia.silva@ifpr.edu.br
 
-Leandro José de Araujo - 1830946 - Assistente Social - leandro.araujo@ifpr.edu.br Marineide Maria Silva - 2308224 - Docente - marineide.silva@ifpr.edu.br 
+Leandro José de Araujo - 1830946 - Assistente Social - leandro.araujo@ifpr.edu.br Marineide Maria Silva - 2308224 - Docente - marineide.silva@ifpr.edu.br
 
-Priscila da Silva Duarte - 1791927 - Docente - priscila.duarte@ifpr.edu.br 
+Priscila da Silva Duarte - 1791927 - Docente - priscila.duarte@ifpr.edu.br
 
-3 
+3
 
-MinisteriodaEducacao InstitutoFederal doParana 
+MinisteriodaEducacao InstitutoFederal doParana
 
-INSTITUTOFEDERAL PARANA 
+INSTITUTOFEDERAL PARANA
 
-Tatiana Grasser - 1568830 - Docente - tatiane.grasser@ifpr.edu.br 
+Tatiana Grasser - 1568830 - Docente - tatiane.grasser@ifpr.edu.br
 
-**(** Portarias nº 114/2019 - **Comissão 2020 - REVISÃO DO PPC 2020/21)** 
+**(** Portarias nº 114/2019 - **Comissão 2020 - REVISÃO DO PPC 2020/21)**
 
-Adriana Pellanda Gagno - 1918242 - Docente - adriana.gagno@ifpr.edu.br 
+Adriana Pellanda Gagno - 1918242 - Docente - adriana.gagno@ifpr.edu.br
 
-Dalvani Fernandes - 1916548 - Docente - dalvani.fernandes@ifpr.edu.br 
+Dalvani Fernandes - 1916548 - Docente - dalvani.fernandes@ifpr.edu.br
 
-Joyce Luciane Correia Muzi - 1715408 - Docente - joyce.muzi@ifpr.edu.br 
+Joyce Luciane Correia Muzi - 1715408 - Docente - joyce.muzi@ifpr.edu.br
 
-Leandro José de Araujo - 1830946 - Assistente Social - leandro.araujo@ifpr.edu.br 
+Leandro José de Araujo - 1830946 - Assistente Social - leandro.araujo@ifpr.edu.br
 
-Priscila da Silva Duarte - 1791927 - Docente - priscila.duarte@ifpr.edu.br 
+Priscila da Silva Duarte - 1791927 - Docente - priscila.duarte@ifpr.edu.br
 
-## **3. Dados do Curso Proposto** 
+## **3. Dados do Curso Proposto**
 
-3.1 Tipo de curso (Lei nº 9394/96, Art. 44, III e Resolução CNE/CES n. 1/2018) 
+3.1 Tipo de curso (Lei nº 9394/96, Art. 44, III e Resolução CNE/CES n. 1/2018)
 
-( **X** ) Especialização 
+( **X** ) Especialização
 
-- (    ) Aperfeiçoamento 
+- (    ) Aperfeiçoamento
 
-## 3.2 Vagas 
+## 3.2 Vagas
 
-Mínimo: **20 vagas (Res. nº 18/2017, Art. 8º, § 1º, XI)** 
+Mínimo: **20 vagas (Res. nº 18/2017, Art. 8º, § 1º, XI)**
 
-Máximo: **30 vagas** 
+Máximo: **30 vagas**
 
-## 3.3 Modalidade 
+## 3.3 Modalidade
 
-( **X** ) Presencial 
+( **X** ) Presencial
 
-( ) Híbrido 
+( ) Híbrido
 
-( **X** ) Aberto ao público 
+( **X** ) Aberto ao público
 
-(    ) Turma Fechada 
+(    ) Turma Fechada
 
-## 3.4 Oferta: 
+## 3.4 Oferta:
 
-A primeira seleção ocorreu em novembro de 2018 com início em fevereiro de 2019. As novas ofertas acontecerão a cada 02 anos, com abertura do processo seletivo no segundo semestre. 
+A primeira seleção ocorreu em novembro de 2018 com início em fevereiro de 2019. As novas ofertas acontecerão a cada 02 anos, com abertura do processo seletivo no segundo semestre.
 
-3.4.1 Público-alvo: 
+3.4.1 Público-alvo:
 
-4 
+4
 
-MinisteriodaEducacao InstitutoFederal doParana 
+MinisteriodaEducacao InstitutoFederal doParana
 
-INSTITUTOFEDERAL PARANA 
+INSTITUTOFEDERAL PARANA
 
-O curso se destina a profissionais graduados em diferentes áreas do conhecimento, tais como: Serviço Social, Psicologia, Pedagogia, Administração, Gestão Pública, Direito, Ciências Contábeis, Sociologia, Ciência Política, dentre outras, preferencialmente àqueles que possuam afinidades com as políticas públicas contemporâneas. 
+O curso se destina a profissionais graduados em diferentes áreas do conhecimento, tais como: Serviço Social, Psicologia, Pedagogia, Administração, Gestão Pública, Direito, Ciências Contábeis, Sociologia, Ciência Política, dentre outras, preferencialmente àqueles que possuam afinidades com as políticas públicas contemporâneas.
 
-3.5 Local de realização do curso: IFPR – Campus Curitiba – Rua: João Negrão, n° 1285, Rebouças, Curitiba/PR. 3.6 Dia de realização do curso: Aos sábados, semanalmente. 3.7 Horário de início/término dos períodos: Das 8:30 hs às 12h e das 13h às 17:30 hs. 3.8 Previsão de início das aulas para: 2º edição previsão primeiro semestre de 2022. 3.9 Descrição da Carga Horária a) Carga Horária em Componentes Curriculares (obrigatórias): **360 horas** b) Carga Horária em atividade de elaboração, orientação e defesa de Trabalho de Conclusão de Curso (opcional): **TCC é um componente curricular.** c) Carga Horária em Atividades Complementares (opcional): **não se aplica.** d) Carga Horária Total dos Componentes Curriculares: **360 horas** 
+3.5 Local de realização do curso: IFPR – Campus Curitiba – Rua: João Negrão, n° 1285, Rebouças, Curitiba/PR. 3.6 Dia de realização do curso: Aos sábados, semanalmente. 3.7 Horário de início/término dos períodos: Das 8:30 hs às 12h e das 13h às 17:30 hs. 3.8 Previsão de início das aulas para: 2º edição previsão primeiro semestre de 2022. 3.9 Descrição da Carga Horária a) Carga Horária em Componentes Curriculares (obrigatórias): **360 horas** b) Carga Horária em atividade de elaboração, orientação e defesa de Trabalho de Conclusão de Curso (opcional): **TCC é um componente curricular.** c) Carga Horária em Atividades Complementares (opcional): **não se aplica.** d) Carga Horária Total dos Componentes Curriculares: **360 horas**
 
-## **4. Justificativa da proposta** 
+## **4. Justificativa da proposta**
 
-Nessa proposta utilizaremos a abordagem quantitativa para mostrar a realidade que pretendemos atingir. Trata-se do universo potencial de profissionais que são inseridos no mercado de trabalho anualmente. Esses profissionais poderão encontrar uma opção pública, gratuita e de qualidade para o seu aperfeiçoamento profissional. Conforme se verifica no público-alvo, a presente pós-graduação atingirá diretamente os formandos dos seguintes cursos: Serviço Social, Psicologia, Pedagogia, Administração, Gestão Pública, Direito, Ciências Contábeis, Sociologia e Ciência Política. 
+Nessa proposta utilizaremos a abordagem quantitativa para mostrar a realidade que pretendemos atingir. Trata-se do universo potencial de profissionais que são inseridos no mercado de trabalho anualmente. Esses profissionais poderão encontrar uma opção pública, gratuita e de qualidade para o seu aperfeiçoamento profissional. Conforme se verifica no público-alvo, a presente pós-graduação atingirá diretamente os formandos dos seguintes cursos: Serviço Social, Psicologia, Pedagogia, Administração, Gestão Pública, Direito, Ciências Contábeis, Sociologia e Ciência Política.
 
-5 
+5
 
-1INSTITUTOFEDERAL PARANA 
+1INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederal doParana 
+MinisteriodaEducacao InstitutoFederal doParana
 
-No portal EMEC, encontramos em Curitiba, conforme apresentado abaixo na tabela 1, a quantidade de 96 (noventa e seis) cursos de todas as graduações acima citadas. O número total de vagas abertas para todos os cursos citados, conforme consulta no referido portal, é de 39.642 (trinta e nove mil seiscentos e quarenta e duas) por ano. 
+No portal EMEC, encontramos em Curitiba, conforme apresentado abaixo na tabela 1, a quantidade de 96 (noventa e seis) cursos de todas as graduações acima citadas. O número total de vagas abertas para todos os cursos citados, conforme consulta no referido portal, é de 39.642 (trinta e nove mil seiscentos e quarenta e duas) por ano.
 
-Sabe-se que a maioria das instituições não ocupa todas as vagas abertas. Conforme dados do Censo da Educação Superior, cerca de 50% (cinquenta por cento) dessas vagas são ocupadas, ou seja, 19.821 (dezenove mil oitocentos e vinte e uma). Dessas, a taxa de concluintes, ainda conforme o Censo da Educação Superior, chega a 70% (setenta por cento), ou seja, tem-se uma taxa de evasão de 30% (trinta por cento). Ou seja, dentre os cursos em Curitiba que são público-alvo do presente curso, tem-se a média de 13.875 (treze mil oitocentos e setenta e cinco) concluintes por ano. Portanto este é o quadro geral da média de profissionais formados por ano e que compõem potencialmente a demanda de profissionais para o presente curso. 
+Sabe-se que a maioria das instituições não ocupa todas as vagas abertas. Conforme dados do Censo da Educação Superior, cerca de 50% (cinquenta por cento) dessas vagas são ocupadas, ou seja, 19.821 (dezenove mil oitocentos e vinte e uma). Dessas, a taxa de concluintes, ainda conforme o Censo da Educação Superior, chega a 70% (setenta por cento), ou seja, tem-se uma taxa de evasão de 30% (trinta por cento). Ou seja, dentre os cursos em Curitiba que são público-alvo do presente curso, tem-se a média de 13.875 (treze mil oitocentos e setenta e cinco) concluintes por ano. Portanto este é o quadro geral da média de profissionais formados por ano e que compõem potencialmente a demanda de profissionais para o presente curso.
 
-**Tabela 1 Cursos e vagas em Curitiba** 
+**Tabela 1 Cursos e vagas em Curitiba**
 
 |**Curso**|**Número* de**<br>**cursos**|**Número* de**|**Número de**<br>**vagas**<br>**abertas***|**Média de**<br>**vagas por**<br>**curso**|**50% de**<br>**ocupação****|**70% de**<br>**concluintes****|
 |---|---|---|---|---|---|---|
@@ -170,21 +170,19 @@ Sabe-se que a maioria das instituições não ocupa todas as vagas abertas. Conf
 |Sociologia|02||160|80|80|56|
 |**TOTAL**|**96**||**39.642**|**413**|**19.821**|**13.875**|
 
+_* Fonte: http://emec.mec.gov.br/ Acessado entre 01 e 10 de junho de 2016._
 
+_**Cálculos realizados com base no Censo da Educação Superior, no período de 1998 a 2007. Disponível em: http://portal.inep.gov.br/web/censo-da-educacao-superior/evolucao-1980-a-2007. Acessado em 01/07/2016._
 
-_* Fonte: http://emec.mec.gov.br/ Acessado entre 01 e 10 de junho de 2016._ 
+Entretanto, para uma análise mais completa da realidade, foram pesquisados no portal EMEC os cursos de pós-graduação que estão na mesma área do curso aqui proposto, destacando-se aqueles que possuem maior proximidade com a temática de Gestão Social de Políticas Públicas. A partir desse levantamento tem-se a tabela 2, conforme segue:
 
-_**Cálculos realizados com base no Censo da Educação Superior, no período de 1998 a 2007. Disponível em: http://portal.inep.gov.br/web/censo-da-educacao-superior/evolucao-1980-a-2007. Acessado em 01/07/2016._ 
+6
 
-Entretanto, para uma análise mais completa da realidade, foram pesquisados no portal EMEC os cursos de pós-graduação que estão na mesma área do curso aqui proposto, destacando-se aqueles que possuem maior proximidade com a temática de Gestão Social de Políticas Públicas. A partir desse levantamento tem-se a tabela 2, conforme segue: 
+MinisteriodaEducacao InstitutoFederal doParana
 
-6 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederal doParana 
-
-INSTITUTOFEDERAL PARANA 
-
-**Tabela 2 Cursos de pós-graduação em Curitiba** 
+**Tabela 2 Cursos de pós-graduação em Curitiba**
 
 |**Área**|**Quantidade de**<br>**cursos**|**Quantidade de cursos**<br>**com temática próxima**|**Média de**<br>**vagas por**<br>**curso**|**Total de vagas**|
 |---|---|---|---|---|
@@ -192,39 +190,37 @@ INSTITUTOFEDERAL PARANA
 |Humanidades e artes|87|05|100|500|
 |**TOTAL**|**534**|**46**|**-**|**4.600**|
 
+_Fonte: http://emec.mec.gov.br/ Acessado entre 01 e 10 de junho de 2016_
 
+As áreas pesquisadas foram de _Ciências sociais, negócios e direito_ e _Humanidades e artes_ , nas quais encontramos um total de 534 (quinhentos e trinta e quatro) cursos disponíveis em Curitiba. Desses, constatamos que 46 (quarenta e seis), ou seja, 8% (oito por cento) de todos os cursos de pós-graduação nas áreas pesquisadas se aproximam da temática proposta no presente projeto pedagógico. Verificou-se que a média de vagas anual é de 100 (cem) por curso, o que representa um total de 4.600 (quatro mil e seiscentas) vagas para absorver o total de 13.875 (treze mil oitocentos e setenta e cinco) formandos na área, ou seja, tem-se um público potencial de 67% (sessenta e sete por cento) dos formandos, o que em termos absolutos representa um número de 9.275 (nove mil duzentos e setenta e cinco).
 
-_Fonte: http://emec.mec.gov.br/ Acessado entre 01 e 10 de junho de 2016_ 
+Dentre outros pontos, poderiam ser consideradas vagas em outras possíveis áreas de pós-graduação, bem como em cursos de mestrado. Também existe a possível absorção desses formandos pelo mercado de trabalho, o que dificulta para muitos a continuidade dos estudos. Entretanto, para os fins aqui destinados, esses dados são suficientes para evidenciar um público potencial significativo  para o curso proposto.
 
-As áreas pesquisadas foram de _Ciências sociais, negócios e direito_ e _Humanidades e artes_ , nas quais encontramos um total de 534 (quinhentos e trinta e quatro) cursos disponíveis em Curitiba. Desses, constatamos que 46 (quarenta e seis), ou seja, 8% (oito por cento) de todos os cursos de pós-graduação nas áreas pesquisadas se aproximam da temática proposta no presente projeto pedagógico. Verificou-se que a média de vagas anual é de 100 (cem) por curso, o que representa um total de 4.600 (quatro mil e seiscentas) vagas para absorver o total de 13.875 (treze mil oitocentos e setenta e cinco) formandos na área, ou seja, tem-se um público potencial de 67% (sessenta e sete por cento) dos formandos, o que em termos absolutos representa um número de 9.275 (nove mil duzentos e setenta e cinco). 
+## **5. Objetivos da proposta**
 
-Dentre outros pontos, poderiam ser consideradas vagas em outras possíveis áreas de pós-graduação, bem como em cursos de mestrado. Também existe a possível absorção desses formandos pelo mercado de trabalho, o que dificulta para muitos a continuidade dos estudos. Entretanto, para os fins aqui destinados, esses dados são suficientes para evidenciar um público potencial significativo  para o curso proposto. 
+## **OBJETIVO GERAL**
 
-## **5. Objetivos da proposta** 
+Formar profissionais comprometidos com a participação social e a gestão social de políticas públicas.
 
-## **OBJETIVO GERAL** 
+## **OBJETIVOS ESPECÍFICOS**
 
-Formar profissionais comprometidos com a participação social e a gestão social de políticas públicas. 
+- Ampliar a compreensão crítica dos princípios que norteiam as políticas públicas, os conflitos de interesses entre grupos e classes sociais;
 
-## **OBJETIVOS ESPECÍFICOS** 
+- Aprofundar o conhecimento sobre métodos, técnicas e estudos que colaborem para o aprimoramento da prática e da teoria social sobre o Estado no que diz respeito à Gestão Social;
 
-- Ampliar a compreensão crítica dos princípios que norteiam as políticas públicas, os conflitos de interesses entre grupos e classes sociais; 
+7
 
-- Aprofundar o conhecimento sobre métodos, técnicas e estudos que colaborem para o aprimoramento da prática e da teoria social sobre o Estado no que diz respeito à Gestão Social; 
+INSTITUTOFEDERAL PARANA
 
-7 
+MinisteriodaEducacao InstitutoFederal doParana
 
-INSTITUTOFEDERAL PARANA 
+- Inspirar profissionais a compreenderem a realidade das políticas públicas, em diferentes escalas de gestão social com foco na participação social.
 
-MinisteriodaEducacao InstitutoFederal doParana 
+## **6. Metodologia de trabalho**
 
-- Inspirar profissionais a compreenderem a realidade das políticas públicas, em diferentes escalas de gestão social com foco na participação social. 
+A metodologia de trabalho adotada será composta por aulas presenciais, realizadas aos sábados, com duração de 4 horas no período da manhã; intervalo para almoço; mais 4 horas no período da tarde. Os componentes curriculares serão desenvolvidos a partir de aulas expositivo-dialogadas, estudos de caso, visitas técnicas, acesso a bases de dados, oficinas e seminários. Teremos 12 disciplinas ao longo do curso, quais sejam: Metodologia Científica; Sociedade e Questão social; Estado, Direitos Sociais e Políticas Sociais; Família e Diversidades; Territorialidade e Sujeitos Sociais; Políticas Sociais e Gestão Social; Planejamento Social e Estratégico; Política da Assistência Social; Políticas do Esporte e Lazer; Política da Educação; TCC 1; e, TCC 2. As disciplinas poderão ter um ou mais professores/as, enriquecendo a experiência dos estudantes e da diversidade de abordagens em cada área.
 
-## **6. Metodologia de trabalho** 
-
-A metodologia de trabalho adotada será composta por aulas presenciais, realizadas aos sábados, com duração de 4 horas no período da manhã; intervalo para almoço; mais 4 horas no período da tarde. Os componentes curriculares serão desenvolvidos a partir de aulas expositivo-dialogadas, estudos de caso, visitas técnicas, acesso a bases de dados, oficinas e seminários. Teremos 12 disciplinas ao longo do curso, quais sejam: Metodologia Científica; Sociedade e Questão social; Estado, Direitos Sociais e Políticas Sociais; Família e Diversidades; Territorialidade e Sujeitos Sociais; Políticas Sociais e Gestão Social; Planejamento Social e Estratégico; Política da Assistência Social; Políticas do Esporte e Lazer; Política da Educação; TCC 1; e, TCC 2. As disciplinas poderão ter um ou mais professores/as, enriquecendo a experiência dos estudantes e da diversidade de abordagens em cada área. 
-
-## **7. Cronograma das atividades:** 
+## **7. Cronograma das atividades:**
 
 |**7. Cronograma das atividades:**|**7. Cronograma das atividades:**|**7. Cronograma das atividades:**|**7. Cronograma das atividades:**|**7. Cronograma das atividades:**|**7. Cronograma das atividades:**|**7. Cronograma das atividades:**|**7. Cronograma das atividades:**|**7. Cronograma das atividades:**|**7. Cronograma das atividades:**|**7. Cronograma das atividades:**|**7. Cronograma das atividades:**|**7. Cronograma das atividades:**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -242,22 +238,18 @@ A metodologia de trabalho adotada será composta por aulas presenciais, realizad
 |Apresentação do TCC||||||**X**|**X**|**X**|**X**||||
 |Entrega da versão final do TCC*||||||||**X**|**X**|**X**|||
 
+* Deverá ser observado o Regulamento do TCC, ANEXO IV.
 
-
-* Deverá ser observado o Regulamento do TCC, ANEXO IV. 
-
-**8. Relação do Corpo docente** (Quadro sinótico adotado pela Res. nº 18/2017 – Consup/IFPR) 
+**8. Relação do Corpo docente** (Quadro sinótico adotado pela Res. nº 18/2017 – Consup/IFPR)
 
 |**Nome**<br>**Completo**|**Formação**|**Titulação**|**Lotação ou**<br>**Instituição**<br>**de origem**|**Componente**<br>**Curricular**|**Carga**<br>**Horária**|**Curriculum**<br>**Lattes**<br>**Atualizado**<br>**(Link)**|
 |---|---|---|---|---|---|---|
 
+8
 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-8 
-
-MinisteriodaEducacao InstitutoFederaldoParana 
-
-## 1INSTITUTOFEDERAL PARANA 
+## 1INSTITUTOFEDERAL PARANA
 
 |Adriana<br>Pellanda<br>Gagno|Graduação em<br>Psicologia (1996),<br>licenciada (1995)|Mestra (2002) e Doutora<br>(2018) em Psicologia pela<br>Universidade Federal do<br>Paraná (UFPR). Realizou<br>aperfeiçoamento (2005)<br>em Saúde Mental pela<br>Escola Nacional de Saúde<br>Pública (ENSP/FIOCRUZ).|IFPR<br>(Campus<br>Curitiba)|1. Família e<br>diversidades|32h|http://lattes<br>.cnpq.br/25<br>364054213<br>36976|
 |---|---|---|---|---|---|---|
@@ -268,13 +260,11 @@ MinisteriodaEducacao InstitutoFederaldoParana
 |Érika Pessanha<br>d’Oliveira|Graduação em<br>Psicologia na<br>UNESP.|Mestra em Psicologia da<br>Educação pela PUCSP.<br>Doutora na UNICAMP, no<br>grupo FOCUS da<br>Faculdade de Educação.|IFPR<br>(Campus<br>Curitiba)|1. Família e<br>diversidades|32h|http://lattes<br>.cnpq.br/55<br>255589555<br>03972|
 |Izabelle<br>Cristinne<br>Rizental Garcia<br>(Docente<br>colaborador lato<br>sensu)|Graduação em<br>Psicologia pela<br>UFPR (2015)|Mestra em Psicologia pela<br>Universidade Federal do<br>Paraná (2018).|Prefeitura<br>de Campo<br>Largo|1. Política da<br>Assistência<br>Social|12h|http://lattes<br>.cnpq.br/73<br>634276859<br>59990|
 
+9
 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-9 
-
-MinisteriodaEducacao InstitutoFederaldoParana 
-
-## INSTITUTOFEDERAL PARANA 
+## INSTITUTOFEDERAL PARANA
 
 |Joyce Luciane<br>Correia Muzi|Formação em<br>Letras,<br>licenciatura<br>Português e<br>Espanhol pela<br>UFPR (2006)  e em<br>Educação Bilíngue<br>para Surdos e<br>Surdas.|Doutora em Letras pela<br>Universidade Estadual de<br>Maringá (2016). Mestra em<br>Tecnologia pela<br>Universidade Tecnológica<br>Federal do Paraná (UTFPR,<br>2011) e Mestra em<br>Ciências da Educação pela<br>Universidad del<br>Norte/Asunción/Py (2010).|IFPR<br>(Campus<br>Curitiba)|1. Metodologia<br>Científica|32h|http://lattes<br>.cnpq.br/36<br>035839575<br>96083<br>~~三~~|
 |---|---|---|---|---|---|---|
@@ -286,117 +276,113 @@ MinisteriodaEducacao InstitutoFederaldoParana
 |Priscila da Silva<br>Duarte|Bacharel em<br>Administração e<br>Licenciada em<br>Letras-<br>Português/Inglês.|Doutora em<br>Administração pela<br>Fundação Getúlio Vargas e<br>Mestra em Administração<br>pela Universidade Positivo.<br>Possui especializações em<br>Publicidade, Propaganda e<br>Marketing, Gestão de<br>Pessoas, Gestão Pública e<br>em Educação Profissional.|IFPR<br>(Campus<br>Curitiba)|1. Planejamento<br>social e<br>estratégico|24h|http://lattes<br>.cnpq.br/45<br>759054059<br>86898|
 |Vanderci B.<br>Ruschel|Graduação em<br>Ciências Sociais<br>pela Universidade<br>Federal de Santa<br>Catarina (1997)|ão Profissional.<br>Mestre em Educação pela<br>Universidade Federal de<br>Santa Catarina (2001) e<br>doutor em Ciências Sociais<br>pela Universidade<br>Estadual de Campinas<br>(2010).|IFPR<br>(Campus<br>Curitiba)|1. Sociedade e<br>Questão Social|32h|http://lattes.<br>cnpq.br/122<br>1545585807<br>388|
 
+10
 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-10 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
-
-INSTITUTOFEDERAL PARANA 
-
-## **8.1 Grupos de Pesquisa (formal ou informal) do corpo docente elencado no curso proposto** 
+## **8.1 Grupos de Pesquisa (formal ou informal) do corpo docente elencado no curso proposto**
 
 |**GRUPO DE PESQUISA**|**GRUPO DE PESQUISA**|**GRUPO DE PESQUISA**|**TIPO DO GRUPO**|**LINHA(S) DE PESQUISA**|**PESQUISADOR (ES)**<br>**VINCULADO (S)**|
 |---|---|---|---|---|---|
 ||||**_NÃO HÁ GRUPO DE PESQUISA*_**|||
 
+* Os\as docentes elencados/as neste projeto não possuem grupos de pesquisa e extensão relacionados a área do curso, foram todos/as convidados/as levando-se em consideração suas respectivas áreas de formação, não necessariamente suas pesquisas.
 
+## **9. Funcionamento do curso**
 
-* Os\as docentes elencados/as neste projeto não possuem grupos de pesquisa e extensão relacionados a área do curso, foram todos/as convidados/as levando-se em consideração suas respectivas áreas de formação, não necessariamente suas pesquisas. 
+## 9.1 Etapas do Processo Seletivo para ingresso
 
-## **9. Funcionamento do curso** 
+a) Currículo: será solicitado currículo lattes com a documentação que comprove a experiência na área (políticas públicas) e publicações. A avaliação do currículo terá peso de 30%.
 
-## 9.1 Etapas do Processo Seletivo para ingresso 
+b) Carta de Intenção: tem por objetivo oferecer ao candidato/a a possibilidade de se apresentar, falar sobre sua trajetória acadêmica e justificar seu interesse em estudar gestão em políticas públicas. Na análise da carta de intenção serão observados, além dos aspectos relativos à normatização da língua portuguesa, acentuação, sintaxe, o(s) argumento(s) dos/as candidatos/as, assim como a clareza, a coerência e a relevância dos objetivos de estudo. A carta de intenção terá peso de 70%.
 
-a) Currículo: será solicitado currículo lattes com a documentação que comprove a experiência na área (políticas públicas) e publicações. A avaliação do currículo terá peso de 30%. 
+## 9.1.1 Período de inscrição
 
-b) Carta de Intenção: tem por objetivo oferecer ao candidato/a a possibilidade de se apresentar, falar sobre sua trajetória acadêmica e justificar seu interesse em estudar gestão em políticas públicas. Na análise da carta de intenção serão observados, além dos aspectos relativos à normatização da língua portuguesa, acentuação, sintaxe, o(s) argumento(s) dos/as candidatos/as, assim como a clareza, a coerência e a relevância dos objetivos de estudo. A carta de intenção terá peso de 70%. 
+A cada 02 (dois) anos, preferencialmente 3 (três) meses após o encerramento das aulas da turma anterior.
 
-## 9.1.1 Período de inscrição 
+## 9.1.2 Pré-requisitos
 
-A cada 02 (dois) anos, preferencialmente 3 (três) meses após o encerramento das aulas da turma anterior. 
+Conclusão de ensino superior.
 
-## 9.1.2 Pré-requisitos 
+9.1.3 Etapas de seleção/avaliação:
 
-Conclusão de ensino superior. 
+(     ) Prova
 
-9.1.3 Etapas de seleção/avaliação: 
+(     ) Entrevista
 
-(     ) Prova 
+( **X** ) Currículo
 
-(     ) Entrevista 
+- ( **X** ) Experiência
 
-( **X** ) Currículo 
+- ( **X** ) Outras: carta de intenções
 
-- ( **X** ) Experiência 
+11
 
-- ( **X** ) Outras: carta de intenções 
+MinisteriodaEducacao InstitutoFederal doParana
 
-11 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederal doParana 
+## **10. Metodologia de trabalho e avaliação do desempenho do estudante**
 
-INSTITUTOFEDERAL PARANA 
+As estratégias pedagógicas levarão em conta o perfil discente, suas necessidades e o respectivo acúmulo do conhecimento produzido na área. A avaliação poderá acontecer de forma processual e diagnóstica, ficando a cargo do/a docente a combinação de peso e intensidade de cada forma. Recomenda-se acontecer em diversos momentos e formatos, valorizando as diversas capacidades e explorando as diversas potencialidades dos/as estudantes. Para as disciplinas com carga horária de 24h, deverá ser proposta no mínimo uma avaliação de tipo diagnóstica, e para as disciplinas com carga horária superior às 24h recomendam-se no mínimo duas avaliações. Entretanto, a avaliação diagnóstica não deverá compor o único instrumento utilizado, ou seja, fica vedado ao/à docente submeter o/a estudante a uma única oportunidade e a um único instrumento de avaliação. Os resultados das avaliações serão expressos em conceitos A, B, C ou D. Será considerado aprovado aquele/a que obtiver os conceitos A, B ou C e frequência igual ou superior a 75% (setenta e cinco por cento) na unidade/área curricular. Caso o/a discente não alcance conceito suficiente para aprovação, caberá ao/à professor/a de cada disciplina oferecer a possibilidade de recuperação do conceito.
 
-## **10. Metodologia de trabalho e avaliação do desempenho do estudante** 
+## **11. Critérios de aproveitamento de estudos anteriores**
 
-As estratégias pedagógicas levarão em conta o perfil discente, suas necessidades e o respectivo acúmulo do conhecimento produzido na área. A avaliação poderá acontecer de forma processual e diagnóstica, ficando a cargo do/a docente a combinação de peso e intensidade de cada forma. Recomenda-se acontecer em diversos momentos e formatos, valorizando as diversas capacidades e explorando as diversas potencialidades dos/as estudantes. Para as disciplinas com carga horária de 24h, deverá ser proposta no mínimo uma avaliação de tipo diagnóstica, e para as disciplinas com carga horária superior às 24h recomendam-se no mínimo duas avaliações. Entretanto, a avaliação diagnóstica não deverá compor o único instrumento utilizado, ou seja, fica vedado ao/à docente submeter o/a estudante a uma única oportunidade e a um único instrumento de avaliação. Os resultados das avaliações serão expressos em conceitos A, B, C ou D. Será considerado aprovado aquele/a que obtiver os conceitos A, B ou C e frequência igual ou superior a 75% (setenta e cinco por cento) na unidade/área curricular. Caso o/a discente não alcance conceito suficiente para aprovação, caberá ao/à professor/a de cada disciplina oferecer a possibilidade de recuperação do conceito. 
+O aproveitamento de estudos será feito no ato da matrícula mediante o reconhecimento da identidade ou equivalência entre disciplinas, suas cargas horárias e ementas, totalizando, no mínimo, 75% de similaridade entre as ementas. São passíveis de aproveitamento estudos realizados em outro curso de pós-graduação (lato e stricto sensu). A análise ficará a cargo da Coordenação do Curso e do/a professor/a responsável pela disciplina tendo como base a legislação vigente dos cursos de Pós-Graduação do IFPR. Os documentos que deverão ser apresentados para a análise do aproveitamento de estudos no ato da matrícula são:
 
-## **11. Critérios de aproveitamento de estudos anteriores** 
+_i)_ Histórico escolar original ou documento equivalente que ateste os componentes curriculares cursados, a respectiva carga horária, a nota ou o conceito, e o período letivo de integralização; _ii)_ Cópia autenticada pela Instituição de origem dos planos de ensino dos
 
-O aproveitamento de estudos será feito no ato da matrícula mediante o reconhecimento da identidade ou equivalência entre disciplinas, suas cargas horárias e ementas, totalizando, no mínimo, 75% de similaridade entre as ementas. São passíveis de aproveitamento estudos realizados em outro curso de pós-graduação (lato e stricto sensu). A análise ficará a cargo da Coordenação do Curso e do/a professor/a responsável pela disciplina tendo como base a legislação vigente dos cursos de Pós-Graduação do IFPR. Os documentos que deverão ser apresentados para a análise do aproveitamento de estudos no ato da matrícula são: 
+12
 
-_i)_ Histórico escolar original ou documento equivalente que ateste os componentes curriculares cursados, a respectiva carga horária, a nota ou o conceito, e o período letivo de integralização; _ii)_ Cópia autenticada pela Instituição de origem dos planos de ensino dos 
+1 INSTITUTOFEDERAL PARANA
 
-12 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-1 INSTITUTOFEDERAL PARANA 
+componentes curriculares cursados e aprovados, constantes no histórico escolar;
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+_iii)_ Critérios de avaliação da instituição de origem, contendo a tabela de conversão de conceitos em notas, quando for o caso;
 
-componentes curriculares cursados e aprovados, constantes no histórico escolar; 
+_iv)_ Documento expedido pela Instituição de origem em que conste o número e a data do ato de autorização ou reconhecimento do curso.
 
-_iii)_ Critérios de avaliação da instituição de origem, contendo a tabela de conversão de conceitos em notas, quando for o caso; 
+Os documentos poderão ser entregues em forma de fotocópia autenticada ou cópia simples mediante apresentação do original, a ser atestada por servidor público do campus. O pedido de aproveitamento de estudos deverá ser efetuado na Secretaria Acadêmica do Campus Curitiba do IFPR, no ato da matrícula, acompanhado dos documentos citados anteriormente.
 
-_iv)_ Documento expedido pela Instituição de origem em que conste o número e a data do ato de autorização ou reconhecimento do curso. 
+## **12. Elaboração e orientação do trabalho de conclusão de curso**
 
-Os documentos poderão ser entregues em forma de fotocópia autenticada ou cópia simples mediante apresentação do original, a ser atestada por servidor público do campus. O pedido de aproveitamento de estudos deverá ser efetuado na Secretaria Acadêmica do Campus Curitiba do IFPR, no ato da matrícula, acompanhado dos documentos citados anteriormente. 
+O Trabalho de Conclusão de Curso - TCC é uma atividade científica que será desenvolvida mediante orientação, acompanhamento e avaliação docente. É de cunho obrigatório uma vez que a sua realização garantirá a integralização dos componentes curriculares do curso. Trata-se da execução de uma atividade visando a elaboração de um texto científico na forma de artigo, que poderá ser desenvolvido individualmente ou em dupla. São objetivos do TCC: a) Possibilitar e incentivar a inserção dos/as discentes na pesquisa científica; b) Proporcionar a sistematização do conhecimento científico criando condições para o desenvolvimento da gestão social nas políticas públicas; c) Organizar o conhecimento construído durante o curso na forma de produção e elaboração do pensamento científico. A organização e apresentação do TCC seguirão as normas para elaboração de trabalho acadêmico e produções científicas do Instituto Federal do Paraná, que estão de acordo com as normas da ABNT. Para a realização do TCC o/a estudante terá um professor/a-orientador/a da instituição, com formação stricto sensu (mestrado ou doutorado) ou lato sensu (especialização), que será responsável por sua orientação. A lista dos/as professores/as orientadores/as disponíveis deverá ser divulgada com antecedência, levando em consideração as respectivas linhas de pesquisa do curso. Caberá
 
-## **12. Elaboração e orientação do trabalho de conclusão de curso** 
+13
 
-O Trabalho de Conclusão de Curso - TCC é uma atividade científica que será desenvolvida mediante orientação, acompanhamento e avaliação docente. É de cunho obrigatório uma vez que a sua realização garantirá a integralização dos componentes curriculares do curso. Trata-se da execução de uma atividade visando a elaboração de um texto científico na forma de artigo, que poderá ser desenvolvido individualmente ou em dupla. São objetivos do TCC: a) Possibilitar e incentivar a inserção dos/as discentes na pesquisa científica; b) Proporcionar a sistematização do conhecimento científico criando condições para o desenvolvimento da gestão social nas políticas públicas; c) Organizar o conhecimento construído durante o curso na forma de produção e elaboração do pensamento científico. A organização e apresentação do TCC seguirão as normas para elaboração de trabalho acadêmico e produções científicas do Instituto Federal do Paraná, que estão de acordo com as normas da ABNT. Para a realização do TCC o/a estudante terá um professor/a-orientador/a da instituição, com formação stricto sensu (mestrado ou doutorado) ou lato sensu (especialização), que será responsável por sua orientação. A lista dos/as professores/as orientadores/as disponíveis deverá ser divulgada com antecedência, levando em consideração as respectivas linhas de pesquisa do curso. Caberá 
+1 INSTITUTOFEDERAL PARANA
 
-13 
+MinisteriodaEducacao InstitutoFederal doParana
 
-1 INSTITUTOFEDERAL PARANA 
+ao/à professor/a-orientador/a definir com o/a orientando/a os locais, os horários de atendimento e outras providências necessárias para a realização do TCC, que será ofertado em dois componentes curriculares: TCC 1 (40h) e TCC 2 (40h). Do mesmo modo, para ser aprovado/a nos componentes curriculares TCC 1 e 2, o/a estudante deverá ter no mínimo 75% de frequência nos encontros de orientação e atingir conceitos A, B ou C.
 
-MinisteriodaEducacao InstitutoFederal doParana 
+Para efeito de avaliação, o TCC será submetido a: a) Acompanhamento contínuo do/a professor/a orientador/a; b) Desenvolvimento das atividades de orientação; c) Entrega e apresentação do TCC; e) Apreciação do TCC por comissão examinadora. A comissão será composta por dois/duas professores/as do curso ou convidados/as que tenham titulação e experiência comprovada na área.
 
-ao/à professor/a-orientador/a definir com o/a orientando/a os locais, os horários de atendimento e outras providências necessárias para a realização do TCC, que será ofertado em dois componentes curriculares: TCC 1 (40h) e TCC 2 (40h). Do mesmo modo, para ser aprovado/a nos componentes curriculares TCC 1 e 2, o/a estudante deverá ter no mínimo 75% de frequência nos encontros de orientação e atingir conceitos A, B ou C. 
+Será considerado aprovado/a no TCC o/a estudante que obtiver conceitos A, B ou C e reprovado/a se obtiver conceito D. O conceito será atribuído mediante a avaliação do trabalho escrito que será realizada pela banca examinadora. A apresentação oral do trabalho é obrigatória, porém não terá caráter avaliativo, e será divulgada previamente pela coordenação do curso; o objetivo é a divulgação da produção científica, proporcionando espaço para compartilhar com a comunidade os resultados obtidos.
 
-Para efeito de avaliação, o TCC será submetido a: a) Acompanhamento contínuo do/a professor/a orientador/a; b) Desenvolvimento das atividades de orientação; c) Entrega e apresentação do TCC; e) Apreciação do TCC por comissão examinadora. A comissão será composta por dois/duas professores/as do curso ou convidados/as que tenham titulação e experiência comprovada na área. 
+O regulamento das atividades do TCC foi aprovado em reunião do colegiado no dia 13 de março de 2020 e encontra-se disponível em anexo.
 
-Será considerado aprovado/a no TCC o/a estudante que obtiver conceitos A, B ou C e reprovado/a se obtiver conceito D. O conceito será atribuído mediante a avaliação do trabalho escrito que será realizada pela banca examinadora. A apresentação oral do trabalho é obrigatória, porém não terá caráter avaliativo, e será divulgada previamente pela coordenação do curso; o objetivo é a divulgação da produção científica, proporcionando espaço para compartilhar com a comunidade os resultados obtidos. 
+## **13. Condições de aprovação no curso**
 
-O regulamento das atividades do TCC foi aprovado em reunião do colegiado no dia 13 de março de 2020 e encontra-se disponível em anexo. 
+Será considerado aprovado o/a estudante que obtiver os conceitos A, B ou C e frequência igual ou superior a 75% (setenta e cinco por cento) na unidade/área curricular; e, obtiver aprovação no TCC. Neste curso serão franqueados conhecimentos imprescindíveis para que o/a profissional que esteja inserido/a nas políticas sociais tenha a competência de gerenciar equipes multidisciplinares e de elaborar projetos que possam resultar em produtos ou serviços que agreguem valores à instituição e/ou à sociedade.
 
-## **13. Condições de aprovação no curso** 
+## **14. Certificados e graus acadêmicos obtidos**
 
-Será considerado aprovado o/a estudante que obtiver os conceitos A, B ou C e frequência igual ou superior a 75% (setenta e cinco por cento) na unidade/área curricular; e, obtiver aprovação no TCC. Neste curso serão franqueados conhecimentos imprescindíveis para que o/a profissional que esteja inserido/a nas políticas sociais tenha a competência de gerenciar equipes multidisciplinares e de elaborar projetos que possam resultar em produtos ou serviços que agreguem valores à instituição e/ou à sociedade. 
+Conforme Resolução CONSUP/IFPR nº 09/2014, o IFPR expedirá o certificado de conclusão do curso de “Especialização em Gestão Social de Políticas Públicas” para todos os/as estudantes que concluírem com êxito o curso, mantendo um mínimo de frequência de 75%, conceito mínimo C para todas as disciplinas e aprovação no TCC. Terá direito ao
 
-## **14. Certificados e graus acadêmicos obtidos** 
+14
 
-Conforme Resolução CONSUP/IFPR nº 09/2014, o IFPR expedirá o certificado de conclusão do curso de “Especialização em Gestão Social de Políticas Públicas” para todos os/as estudantes que concluírem com êxito o curso, mantendo um mínimo de frequência de 75%, conceito mínimo C para todas as disciplinas e aprovação no TCC. Terá direito ao 
+INSTITUTOFEDERAL PARANA
 
-14 
+MinisteriodaEducacao InstitutoFederal doParana
 
-INSTITUTOFEDERAL PARANA 
+certificado de “Aperfeiçoamento em Gestão Social de Políticas Públicas”, o/a estudante do curso de Especialização que tenha concluído todas as disciplinas, porém não apresente o trabalho final (TCC), ou tendo apresentado, seja considerado insatisfatório.
 
-MinisteriodaEducacao InstitutoFederal doParana 
-
-certificado de “Aperfeiçoamento em Gestão Social de Políticas Públicas”, o/a estudante do curso de Especialização que tenha concluído todas as disciplinas, porém não apresente o trabalho final (TCC), ou tendo apresentado, seja considerado insatisfatório. 
-
-## **15. Quadro de disciplinas** (Quadro sinótico adotado pela Resolução nº 18/2017 – Consup/IFPR) 
+## **15. Quadro de disciplinas** (Quadro sinótico adotado pela Resolução nº 18/2017 – Consup/IFPR)
 
 |**15. Quadro de disciplinas** (Quadro sinótico adotado pela Resolução nº 18/2017 – Consup/IFPR)|**15. Quadro de disciplinas** (Quadro sinótico adotado pela Resolução nº 18/2017 – Consup/IFPR)|
 |---|---|
@@ -415,11 +401,9 @@ certificado de “Aperfeiçoamento em Gestão Social de Políticas Públicas”,
 |12. Trabalho de Conclusão de Curso 2|40|
 |**Carga Horária Total**|**360**|
 
+## **16. Quadro Sinótico da Matriz Curricular**
 
-
-## **16. Quadro Sinótico da Matriz Curricular** 
-
-(MODELO RECOMENDADO – pode ser adaptado a critério da comissão de estruturação do curso) 
+(MODELO RECOMENDADO – pode ser adaptado a critério da comissão de estruturação do curso)
 
 |**Disciplinas**|**Professores/as**|**Tipo de**|**C.H.**|
 |---|---|---|---|
@@ -431,13 +415,11 @@ certificado de “Aperfeiçoamento em Gestão Social de Políticas Públicas”,
 |Políticas Sociais||||
 ||Marineide Maria Silva|||
 
+15
 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-15 
-
-MinisteriodaEducacao InstitutoFederaldoParana 
-
-INSTITUTOFEDERAL PARANA 
+INSTITUTOFEDERAL PARANA
 
 |4. Família e Diversidades|Adriana Pellanda Gagno<br>Érika Pessanha d’ Oliveira|Obrigatória|32|
 |---|---|---|---|
@@ -451,251 +433,249 @@ INSTITUTOFEDERAL PARANA
 |12. Trabalho de Conclusão de<br>Curso 2|Orientador/a|Obrigatória|40|
 |||**TOTAL**|**360**|
 
+## **16.1 Plano(s) de Ensino dos Componentes Curriculares elencados na Matriz Curricular**
 
+## **1. IDENTIFICAÇÃO DA DISCIPLINA**
 
-## **16.1 Plano(s) de Ensino dos Componentes Curriculares elencados na Matriz Curricular** 
+**Curso:** Gestão Social de Políticas Públicas **Componente Curricular:** Metodologia Científica
 
-## **1. IDENTIFICAÇÃO DA DISCIPLINA** 
+16
 
-**Curso:** Gestão Social de Políticas Públicas **Componente Curricular:** Metodologia Científica 
+INSTITUTOFEDERAL PARANA
 
-16 
+MinisteriodaEducacao InstitutoFederal doParana
 
-INSTITUTOFEDERAL PARANA 
+**Carga horária:** 32 horas relógio
 
-MinisteriodaEducacao InstitutoFederal doParana 
+## **2. EMENTA**
 
-**Carga horária:** 32 horas relógio 
+Ciência, Técnica e Tecnologia e sua vinculação com as ciências sociais. Escrita e leitura acadêmico-científica. Procedimentos investigativos: características, metodologias, vinculação teórica. Elaboração do Pré-Projeto de Pesquisa.
 
-## **2. EMENTA** 
+## **3. OBJETIVOS DO COMPONENTE CURRICULAR (geral e específicos)**
 
-Ciência, Técnica e Tecnologia e sua vinculação com as ciências sociais. Escrita e leitura acadêmico-científica. Procedimentos investigativos: características, metodologias, vinculação teórica. Elaboração do Pré-Projeto de Pesquisa. 
+Geral:
 
-## **3. OBJETIVOS DO COMPONENTE CURRICULAR (geral e específicos)** 
+- Compreender os princípios científicos e de pesquisa necessários para o desenvolvimento de textos acadêmicos a nível de pós-graduação. Específicos:
 
-Geral: 
+- Contextualizar a ciência e método científico como base para as pesquisas acadêmicas;
 
-- Compreender os princípios científicos e de pesquisa necessários para o desenvolvimento de textos acadêmicos a nível de pós-graduação. Específicos: 
+- - Diferenciar os textos acadêmicos e reforçar a leitura e a escrita como bases para a produção acadêmico-científica;
 
-- Contextualizar a ciência e método científico como base para as pesquisas acadêmicas; 
+- Analisar as metodologias, técnicas e instrumentos das pesquisas sociais;
 
-- - Diferenciar os textos acadêmicos e reforçar a leitura e a escrita como bases para a produção acadêmico-científica; 
+- Elaborar o pré-projeto de pesquisa como base para o desenvolvimento do TCC.
 
-- Analisar as metodologias, técnicas e instrumentos das pesquisas sociais; 
+## **4. MÉTODOS DE AVALIAÇÃO**
 
-- Elaborar o pré-projeto de pesquisa como base para o desenvolvimento do TCC. 
+O ensino da Ciência, por meio da Metodologia Científica, passa por um processo no qual o professor deve estar atualizado com as tecnologias atuais para tornar as aulas um processo mais dinâmico e interativo, atendendo assim às necessidades dos discentes, sem deixar de lado as questões teórico-metodológicas referentes à Ciência. Sendo assim, no desenvolvimento do componente curricular serão utilizadas aulas expositivas e dialogadas sobre temas diversos, leitura de bibliografias de referência na área, análise de recursos audiovisuais (vídeos, filmes e podcasts) e apresentação do pré-projeto de Pesquisa.
 
-## **4. MÉTODOS DE AVALIAÇÃO** 
+Para a avaliação dos resultados obtidos pelos discentes serão utilizados critérios qualitativos sobre os quantitativos. Basicamente, se fará uso de atividades individuais ou em grupo, produções textuais, análise de textos de referência, produções audiovisuais e produção do pré-projeto de pesquisa. O total das avaliações permitirá determinar o conceito final (A, B, C ou D) com base no aproveitamento e participação, seguindo como princípio a resolução 50/2017 IFPR.
 
-O ensino da Ciência, por meio da Metodologia Científica, passa por um processo no qual o professor deve estar atualizado com as tecnologias atuais para tornar as aulas um processo mais dinâmico e interativo, atendendo assim às necessidades dos discentes, sem deixar de lado as questões teórico-metodológicas referentes à Ciência. Sendo assim, no desenvolvimento do componente curricular serão utilizadas aulas expositivas e dialogadas sobre temas diversos, leitura de bibliografias de referência na área, análise de recursos audiovisuais (vídeos, filmes e podcasts) e apresentação do pré-projeto de Pesquisa. 
+## **5. REFERÊNCIAS**
 
-Para a avaliação dos resultados obtidos pelos discentes serão utilizados critérios qualitativos sobre os quantitativos. Basicamente, se fará uso de atividades individuais ou em grupo, produções textuais, análise de textos de referência, produções audiovisuais e produção do pré-projeto de pesquisa. O total das avaliações permitirá determinar o conceito final (A, B, C ou D) com base no aproveitamento e participação, seguindo como princípio a resolução 50/2017 IFPR. 
+**5.1 REFERÊNCIAS BÁSICAS** GIL, A. C. **Métodos e Técnicas de Pesquisa Social.** 6 ed. São Paulo: Atlas, 2011. 200 p. GUIMARÃES, Thelma de Carvalho. **Comunicação e linguagem** . São Paulo: Pearson, 2012. MATTOS, Sandra Maria Nascimento de. **Conversando sobre metodologia da pesquisa científica** [recurso eletrônico]. Porto Alegre, RS: Editora Fi, 2020. **5.2 REFERÊNCIAS COMPLEMENTARES** GIL, A. C. **Como elaborar um projeto de pesquisa.** 4 ed. São Paulo: Atlas, 2009. KERLINGER, F. N. **Metodologia da pesquisa em ciências sociais:** um tratamento conceitual. São Paulo, EPU, 1980. 378 p. TRIVIÑOS, A. N. S. **Introdução à Pesquisa em ciências sociais:** a pesquisa qualitativa em
 
-## **5. REFERÊNCIAS** 
+17
 
-**5.1 REFERÊNCIAS BÁSICAS** GIL, A. C. **Métodos e Técnicas de Pesquisa Social.** 6 ed. São Paulo: Atlas, 2011. 200 p. GUIMARÃES, Thelma de Carvalho. **Comunicação e linguagem** . São Paulo: Pearson, 2012. MATTOS, Sandra Maria Nascimento de. **Conversando sobre metodologia da pesquisa científica** [recurso eletrônico]. Porto Alegre, RS: Editora Fi, 2020. **5.2 REFERÊNCIAS COMPLEMENTARES** GIL, A. C. **Como elaborar um projeto de pesquisa.** 4 ed. São Paulo: Atlas, 2009. KERLINGER, F. N. **Metodologia da pesquisa em ciências sociais:** um tratamento conceitual. São Paulo, EPU, 1980. 378 p. TRIVIÑOS, A. N. S. **Introdução à Pesquisa em ciências sociais:** a pesquisa qualitativa em 
+MinisteriodaEducacao InstitutoFederal doParana
 
-17 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederal doParana 
+educação. São Paulo: Atlas, 2011. 176 p.
 
-INSTITUTOFEDERAL PARANA 
+## **1. IDENTIFICAÇÃO DA DISCIPLINA**
 
-educação. São Paulo: Atlas, 2011. 176 p. 
+**Curso:** Gestão Social de Políticas Públicas
 
-## **1. IDENTIFICAÇÃO DA DISCIPLINA** 
+**Componente Curricular:** Sociedade e Questão social
 
-**Curso:** Gestão Social de Políticas Públicas 
+**Carga horária:** 32 horas relógio
 
-**Componente Curricular:** Sociedade e Questão social 
+## **2. EMENTA**
 
-**Carga horária:** 32 horas relógio 
+1. O que é Sociedade? Teorias Sociais. Iluminismo; Positivismo; Materialismo e sociologia compreensiva. 2. Como as sociedades “funcionam”: Funcionalismo e coesão social; Conflito social e Dominação de classe; Consenso social e dominação; Poder, política, ideologia e Estado. 3. Como as sociedades mudam? Comunidade e Sociedade; capitalismo, racionalidade e divisão social do trabalho; transformações da sociedade capitalista. 4. Como surgiram os direitos? Desigualdade e exploração de classe, Movimentos sociais e luta por direitos; a emergência da “Questão Social”. 5. Sociedade Brasileira: Colônia de exploração e escravidão; Capitalismo dependente, economia agrário-exportadora, industrialização e modernização; desigualdades sociais; movimentos sociais, direitos, cidadania e a questão social.
 
-## **2. EMENTA** 
+## **3. OBJETIVOS DO COMPONENTE CURRICULAR (geral e específicos)**
 
-1. O que é Sociedade? Teorias Sociais. Iluminismo; Positivismo; Materialismo e sociologia compreensiva. 2. Como as sociedades “funcionam”: Funcionalismo e coesão social; Conflito social e Dominação de classe; Consenso social e dominação; Poder, política, ideologia e Estado. 3. Como as sociedades mudam? Comunidade e Sociedade; capitalismo, racionalidade e divisão social do trabalho; transformações da sociedade capitalista. 4. Como surgiram os direitos? Desigualdade e exploração de classe, Movimentos sociais e luta por direitos; a emergência da “Questão Social”. 5. Sociedade Brasileira: Colônia de exploração e escravidão; Capitalismo dependente, economia agrário-exportadora, industrialização e modernização; desigualdades sociais; movimentos sociais, direitos, cidadania e a questão social. 
+Geral:
 
-## **3. OBJETIVOS DO COMPONENTE CURRICULAR (geral e específicos)** 
+- Compreender as sociedades humanas como “formações sociais” dinâmicas quanto as suas estruturas econômicas políticas e ideológicas e, neste sentido, a “questão social” que emerge nas sociedades modernas.
 
-Geral: 
+- Específicos: - Compreender como as sociedades humanas se organizam, mantém-se organizadas e como se transformam;
 
-- Compreender as sociedades humanas como “formações sociais” dinâmicas quanto as suas estruturas econômicas políticas e ideológicas e, neste sentido, a “questão social” que emerge nas sociedades modernas. 
+- - Perceber como o poder econômico, político e ideológico se articulam em cada momento histórico específico para a manutenção da dominação;
 
-- Específicos: - Compreender como as sociedades humanas se organizam, mantém-se organizadas e como se transformam; 
+- - Identificar o surgimento dos direitos da modernidade como conquistas da organização e das lutas sociais;
 
-- - Perceber como o poder econômico, político e ideológico se articulam em cada momento histórico específico para a manutenção da dominação; 
+- - Perceber as especificidades do desenvolvimento da sociedade brasileira em relação aos direitos e a cidadania.
 
-- - Identificar o surgimento dos direitos da modernidade como conquistas da organização e das lutas sociais; 
+## **4. MÉTODOS DE AVALIAÇÃO**
 
-- - Perceber as especificidades do desenvolvimento da sociedade brasileira em relação aos direitos e a cidadania. 
+Os critérios de avaliação serão fundamentados pela Portaria no 120/2009.
 
-## **4. MÉTODOS DE AVALIAÇÃO** 
+Frequência às aulas teóricas, aos trabalhos e atividades, que não deve ser inferior a 75% das aulas dadas. O aproveitamento escolar é avaliado através de acompanhamento contínuo do estudante e dos resultados por ele obtidos nas atividades avaliativas, que são traduzidos em conceitos que variam de A até D. Neste contexto os conceitos são expressos como:
 
-Os critérios de avaliação serão fundamentados pela Portaria no 120/2009. 
+A – aprendizagem do aluno foi PLENA;
 
-Frequência às aulas teóricas, aos trabalhos e atividades, que não deve ser inferior a 75% das aulas dadas. O aproveitamento escolar é avaliado através de acompanhamento contínuo do estudante e dos resultados por ele obtidos nas atividades avaliativas, que são traduzidos em conceitos que variam de A até D. Neste contexto os conceitos são expressos como: 
+B – aprendizagem do aluno foi PARCIALMENTE PLENA;
 
-A – aprendizagem do aluno foi PLENA; 
+C – aprendizagem do aluno foi SUFICIENTE;
 
-B – aprendizagem do aluno foi PARCIALMENTE PLENA; 
+D – aprendizagem do aluno foi INSUFICIENTE.
 
-C – aprendizagem do aluno foi SUFICIENTE; 
+A recuperação paralela dos conteúdos deve ser realizada durante o decorrer do período letivo e cabe ao professor identificar as dificuldades apresentadas pelos alunos selecionando objetivos e atividades a serem realizadas para promoção da aprendizagem.
 
-D – aprendizagem do aluno foi INSUFICIENTE. 
+18
 
-A recuperação paralela dos conteúdos deve ser realizada durante o decorrer do período letivo e cabe ao professor identificar as dificuldades apresentadas pelos alunos selecionando objetivos e atividades a serem realizadas para promoção da aprendizagem. 
+1INSTITUTOFEDERAL PARANA
 
-18 
+MinisteriodaEducacao InstitutoFederal doParana
 
-1INSTITUTOFEDERAL PARANA 
+Instrumentos de avaliação: Seminários; trabalhos individuais e/ou grupais; portfólios; resenhas e resumos; atividades em Ambiente Virtual de Aprendizagem (AVA) como, por exemplo: Fóruns, bate-papos, diário de bordo, atividades colaborativas, questionários, etc.
 
-MinisteriodaEducacao InstitutoFederal doParana 
+## **5. REFERÊNCIAS**
 
-Instrumentos de avaliação: Seminários; trabalhos individuais e/ou grupais; portfólios; resenhas e resumos; atividades em Ambiente Virtual de Aprendizagem (AVA) como, por exemplo: Fóruns, bate-papos, diário de bordo, atividades colaborativas, questionários, etc. 
+## **5.1 REFERÊNCIAS BÁSICAS**
 
-## **5. REFERÊNCIAS** 
+CARVALHO, J. M. de. **Cidadania no Brasil:** o longo caminho. 19. ed. Rio de Janeiro: Civilização Brasileira, 2015.
 
-## **5.1 REFERÊNCIAS BÁSICAS** 
+COSTA, C. Sociologia: **Introdução à ciência da sociedade.** 4. ed. — São Paulo: Moderna, 2010.
 
-CARVALHO, J. M. de. **Cidadania no Brasil:** o longo caminho. 19. ed. Rio de Janeiro: Civilização Brasileira, 2015. 
+MARSHALL, T. H. **Cidadania, classe social e status.** Rio de Janeiro: Zahar, 1967.
 
-COSTA, C. Sociologia: **Introdução à ciência da sociedade.** 4. ed. — São Paulo: Moderna, 2010. 
+QUINTANEIRO, T. **Um toque de clássicos:** Durkheim, Marx e Weber. Belo Horizonte: Editora UFMG, 1996.
 
-MARSHALL, T. H. **Cidadania, classe social e status.** Rio de Janeiro: Zahar, 1967. 
+SANTOS, W. G. **Cidadania e justiça:** a política social na ordem brasileira. Rio de Janeiro: Campus, 1979.
 
-QUINTANEIRO, T. **Um toque de clássicos:** Durkheim, Marx e Weber. Belo Horizonte: Editora UFMG, 1996. 
+## **5.2 REFERÊNCIAS COMPLEMENTARES**
 
-SANTOS, W. G. **Cidadania e justiça:** a política social na ordem brasileira. Rio de Janeiro: Campus, 1979. 
+ANTUNES, Ricardo. **Adeus ao trabalho?** Ensaios sobre as metamorfoses e a centralidade no mundo do trabalho. São Paulo. Cortez, 1995.
 
-## **5.2 REFERÊNCIAS COMPLEMENTARES** 
+BAUMAN, Z. (2001). **Modernidade líquida.** Rio de Janeiro: Zahar.
 
-ANTUNES, Ricardo. **Adeus ao trabalho?** Ensaios sobre as metamorfoses e a centralidade no mundo do trabalho. São Paulo. Cortez, 1995. 
+GIDDENS, A. **As conseqüências da modernidade.** São Paulo: Unesp, 1991
 
-BAUMAN, Z. (2001). **Modernidade líquida.** Rio de Janeiro: Zahar. 
+IAMAMOTO, M. V. **Serviço Social em tempo de Capital Fetiche:** capital financeiro, trabalho e questão social. 2ª ed. São Paulo: Cortez, 2008.
 
-GIDDENS, A. **As conseqüências da modernidade.** São Paulo: Unesp, 1991 
+IANNI, O. **A era do globalismo.** Rio de Janeiro: Civilização Brasileira, 1996.
 
-IAMAMOTO, M. V. **Serviço Social em tempo de Capital Fetiche:** capital financeiro, trabalho e questão social. 2ª ed. São Paulo: Cortez, 2008. 
+## **1. IDENTIFICAÇÃO DA DISCIPLINA**
 
-IANNI, O. **A era do globalismo.** Rio de Janeiro: Civilização Brasileira, 1996. 
+**Curso:** Gestão Social de Políticas Públicas
 
-## **1. IDENTIFICAÇÃO DA DISCIPLINA** 
+**Componente Curricular:** Estado, Direitos Sociais e Políticas Sociais
 
-**Curso:** Gestão Social de Políticas Públicas 
+**Carga horária:** 32 horas relógio
 
-**Componente Curricular:** Estado, Direitos Sociais e Políticas Sociais 
+## **2. EMENTA**
 
-**Carga horária:** 32 horas relógio 
+O Estado de Bem-Estar Social: surgimento, desenvolvimento e crise. Neoliberalismo e políticas públicas. O Estado de Bem-Estar brasileiro. As principais correntes teóricas da ciência política utilizadas na análise de políticas públicas. Direitos sociais e cidadania no Brasil contemporâneo.
 
-## **2. EMENTA** 
+**3. OBJETIVOS DO COMPONENTE CURRICULAR (geral e específicos)** Geral:
 
-O Estado de Bem-Estar Social: surgimento, desenvolvimento e crise. Neoliberalismo e políticas públicas. O Estado de Bem-Estar brasileiro. As principais correntes teóricas da ciência política utilizadas na análise de políticas públicas. Direitos sociais e cidadania no Brasil contemporâneo. 
+   - Apresentar a discussão teórica desenvolvida acerca do Estado do Bem-Estar Social e sua crise, bem como analisar a sua manutenção e transformações em tempos de neoliberalismo.
 
-**3. OBJETIVOS DO COMPONENTE CURRICULAR (geral e específicos)** Geral: 
+Específicos:
 
-   - Apresentar a discussão teórica desenvolvida acerca do Estado do Bem-Estar Social e sua crise, bem como analisar a sua manutenção e transformações em tempos de neoliberalismo. 
+- Discorrer acerca das perspectivas analíticas que tratam do Estado e suas políticas, familiarizando os/as estudantes com os principais conceitos, autores e correntes teóricas;
 
-Específicos: 
+- Apresentar o panorama da Legislação e das desigualdades no Brasil a partir da trajetória dos direitos sociais das populações indígenas, afrodescendentes, das
 
-- Discorrer acerca das perspectivas analíticas que tratam do Estado e suas políticas, familiarizando os/as estudantes com os principais conceitos, autores e correntes teóricas; 
+19
 
-- Apresentar o panorama da Legislação e das desigualdades no Brasil a partir da trajetória dos direitos sociais das populações indígenas, afrodescendentes, das 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-19 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+mulheres e da população LGBT.
 
-INSTITUTOFEDERAL PARANA 
+## **4. MÉTODOS DE AVALIAÇÃO**
 
-mulheres e da população LGBT. 
+A avaliação como um todo é processual, formativa, contínua e cumulativa, possibilitando ao/à estudante a recuperação do conteúdo, bem como do conceito, ao longo da disciplina. A avaliação consistirá na entrega de atividades solicitadas pelas docentes, na forma de seminários, atividades individuais e coletivas e estudos exploratórios.
 
-## **4. MÉTODOS DE AVALIAÇÃO** 
+## **5. REFERÊNCIAS**
 
-A avaliação como um todo é processual, formativa, contínua e cumulativa, possibilitando ao/à estudante a recuperação do conteúdo, bem como do conceito, ao longo da disciplina. A avaliação consistirá na entrega de atividades solicitadas pelas docentes, na forma de seminários, atividades individuais e coletivas e estudos exploratórios. 
+## **5.1 REFERÊNCIAS BÁSICAS**
 
-## **5. REFERÊNCIAS** 
+ARRETCHE, Marta (Org.). **Trajetórias das desigualdades** : como o Brasil mudou nos últimos cinquenta anos. São Paulo: UNESP, 2015.
 
-## **5.1 REFERÊNCIAS BÁSICAS** 
+BRASIL. **Constituição (1988).** Constituição da República Federativa do Brasil. Brasília, DF: Senado Federal: Centro Gráfico, 1988.
 
-ARRETCHE, Marta (Org.). **Trajetórias das desigualdades** : como o Brasil mudou nos últimos cinquenta anos. São Paulo: UNESP, 2015. 
+HOCHMAN, Gilberto; ARRETCHE, Marta; MARQUES, Eduardo Cesar (Org.). **Políticas públicas no Brasil.** Rio de Janeiro: Fiocruz, 2007.
 
-BRASIL. **Constituição (1988).** Constituição da República Federativa do Brasil. Brasília, DF: Senado Federal: Centro Gráfico, 1988. 
+## **5.2 REFERÊNCIAS COMPLEMENTARES**
 
-HOCHMAN, Gilberto; ARRETCHE, Marta; MARQUES, Eduardo Cesar (Org.). **Políticas públicas no Brasil.** Rio de Janeiro: Fiocruz, 2007. 
+CASTEL, Robert. **As metamorfoses da questão social** : uma crônica do salário. Petrópolis: Vozes, 1998.
 
-## **5.2 REFERÊNCIAS COMPLEMENTARES** 
+ESPING-ANDERSEN, Gosta. As três economias políticas do Welfare State. **Lua Nova** , São Paulo, n. 24, p. 85-116, set. 1991.
 
-CASTEL, Robert. **As metamorfoses da questão social** : uma crônica do salário. Petrópolis: Vozes, 1998. 
+KERSTENETZKY, Celia Lessa; GUEDES, Graciele Pereira. O Welfare State resiste? Desenvolvimentos recentes do estado social nos países da OCDE. **Ciênc. Saúde coletiva** , Rio de Janeiro, v. 23, n. 7, p. 2095-2106, jul. 2018.
 
-ESPING-ANDERSEN, Gosta. As três economias políticas do Welfare State. **Lua Nova** , São Paulo, n. 24, p. 85-116, set. 1991. 
+NOGUEIRA, Marco Aurélio. Estado de Bem-Estar, compromisso social-democrata e segunda modernidade. **Revista do Instituto de Políticas Públicas de Marília** , Marília, v.1, n.1, p.64-84, jul./dez. 2015.
 
-KERSTENETZKY, Celia Lessa; GUEDES, Graciele Pereira. O Welfare State resiste? Desenvolvimentos recentes do estado social nos países da OCDE. **Ciênc. Saúde coletiva** , Rio de Janeiro, v. 23, n. 7, p. 2095-2106, jul. 2018. 
+SALLUM JR., Brasilio; GOULART, Jefferson O. O Estado brasileiro contemporâneo: liberalização econômica, política e sociedade nos governos FHC e Lula. **Revista Sociologia Política** , Curitiba, v. 24, n. 60, p. 115-135, dez. 2016.
 
-NOGUEIRA, Marco Aurélio. Estado de Bem-Estar, compromisso social-democrata e segunda modernidade. **Revista do Instituto de Políticas Públicas de Marília** , Marília, v.1, n.1, p.64-84, jul./dez. 2015. 
+SOUZA, Celina. Políticas públicas: uma revisão da literatura. **Sociologias** , Porto Alegre, ano 8, n. 16, p. 20-45, jul./dez. 2006.
 
-SALLUM JR., Brasilio; GOULART, Jefferson O. O Estado brasileiro contemporâneo: liberalização econômica, política e sociedade nos governos FHC e Lula. **Revista Sociologia Política** , Curitiba, v. 24, n. 60, p. 115-135, dez. 2016. 
+## **1. IDENTIFICAÇÃO DA DISCIPLINA**
 
-SOUZA, Celina. Políticas públicas: uma revisão da literatura. **Sociologias** , Porto Alegre, ano 8, n. 16, p. 20-45, jul./dez. 2006. 
+**Curso:** Gestão Social de Políticas Públicas
 
-## **1. IDENTIFICAÇÃO DA DISCIPLINA** 
+**Componente Curricular:** Família e Diversidades
 
-**Curso:** Gestão Social de Políticas Públicas 
+**Carga horária:** 32 horas relógio
 
-**Componente Curricular:** Família e Diversidades 
+## **2. EMENTA**
 
-**Carga horária:** 32 horas relógio 
+Família: construção histórico-cultural. Relações de poder, subalternidade e vulnerabilidade. Políticas públicas brasileiras de convivência familiar e comunitária.
 
-## **2. EMENTA** 
+## **3. OBJETIVOS DO COMPONENTE CURRICULAR (geral e específicos)**
 
-Família: construção histórico-cultural. Relações de poder, subalternidade e vulnerabilidade. Políticas públicas brasileiras de convivência familiar e comunitária. 
+Geral:
 
-## **3. OBJETIVOS DO COMPONENTE CURRICULAR (geral e específicos)** 
+- Compreender a complexidade do conceito de família na contemporaneidade e suas especificidades no contexto brasileiro, com vistas ao aprimoramento da análise da gestão social de políticas públicas.
 
-Geral: 
+Específicos:
 
-- Compreender a complexidade do conceito de família na contemporaneidade e suas especificidades no contexto brasileiro, com vistas ao aprimoramento da análise da gestão social de políticas públicas. 
+20
 
-Específicos: 
+MinisteriodaEducacao InstitutoFederal doParana
 
-20 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederal doParana 
+- Contextualizar historicamente o desenvolvimento da categoria instituição família; - Compreender o contexto psicossocial e as políticas públicas envolvidos nos processos de destituição do poder familiar, acolhimento e adoção de crianças e adolescentes; - Analisar a naturalização das relações de poder e subalternidade entre família e escola presentes nas políticas públicas educacionais brasileiras.
 
-INSTITUTOFEDERAL PARANA 
+## **4. MÉTODOS DE AVALIAÇÃO**
 
-- Contextualizar historicamente o desenvolvimento da categoria instituição família; - Compreender o contexto psicossocial e as políticas públicas envolvidos nos processos de destituição do poder familiar, acolhimento e adoção de crianças e adolescentes; - Analisar a naturalização das relações de poder e subalternidade entre família e escola presentes nas políticas públicas educacionais brasileiras. 
+Conforme a concepção de avaliação da aprendizagem do campus Curitiba do IFPR, a avaliação será formativa, qualitativa e contínua, servindo como instrumento de reflexão para docentes e discentes, que a tomarão por base para o aprimoramento contínuo de seus resultados. Haverá mais de uma forma de avaliação. As estratégias de avaliação poderão envolver trabalhos escritos, estudo de casos, participação em atividades grupais como debates, dentre outras. Serão oferecidas atividades para recuperação paralela aos/às estudantes que tiverem baixo rendimento. As professoras manterão horários de permanência na instituição para esclarecer dúvidas e auxiliar nas dificuldades. Quando necessário os/as estudantes poderão ser convocados/as a participar de atividades complementares, visando à recuperação de conteúdos.
 
-## **4. MÉTODOS DE AVALIAÇÃO** 
+## **5. REFERÊNCIAS**
 
-Conforme a concepção de avaliação da aprendizagem do campus Curitiba do IFPR, a avaliação será formativa, qualitativa e contínua, servindo como instrumento de reflexão para docentes e discentes, que a tomarão por base para o aprimoramento contínuo de seus resultados. Haverá mais de uma forma de avaliação. As estratégias de avaliação poderão envolver trabalhos escritos, estudo de casos, participação em atividades grupais como debates, dentre outras. Serão oferecidas atividades para recuperação paralela aos/às estudantes que tiverem baixo rendimento. As professoras manterão horários de permanência na instituição para esclarecer dúvidas e auxiliar nas dificuldades. Quando necessário os/as estudantes poderão ser convocados/as a participar de atividades complementares, visando à recuperação de conteúdos. 
+## **5.1 REFERÊNCIAS BÁSICAS**
 
-## **5. REFERÊNCIAS** 
+ACOSTA, A. R.; VITALE, M. A. F. (Orgs.). **Famílias** : redes, laços e políticas públicas. 4. ed. São Paulo: Cortez/Instituto de Estudos Especiais/PUC-SP, 2008. BADINTER, Elisabeth. **Um amor conquistado** : o mito do amor materno. Rio de Janeiro: Nova Fronteira, 1985. FREITAS, F. S. de. **A família e seus aspectos históricos, sociológicos e antropológicos** . Curitiba: Editora Intersaberes, 2020. TRAD, Leny A. Bomfim (Org.). **Família contemporânea e saúde** : significados, práticas e políticas públicas. Rio de Janeiro: Fiocruz, 2010. 379 p. (Coleção criança, mulher e saúde).
 
-## **5.1 REFERÊNCIAS BÁSICAS** 
+## **5.2 REFERÊNCIAS COMPLEMENTARES**
 
-ACOSTA, A. R.; VITALE, M. A. F. (Orgs.). **Famílias** : redes, laços e políticas públicas. 4. ed. São Paulo: Cortez/Instituto de Estudos Especiais/PUC-SP, 2008. BADINTER, Elisabeth. **Um amor conquistado** : o mito do amor materno. Rio de Janeiro: Nova Fronteira, 1985. FREITAS, F. S. de. **A família e seus aspectos históricos, sociológicos e antropológicos** . Curitiba: Editora Intersaberes, 2020. TRAD, Leny A. Bomfim (Org.). **Família contemporânea e saúde** : significados, práticas e políticas públicas. Rio de Janeiro: Fiocruz, 2010. 379 p. (Coleção criança, mulher e saúde). 
+BERNARDI, D. C. (Org.). **Cada caso é um caso** : estudos de caso, projetos de atendimento. São Paulo: Associação Fazendo História: NECA - Associação dos Pesquisadores de Núcleos de Estudos e Pesquisas sobre a Criança e o Adolescente, 2010. (Coleção Abrigos em Movimento). Disponível em: https://static1.squarespace.com/static/56b10ce8746fb97c2d267b79/t/56bcc820859fd06c3a fc713f/1455212583405/5_cada_casa_e_um_caso.pdf BRASIL. **Estatuto da Criança e do Adolescente (ECA)** . Lei Federal 8.069/1990. Dispõe sobre a proteção integral à criança e ao adolescente.
 
-## **5.2 REFERÊNCIAS COMPLEMENTARES** 
+BRASIL. **Lei Nacional de Adoção** . Lei nº 12.010, de 3 de agosto de 2009.
 
-BERNARDI, D. C. (Org.). **Cada caso é um caso** : estudos de caso, projetos de atendimento. São Paulo: Associação Fazendo História: NECA - Associação dos Pesquisadores de Núcleos de Estudos e Pesquisas sobre a Criança e o Adolescente, 2010. (Coleção Abrigos em Movimento). Disponível em: https://static1.squarespace.com/static/56b10ce8746fb97c2d267b79/t/56bcc820859fd06c3a fc713f/1455212583405/5_cada_casa_e_um_caso.pdf BRASIL. **Estatuto da Criança e do Adolescente (ECA)** . Lei Federal 8.069/1990. Dispõe sobre a proteção integral à criança e ao adolescente. 
+BRASIL. **Plano Nacional de Promoção, Proteção e Defesa do Direito de Crianças e Adolescentes à Convivência Familiar e Comunitária** . Secretaria Especial dos Direitos Humanos. Brasília-DF: Conanda, 2006.
 
-BRASIL. **Lei Nacional de Adoção** . Lei nº 12.010, de 3 de agosto de 2009. 
+ELAGE, B.; GÓES, M.; FIKS, M.; GENTILE, R. **Perspectivas** : formação de profissionais em serviços de acolhimento. São Paulo: Instituto Fazendo História, 2011. Disponível em: https://static1.squarespace.com/static/56b10ce8746fb97c2d267b79/t/5734bc8537013b249 13bbb18/1463073930949/Formac%CC%A7a%CC%83o_web.pdf ENGELS, F. **A origem da família, da propriedade privada e do estado** . São Paulo: Boitempo, 2019.
 
-BRASIL. **Plano Nacional de Promoção, Proteção e Defesa do Direito de Crianças e Adolescentes à Convivência Familiar e Comunitária** . Secretaria Especial dos Direitos Humanos. Brasília-DF: Conanda, 2006. 
+21
 
-ELAGE, B.; GÓES, M.; FIKS, M.; GENTILE, R. **Perspectivas** : formação de profissionais em serviços de acolhimento. São Paulo: Instituto Fazendo História, 2011. Disponível em: https://static1.squarespace.com/static/56b10ce8746fb97c2d267b79/t/5734bc8537013b249 13bbb18/1463073930949/Formac%CC%A7a%CC%83o_web.pdf ENGELS, F. **A origem da família, da propriedade privada e do estado** . São Paulo: Boitempo, 2019. 
+Ministerioda Educacao InstitutoFederal doParana
 
-21 
+INSTITUTOFEDERAL PARANA
 
-Ministerioda Educacao InstitutoFederal doParana 
+GULASSA, Maria Lúcia Carr Ribeiro (Org.). **Novos rumos do acolhimento institucional** . São Paulo: NECA – Associação dos Pesquisadores de Núcleos de Estudos e Pesquisas sobre a Criança e o Adolescente, 2010. Disponível em: - http://www.neca.org.br/wp content/uploads/novos%20rumos%20do%20acolhimento.pdf LANE, S.; CODO, W. **Psicologia Social** : o homem em movimento. São Paulo: Brasiliense, 1986. MOREIRA, Maria Ignez Costa. **Novos rumos para o trabalho com famílias** . São Paulo: NECA – Associação dos Pesquisadores de Núcleos de Estudos e Pesquisas sobre a Criança e o Adolescente, 2013. Disponível em: - http://www.neca.org.br/wp content/uploads/novos%20rumos%20para%20o%20trabalho%2 0com%20familias.pdf MORAES, Edissônias Cordeiro. **A relação da escola com as famílias empobrecidas** : a atualidade da obra A produção do fracasso escolar. 2018. 109 f. Dissertação (Mestrado em Educação) - Universidade de Brasília, Brasília, 2018. Disponível em: http://repositorio.unb.br/handle/10482/32636 NASCIMENTO, M. L.; CUNHA, F. L.; VICENTE, L. M. D. A desqualificação da família pobre como prática de criminalização da pobreza. **Revista Psicologia Política** , v. 7, n. 14, 2007. Disponível em: http://pepsic.bvsalud.org/scielo.php?script=sci_arttext&amp;pid=S1519-549X200700020000 6
 
-INSTITUTOFEDERAL PARANA 
+PIMENTA, Juliana de Carvalho. **A relação família-escola** : concepções e práticas. 2014. 243 f. Tese (doutorado) - Universidade Estadual Paulista Júlio de Mesquita Filho, Faculdade de Ciências Humanas e Sociais, 2014. Disponível em: http://hdl.handle.net/11449/123962 . SYMANSKI, H. **A relação família/escola** : desafios e perspectivas. Brasília: Plano Editora: 2001.
 
-GULASSA, Maria Lúcia Carr Ribeiro (Org.). **Novos rumos do acolhimento institucional** . São Paulo: NECA – Associação dos Pesquisadores de Núcleos de Estudos e Pesquisas sobre a Criança e o Adolescente, 2010. Disponível em: - http://www.neca.org.br/wp content/uploads/novos%20rumos%20do%20acolhimento.pdf LANE, S.; CODO, W. **Psicologia Social** : o homem em movimento. São Paulo: Brasiliense, 1986. MOREIRA, Maria Ignez Costa. **Novos rumos para o trabalho com famílias** . São Paulo: NECA – Associação dos Pesquisadores de Núcleos de Estudos e Pesquisas sobre a Criança e o Adolescente, 2013. Disponível em: - http://www.neca.org.br/wp content/uploads/novos%20rumos%20para%20o%20trabalho%2 0com%20familias.pdf MORAES, Edissônias Cordeiro. **A relação da escola com as famílias empobrecidas** : a atualidade da obra A produção do fracasso escolar. 2018. 109 f. Dissertação (Mestrado em Educação) - Universidade de Brasília, Brasília, 2018. Disponível em: http://repositorio.unb.br/handle/10482/32636 NASCIMENTO, M. L.; CUNHA, F. L.; VICENTE, L. M. D. A desqualificação da família pobre como prática de criminalização da pobreza. **Revista Psicologia Política** , v. 7, n. 14, 2007. Disponível em: http://pepsic.bvsalud.org/scielo.php?script=sci_arttext&amp;pid=S1519-549X200700020000 6 
-
-PIMENTA, Juliana de Carvalho. **A relação família-escola** : concepções e práticas. 2014. 243 f. Tese (doutorado) - Universidade Estadual Paulista Júlio de Mesquita Filho, Faculdade de Ciências Humanas e Sociais, 2014. Disponível em: http://hdl.handle.net/11449/123962 . SYMANSKI, H. **A relação família/escola** : desafios e perspectivas. Brasília: Plano Editora: 2001. 
-
-**1. IDENTIFICAÇÃO DA DISCIPLINA Curso:** Gestão Social de Políticas Públicas **Componente Curricular:** Territorialidade e Sujeitos Sociais **Carga horária:** 32 horas relógio **2. EMENTA** Conceituação de território e territorialidade. Abordagem das várias acepções sobre território e processos em torno das territorialidades. Estudo das constituições das identidades culturais e territoriais dos sujeitos sociais. **3. OBJETIVOS DO COMPONENTE CURRICULAR (geral e específicos)** 
+**1. IDENTIFICAÇÃO DA DISCIPLINA Curso:** Gestão Social de Políticas Públicas **Componente Curricular:** Territorialidade e Sujeitos Sociais **Carga horária:** 32 horas relógio **2. EMENTA** Conceituação de território e territorialidade. Abordagem das várias acepções sobre território e processos em torno das territorialidades. Estudo das constituições das identidades culturais e territoriais dos sujeitos sociais. **3. OBJETIVOS DO COMPONENTE CURRICULAR (geral e específicos)**
 
 |Geral:||||||
 |---|---|---|---|---|---|
@@ -709,280 +689,271 @@ PIMENTA, Juliana de Carvalho. **A relação família-escola** : concepções e p
 ||diferentes possibilidades de análise e diferentes necessidades sociais;|diferentes possibilidades de análise e diferentes necessidades sociais;||||
 |-|Compararqualitativamente dinâmicas territoriais com|ualitativamente dinâmicas territoriais compolíticaspúblicas existentes.|||úblicas existentes.|
 
+22
 
+Ministerioda Educacao InstitutoFederaldoParana
 
-22 
+INSTITUTOFEDERAL PARANA
 
-Ministerioda Educacao InstitutoFederaldoParana 
+## **4. MÉTODOS DE AVALIAÇÃO**
 
-INSTITUTOFEDERAL PARANA 
+A unidade curricular partirá de um entendimento teórico sobre os conceitos de território de territorialidade. Para isto utilizará aulas expositivas-dialogadas e debates para fomentar a apreensão coletiva dos conceitos. Para avaliar a retenção de conteúdo e as correlações produzidas pelos discentes lançará mão de atividades avaliativas individuais e coletivas. Poderão ser utilizadas nesta finalidade provas, seminários, trabalhos e outros instrumentos avaliativos. A utilização ou não de cada instrumento avaliativo será condicionada à dinâmica e às de cada turma. Os instrumentos avaliativos serão decididos especificidades de comum acordo com a turma no início da unidade curricular.
 
-## **4. MÉTODOS DE AVALIAÇÃO** 
+## **5. REFERÊNCIAS**
 
-A unidade curricular partirá de um entendimento teórico sobre os conceitos de território de territorialidade. Para isto utilizará aulas expositivas-dialogadas e debates para fomentar a apreensão coletiva dos conceitos. Para avaliar a retenção de conteúdo e as correlações produzidas pelos discentes lançará mão de atividades avaliativas individuais e coletivas. Poderão ser utilizadas nesta finalidade provas, seminários, trabalhos e outros instrumentos avaliativos. A utilização ou não de cada instrumento avaliativo será condicionada à dinâmica e às de cada turma. Os instrumentos avaliativos serão decididos especificidades de comum acordo com a turma no início da unidade curricular. 
+## **5.1 REFERÊNCIAS BÁSICAS**
 
-## **5. REFERÊNCIAS** 
+DELEUZE, Gilles. GUATARRI, Félix. **Mil platôs** - capitalismo e esquizofrenia. Vol. 3. Tradução de Aurélio Guerra Neto et alii. Rio de Janeiro: Editora 34, 1996. (Coleção TRANS.)
 
-## **5.1 REFERÊNCIAS BÁSICAS** 
+FARIAS JR, E. de A. Do Rio dos Pretos ao Quilombo do Tambor. In: SAUER, S.; ALMEIDA, W. (Orgs.). **Terras e territórios na Amazônia:** demandas, desafios e perspectivas. Brasília; Editora da UNB, 2011.
 
-DELEUZE, Gilles. GUATARRI, Félix. **Mil platôs** - capitalismo e esquizofrenia. Vol. 3. Tradução de Aurélio Guerra Neto et alii. Rio de Janeiro: Editora 34, 1996. (Coleção TRANS.) 
+SAQUET, M.A.; SPOSITO, E. S. (Orgs.). **Territórios e territorialidades:** teorias, processos e conflitos. São Paulo: Expressão Popular; UNESP, Programa de Pós-Graduação em Geografia, 2008.
 
-FARIAS JR, E. de A. Do Rio dos Pretos ao Quilombo do Tambor. In: SAUER, S.; ALMEIDA, W. (Orgs.). **Terras e territórios na Amazônia:** demandas, desafios e perspectivas. Brasília; Editora da UNB, 2011. 
+## **5.2 REFERÊNCIAS COMPLEMENTARES**
 
-SAQUET, M.A.; SPOSITO, E. S. (Orgs.). **Territórios e territorialidades:** teorias, processos e conflitos. São Paulo: Expressão Popular; UNESP, Programa de Pós-Graduação em Geografia, 2008. 
+ARAUJO, Frederico Guilherme Bandeira de; HAESBAERT, Rogério (Orgs.). **Identidades e Territórios** : Questões e olhares contemporâneos. Rio de Janeiro: Access Editora, 2007.
 
-## **5.2 REFERÊNCIAS COMPLEMENTARES** 
+FERRÃO, João. **O ordenamento do território como política pública** . Lisboa: Fundação Calouste Goulbenkian, 2011.
 
-ARAUJO, Frederico Guilherme Bandeira de; HAESBAERT, Rogério (Orgs.). **Identidades e Territórios** : Questões e olhares contemporâneos. Rio de Janeiro: Access Editora, 2007. 
+FERDUN, R. Terras e territórios e a livre determinação territorial indígena. In: SAUER, S.; ALMEIDA, W. (Orgs.). **Terras e territórios na Amazônia** : demandas, desafios e perspectivas. Brasília; Editora da UNB, 2011.
 
-FERRÃO, João. **O ordenamento do território como política pública** . Lisboa: Fundação Calouste Goulbenkian, 2011. 
+HAESBAERT, R. **Territórios Alternativos.** São Paulo: Contexto, 2006.
 
-FERDUN, R. Terras e territórios e a livre determinação territorial indígena. In: SAUER, S.; ALMEIDA, W. (Orgs.). **Terras e territórios na Amazônia** : demandas, desafios e perspectivas. Brasília; Editora da UNB, 2011. 
+HAESBAERT, R. Da desterritorialização à multiterritorialidade. In: X Encontro de Geógrafos 24 da América Latina - Universidade de São Paulo. **Anais…** São Paulo, 2005. Disponível em: http://planifcacion.geoamerica.org/textos/haesbaert_multi.pdf Acesso em: 24 maio 2016. HAESBAERT, R.; BRUCE, G. A desterritorialização na obra de Deleuze e Guattari. **GEOgraphia** , v. 4, n. 7, p.7-22, 2002. Disponível em: http://www.uf.br/geographia/ojs/index.php/ geographia/article/view/74/72 Acesso em: 06/06/2016.
 
-HAESBAERT, R. **Territórios Alternativos.** São Paulo: Contexto, 2006. 
+MENEZES, Elaine C. de O.; VIEIRA, P. F. Aglomeração Industrial, governança e meio ambiente: conceitos e premissas da abordagem do desenvolvimento territorial sustentável. **Desenvolvimento e Meio Ambiente** , Curitiba; Editora UFPR. n. 24. jul./dez. 2011.
 
-HAESBAERT, R. Da desterritorialização à multiterritorialidade. In: X Encontro de Geógrafos 24 da América Latina - Universidade de São Paulo. **Anais…** São Paulo, 2005. Disponível em: http://planifcacion.geoamerica.org/textos/haesbaert_multi.pdf Acesso em: 24 maio 2016. HAESBAERT, R.; BRUCE, G. A desterritorialização na obra de Deleuze e Guattari. **GEOgraphia** , v. 4, n. 7, p.7-22, 2002. Disponível em: http://www.uf.br/geographia/ojs/index.php/ geographia/article/view/74/72 Acesso em: 06/06/2016. 
+SACK, Robert David. **Territorialidade Humana, sua teoria e história** . Cambridge University Press, 1986. SANTOS, Milton et. al. **Território Territórios** . Niterói: Programa de Pós-Graduação em Geografia PPGEO-UFF/AGB, 2002.
 
-MENEZES, Elaine C. de O.; VIEIRA, P. F. Aglomeração Industrial, governança e meio ambiente: conceitos e premissas da abordagem do desenvolvimento territorial sustentável. **Desenvolvimento e Meio Ambiente** , Curitiba; Editora UFPR. n. 24. jul./dez. 2011. 
+SAQUET, Marcos Aurélio. **Abordagens e concepções de Território** . São Paulo: Expressão Popular, 2007.
 
-SACK, Robert David. **Territorialidade Humana, sua teoria e história** . Cambridge University Press, 1986. SANTOS, Milton et. al. **Território Territórios** . Niterói: Programa de Pós-Graduação em Geografia PPGEO-UFF/AGB, 2002. 
+23
 
-SAQUET, Marcos Aurélio. **Abordagens e concepções de Território** . São Paulo: Expressão Popular, 2007. 
+MinisteriodaEducacao InstitutoFederal doParana
 
-23 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederal doParana 
+WANDERLEY, M. de N. B. Olhares sobre o rural brasileiro. In: WANDERLEY, M. de N. B. **O mundo rural como espaço de vida** : reflexões sobre a propriedade da terra, agricultura familiar e ruralidade. Porto Alegre: UFRGS, 2009.
 
-INSTITUTOFEDERAL PARANA 
+## **1. IDENTIFICAÇÃO DA DISCIPLINA**
 
-WANDERLEY, M. de N. B. Olhares sobre o rural brasileiro. In: WANDERLEY, M. de N. B. **O mundo rural como espaço de vida** : reflexões sobre a propriedade da terra, agricultura familiar e ruralidade. Porto Alegre: UFRGS, 2009. 
+**Curso:** Gestão Social de Políticas Públicas
 
-## **1. IDENTIFICAÇÃO DA DISCIPLINA** 
+**Componente Curricular:** Políticas Sociais e Gestão Social
 
-**Curso:** Gestão Social de Políticas Públicas 
+**Carga horária:** 24 horas relógio
 
-**Componente Curricular:** Políticas Sociais e Gestão Social 
+## **2. EMENTA**
 
-**Carga horária:** 24 horas relógio 
+MÓDULO 1 (12h)
 
-## **2. EMENTA** 
+Políticas públicas: funções, modelos, aspectos conjunturais. A intervenção do Estado na implantação das Políticas públicas. Trajetória histórica da Política Social no contexto mundial. Natureza dos modelos de gestão e de organizações sociais e de administração de serviços.
 
-MÓDULO 1 (12h) 
+Introdução a gestão da informação e do conhecimento. Conceituação e metodologia do sistema de indicadores, índices, avaliações de políticas e programas sociais. Uso de indicadores sociais. ISO 26000. Dimensões e metodologias avaliativas qualitativas e quantitativas. Critérios de avaliação. Prestação de Contas. MÓDULO 2 (12h)
 
-Políticas públicas: funções, modelos, aspectos conjunturais. A intervenção do Estado na implantação das Políticas públicas. Trajetória histórica da Política Social no contexto mundial. Natureza dos modelos de gestão e de organizações sociais e de administração de serviços. 
+Fundamentos da gestão participativa e do controle social. Regulação social e participação social e cidadania. Discussão sobre a racialização da sociedade brasileira na formação da estrutura social e, consequentemente, políticas públicas. **3. OBJETIVOS DO COMPONENTE CURRICULAR (geral e específicos)**
 
-Introdução a gestão da informação e do conhecimento. Conceituação e metodologia do sistema de indicadores, índices, avaliações de políticas e programas sociais. Uso de indicadores sociais. ISO 26000. Dimensões e metodologias avaliativas qualitativas e quantitativas. Critérios de avaliação. Prestação de Contas. MÓDULO 2 (12h) 
+- Geral:
 
-Fundamentos da gestão participativa e do controle social. Regulação social e participação social e cidadania. Discussão sobre a racialização da sociedade brasileira na formação da estrutura social e, consequentemente, políticas públicas. **3. OBJETIVOS DO COMPONENTE CURRICULAR (geral e específicos)** 
+- Objetiva conhecer as metodologias de avaliação de políticas públicas, programas sociais e alguns conceitos estruturantes.
 
-- Geral: 
+- Específicos: - Orientar sobre como avaliar as políticas e programas sociais;
 
-- Objetiva conhecer as metodologias de avaliação de políticas públicas, programas sociais e alguns conceitos estruturantes. 
+- - Dimensionar as diferentes metodologias avaliativas;
 
-- Específicos: - Orientar sobre como avaliar as políticas e programas sociais; 
+- - Construir um instrumento de avaliação e monitoração;
 
-- - Dimensionar as diferentes metodologias avaliativas; 
+- - Discutir as questões estruturantes para compreender a formação de algumas políticas públicas na sociedade brasileira.
 
-- - Construir um instrumento de avaliação e monitoração; 
+- **4. MÉTODOS DE AVALIAÇÃO** MÓDULO 1 Elaboração de um instrumento para avaliação e monitoramento de programas e projetos sociais, podendo ser uma proposta de melhoria de um já existente ou um novo. MÓDULO 2 Apresentação de seminário em grupo com demonstração de políticas públicas que alteraram a estrutura de poder e visaram à redução de desigualdades sociais.
 
-- - Discutir as questões estruturantes para compreender a formação de algumas políticas públicas na sociedade brasileira. 
+## **5. REFERÊNCIAS**
 
-- **4. MÉTODOS DE AVALIAÇÃO** MÓDULO 1 Elaboração de um instrumento para avaliação e monitoramento de programas e projetos sociais, podendo ser uma proposta de melhoria de um já existente ou um novo. MÓDULO 2 Apresentação de seminário em grupo com demonstração de políticas públicas que alteraram a estrutura de poder e visaram à redução de desigualdades sociais. 
+**5.1 REFERÊNCIAS BÁSICAS**
 
-## **5. REFERÊNCIAS** 
+24
 
-**5.1 REFERÊNCIAS BÁSICAS** 
+MinisteriodaEducacao InstitutoFederal doParana
 
-24 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederal doParana 
+GONZALEZ, Lélia. A mulher negra na sociedade brasileira. In: LUZ, Madel T. (Org.). **O lugar da mulher** . Rio de Janeiro: Edições Graal, 1982. JANUZZI, Paulo de Martino. **Indicadores Sociais no Brasil** : Conceitos, fontes de dados e aplicações. 3. ed. São Paulo, Alínea, 2006.
 
-INSTITUTOFEDERAL PARANA 
+LACRUZ, Adonai José. **Gestão de Projetos no Terceiro Setor:** uma aplicação prática. 1. ed. Rio de Janeiro: Elsevier, 2014.
 
-GONZALEZ, Lélia. A mulher negra na sociedade brasileira. In: LUZ, Madel T. (Org.). **O lugar da mulher** . Rio de Janeiro: Edições Graal, 1982. JANUZZI, Paulo de Martino. **Indicadores Sociais no Brasil** : Conceitos, fontes de dados e aplicações. 3. ed. São Paulo, Alínea, 2006. 
+THEODORO, Mário (Org.). **As políticas públicas e a desigualdade racial no Brasil:** 120 anos após a abolição. Brasília: Ipea, 2008.
 
-LACRUZ, Adonai José. **Gestão de Projetos no Terceiro Setor:** uma aplicação prática. 1. ed. Rio de Janeiro: Elsevier, 2014. 
+## **5.2 REFERÊNCIAS COMPLEMENTARES**
 
-THEODORO, Mário (Org.). **As políticas públicas e a desigualdade racial no Brasil:** 120 anos após a abolição. Brasília: Ipea, 2008. 
+CHAUI. M. **Ideologia e mobilização popular** . Rio de Janeiro: Paz e Terra, 1978.
 
-## **5.2 REFERÊNCIAS COMPLEMENTARES** 
+DEMO, P. Participação é conquista. In: BROMLEY, R.; BUSTELLO, E. **Política X técnica de planejamento.** São Paulo: Brasiliense, 1982. FALEIROS, V. P. **Saber profissional e poder institucional** . São Paulo: Cortez, 1990. MOTA, A E. Uma nova legitimidade para o Serviço Social de empresa. **Serviço Social e Sociedade,** n. 25. São Paulo: Cortez, 1987. PRATES, Jane Cruz. **A construção de indicadores sociais** . Material didático. Porto Alegre, PUCRS, 2005. RAICHELIS, R. **Legitimidade popular e poder público** . São Paulo: Cortez, 1988 SILVA, Maria Ozanira da Silva (Org.). **Avaliação de políticas e programas sociais** : teoria e prática. São Paulo: Veras, 2001. SCHUCMAN, Lia Vainer. Branquitude e poder: revisitando o “medo branco” no século XXI. **Revista da Associação Brasileira de Pesquisadores/as Negros/as (ABPN)** , [S.l.], v. 6, n. 13, p. 134-147, jun. 2014. Disponível em: https://abpnrevista.org.br/index.php/site/article/view/155. Acesso em: 20 set. 2021. VINHAL, Gabriela; AUGUSTO, Otávio. **130 anos após abolição, população negra ainda sofre com a desigualdade** . 2018. Disponível em: shorturl.at/deoBG Acesso em: 20 set. 2021.
 
-CHAUI. M. **Ideologia e mobilização popular** . Rio de Janeiro: Paz e Terra, 1978. 
+## **1. IDENTIFICAÇÃO DA DISCIPLINA**
 
-DEMO, P. Participação é conquista. In: BROMLEY, R.; BUSTELLO, E. **Política X técnica de planejamento.** São Paulo: Brasiliense, 1982. FALEIROS, V. P. **Saber profissional e poder institucional** . São Paulo: Cortez, 1990. MOTA, A E. Uma nova legitimidade para o Serviço Social de empresa. **Serviço Social e Sociedade,** n. 25. São Paulo: Cortez, 1987. PRATES, Jane Cruz. **A construção de indicadores sociais** . Material didático. Porto Alegre, PUCRS, 2005. RAICHELIS, R. **Legitimidade popular e poder público** . São Paulo: Cortez, 1988 SILVA, Maria Ozanira da Silva (Org.). **Avaliação de políticas e programas sociais** : teoria e prática. São Paulo: Veras, 2001. SCHUCMAN, Lia Vainer. Branquitude e poder: revisitando o “medo branco” no século XXI. **Revista da Associação Brasileira de Pesquisadores/as Negros/as (ABPN)** , [S.l.], v. 6, n. 13, p. 134-147, jun. 2014. Disponível em: https://abpnrevista.org.br/index.php/site/article/view/155. Acesso em: 20 set. 2021. VINHAL, Gabriela; AUGUSTO, Otávio. **130 anos após abolição, população negra ainda sofre com a desigualdade** . 2018. Disponível em: shorturl.at/deoBG Acesso em: 20 set. 2021. 
+**Curso:** Gestão Social de Políticas Públicas **Componente Curricular:** Planejamento Social e Estratégico **Carga horária:** 24 horas relógio **2. EMENTA** Conceitos e tipos de planejamento. Fundamentos da estratégia; Administração estratégica sob a ótica sistêmica; Componentes do processo de planejamento nas organizações: metodologias, práticas e requisitos fundamentais para uma gestão orientada para excelência. O planejamento estratégico público como ferramenta de implementação de políticas públicas. Democracia deliberativa, cidadania, participação (política, social e popular) e accountability. **3. OBJETIVOS DO COMPONENTE CURRICULAR (geral e específicos)** Geral: - Conduzir o estudante ao conhecimento de ferramentas de planejamento estratégico
 
-## **1. IDENTIFICAÇÃO DA DISCIPLINA** 
+25
 
-**Curso:** Gestão Social de Políticas Públicas **Componente Curricular:** Planejamento Social e Estratégico **Carga horária:** 24 horas relógio **2. EMENTA** Conceitos e tipos de planejamento. Fundamentos da estratégia; Administração estratégica sob a ótica sistêmica; Componentes do processo de planejamento nas organizações: metodologias, práticas e requisitos fundamentais para uma gestão orientada para excelência. O planejamento estratégico público como ferramenta de implementação de políticas públicas. Democracia deliberativa, cidadania, participação (política, social e popular) e accountability. **3. OBJETIVOS DO COMPONENTE CURRICULAR (geral e específicos)** Geral: - Conduzir o estudante ao conhecimento de ferramentas de planejamento estratégico 
+MinisteriodaEducacao InstitutoFederal doParana
 
-25 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederal doParana 
+e, principalmente, social. Específicos:
 
-INSTITUTOFEDERAL PARANA 
+- Identificar quais as principais ferramentas de planejamento estratégico que são utilizadas na iniciativa privada e pública e podem ser adaptadas para melhoria do planejamento social;
 
-e, principalmente, social. Específicos: 
+- Descrever o passo a passo do planejamento social, destacando sua importância para a gestão social de políticas públicas.
 
-- Identificar quais as principais ferramentas de planejamento estratégico que são utilizadas na iniciativa privada e pública e podem ser adaptadas para melhoria do planejamento social; 
+## **4. MÉTODOS DE AVALIAÇÃO**
 
-- Descrever o passo a passo do planejamento social, destacando sua importância para a gestão social de políticas públicas. 
+- Aulas expositivas, dialogadas e seminários.
 
-## **4. MÉTODOS DE AVALIAÇÃO** 
+- Trabalhos individuais e em grupo, além da contabilização do percentual, mínimo, de frequências às aulas. Devendo-se destacar a possibilidade de recuperação de conceito por meio de prova de recuperação objetiva e/ou discursiva, individual, 2 semanas antes da finalização da disciplina.
 
-- Aulas expositivas, dialogadas e seminários. 
+## **5. REFERÊNCIAS**
 
-- Trabalhos individuais e em grupo, além da contabilização do percentual, mínimo, de frequências às aulas. Devendo-se destacar a possibilidade de recuperação de conceito por meio de prova de recuperação objetiva e/ou discursiva, individual, 2 semanas antes da finalização da disciplina. 
+## **5.1 REFERÊNCIAS BÁSICAS**
 
-## **5. REFERÊNCIAS** 
+ANSOLF, H. I; MCDONNELL, E. J. **Implantando a administração estratégica** . São Paulo: Atlas, 2003.
 
-## **5.1 REFERÊNCIAS BÁSICAS** 
+CANÇADO, A. C.; TENÓRIO, F. G.; SILVA JR., J. T. **Gestão Social:** aspectos teóricos e aplicações. Ijuí: UNIJUI, 2012.
 
-ANSOLF, H. I; MCDONNELL, E. J. **Implantando a administração estratégica** . São Paulo: Atlas, 2003. 
+CHIAVENATO, I.; SAPIRO, A. **Planejamento estratégico** . 2. ed. Rio de Janeiro: Campus, 2009.
 
-CANÇADO, A. C.; TENÓRIO, F. G.; SILVA JR., J. T. **Gestão Social:** aspectos teóricos e aplicações. Ijuí: UNIJUI, 2012. 
+MINTZBERG, H.; AHLSTRAND, B.; LAMPEL, J. **Safári de estratégia:** um roteiro pela selva do planejamento estratégico. 2. ed. Porto Alegre: Bookman, 2010.
 
-CHIAVENATO, I.; SAPIRO, A. **Planejamento estratégico** . 2. ed. Rio de Janeiro: Campus, 2009. 
+VIZEU, F.; GONÇALVES, S. A. **Pensamento estratégico** : origens, princípios e perspectivas. São Paulo: Atlas, 2003.
 
-MINTZBERG, H.; AHLSTRAND, B.; LAMPEL, J. **Safári de estratégia:** um roteiro pela selva do planejamento estratégico. 2. ed. Porto Alegre: Bookman, 2010. 
+## **5.2 REFERÊNCIAS COMPLEMENTARES**
 
-VIZEU, F.; GONÇALVES, S. A. **Pensamento estratégico** : origens, princípios e perspectivas. São Paulo: Atlas, 2003. 
+BARBOSA, L. N. H. Cultura administrativa: uma nova perspectiva das relações entre antropologia e administração. **Revista de Administração de Empresas** , São Paulo, v. 36, n. 4, p. 6-19, 1999.
 
-## **5.2 REFERÊNCIAS COMPLEMENTARES** 
+CAVALCANTE, Francisco Antonio. **Planejamento estratégico participativo** . São Paulo: Senac-SP, 2009.
 
-BARBOSA, L. N. H. Cultura administrativa: uma nova perspectiva das relações entre antropologia e administração. **Revista de Administração de Empresas** , São Paulo, v. 36, n. 4, p. 6-19, 1999. 
+IRELAND, R. Duane; HOSKISSON, Robert E.; HITT, Michael A. **Administração estratégica** . 3. ed. São Paulo: Cengage Learning, 2014.
 
-CAVALCANTE, Francisco Antonio. **Planejamento estratégico participativo** . São Paulo: Senac-SP, 2009. 
+PAULA, A. P. P. de. Administração pública brasileira entre o gerencialismo e a gestão social. **Revista de Administração de Empresas** , v. 45, n. 1, p. 36-49, 2005.
 
-IRELAND, R. Duane; HOSKISSON, Robert E.; HITT, Michael A. **Administração estratégica** . 3. ed. São Paulo: Cengage Learning, 2014. 
+PRATES, M. A.; BARROS, B. T. **O estilo brasileiro de administrar** . SP: Atlas, 1999.
 
-PAULA, A. P. P. de. Administração pública brasileira entre o gerencialismo e a gestão social. **Revista de Administração de Empresas** , v. 45, n. 1, p. 36-49, 2005. 
+## **1. IDENTIFICAÇÃO DA DISCIPLINA**
 
-PRATES, M. A.; BARROS, B. T. **O estilo brasileiro de administrar** . SP: Atlas, 1999. 
+**Curso:** Gestão Social de Políticas Públicas
 
-## **1. IDENTIFICAÇÃO DA DISCIPLINA** 
+**Componente Curricular:** Política de Assistência Social
 
-**Curso:** Gestão Social de Políticas Públicas 
+**Carga horária:** 24 horas relógio
 
-**Componente Curricular:** Política de Assistência Social 
+## **2. EMENTA**
 
-**Carga horária:** 24 horas relógio 
+A política nacional da Assistência Social e o Sistema Único da Assistência Social. Legislação e normatização do SUAS. Organização do SUAS: Proteção Social Básica. Organização do SUAS:
 
-## **2. EMENTA** 
+26
 
-A política nacional da Assistência Social e o Sistema Único da Assistência Social. Legislação e normatização do SUAS. Organização do SUAS: Proteção Social Básica. Organização do SUAS: 
+MinisteriodaEducacao InstitutoFederal doParana
 
-26 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederal doParana 
+Proteção Social Especial. Os princípios na gestão do SUAS. Controle social e fóruns deliberativos.
 
-INSTITUTOFEDERAL PARANA 
+## **3. OBJETIVOS DO COMPONENTE CURRICULAR (geral e específicos)**
 
-Proteção Social Especial. Os princípios na gestão do SUAS. Controle social e fóruns deliberativos. 
+Geral:
 
-## **3. OBJETIVOS DO COMPONENTE CURRICULAR (geral e específicos)** 
+   - Aprofundar a capacidade de crítica e a possibilidade de aprimoramento da política de Assistência Social através da intervenção profissional crítica e de acordo com os princípios da gestão democrática do SUAS.
 
-Geral: 
+- Específicos:
 
-   - Aprofundar a capacidade de crítica e a possibilidade de aprimoramento da política de Assistência Social através da intervenção profissional crítica e de acordo com os princípios da gestão democrática do SUAS. 
+   - Conhecer a legislação que versa sobre os principais aspectos da PNAS e do SUAS, bem como os serviços ofertados e os princípios que norteiam a assistência social no Brasil;
 
-- Específicos: 
+   - Discutir possibilidades de intervenção no panorama atual do SUAS, visando a defesa dos direitos e o controle social no que tange a política de Assistência Social.
 
-   - Conhecer a legislação que versa sobre os principais aspectos da PNAS e do SUAS, bem como os serviços ofertados e os princípios que norteiam a assistência social no Brasil; 
+## **4. MÉTODOS DE AVALIAÇÃO**
 
-   - Discutir possibilidades de intervenção no panorama atual do SUAS, visando a defesa dos direitos e o controle social no que tange a política de Assistência Social. 
+Para a avaliação dos resultados obtidos pelos discentes serão utilizados critérios qualitativos sobre os quantitativos,como o uso de atividades individuais ou em grupo, produções textuais, análise de textos de referência. O total das avaliações permitirá determinar o conceito final (A, B, C ou D) com base no aproveitamento e participação, seguindo como princípio a resolução 50/2017 IFPR. **5. REFERÊNCIAS 5.1 REFERÊNCIAS BÁSICAS** BRASIL. **Lei Orgânica da Assistência Social** , 1993 (e alterações). Disponível em: <http://www.planalto.gov.br/CCIVIL/leis/L8742.htm> BRASIL. **Política Nacional de Assistência Social** . Ministério do Desenvolvimento Social, Brasília: 2004. Disponível em: http://www.servicosocial.ufsc.br/ferramentas/upload/arquivos/d/pnas_fnal.pdf BRASIL. **Tipificação Nacional de Serviços Socioassistenciais.** Ministério do Desenvolvimento Social, Brasília: 2014. Disponível em: http://aplicacoes.mds.gov.br/snas/documentos/livro%20Tipifcaca%20Nacional%20-%2020. 05.14%20%28ultimas%20atualizacoes%29.pdf
 
-## **4. MÉTODOS DE AVALIAÇÃO** 
+SCHONS, Selma Maria. **Assistência social entre a ordem e a "des-ordem** ": mistificação dos direitos sociais e da cidadania. 3. ed. São Paulo: Cortez, 2008.
 
-Para a avaliação dos resultados obtidos pelos discentes serão utilizados critérios qualitativos sobre os quantitativos,como o uso de atividades individuais ou em grupo, produções textuais, análise de textos de referência. O total das avaliações permitirá determinar o conceito final (A, B, C ou D) com base no aproveitamento e participação, seguindo como princípio a resolução 50/2017 IFPR. **5. REFERÊNCIAS 5.1 REFERÊNCIAS BÁSICAS** BRASIL. **Lei Orgânica da Assistência Social** , 1993 (e alterações). Disponível em: <http://www.planalto.gov.br/CCIVIL/leis/L8742.htm> BRASIL. **Política Nacional de Assistência Social** . Ministério do Desenvolvimento Social, Brasília: 2004. Disponível em: http://www.servicosocial.ufsc.br/ferramentas/upload/arquivos/d/pnas_fnal.pdf BRASIL. **Tipificação Nacional de Serviços Socioassistenciais.** Ministério do Desenvolvimento Social, Brasília: 2014. Disponível em: http://aplicacoes.mds.gov.br/snas/documentos/livro%20Tipifcaca%20Nacional%20-%2020. 05.14%20%28ultimas%20atualizacoes%29.pdf 
-
-SCHONS, Selma Maria. **Assistência social entre a ordem e a "des-ordem** ": mistificação dos direitos sociais e da cidadania. 3. ed. São Paulo: Cortez, 2008. 
-
-**==> picture [471 x 57] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-||||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |5.2 REFERÊNCIAS COMPLEMENTARES|
 |MOTA,|Ana|Elizabete.|Cultura|da|crise|e|Seguridade|Social|:|um|estudo|sobre|as|
 |tendências|da|Previdência|e|da|Assistência|Social|brasileira|nos|anos|80|e|90.|São|Paulo:|
 |Cortez, 1995.|
 
-**----- End of picture text -----**<br>
+SOARES, J. A , BAVA, S. C. **Os desafios da gestão municipal democrática** _._ 2. ed. São Paulo: Cortez, 1998.
 
+SILVA, Maria Ozanira da Silva e. **O bolsa família no enfrentamento à pobreza no Maranhão e Piauí.** São Paulo: Cortez, 2008. SPOSATI, Aldaíza. **A Menina Loas:** um processo de construção da Assistência Social. 6. ed. São Paulo: Cortez, 2011. DOWER, Nelson Godoy Bassil. **Instituições de direito público e privado** . 11. ed. São Paulo:
 
-SOARES, J. A , BAVA, S. C. **Os desafios da gestão municipal democrática** _._ 2. ed. São Paulo: Cortez, 1998. 
+27
 
-SILVA, Maria Ozanira da Silva e. **O bolsa família no enfrentamento à pobreza no Maranhão e Piauí.** São Paulo: Cortez, 2008. SPOSATI, Aldaíza. **A Menina Loas:** um processo de construção da Assistência Social. 6. ed. São Paulo: Cortez, 2011. DOWER, Nelson Godoy Bassil. **Instituições de direito público e privado** . 11. ed. São Paulo: 
+MinisteriodaEducacao InstitutoFederal doParana
 
-27 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederal doParana 
+NELPA, 2002.
 
-INSTITUTOFEDERAL PARANA 
+## **1. IDENTIFICAÇÃO DA DISCIPLINA**
 
-NELPA, 2002. 
+**Curso:** Gestão Social de Políticas Públicas
 
-## **1. IDENTIFICAÇÃO DA DISCIPLINA** 
+**Componente Curricular:** Políticas de Esporte e Lazer
 
-**Curso:** Gestão Social de Políticas Públicas 
+**Carga horária:** 24 horas relógio
 
-**Componente Curricular:** Políticas de Esporte e Lazer 
+## **2. EMENTA**
 
-**Carga horária:** 24 horas relógio 
+Teorias clássicas que abordam os fenômenos do esporte e do lazer. Constitucionalização do esporte e do lazer no Brasil. Políticas de Esporte e Lazer. Legislação e documentos oficiais que versam sobre o esporte e o lazer. Os espaços públicos de esporte e de lazer na cidade contemporânea. Esporte, lazer e vida de qualidade. Esporte, lazer e desenvolvimento comunitário.
 
-## **2. EMENTA** 
+## **3. OBJETIVOS DO COMPONENTE CURRICULAR (geral e específicos)**
 
-Teorias clássicas que abordam os fenômenos do esporte e do lazer. Constitucionalização do esporte e do lazer no Brasil. Políticas de Esporte e Lazer. Legislação e documentos oficiais que versam sobre o esporte e o lazer. Os espaços públicos de esporte e de lazer na cidade contemporânea. Esporte, lazer e vida de qualidade. Esporte, lazer e desenvolvimento comunitário. 
+Geral:
 
-## **3. OBJETIVOS DO COMPONENTE CURRICULAR (geral e específicos)** 
+- Compreender a relevância da promoção de políticas de esporte e lazer como direito social de todo cidadão brasileiro.
 
-Geral: 
+Específicos:
 
-- Compreender a relevância da promoção de políticas de esporte e lazer como direito social de todo cidadão brasileiro. 
+- Examinar as teorias clássicas que versam sobre os fenômenos do esporte e do lazer;
 
-Específicos: 
+- - Identificar os elementos que caracterizam o esporte e o lazer na modernidade;
 
-- Examinar as teorias clássicas que versam sobre os fenômenos do esporte e do lazer; 
+- - Conhecer as legislações nacional e regional que versam sobre as políticas de esporte e lazer;
 
-- - Identificar os elementos que caracterizam o esporte e o lazer na modernidade; 
+- - Analisar o esporte e o lazer como direitos sociais;
 
-- - Conhecer as legislações nacional e regional que versam sobre as políticas de esporte e lazer; 
+- Analisar as concepções de qualidade de vida e estilo de vida relacionadas ao lazer;
 
-- - Analisar o esporte e o lazer como direitos sociais; 
+- - Compreender a importância dos espaços públicos de lazer para uma vida de qualidade;
 
-- Analisar as concepções de qualidade de vida e estilo de vida relacionadas ao lazer; 
+- - (Re)conhecer políticas públicas de esporte e lazer nos contextos locais e intervir pela garantia do direito ao lazer ativo e à prática esportiva;
 
-- - Compreender a importância dos espaços públicos de lazer para uma vida de qualidade; 
+- - Refletir sobre características que fazem do esporte e do lazer elementos indispensáveis para uma vida de qualidade e para o desenvolvimento comunitário;
 
-- - (Re)conhecer políticas públicas de esporte e lazer nos contextos locais e intervir pela garantia do direito ao lazer ativo e à prática esportiva; 
+- - Desenvolver o pensamento científico a partir de uma compreensão ampla de ciências para a produção e aplicação do conhecimento na área do esporte e do lazer.
 
-- - Refletir sobre características que fazem do esporte e do lazer elementos indispensáveis para uma vida de qualidade e para o desenvolvimento comunitário; 
+## **4. MÉTODOS DE AVALIAÇÃO**
 
-- - Desenvolver o pensamento científico a partir de uma compreensão ampla de ciências para a produção e aplicação do conhecimento na área do esporte e do lazer. 
+A avaliação será diagnóstica, contínua, cumulativa e processual, fruto da observação e da verificação do aprendizado e do envolvimento dos/as estudantes no decorrer das aulas, com registro em Planilha/Diário de Classe. Compreenderá momentos pontuais de avaliação somativa, que ocorrerá por meio da utilização de distintos instrumentos de avaliação como seminários, produções textuais e júri simulados, com intuito de verificar o aprendizado e o consequente grau de compreensão argumentativa que os estudantes obtiveram.
 
-## **4. MÉTODOS DE AVALIAÇÃO** 
+4.1. Instrumentos:
 
-A avaliação será diagnóstica, contínua, cumulativa e processual, fruto da observação e da verificação do aprendizado e do envolvimento dos/as estudantes no decorrer das aulas, com registro em Planilha/Diário de Classe. Compreenderá momentos pontuais de avaliação somativa, que ocorrerá por meio da utilização de distintos instrumentos de avaliação como seminários, produções textuais e júri simulados, com intuito de verificar o aprendizado e o consequente grau de compreensão argumentativa que os estudantes obtiveram. 
+- Planilha/Diário de Classe;
 
-4.1. Instrumentos: 
+- Júri simulado;
 
-- Planilha/Diário de Classe; 
+- Seminário;
 
-- Júri simulado; 
+- Produção textual.
 
-- Seminário; 
+## 4.2. Critérios:
 
-- Produção textual. 
+- Interpreta as teorias clássicas que versam sobre o esporte e o lazer;
 
-## 4.2. Critérios: 
+28
 
-- Interpreta as teorias clássicas que versam sobre o esporte e o lazer; 
+MinisteriodaEducacao InstitutoFederal doParana
 
-28 
-
-MinisteriodaEducacao InstitutoFederal doParana 
-
-INSTITUTOFEDERAL PARANA 
+INSTITUTOFEDERAL PARANA
 
 |-|Identifica os elementos que caracterizam o esporte e o lazer na modernidade;|
 |---|---|
@@ -995,58 +966,52 @@ INSTITUTOFEDERAL PARANA
 ||ciências voltado à produção e aplicação do conhecimento na área do esporte e do|
 ||lazer.|
 
+## **5. REFERÊNCIAS 5.1 REFERÊNCIAS BÁSICAS**
 
+GOMES, Christianne Luce; ISAYAMA, Hélder Ferreira. **O direito social ao lazer no Brasil** . Campinas: Autores Associados, 2015.
 
-## **5. REFERÊNCIAS 5.1 REFERÊNCIAS BÁSICAS** 
+MARCELLINO, Nelson Carvalho (Org.). **Lazer e esporte** : políticas públicas. 2. ed. Campinas: Autores Associados, 2001.
 
-GOMES, Christianne Luce; ISAYAMA, Hélder Ferreira. **O direito social ao lazer no Brasil** . Campinas: Autores Associados, 2015. 
+MARINHO, Alcyane; PIMENTEL, Giuliano Gomes de Assis. Dos clássicos aos contemporâneos: revendo e conhecendo importantes categorias referentes às teorias do lazer. In: PIMENTEL, Giuliano Gomes de Assis (Org.). **Teorias do Lazer** . Maringá: Eduem, 2010. p. 1-41.
 
-MARCELLINO, Nelson Carvalho (Org.). **Lazer e esporte** : políticas públicas. 2. ed. Campinas: Autores Associados, 2001. 
+SERPA, Angelo. **O Espaço Público na Cidade Contemporânea** . Editora Contexto, 2007. STIGGER, Marco Paulo. **Esporte, lazer e estilos de vida** : um estudo etnográfico. Campinas: Autores Associados, 2002.
 
-MARINHO, Alcyane; PIMENTEL, Giuliano Gomes de Assis. Dos clássicos aos contemporâneos: revendo e conhecendo importantes categorias referentes às teorias do lazer. In: PIMENTEL, Giuliano Gomes de Assis (Org.). **Teorias do Lazer** . Maringá: Eduem, 2010. p. 1-41. 
+## **5.2 REFERÊNCIAS COMPLEMENTARES**
 
-SERPA, Angelo. **O Espaço Público na Cidade Contemporânea** . Editora Contexto, 2007. STIGGER, Marco Paulo. **Esporte, lazer e estilos de vida** : um estudo etnográfico. Campinas: Autores Associados, 2002. 
+BRASIL. **Estatuto da Cidade** . 3 ed. Brasília: Senado Federal, Subsecretaria de Edições Técnicas, 2008. Disponível em: https://www2.senado.leg.br/bdsf/bitstream/handle/id/70317/000070317.pdf GOMES, Christiane Luce; PINTO, Leila Mirtes Santos de Magalhães. O lazer no Brasil: Analisando práticas culturais cotidianas, acadêmicas e políticas. In: GOMES, Christiane Luce et al. (Org.). **Lazer na América Latina/Tiempo libre, ocio y recreación en Latinoamérica.** 1 ed. Belo Horizonte: Editora UFMG, 2009. p. 67-122. Disponível em: Acesso em: &lt;https://grupootium.files.wordpress.com/2011/06/livro-1-lazer-brasil.pdf&gt; 22 out. 2020. NAHAS, Markus Vinicius. **Atividade física, saúde e qualidade de vida** : conceitos e sugestões para um estilo de vida ativo. 6. ed. Londrina: Midiograf, 2013. PARENTE FILHO, Marcos Santos (Org.). **Esporte, educação física e Constituição** . São Paulo: IBRASA, 1989. MARCELLINO, Nelson Carvalho. **Estudos do lazer** : uma introdução. Campinas: Autores Associados, 1996.
 
-## **5.2 REFERÊNCIAS COMPLEMENTARES** 
+**1. IDENTIFICAÇÃO DA DISCIPLINA Curso:** Gestão Social de Políticas Públicas **Componente Curricular:** Política de Educação **Carga horária:** 24 horas relógio
 
-BRASIL. **Estatuto da Cidade** . 3 ed. Brasília: Senado Federal, Subsecretaria de Edições Técnicas, 2008. Disponível em: https://www2.senado.leg.br/bdsf/bitstream/handle/id/70317/000070317.pdf GOMES, Christiane Luce; PINTO, Leila Mirtes Santos de Magalhães. O lazer no Brasil: Analisando práticas culturais cotidianas, acadêmicas e políticas. In: GOMES, Christiane Luce et al. (Org.). **Lazer na América Latina/Tiempo libre, ocio y recreación en Latinoamérica.** 1 ed. Belo Horizonte: Editora UFMG, 2009. p. 67-122. Disponível em: Acesso em: &lt;https://grupootium.files.wordpress.com/2011/06/livro-1-lazer-brasil.pdf&gt; 22 out. 2020. NAHAS, Markus Vinicius. **Atividade física, saúde e qualidade de vida** : conceitos e sugestões para um estilo de vida ativo. 6. ed. Londrina: Midiograf, 2013. PARENTE FILHO, Marcos Santos (Org.). **Esporte, educação física e Constituição** . São Paulo: IBRASA, 1989. MARCELLINO, Nelson Carvalho. **Estudos do lazer** : uma introdução. Campinas: Autores Associados, 1996. 
+29
 
-**1. IDENTIFICAÇÃO DA DISCIPLINA Curso:** Gestão Social de Políticas Públicas **Componente Curricular:** Política de Educação **Carga horária:** 24 horas relógio 
+MinisteriodaEducacao InstitutoFederal doParana
 
-29 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederal doParana 
+## **2. EMENTA**
 
-INSTITUTOFEDERAL PARANA 
+Política e Educação, Políticas Públicas em Educação (Lei de Diretrizes e Bases da Educação, Plano Nacional de Educação, Fórum Nacional de Educação, CONAES, Sistema Nacional de Educação, Conselhos de Educação, Base Nacional Curricular Comum, Educação Profissional no PNE, Políticas Afirmativas e Inclusivas, Estatuto da Criança e do Adolescente). Políticas de avaliação da educação básica e ensino superior (SINAES, SAEB, ENADE etc.). Políticas de financiamento da educação no Brasil (FNDE, FUNDEB, PDDE etc.). **3. OBJETIVOS DO COMPONENTE CURRICULAR (geral e específicos)**
 
-## **2. EMENTA** 
+Geral: - Analisar as diretrizes nacionais que orientam as políticas educacionais, a estrutura e a organização da educação no Brasil no contexto atual. Específicos:
 
-Política e Educação, Políticas Públicas em Educação (Lei de Diretrizes e Bases da Educação, Plano Nacional de Educação, Fórum Nacional de Educação, CONAES, Sistema Nacional de Educação, Conselhos de Educação, Base Nacional Curricular Comum, Educação Profissional no PNE, Políticas Afirmativas e Inclusivas, Estatuto da Criança e do Adolescente). Políticas de avaliação da educação básica e ensino superior (SINAES, SAEB, ENADE etc.). Políticas de financiamento da educação no Brasil (FNDE, FUNDEB, PDDE etc.). **3. OBJETIVOS DO COMPONENTE CURRICULAR (geral e específicos)** 
+- Conhecer o sistema educacional brasileiro bem como a legislação que o compõe; - Analisar as políticas de financiamento da educação no Brasil nas últimas décadas.
 
-Geral: - Analisar as diretrizes nacionais que orientam as políticas educacionais, a estrutura e a organização da educação no Brasil no contexto atual. Específicos: 
+## **4. MÉTODOS DE AVALIAÇÃO**
 
-- Conhecer o sistema educacional brasileiro bem como a legislação que o compõe; - Analisar as políticas de financiamento da educação no Brasil nas últimas décadas. 
+As avaliações acontecerão por meio de trabalhos feitos e apresentados em equipes, avaliações escritas, elaboração de paper, realização de leituras previamente de artigos científicos para a participação do aluno nos debates, júri simulado, preenchimento de roteiros de leituras.
 
-## **4. MÉTODOS DE AVALIAÇÃO** 
+## **5. REFERÊNCIAS**
 
-As avaliações acontecerão por meio de trabalhos feitos e apresentados em equipes, avaliações escritas, elaboração de paper, realização de leituras previamente de artigos científicos para a participação do aluno nos debates, júri simulado, preenchimento de roteiros de leituras. 
+**5.1 REFERÊNCIAS BÁSICAS** FREIRE, Paulo. **Pedagogia da autonomia:** saberes necessários à prática educativa. São Paulo: Paz e Terra, 1998.
 
-## **5. REFERÊNCIAS** 
+FRIGOTTO, G.; CIAVATTA, M.; RAMOS, M. (Orgs.). **Ensino médio integrado:** concepções e contradições. São Paulo: Cortez. KUENZER, Acácia Zeneida. **Ensino médio e profissional:** as políticas do Estado neoliberal. 4 ed. São Paulo: Cortez, 2007. **5.2 REFERÊNCIAS COMPLEMENTARES** ARROYO, Miguel G. **Currículo, território em disputa** . 5. ed. Petrópolis, RJ: Vozes, 2013. AZEVEDO, J. L. de. **A educação como política pública** . 3. ed. Campinas, SP: Autores Associados, 2004. AZEVEDO, Sérgio de. Políticas públicas: discutindo modelos e alguns problemas de implementação. In: SANTOS JÚNIOR, Orlando A. dos et. al. **Políticas públicas e gestão local** : programa interdisciplinar de capacitação de conselheiros municipais. Rio de Janeiro: FASE, 2003. BALL, Stephen J.; MAINARDES, Jefferson. **Políticas educacionais:** questões e dilemas. São Paulo: Cortez, 2011. BOURDIEU, Pierre. **Economia das trocas simbólicas** . 5. ed. São Paulo: Perspectiva, 2001. BRASIL. **Constituição da República Federativa do Brasil de 05 de outubro de 1988** . Disponível em: http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm Acesso em: 25 jun. 2016. BRASIL. Lei n. 13.005, de 25 de junho de 2014. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13005.htm Acesso em: 25 jun. 2016.
 
-**5.1 REFERÊNCIAS BÁSICAS** FREIRE, Paulo. **Pedagogia da autonomia:** saberes necessários à prática educativa. São Paulo: Paz e Terra, 1998. 
+30
 
-FRIGOTTO, G.; CIAVATTA, M.; RAMOS, M. (Orgs.). **Ensino médio integrado:** concepções e contradições. São Paulo: Cortez. KUENZER, Acácia Zeneida. **Ensino médio e profissional:** as políticas do Estado neoliberal. 4 ed. São Paulo: Cortez, 2007. **5.2 REFERÊNCIAS COMPLEMENTARES** ARROYO, Miguel G. **Currículo, território em disputa** . 5. ed. Petrópolis, RJ: Vozes, 2013. AZEVEDO, J. L. de. **A educação como política pública** . 3. ed. Campinas, SP: Autores Associados, 2004. AZEVEDO, Sérgio de. Políticas públicas: discutindo modelos e alguns problemas de implementação. In: SANTOS JÚNIOR, Orlando A. dos et. al. **Políticas públicas e gestão local** : programa interdisciplinar de capacitação de conselheiros municipais. Rio de Janeiro: FASE, 2003. BALL, Stephen J.; MAINARDES, Jefferson. **Políticas educacionais:** questões e dilemas. São Paulo: Cortez, 2011. BOURDIEU, Pierre. **Economia das trocas simbólicas** . 5. ed. São Paulo: Perspectiva, 2001. BRASIL. **Constituição da República Federativa do Brasil de 05 de outubro de 1988** . Disponível em: http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm Acesso em: 25 jun. 2016. BRASIL. Lei n. 13.005, de 25 de junho de 2014. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13005.htm Acesso em: 25 jun. 2016. 
+Ministerioda Educacao InstitutoFederaldoParana
 
-30 
+Ministerioda Educacao 1 INSTITUTOFEDERAL PARANA InstitutoFederaldoParana BRASIL. **Lei nº 9.394, de 20 de dezembro de 1996** . Disponível em: http://www.planalto.gov.br/ccivil_03/leis/L9394.htm. Acesso em: 25 Jun. 2016. CARNEIRO, Moacir Alves. **LDB fácil:** leitura crítico-compreensiva, artigo a artigo. 22. ed. Petrópolis, RJ:  Vozes, 2014.
 
-Ministerioda Educacao InstitutoFederaldoParana 
-
-Ministerioda Educacao 1 INSTITUTOFEDERAL PARANA InstitutoFederaldoParana BRASIL. **Lei nº 9.394, de 20 de dezembro de 1996** . Disponível em: http://www.planalto.gov.br/ccivil_03/leis/L9394.htm. Acesso em: 25 Jun. 2016. CARNEIRO, Moacir Alves. **LDB fácil:** leitura crítico-compreensiva, artigo a artigo. 22. ed. Petrópolis, RJ:  Vozes, 2014. 
-
-**==> picture [471 x 608] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 |CORACINI,|Maria|José|(Org.).|Identidades|Silenciadas|e|(In)visíveis:|entre|a|inclusão|e|a|
 |exclusão. Campinas, SP: Pontes Editores, 2011.|
@@ -1090,637 +1055,614 @@ Ministerioda Educacao 1 INSTITUTOFEDERAL PARANA InstitutoFederaldoParana BRASIL.
 |SHIROMA,|Eneida|Oto;|MORAES,|Maria|Célia|M.|de;|EVANGELISTA,|Olinda.|Política|
 |Educacional|. Rio de Janeiro: DP&A, 2000.|
 
-**----- End of picture text -----**<br>
+31
 
+MinisteriodaEducacao InstitutoFederal doParana
 
-31 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederal doParana 
+SILVA, Maria Abádia da; CUNHA, Célio da (Orgs.). **Educação básica:** políticas, avanços e pendências. Campinas: Autores Associados, 2014.
 
-INSTITUTOFEDERAL PARANA 
+SOUZA, Celina. Políticas públicas: questões temáticas e de pesquisa. **Caderno CRH** , Salvador, n. 39, jul./dez. 2003.
 
-SILVA, Maria Abádia da; CUNHA, Célio da (Orgs.). **Educação básica:** políticas, avanços e pendências. Campinas: Autores Associados, 2014. 
+## **1. IDENTIFICAÇÃO DA DISCIPLINA**
 
-SOUZA, Celina. Políticas públicas: questões temáticas e de pesquisa. **Caderno CRH** , Salvador, n. 39, jul./dez. 2003. 
+**Curso:** Gestão Social de Políticas Públicas
 
-## **1. IDENTIFICAÇÃO DA DISCIPLINA** 
+**Componente Curricular:** Trabalho de Conclusão de Curso 1
 
-**Curso:** Gestão Social de Políticas Públicas 
+**Carga horária:** 40 horas relógio
 
-**Componente Curricular:** Trabalho de Conclusão de Curso 1 
+## **2. EMENTA**
 
-**Carga horária:** 40 horas relógio 
+Elaboração do projeto de pesquisa do TCC, com uma temática relacionada ao curso, mediante orientação, acompanhamento e avaliação docente.
 
-## **2. EMENTA** 
+## **3. OBJETIVOS DO COMPONENTE CURRICULAR (geral e específicos)**
 
-Elaboração do projeto de pesquisa do TCC, com uma temática relacionada ao curso, mediante orientação, acompanhamento e avaliação docente. 
+Geral:
 
-## **3. OBJETIVOS DO COMPONENTE CURRICULAR (geral e específicos)** 
+- Orientar o/a estudante na elaboração do projeto de pesquisa;
 
-Geral: 
+Específicos:
 
-- Orientar o/a estudante na elaboração do projeto de pesquisa; 
+- Elaborar questão problema;
 
-Específicos: 
+   - Definir método e metodologia;
 
-- Elaborar questão problema; 
+-
 
-   - Definir método e metodologia; 
+   - Redigir justificativa;
 
-- 
+-
 
-   - Redigir justificativa; 
+- Criar texto com referencial teórico sobre o tema.
 
-- 
+## **4. MÉTODOS DE AVALIAÇÃO**
 
-- Criar texto com referencial teórico sobre o tema. 
+O/a docente encarregado/a da orientação deverá ao final da disciplina fazer a análise do projeto procurando observar se os objetivos do componente curricular foram atingidos.
 
-## **4. MÉTODOS DE AVALIAÇÃO** 
+## **5. REFERÊNCIAS**
 
-O/a docente encarregado/a da orientação deverá ao final da disciplina fazer a análise do projeto procurando observar se os objetivos do componente curricular foram atingidos. 
+## **5.1 REFERÊNCIAS BÁSICAS**
 
-## **5. REFERÊNCIAS** 
+GIL, A. C. **Métodos e Técnicas de Pesquisa Social.** 6 ed. São Paulo: Atlas, 2011. SEVERINO, A. J. **Metodologia do Trabalho Científico** . 23 ed. São Paulo, Cortez, 2008.
 
-## **5.1 REFERÊNCIAS BÁSICAS** 
+TRIVIÑOS, A. N. S. **Introdução à Pesquisa em ciências sociais:** a pesquisa qualitativa em educação. São Paulo: Atlas, 2011.
 
-GIL, A. C. **Métodos e Técnicas de Pesquisa Social.** 6 ed. São Paulo: Atlas, 2011. SEVERINO, A. J. **Metodologia do Trabalho Científico** . 23 ed. São Paulo, Cortez, 2008. 
+## **5.2 REFERÊNCIAS COMPLEMENTARES**
 
-TRIVIÑOS, A. N. S. **Introdução à Pesquisa em ciências sociais:** a pesquisa qualitativa em educação. São Paulo: Atlas, 2011. 
+Bibliografias de referências da área de pesquisa do/a estudante.
 
-## **5.2 REFERÊNCIAS COMPLEMENTARES** 
+## **1. IDENTIFICAÇÃO DA DISCIPLINA**
 
-Bibliografias de referências da área de pesquisa do/a estudante. 
+**Curso:** Gestão Social de Políticas Públicas
 
-## **1. IDENTIFICAÇÃO DA DISCIPLINA** 
+**Componente Curricular:** Trabalho de Conclusão de Curso 2
 
-**Curso:** Gestão Social de Políticas Públicas 
+**Carga horária:** 40 horas relógio
 
-**Componente Curricular:** Trabalho de Conclusão de Curso 2 
+## **2. EMENTA**
 
-**Carga horária:** 40 horas relógio 
+Elaboração de um texto científico na forma de artigo, baseado no projeto de pesquisa, mediante orientação, acompanhamento e avaliação docente.
 
-## **2. EMENTA** 
+## **3. OBJETIVOS DO COMPONENTE CURRICULAR (geral e específicos)**
 
-Elaboração de um texto científico na forma de artigo, baseado no projeto de pesquisa, mediante orientação, acompanhamento e avaliação docente. 
+Geral:
 
-## **3. OBJETIVOS DO COMPONENTE CURRICULAR (geral e específicos)** 
+32
 
-Geral: 
+MinisteriodaEducacao InstitutoFederal doParana
 
-32 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederal doParana 
+- Elaborar um texto científico apresentando os resultados da trajetória de pesquisa, conforme projeto iniciado em TCC1;
 
-INSTITUTOFEDERAL PARANA 
+- Específicos:
 
-- Elaborar um texto científico apresentando os resultados da trajetória de pesquisa, conforme projeto iniciado em TCC1; 
+   -
 
-- Específicos: 
+   -
 
-   - 
+   - Apresentar domínio na escrita científica;
 
-   - 
+   - Demonstrar capacidade de leitura, interpretação e redação de textos científicos;
 
-   - Apresentar domínio na escrita científica; 
+- Aprofundar os debates relativos aos aspectos teórico metodológicos da pesquisa;
 
-   - Demonstrar capacidade de leitura, interpretação e redação de textos científicos; 
+- Levantar, interpretar e analisar dados de pesquisa;
 
-- Aprofundar os debates relativos aos aspectos teórico metodológicos da pesquisa; 
+- Publicar os resultados obtidos por meio do processo de pesquisa.
 
-- Levantar, interpretar e analisar dados de pesquisa; 
+## **4. MÉTODOS DE AVALIAÇÃO**
 
-- Publicar os resultados obtidos por meio do processo de pesquisa. 
+O/a docente encarregado/a da orientação deverá ao final da disciplina fazer a análise do texto procurando observar se os objetivos do componente curricular foram atingidos. **5. REFERÊNCIAS**
 
-## **4. MÉTODOS DE AVALIAÇÃO** 
+## **5.1 REFERÊNCIAS BÁSICAS**
 
-O/a docente encarregado/a da orientação deverá ao final da disciplina fazer a análise do texto procurando observar se os objetivos do componente curricular foram atingidos. **5. REFERÊNCIAS** 
+GIL, A. C. **Métodos e Técnicas de Pesquisa Social.** 6 ed. São Paulo: Atlas, 2011. SEVERINO, A. J. **Metodologia do Trabalho Científico** . 23 ed. São Paulo, Cortez, 2008. TRIVIÑOS, A. N. S. **Introdução à Pesquisa em ciências sociais:** a pesquisa qualitativa em educação. São Paulo: Atlas, 2011.
 
-## **5.1 REFERÊNCIAS BÁSICAS** 
+## **5.2 REFERÊNCIAS COMPLEMENTARES**
 
-GIL, A. C. **Métodos e Técnicas de Pesquisa Social.** 6 ed. São Paulo: Atlas, 2011. SEVERINO, A. J. **Metodologia do Trabalho Científico** . 23 ed. São Paulo, Cortez, 2008. TRIVIÑOS, A. N. S. **Introdução à Pesquisa em ciências sociais:** a pesquisa qualitativa em educação. São Paulo: Atlas, 2011. 
+Bibliografias de referências da área de pesquisa do/a estudante.
 
-## **5.2 REFERÊNCIAS COMPLEMENTARES** 
+## **17. Experiência do coordenador**
 
-Bibliografias de referências da área de pesquisa do/a estudante. 
+## **DALVANI FERNANDES**
 
-## **17. Experiência do coordenador** 
+## **Instituto Federal do Paraná, IFPR, Brasil.**
 
-## **DALVANI FERNANDES** 
+Período: 2012 – Atual
 
-## **Instituto Federal do Paraná, IFPR, Brasil.** 
+Vínculo: Enquadramento Funcional: Professor de Geografia, Carga horária: 40, Regime: Dedicação exclusiva, servidor público.
 
-Período: 2012 – Atual 
+Atividades 02/2012 - Atual Disciplinas ministradas Geografia I Geografia II Geografia III 10/2012 - 02/2014
 
-Vínculo: Enquadramento Funcional: Professor de Geografia, Carga horária: 40, Regime: Dedicação exclusiva, servidor público. 
+Conselhos, Comissões e Consultoria, Instituto Federal do Paraná - Campus Curitiba. Cargo ou função: Membro do COPE - Comitê de Pesquisa e Extensão.
 
-Atividades 02/2012 - Atual Disciplinas ministradas Geografia I Geografia II Geografia III 10/2012 - 02/2014 
+## **Universidade Federal do Paraná, UFPR, Brasil.**
 
-Conselhos, Comissões e Consultoria, Instituto Federal do Paraná - Campus Curitiba. Cargo ou função: Membro do COPE - Comitê de Pesquisa e Extensão. 
+33
 
-## **Universidade Federal do Paraná, UFPR, Brasil.** 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-33 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+Período: 2010 - 2010
 
-INSTITUTOFEDERAL PARANA 
+Vínculo: Estagiário, Enquadramento Funcional: Livre, Carga horária: 12 Outras informações
 
-Período: 2010 - 2010 
+Estágio Docente nas disciplinas: GEOGRAFIA DA RELIGIÃO e FILOSOFIA DA GEOGRAFIA. Ambas sob orientação do Prof. Dr. Sylvio. F. Gil Filho.
 
-Vínculo: Estagiário, Enquadramento Funcional: Livre, Carga horária: 12 Outras informações 
+## **Colégio Nossa Senhora de Belém (Edu. Scalabriniana Integrada), ESI, Brasil.**
 
-Estágio Docente nas disciplinas: GEOGRAFIA DA RELIGIÃO e FILOSOFIA DA GEOGRAFIA. Ambas sob orientação do Prof. Dr. Sylvio. F. Gil Filho. 
+Período: 2009 - 2009
 
-## **Colégio Nossa Senhora de Belém (Edu. Scalabriniana Integrada), ESI, Brasil.** 
+Vínculo: Celetista, Enquadramento: Professor de Geografia, Carga horária: 24 Outras informações
 
-Período: 2009 - 2009 
+Atuei como professor de Geografia no ensino fundamental e médio.
 
-Vínculo: Celetista, Enquadramento: Professor de Geografia, Carga horária: 24 Outras informações 
+## **Colégio Aliança, C.A., Brasil.**
 
-Atuei como professor de Geografia no ensino fundamental e médio. 
+Período: 2009 - 2009
 
-## **Colégio Aliança, C.A., Brasil.** 
+Vínculo: Celetista, Enquadramento: Professor de Geografia, Carga horária: 4 Outras informações
 
-Período: 2009 - 2009 
+Atuei no Cursinho Pré-Vestibular do Colégio Aliança como professor de Geografia Geral (Geopolítica) e Atualidades.
 
-Vínculo: Celetista, Enquadramento: Professor de Geografia, Carga horária: 4 Outras informações 
+## **Mocidade Para Cristo (ONG), MPC, Brasil.**
 
-Atuei no Cursinho Pré-Vestibular do Colégio Aliança como professor de Geografia Geral (Geopolítica) e Atualidades. 
+Período: 2007 - 2008
 
-## **Mocidade Para Cristo (ONG), MPC, Brasil.** 
+Vínculo: Voluntário, Enquadramento Funcional: Voluntário, Carga horária: 2
 
-Período: 2007 - 2008 
+## **Universidade Estadual do Centro-Oeste, UNICENTRO, Brasil.**
 
-Vínculo: Voluntário, Enquadramento Funcional: Voluntário, Carga horária: 2 
+Período: 2006 - 2007
 
-## **Universidade Estadual do Centro-Oeste, UNICENTRO, Brasil.** 
+Vínculo: Livre, Enquadramento Funcional: Pesquisador bolsista do Programa PET, Carga horária: 20
 
-Período: 2006 - 2007 
+Outras informações: Aluno pesquisador e bolsista do Programa de Educação Tutorial - PET vinculado ao SEsu/MEC, com a pesquisa intitulada "Juventude evangélica no bairro Jardim das Américas, Guarapuava-PR"
 
-Vínculo: Livre, Enquadramento Funcional: Pesquisador bolsista do Programa PET, Carga horária: 20 
+## **18. Experiência do coordenador adjunto**
 
-Outras informações: Aluno pesquisador e bolsista do Programa de Educação Tutorial - PET vinculado ao SEsu/MEC, com a pesquisa intitulada "Juventude evangélica no bairro Jardim das Américas, Guarapuava-PR" 
+**LEANDRO JOSÉ DE ARAUJO**
 
-## **18. Experiência do coordenador adjunto** 
+34
 
-**LEANDRO JOSÉ DE ARAUJO** 
+Ministerioda Educacao InstitutoFederaldoParana
 
-34 
+INSTITUTOFEDERAL PARANA
 
-Ministerioda Educacao InstitutoFederaldoParana 
+## **Instituto Federal do Paraná, IFPR, Brasil.**
 
-INSTITUTOFEDERAL PARANA 
+Período: 2014 - Atual Enquadramento Funcional: Assistente Social, Carga horária: 40
 
-## **Instituto Federal do Paraná, IFPR, Brasil.** 
+## **Faculdade Padre João Bagozzi, BAGOZZI, Brasil.**
 
-Período: 2014 - Atual Enquadramento Funcional: Assistente Social, Carga horária: 40 
+Período: 2011 - Atual Enquadramento Funcional: Celetista, Professor titular, Carga horária: 15 Disciplinas ministradas Estágio Supervisionado em Serviço Social II FHTMSS II FHTMSS III FHTMSS IV Orientação de TCC II Orientação de TCC III Pensamento Filosófico Contemporâneo Pesquisa Aplicada ao Serviço Social II Política Social I Projeto Integrador Projeto Integrador Período: 2011 - 2013 Enquadramento Funcional: Coordenador de curso, Carga horária: 20 Período: 02/2013 - Atual Extensão universitária, Curso de Serviço Social. Atividade de extensão realizada: O trabalho educativo do Serviço Social.
 
-## **Faculdade Padre João Bagozzi, BAGOZZI, Brasil.** 
+## **Defensoria Pública da União, DPU, Brasil.**
 
-Período: 2011 - Atual Enquadramento Funcional: Celetista, Professor titular, Carga horária: 15 Disciplinas ministradas Estágio Supervisionado em Serviço Social II FHTMSS II FHTMSS III FHTMSS IV Orientação de TCC II Orientação de TCC III Pensamento Filosófico Contemporâneo Pesquisa Aplicada ao Serviço Social II Política Social I Projeto Integrador Projeto Integrador Período: 2011 - 2013 Enquadramento Funcional: Coordenador de curso, Carga horária: 20 Período: 02/2013 - Atual Extensão universitária, Curso de Serviço Social. Atividade de extensão realizada: O trabalho educativo do Serviço Social. 
+Período: 2010 - 2014 Enquadramento Funcional: Assistente Social, Servidor Público, Carga horária: 30
 
-## **Defensoria Pública da União, DPU, Brasil.** 
+## **Associação Educacional de Jales, UNIJALES, Brasil.**
 
-Período: 2010 - 2014 Enquadramento Funcional: Assistente Social, Servidor Público, Carga horária: 30 
+Período: 2007 - 2010 Enquadramento: Professor Universitário/Coordenador do Curso, Carga horária: 30 Regime: Celetista, Dedicação exclusiva. Disciplinas ministradas Ética Profissional I
 
-## **Associação Educacional de Jales, UNIJALES, Brasil.** 
+35
 
-Período: 2007 - 2010 Enquadramento: Professor Universitário/Coordenador do Curso, Carga horária: 30 Regime: Celetista, Dedicação exclusiva. Disciplinas ministradas Ética Profissional I 
+Ministerioda Educacao InstitutoFederaldoParana
 
-35 
+INSTITUTOFEDERAL PARANA
 
-Ministerioda Educacao InstitutoFederaldoParana 
+Ética Profissional II FHTMSS I FHTMSS I FHTMSS II FHTMSS III Introdução ao Serviço Social Métodos e Técnicas de Pesquisa Fundamentos Históricos, Teórico e Metodológicos do Serviço Social I Introdução ao Serviço Social
 
-INSTITUTOFEDERAL PARANA 
+Ensino, Serviço Social, Nível: Especialização Período: 06/2008 - 06/2008 Disciplinas ministradas: O mundo do trabalho: fundamentos históricos e econômicos Metodologia do Ensino Superior em Artes Metodologia Científica 07/2007 - 12/2007 Extensão universitária, Coordenadoria de Curso: Atividade de extensão realizada: Serviço Social na Educação.
 
-Ética Profissional II FHTMSS I FHTMSS I FHTMSS II FHTMSS III Introdução ao Serviço Social Métodos e Técnicas de Pesquisa Fundamentos Históricos, Teórico e Metodológicos do Serviço Social I Introdução ao Serviço Social 
+## **Universidade Presidente Antônio Carlos, UNIPAC, Brasil.**
 
-Ensino, Serviço Social, Nível: Especialização Período: 06/2008 - 06/2008 Disciplinas ministradas: O mundo do trabalho: fundamentos históricos e econômicos Metodologia do Ensino Superior em Artes Metodologia Científica 07/2007 - 12/2007 Extensão universitária, Coordenadoria de Curso: Atividade de extensão realizada: Serviço Social na Educação. 
+Período: 2007 - 2007
 
-## **Universidade Presidente Antônio Carlos, UNIPAC, Brasil.** 
+Vínculo: Celetista, Enquadramento Funcional: Professor, Carga horária: 12 Campus Itajubá Atividades: Ensino, Serviço Social, Nível: Graduação Disciplinas ministradas Economia Política Formação Econômica, Política e Social do Brasil Fundamentos do Serviço Social II
 
-Período: 2007 - 2007 
+## **Instituto de Ensino Superior de São Paulo, IESSP, Brasil.**
 
-Vínculo: Celetista, Enquadramento Funcional: Professor, Carga horária: 12 Campus Itajubá Atividades: Ensino, Serviço Social, Nível: Graduação Disciplinas ministradas Economia Política Formação Econômica, Política e Social do Brasil Fundamentos do Serviço Social II 
+Período: 2004 - 2005
 
-## **Instituto de Ensino Superior de São Paulo, IESSP, Brasil.** 
+Vínculo: Celetista, Enquadramento Funcional: Professor, Carga horária: 8 Atividades: Ensino, Serviço Social, Nível: Graduação Disciplinas ministradas
 
-Período: 2004 - 2005 
+36
 
-Vínculo: Celetista, Enquadramento Funcional: Professor, Carga horária: 8 Atividades: Ensino, Serviço Social, Nível: Graduação Disciplinas ministradas 
+INSTITUTOFEDERAL PARANA
 
-36 
+MinisteriodaEducacao InstitutoFederal doParana
 
-INSTITUTOFEDERAL PARANA 
+Economia Política Sociologia
 
-MinisteriodaEducacao InstitutoFederal doParana 
+## **19. Planejamento econômico/Necessidades para o funcionamento do curso**
 
-Economia Política Sociologia 
+Não se aplica a este curso. Todos os recursos estarão vinculados ao orçamento do Campus. Trata-se de um curso gratuito. Para cada disciplina equivalente a 30 horas semanais será contabilizada uma carga semanal de 3 horas/aula no Plano de Trabalho Docente no semestre em que o docente ministrar a disciplina, portanto, **não há necessidade de contratação de novos servidores** .
 
-## **19. Planejamento econômico/Necessidades para o funcionamento do curso** 
+Não serão necessários novos recursos de infraestrutura, será utilizada a infraestrutura do campus aos sábados para a realização das disciplinas e orientações do TCC.
 
-Não se aplica a este curso. Todos os recursos estarão vinculados ao orçamento do Campus. Trata-se de um curso gratuito. Para cada disciplina equivalente a 30 horas semanais será contabilizada uma carga semanal de 3 horas/aula no Plano de Trabalho Docente no semestre em que o docente ministrar a disciplina, portanto, **não há necessidade de contratação de novos servidores** . 
+Para gestão acadêmica e administrativa serão utilizados os recursos disponíveis e oferecidos no próprio campus, que são os servidores da coordenação do próprio curso e da secretaria acadêmica.
 
-Não serão necessários novos recursos de infraestrutura, será utilizada a infraestrutura do campus aos sábados para a realização das disciplinas e orientações do TCC. 
+Não serão necessários recursos de capital e de custeio.
 
-Para gestão acadêmica e administrativa serão utilizados os recursos disponíveis e oferecidos no próprio campus, que são os servidores da coordenação do próprio curso e da secretaria acadêmica. 
+## **20. Descrição das instalações (sala de aula, laboratórios, equipamentos e biblioteca)**
 
-Não serão necessários recursos de capital e de custeio. 
+O Campus está localizado em área central de fácil acesso. O transporte coletivo é abundante e contínuo, facilitando o acesso dos alunos. O Campus possuía em 2016 o número de 2.540 estudantes matriculados em 27 cursos diferentes e 209 docentes. Há ainda laboratórios, auditório, secretaria e uma biblioteca central. Na Unidade João Negrão, onde acontecerão as aulas, há 15 salas de aula, com capacidade para 40 alunos em média.
 
-## **20. Descrição das instalações (sala de aula, laboratórios, equipamentos e biblioteca)** 
+## **Biblioteca**
 
-O Campus está localizado em área central de fácil acesso. O transporte coletivo é abundante e contínuo, facilitando o acesso dos alunos. O Campus possuía em 2016 o número de 2.540 estudantes matriculados em 27 cursos diferentes e 209 docentes. Há ainda laboratórios, auditório, secretaria e uma biblioteca central. Na Unidade João Negrão, onde acontecerão as aulas, há 15 salas de aula, com capacidade para 40 alunos em média. 
+Com relação à Biblioteca, o sistema está informatizado com o Sistema Pergamum: http://200.17.98.199/pergamum/biblioteca/. Horário de funcionamento de segunda à sexta das 07h30 às 21h.
 
-## **Biblioteca** 
+Normas para o empréstimo de material bibliográfico:
 
-Com relação à Biblioteca, o sistema está informatizado com o Sistema Pergamum: http://200.17.98.199/pergamum/biblioteca/. Horário de funcionamento de segunda à sexta das 07h30 às 21h. 
+I – Será obrigatória a apresentação da Carteira de Identificação, no ato do empréstimo.
 
-Normas para o empréstimo de material bibliográfico: 
+II – Ao efetuar o empréstimo, o usuário ficará inteiramente responsável pela preservação do material retirado;
 
-I – Será obrigatória a apresentação da Carteira de Identificação, no ato do empréstimo. 
+37
 
-II – Ao efetuar o empréstimo, o usuário ficará inteiramente responsável pela preservação do material retirado; 
+MinisteriodaEducacao InstitutoFederal doParana
 
-37 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederal doParana 
+III – Não estarão disponíveis para empréstimo domiciliar:
 
-INSTITUTOFEDERAL PARANA 
+- a) Livros cuja demanda seja maior que o número de exemplares existentes;
 
-III – Não estarão disponíveis para empréstimo domiciliar: 
+b) Livros e/ou material que necessitem de cuidados especiais, por definição da Bibliotecária responsável;
 
-- a) Livros cuja demanda seja maior que o número de exemplares existentes; 
+c) Livros e/ou material de reserva e de consulta local;
 
-b) Livros e/ou material que necessitem de cuidados especiais, por definição da Bibliotecária responsável; 
+- d) Material especial: disquetes e cds considerados como obras de referência;
 
-c) Livros e/ou material de reserva e de consulta local; 
+- e) Obras de referência: atlas, catálogos, dicionários e enciclopédias;
 
-- d) Material especial: disquetes e cds considerados como obras de referência; 
+- f) Publicações periódicas.
 
-- e) Obras de referência: atlas, catálogos, dicionários e enciclopédias; 
+- A biblioteca conta com vários livros no acervo do Campus IFPR disponíveis para empréstimo. Além disso, foi providenciada uma compra de livros específica para o curso de especialização com base nas bibliografias das disciplinas apresentadas neste PCC.
 
-- f) Publicações periódicas. 
+## **REFERÊNCIAS**
 
-- A biblioteca conta com vários livros no acervo do Campus IFPR disponíveis para empréstimo. Além disso, foi providenciada uma compra de livros específica para o curso de especialização com base nas bibliografias das disciplinas apresentadas neste PCC. 
+- MEC. **Portal E-mec.** Disponível em: http://emec.mec.gov.br/ Acesso: entre 01 e 10 jun. 2016.
 
-## **REFERÊNCIAS** 
+MEC. **Censo da Educação Superior, no período de 1998 a 2007** . Disponível em: http://portal.inep.gov.br/web/censo-da-educacao-superior/evolucao-1980-a-2007. Acesso: 01 jul. 2016.
 
-- MEC. **Portal E-mec.** Disponível em: http://emec.mec.gov.br/ Acesso: entre 01 e 10 jun. 2016. 
+38
 
-MEC. **Censo da Educação Superior, no período de 1998 a 2007** . Disponível em: http://portal.inep.gov.br/web/censo-da-educacao-superior/evolucao-1980-a-2007. Acesso: 01 jul. 2016. 
+1 INSTITUTOFEDERAL PARANA
 
-38 
+Ministerioda Educacao InstitutoFederaldoParana
 
-1 INSTITUTOFEDERAL PARANA 
+## **21. ANEXOS**
 
-Ministerioda Educacao InstitutoFederaldoParana 
+39
 
-## **21. ANEXOS** 
+Ministerioda Educacao InstitutoFederaldoParana
 
-39 
+INSTITUTOFEDERAL PARANA
 
-Ministerioda Educacao InstitutoFederaldoParana 
-
-INSTITUTOFEDERAL PARANA 
-
-## **1. Cópia do Currículo do Coordenador da proposta (Plataforma Lattes);** 
+## **1. Cópia do Currículo do Coordenador da proposta (Plataforma Lattes);**
 
 |**Rodrigo Tramutolo**<br>**Navarro**|Possui<br>Licenciatura<br>Plena<br>em<br>Educação<br>Física<br>(UFPR-2004). Especialização em "Educação Física:<br>saber<br>escolar,<br>currículo<br>e<br>didática"<br>(UFPR-2005).<br>Especialização em Gestão Educacional (UEPG-2011).<br>Mestrado em Educação (UFPR-2007). Doutorado em<br>Educação Física (UFPR). Professor do Magistério do<br>Ensino Básico, Técnico e Tecnológico, do Instituto<br>Federal do Paraná (IFPR).|http://lattes.cnpq.br/469228472596<br>2383|
 |---|---|---|
 
+40
 
+INSTITUTOFEDERAL PARANA
 
-40 
+Ministerio da Educacao<br>InstitutoFederaldoParana<br>
 
-INSTITUTOFEDERAL PARANA 
+## **2. Termo de Compromisso assinado pelo Diretor do Campus**
 
-**==> picture [91 x 18] intentionally omitted <==**
+INSTIUTO FEDERAL<br>
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+Ministerie da Educacio<br>Instituto Federal do Parandi<br>
 
+## TERMO DE COMPROMISSO DO CAMPUS PROPONENTE
 
-## **2. Termo de Compromisso assinado pelo Diretor do Campus** 
+De acordo com as normas do Regimento dos cursos de Pos-Graduacao do IFPR, 0 Diretor Geral do Campus Curitiba, Prof. ADRIANO WILLIAN DA SILVA, inscrito no Siape 1651087, vem por meio deste firmar compromisso junto a Pr6-Reitoria de Ensino, para oferta do curso de Especializacao em GESTAO SOCIAL EM POLiTICAS PUBLICAS autorizado pela Resolucao n° para oferta de 22 vagas a partir de outubro de 2018, quando inicia o periodo de inscrigbes.
 
-**==> picture [55 x 6] intentionally omitted <==**
+Curitiba-PR, 07 de novembro de 2017
 
-**----- Start of picture text -----**<br>
-INSTIUTO FEDERAL<br>**----- End of picture text -----**<br>
+Diretor Gerall do CampusCuritiba
 
+41
 
-**==> picture [76 x 14] intentionally omitted <==**
+1 INSTITUTOFEDERAL PARANA
 
-**----- Start of picture text -----**<br>
-Ministerie da Educacio<br>Instituto Federal do Parandi<br>**----- End of picture text -----**<br>
+Ministerioda Educacao InstitutoFederaldoParana
 
+## **4. Regulamento do Trabalho de Conclusão de Curso**
 
-## TERMO DE COMPROMISSO DO CAMPUS PROPONENTE 
+42
 
-De acordo com as normas do Regimento dos cursos de Pos-Graduacao do IFPR, 0 Diretor Geral do Campus Curitiba, Prof. ADRIANO WILLIAN DA SILVA, inscrito no Siape 1651087, vem por meio deste firmar compromisso junto a Pr6-Reitoria de Ensino, para oferta do curso de Especializacao em GESTAO SOCIAL EM POLiTICAS PUBLICAS autorizado pela Resolucao n° para oferta de 22 vagas a partir de outubro de 2018, quando inicia o periodo de inscrigbes. 
+1 INSTITUTOFEDERAL PARANA
 
-Curitiba-PR, 07 de novembro de 2017 
+Ministerioda Educacao InstitutoFederaldoParana
 
-Diretor Gerall do CampusCuritiba 
+## **REGULAMENTO DO TRABALHO DE CONCLUSÃO DE CURSO**
 
-41 
+## **DA ESPECIALIZAÇÃO EM GESTÃO SOCIAL DE POLÍTICAS PÚBLICAS**
 
-1 INSTITUTOFEDERAL PARANA 
+## **DO INSTITUTO FEDERAL DO PARANÁ**
 
-Ministerioda Educacao InstitutoFederaldoParana 
+O presente regulamento foi elaborado para orientar professores/as orientadores/as e estudantes das diferentes etapas de desenvolvimento do Trabalho de Conclusão de Curso.
 
-## **4. Regulamento do Trabalho de Conclusão de Curso** 
+## **CAPÍTULO I - DAS DISPOSIÇÕES INICIAIS**
 
-42 
+O Trabalho de Conclusão de Curso da Especialização em Gestão Social de Políticas Públicas do IFPR é uma atividade científica que será desenvolvida mediante orientação, acompanhamento e avaliação. É de cunho obrigatório uma vez que a sua realização garantirá a integralização dos componentes curriculares do curso.
 
-1 INSTITUTOFEDERAL PARANA 
+O Trabalho de Conclusão de Curso poderá ser de natureza:
 
-Ministerioda Educacao InstitutoFederaldoParana 
+a) **Teórica** , em que o/a estudante se debruça sobre uma temática relevante com o objetivo de rever a bibliografia produzida até o momento, devendo analisar conceitos de vários/as autores/as que elucidem melhor o tema em questão;
 
-## **REGULAMENTO DO TRABALHO DE CONCLUSÃO DE CURSO** 
+b) **Teórico-empírica** , em que o/a estudante elabora, juntamente com a revisão bibliográfica, uma pesquisa de campo, entrando em contato direto com o universo do seu objeto de estudo e, fundamentando assim, a discussão teórica a partir da análise dos dados coletados.
 
-## **DA ESPECIALIZAÇÃO EM GESTÃO SOCIAL DE POLÍTICAS PÚBLICAS** 
+## **CAPÍTULO II - DOS OBJETIVOS**
 
-## **DO INSTITUTO FEDERAL DO PARANÁ** 
+a) Possibilitar e incentivar a inserção dos/as estudantes na pesquisa científica;
 
-O presente regulamento foi elaborado para orientar professores/as orientadores/as e estudantes das diferentes etapas de desenvolvimento do Trabalho de Conclusão de Curso. 
+b) Proporcionar o avanço do conhecimento científico criando condições para o desenvolvimento da gestão social nas políticas públicas;
 
-## **CAPÍTULO I - DAS DISPOSIÇÕES INICIAIS** 
+c) Sistematizar o conhecimento construído durante o curso na forma de produção e elaboração do pensamento científico.
 
-O Trabalho de Conclusão de Curso da Especialização em Gestão Social de Políticas Públicas do IFPR é uma atividade científica que será desenvolvida mediante orientação, acompanhamento e avaliação. É de cunho obrigatório uma vez que a sua realização garantirá a integralização dos componentes curriculares do curso. 
+1 INSTITUTOFEDERAL<br>PARANA<br>
 
-O Trabalho de Conclusão de Curso poderá ser de natureza: 
+Ministerioda Educacao InstitutoFederaldoParana
 
-a) **Teórica** , em que o/a estudante se debruça sobre uma temática relevante com o objetivo de rever a bibliografia produzida até o momento, devendo analisar conceitos de vários/as autores/as que elucidem melhor o tema em questão; 
+## **CAPÍTULO III - DAS DISPOSIÇÕES PRELIMINARES**
 
-b) **Teórico-empírica** , em que o/a estudante elabora, juntamente com a revisão bibliográfica, uma pesquisa de campo, entrando em contato direto com o universo do seu objeto de estudo e, fundamentando assim, a discussão teórica a partir da análise dos dados coletados. 
+a) A organização e apresentação do TCC seguirão as normas para elaboração de trabalho acadêmico e produções científicas do Instituto Federal do Paraná, disponível no link:
 
-## **CAPÍTULO II - DOS OBJETIVOS** 
+- https://reitoria.ifpr.edu.br/wp content/uploads/2010/05/normas_ifpr_completa_alta_impres sao.pdf;
 
-a) Possibilitar e incentivar a inserção dos/as estudantes na pesquisa científica; 
+b) Para os efeitos deste regulamento consideram-se as seguintes definições:
 
-b) Proporcionar o avanço do conhecimento científico criando condições para o desenvolvimento da gestão social nas políticas públicas; 
+i. **Professor/a Orientador/a** : servidor/a do IFPR com formação _stricto sensu_ (mestrado ou doutorado) ou _lato sensu_ (especialização), responsável pela orientação ao/à estudante;
 
-c) Sistematizar o conhecimento construído durante o curso na forma de produção e elaboração do pensamento científico. 
+ii. **Professor/a Avaliador/a** : profissionais com formação _stricto sensu_ (mestrado ou doutorado) ou _lato sensu_ (especialização);
 
-43 
+iii. **Orientando/a** : estudante devidamente matriculado/a, frequentando o curso de Gestão Social de Políticas Públicas e que tenha previamente apresentado o pré-projeto do TCC.
 
-**==> picture [112 x 48] intentionally omitted <==**
+## **CAPÍTULO IV - DAS ATRIBUIÇÕES DA COORDENAÇÃO DO CURSO**
 
-**----- Start of picture text -----**<br>
-1 INSTITUTOFEDERAL<br>PARANA<br>**----- End of picture text -----**<br>
+a) Disponibilizar e divulgar o regulamento e as normas do TCC para estudantes e professores/as orientadores/as;
 
+b) Divulgar a lista de professores/as orientadores/as disponíveis, bem como as suas respectivas linhas de pesquisa;
 
-Ministerioda Educacao InstitutoFederaldoParana 
+c) Sistematizar o processo de orientação do TCC identificando o/a professor/a orientador/a de cada estudante conforme o tema escolhido;
 
-## **CAPÍTULO III - DAS DISPOSIÇÕES PRELIMINARES** 
+d) Administrar, quando necessário, o processo de substituição de professor/a orientador/a;
 
-a) A organização e apresentação do TCC seguirão as normas para elaboração de trabalho acadêmico e produções científicas do Instituto Federal do Paraná, disponível no link: 
+e) Organizar em conjunto com o Colegiado do Curso o cronograma das apresentações do TCC;
 
-- https://reitoria.ifpr.edu.br/wp content/uploads/2010/05/normas_ifpr_completa_alta_impres sao.pdf; 
+44
 
-b) Para os efeitos deste regulamento consideram-se as seguintes definições: 
+1 INSTITUTOFEDERAL PARANA
 
-i. **Professor/a Orientador/a** : servidor/a do IFPR com formação _stricto sensu_ (mestrado ou doutorado) ou _lato sensu_ (especialização), responsável pela orientação ao/à estudante; 
+Ministerioda Educacao InstitutoFederaldoParana
 
-ii. **Professor/a Avaliador/a** : profissionais com formação _stricto sensu_ (mestrado ou doutorado) ou _lato sensu_ (especialização); 
+f) Disponibilizar todas as informações necessárias para que professores/as e estudantes tenham êxito na realização dessa tarefa.
 
-iii. **Orientando/a** : estudante devidamente matriculado/a, frequentando o curso de Gestão Social de Políticas Públicas e que tenha previamente apresentado o pré-projeto do TCC. 
+## **CAPÍTULO V - DAS ATRIBUIÇÕES DO/A PROFESSOR/A ORIENTADOR/A**
 
-## **CAPÍTULO IV - DAS ATRIBUIÇÕES DA COORDENAÇÃO DO CURSO** 
+a) Definir com o/a orientando/a os locais, os horários de atendimento e outras providências necessárias para a realização do TCC;
 
-a) Disponibilizar e divulgar o regulamento e as normas do TCC para estudantes e professores/as orientadores/as; 
+b) Orientar e acompanhar o/a estudante na escolha do tema e planejamento do estudo;
 
-b) Divulgar a lista de professores/as orientadores/as disponíveis, bem como as suas respectivas linhas de pesquisa; 
+c) Indicar referências básicas para o tema escolhido pelo/a estudante dentro da sua especialidade;
 
-c) Sistematizar o processo de orientação do TCC identificando o/a professor/a orientador/a de cada estudante conforme o tema escolhido; 
+d) Analisar e avaliar as etapas produzidas apresentando sugestões de leituras, estudos ou referências complementares, contribuindo na busca de soluções de problemas surgidos no decorrer da pesquisa;
 
-d) Administrar, quando necessário, o processo de substituição de professor/a orientador/a; 
+e) Informar o/a orientando/a sobre o cumprimento das normas, procedimentos e critérios de avaliação do TCC;
 
-e) Organizar em conjunto com o Colegiado do Curso o cronograma das apresentações do TCC; 
+f) Ao final do processo de elaboração do TCC, definir se este apresenta condições de ser apreciado pela Banca Avaliadora;
 
-44 
+g) Informar à Coordenação do Curso os casos aptos para apresentação do TCC;
 
-1 INSTITUTOFEDERAL PARANA 
+h) Apresentar os nomes e titulação dos membros integrantes da Banca Avaliadora à Coordenação do Curso, em formulário próprio designado pela Coordenação;
 
-Ministerioda Educacao InstitutoFederaldoParana 
+i) Participar da apresentação pública do TCC, seguindo o cronograma definido pelo Colegiado do Curso;
 
-f) Disponibilizar todas as informações necessárias para que professores/as e estudantes tenham êxito na realização dessa tarefa. 
+j) Entregar as cópias do TCC; orientar sobre normas e critérios de avaliação; e, disponibilizar os formulários (Anexos I e II deste documento) aos membros da Banca Avaliadora;
 
-## **CAPÍTULO V - DAS ATRIBUIÇÕES DO/A PROFESSOR/A ORIENTADOR/A** 
+k) Presidir a Banca Avaliadora e a apresentação do trabalho orientado, quando for o caso;
 
-a) Definir com o/a orientando/a os locais, os horários de atendimento e outras providências necessárias para a realização do TCC; 
+l) Conduzir a revisão do trabalho final recomendado pelos/as avaliadores/as;
 
-b) Orientar e acompanhar o/a estudante na escolha do tema e planejamento do estudo; 
+45
 
-c) Indicar referências básicas para o tema escolhido pelo/a estudante dentro da sua especialidade; 
+1 INSTITUTOFEDERAL PARANA
 
-d) Analisar e avaliar as etapas produzidas apresentando sugestões de leituras, estudos ou referências complementares, contribuindo na busca de soluções de problemas surgidos no decorrer da pesquisa; 
+Ministerioda Educacao InstitutoFederaldoParana
 
-e) Informar o/a orientando/a sobre o cumprimento das normas, procedimentos e critérios de avaliação do TCC; 
+m) Informar à Coordenação do Curso o conceito atribuído ao/a estudante pela Banca Avaliadora, em formulário próprio, respeitando a data estipulada conforme cronograma definido pelo Colegiado do Curso;
 
-f) Ao final do processo de elaboração do TCC, definir se este apresenta condições de ser apreciado pela Banca Avaliadora; 
+n) Encaminhar à Coordenação do Curso o TCC finalizado após o parecer da Banca Avaliadora com as correções finais solicitadas, em caso de ressalva/s.
 
-g) Informar à Coordenação do Curso os casos aptos para apresentação do TCC; 
+## **CAPÍTULO VI - DAS ATRIBUIÇÕES DO/A ORIENTANDO/A**
 
-h) Apresentar os nomes e titulação dos membros integrantes da Banca Avaliadora à Coordenação do Curso, em formulário próprio designado pela Coordenação; 
+a) Informar à Coordenação do Curso, quando solicitado, o tema escolhido para elaboração do TCC para a indicação do/a professor/a orientador/a, de acordo com as linhas de pesquisa do curso;
 
-i) Participar da apresentação pública do TCC, seguindo o cronograma definido pelo Colegiado do Curso; 
+b) Comparecer aos encontros de orientação de TCC, conforme acordado com o/a professor/a orientador/a;
 
-j) Entregar as cópias do TCC; orientar sobre normas e critérios de avaliação; e, disponibilizar os formulários (Anexos I e II deste documento) aos membros da Banca Avaliadora; 
+c) Elaborar e concluir o TCC no prazo estabelecido;
 
-k) Presidir a Banca Avaliadora e a apresentação do trabalho orientado, quando for o caso; 
+d) Propor possíveis nomes dos/as avaliadores/as do TCC ao professor/a orientador/a para análise e definição;
 
-l) Conduzir a revisão do trabalho final recomendado pelos/as avaliadores/as; 
+e) É responsabilidade do/a estudante buscar o/a professor/a orientador/a para sanar dúvidas e desenvolver o seu trabalho de TCC;
 
-45 
+f) Os/as estudantes deverão entregar as cópias da versão final impressa do TCC ao/a professor/a orientador/a e a versão digital em PDF para a Coordenação do Curso.
 
-1 INSTITUTOFEDERAL PARANA 
+## **CAPÍTULO VII - DAS BANCAS AVALIADORAS**
 
-Ministerioda Educacao InstitutoFederaldoParana 
+a) Para efeito de avaliação, o TCC será submetido à apreciação da Banca Avaliadora constituída por dois/duas professores/as avaliadores/as e o/a orientador/a;
 
-m) Informar à Coordenação do Curso o conceito atribuído ao/a estudante pela Banca Avaliadora, em formulário próprio, respeitando a data estipulada conforme cronograma definido pelo Colegiado do Curso; 
+b) Não poderá ser membro da Banca Avaliadora o/a avaliador/a que tenha até o segundo grau de parentesco com o/a estudante autor/a do TCC;
 
-n) Encaminhar à Coordenação do Curso o TCC finalizado após o parecer da Banca Avaliadora com as correções finais solicitadas, em caso de ressalva/s. 
+c) A avaliação do TCC pela Banca Avaliadora se limitará ao trabalho escrito;
 
-## **CAPÍTULO VI - DAS ATRIBUIÇÕES DO/A ORIENTANDO/A** 
+46
 
-a) Informar à Coordenação do Curso, quando solicitado, o tema escolhido para elaboração do TCC para a indicação do/a professor/a orientador/a, de acordo com as linhas de pesquisa do curso; 
+1 INSTITUTOFEDERAL PARANA
 
-b) Comparecer aos encontros de orientação de TCC, conforme acordado com o/a professor/a orientador/a; 
+Ministerioda Educacao InstitutoFederaldoParana
 
-c) Elaborar e concluir o TCC no prazo estabelecido; 
+d) A Banca Avaliadora deverá utilizar os critérios definidos pelo Colegiado do Curso descritos no “Formulário para Banca Avaliadora” (ANEXO I), que será disponibilizado para preenchimento no modo digital;
 
-d) Propor possíveis nomes dos/as avaliadores/as do TCC ao professor/a orientador/a para análise e definição; 
+e) É responsabilidade dos membros da Banca Avaliadora preencher e assinar o documento “Parecer da Banca Avaliadora” (ANEXO II), que deverá ser entregue ao presidente da banca;
 
-e) É responsabilidade do/a estudante buscar o/a professor/a orientador/a para sanar dúvidas e desenvolver o seu trabalho de TCC; 
+f) A apresentação do TCC aprovado pela Banca Avaliadora será realizada em Simpósio organizado pelo Colegiado do Curso, tendo caráter de divulgação científica e não avaliativa;
 
-f) Os/as estudantes deverão entregar as cópias da versão final impressa do TCC ao/a professor/a orientador/a e a versão digital em PDF para a Coordenação do Curso. 
+g) Será considerado aprovado/a o/a candidato/a que obtiver conceito igual ou superior a C, sendo o conceito C correspondente a: _favorável, com ressalva/s_ . Nesse caso, as solicitações sugeridas deverão ocorrer obrigatoriamente sob a supervisão do/a professor/a orientador/a no prazo máximo de 15 (quinze) dias;
 
-## **CAPÍTULO VII - DAS BANCAS AVALIADORAS** 
+h) Caso não haja solicitação de correções no TCC o/a orientador/a poderá imediatamente solicitar à Coordenação do Curso o lançamento do conceito do/a estudante no sistema. Para tanto, o/a orientador/a deverá apresentar à Coordenação do Curso o formulário da Banca Avaliadora devidamente preenchido e assinado, acompanhado da versão final do TCC em formato digital;
 
-a) Para efeito de avaliação, o TCC será submetido à apreciação da Banca Avaliadora constituída por dois/duas professores/as avaliadores/as e o/a orientador/a; 
+i) Não caberá recurso ou revisão da nota atribuída pela Banca Avaliadora;
 
-b) Não poderá ser membro da Banca Avaliadora o/a avaliador/a que tenha até o segundo grau de parentesco com o/a estudante autor/a do TCC; 
+j) O Simpósio ocorrerá após 45 (quarenta e cinco) dias da entrega do TCC para Banca Avaliadora, sendo que 30 dias serão destinados para a Banca Avaliadora emitir o parecer e, nos casos de ressalva/s, 15 (quinze) dias para o/a orientando/a realizar as devidas correções.
 
-c) A avaliação do TCC pela Banca Avaliadora se limitará ao trabalho escrito; 
+## **CAPÍTULO VIII - DAS DISPOSIÇÕES GERAIS**
 
-46 
+a) Os/as estudantes/s reprovados/as ou que deixarem de cumprir os prazos previstos neste regulamento terão seus casos analisados pelo Colegiado do Curso, para que sejam tomadas as devidas providências;
 
-1 INSTITUTOFEDERAL PARANA 
+b) Os casos omissos serão resolvidos pelo Colegiado do Curso;
 
-Ministerioda Educacao InstitutoFederaldoParana 
+c) O presente regulamento entrará em vigor na data de sua publicação.
 
-d) A Banca Avaliadora deverá utilizar os critérios definidos pelo Colegiado do Curso descritos no “Formulário para Banca Avaliadora” (ANEXO I), que será disponibilizado para preenchimento no modo digital; 
+47
 
-e) É responsabilidade dos membros da Banca Avaliadora preencher e assinar o documento “Parecer da Banca Avaliadora” (ANEXO II), que deverá ser entregue ao presidente da banca; 
+1 INSTITUTOFEDERAL PARANA
 
-f) A apresentação do TCC aprovado pela Banca Avaliadora será realizada em Simpósio organizado pelo Colegiado do Curso, tendo caráter de divulgação científica e não avaliativa; 
+Ministerioda Educacao InstitutoFederaldoParana
 
-g) Será considerado aprovado/a o/a candidato/a que obtiver conceito igual ou superior a C, sendo o conceito C correspondente a: _favorável, com ressalva/s_ . Nesse caso, as solicitações sugeridas deverão ocorrer obrigatoriamente sob a supervisão do/a professor/a orientador/a no prazo máximo de 15 (quinze) dias; 
+Curitiba, 19 de março de 2020.
 
-h) Caso não haja solicitação de correções no TCC o/a orientador/a poderá imediatamente solicitar à Coordenação do Curso o lançamento do conceito do/a estudante no sistema. Para tanto, o/a orientador/a deverá apresentar à Coordenação do Curso o formulário da Banca Avaliadora devidamente preenchido e assinado, acompanhado da versão final do TCC em formato digital; 
+48
 
-i) Não caberá recurso ou revisão da nota atribuída pela Banca Avaliadora; 
+1 INSTITUTOFEDERAL PARANA
 
-j) O Simpósio ocorrerá após 45 (quarenta e cinco) dias da entrega do TCC para Banca Avaliadora, sendo que 30 dias serão destinados para a Banca Avaliadora emitir o parecer e, nos casos de ressalva/s, 15 (quinze) dias para o/a orientando/a realizar as devidas correções. 
+Ministerioda Educacao InstitutoFederaldoParana
 
-## **CAPÍTULO VIII - DAS DISPOSIÇÕES GERAIS** 
+## **ANEXO I**
 
-a) Os/as estudantes/s reprovados/as ou que deixarem de cumprir os prazos previstos neste regulamento terão seus casos analisados pelo Colegiado do Curso, para que sejam tomadas as devidas providências; 
+## **FORMULÁRIO PARA BANCA AVALIADORA**
 
-b) Os casos omissos serão resolvidos pelo Colegiado do Curso; 
+Nome do Avaliador(a): Instituição: Titulação:
 
-c) O presente regulamento entrará em vigor na data de sua publicação. 
+Título do trabalho avaliado:
 
-47 
+Nome do autor(a) do TCC:
 
-1 INSTITUTOFEDERAL PARANA 
+Nome do/a orientador(a):
 
-Ministerioda Educacao InstitutoFederaldoParana 
+1) O assunto tratado no artigo é relevante para ser publicado e corresponde ao perfil acadêmico do curso?
 
-Curitiba, 19 de março de 2020. 
+(  ) Sim
 
-48 
+(  ) Não Comentários: _______________________
 
-1 INSTITUTOFEDERAL PARANA 
+2) O título reflete de forma clara e suficiente o conteúdo do artigo?
 
-Ministerioda Educacao InstitutoFederaldoParana 
+(  ) Sim
 
-## **ANEXO I** 
+(  ) Não Comentários: _______________________
 
-## **FORMULÁRIO PARA BANCA AVALIADORA** 
+3) A discussão é pertinente e suficiente?
 
-Nome do Avaliador(a): Instituição: Titulação: 
+(  ) Sim
 
-Título do trabalho avaliado: 
+(  ) Não Comentários: _______________________
 
-Nome do autor(a) do TCC: 
+4) Os dados apresentados justificam as interpretações?
 
-Nome do/a orientador(a): 
+(  ) Sim (  ) Não Comentários: _______________________
 
-1) O assunto tratado no artigo é relevante para ser publicado e corresponde ao perfil acadêmico do curso? 
+5) É necessário incluir algum item para aperfeiçoar o artigo?
 
-(  ) Sim 
+(  ) Sim (  ) Não Comentários: _______________________
 
-(  ) Não Comentários: _______________________ 
+6) É necessário reduzir ou excluir alguma parte do artigo?
 
-2) O título reflete de forma clara e suficiente o conteúdo do artigo? 
+(  ) Sim
 
-(  ) Sim 
+(  ) Não
 
-(  ) Não Comentários: _______________________ 
+49
 
-3) A discussão é pertinente e suficiente? 
+1 INSTITUTOFEDERAL PARANA
 
-(  ) Sim 
+Ministerioda Educacao InstitutoFederaldoParana
 
-(  ) Não Comentários: _______________________ 
+Comentários: _______________________
 
-4) Os dados apresentados justificam as interpretações? 
+7) As referências são adequadas e necessárias?
 
-(  ) Sim (  ) Não Comentários: _______________________ 
+(  ) Sim (  ) Não Comentários: _______________________
 
-5) É necessário incluir algum item para aperfeiçoar o artigo? 
+8) As referências estão redigidas de acordo com as normas do IFPR?
 
-(  ) Sim (  ) Não Comentários: _______________________ 
+(  ) Sim (  ) Não Comentários: _______________________
 
-6) É necessário reduzir ou excluir alguma parte do artigo? 
+9) A organização e tamanho do artigo são satisfatórios?
 
-(  ) Sim 
+(  ) Sim (  ) Não Comentários: _______________________
 
-(  ) Não 
+10) O conteúdo e a linguagem estão de acordo com os critérios de não veiculação de preconceitos racistas, étnicos, sexistas, religiosos e/ou de difamação e calúnias que possam ferir a integridade dos leitores e/ou indivíduos citados no mesmo?
 
-49 
+(  ) Sim (  ) Não Comentários: _______________________
 
-1 INSTITUTOFEDERAL PARANA 
+11) Parecer
 
-Ministerioda Educacao InstitutoFederaldoParana 
+(  ) A (favorável, excelência)
 
-Comentários: _______________________ 
+(  ) B (favorável)
 
-7) As referências são adequadas e necessárias? 
+(  ) C (favorável, com restrição)
 
-(  ) Sim (  ) Não Comentários: _______________________ 
+(  ) D (desfavorável)
 
-8) As referências estão redigidas de acordo com as normas do IFPR? 
+Comentários (o espaço é destinado para a justificativa do parecer, indicando tanto suas razões quanto as mudanças sugeridas, se for este o caso):
 
-(  ) Sim (  ) Não Comentários: _______________________ 
+50
 
-9) A organização e tamanho do artigo são satisfatórios? 
+1 INSTITUTOFEDERAL PARANA
 
-(  ) Sim (  ) Não Comentários: _______________________ 
+Ministerioda Educacao InstitutoFederaldoParana
 
-10) O conteúdo e a linguagem estão de acordo com os critérios de não veiculação de preconceitos racistas, étnicos, sexistas, religiosos e/ou de difamação e calúnias que possam ferir a integridade dos leitores e/ou indivíduos citados no mesmo? 
+## **ANEXO II**
 
-(  ) Sim (  ) Não Comentários: _______________________ 
+## **PARECER DA BANCA AVALIADORA**
 
-11) Parecer 
+Parecer do Trabalho de Conclusão de Curso de (nome do/a candidato/a)___________________
 
-(  ) A (favorável, excelência) 
+____________________________________________, para obtenção do título de ESPECIALISTA EM GESTÃO SOCIAL DE POLÍTICAS PÚBLICAS.
 
-(  ) B (favorável) 
+O/A Parecerista (nome do/a parecerista)______________________________________, abaixo assinado,
 
-(  ) C (favorável, com restrição) 
+avaliou o trabalho de TCC intitulado: ____________________________________
 
-(  ) D (desfavorável) 
+____________________________________________________________________________________________.
 
-Comentários (o espaço é destinado para a justificativa do parecer, indicando tanto suas razões quanto as mudanças sugeridas, se for este o caso): 
+Procedida a avaliação do trabalho, segundo o Regulamento do Trabalho de Conclusão de Curso da Especialização em Gestão Social de Políticas Públicas do Instituto Federal do Paraná, o/a avaliador/a é de parecer:
 
-50 
+(  ) A (favorável, excelência)
 
-1 INSTITUTOFEDERAL PARANA 
+(  ) B (favorável)
 
-Ministerioda Educacao InstitutoFederaldoParana 
+(  ) C (favorável, com restrição)
 
-## **ANEXO II** 
+(  ) D (desfavorável)
 
-## **PARECER DA BANCA AVALIADORA** 
+Curitiba, ____/____/_____.
 
-Parecer do Trabalho de Conclusão de Curso de (nome do/a candidato/a)___________________ 
+_______________________________________
 
-____________________________________________, para obtenção do título de ESPECIALISTA EM GESTÃO SOCIAL DE POLÍTICAS PÚBLICAS. 
+Assinatura do/a Avaliador/a
 
-O/A Parecerista (nome do/a parecerista)______________________________________, abaixo assinado, 
-
-avaliou o trabalho de TCC intitulado: ____________________________________ 
-
-____________________________________________________________________________________________. 
-
-Procedida a avaliação do trabalho, segundo o Regulamento do Trabalho de Conclusão de Curso da Especialização em Gestão Social de Políticas Públicas do Instituto Federal do Paraná, o/a avaliador/a é de parecer: 
-
-(  ) A (favorável, excelência) 
-
-(  ) B (favorável) 
-
-(  ) C (favorável, com restrição) 
-
-(  ) D (desfavorável) 
-
-Curitiba, ____/____/_____. 
-
-_______________________________________ 
-
-Assinatura do/a Avaliador/a 
-
-51 
+51
 

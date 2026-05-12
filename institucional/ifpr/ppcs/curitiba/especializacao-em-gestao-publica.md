@@ -1,48 +1,41 @@
-INSTITUTOFEDERAL PARANA 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao 
+MinisteriodaEducacao
 
-**PROJETO PEDAGÓGICO DO CURSO – PPC** 
+**PROJETO PEDAGÓGICO DO CURSO – PPC**
 
-**PÓS-GRADUAÇÃO EM GESTÃO PÚBLICA – HABILITAÇÕES EM GESTÃO DE PESSOAS, POLÍTICAS PÚBLICAS E LOGÍSTICA** 
+**PÓS-GRADUAÇÃO EM GESTÃO PÚBLICA – HABILITAÇÕES EM GESTÃO DE PESSOAS, POLÍTICAS PÚBLICAS E LOGÍSTICA**
 
-**NÍVEL ESPECIALIZAÇÃO DO CAMPUS CURITIBA** 
+**NÍVEL ESPECIALIZAÇÃO DO CAMPUS CURITIBA**
 
-**CURITIBA** 
+**CURITIBA**
 
-**2017** 
+**2017**
 
-INSTITUTOFEDERALDOPARANA|Reitoria 
+INSTITUTOFEDERALDOPARANA|Reitoria
 
-INSTITUTOFEDERAL PARANA 
+INSTITUTOFEDERAL PARANA
 
-**==> picture [83 x 9] intentionally omitted <==**
+MinisteriodaEducacao<br>
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>**----- End of picture text -----**<br>
+## **1. Identificação da proposta:**
 
+- 1.1 Nome do curso: Especialização em Gestão Pública – Habilitação em Gestão de Pessoas, Políticas Públicas ou Logística*.
 
-## **1. Identificação da proposta:** 
+- _(*para cada turma ofertada será escolhida uma das habilitações)_
 
-- 1.1 Nome do curso: Especialização em Gestão Pública – Habilitação em Gestão de Pessoas, Políticas Públicas ou Logística*. 
+## 1.2 Área de conhecimento (CAPES)
 
-- _(*para cada turma ofertada será escolhida uma das habilitações)_ 
+_Área de Concentração:_ 6.02.02.00-9 Administração Pública
 
-## 1.2 Área de conhecimento (CAPES) 
+_Área de Avaliação_ 602.02.02-5 Organizações Públicas
 
-_Área de Concentração:_ 6.02.02.00-9 Administração Pública 
+## 1.2.1 Linhas de Pesquisa:
 
-_Área de Avaliação_ 602.02.02-5 Organizações Públicas 
+Área de Concentração – 602.02.00-9 Administração Pública
 
-## 1.2.1 Linhas de Pesquisa: 
+Área - 602.02.02-5 Organizações Públicas
 
-Área de Concentração – 602.02.00-9 Administração Pública 
-
-Área - 602.02.02-5 Organizações Públicas 
-
-**==> picture [407 x 174] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
 |||
 |---|---|
 |Linha/s de pesquisa|Orientadores|
@@ -59,172 +52,165 @@ _Área de Avaliação_ 602.02.02-5 Organizações Públicas
 |3. Logística Pública|Marcos Rogério Maioli|
 |Monica Beltrami|
 
-**----- End of picture text -----**<br>
+- 1.3 Campus responsável: Campus Curitiba
 
+- 1.3.1 Nome do Diretor-Geral: Adriano Willian da Silva
 
-- 1.3 Campus responsável: Campus Curitiba 
+- 1.3.2 E-mail(s): adriano.silva@ifpr.edu.br
 
-- 1.3.1 Nome do Diretor-Geral: Adriano Willian da Silva 
+## **2. Dados Da Coordenação e Colegiado de Curso**
 
-- 1.3.2 E-mail(s): adriano.silva@ifpr.edu.br 
+- 2.1 Nome do Coordenador/Titulação: Adriano Stadler - Doutor
 
-## **2. Dados Da Coordenação e Colegiado de Curso** 
+- 2.2 Telefones do Coordenador: 41-99634-7323
 
-- 2.1 Nome do Coordenador/Titulação: Adriano Stadler - Doutor 
+- 2.3 E-mail do Coordenador: adriano.stadler@ifpr.edu.br
 
-- 2.2 Telefones do Coordenador: 41-99634-7323 
+- 2.4 Nome do Vice-Coordenador/Titulação: Frederico Fonseca da Silva
 
-- 2.3 E-mail do Coordenador: adriano.stadler@ifpr.edu.br 
+- 2.5 Telefones do Vice-Coordenador: 41-99920-2807
 
-- 2.4 Nome do Vice-Coordenador/Titulação: Frederico Fonseca da Silva 
+INSTITUTOFEDERALDOPARANA|ReitOria
 
-- 2.5 Telefones do Vice-Coordenador: 41-99920-2807 
+- Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil
 
-INSTITUTOFEDERALDOPARANA|ReitOria 
+MinisteriodaEducacao
 
-- Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil 
+## INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao 
+2.6 E-mail do Vice-Coordenador: frederico.silva@ifpr.edu.br
 
-## INSTITUTOFEDERAL PARANA 
+- 2.7 Nome do Secretário de Curso: não se aplica
 
-2.6 E-mail do Vice-Coordenador: frederico.silva@ifpr.edu.br 
+- 2.8 Colegiado do Curso: Adriano Stadler, Frederico Fonseca da Silva, Pedro Antônio Bittencourt Pacheco e Vanderci Benjamin Ruschel – Portaria nº057/2017 DIR/CP/CTBA/IFPR
 
-- 2.7 Nome do Secretário de Curso: não se aplica 
+## **3. Dados do Curso Proposto**
 
-- 2.8 Colegiado do Curso: Adriano Stadler, Frederico Fonseca da Silva, Pedro Antônio Bittencourt Pacheco e Vanderci Benjamin Ruschel – Portaria nº057/2017 DIR/CP/CTBA/IFPR 
+- 3.1 Tipo de curso: pós-graduação _lato sensu_ (Lei nº 9394/96, Art. 44, III e Resolução CNE/CES Nº1/2007)
 
-## **3. Dados do Curso Proposto** 
+(   X   ) Especialização
 
-- 3.1 Tipo de curso: pós-graduação _lato sensu_ (Lei nº 9394/96, Art. 44, III e Resolução CNE/CES Nº1/2007) 
+- (         ) Aperfeiçoamento
 
-(   X   ) Especialização 
+## 3.2 Vagas
 
-- (         ) Aperfeiçoamento 
+**Mínimo:** 30 vagas
 
-## 3.2 Vagas 
+**Máximo:** 40 vagas
 
-**Mínimo:** 30 vagas 
+## 3.3 Modalidade
 
-**Máximo:** 40 vagas 
+- (  X  ) PRESENCIAL
 
-## 3.3 Modalidade 
+- (    ) A DISTÂNCIA
 
-- (  X  ) PRESENCIAL 
+- (    ) ABERTO AO PÚBLICO
 
-- (    ) A DISTÂNCIA 
+- (    ) TURMA FECHADA
 
-- (    ) ABERTO AO PÚBLICO 
+## 3.4 Edição: 1ª Edição
 
-- (    ) TURMA FECHADA 
+## 3.4.1 Público-alvo:
 
-## 3.4 Edição: 1ª Edição 
+O curso se destina a profissionais graduados em diferentes áreas do conhecimento, preferencialmente aqueles que possuam afinidades com administração pública, tais como os cursos: Gestão Pública, Administração, Economia, Ciências Contábeis, Serviço Social, Psicologia, Pedagogia, Direito, Sociologia, Ciência Política, entre outras formações.
 
-## 3.4.1 Público-alvo: 
+## 3.5 Local de realização do curso:
 
-O curso se destina a profissionais graduados em diferentes áreas do conhecimento, preferencialmente aqueles que possuam afinidades com administração pública, tais como os cursos: Gestão Pública, Administração, Economia, Ciências Contábeis, Serviço Social, Psicologia, Pedagogia, Direito, Sociologia, Ciência Política, entre outras formações. 
+IFPR – Campus Curitiba – localizado Rua João Negrão n°1285, Rebouças, Curitiba/PR.
 
-## 3.5 Local de realização do curso: 
+INSTITUTOFEDERALDOPARANA|ReitOria
 
-IFPR – Campus Curitiba – localizado Rua João Negrão n°1285, Rebouças, Curitiba/PR. 
+## INSTITUTOFEDERAL PARANA
 
-INSTITUTOFEDERALDOPARANA|ReitOria 
+MinisteriodaEducacao<br>
 
-## INSTITUTOFEDERAL PARANA 
+## 3.6 Dia de realização do curso:
 
-**==> picture [83 x 8] intentionally omitted <==**
+Aos sábados, quinzenalmente, ou durante os dias de semana no período noturno (em função da disponibilidade de espaço).
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>**----- End of picture text -----**<br>
+## 3.7 Horário de início/término dos períodos:
 
+Aos sábados, quinzenalmente das 8:30h às 12:30h e das 13:30h às 17:30h. Na possibilidade de realização durante os dias de semana, os horários serão das 19:00h às 22:30h. 3.8 Previsão de início das aulas para: 22/02/2018
 
-## 3.6 Dia de realização do curso: 
+## 3.9 Descrição da Carga Horária
 
-Aos sábados, quinzenalmente, ou durante os dias de semana no período noturno (em função da disponibilidade de espaço). 
+Carga Horária em Componentes Curriculares (obrigatório): 360 h/ 24 créditos
 
-## 3.7 Horário de início/término dos períodos: 
+Carga Horária em Atividade de elaboração, orientação e defesa de Trabalho de Conclusão de Curso (obrigatório):  60 h/ 4 créditos
 
-Aos sábados, quinzenalmente das 8:30h às 12:30h e das 13:30h às 17:30h. Na possibilidade de realização durante os dias de semana, os horários serão das 19:00h às 22:30h. 3.8 Previsão de início das aulas para: 22/02/2018 
+Carga Horária em Atividades Complementares (opcional): não se aplica
 
-## 3.9 Descrição da Carga Horária 
+Carga Horária Total dos Componentes Curriculares: 420h / 28 créditos
 
-Carga Horária em Componentes Curriculares (obrigatório): 360 h/ 24 créditos 
+## **4. Justificativa da proposta**
 
-Carga Horária em Atividade de elaboração, orientação e defesa de Trabalho de Conclusão de Curso (obrigatório):  60 h/ 4 créditos 
+A oferta do presente programa de pós-graduação em Gestão Pública e habilitações em Gestão de Pessoas, Políticas Públicas e Logística se justifica pela necessidade de formação continuada para os profissionais que atuam como servidores públicos municipais, estaduais ou federais e por aqueles profissionais que buscam aperfeiçoamento nas questões referentes à administração pública brasileira. Assim, as carências a serem supridas para estes profissionais são de habilidades humanas, filosóficas, críticas e reflexivas, que devem proporcionar a estes alunos colocar em prática em seu cotidiano profissional uma ação mais efetiva, responsável e sustentável.
 
-Carga Horária em Atividades Complementares (opcional): não se aplica 
+Esta formação continuada tem como objetivo o aprimoramento da qualidade dos recursos humanos que estão à disposição da sociedade nos mais diversos serviços públicos essenciais para o cotidiano da população, em consonância com a missão do IFPR que está pautada na promoção da “educação profissional e tecnológica, pública, de qualidade, socialmente referenciada, por meio do ensino, pesquisa e extensão, visando à formação de cidadãos críticos, autônomos e empreendedores, comprometidos com a sustentabilidade”.
 
-Carga Horária Total dos Componentes Curriculares: 420h / 28 créditos 
+No Brasil há 3.12 milhões de servidores públicos (IBGE 2013), sendo que destes 53.4%
 
-## **4. Justificativa da proposta** 
+INSTITUTOFEDERALDOPARANA|Reitoria
 
-A oferta do presente programa de pós-graduação em Gestão Pública e habilitações em Gestão de Pessoas, Políticas Públicas e Logística se justifica pela necessidade de formação continuada para os profissionais que atuam como servidores públicos municipais, estaduais ou federais e por aqueles profissionais que buscam aperfeiçoamento nas questões referentes à administração pública brasileira. Assim, as carências a serem supridas para estes profissionais são de habilidades humanas, filosóficas, críticas e reflexivas, que devem proporcionar a estes alunos colocar em prática em seu cotidiano profissional uma ação mais efetiva, responsável e sustentável. 
+MinisteriodaEducacao
 
-Esta formação continuada tem como objetivo o aprimoramento da qualidade dos recursos humanos que estão à disposição da sociedade nos mais diversos serviços públicos essenciais para o cotidiano da população, em consonância com a missão do IFPR que está pautada na promoção da “educação profissional e tecnológica, pública, de qualidade, socialmente referenciada, por meio do ensino, pesquisa e extensão, visando à formação de cidadãos críticos, autônomos e empreendedores, comprometidos com a sustentabilidade”. 
+## INSTITUTOFEDERAL PARANA
 
-No Brasil há 3.12 milhões de servidores públicos (IBGE 2013), sendo que destes 53.4% 
+possuem ensino superior. No Estado do Paraná o porcentual é de 61% de servidores com ensino superior, corroborando desta forma, a existência de público alvo para cursos de especialização lato sensu. A cidade de Curitiba possui 1.893.977 habitantes, e sua região metropolitana, que compreende 29 municípios, compreende 3.502.804 habitantes. Apenas a capital do Estado é responsável por 40% do PIB estadual (IBGE, 2016).
 
-INSTITUTOFEDERALDOPARANA|Reitoria 
+Tal cenário demográfico e econômico abarca um contingente de instituições públicas, as quais demandam por profissionais portadores de competências e habilidades condizentes com os princípios da eficiência da Gestão Pública, focado em qualidade e ética na prestação dos serviços públicos aos cidadãos. Assim, a formação continuada de servidores públicos, por meio de cursos de pós-graduação lato sensu, visa contribuir para a sociedade onde a instituição está inserida. Vale ressaltar que, as instituições públicas da cidade de Curitiba, não ofertaram no ano de 2017, cursos de especializações presenciais em Gestão Pública, de forma que, apenas as instituições privadas ofertam tais cursos na modalidade à distância.
 
-MinisteriodaEducacao 
+O presente projeto foi elaborado a partir do somatório de esforços da equipe do curso Superior de Tecnologia em Gestão Pública ofertado pelo campus Curitiba, em especial pelos membros da comissão de elaboração do projeto pedagógico da pós-graduação em Gestão Pública, a qual foi instituída pela portaria nº057/2017 – DIR/CP/CTBA/IFPR composta pelos docentes Adriano Stadler, Frederico Fonseca da Silva, Pedro Antonio Bittencourt Pacheco e Vanderci Benjamin Ruscel. Vale ressaltar também, que o presente projeto levou em conta as experiências adquiridas através da oferta da especialização em Gestão Pública na modalidade EAD do IFPR nos anos de 2012 a 2014, onde houve mais de 2000 estudantes que concluíram com êxito o curso.
 
-## INSTITUTOFEDERAL PARANA 
+Espera-se que os estudantes egressos deste curso de pós-graduação, estejam preparados para atuar nas instituições públicas com competências e habilidades que os permitam seu desenvolvimento pessoal e profissional, os quais poderão ser revertidos em serviços públicos de qualidade superior. Busca-se ainda que, os egressos tenham condições de ascender profissionalmente em organizações, sejam elas públicas de administração direta ou indireta, bem como em organizações privadas e sem fins lucrativos, democratizando desta forma, o acesso ao ensino de pós-graduação na região metropolitana de Curitiba.
 
-possuem ensino superior. No Estado do Paraná o porcentual é de 61% de servidores com ensino superior, corroborando desta forma, a existência de público alvo para cursos de especialização lato sensu. A cidade de Curitiba possui 1.893.977 habitantes, e sua região metropolitana, que compreende 29 municípios, compreende 3.502.804 habitantes. Apenas a capital do Estado é responsável por 40% do PIB estadual (IBGE, 2016). 
+Vale destacar que haverá um núcleo comum de disciplinas, composto por 9 disciplinas, e um núcleo específico com 3 disciplinas para cada habilitação. No ato do lançamento do edital de abertura da turma, será escolhida uma das 3 habilitações, a qual será definida em comum acordo pela direção geral do campus Curitiba e colegiado do curso.
 
-Tal cenário demográfico e econômico abarca um contingente de instituições públicas, as quais demandam por profissionais portadores de competências e habilidades condizentes com os princípios da eficiência da Gestão Pública, focado em qualidade e ética na prestação dos serviços públicos aos cidadãos. Assim, a formação continuada de servidores públicos, por meio de cursos de pós-graduação lato sensu, visa contribuir para a sociedade onde a instituição está inserida. Vale ressaltar que, as instituições públicas da cidade de Curitiba, não ofertaram no ano de 2017, cursos de especializações presenciais em Gestão Pública, de forma que, apenas as instituições privadas ofertam tais cursos na modalidade à distância. 
+INSTITUTOFEDERALDOPARANA|Reitoria
 
-O presente projeto foi elaborado a partir do somatório de esforços da equipe do curso Superior de Tecnologia em Gestão Pública ofertado pelo campus Curitiba, em especial pelos membros da comissão de elaboração do projeto pedagógico da pós-graduação em Gestão Pública, a qual foi instituída pela portaria nº057/2017 – DIR/CP/CTBA/IFPR composta pelos docentes Adriano Stadler, Frederico Fonseca da Silva, Pedro Antonio Bittencourt Pacheco e Vanderci Benjamin Ruscel. Vale ressaltar também, que o presente projeto levou em conta as experiências adquiridas através da oferta da especialização em Gestão Pública na modalidade EAD do IFPR nos anos de 2012 a 2014, onde houve mais de 2000 estudantes que concluíram com êxito o curso. 
+INSTITUTOFEDERAL PARANA
 
-Espera-se que os estudantes egressos deste curso de pós-graduação, estejam preparados para atuar nas instituições públicas com competências e habilidades que os permitam seu desenvolvimento pessoal e profissional, os quais poderão ser revertidos em serviços públicos de qualidade superior. Busca-se ainda que, os egressos tenham condições de ascender profissionalmente em organizações, sejam elas públicas de administração direta ou indireta, bem como em organizações privadas e sem fins lucrativos, democratizando desta forma, o acesso ao ensino de pós-graduação na região metropolitana de Curitiba. 
+MinisteriodaEducacao
 
-Vale destacar que haverá um núcleo comum de disciplinas, composto por 9 disciplinas, e um núcleo específico com 3 disciplinas para cada habilitação. No ato do lançamento do edital de abertura da turma, será escolhida uma das 3 habilitações, a qual será definida em comum acordo pela direção geral do campus Curitiba e colegiado do curso. 
+## **5. Objetivos da proposta**
 
-INSTITUTOFEDERALDOPARANA|Reitoria 
+O curso de Pós-Graduação em Gestão Pública com habilitação em Gestão de Pessoas tem como objetivo proporcionar aprofundamento teórico acerca da Gestão Pública, realizando discussões acerca dos rumos da sociedade e do papel do gestor neste contexto de profundas transformações econômicas, políticas, tecnológicas, sociais e ambientais que vivemos.
 
-INSTITUTOFEDERAL PARANA 
+Assim, os principais objetivos do curso são:
 
-MinisteriodaEducacao 
+- 1- Capacitar os alunos para o raciocínio crítico e analítico sobre a gestão pública e a aplicabilidade dos conceitos adquiridos ao longo do curso.
 
-## **5. Objetivos da proposta** 
+A partir das aulas expositivas, dialogadas, reflexivas e contextualizadas com os cenários onde atuam as instituições públicas, os estudantes deverão desenvolver sua capacidade crítica sobre os fenômenos sociais, bem como sobre o planejamento e gestão de organizações, de forma a contribuir para ampliar e aprofundar tais capacidades nos estudantes.
 
-O curso de Pós-Graduação em Gestão Pública com habilitação em Gestão de Pessoas tem como objetivo proporcionar aprofundamento teórico acerca da Gestão Pública, realizando discussões acerca dos rumos da sociedade e do papel do gestor neste contexto de profundas transformações econômicas, políticas, tecnológicas, sociais e ambientais que vivemos. 
+- 2- Desenvolver habilidades técnicas e humanas que permitam ampliar sua capacidade profissional.
 
-Assim, os principais objetivos do curso são: 
+Tendo como base o uso de metodologias de ensino direcionadas à aprendizagem do estudante, como a aprendizagem ativa (BUTZKE, 2015), aprendizagem experiencial (KOLB, 2014, MINNITI; BYGRAVE, 2011) e aprendizagem colaborativa (COLINS; SMITH; HANNON, 2006), buscar-se-á proporcionar o desenvolvimento de habilidades direcionadas à atuação técnica, bem como incentivar que as relações humanas sejam aprimoradas.
 
-- 1- Capacitar os alunos para o raciocínio crítico e analítico sobre a gestão pública e a aplicabilidade dos conceitos adquiridos ao longo do curso. 
+- 3- Desenvolver competência técnica para o gerenciamento de pessoas com ênfase na aprendizagem organizacional, motivação e relações interpesssoais.
 
-A partir das aulas expositivas, dialogadas, reflexivas e contextualizadas com os cenários onde atuam as instituições públicas, os estudantes deverão desenvolver sua capacidade crítica sobre os fenômenos sociais, bem como sobre o planejamento e gestão de organizações, de forma a contribuir para ampliar e aprofundar tais capacidades nos estudantes. 
+Buscar-se-á proporcionar ao estudante conhecimentos que permitam replicar tais conhecimentos no âmbito profissional, proporcionando melhorias no clima organizacional, buscando também fazer com que tais iniciativas tornem as organizações mais justas, éticas e produtivas.
 
-- 2- Desenvolver habilidades técnicas e humanas que permitam ampliar sua capacidade profissional. 
+- 4- Disseminar a cultura da pesquisa, extensão e inovação no âmbito da pós-graduação em gestão pública.
 
-Tendo como base o uso de metodologias de ensino direcionadas à aprendizagem do estudante, como a aprendizagem ativa (BUTZKE, 2015), aprendizagem experiencial (KOLB, 2014, MINNITI; BYGRAVE, 2011) e aprendizagem colaborativa (COLINS; SMITH; HANNON, 2006), buscar-se-á proporcionar o desenvolvimento de habilidades direcionadas à atuação técnica, bem como incentivar que as relações humanas sejam aprimoradas. 
+A partir da utilização de métodos de ensino e aprendizagem que fomentem a pesquisa, seja ela no decorrer do curso, bem como na realização do Trabalho de Conclusão de Curso, espera-se que a pesquisa seja incrementada, bem como a busca por métodos de gestão considerados
 
-- 3- Desenvolver competência técnica para o gerenciamento de pessoas com ênfase na aprendizagem organizacional, motivação e relações interpesssoais. 
+INSTITUTOFEDERALDOPARANA|Reitoria
 
-Buscar-se-á proporcionar ao estudante conhecimentos que permitam replicar tais conhecimentos no âmbito profissional, proporcionando melhorias no clima organizacional, buscando também fazer com que tais iniciativas tornem as organizações mais justas, éticas e produtivas. 
+MinisteriodaEducacao
 
-- 4- Disseminar a cultura da pesquisa, extensão e inovação no âmbito da pós-graduação em gestão pública. 
+## INSTITUTOFEDERAL PARANA
 
-A partir da utilização de métodos de ensino e aprendizagem que fomentem a pesquisa, seja ela no decorrer do curso, bem como na realização do Trabalho de Conclusão de Curso, espera-se que a pesquisa seja incrementada, bem como a busca por métodos de gestão considerados 
+inovadores no setor público. Aliado a isso, as atividades de extensão serão incentivadas ao longo de todo o período de realização do curso.
 
-INSTITUTOFEDERALDOPARANA|Reitoria 
+## **6. Metodologia de trabalho**
 
-MinisteriodaEducacao 
+O curso está amparado pela CNE/CES N°1 de 08/06/2007. O programa de pós-graduação tem duração de 420 horas, divididas 12 disciplinas de 30 horas, mais 60 horas para o Trabalho de Conclusão de Curso (TCC). O aluno deve completar o programa em no mínimo doze (12) meses e no máximo dezoito (18) meses, incluindo elaboração e entrega do TCC.
 
-## INSTITUTOFEDERAL PARANA 
+As atividades do curso de pós-graduação em Gestão Pública serão compostas por aulas expositivas presenciais, seminários e palestras, tendo como apoio à aprendizagem a leitura de casos de ensino e vídeos instrucionais. A leitura e redação de artigos científicos serão exigidas durante todo o curso, atividade esta, que busca incentivar a produção científica por parte dos estudantes do curso, da mesma forma será incentivada a participação em congressos científicos, seja na condição de ouvinte, como na condição de apresentador de trabalho científico.
 
-inovadores no setor público. Aliado a isso, as atividades de extensão serão incentivadas ao longo de todo o período de realização do curso. 
+Tais estratégias visam preparar o estudante para o Trabalho de Conclusão de Curso, que será em forma de artigo científico. A partir das estratégias pedagógicas expostas, espera-se que o estudante obtenha conhecimentos satisfatórios para concluir com êxito o curso.
 
-## **6. Metodologia de trabalho** 
-
-O curso está amparado pela CNE/CES N°1 de 08/06/2007. O programa de pós-graduação tem duração de 420 horas, divididas 12 disciplinas de 30 horas, mais 60 horas para o Trabalho de Conclusão de Curso (TCC). O aluno deve completar o programa em no mínimo doze (12) meses e no máximo dezoito (18) meses, incluindo elaboração e entrega do TCC. 
-
-As atividades do curso de pós-graduação em Gestão Pública serão compostas por aulas expositivas presenciais, seminários e palestras, tendo como apoio à aprendizagem a leitura de casos de ensino e vídeos instrucionais. A leitura e redação de artigos científicos serão exigidas durante todo o curso, atividade esta, que busca incentivar a produção científica por parte dos estudantes do curso, da mesma forma será incentivada a participação em congressos científicos, seja na condição de ouvinte, como na condição de apresentador de trabalho científico. 
-
-Tais estratégias visam preparar o estudante para o Trabalho de Conclusão de Curso, que será em forma de artigo científico. A partir das estratégias pedagógicas expostas, espera-se que o estudante obtenha conhecimentos satisfatórios para concluir com êxito o curso. 
-
-## **7. Cronograma das atividades:** 
+## **7. Cronograma das atividades:**
 
 |**Atividades**|**Jan**|**Fev**|**Mar**|**Abr**|**Mai**|**Jun**|**Jul**|**Ago**|**Set**|**Out**|**Nov**|**Dez**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -239,19 +225,17 @@ Tais estratégias visam preparar o estudante para o Trabalho de Conclusão de Cu
 |Componentes curriculares<br>(aulas)||**X**|**X**|**X**|||||||||
 |Encerramento do Curso|||||||||||**X**||
 
+INSTITUTOFEDERALDOPARANAIReitoria
 
+Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil
 
-INSTITUTOFEDERALDOPARANAIReitoria 
+PARANA
 
-Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil 
+MinisteriodaEducacao
 
-PARANA 
+## INSTITUTOFEDERAL
 
-MinisteriodaEducacao 
-
-## INSTITUTOFEDERAL 
-
-## **7.1 CRONOGRAMA DE AULAS** 
+## **7.1 CRONOGRAMA DE AULAS**
 
 |**Atividades**|**Jan**|**Fev**|**Mar**|**Abr**|**Mai**|**Jun**|**Jul**|**Ago**|**Set**|**Out**|**Nov**|**Dez**|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -277,15 +261,13 @@ MinisteriodaEducacao
 |Apresentação do TCC|||||||||**X**|**X**|||
 |Encerramento do Curso|||||||||||**X**||
 
+INSTITUTOFEDERALDOPARANAIReitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil
 
+INSTITUTOFEDERAL PARANA
 
-INSTITUTOFEDERALDOPARANAIReitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil 
+MinisteriodaEducacao
 
-INSTITUTOFEDERAL PARANA 
-
-MinisteriodaEducacao 
-
-## **7.2 RELAÇÃO DO CORPO DOCENTE DO CURSO** 
+## **7.2 RELAÇÃO DO CORPO DOCENTE DO CURSO**
 
 |**Nome**|**Formação**|**Titulação**|Lotação ou<br>Instituição<br>de origem|**Disciplina**|**C.H**|**Link do**<br>**Lattes**<br>**Atualizado**|
 |---|---|---|---|---|---|---|
@@ -304,15 +286,13 @@ MinisteriodaEducacao
 |Vanderci<br>Benjamin<br>Ruschel|Ciências<br>Sociais|Doutor|IFPR -<br>Campus<br>Curitiba|Sociologia Política|30|http://lattes.cn<br>pq.br/1221545<br>585807388|
 |Marineide<br>Maria<br>Silva|Ciências<br>Sociais|Doutora|IFPR -<br>Campus<br>Curitiba|Formulação de<br>Políticas Públicas|30|http://lattes.cn<br>pq.br/7332391<br>924034109|
 
+INSTITUTOFEDERALDOPARANA|ReitOria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil
 
+## INSTITUTOFEDERAL
 
-INSTITUTOFEDERALDOPARANA|ReitOria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil 
+## PARANA
 
-## INSTITUTOFEDERAL 
-
-## PARANA 
-
-MinisteriodaEducacao 
+MinisteriodaEducacao
 
 |José Carlos Pereira|Gestão<br>Pública||IFPR -<br>Campus<br>Curitiba|Implementação e<br>Avaliação de<br>Políticas Públicas|30|http://lattes.cn<br>pq.br/0488263<br>768453462|
 |---|---|---|---|---|---|---|
@@ -320,9 +300,7 @@ MinisteriodaEducacao
 |Leila<br>Araújo<br>de<br>Sousa|Administra<br>-ção|Doutora|IFPR -<br>Campus<br>Curitiba|Projetos Logísticos|30|http://lattes.cn<br>pq.br/9175620<br>680035718|
 |Elaine<br>Cristina<br>Arantes|Administra<br>-ção|Doutora|IFPR -<br>Campus<br>Pinhais|Supply<br>Chain<br>Management|30|http://lattes.cn<br>pq.br/9056089<br>845348500|
 
-
-
-## **8. Grupos de Pesquisa** (formal ou informal) do corpo docente elencado no curso proposto. 
+## **8. Grupos de Pesquisa** (formal ou informal) do corpo docente elencado no curso proposto.
 
 |**Grupo de Pesquisa**|**Tipo do Grupo**|**Linha(s) de Pesquisa**|**Docente (s)**|
 |---|---|---|---|
@@ -330,139 +308,133 @@ MinisteriodaEducacao
 |Políticas Públicas|Grupo Informal a ser<br>cadastrado no Cope do<br>Campus Curitiba|Grupo Informal a ser<br>cadastrado no Cope do<br>Formulação,<br>Implementação<br>e<br>Avaliação de Políticas<br>Públicas|e<br>Avaliação de Políticas<br>José Carlos Pereira|
 |Logística Pública|Grupo Informal a ser<br>cadastrado no Cope do<br>Campus Curitiba|Grupo Informal a ser<br>cadastrado no Cope do<br>Logística<br>Reversa<br>na<br>gestão pública|na<br>Marcos Rogério Maioli|
 
+INSTITUTOFEDERALDOPARANA|Reitoria
 
+MinisteriodaEducacao
 
-INSTITUTOFEDERALDOPARANA|Reitoria 
+## INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao 
+## **9. Funcionamento do curso**
 
-## INSTITUTOFEDERAL PARANA 
+## 9.1 Etapas do Processo Seletivo para ingresso
 
-## **9. Funcionamento do curso** 
+A seleção será em forma de edital que conterá, no mínimo, ficha de inscrição com os seguintes campos: dados pessoais, formação acadêmica, experiência profissional e intenção com o curso. O processo seletivo seguirá o calendário acadêmico do campus Curitiba, com anuência da direção geral e de ensino.
 
-## 9.1 Etapas do Processo Seletivo para ingresso 
+## 9.1.1 Período de inscrição: Novembro e Dezembro de 2017
 
-A seleção será em forma de edital que conterá, no mínimo, ficha de inscrição com os seguintes campos: dados pessoais, formação acadêmica, experiência profissional e intenção com o curso. O processo seletivo seguirá o calendário acadêmico do campus Curitiba, com anuência da direção geral e de ensino. 
+## 9.1.2 Pré-requisitos: Conclusão do ensino superior
 
-## 9.1.1 Período de inscrição: Novembro e Dezembro de 2017 
+- 9.1.3 Etapas de seleção/avaliação:
 
-## 9.1.2 Pré-requisitos: Conclusão do ensino superior 
+(     ) Prova
 
-- 9.1.3 Etapas de seleção/avaliação: 
+(     ) Entrevista
 
-(     ) Prova 
+- (   x  ) Currículo
 
-(     ) Entrevista 
+- (  x   ) Experiência
 
-- (   x  ) Currículo 
+## (  x  ) Outras:
 
-- (  x   ) Experiência 
+Em caso do número de candidatos ser superior ao número de vagas ofertadas, poderá ser realizada
 
-## (  x  ) Outras: 
+entrevista com os candidatos para desempate, onde os critérios serão:
 
-Em caso do número de candidatos ser superior ao número de vagas ofertadas, poderá ser realizada 
+- O candidato é servidor público federal, estadual ou municipal.
 
-entrevista com os candidatos para desempate, onde os critérios serão: 
+- Atua na administração pública direta ou indireta
 
-- O candidato é servidor público federal, estadual ou municipal. 
+- É oriundo de escola pública
 
-- Atua na administração pública direta ou indireta 
+- Comprova renda inferior a 5 salários mínimos.
 
-- É oriundo de escola pública 
+## **10. Metodologia de trabalho e avaliação do desempenho do estudante**
 
-- Comprova renda inferior a 5 salários mínimos. 
+As atividades do curso de pós-graduação em Gestão Pública serão compostas por aulas expositivas presenciais, seminários e palestras, tendo como apoio à aprendizagem a leitura de casos de ensino e vídeos instrucionais. A leitura e redação de artigos científicos serão exigidas durante todo o curso, atividade esta, que busca incentivar a produção científica por parte dos estudantes do curso, da mesma forma será incentivada a participação em congressos científicos, seja na condição de ouvinte, como na condição de apresentador de trabalho científico. Tais estratégias visam preparar o estudante para o Trabalho de Conclusão de Curso, que será em forma de artigo científico.
 
-## **10. Metodologia de trabalho e avaliação do desempenho do estudante** 
+INSTITUTOFEDERALDOPARANA|Reitoria
 
-As atividades do curso de pós-graduação em Gestão Pública serão compostas por aulas expositivas presenciais, seminários e palestras, tendo como apoio à aprendizagem a leitura de casos de ensino e vídeos instrucionais. A leitura e redação de artigos científicos serão exigidas durante todo o curso, atividade esta, que busca incentivar a produção científica por parte dos estudantes do curso, da mesma forma será incentivada a participação em congressos científicos, seja na condição de ouvinte, como na condição de apresentador de trabalho científico. Tais estratégias visam preparar o estudante para o Trabalho de Conclusão de Curso, que será em forma de artigo científico. 
+MinisteriodaEducacao
 
-INSTITUTOFEDERALDOPARANA|Reitoria 
+## INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao 
+A partir das estratégias pedagógicas expostas, espera-se que o estudante obtenha conhecimentos satisfatórios para concluir com êxito o curso.
 
-## INSTITUTOFEDERAL PARANA 
+A avaliação do ensino e aprendizagem seguirá a resolução nº 50/2017 do Consup-IFPR, a qual passará a vigorar a partir de janeiro de 2018. Sugere-se que a avaliação ocorra de forma processual e diagnóstica, ficando a cargo do professor a combinação de peso e intensidade de cada forma de avaliação. Recomenda-se acontecer em diversos momentos e formatos, valorizando as diversas capacidades e explorando as diferentes potencialidades dos estudantes. Para as disciplinas com carga horária de 30h recomendam-se no mínimo duas avaliações. Entretanto, a avaliação diagnóstica não deverá compor o único instrumento utilizado, ficando vedado ao professor submeter o aluno a uma única oportunidade e a um único instrumento de avaliação.
 
-A partir das estratégias pedagógicas expostas, espera-se que o estudante obtenha conhecimentos satisfatórios para concluir com êxito o curso. 
+Será considerado aprovado o aluno que obter os conceitos A, B ou C e frequência igual ou superior a 75% (setenta e cinco por cento) na unidade/área curricular, conforme Resolução 50/2017 Consup/IFPR. Caso o aluno não seja aprovado por conceitos em qualquer disciplina, conforme os critérios de avaliação acima previstos, poderá ainda fazer a recuperação de seus estudos mediante a avaliação final. Caberá ao professor de cada disciplina elaborar e corrigir tal avaliação.
 
-A avaliação do ensino e aprendizagem seguirá a resolução nº 50/2017 do Consup-IFPR, a qual passará a vigorar a partir de janeiro de 2018. Sugere-se que a avaliação ocorra de forma processual e diagnóstica, ficando a cargo do professor a combinação de peso e intensidade de cada forma de avaliação. Recomenda-se acontecer em diversos momentos e formatos, valorizando as diversas capacidades e explorando as diferentes potencialidades dos estudantes. Para as disciplinas com carga horária de 30h recomendam-se no mínimo duas avaliações. Entretanto, a avaliação diagnóstica não deverá compor o único instrumento utilizado, ficando vedado ao professor submeter o aluno a uma única oportunidade e a um único instrumento de avaliação. 
+## **11. Critérios de aproveitamento de estudos anteriores**
 
-Será considerado aprovado o aluno que obter os conceitos A, B ou C e frequência igual ou superior a 75% (setenta e cinco por cento) na unidade/área curricular, conforme Resolução 50/2017 Consup/IFPR. Caso o aluno não seja aprovado por conceitos em qualquer disciplina, conforme os critérios de avaliação acima previstos, poderá ainda fazer a recuperação de seus estudos mediante a avaliação final. Caberá ao professor de cada disciplina elaborar e corrigir tal avaliação. 
+O aproveitamento de estudos será feito mediante o reconhecimento da identidade ou equivalência entre disciplinas, suas cargas horárias e ementas, totalizando, no mínimo, 75% de similaridade entre as ementas.
 
-## **11. Critérios de aproveitamento de estudos anteriores** 
+São passíveis de aproveitamento estudos realizados em outro curso de pós-graduação ( _lato stricto sensu_ ). A análise ficará a cargo da Coordenação do Curso e do professor responsável pela disciplina tendo como base a legislação vigente dos cursos de Pós-Graduação do IFPR.
 
-O aproveitamento de estudos será feito mediante o reconhecimento da identidade ou equivalência entre disciplinas, suas cargas horárias e ementas, totalizando, no mínimo, 75% de similaridade entre as ementas. 
+Os documentos que deverão ser apresentados para a análise do aproveitamento de estudos no ato da matrícula são:
 
-São passíveis de aproveitamento estudos realizados em outro curso de pós-graduação ( _lato stricto sensu_ ). A análise ficará a cargo da Coordenação do Curso e do professor responsável pela disciplina tendo como base a legislação vigente dos cursos de Pós-Graduação do IFPR. 
+- i) Histórico escolar original ou documento equivalente que ateste os componentes curriculares cursados, a respectiva carga horária, a nota ou o conceito, e o período letivo de integralização;
 
-Os documentos que deverão ser apresentados para a análise do aproveitamento de estudos no ato da matrícula são: 
+- ii) Cópia autenticada pela Instituição de origem dos planos de ensino dos componentes curriculares cursados e aprovados, constantes no histórico escolar;
 
-- i) Histórico escolar original ou documento equivalente que ateste os componentes curriculares cursados, a respectiva carga horária, a nota ou o conceito, e o período letivo de integralização; 
+- iii) Critérios de avaliação da instituição de origem, contendo a tabela de conversão de conceitos em notas, quando for ocaso;
 
-- ii) Cópia autenticada pela Instituição de origem dos planos de ensino dos componentes curriculares cursados e aprovados, constantes no histórico escolar; 
+INSTITUTOFEDERALDOPARANA|Reitoria
 
-- iii) Critérios de avaliação da instituição de origem, contendo a tabela de conversão de conceitos em notas, quando for ocaso; 
+## INSTITUTOFEDERAL PARANA
 
-INSTITUTOFEDERALDOPARANA|Reitoria 
+MinisteriodaEducacao
 
-## INSTITUTOFEDERAL PARANA 
+iv) Documento expedido pela Instituição de origem em que conste o número e a data do ato de autorização ou reconhecimento do curso.
 
-MinisteriodaEducacao 
+Os documentos poderão ser entregues em forma de fotocópia autenticada ou cópia simples mediante apresentação do original, a ser atestada por servidor público do campus. O pedido de aproveitamento de estudos deverá ser efetuado na Secretaria Acadêmica do Campus Curitiba do IFPR, no ato da matrícula, acompanhado dos documentos citados anteriormente. Tais critérios são regidos pela Resolução nº 55, de 21 de dezembro de 2011 – Consup/IFPR (Art. 81 e seguintes).
 
-iv) Documento expedido pela Instituição de origem em que conste o número e a data do ato de autorização ou reconhecimento do curso. 
+## **12. Elaboração e orientação do trabalho de conclusão de curso**
 
-Os documentos poderão ser entregues em forma de fotocópia autenticada ou cópia simples mediante apresentação do original, a ser atestada por servidor público do campus. O pedido de aproveitamento de estudos deverá ser efetuado na Secretaria Acadêmica do Campus Curitiba do IFPR, no ato da matrícula, acompanhado dos documentos citados anteriormente. Tais critérios são regidos pela Resolução nº 55, de 21 de dezembro de 2011 – Consup/IFPR (Art. 81 e seguintes). 
+O TCC é uma atividade científica que será desenvolvida mediante orientação, acompanhamento e avaliação docente. É de cunho obrigatório uma vez que a sua realização garantirá a integralização dos componentes curriculares do curso. Trata-se da execução de uma atividade visando a elaboração de um texto científico na forma de artigo, desenvolvido individualmente. São objetivos do TCC:
 
-## **12. Elaboração e orientação do trabalho de conclusão de curso** 
+a) possibilitar aos estudantes e seu aprofundamento na pesquisa científica;
 
-O TCC é uma atividade científica que será desenvolvida mediante orientação, acompanhamento e avaliação docente. É de cunho obrigatório uma vez que a sua realização garantirá a integralização dos componentes curriculares do curso. Trata-se da execução de uma atividade visando a elaboração de um texto científico na forma de artigo, desenvolvido individualmente. São objetivos do TCC: 
+b) proporcionar o avanço do conhecimento nas ciências sociais buscando com isso a melhoria da sociedade brasileira;
 
-a) possibilitar aos estudantes e seu aprofundamento na pesquisa científica; 
+c) sistematizar o conhecimento e a sua construção no decorrer de todo o curso;
 
-b) proporcionar o avanço do conhecimento nas ciências sociais buscando com isso a melhoria da sociedade brasileira; 
+A organização e apresentação do TCC seguirão as normas para elaboração de trabalho acadêmico e produções científicas do Instituto Federal do Paraná que estão de acordo com as normas da ABNT.
 
-c) sistematizar o conhecimento e a sua construção no decorrer de todo o curso; 
+Para a realização do TCC o estudante terá um professor-orientador, professor da instituição com formação _stricto sensu_ (mestrado ou doutorado) ou ainda, _lato sensu_ (especialização), responsável pela orientação ao estudante, segundo afinidade teórica e/ou prática deste com o tema e conforme a disponibilidade do quadro docente. Deverá ser divulgada com antecedência a lista dos professores orientadores disponíveis, bem como as suas respectivas linhas de pesquisa. Caberá ao professor-orientador definir com o orientando os locais, os horários de atendimento e outras providências necessárias para a realização do TCC.
 
-A organização e apresentação do TCC seguirão as normas para elaboração de trabalho acadêmico e produções científicas do Instituto Federal do Paraná que estão de acordo com as normas da ABNT. 
+Destaca-se aqui que é responsabilidade do orientado buscar o professor orientador para sanar dúvidas e desenvolver o seu trabalho de TCC. Para efeito de avaliação, o TCC será submetido a: a) Acompanhamento contínuo do professor orientador; b) Desenvolvimento de atividades de
 
-Para a realização do TCC o estudante terá um professor-orientador, professor da instituição com formação _stricto sensu_ (mestrado ou doutorado) ou ainda, _lato sensu_ (especialização), responsável pela orientação ao estudante, segundo afinidade teórica e/ou prática deste com o tema e conforme a disponibilidade do quadro docente. Deverá ser divulgada com antecedência a lista dos professores orientadores disponíveis, bem como as suas respectivas linhas de pesquisa. Caberá ao professor-orientador definir com o orientando os locais, os horários de atendimento e outras providências necessárias para a realização do TCC. 
+INSTITUTOFEDERALDOPARANA|Reitoria
 
-Destaca-se aqui que é responsabilidade do orientado buscar o professor orientador para sanar dúvidas e desenvolver o seu trabalho de TCC. Para efeito de avaliação, o TCC será submetido a: a) Acompanhamento contínuo do professor orientador; b) Desenvolvimento de atividades de 
+## INSTITUTOFEDERAL PARANA
 
-INSTITUTOFEDERALDOPARANA|Reitoria 
+MinisteriodaEducacao
 
-## INSTITUTOFEDERAL PARANA 
+orientação; c) Entrega e apresentação de TCC; e) Apreciação do TCC por comissão examinadora. A comissão será composta por dois professores do curso ou que tenham experiência comprovada na área.
 
-MinisteriodaEducacao 
+Será considerado aprovado o aluno que obtiver conceitos A, B ou C e reprovado o que obtiver conceito D e E. O conceito será atribuído mediante os conceitos atribuídos pelos examinadores. Também será realizada a apresentação do trabalho, em data a ser divulgada previamente pelo coordenador, sem caráter avaliativo, mas divulgador da produção com o intuito de compartilhar com colegas profissionais os resultados obtidos.
 
-orientação; c) Entrega e apresentação de TCC; e) Apreciação do TCC por comissão examinadora. A comissão será composta por dois professores do curso ou que tenham experiência comprovada na área. 
+O Trabalho de Conclusão de Curso da Pós-Graduação em Gestão Pública está de acordo com as orientações da Portaria da CAPES Nº 07/2009. Os trabalhos de conclusão de curso deverão seguir as “Normas para elaboração de trabalhos acadêmicos no IFPR”. Cada candidato deverá protocolar seu TCC na secretaria do curso, em três vias impressas destinadas à banca julgadora, no prazo de 30 dias antes da data da defesa, quando este for pré-requisito para obtenção do título de Especialista.
 
-Será considerado aprovado o aluno que obtiver conceitos A, B ou C e reprovado o que obtiver conceito D e E. O conceito será atribuído mediante os conceitos atribuídos pelos examinadores. Também será realizada a apresentação do trabalho, em data a ser divulgada previamente pelo coordenador, sem caráter avaliativo, mas divulgador da produção com o intuito de compartilhar com colegas profissionais os resultados obtidos. 
+## **13. Condições de aprovação no curso**
 
-O Trabalho de Conclusão de Curso da Pós-Graduação em Gestão Pública está de acordo com as orientações da Portaria da CAPES Nº 07/2009. Os trabalhos de conclusão de curso deverão seguir as “Normas para elaboração de trabalhos acadêmicos no IFPR”. Cada candidato deverá protocolar seu TCC na secretaria do curso, em três vias impressas destinadas à banca julgadora, no prazo de 30 dias antes da data da defesa, quando este for pré-requisito para obtenção do título de Especialista. 
+O aluno deverá adquirir conhecimentos teóricos e práticos sobre a gestão pública, a partir de discussão crítica dos assuntos contemporâneos da área. Deverá ter capacidade de expressar posicionamento fundamentado sobre os fenômenos sociais. Possuir habilidade na proposição e implementação de soluções para o ambiente organizacional da gestão pública, respeitando os princípios éticos e legais do setor em que atua. Da mesma forma deverá possuir habilidade na redação científica, produzindo textos, artigos e relatórios fundamentados nos preceitos metodológicos esperados para um egresso da pós-graduação lato sensu do IFPR.
 
-## **13. Condições de aprovação no curso** 
+## **14. Certificados e graus acadêmicos obtidos**
 
-O aluno deverá adquirir conhecimentos teóricos e práticos sobre a gestão pública, a partir de discussão crítica dos assuntos contemporâneos da área. Deverá ter capacidade de expressar posicionamento fundamentado sobre os fenômenos sociais. Possuir habilidade na proposição e implementação de soluções para o ambiente organizacional da gestão pública, respeitando os princípios éticos e legais do setor em que atua. Da mesma forma deverá possuir habilidade na redação científica, produzindo textos, artigos e relatórios fundamentados nos preceitos metodológicos esperados para um egresso da pós-graduação lato sensu do IFPR. 
+O estudante receberá o certificado do curso de Especialização em Gestão Pública e habilitações, caso cumpra com êxito todos os módulos do curso, inclusive aprovação após a apresentação do TCC, obtendo conceito e frequência suficientes, conforme normas do IFPR.
 
-## **14. Certificados e graus acadêmicos obtidos** 
+Caso o estudante não seja aprovado no curso em disciplinas e/ou TCC, poderá requerer junto à Secretaria Acadêmica do campus Curitiba uma declaração de curso de Aperfeiçoamento, contendo a carga horária cumprida com êxito no curso de especialização, de acordo com a resolução nº 18/2017 – Consup/IFPR, Capítulo V, Art. 25 e dispositivos normativos seguintes.
 
-O estudante receberá o certificado do curso de Especialização em Gestão Pública e habilitações, caso cumpra com êxito todos os módulos do curso, inclusive aprovação após a apresentação do TCC, obtendo conceito e frequência suficientes, conforme normas do IFPR. 
+INSTITUTOFEDERALDOPARANA|Reitoria
 
-Caso o estudante não seja aprovado no curso em disciplinas e/ou TCC, poderá requerer junto à Secretaria Acadêmica do campus Curitiba uma declaração de curso de Aperfeiçoamento, contendo a carga horária cumprida com êxito no curso de especialização, de acordo com a resolução nº 18/2017 – Consup/IFPR, Capítulo V, Art. 25 e dispositivos normativos seguintes. 
+INSTITUTOFEDERAL PARANA
 
-INSTITUTOFEDERALDOPARANA|Reitoria 
+MinisteriodaEducacao<br>
 
-INSTITUTOFEDERAL PARANA 
+## **15. Quadro de disciplinas**
 
-**==> picture [84 x 8] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>**----- End of picture text -----**<br>
-
-
-## **15. Quadro de disciplinas** 
-
-Apresentam-se as disciplinas referentes ao núcleo comum do curso de Especialização em Gestão Pública e aos núcleos específicos, também chamados de habilitações em Gestão de Pessoas, Políticas Públicas e Logística. 
+Apresentam-se as disciplinas referentes ao núcleo comum do curso de Especialização em Gestão Pública e aos núcleos específicos, também chamados de habilitações em Gestão de Pessoas, Políticas Públicas e Logística.
 
 |**Componentes Curriculares**|**Carga horária total(h)/Créditos**|
 |---|---|
@@ -486,15 +458,13 @@ Apresentam-se as disciplinas referentes ao núcleo comum do curso de Especializa
 |Supply Chain Management|30h – 2 créditos|
 |Trabalho de Conclusão de Curso|60h – 4 créditos|
 
+INSTITUTOFEDERALDOPARANA|Reitoria
 
+INSTITUTOFEDERAL PARANA
 
-INSTITUTOFEDERALDOPARANA|Reitoria 
+MinisteriodaEducacao
 
-INSTITUTOFEDERAL PARANA 
-
-MinisteriodaEducacao 
-
-## **16. Quadro Sinótico da Matriz Curricular** 
+## **16. Quadro Sinótico da Matriz Curricular**
 
 |**Componentes Curriculares**|**Componentes Curriculares**|**Tipo de**<br>**disciplina**|**Carga**<br>**Horária/Créditos**|
 |---|---|---|---|
@@ -505,647 +475,641 @@ MinisteriodaEducacao
 |**Habilitação**<br>**em Logística**|1. Operações Logísticas<br>2. Projetos Logísticos<br>_3. Supply Chain Management_|Módulo<br>Optativo*|90 h/a<br>6 créditos|
 |**Carga Horária Total do Curso**|||**420 h/a**|
 
+_* A definição do módulo optativo se dará pelo colegiado do curso com autorização da direção geral do campus Curitiba. Podendo ser ofertado uma ou mais habilitações por turma, ficando condicionado à disponibilidade estrutural e de docentes._
 
+INSTITUTOFEDERALDOPARANA|ReitOria
 
-_* A definição do módulo optativo se dará pelo colegiado do curso com autorização da direção geral do campus Curitiba. Podendo ser ofertado uma ou mais habilitações por turma, ficando condicionado à disponibilidade estrutural e de docentes._ 
+MinisteriodaEducacao
 
-INSTITUTOFEDERALDOPARANA|ReitOria 
+## INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao 
+## **16.1 Plano(s) de Ensino dos Componentes Curriculares elencados na Matriz Curricular 16.1.1 Núcleo Comum**
 
-## INSTITUTOFEDERAL PARANA 
+Curso: **Pós-Graduação em Gestão Pública**
 
-## **16.1 Plano(s) de Ensino dos Componentes Curriculares elencados na Matriz Curricular 16.1.1 Núcleo Comum** 
+Disciplina: **1. Epistemologia: Construção do Conhecimento**
 
-Curso: **Pós-Graduação em Gestão Pública** 
+Carga horária teórica: **24h**
 
-Disciplina: **1. Epistemologia: Construção do Conhecimento** 
+Carga horária prática: **6h**
 
-Carga horária teórica: **24h** 
+Carga horária total: **30h**
 
-Carga horária prática: **6h** 
+**Ementa:** Bases conceituais da epistemologia; Concepções filosóficas, psicológicas e pedagógicas da construção do conhecimento; Identificação dos pressupostos necessários para a elaboração do conhecimento nas organizações; Sociedade da informação e do conhecimento. Gestão do conhecimento organizacional.
 
-Carga horária total: **30h** 
+**Bibliografia básica:**
 
-**Ementa:** Bases conceituais da epistemologia; Concepções filosóficas, psicológicas e pedagógicas da construção do conhecimento; Identificação dos pressupostos necessários para a elaboração do conhecimento nas organizações; Sociedade da informação e do conhecimento. Gestão do conhecimento organizacional. 
+DEMO, Pedro. **Pesquisa e Construção do Conhecimento** . Tempo Brasileiro: RJ. 7ª Ed. 2009. JAPIASSU, H. **Introdução ao pensamento epistemológico.** Rio de Janeiro: Francisco Alves, 1994.
 
-**Bibliografia básica:** 
+MORIN, Edgar. Os sete saberes necessários à educação do futuro. Brasília: Cortez, 2002.
 
-DEMO, Pedro. **Pesquisa e Construção do Conhecimento** . Tempo Brasileiro: RJ. 7ª Ed. 2009. JAPIASSU, H. **Introdução ao pensamento epistemológico.** Rio de Janeiro: Francisco Alves, 1994. 
+**Bibliografia complementar:** BRÁSIL. Encontros e caminhos. Formação de Educadores Ambientais e Coletivos Educadores. Construção do Conhecimento. Disponível em: - http://www.apoema.com.br/Encontros%20e%20Caminhos%20
 
-MORIN, Edgar. Os sete saberes necessários à educação do futuro. Brasília: Cortez, 2002. 
+%20Coletivos%20Educadores.pdf#page=106. Ministério do Meio Ambiente. Brasília, 2005. FRANCELIN, Marivalde Moacir. A epistemologia da complexidade e a ciência da informação. Disponível em: http://www.scielo.br/pdf/ci/v32n2/17034.pdf. Acesso em 29/03/2011.
 
-**Bibliografia complementar:** BRÁSIL. Encontros e caminhos. Formação de Educadores Ambientais e Coletivos Educadores. Construção do Conhecimento. Disponível em: - http://www.apoema.com.br/Encontros%20e%20Caminhos%20 
+MARQUES, Tania Beatriz Iwaszko. Epistemologia Genética e Construção do Conhecimento. Disponível em: http://www.pead.faced.ufrgs.br/sites/publico/eixo6/psicologiaii/epistemologia_genetica_e_construcao_do_ conhecimento.pdf. Acesso em 29/03/2011.
 
-%20Coletivos%20Educadores.pdf#page=106. Ministério do Meio Ambiente. Brasília, 2005. FRANCELIN, Marivalde Moacir. A epistemologia da complexidade e a ciência da informação. Disponível em: http://www.scielo.br/pdf/ci/v32n2/17034.pdf. Acesso em 29/03/2011. 
+INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil
 
-MARQUES, Tania Beatriz Iwaszko. Epistemologia Genética e Construção do Conhecimento. Disponível em: http://www.pead.faced.ufrgs.br/sites/publico/eixo6/psicologiaii/epistemologia_genetica_e_construcao_do_ conhecimento.pdf. Acesso em 29/03/2011. 
+INSTITUTOFEDERAL PARANA
 
-INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil 
+MinisteriodaEducacao
 
-INSTITUTOFEDERAL PARANA 
+## Curso: **Pós-Graduação em Gestão Pública**
 
-MinisteriodaEducacao 
+Disciplina: **2. Desenvolvimento Pessoal e Profissional**
 
-## Curso: **Pós-Graduação em Gestão Pública** 
+Carga horária teórica: **24h**
 
-Disciplina: **2. Desenvolvimento Pessoal e Profissional** 
+Carga horária prática: **6h**
 
-Carga horária teórica: **24h** 
+Carga horária total: **30h**
 
-Carga horária prática: **6h** 
+**Ementa:** Apresentar a evolução histórica da gestão de pessoas no contexto da gestão pública; Ressaltar a importância da qualidade humana na prestação de serviços públicos e a responsabilidade do servidor na busca de seu autoconhecimento, gerenciamento de carreira.
 
-Carga horária total: **30h** 
+## **Bibliografia básica:**
 
-**Ementa:** Apresentar a evolução histórica da gestão de pessoas no contexto da gestão pública; Ressaltar a importância da qualidade humana na prestação de serviços públicos e a responsabilidade do servidor na busca de seu autoconhecimento, gerenciamento de carreira. 
+Martins, Hélio Tadeu. Gestão de Carreiras na Era do Conhecimento: abordagem conceitual e resultados de pesquisa – Qualitymark , 2001
 
-## **Bibliografia básica:** 
+Reich, Robert B. O trabalho das Nações: preparando-nos para o capitalismo do século 21. Educator, 1994 Werneck, Hamilton. O profissional do século XXI. Record, 2003
 
-Martins, Hélio Tadeu. Gestão de Carreiras na Era do Conhecimento: abordagem conceitual e resultados de pesquisa – Qualitymark , 2001 
+## **Bibliografia complementar:**
 
-Reich, Robert B. O trabalho das Nações: preparando-nos para o capitalismo do século 21. Educator, 1994 Werneck, Hamilton. O profissional do século XXI. Record, 2003 
+MELO-SILVA, Lucy Leal; OLIVEIRA, Josiane Calixto de  e  COELHO, Reginaldo de Souza. Avaliação da Orientação Profissional no desenvolvimento da maturidade na escolha da profissão. _Psic_ [online]. 2002, vol.3, n.2, pp. 44-53. ISSN 1676-7314. Disponível em: http://pepsic.bvsalud.org/scielo.php?pid=S167673142002000200006&script=sci_arttext&tlng=en. Acesso em 29/03/2011.
 
-## **Bibliografia complementar:** 
+MALSCHITZKY, Nancy. A Importância da Orientação de Carreira na Empregabilidade. Disponível em: http://www.fae.edu/publicacoes/pdf/IIseminario/organizacoes/organiacoes_16.pdf. Acesso em 29/03/2011. MILARÉ, Sueli Aparecida Milaré e Elisa Médici Pizão Yoshida. _Coaching_ de executivos: adaptação e - estágio de mudanças. Revista Psicologia: Teoria e Prática – 2007, 9(1):86-99. Disponível em: http://cac php.unioeste.br/eventos/coaching/arqs/Coaching_executivo_pesquisa.pdf. Acesso em 29/03/2011.
 
-MELO-SILVA, Lucy Leal; OLIVEIRA, Josiane Calixto de  e  COELHO, Reginaldo de Souza. Avaliação da Orientação Profissional no desenvolvimento da maturidade na escolha da profissão. _Psic_ [online]. 2002, vol.3, n.2, pp. 44-53. ISSN 1676-7314. Disponível em: http://pepsic.bvsalud.org/scielo.php?pid=S167673142002000200006&script=sci_arttext&tlng=en. Acesso em 29/03/2011. 
+INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil
 
-MALSCHITZKY, Nancy. A Importância da Orientação de Carreira na Empregabilidade. Disponível em: http://www.fae.edu/publicacoes/pdf/IIseminario/organizacoes/organiacoes_16.pdf. Acesso em 29/03/2011. MILARÉ, Sueli Aparecida Milaré e Elisa Médici Pizão Yoshida. _Coaching_ de executivos: adaptação e - estágio de mudanças. Revista Psicologia: Teoria e Prática – 2007, 9(1):86-99. Disponível em: http://cac php.unioeste.br/eventos/coaching/arqs/Coaching_executivo_pesquisa.pdf. Acesso em 29/03/2011. 
+PARANA
 
-INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil 
+MinisteriodaEducacao
 
-PARANA 
+## INSTITUTOFEDERAL
 
-MinisteriodaEducacao 
+Curso: **Pós-Graduação em Gestão Pública**
 
-## INSTITUTOFEDERAL 
+Disciplina: **3. Gestão Pública de Excelência**
 
-Curso: **Pós-Graduação em Gestão Pública** 
+Carga horária teórica: **24h**
 
-Disciplina: **3. Gestão Pública de Excelência** 
+Carga horária prática: **6h**
 
-Carga horária teórica: **24h** 
+Carga horária total: **30h**
 
-Carga horária prática: **6h** 
+**Ementa:** - Evolução da Gestão Organizacional - Fundamentos de Excelência em Gestão- Critérios para avaliar a excelência das práticas de gestão e seus resultados. Modelos de Gestão e Modelos de Avaliação da Gestão - Práticas adotadas em instituições públicas e resultados.
 
-Carga horária total: **30h** 
+## **Bibliografia básica:**
 
-**Ementa:** - Evolução da Gestão Organizacional - Fundamentos de Excelência em Gestão- Critérios para avaliar a excelência das práticas de gestão e seus resultados. Modelos de Gestão e Modelos de Avaliação da Gestão - Práticas adotadas em instituições públicas e resultados. 
+Fundação Prêmio Nacional da Qualidade. Critérios de Excelência/2006 - O estado da arte da gestão para a excelência de desempenho e o aumento da competitividade. São Paulo: FPNQ, 2006. Disponível para download www.fnq.org.br
 
-## **Bibliografia básica:** 
+Fundação Prêmio Nacional da Qualidade. Rumo a Excelência/2006 – 250 e 500 pontos. São Paulo: FPNQ, 2006. Disponível para download www.fnq.org.br
 
-Fundação Prêmio Nacional da Qualidade. Critérios de Excelência/2006 - O estado da arte da gestão para a excelência de desempenho e o aumento da competitividade. São Paulo: FPNQ, 2006. Disponível para download www.fnq.org.br 
+Fundamentos da Excelência da EFQM 2006 – www.efqm.org. Disponível para download em Português.
 
-Fundação Prêmio Nacional da Qualidade. Rumo a Excelência/2006 – 250 e 500 pontos. São Paulo: FPNQ, 2006. Disponível para download www.fnq.org.br 
+## **Bibliografia complementar:**
 
-Fundamentos da Excelência da EFQM 2006 – www.efqm.org. Disponível para download em Português. 
+HINYASHIKI, Gilberto Tadeu; TREVIZAN, Maria Auxiliadora  e  MENDES, Isabel Amélia Costa. Sobre a criação e a gestão do conhecimento organizacional. Rev. Latino-Am. Enfermagem [online]. 2003, vol.11, n.4, pp. 499-506. ISSN 0104-1169.  doi: 10.1590/S0104-11692003000400013. Disponível em: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-11692003000400013&lng=pt&nrm=iso Acesso em 29/03/2011.
 
-## **Bibliografia complementar:** 
+RAMOS, Luiz Claudio Silveira. REZENDE, Denis Alcides. A aplicabilidade do _business intelligence_ na gestão pública. XXIV Encontro Nac. de Eng. de Produção - Florianópolis, SC, Brasil, 03 a 05 de nov de 2004. Disponível em: http://www.fag.edu.br/professores/limanzke/Tecnologia%20da%20Informa%E7%E3o/B.I..pdf Acesso em 29/03/2011.
 
-HINYASHIKI, Gilberto Tadeu; TREVIZAN, Maria Auxiliadora  e  MENDES, Isabel Amélia Costa. Sobre a criação e a gestão do conhecimento organizacional. Rev. Latino-Am. Enfermagem [online]. 2003, vol.11, n.4, pp. 499-506. ISSN 0104-1169.  doi: 10.1590/S0104-11692003000400013. Disponível em: http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-11692003000400013&lng=pt&nrm=iso Acesso em 29/03/2011. 
+TORRES, Juliana de Queiroz Ribeiro. Estudo da relação entre os modelos de gestão baseados no Balanced Scorecard, Responsabilidade Social Empresarial e as práticas de Recursos Humanos. Disponível em: http://www.ethos.org.br/_Uniethos/Documents/Estudo%20da%20Rela%C3%A7%C3%A3o%20entre%20 os%20Modelos%20de%20Gest%C3%A3o.pdf Acesso em 29/03/2011.
 
-RAMOS, Luiz Claudio Silveira. REZENDE, Denis Alcides. A aplicabilidade do _business intelligence_ na gestão pública. XXIV Encontro Nac. de Eng. de Produção - Florianópolis, SC, Brasil, 03 a 05 de nov de 2004. Disponível em: http://www.fag.edu.br/professores/limanzke/Tecnologia%20da%20Informa%E7%E3o/B.I..pdf Acesso em 29/03/2011. 
+INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil
 
-TORRES, Juliana de Queiroz Ribeiro. Estudo da relação entre os modelos de gestão baseados no Balanced Scorecard, Responsabilidade Social Empresarial e as práticas de Recursos Humanos. Disponível em: http://www.ethos.org.br/_Uniethos/Documents/Estudo%20da%20Rela%C3%A7%C3%A3o%20entre%20 os%20Modelos%20de%20Gest%C3%A3o.pdf Acesso em 29/03/2011. 
+INSTITUTOFEDERAL PARANA
 
-INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil 
+MinisteriodaEducacao
 
-INSTITUTOFEDERAL PARANA 
+## Curso: **Pós-Graduação em Gestão Pública**
 
-MinisteriodaEducacao 
+Disciplina: **4. Direito Administrativo**
 
-## Curso: **Pós-Graduação em Gestão Pública** 
+Carga horária teórica: **24h**
 
-Disciplina: **4. Direito Administrativo** 
+Carga horária prática: **6h**
 
-Carga horária teórica: **24h** 
+Carga horária total: **30h**
 
-Carga horária prática: **6h** 
+## **Ementa:**
 
-Carga horária total: **30h** 
+Origem, objeto e conceito de direito administrativo. Contratos administrativos. Licitação – conceito, princípios, modalidades, procedimentos, recursos. Lei 8.112/90. Parceria Publico Privado e Termos de Gestão, Processo Administrativo Disciplinar
 
-## **Ementa:** 
+## **Bibliografia básica:**
 
-Origem, objeto e conceito de direito administrativo. Contratos administrativos. Licitação – conceito, princípios, modalidades, procedimentos, recursos. Lei 8.112/90. Parceria Publico Privado e Termos de Gestão, Processo Administrativo Disciplinar 
+MEIRELLES, Hely Lopes. Direito Administrativo Brasileiro. 38 ed. São Paulo: Malheiros, 2012. DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. 25 ed. São Paulo: Atlas, 2012.
 
-## **Bibliografia básica:** 
+JUSTEN FILHO, Marçal. Comentários à Lei de Licitações e Contratos Administrativos. 15 ed. São Paulo: Dialética, 2012.
 
-MEIRELLES, Hely Lopes. Direito Administrativo Brasileiro. 38 ed. São Paulo: Malheiros, 2012. DI PIETRO, Maria Sylvia Zanella. Direito Administrativo. 25 ed. São Paulo: Atlas, 2012. 
+## **Bibliografia complementar:**
 
-JUSTEN FILHO, Marçal. Comentários à Lei de Licitações e Contratos Administrativos. 15 ed. São Paulo: Dialética, 2012. 
+NIEBUHR, Joel de Menezes.  Pregão Presencial e Eletrônico. 3 ed. Curitiba: Zênite, 2005. BOLZAN, Fabrício. MARINELA, Fernanda. Leituras Complementares de Direito Administrativo: licitação e contratos administrativos. 1 ed. São Paulo: Juspodium, 2012. BRANDÃO, Júlio Cézar Lima.  Comentários ao Estatuto dos Servidores Públicos - Lei 8112/90. 2 ed. São Paulo: Juruá, 2012.
 
-## **Bibliografia complementar:** 
+INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil
 
-NIEBUHR, Joel de Menezes.  Pregão Presencial e Eletrônico. 3 ed. Curitiba: Zênite, 2005. BOLZAN, Fabrício. MARINELA, Fernanda. Leituras Complementares de Direito Administrativo: licitação e contratos administrativos. 1 ed. São Paulo: Juspodium, 2012. BRANDÃO, Júlio Cézar Lima.  Comentários ao Estatuto dos Servidores Públicos - Lei 8112/90. 2 ed. São Paulo: Juruá, 2012. 
+INSTITUTOFEDERAL PARANA
 
-INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil 
+MinisteriodaEducacao
 
-INSTITUTOFEDERAL PARANA 
+## Curso: **Pós-Graduação em Gestão Pública**
 
-MinisteriodaEducacao 
+Disciplina: **5. Políticas Públicas**
 
-## Curso: **Pós-Graduação em Gestão Pública** 
+Carga horária teórica: **24h** Carga horária prática: **6h** Carga horária total: **30h**
 
-Disciplina: **5. Políticas Públicas** 
+## **Ementa:**
 
-Carga horária teórica: **24h** Carga horária prática: **6h** Carga horária total: **30h** 
+Políticas públicas: introdução – A reforma do estado no Brasil – As mudanças nas relações entre o estado e a sociedade – Políticas públicas e planejamentos – Referenciais para planejamento governamental na atualidade – Os instrumentos legais: PPA, LDO e LOA – Metodologia para a formulação e gestão de programas governamentais – Os serviços públicos.
 
-## **Ementa:** 
+## **Bibliografia básica:**
 
-Políticas públicas: introdução – A reforma do estado no Brasil – As mudanças nas relações entre o estado e a sociedade – Políticas públicas e planejamentos – Referenciais para planejamento governamental na atualidade – Os instrumentos legais: PPA, LDO e LOA – Metodologia para a formulação e gestão de programas governamentais – Os serviços públicos. 
+BRESSER PEREIRA, L. C. A reforma do Estado dos anos 90: lógica e mecanismos de controle. Cadernos MARE da reforma do Estado, Ministério da Administração Federal e Reforma do Estado Brasília, v. 1, 1997.
 
-## **Bibliografia básica:** 
+BRASIL. Ministério da Administração Federal e da Reforma do Estado. Plano Diretor da Reforma do Estado. Ministério do Planejamento, Orçamento e Gestão. Brasília, 1995.
 
-BRESSER PEREIRA, L. C. A reforma do Estado dos anos 90: lógica e mecanismos de controle. Cadernos MARE da reforma do Estado, Ministério da Administração Federal e Reforma do Estado Brasília, v. 1, 1997. 
+QUEIROZ, Roosevelt Brasil. Formação e gestão de políticas públicas. 2. ed., revisada, atualizada e ampliada. Curitiba: Editora IBPEX, 2009.
 
-BRASIL. Ministério da Administração Federal e da Reforma do Estado. Plano Diretor da Reforma do Estado. Ministério do Planejamento, Orçamento e Gestão. Brasília, 1995. 
+## **Bibliografia complementar:**
 
-QUEIROZ, Roosevelt Brasil. Formação e gestão de políticas públicas. 2. ed., revisada, atualizada e ampliada. Curitiba: Editora IBPEX, 2009. 
+FREY, Klaus. Políticas públicas: um debate conceitual e reflexões referentes à prática da análise de políticas públicas no brasil. Disponível em: http://2009.campinas.sp.gov.br/rh/uploads/egds_material/txt_Frey.pdf Acesso em 29/03/2011. OLIVEIRA, José Antônio Puppim de. Desafios do planejamento em políticas públicas: diferentes visões e práticas. Disponível em: http://www.scielo.br/pdf/rap/v40n2/v40n2a06.pdf Acesso em 29/03/2011. UNICEF. Manual de avaliação da gestão de políticas públicas. Disponível em: http://www.unicef.org/brazil/pt/manual_avaliacao_politicas_publicas.pdf Acesso em 29/03/2011.
 
-## **Bibliografia complementar:** 
+INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil
 
-FREY, Klaus. Políticas públicas: um debate conceitual e reflexões referentes à prática da análise de políticas públicas no brasil. Disponível em: http://2009.campinas.sp.gov.br/rh/uploads/egds_material/txt_Frey.pdf Acesso em 29/03/2011. OLIVEIRA, José Antônio Puppim de. Desafios do planejamento em políticas públicas: diferentes visões e práticas. Disponível em: http://www.scielo.br/pdf/rap/v40n2/v40n2a06.pdf Acesso em 29/03/2011. UNICEF. Manual de avaliação da gestão de políticas públicas. Disponível em: http://www.unicef.org/brazil/pt/manual_avaliacao_politicas_publicas.pdf Acesso em 29/03/2011. 
+PARANA
 
-INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil 
+MinisteriodaEducacao
 
-PARANA 
+## INSTITUTOFEDERAL
 
-MinisteriodaEducacao 
+## Curso: **Pós-Graduação em Gestão Pública**
 
-## INSTITUTOFEDERAL 
+## Disciplina: **6. Metodologia da Pesquisa**
 
-## Curso: **Pós-Graduação em Gestão Pública** 
+Carga horária teórica: **24h**
 
-## Disciplina: **6. Metodologia da Pesquisa** 
+Carga horária prática: **6h**
 
-Carga horária teórica: **24h** 
+Carga horária total: **30h**
 
-Carga horária prática: **6h** 
+**Ementa:** Conceito a respeito de pesquisa. Tipos e métodos de pesquisa. Etapas do projeto. O que é, por que se faz pesquisa. Fases da pesquisa. Projeto de pesquisa – título determinação e delimitação do problema. Formulação de hipóteses. Procedimentos metodológicos e técnicos. Referência bibliográfica. Artigo científico. Enfoques da pesquisa dialético, fenomenológico e positivista). Seminários de acompanhamento de projetos _._
 
-Carga horária total: **30h** 
+## **Bibliografia básica:**
 
-**Ementa:** Conceito a respeito de pesquisa. Tipos e métodos de pesquisa. Etapas do projeto. O que é, por que se faz pesquisa. Fases da pesquisa. Projeto de pesquisa – título determinação e delimitação do problema. Formulação de hipóteses. Procedimentos metodológicos e técnicos. Referência bibliográfica. Artigo científico. Enfoques da pesquisa dialético, fenomenológico e positivista). Seminários de acompanhamento de projetos _._ 
+MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Fundamentos de Metodologia Científica. 5ª Ed. São Paulo: Atlas, 2003.
 
-## **Bibliografia básica:** 
+ECO, Umberto. SOUZA, Gilson Cesar Cardoso de, Trad.  Como se faz uma tese.   14 ed.  São Paulo: Perspectiva, 1998. 170 p.
 
-MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Fundamentos de Metodologia Científica. 5ª Ed. São Paulo: Atlas, 2003. 
+GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 3 ed. São Paulo : Atlas, 2010. 159 p.
 
-ECO, Umberto. SOUZA, Gilson Cesar Cardoso de, Trad.  Como se faz uma tese.   14 ed.  São Paulo: Perspectiva, 1998. 170 p. 
+## **Bibliografia complementar:**
 
-GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 3 ed. São Paulo : Atlas, 2010. 159 p. 
+JUNG, Carlos Fernando. Metodologia Científica: Ênfase em Pesquisa Tecnológica. 2003. Disponível em: http://www.geologia.ufpr.br/graduacao/metodologia/metodologiajung.pdf
 
-## **Bibliografia complementar:** 
+JUNG, Carlos Fernando; AMARAL, Fernando G. Elaboração de artigos científicos. 2 ed. Porto Alegre: PPGEP/UFRGS, 2011. disponível em: http://www.jung.pro.br/moodle/course/view.php?id=9 MORESI, Eduardo (Org.). Metodologia da Pesquisa. Brasília, 2003. Disponível em: http://www.inf.ufes.br/~falbo/files/MetodologiaPesquisa-Moresi2003.pdf
 
-JUNG, Carlos Fernando. Metodologia Científica: Ênfase em Pesquisa Tecnológica. 2003. Disponível em: http://www.geologia.ufpr.br/graduacao/metodologia/metodologiajung.pdf 
+INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil
 
-JUNG, Carlos Fernando; AMARAL, Fernando G. Elaboração de artigos científicos. 2 ed. Porto Alegre: PPGEP/UFRGS, 2011. disponível em: http://www.jung.pro.br/moodle/course/view.php?id=9 MORESI, Eduardo (Org.). Metodologia da Pesquisa. Brasília, 2003. Disponível em: http://www.inf.ufes.br/~falbo/files/MetodologiaPesquisa-Moresi2003.pdf 
+PARANA
 
-INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil 
+MinisteriodaEducacao
 
-PARANA 
+## INSTITUTOFEDERAL
 
-MinisteriodaEducacao 
+## Curso: **Pós-Graduação em Gestão Pública**
 
-## INSTITUTOFEDERAL 
+Disciplina: **7. Orçamento e Finanças Públicas**
 
-## Curso: **Pós-Graduação em Gestão Pública** 
+Carga horária teórica: **24h**
 
-Disciplina: **7. Orçamento e Finanças Públicas** 
+Carga horária prática: **6h**
 
-Carga horária teórica: **24h** 
+Carga horária total: **30h**
 
-Carga horária prática: **6h** 
+## **Ementa:**
 
-Carga horária total: **30h** 
+Conceito de Estado, políticas de financiamento das políticas públicas, tributação. Planejamento e ação estatal. O processo orçamentário no Brasil: dimensões históricas e quadros de referência, organização, práticas. Plano Plurianual. Lei Orçamentária Anual. Fundos específicos. Alocação e acompanhamento de recursos. O orçamento como núcleo das finanças públicas e seu equilíbrio. As finanças públicas e a expansão da economia. As fontes de receitas. Tributos. Política fiscal. Efeitos da tributação na produção e na distribuição. Tipos de despesas públicas e efeitos na produção e distribuição. A dívida pública nas economias capitalistas. Política fiscal no Brasil no período 1966-2003.
 
-## **Ementa:** 
+## **Bibliografia básica:**
 
-Conceito de Estado, políticas de financiamento das políticas públicas, tributação. Planejamento e ação estatal. O processo orçamentário no Brasil: dimensões históricas e quadros de referência, organização, práticas. Plano Plurianual. Lei Orçamentária Anual. Fundos específicos. Alocação e acompanhamento de recursos. O orçamento como núcleo das finanças públicas e seu equilíbrio. As finanças públicas e a expansão da economia. As fontes de receitas. Tributos. Política fiscal. Efeitos da tributação na produção e na distribuição. Tipos de despesas públicas e efeitos na produção e distribuição. A dívida pública nas economias capitalistas. Política fiscal no Brasil no período 1966-2003. 
+GARCIA, R. C. Reorganização do Processo de Planejamento do Governo Federal: O PPA 2000-2003 Brasília, IPEA, 2000.
 
-## **Bibliografia básica:** 
+GIACOMONI, J.Orçamento público. 14. ed. São Paulo: Atlas, 2007.SERRA, J. Orçamento no Brasil: As raízes da crise. São Paulo: Atual, 1994.
 
-GARCIA, R. C. Reorganização do Processo de Planejamento do Governo Federal: O PPA 2000-2003 Brasília, IPEA, 2000. 
+GIAMBIAGI, Fábio & ALÉM, Ana Cláudia de. Finanças públicas: teoria e prática no Brasil. Rio. Campus, 2000.
 
-GIACOMONI, J.Orçamento público. 14. ed. São Paulo: Atlas, 2007.SERRA, J. Orçamento no Brasil: As raízes da crise. São Paulo: Atual, 1994. 
+**Bibliografia complementar:**
 
-GIAMBIAGI, Fábio & ALÉM, Ana Cláudia de. Finanças públicas: teoria e prática no Brasil. Rio. Campus, 2000. 
+LIMONGI, Fernando; FIGUEIREDO, Argelina. PROCESSO ORÇAMENTÁRIO E COMPORTAMENTO LEGISLATIVO: EMENDAS INDIVIDUAIS, APOIO AO EXECUTIVO E PROGRAMAS DE GOVERNO. 2005. Disponível em: http://www.scielo.br/pdf/dados/v48n4/28478.pdf Acesso em 31 de março de 2011.
 
-**Bibliografia complementar:** 
+WIEMER, Ana Paula Moreira; RIBEIRO, Daniel Cerqueira. CUSTOS NO SERVIÇO PÚBLICO. 2004. Disponível em: http://www.congressousp.fipecafi.org/artigos42004/187.pdf Acesso em 31 março de 2011.
 
-LIMONGI, Fernando; FIGUEIREDO, Argelina. PROCESSO ORÇAMENTÁRIO E COMPORTAMENTO LEGISLATIVO: EMENDAS INDIVIDUAIS, APOIO AO EXECUTIVO E PROGRAMAS DE GOVERNO. 2005. Disponível em: http://www.scielo.br/pdf/dados/v48n4/28478.pdf Acesso em 31 de março de 2011. 
+INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil
 
-WIEMER, Ana Paula Moreira; RIBEIRO, Daniel Cerqueira. CUSTOS NO SERVIÇO PÚBLICO. 2004. Disponível em: http://www.congressousp.fipecafi.org/artigos42004/187.pdf Acesso em 31 março de 2011. 
+INSTITUTOFEDERAL PARANA
 
-INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil 
+MinisteriodaEducacao
 
-INSTITUTOFEDERAL PARANA 
+Curso: **Pós-Graduação em Gestão Pública**
 
-MinisteriodaEducacao 
+Disciplina: **8. Planejamento Estratégico**
 
-Curso: **Pós-Graduação em Gestão Pública** 
+Carga horária teórica: **24h**
 
-Disciplina: **8. Planejamento Estratégico** 
+Carga horária prática: **6h**
 
-Carga horária teórica: **24h** 
+Carga horária total: **30h**
 
-Carga horária prática: **6h** 
+## **Ementa:**
 
-Carga horária total: **30h** 
+Conceito sobre Gestão Pública, Planejamento e Governabilidade Planejamento Estratégico. Elaboração de Planos de Ação na área de políticas públicas.
 
-## **Ementa:** 
+## **Bibliografia básica:**
 
-Conceito sobre Gestão Pública, Planejamento e Governabilidade Planejamento Estratégico. Elaboração de Planos de Ação na área de políticas públicas. 
+CACCIA BAVA, S. e PAULICS,V. (ORGS.). Novos contornos da gestão local: conceitos em construção. São Paulo, Polis; Programa Gestão Pública e Cidadania/FGV-EAESP, 2002.
 
-## **Bibliografia básica:** 
+Cohen, Ernesto / Franco, Rolando / Avaliação De Projetos Sociais. Petrópolis, RJ. Vozes, 2004. JANNUZZI,P.M. _Indicadores Sociais no Brasil: conceitos, medidas e aplicações_ . Campinas: Allínea/PUC-Campinas, 2004 (3ª. ed.)
 
-CACCIA BAVA, S. e PAULICS,V. (ORGS.). Novos contornos da gestão local: conceitos em construção. São Paulo, Polis; Programa Gestão Pública e Cidadania/FGV-EAESP, 2002. 
+## **Bibliografia complementar:**
 
-Cohen, Ernesto / Franco, Rolando / Avaliação De Projetos Sociais. Petrópolis, RJ. Vozes, 2004. JANNUZZI,P.M. _Indicadores Sociais no Brasil: conceitos, medidas e aplicações_ . Campinas: Allínea/PUC-Campinas, 2004 (3ª. ed.) 
+ARAÚJO , Andréa Naritza Silva Marquim de. Articulação entre o conceito degovernança e as funções de planejamento e controle na gestão de políticas públicas. Disponível em: http://www.repositorio.seap.pr.gov.br/arquivos/File/Material_%20CONSAD/paineis_III_congresso_consa d/painel_9/articulacao_entre_o_conceito_de_governanca_e_as_funcoes_de_planejamento_e_controle_na_ gestao_de_politicas_publicas.pdf Acesso em 30 de março de 2011. CADERNOS GESTÃO PÚBLICA E CIDADANIA. Disponível em: http://www.eaesp.fgvsp.br/subportais/ceapg/Acervo%20Virtual/Cadernos/Cadernos/Cadernos%20gest%C 3%A3o%20v14%20n55%20v.20-08.pdf Acesso em 30 março 2011.
 
-## **Bibliografia complementar:** 
+D’ANJOUR, Miler Franco et al. Considerações sobre planejamento estratégico na gestão pública: parâmetros e mudanças. Disponível em: http://www.aedb.br/seget/artigos06/918_Consideracoes%20sobre%20o%20planejamento%20estrategico.p df Acesso em 30 de março de  2011.
 
-ARAÚJO , Andréa Naritza Silva Marquim de. Articulação entre o conceito degovernança e as funções de planejamento e controle na gestão de políticas públicas. Disponível em: http://www.repositorio.seap.pr.gov.br/arquivos/File/Material_%20CONSAD/paineis_III_congresso_consa d/painel_9/articulacao_entre_o_conceito_de_governanca_e_as_funcoes_de_planejamento_e_controle_na_ gestao_de_politicas_publicas.pdf Acesso em 30 de março de 2011. CADERNOS GESTÃO PÚBLICA E CIDADANIA. Disponível em: http://www.eaesp.fgvsp.br/subportais/ceapg/Acervo%20Virtual/Cadernos/Cadernos/Cadernos%20gest%C 3%A3o%20v14%20n55%20v.20-08.pdf Acesso em 30 março 2011. 
+INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma,Curitiba-PR|CEP82530-230-Brasil
 
-D’ANJOUR, Miler Franco et al. Considerações sobre planejamento estratégico na gestão pública: parâmetros e mudanças. Disponível em: http://www.aedb.br/seget/artigos06/918_Consideracoes%20sobre%20o%20planejamento%20estrategico.p df Acesso em 30 de março de  2011. 
+INSTITUTOFEDERAL PARANA
 
-INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma,Curitiba-PR|CEP82530-230-Brasil 
+MinisteriodaEducacao
 
-INSTITUTOFEDERAL PARANA 
+## Curso: **Pós-Graduação em Gestão Pública**
 
-MinisteriodaEducacao 
+Disciplina: **9. Sustentabilidade e Desenvolvimento Local**
 
-## Curso: **Pós-Graduação em Gestão Pública** 
+Carga horária teórica: **24h**
 
-Disciplina: **9. Sustentabilidade e Desenvolvimento Local** 
+Carga horária prática: **6h**
 
-Carga horária teórica: **24h** 
+Carga horária total: **30h**
 
-Carga horária prática: **6h** 
+## **Ementa:**
 
-Carga horária total: **30h** 
+Conceito de região com base na Geografia e na economia regional. Conceitos de sustentabilidade e a sustentabilidade regional. Conceitos referentes à questão regional e/ou local e aos processos locais de desenvolvimento. As mudanças econômicas e tecnológicas; desenvolvimento local e as novas aglomerações (clusters, distritos industriais e espaços econômicos); desenvolvimento, processos e elementos de políticas locais.
 
-## **Ementa:** 
+## **Bibliografia básica:**
 
-Conceito de região com base na Geografia e na economia regional. Conceitos de sustentabilidade e a sustentabilidade regional. Conceitos referentes à questão regional e/ou local e aos processos locais de desenvolvimento. As mudanças econômicas e tecnológicas; desenvolvimento local e as novas aglomerações (clusters, distritos industriais e espaços econômicos); desenvolvimento, processos e elementos de políticas locais. 
+STORPER, Michael. (1997). The Regional World. New York: The Guilford Press.
 
-## **Bibliografia básica:** 
+AMATO NETO, João. (2000). Redes de cooperação produtiva e clusters regionais: Oportunidades para as Pequenas e Médias Empresas, São Paulo: Atlas.
 
-STORPER, Michael. (1997). The Regional World. New York: The Guilford Press. 
+DUPAS, Gilberto. (2000). Economia Global e Exclusão Social. SP: Paz e Terra.
 
-AMATO NETO, João. (2000). Redes de cooperação produtiva e clusters regionais: Oportunidades para as Pequenas e Médias Empresas, São Paulo: Atlas. 
+## **Bibliografia complementar:**
 
-DUPAS, Gilberto. (2000). Economia Global e Exclusão Social. SP: Paz e Terra. 
+DOWBOR, Ladislau. Inovação Social e sustentabilidade. Economia Global e Gestão, 2007. Disponível em: http://www.scielo.oces.mctes.pt/pdf/egg/v12n2/v12n2a02.pdf. Acesso em 18/04/2011. MARTINS, Rafael D'Almeida; VAZ, José Carlos; CALDAS, Eduardo de Lima. A gestão do desenvolvimento local no Brasil: (des)articulação de atores, instrumentos e território. 2010. Disponível em: http://www.scielo.br/pdf/rap/v44n3/02.pdf Acesso em 29 de março de 2011.
 
-## **Bibliografia complementar:** 
+PIRES, Elson L.S. As lógicas territoriais do desenvolvimento: diversidades e regulação. 2007. Disponível em: http://www.scielo.br/pdf/inter/v8n2/a02v08n2.pdf Acesso em 30 de março 2011
 
-DOWBOR, Ladislau. Inovação Social e sustentabilidade. Economia Global e Gestão, 2007. Disponível em: http://www.scielo.oces.mctes.pt/pdf/egg/v12n2/v12n2a02.pdf. Acesso em 18/04/2011. MARTINS, Rafael D'Almeida; VAZ, José Carlos; CALDAS, Eduardo de Lima. A gestão do desenvolvimento local no Brasil: (des)articulação de atores, instrumentos e território. 2010. Disponível em: http://www.scielo.br/pdf/rap/v44n3/02.pdf Acesso em 29 de março de 2011. 
+INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil
 
-PIRES, Elson L.S. As lógicas territoriais do desenvolvimento: diversidades e regulação. 2007. Disponível em: http://www.scielo.br/pdf/inter/v8n2/a02v08n2.pdf Acesso em 30 de março 2011 
+INSTITUTOFEDERAL PARANA
 
-INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil 
+MinisteriodaEducacao
 
-INSTITUTOFEDERAL PARANA 
+## **16.1.2 NÚCLEO ESPECÍFICO -GESTÃO DE PESSOAS**
 
-MinisteriodaEducacao 
+Curso: **Pós-Graduação em Gestão Pública**
 
-## **16.1.2 NÚCLEO ESPECÍFICO -GESTÃO DE PESSOAS** 
+Disciplina: **1. Subsistemas de Gestão de Pessoas**
 
-Curso: **Pós-Graduação em Gestão Pública** 
+Carga horária teórica: **24h**
 
-Disciplina: **1. Subsistemas de Gestão de Pessoas** 
+Carga horária prática: **6h** Carga horária total: **30h**
 
-Carga horária teórica: **24h** 
+**Ementa:**
 
-Carga horária prática: **6h** Carga horária total: **30h** 
+Bases históricas; Abordagem clássica da Gestão de Recursos Humanos; Novas configurações organizacionais; As funções administrativas frente ás novas tendências; Habilidades necessárias para o Coaching na gestão pública.
 
-**Ementa:** 
+**Bibliografia básica:**
 
-Bases históricas; Abordagem clássica da Gestão de Recursos Humanos; Novas configurações organizacionais; As funções administrativas frente ás novas tendências; Habilidades necessárias para o Coaching na gestão pública. 
+MARTINS, Hélio Tadeu. Gestão de Carreiras na Era do Conhecimento: abordagem conceitual e resultados de pesquisa – Qualitymark, 2001 GOLDSMIT, Marshall.  Laurence Lyons e Alyssa Freas **COACHING - O EXERCÍCIO DA** ULRICH, Dave. Recursos Humanos Estratégicos: novas perspectivas para os profissionais de RH. São Paulo, Editora Futura, 2000. LAGES, Andrea & O`Connor **,** Joseph **. COACHING COM PNL** . Editora Qualitymark. 2004 **Bibliografia complementar:**
 
-**Bibliografia básica:** 
+DA SILVA, Carlos Roberto Ernesto. ORIENTAÇÃO PROFISSIONAL, MENTORING, COACHING E COUNSELING: ALGUMAS SINGULARIDADES E SIMILARIDADES EM PRÁTICAS. 2010. Disponível em: http://pepsic.bvsalud.org/pdf/rbop/v11n2/v11n2a14.pdf Acesso em 04 de abril de 2011. MILARÉ, Sueli Aparecida; YOSHIDA, Elisa Médici Pizão. COACHING DE EXECUTIVOS: ADAPTAÇÃO E ESTÁGIO DE MUDANÇAS. 2007. Disponível em: http://cacphp.unioeste.br/eventos/coaching/arqs/Coaching_executivo_pesquisa.pdf Acesso em 04 de abril de 2011. WRIGHT, Denise. TENDÊNCIAS GLOBAIS DO COACHING. S/A Disponível em: http://www.resultscoaches.com.br/_pdf/Tend%C3%AAncias_globai_do_Coaching.pdf acesso em 04 de abril de 2011.
 
-MARTINS, Hélio Tadeu. Gestão de Carreiras na Era do Conhecimento: abordagem conceitual e resultados de pesquisa – Qualitymark, 2001 GOLDSMIT, Marshall.  Laurence Lyons e Alyssa Freas **COACHING - O EXERCÍCIO DA** ULRICH, Dave. Recursos Humanos Estratégicos: novas perspectivas para os profissionais de RH. São Paulo, Editora Futura, 2000. LAGES, Andrea & O`Connor **,** Joseph **. COACHING COM PNL** . Editora Qualitymark. 2004 **Bibliografia complementar:** 
+INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil
 
-DA SILVA, Carlos Roberto Ernesto. ORIENTAÇÃO PROFISSIONAL, MENTORING, COACHING E COUNSELING: ALGUMAS SINGULARIDADES E SIMILARIDADES EM PRÁTICAS. 2010. Disponível em: http://pepsic.bvsalud.org/pdf/rbop/v11n2/v11n2a14.pdf Acesso em 04 de abril de 2011. MILARÉ, Sueli Aparecida; YOSHIDA, Elisa Médici Pizão. COACHING DE EXECUTIVOS: ADAPTAÇÃO E ESTÁGIO DE MUDANÇAS. 2007. Disponível em: http://cacphp.unioeste.br/eventos/coaching/arqs/Coaching_executivo_pesquisa.pdf Acesso em 04 de abril de 2011. WRIGHT, Denise. TENDÊNCIAS GLOBAIS DO COACHING. S/A Disponível em: http://www.resultscoaches.com.br/_pdf/Tend%C3%AAncias_globai_do_Coaching.pdf acesso em 04 de abril de 2011. 
+INSTITUTOFEDERAL PARANA
 
-INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil 
+MinisteriodaEducacao
 
-INSTITUTOFEDERAL PARANA 
+Curso: **Pós-Graduação em Gestão Pública**
 
-MinisteriodaEducacao 
+Disciplina: 2 **. Aprendizagem Organizacional**
 
-Curso: **Pós-Graduação em Gestão Pública** 
+Carga horária teórica: **24h** Carga horária prática: **6h** Carga horária total: **30h**
 
-Disciplina: 2 **. Aprendizagem Organizacional** 
+## **Ementa:**
 
-Carga horária teórica: **24h** Carga horária prática: **6h** Carga horária total: **30h** 
+Desenvolvimento de equipes. Rede comercial. Aprendizagem coletiva. Comunicação. Feedback. Treinamento versus curso corporativo. Gestão do conhecimento. Aprender a aprender. Desenvolvimento de estratégias para o aumento da competitividade através da gestão de conhecimento.
 
-## **Ementa:** 
+## **Bibliografia básica:**
 
-Desenvolvimento de equipes. Rede comercial. Aprendizagem coletiva. Comunicação. Feedback. Treinamento versus curso corporativo. Gestão do conhecimento. Aprender a aprender. Desenvolvimento de estratégias para o aumento da competitividade através da gestão de conhecimento. 
+Eboli, Marisa. Educação corporativa no Brasil: mitos e verdades. São Paulo: Editora Gente, 2004. FLEURY, Afonso, FLEURY, Maria Tereza Leme. Aprendizagem e inovação organizacional: as experiências de Japão, Coréia e Brasil. São Paulo: Atlas, 1995.
 
-## **Bibliografia básica:** 
+MAISTER, Jeanne C. Educação Corporativa. São Paulo: Makron Books, 1999.
 
-Eboli, Marisa. Educação corporativa no Brasil: mitos e verdades. São Paulo: Editora Gente, 2004. FLEURY, Afonso, FLEURY, Maria Tereza Leme. Aprendizagem e inovação organizacional: as experiências de Japão, Coréia e Brasil. São Paulo: Atlas, 1995. 
+## **Bibliografia complementar:**
 
-MAISTER, Jeanne C. Educação Corporativa. São Paulo: Makron Books, 1999. 
+GONZALEZ, Rodrigo Valio Dominguez; MARTINS, Manoel Fernando; TOLEDO, José Carlos de. GESTÃO DO CONHECIMENTO EM UMA ESTRUTURA ORGANIZACIONAL EM REDE. 2009. Disponível em: http://www.scielo.br/pdf/ci/v38n1/04.pdf Acesso em 01 abril de 2011.
 
-## **Bibliografia complementar:** 
+OSTY, Florence; UHALDE, Marc. OS MUNDOS SOCIAIS DA EMPRESA. 2008. Disponível em: http://www.scielo.br/pdf/rsocp/v16n31/v16n31a03.pdf Acesso em 01 abril de 2011. LIMA, Gilson. REDESCOBERTA DA MENTE NA EDUCAÇÃO: A EXPANSÃO DO APRENDER E A CONQUISTA DO CONHECIMENTO COMPLEXO. 2009. Disponível em: http://www.scielo.br/pdf/es/v30n106/v30n106a08.pdf Acesso em 01 abril de 2011.
 
-GONZALEZ, Rodrigo Valio Dominguez; MARTINS, Manoel Fernando; TOLEDO, José Carlos de. GESTÃO DO CONHECIMENTO EM UMA ESTRUTURA ORGANIZACIONAL EM REDE. 2009. Disponível em: http://www.scielo.br/pdf/ci/v38n1/04.pdf Acesso em 01 abril de 2011. 
+INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil
 
-OSTY, Florence; UHALDE, Marc. OS MUNDOS SOCIAIS DA EMPRESA. 2008. Disponível em: http://www.scielo.br/pdf/rsocp/v16n31/v16n31a03.pdf Acesso em 01 abril de 2011. LIMA, Gilson. REDESCOBERTA DA MENTE NA EDUCAÇÃO: A EXPANSÃO DO APRENDER E A CONQUISTA DO CONHECIMENTO COMPLEXO. 2009. Disponível em: http://www.scielo.br/pdf/es/v30n106/v30n106a08.pdf Acesso em 01 abril de 2011. 
+MinisteriodaEducacao
 
-INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil 
+## INSTITUTOFEDERAL
 
-MinisteriodaEducacao 
+## PARANA
 
-## INSTITUTOFEDERAL 
+## Curso: **Pós-Graduação em Gestão Pública**
 
-## PARANA 
+Disciplina: 3 **. Desenvolvimento de Competências**
 
-## Curso: **Pós-Graduação em Gestão Pública** 
+Carga horária teórica: **24h**
 
-Disciplina: 3 **. Desenvolvimento de Competências** 
+Carga horária prática: **6h**
 
-Carga horária teórica: **24h** 
+Carga horária total: **30h**
 
-Carga horária prática: **6h** 
+## **Ementa:**
 
-Carga horária total: **30h** 
+Conceito de competência. Avaliação de competências. Planejamento de estratégias para o desenvolvimento de competências individuais e organizacionais. Organizações que aprendem. Aprendizagem individual e organizacional. Comunidades de prática. Competência versus capacidade ou potencial. Fatores que influenciam o valor de uma competência. Ajustando os valores das competências. Classificação de competências. Generalização, agregação e composição de competências. Gestão de conhecimento versus gestão de pessoas por competências.
 
-## **Ementa:** 
+## **Bibliografia básica:**
 
-Conceito de competência. Avaliação de competências. Planejamento de estratégias para o desenvolvimento de competências individuais e organizacionais. Organizações que aprendem. Aprendizagem individual e organizacional. Comunidades de prática. Competência versus capacidade ou potencial. Fatores que influenciam o valor de uma competência. Ajustando os valores das competências. Classificação de competências. Generalização, agregação e composição de competências. Gestão de conhecimento versus gestão de pessoas por competências. 
+CASTELLS, Manuel. A sociedade em rede. São Paulo: Paz e Terra, 1999
 
-## **Bibliografia básica:** 
+KUAZAQUI, Edimir; KANAANE, Roberto. Marketing e desenvolvimento de competências. São Paulo: Nobel, 2004.
 
-CASTELLS, Manuel. A sociedade em rede. São Paulo: Paz e Terra, 1999 
+SANTOS, Jurandir dos. Educação profissional & práticas de avaliação. São Paulo: Editora Senac São Paulo, 2010.
 
-KUAZAQUI, Edimir; KANAANE, Roberto. Marketing e desenvolvimento de competências. São Paulo: Nobel, 2004. 
+## **Bibliografia complementar:**
 
-SANTOS, Jurandir dos. Educação profissional & práticas de avaliação. São Paulo: Editora Senac São Paulo, 2010. 
+BRITO, Lydia Maria Pinto; CARLOS, Maria da Graça de Oliveira; AVELINO, Fernando Antônio de Moura. GESTÃO DE COMPETÊNCIAS: COMO OS EMPREGADOS PERCEBEM ESTE MODELO DE GESTÃO? 2008. Disponível em: http://www.cad.ufsc.br/revista/18/03.pdf Acesso em 04 abril de 2011. CANOVAS DE MOURA, Maria Cristina; BITENCOURT, Claudia Cristina. A ARTICULAÇÃO ENTRE ESTRATÉGIA E O DESENVOLVIMENTO DE COMPETÊNCIAS GERENCIAIS. 2006. Disponível em: http://www.scielo.br/pdf/raeel/v5n1/29560.pdf Acesso em 04 abril de 2011.
 
-## **Bibliografia complementar:** 
+RUAS, Roberto; ANTONELLO, Claudia Simone; BOFF, Luiz Henrique. OS NOVOS HORIZONTES DA GESTÃO. APRENDIZAGEM ORGANIZACIONAL E COMPETÊNCIAS. 2005. Disponível em: http://www.ea.ufrgs.br/pos_graduacao/especializacao/turmas/esp2005/gp2005/Download/ArquivoProfesso r/%20%20%20%20%20Gest%C3%A3o%20por%20Compet%C3%AAncias.pdf Acesso em 04 abril de 2011.
 
-BRITO, Lydia Maria Pinto; CARLOS, Maria da Graça de Oliveira; AVELINO, Fernando Antônio de Moura. GESTÃO DE COMPETÊNCIAS: COMO OS EMPREGADOS PERCEBEM ESTE MODELO DE GESTÃO? 2008. Disponível em: http://www.cad.ufsc.br/revista/18/03.pdf Acesso em 04 abril de 2011. CANOVAS DE MOURA, Maria Cristina; BITENCOURT, Claudia Cristina. A ARTICULAÇÃO ENTRE ESTRATÉGIA E O DESENVOLVIMENTO DE COMPETÊNCIAS GERENCIAIS. 2006. Disponível em: http://www.scielo.br/pdf/raeel/v5n1/29560.pdf Acesso em 04 abril de 2011. 
+INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil
 
-RUAS, Roberto; ANTONELLO, Claudia Simone; BOFF, Luiz Henrique. OS NOVOS HORIZONTES DA GESTÃO. APRENDIZAGEM ORGANIZACIONAL E COMPETÊNCIAS. 2005. Disponível em: http://www.ea.ufrgs.br/pos_graduacao/especializacao/turmas/esp2005/gp2005/Download/ArquivoProfesso r/%20%20%20%20%20Gest%C3%A3o%20por%20Compet%C3%AAncias.pdf Acesso em 04 abril de 2011. 
+INSTITUTOFEDERAL PARANA
 
-INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil 
+MinisteriodaEducacao
 
-INSTITUTOFEDERAL PARANA 
+## **16.1.3 NÚCLEO ESPECÍFICO: POLÍTICAS PÚBLICAS**
 
-MinisteriodaEducacao 
+Curso: **Pós-Graduação em Gestão Pública**
 
-## **16.1.3 NÚCLEO ESPECÍFICO: POLÍTICAS PÚBLICAS** 
+Disciplina: **1. Sociologia Política**
 
-Curso: **Pós-Graduação em Gestão Pública** 
+Carga horária teórica: **24h**
 
-Disciplina: **1. Sociologia Política** 
+Carga horária prática: **6h** Carga horária total: **30h**
 
-Carga horária teórica: **24h** 
+## **Ementa:**
 
-Carga horária prática: **6h** Carga horária total: **30h** 
+Conceitos básicos de Sociologia Política aplicada às Políticas Públicas. Estruturas e processos. Abordagens recentes e reflexão sobre os atores nas políticas. A noção de público e privado; a constituição da esfera pública burguesa. As Políticas Públicas de corte social: sua trajetória e desenvolvimento em nível internacional e do Brasil.
 
-## **Ementa:** 
+## **Bibliografia básica:**
 
-Conceitos básicos de Sociologia Política aplicada às Políticas Públicas. Estruturas e processos. Abordagens recentes e reflexão sobre os atores nas políticas. A noção de público e privado; a constituição da esfera pública burguesa. As Políticas Públicas de corte social: sua trajetória e desenvolvimento em nível internacional e do Brasil. 
+ARENDT, Hannah. As esferas pública e privada. In: A condição humana. Rio de Janeiro: Forense Universitário, 1983, p. 31-88.
 
-## **Bibliografia básica:** 
+DRAIBE, Sônia Miriam. As políticas sociais brasileiras: diagnóstico e perspectivas. Brasília: IPEA/IPLAN. Para a Década de 90, v. 04, mar. 1990, p. 1-66.
 
-ARENDT, Hannah. As esferas pública e privada. In: A condição humana. Rio de Janeiro: Forense Universitário, 1983, p. 31-88. 
+LENHARDT Gero; OFFE, Clauss. Teoria do Estado e Política social. In: OFFE, Claus (org.) Problemas estruturais do Estado capitalista. Rio de Janeiro: Tempo Brasileiro, 1984.
 
-DRAIBE, Sônia Miriam. As políticas sociais brasileiras: diagnóstico e perspectivas. Brasília: IPEA/IPLAN. Para a Década de 90, v. 04, mar. 1990, p. 1-66. 
+**Bibliografia complementar:**
 
-LENHARDT Gero; OFFE, Clauss. Teoria do Estado e Política social. In: OFFE, Claus (org.) Problemas estruturais do Estado capitalista. Rio de Janeiro: Tempo Brasileiro, 1984. 
+Referências Complementares: Klaus. Políticas públicas: um debate conceitual e reflexões referentes à prática da análise de políticas públicas no Brasil. Disponível em: http://www.ipea.gov.br/ppp/index.php/PPP/article/view/89/158 Acesso em 06/04/2011. JARDIM, José Maria. SILVA, Sérgio conde de Albite. NHARRELUGA, Rafael Simone. Análise de políticas públicas: uma abordagem em direção às políticas públicas de informação. Disponível em: http://www.scielo.br/pdf/pci/v14n1/v14n1a02.pdf Acesso em 06/04/2011.
 
-**Bibliografia complementar:** 
+SILVA, Maria Ozanira da. Pobreza, desigualdade e políticas públicas: caracterizando e problematizando a realidade brasileira. Disponível em: http://www.scielo.br/pdf/rk/v13n2/02.pdf Acesso em 06/04/2011.
 
-Referências Complementares: Klaus. Políticas públicas: um debate conceitual e reflexões referentes à prática da análise de políticas públicas no Brasil. Disponível em: http://www.ipea.gov.br/ppp/index.php/PPP/article/view/89/158 Acesso em 06/04/2011. JARDIM, José Maria. SILVA, Sérgio conde de Albite. NHARRELUGA, Rafael Simone. Análise de políticas públicas: uma abordagem em direção às políticas públicas de informação. Disponível em: http://www.scielo.br/pdf/pci/v14n1/v14n1a02.pdf Acesso em 06/04/2011. 
+INSTITUTOFEDERALDOPARANA|Reitoria
 
-SILVA, Maria Ozanira da. Pobreza, desigualdade e políticas públicas: caracterizando e problematizando a realidade brasileira. Disponível em: http://www.scielo.br/pdf/rk/v13n2/02.pdf Acesso em 06/04/2011. 
+PARANA
 
-INSTITUTOFEDERALDOPARANA|Reitoria 
+MinisteriodaEducacao
 
-PARANA 
+## INSTITUTOFEDERAL
 
-MinisteriodaEducacao 
+## Curso: **Pós-Graduação em Gestão Pública**
 
-## INSTITUTOFEDERAL 
+Disciplina: 2 **. Formulação de Políticas Públicas**
 
-## Curso: **Pós-Graduação em Gestão Pública** 
+Carga horária teórica: **24h**
 
-Disciplina: 2 **. Formulação de Políticas Públicas** 
+Carga horária prática: **6h** Carga horária total: **30h**
 
-Carga horária teórica: **24h** 
+## **Ementa:**
 
-Carga horária prática: **6h** Carga horária total: **30h** 
+Análise dos instrumentos de políticas. Análise e elaboração de planejamento e formulação de políticas: “issues” e agenda; aspectos conceituais e metodológicos. Sujeitos, racionalidades e interesses. Estruturação de problemas.
 
-## **Ementa:** 
+## **Bibliografia básica:**
 
-Análise dos instrumentos de políticas. Análise e elaboração de planejamento e formulação de políticas: “issues” e agenda; aspectos conceituais e metodológicos. Sujeitos, racionalidades e interesses. Estruturação de problemas. 
+ABREU, Haroldo. Globalização, reestruturação e crise dos padrões de regulação sócio estatal. Proposta, n. 64, p. 8-28mar. 1995. CHAUÍ, Marilena. Prefácio. In: SADER, Elder. Quando novos personagens entram em cena. Rio de Janeiro: Paz e Terra, 19888, p. 9-16. HABERMAS, Jurgen. Mudança estrutural da esfera pública. Rio de Janeiro: Tempo Brasileiro, 1984.
 
-## **Bibliografia básica:** 
+## **Bibliografia complementar:**
 
-ABREU, Haroldo. Globalização, reestruturação e crise dos padrões de regulação sócio estatal. Proposta, n. 64, p. 8-28mar. 1995. CHAUÍ, Marilena. Prefácio. In: SADER, Elder. Quando novos personagens entram em cena. Rio de Janeiro: Paz e Terra, 19888, p. 9-16. HABERMAS, Jurgen. Mudança estrutural da esfera pública. Rio de Janeiro: Tempo Brasileiro, 1984. 
+ANTICO, Cláudia e JANUZZI, Paulo de Martino. Indicadores e a gestão de políticas públicas. Disponível em: http://www.fundap.sp.gov.br/debatesfundap/pdf/Gestao_de_Poi%C3%ADticas_Publicas/Indicadores_e_G est%C3%A3o_de_Pol%C3%ADticas_P%C3%BAblicas.pdf. Acesso em 04 de abril de 2011.
 
-## **Bibliografia complementar:** 
+GOMIDE, Alexandre de Ávila. Agenda Governamental e Formulação de Políticas Públicas: o projeto de lei de diretrizes da política nacional de mobilidade urbana. Disponível em: http://www.ipea.gov.br/sites/000/2/eventos/982.pdf. Acesso em 04/04/2011. TEIXEIRA, Elenaldo Celso. O Papel das Políticas Públicas no Desenvolvimento Local e na Transformação da Realidade. Disponível em: http://www.dhnet.org.br/dados/cursos/aatr2/a_pdf/03_aatr_pp_papel.pdf. Acesso em 06/04/2011.
 
-ANTICO, Cláudia e JANUZZI, Paulo de Martino. Indicadores e a gestão de políticas públicas. Disponível em: http://www.fundap.sp.gov.br/debatesfundap/pdf/Gestao_de_Poi%C3%ADticas_Publicas/Indicadores_e_G est%C3%A3o_de_Pol%C3%ADticas_P%C3%BAblicas.pdf. Acesso em 04 de abril de 2011. 
+INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil
 
-GOMIDE, Alexandre de Ávila. Agenda Governamental e Formulação de Políticas Públicas: o projeto de lei de diretrizes da política nacional de mobilidade urbana. Disponível em: http://www.ipea.gov.br/sites/000/2/eventos/982.pdf. Acesso em 04/04/2011. TEIXEIRA, Elenaldo Celso. O Papel das Políticas Públicas no Desenvolvimento Local e na Transformação da Realidade. Disponível em: http://www.dhnet.org.br/dados/cursos/aatr2/a_pdf/03_aatr_pp_papel.pdf. Acesso em 06/04/2011. 
+MinisteriodaEducacao
 
-INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil 
+## INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao 
+## Curso: **Pós-Graduação em Gestão Pública**
 
-## INSTITUTOFEDERAL PARANA 
+Disciplina: 3 **. Implementação e Avaliação de Políticas Públicas**
 
-## Curso: **Pós-Graduação em Gestão Pública** 
+Carga horária teórica: **24h**
 
-Disciplina: 3 **. Implementação e Avaliação de Políticas Públicas** 
+Carga horária prática: **6h** Carga horária total: **30h**
 
-Carga horária teórica: **24h** 
+## **Ementa:**
 
-Carga horária prática: **6h** Carga horária total: **30h** 
+Principais modelos e instrumentos metodológicos no campo da avaliação. Métodos básicos de monitoramento e avaliação de processo e resultados a partir de dados quantitativos. Métodos de estimação de impactos. Fundamentos da avaliação.
 
-## **Ementa:** 
+## **Bibliografia básica:**
 
-Principais modelos e instrumentos metodológicos no campo da avaliação. Métodos básicos de monitoramento e avaliação de processo e resultados a partir de dados quantitativos. Métodos de estimação de impactos. Fundamentos da avaliação. 
+HABERMAS, Jurgen. Mudança estrutural da esfera pública. Rio de Janeiro: Tempo Brasileiro, 1984. OLIVEIRA, Francisco de. Estado, sociedade, movimentos sociais e políticas públicas no limiar do século XXI. Rio de Janeiro: FASE, 1993.
 
-## **Bibliografia básica:** 
+JANNUZZI, P.M. Indicadores sociais no Brasil: conceitos, fonte de dados e aplicações. Campinas: Alínea, 2001.
 
-HABERMAS, Jurgen. Mudança estrutural da esfera pública. Rio de Janeiro: Tempo Brasileiro, 1984. OLIVEIRA, Francisco de. Estado, sociedade, movimentos sociais e políticas públicas no limiar do século XXI. Rio de Janeiro: FASE, 1993. 
+## **Bibliografia complementar:**
 
-JANNUZZI, P.M. Indicadores sociais no Brasil: conceitos, fonte de dados e aplicações. Campinas: Alínea, 2001. 
+ANTICO, Cláudia e JANUZZI, Paulo de Martino. Indicadores e a gestão de políticas públicas. Disponível em: http://www.fundap.sp.gov.br/debatesfundap/pdf/Gestao_de_Poi%C3%ADticas_Publicas/Indicadores_e_G est%C3%A3o_de_Pol%C3%ADticas_P%C3%BAblicas.pdf. Acesso em 04 de abril de 2011. SOUZA, Celina. Políticas públicas: uma revisão de literatura. Disponível em: http://www.scielo.br/pdf/soc/n16/a03n16.pdf. Acesso em 06/04/2011. UNICEF. MANUAL DE AVALIAÇÃO DE POLÍTICAS PÚBLICAS. Disponível em: http://www.unicef.org/brazil/pt/manual_avaliacao_politicas_publicas.pdf. Acesso em 04 de abril de 2011.
 
-## **Bibliografia complementar:** 
+INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil
 
-ANTICO, Cláudia e JANUZZI, Paulo de Martino. Indicadores e a gestão de políticas públicas. Disponível em: http://www.fundap.sp.gov.br/debatesfundap/pdf/Gestao_de_Poi%C3%ADticas_Publicas/Indicadores_e_G est%C3%A3o_de_Pol%C3%ADticas_P%C3%BAblicas.pdf. Acesso em 04 de abril de 2011. SOUZA, Celina. Políticas públicas: uma revisão de literatura. Disponível em: http://www.scielo.br/pdf/soc/n16/a03n16.pdf. Acesso em 06/04/2011. UNICEF. MANUAL DE AVALIAÇÃO DE POLÍTICAS PÚBLICAS. Disponível em: http://www.unicef.org/brazil/pt/manual_avaliacao_politicas_publicas.pdf. Acesso em 04 de abril de 2011. 
+INSTITUTOFEDERAL PARANA
 
-INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil 
+MinisteriodaEducacao
 
-INSTITUTOFEDERAL PARANA 
+## **16.1.3 NÚCLEO ESPECÍFICO: LOGÍSTICA**
 
-MinisteriodaEducacao 
+Curso: **Pós-Graduação em Gestão Pública**
 
-## **16.1.3 NÚCLEO ESPECÍFICO: LOGÍSTICA** 
+Disciplina: **1. Operações Logísticas**
 
-Curso: **Pós-Graduação em Gestão Pública** 
+Carga horária teórica: **24h**
 
-Disciplina: **1. Operações Logísticas** 
+Carga horária prática: **6h**
 
-Carga horária teórica: **24h** 
+Carga horária total: **30h**
 
-Carga horária prática: **6h** 
+## **Ementa:**
 
-Carga horária total: **30h** 
+Cadeia de Suprimentos. Panorama da logística no Brasil. Sistemas de custos, tomada de decisão, formação de preços e conceitos de custo total e de trade-off. Desenvolvimento, qualificação e avaliação de fornecedores, alianças estratégicas. O processo de compras, planejamento de estoque, tipos de estocagem, lay out, organização do espaço, equipamentos e dimensionamento de movimentação, armazenagem, embalagem e avaliação de desempenho. Gestão de transportes.
 
-## **Ementa:** 
+## **Bibliografia básica:**
 
-Cadeia de Suprimentos. Panorama da logística no Brasil. Sistemas de custos, tomada de decisão, formação de preços e conceitos de custo total e de trade-off. Desenvolvimento, qualificação e avaliação de fornecedores, alianças estratégicas. O processo de compras, planejamento de estoque, tipos de estocagem, lay out, organização do espaço, equipamentos e dimensionamento de movimentação, armazenagem, embalagem e avaliação de desempenho. Gestão de transportes. 
+BALLOU, Ronald H. Gerenciamento da cadeia de suprimentos. Porto Alegre: Bookman, 2001. DORNIER, Phillipe-Pierre, ERNST, R., FENDER, M., KOUVELIS P. Logística e operações globais. São Paulo: Editora Atlas, 2000.
 
-## **Bibliografia básica:** 
+SIMCHI-LEVI, David, KAMINSKI, Philip, SIMCHI-LEVI, Edith. Cadeia de Suprimentos: projeto e gestão. São Paulo: Bookman, 2003
 
-BALLOU, Ronald H. Gerenciamento da cadeia de suprimentos. Porto Alegre: Bookman, 2001. DORNIER, Phillipe-Pierre, ERNST, R., FENDER, M., KOUVELIS P. Logística e operações globais. São Paulo: Editora Atlas, 2000. 
+## **Bibliografia complementar:**
 
-SIMCHI-LEVI, David, KAMINSKI, Philip, SIMCHI-LEVI, Edith. Cadeia de Suprimentos: projeto e gestão. São Paulo: Bookman, 2003 
+PEDROSO, Marcelo Caldeira; ZWICKER, Ronaldo. GESTÃO DA INFORMAÇÃO DE PRODUTOS: BASE PARA OS RELACIONAMENTOS NA CADEIA DE SUPRIMENTOS. 2008. Disponível em: http://www.revistasusp.sibi.usp.br/pdf/jistem/v5n1/07.pdf Acesso em 20/04/11.
 
-## **Bibliografia complementar:** 
+FIGUEIREDO, Kleber Fossati; MORA, Dinia María Monge. A SEGMENTAÇÃO DOS OPERADORES LOGÍSTICOS NO MERCADO BRASILEIRO NO MERCADO BRASILEIRO DE ACORDO COM SUAS CAPACITAÇÕES PARA OFERECER SERVIÇOS. 2009. Disponível em: http://www.anpad.org.br/periodicos/arq_pdf/a_817.pdf Acesso em 20/04/11
 
-PEDROSO, Marcelo Caldeira; ZWICKER, Ronaldo. GESTÃO DA INFORMAÇÃO DE PRODUTOS: BASE PARA OS RELACIONAMENTOS NA CADEIA DE SUPRIMENTOS. 2008. Disponível em: http://www.revistasusp.sibi.usp.br/pdf/jistem/v5n1/07.pdf Acesso em 20/04/11. 
+RODRIGUES, Paulo Roberto Ambrósio. Introdução aos sistemas de transporte no Brasil e à logística internacional. 4 ed. Ver. E ampl. São Paulo: Aduaneiras, 2007. Disponível em: http://www.multieditoras.com.br/produto/PDF/500734.pdf Acesso em 19/04/2011.
 
-FIGUEIREDO, Kleber Fossati; MORA, Dinia María Monge. A SEGMENTAÇÃO DOS OPERADORES LOGÍSTICOS NO MERCADO BRASILEIRO NO MERCADO BRASILEIRO DE ACORDO COM SUAS CAPACITAÇÕES PARA OFERECER SERVIÇOS. 2009. Disponível em: http://www.anpad.org.br/periodicos/arq_pdf/a_817.pdf Acesso em 20/04/11 
+INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil
 
-RODRIGUES, Paulo Roberto Ambrósio. Introdução aos sistemas de transporte no Brasil e à logística internacional. 4 ed. Ver. E ampl. São Paulo: Aduaneiras, 2007. Disponível em: http://www.multieditoras.com.br/produto/PDF/500734.pdf Acesso em 19/04/2011. 
+PARANA
 
-INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil 
+MinisteriodaEducacao
 
-PARANA 
+## INSTITUTOFEDERAL
 
-MinisteriodaEducacao 
+## Curso: **Pós-Graduação em Gestão Pública**
 
-## INSTITUTOFEDERAL 
+Disciplina: 2 **. Projetos Logísticos**
 
-## Curso: **Pós-Graduação em Gestão Pública** 
+Carga horária teórica: **24h**
 
-Disciplina: 2 **. Projetos Logísticos** 
+Carga horária prática: **6h** Carga horária total: **30h**
 
-Carga horária teórica: **24h** 
+## **Ementa:**
 
-Carga horária prática: **6h** Carga horária total: **30h** 
+Gerenciamento de projetos (PMBOK/PMI). Estruturas organizacionais (Project Office). O perfil do gestor de projetos. As certificações ISO 10.006 e PMP.  Planejamento e estratégias de planejamento e programação. Metodologias de redução de tempo, custo e riscos. O detalhamento econômico-financeiro dos projetos logísticos.
 
-## **Ementa:** 
+## **Bibliografia básica:** KEELING, R. Gestão de Projetos: uma abordagem global. São Paulo: Saraiva, 2002.
 
-Gerenciamento de projetos (PMBOK/PMI). Estruturas organizacionais (Project Office). O perfil do gestor de projetos. As certificações ISO 10.006 e PMP.  Planejamento e estratégias de planejamento e programação. Metodologias de redução de tempo, custo e riscos. O detalhamento econômico-financeiro dos projetos logísticos. 
+PMI – Project management Institute. PMBOK: Project management Body of Knowledge. Tradução oficial, 2000.
 
-## **Bibliografia básica:** KEELING, R. Gestão de Projetos: uma abordagem global. São Paulo: Saraiva, 2002. 
+YIN, R. Estudo de caso: planejamento e métodos. 2. Ed. Porto Alegre: Bookman, 2001.
 
-PMI – Project management Institute. PMBOK: Project management Body of Knowledge. Tradução oficial, 2000. 
+**Bibliografia complementar:**
 
-YIN, R. Estudo de caso: planejamento e métodos. 2. Ed. Porto Alegre: Bookman, 2001. 
+FONSECA, Sérgio Ulisses Lage da.Benefícios da adoção do modelo PMBOK no desenvolvimento e implantação do projeto de tecnologia da informação de um operador logístico: estudo de caso da World Cargo. 2006. Disponível em: http://biblioteca.unisantos.br/tede/tde_arquivos/3/TDE-2006-1218T125106Z-32/Publico/sergio%20ulisses%20lage%20da%20fonseca.pdf . Acesso em 19/04/2011. NORO, Greice de Bem. A maturidade em gerenciamento de projetos logísticos; o caso América latina logística. 2006. Disponível em: http://www.ppgep.ct.ufsm.br/sistemas/updown.public/arquivos/arq_Greice_de_Bem_Noro_7.pdf Acesso em 18/04/2011. NOGUCHI, Julio Celso. Corrente crítica – a teoria das restrições aplicada À gestão de projetos. 2006. Revista do Centro Universitário Planalto do Distrito Federal – UNIPLAN. Vol. 3 nº 1. Disponível em: http://www.uniplandf.edu.br/revista/vol3n1.pdf#page=20 Acesso em 19/04/2011.
 
-**Bibliografia complementar:** 
+INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil
 
-FONSECA, Sérgio Ulisses Lage da.Benefícios da adoção do modelo PMBOK no desenvolvimento e implantação do projeto de tecnologia da informação de um operador logístico: estudo de caso da World Cargo. 2006. Disponível em: http://biblioteca.unisantos.br/tede/tde_arquivos/3/TDE-2006-1218T125106Z-32/Publico/sergio%20ulisses%20lage%20da%20fonseca.pdf . Acesso em 19/04/2011. NORO, Greice de Bem. A maturidade em gerenciamento de projetos logísticos; o caso América latina logística. 2006. Disponível em: http://www.ppgep.ct.ufsm.br/sistemas/updown.public/arquivos/arq_Greice_de_Bem_Noro_7.pdf Acesso em 18/04/2011. NOGUCHI, Julio Celso. Corrente crítica – a teoria das restrições aplicada À gestão de projetos. 2006. Revista do Centro Universitário Planalto do Distrito Federal – UNIPLAN. Vol. 3 nº 1. Disponível em: http://www.uniplandf.edu.br/revista/vol3n1.pdf#page=20 Acesso em 19/04/2011. 
+INSTITUTOFEDERAL PARANA
 
-INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil 
+MinisteriodaEducacao
 
-INSTITUTOFEDERAL PARANA 
+## Curso: **Pós-Graduação em Gestão Pública**
 
-MinisteriodaEducacao 
+Disciplina: 3 **. Supply Chain Management**
 
-## Curso: **Pós-Graduação em Gestão Pública** 
+Carga horária teórica: **24h**
 
-Disciplina: 3 **. Supply Chain Management** 
+Carga horária prática: **6h**
 
-Carga horária teórica: **24h** 
+Carga horária total: **30h**
 
-Carga horária prática: **6h** 
+## **Ementa:**
 
-Carga horária total: **30h** 
+Conceitos fundamentais de gestão de cadeia de suprimentos (SCM) e de Redes de Suprimentos, objetivos e desafios de SCM, gestão de cadeias de suprimentos, cadeias colaborativas verticais e horizontais. Novas técnicas de produção (Just-time, qualidade total, Kanban, Kaizen, etc), novas técnicas administrativas (custeio ABC), gestão por demanda, políticas de suprimentos, cadeias de suprimentos.
 
-## **Ementa:** 
+## **Bibliografia básica:**
 
-Conceitos fundamentais de gestão de cadeia de suprimentos (SCM) e de Redes de Suprimentos, objetivos e desafios de SCM, gestão de cadeias de suprimentos, cadeias colaborativas verticais e horizontais. Novas técnicas de produção (Just-time, qualidade total, Kanban, Kaizen, etc), novas técnicas administrativas (custeio ABC), gestão por demanda, políticas de suprimentos, cadeias de suprimentos. 
+Ballou, R.H. **Gerenciamento da Cadeia de Suprimentos/ Logística Empresarial** . 5ª. Edição. Porto Alegre: Bookman, 2006.
 
-## **Bibliografia básica:** 
+Chopra, S. **Gerenciamento da Cadeia de Suprimentos** . Editora Prentice‐Hall, São Paulo, 2003.
 
-Ballou, R.H. **Gerenciamento da Cadeia de Suprimentos/ Logística Empresarial** . 5ª. Edição. Porto Alegre: Bookman, 2006. 
+Novaes, A. G. **Logística e Gerenciamento da Cadeia de Distribuição** . 3ª. Edição, Editora Campus, Rio de Janeiro, 2007 **.**
 
-Chopra, S. **Gerenciamento da Cadeia de Suprimentos** . Editora Prentice‐Hall, São Paulo, 2003. 
+## **Bibliografia complementar:**
 
-Novaes, A. G. **Logística e Gerenciamento da Cadeia de Distribuição** . 3ª. Edição, Editora Campus, Rio de Janeiro, 2007 **.** 
+Simchi Levi, D., Kaminsky, P., Simchi Levi, E. Cadeia **de Suprimentos: Projeto e Gestão** . Editora Bookman, Porto Alegre, 2003.
 
-## **Bibliografia complementar:** 
+Dornier, P., Ernst, R., Fender, M., Kouvelis, P., **Global Operations and Logistics** , John Wiley and Sons, Inc.,NY, 1998.
 
-Simchi Levi, D., Kaminsky, P., Simchi Levi, E. Cadeia **de Suprimentos: Projeto e Gestão** . Editora Bookman, Porto Alegre, 2003. 
+INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil
 
-Dornier, P., Ernst, R., Fender, M., Kouvelis, P., **Global Operations and Logistics** , John Wiley and Sons, Inc.,NY, 1998. 
+## INSTITUTOFEDERAL PARANA
 
-INSTITUTOFEDERALDOPARANA|Reitoria Av.VictorFerreiradoAmaral,306-Taruma，Curitiba-PR|CEP82530-230-Brasil 
+MinisteriodaEducacao<br>
 
-## INSTITUTOFEDERAL PARANA 
+## **17. Experiência do Coordenador**
 
-**==> picture [84 x 8] intentionally omitted <==**
+## **Adriano Stadler**
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>**----- End of picture text -----**<br>
+Bacharel em Administração de Empresas (2000), especialista em Turismo (2002), MBA em Marketing e Negócios (2005), Educação a Distância (2008) e em Formação de Tutores e Orientadores Acadêmicos em EAD (2010). Mestre em Administração de Empresas (2007) e Doutor em Administração em Turismo pela Universidade do Vale do Itajaí (Univali) com período sanduiche na Glasgow Caledonian University – Escócia UK. Atualmente é professor do Instituto Federal do Paraná (IFPR).
 
+## **18. Experiência do Vice-coordenador**
 
-## **17. Experiência do Coordenador** 
+## **Frederico Fonseca da Silva**
 
-## **Adriano Stadler** 
+Possui Graduação em Engenharia Agronômica pela Universidade Federal da Paraíba (1985); Pós-Graduação (especialização Lato sensu) pelo Instituto Volcani (Israel), em Irrigação e Manejo de Solos (1985/86); PósGraduação (especialização Lato sensu) em Materiais de Irrigação pelo Kibbutz Naan (Israel) (1986/86); Mestrado em Agronomia pela UEM - Universidade Estadual de Maringá (2002); e, Doutorado em Produção Vegetal também pela UEM - Universidade Estadual de Maringá (2006). Atualmente é professor e pesquisador do Instituto Federal do Paraná (IFPR), onde desenvolve as suas atividades no Departamento de Agroecologia, ministrando aulas no modelo presencial e a distância (EAD). Atualmente também é Membro da Comissão Assessora do ENADE - MEC (desde 2007), para o curso de Tecnologia em Agroindústria, na elaboração de diretrizes e avaliação, através de portaria INEP n. 176, de 14 de junho de 2010 e publicada no Diário Oficial da União de 15 de junho de 2010, seção 2, pag. 21 e 22, para o período de 2010 - 2013; Membro principal do Comitê Assessor de Irrigação e Manejo de Solos / Fertiirigação, da Fundação Araucária, desde 2012; e, Consultor ad hoc de várias instituições públicas.
 
-Bacharel em Administração de Empresas (2000), especialista em Turismo (2002), MBA em Marketing e Negócios (2005), Educação a Distância (2008) e em Formação de Tutores e Orientadores Acadêmicos em EAD (2010). Mestre em Administração de Empresas (2007) e Doutor em Administração em Turismo pela Universidade do Vale do Itajaí (Univali) com período sanduiche na Glasgow Caledonian University – Escócia UK. Atualmente é professor do Instituto Federal do Paraná (IFPR). 
+## **19. Planejamento econômico/Necessidades para o funcionamento do curso**
 
-## **18. Experiência do Vice-coordenador** 
+Não serão necessários recursos de infraestrutura e de recursos de capital.
 
-## **Frederico Fonseca da Silva** 
+Os recursos humanos necessários para compor as equipes docentes do curso dependerão da autorização da direção geral do campus Curitiba, levando em conta a disponibilidade de carga horária do docente. Já o suporte de equipe de apoio pedagógico ficará condicionado à autorização da direção geral do campus Curitiba, devendo a coordenação e colegiado suprirem as demandas relativas à gestão do curso, caso não haja equipe de apoio pedagógico. Por outro lado, os recursos de custeios serão solicitados à direção geral do campus Curitiba, e ficarão condicionados à disponibilidade orçamentária do campus. Tais recursos podem ser contratos de prestação de serviços, aquisição de materiais de consumo, diárias, passagens, bolsas e financiamento aos alunos.
 
-Possui Graduação em Engenharia Agronômica pela Universidade Federal da Paraíba (1985); Pós-Graduação (especialização Lato sensu) pelo Instituto Volcani (Israel), em Irrigação e Manejo de Solos (1985/86); PósGraduação (especialização Lato sensu) em Materiais de Irrigação pelo Kibbutz Naan (Israel) (1986/86); Mestrado em Agronomia pela UEM - Universidade Estadual de Maringá (2002); e, Doutorado em Produção Vegetal também pela UEM - Universidade Estadual de Maringá (2006). Atualmente é professor e pesquisador do Instituto Federal do Paraná (IFPR), onde desenvolve as suas atividades no Departamento de Agroecologia, ministrando aulas no modelo presencial e a distância (EAD). Atualmente também é Membro da Comissão Assessora do ENADE - MEC (desde 2007), para o curso de Tecnologia em Agroindústria, na elaboração de diretrizes e avaliação, através de portaria INEP n. 176, de 14 de junho de 2010 e publicada no Diário Oficial da União de 15 de junho de 2010, seção 2, pag. 21 e 22, para o período de 2010 - 2013; Membro principal do Comitê Assessor de Irrigação e Manejo de Solos / Fertiirigação, da Fundação Araucária, desde 2012; e, Consultor ad hoc de várias instituições públicas. 
+INSTITUTOFEDERALDOPARANA|Reitoria
 
-## **19. Planejamento econômico/Necessidades para o funcionamento do curso** 
+MinisteriodaEducacao
 
-Não serão necessários recursos de infraestrutura e de recursos de capital. 
+## INSTITUTOFEDERAL PARANA
 
-Os recursos humanos necessários para compor as equipes docentes do curso dependerão da autorização da direção geral do campus Curitiba, levando em conta a disponibilidade de carga horária do docente. Já o suporte de equipe de apoio pedagógico ficará condicionado à autorização da direção geral do campus Curitiba, devendo a coordenação e colegiado suprirem as demandas relativas à gestão do curso, caso não haja equipe de apoio pedagógico. Por outro lado, os recursos de custeios serão solicitados à direção geral do campus Curitiba, e ficarão condicionados à disponibilidade orçamentária do campus. Tais recursos podem ser contratos de prestação de serviços, aquisição de materiais de consumo, diárias, passagens, bolsas e financiamento aos alunos. 
+## **20. Descrição das instalações (sala de aula, laboratórios, equipamentos e biblioteca)**
 
-INSTITUTOFEDERALDOPARANA|Reitoria 
+O curso fará uso das instalações já existentes no campus Curitiba, salas de aula, laboratórios de informática e biblioteca nos horários de funcionamento do campus.
 
-MinisteriodaEducacao 
+## **21. Anexos**
 
-## INSTITUTOFEDERAL PARANA 
+- Portaria(s) de Nomeação do Coordenador, Vice-Coordenador e Colegiado de Curso;
 
-## **20. Descrição das instalações (sala de aula, laboratórios, equipamentos e biblioteca)** 
+- Cópia do Currículo do Coordenador da Proposta (Plataforma _Lattes_ );
 
-O curso fará uso das instalações já existentes no campus Curitiba, salas de aula, laboratórios de informática e biblioteca nos horários de funcionamento do campus. 
+- Termo de Compromisso assinado pelo Diretor;
 
-## **21. Anexos** 
+- Cópia das Atas e/ou relatórios emitidos no âmbito do campus durante/sobre a formulação do PPC (se houver).
 
-- Portaria(s) de Nomeação do Coordenador, Vice-Coordenador e Colegiado de Curso; 
+- PPC em mídia digital editável e em PDF, enviado por email a dpg.proepi@ifpr.edu.br.
 
-- Cópia do Currículo do Coordenador da Proposta (Plataforma _Lattes_ ); 
+## **REFERÊNCIAS BIBLIOGRÁFICAS**
 
-- Termo de Compromisso assinado pelo Diretor; 
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. **Censo Demográfico.** Disponível em: <http://www. ibge. gov. br>. Acesso em: 19 jun.2013/ 2016.
 
-- Cópia das Atas e/ou relatórios emitidos no âmbito do campus durante/sobre a formulação do PPC (se houver). 
+BRASIL. **Ministério da Educação. Rede Federal de Educação Profissional e Tecnológica** . Brasília, DF. Disponível em: www.ifpr.edu.br Acesso em: 10 abr. 2017.
 
-- PPC em mídia digital editável e em PDF, enviado por email a dpg.proepi@ifpr.edu.br. 
+BUTZKE, M. A. **Jogos de empresas baseados em simulação e aprendizagem ativa: analisando a tomada de decisão em processos logísticos.** Tese de Doutorado em Administração e Turismo – UNIVALI – Universidade do Vale do Itajaí, 2015.
 
-## **REFERÊNCIAS BIBLIOGRÁFICAS** 
+KOLB, D. A. **Experiential learning: Experience as the source of learning and development** . FT press, 2014.
 
-INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. **Censo Demográfico.** Disponível em: <http://www. ibge. gov. br>. Acesso em: 19 jun.2013/ 2016. 
+MINNITI, M.; BYGRAVE, W. A dynamic model of entrepreneurial learning. **Entrepreneurship: Theory and practice** , v. 25, n. 3, p. 5-5, 2001.
 
-BRASIL. **Ministério da Educação. Rede Federal de Educação Profissional e Tecnológica** . Brasília, DF. Disponível em: www.ifpr.edu.br Acesso em: 10 abr. 2017. 
+COLLINS, L. A.; SMITH, A. J.; HANNON, P. D. Applying a synergistic learning approach in entrepreneurship education. **Management learning** , v. 37, n. 3, p. 335-354, 2006.
 
-BUTZKE, M. A. **Jogos de empresas baseados em simulação e aprendizagem ativa: analisando a tomada de decisão em processos logísticos.** Tese de Doutorado em Administração e Turismo – UNIVALI – Universidade do Vale do Itajaí, 2015. 
-
-KOLB, D. A. **Experiential learning: Experience as the source of learning and development** . FT press, 2014. 
-
-MINNITI, M.; BYGRAVE, W. A dynamic model of entrepreneurial learning. **Entrepreneurship: Theory and practice** , v. 25, n. 3, p. 5-5, 2001. 
-
-COLLINS, L. A.; SMITH, A. J.; HANNON, P. D. Applying a synergistic learning approach in entrepreneurship education. **Management learning** , v. 37, n. 3, p. 335-354, 2006. 
-
-INSTITUTOFEDERALDOPARANA|Reitoria 
+INSTITUTOFEDERALDOPARANA|Reitoria
 

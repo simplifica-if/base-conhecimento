@@ -1,676 +1,673 @@
-1 
 
-**==> picture [491 x 69] intentionally omitted <==**
+**MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA INSTITUTO FEDERAL DO PARANÁ**
 
-**MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA INSTITUTO FEDERAL DO PARANÁ** 
+## **CAMPUS LONDRINA**
 
-## **CAMPUS LONDRINA** 
+## **PROJETO PEDAGÓGICO DO CURSO TÉCNICO EM MASSOTERAPIA**
 
-## **PROJETO PEDAGÓGICO DO CURSO TÉCNICO EM MASSOTERAPIA** 
+Autorizado pela Resolução n° 75/2011 de 21/12/2011 do Conselho Superior - IFPR
 
-Autorizado pela Resolução n° 75/2011 de 21/12/2011 do Conselho Superior - IFPR 
+**LONDRINA**
 
-**LONDRINA** 
+**2016**
 
-**2016** 
+2
 
-2 
+## **INSTITUTO FEDERAL DO PARANÁ**
 
-## **INSTITUTO FEDERAL DO PARANÁ** 
+**Reitor** _**Pro Tempore**_
 
-**Reitor** _**Pro Tempore**_ 
+Odacir Antonio Zanatta
 
-Odacir Antonio Zanatta 
+## **Pró-reitor de Ensino**
 
-## **Pró-reitor de Ensino** 
+Sérgio Garcia dos Martires
 
-Sérgio Garcia dos Martires 
+## **Diretor de Ensino Médio e Técnico**
 
-## **Diretor de Ensino Médio e Técnico** 
+Amarildo Pinheiro Magalhães
 
-Amarildo Pinheiro Magalhães 
+## **Coordenador de Ensino Médio e Técnico**
 
-## **Coordenador de Ensino Médio e Técnico** 
+Marissoni do Rocio Hilgenberg
 
-Marissoni do Rocio Hilgenberg 
+## **Diretor Geral do Campus**
 
-## **Diretor Geral do Campus** 
+Marcelo Lupion Poleti
 
-Marcelo Lupion Poleti 
+**Diretor de Ensino, Pesquisa e Extensão** Fernando Accorsi
 
-**Diretor de Ensino, Pesquisa e Extensão** Fernando Accorsi 
+## **Coordenação do Curso**
 
-## **Coordenação do Curso** 
+Ana Carolina de Athayde Raymundi Braz
 
-Ana Carolina de Athayde Raymundi Braz 
+3
 
-3 
+## **SUMÁRIO**
 
-## **SUMÁRIO** 
+**1. IDENTIFICAÇÃO DO CURSO .............................................................................................5 2. CARACTERÍSTICAS DO CURSO .......................................................................................6 3. ESTRUTURA E FUNCIONAMENTO ...................................................................................6** 3.1 Justificativa da Oferta de Curso ......................................................................................6 3.2 Objetivos do Curso ........................................................................................................ 11 3.3 Perfil Profissional de Conclusão .................................................................................... 11 3.4 Critérios de Avaliação de Aprendizagem ...................................................................... 14 3.5 Critérios de Aproveitamento de Conhecimentos e Experiências Anteriores ................. 19 3.5.1 Aproveitamento de Estudos Anteriores .................................................................. 20 3.5.2 Da Certificação de Conhecimentos Anteriores ....................................................... 21 3.6 Instalações e Equipamentos, Recursos Tecnológicos e Biblioteca ............................... 21 3.6.1 Instalações .............................................................................................................. 22 3.6.2 Biblioteca ................................................................................................................ 22 3.6.3 Laboratório Básico de Anatomia Humana. .............................................................22 3.6.4 Laboratório de Informática ...................................................................................... 23 3.6.5 Materiais e equipamentos disponíveis Napne Campus Londrina ......................... 24 3.6.5 Laboratório de Massoterapia ..................................................................................24 3.7 Pessoas Envolvidas – Docentes e Técnicos ................................................................. 26 3.8 Descrição de Diplomas e Certificados a serem expedidos ........................................... 28 3.9 Organização Curricular ................................................................................................. 28 3.10 Ementas dos Componentes Curriculares .................................................................... 38 3.11 Trabalho de Conclusão de Curso ................................................................................ 67 3.12 Estágio Não-Obrigatório .............................................................................................. 68 **4. REFERÊNCIAS .................................................................................................................. 70 5. DOCUMENTOS ANEXOS ................................................................................................. 72 Anexo 1 -** Regulamento da prática profissional do Curso Técnico em Massoterapia - Campus Londrina....................................................................................................................72
 
-**1. IDENTIFICAÇÃO DO CURSO .............................................................................................5 2. CARACTERÍSTICAS DO CURSO .......................................................................................6 3. ESTRUTURA E FUNCIONAMENTO ...................................................................................6** 3.1 Justificativa da Oferta de Curso ......................................................................................6 3.2 Objetivos do Curso ........................................................................................................ 11 3.3 Perfil Profissional de Conclusão .................................................................................... 11 3.4 Critérios de Avaliação de Aprendizagem ...................................................................... 14 3.5 Critérios de Aproveitamento de Conhecimentos e Experiências Anteriores ................. 19 3.5.1 Aproveitamento de Estudos Anteriores .................................................................. 20 3.5.2 Da Certificação de Conhecimentos Anteriores ....................................................... 21 3.6 Instalações e Equipamentos, Recursos Tecnológicos e Biblioteca ............................... 21 3.6.1 Instalações .............................................................................................................. 22 3.6.2 Biblioteca ................................................................................................................ 22 3.6.3 Laboratório Básico de Anatomia Humana. .............................................................22 3.6.4 Laboratório de Informática ...................................................................................... 23 3.6.5 Materiais e equipamentos disponíveis Napne Campus Londrina ......................... 24 3.6.5 Laboratório de Massoterapia ..................................................................................24 3.7 Pessoas Envolvidas – Docentes e Técnicos ................................................................. 26 3.8 Descrição de Diplomas e Certificados a serem expedidos ........................................... 28 3.9 Organização Curricular ................................................................................................. 28 3.10 Ementas dos Componentes Curriculares .................................................................... 38 3.11 Trabalho de Conclusão de Curso ................................................................................ 67 3.12 Estágio Não-Obrigatório .............................................................................................. 68 **4. REFERÊNCIAS .................................................................................................................. 70 5. DOCUMENTOS ANEXOS ................................................................................................. 72 Anexo 1 -** Regulamento da prática profissional do Curso Técnico em Massoterapia - Campus Londrina....................................................................................................................72 
+4
 
-4 
+**Anexo 2 -** Regulamento de estágio não-obrigatório do Curso Técnico em Massoterapia do IFPR – Campus Londrina .......................................................................................................77 **Anexo 3 –** Regulamento do Trabalho de Conclusão de Curso ............................................ 81 **Anexo 4 –** Relatório de Acompanhamento – TCC ............................................................... 86 **Anexo 5 –** Ficha de Avaliação – TCC ............................................................................ 87
 
-**Anexo 2 -** Regulamento de estágio não-obrigatório do Curso Técnico em Massoterapia do IFPR – Campus Londrina .......................................................................................................77 **Anexo 3 –** Regulamento do Trabalho de Conclusão de Curso ............................................ 81 **Anexo 4 –** Relatório de Acompanhamento – TCC ............................................................... 86 **Anexo 5 –** Ficha de Avaliação – TCC ............................................................................ 87 
+5
 
-5 
+## **1. DENTIFICAÇÃO DO CURSO**
 
-## **1. DENTIFICAÇÃO DO CURSO** 
+**PROCESSO NÚMERO:** 23403.000394/2013-91
 
-**PROCESSO NÚMERO:** 23403.000394/2013-91 
+**NOME DO CURSO:** Curso Técnico em Massoterapia
 
-**NOME DO CURSO:** Curso Técnico em Massoterapia 
+**EIXO TECNOLÓGICO:** Ambiente e Saúde
 
-**EIXO TECNOLÓGICO:** Ambiente e Saúde 
+**COORDENAÇÃO:**
 
-**COORDENAÇÃO:** 
+**Coordenadora:** Ana Carolina de Athayde Raymundi Braz
 
-**Coordenadora:** Ana Carolina de Athayde Raymundi Braz 
+**E-mail:** ana.braz@ifpr.edu.br
 
-**E-mail:** ana.braz@ifpr.edu.br 
+**Telefone:** (43) 3878-6110
 
-**Telefone:** (43) 3878-6110 
+**Vice-Coordenador:** Rafael Mendes Pereira
 
-**Vice-Coordenador:** Rafael Mendes Pereira 
+**E-mail:** rafael.pereira@ifpr.edu.br
 
-**E-mail:** rafael.pereira@ifpr.edu.br 
+**Telefone:** (43) 3878-6100
 
-**Telefone:** (43) 3878-6100 
+**LOCAL DE REALIZAÇÃO/CAMPUS:** Campus Londrina – Rua João XXIII, 600. Jd. Dom Bosco
 
-**LOCAL DE REALIZAÇÃO/CAMPUS:** Campus Londrina – Rua João XXIII, 600. Jd. Dom Bosco 
+**TEL:** (43) 3878-6100 **HOME-PAGE: E-mail:** www.ifpr.edu.br/londrina secretaria.londrina@ifpr.edu.br
 
-**TEL:** (43) 3878-6100 **HOME-PAGE: E-mail:** www.ifpr.edu.br/londrina secretaria.londrina@ifpr.edu.br 
+**RESOLUÇÃO DE CRIAÇÃO:** Resolução n° 75/2011 de 21/12/2011 do Conselho Superior - IFPR.
 
-**RESOLUÇÃO DE CRIAÇÃO:** Resolução n° 75/2011 de 21/12/2011 do Conselho Superior - IFPR. 
+**APROVAÇÃO DO PROJETO PEDAGÓGICO DE CURSO    (    )**
 
-**APROVAÇÃO DO PROJETO PEDAGÓGICO DE CURSO    (    )** 
+**AJUSTE CURRICULAR DO PROJETO PEDAGÓGICO DE CURSO    (** X **)**
 
-**AJUSTE CURRICULAR DO PROJETO PEDAGÓGICO DE CURSO    (** X **)** 
+**COMISSÃO RESPONSÁVEL PELA ELABORAÇÃO DO PPC OU AJUSTE CURRICULAR:**
 
-**COMISSÃO RESPONSÁVEL PELA ELABORAÇÃO DO PPC OU AJUSTE CURRICULAR:** 
+- Adriane de Lima Cardeal Cunha
 
-- Adriane de Lima Cardeal Cunha 
+- Ana Carolina de Athayde Raymundi Braz
 
-- Ana Carolina de Athayde Raymundi Braz 
+- Juliana Gomes Fernandes
 
-- Juliana Gomes Fernandes 
+- Mônica Angélica Cardoso Silva
 
-- Mônica Angélica Cardoso Silva 
+- Rafael Mendes Pereira
 
-- Rafael Mendes Pereira 
+- Tatiane Romanini Rodrigues Alencar
 
-- Tatiane Romanini Rodrigues Alencar 
+6
 
-6 
+## **2 - CARACTERÍSTICAS DO CURSO**
 
-## **2 - CARACTERÍSTICAS DO CURSO** 
+**Nível:** Educação Profissional Técnica de Nível Médio
 
-**Nível:** Educação Profissional Técnica de Nível Médio 
+**Modalidade:** Presencial
 
-**Modalidade:** Presencial 
+**Forma de Oferta:** Subsequente
 
-**Forma de Oferta:** Subsequente 
+**Tempo de duração do curso:** Mínimo 24 meses.
 
-**Tempo de duração do curso:** Mínimo 24 meses. 
+**Turno de oferta:** Matutino
 
-**Turno de oferta:** Matutino 
+**Horário de oferta do curso:** De segunda à sexta-feira com início: 7:30h e término 11:45h
 
-**Horário de oferta do curso:** De segunda à sexta-feira com início: 7:30h e término 11:45h 
+**Carga horária Total:** 1380h
 
-**Carga horária Total:** 1380h 
+**Carga horária de estágio:** Não haverá estágio obrigatório
 
-**Carga horária de estágio:** Não haverá estágio obrigatório 
+**Número máximo de vagas do curso:** 40
 
-**Número máximo de vagas do curso:** 40 
+**Número mínimo de vagas do curso:** 20
 
-**Número mínimo de vagas do curso:** 20 
+**Ano de criação do curso:** 2009
 
-**Ano de criação do curso:** 2009 
+**Requisitos de acesso ao Curso:** Ensino médio completo e aprovação no processo seletivo regulamentado pela Pró- Reitoria de Ensino em parceria com o Campus.
 
-**Requisitos de acesso ao Curso:** Ensino médio completo e aprovação no processo seletivo regulamentado pela Pró- Reitoria de Ensino em parceria com o Campus. 
+**Tipo de Matrícula:** Semestral
 
-**Tipo de Matrícula:** Semestral 
+**Regime Escolar:** Semestral
 
-**Regime Escolar:** Semestral 
+**Instituições Parceiras:** O curso é ofertado de forma independente.
 
-**Instituições Parceiras:** O curso é ofertado de forma independente. 
+## **3. ESTRUTURA E FUNCIONAMENTO**
 
-## **3. ESTRUTURA E FUNCIONAMENTO** 
+## **3.1 Justificativa da Oferta de Curso**
 
-## **3.1 Justificativa da Oferta de Curso** 
+A habilitação Técnica em Massoterapia atende ao disposto na Lei de Diretrizes e Bases da Educação Nacional (LDB), Lei Federal N. 9394/96, no Decreto Federal N. 5154/04, na Resolução CNE/CEB N. 06/2012 e nas demais normas do Sistema de Ensino e na Legislação que regulamentam as atividades da área.
 
-A habilitação Técnica em Massoterapia atende ao disposto na Lei de Diretrizes e Bases da Educação Nacional (LDB), Lei Federal N. 9394/96, no Decreto Federal N. 5154/04, na Resolução CNE/CEB N. 06/2012 e nas demais normas do Sistema de Ensino e na Legislação que regulamentam as atividades da área. 
+O Curso Técnico em Massoterapia integra a grade de Cursos ofertados no Campus Londrina, atualmente conta com seis docentes, destes, cinco possuem regime de dedicação exclusiva. A estrutura física utilizada pelo Curso envolve dois laboratórios para práticas de massoterapia e salas para aulas teóricas.
 
-O Curso Técnico em Massoterapia integra a grade de Cursos ofertados no Campus Londrina, atualmente conta com seis docentes, destes, cinco possuem regime de dedicação exclusiva. A estrutura física utilizada pelo Curso envolve dois laboratórios para práticas de massoterapia e salas para aulas teóricas. 
+7
 
-7 
+O itinerário formativo contempla a sequência das possibilidades articuláveis da oferta de cursos de Educação Profissional possibilitando contínuo aproveitamento de estudos e de experiências profissionais. O princípio da continuidade significa que a estruturação do ensino e a programação das propostas educacionais devem garantir o progressivo avanço do aluno no seu processo de aprendizagem e escolarização
 
-O itinerário formativo contempla a sequência das possibilidades articuláveis da oferta de cursos de Educação Profissional possibilitando contínuo aproveitamento de estudos e de experiências profissionais. O princípio da continuidade significa que a estruturação do ensino e a programação das propostas educacionais devem garantir o progressivo avanço do aluno no seu processo de aprendizagem e escolarização 
+Os cursos ofertados no Campus Londrina integram um itinerário formativo que tem como objetivo a verticalização da educação básica à educação profissional e educação superior. O eixo ambiente e saúde conta com quatro cursos técnicos na modalidade subsequente, entre estes, o Técnico em Massoterapia. O Campus oferta ainda dois cursos de ensino médio integrado, sendo estes: Informática e Biotecnologia, e ainda, os Cursos superiores: Tecnologia em Análise e Desenvolvimento de Sistemas e Licenciatura em Biologia, desta forma, o estudante pode traçar sua formação profissional, dentro da Instituição.
 
-Os cursos ofertados no Campus Londrina integram um itinerário formativo que tem como objetivo a verticalização da educação básica à educação profissional e educação superior. O eixo ambiente e saúde conta com quatro cursos técnicos na modalidade subsequente, entre estes, o Técnico em Massoterapia. O Campus oferta ainda dois cursos de ensino médio integrado, sendo estes: Informática e Biotecnologia, e ainda, os Cursos superiores: Tecnologia em Análise e Desenvolvimento de Sistemas e Licenciatura em Biologia, desta forma, o estudante pode traçar sua formação profissional, dentro da Instituição. 
+O plano de curso inicial foi elaborado no ano de 2010 pelo Colegiado do Curso Técnico em Massoterapia do Campus Curitiba. No ano de 2013 foi realizado ajuste curricular do Projeto Pedagógico do Curso, pelo colegiado do Curso Técnico em Massoterapia do Campus Londrina. E atualmente, no ano de 2016, após ampla discussão, apresenta-se nova proposta para ajuste curricular.
 
-O plano de curso inicial foi elaborado no ano de 2010 pelo Colegiado do Curso Técnico em Massoterapia do Campus Curitiba. No ano de 2013 foi realizado ajuste curricular do Projeto Pedagógico do Curso, pelo colegiado do Curso Técnico em Massoterapia do Campus Londrina. E atualmente, no ano de 2016, após ampla discussão, apresenta-se nova proposta para ajuste curricular. 
+A comissão foi criada a partir da portaria nº 22 de 25 de abril de 2016 e inclui os docentes do Curso Técnico em Massoterapia: Adriane de Lima Cardeal Cunha; Ana Carolina de Athayde Raymundi Braz; Juliana Gomes Fernandes; Mônica Angélica Cardoso Silva; Rafael Mendes Pereira; e, Tatiane Romanini Rodrigues Alencar.
 
-A comissão foi criada a partir da portaria nº 22 de 25 de abril de 2016 e inclui os docentes do Curso Técnico em Massoterapia: Adriane de Lima Cardeal Cunha; Ana Carolina de Athayde Raymundi Braz; Juliana Gomes Fernandes; Mônica Angélica Cardoso Silva; Rafael Mendes Pereira; e, Tatiane Romanini Rodrigues Alencar. 
+Acredita-se em um Projeto Pedagógico que ganhe vida em seu dia a dia, e que seja construído e reconstruído na teoria e na prática diária, ultrapassando a ideia de frases bem formuladas, e assumindo seu verdadeiro caráter de coletivo e inacabado. Os docentes do Curso realizam com frequência reflexões, análises e discussões a partir de suas práticas docentes e do contato permanente com os estudantes, conhecendo as principais demandas e necessidades, desta forma, tornou-se possível a construção coletiva de uma proposta para ajuste curricular.
 
-Acredita-se em um Projeto Pedagógico que ganhe vida em seu dia a dia, e que seja construído e reconstruído na teoria e na prática diária, ultrapassando a ideia de frases bem formuladas, e assumindo seu verdadeiro caráter de coletivo e inacabado. Os docentes do Curso realizam com frequência reflexões, análises e discussões a partir de suas práticas docentes e do contato permanente com os estudantes, conhecendo as principais demandas e necessidades, desta forma, tornou-se possível a construção coletiva de uma proposta para ajuste curricular. 
+Propor um ajuste curricular é uma tarefa que exige seriedade, estudo, reflexão, diálogo e participação, destacamos, neste momento, a importância do diálogo, este compreendido enquanto conteúdo inato da existência humana capaz de transformar a realidade. Tais diálogos ocorreram de forma permanente em carga horária apresentada nos Planos de Trabalho Docente.
 
-Propor um ajuste curricular é uma tarefa que exige seriedade, estudo, reflexão, diálogo e participação, destacamos, neste momento, a importância do diálogo, este compreendido enquanto conteúdo inato da existência humana capaz de transformar a realidade. Tais diálogos ocorreram de forma permanente em carga horária apresentada nos Planos de Trabalho Docente. 
+Com a perspectiva de atualizar o perfil desejado para o profissional - em consonância com as transformações do setor produtivo e da sociedade - o Plano do Curso Técnico em Massoterapia passa por revisões e atualizações, mantendo-se alinhado com as exigências específicas da ocupação e da área de Saúde.  O curso incorpora as inovações decorrentes dos avanços científicos e tecnológicos desse segmento e da experiência acumulada pela Instituição na oferta da habilitação em Massoterapia.
 
-Com a perspectiva de atualizar o perfil desejado para o profissional - em consonância com as transformações do setor produtivo e da sociedade - o Plano do Curso Técnico em Massoterapia passa por revisões e atualizações, mantendo-se alinhado com as exigências específicas da ocupação e da área de Saúde.  O curso incorpora as inovações decorrentes dos avanços científicos e tecnológicos desse segmento e da experiência acumulada pela Instituição na oferta da habilitação em Massoterapia. 
+A massagem é uma forma terapêutica milenar, praticada antes mesmo dos primeiros registros escritos. Em 400 aC, Hipócrates ressaltava a necessidade de se praticar esta arte que, por meio do toque, busca o conhecimento do corpo humano, dos sinais vitais registrados e do equilíbrio da energia da vida, com o objetivo de promover o bem estar.
 
-A massagem é uma forma terapêutica milenar, praticada antes mesmo dos primeiros registros escritos. Em 400 aC, Hipócrates ressaltava a necessidade de se praticar esta arte que, por meio do toque, busca o conhecimento do corpo humano, dos sinais vitais registrados e do equilíbrio da energia da vida, com o objetivo de promover o bem estar. 
+No Brasil, a profissão de Massagista foi criada pelo Decreto-Lei n° 8345/45 e reconhecida pela Lei n° 3968/61 que fundamenta o exercício profissional da Massoterapia. O Código Sanitário introduziu o regulamento da Promoção, Preservação e Recuperação da Saúde no Estado, contemplando disposições a serem respeitadas por esses profissionais.
 
-No Brasil, a profissão de Massagista foi criada pelo Decreto-Lei n° 8345/45 e reconhecida pela Lei n° 3968/61 que fundamenta o exercício profissional da Massoterapia. O Código Sanitário introduziu o regulamento da Promoção, Preservação e Recuperação da Saúde no Estado, contemplando disposições a serem respeitadas por esses profissionais. 
+A profissão de Técnico em Massoterapia surgiu em dezembro de 2003 após o reconhecimento pelo MEC do primeiro Curso Técnico em Massoterapia ofertado pelo Setor Escola Técnica da Universidade Federal do Paraná.  A partir de dezembro de 2008, esse instituto passou a ser denominado Instituto Federal do Paraná.
 
-A profissão de Técnico em Massoterapia surgiu em dezembro de 2003 após o reconhecimento pelo MEC do primeiro Curso Técnico em Massoterapia ofertado pelo Setor Escola Técnica da Universidade Federal do Paraná.  A partir de dezembro de 2008, esse instituto passou a ser denominado Instituto Federal do Paraná. 
+No Ministério do Trabalho e Emprego, a Massoterapia está equiparada ao grupo de Terapias Naturais conforme a Classificação Brasileira de Ocupação – CBO- 3221-20 Massoterapeuta, Massagista, Massoprevencionista. Sendo assim, o massoterapeuta presta assistência ao ser humano, tanto no plano individual quanto coletivo, participando da promoção da saúde, prevenção de agravos, participando da
 
-No Ministério do Trabalho e Emprego, a Massoterapia está equiparada ao grupo de Terapias Naturais conforme a Classificação Brasileira de Ocupação – CBO- 3221-20 Massoterapeuta, Massagista, Massoprevencionista. Sendo assim, o massoterapeuta presta assistência ao ser humano, tanto no plano individual quanto coletivo, participando da promoção da saúde, prevenção de agravos, participando da 
+9
 
-9 
+equipe multidisciplinar que tem o objetivo de tratamento e recuperação da saúde e cuidados paliativos, sempre tendo em vista a qualidade de vida, sem discriminação de qualquer forma ou pretexto, segundo os princípios do sistema de saúde vigente no Brasil. O massoterapeuta avalia sua capacidade técnica e somente aceita atribuição ou assume encargo quando capaz de desempenho seguro para o cliente/paciente/usuário, em respeito aos direitos humanos.
 
-equipe multidisciplinar que tem o objetivo de tratamento e recuperação da saúde e cuidados paliativos, sempre tendo em vista a qualidade de vida, sem discriminação de qualquer forma ou pretexto, segundo os princípios do sistema de saúde vigente no Brasil. O massoterapeuta avalia sua capacidade técnica e somente aceita atribuição ou assume encargo quando capaz de desempenho seguro para o cliente/paciente/usuário, em respeito aos direitos humanos. 
+A profissão de Técnico em Massoterapia chama atenção às Referências Curriculares Nacionais para a Área profissional da Saúde, com os princípios norteadores da Reforma Sanitária nos trazendo a ideia da saúde como condição de cidadania, apontando especificidades para os trabalhadores da área e reafirmando a necessidade do compromisso destes com uma concepção de saúde. Esta concepção transcende à visão setorial e diversifica os seus campos de prática.
 
-A profissão de Técnico em Massoterapia chama atenção às Referências Curriculares Nacionais para a Área profissional da Saúde, com os princípios norteadores da Reforma Sanitária nos trazendo a ideia da saúde como condição de cidadania, apontando especificidades para os trabalhadores da área e reafirmando a necessidade do compromisso destes com uma concepção de saúde. Esta concepção transcende à visão setorial e diversifica os seus campos de prática. 
+A saúde é entendida como um bem comum na perspectiva da qualidade de vida. O processo saúde-doença representa o conjunto de relações e variáveis que produzem e condicionam o estado de saúde e doença de uma população que se altera em diversos momentos históricos da humanidade. As ações de saúde, na medida em que assumem como princípio a visão integral do ser humano, passam a incorporar profissionais com formação diversificada, numa perspectiva multidisciplinar. Neste modelo assistencial, as práticas alternativas e complementares, nas quais as técnicas massoterápicas se incluem, devem ser incorporadas aos serviços de saúde, às tecnologias populares e às ações de promoção de saúde.
 
-A saúde é entendida como um bem comum na perspectiva da qualidade de vida. O processo saúde-doença representa o conjunto de relações e variáveis que produzem e condicionam o estado de saúde e doença de uma população que se altera em diversos momentos históricos da humanidade. As ações de saúde, na medida em que assumem como princípio a visão integral do ser humano, passam a incorporar profissionais com formação diversificada, numa perspectiva multidisciplinar. Neste modelo assistencial, as práticas alternativas e complementares, nas quais as técnicas massoterápicas se incluem, devem ser incorporadas aos serviços de saúde, às tecnologias populares e às ações de promoção de saúde. 
+A Portaria n° 971/2006 do Ministério da Saúde, que define a Política Nacional de Práticas Integrativas e Complementares (PNPIC) reconhece as terapias alternativas, acupuntura, fitoterápicos, águas termais e homeopatia como eficazes para a prevenção de doenças e promoção e recuperação da saúde. Esta política estimula a ampliação do acesso da população a esses serviços na rede pública, ampliando assim, o âmbito das práticas integrativas e incentiva as pesquisas, orientações e aplicabilidade junto à população. Na medida em que se reconhece a necessidade de sua inclusão nos diversos níveis de atenção à saúde, se reduz a predominância das intervenções exclusivamente centradas na cura de doenças.
 
-A Portaria n° 971/2006 do Ministério da Saúde, que define a Política Nacional de Práticas Integrativas e Complementares (PNPIC) reconhece as terapias alternativas, acupuntura, fitoterápicos, águas termais e homeopatia como eficazes para a prevenção de doenças e promoção e recuperação da saúde. Esta política estimula a ampliação do acesso da população a esses serviços na rede pública, ampliando assim, o âmbito das práticas integrativas e incentiva as pesquisas, orientações e aplicabilidade junto à população. Na medida em que se reconhece a necessidade de sua inclusão nos diversos níveis de atenção à saúde, se reduz a predominância das intervenções exclusivamente centradas na cura de doenças. 
+10
 
-10 
+A competitividade do mercado globalizado impõe em todos os campos profissionais uma busca por permanente capacitação na área de conhecimentos técnicos. Nessa perspectiva, é fundamental ao ser humano capacitar-se adequadamente para o exercício de sua profissão, procurando canais compatíveis com a formação técnica. A necessidade de qualificação de profissionais que atendam à crescente demanda determinada pela diferenciação do mercado de trabalho na área de Cuidados Corporais, faz com que a oferta do Curso Técnico em Massoterapia seja de fundamental importância para Londrina e região Metropolitana.
 
-A competitividade do mercado globalizado impõe em todos os campos profissionais uma busca por permanente capacitação na área de conhecimentos técnicos. Nessa perspectiva, é fundamental ao ser humano capacitar-se adequadamente para o exercício de sua profissão, procurando canais compatíveis com a formação técnica. A necessidade de qualificação de profissionais que atendam à crescente demanda determinada pela diferenciação do mercado de trabalho na área de Cuidados Corporais, faz com que a oferta do Curso Técnico em Massoterapia seja de fundamental importância para Londrina e região Metropolitana. 
+Pesquisas indicam que o mercado de trabalho para a massagem, no Brasil, está aumentando. Por muito tempo, as pessoas se trataram com o que hoje é chamado de _tratamentos complementares_ ou _alternativos_ : massagem, ervas naturais, aromas, cristais, energia, acupuntura etc. De acordo com estas pesquisas, 20% da população mundial se trata com terapias holísticas. A massagem é a maior destas terapias. Fazendo-se uma projeção deste índice de 20% sobre a população brasileira (150 milhões), chegamos a 30 milhões de potenciais clientes no país. Provavelmente é muito mais do que isso.
 
-Pesquisas indicam que o mercado de trabalho para a massagem, no Brasil, está aumentando. Por muito tempo, as pessoas se trataram com o que hoje é chamado de _tratamentos complementares_ ou _alternativos_ : massagem, ervas naturais, aromas, cristais, energia, acupuntura etc. De acordo com estas pesquisas, 20% da população mundial se trata com terapias holísticas. A massagem é a maior destas terapias. Fazendo-se uma projeção deste índice de 20% sobre a população brasileira (150 milhões), chegamos a 30 milhões de potenciais clientes no país. Provavelmente é muito mais do que isso. 
+Atualmente, com mais de meio milhão de habitantes (506.701), de acordo com o IBGE – Censos demográficos até 2010 - a cidade de Londrina ocupa uma posição estratégica em termos geoeconômicos. O município possui uma área de 1.724,70km² constituídos pelo Distrito Sede e por mais oito Distritos (Lerroville, Warta, Irerê, Paiquerê, Maravilha, São Luiz, Guaravera e Espírito Santo), perfazendo cerca de 1% da área total do Estado do Paraná. Se analisarmos a população segundo as atividades econômicas, de acordo com a classificação do IPARDES em 2010, constatamos que 16.305 trabalhadores são da área da saúde, ainda segundo o mesmo Instituto de Pesquisas, os serviços médicos, e na área da saúde estão alocados em 959 estabelecimentos.
 
-Atualmente, com mais de meio milhão de habitantes (506.701), de acordo com o IBGE – Censos demográficos até 2010 - a cidade de Londrina ocupa uma posição estratégica em termos geoeconômicos. O município possui uma área de 1.724,70km² constituídos pelo Distrito Sede e por mais oito Distritos (Lerroville, Warta, Irerê, Paiquerê, Maravilha, São Luiz, Guaravera e Espírito Santo), perfazendo cerca de 1% da área total do Estado do Paraná. Se analisarmos a população segundo as atividades econômicas, de acordo com a classificação do IPARDES em 2010, constatamos que 16.305 trabalhadores são da área da saúde, ainda segundo o mesmo Instituto de Pesquisas, os serviços médicos, e na área da saúde estão alocados em 959 estabelecimentos. 
+O profissional Técnico em Massoterapia pode atuar em: clínicas de massoterapia; clínicas estéticas e naturalistas; clínicas fisiátricas, ortopédicas e médicas em geral; clínicas de fisioterapia; hospitais; casas de repouso; instituições para pessoas portadoras de deficiências; clubes desportivos; spas; academias; condomínios; empresas; e vgu ainda, pode atender em domicílio como profissional autônomo.
 
-O profissional Técnico em Massoterapia pode atuar em: clínicas de massoterapia; clínicas estéticas e naturalistas; clínicas fisiátricas, ortopédicas e médicas em geral; clínicas de fisioterapia; hospitais; casas de repouso; instituições para pessoas portadoras de deficiências; clubes desportivos; spas; academias; condomínios; empresas; e vgu ainda, pode atender em domicílio como profissional autônomo. 
+11
 
-11 
+Para contribuir com a formação dos profissionais que desenvolvem essas práticas, e para que atuem em consonância com os paradigmas que orientam a oferta dos serviços de saúde, o Instituto Federal do Paraná oferece o Curso Técnico em Massoterapia, preparando os profissionais para que, mediante o desenvolvimento de suas atividades, possam influenciar positivamente na saúde e no bem-estar dos indivíduos.
 
-Para contribuir com a formação dos profissionais que desenvolvem essas práticas, e para que atuem em consonância com os paradigmas que orientam a oferta dos serviços de saúde, o Instituto Federal do Paraná oferece o Curso Técnico em Massoterapia, preparando os profissionais para que, mediante o desenvolvimento de suas atividades, possam influenciar positivamente na saúde e no bem-estar dos indivíduos. 
+## **3.2 Objetivos do Curso**
 
-## **3.2 Objetivos do Curso** 
+## Objetivo Geral
 
-## Objetivo Geral 
+Formar profissionais Técnicos em Massoterapia proporcionando ao educando a compreensão do processo saúde/doença, habilitando-o a intervir no mesmo com a utilização das técnicas massoterápicas específicas e prestar assistência à saúde e bem estar nos seus vários níveis de atenção em Instituições Prestadoras de Serviços Públicas e/ou Privadas e também na qualidade de profissional autônomo.
 
-Formar profissionais Técnicos em Massoterapia proporcionando ao educando a compreensão do processo saúde/doença, habilitando-o a intervir no mesmo com a utilização das técnicas massoterápicas específicas e prestar assistência à saúde e bem estar nos seus vários níveis de atenção em Instituições Prestadoras de Serviços Públicas e/ou Privadas e também na qualidade de profissional autônomo. 
+## Objetivos Específicos
 
-## Objetivos Específicos 
+- Habilitar profissionais Técnicos em Massoterapia para atuar na educação para saúde, proteção e prevenção, recuperação e reabilitação, bem como na gestão em serviços;
 
-- Habilitar profissionais Técnicos em Massoterapia para atuar na educação para saúde, proteção e prevenção, recuperação e reabilitação, bem como na gestão em serviços; 
+- Promover a melhoria da qualidade de saúde e bem estar da população por meio de execução, controle e avaliação de serviços a serem desenvolvidos pelos profissionais desta área;
 
-- Promover a melhoria da qualidade de saúde e bem estar da população por meio de execução, controle e avaliação de serviços a serem desenvolvidos pelos profissionais desta área; 
+- Contribuir no planejamento, organização e análise do processo de tarefas próprias das atividades deste profissional; e
 
-- Contribuir no planejamento, organização e análise do processo de tarefas próprias das atividades deste profissional; e 
+- Participar na formação de cidadãos conscientes, ativos e críticos do papel que exercem na sociedade e nas organizações.
 
-- Participar na formação de cidadãos conscientes, ativos e críticos do papel que exercem na sociedade e nas organizações. 
+## **3.3 Perfil Profissional de Conclusão**
 
-## **3.3 Perfil Profissional de Conclusão** 
+O Técnico em Massoterapia é um profissional da Área de Saúde que possui as competências necessárias para executar com segurança, técnicas clássicas e modernas de massagens orientais e ocidentais. Em sua formação são abordados
 
-O Técnico em Massoterapia é um profissional da Área de Saúde que possui as competências necessárias para executar com segurança, técnicas clássicas e modernas de massagens orientais e ocidentais. Em sua formação são abordados 
+12
 
-12 
+temas como anatomia e fisiologia humanas, noções de patologias musculoesqueléticas e neuroanatomia funcional, assim como princípios de ergonomia e cinesiologia, entre outros, visando formação para a atenção integral ao bem estar físico e mental dos clientes/pacientes.
 
-temas como anatomia e fisiologia humanas, noções de patologias musculoesqueléticas e neuroanatomia funcional, assim como princípios de ergonomia e cinesiologia, entre outros, visando formação para a atenção integral ao bem estar físico e mental dos clientes/pacientes. 
+Este profissional atua em diferentes tipos de estabelecimentos públicos e privados, como clínicas de reabilitação e estética, hospitais, casas de repouso, associações desportivas e também em seu próprio consultório e/ou clínica massoterápica. Para tanto, deve, no decorrer do curso, mobilizar e articular com pertinência os saberes necessários à ação eficiente e eficaz, integrando suporte científico, tecnológico e valorativo que lhe permita:
 
-Este profissional atua em diferentes tipos de estabelecimentos públicos e privados, como clínicas de reabilitação e estética, hospitais, casas de repouso, associações desportivas e também em seu próprio consultório e/ou clínica massoterápica. Para tanto, deve, no decorrer do curso, mobilizar e articular com pertinência os saberes necessários à ação eficiente e eficaz, integrando suporte científico, tecnológico e valorativo que lhe permita: 
+- Buscar atualização constante por meio de estudos e pesquisas, propor inovações de forma crítica, identificar e incorporar novos métodos, técnicas e tecnologias às suas ações e responder às situações cotidianas e imprevisíveis com flexibilidade e criatividade;
 
-- Buscar atualização constante por meio de estudos e pesquisas, propor inovações de forma crítica, identificar e incorporar novos métodos, técnicas e tecnologias às suas ações e responder às situações cotidianas e imprevisíveis com flexibilidade e criatividade; 
+- Assumir postura profissional condizente com os princípios que regem as ações na área de saúde, atuando em equipes multidisciplinares e relacionando-se adequadamente com os clientes, contribuindo de forma efetiva para a promoção, proteção e recuperação da saúde;
 
-- Assumir postura profissional condizente com os princípios que regem as ações na área de saúde, atuando em equipes multidisciplinares e relacionando-se adequadamente com os clientes, contribuindo de forma efetiva para a promoção, proteção e recuperação da saúde; 
+- Gerenciar seu percurso profissional com iniciativa e de forma empreendedora, prestando serviços em Instituições privadas ou públicas e/ou na condução do seu próprio consultório; e
 
-- Gerenciar seu percurso profissional com iniciativa e de forma empreendedora, prestando serviços em Instituições privadas ou públicas e/ou na condução do seu próprio consultório; e 
+- Atuar com responsabilidade, comprometendo-se com os princípios da ética, da sustentabilidade ambiental, da preservação da saúde e do desenvolvimento social, orientando suas atividades por valores expressos na ética profissional, resultante da qualidade do trabalho prestado. Para atender às demandas do processo produtivo, esse profissional deve constituir as seguintes competências específicas da habilitação:
 
-- Atuar com responsabilidade, comprometendo-se com os princípios da ética, da sustentabilidade ambiental, da preservação da saúde e do desenvolvimento social, orientando suas atividades por valores expressos na ética profissional, resultante da qualidade do trabalho prestado. Para atender às demandas do processo produtivo, esse profissional deve constituir as seguintes competências específicas da habilitação: 
+- Reconhecer-se como profissional da Área de Saúde, baseando o planejamento de sua ação na perspectiva do ser humano integral e considerando os condicionantes e determinantes do processo de saúdedoença, a qualidade no atendimento, a preservação do meio ambiente e o compromisso social com a população;
 
-- Reconhecer-se como profissional da Área de Saúde, baseando o planejamento de sua ação na perspectiva do ser humano integral e considerando os condicionantes e determinantes do processo de saúdedoença, a qualidade no atendimento, a preservação do meio ambiente e o compromisso social com a população; 
+13
 
-13 
+- Elaborar plano de trabalho terapêutico selecionando as manobras ou técnicas mais indicadas de massoterapia, tendo em vista a análise dos aspectos anatômicos, fisiológicos, biomecânicos e fisiopatológicos do cliente, assim como as indicações e contraindicações do quadro apresentado;
 
-- Elaborar plano de trabalho terapêutico selecionando as manobras ou técnicas mais indicadas de massoterapia, tendo em vista a análise dos aspectos anatômicos, fisiológicos, biomecânicos e fisiopatológicos do cliente, assim como as indicações e contraindicações do quadro apresentado; 
+- Proceder às manobras de massagem, com base em conceitos de anatomia humana e anatomia palpatória, fisiologia, cinesiologia e medicina oriental visando à saúde integral e reconhecendo o ser humano como um todo indivisível, compreendido em suas dimensões física, psíquica, social e espiritual;
 
-- Proceder às manobras de massagem, com base em conceitos de anatomia humana e anatomia palpatória, fisiologia, cinesiologia e medicina oriental visando à saúde integral e reconhecendo o ser humano como um todo indivisível, compreendido em suas dimensões física, psíquica, social e espiritual; 
+- Selecionar e adotar procedimentos que garantam a segurança, a ergonomia, a higiene e profilaxia nos locais de trabalho e atender às diferentes normas que regem a prestação dos serviços de saúde, acompanhando e incorporando, de forma crítica, as principais tendências presentes na evolução das técnicas massoterápicas;
 
-- Selecionar e adotar procedimentos que garantam a segurança, a ergonomia, a higiene e profilaxia nos locais de trabalho e atender às diferentes normas que regem a prestação dos serviços de saúde, acompanhando e incorporando, de forma crítica, as principais tendências presentes na evolução das técnicas massoterápicas; 
+- Informar e orientar o cliente/paciente e a comunidade em geral quanto aos hábitos e medidas geradoras de melhores condições de vida, visando à conquista de autonomia na manutenção da própria saúde; e
 
-- Informar e orientar o cliente/paciente e a comunidade em geral quanto aos hábitos e medidas geradoras de melhores condições de vida, visando à conquista de autonomia na manutenção da própria saúde; e 
+- Gerir um negócio com visão sistêmica, mobilizando e articulando conceitos e princípios de empreendedorismo e habilidades na definição de estratégias que contribuam para a sustentabilidade do empreendimento.
 
-- Gerir um negócio com visão sistêmica, mobilizando e articulando conceitos e princípios de empreendedorismo e habilidades na definição de estratégias que contribuam para a sustentabilidade do empreendimento. 
+Em consonância com as Diretrizes Curriculares Nacionais para a Educação Profissional de Nível Técnico, o Técnico em Massoterapia deve possuir, também, as competências gerais da Área Profissional da Saúde:
 
-Em consonância com as Diretrizes Curriculares Nacionais para a Educação Profissional de Nível Técnico, o Técnico em Massoterapia deve possuir, também, as competências gerais da Área Profissional da Saúde: 
+- Identificar os determinantes e os condicionantes no processo saúde-doença;
 
-- Identificar os determinantes e os condicionantes no processo saúde-doença; 
+- Identificar a estrutura e organização do sistema de saúde vigente;
 
-- Identificar a estrutura e organização do sistema de saúde vigente; 
+- Identificar funções e responsabilidades dos membros da equipe de trabalho;
 
-- Identificar funções e responsabilidades dos membros da equipe de trabalho; 
+- Planejar e organizar o trabalho na perspectiva do atendimento integral e de qualidade;
 
-- Planejar e organizar o trabalho na perspectiva do atendimento integral e de qualidade; 
+14
 
-14 
+- Realizar o trabalho em equipe, correlacionando conhecimentos de vários componentes curriculares e/ou técnicas massoterápicas, ou ciências, tendo em vista o caráter interdisciplinar da área;
 
-- Realizar o trabalho em equipe, correlacionando conhecimentos de vários componentes curriculares e/ou técnicas massoterápicas, ou ciências, tendo em vista o caráter interdisciplinar da área; 
+- Aplicar normas de biossegurança;
 
-- Aplicar normas de biossegurança; 
+- Aplicar princípios e normas de higiene e saúde pessoal e ambiental;
 
-- Aplicar princípios e normas de higiene e saúde pessoal e ambiental; 
+- Interpretar e aplicar a Legislação referente aos direitos dos usuários;
 
-- Interpretar e aplicar a Legislação referente aos direitos dos usuários; 
+- Identificar e aplicar princípios e normas de conservação de recursos não renováveis e de preservação do meio ambiente;
 
-- Identificar e aplicar princípios e normas de conservação de recursos não renováveis e de preservação do meio ambiente; 
+- Aplicar princípios ergonômicos na realização do trabalho;
 
-- Aplicar princípios ergonômicos na realização do trabalho; 
+- Avaliar riscos iatrogênicos ao executar procedimentos técnicos;
 
-- Avaliar riscos iatrogênicos ao executar procedimentos técnicos; 
+- Interpretar e aplicar normas do exercício profissional e princípios éticos que regem a conduta do profissional de saúde;
 
-- Interpretar e aplicar normas do exercício profissional e princípios éticos que regem a conduta do profissional de saúde; 
+- Identificar e avaliar rotinas, protocolos de trabalho, instalações e equipamentos;
 
-- Identificar e avaliar rotinas, protocolos de trabalho, instalações e equipamentos; 
+- Operar equipamentos próprios do campo de atuação, zelando pela sua manutenção;
 
-- Operar equipamentos próprios do campo de atuação, zelando pela sua manutenção; 
+- Registrar ocorrências e serviços prestados de acordo com as exigências do campo de atuação;
 
-- Registrar ocorrências e serviços prestados de acordo com as exigências do campo de atuação; 
+- Prestar informações ao cliente/paciente, ao sistema de saúde e aos outros profissionais sobre os serviços que tenham sido prestados;
 
-- Prestar informações ao cliente/paciente, ao sistema de saúde e aos outros profissionais sobre os serviços que tenham sido prestados; 
+- Orientar clientes/pacientes a assumirem, com autonomia, a própria saúde;
 
-- Orientar clientes/pacientes a assumirem, com autonomia, a própria saúde; 
+- Coletar e organizar dados relativos ao campo de atuação;
 
-- Coletar e organizar dados relativos ao campo de atuação; 
+- Utilizar recursos e ferramentas de informática específicos da área; e
 
-- Utilizar recursos e ferramentas de informática específicos da área; e 
+- Realizar os procedimentos de primeiros socorros em situações de emergências.
 
-- Realizar os procedimentos de primeiros socorros em situações de emergências. 
+## **3.4 Critérios de Avaliação de Aprendizagem**
 
-## **3.4 Critérios de Avaliação de Aprendizagem** 
+A avaliação é entendida como um dos aspectos do ensino pelo qual o professor estuda e interpreta os dados da aprendizagem e de seu próprio trabalho com as finalidades de acompanhar e aperfeiçoar o processo de aprendizagem dos
 
-A avaliação é entendida como um dos aspectos do ensino pelo qual o professor estuda e interpreta os dados da aprendizagem e de seu próprio trabalho com as finalidades de acompanhar e aperfeiçoar o processo de aprendizagem dos 
+15
 
-15 
+estudantes, bem como diagnosticar resultados e desempenho em diferentes situações de ensino e aprendizagem.
 
-estudantes, bem como diagnosticar resultados e desempenho em diferentes situações de ensino e aprendizagem. 
+Em acordo com a Lei de Diretrizes e Bases da Educação (LDB 9.394/96) preponderarão os aspectos qualitativos da aprendizagem considerando a interdisciplinaridade e a multidisciplinaridade dos conteúdos, com relevância à atividade crítica, à capacidade de síntese e à elaboração sobre a memorização, num processo de avaliação contínua, permanente e cumulativa.
 
-Em acordo com a Lei de Diretrizes e Bases da Educação (LDB 9.394/96) preponderarão os aspectos qualitativos da aprendizagem considerando a interdisciplinaridade e a multidisciplinaridade dos conteúdos, com relevância à atividade crítica, à capacidade de síntese e à elaboração sobre a memorização, num processo de avaliação contínua, permanente e cumulativa. 
+O processo de avaliação é permeado de várias conotações e intenções no cotidiano das pessoas e faculta múltiplas possibilidades e contribuições na efetivação do processo de ensino e aprendizagem. Para avaliar, há sempre que se considerar: o que está sendo avaliado, como está sendo avaliado e porque e para que está sendo avaliado. Da mesma maneira há que se ter a clareza de que a avaliação do processo de ensino e aprendizagem envolve: os docentes, a instituição, o discente e a sociedade. Sendo um processo dinâmico ele não acontece em um vazio e nem de forma estanque. Nessa concepção, o estudante é agente ativo do seu processo educativo.
 
-O processo de avaliação é permeado de várias conotações e intenções no cotidiano das pessoas e faculta múltiplas possibilidades e contribuições na efetivação do processo de ensino e aprendizagem. Para avaliar, há sempre que se considerar: o que está sendo avaliado, como está sendo avaliado e porque e para que está sendo avaliado. Da mesma maneira há que se ter a clareza de que a avaliação do processo de ensino e aprendizagem envolve: os docentes, a instituição, o discente e a sociedade. Sendo um processo dinâmico ele não acontece em um vazio e nem de forma estanque. Nessa concepção, o estudante é agente ativo do seu processo educativo. 
+A avaliação da aprendizagem não tem como objetivo punir, mas levar o estudante a desenvolver o autoconhecimento e a tomada de decisão. Ela tem a finalidade de aperfeiçoamento do ensino e da aprendizagem em busca de resultados positivos  permitindo  a construção e reconstrução  do aprender/ avaliar/reaprender. Com isso, contribui com o sucessivo aprimoramento do estudante e do docente.
 
-A avaliação da aprendizagem não tem como objetivo punir, mas levar o estudante a desenvolver o autoconhecimento e a tomada de decisão. Ela tem a finalidade de aperfeiçoamento do ensino e da aprendizagem em busca de resultados positivos  permitindo  a construção e reconstrução  do aprender/ avaliar/reaprender. Com isso, contribui com o sucessivo aprimoramento do estudante e do docente. 
+O Curso Técnico em Massoterapia do Instituto Federal do Paraná, Campus Londrina, segue a Portaria nº 120 de 06.08.2009 que Estabelece os Critérios de Avaliação do Processo Ensino Aprendizagem do IFPR.
 
-O Curso Técnico em Massoterapia do Instituto Federal do Paraná, Campus Londrina, segue a Portaria nº 120 de 06.08.2009 que Estabelece os Critérios de Avaliação do Processo Ensino Aprendizagem do IFPR. 
+Desta forma, os estudantes do Curso Técnico em Massoterapia serão avaliados de forma processual considerando as competências observadas no desempenho das ações estabelecidas nesse currículo. Os métodos de avaliação deverão ser selecionados para o tipo de desempenho a avaliar; utilizar mais de um recurso (mesclar métodos) para ampliar as condições de inferência da competência do estudante; utilizar métodos holísticos ou integrados (combinação de conhecimento, compreensão, resolução de problemas, habilidades técnicas, atitudes e ética).
 
-Desta forma, os estudantes do Curso Técnico em Massoterapia serão avaliados de forma processual considerando as competências observadas no desempenho das ações estabelecidas nesse currículo. Os métodos de avaliação deverão ser selecionados para o tipo de desempenho a avaliar; utilizar mais de um recurso (mesclar métodos) para ampliar as condições de inferência da competência do estudante; utilizar métodos holísticos ou integrados (combinação de conhecimento, compreensão, resolução de problemas, habilidades técnicas, atitudes e ética). 
+16
 
-16 
+Para atender ao proposto os professores lançarão mão dos instrumentos:
 
-Para atender ao proposto os professores lançarão mão dos instrumentos: 
+- Seminários;
 
-- Seminários; 
+- Trabalho individual e/ou em grupo;
 
-- Trabalho individual e/ou em grupo; 
+- Demonstração de técnicas em laboratório;
 
-- Demonstração de técnicas em laboratório; 
+- Teste escrito e/ou oral e/ou prático;
 
-- Teste escrito e/ou oral e/ou prático; 
+- Auto-avaliação.
 
-- Auto-avaliação. 
+No caso das práticas diretas em cliente, desempenhadas por meio de práticas profissionais supervisionadas, o estudante poderá ainda ser avaliado através das seguintes atitudes por meio da observação direta do professor:
 
-No caso das práticas diretas em cliente, desempenhadas por meio de práticas profissionais supervisionadas, o estudante poderá ainda ser avaliado através das seguintes atitudes por meio da observação direta do professor: 
+- Ética;
 
-- Ética; 
+- Prontidão;
 
-- Prontidão; 
+- Iniciativa;
 
-- Iniciativa; 
+- Relação interpessoal;
 
-- Relação interpessoal; 
+- Valorização do ser humano (humanização na prestação da assistência);
 
-- Valorização do ser humano (humanização na prestação da assistência); 
+- Assiduidade;
 
-- Assiduidade; 
+- Solidariedade com a equipe e outros.
 
-- Solidariedade com a equipe e outros. 
+A avaliação por competências será caracterizada por:
 
-A avaliação por competências será caracterizada por: 
+- Centrar nas evidências de desempenho profissional demonstradas em situações mais próximas possíveis daquelas que os estudantes poderão enfrentar na realidade;
 
-- Centrar nas evidências de desempenho profissional demonstradas em situações mais próximas possíveis daquelas que os estudantes poderão enfrentar na realidade; 
+- Realizar no cotidiano do processo de ensino;
 
-- Realizar no cotidiano do processo de ensino; 
+- Ocorrer de forma individualizada.
 
-- Ocorrer de forma individualizada. 
+Assim, a concepção de avaliação que poderá atender à proposta de avaliar por competência é a de processo e não de fim e não está centrada em um conceito, mas em um conjunto de resultados considerados dentro de um contexto. Ela permite o aproximar e o reaproximar do objeto avaliado tantas vezes quantas forem necessárias para que o estudante desenvolva as competências/habilidades esperadas.
 
-Assim, a concepção de avaliação que poderá atender à proposta de avaliar por competência é a de processo e não de fim e não está centrada em um conceito, mas em um conjunto de resultados considerados dentro de um contexto. Ela permite o aproximar e o reaproximar do objeto avaliado tantas vezes quantas forem necessárias para que o estudante desenvolva as competências/habilidades esperadas. 
+17
 
-17 
+Os resultados obtidos no processo de avaliação serão emitidos por componente curricular, devendo ser expressos por conceitos, sendo:
 
-Os resultados obtidos no processo de avaliação serão emitidos por componente curricular, devendo ser expressos por conceitos, sendo: 
+- Conceito A – quando a aprendizagem do estudante foi plena e atingiu os objetivos propostos;
 
-- Conceito A – quando a aprendizagem do estudante foi plena e atingiu os objetivos propostos; 
+- Conceito B – quando a aprendizagem do estudante foi parcialmente plena e atingiu níveis desejáveis aos objetivos propostos;
 
-- Conceito B – quando a aprendizagem do estudante foi parcialmente plena e atingiu níveis desejáveis aos objetivos propostos; 
+- Conceito C – quando a aprendizagem do estudante foi suficiente e atingiu níveis aceitáveis aos objetivos propostos, sem comprometimento à continuidade; e,
 
-- Conceito C – quando a aprendizagem do estudante foi suficiente e atingiu níveis aceitáveis aos objetivos propostos, sem comprometimento à continuidade; e, 
+- Conceito D – quando a aprendizagem do estudante foi insuficiente e não atingiu os objetivos propostos, comprometendo ou inviabilizando o desenvolvimento dos processos de ensino e aprendizagem.
 
-- Conceito D – quando a aprendizagem do estudante foi insuficiente e não atingiu os objetivos propostos, comprometendo ou inviabilizando o desenvolvimento dos processos de ensino e aprendizagem. 
+Critérios norteadores do processo de avaliação de ensino-aprendizagem:
 
-Critérios norteadores do processo de avaliação de ensino-aprendizagem: 
+- Identificação do problema: atividade em que o estudante toma conhecimento do problema analisa e conclui quanto ao que está solicitado, quanto ao que é necessário fazer para a sua superação;
 
-- Identificação do problema: atividade em que o estudante toma conhecimento do problema analisa e conclui quanto ao que está solicitado, quanto ao que é necessário fazer para a sua superação; 
+- Elaboração de hipóteses: após análise da situação, o estudante formula caminhos possíveis para a solução pretendida;
 
-- Elaboração de hipóteses: após análise da situação, o estudante formula caminhos possíveis para a solução pretendida; 
+- Encaminhamento de soluções: a partir das hipóteses formuladas e dos seus ensaios, concluir sobre a solução que pareça mais adequada;
 
-- Encaminhamento de soluções: a partir das hipóteses formuladas e dos seus ensaios, concluir sobre a solução que pareça mais adequada; 
+- Comunicação escrita e/ou oral: habilidade discente de articulação, fundamentação, clareza e objetividade de ideias;
 
-- Comunicação escrita e/ou oral: habilidade discente de articulação, fundamentação, clareza e objetividade de ideias; 
+- Interesse/dedicação: atitude discente primeira e indispensável para o estudante que tem a intenção de construir um conhecimento determinado;
 
-- Interesse/dedicação: atitude discente primeira e indispensável para o estudante que tem a intenção de construir um conhecimento determinado; 
+   - **Indicadores da dedicação:** atenção e/ou concentração e esforço
 
-   - **Indicadores da dedicação:** atenção e/ou concentração e esforço 
+   - para acompanhar as atividades de aula, esclarecendo dúvidas, complementando, exemplificando.
 
-   - para acompanhar as atividades de aula, esclarecendo dúvidas, complementando, exemplificando. 
+- Participação: conduta discente ativa, como sujeito de reconstrução do conhecimento;
 
-- Participação: conduta discente ativa, como sujeito de reconstrução do conhecimento; 
+18
 
-18 
+   - **Indicadores da participação:** registro das ideias desenvolvidas e/ou cumprimento das tarefas e/ou intervenções deduzidas e/ou questionamentos fundamentos;
 
-   - **Indicadores da participação:** registro das ideias desenvolvidas e/ou cumprimento das tarefas e/ou intervenções deduzidas e/ou questionamentos fundamentos; 
+- Pontualidade: atitude discente reveladora de compromisso com as responsabilidades escolares;
 
-- Pontualidade: atitude discente reveladora de compromisso com as responsabilidades escolares; 
+   - **Indicadores da Pontualidade:** cumprimento dos horários e/ou tarefas propostas;
 
-   - **Indicadores da Pontualidade:** cumprimento dos horários e/ou tarefas propostas; 
+- Solidariedade: conduta discente de atenção ao próximo e de preocupação coletiva, socialização de informações experiências e conhecimentos que possam beneficiar o grupo;
 
-- Solidariedade: conduta discente de atenção ao próximo e de preocupação coletiva, socialização de informações experiências e conhecimentos que possam beneficiar o grupo; 
+   - **Indicadores da solidariedade:** disposição de partilhar
 
-   - **Indicadores da solidariedade:** disposição de partilhar 
+   - conhecimentos já construídos e/ou disposição de acompanhar e orientar o desempenho escolar do companheiro.
 
-   - conhecimentos já construídos e/ou disposição de acompanhar e orientar o desempenho escolar do companheiro. 
+São requisitos para aprovação em aulas práticas e prática profissional:
 
-São requisitos para aprovação em aulas práticas e prática profissional: 
+- Obtenção dos conceitos A, B e C, no conjunto das atividades definidas no Plano de Ensino;
 
-- Obtenção dos conceitos A, B e C, no conjunto das atividades definidas no Plano de Ensino; 
+- Frequência igual ou superior a setenta e cinco por cento (75%). * Obs.: O estudante, cujo aproveitamento em processos avaliativos for insuficiente, será submetido à recuperação de estudos de forma paralela ao período letivo.
 
-- Frequência igual ou superior a setenta e cinco por cento (75%). * Obs.: O estudante, cujo aproveitamento em processos avaliativos for insuficiente, será submetido à recuperação de estudos de forma paralela ao período letivo. 
+O planejamento do processo de recuperação paralela da aprendizagem - conforme nota do CNE/CEB de 09 de setembro de 2013 - é de responsabilidade do professor do componente curricular cujo conteúdo precisa ser recuperado pelo estudante. Deve envolver a identificação das dificuldades apresentadas pelos alunos, a fim de que sejam selecionados os objetivos e as atividades que serão realizadas com o intuito de promover a aprendizagem dos mesmos. No processo de recuperação paralela da aprendizagem, o professor oportunizará atividades diversificadas, tais como roteiro de estudos, assessoria pedagógica (do professor em hora de atendimento ao estudante), participação nos projetos de reforço e/ ou entre outras atividades que o professor sugerir com avaliação ao final.
 
-O planejamento do processo de recuperação paralela da aprendizagem - conforme nota do CNE/CEB de 09 de setembro de 2013 - é de responsabilidade do professor do componente curricular cujo conteúdo precisa ser recuperado pelo estudante. Deve envolver a identificação das dificuldades apresentadas pelos alunos, a fim de que sejam selecionados os objetivos e as atividades que serão realizadas com o intuito de promover a aprendizagem dos mesmos. No processo de recuperação paralela da aprendizagem, o professor oportunizará atividades diversificadas, tais como roteiro de estudos, assessoria pedagógica (do professor em hora de atendimento ao estudante), participação nos projetos de reforço e/ ou entre outras atividades que o professor sugerir com avaliação ao final. 
+Segundo a Lei de Diretrizes e Bases da Educação 9394/96 e a Nota do CNE/CEB de 09 de setembro de 2013, quando se trata de conteúdo é sabido que os
 
-Segundo a Lei de Diretrizes e Bases da Educação 9394/96 e a Nota do CNE/CEB de 09 de setembro de 2013, quando se trata de conteúdo é sabido que os 
+19
 
-19 
+atos de aprender e ensinar implicam conteúdos formalizados em processos pedagógico-didáticos e que o processo de avaliação e reavaliação dos estudos de recuperação serve a uma totalidade, isto é, ao pleno desenvolvimento dos estudantes tidos como, temporalmente, “de baixo rendimento”.
 
-atos de aprender e ensinar implicam conteúdos formalizados em processos pedagógico-didáticos e que o processo de avaliação e reavaliação dos estudos de recuperação serve a uma totalidade, isto é, ao pleno desenvolvimento dos estudantes tidos como, temporalmente, “de baixo rendimento”. 
+O tempo destinado a estudos de recuperação paralela não será computado na carga horária mínima do componente curricular, por não se tratar de atividade a que todos os alunos estão obrigados. Caberá ao docente responsável identificar os conteúdos a serem recuperados e programar tal recuperação com o estudante em horário de atendimento específico e carga horária pertinente ao conteúdo a ser desenvolvido. Da recuperação decorrerá a revisão dos resultados anteriormente anotados nos registros escolares.
 
-O tempo destinado a estudos de recuperação paralela não será computado na carga horária mínima do componente curricular, por não se tratar de atividade a que todos os alunos estão obrigados. Caberá ao docente responsável identificar os conteúdos a serem recuperados e programar tal recuperação com o estudante em horário de atendimento específico e carga horária pertinente ao conteúdo a ser desenvolvido. Da recuperação decorrerá a revisão dos resultados anteriormente anotados nos registros escolares. 
+Segundo a Resolução nº 54/2011- CONSUP/IFPR, o estudante será considerado reprovado quando não atingir o conceito igual ou superior a C e/ou frequência igual ou superior a 75% da carga horária total do período letivo, e ficará em dependência nessa unidade/área, podendo avançar para o semestre ou série seguinte. Terá direito a progressão parcial o estudante que obtiver no máximo três (03) reprovações pendentes em componentes curriculares distintos, caso o estudante ultrapasse este limite deverá matricular-se somente nestes componentes. A dependência ficará sob a responsabilidade dos professores, cabendo ao estudante matricular-se em turmas regulares ou especiais abertas para este fim.
 
-Segundo a Resolução nº 54/2011- CONSUP/IFPR, o estudante será considerado reprovado quando não atingir o conceito igual ou superior a C e/ou frequência igual ou superior a 75% da carga horária total do período letivo, e ficará em dependência nessa unidade/área, podendo avançar para o semestre ou série seguinte. Terá direito a progressão parcial o estudante que obtiver no máximo três (03) reprovações pendentes em componentes curriculares distintos, caso o estudante ultrapasse este limite deverá matricular-se somente nestes componentes. A dependência ficará sob a responsabilidade dos professores, cabendo ao estudante matricular-se em turmas regulares ou especiais abertas para este fim. 
+Informações adicionais sobre avaliação, aprovação, reprovação, recuperação e regime de dependência constam na Portaria nº 120 de 06/08/2009 do IFPR.
 
-Informações adicionais sobre avaliação, aprovação, reprovação, recuperação e regime de dependência constam na Portaria nº 120 de 06/08/2009 do IFPR. 
+## **3.5 Critérios de Aproveitamento de Conhecimentos e Experiências Anteriores**
 
-## **3.5 Critérios de Aproveitamento de Conhecimentos e Experiências Anteriores** 
+As competências anteriormente desenvolvidas pelos estudantes, relacionadas com o perfil de conclusão do Curso Técnico em Massoterapia, poderão ser avaliadas para aproveitamento e certificação de estudos nos termos da legislação vigente.
 
-As competências anteriormente desenvolvidas pelos estudantes, relacionadas com o perfil de conclusão do Curso Técnico em Massoterapia, poderão ser avaliadas para aproveitamento e certificação de estudos nos termos da legislação vigente. 
+De acordo com a LDB 9394/96 e a Resolução CNE/CEB n° 06/12, o conhecimento adquirido na educação profissional e tecnológica, inclusive no trabalho, poderá ser objeto de avaliação, reconhecimento e certificação para
 
-De acordo com a LDB 9394/96 e a Resolução CNE/CEB n° 06/12, o conhecimento adquirido na educação profissional e tecnológica, inclusive no trabalho, poderá ser objeto de avaliação, reconhecimento e certificação para 
+20
 
-20 
+prosseguimento ou conclusão de estudos. Entende-se por certificação e aproveitamento, os saberes anteriormente adquiridos e desenvolvidos no itinerário educacional, profissional e de vida. Estes deverão dispensar a frequência em um ou mais Componentes Curriculares do Curso Técnico em Massoterapia desde que o estudante comprove o saber por meio de aprovação em avaliação realizada pelo colegiado do curso, ou especificamente, por professores da área de conhecimento correspondente.
 
-prosseguimento ou conclusão de estudos. Entende-se por certificação e aproveitamento, os saberes anteriormente adquiridos e desenvolvidos no itinerário educacional, profissional e de vida. Estes deverão dispensar a frequência em um ou mais Componentes Curriculares do Curso Técnico em Massoterapia desde que o estudante comprove o saber por meio de aprovação em avaliação realizada pelo colegiado do curso, ou especificamente, por professores da área de conhecimento correspondente. 
+## **3.5.1 Aproveitamento de Estudos Anteriores**
 
-## **3.5.1 Aproveitamento de Estudos Anteriores** 
+Em acordo com a Resolução 54/2011, que dispõe sobre a Organização Didático-Pedagógica da Educação Profissional Técnica de Nível Médio e Formação Inicial e Continuada de Trabalhadores no âmbito do Instituto Federal do Paraná – IFPR, o aproveitamento de estudos anteriores compreende o processo de aproveitamento de componentes curriculares cursados com êxito em outro curso.
 
-Em acordo com a Resolução 54/2011, que dispõe sobre a Organização Didático-Pedagógica da Educação Profissional Técnica de Nível Médio e Formação Inicial e Continuada de Trabalhadores no âmbito do Instituto Federal do Paraná – IFPR, o aproveitamento de estudos anteriores compreende o processo de aproveitamento de componentes curriculares cursados com êxito em outro curso. 
+Nos cursos Subsequentes e Concomitantes, o aproveitamento de estudos anteriores compreende a possibilidade de aproveitamento de componentes curriculares cursados em outro curso de educação profissional técnica de nível médio, quando solicitado pelo estudante. Desta forma, fica vedado o aproveitamento de estudos entre níveis de ensino diferentes.
 
-Nos cursos Subsequentes e Concomitantes, o aproveitamento de estudos anteriores compreende a possibilidade de aproveitamento de componentes curriculares cursados em outro curso de educação profissional técnica de nível médio, quando solicitado pelo estudante. Desta forma, fica vedado o aproveitamento de estudos entre níveis de ensino diferentes. 
+São critérios para o aproveitamento de estudos anteriores:
 
-São critérios para o aproveitamento de estudos anteriores: 
+● correspondência entre ementas, programas e a carga horária cursados na outra instituição e as do curso ofertado pelo Instituto Federal do Paraná (IFPR). A carga horária cursada não deverá ser inferior a 75% daquela indicada na disciplina do curso do IFPR;
 
-● correspondência entre ementas, programas e a carga horária cursados na outra instituição e as do curso ofertado pelo Instituto Federal do Paraná (IFPR). A carga horária cursada não deverá ser inferior a 75% daquela indicada na disciplina do curso do IFPR; 
+● o processo de aproveitamento de estudos poderá envolver avaliação teórico e/ou prática acerca do conhecimento a ser aproveitado.
 
-● o processo de aproveitamento de estudos poderá envolver avaliação teórico e/ou prática acerca do conhecimento a ser aproveitado. 
+Os encaminhamentos para solicitação de aproveitamento de estudos anteriores devem seguir a Resolução 54/11 do Instituto Federal do Paraná – IFPR.
 
-Os encaminhamentos para solicitação de aproveitamento de estudos anteriores devem seguir a Resolução 54/11 do Instituto Federal do Paraná – IFPR. 
+21
 
-21 
+## **3.5.2 Da Certificação de Conhecimentos Anteriores**
 
-## **3.5.2 Da Certificação de Conhecimentos Anteriores** 
+A Resolução 54/2011 do Instituto Federal do Paraná – IFPR prevê que, de acordo com a LDB 9394/96 e a Resolução CNE/CEB nº 02/2012, o conhecimento adquirido na educação profissional e tecnológica, inclusive no trabalho, poderá ser objeto de avaliação, reconhecimento e certificação para prosseguimento ou conclusão de estudos.
 
-A Resolução 54/2011 do Instituto Federal do Paraná – IFPR prevê que, de acordo com a LDB 9394/96 e a Resolução CNE/CEB nº 02/2012, o conhecimento adquirido na educação profissional e tecnológica, inclusive no trabalho, poderá ser objeto de avaliação, reconhecimento e certificação para prosseguimento ou conclusão de estudos. 
+Entende-se por Certificação de Conhecimentos Anteriores a dispensa de frequência em componente curricular do curso do IFPR em que o estudante comprove excepcional domínio de conhecimento através da aprovação em avaliação.
 
-Entende-se por Certificação de Conhecimentos Anteriores a dispensa de frequência em componente curricular do curso do IFPR em que o estudante comprove excepcional domínio de conhecimento através da aprovação em avaliação. 
+A avaliação será realizada sob responsabilidade da comissão composta por professores da área de conhecimento correspondente designada pela Direção de Ensino, Pesquisa e Extensão do Campus Londrina envolvendo  procedimentos definidos pela comissão e previamente divulgados como: avaliações, entrevista, entre outros.
 
-A avaliação será realizada sob responsabilidade da comissão composta por professores da área de conhecimento correspondente designada pela Direção de Ensino, Pesquisa e Extensão do Campus Londrina envolvendo  procedimentos definidos pela comissão e previamente divulgados como: avaliações, entrevista, entre outros. 
+Não se aplica a certificação de conhecimentos anteriores para os componentes curriculares: Prática Científica em Massoterapia I, Prática Científica em Massoterapia, Prática Profissional das Técnicas Massoterapêuticas I e Prática Profissional das Técnicas Massoterapêuticas II, bem como para o Trabalho de Conclusão de Curso (TCC).
 
-Não se aplica a certificação de conhecimentos anteriores para os componentes curriculares: Prática Científica em Massoterapia I, Prática Científica em Massoterapia, Prática Profissional das Técnicas Massoterapêuticas I e Prática Profissional das Técnicas Massoterapêuticas II, bem como para o Trabalho de Conclusão de Curso (TCC). 
+A Certificação de Conhecimentos, além dos critérios estabelecidos neste PPC, deverá seguir a Resolução 54/2011 – IFPR.
 
-A Certificação de Conhecimentos, além dos critérios estabelecidos neste PPC, deverá seguir a Resolução 54/2011 – IFPR. 
+## **3.6 Instalações e Equipamentos, Recursos Tecnológicos e Biblioteca**
 
-## **3.6 Instalações e Equipamentos, Recursos Tecnológicos e Biblioteca** 
+De acordo com as recomendações do Catálogo Nacional de Cursos Técnicos, específico para Técnico em Massoterapia, a infraestrutura do Campus consta de:
 
-De acordo com as recomendações do Catálogo Nacional de Cursos Técnicos, específico para Técnico em Massoterapia, a infraestrutura do Campus consta de: 
+- Biblioteca com acervo específico e atualizado;
 
-- Biblioteca com acervo específico e atualizado; 
+- Laboratório básico de anatomia humana;
 
-- Laboratório básico de anatomia humana; 
+- Laboratório de informática com programas específicos;
 
-- Laboratório de informática com programas específicos; 
+22
 
-22 
+- Laboratório de massoterapia.
 
-- Laboratório de massoterapia. 
+## **3.6.1 Instalações**
 
-## **3.6.1 Instalações** 
+O Instituto Federal do Paraná- Campus Londrina, para o Curso Técnico em Massoterapia, conta com:
 
-O Instituto Federal do Paraná- Campus Londrina, para o Curso Técnico em Massoterapia, conta com: 
+- Sala de Aula – 47,18 m2
 
-- Sala de Aula – 47,18 m2 
+- Sala Secretaria Acadêmica e Protocolo - 34,87 m2
 
-- Sala Secretaria Acadêmica e Protocolo - 34,87 m2 
+- Sala de Espera (grande) – 134,63 m2
 
-- Sala de Espera (grande) – 134,63 m2 
+- Espaço da cantina – 24,76 m2
 
-- Espaço da cantina – 24,76 m2 
+- Sanitários (masculino e feminino - com um anexo para deficientes)
 
-- Sanitários (masculino e feminino - com um anexo para deficientes) 
+- Laboratório de Massoterapia 1 – 154,60 m2
 
-- Laboratório de Massoterapia 1 – 154,60 m2 
+- Laboratório de Massoterapia 2 – 65,50 m2
 
-- Laboratório de Massoterapia 2 – 65,50 m2 
+- Sala auxiliar Laboratório Massoterapia 1 – 2,40 m2
 
-- Sala auxiliar Laboratório Massoterapia 1 – 2,40 m2 
+- Sala auxiliar Laboratório Massoterapia 2 – 2,40 m2
 
-- Sala auxiliar Laboratório Massoterapia 2 – 2,40 m2 
+- Laboratório de Informática  – 52,00 m2
 
-- Laboratório de Informática  – 52,00 m2 
+- Biblioteca – 72,60 m2
 
-- Biblioteca – 72,60 m2 
+## **3.6.2 Biblioteca**
 
-## **3.6.2 Biblioteca** 
+O acervo da biblioteca dispõe de exemplares de todas áreas da massoterapia estudadas no curso. E o mesmo está sempre sendo atualizado conforme disponibilidade de recursos. Além de possuir computadores com acesso à internet disponíveis para uso dos estudantes.
 
-O acervo da biblioteca dispõe de exemplares de todas áreas da massoterapia estudadas no curso. E o mesmo está sempre sendo atualizado conforme disponibilidade de recursos. Além de possuir computadores com acesso à internet disponíveis para uso dos estudantes. 
+## **3.6.3 Laboratório Básico de Anatomia Humana**
 
-## **3.6.3 Laboratório Básico de Anatomia Humana** 
+## **Modelos Anatômicos:**
 
-## **Modelos Anatômicos:** 
+- 05 colunas vertebrais;
 
-- 05 colunas vertebrais; 
+- 06 esqueletos;
 
-- 06 esqueletos; 
+- 09 articulações de joelho;
 
-- 09 articulações de joelho; 
+- 09 articulações de cotovelo;
 
-- 09 articulações de cotovelo; 
+- 01 modelo anatômico de ossos do membro inferior;
 
-- 01 modelo anatômico de ossos do membro inferior; 
+23
 
-23 
+- 09 cérebros;
 
-- 09 cérebros; 
+- 08 crânios;
 
-- 08 crânios; 
+- 14 corações;
 
-- 14 corações; 
+- 06 modelos anatômicos de alvéolos pulmonares;
 
-- 06 modelos anatômicos de alvéolos pulmonares; 
+- 02 laringes ampliadas;
 
-- 02 laringes ampliadas; 
+- 02 sistemas respiratórios;
 
-- 02 sistemas respiratórios; 
+- 03 modelos de corte de pele;
 
-- 03 modelos de corte de pele; 
+- 05 sistemas urinários;
 
-- 05 sistemas urinários; 
+- 02 úteros em gestação;
 
-- 02 úteros em gestação; 
+- 02 modelos de fases da gestação, desenvolvimento do feto;
 
-- 02 modelos de fases da gestação, desenvolvimento do feto; 
+- 03 pélvis masculinas;
 
-- 03 pélvis masculinas; 
+- 03 pélvis femininas;
 
-- 03 pélvis femininas; 
+- 03 modelos de torso bissexual (órgãos);
 
-- 03 modelos de torso bissexual (órgãos); 
+- 02 modelos de torso bissexual (nervos e vasos);
 
-- 02 modelos de torso bissexual (nervos e vasos); 
+- 09 modelos de torso unissex, desmontáveis, com órgãos internos;
 
-- 09 modelos de torso unissex, desmontáveis, com órgãos internos; 
+- 08 quadros de sistema nervoso;
 
-- 08 quadros de sistema nervoso; 
+- 01 hemicrânio com músculos;
 
-- 01 hemicrânio com músculos; 
+- 01 modelo de coluna cervical;
 
-- 01 modelo de coluna cervical; 
+- 01 modelo de torso feminino pequeno, desmontável;
 
-- 01 modelo de torso feminino pequeno, desmontável; 
+- 01 modelo de ossos do pé;
 
-- 01 modelo de ossos do pé; 
+- 01 modelo anatômico musculado do membro inferior;
 
-- 01 modelo anatômico musculado do membro inferior; 
+- 01 modelo anatômico musculado do membro superior;
 
-- 01 modelo anatômico musculado do membro superior; 
+- 02 modelos de células;
 
-- 02 modelos de células; 
+- 10 modelos de dentição adulta;
 
-- 10 modelos de dentição adulta; 
+- 10 modelos de dentição infantil;
 
-- 10 modelos de dentição infantil; 
+- 01 pôster sistema muscular;
 
-- 01 pôster sistema muscular; 
+- 01 pôster sistema esquelético.
 
-- 01 pôster sistema esquelético. 
+## **3.6.4 Laboratório de Informática**
 
-## **3.6.4 Laboratório de Informática** 
+24
 
-24 
+O Curso Técnico em Massoterapia utiliza o laboratório de informática localizado na unidade Dom Bosco com 30 computadores disponíveis. Este espaço é utilizado para aulas com práticas de pesquisa científica.
 
-O Curso Técnico em Massoterapia utiliza o laboratório de informática localizado na unidade Dom Bosco com 30 computadores disponíveis. Este espaço é utilizado para aulas com práticas de pesquisa científica. 
+## 3.6.5 **Materiais e equipamentos disponíveis napne campus londrina**
 
-## 3.6.5 **Materiais e equipamentos disponíveis napne campus londrina** 
+- 01 Bola com guizo  01 Kit de lupa com manual  01 Kit de material escrita  01 Memória tátil  01 Alfabeto móvel e sílabas  01 Dominó tátil  01 Tesoura adaptável  01 Caixa com números  01 Caixa tátil em madeira  01 Material dourado  01 Quebra cabeça de peças plásticas  01 Alfabeto em braile  01 Tapete alfabeto  01 Jogo de memória numerais  01 Quebra cabeça de sequência lógica  01 Dominó de associação de ideias  01 Esquema corporal  01 Plano inclinado  05 Fone de ouvido com microfone, tipo headset, marca Hardline, modelo VIA - 750
 
-- 01 Bola com guizo  01 Kit de lupa com manual  01 Kit de material escrita  01 Memória tátil  01 Alfabeto móvel e sílabas  01 Dominó tátil  01 Tesoura adaptável  01 Caixa com números  01 Caixa tátil em madeira  01 Material dourado  01 Quebra cabeça de peças plásticas  01 Alfabeto em braile  01 Tapete alfabeto  01 Jogo de memória numerais  01 Quebra cabeça de sequência lógica  01 Dominó de associação de ideias  01 Esquema corporal  01 Plano inclinado  05 Fone de ouvido com microfone, tipo headset, marca Hardline, modelo VIA - 750 
+-  01 Lupa eletrônica, marca Ruby, modelo XL HD  01 Scanner de voz – para Deficiência Visual  01 Notebook com recursos de acessibilidade para Deficiência Visual  02 Teclados para baixa visão  02 Lupas simples para baixa visão  01 Impressora Braile
 
--  01 Lupa eletrônica, marca Ruby, modelo XL HD  01 Scanner de voz – para Deficiência Visual  01 Notebook com recursos de acessibilidade para Deficiência Visual  02 Teclados para baixa visão  02 Lupas simples para baixa visão  01 Impressora Braile 
+## **3.6.6 Laboratório de Massoterapia**
 
-## **3.6.6 Laboratório de Massoterapia** 
+O Laboratório de Massoterapia possui número de equipamentos suficientes para suas práticas atuais, alguns materiais já se encontram em licitação e aquisição, desta forma, no presente momento não há o que solicitar. Abaixo a relação de equipamentos e materiais do Curso:
 
-O Laboratório de Massoterapia possui número de equipamentos suficientes para suas práticas atuais, alguns materiais já se encontram em licitação e aquisição, desta forma, no presente momento não há o que solicitar. Abaixo a relação de equipamentos e materiais do Curso: 
+25
 
-25 
+## **Equipamentos:**
 
-## **Equipamentos:** 
+- 21 macas fixas;
 
-- 21 macas fixas; 
+- 25 macas portáteis;
 
-- 25 macas portáteis; 
+- 29 escadas com 2 degraus;
 
-- 29 escadas com 2 degraus; 
+- 20 Carrinhos auxiliares;
 
-- 20 Carrinhos auxiliares; 
+- 29 mochos com rodas;
 
-- 29 mochos com rodas; 
+- 12 biombos triplos de inox;
 
-- 12 biombos triplos de inox; 
+- 1 biombo branco;
 
-- 1 biombo branco; 
+- 30 cadeiras de massagem;
 
-- 30 cadeiras de massagem; 
+- 19 colchonetes de EVA (185 x 100 x 10cm);
 
-- 19 colchonetes de EVA (185 x 100 x 10cm); 
+- 40 colchonetes de espuma (100X50cm);
 
-- 40 colchonetes de espuma (100X50cm); 
+- 15 rolos de posicionamento (40 x 15cm);
 
-- 15 rolos de posicionamento (40 x 15cm); 
+- 15 cunhas médias;
 
-- 15 cunhas médias; 
+- 15 bacias hidromassageadoras;
 
-- 15 bacias hidromassageadoras; 
+- 01 aparelho de som (marca Toshiba);
 
-- 01 aparelho de som (marca Toshiba); 
+- 02 aparelhos de som portáteis;
 
-- 02 aparelhos de som portáteis; 
+- 03 armários de escritório com 02 portas;
 
-- 03 armários de escritório com 02 portas; 
+- 02 arquivos de aço com 04 gavetas;
 
-- 02 arquivos de aço com 04 gavetas; 
+- 02 mesas de escritório;
 
-- 02 mesas de escritório; 
+- 02 cadeiras giratórias com rodas;
 
-- 02 cadeiras giratórias com rodas; 
+- 02 aparelhos de ar condicionado (marca Gree);
 
-- 02 aparelhos de ar condicionado (marca Gree); 
+- 01 lousa interativa digital;
 
-- 01 lousa interativa digital; 
+- 01 quadro branco;
 
-- 01 quadro branco; 
+- 01 projetor multimídia (marca Neck);
 
-- 01 projetor multimídia (marca Neck); 
+- 15 estetoscópios (marca Solidor);
 
-- 15 estetoscópios (marca Solidor); 
+- 07 termômetros digitais (marca Termo Med);
 
-- 07 termômetros digitais (marca Termo Med); 
+- 03 Estadiômetros;
 
-- 03 Estadiômetros; 
+- 03 Equipamentos de Bioimpedância;
 
-- 03 Equipamentos de Bioimpedância; 
+- 01 balança;
 
-- 01 balança; 
+- 03 Gaveteiros Móvel;
 
-- 03 Gaveteiros Móvel; 
+- 03 Armários Vestiário de 20 Portas.
 
-- 03 Armários Vestiário de 20 Portas. 
+26
 
-26 
+## **Material de consumo:**
 
-## **Material de consumo:** 
+- Álcool líquido 70%;
 
-- Álcool líquido 70%; 
+- Álcool em gel 70%;
 
-- Álcool em gel 70%; 
+- Sabão líquido;
 
-- Sabão líquido; 
+- Papel Toalha.
 
-- Papel Toalha. 
+## **Materiais solicitados aos estudantes para uso individual:**
 
-## **Materiais solicitados aos estudantes para uso individual:** 
+- Borrifadores para álcool;
 
-- Borrifadores para álcool; 
+- Cremes/óleos;
 
-- Cremes/óleos; 
+- Frascos para Cremes e Óleos;
 
-- Frascos para Cremes e Óleos; 
+- Lençóis descartáveis;
 
-- Lençóis descartáveis; 
+- Lençóis de tecido, fronha, travesseiro, toalha de banho e rosto;
 
-- Lençóis de tecido, fronha, travesseiro, toalha de banho e rosto; 
+- Lenço Umedecido;
 
-- Lenço Umedecido; 
+- Jaleco branco;
 
-- Jaleco branco; 
+- Toucas descartáveis;
 
-- Toucas descartáveis; 
+- Rolos de papéis para serem usados como lençóis.
 
-- Rolos de papéis para serem usados como lençóis. 
-
-## **3.7 - Pessoas Envolvidas – Docentes e Técnicos** 
+## **3.7 - Pessoas Envolvidas – Docentes e Técnicos**
 
 |**DOCENTES**|**DOCENTES**|**Formação**|**Formação**|**Regime de Trabalho**|
 |---|---|---|---|---|
@@ -686,9 +683,7 @@ O Laboratório de Massoterapia possui número de equipamentos suficientes para s
 |MarceloLupion Poleti||DiretorGeral||08:00 às18:00|
 |FernandoAccorsi||DiretordeEnsinoPesquisa||08:00 às18:00|
 
-
-
-27 
+27
 
 ||eExtensão||
 |---|---|---|
@@ -719,9 +714,7 @@ O Laboratório de Massoterapia possui número de equipamentos suficientes para s
 |RenataPachecoAbreu|Assistente social|08:00 às17:00|
 |Rogério de SantannaLima|Assistente de alunos|08:00 às17:00|
 
-
-
-28 
+28
 
 |Rosimeri Gomes dos<br>Santos|Assistente em<br>administração – chefe da<br>seção acadêmica|08:00 às 17:00|
 |---|---|---|
@@ -731,127 +724,125 @@ O Laboratório de Massoterapia possui número de equipamentos suficientes para s
 |TheoTanus Salvadori|Assistente de alunos|08:00 às17:00|
 |Vanessa dos Santos|Auxiliarde biblioteca|08:00 às17:00|
 
+## **3.8 Descrição de Diplomas e Certificados a Serem Expedidos**
 
+Os estudantes que integralizarem todos os componentes curriculares com êxito, de acordo com as normas do Conselho Superior, receberão o Diploma de Técnico em Massoterapia, do Eixo Tecnológico Ambiente e Saúde pelo Instituto Federal do Paraná.
 
-## **3.8 Descrição de Diplomas e Certificados a Serem Expedidos** 
+Os históricos escolares que acompanham os diplomas devem explicitar os componentes curriculares cursados assim como as respectivas cargas horárias, frequências e conceitos de aproveitamento dos concluintes.
 
-Os estudantes que integralizarem todos os componentes curriculares com êxito, de acordo com as normas do Conselho Superior, receberão o Diploma de Técnico em Massoterapia, do Eixo Tecnológico Ambiente e Saúde pelo Instituto Federal do Paraná. 
+## **3.9 - Organização Curricular**
 
-Os históricos escolares que acompanham os diplomas devem explicitar os componentes curriculares cursados assim como as respectivas cargas horárias, frequências e conceitos de aproveitamento dos concluintes. 
+O curso Técnico em Massoterapia do IF Campus Londrina está estruturado em uma concepção de formação técnica que articula trabalho, cultura, ciência e tecnologia como princípios que sintetizem todo o processo formativo. As transformações no mundo do trabalho relacionadas às modificações nos modos de produção influenciam (determinam) as relações sociais e a cultura que configura diferentes grupos sociais a partir da dinâmica estabelecida entre as pessoas desta sociedade entre elas próprias e, a relação delas com o trabalho.
 
-## **3.9 - Organização Curricular** 
+As estratégias pedagógicas para a educação profissional tomam o trabalho como princípio educativo, entendem o homem em sua totalidade histórica, bem como, as diferentes contradições que o processo produtivo contemporâneo traz para a formação humana.
 
-O curso Técnico em Massoterapia do IF Campus Londrina está estruturado em uma concepção de formação técnica que articula trabalho, cultura, ciência e tecnologia como princípios que sintetizem todo o processo formativo. As transformações no mundo do trabalho relacionadas às modificações nos modos de produção influenciam (determinam) as relações sociais e a cultura que configura diferentes grupos sociais a partir da dinâmica estabelecida entre as pessoas desta sociedade entre elas próprias e, a relação delas com o trabalho. 
+29
 
-As estratégias pedagógicas para a educação profissional tomam o trabalho como princípio educativo, entendem o homem em sua totalidade histórica, bem como, as diferentes contradições que o processo produtivo contemporâneo traz para a formação humana. 
+O curso Técnico em Massoterapia do IF Campus Londrina tem como horizonte a universalização da educação de qualidade, aliada à formação para o mundo do trabalho, com atendimento específico aos educandos com trajetórias escolares descontínuas em que é fundamental considerar a heterogeneidade destes em relação aos saberes adquiridos, a idade e o tempo de afastamento dos estudos. Nesse sentido, os componentes curriculares dos cursos profissionalizantes devem estar integrados e articulados garantindo que os saberes científicos e tecnológicos sejam a base da formação técnica, ampliando as perspectivas do “fazer técnico” para que o estudante se compreenda como sujeito histórico que produz sua existência pela interação consciente com a realidade construindo valores, conhecimentos e cultura.
 
-29 
+O curso também está voltado para o desenvolvimento cognitivo, afetivoemocional, físico, social e profissional do educando e, para isto, existe um conjunto de atividades e experiências de diversas ordens, bem como, competências e habilidades inter-relacionadas para propiciar desenvolvimento esperado. Entre o conjunto de atividades estão: semana científica, eventos acadêmicos, feiras de profissões, aulas inaugurais, palestras, cursos livres, visitas e outras atividades extracurriculares.
 
-O curso Técnico em Massoterapia do IF Campus Londrina tem como horizonte a universalização da educação de qualidade, aliada à formação para o mundo do trabalho, com atendimento específico aos educandos com trajetórias escolares descontínuas em que é fundamental considerar a heterogeneidade destes em relação aos saberes adquiridos, a idade e o tempo de afastamento dos estudos. Nesse sentido, os componentes curriculares dos cursos profissionalizantes devem estar integrados e articulados garantindo que os saberes científicos e tecnológicos sejam a base da formação técnica, ampliando as perspectivas do “fazer técnico” para que o estudante se compreenda como sujeito histórico que produz sua existência pela interação consciente com a realidade construindo valores, conhecimentos e cultura. 
+Os eixos trabalho, cultura, ciência e tecnologia articulam toda ação pedagógica, proporcionam aos educandos, independente de sua origem, acesso e êxito numa escolarização unitária. Para tanto, as aulas teóricas são fundamentais aos processos de ensino e aprendizagem, pois permitem a construção do conhecimento a partir de constante elaboração e reelaboração de conceitos, entretanto não representam um fim para a efetivação do processo educativo que fundamentará a prática profissional.
 
-O curso também está voltado para o desenvolvimento cognitivo, afetivoemocional, físico, social e profissional do educando e, para isto, existe um conjunto de atividades e experiências de diversas ordens, bem como, competências e habilidades inter-relacionadas para propiciar desenvolvimento esperado. Entre o conjunto de atividades estão: semana científica, eventos acadêmicos, feiras de profissões, aulas inaugurais, palestras, cursos livres, visitas e outras atividades extracurriculares. 
+As aulas e atividades de ensino proporcionarão ao educando “experienciar” os conteúdos apreendidos. As estratégias pedagógicas estabelecem pontes entre conhecimentos gerais e conhecimentos específicos, caracterizando-se por açãoreflexão-ação, ou seja, a prática refletida por meio dos fundamentos teóricos. Levase em consideração o educando enquanto um ser ativo, portador de concepções, costumes, hábitos e de determinadas formas de pensar e agir sobre a realidade, construindo os conhecimentos progressivamente através de sua própria prática.
 
-Os eixos trabalho, cultura, ciência e tecnologia articulam toda ação pedagógica, proporcionam aos educandos, independente de sua origem, acesso e êxito numa escolarização unitária. Para tanto, as aulas teóricas são fundamentais aos processos de ensino e aprendizagem, pois permitem a construção do conhecimento a partir de constante elaboração e reelaboração de conceitos, entretanto não representam um fim para a efetivação do processo educativo que fundamentará a prática profissional. 
+30
 
-As aulas e atividades de ensino proporcionarão ao educando “experienciar” os conteúdos apreendidos. As estratégias pedagógicas estabelecem pontes entre conhecimentos gerais e conhecimentos específicos, caracterizando-se por açãoreflexão-ação, ou seja, a prática refletida por meio dos fundamentos teóricos. Levase em consideração o educando enquanto um ser ativo, portador de concepções, costumes, hábitos e de determinadas formas de pensar e agir sobre a realidade, construindo os conhecimentos progressivamente através de sua própria prática. 
+Vislumbra-se uma formação em que teoria e prática possibilitem aos educandos compreender a realidade, para além de sua aparência, na qual os conteúdos não têm fim em si mesmos e constituem-se em sínteses da apropriação histórica da realidade material e social pelo homem. As aulas práticas propiciam o desenvolvimento de conceitos científicos, além de permitir que os estudantes encontrem respostas e soluções às diversas situações e problemas que envolvem o cotidiano do profissional Massoterapeuta.
 
-30 
+Quando compreende um conteúdo trabalhado em sala de aula, o aluno amplia sua reflexão sobre os fenômenos que acontecem à sua volta e isso gera, por consequência, discussões, troca de informações e em torno destas, aprendizagem, pois a prática profissional caracteriza-se como um componente curricular que visa estabelecer uma integração entre todos os componentes curriculares oferecidos, com o intuito de promover uma inter-relação entre eles bem como oportunizar aos estudantes a aplicação dos conhecimentos teóricos, aprendidos em sala de aula, em situações de prática profissional.
 
-Vislumbra-se uma formação em que teoria e prática possibilitem aos educandos compreender a realidade, para além de sua aparência, na qual os conteúdos não têm fim em si mesmos e constituem-se em sínteses da apropriação histórica da realidade material e social pelo homem. As aulas práticas propiciam o desenvolvimento de conceitos científicos, além de permitir que os estudantes encontrem respostas e soluções às diversas situações e problemas que envolvem o cotidiano do profissional Massoterapeuta. 
+O trabalho e a cidadania são previstos como os principais contextos nos quais a capacidade de continuar aprendendo deve se aplicar, a fim de que o educando possa adaptar-se às condições em mudança na sociedade, especificamente no mundo das ocupações. O aprimoramento do educando como pessoa humana destaca a ética, a autonomia intelectual e o pensamento crítico. Em outras palavras, convoca à constituição de uma identidade autônoma. O principal objetivo do curso Técnico em Massoterapia do IF Campus Londrina é propiciar ao estudante a aquisição de experiência profissional prática no atendimento das diversas técnicas de massagem, induzindo o discente à perceber a importância de cada uma em sua formação como futuro Técnico em Massoterapia. Desta forma, possibilitar ao educando a aprendizagem e aplicação dos conhecimentos adquiridos na teoria por meio da realização de atividades de atendimento massoterapêutico nas suas diversas áreas de atuação, reduzindo o impacto da transição vida acadêmica/vida profissional.
 
-Quando compreende um conteúdo trabalhado em sala de aula, o aluno amplia sua reflexão sobre os fenômenos que acontecem à sua volta e isso gera, por consequência, discussões, troca de informações e em torno destas, aprendizagem, pois a prática profissional caracteriza-se como um componente curricular que visa estabelecer uma integração entre todos os componentes curriculares oferecidos, com o intuito de promover uma inter-relação entre eles bem como oportunizar aos estudantes a aplicação dos conhecimentos teóricos, aprendidos em sala de aula, em situações de prática profissional. 
+Para entrelaçar teoria e prática, de modo a entender como a prática, está ancorada na teoria (fundamentos científico-tecnológicos), é preciso que a escola seja uma experiência permanente de estabelecer relações entre o aprendido e o
 
-O trabalho e a cidadania são previstos como os principais contextos nos quais a capacidade de continuar aprendendo deve se aplicar, a fim de que o educando possa adaptar-se às condições em mudança na sociedade, especificamente no mundo das ocupações. O aprimoramento do educando como pessoa humana destaca a ética, a autonomia intelectual e o pensamento crítico. Em outras palavras, convoca à constituição de uma identidade autônoma. O principal objetivo do curso Técnico em Massoterapia do IF Campus Londrina é propiciar ao estudante a aquisição de experiência profissional prática no atendimento das diversas técnicas de massagem, induzindo o discente à perceber a importância de cada uma em sua formação como futuro Técnico em Massoterapia. Desta forma, possibilitar ao educando a aprendizagem e aplicação dos conhecimentos adquiridos na teoria por meio da realização de atividades de atendimento massoterapêutico nas suas diversas áreas de atuação, reduzindo o impacto da transição vida acadêmica/vida profissional. 
+31
 
-Para entrelaçar teoria e prática, de modo a entender como a prática, está ancorada na teoria (fundamentos científico-tecnológicos), é preciso que a escola seja uma experiência permanente de estabelecer relações entre o aprendido e o 
+observado, seja espontaneamente, no cotidiano em geral, seja sistematicamente no contexto específico de um trabalho e suas tarefas laborais. A Educação Profissional proposta pela LDB 9394/96 está comprometida com os resultados de aprendizagem, portanto, a prática profissional constitui e organiza o currículo, onde a formação de um profissional é capaz de inserir tal trabalhador no mundo globalizado, agindo e transformando, através da sua participação direta em situações reais de vivência e trabalho de seu meio ambiente.
 
-31 
+A prática profissional na formação técnica, por ser um conjunto de experiências é um momento de extrema importância. É o instante de organização do conhecimento, de seleção de ponto de vista, em que o estudante confronta seu saber com a realidade, não como um expectador acadêmico, mas como um profissional, ou seja, dentro de uma organização social concreta na qual tem um papel a desempenhar.
 
-observado, seja espontaneamente, no cotidiano em geral, seja sistematicamente no contexto específico de um trabalho e suas tarefas laborais. A Educação Profissional proposta pela LDB 9394/96 está comprometida com os resultados de aprendizagem, portanto, a prática profissional constitui e organiza o currículo, onde a formação de um profissional é capaz de inserir tal trabalhador no mundo globalizado, agindo e transformando, através da sua participação direta em situações reais de vivência e trabalho de seu meio ambiente. 
+O que distingue a Prática Profissional dos demais componentes curriculares em que a aula prática está presente é que esta se apresenta como o momento da inserção do aluno na realidade, da reflexão e da compreensão das relações de trabalho. Este exercício de inserção e distanciamento é que poderá prepará-lo para mais tarde, na vida profissional, atuar sobre a realidade buscando transformá-la.
 
-A prática profissional na formação técnica, por ser um conjunto de experiências é um momento de extrema importância. É o instante de organização do conhecimento, de seleção de ponto de vista, em que o estudante confronta seu saber com a realidade, não como um expectador acadêmico, mas como um profissional, ou seja, dentro de uma organização social concreta na qual tem um papel a desempenhar. 
+A Prática Profissional do técnico em massoterapia formado pelo IF Campus Londrina é realizada nas dependências da própria instituição e em locais externos conveniados e acontece somente sob condições apropriadas para a realização da prática e para que o processo de ensino e de aprendizagem atinja os objetivos almejados.
 
-O que distingue a Prática Profissional dos demais componentes curriculares em que a aula prática está presente é que esta se apresenta como o momento da inserção do aluno na realidade, da reflexão e da compreensão das relações de trabalho. Este exercício de inserção e distanciamento é que poderá prepará-lo para mais tarde, na vida profissional, atuar sobre a realidade buscando transformá-la. 
+A supervisão é realizada de forma direta, no período integral dos atendimentos, a fim de oferecer a devida assistência aos discentes. O número de estudantes deverá respeitar o limite de 5-10 por professor/local de prática profissional, para garantir excelência no ensino e no atendimento ao paciente. O Regulamento da Prática Profissional será apresentado no anexo 1.
 
-A Prática Profissional do técnico em massoterapia formado pelo IF Campus Londrina é realizada nas dependências da própria instituição e em locais externos conveniados e acontece somente sob condições apropriadas para a realização da prática e para que o processo de ensino e de aprendizagem atinja os objetivos almejados. 
+O Curso Técnico em Massoterapia, com seus elementos teóricos e práticos, atende ao disposto na Resolução CNE/CEB nº 06/2012 que estabelece as Diretrizes Curriculares Nacionais para a Educação Profissional Técnica de Nível Médio, com base nos princípios norteadores:
 
-A supervisão é realizada de forma direta, no período integral dos atendimentos, a fim de oferecer a devida assistência aos discentes. O número de estudantes deverá respeitar o limite de 5-10 por professor/local de prática profissional, para garantir excelência no ensino e no atendimento ao paciente. O Regulamento da Prática Profissional será apresentado no anexo 1. 
+32
 
-O Curso Técnico em Massoterapia, com seus elementos teóricos e práticos, atende ao disposto na Resolução CNE/CEB nº 06/2012 que estabelece as Diretrizes Curriculares Nacionais para a Educação Profissional Técnica de Nível Médio, com base nos princípios norteadores: 
+- Relação orgânica com formação geral do ensino médio na preparação para o exercício das profissões técnicas, visando à formação integral do estudante;
 
-32 
+- Respeito aos valores estéticos, políticos e éticos, na perspectiva do desenvolvimento de aptidões para a vida social e produtiva;
 
-- Relação orgânica com formação geral do ensino médio na preparação para o exercício das profissões técnicas, visando à formação integral do estudante; 
+- Integração entre educação e trabalho, ciência, tecnologia e cultura como base da proposta e do desenvolvimento curricular;
 
-- Respeito aos valores estéticos, políticos e éticos, na perspectiva do desenvolvimento de aptidões para a vida social e produtiva; 
+- Indissociabilidade entre educação e prática social, considerando-se a historicidade dos conhecimentos e dos sujeitos da aprendizagem;
 
-- Integração entre educação e trabalho, ciência, tecnologia e cultura como base da proposta e do desenvolvimento curricular; 
+- Integração de conhecimentos gerais e profissionais, na perspectiva da articulação entre saberes específicos, tendo a pesquisa como eixo nucleador da prática pedagógica;
 
-- Indissociabilidade entre educação e prática social, considerando-se a historicidade dos conhecimentos e dos sujeitos da aprendizagem; 
+- Trabalho e pesquisa, respectivamente, como princípios educativo e pedagógico;
 
-- Integração de conhecimentos gerais e profissionais, na perspectiva da articulação entre saberes específicos, tendo a pesquisa como eixo nucleador da prática pedagógica; 
+- Indissociabilidade entre teoria e prática no processo de ensinoaprendizagem;
 
-- Trabalho e pesquisa, respectivamente, como princípios educativo e pedagógico; 
+- Interdisciplinaridade que supere a fragmentação de conhecimentos e a segmentação da organização curricular disciplinar;
 
-- Indissociabilidade entre teoria e prática no processo de ensinoaprendizagem; 
+- Contextualização que assegure estratégias favoráveis à compreensão de significados e integrem a teoria à vivência da prática profissional;
 
-- Interdisciplinaridade que supere a fragmentação de conhecimentos e a segmentação da organização curricular disciplinar; 
+- Articulação com o desenvolvimento socioeconômico-ambiental dos territórios onde os cursos ocorrem, devendo observar os arranjos produtivos locais;
 
-- Contextualização que assegure estratégias favoráveis à compreensão de significados e integrem a teoria à vivência da prática profissional; 
+- Reconhecimento das diversidades dos sujeitos, inclusive de suas realidades étnico-culturais, como a dos negros, quilombolas, povos indígenas e populações do campo;
 
-- Articulação com o desenvolvimento socioeconômico-ambiental dos territórios onde os cursos ocorrem, devendo observar os arranjos produtivos locais; 
+- Reconhecimento das diversidades das formas de produção, dos processos de trabalho e das culturas a eles subjacentes, que estabelecem novos paradigmas;
 
-- Reconhecimento das diversidades dos sujeitos, inclusive de suas realidades étnico-culturais, como a dos negros, quilombolas, povos indígenas e populações do campo; 
+- Autonomia da instituição educacional na concepção, elaboração, execução, avaliação e revisão do seu projeto pedagógico, construído como instrumento de trabalho da comunidade educacional;
 
-- Reconhecimento das diversidades das formas de produção, dos processos de trabalho e das culturas a eles subjacentes, que estabelecem novos paradigmas; 
+33
 
-- Autonomia da instituição educacional na concepção, elaboração, execução, avaliação e revisão do seu projeto pedagógico, construído como instrumento de trabalho da comunidade educacional; 
+- Flexibilidade na construção de itinerários formativos diversificados e atualizados, segundo interesses dos sujeitos e possibilidades das instituições educacionais;
 
-33 
+- Identidade dos perfis profissionais de conclusão de curso, que contemplem competências profissionais, objetivando desempenho eficiente e eficaz de atividades requeridas pela natureza do trabalho, pelo desenvolvimento tecnológico e pelas demandas socioeconômico-ambientais, configurando o técnico a ser formado.
 
-- Flexibilidade na construção de itinerários formativos diversificados e atualizados, segundo interesses dos sujeitos e possibilidades das instituições educacionais; 
+O componente curricular Prática Profissional possibilita, ainda, a compreensão e a experienciação dos Temas Transversais: prevenção de todas as formas de violência contra a criança e o adolescente (Lei 8069/1990); educação alimentar e nutricional (Lei nº 11.947/2009); processo de envelhecimento, respeito e valorização ao idoso (Lei nº 10.741/2003); educação ambiental (Lei nº 9.795/1999 e Resolução CNE/CP 02/2012); educação para o trânsito (Lei nº 9.503/1997); educação em direitos humanos (Lei nº 7.037/2009 e Resolução CNE/CP 01/2012); e, relações étnico-raciais (Leis 10.639/2003 e 11.645/2008), que se tornam eixos articuladores do processo de aprendizagem.
 
-- Identidade dos perfis profissionais de conclusão de curso, que contemplem competências profissionais, objetivando desempenho eficiente e eficaz de atividades requeridas pela natureza do trabalho, pelo desenvolvimento tecnológico e pelas demandas socioeconômico-ambientais, configurando o técnico a ser formado. 
+Para garantir a completude do processo de ensino optou-se pela organização da carga horária de alguns componentes curriculares com atividades à distância, de acordo com Parágrafo Único do Art. 26 da Resolução 06/2012 – CNE e em conformidade com as orientações e plataforma de aprendizagem virtual utilizado pelo IFPR. Para tanto, em ocasião de oferta de componente curricular, será desenvolvida elaboração da proposta pelo Colegiado do Curso de Massoterapia do IF Campus Londrina. Caso o instituto não venha a desenvolver ou utilizar uma plataforma de aprendizagem virtual, essa carga horária será revertida em carga horária presencial, objetivando o aprendizado pleno do estudante.
 
-O componente curricular Prática Profissional possibilita, ainda, a compreensão e a experienciação dos Temas Transversais: prevenção de todas as formas de violência contra a criança e o adolescente (Lei 8069/1990); educação alimentar e nutricional (Lei nº 11.947/2009); processo de envelhecimento, respeito e valorização ao idoso (Lei nº 10.741/2003); educação ambiental (Lei nº 9.795/1999 e Resolução CNE/CP 02/2012); educação para o trânsito (Lei nº 9.503/1997); educação em direitos humanos (Lei nº 7.037/2009 e Resolução CNE/CP 01/2012); e, relações étnico-raciais (Leis 10.639/2003 e 11.645/2008), que se tornam eixos articuladores do processo de aprendizagem. 
+A organização dos conhecimentos no Curso Técnico em Massoterapia, enfatiza a formação humana onde o aluno, como sujeito histórico, produz sua existência pelo enfrentamento consciente da realidade. A estrutura organizacional curricular garante um ensino articulado entre teoria e prática, de forma a proporcionar a formação profissional, pela construção de conhecimentos que
 
-Para garantir a completude do processo de ensino optou-se pela organização da carga horária de alguns componentes curriculares com atividades à distância, de acordo com Parágrafo Único do Art. 26 da Resolução 06/2012 – CNE e em conformidade com as orientações e plataforma de aprendizagem virtual utilizado pelo IFPR. Para tanto, em ocasião de oferta de componente curricular, será desenvolvida elaboração da proposta pelo Colegiado do Curso de Massoterapia do IF Campus Londrina. Caso o instituto não venha a desenvolver ou utilizar uma plataforma de aprendizagem virtual, essa carga horária será revertida em carga horária presencial, objetivando o aprendizado pleno do estudante. 
+34
 
-A organização dos conhecimentos no Curso Técnico em Massoterapia, enfatiza a formação humana onde o aluno, como sujeito histórico, produz sua existência pelo enfrentamento consciente da realidade. A estrutura organizacional curricular garante um ensino articulado entre teoria e prática, de forma a proporcionar a formação profissional, pela construção de conhecimentos que 
+permite ao educando atuar no mundo do trabalho, garantindo-lhe os princípios de autonomia institucional, flexibilidade, integração ensino e habilidades, competências e atitudes.
 
-34 
+Todos os elementos da matriz curricular possuem um encadeamento interdisciplinar, articulando-se para que o desenvolvimento de competências seja o centro das atenções. Assim, são fornecidos aos estudantes subsídios para que eles desenvolvam itinerários próprios, segundo seus interesses e possibilidades, não só para a fase restrita de sua profissionalização, mas também para que se insiram em processos de educação continuada.
 
-permite ao educando atuar no mundo do trabalho, garantindo-lhe os princípios de autonomia institucional, flexibilidade, integração ensino e habilidades, competências e atitudes. 
+O Técnico em Massoterapia deve identificar, selecionar e aplicar técnicas de massagem terapêuticas e estéticas, assim como avaliar e escolher a técnica adequada às necessidades do paciente tendo como base os conceitos anatômicos, fisiológicos, biomecânicos e fisiopatológicos.
 
-Todos os elementos da matriz curricular possuem um encadeamento interdisciplinar, articulando-se para que o desenvolvimento de competências seja o centro das atenções. Assim, são fornecidos aos estudantes subsídios para que eles desenvolvam itinerários próprios, segundo seus interesses e possibilidades, não só para a fase restrita de sua profissionalização, mas também para que se insiram em processos de educação continuada. 
+Com vistas à formação do profissional massoterapeuta a Matriz Curricular foi organizada, em 1380 horas, da seguinte forma:
 
-O Técnico em Massoterapia deve identificar, selecionar e aplicar técnicas de massagem terapêuticas e estéticas, assim como avaliar e escolher a técnica adequada às necessidades do paciente tendo como base os conceitos anatômicos, fisiológicos, biomecânicos e fisiopatológicos. 
+No primeiro semestre do curso, concentram-se disciplinas de fundamentos básicos ao profissional Massoterapeuta como: anatomia, fisiologia, cinesiologia, cosmetologia, noções de exames complementares e primeiros socorros. Estas disciplinas oferecem aos estudantes um alicerce de conhecimentos necessários para a formação profissional. Ainda neste mesmo semestre os estudantes tem contato com a primeira técnica de massagem que é a Laboral, neste momento iniciam-se as práticas em atendimentos.
 
-Com vistas à formação do profissional massoterapeuta a Matriz Curricular foi organizada, em 1380 horas, da seguinte forma: 
+No segundo semestre do curso técnico em massoterapia destacam-se novas técnicas de massagem, entre as quais: a massagem clássica, a reflexologia podal, a massagem desportiva, a shantala e a massagem tai. Também é neste semestre que o aluno estuda os conhecimentos relacionados às práticas orientais vinculados à medicina tradicional chinesa e terapias holísticas e dá início às práticas de pesquisa na disciplina de Métodos e Técnicas de Pesquisa I, momento em que fará a construção de seu projeto de pesquisa.
 
-No primeiro semestre do curso, concentram-se disciplinas de fundamentos básicos ao profissional Massoterapeuta como: anatomia, fisiologia, cinesiologia, cosmetologia, noções de exames complementares e primeiros socorros. Estas disciplinas oferecem aos estudantes um alicerce de conhecimentos necessários para a formação profissional. Ainda neste mesmo semestre os estudantes tem contato com a primeira técnica de massagem que é a Laboral, neste momento iniciam-se as práticas em atendimentos. 
+O terceiro semestre é fundamental na formação do profissional, pois neste tem início o componente curricular Prática Profissional das técnicas massoterapêuticas. É neste semestre do curso que o estudante em formação realiza
 
-No segundo semestre do curso técnico em massoterapia destacam-se novas técnicas de massagem, entre as quais: a massagem clássica, a reflexologia podal, a massagem desportiva, a shantala e a massagem tai. Também é neste semestre que o aluno estuda os conhecimentos relacionados às práticas orientais vinculados à medicina tradicional chinesa e terapias holísticas e dá início às práticas de pesquisa na disciplina de Métodos e Técnicas de Pesquisa I, momento em que fará a construção de seu projeto de pesquisa. 
+35
 
-O terceiro semestre é fundamental na formação do profissional, pois neste tem início o componente curricular Prática Profissional das técnicas massoterapêuticas. É neste semestre do curso que o estudante em formação realiza 
+os atendimentos e acompanhamentos de pacientes. Tais atendimentos são realizados nos laboratórios de Massoterapia da instituição. Neste mesmo período do curso são trabalhadas as técnicas de massagem tuiná, shiatsu e drenagem linfática. A partir da elaboração do projeto de pesquisa desenvolvido no semestre anterior, o aluno dá início ao Trabalho de Conclusão de Curso, orientado por um dos docentes do curso no componente curricular Prática Científica em Massoterapia I.
 
-35 
+No quarto e último semestre do curso, o aluno conclui a aprendizagem das técnicas de massagem com os componentes curriculares: massagem estética e massagem ayurveda. É neste período também, que o estudante é conduzido a refletir sobre sua profissão a partir dos conhecimentos apresentados nos componentes curriculares: Saúde Coletiva e Planejamento Gerencial. No quarto semestre há a continuidade do componente curricular Prática Profissional de técnicas massoterapêuticas que possibilita ao estudante vivenciar a atividade profissional com o atendimento e acompanhamento de pacientes. Neste período do curso o estudante em formação finaliza o trabalho de conclusão de curso (TCC) sob orientação de um docente responsável no componente Prática Científica em Massoterapia II. O trabalho de conclusão de curso é apresentado em bancas avaliativas organizadas e desenvolvidas durante a disciplina Métodos e Técnicas de Pesquisa II.
 
-os atendimentos e acompanhamentos de pacientes. Tais atendimentos são realizados nos laboratórios de Massoterapia da instituição. Neste mesmo período do curso são trabalhadas as técnicas de massagem tuiná, shiatsu e drenagem linfática. A partir da elaboração do projeto de pesquisa desenvolvido no semestre anterior, o aluno dá início ao Trabalho de Conclusão de Curso, orientado por um dos docentes do curso no componente curricular Prática Científica em Massoterapia I. 
+O trabalho de conclusão de curso (TCC) é uma atividade obrigatória para a conclusão do Curso Técnico em Massoterapia. O TCC é desenvolvido ao longo do curso vinculado aos seguintes componentes curriculares: Métodos e Técnicas de Pesquisa (elaboração do Projeto de Pesquisa) e Prática Científica em Massoterapia I e II (nestas o aluno desenvolve sua pesquisa sob a supervisão de um docente orientador). O Regulamento do TCC será apresentado no anexo 3
 
-No quarto e último semestre do curso, o aluno conclui a aprendizagem das técnicas de massagem com os componentes curriculares: massagem estética e massagem ayurveda. É neste período também, que o estudante é conduzido a refletir sobre sua profissão a partir dos conhecimentos apresentados nos componentes curriculares: Saúde Coletiva e Planejamento Gerencial. No quarto semestre há a continuidade do componente curricular Prática Profissional de técnicas massoterapêuticas que possibilita ao estudante vivenciar a atividade profissional com o atendimento e acompanhamento de pacientes. Neste período do curso o estudante em formação finaliza o trabalho de conclusão de curso (TCC) sob orientação de um docente responsável no componente Prática Científica em Massoterapia II. O trabalho de conclusão de curso é apresentado em bancas avaliativas organizadas e desenvolvidas durante a disciplina Métodos e Técnicas de Pesquisa II. 
+Em cumprimento ao estabelecido na Lei Complementar 13.006/2014, a qual acrescenta o § 8º ao Artigo 26 da Lei de Diretrizes e Bases da Educação Nacional nº 9394/96, será contemplado aos estudantes matriculados em todas as etapas do curso no mínimo duas horas mensais de exibição de filmes de produção nacional. Ressalta-se que esta atividade integrar-se-á ao curso enquanto componente curricular complementar e, portanto, embasada em princípios como a transversalidade, a interdisciplinaridade e a articulação entre as várias áreas do
 
-O trabalho de conclusão de curso (TCC) é uma atividade obrigatória para a conclusão do Curso Técnico em Massoterapia. O TCC é desenvolvido ao longo do curso vinculado aos seguintes componentes curriculares: Métodos e Técnicas de Pesquisa (elaboração do Projeto de Pesquisa) e Prática Científica em Massoterapia I e II (nestas o aluno desenvolve sua pesquisa sob a supervisão de um docente orientador). O Regulamento do TCC será apresentado no anexo 3 
+36
 
-Em cumprimento ao estabelecido na Lei Complementar 13.006/2014, a qual acrescenta o § 8º ao Artigo 26 da Lei de Diretrizes e Bases da Educação Nacional nº 9394/96, será contemplado aos estudantes matriculados em todas as etapas do curso no mínimo duas horas mensais de exibição de filmes de produção nacional. Ressalta-se que esta atividade integrar-se-á ao curso enquanto componente curricular complementar e, portanto, embasada em princípios como a transversalidade, a interdisciplinaridade e a articulação entre as várias áreas do 
+conhecimento, esta deverá ser contemplada nos planejamentos dos demais componentes curriculares enquanto mais uma estratégia de ensino a ser adotada com vistas a facilitar e aprimorar as formas de socialização dos conteúdos a serem trabalhados em sala de aula.  Tais filmes envolverão temáticas pertinentes à formação do Técnico em Massoterapia e à área da Saúde. Os docentes do colegiado definirão os temas e a seleção dos filmes que serão assistidos e analisados pelos estudantes conforme os objetivos do curso.
 
-36 
+Na sequência a apresentação da Matriz Curricular:
 
-conhecimento, esta deverá ser contemplada nos planejamentos dos demais componentes curriculares enquanto mais uma estratégia de ensino a ser adotada com vistas a facilitar e aprimorar as formas de socialização dos conteúdos a serem trabalhados em sala de aula.  Tais filmes envolverão temáticas pertinentes à formação do Técnico em Massoterapia e à área da Saúde. Os docentes do colegiado definirão os temas e a seleção dos filmes que serão assistidos e analisados pelos estudantes conforme os objetivos do curso. 
-
-Na sequência a apresentação da Matriz Curricular: 
-
-37 
+37
 
 |**Componentes Curriculares**|**Carga**<br>**horária**|**Hora- Aula**<br>**(hora-**<br>**relógio)**|**Número**<br>**de Aulas**<br>**Semanais**|
 |---|---|---|---|
@@ -896,13 +887,11 @@ Na sequência a apresentação da Matriz Curricular:
 ||**340 h**|**350 h**|**17**|
 ||**1380h**|**1380h**||
 
+38
 
+## **3.10 Ementas dos Componentes Curriculares**
 
-38 
-
-## **3.10 Ementas dos Componentes Curriculares** 
-
-## **- I Semestre** 
+## **- I Semestre**
 
 |**Campus Londrina do IFPR**|**Campus Londrina do IFPR**|
 |---|---|
@@ -913,99 +902,97 @@ Na sequência a apresentação da Matriz Curricular:
 |**Bibliografia Básica:**<br>DI DIO, Liberato João Affonso.**Tratado de anatomia aplicada**. São Paulo: Póluss Editorial,<br>1999.<br>GARDNER, Ernest; GRAY, Donald J.; O'RAHILLY, Ronan.**Anatomia: estudo regional do**<br>**corpo humano**. 4 ed. Rio de Janeiro: Guanabara Koogan, 1988.<br>SOBOTTA, J.**Atlas de Anatomia Humana**. 22 ed. Rio de Janeiro. Guanabara Koogan,<br>2006.<br>TORTORA, Gerald J.**Principios de Anatomia e Fisiologia.**12 ed. Rio de Janeiro.<br>Guanabara Koogan, 2010.<br>DANGELO, J. G.; FATTINI, C. A.**Anatomia Humana Básica**. 2 ed. São Paulo: Atheneu,<br>2002.||
 |**Bibliografia Complementar:**<br>CASTRO, Sebastião Vicente de.**Anatomia fundamental**. 3. ed. São Paulo: McGraw-Hill,<br>1985, c1974.<br> <br>CORRÊA, Maria Cristina Silva Montenegro.**Anatomia e fisiologia**. Curitiba: IFPR, 2011.<br>KAPIT, Wynn; ELSON, Lawrence M.**Anatomia: um livro para colorir**. 3. ed. São Paulo:<br>Roca, 2004.<br>KÖPF-MAIER, Petra. Wolf-Heidegger.**Atlas de anatomia humana**. 5. ed. Rio de Janeiro:<br>Guanabara Koogan, 2000.<br>PALASTANGA, Nigel; FIELD, Derek; SOAMES, Roger.**Anatomia e movimento humano**:<br>estrutura e função. 3. ed. São Paulo: Manole, 2000.<br>WYNN K., LAWRENCE M. E.**Anatomia um livro para colorir**. 3ª Ed. São Paulo. Manole,<br>2000.||
 
+39
 
+## **Campus Londrina do IFPR**
 
-39 
+**Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Fisiopatologia para Massoterapeutas **Carga Horária** 60 horas **Período letivo: I Semestre**
 
-## **Campus Londrina do IFPR** 
+## **Ementa:**
 
-**Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Fisiopatologia para Massoterapeutas **Carga Horária** 60 horas **Período letivo: I Semestre** 
+Fisiologia básica da célula, fisiologia do sistema musculoesquelético, do sistema nervoso, circulatório, endócrino, linfático. Mecanismos de lesão, inflamação, e principais patologias relacionadas aos sistemas abordados. Efeitos fisiológicos do toque e dor. A relação das patologias e seu desenvolvimento com a massagem.
 
-## **Ementa:** 
+## **Bibliografia Básica:**
 
-Fisiologia básica da célula, fisiologia do sistema musculoesquelético, do sistema nervoso, circulatório, endócrino, linfático. Mecanismos de lesão, inflamação, e principais patologias relacionadas aos sistemas abordados. Efeitos fisiológicos do toque e dor. A relação das patologias e seu desenvolvimento com a massagem. 
+GUYTON, A. C. & HALL, J.B. **Tratado de Fisiologia Médica** . 10. ed. Editora Saunders, 2006.
 
-## **Bibliografia Básica:** 
+KAWAMOTO, E. E. **Anatomia e fisiologia humana.** 3 ed. EPU Editora. 2009.
 
-GUYTON, A. C. & HALL, J.B. **Tratado de Fisiologia Médica** . 10. ed. Editora Saunders, 2006. 
+SILVERTHORN, D. U.; PAGNUSSAT, A. S. **Fisiologia humana: uma abordagem integrada.** 5.ed.Artmed. 2010.
 
-KAWAMOTO, E. E. **Anatomia e fisiologia humana.** 3 ed. EPU Editora. 2009. 
+SODEMAN, William A. **Fisiologia patológica:** mecanismos das doenças. Rio de Janeiro: Guanabara, 1955.
 
-SILVERTHORN, D. U.; PAGNUSSAT, A. S. **Fisiologia humana: uma abordagem integrada.** 5.ed.Artmed. 2010. 
+WERNER, R. **Guia de Patologia para Massoterapeutas** . Guanabara Koogan, 2005.
 
-SODEMAN, William A. **Fisiologia patológica:** mecanismos das doenças. Rio de Janeiro: Guanabara, 1955. 
+## **Bibliografia Complementar:**
 
-WERNER, R. **Guia de Patologia para Massoterapeutas** . Guanabara Koogan, 2005. 
+ANTCZAK, Susan E. et al. **Fisiopatologia básica.** Rio de Janeiro: LAB, 2005.
 
-## **Bibliografia Complementar:** 
+CLAY, J. H.; POUNDS, D. M. **Massoterapia Clínica: integrando anatomia e tratamento.** 1ªEd. São Paulo: Manole, 2003.
 
-ANTCZAK, Susan E. et al. **Fisiopatologia básica.** Rio de Janeiro: LAB, 2005. 
+FISIOPATOLOGIA. 2. ed. Rio de Janeiro: Guanabara Koogan, 2004.
 
-CLAY, J. H.; POUNDS, D. M. **Massoterapia Clínica: integrando anatomia e tratamento.** 1ªEd. São Paulo: Manole, 2003. 
+GUIRRO, E; GUIRRO, R. **Fisioterapia Dermato-Funcional – Fundamentos, Recursos e Patologias.** 3. ed. Revisada e ampliada. Manole. 2002.
 
-FISIOPATOLOGIA. 2. ed. Rio de Janeiro: Guanabara Koogan, 2004. 
+SPRINGHOUSE CORPORATION. **Anatomia & fisiologia (Série Incrivelmente Fácil).** Guanabara. 2003.
 
-GUIRRO, E; GUIRRO, R. **Fisioterapia Dermato-Funcional – Fundamentos, Recursos e Patologias.** 3. ed. Revisada e ampliada. Manole. 2002. 
+40
 
-SPRINGHOUSE CORPORATION. **Anatomia & fisiologia (Série Incrivelmente Fácil).** Guanabara. 2003. 
+## **Campus Londrina do IFPR**
 
-40 
+**Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Introdução à Massoterapia **Carga Horária** : 80 horas **Período letivo: I semestre**
 
-## **Campus Londrina do IFPR** 
+## **Ementa:**
 
-**Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Introdução à Massoterapia **Carga Horária** : 80 horas **Período letivo: I semestre** 
+História da Massoterapia no Mundo e no Brasil. Princípios e Noções Básicos das diferentes áreas da Massoterapia. Compreensão do Toque. Princípios de mobilização articular e alongamentos. Princípios da Avaliação Massoterapêutica. Posicionamento do Paciente e do Terapeuta. Técnicas de Drapejamento. Princípios de ética profissional. Papel social do massoterapeuta. Relação terapeuta/paciente. Trabalho em equipe.
 
-## **Ementa:** 
+## **Bibliografia Básica:**
 
-História da Massoterapia no Mundo e no Brasil. Princípios e Noções Básicos das diferentes áreas da Massoterapia. Compreensão do Toque. Princípios de mobilização articular e alongamentos. Princípios da Avaliação Massoterapêutica. Posicionamento do Paciente e do Terapeuta. Técnicas de Drapejamento. Princípios de ética profissional. Papel social do massoterapeuta. Relação terapeuta/paciente. Trabalho em equipe. 
+BIENFAIT, Marcel. **Fáscias e pompages:** estudo e tratamento do esqueleto fibroso. 2. ed. São Paulo: Summus, 1999.
 
-## **Bibliografia Básica:** 
+BRAUN, M. B.; SIMONSON, S. J. **Massoterapia** . 1ªEd. São Paulo: Manole, 2007.
 
-BIENFAIT, Marcel. **Fáscias e pompages:** estudo e tratamento do esqueleto fibroso. 2. ed. São Paulo: Summus, 1999. 
+CASSAR, Mario-Paul. **Manual de massagem terapêutica** : um guia completo de massoterapia para o estudante e para o terapeuta. São Paulo: Manole, 2001.
 
-BRAUN, M. B.; SIMONSON, S. J. **Massoterapia** . 1ªEd. São Paulo: Manole, 2007. 
+CLAY, James H.; POUNDS, David M. **Massoterapia clínica: integrando anatomia e tratamento** . 2. ed. Barueri: Manole, 2008
 
-CASSAR, Mario-Paul. **Manual de massagem terapêutica** : um guia completo de massoterapia para o estudante e para o terapeuta. São Paulo: Manole, 2001. 
+KISNER, C; COLBY, L. A. **Exercícios terapêuticos** : fundamentos e técnicas. 3. ed. São Paulo: Manole, 1998.
 
-CLAY, James H.; POUNDS, David M. **Massoterapia clínica: integrando anatomia e tratamento** . 2. ed. Barueri: Manole, 2008 
+## **Bibliografia Complementar:**
 
-KISNER, C; COLBY, L. A. **Exercícios terapêuticos** : fundamentos e técnicas. 3. ed. São Paulo: Manole, 1998. 
+DOMENICO, G.; WOOD, E. C. **Técnica de Massagem de Beard.** 5ªEd. São Paulo: Elsevier, 2008.
 
-## **Bibliografia Complementar:** 
+GIBBONS, P; TEHAN P. **Manipulação da coluna do tórax e da pelve** . Editora PHORTE, 2010.
 
-DOMENICO, G.; WOOD, E. C. **Técnica de Massagem de Beard.** 5ªEd. São Paulo: Elsevier, 2008. 
+JIN, Yicheng; PENG, Jian. **Fundamentos da massoterapia chinesa** . São Paulo: Andrei, 2010.
 
-GIBBONS, P; TEHAN P. **Manipulação da coluna do tórax e da pelve** . Editora PHORTE, 2010. 
+KAVANAGH, W. **Exercícios Básicos de Massagem** . Editora Manole. 2007. -Decreto-Lei n.º 4.113, de 14 de fevereiro de 1942 -Regula a propaganda de massagistas e outros profissionais de saúde.
 
-JIN, Yicheng; PENG, Jian. **Fundamentos da massoterapia chinesa** . São Paulo: Andrei, 2010. 
+41
 
-KAVANAGH, W. **Exercícios Básicos de Massagem** . Editora Manole. 2007. -Decreto-Lei n.º 4.113, de 14 de fevereiro de 1942 -Regula a propaganda de massagistas e outros profissionais de saúde. 
+Portaria n.º 102, de 08 de julho de 1943-Regula as instruções da Profissão.
 
-41 
+-Portaria nº. 95 de 04/11/1952 – Que regulamenta as Escolas de Massagem.
 
-Portaria n.º 102, de 08 de julho de 1943-Regula as instruções da Profissão. 
+-Lei nº 3.968, de 5 de outubro de 1961- Dispõe sobre o Exercício da Profissão de Massagista, e dá outras providências.
 
--Portaria nº. 95 de 04/11/1952 – Que regulamenta as Escolas de Massagem. 
+-Projeto de Lei Nº 2804/97 – Que visa à mudança da denominação de Massagem para Massoterapia (atualizado em 2003).
 
--Lei nº 3.968, de 5 de outubro de 1961- Dispõe sobre o Exercício da Profissão de Massagista, e dá outras providências. 
+-Projeto de Lei:263 de 11/03/1999, que visa a criação do Conselho Federal e Regionais de Massagem
 
--Projeto de Lei Nº 2804/97 – Que visa à mudança da denominação de Massagem para Massoterapia (atualizado em 2003). 
+-Portaria Nº 397 de 09/10/2002 – Ministério do Trabalho e Emprego, que aprovou o CBO = a Classificação Brasileira de Ocupações: Códigos Nº 5161-35 Massoterapeutas /Afins;
 
--Projeto de Lei:263 de 11/03/1999, que visa a criação do Conselho Federal e Regionais de Massagem 
+-Lei Nº 13.640 de 08/09/2003 – Que instituí no Município de São Paulo, o dia do massoterapeuta, a ser comemorado, no dia 25 de Maio.
 
--Portaria Nº 397 de 09/10/2002 – Ministério do Trabalho e Emprego, que aprovou o CBO = a Classificação Brasileira de Ocupações: Códigos Nº 5161-35 Massoterapeutas /Afins; 
+-Portaria nº 971, de 03 de Maio de 2006 do SUS, "Portaria prevê custeio no SUS de terapias alternativas”.
 
--Lei Nº 13.640 de 08/09/2003 – Que instituí no Município de São Paulo, o dia do massoterapeuta, a ser comemorado, no dia 25 de Maio. 
+-Lei nº 14.074, de 31 de julho de 2007 - Dia do Massoterapeuta em Santa Catarina 25 de maio
 
--Portaria nº 971, de 03 de Maio de 2006 do SUS, "Portaria prevê custeio no SUS de terapias alternativas”. 
+42
 
--Lei nº 14.074, de 31 de julho de 2007 - Dia do Massoterapeuta em Santa Catarina 25 de maio 
+**Campus Londrina do IFPR Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Cinesiologia aplicada à Massoterapia **Carga Horária** : 20 horas **Período letivo: I semestre Ementa:** Estudo do movimento humano e biomecânica corporal aplicados à massoterapia. **Bibliografia Básica:** CALAIS-GERMAIN, Blandine; LAMOTTE, Andrée; GUERNET, Sophie. **Anatomia para o movimento.** São Paulo: Manole, 1992 KAPANDJI, A.I. **Fisiologia articular:** esquemas comentados de mecânica Humana. São Paulo: Panamericana, 2011. KENDALL, F. P.; MCREARY E. K.; PROVANCE P. G. **Músculos Provas e Funções com Postura e Dor** . 5 ª São Paulo Manole 2007 PALASTANGA, Nigel; FIELD, Derek; SOAMES, Roger. **Anatomia e movimento humano:** estrutura e função. 3. ed. São Paulo: Manole, 2000. HAMILL, Joseph. **Bases biomecânicas do movimento humano.** São Paulo: Manole, 1999. **Bibliografia Complementar:** FERNANDES, André et al. **Cinesiologia do alongamento** . 3. ed. Rio de Janeiro: Sprint, 2006. HALL, S.J. **Biomecânica Básica** . 5 ª São Paulo Manole, 2009 JOSEPH, H.; KATHLEEN M. K. **Bases biomecânicas do movimento humano** . 3 ed. São Paulo: Manole, 2012. LIMA, V.; TEIXEIRA, A. de S. M. **Cinesiologia do Alongamento** . 2 ed. Rio de Janeiro Sprint 2002 MIRANDA, Edalton. **Bases de anatomia e cinesiologia.** 7. ed. São Paulo: Sprint, 2008
 
-42 
-
-**Campus Londrina do IFPR Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Cinesiologia aplicada à Massoterapia **Carga Horária** : 20 horas **Período letivo: I semestre Ementa:** Estudo do movimento humano e biomecânica corporal aplicados à massoterapia. **Bibliografia Básica:** CALAIS-GERMAIN, Blandine; LAMOTTE, Andrée; GUERNET, Sophie. **Anatomia para o movimento.** São Paulo: Manole, 1992 KAPANDJI, A.I. **Fisiologia articular:** esquemas comentados de mecânica Humana. São Paulo: Panamericana, 2011. KENDALL, F. P.; MCREARY E. K.; PROVANCE P. G. **Músculos Provas e Funções com Postura e Dor** . 5 ª São Paulo Manole 2007 PALASTANGA, Nigel; FIELD, Derek; SOAMES, Roger. **Anatomia e movimento humano:** estrutura e função. 3. ed. São Paulo: Manole, 2000. HAMILL, Joseph. **Bases biomecânicas do movimento humano.** São Paulo: Manole, 1999. **Bibliografia Complementar:** FERNANDES, André et al. **Cinesiologia do alongamento** . 3. ed. Rio de Janeiro: Sprint, 2006. HALL, S.J. **Biomecânica Básica** . 5 ª São Paulo Manole, 2009 JOSEPH, H.; KATHLEEN M. K. **Bases biomecânicas do movimento humano** . 3 ed. São Paulo: Manole, 2012. LIMA, V.; TEIXEIRA, A. de S. M. **Cinesiologia do Alongamento** . 2 ed. Rio de Janeiro Sprint 2002 MIRANDA, Edalton. **Bases de anatomia e cinesiologia.** 7. ed. São Paulo: Sprint, 2008 
-
-43 
+43
 
 |**Campus Londrina do IFPR**|**Campus Londrina do IFPR**|
 |---|---|
@@ -1016,41 +1003,39 @@ Portaria n.º 102, de 08 de julho de 1943-Regula as instruções da Profissão.
 |**Bibliografia Básica:**<br>CASSAR, Mario-Paul.**Manual de massagem terapêutica:**um guia completo de<br>massoterapia para o estudante e para o terapeuta. São Paulo: Manole, 2001.<br> <br>LIMA, V.; TEIXEIRA, A. de S. M.**Cinesiologia do Alongamento**. 3ªEd.  São Paulo: Sprint,<br>2002.<br>MORETTI, A.; LIMA**,**V.**Massagem no Ambiente de Trabalho.**1ª Ed. São Paulo: Phorte,<br>2010.<br>NEUMAN, T.**A Massagem Sentada - A arte tradicional de acupressão: AMMA.**3ª Ed.<br>São Paulo: Madras, 2012.<br>STEPHENS, R. R.**Massagem Terapêutica na Cadeira.**1ª Ed. São Paulo: Manole, 2008.||
 |**Bibliografia Complementar:**<br>ANDRADE, C. K; CLIFFORD, P.**Massagem: Técnicas e Resultados.**Rio de Janeiro:<br>Guanabara-Koogan, 2003.<br>BRAUN, M. B.; SIMONSON, S. J.**Massoterapia.**São Paulo: Manole, 2007.<br>CLAY, J. H.; POUNDS, D. M.**Massoterapia Clínica: integrando anatomia e tratamento.**<br>1ªEd. São Paulo: Manole, 2003.<br>FRITZ, S.**Fundamentos da Massagem Terapêutica**. 2ª ed. São Paulo: Manole, 2002.<br>WERNER, R.**Guia de Patologia para Massoterapeutas.**2ªEd. Rio de Janeiro: Guanabara<br>Koogan,2005.||
 
+44
 
+## **Campus Londrina do IFPR**
 
-44 
+**Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Noções de Cosmetologia **Carga Horária** : 20 horas **Período letivo: I Semestre**
 
-## **Campus Londrina do IFPR** 
+**Ementa:**
 
-**Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Noções de Cosmetologia **Carga Horária** : 20 horas **Período letivo: I Semestre** 
+História da Cosmetologia.Fisiologia do sistema tegumentar. Estrutura e tipos de pele. Formas e princípios ativos cosméticos para massagem. Produtos com a finalidade terapêutica e estética. Noções de aromaterapia e óleos essenciais.
 
-**Ementa:** 
+## **Bibliografia Básica:**
 
-História da Cosmetologia.Fisiologia do sistema tegumentar. Estrutura e tipos de pele. Formas e princípios ativos cosméticos para massagem. Produtos com a finalidade terapêutica e estética. Noções de aromaterapia e óleos essenciais. 
+RIBEIRO, Claudio de Jesus. **Cosmetologia aplicada a dermoestética** . São Paulo: Phamabooks, 2006.
 
-## **Bibliografia Básica:** 
+PEYREFITTE, Gérard; MARTINI, Marie-Claude; CHIVOT, Martine. **Cosmetologia, biologia geral, biologia da pele** . São Paulo: Andrei, 1998.
 
-RIBEIRO, Claudio de Jesus. **Cosmetologia aplicada a dermoestética** . São Paulo: Phamabooks, 2006. 
+GOMES, Kelly Gomes; GABRIEL, Marlene. **Cosmetologia descomplicando os princípios ativos** . São Paulo: LMP, 2006.
 
-PEYREFITTE, Gérard; MARTINI, Marie-Claude; CHIVOT, Martine. **Cosmetologia, biologia geral, biologia da pele** . São Paulo: Andrei, 1998. 
+LEONARDI, G.R. **Cosmetologia Aplicada.** São Paulo: Medfarma, 2007.
 
-GOMES, Kelly Gomes; GABRIEL, Marlene. **Cosmetologia descomplicando os princípios ativos** . São Paulo: LMP, 2006. 
+PEYREFITTE, G. **Cosmetologia – Biologia geral- Biologia da Pele.** São Paulo: Andrei, 1998.
 
-LEONARDI, G.R. **Cosmetologia Aplicada.** São Paulo: Medfarma, 2007. 
+## **Bibliografia Complementar:**
 
-PEYREFITTE, G. **Cosmetologia – Biologia geral- Biologia da Pele.** São Paulo: Andrei, 1998. 
+REBELLO, T. **Guia de produtos cosméticos.** 7ª ed. São Paulo: SENAC, 2008. HOARE, J. **Guia completo de aromaterapia.** São Paulo: Pensamento, 2011.
 
-## **Bibliografia Complementar:** 
+GASPAR, E.D. **Aromaterapia: o uso terapêutico das ervas.** Rio de Janeiro: Palas, 2004.
 
-REBELLO, T. **Guia de produtos cosméticos.** 7ª ed. São Paulo: SENAC, 2008. HOARE, J. **Guia completo de aromaterapia.** São Paulo: Pensamento, 2011. 
+SANTI, E. **Dicionário dos princípios ativos em cosmetologia** . São Paulo: Andrei, 2001
 
-GASPAR, E.D. **Aromaterapia: o uso terapêutico das ervas.** Rio de Janeiro: Palas, 2004. 
+WOLFFENBUTTEL, A. N. **Base química dos óleos essenciais e aromaterapia.** São Paulo: Roca, 2011.
 
-SANTI, E. **Dicionário dos princípios ativos em cosmetologia** . São Paulo: Andrei, 2001 
-
-WOLFFENBUTTEL, A. N. **Base química dos óleos essenciais e aromaterapia.** São Paulo: Roca, 2011. 
-
-45 
+45
 
 |**Campus Londrina do IFPR**|**Campus Londrina do IFPR**|
 |---|---|
@@ -1061,39 +1046,37 @@ WOLFFENBUTTEL, A. N. **Base química dos óleos essenciais e aromaterapia.** Sã
 |**Bibliografia Básica:**<br>FLECKENSTEIN, Peter; TRANUM-JENSEN, Jorgen.**Anatomia em diagnóstico por**<br>**imagens.**2. ed. Barueri: Manole, 2004<br>FONSECA, Nilton Pinto ; SAVAREGO, Simone (Org.).**Manual de posicionamentos para**<br>**estágio em radiologia.**São Caetano do Sul: Yendis, 2007.<br>GUIMARÃES, Deocleciano Torrieri.**Dicionário de termos médicos, enfermagem e**<br>**radiologia.**4. ed. São Paulo: Rideel, 2010.<br>LEDERMAN, Henrique Manoel; SOUZA, Raimundo de.**Técnicas radiológicas**. Rio de<br>Janeiro: Guanabara Koogan, 2006.<br>SAVAREGO, S.; DAMAS, K.F.**Bases da Radiologia Convencional**. 2.ed. São Paulo:<br>Yendis, 2007.||
 |**Bibliografia Complementar:**<br>BONTRAGER, K.L.; LAMPIGNAMO, J.P.**Tratado de Técnica Radiológica e Base**<br>**Anatômica.**5 ed. Rio de Janeiro: Elsevier, 2005.<br>COSTA, D.H (org); CORREIA JÚNIOR, E.; NOGUEIRA, I.A.; LUCAS, J.C.B.**Física,**<br>**Processamento de Filmes, Técnicas Radiológicas e Tomografia Computadorizada.**São<br>Paulo: Martinari, 2007.<br>PALASTANGA, Nigel; FIELD, Derek; SOAMES, Roger.**Anatomia e movimento humano**:<br>estrutura e função. 3. ed. São Paulo: Manole, 2000.<br>WERNER, R.**Guia de Patologia para Massoterapeutas. .**2ªEd. Rio de Janeiro:<br>Guanabara Koogan, 2005.<br>WYNN K., LAWRENCE M. E.**Anatomia um livro para colorir**. 3ª Ed. São Paulo. Manole,<br>2000.||
 
+46
 
+**Campus Londrina do IFPR Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Noções de Primeiros Socorros **Carga Horária** : 20 horas **Período letivo: I semestre Ementa:**
 
-46 
+Urgência e emergência em Massoterapia. Sinais vitais: frequência cardíaca, pressão arterial, frequência respiratória. Ressuscitação Cardiorespiratória. Transporte e encaminhamento do paciente.
 
-**Campus Londrina do IFPR Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Noções de Primeiros Socorros **Carga Horária** : 20 horas **Período letivo: I semestre Ementa:** 
+## **Bibliografia Básica:**
 
-Urgência e emergência em Massoterapia. Sinais vitais: frequência cardíaca, pressão arterial, frequência respiratória. Ressuscitação Cardiorespiratória. Transporte e encaminhamento do paciente. 
+CORRÊA, Rubens Gomes. **Atendimento de urgência e emergência.** Curitiba: IFPR Educação a Distância, 2013
 
-## **Bibliografia Básica:** 
+COOK, Robin. **Sinais vitais.** Rio de Janeiro: Record, 1991.
 
-CORRÊA, Rubens Gomes. **Atendimento de urgência e emergência.** Curitiba: IFPR Educação a Distância, 2013 
+MISSIANO, FABIAN. **Ação imediata em emergências / manual de procedimentos** . 6 ed. São Paulo: Cultrix, 2003. HAFEN,B.Q.; FRANDSEN,K.J. KARREN. K.J. **Primeiros Socorros para Estudantes** . 7 ª São Paulo Manole, 2001.
 
-COOK, Robin. **Sinais vitais.** Rio de Janeiro: Record, 1991. 
+SANTOS, Nívea Cristina Moreira. **Urgência e emergência para a enfermagem** . 3. ed. São Paulo: Iátria, 2006.
 
-MISSIANO, FABIAN. **Ação imediata em emergências / manual de procedimentos** . 6 ed. São Paulo: Cultrix, 2003. HAFEN,B.Q.; FRANDSEN,K.J. KARREN. K.J. **Primeiros Socorros para Estudantes** . 7 ª São Paulo Manole, 2001. 
+## **Bibliografia Complementar:**
 
-SANTOS, Nívea Cristina Moreira. **Urgência e emergência para a enfermagem** . 3. ed. São Paulo: Iátria, 2006. 
+ATENDIMENTO pré-hospitalar ao traumatizado: PHTLS : prehospital trauma life support. 7. ed. Rio de Janeiro: Elsevier, 2012.
 
-## **Bibliografia Complementar:** 
+FORTES, Julia Ikeda. **Enfermagem em emergências** . São Paulo: EPU, 1986.
 
-ATENDIMENTO pré-hospitalar ao traumatizado: PHTLS : prehospital trauma life support. 7. ed. Rio de Janeiro: Elsevier, 2012. 
+NASCIMENTO, Suzana Rodrigues do (Org.). **Sinais vitais:** subsídios para a prática em saúde . Goiânia: AB Ed., 2004.
 
-FORTES, Julia Ikeda. **Enfermagem em emergências** . São Paulo: EPU, 1986. 
+RIBEIRO, Luiz Arthur Montes. **Manual de primeiros socorros e relações humanas no trânsito** . Curitiba: Juruá, 1999.
 
-NASCIMENTO, Suzana Rodrigues do (Org.). **Sinais vitais:** subsídios para a prática em saúde . Goiânia: AB Ed., 2004. 
+ROSENBERG, Stephen N. **Livro de primeiros socorros** : Johnson & Johnson . 2. ed. Rio de Janeiro: Record, 1985.
 
-RIBEIRO, Luiz Arthur Montes. **Manual de primeiros socorros e relações humanas no trânsito** . Curitiba: Juruá, 1999. 
+47
 
-ROSENBERG, Stephen N. **Livro de primeiros socorros** : Johnson & Johnson . 2. ed. Rio de Janeiro: Record, 1985. 
-
-47 
-
-## **- II Semestre –** 
+## **- II Semestre –**
 
 |**Campus Londrina do IFPR**|**Campus Londrina do IFPR**|
 |---|---|
@@ -1105,121 +1088,119 @@ ROSENBERG, Stephen N. **Livro de primeiros socorros** : Johnson & Johnson . 2. e
 |**Bibliografia Básica:**<br>DEMO, Pedro.**Pesquisa:**princípio científico e educativo. 8. ed. São Paulo: Cortez,<br>2001.<br>GIL, A. C.**Como elaborar projetos de pesquisa**. 3. ed. São Paulo: Atlas, 1996.<br>GIL, A. C.**Métodos e técnicas de pesquisa socia**l. 6 ed. São Paulo: Atlas, 2008.<br>INSTITUTO FEDERAL DO PARANÁ.**Normas para apresentação de trabalhos**<br>**acadêmicos do Instituto Federal do Paraná (IFPR)**. Curitiba , 2010.<br>LAKATOS, E. M.; MARCONI, N. A.**Técnicas de Pesquisa**. 4 ed. São Paulo: Atlas,<br>1999.||
 |**Bibliografia Complementar:**<br>AQUINO, Italo de Souza.**Como escrever artigos científicos:**sem arrodeio e sem<br>medo da ABNT. 8. ed. São Paulo: Saraiva, 2010<br>BARROS,<br>Aidil<br>de<br>Jesus<br>Paes<br>de;<br>LEHFELD,<br>Neide<br>Aparecida<br>de<br>Souza.**Fundamentos de metodologia científica.**3.ed. São Paulo: Makron Books,<br>2007<br>BOOTH, Wayne C.; COLOMB, Gregory G.; WILLIAMS, Joseph M.**A arte da**<br>**pesquisa.**2.ed. São Paulo: Martins Fontes, 2005.<br>LAKATOS, Eva Maria; MARCONI, Marina de Andrade.**Fundamentos de**<br>**metodologia científica**. 2 ed. São Paulo:Atlas, 1991.<br>RUDIO, Franz Victor.**Introdução ao projeto de pesquisa científica**. 29. ed.<br>Petrópolis: Vozes, 2001.||
 
+48
 
+## **Campus Londrina do IFPR**
 
-48 
+**Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Noções de Terapias Holísticas **Carga Horária** : 20 horas **Período letivo: II Semestre**
 
-## **Campus Londrina do IFPR** 
+**Ementa:**
 
-**Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Noções de Terapias Holísticas **Carga Horária** : 20 horas **Período letivo: II Semestre** 
+Definição sobre holismo e campo energético. Noções de prana, Ki e Chi (energia
 
-**Ementa:** 
+vital). Noções de Cromoterapia. Noções de Toque Quântico. Noções de Auriculoterapia.
 
-Definição sobre holismo e campo energético. Noções de prana, Ki e Chi (energia 
+## **Bibliografia Básica:**
 
-vital). Noções de Cromoterapia. Noções de Toque Quântico. Noções de Auriculoterapia. 
+GORDON, R. **Toque Quântico, o Poder de Curar** . 2002. Editora Madras Ltda.
 
-## **Bibliografia Básica:** 
+GOSWAMI, A. **O Médico Quântico.** 1ª Ed. Cultrix, 2006.
 
-GORDON, R. **Toque Quântico, o Poder de Curar** . 2002. Editora Madras Ltda. 
+SILVA, Adão Roberto da. **Tudo sobre aromaterapia:** como usá-la para melhorar sua saúde física, emocional e financeira . 2. ed. São Paulo: Roca, 2001. 576 p.
 
-GOSWAMI, A. **O Médico Quântico.** 1ª Ed. Cultrix, 2006. 
+FREIRE, Maria Alice Campos; BARSÉ, Isabel Facchini. **Florais da Amazônia** : o renascimento da elementoterapia. 2. ed. Céu de Mapiá: Centro de Medicina da Floresta, .2011.
 
-SILVA, Adão Roberto da. **Tudo sobre aromaterapia:** como usá-la para melhorar sua saúde física, emocional e financeira . 2. ed. São Paulo: Roca, 2001. 576 p. 
+VALCAPELLI (Escritor). **As cores e suas funções:** na empresa, no lar, na roupa, na personalidade e na saúde. 1. ed. São Paulo: C Roka, 2001.
 
-FREIRE, Maria Alice Campos; BARSÉ, Isabel Facchini. **Florais da Amazônia** : o renascimento da elementoterapia. 2. ed. Céu de Mapiá: Centro de Medicina da Floresta, .2011. 
+## **Bibliografia Complementar:**
 
-VALCAPELLI (Escritor). **As cores e suas funções:** na empresa, no lar, na roupa, na personalidade e na saúde. 1. ed. São Paulo: C Roka, 2001. 
+BENTLEY, E. **O livro essencial de massagem. O guia completo sobre terapias manuais básicas.** 2005. Editora Manole.
 
-## **Bibliografia Complementar:** 
+CAIRO, C. **Linguagem do Corpo** . 1999. 1ª ed. São Paulo. Editora Mercuryo.
 
-BENTLEY, E. **O livro essencial de massagem. O guia completo sobre terapias manuais básicas.** 2005. Editora Manole. 
+CHONGHUO, Tian. **Tratado de medicina chinesa** . São Paulo: Roca, 1993.
 
-CAIRO, C. **Linguagem do Corpo** . 1999. 1ª ed. São Paulo. Editora Mercuryo. 
+FARINA, M. **Psicodinâmica das Cores em Comunicação** . 4ª ed. 1990. Editora Afiliada.
 
-CHONGHUO, Tian. **Tratado de medicina chinesa** . São Paulo: Roca, 1993. 
+LACY, M L **. O poder das cores no equilíbrio dos ambientes** . 1996. Editora Pensamento
 
-FARINA, M. **Psicodinâmica das Cores em Comunicação** . 4ª ed. 1990. Editora Afiliada. 
+MACIOCIA, Giovanni. **Os fundamentos da medicina chinesa:** um texto abrangente para acupunturistas e fitoterapeutas. 2. ed. São Paulo: Roca, 2007.
 
-LACY, M L **. O poder das cores no equilíbrio dos ambientes** . 1996. Editora Pensamento 
+49
 
-MACIOCIA, Giovanni. **Os fundamentos da medicina chinesa:** um texto abrangente para acupunturistas e fitoterapeutas. 2. ed. São Paulo: Roca, 2007. 
+## **Campus Londrina do IFPR**
 
-49 
+**Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Técnicas da Massagem Clássica **Carga Horária** : 60 horas **Período letivo: II Semestre Ementa:**
 
-## **Campus Londrina do IFPR** 
+Histórico da Massagem Clássica. Princípios, características, indicações e contraindicações da Massagem Clássica. Massagem Clássica Aplicada.
 
-**Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Técnicas da Massagem Clássica **Carga Horária** : 60 horas **Período letivo: II Semestre Ementa:** 
+## **Bibliografia Básica:**
 
-Histórico da Massagem Clássica. Princípios, características, indicações e contraindicações da Massagem Clássica. Massagem Clássica Aplicada. 
+-ANDRADE, C. K; CLIFFORD, P. **Massagem: Técnicas e Resultados.** Rio de Janeiro: Guanabara-Koogan, 2003.
 
-## **Bibliografia Básica:** 
+-BRAUN, M. B.; SIMONSON, S. J. **Massoterapia.** São Paulo: Manole, 2007.
 
--ANDRADE, C. K; CLIFFORD, P. **Massagem: Técnicas e Resultados.** Rio de Janeiro: Guanabara-Koogan, 2003. 
+-CASSAR, M. P. **Manual de Massagem Terapêutica** . São Paulo: Manole. 2001.
 
--BRAUN, M. B.; SIMONSON, S. J. **Massoterapia.** São Paulo: Manole, 2007. 
+-CLAY, J.H; POUNDS, D. M. **Massoterapia Clínica- Integrando anatomia ao tratamento** . 2ª ed. São Paulo: Manole. 2008.
 
--CASSAR, M. P. **Manual de Massagem Terapêutica** . São Paulo: Manole. 2001. 
+-FRITZ, S. **Fundamentos da Massagem Terapêutica** . 2ª ed. São Paulo: Manole, 2002.
 
--CLAY, J.H; POUNDS, D. M. **Massoterapia Clínica- Integrando anatomia ao tratamento** . 2ª ed. São Paulo: Manole. 2008. 
+## **Bibliografia Complementar:**
 
--FRITZ, S. **Fundamentos da Massagem Terapêutica** . 2ª ed. São Paulo: Manole, 2002. 
+-DOMENICO, G.; WOOD, E. C. **Técnica de Massagem de Beard** . 4ª ed. São Paulo: Manole, 1998.
 
-## **Bibliografia Complementar:** 
+-BECK, M. F.; HESS, S.; MILLER, E. **Curso Básico de Massagem.** São: Paulo; Cengage Learning, 2009.
 
--DOMENICO, G.; WOOD, E. C. **Técnica de Massagem de Beard** . 4ª ed. São Paulo: Manole, 1998. 
+-CHAITOW, L. **Guia do terapeuta: massagem para dor lombar e pélvica.** Rio de Janeiro: Elsevier, 2008.
 
--BECK, M. F.; HESS, S.; MILLER, E. **Curso Básico de Massagem.** São: Paulo; Cengage Learning, 2009. 
+-BENTLEY, E. **O livro essencial da massagem.** São Paulo: Manole, 2006.
 
--CHAITOW, L. **Guia do terapeuta: massagem para dor lombar e pélvica.** Rio de Janeiro: Elsevier, 2008. 
+-DAVIES, C.; DAVIES, A. **Livro terapêutico do ponto gatilho- Guia de tratamento da dor.** São Paulo: Roca, 2012.
 
--BENTLEY, E. **O livro essencial da massagem.** São Paulo: Manole, 2006. 
+-MEYER, S. **Técnica de Massagem: aprimorando a arte do toque.** v. 1. São Paulo: Manole, 2010.
 
--DAVIES, C.; DAVIES, A. **Livro terapêutico do ponto gatilho- Guia de tratamento da dor.** São Paulo: Roca, 2012. 
+-MEYER, S. **Técnica de Massagem: redescobrindo o sentido do tato.** v. 2. São Paulo: Manole, 2010.
 
--MEYER, S. **Técnica de Massagem: aprimorando a arte do toque.** v. 1. São Paulo: Manole, 2010. 
+50
 
--MEYER, S. **Técnica de Massagem: redescobrindo o sentido do tato.** v. 2. São Paulo: Manole, 2010. 
+**Campus Londrina do IFPR**
 
-50 
+**Eixo Tecnológico:** Ambiente e Saúde
 
-**Campus Londrina do IFPR** 
+**Curso:** Técnico em Massoterapia
 
-**Eixo Tecnológico:** Ambiente e Saúde 
+**Componente Curricular** : Técnicas da Massagem Reflexologia Podal **Carga Horária** : 60 horas **Período letivo: II semestre Ementa:**
 
-**Curso:** Técnico em Massoterapia 
+**Período letivo: II semestre**
 
-**Componente Curricular** : Técnicas da Massagem Reflexologia Podal **Carga Horária** : 60 horas **Período letivo: II semestre Ementa:** 
+Histórico da Reflexologia Podal.  Princípios, características, indicações e contraindicações da Massagem Reflexologia Podal. Reflexologia Podal aplicada.
 
-**Período letivo: II semestre** 
+## **Bibliografia Básica:**
 
-Histórico da Reflexologia Podal.  Princípios, características, indicações e contraindicações da Massagem Reflexologia Podal. Reflexologia Podal aplicada. 
+CASSAR, Mario-Paul. **Manual de massagem terapêutica:** um guia completo de massoterapia para o estudante e para o terapeuta. São Paulo: Manole, 2001.
 
-## **Bibliografia Básica:** 
+GILLANDERS, A. **Guia Completo de Reflexologia** . São Paulo: Pensamento, 2008.
 
-CASSAR, Mario-Paul. **Manual de massagem terapêutica:** um guia completo de massoterapia para o estudante e para o terapeuta. São Paulo: Manole, 2001. 
+LIMA, V.; TEIXEIRA, A. de S. M. **Cinesiologia do Alongamento** . 3ªEd.  São Paulo: Sprint, 2002.
 
-GILLANDERS, A. **Guia Completo de Reflexologia** . São Paulo: Pensamento, 2008. 
+LOURENÇO, OT **. Reflexologia Podal** . 4 ed. Ground, 2010.
 
-LIMA, V.; TEIXEIRA, A. de S. M. **Cinesiologia do Alongamento** . 3ªEd.  São Paulo: Sprint, 2002. 
+GILLANDERS, A. **Reflexologia para dor nas costas:** cure as costas com um método seguro e bem sucedido. São Paulo: Pensamento, 2006.
 
-LOURENÇO, OT **. Reflexologia Podal** . 4 ed. Ground, 2010. 
+## **Bibliografia Complementar:**
 
-GILLANDERS, A. **Reflexologia para dor nas costas:** cure as costas com um método seguro e bem sucedido. São Paulo: Pensamento, 2006. 
+BRAUN, M. B.; SIMONSON, S. J. **Massoterapia.** São Paulo: Manole, 2007.
 
-## **Bibliografia Complementar:** 
+GILLANDERS, Ann. **Reflexologia para mulheres** : tratamentos passo a passo para mulheres de todas as idades. São Paulo: Pensamento, 2006.
 
-BRAUN, M. B.; SIMONSON, S. J. **Massoterapia.** São Paulo: Manole, 2007. 
+KEET, L. **Biblia da Reflexologia** . São Paulo: Pensamento, 2011.
 
-GILLANDERS, Ann. **Reflexologia para mulheres** : tratamentos passo a passo para mulheres de todas as idades. São Paulo: Pensamento, 2006. 
+SEAGER, Adrian. **Reflexologia e aspectos relacionados à saúde:** guia do praticante. São Paulo: Madras, 2010.
 
-KEET, L. **Biblia da Reflexologia** . São Paulo: Pensamento, 2011. 
+WERNER, R. **Guia de Patologia para Massoterapeutas.** 2ªEd. Rio de Janeiro: Guanabara Koogan, 2005.
 
-SEAGER, Adrian. **Reflexologia e aspectos relacionados à saúde:** guia do praticante. São Paulo: Madras, 2010. 
-
-WERNER, R. **Guia de Patologia para Massoterapeutas.** 2ªEd. Rio de Janeiro: Guanabara Koogan, 2005. 
-
-51 
+51
 
 |**Campus Londrina do IFPR**|**Campus Londrina do IFPR**|
 |---|---|
@@ -1231,175 +1212,173 @@ WERNER, R. **Guia de Patologia para Massoterapeutas.** 2ªEd. Rio de Janeiro: Gu
 |**Bibliografia Básica:**<br>ANDRADE, C. K; CLIFFORD, P.**Massagem: Técnicas e Resultados.**Rio de<br>Janeiro: Guanabara-Koogan, 2003.<br>ARCHER, P.**Massagem Terapêutica Esportiva**. 1ªEd.  São Paulo: Manole, 2008.<br>BRAUN, M. B.; SIMONSON, S. J.**Massoterapia.**São Paulo: Manole, 2007.<br>CASSAR, Mario-Paul.**Manual de massagem terapêutica:**um guia completo de<br>massoterapia para o estudante e para o terapeuta. São Paulo: Manole, 2001.<br> <br>LIMA, V.; TEIXEIRA, A. de S. M.**Cinesiologia do Alongamento**. 3ªEd.  São Paulo:<br>Sprint, 2002.||
 |**Bibliografia Complementar:**<br>BECK, M. F.; HESS, S.; MILLER, E.**Curso Básico de Massagem.**São: Paulo;<br>Cengage Learning, 2009.<br>CLAY, James H.; POUNDS, David M.**Massoterapia clínica:**integrando anatomia e<br>tratamento . 2. ed. Barueri: Manole, 2008.<br>DOMENICO, G.; WOOD, E. C.**Técnica de Massagem de Beard**. 4ª ed. São Paulo:<br>Manole, 1998.<br>FRITZ, S.**Fundamentos da Massagem Terapêutica**. 2ª ed. São Paulo: Manole,<br>2002.<br>WERNER, R.**Guia de Patologia para Massoterapeutas.**2ªEd. Rio de Janeiro:<br>Guanabara Koogan, 2005.||
 
+52
 
+**Campus Londrina do IFPR Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Segurança **Componente Curricular** : Técnica da Massagem Shantala **Carga Horária** : 20 horas **Período letivo: II semestre Ementa:**
 
-52 
+Fisiologia do Toque. Histórico da Massagem Shantala. Princípios e Características da Massagem Shantala. Massagem Shantala aplicada.
 
-**Campus Londrina do IFPR Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Segurança **Componente Curricular** : Técnica da Massagem Shantala **Carga Horária** : 20 horas **Período letivo: II semestre Ementa:** 
+## **Bibliografia Básica:**
 
-Fisiologia do Toque. Histórico da Massagem Shantala. Princípios e Características da Massagem Shantala. Massagem Shantala aplicada. 
+LEBOYER **,** Frederic. **Shantala: uma arte tradicional de massagem para bebês.** São Paulo: Ground, 1998, 7 Ed.
 
-## **Bibliografia Básica:** 
+MONTAGU, Ashley. **Tocar: Significado humano da pele.** São Paulo: Summus Editorial, 1988, 10 Ed.
 
-LEBOYER **,** Frederic. **Shantala: uma arte tradicional de massagem para bebês.** São Paulo: Ground, 1998, 7 Ed. 
+WALKER, Peter. **O Livro de Massagem do Bebê.** São Paulo: Manole, 2000.
 
-MONTAGU, Ashley. **Tocar: Significado humano da pele.** São Paulo: Summus Editorial, 1988, 10 Ed. 
+WALKER, Peter. **Massagem para o desenvolvimento do bebê:** guia ilustrado. Barueri: Manole, 2011.
 
-WALKER, Peter. **O Livro de Massagem do Bebê.** São Paulo: Manole, 2000. 
+GÕVINDAN, Es. Vi. **Massagem terapêutica para doenças das áreas vitais:** tratamento marma. São Paulo: Madras, 2009.
 
-WALKER, Peter. **Massagem para o desenvolvimento do bebê:** guia ilustrado. Barueri: Manole, 2011. 
+## **Bibliografia Complementar:**
 
-GÕVINDAN, Es. Vi. **Massagem terapêutica para doenças das áreas vitais:** tratamento marma. São Paulo: Madras, 2009. 
+CAMPADELLO, Pier. **Massagem infantil:** carinho, saúde e amor para o seu bebê. 3. ed. São Paulo: Madras, 2000; c1999
 
-## **Bibliografia Complementar:** 
+SINCLAIR, Marybetts. **Massoterapia pediátrica.** 2. ed. Barueri: Manole, 2008.
 
-CAMPADELLO, Pier. **Massagem infantil:** carinho, saúde e amor para o seu bebê. 3. ed. São Paulo: Madras, 2000; c1999 
+VOORMANN, Christina; DANDEKAR, Govin. **Massagem em bebê:** toque-calorcarinho. São Paulo: AllesTrade, [2004?].
 
-SINCLAIR, Marybetts. **Massoterapia pediátrica.** 2. ed. Barueri: Manole, 2008. 
+WALKER, Peter. **A arte e a prática da massagem em bebês.** São Paulo: Pensamento, 2006, 9ed.
 
-VOORMANN, Christina; DANDEKAR, Govin. **Massagem em bebê:** toque-calorcarinho. São Paulo: AllesTrade, [2004?]. 
+TRINDADE **,** André. **Gestos de Cuidado, Gestos de Amor – orientações sobre o desenvolvimento do bebê.** São Paulo: Summus, 2007.
 
-WALKER, Peter. **A arte e a prática da massagem em bebês.** São Paulo: Pensamento, 2006, 9ed. 
+53
 
-TRINDADE **,** André. **Gestos de Cuidado, Gestos de Amor – orientações sobre o desenvolvimento do bebê.** São Paulo: Summus, 2007. 
+## **Campus Londrina do IFPR**
 
-53 
+**Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Técnica da Massagem Tai **Carga Horária** : 60 horas **Período letivo: II semestre Ementa:**
 
-## **Campus Londrina do IFPR** 
+Histórico da Massagem Tai. Princípios, características, indicações e contraindicações da Massagem Tai. Massagem Tai aplicada.
 
-**Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Técnica da Massagem Tai **Carga Horária** : 60 horas **Período letivo: II semestre Ementa:** 
+## **Bibliografia Básica:**
 
-Histórico da Massagem Tai. Princípios, características, indicações e contraindicações da Massagem Tai. Massagem Tai aplicada. 
+BRAUN, M. B.; SIMONSON, S. J. **Massoterapia.** São Paulo: Manole, 2007.
 
-## **Bibliografia Básica:** 
+COIMBRA, C. A. **Thai Yoga Massagem: A arte milenar da massagem tradicional tailandesa.** 1ªEd. São Paulo: Ibraqui, 2006.
 
-BRAUN, M. B.; SIMONSON, S. J. **Massoterapia.** São Paulo: Manole, 2007. 
+GOLD **,** R. **Massagem Tai: Uma técnica médica tradicional.** 1ªEd. São Paulo: Manole, 2000.
 
-COIMBRA, C. A. **Thai Yoga Massagem: A arte milenar da massagem tradicional tailandesa.** 1ªEd. São Paulo: Ibraqui, 2006. 
+LIMA, V.; TEIXEIRA, A. de S. M. **Cinesiologia do Alongamento** . 3ªEd.  São Paulo: Sprint, 2002.
 
-GOLD **,** R. **Massagem Tai: Uma técnica médica tradicional.** 1ªEd. São Paulo: Manole, 2000. 
+SALGUERO, C. P. **Enciclopédia de Massagem Thai: Um guia completo de massoterapia thai tradicional e de acupressura.** 1ªEd. São Paulo: Madras, 2010. **Bibliografia Complementar:**
 
-LIMA, V.; TEIXEIRA, A. de S. M. **Cinesiologia do Alongamento** . 3ªEd.  São Paulo: Sprint, 2002. 
+ANDRADE, C-K; CLIFFORD, P. **Massagem: Técnicas e Resultados.** 1ªEd. Rio de Janeiro: Guanabara Koogan, 2003.
 
-SALGUERO, C. P. **Enciclopédia de Massagem Thai: Um guia completo de massoterapia thai tradicional e de acupressura.** 1ªEd. São Paulo: Madras, 2010. **Bibliografia Complementar:** 
+CASSAR, Mario-Paul. **Manual de massagem terapêutica:** um guia completo de massoterapia para o estudante e para o terapeuta. São Paulo: Manole, 2001.
 
-ANDRADE, C-K; CLIFFORD, P. **Massagem: Técnicas e Resultados.** 1ªEd. Rio de Janeiro: Guanabara Koogan, 2003. 
+CLAY, J. H.; POUNDS, D. M. **Massoterapia Clínica: integrando anatomia e tratamento.** 1ªEd. São Paulo: Manole, 2003.
 
-CASSAR, Mario-Paul. **Manual de massagem terapêutica:** um guia completo de massoterapia para o estudante e para o terapeuta. São Paulo: Manole, 2001. 
+KENDALL, F. P.; McCREARY, E. K,; PROVANCE, P. G. **Músculos: Provas e Funções.** 1ªEd. São Paulo: Manole,1995.
 
-CLAY, J. H.; POUNDS, D. M. **Massoterapia Clínica: integrando anatomia e tratamento.** 1ªEd. São Paulo: Manole, 2003. 
+WERNER, R. **Guia de Patologia para Massoterapeutas.** 2ªEd. Rio de Janeiro: Guanabara Koogan, 2005.
 
-KENDALL, F. P.; McCREARY, E. K,; PROVANCE, P. G. **Músculos: Provas e Funções.** 1ªEd. São Paulo: Manole,1995. 
+54
 
-WERNER, R. **Guia de Patologia para Massoterapeutas.** 2ªEd. Rio de Janeiro: Guanabara Koogan, 2005. 
+**Campus Londrina do IFPR Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Medicina Tradicional Chinesa **Carga Horária** : 60horas **Período letivo: II Semestre Ementa:**
 
-54 
+História da Medicina Tradicional Chinesa. Conceitos Básicos da MTC. Teoria Yin e Yang. Teoria dos Cinco Elementos. Teoria dos Meridianos. Utilização dos conceitos da MTC na prática da massagem oriental.
 
-**Campus Londrina do IFPR Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Medicina Tradicional Chinesa **Carga Horária** : 60horas **Período letivo: II Semestre Ementa:** 
+## **Bibliografia Básica:**
 
-História da Medicina Tradicional Chinesa. Conceitos Básicos da MTC. Teoria Yin e Yang. Teoria dos Cinco Elementos. Teoria dos Meridianos. Utilização dos conceitos da MTC na prática da massagem oriental. 
+CHONGHUO, Tian. **Tratado de Medicina Chinesa.** São Paulo, Rocca, 1993.
 
-## **Bibliografia Básica:** 
+CROSS, John R. Dr. **Acupuntura e o sistema de energia dos chakras:** tratando a causa das doenças. Barueri: Manole, 2010.
 
-CHONGHUO, Tian. **Tratado de Medicina Chinesa.** São Paulo, Rocca, 1993. 
+MACIOCIA, G. **Os fundamentos da medicina chinesa** . São Paulo: Editora Roca, 1996.
 
-CROSS, John R. Dr. **Acupuntura e o sistema de energia dos chakras:** tratando a causa das doenças. Barueri: Manole, 2010. 
+WEN, T. S. **Acupuntura Clássica Chinesa** . São Paulo: Editora Cultrix, 2006.
 
-MACIOCIA, G. **Os fundamentos da medicina chinesa** . São Paulo: Editora Roca, 1996. 
+ZHUFAN, Xie. **Medicina interna tradicional chinesa.** São Paulo: Roca, 1997
 
-WEN, T. S. **Acupuntura Clássica Chinesa** . São Paulo: Editora Cultrix, 2006. 
+## **Bibliografia Complementar:**
 
-ZHUFAN, Xie. **Medicina interna tradicional chinesa.** São Paulo: Roca, 1997 
+ARCHANGE, G. **Manual de massagem chinesa.** São Paulo: Andrei, 1986.
 
-## **Bibliografia Complementar:** 
+JIAN, O; YICHENG, J. **Fundamentos da massoterapia chinesa.** São Paulo: Andrei, 2010.
 
-ARCHANGE, G. **Manual de massagem chinesa.** São Paulo: Andrei, 1986. 
+YAMAMURA, Y. **Tratado de Medicina Chinesa** . São Paulo: Roca, 1993.
 
-JIAN, O; YICHENG, J. **Fundamentos da massoterapia chinesa.** São Paulo: Andrei, 2010. 
+STEVELING, H. U. H.; KASTNER, E. P. J.; LIEBCHEN, K. **Atlas Colorido de Acupuntura.** Rio de Janeiro, Editora Guanabara Koogan, 2007.
 
-YAMAMURA, Y. **Tratado de Medicina Chinesa** . São Paulo: Roca, 1993. 
+WU, Gengwei; HAO, Dongfang. **Massagem tradicional chinesa nas mãos e pés.** São Paulo: Andrei, 2008. 209 p
 
-STEVELING, H. U. H.; KASTNER, E. P. J.; LIEBCHEN, K. **Atlas Colorido de Acupuntura.** Rio de Janeiro, Editora Guanabara Koogan, 2007. 
+55
 
-WU, Gengwei; HAO, Dongfang. **Massagem tradicional chinesa nas mãos e pés.** São Paulo: Andrei, 2008. 209 p 
+## **- III Semestre -**
 
-55 
+## **Campus Londrina do IFPR**
 
-## **- III Semestre -** 
+**Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Técnica da Massagem Tuiná **Carga Horária** : 60 horas **Período letivo: III semestre**
 
-## **Campus Londrina do IFPR** 
+**Ementa:**
 
-**Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Técnica da Massagem Tuiná **Carga Horária** : 60 horas **Período letivo: III semestre** 
+Histórico da Massagem Tuiná.  Princípios, características, indicações e contraindicações da Massagem Tuiná. Massagem Tuiná aplicada.
 
-**Ementa:** 
+## **Bibliografia Básica:**
 
-Histórico da Massagem Tuiná.  Princípios, características, indicações e contraindicações da Massagem Tuiná. Massagem Tuiná aplicada. 
+ARCHANGE,G. **Manual de Massagem Chinesa.** São Paulo: Andrei, 1986.
 
-## **Bibliografia Básica:** 
+CAO, Jiming; SU, Xinming; CAO, Junqi. **Fundamentos da pediatria tradicional chinesa.** São Paulo: Andrei, 2009.
 
-ARCHANGE,G. **Manual de Massagem Chinesa.** São Paulo: Andrei, 1986. 
+CHIA, Mantak. **Automassagem Chi:** método taoísta de rejuvenescimento. 7. ed. São Paulo: Cultrix, 1986.
 
-CAO, Jiming; SU, Xinming; CAO, Junqi. **Fundamentos da pediatria tradicional chinesa.** São Paulo: Andrei, 2009. 
+JIAN, P.; YICHENG, J. **Fundamentos da Massoterapia Chinesa.** São Paulo: Andrei, 2010.
 
-CHIA, Mantak. **Automassagem Chi:** método taoísta de rejuvenescimento. 7. ed. São Paulo: Cultrix, 1986. 
+LOPES, C. **Tuina: Medicina Manual Chinesa.** São Paulo: Andreoli, 2010.
 
-JIAN, P.; YICHENG, J. **Fundamentos da Massoterapia Chinesa.** São Paulo: Andrei, 2010. 
+## **Bibliografia Complementar:**
 
-LOPES, C. **Tuina: Medicina Manual Chinesa.** São Paulo: Andreoli, 2010. 
+MERCATI, M. **Tuina: massagem para uma criança mais saudável e inteligente.** São Paulo: Manole, 2000.
 
-## **Bibliografia Complementar:** 
+GENGWEI, W.; DONGFANG, H. **Massagem Tradicional Chinesa nas Mãos e Pés.** 1ªEd. São Paulo: Andrei, 2008.
 
-MERCATI, M. **Tuina: massagem para uma criança mais saudável e inteligente.** São Paulo: Manole, 2000. 
+WEN, T, S. **Acupuntura Clássica Chinesa.** 13ªEd. São Paulo: Cultrix, 2007.
 
-GENGWEI, W.; DONGFANG, H. **Massagem Tradicional Chinesa nas Mãos e Pés.** 1ªEd. São Paulo: Andrei, 2008. 
+BIENFAIT, Marcel. **Fáscias e pompages:** estudo e tratamento do esqueleto fibroso. 5. ed. São Paulo:Summus, 1999.
 
-WEN, T, S. **Acupuntura Clássica Chinesa.** 13ªEd. São Paulo: Cultrix, 2007. 
+MERCATI, M. **Tui-Ná – Massagem para Estimular o Corpo e a Mente** . São Paulo: Manole, 1999.
 
-BIENFAIT, Marcel. **Fáscias e pompages:** estudo e tratamento do esqueleto fibroso. 5. ed. São Paulo:Summus, 1999. 
+56
 
-MERCATI, M. **Tui-Ná – Massagem para Estimular o Corpo e a Mente** . São Paulo: Manole, 1999. 
+## **Campus Londrina do IFPR**
 
-56 
+**Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Técnica da Massagem Shiatsu
 
-## **Campus Londrina do IFPR** 
+**Carga Horária** : 60 horas **Período letivo: III Semestre**
 
-**Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Técnica da Massagem Shiatsu 
+**Ementa:**
 
-**Carga Horária** : 60 horas **Período letivo: III Semestre** 
+Histórico da Massagem Shiatsu. Princípios, características, indicações e contraindicações da Massagem Shiatsu. Massagem Shiatsu Aplicada.
 
-**Ementa:** 
+## **Bibliografia Básica:**
 
-Histórico da Massagem Shiatsu. Princípios, características, indicações e contraindicações da Massagem Shiatsu. Massagem Shiatsu Aplicada. 
+BASTOS, S.R.C. **Shiatsu tradicional.** Rio de Janeiro: Sohaku-In, 2000.
 
-## **Bibliografia Básica:** 
+JAHARA-PRADIPTO, M. **Zen-Shiatsu: Equilíbrio Energético e Consciência do Corpo.** 16ª ed. São Paulo: Summus, 1986.
 
-BASTOS, S.R.C. **Shiatsu tradicional.** Rio de Janeiro: Sohaku-In, 2000. 
+JIAN, O; YICHENG, J. **Fundamentos da massoterapia chinesa.** São Paulo: Andrei, 2010.
 
-JAHARA-PRADIPTO, M. **Zen-Shiatsu: Equilíbrio Energético e Consciência do Corpo.** 16ª ed. São Paulo: Summus, 1986. 
+JARMEY, C. **Shiatsu.** São Paulo: Manole, 2009.
 
-JIAN, O; YICHENG, J. **Fundamentos da massoterapia chinesa.** São Paulo: Andrei, 2010. 
+RAPPENECKER, Wilfried; KOCKRICK, Meike. **Atlas de shiatsu: os meridianos do zenshiatsu** . Barueri: Manole, 2008
 
-JARMEY, C. **Shiatsu.** São Paulo: Manole, 2009. 
+## **Bibliografia Complementar:**
 
-RAPPENECKER, Wilfried; KOCKRICK, Meike. **Atlas de shiatsu: os meridianos do zenshiatsu** . Barueri: Manole, 2008 
+BASTOS, S.R.C. **Shiatsu tradicional.** Rio de Janeiro: Sohaku-In, 2000.
 
-## **Bibliografia Complementar:** 
+NAMIKOSHI, T. **O Livro Completo da Terapia Shiatsu** . São Paulo: Manole, 1992.
 
-BASTOS, S.R.C. **Shiatsu tradicional.** Rio de Janeiro: Sohaku-In, 2000. 
+MACIOCIA. G. **Fundamentos de Medicina Chinesa** . São Paulo: Roca, 2007.
 
-NAMIKOSHI, T. **O Livro Completo da Terapia Shiatsu** . São Paulo: Manole, 1992. 
+WEN, T. S. **Acupuntura Clássica Chinesa** . 16ª ed. São Paulo: Cultrix, 2000.
 
-MACIOCIA. G. **Fundamentos de Medicina Chinesa** . São Paulo: Roca, 2007. 
+RAPPENECKER, W. **Atlas de Shiatsu.** São Paulo: Manole, 2008.
 
-WEN, T. S. **Acupuntura Clássica Chinesa** . 16ª ed. São Paulo: Cultrix, 2000. 
+SOUZA, Wanderley de. **Shiatsu dos meridianos: um guia passo-a-passo.** São Paulo: Senac, 2005.
 
-RAPPENECKER, W. **Atlas de Shiatsu.** São Paulo: Manole, 2008. 
+VACCHIANO, A. **Shiatsu facial: a arte do rejuvenescimento.** Rio de Janeiro: Ground, 2008.
 
-SOUZA, Wanderley de. **Shiatsu dos meridianos: um guia passo-a-passo.** São Paulo: Senac, 2005. 
-
-VACCHIANO, A. **Shiatsu facial: a arte do rejuvenescimento.** Rio de Janeiro: Ground, 2008. 
-
-57 
+57
 
 |**Campus Londrina do IFPR**|**Campus Londrina do IFPR**|
 |---|---|
@@ -1410,903 +1389,901 @@ VACCHIANO, A. **Shiatsu facial: a arte do rejuvenescimento.** Rio de Janeiro: Gr
 |**Bibliografia Básica:**<br>LEDUC, Albert; LEDUC, Olivier.**Drenagem Linfática teoria e prática**. São Paulo: Manole,<br>2000.<br>ELWING, A; SANCHES, O.**Drenagem Linfática Manual teoria e prática**. São Paulo:<br>Senac, 2010.<br>HERPERTZ, Ulrich.**Edema e Drenagem Linfática**. 2ª ed. São Paulo: Roca, 2006.<br>RIBEIRO, Denise Rodrigues.**Drenagem linfática manual corporal.**6. ed. São Paulo:<br>Senac São Paulo, 2004<br>FISIOPATOLOGIA. 2. ed. Rio de Janeiro: Guanabara Koogan, 2004.||
 |**Bibliografia Complementar:**<br>JACQUEMAY, Dominique.**A Drenagem – vitalidade**. São Paulo: Manole, 2000.<br>GUYTON e HALL.**Tratado de Fisiologia Médica**. 9ª ed. Rio de Janeiro: Guanabara<br>Koogan, 1996.<br>GUIRRO, Rinaldo; GUIRRO, Elaine.**Fisioterapia Dermato-Funcional: fundamentos,**<br>**recursos e patologias**. 3ª edição revisada e ampliada. São Paulo: Manole, 2004.<br>GUSMÃO, C.**Drenagem Linfática Manual.**São PauloL Atheneu, 2010.<br>MONSTERLEET, G.**Drenagem Linfática: Guia completo de técnica e fisiologia.**São<br>Paulo: Manole, 2010.||
 
+58
 
+**Campus Londrina do IFPR Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Prática Profissional das Técnicas Massoterapêuticas – I **Carga Horária** : 120 horas **Período letivo: III semestre Ementa:**
 
-58 
+Prática profissional das Técnicas de Massoterapia, proporcionando instrumentais de cada habilitação, por meio da vivência de diferentes situações práticas de estudo e de trabalho.
 
-**Campus Londrina do IFPR Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Prática Profissional das Técnicas Massoterapêuticas – I **Carga Horária** : 120 horas **Período letivo: III semestre Ementa:** 
+**Bibliografia Básica:** CASSAR, M. P. **Manual de Massagem Terapêutica** . São Paulo: Manole. 2001. LEBOYER **,** Frederic. **Shantala: uma arte tradicional de massagem para bebês.** São Paulo: Ground, 1998, 7 Ed. ARCHER, P. **Massagem Terapêutica Esportiva** . 1ªEd.  São Paulo: Manole, 2008. JAHARA-PRADIPTO, M. **Zen-Shiatsu: Equilíbrio Energético e Consciência do Corpo.** 16ª ed. São Paulo: Summus, 1986. STEPHENS, R. R. **Massagem Terapêutica na Cadeira.** 1ª Ed. São Paulo: Manole, 2008. **Bibliografia Complementar:** LEDUC, Albert; LEDUC, Olivier. **Drenagem Linfática teoria e prática** . São Paulo: Manole, 2000. JIAN, P.; YICHENG, J. **Fundamentos da Massoterapia Chinesa.** 1ªEd. São Paulo: Andrei, 2010. GOLD **,** R. **Massagem Tai: Uma técnica médica tradicional.** 1ªEd. São Paulo: Manole, 2000. JOHARI, H. **Manual de Massagem Ayurveda: Técnicas Indianas Tradicionais para o Equilíbrio do Corpo e da Mente.** São Paulo: Ground, 2007. CARTER, Mildred; WEBER, Tammy. **Reflexologia das mãos:** chave para a saúde perfeita. 2. ed. São Paulo: Pensamento, 2006. GILLANDERS, A. **Guia Completo de Reflexologia** . São Paulo: Pensamento, 2008.
 
-Prática profissional das Técnicas de Massoterapia, proporcionando instrumentais de cada habilitação, por meio da vivência de diferentes situações práticas de estudo e de trabalho. 
+59
 
-**Bibliografia Básica:** CASSAR, M. P. **Manual de Massagem Terapêutica** . São Paulo: Manole. 2001. LEBOYER **,** Frederic. **Shantala: uma arte tradicional de massagem para bebês.** São Paulo: Ground, 1998, 7 Ed. ARCHER, P. **Massagem Terapêutica Esportiva** . 1ªEd.  São Paulo: Manole, 2008. JAHARA-PRADIPTO, M. **Zen-Shiatsu: Equilíbrio Energético e Consciência do Corpo.** 16ª ed. São Paulo: Summus, 1986. STEPHENS, R. R. **Massagem Terapêutica na Cadeira.** 1ª Ed. São Paulo: Manole, 2008. **Bibliografia Complementar:** LEDUC, Albert; LEDUC, Olivier. **Drenagem Linfática teoria e prática** . São Paulo: Manole, 2000. JIAN, P.; YICHENG, J. **Fundamentos da Massoterapia Chinesa.** 1ªEd. São Paulo: Andrei, 2010. GOLD **,** R. **Massagem Tai: Uma técnica médica tradicional.** 1ªEd. São Paulo: Manole, 2000. JOHARI, H. **Manual de Massagem Ayurveda: Técnicas Indianas Tradicionais para o Equilíbrio do Corpo e da Mente.** São Paulo: Ground, 2007. CARTER, Mildred; WEBER, Tammy. **Reflexologia das mãos:** chave para a saúde perfeita. 2. ed. São Paulo: Pensamento, 2006. GILLANDERS, A. **Guia Completo de Reflexologia** . São Paulo: Pensamento, 2008. 
+**Câmpus Londrina do IFPR Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Prática Científica em Massoterapia I **Carga Horária** : 40 horas **Período letivo: III semestre Ementa:**
 
-59 
+Desenvolvimento da Pesquisa Científica. Revisão Bibliográfica. Coleta de dados.
 
-**Câmpus Londrina do IFPR Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Prática Científica em Massoterapia I **Carga Horária** : 40 horas **Período letivo: III semestre Ementa:** 
+## **Bibliografia Básica:**
 
-Desenvolvimento da Pesquisa Científica. Revisão Bibliográfica. Coleta de dados. 
+DEMO, Pedro. **Pesquisa:** princípio científico e educativo. 8. ed. São Paulo: Cortez, 2001.
 
-## **Bibliografia Básica:** 
+GIL, A. C. **Como elaborar projetos de pesquisa** . 3. ed. São Paulo: Atlas, 1996.
 
-DEMO, Pedro. **Pesquisa:** princípio científico e educativo. 8. ed. São Paulo: Cortez, 2001. 
+GIL, A. C. **Métodos e técnicas de pesquisa socia** l. 6 ed. São Paulo: Atlas, 2008.
 
-GIL, A. C. **Como elaborar projetos de pesquisa** . 3. ed. São Paulo: Atlas, 1996. 
+INSTITUTO FEDERAL DO PARANÁ. **Normas para apresentação de trabalhos acadêmicos do Instituto Federal do Paraná (IFPR)** . Curitiba , 2010.
 
-GIL, A. C. **Métodos e técnicas de pesquisa socia** l. 6 ed. São Paulo: Atlas, 2008. 
+LAKATOS, E. M.; MARCONI, N. A. **Técnicas de Pesquisa** . 4 ed. São Paulo: Atlas, 1999.
 
-INSTITUTO FEDERAL DO PARANÁ. **Normas para apresentação de trabalhos acadêmicos do Instituto Federal do Paraná (IFPR)** . Curitiba , 2010. 
+**Bibliografia Complementar:**
 
-LAKATOS, E. M.; MARCONI, N. A. **Técnicas de Pesquisa** . 4 ed. São Paulo: Atlas, 1999. 
+AQUINO, Italo de Souza. **Como escrever artigos científicos:** sem arrodeio e sem medo da ABNT. 8. ed. São Paulo: Saraiva, 2010
 
-**Bibliografia Complementar:** 
+BARROS, Aidil de Jesus Paes de; LEHFELD, Neide Aparecida de Souza. **Fundamentos de metodologia científica.** 3.ed. São Paulo: Makron Books, 2007.
 
-AQUINO, Italo de Souza. **Como escrever artigos científicos:** sem arrodeio e sem medo da ABNT. 8. ed. São Paulo: Saraiva, 2010 
+BOOTH, Wayne C.; COLOMB, Gregory G.; WILLIAMS, Joseph M. **A arte da pesquisa.** 2.ed. São Paulo: Martins Fontes, 2005.
 
-BARROS, Aidil de Jesus Paes de; LEHFELD, Neide Aparecida de Souza. **Fundamentos de metodologia científica.** 3.ed. São Paulo: Makron Books, 2007. 
+LAKATOS, Eva Maria; MARCONI, Marina de Andrade. **Fundamentos de metodologia científica** . 2 ed. São Paulo:Atlas, 1991.
 
-BOOTH, Wayne C.; COLOMB, Gregory G.; WILLIAMS, Joseph M. **A arte da pesquisa.** 2.ed. São Paulo: Martins Fontes, 2005. 
+RUDIO, Franz Victor. **Introdução ao projeto de pesquisa científica** . 29. ed. Petrópolis: Vozes, 2001.
 
-LAKATOS, Eva Maria; MARCONI, Marina de Andrade. **Fundamentos de metodologia científica** . 2 ed. São Paulo:Atlas, 1991. 
+60
 
-RUDIO, Franz Victor. **Introdução ao projeto de pesquisa científica** . 29. ed. Petrópolis: Vozes, 2001. 
+## **- IV Semestre –**
 
-60 
+## **Campus Londrina do IFPR**
 
-## **- IV Semestre –** 
+**Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricularponente Curricularonente Curricular** : Massoterapia em Saúde Coletivapia em Saúde Coletivaia em Saúde Coletiva **Carga Horária a Horária** : 20 horas **Período letivo: IV semestre**
 
-## **Campus Londrina do IFPR** 
+**Componente Curricularponente Curricularonente Curricular** : Massoterapia em Saúde Coletivapia em Saúde Coletivaia em Saúde Coletiva **Carga Horária** : 20 horas
 
-**Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricularponente Curricularonente Curricular** : Massoterapia em Saúde Coletivapia em Saúde Coletivaia em Saúde Coletiva **Carga Horária a Horária** : 20 horas **Período letivo: IV semestre** 
+## **Ementa:**
 
-**Componente Curricularponente Curricularonente Curricular** : Massoterapia em Saúde Coletivapia em Saúde Coletivaia em Saúde Coletiva **Carga Horária** : 20 horas 
+Conceito de Saúde; Processo saúde/doença/cuidado; Fatores predisponentes ao processo Saúde/doença; Bases conceituais para uma prática de saúde humanizada; Sistema Único de Saúde; Promoção da saúde (Conceitos Fundamentos/Campos da Saúde/Estratégias); Sociedade, saúde e trabalho, políticas públicas, legislação **.**
 
-## **Ementa:** 
+## **Bibliografia Básica:**
 
-Conceito de Saúde; Processo saúde/doença/cuidado; Fatores predisponentes ao processo Saúde/doença; Bases conceituais para uma prática de saúde humanizada; Sistema Único de Saúde; Promoção da saúde (Conceitos Fundamentos/Campos da Saúde/Estratégias); Sociedade, saúde e trabalho, políticas públicas, legislação **.** 
+CZERESNIA, Dina; FREITAS, Carlos Machado de (Org.). **Promoção da saúde** : conceitos, reflexões, tendências. 2. ed. rev. e ampl. Rio de Janeiro: Fiocruz, 2009. 229 p.
 
-## **Bibliografia Básica:** 
+ELIAS, Paulo Eduardo M. ; SEIXAS, Paulo Henrique D'Ângelo (Org.). **Política e gestão  pública em saúde** . São Paulo: Hucitec, 2011. 824 p.
 
-CZERESNIA, Dina; FREITAS, Carlos Machado de (Org.). **Promoção da saúde** : conceitos, reflexões, tendências. 2. ed. rev. e ampl. Rio de Janeiro: Fiocruz, 2009. 229 p. 
+FERREIRA NETO, João Leite; KIND, Luciana. **Promoção da saúde: práticas grupais na  estratégia saúde da família** . São Paulo: Hucitec, 2011. 182 p.
 
-ELIAS, Paulo Eduardo M. ; SEIXAS, Paulo Henrique D'Ângelo (Org.). **Política e gestão  pública em saúde** . São Paulo: Hucitec, 2011. 824 p. 
+BRASIL. Ministério da Saúde. **Diretrizes do NASF: Núcleo de Apoio a Saúde da Família.** Brasília: Ministério da Saúde, 2010. 150 p. (Cadernos de atenção básica
 
-FERREIRA NETO, João Leite; KIND, Luciana. **Promoção da saúde: práticas grupais na  estratégia saúde da família** . São Paulo: Hucitec, 2011. 182 p. 
+ANDRADE, Selma Maffei de; SOARES, Darli A; CORDONI JÚNIOR, Luiz (Org.). **Bases da  saúde coletiva** . Londrina: Eduel, 2001. 267
 
-BRASIL. Ministério da Saúde. **Diretrizes do NASF: Núcleo de Apoio a Saúde da Família.** Brasília: Ministério da Saúde, 2010. 150 p. (Cadernos de atenção básica 
+## **Bibliografia Complementar:**
 
-ANDRADE, Selma Maffei de; SOARES, Darli A; CORDONI JÚNIOR, Luiz (Org.). **Bases da  saúde coletiva** . Londrina: Eduel, 2001. 267 
+FONTINELE JUNIOR, Klinger. **Programa saúde da família (PSF):** comentado. 2.ed. rev., atual e ampl.Goiânia: AB Ed., 2008. 194 p.
 
-## **Bibliografia Complementar:** 
+KLOETZEL, Kurt. **Temas de saúde:** higiene física e do ambiente. São Paulo: EPU, 1980. 312 p.
 
-FONTINELE JUNIOR, Klinger. **Programa saúde da família (PSF):** comentado. 2.ed. rev., atual e ampl.Goiânia: AB Ed., 2008. 194 p. 
+BERTOLLI FILHO, Cláudio. **História da saúde pública no Brasil.** 5. ed. São Paulo: Ática, 2011. 72 p.
 
-KLOETZEL, Kurt. **Temas de saúde:** higiene física e do ambiente. São Paulo: EPU, 1980. 312 p. 
+SOARES, Darli A; CORDONI JÚNIOR, Luiz (Org.). **Saúde coletiva e conhecimento:** contribuições daUniversidade Estadual de Londrina. Londrina: Eduel, 2000. 110 p
 
-BERTOLLI FILHO, Cláudio. **História da saúde pública no Brasil.** 5. ed. São Paulo: Ática, 2011. 72 p. 
+ALMEIDA FILHO, Naomar de. **O que é saúde?.** Rio de Janeiro: Fiocruz, 2011. 156 p.
 
-SOARES, Darli A; CORDONI JÚNIOR, Luiz (Org.). **Saúde coletiva e conhecimento:** contribuições daUniversidade Estadual de Londrina. Londrina: Eduel, 2000. 110 p 
+61
 
-ALMEIDA FILHO, Naomar de. **O que é saúde?.** Rio de Janeiro: Fiocruz, 2011. 156 p. 
+**Campus Londrina do IFPR Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Planejamento Gerencial **Carga Horária** : 40 horas **Período letivo:** IV Semestre **Ementa:**
 
-61 
+Conceitos Básicos de Administração. Fundamentos de empreendedorismo, cooperativismo. Marketing aplicado à Massoterapia. Plano de Negócios na Massoterapia.
 
-**Campus Londrina do IFPR Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Planejamento Gerencial **Carga Horária** : 40 horas **Período letivo:** IV Semestre **Ementa:** 
+**Bibliografia Básica:** GAUTHIER, Fernando A. Ostuni; JUNIOR, Silvestre Labiak; MACEDO, Marcelo. **Empreendedorismo.** Curitiba: Editora do Livro Técnico, 2010.
 
-Conceitos Básicos de Administração. Fundamentos de empreendedorismo, cooperativismo. Marketing aplicado à Massoterapia. Plano de Negócios na Massoterapia. 
+MAXIMIANO, Antônio Cesar Amaru. **Administração para empreendedores:** fundamentos da criação e da gestão de novos negócios. São Paulo: Editora Pearson Prentice Hall. 2006. PEZZI, Cintia Regina; FIGUEIREDO, Priscila Aparecida de. **Práticas de recursos humanos.** Curitiba: IFPR Educação a Distância, 2012. SALIM, Cesar Simões et.al. **Construindo planos de negócio.** 4° Ed. Rio de Janeiro, RJ: Elsevier, 2005.
 
-**Bibliografia Básica:** GAUTHIER, Fernando A. Ostuni; JUNIOR, Silvestre Labiak; MACEDO, Marcelo. **Empreendedorismo.** Curitiba: Editora do Livro Técnico, 2010. 
+TAJRA, Sanmya Feitosa; SANTOS, Felipe Tajra. **Empreendedorismo:** questões nas áreas de saúde, social, empresarial e educacional. 2. ed. rev. e atual. São Paulo: Érica, 2012. **Bibliografia Complementar:**
 
-MAXIMIANO, Antônio Cesar Amaru. **Administração para empreendedores:** fundamentos da criação e da gestão de novos negócios. São Paulo: Editora Pearson Prentice Hall. 2006. PEZZI, Cintia Regina; FIGUEIREDO, Priscila Aparecida de. **Práticas de recursos humanos.** Curitiba: IFPR Educação a Distância, 2012. SALIM, Cesar Simões et.al. **Construindo planos de negócio.** 4° Ed. Rio de Janeiro, RJ: Elsevier, 2005. 
+ANDRADE, C. K; CLIFFORD, P. **Massagem: Técnicas e Resultados.** Rio de Janeiro: Guanabara-Koogan, 2003.
 
-TAJRA, Sanmya Feitosa; SANTOS, Felipe Tajra. **Empreendedorismo:** questões nas áreas de saúde, social, empresarial e educacional. 2. ed. rev. e atual. São Paulo: Érica, 2012. **Bibliografia Complementar:** 
+COSTA, Érico da Silva. **Gestão de pessoas.** Curitiba: Editora do Livro Técnico, 2010.
 
-ANDRADE, C. K; CLIFFORD, P. **Massagem: Técnicas e Resultados.** Rio de Janeiro: Guanabara-Koogan, 2003. 
+DOLABELA, Fernando. **Oficina do empreendedor:** a metodologia de ensino que ajuda a transformar conhecimento em riqueza. Rio de Janeiro: Sextante, 2008
 
-COSTA, Érico da Silva. **Gestão de pessoas.** Curitiba: Editora do Livro Técnico, 2010. 
+KOTLER, P & ARMSTRONG, G. **Princípios de Marketing** . 12ª ed. São Paulo. Pearson Prentice Hall, 2007.
 
-DOLABELA, Fernando. **Oficina do empreendedor:** a metodologia de ensino que ajuda a transformar conhecimento em riqueza. Rio de Janeiro: Sextante, 2008 
+SCHMIDT, Maria do Carmo. **Gestão de pessoas.** Curitiba: IFPR Educação a Distância, 2011.
 
-KOTLER, P & ARMSTRONG, G. **Princípios de Marketing** . 12ª ed. São Paulo. Pearson Prentice Hall, 2007. 
+62
 
-SCHMIDT, Maria do Carmo. **Gestão de pessoas.** Curitiba: IFPR Educação a Distância, 2011. 
+**Campus Londrina do IFPR Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Técnica da Massagem Estética **Carga Horária** : 40 horas **Período letivo: IV semestre Ementa:**
 
-62 
+História da Massagem Estética. Princípios, características, indicações e contraindicações da Massagem Estética. Massagem Estética aplicada.
 
-**Campus Londrina do IFPR Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Técnica da Massagem Estética **Carga Horária** : 40 horas **Período letivo: IV semestre Ementa:** 
+## **Bibliografia Básica:**
 
-História da Massagem Estética. Princípios, características, indicações e contraindicações da Massagem Estética. Massagem Estética aplicada. 
+CASSAR, Mario-Paul. **Manual de massagem terapêutica:** um guia completo de massoterapia para o estudante e para o terapeuta. São Paulo: Manole, 2001.
 
-## **Bibliografia Básica:** 
+CLAY, James H.; POUNDS, David M. **Massoterapia clínica:** integrando anatomia e tratamento . 2. ed. Barueri: Manole, 2008. CALVI, Eliziane Nitz de Carvalho; RODRIGUES, Paula Andreotti; GELSI, Thaís Andreotti. **Bambuterapia.** São Caetano do Sul: Yendis, 2009.
 
-CASSAR, Mario-Paul. **Manual de massagem terapêutica:** um guia completo de massoterapia para o estudante e para o terapeuta. São Paulo: Manole, 2001. 
+LEONARDI, G.R. **Cosmetologia Aplicada.** São Paulo: Medfarma, 2007.
 
-CLAY, James H.; POUNDS, David M. **Massoterapia clínica:** integrando anatomia e tratamento . 2. ed. Barueri: Manole, 2008. CALVI, Eliziane Nitz de Carvalho; RODRIGUES, Paula Andreotti; GELSI, Thaís Andreotti. **Bambuterapia.** São Caetano do Sul: Yendis, 2009. 
+MUMFORD, Susan. **A bíblia da massagem:** o guia definitivo da massagem. 1. ed. São Paulo: Pensamento, 2010.
 
-LEONARDI, G.R. **Cosmetologia Aplicada.** São Paulo: Medfarma, 2007. 
+## **Bibliografia Complementar:**
 
-MUMFORD, Susan. **A bíblia da massagem:** o guia definitivo da massagem. 1. ed. São Paulo: Pensamento, 2010. 
+BORGES, Fábio dos Santos. **Dermato-funcional: modalidades terapêuticas nas disfunções estéticas.** São Paulo: Phorte, 2006.
 
-## **Bibliografia Complementar:** 
+GUIRRO, Elaine Caldeira de Oliveira. **Fisioterapia Dermato-funcional: fundamentos, recursos e patologias.** Barueri: Manole, 2002.
 
-BORGES, Fábio dos Santos. **Dermato-funcional: modalidades terapêuticas nas disfunções estéticas.** São Paulo: Phorte, 2006. 
+LACRIMANTI, Lígia Marini. **Curso didático de estética** : v. 1. São Caetano do Sul: Yendis, 2008.
 
-GUIRRO, Elaine Caldeira de Oliveira. **Fisioterapia Dermato-funcional: fundamentos, recursos e patologias.** Barueri: Manole, 2002. 
+LACRIMANTI, Lígia Marini. **Curso didático de estética** : v. 2. São Caetano do Sul: Yendis, 2008.
 
-LACRIMANTI, Lígia Marini. **Curso didático de estética** : v. 1. São Caetano do Sul: Yendis, 2008. 
+GOMES, Kelly Gomes; GABRIEL, Marlene. Cosmetologia descomplicando os princípios ativos. São Paulo: LMP, 2006.
 
-LACRIMANTI, Lígia Marini. **Curso didático de estética** : v. 2. São Caetano do Sul: Yendis, 2008. 
+63
 
-GOMES, Kelly Gomes; GABRIEL, Marlene. Cosmetologia descomplicando os princípios ativos. São Paulo: LMP, 2006. 
+**Campus Londrina do IFPR Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Técnica da Massagem Ayurveda **Carga Horária** : 60 horas **Período letivo: IV Semestre Ementa:**
 
-63 
+Histórico da Massagem Ayurveda.  Princípios, características, indicações e contraindicações da Massagem Ayurveda. Massagem Ayurveda aplicada.
 
-**Campus Londrina do IFPR Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Técnica da Massagem Ayurveda **Carga Horária** : 60 horas **Período letivo: IV Semestre Ementa:** 
+## **Bibliografia Básica:**
 
-Histórico da Massagem Ayurveda.  Princípios, características, indicações e contraindicações da Massagem Ayurveda. Massagem Ayurveda aplicada. 
+CAMPADELLO, Pier. **Massagem ayurvédica.** São Paulo: Madras, c2005.
 
-## **Bibliografia Básica:** 
+JOHARI, H. **Manual de Massagem Ayurveda: Técnicas Indianas Tradicionais para o Equilíbrio do Corpo e da Mente.** São Paulo: Ground, 2007.
 
-CAMPADELLO, Pier. **Massagem ayurvédica.** São Paulo: Madras, c2005. 
+MARINO, M.I; DAMBRY, W.A.G. **Ayurveda – O Caminho da Saúde.** São Paulo. Editora GayaLtda. 2004.
 
-JOHARI, H. **Manual de Massagem Ayurveda: Técnicas Indianas Tradicionais para o Equilíbrio do Corpo e da Mente.** São Paulo: Ground, 2007. 
+DÁNGELO,E.; CÔRTES, J.R. **Ayurveda – A Ciência da Longa Vida.** Madras Editora Ltda. 2010.
 
-MARINO, M.I; DAMBRY, W.A.G. **Ayurveda – O Caminho da Saúde.** São Paulo. Editora GayaLtda. 2004. 
+LELE, A; FRAWLEY D; RANADE, S. **Ayurveda e a Terapia Marma** . Madras Editora Ltda. 2003.
 
-DÁNGELO,E.; CÔRTES, J.R. **Ayurveda – A Ciência da Longa Vida.** Madras Editora Ltda. 2010. 
+## **Bibliografia Complementar:**
 
-LELE, A; FRAWLEY D; RANADE, S. **Ayurveda e a Terapia Marma** . Madras Editora Ltda. 2003. 
+ATKINSON, M. **A Arte da Massagem Indiana.** São Paulo: Manole, 2000.
 
-## **Bibliografia Complementar:** 
+CARDIM, Valter Carlos. **Massagem ayurvédica:** ciência da vitalidade. 1. ed. Lisboa: Dinalivro, 2012.
 
-ATKINSON, M. **A Arte da Massagem Indiana.** São Paulo: Manole, 2000. 
+GÕVINDAN, Es. Vi. **Massagem terapêutica para doenças das áreas vitais:** tratamento marma. São Paulo: Madras, 2009.
 
-CARDIM, Valter Carlos. **Massagem ayurvédica:** ciência da vitalidade. 1. ed. Lisboa: Dinalivro, 2012. 
+LAD, V. **Ayurveda: A Ciência da Autocura- Um Guia Prático.** 2ª ed. São Paulo: Ground, 2007.
 
-GÕVINDAN, Es. Vi. **Massagem terapêutica para doenças das áreas vitais:** tratamento marma. São Paulo: Madras, 2009. 
+MAXWELL- HUDSON, C. **Aromaterapia e Massagem.** São Paulo: Vitória Régia, 2000.
 
-LAD, V. **Ayurveda: A Ciência da Autocura- Um Guia Prático.** 2ª ed. São Paulo: Ground, 2007. 
+64
 
-MAXWELL- HUDSON, C. **Aromaterapia e Massagem.** São Paulo: Vitória Régia, 2000. 
+## **Câmpus Londrina do IFPR**
 
-64 
+**Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Métodos e Técnicas de Pesquisa II **Carga Horária** : 20 horas **Período letivo: IV semestre**
 
-## **Câmpus Londrina do IFPR** 
+**Ementa:**
 
-**Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Métodos e Técnicas de Pesquisa II **Carga Horária** : 20 horas **Período letivo: IV semestre** 
+Resultados, análises e discussões de pesquisa. Relatório da pesquisa: modalidades, formatos e finalidades. Pré-Banca para apresentação
 
-**Ementa:** 
+## **Bibliografia Básica:**
 
-Resultados, análises e discussões de pesquisa. Relatório da pesquisa: modalidades, formatos e finalidades. Pré-Banca para apresentação 
+DEMO, Pedro. **Pesquisa:** princípio científico e educativo. 8. ed. São Paulo: Cortez, 2001.
 
-## **Bibliografia Básica:** 
+GIL, A. C. **Como elaborar projetos de pesquisa** . 3. ed. São Paulo: Atlas, 1996.
 
-DEMO, Pedro. **Pesquisa:** princípio científico e educativo. 8. ed. São Paulo: Cortez, 2001. 
+GIL, A. C. **Métodos e técnicas de pesquisa socia** l. 6 ed. São Paulo: Atlas, 2008.
 
-GIL, A. C. **Como elaborar projetos de pesquisa** . 3. ed. São Paulo: Atlas, 1996. 
+INSTITUTO FEDERAL DO PARANÁ. **Normas para apresentação de trabalhos acadêmicos do Instituto Federal do Paraná (IFPR)** . Curitiba , 2010.
 
-GIL, A. C. **Métodos e técnicas de pesquisa socia** l. 6 ed. São Paulo: Atlas, 2008. 
+LAKATOS, E. M.; MARCONI, N. A. **Técnicas de Pesquisa** . 4 ed. São Paulo: Atlas, 1999.
 
-INSTITUTO FEDERAL DO PARANÁ. **Normas para apresentação de trabalhos acadêmicos do Instituto Federal do Paraná (IFPR)** . Curitiba , 2010. 
+## **Bibliografia Complementar:**
 
-LAKATOS, E. M.; MARCONI, N. A. **Técnicas de Pesquisa** . 4 ed. São Paulo: Atlas, 1999. 
+AQUINO, Italo de Souza. **Como escrever artigos científicos:** sem arrodeio e sem medo da ABNT. 8. ed. São Paulo: Saraiva, 2010
 
-## **Bibliografia Complementar:** 
+BARROS, Aidil de Jesus Paes de; LEHFELD, Neide Aparecida de Souza. **Fundamentos de metodologia científica.** 3.ed. São Paulo: Makron Books, 2007
 
-AQUINO, Italo de Souza. **Como escrever artigos científicos:** sem arrodeio e sem medo da ABNT. 8. ed. São Paulo: Saraiva, 2010 
+BOOTH, Wayne C.; COLOMB, Gregory G.; WILLIAMS, Joseph M. **A arte da pesquisa.** 2.ed. São Paulo: Martins Fontes, 2005.
 
-BARROS, Aidil de Jesus Paes de; LEHFELD, Neide Aparecida de Souza. **Fundamentos de metodologia científica.** 3.ed. São Paulo: Makron Books, 2007 
+LAKATOS, Eva Maria; MARCONI, Marina de Andrade. **Fundamentos de metodologia científica** . 2 ed. São Paulo:Atlas, 1991.
 
-BOOTH, Wayne C.; COLOMB, Gregory G.; WILLIAMS, Joseph M. **A arte da pesquisa.** 2.ed. São Paulo: Martins Fontes, 2005. 
+RUDIO, Franz Victor. **Introdução ao projeto de pesquisa científica** . 29. ed. Petrópolis: Vozes, 2001.
 
-LAKATOS, Eva Maria; MARCONI, Marina de Andrade. **Fundamentos de metodologia científica** . 2 ed. São Paulo:Atlas, 1991. 
+65
 
-RUDIO, Franz Victor. **Introdução ao projeto de pesquisa científica** . 29. ed. Petrópolis: Vozes, 2001. 
+## **Campus Londrina do IFPR**
 
-65 
+**Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Prática Profissional das Técnicas Massoterapêuticas - II **Carga Horária** : 120 horas **Período letivo: IV semestre**
 
-## **Campus Londrina do IFPR** 
+## **Ementa:**
 
-**Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Prática Profissional das Técnicas Massoterapêuticas - II **Carga Horária** : 120 horas **Período letivo: IV semestre** 
+Prática profissional das Técnicas de Massoterapia, ressaltando que tão importante quantos os conhecimentos específicos de cada área ou campo de prática profissional, são os conhecimentos que possibilitam respeito às diferenças entre profissionais da saúde, bem como entre pacientes/clientes.
 
-## **Ementa:** 
+## **Bibliografia Básica:**
 
-Prática profissional das Técnicas de Massoterapia, ressaltando que tão importante quantos os conhecimentos específicos de cada área ou campo de prática profissional, são os conhecimentos que possibilitam respeito às diferenças entre profissionais da saúde, bem como entre pacientes/clientes. 
+CASSAR, M. P. **Manual de Massagem Terapêutica** . São Paulo: Manole. 2001.
 
-## **Bibliografia Básica:** 
+LEBOYER **,** Frederic. **Shantala: uma arte tradicional de massagem para bebês.** São Paulo: Ground, 1998, 7 Ed.
 
-CASSAR, M. P. **Manual de Massagem Terapêutica** . São Paulo: Manole. 2001. 
+ARCHER, P. **Massagem Terapêutica Esportiva** . 1ªEd.  São Paulo: Manole, 2008.
 
-LEBOYER **,** Frederic. **Shantala: uma arte tradicional de massagem para bebês.** São Paulo: Ground, 1998, 7 Ed. 
+JAHARA-PRADIPTO, M. **Zen-Shiatsu: Equilíbrio Energético e Consciência do Corpo.** 16ª ed. São Paulo: Summus, 1986.
 
-ARCHER, P. **Massagem Terapêutica Esportiva** . 1ªEd.  São Paulo: Manole, 2008. 
+STEPHENS, R. R. **Massagem Terapêutica na Cadeira.** 1ª Ed. São Paulo: Manole, 2008.
 
-JAHARA-PRADIPTO, M. **Zen-Shiatsu: Equilíbrio Energético e Consciência do Corpo.** 16ª ed. São Paulo: Summus, 1986. 
+## **Bibliografia Complementar:**
 
-STEPHENS, R. R. **Massagem Terapêutica na Cadeira.** 1ª Ed. São Paulo: Manole, 2008. 
+LEDUC, Albert; LEDUC, Olivier. **Drenagem Linfática teoria e prática** . São Paulo: Manole, 2000.
 
-## **Bibliografia Complementar:** 
+JIAN, P.; YICHENG, J. **Fundamentos da Massoterapia Chinesa.** 1ªEd. São Paulo: Andrei, 2010.
 
-LEDUC, Albert; LEDUC, Olivier. **Drenagem Linfática teoria e prática** . São Paulo: Manole, 2000. 
+GOLD **,** R. **Massagem Tai: Uma técnica médica tradicional.** 1ªEd. São Paulo: Manole, 2000.
 
-JIAN, P.; YICHENG, J. **Fundamentos da Massoterapia Chinesa.** 1ªEd. São Paulo: Andrei, 2010. 
+JOHARI, H. **Manual de Massagem Ayurveda: Técnicas Indianas Tradicionais para o Equilíbrio do Corpo e da Mente.** São Paulo: Ground, 2007.
 
-GOLD **,** R. **Massagem Tai: Uma técnica médica tradicional.** 1ªEd. São Paulo: Manole, 2000. 
+CARTER, Mildred; WEBER, Tammy. **Reflexologia das mãos:** chave para a saúde perfeita. 2. ed. São Paulo: Pensamento, 2006.
 
-JOHARI, H. **Manual de Massagem Ayurveda: Técnicas Indianas Tradicionais para o Equilíbrio do Corpo e da Mente.** São Paulo: Ground, 2007. 
+GILLANDERS, A. **Guia Completo de Reflexologia** . São Paulo: Pensamento, 2008.
 
-CARTER, Mildred; WEBER, Tammy. **Reflexologia das mãos:** chave para a saúde perfeita. 2. ed. São Paulo: Pensamento, 2006. 
+66
 
-GILLANDERS, A. **Guia Completo de Reflexologia** . São Paulo: Pensamento, 2008. 
+**Campus Londrina do IFPR**
 
-66 
+**Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Prática Científica em Massoterapia II **Carga Horária** : 40 horas **Período letivo: IV semestre Ementa:**
 
-**Campus Londrina do IFPR** 
+Elaboração do relatório de pesquisa.
 
-**Curso:** Técnico em Massoterapia **Eixo Tecnológico:** Ambiente e Saúde **Componente Curricular** : Prática Científica em Massoterapia II **Carga Horária** : 40 horas **Período letivo: IV semestre Ementa:** 
+## **Bibliografia Básica:**
 
-Elaboração do relatório de pesquisa. 
+DEMO, Pedro. **Pesquisa:** princípio científico e educativo. 8. ed. São Paulo: Cortez, 2001.
 
-## **Bibliografia Básica:** 
+GIL, A. C. **Como elaborar projetos de pesquisa** . 3. ed. São Paulo: Atlas, 1996.
 
-DEMO, Pedro. **Pesquisa:** princípio científico e educativo. 8. ed. São Paulo: Cortez, 2001. 
+GIL, A. C. **Métodos e técnicas de pesquisa socia** l. 6 ed. São Paulo: Atlas, 2008.
 
-GIL, A. C. **Como elaborar projetos de pesquisa** . 3. ed. São Paulo: Atlas, 1996. 
+INSTITUTO FEDERAL DO PARANÁ. **Normas para apresentação de trabalhos acadêmicos do Instituto Federal do Paraná (IFPR)** . Curitiba , 2010.
 
-GIL, A. C. **Métodos e técnicas de pesquisa socia** l. 6 ed. São Paulo: Atlas, 2008. 
+LAKATOS, E. M.; MARCONI, N. A. **Técnicas de Pesquisa** . 4 ed. São Paulo: Atlas, 1999.
 
-INSTITUTO FEDERAL DO PARANÁ. **Normas para apresentação de trabalhos acadêmicos do Instituto Federal do Paraná (IFPR)** . Curitiba , 2010. 
+**Bibliografia Complementar:**
 
-LAKATOS, E. M.; MARCONI, N. A. **Técnicas de Pesquisa** . 4 ed. São Paulo: Atlas, 1999. 
+AQUINO, Italo de Souza. **Como escrever artigos científicos:** sem arrodeio e sem medo da ABNT. 8. ed. São Paulo: Saraiva, 2010
 
-**Bibliografia Complementar:** 
+BARROS, Aidil de Jesus Paes de; LEHFELD, Neide Aparecida de Souza. **Fundamentos de metodologia científica.** 3.ed. São Paulo: Makron Books, 2007
 
-AQUINO, Italo de Souza. **Como escrever artigos científicos:** sem arrodeio e sem medo da ABNT. 8. ed. São Paulo: Saraiva, 2010 
+BOOTH, Wayne C.; COLOMB, Gregory G.; WILLIAMS, Joseph M. **A arte da pesquisa.** 2.ed. São Paulo: Martins Fontes, 2005.
 
-BARROS, Aidil de Jesus Paes de; LEHFELD, Neide Aparecida de Souza. **Fundamentos de metodologia científica.** 3.ed. São Paulo: Makron Books, 2007 
+LAKATOS, Eva Maria; MARCONI, Marina de Andrade. **Fundamentos de metodologia científica** . 2 ed. São Paulo:Atlas, 1991.
 
-BOOTH, Wayne C.; COLOMB, Gregory G.; WILLIAMS, Joseph M. **A arte da pesquisa.** 2.ed. São Paulo: Martins Fontes, 2005. 
+RUDIO, Franz Victor. **Introdução ao projeto de pesquisa científica** . 29. ed. Petrópolis: Vozes, 2001.
 
-LAKATOS, Eva Maria; MARCONI, Marina de Andrade. **Fundamentos de metodologia científica** . 2 ed. São Paulo:Atlas, 1991. 
+67
 
-RUDIO, Franz Victor. **Introdução ao projeto de pesquisa científica** . 29. ed. Petrópolis: Vozes, 2001. 
+## **3.11 Trabalho de Conclusão de Curso**
 
-67 
+O Trabalho de Conclusão de Curso (TCC) deve integrar conhecimentos apropriados ao longo do curso, preferencialmente inserido nas Linhas de Pesquisa e Extensão desenvolvidas pelos docentes do Curso Técnico em Massoterapia e relacionado com áreas afins da atuação do profissional massoterapeuta, devendo estar enquadrado nas seguintes modalidades:
 
-## **3.11 Trabalho de Conclusão de Curso** 
+I - Relato de caso clínico ou de série de casos;
 
-O Trabalho de Conclusão de Curso (TCC) deve integrar conhecimentos apropriados ao longo do curso, preferencialmente inserido nas Linhas de Pesquisa e Extensão desenvolvidas pelos docentes do Curso Técnico em Massoterapia e relacionado com áreas afins da atuação do profissional massoterapeuta, devendo estar enquadrado nas seguintes modalidades: 
+II - Revisão da literatura;
 
-I - Relato de caso clínico ou de série de casos; 
+III - Relato de experiência;
 
-II - Revisão da literatura; 
+IV - Pesquisa científica de natureza aplicada, incluindo modalidade prospectiva com intervenção, estudos retrospectivos e transversais, sob orientação de um docente do Curso, elaborado individualmente ou em grupo de até três estudantes.
 
-III - Relato de experiência; 
+São objetivos do **Trabalho de Conclusão de Curso** :
 
-IV - Pesquisa científica de natureza aplicada, incluindo modalidade prospectiva com intervenção, estudos retrospectivos e transversais, sob orientação de um docente do Curso, elaborado individualmente ou em grupo de até três estudantes. 
+- I. aprofundar os conhecimentos teórico-práticos em uma área de atuação da Massoterapia;
 
-São objetivos do **Trabalho de Conclusão de Curso** : 
+- II. estabelecer contato com o processo de investigação científica, por meio do acompanhamento de todas as etapas da pesquisa, tais como: formulação do tema de pesquisa, localização do referencial bibliográfico, escolha das técnicas de pesquisa para a coleta e análise dos dados, elaboração coerente da conclusão da pesquisa e apresentação final do TCC;
 
-- I. aprofundar os conhecimentos teórico-práticos em uma área de atuação da Massoterapia; 
+- III. inserir os acadêmicos do Curso Técnico em Massoterapia do IFPRCampus  Londrina no campo da Pesquisa Científica e Educacional;
 
-- II. estabelecer contato com o processo de investigação científica, por meio do acompanhamento de todas as etapas da pesquisa, tais como: formulação do tema de pesquisa, localização do referencial bibliográfico, escolha das técnicas de pesquisa para a coleta e análise dos dados, elaboração coerente da conclusão da pesquisa e apresentação final do TCC; 
+- IV. desenvolver o senso crítico, investigador e conquistador da autonomia pessoal e intelectual necessária para empreender contínua formação na sua práxis profissional, socializando o saber científico produzido.
 
-- III. inserir os acadêmicos do Curso Técnico em Massoterapia do IFPRCampus  Londrina no campo da Pesquisa Científica e Educacional; 
+Compete aos docentes do Curso orientar o TCC quando solicitados, respeitadas suas disponibilidades. Os trabalhos devem ser divididos de forma equivalente pelos professores do Curso Técnico em Massoterapia.
 
-- IV. desenvolver o senso crítico, investigador e conquistador da autonomia pessoal e intelectual necessária para empreender contínua formação na sua práxis profissional, socializando o saber científico produzido. 
+68
 
-Compete aos docentes do Curso orientar o TCC quando solicitados, respeitadas suas disponibilidades. Os trabalhos devem ser divididos de forma equivalente pelos professores do Curso Técnico em Massoterapia. 
+Compete ao docente orientador de TCC estabelecer juntamente com seu orientando, o plano de trabalho e cronograma de execução das atividades registrando-as em ficha de frequência e orientação, que deve ser utilizada como registro das atividades orientadas, conforme regulamento de TCC.
 
-68 
+O estudante deve entregar, três vias da versão final do trabalho, em data estabelecida em calendário próprio.
 
-Compete ao docente orientador de TCC estabelecer juntamente com seu orientando, o plano de trabalho e cronograma de execução das atividades registrando-as em ficha de frequência e orientação, que deve ser utilizada como registro das atividades orientadas, conforme regulamento de TCC. 
+Para fins de avaliação (Anexos 4 e 5) do TCC, serão consideradas duas etapas:
 
-O estudante deve entregar, três vias da versão final do trabalho, em data estabelecida em calendário próprio. 
+- I. Avaliação do processo de elaboração do trabalho pelo orientador,
 
-Para fins de avaliação (Anexos 4 e 5) do TCC, serão consideradas duas etapas: 
+- II. Avaliação do TCC pela Banca Examinadora.
 
-- I. Avaliação do processo de elaboração do trabalho pelo orientador, 
+A avaliação das atividades durante a elaboração de TCC é de competência
 
-- II. Avaliação do TCC pela Banca Examinadora. 
+do docente orientador, que deve observar os seguintes critérios:
 
-A avaliação das atividades durante a elaboração de TCC é de competência 
+- I. assiduidade e pontualidade às reuniões de orientação,
 
-do docente orientador, que deve observar os seguintes critérios: 
+- II. execução das tarefas propostas;
 
-- I. assiduidade e pontualidade às reuniões de orientação, 
+- III. superação progressiva das limitações teóricas com compreensão do processo de execução de TCC.
 
-- II. execução das tarefas propostas; 
+O TCC é avaliado por uma Banca Examinadora que será composta pelo docente orientador e por 2 (dois) docentes convidados, podendo estes serem do colegiado do curso ou não. Cada membro da Banca Examinadora atribuirá conceitos de A a D.
 
-- III. superação progressiva das limitações teóricas com compreensão do processo de execução de TCC. 
+Ocorrerá reprovação do TCC que apresente elementos textuais, numéricos e de imagem que configurem a existência de plágio, isto é, a apropriação indevida de material intelectual sem a devida citação.
 
-O TCC é avaliado por uma Banca Examinadora que será composta pelo docente orientador e por 2 (dois) docentes convidados, podendo estes serem do colegiado do curso ou não. Cada membro da Banca Examinadora atribuirá conceitos de A a D. 
+## **3.12 Estágio Não-Obrigatório**
 
-Ocorrerá reprovação do TCC que apresente elementos textuais, numéricos e de imagem que configurem a existência de plágio, isto é, a apropriação indevida de material intelectual sem a devida citação. 
+O Estágio Supervisionado na modalidade não-obrigatório (Anexo 2) é ato educativo que visa à preparação para o trabalho produtivo dos educandos que frequentam o Curso Técnico em Massoterapia e seguirá o previsto na Lei nº 11.788 de 25/09/2008 e na Resolução CNE/CEB nº1 de 21/01/2004 e também Resolução 02/2013 do CONSUP/IFPR, que aprova o Regulamento de Estágios no Âmbito do Instituto Federal do Paraná.
 
-## **3.12 Estágio Não-Obrigatório** 
+69
 
-O Estágio Supervisionado na modalidade não-obrigatório (Anexo 2) é ato educativo que visa à preparação para o trabalho produtivo dos educandos que frequentam o Curso Técnico em Massoterapia e seguirá o previsto na Lei nº 11.788 de 25/09/2008 e na Resolução CNE/CEB nº1 de 21/01/2004 e também Resolução 02/2013 do CONSUP/IFPR, que aprova o Regulamento de Estágios no Âmbito do Instituto Federal do Paraná. 
+Esse estágio caracteriza-se como aquele desenvolvido como atividade opcional, acrescida à carga horária regular e obrigatória, visando ao aprendizado de competências próprias da atividade profissional do Técnico em Massoterapia, bem como o desenvolvimento do educando para a vida cidadã e para o trabalho.
 
-69 
+Deve ser precedido da celebração do Termo de Compromisso entre o aluno e a entidade concedente, com interveniência do IFPR no qual estarão previstas as condições de sua realização e sua duração, sendo que a jornada de atividades não excederá a carga horária de 06 (seis) horas diárias e de 30 (trinta) horas semanais.
 
-Esse estágio caracteriza-se como aquele desenvolvido como atividade opcional, acrescida à carga horária regular e obrigatória, visando ao aprendizado de competências próprias da atividade profissional do Técnico em Massoterapia, bem como o desenvolvimento do educando para a vida cidadã e para o trabalho. 
+A supervisão dos estágios deverá ter acompanhamento efetivo pelo professor orientador do IFPR e dar-se-á pela modalidade indireta, e pelo profissional supervisor da parte concedente, comprovado por vistos de ambos nos relatórios de atividades.
 
-Deve ser precedido da celebração do Termo de Compromisso entre o aluno e a entidade concedente, com interveniência do IFPR no qual estarão previstas as condições de sua realização e sua duração, sendo que a jornada de atividades não excederá a carga horária de 06 (seis) horas diárias e de 30 (trinta) horas semanais. 
+A entidade concedente poderá oferecer ao estagiário auxílio na forma de bolsa e, também, de qualquer outra forma de contraprestação de serviço, como transporte, alimentação e saúde sem que configure vínculo empregatício.
 
-A supervisão dos estágios deverá ter acompanhamento efetivo pelo professor orientador do IFPR e dar-se-á pela modalidade indireta, e pelo profissional supervisor da parte concedente, comprovado por vistos de ambos nos relatórios de atividades. 
+70
 
-A entidade concedente poderá oferecer ao estagiário auxílio na forma de bolsa e, também, de qualquer outra forma de contraprestação de serviço, como transporte, alimentação e saúde sem que configure vínculo empregatício. 
+## **4. REFERÊNCIAS**
 
-70 
+Lei Federal N. 9394/96
 
-## **4. REFERÊNCIAS** 
+Lei de Diretrizes e Bases da Educação Nacional (LDB).
 
-Lei Federal N. 9394/96 
+## Decreto Federal N. 5154/04
 
-Lei de Diretrizes e Bases da Educação Nacional (LDB). 
+Regulamenta o § 2º do art. 36 e os arts. 39 a 41 da Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, e dá outras providências.
 
-## Decreto Federal N. 5154/04 
+## Resolução CNE/CEB N. 06/2012 do Ministério da Educação
 
-Regulamenta o § 2º do art. 36 e os arts. 39 a 41 da Lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, e dá outras providências. 
+Define Diretrizes Curriculares Nacionais para a Educação Profissional Técnica de Nível Médio.
 
-## Resolução CNE/CEB N. 06/2012 do Ministério da Educação 
+## Lei N.10.639/2003
 
-Define Diretrizes Curriculares Nacionais para a Educação Profissional Técnica de Nível Médio. 
+Altera a Lei N. 9394/96, que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da Rede de Ensino a obrigatoriedade da temática “História e Cultura Afro-Brasileira”, e dá outras providências.
 
-## Lei N.10.639/2003 
+## Lei N.11.645/2008
 
-Altera a Lei N. 9394/96, que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da Rede de Ensino a obrigatoriedade da temática “História e Cultura Afro-Brasileira”, e dá outras providências. 
+Altera a Lei n[o] 9.394, de 20 de dezembro de 1996, modificada pela Lei n[o] 10.639, de 9 de janeiro de 2003, que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da rede de ensino a obrigatoriedade da temática “História e Cultura Afro-Brasileira e Indígena”.
 
-## Lei N.11.645/2008 
+## Parecer CNE/CP N.003/2004
 
-Altera a Lei n[o] 9.394, de 20 de dezembro de 1996, modificada pela Lei n[o] 10.639, de 9 de janeiro de 2003, que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da rede de ensino a obrigatoriedade da temática “História e Cultura Afro-Brasileira e Indígena”. 
+Diretrizes Curriculares Nacionais para a Educação das Relações Étnico-Raciais e para o Ensino de História e Cultura Afro-Brasileira e Africana.
 
-## Parecer CNE/CP N.003/2004 
+Resolução CNE/CP N. 1/2004
 
-Diretrizes Curriculares Nacionais para a Educação das Relações Étnico-Raciais e para o Ensino de História e Cultura Afro-Brasileira e Africana. 
+Institui Diretrizes Curriculares Nacionais para a Educação das Relações Étnico Raciais e para o Ensino de História e Cultura Afro-Brasileira e Africana.
 
-Resolução CNE/CP N. 1/2004 
+Resolução CNE/CP N. 1/2012
 
-Institui Diretrizes Curriculares Nacionais para a Educação das Relações Étnico Raciais e para o Ensino de História e Cultura Afro-Brasileira e Africana. 
+Estabelece Diretrizes Nacionais para a Educação em Direitos Humanos.
 
-Resolução CNE/CP N. 1/2012 
+- Decreto Lei N. 8345/45
 
-Estabelece Diretrizes Nacionais para a Educação em Direitos Humanos. 
+Determina a criação da profissão de Massagista.
 
-- Decreto Lei N. 8345/45 
+## Lei N. 3968/61
 
-Determina a criação da profissão de Massagista. 
+Fundamenta o exercício profissional da Massoterapia.
 
-## Lei N. 3968/61 
+Código Sanitário do Estado do Paraná
 
-Fundamenta o exercício profissional da Massoterapia. 
+Introduz o regulamento da Promoção, Preservação e Recuperação da Saúde no Estado, contemplando disposições a serem respeitadas por esses profissionais.
 
-Código Sanitário do Estado do Paraná 
+## Portaria N. 971/2006 do Ministério da Saúde
 
-Introduz o regulamento da Promoção, Preservação e Recuperação da Saúde no Estado, contemplando disposições a serem respeitadas por esses profissionais. 
+Define a Política Nacional de Práticas Integrativas e Complementares (PNPIC).
 
-## Portaria N. 971/2006 do Ministério da Saúde 
+Portaria 120/09 do IFPR
 
-Define a Política Nacional de Práticas Integrativas e Complementares (PNPIC). 
+71
 
-Portaria 120/09 do IFPR 
+Estabelece os Critérios de Avaliação do Processo Ensino Aprendizagem do IFPR.
 
-71 
+## Resolução N 54/2011 do CONSUP/IFPR
 
-Estabelece os Critérios de Avaliação do Processo Ensino Aprendizagem do IFPR. 
+Dispõe sobre a Organização Didático-Pedagógica da Educação Profissional Técnica de Nível Médio e Formação Inicial e Continuada de Trabalhadores no âmbito do Instituto Federal do Paraná – IFPR.
 
-## Resolução N 54/2011 do CONSUP/IFPR 
+Resolução CNE/CP 2/2012
 
-Dispõe sobre a Organização Didático-Pedagógica da Educação Profissional Técnica de Nível Médio e Formação Inicial e Continuada de Trabalhadores no âmbito do Instituto Federal do Paraná – IFPR. 
+Estabelece as Diretrizes Curriculares Nacionais para a Educação Ambiental.
 
-Resolução CNE/CP 2/2012 
+## Lei nº 11.788/2008
 
-Estabelece as Diretrizes Curriculares Nacionais para a Educação Ambiental. 
+Dispõe sobre o estágio de estudantes; altera a redação do art. 428 da Consolidação das Leis do Trabalho – CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e a Lei nº 9.394, de 20 de dezembro de 1996; revoga as Leis nºs 6.494, de 7 de dezembro de 1977, e 8.859, de 23 de março de 1994, o parágrafo único do art. 82 da Lei nº 9.394, de 20 de dezembro de 1996, e o art. 6º da Medida Provisória nº 2.164-41, de 24 de agosto de 2001; e dá outras providências.
 
-## Lei nº 11.788/2008 
+## Resolução CNE/CEB nº1/2004
 
-Dispõe sobre o estágio de estudantes; altera a redação do art. 428 da Consolidação das Leis do Trabalho – CLT, aprovada pelo Decreto-Lei nº 5.452, de 1º de maio de 1943, e a Lei nº 9.394, de 20 de dezembro de 1996; revoga as Leis nºs 6.494, de 7 de dezembro de 1977, e 8.859, de 23 de março de 1994, o parágrafo único do art. 82 da Lei nº 9.394, de 20 de dezembro de 1996, e o art. 6º da Medida Provisória nº 2.164-41, de 24 de agosto de 2001; e dá outras providências. 
+Estabelece Diretrizes Nacionais para a organização e a realização de Estágio de alunos da Educação Profissional e do Ensino Médio, inclusive nas modalidades de Educação Especial e de Educação de Jovens e Adultos
 
-## Resolução CNE/CEB nº1/2004 
+72
 
-Estabelece Diretrizes Nacionais para a organização e a realização de Estágio de alunos da Educação Profissional e do Ensino Médio, inclusive nas modalidades de Educação Especial e de Educação de Jovens e Adultos 
+## **5. ANEXOS**
 
-72 
+## **ANEXO 1**
 
-## **5. ANEXOS** 
+## **REGULAMENTO DA PRÁTICA PROFISSIONAL DO CURSO TÉCNICO EM MASSOTERAPIA - CAMPUS LONDRINA**
 
-## **ANEXO 1** 
+## **INTRODUÇÃO**
 
-## **REGULAMENTO DA PRÁTICA PROFISSIONAL DO CURSO TÉCNICO EM MASSOTERAPIA - CAMPUS LONDRINA** 
+A prática profissional caracteriza-se como um componente curricular que visa estabelecer uma integração entre todas as disciplinas oferecidas, com o intuito de promover uma inter-relação entre elas, para que o discente possa perceber a importância de cada uma em sua formação como futuro Técnico em Massoterapia. Esta atividade prática possibilita que o discente possa também aplicar os conhecimentos adquiridos na teoria por meio da realização de atividades práticas de atendimento massoterapêutico nas suas diversas áreas de atuação: Técnica da Massagem Shantala, Técnica da Massagem Laboral, Reflexologia Podal e Quirodal, Técnica da Massagem Clássica, Técnica da Massagem Tai, Técnica da Massagem Drenagem Linfática, Técnica da Massagem Shiatsu, Técnica da Massagem Tuiná, Técnica da Massagem Ayurveda, Técnica da Massagem Energética, Técnica da Massagem Desportiva e Técnica da Massagem Estética, reduzindo o impacto da transição vida acadêmica/vida profissional.
 
-## **INTRODUÇÃO** 
+Este regulamento da Prática Profissional do Curso Técnico em Massoterapia, do Instituto Federal do Paraná- Campus Londrina, define os procedimentos que devem ser seguidos pelos discentes, como orientação a respeito da constituição, finalidade, organização, funcionamento, atribuições, forma de avaliação e as obrigações dos envolvidos.
 
-A prática profissional caracteriza-se como um componente curricular que visa estabelecer uma integração entre todas as disciplinas oferecidas, com o intuito de promover uma inter-relação entre elas, para que o discente possa perceber a importância de cada uma em sua formação como futuro Técnico em Massoterapia. Esta atividade prática possibilita que o discente possa também aplicar os conhecimentos adquiridos na teoria por meio da realização de atividades práticas de atendimento massoterapêutico nas suas diversas áreas de atuação: Técnica da Massagem Shantala, Técnica da Massagem Laboral, Reflexologia Podal e Quirodal, Técnica da Massagem Clássica, Técnica da Massagem Tai, Técnica da Massagem Drenagem Linfática, Técnica da Massagem Shiatsu, Técnica da Massagem Tuiná, Técnica da Massagem Ayurveda, Técnica da Massagem Energética, Técnica da Massagem Desportiva e Técnica da Massagem Estética, reduzindo o impacto da transição vida acadêmica/vida profissional. 
+## **OBJETIVO**
 
-Este regulamento da Prática Profissional do Curso Técnico em Massoterapia, do Instituto Federal do Paraná- Campus Londrina, define os procedimentos que devem ser seguidos pelos discentes, como orientação a respeito da constituição, finalidade, organização, funcionamento, atribuições, forma de avaliação e as obrigações dos envolvidos. 
+Artigo 1º A Prática Profissional proporcionará ao discente o atendimento à comunidade integrando conteúdo científico, tecnológico e valorativo através das competências necessárias para executar com segurança as diferentes técnicas de massagem, visando à atenção integral à saúde.
 
-## **OBJETIVO** 
+## **CAPÍTULO I**
 
-Artigo 1º A Prática Profissional proporcionará ao discente o atendimento à comunidade integrando conteúdo científico, tecnológico e valorativo através das competências necessárias para executar com segurança as diferentes técnicas de massagem, visando à atenção integral à saúde. 
+## **DA CONSTITUIÇÃO E FINALIDADE**
 
-## **CAPÍTULO I** 
+Artigo 2º A Prática Profissional é entendida como o conjunto das atividades indispensáveis ao processo de formação profissional, que possibilita ao acadêmico a aquisição da visão crítica na área, por meio de atividades teórico-práticas, onde os conhecimentos adquiridos nos diversos componente curriculares do curso possam ser direcionados ao atendimento ao público, constituindo em um instrumento de integração sob a forma de treinamento prático, aperfeiçoamento técnico-científico, cultural e de relacionamento humano. A realização desta atividade educativa, prática-formativa e de prestação de serviços à comunidade, proporciona
 
-## **DA CONSTITUIÇÃO E FINALIDADE** 
+73
 
-Artigo 2º A Prática Profissional é entendida como o conjunto das atividades indispensáveis ao processo de formação profissional, que possibilita ao acadêmico a aquisição da visão crítica na área, por meio de atividades teórico-práticas, onde os conhecimentos adquiridos nos diversos componente curriculares do curso possam ser direcionados ao atendimento ao público, constituindo em um instrumento de integração sob a forma de treinamento prático, aperfeiçoamento técnico-científico, cultural e de relacionamento humano. A realização desta atividade educativa, prática-formativa e de prestação de serviços à comunidade, proporciona 
+complementação do processo de ensino-aprendizagem, oferecendo subsídios à revisão de currículos, embasamento ético, adequação de programas e atualização de metodologias de ensino.
 
-73 
+Artigo 3º A Prática Profissional obedece à carga horária estabelecida no currículo do Curso Técnico em Massoterapia, adequado à formação exigida pelo componente curricular com as seguintes finalidades:
 
-complementação do processo de ensino-aprendizagem, oferecendo subsídios à revisão de currículos, embasamento ético, adequação de programas e atualização de metodologias de ensino. 
+- I. Promover a aplicação prática dos conhecimentos teóricos adquiridos no componente curricular do Curso;
 
-Artigo 3º A Prática Profissional obedece à carga horária estabelecida no currículo do Curso Técnico em Massoterapia, adequado à formação exigida pelo componente curricular com as seguintes finalidades: 
+- II. Possibilitar o aprimoramento e a complementação do ensino e da aprendizagem;
 
-- I. Promover a aplicação prática dos conhecimentos teóricos adquiridos no componente curricular do Curso; 
+- III. Propiciar integração com a comunidade e possibilitar a busca conjunta de soluções para situações de problemas vivenciados;
 
-- II. Possibilitar o aprimoramento e a complementação do ensino e da aprendizagem; 
+- IV. Contribuir para a prevenção e melhoria das condições de saúde da população, por meio do preparo e qualificação do profissional Técnico em Massoterapia;
 
-- III. Propiciar integração com a comunidade e possibilitar a busca conjunta de soluções para situações de problemas vivenciados; 
+- V. Oferecer oportunidade de retroalimentação aos docentes visando à atualização do currículo do curso.
 
-- IV. Contribuir para a prevenção e melhoria das condições de saúde da população, por meio do preparo e qualificação do profissional Técnico em Massoterapia; 
+## **CAPÍTULO II**
 
-- V. Oferecer oportunidade de retroalimentação aos docentes visando à atualização do currículo do curso. 
+## **DAS ATRIBUIÇÕES DA INSTITUIÇÃO CONCEDENTE**
 
-## **CAPÍTULO II** 
+Artigo 4º É atribuição da Instituição concedente:
 
-## **DAS ATRIBUIÇÕES DA INSTITUIÇÃO CONCEDENTE** 
+§ 1º Oferecer condições suficientes para o bom desenvolvimento das atividades inerentes à Prática profissional;
 
-Artigo 4º É atribuição da Instituição concedente: 
+§ 2º Notificar o supervisor sobre qualquer problema ocorrido durante a realização das atividades;
 
-§ 1º Oferecer condições suficientes para o bom desenvolvimento das atividades inerentes à Prática profissional; 
+## **CAPÍTULO III**
 
-§ 2º Notificar o supervisor sobre qualquer problema ocorrido durante a realização das atividades; 
+## **DA ORGANIZAÇÃO E FUNCIONAMENTO DA PRÁTICA PROFISSIONAL**
 
-## **CAPÍTULO III** 
+Artigo 5° A Prática Profissional do Curso Técnico em Massoterapia totaliza 240 horas de atividade, sendo dividida em Prática Profissional das Técnicas Massoterapêuticas-I, com 120 horas e realizada no terceiro semestre e Prática Profissional de Técnicas Massoterapêuticas-II, com 120 horas e realizada no quarto semestre.
 
-## **DA ORGANIZAÇÃO E FUNCIONAMENTO DA PRÁTICA PROFISSIONAL** 
+## **CAPÍTULO IV DA SUPERVISÃO DA PRÁTICA PROFISSIONAL**
 
-Artigo 5° A Prática Profissional do Curso Técnico em Massoterapia totaliza 240 horas de atividade, sendo dividida em Prática Profissional das Técnicas Massoterapêuticas-I, com 120 horas e realizada no terceiro semestre e Prática Profissional de Técnicas Massoterapêuticas-II, com 120 horas e realizada no quarto semestre. 
+Artigo 6° Competências do supervisor:
 
-## **CAPÍTULO IV DA SUPERVISÃO DA PRÁTICA PROFISSIONAL** 
+- § 1º Proporcionar suporte teórico-prático relacionado à técnica de atendimento;
 
-Artigo 6° Competências do supervisor: 
+- § 2º Favorecer a reflexão da prática profissional e das experiências vividas;
 
-- § 1º Proporcionar suporte teórico-prático relacionado à técnica de atendimento; 
+- § 3º Favorecer, orientar, estimular a discussão e propor novas condutas;
 
-- § 2º Favorecer a reflexão da prática profissional e das experiências vividas; 
+- § 4º Estimular o desenvolvimento da postura profissional ética;
 
-- § 3º Favorecer, orientar, estimular a discussão e propor novas condutas; 
+74
 
-- § 4º Estimular o desenvolvimento da postura profissional ética; 
+§ 5º Oferecer aos discentes atividades profissionais, proporcionando-lhes participação em situações reais de trabalho, prática de atendimento, promovendo a prevenção e/ou tratamento do indivíduo.
 
-74 
+Artigo 7° Não será permitido alterações e/ou troca de discentes entre os grupos, exceto por motivos pertinentes a organização e aproveitamento teórico-prático do educando, com ciência e autorização do Coordenador do Curso.
 
-§ 5º Oferecer aos discentes atividades profissionais, proporcionando-lhes participação em situações reais de trabalho, prática de atendimento, promovendo a prevenção e/ou tratamento do indivíduo. 
+Artigo 8° O Supervisor deverá permanecer em período integral de atendimento no ambulatório, para oferecer a devida assistência aos discentes. **CAPÍTULO V DAS ATRIBUIÇÕES DO DISCENTE**
 
-Artigo 7° Não será permitido alterações e/ou troca de discentes entre os grupos, exceto por motivos pertinentes a organização e aproveitamento teórico-prático do educando, com ciência e autorização do Coordenador do Curso. 
+- Artigo 9º É de competência do discente durante a prática profissional:
 
-Artigo 8° O Supervisor deverá permanecer em período integral de atendimento no ambulatório, para oferecer a devida assistência aos discentes. **CAPÍTULO V DAS ATRIBUIÇÕES DO DISCENTE** 
+   - I. Cumprir e fazer cumprir as disposições contidas nesta resolução;
 
-- Artigo 9º É de competência do discente durante a prática profissional: 
+   - II. Manter comportamento compatível com a profissão de Técnico em Massoterapia, pautando-se pelos princípios da ética profissional;
 
-   - I. Cumprir e fazer cumprir as disposições contidas nesta resolução; 
+   - III. Participar de todas as atividades propostas pelo Professor Supervisor e das outras atividades correlatas que venham a enriquecer o atendimento, além de submeter-se às normas de avaliação determinadas por este componente curricular;
 
-   - II. Manter comportamento compatível com a profissão de Técnico em Massoterapia, pautando-se pelos princípios da ética profissional; 
+   - IV. Cumprir a carga horária total desta atividade;
 
-   - III. Participar de todas as atividades propostas pelo Professor Supervisor e das outras atividades correlatas que venham a enriquecer o atendimento, além de submeter-se às normas de avaliação determinadas por este componente curricular; 
+   - V. Apresentar sugestões que possam contribuir para a superação das situações–problemas e para a melhoria da qualidade do atendimento; VI. Comunicar e justificar com antecedência sua ausência nas atividades previstas;
 
-   - IV. Cumprir a carga horária total desta atividade; 
+   - VII.  Apresentar-se ao ambulatório portando roupa branca, jaleco, vetandose o uso de mochilas, bolsas e pastas escolares;
 
-   - V. Apresentar sugestões que possam contribuir para a superação das situações–problemas e para a melhoria da qualidade do atendimento; VI. Comunicar e justificar com antecedência sua ausência nas atividades previstas; 
+   - VIII. Responsabilizar-se pelo ressarcimento financeiro de material (ais), ou utensílio (s) danificado (s), bem como produto (s) extraviado (s) durante a execução da atividade, após apurados os fatos, de acordo com o termo de compromisso.
 
-   - VII.  Apresentar-se ao ambulatório portando roupa branca, jaleco, vetandose o uso de mochilas, bolsas e pastas escolares; 
+## **CAPÍTULO VI**
 
-   - VIII. Responsabilizar-se pelo ressarcimento financeiro de material (ais), ou utensílio (s) danificado (s), bem como produto (s) extraviado (s) durante a execução da atividade, após apurados os fatos, de acordo com o termo de compromisso. 
+## **DA APROVAÇÃO DO DISCENTE / DA AVALIAÇÃO DO DISCENTE**
 
-## **CAPÍTULO VI** 
+Artigo 10º A avaliação obedecerá aos critérios estabelecidos pela prática profissional, para o Técnico em Massoterapia, previamente aprovados pelo colegiado do Curso, respeitando o disposto no Regimento Interno do IFPR e sistema de avaliação adotado.
 
-## **DA APROVAÇÃO DO DISCENTE / DA AVALIAÇÃO DO DISCENTE** 
+Artigo 11º Para aprovação o discente deverá ter aproveitamento no mínimo suficiente (conceito C).
 
-Artigo 10º A avaliação obedecerá aos critérios estabelecidos pela prática profissional, para o Técnico em Massoterapia, previamente aprovados pelo colegiado do Curso, respeitando o disposto no Regimento Interno do IFPR e sistema de avaliação adotado. 
+- Artigo 12º Para a composição do conceito final será considerado os seguintes itens: 1 – Fatores pessoais:
 
-Artigo 11º Para aprovação o discente deverá ter aproveitamento no mínimo suficiente (conceito C). 
+   - Disciplina e Responsabilidade;
 
-- Artigo 12º Para a composição do conceito final será considerado os seguintes itens: 1 – Fatores pessoais: 
+   - Pontualidade e Assiduidade;
 
-   - Disciplina e Responsabilidade; 
+75
 
-   - Pontualidade e Assiduidade; 
+- Responsabilidade em relação ao paciente;
 
-75 
+- Responsabilidade em relação ao grupo de trabalho;
 
-- Responsabilidade em relação ao paciente; 
+- Apresentação pessoal adequada;
 
-- Responsabilidade em relação ao grupo de trabalho; 
+- Vestimenta adequada: roupa branca, sapato branco, jaleco e crachá;
 
-- Apresentação pessoal adequada; 
+- Organização do setor de atendimento e cuidado com materiais e equipamentos.
 
-- Vestimenta adequada: roupa branca, sapato branco, jaleco e crachá; 
+- 2 – Postura profissional e ética em relação ao:
 
-- Organização do setor de atendimento e cuidado com materiais e equipamentos. 
+- Professor;
 
-- 2 – Postura profissional e ética em relação ao: 
+- Paciente/Cliente;
 
-- Professor; 
+- Ao grupo;
 
-- Paciente/Cliente; 
+- Instituição.
 
-- Ao grupo; 
+- 3 – Desenvolvimento no atendimento ao cliente/paciente:
 
-- Instituição. 
+- Preenchimento coerente das fichas de avaliação e evolução diária do paciente/cliente;
 
-- 3 – Desenvolvimento no atendimento ao cliente/paciente: 
+- Execução da técnica.
 
-- Preenchimento coerente das fichas de avaliação e evolução diária do paciente/cliente; 
+- 4 – Avaliação do desempenho Geral do Discente
 
-- Execução da técnica. 
+- Procura de informações complementares na literatura;
 
-- 4 – Avaliação do desempenho Geral do Discente 
+- Procura ao professor para esclarecimento de dúvidas;
 
-- Procura de informações complementares na literatura; 
+- Interesse em conhecer outros casos além do designado ao educando;
 
-- Procura ao professor para esclarecimento de dúvidas; 
+- Apresentação de um estudo de caso individual ao final da prática profissional.
 
-- Interesse em conhecer outros casos além do designado ao educando; 
+## **CAPÍTULO VII DO CONTROLE DE FREQUÊNCIA**
 
-- Apresentação de um estudo de caso individual ao final da prática profissional. 
+Artigo 13º A frequência do educando será feita através de assinatura do livro ponto pelo mesmo e controle nos diários de classe feito pelo supervisor.
 
-## **CAPÍTULO VII DO CONTROLE DE FREQUÊNCIA** 
+Artigo 14º As faltas justificadas serão repostas de acordo com o cronograma apresentado pela Coordenação.
 
-Artigo 13º A frequência do educando será feita através de assinatura do livro ponto pelo mesmo e controle nos diários de classe feito pelo supervisor. 
+§ 1º Entende-se por faltas justificadas as decorrentes de licença maternidade, paternidade, luto (falecimento de parente de primeiro grau), acidentes de trânsito, internamento hospitalar ou doenças infectocontagiosas.
 
-Artigo 14º As faltas justificadas serão repostas de acordo com o cronograma apresentado pela Coordenação. 
+§ 2º As faltas justificadas deverão ser comprovadas através de documentação e protocoladas na secretaria.
 
-§ 1º Entende-se por faltas justificadas as decorrentes de licença maternidade, paternidade, luto (falecimento de parente de primeiro grau), acidentes de trânsito, internamento hospitalar ou doenças infectocontagiosas. 
+§ 3º  No caso de acidentes de trânsito deverá ser apresentado boletim de ocorrência.
 
-§ 2º As faltas justificadas deverão ser comprovadas através de documentação e protocoladas na secretaria. 
+§ 4º  No caso de licença maternidade, doenças infecto-contagiosas e internamento hospitalar, deverá ser apresentado atestado médico.
 
-§ 3º  No caso de acidentes de trânsito deverá ser apresentado boletim de ocorrência. 
+§ 5º No caso de falecimento de parentes de primeiro grau deverá ser apresentado o atestado de óbito.
 
-§ 4º  No caso de licença maternidade, doenças infecto-contagiosas e internamento hospitalar, deverá ser apresentado atestado médico. 
+§ 6º Todos os documentos devem ser devidamente protocolados.
 
-§ 5º No caso de falecimento de parentes de primeiro grau deverá ser apresentado o atestado de óbito. 
+76
 
-§ 6º Todos os documentos devem ser devidamente protocolados. 
+§ 7º Apenas as faltas justificadas serão contempladas pelo cronograma de reposição da atividade ambulatorial, os casos omissos serão avaliados pelo colegiado de curso.
 
-76 
+§ 8º  A carga horária, relativa às faltas justificadas, será reposta no período determinado pelo Colegiado do Curso, através de autorização por escrito.
 
-§ 7º Apenas as faltas justificadas serão contempladas pelo cronograma de reposição da atividade ambulatorial, os casos omissos serão avaliados pelo colegiado de curso. 
+§ 9º  Não será de responsabilidade do IFPR e coordenação de curso a reposição das faltas sem justificativas, sendo os casos especiais julgados pelo Colegiado do Curso.
 
-§ 8º  A carga horária, relativa às faltas justificadas, será reposta no período determinado pelo Colegiado do Curso, através de autorização por escrito. 
+§ 10º  As faltas decorrentes da participação do aluno em eventos acadêmicos/científicos da área (congressos, simpósios, entre outros) não serão penalizadas, sendo necessária a apresentação do certificado correspondente ao Coordenador do Curso. Porém, deverá haver reposição de carga horária.
 
-§ 9º  Não será de responsabilidade do IFPR e coordenação de curso a reposição das faltas sem justificativas, sendo os casos especiais julgados pelo Colegiado do Curso. 
+## **CAPÍTULO VIII DISPOSIÇÕES GERAIS**
 
-§ 10º  As faltas decorrentes da participação do aluno em eventos acadêmicos/científicos da área (congressos, simpósios, entre outros) não serão penalizadas, sendo necessária a apresentação do certificado correspondente ao Coordenador do Curso. Porém, deverá haver reposição de carga horária. 
+Artigo 15º Será exigida absoluta pontualidade do educando e Supervisor em todos os compromissos da Prática profissional.
 
-## **CAPÍTULO VIII DISPOSIÇÕES GERAIS** 
+Artigo 16º É estritamente proibido ao discente a cobrança de honorários extras ou troca de favores em função das atividades realizadas no ambulatório.
 
-Artigo 15º Será exigida absoluta pontualidade do educando e Supervisor em todos os compromissos da Prática profissional. 
+Artigo 17º É expressamente proibida a entrada de pessoas não agendadas no ambulatório, salvo caso de menores acompanhado pelos pais ou responsáveis.
 
-Artigo 16º É estritamente proibido ao discente a cobrança de honorários extras ou troca de favores em função das atividades realizadas no ambulatório. 
+Artigo 18º É proibido o educando desmarcar o paciente/cliente sem a autorização do supervisor. Caso ocorra, com o consentimento do professor.
 
-Artigo 17º É expressamente proibida a entrada de pessoas não agendadas no ambulatório, salvo caso de menores acompanhado pelos pais ou responsáveis. 
+Artigo 19º Os supervisores não estão autorizados a programar outras formas de avaliação para o educando, por qualquer motivo, senão as previstas neste regulamento.
 
-Artigo 18º É proibido o educando desmarcar o paciente/cliente sem a autorização do supervisor. Caso ocorra, com o consentimento do professor. 
+Artigo 20º Este regulamento entra em vigor na data de sua aprovação, revogadas as disposições em contrário.
 
-Artigo 19º Os supervisores não estão autorizados a programar outras formas de avaliação para o educando, por qualquer motivo, senão as previstas neste regulamento. 
+Londrina, 14 de agosto de 2013.
 
-Artigo 20º Este regulamento entra em vigor na data de sua aprovação, revogadas as disposições em contrário. 
+77
 
-Londrina, 14 de agosto de 2013. 
+## **ANEXO 2**
 
-77 
+## **REGULAMENTO DE ESTÁGIO NÃO-OBRIGATÓRIO DO CURSO TÉCNICO EM MASSOTERAPIA DO IFPR - CAMPUS LONDRINA**
 
-## **ANEXO 2** 
+## **CAPITULO I**
 
-## **REGULAMENTO DE ESTÁGIO NÃO-OBRIGATÓRIO DO CURSO TÉCNICO EM MASSOTERAPIA DO IFPR - CAMPUS LONDRINA** 
+## **DO ESTÁGIO NÃO-OBRIGATÓRIO E SUAS FINALIDADES**
 
-## **CAPITULO I** 
+**Art. 1º** - O Estágio é ato educativo que visa à preparação para o trabalho produtivo dos educandos que frequentam o Curso Técnico em Massoterapia e segue o previsto na Lei nº 11.788 de 25/09/2008, na Resolução CNE/CEB nº1 de 21/01/2004 e também na Resolução 02/2013 do CONSUP/IFPR, que aprova o Regulamento de Estágios no Âmbito do Instituto Federal do Paraná.
 
-## **DO ESTÁGIO NÃO-OBRIGATÓRIO E SUAS FINALIDADES** 
+**Art. 2º** - O Estágio Supervisionado, considerado atividade curricular não obrigatória do curso técnico em Massoterapia se destinará a propiciar ao aluno a complementação do processo de ensino e de aprendizagem, em termos de experiências práticas, visando a:
 
-**Art. 1º** - O Estágio é ato educativo que visa à preparação para o trabalho produtivo dos educandos que frequentam o Curso Técnico em Massoterapia e segue o previsto na Lei nº 11.788 de 25/09/2008, na Resolução CNE/CEB nº1 de 21/01/2004 e também na Resolução 02/2013 do CONSUP/IFPR, que aprova o Regulamento de Estágios no Âmbito do Instituto Federal do Paraná. 
+I – Experiência ao aluno e a aplicação dos conhecimentos teóricos construídos durante a vida acadêmica;
 
-**Art. 2º** - O Estágio Supervisionado, considerado atividade curricular não obrigatória do curso técnico em Massoterapia se destinará a propiciar ao aluno a complementação do processo de ensino e de aprendizagem, em termos de experiências práticas, visando a: 
+II – Promoção da articulação e da transição da instituição de ensino para o mundo do trabalho;
 
-I – Experiência ao aluno e a aplicação dos conhecimentos teóricos construídos durante a vida acadêmica; 
+III – Adaptação social e psicológica do aluno à sua futura atividade profissional;
 
-II – Promoção da articulação e da transição da instituição de ensino para o mundo do trabalho; 
+IV - Proporcionar um aprimoramento das práticas e métodos pertinentes ao Técnico em Massoterapia, adaptando-os às exigências do mercado de trabalho e dos mecanismos de modernização tecnológica;
 
-III – Adaptação social e psicológica do aluno à sua futura atividade profissional; 
+V – Desenvolver e aperfeiçoar habilidades e competências indispensáveis ao desempenho profissional.
 
-IV - Proporcionar um aprimoramento das práticas e métodos pertinentes ao Técnico em Massoterapia, adaptando-os às exigências do mercado de trabalho e dos mecanismos de modernização tecnológica; 
+## **CAPITULO II DA MATRÍCULA**
 
-V – Desenvolver e aperfeiçoar habilidades e competências indispensáveis ao desempenho profissional. 
+**Art. 3º** - O estágio supervisionado não-obrigatório fica condicionado à prévia solicitação do aluno ao coordenador do curso Técnico em Massoterapia e aprovação por parte do colegiado de curso, com registro em ata da indicação do professor supervisor.
 
-## **CAPITULO II DA MATRÍCULA** 
+## **CAPITULO III DO LOCAL DE REALIZAÇÃO E SUPERVISÃO**
 
-**Art. 3º** - O estágio supervisionado não-obrigatório fica condicionado à prévia solicitação do aluno ao coordenador do curso Técnico em Massoterapia e aprovação por parte do colegiado de curso, com registro em ata da indicação do professor supervisor. 
+**Art. 4º** - O aluno deve verificar se o estágio será intermediado por uma **central de estágio** (Central de estágios do Paraná, CIEE, CINE, PROE, IEL, etc). Recomendase que o aluno procure algum desses agentes de integração para a realização do
 
-## **CAPITULO III DO LOCAL DE REALIZAÇÃO E SUPERVISÃO** 
+78
 
-**Art. 4º** - O aluno deve verificar se o estágio será intermediado por uma **central de estágio** (Central de estágios do Paraná, CIEE, CINE, PROE, IEL, etc). Recomendase que o aluno procure algum desses agentes de integração para a realização do 
+estágio. Havendo o intermédio desses agentes, o aluno deve entrar em contato com os mesmos, que orientarão o aluno no desenvolvimento de todo o processo.
 
-78 
+**Art. 5º** Se não houver agente de integração, o aluno deve se dirigir a Central de Estágios do Campus e fazer a solicitação de convênio.
 
-estágio. Havendo o intermédio desses agentes, o aluno deve entrar em contato com os mesmos, que orientarão o aluno no desenvolvimento de todo o processo. 
+**Art. 6º** Em ambos os casos, o termo de compromisso deve ser assinado pelo aluno, pela unidade concedente e pela instituição de ensino.
 
-**Art. 5º** Se não houver agente de integração, o aluno deve se dirigir a Central de Estágios do Campus e fazer a solicitação de convênio. 
+## **CAPITULO IV DA DURAÇÃO E DA JORNADA DIÁRIA DE ESTÁGIOS NÃO-OBRIGATÓRIOS**
 
-**Art. 6º** Em ambos os casos, o termo de compromisso deve ser assinado pelo aluno, pela unidade concedente e pela instituição de ensino. 
+**Art. 7º** - A jornada diária de Estágios Supervisionados não excederá a carga horária de 06 (seis) horas diárias e 30 (trinta) horas semanais.
 
-## **CAPITULO IV DA DURAÇÃO E DA JORNADA DIÁRIA DE ESTÁGIOS NÃO-OBRIGATÓRIOS** 
+## **CAPITULO V DA BOLSA E DO SEGURO DE ESTÁGIOS NÃO-OBRIGATÓRIOS**
 
-**Art. 7º** - A jornada diária de Estágios Supervisionados não excederá a carga horária de 06 (seis) horas diárias e 30 (trinta) horas semanais. 
+**Art. 8º** – A entidade concedente deverá oferecer ao estagiário auxílio na forma de bolsa e, também, de qualquer outra forma de contraprestação de serviço, como transporte, alimentação e saúde sem que configure vínculo empregatício.
 
-## **CAPITULO V DA BOLSA E DO SEGURO DE ESTÁGIOS NÃO-OBRIGATÓRIOS** 
+## **CAPITULO VI DAS ATRIBUIÇÕES DOS ENVOLVIDOS NO PROCESSO DOS ESTÁGIOS SUPERVISIONADOS**
 
-**Art. 8º** – A entidade concedente deverá oferecer ao estagiário auxílio na forma de bolsa e, também, de qualquer outra forma de contraprestação de serviço, como transporte, alimentação e saúde sem que configure vínculo empregatício. 
+## **SEÇÃO I DO PROFESSOR ORIENTADOR**
 
-## **CAPITULO VI DAS ATRIBUIÇÕES DOS ENVOLVIDOS NO PROCESSO DOS ESTÁGIOS SUPERVISIONADOS** 
+**Art. 9º** – Ao Professor Orientador de Estágios incumbe:
 
-## **SEÇÃO I DO PROFESSOR ORIENTADOR** 
+I - Avaliar as instalações da parte concedente do estágio não-obrigatório e sua adequação à formação cultural e profissional do educando, na forma de Termo de Vistoria.
 
-**Art. 9º** – Ao Professor Orientador de Estágios incumbe: 
+II - Receber as propostas de estágio obrigatório com as respectivas documentações encaminhadas pelos alunos e verificar o correto preenchimento dos documentos;
 
-I - Avaliar as instalações da parte concedente do estágio não-obrigatório e sua adequação à formação cultural e profissional do educando, na forma de Termo de Vistoria. 
+III - Encaminhar após análise ao coordenador do curso para ciência e assinatura;
 
-II - Receber as propostas de estágio obrigatório com as respectivas documentações encaminhadas pelos alunos e verificar o correto preenchimento dos documentos; 
+IV - Realizar contatos com os campos de estágios por meio de visitas aos locais ou contatos telefônicos conforme as necessidades e modalidade de supervisão adotada;
 
-III - Encaminhar após análise ao coordenador do curso para ciência e assinatura; 
+## **SEÇÃO II**
 
-IV - Realizar contatos com os campos de estágios por meio de visitas aos locais ou contatos telefônicos conforme as necessidades e modalidade de supervisão adotada; 
+## **DO SUPERVISOR DE CAMPO**
 
-## **SEÇÃO II** 
+79
 
-## **DO SUPERVISOR DE CAMPO** 
+## **Art. 10º** – Ao supervisor de campo incumbe:
 
-79 
+I - Ter conhecimento do plano de estágio assiná-lo e colaborar para o total alcance dos objetivos propostos, viabilizando a execução das atividades previstas;
 
-## **Art. 10º** – Ao supervisor de campo incumbe: 
+II - Disponibilizar horários para orientação e avaliação do aluno estagiário, bem como para os contatos com o professor orientador;
 
-I - Ter conhecimento do plano de estágio assiná-lo e colaborar para o total alcance dos objetivos propostos, viabilizando a execução das atividades previstas; 
+III - Realizar o preenchimento das fichas de avaliação conforme orientação do professor  e respeitando os prazos determinados.
 
-II - Disponibilizar horários para orientação e avaliação do aluno estagiário, bem como para os contatos com o professor orientador; 
+IV - Observar e fazer cumprir a legislação relacionada à saúde e segurança no trabalho em relação ao estagiário supervisionado.
 
-III - Realizar o preenchimento das fichas de avaliação conforme orientação do professor  e respeitando os prazos determinados. 
+## **SEÇÃO III DO ALUNO ESTAGIÁRIO**
 
-IV - Observar e fazer cumprir a legislação relacionada à saúde e segurança no trabalho em relação ao estagiário supervisionado. 
+**Art. 11º** – Ao aluno estagiário incumbe:
 
-## **SEÇÃO III DO ALUNO ESTAGIÁRIO** 
+I - Efetuar requerimento para o Estágio Supervisionado via Protocolo no Campus; II - Firmar o Termo de Compromisso com a entidade concedente, com interveniência do IFPR;
 
-**Art. 11º** – Ao aluno estagiário incumbe: 
+III - Realizar todas as atividades previstas no plano de estágio de acordo com as normas técnicas e primando pelos princípios éticos;
 
-I - Efetuar requerimento para o Estágio Supervisionado via Protocolo no Campus; II - Firmar o Termo de Compromisso com a entidade concedente, com interveniência do IFPR; 
+IV - Respeitar e cumprir as Cláusulas do Termo de Compromisso;
 
-III - Realizar todas as atividades previstas no plano de estágio de acordo com as normas técnicas e primando pelos princípios éticos; 
+V - Apresentar ao Professor Orientador do Estágio os documentos que compõem o processo final de seu estágio Supervisionado, cumprida a carga horária prevista e respeitando-se o calendário acadêmico;
 
-IV - Respeitar e cumprir as Cláusulas do Termo de Compromisso; 
+VI - Participar de todas as etapas de avaliação do Estágio Supervisionado;
 
-V - Apresentar ao Professor Orientador do Estágio os documentos que compõem o processo final de seu estágio Supervisionado, cumprida a carga horária prevista e respeitando-se o calendário acadêmico; 
+## **CAPÍTULO VII**
 
-VI - Participar de todas as etapas de avaliação do Estágio Supervisionado; 
+## **DO DESENVOLVIMENTO DOS ESTÁGIOS SUPERVISIONADOS**
 
-## **CAPÍTULO VII** 
+## **SEÇÃO I DO TERMO DE COMPROMISSO**
 
-## **DO DESENVOLVIMENTO DOS ESTÁGIOS SUPERVISIONADOS** 
+**Art. 12º** – Os Estágios Supervisionados serão precedidos da celebração do Termo de Compromisso entre o aluno e a entidade concedente, com interveniência do IFPR no qual estarão previstas as condições de sua realização e sua duração.
 
-## **SEÇÃO I DO TERMO DE COMPROMISSO** 
+## **SEÇÃO II DOS PLANOS DE ESTÁGIOS SUPERVISIONADOS**
 
-**Art. 12º** – Os Estágios Supervisionados serão precedidos da celebração do Termo de Compromisso entre o aluno e a entidade concedente, com interveniência do IFPR no qual estarão previstas as condições de sua realização e sua duração. 
+**Art. 13º** – O Plano de Atividades do estágio é formulado pelo professor orientador do IFPR, acordado entre o estagiário e o profissional supervisor da unidade concedente, sendo assinado pelas três partes.
 
-## **SEÇÃO II DOS PLANOS DE ESTÁGIOS SUPERVISIONADOS** 
+## **SEÇÃO III DA AVALIAÇÃO DOS ESTÁGIOS SUPERVISIONADOS**
 
-**Art. 13º** – O Plano de Atividades do estágio é formulado pelo professor orientador do IFPR, acordado entre o estagiário e o profissional supervisor da unidade concedente, sendo assinado pelas três partes. 
+80
 
-## **SEÇÃO III DA AVALIAÇÃO DOS ESTÁGIOS SUPERVISIONADOS** 
+**Art. 14º** – Para avaliação dos Estágios serão realizadas avaliações referentes aos procedimentos técnicos previstos e de acordo com o Plano de Atividades do estágio e com as normas vigentes no IFPR. A aprovação está condicionada:
 
-80 
+I - Alcançar o mínimo de frequência igual a setenta e cinco por cento (75%) da carga horária constante no Termo de Compromisso;
 
-**Art. 14º** – Para avaliação dos Estágios serão realizadas avaliações referentes aos procedimentos técnicos previstos e de acordo com o Plano de Atividades do estágio e com as normas vigentes no IFPR. A aprovação está condicionada: 
+II - Obter o mínimo exigido em avaliação de acordo com o regulamento que o IFPR estabelece, no conjunto de tarefas realizadas.
 
-I - Alcançar o mínimo de frequência igual a setenta e cinco por cento (75%) da carga horária constante no Termo de Compromisso; 
+## **CAPÍTULO VIII DO DESLIGAMENTO DO ESTAGIÁRIO**
 
-II - Obter o mínimo exigido em avaliação de acordo com o regulamento que o IFPR estabelece, no conjunto de tarefas realizadas. 
+**Art. 15º** – O desligamento do estagiário da entidade concedente ocorrerá, automaticamente, após o prazo fixado no Termo de Compromisso.
 
-## **CAPÍTULO VIII DO DESLIGAMENTO DO ESTAGIÁRIO** 
+**Art. 16º** – O aluno será desligado da entidade concedente antes do encerramento do período previsto no Termo de Compromisso nos seguintes casos:
 
-**Art. 15º** – O desligamento do estagiário da entidade concedente ocorrerá, automaticamente, após o prazo fixado no Termo de Compromisso. 
+I – A pedido do estagiário, mediante comunicação prévia à Coordenação do Curso mediante protocolo;
 
-**Art. 16º** – O aluno será desligado da entidade concedente antes do encerramento do período previsto no Termo de Compromisso nos seguintes casos: 
+II – Por iniciativa da entidade concedente, quando o estagiário deixar de cumprir obrigação prevista no Termo de Compromisso;
 
-I – A pedido do estagiário, mediante comunicação prévia à Coordenação do Curso mediante protocolo; 
+III – Por iniciativa do IFPR, quando a entidade concedente deixar de cumprir obrigação prevista no termo de Convênio ou no Termo de Compromisso;
 
-II – Por iniciativa da entidade concedente, quando o estagiário deixar de cumprir obrigação prevista no Termo de Compromisso; 
+IV – Por iniciativa do IFPR, quando o aluno infringir normas disciplinares da Instituição que levem ao seu desligamento do corpo discente;
 
-III – Por iniciativa do IFPR, quando a entidade concedente deixar de cumprir obrigação prevista no termo de Convênio ou no Termo de Compromisso; 
+V - Por iniciativa do IFPR, quando constatada realização de atividades não compatíveis com a programação curricular do curso Técnico em Massoterapia.
 
-IV – Por iniciativa do IFPR, quando o aluno infringir normas disciplinares da Instituição que levem ao seu desligamento do corpo discente; 
+VI - Por iniciativa do IFPR, quando a parte concedente indicar funcionário de seu quadro de pessoal com formação ou experiência profissional diversa da área de conhecimento do curso Técnico em Massoterapia.
 
-V - Por iniciativa do IFPR, quando constatada realização de atividades não compatíveis com a programação curricular do curso Técnico em Massoterapia. 
+VII - Por iniciativa do IFPR, quando a parte concedente não respeitar a periodicidade mínima de 6 (seis) meses para o envio do relatório de atividades.
 
-VI - Por iniciativa do IFPR, quando a parte concedente indicar funcionário de seu quadro de pessoal com formação ou experiência profissional diversa da área de conhecimento do curso Técnico em Massoterapia. 
+## **CAPÍTULO X DAS DISPOSIÇÕES GERAIS**
 
-VII - Por iniciativa do IFPR, quando a parte concedente não respeitar a periodicidade mínima de 6 (seis) meses para o envio do relatório de atividades. 
+**Art. 17º** – A realização dos Estágios Supervisionados por parte do aluno não acarretará vinculo empregatício de qualquer natureza.
 
-## **CAPÍTULO X DAS DISPOSIÇÕES GERAIS** 
+**Art. 18º** – Os casos omissos serão resolvidos pelo Colegiado de Curso ou pela Direção de Ensino, Pesquisa e Extensão do Campus Londrina, no que couber.
 
-**Art. 17º** – A realização dos Estágios Supervisionados por parte do aluno não acarretará vinculo empregatício de qualquer natureza. 
+81
 
-**Art. 18º** – Os casos omissos serão resolvidos pelo Colegiado de Curso ou pela Direção de Ensino, Pesquisa e Extensão do Campus Londrina, no que couber. 
+## **ANEXO 3**
 
-81 
+## **REGULAMENTO DO TRABALHO DE CONCLUSÃO DE CURSO – TCC**
 
-## **ANEXO 3** 
+## **CAPÍTULO I DAS DISPOSIÇÕES GERAIS**
 
-## **REGULAMENTO DO TRABALHO DE CONCLUSÃO DE CURSO – TCC** 
+**Art. 1º -** O presente Regulamento dispõe sobre o Trabalho de Conclusão de Curso (TCC), do Curso Técnico em Massoterapia, do Instituto Federal do Paraná - Campus Londrina.
 
-## **CAPÍTULO I DAS DISPOSIÇÕES GERAIS** 
+**Art. 2º -** O trabalho tem como formato definido trabalho completo e terá as seguintes etapas: elaboração de Projeto de Pesquisa, o desenvolvimento da pesquisa e elaboração do relatório no formato de Trabalho Completo atendendo as especificidades destas modalidades de apresentação.
 
-**Art. 1º -** O presente Regulamento dispõe sobre o Trabalho de Conclusão de Curso (TCC), do Curso Técnico em Massoterapia, do Instituto Federal do Paraná - Campus Londrina. 
+**Art. 3º -** O TCC será requisito obrigatório para a conclusão do curso Técnico em Massoterapia.
 
-**Art. 2º -** O trabalho tem como formato definido trabalho completo e terá as seguintes etapas: elaboração de Projeto de Pesquisa, o desenvolvimento da pesquisa e elaboração do relatório no formato de Trabalho Completo atendendo as especificidades destas modalidades de apresentação. 
+**- § 1º** O Projeto de TCC será desenvolvido durante o 2º semestre do curso como tema a ser tratado pelo componente curricular Métodos e Técnicas de Pesquisa.
 
-**Art. 3º -** O TCC será requisito obrigatório para a conclusão do curso Técnico em Massoterapia. 
+**§ 2º -** O TCC será desenvolvido e concluído respectivamente nos 3º e 4º semestres do curso, nos componentes curriculares Prática Científica em Massoterapia I e II sob orientação de um docente que integre o quadro de docentes do IFPR cuja área de atuação contribua para o aprofundamento teórico-prático da temática abordada no TCC.
 
-**- § 1º** O Projeto de TCC será desenvolvido durante o 2º semestre do curso como tema a ser tratado pelo componente curricular Métodos e Técnicas de Pesquisa. 
+**§ 3º** - O docente orientador será designado pelo Colegiado de curso
 
-**§ 2º -** O TCC será desenvolvido e concluído respectivamente nos 3º e 4º semestres do curso, nos componentes curriculares Prática Científica em Massoterapia I e II sob orientação de um docente que integre o quadro de docentes do IFPR cuja área de atuação contribua para o aprofundamento teórico-prático da temática abordada no TCC. 
+**§ 4º -** O Projeto de Pesquisa e o TCC são atividades que podem ser realizadas em grupos com até três estudantes.
 
-**§ 3º** - O docente orientador será designado pelo Colegiado de curso 
+## **CAPÍTULO II DA CONCEITUAÇÃO E OBJETIVOS**
 
-**§ 4º -** O Projeto de Pesquisa e o TCC são atividades que podem ser realizadas em grupos com até três estudantes. 
+**Art. 4º -** Por TCC, entende-se um trabalho acadêmico, por meio do qual o estudante em formação desenvolverá atividades de sistematização dos conhecimentos obtidos no decorrer do Curso, mediante acompanhamento, orientação e avaliação docente.
 
-## **CAPÍTULO II DA CONCEITUAÇÃO E OBJETIVOS** 
+82
 
-**Art. 4º -** Por TCC, entende-se um trabalho acadêmico, por meio do qual o estudante em formação desenvolverá atividades de sistematização dos conhecimentos obtidos no decorrer do Curso, mediante acompanhamento, orientação e avaliação docente. 
+**Art. 5º -** A elaboração e desenvolvimento do TCC implicará rigor metodológico e científico, objetivação, coerência e consistência teórica, organização, sistematização e aprofundamento do tema abordado, contribuindo para o conhecimento.
 
-82 
+**Art. 6º -** São objetivos do TCC:
 
-**Art. 5º -** A elaboração e desenvolvimento do TCC implicará rigor metodológico e científico, objetivação, coerência e consistência teórica, organização, sistematização e aprofundamento do tema abordado, contribuindo para o conhecimento. 
+**I -** Sistematizar os conhecimentos obtidos no decorrer do curso;
 
-**Art. 6º -** São objetivos do TCC: 
+**II -** Desenvolver o espírito crítico, a autonomia intelectual, a capacidade criadora e curiosidade científica;
 
-**I -** Sistematizar os conhecimentos obtidos no decorrer do curso; 
+**III -** Contribuir para o desenvolvimento da produção acadêmica e cientifica da área;
 
-**II -** Desenvolver o espírito crítico, a autonomia intelectual, a capacidade criadora e curiosidade científica; 
+**IV** - Subsidiar o processo de ensino e de aprendizagem do curso, contribuindo para a atualização dos conteúdos programáticos dos componentes curriculares integrantes do currículo;
 
-**III -** Contribuir para o desenvolvimento da produção acadêmica e cientifica da área; 
+**V** - Desenvolver o estudo permanente e sistemático da práxis profissional;
 
-**IV** - Subsidiar o processo de ensino e de aprendizagem do curso, contribuindo para a atualização dos conteúdos programáticos dos componentes curriculares integrantes do currículo; 
+**VI** - Proceder à integração do ensino, da pesquisa e da extensão.
 
-**V** - Desenvolver o estudo permanente e sistemático da práxis profissional; 
+## **CAPÍTULO III DA ESTRUTURA ORGANIZACIONAL**
 
-**VI** - Proceder à integração do ensino, da pesquisa e da extensão. 
+**Art. 7º -** O TCC contará com a seguinte estrutura organizacional para sua operacionalização:
 
-## **CAPÍTULO III DA ESTRUTURA ORGANIZACIONAL** 
+- **I.** Coordenador(a) do Curso Técnico em Massoterapia;
 
-**Art. 7º -** O TCC contará com a seguinte estrutura organizacional para sua operacionalização: 
+**II.** Colegiado do Curso Técnico em Massoterapia;
 
-- **I.** Coordenador(a) do Curso Técnico em Massoterapia; 
+**III.** Professores orientadores;
 
-**II.** Colegiado do Curso Técnico em Massoterapia; 
+- **IV.** Estudantes orientandos.
 
-**III.** Professores orientadores; 
+## **CAPÍTULO IV DAS ATRIBUIÇÕES**
 
-- **IV.** Estudantes orientandos. 
+**Art. 8º -** São atribuições do Colegiado do Curso Técnico em Massoterapia:
 
-## **CAPÍTULO IV DAS ATRIBUIÇÕES** 
+**I -** Nomear professores orientadores de TCC;
 
-**Art. 8º -** São atribuições do Colegiado do Curso Técnico em Massoterapia: 
+**II -** Acompanhar o desenvolvimento dos trabalhos;
 
-**I -** Nomear professores orientadores de TCC; 
+**III -** Promover alterações no presente Regulamento, sempre que se fizer necessário; **IV -** Estabelecer, juntamente com os professores orientadores, o cronograma para entrega e socialização dos TCCs;
 
-**II -** Acompanhar o desenvolvimento dos trabalhos; 
+**V -** Deliberar sobre os pedidos de alteração de orientador.
 
-**III -** Promover alterações no presente Regulamento, sempre que se fizer necessário; **IV -** Estabelecer, juntamente com os professores orientadores, o cronograma para entrega e socialização dos TCCs; 
+**Art. 9º -** São atribuições da Coordenação de Curso
 
-**V -** Deliberar sobre os pedidos de alteração de orientador. 
+**I -** Homologar lista dos professores orientadores de TCC, conforme indicação do Colegiado do Curso;
 
-**Art. 9º -** São atribuições da Coordenação de Curso 
+**II -** Homologar a listagem de estudantes por orientador;
 
-**I -** Homologar lista dos professores orientadores de TCC, conforme indicação do Colegiado do Curso; 
+83
 
-**II -** Homologar a listagem de estudantes por orientador; 
+**III -** Homologar o cronograma de entrega e socialização dos TCC;
 
-83 
+**IV -** Acompanhar a vigência de horários de orientação estabelecidos entre professores orientadores e alunos;
 
-**III -** Homologar o cronograma de entrega e socialização dos TCC; 
+**V -** Articular-se com o Colegiado de Curso para compatibilizar diretrizes, organização e desenvolvimento dos projetos;
 
-**IV -** Acompanhar a vigência de horários de orientação estabelecidos entre professores orientadores e alunos; 
+**VI -** Convocar, sempre que necessário, os orientadores para discutir questões relativas à organização, planejamento, desenvolvimento e avaliação dos TCC.
 
-**V -** Articular-se com o Colegiado de Curso para compatibilizar diretrizes, organização e desenvolvimento dos projetos; 
+**VII -** Coordenar, junto com o Colegiado do Curso propostas de alteração do presente Regulamento;
 
-**VI -** Convocar, sempre que necessário, os orientadores para discutir questões relativas à organização, planejamento, desenvolvimento e avaliação dos TCC. 
+**VIII –** Divulgar o cronograma de entrega do TCC;
 
-**VII -** Coordenar, junto com o Colegiado do Curso propostas de alteração do presente Regulamento; 
+**Art. 10 -** São atribuições dos professores orientadores:
 
-**VIII –** Divulgar o cronograma de entrega do TCC; 
+**I -** Orientar, acompanhar e avaliar o desenvolvimento do TCC, em todas as suas fases;
 
-**Art. 10 -** São atribuições dos professores orientadores: 
+**II -** Estabelecer o plano e cronograma de trabalho;
 
-**I -** Orientar, acompanhar e avaliar o desenvolvimento do TCC, em todas as suas fases; 
+**III -** Definir horários de orientação, junto com seus orientandos;
 
-**II -** Estabelecer o plano e cronograma de trabalho; 
+**IV -** Informar o orientando sobre as normas e procedimentos previstos neste Regulamento.
 
-**III -** Definir horários de orientação, junto com seus orientandos; 
+**V -** Indicar bibliografia básica aos acadêmicos sob sua orientação;
 
-**IV -** Informar o orientando sobre as normas e procedimentos previstos neste Regulamento. 
+**VI -** Avaliar os TCCs e participar das bancas de avaliação de seus orientandos;
 
-**V -** Indicar bibliografia básica aos acadêmicos sob sua orientação; 
+**VII -** Participar das bancas de avaliação dos estudantes que não os seus orientandos enquanto convidados devidas as limitações de sua disponibilidade; **VIII -** Participar de reuniões com a Coordenação do Curso sempre que convocado;
 
-**VI -** Avaliar os TCCs e participar das bancas de avaliação de seus orientandos; 
+## **CAPÍTULO V DA SELEÇÃO DE ORIENTADORES**
 
-**VII -** Participar das bancas de avaliação dos estudantes que não os seus orientandos enquanto convidados devidas as limitações de sua disponibilidade; **VIII -** Participar de reuniões com a Coordenação do Curso sempre que convocado; 
+**Art. 11 -** Os professores orientadores serão nomeados pelo Colegiado do Curso ou de áreas afins conforme afinidade da área de atuação e formação profissional dos professores com a temática dos Projetos de TCC.
 
-## **CAPÍTULO V DA SELEÇÃO DE ORIENTADORES** 
+.
 
-**Art. 11 -** Os professores orientadores serão nomeados pelo Colegiado do Curso ou de áreas afins conforme afinidade da área de atuação e formação profissional dos professores com a temática dos Projetos de TCC. 
+## **CAPÍTULO VI DOS PROJETOS DE TRABALHO DE CONCLUSÃO DE CURSO**
 
-. 
+**Art. 13 –** O projeto de pesquisa deverá conter o tema e a sua delimitação, a problemática da pesquisa, os objetivos, a justificativa, a revisão de literatura e a metodologia a ser empregada no desenvolvimento da pesquisa, bem como, o cronograma de execução.
 
-## **CAPÍTULO VI DOS PROJETOS DE TRABALHO DE CONCLUSÃO DE CURSO** 
+**§ Único -** Deverá atender às normas técnicas para formatação de trabalhos acadêmicos do IFPR.
 
-**Art. 13 –** O projeto de pesquisa deverá conter o tema e a sua delimitação, a problemática da pesquisa, os objetivos, a justificativa, a revisão de literatura e a metodologia a ser empregada no desenvolvimento da pesquisa, bem como, o cronograma de execução. 
+84
 
-**§ Único -** Deverá atender às normas técnicas para formatação de trabalhos acadêmicos do IFPR. 
+**Art. 14 -** Os projetos que optarem por metodologias que contenham pesquisas de campo com interação com seres humanos deverão ser submetidos à aprovação do Comitê de Ética, conforme regulamento desse órgão.
 
-84 
+## **CAPÍTULO VII DA AVALIAÇÃO**
 
-**Art. 14 -** Os projetos que optarem por metodologias que contenham pesquisas de campo com interação com seres humanos deverão ser submetidos à aprovação do Comitê de Ética, conforme regulamento desse órgão. 
+**Art. 15** - A avaliação do TCC, desenvolvida no último período, compreende:
 
-## **CAPÍTULO VII DA AVALIAÇÃO** 
+**I** - Acompanhamento e avaliação contínua pelo professor orientador;
 
-**Art. 15** - A avaliação do TCC, desenvolvida no último período, compreende: 
+**II** – Entrega do TCC para a Banca Avaliadora composta por três membros, um exemplar para cada membro. A Banca fará correção e avaliação do trabalho impresso e em conjunto emitirá o parecer e conceito do estudante em formação.
 
-**I** - Acompanhamento e avaliação contínua pelo professor orientador; 
+**Art. 16 -** Para avaliação do TCC, será utilizada a Portaria 120 de 6 de agosto de 2009 do IFPR. A Banca Examinadora atribuirá o conceito, lavrando uma ata, que ficará arquivada na coordenação, com as suas considerações.
 
-**II** – Entrega do TCC para a Banca Avaliadora composta por três membros, um exemplar para cada membro. A Banca fará correção e avaliação do trabalho impresso e em conjunto emitirá o parecer e conceito do estudante em formação. 
+**Art. 17** - O acadêmico que não obtiver aproveitamento e conceito mínimo será considerado reprovado.
 
-**Art. 16 -** Para avaliação do TCC, será utilizada a Portaria 120 de 6 de agosto de 2009 do IFPR. A Banca Examinadora atribuirá o conceito, lavrando uma ata, que ficará arquivada na coordenação, com as suas considerações. 
+**Art. 18 -** A avaliação do TCC deverá considerar como critérios:
 
-**Art. 17** - O acadêmico que não obtiver aproveitamento e conceito mínimo será considerado reprovado. 
+**I -** Coesão e coerência.
 
-**Art. 18 -** A avaliação do TCC deverá considerar como critérios: 
+**II -** Norma culta da Língua Portuguesa.
 
-**I -** Coesão e coerência. 
+**III –** Originalidade.
 
-**II -** Norma culta da Língua Portuguesa. 
+**IV** - Aprofundamento teórico.
 
-**III –** Originalidade. 
+**V -** Adequação ao tema.
 
-**IV** - Aprofundamento teórico. 
+**VI -** Capacidade de síntese.
 
-**V -** Adequação ao tema. 
+**VII -** Domínio do conteúdo.
 
-**VI -** Capacidade de síntese. 
+**VIII -** Uso das normas para a elaboração de trabalhos acadêmicos do IFPR.
 
-**VII -** Domínio do conteúdo. 
+**Art. 19 -** Antes da entrega da versão final do TCC, em arquivo digital, o acadêmico e seu orientador deverão atender às sugestões da Banca Examinadora.
 
-**VIII -** Uso das normas para a elaboração de trabalhos acadêmicos do IFPR. 
+## **CAPÍTULO VIII DOS PRAZOS**
 
-**Art. 19 -** Antes da entrega da versão final do TCC, em arquivo digital, o acadêmico e seu orientador deverão atender às sugestões da Banca Examinadora. 
+**Art. 20 –** Os prazos para entrega do Projeto de Pesquisa e do Trabalho de Conclusão de Curso serão estabelecidos no início de cada semestre letivo e serão definidos pelo Colegiado do Curso.
 
-## **CAPÍTULO VIII DOS PRAZOS** 
+85
 
-**Art. 20 –** Os prazos para entrega do Projeto de Pesquisa e do Trabalho de Conclusão de Curso serão estabelecidos no início de cada semestre letivo e serão definidos pelo Colegiado do Curso. 
+## **CAPÍTULO IX DAS DISPOSIÇÕES TRANSITÓRIAS E FINAIS**
 
-85 
+**Art. 21** - O acadêmico que, por qualquer motivo, reprovar, deverá repetir integralmente o processo de desenvolvimento do TCC.
 
-## **CAPÍTULO IX DAS DISPOSIÇÕES TRANSITÓRIAS E FINAIS** 
+**Art. 22** - As situações não previstas neste Regulamento serão encaminhadas e resolvidas pelo Colegiado do Curso Técnico em Massoterapia.
 
-**Art. 21** - O acadêmico que, por qualquer motivo, reprovar, deverá repetir integralmente o processo de desenvolvimento do TCC. 
+86
 
-**Art. 22** - As situações não previstas neste Regulamento serão encaminhadas e resolvidas pelo Colegiado do Curso Técnico em Massoterapia. 
+## **ANEXO 4**
 
-86 
-
-## **ANEXO 4** 
-
-## **RELATÓRIO DE ACOMPANHAMENTO** 
+## **RELATÓRIO DE ACOMPANHAMENTO**
 
 |**Discente:**|**Discente:**||
 |---|---|---|
@@ -2346,21 +2323,15 @@ VII - Por iniciativa do IFPR, quando a parte concedente não respeitar a periodi
 ||||
 ||||
 
+## **Uso do Professor (NÃO PREENCHER)**
 
+**Avaliação** (O professor orientador avaliará o discente observando características importantes na formação técnico-profissional, entre elas: assiduidade, sociabilidade, responsabilidade, produtividade, organização e método no trabalho, iniciativa e independência)
 
-## **Uso do Professor (NÃO PREENCHER)** 
+87
 
-**Avaliação** (O professor orientador avaliará o discente observando características importantes na formação técnico-profissional, entre elas: assiduidade, sociabilidade, responsabilidade, produtividade, organização e método no trabalho, iniciativa e independência) 
+## **ANEXO 5 – FICHA DE AVALIAÇÃO – TCC**
 
-87 
+# **CURSO TÉCNICO EM MASSOTERAPIA TCC - BANCA EXAMINADORA - FICHA DE AVALIAÇÃO**
 
-## **ANEXO 5 – FICHA DE AVALIAÇÃO – TCC** 
-
-# **CURSO TÉCNICO EM MASSOTERAPIA TCC - BANCA EXAMINADORA - FICHA DE AVALIAÇÃO** 
-
-**==> picture [466 x 570] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Acadêmico(a): _____________________________________________________________<br>Tema: ___________________________________________________________________<br>Banca Examinadora: ________________________________________________________<br>________________________________________________________________________.<br>CRITÉRIO DE AVALIAÇÃO – TCC - RELATÓRIO OBSERVAÇÕES<br>Delimitação do tema: quanto ao sujeito e objeto<br>Capacidade de reflexão e expressão<br>Cientificidade da linguagem<br>Gramática e ortografia<br>Coerência entre introdução, corpo e conclusão<br>Clareza do problema de pesquisa<br>Clareza de objetivos<br>Clareza de metodologia<br>Fontes de pesquisa e bibliografia adequadas<br>Formatação de acordo com o Manual de Normas do IFPR<br>CONCEITO<br>CRITÉRIO DE AVALIAÇÃO - APRESENTAÇÃO OBSERVAÇÕES<br>Capacidade de expressão<br>Coerência entre o texto e a exposição oral<br>Clareza, objetividade e domínio de conteúdo<br>Análise crítica<br>Organização Visual<br>Coerência entre respostas, argumentações, conclusões<br>CONCEITO<br>CRITÉRIO DE AVALIAÇÃO – ORIENTAÇÃO   OBSERVAÇÕES<br>(somente Prof. orientador)<br>Assiduidade e pontualidade às reuniões de orientação<br>Execução das tarefas propostas<br>Superação progressiva das limitações teóricas com<br>compreensão do processo de execução do TCC<br>CONCEITO<br>CONCEITO FINAL -<br>DATA: ___/___/_____.<br>Professor(a): _______________________________<br>Assinatura: ________________________________<br>**----- End of picture text -----**<br>
-
+Acadêmico(a): _____________________________________________________________<br>Tema: ___________________________________________________________________<br>Banca Examinadora: ________________________________________________________<br>________________________________________________________________________.<br>CRITÉRIO DE AVALIAÇÃO – TCC - RELATÓRIO OBSERVAÇÕES<br>Delimitação do tema: quanto ao sujeito e objeto<br>Capacidade de reflexão e expressão<br>Cientificidade da linguagem<br>Gramática e ortografia<br>Coerência entre introdução, corpo e conclusão<br>Clareza do problema de pesquisa<br>Clareza de objetivos<br>Clareza de metodologia<br>Fontes de pesquisa e bibliografia adequadas<br>Formatação de acordo com o Manual de Normas do IFPR<br>CONCEITO<br>CRITÉRIO DE AVALIAÇÃO - APRESENTAÇÃO OBSERVAÇÕES<br>Capacidade de expressão<br>Coerência entre o texto e a exposição oral<br>Clareza, objetividade e domínio de conteúdo<br>Análise crítica<br>Organização Visual<br>Coerência entre respostas, argumentações, conclusões<br>CONCEITO<br>CRITÉRIO DE AVALIAÇÃO – ORIENTAÇÃO   OBSERVAÇÕES<br>(somente Prof. orientador)<br>Assiduidade e pontualidade às reuniões de orientação<br>Execução das tarefas propostas<br>Superação progressiva das limitações teóricas com<br>compreensão do processo de execução do TCC<br>CONCEITO<br>CONCEITO FINAL -<br>DATA: ___/___/_____.<br>Professor(a): _______________________________<br>Assinatura: ________________________________<br>
 

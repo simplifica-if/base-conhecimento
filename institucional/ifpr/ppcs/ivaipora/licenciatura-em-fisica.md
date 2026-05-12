@@ -1,38 +1,35 @@
-**==> picture [486 x 54] intentionally omitted <==**
 
-## **MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO SUPERIOR INSTITUTO FEDERAL DO PARANÁ CAMPUS IVAIPORÃ** 
+## **MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO SUPERIOR INSTITUTO FEDERAL DO PARANÁ CAMPUS IVAIPORÃ**
 
-## **PROJETO PEDAGÓGICO DO CURSO DE LICENCIATURA EM FÍSICA** 
+## **PROJETO PEDAGÓGICO DO CURSO DE LICENCIATURA EM FÍSICA**
 
-## **AUTORIZADO PELA RESOLUÇÃO 27/2014** 
+## **AUTORIZADO PELA RESOLUÇÃO 27/2014**
 
-**Ivaiporã, 2023** 
+**Ivaiporã, 2023**
 
-**==> picture [486 x 54] intentionally omitted <==**
+## **INSTITUTO FEDERAL DO PARANÁ**
 
-## **INSTITUTO FEDERAL DO PARANÁ** 
+## **Reitor**
 
-## **Reitor** 
+## Odacir Antonio Zanatta
 
-## Odacir Antonio Zanatta 
+## **Pró-Reitor de Ensino**
 
-## **Pró-Reitor de Ensino** 
+Amarildo Pinheiro Magalhães
 
-Amarildo Pinheiro Magalhães 
+**Diretor de Ensino** Patrícia Daniela Maciel
 
-**Diretor de Ensino** Patrícia Daniela Maciel 
+**Direção Geral do Campus** Ricardo Rodrigues de Souza
 
-**Direção Geral do Campus** Ricardo Rodrigues de Souza 
+**Direção de Ensino, Pesquisa e Extensão do Campus** Luiz Leonardo de Siqueira
 
-**Direção de Ensino, Pesquisa e Extensão do Campus** Luiz Leonardo de Siqueira 
+## **Coordenador de Curso**
 
-## **Coordenador de Curso** 
+Thiago Vinícius Moreira Guimarães
 
-Thiago Vinícius Moreira Guimarães 
+## **Núcleo Docente Estruturante**
 
-## **Núcleo Docente Estruturante** 
-
-Adriano José Ortiz Ailton da Silva Ferreira Cleiton Fabio da Roza Fausto Neves da Silva João Vitor Fagundes José Eduardo Pimentel Filho Nathália Cristina Ortiz da Silva Thiago Queiroz Costa Thiago Vinícius Moreira Guimarães 
+Adriano José Ortiz Ailton da Silva Ferreira Cleiton Fabio da Roza Fausto Neves da Silva João Vitor Fagundes José Eduardo Pimentel Filho Nathália Cristina Ortiz da Silva Thiago Queiroz Costa Thiago Vinícius Moreira Guimarães
 
 ||**SUMÁRIO**||||
 |---|---|---|---|---|
@@ -80,8 +77,6 @@ Adriano José Ortiz Ailton da Silva Ferreira Cleiton Fabio da Roza Fausto Neves 
 ||3.12. CURRICULARIZAÇÃO DA EXTENSÃO|||139|
 ||3.13. ATIVIDADES COMPLEMENTARES|||140|
 
-
-
 ||**4. CORPO DOCENTE E TÉCNICO ADMINISTRATIVO**|**4. CORPO DOCENTE E TÉCNICO ADMINISTRATIVO**|**4. CORPO DOCENTE E TÉCNICO ADMINISTRATIVO**|**142**|
 |---|---|---|---|---|
 ||4.1. CORPO DOCENTE|||142|
@@ -115,183 +110,145 @@ Adriano José Ortiz Ailton da Silva Ferreira Cleiton Fabio da Roza Fausto Neves 
 ||**8. ANEXOS**||**161**||
 ||**9. REFERÊNCIAS BIBLIOGRÁFICAS**|||**170**|
 
+## **1. IDENTIFICAÇÃO E LOCAL DE FUNCIONAMENTO DO CURSO**
 
+**Curso:** Licenciatura em Física **.**
 
-**==> picture [486 x 54] intentionally omitted <==**
+**Forma de Oferta:** Presencial.
 
-## **1. IDENTIFICAÇÃO E LOCAL DE FUNCIONAMENTO DO CURSO** 
+**Área do Conhecimento:** Ciências Exatas e da Terra.
 
-**Curso:** Licenciatura em Física **.** 
+**Quantidade de Vagas:** mínimo: 20 (vinte) vagas; máximo: 36 (trinta e seis) vagas.
 
-**Forma de Oferta:** Presencial. 
+**Turno de oferta** : Noturno*
 
-**Área do Conhecimento:** Ciências Exatas e da Terra. 
+**Horário de oferta do curso:** 19h00 às 22h30.
 
-**Quantidade de Vagas:** mínimo: 20 (vinte) vagas; máximo: 36 (trinta e seis) vagas. 
+**Carga Horária total do curso:** 3200h, sendo 400h de estágio supervisionado, 200h de atividades complementares e 320h de curricularização da extensão .
 
-**Turno de oferta** : Noturno* 
+**Escolaridade mínima exigida:** Ensino Médio completo
 
-**Horário de oferta do curso:** 19h00 às 22h30. 
+**Tipo de Matrícula:** por componente curricular.
 
-**Carga Horária total do curso:** 3200h, sendo 400h de estágio supervisionado, 200h de atividades complementares e 320h de curricularização da extensão . 
+**Regime Escolar:** Semestral.
 
-**Escolaridade mínima exigida:** Ensino Médio completo 
+**Prazo de Integralização Curricular:** mínimo: 4,5 (quatro e meio) anos.
 
-**Tipo de Matrícula:** por componente curricular. 
+**Coordenador do Curso:** Thiago Vinícius Moreira Guimarães
 
-**Regime Escolar:** Semestral. 
+## **Local de Funcionamento:**
 
-**Prazo de Integralização Curricular:** mínimo: 4,5 (quatro e meio) anos. 
+Campus Ivaiporã do IFPR
 
-**Coordenador do Curso:** Thiago Vinícius Moreira Guimarães 
+Rua Max Arthur Greipel, nº 505 – Parque Industrial – Caixa Postal 138 86870-000, Ivaiporã - PR
 
-## **Local de Funcionamento:** 
+**Site Eletrônico:** http://ivaipora.ifpr.edu.br **Correio Eletrônico:** secretaria.iv@ifpr.edu.br **Telefone:** (43) 3126-9400
 
-Campus Ivaiporã do IFPR 
+## **2. APRESENTAÇÃO DO PROJETO:**
 
-Rua Max Arthur Greipel, nº 505 – Parque Industrial – Caixa Postal 138 86870-000, Ivaiporã - PR 
+## **2.1. O INSTITUTO FEDERAL DO PARANÁ – CAMPUS IVAIPORÃ**
 
-**Site Eletrônico:** http://ivaipora.ifpr.edu.br **Correio Eletrônico:** secretaria.iv@ifpr.edu.br **Telefone:** (43) 3126-9400 
+O Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR), criado em 29 de dezembro de 2008 pela Lei 11.892, tem sua origem da Escola Técnica da Universidade Federal do Paraná (ET-UFPR), que por sua vez, tem origem da Escola Alemã, fundada em 1869 por Gottlieb Müeller e Augusto Gaetner e que pertencia à antiga Colônia Alemã de Curitiba. Depois de 1914, o estabelecimento passou a ser chamado de Colégio Progresso e posteriormente de Academia Comercial Progresso.
 
-5 
+No ano de 1941, a Academia Comercial Progresso foi adquirida pela Faculdade de Direito da UFPR, sendo assim  autorizada a funcionar com a denominação de Escola Técnica de Comércio. Em 22 de janeiro de 1974, o Conselho Universitário decidiu integrar a Escola Técnica de Comércio à Universidade, como órgão suplementar e, a partir de 1986, ela passou a ser denominada Escola Técnica de Comércio da Universidade Federal do Paraná.
 
-**==> picture [486 x 54] intentionally omitted <==**
+Já no final de 1990, mais precisamente em 14 de dezembro, foi aprovada a reorganização administrativa da Universidade, o Conselho Universitário alterou sua denominação para Escola Técnica da Universidade Federal do Paraná, vinculando-a à Pró-Reitoria de Graduação e, em novembro de 1997, por decisão deste mesmo Conselho, foi classificada como Unidade da UFPR.
 
-## **2. APRESENTAÇÃO DO PROJETO:** 
+Alguns anos depois, em sessão do Conselho Universitário (COUN) da UFPR, realizada em 19 de março de 2008, a Escola Técnica foi autorizada a aderir ao Plano de Desenvolvimento da Educação (PDE), elaborado pelo Ministério da Educação (MEC), cujo principal objetivo era a expansão da Educação Profissional e Tecnológica no Brasil. Sendo assim, após 68 anos, a ET-UFPR foi desvinculada da UFPR e se transformou em uma autarquia federal, o Instituto Federal de Educação, Ciência e Tecnologia do Paraná.
 
-## **2.1. O INSTITUTO FEDERAL DO PARANÁ – CAMPUS IVAIPORÃ** 
+O Instituto Federal do Paraná (IFPR) é uma instituição pública e gratuita de educação superior, básica e profissional, criada pela Lei nº 11.892, de 29 de dezembro de 2008, que instituiu a Rede Federal de Educação Profissional, Científica e Tecnológica, e criou os Institutos Federais de Educação, Ciência e Tecnologia. Possui natureza jurídica de autarquia, detentora de autonomia administrativa, patrimonial, financeira, didático-pedagógica e disciplinar. Possui estrutura multicampi com quatorze campus distribuídos ao longo do estado, com Reitoria instalada na capital, Curitiba. Oferece condições adequadas para a produção de conhecimento e para a qualificação da força de trabalho necessários ao estímulo do desenvolvimento socioeconômico do Brasil e do Paraná.
 
-O Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR), criado em 29 de dezembro de 2008 pela Lei 11.892, tem sua origem da Escola Técnica da Universidade Federal do Paraná (ET-UFPR), que por sua vez, tem origem da Escola Alemã, fundada em 1869 por Gottlieb Müeller e Augusto Gaetner e que pertencia à antiga Colônia Alemã de Curitiba. Depois de 1914, o estabelecimento passou a ser chamado de Colégio Progresso e posteriormente de Academia Comercial Progresso. 
+O Campus Ivaiporã iniciou suas atividades no primeiro semestre de 2010. A cidade de Ivaiporã esta pertence à região do Vale do Ivaí e é sede da microrregião (figura 1) composta por mais quatorzes municípios próximos: Arapuã, Ariranha do Ivaí, Cândido de Abreu, Godoy Moreira, Grandes Rios, Jardim Alegre, Lidianópolis, Lunardelli, Manoel Ribas, Nova Tebas, Rio Branco do Ivaí, Rosário do Ivaí São João do Ivaí e São Pedro do Ivaí. Juntos, esses municípios ocupam um território de 6.161,014 km[2] e, em uma população de aproximadamente de 140 mil habitantes, de acordo com IBGE 2010.  Uma região que tem sua base econômica  predominantemente agrícola, com uma produção de grãos de cerca de 750 toneladas, segundo dados do IPARDES 2012.
 
-No ano de 1941, a Academia Comercial Progresso foi adquirida pela Faculdade de Direito da UFPR, sendo assim  autorizada a funcionar com a denominação de Escola Técnica de Comércio. Em 22 de janeiro de 1974, o Conselho Universitário decidiu integrar a Escola Técnica de Comércio à Universidade, como órgão suplementar e, a partir de 1986, ela passou a ser denominada Escola Técnica de Comércio da Universidade Federal do Paraná. 
+Figura 1- Mapa do Paraná, com destaque em vermelho a microrregião de Ivaiporã.
 
-Já no final de 1990, mais precisamente em 14 de dezembro, foi aprovada a reorganização administrativa da Universidade, o Conselho Universitário alterou sua denominação para Escola Técnica da Universidade Federal do Paraná, vinculando-a à Pró-Reitoria de Graduação e, em novembro de 1997, por decisão deste mesmo Conselho, foi classificada como Unidade da UFPR. 
+O Parque Industrial e comercial do município abriga mais de 900 empresas em diversos segmentos como: metalúrgica, reciclagem, medicamentos genéricos, molduras, móveis, produtos de concreto, forros, assoalhos.
 
-Alguns anos depois, em sessão do Conselho Universitário (COUN) da UFPR, realizada em 19 de março de 2008, a Escola Técnica foi autorizada a aderir ao Plano de Desenvolvimento da Educação (PDE), elaborado pelo Ministério da Educação (MEC), cujo principal objetivo era a expansão da Educação Profissional e Tecnológica no Brasil. Sendo assim, após 68 anos, a ET-UFPR foi desvinculada da UFPR e se transformou em uma autarquia federal, o Instituto Federal de Educação, Ciência e Tecnologia do Paraná. 
+O Campus de Ivaiporã do IFPR iniciou suas atividades em março de 2010 com a oferta de dois cursos técnicos de nível médio na modalidade subsequente, a saber: Eletrotécnica e Agroecologia.
 
-O Instituto Federal do Paraná (IFPR) é uma instituição pública e gratuita de educação superior, básica e profissional, criada pela Lei nº 11.892, de 29 de dezembro de 2008, que instituiu a Rede Federal de Educação Profissional, Científica e Tecnológica, e criou os Institutos Federais de Educação, Ciência e Tecnologia. Possui natureza jurídica de autarquia, detentora de autonomia administrativa, patrimonial, financeira, didático-pedagógica e disciplinar. Possui estrutura multicampi com quatorze campus distribuídos ao longo do estado, com Reitoria instalada na capital, Curitiba. Oferece condições adequadas para a produção de conhecimento e para a qualificação da força de trabalho necessários ao estímulo do desenvolvimento socioeconômico do Brasil e do Paraná. 
+Hoje são ofertados três cursos técnicos integrados ao ensino médio (Agroecologia, Eletrotécnica e Informática), um curso técnico concomitante (Agroecologia) além de um curso técnico subsequente ao ensino médio (Eletrotécnica), um curso tecnólogo (Tecnologia em Agroecologia) além de cursos técnicos na modalidade à distância.
 
-O Campus Ivaiporã iniciou suas atividades no primeiro semestre de 2010. A cidade de Ivaiporã esta pertence à região do Vale do Ivaí e é sede da microrregião (figura 1) composta por mais quatorzes municípios próximos: Arapuã, Ariranha do Ivaí, Cândido de Abreu, Godoy Moreira, Grandes Rios, Jardim Alegre, Lidianópolis, Lunardelli, Manoel Ribas, Nova Tebas, Rio Branco do Ivaí, Rosário do Ivaí São João do Ivaí e São Pedro do Ivaí. Juntos, esses municípios ocupam um território de 6.161,014 km[2] e, em uma população de aproximadamente de 140 mil habitantes, de acordo com IBGE 2010.  Uma região que tem sua base econômica  predominantemente agrícola, com uma produção de grãos de cerca de 750 toneladas, segundo dados do IPARDES 2012. 
+Sendo assim, visando iniciar o processo de verticalização do ensino e com o intuito de oferecer um curso de graduação público e de qualidade, dentro das delimitações do campus, é apresentado aqui o Projeto Pedagógico do Curso de Licenciatura em Física do Campus de Ivaiporã do Instituto Federal do Paraná, com duração de quatro anos e que atende o estabelecido na Lei de Diretrizes e Bases da Educação Nacional (LDBEN) (Lei 9394/1996), nas Diretrizes Curriculares Nacionais para a Formação de Professores da Educação Básica em nível superior (Resolução CNE/CP 2/2015), que instituem a duração e a carga horária dos cursos de licenciatura e nas Diretrizes Curriculares Nacionais para os cursos de Física (Parecer CNE/CES 1304/2001 e Resolução CNE/CP 9/2002). Além disso, está em consonância com o Plano de Desenvolvimento Institucional do IFPR (PDI), com a Resolução 55/2011 do Conselho Superior e com a Lei 11.892/2008.
 
-6 
+Esta é uma proposta de curso de Física com enfoques industrial, computacional e ambiental, numa perspectiva integradora com os demais cursos do Campus de Ivaiporã, objetivando formar um docente com ampla visão das ciências básicas e com sólida formação em Física.
 
-**==> picture [486 x 54] intentionally omitted <==**
+## **2.2. MISSÃO, VISÃO E VALORES**
 
-**==> picture [306 x 218] intentionally omitted <==**
+O Instituto Federal do Paraná tem como missão, promover e valorizar a educação profissional e tecnológica, com base na indissociabilidade do ensino, pesquisa, extensão e
 
-Figura 1- Mapa do Paraná, com destaque em vermelho a microrregião de Ivaiporã. 
+inovação, contribuindo para a formação do cidadão e da sustentabilidade da sociedade paranaense e brasileira, com amparo nos princípios da ética e da responsabilidade social. Tem por objetivo ser um modelo de instituição de educação profissional e tecnológica caracterizada pelo compromisso social, ambiental e com a sustentabilidade, capaz de atuar com inovação e de forma transformadora, possuindo os seguintes valores:
 
-O Parque Industrial e comercial do município abriga mais de 900 empresas em diversos segmentos como: metalúrgica, reciclagem, medicamentos genéricos, molduras, móveis, produtos de concreto, forros, assoalhos. 
+● Compromisso com a construção do saber e reconhecimento dos saberes sociais; ● Promoção de educação de qualidade, inclusiva e integradora, formadora de profissionais competentes e comprometidos com a responsabilidade sócio-ambiental; ● Gestão participativa, dinâmica e transparente, comprometida com a qualidade de vida; ● Desenvolvimento de inovação tecnológica por meio de postura empreendedora; ● Comportamento ético orientado pelos princípios da dignidade humana, respeito às diferenças dos cidadãos e combate a todas as formas de discriminação; ● Respeito, preservação e disseminação da cultura e das tradições locais;
 
-O Campus de Ivaiporã do IFPR iniciou suas atividades em março de 2010 com a oferta de dois cursos técnicos de nível médio na modalidade subsequente, a saber: Eletrotécnica e Agroecologia. 
+● Qualidade e excelência para promover a melhoria contínua dos serviços oferecidos, para a satisfação da sociedade.
 
-Hoje são ofertados três cursos técnicos integrados ao ensino médio (Agroecologia, Eletrotécnica e Informática), um curso técnico concomitante (Agroecologia) além de um curso técnico subsequente ao ensino médio (Eletrotécnica), um curso tecnólogo (Tecnologia em Agroecologia) além de cursos técnicos na modalidade à distância. 
+De acordo com a lei de criação (Lei nº 11.892/08) e com seu Estatuto, o IFPR tem as
 
-Sendo assim, visando iniciar o processo de verticalização do ensino e com o intuito de oferecer um curso de graduação público e de qualidade, dentro das delimitações do campus, é apresentado aqui o Projeto Pedagógico do Curso de Licenciatura em Física do Campus de Ivaiporã do Instituto Federal do Paraná, com duração de quatro anos e que atende o estabelecido na Lei de Diretrizes e Bases da Educação Nacional (LDBEN) (Lei 9394/1996), nas Diretrizes Curriculares Nacionais para a Formação de Professores da Educação Básica em nível superior (Resolução CNE/CP 2/2015), que instituem a duração e a carga horária dos cursos de licenciatura e nas Diretrizes Curriculares Nacionais para os cursos de Física (Parecer CNE/CES 1304/2001 e Resolução CNE/CP 9/2002). Além disso, está em consonância com o Plano de Desenvolvimento Institucional do IFPR (PDI), com a Resolução 55/2011 do Conselho Superior e com a Lei 11.892/2008. 
+seguintes finalidades e características:
 
-Esta é uma proposta de curso de Física com enfoques industrial, computacional e ambiental, numa perspectiva integradora com os demais cursos do Campus de Ivaiporã, objetivando formar um docente com ampla visão das ciências básicas e com sólida formação em Física. 
+● Ofertar educação profissional e tecnológica, em todos os seus níveis e modalidades, formando e qualificando cidadãos com vistas à atuação profissional nos diversos setores da economia, com ênfase no desenvolvimento socioeconômico local, regional e nacional; ● Desenvolver a educação profissional e tecnológica como processo educativo e investigativo de geração e adaptação de soluções técnicas e tecnológicas às demandas sociais e peculiaridades regionais; ● Promover a integração e a verticalização da educação básica à educação profissional e educação superior, otimizando a infraestrutura física, os quadros de pessoal e os recursos de gestão;
 
-## **2.2. MISSÃO, VISÃO E VALORES** 
+● Orientar sua oferta formativa em benefício da consolidação e fortalecimento dos arranjos produtivos, sociais e culturais locais, identificados com base no mapeamento das potencialidades de desenvolvimento socioeconômico e cultural no âmbito de atuação do Instituto Federal;
 
-O Instituto Federal do Paraná tem como missão, promover e valorizar a educação profissional e tecnológica, com base na indissociabilidade do ensino, pesquisa, extensão e 
+● Constituir-se em centro de excelência na oferta do ensino de ciências, em geral, e de ciências aplicadas, em particular, estimulando o desenvolvimento de espírito crítico, voltado à investigação empírica;
 
-7 
+● Qualificar-se como centro de referência no apoio à oferta do ensino de ciências nas instituições públicas de ensino, oferecendo capacitação técnica e atualização pedagógica aos docentes das redes públicas de ensino; ● Desenvolver programas de extensão e de divulgação científica e tecnológica;
 
-**==> picture [486 x 54] intentionally omitted <==**
+● Realizar e estimular a pesquisa aplicada, a produção cultural, o empreendedorismo, o cooperativismo e o desenvolvimento científico e tecnológico;
 
-inovação, contribuindo para a formação do cidadão e da sustentabilidade da sociedade paranaense e brasileira, com amparo nos princípios da ética e da responsabilidade social. Tem por objetivo ser um modelo de instituição de educação profissional e tecnológica caracterizada pelo compromisso social, ambiental e com a sustentabilidade, capaz de atuar com inovação e de forma transformadora, possuindo os seguintes valores: 
+● Promover a produção, o desenvolvimento e a transferência de tecnologias sociais, notadamente as voltadas à preservação do meio ambiente.
 
-● Compromisso com a construção do saber e reconhecimento dos saberes sociais; ● Promoção de educação de qualidade, inclusiva e integradora, formadora de profissionais competentes e comprometidos com a responsabilidade sócio-ambiental; ● Gestão participativa, dinâmica e transparente, comprometida com a qualidade de vida; ● Desenvolvimento de inovação tecnológica por meio de postura empreendedora; ● Comportamento ético orientado pelos princípios da dignidade humana, respeito às diferenças dos cidadãos e combate a todas as formas de discriminação; ● Respeito, preservação e disseminação da cultura e das tradições locais; 
+Além disso, são objetivos do Instituto Federal do Paraná:
 
-● Qualidade e excelência para promover a melhoria contínua dos serviços oferecidos, para a satisfação da sociedade. 
+● Ministrar educação profissional técnica de nível médio, prioritariamente na forma de cursos integrados, para os concluintes do ensino fundamental e para o público da educação de jovens e adultos;
 
-De acordo com a lei de criação (Lei nº 11.892/08) e com seu Estatuto, o IFPR tem as 
+● Ministrar cursos de formação inicial e continuada de trabalhadores, objetivando a capacitação, o aperfeiçoamento, a especialização e a atualização de profissionais, em
 
-seguintes finalidades e características: 
+todos os níveis de escolaridade, nas áreas da educação profissional e tecnológica; ● Realizar pesquisas aplicadas, estimulando o desenvolvimento de soluções técnicas e tecnológicas, estendendo seus benefícios à comunidade;
 
-● Ofertar educação profissional e tecnológica, em todos os seus níveis e modalidades, formando e qualificando cidadãos com vistas à atuação profissional nos diversos setores da economia, com ênfase no desenvolvimento socioeconômico local, regional e nacional; ● Desenvolver a educação profissional e tecnológica como processo educativo e investigativo de geração e adaptação de soluções técnicas e tecnológicas às demandas sociais e peculiaridades regionais; ● Promover a integração e a verticalização da educação básica à educação profissional e educação superior, otimizando a infraestrutura física, os quadros de pessoal e os recursos de gestão; 
+● Desenvolver atividades de extensão de acordo com os princípios e finalidades da educação profissional e tecnológica, em articulação com o mundo do trabalho e os segmentos sociais, e com ênfase na produção, desenvolvimento e difusão de conhecimentos científicos e tecnológicos; ● Estimular e apoiar processos educativos que levem à geração de trabalho e renda e à emancipação do cidadão na perspectiva do desenvolvimento socioeconômico local e regional;
 
-● Orientar sua oferta formativa em benefício da consolidação e fortalecimento dos arranjos produtivos, sociais e culturais locais, identificados com base no mapeamento das potencialidades de desenvolvimento socioeconômico e cultural no âmbito de atuação do Instituto Federal; 
+● Ministrar cursos em nível de educação superior:
 
-● Constituir-se em centro de excelência na oferta do ensino de ciências, em geral, e de ciências aplicadas, em particular, estimulando o desenvolvimento de espírito crítico, voltado à investigação empírica; 
+✔ cursos superiores de tecnologia visando à formação de profissionais para os diferentes setores da economia;
 
-● Qualificar-se como centro de referência no apoio à oferta do ensino de ciências nas instituições públicas de ensino, oferecendo capacitação técnica e atualização pedagógica aos docentes das redes públicas de ensino; ● Desenvolver programas de extensão e de divulgação científica e tecnológica; 
+✔ o cursos de licenciatura, bem como programas especiais de formação pedagógica, com vistas na formação de professores para a educação básica, sobretudo nas áreas de ciências e matemática, e para a educação profissional; ✔ o cursos de bacharelado e engenharia, visando à formação de profissionais para os diferentes setores da economia e áreas do conhecimento; ✔ o cursos de pós-graduação lato sensu de aperfeiçoamento e especialização, visando à formação de especialistas nas diferentes áreas do conhecimento; ✔ o cursos de pós-graduação stricto sensu de mestrado e doutorado, que contribuam para promover o estabelecimento de bases sólidas em educação, ciência e tecnologia, com vistas no processo de geração e inovação tecnológica.
 
-● Realizar e estimular a pesquisa aplicada, a produção cultural, o empreendedorismo, o cooperativismo e o desenvolvimento científico e tecnológico; 
+Nesse escopo, o Instituto Federal do Paraná, visando a Educação Profissional e Tecnológica, numa perspectiva de política pública, deve estar comprometido com o contexto social de forma integral, instituindo a igualdade na diversidade (social, econômica, cultural) e, ainda, estar articulado a outras políticas – como, por exemplo, de trabalho, de renda, de desenvolvimento setorial, ambiental – de modo a promover impactos nesse universo, contribuindo para uma sociedade menos desigual, mais autônoma e solidária. Neste projeto estão as reflexões sobre a implantação e o desenvolvimento do curso de Licenciatura em Física. Inicialmente é apresentada de que maneira se dá a formação do futuro licenciado e, de que forma este se insere na realidade nacional no seu campo de atuação profissional, bem como o perfil do profissional a ser formado. Em seguida, o projeto aborda o campo de atuação profissional face à legislação vigente. Na continuidade há o tratamento metodológico, as formas de avaliação do processo de ensino-aprendizagem face à matriz curricular do curso e, para finalizar, os recursos humanos e infraestruturais disponíveis e necessários à sua consecução.
 
-● Promover a produção, o desenvolvimento e a transferência de tecnologias sociais, notadamente as voltadas à preservação do meio ambiente. 
+## **3. Organização Didático-Pedagógica**
 
-Além disso, são objetivos do Instituto Federal do Paraná: 
+## **3.1. Concepção do Curso**
 
-● Ministrar educação profissional técnica de nível médio, prioritariamente na forma de cursos integrados, para os concluintes do ensino fundamental e para o público da educação de jovens e adultos; 
+Ensinar Física para estudantes de qualquer nível de ensino pode ser uma experiência recompensadora. Os professores de Física possuem o desafio de proporcionar um ambiente de aprendizagem adequado à pesquisa e a construção do conhecimento científico, buscando não apenas compreender fenômenos do universo físico, mas também pensar a Ciência como uma construção humana em constante transformação e
 
-● Ministrar cursos de formação inicial e continuada de trabalhadores, objetivando a capacitação, o aperfeiçoamento, a especialização e a atualização de profissionais, em 
+desenvolvimento. A Física é uma ciência fundamental feita por ideias em evolução e possui amplas aplicações tecnológicas presentes na sociedade.
 
-8 
+Para se tornar um professor de Física é necessário muito mais que um forte interesse pela ciência em geral e suas implicações na sociedade. Ao lecionar Física, na perspectiva de um paradigma emergente da didática, cabe a esse docente atuar como articulador, crítico e mediador do processo pedagógico, instigando o aluno a aprender a aprender, o tornando corresponsável pela sua aprendizagem em um processo de real investigação da _physis_ .
 
-**==> picture [486 x 54] intentionally omitted <==**
+O ensino de Física nas escolas é importante para a formação de cidadãos críticos, capazes de entender e participar como protagonistas das atuais mudanças que afetam a sociedade, porém, um protagonista que se mantém atento aos outros agentes desse processo.
 
-todos os níveis de escolaridade, nas áreas da educação profissional e tecnológica; ● Realizar pesquisas aplicadas, estimulando o desenvolvimento de soluções técnicas e tecnológicas, estendendo seus benefícios à comunidade; 
+Apesar das importantes implicações da Física na sociedade, parte dos estudantes de Ensino Fundamental e Médio tem uma atitude de rejeição à disciplina. Tal situação é abordada nas mais variadas pesquisas da área, que indicam a necessidade de repensar a formação de professores de Física, em uma perspectiva crítica e reflexiva, cujo papel não seja apenas o de expor de forma linear conteúdos a serem utilizados em um vestibular.
 
-● Desenvolver atividades de extensão de acordo com os princípios e finalidades da educação profissional e tecnológica, em articulação com o mundo do trabalho e os segmentos sociais, e com ênfase na produção, desenvolvimento e difusão de conhecimentos científicos e tecnológicos; ● Estimular e apoiar processos educativos que levem à geração de trabalho e renda e à emancipação do cidadão na perspectiva do desenvolvimento socioeconômico local e regional; 
+Nesse sentido, o profissional da educação também deve ser visto como um pesquisador, tendo como objeto de pesquisa sua própria prática docente. Assim, pode contribuir para a sua área compartilhando suas experiências e produzindo novos resultados a partir da integração ensino-pesquisa-extensão e inovação. O professor-pesquisador possui a opção de se manter em formação contínua ingressando em programas de pós-graduação _latto e strictu sensi_ na área de ensino. Esses programas visam a continuidade da qualificação profissional de professores do país, seja na ação docente na sala de aula ou no sistema escolar.
 
-● Ministrar cursos em nível de educação superior: 
+Nesse sentido, o objetivo principal do curso de Licenciatura em Física do Campus de Ivaiporã do IFPR é formar educadores crítico-reflexivos, capazes de ensinar Física em uma perspectiva humanista e investigativa. Assim a partir da história da Ciência, das novas tecnologias, da pesquisa e da inclusão, buscar-se-á inserir os estudantes em um ambiente de aprendizagem crítico e colaborativo, em que além de inserir-se no conhecimento já desenvolvido pela humanidade, seja capaz de aplicá-lo e inovar de forma contextualizada a partir dele.
 
-✔ cursos superiores de tecnologia visando à formação de profissionais para os diferentes setores da economia; 
+## **3.2. Justificativa**
 
-✔ o cursos de licenciatura, bem como programas especiais de formação pedagógica, com vistas na formação de professores para a educação básica, sobretudo nas áreas de ciências e matemática, e para a educação profissional; ✔ o cursos de bacharelado e engenharia, visando à formação de profissionais para os diferentes setores da economia e áreas do conhecimento; ✔ o cursos de pós-graduação lato sensu de aperfeiçoamento e especialização, visando à formação de especialistas nas diferentes áreas do conhecimento; ✔ o cursos de pós-graduação stricto sensu de mestrado e doutorado, que contribuam para promover o estabelecimento de bases sólidas em educação, ciência e tecnologia, com vistas no processo de geração e inovação tecnológica. 
+O Campus Ivaiporã do Instituto Federal do Paraná, de acordo com a Lei nº 11.892/2008, que regulamenta as modalidades de ensino ofertadas pelas Instituições Federais de Ensino, Ciência e Tecnologia, tem como finalidade garantir no mínimo 20% (vinte por cento) de suas vagas para atender os cursos de licenciatura, sobretudo em Ciências Exatas (Química, Física e Biologia) e Matemática e que atendam à demanda local.
 
-Nesse escopo, o Instituto Federal do Paraná, visando a Educação Profissional e Tecnológica, numa perspectiva de política pública, deve estar comprometido com o contexto social de forma integral, instituindo a igualdade na diversidade (social, econômica, cultural) e, ainda, estar articulado a outras políticas – como, por exemplo, de trabalho, de renda, de desenvolvimento setorial, ambiental – de modo a promover impactos nesse universo, contribuindo para uma sociedade menos desigual, mais autônoma e solidária. Neste projeto estão as reflexões sobre a implantação e o desenvolvimento do curso de Licenciatura em Física. Inicialmente é apresentada de que maneira se dá a formação do futuro licenciado e, de que forma este se insere na realidade nacional no seu campo de atuação profissional, bem como o perfil do profissional a ser formado. Em seguida, o projeto aborda o campo de atuação profissional face à legislação vigente. Na continuidade há o tratamento metodológico, as formas de avaliação do processo de ensino-aprendizagem face à matriz curricular do curso e, para finalizar, os recursos humanos e infraestruturais disponíveis e necessários à sua consecução. 
+Nesse sentido, atendendo aos pressupostos da legislação pertinente e alicerçada pela Lei 9394/96 que estabelece as diretrizes e bases da educação nacional, bem como o proposto pelo Parecer CNE/CP 09/2001, homologado pela Resolução CNE/CP 1/2002, que trata das Diretrizes Curriculares para a Formação de Professores da Educação Básica, em nível superior, curso de licenciatura, de graduação plena; a Resolução CNE/CP 2/2015, que trata das cargas horárias dos cursos de Licenciatura e, aprovados respectivamente pelas Resoluções CNE/CES 9/2002, que institui as Diretrizes Nacionais Curriculares para os Cursos de Física, a presente proposta de abertura do Curso de Licenciatura em Física,
 
-## **3. Organização Didático-Pedagógica** 
+tem a intenção de contribuir com a formação de profissionais licenciados nesta área, para suprir a carência de professores dessa disciplina, atendendo a demanda regional, estadual e nacional.
 
-## **3.1. Concepção do Curso** 
+Informações levantadas junto ao Ministério da Educação apontam para baixa proporção (17,7%) de professores com formação específica em física na rede pública brasileira (FOREQUE  et al., 2013). No Estado do Paraná há apenas 1246 professores do QPM, o que representa 1,9% da força de trabalho disponível no sistema estadual de educação. Em comparação com os 32 NREs do Paraná, o NRE de Ivaiporã é o 24º em número de professores de Física (figura 02).
 
-Ensinar Física para estudantes de qualquer nível de ensino pode ser uma experiência recompensadora. Os professores de Física possuem o desafio de proporcionar um ambiente de aprendizagem adequado à pesquisa e a construção do conhecimento científico, buscando não apenas compreender fenômenos do universo físico, mas também pensar a Ciência como uma construção humana em constante transformação e 
+Figura 02 – Localização do Núcleo Regional de Educação de Ivaiporã.
 
-9 
+Dos 14 municípios que compõem o Núcleo Regional de Educação de Ivaiporã (figura 03), apenas 08 (57%) deles possui algum professor do Quadro Próprio do Magistério do sistema estadual para a disciplina de Física em suas escolas. No entanto, são apenas 18 professores, para 46 turmas de Ensino Médio Integrado e 204 turmas de Ensino Médio Regular, totalizando 5610 alunos. Há ainda demanda do profissional para a educação de jovens e adultos no Ensino Médio com 29 turmas. Os professores de Física do QPM representam apenas 1,3% da força de trabalho disponível no NRE de Ivaiporã (tabela 01).
 
-**==> picture [486 x 54] intentionally omitted <==**
-
-desenvolvimento. A Física é uma ciência fundamental feita por ideias em evolução e possui amplas aplicações tecnológicas presentes na sociedade. 
-
-Para se tornar um professor de Física é necessário muito mais que um forte interesse pela ciência em geral e suas implicações na sociedade. Ao lecionar Física, na perspectiva de um paradigma emergente da didática, cabe a esse docente atuar como articulador, crítico e mediador do processo pedagógico, instigando o aluno a aprender a aprender, o tornando corresponsável pela sua aprendizagem em um processo de real investigação da _physis_ . 
-
-O ensino de Física nas escolas é importante para a formação de cidadãos críticos, capazes de entender e participar como protagonistas das atuais mudanças que afetam a sociedade, porém, um protagonista que se mantém atento aos outros agentes desse processo. 
-
-Apesar das importantes implicações da Física na sociedade, parte dos estudantes de Ensino Fundamental e Médio tem uma atitude de rejeição à disciplina. Tal situação é abordada nas mais variadas pesquisas da área, que indicam a necessidade de repensar a formação de professores de Física, em uma perspectiva crítica e reflexiva, cujo papel não seja apenas o de expor de forma linear conteúdos a serem utilizados em um vestibular. 
-
-Nesse sentido, o profissional da educação também deve ser visto como um pesquisador, tendo como objeto de pesquisa sua própria prática docente. Assim, pode contribuir para a sua área compartilhando suas experiências e produzindo novos resultados a partir da integração ensino-pesquisa-extensão e inovação. O professor-pesquisador possui a opção de se manter em formação contínua ingressando em programas de pós-graduação _latto e strictu sensi_ na área de ensino. Esses programas visam a continuidade da qualificação profissional de professores do país, seja na ação docente na sala de aula ou no sistema escolar. 
-
-Nesse sentido, o objetivo principal do curso de Licenciatura em Física do Campus de Ivaiporã do IFPR é formar educadores crítico-reflexivos, capazes de ensinar Física em uma perspectiva humanista e investigativa. Assim a partir da história da Ciência, das novas tecnologias, da pesquisa e da inclusão, buscar-se-á inserir os estudantes em um ambiente de aprendizagem crítico e colaborativo, em que além de inserir-se no conhecimento já desenvolvido pela humanidade, seja capaz de aplicá-lo e inovar de forma contextualizada a partir dele. 
-
-## **3.2. Justificativa** 
-
-O Campus Ivaiporã do Instituto Federal do Paraná, de acordo com a Lei nº 11.892/2008, que regulamenta as modalidades de ensino ofertadas pelas Instituições Federais de Ensino, Ciência e Tecnologia, tem como finalidade garantir no mínimo 20% (vinte por cento) de suas vagas para atender os cursos de licenciatura, sobretudo em Ciências Exatas (Química, Física e Biologia) e Matemática e que atendam à demanda local. 
-
-Nesse sentido, atendendo aos pressupostos da legislação pertinente e alicerçada pela Lei 9394/96 que estabelece as diretrizes e bases da educação nacional, bem como o proposto pelo Parecer CNE/CP 09/2001, homologado pela Resolução CNE/CP 1/2002, que trata das Diretrizes Curriculares para a Formação de Professores da Educação Básica, em nível superior, curso de licenciatura, de graduação plena; a Resolução CNE/CP 2/2015, que trata das cargas horárias dos cursos de Licenciatura e, aprovados respectivamente pelas Resoluções CNE/CES 9/2002, que institui as Diretrizes Nacionais Curriculares para os Cursos de Física, a presente proposta de abertura do Curso de Licenciatura em Física, 
-
-10 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-tem a intenção de contribuir com a formação de profissionais licenciados nesta área, para suprir a carência de professores dessa disciplina, atendendo a demanda regional, estadual e nacional. 
-
-Informações levantadas junto ao Ministério da Educação apontam para baixa proporção (17,7%) de professores com formação específica em física na rede pública brasileira (FOREQUE  et al., 2013). No Estado do Paraná há apenas 1246 professores do QPM, o que representa 1,9% da força de trabalho disponível no sistema estadual de educação. Em comparação com os 32 NREs do Paraná, o NRE de Ivaiporã é o 24º em número de professores de Física (figura 02). 
-
-**==> picture [426 x 313] intentionally omitted <==**
-
-Figura 02 – Localização do Núcleo Regional de Educação de Ivaiporã. 
-
-Dos 14 municípios que compõem o Núcleo Regional de Educação de Ivaiporã (figura 03), apenas 08 (57%) deles possui algum professor do Quadro Próprio do Magistério do sistema estadual para a disciplina de Física em suas escolas. No entanto, são apenas 18 professores, para 46 turmas de Ensino Médio Integrado e 204 turmas de Ensino Médio Regular, totalizando 5610 alunos. Há ainda demanda do profissional para a educação de jovens e adultos no Ensino Médio com 29 turmas. Os professores de Física do QPM representam apenas 1,3% da força de trabalho disponível no NRE de Ivaiporã (tabela 01). 
-
-11 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-**==> picture [426 x 315] intentionally omitted <==**
-
-Figura 03 – Abrangência do Núcleo Regional de Educação de Ivaiporã. 
+Figura 03 – Abrangência do Núcleo Regional de Educação de Ivaiporã.
 
 ||Mês de Referência:<br>Março / 2014|
 |---|---|
@@ -319,12 +276,6 @@ Figura 03 – Abrangência do Núcleo Regional de Educação de Ivaiporã.
 |**1601 - DIDATICA E**<br>**PRATICA DE ENSINO**<br>2|2|
 |**1701 - FUND DA**<br>**EDUCACAO**<br>3|3|
 
-
-
-12 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
 ||**1801- CONTABILIDADE**|2||2||||
 |---|---|---|---|---|---|---|---|
 ||**2001 - DOCÊNCIA 1 A 4**|2||2||||
@@ -347,774 +298,640 @@ Figura 03 – Abrangência do Núcleo Regional de Educação de Ivaiporã.
 ||Tabela 01 - Totais de Professores/Especialistas do NRE IVAIPORA QPM/Disciplina de|||||||
 ||||Concurso|||||
 
+A oferta do curso de Licenciatura em Física pelo IFPR - Campus Ivaiporã coaduna-se com os objetivos da Política Industrial, Tecnológica e de Comércio Exterior (PITCE), concebida pelo governo federal, a qual objetiva aumentar a eficiência econômica, promover e difundir a inovação tecnológica e elevar a competitividade da indústria brasileira. A PITCE articula ações em três eixos: linhas de ação horizontais (inovação e desenvolvimento tecnológico, inserção externa, modernização industrial, melhoria do ambiente institucional, ampliação da capacidade e escala produtiva), opções estratégicas (semicondutores, softwares, bens de capital, fármacos e medicamentos) e; por fim, atividades portadoras de futuro (biotecnologia, nanotecnologia, biomassa e energias renováveis) (LABIAK JR, 2011). A presença de profissionais de nível superior nas empresas favorece a internalização de práticas de pesquisa e desenvolvimento, conformando departamentos especializados no desenvolvimento de novos produtos e serviços, geração de novas tecnologias, implementação de melhorias e ajustes processuais e de melhorias de gestão. Mas para que se tenham bons profissionais (tecnólogos, engenheiros, bacharéis) disponíveis ao mercado, pressupõe-se que os ingressantes tenham uma base sólida de conhecimentos formais obtidos na Educação Básica. Formar professores bem preparados e que, dominem os conhecimentos específicos de cada disciplina, que desenvolvam as habilidades inerentes a cada área do conhecimento é fator fundamental para o desenvolvimento da ciência, da tecnologia  e da inovação no país. E este é o papel da Licenciatura ora proposta: propiciar à nação professores capacitados e com aptidão para a pesquisa voltada ao ensino de Física, à incorporação de novas tecnologias ao processo de ensino-aprendizagem.
 
+O IFPR - Campus Ivaiporã visa suprir a demanda por um profissional polivalente, cuja oferta de cursos de graduação encontra-se concentrada - dos 305 cursos presenciais e em atividade na modalidade Licenciatura em Física, no ano de 2014, apenas 14 localizam-se no Estado do Paraná, ofertados por 11 IES (8 públicas e 3 privadas), concentrados em apenas 11 municípios (Curitiba com 4 cursos, Foz do Iguaçu, Goioerê, Guarapuava, Londrina, Maringá, Paranaguá, Pitanga, Ponta Grossa, Realeza e Telêmaco Borba). Os cursos públicos são ofertados pela UEL em Londrina, UEM em Maringá e Goioerê, UEPG
 
-A oferta do curso de Licenciatura em Física pelo IFPR - Campus Ivaiporã coaduna-se com os objetivos da Política Industrial, Tecnológica e de Comércio Exterior (PITCE), concebida pelo governo federal, a qual objetiva aumentar a eficiência econômica, promover e difundir a inovação tecnológica e elevar a competitividade da indústria brasileira. A PITCE articula ações em três eixos: linhas de ação horizontais (inovação e desenvolvimento tecnológico, inserção externa, modernização industrial, melhoria do ambiente institucional, ampliação da capacidade e escala produtiva), opções estratégicas (semicondutores, softwares, bens de capital, fármacos e medicamentos) e; por fim, atividades portadoras de futuro (biotecnologia, nanotecnologia, biomassa e energias renováveis) (LABIAK JR, 2011). A presença de profissionais de nível superior nas empresas favorece a internalização de práticas de pesquisa e desenvolvimento, conformando departamentos especializados no desenvolvimento de novos produtos e serviços, geração de novas tecnologias, implementação de melhorias e ajustes processuais e de melhorias de gestão. Mas para que se tenham bons profissionais (tecnólogos, engenheiros, bacharéis) disponíveis ao mercado, pressupõe-se que os ingressantes tenham uma base sólida de conhecimentos formais obtidos na Educação Básica. Formar professores bem preparados e que, dominem os conhecimentos específicos de cada disciplina, que desenvolvam as habilidades inerentes a cada área do conhecimento é fator fundamental para o desenvolvimento da ciência, da tecnologia  e da inovação no país. E este é o papel da Licenciatura ora proposta: propiciar à nação professores capacitados e com aptidão para a pesquisa voltada ao ensino de Física, à incorporação de novas tecnologias ao processo de ensino-aprendizagem. 
+em Ponta Grossa, UFPR e UTFPR em Curitiba, UFFS em Realeza, UNICENTRO em Guarapuava  e pelo IFPR em Foz do Iguaçu,  Paranaguá e Telêmaco Borba (BRASIL, 2014). Há ainda a oferta do curso de Licenciatura em Ciências Exatas pela UFPR em Jandaia do Sul. O curso do campus Ivaiporã ora pretendido será o quarto curso ofertado pelo IFPR e será o segundo disponível no Vale do Ivaí e o primeiro na área de abrangência do NRE Ivaiporã. Será ainda, o segundo curso federal na Mesorregião Norte Central Paranaense (na qual se inserem os municípios de Apucarana e Londrina). Assim, considerando o curso ora proposto, o IFPR será responsável pela oferta de 27% dos cursos no Estado do Paraná e será a maior Escola de Licenciatura em Física do Estado!
 
-O IFPR - Campus Ivaiporã visa suprir a demanda por um profissional polivalente, cuja oferta de cursos de graduação encontra-se concentrada - dos 305 cursos presenciais e em atividade na modalidade Licenciatura em Física, no ano de 2014, apenas 14 localizam-se no Estado do Paraná, ofertados por 11 IES (8 públicas e 3 privadas), concentrados em apenas 11 municípios (Curitiba com 4 cursos, Foz do Iguaçu, Goioerê, Guarapuava, Londrina, Maringá, Paranaguá, Pitanga, Ponta Grossa, Realeza e Telêmaco Borba). Os cursos públicos são ofertados pela UEL em Londrina, UEM em Maringá e Goioerê, UEPG 
+Considerando a modalidade de acesso ao IFPR por meio do Sistema de Seleção Unificada (SISU-MEC), Exame Nacional do Ensino Médio (ENEM), Processo Seletivo Próprio e por outras modalidades, o curso ora pretendido atenderá uma demanda nacional, e, particularmente regional, na medida em que possibilita o ingresso de estudantes oriundos do Paraná, Santa Catarina (onde atualmente são ofertados 10 cursos, em 7 IES, em 10 municípios, sendo 6 públicos), Mato Grosso do Sul e São Paulo e das regiões Norte e Nordeste, onde há reduzida oferta de vagas públicas (BRASIL, 2014).
 
-13 
+A Licenciatura em Física pelo IFPR em Ivaiporã será o quinto curso de Licenciatura, na modalidade presencial, ofertado no município, somando-se aos cursos de História e Educação Física, ofertados pela UEM e, aos cursos de Matemática e Letras – Português/Inglês, ofertados pela UNIVALE. Contribuirá socialmente, no sentido de fixar esses profissionais na própria região de formação, capacitando os jovens próximos de suas famílias, além de reforçar a centralidade do município na educação superior (figura 04).  A expansão do IFPR, com seu primeiro curso de graduação, favorecerá o desenvolvimento do mercado imobiliário e do setor de serviços, devido ao ingresso de alunos de outras regiões, ou, em função da ampliação do quadro de servidores, com salários superiores à média salarial regional.
 
-**==> picture [486 x 54] intentionally omitted <==**
+Figura 04 – Paraná -  Deslocamento para cursos superiores em 2007
 
-em Ponta Grossa, UFPR e UTFPR em Curitiba, UFFS em Realeza, UNICENTRO em Guarapuava  e pelo IFPR em Foz do Iguaçu,  Paranaguá e Telêmaco Borba (BRASIL, 2014). Há ainda a oferta do curso de Licenciatura em Ciências Exatas pela UFPR em Jandaia do Sul. O curso do campus Ivaiporã ora pretendido será o quarto curso ofertado pelo IFPR e será o segundo disponível no Vale do Ivaí e o primeiro na área de abrangência do NRE Ivaiporã. Será ainda, o segundo curso federal na Mesorregião Norte Central Paranaense (na qual se inserem os municípios de Apucarana e Londrina). Assim, considerando o curso ora proposto, o IFPR será responsável pela oferta de 27% dos cursos no Estado do Paraná e será a maior Escola de Licenciatura em Física do Estado! 
+O Curso de Licenciatura em Física representa a criação de uma nova área de concentração para o Campus Ivaiporã, com perspectivas de desdobramentos em cursos de pós-graduação e pesquisa e desenvolvimento de novas tecnologias. A oferta do curso possibilitará a integração com as demais áreas nas quais o Campus encontra-se especializado – eletrotécnica, informática e agroecologia  – bem como, possibilitará mobilidade acadêmica Inter campus, pela existência do curso nos Campus de Foz do Iguaçu, Paranaguá, e Telêmaco Borba e pela existência de outros cursos superiores de licenciatura, tecnologia e engenharias nos diversos Campus em áreas afins. Permitirá ainda a ampliação da ação extensionista da instituição pela oferta de cursos de capacitação profissional e de educação continuada num contexto de demanda crescente por profissionais de educação. Por fim, a implantação do referido curso justifica-se, pela perspectiva de elevação dos índices de desenvolvimento humano do Território do Vale do Ivaí, sobretudo ligados à escolarização formal.
 
-Considerando a modalidade de acesso ao IFPR por meio do Sistema de Seleção Unificada (SISU-MEC), Exame Nacional do Ensino Médio (ENEM), Processo Seletivo Próprio e por outras modalidades, o curso ora pretendido atenderá uma demanda nacional, e, particularmente regional, na medida em que possibilita o ingresso de estudantes oriundos do Paraná, Santa Catarina (onde atualmente são ofertados 10 cursos, em 7 IES, em 10 municípios, sendo 6 públicos), Mato Grosso do Sul e São Paulo e das regiões Norte e Nordeste, onde há reduzida oferta de vagas públicas (BRASIL, 2014). 
+## **3.3. Objetivos**
 
-A Licenciatura em Física pelo IFPR em Ivaiporã será o quinto curso de Licenciatura, na modalidade presencial, ofertado no município, somando-se aos cursos de História e Educação Física, ofertados pela UEM e, aos cursos de Matemática e Letras – Português/Inglês, ofertados pela UNIVALE. Contribuirá socialmente, no sentido de fixar esses profissionais na própria região de formação, capacitando os jovens próximos de suas famílias, além de reforçar a centralidade do município na educação superior (figura 04).  A expansão do IFPR, com seu primeiro curso de graduação, favorecerá o desenvolvimento do mercado imobiliário e do setor de serviços, devido ao ingresso de alunos de outras regiões, ou, em função da ampliação do quadro de servidores, com salários superiores à média salarial regional. 
+O objetivo geral do curso de Licenciatura em Física é formar profissionais docentes, crítico-reflexivos, capacitados para atuarem no ensino de Física em todas as modalidades, capazes de trabalhar de forma interdisciplinar.
 
-14 
+Objetivos específicos do curso:
 
-**==> picture [486 x 54] intentionally omitted <==**
+Desenvolver, de forma pedagogicamente consistente, o ensino e aprendizagem da física clássica e contemporânea;
 
-**==> picture [417 x 330] intentionally omitted <==**
+Preparar profissionais capazes de dominar novas tecnologias e utilizá-las na sua prática pedagógica;
 
-Figura 04 – Paraná -  Deslocamento para cursos superiores em 2007 
+Propiciar uma formação científica, ética e humana abrangente, necessária para a atuação nas diversas vertentes da educação científica contemporânea, bem como em outras áreas que requeiram tal formação básica;
 
-O Curso de Licenciatura em Física representa a criação de uma nova área de concentração para o Campus Ivaiporã, com perspectivas de desdobramentos em cursos de pós-graduação e pesquisa e desenvolvimento de novas tecnologias. A oferta do curso possibilitará a integração com as demais áreas nas quais o Campus encontra-se especializado – eletrotécnica, informática e agroecologia  – bem como, possibilitará mobilidade acadêmica Inter campus, pela existência do curso nos Campus de Foz do Iguaçu, Paranaguá, e Telêmaco Borba e pela existência de outros cursos superiores de licenciatura, tecnologia e engenharias nos diversos Campus em áreas afins. Permitirá ainda a ampliação da ação extensionista da instituição pela oferta de cursos de capacitação profissional e de educação continuada num contexto de demanda crescente por profissionais de educação. Por fim, a implantação do referido curso justifica-se, pela perspectiva de elevação dos índices de desenvolvimento humano do Território do Vale do Ivaí, sobretudo ligados à escolarização formal. 
+Desenvolver habilidades necessárias à prática docente inovadora, eficiente e eficaz;
 
-## **3.3. Objetivos** 
+Propiciar a formação de professores capazes de aliar pesquisa, ensino e extensão e inovação ao seu cotidiano;
 
-O objetivo geral do curso de Licenciatura em Física é formar profissionais docentes, crítico-reflexivos, capacitados para atuarem no ensino de Física em todas as modalidades, capazes de trabalhar de forma interdisciplinar. 
+Contribuir para o desenvolvimento da Ciência, Tecnologia e Inovação e pela melhoria dos indicadores educacionais locais.
 
-Objetivos específicos do curso: 
+Espera-se do profissional Licenciado em Física a consciência da função social do professor, que trabalhará no sentido de integrar os seus alunos na sociedade contemporânea. Portanto, é necessário que o futuro docente tenha domínio sobre os conhecimentos inerentes à teoria, ao instrumental teórico e prático, às práticas pedagógicas para o ensino de Física.
 
-Desenvolver, de forma pedagogicamente consistente, o ensino e aprendizagem da física clássica e contemporânea; 
+O curso oferece aos futuros licenciados uma formação geral em Física, contemplando matérias teóricas, tanto clássicas como contemporâneas, com o necessário instrumental matemático e a indispensável contrapartida em matérias experimentais, frequentemente de forma integrada. Nesse sentido, o curso preza pela flexibilidade, a relação aberta entre os conteúdos, além da cooperação entre os diferentes componentes curriculares que fazem parte do currículo.
 
-15 
+É essencial que os futuros professores de Física aprendam como se trabalha em Física, ou seja, quais os procedimentos, cálculos e experiências que estão envolvidos no estabelecimento de seu corpo de conhecimentos. É importante, também, que adquiram os conteúdos necessários para a compreensão do mundo que os cerca, tanto o natural quanto o tecnológico, sendo para isso motivados sempre a estar envolvidos em atividades de iniciação científica e ações de extensão.
 
-**==> picture [486 x 54] intentionally omitted <==**
+A especificidade da licenciatura decorre do fato de que dominar o conteúdo de Física é condição necessária para seu ensino, mas não suficiente. Ensinar exige habilidades e conhecimentos específicos e, ainda mais, ser educador inclui, mas não se esgota, em ser professor. Dessa forma, é preciso que os conteúdos característicos do ensino estejam presentes não apenas nas disciplinas específicas de educação (as disciplinas de formação pedagógica), mas também que perpassem toda a atividade do curso. Assim, o curso tem um caráter global profissionalizante, procurando habilitar o estudante para uma atuação plena no magistério do Ensino Médio ou na área da educação científica.
 
-Preparar profissionais capazes de dominar novas tecnologias e utilizá-las na sua prática pedagógica; 
+## **3.4. Formas de Acesso, Permanência e Mobilidade Acadêmica**
 
-Propiciar uma formação científica, ética e humana abrangente, necessária para a atuação nas diversas vertentes da educação científica contemporânea, bem como em outras áreas que requeiram tal formação básica; 
+O acesso ao Curso de Licenciatura em Física do Instituto Federal do Paraná – Campus Ivaiporã, será realizado por meio de processo seletivo normatizado por Edital Próprio, regulamentado pela Pró-Reitoria de Ensino em conjunto com o Campus. Poderá ocorrer ainda: 1) Por meio do Sistema de Seleção Unificado –SISU, que é o sistema informatizado do Ministério da Educação, através do qual as  instituições públicas de ensino superior oferecem vagas a candidatos participantes do Enem; 2) Ingresso para portadores de diploma de graduação; 3) Ingresso de estudantes estrangeiros por meio de convênio cultural; 4) Havendo vagas remanescentes, a partir do 2º período do curso, poderão ser oferecidas vagas para transferências internas e externas, mediante a publicação de edital específico com os critérios para este processo.
 
-Desenvolver habilidades necessárias à prática docente inovadora, eficiente e eficaz; 
+## **3.4.1 Bolsas de Pesquisa, Bolsas de Extensão e Inclusão Social e Bolsas de Iniciação à Docência**
 
-Propiciar a formação de professores capazes de aliar pesquisa, ensino e extensão e inovação ao seu cotidiano; 
+O governo Federal tem desenvolvido diversas políticas de assistência estudantil visando oportunizar aos alunos com vulnerabilidade socioeconômica, risco de abandono e de reprovação ou dificuldades de desempenho durante sua vida acadêmica, por meio de remuneração financeira, o incentivo à participação em propostas acadêmicas que contribuam com a sua formação acadêmica.
 
-Contribuir para o desenvolvimento da Ciência, Tecnologia e Inovação e pela melhoria dos indicadores educacionais locais. 
+No Instituto Federal do Paraná, conforme a Resolução Nº064/2010, aprovada pelo Conselho Superior do IFPR em 28 de julho de 2010, foi criado o Programa de Bolsas Acadêmicas de Inclusão Social (PBIS) e a Resolução 011/2009 do CONSUP criou a Política de Apoio Estudantil (PACE)  regulamentado por meio da Instrução Interna de Procedimentos N° 20/PROENS, 27/02/2012.
 
-Espera-se do profissional Licenciado em Física a consciência da função social do professor, que trabalhará no sentido de integrar os seus alunos na sociedade contemporânea. Portanto, é necessário que o futuro docente tenha domínio sobre os conhecimentos inerentes à teoria, ao instrumental teórico e prático, às práticas pedagógicas para o ensino de Física. 
+Para participar do Programa de Bolsas Acadêmicas de Inclusão Social (PBIS), o aluno precisa se comprometer em dispor de uma carga horária semanal para envolvimento no projeto para o qual foi selecionado. Estudando em um período e participando do projeto em outro, o aluno dificilmente poderá ter um vínculo empregatício paralelo, pois não disporá de tempo para isso. Sendo assim o valor do auxílio é maior do que nos programas de assistência de moradia, transporte ou alimentação.
 
-O curso oferece aos futuros licenciados uma formação geral em Física, contemplando matérias teóricas, tanto clássicas como contemporâneas, com o necessário instrumental matemático e a indispensável contrapartida em matérias experimentais, frequentemente de forma integrada. Nesse sentido, o curso preza pela flexibilidade, a relação aberta entre os conteúdos, além da cooperação entre os diferentes componentes curriculares que fazem parte do currículo. 
+Conforme a resolução nº.064/2010, o PBIS objetiva:
 
-É essencial que os futuros professores de Física aprendam como se trabalha em Física, ou seja, quais os procedimentos, cálculos e experiências que estão envolvidos no estabelecimento de seu corpo de conhecimentos. É importante, também, que adquiram os conteúdos necessários para a compreensão do mundo que os cerca, tanto o natural quanto o tecnológico, sendo para isso motivados sempre a estar envolvidos em atividades de iniciação científica e ações de extensão. 
+- I. Propiciar experiência acadêmico – profissional aos estudantes;
 
-A especificidade da licenciatura decorre do fato de que dominar o conteúdo de Física é condição necessária para seu ensino, mas não suficiente. Ensinar exige habilidades e conhecimentos específicos e, ainda mais, ser educador inclui, mas não se esgota, em ser professor. Dessa forma, é preciso que os conteúdos característicos do ensino estejam presentes não apenas nas disciplinas específicas de educação (as disciplinas de formação pedagógica), mas também que perpassem toda a atividade do curso. Assim, o curso tem um caráter global profissionalizante, procurando habilitar o estudante para uma atuação plena no magistério do Ensino Médio ou na área da educação científica. 
+- II. Promover articulação entre o ensino, a pesquisa e a extensão de maneira a assegurar o seu caráter interdisciplinar e objetivando a flexibilização curricular, conforme estabelecido no projeto político pedagógico do curso;
 
-## **3.4. Formas de Acesso, Permanência e Mobilidade Acadêmica** 
+- III. Ampliar as experiências de qualificação profissional e de responsabilidade social;
 
-O acesso ao Curso de Licenciatura em Física do Instituto Federal do Paraná – Campus Ivaiporã, será realizado por meio de processo seletivo normatizado por Edital Próprio, regulamentado pela Pró-Reitoria de Ensino em conjunto com o Campus. Poderá ocorrer ainda: 1) Por meio do Sistema de Seleção Unificado –SISU, que é o sistema informatizado do Ministério da Educação, através do qual as  instituições públicas de ensino superior oferecem vagas a candidatos participantes do Enem; 2) Ingresso para portadores de diploma de graduação; 3) Ingresso de estudantes estrangeiros por meio de convênio cultural; 4) Havendo vagas remanescentes, a partir do 2º período do curso, poderão ser oferecidas vagas para transferências internas e externas, mediante a publicação de edital específico com os critérios para este processo. 
+- IV. Contribuir com as condições de permanência e conclusão de curso dos estudantes;
 
-16 
+- V. Colaborar com instrumentos avaliativos para o aprimoramento acadêmico e com a redução da evasão e da repetência e;
 
-**==> picture [486 x 54] intentionally omitted <==**
+- VI. Cooperar com ações de integração da comunidade estudantil com a comunidade em geral de maneira ética, social, política e profissional.
 
-## **3.4.1 Bolsas de Pesquisa, Bolsas de Extensão e Inclusão Social e Bolsas de Iniciação à Docência** 
+A Política de assistência estudantil no IFPR tem como premissa a respeitabilidade à diversidade social, étnica, racial e inclusiva na perspectiva de uma sociedade democrática e cidadã, pautando-se nos seguintes princípios:
 
-O governo Federal tem desenvolvido diversas políticas de assistência estudantil visando oportunizar aos alunos com vulnerabilidade socioeconômica, risco de abandono e de reprovação ou dificuldades de desempenho durante sua vida acadêmica, por meio de remuneração financeira, o incentivo à participação em propostas acadêmicas que contribuam com a sua formação acadêmica. 
+- I. Educação profissional e tecnológica pública e gratuita de qualidade;
 
-No Instituto Federal do Paraná, conforme a Resolução Nº064/2010, aprovada pelo Conselho Superior do IFPR em 28 de julho de 2010, foi criado o Programa de Bolsas Acadêmicas de Inclusão Social (PBIS) e a Resolução 011/2009 do CONSUP criou a Política de Apoio Estudantil (PACE)  regulamentado por meio da Instrução Interna de Procedimentos N° 20/PROENS, 27/02/2012. 
+- II. Igualdade de oportunidade no acesso, permanência e conclusão de curso;
 
-Para participar do Programa de Bolsas Acadêmicas de Inclusão Social (PBIS), o aluno precisa se comprometer em dispor de uma carga horária semanal para envolvimento no projeto para o qual foi selecionado. Estudando em um período e participando do projeto em outro, o aluno dificilmente poderá ter um vínculo empregatício paralelo, pois não disporá de tempo para isso. Sendo assim o valor do auxílio é maior do que nos programas de assistência de moradia, transporte ou alimentação. 
+- III. Garantia de qualidade de formação tecnológica e humanística voltada ao fortalecimento das políticas de inclusão social;
 
-Conforme a resolução nº.064/2010, o PBIS objetiva: 
+- IV. Defesa do pluralismo de ideias com reconhecimento a liberdade de expressão;
 
-- I. Propiciar experiência acadêmico – profissional aos estudantes; 
+- V. Eliminação de qualquer forma de preconceito ou discriminação.
 
-- II. Promover articulação entre o ensino, a pesquisa e a extensão de maneira a assegurar o seu caráter interdisciplinar e objetivando a flexibilização curricular, conforme estabelecido no projeto político pedagógico do curso; 
+O estudante poderá participar do Programa de Bolsas Acadêmicas de Inclusão Social através de diversas atividades vinculadas ao ensino, pesquisa, extensão ou ainda àquelas atividades administrativo-pedagógicas, tais como: coordenações de curso, bibliotecas, laboratórios, unidades administrativas (tanto nos Campi como nas Pró-Reitorias, Gabinete do Reitor e Assessorias da Reitoria) entre outros, sendo que, em qualquer um dos projetos/propostas ou atividades em que o estudante for selecionado será obrigatória a orientação direta de um responsável docente ou técnico-administrativo
 
-- III. Ampliar as experiências de qualificação profissional e de responsabilidade social; 
+O Programa de Auxílio Complementar ao Estudante (PACE) está regulamentado pela Resolução da Política de Apoio Estudantil e pela Instrução Interna de Procedimentos 20/2012 da Pró-Reitoria de Ensino do IFPR. O PACE objetiva oferecer apoio aos estudantes regularmente matriculados em situação de vulnerabilidade socioeconômica, propiciando recurso financeiro mensal, por meio da oferta de auxílio-moradia, auxílio-alimentação e auxílio-transporte, contribuindo para sua permanência e conclusão do curso.
 
-- IV. Contribuir com as condições de permanência e conclusão de curso dos estudantes; 
+Além do Programa de Bolsas de Inclusão Social (PBIS) e do Programa de Auxílio Complementar ao Estudante (PACE), existem também outros Programas de Bolsas de Estudos do IFPR, como o Programa Institucional de Iniciação Científica (PIBIC), o Programa de Bolsas de Extensão (PIBEX), O Programa Institucional de Bolsas de Incentivo ao Empreendedorismo Inovador (PIBIN) e o Programa de Bolsas de Iniciação à Docência (PBID).
 
-- V. Colaborar com instrumentos avaliativos para o aprimoramento acadêmico e com a redução da evasão e da repetência e; 
+O Programa Institucional de Iniciação Científica (PIIC), é voltado para o desenvolvimento do pensamento científico e iniciação à pesquisa de estudantes de graduação e integra todos os programas de iniciação científica de agências de fomento. Este programa tem como objetivos despertar vocação científica e incentivar novos talentos potenciais entre estudantes de graduação, propiciar à Instituição um instrumento de formulação de política de iniciação à pesquisa para alunos de graduação, estimular uma maior articulação entre a graduação e pós-graduação, contribuir para a formação de recursos humanos para a pesquisa, contribuir de forma decisiva para reduzir o tempo médio de permanência dos alunos na pós-graduação, estimular pesquisadores produtivos a envolverem alunos de graduação nas atividades científica, tecnológica e artística-cultural, proporcionar ao bolsista, orientado por pesquisador qualificado, a aprendizagem de técnicas e métodos de pesquisa, bem como estimular o desenvolvimento do pensar cientificamente e da criatividade, decorrentes das condições criadas pelo confronto direto com os problemas de pesquisa, além de contribuir para a formação científica de recursos humanos que se dedicarão a qualquer atividade profissional. O PIIC do IFPR é regulamentado através da Resolução 11/2011 do Conselho Superior.
 
-- VI. Cooperar com ações de integração da comunidade estudantil com a comunidade em geral de maneira ética, social, política e profissional. 
+O Programa de Bolsas de Extensão tem por objetivos principais incentivar as atividades de extensão com vistas à produção e divulgação do conhecimento a partir da realidade local, contribuir com a formação do estudante em seus aspectos técnico tecnológico e humano, promover a participação de servidores e estudantes em atividades de integração com a sociedade, incentivar a interação entre o conhecimento acadêmico e o popular contribuindo com políticas, públicas, assim como, colaborar com a articulação entre ensino pesquisa e extensão.
 
-A Política de assistência estudantil no IFPR tem como premissa a respeitabilidade à diversidade social, étnica, racial e inclusiva na perspectiva de uma sociedade democrática e cidadã, pautando-se nos seguintes princípios: 
+O Programa Institucional de Bolsas de Incentivo ao Empreendedorismo Inovador (PIBIN) do Instituto Federal do Paraná tem por finalidade estimular o desenvolvimento tecnológico, a inovação, o empreendedorismo e ações de melhoramento de produtos e processos através da inserção de alunos em Programas de Iniciação Científica com foco em Inovação e  Empreendedorismo.
 
-- I. Educação profissional e tecnológica pública e gratuita de qualidade; 
+O Programa de Bolsas de Iniciação à Docência (PBID), é uma iniciativa para o aprimoramento e a valorização da formação de professores para a educação básica. O programa concede bolsas aos alunos de licenciatura participantes de projetos de iniciação à docência desenvolvidos por Instituições de Educação Superior em parceria com escolas de educação básica da rede pública de ensino. Esses projetos devem promover a inserção dos estudantes no contexto das escolas públicas desde o início da sua formação acadêmica para que desenvolvam atividades didático-pedagógicas sob orientação de um docente da licenciatura e de um professor da escola.
 
-- II. Igualdade de oportunidade no acesso, permanência e conclusão de curso; 
+O programa tem como objetivos contribuir com a valorização do magistério, elevar a qualidade da formação inicial de professores nos cursos de licenciatura e simultaneamente, incentivar as escolas públicas de Educação Básica, mobilizando seus professores como coformadores dos futuros docentes e tornando-as protagonistas nos processos de formação inicial para o magistério. A ideia consiste em inserir os licenciandos no cotidiano das escolas públicas, trazendo para sua formação acadêmica experiências metodológicas e tecnológicas, aliando a teoria de sala de aula com o cotidiano da prática docente.
 
-- III. Garantia de qualidade de formação tecnológica e humanística voltada ao fortalecimento das políticas de inclusão social; 
+## **3.4.2. Aproveitamento de Estudos Anteriores**
 
-- IV. Defesa do pluralismo de ideias com reconhecimento a liberdade de expressão; 
+De acordo com a Resolução 55/2011 do Conselho Superior, o aproveitamento de estudos anteriores compreende o processo de aproveitamento de componentes curriculares ou etapas (séries, módulos, blocos) cursadas com êxito em outro curso. Nos cursos de Graduação, o aproveitamento de ensino compreende a possibilidade de aproveitamento de disciplinas cursadas em outro curso de ensino superior, quando solicitado pelo aluno.
 
-- V. Eliminação de qualquer forma de preconceito ou discriminação. 
+O pedido de aproveitamento de estudos deve ser avaliado por Comissão de Análise composta de professores da área de conhecimento, seguindo os seguintes critérios:
 
-17 
+I. correspondência entre a instituição de origem e o IFPR em relação às ementas, ao conteúdo programático e à carga horária cursados. A carga horária cursada não deverá ser inferior a 75% daquela indicada na disciplina do curso do IFPR;
 
-**==> picture [486 x 54] intentionally omitted <==**
+II. além da correspondência entre as disciplinas, o processo de aproveitamento de estudos poderá envolver avaliação teórica e/ou prática acerca do conhecimento a ser aproveitado.
 
-O estudante poderá participar do Programa de Bolsas Acadêmicas de Inclusão Social através de diversas atividades vinculadas ao ensino, pesquisa, extensão ou ainda àquelas atividades administrativo-pedagógicas, tais como: coordenações de curso, bibliotecas, laboratórios, unidades administrativas (tanto nos Campi como nas Pró-Reitorias, Gabinete do Reitor e Assessorias da Reitoria) entre outros, sendo que, em qualquer um dos projetos/propostas ou atividades em que o estudante for selecionado será obrigatória a orientação direta de um responsável docente ou técnico-administrativo 
+O pedido de aproveitamento de estudos deve ser protocolado na Secretaria Acadêmica do Campus, durante o prazo estabelecido no calendário acadêmico, por meio de formulário próprio, acompanhado de histórico escolar completo e atualizado da instituição de origem, da ementa e do programa do componente curricular, autenticados pela Instituição de ensino credenciada pelo MEC.
 
-O Programa de Auxílio Complementar ao Estudante (PACE) está regulamentado pela Resolução da Política de Apoio Estudantil e pela Instrução Interna de Procedimentos 20/2012 da Pró-Reitoria de Ensino do IFPR. O PACE objetiva oferecer apoio aos estudantes regularmente matriculados em situação de vulnerabilidade socioeconômica, propiciando recurso financeiro mensal, por meio da oferta de auxílio-moradia, auxílio-alimentação e auxílio-transporte, contribuindo para sua permanência e conclusão do curso. 
+## **3.4.3. Certificação de Conhecimentos Anteriores**
 
-Além do Programa de Bolsas de Inclusão Social (PBIS) e do Programa de Auxílio Complementar ao Estudante (PACE), existem também outros Programas de Bolsas de Estudos do IFPR, como o Programa Institucional de Iniciação Científica (PIBIC), o Programa de Bolsas de Extensão (PIBEX), O Programa Institucional de Bolsas de Incentivo ao Empreendedorismo Inovador (PIBIN) e o Programa de Bolsas de Iniciação à Docência (PBID). 
+De acordo com a Resolução 55/2011 do Conselho Superior, entende-se por Certificação de Conhecimentos Anteriores a dispensa de frequência em componente curricular do curso do IFPR em que o estudante comprove excepcional domínio de conhecimento através da aprovação em avaliação. A avaliação será realizada sob responsabilidade de Comissão composta por professores da área de conhecimento correspondente, designada pela Direção de Ensino, Pesquisa e Extensão do Campus, a qual estabelecerá os procedimentos e os critérios para a avaliação, de acordo com a natureza do conhecimento a ser certificado.
 
-O Programa Institucional de Iniciação Científica (PIIC), é voltado para o desenvolvimento do pensamento científico e iniciação à pesquisa de estudantes de graduação e integra todos os programas de iniciação científica de agências de fomento. Este programa tem como objetivos despertar vocação científica e incentivar novos talentos potenciais entre estudantes de graduação, propiciar à Instituição um instrumento de formulação de política de iniciação à pesquisa para alunos de graduação, estimular uma maior articulação entre a graduação e pós-graduação, contribuir para a formação de recursos humanos para a pesquisa, contribuir de forma decisiva para reduzir o tempo médio de permanência dos alunos na pós-graduação, estimular pesquisadores produtivos a envolverem alunos de graduação nas atividades científica, tecnológica e artística-cultural, proporcionar ao bolsista, orientado por pesquisador qualificado, a aprendizagem de técnicas e métodos de pesquisa, bem como estimular o desenvolvimento do pensar cientificamente e da criatividade, decorrentes das condições criadas pelo confronto direto com os problemas de pesquisa, além de contribuir para a formação científica de recursos humanos que se dedicarão a qualquer atividade profissional. O PIIC do IFPR é regulamentado através da Resolução 11/2011 do Conselho Superior. 
+A avaliação para Certificação de Conhecimentos Anteriores poderá ocorrer por solicitação fundamentada do estudante, que justifique a excepcionalidade, ou por iniciativa de professores do curso.
 
-O Programa de Bolsas de Extensão tem por objetivos principais incentivar as atividades de extensão com vistas à produção e divulgação do conhecimento a partir da realidade local, contribuir com a formação do estudante em seus aspectos técnico tecnológico e humano, promover a participação de servidores e estudantes em atividades de integração com a sociedade, incentivar a interação entre o conhecimento acadêmico e o popular contribuindo com políticas, públicas, assim como, colaborar com a articulação entre ensino pesquisa e extensão. 
+Não se aplica a Certificação de Conhecimentos Anteriores para o componente curricular de Trabalho de Conclusão de Curso (TCC) ou Monografia, bem como para Estágio Supervisionado.
 
-O Programa Institucional de Bolsas de Incentivo ao Empreendedorismo Inovador (PIBIN) do Instituto Federal do Paraná tem por finalidade estimular o desenvolvimento tecnológico, a inovação, o empreendedorismo e ações de melhoramento de produtos e processos através da inserção de alunos em Programas de Iniciação Científica com foco em Inovação e  Empreendedorismo. 
+## **3.4.4. Expedição de Diplomas e Certificados**
 
-18 
+Ao concluir, com proficiência (aproveitamento satisfatório e frequência igual ou superior a 75%), os quatro anos e meio do curso de Licenciatura em Física, aqui proposto, antes do prazo para jubilamento, o estudante fará jus ao Diploma de Graduação de **Licenciado em Física** , área de Ciências Exatas e da Terra .
 
-**==> picture [486 x 54] intentionally omitted <==**
+## **3.5 Perfil do Egresso:**
 
-O Programa de Bolsas de Iniciação à Docência (PBID), é uma iniciativa para o aprimoramento e a valorização da formação de professores para a educação básica. O programa concede bolsas aos alunos de licenciatura participantes de projetos de iniciação à docência desenvolvidos por Instituições de Educação Superior em parceria com escolas de educação básica da rede pública de ensino. Esses projetos devem promover a inserção dos estudantes no contexto das escolas públicas desde o início da sua formação acadêmica para que desenvolvam atividades didático-pedagógicas sob orientação de um docente da licenciatura e de um professor da escola. 
+Nas últimas décadas o mundo tem se caracterizado por mudanças e avanços, de forma rápida e às vezes até radical, em todos os setores, influenciando sobremaneira o mundo do trabalho, e sob esse aspecto exigindo novas funções sociais e novos campos de atuação.
 
-O programa tem como objetivos contribuir com a valorização do magistério, elevar a qualidade da formação inicial de professores nos cursos de licenciatura e simultaneamente, incentivar as escolas públicas de Educação Básica, mobilizando seus professores como coformadores dos futuros docentes e tornando-as protagonistas nos processos de formação inicial para o magistério. A ideia consiste em inserir os licenciandos no cotidiano das escolas públicas, trazendo para sua formação acadêmica experiências metodológicas e tecnológicas, aliando a teoria de sala de aula com o cotidiano da prática docente. 
+Sendo assim, pretende-se formar o Físico-Educador que seja um profissional com formação ampla, sólida e abrangente em conteúdos da Física e em todas as suas modalidades fundamentais, com domínio do uso de conceitos, laboratórios e equipamentos em uma perspectiva que vá além do viés de confirmação, propiciando reais atividades investigativas. Ainda deve ter domínio de conhecimentos pedagógicos específicos, visão crítica da realidade, em seus aspectos sociais, econômicos, culturais e políticos e condições de atuar em todos os campos da atividade socioeconômica.
 
-## **3.4.2. Aproveitamento de Estudos Anteriores** 
+Deve ser um profissional consciente de suas limitações e estar continuamente em formação. Um pensador, estudioso e investigador. Um analista crítico da realidade e com capacidade de chegar a conclusões, de tomar posições coerentes e elaborar proposições próprias para soluções dos problemas detectados.
 
-De acordo com a Resolução 55/2011 do Conselho Superior, o aproveitamento de estudos anteriores compreende o processo de aproveitamento de componentes curriculares ou etapas (séries, módulos, blocos) cursadas com êxito em outro curso. Nos cursos de Graduação, o aproveitamento de ensino compreende a possibilidade de aproveitamento de disciplinas cursadas em outro curso de ensino superior, quando solicitado pelo aluno. 
+Dessa forma, os egressos licenciados no curso de Física aqui proposto serão capazes de exercer a função de professores de Física no Ensino Médio e no Ensino Superior. Espera-se fornecer ao futuro professor conhecimento para elaborar e programar atividades que propiciem aos seus alunos uma aprendizagem efetiva e eficaz dos conceitos físicos e suas implicações, bem como, avaliar a metodologia empregada e o alcance de seus resultados. O egresso do curso, também, poderá ingressar, se for de seu interesse, num programa de pós-graduação na área de ensino de Física ou em qualquer área de pesquisa em Física ou áreas afins e desempenhar funções de um professor e pesquisador. Diante disso, a formação do Físico-Educador pode se caracterizar nas seguintes competências essenciais, já preconizadas pelas diretrizes curriculares nacionais:
 
-O pedido de aproveitamento de estudos deve ser avaliado por Comissão de Análise composta de professores da área de conhecimento, seguindo os seguintes critérios: 
+● Dominar princípios gerais e fundamentos da Física, estando familiarizado com suas áreas clássicas e modernas;
 
-I. correspondência entre a instituição de origem e o IFPR em relação às ementas, ao conteúdo programático e à carga horária cursados. A carga horária cursada não deverá ser inferior a 75% daquela indicada na disciplina do curso do IFPR; 
+● Descrever e explicar fenômenos naturais, processos e equipamentos tecnológicos em termos de conceitos, teorias e princípios físicos gerais;
 
-II. além da correspondência entre as disciplinas, o processo de aproveitamento de estudos poderá envolver avaliação teórica e/ou prática acerca do conhecimento a ser aproveitado. 
+● Diagnosticar, formular e encaminhar a solução de problemas físicos, experimentais ou teóricos, práticos ou abstratos, fazendo uso dos instrumentos laboratoriais ou matemáticos apropriados;
 
-O pedido de aproveitamento de estudos deve ser protocolado na Secretaria Acadêmica do Campus, durante o prazo estabelecido no calendário acadêmico, por meio de formulário próprio, acompanhado de histórico escolar completo e atualizado da instituição de origem, da ementa e do programa do componente curricular, autenticados pela Instituição de ensino credenciada pelo MEC. 
+● Manter atualizada sua cultura científica geral e sua cultura técnica profissional específica;
 
-## **3.4.3. Certificação de Conhecimentos Anteriores** 
+● Desenvolver uma ética de atuação profissional e a consequente responsabilidade social, compreendendo a Ciência como conhecimento histórico, desenvolvido em diferentes contextos sócio-políticos, culturais e econômicos. E, para contemplar as competências descritas acima, algumas habilidades gerais se fazem necessárias, dentre elas:
 
-De acordo com a Resolução 55/2011 do Conselho Superior, entende-se por Certificação de Conhecimentos Anteriores a dispensa de frequência em componente curricular do curso do IFPR em que o estudante comprove excepcional domínio de conhecimento através da aprovação em avaliação. A avaliação será realizada sob responsabilidade de Comissão composta por professores da área de conhecimento correspondente, designada pela Direção de Ensino, Pesquisa e Extensão do Campus, a qual estabelecerá os procedimentos e os critérios para a avaliação, de acordo com a natureza do conhecimento a ser certificado. 
+● Utilizar a matemática como uma linguagem para a expressão dos fenômenos naturais;
 
-19 
+● Resolver problemas experimentais, desde seu reconhecimento, e a realização de medições, até à análise de resultados;
 
-**==> picture [486 x 54] intentionally omitted <==**
+● Propor, elaborar e utilizar modelos físicos, reconhecendo seus domínios de validade;
 
-A avaliação para Certificação de Conhecimentos Anteriores poderá ocorrer por solicitação fundamentada do estudante, que justifique a excepcionalidade, ou por iniciativa de professores do curso. 
+● Concentrar esforços e persistir na busca de soluções para problemas de solução elaborada e demorada;
 
-Não se aplica a Certificação de Conhecimentos Anteriores para o componente curricular de Trabalho de Conclusão de Curso (TCC) ou Monografia, bem como para Estágio Supervisionado. 
+● Utilizar a linguagem científica na expressão de conceitos físicos, na descrição de procedimentos de trabalhos científicos e na divulgação de seus resultados;
 
-## **3.4.4. Expedição de Diplomas e Certificados** 
+● Utilizar os diversos recursos da informática, dispondo de noções de linguagem computacional;
 
-Ao concluir, com proficiência (aproveitamento satisfatório e frequência igual ou superior a 75%), os quatro anos e meio do curso de Licenciatura em Física, aqui proposto, antes do prazo para jubilamento, o estudante fará jus ao Diploma de Graduação de **Licenciado em Física** , área de Ciências Exatas e da Terra . 
+● Conhecer e absorver novas técnicas, métodos ou uso de instrumentos, seja em medições, seja em análise de dados (teóricos ou experimentais);
 
-## **3.5 Perfil do Egresso:** 
+● Reconhecer as relações do desenvolvimento da Física com outras áreas do saber, tecnologias e instâncias sociais, especialmente contemporâneas;
 
-Nas últimas décadas o mundo tem se caracterizado por mudanças e avanços, de forma rápida e às vezes até radical, em todos os setores, influenciando sobremaneira o mundo do trabalho, e sob esse aspecto exigindo novas funções sociais e novos campos de atuação. 
+● Apresentar resultados científicos em distintas formas de expressão, tais como relatórios, trabalhos para publicação, seminários e palestras.
 
-Sendo assim, pretende-se formar o Físico-Educador que seja um profissional com formação ampla, sólida e abrangente em conteúdos da Física e em todas as suas modalidades fundamentais, com domínio do uso de conceitos, laboratórios e equipamentos em uma perspectiva que vá além do viés de confirmação, propiciando reais atividades investigativas. Ainda deve ter domínio de conhecimentos pedagógicos específicos, visão crítica da realidade, em seus aspectos sociais, econômicos, culturais e políticos e condições de atuar em todos os campos da atividade socioeconômica. 
+Outra habilidade específica do Físico-Educador é saber planejar o desenvolvimento de diferentes experiências didáticas em Física, reconhecendo os elementos relevantes às estratégias adequadas, além de elaborar ou adaptar materiais didáticos de diferentes naturezas, identificando seus objetivos formativos, de aprendizagem e educacionais.
 
-Deve ser um profissional consciente de suas limitações e estar continuamente em formação. Um pensador, estudioso e investigador. Um analista crítico da realidade e com capacidade de chegar a conclusões, de tomar posições coerentes e elaborar proposições próprias para soluções dos problemas detectados. 
+## **3.5.1. Áreas de Atuação do Egresso**
 
-Dessa forma, os egressos licenciados no curso de Física aqui proposto serão capazes de exercer a função de professores de Física no Ensino Médio e no Ensino Superior. Espera-se fornecer ao futuro professor conhecimento para elaborar e programar atividades que propiciem aos seus alunos uma aprendizagem efetiva e eficaz dos conceitos físicos e suas implicações, bem como, avaliar a metodologia empregada e o alcance de seus resultados. O egresso do curso, também, poderá ingressar, se for de seu interesse, num programa de pós-graduação na área de ensino de Física ou em qualquer área de pesquisa em Física ou áreas afins e desempenhar funções de um professor e pesquisador. Diante disso, a formação do Físico-Educador pode se caracterizar nas seguintes competências essenciais, já preconizadas pelas diretrizes curriculares nacionais: 
+O trabalho dos Licenciados em Física é predominantemente intelectual e como profissional exercerá atividades de docência nas séries finais do Ensino Fundamental e no Ensino Médio tanto no setor público quanto privado, podendo ainda dar continuidade à sua formação para atuar no Ensino Superior. Entre os campos de atuação estão, basicamente, as áreas de docência e pesquisa, planejamento e questões relacionadas ao meio ambiente, ação coletiva e participação na gestão escolar. São exemplos mais específicos de atividades exercidas pelos licenciados, as seguintes:
 
-● Dominar princípios gerais e fundamentos da Física, estando familiarizado com suas áreas clássicas e modernas; 
+● Produzir conhecimento na área de ensino de Física;
 
-● Descrever e explicar fenômenos naturais, processos e equipamentos tecnológicos em termos de conceitos, teorias e princípios físicos gerais; 
+● Atuar na docência, em acordo com a LDB, art.62
 
-● Diagnosticar, formular e encaminhar a solução de problemas físicos, experimentais ou teóricos, práticos ou abstratos, fazendo uso dos instrumentos laboratoriais ou matemáticos apropriados; 
+● Difundir conhecimento na área de Física e ensino de Física;
 
-20 
+● Atuar em centros e museus de ciências e divulgação científica e demais organizações que exijam conhecimentos na área de Física.
 
-**==> picture [486 x 54] intentionally omitted <==**
+## **3.5.2. Acompanhamento de Egressos**
 
-● Manter atualizada sua cultura científica geral e sua cultura técnica profissional específica; 
+Segundo esclarece a Portaria MEC 646/1997, as Instituições Federais, especificamente as destinadas à Educação Tecnológica, precisam identificar novos perfis
 
-● Desenvolver uma ética de atuação profissional e a consequente responsabilidade social, compreendendo a Ciência como conhecimento histórico, desenvolvido em diferentes contextos sócio-políticos, culturais e econômicos. E, para contemplar as competências descritas acima, algumas habilidades gerais se fazem necessárias, dentre elas: 
+de profissionais e adequar a oferta de cursos às demandas dos setores produtivos. Sendo, então, evidente a importância de se pensar e desenvolver processos de gestão e acompanhamento de egressos, pois não havendo um retorno para as instituições de ensino quanto a seus egressos estas, provavelmente, não aplicarão as mudanças necessárias em seus currículos e processos de ensino-aprendizagem, de forma a preencher as lacunas que existem entre a formação acadêmica do aluno e as reais necessidades de qualificação exigidas pelo mundo de trabalho e pela sociedade. Dessa forma, algumas ações são previstas para os estudantes do curso de Licenciatura em Física, como:
 
-● Utilizar a matemática como uma linguagem para a expressão dos fenômenos naturais; 
+● _**Orientação aos formandos quanto à colocação na vida profissional e participação em processos seletivos:**_ serão realizadas oficinas e palestras informativas para os formandos com o intuito de orientar e esclarecer dúvidas quanto à construção de currículos e redação de cartas de motivação. Além disso, se buscará a orientação dos alunos sobre onde buscar oportunidades, cuidados com redes sociais e como se portar e se preparar para entrevistas profissionais. A realização dessas ações contará com o apoio de técnicos administrativos e docentes do campus, podendo ainda contar com a participação de representantes de instituições externas.
 
-● Resolver problemas experimentais, desde seu reconhecimento, e a realização de medições, até à análise de resultados; 
+● _**Organizar e manter um banco de informações referentes aos egressos do curso, que serão levantadas a partir de um ano de formação:**_ serão mantidas informações e dados sobre os egressos, levantadas por meio de telefone e internet após um ano de formados, como endereços residencial e profissional, área de atuação, último emprego, entre outros.
 
-● Propor, elaborar e utilizar modelos físicos, reconhecendo seus domínios de validade; 
+● _**Conhecer a opinião dos egressos acerca da formação profissional recebida:**_ além das informações básicas a serem levantadas e organizadas pelo banco de informações sobre os egressos, serão elaborados questionários rápidos, em períodos determinados, que serão enviados através da internet, por meio de correio eletrônico ou postados diretamente no sítio eletrônico do campus, em local específico a ser destinado ao relacionamento com os egressos. Será realizada ainda, uma avaliação sobre a formação recebida junto aos egressos que estão atuando em suas áreas de formação, visando à identificação de possíveis aspectos a serem fortalecidos no processo de formação.
 
-● Concentrar esforços e persistir na busca de soluções para problemas de solução elaborada e demorada; 
+A partir dos dados levantados junto aos egressos e de outras informações pertinentes a serem observadas, serão reunidos e organizados dados que possibilitem a reflexão do desempenho do processo educacional proporcionado pelo curso, de forma a promover a avaliação interna pelos docentes.
 
-● Utilizar a linguagem científica na expressão de conceitos físicos, na descrição de procedimentos de trabalhos científicos e na divulgação de seus resultados; 
+## **3.6. Perfil do Curso**
 
-● Utilizar os diversos recursos da informática, dispondo de noções de linguagem computacional; 
+A formação docente se dá em processo permanente e contínuo. Baseados no seu processo de escolarização e na forma como foram educados, os futuros professores, quando iniciam seus cursos de Licenciatura, já possuem concepções sobre o ato de ensinar provenientes de experiências próprias como estudante. Segundo essas concepções, para ensinar basta conhecer o conteúdo e utilizar algumas técnicas pedagógicas. Esta visão simplista é, por sua vez, reforçada pelo modelo usual de formação naqueles cursos, que é calcado na racionalidade técnica. Com base nesse modelo, os currículos de formação profissional tendem a separar o mundo acadêmico do mundo da prática. Assim, propiciam um sólido conhecimento básico-teórico no início do curso, com subsequentes disciplinas de ciências aplicadas desse conhecimento para, ao final,
 
-● Conhecer e absorver novas técnicas, métodos ou uso de instrumentos, seja em medições, seja em análise de dados (teóricos ou experimentais); 
+chegarem à prática profissional com os famosos estágios. No caso da formação docente, esse modelo concebe e constrói o professor como técnico, pois entende a atividade profissional como essencialmente instrumental, dirigida para a solução de problemas mediante a aplicação de teorias e técnicas. No entanto, há aqui sérios condicionantes que conferem pouca efetividade a essa formação: i) os problemas nela abordados são abstraídos das circunstâncias reais, constituindo-se em problemas ideais que não se aplicam às situações práticas, ou seja, instaura-se o distanciamento entre teoria e prática; ii) a formação dita "pedagógica" é dissociada da formação científica específica, configurando caminhos paralelos que quase nunca se cruzam ao longo do curso, sendo os responsáveis pela crise das licenciaturas.
 
-● Reconhecer as relações do desenvolvimento da Física com outras áreas do saber, tecnologias e instâncias sociais, especialmente contemporâneas; 
+Mesmo com relação ao conhecimento ou domínio do conteúdo a ser ensinado, a literatura revela que tal necessidade docente vai além do que habitualmente é contemplado nos cursos de formação inicial, implicando conhecimentos profissionais relacionados à história e filosofia das ciências, às orientações metodológicas empregadas na construção de conhecimento científico, às relações entre Ciência, Tecnologia e Sociedade, e perspectivas do desenvolvimento científico.
 
-● Apresentar resultados científicos em distintas formas de expressão, tais como relatórios, trabalhos para publicação, seminários e palestras. 
+Com o propósito de contribuir para a melhoria da formação docente, vários trabalhos na área da Didática das Ciências vêm incorporando a ideia do professor-reflexivo/pesquisador, para a qual convergem as perspectivas atuais. Estas consideram a reflexão e a investigação sobre a prática docente como necessidades formativas, tornando-se constitutivas das próprias atividades do professor, como condições para o seu desenvolvimento profissional e melhoria de sua ação docente. Nesse sentido, é fundamental que licenciados em Ciências/Física sejam iniciados na prática da pesquisa educacional e que professores universitários estabeleçam parcerias entre si e com professores do Ensino Médio e Fundamental como forma de serem introduzidos na investigação didática e no processo contínuo de desenvolvimento profissional.
 
-Outra habilidade específica do Físico-Educador é saber planejar o desenvolvimento de diferentes experiências didáticas em Física, reconhecendo os elementos relevantes às estratégias adequadas, além de elaborar ou adaptar materiais didáticos de diferentes naturezas, identificando seus objetivos formativos, de aprendizagem e educacionais. 
+Na perspectiva de formar um professor-reflexivo/pesquisador este curso traz uma proposta concreta de interligação entre teoria e prática, bem como dos conhecimentos de Física enfocando conceitos aplicados à indústrias como núcleo integrador dos estudos a serem implementados pelo futuro professor. Neste sentido, este Projeto Pedagógico aparece como inovador e tem o propósito de contribuir para a melhoria da formação dos docentes da área de Física, na medida em que representa uma possibilidade concreta de permear diversos conceitos e dar sentido prático-reflexivo aos estudos da Física.
 
-## **3.5.1. Áreas de Atuação do Egresso** 
+Segundo as Diretrizes Curriculares Nacionais, aqui objetivamos formar o profissional Físico-Educador, dedicado preferencialmente à formação e à disseminação do saber científico em diferentes instâncias sociais seja através da atuação no ensino escolar formal, como também em ambientes não formais e informais, seja por meio de novas formas de educação científica, como vídeos, _softwares_ , ou outros meios de comunicação.
 
-O trabalho dos Licenciados em Física é predominantemente intelectual e como profissional exercerá atividades de docência nas séries finais do Ensino Fundamental e no Ensino Médio tanto no setor público quanto privado, podendo ainda dar continuidade à sua formação para atuar no Ensino Superior. Entre os campos de atuação estão, basicamente, as áreas de docência e pesquisa, planejamento e questões relacionadas ao meio ambiente, ação coletiva e participação na gestão escolar. São exemplos mais específicos de atividades exercidas pelos licenciados, as seguintes: 
+Não nos ateríamos ao perfil da atual Licenciatura em Física, que está orientada, simplesmente, para o Ensino Médio formal. Ao contrário, visamos promover uma abordagem teórico-metodológica que proporcione ao longo do curso autonomia e flexibilidade ao licenciando na construção do seu conhecimento, mesclando conceitos e práticas científicas e pedagógicas.
 
-● Produzir conhecimento na área de ensino de Física; 
+## **3.6.1. Relação entre Ensino, Pesquisa, Extensão e Inovação**
 
-● Atuar na docência, em acordo com a LDB, art.62 
+É fato que ensino, pesquisa, extensão e inovação formem uma relação indissociável, visto que, se forem consideradas somente as relações duais, a articulação entre o ensino e a extensão aponta para uma formação que se preocupa com os problemas da sociedade contemporânea, mas carece da pesquisa, responsável pela produção do conhecimento científico. Por outro lado, se associados o ensino e a pesquisa, se ganha terreno em frentes como a tecnologia, por exemplo, mas se incorre o risco de perder a compreensão ético-político-social conferida quando se pensa no destinatário final desse saber científico, a sociedade. E quando a articulação entre extensão e pesquisa exclui o ensino, se perde a dimensão formativa que dá sentido à escola.
 
-● Difundir conhecimento na área de Física e ensino de Física; 
+Nessa perspectiva, algumas estratégias são traçadas para se atender as relações entre ensino, pesquisa, extensão e inovação como: projetos interdisciplinares, capazes de integrar áreas de conhecimento, de apresentar resultados práticos e objetivos e que são propostos pelo coletivo envolvido no projeto; implementação sistemática de cursos de extensão, seminários, fóruns, palestras e outros que articulam os currículos a temas de relevância social, local e/ou regional e que potencializem recursos materiais, físicos e humanos disponíveis; flexibilização de conteúdos por meio de componentes curriculares e de outros mecanismos de organização de estudos que contemplem conhecimentos relevantes, capazes de responder a demandas pontuais e de grande valor para a comunidade interna e externa; previsão de horas-aula, para viabilizar a construção de trajetórias curriculares por meio do envolvimento em eventos, em projetos de pesquisa e extensão; espaços para reflexão e construção de ações coletivas, que atendam a demandas específicas como debates, grupos de estudo e similares; oferta de intercâmbio entre estudantes de diferentes campus, institutos e instituições educacionais considerando a equivalência de estudos.
 
-● Atuar em centros e museus de ciências e divulgação científica e demais organizações que exijam conhecimentos na área de Física. 
+Desde o início das atividades do campus, muitas ações de ensino, pesquisa, extensão e inovação vêm sendo desenvolvidas pelo corpo docente para garantir a qualidade dos cursos técnicos. Vale dizer que as atividades que foram desenvolvidas nesses projetos serviram e estão servindo de experiência para um salto maior, que é de ofertar cursos (como este) de nível superior.
 
-## **3.5.2. Acompanhamento de Egressos** 
+Neste curso de Licenciatura em Física, as ferramentas de informática como _softwares_ educativos, plataformas gráficas e de comunicação serão imprescindíveis e farão parte dos novos projetos, tendo em vista os programas governamentais no sentido de implantar laboratórios de informática em escolas públicas do município.
 
-Segundo esclarece a Portaria MEC 646/1997, as Instituições Federais, especificamente as destinadas à Educação Tecnológica, precisam identificar novos perfis 
+As atividades experimentais tanto em Física como em informática, além das discussões conceituais promoverão ao longo do tempo um despertar em Ivaiporã e região. Esse despertar permitirá ao Ensino de Ciências caminhar a passos mais largos nos próximos anos, aumentando o interesse pelas carreiras científicas como Matemática, Física e Química.
 
-21 
+Os estudantes dedicarão esforços na organização e realização de Semanas Acadêmicas de Física e participarão da Semana Nacional de Ciência e Tecnologia (SNCT), realizada pelo Ministério da Ciência, Tecnologia e Inovação. Nestes eventos os alunos participarão de palestras, mesas-redondas e minicursos oferecidos tanto pelos docentes do curso quanto por professores de outras áreas correlatas (ou convidados de outras instituições), sempre com temas voltados para o interesse dos alunos.
 
-**==> picture [486 x 54] intentionally omitted <==**
+Além de todas as ações já elencadas, a partir de 2023, em atendimento à Instrução Normativa 1/2021 e a Resolução Consup/IFPR nº11/2018, o curso contará com 320h, o equivalente a 10% de sua carga horária total, dedicada às ações de extensão curricularizadas. Tais ações poderão ser implementadas com o desenvolvimento de
 
-de profissionais e adequar a oferta de cursos às demandas dos setores produtivos. Sendo, então, evidente a importância de se pensar e desenvolver processos de gestão e acompanhamento de egressos, pois não havendo um retorno para as instituições de ensino quanto a seus egressos estas, provavelmente, não aplicarão as mudanças necessárias em seus currículos e processos de ensino-aprendizagem, de forma a preencher as lacunas que existem entre a formação acadêmica do aluno e as reais necessidades de qualificação exigidas pelo mundo de trabalho e pela sociedade. Dessa forma, algumas ações são previstas para os estudantes do curso de Licenciatura em Física, como: 
+projetos, cursos e oficinas, eventos. Essa carga horária será dividida entre componentes não específicos de extensão e de Atividades Curriculares de Extensão.
 
-● _**Orientação aos formandos quanto à colocação na vida profissional e participação em processos seletivos:**_ serão realizadas oficinas e palestras informativas para os formandos com o intuito de orientar e esclarecer dúvidas quanto à construção de currículos e redação de cartas de motivação. Além disso, se buscará a orientação dos alunos sobre onde buscar oportunidades, cuidados com redes sociais e como se portar e se preparar para entrevistas profissionais. A realização dessas ações contará com o apoio de técnicos administrativos e docentes do campus, podendo ainda contar com a participação de representantes de instituições externas. 
+## **3.6.2. Metodologia e Estratégias Pedagógicas**
 
-● _**Organizar e manter um banco de informações referentes aos egressos do curso, que serão levantadas a partir de um ano de formação:**_ serão mantidas informações e dados sobre os egressos, levantadas por meio de telefone e internet após um ano de formados, como endereços residencial e profissional, área de atuação, último emprego, entre outros. 
+As atividades de ensino dos componentes curriculares do conhecimento físico, sejam teóricas ou experimentais, terão como foco metodológico a meta-aprendizagem, ou seja, a discussão de como se está aprendendo determinado conhecimento, bem como as diferenças ou estilos de aprendizagem utilizados por cada um. A compreensão de como se aprende é relevante, dentro de uma concepção de professor na condição de profissional da aprendizagem, cuja principal função é contribuir para que o outro (no caso o seu aluno) aprenda de maneira significativa, evitando a concepção de professor como mero transmissor de informações ou aquele que simplesmente “dá aula”.
 
-● _**Conhecer a opinião dos egressos acerca da formação profissional recebida:**_ além das informações básicas a serem levantadas e organizadas pelo banco de informações sobre os egressos, serão elaborados questionários rápidos, em períodos determinados, que serão enviados através da internet, por meio de correio eletrônico ou postados diretamente no sítio eletrônico do campus, em local específico a ser destinado ao relacionamento com os egressos. Será realizada ainda, uma avaliação sobre a formação recebida junto aos egressos que estão atuando em suas áreas de formação, visando à identificação de possíveis aspectos a serem fortalecidos no processo de formação. 
+Para isso, os conteúdos serão abordados a partir de princípios norteadores tais como: a consideração do conhecimento prévio do aluno e sua influência na aprendizagem, a relevância da interação social e do questionamento na construção dos conhecimentos, o papel do erro na aprendizagem, a diversidade de estratégias de ensino e de materiais instrucionais, entre outros. Estes princípios, coerentes com uma aprendizagem significativa e crítica (MOREIRA, 2010), norteiam da mesma maneira as práticas avaliativas, consideradas processuais e diversificadas conforme os diferentes objetivos e tipos de conteúdos de cada componente curricular.
 
-A partir dos dados levantados junto aos egressos e de outras informações pertinentes a serem observadas, serão reunidos e organizados dados que possibilitem a reflexão do desempenho do processo educacional proporcionado pelo curso, de forma a promover a avaliação interna pelos docentes. 
+Os componentes curriculares pedagógicos de caráter teórico serão abordados por metodologias de ensino que privilegiem situações de discussão, reflexão e análise de casos. Os componentes curriculares pedagógicos aplicados, se nortearão pela produção e análise de materiais didáticos para os conteúdos específicos, bem como a interação com os mais variados ambientes de aprendizagem e outros profissionais da educação com maior experiência. Os componentes curriculares de estágio supervisionado estarão baseados em situações de aprendizagem e atuação nos mais variados contextos profissionais desenvolvendo uma real interação com seu ambiente de trabalho.
 
-## **3.6. Perfil do Curso** 
+Os docentes do curso, quando do quadro próprio da instituição, atuarão paralelamente no Ensino Médio e Técnico, como forma de fomentar a integração entre o ensino superior e o médio, oportunizando a realização de projetos educativos conjuntos assim como o uso dos mesmos laboratórios didáticos nos dois níveis de ensino. Esta peculiaridade na docência do IFPR contribui para uma aproximação da prática pedagógica dos docentes do curso de Licenciatura e dos futuros professores, evitando uma dissociação, muito comum na formação docente, entre quem ensina e o campo profissional destes alunos.
 
-A formação docente se dá em processo permanente e contínuo. Baseados no seu processo de escolarização e na forma como foram educados, os futuros professores, quando iniciam seus cursos de Licenciatura, já possuem concepções sobre o ato de ensinar provenientes de experiências próprias como estudante. Segundo essas concepções, para ensinar basta conhecer o conteúdo e utilizar algumas técnicas pedagógicas. Esta visão simplista é, por sua vez, reforçada pelo modelo usual de formação naqueles cursos, que é calcado na racionalidade técnica. Com base nesse modelo, os currículos de formação profissional tendem a separar o mundo acadêmico do mundo da prática. Assim, propiciam um sólido conhecimento básico-teórico no início do curso, com subsequentes disciplinas de ciências aplicadas desse conhecimento para, ao final, 
+Como nos informa Tardif (2008), uma das principais referências na construção da prática pedagógica dos professores é a experiência anterior na condição de aluno, ou seja, os exemplos de seus professores ao longo da sua trajetória escolar moldam de maneira significativa o modo como esse futuro professor se manifestará em situações de ensino. Em vista disso, e por coerência, a variedade de estratégias didático-pedagógicas, sistematizadas nos componentes curriculares de caráter mais educacional, não pode estar dissociada da prática docente dos componentes curriculares de caráter de conteúdo específico de Física oferecida aos licenciandos. Ou seja, não se pode exigir que os futuros professores realizem em suas salas de aula o que não vêem aplicado na própria formação. “Trata-se, pois, de uma questão de coerência entre o que os educadores aprendem (e como aprendem) e o que se lhes pede que ensinem (e como ensinam) em suas aulas,
 
-22 
+tanto no que se refere a conteúdos quanto a enfoques, métodos, valores e atitudes.” (Reali e Mizuami, 2002, p.39).
 
-**==> picture [486 x 54] intentionally omitted <==**
+A organização do curso superior de Licenciatura em Física do Campus de Ivaiporã tem como princípio educativo a relação teoria-prática. Dessa forma, o processo pedagógico estará centrado em aulas presenciais, seminários, palestras, visitas técnicas, pesquisas, práticas laboratoriais, estudos de caso, desenvolvimento de projetos, atividades em ambientes virtuais de aprendizagem (EAD), além de atividades interdisciplinares.
 
-chegarem à prática profissional com os famosos estágios. No caso da formação docente, esse modelo concebe e constrói o professor como técnico, pois entende a atividade profissional como essencialmente instrumental, dirigida para a solução de problemas mediante a aplicação de teorias e técnicas. No entanto, há aqui sérios condicionantes que conferem pouca efetividade a essa formação: i) os problemas nela abordados são abstraídos das circunstâncias reais, constituindo-se em problemas ideais que não se aplicam às situações práticas, ou seja, instaura-se o distanciamento entre teoria e prática; ii) a formação dita "pedagógica" é dissociada da formação científica específica, configurando caminhos paralelos que quase nunca se cruzam ao longo do curso, sendo os responsáveis pela crise das licenciaturas. 
+## **3.6.3. Atividades Práticas Supervisionadas (APS)**
 
-Mesmo com relação ao conhecimento ou domínio do conteúdo a ser ensinado, a literatura revela que tal necessidade docente vai além do que habitualmente é contemplado nos cursos de formação inicial, implicando conhecimentos profissionais relacionados à história e filosofia das ciências, às orientações metodológicas empregadas na construção de conhecimento científico, às relações entre Ciência, Tecnologia e Sociedade, e perspectivas do desenvolvimento científico. 
+As Atividades Práticas Supervisionadas (APS) no curso de Licenciatura em Física do IFPR - Campus Ivaiporã são práticas acadêmicas planejadas para enriquecer o processo de ensino-aprendizagem, promovendo a integração entre teoria e prática na formação docente. Conforme estabelecido pela Portaria PROENS/IFPR nº 150/2024, as APS são parte da carga horária das disciplinas do curso, sendo desenvolvidas sob a orientação, supervisão e avaliação de docentes.
 
-Com o propósito de contribuir para a melhoria da formação docente, vários trabalhos na área da Didática das Ciências vêm incorporando a ideia do professor-reflexivo/pesquisador, para a qual convergem as perspectivas atuais. Estas consideram a reflexão e a investigação sobre a prática docente como necessidades formativas, tornando-se constitutivas das próprias atividades do professor, como condições para o seu desenvolvimento profissional e melhoria de sua ação docente. Nesse sentido, é fundamental que licenciados em Ciências/Física sejam iniciados na prática da pesquisa educacional e que professores universitários estabeleçam parcerias entre si e com professores do Ensino Médio e Fundamental como forma de serem introduzidos na investigação didática e no processo contínuo de desenvolvimento profissional. 
+A estrutura das APS permite aos licenciandos vivenciar experiências práticas voltadas ao ensino de Física, desenvolvendo estratégias pedagógicas, experimentação e reflexões sobre a prática docente. As APS visam fortalecer a formação de competências didático-metodológicas, essenciais para a atuação profissional na educação básica, além de incentivar a produção acadêmica e a inovação em ensino de ciências.
 
-Na perspectiva de formar um professor-reflexivo/pesquisador este curso traz uma proposta concreta de interligação entre teoria e prática, bem como dos conhecimentos de Física enfocando conceitos aplicados à indústrias como núcleo integrador dos estudos a serem implementados pelo futuro professor. Neste sentido, este Projeto Pedagógico aparece como inovador e tem o propósito de contribuir para a melhoria da formação dos docentes da área de Física, na medida em que representa uma possibilidade concreta de permear diversos conceitos e dar sentido prático-reflexivo aos estudos da Física. 
+As atividades podem ser desenvolvidas em diferentes formatos, tais como:
 
-Segundo as Diretrizes Curriculares Nacionais, aqui objetivamos formar o profissional Físico-Educador, dedicado preferencialmente à formação e à disseminação do saber científico em diferentes instâncias sociais seja através da atuação no ensino escolar formal, como também em ambientes não formais e informais, seja por meio de novas formas de educação científica, como vídeos, _softwares_ , ou outros meios de comunicação. 
+- Elaboração e aplicação de sequências didáticas para o ensino de Física;
 
-Não nos ateríamos ao perfil da atual Licenciatura em Física, que está orientada, simplesmente, para o Ensino Médio formal. Ao contrário, visamos promover uma abordagem teórico-metodológica que proporcione ao longo do curso autonomia e flexibilidade ao licenciando na construção do seu conhecimento, mesclando conceitos e práticas científicas e pedagógicas. 
+- Desenvolvimento de experimentos de física com materiais acessíveis;
 
-## **3.6.1. Relação entre Ensino, Pesquisa, Extensão e Inovação** 
+- Pesquisa sobre metodologias ativas no ensino de Física;
 
-23 
+- Organização de feiras de ciência e projetos interdisciplinares;
 
-**==> picture [486 x 54] intentionally omitted <==**
+- Produção de materiais didáticos digitais e físicos;
 
-É fato que ensino, pesquisa, extensão e inovação formem uma relação indissociável, visto que, se forem consideradas somente as relações duais, a articulação entre o ensino e a extensão aponta para uma formação que se preocupa com os problemas da sociedade contemporânea, mas carece da pesquisa, responsável pela produção do conhecimento científico. Por outro lado, se associados o ensino e a pesquisa, se ganha terreno em frentes como a tecnologia, por exemplo, mas se incorre o risco de perder a compreensão ético-político-social conferida quando se pensa no destinatário final desse saber científico, a sociedade. E quando a articulação entre extensão e pesquisa exclui o ensino, se perde a dimensão formativa que dá sentido à escola. 
+- Aplicação de novas tecnologias na educação em Física;
 
-Nessa perspectiva, algumas estratégias são traçadas para se atender as relações entre ensino, pesquisa, extensão e inovação como: projetos interdisciplinares, capazes de integrar áreas de conhecimento, de apresentar resultados práticos e objetivos e que são propostos pelo coletivo envolvido no projeto; implementação sistemática de cursos de extensão, seminários, fóruns, palestras e outros que articulam os currículos a temas de relevância social, local e/ou regional e que potencializem recursos materiais, físicos e humanos disponíveis; flexibilização de conteúdos por meio de componentes curriculares e de outros mecanismos de organização de estudos que contemplem conhecimentos relevantes, capazes de responder a demandas pontuais e de grande valor para a comunidade interna e externa; previsão de horas-aula, para viabilizar a construção de trajetórias curriculares por meio do envolvimento em eventos, em projetos de pesquisa e extensão; espaços para reflexão e construção de ações coletivas, que atendam a demandas específicas como debates, grupos de estudo e similares; oferta de intercâmbio entre estudantes de diferentes campus, institutos e instituições educacionais considerando a equivalência de estudos. 
+- Oficinas pedagógicas e treinamentos para o uso de laboratórios de ensino;
 
-Desde o início das atividades do campus, muitas ações de ensino, pesquisa, extensão e inovação vêm sendo desenvolvidas pelo corpo docente para garantir a qualidade dos cursos técnicos. Vale dizer que as atividades que foram desenvolvidas nesses projetos serviram e estão servindo de experiência para um salto maior, que é de ofertar cursos (como este) de nível superior. 
+- Desenvolvimento de artigos acadêmicos sobre ensino de Física;
 
-Neste curso de Licenciatura em Física, as ferramentas de informática como _softwares_ educativos, plataformas gráficas e de comunicação serão imprescindíveis e farão parte dos novos projetos, tendo em vista os programas governamentais no sentido de implantar laboratórios de informática em escolas públicas do município. 
+- Listas de exercícios e outras atividades;
 
-As atividades experimentais tanto em Física como em informática, além das discussões conceituais promoverão ao longo do tempo um despertar em Ivaiporã e região. Esse despertar permitirá ao Ensino de Ciências caminhar a passos mais largos nos próximos anos, aumentando o interesse pelas carreiras científicas como Matemática, Física e Química. 
+- Entre outros.
 
-Os estudantes dedicarão esforços na organização e realização de Semanas Acadêmicas de Física e participarão da Semana Nacional de Ciência e Tecnologia (SNCT), realizada pelo Ministério da Ciência, Tecnologia e Inovação. Nestes eventos os alunos participarão de palestras, mesas-redondas e minicursos oferecidos tanto pelos docentes do curso quanto por professores de outras áreas correlatas (ou convidados de outras instituições), sempre com temas voltados para o interesse dos alunos. 
+As APS devem ser detalhadas nos Planos de Ensino das disciplinas correspondentes, especificando carga horária, cronograma, conteúdo, metodologia e critérios de avaliação. Os docentes são responsáveis por comunicar previamente aos discentes as diretrizes das APS e garantir a acessibilidade para estudantes com Necessidades Educacionais Específicas (NEE).
 
-Além de todas as ações já elencadas, a partir de 2023, em atendimento à Instrução Normativa 1/2021 e a Resolução Consup/IFPR nº11/2018, o curso contará com 320h, o equivalente a 10% de sua carga horária total, dedicada às ações de extensão curricularizadas. Tais ações poderão ser implementadas com o desenvolvimento de 
+As APS são limitadas a até 10% da carga horária da disciplina podendo ser presenciais não circunscritas à sala de aula, ou realizadas por meio de tecnologias digitais, respeitando os objetivos pedagógicos do curso. Todas as atividades devem ser registradas no Sistema Unificado de Administração Pública (SUAP), conforme previsto no Plano de Ensino.
 
-24 
+A realização das APS deve estar em conformidade com a Portaria PROENS/IFPR nº 150/2024 e não pode ser utilizada como reposição de aulas presenciais. Também não são permitidas APS em disciplinas que já sejam ministradas com carga horária de Educação a Distância (EaD), estágios obrigatórios, atividades de extensão ou atividades complementares.
 
-**==> picture [486 x 54] intentionally omitted <==**
+## **3.6.4. Atendimento ao Discente**
 
-projetos, cursos e oficinas, eventos. Essa carga horária será dividida entre componentes não específicos de extensão e de Atividades Curriculares de Extensão. 
+O atendimento aos discentes do Campus de Ivaiporã está ligado à Diretoria de Ensino, Pesquisa e Extensão (DIEPE) e tem por objetivo apoiar os acadêmicos da Instituição no decorrer de suas trajetórias durante o curso, buscando fomentar ações voltadas à assistência estudantil. Dessa forma, alguns serviços são oferecidos como: programas de atendimento extraclasse pelos docentes, atendimento psicopedagógico, orientação educacional, programas de nivelamento, projetos de pesquisa, ações de extensão, serviços de biblioteca, entre outros.
 
-## **3.6.2. Metodologia e Estratégias Pedagógicas** 
+## **3.6.5. Educação Inclusiva**
 
-As atividades de ensino dos componentes curriculares do conhecimento físico, sejam teóricas ou experimentais, terão como foco metodológico a meta-aprendizagem, ou seja, a discussão de como se está aprendendo determinado conhecimento, bem como as diferenças ou estilos de aprendizagem utilizados por cada um. A compreensão de como se aprende é relevante, dentro de uma concepção de professor na condição de profissional da aprendizagem, cuja principal função é contribuir para que o outro (no caso o seu aluno) aprenda de maneira significativa, evitando a concepção de professor como mero transmissor de informações ou aquele que simplesmente “dá aula”. 
+O Campus de Ivaiporã do IFPR, visando à educação inclusiva, está implantando o Núcleo de Apoio às Pessoas com Necessidades Especiais (NAPNE), vinculado à DIEPE, cujo principal objetivo é a construção de uma escola que acolhe e que agrega conhecimentos e valores morais, onde não existam mecanismos de discriminação que impeçam o acesso, a permanência e conclusão de todos os alunos.
 
-Para isso, os conteúdos serão abordados a partir de princípios norteadores tais como: a consideração do conhecimento prévio do aluno e sua influência na aprendizagem, a relevância da interação social e do questionamento na construção dos conhecimentos, o papel do erro na aprendizagem, a diversidade de estratégias de ensino e de materiais instrucionais, entre outros. Estes princípios, coerentes com uma aprendizagem significativa e crítica (MOREIRA, 2010), norteiam da mesma maneira as práticas avaliativas, consideradas processuais e diversificadas conforme os diferentes objetivos e tipos de conteúdos de cada componente curricular. 
+O NAPNE está em consonância com o fortalecimento das políticas de  inclusão educacional, estabelecidas pelo Plano de Desenvolvimento da Educação (PDE), na Política Nacional de Educação Especial na Perspectiva da Educação Inclusiva e no Decreto Nº. 6571/2008 que dispõe sobre o atendimento educacional especializado. Pretende desenvolver ações voltadas para alunos e servidores, visando expandir conhecimentos acerca da educação inclusiva, articular ações e iniciativas para alcançar os objetivos da educação inclusiva, estimular a reflexão crítica dos servidores sobre a inclusão escolar e preparar os diferentes setores da instituição para trabalhar com a realidade da inclusão escolar de pessoas com necessidades especiais.
 
-Os componentes curriculares pedagógicos de caráter teórico serão abordados por metodologias de ensino que privilegiem situações de discussão, reflexão e análise de casos. Os componentes curriculares pedagógicos aplicados, se nortearão pela produção e análise de materiais didáticos para os conteúdos específicos, bem como a interação com os mais variados ambientes de aprendizagem e outros profissionais da educação com maior experiência. Os componentes curriculares de estágio supervisionado estarão baseados em situações de aprendizagem e atuação nos mais variados contextos profissionais desenvolvendo uma real interação com seu ambiente de trabalho. 
+Atualmente, de acordo com o Decreto 5296/04, o campus tem condições de receber pessoas com mobilidade reduzida, ou seja, o campus está adaptado no que diz respeito à acessibilidade e também às pessoas com deficiência auditiva parcial. Nos próximos anos, com a estruturação do NAPNE, a instituição será capaz de desenvolver várias ações inclusivas em prol de um atendimento qualitativo às necessidades nas áreas das diversas deficiências.
 
-Os docentes do curso, quando do quadro próprio da instituição, atuarão paralelamente no Ensino Médio e Técnico, como forma de fomentar a integração entre o ensino superior e o médio, oportunizando a realização de projetos educativos conjuntos assim como o uso dos mesmos laboratórios didáticos nos dois níveis de ensino. Esta peculiaridade na docência do IFPR contribui para uma aproximação da prática pedagógica dos docentes do curso de Licenciatura e dos futuros professores, evitando uma dissociação, muito comum na formação docente, entre quem ensina e o campo profissional destes alunos. 
+## **3.6.6. Integração com a Pós-Graduação**
 
-Como nos informa Tardif (2008), uma das principais referências na construção da prática pedagógica dos professores é a experiência anterior na condição de aluno, ou seja, os exemplos de seus professores ao longo da sua trajetória escolar moldam de maneira significativa o modo como esse futuro professor se manifestará em situações de ensino. Em vista disso, e por coerência, a variedade de estratégias didático-pedagógicas, sistematizadas nos componentes curriculares de caráter mais educacional, não pode estar dissociada da prática docente dos componentes curriculares de caráter de conteúdo específico de Física oferecida aos licenciandos. Ou seja, não se pode exigir que os futuros professores realizem em suas salas de aula o que não vêem aplicado na própria formação. “Trata-se, pois, de uma questão de coerência entre o que os educadores aprendem (e como aprendem) e o que se lhes pede que ensinem (e como ensinam) em suas aulas, 
+Atualmente o Campus de Ivaiporã do IFPR não atua em nível de Pós-Graduação, entretanto, encontra-se no planejamento do eixo a verticalização, com oferta de um curso de especialização _latu senso_ e um programa de mestrado profissional até o ano de 2025. Tal integração e a verticalização do ensino já são pensadas desde o início das atividades do campus, em várias reflexões feitas em reuniões de cunho pedagógico, organizadas pela
 
-25 
+Direção Geral. Para que isso seja possível, a literatura aponta em uma direção fundamental: a pesquisa. A pesquisa precisa ser motivada e ensinada ao longo da Educação Básica. O ensino não deve se restringir exclusivamente na transmissão e aquisição de conhecimentos/informações e sim, transformar-se no _locus_ por excelência da construção/produção de conhecimento, onde o aluno possa atuar como protagonista no processo de pesquisa e aprendizagem.
 
-**==> picture [486 x 54] intentionally omitted <==**
+Dessa forma, as integrações entre Ensino Técnico, Ensino Superior e Pós-Graduação são realizadas no Campus de Ivaiporã através dos diversos projetos de pesquisa e ações de extensão propostas pelos professores-pesquisadores nos mais diversos programas de apoio aos acadêmicos, já discutidos no item 3.4.1 deste projeto.
 
-tanto no que se refere a conteúdos quanto a enfoques, métodos, valores e atitudes.” (Reali e Mizuami, 2002, p.39). 
+## **3.6.7 Tecnologias Digitais de Informação e Comunicação**
 
-A organização do curso superior de Licenciatura em Física do Campus de Ivaiporã tem como princípio educativo a relação teoria-prática. Dessa forma, o processo pedagógico estará centrado em aulas presenciais, seminários, palestras, visitas técnicas, pesquisas, práticas laboratoriais, estudos de caso, desenvolvimento de projetos, atividades em ambientes virtuais de aprendizagem (EAD), além de atividades interdisciplinares. 
+As Tecnologias Digitais da Informação e Comunicação (TDIC) são consideradas um fenômeno e se encontram fortemente instaurada na sociedade informacional, por possibilitar novas dinâmicas sociais, as quais fortalecem a cibercultura e por consequência influenciam o contexto educacional, inclusive desafiam os professores a repensarem suas práticas pedagógicas. O que chamamos atualmente de cibercultura emerge das relações entre as tecnologias de comunicação digitais e a vida social, ou seja, “a internet encarna a presença da humanidade a ela própria, já que todas as culturas, todas as disciplinas, todas as paixões aí se entrelaçam” (LEMOS,2002, p.12). Enquanto a virtualidade derivada do surgimento da internet, Lévy (1998, p.15) confere ao “lugar virtual quatro eixos primordiais: o tempo real, a desterritorialidade, a imaterialidade e a interatividade”.
 
-## **3.6.3. Atividades Práticas Supervisionadas (APS)** 
+Sobre os quatro eixos e seus desdobramentos, o professor certamente pode atuar como agente de mudança ao valorizar os interesses e necessidades de seus alunos, ao utilizar como ponto de partida de seu trabalho pedagógico os recursos e conhecimentos cotidianos emergentes no contexto, derivados dos meios tecnológicos, os quais requerem compreensão na perspectiva de uma educação emancipatória.
 
-As Atividades Práticas Supervisionadas (APS) no curso de Licenciatura em Física do IFPR - Campus Ivaiporã são práticas acadêmicas planejadas para enriquecer o processo de ensino-aprendizagem, promovendo a integração entre teoria e prática na formação docente. Conforme estabelecido pela Portaria PROENS/IFPR nº 150/2024, as APS são parte da carga horária das disciplinas do curso, sendo desenvolvidas sob a orientação, supervisão e avaliação de docentes. 
+O tempo é notavelmente o fenômeno que diferencia os processos de comunicação, tornando-o singular na contemporaneidade, devido à rapidez proporcionada. Enquanto que a desterritorialidade rompe com as fronteiras físicas impostas e apresenta um novo cenário, onde “tudo” pode estar interligado, traduzindo a interdependência entre diferentes fatores, inclusive a relevância das ciências cognitivas na formação profissional docente. A imaterialidade, advinda das possibilidades digitais, favorece inúmeras combinações para o transporte das informações, dinamizando o processo de ensino aprendizagem da Física, tornando-a mais atraente e dinâmica. Por outro lado, a interatividade proporcionada pelos meios digitais, assume neste contexto, a necessidade da ação dos sujeitos frente ao objeto, bem como a necessidade de articulações entre teoria e prática na formação do professor de Física. Assim, a interdependência entre os quatros eixos confere ao ambiente virtual o lugar, digamos, de passagem, desterritorializado, imaterial e interativo, com inúmeras possibilidades de potencialização, mas também de percalços e de armadilhas por todos os lados. Compete ao professor saber utilizar os recursos em favor da aprendizagem e explorar novas possibilidades metodológicas por meio de suportes diferenciados.
 
-A estrutura das APS permite aos licenciandos vivenciar experiências práticas voltadas ao ensino de Física, desenvolvendo estratégias pedagógicas, experimentação e reflexões sobre a prática docente. As APS visam fortalecer a formação de competências didático-metodológicas, essenciais para a atuação profissional na educação básica, além de incentivar a produção acadêmica e a inovação em ensino de ciências. 
+Assim sendo, no processo ensino aprendizagem, os dispositivos manifestados pelas TDIC precisam ser projetados em conformidade aos nossos estudantes, adequados às finalidades e objetivos educacionais, na tentativa de tornar os aparatos de comunicação digitais, uma espécie de prolongamento ou extensão dos órgãos e sentidos, simulando seu funcionamento, pois [...] “as consequências sociais e pessoais, de qualquer meio [...] de
 
-As atividades podem ser desenvolvidas em diferentes formatos, tais como: 
+qualquer uma das extensões de nós mesmos, constituem o resultado do novo estalão introduzidos em nossas vidas por uma nova tecnologia ou extensão de nós mesmos”.(MCLUHAN,1979, p.21-22). Frente ao exposto, podemos afirmar que as TDIC vêm proporcionando transformações na vida das pessoas, por estabelecer uma cultura guiada pelas redes e sinalizar alterações nas formas de pensar e agir socialmente, derivadas das facilidades e rapidez, uma espécie de extensão do corpo e da mente.
 
-- Elaboração e aplicação de sequências didáticas para o ensino de Física; 
+A evolução dos aparatos comunicacionais, sua popularização e acessos pela sociedade são indicadores significativos que provocam mudanças, as quais se entrecruzam e manifestam relações e similaridades entre o advento da cibercultura e o surgimento de outras conquistas no processo de evolução da humanidade, e que exigem dos sujeitos adaptações e a educação não pode estar alheia a tais fenômenos contemporâneos. As TDIC têm provocado profundas reestruturações, qualitativas e quantitativas na sociedade no que se refere à forma de veicular informações e conhecimentos os quais precisam ser explorados na perspectiva de dinamizar o processo ensino aprendizagem em Física. Nesta perspectiva, Castells (2007) corrobora ao antever que o conhecimento e a aprendizagem são trunfos maiores nas sociedades e economias do futuro, sendo possível sua potencialização por meio das tecnologias digitais. Sabemos que existem várias formas de conceber e instaurar um processo educativo de qualidade, pois não se trata de uma realidade única e acabada, mas de um fenômeno humano, histórico, social e cultural. Assim, pautado nas dimensões crítica, reflexiva e significativa é que se pretende formar professores para atuar na área de Física na Educação Básica.
 
-- Desenvolvimento de experimentos de física com materiais acessíveis; 
+No contexto atual, as transformações socioculturais derivadas destes fenômenos, por serem muito rápidas, e até mesmo profundas nos diferentes segmentos da sociedade, fornecem indicadores que colocam em evidência antigas certezas no processo de ensino aprendizagem. Estes pressupostos são compreendidos mediante a capacidade dos humanos em engajar-se na cooperação intelectual de forma criativa, seja por inventar, inovar conhecimentos, multiplicar ideias, os quais consolidam o ciberespaço como uma espécie de universo interligado por memórias que possibilitam interações e transformações, de acordo com Pierre Lévy (2009). Assim a partir do contexto histórico entre ciência e tecnologia, pesquisa e inclusão, buscar-se- á inserir os estudantes em um ambiente de aprendizagem crítico e colaborativo, em que além de inserir-se no conhecimento já desenvolvido pela humanidade, seja capaz de aplicá-lo e inovar de forma contextualizada a partir dele.
 
-- Pesquisa sobre metodologias ativas no ensino de Física; 
+Frente às inúmeras possibilidades em usufruir das TDIC do processo de ensino aprendizagem, tornam-se necessários cada vez mais, verificar de que forma as instituições de ensino podem contribuir para a democratização do acesso à informação e conhecimento.
 
-- Organização de feiras de ciência e projetos interdisciplinares; 
+Democratizar o acesso perpassa por vários fatores, inclusive culturais e sociais, considerando que a comunidade escolar em especial das escolas públicas, pertencem a grupos menos favorecidos social e economicamente os quais requer acesso a estas tecnologias para usufruir dos seus benefícios, fatos que certamente contribuíram para a diminuição dos riscos de acentuação das desigualdades. Trata-se da criação de uma nova cultura no âmbito do espaço educacional, por envolver entre outros, a preparação no percurso formativo e a capacitação de professores em torno do uso das TDIC no processo pedagógico.
 
-- Produção de materiais didáticos digitais e físicos; 
+Muitos são os desafios da educação, por um lado, as facilidades ao acesso à informação e conhecimentos e a aquisição de aparelhos móveis pelos alunos; por outro, as discrepâncias estruturais das instituições de ensino, mais precisamente as públicas, muitas
 
-- Aplicação de novas tecnologias na educação em Física; 
+vezes com laboratórios repletos de computadores ultrapassados, acesso à internet limitado, entre outros. Enfim, os problemas são diversos, mas sabemos da necessidade de revisões conceituais e técnicas que possam contribuir para a aprendizagem do aluno, seja por parte dos professores que precisam rever suas práticas e usufruir dos recursos que as TDIC podem proporcionar, bem como de investimentos públicos em infraestruturas adequadas.
 
-- Oficinas pedagógicas e treinamentos para o uso de laboratórios de ensino; 
+Corroboramos com o pensamento de que as ferramentas comunicacionais devem estar a serviço do processo de ensino aprendizagem, excluindo a concepção messiânica de que, por si só, essas tecnologias transformarão a educação em nosso país. Como potencializador, esses novos aparatos dependem de outros fatores que, de acordo com o pensamento de Almeida e Fonseca Junior (2000), o que determina a eficácia do ensino e da aprendizagem é a existência de um plano pedagógico de natureza qualitativa, com capacidades para integrar todas as possíveis dimensões, evitando inconsistências. Portanto, as TDIC têm proporcionado o acesso à informação e conhecimentos, por possibilitar interações comunicacionais em redes, entendidas como ponto de encontro, de construção e desconstrução de saberes, impondo novos olhares, onde os papéis de aprendente e ensinante se misturam, dando um novo sentido de ser e estar perante o objeto, ao permitir, simultaneamente, a apropriação, a produção e a transferência de informações e conhecimentos.
 
-- Desenvolvimento de artigos acadêmicos sobre ensino de Física; 
+## **3.7 AVALIAÇÃO**
 
-- Listas de exercícios e outras atividades; 
+## **3.7.1 Avaliação da Aprendizagem:**
 
-- Entre outros. 
+O Projeto Pedagógico do Curso de Licenciatura do Campus Ivaiporã do Instituto Federal do Paraná - IFPR, fundamenta a avaliação da aprendizagem dos educandos a partir do que regula a LEI N.º 9.394 de 20 de dezembro de 1996, Lei de Diretrizes e Lei de Diretrizes e Bases da Educação Nacional, assim como também segue as orientações da Portaria 120/2009 do IFPR.
 
-As APS devem ser detalhadas nos Planos de Ensino das disciplinas correspondentes, especificando carga horária, cronograma, conteúdo, metodologia e critérios de avaliação. Os docentes são responsáveis por comunicar previamente aos discentes as diretrizes das APS e garantir a acessibilidade para estudantes com Necessidades Educacionais Específicas (NEE). 
+## A LDB[1], no Artigo 24, Parágrafo V, regula:
 
-As APS são limitadas a até 10% da carga horária da disciplina podendo ser presenciais não circunscritas à sala de aula, ou realizadas por meio de tecnologias digitais, respeitando os objetivos pedagógicos do curso. Todas as atividades devem ser registradas no Sistema Unificado de Administração Pública (SUAP), conforme previsto no Plano de Ensino. 
+“ _A verificação do rendimento escolar observará os seguintes critérios_
 
-26 
+_a) avaliação contínua e cumulativa do desempenho do aluno, com prevalência dos aspectos qualitativos sobre os quantitativos e dos resultados ao longo do período sobre os de eventuais provas finais;_
 
-**==> picture [486 x 54] intentionally omitted <==**
+_b) possibilidade de aceleração de estudos para alunos com atraso escolar;_
 
-A realização das APS deve estar em conformidade com a Portaria PROENS/IFPR nº 150/2024 e não pode ser utilizada como reposição de aulas presenciais. Também não são permitidas APS em disciplinas que já sejam ministradas com carga horária de Educação a Distância (EaD), estágios obrigatórios, atividades de extensão ou atividades complementares. 
+_c) possibilidade de avanço nos cursos e nas séries mediante verificação do aprendizado;_
 
-## **3.6.4. Atendimento ao Discente** 
+_d) aproveitamento de estudos concluídos com êxito;_
 
-O atendimento aos discentes do Campus de Ivaiporã está ligado à Diretoria de Ensino, Pesquisa e Extensão (DIEPE) e tem por objetivo apoiar os acadêmicos da Instituição no decorrer de suas trajetórias durante o curso, buscando fomentar ações voltadas à assistência estudantil. Dessa forma, alguns serviços são oferecidos como: programas de atendimento extraclasse pelos docentes, atendimento psicopedagógico, orientação educacional, programas de nivelamento, projetos de pesquisa, ações de extensão, serviços de biblioteca, entre outros. 
+_e) obrigatoriedade de estudos de recuperação, de preferência paralelos ao período letivo, para os casos de baixo rendimento escolar, a serem disciplinados pelas instituições de ensino em seus regimentos;_
 
-## **3.6.5. Educação Inclusiva** 
+Ciente deste compromisso legal, o Campus Ivaiporã do IFPR, em seu processo ensino-aprendizagem, por meio de um plano de avaliação didaticamente definido em uma postura pedagógica da formação integral, busca aplicar uma avaliação que promova o crescimento científico, humano, tecnológico e empreendedor.
 
-O Campus de Ivaiporã do IFPR, visando à educação inclusiva, está implantando o Núcleo de Apoio às Pessoas com Necessidades Especiais (NAPNE), vinculado à DIEPE, cujo principal objetivo é a construção de uma escola que acolhe e que agrega conhecimentos e valores morais, onde não existam mecanismos de discriminação que impeçam o acesso, a permanência e conclusão de todos os alunos. 
+Fundamentado em um processo pedagógico crítico, significativo e reflexivo sobre a
 
-O NAPNE está em consonância com o fortalecimento das políticas de  inclusão educacional, estabelecidas pelo Plano de Desenvolvimento da Educação (PDE), na Política Nacional de Educação Especial na Perspectiva da Educação Inclusiva e no Decreto Nº. 6571/2008 que dispõe sobre o atendimento educacional especializado. Pretende desenvolver ações voltadas para alunos e servidores, visando expandir conhecimentos acerca da educação inclusiva, articular ações e iniciativas para alcançar os objetivos da educação inclusiva, estimular a reflexão crítica dos servidores sobre a inclusão escolar e preparar os diferentes setores da instituição para trabalhar com a realidade da inclusão escolar de pessoas com necessidades especiais. 
+aprendizagem, o Projeto Pedagógico da Licenciatura em Física propõe um processo avaliativo contínuo, que garanta ao aluno o desenvolvimento da formação humana, cidadã e para o mundo do trabalho, inerentes ao perfil do profissional egresso, assim como também dos componentes curriculares que orientam à sua formação docente. Conforme Saviani(2008, p. 31),
 
-Atualmente, de acordo com o Decreto 5296/04, o campus tem condições de receber pessoas com mobilidade reduzida, ou seja, o campus está adaptado no que diz respeito à acessibilidade e também às pessoas com deficiência auditiva parcial. Nos próximos anos, com a estruturação do NAPNE, a instituição será capaz de desenvolver várias ações inclusivas em prol de um atendimento qualitativo às necessidades nas áreas das diversas deficiências. 
+_[...] trata-se de retomar vigorosamente a luta contra a seletividade, a discriminação e o rebaixamento do ensino das camadas populares. Lutar contra a marginalidade por meio da escola significa engajar-se no esforço para garantir aos trabalhadores um ensino de melhor qualidade possível nas condições históricas atuais._
 
-## **3.6.6. Integração com a Pós-Graduação** 
+Nesta perspectiva, a educação é entendida como mediação no centro da prática social global. A prática social se apresenta, portanto, como o ponto de partida e de chegada da prática educativa. Daí decorre um método pedagógico que parte da prática social, onde professor e aluno se encontram igualmente inseridos, ocupando, porém, posições distintas, condição para que travem uma relação fecunda na compreensão e encaminhamento da solução dos problemas postos pela prática social, cabendo aos momentos intermediários do método identificar as questões suscitadas pela prática social (problematização), dispor os instrumentos teóricos e práticos para a sua compreensão e solução (instrumentação) e viabilizar sua incorporação como elementos integrantes da própria vida dos alunos (catarse).
 
-Atualmente o Campus de Ivaiporã do IFPR não atua em nível de Pós-Graduação, entretanto, encontra-se no planejamento do eixo a verticalização, com oferta de um curso de especialização _latu senso_ e um programa de mestrado profissional até o ano de 2025. Tal integração e a verticalização do ensino já são pensadas desde o início das atividades do campus, em várias reflexões feitas em reuniões de cunho pedagógico, organizadas pela 
+Este nível de aprendizagem, desenvolvido frente aos problemas inerentes em todos os componentes curriculares, será definido continuamente pelo docente, em sintonia com o contexto sociocultural em que se encontra. O docente, ao propor os problemas de aprendizagem, por meio do seu método de ensino, também deixará evidente que o crescimento do discente dependerá do seu grau de esforço e da intensidade com que se dedicará nos estudos. Esforço em prol de uma educação que promova a qualificação e não somente a quantificação ou classificação dos alunos.
 
-27 
+Luckesi (2008, p. 66.), afirma que:
 
-**==> picture [486 x 54] intentionally omitted <==**
+_A Avaliação da aprendizagem existe propriamente para garantir a qualidade da aprendizagem do aluno. Ela tem a função de possibilitar uma qualificação da aprendizagem do educando. Observar bem que estamos falando de qualificação do educando e não classificação. O modo de utilização classificatória da avaliação, como veremos a seguir, é um lídimo modo de fazer da avaliação do aluno um instrumento de ação contra a democratização do ensino, na medida em que ela não serve para auxiliar o avanço e crescimento do educando, mas sim para assegurar a sua estagnação, em termos de apropriação dos conhecimentos e habilidades mínimos necessários._
 
-Direção Geral. Para que isso seja possível, a literatura aponta em uma direção fundamental: a pesquisa. A pesquisa precisa ser motivada e ensinada ao longo da Educação Básica. O ensino não deve se restringir exclusivamente na transmissão e aquisição de conhecimentos/informações e sim, transformar-se no _locus_ por excelência da construção/produção de conhecimento, onde o aluno possa atuar como protagonista no processo de pesquisa e aprendizagem. 
+Esta proposta de avaliação qualificativa é que referencia as atividades pedagógicas e didáticas no campus Ivaiporã do Instituto Federal do Paraná. Por este motivo, possui um plano de avaliação institucional que fundamenta o processo formativo dos cursos superiores de Licenciatura.
 
-Dessa forma, as integrações entre Ensino Técnico, Ensino Superior e Pós-Graduação são realizadas no Campus de Ivaiporã através dos diversos projetos de pesquisa e ações de extensão propostas pelos professores-pesquisadores nos mais diversos programas de apoio aos acadêmicos, já discutidos no item 3.4.1 deste projeto. 
+O Projeto Pedagógico do Curso Licenciatura em Física propõe um processo avaliativo que realmente garanta ao aluno o desenvolvimento da formação humana, cidadã e para o mundo do trabalho, inerentes ao perfil do profissional egresso, assim como também dos componentes curriculares que orientam à sua formação superior.
 
-## **3.6.7 Tecnologias Digitais de Informação e Comunicação** 
+Com este foco, o Campus Ivaiporã, seguindo as orientações do Instituto Federal do Paraná, através da Portaria 120/2009, que regulamenta os critérios desta modalidade de
 
-As Tecnologias Digitais da Informação e Comunicação (TDIC) são consideradas um fenômeno e se encontram fortemente instaurada na sociedade informacional, por possibilitar novas dinâmicas sociais, as quais fortalecem a cibercultura e por consequência influenciam o contexto educacional, inclusive desafiam os professores a repensarem suas práticas pedagógicas. O que chamamos atualmente de cibercultura emerge das relações entre as tecnologias de comunicação digitais e a vida social, ou seja, “a internet encarna a presença da humanidade a ela própria, já que todas as culturas, todas as disciplinas, todas as paixões aí se entrelaçam” (LEMOS,2002, p.12). Enquanto a virtualidade derivada do surgimento da internet, Lévy (1998, p.15) confere ao “lugar virtual quatro eixos primordiais: o tempo real, a desterritorialidade, a imaterialidade e a interatividade”. 
+avaliação, propõe um processo avaliativo que privilegia o acompanhamento contínuo do aprendizado dos alunos e dos métodos empregados pelos docentes.
 
-Sobre os quatro eixos e seus desdobramentos, o professor certamente pode atuar como agente de mudança ao valorizar os interesses e necessidades de seus alunos, ao utilizar como ponto de partida de seu trabalho pedagógico os recursos e conhecimentos cotidianos emergentes no contexto, derivados dos meios tecnológicos, os quais requerem compreensão na perspectiva de uma educação emancipatória. 
+Ao estabelecer os critérios de avaliação do processo ensino aprendizagem, o IFPR compreende que “alunos e professores são sujeitos ativos e devem atuar de forma consciente, não apenas como parte do processo de conhecimento e aprendizagem, mas, sim, como seres humanos imersos numa cultura e que apresentam histórias particulares de vida” (Atr. 01).
 
-O tempo é notavelmente o fenômeno que diferencia os processos de comunicação, tornando-o singular na contemporaneidade, devido à rapidez proporcionada. Enquanto que a desterritorialidade rompe com as fronteiras físicas impostas e apresenta um novo cenário, onde “tudo” pode estar interligado, traduzindo a interdependência entre diferentes fatores, inclusive a relevância das ciências cognitivas na formação profissional docente. A imaterialidade, advinda das possibilidades digitais, favorece inúmeras combinações para o transporte das informações, dinamizando o processo de ensino aprendizagem da Física, tornando-a mais atraente e dinâmica. Por outro lado, a interatividade proporcionada pelos meios digitais, assume neste contexto, a necessidade da ação dos sujeitos frente ao objeto, bem como a necessidade de articulações entre teoria e prática na formação do professor de Física. Assim, a interdependência entre os quatros eixos confere ao ambiente virtual o lugar, digamos, de passagem, desterritorializado, imaterial e interativo, com inúmeras possibilidades de potencialização, mas também de percalços e de armadilhas por todos os lados. Compete ao professor saber utilizar os recursos em favor da aprendizagem e explorar novas possibilidades metodológicas por meio de suportes diferenciados. 
+Por esta razão, a avaliação não se dá de forma estanque e fechada em si mesma. Ela é um processo que se compreende como um construir contínuo e permanente, envolvendo juízo de valor sobre as manifestações da realidade. É um processo pelo qual o aluno e professor se apropriam da realidade e, pelo aprendizado recíproco, lançam propostas de mudança. Metodologicamente, o processo avaliativo é também uma tomada de decisão. Por isso, a avaliação do processo é compreendida pelo IFPR, ao considerar que: I – Para avaliar, deve-se considerar o que está sendo avaliado, como está sendo avaliado e por que e para que está sendo avaliado.
 
-Assim sendo, no processo ensino aprendizagem, os dispositivos manifestados pelas TDIC precisam ser projetados em conformidade aos nossos estudantes, adequados às finalidades e objetivos educacionais, na tentativa de tornar os aparatos de comunicação digitais, uma espécie de prolongamento ou extensão dos órgãos e sentidos, simulando seu funcionamento, pois [...] “as consequências sociais e pessoais, de qualquer meio [...] de 
+II – Para avaliar é preciso ter clareza que a avaliação do processo ensino aprendizagem envolve: os docentes, a instituição, o discente e a sociedade.
 
-28 
+III – Na avaliação, o discente deve ser considerado como um agente ativo do seu processo educativo e saber antecipadamente o que será avaliado, de maneira que as regras são estabelecidas de maneira clara e com a participação do aluno.
 
-**==> picture [486 x 54] intentionally omitted <==**
+O processo de avaliação por competência se encaminha pautado na condição de ser diagnóstica, formativa e somativa. Estas situações dialogam-se entre si e estabelecem alguns instrumentos ou meios verificadores do processo ensino aprendizagem.
 
-qualquer uma das extensões de nós mesmos, constituem o resultado do novo estalão introduzidos em nossas vidas por uma nova tecnologia ou extensão de nós mesmos”.(MCLUHAN,1979, p.21-22). Frente ao exposto, podemos afirmar que as TDIC vêm proporcionando transformações na vida das pessoas, por estabelecer uma cultura guiada pelas redes e sinalizar alterações nas formas de pensar e agir socialmente, derivadas das facilidades e rapidez, uma espécie de extensão do corpo e da mente. 
+Serão considerados meios para avaliação das competências no IFPR – Campus de Ivaiporã, no Curso Licenciatura em Física:
 
-A evolução dos aparatos comunicacionais, sua popularização e acessos pela sociedade são indicadores significativos que provocam mudanças, as quais se entrecruzam e manifestam relações e similaridades entre o advento da cibercultura e o surgimento de outras conquistas no processo de evolução da humanidade, e que exigem dos sujeitos adaptações e a educação não pode estar alheia a tais fenômenos contemporâneos. As TDIC têm provocado profundas reestruturações, qualitativas e quantitativas na sociedade no que se refere à forma de veicular informações e conhecimentos os quais precisam ser explorados na perspectiva de dinamizar o processo ensino aprendizagem em Física. Nesta perspectiva, Castells (2007) corrobora ao antever que o conhecimento e a aprendizagem são trunfos maiores nas sociedades e economias do futuro, sendo possível sua potencialização por meio das tecnologias digitais. Sabemos que existem várias formas de conceber e instaurar um processo educativo de qualidade, pois não se trata de uma realidade única e acabada, mas de um fenômeno humano, histórico, social e cultural. Assim, pautado nas dimensões crítica, reflexiva e significativa é que se pretende formar professores para atuar na área de Física na Educação Básica. 
+- Seminários;
 
-No contexto atual, as transformações socioculturais derivadas destes fenômenos, por serem muito rápidas, e até mesmo profundas nos diferentes segmentos da sociedade, fornecem indicadores que colocam em evidência antigas certezas no processo de ensino aprendizagem. Estes pressupostos são compreendidos mediante a capacidade dos humanos em engajar-se na cooperação intelectual de forma criativa, seja por inventar, inovar conhecimentos, multiplicar ideias, os quais consolidam o ciberespaço como uma espécie de universo interligado por memórias que possibilitam interações e transformações, de acordo com Pierre Lévy (2009). Assim a partir do contexto histórico entre ciência e tecnologia, pesquisa e inclusão, buscar-se- á inserir os estudantes em um ambiente de aprendizagem crítico e colaborativo, em que além de inserir-se no conhecimento já desenvolvido pela humanidade, seja capaz de aplicá-lo e inovar de forma contextualizada a partir dele. 
+- Trabalho individual e/ou em grupo;
 
-Frente às inúmeras possibilidades em usufruir das TDIC do processo de ensino aprendizagem, tornam-se necessários cada vez mais, verificar de que forma as instituições de ensino podem contribuir para a democratização do acesso à informação e conhecimento. 
+- Produção escrita e/ou oral;
 
-Democratizar o acesso perpassa por vários fatores, inclusive culturais e sociais, considerando que a comunidade escolar em especial das escolas públicas, pertencem a grupos menos favorecidos social e economicamente os quais requer acesso a estas tecnologias para usufruir dos seus benefícios, fatos que certamente contribuíram para a diminuição dos riscos de acentuação das desigualdades. Trata-se da criação de uma nova cultura no âmbito do espaço educacional, por envolver entre outros, a preparação no percurso formativo e a capacitação de professores em torno do uso das TDIC no processo pedagógico. 
+- Demonstração de técnicas em laboratório;
 
-Muitos são os desafios da educação, por um lado, as facilidades ao acesso à informação e conhecimentos e a aquisição de aparelhos móveis pelos alunos; por outro, as discrepâncias estruturais das instituições de ensino, mais precisamente as públicas, muitas 
+- Dramatização;
 
-29 
+- Apresentação do trabalho final de iniciação científica;
 
-**==> picture [486 x 54] intentionally omitted <==**
+- Artigo científico;
 
-vezes com laboratórios repletos de computadores ultrapassados, acesso à internet limitado, entre outros. Enfim, os problemas são diversos, mas sabemos da necessidade de revisões conceituais e técnicas que possam contribuir para a aprendizagem do aluno, seja por parte dos professores que precisam rever suas práticas e usufruir dos recursos que as TDIC podem proporcionar, bem como de investimentos públicos em infraestruturas adequadas. 
+- TCC;
 
-Corroboramos com o pensamento de que as ferramentas comunicacionais devem estar a serviço do processo de ensino aprendizagem, excluindo a concepção messiânica de que, por si só, essas tecnologias transformarão a educação em nosso país. Como potencializador, esses novos aparatos dependem de outros fatores que, de acordo com o pensamento de Almeida e Fonseca Junior (2000), o que determina a eficácia do ensino e da aprendizagem é a existência de um plano pedagógico de natureza qualitativa, com capacidades para integrar todas as possíveis dimensões, evitando inconsistências. Portanto, as TDIC têm proporcionado o acesso à informação e conhecimentos, por possibilitar interações comunicacionais em redes, entendidas como ponto de encontro, de construção e desconstrução de saberes, impondo novos olhares, onde os papéis de aprendente e ensinante se misturam, dando um novo sentido de ser e estar perante o objeto, ao permitir, simultaneamente, a apropriação, a produção e a transferência de informações e conhecimentos. 
+- Portfólios;
 
-## **3.7 AVALIAÇÃO** 
+- Resenhas;
 
-## **3.7.1 Avaliação da Aprendizagem:** 
+- Relatórios;
 
-O Projeto Pedagógico do Curso de Licenciatura do Campus Ivaiporã do Instituto Federal do Paraná - IFPR, fundamenta a avaliação da aprendizagem dos educandos a partir do que regula a LEI N.º 9.394 de 20 de dezembro de 1996, Lei de Diretrizes e Lei de Diretrizes e Bases da Educação Nacional, assim como também segue as orientações da Portaria 120/2009 do IFPR. 
+- Debates;
 
-## A LDB[1], no Artigo 24, Parágrafo V, regula: 
+- Pesquisa;
 
-“ _A verificação do rendimento escolar observará os seguintes critérios_ 
+- Maquetes;
 
-_a) avaliação contínua e cumulativa do desempenho do aluno, com prevalência dos aspectos qualitativos sobre os quantitativos e dos resultados ao longo do período sobre os de eventuais provas finais;_ 
+- Elaboração e/ou resolução de situações-problema;
 
-_b) possibilidade de aceleração de estudos para alunos com atraso escolar;_ 
+- Práticas de Ensino
 
-_c) possibilidade de avanço nos cursos e nas séries mediante verificação do aprendizado;_ 
+- Auto avaliação.
 
-_d) aproveitamento de estudos concluídos com êxito;_ 
+Os resultados obtidos no processo de avaliação serão emitidos por área curricular e divulgados em edital, devendo ser expressos por conceitos, sendo:
 
-_e) obrigatoriedade de estudos de recuperação, de preferência paralelos ao período letivo, para os casos de baixo rendimento escolar, a serem disciplinados pelas instituições de ensino em seus regimentos;_ 
+I – Conceito A – Quando a aprendizagem do aluno foi PLENA e atingiu os objetivos propostos no processo ensino aprendizagem.
 
-Ciente deste compromisso legal, o Campus Ivaiporã do IFPR, em seu processo ensino-aprendizagem, por meio de um plano de avaliação didaticamente definido em uma postura pedagógica da formação integral, busca aplicar uma avaliação que promova o crescimento científico, humano, tecnológico e empreendedor. 
+II – Conceito B – A aprendizagem do aluno foi PARCIALMENTE PLENA e atingiu
 
-Fundamentado em um processo pedagógico crítico, significativo e reflexivo sobre a 
+níveis desejáveis aos objetivos propostos no processo ensino aprendizagem.
 
-30 
+III – Conceito C – A aprendizagem do aluno foi SUFICIENTE e atingiu níveis aceitáveis aos objetivos propostos, sem comprometimento à continuidade no processo ensino aprendizagem.
 
-**==> picture [486 x 54] intentionally omitted <==**
+IV – Conceito D - A aprendizagem do aluno foi INSUFICIENTE e não atingiu os objetivos propostos, comprometimento e/ou inviabilizando o desenvolvimento do processo ensino aprendizagem.
 
-aprendizagem, o Projeto Pedagógico da Licenciatura em Física propõe um processo avaliativo contínuo, que garanta ao aluno o desenvolvimento da formação humana, cidadã e para o mundo do trabalho, inerentes ao perfil do profissional egresso, assim como também dos componentes curriculares que orientam à sua formação docente. Conforme Saviani(2008, p. 31), 
+Os conceitos deverão ter emissão parcial após cada término do bimestre letivo e emissão final após o término do semestre e/ou ano letivo.
 
-_[...] trata-se de retomar vigorosamente a luta contra a seletividade, a discriminação e o rebaixamento do ensino das camadas populares. Lutar contra a marginalidade por meio da escola significa engajar-se no esforço para garantir aos trabalhadores um ensino de melhor qualidade possível nas condições históricas atuais._ 
+## **3.7.1.1 – Requisitos para aprovação nos componentes curriculares**
 
-Nesta perspectiva, a educação é entendida como mediação no centro da prática social global. A prática social se apresenta, portanto, como o ponto de partida e de chegada da prática educativa. Daí decorre um método pedagógico que parte da prática social, onde professor e aluno se encontram igualmente inseridos, ocupando, porém, posições distintas, condição para que travem uma relação fecunda na compreensão e encaminhamento da solução dos problemas postos pela prática social, cabendo aos momentos intermediários do método identificar as questões suscitadas pela prática social (problematização), dispor os instrumentos teóricos e práticos para a sua compreensão e solução (instrumentação) e viabilizar sua incorporação como elementos integrantes da própria vida dos alunos (catarse). 
+São requisitos para aprovação nos componentes curriculares:
 
-Este nível de aprendizagem, desenvolvido frente aos problemas inerentes em todos os componentes curriculares, será definido continuamente pelo docente, em sintonia com o contexto sociocultural em que se encontra. O docente, ao propor os problemas de aprendizagem, por meio do seu método de ensino, também deixará evidente que o crescimento do discente dependerá do seu grau de esforço e da intensidade com que se dedicará nos estudos. Esforço em prol de uma educação que promova a qualificação e não somente a quantificação ou classificação dos alunos. 
+I – Obtenção dos conceitos A (Aprendizagem Plena), B (Aprendizagem Parcialmente Plena) e C (Aprendizagem Suficiente), no conjunto das atividades definidas no Plano de Ensino;
 
-Luckesi (2008, p. 66.), afirma que: 
+II – Frequência igual ou superior a setenta e cinco por cento (75%);
 
-_A Avaliação da aprendizagem existe propriamente para garantir a qualidade da aprendizagem do aluno. Ela tem a função de possibilitar uma qualificação da aprendizagem do educando. Observar bem que estamos falando de qualificação do educando e não classificação. O modo de utilização classificatória da avaliação, como veremos a seguir, é um lídimo modo de fazer da avaliação do aluno um instrumento de ação contra a democratização do ensino, na medida em que ela não serve para auxiliar o avanço e crescimento do educando, mas sim para assegurar a sua estagnação, em termos de apropriação dos conhecimentos e habilidades mínimos necessários._ 
+O aluno será considerado APROVADO quando obtiver conceito igual ou superior a C e frequência igual ou superior a 75% na carga horária total do período letivo.
 
-Esta proposta de avaliação qualificativa é que referencia as atividades pedagógicas e didáticas no campus Ivaiporã do Instituto Federal do Paraná. Por este motivo, possui um plano de avaliação institucional que fundamenta o processo formativo dos cursos superiores de Licenciatura. 
+## **3.7.1.2 – Regime de Progressão**
 
-O Projeto Pedagógico do Curso Licenciatura em Física propõe um processo avaliativo que realmente garanta ao aluno o desenvolvimento da formação humana, cidadã e para o mundo do trabalho, inerentes ao perfil do profissional egresso, assim como também dos componentes curriculares que orientam à sua formação superior. 
+A progressão parcial é norteada pela Resolução nº55/2011, em conjunto com a nota técnica 01/2016 – DESUP-PROENS/IFPR. Dessa forma, define-se que:
 
-Com este foco, o Campus Ivaiporã, seguindo as orientações do Instituto Federal do Paraná, através da Portaria 120/2009, que regulamenta os critérios desta modalidade de 
+I. A progressão parcial se dará em caso de reprovação em até três componentes curriculares obrigatórios. Nesse caso, ao discente será ofertada a oportunidade de cursar o componente em regime de dependência.
 
-31 
+II. Caso a reprovação ocorra em mais de três componentes curriculares obrigatórios o aluno poderá se matricular apenas nos componentes obrigatórios em dependência, no período imediato de oferta.
 
-**==> picture [486 x 54] intentionally omitted <==**
+III. O aluno poderá ainda se inscrever, respeitando o período em que se encontra, nos componentes curriculares optativos.
 
-avaliação, propõe um processo avaliativo que privilegia o acompanhamento contínuo do aprendizado dos alunos e dos métodos empregados pelos docentes. 
+IV. Caso a reprovação se dê por falta, o estudante deverá frequentar no mínimo 75% da carga horária do componente na próxima oferta.
 
-Ao estabelecer os critérios de avaliação do processo ensino aprendizagem, o IFPR compreende que “alunos e professores são sujeitos ativos e devem atuar de forma consciente, não apenas como parte do processo de conhecimento e aprendizagem, mas, sim, como seres humanos imersos numa cultura e que apresentam histórias particulares de vida” (Atr. 01). 
+V. Fica dispensado da obrigatoriedade expressa no item IV o discente reprovado apenas por conceito pela primeira vez. Nesse caso, as atividades de dependência serão oferecidas conforme regulamento próprio elaborado pelo colegiado de curso.
 
-Por esta razão, a avaliação não se dá de forma estanque e fechada em si mesma. Ela é um processo que se compreende como um construir contínuo e permanente, envolvendo juízo de valor sobre as manifestações da realidade. É um processo pelo qual o aluno e professor se apropriam da realidade e, pelo aprendizado recíproco, lançam propostas de mudança. Metodologicamente, o processo avaliativo é também uma tomada de decisão. Por isso, a avaliação do processo é compreendida pelo IFPR, ao considerar que: I – Para avaliar, deve-se considerar o que está sendo avaliado, como está sendo avaliado e por que e para que está sendo avaliado. 
+## **3.7.1.3 – Regime de Recuperação Paralela**
 
-II – Para avaliar é preciso ter clareza que a avaliação do processo ensino aprendizagem envolve: os docentes, a instituição, o discente e a sociedade. 
+O aluno, em regime de dependência concomitante ou bimestral, é o aluno que atingiu conceito D nas disciplinas do bimestre cursado. O regime de dependência concomitante segue, no Campus Ivaiporã, os seguintes critérios e procedimentos:
 
-III – Na avaliação, o discente deve ser considerado como um agente ativo do seu processo educativo e saber antecipadamente o que será avaliado, de maneira que as regras são estabelecidas de maneira clara e com a participação do aluno. 
+a) O aluno, ao detectar que seu conceito no bimestre foi D, deve solicitar formalmente ao coordenador do curso, via protocolo na Secretaria Acadêmica, a sua inscrição no regime de dependência concomitante.
 
-O processo de avaliação por competência se encaminha pautado na condição de ser diagnóstica, formativa e somativa. Estas situações dialogam-se entre si e estabelecem alguns instrumentos ou meios verificadores do processo ensino aprendizagem. 
+b) O coordenador do curso solicitará ao professor da disciplina um programa de
 
-Serão considerados meios para avaliação das competências no IFPR – Campus de Ivaiporã, no Curso Licenciatura em Física: 
+conteúdos do bimestre em que o aluno não atingiu conceito superior a D.
 
-- Seminários; 
+c) O Coordenador do curso, em sintonia com o coordenador de ensino, fará uma reunião com o aluno e o professor da disciplina para definirem os dias para o reforço, a fim de que seu aprendizado possa ser efetivado.
 
-- Trabalho individual e/ou em grupo; 
+d) O professor fará os devidos registros no diário de classe do bimestre subsequente das atividades feitas em regime de dependência, registrando também o Conceito atingido no regime de Dependência, sendo este imprescindível para o conselho de classe bimestral e final;
 
-- Produção escrita e/ou oral; 
+e) É compromisso do aluno a presença nos dias e horário proposto pelo professor da disciplina em dependência.
 
-- Demonstração de técnicas em laboratório; 
+f) É dever do aluno realizar todas as atividades apresentadas pelo docente, no bimestre subsequente. Não ocorrendo esta postura o professor deve comunicar imediatamente ao coordenador de curso, que em sintonia com o coordenador de ensino e supervisão pedagógica, convocará os pais para uma reunião.
 
-- Dramatização; 
+## **3.7.2 Plano de Avaliação Institucional:**
 
-- Apresentação do trabalho final de iniciação científica; 
+No Instituto Federal do Paraná, a Comissão Própria de Avaliação (CPA), instituída conforme determina o Artigo 11 da Lei 10.861/04, de atuação autônoma em relação ao Conselho Superior e demais órgãos colegiados, é responsável pela implantação e desenvolvimento de processos de auto-avaliação institucional. Os instrumentos de avaliação (questionários, pesquisas ou outras ferramentas) desenvolvidos pela CPA servem para o planejamento educacional e apontam as áreas e setores que precisam de melhorias dentro dos vários campus da Instituição.
 
-- Artigo científico; 
+Os principais indicadores apontados como básicos para a auto-avaliação devem estar relacionados à missão institucional, à vocação, à política de seleção, contratação e capacitação do corpo docente e técnico, à política de aquisição de acervo bibliográfico, à inserção social e compromisso com a justiça, ao compromisso com o avanço das artes e das ciências, à infraestrutura, enfim, à forma de conduzir os destinos da instituição.
 
-- TCC; 
+A CPA é composta por três representantes do corpo docente, três representantes técnicos administrativos, três representantes do corpo discente e dois representantes da sociedade civil, todos com seus respectivos suplentes.
 
-- Portfólios; 
+Compete à CPA do IFPR:
 
-- Resenhas; 
+● Planejar, desenvolver, coordenar e supervisionar a execução da política de avaliação institucional;
 
-- Relatórios; 
+● Promover e apoiar os processos de avaliação internos;
 
-- Debates; 
+● Sistematizar os processos de avaliação interna e externa;
 
-- Pesquisa; 
+● Prestar informações da avaliação institucional ao Instituto Nacional de Estudos e Pesquisas Educacionais (INEP), ao Instituto Federal do Paraná e ao Ministério da Educação, sempre que solicitadas.
 
-- Maquetes; 
+São atribuições da CPA do IFPR:
 
-- Elaboração e/ou resolução de situações-problema; 
+   - I. Apreciar:
 
-- Práticas de Ensino 
+- a) O cumprimento dos princípios, finalidades e objetivos institucionais;
 
-- Auto avaliação. 
+- b) A missão e o Plano de Desenvolvimento Institucional (PDI);
 
-Os resultados obtidos no processo de avaliação serão emitidos por área curricular e divulgados em edital, devendo ser expressos por conceitos, sendo: 
+- c) As políticas de ensino, pesquisa, pós-graduação e extensão;
 
-I – Conceito A – Quando a aprendizagem do aluno foi PLENA e atingiu os objetivos propostos no processo ensino aprendizagem. 
+- d) A responsabilidade social da instituição;
 
-II – Conceito B – A aprendizagem do aluno foi PARCIALMENTE PLENA e atingiu 
+e) A infraestrutura física, em especial a do ensino, pesquisa, pós-graduação, extensão e biblioteca;
 
-32 
+f) A comunicação com a sociedade; g) A organização e gestão da instituição;
 
-**==> picture [486 x 54] intentionally omitted <==**
+h) O planejamento e avaliação, especialmente os processos, resultados e eficácia da auto-avaliação institucional;
 
-níveis desejáveis aos objetivos propostos no processo ensino aprendizagem. 
+i) As políticas de atendimento aos estudantes. II. Analisar as avaliações dos diferentes segmentos do IFPR, no âmbito da sua competência;
 
-III – Conceito C – A aprendizagem do aluno foi SUFICIENTE e atingiu níveis aceitáveis aos objetivos propostos, sem comprometimento à continuidade no processo ensino aprendizagem. 
+III. Desenvolver estudos e análises, visando o fornecimento de subsídios para fixação, aperfeiçoamento e modificação da política de avaliação institucional;
 
-IV – Conceito D - A aprendizagem do aluno foi INSUFICIENTE e não atingiu os objetivos propostos, comprometimento e/ou inviabilizando o desenvolvimento do processo ensino aprendizagem. 
+IV. Propor projetos, programas e ações que proporcionem a melhoria do processo avaliativo institucional;
 
-Os conceitos deverão ter emissão parcial após cada término do bimestre letivo e emissão final após o término do semestre e/ou ano letivo. 
+V. Participar de todas as atividades relativas a eventos promovidos pelo Conselho Nacional de Educação Superior (CONAES), sempre que convidada ou convocada;
 
-## **3.7.1.1 – Requisitos para aprovação nos componentes curriculares** 
+VI. Colaborar com os órgãos próprios do IFPR, no planejamento dos programas de avaliação institucional.
 
-São requisitos para aprovação nos componentes curriculares: 
+## **3.7.3 Avaliação do Curso:**
 
-I – Obtenção dos conceitos A (Aprendizagem Plena), B (Aprendizagem Parcialmente Plena) e C (Aprendizagem Suficiente), no conjunto das atividades definidas no Plano de Ensino; 
+A avaliação do Ensino Superior vem sendo destacada, no cenário da educação brasileira, desde a década de 80, com as experiências avaliativas da Universidade de Brasília (UnB), sob a coordenação do Centro de Avaliação Institucional (CAI). Os estudos realizados pela UnB resultaram em publicações que influenciaram regulamentações oficiais e contribuíram, decisivamente, para a inserção das estratégias avaliativas na vida das instituições.
 
-II – Frequência igual ou superior a setenta e cinco por cento (75%); 
+Atualmente, a avaliação das instituições de Ensino Superior é regida pela Lei 10.861/04 que instituiu o Sistema Nacional de Avaliação da Educação Superior (SINAES). Segundo ela, o SINAES tem por finalidades a melhoria da qualidade da educação superior, a orientação da expansão da sua oferta, o aumento permanente da sua eficácia institucional e efetividade acadêmica e social e, especialmente, a promoção do aprofundamento dos compromissos e responsabilidades sociais das instituições de educação superior, por meio da valorização de sua missão pública, da promoção dos valores democráticos, do respeito à diferença e à diversidade, da afirmação da autonomia e da identidade institucional.
 
-O aluno será considerado APROVADO quando obtiver conceito igual ou superior a C e frequência igual ou superior a 75% na carga horária total do período letivo. 
+Esta mesma Lei criou, em substituição ao Exame Nacional de Cursos (ENC ou provão), o Exame Nacional de Desempenho dos Estudantes – Enade. As regras para a oferta deste exame estão contidas no art. 5º da referida lei, transcrito a seguir:
 
-## **3.7.1.2 – Regime de Progressão** 
+**Art. 5º** A avaliação do desempenho dos estudantes dos cursos de graduação do Campus Ivaiporã do IFPR será realizada mediante aplicação do Exame Nacional de Desempenho dos Estudantes – ENADE.
 
-A progressão parcial é norteada pela Resolução nº55/2011, em conjunto com a nota técnica 01/2016 – DESUP-PROENS/IFPR. Dessa forma, define-se que: 
+**§ 1º** O ENADE aferirá o desempenho dos estudantes em relação aos conteúdos programáticos previstos nas diretrizes curriculares do respectivo curso de graduação, suas habilidades para ajustamento às exigências decorrentes da evolução do conhecimento e suas competências para compreender temas exteriores ao âmbito específico de sua profissão, ligados à realidade brasileira e mundial e a outras áreas do conhecimento.
 
-I. A progressão parcial se dará em caso de reprovação em até três componentes curriculares obrigatórios. Nesse caso, ao discente será ofertada a oportunidade de cursar o componente em regime de dependência. 
+**§ 2º** O ENADE será aplicado periodicamente, admitida a utilização de procedimentos
 
-II. Caso a reprovação ocorra em mais de três componentes curriculares obrigatórios o aluno poderá se matricular apenas nos componentes obrigatórios em dependência, no período imediato de oferta. 
+amostrais, aos alunos de todos os cursos de graduação, ao final do primeiro e do último ano de curso.
 
-III. O aluno poderá ainda se inscrever, respeitando o período em que se encontra, nos componentes curriculares optativos. 
+**§ 3º** A periodicidade máxima de aplicação do ENADE aos estudantes de cada curso de graduação será trienal.
 
-IV. Caso a reprovação se dê por falta, o estudante deverá frequentar no mínimo 75% da carga horária do componente na próxima oferta. 
+**§ 4º** A aplicação do ENADE será acompanhada de instrumento destinado a levantar o perfil dos estudantes, relevante para a compreensão de seus resultados.
 
-V. Fica dispensado da obrigatoriedade expressa no item IV o discente reprovado apenas por conceito pela primeira vez. Nesse caso, as atividades de dependência serão oferecidas conforme regulamento próprio elaborado pelo colegiado de curso. 
+**§ 5º** O ENADE é componente curricular obrigatório dos cursos de graduação, sendo inscrita no histórico escolar do estudante somente a sua situação regular com relação a essa obrigação, atestada pela sua efetiva participação ou, quando for o caso, dispensa oficial pelo Ministério da Educação, na forma estabelecida em regulamento.
 
-## **3.7.1.3 – Regime de Recuperação Paralela** 
+**§ 6º** Será responsabilidade do dirigente da instituição de educação superior a inscrição junto ao Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira – INEP de todos os alunos habilitados à participação no ENADE.
 
-O aluno, em regime de dependência concomitante ou bimestral, é o aluno que atingiu conceito D nas disciplinas do bimestre cursado. O regime de dependência concomitante segue, no Campus Ivaiporã, os seguintes critérios e procedimentos: 
+**§ 7º** A não-inscrição de alunos habilitados para participação no ENADE, nos prazos estipulados pelo INEP, sujeitará a instituição à aplicação das sanções previstas no § 2º do art. 10, sem prejuízo do disposto no art. 12 desta Lei.
 
-a) O aluno, ao detectar que seu conceito no bimestre foi D, deve solicitar formalmente ao coordenador do curso, via protocolo na Secretaria Acadêmica, a sua inscrição no regime de dependência concomitante. 
+**§ 8º** A avaliação do desempenho dos alunos de cada curso no ENADE será expressa por meio de conceitos, ordenados em uma escala com 5 (cinco) níveis, tomando por base padrões mínimos estabelecidos por especialistas das diferentes áreas do conhecimento.
 
-b) O coordenador do curso solicitará ao professor da disciplina um programa de 
+**§ 9º** Na divulgação dos resultados da avaliação é vedada a identificação nominal do resultado individual obtido pelo aluno examinado, que será a ele exclusivamente fornecido em documento específico, emitido pelo INEP.
 
-33 
+**§ 10.** Aos estudantes de melhor desempenho no ENADE o Ministério da Educação concederá estímulo, na forma de bolsa de estudos, ou auxílio específico, ou ainda alguma outra forma de distinção com objetivo similar, destinado a favorecer a excelência e a continuidade dos estudos, em nível de graduação ou de pós-graduação, conforme estabelecido em regulamento.
 
-**==> picture [486 x 54] intentionally omitted <==**
+**§ 11.** A introdução do ENADE, como um dos procedimentos de avaliação do SINAES, será efetuada gradativamente, cabendo ao Ministro de Estado da Educação determinar anualmente os cursos de graduação a cujos estudantes serão aplicados.
 
-conteúdos do bimestre em que o aluno não atingiu conceito superior a D. 
+O SINAES é um sistema de avaliação global e integrada das atividades acadêmicas, composto de processos diferenciados:
 
-c) O Coordenador do curso, em sintonia com o coordenador de ensino, fará uma reunião com o aluno e o professor da disciplina para definirem os dias para o reforço, a fim de que seu aprendizado possa ser efetivado. 
+● Avaliação das Instituições de Educação Superior (AVALIES): é o centro de referência e articulação do sistema de avaliação que se desenvolve em duas etapas principais: (a) auto-avaliação, coordenada pela Comissão Própria de Avaliação (CPA) de cada instituição; (b) avaliação externa, realizada por comissões designadas pelo Instituto Nacional de Estudos e Pesquisas Educacionais (INEP), segundo diretrizes estabelecidas pelo Conselho Nacional de Educação Superior (CONAES).
 
-d) O professor fará os devidos registros no diário de classe do bimestre subsequente das atividades feitas em regime de dependência, registrando também o Conceito atingido no regime de Dependência, sendo este imprescindível para o conselho de classe bimestral e final; 
+● Avaliação dos Cursos de Graduação (ACG): avalia os cursos de graduação por meio de instrumentos e procedimentos que incluem visitas in loco de comissões externas. A periodicidade desta avaliação depende diretamente do processo de reconhecimento e renovação de reconhecimento a que os cursos estão sujeitos.
 
-e) É compromisso do aluno a presença nos dias e horário proposto pelo professor da disciplina em dependência. 
+● Avaliação do Desempenho dos Estudantes (ENADE): aplica-se aos estudantes do final do primeiro e do último ano do curso, através de exames, estando prevista a utilização de procedimentos amostrais.
 
-f) É dever do aluno realizar todas as atividades apresentadas pelo docente, no bimestre subsequente. Não ocorrendo esta postura o professor deve comunicar imediatamente ao coordenador de curso, que em sintonia com o coordenador de ensino e supervisão pedagógica, convocará os pais para uma reunião. 
+Este curso de graduação será constantemente avaliado pelos docentes, discentes e
 
-## **3.7.2 Plano de Avaliação Institucional:** 
+técnicos-administrativos, em reuniões organizadas pelo Núcleo Estruturante (NE) do curso.
 
-No Instituto Federal do Paraná, a Comissão Própria de Avaliação (CPA), instituída conforme determina o Artigo 11 da Lei 10.861/04, de atuação autônoma em relação ao Conselho Superior e demais órgãos colegiados, é responsável pela implantação e desenvolvimento de processos de auto-avaliação institucional. Os instrumentos de avaliação (questionários, pesquisas ou outras ferramentas) desenvolvidos pela CPA servem para o planejamento educacional e apontam as áreas e setores que precisam de melhorias dentro dos vários campus da Instituição. 
+Os relatórios produzidos pela auto-avaliação da CPA, assim como aqueles provenientes das avaliações externas feitas pelas comissões designadas pelo INEP também serão ferramentas importantes para a implantação de ações acadêmico-administrativas que visem à melhoria do curso.
 
-Os principais indicadores apontados como básicos para a auto-avaliação devem estar relacionados à missão institucional, à vocação, à política de seleção, contratação e capacitação do corpo docente e técnico, à política de aquisição de acervo bibliográfico, à inserção social e compromisso com a justiça, ao compromisso com o avanço das artes e das ciências, à infraestrutura, enfim, à forma de conduzir os destinos da instituição. 
+O acompanhamento dos egressos do curso (conforme o item 3.5.2), assim como resultado do ENADE serão outras estratégias utilizadas para a implantação de melhorias.
 
-A CPA é composta por três representantes do corpo docente, três representantes técnicos administrativos, três representantes do corpo discente e dois representantes da sociedade civil, todos com seus respectivos suplentes. 
+Por fim, a avaliação deste curso estará sempre em consonância com o Plano de Avaliação Institucional, com o acompanhamento dos egressos e com as Diretrizes Curriculares Nacionais, ficando a implementação das melhorias sob responsabilidade do NE e demais órgãos competentes.
 
-Compete à CPA do IFPR: 
+## **3.7.4. Avaliação do projeto Pedagógico do Curso**
 
-● Planejar, desenvolver, coordenar e supervisionar a execução da política de avaliação institucional; 
+Frente às mudanças constantes no mercado de trabalho, às mudanças tecnológicas e às necessidades regionais, o Projeto Pedagógico do Curso de Física poderá e deverá ser constantemente reavaliado, buscando atender a novas demandas. Poderá também ser transformado mediante necessidades percebidas pela Instituição, pelo corpo docente e discente, além das mudanças propostas pelo MEC, quando de suas visitas para avaliação.
 
-● Promover e apoiar os processos de avaliação internos; 
+Cabe ao Núcleo Docente Estruturante (NDE) organizar, coletivamente ao colegiado de curso, ao bibliotecário, à representante da seção pedagógica e à direção de ensino, pesquisa e extensão o acompanhamento, bem como reformulações  do Projeto Político Pedagógico. Quaisquer alterações serão submetidas ao CODIC, para posteriormente serem enviadas ao Conselho Superior do IFPR.
 
-● Sistematizar os processos de avaliação interna e externa; 
+Os ajustes curriculares assim desenvolvidos deverão respeitar os seguintes critérios:
 
-● Prestar informações da avaliação institucional ao Instituto Nacional de Estudos e Pesquisas Educacionais (INEP), ao Instituto Federal do Paraná e ao Ministério da Educação, sempre que solicitadas. 
+I. Atender à legislação referente à educação nacional, assim como documentos internos do IFPR.
 
-São atribuições da CPA do IFPR: 
+II. Adequar o PPC de acordo com os itens do Formulário de Cadastramento de cursos.
 
-   - I. Apreciar: 
+Qualquer proposta de ajuste curricular ou alteração no PPC deverá obrigatoriamente ser aprovada pelo colegiado do curso, por meio de cessão registrada em ata
 
-- a) O cumprimento dos princípios, finalidades e objetivos institucionais; 
+## **3.7.5 Representação Gráfica do Processo Formativo**
 
-- b) A missão e o Plano de Desenvolvimento Institucional (PDI); 
+## **3.8. Estrutura Curricular**
 
-- c) As políticas de ensino, pesquisa, pós-graduação e extensão; 
+Com base nos objetivos do curso e nas Diretrizes Curriculares Nacionais para cursos de Física (Parecer CNE/CES 1304/2001 e Resolução CNE/CP 9/2002), o currículo deve ser flexível e pautado em fornecer aos acadêmicos meios de levá-los a ter uma visão crítica e ampla dos conteúdos básicos e profissionais inerente ao licenciado em Física.
 
-- d) A responsabilidade social da instituição; 
-
-34 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-e) A infraestrutura física, em especial a do ensino, pesquisa, pós-graduação, extensão e biblioteca; 
-
-f) A comunicação com a sociedade; g) A organização e gestão da instituição; 
-
-h) O planejamento e avaliação, especialmente os processos, resultados e eficácia da auto-avaliação institucional; 
-
-i) As políticas de atendimento aos estudantes. II. Analisar as avaliações dos diferentes segmentos do IFPR, no âmbito da sua competência; 
-
-III. Desenvolver estudos e análises, visando o fornecimento de subsídios para fixação, aperfeiçoamento e modificação da política de avaliação institucional; 
-
-IV. Propor projetos, programas e ações que proporcionem a melhoria do processo avaliativo institucional; 
-
-V. Participar de todas as atividades relativas a eventos promovidos pelo Conselho Nacional de Educação Superior (CONAES), sempre que convidada ou convocada; 
-
-VI. Colaborar com os órgãos próprios do IFPR, no planejamento dos programas de avaliação institucional. 
-
-## **3.7.3 Avaliação do Curso:** 
-
-A avaliação do Ensino Superior vem sendo destacada, no cenário da educação brasileira, desde a década de 80, com as experiências avaliativas da Universidade de Brasília (UnB), sob a coordenação do Centro de Avaliação Institucional (CAI). Os estudos realizados pela UnB resultaram em publicações que influenciaram regulamentações oficiais e contribuíram, decisivamente, para a inserção das estratégias avaliativas na vida das instituições. 
-
-Atualmente, a avaliação das instituições de Ensino Superior é regida pela Lei 10.861/04 que instituiu o Sistema Nacional de Avaliação da Educação Superior (SINAES). Segundo ela, o SINAES tem por finalidades a melhoria da qualidade da educação superior, a orientação da expansão da sua oferta, o aumento permanente da sua eficácia institucional e efetividade acadêmica e social e, especialmente, a promoção do aprofundamento dos compromissos e responsabilidades sociais das instituições de educação superior, por meio da valorização de sua missão pública, da promoção dos valores democráticos, do respeito à diferença e à diversidade, da afirmação da autonomia e da identidade institucional. 
-
-Esta mesma Lei criou, em substituição ao Exame Nacional de Cursos (ENC ou provão), o Exame Nacional de Desempenho dos Estudantes – Enade. As regras para a oferta deste exame estão contidas no art. 5º da referida lei, transcrito a seguir: 
-
-**Art. 5º** A avaliação do desempenho dos estudantes dos cursos de graduação do Campus Ivaiporã do IFPR será realizada mediante aplicação do Exame Nacional de Desempenho dos Estudantes – ENADE. 
-
-**§ 1º** O ENADE aferirá o desempenho dos estudantes em relação aos conteúdos programáticos previstos nas diretrizes curriculares do respectivo curso de graduação, suas habilidades para ajustamento às exigências decorrentes da evolução do conhecimento e suas competências para compreender temas exteriores ao âmbito específico de sua profissão, ligados à realidade brasileira e mundial e a outras áreas do conhecimento. 
-
-**§ 2º** O ENADE será aplicado periodicamente, admitida a utilização de procedimentos 
-
-35 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-amostrais, aos alunos de todos os cursos de graduação, ao final do primeiro e do último ano de curso. 
-
-**§ 3º** A periodicidade máxima de aplicação do ENADE aos estudantes de cada curso de graduação será trienal. 
-
-**§ 4º** A aplicação do ENADE será acompanhada de instrumento destinado a levantar o perfil dos estudantes, relevante para a compreensão de seus resultados. 
-
-**§ 5º** O ENADE é componente curricular obrigatório dos cursos de graduação, sendo inscrita no histórico escolar do estudante somente a sua situação regular com relação a essa obrigação, atestada pela sua efetiva participação ou, quando for o caso, dispensa oficial pelo Ministério da Educação, na forma estabelecida em regulamento. 
-
-**§ 6º** Será responsabilidade do dirigente da instituição de educação superior a inscrição junto ao Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira – INEP de todos os alunos habilitados à participação no ENADE. 
-
-**§ 7º** A não-inscrição de alunos habilitados para participação no ENADE, nos prazos estipulados pelo INEP, sujeitará a instituição à aplicação das sanções previstas no § 2º do art. 10, sem prejuízo do disposto no art. 12 desta Lei. 
-
-**§ 8º** A avaliação do desempenho dos alunos de cada curso no ENADE será expressa por meio de conceitos, ordenados em uma escala com 5 (cinco) níveis, tomando por base padrões mínimos estabelecidos por especialistas das diferentes áreas do conhecimento. 
-
-**§ 9º** Na divulgação dos resultados da avaliação é vedada a identificação nominal do resultado individual obtido pelo aluno examinado, que será a ele exclusivamente fornecido em documento específico, emitido pelo INEP. 
-
-**§ 10.** Aos estudantes de melhor desempenho no ENADE o Ministério da Educação concederá estímulo, na forma de bolsa de estudos, ou auxílio específico, ou ainda alguma outra forma de distinção com objetivo similar, destinado a favorecer a excelência e a continuidade dos estudos, em nível de graduação ou de pós-graduação, conforme estabelecido em regulamento. 
-
-**§ 11.** A introdução do ENADE, como um dos procedimentos de avaliação do SINAES, será efetuada gradativamente, cabendo ao Ministro de Estado da Educação determinar anualmente os cursos de graduação a cujos estudantes serão aplicados. 
-
-O SINAES é um sistema de avaliação global e integrada das atividades acadêmicas, composto de processos diferenciados: 
-
-● Avaliação das Instituições de Educação Superior (AVALIES): é o centro de referência e articulação do sistema de avaliação que se desenvolve em duas etapas principais: (a) auto-avaliação, coordenada pela Comissão Própria de Avaliação (CPA) de cada instituição; (b) avaliação externa, realizada por comissões designadas pelo Instituto Nacional de Estudos e Pesquisas Educacionais (INEP), segundo diretrizes estabelecidas pelo Conselho Nacional de Educação Superior (CONAES). 
-
-● Avaliação dos Cursos de Graduação (ACG): avalia os cursos de graduação por meio de instrumentos e procedimentos que incluem visitas in loco de comissões externas. A periodicidade desta avaliação depende diretamente do processo de reconhecimento e renovação de reconhecimento a que os cursos estão sujeitos. 
-
-● Avaliação do Desempenho dos Estudantes (ENADE): aplica-se aos estudantes do final do primeiro e do último ano do curso, através de exames, estando prevista a utilização de procedimentos amostrais. 
-
-Este curso de graduação será constantemente avaliado pelos docentes, discentes e 
-
-36 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-técnicos-administrativos, em reuniões organizadas pelo Núcleo Estruturante (NE) do curso. 
-
-Os relatórios produzidos pela auto-avaliação da CPA, assim como aqueles provenientes das avaliações externas feitas pelas comissões designadas pelo INEP também serão ferramentas importantes para a implantação de ações acadêmico-administrativas que visem à melhoria do curso. 
-
-O acompanhamento dos egressos do curso (conforme o item 3.5.2), assim como resultado do ENADE serão outras estratégias utilizadas para a implantação de melhorias. 
-
-Por fim, a avaliação deste curso estará sempre em consonância com o Plano de Avaliação Institucional, com o acompanhamento dos egressos e com as Diretrizes Curriculares Nacionais, ficando a implementação das melhorias sob responsabilidade do NE e demais órgãos competentes. 
-
-## **3.7.4. Avaliação do projeto Pedagógico do Curso** 
-
-Frente às mudanças constantes no mercado de trabalho, às mudanças tecnológicas e às necessidades regionais, o Projeto Pedagógico do Curso de Física poderá e deverá ser constantemente reavaliado, buscando atender a novas demandas. Poderá também ser transformado mediante necessidades percebidas pela Instituição, pelo corpo docente e discente, além das mudanças propostas pelo MEC, quando de suas visitas para avaliação. 
-
-Cabe ao Núcleo Docente Estruturante (NDE) organizar, coletivamente ao colegiado de curso, ao bibliotecário, à representante da seção pedagógica e à direção de ensino, pesquisa e extensão o acompanhamento, bem como reformulações  do Projeto Político Pedagógico. Quaisquer alterações serão submetidas ao CODIC, para posteriormente serem enviadas ao Conselho Superior do IFPR. 
-
-Os ajustes curriculares assim desenvolvidos deverão respeitar os seguintes critérios: 
-
-I. Atender à legislação referente à educação nacional, assim como documentos internos do IFPR. 
-
-II. Adequar o PPC de acordo com os itens do Formulário de Cadastramento de cursos. 
-
-Qualquer proposta de ajuste curricular ou alteração no PPC deverá obrigatoriamente ser aprovada pelo colegiado do curso, por meio de cessão registrada em ata 
-
-## **3.7.5 Representação Gráfica do Processo Formativo** 
-
-**==> picture [490 x 44] intentionally omitted <==**
-
-**==> picture [517 x 77] intentionally omitted <==**
-
-37 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-## **3.8. Estrutura Curricular** 
-
-Com base nos objetivos do curso e nas Diretrizes Curriculares Nacionais para cursos de Física (Parecer CNE/CES 1304/2001 e Resolução CNE/CP 9/2002), o currículo deve ser flexível e pautado em fornecer aos acadêmicos meios de levá-los a ter uma visão crítica e ampla dos conteúdos básicos e profissionais inerente ao licenciado em Física. 
-
-O currículo do curso de Licenciatura em Física do Campus de Ivaiporã do IFPR está de acordo com o que determina a resolução CNE/CP 2/2015, ou seja, está dividido em um **Núcleo de estudos de formação geral, das áreas específicas e interdisciplinares** , em um **Núcleo de aprofundamento e diversificação de estudos das áreas de atuação profissional, incluindo conteúdos específicos e pedagógicos** e um **Núcleo de estudos integradores** conforme exposto no quadro um abaixo. 
+O currículo do curso de Licenciatura em Física do Campus de Ivaiporã do IFPR está de acordo com o que determina a resolução CNE/CP 2/2015, ou seja, está dividido em um **Núcleo de estudos de formação geral, das áreas específicas e interdisciplinares** , em um **Núcleo de aprofundamento e diversificação de estudos das áreas de atuação profissional, incluindo conteúdos específicos e pedagógicos** e um **Núcleo de estudos integradores** conforme exposto no quadro um abaixo.
 
 |**Núcleo**|**Componentes**<br>**Científicos (horas)**|**Componentes**<br>**Pedagógicos (horas)**|**Componentes**<br>**Diversificados**<br>**(horas)**|
 |---|---|---|---|
 
-
-
-38 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
 |**Formação**<br>**Geral**|Física Conceitual I<br>(67)<br>Física Conceitual II<br>(67)<br>Física I –<br>Elementos de Mecânica<br>(67h)<br>Física II -<br>Elementos de<br>Termodinâmica e<br>ondulatória (67h)<br>Física III -<br>Elementos de<br>Eletromagnetismo (67h)<br>Física IV -<br>Elementos de Física<br>Moderna e<br>Contemporânea (67h)<br>Pré-cálculo (67)<br>Cálculo Diferencial<br>e Integral I (67)<br>Cálculo Diferencial<br>e Integral II (67)<br>Vetores e<br>Geometria analíticas (67)<br>Química Geral I<br>(33)<br>História e Filosofia<br>da Ciência (33)<br>Sociologia da<br>Ciência (33)<br>Laboratório de<br>física I (33)<br>Laboratório de<br>física II (33)<br>Laboratório de<br>física III (33)<br>Laboratório de<br>física IV (33)<br>Química Geral<br>experimental I (33)|Didática Geral<br>(33)<br>Didática para o<br>Ensino de Física (33)<br>História da<br>Educação I (33)<br>Filosofia da<br>Educação I (33)<br>Sociologia da<br>Educação I (33)<br>Psicologia da<br>Educação (33)<br>Políticas<br>educacionais (33)<br>Gestão e<br>organização escolar<br>(33)<br>Tecnologia da<br>informação e<br>comunicação na<br>educação (33)<br>Educação em<br>Direitos Humanos<br>(33)<br>Metodologia e<br>Prática de Ensino de<br>Física I (67)*<br>Metodologia e<br>Prática de Ensino de<br>Física II (67)*<br>Metodologias<br>Ativas no Ensino de<br>Física (33)<br>História da<br>Educação II (33)<br>Filosofia da<br>Educação II (33)<br>Sociologia da<br>Educação II (33)<br>Psicologia da<br>Educação II (33)<br>Educação<br>inclusiva (33)<br>Instrumentação<br>para o ensino de<br>Mecânica e<br>termodinâmica (67)<br>Instrumentação|Língua<br>Brasileira de Sinais<br>(33)<br>Língua<br>Portuguesa (33)<br>Educação para<br>sustentabilidade (33)<br>Metodologia de<br>pesquisa (33)|
 |---|---|---|---|
-
-
-
-39 
-
-**==> picture [486 x 54] intentionally omitted <==**
 
 |**Aprofunda**<br>**mento**<br>**e**<br>**diversificação**|Cálculo numérico<br>(67)<br>EDO (67)<br>Física Matemática<br>(67)<br>Geometrias não<br>euclidiana (33)<br>Cálculo Vetorial<br>(67)<br>Eletromagnetismo<br>(67)<br>Introdução à<br>mecânica estatística (67)<br>Fundamentos de<br>Relatividade Restrita e<br>Geral (67)<br>Elementos de<br>Física-médica (33)<br>Elementos de<br>Astronomia e Astrofísica<br>(33)<br>Estrutura da<br>matéria (33)<br>Epistemologia da<br>Ciência (33)<br>Mecânica<br>Newtoniana (33)<br>Mecânica<br>Lagrangiana e<br>Hamiltoniana (67)<br>Físico-química (33)<br>Elementos de<br>Física ambiental (33)<br>Química geral e<br>experimental<br>avançada(67)|para o ensino de ótica<br>e eletromagnetismo<br>(67)<br>Instrumentação<br>para Ensino de Física<br>Moderna (67)<br>Robótica para o<br>Ensino de Física (67)|Leitura<br>instrumental em<br>língua inglesa (33)<br>Introdução à<br>linguagem de<br>programação (33)<br>Física<br>computacional (33)<br>História do<br>pensamento lógico<br>(33)<br>Leitura<br>instrumental em<br>língua espanhola<br>(33)|
 |---|---|---|---|
 |**Estudos**<br>**integradores**|Seminários (I, II, III e IV) (132h)<br>Trabalho de conclusão de curso (99h)<br>Estágio Curricular Supervisionado (I, II e III) (400h)<br>Atividades Complementares (205h)|||
 |**Curriculariz**<br>**ação**<br>**da**<br>**extensão**|Metodologia e Prática de Ensino de Física I (11h)<br>Metodologia e Prática de Ensino de Física II (12h)<br>Atividades Curriculares de Extensão(297h)|||
 
+## Carga horário total da curricularização da extensão (320h)
 
+Quadro 1 - Componentes Curriculares por Núcleo de Formação. A carga horária está apresentada em hora-relógio, que será trabalhada em horas-aulas de cinquenta minutos.
 
-40 
+*As componentes de Metodologia e Prática de Ensino de Física I e II terão 12h e 12h, respectivamente, de sua ch total dedicadas à curricularização da extensão.
 
-**==> picture [486 x 54] intentionally omitted <==**
+O **núcleo de formação geral** engloba conceitos científicos e epistemológicos da Física, além de elementos educacionais e interdisciplinares. Os componentes ofertados nesse núcleo são obrigatórios à formação e tratam de conceitos de Física Clássica, Moderna e Contemporânea, História, Filosofia e Sociologia da Ciência. Também são considerados componentes que abordem práticas didático-pedagógicas, organização e gestão escolar. Enfim, são propostos componentes complementares, de área afim ou correlata à Física e à Educação. Tais componentes são estruturados de forma a possibilitar uma relação interdisciplinar teórico-prática.
 
-## Carga horário total da curricularização da extensão (320h) 
+O **núcleo de aprofundamento e diversificação** conta com componentes curriculares optativos das mais variadas características, relacionando elementos científicos, pedagógicos e tecnológicos atendendo às demandas sociais e possibilitando maior contextualização e aprofundamento teórico prático. Esses componentes são ofertados em uma grande gama de opções, que poderão ser selecionadas pelos licenciandos, respeitando-se as cargas horárias mínimas de 400h de atividades práticas e 560h de componentes pedagógicos, quando somados os componentes cursados de todos núcleos.
 
-Quadro 1 - Componentes Curriculares por Núcleo de Formação. A carga horária está apresentada em hora-relógio, que será trabalhada em horas-aulas de cinquenta minutos. 
+O **núcleo de estudos integradores** conta com seminários no formato optativo, além de atividades obrigatórias como Atividades Complementares, Estágio Supervisionado, Disciplinas obrigatórias de extensão e TCC. O objetivo desse núcleo é o enriquecimento curricular, através da vivência no campo educacional e experiências efetivas de pesquisa, ensino, extensão e inovação. Abaixo apresentamos as principais atividades desenvolvidas, de acordo com a legislação vigente.
 
-*As componentes de Metodologia e Prática de Ensino de Física I e II terão 12h e 12h, respectivamente, de sua ch total dedicadas à curricularização da extensão. 
+As **Atividades Complementares** ou Atividades Acadêmico-Científico-Culturais são obrigatórias, segundo a Resolução IFPR nº 19/2017, e têm como objetivo a formação humanística e interdisciplinar dos licenciados. Para isso, os acadêmicos serão estimulados pelo Colegiado do curso a participarem dessas atividades que possuem regulamento próprio. Estes eventos deverão totalizar 205 horas. O controle dessas atividades será feito de acordo com as normas internas em vigor.
 
-O **núcleo de formação geral** engloba conceitos científicos e epistemológicos da Física, além de elementos educacionais e interdisciplinares. Os componentes ofertados nesse núcleo são obrigatórios à formação e tratam de conceitos de Física Clássica, Moderna e Contemporânea, História, Filosofia e Sociologia da Ciência. Também são considerados componentes que abordem práticas didático-pedagógicas, organização e gestão escolar. Enfim, são propostos componentes complementares, de área afim ou correlata à Física e à Educação. Tais componentes são estruturados de forma a possibilitar uma relação interdisciplinar teórico-prática. 
+O **Estágio Curricular Supervisionado** possibilitará aos acadêmicos do curso de licenciatura em Física experiências no âmbito escolar para que os mesmos possam desenvolver habilidades e saberes necessários à prática docente. É componente curricular obrigatório na organização dos cursos de licenciatura (segundo a Resolução CNE/CP 2/2015, Resolução nº19/2017 Art.17 CONSUP/IFPR, Resolução 02/2013 IFPR), será oferecido a partir do sétimo módulo do curso, totalizando 400h e se desenvolverá de acordo com as normas vigentes em regulamento próprio.
 
-O **núcleo de aprofundamento e diversificação** conta com componentes curriculares optativos das mais variadas características, relacionando elementos científicos, pedagógicos e tecnológicos atendendo às demandas sociais e possibilitando maior contextualização e aprofundamento teórico prático. Esses componentes são ofertados em uma grande gama de opções, que poderão ser selecionadas pelos licenciandos, respeitando-se as cargas horárias mínimas de 400h de atividades práticas e 560h de componentes pedagógicos, quando somados os componentes cursados de todos núcleos. 
+O Estágio será acompanhado por um professor responsável, por meio dos componentes curriculares Estágio I, Estágio II e Estágio III e terá como finalidades: ✔ Viabilizar a formação profissional docente pela atuação _in loco_ e pela integração em ambientes reais de atividades docentes;
 
-O **núcleo de estudos integradores** conta com seminários no formato optativo, além de atividades obrigatórias como Atividades Complementares, Estágio Supervisionado, Disciplinas obrigatórias de extensão e TCC. O objetivo desse núcleo é o enriquecimento curricular, através da vivência no campo educacional e experiências efetivas de pesquisa, ensino, extensão e inovação. Abaixo apresentamos as principais atividades desenvolvidas, de acordo com a legislação vigente. 
+✔ Oportunizar aos formandos o desenvolvimento de habilidades e saberes necessários à ação docente;
 
-As **Atividades Complementares** ou Atividades Acadêmico-Científico-Culturais são obrigatórias, segundo a Resolução IFPR nº 19/2017, e têm como objetivo a formação humanística e interdisciplinar dos licenciados. Para isso, os acadêmicos serão estimulados pelo Colegiado do curso a participarem dessas atividades que possuem regulamento próprio. Estes eventos deverão totalizar 205 horas. O controle dessas atividades será feito de acordo com as normas internas em vigor. 
+✔ Proporcionar aos formandos a articulação da teoria e prática, preparando-os para o efetivo exercício da profissão;
 
-O **Estágio Curricular Supervisionado** possibilitará aos acadêmicos do curso de licenciatura em Física experiências no âmbito escolar para que os mesmos possam desenvolver habilidades e saberes necessários à prática docente. É componente curricular obrigatório na organização dos cursos de licenciatura (segundo a Resolução CNE/CP 2/2015, Resolução nº19/2017 Art.17 CONSUP/IFPR, Resolução 02/2013 IFPR), será oferecido a partir do sétimo módulo do curso, totalizando 400h e se desenvolverá de acordo com as normas vigentes em regulamento próprio. 
+✔ Oferecer aos formandos uma vivência em contextos reais de ensino e aprendizagem nas unidades escolares dos sistemas de ensino.
 
-O Estágio será acompanhado por um professor responsável, por meio dos componentes curriculares Estágio I, Estágio II e Estágio III e terá como finalidades: ✔ Viabilizar a formação profissional docente pela atuação _in loco_ e pela integração em ambientes reais de atividades docentes; 
+As **Atividades Curriculares de Extensão** proporcionam aos estudantes de graduação em Física a oportunidade de ampliar suas perspectivas acadêmicas e contribuir de forma prática para a sociedade. Conforme estabelecido na Resolução CNE/CES 7/2018, que define as Diretrizes para a Extensão na Educação Superior Brasileira, a curricularização da extensão é um componente curricular obrigatório, visando à integração entre ensino, pesquisa e extensão e será ofertada em todos os semestres do curso, contabilizando um total de 297 h, acrescidas de mais 23 h de atividades extensionistas nas disciplinas de Metodologia e Prática de Ensino de Física I e II, totalizando 320 h.
 
-41 
+O título de licenciado em Física está condicionado à apresentação de um **Trabalho de Conclusão de Curso (TCC)** . Este trabalho tem como objetivo viabilizar ao acadêmico a prática em ensino, pesquisa e/ou extensão e deverá ser desenvolvido sob a orientação de um docente e submetido a uma banca examinadora especialmente constituída para este fim. As condições que regulamentam o TCC serão aprovadas de acordo com as normas vigentes do IFPR.
 
-**==> picture [486 x 54] intentionally omitted <==**
+Neste curso, a **prática como componente curricular** está presente por todo o currículo nos componentes obrigatórios _Laboratórios de Física (I à IV)_ , _Laboratório de Ensino e Aprendizagem (I e II), Didática e Didática para Ensino de Física_ , totalizando 202 horas. Também serão oferecidos como optativos os componentes _Robótica para o Ensino de Física (67h), Metodologias Ativas no Ensino de Física (33h), Instrumentação para o Ensino de Mecânica e Termodinâmica (67h), Instrumentação para o Ensino de ótica e Eletromagnetismo (67h), Instrumentação para o Ensino de Física Moderna e Contemporânea (67h)_ . Dentre esses componentes, o licenciando deverá selecionar aquelas de seu interesse, até a integralização de 400 horas.
 
-✔ Oportunizar aos formandos o desenvolvimento de habilidades e saberes necessários à ação docente; 
+Essas atividades deverão ser desenvolvidas com ênfase na execução e na observação de experimentos, bem como na atuação em situações contextualizadas e a resolução de situações problemas, características do cotidiano do professor de Física e de outros ambientes nos quais o licenciado em Física possa atuar.
 
-✔ Proporcionar aos formandos a articulação da teoria e prática, preparando-os para o efetivo exercício da profissão; 
+Contextualizar o conteúdo significa assumir que todo conhecimento envolve uma relação entre sujeito e objeto, ou seja, processo de relacionar a teoria com a prática, mostrando aos alunos que os conteúdos físicos se relacionam com a vida humana, que são importantes e como podem ser aplicados em situações reais.
 
-✔ Oferecer aos formandos uma vivência em contextos reais de ensino e aprendizagem nas unidades escolares dos sistemas de ensino. 
+A prática poderá ser enriquecida por meio de atividades orais e escritas do professor, produção dos alunos, situações simuladoras, estudos de caso, atividades de laboratório, seminários e seções de estudos. Essas atividades serão desenvolvidas em sala de aula no horário da unidade curricular e externamente em outros ambientes educacionais, que incluem Escolas Públicas conveniadas com o IFPR, bem como ambientes não formais e informais de ensino.
 
-As **Atividades Curriculares de Extensão** proporcionam aos estudantes de graduação em Física a oportunidade de ampliar suas perspectivas acadêmicas e contribuir de forma prática para a sociedade. Conforme estabelecido na Resolução CNE/CES 7/2018, que define as Diretrizes para a Extensão na Educação Superior Brasileira, a curricularização da extensão é um componente curricular obrigatório, visando à integração entre ensino, pesquisa e extensão e será ofertada em todos os semestres do curso, contabilizando um total de 297 h, acrescidas de mais 23 h de atividades extensionistas nas disciplinas de Metodologia e Prática de Ensino de Física I e II, totalizando 320 h. 
+Outra característica da estrutura curricular desse curso é a flexibilidade, pois ao longo de todo o curso, o estudante pode diversificar e aprofundar seu conhecimento nas mais
 
-O título de licenciado em Física está condicionado à apresentação de um **Trabalho de Conclusão de Curso (TCC)** . Este trabalho tem como objetivo viabilizar ao acadêmico a prática em ensino, pesquisa e/ou extensão e deverá ser desenvolvido sob a orientação de um docente e submetido a uma banca examinadora especialmente constituída para este fim. As condições que regulamentam o TCC serão aprovadas de acordo com as normas vigentes do IFPR. 
+variadas áreas da Física, Educação e afins, por meio dos componentes curriculares optativos que totalizam 934 horas.
 
-Neste curso, a **prática como componente curricular** está presente por todo o currículo nos componentes obrigatórios _Laboratórios de Física (I à IV)_ , _Laboratório de Ensino e Aprendizagem (I e II), Didática e Didática para Ensino de Física_ , totalizando 202 horas. Também serão oferecidos como optativos os componentes _Robótica para o Ensino de Física (67h), Metodologias Ativas no Ensino de Física (33h), Instrumentação para o Ensino de Mecânica e Termodinâmica (67h), Instrumentação para o Ensino de ótica e Eletromagnetismo (67h), Instrumentação para o Ensino de Física Moderna e Contemporânea (67h)_ . Dentre esses componentes, o licenciando deverá selecionar aquelas de seu interesse, até a integralização de 400 horas. 
+O curso de Licenciatura em Física oferece ao licenciando a oportunidade de desenhar, de acordo com seu perfil e suas particularidades, 934 horas do curso, selecionando quais componentes curriculares deseja cursar, dentre os oferecidos no núcleo de aprofundamento e diversificação. Tais componentes serão ofertados semestralmente, de acordo com a disponibilidade docente e interesse dos alunos. Fica estabelecido o limite mínimo de sete alunos e máximo de 20 alunos por componente curricular. O aluno poderá realizar o cancelamento ou troca de componentes eletivos dentro do prazo estabelecido em calendário acadêmico.
 
-Essas atividades deverão ser desenvolvidas com ênfase na execução e na observação de experimentos, bem como na atuação em situações contextualizadas e a resolução de situações problemas, características do cotidiano do professor de Física e de outros ambientes nos quais o licenciado em Física possa atuar. 
-
-Contextualizar o conteúdo significa assumir que todo conhecimento envolve uma relação entre sujeito e objeto, ou seja, processo de relacionar a teoria com a prática, mostrando aos alunos que os conteúdos físicos se relacionam com a vida humana, que são importantes e como podem ser aplicados em situações reais. 
-
-A prática poderá ser enriquecida por meio de atividades orais e escritas do professor, produção dos alunos, situações simuladoras, estudos de caso, atividades de laboratório, seminários e seções de estudos. Essas atividades serão desenvolvidas em sala de aula no horário da unidade curricular e externamente em outros ambientes educacionais, que incluem Escolas Públicas conveniadas com o IFPR, bem como ambientes não formais e informais de ensino. 
-
-Outra característica da estrutura curricular desse curso é a flexibilidade, pois ao longo de todo o curso, o estudante pode diversificar e aprofundar seu conhecimento nas mais 
-
-42 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-variadas áreas da Física, Educação e afins, por meio dos componentes curriculares optativos que totalizam 934 horas. 
-
-O curso de Licenciatura em Física oferece ao licenciando a oportunidade de desenhar, de acordo com seu perfil e suas particularidades, 934 horas do curso, selecionando quais componentes curriculares deseja cursar, dentre os oferecidos no núcleo de aprofundamento e diversificação. Tais componentes serão ofertados semestralmente, de acordo com a disponibilidade docente e interesse dos alunos. Fica estabelecido o limite mínimo de sete alunos e máximo de 20 alunos por componente curricular. O aluno poderá realizar o cancelamento ou troca de componentes eletivos dentro do prazo estabelecido em calendário acadêmico. 
-
-## **3.8.1. Matriz Curricular** 
+## **3.8.1. Matriz Curricular**
 
 |||**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**|**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**|**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**|**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**|**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**|**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**|**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**|**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**|
 |---|---|---|---|---|---|---|---|---|---|
@@ -1125,7 +942,6 @@ O curso de Licenciatura em Física oferece ao licenciando a oportunidade de dese
 |||Base legal: Resolução IFPR nº 19, de de 24/03/2017. Anexos I e II.||||||||
 |||Base legal específica do curso: Resolução CNE/CP nº 2/2015||||||||
 |||Resolução de autorização do curso no IFPR: Resolução nº 27/2014||||||||
-|||||||||||
 ||**Semanas do semestre letivo:**|||**Tipo**<br>**(C, P,**<br>**ES)**|**Número**<br>**de**<br>**aulas**<br>**semana**<br>**is**||**CH em**|**CH**<br>**em**|**% CH**<br>**Extensão**|
 ||||||||<br>**Hora-**<br>**aula**|**Hora-**<br>**relógi**<br>**o**|**Hora-rel**<br>**ógio**|
 ||**20**||||||**(min)**|**(min)**|**(min)**|
@@ -1139,15 +955,8 @@ O curso de Licenciatura em Física oferece ao licenciando a oportunidade de dese
 |||Optativa I|2|O|2||40|33|0|
 |||Atividades Curriculares de Extensão I|3|AE|2||40|33|0|
 |||**Subtotal(Total doperíodo)**|||||**400**|**332**||
-|||||||||||
 |**2º**<br>~~**Semestre**~~||Física Conceitual II|1|C|4||80|67|0|
 |||Vetores e Geometria Analítica|1|C|4||80|67|0|
-
-
-
-43 
-
-**==> picture [486 x 54] intentionally omitted <==**
 
 ||Cálculo Diferencial e integral I|1|C|4|80|67|0|
 |---|---|---|---|---|---|---|---|
@@ -1156,7 +965,6 @@ O curso de Licenciatura em Física oferece ao licenciando a oportunidade de dese
 ||Educação Inclusiva|1|C|2|40|33|0|
 ||Atividades Curriculares de Extensão II|<br>3|AE|2|40|33|0|
 ||**Subtotal (Total do período)**||||**400**|**333**||
-|||||||||
 |**3º**<br>**Semestre**|Física I - Elementos de Mecânica|1|C|4|80|67|0|
 ||Cálculo Diferencial e integral II|1|C|4|80|67|0|
 ||Educaçãopara Sustentabilidade|1|C|2|40|33|0|
@@ -1166,9 +974,6 @@ O curso de Licenciatura em Física oferece ao licenciando a oportunidade de dese
 ||Optativa II|2|O|2|40|33|0|
 ||Atividades Curriculares de Extensão<br>III|3|AE|2|40|33|0|
 ||**Subtotal (Total do período)**||||**400**|**332**||
-|||||||||
-
-
 
 |**4º**<br>**Semestre**|<br>Física II - Elementos de<br>Termodinâmica e ondulatória<br>Metodologia e Prática de Ensino de<br>Física I<br>Laboratório de Física II<br>Educação em Direitos Humanos<br>Gestão e organização escolar<br>Química Geral I<br>Química Geral Experimental I<br>Atividades Curriculares de Extensão<br>IV<br>**Subtotal (Total do período)**|1|C|4|80|67|<br>0|
 |---|---|---|---|---|---|---|---|
@@ -1180,25 +985,17 @@ O curso de Licenciatura em Física oferece ao licenciando a oportunidade de dese
 |||1|C|2|40|33|<br>0|
 |||3|AE|2|40|33|<br>0|
 ||||||**400**|**332**||
-|||||||||
 |**5º**<br>**Semestre**|<br>Física III - Elementos de<br>Eletromagnetismo<br>Metodologia e Prática de Ensino de<br>Física II<br>Laboratório de Física III<br>Língua Brasileira de Sinais<br>Tecnologia da informação e<br>comunicação na educação|1|C|4|80|67|<br>0|
 |||1|C|4|80|67|<br>12|
 |||1|C|2|40|33|<br>0|
 |||1|C|2|40|33|<br>0|
 |||1|C|2|40|33|<br>0|
 
-
-
-44 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
 |||Atividades Curriculares de Extensão<br>V|3|AE|2|40|33|<br>0|<br>0|
 |---|---|---|---|---|---|---|---|---|---|
 |||Optativa III|2|O|2|40|33|<br>0||
 |||Optativa IV|2|O|2|40|33|<br>0||
 |||**Subtotal (Total do período)**||||**400**|**332**|||
-|||||||||||
 |**6º**<br>**Semestre**||Física IV - Elementos de Física<br>Moderna e Contemporânea|1|C|4|80|67|<br>0||
 |||História, Filosofia e Sociologia da<br>Ciência|1|C|4|80|67|<br>0||
 |||Optativa V|2|O|4|80|67|<br>0||
@@ -1207,7 +1004,6 @@ O curso de Licenciatura em Física oferece ao licenciando a oportunidade de dese
 |||Metodologia de Pesquisa|1|C|2|40|33|<br>0||
 |||Atividades Curriculares de Extensão<br>VI|3|AE|2|40|33|<br>0||
 |||**Subtotal (Total do período)**||||**400**|**333**|||
-|||||||||||
 |**7º**<br>**Semestre**||Estágio Supervisionado I|1|ES|6|120|<br>100||<br>0|
 |||TCC I|1|C|2|40|<br>33||<br>0|
 |||Optativa VII|2|O|4|80|<br>67||<br>0|
@@ -1215,7 +1011,6 @@ O curso de Licenciatura em Física oferece ao licenciando a oportunidade de dese
 |||Optativa IX|2|O|2|40|<br>33||<br>0|
 |||Atividades Curriculares de Extensão<br>VII|3|AE|2|40|<br>33||<br>0|
 |||**Subtotal (Total do período)**||||**400**|**333**|||
-|||||||||||
 |**8º**<br>**Semestre**||Estágio Supervisionado II|3|ES|8|160|<br>133||<br>0|
 |||TCC II|1|C|2|40|<br>33||<br>0|
 |||Optativa X|2|O|4|80|<br>67||<br>0|
@@ -1223,17 +1018,10 @@ O curso de Licenciatura em Física oferece ao licenciando a oportunidade de dese
 |||Optativa XII|2|O|2|40|<br>33||<br>0|
 |||Atividades Curriculares de Extensão<br>VIII|2|AE|2|40|<br>33||<br>0|
 |||**Subtotal (Total do período)**||||**400**|**332**|||
-|||||||||||
 |**9º**<br>**Semestre**||Estágio Supervisionado III|3|ES|10|200|<br>167||<br>0|
 |||TCC III|1|C|2|40|<br>33||<br>0|
 |||Optativa XIII|2|O|4|80|<br>67||<br>0|
 |||Optativa XIV|2|O|2|40|<br>33||<br>0|
-
-
-
-45 
-
-**==> picture [486 x 54] intentionally omitted <==**
 
 |||Atividades Curriculares de Extensão<br>IX|2|AE|2|40|<br>33|<br>0|
 |---|---|---|---|---|---|---|---|---|
@@ -1251,30 +1039,20 @@ O curso de Licenciatura em Física oferece ao licenciando a oportunidade de dese
 |Núcleo I - Estudos de formaçãogeral||||||2400|<br>2000||
 |Núcleo II - Aprofundamento e diversificação||||||800|<br>667||
 |Núcleo III - Estudos integradores||||||640|<br>533||
-||||||||||
 |**CARGA HORÁRIA TOTAL DO CURSO**|||||||**3200**||
-||||||||||
 
+## **3.8.2 Componentes Optativos**
 
+Os componentes curriculares optativos são ofertados nas mais variadas características, relacionando elementos científicos, pedagógicos e tecnológicos que visam atender às demandas sociais e possibilitar maior contextualização e aprofundamento teórico prático. Esses componentes são ofertados em uma grande gama de opções, de forma que licenciandos poderão escolher quais componentes  cursar,  respeitando-se as cargas horárias mínimas de 400h de atividades práticas e 560h de componentes pedagógicos, quando somados os componentes cursados de todos núcleos.
 
-## **3.8.2 Componentes Optativos** 
+O licenciando deverá cumprir uma carga horária mínima de 628 horas de componentes optativos, sendo que os mesmos serão ofertados semestralmente, de acordo com a disponibilidade docente e interesse dos alunos. Fica estabelecido o limite mínimo de **sete alunos** e máximo de **20 alunos** por componente curricular. O aluno poderá realizar o cancelamento ou troca de componentes optativos dentro do prazo estabelecido em calendário acadêmico.
 
-Os componentes curriculares optativos são ofertados nas mais variadas características, relacionando elementos científicos, pedagógicos e tecnológicos que visam atender às demandas sociais e possibilitar maior contextualização e aprofundamento teórico prático. Esses componentes são ofertados em uma grande gama de opções, de forma que licenciandos poderão escolher quais componentes  cursar,  respeitando-se as cargas horárias mínimas de 400h de atividades práticas e 560h de componentes pedagógicos, quando somados os componentes cursados de todos núcleos. 
-
-O licenciando deverá cumprir uma carga horária mínima de 628 horas de componentes optativos, sendo que os mesmos serão ofertados semestralmente, de acordo com a disponibilidade docente e interesse dos alunos. Fica estabelecido o limite mínimo de **sete alunos** e máximo de **20 alunos** por componente curricular. O aluno poderá realizar o cancelamento ou troca de componentes optativos dentro do prazo estabelecido em calendário acadêmico. 
-
-Os componentes optativos estão identificados por asterisco, sendo um asterisco (*) relativo aos componentes ofertados a todos os alunos do curso, dois asteriscos (**) àqueles ofertados para os alunos que se encontram entre os módulos quatro a seis e três asteriscos (***) para os módulos sete e seguintes. 
+Os componentes optativos estão identificados por asterisco, sendo um asterisco (*) relativo aos componentes ofertados a todos os alunos do curso, dois asteriscos (**) àqueles ofertados para os alunos que se encontram entre os módulos quatro a seis e três asteriscos (***) para os módulos sete e seguintes.
 
 |guintes.|||
 |---|---|---|
 |**Componentes curriculares optativos**<br>***Componentes disponíveis para todos os licenciandos**<br>****Componentes disponíveis para licenciandos entre o 4º e o 6º períodos**<br>*****Componentes disponíveis para licenciandos em período superior ao 6º**||**CHT**<br>**(h)**|
 |<br>Seminários I*|40|33|
-
-
-
-46 
-
-**==> picture [486 x 54] intentionally omitted <==**
 
 |Seminários II*|40|33|
 |---|---|---|
@@ -1312,47 +1090,37 @@ Os componentes optativos estão identificados por asterisco, sendo um asterisco 
 |Instrumentaçãopara o ensino de ótica e eletromagnetismo***|80|67|
 |Instrumentaçãopara o ensino de Física Moderna***|80|67|
 
+Quadro 3: Componentes Curriculares optativos
 
+## **3.9. Ementário e Bibliografias**
 
-Quadro 3: Componentes Curriculares optativos 
+## **3.9.1. Componentes Curriculares Obrigatórios**
 
-47 
+## **Câmpus Ivaiporã do IFPR**
 
-**==> picture [486 x 54] intentionally omitted <==**
+**Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra
 
-## **3.9. Ementário e Bibliografias** 
+**Componente Curricular:** Pré-Cálculo **Carga Horária:** 67h **Período letivo:** 1° Período
 
-## **3.9.1. Componentes Curriculares Obrigatórios** 
+## **Ementa:**
 
-## **Câmpus Ivaiporã do IFPR** 
+Conjuntos Numéricos; Funções: Definição, domínio, imagem e gráfico. Gráfico por softwares. Funções injetoras, sobrejetoras e bijetoras. Função composta e função inversa. Funções especiais: polinômios, logaritmos e exponenciais, trigonométricas e trigonométricas inversas.
 
-**Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra 
+## **Bibliografia Básica:**
 
-**Componente Curricular:** Pré-Cálculo **Carga Horária:** 67h **Período letivo:** 1° Período 
+ADIEZZI, G.; MURAKAMI, C. Fundamentos de Matemática Elementar: Conjuntos, Funções. v. 1. 8. ed. São Paulo: Atual, 2004.
 
-## **Ementa:** 
+DANTE, L. R. Matemática: Contexto e Aplicações. 3 vols. São Paulo: Ática, 2003. SAFIER, F. Pré-Cálculo. 2. ed. Porto Alegre: Bookman, 2011. MEDEIROS, V. Z. Pré-cálculo. s/l: CENGAGE, 2013.
 
-Conjuntos Numéricos; Funções: Definição, domínio, imagem e gráfico. Gráfico por softwares. Funções injetoras, sobrejetoras e bijetoras. Função composta e função inversa. Funções especiais: polinômios, logaritmos e exponenciais, trigonométricas e trigonométricas inversas. 
+ADAMI, A. M. [et al.] Pré-cálculo. Porto Alegre: Bookman, 2015.
 
-## **Bibliografia Básica:** 
+## **Bibliografia Complementar:**
 
-ADIEZZI, G.; MURAKAMI, C. Fundamentos de Matemática Elementar: Conjuntos, Funções. v. 1. 8. ed. São Paulo: Atual, 2004. 
+LIMA, E. L. L. A Matemática do Ensino Médio. 9 ed. Rio de Janeiro: IMPA, 2006. BOULOS, P. Pré-cálculo. São Paulo: Pearson Education, 2001.
 
-DANTE, L. R. Matemática: Contexto e Aplicações. 3 vols. São Paulo: Ática, 2003. SAFIER, F. Pré-Cálculo. 2. ed. Porto Alegre: Bookman, 2011. MEDEIROS, V. Z. Pré-cálculo. s/l: CENGAGE, 2013. 
+DEMANA, F.; FOLEY, G. D. Pré-Cálculo. São Paulo: Pearson Addison Wesley, 2009.
 
-ADAMI, A. M. [et al.] Pré-cálculo. Porto Alegre: Bookman, 2015. 
-
-## **Bibliografia Complementar:** 
-
-LIMA, E. L. L. A Matemática do Ensino Médio. 9 ed. Rio de Janeiro: IMPA, 2006. BOULOS, P. Pré-cálculo. São Paulo: Pearson Education, 2001. 
-
-DEMANA, F.; FOLEY, G. D. Pré-Cálculo. São Paulo: Pearson Addison Wesley, 2009. 
-
-AYRES JR, F.; SCHMIDT, P. A. Teoria e Problemas de Matemática para o Ensino Superior. 3. ed. Porto Alegre: Bookman, 2006. GOLDSTEIN, L. J. ...[et al]. Matemática aplicada: economia, administração e contabilidade. Porto Alegre: Bookman, 2012. 
-
-48 
-
-**==> picture [486 x 54] intentionally omitted <==**
+AYRES JR, F.; SCHMIDT, P. A. Teoria e Problemas de Matemática para o Ensino Superior. 3. ed. Porto Alegre: Bookman, 2006. GOLDSTEIN, L. J. ...[et al]. Matemática aplicada: economia, administração e contabilidade. Porto Alegre: Bookman, 2012.
 
 |**Campus Ivaiporã do IFPR**|**Campus Ivaiporã do IFPR**|
 |---|---|
@@ -1363,35 +1131,25 @@ AYRES JR, F.; SCHMIDT, P. A. Teoria e Problemas de Matemática para o Ensino Sup
 |**Bibliografia Básica:**<br>TREFIL, J., HAZEN, R.M., Física Viva Vol. 1  -  Uma Introdução à Física Conceitual. Editora<br>LTC, 2006.<br>HEWITT, P. G, Física Conceitual. 9.  ed. Porto Alegre: Bookman, 2002.<br>GASPAR, A. Experiências de Ciências para o Ensino Fundamental. São Paulo: Editora<br>Ática,<br>2005.<br>PERUZZO, J., Experimentos de física básica: mecânica. Editora Livraria da Física, 2012.<br>FERRARO, N. G., Física Básica: volume único. 3. ed.São Paulo: Editora Atual.||
 |**Bibliografia** **Complementar**:<br>Grupo de Reelaboração do Ensino De Física. Física v. 1. 7. ed. São Paulo: EDUSP, 2011.<br>Grupo de Reelaboração do Ensino De Física. Física v. 2. 5.  ed.  São Paulo: EDUSP. 2005.<br>ALVARENGA, B.; LUZ, A. M. R. Curso de Física, v. 1, São Paulo: Editora Scipione, 2010.<br>SILVA, L. C.; CANATO JUNIOR, O. ; KANTOR, C. A.; BONETTI, M. C.; ALVES, V.M.;<br>PAOLIELLO JR, L.A. Quanta Física - vol.2. São Paulo: Editora PD, 2010.<br>VALADARES, E. C._Física mais que divertida: inventos eletrizantes baseados em materiais_<br>_reciclados e de baixo custo_**.**Editora UFMG, Belo Horizonte. 2009.||
 
+**Campus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Didática Geral **Carga Horária:** 33h **Período letivo:** 1° Período
 
+**Ementa:**
 
-49 
+A didática e a formação profissional do professor. Caracterização, problematização e análise crítica da prática pedagógica. Conceituação, funções e importância do planejamento do ensino. Processos de ensino e aprendizagem: relação professor-aluno-conhecimento, diferentes abordagens, fundamentos, elementos didáticos. Avaliação: concepções, características, modalidades, técnicas e instrumentos. Auto-avaliação. Discussão do papel da avaliação nas políticas educacionais contemporâneas. Bibliografia Básica: LIBÂNEO, J. C. **Didática** . São Paulo: Cortez, 2008.
 
-**==> picture [486 x 54] intentionally omitted <==**
+FREIRE, P. **Pedagogia da Autonomia** . 43. ed. Rio de Janeiro: Paz e Terra, 2011. LUCKESI, C. C. **Avaliação da Aprendizagem** : Componente do Ato Pedagógico. Cortez. 2011. FONTANA, Roselia A. Cação. **Mediação Pedagógica na sala de aula** . 4 ed. Campinas: Autores Associados, 2005.
 
-**Campus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Didática Geral **Carga Horária:** 33h **Período letivo:** 1° Período 
+GASPARIN, João Luiz. **Uma didática para pedagogia histórico-crítica** . 5 ed. Campinas: autores Associados, 2012.
 
-**Ementa:** 
+Bibliografia Complementar:
 
-A didática e a formação profissional do professor. Caracterização, problematização e análise crítica da prática pedagógica. Conceituação, funções e importância do planejamento do ensino. Processos de ensino e aprendizagem: relação professor-aluno-conhecimento, diferentes abordagens, fundamentos, elementos didáticos. Avaliação: concepções, características, modalidades, técnicas e instrumentos. Auto-avaliação. Discussão do papel da avaliação nas políticas educacionais contemporâneas. Bibliografia Básica: LIBÂNEO, J. C. **Didática** . São Paulo: Cortez, 2008. 
+MORIN, E. **Os sete Saberes Necessários à Educação do Futuro** _._ 10. ed. São Paulo: Cortez, 2000.
 
-FREIRE, P. **Pedagogia da Autonomia** . 43. ed. Rio de Janeiro: Paz e Terra, 2011. LUCKESI, C. C. **Avaliação da Aprendizagem** : Componente do Ato Pedagógico. Cortez. 2011. FONTANA, Roselia A. Cação. **Mediação Pedagógica na sala de aula** . 4 ed. Campinas: Autores Associados, 2005. 
+FREIRE, Paulo. SCHOR, Ira. **Medo e ousadia** . O cotidiano do professor. Tradução: LOPES, Adriana. 12 ed. Rio de janeiro: Paz e Terra, 1986.
 
-GASPARIN, João Luiz. **Uma didática para pedagogia histórico-crítica** . 5 ed. Campinas: autores Associados, 2012. 
+FREIRE, Paulo. **Pedagogia do Oprimido** . 58 ed. Rio de janeiro: Paz e Terra, 2014.
 
-Bibliografia Complementar: 
-
-MORIN, E. **Os sete Saberes Necessários à Educação do Futuro** _._ 10. ed. São Paulo: Cortez, 2000. 
-
-FREIRE, Paulo. SCHOR, Ira. **Medo e ousadia** . O cotidiano do professor. Tradução: LOPES, Adriana. 12 ed. Rio de janeiro: Paz e Terra, 1986. 
-
-FREIRE, Paulo. **Pedagogia do Oprimido** . 58 ed. Rio de janeiro: Paz e Terra, 2014. 
-
-FERRAÇO, Carlos Eduardo (Org.) **Cotidiano escolar, formação de professores(as) e currículo** . 2 ed. São Paulo: cortez, 2008. SAVIANI, Nereide. **Saber escolar, currículo e didática** . Problemas da unidade contéudo/método no processo pedagógico. Campinas, SP: autores associados, 2010. 
-
-50 
-
-**==> picture [486 x 54] intentionally omitted <==**
+FERRAÇO, Carlos Eduardo (Org.) **Cotidiano escolar, formação de professores(as) e currículo** . 2 ed. São Paulo: cortez, 2008. SAVIANI, Nereide. **Saber escolar, currículo e didática** . Problemas da unidade contéudo/método no processo pedagógico. Campinas, SP: autores associados, 2010.
 
 |**Campus Ivaiporã do IFPR**|**Campus Ivaiporã do IFPR**|
 |---|---|
@@ -1402,11 +1160,14 @@ FERRAÇO, Carlos Eduardo (Org.) **Cotidiano escolar, formação de professores(a
 |<br>Bibliografia Básica:<br>MANACORDA, M. A.**História da Educação**: da Antiguidade aos nossos Dias. 13. ed.<br>São Paulo: Cortez, 2010.<br>PAVIANI, J.**Platão e a Educação**. São Paulo: Autêntica, 2008.<br>SAVIANI, D. Escola e Democracia. 41. ed. São Paulo: Autores Associados, 2009.<br>PILETTI, Claudino. História da Educação.<br>ARANHA, M. L. A.**História da Educação e da Pedagogia**. Editora Moderna, 2006.||
 |Bibliografia Complementar:<br>CAMBI, F.**História da Pedagogia**. São Paulo: UNESP, 2001.<br>DALBOSCO, C. A.**Pedagogia Filosófica**: Cercanias de um Diálogo. São Paulo: Paulinas,<br>2007<br>FRANÇA, Leonel_._**_O Método Pedagógico dos Jesuítas_**_._Livraria Agir Ed., RJ, 1952.<br>GADOTTI, M.**História das Ideias Pedagógicas**. São Paulo: Ática, 2011.<br>LOPES,ElianeMartaTeixeira_._**_Origem da Educação Pública_**_._ Loyola, SãoPaulo,1981||
 
-
-
-51 
-
-**==> picture [486 x 54] intentionally omitted <==**
+|**Câmpus Ivaiporã do IFPR**|**Câmpus Ivaiporã do IFPR**|
+|---|---|
+|**Curso:**Licenciatura em Física|<br>**Área do Conhecimento:**Ciências Exatas e da Terra|
+|**Componente Curricular:**Filosofia da Educação I||
+|<br>**Carga Horária:**33h|<br>**Período letivo:**1° Período|
+|**Ementa:**<br>Evolução da perspectiva de educação no pensamento filosófico. Noção de paideia no<br>pensamento antigo. A revolução moderna. Escola de Frankfurt. A educação como processo de<br>emancipação humana.  A concepção dialética da educação. Formação do homo acadêmicos.<br>Dimensões afetiva, estética, lúdica, artística, ética e biopscicossocial do conhecimento.||
+|Bibliografia Básica:<br>ADORNO, Theodor.**Educação e Emancipação**. Tradução: Wolfgang Leo Maar. Paz e<br>Terra: São Paulo, 2006.<br>COMENIUS.**Didática Magna**. 2ª ed., São Paulo: Martins Fontes, 2002.<br>HOURDAKIS, A.**Aristóteles e a Educação**. São Paulo: Loyola, 2001.<br>ROUSSEAU, Jean-Jacques.**Emílio ou da Educação**. Trad. Sérgio Milliet. 3. ed. Rio de<br>Janeiro: Bertrand Brasil, 1995.<br>PAVIANI, J.**Platão e a Educação**. São Paulo: Autêntica, 2008.||
+|Bibliografia Complementar:<br>DALBOSCO, Claudio. A. Dalbosco; CASAGRANDA, Edilson A.; Mühl (Orgs.)**Filosofia e**<br>**Pedagogia**. Aspectos Históricos e Temáticos. Campinas, SP: autores Associados, 2008.<br>GHIRALDELLI, P.**Filosofia e História da Educação Brasileira**. 2 ed. São Paulo: Manole,<br>2009.<br>GHIZZO NETO, A.**Corrupção, Estado Democrático de Direito e Educação**. Rio de<br>Janeiro: Lúmen Júris, 2011.<br>LUCKESI, Cipriano Carlos.**Filosofia da Educação**. 3 ed. São Paulo Cortez, 2011.<br>SAVIANI, Dermeval.**Educação**. Do senso comum à consciência filosófica. 19 ed.<br>Campunas, SP: autores Associados, 2013.<br>TORRES, C. A. e TEODORO, A.**Educação Crítica e Utopia**: Perspectivas para o Século<br>XXI. São Paulo: Cortez, 2006.||
 
 |**Câmpus Ivaiporã do IFPR**|**Câmpus Ivaiporã do IFPR**|
 |---|---|
@@ -1417,106 +1178,77 @@ FERRAÇO, Carlos Eduardo (Org.) **Cotidiano escolar, formação de professores(a
 |Bibliografia Básica:<br>ADORNO, Theodor.**Educação e Emancipação**. Tradução: Wolfgang Leo Maar. Paz e<br>Terra: São Paulo, 2006.<br>COMENIUS.**Didática Magna**. 2ª ed., São Paulo: Martins Fontes, 2002.<br>HOURDAKIS, A.**Aristóteles e a Educação**. São Paulo: Loyola, 2001.<br>ROUSSEAU, Jean-Jacques.**Emílio ou da Educação**. Trad. Sérgio Milliet. 3. ed. Rio de<br>Janeiro: Bertrand Brasil, 1995.<br>PAVIANI, J.**Platão e a Educação**. São Paulo: Autêntica, 2008.||
 |Bibliografia Complementar:<br>DALBOSCO, Claudio. A. Dalbosco; CASAGRANDA, Edilson A.; Mühl (Orgs.)**Filosofia e**<br>**Pedagogia**. Aspectos Históricos e Temáticos. Campinas, SP: autores Associados, 2008.<br>GHIRALDELLI, P.**Filosofia e História da Educação Brasileira**. 2 ed. São Paulo: Manole,<br>2009.<br>GHIZZO NETO, A.**Corrupção, Estado Democrático de Direito e Educação**. Rio de<br>Janeiro: Lúmen Júris, 2011.<br>LUCKESI, Cipriano Carlos.**Filosofia da Educação**. 3 ed. São Paulo Cortez, 2011.<br>SAVIANI, Dermeval.**Educação**. Do senso comum à consciência filosófica. 19 ed.<br>Campunas, SP: autores Associados, 2013.<br>TORRES, C. A. e TEODORO, A.**Educação Crítica e Utopia**: Perspectivas para o Século<br>XXI. São Paulo: Cortez, 2006.||
 
+## **Campus Ivaiporã do IFPR**
 
+**Curso** : Licenciatura em Física **Área do Conhecimento** : Ciências Exatas e da Terra **Componente Curricular** : Língua Portuguesa **Carga Horária** : 33h **Período Letivo** :  1º período
 
-|**Câmpus Ivaiporã do IFPR**|**Câmpus Ivaiporã do IFPR**|
-|---|---|
-|**Curso:**Licenciatura em Física|<br>**Área do Conhecimento:**Ciências Exatas e da Terra|
-|**Componente Curricular:**Filosofia da Educação I||
-|<br>**Carga Horária:**33h|<br>**Período letivo:**1° Período|
-|**Ementa:**<br>Evolução da perspectiva de educação no pensamento filosófico. Noção de paideia no<br>pensamento antigo. A revolução moderna. Escola de Frankfurt. A educação como processo de<br>emancipação humana.  A concepção dialética da educação. Formação do homo acadêmicos.<br>Dimensões afetiva, estética, lúdica, artística, ética e biopscicossocial do conhecimento.||
-|Bibliografia Básica:<br>ADORNO, Theodor.**Educação e Emancipação**. Tradução: Wolfgang Leo Maar. Paz e<br>Terra: São Paulo, 2006.<br>COMENIUS.**Didática Magna**. 2ª ed., São Paulo: Martins Fontes, 2002.<br>HOURDAKIS, A.**Aristóteles e a Educação**. São Paulo: Loyola, 2001.<br>ROUSSEAU, Jean-Jacques.**Emílio ou da Educação**. Trad. Sérgio Milliet. 3. ed. Rio de<br>Janeiro: Bertrand Brasil, 1995.<br>PAVIANI, J.**Platão e a Educação**. São Paulo: Autêntica, 2008.||
-|Bibliografia Complementar:<br>DALBOSCO, Claudio. A. Dalbosco; CASAGRANDA, Edilson A.; Mühl (Orgs.)**Filosofia e**<br>**Pedagogia**. Aspectos Históricos e Temáticos. Campinas, SP: autores Associados, 2008.<br>GHIRALDELLI, P.**Filosofia e História da Educação Brasileira**. 2 ed. São Paulo: Manole,<br>2009.<br>GHIZZO NETO, A.**Corrupção, Estado Democrático de Direito e Educação**. Rio de<br>Janeiro: Lúmen Júris, 2011.<br>LUCKESI, Cipriano Carlos.**Filosofia da Educação**. 3 ed. São Paulo Cortez, 2011.<br>SAVIANI, Dermeval.**Educação**. Do senso comum à consciência filosófica. 19 ed.<br>Campunas, SP: autores Associados, 2013.<br>TORRES, C. A. e TEODORO, A.**Educação Crítica e Utopia**: Perspectivas para o Século<br>XXI. São Paulo: Cortez, 2006.||
+## **Ementa** :
 
+Estudo do texto: Gêneros textuais e usos na prática social e acadêmica.  Os discursos narrativos, descritivos e dissertativos em diversos gêneros.  Os gêneros textuais acadêmicos e científicos e suas características estruturais e linguísticas. Leitura de textos informativos, acadêmicos e científicos.  Recursos linguísticos aplicados aos gêneros. Coesão e coerência textuais. Subjetividade e discurso em textos científicos.  Recursos linguísticos e gramaticais aplicados aos diferentes gêneros textuais. Tópicos gramaticais e linguísticos.
 
+## **Bibliografia Básica** :
 
-52 
+CASTILHO, Ataliba T. de. 2010. **Nova Gramática do Português Brasileiro** . São Paulo: Editora Contexto. ISBN 978-85-7244-462-0. (768 p.)
 
-**==> picture [486 x 54] intentionally omitted <==**
+MARCUSCHI, L. A. **Produção Textual, Análise de Gêneros e Compreensão** . 3. ed. São Paulo: Parábola, 2008. MACHADO, Anna Rachel (Coord.). **Leitura e produção de textos técnicos e acadêmicos.** Parábola: São Paulo, 2012. MACHADO,  Anna Rachel (Coord.). **Planejar gêneros acadêmicos: escrita científica, texto acadêmico, diário de pesquisa, metodologia.** Parábola: São Paulo, 2012. SAVIOLI, Francisco Platão; FIORIN, José Luiz. **Lições de texto: leitura e redação** . 5 ed. São Paulo: Ática, 2006.
 
-## **Campus Ivaiporã do IFPR** 
+## **Bibliografia Complementar** :
 
-**Curso** : Licenciatura em Física **Área do Conhecimento** : Ciências Exatas e da Terra **Componente Curricular** : Língua Portuguesa **Carga Horária** : 33h **Período Letivo** :  1º período 
+DONÍSIO, A.P.; BEZERRA, M. de S. (Orgs.). **Tecendo textos, construindo experiências** . Rio de Janeiro: Lucerna, 2003. MACHADO,  Anna Rachel (Coord.). **Resumo.** Parábola: São Paulo, 2012. MACHADO,  Anna Rachel (Coord.). **Resenha.** Parábola: São Paulo, 2012. MACHADO,  Anna Rachel (Coord.). **Trabalhos de pesquisa.** Parábola: São Paulo, 2012. NEVES, M.H.L.M. **Gramática de usos de português** . São Paulo: UNESP, 2000.
 
-## **Ementa** : 
+## **Campus Ivaiporã do IFPR**
 
-Estudo do texto: Gêneros textuais e usos na prática social e acadêmica.  Os discursos narrativos, descritivos e dissertativos em diversos gêneros.  Os gêneros textuais acadêmicos e científicos e suas características estruturais e linguísticas. Leitura de textos informativos, acadêmicos e científicos.  Recursos linguísticos aplicados aos gêneros. Coesão e coerência textuais. Subjetividade e discurso em textos científicos.  Recursos linguísticos e gramaticais aplicados aos diferentes gêneros textuais. Tópicos gramaticais e linguísticos. 
+**Curso** : Licenciatura em Física **Área do Conhecimento** : Ciências Exatas e da Terra **Componente Curricular** : Curricularização da extensão I
 
-## **Bibliografia Básica** : 
+**Carga Horária** : 33h **Período Letivo** :  1º período
 
-CASTILHO, Ataliba T. de. 2010. **Nova Gramática do Português Brasileiro** . São Paulo: Editora Contexto. ISBN 978-85-7244-462-0. (768 p.) 
+## **Ementa** :
 
-MARCUSCHI, L. A. **Produção Textual, Análise de Gêneros e Compreensão** . 3. ed. São Paulo: Parábola, 2008. MACHADO, Anna Rachel (Coord.). **Leitura e produção de textos técnicos e acadêmicos.** Parábola: São Paulo, 2012. MACHADO,  Anna Rachel (Coord.). **Planejar gêneros acadêmicos: escrita científica, texto acadêmico, diário de pesquisa, metodologia.** Parábola: São Paulo, 2012. SAVIOLI, Francisco Platão; FIORIN, José Luiz. **Lições de texto: leitura e redação** . 5 ed. São Paulo: Ática, 2006. 
+Conceituação e tipologia da extensão universitária. Estudos das legislações e diretrizes de extensão. Análise do impacto da implementação da extensão universitária na sociedade, na academia e na formação do estudante. Reconhecimento da realidade social da comunidade externa ao campus IFPR - Ivaiporã. Caminhos possíveis para a extensão universitária: construção, planejamento, execução e avaliação de projetos e atividades extensionistas.
 
-## **Bibliografia Complementar** : 
+## **Bibliografia Básica** :
 
-DONÍSIO, A.P.; BEZERRA, M. de S. (Orgs.). **Tecendo textos, construindo experiências** . Rio de Janeiro: Lucerna, 2003. MACHADO,  Anna Rachel (Coord.). **Resumo.** Parábola: São Paulo, 2012. MACHADO,  Anna Rachel (Coord.). **Resenha.** Parábola: São Paulo, 2012. MACHADO,  Anna Rachel (Coord.). **Trabalhos de pesquisa.** Parábola: São Paulo, 2012. NEVES, M.H.L.M. **Gramática de usos de português** . São Paulo: UNESP, 2000. 
+FORPROEX. Extensão universitária: organização e sistematização. Belo Horizonte: Coopmed, 2007 (Coleção Extensão Universitária, v. 6) POZO, Juan Ignácio; CRESPO, Miguel Ángel Gómez. A aprendizagem e o ensino de ciências. Do conhecimento do cotidiano ao conhecimento científico. 5 ed. Porto Alegre: Artmed, 2009. DEUS, Sandra de. Extensão universitária : trajetórias e desafios. Santa Maria, RS : Ed. PRE-UFSM, 2020 (Série Extensão). CASTRO, Cláudio de Moura. A Prática da Pesquisa. São Paulo: Pearson Prentice Hall, 2006. Resolução CNE/CES nº 7, de 18 de dezembro de 2018,  estabelece as Diretrizes para a Extensão na Educação Superior Brasileira e regimenta o disposto na Meta 12.7 da Lei nº 13.005/2014, que aprova o Plano Nacional de Educação - PNE 2014-2024 e dá outras providências.
 
-53 
+## **Bibliografia Complementar** :
 
-**==> picture [486 x 54] intentionally omitted <==**
+THIOLLLENT, Michel. Metodologia da Pesquisa-Ação. São Paulo: Cortez, 2011.
 
-## **Campus Ivaiporã do IFPR** 
+SANTOS, B.S. Universidade do Século XXI: para uma reforma democrática e emancipatória da Universidade. São Paulo: Cortez, 2004. 120p. (Coleção questões da nossa época). SEVERINO, A. J. Metodologia do Trabalho Científico. 23. ed. São Paulo: Cortez, 2007. MÉSZÁROS. I. Estrutura Social e Formas de Consciência – a determinação social do método. São Paulo: Boitempo, 2009.
 
-**Curso** : Licenciatura em Física **Área do Conhecimento** : Ciências Exatas e da Terra **Componente Curricular** : Curricularização da extensão I 
+SOUSA, Ana Luiza Lima. A história da extensão universitária a partir de seus interlocutores. UFG 1995 (Dissertação de mestrado).
 
-**Carga Horária** : 33h **Período Letivo** :  1º período 
+## **Campus Ivaiporã do IFPR**
 
-## **Ementa** : 
+**Curso** : Licenciatura em Física **Área do Conhecimento** : Ciências Exatas e da Terra
 
-Conceituação e tipologia da extensão universitária. Estudos das legislações e diretrizes de extensão. Análise do impacto da implementação da extensão universitária na sociedade, na academia e na formação do estudante. Reconhecimento da realidade social da comunidade externa ao campus IFPR - Ivaiporã. Caminhos possíveis para a extensão universitária: construção, planejamento, execução e avaliação de projetos e atividades extensionistas. 
+**Componente Curricular** : Cálculo Diferencial e Integral I
 
-## **Bibliografia Básica** : 
+**Carga Horária** : 67h **Período Letivo** :  2º período
 
-FORPROEX. Extensão universitária: organização e sistematização. Belo Horizonte: Coopmed, 2007 (Coleção Extensão Universitária, v. 6) POZO, Juan Ignácio; CRESPO, Miguel Ángel Gómez. A aprendizagem e o ensino de ciências. Do conhecimento do cotidiano ao conhecimento científico. 5 ed. Porto Alegre: Artmed, 2009. DEUS, Sandra de. Extensão universitária : trajetórias e desafios. Santa Maria, RS : Ed. PRE-UFSM, 2020 (Série Extensão). CASTRO, Cláudio de Moura. A Prática da Pesquisa. São Paulo: Pearson Prentice Hall, 2006. Resolução CNE/CES nº 7, de 18 de dezembro de 2018,  estabelece as Diretrizes para a Extensão na Educação Superior Brasileira e regimenta o disposto na Meta 12.7 da Lei nº 13.005/2014, que aprova o Plano Nacional de Educação - PNE 2014-2024 e dá outras providências. 
+## **Ementa** :
 
-## **Bibliografia Complementar** : 
+Limites de funções: Definição, propriedades, limites laterais e limites no infinito; Continuidade de funções; Derivadas: Definição, interpretação geométrica e física, regras de derivação, aplicações da derivada; Integrais: Definição, integrais definidas e o teorema fundamental do cálculo, aplicações de integrais definidas, técnicas de integração e integrais impróprias.
 
-THIOLLLENT, Michel. Metodologia da Pesquisa-Ação. São Paulo: Cortez, 2011. 
+## **Bibliografia Básica** :
 
-SANTOS, B.S. Universidade do Século XXI: para uma reforma democrática e emancipatória da Universidade. São Paulo: Cortez, 2004. 120p. (Coleção questões da nossa época). SEVERINO, A. J. Metodologia do Trabalho Científico. 23. ed. São Paulo: Cortez, 2007. MÉSZÁROS. I. Estrutura Social e Formas de Consciência – a determinação social do método. São Paulo: Boitempo, 2009. 
+LEITHOLD, L. Cálculo com Geometria Analítica. v. 1. 3. ed. São Paulo: Harbra, 1994. FLEMMING, D., GONÇALVES, M. Cálculo A: Funções, Limite, Derivação e Integração. 6. ed. São Paulo: Pearson, 2006.
 
-SOUSA, Ana Luiza Lima. A história da extensão universitária a partir de seus interlocutores. UFG 1995 (Dissertação de mestrado). 
+THOMAS, George B. II. WEIR, Maurice D. III. HASS, Joel. Cálculo, V.1. 12ª ed. São Paulo: Pearson Education do Brasil, 2012.
 
-54 
+STEWART, James. Cálculo. Vol. I. Tradução: Antônio Carlos Moreti. Cengage Learning. São Paulo, 2009.
 
-**==> picture [486 x 54] intentionally omitted <==**
+GUIDORIZZI, H. L. Um Curso de Cálculo. v. 1. 5. ed. Rio de Janeiro: LTC, 2001.
 
-## **Campus Ivaiporã do IFPR** 
+**Bibliografia Complementar** :
 
-**Curso** : Licenciatura em Física **Área do Conhecimento** : Ciências Exatas e da Terra 
+BOULOS, P., ABUD, Z. I. Cálculo Diferencial e Integral. v. 1,2. São Paulo: Makron Books, 1999.
 
-**Componente Curricular** : Cálculo Diferencial e Integral I 
+ANTON, H.; BIVENS, I.; DAVIS, S. Cálculo. v. 1. 8. ed. Porto Alegre: Bookman, 2007. IEZZI, G.; MURAKAMI, C.; MACHADO, N. J. Fundamentos de Matemática Elementar: Limites, Derivadas e Noções de Integral. v. 8. 6. ed. São Paulo: Atual,2005.
 
-**Carga Horária** : 67h **Período Letivo** :  2º período 
+BARBONI, A. Cálculo e Análise: Cálculo diferencial integral a uma variável. Rio de Janeiro: LTC, 2013.
 
-## **Ementa** : 
-
-Limites de funções: Definição, propriedades, limites laterais e limites no infinito; Continuidade de funções; Derivadas: Definição, interpretação geométrica e física, regras de derivação, aplicações da derivada; Integrais: Definição, integrais definidas e o teorema fundamental do cálculo, aplicações de integrais definidas, técnicas de integração e integrais impróprias. 
-
-## **Bibliografia Básica** : 
-
-LEITHOLD, L. Cálculo com Geometria Analítica. v. 1. 3. ed. São Paulo: Harbra, 1994. FLEMMING, D., GONÇALVES, M. Cálculo A: Funções, Limite, Derivação e Integração. 6. ed. São Paulo: Pearson, 2006. 
-
-THOMAS, George B. II. WEIR, Maurice D. III. HASS, Joel. Cálculo, V.1. 12ª ed. São Paulo: Pearson Education do Brasil, 2012. 
-
-STEWART, James. Cálculo. Vol. I. Tradução: Antônio Carlos Moreti. Cengage Learning. São Paulo, 2009. 
-
-GUIDORIZZI, H. L. Um Curso de Cálculo. v. 1. 5. ed. Rio de Janeiro: LTC, 2001. 
-
-**Bibliografia Complementar** : 
-
-BOULOS, P., ABUD, Z. I. Cálculo Diferencial e Integral. v. 1,2. São Paulo: Makron Books, 1999. 
-
-ANTON, H.; BIVENS, I.; DAVIS, S. Cálculo. v. 1. 8. ed. Porto Alegre: Bookman, 2007. IEZZI, G.; MURAKAMI, C.; MACHADO, N. J. Fundamentos de Matemática Elementar: Limites, Derivadas e Noções de Integral. v. 8. 6. ed. São Paulo: Atual,2005. 
-
-BARBONI, A. Cálculo e Análise: Cálculo diferencial integral a uma variável. Rio de Janeiro: LTC, 2013. 
-
-ROGAWSKI, J. Cálculo. V.1 Porto Alegre: Bookman, 2009. 
-
-55 
-
-**==> picture [486 x 54] intentionally omitted <==**
+ROGAWSKI, J. Cálculo. V.1 Porto Alegre: Bookman, 2009.
 
 |**Campus Ivaiporã do IFPR**|**Campus Ivaiporã do IFPR**|
 |---|---|
@@ -1527,47 +1259,37 @@ ROGAWSKI, J. Cálculo. V.1 Porto Alegre: Bookman, 2009.
 |**Bibliografia** **Básica**:<br>HEWITT, P. G, Física Conceitual. 11. ed. Porto Alegre: Bookman, 2002.<br>HOLZNER, S. Física para Leigos. 1ed. Alta Books. 2009<br>TREFIL,  J.,  HAZEN,  R.M.,  Física  Viva  Vol.  2  -  Uma  Introdução  à  Física  Conceitual.<br>Editora LTC, 2006.<br>FERDINIAN, B (org). Ser protagonista Física 3. SM. 2ed. 2014<br>WALKER,J. O circo voador da Física. 2ed. LTC. 2008.||
 |**Bibliografia** **Complementar**:<br>ALVARENGA, B, LUZ, A. M, R. Curso de Física, Vol 1, São Paulo: Editora Scipione, 2010.<br>BRAZ JÚNIOR, Dulcidio. Física moderna: tópicos para o ensino médio. Campinas, SP:<br>Companhia da Escola, 2002. 118 p.<br>GASPAR, A. Experiências de Ciências. 2ed. São Paulo: Editora Ática. 2014.<br>Grupo de Reelaboração do Ensino De Física. Física v. 2. 5. ed. São Paulo: EdUSP. 2005.<br>Grupo de Reelaboração do Ensino De Física. Física v. 3. 7. ed. São Paulo: EdUSP. 2011.||
 
+Câmpus Ivaiporã do IFPR **Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Vetores e Geometria Analítica **Carga Horária:** 67h **Período letivo:** 2º período
 
+## **Ementa:**
 
-56 
+Geometria Plana: distâncias entre pontos e entre ponto e reta, condição de alinhamento de três pontos, paralelismo e ortogonalidade, curvas e regiões planas.
 
-**==> picture [486 x 54] intentionally omitted <==**
+Cônicas: círculo e circunferência, elipse, parábola e hipérbole. Geometria Espacial: reta no R[3] : pontos, retas e planos; transformações de coordenadas cartesianas e superfícies. Vetores: módulo, expressão cartesiana, versor, e propriedades.  Álgebra Vetorial: operações com vetores, produto escalar, produto vetorial, e produto misto.
 
-Câmpus Ivaiporã do IFPR **Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Vetores e Geometria Analítica **Carga Horária:** 67h **Período letivo:** 2º período 
+## **Bibliografia Básica** :
 
-## **Ementa:** 
+EZZI, G. **Fundamentos de matemática elementar** , vol. 7. 8 ed. São Paulo: Atual, 2005.
 
-Geometria Plana: distâncias entre pontos e entre ponto e reta, condição de alinhamento de três pontos, paralelismo e ortogonalidade, curvas e regiões planas. 
+CAMARGO, I., BOULOS, P. **Geometria Analítica** . 3. ed. São Paulo: Pearson Prentice Hall, 2004.
 
-Cônicas: círculo e circunferência, elipse, parábola e hipérbole. Geometria Espacial: reta no R[3] : pontos, retas e planos; transformações de coordenadas cartesianas e superfícies. Vetores: módulo, expressão cartesiana, versor, e propriedades.  Álgebra Vetorial: operações com vetores, produto escalar, produto vetorial, e produto misto. 
+SANTOS, F. J., FERREIRA, S. **Geometria Analítica** . Porto Alegre: Bookman, 2009. DOS REIS, G.L. **Geometria Analítica** . 2 ed. Rio de Janeiro: LTC, 2008.
 
-## **Bibliografia Básica** : 
+CALLIOLI, M.F. e CAROLI, A.C.A. **Matrizes, Vetores, Geometria Analítica: teoria e exercícios** . São Paulo: Nobel, 1984.
 
-EZZI, G. **Fundamentos de matemática elementar** , vol. 7. 8 ed. São Paulo: Atual, 2005. 
+## **Bibliografia Complementar:**
 
-CAMARGO, I., BOULOS, P. **Geometria Analítica** . 3. ed. São Paulo: Pearson Prentice Hall, 2004. 
+MELLO, A. D de. V **etores: uma Iniciação à geometria analítica** . 2. ed. Livraria da Física,
 
-SANTOS, F. J., FERREIRA, S. **Geometria Analítica** . Porto Alegre: Bookman, 2009. DOS REIS, G.L. **Geometria Analítica** . 2 ed. Rio de Janeiro: LTC, 2008. 
+## 2011.
 
-CALLIOLI, M.F. e CAROLI, A.C.A. **Matrizes, Vetores, Geometria Analítica: teoria e exercícios** . São Paulo: Nobel, 1984. 
+JULIANELLI, J. R. **Cálculo Vetorial e Geometria Analítica** . São Paulo: Ciência Moderna, 2008.
 
-## **Bibliografia Complementar:** 
+LEITE, O. R. V. **Geometria Analítica Espacial** . 7. ed. São Paulo: Loyola, 2000.
 
-MELLO, A. D de. V **etores: uma Iniciação à geometria analítica** . 2. ed. Livraria da Física, 
+LORETO JR, A. P., LORETO, A. C. C. **Vetores e Geometria Analítica: Teoria e Exercícios** . 2. ed. São Paulo:Lcte, 2009.
 
-## 2011. 
-
-JULIANELLI, J. R. **Cálculo Vetorial e Geometria Analítica** . São Paulo: Ciência Moderna, 2008. 
-
-LEITE, O. R. V. **Geometria Analítica Espacial** . 7. ed. São Paulo: Loyola, 2000. 
-
-LORETO JR, A. P., LORETO, A. C. C. **Vetores e Geometria Analítica: Teoria e Exercícios** . 2. ed. São Paulo:Lcte, 2009. 
-
-WINTERLE, P. **Vetores e Geometria Analítica** . São Paulo: Pearson Makron Books, 2004. ZILL, D.G.;CULLEN, M. R. **Matemática Avançada para engenharia** . Porto alegre: Bookman, 2009. 
-
-57 
-
-**==> picture [486 x 54] intentionally omitted <==**
+WINTERLE, P. **Vetores e Geometria Analítica** . São Paulo: Pearson Makron Books, 2004. ZILL, D.G.;CULLEN, M. R. **Matemática Avançada para engenharia** . Porto alegre: Bookman, 2009.
 
 |**Campus Ivaiporã do IFPR**|**Campus Ivaiporã do IFPR**|
 |---|---|
@@ -1578,109 +1300,91 @@ WINTERLE, P. **Vetores e Geometria Analítica** . São Paulo: Pearson Makron Boo
 |Bibliografia Básica:<br>COUTINHO, Carlos Nelson.**Cultura e sociedade no Brasil**. Ensaios sobre ideias e<br>formas. 4 ed. São Paulo: Expressão Popular, 2011.<br>GIDDENS, Anthony; TURNER, Jonathan.**Teoria social hoje**. Tradução: Gilson César<br>Cardoso de Sousa. São Paulo: UNESP, 1999.<br>QUINTANEIRO, Tania; BARBOSA, Maria Ligia de Oliveira; OLIVEIRA, Márcia Gardênia<br>Monteiro de.**Um toque de clássicos**: Marx, Durkheim e Weber. 2 ed. Belo Horizonte, MG:<br>Editora UFMG, 2003.<br>RODRIGUES, A. T.**Sociologia da Educação**. 6 ed. Rio de Janeiro: Lamparina, 2007.<br>TORRES, C. A. e TEODORO, A.**Educação Crítica e Utopia**: Perspectivas para o Século<br>XXI. São Paulo: Cortez, 2006.||
 |Bibliografia Complementar:<br>Adorno, Theodor et.al.**_Temas básicos de Sociologia_**. São Paulo: Cultrix, 1973.<br>DAUSTER, T. (org.).**Antropologia e Educação**: um saber de fronteira. Rio de Janeiro:<br>Forma e Ação, 2008.<br>GHIRALDELLI, P.**Filosofia e História da Educação Brasileira**. 2 ed. São Paulo: Manole,<br>2009.<br>GHIZZO NETO, A.**Corrupção, Estado Democrático de Direito e Educação**. Rio de<br>Janeiro: Lúmen Júris, 2011.<br>TORRES, C. A. (org.).**Teoria Crítica e Sociologia Política da Educação**. São Paulo:<br>Cortez, 2005.||
 
+**Campus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Educação Inclusiva **Carga Horária:** 33h **Período letivo:** 2º período
 
+## **Ementa:**
 
-58 
+Fundamentos históricos, políticos, práticos e científicos da educação inclusiva. A produção histórica e social da igualdade, da diferença e da deficiência. O trabalho pedagógico com a diversidade. Aprendizagem e ensino. A inclusão dos alunos com necessidades educacionais, especiais e com deficiência na rede regular de ensino. As adaptações curriculares, estruturais e o projeto pedagógico da escola na perspectiva da inclusão. Direito da pessoa com espectro autista.
 
-**==> picture [486 x 54] intentionally omitted <==**
+Bibliografia Básica:
 
-**Campus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Educação Inclusiva **Carga Horária:** 33h **Período letivo:** 2º período 
+BRANDÃO, Carlos Rodrigues. **O que é educação popular** . São Paulo: Brasiliense, 2012. BUENO, J. G. S.; MUNAKATA, K; CHIOZZINI, D. F. **A escola como objeto de estudo:** escola, desigualdades, diversidades. Junqueira & Marin Editores. 2014.
 
-## **Ementa:** 
+FARREL, Michael. **Dificuldades de Aprendizagem Moderadas, Graves Profundas** . Porto Alegre: Artmed, 2008.
 
-Fundamentos históricos, políticos, práticos e científicos da educação inclusiva. A produção histórica e social da igualdade, da diferença e da deficiência. O trabalho pedagógico com a diversidade. Aprendizagem e ensino. A inclusão dos alunos com necessidades educacionais, especiais e com deficiência na rede regular de ensino. As adaptações curriculares, estruturais e o projeto pedagógico da escola na perspectiva da inclusão. Direito da pessoa com espectro autista. 
+FIGUEIRA. Emílio. **O que é educação inclusiva** . São Paulo: Brasiliense, 2011.
 
-Bibliografia Básica: 
+REILY, Lucia. **Escola Inclusiva** . Linguagem e mediação. 4 ed. Campinas, SP: Papirus, 2012.
 
-BRANDÃO, Carlos Rodrigues. **O que é educação popular** . São Paulo: Brasiliense, 2012. BUENO, J. G. S.; MUNAKATA, K; CHIOZZINI, D. F. **A escola como objeto de estudo:** escola, desigualdades, diversidades. Junqueira & Marin Editores. 2014. 
+Bibliografia Complementar:
 
-FARREL, Michael. **Dificuldades de Aprendizagem Moderadas, Graves Profundas** . Porto Alegre: Artmed, 2008. 
+COLOMBO, Sonia Simões. **Gestão Educacional** . Uma nova Visão. Porto Alegre: Artmed, 2004.
 
-FIGUEIRA. Emílio. **O que é educação inclusiva** . São Paulo: Brasiliense, 2011. 
+FREIRE, Paulo; SCHOR, Ira. **Medo e ousadia** . O cotidiano do professor. Tradução: Adriana Lopez. 12 ed. Rio de Janeiro: Paz e Terra, 1986.
 
-REILY, Lucia. **Escola Inclusiva** . Linguagem e mediação. 4 ed. Campinas, SP: Papirus, 2012. 
+LUCK, H. **A Gestão Participativa na Escola** . 8. ed. Petrópolis: Vozes, 2010.
 
-Bibliografia Complementar: 
+PACHECO, José e outros. **Caminhos para a inclusão** : um guia para o aprimoramento da equipe escolar. Porto Alegre: Artmed, 2007.
 
-COLOMBO, Sonia Simões. **Gestão Educacional** . Uma nova Visão. Porto Alegre: Artmed, 2004. 
+RODRIGUES, David. **Inclusão e Educação** : doze olhares sobre a educação inclusiva. São Paulo: Summus, 2006.
 
-FREIRE, Paulo; SCHOR, Ira. **Medo e ousadia** . O cotidiano do professor. Tradução: Adriana Lopez. 12 ed. Rio de Janeiro: Paz e Terra, 1986. 
+**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Curricularização da extensão II **Carga Horária:** 33h **Período letivo:** 2° Período
 
-LUCK, H. **A Gestão Participativa na Escola** . 8. ed. Petrópolis: Vozes, 2010. 
+## **Ementa:**
 
-PACHECO, José e outros. **Caminhos para a inclusão** : um guia para o aprimoramento da equipe escolar. Porto Alegre: Artmed, 2007. 
+Construção, planejamento, execução e avaliação de projetos e atividades de extensão universitária. Construção de material didático e de divulgação científica, físico e/ou virtual. Elaboração de eventos acadêmicos destinados a sociedade externa. Análise do impacto educacional, cultural, tecnocientífico da extensão universitária do curso de Licenciatura em Física com a sociedade externa ao IFPR, discussão sobre o papel do estudante como membro fundamental da comunidade acadêmica e de sua responsabilidade social. Tempo destinado à aplicação das ações de extensão universitária.
 
-RODRIGUES, David. **Inclusão e Educação** : doze olhares sobre a educação inclusiva. São Paulo: Summus, 2006. 
+## **Bibliografia Básica:**
 
-59 
+ADFORPROEX. Extensão universitária: organização e sistematização. Belo Horizonte: Coopmed, 2007 (Coleção Extensão Universitária, v. 6)
 
-**==> picture [486 x 54] intentionally omitted <==**
+POZO, Juan Ignácio; CRESPO, Miguel Ángel Gómez. A aprendizagem e o ensino de ciências. Do conhecimento do cotidiano ao conhecimento científico. 5 ed. Porto Alegre: Artmed, 2009. DEUS, Sandra de. Extensão universitária : trajetórias e desafios. Santa Maria, RS : Ed. PRE-UFSM, 2020 (Série Extensão).
 
-**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Curricularização da extensão II **Carga Horária:** 33h **Período letivo:** 2° Período 
+CASTRO, Cláudio de Moura. A Prática da Pesquisa. São Paulo: Pearson Prentice Hall, 2006.
 
-## **Ementa:** 
+Resolução CNE/CES nº 7, de 18 de dezembro de 2018,  estabelece as Diretrizes para a Extensão na Educação Superior Brasileira e regimenta o disposto na Meta 12.7 da Lei nº 13.005/2014, que aprova o Plano Nacional de Educação - PNE 2014-2024 e dá outras providências.
 
-Construção, planejamento, execução e avaliação de projetos e atividades de extensão universitária. Construção de material didático e de divulgação científica, físico e/ou virtual. Elaboração de eventos acadêmicos destinados a sociedade externa. Análise do impacto educacional, cultural, tecnocientífico da extensão universitária do curso de Licenciatura em Física com a sociedade externa ao IFPR, discussão sobre o papel do estudante como membro fundamental da comunidade acadêmica e de sua responsabilidade social. Tempo destinado à aplicação das ações de extensão universitária. 
+## **Bibliografia Complementar:**
 
-## **Bibliografia Básica:** 
+THIOLLLENT, Michel. Metodologia da Pesquisa-Ação. São Paulo: Cortez, 2011. SANTOS, B.S. Universidade do Século XXI: para uma reforma democrática e
 
-ADFORPROEX. Extensão universitária: organização e sistematização. Belo Horizonte: Coopmed, 2007 (Coleção Extensão Universitária, v. 6) 
+emancipatória da Universidade. São Paulo: Cortez, 2004. 120p. (Coleção questões da nossa época).
 
-POZO, Juan Ignácio; CRESPO, Miguel Ángel Gómez. A aprendizagem e o ensino de ciências. Do conhecimento do cotidiano ao conhecimento científico. 5 ed. Porto Alegre: Artmed, 2009. DEUS, Sandra de. Extensão universitária : trajetórias e desafios. Santa Maria, RS : Ed. PRE-UFSM, 2020 (Série Extensão). 
+SEVERINO, A. J. Metodologia do Trabalho Científico. 23. ed. São Paulo: Cortez, 2007. MÉSZÁROS. I. Estrutura Social e Formas de Consciência – a determinação social do método. São Paulo: Boitempo, 2009.
 
-CASTRO, Cláudio de Moura. A Prática da Pesquisa. São Paulo: Pearson Prentice Hall, 2006. 
+SOUSA, Ana Luiza Lima. A história da extensão universitária a partir de seus interlocutores. UFG 1995 (Dissertação de mestrado).
 
-Resolução CNE/CES nº 7, de 18 de dezembro de 2018,  estabelece as Diretrizes para a Extensão na Educação Superior Brasileira e regimenta o disposto na Meta 12.7 da Lei nº 13.005/2014, que aprova o Plano Nacional de Educação - PNE 2014-2024 e dá outras providências. 
+**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Psicologia da Educação I **Carga Horária:** 33h **Período letivo:** 3º Período
 
-## **Bibliografia Complementar:** 
+**Ementa:**
 
-THIOLLLENT, Michel. Metodologia da Pesquisa-Ação. São Paulo: Cortez, 2011. SANTOS, B.S. Universidade do Século XXI: para uma reforma democrática e 
+Fundamentos teóricos e epistemológicos da Psicologia como ciência e a sua relação com a educação e a formação docente. Principais teorias de desenvolvimento e aprendizagem de base empirista, racionalista e interacionista. Interação professor-aluno: dinâmica da sala de aula. A construção social e histórica da adolescência e da juventude e as questões psicossociais envolvidas nessa fase da vida e no contemporâneo: identidade, inclusão social, participação sócio-política, grupos e culturas juvenis, sexualidades e gêneros, mundo do trabalho, o fenômeno da violência e a questão das drogas. Fatores intervenientes no processo de aprendizagem, a questão da indisciplina; Distúrbios e dificuldades de aprendizagem; Altas habilidades.
 
-emancipatória da Universidade. São Paulo: Cortez, 2004. 120p. (Coleção questões da nossa época). 
+## **Bibliografia Básica:**
 
-SEVERINO, A. J. Metodologia do Trabalho Científico. 23. ed. São Paulo: Cortez, 2007. MÉSZÁROS. I. Estrutura Social e Formas de Consciência – a determinação social do método. São Paulo: Boitempo, 2009. 
+COLL, César Salvador; _et al_ . **Psicologia do Ensino** . Tradução Cristina Maria de Oliveira. Porto Alegre: Artes Médicas do Sul, 2000.
 
-SOUSA, Ana Luiza Lima. A história da extensão universitária a partir de seus interlocutores. UFG 1995 (Dissertação de mestrado). 
+VASCONCELLOS, Celso dos Santos. **(In) Disciplina** . Construção da Disciplina consciente e interativa em sala de aula e na escola. 18. ed. São Paulo: Libertad Editora, 2010.
 
-60 
+FARREL, Michael. **Dificuldades de Aprendizagem Moderadas, Graves Profundas** . Porto Alegre: Artmed, 2008.
 
-**==> picture [486 x 54] intentionally omitted <==**
+PAÍN, Sara **. Diagnóstico e tratamento dos problemas de aprendizagem** . Tradução: MACHADO, ana Maria Netto. Porto Alegre: Artmed, 1985. REILY, Lucia. Escola Inclusiva. Linguagem e mediação. 4 ed. Campinas, SP: Papirus,
 
-**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Psicologia da Educação I **Carga Horária:** 33h **Período letivo:** 3º Período 
+2012.
 
-**Ementa:** 
+VIGOTSKI, L. S. **Psicologia Pedagógica** . Tradução. Bezerra, Paulo. 3 ed. São Paulo: WMF, Martins fontes, 2010.
 
-Fundamentos teóricos e epistemológicos da Psicologia como ciência e a sua relação com a educação e a formação docente. Principais teorias de desenvolvimento e aprendizagem de base empirista, racionalista e interacionista. Interação professor-aluno: dinâmica da sala de aula. A construção social e histórica da adolescência e da juventude e as questões psicossociais envolvidas nessa fase da vida e no contemporâneo: identidade, inclusão social, participação sócio-política, grupos e culturas juvenis, sexualidades e gêneros, mundo do trabalho, o fenômeno da violência e a questão das drogas. Fatores intervenientes no processo de aprendizagem, a questão da indisciplina; Distúrbios e dificuldades de aprendizagem; Altas habilidades. 
+## **Bibliografia Complementar:**
 
-## **Bibliografia Básica:** 
+COLL, C.; MARCHESI, A.; PALACIOS, J. **Desenvolvimento psicológico e educação, vol. 1** . Porto Alegre: Artmed, 2004.
 
-COLL, César Salvador; _et al_ . **Psicologia do Ensino** . Tradução Cristina Maria de Oliveira. Porto Alegre: Artes Médicas do Sul, 2000. 
+COLL, C.; MARCHESI, A.; PALACIOS, J. **Desenvolvimento psicológico e educação, vol. 2** . Porto Alegre: Artmed, 2004.
 
-VASCONCELLOS, Celso dos Santos. **(In) Disciplina** . Construção da Disciplina consciente e interativa em sala de aula e na escola. 18. ed. São Paulo: Libertad Editora, 2010. 
+COLL, C.; MARCHESI, A.; PALACIOS, J. **Desenvolvimento psicológico e educação, vol. 3** . Porto Alegre: Artmed, 2004.
 
-FARREL, Michael. **Dificuldades de Aprendizagem Moderadas, Graves Profundas** . Porto Alegre: Artmed, 2008. 
+MARTÍNEZ, A. M. (org.). **Psicologia escolar e compromisso social** . 2. ed. Campinas, SP: Editora Alínea, 2007.
 
-PAÍN, Sara **. Diagnóstico e tratamento dos problemas de aprendizagem** . Tradução: MACHADO, ana Maria Netto. Porto Alegre: Artmed, 1985. REILY, Lucia. Escola Inclusiva. Linguagem e mediação. 4 ed. Campinas, SP: Papirus, 
-
-2012. 
-
-VIGOTSKI, L. S. **Psicologia Pedagógica** . Tradução. Bezerra, Paulo. 3 ed. São Paulo: WMF, Martins fontes, 2010. 
-
-## **Bibliografia Complementar:** 
-
-COLL, C.; MARCHESI, A.; PALACIOS, J. **Desenvolvimento psicológico e educação, vol. 1** . Porto Alegre: Artmed, 2004. 
-
-COLL, C.; MARCHESI, A.; PALACIOS, J. **Desenvolvimento psicológico e educação, vol. 2** . Porto Alegre: Artmed, 2004. 
-
-COLL, C.; MARCHESI, A.; PALACIOS, J. **Desenvolvimento psicológico e educação, vol. 3** . Porto Alegre: Artmed, 2004. 
-
-MARTÍNEZ, A. M. (org.). **Psicologia escolar e compromisso social** . 2. ed. Campinas, SP: Editora Alínea, 2007. 
-
-VEIGA, F. H. (Coord.). **Psicologia da Educação** : Teoria, Investigação e Aplicação. Envolvimento dos alunos na escola. Lisboa: Climepsi Editores, 2013. 
-
-61 
-
-**==> picture [486 x 54] intentionally omitted <==**
+VEIGA, F. H. (Coord.). **Psicologia da Educação** : Teoria, Investigação e Aplicação. Envolvimento dos alunos na escola. Lisboa: Climepsi Editores, 2013.
 
 |**Câmpus Ivaiporã do IFPR**|**Câmpus Ivaiporã do IFPR**|
 |---|---|
@@ -1691,12 +1395,6 @@ VEIGA, F. H. (Coord.). **Psicologia da Educação** : Teoria, Investigação e A
 |**Bibliografia Básica:**<br>HALLIDAY, D;WALKER, J; RESNICK. R._Fundamentos de Física. v.1. 8.ed._Editora LTC,<br>Rio de Janeiro;<br>NUSSENZVEIG, M.H._Curso de Física Básica: Mecânica.v.1 4. ed._Editora Edgar Blucher,<br>São Paulo.<br>FEYNMAN, R. P.; SANDS, M. LEIGHTON, R. B. Feyman: Lições de Física. V1.. Porto<br>Alegre. Bookman. 2008<br>HEWITT, P. G, Física Conceitual. 11. ed. Porto Alegre: Bookman, 2002.<br>TIPLER, P. A.; LIEWELLYN. Física para cientistas e engenheiros. LTC. 6ed. 2012.||
 |**Bibliografia Complementar:**<br>MORAIS, A. M. A. Gravitação e Cosmologia: uma introdução. Livraria da Física. 2009.<br>TREFIL,  J.,  HAZEN,  R.M.,  Física  Viva  Vol.  1  -  Uma  Introdução  à  Física  Conceitual.<br>Editora LTC, 2006<br>FEYNMAN, Richard Phillips; SANDS, Matthew; LEIGHTON, Robert B. Feynman: Lições de<br>Física. Porto Alegre: Bookman, 2008.<br>HOLZNER, S. Física para Leigos. 1ed. Alta Books. 2009<br>CONTADOR, P. R. M. Kepler: o legislador dos céus. Livraria da Física. 2012||
 
-
-
-62 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
 |**Câmpus Ivaiporã do IFPR**|**Câmpus Ivaiporã do IFPR**|
 |---|---|
 |**Curso:**Licenciatura em Física|**Área do Conhecimento:**Ciências Exatas e da Terra|
@@ -1705,12 +1403,6 @@ VEIGA, F. H. (Coord.). **Psicologia da Educação** : Teoria, Investigação e A
 |**Ementa:**<br>Meio Ambiente e Sustentabilidade.  Ciclos Biogeoquímicos. Tópicos em Ecologia. Recursos<br>Naturais. Macroquestões ambientais. Legislação Ambiental. Saneamento Básico. Práticas em<br>Educação Ambiental. Física aplicada à Educação Ambiental.||
 |**Bibliografia Básica:**<br>BRAGA, Benedito. Introdução à Engenharia Ambiental. 2aEdição. São Paulo: PEARSON<br>EDUCATION, 2005.<br>DIAS, Genebaldo Freire Dias. Educação Ambiental – Principios e Práticas. 9ª edição. São<br>Paulo: Gaia, 2004.<br>MACEDO, Renato Luiz Grisi; FREITAS, Mirlaine Rotoly; VENTURIN, Nelson. Educação<br>Ambiental: Referenciais teóricos e práticos para a formação de educadores ambientais. 1ª<br>Edição. Lavras: Editora UFLA, 2011.<br>RUSCHEINSKY, Aloísio. Educação Ambiental: abordagens múltiplas. 2ª Edição. Porto<br>Alegre: Penso, 2012.<br>MILLER JR, G. TYLER. Ciência Ambiental. 1ªEdição. São Paulo: Cencage Learning, 2013.||
 |**Bibliografia Complementar:**<br>BARROS, Raphael Tobias de Vasconcelos. Elementos de Gestão de Resíduos Sólidos. 1ª<br>Edição. Belo Horizonte: Tessitura Editora, 2012.<br>ROSA, André Henrique; FRACETO, Leonardo Fernandes; MOSCHINI-CARLOS, Viviane.<br>Meio<br>ambiente e sustentabilidade. 1ª Edição. Porto Alegre: Bookman, 2012.<br>OLIVEIRA, Mariá Vendramini Castrignano. Princípios Básicos de Saneamento do Meio. 10ª<br>Edição. São Paulo: Editora Senac São Paulo, 2010.<br>INÁCIO, Caio de Teves. Compostagem: ciência e prática para gestão de resíduos<br>orgânicos. Rio de Janeiro: Embrapa Solos, 2009.<br>SÁNCHEZ, Luis Enrique. Avaliação de Impacto Ambiental: conceitos e métodos. São<br>Paulo: Oficina de Textos, 2008.||
-
-
-
-63 
-
-**==> picture [486 x 54] intentionally omitted <==**
 
 |**Câmpus Ivaiporã do IFPR**|**Câmpus Ivaiporã do IFPR**|
 |---|---|
@@ -1721,17 +1413,7 @@ VEIGA, F. H. (Coord.). **Psicologia da Educação** : Teoria, Investigação e A
 |Bibliografia Básica:<br>AZEVEDO, Janete M. Lins.**A educação como política pública**. Campinas, SP: Autores<br>Associados, 1997.<br>CARNEIRO, Moaci Alves.**LDB fácil**. Leitura crítco-compreensiva artigo a artigo. 23 ed.<br>Petropolis: Vozes, 2015.<br>LIBÂNEO, J. C.**Democratização da escola pública**: a pedagogia crítico social dos<br>conteúdos. São Paulo: Loyola, 1987.<br>SAVIANI, Demerval.**Escola e Democracia**. Campinas: Autores Associados, 1999.<br>SAVIANI, Dermeval.**Política e Educação no Brasil**. O papel do congresso Nacional na<br>Legislação do ensino. 7 ed. São Paulo: Cortez/Autores Associados, 2015.||
 |Bibliografia Complementar:<br>LIBÂNEO, José Carlos; OLIVEIRA, João Ferreira; TOSCHI, Mirza Seabra.**Educação**<br>**escolar: políticas, estrutura e organização**. São Paulo: Cortez, 2003.<br>BALL, S. J.; MAINARDES, J. (Orgs.).**Políticas educacionais**: questões e dilemas. São<br>Paulo:<br>Cortez, 2011.<br>SHIROMA, E. et. al.**Política Educacional**.  2. ed. Rio de Janeiro: DP&A, 2002.<br>CORREA, Bianca Cristina, GARCIA, Teise Oliveira (Orgs.).**Políticas educacionais e**<br>**organização do trabalho na escola**. São Paulo: Xamã, 2008.<br>DELORS, Jacques (coord.).**Educação**: um tesouro a descobrir. Relatório para a<br>UNESCO<br>da Comissão Internacional sobre Educação para o século XXI. 2ªed. São Paulo: Cortez/<br>Brasília: UNESCO e MEC, 1999.||
 
-
-
-64 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-**Campus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Didática para o Ensino de Física **Carga Horária:** 33h **Período letivo:** 3º Período **Ementa:** O que é ciência. A evolução histórica do Ensino de Física no Brasil e os grandes projetos curriculares propostos (PCN, DCN, BCN, etc.). Tendências Atuais em Ensino de Física. Concepções Epistemológicas do Ensino de Física. O Papel da História da Didática das Ciências no Ensino de Física. O Ensino de Física em CTS. A Experimentação em Ensino de Física (laboratório e material alternativo). Análise de materiais e de recursos didáticos. Novas tecnologias no Ensino de Física. A Educação em Física por meio dos Centros e Museus de Ciência e Tecnologia, como elemento constitutivo da prática pedagógica do licenciando. Bibliografia Básica: ARNONI, Maria Eliza Brefere, ALMEIDA, José Luis Vieira de; OLIVEIRA, Edilson Moreira de. **Mediação dialética na educação escolar** : teoria e prática. Sociedade Educativa/Consciência e Compromisso. Edições Loyola, 2007. BACHELARD, Gaston **. A formação do espírito científico** . Contribuição para uma psicanálise do conhecimento. Tradução: Estela dos Santos Abreu. Rio de Janeiro: Contraponto, 1996. BORUCHOVITH, EVELY. & BZUNECK, José Aloyseo. (Orgs.). **A motivação do aluno** : contribuições da psicologia contemporânea. Petrópolis, RJ: Vozes, 2009. OLIVEIRA, M. R. (Org.). **Didática** : ruptura, compromisso e pesquisa. Campinas: Papirus, 1993. POZO, Juan Ignácio; CRESPO, Miguel Ángel Gómez. **A aprendizagem e o ensino de ciências** . Do conhecimento do cotidiano ao conhecimento científico. 5 ed. Porto Alegre: Artmed, 2009. Bibliografia Complementar: BECKER, Fernando. **Educação e Construção do Conhecimento.** Porto Alegre: Artmed Editora, 2001. JUNIOR, Gabriel Dias de Carvalho. Aula de Física. Do planejamento à avaliação. São Paulo: Editora Livraria da Física, 2011. GIROUX, H. A **. Os professores como intelectuais:** rumo a uma pedagogia crítica da aprendizagem. Trad. Daniel Bueno. Porto Alegre: Artes Médicas, 1997. MARCELO GARCIA, Carlos. **Formação de professores** : para uma mudança educativa. Porto: Porto Editora, 1999. VASCONCELLOS, Celso. **Construção do conhecimento em sala de aula** . São Paulo: Libertad, 1999. 
-
-65 
-
-**==> picture [486 x 54] intentionally omitted <==**
+**Campus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Didática para o Ensino de Física **Carga Horária:** 33h **Período letivo:** 3º Período **Ementa:** O que é ciência. A evolução histórica do Ensino de Física no Brasil e os grandes projetos curriculares propostos (PCN, DCN, BCN, etc.). Tendências Atuais em Ensino de Física. Concepções Epistemológicas do Ensino de Física. O Papel da História da Didática das Ciências no Ensino de Física. O Ensino de Física em CTS. A Experimentação em Ensino de Física (laboratório e material alternativo). Análise de materiais e de recursos didáticos. Novas tecnologias no Ensino de Física. A Educação em Física por meio dos Centros e Museus de Ciência e Tecnologia, como elemento constitutivo da prática pedagógica do licenciando. Bibliografia Básica: ARNONI, Maria Eliza Brefere, ALMEIDA, José Luis Vieira de; OLIVEIRA, Edilson Moreira de. **Mediação dialética na educação escolar** : teoria e prática. Sociedade Educativa/Consciência e Compromisso. Edições Loyola, 2007. BACHELARD, Gaston **. A formação do espírito científico** . Contribuição para uma psicanálise do conhecimento. Tradução: Estela dos Santos Abreu. Rio de Janeiro: Contraponto, 1996. BORUCHOVITH, EVELY. & BZUNECK, José Aloyseo. (Orgs.). **A motivação do aluno** : contribuições da psicologia contemporânea. Petrópolis, RJ: Vozes, 2009. OLIVEIRA, M. R. (Org.). **Didática** : ruptura, compromisso e pesquisa. Campinas: Papirus, 1993. POZO, Juan Ignácio; CRESPO, Miguel Ángel Gómez. **A aprendizagem e o ensino de ciências** . Do conhecimento do cotidiano ao conhecimento científico. 5 ed. Porto Alegre: Artmed, 2009. Bibliografia Complementar: BECKER, Fernando. **Educação e Construção do Conhecimento.** Porto Alegre: Artmed Editora, 2001. JUNIOR, Gabriel Dias de Carvalho. Aula de Física. Do planejamento à avaliação. São Paulo: Editora Livraria da Física, 2011. GIROUX, H. A **. Os professores como intelectuais:** rumo a uma pedagogia crítica da aprendizagem. Trad. Daniel Bueno. Porto Alegre: Artes Médicas, 1997. MARCELO GARCIA, Carlos. **Formação de professores** : para uma mudança educativa. Porto: Porto Editora, 1999. VASCONCELLOS, Celso. **Construção do conhecimento em sala de aula** . São Paulo: Libertad, 1999.
 
 |**Campus Ivaiporã do IFPR**|**Campus Ivaiporã do IFPR**|
 |---|---|
@@ -1742,12 +1424,6 @@ VEIGA, F. H. (Coord.). **Psicologia da Educação** : Teoria, Investigação e A
 |Bibliografia Básica:<br>QUADROS, Ronice Müller de; KARNOPP, Lodenir Becker.**Língua de sinais brasileira**.<br>Estudos linguísticos. Porto Alegre: Artmed, 2004.<br>SILVA, Ivani Rodrigues; KAUCHAKJE, Samira; GESUELI, Zilda Maria (Orgs).**Cidadania,**<br>**surdez e linguagem**. Desafios e realidades. 4 ed. São Paulo: Plexus Editora, 2003.<br>SKLIAR, Carlos (Org.).**Atualidade da educação bilíngue para surdos**. Interfaces entre<br>pedagogia e linguística. 5 ed. Porto Alegre: Mediação, 2015.<br>FIGUEIRA, Emilio**. O que é educação inclusiva**. (Coleção Primeiros Passos). São Paulo:<br>Brasiliense, 2011.<br>ALMEIDA, Elizabeth Oliveira Crepaldi.**Leitura e surdez**. Um estudo com adultos não<br>oralizados. 2 ed. Rio de Janeiro: Revinter, 2012.||
 |Bibliografia Complementar:<br>LACERDA, Cristina B. F. de. Intérprete de Libras.**Em atuação na educação infantil e no**<br>**ensino fundamental**. 6 ed. Porto Alegre: Mediação, 2014.<br>LACERDA, Cristina Broglia Feitosa; SANTOS, Lara Ferreira (orgs).**Tenho um aluno**<br>**surdo e agora?**Introdução à Libras e educação de surdos. São Carlos: Edufscar, 2014.<br>QUADROS, Educação de surdos.**A aquisição da linguagem**. Porto Alegre: Artmed,<br>1997.<br>WITKOSKI, Sílvia Andreis.**Educação de surdos e preconceito**. Curitiba, PR: CRV, 2012.<br>FERNANDES, Eulália (Org.).**Surdez e bilinguismo**. 6 ed. Porto Alegre: Mediação, 2012.||
 
-
-
-66 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
 |**Câmpus Ivaiporã do IFPR**|**Câmpus Ivaiporã do IFPR**|
 |---|---|
 |**Curso:**Licenciatura em<br>Física|<br>**Área do Conhecimento:**Ciências Exatas e da Terra|
@@ -1756,12 +1432,6 @@ VEIGA, F. H. (Coord.). **Psicologia da Educação** : Teoria, Investigação e A
 |**Ementa:**<br>Funções de várias variáveis; limites e continuidade; derivadas parciais, regra da cadeia,<br>derivada direcional e gradiente, máximos e mínimos; integrais múltiplas; coordenadas polares,<br>cilíndricas e esféricas; mudança de variáveis em coordenadas esféricas. Séries e sequências;<br>testes de convergência, sequências e séries de funções; séries de Taylor e Maclaurin.||
 |**Bibliografia Básica:**<br>LEITHOLD, L.**Cálculo com Geometria Analítica**. v. 2. 3. ed. São Paulo: Harbra, 1994.<br>FLEMMING, D., GONÇALVES, M.**Cálculo B: Funções de Várias Variáveis, Integrais**<br>**Múltiplas, Integrais Curvilíneas e de Superfície**. 2. ed. São Paulo: Pearson, 2007.<br>SIMMONS, G. F.**Cálculo com Geometria Analítica**, v.2. São Paulo: Pearson Makron<br>Books, 1998.<br>STEWART, James.**Cálculo.**Vol. II. Tradução: Antônio Carlos Moreti. Cengage Learning.<br>São Paulo, 2009.<br>KREYSZIG, Erwin.**Matemática Superior para Engenharia**. Volume II. 9ª ed. LTC. Rio de<br>Janeiro, 2009.||
 |**Bibliografia Complementar:**<br>GUIDORIZZI, H. L.**Um Curso de Cálculo**. v. 2,3. 5. ed. Rio de Janeiro: LTC, 2001.<br>BOULOS, P., ABUD, Z. I.**Cálculo Diferencial e Integral**. v. 2.,3. 2ª ed. São Paulo:<br>Pearson, 2002.<br>MUNEM, M. A; FOULIS, D. J.**Cálculo**. V 2. Rio de Janeiro: LTC, 2011.<br>ROGAWSKI, J.**Cálculo**. V.2 Porto Alegre: Bookman, 2009.<br>STEELE, J. Michael.**The Cauchy-Schwarz Master Class: An Introduction to the Art of**<br>**Mathematical Inequalities**.Cambridge:Cambridge UniversityPress ,2004.||
-
-
-
-67 
-
-**==> picture [486 x 54] intentionally omitted <==**
 
 |**Câmpus Ivaiporã do IFPR**|**Câmpus Ivaiporã do IFPR**|
 |---|---|
@@ -1772,12 +1442,6 @@ VEIGA, F. H. (Coord.). **Psicologia da Educação** : Teoria, Investigação e A
 |**Bibliografia Básica:**<br>ALBERTAZZI, A.;SOUSA, A.R._Fundamentos de Metrologia Científica e Industrial ._<br>Editora Manole, São Paulo. 2008.<br>PERUZZO, J._Experimentos de Física Básica: Mecânica._Editora Livraria da Física, São<br>Paulo. 2012.<br>JURAITIS, K.R.;DOMICIANO, J.B._Guia de Laboratório de Física Geral 1._Editora<br>EDUEL, Londrina. 2009.<br>MEDEIROS, J.B._Redação científica - A prática de fichamentos, resumos, resenhas._<br>Editora Atlas. São Paulo<br>JURAITIS, K.R.;DOMICIANO, J.B._Introdução ao laboratório de Física Experimental._<br>Editora EDUEL. 2009||
 |**Bibliografia Complementar:**<br>NUSSENZVEIG, M.H._Curso de Física Básica: Mecânica._Editora Edgar Blucher, São<br>Paulo.<br>PIMENTEL, F._Curso de Estatística Experimental._15 ed. Editora<br>GASPAR, A._Experiencias de Ciencias ._2.ed. Editora Ática, São Paulo. 2014<br>HALLIDAY, D;WALKER, J; RESNICK. R._Fundamentos de Física. v.2. 5.ed._Editora LTC,<br>Rio de Janeiro.<br>VUOLO, J. H. Fundamentos de Teoria de Erros. 2. ed. São Paulo: Edgard Blucher, 1996||
 
-
-
-68 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
 |**Câmpus Ivaiporã do IFPR**|**Câmpus Ivaiporã do IFPR**|
 |---|---|
 |**Curso:**Licenciatura em Física|<br>**Área do Conhecimento:**Ciências Exatas e da Terra|
@@ -1787,19 +1451,9 @@ VEIGA, F. H. (Coord.). **Psicologia da Educação** : Teoria, Investigação e A
 |**Bibliografia Básica:**<br>ADFORPROEX. Extensão universitária: organização e sistematização. Belo Horizonte:<br>Coopmed, 2007 (Coleção Extensão Universitária, v. 6)<br>POZO, Juan Ignácio; CRESPO, Miguel Ángel Gómez. A aprendizagem e o ensino de<br>ciências. Do conhecimento do cotidiano ao conhecimento científico. 5 ed. Porto Alegre: Artmed,<br>2009.<br>DEUS, Sandra de. Extensão universitária : trajetórias e desafios. Santa Maria, RS : Ed.<br>PRE-UFSM, 2020 (Série Extensão).<br>CASTRO, Cláudio de Moura. A Prática da Pesquisa. São Paulo: Pearson Prentice Hall,<br>2006.<br>Resolução CNE/CES nº 7, de 18 de dezembro de 2018,  estabelece as Diretrizes para a<br>Extensão na Educação Superior Brasileira e regimenta o disposto na Meta 12.7 da Lei nº<br>13.005/2014, que aprova o Plano Nacional de Educação - PNE 2014-2024 e dá outras<br>providências.||
 |**Bibliografia Complementar:**<br>THIOLLLENT, Michel. Metodologia da Pesquisa-Ação. São Paulo: Cortez, 2011.<br>SANTOS, B.S. Universidade do Século XXI: para uma reforma democrática e<br>emancipatória da Universidade. São Paulo: Cortez, 2004. 120p. (Coleção questões da nossa<br>época).<br>SEVERINO, A. J. Metodologia do Trabalho Científico. 23. ed. São Paulo: Cortez, 2007.<br>MÉSZÁROS. I. Estrutura Social e Formas de Consciência – a determinação social do<br>método. São Paulo: Boitempo, 2009.<br>SOUSA, Ana Luiza Lima. A história da extensão universitária a partir de seus<br>interlocutores. UFG 1995 (Dissertação de mestrado).||
 
+**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Física II: Elementos de Termodinâmica e Ondulatória **Carga Horária:** 67h **Período letivo:** 4º período **Ementa:** Oscilações: Movimento Harmônico Simples; Ondas Mecânicas: Características; Ondas Sonoras; Fluidos: Hidrostática e fundamentos de Hidrodinâmica. Termodinâmica: Termometria; Calorimetria; Gases Ideiais; Lei Zero da Termodinâmica; Primeira e Segunda Lei da Termodinâmica e Entropia; **Bibliografia Básica:** HALLIDAY, D;WALKER, J; RESNICK. R. _Fundamentos de Física. v.2. 5.ed._ Editora LTC, Rio de Janeiro; NUSSENZVEIG, M.H. _Curso de Física Básica: Fluidos, Ondas.v.2 4. ed._ Editora Edgar Blucher, São Paulo. FEYNMAN, R. P.; SANDS, M. LEIGHTON, R. B. Feyman: Lições de Física. V2.. Porto Alegre. Bookman. 2008 HEWITT, P. G, Física Conceitual. 11. ed. Porto Alegre: Bookman, 2002. TIPLER, P. A.; LIEWELLYN. Física para cientistas e engenheiros. LTC. 6ed. 2012.
 
-
-69 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Física II: Elementos de Termodinâmica e Ondulatória **Carga Horária:** 67h **Período letivo:** 4º período **Ementa:** Oscilações: Movimento Harmônico Simples; Ondas Mecânicas: Características; Ondas Sonoras; Fluidos: Hidrostática e fundamentos de Hidrodinâmica. Termodinâmica: Termometria; Calorimetria; Gases Ideiais; Lei Zero da Termodinâmica; Primeira e Segunda Lei da Termodinâmica e Entropia; **Bibliografia Básica:** HALLIDAY, D;WALKER, J; RESNICK. R. _Fundamentos de Física. v.2. 5.ed._ Editora LTC, Rio de Janeiro; NUSSENZVEIG, M.H. _Curso de Física Básica: Fluidos, Ondas.v.2 4. ed._ Editora Edgar Blucher, São Paulo. FEYNMAN, R. P.; SANDS, M. LEIGHTON, R. B. Feyman: Lições de Física. V2.. Porto Alegre. Bookman. 2008 HEWITT, P. G, Física Conceitual. 11. ed. Porto Alegre: Bookman, 2002. TIPLER, P. A.; LIEWELLYN. Física para cientistas e engenheiros. LTC. 6ed. 2012. 
-
-**Bibliografia Complementar:** TREFIL,  J.,  HAZEN,  R.M.,  Física  Viva  Vol.  2  -  Uma  Introdução  à  Física  Conceitual. Editora LTC, 2006 FEYNMAN, Richard Phillips; SANDS, Matthew; LEIGHTON, Robert B. Feynman: Lições de Física. Porto Alegre: Bookman, V.2 2008. HOLZNER, S. Física para Leigos. 1ed. Alta Books. 2009 Grupo de Reelaboração do Ensino De Física. Física v. 2. 7. ed. São Paulo: EdUSP. 2011 WALKER, J. O circo voador da Física. 2ed. LTC. 2008 
-
-70 
-
-**==> picture [486 x 54] intentionally omitted <==**
+**Bibliografia Complementar:** TREFIL,  J.,  HAZEN,  R.M.,  Física  Viva  Vol.  2  -  Uma  Introdução  à  Física  Conceitual. Editora LTC, 2006 FEYNMAN, Richard Phillips; SANDS, Matthew; LEIGHTON, Robert B. Feynman: Lições de Física. Porto Alegre: Bookman, V.2 2008. HOLZNER, S. Física para Leigos. 1ed. Alta Books. 2009 Grupo de Reelaboração do Ensino De Física. Física v. 2. 7. ed. São Paulo: EdUSP. 2011 WALKER, J. O circo voador da Física. 2ed. LTC. 2008
 
 |**Campus Ivaiporã do IFPR**|**Campus Ivaiporã do IFPR**|
 |---|---|
@@ -1810,12 +1464,6 @@ VEIGA, F. H. (Coord.). **Psicologia da Educação** : Teoria, Investigação e A
 |**Bibliografia** **Básica**:<br>GREF, Grupo de Reelaboração do Ensino de Física. Física 1: Mecânica. 7. ed. São Paulo:<br>EDUSP, 2011.<br>NARDI, R. Pesquisas em Ensino de Física. Escrituras. 2004.<br>VILLATORRE, A. M.; HIGA, I.; TYCHANOWICZ, S. D. Didática e Avaliação em Física. Curitiba:<br>IBPEX; 2008.<br>MOREIRA, M. A.; VEIT, E. A. Ensino Superior – Bases teóricas e Metodológicas. EPU. 2010.<br>PIETROCOLA, Maurício (org.). Ensino de Física: Conteúdo, Metodologia e Epistemologia em<br>uma Concepção Integrada. 2. ed. Florianópolis: Editora da UFSC, 2005.||
 |**Bibliografia** **Complementar**:<br>GREF, Grupo de Reelaboração do Ensino de Física. Física 2: Térmica. 7. ed. São Paulo.<br>EDUSP, 2011.<br>MINITZES, J.J.; WANDERSEE, J.H.; NOVAK, J.D. Ensinando Ciência para Compreensão.<br>Lisboa: Editora Platano, 2010.<br>POZO, Juan I.; CRESPO, Miguel A.G. A Aprendizagem e o Ensino de Ciências. 5. ed. Porto<br>Alegre: Artmed, 2009.<br>BEHRENS, M. A. O paradigma Emergente e a prática pedagógica. 6ed. Petrópolis: Vozes.<br>2013.<br>GATTI, B. A.; BARRETO, E. S. S. Professores do Brasil: impasses e desafios. Brasília: Unesco,<br>2009.||
 
-
-
-71 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
 |**Câmpus Ivaiporã do IFPR**|**Câmpus Ivaiporã do IFPR**|
 |---|---|
 |<br>**Curso:**Licenciatura em Física|<br>**Área do Conhecimento:**Ciências Exatas e da Terra|
@@ -1825,41 +1473,31 @@ VEIGA, F. H. (Coord.). **Psicologia da Educação** : Teoria, Investigação e A
 |**Bibliografia Básica:**<br>ALBERTAZZI, A.;SOUSA, A.R._Fundamentos de Metrologia Científica e Industrial ._Editora<br>Manole, São Paulo. 2008.<br>PERUZZO, J._Experimentos de Física Básica: Termodinâmica, Ondulatória e Óptica,_<br>Editora Livraria da Física, São Paulo. 2012<br>JURAITIS, K.R.;DOMICIANO, J.B._Guia de Laboratório de Física Geral 2._Editora EDUEL,<br>Londrina. 2009.<br>MEDEIROS, J.B._Redação científica - A prática de fichamentos, resumos, resenhas._Editora<br>Atlas. São Paulo<br>VUOLO, J. H. Fundamentos de Teoria de Erros. 2. ed. São Paulo: Edgard Blucher, 1996||
 |**Bibliografia Complementar:**<br>NUSSENZVEIG, M.H._Curso de Física Básica: Oscilações e Fluidos._Editora Edgar Blucher,<br>São Paulo.<br>GASPAR, A._Atividades Experimentais no Ensino de Física: Uma nova visão baseada na_<br>_teoria de Vigotski._Editora Livraria da Física, São Paulo. 2014.<br>HALLIDAY, D;WALKER, J; RESNICK. R._Fundamentos de Física. v.2. 5.ed._Editora LTC,<br>Rio de Janeiro.<br>HEWITT, P. G, Física Conceitual. 11. ed. Porto Alegre: Bookman, 2002.<br>GASPAR,A. Experiências de Ciências. 2ed.SãoPaulo: EditoraÁtica. 2014.||
 
+## **Campus Ivaiporã do IFPR**
 
+**Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Educação em Direitos Humanos **Carga Horária:** 33h **Período letivo:** 4 **º** Período
 
-72 
+## **Ementa:**
 
-**==> picture [486 x 54] intentionally omitted <==**
+A educação e Direitos Humanos no contexto histórico mundial e nacional; referências teóricas e históricas sobre os direitos humanos e a cidadania; diferenças e os preconceitos na escola, pensando coletivamente sobre a construção de um novo projeto de educação em direitos humanos e para uma escola democrática. Plano Nacional em Direitos Humanos. Trabalho e profissionalização. Educação de Jovens e adultos. História e cultura afro-brasileira e indígena. Respeito e valorização da pessoa idosa. Educação alimentar e nutricional na educação básica.
 
-## **Campus Ivaiporã do IFPR** 
+Bibliografia Básica:
 
-**Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Educação em Direitos Humanos **Carga Horária:** 33h **Período letivo:** 4 **º** Período 
+ARENDT, Hannah. **A Condição Humana** . Rio de Janeiro: Forense Universitária, 2005. BOBBIO, Norberto. **Estado governo sociedade** . Para uma teoria geral da política. Rio de janeiro: Paz e Terra, 1987.
 
-## **Ementa:** 
+LIMA, Ângela Maria de Sousa; SILVA, Ileizi Luciana Fiorelli; REZENDE, Maria José de. (Orgs.). **As persistentes desigualdades no brasileiras como temas para o ensino médio** . Londrina: Eduel, 2011.
 
-A educação e Direitos Humanos no contexto histórico mundial e nacional; referências teóricas e históricas sobre os direitos humanos e a cidadania; diferenças e os preconceitos na escola, pensando coletivamente sobre a construção de um novo projeto de educação em direitos humanos e para uma escola democrática. Plano Nacional em Direitos Humanos. Trabalho e profissionalização. Educação de Jovens e adultos. História e cultura afro-brasileira e indígena. Respeito e valorização da pessoa idosa. Educação alimentar e nutricional na educação básica. 
+PIOVESAN. Flávia. **Direitos Sociais, Econômicos e Culturais e Direitos Civis e Políticos** . -
 
-Bibliografia Básica: 
+São Paulo: Rev. Sur, 2004, vol.1, n.1, 27 p.
 
-ARENDT, Hannah. **A Condição Humana** . Rio de Janeiro: Forense Universitária, 2005. BOBBIO, Norberto. **Estado governo sociedade** . Para uma teoria geral da política. Rio de janeiro: Paz e Terra, 1987. 
+SOARES, Maria Victória de Mesquita Benevides. **Cidadania e Direitos Humanos** – São Paulo: IEA/USP.
 
-LIMA, Ângela Maria de Sousa; SILVA, Ileizi Luciana Fiorelli; REZENDE, Maria José de. (Orgs.). **As persistentes desigualdades no brasileiras como temas para o ensino médio** . Londrina: Eduel, 2011. 
+Bibliografia Complementar:
 
-PIOVESAN. Flávia. **Direitos Sociais, Econômicos e Culturais e Direitos Civis e Políticos** . - 
+BENEVIDES. Maria Victória de Mesquita. **A Cidadania Ativa** . São Paulo: Ática, 2003. CARVALHO, J.M. **Cidadania no Brasil** - o longo caminho. Rio de Janeiro: Cia das Letras, 2002.
 
-São Paulo: Rev. Sur, 2004, vol.1, n.1, 27 p. 
-
-SOARES, Maria Victória de Mesquita Benevides. **Cidadania e Direitos Humanos** – São Paulo: IEA/USP. 
-
-Bibliografia Complementar: 
-
-BENEVIDES. Maria Victória de Mesquita. **A Cidadania Ativa** . São Paulo: Ática, 2003. CARVALHO, J.M. **Cidadania no Brasil** - o longo caminho. Rio de Janeiro: Cia das Letras, 2002. 
-
-PACHECO, Eliezer Moreira. **Ensino técnico, formação profissional e cidadania** : a revolução da educação profissional e tecnológica no Brasil. Porto Alegre: Tekné, 2012. SILVA, Aida Maria Monteiro; TAVARES, Celma **. Política e fundamentos da educação em direitos humanos** . São Paulo: Cortez, 2010. 
-
-73 
-
-**==> picture [486 x 54] intentionally omitted <==**
+PACHECO, Eliezer Moreira. **Ensino técnico, formação profissional e cidadania** : a revolução da educação profissional e tecnológica no Brasil. Porto Alegre: Tekné, 2012. SILVA, Aida Maria Monteiro; TAVARES, Celma **. Política e fundamentos da educação em direitos humanos** . São Paulo: Cortez, 2010.
 
 |**Câmpus Ivaiporã do IFPR**|**Câmpus Ivaiporã do IFPR**|
 |---|---|
@@ -1870,12 +1508,6 @@ PACHECO, Eliezer Moreira. **Ensino técnico, formação profissional e cidadania
 |<br>Bibliografia Básica:<br>COLOMBO, Sonia Simões.**Gestão Educacional**. Uma nova Visão. Porto Alegre: Artmed,<br>2004.<br>PISTRAK, Moisey Mikhaylovich.**Fundamentos da Escola do Trabalho**. São Paulo:<br>Expressão Popular, 2011.<br>SAVIANI, D.**Educação Brasileira**: Estrutura e Sistema. 10. ed. Campinas: Autores<br>Associados, 2008.<br>PARO, V. H.**Gestão Democrática da Escola Pública**. 3. ed. São Paulo: Ática, 2008.<br>OLIVEIRA, R. P.**Gestão, Financiamento e Direito à Educação**. 2. ed. São Paulo: Xamã,<br>2002.||
 |Bibliografia Complementar:<br>OLIVEIRA, R. P; ADRIÃO, T.**Organização do Ensino no Brasil**. São Paulo: Xamã, 2002.<br>SAVIANI, D.**A Nova Lei da Educação**. 11. ed. Campinas: Autores Associados, 2008.<br>VEIGA, I. P; FONSECA, M.**As Dimensões do Projeto Político Pedagógico**. Campinas:<br>Papirus, 2001.<br>CARNEIRO, M. A.**LDB Fácil: Leitura Crítico-Compreensiva Artigo a Artigo**. 7. ed.<br>Petrópolis: Vozes, 2003.<br>LUCK, H.**A Gestão Participativa na Escola**. 8. ed. Petrópolis: Vozes, 2010.||
 
-
-
-74 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
 |**Câmpus Ivaiporã do IFPR**|**Câmpus Ivaiporã do IFPR**|
 |---|---|
 |**Curso:**Licenciatura em<br>Física|<br>**Área do Conhecimento:**Ciências Exatas e da Terra|
@@ -1885,83 +1517,61 @@ PACHECO, Eliezer Moreira. **Ensino técnico, formação profissional e cidadania
 |Bibliografia Básica:<br>ATKINS, P. W.; JONES, L. Princípios de Química: Questionando a Vida Moderna e o Meio<br>Ambiente. 5. ed. Porto Alegre: Bookman, 2012.<br>BROWN, T. L_et. al._Química: A Ciência Central. 9. ed. São Paulo: Pearson, 2005.<br>ATKINS, P.; DE PAULA, J. Físico-química. 9.ed Rio de Janeiro: LTC, vol. 1, 2015<br>BRADY, J. E. Química: A matéria e suas transformações. 5 ed. Rio de Janeiro, LTC, vol. 1,<br>2014.<br>BRADY, J. E. Química: A matéria e suas transformações. 5 ed. Rio de Janeiro, LTC, vol. 2,<br>2014.||
 |Bibliografia Complementar:<br>HARRIS, DANIEL C., Análise Química Quantitativa, 8. Ed. Rio de Janeiro: LTC, 2013.<br>GREENBERG, A. Uma breve história da química- Da alquimia às ciências moleculares. São<br>Paulo: Blucher, 2009<br>ATKINS, P.; DE PAULA, J. Físico-química. 9.ed Rio de Janeiro: LTC, vol. 2**,**2015<br>HAGE, D. S., CARR, J. D. Química Analítica e Análise Quantitativa. 1 ed. São Paulo:<br>Pearson, 2012.<br>SKOOG, D. A., WEST, D. M., HOLLER, F. J., CROUCH, S. R. Fundamentos de química<br>analítica.9 ed. São Paulo: Cengage Learning, 2015.||
 
+**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Química Geral experimental I **Carga Horária:** 33h **Período letivo:** 4º Período **Ementa:** Equipamentos básicos e segurança em laboratório de química. Métodos gravimétricos de análise. Métodos titulométricos de análise. Introdução a Eletroquímica: Potencial padrão de eletrodos, Titulações de Oxidação-Redução, Potenciometria, Voltametria. Análise Espectroquimica: Espectrometria Óptica, Absorção Molecular, Fluorescência, Espectroscopia Atômica. Introdução à Cromatografia. Introdução a Química Orgânica. Bibliografia Básica: HARRIS, DANIEL C., Análise Química Quantitativa, 8. Ed. Rio de Janeiro: LTC, 2013. HAGE, D. S., CARR, J. D. Química Analítica e Análise Quantitativa. 1 ed. São Paulo: Pearson, 2012. SKOOG, D. A., WEST, D. M., HOLLER, F. J., CROUCH, S. R. Fundamentos de química analítica.9 ed. São Paulo: Cengage Learning, 2015. SKOOG, HOLLER, NIEMAN, Princípios de Análise Instrumental, 6. ed. Editora Bookman, São Paulo, 2009. POSTMA, J. M.; ROBERTS, J. L.; HOLLENBERG, J. L. Química no Laboratório 5. ed. Barueri , São Paulo, 2009. Bibliografia Complementar: TOMA, H. E. - Coleção de Química Conceitual - Vol. 1, 2, 3 e 4 Editora Blucher 2013 BAIRD, C.; CANN, M. Química ambiental. 4. ed. Porto Alegre: Bookman, 2011 ATKINS, P.; OVERTON, T.; ROURKE, J.; WELLER, M; ARMSTRONG, F. Química Inorgânica. 4a ed. Porto Alegre. Bookman. 2008. ATKINS, P.; DE PAULA, J. Físico-química. 9.ed Rio de Janeiro: LTC, vol. 1, 2015 ATKINS, P.; DE PAULA, J. Físico-química. 9.ed Rio de Janeiro: LTC, vol. 2, 2015
 
+## **Câmpus Ivaiporã do IFPR**
 
-75 
+**Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Curricularização da extensão IV **Carga Horária:** 33h **Período letivo:** 4° Período
 
-**==> picture [486 x 54] intentionally omitted <==**
+## **Ementa:**
 
-**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Química Geral experimental I **Carga Horária:** 33h **Período letivo:** 4º Período **Ementa:** Equipamentos básicos e segurança em laboratório de química. Métodos gravimétricos de análise. Métodos titulométricos de análise. Introdução a Eletroquímica: Potencial padrão de eletrodos, Titulações de Oxidação-Redução, Potenciometria, Voltametria. Análise Espectroquimica: Espectrometria Óptica, Absorção Molecular, Fluorescência, Espectroscopia Atômica. Introdução à Cromatografia. Introdução a Química Orgânica. Bibliografia Básica: HARRIS, DANIEL C., Análise Química Quantitativa, 8. Ed. Rio de Janeiro: LTC, 2013. HAGE, D. S., CARR, J. D. Química Analítica e Análise Quantitativa. 1 ed. São Paulo: Pearson, 2012. SKOOG, D. A., WEST, D. M., HOLLER, F. J., CROUCH, S. R. Fundamentos de química analítica.9 ed. São Paulo: Cengage Learning, 2015. SKOOG, HOLLER, NIEMAN, Princípios de Análise Instrumental, 6. ed. Editora Bookman, São Paulo, 2009. POSTMA, J. M.; ROBERTS, J. L.; HOLLENBERG, J. L. Química no Laboratório 5. ed. Barueri , São Paulo, 2009. Bibliografia Complementar: TOMA, H. E. - Coleção de Química Conceitual - Vol. 1, 2, 3 e 4 Editora Blucher 2013 BAIRD, C.; CANN, M. Química ambiental. 4. ed. Porto Alegre: Bookman, 2011 ATKINS, P.; OVERTON, T.; ROURKE, J.; WELLER, M; ARMSTRONG, F. Química Inorgânica. 4a ed. Porto Alegre. Bookman. 2008. ATKINS, P.; DE PAULA, J. Físico-química. 9.ed Rio de Janeiro: LTC, vol. 1, 2015 ATKINS, P.; DE PAULA, J. Físico-química. 9.ed Rio de Janeiro: LTC, vol. 2, 2015 
+Construção, planejamento, execução e avaliação de projetos e atividades de extensão universitária. Construção de material didático e de divulgação científica, físico e/ou virtual. Elaboração de eventos acadêmicos destinados a sociedade externa. Análise do impacto educacional, cultural, tecnocientífico da extensão universitária do curso de Licenciatura em Física com a sociedade externa ao IFPR, discussão sobre o papel do estudante como membro fundamental da comunidade acadêmica e de sua responsabilidade social. Tempo destinado à aplicação das ações de extensão universitária.
 
-76 
+## **Bibliografia Básica:**
 
-**==> picture [486 x 54] intentionally omitted <==**
+ADFORPROEX. Extensão universitária: organização e sistematização. Belo Horizonte: Coopmed, 2007 (Coleção Extensão Universitária, v. 6)
 
-## **Câmpus Ivaiporã do IFPR** 
+POZO, Juan Ignácio; CRESPO, Miguel Ángel Gómez. A aprendizagem e o ensino de ciências. Do conhecimento do cotidiano ao conhecimento científico. 5 ed. Porto Alegre: Artmed, 2009. DEUS, Sandra de. Extensão universitária : trajetórias e desafios. Santa Maria, RS : Ed. PRE-UFSM, 2020 (Série Extensão).
 
-**Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Curricularização da extensão IV **Carga Horária:** 33h **Período letivo:** 4° Período 
+CASTRO, Cláudio de Moura. A Prática da Pesquisa. São Paulo: Pearson Prentice Hall, 2006.
 
-## **Ementa:** 
+Resolução CNE/CES nº 7, de 18 de dezembro de 2018,  estabelece as Diretrizes para a Extensão na Educação Superior Brasileira e regimenta o disposto na Meta 12.7 da Lei nº 13.005/2014, que aprova o Plano Nacional de Educação - PNE 2014-2024 e dá outras providências.
 
-Construção, planejamento, execução e avaliação de projetos e atividades de extensão universitária. Construção de material didático e de divulgação científica, físico e/ou virtual. Elaboração de eventos acadêmicos destinados a sociedade externa. Análise do impacto educacional, cultural, tecnocientífico da extensão universitária do curso de Licenciatura em Física com a sociedade externa ao IFPR, discussão sobre o papel do estudante como membro fundamental da comunidade acadêmica e de sua responsabilidade social. Tempo destinado à aplicação das ações de extensão universitária. 
+## **Bibliografia Complementar:**
 
-## **Bibliografia Básica:** 
+THIOLLLENT, Michel. Metodologia da Pesquisa-Ação. São Paulo: Cortez, 2011. SANTOS, B.S. Universidade do Século XXI: para uma reforma democrática e
 
-ADFORPROEX. Extensão universitária: organização e sistematização. Belo Horizonte: Coopmed, 2007 (Coleção Extensão Universitária, v. 6) 
+emancipatória da Universidade. São Paulo: Cortez, 2004. 120p. (Coleção questões da nossa época).
 
-POZO, Juan Ignácio; CRESPO, Miguel Ángel Gómez. A aprendizagem e o ensino de ciências. Do conhecimento do cotidiano ao conhecimento científico. 5 ed. Porto Alegre: Artmed, 2009. DEUS, Sandra de. Extensão universitária : trajetórias e desafios. Santa Maria, RS : Ed. PRE-UFSM, 2020 (Série Extensão). 
+SEVERINO, A. J. Metodologia do Trabalho Científico. 23. ed. São Paulo: Cortez, 2007. MÉSZÁROS. I. Estrutura Social e Formas de Consciência – a determinação social do método. São Paulo: Boitempo, 2009.
 
-CASTRO, Cláudio de Moura. A Prática da Pesquisa. São Paulo: Pearson Prentice Hall, 2006. 
+SOUSA, Ana Luiza Lima. A história da extensão universitária a partir de seus interlocutores. UFG 1995 (Dissertação de mestrado).
 
-Resolução CNE/CES nº 7, de 18 de dezembro de 2018,  estabelece as Diretrizes para a Extensão na Educação Superior Brasileira e regimenta o disposto na Meta 12.7 da Lei nº 13.005/2014, que aprova o Plano Nacional de Educação - PNE 2014-2024 e dá outras providências. 
+**Campus Ivaiporã do IFPR Curso** : Licenciatura em Física **Área do Conhecimento** : Ciências Exatas e da Terra **Componente Curricular** : Física III – Elementos de Eletromagnetismo **Carga Horária** : 67h **Período Letivo** : 5º período
 
-## **Bibliografia Complementar:** 
+**Ementa** : Eletrostática. Capacitores e resistores. Circuitos de corrente contínua. Campos Magnéticos. Fontes de campos magnéticos.  Magnetismo nos materiais. Circuitos de corrente alternada. Equações de Maxwell. Oscilações eletromagnéticas.
 
-THIOLLLENT, Michel. Metodologia da Pesquisa-Ação. São Paulo: Cortez, 2011. SANTOS, B.S. Universidade do Século XXI: para uma reforma democrática e 
+**Bibliografia Básica** : HALLIDAY, D; WALKER, J; RESNICK, R. Fundamentos de Física. v. 3. 8. ed. Rio de Janeiro: LTC, 2009. YOUNG, H. D.; FREEDMAN, R. A. Física v.3: Eletromagnetismo. NUSSENZVEIG. H. M. Curso de Física Básica - Eletromagnetismo. V.3. 2ed.  São Paulo: Edgard Blucher, 2015. SADIKU, Matthew N. O. Elementos de eletromagnetismo. 5.ed. Porto Alegre: Bookman, 2012. TIPLER, P. A.; LIEWELLYN. Física para cientistas e engenheiros. LTC. 6ed. 2012. **Bibliografia Complementar** : CHAVES, A. Física Básica: Eletromagnetismo. LTC. 2009 MACHADO,  Kleber  Daum,  ELETROMAGNETISMO  VOL.  1.  Ponta  Grossa:  Toda palavra. 2012. MACHADO,  Kleber  Daum,  ELETROMAGNETISMO  VOL.  2.  Ponta  Grossa:  Toda palavra. 2013. FEYNMAN, R. P.; SANDS, M. LEIGHTON, R. B. Feyman: Lições de Física. v.2. Porto Alegre. Bookman. 2008. BOYLESTAD, R. L. Introdução à análise de circuitos. 12. ed. São Paulo: Pearson Prentice Hall, 2012.
 
-emancipatória da Universidade. São Paulo: Cortez, 2004. 120p. (Coleção questões da nossa época). 
+**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Laboratório de Física III **Carga Horária:** 33h **Período letivo:** 5º período **Ementa:**
 
-SEVERINO, A. J. Metodologia do Trabalho Científico. 23. ed. São Paulo: Cortez, 2007. MÉSZÁROS. I. Estrutura Social e Formas de Consciência – a determinação social do método. São Paulo: Boitempo, 2009. 
+Experimentos em Eletricidade e Magnetismo: instrumentos de medidas elétricas, campo elétrico, potencial elétrico, condutores ôhmicos, condutores não ôhmicos, circuito de corrente contínua, circuitos de corrente contínua, circuitos de corrente alternada, campo magnético, indução eletromagnética e oscilações eletromagnéticas.
 
-SOUSA, Ana Luiza Lima. A história da extensão universitária a partir de seus interlocutores. UFG 1995 (Dissertação de mestrado). 
+## **Bibliografia Básica:**
 
-77 
+CAPUANO, F. G., MARINO, M.A.M. _Laboratório de Eletricidade e Eletrônica._ 24 ed. Editora Erica, São Paulo. 2007.
 
-**==> picture [486 x 54] intentionally omitted <==**
+PERUZZO, J. _Experimentos de Física Básica: Eletromagnetismo, Física Moderna e Ciências Espaciais,_ Editora Livraria da Física, São Paulo. 2013.
 
-**Campus Ivaiporã do IFPR Curso** : Licenciatura em Física **Área do Conhecimento** : Ciências Exatas e da Terra **Componente Curricular** : Física III – Elementos de Eletromagnetismo **Carga Horária** : 67h **Período Letivo** : 5º período 
+VUOLO, J. H. Fundamentos de Teoria de Erros. 2. ed. São Paulo: Edgard Blucher, 1996 MEDEIROS, J.B. _Redação científica - A prática de fichamentos, resumos, resenhas._ Editora Atlas. São Paulo
 
-**Ementa** : Eletrostática. Capacitores e resistores. Circuitos de corrente contínua. Campos Magnéticos. Fontes de campos magnéticos.  Magnetismo nos materiais. Circuitos de corrente alternada. Equações de Maxwell. Oscilações eletromagnéticas. 
+PIMENTEL, F. _Curso de Estatística Experimental._ 15 ed. Editora
 
-**Bibliografia Básica** : HALLIDAY, D; WALKER, J; RESNICK, R. Fundamentos de Física. v. 3. 8. ed. Rio de Janeiro: LTC, 2009. YOUNG, H. D.; FREEDMAN, R. A. Física v.3: Eletromagnetismo. NUSSENZVEIG. H. M. Curso de Física Básica - Eletromagnetismo. V.3. 2ed.  São Paulo: Edgard Blucher, 2015. SADIKU, Matthew N. O. Elementos de eletromagnetismo. 5.ed. Porto Alegre: Bookman, 2012. TIPLER, P. A.; LIEWELLYN. Física para cientistas e engenheiros. LTC. 6ed. 2012. **Bibliografia Complementar** : CHAVES, A. Física Básica: Eletromagnetismo. LTC. 2009 MACHADO,  Kleber  Daum,  ELETROMAGNETISMO  VOL.  1.  Ponta  Grossa:  Toda palavra. 2012. MACHADO,  Kleber  Daum,  ELETROMAGNETISMO  VOL.  2.  Ponta  Grossa:  Toda palavra. 2013. FEYNMAN, R. P.; SANDS, M. LEIGHTON, R. B. Feyman: Lições de Física. v.2. Porto Alegre. Bookman. 2008. BOYLESTAD, R. L. Introdução à análise de circuitos. 12. ed. São Paulo: Pearson Prentice Hall, 2012. 
+**Bibliografia Complementar:** NUSSENZVEIG, M.H. _Curso de Física Básica: Eletromagnetismo._ Editora Edgar Blucher, São Paulo.
 
-78 
+GASPAR, A. _Atividades Experimentais no Ensino de Física: Uma nova visão baseada na teoria de Vigotski._ Editora Livraria da Física, São Paulo. 2014.
 
-**==> picture [486 x 54] intentionally omitted <==**
-
-**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Laboratório de Física III **Carga Horária:** 33h **Período letivo:** 5º período **Ementa:** 
-
-Experimentos em Eletricidade e Magnetismo: instrumentos de medidas elétricas, campo elétrico, potencial elétrico, condutores ôhmicos, condutores não ôhmicos, circuito de corrente contínua, circuitos de corrente contínua, circuitos de corrente alternada, campo magnético, indução eletromagnética e oscilações eletromagnéticas. 
-
-## **Bibliografia Básica:** 
-
-CAPUANO, F. G., MARINO, M.A.M. _Laboratório de Eletricidade e Eletrônica._ 24 ed. Editora Erica, São Paulo. 2007. 
-
-PERUZZO, J. _Experimentos de Física Básica: Eletromagnetismo, Física Moderna e Ciências Espaciais,_ Editora Livraria da Física, São Paulo. 2013. 
-
-VUOLO, J. H. Fundamentos de Teoria de Erros. 2. ed. São Paulo: Edgard Blucher, 1996 MEDEIROS, J.B. _Redação científica - A prática de fichamentos, resumos, resenhas._ Editora Atlas. São Paulo 
-
-PIMENTEL, F. _Curso de Estatística Experimental._ 15 ed. Editora 
-
-**Bibliografia Complementar:** NUSSENZVEIG, M.H. _Curso de Física Básica: Eletromagnetismo._ Editora Edgar Blucher, São Paulo. 
-
-GASPAR, A. _Atividades Experimentais no Ensino de Física: Uma nova visão baseada na teoria de Vigotski._ Editora Livraria da Física, São Paulo. 2014. 
-
-HALLIDAY, D;WALKER, J; RESNICK. R. _Fundamentos de Física. v.3. 9.ed._ Editora LTC, Rio de Janeiro. 2013. CHAVES, A. Física Básica: Eletromagnetismo. LTC. 2009 
-
-79 
-
-**==> picture [486 x 54] intentionally omitted <==**
+HALLIDAY, D;WALKER, J; RESNICK. R. _Fundamentos de Física. v.3. 9.ed._ Editora LTC, Rio de Janeiro. 2013. CHAVES, A. Física Básica: Eletromagnetismo. LTC. 2009
 
 |**Câmpus Ivaiporã do IFPR**|**Câmpus Ivaiporã do IFPR**|
 |---|---|
@@ -1972,12 +1582,6 @@ HALLIDAY, D;WALKER, J; RESNICK. R. _Fundamentos de Física. v.3. 9.ed._ Editora 
 |Bibliografia Básica:<br>SILVA, Robson Santos da. Modle para autores e tutores. 2. ed. São Paulo: Novatec Editora,<br>2012.<br>LITTO F. M. e FORMIGA, M. Educação a distância o estado da arte. São Paulo: Pearson<br>Education, 2009.<br>DEMO, Pedro. Educação Hoje - "novas" Tecnologias, Pressões e Oportunidades. São Paulo:<br>Atlas, 2009.<br>SANTAELLA, Lucia. Comunicação ubíqua: Repercussões na cultura e na educação. São<br>Paulo: Editora Paulus, 2013<br>SANTAELLA, Lúcia. Navegar no ciberespaço: o perfil cognitivo do leitor imersivo. São Paulo:<br>Paullus, 2004.||
 |Bibliografia Complementar:<br>KENSKI, Vani Moreira. Educação e Tecnologias: o novo ritmo da informação. Campinas:<br>Papirus, 2008.<br>MORAN, José Manuel; MASETTO, Marcos T.; BEHRENS, Marilda Aparecida. Novas<br>tecnologias e mediação pedagógica. Campinas: Papirus, 2000<br>BRITO, Diego. Criação de sites na era da web 2.0: desenvolva sites profissionais através de<br>uma metodologia completa. Rio de Janeiro: Brasport, 2011.<br>VERAS, Marcelo (org.). Inovação e métodos de ensino para nativos digitais. São Paulo, Atlas,<br>2011.<br>LEÃO, Lúcia. O labirinto da hipermídia: arquitetura e navegação no ciberespaço. 2. ed. São<br>Paulo: Iluminuras, 2001.||
 
-
-
-80 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
 |**Campus Ivaiporã do IFPR**|**Campus Ivaiporã do IFPR**|
 |---|---|
 |**Curso**: Licenciatura em Física|**Área do Conhecimento**: Ciências Exatas e da Terra|
@@ -1986,12 +1590,6 @@ HALLIDAY, D;WALKER, J; RESNICK. R. _Fundamentos de Física. v.3. 9.ed._ Editora 
 |**Ementa**:<br>Tipos de Escolas. Metodologias em Ensino de Física: Eletromagnetismo e Física Moderna e<br>Contemporânea. Aulas em ambientes formais e informais de ensino vinculadas a extensão. Aulas<br>e/ou atividades de divulgação científica para a comunidade externa ao IFPR. Desenvolvimento e<br>aplicação deprojetos de extensão||
 |**Bibliografia** **Básica**:<br>BATISTA, I. L.; SALVI, R. F. Pós-Graduação em Ensino de Ciências e Educação Matemática:<br>um perfil de pesquisas. Eduel. 2009.<br>CARVALHO Jr. G. D. Aulas de Física do planejamento à avaliação. Rio de Janeiro. Livraria da<br>Física. 2011.<br>GREF, Grupo de Reelaboração do Ensino de Física. Física 3: Eletromagnetismo. 7. ed. São<br>Paulo: EDUSP, 2011.<br>PIETROCOLA, Maurício (org.). Ensino de Física: Conteúdo, Metodologia e Epistemologia em<br>uma Concepção Integrada. 2. ed. Florianópolis: Editora da UFSC, 2005.<br>POZO, Juan I.; CRESPO, Miguel A.G. A Aprendizagem e o Ensino de Ciências. 5. ed. Porto<br>Alegre: Artmed, 2009.||
 |**Bibliografia** **Complementar**:<br>GASPAR, Alberto. Experiências de Ciências. São Paulo: Ática. 2014.<br>MINITZES, J.J.; WANDERSEE, J.H.; NOVAK, J.D. Ensinando Ciência para Compreensão.<br>Lisboa: Editora Platano, 2010.<br>GASPARIN, J. L. Uma didática para a pedagogia histórico-crítica. 5. ed. rev. Campinas:<br>Autores Associados, 2012.<br>OLIVEIRA, Ivan S. Física moderna: para iniciados, interessados e aficionados. V. único. São<br>Paulo: Livraria da Física, 2010.<br>VILLATORRE, A. M.; HIGA, I.; TYCHANOWICZ, S. D. Didática e Avaliação em Física. Curitiba:<br>IBPEX; 2008.||
-
-
-
-81 
-
-**==> picture [486 x 54] intentionally omitted <==**
 
 |**Câmpus Ivaiporã do IFPR**|**Câmpus Ivaiporã do IFPR**|
 |---|---|
@@ -2002,12 +1600,6 @@ HALLIDAY, D;WALKER, J; RESNICK. R. _Fundamentos de Física. v.3. 9.ed._ Editora 
 |**Bibliografia Básica:**<br>ADFORPROEX. Extensão universitária: organização e sistematização. Belo Horizonte:<br>Coopmed, 2007 (Coleção Extensão Universitária, v. 6)<br>POZO, Juan Ignácio; CRESPO, Miguel Ángel Gómez. A aprendizagem e o ensino de<br>ciências. Do conhecimento do cotidiano ao conhecimento científico. 5 ed. Porto Alegre: Artmed,<br>2009.<br>DEUS, Sandra de. Extensão universitária : trajetórias e desafios. Santa Maria, RS : Ed.<br>PRE-UFSM, 2020 (Série Extensão).<br>CASTRO, Cláudio de Moura. A Prática da Pesquisa. São Paulo: Pearson Prentice Hall, 2006.<br>Resolução CNE/CES nº 7, de 18 de dezembro de 2018,  estabelece as Diretrizes para a<br>Extensão na Educação Superior Brasileira e regimenta o disposto na Meta 12.7 da Lei nº<br>13.005/2014, que aprova o Plano Nacional de Educação - PNE 2014-2024 e dá outras<br>providências.||
 |**Bibliografia Complementar:**<br>THIOLLLENT, Michel. Metodologia da Pesquisa-Ação. São Paulo: Cortez, 2011.<br>SANTOS, B.S. Universidade do Século XXI: para uma reforma democrática e emancipatória<br>da Universidade. São Paulo: Cortez, 2004. 120p. (Coleção questões da nossa época).<br>SEVERINO, A. J. Metodologia do Trabalho Científico. 23. ed. São Paulo: Cortez, 2007.<br>MÉSZÁROS. I. Estrutura Social e Formas de Consciência – a determinação social do<br>método. São Paulo: Boitempo, 2009.<br>SOUSA, Ana Luiza Lima. A história da extensão universitária a partir de seus interlocutores.<br>UFG 1995 (Dissertação de mestrado).||
 
-
-
-82 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
 |**Campus Ivaiporã do IFPR**|**Campus Ivaiporã do IFPR**|
 |---|---|
 |**Curso**: Licenciatura em Física|**Área do Conhecimento**: Ciências Exatas e da Terra|
@@ -2017,107 +1609,85 @@ HALLIDAY, D;WALKER, J; RESNICK. R. _Fundamentos de Física. v.3. 9.ed._ Editora 
 |**Bibliografia** **Básica**:<br>NUSSENZVEIG. H. M. Curso de Física Básica – Ótica, Relatividade e Física Quãntica. V.4.<br>2ed.  São Paulo: Edgard Blucher, 2015.<br>OLIVEIRA, I. S. Física Moderna para iniciados, interessados e aficionados. V. único. Livraria<br>da Física. 2010.<br>TIPLER, P. A.; LIEWELLYN. Física Moderna. LTC. 5ed. 2012.<br>YOUNG, H.  D.; FREEDMAN, R.  A.  Física IV:  Ótica e Física  Moderna.  12.  ed.  São Paulo.<br>Pearson. 2009.<br>SANCHES, Mônica Bordim; NEVES, Marcos Cesar Danhoni. A física moderna e<br>contemporânea no ensino médio: uma reflexão didática. Maringá: EDUEM, 2011.||
 |<br>**Bibliografia** **Complementar**:<br>BRAZ JÚNIOR, Dulcidio. Física moderna: tópicos para o ensino médio. Campinas, SP:<br>Companhia da Escola, 2002. 118 p.<br>CARUSO, F.; OGURI, V. Física Moderna: Exercícios resolvidos. Elsevier. 2009.<br>HALLIDAY, D; WALKER, J; RESNICK, R. Fundamentos de Física. v. 4. 8. ed. Rio de Janeiro:<br>LTC, 2009.<br>EISBERG, R; RESNICK, R. Física Quântica: átomos, moléculas, sólidas, núcleos e<br>partículas. Elsevier. 1979.<br>FEYNMAN, R. P.; SANDS, M. LEIGHTON, R. B. Feyman: Lições de Física. V.3. Porto Alegre.<br>Bookman. 2008.||
 
+Câmpus Ivaiporã do IFPR **Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Laboratório de Física IV **Carga Horária:** 33h **Período letivo:** 6º período
 
+## **Ementa:**
 
-83 
+Experimentos sobre Ondas Eletromagnéticas. Experimentos sobre Óptica Geométrica: Reflexão e Refração. Formação de Imagem em espelhos planos, espelhos esféricos e lentes esféricas.  Experimentos sobre Óptica Física: Propriedade ondulatória da Luz; Interferência; Difração. Experimentos sobre princípios de Física Moderna.
 
-**==> picture [486 x 54] intentionally omitted <==**
+## **Bibliografia Básica:**
 
-Câmpus Ivaiporã do IFPR **Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Laboratório de Física IV **Carga Horária:** 33h **Período letivo:** 6º período 
+CAPUANO, F. G., MARINO, M.A.M. _Laboratório de Eletricidade e Eletrônica._ 24 ed. Editora Erica, São Paulo. 2007.
 
-## **Ementa:** 
+OLIVEIRA, I.S. _Física Moderna para Iniciados, interessados e aficionados._ Editora Livraria da Física, São Paulo.2010.
 
-Experimentos sobre Ondas Eletromagnéticas. Experimentos sobre Óptica Geométrica: Reflexão e Refração. Formação de Imagem em espelhos planos, espelhos esféricos e lentes esféricas.  Experimentos sobre Óptica Física: Propriedade ondulatória da Luz; Interferência; Difração. Experimentos sobre princípios de Física Moderna. 
+PERUZZO, J. _Experimentos de Física Básica: Termodinâmica, Ondulatória e Óptica,_ Editora Livraria da Física, São Paulo. 2012
 
-## **Bibliografia Básica:** 
+PERUZZO, J. _Experimentos de Física Básica: Eletromagnetismo, Física Moderna e Ciências Espaciais,_ Editora Livraria da Física, São Paulo. 2013.
 
-CAPUANO, F. G., MARINO, M.A.M. _Laboratório de Eletricidade e Eletrônica._ 24 ed. Editora Erica, São Paulo. 2007. 
+TAVOLARO, C.RC; CAVALCANTE, M.A. _Física Moderna Experimental._ 3.ed. Editora Manole, Barueri. 2011.
 
-OLIVEIRA, I.S. _Física Moderna para Iniciados, interessados e aficionados._ Editora Livraria da Física, São Paulo.2010. 
+## **Bibliografia Complementar:**
 
-PERUZZO, J. _Experimentos de Física Básica: Termodinâmica, Ondulatória e Óptica,_ Editora Livraria da Física, São Paulo. 2012 
+NUSSENZVEIG, M.H. _Curso de Física Básica: Eletromagnetismo._ Editora Edgar Blucher, São Paulo.
 
-PERUZZO, J. _Experimentos de Física Básica: Eletromagnetismo, Física Moderna e Ciências Espaciais,_ Editora Livraria da Física, São Paulo. 2013. 
+MEDEIROS, J.B. _Redação científica - A prática de fichamentos, resumos, resenhas._ Editora Atlas. São Paulo
 
-TAVOLARO, C.RC; CAVALCANTE, M.A. _Física Moderna Experimental._ 3.ed. Editora Manole, Barueri. 2011. 
+GASPAR, A. _Atividades Experimentais no Ensino de Física: Uma nova visão baseada na teoria de Vigotski._ Editora Livraria da Física, São Paulo. 2014.
 
-## **Bibliografia Complementar:** 
+HALLIDAY, D;WALKER, J; RESNICK. R. _Fundamentos de Física. v.3. 5.ed._ Editora LTC, Rio de Janeiro.
 
-NUSSENZVEIG, M.H. _Curso de Física Básica: Eletromagnetismo._ Editora Edgar Blucher, São Paulo. 
+PIMENTEL, F. _Curso de Estatística Experimental._ 15 ed. Editora
 
-MEDEIROS, J.B. _Redação científica - A prática de fichamentos, resumos, resenhas._ Editora Atlas. São Paulo 
+## **Campus Ivaiporã do IFPR**
 
-GASPAR, A. _Atividades Experimentais no Ensino de Física: Uma nova visão baseada na teoria de Vigotski._ Editora Livraria da Física, São Paulo. 2014. 
+**Curso** : Licenciatura em Física **Área do Conhecimento** : Ciências Exatas e da Terra
 
-HALLIDAY, D;WALKER, J; RESNICK. R. _Fundamentos de Física. v.3. 5.ed._ Editora LTC, Rio de Janeiro. 
+**Componente Curricular** : História e Filosofia da Ciência
 
-PIMENTEL, F. _Curso de Estatística Experimental._ 15 ed. Editora 
+**Carga Horária** : 33h **Período Letivo** : 6º período
 
-84 
+## **Ementa** :
 
-**==> picture [486 x 54] intentionally omitted <==**
+História e Filosofia da Ciência no Ensino de Física; Natureza da Ciência; A Física pré-copernicana; Desenvolvimento conceitual e formal das teorias; Evolução dos conceitos e teorias da física no contexto da história e da filosofia da ciência; as implicações da história e da filosofia da ciência para a formação do profissional em Física.
 
-## **Campus Ivaiporã do IFPR** 
+## **Bibliografia Básica** :
 
-**Curso** : Licenciatura em Física **Área do Conhecimento** : Ciências Exatas e da Terra 
+PEDUZZI, L. O. Q. Evolução dos conceitos da Física. UFSC. Florianópolis. 2011. PEDUZZI, L. O. Q.; MARTINS, A. F.; FERREIRA, J. M. H. Temas de História e Filosofia da Ciência no Ensino. EDUFRN. Natal. 2012.
 
-**Componente Curricular** : História e Filosofia da Ciência 
+SILVA, C. C. Estudos de História e Filosofia das Ciências. Livraria da Física. São Paulo. 2006.
 
-**Carga Horária** : 33h **Período Letivo** : 6º período 
+PIRES, Antonio S. T. Evolução das idéias da física. 2. ed. São Paulo: Livraria da Física, 2011. ARAGÃO, Maria José. História da física. Rio de Janeiro: Interciência, 2006. **Bibliografia Complementar** : NEFFE, Jürgen. Einstein: uma biografia. Barueri: Novo Século, 2012. POPPER, Karl. _A lógica da descoberta científica_ . KUHN, Thomas. _A estrutura das revoluções científicas_ .
 
-## **Ementa** : 
+LAKATOS, Eva Maria & MARCONI, Marina de A. _Fundamentos de metodologia científica_ . São Paulo: Atlas 2003.
 
-História e Filosofia da Ciência no Ensino de Física; Natureza da Ciência; A Física pré-copernicana; Desenvolvimento conceitual e formal das teorias; Evolução dos conceitos e teorias da física no contexto da história e da filosofia da ciência; as implicações da história e da filosofia da ciência para a formação do profissional em Física. 
+FEYERABEND, Paul K. _Contra o método_ . 2011.
 
-## **Bibliografia Básica** : 
+## **Campus Ivaiporã do IFPR**
 
-PEDUZZI, L. O. Q. Evolução dos conceitos da Física. UFSC. Florianópolis. 2011. PEDUZZI, L. O. Q.; MARTINS, A. F.; FERREIRA, J. M. H. Temas de História e Filosofia da Ciência no Ensino. EDUFRN. Natal. 2012. 
+**Curso** : Licenciatura em Física **Área do Conhecimento** : Ciências Exatas e da Terra **Componente Curricular** : Sociologia da Ciência **Carga Horária** : 33h **Período Letivo** : 6º período
 
-SILVA, C. C. Estudos de História e Filosofia das Ciências. Livraria da Física. São Paulo. 2006. 
+**Ementa** :
 
-PIRES, Antonio S. T. Evolução das idéias da física. 2. ed. São Paulo: Livraria da Física, 2011. ARAGÃO, Maria José. História da física. Rio de Janeiro: Interciência, 2006. **Bibliografia Complementar** : NEFFE, Jürgen. Einstein: uma biografia. Barueri: Novo Século, 2012. POPPER, Karl. _A lógica da descoberta científica_ . KUHN, Thomas. _A estrutura das revoluções científicas_ . 
+1. **Internalismo e externalismo na historiografia da ciência: o debate entre Karl Popper e Thomas Kuhn** . Racionalismo e progresso científico em busca da verdade objetiva. As noções de incomensurabilidade entre teorias científicas, paradigma científico, ciência normal e ciência revolucionária. 2. **Pós-modernismos na narrativa científica: irracionalismo e subjetivismo nas obras de Paul K. Feyerabend e Bruno Latour** . A denegação da razão iluminista. 3 - **A meio caminho: a abordagem contextual do fazer científico** . 4 - **Abordagens marxistas sobre a ciência: a determinação social do método** . A crítica do racionalismo, do irracionalismo e do contexto. A crítica das noções de incomensurabilidade entre teorias científicas, paradigma científico, ciência normal e ciência revolucionária. A espiral do processo de produção e acúmulo do conhecimento científico.
 
-LAKATOS, Eva Maria & MARCONI, Marina de A. _Fundamentos de metodologia científica_ . São Paulo: Atlas 2003. 
+**Bibliografia Básica** :
 
-FEYERABEND, Paul K. _Contra o método_ . 2011. 
+POPPER, Karl. _A lógica da descoberta científica_ . KUHN, Thomas. _A estrutura das revoluções científicas_ . LATOUR, Bruno. _Jamais Fomos Modernos_ .
 
-85 
+TONET, Ivo. _Método Científico: uma abordagem ontológica_ . Instituto Lukács, 2013. MÉSZÁROS. I. _Estrutura Social e Formas de Consciência – a determinação social do método_ . São Paulo: Boitempo, 2009.
 
-**==> picture [486 x 54] intentionally omitted <==**
+## **Bibliografia Complementar** :
 
-## **Campus Ivaiporã do IFPR** 
+LAKATOS, Eva Maria & MARCONI, Marina de A. _Fundamentos de metodologia científica_ . São Paulo: Atlas 2003.
 
-**Curso** : Licenciatura em Física **Área do Conhecimento** : Ciências Exatas e da Terra **Componente Curricular** : Sociologia da Ciência **Carga Horária** : 33h **Período Letivo** : 6º período 
+FEYERABEND, Paul K. _Contra o método_ .
 
-**Ementa** : 
+LATOUR, Bruno. Ciência em ação.
 
-1. **Internalismo e externalismo na historiografia da ciência: o debate entre Karl Popper e Thomas Kuhn** . Racionalismo e progresso científico em busca da verdade objetiva. As noções de incomensurabilidade entre teorias científicas, paradigma científico, ciência normal e ciência revolucionária. 2. **Pós-modernismos na narrativa científica: irracionalismo e subjetivismo nas obras de Paul K. Feyerabend e Bruno Latour** . A denegação da razão iluminista. 3 - **A meio caminho: a abordagem contextual do fazer científico** . 4 - **Abordagens marxistas sobre a ciência: a determinação social do método** . A crítica do racionalismo, do irracionalismo e do contexto. A crítica das noções de incomensurabilidade entre teorias científicas, paradigma científico, ciência normal e ciência revolucionária. A espiral do processo de produção e acúmulo do conhecimento científico. 
+BERDOULAY, Vincent. _A abordagem contextual_ . LEFEBVRE, Henri. _Lógica formal, lógica dialética_ .
 
-**Bibliografia Básica** : 
-
-POPPER, Karl. _A lógica da descoberta científica_ . KUHN, Thomas. _A estrutura das revoluções científicas_ . LATOUR, Bruno. _Jamais Fomos Modernos_ . 
-
-TONET, Ivo. _Método Científico: uma abordagem ontológica_ . Instituto Lukács, 2013. MÉSZÁROS. I. _Estrutura Social e Formas de Consciência – a determinação social do método_ . São Paulo: Boitempo, 2009. 
-
-## **Bibliografia Complementar** : 
-
-LAKATOS, Eva Maria & MARCONI, Marina de A. _Fundamentos de metodologia científica_ . São Paulo: Atlas 2003. 
-
-FEYERABEND, Paul K. _Contra o método_ . 
-
-LATOUR, Bruno. Ciência em ação. 
-
-BERDOULAY, Vincent. _A abordagem contextual_ . LEFEBVRE, Henri. _Lógica formal, lógica dialética_ . 
-
-86 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Metodologia de Pesquisa **Carga Horária:** 33h **Período letivo:** 6º Período **Ementa:** Pensamento Científico: senso comum e conhecimento científico: tipologia, universo conceitual. A pesquisa científica. Ética na pesquisa. Fases da pesquisa científica. Definições metodológicas: tipologia, universo, amostragem, seleção de sujeitos. Método: quantitativo e qualitativo, limites e possibilidades. Cronograma. Elaboração e Execução de Mini-projetos de Pesquisa em Temas Específicos em Física ou Ensino de Física. **Bibliografia Básica:** BARROS, A. J. S., LEHFELD, N. A. S. **Fundamentos de Metodologia Científica** . 3. ed. São Paulo: Pearson, 2008. GIL, Antonio Carlos. **Como elaborar projetos de Pesquisa** . 5. ed. São Paulo: Editora Atlas, 2010. LAKATOS, E. M., MARCONI, M. A. **Fundamentos de Metodologia Científica** . 7. ed. São Paulo: Atlas, 2010. SEVERINO, A. J. **Metodologia do Trabalho Científico** . 23. ed. São Paulo: Cortez, 2007. **Bibliografia Complementar:** DEMO, Pedro. **Introdução à Metodologia da Ciência** . São Paulo: Atlas 2012. CASTRO, Claudio de Moura. **A Prática da Pesquisa** . São Paulo: Pearson Prentice Hall, 2006. LAKATOS, Eva Maria; Marconi, Marina de Andrade. **Metodologia Científica** . São Paulo, Atlas, 2011. MAGALHÃES, Gildo. **Introdução à Metodologia da Pesquisa – Caminhos da Ciência e Tecnologia.** São Paulo: Ática, 2005. MEDEIROS, João Bosco. **Redação Científica: a prática de fichamentos, resumos e resenhas.** 7. ed. São Paulo: Editora Atlas, 2005. THIOLLLENT, Michel. **Metodologia da Pesquisa-Ação** . São Paulo: Cortez, 2011. 
-
-87 
-
-**==> picture [486 x 54] intentionally omitted <==**
+**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Metodologia de Pesquisa **Carga Horária:** 33h **Período letivo:** 6º Período **Ementa:** Pensamento Científico: senso comum e conhecimento científico: tipologia, universo conceitual. A pesquisa científica. Ética na pesquisa. Fases da pesquisa científica. Definições metodológicas: tipologia, universo, amostragem, seleção de sujeitos. Método: quantitativo e qualitativo, limites e possibilidades. Cronograma. Elaboração e Execução de Mini-projetos de Pesquisa em Temas Específicos em Física ou Ensino de Física. **Bibliografia Básica:** BARROS, A. J. S., LEHFELD, N. A. S. **Fundamentos de Metodologia Científica** . 3. ed. São Paulo: Pearson, 2008. GIL, Antonio Carlos. **Como elaborar projetos de Pesquisa** . 5. ed. São Paulo: Editora Atlas, 2010. LAKATOS, E. M., MARCONI, M. A. **Fundamentos de Metodologia Científica** . 7. ed. São Paulo: Atlas, 2010. SEVERINO, A. J. **Metodologia do Trabalho Científico** . 23. ed. São Paulo: Cortez, 2007. **Bibliografia Complementar:** DEMO, Pedro. **Introdução à Metodologia da Ciência** . São Paulo: Atlas 2012. CASTRO, Claudio de Moura. **A Prática da Pesquisa** . São Paulo: Pearson Prentice Hall, 2006. LAKATOS, Eva Maria; Marconi, Marina de Andrade. **Metodologia Científica** . São Paulo, Atlas, 2011. MAGALHÃES, Gildo. **Introdução à Metodologia da Pesquisa – Caminhos da Ciência e Tecnologia.** São Paulo: Ática, 2005. MEDEIROS, João Bosco. **Redação Científica: a prática de fichamentos, resumos e resenhas.** 7. ed. São Paulo: Editora Atlas, 2005. THIOLLLENT, Michel. **Metodologia da Pesquisa-Ação** . São Paulo: Cortez, 2011.
 
 |**Câmpus Ivaiporã do IFPR**|**Câmpus Ivaiporã do IFPR**|
 |---|---|
@@ -2128,93 +1698,75 @@ BERDOULAY, Vincent. _A abordagem contextual_ . LEFEBVRE, Henri. _Lógica formal,
 |**Bibliografia Básica:**<br>ADFORPROEX. Extensão universitária: organização e sistematização. Belo Horizonte:<br>Coopmed, 2007 (Coleção Extensão Universitária, v. 6)<br>POZO, Juan Ignácio; CRESPO, Miguel Ángel Gómez. A aprendizagem e o ensino de<br>ciências. Do conhecimento do cotidiano ao conhecimento científico. 5 ed. Porto Alegre: Artmed,<br>2009.<br>DEUS, Sandra de. Extensão universitária : trajetórias e desafios. Santa Maria, RS : Ed.<br>PRE-UFSM, 2020 (Série Extensão).<br>CASTRO, Cláudio de Moura. A Prática da Pesquisa. São Paulo: Pearson Prentice Hall,<br>2006.<br>Resolução CNE/CES nº 7, de 18 de dezembro de 2018,  estabelece as Diretrizes para a<br>Extensão na Educação Superior Brasileira e regimenta o disposto na Meta 12.7 da Lei nº<br>13.005/2014, que aprova o Plano Nacional de Educação - PNE 2014-2024 e dá outras<br>providências.||
 |**Bibliografia Complementar:**<br>THIOLLLENT, Michel. Metodologia da Pesquisa-Ação. São Paulo: Cortez, 2011.<br>SANTOS, B.S. Universidade do Século XXI: para uma reforma democrática e<br>emancipatória da Universidade. São Paulo: Cortez, 2004. 120p. (Coleção questões da nossa<br>época).<br>SEVERINO, A. J. Metodologia do Trabalho Científico. 23. ed. São Paulo: Cortez, 2007.<br>MÉSZÁROS. I. Estrutura Social e Formas de Consciência – a determinação social do<br>método. São Paulo: Boitempo, 2009.<br>SOUSA, Ana Luiza Lima. A história da extensão universitária a partir de seus<br>interlocutores. UFG 1995 (Dissertação de mestrado).||
 
+**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Trabalho de Conclusão de Curso I (TCC) **Carga Horária:** 33h **Período letivo:** 7º período
 
+## **Ementa:**
 
-88 
+Pesquisa em Física e em Ensino de Física no Brasil. Análises de teses, dissertações, artigos e monografias. Elaboração de proposta de trabalho científico e/ou tecnológico envolvendo temas abrangidos pelo curso. Coleta de dados. Início do desenvolvimento do trabalho proposto: introdução, problema de pesquisa, objetivos e materiais e métodos. **Bibliografia Básica:**
 
-**==> picture [486 x 54] intentionally omitted <==**
+BARROS, A. J. S., LEHFELD, N. A. S. **Fundamentos de Metodologia Científica** . 3. ed. São Paulo: Pearson, 2008.
 
-**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Trabalho de Conclusão de Curso I (TCC) **Carga Horária:** 33h **Período letivo:** 7º período 
+GIL, Antonio Carlos. **Como elaborar projetos de Pesquisa** . 5. ed. São Paulo: Editora Atlas, 2010.
 
-## **Ementa:** 
+LAKATOS, E. M., MARCONI, M. A. **Fundamentos de Metodologia Científica** . 7. ed. São Paulo: Atlas, 2010.
 
-Pesquisa em Física e em Ensino de Física no Brasil. Análises de teses, dissertações, artigos e monografias. Elaboração de proposta de trabalho científico e/ou tecnológico envolvendo temas abrangidos pelo curso. Coleta de dados. Início do desenvolvimento do trabalho proposto: introdução, problema de pesquisa, objetivos e materiais e métodos. **Bibliografia Básica:** 
+SEVERINO, A. J. **Metodologia do Trabalho Científico** . 23. ed. São Paulo: Cortez, 2007.
 
-BARROS, A. J. S., LEHFELD, N. A. S. **Fundamentos de Metodologia Científica** . 3. ed. São Paulo: Pearson, 2008. 
+## **Bibliografia Complementar:**
 
-GIL, Antonio Carlos. **Como elaborar projetos de Pesquisa** . 5. ed. São Paulo: Editora Atlas, 2010. 
+DEMO, Pedro. **Introdução à Metodologia da Ciência** . São Paulo: Atlas 2012. CASTRO, Cláudio de Moura. **A Prática da Pesquisa** . São Paulo: Pearson Prentice Hall, 2006. LAKATOS, Eva Maria; Marconi, Marina de Andrade. **Metodologia Científica** . São Paulo, Atlas,
 
-LAKATOS, E. M., MARCONI, M. A. **Fundamentos de Metodologia Científica** . 7. ed. São Paulo: Atlas, 2010. 
+2011. MAGALHÃES, Gildo. **Introdução à Metodologia da Pesquisa – Caminhos da Ciência e Tecnologia.** São Paulo: Ática, 2005. MEDEIROS, João Bosco. **Redação Científica: a prática de fichamentos, resumos e resenhas.** 7. ed. São Paulo: Editora Atlas, 2005.
 
-SEVERINO, A. J. **Metodologia do Trabalho Científico** . 23. ed. São Paulo: Cortez, 2007. 
+**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Estágio Supervisionado I **Carga Horária:** 100h **Período letivo:** 7º Período
 
-## **Bibliografia Complementar:** 
+## **Ementa:**
 
-DEMO, Pedro. **Introdução à Metodologia da Ciência** . São Paulo: Atlas 2012. CASTRO, Cláudio de Moura. **A Prática da Pesquisa** . São Paulo: Pearson Prentice Hall, 2006. LAKATOS, Eva Maria; Marconi, Marina de Andrade. **Metodologia Científica** . São Paulo, Atlas, 
+Análise sobre o ambiente escolar relacionada ao currículo de maneira geral. Análises específicas sobre o currículo de Física e Ciências. A composição do currículo de Física em diferentes concepções e perspectivas. Análise comparativa de projetos de ensino de Física e o currículo. O currículo de Física no Ensino Fundamental, Ensino Médio e EJA. Análise de ambientes formais, não formais e informais de ensino.
 
-2011. MAGALHÃES, Gildo. **Introdução à Metodologia da Pesquisa – Caminhos da Ciência e Tecnologia.** São Paulo: Ática, 2005. MEDEIROS, João Bosco. **Redação Científica: a prática de fichamentos, resumos e resenhas.** 7. ed. São Paulo: Editora Atlas, 2005. 
+## **Bibliografia Básica:**
 
-89 
+CARVALHO Jr. G. D. Aulas de Física do planejamento à avaliação. Rio de Janeiro. Livraria da Física. 2011.
 
-**==> picture [486 x 54] intentionally omitted <==**
+GREF, Grupo de Reelaboração do Ensino de Física. Física 3: Eletromagnetismo. 7. ed. São Paulo: EDUSP, 2011.
 
-**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Estágio Supervisionado I **Carga Horária:** 100h **Período letivo:** 7º Período 
+PIETROCOLA, Maurício (org.). Ensino de Física: Conteúdo, Metodologia e Epistemologia em uma Concepção Integrada. 2. ed. Florianópolis: Editora da UFSC, 2005.
 
-## **Ementa:** 
+## **Bibliografia Complementar:**
 
-Análise sobre o ambiente escolar relacionada ao currículo de maneira geral. Análises específicas sobre o currículo de Física e Ciências. A composição do currículo de Física em diferentes concepções e perspectivas. Análise comparativa de projetos de ensino de Física e o currículo. O currículo de Física no Ensino Fundamental, Ensino Médio e EJA. Análise de ambientes formais, não formais e informais de ensino. 
+GASPAR, Alberto. Experiências de Ciências para o Ensino Fundamental. São Paulo: Ática. 2003.
 
-## **Bibliografia Básica:** 
+MINITZES, J.J.; WANDERSEE, J.H.; NOVAK, J.D. Ensinando Ciência para Compreensão. Lisboa: Editora Platano, 2010.
 
-CARVALHO Jr. G. D. Aulas de Física do planejamento à avaliação. Rio de Janeiro. Livraria da Física. 2011. 
+POZO, Juan I.; CRESPO, Miguel A.G. A Aprendizagem e o Ensino de Ciências. 5. ed. Porto Alegre: Artmed, 2009.
 
-GREF, Grupo de Reelaboração do Ensino de Física. Física 3: Eletromagnetismo. 7. ed. São Paulo: EDUSP, 2011. 
+OLIVEIRA, Ivan S. Física moderna: para iniciados, interessados e aficionados. V. único. São Paulo: Livraria da Física, 2010.
 
-PIETROCOLA, Maurício (org.). Ensino de Física: Conteúdo, Metodologia e Epistemologia em uma Concepção Integrada. 2. ed. Florianópolis: Editora da UFSC, 2005. 
+VILLATORRE, A. M.; HIGA, I.; TYCHANOWICZ, S. D. Didática e Avaliação em Física. Curitiba: IBPEX; 2008.
 
-## **Bibliografia Complementar:** 
+**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Curricularização da extensão VII **Carga Horária:** 33h **Período letivo:** 7° Período
 
-GASPAR, Alberto. Experiências de Ciências para o Ensino Fundamental. São Paulo: Ática. 2003. 
+## **Ementa:**
 
-MINITZES, J.J.; WANDERSEE, J.H.; NOVAK, J.D. Ensinando Ciência para Compreensão. Lisboa: Editora Platano, 2010. 
+Construção, planejamento, execução e avaliação de projetos e atividades de extensão universitária. Construção de material didático e de divulgação científica, físico e/ou virtual. Elaboração de eventos acadêmicos destinados a sociedade externa. Análise do impacto educacional, cultural, tecnocientífico da extensão universitária do curso de Licenciatura em Física com a sociedade externa ao IFPR, discussão sobre o papel do estudante como membro fundamental da comunidade acadêmica e de sua responsabilidade social. Tempo destinado à aplicação das ações de extensão universitária.
 
-POZO, Juan I.; CRESPO, Miguel A.G. A Aprendizagem e o Ensino de Ciências. 5. ed. Porto Alegre: Artmed, 2009. 
+## **Bibliografia Básica:**
 
-OLIVEIRA, Ivan S. Física moderna: para iniciados, interessados e aficionados. V. único. São Paulo: Livraria da Física, 2010. 
+ADFORPROEX. Extensão universitária: organização e sistematização. Belo Horizonte: Coopmed, 2007 (Coleção Extensão Universitária, v. 6)
 
-VILLATORRE, A. M.; HIGA, I.; TYCHANOWICZ, S. D. Didática e Avaliação em Física. Curitiba: IBPEX; 2008. 
+POZO, Juan Ignácio; CRESPO, Miguel Ángel Gómez. A aprendizagem e o ensino de ciências. Do conhecimento do cotidiano ao conhecimento científico. 5 ed. Porto Alegre: Artmed, 2009. J DEUS, Sandra de. Extensão universitária : trajetórias e desafios. Santa Maria, RS : Ed. PRE-UFSM, 2020 (Série Extensão).
 
-90 
+CASTRO, Cláudio de Moura. A Prática da Pesquisa. São Paulo: Pearson Prentice Hall, 2006.
 
-**==> picture [486 x 54] intentionally omitted <==**
+Resolução CNE/CES nº 7, de 18 de dezembro de 2018,  estabelece as Diretrizes para a Extensão na Educação Superior Brasileira e regimenta o disposto na Meta 12.7 da Lei nº 13.005/2014, que aprova o Plano Nacional de Educação - PNE 2014-2024 e dá outras providências.
 
-**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Curricularização da extensão VII **Carga Horária:** 33h **Período letivo:** 7° Período 
+## **Bibliografia Complementar:**
 
-## **Ementa:** 
+THIOLLLENT, Michel. Metodologia da Pesquisa-Ação. São Paulo: Cortez, 2011. SANTOS, B.S. Universidade do Século XXI: para uma reforma democrática e
 
-Construção, planejamento, execução e avaliação de projetos e atividades de extensão universitária. Construção de material didático e de divulgação científica, físico e/ou virtual. Elaboração de eventos acadêmicos destinados a sociedade externa. Análise do impacto educacional, cultural, tecnocientífico da extensão universitária do curso de Licenciatura em Física com a sociedade externa ao IFPR, discussão sobre o papel do estudante como membro fundamental da comunidade acadêmica e de sua responsabilidade social. Tempo destinado à aplicação das ações de extensão universitária. 
+emancipatória da Universidade. São Paulo: Cortez, 2004. 120p. (Coleção questões da nossa época).
 
-## **Bibliografia Básica:** 
-
-ADFORPROEX. Extensão universitária: organização e sistematização. Belo Horizonte: Coopmed, 2007 (Coleção Extensão Universitária, v. 6) 
-
-POZO, Juan Ignácio; CRESPO, Miguel Ángel Gómez. A aprendizagem e o ensino de ciências. Do conhecimento do cotidiano ao conhecimento científico. 5 ed. Porto Alegre: Artmed, 2009. J DEUS, Sandra de. Extensão universitária : trajetórias e desafios. Santa Maria, RS : Ed. PRE-UFSM, 2020 (Série Extensão). 
-
-CASTRO, Cláudio de Moura. A Prática da Pesquisa. São Paulo: Pearson Prentice Hall, 2006. 
-
-Resolução CNE/CES nº 7, de 18 de dezembro de 2018,  estabelece as Diretrizes para a Extensão na Educação Superior Brasileira e regimenta o disposto na Meta 12.7 da Lei nº 13.005/2014, que aprova o Plano Nacional de Educação - PNE 2014-2024 e dá outras providências. 
-
-## **Bibliografia Complementar:** 
-
-THIOLLLENT, Michel. Metodologia da Pesquisa-Ação. São Paulo: Cortez, 2011. SANTOS, B.S. Universidade do Século XXI: para uma reforma democrática e 
-
-emancipatória da Universidade. São Paulo: Cortez, 2004. 120p. (Coleção questões da nossa época). 
-
-SEVERINO, A. J. Metodologia do Trabalho Científico. 23. ed. São Paulo: Cortez, 2007. MÉSZÁROS. I. Estrutura Social e Formas de Consciência – a determinação social do método. São Paulo: Boitempo, 2009. SOUSA, Ana Luiza Lima. A história da extensão universitária a partir de seus interlocutores. UFG 1995 (Dissertação de mestrado). 
-
-91 
-
-**==> picture [486 x 54] intentionally omitted <==**
+SEVERINO, A. J. Metodologia do Trabalho Científico. 23. ed. São Paulo: Cortez, 2007. MÉSZÁROS. I. Estrutura Social e Formas de Consciência – a determinação social do método. São Paulo: Boitempo, 2009. SOUSA, Ana Luiza Lima. A história da extensão universitária a partir de seus interlocutores. UFG 1995 (Dissertação de mestrado).
 
 |**Câmpus Ivaiporã do IFPR**|**Câmpus Ivaiporã do IFPR**|
 |---|---|
@@ -2225,21 +1777,11 @@ SEVERINO, A. J. Metodologia do Trabalho Científico. 23. ed. São Paulo: Cortez,
 |**Bibliografia Básica:**<br>BARROS, A. J. S., LEHFELD, N. A. S.**Fundamentos de Metodologia Científica**. 3. ed. São<br>Paulo: Pearson, 2008.<br>GIL, Antonio Carlos.**Como elaborar projetos de Pesquisa**. 5. ed. São Paulo: Editora Atlas,<br>2010.<br>LAKATOS, E. M., MARCONI, M. A.**Fundamentos de Metodologia Científica**. 7. ed. São<br>Paulo: Atlas, 2010.<br>SEVERINO, A. J.**Metodologia do Trabalho Científico**. 23. ed. São Paulo: Cortez, 2007.||
 |<br>**Bibliografia Complementar:**<br>DEMO, Pedro.**Introdução à Metodologia da Ciência**. São Paulo: Atlas 2012.<br>CASTRO, Claudio de Moura.**A Prática da Pesquisa**. São Paulo: Pearson Prentice Hall, 2006.<br>LAKATOS, Eva Maria; Marconi, Marina de Andrade.**Metodologia Científica**. São Paulo, Atlas,<br>2011.<br>MAGALHÃES, Gildo.**Introdução à Metodologia da Pesquisa – Caminhos da Ciência e**<br>**Tecnologia.**São Paulo: Ática, 2005.<br>MEDEIROS, João Bosco.**Redação Científica: a prática de fichamentos, resumos e resenhas.**<br>7. ed. São Paulo: Editora Atlas, 2005.||
 
+Câmpus Ivaiporã do IFPR **Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Estágio Supervisionado II **Carga Horária:** 133h **Período letivo:** 8º Período **Ementa:**
 
+A análise e reflexão sobre o ambiente escolar relativa à sala de aula de Física e Ciências; As concepções e estratégias didático-pedagógicas utilizadas por docentes da escola básica e sua relação com o currículo; A avaliação da aprendizagem em Física e Ciências na escola; A escolha de conteúdos e de materiais instrucionais; O planejamento e sua relação com o perfil da escola e dos alunos; A organização social na sala de aula; As relações professor-aluno e aluno-aluno. Intervenções na Educação Fundamental. Intervenções em ambientes formais, não formais e informais de ensino. **Bibliografia Básica:** BENDER, W.N. Aprendizagem Baseada em Projetos: Educação Diferenciada para o Século XXI. Editora Penso, Porto Alegre. 2014 BERGMANN, J. Sala de Aula Invertida. Uma metodologia Ativa de Aprendizagem. Editora LTC, São Paulo. 2016. GASPAR, A. Experiências de Ciências para o Ensino Fundamental. São Paulo: Editora Ática. 2005. MAZUR, E. Peer Instruction: A Revolução da Aprendizagem Ativa. Editora Penso, Porto Alegre. 2015.
 
-92 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-Câmpus Ivaiporã do IFPR **Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Estágio Supervisionado II **Carga Horária:** 133h **Período letivo:** 8º Período **Ementa:** 
-
-A análise e reflexão sobre o ambiente escolar relativa à sala de aula de Física e Ciências; As concepções e estratégias didático-pedagógicas utilizadas por docentes da escola básica e sua relação com o currículo; A avaliação da aprendizagem em Física e Ciências na escola; A escolha de conteúdos e de materiais instrucionais; O planejamento e sua relação com o perfil da escola e dos alunos; A organização social na sala de aula; As relações professor-aluno e aluno-aluno. Intervenções na Educação Fundamental. Intervenções em ambientes formais, não formais e informais de ensino. **Bibliografia Básica:** BENDER, W.N. Aprendizagem Baseada em Projetos: Educação Diferenciada para o Século XXI. Editora Penso, Porto Alegre. 2014 BERGMANN, J. Sala de Aula Invertida. Uma metodologia Ativa de Aprendizagem. Editora LTC, São Paulo. 2016. GASPAR, A. Experiências de Ciências para o Ensino Fundamental. São Paulo: Editora Ática. 2005. MAZUR, E. Peer Instruction: A Revolução da Aprendizagem Ativa. Editora Penso, Porto Alegre. 2015. 
-
-**Bibliografia Complementar:** GASPAR, Alberto. Experiências de Ciências para o Ensino Fundamental. São Paulo: Ática. 2003. MINITZES, J.J.; WANDERSEE, J.H.; NOVAK, J.D. Ensinando Ciência para Compreensão. Lisboa: Editora Platano, 2010. POZO, Juan I.; CRESPO, Miguel A.G. A Aprendizagem e o Ensino de Ciências. 5. ed. Porto Alegre: Artmed, 2009. OLIVEIRA, Ivan S. Física moderna: para iniciados, interessados e aficionados. V. único. São Paulo: Livraria da Física, 2010. VILLATORRE, A. M.; HIGA, I.; TYCHANOWICZ, S. D. Didática e Avaliação em Física. Curitiba: IBPEX; 2008. 
-
-93 
-
-**==> picture [486 x 54] intentionally omitted <==**
+**Bibliografia Complementar:** GASPAR, Alberto. Experiências de Ciências para o Ensino Fundamental. São Paulo: Ática. 2003. MINITZES, J.J.; WANDERSEE, J.H.; NOVAK, J.D. Ensinando Ciência para Compreensão. Lisboa: Editora Platano, 2010. POZO, Juan I.; CRESPO, Miguel A.G. A Aprendizagem e o Ensino de Ciências. 5. ed. Porto Alegre: Artmed, 2009. OLIVEIRA, Ivan S. Física moderna: para iniciados, interessados e aficionados. V. único. São Paulo: Livraria da Física, 2010. VILLATORRE, A. M.; HIGA, I.; TYCHANOWICZ, S. D. Didática e Avaliação em Física. Curitiba: IBPEX; 2008.
 
 |**Câmpus Ivaiporã do IFPR**|**Câmpus Ivaiporã do IFPR**|
 |---|---|
@@ -2250,12 +1792,6 @@ A análise e reflexão sobre o ambiente escolar relativa à sala de aula de Fís
 |**Bibliografia Básica:**<br>ADFORPROEX. Extensão universitária: organização e sistematização. Belo Horizonte:<br>Coopmed, 2007 (Coleção Extensão Universitária, v. 6)<br>POZO, Juan Ignácio; CRESPO, Miguel Ángel Gómez. A aprendizagem e o ensino de<br>ciências. Do conhecimento do cotidiano ao conhecimento científico. 5 ed. Porto Alegre: Artmed,<br>2009.<br>DEUS, Sandra de. Extensão universitária : trajetórias e desafios. Santa Maria, RS : Ed.<br>PRE-UFSM, 2020 (Série Extensão).<br>CASTRO, Cláudio de Moura. A Prática da Pesquisa. São Paulo: Pearson Prentice Hall,<br>2006.<br>Resolução CNE/CES nº 7, de 18 de dezembro de 2018,  estabelece as Diretrizes para a<br>Extensão na Educação Superior Brasileira e regimenta o disposto na Meta 12.7 da Lei nº<br>13.005/2014, que aprova o Plano Nacional de Educação - PNE 2014-2024 e dá outras<br>providências.||
 |**Bibliografia Complementar:**<br>THIOLLLENT, Michel. Metodologia da Pesquisa-Ação. São Paulo: Cortez, 2011.<br>SANTOS, B.S. Universidade do Século XXI: para uma reforma democrática e emancipatória<br>da Universidade. São Paulo: Cortez, 2004. 120p. (Coleção questões da nossa época).<br>SEVERINO, A. J. Metodologia do Trabalho Científico. 23. ed. São Paulo: Cortez, 2007.<br>MÉSZÁROS. I. Estrutura Social e Formas de Consciência – a determinação social do<br>método. São Paulo: Boitempo, 2009.<br>SOUSA, Ana Luiza Lima. A história da extensão universitária a partir de seus interlocutores.<br>UFG 1995 (Dissertação de mestrado).||
 
-
-
-94 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
 |Câmpus Ivaiporã do IFPR|Câmpus Ivaiporã do IFPR|
 |---|---|
 |**Curso:**Licenciatura em<br>Física|<br>**Área do Conhecimento:**Ciências Exatas e da Terra|
@@ -2264,12 +1800,6 @@ A análise e reflexão sobre o ambiente escolar relativa à sala de aula de Fís
 |<br>**Ementa:**<br>Desenvolvimento do trabalho proposto: desenvolvimento, análise de resultados e<br>conclusão. Prática de comunicação verbal e visual. Organização e síntese para<br>apresentação/comunicação. Apresentação e defesa pública do TCC - Trabalho de Conclusão<br>de Curso.||
 |**Bibliografia Básica:**<br>BARROS, A. J. S., LEHFELD, N. A. S.**Fundamentos de Metodologia Científica**. 3. ed.<br>São Paulo: Pearson, 2008.<br>GIL, Antonio Carlos.**Como elaborar projetos de Pesquisa**. 5. ed. São Paulo: Editora<br>Atlas, 2010.<br>LAKATOS, E. M., MARCONI, M. A.**Fundamentos de Metodologia Científica**. 7. ed. São<br>Paulo: Atlas, 2010.<br>SEVERINO, A. J.**Metodologia do Trabalho Científico**. 23. ed. São Paulo: Cortez, 2007.||
 |<br>**Bibliografia Complementar:**<br>DEMO, Pedro.**Introdução à Metodologia da Ciência**. São Paulo: Atlas 2012.<br>CASTRO, Claudio de Moura.**A Prática da Pesquisa**. São Paulo: Pearson Prentice Hall,<br>2006.<br>LAKATOS, Eva Maria; Marconi, Marina de Andrade.**Metodologia Científica**. São Paulo,<br>Atlas, 2011.<br>MAGALHÃES, Gildo.**Introdução à Metodologia da Pesquisa – Caminhos da Ciência e**<br>**Tecnologia.**São Paulo: Ática, 2005.<br>MEDEIROS, João Bosco.**Redação Científica: a prática de fichamentos, resumos e**<br>**resenhas.**7. ed. São Paulo: Editora Atlas, 2005.||
-
-
-
-95 
-
-**==> picture [486 x 54] intentionally omitted <==**
 
 |**Câmpus Ivaiporã do IFPR**|**Câmpus Ivaiporã do IFPR**|
 |---|---|
@@ -2280,12 +1810,6 @@ A análise e reflexão sobre o ambiente escolar relativa à sala de aula de Fís
 |**Bibliografia Básica:**<br>BENDER, W.N. Aprendizagem Baseada em Projetos :Educação Diferenciada para o<br>Século XXI. Editora Penso, Porto Alegre. 2014<br>BERGMANN, J. Sala de Aula Invertida. Uma metodologia Ativa de Aprendizagem. Editora<br>LTC, São Paulo. 2016.<br>MAZUR, E. Peer Instruction: A Revolução da Aprendizagem Ativa. Editora Penso, Porto<br>Alegre. 2015.||
 |**Bibliografia Complementar:**<br>GASPAR, Alberto. Experiências de Ciências para o Ensino Fundamental. São Paulo: Ática.<br>2003.<br>MINITZES, J.J.; WANDERSEE, J.H.; NOVAK, J.D. Ensinando Ciência para Compreensão.<br>Lisboa: Editora Platano, 2010.<br>POZO, Juan I.; CRESPO, Miguel A.G. A Aprendizagem e o Ensino de Ciências. 5. ed.<br>Porto Alegre: Artmed, 2009.<br>OLIVEIRA, Ivan S. Física moderna: para iniciados, interessados e aficionados. V. único.<br>São Paulo: Livraria da Física, 2010.<br>VILLATORRE, A. M.; HIGA, I.; TYCHANOWICZ, S. D. Didática e Avaliação em Física.<br>Curitiba: IBPEX; 2008.||
 
-
-
-96 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
 |**Câmpus Ivaiporã do IFPR**|**Câmpus Ivaiporã do IFPR**|
 |---|---|
 |**Curso:**Licenciatura em<br>Física|**Área do Conhecimento:**Ciências Exatas e da Terra|
@@ -2295,13 +1819,7 @@ A análise e reflexão sobre o ambiente escolar relativa à sala de aula de Fís
 |**Bibliografia Básica:**<br>ADFORPROEX. Extensão universitária: organização e sistematização. Belo Horizonte:<br>Coopmed, 2007 (Coleção Extensão Universitária, v. 6)<br>POZO, Juan Ignácio; CRESPO, Miguel Ángel Gómez. A aprendizagem e o ensino de<br>ciências. Do conhecimento do cotidiano ao conhecimento científico. 5 ed. Porto Alegre: Artmed,<br>2009.<br>DEUS, Sandra de. Extensão universitária : trajetórias e desafios. Santa Maria, RS : Ed.<br>PRE-UFSM, 2020 (Série Extensão).<br>CASTRO, Cláudio de Moura. A Prática da Pesquisa. São Paulo: Pearson Prentice Hall,<br>2006.<br>Resolução CNE/CES nº 7, de 18 de dezembro de 2018,  estabelece as Diretrizes para a<br>Extensão na Educação Superior Brasileira e regimenta o disposto na Meta 12.7 da Lei nº<br>13.005/2014, que aprova o Plano Nacional de Educação - PNE 2014-2024 e dá outras<br>providências.||
 |<br>**Bibliografia Complementar:**<br>THIOLLLENT, Michel. Metodologia da Pesquisa-Ação. São Paulo: Cortez, 2011.<br>SANTOS, B.S. Universidade do Século XXI: para uma reforma democrática e<br>emancipatória da Universidade. São Paulo: Cortez, 2004. 120p. (Coleção questões da nossa<br>época).<br>SEVERINO, A. J. Metodologia do Trabalho Científico. 23. ed. São Paulo: Cortez, 2007.<br>MÉSZÁROS. I. Estrutura Social e Formas de Consciência – a determinação social do<br>método. São Paulo: Boitempo, 2009.<br>SOUSA, Ana Luiza Lima. A história da extensão universitária a partir de seus<br>interlocutores. UFG 1995 (Dissertação de mestrado).||
 
-
-
-97 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-## **3.9.2 Componentes Curriculares Optativos** 
+## **3.9.2 Componentes Curriculares Optativos**
 
 |**Câmpus Ivaiporã do IFPR**|**Câmpus Ivaiporã do IFPR**|
 |---|---|
@@ -2312,37 +1830,27 @@ A análise e reflexão sobre o ambiente escolar relativa à sala de aula de Fís
 |<br>**Bibliografia Básica:**<br>BERGMANN, J.**_Sala de Aula Invertida_**_. Uma metodologia Ativa de Aprendizagem._<br>Editora LTC, São Paulo. 2016.<br>MOREIRA, M. A.; VEIT, E. A.**Ensino Superior – Bases teóricas e Metodológicas**. EPU.<br>2010.<br>SILVA, A. P. B.; GUERRA, A. (org).**História da Ciência e Ensino:**Fontes primárias e<br>propostas para sala de aula. Livraria da Física. 2015.<br>WALKER, Jearl. O circo voador da física. Rio de Janeiro: LTC, 2008.<br>SANTOS, Carlos Alberto dos (Org.). Energia e matéria: da fundamentação conceitual ás<br>aplicações tecnológicas. São Paulo: Editora Livraria da Física, 2015.||
 |**Bibliografia Complementar:**<br>EINSTEIN, Albert; EINSTEIN, Albert; INFELD, Leopold. A evolução da física. Rio de<br>Janeiro: Jorge Zahar, 2008.<br>PIRES, Antonio S. T. Evolução das idéias da física. 2. ed. São Paulo: Livraria da Física,<br>2011.<br>GLEISER, Marcelo. O fim da terra e do céu: o apocalipse na ciência e na religião. São<br>Paulo: Companhia de Bolso, 2011.<br>GASPARIN, João Luiz. Uma didática para a pedagogia histórico-crítica. 5. ed. rev.<br>Campinas: Autores Associados, 2012.<br>MOITA, Filomena. Game on: jogos eletrônicos na escola e na vida da geração @.<br>Campinas: Alínea, 2007.||
 
+**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Seminários II **Carga Horária: 33h Período letivo:** A partir do 1º período **Ementa:**
 
+Pesquisas atuais em Física. Habilidades de organização e estratégias para comunicar e defender a produção elaborada em Física e no Ensino de Física, envolvendo repercussões e relevância de seus resultados em diferentes níveis. **Bibliografia Básica:**
 
-98 
+MINITZES, J.J.; WANDERSEE, J.H.; NOVAK, J.D. Ensinando Ciência para Compreensão. Lisboa: Editora Platano, 2010. POZO, Juan I.; CRESPO, Miguel A.G. A Aprendizagem e o Ensino de Ciências. 5. ed. Porto Alegre: Artmed, 2009.
 
-**==> picture [486 x 54] intentionally omitted <==**
+OLIVEIRA, Ivan S. Física moderna: para iniciados, interessados e aficionados. V. único. São Paulo: Livraria da Física, 2010.
 
-**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Seminários II **Carga Horária: 33h Período letivo:** A partir do 1º período **Ementa:** 
+VILLATORRE, A. M.; HIGA, I.; TYCHANOWICZ, S. D. Didática e Avaliação em Física. Curitiba: IBPEX; 2008.
 
-Pesquisas atuais em Física. Habilidades de organização e estratégias para comunicar e defender a produção elaborada em Física e no Ensino de Física, envolvendo repercussões e relevância de seus resultados em diferentes níveis. **Bibliografia Básica:** 
+VASCONCELLOS, Celso dos S. (In)disciplina: construção da disciplina consciente e interativa em sala de aula e na escola. 18.ed. São Paulo: Libertad, 2009
 
-MINITZES, J.J.; WANDERSEE, J.H.; NOVAK, J.D. Ensinando Ciência para Compreensão. Lisboa: Editora Platano, 2010. POZO, Juan I.; CRESPO, Miguel A.G. A Aprendizagem e o Ensino de Ciências. 5. ed. Porto Alegre: Artmed, 2009. 
+## **Bibliografia Complementar:**
 
-OLIVEIRA, Ivan S. Física moderna: para iniciados, interessados e aficionados. V. único. São Paulo: Livraria da Física, 2010. 
+EINSTEIN, Albert; EINSTEIN, Albert; INFELD, Leopold. A evoluçao da física. Rio de Janeiro: Jorge Zahar, 2008.
 
-VILLATORRE, A. M.; HIGA, I.; TYCHANOWICZ, S. D. Didática e Avaliação em Física. Curitiba: IBPEX; 2008. 
+BORGES, José Flávio Marcelino. Física do cotidiano. 2.ed. São Paulo (SP): Editora Livraria da Física, 2015. 236 p.
 
-VASCONCELLOS, Celso dos S. (In)disciplina: construção da disciplina consciente e interativa em sala de aula e na escola. 18.ed. São Paulo: Libertad, 2009 
+GLEISER, Marcelo. O fim da terra e do céu: o apocalipse na ciência e na religião. São Paulo: Companhia de Bolso, 2011.
 
-## **Bibliografia Complementar:** 
-
-EINSTEIN, Albert; EINSTEIN, Albert; INFELD, Leopold. A evoluçao da física. Rio de Janeiro: Jorge Zahar, 2008. 
-
-BORGES, José Flávio Marcelino. Física do cotidiano. 2.ed. São Paulo (SP): Editora Livraria da Física, 2015. 236 p. 
-
-GLEISER, Marcelo. O fim da terra e do céu: o apocalipse na ciência e na religião. São Paulo: Companhia de Bolso, 2011. 
-
-GASPARIN, João Luiz. Uma didática para a pedagogia histórico-crítica. 5. ed. rev. Campinas: Autores Associados, 2012. MOITA, Filomena. Game on: jogos eletrônicos na escola e na vida da geração @. Campinas: Alínea, 2007. 
-
-99 
-
-**==> picture [486 x 54] intentionally omitted <==**
+GASPARIN, João Luiz. Uma didática para a pedagogia histórico-crítica. 5. ed. rev. Campinas: Autores Associados, 2012. MOITA, Filomena. Game on: jogos eletrônicos na escola e na vida da geração @. Campinas: Alínea, 2007.
 
 |**Campus Ivaiporã do IFPR**|**Campus Ivaiporã do IFPR**|
 |---|---|
@@ -2353,11 +1861,14 @@ GASPARIN, João Luiz. Uma didática para a pedagogia histórico-crítica. 5. ed.
 |**Bibliografia** **Básica**:<br>AZAR, Betty Schrampfer.**Understanding and Using English Grammar.**3rd Ed. Upper<br>Sadle River, NJ: Prentice Hall Regents, 1998.<br>FÜRSTENAU, E.**Novo Dicionário de Termos Técnicos Inglês-Português**(2 volumes).<br>Editora Globo, Rio de Janeiro, 1988.<br>MUNHOZ, Rosangela.**Inglês Instrumental. Módulos I e II.**São Paulo: Texto novo, 2002.<br>OLIVEIRA, Sara.**Estratégias de Leitura para Inglês Instrumental.**Brasília: Ed. UnB., 1998.<br>TORRES, N.**Gramática prática da língua inglesa.**São Paulo: Saraiva, 2007||
 |**Bibliografia** **Complementar**:<br>EVARISTO, S.**Inglês instrumental: estratégias de leitura.**Teresina: Halley S.A. Gráfica<br>e Editora, sd.<br>HOUAISS, Antônio.**Webster's Dicionário Inglês-Português**. Record, Rio de Janeiro,<br>1982.<br>GAMA, A.N.M. et al. .**Introdução à Leitura em inglês.**2ed. rev. Rio de Janeiro: Ed. Gama<br>Filho, 2001.<br>MURPHY, Raymond.**English Grammar in Use**. Cambridge University Press, Cambridge,<br>1992.<br>SOUSA,Adriana et al.**Leitura em Língua Inglesa**. São Paulo: Disal,2005.||
 
-
-
-100 
-
-**==> picture [486 x 54] intentionally omitted <==**
+|**Campus Ivaiporã do IFPR**|**Campus Ivaiporã do IFPR**|
+|---|---|
+|**Curso:**Licenciatura em Física|**Eixo Tecnológico**: Ciências Exatas e da Terra|
+|**Componente Curricular:**Leitura instrumental em Língua Espanhola||
+|**Carga Horária(hora aula): **33h|**Período letivo:**Apartir do 1ºperíodo|
+|**Ementa:**<br>Aspectos e temas gramaticais de suporte para a leitura e compreensão de textos em língua<br>espanhola: artigos, contrações, verbos no presente do indicativo, irregularidades verbais,<br>perífrases, pronomes, formas de tratamento, fonética, ortografia e acentuação, gênero dos<br>substantivos, regras gerais de plural. Vocabulário específico do eixo de Ciências Exatas e da<br>Terra. Desenvolver a compreensão lexical de textos acadêmicos. Termos falsos cognatos.<br>Gêneros acadêmicos: artigos científicos, resumo de artigo e pesquisa. Intertextualidade de<br>textos acadêmicos. Textos argumentativos, coesão e coerência.||
+|**Bibliografia Básica:**<br>_Livro:_<br>ANTÓN, Marta.**Métodos de Evaluación de ELE: cuadernos de didáctica del español**<br>**/LE.**Arco Libros: Madrid, 2013.<br>MILANI, Esther Maria.**Gramática de espanhol para brasileiros**. São Paulo: Saraiva,<br>1999.<br>RODRÍGUEZ, María Luisa R; RIVERA, Daniel M. Sáez.**El Español Académico: guia**<br>**práctica para elaboración de textos académicos**. Arco Libros: Madrid, 2013.<br>SÁNCHEZ, Josefa Gómez de Enterría**. La comunicación escrita en la empresa.**Arco<br>Libros: Madrid, 2003.<br>SILVA, Cecilia Fonseca da.**Español através de textos**. Rio de Janeiro: Ao livro técnico,<br>2004.||
+|**Bibliografia Complementar:**<br>FLAVIÁN,<br>Eugenia<br>y<br>ERES<br>FERNÁNDEZ,<br>Gretel.<br>**Minidicionário**<br>**Espanhol-Português/Português-Espanhol**. São Paulo: Ática, 1994.<br>GONZÁLEZ HERMOSO, A (et alli).**Gramática de español lengua extranjera**. Madrid:<br>Edelsa, 1996.<br>Diccionario Mini Collins.**Espanhol-Português/Português-Espanhol**. São Paulo: Siciliano,<br>1998.<br>SEÑAS.**Diccionario para la ensenãnza de la Lengua Espanhola para Brasileños**. São<br>Paulo: wmfmartinsfontes, 2013.<br>OSMAN, Soraia; ELIAS, Neide; REIS, Priscila; IZQUIERDO, Sônia; VALVERDE, Jenny.<br>**Enlaces: español pra jóvenes brasileños.**Vol I. Cotia: MACMILLAN, 2013.<br>OSMAN, Soraia; ELIAS, Neide; REIS, Priscila; IZQUIERDO, Sônia; VALVERDE, Jenny.<br>**Enlaces: español pra jóvenes brasileños.**Vol II. Cotia: MACMILLAN, 2013||
 
 |**Campus Ivaiporã do IFPR**|**Campus Ivaiporã do IFPR**|
 |---|---|
@@ -2368,28 +1879,7 @@ GASPARIN, João Luiz. Uma didática para a pedagogia histórico-crítica. 5. ed.
 |**Bibliografia Básica:**<br>_Livro:_<br>ANTÓN, Marta.**Métodos de Evaluación de ELE: cuadernos de didáctica del español**<br>**/LE.**Arco Libros: Madrid, 2013.<br>MILANI, Esther Maria.**Gramática de espanhol para brasileiros**. São Paulo: Saraiva,<br>1999.<br>RODRÍGUEZ, María Luisa R; RIVERA, Daniel M. Sáez.**El Español Académico: guia**<br>**práctica para elaboración de textos académicos**. Arco Libros: Madrid, 2013.<br>SÁNCHEZ, Josefa Gómez de Enterría**. La comunicación escrita en la empresa.**Arco<br>Libros: Madrid, 2003.<br>SILVA, Cecilia Fonseca da.**Español através de textos**. Rio de Janeiro: Ao livro técnico,<br>2004.||
 |**Bibliografia Complementar:**<br>FLAVIÁN,<br>Eugenia<br>y<br>ERES<br>FERNÁNDEZ,<br>Gretel.<br>**Minidicionário**<br>**Espanhol-Português/Português-Espanhol**. São Paulo: Ática, 1994.<br>GONZÁLEZ HERMOSO, A (et alli).**Gramática de español lengua extranjera**. Madrid:<br>Edelsa, 1996.<br>Diccionario Mini Collins.**Espanhol-Português/Português-Espanhol**. São Paulo: Siciliano,<br>1998.<br>SEÑAS.**Diccionario para la ensenãnza de la Lengua Espanhola para Brasileños**. São<br>Paulo: wmfmartinsfontes, 2013.<br>OSMAN, Soraia; ELIAS, Neide; REIS, Priscila; IZQUIERDO, Sônia; VALVERDE, Jenny.<br>**Enlaces: español pra jóvenes brasileños.**Vol I. Cotia: MACMILLAN, 2013.<br>OSMAN, Soraia; ELIAS, Neide; REIS, Priscila; IZQUIERDO, Sônia; VALVERDE, Jenny.<br>**Enlaces: español pra jóvenes brasileños.**Vol II. Cotia: MACMILLAN, 2013||
 
-
-
-|**Campus Ivaiporã do IFPR**|**Campus Ivaiporã do IFPR**|
-|---|---|
-|**Curso:**Licenciatura em Física|**Eixo Tecnológico**: Ciências Exatas e da Terra|
-|**Componente Curricular:**Leitura instrumental em Língua Espanhola||
-|**Carga Horária(hora aula): **33h|**Período letivo:**Apartir do 1ºperíodo|
-|**Ementa:**<br>Aspectos e temas gramaticais de suporte para a leitura e compreensão de textos em língua<br>espanhola: artigos, contrações, verbos no presente do indicativo, irregularidades verbais,<br>perífrases, pronomes, formas de tratamento, fonética, ortografia e acentuação, gênero dos<br>substantivos, regras gerais de plural. Vocabulário específico do eixo de Ciências Exatas e da<br>Terra. Desenvolver a compreensão lexical de textos acadêmicos. Termos falsos cognatos.<br>Gêneros acadêmicos: artigos científicos, resumo de artigo e pesquisa. Intertextualidade de<br>textos acadêmicos. Textos argumentativos, coesão e coerência.||
-|**Bibliografia Básica:**<br>_Livro:_<br>ANTÓN, Marta.**Métodos de Evaluación de ELE: cuadernos de didáctica del español**<br>**/LE.**Arco Libros: Madrid, 2013.<br>MILANI, Esther Maria.**Gramática de espanhol para brasileiros**. São Paulo: Saraiva,<br>1999.<br>RODRÍGUEZ, María Luisa R; RIVERA, Daniel M. Sáez.**El Español Académico: guia**<br>**práctica para elaboración de textos académicos**. Arco Libros: Madrid, 2013.<br>SÁNCHEZ, Josefa Gómez de Enterría**. La comunicación escrita en la empresa.**Arco<br>Libros: Madrid, 2003.<br>SILVA, Cecilia Fonseca da.**Español através de textos**. Rio de Janeiro: Ao livro técnico,<br>2004.||
-|**Bibliografia Complementar:**<br>FLAVIÁN,<br>Eugenia<br>y<br>ERES<br>FERNÁNDEZ,<br>Gretel.<br>**Minidicionário**<br>**Espanhol-Português/Português-Espanhol**. São Paulo: Ática, 1994.<br>GONZÁLEZ HERMOSO, A (et alli).**Gramática de español lengua extranjera**. Madrid:<br>Edelsa, 1996.<br>Diccionario Mini Collins.**Espanhol-Português/Português-Espanhol**. São Paulo: Siciliano,<br>1998.<br>SEÑAS.**Diccionario para la ensenãnza de la Lengua Espanhola para Brasileños**. São<br>Paulo: wmfmartinsfontes, 2013.<br>OSMAN, Soraia; ELIAS, Neide; REIS, Priscila; IZQUIERDO, Sônia; VALVERDE, Jenny.<br>**Enlaces: español pra jóvenes brasileños.**Vol I. Cotia: MACMILLAN, 2013.<br>OSMAN, Soraia; ELIAS, Neide; REIS, Priscila; IZQUIERDO, Sônia; VALVERDE, Jenny.<br>**Enlaces: español pra jóvenes brasileños.**Vol II. Cotia: MACMILLAN, 2013||
-
-
-
-101 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Elementos de Astronomia e Astrofísica **Carga Horária:** 33h **Período letivo:** A partir do 1º período **Ementa:** Escalas do Universo. Constelações. Coordenadas astronômicas. Estrelas e evolução estelar. Galáxias e cosmologia. Sistema solar e planetas. Observações astronômicas. Atividades formais, não-formais e informais no ensino de Astronomia. **Bibliografia Básica** HORVATH, J. E. O abcd da astronomia e astrofísica. São Paulo: Livraria da Física, 2008. LONGHINI, M. D. (org.). Ensino de Astronomia na Escola. Rio de Janeiro. ATOMO. 2014. OLIVEIRA FILHO, Kepler de Souza; SARAIVA, Maria de Fátima Oliveira. Astronomia e astrofísica. 2. ed. São Paulo: Livraria da Física, 2004. LONGHINI, Marcos Daniel (Coord). Educação em astronomia: experiências e contribuições para a prática pedagógica. Campinas: Editora Átomo, 2010. FARIA, Romildo Povoa. Iniciação à astronomia. São Paulo: Ática, 2007. **Bibliografia Complementar:** FARIA, Romildo Povoa (Org.) Fundamentos da astronomia. 10. ed. Campinas: Papirus, 2009. HENBEST, N.; COUPER, H. A História da Astronomia. Rio de Janeiro. Larousse Brasil. 2009. MORAIS, A. M. A. Gravitação e Cosmologia: uma introdução. Livraria da Física. 2009. CONTADOR, P. R. M. Kepler: o legislador dos céus. Livraria da Física. 2012. MARAN, S. P. Astronomia para leigos. 2ª ed. São Paulo. Alta Books. 2011. 
-
-102 
-
-**==> picture [486 x 54] intentionally omitted <==**
+**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Elementos de Astronomia e Astrofísica **Carga Horária:** 33h **Período letivo:** A partir do 1º período **Ementa:** Escalas do Universo. Constelações. Coordenadas astronômicas. Estrelas e evolução estelar. Galáxias e cosmologia. Sistema solar e planetas. Observações astronômicas. Atividades formais, não-formais e informais no ensino de Astronomia. **Bibliografia Básica** HORVATH, J. E. O abcd da astronomia e astrofísica. São Paulo: Livraria da Física, 2008. LONGHINI, M. D. (org.). Ensino de Astronomia na Escola. Rio de Janeiro. ATOMO. 2014. OLIVEIRA FILHO, Kepler de Souza; SARAIVA, Maria de Fátima Oliveira. Astronomia e astrofísica. 2. ed. São Paulo: Livraria da Física, 2004. LONGHINI, Marcos Daniel (Coord). Educação em astronomia: experiências e contribuições para a prática pedagógica. Campinas: Editora Átomo, 2010. FARIA, Romildo Povoa. Iniciação à astronomia. São Paulo: Ática, 2007. **Bibliografia Complementar:** FARIA, Romildo Povoa (Org.) Fundamentos da astronomia. 10. ed. Campinas: Papirus, 2009. HENBEST, N.; COUPER, H. A História da Astronomia. Rio de Janeiro. Larousse Brasil. 2009. MORAIS, A. M. A. Gravitação e Cosmologia: uma introdução. Livraria da Física. 2009. CONTADOR, P. R. M. Kepler: o legislador dos céus. Livraria da Física. 2012. MARAN, S. P. Astronomia para leigos. 2ª ed. São Paulo. Alta Books. 2011.
 
 |**Câmpus Ivaiporã do IFPR**|**Câmpus Ivaiporã do IFPR**|
 |---|---|
@@ -2400,19 +1890,9 @@ GASPARIN, João Luiz. Uma didática para a pedagogia histórico-crítica. 5. ed.
 |**Bibliografia Básica**<br>BACHELARD, Gaston. A Formação do Espírito Científico: contribuições para uma<br>psicanálise do conhecimento. Rio de Janeiro: Contraponto, 1996.<br>CARVALHO, maria Cecilia M. de. Construindo o Saber: Metodologia Científica,<br>Fundamentos e Técnicas. São Paulo: Papirus, 2010.<br>DEMO, Pedro. Metodologia Científica em Ciências Sociais. São Paulo: Atlas, 2014.<br>GUIRALDELLI, Paulo Jr. O que é Filosofia Contemporânea. São Paulo: Brasiliense, 2012.<br>LUKÁCS, Giorgi. Para uma ontologia do ser social I. São Paulo: Bointempo, 2012.||
 |**Bibliografia Complementar:**<br>BARROS, A. J. S., LEHFELD, N. A. S.**Fundamentos de Metodologia Científica**. 3. ed.<br>São Paulo: Pearson, 2008.<br>LAKATOS, E. M., MARCONI, M. A.**Fundamentos de Metodologia Científica**. 7. ed. São<br>Paulo: Atlas, 2010.<br>SEVERINO, A. J.**Metodologia do Trabalho Científico**. 23. ed. São Paulo: Cortez, 2007.<br>LAKATOS, Eva Maria; Marconi, Marina de Andrade.**Metodologia Científica**. São Paulo, Atlas,<br>2011.<br>MAGALHÃES, Gildo.**Introdução à Metodologia da Pesquisa – Caminhos da Ciência e**<br>**Tecnologia.**São Paulo: Ática, 2005.||
 
+**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Elementos de Física Ambiental **Carga Horária:** 33h **Período letivo:** A partir do 1º período **Ementa:** Radiação solar. Conceitos fundamentais da teoria dos fenômenos de transporte. Fluxo (massas de ar, calor, chuva), estudo das variáveis meteorológicas. Fundamentos do aproveitamento da energia (Solar, Calor, Eólica ) para geração de energia elétrica.
 
-
-103 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Elementos de Física Ambiental **Carga Horária:** 33h **Período letivo:** A partir do 1º período **Ementa:** Radiação solar. Conceitos fundamentais da teoria dos fenômenos de transporte. Fluxo (massas de ar, calor, chuva), estudo das variáveis meteorológicas. Fundamentos do aproveitamento da energia (Solar, Calor, Eólica ) para geração de energia elétrica. 
-
-**Bibliografia Básica:** HINRICHS, R.A., KLEINBACH, M., DOS REIS, L. B., _Energia e Meio Ambiente._ 4 ed. Editora Cengage Learning, São Paulo, 2011. FERREIRA, A.G. _Meteorologia Prática._ Editora Oficina de Textos, São Paulo. 2006 GRIBBIN, J.E., _Introdução a Hidráulica, Hidrologia e Gestão de águas pluviais._ Tradução da 3ª ed. Americana. Editora Cengage Learning, São Paulo, 2009. MENDONÇA, F., DANNIO-OLIVEIRA, I.M. _Climatologia: Noções básicas e climas do Brasil._ Editora Oficina de Textos, São Paulo. 2007. VESILIND, P.A.; MORGAN, S. M., _Introdução à Engenharia Ambiental,_ Editora Cengage Learnin, 2014. **Bibliografia Complementar:** VECCHIA, R. _O meio ambiente e as Energias Renováveis: Instrumentos de liderança visionária para a sociedade sustentável._ Editora Manole. São Paulo, 2010. VILLALVA, M.G., GAZOLI, J.R. _Energia Solar Fotovoltaica: Conceitos e Aplicações._ Editora Érica. São Paulo, 2014. CARVALHO, P.; NETO, M.R.B. _Geração de Energia: Fundamentos._ Editora Érica. São Paulo, 2012. HESPANHOL, I.; BRAGA, B. _Introdução à engenharia ambiental._ 2 ed. Editora Pearson. São Paulo, 2005. TORRES, F. T. P; MACHADO. P. J. _Introdução à Climatologia._ Editora Cengage Learning. São Paulo, 2011. 
-
-104 
-
-**==> picture [486 x 54] intentionally omitted <==**
+**Bibliografia Básica:** HINRICHS, R.A., KLEINBACH, M., DOS REIS, L. B., _Energia e Meio Ambiente._ 4 ed. Editora Cengage Learning, São Paulo, 2011. FERREIRA, A.G. _Meteorologia Prática._ Editora Oficina de Textos, São Paulo. 2006 GRIBBIN, J.E., _Introdução a Hidráulica, Hidrologia e Gestão de águas pluviais._ Tradução da 3ª ed. Americana. Editora Cengage Learning, São Paulo, 2009. MENDONÇA, F., DANNIO-OLIVEIRA, I.M. _Climatologia: Noções básicas e climas do Brasil._ Editora Oficina de Textos, São Paulo. 2007. VESILIND, P.A.; MORGAN, S. M., _Introdução à Engenharia Ambiental,_ Editora Cengage Learnin, 2014. **Bibliografia Complementar:** VECCHIA, R. _O meio ambiente e as Energias Renováveis: Instrumentos de liderança visionária para a sociedade sustentável._ Editora Manole. São Paulo, 2010. VILLALVA, M.G., GAZOLI, J.R. _Energia Solar Fotovoltaica: Conceitos e Aplicações._ Editora Érica. São Paulo, 2014. CARVALHO, P.; NETO, M.R.B. _Geração de Energia: Fundamentos._ Editora Érica. São Paulo, 2012. HESPANHOL, I.; BRAGA, B. _Introdução à engenharia ambiental._ 2 ed. Editora Pearson. São Paulo, 2005. TORRES, F. T. P; MACHADO. P. J. _Introdução à Climatologia._ Editora Cengage Learning. São Paulo, 2011.
 
 |**Campus Ivaiporã do IFPR**|**Campus Ivaiporã do IFPR**|
 |---|---|
@@ -2423,12 +1903,6 @@ GASPARIN, João Luiz. Uma didática para a pedagogia histórico-crítica. 5. ed.
 |**Bibliografia** **Básica**:<br>GRIFFIN , Terry, The art of lego® mindStormS® nxt-g Programming 1 Ed. 2010, No Starch<br>Press, Inc.<br>MIZRAHI, Treinamento em Linguagem C, Pearson 2. Ed., São Paulo – SP  2008.<br>MCROBERTS, Micheal, Arduino Básico. Novatec 1. Ed., São Paulo – SP  2011.<br>BACKES, Linguagem C Completa e Descomplicada, Elsevier, Rio de Janeiro – RJ 2012.<br>Banzi, Massimo; Primeiros Passos com o Arduino, O REILLY, 2007.||
 |**Bibliografia** **Complementar**:<br>ZIVIANI, Nivio, Projeto de Algoritmos- com implementação em Pascal e C. Cengage<br>Learning<br>3. Ed., São Paulo – SP 2011.<br>EBERSPACHER; FORBELLONE, Lógica de Programação, Pearson 3. Ed, Rio de Janeiro –<br>RJ<br>2005.<br>GUIMARÃES, Algoritmos e Estruturas de Dados, LTC - Livros Técnicos e Científicos, Rio<br>de<br>Janeiro – RJ 1994.<br>MANZANO; OLIVEIRA, Algoritmos, Érica 15. Ed., São Paulo – SP 2014.<br>GERSTING, Fundamentos da Matemática para a Ciência da Computação, LTC - Livros<br>Técnicos e Científicos 5. Ed., Rio de Janeiro–RJ 2008.||
 
-
-
-105 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
 |**Câmpus Ivaiporã do IFPR**|**Câmpus Ivaiporã do IFPR**|
 |---|---|
 |**Curso:**Licenciatura em Física|<br>**Área do Conhecimento:**Ciências Exatas e da Terra|
@@ -2438,17 +1912,7 @@ GASPARIN, João Luiz. Uma didática para a pedagogia histórico-crítica. 5. ed.
 |**Bibliografia Básica:**<br>BRAZ JÚNIOR, Dulcidio.**Física moderna:**tópicos para o ensino médio. Campinas, SP:<br>Companhia da Escola, 2002. 118 p.<br>CARVALHO Jr. G. D.**Aulas de Física do planejamento à avaliação**. Rio de Janeiro.<br>Livraria da Física. 2011.<br>PIETROCOLA, Maurício (org.).**Ensino de Física:**Conteúdo, Metodologia e Epistemologia<br>em uma Concepção Integrada. 2. ed. Florianópolis: Editora da UFSC, 2005.<br>MAGALHÃES, Carlos Henrique Ferreira. Obstáculos da pedagogia histórico-crítica no<br>cotidiano da escola/ Carlos Henrique Ferreira Magalhães, prefácio João dos Reis Silva Júnior.<br>Maringá: EDUEM, 2012.<br>FREIRE, Paulo. Pedagogia da autonomia: saberes necessários a prática educativa. 50.ed.<br>Rio de Janeiro: Paz e Terra, 2015.||
 |**Bibliografia Complementar:**<br>FREIRE, Paulo. Pedagogia do oprimido. 50. ed. Rio de Janeiro: Paz e Terra, 2011.<br>BRANDÃO, Carlos Rodrigues. O que é educação popular. São Paulo: Brasiliense, 2006.<br>BUARQUE, Cristóvam. O que é educacionismo. São Paulo: Brasiliense, 2008.<br>MORIN, Edgar. Os sete saberes necessários à educação do futuro. 2. ed. rev. São Paulo:<br>Cortez, 2011.<br>GHIRALDELLI JÚNIOR, Paulo. O que é pedagogia. 4. ed. rev. atual. São Paulo:<br>Brasiliense, 2007.||
 
-
-
-106 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Seminários IV **Carga Horária: 33h Período letivo:** A partir do 4º período **Ementa:** Pesquisas atuais em Física e Ensino de Física. Impactos da Física e Ensino de Física na Educação Básica e Superior. **Bibliografia Básica:** MOREIRA, M. A.; VEIT, E. A. Ensino Superior – Bases teóricas e Metodológicas. EPU. 2010. NARDI, R. Pesquisas em Ensino de Física. Escrituras. 2004. SILVA, A. P. B.; GUERRA, A. (org). História da Ciência e Ensino: Fontes primárias e propostas para sala de aula. Livraria da Física. 2015. PIETROCOLA, Maurício (org.). Ensino de Física: Conteúdo, Metodologia e Epistemologia em uma Concepção Integrada. 2. ed. Florianópolis: Editora da UFSC, 2005. MAGALHÃES, Carlos Henrique Ferreira. Obstáculos da pedagogia histórico-crítica no cotidiano da escola/ Carlos Henrique Ferreira Magalhães, prefácio João dos Reis Silva Júnior. Maringá: EDUEM, 2012. **Bibliografia Complementar:** FREIRE, Paulo. Pedagogia do oprimido. 50. ed. Rio de Janeiro: Paz e Terra, 2011. BRANDÃO, Carlos Rodrigues. O que é educação popular. São Paulo: Brasiliense, 2006. BUARQUE, Cristóvam. O que é educacionismo. São Paulo: Brasiliense, 2008. MORIN, Edgar. Os sete saberes necessários à educação do futuro. 2. ed. rev. São Paulo: Cortez, 2011. GHIRALDELLI JÚNIOR, Paulo. O que é pedagogia. 4. ed. rev. atual. São Paulo: Brasiliense, 2007. 
-
-107 
-
-**==> picture [486 x 54] intentionally omitted <==**
+**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Seminários IV **Carga Horária: 33h Período letivo:** A partir do 4º período **Ementa:** Pesquisas atuais em Física e Ensino de Física. Impactos da Física e Ensino de Física na Educação Básica e Superior. **Bibliografia Básica:** MOREIRA, M. A.; VEIT, E. A. Ensino Superior – Bases teóricas e Metodológicas. EPU. 2010. NARDI, R. Pesquisas em Ensino de Física. Escrituras. 2004. SILVA, A. P. B.; GUERRA, A. (org). História da Ciência e Ensino: Fontes primárias e propostas para sala de aula. Livraria da Física. 2015. PIETROCOLA, Maurício (org.). Ensino de Física: Conteúdo, Metodologia e Epistemologia em uma Concepção Integrada. 2. ed. Florianópolis: Editora da UFSC, 2005. MAGALHÃES, Carlos Henrique Ferreira. Obstáculos da pedagogia histórico-crítica no cotidiano da escola/ Carlos Henrique Ferreira Magalhães, prefácio João dos Reis Silva Júnior. Maringá: EDUEM, 2012. **Bibliografia Complementar:** FREIRE, Paulo. Pedagogia do oprimido. 50. ed. Rio de Janeiro: Paz e Terra, 2011. BRANDÃO, Carlos Rodrigues. O que é educação popular. São Paulo: Brasiliense, 2006. BUARQUE, Cristóvam. O que é educacionismo. São Paulo: Brasiliense, 2008. MORIN, Edgar. Os sete saberes necessários à educação do futuro. 2. ed. rev. São Paulo: Cortez, 2011. GHIRALDELLI JÚNIOR, Paulo. O que é pedagogia. 4. ed. rev. atual. São Paulo: Brasiliense, 2007.
 
 |**Campus Ivaiporã do IFPR**|**Campus Ivaiporã do IFPR**|
 |---|---|
@@ -2459,243 +1923,191 @@ GASPARIN, João Luiz. Uma didática para a pedagogia histórico-crítica. 5. ed.
 |**Bibliografia** **Básica**:<br>FORBELLONE, A. L.; EBERPACHER, H. F.. Lógica de programação:: A Construção de<br>algoritmos e estrutura de dados. 3. ed. São Paulo: Pearson., 2002. 197 p.<br>PUGA, Sandra; RISSETTI, Gerson. Lógica de programação e estrutura de dados com<br>aplicações em Java. 2. ed. São Paulo: Pearson Prentice Hall, 2009. 263 p.<br>ASCENCIO, Ana Fernanda Gomes. Fundamentos da programação de computadores:<br>algoritmos, PASCAL, C/C++ (padrão ANSI) e Java. 3. ed. São Paulo: Pearson Education do<br>Brasil, 2012. 569 p.<br>SALVETTI, Dirceu Douglas; BARBOSA, Lisbete Madsen. Algoritimos. 1ª São Paulo:<br>Makron Books Ltda, 2000. 272 p.<br>MANZANO, José Augusto N. G.; OLIVEIRA, Jayr Figueiredo de. Algoritmos: Lógica para<br>Desenvolvimento deProgramação de Computadores. 15°SãoPaulo: ÉricaLtda.,2010.||
 |**Bibliografia** **Complementar**:<br>BACKES, André. Linguagem C completa e descomplicada. 4. ed. Rio de Janeiro: Elsevier<br>Editora Ltda., 2013. 371 p.<br>GUIMARÃES, Ângelo de Moura; LAGES, Newton Alberto de Castilho. Algoritmos e<br>estruturas de dados. Rio de Janeiro: L.t.c., 2011.<br>PILONE, Dan; MILES, Russ. Use a Cabeça: Desenvolvimento de Software. Rio de Janeiro:<br>Alta Books, 2008.<br>CAPRON, Harriet L.; JOHNSON, J. A.. Introdução a Informática. 8. ed. São Paulo: Person<br>Prentice Hall, 2004.<br>WIRTH,Niklaus. Algoritmos e Estruturas de Dados. Rio de Janeiro: LTC,1989.||
 
+**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Cálculo Numérico **Carga Horária:** 67h **Período letivo:** A partir do 4 º período
 
+## **Ementa:**
 
-108 
+Conceitos básicos da teoria dos erros; soluções de equações lineares e não-lineares; métodos de resolução de: sistemas de equações, derivação e integração numérica, equações diferenciais, interpolação polinomial e ajustes de curvas.
 
-**==> picture [486 x 54] intentionally omitted <==**
+**Bibliografia Básica:** FRANCO, N. M. B.. **Cálculo Numérico** . São Paulo: Pearson Prentice Hall, 2006. SPERANDIO, D.; TEIXEIRA, J.M.; MONKEN E SILVA, L. H.. **Cálculo Numérico: Características Matemáticas e computacionais dos métodos numéricos** . São Paulo: Pearson Prentice Hall, 2003. BURIAN, R.; DE LIMA, A. C.; HETEM JR. A.. **Cálculo Numérico** . Rio de Janeiro: LTC, 2013. RUGGIERO, M. A. G. & LOPES, V. L. R. **Cálculo numérico: aspectos teóricos e computacionais** . 2.ed. São Paulo, Makron, 1997.
 
-**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Cálculo Numérico **Carga Horária:** 67h **Período letivo:** A partir do 4 º período 
+BARROSO, L. C., BARROSO, M. A., CAMPOS, F. F., CARVALHO, M. L. B. & MAIA, M. L. **Cálculo Numérico (Com Aplicações)** , 2.ed. São Paulo, Editora Harbra, 1987.
 
-## **Ementa:** 
+## **Bibliografia Complementar:**
 
-Conceitos básicos da teoria dos erros; soluções de equações lineares e não-lineares; métodos de resolução de: sistemas de equações, derivação e integração numérica, equações diferenciais, interpolação polinomial e ajustes de curvas. 
+MUNEM, M.; FOULIS, D. J. **Cálculo I** . Rio de Janeiro: LTC, 2013.
 
-**Bibliografia Básica:** FRANCO, N. M. B.. **Cálculo Numérico** . São Paulo: Pearson Prentice Hall, 2006. SPERANDIO, D.; TEIXEIRA, J.M.; MONKEN E SILVA, L. H.. **Cálculo Numérico: Características Matemáticas e computacionais dos métodos numéricos** . São Paulo: Pearson Prentice Hall, 2003. BURIAN, R.; DE LIMA, A. C.; HETEM JR. A.. **Cálculo Numérico** . Rio de Janeiro: LTC, 2013. RUGGIERO, M. A. G. & LOPES, V. L. R. **Cálculo numérico: aspectos teóricos e computacionais** . 2.ed. São Paulo, Makron, 1997. 
+GILAT, A.. **Matlab com aplicações em engenharia** . 4ªed.- Porto Alegre: Bookman, 2012. LEITHOLD, L. **Cálculo com Geometria Analítica** . v. 2. 3. ed. São Paulo: Harbra, 1994. CAMPOS Filho, Frederico Ferreira. **Algoritmos Numéricos** . 2ª ed. Rio de Janeiro: LTC, 2014.
 
-BARROSO, L. C., BARROSO, M. A., CAMPOS, F. F., CARVALHO, M. L. B. & MAIA, M. L. **Cálculo Numérico (Com Aplicações)** , 2.ed. São Paulo, Editora Harbra, 1987. 
+LEITHOLD, L. **Cálculo com Geometria Analítica** . v. 1. 3. ed. São Paulo: Harbra, 1994.
 
-## **Bibliografia Complementar:** 
+**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Equações Diferenciais Ordinárias **Carga Horária:** 67h **Período letivo:** A partir do 4º período
 
-MUNEM, M.; FOULIS, D. J. **Cálculo I** . Rio de Janeiro: LTC, 2013. 
+**Ementa:**
 
-GILAT, A.. **Matlab com aplicações em engenharia** . 4ªed.- Porto Alegre: Bookman, 2012. LEITHOLD, L. **Cálculo com Geometria Analítica** . v. 2. 3. ed. São Paulo: Harbra, 1994. CAMPOS Filho, Frederico Ferreira. **Algoritmos Numéricos** . 2ª ed. Rio de Janeiro: LTC, 2014. 
+Equações diferenciais ordinárias de primeira ordem, segunda ordem e ordem superior; sistemas de equações diferenciais ordinárias; resolução de equações diferenciais em séries de potências.
 
-LEITHOLD, L. **Cálculo com Geometria Analítica** . v. 1. 3. ed. São Paulo: Harbra, 1994. 
+## **Bibliografia Básica:**
 
-109 
+BOYCE, W. E.; DIPRIMA, R. C. **Equação Diferenciais Elementares e Problemas de Valores de**
 
-**==> picture [486 x 54] intentionally omitted <==**
+**Contorno** . 9. ed. Rio de Janeiro: LTC, 2010.
 
-**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Equações Diferenciais Ordinárias **Carga Horária:** 67h **Período letivo:** A partir do 4º período 
+ZILL, D. G.; CULLEN, M. R. **Matemática Avançada para Engenharia** . v. 1. 3. ed. Porto
 
-**Ementa:** 
+Alegre:
 
-Equações diferenciais ordinárias de primeira ordem, segunda ordem e ordem superior; sistemas de equações diferenciais ordinárias; resolução de equações diferenciais em séries de potências. 
+Bookman, 2009.
 
-## **Bibliografia Básica:** 
+NAGLE, R. Kent; SAFF, E.B; SNIDER, Arthur David. **Equações Diferenciais** . 8. ed. São Paulo: Pearson Education do Brasil, 2012. FIGUEIREDO, G. Djairo. NEVES, A.F. **Equações Diferenciais Aplicadas** .SBM, Rio de Janeiro,2a Edição,2005
 
-BOYCE, W. E.; DIPRIMA, R. C. **Equação Diferenciais Elementares e Problemas de Valores de** 
+SANTOS, R. J. **Introdução às Equações Diferenciais Ordinárias** . Imprensa Universitária da UFMG,Belo Horizonte, 2011.
 
-**Contorno** . 9. ed. Rio de Janeiro: LTC, 2010. 
+## **Bibliografia Complementar:**
 
-ZILL, D. G.; CULLEN, M. R. **Matemática Avançada para Engenharia** . v. 1. 3. ed. Porto 
+MACHADO, Kleber Daum. **Equações Diferenciais Aplicadas** . v.1. Ponta Grossa: Toda Palavra, 2012.
 
-Alegre: 
+GUIDORIZZI, H. L. **Um Curso de Cálculo.** v. 4. 5. ed. Rio de Janeiro: LTC, 2001.
 
-Bookman, 2009. 
+SIMMONS, G. F.; KRANTZ, S. G. **Equações Diferenciais: Teoria, Técnica e Prática** . São Paulo:
 
-NAGLE, R. Kent; SAFF, E.B; SNIDER, Arthur David. **Equações Diferenciais** . 8. ed. São Paulo: Pearson Education do Brasil, 2012. FIGUEIREDO, G. Djairo. NEVES, A.F. **Equações Diferenciais Aplicadas** .SBM, Rio de Janeiro,2a Edição,2005 
+McGraw-Hill, 2008.
 
-SANTOS, R. J. **Introdução às Equações Diferenciais Ordinárias** . Imprensa Universitária da UFMG,Belo Horizonte, 2011. 
+WEIR, M. D.; HASS, J.; GIORDANO, F. R. **Cálculo** (George B. Thomas). v. 2. 11. ed. São Paulo: Pearson, 2009.
 
-## **Bibliografia Complementar:** 
+FLEMMING, D., GONÇALVES, M. **Cálculo B: Funções de Várias Variáveis, Integrais Múltiplas, Integrais Curvilíneas e de Superfície** . 2. ed. São Paulo: Pearson, 2007.
 
-MACHADO, Kleber Daum. **Equações Diferenciais Aplicadas** . v.1. Ponta Grossa: Toda Palavra, 2012. 
+**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Cálculo Vetorial **Carga Horária:** 67h **Período letivo:** A partir do 4º período **Ementa:**
 
-GUIDORIZZI, H. L. **Um Curso de Cálculo.** v. 4. 5. ed. Rio de Janeiro: LTC, 2001. 
+Álgebra vetorial; parametrização de curvas espaciais; funções vetoriais e campos vetoriais; Derivadas e integrais de funções vetoriais; Integrais de linha; Teorema de Green, Superfícies paramétricas e suas áreas; gradiente, divergente e rotacional; integrais de superfície; o teorema de Stokes e Teorema da divergência de Gauss.
 
-SIMMONS, G. F.; KRANTZ, S. G. **Equações Diferenciais: Teoria, Técnica e Prática** . São Paulo: 
+ZILL, D.G. Matemática Avançada para Engenharia 2. 3ª ed. Porto Alegre: Bookman, 2009. ROGAWSKI, J. **Cálculo** . V.2 Porto Alegre: Bookman, 2009.
 
-McGraw-Hill, 2008. 
+STEWART, James. **Cálculo** . Vol. II. Tradução: Antônio Carlos Moreti. Cengage Learning. São Paulo, 2009.
 
-WEIR, M. D.; HASS, J.; GIORDANO, F. R. **Cálculo** (George B. Thomas). v. 2. 11. ed. São Paulo: Pearson, 2009. 
+LEITHOLD, L. **Cálculo com Geometria Analítica** . v. 2. 3. ed. São Paulo: Harbra, 1994. SWOKOWSKI, Earl Willian; FARIAS, Alfredo Alves de (Trad.). **Cálculo Com Geometria Analítica** . 2.ed São Paulo: Makron, 1995
 
-FLEMMING, D., GONÇALVES, M. **Cálculo B: Funções de Várias Variáveis, Integrais Múltiplas, Integrais Curvilíneas e de Superfície** . 2. ed. São Paulo: Pearson, 2007. 
+## **Bibliografia Complementar:**
 
-110 
+ANTON, H.; BIVENS, I.; DAVIS, S. Cálculo. v. 2. 8. ed. Porto Alegre: Bookman, 2007. SPIEGEL, M. **Análise vetorial** . São Paulo: McGraw-Hill, 1972. ARAÚJO, P.V. **Geometria Diferencial** . 3. ed. Rio de Janeiro: IMPA, 2007.
 
-**==> picture [486 x 54] intentionally omitted <==**
+FEITOSA, M.O. **Cálculo Vetorial e Geometria Analítica – Exercícios propostos e resolvidos** . 4.ed. São Paulo: Atlas, 1976. ANTON, H. **Cálculo: Um Novo Horizonte** , vol. 2. 8 ed. Porto Alegre: Bookman, 2007.
 
-**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Cálculo Vetorial **Carga Horária:** 67h **Período letivo:** A partir do 4º período **Ementa:** 
+## **Campus Ivaiporã do IFPR**
 
-Álgebra vetorial; parametrização de curvas espaciais; funções vetoriais e campos vetoriais; Derivadas e integrais de funções vetoriais; Integrais de linha; Teorema de Green, Superfícies paramétricas e suas áreas; gradiente, divergente e rotacional; integrais de superfície; o teorema de Stokes e Teorema da divergência de Gauss. 
+**Curso** : Licenciatura em **Área do Conhecimento** : Ciências Exatas e da Terra Física **Componente Curricular** : Mecânica Newtoniana **Carga Horária** : 33h **Período Letivo** : À partir do 4º período
 
-ZILL, D.G. Matemática Avançada para Engenharia 2. 3ª ed. Porto Alegre: Bookman, 2009. ROGAWSKI, J. **Cálculo** . V.2 Porto Alegre: Bookman, 2009. 
+## **Ementa** :
 
-STEWART, James. **Cálculo** . Vol. II. Tradução: Antônio Carlos Moreti. Cengage Learning. São Paulo, 2009. 
+Conceitos fundamentais da Mecânica Newtoniana. Movimento de uma partícula em uma dimensão. Movimento de uma partícula em duas e três dimensões. Forças centrais. Movimento de um sistema de partículas e leis de conservação. Corpos rígidos, rotação com eixo fixo. Gravitação.
 
-LEITHOLD, L. **Cálculo com Geometria Analítica** . v. 2. 3. ed. São Paulo: Harbra, 1994. SWOKOWSKI, Earl Willian; FARIAS, Alfredo Alves de (Trad.). **Cálculo Com Geometria Analítica** . 2.ed São Paulo: Makron, 1995 
+## **Bibliografia Básica:**
 
-## **Bibliografia Complementar:** 
+THORNTON, S. T.; MARION, J. B. Dinâmica clássica de partículas e sistemas. São Paulo: Cengage Learning, 2011
 
-ANTON, H.; BIVENS, I.; DAVIS, S. Cálculo. v. 2. 8. ed. Porto Alegre: Bookman, 2007. SPIEGEL, M. **Análise vetorial** . São Paulo: McGraw-Hill, 1972. ARAÚJO, P.V. **Geometria Diferencial** . 3. ed. Rio de Janeiro: IMPA, 2007. 
+BARCELOS NETO, J.;TAVOLARO, C. R. C. TAVOLARO. Mecânicas Newtoniana, Langrangiana e Hamiltoniana. São Paulo: Livraria da Física, 2004
 
-FEITOSA, M.O. **Cálculo Vetorial e Geometria Analítica – Exercícios propostos e resolvidos** . 4.ed. São Paulo: Atlas, 1976. ANTON, H. **Cálculo: Um Novo Horizonte** , vol. 2. 8 ed. Porto Alegre: Bookman, 2007. 
+LOPES, A. O.Introdução à mecânica clássica. São Paulo: Edusp, 2006 LEMOS, N. A. Mecânica analítica. São Paulo: Livraria da Física, 2007 TAYLOR, J. R., Mecânica Clássica, Bookman, 2005
 
-111 
+## **Bibliografia Complementar** :
 
-**==> picture [486 x 54] intentionally omitted <==**
+NEWTON, I. Principia: princípios matemáticos de filosofia natural : livro 1. São Paulo: Edusp, 2008 Stephen T. Torton and J. B. Marion, Classical Dynamics of Particles and Systems, Thomson & Brooks/Colen; New York (2004)
 
-## **Campus Ivaiporã do IFPR** 
+J. B. Marion e S. T. Thornton. Classical Dynamics of Particles and Systems.4ª edição (Books Cole, Nova Iorque, 2003) K. R. Symon. Mecânica (Ed. Campus, Rio de Janeiro, 1986)
 
-**Curso** : Licenciatura em **Área do Conhecimento** : Ciências Exatas e da Terra Física **Componente Curricular** : Mecânica Newtoniana **Carga Horária** : 33h **Período Letivo** : À partir do 4º período 
+G. R. Fowles e G. L. Cassidy. Analytical Mechanics (Saunders College Publishing, Nova Iorque, 1999)
 
-## **Ementa** : 
+**Campus Ivaiporã do IFPR Curso** : Licenciatura em Física **Área do Conhecimento** : Ciências Exatas e da Terra **Componente Curricular** : Mecânica Lagrangiana e Hamiltoniana **Carga Horária** : 67h **Período Letivo** : À partir do 4º período
 
-Conceitos fundamentais da Mecânica Newtoniana. Movimento de uma partícula em uma dimensão. Movimento de uma partícula em duas e três dimensões. Forças centrais. Movimento de um sistema de partículas e leis de conservação. Corpos rígidos, rotação com eixo fixo. Gravitação. 
+## **Ementa** :
 
-## **Bibliografia Básica:** 
+Mecânica da Partícula e de um sistema de partículas. Formulação Lagrangeana e aplicações. Princípio variacional e as Equações de Lagrange. Teoremas de conservação e propriedades de simetrias. Cinemática e dinâmica de corpos rígidos. Oscilações. Oscilações amortecidas e forçadas. Formulação Hamiltoniana. Transformações de Legendre. O Princípio da Ação Mínima. Aplicações da Formulação Hamiltoniana.
 
-THORNTON, S. T.; MARION, J. B. Dinâmica clássica de partículas e sistemas. São Paulo: Cengage Learning, 2011 
+## **Bibliografia Básica:**
 
-BARCELOS NETO, J.;TAVOLARO, C. R. C. TAVOLARO. Mecânicas Newtoniana, Langrangiana e Hamiltoniana. São Paulo: Livraria da Física, 2004 
+THORNTON, S. T.; MARION, J. B. Dinâmica clássica de partículas e sistemas. São Paulo: Cengage Learning, 2011 BARCELOS NETO, J.;TAVOLARO, C. R. C. TAVOLARO. Mecânicas Newtoniana, Langrangiana e Hamiltoniana. São Paulo: Livraria da Física, 2004 LEMOS, N. A. Mecânica analítica. São Paulo: Livraria da Física, 2007 TAYLOR, J. R., Mecânica Clássica, Bookman, 2005 Landau, L.D. and Lifshitsz, E. M.; Mecanica; Editora Campus Ltda. , (1982)
 
-LOPES, A. O.Introdução à mecânica clássica. São Paulo: Edusp, 2006 LEMOS, N. A. Mecânica analítica. São Paulo: Livraria da Física, 2007 TAYLOR, J. R., Mecânica Clássica, Bookman, 2005 
+## **Bibliografia Complementar** :
 
-## **Bibliografia Complementar** : 
+NEWTON, I. Principia: princípios matemáticos de filosofia natural : livro 1. São Paulo: Edusp, 2008 Stephen T. Torton and J. B. Marion, Classical Dynamics of Particles and Systems, Thomson & Brooks/Colen; New York (2004)
 
-NEWTON, I. Principia: princípios matemáticos de filosofia natural : livro 1. São Paulo: Edusp, 2008 Stephen T. Torton and J. B. Marion, Classical Dynamics of Particles and Systems, Thomson & Brooks/Colen; New York (2004) 
+J. B. Marion e S. T. Thornton. Classical Dynamics of Particles and Systems.4ª edição (Books Cole, Nova Iorque, 2003) K. R. Symon. Mecânica (Ed. Campus, Rio de Janeiro, 1986)
 
-J. B. Marion e S. T. Thornton. Classical Dynamics of Particles and Systems.4ª edição (Books Cole, Nova Iorque, 2003) K. R. Symon. Mecânica (Ed. Campus, Rio de Janeiro, 1986) 
+Alain Brizard. An Introduction to Lagrangian Mechanics. World Scientific, 2008 LOPES, A. O.Introdução à mecânica clássica. São Paulo: Edusp, 2006
 
-G. R. Fowles e G. L. Cassidy. Analytical Mechanics (Saunders College Publishing, Nova Iorque, 1999) 
+**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Metodologias Ativas no Ensino de Física **Carga Horária:** 33h **Período letivo:** A partir do 1º período **Ementa:** Aprendizagem baseada em projetos. Aprendizagem baseada em problemas (PBL). Ensino sob medida (Just in time teaching). Instrução pelos colegas (Peer Instruction). Sala de aula invertida (Flipped Classroom). Estudo de casos no ensino de Física.
 
-112 
+**Bibliografia Básica:** BERGMANN, J. _Sala de Aula Invertida. Uma metodologia Ativa de Aprendizagem._ Editora LTC, São Paulo. 2016. MAZUR, E. _Peer Instruction: A Revolução da Aprendizagem Ativa._ Editora Penso, Porto Alegre. 2015. SÁ, L. P.; QUEIROZ, S.L. _Estudo de Casos no Ensino de Química._ Editora Átomo, Campinas. 2010. POZO, Juan I.; CRESPO, Miguel A.G. A Aprendizagem e o Ensino de Ciências. 5. ed. Porto Alegre: Artmed, 2009 FERDINIAN, B (org). Ser protagonista Física 3. SM. 2ed. 2014 **Bibliografia Complementar:** RIBEIRO, L.R.C. _Aprendizagem Baseada em problemas (PBL): uma experiência no ensino superior._ Editora Scielo-EdUFSCAR, Sâo Carlos. 2008. MARTINS, A.K.A; MALPARTIDA, H.M.G. (ORG). _Metodologias Ativas de Aprendizagem no Ensino Superior: Relatos e Reflexões._ Editora Intermeios, Sâo Paulo. 2015. MAIER, M.;SIMKINS, S. _Just in Time Teaching,_ Editora Stylus Pub LLC. 2009. BENDER, W.N. _Aprendizagem Baseada em Projetos :Educação Diferenciada para o Século XXI._ Editora Penso, Porto Alegre. 2014 BUCK INSTITUTE FOR EDUCATION (ORG). _Aprendizagem baseada em projetos: Guia para professores do ensino fundamental e médio. 2.ed._ Editora Artmed , Porto Alegre. 2008.
 
-**==> picture [486 x 54] intentionally omitted <==**
+## **Campus Ivaiporã do IFPR**
 
-**==> picture [456 x 15] intentionally omitted <==**
+**Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** História da Educação II **Carga Horária:** 33h **Período letivo:**
 
-**Campus Ivaiporã do IFPR Curso** : Licenciatura em Física **Área do Conhecimento** : Ciências Exatas e da Terra **Componente Curricular** : Mecânica Lagrangiana e Hamiltoniana **Carga Horária** : 67h **Período Letivo** : À partir do 4º período 
+## **Ementa:**
 
-## **Ementa** : 
+_História da educação brasileira e inter-relações com o contexto mundial, no período compreendido entre os séculos XVI e XX. E_ volução histórica da educação básica e superior no Brasil nas suas dimensões social e pedagógica.
 
-Mecânica da Partícula e de um sistema de partículas. Formulação Lagrangeana e aplicações. Princípio variacional e as Equações de Lagrange. Teoremas de conservação e propriedades de simetrias. Cinemática e dinâmica de corpos rígidos. Oscilações. Oscilações amortecidas e forçadas. Formulação Hamiltoniana. Transformações de Legendre. O Princípio da Ação Mínima. Aplicações da Formulação Hamiltoniana. 
+## Bibliografia Básica:
 
-## **Bibliografia Básica:** 
+ARANHA, M. L. A. **História da Educação e da Pedagogia** . Editora Moderna, 2006.
 
-THORNTON, S. T.; MARION, J. B. Dinâmica clássica de partículas e sistemas. São Paulo: Cengage Learning, 2011 BARCELOS NETO, J.;TAVOLARO, C. R. C. TAVOLARO. Mecânicas Newtoniana, Langrangiana e Hamiltoniana. São Paulo: Livraria da Física, 2004 LEMOS, N. A. Mecânica analítica. São Paulo: Livraria da Física, 2007 TAYLOR, J. R., Mecânica Clássica, Bookman, 2005 Landau, L.D. and Lifshitsz, E. M.; Mecanica; Editora Campus Ltda. , (1982) 
+LOPES, Eliane Teixeira; FILHO, Luciano M. Faria; VEIGA, Cynthia G. (Orgs.). **500 anos de Educação no Brasil** . 2 ed. Belo Horizonte: Autêntica. 2000.
 
-## **Bibliografia Complementar** : 
+MANACORDA, M. A. **História da Educação** : da Antiguidade aos nossos Dias. 13. ed. São Paulo: Cortez, 2010.
 
-NEWTON, I. Principia: princípios matemáticos de filosofia natural : livro 1. São Paulo: Edusp, 2008 Stephen T. Torton and J. B. Marion, Classical Dynamics of Particles and Systems, Thomson & Brooks/Colen; New York (2004) 
+STEPHANOU, Maria; BASTOS, Maria Helena. **Histórias e Memórias da educação no Brasil** . Vol. II. Petrópolis, RJ: Vozes, 2005.
 
-J. B. Marion e S. T. Thornton. Classical Dynamics of Particles and Systems.4ª edição (Books Cole, Nova Iorque, 2003) K. R. Symon. Mecânica (Ed. Campus, Rio de Janeiro, 1986) 
+STEPHANOU, Maria; BASTOS, Maria Helena. **Histórias e Memórias da educação no Brasil** . Vol. III. Petrópolis, RJ: Vozes, 2005.
 
-Alain Brizard. An Introduction to Lagrangian Mechanics. World Scientific, 2008 LOPES, A. O.Introdução à mecânica clássica. São Paulo: Edusp, 2006 
+Bibliografia Complementar:
 
-113 
+CAMBI, F. **História da Pedagogia** . São Paulo: UNESP, 2001.
 
-**==> picture [486 x 54] intentionally omitted <==**
+SAVIANI, Dermeval. **Educação** . Do senso comum à consciência filosófica. 19 ed. Campunas, SP: autores Associados, 2013.
 
-**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Metodologias Ativas no Ensino de Física **Carga Horária:** 33h **Período letivo:** A partir do 1º período **Ementa:** Aprendizagem baseada em projetos. Aprendizagem baseada em problemas (PBL). Ensino sob medida (Just in time teaching). Instrução pelos colegas (Peer Instruction). Sala de aula invertida (Flipped Classroom). Estudo de casos no ensino de Física. 
+SAVIANI, Dermeval. **Política e Educação no Brasil** . O papel do congresso Nacional na Legislação do ensino. 7 ed. São Paulo: Cortez/Autores Associados, 2015.
 
-**Bibliografia Básica:** BERGMANN, J. _Sala de Aula Invertida. Uma metodologia Ativa de Aprendizagem._ Editora LTC, São Paulo. 2016. MAZUR, E. _Peer Instruction: A Revolução da Aprendizagem Ativa._ Editora Penso, Porto Alegre. 2015. SÁ, L. P.; QUEIROZ, S.L. _Estudo de Casos no Ensino de Química._ Editora Átomo, Campinas. 2010. POZO, Juan I.; CRESPO, Miguel A.G. A Aprendizagem e o Ensino de Ciências. 5. ed. Porto Alegre: Artmed, 2009 FERDINIAN, B (org). Ser protagonista Física 3. SM. 2ed. 2014 **Bibliografia Complementar:** RIBEIRO, L.R.C. _Aprendizagem Baseada em problemas (PBL): uma experiência no ensino superior._ Editora Scielo-EdUFSCAR, Sâo Carlos. 2008. MARTINS, A.K.A; MALPARTIDA, H.M.G. (ORG). _Metodologias Ativas de Aprendizagem no Ensino Superior: Relatos e Reflexões._ Editora Intermeios, Sâo Paulo. 2015. MAIER, M.;SIMKINS, S. _Just in Time Teaching,_ Editora Stylus Pub LLC. 2009. BENDER, W.N. _Aprendizagem Baseada em Projetos :Educação Diferenciada para o Século XXI._ Editora Penso, Porto Alegre. 2014 BUCK INSTITUTE FOR EDUCATION (ORG). _Aprendizagem baseada em projetos: Guia para professores do ensino fundamental e médio. 2.ed._ Editora Artmed , Porto Alegre. 2008. 
+STEPHANOU, Maria; BASTOS, Maria Helena. **Histórias e Memórias da educação no Brasil** . Vol. I. Petrópolis, RJ: Vozes, 2005.
 
-114 
+XAVIER, Libânia Nacif (2002). A reconstrução educacional no Brasil: Manifesto dos
 
-**==> picture [486 x 54] intentionally omitted <==**
+Pioneiros da Educação Nova (1932) – Apêndice. **Para Além do Campo Educacional** : Um estudo sobre o Manifesto dos Pioneiros da Educação Nova (1932). Bragança Paulista/SP: Edusf.
 
-## **Campus Ivaiporã do IFPR** 
+## **Campus Ivaiporã do IFPR**
 
-**Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** História da Educação II **Carga Horária:** 33h **Período letivo:** 
+**Curso** : Licenciatura em Física **Área do Conhecimento** : Ciências Exatas e da Terra **Componente Curricular** : Filosofia da educação II **Carga Horária** : 33h **Período Letivo** : A partir do 4º período
 
-## **Ementa:** 
+**Ementa** : Enquanto a filosofia da educação clássica se preocupa em ser prescritiva, informando as bases que a educação deve seguir e suas formas essenciais, já o presente curso (focado nos pensadores contemporâneos) revisita as instituições educacionais tais como elas se apresentam para repensá-las. Trabalharemos conceitos como normatização/normalização, assujeitamento, autonomia e disciplina.
 
-_História da educação brasileira e inter-relações com o contexto mundial, no período compreendido entre os séculos XVI e XX. E_ volução histórica da educação básica e superior no Brasil nas suas dimensões social e pedagógica. 
+## **Bibliografia Básica** :
 
-## Bibliografia Básica: 
+ARANHA, Maria Lucia de Arruda. _Filosofia da Educação_ . Editora Moderna, Maringá, 2006. GUYAU, Jean-Marie. _Educação e hereditariedade_ . Editora Martins Fontes, São Paulo, 2015.
 
-ARANHA, M. L. A. **História da Educação e da Pedagogia** . Editora Moderna, 2006. 
+NIETZSCHE, Friedrich. _Escritos sobre educação_ . Editora Loyola, São Paulo, 2012. STIRNER, Max. _Falso princípio de nossa educação_ . Editora Imaginário, São Paulo 2001. TREVISAN, A. & ROSSATTO, N. _Filosofia e educação_ . Editora Mercado das Letras, Campinas, 2013.
 
-LOPES, Eliane Teixeira; FILHO, Luciano M. Faria; VEIGA, Cynthia G. (Orgs.). **500 anos de Educação no Brasil** . 2 ed. Belo Horizonte: Autêntica. 2000. 
+## **Bibliografia Complementar** :
 
-MANACORDA, M. A. **História da Educação** : da Antiguidade aos nossos Dias. 13. ed. São Paulo: Cortez, 2010. 
+AZEREDO, Vania Dutra. _Nietzsche, Filosofia e Educação_ . Editora UNIJUI, Ijuí, 2008. FAVERI, José Ernesto. _Filosofia da Educação_ . Editora Vozes, Rio de Janeiro, 2006. FOUCAULT, Michel. _Os Anormais_ . Editora Martins Fontes, São Paulo, 2010. GHIRALDELLI, Paulo. _Filosofia da educação e ensino_ . Editora UNIJUI, Ijuí, 2000. LYOTARD, J.-F. _A condição pós-moderna_ . Editora José Olympio, Rio de Janeiro, 2002.
 
-STEPHANOU, Maria; BASTOS, Maria Helena. **Histórias e Memórias da educação no Brasil** . Vol. II. Petrópolis, RJ: Vozes, 2005. 
+**Campus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Sociologia da Educação II **Carga Horária:** 33h **Período letivo:** Terceiro Período **Ementa:** A análise clássica da Sociologia da Educação: Émile Durkheim, Karl Marx e Max Weber. O funcionalismo estrutural: Talcott Parsons e a educação. A sociologia histórica: Norbert Elias e a configuração. O estruturalismo de Pierre Bourdieu: a educação como reprodução. A sociologia da educação francesa: Bernard Charlot e Bernard Lahire. Educação, Escola e Currículo. **Bibliografia Básica:** BOURDIEU, Pierre; PASSERON, Jean-Claude. **A reprodução – elementos para uma teoria do sistema de ensino** . Rio de Janeiro: Editora Vozes, 2011. CHARLOT, Bernard. **Da relação com o saber às práticas educativas** . São Paulo: Editora Cortez, 2013. ELIAS, Norbert. **A sociedade dos indivíduos** . Rio de Janeiro: Zahar, 1994. QUINTANEIRO, Tania; BARBOSA, Maria Ligia de Oliveira; OLIVEIRA, Márcia Gardênia Monteiro de. **Um toque de clássicos: Marx, Durkheim e Weber** . 2 ed. Belo Horizonte, MG: Editora UFMG, 2003. OLIVEIRA, Márcia Gardênia Monteiro Oliveira. **Labirintos simétricos – Introdução à teoria sociológica de Talcott Parsons** . Belo Horizonte: Editora UFMG, 2002. REGO, Teresa Cristina (org). Currículo e Política Educacional. Rio de Janeiro: Editora Vozes, 2011. **Bibliografia Complementar:** BOURDIEU, Pierre. **Os usos sociais da ciência: por uma sociologia clínica do campo científico** . São Paulo: UNESP, 2004. GIDDENS, Anthony; TURNER, Jonathan. **Teoria social hoje** . Tradução: Gilson César Cardoso de Sousa. São Paulo: UNESP, 1999. LÉVI-STRAUSS, Claude. **O pensamento selvagem** . Campinas: Papirus, 2012. SELL, Carlos Eduardo. **Sociologia clássica: Marx, Durkheim e Weber** . Petrópolis: Vozes, 2015. RODRIGUES, A. T. **Sociologia da Educação** . 6 ed. Rio de Janeiro: Lamparina, 2007.
 
-STEPHANOU, Maria; BASTOS, Maria Helena. **Histórias e Memórias da educação no Brasil** . Vol. III. Petrópolis, RJ: Vozes, 2005. 
+**Campus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Psicologia da Educação II **Carga Horária:** 33h **Período letivo: Ementa:**
 
-Bibliografia Complementar: 
+A Teoria Histórico-Cultural de Vygotsky. Teorias Psicológicas da Aprendizagem e do desenvolvimento humano. Desenvolvimento e Aprendizagem em Piaget e Vygotski. A concepção de desenvolvimento infantil de Henri Wallon. A Teoria da Aprendizagem Significativa de Ausubel. Problemáticas educacionais e cotidiano da/na escola em contextos de ensinar e aprender. Motivação e aprendizagem.
 
-CAMBI, F. **História da Pedagogia** . São Paulo: UNESP, 2001. 
+Bibliografia Básica: BECKER, Fernando. **Educação e Construção do Conhecimento.** Porto Alegre: Artmed Editora, 2001. BORUCHOVITH, E & BZUNECK, J. A. (Orgs.). **A motivação do aluno** : contribuições da psicologia contemporânea. Petrópolis RJ: Vozes, 2009. COLL, C.; MARCHESI, A.; PALACIOS, J. **Desenvolvimento psicológico e educação, vol. 3** . Porto Alegre: Artmed, 2004. PIAGET, Jean. **Seis estudos de psicologia** . Tradução: Maria Alice Magalhães D’Amorim e Paulo Sérgio Lima Silva. 25 ed. Rio de Janeiro: Forense Universitária, 2014.
 
-SAVIANI, Dermeval. **Educação** . Do senso comum à consciência filosófica. 19 ed. Campunas, SP: autores Associados, 2013. 
+VIGOTSKI, L. S. **A formação social da mente** : o desenvolvimento dos processos psicológicos superiores. Tradução: José Cipolla Neto, Luis Silveira Menna Barreto, Solange Castro Afeche. 7 ed. São Paulo: Martins Fontes, 2007.
 
-SAVIANI, Dermeval. **Política e Educação no Brasil** . O papel do congresso Nacional na Legislação do ensino. 7 ed. São Paulo: Cortez/Autores Associados, 2015. 
+Bibliografia Complementar: COLL, C.; MARCHESI, A.; PALACIOS, J. **Desenvolvimento psicológico e educação, vol. 1** . Porto Alegre: Artmed, 2004. COLL, C.; MARCHESI, A.; PALACIOS, J. **Desenvolvimento psicológico e educação, vol. 2** . Porto Alegre: Artmed, 2004. MOREIRA, Márcio Borges; MEDEIROS, Carlos Augusto de. **Princípios básicos de análise do comportamento** . Porto Alegre: Artmed, 2007. MERLEAU-PONTY, Maurice. **Fenomenologia da percepção** . Tradução: Carlos Alberto Ribeiro de Moura. 4 ed. São Paulo: Editora WMF Martins Fontes, 2011. TELES, Maria Luiza Teles. **O que é Psicologia** . São Paulo: Brasileira, 2006.
 
-STEPHANOU, Maria; BASTOS, Maria Helena. **Histórias e Memórias da educação no Brasil** . Vol. I. Petrópolis, RJ: Vozes, 2005. 
+**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Instrumentação para o Ensino de Mecânica e Termodinâmica **Carga Horária:** 67h **Período letivo:** A partir do 1º período **Ementa:**
 
-XAVIER, Libânia Nacif (2002). A reconstrução educacional no Brasil: Manifesto dos 
+O papel do experimento no ensino de Física. Elaboração e construção de experimentos e kits para o ensino de Mecânica e Termodinâmica.  Experiências com materiais alternativos e de baixo custo em Mecânica e Termodinâmica. Uso de videoanálise para prática de experimentos em Mecânica e Termodinâmica. Planejamento e avaliação de equipamentos e experimentos para o ensino de Mecânica e Termodinâmica. Simulações e simuladores no ensino de Mecânica e Termodinâmica.
 
-Pioneiros da Educação Nova (1932) – Apêndice. **Para Além do Campo Educacional** : Um estudo sobre o Manifesto dos Pioneiros da Educação Nova (1932). Bragança Paulista/SP: Edusf. 
+**Bibliografia Básica:** GASPAR, A. _Experiencias de Ciencias ._ 2.ed. Editora Ática, São Paulo. 2014 DE JESUS, V.L.B. _Experimentos e Videoanálise – Dinâmica,_ Editora Livraria da Física, São Paulo. 2014.
 
-115 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-## **Campus Ivaiporã do IFPR** 
-
-**Curso** : Licenciatura em Física **Área do Conhecimento** : Ciências Exatas e da Terra **Componente Curricular** : Filosofia da educação II **Carga Horária** : 33h **Período Letivo** : A partir do 4º período 
-
-**Ementa** : Enquanto a filosofia da educação clássica se preocupa em ser prescritiva, informando as bases que a educação deve seguir e suas formas essenciais, já o presente curso (focado nos pensadores contemporâneos) revisita as instituições educacionais tais como elas se apresentam para repensá-las. Trabalharemos conceitos como normatização/normalização, assujeitamento, autonomia e disciplina. 
-
-## **Bibliografia Básica** : 
-
-ARANHA, Maria Lucia de Arruda. _Filosofia da Educação_ . Editora Moderna, Maringá, 2006. GUYAU, Jean-Marie. _Educação e hereditariedade_ . Editora Martins Fontes, São Paulo, 2015. 
-
-NIETZSCHE, Friedrich. _Escritos sobre educação_ . Editora Loyola, São Paulo, 2012. STIRNER, Max. _Falso princípio de nossa educação_ . Editora Imaginário, São Paulo 2001. TREVISAN, A. & ROSSATTO, N. _Filosofia e educação_ . Editora Mercado das Letras, Campinas, 2013. 
-
-## **Bibliografia Complementar** : 
-
-AZEREDO, Vania Dutra. _Nietzsche, Filosofia e Educação_ . Editora UNIJUI, Ijuí, 2008. FAVERI, José Ernesto. _Filosofia da Educação_ . Editora Vozes, Rio de Janeiro, 2006. FOUCAULT, Michel. _Os Anormais_ . Editora Martins Fontes, São Paulo, 2010. GHIRALDELLI, Paulo. _Filosofia da educação e ensino_ . Editora UNIJUI, Ijuí, 2000. LYOTARD, J.-F. _A condição pós-moderna_ . Editora José Olympio, Rio de Janeiro, 2002. 
-
-116 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-**Campus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Sociologia da Educação II **Carga Horária:** 33h **Período letivo:** Terceiro Período **Ementa:** A análise clássica da Sociologia da Educação: Émile Durkheim, Karl Marx e Max Weber. O funcionalismo estrutural: Talcott Parsons e a educação. A sociologia histórica: Norbert Elias e a configuração. O estruturalismo de Pierre Bourdieu: a educação como reprodução. A sociologia da educação francesa: Bernard Charlot e Bernard Lahire. Educação, Escola e Currículo. **Bibliografia Básica:** BOURDIEU, Pierre; PASSERON, Jean-Claude. **A reprodução – elementos para uma teoria do sistema de ensino** . Rio de Janeiro: Editora Vozes, 2011. CHARLOT, Bernard. **Da relação com o saber às práticas educativas** . São Paulo: Editora Cortez, 2013. ELIAS, Norbert. **A sociedade dos indivíduos** . Rio de Janeiro: Zahar, 1994. QUINTANEIRO, Tania; BARBOSA, Maria Ligia de Oliveira; OLIVEIRA, Márcia Gardênia Monteiro de. **Um toque de clássicos: Marx, Durkheim e Weber** . 2 ed. Belo Horizonte, MG: Editora UFMG, 2003. OLIVEIRA, Márcia Gardênia Monteiro Oliveira. **Labirintos simétricos – Introdução à teoria sociológica de Talcott Parsons** . Belo Horizonte: Editora UFMG, 2002. REGO, Teresa Cristina (org). Currículo e Política Educacional. Rio de Janeiro: Editora Vozes, 2011. **Bibliografia Complementar:** BOURDIEU, Pierre. **Os usos sociais da ciência: por uma sociologia clínica do campo científico** . São Paulo: UNESP, 2004. GIDDENS, Anthony; TURNER, Jonathan. **Teoria social hoje** . Tradução: Gilson César Cardoso de Sousa. São Paulo: UNESP, 1999. LÉVI-STRAUSS, Claude. **O pensamento selvagem** . Campinas: Papirus, 2012. SELL, Carlos Eduardo. **Sociologia clássica: Marx, Durkheim e Weber** . Petrópolis: Vozes, 2015. RODRIGUES, A. T. **Sociologia da Educação** . 6 ed. Rio de Janeiro: Lamparina, 2007. 
-
-117 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-**Campus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Psicologia da Educação II **Carga Horária:** 33h **Período letivo: Ementa:** 
-
-A Teoria Histórico-Cultural de Vygotsky. Teorias Psicológicas da Aprendizagem e do desenvolvimento humano. Desenvolvimento e Aprendizagem em Piaget e Vygotski. A concepção de desenvolvimento infantil de Henri Wallon. A Teoria da Aprendizagem Significativa de Ausubel. Problemáticas educacionais e cotidiano da/na escola em contextos de ensinar e aprender. Motivação e aprendizagem. 
-
-Bibliografia Básica: BECKER, Fernando. **Educação e Construção do Conhecimento.** Porto Alegre: Artmed Editora, 2001. BORUCHOVITH, E & BZUNECK, J. A. (Orgs.). **A motivação do aluno** : contribuições da psicologia contemporânea. Petrópolis RJ: Vozes, 2009. COLL, C.; MARCHESI, A.; PALACIOS, J. **Desenvolvimento psicológico e educação, vol. 3** . Porto Alegre: Artmed, 2004. PIAGET, Jean. **Seis estudos de psicologia** . Tradução: Maria Alice Magalhães D’Amorim e Paulo Sérgio Lima Silva. 25 ed. Rio de Janeiro: Forense Universitária, 2014. 
-
-VIGOTSKI, L. S. **A formação social da mente** : o desenvolvimento dos processos psicológicos superiores. Tradução: José Cipolla Neto, Luis Silveira Menna Barreto, Solange Castro Afeche. 7 ed. São Paulo: Martins Fontes, 2007. 
-
-Bibliografia Complementar: COLL, C.; MARCHESI, A.; PALACIOS, J. **Desenvolvimento psicológico e educação, vol. 1** . Porto Alegre: Artmed, 2004. COLL, C.; MARCHESI, A.; PALACIOS, J. **Desenvolvimento psicológico e educação, vol. 2** . Porto Alegre: Artmed, 2004. MOREIRA, Márcio Borges; MEDEIROS, Carlos Augusto de. **Princípios básicos de análise do comportamento** . Porto Alegre: Artmed, 2007. MERLEAU-PONTY, Maurice. **Fenomenologia da percepção** . Tradução: Carlos Alberto Ribeiro de Moura. 4 ed. São Paulo: Editora WMF Martins Fontes, 2011. TELES, Maria Luiza Teles. **O que é Psicologia** . São Paulo: Brasileira, 2006. 
-
-118 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Instrumentação para o Ensino de Mecânica e Termodinâmica **Carga Horária:** 67h **Período letivo:** A partir do 1º período **Ementa:** 
-
-O papel do experimento no ensino de Física. Elaboração e construção de experimentos e kits para o ensino de Mecânica e Termodinâmica.  Experiências com materiais alternativos e de baixo custo em Mecânica e Termodinâmica. Uso de videoanálise para prática de experimentos em Mecânica e Termodinâmica. Planejamento e avaliação de equipamentos e experimentos para o ensino de Mecânica e Termodinâmica. Simulações e simuladores no ensino de Mecânica e Termodinâmica. 
-
-**Bibliografia Básica:** GASPAR, A. _Experiencias de Ciencias ._ 2.ed. Editora Ática, São Paulo. 2014 DE JESUS, V.L.B. _Experimentos e Videoanálise – Dinâmica,_ Editora Livraria da Física, São Paulo. 2014. 
-
-PERUZZO, J. _Experimentos de Física Básica: Termodinâmica, Ondulatória e Óptica,_ Editora Livraria da Física, São Paulo. 2012. PERUZZO, J. _Experimentos de Física Básica: Mecânica,_ Editora Livraria da Física, São Paulo. 2012 VALADARES, E. C. _Física mais que divertida: inventos eletrizantes baseados em materiais reciclados e de baixo custo_ **.** Editora UFMG, Belo Horizonte. 2009. **Bibliografia Complementar:** NUSSENZVEIG, M.H. _Curso de Física Básica: Mecânica._ Editora Edgar Blucher, São Paulo. GREF, Grupo de Reelaboração do Ensino de Física. _Física 2: Física térmica e Óptica._ Editora EDUSP, São Paulo. 2011. GASPAR, A. _Atividades Experimentais no Ensino de Física: Uma nova visão baseada na teoria de Vigotski._ Editora Livraria da Física, São Paulo. 2014. DE CARVALHO, A.M.F.T. (Org). _A educação básica e as oficinas de Física, Matemática e Química: Contribuições do projeto novos talentos._ Londrina, 2014. POZO, Juan I.; CRESPO, Miguel A.G. A Aprendizagem e o Ensino de Ciências. 5. ed. Porto Alegre: Artmed, 2009 
-
-119 
-
-**==> picture [486 x 54] intentionally omitted <==**
+PERUZZO, J. _Experimentos de Física Básica: Termodinâmica, Ondulatória e Óptica,_ Editora Livraria da Física, São Paulo. 2012. PERUZZO, J. _Experimentos de Física Básica: Mecânica,_ Editora Livraria da Física, São Paulo. 2012 VALADARES, E. C. _Física mais que divertida: inventos eletrizantes baseados em materiais reciclados e de baixo custo_ **.** Editora UFMG, Belo Horizonte. 2009. **Bibliografia Complementar:** NUSSENZVEIG, M.H. _Curso de Física Básica: Mecânica._ Editora Edgar Blucher, São Paulo. GREF, Grupo de Reelaboração do Ensino de Física. _Física 2: Física térmica e Óptica._ Editora EDUSP, São Paulo. 2011. GASPAR, A. _Atividades Experimentais no Ensino de Física: Uma nova visão baseada na teoria de Vigotski._ Editora Livraria da Física, São Paulo. 2014. DE CARVALHO, A.M.F.T. (Org). _A educação básica e as oficinas de Física, Matemática e Química: Contribuições do projeto novos talentos._ Londrina, 2014. POZO, Juan I.; CRESPO, Miguel A.G. A Aprendizagem e o Ensino de Ciências. 5. ed. Porto Alegre: Artmed, 2009
 
 |**Campus Ivaiporã do IFPR**|**Campus Ivaiporã do IFPR**|
 |---|---|
@@ -2706,11 +2118,14 @@ PERUZZO, J. _Experimentos de Física Básica: Termodinâmica, Ondulatória e Óp
 |**Bibliografia** **Básica**:<br>BURDEN, R. L.; FAIRES, J. D. Análise Numérica. 8.ed. São Paulo: Cengage, 2008.<br>FRANCO, N. M. B. Cálculo Numérico. São Paulo: Pearson, 2006.<br>SPERANDIO, D. et. al. Cálculo Numérico. São Paulo: Pearson, 2003.<br>GILAT, A. MATLAB com Aplicações em Engenharia. 2. ed. Porto Alegre: Bookman, 2006.<br>RUGGIERO, M. A. G.; LOPES, V. L. R. Cálculo Numérico: Aspectos Teóricos e<br>Computacionais. 2.ed.SãoPaulo: Makron Books,2004.||
 |**Bibliografia** **Complementar**:<br>BURIAN, Reinaldo; LIMA, Antonio Carlos de; HETEM JUNIOR, Annibal. Cálculo numérico:<br>fundamentos de informática. Rio de Janeiro: LTC, 2011.<br>GUIMARÃES, Algoritmos e Estruturas de Dados, LTC - Livros Técnicos e Científicos, Rio de<br>Janeiro – RJ 1994.<br>MANZANO; OLIVEIRA, Algoritmos, Érica 15. Ed., São Paulo – SP 2014.<br>CAMPOS FILHO, F. F. Algoritmos Numéricos. Rio de Janeiro: LTC, 2001.<br>ROQUE, W. R. Introdução ao Cálculo Numérico: Um Texto Integrado com DERIVE©. São<br>Paulo: Atlas,2000.||
 
-
-
-120 
-
-**==> picture [486 x 54] intentionally omitted <==**
+|**Campus Ivaiporã do IFPR**|**Campus Ivaiporã do IFPR**|
+|---|---|
+|**Curso**: Licenciatura em Física|**Área do Conhecimento**: Ciências Exatas e da Terra|
+|**Componente** **Curricular**: História do Pensamento Lógico||
+|**Carga** **Horária**: 33h|**Período** **Letivo**: A partir do 7º período|
+|**Ementa**:<br>O curso tem por objetivo apresentar e examinar os conceitos básicos da lógica e sua<br>evolução histórica. Fazendo um percurso desde os gregos até a modernidade e interrogando<br>sobre suas contribuições às outras ciências (linguísticas, naturais, exatas, etc.), buscaremos<br>compreender opapel da lógica enquanto instrumento dopensamento.||
+|**Bibliografia** **Básica**:<br>STAN, Baronett._Lógica: uma introdução voltada para as ciências_. Editora Bookman, Porto<br>Alegre. 2009.<br>MORTARI, Cezar A._Introdução à Lógica_. Editora UNESP, São Paulo. 2001.<br>REALE, Giovanni._Introdução a Aristóteles_. Editora Contraponto, Rio de Janeiro. 2012.<br>COPI, Irving._Introdução à lógica_. Editora Mestre Jou, São Paulo. 1978.<br>DELEUZE,Gilles._Lógica do Sentido_. Editora Perspectiva,São Paulo. 2015.||
+|**Bibliografia** **Complementar**:<br>BRANQUINHO, João & MURCHO, Desidério._Enciclopédia de Termos Lógico-filosóficos_.<br>Editora WMF Martins Fontes, Rio de Janeiro. 2006.<br>MARQUES, Edgar._Wittgenstein e o Tractatus_. Editora Zahar. Rio de Janeiro. 2005.<br>MACHADO, Nilson & CUNHA, Marisa._Lógica e linguagem cotidiana_. Editora Autêntica, Belo<br>Horizonte. 2005.<br>RAIMOND, Smullyan._Alice no país dos enigmas_. Editora Zahar, Rio de Janeiro. 2000.<br>MARCONDES,Danilo._Filosofia Analítica_. Editora Zahar,Rio de Janeiro.||
 
 |**Campus Ivaiporã do IFPR**|**Campus Ivaiporã do IFPR**|
 |---|---|
@@ -2721,130 +2136,89 @@ PERUZZO, J. _Experimentos de Física Básica: Termodinâmica, Ondulatória e Óp
 |**Bibliografia** **Básica**:<br>STAN, Baronett._Lógica: uma introdução voltada para as ciências_. Editora Bookman, Porto<br>Alegre. 2009.<br>MORTARI, Cezar A._Introdução à Lógica_. Editora UNESP, São Paulo. 2001.<br>REALE, Giovanni._Introdução a Aristóteles_. Editora Contraponto, Rio de Janeiro. 2012.<br>COPI, Irving._Introdução à lógica_. Editora Mestre Jou, São Paulo. 1978.<br>DELEUZE,Gilles._Lógica do Sentido_. Editora Perspectiva,São Paulo. 2015.||
 |**Bibliografia** **Complementar**:<br>BRANQUINHO, João & MURCHO, Desidério._Enciclopédia de Termos Lógico-filosóficos_.<br>Editora WMF Martins Fontes, Rio de Janeiro. 2006.<br>MARQUES, Edgar._Wittgenstein e o Tractatus_. Editora Zahar. Rio de Janeiro. 2005.<br>MACHADO, Nilson & CUNHA, Marisa._Lógica e linguagem cotidiana_. Editora Autêntica, Belo<br>Horizonte. 2005.<br>RAIMOND, Smullyan._Alice no país dos enigmas_. Editora Zahar, Rio de Janeiro. 2000.<br>MARCONDES,Danilo._Filosofia Analítica_. Editora Zahar,Rio de Janeiro.||
 
+**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Física Matemática **Carga Horária:** 67h **Período letivo:** A partir do 7º período
 
+## **Ementa:**
 
-|**Campus Ivaiporã do IFPR**|**Campus Ivaiporã do IFPR**|
-|---|---|
-|**Curso**: Licenciatura em Física|**Área do Conhecimento**: Ciências Exatas e da Terra|
-|**Componente** **Curricular**: História do Pensamento Lógico||
-|**Carga** **Horária**: 33h|**Período** **Letivo**: A partir do 7º período|
-|**Ementa**:<br>O curso tem por objetivo apresentar e examinar os conceitos básicos da lógica e sua<br>evolução histórica. Fazendo um percurso desde os gregos até a modernidade e interrogando<br>sobre suas contribuições às outras ciências (linguísticas, naturais, exatas, etc.), buscaremos<br>compreender opapel da lógica enquanto instrumento dopensamento.||
-|**Bibliografia** **Básica**:<br>STAN, Baronett._Lógica: uma introdução voltada para as ciências_. Editora Bookman, Porto<br>Alegre. 2009.<br>MORTARI, Cezar A._Introdução à Lógica_. Editora UNESP, São Paulo. 2001.<br>REALE, Giovanni._Introdução a Aristóteles_. Editora Contraponto, Rio de Janeiro. 2012.<br>COPI, Irving._Introdução à lógica_. Editora Mestre Jou, São Paulo. 1978.<br>DELEUZE,Gilles._Lógica do Sentido_. Editora Perspectiva,São Paulo. 2015.||
-|**Bibliografia** **Complementar**:<br>BRANQUINHO, João & MURCHO, Desidério._Enciclopédia de Termos Lógico-filosóficos_.<br>Editora WMF Martins Fontes, Rio de Janeiro. 2006.<br>MARQUES, Edgar._Wittgenstein e o Tractatus_. Editora Zahar. Rio de Janeiro. 2005.<br>MACHADO, Nilson & CUNHA, Marisa._Lógica e linguagem cotidiana_. Editora Autêntica, Belo<br>Horizonte. 2005.<br>RAIMOND, Smullyan._Alice no país dos enigmas_. Editora Zahar, Rio de Janeiro. 2000.<br>MARCONDES,Danilo._Filosofia Analítica_. Editora Zahar,Rio de Janeiro.||
+Análise Vetorial: Álgebra vetorial; Sistemas retangular, cilíndrico e esférico; Transformação de coordenadas; Gradiente, Divergente e Rotacional nos três sistemas; Integrais de linha, superfície e volume nos três sistemas. Funções Ortogonais e Séries de Fourier: Funções ortogonais; Séries de Fourier; Problema de Sturm-Liouville; Séries de Fourier-Legrendre e Fourier-Bessel. Problemas de Valores do Contorno em Coordenadas Retangulares, Cilíndricas e Esféricas: Separação de variáveis, equação do calor, equação da onda, equação de Laplace e equação de Schrödinger. Transformadas e Integrais de Fourier. Funções Especiais.
 
+.
 
+## **Bibliografia Básica**
 
-121 
+BUTKOV, E. **Física Matemática** . Rio de Janeiro: LTC, 2011.
 
-**==> picture [486 x 54] intentionally omitted <==**
+ARFKEN, G. B.; WEBER, H. J. **Física Matemática: Métodos Matemáticos para Engenharia e Física** . 6. ed. Rio de Janeiro: Elsevier, 2007. GONDAR, J. L.; CIPOLATTI, R., **Iniciação à Física Matemática.** Rio de Janeiro: IMPA, 2009. **Bibliografia Complementar:**
 
-**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Física Matemática **Carga Horária:** 67h **Período letivo:** A partir do 7º período 
+ZILL, D. G., CULLEN, M. R. **Matemática Avançada para Engenharia: Equações Diferenciais Parciais, Métodos de Fourier e Variáveis Complexas** . v. 3. 3. ed. Porto Alegre: Bookman, 2009. MACHADO, K. D. **Equações Diferenciais Aplicadas à Física** – 3ª edição. Ponta Grossa: UEPG, 2004. LÓRIO, V. EDP: **Um Curso de Graduação.** Rio de Janeiro: IMPA, 2007. LEMOS, N. A. **Convite à Física Matemática** . São Paulo: Livraria da Física, 2013.
 
-## **Ementa:** 
+BASSALO, J. M. F.; CATTANI, M. S. D. **Elementos de Física Matemática** . v. 1. São Paulo: Livraria da Física, 2010.
 
-Análise Vetorial: Álgebra vetorial; Sistemas retangular, cilíndrico e esférico; Transformação de coordenadas; Gradiente, Divergente e Rotacional nos três sistemas; Integrais de linha, superfície e volume nos três sistemas. Funções Ortogonais e Séries de Fourier: Funções ortogonais; Séries de Fourier; Problema de Sturm-Liouville; Séries de Fourier-Legrendre e Fourier-Bessel. Problemas de Valores do Contorno em Coordenadas Retangulares, Cilíndricas e Esféricas: Separação de variáveis, equação do calor, equação da onda, equação de Laplace e equação de Schrödinger. Transformadas e Integrais de Fourier. Funções Especiais. 
+BASSALO, J. M. F.; CATTANI, M. S. D. **Elementos de Física Matemática** . v. 2. São Paulo: Livraria da Física, 2011.
 
-. 
+BASSALO, J. M. F.; CATTANI, M. S. D. **Elementos de Física Matemática** . v. 3. São Paulo: Livraria da Física, 2012.
 
-## **Bibliografia Básica** 
+**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Geometrias não euclidianas **Carga Horária:** 33h **Período letivo:** A partir do 7º período **Ementa:**
 
-BUTKOV, E. **Física Matemática** . Rio de Janeiro: LTC, 2011. 
+Exposição histórico-crítica e seu desenvolvimento. Axioma das paralelas. Geometria Afim: Espaço Afim, Transformações afins, Exemplos. Geometria Esférica: A esfera de dimensão 2, triângulos esféricos, Fórmula de Girard, Poliedros regulares e suas simetrias, Fórmula de Euler. Geometria Hiperbólica: Modelos da geometria hiperbólica, Semi-plano. Isometrias hiperbólicas.
 
-ARFKEN, G. B.; WEBER, H. J. **Física Matemática: Métodos Matemáticos para Engenharia e Física** . 6. ed. Rio de Janeiro: Elsevier, 2007. GONDAR, J. L.; CIPOLATTI, R., **Iniciação à Física Matemática.** Rio de Janeiro: IMPA, 2009. **Bibliografia Complementar:** 
+BONOLA, R. N **on-Euclidean geometries** . Dover, 1955. CARMO, Manfredo P. **Geometrias Não-euclidianas** . Matemática Universitária, Rio de Janeiro, IMPA, n. 6, p. 25-48, dezembro 1987. BARBOSA, João Lucas M. **Geometria Hiperbólica** . 4ª Edição. Rio de Janeiro: IMPA, 2008. COUTINHO, Lázaro. **Convite às Geometrias não-euclidianas** . Rio de Janeiro: Interciência, 2001. SILVA, K. B. R. **Noções de Geometria não-euclidianas: hiperbólica, de superfície esférica e dos fractais.** Curitiba: CRV, 2011.
 
-ZILL, D. G., CULLEN, M. R. **Matemática Avançada para Engenharia: Equações Diferenciais Parciais, Métodos de Fourier e Variáveis Complexas** . v. 3. 3. ed. Porto Alegre: Bookman, 2009. MACHADO, K. D. **Equações Diferenciais Aplicadas à Física** – 3ª edição. Ponta Grossa: UEPG, 2004. LÓRIO, V. EDP: **Um Curso de Graduação.** Rio de Janeiro: IMPA, 2007. LEMOS, N. A. **Convite à Física Matemática** . São Paulo: Livraria da Física, 2013. 
+**Bibliografia Complementar:** ANTALÓ, L. A. **Geometías no euclidianas** . Buenos Aires: Buenos Aires Editorial Universitaria. 1961. ROWE, D. E. **Euclidean geometry and physical space** . The Mathematical Intelligencer.Vol. 28, n.2 2006. O'SHEA, D. A **Solução de Poincaré** . Rio de Janeiro: Record, 2009. MLODINOW, L. A **Janela de Euclides** . São Paulo: Geração Editorial, 2008. PRÉKOPA, A.; MOLNAR, E. **Non-Euclidean Geometry: János Bolyai Memorial Volume** . Springer Verlag, 2005.
 
-BASSALO, J. M. F.; CATTANI, M. S. D. **Elementos de Física Matemática** . v. 1. São Paulo: Livraria da Física, 2010. 
+**Campus Ivaiporã do IFPR Curso** : Licenciatura em Física **Área do Conhecimento** : Ciências Exatas e da Terra **Componente Curricular** : Eletromagnetismo **Carga Horária** : 67h **Período Letivo** : A partir do 7º período
 
-BASSALO, J. M. F.; CATTANI, M. S. D. **Elementos de Física Matemática** . v. 2. São Paulo: Livraria da Física, 2011. 
+**Ementa** :
 
-BASSALO, J. M. F.; CATTANI, M. S. D. **Elementos de Física Matemática** . v. 3. São Paulo: Livraria da Física, 2012. 
+Eletrostática. Equação de Laplace e problemas de contorno. Campos elétricos na matéria. Corrente elétrica. Magnetostática.  Materiais magnéticos e Teoria Microscópica do Magnetismo. Indução Magnética.  Equações de Maxwell.  Ondas Eletromagnéticas. **Bibliografia Básica** : BARCELOS NETO, J. Teoria Eletromagnética – parte clássica. Rio de Janeiro. Livraria da Física. 2015. EDMINISTER, J. A. Eletromagnetismo. Coleção Schaum. 2.ed. Porto Alegre: Bookman, 2006. MACHADO, C. D. Eletromagnetismo. v2. Ponta Grossa. Toda Palavra. 2012. SADIKU, M. N. O. Elementos de Eletromagnetismo. 5.ed. Porto Alegre: Bookman, 2012. GRIFFITHS, D. J. Eletrodinâmica. 3.ed. São Paulo: Pearson Addison Wesley, 2011.
 
-122 
+**Bibliografia Complementar** : QUEVEDO, C. P., LODI, C. Q. Ondas Eletromagnéticas. São Paulo: Pearson Prentice Hall, 2010. MACHADO, C. D. Eletromagnetismo. v1. Ponta Grossa. Toda Palavra. 2012. MACHADO, C. D. Eletromagnetismo. v3. Ponta Grossa. Toda Palavra. 2012. BOYLESTAD, R. L. Introdução à análise de circuitos. 12. ed. São Paulo: Pearson Prentice Hall, 2012. WENTWORTH, S. M. Eletromagnetismo Aplicado. Porto Alegre: Bookman, 2009.
 
-**==> picture [486 x 54] intentionally omitted <==**
+**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Introdução à Mecânica Estatística **Carga Horária:** 67h **Período letivo:** A partir do 7º período **Ementa:**
 
-**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Geometrias não euclidianas **Carga Horária:** 33h **Período letivo:** A partir do 7º período **Ementa:** 
+Princípios da física estatística: Entropia de Boltzmann e representação microcanônica; representação canônica e fundamentos da representação grande canônica
 
-Exposição histórico-crítica e seu desenvolvimento. Axioma das paralelas. Geometria Afim: Espaço Afim, Transformações afins, Exemplos. Geometria Esférica: A esfera de dimensão 2, triângulos esféricos, Fórmula de Girard, Poliedros regulares e suas simetrias, Fórmula de Euler. Geometria Hiperbólica: Modelos da geometria hiperbólica, Semi-plano. Isometrias hiperbólicas. 
+**Bibliografia Básica:**
 
-BONOLA, R. N **on-Euclidean geometries** . Dover, 1955. CARMO, Manfredo P. **Geometrias Não-euclidianas** . Matemática Universitária, Rio de Janeiro, IMPA, n. 6, p. 25-48, dezembro 1987. BARBOSA, João Lucas M. **Geometria Hiperbólica** . 4ª Edição. Rio de Janeiro: IMPA, 2008. COUTINHO, Lázaro. **Convite às Geometrias não-euclidianas** . Rio de Janeiro: Interciência, 2001. SILVA, K. B. R. **Noções de Geometria não-euclidianas: hiperbólica, de superfície esférica e dos fractais.** Curitiba: CRV, 2011. 
+SALINAS, S.R.A., _Introdução a Física Estatística,_ Editora EDUSP, São Paulo. 2005.
 
-**Bibliografia Complementar:** ANTALÓ, L. A. **Geometías no euclidianas** . Buenos Aires: Buenos Aires Editorial Universitaria. 1961. ROWE, D. E. **Euclidean geometry and physical space** . The Mathematical Intelligencer.Vol. 28, n.2 2006. O'SHEA, D. A **Solução de Poincaré** . Rio de Janeiro: Record, 2009. MLODINOW, L. A **Janela de Euclides** . São Paulo: Geração Editorial, 2008. PRÉKOPA, A.; MOLNAR, E. **Non-Euclidean Geometry: János Bolyai Memorial Volume** . Springer Verlag, 2005. 
+NUSSENZVEIG, M.H. _Curso de Física Básica: Fluidos, Oscilações, Ondas e Calor._ Editora Edgar Blucher, São Paulo.
 
-123 
+HALLIDAY, D;WALKER, J; RESNICK. R. _Fundamentos de Física. v.2. 5.ed._ Editora LTC, Rio de Janeiro.
 
-**==> picture [486 x 54] intentionally omitted <==**
+TREFIL,  J.,  HAZEN,  R.M.,  Física  Viva  Vol.  2  -  Uma  Introdução  à  Física  Conceitual. Editora LTC, 2006
 
-**Campus Ivaiporã do IFPR Curso** : Licenciatura em Física **Área do Conhecimento** : Ciências Exatas e da Terra **Componente Curricular** : Eletromagnetismo **Carga Horária** : 67h **Período Letivo** : A partir do 7º período 
+## **Bibliografia Complementar:**
 
-**Ementa** : 
+CASQUILHO. J. P.;TEIXEIRA, P.I.C., _Introdução à Física Estatística._ Editora Livraria da Física, São Paulo. 2012.
 
-Eletrostática. Equação de Laplace e problemas de contorno. Campos elétricos na matéria. Corrente elétrica. Magnetostática.  Materiais magnéticos e Teoria Microscópica do Magnetismo. Indução Magnética.  Equações de Maxwell.  Ondas Eletromagnéticas. **Bibliografia Básica** : BARCELOS NETO, J. Teoria Eletromagnética – parte clássica. Rio de Janeiro. Livraria da Física. 2015. EDMINISTER, J. A. Eletromagnetismo. Coleção Schaum. 2.ed. Porto Alegre: Bookman, 2006. MACHADO, C. D. Eletromagnetismo. v2. Ponta Grossa. Toda Palavra. 2012. SADIKU, M. N. O. Elementos de Eletromagnetismo. 5.ed. Porto Alegre: Bookman, 2012. GRIFFITHS, D. J. Eletrodinâmica. 3.ed. São Paulo: Pearson Addison Wesley, 2011. 
+PIMENTEL, F. _Curso de Estatística Experimental._ 15 ed. Editora
 
-**Bibliografia Complementar** : QUEVEDO, C. P., LODI, C. Q. Ondas Eletromagnéticas. São Paulo: Pearson Prentice Hall, 2010. MACHADO, C. D. Eletromagnetismo. v1. Ponta Grossa. Toda Palavra. 2012. MACHADO, C. D. Eletromagnetismo. v3. Ponta Grossa. Toda Palavra. 2012. BOYLESTAD, R. L. Introdução à análise de circuitos. 12. ed. São Paulo: Pearson Prentice Hall, 2012. WENTWORTH, S. M. Eletromagnetismo Aplicado. Porto Alegre: Bookman, 2009. 
+FEYNMAN, R. P.; SANDS, M. LEIGHTON, R. B. Feyman: Lições de Física. V.. Porto Alegre. Bookman. 2008.
 
-124 
+HEWITT, P. G, Física Conceitual. 11. ed. Porto Alegre: Bookman, 2002
 
-**==> picture [486 x 54] intentionally omitted <==**
+PERUZZO, J. _Experimentos de Física Básica: Termodinâmica, Ondulatória e Óptica,_ Editora Livraria da Física, São Paulo. 2012
 
-**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Introdução à Mecânica Estatística **Carga Horária:** 67h **Período letivo:** A partir do 7º período **Ementa:** 
+## **Campus Ivaiporã do IFPR**
 
-Princípios da física estatística: Entropia de Boltzmann e representação microcanônica; representação canônica e fundamentos da representação grande canônica 
+**Curso** : Licenciatura em Física **Área do Conhecimento** : Ciências Exatas e da Terra **Componente Curricular** : Fundamentos da Relatividade Restrita e Geral **Carga Horária** : 67h **Período Letivo** : A partir do 7º período **Ementa** : Aspectos históricos da TR. Postulados da TRR. Cinemática Relativística. Dinâmica Relativística. Introdução à Teoria da Relatividade Geral. Elementos matemáticos da TRG. Princípio da equivalência e Covariância Geral. Equação de Einstein. **Bibliografia Básica** : NUSSENZVEIG, H. M. Curso de Física Básica. V.4 2ed.  São Paulo: Edgard Blucher, 2015. GAZZINELLI. R. Teoria da Relatividade Especial - 2ª EDIÇÃO. Livraria da Física. 2009. LANDAU, L. LIFCHITZ, E. Teoria do Campo. **Hemus. 2004.** LESCHE, B. Teoria da Relatividade. Livraria da Física. 2005. CARMO, M. P. Geometria Riemanniana. Rio de Janeiro. IMPA. 2014 **Bibliografia Complementar** : BOHM, D.  Teoria da Relatividade Restrita. Editora Unesp. 2014 WEINBERG. S. Gravitation and Cosmology: Principles and Applications of the General Theory of Relativity. John Wiley & Sons. 1972 WALD. R. M. General Relativity. University of Chicago Press. 1984. MCMAHON, D. Relativity Demystified. McGraw-Hill. 2005. MAIA, N. B. Introdução à Relatividade. 1º Ed. Livraria da Física. 2009.
 
-**Bibliografia Básica:** 
+**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Elementos de Física Médica **Carga Horária:** 33h **Período letivo:** A partir do 7º período
 
-SALINAS, S.R.A., _Introdução a Física Estatística,_ Editora EDUSP, São Paulo. 2005. 
+## **Ementa:**
 
-NUSSENZVEIG, M.H. _Curso de Física Básica: Fluidos, Oscilações, Ondas e Calor._ Editora Edgar Blucher, São Paulo. 
+Noções de física nuclear. Raio-X. Interação da radiação eletromagnética ionizante com a matéria. Medida da radiação ionizante. Distribuição de dose .Introdução à medicina nuclear. Efeitos Biológicos da radiação. Proteção Radiológica. Funções do físico médico: Medicina nuclear; Radiodiagnóstico e Radioterapia.
 
-HALLIDAY, D;WALKER, J; RESNICK. R. _Fundamentos de Física. v.2. 5.ed._ Editora LTC, Rio de Janeiro. 
+## **Bibliografia Básica:**
 
-TREFIL,  J.,  HAZEN,  R.M.,  Física  Viva  Vol.  2  -  Uma  Introdução  à  Física  Conceitual. Editora LTC, 2006 
+FEYNMAN, Richard Phillips; SANDS, Matthew; LEIGHTON, Robert B. Feynman: Lições de Física. Porto Alegre: Bookman, V.2 2008. EISBERG, R; RESNICK, R. Física Quântica: átomos, moléculas, sólidas, núcleos e partículas. Elsevier. 1979. NUSSENZVEIG. H. M. Curso de Física Básica – Ótica, Relatividade e Física Quãntica. V.4. 2ed.  São Paulo: Edgard Blucher, 2015.
 
-## **Bibliografia Complementar:** 
+ZIESSMAN, H. A. Medicina Nuclear. 2.ed. Rio de Janeiro: Guanabara Koogan, 2003. BONTRAGER, K. L. Tratado de técnica radiológica e base anatômica. Rio de Janeiro: Guanabara Koogan, 2003. **Bibliografia Complementar:**
 
-CASQUILHO. J. P.;TEIXEIRA, P.I.C., _Introdução à Física Estatística._ Editora Livraria da Física, São Paulo. 2012. 
+GARCIA, EDUARDO A. C, Biofísica, editora Sarvier, 2002.SALVAJOLI, J. V. Souhami, L. F. Sérgio L. Radioterapia em oncologia. Rio de Janeiro: Medsi , 1999. THRAL, J. H.; CARUSO, F.; OGURI, V. Física Moderna: Exercícios resolvidos. Elsevier. 2009. MEALHA, J. C. Física e tecnologia dos equipamentos de diagnóstico e de radioterapia. Lisboa : Universitária, 2000 . GARCIA, EDUARDO A. C, Biofísica, editora Sarvier, 2002.
 
-PIMENTEL, F. _Curso de Estatística Experimental._ 15 ed. Editora 
-
-FEYNMAN, R. P.; SANDS, M. LEIGHTON, R. B. Feyman: Lições de Física. V.. Porto Alegre. Bookman. 2008. 
-
-HEWITT, P. G, Física Conceitual. 11. ed. Porto Alegre: Bookman, 2002 
-
-PERUZZO, J. _Experimentos de Física Básica: Termodinâmica, Ondulatória e Óptica,_ Editora Livraria da Física, São Paulo. 2012 
-
-125 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-## **Campus Ivaiporã do IFPR** 
-
-**Curso** : Licenciatura em Física **Área do Conhecimento** : Ciências Exatas e da Terra **Componente Curricular** : Fundamentos da Relatividade Restrita e Geral **Carga Horária** : 67h **Período Letivo** : A partir do 7º período **Ementa** : Aspectos históricos da TR. Postulados da TRR. Cinemática Relativística. Dinâmica Relativística. Introdução à Teoria da Relatividade Geral. Elementos matemáticos da TRG. Princípio da equivalência e Covariância Geral. Equação de Einstein. **Bibliografia Básica** : NUSSENZVEIG, H. M. Curso de Física Básica. V.4 2ed.  São Paulo: Edgard Blucher, 2015. GAZZINELLI. R. Teoria da Relatividade Especial - 2ª EDIÇÃO. Livraria da Física. 2009. LANDAU, L. LIFCHITZ, E. Teoria do Campo. **Hemus. 2004.** LESCHE, B. Teoria da Relatividade. Livraria da Física. 2005. CARMO, M. P. Geometria Riemanniana. Rio de Janeiro. IMPA. 2014 **Bibliografia Complementar** : BOHM, D.  Teoria da Relatividade Restrita. Editora Unesp. 2014 WEINBERG. S. Gravitation and Cosmology: Principles and Applications of the General Theory of Relativity. John Wiley & Sons. 1972 WALD. R. M. General Relativity. University of Chicago Press. 1984. MCMAHON, D. Relativity Demystified. McGraw-Hill. 2005. MAIA, N. B. Introdução à Relatividade. 1º Ed. Livraria da Física. 2009. 
-
-126 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Elementos de Física Médica **Carga Horária:** 33h **Período letivo:** A partir do 7º período 
-
-## **Ementa:** 
-
-Noções de física nuclear. Raio-X. Interação da radiação eletromagnética ionizante com a matéria. Medida da radiação ionizante. Distribuição de dose .Introdução à medicina nuclear. Efeitos Biológicos da radiação. Proteção Radiológica. Funções do físico médico: Medicina nuclear; Radiodiagnóstico e Radioterapia. 
-
-## **Bibliografia Básica:** 
-
-FEYNMAN, Richard Phillips; SANDS, Matthew; LEIGHTON, Robert B. Feynman: Lições de Física. Porto Alegre: Bookman, V.2 2008. EISBERG, R; RESNICK, R. Física Quântica: átomos, moléculas, sólidas, núcleos e partículas. Elsevier. 1979. NUSSENZVEIG. H. M. Curso de Física Básica – Ótica, Relatividade e Física Quãntica. V.4. 2ed.  São Paulo: Edgard Blucher, 2015. 
-
-ZIESSMAN, H. A. Medicina Nuclear. 2.ed. Rio de Janeiro: Guanabara Koogan, 2003. BONTRAGER, K. L. Tratado de técnica radiológica e base anatômica. Rio de Janeiro: Guanabara Koogan, 2003. **Bibliografia Complementar:** 
-
-GARCIA, EDUARDO A. C, Biofísica, editora Sarvier, 2002.SALVAJOLI, J. V. Souhami, L. F. Sérgio L. Radioterapia em oncologia. Rio de Janeiro: Medsi , 1999. THRAL, J. H.; CARUSO, F.; OGURI, V. Física Moderna: Exercícios resolvidos. Elsevier. 2009. MEALHA, J. C. Física e tecnologia dos equipamentos de diagnóstico e de radioterapia. Lisboa : Universitária, 2000 . GARCIA, EDUARDO A. C, Biofísica, editora Sarvier, 2002. 
-
-OSWALDO BAFFA FILHO, DENISE MARIA ZEZELL, PAULO ROBERTO COSTA, ANA MARIA MARQUES DA SILVA, MARCELO BAPTISTA DE FREITAS, Física Médica, Pag. 83, Física 2011 - Estado da arte, desafios e perspectivas para os próximos cinco anos, McHilliard editora, 1ª ed., São Paulo, 2011 (disponível on-line gratuitamente no site da Sociedade Brasileira de Física - SBF), <>, acessado em 28/11/2016. 
-
-127 
-
-**==> picture [486 x 54] intentionally omitted <==**
+OSWALDO BAFFA FILHO, DENISE MARIA ZEZELL, PAULO ROBERTO COSTA, ANA MARIA MARQUES DA SILVA, MARCELO BAPTISTA DE FREITAS, Física Médica, Pag. 83, Física 2011 - Estado da arte, desafios e perspectivas para os próximos cinco anos, McHilliard editora, 1ª ed., São Paulo, 2011 (disponível on-line gratuitamente no site da Sociedade Brasileira de Física - SBF), <>, acessado em 28/11/2016.
 
 |**Campus Ivaiporã do IFPR**|**Campus Ivaiporã do IFPR**|
 |---|---|
@@ -2855,51 +2229,35 @@ OSWALDO BAFFA FILHO, DENISE MARIA ZEZELL, PAULO ROBERTO COSTA, ANA MARIA MARQUES
 |**Bibliografia Básica:**<br>CARUSO, F.; OGURI, V. Física Moderna: Origens clássicas e fundamentos quânticos. 2ª<br>reimpressão, Rio de janeiro, Elsievier, 2006.<br>FEYNMAN, R. P.; SANDS, M.; LEIGHTON, R. B. Feynman: Lições de Física. Porto Alegre:<br>Bookman. 3 v. 2008.<br>TOLEDO PIZZA, A. F. R. Mecânica Quântica. São Paulo: EDUSP, 2003.||
 |**Bibliografia** **Complementar**:<br>PESSOA JR., O. Conceitos de Física Quântica. v.1. São Paulo: Livraria da Física, 2006.<br>PESSOA JR., O. Conceitos de Física Quântica. v.2. São Paulo: Livraria da Física, 2006.<br>LOPES, J. L. A Estrutura Quântica da Matéria: do átomo pré-socrático às partículas<br>elementares. Rio de Janeiro: UFRJ, 2005<br>ANDRÉIA, G., REIS, J. C. e BRAGA, M. Bohr e a Interpretação Quântica da Natureza. São<br>Paulo: Atual, 2005.<br>VIANNA, J. D. M.; CANUTO, S.; FAZZIO, A. Teoria Quântica de moléculas e sólidos. Livraria<br>da Física. 2004.||
 
-
-
-128 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
 ||**Câmpus Ivaiporã do IFPR**|
 |---|---|
 |**Curso:**Licenciatura em Física|**Área do Conhecimento:**Ciências Exatas e da Terra|
 |**Componente Curricular:**Físico-química||
 |**Carga Horária:**33h|**Período letivo:**Apartir do 7º Período|
 
+## **Ementa:**
 
+Interações Intermoleculares e Gases Reais; 1ª Lei da TD: Energia e Entalpia;  2ª lei da TD: Entropia e Energias Livres. Funções Termodinâmicas Padrão. Sistemas de Composição Variável: Potencial Químico. Misturas e Soluções. Atividade. Termodinâmica e Equilíbrio. Concentrações de Equilíbrio; Efeito de P e T no Equilíbrio; Equilíbrio Iônico e Equação de Debye-Hückel. Produto de Solubilidade e Equilíbrio Ácido-Base. Cálculo de pH. Reações Redox; Meias Reações. Células Galvânicas e Eletrolíticas. Potenciais-Padrão e Equação de Nernst. Células de Concentração. Aplicações. Potencial de Membrana e Eletrodos Práticos. Corrosão Localizada e Homogênea. Polarização Eletródica: Evolução de H2 e Redução de O2. Diagramas de Pourbaix. Aeração Diferencial. Velocidade de Reação e Lei de Velocidade; Ordem de Reação. Leis Empíricas de Velocidade. Cinética de 1ª e 2ª Ordem. Equação de Arrhenius e Teorias de Colisões e do Estado de Transição. Etapas Elementares. Intermediários. Reações com Etapas Múltiplas. Mecanismos de Reação.Catálise Heterogênea: Adsorção. Mecanismos de Langmuir-Hinshelwood e Eley-Rideal. Catálise Homogênea: Catálise Ácido-Base, Catálise Enzimática. Modelo Atômico Atual: Átomos Hidrogenóides: Orbitais Atômicos. Átomos Multieletrônicos. Moléculas: Teoria dos Orbitais Moleculares. Orbitais Moleculares Localizados e Ligação Química. Teoria da Ligação de Valência. Teoria de Bandas dos Sólidos. Condutores, Semicondutores e Isolantes. Estrutura Cristalina. Retículos de Bravais. Empacotamento Compacto. 9 práticas de laboratório.
 
-## **Ementa:** 
+Bibliografia Básica: _Livro:_ ATKINS, P.; OVERTON, T.; ROURKE, J.; WELLER, M; ARMSTRONG, F. Química Inorgânica. 4a ed. Porto Alegre. Bookman. 2008. ATKINS, P.; DE PAULA, J. Físico-química. 9.ed Rio de Janeiro: LTC, vol. 1, 2015 ATKINS, P.; DE PAULA, J. Físico-química. 9.ed Rio de Janeiro: LTC, vol. 2, 2015 ATKINS P. W.; JONES L. Princípios de Química: questionando a vida moderna e o meio ambiente. 5.ed. Porto Alegre: Bookman, 2012. KOTZ, J.C., TREICHEL JR, P.M., WEAVER G.C., Química Geral e Reações Químicas, V 1 6ª Ed., São Paulo: Cengage Learning, 2010.
 
-Interações Intermoleculares e Gases Reais; 1ª Lei da TD: Energia e Entalpia;  2ª lei da TD: Entropia e Energias Livres. Funções Termodinâmicas Padrão. Sistemas de Composição Variável: Potencial Químico. Misturas e Soluções. Atividade. Termodinâmica e Equilíbrio. Concentrações de Equilíbrio; Efeito de P e T no Equilíbrio; Equilíbrio Iônico e Equação de Debye-Hückel. Produto de Solubilidade e Equilíbrio Ácido-Base. Cálculo de pH. Reações Redox; Meias Reações. Células Galvânicas e Eletrolíticas. Potenciais-Padrão e Equação de Nernst. Células de Concentração. Aplicações. Potencial de Membrana e Eletrodos Práticos. Corrosão Localizada e Homogênea. Polarização Eletródica: Evolução de H2 e Redução de O2. Diagramas de Pourbaix. Aeração Diferencial. Velocidade de Reação e Lei de Velocidade; Ordem de Reação. Leis Empíricas de Velocidade. Cinética de 1ª e 2ª Ordem. Equação de Arrhenius e Teorias de Colisões e do Estado de Transição. Etapas Elementares. Intermediários. Reações com Etapas Múltiplas. Mecanismos de Reação.Catálise Heterogênea: Adsorção. Mecanismos de Langmuir-Hinshelwood e Eley-Rideal. Catálise Homogênea: Catálise Ácido-Base, Catálise Enzimática. Modelo Atômico Atual: Átomos Hidrogenóides: Orbitais Atômicos. Átomos Multieletrônicos. Moléculas: Teoria dos Orbitais Moleculares. Orbitais Moleculares Localizados e Ligação Química. Teoria da Ligação de Valência. Teoria de Bandas dos Sólidos. Condutores, Semicondutores e Isolantes. Estrutura Cristalina. Retículos de Bravais. Empacotamento Compacto. 9 práticas de laboratório. 
+Bibliografia Complementar: BAIRD, C.; CANN, M. Química ambiental. 4. ed. Porto Alegre: Bookman, 2011 TOMA, H. E. – Energias, estados e Transformações químicas - Vol. 2 São Paulo, Blucher 2015. TOMA, H. E. – Química de Coordenação, Organometálica e Catálise - Vol. 4 São Paulo, Blucher 2015.
 
-Bibliografia Básica: _Livro:_ ATKINS, P.; OVERTON, T.; ROURKE, J.; WELLER, M; ARMSTRONG, F. Química Inorgânica. 4a ed. Porto Alegre. Bookman. 2008. ATKINS, P.; DE PAULA, J. Físico-química. 9.ed Rio de Janeiro: LTC, vol. 1, 2015 ATKINS, P.; DE PAULA, J. Físico-química. 9.ed Rio de Janeiro: LTC, vol. 2, 2015 ATKINS P. W.; JONES L. Princípios de Química: questionando a vida moderna e o meio ambiente. 5.ed. Porto Alegre: Bookman, 2012. KOTZ, J.C., TREICHEL JR, P.M., WEAVER G.C., Química Geral e Reações Químicas, V 1 6ª Ed., São Paulo: Cengage Learning, 2010. 
+TOMA, H. E. – Química Bioinorganica e Ambiental - Vol. 5 São Paulo, Blucher 2015 ATKINS, P.; DE PAULA, J. Físico-química: Fundamentos 5.ed R. J: LTC, 2012
 
-Bibliografia Complementar: BAIRD, C.; CANN, M. Química ambiental. 4. ed. Porto Alegre: Bookman, 2011 TOMA, H. E. – Energias, estados e Transformações químicas - Vol. 2 São Paulo, Blucher 2015. TOMA, H. E. – Química de Coordenação, Organometálica e Catálise - Vol. 4 São Paulo, Blucher 2015. 
+**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Química Geral e Experimental Avançada **Carga Horária:** 67h **Período letivo:** A partir do 7º período **Ementa:**
 
-TOMA, H. E. – Química Bioinorganica e Ambiental - Vol. 5 São Paulo, Blucher 2015 ATKINS, P.; DE PAULA, J. Físico-química: Fundamentos 5.ed R. J: LTC, 2012 
+Tabela periódica, estudo dos elementos químicos, nome, símbolo, número atômico, histórico, bases da organização dos elementos, organização da tabela periódica, classificação e ocorrência, formação de íons e moléculas, características físico-químicas, importância e aplicações dos elementos químicos, implicações sociais, técnicas de laboratório para o estudo dos elementos e  reações químicas, identificação, classificação, usos e aplicações das substâncias formadas, princípios da química verde, relacionando as substâncias químicas e o desenvolvimento sustentável.
 
-129 
+## **Bibliografia Básica:**
 
-**==> picture [486 x 54] intentionally omitted <==**
+KOTZ, J.C., TREICHEL JR, P.M., WEAVER G.C., Química Geral e Reações Químicas, V 1; 6ª Ed., São Paulo: Cengage Learning, 2010. KOTZ, J.C., TREICHEL JR, P.M., WEAVER G.C., Química Geral e Reações Químicas, V 2; 6ª Ed., São Paulo: Cengage Learning, 2010. ATKINS, P.; OVERTON, T.; ROURKE, J.; WELLER, M; ARMSTRONG, F. Química Inorgânica. 4a ed. Bookman, 2008. ATKINS P. W.; JONES L. Princípios de Química: questionando a vida moderna e o meio ambiente. 5.ed. Porto Alegre: Bookman, 2012. CONSTANTINO, M. G.; da SILVA, G. V. J.; Fundamentos de Química Experimental, 2 ed. São Paulo, Universidade de São Paulo, 2011.
 
-**Câmpus Ivaiporã do IFPR Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Química Geral e Experimental Avançada **Carga Horária:** 67h **Período letivo:** A partir do 7º período **Ementa:** 
+**Bibliografia Complementar:**
 
-Tabela periódica, estudo dos elementos químicos, nome, símbolo, número atômico, histórico, bases da organização dos elementos, organização da tabela periódica, classificação e ocorrência, formação de íons e moléculas, características físico-químicas, importância e aplicações dos elementos químicos, implicações sociais, técnicas de laboratório para o estudo dos elementos e  reações químicas, identificação, classificação, usos e aplicações das substâncias formadas, princípios da química verde, relacionando as substâncias químicas e o desenvolvimento sustentável. 
+TOMA, H. E. – Estrutura Atômica, Ligações e Estereoquímica. - Vol. 1 São Paulo, Blucher 2015.
 
-## **Bibliografia Básica:** 
-
-KOTZ, J.C., TREICHEL JR, P.M., WEAVER G.C., Química Geral e Reações Químicas, V 1; 6ª Ed., São Paulo: Cengage Learning, 2010. KOTZ, J.C., TREICHEL JR, P.M., WEAVER G.C., Química Geral e Reações Químicas, V 2; 6ª Ed., São Paulo: Cengage Learning, 2010. ATKINS, P.; OVERTON, T.; ROURKE, J.; WELLER, M; ARMSTRONG, F. Química Inorgânica. 4a ed. Bookman, 2008. ATKINS P. W.; JONES L. Princípios de Química: questionando a vida moderna e o meio ambiente. 5.ed. Porto Alegre: Bookman, 2012. CONSTANTINO, M. G.; da SILVA, G. V. J.; Fundamentos de Química Experimental, 2 ed. São Paulo, Universidade de São Paulo, 2011. 
-
-**Bibliografia Complementar:** 
-
-TOMA, H. E. – Estrutura Atômica, Ligações e Estereoquímica. - Vol. 1 São Paulo, Blucher 2015. 
-
-TOMA, H. E. – Elementos químicos e seus compostos - Vol. 3 São Paulo, Blucher 2015. MORITA, T.; ASSUMPÇÃO, R. M. R. Manual de soluções, reagentes e solventes. São Paulo. Blucher, 2007. HOUSECROFT, C. E.; SHARPE, A. G. Química inorgânica. Vol 1, 4 ed. Rio de Janeiro, LTC, 2013. HOUSECROFT, C. E.; SHARPE, A. G. Química inorgânica. Vol 1, 4 ed. Rio de Janeiro, LTC, 2013. 
-
-130 
-
-**==> picture [486 x 54] intentionally omitted <==**
+TOMA, H. E. – Elementos químicos e seus compostos - Vol. 3 São Paulo, Blucher 2015. MORITA, T.; ASSUMPÇÃO, R. M. R. Manual de soluções, reagentes e solventes. São Paulo. Blucher, 2007. HOUSECROFT, C. E.; SHARPE, A. G. Química inorgânica. Vol 1, 4 ed. Rio de Janeiro, LTC, 2013. HOUSECROFT, C. E.; SHARPE, A. G. Química inorgânica. Vol 1, 4 ed. Rio de Janeiro, LTC, 2013.
 
 |**Câmpus Ivaiporã do IFPR**|**Câmpus Ivaiporã do IFPR**|
 |---|---|
@@ -2910,210 +2268,174 @@ TOMA, H. E. – Elementos químicos e seus compostos - Vol. 3 São Paulo, Bluche
 |**Bibliografia Básica:**<br>GASPAR, A._Experiencias de Ciencias ._2.ed. Editora Ática, São Paulo. 2014<br>PERUZZO, J._Experimentos de Física Básica: Eletromagnetismo, Física Moderna e_<br>_Ciências Espaciais,_Editora Livraria da Física, São Paulo. 2013.<br>VALADARES, E. C._Física mais que divertida: inventos eletrizantes baseados em materiais_<br>_reciclados e de baixo custo_**.**Editora UFMG, Belo Horizonte. 2009<br>CAPUANO, F. G., MARINO, M.A.M._Laboratório de Eletricidade e Eletrônica._24 ed. Editora<br>Erica, São Paulo. 2007<br>GREF, Grupo de Reelaboração do Ensino de Física._Física 3: Eletromagnetismo._Editora<br>EDUSP, São Paulo. 2011.||
 |**Bibliografia Complementar:**<br>NUSSENZVEIG, M.H._Curso de Física Básica: Mecânica._Editora Edgar Blucher, São<br>Paulo.<br>GASPAR, A._Atividades Experimentais no Ensino de Física: Uma nova visão baseada na_<br>_teoria de Vigotski._Editora Livraria da Física, São Paulo. 2014.<br>POZO, Juan I.; CRESPO, Miguel A.G. A Aprendizagem e o Ensino de Ciências. 5. ed. Porto<br>Alegre: Artmed, 2009<br>FERDINIAN, B (org). Ser protagonista Física 3. SM. 2ed. 2014<br>HALLIDAY, D;WALKER, J; RESNICK. R._Fundamentos de Física. v.3. 9.ed._Editora LTC, Rio<br>de Janeiro. 2013.||
 
+## **Câmpus Ivaiporã do IFPR**
 
+**Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Instrumentação para o Ensino de Física Moderna **Carga Horária:** 67h **Período letivo:** A partir do 7º período
 
-131 
+**Ementa:**
 
-**==> picture [486 x 54] intentionally omitted <==**
+Elaboração e construção de experimentos e kits para o ensino de FMC. Experiências com materiais alternativos e de baixo custo em FMC. Planejamento e avaliação de equipamentos e experimentos para o ensino de FMC. Simulações e simuladores no ensino de FMC.
 
-## **Câmpus Ivaiporã do IFPR** 
+**Bibliografia Básica:**
 
-**Curso:** Licenciatura em Física **Área do Conhecimento:** Ciências Exatas e da Terra **Componente Curricular:** Instrumentação para o Ensino de Física Moderna **Carga Horária:** 67h **Período letivo:** A partir do 7º período 
+TAVOLARO, C.RC; CAVALCANTE, M.A. _Física Moderna Experimental._ 3.ed. Editora Manole, Barueri. 2011.
 
-**Ementa:** 
+CHESMAN. C.; ANDRÉ, C.;MACÊDO, A. _Fìsica Moderna Experimental e Aplicada._ Editora Livraria da Física, São Paulo. 2004.
 
-Elaboração e construção de experimentos e kits para o ensino de FMC. Experiências com materiais alternativos e de baixo custo em FMC. Planejamento e avaliação de equipamentos e experimentos para o ensino de FMC. Simulações e simuladores no ensino de FMC. 
+OLIVEIRA, I.S. _Física Moderna para Iniciados, interessados e aficionados._ Editora Livraria da Física, São Paulo.2010.
 
-**Bibliografia Básica:** 
+VALADARES, E. C. _Física mais que divertida: inventos eletrizantes baseados em materiais reciclados e de baixo custo_ **.** Editora UFMG, Belo Horizonte. 2009. GASPAR, A. _Experiencias de Ciencias ._ 2.ed. Editora Ática, São Paulo. 2014.
 
-TAVOLARO, C.RC; CAVALCANTE, M.A. _Física Moderna Experimental._ 3.ed. Editora Manole, Barueri. 2011. 
+**Bibliografia Complementar:**
 
-CHESMAN. C.; ANDRÉ, C.;MACÊDO, A. _Fìsica Moderna Experimental e Aplicada._ Editora Livraria da Física, São Paulo. 2004. 
+NUSSENZVEIG, M.H. _Curso de Física Básica: Ótica, Relatividade e Física Quântica .v.4 2.ed._ Editora Edgar Blucher, São Paulo. 2015
 
-OLIVEIRA, I.S. _Física Moderna para Iniciados, interessados e aficionados._ Editora Livraria da Física, São Paulo.2010. 
+DE CARVALHO, A.M.F.T. (Org). _A educação básica e as oficinas de Física, Matemática e Química: Contribuições do projeto novos talentos._ Londrina, 2014.
 
-VALADARES, E. C. _Física mais que divertida: inventos eletrizantes baseados em materiais reciclados e de baixo custo_ **.** Editora UFMG, Belo Horizonte. 2009. GASPAR, A. _Experiencias de Ciencias ._ 2.ed. Editora Ática, São Paulo. 2014. 
+GREF, Grupo de Reelaboração do Ensino de Física. _Física 2: Física térmica e Óptica._ Editora EDUSP, São Paulo. 2011.
 
-**Bibliografia Complementar:** 
+GASPAR, A. _Atividades Experimentais no Ensino de Física: Uma nova visão baseada na teoria de Vigotski._ Editora Livraria da Física, São Paulo. 2014.
 
-NUSSENZVEIG, M.H. _Curso de Física Básica: Ótica, Relatividade e Física Quântica .v.4 2.ed._ Editora Edgar Blucher, São Paulo. 2015 
+## **3.10. Estágio Curricular Supervisionado**
 
-DE CARVALHO, A.M.F.T. (Org). _A educação básica e as oficinas de Física, Matemática e Química: Contribuições do projeto novos talentos._ Londrina, 2014. 
+Na proposta de Matriz Curricular deste curso de Licenciatura em Física, os alunos têm integrado ao seu currículo o Estágio Curricular Supervisionado, em acordo com a Lei 11.788/08, bem como a Resolução 19/2017 Art.17 Consup/IFPR e a Resolução 02/2013 do IFPR.
 
-GREF, Grupo de Reelaboração do Ensino de Física. _Física 2: Física térmica e Óptica._ Editora EDUSP, São Paulo. 2011. 
+Esse estágio será realizado nos dois anos finais do curso, através da realização de três unidades curriculares subsequentes (Estágio Curricular Supervisionado I, II e III), totalizando 400 horas distribuídas entre os últimos três períodos. A matrícula na componente curricular Estágio II está vinculada à conclusão e aprovação no componente curricular de Estágio I, assim como para o componente curricular de Estágio III o discente deve ter concluído e estar aprovado em Estágio II.
 
-GASPAR, A. _Atividades Experimentais no Ensino de Física: Uma nova visão baseada na teoria de Vigotski._ Editora Livraria da Física, São Paulo. 2014. 
+Consistirá em atividades de pesquisa-ensino orientadas e supervisionadas pelos docentes responsáveis pelos componentes curriculares de Estágio Curricular Supervisionado, realizadas em ambiente institucional de trabalho, preferencialmente em escolas públicas. Englobará atividades de observação, análise crítica, intervenção pedagógica e avaliação que permitam a formação para o exercício profissional, em contexto que implique processos formais de ensino-aprendizagem. Buscar-se-á também uma integração entre o IFPR e as instituições públicas de Ensino Médio e Fundamental, que se dará por meio de uma colaboração duradoura que permitirá uma formação continuada de seus professores.
 
-132 
+Dessa maneira, durante o estágio, os alunos terão também a oportunidade de poder aplicar os conhecimentos adquiridos nas diferentes unidades curriculares pedagógicas, contribuindo com os professores da rede pública na elaboração de instrumentos didáticos. Poderão, ainda, realizar atividades práticas-pedagógicas que tratem de questões da realidade escolar, possibilitando refletir sobre o potencial transformador no ensino da Física nas escolas de Ensinos Fundamental e Médio com base nas experiências vivenciadas no ambiente acadêmico.
 
-**==> picture [486 x 54] intentionally omitted <==**
+Por esta razão, os alunos serão oportunizados constantemente com o pensar fazendo e fazer pensando, como condições indissociáveis. Para melhor aproximar o aluno da realidade profissional, o curso propõe o estágio obrigatório, bem como o estágio não obrigatório.
 
-## **3.10. Estágio Curricular Supervisionado** 
+O estágio não obrigatório, também previsto neste projeto, é aquele desenvolvido como atividade, acrescida à carga horária regular (Art. 2º, § 2º da Lei nº 11.788 de 25/09/2008). O estágio não-obrigatório poderá ser realizado a partir do segundo semestre do curso e deverá proporcionar ao aluno experiências profissionais correlatas, introduzindo-o em situações de trabalho que lhe assegurem possibilidades de sucesso por ocasião do exercício de sua profissão.
 
-Na proposta de Matriz Curricular deste curso de Licenciatura em Física, os alunos têm integrado ao seu currículo o Estágio Curricular Supervisionado, em acordo com a Lei 11.788/08, bem como a Resolução 19/2017 Art.17 Consup/IFPR e a Resolução 02/2013 do IFPR. 
+## **3.11. Trabalho de Conclusão de Curso**
 
-Esse estágio será realizado nos dois anos finais do curso, através da realização de três unidades curriculares subsequentes (Estágio Curricular Supervisionado I, II e III), totalizando 400 horas distribuídas entre os últimos três períodos. A matrícula na componente curricular Estágio II está vinculada à conclusão e aprovação no componente curricular de Estágio I, assim como para o componente curricular de Estágio III o discente deve ter concluído e estar aprovado em Estágio II. 
+O Trabalho de Conclusão de Curso (TCC) deve integrar conhecimentos apropriados ao longo do curso, cabendo ao professor da unidade didática de **Trabalho de Conclusão de Curso** , conduzir a organização do trabalho, estabelecer prazos e datas de
 
-Consistirá em atividades de pesquisa-ensino orientadas e supervisionadas pelos docentes responsáveis pelos componentes curriculares de Estágio Curricular Supervisionado, realizadas em ambiente institucional de trabalho, preferencialmente em escolas públicas. Englobará atividades de observação, análise crítica, intervenção pedagógica e avaliação que permitam a formação para o exercício profissional, em contexto que implique processos formais de ensino-aprendizagem. Buscar-se-á também uma integração entre o IFPR e as instituições públicas de Ensino Médio e Fundamental, que se dará por meio de uma colaboração duradoura que permitirá uma formação continuada de seus professores. 
+apresentação e ao professor orientador, recomendar que o tema escolhido seja um assunto ao qual o aluno possua afinidade, acompanhando-o na construção do estudo. Os resultados obtidos devem ser organizados de forma a ser apresentado para uma banca e com arguição pública. O TCC é encarado como critério final de avaliação do aluno.
 
-Dessa maneira, durante o estágio, os alunos terão também a oportunidade de poder aplicar os conhecimentos adquiridos nas diferentes unidades curriculares pedagógicas, contribuindo com os professores da rede pública na elaboração de instrumentos didáticos. Poderão, ainda, realizar atividades práticas-pedagógicas que tratem de questões da realidade escolar, possibilitando refletir sobre o potencial transformador no ensino da Física nas escolas de Ensinos Fundamental e Médio com base nas experiências vivenciadas no ambiente acadêmico. 
+O TCC será dividido em três componentes curriculares (TCC I; TCC II; TCC III). O discente só poderá avançar para o próximo componente curricular TCC após ter concluído e sido aprovado no componente anterior.
 
-Por esta razão, os alunos serão oportunizados constantemente com o pensar fazendo e fazer pensando, como condições indissociáveis. Para melhor aproximar o aluno da realidade profissional, o curso propõe o estágio obrigatório, bem como o estágio não obrigatório. 
+O aluno deverá apresentar o trabalho contemplando os seguintes itens:
 
-O estágio não obrigatório, também previsto neste projeto, é aquele desenvolvido como atividade, acrescida à carga horária regular (Art. 2º, § 2º da Lei nº 11.788 de 25/09/2008). O estágio não-obrigatório poderá ser realizado a partir do segundo semestre do curso e deverá proporcionar ao aluno experiências profissionais correlatas, introduzindo-o em situações de trabalho que lhe assegurem possibilidades de sucesso por ocasião do exercício de sua profissão. 
+✔ Introdução: deve ser feita uma descrição sobre o estudo, a sua importância e a motivação para o estudo, delimitando o tema de estuda na literatura científica.
 
-## **3.11. Trabalho de Conclusão de Curso** 
+✔ Desenvolvimento: objetivos; revisão de literatura e metodologia.
 
-O Trabalho de Conclusão de Curso (TCC) deve integrar conhecimentos apropriados ao longo do curso, cabendo ao professor da unidade didática de **Trabalho de Conclusão de Curso** , conduzir a organização do trabalho, estabelecer prazos e datas de 
+✔ Conclusão: análise, discussão e interpretação; e ainda possíveis sugestões para trabalhos futuros.
 
-133 
+✔ Bibliografia: As normas que se referem a trabalhos acadêmicos do IFPR deverão permear todo o trabalho.
 
-**==> picture [486 x 54] intentionally omitted <==**
+Pensando em uma prática acadêmica reflexiva e que permita uma maior qualidade na pesquisa e apresentação de resultados, o aluno realizará uma qualificação ao final do componente curricular TCC II. A apresentação do trabalho para banca examinadora acontecerá conforme calendário próprio estipulado pelo docente da disciplina, em acordo com o (a) professor (a) orientador (a). A banca será composta pelo professor orientador, pelo (a) professor (a) da disciplina e um discente convidado, da mesma etapa em relação ao discente avaliado.
 
-apresentação e ao professor orientador, recomendar que o tema escolhido seja um assunto ao qual o aluno possua afinidade, acompanhando-o na construção do estudo. Os resultados obtidos devem ser organizados de forma a ser apresentado para uma banca e com arguição pública. O TCC é encarado como critério final de avaliação do aluno. 
+A apresentação do trabalho final se dará no componente curricular TCC III, e a banca examinadora acontecerá conforme calendário (dia e horário) organizado pela Coordenação de Curso em conjunto com o professor orientador. A banca será composta pelo professor orientador, por um membro convidado do núcleo docente estruturante ou colegiado de curso e por um professor convidado externo ao NDE e colegiado, podendo inclusive ser um professor externo à instituição com notório saber na área. Todos serão responsáveis por avaliar o trabalho.
 
-O TCC será dividido em três componentes curriculares (TCC I; TCC II; TCC III). O discente só poderá avançar para o próximo componente curricular TCC após ter concluído e sido aprovado no componente anterior. 
+O TCC poderá ser apresentado nas seguintes formas:
 
-O aluno deverá apresentar o trabalho contemplando os seguintes itens: 
+1) Monografia
 
-✔ Introdução: deve ser feita uma descrição sobre o estudo, a sua importância e a motivação para o estudo, delimitando o tema de estuda na literatura científica. 
+2) Publicação de artigo original; tradução original; relato de experiência ou resenha crítica em periódico de Qualis B3 ou superior na área de Ensino ou Física.
 
-✔ Desenvolvimento: objetivos; revisão de literatura e metodologia. 
+Na qualificação, caso opte pelo segundo formato, o aluno poderá substituir a apresentação perante banca pela apresentação de trabalho completo com publicação em anais em evento nacional ou internacional da área de Ensino de Ciências e/ou Física. Nesse caso, a avaliação estará atrelada à apresentação certificada, bem como aos pareceres dos avaliadores da publicação em anais do evento.
 
-✔ Conclusão: análise, discussão e interpretação; e ainda possíveis sugestões para trabalhos futuros. 
+Na defesa de conclusão de curso, para o segundo formato, o aluno terá duas opções: defesa perante a banca com artigo enviado para periódico com Qualis B3 ou superior; ou
 
-✔ Bibliografia: As normas que se referem a trabalhos acadêmicos do IFPR deverão permear todo o trabalho. 
+então o aluno será dispensado da defesa perante banca, caso possua artigo publicado ou aceito para publicação em periódico da área de Qualis B1 ou superior. Nesse caso, a avaliação se dará por análise dos pareceres do periódico pelo docente em conjunto com o orientador.
 
-Pensando em uma prática acadêmica reflexiva e que permita uma maior qualidade na pesquisa e apresentação de resultados, o aluno realizará uma qualificação ao final do componente curricular TCC II. A apresentação do trabalho para banca examinadora acontecerá conforme calendário próprio estipulado pelo docente da disciplina, em acordo com o (a) professor (a) orientador (a). A banca será composta pelo professor orientador, pelo (a) professor (a) da disciplina e um discente convidado, da mesma etapa em relação ao discente avaliado. 
+Na qualificação, bem como na defesa do TCC o aluno será avaliado de acordo com os seguintes critérios:
 
-A apresentação do trabalho final se dará no componente curricular TCC III, e a banca examinadora acontecerá conforme calendário (dia e horário) organizado pela Coordenação de Curso em conjunto com o professor orientador. A banca será composta pelo professor orientador, por um membro convidado do núcleo docente estruturante ou colegiado de curso e por um professor convidado externo ao NDE e colegiado, podendo inclusive ser um professor externo à instituição com notório saber na área. Todos serão responsáveis por avaliar o trabalho. 
+1. Exposição do trabalho (A,B,C,D);
 
-O TCC poderá ser apresentado nas seguintes formas: 
+2. Conhecimento sobre o tema (A,B,C,D);
 
-1) Monografia 
+3. Elaboração do texto (A,B,C,D).
 
-2) Publicação de artigo original; tradução original; relato de experiência ou resenha crítica em periódico de Qualis B3 ou superior na área de Ensino ou Física. 
+## **3.12. Curricularização da Extensão**
 
-Na qualificação, caso opte pelo segundo formato, o aluno poderá substituir a apresentação perante banca pela apresentação de trabalho completo com publicação em anais em evento nacional ou internacional da área de Ensino de Ciências e/ou Física. Nesse caso, a avaliação estará atrelada à apresentação certificada, bem como aos pareceres dos avaliadores da publicação em anais do evento. 
+Respeitando a INSTRUÇÃO NORMATIVA REITORIA/IFPR Nº 1, DE 26 DE JULHO DE 2021, o curso de licenciatura em Física dedica 10% de sua carga horária total para o desenvolvimento e implementação de ações de extensão, em um total de 320 h. Essa carga horária será complementada da seguinte maneira:
 
-Na defesa de conclusão de curso, para o segundo formato, o aluno terá duas opções: defesa perante a banca com artigo enviado para periódico com Qualis B3 ou superior; ou 
+A componente curricular Metodologia e Prática de Ensino de Física I dedicará 11h de sua ementa para a realização de práticas de extensão, voltadas para o desenvolvimento de ações que envolvam a comunidade externa do IFPR, preferencialmente, alunos e professores da educação básica da região, voltadas para o ensino de mecânica e termodinâmica em ambientes não formais e informais de ensino.
 
-134 
+A componente curricular Metodologia e Prática de Ensino de Física II também dedicará 12h de sua ementa para a realização de práticas de extensão, voltadas para o desenvolvimento de ações que envolvam a comunidade externa do IFPR, preferencialmente, alunos e professores da educação básica da região, voltadas para o ensino de ondulatória, eletromagnetismo e física moderna e contemporânea em ambientes não formais e informais de ensino.
 
-**==> picture [486 x 54] intentionally omitted <==**
+As demais 297h serão implementadas por meio das **Atividades Curriculares de Extensão** . Tais atividades serão divididas ao longo de todo o curso, sendo que cada semestre dedicará 33h para as mesmas. A implementação dessas atividades seguirá as seguintes normas:
 
-então o aluno será dispensado da defesa perante banca, caso possua artigo publicado ou aceito para publicação em periódico da área de Qualis B1 ou superior. Nesse caso, a avaliação se dará por análise dos pareceres do periódico pelo docente em conjunto com o orientador. 
+1) No primeiro período do curso, haverá um professor orientador, que abordará os conceitos e tipologias de extensão, além dos estudos das diretrizes de extensão e a elaboração de projetos e atividades de extensão.
 
-Na qualificação, bem como na defesa do TCC o aluno será avaliado de acordo com os seguintes critérios: 
+2) A partir do 2º período do curso, as Atividades Curriculares de Extensão consistirão em ações orientadas pelos docentes, que poderão tratar-se de programa, projeto, cursos e oficinas, eventos, publicações ou prestação de serviços. A componente será dedicada à construção, planejamento, execução e avaliação dessas ações.
 
-1. Exposição do trabalho (A,B,C,D); 
+3) Cada professor orientador poderá orientar no máximo 10 estudantes em ação de extensão. A orientação se dará em modalidade semi-direta.
 
-2. Conhecimento sobre o tema (A,B,C,D); 
+4) Competirá aos estudantes no cumprimento das as Atividades Curriculares de Extensão:
 
-3. Elaboração do texto (A,B,C,D). 
+I. Elaborar ações de extensão, sob orientação do Professor Orientador;
 
-## **3.12. Curricularização da Extensão** 
+- II. Respeitar normas e acordos de instituições que venham a desenvolver parcerias com o
 
-Respeitando a INSTRUÇÃO NORMATIVA REITORIA/IFPR Nº 1, DE 26 DE JULHO DE 2021, o curso de licenciatura em Física dedica 10% de sua carga horária total para o desenvolvimento e implementação de ações de extensão, em um total de 320 h. Essa carga horária será complementada da seguinte maneira: 
+- IFPR na realização das ações de extensão;
 
-A componente curricular Metodologia e Prática de Ensino de Física I dedicará 11h de sua ementa para a realização de práticas de extensão, voltadas para o desenvolvimento de ações que envolvam a comunidade externa do IFPR, preferencialmente, alunos e professores da educação básica da região, voltadas para o ensino de mecânica e termodinâmica em ambientes não formais e informais de ensino. 
+III. Participar ativamente das atividades de extensão programadas, bem como das reuniões de
 
-A componente curricular Metodologia e Prática de Ensino de Física II também dedicará 12h de sua ementa para a realização de práticas de extensão, voltadas para o desenvolvimento de ações que envolvam a comunidade externa do IFPR, preferencialmente, alunos e professores da educação básica da região, voltadas para o ensino de ondulatória, eletromagnetismo e física moderna e contemporânea em ambientes não formais e informais de ensino. 
+orientação;
 
-As demais 297h serão implementadas por meio das **Atividades Curriculares de Extensão** . Tais atividades serão divididas ao longo de todo o curso, sendo que cada semestre dedicará 33h para as mesmas. A implementação dessas atividades seguirá as seguintes normas: 
+IV. Observar e cumprir o cronograma estabelecido com o respectivo Professor Orientador para as atividades de extensão;
 
-1) No primeiro período do curso, haverá um professor orientador, que abordará os conceitos e tipologias de extensão, além dos estudos das diretrizes de extensão e a elaboração de projetos e atividades de extensão. 
+V. Participar ativamente das atividades de extensão, elaborar e implementar sua proposta de extensão;
 
-2) A partir do 2º período do curso, as Atividades Curriculares de Extensão consistirão em ações orientadas pelos docentes, que poderão tratar-se de programa, projeto, cursos e oficinas, eventos, publicações ou prestação de serviços. A componente será dedicada à construção, planejamento, execução e avaliação dessas ações. 
+VI. Elaborar artigo científico, diário de campo, portfólio ou documento equivalente, que sistematize as ações de extensão desenvolvidas no período;
 
-3) Cada professor orientador poderá orientar no máximo 10 estudantes em ação de extensão. A orientação se dará em modalidade semi-direta. 
+5) São atribuições do Coordenador do Curso em relação às Atividades Curriculares de Extensão:
 
-4) Competirá aos estudantes no cumprimento das as Atividades Curriculares de Extensão: 
+I. Supervisionar as atividades estabelecidas para as ações de extensão;
 
-I. Elaborar ações de extensão, sob orientação do Professor Orientador; 
+II. Assessorar o Professor Orientador, auxiliando-o nos encaminhamentos necessários à efetivação das atividades de extensão;
 
-- II. Respeitar normas e acordos de instituições que venham a desenvolver parcerias com o 
+III. Articular, em conjunto com o Professor Orientador, parcerias para a realização de ações de extensão;
 
-- IFPR na realização das ações de extensão; 
+6) São atribuições do Professor Orientador:
 
-III. Participar ativamente das atividades de extensão programadas, bem como das reuniões de 
+I. Apoiar o estudante na elaboração e implementação de ações de extensão;
 
-135 
+II. Acompanhar e orientar o conjunto de atividades de extensão, conforme estabelecido no PPC;
 
-**==> picture [486 x 54] intentionally omitted <==**
+III. Supervisionar as atividades de extensão, validando-as de acordo com a natureza das atividades definidas no PPC;
 
-orientação; 
+IV. Acompanhar a execução das ações de extensão pelos estudantes, subsidiando as ações necessárias e auxiliando nas atividades propostas;
 
-IV. Observar e cumprir o cronograma estabelecido com o respectivo Professor Orientador para as atividades de extensão; 
+V. Acompanhar e avaliar o desenvolvimento das ações de extensão;
 
-V. Participar ativamente das atividades de extensão, elaborar e implementar sua proposta de extensão; 
+VI. Orientar os estudantes sobre a elaboração dos artigos, diário de campo ou portifólio e realizar a análise e a avaliação dos mesmos;
 
-VI. Elaborar artigo científico, diário de campo, portfólio ou documento equivalente, que sistematize as ações de extensão desenvolvidas no período; 
+VII. Trabalhar em parceria com a Coordenação do Curso visando à efetivação das propostas de extensão.
 
-5) São atribuições do Coordenador do Curso em relação às Atividades Curriculares de Extensão: 
+7) Creditação da extensão:
 
-I. Supervisionar as atividades estabelecidas para as ações de extensão; 
+I. Não há previsão de creditação para discentes que participam de projetos de extensão devidamente cadastrados, como bolsistas ou voluntários.
 
-II. Assessorar o Professor Orientador, auxiliando-o nos encaminhamentos necessários à efetivação das atividades de extensão; 
+## **3.13. Atividades Complementares**
 
-III. Articular, em conjunto com o Professor Orientador, parcerias para a realização de ações de extensão; 
+A realização de atividades complementares será viabilizada por meio da efetiva participação do aluno em um conjunto de atividades de ensino, pesquisa,  extensão e inovação.
 
-6) São atribuições do Professor Orientador: 
+O aluno poderá optar por diferentes atividades, tendo a orientação docente. Essas atividades integrarão 207 horas do currículo obrigatório da Licenciatura em Física, conforme descritivo na Tabela 5, onde cada crédito corresponde a 10 horas de atividades. Esse quadro demonstra o máximo de horas que o aluno pode realizar por atividade. A secretaria manterá em arquivo o portfólio dos alunos com os documentos comprobatórios.
 
-I. Apoiar o estudante na elaboração e implementação de ações de extensão; 
+As Atividades Complementares permitirão o enriquecimento didático, curricular, científico e cultural e poderão ser realizadas em contextos sociais variados e situações não formais de ensino e aprendizagem. Elas representarão oportunidades para uma vivência
 
-II. Acompanhar e orientar o conjunto de atividades de extensão, conforme estabelecido no PPC; 
+universitária mais profunda, permitindo aos alunos escolhas segundo seus interesses e aptidões. Serão computadas nessa categoria a participação em congressos, simpósios e reuniões científicas e outros eventos dentro e de fora da do Campus de Ivaiporã do IFPR realizados ao longo do curso.
 
-III. Supervisionar as atividades de extensão, validando-as de acordo com a natureza das atividades definidas no PPC; 
+As atividades poderão ser desenvolvidas conforme tabela abaixo:
 
-IV. Acompanhar a execução das ações de extensão pelos estudantes, subsidiando as ações necessárias e auxiliando nas atividades propostas; 
+**Tabela 5 - Atividades complementares do curso.**
 
-V. Acompanhar e avaliar o desenvolvimento das ações de extensão; 
+## **4. Corpo Docente e Técnico Administrativo**
 
-VI. Orientar os estudantes sobre a elaboração dos artigos, diário de campo ou portifólio e realizar a análise e a avaliação dos mesmos; 
-
-VII. Trabalhar em parceria com a Coordenação do Curso visando à efetivação das propostas de extensão. 
-
-7) Creditação da extensão: 
-
-I. Não há previsão de creditação para discentes que participam de projetos de extensão devidamente cadastrados, como bolsistas ou voluntários. 
-
-## **3.13. Atividades Complementares** 
-
-A realização de atividades complementares será viabilizada por meio da efetiva participação do aluno em um conjunto de atividades de ensino, pesquisa,  extensão e inovação. 
-
-O aluno poderá optar por diferentes atividades, tendo a orientação docente. Essas atividades integrarão 207 horas do currículo obrigatório da Licenciatura em Física, conforme descritivo na Tabela 5, onde cada crédito corresponde a 10 horas de atividades. Esse quadro demonstra o máximo de horas que o aluno pode realizar por atividade. A secretaria manterá em arquivo o portfólio dos alunos com os documentos comprobatórios. 
-
-As Atividades Complementares permitirão o enriquecimento didático, curricular, científico e cultural e poderão ser realizadas em contextos sociais variados e situações não formais de ensino e aprendizagem. Elas representarão oportunidades para uma vivência 
-
-136 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-universitária mais profunda, permitindo aos alunos escolhas segundo seus interesses e aptidões. Serão computadas nessa categoria a participação em congressos, simpósios e reuniões científicas e outros eventos dentro e de fora da do Campus de Ivaiporã do IFPR realizados ao longo do curso. 
-
-As atividades poderão ser desenvolvidas conforme tabela abaixo: 
-
-**==> picture [455 x 296] intentionally omitted <==**
-
-**==> picture [455 x 118] intentionally omitted <==**
-
-**Tabela 5 - Atividades complementares do curso.** 
-
-## **4. Corpo Docente e Técnico Administrativo** 
-
-## **4.1. Corpo Docente** 
+## **4.1. Corpo Docente**
 
 |**Nome**|**Titulação**|**Regi**<br>**me de**<br>**Trabalho**|
 |---|---|---|
 |Adriano<br>José Ortiz|Graduação em Física  (UEL); Mestre em Ensino de Ciências -<br>UEL. Doutor em Educaçãopara Ciências(UEM)|DE|
 |Ailton da|Licenciatura em Física(UEM). Mestrado em Física da matéria|DE|
-
-
-
-137 
-
-**==> picture [486 x 54] intentionally omitted <==**
 
 |Silva Ferreira|condensada (UEM). Doutorado em ciência e engenharia de materiais<br>(UFSC)||
 |---|---|---|
@@ -3135,13 +2457,7 @@ As atividades poderão ser desenvolvidas conforme tabela abaixo:
 |Thiago<br>Queiroz Costa|Licenciado em Física (UEL). Mestre em Ensino de Física (UEL)|DE|
 |Thiago<br>Vinícius<br>Moreira<br>Guimarães|Doutor em Física de partículas e campos (UNESP). Mestre em<br>Física Teórica (UNESP). Licenciado em Física (UEM).|DE|
 
-
-
-## **4.1.1. Atribuições do Coordenador** 
-
-138 
-
-**==> picture [486 x 54] intentionally omitted <==**
+## **4.1.1. Atribuições do Coordenador**
 
 |Compete ao Coordenador do curso de Licenciatura em Física:|Compete ao Coordenador do curso de Licenciatura em Física:|
 |---|---|
@@ -3185,25 +2501,19 @@ As atividades poderão ser desenvolvidas conforme tabela abaixo:
 |✔|Elaborar,<br>com<br>o auxílio dos docentes, termos de referências,|
 |especificações, planilhas e memoriais,||
 
+✔ para suprimento de materiais, obras, serviços e equipamentos às necessidades do curso;
 
+✔ Acompanhar comissões de avaliação de curso, bem como fornecer informações do curso solicitadas
 
-139 
+- ✔ pelos órgãos da Reitoria e também pelas seções do MEC;
 
-**==> picture [486 x 54] intentionally omitted <==**
+## **4.1.2. Experiência do Coordenador**
 
-✔ para suprimento de materiais, obras, serviços e equipamentos às necessidades do curso; 
+Professor do Campus de Ivaiporã do Instituto Federal do Paraná (IFPR). Doutorado em Física de partículas e campos e mestrado em física teórica, ambos pela Universidade Estadual Paulista. Licenciatura  em Física pela Universidade Estadual de Maringá. Possui experiência como professor no Ensino Superior desde 2014. Áreas de interesse: Física Partículas e campos, espinores, cosmologia quântica, defeitos topológicos.
 
-✔ Acompanhar comissões de avaliação de curso, bem como fornecer informações do curso solicitadas 
+## **4.1.3. Núcleo Estruturante (NDE)**
 
-- ✔ pelos órgãos da Reitoria e também pelas seções do MEC; 
-
-## **4.1.2. Experiência do Coordenador** 
-
-Professor do Campus de Ivaiporã do Instituto Federal do Paraná (IFPR). Doutorado em Física de partículas e campos e mestrado em física teórica, ambos pela Universidade Estadual Paulista. Licenciatura  em Física pela Universidade Estadual de Maringá. Possui experiência como professor no Ensino Superior desde 2014. Áreas de interesse: Física Partículas e campos, espinores, cosmologia quântica, defeitos topológicos. 
-
-## **4.1.3. Núcleo Estruturante (NDE)** 
-
-O NDE respeitará as atribuições constantes nas resoluções 08/2014 e 15/2014, sendo composto pelos seguintes membros, de acordo com a portaria 162/2016 da direção geral do campus Ivaiporã: 
+O NDE respeitará as atribuições constantes nas resoluções 08/2014 e 15/2014, sendo composto pelos seguintes membros, de acordo com a portaria 162/2016 da direção geral do campus Ivaiporã:
 
 |**Nome**|**Titulação**|**Regim**<br>**e de**<br>**Trabalho**|
 |---|---|---|
@@ -3219,69 +2529,59 @@ O NDE respeitará as atribuições constantes nas resoluções 08/2014 e 15/2014
 |Thiago<br>Queiroz Costa|Licenciado em Física (UEL). Mestre em Ensino de Física<br>(UEL)|DE|
 |Thiago<br>Vinícius Moreira<br>Guimarães|Doutor em Física de partículas e campos (UNESP). Mestre<br>em Física Teórica (UNESP). Licenciado em Física (UEM).|DE|
 
+## **4.1.4. Colegiado de Curso**
 
+O Colegiado deste curso de Licenciatura é formado por todos os docentes que estiverem lecionando no curso, podendo ser qualquer docente apresentado no item 4 deste Projeto Pedagógico, por dois representantes do corpo discente e por um representante do corpo de técnicos-administrativos do Campus.
 
-140 
+O Colegiado se reunirá sempre que for convocado pelo Coordenador do curso e será coordenado por um docente e na sua ausência pela Coordenação de Ensino do campus. Cabe ao colegiado de curso:
 
-**==> picture [486 x 54] intentionally omitted <==**
+**●** Reunir-se periodicamente com periodicidade mínima bimestral, por convocação da coordenação do curso ou da Direção de Ensino, Pesquisa e Extensão do campus.
 
-## **4.1.4. Colegiado de Curso** 
+**●** Cumprir e fazer cumprir as normas da instituição para o pleno funcionamento do curso.
 
-O Colegiado deste curso de Licenciatura é formado por todos os docentes que estiverem lecionando no curso, podendo ser qualquer docente apresentado no item 4 deste Projeto Pedagógico, por dois representantes do corpo discente e por um representante do corpo de técnicos-administrativos do Campus. 
+**●** Propor revisão do Plano de curso, respeitando as diretrizes e normas institucionais.
 
-O Colegiado se reunirá sempre que for convocado pelo Coordenador do curso e será coordenado por um docente e na sua ausência pela Coordenação de Ensino do campus. Cabe ao colegiado de curso: 
+**●** Manifestar-se sobre as formas de admissão e seleção, bem como número de vagas iniciais, no que lhe couber.
 
-**●** Reunir-se periodicamente com periodicidade mínima bimestral, por convocação da coordenação do curso ou da Direção de Ensino, Pesquisa e Extensão do campus. 
+**●** Estabelecer normas internas de funcionamento do curso.
 
-**●** Cumprir e fazer cumprir as normas da instituição para o pleno funcionamento do curso. 
+**●** Zelar pelo cumprimento dos planos de ensino dos componentes curriculares.
 
-**●** Propor revisão do Plano de curso, respeitando as diretrizes e normas institucionais. 
+**●** Orientar e acompanhar a vida acadêmica dos alunos do curso.
 
-**●** Manifestar-se sobre as formas de admissão e seleção, bem como número de vagas iniciais, no que lhe couber. 
+**●** Deliberar sobre requerimentos de alunos no âmbito de suas competências.
 
-**●** Estabelecer normas internas de funcionamento do curso. 
+**●** Deliberar o horário de aulas do curso.
 
-**●** Zelar pelo cumprimento dos planos de ensino dos componentes curriculares. 
+**●** Deliberar sobre matérias submetidas à apreciação do colegiado.
 
-**●** Orientar e acompanhar a vida acadêmica dos alunos do curso. 
+**●** Decidir sobre aprovação ou reprovação de estudantes com dificuldade de aproveitamento nos componentes curriculares, em casos específicos que extrapolem a competência didático-avaliativo-pedagógica docente. Para tanto, a solicitação poderá ser realizada pelo discente ou docente ao coordenador do curso, que poderá levá-la para análise do colegiado ou indeferi-la.
 
-**●** Deliberar sobre requerimentos de alunos no âmbito de suas competências. 
+## **4.1.5. Políticas de Capacitação Docente**
 
-**●** Deliberar o horário de aulas do curso. 
+A distribuição das atividades semanais segue a Resolução 2/2009 do Conselho Superior do IFPR e a Resolução 48/2011 do mesmo conselho que normatizam o Programa de Qualificação e Formação dos servidores. No Campus de Ivaiporã, os docentes podem se capacitar em programas de Pós-Graduação desde que as atividades de ensino, pesquisa, extensão e inovação não sejam prejudicadas, precisando para isso preencher solicitação e encaminhar ao Colégio Dirigente do Campus.
 
-**●** Deliberar sobre matérias submetidas à apreciação do colegiado. 
+## **4.1.6. Plano de Cargos e Salários dos Docentes**
 
-**●** Decidir sobre aprovação ou reprovação de estudantes com dificuldade de aproveitamento nos componentes curriculares, em casos específicos que extrapolem a competência didático-avaliativo-pedagógica docente. Para tanto, a solicitação poderá ser realizada pelo discente ou docente ao coordenador do curso, que poderá levá-la para análise do colegiado ou indeferi-la. 
+O Instituto Federal do Paraná, por situar-se no âmbito da Rede pública Federal de Educação Profissional e Tecnológica, possui um quadro docente constituído a partir de concurso público de provas e títulos. Os profissionais aprovados pelo concurso público ingressam no Plano de Carreira e Cargos do Magistério do Ensino Básico, Técnico e Tecnológico, Lei 11.784/2008.
 
-## **4.1.5. Políticas de Capacitação Docente** 
+A remuneração docente se constitui dos seguintes componentes:
 
-A distribuição das atividades semanais segue a Resolução 2/2009 do Conselho Superior do IFPR e a Resolução 48/2011 do mesmo conselho que normatizam o Programa de Qualificação e Formação dos servidores. No Campus de Ivaiporã, os docentes podem se capacitar em programas de Pós-Graduação desde que as atividades de ensino, pesquisa, extensão e inovação não sejam prejudicadas, precisando para isso preencher solicitação e encaminhar ao Colégio Dirigente do Campus. 
+✔ Vencimento Básico;
 
-## **4.1.6. Plano de Cargos e Salários dos Docentes** 
+✔ Gratificação Específica de Atividade Docente do Ensino Básico, Técnico e Tecnológico- GEDBT (art. 116); ✔ Retribuição por Titulação- RT (art. 117);
 
-O Instituto Federal do Paraná, por situar-se no âmbito da Rede pública Federal de Educação Profissional e Tecnológica, possui um quadro docente constituído a partir de concurso público de provas e títulos. Os profissionais aprovados pelo concurso público ingressam no Plano de Carreira e Cargos do Magistério do Ensino Básico, Técnico e Tecnológico, Lei 11.784/2008. 
+A carreira docente se divide em seis classes: D I, D II, D III, D IV, D V e PROFESSOR TITULAR.
 
-A remuneração docente se constitui dos seguintes componentes: 
+As classes D I, D II e D III contém 4 níveis. A classe D IV contém 1 nível.  A Classe D V contém 3 níveis.  E, por fim, a classe Professor Titular possui nível único.
 
-✔ Vencimento Básico; 
+A progressão na carreira pode ser dar de duas formas:
 
-141 
+✔ Progressão funcional por Titulação – O servidor receberá RT (Retribuição por Titulação) equivalente à titulação.
 
-**==> picture [486 x 54] intentionally omitted <==**
+✔ Progressão por desempenho acadêmico (progressão por mérito mediante avaliação de desempenho, realizada a cada 18 meses). ✔ avaliação de desempenho, realizada a cada 18 meses).
 
-✔ Gratificação Específica de Atividade Docente do Ensino Básico, Técnico e Tecnológico- GEDBT (art. 116); ✔ Retribuição por Titulação- RT (art. 117); 
-
-A carreira docente se divide em seis classes: D I, D II, D III, D IV, D V e PROFESSOR TITULAR. 
-
-As classes D I, D II e D III contém 4 níveis. A classe D IV contém 1 nível.  A Classe D V contém 3 níveis.  E, por fim, a classe Professor Titular possui nível único. 
-
-A progressão na carreira pode ser dar de duas formas: 
-
-✔ Progressão funcional por Titulação – O servidor receberá RT (Retribuição por Titulação) equivalente à titulação. 
-
-✔ Progressão por desempenho acadêmico (progressão por mérito mediante avaliação de desempenho, realizada a cada 18 meses). ✔ avaliação de desempenho, realizada a cada 18 meses). 
-
-## **4.2. Corpo Técnico Administrativo** 
+## **4.2. Corpo Técnico Administrativo**
 
 |**Nome**|**Formação**|**Regi**<br>**me de**<br>**Trabalho**|**Função**|
 |---|---|---|---|
@@ -3295,12 +2595,6 @@ A progressão na carreira pode ser dar de duas formas:
 |Daniele<br>de Oliveira|Bacharel em Administração (Unicentro).<br>Especialista em Gestão Pública.|40<br>horas|Assistente<br>em Administração|
 |Emanuell<br>y Boeing Vilas<br>Boas|Bacharel em Direito (UNIVALE). Especialista<br>em Gestão Pública.|40<br>horas|Assistente<br>em Administração|
 |Fabiana<br>Aparecida<br>Pereira da|Bacharel em Administração. Especialista em<br>Gestão Pública.|40<br>horas|Assistente<br>em Administração|
-
-
-
-142 
-
-**==> picture [486 x 54] intentionally omitted <==**
 
 |Silva||||
 |---|---|---|---|
@@ -3325,55 +2619,43 @@ A progressão na carreira pode ser dar de duas formas:
 |Sidiney<br>Batista de Lara|Bacharel Ciências Contábeis ( UNICETRO)|40<br>horas|Técnico<br>Contábil|
 |Simone|Bacharel em Ciências Contábeis (UNIVALE)|40|Auxiliar de|
 
-
-
-143 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
 |Ferreira Souza||horas|Biblioteca|
 |---|---|---|---|
 |Simone<br>Urnauer|Licenciatura em Letras Português/Espanhol.<br>Especialista em Gestão e Organização Escolar.|40<br>horas|Técnica em<br>Assuntos<br>Educacionais|
 |Tatiana<br>Oliveira Couto<br>Silva|Licenciatura em Pedagogia; Especialista em<br>Gestão Pública (UEM); Mestre em Gestão da<br>Educação Pública (UFJF)|40<br>horas|Assistente<br>de Alunos|
 |Thamires<br>Caroline de<br>Oliveira|<br>Bacharel em Serviço Social (UEL);<br>Especialização em Saúde Coletiva e Saúde da<br>Familia(Faculdade Pitágoras de Londrina).|40<br>horas|Assistente<br>Social|
 
+## **4.2.1. Políticas de Capacitação do Técnico Administrativo**
 
+Assim como no caso dos docentes, a Resolução 48/2011 do Conselho Superior normatiza o Programa de Qualificação e Formação dos servidores. Os servidores técnico-administrativos podem se capacitar em programas de Graduação e Pós-Graduação desde que as atividades semanais respectivas de cada função não sejam prejudicadas, precisando para isso preencher solicitação e encaminhar ao Colégio Dirigente do Campus.
 
-## **4.2.1. Políticas de Capacitação do Técnico Administrativo** 
+## **4.2.2. Plano de Cargos e Salários dos Servidores Técnico-Administrativos**
 
-Assim como no caso dos docentes, a Resolução 48/2011 do Conselho Superior normatiza o Programa de Qualificação e Formação dos servidores. Os servidores técnico-administrativos podem se capacitar em programas de Graduação e Pós-Graduação desde que as atividades semanais respectivas de cada função não sejam prejudicadas, precisando para isso preencher solicitação e encaminhar ao Colégio Dirigente do Campus. 
+O Instituto Federal do Paraná, por situar-se no âmbito da Rede Pública Federal de Educação Profissional e Tecnológica, possui um quadro técnico-administrativo constituído a partir de concurso público. Os profissionais aprovados pelo concurso público ingressam no Plano de Carreira dos Cargos Técnico-Administrativos em Educação, normatizado dentre outras legislações, pelas Leis 8.112/90 e 11.091/2005.
 
-## **4.2.2. Plano de Cargos e Salários dos Servidores Técnico-Administrativos** 
+O Plano de Carreira está estruturado em 5 (cinco) níveis de classificação (A, B. C. D e E), que estão relacionados ao nível mínimo de titulação exigido ao cargo,  com 4 (quatro) níveis de capacitação cada (I, II, III e IV).
 
-O Instituto Federal do Paraná, por situar-se no âmbito da Rede Pública Federal de Educação Profissional e Tecnológica, possui um quadro técnico-administrativo constituído a partir de concurso público. Os profissionais aprovados pelo concurso público ingressam no Plano de Carreira dos Cargos Técnico-Administrativos em Educação, normatizado dentre outras legislações, pelas Leis 8.112/90 e 11.091/2005. 
+O desenvolvimento do servidor na carreira ocorre, exclusivamente, pela mudança de nível de capacitação e de padrão de vencimento mediante, respectivamente, Progressão por Capacitação Profissional ou Progressão por Mérito Profissional, a cada 18 meses mediante avaliação de desempenho, conforme Anexo III e Anexo I-C, respectivamente, da Lei do Plano de Carreira.
 
-O Plano de Carreira está estruturado em 5 (cinco) níveis de classificação (A, B. C. D e E), que estão relacionados ao nível mínimo de titulação exigido ao cargo,  com 4 (quatro) níveis de capacitação cada (I, II, III e IV). 
+O servidor técnico-administrativo que apresentar titulação superior ao exigido para o cargo fará jus a incentivo à qualificação, nos termos e percentuais definidos no Anexo IV da Lei do Plano de Carreira, não caracterizando qualquer tipo de progressão de carreira.
 
-O desenvolvimento do servidor na carreira ocorre, exclusivamente, pela mudança de nível de capacitação e de padrão de vencimento mediante, respectivamente, Progressão por Capacitação Profissional ou Progressão por Mérito Profissional, a cada 18 meses mediante avaliação de desempenho, conforme Anexo III e Anexo I-C, respectivamente, da Lei do Plano de Carreira. 
+## **4.2.3 Contratação de técnicos-administrativos**
 
-O servidor técnico-administrativo que apresentar titulação superior ao exigido para o cargo fará jus a incentivo à qualificação, nos termos e percentuais definidos no Anexo IV da Lei do Plano de Carreira, não caracterizando qualquer tipo de progressão de carreira. 
+Para a concretização do curso ao longo dos quatro anos, assim como da manutenção dele, serão contratados Técnicos-administrativos em Educação a fim de atender aos alunos da Licenciatura em Física. Além de contar com alguns desses profissionais já presentes no campus, o curso precisa de alguns específicos que colaborem na realização dos objetivos do Instituto Federal do Paraná – Campus de Ivaiporã. Assim, serão imprescindíveis a contratação do seguinte quadro de Técnicos-administrativos em Educação:
 
-## **4.2.3 Contratação de técnicos-administrativos** 
+- 1 Pedagogo;
 
-Para a concretização do curso ao longo dos quatro anos, assim como da manutenção dele, serão contratados Técnicos-administrativos em Educação a fim de atender aos alunos da Licenciatura em Física. Além de contar com alguns desses profissionais já presentes no campus, o curso precisa de alguns específicos que colaborem na realização dos objetivos do Instituto Federal do Paraná – Campus de Ivaiporã. Assim, serão imprescindíveis a contratação do seguinte quadro de Técnicos-administrativos em Educação: 
+- 1 Assistente Social;
 
-- 1 Pedagogo; 
+● 1 Psicólogo;
 
-- 1 Assistente Social; 
+- 2 Técnicos específicos para o Laboratório de Física;
 
-144 
+● 1 Técnico de TI.
 
-**==> picture [486 x 54] intentionally omitted <==**
+## **5. INSTALAÇÕES FÍSICAS**
 
-● 1 Psicólogo; 
-
-- 2 Técnicos específicos para o Laboratório de Física; 
-
-● 1 Técnico de TI. 
-
-## **5. INSTALAÇÕES FÍSICAS** 
-
-## **5.1. Áreas de Ensino Específicas** 
+## **5.1. Áreas de Ensino Específicas**
 
 |<br>**Ambiente**|<br>**Existente**<br>**(sim/não)**|<br>**A construir**<br>**(sim/não)**|**Área (m2)**|
 |---|---|---|---|
@@ -3382,9 +2664,7 @@ Para a concretização do curso ao longo dos quatro anos, assim como da manuten�
 |**Coordena**<br>**doria de curso**|Sim|----------|60,00|
 |**Sala de**<br>**reuniões**|Sim|-------------|60,00|
 
-
-
-## **5.2. Áreas de Estudo Geral** 
+## **5.2. Áreas de Estudo Geral**
 
 |**Ambiente**|**Existente**<br>**(sim/não)**|**A construir**<br>**(sim/não)**|**Área (m2)**|
 |---|---|---|---|
@@ -3392,23 +2672,15 @@ Para a concretização do curso ao longo dos quatro anos, assim como da manuten�
 |**Laboratór**<br>**io de**<br>**Informática***<br>**(2 Salas)**|Sim||60,00 e<br>40,00|
 |**Laboratór**<br>**io móvel (1)***|Sim|----------|25,00|
 
+* Os equipamentos estão no Anexo I
 
-
-* Os equipamentos estão no Anexo I 
-
-145 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-## **5.3 Áreas de Estudo Específico** 
+## **5.3 Áreas de Estudo Específico**
 
 |**Ambiente**|**Existente**<br>**(sim/não)**|**A construir**<br>**(sim/não)**|**Área (m2)**|
 |---|---|---|---|
 |**Laboratór**<br>**io de Física***<br>**(2)**|Sim|Sim|30,00|
 
-
-
-## **5.4. Áreas de Esporte e Vivência** 
+## **5.4. Áreas de Esporte e Vivência**
 
 |**Existente**<br>**(sim/não)**|**A construir**<br>**(sim/não)**|**Área (m2)**|
 |---|---|---|
@@ -3416,9 +2688,7 @@ Para a concretização do curso ao longo dos quatro anos, assim como da manuten�
 |Sim|----------|10,00|
 |Não|Sim|----------|
 
-
-
-## **5.5. Áreas de Atendimento Discente** 
+## **5.5. Áreas de Atendimento Discente**
 
 |**5.5. Áreas de Atendimento Discente**|||
 |---|---|---|
@@ -3429,13 +2699,7 @@ Para a concretização do curso ao longo dos quatro anos, assim como da manuten�
 |**Primeiros Socorros**|Não|Sim|
 |**Serviço Social**|Sim|--------<br>-|
 
-
-
-146 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-## **5.6. Áreas de Apoio** 
+## **5.6. Áreas de Apoio**
 
 |**Ambiente**|**Existente**<br>**(sim/não)**|**A construir**<br>**(sim/não)**|**Área (m2)**|
 |---|---|---|---|
@@ -3443,383 +2707,333 @@ Para a concretização do curso ao longo dos quatro anos, assim como da manuten�
 |**Salão de**<br>**Convenção**|Não|Sim|----------|
 |**Sala de**<br>**Audiovisual**|Não|Sim|----------|
 
+## **5.7. Biblioteca**
 
+A Biblioteca do Campus de Ivaiporã, subordinada ao Sistema de Bibliotecas (SIBI) do Instituto Federal do Paraná (IFPR), é o órgão encarregado de fornecer material informacional à comunidade acadêmica, auxiliando no desenvolvimento do ensino, da pesquisa e da extensão.
 
-## **5.7. Biblioteca** 
+A biblioteca vem se adaptando às modernas tecnologias, com o objetivo de atender aos padrões exigidos para o bom funcionamento de seus serviços e oferecer um atendimento de qualidade. Está informatizada e utiliza o sistema de controle Pergamum.
 
-A Biblioteca do Campus de Ivaiporã, subordinada ao Sistema de Bibliotecas (SIBI) do Instituto Federal do Paraná (IFPR), é o órgão encarregado de fornecer material informacional à comunidade acadêmica, auxiliando no desenvolvimento do ensino, da pesquisa e da extensão. 
+Horário de Funcionamento **:** Segunda a Sexta das 8h às 22 horas.
 
-A biblioteca vem se adaptando às modernas tecnologias, com o objetivo de atender aos padrões exigidos para o bom funcionamento de seus serviços e oferecer um atendimento de qualidade. Está informatizada e utiliza o sistema de controle Pergamum. 
+Visando o bom funcionamento dos serviços prestados, o Sistema de Bibliotecas do Instituto Federal do Paraná (IFPR), estabelece as normas gerais de uso:
 
-Horário de Funcionamento **:** Segunda a Sexta das 8h às 22 horas. 
+## 1. DO EMPRÉSTIMO DE MATERIAL BIBLIOGRÁFICO
 
-Visando o bom funcionamento dos serviços prestados, o Sistema de Bibliotecas do Instituto Federal do Paraná (IFPR), estabelece as normas gerais de uso: 
+- I. Será obrigatória a apresentação da Carteira de Identificação, no ato do empréstimo;
 
-## 1. DO EMPRÉSTIMO DE MATERIAL BIBLIOGRÁFICO 
+II. Ao efetuar o empréstimo, o usuário ficará inteiramente responsável pela preservação do material retirado;
 
-- I. Será obrigatória a apresentação da Carteira de Identificação, no ato do empréstimo; 
+III. Não estarão disponíveis para empréstimo domiciliar:
 
-II. Ao efetuar o empréstimo, o usuário ficará inteiramente responsável pela preservação do material retirado; 
+- a) Livros cuja demanda seja maior que o número de exemplares existentes;
 
-III. Não estarão disponíveis para empréstimo domiciliar: 
+b) Livros e/ou material que necessitem de cuidados especiais, por definição da Bibliotecária responsável;
 
-- a) Livros cuja demanda seja maior que o número de exemplares existentes; 
+- c) Livros e/ou material de reserva e de consulta local;
 
-b) Livros e/ou material que necessitem de cuidados especiais, por definição da Bibliotecária responsável; 
+- d) Material especial: disquetes e cds considerados como obras de referência;
 
-- c) Livros e/ou material de reserva e de consulta local; 
+e) Obras de referência: atlas, catálogos, dicionários e enciclopédias;
 
-- d) Material especial: disquetes e cds considerados como obras de referência; 
+f) Publicações periódicas;
 
-147 
+## 2. DAS PENALIDADES
 
-**==> picture [486 x 54] intentionally omitted <==**
+I. O usuário em débito com a biblioteca, não poderá efetuar, cancelar ou trancar matrícula, nem solicitar transferência;
 
-e) Obras de referência: atlas, catálogos, dicionários e enciclopédias; 
+II. O usuário em débito, não poderá utilizar nenhum serviço da biblioteca, até que regularize sua situação;
 
-f) Publicações periódicas; 
+III. O usuário que extraviar material em seu poder, deverá providenciar a reposição da obra e cumprir o período de suspensão correspondente entre a data de término do prazo do empréstimo e a efetiva reposição da obra.
 
-## 2. DAS PENALIDADES 
+IV. O prazo máximo para reposição é de 30 (trinta) dias a contar da data em que venceu o prazo para devolução.
 
-I. O usuário em débito com a biblioteca, não poderá efetuar, cancelar ou trancar matrícula, nem solicitar transferência; 
+## 3. DAS OBRIGAÇÕES DOS USUÁRIOS
 
-II. O usuário em débito, não poderá utilizar nenhum serviço da biblioteca, até que regularize sua situação; 
+I. Deixar bolsas, malas, mochilas, pastas, pacotes e outros objetos no guarda-volumes, na entrada da Biblioteca;
 
-III. O usuário que extraviar material em seu poder, deverá providenciar a reposição da obra e cumprir o período de suspensão correspondente entre a data de término do prazo do empréstimo e a efetiva reposição da obra. 
+II. Levar seus pertences ao sair da Biblioteca;
 
-IV. O prazo máximo para reposição é de 30 (trinta) dias a contar da data em que venceu o prazo para devolução. 
+III. Deixar sobre as mesas, o material utilizado nas consultas e empréstimo local, não os recolocando nas estantes;
 
-## 3. DAS OBRIGAÇÕES DOS USUÁRIOS 
+IV. Manter silêncio;
 
-I. Deixar bolsas, malas, mochilas, pastas, pacotes e outros objetos no guarda-volumes, na entrada da Biblioteca; 
+V. Devolver o material emprestado para uso domiciliar na data estabelecida e, exclusivamente no balcão de empréstimo;
 
-II. Levar seus pertences ao sair da Biblioteca; 
+VI. Comparecer à biblioteca quando solicitado;
 
-III. Deixar sobre as mesas, o material utilizado nas consultas e empréstimo local, não os recolocando nas estantes; 
+VII. Informar imediatamente a Biblioteca em caso de dano, extravio ou perda de material e providenciar sua reposição dentro do prazo estipulado;
 
-IV. Manter silêncio; 
+VIII. Manter seus dados pessoais atualizados no cadastro da Biblioteca.
 
-V. Devolver o material emprestado para uso domiciliar na data estabelecida e, exclusivamente no balcão de empréstimo; 
+IX. Não retirar nenhum tipo de material da biblioteca, sem efetivar o empréstimo no balcão de atendimento.
 
-VI. Comparecer à biblioteca quando solicitado; 
+## 4. DOS DIREITOS DOS USUÁRIOS
 
-VII. Informar imediatamente a Biblioteca em caso de dano, extravio ou perda de material e providenciar sua reposição dentro do prazo estipulado; 
+I. Fazer pesquisas bibliográficas nos terminais disponíveis para consulta na Biblioteca;
 
-VIII. Manter seus dados pessoais atualizados no cadastro da Biblioteca. 
+II. Realizar empréstimo domiciliar do material bibliográfico, obedecendo aos critérios estabelecidos;
 
-IX. Não retirar nenhum tipo de material da biblioteca, sem efetivar o empréstimo no balcão de atendimento. 
+III. Solicitar renovação do prazo de empréstimo do material, caso não haja reservas;
 
-## 4. DOS DIREITOS DOS USUÁRIOS 
+IV. Utilizar o espaço físico da biblioteca para fins de pesquisa, estudo e leitura de lazer;
 
-I. Fazer pesquisas bibliográficas nos terminais disponíveis para consulta na Biblioteca; 
+V. Utilizar seu próprio material bibliográfico (informando no balcão de atendimento) e laptops.
 
-148 
+## 5. DAS DISPOSIÇÕES GERAIS
 
-**==> picture [486 x 54] intentionally omitted <==**
+I. No período de férias escolares, a Biblioteca atenderá em horário reduzido;
 
-II. Realizar empréstimo domiciliar do material bibliográfico, obedecendo aos critérios estabelecidos; 
+II. É expressamente proibido fazer uso de aparelhos eletrônicos (telefone celular, rádios, jogos eletrônicos e outros) nas dependências da biblioteca;
 
-III. Solicitar renovação do prazo de empréstimo do material, caso não haja reservas; 
+III. Não é permitido o consumo de alimentos e bebidas nas dependências da biblioteca;
 
-IV. Utilizar o espaço físico da biblioteca para fins de pesquisa, estudo e leitura de lazer; 
+IV. Os casos não previstos neste regulamento serão resolvidos pela Chefia da Biblioteca.
 
-V. Utilizar seu próprio material bibliográfico (informando no balcão de atendimento) e laptops. 
+## **6. PLANEJAMENTO ECONÔMICO FINANCEIRO**
 
-## 5. DAS DISPOSIÇÕES GERAIS 
+## **6.1 Expansão do quadro docente**
 
-I. No período de férias escolares, a Biblioteca atenderá em horário reduzido; 
+Para a concretização do curso ao longo dos quatro anos e meio, serão contratados docentes que lecionem em disciplinas específicas condizentes com os objetivos do Instituto Federal do Paraná – Campus de Ivaiporã. Assim, além de docentes de Física, será fundamental a contratação de docentes graduados em Pedagogia, ou em outras áreas afins da Educação. Dessa forma, para a realização do curso em plenas condições de qualidade de Ensino e Aprendizado, é imprescindível a contratação do seguinte quadro de docentes:
 
-II. É expressamente proibido fazer uso de aparelhos eletrônicos (telefone celular, rádios, jogos eletrônicos e outros) nas dependências da biblioteca; 
+   - 1 docente licenciado em Pedagogia;
 
-III. Não é permitido o consumo de alimentos e bebidas nas dependências da biblioteca; 
+   - 2 docentes licenciados em Matemática;
 
-IV. Os casos não previstos neste regulamento serão resolvidos pela Chefia da Biblioteca. 
+   - 1 docente licenciado em Letras –  Português/LIBRAS;
 
-## **6. PLANEJAMENTO ECONÔMICO FINANCEIRO** 
+   - 1 docente licenciado em Física;
 
-## **6.1 Expansão do quadro docente** 
+- 1 docente licenciado em Informática, ou em Ciência da Computação, ou em Sistema
 
-Para a concretização do curso ao longo dos quatro anos e meio, serão contratados docentes que lecionem em disciplinas específicas condizentes com os objetivos do Instituto Federal do Paraná – Campus de Ivaiporã. Assim, além de docentes de Física, será fundamental a contratação de docentes graduados em Pedagogia, ou em outras áreas afins da Educação. Dessa forma, para a realização do curso em plenas condições de qualidade de Ensino e Aprendizado, é imprescindível a contratação do seguinte quadro de docentes: 
+- de Informação;
 
-   - 1 docente licenciado em Pedagogia; 
+2 docentes licenciados na área de Ciências Humanas – História, Filosofia ou Sociologia;
 
-   - 2 docentes licenciados em Matemática; 
+## **6.2 Projeção da aquisição de materiais permanente e Consumo**
 
-   - 1 docente licenciado em Letras –  Português/LIBRAS; 
+Para este curso, a estrutura segue as mesmas necessárias pelos cursos já em funcionamento no Campus. Assim, as compras de materiais permanentes e de consumo e
 
-   - 1 docente licenciado em Física; 
+a expansão do quadro docente já estão previstas e otimizadas, conforme determina o Inciso III do Artigo 6 da Lei 11.892/2008. O principal laboratório para atender esta Licenciatura é o Laboratório de Física, cujo parte dos equipamentos básicos já foram adquiridos, conforme o Anexo I.
 
-- 1 docente licenciado em Informática, ou em Ciência da Computação, ou em Sistema 
+## **6.3 Projeção de aquisição de acervo bibliográfico**
 
-- de Informação; 
+Todos os livros indicados neste Projeto Pedagógico Curricular já se encontram disponíveis na Biblioteca ou em processo de compra na atual data, em acordo com as exigências do Ministério da Educação, bem como da instituição.
 
-2 docentes licenciados na área de Ciências Humanas – História, Filosofia ou Sociologia; 
+## **MINISTÉRIO DA EDUCAÇÃO**
 
-## **6.2 Projeção da aquisição de materiais permanente e Consumo** 
+**SECRETARIA DE EDUCAÇÃO SUPERIOR INSTITUTO FEDERAL DO PARANÁ CAMPUS IVAIPORÃ**
 
-Para este curso, a estrutura segue as mesmas necessárias pelos cursos já em funcionamento no Campus. Assim, as compras de materiais permanentes e de consumo e 
+# **REGULAMENTO DE ESTÁGIO CURRICULAR SUPERVISIONADO DO CURSO DE LICENCIATURA EM FÍSICA**
 
-149 
+## **IVAIPORÃ, 2016**
 
-**==> picture [486 x 54] intentionally omitted <==**
+## **CAPÍTULO I DA NATUREZA E DAS FINALIDADES**
 
-a expansão do quadro docente já estão previstas e otimizadas, conforme determina o Inciso III do Artigo 6 da Lei 11.892/2008. O principal laboratório para atender esta Licenciatura é o Laboratório de Física, cujo parte dos equipamentos básicos já foram adquiridos, conforme o Anexo I. 
+**Art. 1 -** O estágio é ato educativo escolar supervisionado, desenvolvido no ambiente de trabalho, que visa à preparação para a prática profissional do educando que esteja frequentando o ensino regular em instituições de educação superior, de educação profissional, de ensino médio e dos anos finais do ensino fundamental, na modalidade profissional da educação de jovens e adultos, conforme a Lei 11788/08.
 
-## **6.3 Projeção de aquisição de acervo bibliográfico** 
+**Art. 2 -** Este regulamento visa normatizar a organização, realização, supervisão e avaliação do Estágio Curricular Supervisionado previsto para o Curso de Licenciatura em Física em conformidade com a resolução 02/2013 do Conselho Superior do IFPR.
 
-Todos os livros indicados neste Projeto Pedagógico Curricular já se encontram disponíveis na Biblioteca ou em processo de compra na atual data, em acordo com as exigências do Ministério da Educação, bem como da instituição. 
+**Parágrafo Único -** O Estágio Curricular Supervisionado tem caráter obrigatório para o Curso de Licenciatura em Física constituindo-se como instrumento de observação, análise e apropriação dos elementos de organização do trabalho pedagógico, da gestão escolar e das políticas educacionais.
 
-## **MINISTÉRIO DA EDUCAÇÃO** 
+**Art. 3 -** A realização do Estágio Curricular Supervisionado tem como objetivos:
 
-**SECRETARIA DE EDUCAÇÃO SUPERIOR INSTITUTO FEDERAL DO PARANÁ CAMPUS IVAIPORÃ** 
+   - I. Conhecer os elementos de organização do trabalho pedagógico e da gestão escolar;
 
-150 
+   - II. Conhecer a realidade da instituição, bem como, a relação estabelecida com a comunidade;
 
-**==> picture [486 x 54] intentionally omitted <==**
+- III. Oferecer condições para analisar, compreender e atuar na resolução de situações-problema
 
-# **REGULAMENTO DE ESTÁGIO CURRICULAR SUPERVISIONADO DO CURSO DE LICENCIATURA EM FÍSICA** 
+- características do cotidiano profissional;
 
-## **IVAIPORÃ, 2016** 
+   - IV. Desvelar as concepções que norteiam as práticas escolares;
 
-## **CAPÍTULO I DA NATUREZA E DAS FINALIDADES** 
+   - V. Analisar o cotidiano, as práticas pedagógicas e de gestão e os documentos que
 
-**Art. 1 -** O estágio é ato educativo escolar supervisionado, desenvolvido no ambiente de trabalho, que visa à preparação para a prática profissional do educando que esteja frequentando o ensino regular em instituições de educação superior, de educação profissional, de ensino médio e dos anos finais do ensino fundamental, na modalidade profissional da educação de jovens e adultos, conforme a Lei 11788/08. 
+sistematizam a organização escolar, buscando estabelecer relação entre teoria e prática;
 
-**Art. 2 -** Este regulamento visa normatizar a organização, realização, supervisão e avaliação do Estágio Curricular Supervisionado previsto para o Curso de Licenciatura em Física em conformidade com a resolução 02/2013 do Conselho Superior do IFPR. 
+VI. Reconhecer as especificidades da prática pedagógica no Ensino Médio;
 
-**Parágrafo Único -** O Estágio Curricular Supervisionado tem caráter obrigatório para o Curso de Licenciatura em Física constituindo-se como instrumento de observação, análise e apropriação dos elementos de organização do trabalho pedagógico, da gestão escolar e das políticas educacionais. 
+VII. Elaborar e desenvolver projetos educacionais ou de investigação, problematização, análise e reflexão teórica a partir de realidades vivenciadas;
 
-**Art. 3 -** A realização do Estágio Curricular Supervisionado tem como objetivos: 
+VIII. Participar efetivamente no trabalho pedagógico para a promoção da aprendizagem de sujeitos em diferentes níveis de apropriação do conhecimento;
 
-   - I. Conhecer os elementos de organização do trabalho pedagógico e da gestão escolar; 
+IX. Conhecer a dinâmica da gestão e do planejamento em uma instituição de ensino de nível médio;
 
-   - II. Conhecer a realidade da instituição, bem como, a relação estabelecida com a comunidade; 
+X. Compreender a função social da instituição de ensino de nível médio e seu papel como professor.
 
-- III. Oferecer condições para analisar, compreender e atuar na resolução de situações-problema 
+## **CAPÍTULO II DAS INSTITUIÇÕES CAMPO DE ESTÁGIO**
 
-- características do cotidiano profissional; 
+**Art. 4 -** O Estágio Curricular Supervisionado deve ser realizado em instituição de ensino pública de nível médio.
 
-   - IV. Desvelar as concepções que norteiam as práticas escolares; 
+**§ 1 -** A viabilização do estágio será de responsabilidade do Professor Orientador.
 
-   - V. Analisar o cotidiano, as práticas pedagógicas e de gestão e os documentos que 
+**§ 2 -** Os estagiários devem realizar contato com as instituições de ensino, mediante apresentação de formulário (Anexo I), o qual deve ser fornecido pelo Professor Orientador.
 
-151 
+## **CAPÍTULO III DA ORGANIZAÇÃO DO ESTÁGIO, CARGA HORÁRIA E PERÍODO DE REALIZAÇÃO**
 
-**==> picture [486 x 54] intentionally omitted <==**
+**Art. 5 -** O Curso de Licenciatura em Física tem carga horária total de 3200 horas e está organizado em 9 (nove) períodos semestrais, sendo que o Estágio Curricular Supervisionado está presente nos últimos três períodos:
 
-sistematizam a organização escolar, buscando estabelecer relação entre teoria e prática; 
+a) Estágio Curricular Supervisionado I, no sétimo período; b) Estágio Curricular Supervisionado II, no oitavo período; c) Estágio Curricular Supervisionado III, no nono período.
 
-VI. Reconhecer as especificidades da prática pedagógica no Ensino Médio; 
+**Art. 6 -** A organização do estágio em cada período, respectivamente, segue a proposta estabelecida no Projeto Pedagógico do Curso (PPC):
 
-VII. Elaborar e desenvolver projetos educacionais ou de investigação, problematização, análise e reflexão teórica a partir de realidades vivenciadas; 
+a) Estágio Curricular Supervisionado I – Organização Escolar e Currículo: Concepções educacionais vigentes na educação básica no ensino de Física; Objetivos da educação básica no ensino de Física; Problematização de conceitos e práticas; Investigação da realidade educacional; Elaboração e desenvolvimento de projetos de investigação e/ou ação no espaço escolar e em outras realidades educacionais; Análise de Livros Didáticos; A análise e reflexão sobre o ambiente escolar relacionada ao currículo de maneira geral e o currículo de Física e Ciências de maneira específica; A composição do currículo de Física em diferentes concepções e perspectivas; Análise comparativa de projetos de ensino de Física e o currículo; O currículo de Física no Ensino Médio e no Ensino Fundamental.
 
-VIII. Participar efetivamente no trabalho pedagógico para a promoção da aprendizagem de sujeitos em diferentes níveis de apropriação do conhecimento; 
+b) Estágio Curricular Supervisionado II – Estratégias Didático-Pedagógicas: A análise e
 
-IX. Conhecer a dinâmica da gestão e do planejamento em uma instituição de ensino de nível médio; 
+reflexão sobre o ambiente escolar relativa à sala de aula de Física e Ciências; As concepções e estratégias didático-pedagógicas utilizadas por docentes da escola básica e sua relação com o currículo; A avaliação da aprendizagem em Física e Ciências na escola; A escolha de conteúdos e de materiais instrucionais; O planejamento e sua relação com o perfil da escola e dos alunos; A organização social na sala de aula; As relações professor-aluno e aluno-aluno.
 
-X. Compreender a função social da instituição de ensino de nível médio e seu papel como professor. 
+c) Estágio Curricular Supervisionado III – Prática de Ensino: O planejamento e o desenvolvimento de atividades de ensino de Física voltadas para a educação básica; A intervenção escolar supervisionada; A avaliação dos processos de ensino e aprendizagem. Organização do relatório final.
 
-## **CAPÍTULO II DAS INSTITUIÇÕES CAMPO DE ESTÁGIO** 
+**Art. 7 -** A carga horária do estágio estabelecida nos três últimos períodos do curso é de 133 horas em cada ano, totalizando, ao final do curso, 400 horas de estágio.
 
-**Art. 4 -** O Estágio Curricular Supervisionado deve ser realizado em instituição de ensino pública de nível médio. 
+**§ 1 -** Considerando a natureza do trabalho pedagógico, serão validadas como atividades de estágio as reuniões de orientação com o professor orientador, as atividades de planejamento e estudos, análise e conhecimento da realidade, observação e prática pedagógica em sala de aula.
 
-**§ 1 -** A viabilização do estágio será de responsabilidade do Professor Orientador. 
+**§ 2 -** No Estágio Curricular Supervisionado I é obrigatória a realização de 10% da carga horária em atividades pedagógicas em sala de aula em turma de Ensino Médio e elaboração de um artigo científico, versando sobre aspectos da prática pedagógica
 
-**§ 2 -** Os estagiários devem realizar contato com as instituições de ensino, mediante apresentação de formulário (Anexo I), o qual deve ser fornecido pelo Professor Orientador. 
+**§ 3 -** No Estágio Curricular Supervisionado II é obrigatória a realização de 10% da carga horária em atividades pedagógicas em sala de aula em turma de Ensino Médio e elaboração de um artigo científico, versando sobre aspectos da prática pedagógica
 
-## **CAPÍTULO III DA ORGANIZAÇÃO DO ESTÁGIO, CARGA HORÁRIA E PERÍODO DE REALIZAÇÃO** 
+**§ 4 -** No Estágio Curricular Supervisionado III é obrigatória a realização de 20% da carga horária em atividades pedagógicas em sala de aula em turma de Ensino Médio e elaboração de relatório final de estágio, versando sobre aspectos da prática pedagógica.
 
-**Art. 5 -** O Curso de Licenciatura em Física tem carga horária total de 3200 horas e está organizado em 9 (nove) períodos semestrais, sendo que o Estágio Curricular Supervisionado está presente nos últimos três períodos: 
+**§ 5 -** A carga horária de cada estágio deve ser integralizada no período a que corresponde o estágio.
 
-a) Estágio Curricular Supervisionado I, no sétimo período; b) Estágio Curricular Supervisionado II, no oitavo período; c) Estágio Curricular Supervisionado III, no nono período. 
+**Art. 8 -** O professor orientador organizará o cronograma de estágio estabelecido em acordo com a instituição de ensino onde será realizado o estágio e o estagiário, deverá atender as especificidades de cada estágio, conforme normatiza o Art. 6 deste Regulamento. **CAPÍTULO IV DAS ATRIBUIÇÕES**
 
-**Art. 6 -** A organização do estágio em cada período, respectivamente, segue a proposta estabelecida no Projeto Pedagógico do Curso (PPC): 
+**Art. 9 -** Compete aos estudantes no cumprimento do estágio:
 
-a) Estágio Curricular Supervisionado I – Organização Escolar e Currículo: Concepções educacionais vigentes na educação básica no ensino de Física; Objetivos da educação básica no ensino de Física; Problematização de conceitos e práticas; Investigação da realidade educacional; Elaboração e desenvolvimento de projetos de investigação e/ou ação no espaço escolar e em outras realidades educacionais; Análise de Livros Didáticos; A análise e reflexão sobre o ambiente escolar relacionada ao currículo de maneira geral e o currículo de Física e Ciências de maneira específica; A composição do currículo de Física em diferentes concepções e perspectivas; Análise comparativa de projetos de ensino de Física e o currículo; O currículo de Física no Ensino Médio e no Ensino Fundamental. 
+VII. Comparecer ao campo de estágio com encaminhamento oficial (conforme Anexo I) do Professor Orientador;
 
-b) Estágio Curricular Supervisionado II – Estratégias Didático-Pedagógicas: A análise e 
+VIII. Respeitar as normas internas da instituição em que realiza o estágio, conduzindo-se com ética as atividades estabelecidas para cada etapa do seu estágio;
 
-152 
+IX. Participar ativamente das atividades programadas para o estágio, bem como àquelas promovidas pela instituição de ensino onde se realiza o estágio;
 
-**==> picture [486 x 54] intentionally omitted <==**
+X. Observar e cumprir o cronograma estabelecido com o respectivo Professor Orientador para as atividades de prática de estágio e de orientação;
 
-reflexão sobre o ambiente escolar relativa à sala de aula de Física e Ciências; As concepções e estratégias didático-pedagógicas utilizadas por docentes da escola básica e sua relação com o currículo; A avaliação da aprendizagem em Física e Ciências na escola; A escolha de conteúdos e de materiais instrucionais; O planejamento e sua relação com o perfil da escola e dos alunos; A organização social na sala de aula; As relações professor-aluno e aluno-aluno. 
+XI. Participar ativamente das atividades de estágio, elaborar e implementar seu projeto de
 
-c) Estágio Curricular Supervisionado III – Prática de Ensino: O planejamento e o desenvolvimento de atividades de ensino de Física voltadas para a educação básica; A intervenção escolar supervisionada; A avaliação dos processos de ensino e aprendizagem. Organização do relatório final. 
+estágio;
 
-**Art. 7 -** A carga horária do estágio estabelecida nos três últimos períodos do curso é de 133 horas em cada ano, totalizando, ao final do curso, 400 horas de estágio. 
+XII. Elaborar artigo científico, sistematizando-o ao final de cada estágio, conforme Art. 6 e observando as orientações do Professor Orientador;
 
-**§ 1 -** Considerando a natureza do trabalho pedagógico, serão validadas como atividades de estágio as reuniões de orientação com o professor orientador, as atividades de planejamento e estudos, análise e conhecimento da realidade, observação e prática pedagógica em sala de aula. 
+XIII. Elaborar Relatório Final de estágio, sistematizando-o ao final do estágio, conforme Art. 6 e observando as orientações do Professor Orientador;
 
-**§ 2 -** No Estágio Curricular Supervisionado I é obrigatória a realização de 10% da carga horária em atividades pedagógicas em sala de aula em turma de Ensino Médio e elaboração de um artigo científico, versando sobre aspectos da prática pedagógica 
+XIV. Registrar todas as atividades de estágio, de acordo com o descrito nos Artigos 6 e 13 deste Regulamento, em Ficha de Registro de Atividades de Estágio (Anexo II), a qual deve ser anexada ao Relatório Final de Estágio.
 
-**§ 3 -** No Estágio Curricular Supervisionado II é obrigatória a realização de 10% da carga horária em atividades pedagógicas em sala de aula em turma de Ensino Médio e elaboração de um artigo científico, versando sobre aspectos da prática pedagógica 
+**Art. 10 -** São atribuições do Coordenador do Curso em relação ao Estágio Curricular Supervisionado:
 
-**§ 4 -** No Estágio Curricular Supervisionado III é obrigatória a realização de 20% da carga horária em atividades pedagógicas em sala de aula em turma de Ensino Médio e elaboração de relatório final de estágio, versando sobre aspectos da prática pedagógica. 
+IV. Coordenar e supervisionar as atividades estabelecidas para o Estágio Curricular Supervisionado;
 
-**§ 5 -** A carga horária de cada estágio deve ser integralizada no período a que corresponde o estágio. 
+V. Assessorar o Professor Orientador de estágio, auxiliando-o em todos os encaminhamentos necessários à efetivação das atividades de estágio;
 
-**Art. 8 -** O professor orientador organizará o cronograma de estágio estabelecido em acordo com a instituição de ensino onde será realizado o estágio e o estagiário, deverá atender as especificidades de cada estágio, conforme normatiza o Art. 6 deste Regulamento. **CAPÍTULO IV DAS ATRIBUIÇÕES** 
+VI. Articular, em conjunto com o Professor Orientador de estágio, as instituições que serão campo de estágio;
 
-**Art. 9 -** Compete aos estudantes no cumprimento do estágio: 
+VII. Organizar, em conjunto com o Professor Orientador de estágio, o cronograma de realização de estágio dos estudantes.
 
-VII. Comparecer ao campo de estágio com encaminhamento oficial (conforme Anexo I) do Professor Orientador; 
+## **Art. 11 -** São atribuições do Professor Orientador:
 
-VIII. Respeitar as normas internas da instituição em que realiza o estágio, conduzindo-se com ética as atividades estabelecidas para cada etapa do seu estágio; 
+VIII. Apoiar o estudante-estagiário na definição e contato com a instituição de ensino onde pretende realizar o estágio;
 
-IX. Participar ativamente das atividades programadas para o estágio, bem como àquelas promovidas pela instituição de ensino onde se realiza o estágio; 
+IX. Acompanhar e orientar o conjunto de atividades de estágio, conforme estabelecido no PPC;
 
-X. Observar e cumprir o cronograma estabelecido com o respectivo Professor Orientador para as atividades de prática de estágio e de orientação; 
+X. Supervisionar as atividades de estágio registradas na Ficha de Registro de Atividades de Estágio, validando-as de acordo com a natureza das atividades de estágio definidas no PPC e neste regulamento;
 
-XI. Participar ativamente das atividades de estágio, elaborar e implementar seu projeto de 
+XI. Orientar o estudante-estagiário na elaboração do seu Projeto de Estágio, conforme Art. 6 **º** e o PPC do curso;
 
-153 
+XII. Acompanhar a execução do estágio pelos estudantes, subsidiando as ações necessárias e auxiliando nas atividades propostas no Projeto de Estágio;
 
-**==> picture [486 x 54] intentionally omitted <==**
+XIII. Organizar os documentos referentes à efetivação do estágio dos estudantes-estagiários;
 
-estágio; 
+XIV. Acompanhar a realização das atividades de estágio visitando as instituições de ensino durante o cronograma estabelecido com os estagiários;
 
-XII. Elaborar artigo científico, sistematizando-o ao final de cada estágio, conforme Art. 6 e observando as orientações do Professor Orientador; 
+XV. Acompanhar e avaliar o desenvolvimento dos Projetos de Estágio;
 
-XIII. Elaborar Relatório Final de estágio, sistematizando-o ao final do estágio, conforme Art. 6 e observando as orientações do Professor Orientador; 
+XVI. Orientar os estudantes-estagiários sobre a elaboração dos artigos e do Relatório Final de Estágio e realizar a análise e a avaliação dos mesmos;
 
-XIV. Registrar todas as atividades de estágio, de acordo com o descrito nos Artigos 6 e 13 deste Regulamento, em Ficha de Registro de Atividades de Estágio (Anexo II), a qual deve ser anexada ao Relatório Final de Estágio. 
+XVII. Trabalhar em parceria com a Coordenação do Curso visando à efetivação das propostas de estágio.
 
-**Art. 10 -** São atribuições do Coordenador do Curso em relação ao Estágio Curricular Supervisionado: 
+**Art. 12 –** É requisito para a atuação como Professor(a) Orientador(a) ter formação em curso de licenciatura e, preferencialmente, experiência na educação de nível médio. **CAPÍTULO V DAS ATIVIDADES A SEREM DESEMPENHADAS PELO ESTUDANTE-ESTAGIÁRIO**
 
-IV. Coordenar e supervisionar as atividades estabelecidas para o Estágio Curricular Supervisionado; 
+**Art. 13 –** São consideradas atividades de Estágio Curricular Supervisionado, aquelas estabelecidas no Projeto Pedagógico do Curso e conforme o Art. 6 deste regulamento, a observação e análise da organização, funcionamento, participação em atividades pedagógicas (reuniões pedagógicas, Conselho de Classe, reuniões com a comunidade, etc) leitura e análise de
 
-V. Assessorar o Professor Orientador de estágio, auxiliando-o em todos os encaminhamentos necessários à efetivação das atividades de estágio; 
+documentos da instituição de ensino (PPP, PPC, entre outros), atividades de observação e análise da dinâmica de sala de aula; planejamento e desenvolvimento de atividades de ensino no âmbito das formas de oferta dos cursos, elaboração de projeto de estágio e atuação em turma de Ensino Médio.
 
-VI. Articular, em conjunto com o Professor Orientador de estágio, as instituições que serão campo de estágio; 
+## **CAPÍTULO VI DO NÚMERO DE ESTAGIÁRIOS POR ORIENTADOR E MODALIDADE DE ORIENTAÇÃO**
 
-VII. Organizar, em conjunto com o Professor Orientador de estágio, o cronograma de realização de estágio dos estudantes. 
+**Art. 14 -** Cada Professor Orientador de estágio do Curso de Licenciatura em Física poderá orientar até 10 estudantes/estagiários, sendo 100h dedicadas à orientação direta, e 300h de orientação semi-direta.
 
-## **Art. 11 -** São atribuições do Professor Orientador: 
+## **CAPÍTULO VII DO RELATÓRIO DE ESTÁGIO**
 
-VIII. Apoiar o estudante-estagiário na definição e contato com a instituição de ensino onde pretende realizar o estágio; 
+**Art. 15 -** O Relatório do Estágio Curricular Supervisionado é o documento que sistematiza as atividades desenvolvidas durante cada período de estágio do curso.
 
-IX. Acompanhar e orientar o conjunto de atividades de estágio, conforme estabelecido no PPC; 
+**§ 1º -** O relatório de que trata o caput deste artigo deve ser organizado observando o formulário do Anexo III deste regulamento e as orientações do Professor Orientador do estágio.
 
-X. Supervisionar as atividades de estágio registradas na Ficha de Registro de Atividades de Estágio, validando-as de acordo com a natureza das atividades de estágio definidas no PPC e neste regulamento; 
+**§ 2º -** Ao final de cada período de estágio o estudante-estagiário deverá entregar seu relatório de estágio ao Professor Orientador, no prazo estabelecido por este, o qual deverá registrar o recebimento na presença do estudante.
 
-XI. Orientar o estudante-estagiário na elaboração do seu Projeto de Estágio, conforme Art. 6 **º** e o PPC do curso; 
+## **CAPÍTULO VIII DO PROCESSO AVALIATIVO**
 
-XII. Acompanhar a execução do estágio pelos estudantes, subsidiando as ações necessárias e auxiliando nas atividades propostas no Projeto de Estágio; 
+**Art. 16 –** Os procedimentos avaliativos obedecem aos parâmetros orientados pela Portaria nº 120/2009 do IFPR, sendo que o processo avaliativo do estudante-estagiário considera os seguintes procedimentos:
 
-XIII. Organizar os documentos referentes à efetivação do estágio dos estudantes-estagiários; 
+I. Observação e registro das atividades e indicativos das situações vivenciadas na instituição de ensino onde se realizou o estágio;
 
-XIV. Acompanhar a realização das atividades de estágio visitando as instituições de ensino durante o cronograma estabelecido com os estagiários; 
+II. Elaboração de relatório com a sistematização das atividades de estágio realizadas o qual deve ser entregue ao Professor Orientador ao final de cada período de estágio, obedecendo as orientações do PPC do curso e do presente Regulamento;
 
-XV. Acompanhar e avaliar o desenvolvimento dos Projetos de Estágio; 
+## **CAPÍTULO IX DAS DISPOSIÇÕES FINAIS**
 
-XVI. Orientar os estudantes-estagiários sobre a elaboração dos artigos e do Relatório Final de Estágio e realizar a análise e a avaliação dos mesmos; 
+**Art. 17 -** Os casos omissos a este Regulamento serão avaliados pelo Colegiado do Curso.
 
-XVII. Trabalhar em parceria com a Coordenação do Curso visando à efetivação das propostas de estágio. 
+## **ANEXO I**
 
-**Art. 12 –** É requisito para a atuação como Professor(a) Orientador(a) ter formação em curso de licenciatura e, preferencialmente, experiência na educação de nível médio. **CAPÍTULO V DAS ATIVIDADES A SEREM DESEMPENHADAS PELO ESTUDANTE-ESTAGIÁRIO** 
+**FORMULÁRIO PARA APRESENTAÇÃO DE ESTAGIÁRIO (para anexar nos arquivos do estagiário)**
 
-**Art. 13 –** São consideradas atividades de Estágio Curricular Supervisionado, aquelas estabelecidas no Projeto Pedagógico do Curso e conforme o Art. 6 deste regulamento, a observação e análise da organização, funcionamento, participação em atividades pedagógicas (reuniões pedagógicas, Conselho de Classe, reuniões com a comunidade, etc) leitura e análise de 
+**Nome: Curso:____________________________________________ Modalidade:**
 
-154 
+**Período:** ( ) 6º ( ) 7º ( ) 8º **Ano:**
 
-**==> picture [486 x 54] intentionally omitted <==**
+## **Prezado(a) Diretor(a)!**
 
-documentos da instituição de ensino (PPP, PPC, entre outros), atividades de observação e análise da dinâmica de sala de aula; planejamento e desenvolvimento de atividades de ensino no âmbito das formas de oferta dos cursos, elaboração de projeto de estágio e atuação em turma de Ensino Médio. 
+Eu __________________________________, estudante do Curso de Licenciatura em Física, do Campus de Ivaiporã do Instituto Federal do Paraná, matrícula nº __________________, venho por meio deste solicitar a Vossa autorização para a realização do Estágio ______________________________________________________ ____________________________________________________________________ ____ nesta instituição. __________________/______/_______________/________ **________________________                 __________________________________** Assinatura do Estudante                                 Assinatura do Professor(a) Orientador(a) de Estágio Espaço para considerações da Direção da Instituição pretendida para estágio:
 
-## **CAPÍTULO VI DO NÚMERO DE ESTAGIÁRIOS POR ORIENTADOR E MODALIDADE DE ORIENTAÇÃO** 
+__________________________________________________________________________________ _______________________________________________________________________________________ _______________________________________________________________________________________ ____________________________________________________________________
 
-**Art. 14 -** Cada Professor Orientador de estágio do Curso de Licenciatura em Física poderá orientar até 10 estudantes/estagiários, sendo 100h dedicadas à orientação direta, e 300h de orientação semi-direta. 
+__________________/______/_______________/________
 
-## **CAPÍTULO VII DO RELATÓRIO DE ESTÁGIO** 
+_________________________________________ Assinatura e Carimbo do Diretor da Instituição
 
-**Art. 15 -** O Relatório do Estágio Curricular Supervisionado é o documento que sistematiza as atividades desenvolvidas durante cada período de estágio do curso. 
+**FORMULÁRIO PARA APRESENTAÇÃO DE ESTAGIÁRIO (para deixar na instituição de estágio)**
 
-**§ 1º -** O relatório de que trata o caput deste artigo deve ser organizado observando o formulário do Anexo III deste regulamento e as orientações do Professor Orientador do estágio. 
+**Nome:**
 
-**§ 2º -** Ao final de cada período de estágio o estudante-estagiário deverá entregar seu relatório de estágio ao Professor Orientador, no prazo estabelecido por este, o qual deverá registrar o recebimento na presença do estudante. 
+**Curso:____________________________________________ Modalidade:**
 
-## **CAPÍTULO VIII DO PROCESSO AVALIATIVO** 
+**Período:** ( ) 6º ( ) 7º ( ) 8º **Ano:**
 
-**Art. 16 –** Os procedimentos avaliativos obedecem aos parâmetros orientados pela Portaria nº 120/2009 do IFPR, sendo que o processo avaliativo do estudante-estagiário considera os seguintes procedimentos: 
+## **Prezado(a) Diretor(a)!**
 
-I. Observação e registro das atividades e indicativos das situações vivenciadas na instituição de ensino onde se realizou o estágio; 
+Eu __________________________________, estudante do Curso de Licenciatura em Física, do Campus de Ivaiporã do Instituto Federal do Paraná, matrícula nº __________________, venho por meio deste solicitar a Vossa autorização para a realização do Estágio ________________________________________________
 
-II. Elaboração de relatório com a sistematização das atividades de estágio realizadas o qual deve ser entregue ao Professor Orientador ao final de cada período de estágio, obedecendo as orientações do PPC do curso e do presente Regulamento; 
+____________________________________________________________________
 
-## **CAPÍTULO IX DAS DISPOSIÇÕES FINAIS** 
+____ nesta instituição.
 
-**Art. 17 -** Os casos omissos a este Regulamento serão avaliados pelo Colegiado do Curso. 
+__________________/______/_______________/________
 
-155 
+Assinatura do Estudante                                 Assinatura do Professor(a) Orientador(a) de
 
-**==> picture [486 x 54] intentionally omitted <==**
+Estágio
 
-## **ANEXO I** 
+## **ANEXO II**
 
-**FORMULÁRIO PARA APRESENTAÇÃO DE ESTAGIÁRIO (para anexar nos arquivos do estagiário)** 
+## **FICHA DE REGISTRO DE ATIVIDADES DE ESTÁGIO**
 
-**Nome: Curso:____________________________________________ Modalidade:** 
+## **Nome:**
 
-**Período:** ( ) 6º ( ) 7º ( ) 8º **Ano:** 
+**Curso:____________________________________________ Modalidade:**
 
-## **Prezado(a) Diretor(a)!** 
+**Período:** ( ) 6º ( ) 7º ( ) 8º **Ano:**
 
-Eu __________________________________, estudante do Curso de Licenciatura em Física, do Campus de Ivaiporã do Instituto Federal do Paraná, matrícula nº __________________, venho por meio deste solicitar a Vossa autorização para a realização do Estágio ______________________________________________________ ____________________________________________________________________ ____ nesta instituição. __________________/______/_______________/________ **________________________                 __________________________________** Assinatura do Estudante                                 Assinatura do Professor(a) Orientador(a) de Estágio Espaço para considerações da Direção da Instituição pretendida para estágio: 
+**Professor(a) Orientador(a) de Estágio** :
 
-__________________________________________________________________________________ _______________________________________________________________________________________ _______________________________________________________________________________________ ____________________________________________________________________ 
-
-__________________/______/_______________/________ 
-
-156 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-_________________________________________ Assinatura e Carimbo do Diretor da Instituição 
-
-**FORMULÁRIO PARA APRESENTAÇÃO DE ESTAGIÁRIO (para deixar na instituição de estágio)** 
-
-**Nome:** 
-
-**Curso:____________________________________________ Modalidade:** 
-
-**Período:** ( ) 6º ( ) 7º ( ) 8º **Ano:** 
-
-## **Prezado(a) Diretor(a)!** 
-
-Eu __________________________________, estudante do Curso de Licenciatura em Física, do Campus de Ivaiporã do Instituto Federal do Paraná, matrícula nº __________________, venho por meio deste solicitar a Vossa autorização para a realização do Estágio ________________________________________________ 
-
-____________________________________________________________________ 
-
-____ nesta instituição. 
-
-__________________/______/_______________/________ 
-
-157 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-Assinatura do Estudante                                 Assinatura do Professor(a) Orientador(a) de 
-
-Estágio 
-
-158 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-## **ANEXO II** 
-
-## **FICHA DE REGISTRO DE ATIVIDADES DE ESTÁGIO** 
-
-## **Nome:** 
-
-**Curso:____________________________________________ Modalidade:** 
-
-**Período:** ( ) 6º ( ) 7º ( ) 8º **Ano:** 
-
-**Professor(a) Orientador(a) de Estágio** : 
-
-**Estágio realizado** : 
+**Estágio realizado** :
 
 |**REGISTRO DE ATIVIDADE DE ESTÁGIO**|**REGISTRO DE ATIVIDADE DE ESTÁGIO**|**REGISTRO DE ATIVIDADE DE ESTÁGIO**|**REGISTRO DE ATIVIDADE DE ESTÁGIO**|
 |---|---|---|---|
@@ -3839,247 +3053,211 @@ Estágio
 |||||
 |||||
 
+**_______________________________     __________________________________**
 
+Assinatura do Estudante                                 Assinatura do Professor(a) Orientador(a) de Estágio
 
-**_______________________________     __________________________________** 
+## **ANEXO III**
 
-159 
+## **ROTEIRO PARA ELABORAÇÃO DE RELATÓRIO FINAL DE ESTÁGIO**
 
-**==> picture [486 x 54] intentionally omitted <==**
+Quanto aos aspectos de formatação o Relatório deve conter:
 
-Assinatura do Estudante                                 Assinatura do Professor(a) Orientador(a) de Estágio 
+Capa com os dados da instituição que oferta o curso Nome do curso Título do Estágio e ano do curso que pertence o estágio Nome do Estagiário Nome do Orientador de Estágio Cidade, mês e ano
 
-## **ANEXO III** 
+## Sumário
 
-## **ROTEIRO PARA ELABORAÇÃO DE RELATÓRIO FINAL DE ESTÁGIO** 
+Formatação do texto utilizando fonte Arial ou Times New Roman, tamanho 12, espaçamento 1,5. Consultar o caderno de normas do IFPR quanto a formatação das citações, referências, tabelas, quadros, entre outros. Começar a numeração a partir da primeira folha da introdução, considerando as páginas anteriores para a contagem. O relatório deve apresentar entre 10 a 20 páginas.
 
-Quanto aos aspectos de formatação o Relatório deve conter: 
+## Quantos aos componentes do relatório:
 
-Capa com os dados da instituição que oferta o curso Nome do curso Título do Estágio e ano do curso que pertence o estágio Nome do Estagiário Nome do Orientador de Estágio Cidade, mês e ano 
+Introdução: apresenta o conteúdo do relatório, devendo identificar o local onde foi realizado o estágio e o objetivo do estágio. Para identificar o local de realização de estágio, apresentar sucintamente o histórico da instituição, as características dessa instituição, localização, níveis de ensino e modalidades ofertadas, número de alunos, turmas e profissionais envolvidos. Orienta-se que o relatório de estágio seja escrito na primeira pessoa do singular.
 
-## Sumário 
+## Desenvolvimento:
 
-Formatação do texto utilizando fonte Arial ou Times New Roman, tamanho 12, espaçamento 1,5. Consultar o caderno de normas do IFPR quanto a formatação das citações, referências, tabelas, quadros, entre outros. Começar a numeração a partir da primeira folha da introdução, considerando as páginas anteriores para a contagem. O relatório deve apresentar entre 10 a 20 páginas. 
+Relatar o que foi planejado para o estágio e por que e como se deu o desenvolvimento deste planejamento feito. Refletir sobre o desenvolvimento das atividades de estágio e fundamentar teoricamente.
 
-## Quantos aos componentes do relatório: 
+O desenvolvimento poderá apresentar subtítulos a fim de melhor apresentar as atividades desenvolvidas.
 
-Introdução: apresenta o conteúdo do relatório, devendo identificar o local onde foi realizado o estágio e o objetivo do estágio. Para identificar o local de realização de estágio, apresentar sucintamente o histórico da instituição, as características dessa instituição, localização, níveis de ensino e modalidades ofertadas, número de alunos, turmas e profissionais envolvidos. Orienta-se que o relatório de estágio seja escrito na primeira pessoa do singular. 
+## Conclusão:
 
-## Desenvolvimento: 
+Apresentar as contribuições da realização do estágio para sua formação, os desafios encontrados e as estratégias para a superação.
 
-Relatar o que foi planejado para o estágio e por que e como se deu o desenvolvimento deste planejamento feito. Refletir sobre o desenvolvimento das atividades de estágio e fundamentar teoricamente. 
+## Referências:
 
-O desenvolvimento poderá apresentar subtítulos a fim de melhor apresentar as atividades desenvolvidas. 
+Listas as referências utilizadas na escrita do relatório.
 
-## Conclusão: 
+## **Anexo IV**
 
-Apresentar as contribuições da realização do estágio para sua formação, os desafios encontrados e as estratégias para a superação. 
+## **TERMO DE COMPROMISSO DE ESTÁGIO OBRIGATÓRIO CURSOS DE LICENCIATURA**
 
-## Referências: 
+As partes abaixo qualificadas celebram neste ato Termo de Compromisso de Estágio conforme a Lei nº 11.788/08.
 
-Listas as referências utilizadas na escrita do relatório. 
+**DADOS DA INSTITUIÇÃO DE ENSINO – CAMPO DE ESTÁGIO Instituição de Ensino: CNPJ: Nome da pessoa que representada Endereço: Cidade: Telefones: DADOS DO ALUNO(A) NOME: CAMPUS: CURSO: PERÍODO: MATRICULA:**
 
-160 
+Residente à rua ______________________________________________ , n° _______ na cidade de _____________________ , Estado __________________, CEP __________________ , Fone ______________ ,CPF________________________________ Data
 
-**==> picture [486 x 54] intentionally omitted <==**
+de Nascimento _____/_____/____ , doravante denominado Estudante, com interveniência da Instituição de Ensino, celebram o presente
 
-## **Anexo IV** 
+Termo de Compromisso em consonância com o Art. 82 da Lei nº 9394/96 – LDB, Art. ~~1~~[o] da Lei nº 11.788/08 mediante as seguintes
 
-## **TERMO DE COMPROMISSO DE ESTÁGIO OBRIGATÓRIO CURSOS DE LICENCIATURA** 
+## cláusulas e condições:
 
-As partes abaixo qualificadas celebram neste ato Termo de Compromisso de Estágio conforme a Lei nº 11.788/08. 
+**CLÁUSULA PRIMEIRA** As atividades a serem desenvolvidas durante o Estágio constam de programação acordada entre as partes, Plano de Atividades em anexo-   e terão por finalidade propiciar ao Estudante uma experiência acadêmico-profissional em um campo de trabalho determinado, visando:a) o aprimoramento técnico-científico em sua formação; b) a maior proximidade do aluno, com as condições reais de trabalho, por intermédio de práticas afins com a natureza e especificidade da área definida nos projetos políticos pedagógicos de cada curso;
 
-**DADOS DA INSTITUIÇÃO DE ENSINO – CAMPO DE ESTÁGIO Instituição de Ensino: CNPJ: Nome da pessoa que representada Endereço: Cidade: Telefones: DADOS DO ALUNO(A) NOME: CAMPUS: CURSO: PERÍODO: MATRICULA:** 
+**CLÁUSULA SEGUNDA O presente estágio somente poderá ser iniciado após assinatura das partes envolvidas, não sendo reconhecido ou validada com DATA RETROATIVA;**
 
-Residente à rua ______________________________________________ , n° _______ na cidade de _____________________ , Estado __________________, CEP __________________ , Fone ______________ ,CPF________________________________ Data 
+**CLÁUSULA TERCEIRA** O estágio será desenvolvido no período de _____/_____/______a _____/_____/______, no horário das _____ às _____hs,  ser prorrogado, através de emissão de Termo Aditivo;
 
-de Nascimento _____/_____/____ , doravante denominado Estudante, com interveniência da Instituição de Ensino, celebram o presente 
+**CLÁUSULA QUARTA** Em caso do presente estágio ser prorrogado, o preenchimento e a assinatura do Termo Aditivo deverão ser providenciados antes da data de encerramento, contida na Cláusula Terceira neste Termo de Compromisso;
 
-Termo de Compromisso em consonância com o Art. 82 da Lei nº 9394/96 – LDB, Art. ~~1~~[o] da Lei nº 11.788/08 mediante as seguintes 
+**CLÁUSULA QUINTA** Na vigência deste Termo de Compromisso o Estudante será protegido contra Acidentes Pessoais, providenciado pela IFPR e representado pela Apólice n° _____ da Companhia________________
 
-## cláusulas e condições: 
+**CLÁUSULA SEXTA** Nos termos do Art. 3° da Lei n° 11.788/08, o Estudante não terá, para quaisquer efeitos, vínculo empregatício com a Parte Concedente;
 
-**CLÁUSULA PRIMEIRA** As atividades a serem desenvolvidas durante o Estágio constam de programação acordada entre as partes, Plano de Atividades em anexo-   e terão por finalidade propiciar ao Estudante uma experiência acadêmico-profissional em um campo de trabalho determinado, visando:a) o aprimoramento técnico-científico em sua formação; b) a maior proximidade do aluno, com as condições reais de trabalho, por intermédio de práticas afins com a natureza e especificidade da área definida nos projetos políticos pedagógicos de cada curso; 
+**CLÁUSULA  SÉTIMA** Constituem motivo para interrupção automática da vigência do presente Termo de Compromisso de Estágio:
 
-**CLÁUSULA SEGUNDA O presente estágio somente poderá ser iniciado após assinatura das partes envolvidas, não sendo reconhecido ou validada com DATA RETROATIVA;** 
+a) Conclusão ou abandono do curso e o trancamento de matrícula;
 
-**CLÁUSULA TERCEIRA** O estágio será desenvolvido no período de _____/_____/______a _____/_____/______, no horário das _____ às _____hs,  ser prorrogado, através de emissão de Termo Aditivo; 
+b) Não cumprimento do convencionado neste Termo de Compromisso.
 
-**CLÁUSULA QUARTA** Em caso do presente estágio ser prorrogado, o preenchimento e a assinatura do Termo Aditivo deverão ser providenciados antes da data de encerramento, contida na Cláusula Terceira neste Termo de Compromisso; 
+c) Solicitação do estudante;
 
-**CLÁUSULA QUINTA** Na vigência deste Termo de Compromisso o Estudante será protegido contra Acidentes Pessoais, providenciado pela IFPR e representado pela Apólice n° _____ da Companhia________________ 
+d) Solicitação da parte concedente;
 
-**CLÁUSULA SEXTA** Nos termos do Art. 3° da Lei n° 11.788/08, o Estudante não terá, para quaisquer efeitos, vínculo empregatício com a Parte Concedente; 
+e) Solicitação da instituição de ensino.
 
-**CLÁUSULA  SÉTIMA** Constituem motivo para interrupção automática da vigência do presente Termo de Compromisso de Estágio: 
+E, por estar de inteiro e comum acordo com as condições deste Termo de Compromisso, as partes assinam em 04 (quatro) vias de igual teor.
 
-a) Conclusão ou abandono do curso e o trancamento de matrícula; 
+………….., ......./......./........
 
-161 
+______________________________________ UNIDADE CONCEDENTE ____________________________________________     ESTUDANTE (ASSINATURA E CARIMBO) (ASSINATURA)
 
-**==> picture [486 x 54] intentionally omitted <==**
+## PROFESSOR ORIENTADOR DE ESTÁGIOS/IFPR
 
-b) Não cumprimento do convencionado neste Termo de Compromisso. 
+________________________________
 
-c) Solicitação do estudante; 
+______________________________________ __________________________________________ COORDENADOR DO  CURSO – IFPR CHEFE DE SEÇÃO DE ESTÁGIOS E (assinatura e carimbo) RELAÇÕES COMUNITÁRIAS – CÂMPUS IFPR **(assinatura e carimbo)**
 
-d) Solicitação da parte concedente; 
+## **Anexo V PLANO DE  ESTÁGIO OBRIGATÓRIO**
 
-e) Solicitação da instituição de ensino. 
+**ESTAGIÁRIO(A)** Nome: Curso: Campus: Matrícula: Período/Semestre: Endereço: Bairro: Cidade: CEP: Fone: **PLANO DE ATIVIDADES (breve resumo)**
 
-E, por estar de inteiro e comum acordo com as condições deste Termo de Compromisso, as partes assinam em 04 (quatro) vias de igual teor. 
+## 1- Nome do Orientador de Estágio na Unidade Concedente:
 
-………….., ......./......./........ 
+_________________________________
 
-______________________________________ UNIDADE CONCEDENTE ____________________________________________     ESTUDANTE (ASSINATURA E CARIMBO) (ASSINATURA) 
+2- Formação Profissional do Orientador na Unidade Concedente:
 
-## PROFESSOR ORIENTADOR DE ESTÁGIOS/IFPR 
+3-Objetivos do  Estágio:
 
-________________________________ 
+_______________________________________________________________
 
-______________________________________ __________________________________________ COORDENADOR DO  CURSO – IFPR CHEFE DE SEÇÃO DE ESTÁGIOS E (assinatura e carimbo) RELAÇÕES COMUNITÁRIAS – CÂMPUS IFPR **(assinatura e carimbo)** 
+_____________________________________________________________________
 
-162 
+_____________________________________________________________________
 
-**==> picture [486 x 54] intentionally omitted <==**
+_____________________________________________________________________
 
-**==> picture [82 x 48] intentionally omitted <==**
+_________________________________
 
-## **Anexo V PLANO DE  ESTÁGIO OBRIGATÓRIO** 
+4- Atividades a serem desenvolvidas pelo estagiário:
 
-**ESTAGIÁRIO(A)** Nome: Curso: Campus: Matrícula: Período/Semestre: Endereço: Bairro: Cidade: CEP: Fone: **PLANO DE ATIVIDADES (breve resumo)** 
+_________________________________________________________________
 
-163 
+_____________________________________________________________________
 
-**==> picture [486 x 54] intentionally omitted <==**
+_____________________________________________________________________
 
-## 1- Nome do Orientador de Estágio na Unidade Concedente: 
+_____________________________________________________________________
 
-_________________________________ 
+_____________________________________________________________________
 
-2- Formação Profissional do Orientador na Unidade Concedente: 
+_____________________________________________________________________
 
-3-Objetivos do  Estágio: 
+_______________________________________________________
 
-_______________________________________________________________ 
+a) Modalidade da supervisão:     [  ] Direta
 
-_____________________________________________________________________ 
+b)Carga Horária Total:
 
-_____________________________________________________________________ 
+Coordenador do Curso – IFPR
 
-_____________________________________________________________________ 
+Orientador na Unidade Concedente
 
-_________________________________ 
+Professor Orientador  de Estágio – IFPR
 
-4- Atividades a serem desenvolvidas pelo estagiário: 
+## **9. REFERÊNCIAS BIBLIOGRÁFICAS**
 
-_________________________________________________________________ 
+ALMEIDA, Fernando José de; FONSECA JUNIOR, Fernando Moraes. **ProInfo:** projetos e ambientes inovadores. Brasília: Ministério da Educação. Secretaria da Educação a Distância, 2000. Disponível em: <http://www.dominiopublico.gov.br/download/texto/me002699.pdf>. Acesso em: 20 jun. 2017.
 
-_____________________________________________________________________ 
+BRASIL, Lei de Criação 11.892, de 29 de Dezembro de 2008. Institui a Rede Federal de Educação Profissional, Científica e Tecnológica, cria os Institutos Federais de Educação, Ciência e Tecnologia, e dá outras providências. **Diário Oficial da República Federativa do Brasil** . Brasília, DF, 30 de Dezembro de 2008.
 
-_____________________________________________________________________ 
+BRASIL, Lei de Diretrizes e Bases 9.394, de 20 de Dezembro de 1996. Estabelece as diretrizes e bases da educação nacional. **Diário Oficial da República Federativa do Brasil** . Brasília, DF, 23 de Dezembro de 1996.
 
-_____________________________________________________________________ 
+BRASIL, Resolução CNE/CP 01/2002. Institui as Diretrizes Curriculares Nacionais para a formação de professores da Educação Básica, em nível superior, curso de licenciatura, de graduação plena. **Diário Oficial da República Federativa do Brasil** . Brasília, DF, 9 de Abril de 2002.
 
-_____________________________________________________________________ 
+BRASIL, Resolução CNE/CP 02/2002. Institui a duração e a carga horária dos cursos de licenciatura, de graduação plena, de formação de professores da Educação Básica em nível superior. **Diário Oficial da República Federativa do Brasil** . Brasília, DF, 4 de Março de 2002.
 
-_____________________________________________________________________ 
+BRASIL, Parecer CNE/CES 1.304/2001. Diretrizes Curriculares Nacionais para os cursos de Física. **Diário Oficial da República Federativa do Brasil** . Brasília, DF, 07 de Dezembro de 2001.
 
-_______________________________________________________ 
+BRASIL, Resolução CNE/CP 09/2002. Estabelece as Diretrizes Curriculares para os Cursos de Bacharelado e Licenciatura em Física. **Diário Oficial da República Federativa do Brasil** . Brasília, DF, 26 de Março de 2002.
 
-a) Modalidade da supervisão:     [  ] Direta 
+BRASIL, Resolução CNE/CP 01/2012. Estabelece Diretrizes Nacionais para a Educação em Direitos Humanos. **Diário Oficial da República Federativa do Brasil** . Brasília, DF, 31 de Maio de 2012.
 
-b)Carga Horária Total: 
+BRASIL, Resolução CNE/CP 02/2012. Estabelece Diretrizes Curriculares Nacionais para a Educação Ambiental. **Diário Oficial da República Federativa do Brasil** . Brasília, DF, 18 de Junho de 2012.
 
-Coordenador do Curso – IFPR 
+LDB. **Centro de Documentação e Informação** . 5ª ed. Brasília: Edições Câmara, 2010. p. 20-22.
 
-Orientador na Unidade Concedente 
+CASTELLS, Manuel. **A sociedade em rede.** São Paulo: Paz e Terra, 2007.
 
-Professor Orientador  de Estágio – IFPR 
+LEMOS, André. **Cibercultura** : tecnologia e vida social na cultura contemporânea. Porto Alegre: Sulina, 2002.
 
-164 
+LÉVY, Pierre. **As tecnologias da inteligência** : o futuro do pensamento na era da informática.  São Paulo: Ed. 34, 1998.
 
-**==> picture [486 x 54] intentionally omitted <==**
+LÉVY, Pierre. **From social computing to reflexive collective intelligence: The IEML Research Program** . CRC, FRSC, University of Ottawa 31/07/2009. Disponível em: <http://www.ieml.org/IMG/pdf/2009-Levy-IEML.pdf>.  Acesso em: 20 jun. 2017.
 
-## **9. REFERÊNCIAS BIBLIOGRÁFICAS** 
+LUCKESI, Cipriano Carlos. **Avaliação da Aprendizagem Escolar** : estudos e proposições. 19ª ed. São Paulo: Cortez, 2008. p. 66.
 
-ALMEIDA, Fernando José de; FONSECA JUNIOR, Fernando Moraes. **ProInfo:** projetos e ambientes inovadores. Brasília: Ministério da Educação. Secretaria da Educação a Distância, 2000. Disponível em: <http://www.dominiopublico.gov.br/download/texto/me002699.pdf>. Acesso em: 20 jun. 2017. 
+IFPR. **Resolução 54/PROENS** . Curitiba: DEMTEC, 2011.
 
-BRASIL, Lei de Criação 11.892, de 29 de Dezembro de 2008. Institui a Rede Federal de Educação Profissional, Científica e Tecnológica, cria os Institutos Federais de Educação, Ciência e Tecnologia, e dá outras providências. **Diário Oficial da República Federativa do Brasil** . Brasília, DF, 30 de Dezembro de 2008. 
+SAVIANI, D. **Escola e democracia** . 40ª ed. Campinas–SP: Autores Associados, 2008. (Coleção Polêmicas do nosso tempo, vol. 5).IFPR. **Cartilha Assistência Estudantil** . Disponível em: http://reitoria.ifpr.edu.br/wp-content/uploads/2013/11/cartilha_AE_2014.pdf . Acesso em dez. 2013.
 
-BRASIL, Lei de Diretrizes e Bases 9.394, de 20 de Dezembro de 1996. Estabelece as diretrizes e bases da educação nacional. **Diário Oficial da República Federativa do Brasil** . Brasília, DF, 23 de Dezembro de 1996. 
+## _____. **Resolução nº 064/2010- IFPR.** Disponível
 
-BRASIL, Resolução CNE/CP 01/2002. Institui as Diretrizes Curriculares Nacionais para a formação de professores da Educação Básica, em nível superior, curso de licenciatura, de graduação plena. **Diário Oficial da República Federativa do Brasil** . Brasília, DF, 9 de Abril de 2002. 
+em:http://reitoria.ifpr.edu.br/wpcontent/uploads/2010/08/Res.-64.10.pdf . Acesso em jul. 2013.
 
-BRASIL, Resolução CNE/CP 02/2002. Institui a duração e a carga horária dos cursos de licenciatura, de graduação plena, de formação de professores da Educação Básica em nível superior. **Diário Oficial da República Federativa do Brasil** . Brasília, DF, 4 de Março de 2002. 
+_____. **Resolução 011/2009 do CONSUP/ IFPR** . Disponível em : http://reitoria.ifpr.edu.br/wpcontent/uploads/2010/08/Res.-11.092.pdf . Acesso em jul. 2013 MOREIRA, M.A. **Aprendizagem Significativa Crítica** . 2ª Edição revisada e ~ estendida, 2010. Disponível em: http://www.if.ufrgs.br/ moreira/
 
-BRASIL, Parecer CNE/CES 1.304/2001. Diretrizes Curriculares Nacionais para os cursos de Física. **Diário Oficial da República Federativa do Brasil** . Brasília, DF, 07 de Dezembro de 2001. 
+REALI, A.M.M.R.; MIZUKAMI, M.G.N. **Escola e Aprendizagem da Docência: Processos de investigação e Formação** . Edufscar, 2002.
 
-BRASIL, Resolução CNE/CP 09/2002. Estabelece as Diretrizes Curriculares para os Cursos de Bacharelado e Licenciatura em Física. **Diário Oficial da República Federativa do Brasil** . Brasília, DF, 26 de Março de 2002. 
+SAVIANI, D. **Escola e democracia** . 40.ed. Campinas – SP: Autores Associados, 2008. (Coleção Polêmicas do nosso tempo, vol. 5).
 
-BRASIL, Resolução CNE/CP 01/2012. Estabelece Diretrizes Nacionais para a Educação em Direitos Humanos. **Diário Oficial da República Federativa do Brasil** . Brasília, DF, 31 de Maio de 2012. 
+TARDIF, M. **Saberes Docentes e Formação Profissional** . 9ª Ed. Petrópolis: Vozes,
 
-BRASIL, Resolução CNE/CP 02/2012. Estabelece Diretrizes Curriculares Nacionais para a Educação Ambiental. **Diário Oficial da República Federativa do Brasil** . Brasília, DF, 18 de Junho de 2012. 
+2008.
 
-LDB. **Centro de Documentação e Informação** . 5ª ed. Brasília: Edições Câmara, 2010. p. 20-22. 
+BRASIL, Ministério da Educação. (2014) **E-mec – Sistema de Regulação do Ensino Superior** . Disponível em: <http://www.emec.mec.gov.br>. Acesso em: 16 abril. 2014.
 
-CASTELLS, Manuel. **A sociedade em rede.** São Paulo: Paz e Terra, 2007. 
+FOREQUE, F. FALCÃO, M.; TAKAHASHI, F **.  55% dos professores dão aula sem ter formação na disciplina.** In: Folha de São Paulo – Cotidiano 26/12/2013. Disponível em http://www1.folha.uol.com.br/cotidiano/2013/12/1390053-55-dos-professores-dao-aula-semter-formacao-na-disciplina.shtml. Acesso em 20 de abril de 2014.
 
-LEMOS, André. **Cibercultura** : tecnologia e vida social na cultura contemporânea. Porto Alegre: Sulina, 2002. 
+IBGE. **Instituto Brasileiro de Geografia e Estatística. Regiões de influências das cidades.** Rio de Janeiro: IBGE, 2008
 
-LÉVY, Pierre. **As tecnologias da inteligência** : o futuro do pensamento na era da informática.  São Paulo: Ed. 34, 1998. 
+LABIACK JR, S. (org **.). Fontes de fomento à inovação** . (Série. UTFinova). Curitiba: Aymará, 2011.
 
-LÉVY, Pierre. **From social computing to reflexive collective intelligence: The IEML Research Program** . CRC, FRSC, University of Ottawa 31/07/2009. Disponível em: <http://www.ieml.org/IMG/pdf/2009-Levy-IEML.pdf>.  Acesso em: 20 jun. 2017. 
+MCLUHAN, Marshall. **Os meios de comunicação como extensão do homem** . 5. ed. São Paulo: Cultrix, 1979.
 
-LUCKESI, Cipriano Carlos. **Avaliação da Aprendizagem Escolar** : estudos e proposições. 19ª ed. São Paulo: Cortez, 2008. p. 66. 
+SEED-PR. (2014a) **Consulta escolas** . Disponível em
 
-165 
+http://www.consultaescolas.pr.gov.br/. Acesso em 24 de abril de 2014.
 
-**==> picture [486 x 54] intentionally omitted <==**
+SEED-PR. (2014b) **SEED em números** . Disponível em
 
-IFPR. **Resolução 54/PROENS** . Curitiba: DEMTEC, 2011. 
+http://www4.pr.gov.br/escolas/numeros/  Acesso em 05 de abril de 2014.
 
-SAVIANI, D. **Escola e democracia** . 40ª ed. Campinas–SP: Autores Associados, 2008. (Coleção Polêmicas do nosso tempo, vol. 5).IFPR. **Cartilha Assistência Estudantil** . Disponível em: http://reitoria.ifpr.edu.br/wp-content/uploads/2013/11/cartilha_AE_2014.pdf . Acesso em dez. 2013. 
+IFPR. **Resolução Consup/IFPR nº11/2018** . Curitiba: 2018.
 
-## _____. **Resolução nº 064/2010- IFPR.** Disponível 
-
-em:http://reitoria.ifpr.edu.br/wpcontent/uploads/2010/08/Res.-64.10.pdf . Acesso em jul. 2013. 
-
-_____. **Resolução 011/2009 do CONSUP/ IFPR** . Disponível em : http://reitoria.ifpr.edu.br/wpcontent/uploads/2010/08/Res.-11.092.pdf . Acesso em jul. 2013 MOREIRA, M.A. **Aprendizagem Significativa Crítica** . 2ª Edição revisada e ~ estendida, 2010. Disponível em: http://www.if.ufrgs.br/ moreira/ 
-
-REALI, A.M.M.R.; MIZUKAMI, M.G.N. **Escola e Aprendizagem da Docência: Processos de investigação e Formação** . Edufscar, 2002. 
-
-SAVIANI, D. **Escola e democracia** . 40.ed. Campinas – SP: Autores Associados, 2008. (Coleção Polêmicas do nosso tempo, vol. 5). 
-
-TARDIF, M. **Saberes Docentes e Formação Profissional** . 9ª Ed. Petrópolis: Vozes, 
-
-2008. 
-
-BRASIL, Ministério da Educação. (2014) **E-mec – Sistema de Regulação do Ensino Superior** . Disponível em: <http://www.emec.mec.gov.br>. Acesso em: 16 abril. 2014. 
-
-FOREQUE, F. FALCÃO, M.; TAKAHASHI, F **.  55% dos professores dão aula sem ter formação na disciplina.** In: Folha de São Paulo – Cotidiano 26/12/2013. Disponível em http://www1.folha.uol.com.br/cotidiano/2013/12/1390053-55-dos-professores-dao-aula-semter-formacao-na-disciplina.shtml. Acesso em 20 de abril de 2014. 
-
-IBGE. **Instituto Brasileiro de Geografia e Estatística. Regiões de influências das cidades.** Rio de Janeiro: IBGE, 2008 
-
-LABIACK JR, S. (org **.). Fontes de fomento à inovação** . (Série. UTFinova). Curitiba: Aymará, 2011. 
-
-MCLUHAN, Marshall. **Os meios de comunicação como extensão do homem** . 5. ed. São Paulo: Cultrix, 1979. 
-
-SEED-PR. (2014a) **Consulta escolas** . Disponível em 
-
-http://www.consultaescolas.pr.gov.br/. Acesso em 24 de abril de 2014. 
-
-SEED-PR. (2014b) **SEED em números** . Disponível em 
-
-http://www4.pr.gov.br/escolas/numeros/  Acesso em 05 de abril de 2014. 
-
-IFPR. **Resolução Consup/IFPR nº11/2018** . Curitiba: 2018. 
-
-166 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-## **ANEXO I LABORATÓRIOS – EQUIPAMENTOS** 
+## **ANEXO I LABORATÓRIOS – EQUIPAMENTOS**
 
 ||||**LABORATÓRIOS – EQUIPAMENTOS**|
 |---|---|---|---|
@@ -4099,12 +3277,6 @@ IFPR. **Resolução Consup/IFPR nº11/2018** . Curitiba: 2018.
 ||201101<br>3209||CARREGADOR BIVOLT 60HZ (V95)|
 ||201101<br>3210||CARREGADOR BIVOLT 60HZ (V95)|
 
-
-
-167 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
 ||201101<br>3211|201101|CARREGADOR BIVOLT 60HZ (V95)|
 |---|---|---|---|
 ||201101<br>3212|201101|CARREGADOR BIVOLT 60HZ (V95)|
@@ -4122,17 +3294,7 @@ IFPR. **Resolução Consup/IFPR nº11/2018** . Curitiba: 2018.
 |||||
 ||201202<br>1105|201202|COMPRESSÃO E ENERGIA: EQUIPAMENTO PARA ESTUDO DO COMPORTAMENTO FÍSICO DE UMA AMOSTRA GASOSA QUANDO<br>EM SITUAÇÃO DE BRUSCA COMPRESSÃO. O AUMENTO DE TEMPERATURA DEVERÁ SER VISUALIZADO ATRAVÉS DA OCORRÊNCIA DE|
 
-
-
-168 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-UM PROCESSO QUÍMICO. COMPRESSÃO E ENERGIA: EQUIPAMENTO PARA ESTUDO DO COMPORTAMENTO FÍSICO DE UMA AMOSTRA GASOSA QUANDO 201202 EM SITUAÇÃO DE BRUSCA COMPRESSÃO. O AUMENTO DE TEMPERATURA DEVERÁ SER VISUALIZADO ATRAVÉS DA OCORRÊNCIA DE 1106 UM PROCESSO QUÍMICO. COMPRESSÃO E ENERGIA: EQUIPAMENTO PARA ESTUDO DO COMPORTAMENTO FÍSICO DE UMA AMOSTRA GASOSA QUANDO 201202 EM SITUAÇÃO DE BRUSCA COMPRESSÃO. O AUMENTO DE TEMPERATURA DEVERÁ SER VISUALIZADO ATRAVÉS DA OCORRÊNCIA DE 1107 UM PROCESSO QUÍMICO. CONDUTESTE: DISPOSITIVO PARA TESTAGEM DA CONDUTIVIDADE ELÉTRICA DOS MATERIAIS E REALIZAÇÃO DE PROCESSOS 201202 ELETROQUÍMIC OS. FORMADO POR MINI FONTES LUMINOSAS EM CIRCUITO LIMITADOR PRÓPRIO EM CAIXA ISOLANTE COM BORNES 1185 PARA PONTAS DE PROVA. CONDUTESTE: DISPOSITIVO PARA TESTAGEM DA CONDUTIVIDADE ELÉTRICA DOS MATERIAIS E REALIZAÇÃO DE PROCESSOS 201202 ELETROQUÍMIC OS. FORMADO POR MINI FONTES LUMINOSAS EM CIRCUITO LIMITADOR PRÓPRIO EM CAIXA ISOLANTE COM BORNES 1186 PARA PONTAS DE PROVA. 201202 CONJ. DE CORPOS P/ ESTUDO DA DENSIDADE 1281 201202 CONJ. DE CORPOS P/ ESTUDO DA DENSIDADE 1282 CONJ. PARA ESTUDOS CINEMÁTICOS: 01 TRILHO METÁLICO HORIZONTAL, CONFECCIONANDO EM ALUMÍNIO POR EXTRUSÃO; 201202 DIMENSÃO MÁXIMA 130 X 25,5 X 8 MM, GRADUADO COM ESCALA DE 0 A 700 MM, EM PLÁSTICO; 03 SUPORTES DE SUSTENTAÇÃO PARA 1102 TRILHO GRADUADO, SENDO UM AJUSTÁVEL, 201600 CONJUNTO COM TANQUE TRANSPARENTE, GIROSCÓPIO COM MOMENTO DE INÉRCIA VARIÁVEL 2306 201202 CONJUNTO DE MASSASE GANCHOS. CONJUNTO PARA ATIVIDADES DE CARGAS. GANCHO PARA MASSAS DE 50G, 100G E 150G. 1393 201202 CONJUNTO DE MASSASE GANCHOS. CONJUNTO PARA ATIVIDADES DE CARGAS. GANCHO PARA MASSAS DE 50G, 100G E 150G. 1394 201101 CONJUNTO ELETROMAGNETISMO, MODELO SM CE 3548 201101 CONJUNTO ELETROMAGNETISMO, MODELO SM CE 3549 
-
-169 
-
-**==> picture [486 x 54] intentionally omitted <==**
+UM PROCESSO QUÍMICO. COMPRESSÃO E ENERGIA: EQUIPAMENTO PARA ESTUDO DO COMPORTAMENTO FÍSICO DE UMA AMOSTRA GASOSA QUANDO 201202 EM SITUAÇÃO DE BRUSCA COMPRESSÃO. O AUMENTO DE TEMPERATURA DEVERÁ SER VISUALIZADO ATRAVÉS DA OCORRÊNCIA DE 1106 UM PROCESSO QUÍMICO. COMPRESSÃO E ENERGIA: EQUIPAMENTO PARA ESTUDO DO COMPORTAMENTO FÍSICO DE UMA AMOSTRA GASOSA QUANDO 201202 EM SITUAÇÃO DE BRUSCA COMPRESSÃO. O AUMENTO DE TEMPERATURA DEVERÁ SER VISUALIZADO ATRAVÉS DA OCORRÊNCIA DE 1107 UM PROCESSO QUÍMICO. CONDUTESTE: DISPOSITIVO PARA TESTAGEM DA CONDUTIVIDADE ELÉTRICA DOS MATERIAIS E REALIZAÇÃO DE PROCESSOS 201202 ELETROQUÍMIC OS. FORMADO POR MINI FONTES LUMINOSAS EM CIRCUITO LIMITADOR PRÓPRIO EM CAIXA ISOLANTE COM BORNES 1185 PARA PONTAS DE PROVA. CONDUTESTE: DISPOSITIVO PARA TESTAGEM DA CONDUTIVIDADE ELÉTRICA DOS MATERIAIS E REALIZAÇÃO DE PROCESSOS 201202 ELETROQUÍMIC OS. FORMADO POR MINI FONTES LUMINOSAS EM CIRCUITO LIMITADOR PRÓPRIO EM CAIXA ISOLANTE COM BORNES 1186 PARA PONTAS DE PROVA. 201202 CONJ. DE CORPOS P/ ESTUDO DA DENSIDADE 1281 201202 CONJ. DE CORPOS P/ ESTUDO DA DENSIDADE 1282 CONJ. PARA ESTUDOS CINEMÁTICOS: 01 TRILHO METÁLICO HORIZONTAL, CONFECCIONANDO EM ALUMÍNIO POR EXTRUSÃO; 201202 DIMENSÃO MÁXIMA 130 X 25,5 X 8 MM, GRADUADO COM ESCALA DE 0 A 700 MM, EM PLÁSTICO; 03 SUPORTES DE SUSTENTAÇÃO PARA 1102 TRILHO GRADUADO, SENDO UM AJUSTÁVEL, 201600 CONJUNTO COM TANQUE TRANSPARENTE, GIROSCÓPIO COM MOMENTO DE INÉRCIA VARIÁVEL 2306 201202 CONJUNTO DE MASSASE GANCHOS. CONJUNTO PARA ATIVIDADES DE CARGAS. GANCHO PARA MASSAS DE 50G, 100G E 150G. 1393 201202 CONJUNTO DE MASSASE GANCHOS. CONJUNTO PARA ATIVIDADES DE CARGAS. GANCHO PARA MASSAS DE 50G, 100G E 150G. 1394 201101 CONJUNTO ELETROMAGNETISMO, MODELO SM CE 3548 201101 CONJUNTO ELETROMAGNETISMO, MODELO SM CE 3549
 
 ||201500<br>3012|201500|CONJUNTO LANÇADOR COM SENSORES E SOFTWARE, PÊNDULO BALÍSTICO DE TORRE REMOVÍVEL|
 |---|---|---|---|
@@ -4156,12 +3318,6 @@ UM PROCESSO QUÍMICO. COMPRESSÃO E ENERGIA: EQUIPAMENTO PARA ESTUDO DO COMPORTA
 |||||
 |||201202|CONJUNTO MAGNETISMO: CONJUNTO DE RECURSOS PARA ESTUDO DE FENÔMENOS MAGNÉTICOS QUE PERMITA:|
 |||||
-
-
-
-170 
-
-**==> picture [486 x 54] intentionally omitted <==**
 
 ||1142|1142|VERIFICAÇÃO DO FENÔMENO DE ATRAÇÃO E REPULSÃO MAGNÉTICA; VISUALIZAÇÃO DO ESPECTRO MAGNÉTICO, EVIDENCIANDO AS<br>REGIÕES POLARES EM UM CORPOQUE POSSUA INDICAÇÃO POLAR;|
 |---|---|---|---|
@@ -4187,12 +3343,6 @@ UM PROCESSO QUÍMICO. COMPRESSÃO E ENERGIA: EQUIPAMENTO PARA ESTUDO DO COMPORTA
 |||201202|CONJUNTO MAGNETISMO: CONJUNTO DE RECURSOS PARA ESTUDO DE FENÔMENOS MAGNÉTICOS QUE PERMITA:|
 |||||
 
-
-
-171 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
 ||1152|1152|VERIFICAÇÃO DO FENÔMENO DE ATRAÇÃO E REPULSÃO MAGNÉTICA; VISUALIZAÇÃO DO ESPECTRO MAGNÉTICO, EVIDENCIANDO AS<br>REGIÕES POLARES EM UM CORPOQUE POSSUA INDICAÇÃO POLAR;|
 |---|---|---|---|
 |||||
@@ -4216,12 +3366,6 @@ UM PROCESSO QUÍMICO. COMPRESSÃO E ENERGIA: EQUIPAMENTO PARA ESTUDO DO COMPORTA
 |||||
 |||201500|CONJUNTO PARA SUPERFÍCIES EQUIPOTENCIAIS|
 
-
-
-172 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
 ||2999|2999||
 |---|---|---|---|
 ||201202<br>1095|201202|CRONÔMETRO DIGITAL MULTIFUNÇÕES S/ ACESSÓRIOS: INSTRUMENTO COMPACTO E OPERADO POR ENERGIA ELÉTRICA.<br>UTILIZADO PARA A MEDIÇÃO DE INTERVALOS DE TEMPO.|
@@ -4241,17 +3385,7 @@ UM PROCESSO QUÍMICO. COMPRESSÃO E ENERGIA: EQUIPAMENTO PARA ESTUDO DO COMPORTA
 |||||
 ||201202<br>1128|201202|DISPOSITIVOS DAS LEIS DE GASES: EQUIPAMENTO FORMADO POR: PISTÃO CILÍNDRICO DE VIDRO SOBRE ESCALA VERTICAL<br>DUPLA COM MARCAÇÕES; PISTÃO E ESCALA FIXADOS A SUPORTE PLÁSTICO INJETADO, NO QUAL ESTÃO DUAS MUFAS FIXADORAS À<br>HASTE DO SUPORTE UNIVERSAL;ÊMBOLO EM|
 
-
-
-173 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-201600 EQUIPAMENTO COM ACESSÓRIOS PARA ESTUDO DA ELETROSTÁTICA 9378 201600 EQUIPAMENTO COM ACESSÓRIOS PARA ESTUDO DA ELETROSTÁTICA 9379 EQUIPAMENTO DESTINADO AO ESTUDO DA FORÇA CENTRIFUGA SOBRE MISTURAS: CENTRÍFUGA SOBRE MISTURAS CONTANDO 201202 COM ESTRUTURA CONFECCIONADA EM METAL LEVE FUNDIDO, CONTANDO COM RECURSO DE FIXAÇÃO FIRME À BANCADA DE 1183 TRABALHO; O ACIONAMENTO DEVERÁ SER PROMOVIDO MANUA 201202 ESPECTROSCÓPIO MANUAL: DISPOSITIVO PARA OBSERVAÇÃO DO ESPECTRO DA LUZ EMITIDA POR FONTES DIVERSAS. 1283 201300 FONTE DE ALIMENTAÇÃO DC AJUSTÁVEL U8002A AGILENT 5994 201300 FONTE DE ALIMENTAÇÃO DC AJUSTÁVEL U8002A AGILENT 6004 201300 FONTE DE ALIMENTAÇÃO DC AJUSTÁVEL U8002A AGILENT 6014 201300 FONTE DE ALIMENTAÇÃO DC AJUSTÁVEL U8002A AGILENT 6015 201300 FONTE DE ALIMENTAÇÃO DC AJUSTÁVEL U8002A AGILENT 6017 201300 FONTE DE ALIMENTAÇÃO DC AJUSTÁVEL U8002A AGILENT 6033 201300 FONTE DE ALIMENTAÇÃO DC AJUSTÁVEL U8002A AGILENT 6036 201300 FONTE DE ALIMENTAÇÃO DC AJUSTÁVEL U8002A AGILENT 6038 201300 FONTE DE ALIMENTAÇÃO DC AJUSTÁVEL U8002A AGILENT 6040 201300 FONTE DE ALIMENTAÇÃO DC AJUSTÁVEL U8002A AGILENT 6048 
-
-174 
-
-**==> picture [486 x 54] intentionally omitted <==**
+201600 EQUIPAMENTO COM ACESSÓRIOS PARA ESTUDO DA ELETROSTÁTICA 9378 201600 EQUIPAMENTO COM ACESSÓRIOS PARA ESTUDO DA ELETROSTÁTICA 9379 EQUIPAMENTO DESTINADO AO ESTUDO DA FORÇA CENTRIFUGA SOBRE MISTURAS: CENTRÍFUGA SOBRE MISTURAS CONTANDO 201202 COM ESTRUTURA CONFECCIONADA EM METAL LEVE FUNDIDO, CONTANDO COM RECURSO DE FIXAÇÃO FIRME À BANCADA DE 1183 TRABALHO; O ACIONAMENTO DEVERÁ SER PROMOVIDO MANUA 201202 ESPECTROSCÓPIO MANUAL: DISPOSITIVO PARA OBSERVAÇÃO DO ESPECTRO DA LUZ EMITIDA POR FONTES DIVERSAS. 1283 201300 FONTE DE ALIMENTAÇÃO DC AJUSTÁVEL U8002A AGILENT 5994 201300 FONTE DE ALIMENTAÇÃO DC AJUSTÁVEL U8002A AGILENT 6004 201300 FONTE DE ALIMENTAÇÃO DC AJUSTÁVEL U8002A AGILENT 6014 201300 FONTE DE ALIMENTAÇÃO DC AJUSTÁVEL U8002A AGILENT 6015 201300 FONTE DE ALIMENTAÇÃO DC AJUSTÁVEL U8002A AGILENT 6017 201300 FONTE DE ALIMENTAÇÃO DC AJUSTÁVEL U8002A AGILENT 6033 201300 FONTE DE ALIMENTAÇÃO DC AJUSTÁVEL U8002A AGILENT 6036 201300 FONTE DE ALIMENTAÇÃO DC AJUSTÁVEL U8002A AGILENT 6038 201300 FONTE DE ALIMENTAÇÃO DC AJUSTÁVEL U8002A AGILENT 6040 201300 FONTE DE ALIMENTAÇÃO DC AJUSTÁVEL U8002A AGILENT 6048
 
 ||201400<br>7223|201400|GAVETEIRO MÓVEL COM 3 GAVETAS|
 |---|---|---|---|
@@ -4271,12 +3405,6 @@ UM PROCESSO QUÍMICO. COMPRESSÃO E ENERGIA: EQUIPAMENTO PARA ESTUDO DO COMPORTA
 |||||
 ||201600<br>9380|201600|MÁQUINA DE VAPOR DIDÁTICA|
 ||201202<br>1118|201202|MÁQUINA SIMPLES: CONJUNTO DIDÁTICO PARA FORMADO POR: POLIAS CONFECCIONADAS EM MATERIAL PLÁSTICO, COM<br>CONCAVIDADE NA EXTREMIDADE CIRCULAR,INSTALADAS EM SUPORTES METÁLICOS DOTADOS DE GANCHOS,SENDO 06 ROLDANAS|
-
-
-
-175 
-
-**==> picture [486 x 54] intentionally omitted <==**
 
 ||||SIMPLES,06 DISPOSITIVO COM TRÊS ROLDANAS IGUA|
 |---|---|---|---|
@@ -4298,12 +3426,6 @@ UM PROCESSO QUÍMICO. COMPRESSÃO E ENERGIA: EQUIPAMENTO PARA ESTUDO DO COMPORTA
 ||201202<br>1357|201202|MESA PARA MICROCOMPUTADOR 100X65|
 ||201101<br>3290||MESA P/ MICROCOMPUTADOR MED. 1.00X0,65X0,74 M.|
 
-
-
-176 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
 ||201401<br>2640|201401|MESA RETANGULAR PARA ESTUDO 800X600X740MM|
 |---|---|---|---|
 ||201401<br>2641|201401|MESA RETANGULAR PARA ESTUDO 800X600X740MM|
@@ -4321,17 +3443,7 @@ UM PROCESSO QUÍMICO. COMPRESSÃO E ENERGIA: EQUIPAMENTO PARA ESTUDO DO COMPORTA
 ||201401<br>0592|201401|MICROMETRO INTERNO*|
 |||201401|MICROMETRO INTERNO*|
 
-
-
-177 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-0593 201300 MULTÍMETRO AGILENT U1242B 6054 201300 MULTÍMETRO AGILENT U1242B 6067 201300 MULTÍMETRO AGILENT U1242B 6074 201300 MULTÍMETRO AGILENT U1242B 6086 201300 MULTÍMETRO AGILENT U1242B 6089 201202 MULTÍMETRO DIGITAL MOD. 300 1378 201202 MULTÍMETRO DIGITAL MOD. 300 1379 201202 MULTÍMETRO DIGITAL MOD. 300 1380 201202 MULTÍMETRO DIGITAL MOD. 300 1381 201202 MULTÍMETRO DIGITAL MOD. 300 1382 201300 OSCILOSCÓPIO DIGITAL AGILENT DSOX 2012A 5840 201300 OSCILOSCÓPIO DIGITAL AGILENT DSOX 2012A 5844 201300 OSCILOSCÓPIO DIGITAL AGILENT DSOX 2012A 5848 201300 OSCILOSCÓPIO DIGITAL AGILENT DSOX 2012A 5856 
-
-178 
-
-**==> picture [486 x 54] intentionally omitted <==**
+0593 201300 MULTÍMETRO AGILENT U1242B 6054 201300 MULTÍMETRO AGILENT U1242B 6067 201300 MULTÍMETRO AGILENT U1242B 6074 201300 MULTÍMETRO AGILENT U1242B 6086 201300 MULTÍMETRO AGILENT U1242B 6089 201202 MULTÍMETRO DIGITAL MOD. 300 1378 201202 MULTÍMETRO DIGITAL MOD. 300 1379 201202 MULTÍMETRO DIGITAL MOD. 300 1380 201202 MULTÍMETRO DIGITAL MOD. 300 1381 201202 MULTÍMETRO DIGITAL MOD. 300 1382 201300 OSCILOSCÓPIO DIGITAL AGILENT DSOX 2012A 5840 201300 OSCILOSCÓPIO DIGITAL AGILENT DSOX 2012A 5844 201300 OSCILOSCÓPIO DIGITAL AGILENT DSOX 2012A 5848 201300 OSCILOSCÓPIO DIGITAL AGILENT DSOX 2012A 5856
 
 ||201300<br>5862|201300|OSCILOSCÓPIO DIGITAL AGILENT DSOX 2012A|
 |---|---|---|---|
@@ -4349,12 +3461,6 @@ UM PROCESSO QUÍMICO. COMPRESSÃO E ENERGIA: EQUIPAMENTO PARA ESTUDO DO COMPORTA
 ||201500<br>3309|201500|PAQUÍMETRO DIGITAL 150MM*|
 ||201401<br>0594|201401|PAQUÍMETRO QUADRIDIMENSIONAL CAPACIDADE DE MEDIÇÃO DE 150MM|
 |||201401|PAQUÍMETRO QUADRIDIMENSIONAL CAPACIDADE DE MEDIÇÃO DE 150MM|
-
-
-
-179 
-
-**==> picture [486 x 54] intentionally omitted <==**
 
 ||0595|0595||
 |---|---|---|---|
@@ -4374,12 +3480,6 @@ UM PROCESSO QUÍMICO. COMPRESSÃO E ENERGIA: EQUIPAMENTO PARA ESTUDO DO COMPORTA
 ||201202<br>1174|201202|SENSORES PARA QUEDA DE CORPOS: CONJUNTO PARA EXPERIMENTOS DE QUEDA DOS CORPOS COM MÍNIMO DE DOIS<br>SENSORES FOTOELÉTRICO DIGITAIS, PARA MEDIDAS DE TEMPO DE PASSAGEM E PERÍODO DE OSCILAÇÃO DE PÊNDULOS. DEVE<br>ACOMPANHAR UMA INTERFACE PARA CONECTAR OS SENSORES|
 |||||
 |||201202|SENSOR FOTOELÉTRICO C/ CONECTOR P10: SENSOR FOTOELÉTRICO COM CAPA DE PLÁSTICO PROTETORA - CABO COM 1,5M|
-
-
-
-180 
-
-**==> picture [486 x 54] intentionally omitted <==**
 
 ||1091|1091|DE COMPRIMENTO E PINO PARA CONEXÃO|
 |---|---|---|---|
@@ -4403,12 +3503,6 @@ UM PROCESSO QUÍMICO. COMPRESSÃO E ENERGIA: EQUIPAMENTO PARA ESTUDO DO COMPORTA
 |||||
 |||201202|TRANSFERÊNCIA DE CALOR: APARELHO COM RECURSOS PARA ESTUDO DA TRANSFERÊNCIA DE CALOR,DETERMINAÇÃO DO|
 
-
-
-181 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
 ||1111|1111|CALOR ESPECÍFICO EM SÓLIDOS E LÍQUIDOS, EQUIVALENTE EM ÁGUA, EQUILÍBRIO TÉRMICO, TRANSFORMAÇÃO DE ENERGIA<br>ELÉTRICA EM ENERGIA TÉRMICA E ENTALPIAS DE PROCE|
 |---|---|---|---|
 ||201202<br>1112|201202|TRANSFERÊNCIA DE CALOR: APARELHO COM RECURSOS PARA ESTUDO DA TRANSFERÊNCIA DE CALOR, DETERMINAÇÃO DO<br>CALOR ESPECÍFICO EM SÓLIDOS E LÍQUIDOS, EQUIVALENTE EM ÁGUA, EQUILÍBRIO TÉRMICO, TRANSFORMAÇÃO DE ENERGIA<br>ELÉTRICA EM ENERGIA TÉRMICA E ENTALPIAS DE PROCE|
@@ -4427,17 +3521,7 @@ UM PROCESSO QUÍMICO. COMPRESSÃO E ENERGIA: EQUIPAMENTO PARA ESTUDO DO COMPORTA
 ||201601<br>3168||CONJUNTO PARA MOLAS, LEO DE HOOKE E PRINCÍPIO DE ARQUIMEDES|
 ||201601<br>3169||CONJUNTO PLANO INCLINADO|
 
-
-
-182 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
-## **Qtde. Bens: 190** 
-
-183 
-
-**==> picture [486 x 54] intentionally omitted <==**
+## **Qtde. Bens: 190**
 
 |**Laboratório de Informática- Materiais Permanentes**|**Laboratório de Informática- Materiais Permanentes**|**Laboratório de Informática- Materiais Permanentes**|
 |---|---|---|
@@ -4447,12 +3531,6 @@ UM PROCESSO QUÍMICO. COMPRESSÃO E ENERGIA: EQUIPAMENTO PARA ESTUDO DO COMPORTA
 |ESTABILIZADOR DE<br>FREQUÊNCIA|<br>ESTABILIZADOR<br>1500<br>VA,BIVOLT<br>AUTOMÁTICO,5<br>TOMADAS,115V<br>,COM<br>PROTEÇÃO<br>TELEFÔNICA,NORMA NBR 14373.|2|
 |ESTABILIZADOR TENSÃO|NOBREAK 1400 VA,ENTRADA BIVOLT AUTOMÁTICO, 8 TOMADAS DE SAÍDA  115 PADRÃO NBR 14136, 4<br>ESTÁGIOS DE REGULAÇÃO,RECARGA DE BATERIA AUTOMÁTICA, GERENCIAMENTO DE BATERIAS,<br>PROTEÇÃO CONTRA CURTOS,FUSÍVEL DE PROTEÇÃO DE ENTRADA AC|3|
 
-
-
-184 
-
-**==> picture [486 x 54] intentionally omitted <==**
-
 |MESA  MICROCOMPUTADOR|COM PORTA-TECLADO RETRÁTIL, ESTRUTURA EM AÇO TUBULAR RETANGULAR 30X50MM C/<br>TRATAMENTO SUPERFICIAL C/ ANTI-FERRUGINOSO FOSFATIZANTE E PINTURA; ACABAMENTO EM<br>MELAMÍNICO; TAMPO EM MDF 20MM DE ESPESSURA (NO MÍNIMO); REVESTIMENTO EM MELAMÍNICO;<br>ACABAMENTO PADRÃO CASCA DE OVO.|24|
 |---|---|---|
 |MESA  MICROCOMPUTADOR|CANTO ARREDONDADO|1|
@@ -4461,7 +3539,5 @@ UM PROCESSO QUÍMICO. COMPRESSÃO E ENERGIA: EQUIPAMENTO PARA ESTUDO DO COMPORTA
 |SWITCH|SWITCH|1|
 |ESTABILIZADOR DE TENSÃO|ESTABILIZADOR PROGRESSIVE III, 1000VA, 5 TOMADAS, BIVOLT, COMPATÍVEL COM IMPRESSORAS<br>LASER|3|
 
-
-
-185 
+185
 

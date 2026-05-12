@@ -1,74 +1,70 @@
-INSTITUTOFEDERAL Parana 
+INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+Ministerio da Educacao
 
-**MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO SUPERIOR INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ PRÓ - REITORIA DE ENSINO DIRETORIA DE ENSINO** 
+**MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO SUPERIOR INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ PRÓ - REITORIA DE ENSINO DIRETORIA DE ENSINO**
 
-## **PROJETO PEDAGÓGICO DO CURSO DE TECNOLOGIA EM PROCESSOS GERENCIAIS** 
+## **PROJETO PEDAGÓGICO DO CURSO DE TECNOLOGIA EM PROCESSOS GERENCIAIS**
 
-**AUTORIZADO PELA RESOLUÇÃO CONSUP/IFPR Nº 250, DE 16 DE SETEMBRO DE 2025** 
+**AUTORIZADO PELA RESOLUÇÃO CONSUP/IFPR Nº 250, DE 16 DE SETEMBRO DE 2025**
 
-Arapongas 
+Arapongas
 
-2025 
+2025
 
-## INSTITUTOFEDERAL 
+## INSTITUTOFEDERAL
 
-Parana 
+Parana
 
-**==> picture [84 x 10] intentionally omitted <==**
+Ministerio da Educacao<br>
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**
 
+**Reitor**
 
-**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ** 
+Adriano Willian da Silva Viana Pereira
 
-**Reitor** 
+**Pró-Reitora de Ensino** Sheila Cristiana de Freitas
 
-Adriano Willian da Silva Viana Pereira 
+**Diretor de Graduação** Allan Andrei Steimbach
 
-**Pró-Reitora de Ensino** Sheila Cristiana de Freitas 
+## **Coordenadora dos Cursos de Graduação**
 
-**Diretor de Graduação** Allan Andrei Steimbach 
+Kátia Andrea Silva da Costa
 
-## **Coordenadora dos Cursos de Graduação** 
+**Direção Geral do Câmpus** Thiago Pereira do Nascimento
 
-Kátia Andrea Silva da Costa 
+**Diretor Adjunto do Câmpus** Rodrigo Ribas
 
-**Direção Geral do Câmpus** Thiago Pereira do Nascimento 
+**Chefe da Seção de Ensino** Rafael Silva Santos
 
-**Diretor Adjunto do Câmpus** Rodrigo Ribas 
+## **Coordenador de Curso**
 
-**Chefe da Seção de Ensino** Rafael Silva Santos 
+(este campo será preenchido após a emissão da Resolução de criação do curso pelo CONSUP e emissão da portaria de coordenação de curso)
 
-## **Coordenador de Curso** 
+## **Núcleo Docente Estruturante**
 
-(este campo será preenchido após a emissão da Resolução de criação do curso pelo CONSUP e emissão da portaria de coordenação de curso) 
+(a ser estruturado após o início da oferta do curso, conforme as normativas institucionais)
 
-## **Núcleo Docente Estruturante** 
+## **Comissão de Estruturação de Curso**
 
-(a ser estruturado após o início da oferta do curso, conforme as normativas institucionais) 
+(Designada pela Portaria DG/LONDRINA/IFPR Nº 798, de 02 de abril de 2024)
 
-## **Comissão de Estruturação de Curso** 
+Caio Marcelo Lourenço Thiago Pereira do Nascimento Keila Fernanda Raimundo Márcia Valéria Paixão Leila Cleuri Pryjma Luciano Rudnik Rafael Silva Santos Rodrigo Barriviera Thiago Orcelli
 
-(Designada pela Portaria DG/LONDRINA/IFPR Nº 798, de 02 de abril de 2024) 
+1
 
-Caio Marcelo Lourenço Thiago Pereira do Nascimento Keila Fernanda Raimundo Márcia Valéria Paixão Leila Cleuri Pryjma Luciano Rudnik Rafael Silva Santos Rodrigo Barriviera Thiago Orcelli 
+Ministerio da Educacao
 
-1 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+Valmir Xavier de Oliveira Rodrigo Ribas Marta Rodrigues de Souza Silvana Barboza da Silva
 
-## INSTITUTOFEDERAL Parana 
+## **Colegiado de Gestão Pedagógica de Câmpus**
 
-Valmir Xavier de Oliveira Rodrigo Ribas Marta Rodrigues de Souza Silvana Barboza da Silva 
+(Designada pela Portaria DG/LONDRINA/IFPR Nº 888, de 08 de Julho de 2024) Gleice Rocha dos Santos Almeida
 
-## **Colegiado de Gestão Pedagógica de Câmpus** 
-
-(Designada pela Portaria DG/LONDRINA/IFPR Nº 888, de 08 de Julho de 2024) Gleice Rocha dos Santos Almeida 
-
-Ana Carolina de Athayde Raymundi Braz Berenice Tomoko Tatibana Danielle Hiromi Nakagawa Denis Fabricio Marchi Dão Pedro de Carvalho Neto Isaque Bispo Adriano Jayme Marrone Junior Luciana Fernandes de Oliveira Karen Alves Andrade Moscardini Karen Cristina Archangelo Perdigão Marlene Aparecida Ferrarini Bigarelli Paola Gisela Carvalho Santos Romualdo Rubens de Freitas Rosana Cláudia de Assunção Thiago Pereira do Nascimento 
+Ana Carolina de Athayde Raymundi Braz Berenice Tomoko Tatibana Danielle Hiromi Nakagawa Denis Fabricio Marchi Dão Pedro de Carvalho Neto Isaque Bispo Adriano Jayme Marrone Junior Luciana Fernandes de Oliveira Karen Alves Andrade Moscardini Karen Cristina Archangelo Perdigão Marlene Aparecida Ferrarini Bigarelli Paola Gisela Carvalho Santos Romualdo Rubens de Freitas Rosana Cláudia de Assunção Thiago Pereira do Nascimento
 
 |**1. APRESENTAÇÃO DO PROJETO**|**6**|
 |---|---|
@@ -86,17 +82,12 @@ Ana Carolina de Athayde Raymundi Braz Berenice Tomoko Tatibana Danielle Hiromi N
 |1.1.11 Escolaridade mínima exigida|7|
 |1.1.12 Coordenador|7|
 
+2
 
+## INSTITUTOFEDERAL Parana
 
-2 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
-
-Ministerio da Educacao 
-
-**==> picture [471 x 612] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
 |||
 |---|---|
 |1.1.13 Coordenador substituto|7|
@@ -136,18 +127,12 @@ Ministerio da Educacao
 |4.1 ESTRUTURA CURRICULAR|49|
 |4.1.1 Representação Gráfica do Processo Formativo|50|
 
-**----- End of picture text -----**<br>
+3
 
+INSTITUTOFEDERAL Parana
 
-3 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
-
-Ministerio da Educacao 
-
-**==> picture [473 x 603] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
 |||
 |---|---|
 |4.1.2  Matriz Curricular|51|
@@ -187,20 +172,14 @@ Ministerio da Educacao
 |6.1.1 Atribuições do Coordenador|113|
 |6.1.2 Experiência do Coordenador|114|
 
-**----- End of picture text -----**<br>
+4
 
+## INSTITUTOFEDERAL
 
-4 
+Parana
 
-## INSTITUTOFEDERAL 
+Ministerio da Educacao
 
-Parana 
-
-Ministerio da Educacao 
-
-**==> picture [471 x 456] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
 |||
 |---|---|
 |6.1.3 Núcleo Docente Estruturante (NDE)|114|
@@ -231,976 +210,921 @@ Ministerio da Educacao
 |ANEXOS|143|
 |ANEXO A - CARTAS DE APOIO|143|
 
-**----- End of picture text -----**<br>
+5
 
+## INSTITUTOFEDERAL Parana
 
-5 
+Ministerio da Educacao<br>
 
-## INSTITUTOFEDERAL Parana 
+## **1. APRESENTAÇÃO DO PROJETO**
 
-**==> picture [84 x 10] intentionally omitted <==**
+1.1 IDENTIFICAÇÃO
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+## **1.1.1 Denominação do Curso**
 
+Tecnologia em Processos Gerenciais.
 
-## **1. APRESENTAÇÃO DO PROJETO** 
+## **1.1.2 Área do Conhecimento/Eixo Tecnológico**
 
-1.1 IDENTIFICAÇÃO 
+60200006 - Gestão e Negócios.
 
-## **1.1.1 Denominação do Curso** 
+## **1.1.3 Modalidade**
 
-Tecnologia em Processos Gerenciais. 
+(   ) Presencial (X) Presencial com 30% a Distância
 
-## **1.1.2 Área do Conhecimento/Eixo Tecnológico** 
+(   ) a Distância
 
-60200006 - Gestão e Negócios. 
+## **1.1.4 Grau**
 
-## **1.1.3 Modalidade** 
+Tecnologia.
 
-(   ) Presencial (X) Presencial com 30% a Distância 
+## **1.1.5 Regime Letivo (Periodicidade)**
 
-(   ) a Distância 
+Semestral.
 
-## **1.1.4 Grau** 
+## **1.1.6 Turno principal do curso**
 
-Tecnologia. 
+Noturno.
 
-## **1.1.5 Regime Letivo (Periodicidade)** 
+## **1.1.7 Horário de oferta do curso**
 
-Semestral. 
+Segunda a sexta-feira das 19 horas às 22h15. Intervalo: 20h30min às 20h45min.
 
-## **1.1.6 Turno principal do curso** 
+A hora-aula terá duração de 45 minutos.
 
-Noturno. 
+## **1.1.8 Prazo de Integralização Curricular**
 
-## **1.1.7 Horário de oferta do curso** 
+2 anos (4 semestres).
 
-Segunda a sexta-feira das 19 horas às 22h15. Intervalo: 20h30min às 20h45min. 
+## **1.1.9 Carga-Horária total do Curso**
 
-A hora-aula terá duração de 45 minutos. 
+1600 horas.
 
-## **1.1.8 Prazo de Integralização Curricular** 
+6
 
-2 anos (4 semestres). 
+## INSTITUTOFEDERAL Parana
 
-## **1.1.9 Carga-Horária total do Curso** 
+Ministerio da Educacao
 
-1600 horas. 
+## **1.1.10 Vagas totais (anual)**
 
-6 
+40 vagas.
 
-## INSTITUTOFEDERAL Parana 
+## **1.1.11 Escolaridade mínima exigida**
 
-Ministerio da Educacao 
+Ensino Médio Completo.
 
-## **1.1.10 Vagas totais (anual)** 
+## **1.1.12 Coordenador**
 
-40 vagas. 
+Nome: Titulação Máxima: Doutorado. Regime de Trabalho:
 
-## **1.1.11 Escolaridade mínima exigida** 
+_(campo a ser preenchido após a emissão da Resolução de criação do curso pelo CONSUP e emissão da portaria de coordenação de curso)_
 
-Ensino Médio Completo. 
+## **1.1.13 Coordenador substituto**
 
-## **1.1.12 Coordenador** 
+Nome: Titulação Máxima: Regime de Trabalho:
 
-Nome: Titulação Máxima: Doutorado. Regime de Trabalho: 
+_(campo a ser preenchido após a emissão da Resolução de criação do curso pelo CONSUP e emissão da portaria de coordenação de curso)_
 
-_(campo a ser preenchido após a emissão da Resolução de criação do curso pelo CONSUP e emissão da portaria de coordenação de curso)_ 
+## **1.1.14 Endereço de Oferta**
 
-## **1.1.13 Coordenador substituto** 
+Câmpus Avançado Arapongas Rua e número: Rua Surucuá Açu, 321 Bairro: Vila Araponguinha Cidade: Arapongas UF: Paraná CEP: 86705-590
 
-Nome: Titulação Máxima: Regime de Trabalho: 
+7
 
-_(campo a ser preenchido após a emissão da Resolução de criação do curso pelo CONSUP e emissão da portaria de coordenação de curso)_ 
+## INSTITUTOFEDERAL Parana
 
-## **1.1.14 Endereço de Oferta** 
+Ministerio da Educacao
 
-Câmpus Avançado Arapongas Rua e número: Rua Surucuá Açu, 321 Bairro: Vila Araponguinha Cidade: Arapongas UF: Paraná CEP: 86705-590 
+## 1.2 CONTEXTO HISTÓRICO DO PROJETO NO IFPR
 
-7 
+## **1.2.1 O Instituto Federal do Paraná**
 
-## INSTITUTOFEDERAL Parana 
+Em 29 de dezembro de 2008, por meio da Lei Federal nº 11.892, foi instituída a Rede Federal de Educação Profissional, Científica e Tecnológica e, paralelamente, foram criados os Institutos Federais. Além dos Institutos Federais, a Rede é composta pela Universidade Tecnológica Federal (UTFPR), o CEFET/RJ e CEFET/MG, as Escolas Técnicas vinculadas às Universidades Federais e o Colégio Pedro II. Com a promulgação da referida lei, a Escola Técnica da Universidade Federal do Paraná foi transformada em Instituto Federal do Paraná (IFPR).
 
-Ministerio da Educacao 
+O IFPR é um dos 38 Institutos distribuídos por todos os estados da federação. É uma Autarquia Federal, vinculada ao Ministério da Educação, detentora de autonomia administrativa, patrimonial, financeira, didático-pedagógica e disciplinar. A instituição possui característica pluricurricular e multicampi, especializada na oferta de educação profissional e tecnológica nas diferentes modalidades de ensino, com base na conjugação de conhecimentos técnicos e tecnológicos com as suas práticas pedagógicas. Caracterizado pela verticalização do ensino, oferece educação profissional e tecnológica em diferentes níveis e modalidades, assim como articula a educação básica, superior e tecnológica.
 
-## 1.2 CONTEXTO HISTÓRICO DO PROJETO NO IFPR 
+Além da Reitoria que tem três sedes na cidade de Curitiba, o IFPR é composto atualmente por 33 unidades, sendo:
 
-## **1.2.1 O Instituto Federal do Paraná** 
+● 22 Câmpus: Assis Chateaubriand, Astorga, Campo Largo, Capanema, Cascavel, Colombo, Coronel Vivida, Curitiba, Foz do Iguaçu, Irati, Ivaiporã, Jacarezinho, Jaguariaíva, Londrina, Palmas, Paranaguá, Paranavaí, Pinhais, Pitanga, Telêmaco Borba, Umuarama e União da Vitória;
 
-Em 29 de dezembro de 2008, por meio da Lei Federal nº 11.892, foi instituída a Rede Federal de Educação Profissional, Científica e Tecnológica e, paralelamente, foram criados os Institutos Federais. Além dos Institutos Federais, a Rede é composta pela Universidade Tecnológica Federal (UTFPR), o CEFET/RJ e CEFET/MG, as Escolas Técnicas vinculadas às Universidades Federais e o Colégio Pedro II. Com a promulgação da referida lei, a Escola Técnica da Universidade Federal do Paraná foi transformada em Instituto Federal do Paraná (IFPR). 
+- 4 Câmpus Avançados: Arapongas, Barracão, Goioerê e Quedas do Iguaçu;
 
-O IFPR é um dos 38 Institutos distribuídos por todos os estados da federação. É uma Autarquia Federal, vinculada ao Ministério da Educação, detentora de autonomia administrativa, patrimonial, financeira, didático-pedagógica e disciplinar. A instituição possui característica pluricurricular e multicampi, especializada na oferta de educação profissional e tecnológica nas diferentes modalidades de ensino, com base na conjugação de conhecimentos técnicos e tecnológicos com as suas práticas pedagógicas. Caracterizado pela verticalização do ensino, oferece educação profissional e tecnológica em diferentes níveis e modalidades, assim como articula a educação básica, superior e tecnológica. 
+- 2 Centros de Referência: Ponta Grossa, São José dos Pinhais.
 
-Além da Reitoria que tem três sedes na cidade de Curitiba, o IFPR é composto atualmente por 33 unidades, sendo: 
+- 5 Câmpus em implementação: Araucária, Cambé, Cianorte, Maringá e Toledo.
 
-● 22 Câmpus: Assis Chateaubriand, Astorga, Campo Largo, Capanema, Cascavel, Colombo, Coronel Vivida, Curitiba, Foz do Iguaçu, Irati, Ivaiporã, Jacarezinho, Jaguariaíva, Londrina, Palmas, Paranaguá, Paranavaí, Pinhais, Pitanga, Telêmaco Borba, Umuarama e União da Vitória; 
+8
 
-- 4 Câmpus Avançados: Arapongas, Barracão, Goioerê e Quedas do Iguaçu; 
+## INSTITUTOFEDERAL Parana
 
-- 2 Centros de Referência: Ponta Grossa, São José dos Pinhais. 
+Ministerio da Educacao
 
-- 5 Câmpus em implementação: Araucária, Cambé, Cianorte, Maringá e Toledo. 
+De acordo com PDI 2024-2028, o Instituto Federal do Paraná constitui-se como modelo inovador que se fundamenta no respeito às necessidades e peculiaridades de cada região. Compreende a educação como instrumento estratégico para o desenvolvimento sustentável, enfatizando que o desenvolvimento econômico deve servir e garantir o desenvolvimento humano, social, cultural e político. Assume, assim, o compromisso de atender às crescentes demandas sociais, ampliando a oferta de cursos de Formação Inicial e Continuada, Técnicos de Nível Médio e Superiores e formando sujeitos conscientes do seu papel na sociedade, além de promover a inclusão. Neste sentido, a instituição se projeta como protagonista de transformações, à medida que reflete sobre as necessidades do sujeito a partir da análise das esferas social, econômica e cultural, pautando suas ações com o viés da inclusão, da sustentabilidade e da democratização.
 
-8 
+Seus câmpus ofertam: educação profissional de nível médio (prioritariamente cursos integrados); cursos de formação inicial e continuada (FIC); cursos superiores de tecnologia; cursos superiores de licenciatura, cursos superiores de bacharelado, cursos de pós-graduação _lato sensu_ (aperfeiçoamento e especialização) e _stricto sensu_ (mestrado). Conforme os dados da Plataforma Nilo Peçanha (PNP 2014, v.2, ano base 2017) o Instituto Federal do Paraná apresenta o seguinte histórico de cursos na modalidade presencial: total de 256 cursos presenciais, sendo 72 de Qualificação profissional (FIC), 126 Técnicos (68 Ensino Médio Integrado, 04 Concomitante; 51 Subsequentes e 03 Proeja), 14 de Tecnologia, 12 de Bacharelado, 17 Licenciaturas, 11 de Especialização Lato Sensu, 05 Mestrados e 01 Mestrado profissional que totalizaram 19.348 matrículas. No que se refere à Educação a Distância foram 106 cursos, sendo 104 Técnicos, 01 de Tecnologia e 01 Especialização Lato Sensu, que totalizaram 25.011 matrículas. Das vagas ofertadas (presencial e EaD) 80% (oitenta por cento) são de 10 inclusão, assim distribuídas: 60% para estudantes provenientes de escola pública; 10% para negros; 5% para indígenas e 5% para pessoas com deficiência. Atualmente, de acordo com o Sistema Nacional de Informações da Educação Profissional e Tecnológica – SISTEC, estão matriculados no IFPR, 29.166 estudantes, sendo 18.083 na modalidade presencial e 11.083, em EAD.
 
-## INSTITUTOFEDERAL Parana 
+Com o intuito de cumprir com a missão da rede federal de ensino, voltada à formação completa e crítica do cidadão, pela oferta de cursos gratuitos e de qualidade, bem como ampliar o
 
-Ministerio da Educacao 
+9
 
-De acordo com PDI 2024-2028, o Instituto Federal do Paraná constitui-se como modelo inovador que se fundamenta no respeito às necessidades e peculiaridades de cada região. Compreende a educação como instrumento estratégico para o desenvolvimento sustentável, enfatizando que o desenvolvimento econômico deve servir e garantir o desenvolvimento humano, social, cultural e político. Assume, assim, o compromisso de atender às crescentes demandas sociais, ampliando a oferta de cursos de Formação Inicial e Continuada, Técnicos de Nível Médio e Superiores e formando sujeitos conscientes do seu papel na sociedade, além de promover a inclusão. Neste sentido, a instituição se projeta como protagonista de transformações, à medida que reflete sobre as necessidades do sujeito a partir da análise das esferas social, econômica e cultural, pautando suas ações com o viés da inclusão, da sustentabilidade e da democratização. 
+## INSTITUTOFEDERAL Parana
 
-Seus câmpus ofertam: educação profissional de nível médio (prioritariamente cursos integrados); cursos de formação inicial e continuada (FIC); cursos superiores de tecnologia; cursos superiores de licenciatura, cursos superiores de bacharelado, cursos de pós-graduação _lato sensu_ (aperfeiçoamento e especialização) e _stricto sensu_ (mestrado). Conforme os dados da Plataforma Nilo Peçanha (PNP 2014, v.2, ano base 2017) o Instituto Federal do Paraná apresenta o seguinte histórico de cursos na modalidade presencial: total de 256 cursos presenciais, sendo 72 de Qualificação profissional (FIC), 126 Técnicos (68 Ensino Médio Integrado, 04 Concomitante; 51 Subsequentes e 03 Proeja), 14 de Tecnologia, 12 de Bacharelado, 17 Licenciaturas, 11 de Especialização Lato Sensu, 05 Mestrados e 01 Mestrado profissional que totalizaram 19.348 matrículas. No que se refere à Educação a Distância foram 106 cursos, sendo 104 Técnicos, 01 de Tecnologia e 01 Especialização Lato Sensu, que totalizaram 25.011 matrículas. Das vagas ofertadas (presencial e EaD) 80% (oitenta por cento) são de 10 inclusão, assim distribuídas: 60% para estudantes provenientes de escola pública; 10% para negros; 5% para indígenas e 5% para pessoas com deficiência. Atualmente, de acordo com o Sistema Nacional de Informações da Educação Profissional e Tecnológica – SISTEC, estão matriculados no IFPR, 29.166 estudantes, sendo 18.083 na modalidade presencial e 11.083, em EAD. 
+Ministerio da Educacao
 
-Com o intuito de cumprir com a missão da rede federal de ensino, voltada à formação completa e crítica do cidadão, pela oferta de cursos gratuitos e de qualidade, bem como ampliar o 
+acesso de jovens e adultos em instituições de ensino, em 28 de Dezembro de 2018, é instituído pela Portaria nº 1.437 a criação do IFPR Câmpus Avançado Arapongas. O município de Arapongas foi considerado propício para a instalação de um câmpus devido à forte atividade econômica e ao contingente populacional característico de sua região, que pertence à região metropolitana de Londrina — mesorregião do Norte Central do Paraná.
 
-9 
+De acordo com dados do Instituto Brasileiro de Geografia e Estatística (IBGE), o município de Arapongas possui uma população estimada em aproximadamente 119 mil habitantes, dos quais cerca de 48 mil estão empregados, o que representa 40,15% do total. No comparativo estadual relacionado aos indicadores de Trabalho e Rendimento, Arapongas ocupa a 129ª posição entre os 399 municípios do Paraná (IBGE, 2023). Diante desse cenário, o IFPR atua ativamente para promover melhorias na qualidade de vida da população local, por meio da oferta de cursos gratuitos e de qualidade, além da realização de ações integradas com a prefeitura e demais setores da sociedade. Entre essas iniciativas, destacam-se os projetos desenvolvidos pelo Núcleo de Arte e Cultura, voltados ao desenvolvimento social e artístico, bem como as ações de governança e inovação conduzidas pelo NinhoTech, entre outras frentes estratégicas.
 
-## INSTITUTOFEDERAL Parana 
+O município de Arapongas apresenta uma economia diversificada, sustentada pela agropecuária, por indústrias de diferentes segmentos, além do comércio e da prestação de serviços. Todavia, a maior oferta de trabalho advém dos setores secundário e terciário, que exigem, na maior parte das contratações, mão de obra mais qualificada e maior nível educacional dos candidatos (Plano Diretor Municipal – Arapongas, 2021). Considerando as especificidades do município e a oferta já existente de cursos em outras instituições de ensino da região, o IFPR – Câmpus Avançado Arapongas estruturou sua proposta formativa com base em três eixos principais: (i) Educação e Sociedade; (ii) Gestão e Negócios; e (iii) Controle e Processos Industriais. Dessa forma, o corpo docente foi constituído com profissionais cujas formações e competências são alinhadas a essas áreas, contando com doutores em Engenharia de Produção, Engenharia Elétrica, Ciência da Computação e Matemática Computacional, Administração e Educação, além de mestres em Ciência da Computação e Bioenergia, e especialista em Gestão Contábil, Financeira e Auditoria.
 
-Ministerio da Educacao 
+10
 
-acesso de jovens e adultos em instituições de ensino, em 28 de Dezembro de 2018, é instituído pela Portaria nº 1.437 a criação do IFPR Câmpus Avançado Arapongas. O município de Arapongas foi considerado propício para a instalação de um câmpus devido à forte atividade econômica e ao contingente populacional característico de sua região, que pertence à região metropolitana de Londrina — mesorregião do Norte Central do Paraná. 
+## INSTITUTOFEDERAL Parana
 
-De acordo com dados do Instituto Brasileiro de Geografia e Estatística (IBGE), o município de Arapongas possui uma população estimada em aproximadamente 119 mil habitantes, dos quais cerca de 48 mil estão empregados, o que representa 40,15% do total. No comparativo estadual relacionado aos indicadores de Trabalho e Rendimento, Arapongas ocupa a 129ª posição entre os 399 municípios do Paraná (IBGE, 2023). Diante desse cenário, o IFPR atua ativamente para promover melhorias na qualidade de vida da população local, por meio da oferta de cursos gratuitos e de qualidade, além da realização de ações integradas com a prefeitura e demais setores da sociedade. Entre essas iniciativas, destacam-se os projetos desenvolvidos pelo Núcleo de Arte e Cultura, voltados ao desenvolvimento social e artístico, bem como as ações de governança e inovação conduzidas pelo NinhoTech, entre outras frentes estratégicas. 
+Ministerio da Educacao
 
-O município de Arapongas apresenta uma economia diversificada, sustentada pela agropecuária, por indústrias de diferentes segmentos, além do comércio e da prestação de serviços. Todavia, a maior oferta de trabalho advém dos setores secundário e terciário, que exigem, na maior parte das contratações, mão de obra mais qualificada e maior nível educacional dos candidatos (Plano Diretor Municipal – Arapongas, 2021). Considerando as especificidades do município e a oferta já existente de cursos em outras instituições de ensino da região, o IFPR – Câmpus Avançado Arapongas estruturou sua proposta formativa com base em três eixos principais: (i) Educação e Sociedade; (ii) Gestão e Negócios; e (iii) Controle e Processos Industriais. Dessa forma, o corpo docente foi constituído com profissionais cujas formações e competências são alinhadas a essas áreas, contando com doutores em Engenharia de Produção, Engenharia Elétrica, Ciência da Computação e Matemática Computacional, Administração e Educação, além de mestres em Ciência da Computação e Bioenergia, e especialista em Gestão Contábil, Financeira e Auditoria. 
+Visando expandir a atuação da Instituição de forma contínua, gradativa e planejada, no Plano de Desenvolvimento Institucional (PDI 2024-2028) o eixo tecnológico de Gestão e Negócios obteve destaque, sendo considerado o pilar central de desenvolvimento do câmpus, por comportar a primeira oferta de curso regular e por possuir uma maior prospecção dentro do município. Assim, no PDI foi proposto a abertura de cursos de graduação neste eixo por se entender a necessidade deste tipo de curso para a região, bem como para expandir a verticalização do ensino. Por meio de pesquisa com a comunidade, discussões com o poder público municipal, quadro de vagas de trabalho da região e domínio do corpo docente e administrativo do câmpus, foi proposta a oferta do Curso Superior de Tecnologia em Processos Gerenciais.
 
-10 
+O Curso Superior de Tecnologia em Processos Gerenciais integra o eixo de Gestão e Negócios do Catálogo Nacional de Cursos Superiores de Tecnologia do Ministério da Educação. A proposta basilar deste curso é formar profissionais capacitados para atuar de maneira estratégica e operacional nas áreas de finanças, marketing, logística, recursos humanos e tecnologias aplicadas à gestão. Além disso, o curso fomenta o espírito empreendedor, preparando os alunos para desenvolver e gerir negócios próprios ou atuar em instituições públicas, privadas e do terceiro setor. Tendo isso em vista, a organização pedagógica do curso elaborou este documento - Plano Pedagógico de Curso (PPC) - em conformidade com os marcos legais da educação nacional, em especial a Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394/96) e os documentos institucionais do IFPR, como a Resolução sobre Organização Didático-Pedagógica, o Regimento Geral e o Plano de Desenvolvimento Institucional (PDI).
 
-## INSTITUTOFEDERAL Parana 
+## **1.2.2 O Curso Superior de Tecnologia em Processos Gerenciais**
 
-Ministerio da Educacao 
+Em 13 de novembro de 2009, o Curso Superior de Tecnologia em Processos Gerenciais foi oficialmente reconhecido pelo Conselho Federal de Administração (CFA) como habilitação adequada para formar profissionais capacitados na gestão de empresas. Esse reconhecimento foi estabelecido por meio das Resoluções Normativas nº 373 e nº 374, ambas publicadas em 12 de
 
-Visando expandir a atuação da Instituição de forma contínua, gradativa e planejada, no Plano de Desenvolvimento Institucional (PDI 2024-2028) o eixo tecnológico de Gestão e Negócios obteve destaque, sendo considerado o pilar central de desenvolvimento do câmpus, por comportar a primeira oferta de curso regular e por possuir uma maior prospecção dentro do município. Assim, no PDI foi proposto a abertura de cursos de graduação neste eixo por se entender a necessidade deste tipo de curso para a região, bem como para expandir a verticalização do ensino. Por meio de pesquisa com a comunidade, discussões com o poder público municipal, quadro de vagas de trabalho da região e domínio do corpo docente e administrativo do câmpus, foi proposta a oferta do Curso Superior de Tecnologia em Processos Gerenciais. 
+11
 
-O Curso Superior de Tecnologia em Processos Gerenciais integra o eixo de Gestão e Negócios do Catálogo Nacional de Cursos Superiores de Tecnologia do Ministério da Educação. A proposta basilar deste curso é formar profissionais capacitados para atuar de maneira estratégica e operacional nas áreas de finanças, marketing, logística, recursos humanos e tecnologias aplicadas à gestão. Além disso, o curso fomenta o espírito empreendedor, preparando os alunos para desenvolver e gerir negócios próprios ou atuar em instituições públicas, privadas e do terceiro setor. Tendo isso em vista, a organização pedagógica do curso elaborou este documento - Plano Pedagógico de Curso (PPC) - em conformidade com os marcos legais da educação nacional, em especial a Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394/96) e os documentos institucionais do IFPR, como a Resolução sobre Organização Didático-Pedagógica, o Regimento Geral e o Plano de Desenvolvimento Institucional (PDI). 
+## INSTITUTOFEDERAL Parana
 
-## **1.2.2 O Curso Superior de Tecnologia em Processos Gerenciais** 
+Ministerio da Educacao
 
-Em 13 de novembro de 2009, o Curso Superior de Tecnologia em Processos Gerenciais foi oficialmente reconhecido pelo Conselho Federal de Administração (CFA) como habilitação adequada para formar profissionais capacitados na gestão de empresas. Esse reconhecimento foi estabelecido por meio das Resoluções Normativas nº 373 e nº 374, ambas publicadas em 12 de 
+novembro de 2009. Posteriormente, o CFA atualizou a regulamentação das atividades dos egressos dos Cursos Superiores de Tecnologia relacionados à área da Administração, por meio da Resolução Normativa CFA nº 505, de 11 de maio de 2017, que substitui as normativas anteriores.
 
-11 
+O Câmpus Avançado Arapongas é uma instituição pública e federal de ensino instituída pela Portaria nº 1.437 em 28 de Dezembro de 2018. O câmpus está vinculado ao Ministério da Educação (MEC) por meio da Secretaria de Educação Profissional e Tecnológica (SETEC). Alinhado aos princípios legais que fundamentam a criação dos Institutos Federais, Lei nº 11.892, de 29 de dezembro de 2008. O câmpus cumpre com a missão de oferecer, de forma gratuita, educação profissional e tecnológica em diferentes modalidades e níveis de ensino.
 
-## INSTITUTOFEDERAL Parana 
+Atualmente, o câmpus conta com uma equipe composta por 17 docentes, 7 técnicos administrativos em educação, 2 estagiários e 1 bolsista de apoio técnico e administrativo. Atende cerca de 500 estudantes em cursos presenciais e outros 120 na modalidade de Educação a Distância (EAD). A instituição oferta, no momento, um curso técnico subsequente presencial e outros três na modalidade EAD, um curso de pós-graduação e diversas opções de cursos de formação inicial e continuada.
 
-Ministerio da Educacao 
+## **1.2.3 Missão, Visão e Valores**
 
-novembro de 2009. Posteriormente, o CFA atualizou a regulamentação das atividades dos egressos dos Cursos Superiores de Tecnologia relacionados à área da Administração, por meio da Resolução Normativa CFA nº 505, de 11 de maio de 2017, que substitui as normativas anteriores. 
+O Curso Superior de Tecnologia em Processos Gerenciais está diretamente alinhado à missão institucional do IFPR, ao ser concebido para oferecer uma formação profissional integrada ao ensino, à pesquisa e à extensão. A missão do IFPR é “proporcionar educação profissional, científica e tecnológica, pública, gratuita, socialmente referenciada e de excelência, por meio do ensino, pesquisa e extensão, visando à formação integral de cidadãos críticos, empreendedores, comprometidos com a inovação e o desenvolvimento sustentável local e regional” (PDI 2024-2028). Deste modo, a proposta do curso contempla, transversalmente, temas como ética, empreendedorismo e desenvolvimento econômico sustentável, abordados tanto nos componentes curriculares quanto em atividades interdisciplinares. Além disso, o curso estimula
 
-O Câmpus Avançado Arapongas é uma instituição pública e federal de ensino instituída pela Portaria nº 1.437 em 28 de Dezembro de 2018. O câmpus está vinculado ao Ministério da Educação (MEC) por meio da Secretaria de Educação Profissional e Tecnológica (SETEC). Alinhado aos princípios legais que fundamentam a criação dos Institutos Federais, Lei nº 11.892, de 29 de dezembro de 2008. O câmpus cumpre com a missão de oferecer, de forma gratuita, educação profissional e tecnológica em diferentes modalidades e níveis de ensino. 
+12
 
-Atualmente, o câmpus conta com uma equipe composta por 17 docentes, 7 técnicos administrativos em educação, 2 estagiários e 1 bolsista de apoio técnico e administrativo. Atende cerca de 500 estudantes em cursos presenciais e outros 120 na modalidade de Educação a Distância (EAD). A instituição oferta, no momento, um curso técnico subsequente presencial e outros três na modalidade EAD, um curso de pós-graduação e diversas opções de cursos de formação inicial e continuada. 
+## INSTITUTOFEDERAL Parana
 
-## **1.2.3 Missão, Visão e Valores** 
+Ministerio da Educacao
 
-O Curso Superior de Tecnologia em Processos Gerenciais está diretamente alinhado à missão institucional do IFPR, ao ser concebido para oferecer uma formação profissional integrada ao ensino, à pesquisa e à extensão. A missão do IFPR é “proporcionar educação profissional, científica e tecnológica, pública, gratuita, socialmente referenciada e de excelência, por meio do ensino, pesquisa e extensão, visando à formação integral de cidadãos críticos, empreendedores, comprometidos com a inovação e o desenvolvimento sustentável local e regional” (PDI 2024-2028). Deste modo, a proposta do curso contempla, transversalmente, temas como ética, empreendedorismo e desenvolvimento econômico sustentável, abordados tanto nos componentes curriculares quanto em atividades interdisciplinares. Além disso, o curso estimula 
+uma visão sistêmica dos negócios, fundamentada nos principais conceitos de gestão e na aplicação prática voltada às características e demandas da realidade regional.
 
-12 
+Em consonância com a visão estratégica do IFPR — que busca o reconhecimento pela oferta de uma educação profissional, científica e tecnológica comprometida com a promoção do desenvolvimento territorial — o Projeto do Curso Superior de Tecnologia em Processos Gerenciais reafirma seu compromisso com a transformação social dos estudantes e da comunidade envolvida. Esse compromisso se materializa por meio de uma formação crítica, cidadã e atualizada, que assegura aos discentes as competências exigidas pelo mundo do trabalho e favorece sua empregabilidade. Além disso, o curso promove a inclusão social e o desenvolvimento por meio da oferta de auxílios aos estudantes de baixa renda ou com necessidades especiais, por meio da Política de Assistência Estudantil. Ademais, no projeto deste curso destaca-se a realização de projetos desenvolvidos em parceria entre docentes e discentes, os quais beneficiam não apenas a comunidade interna, mas a externa ao câmpus, fortalecendo a atuação social do IFPR.
 
-## INSTITUTOFEDERAL Parana 
+A criação do Curso Superior de Tecnologia em Processos Gerenciais está alicerçado nos valores do IFPR descritos no PDI 2024-2028, os quais são:
 
-Ministerio da Educacao 
+- Sustentabilidade;
 
-uma visão sistêmica dos negócios, fundamentada nos principais conceitos de gestão e na aplicação prática voltada às características e demandas da realidade regional. 
+- Educação de Qualidade e Excelência;
 
-Em consonância com a visão estratégica do IFPR — que busca o reconhecimento pela oferta de uma educação profissional, científica e tecnológica comprometida com a promoção do desenvolvimento territorial — o Projeto do Curso Superior de Tecnologia em Processos Gerenciais reafirma seu compromisso com a transformação social dos estudantes e da comunidade envolvida. Esse compromisso se materializa por meio de uma formação crítica, cidadã e atualizada, que assegura aos discentes as competências exigidas pelo mundo do trabalho e favorece sua empregabilidade. Além disso, o curso promove a inclusão social e o desenvolvimento por meio da oferta de auxílios aos estudantes de baixa renda ou com necessidades especiais, por meio da Política de Assistência Estudantil. Ademais, no projeto deste curso destaca-se a realização de projetos desenvolvidos em parceria entre docentes e discentes, os quais beneficiam não apenas a comunidade interna, mas a externa ao câmpus, fortalecendo a atuação social do IFPR. 
+- Ética;
 
-A criação do Curso Superior de Tecnologia em Processos Gerenciais está alicerçado nos valores do IFPR descritos no PDI 2024-2028, os quais são: 
+- Inclusão Social;
 
-- Sustentabilidade; 
+- Inovação;
 
-- Educação de Qualidade e Excelência; 
+- Territorialidade;
 
-- Ética; 
+- Regionalidade;
 
-- Inclusão Social; 
+- Visão Sistêmica;
 
-- Inovação; 
+- Democracia;
 
-- Territorialidade; 
+- Transparência;
 
-- Regionalidade; 
+- Efetividade;
 
-- Visão Sistêmica; 
+- Qualidade de Vida;
 
-- Democracia; 
+13
 
-- Transparência; 
+## INSTITUTOFEDERAL Parana
 
-- Efetividade; 
+Ministerio da Educacao<br>
 
-- Qualidade de Vida; 
+- Diversidade Humana e Cultural; e
 
-13 
+- Valorização das Pessoas.
 
-## INSTITUTOFEDERAL Parana 
+Tais valores regem a cultura do Câmpus Avançado Arapongas, que inclui o corpo pedagógico responsável por este projeto, os docentes, os técnicos administrativos em educação, os demais profissionais e estudantes. Além de estarem presentes no dia-a-dia do câmpus, os valores também serão trabalhados de forma transversal em diferentes disciplinas, bem como em projetos de pesquisa e extensão, como: identidade do IFPR, EcoIFPR (sustentabilidade, conscientização e coleta seletiva), WASH e outros.
 
-**==> picture [84 x 10] intentionally omitted <==**
+O Curso Superior de Tecnologia em Processos Gerenciais reflete, portanto, a identidade institucional, contribuindo para que o IFPR se torne mais conhecido e referenciado na região em que atua, por meio da oferta de um ensino de qualidade, pautado na inovação, no compromisso com o desenvolvimento socioeconômico e na promoção de transformações que impulsionam o crescimento regional.
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+## 1.3 O PROJETO PEDAGÓGICO DO CURSO
 
+## **1.3.1 Integração do Projeto ao PDI, PPI e PPP.**
 
-- Diversidade Humana e Cultural; e 
+Este PPC está em consonância com a Lei de Criação dos Institutos Federais, com o Regimento Geral do IFPR, o Projeto Político Institucional (PPI), Projeto Político Pedagógico (PPP) do câmpus bem como encontra-se inserido no Plano de Desenvolvimento Institucional (PDI). Permeiam este PPC proposições do PPI e PPP e PDI que vão desde o reconhecimento regional no que diz respeito às suas questões sociais, educacionais, econômicas e culturais, passando por ações de Ensino, Pesquisa, Extensão e Inovação que contribuam para uma formação que visa o exercício da cidadania e ascensão cultural do sujeito.
 
-- Valorização das Pessoas. 
+A justificativa da existência deste projeto está baseada em informações populacionais, sociais e educacionais da região de Arapongas; dos estabelecimentos comerciais e industriais e geração de empregos pela indústria e comércio nesta região. Apresenta ainda as equipes
 
-Tais valores regem a cultura do Câmpus Avançado Arapongas, que inclui o corpo pedagógico responsável por este projeto, os docentes, os técnicos administrativos em educação, os demais profissionais e estudantes. Além de estarem presentes no dia-a-dia do câmpus, os valores também serão trabalhados de forma transversal em diferentes disciplinas, bem como em projetos de pesquisa e extensão, como: identidade do IFPR, EcoIFPR (sustentabilidade, conscientização e coleta seletiva), WASH e outros. 
+14
 
-O Curso Superior de Tecnologia em Processos Gerenciais reflete, portanto, a identidade institucional, contribuindo para que o IFPR se torne mais conhecido e referenciado na região em que atua, por meio da oferta de um ensino de qualidade, pautado na inovação, no compromisso com o desenvolvimento socioeconômico e na promoção de transformações que impulsionam o crescimento regional. 
+## INSTITUTOFEDERAL Parana
 
-## 1.3 O PROJETO PEDAGÓGICO DO CURSO 
+Ministerio da Educacao
 
-## **1.3.1 Integração do Projeto ao PDI, PPI e PPP.** 
+responsáveis por conceber, realizar, avaliar e manter a qualidade do curso, bem como expõe a estrutura do câmpus e todo seu sistema institucional, necessário à sua operação.
 
-Este PPC está em consonância com a Lei de Criação dos Institutos Federais, com o Regimento Geral do IFPR, o Projeto Político Institucional (PPI), Projeto Político Pedagógico (PPP) do câmpus bem como encontra-se inserido no Plano de Desenvolvimento Institucional (PDI). Permeiam este PPC proposições do PPI e PPP e PDI que vão desde o reconhecimento regional no que diz respeito às suas questões sociais, educacionais, econômicas e culturais, passando por ações de Ensino, Pesquisa, Extensão e Inovação que contribuam para uma formação que visa o exercício da cidadania e ascensão cultural do sujeito. 
+Alinhado com a proposição de verticalização do processo de formação técnica e tecnológica, registrada no PDI (2024-2028), bem como a materialização de ofertas alinhadas às demandas regionais e nacionais, a Proposta Pedagógica do Curso de Tecnologia em Processos Gerenciais busca finalidade formar profissionais capazes de atuar em diversos setores da indústria, comércio e prestação de serviços aplicando conhecimentos avançados em gestão de processos.
 
-A justificativa da existência deste projeto está baseada em informações populacionais, sociais e educacionais da região de Arapongas; dos estabelecimentos comerciais e industriais e geração de empregos pela indústria e comércio nesta região. Apresenta ainda as equipes 
+As orientações acadêmicas e pedagógicas institucionais descritas no PDI e no PPI ganham materialidade neste PPC. As políticas descritas nesses documentos devem ser articuladas em decorrência da natureza dinâmica que envolve os processos, contribuindo para a eficácia organizacional e aponta para diretrizes estratégicas institucionais e educacionais, tais como: o ensino, pesquisa, extensão e gestão.
 
-14 
+No âmbito do Ensino, Pesquisa, Extensão e Inovação, o curso promove um processo de construção e ação efetiva na realidade local e regional. A formação do estudante busca integrar diferentes dimensões científicas, tecnológicas, culturais e históricas, considerando o desenvolvimento da capacidade de investigação científica, inovação e a inserção dos egressos no mundo do trabalho.
 
-## INSTITUTOFEDERAL Parana 
+Dessa forma, o PPC tem como pressupostos legais:
 
-Ministerio da Educacao 
+- Lei de Diretrizes e Bases da Educação Nacional – LDBEN (Lei 9.394/1996);
 
-responsáveis por conceber, realizar, avaliar e manter a qualidade do curso, bem como expõe a estrutura do câmpus e todo seu sistema institucional, necessário à sua operação. 
+- Lei nº 11.788/2008, que regula o estágio supervisionado;
 
-Alinhado com a proposição de verticalização do processo de formação técnica e tecnológica, registrada no PDI (2024-2028), bem como a materialização de ofertas alinhadas às demandas regionais e nacionais, a Proposta Pedagógica do Curso de Tecnologia em Processos Gerenciais busca finalidade formar profissionais capazes de atuar em diversos setores da indústria, comércio e prestação de serviços aplicando conhecimentos avançados em gestão de processos. 
+- Lei nº 11.892/2008, que cria os Institutos Federais de Educação, Ciência e Tecnologia;
 
-As orientações acadêmicas e pedagógicas institucionais descritas no PDI e no PPI ganham materialidade neste PPC. As políticas descritas nesses documentos devem ser articuladas em decorrência da natureza dinâmica que envolve os processos, contribuindo para a eficácia organizacional e aponta para diretrizes estratégicas institucionais e educacionais, tais como: o ensino, pesquisa, extensão e gestão. 
+- Decreto nº 7.611/2011, sobre Educação Especial e atendimento educacional especializado;
 
-No âmbito do Ensino, Pesquisa, Extensão e Inovação, o curso promove um processo de construção e ação efetiva na realidade local e regional. A formação do estudante busca integrar diferentes dimensões científicas, tecnológicas, culturais e históricas, considerando o desenvolvimento da capacidade de investigação científica, inovação e a inserção dos egressos no mundo do trabalho. 
+- Resolução nº 7, de 18 de dezembro de 2018, do Conselho Nacional de Educação, que estabelece diretrizes para a extensão na Educação Superior Brasileira; Resolução nº 2, de
 
-Dessa forma, o PPC tem como pressupostos legais: 
+15
 
-- Lei de Diretrizes e Bases da Educação Nacional – LDBEN (Lei 9.394/1996); 
+## INSTITUTOFEDERAL Parana
 
-- Lei nº 11.788/2008, que regula o estágio supervisionado; 
+Ministerio da Educacao<br>
 
-- Lei nº 11.892/2008, que cria os Institutos Federais de Educação, Ciência e Tecnologia; 
+15 de junho de 2012, sobre as Diretrizes Curriculares Nacionais para a Educação Ambiental;
 
-- Decreto nº 7.611/2011, sobre Educação Especial e atendimento educacional especializado; 
+- Lei nº 10.639/03, que estabelece diretrizes sobre a temática “História e Cultura Afro-Brasileira e Indígena”.
 
-- Resolução nº 7, de 18 de dezembro de 2018, do Conselho Nacional de Educação, que estabelece diretrizes para a extensão na Educação Superior Brasileira; Resolução nº 2, de 
+- Portaria Proens/IFPR nº 121, de 12 de junho de 2024. que estabelece diretrizes e procedimentos de abertura, suspensão, reversão de suspensão e extinção de cursos e de atualizações  e ajustes de projetos pedagógicos de cursos técnicos e de graduação nas modalidades presencial e a distância no âmbito do Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR).
 
-15 
+## **1.3.2 Fundamentos Legais e Normativos da Área**
 
-## INSTITUTOFEDERAL Parana 
+A denominação do curso está conforme o Catálogo Nacional de Cursos Superiores de Tecnologia  e para a estruturação curricular deste curso, tomou-se por base a resolução nº 55/2011 IFPR e também o Parecer CNE/CP nº 01/2021 que Define as Diretrizes Curriculares Nacionais Gerais para a Educação Profissional e Tecnológica, sobre “A Organização da Educação Profissional de Nível Tecnológico”. O curso também considera as normativas previstas na Lei de Diretrizes e Bases da Educação Nacional (LDB), Lei nº 9.394/1996, que estabelece as diretrizes gerais para a educação no Brasil, e nas políticas públicas de educação profissional e tecnológica, conforme disposto na Lei nº 11.892/2008, que institui os Institutos Federais de Educação, Ciência e Tecnologia.
 
-**==> picture [84 x 10] intentionally omitted <==**
+Conforme a Lei de Diretrizes e Bases da Educação (LDB - Lei n° 9.394/1996), a organização curricular dos cursos de tecnologia deve buscar a efetivação da educação profissional integrada às diferentes formas de educação, ao trabalho, a ciência e a tecnologia, objetivando o permanente desenvolvimento de aptidões para a vida produtiva e a capacidade de adaptar-se às novas condições de ocupação e aperfeiçoamentos posteriores. Assim, tem-se por meta a autonomia intelectual do trabalhador, de forma que esse consiga articular e mobilizar
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+16
 
+## INSTITUTOFEDERAL Parana
 
-15 de junho de 2012, sobre as Diretrizes Curriculares Nacionais para a Educação Ambiental; 
+Ministerio da Educacao
 
-- Lei nº 10.639/03, que estabelece diretrizes sobre a temática “História e Cultura Afro-Brasileira e Indígena”. 
+competências que envolvam conhecimentos, habilidades, atitudes e valores para dar respostas inovadoras aos desafios profissionais e tecnológicos.
 
-- Portaria Proens/IFPR nº 121, de 12 de junho de 2024. que estabelece diretrizes e procedimentos de abertura, suspensão, reversão de suspensão e extinção de cursos e de atualizações  e ajustes de projetos pedagógicos de cursos técnicos e de graduação nas modalidades presencial e a distância no âmbito do Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR). 
+Para tanto, a organização curricular apoia-se no compromisso ético com o desenvolvimento de competências profissionais, conforme as orientações definidas pelos pareceres CNE/CES n° 776/1997 e CNE/CP n° 29/2002, destacando-se as seguintes orientações: 1) Assegurar ampla liberdade às Instituições de Ensino Superior na especificação dos componentes curriculares e carga horária necessária a integralização dos currículos; 2) Evitar ao máximo a fixação de conteúdo específicos, a pré-determinação de cargas horárias, mas propor tópicos ou campos de estudo e demais experiências de ensino aprendizagem que possam compor os currículos; 3) Evitar prolongamentos desnecessários na sua duração dos cursos; 4) Oportunizar sólida formação geral, permitindo variados tipos de formação e habilitações diferenciadas em um mesmo programa de curso; 5) Estimular a autonomia nos estudos contribuindo para a independência profissional e intelectual do acadêmico; 6) Fortalecer a articulação teoria prática, valorizando a pesquisa individual e coletiva e a participação em atividades de extensão; 7) Utilizar instrumentos avaliativos variados e periódicos que sirvam para informar os sujeitos do processo sobre o desenvolvimento das atividades didáticas.
 
-## **1.3.2 Fundamentos Legais e Normativos da Área** 
+Destaca-se também a Lei n° 13.005/2014 que definiu o Plano Nacional de Educação - PNE - e estabeleceu diretrizes curriculares que asseguram a necessária flexibilidade e diversidade nos programas oferecidos pelas diferentes instituições de ensino superior, de forma a melhor atender às necessidades diferenciais de suas clientelas e às peculiaridades das regiões nas quais se inserem. Assim, a orientação aqui seguida é a da instituição de diretrizes curriculares gerais para a organização e o funcionamento deste curso superior de tecnologia, a partir das diretrizes contidas no Catálogo Nacional de Cursos Superiores de Tecnologia do Ministério da Educação. Ainda, cabe destacar que se tomou por base:
 
-A denominação do curso está conforme o Catálogo Nacional de Cursos Superiores de Tecnologia  e para a estruturação curricular deste curso, tomou-se por base a resolução nº 55/2011 IFPR e também o Parecer CNE/CP nº 01/2021 que Define as Diretrizes Curriculares Nacionais Gerais para a Educação Profissional e Tecnológica, sobre “A Organização da Educação Profissional de Nível Tecnológico”. O curso também considera as normativas previstas na Lei de Diretrizes e Bases da Educação Nacional (LDB), Lei nº 9.394/1996, que estabelece as diretrizes gerais para a educação no Brasil, e nas políticas públicas de educação profissional e tecnológica, conforme disposto na Lei nº 11.892/2008, que institui os Institutos Federais de Educação, Ciência e Tecnologia. 
+- A Lei n. 13.005, de 25 de junho de 2014, que aprova o Plano Nacional de Educação (PNE) 2014-2024 e dá outras providências;
 
-Conforme a Lei de Diretrizes e Bases da Educação (LDB - Lei n° 9.394/1996), a organização curricular dos cursos de tecnologia deve buscar a efetivação da educação profissional integrada às diferentes formas de educação, ao trabalho, a ciência e a tecnologia, objetivando o permanente desenvolvimento de aptidões para a vida produtiva e a capacidade de adaptar-se às novas condições de ocupação e aperfeiçoamentos posteriores. Assim, tem-se por meta a autonomia intelectual do trabalhador, de forma que esse consiga articular e mobilizar 
+- A Resolução CNE/CP n. 7, de 18 de dezembro de 2018, que estabelece as diretrizes para a Extensão na Educação Superior Brasileira;
 
-16 
+17
 
-## INSTITUTOFEDERAL Parana 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+Ministerio da Educacao
 
-competências que envolvam conhecimentos, habilidades, atitudes e valores para dar respostas inovadoras aos desafios profissionais e tecnológicos. 
+- A Política Nacional de Extensão Universitária/FORPROEX (2012);
 
-Para tanto, a organização curricular apoia-se no compromisso ético com o desenvolvimento de competências profissionais, conforme as orientações definidas pelos pareceres CNE/CES n° 776/1997 e CNE/CP n° 29/2002, destacando-se as seguintes orientações: 1) Assegurar ampla liberdade às Instituições de Ensino Superior na especificação dos componentes curriculares e carga horária necessária a integralização dos currículos; 2) Evitar ao máximo a fixação de conteúdo específicos, a pré-determinação de cargas horárias, mas propor tópicos ou campos de estudo e demais experiências de ensino aprendizagem que possam compor os currículos; 3) Evitar prolongamentos desnecessários na sua duração dos cursos; 4) Oportunizar sólida formação geral, permitindo variados tipos de formação e habilitações diferenciadas em um mesmo programa de curso; 5) Estimular a autonomia nos estudos contribuindo para a independência profissional e intelectual do acadêmico; 6) Fortalecer a articulação teoria prática, valorizando a pesquisa individual e coletiva e a participação em atividades de extensão; 7) Utilizar instrumentos avaliativos variados e periódicos que sirvam para informar os sujeitos do processo sobre o desenvolvimento das atividades didáticas. 
+- O Decreto nº 5.626, de 22 de dezembro de 2005;
 
-Destaca-se também a Lei n° 13.005/2014 que definiu o Plano Nacional de Educação - PNE - e estabeleceu diretrizes curriculares que asseguram a necessária flexibilidade e diversidade nos programas oferecidos pelas diferentes instituições de ensino superior, de forma a melhor atender às necessidades diferenciais de suas clientelas e às peculiaridades das regiões nas quais se inserem. Assim, a orientação aqui seguida é a da instituição de diretrizes curriculares gerais para a organização e o funcionamento deste curso superior de tecnologia, a partir das diretrizes contidas no Catálogo Nacional de Cursos Superiores de Tecnologia do Ministério da Educação. Ainda, cabe destacar que se tomou por base: 
+- A Lei n° 10.436, de 24 de abril de 2002, que dispõe sobre a Língua Brasileira de Sinais;
 
-- A Lei n. 13.005, de 25 de junho de 2014, que aprova o Plano Nacional de Educação (PNE) 2014-2024 e dá outras providências; 
+- A Lei nº 9.795, de 27 de abril de 1999, que institui a Política Nacional de Educação Ambiental e dá outras providências;
 
-- A Resolução CNE/CP n. 7, de 18 de dezembro de 2018, que estabelece as diretrizes para a Extensão na Educação Superior Brasileira; 
+- A Resolução CNE/CP nº 2, de 15 de junho de 2012, que estabelece as Diretrizes Curriculares Nacionais para a Educação Ambiental;
 
-17 
+- A Resolução CNE/CP nº 1, de 30 de maio de 2012. Estabelece Diretrizes Nacionais para a Educação em Direitos Humanos;
 
-## INSTITUTOFEDERAL Parana 
+- As Diretrizes Curriculares Nacionais para Educação das Relações Étnico-Raciais e para Ensino de História e Cultura Afro-Brasileira, Africana e Indígena. Conforme Lei nº 9.394/96, com redação dada pelas Leis nº 10.639/2003 e nº 11.645/2008 e pela Resolução nº 1, de 17 de junho de 2004;
 
-Ministerio da Educacao 
+- A Lei n° 10.861, de 14 de abril de 2004. Estabelece que o ENADE é componente curricular obrigatório dos cursos de graduação (exceto para os cursos de Formação Pedagógica de Docentes), informação esta que deve constar como nota de rodapé na matriz curricular;
 
-- A Política Nacional de Extensão Universitária/FORPROEX (2012); 
+- A Lei nº 12.764, de 27 de dezembro de 2012. Institui a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista;
 
-- O Decreto nº 5.626, de 22 de dezembro de 2005; 
+- A Lei nº 11.788, de 25 de setembro de 2008. Dispõe sobre o estágio de estudantes;
 
-- A Lei n° 10.436, de 24 de abril de 2002, que dispõe sobre a Língua Brasileira de Sinais; 
+- A Lei n. 13.425, de 30 de março de 2017 que estabelece diretrizes gerais e ações complementares sobre prevenção e combate a incêndio e a desastres em estabelecimentos, edificações e áreas de reunião de público;
 
-- A Lei nº 9.795, de 27 de abril de 1999, que institui a Política Nacional de Educação Ambiental e dá outras providências; 
+- A Lei n. 12.605, de 03 de abril de 2012 que determina o emprego obrigatório da flexão de gênero para nomear profissão ou grau em diplomas Sendo um Curso Superior de Tecnologia;
 
-- A Resolução CNE/CP nº 2, de 15 de junho de 2012, que estabelece as Diretrizes Curriculares Nacionais para a Educação Ambiental; 
+- Resolução CNE/CP nº 1/2021 de 5 janeiro de 2021- Define as Diretrizes Curriculares Nacionais Gerais para a Educação Profissional e Tecnológica;
 
-- A Resolução CNE/CP nº 1, de 30 de maio de 2012. Estabelece Diretrizes Nacionais para a Educação em Direitos Humanos; 
+18
 
-- As Diretrizes Curriculares Nacionais para Educação das Relações Étnico-Raciais e para Ensino de História e Cultura Afro-Brasileira, Africana e Indígena. Conforme Lei nº 9.394/96, com redação dada pelas Leis nº 10.639/2003 e nº 11.645/2008 e pela Resolução nº 1, de 17 de junho de 2004; 
+## INSTITUTOFEDERAL Parana
 
-- A Lei n° 10.861, de 14 de abril de 2004. Estabelece que o ENADE é componente curricular obrigatório dos cursos de graduação (exceto para os cursos de Formação Pedagógica de Docentes), informação esta que deve constar como nota de rodapé na matriz curricular; 
+Ministerio da Educacao
 
-- A Lei nº 12.764, de 27 de dezembro de 2012. Institui a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista; 
+● Catálogo Nacional dos Cursos Superiores de Tecnologia (4. ed., 2024).
 
-- A Lei nº 11.788, de 25 de setembro de 2008. Dispõe sobre o estágio de estudantes; 
+Considerando que o curso tem carga horária em EaD, tomou-se por base a Portaria MEC Nº 2.117, de 6 de dezembro de 2019 — Dispõe sobre a oferta de carga horária na modalidade de Ensino a Distância - EaD em cursos de graduação presenciais ofertados por Instituições de Educação Superior —  IES pertencentes ao Sistema Federal de Ensino - Art. 2º As IES que diz “poderão introduzir a oferta de carga horária na modalidade de EaD na organização pedagógica e curricular de seus cursos de graduação presenciais, até o limite de 30% da carga horária total do curso” e, ainda, como exigido pelo § 1º do mesmo artigo, o PPC apresenta claramente, na matriz curricular, o percentual de carga horária a distância com indicação das metodologias a serem utilizadas, conforme exposto no item 3 deste PPC.
 
-- A Lei n. 13.425, de 30 de março de 2017 que estabelece diretrizes gerais e ações complementares sobre prevenção e combate a incêndio e a desastres em estabelecimentos, edificações e áreas de reunião de público; 
+## **1.3.3 Integração do Projeto com o SINAES**
 
-- A Lei n. 12.605, de 03 de abril de 2012 que determina o emprego obrigatório da flexão de gênero para nomear profissão ou grau em diplomas Sendo um Curso Superior de Tecnologia; 
+O Projeto Pedagógico do Curso foi elaborado em conformidade com os princípios estabelecidos pelo Sistema Nacional de Avaliação da Educação Superior (SINAES), regulamentado pela Lei nº 10.861, de 14 de abril de 2004. Esse instrumento direciona as práticas acadêmicas e institucionais para a garantia da qualidade e relevância do ensino. A integração do PPC do curso com o SINAES reflete o compromisso da instituição com a excelência acadêmica e o impacto social.
 
-- Resolução CNE/CP nº 1/2021 de 5 janeiro de 2021- Define as Diretrizes Curriculares Nacionais Gerais para a Educação Profissional e Tecnológica; 
+Ao inserir-se no SINAES, o IFPR reafirma a avaliação como diagnóstico do processo e se propõe a dar continuidade a consolidação de uma cultura de avaliação junto à comunidade. O Exame Nacional de Desempenho de Estudantes - ENADE, que integra o SINAES, juntamente com a avaliação institucional e a avaliação dos cursos de graduação, tem o objetivo de aferir o rendimento dos alunos dos cursos de graduação em relação aos conteúdos programáticos, suas habilidades e competências e o nível de atualização dos estudantes com relação à realidade brasileira e mundial.
 
-18 
+19
 
-## INSTITUTOFEDERAL Parana 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+Ministerio da Educacao
 
-● Catálogo Nacional dos Cursos Superiores de Tecnologia (4. ed., 2024). 
+O SINAES, com o objetivo de melhorar a qualidade da educação superior entre outros, estabelece no seu art. 3° as dez dimensões para empreender sua avaliação, assim, abaixo encontram-se alguns dos itens do Projeto Pedagógico do Curso de Tecnologia em Processos Gerenciais relacionados àquela dimensão que contemplam.
 
-Considerando que o curso tem carga horária em EaD, tomou-se por base a Portaria MEC Nº 2.117, de 6 de dezembro de 2019 — Dispõe sobre a oferta de carga horária na modalidade de Ensino a Distância - EaD em cursos de graduação presenciais ofertados por Instituições de Educação Superior —  IES pertencentes ao Sistema Federal de Ensino - Art. 2º As IES que diz “poderão introduzir a oferta de carga horária na modalidade de EaD na organização pedagógica e curricular de seus cursos de graduação presenciais, até o limite de 30% da carga horária total do curso” e, ainda, como exigido pelo § 1º do mesmo artigo, o PPC apresenta claramente, na matriz curricular, o percentual de carga horária a distância com indicação das metodologias a serem utilizadas, conforme exposto no item 3 deste PPC. 
+1. A missão, Visão e Valores (item 1.2.3) e o Plano de Desenvolvimento Institucional, em Integração ao PDI, PPI e PPP (item 1.3.1).
 
-## **1.3.3 Integração do Projeto com o SINAES** 
+2. A política para o ensino, a pesquisa, a pós-graduação, a extensão e as respectivas normas de operacionalização, incluídos os procedimentos para estímulo à produção acadêmica, as bolsas de pesquisa, de monitoria e demais modalidades, em Fundamento Legais e Normativos da Área (item 3.1), Justificativa (item 2.1), Objetivos (item 2.2), Concepção do Curso (item 2.4), Perfil do Egresso (item 2.5), Estrutura Curricular (item 4.1), Ementário e Bibliografias (item 4.2), Avaliação da Aprendizagem ( item 4.3.1), Programas de Pesquisa, Extensão, Inovação, Inclusão Social, Monitoria e Bolsa-Atleta (item 5.1.1).
 
-O Projeto Pedagógico do Curso foi elaborado em conformidade com os princípios estabelecidos pelo Sistema Nacional de Avaliação da Educação Superior (SINAES), regulamentado pela Lei nº 10.861, de 14 de abril de 2004. Esse instrumento direciona as práticas acadêmicas e institucionais para a garantia da qualidade e relevância do ensino. A integração do PPC do curso com o SINAES reflete o compromisso da instituição com a excelência acadêmica e o impacto social. 
+3. A responsabilidade social da instituição, considerada especialmente no que se refere à sua contribuição em relação à inclusão social, ao desenvolvimento econômico e social, à defesa do meio ambiente, da memória cultural, da produção artística e do patrimônio cultural, em Responsabilidade Social do Curso (item 2.3.1), Meio Ambiente e Desenvolvimento Humano (item 2.3.2) e Memória e Patrimônio Artístico e Cultural (item 2.3.3).
 
-Ao inserir-se no SINAES, o IFPR reafirma a avaliação como diagnóstico do processo e se propõe a dar continuidade a consolidação de uma cultura de avaliação junto à comunidade. O Exame Nacional de Desempenho de Estudantes - ENADE, que integra o SINAES, juntamente com a avaliação institucional e a avaliação dos cursos de graduação, tem o objetivo de aferir o rendimento dos alunos dos cursos de graduação em relação aos conteúdos programáticos, suas habilidades e competências e o nível de atualização dos estudantes com relação à realidade brasileira e mundial. 
+4. A comunicação com a sociedade (item 2.3.4).
 
-19 
+5. As políticas de pessoal, de carreiras do corpo docente e corpo técnico administrativo, seu aperfeiçoamento, desenvolvimento profissional e suas condições de trabalho, em Corpo Docente (item 6.1) e Corpo Técnico Administrativo em Educação (item 6.2).
 
-## INSTITUTOFEDERAL Parana 
+6. Organização e gestão da instituição, especialmente o funcionamento e representatividade dos colegiados, sua independência e autonomia na relação com a mantenedora, e a participação dos segmentos da comunidade universitária nos processos decisórios, em Instrumentos de Gestão Democrática (item 6.3).
 
-Ministerio da Educacao 
+7. Infraestrutura física, especialmente a de ensino e de pesquisa, biblioteca, recursos de informação e comunicação, no tópico de mesmo nome (item 7).
 
-O SINAES, com o objetivo de melhorar a qualidade da educação superior entre outros, estabelece no seu art. 3° as dez dimensões para empreender sua avaliação, assim, abaixo encontram-se alguns dos itens do Projeto Pedagógico do Curso de Tecnologia em Processos Gerenciais relacionados àquela dimensão que contemplam. 
+20
 
-1. A missão, Visão e Valores (item 1.2.3) e o Plano de Desenvolvimento Institucional, em Integração ao PDI, PPI e PPP (item 1.3.1). 
+## INSTITUTOFEDERAL Parana
 
-2. A política para o ensino, a pesquisa, a pós-graduação, a extensão e as respectivas normas de operacionalização, incluídos os procedimentos para estímulo à produção acadêmica, as bolsas de pesquisa, de monitoria e demais modalidades, em Fundamento Legais e Normativos da Área (item 3.1), Justificativa (item 2.1), Objetivos (item 2.2), Concepção do Curso (item 2.4), Perfil do Egresso (item 2.5), Estrutura Curricular (item 4.1), Ementário e Bibliografias (item 4.2), Avaliação da Aprendizagem ( item 4.3.1), Programas de Pesquisa, Extensão, Inovação, Inclusão Social, Monitoria e Bolsa-Atleta (item 5.1.1). 
+Ministerio da Educacao<br>
 
-3. A responsabilidade social da instituição, considerada especialmente no que se refere à sua contribuição em relação à inclusão social, ao desenvolvimento econômico e social, à defesa do meio ambiente, da memória cultural, da produção artística e do patrimônio cultural, em Responsabilidade Social do Curso (item 2.3.1), Meio Ambiente e Desenvolvimento Humano (item 2.3.2) e Memória e Patrimônio Artístico e Cultural (item 2.3.3). 
+8. Planejamento e avaliação, especialmente em relação aos processos, resultados e eficácia da autoavaliação institucional, em Plano de Avaliação Institucional (item 4.3.2), Avaliação do Curso (item 4.3.3), e Avaliação do Projeto Pedagógico de Curso (item 4.3.4).
 
-4. A comunicação com a sociedade (item 2.3.4). 
+9. Políticas de atendimento aos estudantes (item 5).
 
-5. As políticas de pessoal, de carreiras do corpo docente e corpo técnico administrativo, seu aperfeiçoamento, desenvolvimento profissional e suas condições de trabalho, em Corpo Docente (item 6.1) e Corpo Técnico Administrativo em Educação (item 6.2). 
+10. Sustentabilidade financeira, tendo em vista o significado social da continuidade dos compromissos na oferta da educação superior, no tópico planejamento econômico e sustentabilidade financeira (item 8).
 
-6. Organização e gestão da instituição, especialmente o funcionamento e representatividade dos colegiados, sua independência e autonomia na relação com a mantenedora, e a participação dos segmentos da comunidade universitária nos processos decisórios, em Instrumentos de Gestão Democrática (item 6.3). 
+## **2. PRINCÍPIOS E FUNDAMENTOS PEDAGÓGICOS**
 
-7. Infraestrutura física, especialmente a de ensino e de pesquisa, biblioteca, recursos de informação e comunicação, no tópico de mesmo nome (item 7). 
+A estrutura didático-pedagógica do curso superior em questão está alinhada com a Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394, de 20 de dezembro de 1996), com os pareceres emitidos pelo Conselho Nacional de Educação (CNE), com as Diretrizes Curriculares Nacionais do Ensino Superior, além de estar em conformidade com o Estatuto do Instituto Federal do Paraná, com seu Plano de Desenvolvimento Institucional (PDI), com a Resolução nº 55/11, que regulamenta os aspectos didático-pedagógicos e administrativos dos cursos de graduação oferecidos pelo IFPR, bem como a Resolução nº 02/2017 que altera artigos específicos da Resolução nº 55/11 e,  por fim, a Resolução CNE/CP nº 1/2021, que define as Diretrizes Curriculares Nacionais Gerais para a Educação Profissional e Tecnológica.
 
-20 
+A organização didático-pedagógica do Curso Superior de Tecnologia em Processos Gerenciais está estruturada como uma oferta de Educação Profissional Tecnológica de Graduação, na modalidade presencial com parte do ensino realizado de forma remota (EAD) por meio de Tecnologias de Informação e Comunicação (TICs), em conformidade com os princípios estabelecidos pela Resolução nº 55/11 do IFPR e da Resolução CNE/CP nº 1/2021. Essas normativas orientam a formação de profissionais éticos, responsáveis, autônomos e criativos, com capacidade para tomar decisões e propor soluções voltadas aos desafios do desenvolvimento social, técnico, econômico e cultural do país, bem como, destacam, ainda, a formação de
 
-## INSTITUTOFEDERAL Parana 
+21
 
-**==> picture [84 x 10] intentionally omitted <==**
+## INSTITUTOFEDERAL Parana
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+Ministerio da Educacao
 
+profissionais qualificados utilizar, desenvolver e adaptar tecnologias, com compreensão crítica de suas implicações no processo produtivo, no meio ambiente e na sociedade.
 
-8. Planejamento e avaliação, especialmente em relação aos processos, resultados e eficácia da autoavaliação institucional, em Plano de Avaliação Institucional (item 4.3.2), Avaliação do Curso (item 4.3.3), e Avaliação do Projeto Pedagógico de Curso (item 4.3.4). 
+O Curso Superior de Tecnologia em Processos Gerenciais será ofertado com até 30% de sua carga horária na modalidade a distância (EaD), conforme previsto no Decreto nº 12.456/2025, que regulamenta a Nova Política de Educação a Distância, a carga horária à distância em cursos presenciais pode ser estendida até 30%. A utilização do ensino remoto dentro do presencial é uma estratégia que visa ampliar o acesso à formação superior, especialmente ao público trabalhador — majoritário em Arapongas. Ademais, intenciona-se promover maior flexibilidade e familiarização com as tecnologias digitais atualmente incorporadas ao mundo do trabalho.
 
-9. Políticas de atendimento aos estudantes (item 5). 
+Em consonância com a Resolução CNE/CP nº 1, de 5 de janeiro de 2021, que estabelece as Diretrizes Curriculares Nacionais Gerais para a Educação Profissional e Tecnológica, o curso adota estratégias pedagógicas pautadas na contextualização, na flexibilização e na interdisciplinaridade, assegurando a articulação entre teoria e prática em todas as etapas do processo de ensino e aprendizagem, conforme disposto no Art. 3º, inciso IX da referida resolução.
 
-10. Sustentabilidade financeira, tendo em vista o significado social da continuidade dos compromissos na oferta da educação superior, no tópico planejamento econômico e sustentabilidade financeira (item 8). 
+O Curso Superior de Tecnologia em Processos Gerenciais do IFPR – Câmpus Avançado Arapongas está organizado em componentes curriculares distribuídos ao longo de dois anos (quatro semestres). Essa estrutura curricular visa promover a integração entre os conhecimentos teóricos e as práticas profissionais, contribuindo para a formação integral do estudante, estimulando uma postura ética, proativa e responsável. Além disso, busca prepará-lo para o exercício da cidadania de forma consciente e comprometida com as questões sociais e ambientais.
 
-## **2. PRINCÍPIOS E FUNDAMENTOS PEDAGÓGICOS** 
+A proposta pedagógica do curso está alinhada às Diretrizes Curriculares Nacionais, incorporando princípios que asseguram a articulação entre educação, trabalho, ciência, tecnologia e cultura. Também contempla a integração entre saberes gerais e específicos, a inseparabilidade entre a formação educacional e a prática social. Reconhece, ainda, a diversidade dos sujeitos e respeita as diferenças étnico-raciais, de gênero, orientação sexual, faixa etária, regionalidades e manifestações culturais, conforme os pressupostos que orientam a Educação Superior.
 
-A estrutura didático-pedagógica do curso superior em questão está alinhada com a Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394, de 20 de dezembro de 1996), com os pareceres emitidos pelo Conselho Nacional de Educação (CNE), com as Diretrizes Curriculares Nacionais do Ensino Superior, além de estar em conformidade com o Estatuto do Instituto Federal do Paraná, com seu Plano de Desenvolvimento Institucional (PDI), com a Resolução nº 55/11, que regulamenta os aspectos didático-pedagógicos e administrativos dos cursos de graduação oferecidos pelo IFPR, bem como a Resolução nº 02/2017 que altera artigos específicos da Resolução nº 55/11 e,  por fim, a Resolução CNE/CP nº 1/2021, que define as Diretrizes Curriculares Nacionais Gerais para a Educação Profissional e Tecnológica. 
+22
 
-A organização didático-pedagógica do Curso Superior de Tecnologia em Processos Gerenciais está estruturada como uma oferta de Educação Profissional Tecnológica de Graduação, na modalidade presencial com parte do ensino realizado de forma remota (EAD) por meio de Tecnologias de Informação e Comunicação (TICs), em conformidade com os princípios estabelecidos pela Resolução nº 55/11 do IFPR e da Resolução CNE/CP nº 1/2021. Essas normativas orientam a formação de profissionais éticos, responsáveis, autônomos e criativos, com capacidade para tomar decisões e propor soluções voltadas aos desafios do desenvolvimento social, técnico, econômico e cultural do país, bem como, destacam, ainda, a formação de 
+## INSTITUTOFEDERAL Parana
 
-21 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+## 2.1 JUSTIFICATIVA
 
-Ministerio da Educacao 
+A elaboração do projeto ocorreu por meio dos dados recolhidos pela Comissão de Estruturação do Curso junto às pesquisas realizadas quando da abertura do câmpus, constantes na Proposta de Projeto para criação do Câmpus Avançado Arapongas do Instituto Federal do Paraná elaborada em 2018. Nessas pesquisas, buscou-se informações acerca das necessidades da comunidade, bem como das possibilidades de oferta de um curso na modalidade Tecnológica que complemente e consolide o eixo de Gestão e Negócios da instituição. Referido levantamento, planejado e executado de forma colaborativa em reuniões periódicas da Comissão, tornou-se elemento imprescindível para que o Curso Superior de Tecnologia em Processos Gerenciais efetive a oferta à comunidade de um ensino de qualidade e expanda a verticalização do eixo de Gestão e Negócios.
 
-profissionais qualificados utilizar, desenvolver e adaptar tecnologias, com compreensão crítica de suas implicações no processo produtivo, no meio ambiente e na sociedade. 
+A proposta do Curso Superior de Tecnologia em Processos Gerenciais também está alinhada aos objetivos do PDI 2024-2028 do IFPR, o qual prevê o fortalecimento do eixo Gestão e Negócios, bem como a verticalização do ensino por meio da criação de cursos que permitam ao estudante a trajetória de aprendizado e desenvolvimento profissional. Esta formação verticalizada foi proposta pelo colegiado a partir da existência do Curso Técnico Subsequente em Melhoria de Processos, a qual também está relacionada ao curso Técnico Subsequente em Energias Renováveis, fazendo, assim, a ligação entre ensino técnico e superior, bem como a ligação entre o eixo de Gestão e Negócios e o eixo de Controle e Processos Industriais.
 
-O Curso Superior de Tecnologia em Processos Gerenciais será ofertado com até 30% de sua carga horária na modalidade a distância (EaD), conforme previsto no Decreto nº 12.456/2025, que regulamenta a Nova Política de Educação a Distância, a carga horária à distância em cursos presenciais pode ser estendida até 30%. A utilização do ensino remoto dentro do presencial é uma estratégia que visa ampliar o acesso à formação superior, especialmente ao público trabalhador — majoritário em Arapongas. Ademais, intenciona-se promover maior flexibilidade e familiarização com as tecnologias digitais atualmente incorporadas ao mundo do trabalho. 
+Em recente consulta à comunidade, foi realizada uma pesquisa, por meio de formulário eletrônico do _Google Forms_ , enviado aos representantes locais para divulgação em seus grupos de interesse. O formulário obteve 100 respostas, as quais foram analisadas pelo corpo pedagógico e referenciadas, anteriormente, no processo de escrita da PAC. Dentre os respondentes, 95% apontaram interesse em fazer o Curso Superior de Tecnologia em Processos Gerenciais (Figura 1). Outro dado relevante é que 95% das respostas são de pessoas residentes no município de Arapongas (Figura 2).
 
-Em consonância com a Resolução CNE/CP nº 1, de 5 de janeiro de 2021, que estabelece as Diretrizes Curriculares Nacionais Gerais para a Educação Profissional e Tecnológica, o curso adota estratégias pedagógicas pautadas na contextualização, na flexibilização e na interdisciplinaridade, assegurando a articulação entre teoria e prática em todas as etapas do processo de ensino e aprendizagem, conforme disposto no Art. 3º, inciso IX da referida resolução. 
+23
 
-O Curso Superior de Tecnologia em Processos Gerenciais do IFPR – Câmpus Avançado Arapongas está organizado em componentes curriculares distribuídos ao longo de dois anos (quatro semestres). Essa estrutura curricular visa promover a integração entre os conhecimentos teóricos e as práticas profissionais, contribuindo para a formação integral do estudante, estimulando uma postura ética, proativa e responsável. Além disso, busca prepará-lo para o exercício da cidadania de forma consciente e comprometida com as questões sociais e ambientais. 
+## INSTITUTOFEDERAL Parana
 
-A proposta pedagógica do curso está alinhada às Diretrizes Curriculares Nacionais, incorporando princípios que asseguram a articulação entre educação, trabalho, ciência, tecnologia e cultura. Também contempla a integração entre saberes gerais e específicos, a inseparabilidade entre a formação educacional e a prática social. Reconhece, ainda, a diversidade dos sujeitos e respeita as diferenças étnico-raciais, de gênero, orientação sexual, faixa etária, regionalidades e manifestações culturais, conforme os pressupostos que orientam a Educação Superior. 
+Ministerio da Educacao<br>
 
-22 
+FIGURA 1 - Interesse em fazer o curso por parte dos consultados.
 
-## INSTITUTOFEDERAL Parana 
+## Teminteresse emfazer ocurso?
 
-Ministerio da Educacao 
+100respostas
 
-## 2.1 JUSTIFICATIVA 
+Sim<br>Nao<br>95%<br>
 
-A elaboração do projeto ocorreu por meio dos dados recolhidos pela Comissão de Estruturação do Curso junto às pesquisas realizadas quando da abertura do câmpus, constantes na Proposta de Projeto para criação do Câmpus Avançado Arapongas do Instituto Federal do Paraná elaborada em 2018. Nessas pesquisas, buscou-se informações acerca das necessidades da comunidade, bem como das possibilidades de oferta de um curso na modalidade Tecnológica que complemente e consolide o eixo de Gestão e Negócios da instituição. Referido levantamento, planejado e executado de forma colaborativa em reuniões periódicas da Comissão, tornou-se elemento imprescindível para que o Curso Superior de Tecnologia em Processos Gerenciais efetive a oferta à comunidade de um ensino de qualidade e expanda a verticalização do eixo de Gestão e Negócios. 
+**Fonte:** Os autores (2024).
 
-A proposta do Curso Superior de Tecnologia em Processos Gerenciais também está alinhada aos objetivos do PDI 2024-2028 do IFPR, o qual prevê o fortalecimento do eixo Gestão e Negócios, bem como a verticalização do ensino por meio da criação de cursos que permitam ao estudante a trajetória de aprendizado e desenvolvimento profissional. Esta formação verticalizada foi proposta pelo colegiado a partir da existência do Curso Técnico Subsequente em Melhoria de Processos, a qual também está relacionada ao curso Técnico Subsequente em Energias Renováveis, fazendo, assim, a ligação entre ensino técnico e superior, bem como a ligação entre o eixo de Gestão e Negócios e o eixo de Controle e Processos Industriais. 
+FIGURA 2 - Município de residência dos consultados.
 
-Em recente consulta à comunidade, foi realizada uma pesquisa, por meio de formulário eletrônico do _Google Forms_ , enviado aos representantes locais para divulgação em seus grupos de interesse. O formulário obteve 100 respostas, as quais foram analisadas pelo corpo pedagógico e referenciadas, anteriormente, no processo de escrita da PAC. Dentre os respondentes, 95% apontaram interesse em fazer o Curso Superior de Tecnologia em Processos Gerenciais (Figura 1). Outro dado relevante é que 95% das respostas são de pessoas residentes no município de Arapongas (Figura 2). 
+## Cidade ondereside:
 
-23 
+100 respostas
 
-## INSTITUTOFEDERAL Parana 
+Arapongas-PR<br>Sabaudia<br>Apucarana-PR<br>Astorga<br>PortoAlegre<br>95%<br>
 
-**==> picture [83 x 9] intentionally omitted <==**
+**Fonte:** Os autores (2024).
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+Além da pesquisa, o corpo pedagógico recebeu cartas de apoio a abertura do Curso Superior de Tecnologia em Gestão de Processos de instituições do município de Arapongas, como, por exemplo, NinhoTech (Governança de Inovação da cidade de Arapongas), Sindicato das Indústrias de Móveis de Arapongas (SIMA), Associação Comercial e Empresarial de Arapongas (ACIA), SEBRAE, entre outras instituições (ANEXO A).
 
+24
 
-FIGURA 1 - Interesse em fazer o curso por parte dos consultados. 
+## INSTITUTOFEDERAL Parana
 
-## Teminteresse emfazer ocurso? 
+Ministerio da Educacao
 
-100respostas 
+Deste modo, o curso surge com a intenção de capacitar pessoas para atuar na comunidade de Arapongas e regiões adjacentes com competências específicas em gestão empresarial, envolvendo finanças, _marketing_ , logística, recursos humanos e tecnológicos, bem como, preparando os estudantes para atuarem em instituições públicas, privadas ou de terceiro setor e, inclusive, na condição de empreendedores.
 
-**==> picture [194 x 61] intentionally omitted <==**
+Considerando as características de Arapongas e região, o curso será estruturado com base no Decreto nº 12.456/2025, que regulamenta a Nova Política de Educação a Distância, sendo ofertado, 30% de sua carga horária,  na modalidade a distância. Essa escolha visa atender, principalmente, aos trabalhadores — público-alvo majoritário —, a fim de promover maior flexibilidade no acesso à formação, bem como facilitar a familiarização com as novas tecnologias incorporadas ao mundo do trabalho nas últimas décadas. Uma vez que o avanço tecnológico impacta diretamente o exercício do direito ao trabalho, faz-se necessário que as instituições de ensino ofereçam constantemente atualizações, colaborando com a aprendizagem e adaptação dos profissionais.
 
-**----- Start of picture text -----**<br>
-Sim<br>Nao<br>95%<br>**----- End of picture text -----**<br>
+O emprego de tecnologias da informação e da comunicação (TIC) tornou-se comum nas mais diversas áreas, como comércio, indústria e educação. Tendo isso em vista, a Resolução CNE/CP nº 1, de 5 de janeiro de 2021, que define as Diretrizes Curriculares Nacionais Gerais para a Educação Profissional e Tecnológica, em seu capítulo II, dos Princípios Norteadores, Art. 3º, destaca que um dos princípios da Educação Profissional e Tecnológica é a:
 
+IX - utilização de estratégias educacionais que permitam a contextualização, a flexibilização e a interdisciplinaridade, favoráveis à compreensão de significados, garantindo a indissociabilidade entre a teoria e a prática profissional em todo o processo de ensino e aprendizagem;
 
-**Fonte:** Os autores (2024). 
+Assim, ao oferecer a possibilidade de acessar/utilizar diferentes ferramentas e recursos tecnológicos no processo de ensino é cada vez mais necessário, ao contribuir para tornar as aulas mais dinâmicas e atrativas, além de proporcionar aos alunos uma experiência de aprendizagem mais rica e diversificada. Para Levy (1993, p, 25) “As tecnologias da comunicação não
 
-FIGURA 2 - Município de residência dos consultados. 
+25
 
-## Cidade ondereside: 
+## INSTITUTOFEDERAL Parana
 
-100 respostas 
+Ministerio da Educacao
 
-**==> picture [253 x 66] intentionally omitted <==**
+substituem o professor, mas modificam algumas das suas funções. A tarefa de passar informações pode ser deixada aos bancos de dados, livros, vídeos, programas em CD. O professor se transforma agora no estimulador da curiosidade do aluno por querer conhecer, por pesquisar, por buscar informações mais relevantes”.
 
-**----- Start of picture text -----**<br>
-Arapongas-PR<br>Sabaudia<br>Apucarana-PR<br>Astorga<br>PortoAlegre<br>95%<br>**----- End of picture text -----**<br>
+Isso vai ao encontro da Resolução CNE/CP nº 3, de 18 de dezembro de 2002, que institui as Diretrizes Curriculares Nacionais Gerais para a organização e o funcionamento dos cursos superiores de tecnologia, que dispõe em seu Art. 1º que:
 
+A educação profissional de nível tecnológico, integrada às diferentes formas de educação, ao trabalho, à ciência e à tecnologia, objetiva garantir aos cidadãos o direito à aquisição de competências profissionais que os tornem aptos para a inserção em setores profissionais nos quais haja utilização de tecnologias.
 
-**Fonte:** Os autores (2024). 
+Além disso, o Art. 3º da mesma resolução define critérios fundamentais para o planejamento e a organização desses cursos, destacando:
 
-Além da pesquisa, o corpo pedagógico recebeu cartas de apoio a abertura do Curso Superior de Tecnologia em Gestão de Processos de instituições do município de Arapongas, como, por exemplo, NinhoTech (Governança de Inovação da cidade de Arapongas), Sindicato das Indústrias de Móveis de Arapongas (SIMA), Associação Comercial e Empresarial de Arapongas (ACIA), SEBRAE, entre outras instituições (ANEXO A). 
+I - o atendimento às demandas dos cidadãos, do mercado de trabalho e da sociedade; e II - a conciliação das demandas identificadas com a vocação da instituição de ensino e as suas reais condições de viabilização;
 
-24 
+Diante desse contexto, com a adoção das tecnologias virtuais e digitais altera-se a organização do trabalho. Os indivíduos que não estiverem minimamente conectados à Internet e manuseando ferramentas tecnológicas, tornam-se obsoletos muito rapidamente. Acredita-se que o conhecimento advindo do ensino a distância possa oportunizar o desenvolvimento de habilidades para os novos processos que impactam a organização do mundo trabalho. Decorre que este contexto de mudanças intensas requer um sujeito interrogante e um pensamento cada vez mais complexo, capaz de promover a compreensão da multiplicidade e da diversidade (ANTUNES, 2006). Isto reflete, justamente, a preocupação que a escola deve ter: criar caminhos para que o aprendizado aconteça. Conforme destaca Salgado (1999, p. 229):
 
-## INSTITUTOFEDERAL Parana 
+A escola não pode ficar alheia ao universo informativo se quiser, de fato, integrar o estudante ao mundo que o circunda, permitindo que ele seja um indivíduo autônomo e apto a enfrentar as rápidas mudanças que a
 
-Ministerio da Educacao 
+26
 
-Deste modo, o curso surge com a intenção de capacitar pessoas para atuar na comunidade de Arapongas e regiões adjacentes com competências específicas em gestão empresarial, envolvendo finanças, _marketing_ , logística, recursos humanos e tecnológicos, bem como, preparando os estudantes para atuarem em instituições públicas, privadas ou de terceiro setor e, inclusive, na condição de empreendedores. 
+## INSTITUTOFEDERAL Parana
 
-Considerando as características de Arapongas e região, o curso será estruturado com base no Decreto nº 12.456/2025, que regulamenta a Nova Política de Educação a Distância, sendo ofertado, 30% de sua carga horária,  na modalidade a distância. Essa escolha visa atender, principalmente, aos trabalhadores — público-alvo majoritário —, a fim de promover maior flexibilidade no acesso à formação, bem como facilitar a familiarização com as novas tecnologias incorporadas ao mundo do trabalho nas últimas décadas. Uma vez que o avanço tecnológico impacta diretamente o exercício do direito ao trabalho, faz-se necessário que as instituições de ensino ofereçam constantemente atualizações, colaborando com a aprendizagem e adaptação dos profissionais. 
+Ministerio da Educacao<br>
 
-O emprego de tecnologias da informação e da comunicação (TIC) tornou-se comum nas mais diversas áreas, como comércio, indústria e educação. Tendo isso em vista, a Resolução CNE/CP nº 1, de 5 de janeiro de 2021, que define as Diretrizes Curriculares Nacionais Gerais para a Educação Profissional e Tecnológica, em seu capítulo II, dos Princípios Norteadores, Art. 3º, destaca que um dos princípios da Educação Profissional e Tecnológica é a: 
+tecnologia vem impondo contemporaneamente
 
-IX - utilização de estratégias educacionais que permitam a contextualização, a flexibilização e a interdisciplinaridade, favoráveis à compreensão de significados, garantindo a indissociabilidade entre a teoria e a prática profissional em todo o processo de ensino e aprendizagem; 
+A ideia é criar uma escola onde os alunos possam se manter atualizados com o que ocorre em seu tempo, uma escola que proporcione a interação com a tecnologia que muda constantemente. Mais do que incorporar ferramentas tecnológicas, é fundamental integrá-las de forma intencional e pedagógica ao cotidiano escolar. Como afirma Freire (2024, p. 743), “utilizar as novas tecnologias de forma integrada ao projeto pedagógico é uma maneira de se aproximar da geração que está nos bancos escolares”, reforçando a importância de um ensino conectado à realidade dos estudantes.
 
-Assim, ao oferecer a possibilidade de acessar/utilizar diferentes ferramentas e recursos tecnológicos no processo de ensino é cada vez mais necessário, ao contribuir para tornar as aulas mais dinâmicas e atrativas, além de proporcionar aos alunos uma experiência de aprendizagem mais rica e diversificada. Para Levy (1993, p, 25) “As tecnologias da comunicação não 
+Diante desse novo cenário e em consonância com Demo (2007), observa-se que as habilidades digitais passaram a condicionar significativamente as oportunidades individuais, sociais, econômicas, políticas e culturais. Hoje, preparar-se intelectualmente é tipicamente trabalho. Por isso a educação se torna essencial, presente na raiz da formação do sujeito histórico, capaz de emancipar-se também pelo trabalho. Enquanto instituição de ensino, oferecer essas possibilidades pode impulsionar sujeitos nesse novo contexto. O que faz do trabalho algo produtivo não é propriamente o esforço físico, mas a inteligência nele investida e a energia pessoal exigida à sua realização. É desta forma que o trabalho, em uma era cada vez mais digital, pode ser traduzido pelo termo aprendizado (DEMO, 1996).
 
-25 
+Diante do exposto, essa proposta pensou uma oferta baseada na integração dos conhecimentos para o processo de desenvolvimento de práticas de gestão aliadas a ferramentas tecnológicas . Por esse motivo, o currículo possui:
 
-## INSTITUTOFEDERAL Parana 
+- Unidades curriculares diretamente vinculadas à prática de gestão de processos gerenciais.
 
-Ministerio da Educacao 
+- Unidades curriculares voltadas a explicar os fundamentos da gestão de processos gerenciais.
 
-substituem o professor, mas modificam algumas das suas funções. A tarefa de passar informações pode ser deixada aos bancos de dados, livros, vídeos, programas em CD. O professor se transforma agora no estimulador da curiosidade do aluno por querer conhecer, por pesquisar, por buscar informações mais relevantes”. 
+- Unidades curriculares voltadas a desenvolver habilidades de comunicação e expressão, gestão e reflexão crítica, necessárias para a interação na sociedade e atuação profissional na área de gestão de processos gerenciais.
 
-Isso vai ao encontro da Resolução CNE/CP nº 3, de 18 de dezembro de 2002, que institui as Diretrizes Curriculares Nacionais Gerais para a organização e o funcionamento dos cursos superiores de tecnologia, que dispõe em seu Art. 1º que: 
+27
 
-A educação profissional de nível tecnológico, integrada às diferentes formas de educação, ao trabalho, à ciência e à tecnologia, objetiva garantir aos cidadãos o direito à aquisição de competências profissionais que os tornem aptos para a inserção em setores profissionais nos quais haja utilização de tecnologias. 
+## INSTITUTOFEDERAL Parana
 
-Além disso, o Art. 3º da mesma resolução define critérios fundamentais para o planejamento e a organização desses cursos, destacando: 
+Ministerio da Educacao
 
-I - o atendimento às demandas dos cidadãos, do mercado de trabalho e da sociedade; e II - a conciliação das demandas identificadas com a vocação da instituição de ensino e as suas reais condições de viabilização; 
+## 2.2 OBJETIVOS
 
-Diante desse contexto, com a adoção das tecnologias virtuais e digitais altera-se a organização do trabalho. Os indivíduos que não estiverem minimamente conectados à Internet e manuseando ferramentas tecnológicas, tornam-se obsoletos muito rapidamente. Acredita-se que o conhecimento advindo do ensino a distância possa oportunizar o desenvolvimento de habilidades para os novos processos que impactam a organização do mundo trabalho. Decorre que este contexto de mudanças intensas requer um sujeito interrogante e um pensamento cada vez mais complexo, capaz de promover a compreensão da multiplicidade e da diversidade (ANTUNES, 2006). Isto reflete, justamente, a preocupação que a escola deve ter: criar caminhos para que o aprendizado aconteça. Conforme destaca Salgado (1999, p. 229): 
+## **2.2.1 Objetivo Geral**
 
-A escola não pode ficar alheia ao universo informativo se quiser, de fato, integrar o estudante ao mundo que o circunda, permitindo que ele seja um indivíduo autônomo e apto a enfrentar as rápidas mudanças que a 
+O Curso Superior de Tecnologia em Processos Gerenciais visa formar profissionais capacitados para atuar de forma efetiva na gestão de organizações públicas, privadas e do terceiro setor, por meio do desenvolvimento de competências técnicas, analíticas e comportamentais. Visa proporcionar uma formação crítica e ética, aliando teoria e prática, com foco na solução de problemas, tomada de decisões e inovação nos diversos setores organizacionais, incluindo as áreas de finanças, marketing, logística, recursos humanos e empreendedorismo, contribuindo para o desenvolvimento sustentável e a competitividade das organizações das quais fazem parte.
 
-26 
+## **2.2.2 Objetivos Específicos**
 
-## INSTITUTOFEDERAL Parana 
+- Desenvolver conhecimentos e habilidades voltados à aplicação prática das técnicas e ferramentas de gestão, visando à otimização dos processos organizacionais e à melhoria do desempenho.
 
-**==> picture [84 x 10] intentionally omitted <==**
+- Estimular a capacidade de análise crítica em relação aos contextos sociais, econômicos, ambientais e culturais, fundamentando ações nos princípios éticos e na responsabilidade cidadã.
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+- Desenvolver habilidades de comunicação oral e escrita, visando capacitar o profissional para a interação interpessoal, o exercício da liderança de equipes e a elaboração de documentos gerenciais com clareza, coerência e objetividade.
 
+- Fomentar o desenvolvimento de competências empreendedoras, com ênfase na criatividade e na inovação, visando à criação de soluções e negócios alinhados às necessidades e características da região de atuação.
 
-tecnologia vem impondo contemporaneamente 
+28
 
-A ideia é criar uma escola onde os alunos possam se manter atualizados com o que ocorre em seu tempo, uma escola que proporcione a interação com a tecnologia que muda constantemente. Mais do que incorporar ferramentas tecnológicas, é fundamental integrá-las de forma intencional e pedagógica ao cotidiano escolar. Como afirma Freire (2024, p. 743), “utilizar as novas tecnologias de forma integrada ao projeto pedagógico é uma maneira de se aproximar da geração que está nos bancos escolares”, reforçando a importância de um ensino conectado à realidade dos estudantes. 
+## INSTITUTOFEDERAL Parana
 
-Diante desse novo cenário e em consonância com Demo (2007), observa-se que as habilidades digitais passaram a condicionar significativamente as oportunidades individuais, sociais, econômicas, políticas e culturais. Hoje, preparar-se intelectualmente é tipicamente trabalho. Por isso a educação se torna essencial, presente na raiz da formação do sujeito histórico, capaz de emancipar-se também pelo trabalho. Enquanto instituição de ensino, oferecer essas possibilidades pode impulsionar sujeitos nesse novo contexto. O que faz do trabalho algo produtivo não é propriamente o esforço físico, mas a inteligência nele investida e a energia pessoal exigida à sua realização. É desta forma que o trabalho, em uma era cada vez mais digital, pode ser traduzido pelo termo aprendizado (DEMO, 1996). 
+Ministerio da Educacao<br>
 
-Diante do exposto, essa proposta pensou uma oferta baseada na integração dos conhecimentos para o processo de desenvolvimento de práticas de gestão aliadas a ferramentas tecnológicas . Por esse motivo, o currículo possui: 
+● Promover o uso eficiente das tecnologias da informação e comunicação como ferramentas de apoio à gestão, à tomada de decisões e ao aumento da produtividade nos processos organizacionais.
 
-- Unidades curriculares diretamente vinculadas à prática de gestão de processos gerenciais. 
+## 2.3  RESPONSABILIDADE SOCIAL, AMBIENTAL E PATRIMONIAL
 
-- Unidades curriculares voltadas a explicar os fundamentos da gestão de processos gerenciais. 
+## **2.3.1 A Responsabilidade Social do Curso**
 
-- Unidades curriculares voltadas a desenvolver habilidades de comunicação e expressão, gestão e reflexão crítica, necessárias para a interação na sociedade e atuação profissional na área de gestão de processos gerenciais. 
+A proposta aqui apresentada está apoiada nos princípios norteadores da Lei de Criação dos Institutos Federais (Lei nº 11.892/2008), no Regimento Geral do IFPR (Resolução nº 53/2012) e no Estatuto do IFPR (Aprovado pela Resolução nº 13/2011, retificado pela Resolução nº 39/2012 e pela Resolução nº 02/2014), entre tantos outros dispositivos, que trazem a orientação para políticas inclusivas e de responsabilidade social.
 
-27 
+Ao olharmos para os itens I e IV do Art. 3º do Estatuto do IFPR, a saber: “I - compromisso com a justiça social, equidade, cidadania, ética, preservação do meio ambiente, transparência e gestão democrática; [...] IV - inclusão de pessoas com necessidades educacionais especiais e deficiências específicas”; são princípios norteadores da instituição no que se refere ao dever ético para com a responsabilidade social, almejando um país mais justo e igualitário.
 
-## INSTITUTOFEDERAL Parana 
+Para tanto, apontamos para políticas de ingresso - composta por um amplo programa de cotas nos processos seletivos para os cursos de todos os níveis, que incluem cotas sociais, raciais (indígenas e pretos) e para pessoas com necessidades especiais -  e de permanência - .como a Política de Apoio Estudantil que compreende o conjunto de ações voltadas aos estudantes e que atendam aos princípios de garantia de acesso, permanência e conclusão do curso conforme os princípios da Educação Integral (formação geral, profissional e tecnológica). Tais programas contemplam as áreas de alimentação, projetos educacionais, transporte, monitoria, moradia, esporte e eventos, aquisição de materiais didáticos, materiais e equipamentos necessários para suporte aos estudantes atendidos pelo NAPNE (Núcleo de Atendimento às Pessoas com Necessidades Específicas), entre outros.
 
-Ministerio da Educacao 
+29
 
-## 2.2 OBJETIVOS 
+## INSTITUTOFEDERAL Parana
 
-## **2.2.1 Objetivo Geral** 
+Ministerio da Educacao
 
-O Curso Superior de Tecnologia em Processos Gerenciais visa formar profissionais capacitados para atuar de forma efetiva na gestão de organizações públicas, privadas e do terceiro setor, por meio do desenvolvimento de competências técnicas, analíticas e comportamentais. Visa proporcionar uma formação crítica e ética, aliando teoria e prática, com foco na solução de problemas, tomada de decisões e inovação nos diversos setores organizacionais, incluindo as áreas de finanças, marketing, logística, recursos humanos e empreendedorismo, contribuindo para o desenvolvimento sustentável e a competitividade das organizações das quais fazem parte. 
+O atendimento às necessidades sociais faz parte da essência do IFPR. Em sua missão, visão, valores, princípios e concepções o instituto se coloca  como instituição como ferramenta capaz, e responsável, por contribuir para a melhoria da qualidade de vida e a diminuição das desigualdades sociais, por meio de um desenvolvimento sustentável. Neste sentido, o curso aqui proposto desenvolve ações que visam contribuir para esse papel social com foco nos Objetivos do Desenvolvimento do Milênio. Por meio da formação teórica e das ações práticas de extensão, os acadêmicos são incentivados a identificarem as principais demandas sociais, econômicas e ambientais, propondo, por meio de projetos e ações, melhorias sociais que afetam diretamente a comunidade regional. Estas ações são realizadas com a parceria de instituições públicas, instituições do terceiro setor, empresas parceiras e voluntários dos diversos cursos do câmpus ou mesmo da comunidade externa.
 
-## **2.2.2 Objetivos Específicos** 
+Além de formação teórica sobre o papel na responsabilidade social do profissional de tecnólogo em Processos Gerenciais, que lida com organizações buscando sustentabilidade econômica, social e ambiental, é oferecido ao discente a possibilidade de participação em grupos de pesquisa que visam sustentabilidade em suas ações primordiais, através do desenvolvimento da pesquisa. Também é estimulada a participação nos diversos eventos científicos do IFPR e demais instituições de ensino, propiciando o desenvolvimento da produção artística, científica, cultural, tecnológica, de pesquisa e extensão.
 
-- Desenvolver conhecimentos e habilidades voltados à aplicação prática das técnicas e ferramentas de gestão, visando à otimização dos processos organizacionais e à melhoria do desempenho. 
+## **2.3.2 Meio Ambiente e Desenvolvimento Humano**
 
-- Estimular a capacidade de análise crítica em relação aos contextos sociais, econômicos, ambientais e culturais, fundamentando ações nos princípios éticos e na responsabilidade cidadã. 
+De acordo com a Lei n[o] 9.795, de 27 de abril de 1999, em seu Art. 1[o] , entende-se por “educação ambiental os processos por meio dos quais o indivíduo e a coletividade constroem valores sociais, conhecimentos, habilidades, atitudes e competências voltadas para a conservação do meio ambiente, bem de uso comum do povo, essencial à sadia qualidade de vida e sua sustentabilidade”.
 
-- Desenvolver habilidades de comunicação oral e escrita, visando capacitar o profissional para a interação interpessoal, o exercício da liderança de equipes e a elaboração de documentos gerenciais com clareza, coerência e objetividade. 
+A educação ambiental ajuda a desenvolver uma consciência crítica e incentiva valores como empatia, respeito ao próximo e responsabilidade social. Mais do que entender o que é
 
-- Fomentar o desenvolvimento de competências empreendedoras, com ênfase na criatividade e na inovação, visando à criação de soluções e negócios alinhados às necessidades e características da região de atuação. 
+30
 
-28 
+## INSTITUTOFEDERAL Parana
 
-## INSTITUTOFEDERAL Parana 
+Ministerio da Educacao
 
-**==> picture [84 x 10] intentionally omitted <==**
+reciclagem ou economia de água, é preciso perceber que fazemos parte de um todo e que nossas ações têm impacto. E é preciso entender que a principal função do trabalho com o tema Meio Ambiente é “contribuir para a formação de cidadãos conscientes, aptos a decidir e atuar na realidade socioambiental de um modo comprometido com a vida, com o bem-estar de cada um e da sociedade, local e global (BRASIL, 1998b)”. Para tanto, é necessário garantir a abordagem da Educação Ambiental de forma contínua, com objetivos claros e bem estruturados para que não se torne apenas uma prática em eventos pontuais. Por isso, é preciso contextualizá-la e abordá-la dentro da escola de forma transversal e interdisciplinar, pois "ambas são complementares" (Brasil, 2019, p. 8). Uma Educação Ambiental que englobe um conjunto de aprendizagens essenciais e indispensáveis, que atravessem as vivências dos estudantes em seus contextos e, desse modo, possa contribuir com aspectos que colaborem para uma formação cidadã, política, social e ética, com participação ativa da vida em sociedade (Brasil, 2019). Fica então evidenciado que
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+trabalhar de forma transversal significa buscar a transformação dos conceitos, a explicitação de valores e a inclusão de procedimentos sempre vinculados à realidade cotidiana da sociedade, de modo que obtenha cidadãos mais participantes. Cada professor, dentro da especificidade de sua área, deve adequar o tratamento dos conteúdos para contemplar o tema meio ambiente, assim como os demais temas transversais. Essa adequação pressupõe um compromisso com as relações interpessoais no âmbito da escola para haver explicitação dos valores que se quer transmitir e coerência entre eles e os experimentados na vivência escolar, buscando desenvolver a capacidade de todos para intervir na realidade e transformá-la, tendo essa capacidade relação direta com o acesso ao conhecimento acumulado pela humanidade (Brasil, 1998, p. 193).
 
+Ainda, no Plano de Desenvolvimento Institucional 2024-2028 ao que se refere à gestão sustentável e o total cumprimento do Plano de Logística Sustentável (PLS), são realizados no câmpus:
 
-● Promover o uso eficiente das tecnologias da informação e comunicação como ferramentas de apoio à gestão, à tomada de decisões e ao aumento da produtividade nos processos organizacionais. 
+- 1) Descarte correto de materiais em todas as salas, laboratórios e demais ambientes do
 
-## 2.3  RESPONSABILIDADE SOCIAL, AMBIENTAL E PATRIMONIAL 
+- câmpus;
 
-## **2.3.1 A Responsabilidade Social do Curso** 
+2) Destinação adequada ambientalmente e socialmente destes resíduos;
 
-A proposta aqui apresentada está apoiada nos princípios norteadores da Lei de Criação dos Institutos Federais (Lei nº 11.892/2008), no Regimento Geral do IFPR (Resolução nº 53/2012) e no Estatuto do IFPR (Aprovado pela Resolução nº 13/2011, retificado pela Resolução nº 39/2012 e pela Resolução nº 02/2014), entre tantos outros dispositivos, que trazem a orientação para políticas inclusivas e de responsabilidade social. 
+31
 
-Ao olharmos para os itens I e IV do Art. 3º do Estatuto do IFPR, a saber: “I - compromisso com a justiça social, equidade, cidadania, ética, preservação do meio ambiente, transparência e gestão democrática; [...] IV - inclusão de pessoas com necessidades educacionais especiais e deficiências específicas”; são princípios norteadores da instituição no que se refere ao dever ético para com a responsabilidade social, almejando um país mais justo e igualitário. 
+## INSTITUTOFEDERAL Parana
 
-Para tanto, apontamos para políticas de ingresso - composta por um amplo programa de cotas nos processos seletivos para os cursos de todos os níveis, que incluem cotas sociais, raciais (indígenas e pretos) e para pessoas com necessidades especiais -  e de permanência - .como a Política de Apoio Estudantil que compreende o conjunto de ações voltadas aos estudantes e que atendam aos princípios de garantia de acesso, permanência e conclusão do curso conforme os princípios da Educação Integral (formação geral, profissional e tecnológica). Tais programas contemplam as áreas de alimentação, projetos educacionais, transporte, monitoria, moradia, esporte e eventos, aquisição de materiais didáticos, materiais e equipamentos necessários para suporte aos estudantes atendidos pelo NAPNE (Núcleo de Atendimento às Pessoas com Necessidades Específicas), entre outros. 
+Ministerio da Educacao
 
-29 
+3) Economia de energia elétrica por meio de ações em salas de aula para melhor ventilação e iluminação;
 
-## INSTITUTOFEDERAL Parana 
+4) outros projetos que demandam pensar a ocupação de nossos espaços físicos e, ainda, promover a Educação Ambiental na matriz curricular do curso de forma a ter significado na vida dos estudantes.
 
-Ministerio da Educacao 
+Para tanto, a abordagem contará com práticas de caráter interdisciplinar, desvencilhadas da fragmentação de conteúdos e do isolamento das disciplinas. Nesse sentido, também é fundamental uma escola comprometida com condutas ambientais condizentes com os projetos nela desenvolvidos, pois “ensinar exige a corporeificação das palavras pelo exemplo” (Freire, 1996, p. 19).
 
-O atendimento às necessidades sociais faz parte da essência do IFPR. Em sua missão, visão, valores, princípios e concepções o instituto se coloca  como instituição como ferramenta capaz, e responsável, por contribuir para a melhoria da qualidade de vida e a diminuição das desigualdades sociais, por meio de um desenvolvimento sustentável. Neste sentido, o curso aqui proposto desenvolve ações que visam contribuir para esse papel social com foco nos Objetivos do Desenvolvimento do Milênio. Por meio da formação teórica e das ações práticas de extensão, os acadêmicos são incentivados a identificarem as principais demandas sociais, econômicas e ambientais, propondo, por meio de projetos e ações, melhorias sociais que afetam diretamente a comunidade regional. Estas ações são realizadas com a parceria de instituições públicas, instituições do terceiro setor, empresas parceiras e voluntários dos diversos cursos do câmpus ou mesmo da comunidade externa. 
+Cada professor, dentro da especificidade de sua área, adequará o tratamento dos conteúdos para contemplar o Tema Meio Ambiente, assim como os demais Temas Transversais (Brasil, 1997, p.193), além de atividades conjuntas a serem planejadas pelo colegiado de curso. As ações propostas reforçam o compromisso com as diretrizes do SINAES, atendendo à dimensão de responsabilidade social como critério avaliativo e fortalecendo o papel do IFPR como agente de transformação social. Por meio dessas iniciativas, o curso busca consolidar sua contribuição para o desenvolvimento sustentável e inclusivo. Dessa forma, o curso cumpre sua missão de formar profissionais tecnicamente competentes e socialmente responsáveis.
 
-Além de formação teórica sobre o papel na responsabilidade social do profissional de tecnólogo em Processos Gerenciais, que lida com organizações buscando sustentabilidade econômica, social e ambiental, é oferecido ao discente a possibilidade de participação em grupos de pesquisa que visam sustentabilidade em suas ações primordiais, através do desenvolvimento da pesquisa. Também é estimulada a participação nos diversos eventos científicos do IFPR e demais instituições de ensino, propiciando o desenvolvimento da produção artística, científica, cultural, tecnológica, de pesquisa e extensão. 
+## **2.3.3 Memória, Patrimônio Artístico e Cultural**
 
-## **2.3.2 Meio Ambiente e Desenvolvimento Humano** 
+Este PPC apresenta um curso que busca fazer com que os estudantes compreendam que a preservação da memória, da cultura e do patrimônio histórico e artístico, bem como a difusão e o acesso aos diferentes bens culturais, são direitos elementares e fundamentais dos cidadãos brasileiros, consagrados na Carta Magna de 1988:
 
-De acordo com a Lei n[o] 9.795, de 27 de abril de 1999, em seu Art. 1[o] , entende-se por “educação ambiental os processos por meio dos quais o indivíduo e a coletividade constroem valores sociais, conhecimentos, habilidades, atitudes e competências voltadas para a conservação do meio ambiente, bem de uso comum do povo, essencial à sadia qualidade de vida e sua sustentabilidade”. 
+Art. 216. Constituem patrimônio cultural brasileiro os bens de natureza material e imaterial, tomados individualmente ou em conjunto, portadores de referência à identidade, à ação, à memória dos diferentes grupos formadores da sociedade brasileira, nos quais se incluem: I - as formas de expressão; II - os modos de criar,
 
-A educação ambiental ajuda a desenvolver uma consciência crítica e incentiva valores como empatia, respeito ao próximo e responsabilidade social. Mais do que entender o que é 
+32
 
-30 
+## INSTITUTOFEDERAL Parana
 
-## INSTITUTOFEDERAL Parana 
+Ministerio da Educacao
 
-Ministerio da Educacao 
+fazer e viver; III - as criações científicas, artísticas e tecnológicas; IV - as obras, objetos, documentos, edificações e demais espaços destinados às manifestações artístico-culturais; V - os conjuntos urbanos e sítios de valor histórico, paisagístico, artístico, arqueológico, paleontológico, ecológico e científico.
 
-reciclagem ou economia de água, é preciso perceber que fazemos parte de um todo e que nossas ações têm impacto. E é preciso entender que a principal função do trabalho com o tema Meio Ambiente é “contribuir para a formação de cidadãos conscientes, aptos a decidir e atuar na realidade socioambiental de um modo comprometido com a vida, com o bem-estar de cada um e da sociedade, local e global (BRASIL, 1998b)”. Para tanto, é necessário garantir a abordagem da Educação Ambiental de forma contínua, com objetivos claros e bem estruturados para que não se torne apenas uma prática em eventos pontuais. Por isso, é preciso contextualizá-la e abordá-la dentro da escola de forma transversal e interdisciplinar, pois "ambas são complementares" (Brasil, 2019, p. 8). Uma Educação Ambiental que englobe um conjunto de aprendizagens essenciais e indispensáveis, que atravessem as vivências dos estudantes em seus contextos e, desse modo, possa contribuir com aspectos que colaborem para uma formação cidadã, política, social e ética, com participação ativa da vida em sociedade (Brasil, 2019). Fica então evidenciado que 
+Para tanto, contamos com o NAC - Núcleo de Arte e Cultura - que visa “apoiar e fomentar programas, projetos, cursos, eventos, de cunho educativo, cultural, artístico e social de modo a promover a integração entre a teoria e prática na formação dos futuros profissionais, envolvendo Ensino, Pesquisa e Extensão”. Além do NAC, contamos também com o trabalho do Núcleo de Estudos AfroBrasileiros e Indígenas (NEABI - populações negras, africanas, afrodescendentes e originárias tradicionais (etnias indígenas) para a promoção de debates e reflexões, no âmbito do IFPR e no da sociedade civil a que pertence, produzindo conhecimentos e estimulando práticas e atitudes que, por meio de ações de extensão, pesquisa, inovação e ensino, estimulem a tomada de consciência sobre temas mencionados.
 
-trabalhar de forma transversal significa buscar a transformação dos conceitos, a explicitação de valores e a inclusão de procedimentos sempre vinculados à realidade cotidiana da sociedade, de modo que obtenha cidadãos mais participantes. Cada professor, dentro da especificidade de sua área, deve adequar o tratamento dos conteúdos para contemplar o tema meio ambiente, assim como os demais temas transversais. Essa adequação pressupõe um compromisso com as relações interpessoais no âmbito da escola para haver explicitação dos valores que se quer transmitir e coerência entre eles e os experimentados na vivência escolar, buscando desenvolver a capacidade de todos para intervir na realidade e transformá-la, tendo essa capacidade relação direta com o acesso ao conhecimento acumulado pela humanidade (Brasil, 1998, p. 193). 
+O NAC, no mesmo intuito de promoção dos valores culturais, visa a realização de debates e reflexões, no âmbito do IFPR e no da sociedade civil a que pertence, acerca das relações étnico-raciais, com foco especial em populações negras, africanas, afrodescendentes e originárias tradicionais (etnias indígenas).
 
-Ainda, no Plano de Desenvolvimento Institucional 2024-2028 ao que se refere à gestão sustentável e o total cumprimento do Plano de Logística Sustentável (PLS), são realizados no câmpus: 
+Em relação à Educação Patrimonial, sendo um “processo permanente e sistemático de trabalho educacional centrado no Patrimônio Cultural como fonte primária de conhecimento e enriquecimento individual e coletivo”, buscar-se-á o conhecimento, a apropriação e a valorização de herança cultural, nos baseamos em Gonçalves (1988, p.267) quando ele afirma que “os chamados patrimônios culturais podem ser interpretados como coleções de objetos móveis e imóveis, através dos quais é definida a identidade de pessoas e de coletividades como a nação, o grupo étnico etc”. Assim, também de forma interdisciplinar, serão promovidos espaços de reflexões quanto à necessidade de defender e preservar o patrimônio histórico, natural e cultural.
 
-- 1) Descarte correto de materiais em todas as salas, laboratórios e demais ambientes do 
+## **2.3.4 Comunicação e Relações com a Comunidade**
 
-- câmpus; 
+33
 
-2) Destinação adequada ambientalmente e socialmente destes resíduos; 
+## INSTITUTOFEDERAL Parana
 
-31 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+A comunicação com a comunidade interna e externa do IFPR ocorre por meio de uma rede constituída institucionalmente que conta, inclusive, conforme registra o Plano de Desenvolvimento Institucional do IFPR 2024-2028, com uma Diretoria de Comunicação. Essa Diretoria estimula os câmpus a manterem efetiva comunicação com sua comunidade por meio dos mais diversos canais.
 
-Ministerio da Educacao 
+Os canais de comunicação utilizados no câmpus são o site institucional e as redes sociais, como YouTube, Instagram e Facebook, que são atualizados constantemente e onde são publicadas informações institucionais, editais, normativas, regulamentos e comunicados.
 
-3) Economia de energia elétrica por meio de ações em salas de aula para melhor ventilação e iluminação; 
+A comunicação institucional do Câmpus Avançado Arapongas tem recebido significativo incremento em suas redes sociais por meio do setor de comunicação do câmpus com a finalidade de conferir publicidade às ações desenvolvidas no câmpus. O setor é responsável por elaborar informativos e gerenciar as redes sociais, publicizando e informando sobre os principais acontecimentos, projetos, ações e eventos. Os principais canais de comunicação mantidos são: site do câmpus, Facebook, Instagram e Canal no YouTube.
 
-4) outros projetos que demandam pensar a ocupação de nossos espaços físicos e, ainda, promover a Educação Ambiental na matriz curricular do curso de forma a ter significado na vida dos estudantes. 
+Ainda, há forte estreitamento dos laços com a comunidade externa por meio de projetos e ações de pesquisa e extensão, principalmente nas políticas de inovação e empreendedorismo, onde já estão estabelecidas importantes parcerias com a Prefeitura Municipal, Secretarias de Educação e Inovação, entre outras.
 
-Para tanto, a abordagem contará com práticas de caráter interdisciplinar, desvencilhadas da fragmentação de conteúdos e do isolamento das disciplinas. Nesse sentido, também é fundamental uma escola comprometida com condutas ambientais condizentes com os projetos nela desenvolvidos, pois “ensinar exige a corporeificação das palavras pelo exemplo” (Freire, 1996, p. 19). 
+## 2.4 CONCEPÇÃO DO CURSO
 
-Cada professor, dentro da especificidade de sua área, adequará o tratamento dos conteúdos para contemplar o Tema Meio Ambiente, assim como os demais Temas Transversais (Brasil, 1997, p.193), além de atividades conjuntas a serem planejadas pelo colegiado de curso. As ações propostas reforçam o compromisso com as diretrizes do SINAES, atendendo à dimensão de responsabilidade social como critério avaliativo e fortalecendo o papel do IFPR como agente de transformação social. Por meio dessas iniciativas, o curso busca consolidar sua contribuição para o desenvolvimento sustentável e inclusivo. Dessa forma, o curso cumpre sua missão de formar profissionais tecnicamente competentes e socialmente responsáveis. 
+A Educação Profissional, Científica e Tecnológica é um direito social inalienável do cidadão, em termos de direito do trabalhador ao conhecimento. A Constituição Federal, em seu Art. 6º, ao elencar os direitos sociais do cidadão brasileiro, relaciona os direitos à educação e ao trabalho. Os Institutos Federais se preocupam com a formação de cidadãos como agentes políticos capazes de ultrapassar obstáculos, pensar e agir em favor de transformações políticas, econômicas e sociais, imprescindíveis para a construção de um mundo com melhores condições humanas e sociais.
 
-## **2.3.3 Memória, Patrimônio Artístico e Cultural** 
+34
 
-Este PPC apresenta um curso que busca fazer com que os estudantes compreendam que a preservação da memória, da cultura e do patrimônio histórico e artístico, bem como a difusão e o acesso aos diferentes bens culturais, são direitos elementares e fundamentais dos cidadãos brasileiros, consagrados na Carta Magna de 1988: 
+## INSTITUTOFEDERAL Parana
 
-Art. 216. Constituem patrimônio cultural brasileiro os bens de natureza material e imaterial, tomados individualmente ou em conjunto, portadores de referência à identidade, à ação, à memória dos diferentes grupos formadores da sociedade brasileira, nos quais se incluem: I - as formas de expressão; II - os modos de criar, 
+Ministerio da Educacao
 
-32 
+A Educação Profissional requer, conforme Parecer CNE/CES nº 436/2001, além do domínio operacional de um determinado fazer, a compreensão global do processo produtivo, com a apreensão do saber tecnológico, a valorização da cultura do trabalho e a mobilização dos valores necessários às tomadas de decisões. Enquanto Instituto Federal do Paraná, é dever oferecer uma formação que se dá no decorrer da vida humana, por meio das experiências e conhecimentos, ao longo das relações sociais e produtivas.
 
-## INSTITUTOFEDERAL Parana 
+Uma formação que, além de formação específica, tem o compromisso de educar para a cidadania, implicando na realização de processos formativos, acima de tudo de caráter humanístico, que reconheçam o fazer estético, ético, político e incentivo do ser humano, suas relações com o mundo, com o outro e consigo mesmo. O perfil didático-pedagógico do curso superior de Tecnologia em Processos Gerenciais deverá ir ao encontro desses objetivos, respondendo às exigências de formação e qualificação profissional requerida pela sociedade em decorrência das atuais transformações científicas e tecnológicas.
 
-Ministerio da Educacao 
+Para tanto, busca-se proporcionar uma educação sob uma concepção teórica fundamentada na abordagem filosófica do materialismo histórico e dialético. Para Chauí (1995) o materialismo nos determina a ser e a pensar. Histórico porque a sociedade e a política dependem da ação concreta dos seres humanos no tempo.  Afinal, a referência fundamental para a educação profissional e tecnológica é o ser humano e, por isso, o trabalho, como categoria estruturante do ser social, é seu elemento constituinte. É, pois, uma formação que se dá no decorrer da vida humana, por meio das experiências e conhecimentos, ao longo das relações sociais e produtivas.
 
-fazer e viver; III - as criações científicas, artísticas e tecnológicas; IV - as obras, objetos, documentos, edificações e demais espaços destinados às manifestações artístico-culturais; V - os conjuntos urbanos e sítios de valor histórico, paisagístico, artístico, arqueológico, paleontológico, ecológico e científico. 
+Os pressupostos pedagógicos do curso têm como base o direito à educação escolar pública, descritos na Lei de Diretrizes e Bases da educação nacional (BRASIL, 1996) e estão ancorados nos princípios de liberdade e nos ideais de solidariedade humana, tendo por finalidade o pleno desenvolvimento do educando, seu preparo para o exercício da cidadania e sua qualificação para o trabalho. Concebido e planejado para promover o desenvolvimento humano e a disseminação de conhecimentos relativos ao Eixo Gestão e Negócios, o Curso de Tecnologia em Processos Gerenciais está ancorado nos princípios da educação inclusiva, que defende a igualdade de oportunidades e condições de acesso para todos, respeitados os limites
 
-Para tanto, contamos com o NAC - Núcleo de Arte e Cultura - que visa “apoiar e fomentar programas, projetos, cursos, eventos, de cunho educativo, cultural, artístico e social de modo a promover a integração entre a teoria e prática na formação dos futuros profissionais, envolvendo Ensino, Pesquisa e Extensão”. Além do NAC, contamos também com o trabalho do Núcleo de Estudos AfroBrasileiros e Indígenas (NEABI - populações negras, africanas, afrodescendentes e originárias tradicionais (etnias indígenas) para a promoção de debates e reflexões, no âmbito do IFPR e no da sociedade civil a que pertence, produzindo conhecimentos e estimulando práticas e atitudes que, por meio de ações de extensão, pesquisa, inovação e ensino, estimulem a tomada de consciência sobre temas mencionados. 
+35
 
-O NAC, no mesmo intuito de promoção dos valores culturais, visa a realização de debates e reflexões, no âmbito do IFPR e no da sociedade civil a que pertence, acerca das relações étnico-raciais, com foco especial em populações negras, africanas, afrodescendentes e originárias tradicionais (etnias indígenas). 
+## INSTITUTOFEDERAL Parana
 
-Em relação à Educação Patrimonial, sendo um “processo permanente e sistemático de trabalho educacional centrado no Patrimônio Cultural como fonte primária de conhecimento e enriquecimento individual e coletivo”, buscar-se-á o conhecimento, a apropriação e a valorização de herança cultural, nos baseamos em Gonçalves (1988, p.267) quando ele afirma que “os chamados patrimônios culturais podem ser interpretados como coleções de objetos móveis e imóveis, através dos quais é definida a identidade de pessoas e de coletividades como a nação, o grupo étnico etc”. Assim, também de forma interdisciplinar, serão promovidos espaços de reflexões quanto à necessidade de defender e preservar o patrimônio histórico, natural e cultural. 
+Ministerio da Educacao
 
-## **2.3.4 Comunicação e Relações com a Comunidade** 
+administrativos e financeiros da Instituição. Trata-se de um projeto de curso que se alinha a um projeto de sociedade na qual todos sejam sujeitos de seus discursos e colaborem para o desenvolvimento econômico-social.
 
-33 
+A natureza inclusiva desta proposta, que justifica a oferta de educação pública e de qualidade a todos que necessitam de formação profissional, científica e tecnológica, inscreve-se em um projeto de sociedade mais justa e democrática, com respeito às diferenças, valorização da diversidade e empenho pela sustentabilidade, valores humanos e éticos que o curso buscou projetar em sua organização curricular. A compreensão é a de que essa é a responsabilidade dos Institutos Federais, conforme orienta a Lei nº 11.892/2008.
 
-## INSTITUTOFEDERAL Parana 
+Ao alinhar-se aos propósitos institucionais, o curso aqui proposto se propõe a formar profissionais para a sociedade, sendo a sua formação um instrumento de transformação das estruturas sociais e o canal através do qual perceberá as divisões econômicas e culturais. Para cumprirmos a responsabilidade social de ofertar formação humanista e crítica, e contribuir para uma sociedade mais igualitária, é necessário ter em vista um profissional atento às demandas sociais, que compreenda os processos tecnológicos da sua área e saiba analisar os impactos sociais gerados a partir da sua produção. Também é fundamental que esse profissional desenvolva atitudes cidadãs aplicadas ao mundo do trabalho, compreendendo a importância do trabalho coletivo e do respeito ao ser humano.
 
-Ministerio da Educacao 
+O perfil do profissional que se almeja fundamenta-se na concepção de trabalho como princípio educativo, categoria presente no documento que estabelece as diretrizes da educação profissional e tecnológica dos Institutos Federais, da mesma maneira que a pesquisa, a extensão e a inovação devem ser tratadas como processos formativos articulados ao trabalho. Isso demonstra que a concepção de educação pensada para os Institutos Federais surge de uma análise crítica da sociedade, baseada na realidade que o país enfrenta, sobretudo no interior do país. Por esse motivo, compreende-se a necessidade de se trabalhar a partir da pedagogia histórico-crítica, com base no método histórico e dialético de construção do conhecimento. Assim, o trabalho deve ser o ponto de partida e chegada para observarmos e compreendermos as transformações da natureza e do homem. O desenvolvimento intelectual, no âmbito do método histórico e dialético, não se dá
 
-A comunicação com a comunidade interna e externa do IFPR ocorre por meio de uma rede constituída institucionalmente que conta, inclusive, conforme registra o Plano de Desenvolvimento Institucional do IFPR 2024-2028, com uma Diretoria de Comunicação. Essa Diretoria estimula os câmpus a manterem efetiva comunicação com sua comunidade por meio dos mais diversos canais. 
+36
 
-Os canais de comunicação utilizados no câmpus são o site institucional e as redes sociais, como YouTube, Instagram e Facebook, que são atualizados constantemente e onde são publicadas informações institucionais, editais, normativas, regulamentos e comunicados. 
+## INSTITUTOFEDERAL Parana
 
-A comunicação institucional do Câmpus Avançado Arapongas tem recebido significativo incremento em suas redes sociais por meio do setor de comunicação do câmpus com a finalidade de conferir publicidade às ações desenvolvidas no câmpus. O setor é responsável por elaborar informativos e gerenciar as redes sociais, publicizando e informando sobre os principais acontecimentos, projetos, ações e eventos. Os principais canais de comunicação mantidos são: site do câmpus, Facebook, Instagram e Canal no YouTube. 
+Ministerio da Educacao
 
-Ainda, há forte estreitamento dos laços com a comunidade externa por meio de projetos e ações de pesquisa e extensão, principalmente nas políticas de inovação e empreendedorismo, onde já estão estabelecidas importantes parcerias com a Prefeitura Municipal, Secretarias de Educação e Inovação, entre outras. 
+de modo isolado, é preciso compreender que o ser humano pensa e atua num tempo e espaço e, nessa relação com a natureza, é constantemente modificado em suas reações. Ao produzir mudanças no mundo, os aspectos culturais e tecnológicos absorvem as transformações e se ressignificam. Daí a necessidade de se compreender que toda ação educativa, que produz impacto na realidade, torna-se trabalho.
 
-## 2.4 CONCEPÇÃO DO CURSO 
+A partir da noção de trabalho, educação, ciência, tecnologia e cultura, chegamos à compreensão de que o produto do trabalho é o fator que irá impactar na sociedade e, portanto, é necessário que a prática e a teoria sejam concebidas e planejadas de forma indissolúvel na formação do profissional, sendo essa articulação a ferramenta pedagógica que fundamentará sua visão mais integral da atividade profissional. Para Saviani (2008) a prática se alimenta da teoria e a teoria deriva da prática. A práxis, nesse âmbito, orienta a formação curricular do Curso de Tecnologia em Processos Gerenciais e imprime no perfil do profissional a concretude do processo formativo omnilateral.
 
-A Educação Profissional, Científica e Tecnológica é um direito social inalienável do cidadão, em termos de direito do trabalhador ao conhecimento. A Constituição Federal, em seu Art. 6º, ao elencar os direitos sociais do cidadão brasileiro, relaciona os direitos à educação e ao trabalho. Os Institutos Federais se preocupam com a formação de cidadãos como agentes políticos capazes de ultrapassar obstáculos, pensar e agir em favor de transformações políticas, econômicas e sociais, imprescindíveis para a construção de um mundo com melhores condições humanas e sociais. 
+No âmbito mais amplo, o Curso de Tecnologia em Processos gerenciais visa a construção de um processo educativo que compreende e avalia a estrutura-econômica, o processo de produção, as mudanças tecnológicas, os processos de divisão do trabalho, a produção da força de trabalho a fim de definir os próprios objetivos e valores de formação profissional tendo como referência o ser humano, o ser social. O curso apresenta e discute os discursos hegemônicos da modernização, globalização, privatizações, bem como variantes mercadológicas e econômicas que, segundo Silva (1995) obscurecem a memória social, suprimem a educação pública, deslocam o discurso da igualdade e impossibilitam a participação coletiva. Assim, assumimos a educação como um campo de produção de conhecimento e de vida baseado nas condições de existência, na história e no próprio ser humano.
 
-34 
+Reafirmamos o papel da educação em geral, da educação profissional e tecnológica e dos docentes na configuração da política pedagógica. No plano dos conteúdos, aprendizagem e saberes, o curso fundamenta-se na articulação dos conhecimentos − técnico, profissional e cultural. Nas relações entre trabalho e base científico-tecnológica, a prática pedagógica centra-se na reflexão das estruturas sociais, das relações humanas, da historicidade do conhecimento e do
 
-## INSTITUTOFEDERAL Parana 
+37
 
-Ministerio da Educacao 
+## INSTITUTOFEDERAL Parana
 
-A Educação Profissional requer, conforme Parecer CNE/CES nº 436/2001, além do domínio operacional de um determinado fazer, a compreensão global do processo produtivo, com a apreensão do saber tecnológico, a valorização da cultura do trabalho e a mobilização dos valores necessários às tomadas de decisões. Enquanto Instituto Federal do Paraná, é dever oferecer uma formação que se dá no decorrer da vida humana, por meio das experiências e conhecimentos, ao longo das relações sociais e produtivas. 
+Ministerio da Educacao
 
-Uma formação que, além de formação específica, tem o compromisso de educar para a cidadania, implicando na realização de processos formativos, acima de tudo de caráter humanístico, que reconheçam o fazer estético, ético, político e incentivo do ser humano, suas relações com o mundo, com o outro e consigo mesmo. O perfil didático-pedagógico do curso superior de Tecnologia em Processos Gerenciais deverá ir ao encontro desses objetivos, respondendo às exigências de formação e qualificação profissional requerida pela sociedade em decorrência das atuais transformações científicas e tecnológicas. 
+próprio desenvolvimento do ser humano. As práticas pedagógicas desenvolvidas neste curso tem como base a sistematização dos conhecimentos trazidos pelos estudantes, a ressignificação destes conhecimentos e a compreensão da realidade e a apropriação dos signos e elementos que integram as relações entre as pessoas e o mundo (INSTITUTO FEDERAL DO PARANÁ, 2018).
 
-Para tanto, busca-se proporcionar uma educação sob uma concepção teórica fundamentada na abordagem filosófica do materialismo histórico e dialético. Para Chauí (1995) o materialismo nos determina a ser e a pensar. Histórico porque a sociedade e a política dependem da ação concreta dos seres humanos no tempo.  Afinal, a referência fundamental para a educação profissional e tecnológica é o ser humano e, por isso, o trabalho, como categoria estruturante do ser social, é seu elemento constituinte. É, pois, uma formação que se dá no decorrer da vida humana, por meio das experiências e conhecimentos, ao longo das relações sociais e produtivas. 
+A concepção de conhecimento pressupõe a relação entre sujeito e objeto, entre quem observa, problematiza e atua/modifica o cotidiano, a si próprio e ao conhecimento adquirido. Decorre da compreensão da teoria dialética do conhecimento, das práxis do homem sobre o mundo e do mundo sobre ele, e da prática social como a fonte do conhecimento. Os processos pedagógicos são construídos no curso a partir das situações de aprendizagem que aproximem educação, ciência, trabalho, tecnologia e cultura, que produzam ação construtiva e criadora “substituindo a certeza pelo questionamento, o engessamento pela flexibilidade, a recepção passiva pela atividade permanente na elaboração de novas sínteses que possibilitem a construção de novos aprendizados” (INSTITUTO FEDERAL DO PARANÁ, 2018).
 
-Os pressupostos pedagógicos do curso têm como base o direito à educação escolar pública, descritos na Lei de Diretrizes e Bases da educação nacional (BRASIL, 1996) e estão ancorados nos princípios de liberdade e nos ideais de solidariedade humana, tendo por finalidade o pleno desenvolvimento do educando, seu preparo para o exercício da cidadania e sua qualificação para o trabalho. Concebido e planejado para promover o desenvolvimento humano e a disseminação de conhecimentos relativos ao Eixo Gestão e Negócios, o Curso de Tecnologia em Processos Gerenciais está ancorado nos princípios da educação inclusiva, que defende a igualdade de oportunidades e condições de acesso para todos, respeitados os limites 
+O currículo será um espaço de fala e diálogo e pensamento sobre os objetos, saberes diversos e a vida. Um espaço de criação coletiva, questionamento, ressignificações a partir da relação entre professor e estudante e de aprendizado. A pesquisa e a extensão aliadas ao ensino compõem estratégias educacionais importantes à integração entre a teoria e a vivência da prática, aqui entendida não apenas como estágio profissional, mas como práticas diárias e experiências no desenvolvimento de projetos de pesquisa e extensão, atividades extracurriculares, visitas, laboratórios e toda e qualquer situação de aprendizagem que alie teoria e prática. Tal posicionamento implica na articulação entre o conteúdo e a sociedade, como elemento de entendimento e transformação social. Conforme afirma Gasparin (2012, p. 2) isso implica em trabalhar o conteúdo “[...] de forma contextualizada em todas as áreas do conhecimento humano [...] A educação é indissociável da prática social. Uma formação que busque ser realmente integrada não possibilita apenas saberes científicos, mas também promove o repensar dos padrões socioculturais que constituem a sociedade a qual estamos inseridos.
 
-35 
+38
 
-## INSTITUTOFEDERAL Parana 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+Ministerio da Educacao<br>
 
-administrativos e financeiros da Instituição. Trata-se de um projeto de curso que se alinha a um projeto de sociedade na qual todos sejam sujeitos de seus discursos e colaborem para o desenvolvimento econômico-social. 
+## 2.5 PERFIL DO EGRESSO
 
-A natureza inclusiva desta proposta, que justifica a oferta de educação pública e de qualidade a todos que necessitam de formação profissional, científica e tecnológica, inscreve-se em um projeto de sociedade mais justa e democrática, com respeito às diferenças, valorização da diversidade e empenho pela sustentabilidade, valores humanos e éticos que o curso buscou projetar em sua organização curricular. A compreensão é a de que essa é a responsabilidade dos Institutos Federais, conforme orienta a Lei nº 11.892/2008. 
+O Tecnólogo em Processos Gerenciais será habilitado para:
 
-Ao alinhar-se aos propósitos institucionais, o curso aqui proposto se propõe a formar profissionais para a sociedade, sendo a sua formação um instrumento de transformação das estruturas sociais e o canal através do qual perceberá as divisões econômicas e culturais. Para cumprirmos a responsabilidade social de ofertar formação humanista e crítica, e contribuir para uma sociedade mais igualitária, é necessário ter em vista um profissional atento às demandas sociais, que compreenda os processos tecnológicos da sua área e saiba analisar os impactos sociais gerados a partir da sua produção. Também é fundamental que esse profissional desenvolva atitudes cidadãs aplicadas ao mundo do trabalho, compreendendo a importância do trabalho coletivo e do respeito ao ser humano. 
+- Analisar e avaliar o ambiente interno e externo e formular objetivos e estratégias gerenciais.
 
-O perfil do profissional que se almeja fundamenta-se na concepção de trabalho como princípio educativo, categoria presente no documento que estabelece as diretrizes da educação profissional e tecnológica dos Institutos Federais, da mesma maneira que a pesquisa, a extensão e a inovação devem ser tratadas como processos formativos articulados ao trabalho. Isso demonstra que a concepção de educação pensada para os Institutos Federais surge de uma análise crítica da sociedade, baseada na realidade que o país enfrenta, sobretudo no interior do país. Por esse motivo, compreende-se a necessidade de se trabalhar a partir da pedagogia histórico-crítica, com base no método histórico e dialético de construção do conhecimento. Assim, o trabalho deve ser o ponto de partida e chegada para observarmos e compreendermos as transformações da natureza e do homem. O desenvolvimento intelectual, no âmbito do método histórico e dialético, não se dá 
+- Planejar e gerenciar os processos organizacionais (operacionais e logísticos, de pessoas, financeiros, de marketing, de informação, entre outros) e os sistemas da organização.
 
-36 
+- Promover a gestão e governança por processos e sistemas.
 
-## INSTITUTOFEDERAL Parana 
+- Mapear, diagnosticar, implementar e aperfeiçoar os processos gerenciais, analisar informações de gestão e propor soluções para a melhoria dos processos gerenciais.
 
-Ministerio da Educacao 
+- Assegurar a sustentabilidade, o atendimento às normas técnicas.
 
-de modo isolado, é preciso compreender que o ser humano pensa e atua num tempo e espaço e, nessa relação com a natureza, é constantemente modificado em suas reações. Ao produzir mudanças no mundo, os aspectos culturais e tecnológicos absorvem as transformações e se ressignificam. Daí a necessidade de se compreender que toda ação educativa, que produz impacto na realidade, torna-se trabalho. 
+- Liderar equipes, com habilidade de gerir conflitos e solucionar problemas técnicos.
 
-A partir da noção de trabalho, educação, ciência, tecnologia e cultura, chegamos à compreensão de que o produto do trabalho é o fator que irá impactar na sociedade e, portanto, é necessário que a prática e a teoria sejam concebidas e planejadas de forma indissolúvel na formação do profissional, sendo essa articulação a ferramenta pedagógica que fundamentará sua visão mais integral da atividade profissional. Para Saviani (2008) a prática se alimenta da teoria e a teoria deriva da prática. A práxis, nesse âmbito, orienta a formação curricular do Curso de Tecnologia em Processos Gerenciais e imprime no perfil do profissional a concretude do processo formativo omnilateral. 
+## **2.5.1 Áreas de Atuação do Egresso**
 
-No âmbito mais amplo, o Curso de Tecnologia em Processos gerenciais visa a construção de um processo educativo que compreende e avalia a estrutura-econômica, o processo de produção, as mudanças tecnológicas, os processos de divisão do trabalho, a produção da força de trabalho a fim de definir os próprios objetivos e valores de formação profissional tendo como referência o ser humano, o ser social. O curso apresenta e discute os discursos hegemônicos da modernização, globalização, privatizações, bem como variantes mercadológicas e econômicas que, segundo Silva (1995) obscurecem a memória social, suprimem a educação pública, deslocam o discurso da igualdade e impossibilitam a participação coletiva. Assim, assumimos a educação como um campo de produção de conhecimento e de vida baseado nas condições de existência, na história e no próprio ser humano. 
+As áreas de atuação do egresso do curso de Tecnologia e Processos Gerenciais de acordo com o Catálogo Nacional de Cursos Superiores de Tecnologia (CNCST) são:
 
-Reafirmamos o papel da educação em geral, da educação profissional e tecnológica e dos docentes na configuração da política pedagógica. No plano dos conteúdos, aprendizagem e saberes, o curso fundamenta-se na articulação dos conhecimentos − técnico, profissional e cultural. Nas relações entre trabalho e base científico-tecnológica, a prática pedagógica centra-se na reflexão das estruturas sociais, das relações humanas, da historicidade do conhecimento e do 
+- Empresas de planejamento, desenvolvimento de projetos, assessoramento técnico e consultoria;
 
-37 
+- Empresas em geral (indústria, comércio e serviços);
 
-## INSTITUTOFEDERAL Parana 
+- Institutos e Centros de Pesquisa.
 
-Ministerio da Educacao 
+- Instituições de Ensino, mediante formação requerida pela legislação vigente.
 
-próprio desenvolvimento do ser humano. As práticas pedagógicas desenvolvidas neste curso tem como base a sistematização dos conhecimentos trazidos pelos estudantes, a ressignificação destes conhecimentos e a compreensão da realidade e a apropriação dos signos e elementos que integram as relações entre as pessoas e o mundo (INSTITUTO FEDERAL DO PARANÁ, 2018). 
+Além disso, as ocupações da Classificação Brasileira de Ocupações (CBO) associadas ao
 
-A concepção de conhecimento pressupõe a relação entre sujeito e objeto, entre quem observa, problematiza e atua/modifica o cotidiano, a si próprio e ao conhecimento adquirido. Decorre da compreensão da teoria dialética do conhecimento, das práxis do homem sobre o mundo e do mundo sobre ele, e da prática social como a fonte do conhecimento. Os processos pedagógicos são construídos no curso a partir das situações de aprendizagem que aproximem educação, ciência, trabalho, tecnologia e cultura, que produzam ação construtiva e criadora “substituindo a certeza pelo questionamento, o engessamento pela flexibilidade, a recepção passiva pela atividade permanente na elaboração de novas sínteses que possibilitem a construção de novos aprendizados” (INSTITUTO FEDERAL DO PARANÁ, 2018). 
+curso são:
 
-O currículo será um espaço de fala e diálogo e pensamento sobre os objetos, saberes diversos e a vida. Um espaço de criação coletiva, questionamento, ressignificações a partir da relação entre professor e estudante e de aprendizado. A pesquisa e a extensão aliadas ao ensino compõem estratégias educacionais importantes à integração entre a teoria e a vivência da prática, aqui entendida não apenas como estágio profissional, mas como práticas diárias e experiências no desenvolvimento de projetos de pesquisa e extensão, atividades extracurriculares, visitas, laboratórios e toda e qualquer situação de aprendizagem que alie teoria e prática. Tal posicionamento implica na articulação entre o conteúdo e a sociedade, como elemento de entendimento e transformação social. Conforme afirma Gasparin (2012, p. 2) isso implica em trabalhar o conteúdo “[...] de forma contextualizada em todas as áreas do conhecimento humano [...] A educação é indissociável da prática social. Uma formação que busque ser realmente integrada não possibilita apenas saberes científicos, mas também promove o repensar dos padrões socioculturais que constituem a sociedade a qual estamos inseridos. 
+- 1421-20 - Tecnólogo em Gestão Administrativo-financeira;
 
-38 
+- 2521-05 - Analista Administrativo.
 
-## INSTITUTOFEDERAL Parana 
+39
 
-**==> picture [84 x 10] intentionally omitted <==**
+INSTITUTOFEDERAL Parana
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+Ministerio da Educacao<br>
 
+## **2.5.2 Acompanhamento de Egressos**
 
-## 2.5 PERFIL DO EGRESSO 
+O IFPR por meio da Seção de Acompanhamento de Estágios e Egressos (SAEE/Proens) possui uma ação voltada ao acompanhamento de egressos, na qual todos os meses uma chamada no Facebook do IFPR promove o link da página institucional (também disponível no site do IFPR) para que os egressos de todos os câmpus respondam ao questionário sobre como foi sua vida acadêmica no IFPR, sua trajetória profissional e suas expectativas futuras.
 
-O Tecnólogo em Processos Gerenciais será habilitado para: 
+No câmpus, a Política de Acompanhamento de Egressos, definida como um conjunto de ações voltadas para o processo de conhecimento, avaliação, monitoramento e acompanhamento da instituição, tendo como foco o ex-aluno e a sua realidade profissional e acadêmica, a fim de subsidiar o planejamento, a definição e a retroalimentação das políticas educacionais, tem como objetivos:
 
-- Analisar e avaliar o ambiente interno e externo e formular objetivos e estratégias gerenciais. 
+- acompanhar o egresso na sua inserção no mundo do trabalho;
 
-- Planejar e gerenciar os processos organizacionais (operacionais e logísticos, de pessoas, financeiros, de marketing, de informação, entre outros) e os sistemas da organização. 
+- analisar a relação entre a ocupação profissional exercida pelo egresso e a sua formação;
 
-- Promover a gestão e governança por processos e sistemas. 
+- subsidiar o processo pedagógico de reformulação e atualização curricular dos cursos, bem como o planejamento e a oferta de novas oportunidades educacionais e de formação profissional;
 
-- Mapear, diagnosticar, implementar e aperfeiçoar os processos gerenciais, analisar informações de gestão e propor soluções para a melhoria dos processos gerenciais. 
+- acompanhar a avaliação dos cursos realizada pelos egressos e buscar identificar os elementos limitadores do acesso dos egressos ao mundo de trabalho;
 
-- Assegurar a sustentabilidade, o atendimento às normas técnicas. 
+- relacionar as áreas de atuação profissional com os níveis de remuneração dos egressos inseridos no mundo do trabalho;
 
-- Liderar equipes, com habilidade de gerir conflitos e solucionar problemas técnicos. 
+- estabelecer comunicação permanente com os egressos;
 
-## **2.5.1 Áreas de Atuação do Egresso** 
+- estimular egressos para participarem dos cursos de formação continuada ofertados pelo câmpus;
 
-As áreas de atuação do egresso do curso de Tecnologia e Processos Gerenciais de acordo com o Catálogo Nacional de Cursos Superiores de Tecnologia (CNCST) são: 
+- avaliar os impactos da formação recebida na vida profissional dos egressos; e
 
-- Empresas de planejamento, desenvolvimento de projetos, assessoramento técnico e consultoria; 
+- produzir e publicizar, anualmente, relatório consolidado, com as informações referentes aos resultados coletados pelos câmpus.
 
-- Empresas em geral (indústria, comércio e serviços); 
+40
 
-- Institutos e Centros de Pesquisa. 
+INSTITUTOFEDERAL Parana
 
-- Instituições de Ensino, mediante formação requerida pela legislação vigente. 
+Ministerio da Educacao<br>
 
-Além disso, as ocupações da Classificação Brasileira de Ocupações (CBO) associadas ao 
+## **2.5.3 Registro Profissional**
 
-curso são: 
+A Legislação Profissional segue a Resolução Normativa CFA nº 505, de 11 de maio de 2017, que dispõe sobre o registro no Conselho Regional de Administração, dos diplomados em Cursos Superiores de Tecnologia conexos à ciência da Administração.
 
-- 1421-20 - Tecnólogo em Gestão Administrativo-financeira; 
+O curso estará cadastrado junto ao CRA-PR para que este tenha as informações necessárias ao processo de registro profissional dos egressos.
 
-- 2521-05 - Analista Administrativo. 
+## **3. METODOLOGIA E ESTRATÉGIAS PEDAGÓGICAS**
 
-39 
+Para garantir que o perfil do egresso do curso de Tecnologia em Processos Gerenciais seja plenamente atendido, serão empregadas estratégias pedagógicas alinhadas às diretrizes institucionais e a Lei nº 9.394, de 20 de dezembro de 1996 (BRASIL, 1996), que estabelece as Diretrizes e Bases da Educação Nacional. Essas estratégias visam integrar teoria e prática de maneira indissociável, promovendo uma formação acadêmica e profissional sólida e conectada às demandas do mundo do trabalho e da sociedade e são descritas a seguir.
 
-INSTITUTOFEDERAL Parana 
+## 3.1 RELAÇÃO ENTRE ENSINO, PESQUISA, EXTENSÃO E INOVAÇÃO
 
-**==> picture [84 x 10] intentionally omitted <==**
+Pautada na interdisciplinaridade, na interprofissionalidade, no protagonismo estudantil e no envolvimento ativo da comunidade externa, a Extensão propicia um espaço privilegiado de vivências e de trocas de experiências e saberes, promovendo a reflexão crítica dos envolvidos e impulsionando o desenvolvimento socioeconômico, equitativo e sustentável. As áreas temáticas da Extensão refletem seu caráter interdisciplinar, contemplando Comunicação, Cultura, Direitos humanos e justiça, Educação, Meio ambiente, Saúde, Tecnologia e produção e Trabalho. Assim, perpassam por diversas discussões que emergem na contemporaneidade como, por exemplo, a
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+41
 
+## INSTITUTOFEDERAL Parana
 
-## **2.5.2 Acompanhamento de Egressos** 
+Ministerio da Educacao
 
-O IFPR por meio da Seção de Acompanhamento de Estágios e Egressos (SAEE/Proens) possui uma ação voltada ao acompanhamento de egressos, na qual todos os meses uma chamada no Facebook do IFPR promove o link da página institucional (também disponível no site do IFPR) para que os egressos de todos os câmpus respondam ao questionário sobre como foi sua vida acadêmica no IFPR, sua trajetória profissional e suas expectativas futuras. 
+Educação das Relações Étnico-Raciais e para o Ensino de História e Cultura Afro-Brasileira e Africanas, conforme exigência da Resolução CNE/CP nº 01/2004, além da Educação Ambiental, cuja obrigatoriedade está prevista na Lei nº 9.795/1999.
 
-No câmpus, a Política de Acompanhamento de Egressos, definida como um conjunto de ações voltadas para o processo de conhecimento, avaliação, monitoramento e acompanhamento da instituição, tendo como foco o ex-aluno e a sua realidade profissional e acadêmica, a fim de subsidiar o planejamento, a definição e a retroalimentação das políticas educacionais, tem como objetivos: 
+A articulação entre ensino, pesquisa e extensão está diretamente relacionada à organização curricular e à flexibilização dos tempos e dos espaços escolares e extraescolares. Os saberes necessários ao trabalho conduzem à efetivação de ações do ensino e aprendizagem (construção dialógica do conhecimento), da pesquisa (elaboração e reelaboração de conhecimentos) e da extensão (ação-reflexão com a comunidade). A indissociabilidade entre ensino, pesquisa e extensão deve promover a articulação das diferentes áreas do conhecimento e a inovação científica, tecnológica, artística, esportiva e cultural, promovendo a inserção do IFRS nos planos local, regional, nacional e internacional. O Curso Superior de Tecnologia em Processos Gerenciais busca construir suas práticas tomando o princípio de indissociabilidade entre Ensino, Pesquisa e Extensão como referência. Essa relação se dá a partir de inúmeras participações dos discentes em atividades desenvolvidas no câmpus.
 
-- acompanhar o egresso na sua inserção no mundo do trabalho; 
+Em atendimento à Resolução nº 7, d 18 de dezembro de 2018 que estabelece as Diretrizes para a Extensão na Educação Superior Brasileira e regimenta o disposto na Meta 12.7 da Lei nº 13.005/2014, que aprova o Plano Nacional de Educação - PNE 2014-2024 e dá outras providências, o curso propõe uma curricularização, que será empreendida por meio de atividades de extensão previstas no apêndice B. Vale ressaltar que a extensão envolve a realização de programas, projetos e ações que atendam as demandas da comunidade externa e nestas disciplinas o discente será o agente no processo, pois sua participação ocorrerá desde a pesquisa até a análise dos resultados esperados, em um processo que envolve a observação da realidade, identificação do problema, reflexão sobre soluções e intervenção prática em conformidade com a Resolução n.º 07 de 18 de dezembro de 2018.
 
-- analisar a relação entre a ocupação profissional exercida pelo egresso e a sua formação; 
+Assim, serão realizados os projetos de extensão propostos pelos discentes, após uma ampla pesquisa da demanda da comunidade externa, nos quais o aluno realizará atividades que,
 
-- subsidiar o processo pedagógico de reformulação e atualização curricular dos cursos, bem como o planejamento e a oferta de novas oportunidades educacionais e de formação profissional; 
+42
 
-- acompanhar a avaliação dos cursos realizada pelos egressos e buscar identificar os elementos limitadores do acesso dos egressos ao mundo de trabalho; 
+## INSTITUTOFEDERAL Parana
 
-- relacionar as áreas de atuação profissional com os níveis de remuneração dos egressos inseridos no mundo do trabalho; 
+Ministerio da Educacao
 
-- estabelecer comunicação permanente com os egressos; 
+preferencialmente, estejam relacionadas com um ou mais componentes curriculares em curso. O papel dos docentes da disciplina será de orientação, adequação e supervisão dos projetos propostos, que se iniciaram com a pesquisa de demanda no terceiro módulo, passando para a elaboração e execução do projeto no quarto módulo, com avaliação dos resultados esperados de forma contínua e ao final de cada módulo. Vale ressaltar que os projetos podem acontecer articulados com os demais módulos do curso ou com outros cursos do câmpus. Para registro e contabilização da carga horária, o estudante deverá participar das atividades previstas no apêndice B.
 
-- estimular egressos para participarem dos cursos de formação continuada ofertados pelo câmpus; 
+E sendo a indissociabilidade um princípio norteador que aponta a direção a ser seguida no trabalho com o conhecimento, a pesquisa é algo que permeia todo o processo pedagógico. Os professores estimulam os alunos a fazerem de cada atividade pequenos processos de investigação, não apenas no sentido de descrição da realidade, mas, sobretudo, no sentido de duvidar, de formular perguntas e de buscar respostas.
 
-- avaliar os impactos da formação recebida na vida profissional dos egressos; e 
+## 3.2 TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO NO PROCESSO DE ENSINO-APRENDIZAGEM
 
-- produzir e publicizar, anualmente, relatório consolidado, com as informações referentes aos resultados coletados pelos câmpus. 
+O curso de Tecnologia em Processos Gerenciais integra as Tecnologias Digitais de Informação e Comunicação (TDIC) como ferramentas essenciais no processo de ensino-aprendizagem, em consonância com a missão dos Institutos Federais de Educação, Ciência e Tecnologia de oferecer uma educação de qualidade, inclusiva e alinhada às demandas contemporâneas. A utilização das TDIC contribui para a formação de profissionais preparados para atuar em um ambiente empresarial cada vez mais digital, dinâmico e competitivo.
 
-40 
+No curso, as TDIC são aplicadas como elementos estratégicos para enriquecer o ensino e potencializar a aprendizagem. Ferramentas digitais, como plataformas de gestão, planilhas eletrônicas, _softwares_ de simulação empresarial e aplicativos colaborativos, são utilizadas para estimular a interação, a análise crítica e a tomada de decisões em contextos organizacionais
 
-INSTITUTOFEDERAL Parana 
+43
 
-**==> picture [84 x 10] intentionally omitted <==**
+## INSTITUTOFEDERAL Parana
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+Ministerio da Educacao
 
+diversos. Esses recursos tornam o aprendizado mais flexível, interativo e conectado à realidade do mercado.
 
-## **2.5.3 Registro Profissional** 
+A aplicação das TDIC também está presente em atividades práticas, estudos de caso, projetos integradores e simulações de processos gerenciais. Os estudantes utilizam sistemas informatizados para desenvolver planos de negócios, analisar indicadores de desempenho, propor soluções estratégicas e gerir processos administrativos, financeiros e operacionais. Esses instrumentos possibilitam uma formação mais aderente às exigências do mercado, promovendo a aprendizagem ativa e significativa.
 
-A Legislação Profissional segue a Resolução Normativa CFA nº 505, de 11 de maio de 2017, que dispõe sobre o registro no Conselho Regional de Administração, dos diplomados em Cursos Superiores de Tecnologia conexos à ciência da Administração. 
+Na esfera da pesquisa, as tecnologias digitais são estimuladas para a coleta e análise de dados, elaboração de diagnósticos organizacionais e desenvolvimento de soluções voltadas à melhoria da gestão. Projetos de iniciação científica e tecnológica utilizam as TDIC para apoiar a criação de propostas inovadoras, permitindo aos estudantes aprofundar seus conhecimentos e contribuir para a modernização dos processos nas organizações.
 
-O curso estará cadastrado junto ao CRA-PR para que este tenha as informações necessárias ao processo de registro profissional dos egressos. 
+## 3.3 ESTRATÉGIAS DE ENSINO E APRENDIZAGEM
 
-## **3. METODOLOGIA E ESTRATÉGIAS PEDAGÓGICAS** 
+Para que sejam atingidos os objetivos de formação em consonância com o perfil do egresso desejado para este curso, os componentes curriculares adotam diferentes estratégias de aprendizado. Apoiados nos pressupostos da Teoria Histórico Crítica, a metodologia adota práticas de estudos que provocam nos alunos o desenvolvimento da auto aprendizagem, estimulando a autonomia intelectual, a colaboração e a articulação entre teoria e prática.
 
-Para garantir que o perfil do egresso do curso de Tecnologia em Processos Gerenciais seja plenamente atendido, serão empregadas estratégias pedagógicas alinhadas às diretrizes institucionais e a Lei nº 9.394, de 20 de dezembro de 1996 (BRASIL, 1996), que estabelece as Diretrizes e Bases da Educação Nacional. Essas estratégias visam integrar teoria e prática de maneira indissociável, promovendo uma formação acadêmica e profissional sólida e conectada às demandas do mundo do trabalho e da sociedade e são descritas a seguir. 
+No curso de Tecnologia em Processos Gerenciais os componentes curriculares apresentam diferentes atividades e abordagens pedagógicas para desenvolver os conteúdos visando atingir os objetivos do curso. As ementas e os objetivos dos componentes curriculares foram cuidadosamente construídos no sentido de viabilizar caminhos para a construção do Perfil do Egresso. Assim, a metodologia do trabalho pedagógico com os conteúdos disciplinares apresenta grande diversidade, de acordo com as especificidades de cada componente.
 
-## 3.1 RELAÇÃO ENTRE ENSINO, PESQUISA, EXTENSÃO E INOVAÇÃO 
+44
 
-Pautada na interdisciplinaridade, na interprofissionalidade, no protagonismo estudantil e no envolvimento ativo da comunidade externa, a Extensão propicia um espaço privilegiado de vivências e de trocas de experiências e saberes, promovendo a reflexão crítica dos envolvidos e impulsionando o desenvolvimento socioeconômico, equitativo e sustentável. As áreas temáticas da Extensão refletem seu caráter interdisciplinar, contemplando Comunicação, Cultura, Direitos humanos e justiça, Educação, Meio ambiente, Saúde, Tecnologia e produção e Trabalho. Assim, perpassam por diversas discussões que emergem na contemporaneidade como, por exemplo, a 
+## INSTITUTOFEDERAL Parana
 
-41 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+Serão utilizadas: explicações de princípios, conceitos e definições das teorias da Administração, a partir de modelos e ferramentas da área e de questões práticas e de situações do cotidiano, aulas expositivas com o desenvolvimento dos conteúdos na lousa, aulas dialogadas com a apresentação de slides, leitura programada de textos, análise de situações-problema, realização de atividades individuais e em grupo, aulas práticas em laboratório, elaboração de projetos, pesquisas, trabalhos, seminários, debates, estudos de campo, etc.
 
-Ministerio da Educacao 
+Adiciona-se a curricularização da extensão, que propiciará o elo com o ensino e as atividades complementares que incentivará a participação do discente em atividades de pesquisa. A curricularização da extensão é uma estratégia prevista no Plano Nacional de Educação (PNE 2014/2024) e foi regulamentada pela Resolução CNE/CES nº 7/2018, que consiste na adequação dos Projetos Pedagógicos de Curso (PPC) visando garantir um percentual mínimo de 10% (dez por cento) na carga horária da matriz curricular dos cursos de graduação, direcionados para as atividades de extensão e orientados prioritariamente para as áreas de grande pertinência social (Meta 12.7 da Lei n.º 13.005/2014). No curso de Tecnologia em Processos Gerenciais a curricularização da extensão compõe carga-horária estudantil obrigatória, fazendo parte da matriz curricular conforme previsto por este projeto pedagógico de curso (PPC).
 
-Educação das Relações Étnico-Raciais e para o Ensino de História e Cultura Afro-Brasileira e Africanas, conforme exigência da Resolução CNE/CP nº 01/2004, além da Educação Ambiental, cuja obrigatoriedade está prevista na Lei nº 9.795/1999. 
+Ainda, complementam as estratégias pedagógicas, a utilização de novas metodologias baseadas no uso de recursos das Tecnologias da Informação e da Comunicação (TICs), como Google Classroom, possibilitará oferecer aos discentes web aulas, videoaulas, _webinars_ , gravação de áudio e vídeo, videoconferência para debates e discussões, ferramentas tecnológicas de comunicação e colaboração, etc. Isso porque o curso prevê carga horária em EaD de 30% conforme Decreto nº 12.456/2025, que regulamenta a Nova Política de Educação a Distância.
 
-A articulação entre ensino, pesquisa e extensão está diretamente relacionada à organização curricular e à flexibilização dos tempos e dos espaços escolares e extraescolares. Os saberes necessários ao trabalho conduzem à efetivação de ações do ensino e aprendizagem (construção dialógica do conhecimento), da pesquisa (elaboração e reelaboração de conhecimentos) e da extensão (ação-reflexão com a comunidade). A indissociabilidade entre ensino, pesquisa e extensão deve promover a articulação das diferentes áreas do conhecimento e a inovação científica, tecnológica, artística, esportiva e cultural, promovendo a inserção do IFRS nos planos local, regional, nacional e internacional. O Curso Superior de Tecnologia em Processos Gerenciais busca construir suas práticas tomando o princípio de indissociabilidade entre Ensino, Pesquisa e Extensão como referência. Essa relação se dá a partir de inúmeras participações dos discentes em atividades desenvolvidas no câmpus. 
+Entende-se por Educação a Distância (EaD), para fins institucionais, os processos de ensino e aprendizagem mediados por tecnologia, nos formatos a distância, no âmbito do ensino, da pesquisa e da extensão. Neste curso presencial, há possibilidade legal de uma oferta de até 40% da carga horária do curso a distância, o que apresenta novas possibilidades educacionais, que se originam da aplicação de recursos para gerenciamento de conteúdo e processos de
 
-Em atendimento à Resolução nº 7, d 18 de dezembro de 2018 que estabelece as Diretrizes para a Extensão na Educação Superior Brasileira e regimenta o disposto na Meta 12.7 da Lei nº 13.005/2014, que aprova o Plano Nacional de Educação - PNE 2014-2024 e dá outras providências, o curso propõe uma curricularização, que será empreendida por meio de atividades de extensão previstas no apêndice B. Vale ressaltar que a extensão envolve a realização de programas, projetos e ações que atendam as demandas da comunidade externa e nestas disciplinas o discente será o agente no processo, pois sua participação ocorrerá desde a pesquisa até a análise dos resultados esperados, em um processo que envolve a observação da realidade, identificação do problema, reflexão sobre soluções e intervenção prática em conformidade com a Resolução n.º 07 de 18 de dezembro de 2018. 
+45
 
-Assim, serão realizados os projetos de extensão propostos pelos discentes, após uma ampla pesquisa da demanda da comunidade externa, nos quais o aluno realizará atividades que, 
+## INSTITUTOFEDERAL Parana
 
-42 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+ensino-aprendizagem em educação a distância, e também do uso de TICs na perspectiva de agregar valor a processos de educação presencial.
 
-Ministerio da Educacao 
+A utilização da carga horária a distância foi motivada pela flexibilização de horários e local de estudo, pela possibilidade de adoção de abordagens pedagógicas modernas de ensino, dar autonomia para os discentes no processo de ensino e aprendizagem e, a possibilidade de reunir o melhor da aprendizagem on-line baseado em tecnologia e o melhor do ensino presencial para que efetivamente proporcione resultados na aprendizagem.
 
-preferencialmente, estejam relacionadas com um ou mais componentes curriculares em curso. O papel dos docentes da disciplina será de orientação, adequação e supervisão dos projetos propostos, que se iniciaram com a pesquisa de demanda no terceiro módulo, passando para a elaboração e execução do projeto no quarto módulo, com avaliação dos resultados esperados de forma contínua e ao final de cada módulo. Vale ressaltar que os projetos podem acontecer articulados com os demais módulos do curso ou com outros cursos do câmpus. Para registro e contabilização da carga horária, o estudante deverá participar das atividades previstas no apêndice B. 
+Para preparar os alunos para educação a distância, os mesmos receberão orientações sobre os procedimentos utilizados no EaD e suas metodologias e abordagens pedagógicas, visando estimular a autonomia na aprendizagem.
 
-E sendo a indissociabilidade um princípio norteador que aponta a direção a ser seguida no trabalho com o conhecimento, a pesquisa é algo que permeia todo o processo pedagógico. Os professores estimulam os alunos a fazerem de cada atividade pequenos processos de investigação, não apenas no sentido de descrição da realidade, mas, sobretudo, no sentido de duvidar, de formular perguntas e de buscar respostas. 
+## **3.3.1 Material Didático**
 
-## 3.2 TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO NO PROCESSO DE ENSINO-APRENDIZAGEM 
+Os materiais didáticos são recursos e atividades, físicos ou digitais, utilizados para apoio ao ensino relacionado ao desenvolvimento do curso. Com a oferta de disciplinas em EaD, o material didático pode ser produzido pelo próprio docente do componente curricular, estes materiais podem ser, por exemplo, vídeos, apostilas, exercícios, etc. Outra opção é utilizar materiais já consolidados pelos especialistas e, neste caso, caberá aos docentes o papel de curadoria. Para esta atividade será priorizado o uso de repositórios da rede federal. A distribuição dos materiais didáticos é de responsabilidade do próprio docente do componente curricular, e deve ser disponibilizado no início do semestre letivo.
 
-O curso de Tecnologia em Processos Gerenciais integra as Tecnologias Digitais de Informação e Comunicação (TDIC) como ferramentas essenciais no processo de ensino-aprendizagem, em consonância com a missão dos Institutos Federais de Educação, Ciência e Tecnologia de oferecer uma educação de qualidade, inclusiva e alinhada às demandas contemporâneas. A utilização das TDIC contribui para a formação de profissionais preparados para atuar em um ambiente empresarial cada vez mais digital, dinâmico e competitivo. 
+Além disso, o docente deve orientar o aluno para a realização das atividades EaD, definindo claramente seus objetivos, metodologias, prazos e formas de entrega. Esta orientação pode ser realizada oralmente, em momento presencial, ou em plataforma. A formação proposta no PPC do curso é desenvolvida seguindo os conteúdos previstos na ementa de cada componente curricular. Nesse sentido, os materiais didáticos visam atender a coerência teórica e o aprofundamento necessários para a construção do conhecimento, contemplando os objetivos previstos no plano de ensino. O material didático, bem como as metodologias de ensino e a
 
-No curso, as TDIC são aplicadas como elementos estratégicos para enriquecer o ensino e potencializar a aprendizagem. Ferramentas digitais, como plataformas de gestão, planilhas eletrônicas, _softwares_ de simulação empresarial e aplicativos colaborativos, são utilizadas para estimular a interação, a análise crítica e a tomada de decisões em contextos organizacionais 
+46
 
-43 
+## INSTITUTOFEDERAL Parana
 
-## INSTITUTOFEDERAL Parana 
+Ministerio da Educacao
 
-Ministerio da Educacao 
+linguagem serão desenvolvidos de modo a atender as necessidades específicas de cada estudante, considerando-se, inclusive, os possíveis casos de inclusão. A produção de material didático deve levar em conta as necessidades específicas dos alunos matriculados no componente curricular, de forma a garantir a acessibilidade metodológica, instrumental, utilizando linguagem inclusiva e acessível.
 
-diversos. Esses recursos tornam o aprendizado mais flexível, interativo e conectado à realidade do mercado. 
+## **3.3.2 Mecanismos de Interação entre Docentes, Tutores e Estudantes**
 
-A aplicação das TDIC também está presente em atividades práticas, estudos de caso, projetos integradores e simulações de processos gerenciais. Os estudantes utilizam sistemas informatizados para desenvolver planos de negócios, analisar indicadores de desempenho, propor soluções estratégicas e gerir processos administrativos, financeiros e operacionais. Esses instrumentos possibilitam uma formação mais aderente às exigências do mercado, promovendo a aprendizagem ativa e significativa. 
+No início de cada semestre está prevista reunião com os docentes que atuam no curso no período letivo vigente. Dentre os assuntos tratados nesta reunião, quando houver componentes curriculares com carga horária EaD, haverá uma articulação com relação a metodologias, linguagens e adaptações a serem utilizadas no ensino a distância. Os problemas identificados pela CPA com relação à interação entre docentes, tutores, coordenadores e discentes serão tratados pelo colegiado de curso. Desta forma, ocorre a interação entre tutores, docentes e coordenação de curso. Como resultado, há o planejamento documentado da interação para encaminhamento das questões do curso e realização de avaliações periódicas para identificação de problemas ou aprimoramento da interação entre os sujeitos.
 
-Na esfera da pesquisa, as tecnologias digitais são estimuladas para a coleta e análise de dados, elaboração de diagnósticos organizacionais e desenvolvimento de soluções voltadas à melhoria da gestão. Projetos de iniciação científica e tecnológica utilizam as TDIC para apoiar a criação de propostas inovadoras, permitindo aos estudantes aprofundar seus conhecimentos e contribuir para a modernização dos processos nas organizações. 
+## **3.3.3 Atividades de Tutoria**
 
-## 3.3 ESTRATÉGIAS DE ENSINO E APRENDIZAGEM 
+Os tutores/professores têm um papel importante ao realizar o contato direto com os estudantes na realização de atividades EaD, como principais atribuições, destacam-se: esclarecer as dúvidas dos estudantes através do AVA, Google Classroom, e-mail e grupos de WhatsApp; verificar e avaliar as atividades realizadas pelos estudantes e fornecer _feedback_ ; estimular a participação colaborativa, enviar mensagens individuais aos estudantes que não se mostrarem ativos no curso.
 
-Para que sejam atingidos os objetivos de formação em consonância com o perfil do egresso desejado para este curso, os componentes curriculares adotam diferentes estratégias de aprendizado. Apoiados nos pressupostos da Teoria Histórico Crítica, a metodologia adota práticas de estudos que provocam nos alunos o desenvolvimento da auto aprendizagem, estimulando a autonomia intelectual, a colaboração e a articulação entre teoria e prática. 
+No curso de Tecnologia em Processos Gerenciais, as atividades de tutoria são realizadas pelo próprio docente do componente curricular. A inclusão da carga horária a distância nos
 
-No curso de Tecnologia em Processos Gerenciais os componentes curriculares apresentam diferentes atividades e abordagens pedagógicas para desenvolver os conteúdos visando atingir os objetivos do curso. As ementas e os objetivos dos componentes curriculares foram cuidadosamente construídos no sentido de viabilizar caminhos para a construção do Perfil do Egresso. Assim, a metodologia do trabalho pedagógico com os conteúdos disciplinares apresenta grande diversidade, de acordo com as especificidades de cada componente. 
+47
 
-44 
+## INSTITUTOFEDERAL Parana
 
-## INSTITUTOFEDERAL Parana 
+Ministerio da Educacao
 
-Ministerio da Educacao 
+componentes curriculares permite a adoção de diferentes abordagens pedagógicas por meio de atividades assíncronas.
 
-Serão utilizadas: explicações de princípios, conceitos e definições das teorias da Administração, a partir de modelos e ferramentas da área e de questões práticas e de situações do cotidiano, aulas expositivas com o desenvolvimento dos conteúdos na lousa, aulas dialogadas com a apresentação de slides, leitura programada de textos, análise de situações-problema, realização de atividades individuais e em grupo, aulas práticas em laboratório, elaboração de projetos, pesquisas, trabalhos, seminários, debates, estudos de campo, etc. 
+Atividades assíncronas são entendidas como ferramentas de comunicação que se caracterizam por não serem realizadas em tempo real. Possibilitam, assim, que a interação entre professor e estudante ocorra em tempos diferentes, não sendo necessária a conexão simultânea. As atividades assíncronas permitem que o aluno organize seu tempo para realização das tarefas em momentos variados. São exemplos de atividades assíncronas: fóruns, textos, vídeos, aulas previamente gravadas e disponibilizadas pelos docentes, formulários, google classroom, entre outros.
 
-Adiciona-se a curricularização da extensão, que propiciará o elo com o ensino e as atividades complementares que incentivará a participação do discente em atividades de pesquisa. A curricularização da extensão é uma estratégia prevista no Plano Nacional de Educação (PNE 2014/2024) e foi regulamentada pela Resolução CNE/CES nº 7/2018, que consiste na adequação dos Projetos Pedagógicos de Curso (PPC) visando garantir um percentual mínimo de 10% (dez por cento) na carga horária da matriz curricular dos cursos de graduação, direcionados para as atividades de extensão e orientados prioritariamente para as áreas de grande pertinência social (Meta 12.7 da Lei n.º 13.005/2014). No curso de Tecnologia em Processos Gerenciais a curricularização da extensão compõe carga-horária estudantil obrigatória, fazendo parte da matriz curricular conforme previsto por este projeto pedagógico de curso (PPC). 
+## **3.3.4 Ambiente Virtual de Aprendizagem (AVA)**
 
-Ainda, complementam as estratégias pedagógicas, a utilização de novas metodologias baseadas no uso de recursos das Tecnologias da Informação e da Comunicação (TICs), como Google Classroom, possibilitará oferecer aos discentes web aulas, videoaulas, _webinars_ , gravação de áudio e vídeo, videoconferência para debates e discussões, ferramentas tecnológicas de comunicação e colaboração, etc. Isso porque o curso prevê carga horária em EaD de 30% conforme Decreto nº 12.456/2025, que regulamenta a Nova Política de Educação a Distância. 
+O curso de Tecnologia em Processos Gerenciais conta com duas importantes ferramentas para que os conteúdos à distância sejam entregues aos alunos de forma eficaz, com qualidade e suportados pelos pressupostos desta proposta. Um Ambiente Virtual de Aprendizagem (AVA), uma plataforma online que facilita e aprimora o processo de ensino-aprendizagem, seja presencial ou a distância. Ele serve como uma "sala de aula virtual" onde alunos e professores podem interagir, acessar materiais de estudo, realizar atividades e receber feedback
 
-Entende-se por Educação a Distância (EaD), para fins institucionais, os processos de ensino e aprendizagem mediados por tecnologia, nos formatos a distância, no âmbito do ensino, da pesquisa e da extensão. Neste curso presencial, há possibilidade legal de uma oferta de até 40% da carga horária do curso a distância, o que apresenta novas possibilidades educacionais, que se originam da aplicação de recursos para gerenciamento de conteúdo e processos de 
+Ainda contaremos com o Google Classroom, uma plataforma _online_ gratuita, parte do Google Workspace for Education, onde é possível postar comunicados, materiais, atividades e facilitar a comunicação entre professores e alunos. Desta maneira, e em atendimento ao item 1.17 do SINAES, os professores poderão fazer a distribuição e a gestão de conteúdos, a interação e elaborações colaborativas, bem como o acompanhamento da aprendizagem do/a discente pelo/a docente .
 
-45 
+48
 
-## INSTITUTOFEDERAL Parana 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+Ministerio da Educacao<br>
 
-ensino-aprendizagem em educação a distância, e também do uso de TICs na perspectiva de agregar valor a processos de educação presencial. 
+## **4. ORGANIZAÇÃO CURRICULAR**
 
-A utilização da carga horária a distância foi motivada pela flexibilização de horários e local de estudo, pela possibilidade de adoção de abordagens pedagógicas modernas de ensino, dar autonomia para os discentes no processo de ensino e aprendizagem e, a possibilidade de reunir o melhor da aprendizagem on-line baseado em tecnologia e o melhor do ensino presencial para que efetivamente proporcione resultados na aprendizagem. 
+## 4.1 ESTRUTURA CURRICULAR
 
-Para preparar os alunos para educação a distância, os mesmos receberão orientações sobre os procedimentos utilizados no EaD e suas metodologias e abordagens pedagógicas, visando estimular a autonomia na aprendizagem. 
+A organização Didático-Pedagógica do curso superior em questão está em consonância com a Lei de Diretrizes e Bases da Educação Nacional/LDB – Lei nº. 9.394, de 20 de dezembro de 1996 –, com os Pareceres promulgados pelo Conselho Nacional da Educação - CNE, com as Diretrizes Curriculares Nacionais do Ensino Superior, com o Estatuto do Instituto Federal do Paraná, com o Plano de Desenvolvimento Institucional/PDI da Instituição, e com a Resolução n° 55/11 que rege todos os procedimentos didático-pedagógico-administrativos dos Cursos de Ensino Superior do Instituto Federal do Paraná/IFPR.
 
-## **3.3.1 Material Didático** 
+A organização didático-pedagógica do Curso Superior Processos Gerenciais é ofertada como Educação Profissional Tecnológica de Graduação, organizado na forma presencial e está em consonância com os objetivos da Resolução n° 55/11, com a formação do estudante de forma ética, responsável, autônoma e criativa, capaz de tomar decisões na busca de soluções para os problemas relacionados com o desenvolvimento social, técnico, econômico e cultural do país.
 
-Os materiais didáticos são recursos e atividades, físicos ou digitais, utilizados para apoio ao ensino relacionado ao desenvolvimento do curso. Com a oferta de disciplinas em EaD, o material didático pode ser produzido pelo próprio docente do componente curricular, estes materiais podem ser, por exemplo, vídeos, apostilas, exercícios, etc. Outra opção é utilizar materiais já consolidados pelos especialistas e, neste caso, caberá aos docentes o papel de curadoria. Para esta atividade será priorizado o uso de repositórios da rede federal. A distribuição dos materiais didáticos é de responsabilidade do próprio docente do componente curricular, e deve ser disponibilizado no início do semestre letivo. 
+Os Cursos Superiores de Tecnologia têm por objetivo formar profissionais aptos a desenvolver atividades em determinado Eixo Tecnológico, utilizando, desenvolvendo e adaptando tecnologias com a compreensão crítica das implicações decorrentes e das suas relações com o processo produtivo, com o ambiente e com a sociedade (Resolução n° 55/11 – IFPR).
 
-Além disso, o docente deve orientar o aluno para a realização das atividades EaD, definindo claramente seus objetivos, metodologias, prazos e formas de entrega. Esta orientação pode ser realizada oralmente, em momento presencial, ou em plataforma. A formação proposta no PPC do curso é desenvolvida seguindo os conteúdos previstos na ementa de cada componente curricular. Nesse sentido, os materiais didáticos visam atender a coerência teórica e o aprofundamento necessários para a construção do conhecimento, contemplando os objetivos previstos no plano de ensino. O material didático, bem como as metodologias de ensino e a 
+O Curso Superior de Tecnologia em Processos Gerenciais do Câmpus Avançado Arapongas está estruturado por componentes curriculares agrupados em quatro períodos (módulos). Esta organização curricular proporciona a articulação entre a formação teórica e prática, de modo a contribuir para a formação integral do educando como profissional responsável e competente e como cidadão atuante, consciente e criativo.
 
-46 
+49
 
-## INSTITUTOFEDERAL Parana 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+Ministerio da Educacao
 
-linguagem serão desenvolvidos de modo a atender as necessidades específicas de cada estudante, considerando-se, inclusive, os possíveis casos de inclusão. A produção de material didático deve levar em conta as necessidades específicas dos alunos matriculados no componente curricular, de forma a garantir a acessibilidade metodológica, instrumental, utilizando linguagem inclusiva e acessível. 
+Este arcabouço contempla as Diretrizes Curriculares Nacionais, que perpassa pela integração entre educação, trabalho, ciência, tecnologia e cultura; integração de conhecimentos gerais e profissionais; indissociabilidade entre educação e prática social, teoria e prática; reconhecimento da diversidade dos sujeitos, das diversidades étnico-raciais, de gênero, sexuais, geracionais, regionais, culturais; entre outros pressupostos norteadores da Educação Superior.
 
-## **3.3.2 Mecanismos de Interação entre Docentes, Tutores e Estudantes** 
+## O PPC considera ainda:
 
-No início de cada semestre está prevista reunião com os docentes que atuam no curso no período letivo vigente. Dentre os assuntos tratados nesta reunião, quando houver componentes curriculares com carga horária EaD, haverá uma articulação com relação a metodologias, linguagens e adaptações a serem utilizadas no ensino a distância. Os problemas identificados pela CPA com relação à interação entre docentes, tutores, coordenadores e discentes serão tratados pelo colegiado de curso. Desta forma, ocorre a interação entre tutores, docentes e coordenação de curso. Como resultado, há o planejamento documentado da interação para encaminhamento das questões do curso e realização de avaliações periódicas para identificação de problemas ou aprimoramento da interação entre os sujeitos. 
+- A temática História e Cultura Afro-Brasileira e Indígena, conforme Lei nº 10.639, de 9 de janeiro de 2003, Lei nº. 11.645/2008 e  Resolução CNE/CP nº 01/2004.
 
-## **3.3.3 Atividades de Tutoria** 
+- A integração da educação ambiental às disciplinas dos cursos de Graduação de modo transversal, conforme orienta a Lei nº. 9.795/1999, Decreto nº. 4.281/2002 e Resolução CNE/CP nº. 02/2012.
 
-Os tutores/professores têm um papel importante ao realizar o contato direto com os estudantes na realização de atividades EaD, como principais atribuições, destacam-se: esclarecer as dúvidas dos estudantes através do AVA, Google Classroom, e-mail e grupos de WhatsApp; verificar e avaliar as atividades realizadas pelos estudantes e fornecer _feedback_ ; estimular a participação colaborativa, enviar mensagens individuais aos estudantes que não se mostrarem ativos no curso. 
+- Processos de Envelhecimento: Conteúdo obrigatório em todos os cursos de graduação  Lei nº 10.741, de 1º de outubro de 2003.
 
-No curso de Tecnologia em Processos Gerenciais, as atividades de tutoria são realizadas pelo próprio docente do componente curricular. A inclusão da carga horária a distância nos 
+- Conceito de gênero do PNE, conteúdo obrigatório para todos os cursos de graduação.Nota Técnica nº 24 CGDH/DPEDHUC/SECADI/MEC.
 
-47 
+- A inclusão nos componentes conteúdos sobre medidas de prevenção e combate a incêndio e a desastres de acordo com a  Lei nº 13.425/2017.
 
-## INSTITUTOFEDERAL Parana 
+- A familiarização com a modalidade a distância, onde os alunos receberão orientações da coordenação do curso e dos professores em forma de aula sobre acesso ao AVA e Google Classroom e via manual.
 
-Ministerio da Educacao 
+## **4.1.1 Representação Gráfica do Processo Formativo**
 
-componentes curriculares permite a adoção de diferentes abordagens pedagógicas por meio de atividades assíncronas. 
+50
 
-Atividades assíncronas são entendidas como ferramentas de comunicação que se caracterizam por não serem realizadas em tempo real. Possibilitam, assim, que a interação entre professor e estudante ocorra em tempos diferentes, não sendo necessária a conexão simultânea. As atividades assíncronas permitem que o aluno organize seu tempo para realização das tarefas em momentos variados. São exemplos de atividades assíncronas: fóruns, textos, vídeos, aulas previamente gravadas e disponibilizadas pelos docentes, formulários, google classroom, entre outros. 
+## INSTITUTOFEDERAL
 
-## **3.3.4 Ambiente Virtual de Aprendizagem (AVA)** 
+## Parana
 
-O curso de Tecnologia em Processos Gerenciais conta com duas importantes ferramentas para que os conteúdos à distância sejam entregues aos alunos de forma eficaz, com qualidade e suportados pelos pressupostos desta proposta. Um Ambiente Virtual de Aprendizagem (AVA), uma plataforma online que facilita e aprimora o processo de ensino-aprendizagem, seja presencial ou a distância. Ele serve como uma "sala de aula virtual" onde alunos e professores podem interagir, acessar materiais de estudo, realizar atividades e receber feedback 
-
-Ainda contaremos com o Google Classroom, uma plataforma _online_ gratuita, parte do Google Workspace for Education, onde é possível postar comunicados, materiais, atividades e facilitar a comunicação entre professores e alunos. Desta maneira, e em atendimento ao item 1.17 do SINAES, os professores poderão fazer a distribuição e a gestão de conteúdos, a interação e elaborações colaborativas, bem como o acompanhamento da aprendizagem do/a discente pelo/a docente . 
-
-48 
-
-## INSTITUTOFEDERAL Parana 
-
-**==> picture [84 x 10] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
-
-
-## **4. ORGANIZAÇÃO CURRICULAR** 
-
-## 4.1 ESTRUTURA CURRICULAR 
-
-A organização Didático-Pedagógica do curso superior em questão está em consonância com a Lei de Diretrizes e Bases da Educação Nacional/LDB – Lei nº. 9.394, de 20 de dezembro de 1996 –, com os Pareceres promulgados pelo Conselho Nacional da Educação - CNE, com as Diretrizes Curriculares Nacionais do Ensino Superior, com o Estatuto do Instituto Federal do Paraná, com o Plano de Desenvolvimento Institucional/PDI da Instituição, e com a Resolução n° 55/11 que rege todos os procedimentos didático-pedagógico-administrativos dos Cursos de Ensino Superior do Instituto Federal do Paraná/IFPR. 
-
-A organização didático-pedagógica do Curso Superior Processos Gerenciais é ofertada como Educação Profissional Tecnológica de Graduação, organizado na forma presencial e está em consonância com os objetivos da Resolução n° 55/11, com a formação do estudante de forma ética, responsável, autônoma e criativa, capaz de tomar decisões na busca de soluções para os problemas relacionados com o desenvolvimento social, técnico, econômico e cultural do país. 
-
-Os Cursos Superiores de Tecnologia têm por objetivo formar profissionais aptos a desenvolver atividades em determinado Eixo Tecnológico, utilizando, desenvolvendo e adaptando tecnologias com a compreensão crítica das implicações decorrentes e das suas relações com o processo produtivo, com o ambiente e com a sociedade (Resolução n° 55/11 – IFPR). 
-
-O Curso Superior de Tecnologia em Processos Gerenciais do Câmpus Avançado Arapongas está estruturado por componentes curriculares agrupados em quatro períodos (módulos). Esta organização curricular proporciona a articulação entre a formação teórica e prática, de modo a contribuir para a formação integral do educando como profissional responsável e competente e como cidadão atuante, consciente e criativo. 
-
-49 
-
-## INSTITUTOFEDERAL Parana 
-
-Ministerio da Educacao 
-
-Este arcabouço contempla as Diretrizes Curriculares Nacionais, que perpassa pela integração entre educação, trabalho, ciência, tecnologia e cultura; integração de conhecimentos gerais e profissionais; indissociabilidade entre educação e prática social, teoria e prática; reconhecimento da diversidade dos sujeitos, das diversidades étnico-raciais, de gênero, sexuais, geracionais, regionais, culturais; entre outros pressupostos norteadores da Educação Superior. 
-
-## O PPC considera ainda: 
-
-- A temática História e Cultura Afro-Brasileira e Indígena, conforme Lei nº 10.639, de 9 de janeiro de 2003, Lei nº. 11.645/2008 e  Resolução CNE/CP nº 01/2004. 
-
-- A integração da educação ambiental às disciplinas dos cursos de Graduação de modo transversal, conforme orienta a Lei nº. 9.795/1999, Decreto nº. 4.281/2002 e Resolução CNE/CP nº. 02/2012. 
-
-- Processos de Envelhecimento: Conteúdo obrigatório em todos os cursos de graduação  Lei nº 10.741, de 1º de outubro de 2003. 
-
-- Conceito de gênero do PNE, conteúdo obrigatório para todos os cursos de graduação.Nota Técnica nº 24 CGDH/DPEDHUC/SECADI/MEC. 
-
-- A inclusão nos componentes conteúdos sobre medidas de prevenção e combate a incêndio e a desastres de acordo com a  Lei nº 13.425/2017. 
-
-- A familiarização com a modalidade a distância, onde os alunos receberão orientações da coordenação do curso e dos professores em forma de aula sobre acesso ao AVA e Google Classroom e via manual. 
-
-## **4.1.1 Representação Gráfica do Processo Formativo** 
-
-50 
-
-## INSTITUTOFEDERAL 
-
-## Parana 
-
-Ministerio da Educacao 
+Ministerio da Educacao
 
 ||Matriz Curricular-Processos Gerenciais|Matriz Curricular-Processos Gerenciais||
 |---|---|---|---|
@@ -1215,19 +1139,17 @@ Ministerio da Educacao
 |Matematica Instrumental|Inovacaoe Empreendedorismo||Planejamento Estrategico|
 |TeoriaGeraldaAdministracao|Inteligencia de Negocios||RelatodeExperiencia<br>Extensionista|
 
+## **4.1.2  Matriz Curricular**
 
+A estrutura apresentada na organização curricular do Curso Superior de Tecnologia em Processos Gerenciais fundamenta-se e obedece ao disposto na Lei n.º 9.394, de 20 de dezembro de 1996, no Decreto n.º 5.154, de 23 de julho de 2004, no Parecer CNE/CES n.º 436, de 02 de abril de 2001, na Resolução CES/CP n.º 3, de 18 de dezembro de 2002, no Parecer CNE/CP n.º 29, de 03 de dezembro de 2002 e em legislação vigente e específica para cursos de tecnologia.
 
-## **4.1.2  Matriz Curricular** 
+51
 
-A estrutura apresentada na organização curricular do Curso Superior de Tecnologia em Processos Gerenciais fundamenta-se e obedece ao disposto na Lei n.º 9.394, de 20 de dezembro de 1996, no Decreto n.º 5.154, de 23 de julho de 2004, no Parecer CNE/CES n.º 436, de 02 de abril de 2001, na Resolução CES/CP n.º 3, de 18 de dezembro de 2002, no Parecer CNE/CP n.º 29, de 03 de dezembro de 2002 e em legislação vigente e específica para cursos de tecnologia. 
+## INSTITUTOFEDERAL Parana
 
-51 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
-
-Ministerio da Educacao 
-
-Além da legislação emanada dos órgãos competentes, a organização curricular baseia-se em dados e levantamentos realizados no sentido de identificar a demanda profissional para o mundo do trabalho em nível nacional e, principalmente, em nível regional. Assim, a partir das discussões do Colegiado de Tecnologia em Processos Gerenciais, e diante desta contextualização, apresenta-se a seguir a organização curricular do Curso: 
+Além da legislação emanada dos órgãos competentes, a organização curricular baseia-se em dados e levantamentos realizados no sentido de identificar a demanda profissional para o mundo do trabalho em nível nacional e, principalmente, em nível regional. Assim, a partir das discussões do Colegiado de Tecnologia em Processos Gerenciais, e diante desta contextualização, apresenta-se a seguir a organização curricular do Curso:
 
 ||**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO**<br>**PARANÁ**|**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO**<br>**PARANÁ**|**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO**<br>**PARANÁ**|**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO**<br>**PARANÁ**|**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO**<br>**PARANÁ**|
 |---|---|---|---|---|---|
@@ -1250,18 +1172,15 @@ Além da legislação emanada dos órgãos competentes, a organização curricul
 ||Matemática Instrumental|C|4|80|80<br>60|
 ||Teoria Geral da Administração|C|4|80|80<br>60|
 ||**Subtotal(Total doperíodo)**|||**400**|**300**|
-|||||||
 |**2º Semestre**|Contabilidade Geral|C|4|80|80<br>60|
 ||Fundamentos da Economia(EaD)|C|2|40|40<br>30|
 ||Gestão de Marketing|C|4|80|80<br>60|
 
+52
 
+## INSTITUTOFEDERAL
 
-52 
-
-## INSTITUTOFEDERAL 
-
-## Parana 
+## Parana
 
 ||Gestão de Pessoas|C|2|40|40<br>30|
 |---|---|---|---|---|---|
@@ -1269,14 +1188,12 @@ Além da legislação emanada dos órgãos competentes, a organização curricul
 ||Inovação e Empreendedorismo|C|2|40|40<br>30|
 ||Inteligência de Negócios|C|4|80|80<br>60|
 ||**Subtotal(Total doperíodo)**|||**400**|**300**|
-|||||||
 |**3º Semestre**|Comportamento Organizacional|C|4|80|80<br>60|
 ||Gestão da Produção|C|4|80|80<br>60|
 ||MarketingDigital|C|2|40|40<br>30|
 ||Matemática Financeira|C|4|80|80<br>60|
 ||Optativa I|C|2|40|40<br>30|
 ||**Subtotal(Total doperíodo)**|||**320**|**240**|
-|||||||
 |**4º Semestre**|Administração Financeira|C|4|80|80<br>60|
 ||Comércio Eletrônico e Mídias Digitais|itais<br>C|2|40|40<br>30|
 ||Gestão da Qualidade|C|2|40|40<br>30|
@@ -1285,28 +1202,24 @@ Além da legislação emanada dos órgãos competentes, a organização curricul
 ||Planejamento Estratégico|C|2|40|40<br>30|
 ||Relato de Experiência Extensionista|C|4|80|80<br>60|
 ||**Subtotal(Total doperíodo)**|||**400**|**300**|
-|||||||
 |**Ao longo do**<br>**curso**|(AC)Atividades Complementares||||160|
 ||(AE)Atividades de Extensão||||300|
 ||(ES) Estágio Supervisionado<br>Obrigatório||||0|
 ||(CO)Componentes Optativos||||0|
 ||**Subtotal(Total doperíodo)**||||**460**|
-|||||||
 |**CARGA HORÁRIA TOTAL DO CURSO**|||||**1600**|
 
+## **4.1.3 Componentes Optativos**
 
+Nos 3º e 4º períodos letivos do curso, os estudantes terão a oportunidade de cumprir uma carga horária obrigatória por meio de componentes optativos. Esses componentes são disciplinas
 
-## **4.1.3 Componentes Optativos** 
+53
 
-Nos 3º e 4º períodos letivos do curso, os estudantes terão a oportunidade de cumprir uma carga horária obrigatória por meio de componentes optativos. Esses componentes são disciplinas 
+## INSTITUTOFEDERAL Parana
 
-53 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
-
-Ministerio da Educacao 
-
-que permitem ao aluno aprofundar conhecimentos em áreas específicas de seu interesse, alinhadas às demandas do mundo do trabalho. A inclusão de disciplinas optativas visa proporcionar uma formação mais flexível e personalizada, atendendo às necessidades individuais dos estudantes e às tendências tecnológicas da área de automação industrial. O estudante poderá escolher, em uma lista pré-definida pela coordenação do curso, os componentes optativos que deseja cursar. 
+que permitem ao aluno aprofundar conhecimentos em áreas específicas de seu interesse, alinhadas às demandas do mundo do trabalho. A inclusão de disciplinas optativas visa proporcionar uma formação mais flexível e personalizada, atendendo às necessidades individuais dos estudantes e às tendências tecnológicas da área de automação industrial. O estudante poderá escolher, em uma lista pré-definida pela coordenação do curso, os componentes optativos que deseja cursar.
 
 |**Componente**|**Carga**<br>**horária**<br>**hora-relógio**|**Ementa**|
 |---|---|---|
@@ -1315,13 +1228,11 @@ que permitem ao aluno aprofundar conhecimentos em áreas específicas de seu int
 |Atenção plena e Bem-Estar<br>Organizacional|Atenção plena e Bem-Estar<br>30|Práticas de atenção plena para a redução do estresse e<br>melhoria da concentração. A relação entre bem-estar<br>emocional e desempenho no ambiente corporativo. Como a<br>gestão do bem-estar impacta a retenção de talentos e o<br>clima organizacional. Programas de saúde mental nas<br>empresas: benefícios e implementação.|
 |Psicologia<br>Positiva<br>nas<br>Organizações|30|Fundamentos<br>da<br>psicologia<br>positiva<br>aplicados<br>ao<br>desenvolvimento<br>organizacional.<br>A<br>importância<br>da<br>gratidão, resiliência e otimismo na construção de equipes<br>de alto desempenho. Estratégias para cultivar uma cultura<br>organizacional positiva e motivadora. Como as virtudes<br>humanas podem ser incorporadas no ambiente de trabalho<br>para melhorar o engajamento.|
 
+54
 
+## INSTITUTOFEDERAL Parana
 
-54 
-
-## INSTITUTOFEDERAL Parana 
-
-Ministerio da Educacao 
+Ministerio da Educacao
 
 |INSTITUTOFEDERAL<br>Parana|INSTITUTOFEDERAL|INSTITUTOFEDERAL<br>Ministerio da Educacao|
 |---|---|---|
@@ -1334,49 +1245,43 @@ Ministerio da Educacao
 |Sistemas gerenciais|30|A empresa na era da informação. Vantagem competitiva.<br>Sistemas empresariais Básicos. Sistemas de Informação<br>Gerencial. Sistemas de Apoio à Decisão. Sistemas de<br>Informações Executivas. Tecnologias Atuais em Sistemas<br>de Informação.|
 |Libras|30|Aspectos da Língua de Sinais e sua importância: cultura e<br>história. Identidade surda. Introdução aos aspectos<br>linguísticos na Língua Brasileira de sinais: fonologia,<br>morfologia, sintaxe. Noções básicas de escrita de sinais.|
 
+55
 
+INSTITUTOFEDERAL Parana
 
-55 
+Ministerio da Educacao<br>
 
-INSTITUTOFEDERAL Parana 
+## **4.1.4 Componentes Eletivos**
 
-**==> picture [84 x 10] intentionally omitted <==**
+Os componentes eletivos referem-se às disciplinas disponíveis nas matrizes curriculares de outros cursos superiores. Eles representam uma oportunidade para o estudante ampliar sua formação, explorando áreas de conhecimento complementares às exigências de sua grade curricular principal. Como este é o primeiro curso superior do câmpus, não há a possibilidade de os discentes cursarem componentes eletivos.
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+## **4.1.5 Atividades Curriculares de Extensão**
 
+No curso, a carga horária de extensão é obrigatória, conforme estabelecido pela Instrução Normativa Reitoria/IFPR n.º 1, de 26 de julho de 2021, devendo ser integralmente cumprida por meio de atividades extensionistas. Essas atividades visam integrar o estudante ao contexto social, produtivo e tecnológico, promovendo a aplicação prática dos conhecimentos adquiridos em sala de aula.
 
-## **4.1.4 Componentes Eletivos** 
+A curricularização da extensão proposta na matriz curricular do curso é realizada de modo a conectar componentes curriculares, promovendo a construção coletiva de atividades ou ações cooperativas que buscarão:
 
-Os componentes eletivos referem-se às disciplinas disponíveis nas matrizes curriculares de outros cursos superiores. Eles representam uma oportunidade para o estudante ampliar sua formação, explorando áreas de conhecimento complementares às exigências de sua grade curricular principal. Como este é o primeiro curso superior do câmpus, não há a possibilidade de os discentes cursarem componentes eletivos. 
+I. envolver, obrigatoriamente, os estudantes e a comunidade externa ao IFPR Câmpus Avançado Arapongas;
 
-## **4.1.5 Atividades Curriculares de Extensão** 
+II. expressar a compreensão da experiência extensionista como elemento formativo, colocando o discente como agente ativo de sua formação;
 
-No curso, a carga horária de extensão é obrigatória, conforme estabelecido pela Instrução Normativa Reitoria/IFPR n.º 1, de 26 de julho de 2021, devendo ser integralmente cumprida por meio de atividades extensionistas. Essas atividades visam integrar o estudante ao contexto social, produtivo e tecnológico, promovendo a aplicação prática dos conhecimentos adquiridos em sala de aula. 
+III. beneficiar a consolidação e o fortalecimento dos arranjos produtivos, sociais e culturais locais;
 
-A curricularização da extensão proposta na matriz curricular do curso é realizada de modo a conectar componentes curriculares, promovendo a construção coletiva de atividades ou ações cooperativas que buscarão: 
+IV. ser elaboradas com base em conteúdos e práticas disciplinares, interdisciplinares e/ou transdisciplinares, numa perspectiva de ensino integrado.
 
-I. envolver, obrigatoriamente, os estudantes e a comunidade externa ao IFPR Câmpus Avançado Arapongas; 
+O curso oferece diversas atividades extensionistas, permitindo a livre escolha pelo estudante e a construção de trajetórias formativas individualizadas. As trajetórias são flexíveis e
 
-II. expressar a compreensão da experiência extensionista como elemento formativo, colocando o discente como agente ativo de sua formação; 
+56
 
-III. beneficiar a consolidação e o fortalecimento dos arranjos produtivos, sociais e culturais locais; 
+## INSTITUTOFEDERAL Parana
 
-IV. ser elaboradas com base em conteúdos e práticas disciplinares, interdisciplinares e/ou transdisciplinares, numa perspectiva de ensino integrado. 
+Ministerio da Educacao
 
-O curso oferece diversas atividades extensionistas, permitindo a livre escolha pelo estudante e a construção de trajetórias formativas individualizadas. As trajetórias são flexíveis e 
+adaptáveis aos interesses e objetivos do estudante, sempre com o acompanhamento da Coordenação do Curso.
 
-56 
+A diversidade de atividades extensionistas visa proporcionar experiências variadas, enriquecendo a formação do estudante, preparando-o para o mundo do trabalho e, simultaneamente, contribuindo para o desenvolvimento da comunidade local por meio de projetos que promovam a inovação, a sustentabilidade e a inclusão tecnológica.
 
-## INSTITUTOFEDERAL Parana 
-
-Ministerio da Educacao 
-
-adaptáveis aos interesses e objetivos do estudante, sempre com o acompanhamento da Coordenação do Curso. 
-
-A diversidade de atividades extensionistas visa proporcionar experiências variadas, enriquecendo a formação do estudante, preparando-o para o mundo do trabalho e, simultaneamente, contribuindo para o desenvolvimento da comunidade local por meio de projetos que promovam a inovação, a sustentabilidade e a inclusão tecnológica. 
-
-O quadro a seguir  lista as atividade de extensão que podem ser desenvolvidos ao longo do curso: 
+O quadro a seguir  lista as atividade de extensão que podem ser desenvolvidos ao longo do curso:
 
 |**Atividades curriculares de Extensão (AE) oferecidas no curso**|**Atividades curriculares de Extensão (AE) oferecidas no curso**|**Atividades curriculares de Extensão (AE) oferecidas no curso**|
 |---|---|---|
@@ -1388,163 +1293,161 @@ O quadro a seguir  lista as atividade de extensão que podem ser desenvolvidos a
 |Publicação de artigo acadêmico oriundo de<br>atividades de extensão com temática relacionada à<br>área de curso em evento científico|100 horas por autoria e 50<br>horas por coautoria|200 horas|
 |Depósito de patente com temática relacionada à<br>área do curso|200 horas por patente|300 horas|
 
+57
 
+## 1[INSTITUTOFEDERAL] Parana
 
-57 
+Ministerio da Educacao
 
-## 1[INSTITUTOFEDERAL] Parana 
+Para o cumprimento da carga horária mínima de extensão, fixada em 300 horas (equivalente a 18,75% da carga horária total do curso), o estudante deve participar de atividades de extensão durante o curso ao menos durante três períodos letivos.
 
-Ministerio da Educacao 
+A coordenação do curso poderá atuar de forma orientativa quanto aos possíveis percursos acadêmicos estruturados. Como exemplo, o estudante poderá optar pelo desenvolvimento do Projeto Integrador, aplicando habilidades de pesquisa para propor soluções às demandas da comunidade local. Alternativamente, poderá dedicar-se a outros projetos de extensão desenvolvidos no âmbito do IFPR. Além disso, há a possibilidade de ministrar minicursos ou palestras direcionados à comunidade, bem como prestar serviços e/ou orientações técnicas à sociedade.
 
-Para o cumprimento da carga horária mínima de extensão, fixada em 300 horas (equivalente a 18,75% da carga horária total do curso), o estudante deve participar de atividades de extensão durante o curso ao menos durante três períodos letivos. 
+O regulamento detalhado das atividades de extensão encontra-se no Apêndice B.
 
-A coordenação do curso poderá atuar de forma orientativa quanto aos possíveis percursos acadêmicos estruturados. Como exemplo, o estudante poderá optar pelo desenvolvimento do Projeto Integrador, aplicando habilidades de pesquisa para propor soluções às demandas da comunidade local. Alternativamente, poderá dedicar-se a outros projetos de extensão desenvolvidos no âmbito do IFPR. Além disso, há a possibilidade de ministrar minicursos ou palestras direcionados à comunidade, bem como prestar serviços e/ou orientações técnicas à sociedade. 
+## 4.2 EMENTÁRIO E BIBLIOGRAFIAS
 
-O regulamento detalhado das atividades de extensão encontra-se no Apêndice B. 
+## **1º semestre**
 
-## 4.2 EMENTÁRIO E BIBLIOGRAFIAS 
+## COMPONENTE CURRICULAR: **Desenvolvimento Humano e Profissional**
 
-## **1º semestre** 
+CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio
 
-## COMPONENTE CURRICULAR: **Desenvolvimento Humano e Profissional** 
+EMENTA: Estudo do desenvolvimento humano sob a ótica da neurociência, abordando os processos cerebrais envolvidos no aprendizado, na tomada de decisão e na adaptação a novos desafios. Compreensão do comportamento e das influências neurobiológicas na formação de hábitos, emoções e resiliência. Desenvolvimento das soft skills essenciais para o mundo do trabalho, como comunicação, inteligência emocional, criatividade, pensamento crítico e colaboração. Reflexão sobre a neuroplasticidade e sua relação com o crescimento profissional, a inovação e a resolução de problemas. Aplicação de estratégias para potencializar o desempenho, o autoconhecimento e a construção de relações interpessoais eficazes no ambiente profissional.
 
-CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio 
+BIBLIOGRAFIA  BÁSICA: DAMÁSIO, A. R. **O erro de Descartes:** emoção, razão e o cérebro humano. 3. ed. São Paulo:
 
-EMENTA: Estudo do desenvolvimento humano sob a ótica da neurociência, abordando os processos cerebrais envolvidos no aprendizado, na tomada de decisão e na adaptação a novos desafios. Compreensão do comportamento e das influências neurobiológicas na formação de hábitos, emoções e resiliência. Desenvolvimento das soft skills essenciais para o mundo do trabalho, como comunicação, inteligência emocional, criatividade, pensamento crítico e colaboração. Reflexão sobre a neuroplasticidade e sua relação com o crescimento profissional, a inovação e a resolução de problemas. Aplicação de estratégias para potencializar o desempenho, o autoconhecimento e a construção de relações interpessoais eficazes no ambiente profissional. 
+58
 
-BIBLIOGRAFIA  BÁSICA: DAMÁSIO, A. R. **O erro de Descartes:** emoção, razão e o cérebro humano. 3. ed. São Paulo: 
+Ministerio da Educacao
 
-58 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+Companhia das Letras, 2012. DOIDGE, N. **O cérebro que se transforma:** histórias de triunfo da neuroplasticidade. Rio de Janeiro: Record, 2015.
 
-## INSTITUTOFEDERAL Parana 
+KANDEL, E. R.; SCHWARTZ, J. H.; JESSELL, T. M.; SIEGELBAUM, S. A.; HUDSPETH, A. J. **Princípios de neurociência.** 5. ed. Porto Alegre: AMGH, 2014. LENT, R. **Cem bilhões de neurônios:** conceitos fundamentais da neurociência. São Paulo: Atheneu, 2010. E-book (Biblioteca Virtual Pearson).
 
-Companhia das Letras, 2012. DOIDGE, N. **O cérebro que se transforma:** histórias de triunfo da neuroplasticidade. Rio de Janeiro: Record, 2015. 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-KANDEL, E. R.; SCHWARTZ, J. H.; JESSELL, T. M.; SIEGELBAUM, S. A.; HUDSPETH, A. J. **Princípios de neurociência.** 5. ed. Porto Alegre: AMGH, 2014. LENT, R. **Cem bilhões de neurônios:** conceitos fundamentais da neurociência. São Paulo: Atheneu, 2010. E-book (Biblioteca Virtual Pearson). 
+GOLDBERG, E. **O cérebro executivo:** a função dos lobos frontais no cérebro humano. Porto Alegre: Artmed, 2002.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+LEDOUX, J. **O cérebro emocional:** os mistérios da vida emocional do cérebro. 2. ed. São Paulo: Objetiva, 1998.
 
-GOLDBERG, E. **O cérebro executivo:** a função dos lobos frontais no cérebro humano. Porto Alegre: Artmed, 2002. 
+RATEY, J. J. **O cérebro:** um guia para o usuário. Rio de Janeiro: Objetiva, 2002. KOCH, C. **A busca da consciência:** uma investigação neurobiológica. São Paulo: Editora Gente, 2006.
 
-LEDOUX, J. **O cérebro emocional:** os mistérios da vida emocional do cérebro. 2. ed. São Paulo: Objetiva, 1998. 
+## COMPONENTE CURRICULAR: **Estratégias de Leitura e Produção de Textos**
 
-RATEY, J. J. **O cérebro:** um guia para o usuário. Rio de Janeiro: Objetiva, 2002. KOCH, C. **A busca da consciência:** uma investigação neurobiológica. São Paulo: Editora Gente, 2006. 
+CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio
 
-## COMPONENTE CURRICULAR: **Estratégias de Leitura e Produção de Textos** 
+## EMENTA:
 
-CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio 
+Norma Culta padrão da Língua Portuguesa. Estudo das Funções da Linguagem e seus usos na comunicação. Conceitos fundamentais de texto, contexto e discurso. Análise dos diferentes tipos textuais e gêneros do discurso. Exploração da variação linguística e sua influência nos eventos comunicativos. Desenvolvimento da expressão textual por meio de processos e estratégias de textualização. Leitura e produção de textos acadêmicos, com foco na escrita clara e coesa.
 
-## EMENTA: 
+## BIBLIOGRAFIA  BÁSICA:
 
-Norma Culta padrão da Língua Portuguesa. Estudo das Funções da Linguagem e seus usos na comunicação. Conceitos fundamentais de texto, contexto e discurso. Análise dos diferentes tipos textuais e gêneros do discurso. Exploração da variação linguística e sua influência nos eventos comunicativos. Desenvolvimento da expressão textual por meio de processos e estratégias de textualização. Leitura e produção de textos acadêmicos, com foco na escrita clara e coesa. 
+KOCH, I. V.; ELIAS, V. M. **Ler e compreender:** os sentidos do texto. São Paulo: Contexto, 2006.
 
-## BIBLIOGRAFIA  BÁSICA: 
+BECHARA, E. **Moderna gramática portuguesa** . 37. ed., rev. e ampl. Rio de Janeiro: Lucerna, 2005.
 
-KOCH, I. V.; ELIAS, V. M. **Ler e compreender:** os sentidos do texto. São Paulo: Contexto, 2006. 
+59
 
-BECHARA, E. **Moderna gramática portuguesa** . 37. ed., rev. e ampl. Rio de Janeiro: Lucerna, 2005. 
+## INSTITUTOFEDERAL Parana
 
-59 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+MARCUSCHI, L. A. **Produção textual, análise de gêneros e compreensão** . São Paulo: Parábola, 2008.
 
-Ministerio da Educacao 
+MOTTA-ROTH, D.; HENDGES, G. R. **Produção textual na universidade.** São Paulo: Parábola, 2018.
 
-MARCUSCHI, L. A. **Produção textual, análise de gêneros e compreensão** . São Paulo: Parábola, 2008. 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-MOTTA-ROTH, D.; HENDGES, G. R. **Produção textual na universidade.** São Paulo: Parábola, 2018. 
+ANTUNES, I. **Lutar com palavras: coesão e coerência.** São Paulo: Parábola, 2005. ANTUNES, I. **Análise de textos:** fundamentos e práticas. São Paulo: Parábola, 2010. BAGNO, M. **Preconceito linguístico:** O que é, como se faz **.** São Paulo: Edições Loyola, 1999. BAKHTIN, M. **Estética da criação verbal.** São Paulo: WMF Martins Fontes, 2011. CAVALCANTE, M. M. **Os sentidos do texto** . São Paulo: Cortez, 2013.
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+COMPONENTE CURRICULAR: **Ética, Cidadania e Responsabilidade Social (EaD)**
 
-ANTUNES, I. **Lutar com palavras: coesão e coerência.** São Paulo: Parábola, 2005. ANTUNES, I. **Análise de textos:** fundamentos e práticas. São Paulo: Parábola, 2010. BAGNO, M. **Preconceito linguístico:** O que é, como se faz **.** São Paulo: Edições Loyola, 1999. BAKHTIN, M. **Estética da criação verbal.** São Paulo: WMF Martins Fontes, 2011. CAVALCANTE, M. M. **Os sentidos do texto** . São Paulo: Cortez, 2013. 
+CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio
 
-COMPONENTE CURRICULAR: **Ética, Cidadania e Responsabilidade Social (EaD)** 
+## EMENTA:
 
-CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio 
+Conceitos fundamentais para a compreensão da ética; Valores, profissão e ética; Conduta ética; Ética na relação da organização com seus stakeholders; Iniciativas ambientais influenciam a cultura organizacional; Ética profissional; Código de ética empresarial; O processo de comunicação: interferências e questões éticas envolvidas; Comunicação interpessoal;; Diversidades no ambiente de trabalho; Mitos do papel da liderança; Valorização da diversidade no convívio social e profissional; relações interpessoais e a conduta ética profissional; Relações Étnico-Raciais, História e Cultura Afro-brasileira e Indígena. Responsabilidade Social. Debates sobre temáticas de Gênero, Educação ambiental e processos de envelhecimento
 
-## EMENTA: 
+## BIBLIOGRAFIA  BÁSICA:
 
-Conceitos fundamentais para a compreensão da ética; Valores, profissão e ética; Conduta ética; Ética na relação da organização com seus stakeholders; Iniciativas ambientais influenciam a cultura organizacional; Ética profissional; Código de ética empresarial; O processo de comunicação: interferências e questões éticas envolvidas; Comunicação interpessoal;; Diversidades no ambiente de trabalho; Mitos do papel da liderança; Valorização da diversidade no convívio social e profissional; relações interpessoais e a conduta ética profissional; Relações Étnico-Raciais, História e Cultura Afro-brasileira e Indígena. Responsabilidade Social. Debates sobre temáticas de Gênero, Educação ambiental e processos de envelhecimento 
+ASHLEY, P. A. (Coord.). **Ética e responsabilidade social nos negócios** . São Paulo: Saraiva, 2012.
 
-## BIBLIOGRAFIA  BÁSICA: 
+BARROCO, M. L. S. **Ética** : fundamentos sócio históricos. 3. ed. São Paulo: Cortez, 2010. CHAUÍ, M. **Convite à filosofia** . São Paulo: Ática, 2019.
 
-ASHLEY, P. A. (Coord.). **Ética e responsabilidade social nos negócios** . São Paulo: Saraiva, 2012. 
+60
 
-BARROCO, M. L. S. **Ética** : fundamentos sócio históricos. 3. ed. São Paulo: Cortez, 2010. CHAUÍ, M. **Convite à filosofia** . São Paulo: Ática, 2019. 
+## INSTITUTOFEDERAL
 
-60 
+## Parana
 
-## INSTITUTOFEDERAL 
+Ministerio da Educacao
 
-## Parana 
+VÁZQUEZ, A. S. **Ética** . 33. ed. Rio de Janeiro: Civilização Brasileira, 2012.
 
-Ministerio da Educacao 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-VÁZQUEZ, A. S. **Ética** . 33. ed. Rio de Janeiro: Civilização Brasileira, 2012. 
+BOFF, L. **Ética e moral:** a busca dos fundamentos. Petrópolis: Vozes, 2003.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+BAUMAN, Z. **A ética é possível num mundo de consumidores?** . São Paulo: Zahar, 2011. MARCÍLIO, M. L.; RAMOS, E. L. **Ética na virada do século** . São Paulo: LTr, 2013
 
-BOFF, L. **Ética e moral:** a busca dos fundamentos. Petrópolis: Vozes, 2003. 
+RODRIGUEZ, M. V. R. Y. **Ética e responsabilidade social nas empresas** . Rio de Janeiro: Campus, 2008.
 
-BAUMAN, Z. **A ética é possível num mundo de consumidores?** . São Paulo: Zahar, 2011. MARCÍLIO, M. L.; RAMOS, E. L. **Ética na virada do século** . São Paulo: LTr, 2013 
+GALLO, S. (coord.). **Ética e cidadania** : caminhos da filosofia. Campinas: Papirus, 2015.
 
-RODRIGUEZ, M. V. R. Y. **Ética e responsabilidade social nas empresas** . Rio de Janeiro: Campus, 2008. 
+COMPONENTE CURRICULAR: **Fundamentos da Legislação Empresarial (EaD)**
 
-GALLO, S. (coord.). **Ética e cidadania** : caminhos da filosofia. Campinas: Papirus, 2015. 
+CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio
 
-COMPONENTE CURRICULAR: **Fundamentos da Legislação Empresarial (EaD)** 
+## EMENTA:
 
-CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio 
+Identificar as normas legais que regem o funcionamento das organizações e as consequências/restrições no seu cumprimento.  Compreender os principais conceitos e funções administrativas, modelos de gestão, normas e legislações.  Adotar as normas para abertura e registro de empresa. Auxiliar na observação e no cumprimento dos aspectos legais e normativos da gestão e da administração.
 
-## EMENTA: 
+BIBLIOGRAFIA  BÁSICA:
 
-Identificar as normas legais que regem o funcionamento das organizações e as consequências/restrições no seu cumprimento.  Compreender os principais conceitos e funções administrativas, modelos de gestão, normas e legislações.  Adotar as normas para abertura e registro de empresa. Auxiliar na observação e no cumprimento dos aspectos legais e normativos da gestão e da administração. 
+CRETELLA, J. R. J. **Curso de direito administrativo** . Rio de Janeiro: Forense, 2006.
 
-BIBLIOGRAFIA  BÁSICA: 
+COELHO, F. U. **Curso de direito comercial** . São Paulo: Saraiva, 2008.
 
-CRETELLA, J. R. J. **Curso de direito administrativo** . Rio de Janeiro: Forense, 2006. 
+SARHAN JÚNIOR, S. **Curso de direito empresarial.** Leme: Mizuno, 2021.
 
-COELHO, F. U. **Curso de direito comercial** . São Paulo: Saraiva, 2008. 
+PIETRO, M. S. Z. **Direito administrativo** . São Paulo. Atlas, 2006.
 
-SARHAN JÚNIOR, S. **Curso de direito empresarial.** Leme: Mizuno, 2021. 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-PIETRO, M. S. Z. **Direito administrativo** . São Paulo. Atlas, 2006. 
+ANTONIK, L. R. **Compliance, ética, responsabilidade social e empresarial** . Rio de Janeiro: Alta Books, 2016.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+DE LUCCA, N. **Da ética geral à ética empresarial** . São Paulo: Quartier Latin, 2009
 
-ANTONIK, L. R. **Compliance, ética, responsabilidade social e empresarial** . Rio de Janeiro: Alta Books, 2016. 
+61
 
-DE LUCCA, N. **Da ética geral à ética empresarial** . São Paulo: Quartier Latin, 2009 
+## INSTITUTOFEDERAL Parana
 
-61 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+FREITAS, D. G. K. C. **Direito empresarial de leve na prática** . Editora Rideel, 2021. E-book (Biblioteca Virtual Pearson).
 
-Ministerio da Educacao 
+COMPONENTE CURRICULAR: **Informática Aplicada**
 
-FREITAS, D. G. K. C. **Direito empresarial de leve na prática** . Editora Rideel, 2021. E-book (Biblioteca Virtual Pearson). 
+CARGA HORÁRIA TOTAL:  80 horas-aula / 60 horas-relógio EMENTA: FUNDAMENTOS DA INFORMÁTICA:  Introdução aos conceitos de hardware e software. Fundamentos de sistemas operacionais, incluindo gerenciamento de arquivos e diretórios, instalação e configuração de programas. INTERNET E COMUNICAÇÃO DIGITAL: Navegação segura na _web_ . Uso de e- _mails_ e de ferramentas de busca. FERRAMENTAS DE ESCRITÓRIO: Editores de Texto. Planilhas Eletrônicas. Editores de Apresentação. SEGURANÇA DA INFORMAÇÃO: Princípios básicos de segurança digital. Principais ameaças digitais e estratégias de proteção. Políticas de segurança e boas práticas para colaboradores. Uso de certificados digitais. _BACKUP_ e ORGANIZAÇÃO DE DADOS: Importância do _backup_ para a gestão empresarial. Organização de dados em sistemas gerenciais. Boas práticas de validação de informações. _DESIGN_ E COMUNICAÇÃO VISUAL: Princípios básicos de _design_ gráfico e uso de ferramentas para criação de materiais digitais. BIBLIOGRAFIA BÁSICA: ALMEIDA, Mário S. **Administração da tecnologia de informação e comunicação:** da informática básica à gestão do conhecimento. Rio de Janeiro: Freitas Bastos, 2024. E-book (Biblioteca Virtual Pearson). ORSO, J. P. C.; REZENDE, L. **Informática de A a Z** . [s.l.] Alfacon, 2022. VELLOSO, F. C. **Informática: conceitos básicos** . 11. ed. Rio de Janeiro: LTC, 2022. BIBLIOGRAFIA COMPLEMENTAR: CAPRON, H. L.; JOHNSON, J. A. **Introdução à informática.** 8 ed. São Paulo: Pearson, 2004. E-book (Biblioteca Virtual Pearson). JOÃO, B. N. (org.). **Informática aplicada.** 2. ed. São Paulo: Pearson, 2019. E-book (Biblioteca Virtual Pearson). SATIN, H.; GARCIA, W. C. D. **Manual completo de informática para concursos** . Indaiatuba: Foco, 2021. E-book (Biblioteca Virtual Pearson).
 
-COMPONENTE CURRICULAR: **Informática Aplicada** 
+62
 
-CARGA HORÁRIA TOTAL:  80 horas-aula / 60 horas-relógio EMENTA: FUNDAMENTOS DA INFORMÁTICA:  Introdução aos conceitos de hardware e software. Fundamentos de sistemas operacionais, incluindo gerenciamento de arquivos e diretórios, instalação e configuração de programas. INTERNET E COMUNICAÇÃO DIGITAL: Navegação segura na _web_ . Uso de e- _mails_ e de ferramentas de busca. FERRAMENTAS DE ESCRITÓRIO: Editores de Texto. Planilhas Eletrônicas. Editores de Apresentação. SEGURANÇA DA INFORMAÇÃO: Princípios básicos de segurança digital. Principais ameaças digitais e estratégias de proteção. Políticas de segurança e boas práticas para colaboradores. Uso de certificados digitais. _BACKUP_ e ORGANIZAÇÃO DE DADOS: Importância do _backup_ para a gestão empresarial. Organização de dados em sistemas gerenciais. Boas práticas de validação de informações. _DESIGN_ E COMUNICAÇÃO VISUAL: Princípios básicos de _design_ gráfico e uso de ferramentas para criação de materiais digitais. BIBLIOGRAFIA BÁSICA: ALMEIDA, Mário S. **Administração da tecnologia de informação e comunicação:** da informática básica à gestão do conhecimento. Rio de Janeiro: Freitas Bastos, 2024. E-book (Biblioteca Virtual Pearson). ORSO, J. P. C.; REZENDE, L. **Informática de A a Z** . [s.l.] Alfacon, 2022. VELLOSO, F. C. **Informática: conceitos básicos** . 11. ed. Rio de Janeiro: LTC, 2022. BIBLIOGRAFIA COMPLEMENTAR: CAPRON, H. L.; JOHNSON, J. A. **Introdução à informática.** 8 ed. São Paulo: Pearson, 2004. E-book (Biblioteca Virtual Pearson). JOÃO, B. N. (org.). **Informática aplicada.** 2. ed. São Paulo: Pearson, 2019. E-book (Biblioteca Virtual Pearson). SATIN, H.; GARCIA, W. C. D. **Manual completo de informática para concursos** . Indaiatuba: Foco, 2021. E-book (Biblioteca Virtual Pearson). 
+## INSTITUTOFEDERAL Parana
 
-62 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+NORTON, P. **Introdução à informática** . São Paulo: Makron Books, 1996.
 
-Ministerio da Educacao 
+COMPONENTE CURRICULAR: **Matemática Instrumental**
 
-NORTON, P. **Introdução à informática** . São Paulo: Makron Books, 1996. 
+CARGA HORÁRIA TOTAL: 80 horas-aula / 60 horas-relógio
 
-COMPONENTE CURRICULAR: **Matemática Instrumental** 
+EMENTA:
 
-CARGA HORÁRIA TOTAL: 80 horas-aula / 60 horas-relógio 
-
-EMENTA: 
-
-Estudo e aplicação de conceitos matemáticos fundamentais no contexto da gestão. Operações com números reais, porcentagens, razões, proporções e regra de três. **Noções de funções** (afim, quadrática e exponencial) aplicadas à resolução de problemas gerenciais. **Matemática financeira:** juros simples e compostos, descontos, Sistemas de amortização e Séries de pagamentos, análise de investimentos. **Estatística descritiva:** medidas de tendência central, medidas de dispersão, organização e interpretação de dados. **Introdução à probabilidade:** conceitos básicos, espaços amostrais, eventos, aplicações da probabilidade no contexto empresarial. Aplicação dos conteúdos na resolução de problemas práticos, apoio à tomada de decisão e desenvolvimento de raciocínio lógico e quantitativo no ambiente organizacional. 
+Estudo e aplicação de conceitos matemáticos fundamentais no contexto da gestão. Operações com números reais, porcentagens, razões, proporções e regra de três. **Noções de funções** (afim, quadrática e exponencial) aplicadas à resolução de problemas gerenciais. **Matemática financeira:** juros simples e compostos, descontos, Sistemas de amortização e Séries de pagamentos, análise de investimentos. **Estatística descritiva:** medidas de tendência central, medidas de dispersão, organização e interpretação de dados. **Introdução à probabilidade:** conceitos básicos, espaços amostrais, eventos, aplicações da probabilidade no contexto empresarial. Aplicação dos conteúdos na resolução de problemas práticos, apoio à tomada de decisão e desenvolvimento de raciocínio lógico e quantitativo no ambiente organizacional.
 
 |BIBLIOGRAFIA  BÁSICA:|BIBLIOGRAFIA  BÁSICA:|||
 |---|---|---|---|
@@ -1563,129 +1466,127 @@ Estudo e aplicação de conceitos matemáticos fundamentais no contexto da gest�
 |TAHAN, Malba; TAHAN, Malba. Matemática divertida e curiosa. 25. ed. Rio de Janeiro:|TAHAN, Malba; TAHAN, Malba. Matemática divertida e curiosa. 25. ed. Rio de Janeiro:|||
 |Record, 2008.||||
 
+63
 
+## INSTITUTOFEDERAL Parana
 
-63 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+COMPONENTE CURRICULAR: **Teoria Geral da Administração** CARGA HORÁRIA TOTAL: 80 horas-aula / 60 horas-relógio EMENTA: Introdução à administração e ao processo administrativo. Abordagens da Teoria Geral da Administração (TGA) em uma perspectiva histórica e social: clássica, humanística, neoclássica, comportamental, estruturalista, sistêmica e contingencial. Temas contemporâneos da TGA. Mapear, diagnosticar, implementar e aperfeiçoar os processos gerenciais. BIBLIOGRAFIA  BÁSICA: CHIAVENATO, I. **Introdução à teoria geral da administração:** uma visão abrangente da moderna administração das organizações. 10. ed. São Paulo: Atlas, 2020. MOTTA, F. C. P.; VASCONCELOS, I. F. F. G. **Teoria geral da administração.** 4. ed., rev. Ampliada. São Paulo: Cengage Learning, 2021. SOBRAL, F.; PECI, A. **Administração:** teoria e prática no contexto brasileiro. 2. ed. São Paulo: Pearson, 2013. E-book (Biblioteca Virtual Pearson). BIBLIOGRAFIA COMPLEMENTAR: COLTRO, A. **Teoria geral da administração.** Curitiba: InterSaberes, 2015. E-book (Biblioteca Virtual Pearson). MAXIMIANO, A. C. A. **Fundamentos da administração:** introdução à teoria geral a aos processos da administração. 3. ed. Rio de Janeiro: LTC, 2015. SOENDERGAARD, N. **Economia política global.** São Paulo: Editora Contexto, 2021. E-book (Biblioteca Virtual Pearson). VIZEU, F. **Teorias da administração:** origem, desenvolvimento e implicações. Curitiba: Editora Intersaberes, 2019. E-book (Biblioteca Virtual Pearson).
 
-Ministerio da Educacao 
+## **2º semestre**
 
-COMPONENTE CURRICULAR: **Teoria Geral da Administração** CARGA HORÁRIA TOTAL: 80 horas-aula / 60 horas-relógio EMENTA: Introdução à administração e ao processo administrativo. Abordagens da Teoria Geral da Administração (TGA) em uma perspectiva histórica e social: clássica, humanística, neoclássica, comportamental, estruturalista, sistêmica e contingencial. Temas contemporâneos da TGA. Mapear, diagnosticar, implementar e aperfeiçoar os processos gerenciais. BIBLIOGRAFIA  BÁSICA: CHIAVENATO, I. **Introdução à teoria geral da administração:** uma visão abrangente da moderna administração das organizações. 10. ed. São Paulo: Atlas, 2020. MOTTA, F. C. P.; VASCONCELOS, I. F. F. G. **Teoria geral da administração.** 4. ed., rev. Ampliada. São Paulo: Cengage Learning, 2021. SOBRAL, F.; PECI, A. **Administração:** teoria e prática no contexto brasileiro. 2. ed. São Paulo: Pearson, 2013. E-book (Biblioteca Virtual Pearson). BIBLIOGRAFIA COMPLEMENTAR: COLTRO, A. **Teoria geral da administração.** Curitiba: InterSaberes, 2015. E-book (Biblioteca Virtual Pearson). MAXIMIANO, A. C. A. **Fundamentos da administração:** introdução à teoria geral a aos processos da administração. 3. ed. Rio de Janeiro: LTC, 2015. SOENDERGAARD, N. **Economia política global.** São Paulo: Editora Contexto, 2021. E-book (Biblioteca Virtual Pearson). VIZEU, F. **Teorias da administração:** origem, desenvolvimento e implicações. Curitiba: Editora Intersaberes, 2019. E-book (Biblioteca Virtual Pearson). 
+COMPONENTE CURRICULAR: **Contabilidade Geral**
 
-## **2º semestre** 
+CARGA HORÁRIA TOTAL: 80 horas-aula / 60 horas-relógio
 
-COMPONENTE CURRICULAR: **Contabilidade Geral** 
+EMENTA:
 
-CARGA HORÁRIA TOTAL: 80 horas-aula / 60 horas-relógio 
+64
 
-EMENTA: 
+## INSTITUTOFEDERAL Parana
 
-64 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+Contabilidade: conceitos e finalidades; O patrimônio: conceito, estrutura e variações; Origens aplicações de recurso; Atos e fatos administrativos; Escrituração; Débito e Crédito; Contas: conceitos e classificação; Plano de contas; Noções das operações típicas de uma empresa; Registros contábeis; Princípios de contabilidade; Noções de demonstrações contábeis: Balanço Patrimonial e Demonstração de Resultado do Exercício
 
-Ministerio da Educacao 
+BIBLIOGRAFIA  BÁSICA:
 
-Contabilidade: conceitos e finalidades; O patrimônio: conceito, estrutura e variações; Origens aplicações de recurso; Atos e fatos administrativos; Escrituração; Débito e Crédito; Contas: conceitos e classificação; Plano de contas; Noções das operações típicas de uma empresa; Registros contábeis; Princípios de contabilidade; Noções de demonstrações contábeis: Balanço Patrimonial e Demonstração de Resultado do Exercício 
+FERREIRA, Ricardo J. **Contabilidade Básica** . 8. ed. Rio de Janeiro: Ferreira, 2010. MARION, José Carlos. **Contabilidade Básica** . 10ª. ed. São Paulo: Atlas, 2009.
 
-BIBLIOGRAFIA  BÁSICA: 
+PADOVEZE, Clovis Luis. **Manual de Contabilidade Básica** . 7ª. ed. São Paulo: Atlas, 2009
 
-FERREIRA, Ricardo J. **Contabilidade Básica** . 8. ed. Rio de Janeiro: Ferreira, 2010. MARION, José Carlos. **Contabilidade Básica** . 10ª. ed. São Paulo: Atlas, 2009. 
+RIBEIRO, Osni Moura. **Contabilidade Básica Fácil** . 27. ed. São Paulo: Saraiva, 2010. ___________________. **Contabilidade Geral Fácil** . 7. ed. São Paulo: Saraiva, 2010.
 
-PADOVEZE, Clovis Luis. **Manual de Contabilidade Básica** . 7ª. ed. São Paulo: Atlas, 2009 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-RIBEIRO, Osni Moura. **Contabilidade Básica Fácil** . 27. ed. São Paulo: Saraiva, 2010. ___________________. **Contabilidade Geral Fácil** . 7. ed. São Paulo: Saraiva, 2010. 
+ARAUJO, Inaldo da Paixao Santos. **Introdução À Contabilidade** . 3ª ed. São Paulo: Saraiva, 2009.
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+RIBEIRO, Osni Moura. **Contabilidade Geral Fácil** . 7. ed. São Paulo: Saraiva, 2010.
 
-ARAUJO, Inaldo da Paixao Santos. **Introdução À Contabilidade** . 3ª ed. São Paulo: Saraiva, 2009. 
+IUDICIBUS, Sérgio de et. al . **Manual de Contabilidade Societário** . 7. ed. São Paulo: Editora Atlas, 2010. Lei 6.404/76 e devidas alterações.
 
-RIBEIRO, Osni Moura. **Contabilidade Geral Fácil** . 7. ed. São Paulo: Saraiva, 2010. 
+COMPONENTE CURRICULAR: **Fundamentos da Economia (EaD)**
 
-IUDICIBUS, Sérgio de et. al . **Manual de Contabilidade Societário** . 7. ed. São Paulo: Editora Atlas, 2010. Lei 6.404/76 e devidas alterações. 
+CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio
 
-COMPONENTE CURRICULAR: **Fundamentos da Economia (EaD)** 
+EMENTA: Conceitos básicos. O problema da escassez. Fluxo Circular da renda. Noções de Microeconomia. Análise de demanda, da oferta e o equilíbrio de mercado. Estruturas de Mercado. Noções de macroeconomia. Fundamentos da análise macroeconômica.
 
-CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio 
+BIBLIOGRAFIA  BÁSICA: MANKIW, N. G. **Introdução à economia** . 5. ed. São Paulo: Editora Pioneira Thompson Learning, 2010. ROSSETTI, J. P. **Introdução à economia** . 18. ed. São Paulo. Atlas, 2000. VASCONCELOS, M. A. S. **Fundamentos de economia** . São Paulo: Saraiva, 2008.
 
-EMENTA: Conceitos básicos. O problema da escassez. Fluxo Circular da renda. Noções de Microeconomia. Análise de demanda, da oferta e o equilíbrio de mercado. Estruturas de Mercado. Noções de macroeconomia. Fundamentos da análise macroeconômica. 
+65
 
-BIBLIOGRAFIA  BÁSICA: MANKIW, N. G. **Introdução à economia** . 5. ed. São Paulo: Editora Pioneira Thompson Learning, 2010. ROSSETTI, J. P. **Introdução à economia** . 18. ed. São Paulo. Atlas, 2000. VASCONCELOS, M. A. S. **Fundamentos de economia** . São Paulo: Saraiva, 2008. 
+## INSTITUTOFEDERAL
 
-65 
+## Parana
 
-## INSTITUTOFEDERAL 
+Ministerio da Educacao
 
-## Parana 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-Ministerio da Educacao 
+VASCONCELOS, M. A. S. **Micro e Macro** . São Paulo: Atlas, 2010. PINDYCK, R. S.; RUBINFELD, D. L. **Microeconomia** . 5. ed. São Paulo. Makron Books, 2013. SANDRONI, P. **Novíssimo dicionário de economia** . 10. ed. São Paulo: Editora Best Seller, 2002. SANDRONI, P. **Traduzindo o economês** : para entender a economia brasileira na época da globalização. São Paulo: Editora Best Seller, 2000.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+COMPONENTE CURRICULAR: **Gestão de Marketing**
 
-VASCONCELOS, M. A. S. **Micro e Macro** . São Paulo: Atlas, 2010. PINDYCK, R. S.; RUBINFELD, D. L. **Microeconomia** . 5. ed. São Paulo. Makron Books, 2013. SANDRONI, P. **Novíssimo dicionário de economia** . 10. ed. São Paulo: Editora Best Seller, 2002. SANDRONI, P. **Traduzindo o economês** : para entender a economia brasileira na época da globalização. São Paulo: Editora Best Seller, 2000. 
+CARGA HORÁRIA TOTAL: 80 horas-aula / 60 horas-relógio
 
-COMPONENTE CURRICULAR: **Gestão de Marketing** 
+EMENTA: Compreensão da administração de marketing. Segmentação e Posicionamento de mercado. Planejamento e desenvolvimento do composto de Marketing. Comportamento do consumidor. Precificação.  Comunicação e propaganda. Gestão Estratégica de marketing. BIBLIOGRAFIA  BÁSICA:
 
-CARGA HORÁRIA TOTAL: 80 horas-aula / 60 horas-relógio 
+COBRA, M. **Administração de marketing no Brasil.** 4. ed. Rio de Janeiro: Elsevier, 2015. KOTLER, P.; KELLER, K. L. **Administração de marketing.** 15. ed. São Paulo: Pearson, 2019. ROLON, V. E. K. **Composto mercadológico:** conceitos, ideias e tendências. Curitiba: Editora Intersaberes, 2018. E-book (Biblioteca Virtual Pearson). BIBLIOGRAFIA COMPLEMENTAR:
 
-EMENTA: Compreensão da administração de marketing. Segmentação e Posicionamento de mercado. Planejamento e desenvolvimento do composto de Marketing. Comportamento do consumidor. Precificação.  Comunicação e propaganda. Gestão Estratégica de marketing. BIBLIOGRAFIA  BÁSICA: 
+BEZERRA, L. L.; SILVA, J. L. D. **Comportamento do consumidor na era digital.** Curitiba: Editora Intersaberes, 2021. E-book (Biblioteca Virtual Pearson). FERREL, O. C; HARTLINE, M. D. **Estratégia de marketing:** teoria e casos. São Paulo: Cengage Learning, 2017. KOLKO, J. **Do design thinking ao design doing:** como usar a empatia para criar produtos que as pessoas amam. São Paulo: M. Books do Brasil, 2018. KOTLER, P.; YAMAMOTO; S. M.; KELLER, K. L. **Administração de marketing.** São Paulo: Editora Pearson, 2019. E-book (Biblioteca Virtual Pearson).
 
-COBRA, M. **Administração de marketing no Brasil.** 4. ed. Rio de Janeiro: Elsevier, 2015. KOTLER, P.; KELLER, K. L. **Administração de marketing.** 15. ed. São Paulo: Pearson, 2019. ROLON, V. E. K. **Composto mercadológico:** conceitos, ideias e tendências. Curitiba: Editora Intersaberes, 2018. E-book (Biblioteca Virtual Pearson). BIBLIOGRAFIA COMPLEMENTAR: 
+66
 
-BEZERRA, L. L.; SILVA, J. L. D. **Comportamento do consumidor na era digital.** Curitiba: Editora Intersaberes, 2021. E-book (Biblioteca Virtual Pearson). FERREL, O. C; HARTLINE, M. D. **Estratégia de marketing:** teoria e casos. São Paulo: Cengage Learning, 2017. KOLKO, J. **Do design thinking ao design doing:** como usar a empatia para criar produtos que as pessoas amam. São Paulo: M. Books do Brasil, 2018. KOTLER, P.; YAMAMOTO; S. M.; KELLER, K. L. **Administração de marketing.** São Paulo: Editora Pearson, 2019. E-book (Biblioteca Virtual Pearson). 
+INSTITUTOFEDERAL Parana
 
-66 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+COMPONENTE CURRICULAR: **Gestão de Pessoas** CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio EMENTA: Gestão de Pessoas nas organizações: histórico, evolução, objetivos. Recrutamento e Seleção. Treinamento e Desenvolvimento pessoal. Avaliação de desempenho. Cultura e clima organizacional. Tipos de liderança. Liderança de equipes, habilidade de gerir conflitos e solucionar problemas. Rotatividade e absenteísmo. Administração de cargos e salários. Tendência para gestão de pessoas. BIBLIOGRAFIA  BÁSICA: CARVALHO, A. **Desenvolvimento de liderança e de equipe.** Curitiba: Contentus, 2020. E-book (Biblioteca Virtual Pearson). CHIAVENATO, I. **Administração de recursos humanos:** gestão humana. 9. ed. São Paulo: Atlas, 2022. E-book (Biblioteca Virtual Pearson). DUTRA, J. S. **Gestão de pessoas:** modelo, processos, tendências e perspectivas. 2. ed. São Paulo: Atlas, 2016. BIBLIOGRAFIA COMPLEMENTAR: BARROS NETO, J. P. **Gestão de pessoas 4.0.** Rio de Janeiro: Editora Freitas Bastos, 2022. E-book (Biblioteca Virtual Pearson). GRUUB, V. M. **Conflito de gerações:** desafios e estratégias para gerenciar quatro gerações no ambiente de trabalho. Belo Horizonte: Autêntica Business, 2018. E-book (Biblioteca Virtual Pearson). PONTES, B. R. **Administração de cargos e salários:** carreiras e remunerações. 19. ed. São Paulo: LTr, 2019. SANTOS, M. S. T.; MACHADO, M. A. O. **Departamento de pessoal modelo:** atualizada com base na lei geral de proteção de dados, e-social, efd-reinf e dctfweb. Rio de Janeiro: Editora Freitas Bastos, 2022. E-book (Biblioteca Virtual Pearson).
 
-Ministerio da Educacao 
+COMPONENTE CURRICULAR: **Inglês (EaD)**
 
-COMPONENTE CURRICULAR: **Gestão de Pessoas** CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio EMENTA: Gestão de Pessoas nas organizações: histórico, evolução, objetivos. Recrutamento e Seleção. Treinamento e Desenvolvimento pessoal. Avaliação de desempenho. Cultura e clima organizacional. Tipos de liderança. Liderança de equipes, habilidade de gerir conflitos e solucionar problemas. Rotatividade e absenteísmo. Administração de cargos e salários. Tendência para gestão de pessoas. BIBLIOGRAFIA  BÁSICA: CARVALHO, A. **Desenvolvimento de liderança e de equipe.** Curitiba: Contentus, 2020. E-book (Biblioteca Virtual Pearson). CHIAVENATO, I. **Administração de recursos humanos:** gestão humana. 9. ed. São Paulo: Atlas, 2022. E-book (Biblioteca Virtual Pearson). DUTRA, J. S. **Gestão de pessoas:** modelo, processos, tendências e perspectivas. 2. ed. São Paulo: Atlas, 2016. BIBLIOGRAFIA COMPLEMENTAR: BARROS NETO, J. P. **Gestão de pessoas 4.0.** Rio de Janeiro: Editora Freitas Bastos, 2022. E-book (Biblioteca Virtual Pearson). GRUUB, V. M. **Conflito de gerações:** desafios e estratégias para gerenciar quatro gerações no ambiente de trabalho. Belo Horizonte: Autêntica Business, 2018. E-book (Biblioteca Virtual Pearson). PONTES, B. R. **Administração de cargos e salários:** carreiras e remunerações. 19. ed. São Paulo: LTr, 2019. SANTOS, M. S. T.; MACHADO, M. A. O. **Departamento de pessoal modelo:** atualizada com base na lei geral de proteção de dados, e-social, efd-reinf e dctfweb. Rio de Janeiro: Editora Freitas Bastos, 2022. E-book (Biblioteca Virtual Pearson). 
+CARGA HORÁRIA TOTAL:  40 horas-aula / 30 horas-relógio
 
-COMPONENTE CURRICULAR: **Inglês (EaD)** 
+67
 
-CARGA HORÁRIA TOTAL:  40 horas-aula / 30 horas-relógio 
+## INSTITUTOFEDERAL Parana
 
-67 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+EMENTA: Desenvolvimento de habilidades de leitura utilizando gêneros textuais escritos em língua inglesa, desenvolvendo vocabulário específico relevante às necessidades e habilidades relacionadas com a área de atuação profissional e acadêmica.
 
-Ministerio da Educacao 
+BIBLIOGRAFIA  BÁSICA:
 
-EMENTA: Desenvolvimento de habilidades de leitura utilizando gêneros textuais escritos em língua inglesa, desenvolvendo vocabulário específico relevante às necessidades e habilidades relacionadas com a área de atuação profissional e acadêmica. 
+CRUZ, D.; OLIVEIRA, A. **Inglês para administração e economia** . São Paulo: Disal, 2007. MUNHOZ, R. **Inglês instrumental** : estratégias de leitura. São Paulo: Textonovo, 2000. MURPHY, R. **Essential grammar in use** . 3. ed. Cambridge: Cambridge University Press, 2004
 
-BIBLIOGRAFIA  BÁSICA: 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-CRUZ, D.; OLIVEIRA, A. **Inglês para administração e economia** . São Paulo: Disal, 2007. MUNHOZ, R. **Inglês instrumental** : estratégias de leitura. São Paulo: Textonovo, 2000. MURPHY, R. **Essential grammar in use** . 3. ed. Cambridge: Cambridge University Press, 2004 
+AZAR, B. S. **Understanding and using english grammar** . New York: Longman, 2009. BEAUMONT, J. **Building skills for the TOEFL ibt** . White Plains. Pearson Education, Inc, 2006.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+MURPHY, R. **English grammar in use** : a self-study reference and practice book for intermediate students: with answers. 4. ed. Cambridge: Cambridge University, 2012. TEODOROV, V. (Org.). **Freeway** . São Paulo: Richmond Educação, 2010.
 
-AZAR, B. S. **Understanding and using english grammar** . New York: Longman, 2009. BEAUMONT, J. **Building skills for the TOEFL ibt** . White Plains. Pearson Education, Inc, 2006. 
+COMPONENTE CURRICULAR: **Inovação e Empreendedorismo**
 
-MURPHY, R. **English grammar in use** : a self-study reference and practice book for intermediate students: with answers. 4. ed. Cambridge: Cambridge University, 2012. TEODOROV, V. (Org.). **Freeway** . São Paulo: Richmond Educação, 2010. 
+CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio
 
-COMPONENTE CURRICULAR: **Inovação e Empreendedorismo** 
+EMENTA:
 
-CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio 
+Empreendedorismo: histórico e conceitos. Tipos de empreendedores. Habilidades e características do perfil empreendedor. Ideia, oportunidade de negócio e proposta de valor. Modelo de negócios. Inovação. Propriedade Intelectual. Instituições de fomento à inovação e empreendedorismo.
 
-EMENTA: 
+BIBLIOGRAFIA  BÁSICA:
 
-Empreendedorismo: histórico e conceitos. Tipos de empreendedores. Habilidades e características do perfil empreendedor. Ideia, oportunidade de negócio e proposta de valor. Modelo de negócios. Inovação. Propriedade Intelectual. Instituições de fomento à inovação e empreendedorismo. 
+BESSANT, J.; TIDD, J. **Inovação e empreendedorismo.** Porto Alegre: Bookman, 2019.
 
-BIBLIOGRAFIA  BÁSICA: 
+DEGEN, R. J. **O empreendedor:** fundamentos da iniciativa empresarial. São Paulo: Pearson, 2005. E-book (Biblioteca Virtual Pearson).
 
-BESSANT, J.; TIDD, J. **Inovação e empreendedorismo.** Porto Alegre: Bookman, 2019. 
+DRUCKER, P. **Inovação e espírito empreendedor:** prática e princípios. 5. ed. São Paulo: Cengage Learning, 2023.
 
-DEGEN, R. J. **O empreendedor:** fundamentos da iniciativa empresarial. São Paulo: Pearson, 2005. E-book (Biblioteca Virtual Pearson). 
+68
 
-DRUCKER, P. **Inovação e espírito empreendedor:** prática e princípios. 5. ed. São Paulo: Cengage Learning, 2023. 
+Ministerio da Educacao
 
-68 
-
-Ministerio da Educacao 
-
-INSTITUTOFEDERAL Parana Ministerio da Educacao BIBLIOGRAFIA COMPLEMENTAR: BIRKINSHAW, J. M.; MARK, K. **25 ferramentas de gestão:** inclui estratégia do oceano azul, design thinking, startup enxuta, inovação aberta, inteligência emocional, dentre outras. Rio de Janeiro: Alta Books, 2020. BUSATO, L. H. **Atores, políticas e fomento à inovação-SNI:** lei da inovação, incentivos, venture, capital, anjos, incubadoras, aceleradoras, startups. Curitiba: Contentus, 2020. E-book (Biblioteca Virtual Pearson). FABRETE, T. C. L. **Empreendedorismo.** São Paulo: Pearson, 2019. E-book (Biblioteca Virtual Pearson). OSTERWALDER, A.; PIGNEUR, Y. **Business model generation:** inovação em modelos de negócios : um manual para visionários, inovadores e revolucionários. Rio de Janeiro: Alta Books, 2011. 
+INSTITUTOFEDERAL Parana Ministerio da Educacao BIBLIOGRAFIA COMPLEMENTAR: BIRKINSHAW, J. M.; MARK, K. **25 ferramentas de gestão:** inclui estratégia do oceano azul, design thinking, startup enxuta, inovação aberta, inteligência emocional, dentre outras. Rio de Janeiro: Alta Books, 2020. BUSATO, L. H. **Atores, políticas e fomento à inovação-SNI:** lei da inovação, incentivos, venture, capital, anjos, incubadoras, aceleradoras, startups. Curitiba: Contentus, 2020. E-book (Biblioteca Virtual Pearson). FABRETE, T. C. L. **Empreendedorismo.** São Paulo: Pearson, 2019. E-book (Biblioteca Virtual Pearson). OSTERWALDER, A.; PIGNEUR, Y. **Business model generation:** inovação em modelos de negócios : um manual para visionários, inovadores e revolucionários. Rio de Janeiro: Alta Books, 2011.
 
 |COMPONENTE CURRICULAR:**Inteligência de Negócios**|COMPONENTE CURRICULAR:**Inteligência de Negócios**|COMPONENTE CURRICULAR:**Inteligência de Negócios**|
 |---|---|---|
@@ -1706,33 +1607,28 @@ INSTITUTOFEDERAL Parana Ministerio da Educacao BIBLIOGRAFIA COMPLEMENTAR: BIRKIN
 |BIBLIOGRAFIA COMPLEMENTAR:|||
 |KNAFLIC, C. N.**Storytelling com dados: u**m guia sobre visualização de dados para|||
 
+69
 
+## INSTITUTOFEDERAL Parana
 
-69 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+profissionais de negócios. 2. ed. Rio de Janeiro: Alta Books, 2019.
 
-Ministerio da Educacao 
+ALVES, E. B. **Business intelligence:** BI. Curitiba: Contentus, 2021. E-book (Biblioteca Virtual Pearson). BONORA JÚNIOR, D. **Estatística básica** . São Paulo: Ícone, 2019. E-book (Biblioteca Virtual Pearson).
 
-profissionais de negócios. 2. ed. Rio de Janeiro: Alta Books, 2019. 
+BRAGHITTONI, R. **Business intelligence:** implementar do jeito certo e a custo zero. São Paulo, SP: Casa do Código, 2017. E-book
 
-ALVES, E. B. **Business intelligence:** BI. Curitiba: Contentus, 2021. E-book (Biblioteca Virtual Pearson). BONORA JÚNIOR, D. **Estatística básica** . São Paulo: Ícone, 2019. E-book (Biblioteca Virtual Pearson). 
+## **3º semestre**
 
-BRAGHITTONI, R. **Business intelligence:** implementar do jeito certo e a custo zero. São Paulo, SP: Casa do Código, 2017. E-book 
+## COMPONENTE CURRICULAR: **Comportamento Organizacional**
 
-## **3º semestre** 
+CARGA HORÁRIA TOTAL: 80 horas-aula / 60 horas-relógio
 
-## COMPONENTE CURRICULAR: **Comportamento Organizacional** 
+## EMENTA:
 
-CARGA HORÁRIA TOTAL: 80 horas-aula / 60 horas-relógio 
+Análise do comportamento organizacional sob a perspectiva da neurociência e das teorias comportamentais modernas. Estudo dos processos cerebrais envolvidos na motivação, tomada de decisão, liderança e cultura organizacional. Desenvolvimento das **habilidades interpessoais** essenciais para o ambiente corporativo, incluindo inteligência emocional, pensamento crítico, adaptabilidade, comunicação e trabalho em equipe. Reflexão sobre a identidade individual no contexto organizacional e sua relação com a cultura e os valores da empresa. Estratégias para alinhamento entre propósito pessoal e identidade corporativa, fortalecendo o engajamento, a inovação e a alta performance. Aplicação de conceitos neurocientíficos para a gestão de mudanças, resolução de conflitos e construção de ambientes de trabalho saudáveis e produtivos.
 
-## EMENTA: 
-
-Análise do comportamento organizacional sob a perspectiva da neurociência e das teorias comportamentais modernas. Estudo dos processos cerebrais envolvidos na motivação, tomada de decisão, liderança e cultura organizacional. Desenvolvimento das **habilidades interpessoais** essenciais para o ambiente corporativo, incluindo inteligência emocional, pensamento crítico, adaptabilidade, comunicação e trabalho em equipe. Reflexão sobre a identidade individual no contexto organizacional e sua relação com a cultura e os valores da empresa. Estratégias para alinhamento entre propósito pessoal e identidade corporativa, fortalecendo o engajamento, a inovação e a alta performance. Aplicação de conceitos neurocientíficos para a gestão de mudanças, resolução de conflitos e construção de ambientes de trabalho saudáveis e produtivos. 
-
-**==> picture [467 x 182] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
 ||||
 |---|---|---|
 |BIBLIOGRAFIA  BÁSICA:|
@@ -1746,102 +1642,99 @@ Análise do comportamento organizacional sob a perspectiva da neurociência e da
 |cultura. São Paulo: Companhia das Letras, 2018.|
 |BIBLIOGRAFIA COMPLEMENTAR:|
 
-**----- End of picture text -----**<br>
+70
 
+## INSTITUTOFEDERAL Parana
 
-70 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+ACHOR, S. **O jeito Harvard de ser feliz** : o curso mais concorrido da melhor universidade do mundo ensina a ser mais feliz, aumentar sua produtividade e transformar sua vida. 2. ed. São Paulo: Saraiva, 2019.
 
-Ministerio da Educacao 
+BROWN, B. **A coragem de ser imperfeito** : como aceitar a própria vulnerabilidade, vencer a vergonha e ousar ser quem você é. Rio de Janeiro: Sextante, 2016.
 
-ACHOR, S. **O jeito Harvard de ser feliz** : o curso mais concorrido da melhor universidade do mundo ensina a ser mais feliz, aumentar sua produtividade e transformar sua vida. 2. ed. São Paulo: Saraiva, 2019. 
+KAHNEMAN, D. **Ruído** : uma falha no julgamento humano. Rio de Janeiro: Objetiva, 2021.
 
-BROWN, B. **A coragem de ser imperfeito** : como aceitar a própria vulnerabilidade, vencer a vergonha e ousar ser quem você é. Rio de Janeiro: Sextante, 2016. 
+GRANT, A. **Pense de novo** : o poder de saber o que você não sabe. São Paulo: Companhia das Letras, 2021.
 
-KAHNEMAN, D. **Ruído** : uma falha no julgamento humano. Rio de Janeiro: Objetiva, 2021. 
+COMPONENTE CURRICULAR: **Gestão da Produção**
 
-GRANT, A. **Pense de novo** : o poder de saber o que você não sabe. São Paulo: Companhia das Letras, 2021. 
+CARGA HORÁRIA TOTAL: 80 horas-aula / 60 horas-relógio EMENTA: Introdução à Gestão da Produção (Conceitos fundamentais: produção, produtividade, competitividade, cadeia de valor). Processos de Produção e Layout (Tipos de processos produtivos (contínuo, em lote, sob encomenda)). Projetos de layout de instalações (funcional, em linha, celular). Planejamento e Controle da Produção (Níveis de planejamento: estratégico, tático e operacional / Previsão de demanda e plano mestre de produção). Manutenção Produtiva (Tipos de manutenção: corretiva, preventiva e preditiva / _Total Productive Maintenance_ / Indicadores de disponibilidade e confiabilidade). Tecnologias na Produção (Indústria 4.0: IoT, sensores, data _analytics_ / manufatura aditiva). BIBLIOGRAFIA BÁSICA: CORREA, H e CORREA, C. **Administração da produção e operações** . São Paulo: Atlas, 2022. FONTANA, M. E. **Fundamentos da gestão da produção e operações** : estratégias para o sucesso empresarial. Rio de Janeiro: Freitas Bastos, 2024. E-book (Biblioteca Virtual Pearson). SLACK, N. et al. **Administração da produção** . 2. ed. São Paulo: Saraiva, 2005. BIBLIOGRAFIA COMPLEMENTAR: CORREA, H. L.; GIANESI, I. G. N.; CAON, M. **Planejamento, programação e controle da produção:** MRP II / ERP. 6. ed. São Paulo: Atlas, 2019.
 
-COMPONENTE CURRICULAR: **Gestão da Produção** 
+71
 
-CARGA HORÁRIA TOTAL: 80 horas-aula / 60 horas-relógio EMENTA: Introdução à Gestão da Produção (Conceitos fundamentais: produção, produtividade, competitividade, cadeia de valor). Processos de Produção e Layout (Tipos de processos produtivos (contínuo, em lote, sob encomenda)). Projetos de layout de instalações (funcional, em linha, celular). Planejamento e Controle da Produção (Níveis de planejamento: estratégico, tático e operacional / Previsão de demanda e plano mestre de produção). Manutenção Produtiva (Tipos de manutenção: corretiva, preventiva e preditiva / _Total Productive Maintenance_ / Indicadores de disponibilidade e confiabilidade). Tecnologias na Produção (Indústria 4.0: IoT, sensores, data _analytics_ / manufatura aditiva). BIBLIOGRAFIA BÁSICA: CORREA, H e CORREA, C. **Administração da produção e operações** . São Paulo: Atlas, 2022. FONTANA, M. E. **Fundamentos da gestão da produção e operações** : estratégias para o sucesso empresarial. Rio de Janeiro: Freitas Bastos, 2024. E-book (Biblioteca Virtual Pearson). SLACK, N. et al. **Administração da produção** . 2. ed. São Paulo: Saraiva, 2005. BIBLIOGRAFIA COMPLEMENTAR: CORREA, H. L.; GIANESI, I. G. N.; CAON, M. **Planejamento, programação e controle da produção:** MRP II / ERP. 6. ed. São Paulo: Atlas, 2019. 
+## 1[INSTITUTOFEDERAL] Parana
 
-71 
+Ministerio da Educacao
 
-## 1[INSTITUTOFEDERAL] Parana 
+SEIXAS, E. da Silva. **Administração da produção e serviços** . Curitiba: Editora Intersaberes, 2020. E-book (Biblioteca Virtual Pearson).
 
-Ministerio da Educacao 
+LÉLIS, E. C. **Administração da produção** . São Paulo: Pearson, 2018. E-book (Biblioteca Virtual Pearson).
 
-SEIXAS, E. da Silva. **Administração da produção e serviços** . Curitiba: Editora Intersaberes, 2020. E-book (Biblioteca Virtual Pearson). 
+NEUMANN, C. **Projeto de Fábrica e layout.** Rio de Janeiro: Grupo Editorial Nacional, 2021.
 
-LÉLIS, E. C. **Administração da produção** . São Paulo: Pearson, 2018. E-book (Biblioteca Virtual Pearson). 
+COMPONENTE CURRICULAR: **Marketing Digital**
 
-NEUMANN, C. **Projeto de Fábrica e layout.** Rio de Janeiro: Grupo Editorial Nacional, 2021. 
+CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio
 
-COMPONENTE CURRICULAR: **Marketing Digital** 
+EMENTA: Introdução ao marketing digital. Identidade e cultura digital. Inbound e Outbound Marketing. Mídias digitais. Estratégias de marketing digital. Métricas para o marketing digital.
 
-CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio 
+BIBLIOGRAFIA  BÁSICA:
 
-EMENTA: Introdução ao marketing digital. Identidade e cultura digital. Inbound e Outbound Marketing. Mídias digitais. Estratégias de marketing digital. Métricas para o marketing digital. 
+STEFFEN, C. **Inbound & Outbound:** marketing aplicado para o digital. Rio de Janeiro: Freitas Bastos, 2025. E-book (Biblioteca Virtual Pearson). TORRES, C. **A bíblia do marketing digital:** tudo o que você queria saber sobre marketing e publicidade na internet e não tinha a quem perguntar. 2. ed., rev. ampl. São Paulo: Novatec, 2022. TURCHI, S. R. **Estratégias de marketing digital e e-commerce.** 4. ed. São Paulo: Atlas, 2023.
 
-BIBLIOGRAFIA  BÁSICA: 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-STEFFEN, C. **Inbound & Outbound:** marketing aplicado para o digital. Rio de Janeiro: Freitas Bastos, 2025. E-book (Biblioteca Virtual Pearson). TORRES, C. **A bíblia do marketing digital:** tudo o que você queria saber sobre marketing e publicidade na internet e não tinha a quem perguntar. 2. ed., rev. ampl. São Paulo: Novatec, 2022. TURCHI, S. R. **Estratégias de marketing digital e e-commerce.** 4. ed. São Paulo: Atlas, 2023. 
+BEZERRA, L. L.; SILVA, J. L. D. **Comportamento do consumidor na era digital.** Curitiba: Editora Intersaberes, 2021. E-book (Biblioteca Virtual Pearson). ROWLES, D. **Digital branding:** estratégias, táticas e ferramentas para impulsionar o seu negócio na era digital. São Paulo: Autêntica Business, 2018. TERRA, C. F. **Marcas influenciadoras digitais:** como transformar organizações em produtoras de conteúdo digital. São Caetano do Sul: Difusão, 2021. E-book (Biblioteca Virtual Pearson). YANAZE, M. H.; ALMEIDA, E.; YANAZE, L. K. H. (org.). **Marketing digital:** conceitos e práticas. São Paulo: Saraiva Uni, 2022.
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+72
 
-BEZERRA, L. L.; SILVA, J. L. D. **Comportamento do consumidor na era digital.** Curitiba: Editora Intersaberes, 2021. E-book (Biblioteca Virtual Pearson). ROWLES, D. **Digital branding:** estratégias, táticas e ferramentas para impulsionar o seu negócio na era digital. São Paulo: Autêntica Business, 2018. TERRA, C. F. **Marcas influenciadoras digitais:** como transformar organizações em produtoras de conteúdo digital. São Caetano do Sul: Difusão, 2021. E-book (Biblioteca Virtual Pearson). YANAZE, M. H.; ALMEIDA, E.; YANAZE, L. K. H. (org.). **Marketing digital:** conceitos e práticas. São Paulo: Saraiva Uni, 2022. 
+Ministerio da Educacao
 
-72 
+## INSTITUTOFEDERAL
 
-Ministerio da Educacao 
+## Parana
 
-## INSTITUTOFEDERAL 
+COMPONENTE CURRICULAR: **Matemática Financeira**
 
-## Parana 
+CARGA HORÁRIA TOTAL: 80 horas-aula / 60 horas-relógio
 
-COMPONENTE CURRICULAR: **Matemática Financeira** 
+## EMENTA:
 
-CARGA HORÁRIA TOTAL: 80 horas-aula / 60 horas-relógio 
+Conceito de inflação, custo do dinheiro no tempo e taxa de juros. Juros simples e composto. Taxa nominal, efetiva e equivalente. Sistemas de Amortização. Fluxo de caixa (séries uniformes). Análise de viabilidade econômica de projetos (TIR, VPL, B/C e _payback_ ).
 
-## EMENTA: 
+BIBLIOGRAFIA  BÁSICA:
 
-Conceito de inflação, custo do dinheiro no tempo e taxa de juros. Juros simples e composto. Taxa nominal, efetiva e equivalente. Sistemas de Amortização. Fluxo de caixa (séries uniformes). Análise de viabilidade econômica de projetos (TIR, VPL, B/C e _payback_ ). 
+ASSAF NETO,  A. **Matemática financeira:** edição universitária. 2. ed. São Paulo: Atlas, 2023. ASSAF NETO, A. **Matemática financeira e suas aplicações.** 15. ed. São Paulo: Atlas, 2022. ASSAF NETO, A. **Mercado financeiro.** 15. ed. São Paulo: Atlas, 2021.
 
-BIBLIOGRAFIA  BÁSICA: 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-ASSAF NETO,  A. **Matemática financeira:** edição universitária. 2. ed. São Paulo: Atlas, 2023. ASSAF NETO, A. **Matemática financeira e suas aplicações.** 15. ed. São Paulo: Atlas, 2022. ASSAF NETO, A. **Mercado financeiro.** 15. ed. São Paulo: Atlas, 2021. 
+ASSAF NETO, A.; LIMA, F. G. **Curso de administração financeira.** 4. ed. São Paulo: Atlas, 2023.
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+CASAROTTO FILHO, N.; KOPITKE, B. H. **Análise de investimentos:** manual para solução de problemas e tomadas de decisão. 12. ed. São Paulo: Atlas, 2020
 
-ASSAF NETO, A.; LIMA, F. G. **Curso de administração financeira.** 4. ed. São Paulo: Atlas, 2023. 
+CASTANHEIRA, N. P.; MACEDO, L. R. D. **Matemática financeira aplicada.** Curitiba: InterSaberes, 2020. E-book (Biblioteca Virtual Pearson).
 
-CASAROTTO FILHO, N.; KOPITKE, B. H. **Análise de investimentos:** manual para solução de problemas e tomadas de decisão. 12. ed. São Paulo: Atlas, 2020 
+GIMENES, C. M. **Matemática financeira com HP 12C e Excel:** uma abordagem descomplicada. São Paulo: Editora Pearson, 2009. E-book (Biblioteca Virtual Pearson).
 
-CASTANHEIRA, N. P.; MACEDO, L. R. D. **Matemática financeira aplicada.** Curitiba: InterSaberes, 2020. E-book (Biblioteca Virtual Pearson). 
+COMPONENTE CURRICULAR: **Optativa I**
 
-GIMENES, C. M. **Matemática financeira com HP 12C e Excel:** uma abordagem descomplicada. São Paulo: Editora Pearson, 2009. E-book (Biblioteca Virtual Pearson). 
+CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio
 
-COMPONENTE CURRICULAR: **Optativa I** 
+EMENTA:
 
-CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio 
+BIBLIOGRAFIA  BÁSICA:
 
-EMENTA: 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-BIBLIOGRAFIA  BÁSICA: 
+73
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+## INSTITUTOFEDERAL
 
-73 
+Parana
 
-## INSTITUTOFEDERAL 
+Ministerio da Educacao
 
-Parana 
-
-Ministerio da Educacao 
-
-## **4º semestre** 
+## **4º semestre**
 
 |COMPONENTE CURRICULAR:**Administração Financeira**|COMPONENTE CURRICULAR:**Administração Financeira**|COMPONENTE CURRICULAR:**Administração Financeira**|COMPONENTE CURRICULAR:**Administração Financeira**|COMPONENTE CURRICULAR:**Administração Financeira**|COMPONENTE CURRICULAR:**Administração Financeira**||||
 |---|---|---|---|---|---|---|---|---|
@@ -1866,209 +1759,207 @@ Ministerio da Educacao
 |MENDES, S.**Administração financeira e orçamentária:**||**Administração financeira e orçamentária:**teoria e questões. 6. ed. rev. e atual.||||teoria e questões. 6. ed. rev. e atual.|teoria e questões. 6. ed. rev. e atual.||
 |Rio de Janeiro: Método, 2016.||Rio de Janeiro: Método, 2016.|||||||
 
+COMPONENTE CURRICULAR: **Comércio Eletrônico e Mídias Digitais**
 
+74
 
-COMPONENTE CURRICULAR: **Comércio Eletrônico e Mídias Digitais** 
+## INSTITUTOFEDERAL
 
-74 
+## Parana
 
-## INSTITUTOFEDERAL 
+Ministerio da Educacao
 
-## Parana 
+CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio EMENTA: COMÉRCIO ELETRÔNICO: Fundamentos. Tecnologias de suporte. Desenvolvimento de _sites_ de comércio eletrônico. Estudo de casos de sucesso no comércio eletrônico brasileiro e mundial. MARKETING DIGITAL NA PRÁTICA: Fundamentos. Ferramentas tecnológicas. Utilização do marketing digital em redes sociais Aspectos legais relacionados ao tratamento de dados na área de Tecnologia da Informação. BIBLIOGRAFIA BÁSICA: FAUSTINO, P. **Marketing digital na prática:** como criar do zero uma estratégia de marketing digital para promover negócios ou produtos. 3. ed. São Paulo: DVS Editora, 2019. FIORI, D. **Comércio eletrônico e e-business:** conceitos para entender a transformação digital. Curitiba: Intersaberes, 2023. _E-book (Biblioteca Virtual Pearson)._ TORRES, C. **A bíblia do marketing digital:** tudo o que você queria saber sobre marketing e publicidade na internet e não tinha a quem perguntar. 2. ed., rev. ampl. São Paulo: Novatec, 2022. BIBLIOGRAFIA COMPLEMENTAR: ALMEIDA, Mário de Souza. **Administração da tecnologia de informação e comunicação:** da informática básica à gestão do conhecimento. Rio de Janeiro: Freitas Bastos, 2024. _E-book (Biblioteca Virtual Pearson)._ BAGGIO, A. C. **E-commerce:** o avanço tecnológico e as relações consumidor-fornecedor. Curitiba: Intersaberes, 2022. _E-book  (Biblioteca Virtual Pearson)._ FRANCISCO, L. F. C. **Comércio eletrônico e mídias digitais.** São Paulo: Contentus, 2020. _E-book  (Biblioteca Virtual Pearson)._ TURCHI, S. R. **Estratégias de marketing digital e e-commerce.** 4. ed. São Paulo: Atlas, 2023.
 
-Ministerio da Educacao 
+COMPONENTE CURRICULAR: **Gestão da Qualidade** CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio EMENTA: Fundamentos da Qualidade (Conceitos de qualidade e evolução histórica). Melhoria Contínua, ciclo PDCA, Kaizen e 5S. Ferramentas e Técnicas da Qualidade. Metodologias Lean e Six Sigma (DMAIC). Sistemas de Gestão da Qualidade (Estrutura e requisitos da ISO 9001:2015 /
 
-CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio EMENTA: COMÉRCIO ELETRÔNICO: Fundamentos. Tecnologias de suporte. Desenvolvimento de _sites_ de comércio eletrônico. Estudo de casos de sucesso no comércio eletrônico brasileiro e mundial. MARKETING DIGITAL NA PRÁTICA: Fundamentos. Ferramentas tecnológicas. Utilização do marketing digital em redes sociais Aspectos legais relacionados ao tratamento de dados na área de Tecnologia da Informação. BIBLIOGRAFIA BÁSICA: FAUSTINO, P. **Marketing digital na prática:** como criar do zero uma estratégia de marketing digital para promover negócios ou produtos. 3. ed. São Paulo: DVS Editora, 2019. FIORI, D. **Comércio eletrônico e e-business:** conceitos para entender a transformação digital. Curitiba: Intersaberes, 2023. _E-book (Biblioteca Virtual Pearson)._ TORRES, C. **A bíblia do marketing digital:** tudo o que você queria saber sobre marketing e publicidade na internet e não tinha a quem perguntar. 2. ed., rev. ampl. São Paulo: Novatec, 2022. BIBLIOGRAFIA COMPLEMENTAR: ALMEIDA, Mário de Souza. **Administração da tecnologia de informação e comunicação:** da informática básica à gestão do conhecimento. Rio de Janeiro: Freitas Bastos, 2024. _E-book (Biblioteca Virtual Pearson)._ BAGGIO, A. C. **E-commerce:** o avanço tecnológico e as relações consumidor-fornecedor. Curitiba: Intersaberes, 2022. _E-book  (Biblioteca Virtual Pearson)._ FRANCISCO, L. F. C. **Comércio eletrônico e mídias digitais.** São Paulo: Contentus, 2020. _E-book  (Biblioteca Virtual Pearson)._ TURCHI, S. R. **Estratégias de marketing digital e e-commerce.** 4. ed. São Paulo: Atlas, 2023. 
+75
 
-COMPONENTE CURRICULAR: **Gestão da Qualidade** CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio EMENTA: Fundamentos da Qualidade (Conceitos de qualidade e evolução histórica). Melhoria Contínua, ciclo PDCA, Kaizen e 5S. Ferramentas e Técnicas da Qualidade. Metodologias Lean e Six Sigma (DMAIC). Sistemas de Gestão da Qualidade (Estrutura e requisitos da ISO 9001:2015 / 
+## INSTITUTOFEDERAL Parana
 
-75 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+Planejamento e documentação do SGQ). BIBLIOGRAFIA BÁSICA: BONAFINI F. C.; RODRIGUES E. A. B. **Ferramentas da qualidade** . São Paulo: Editora Pearson, 2015. _E-book  (Biblioteca Virtual Pearson)._ CARPINETTI, L. C. R. GEROLAMO, M. C. **Gestão da qualidade ISO 9001: 2015** : requisitos e integração com a ISO 14001:2015. São Paulo: Atlas, 2016. PALADINI, E. P. **Gestão da qualidade** : teoria e prática. São Paulo: Atlas, 2024. BIBLIOGRAFIA COMPLEMENTAR: BALLESTERO-ALVAREZ, M. E. **Gestão de qualidade, produtividade e operações** . São Paulo: Atlas, 2012. CAMPOS L. M. F.; NETO A. S. **Introdução à gestão da qualidade e produtividade** : conceitos, história e ferramentas. Curitiba: Editora Intersaberes, 2016. _E-book  (Biblioteca Virtual Pearson)._ GALLEGOS R. A. P. **Ferramentas de gestão voltadas para melhoria da qualidade nas empresas** . Rio de Janeiro: Editora Freitas Bastos, 2023. _E-book  (Biblioteca Virtual Pearson)._ SILVA O. R. D. **Sistemas ISO 9000 e auditorias da qualidade** . Curitiba: Contentus, 2020. _E-book  (Biblioteca Virtual Pearson)._
 
-Ministerio da Educacao 
+## COMPONENTE CURRICULAR: **Gestão de Cadeia de Suprimentos**
 
-Planejamento e documentação do SGQ). BIBLIOGRAFIA BÁSICA: BONAFINI F. C.; RODRIGUES E. A. B. **Ferramentas da qualidade** . São Paulo: Editora Pearson, 2015. _E-book  (Biblioteca Virtual Pearson)._ CARPINETTI, L. C. R. GEROLAMO, M. C. **Gestão da qualidade ISO 9001: 2015** : requisitos e integração com a ISO 14001:2015. São Paulo: Atlas, 2016. PALADINI, E. P. **Gestão da qualidade** : teoria e prática. São Paulo: Atlas, 2024. BIBLIOGRAFIA COMPLEMENTAR: BALLESTERO-ALVAREZ, M. E. **Gestão de qualidade, produtividade e operações** . São Paulo: Atlas, 2012. CAMPOS L. M. F.; NETO A. S. **Introdução à gestão da qualidade e produtividade** : conceitos, história e ferramentas. Curitiba: Editora Intersaberes, 2016. _E-book  (Biblioteca Virtual Pearson)._ GALLEGOS R. A. P. **Ferramentas de gestão voltadas para melhoria da qualidade nas empresas** . Rio de Janeiro: Editora Freitas Bastos, 2023. _E-book  (Biblioteca Virtual Pearson)._ SILVA O. R. D. **Sistemas ISO 9000 e auditorias da qualidade** . Curitiba: Contentus, 2020. _E-book  (Biblioteca Virtual Pearson)._ 
+CARGA HORÁRIA TOTAL: 80 horas-aula / 60 horas-relógio
 
-## COMPONENTE CURRICULAR: **Gestão de Cadeia de Suprimentos** 
+## EMENTA:
 
-CARGA HORÁRIA TOTAL: 80 horas-aula / 60 horas-relógio 
+Fundamentos da Cadeia de Suprimentos (Conceitos de logística, cadeia de suprimentos e _supply chain management_ ). Estratégias em SCM (Integração vertical e horizontal / Estratégias de resposta rápida, produção puxada e enxuta / Alianças e parcerias com fornecedores e clientes). Planejamento da Demanda e Gestão de Estoques (Previsão de demanda / Classificação ABC e sistemas MRP/DRP). Distribuição, Transporte e Armazenagem (Gestão de transportes / Armazenagem e layout logístico). KPIs logísticos e análise de desempenho.
 
-## EMENTA: 
+BIBLIOGRAFIA  BÁSICA:
 
-Fundamentos da Cadeia de Suprimentos (Conceitos de logística, cadeia de suprimentos e _supply chain management_ ). Estratégias em SCM (Integração vertical e horizontal / Estratégias de resposta rápida, produção puxada e enxuta / Alianças e parcerias com fornecedores e clientes). Planejamento da Demanda e Gestão de Estoques (Previsão de demanda / Classificação ABC e sistemas MRP/DRP). Distribuição, Transporte e Armazenagem (Gestão de transportes / Armazenagem e layout logístico). KPIs logísticos e análise de desempenho. 
+BALLOU, R. H. **Gerenciamento da cadeia de suprimentos:** logística empresarial. Porto Alegre: Bookman Editora, 2009.
 
-BIBLIOGRAFIA  BÁSICA: 
+76
 
-BALLOU, R. H. **Gerenciamento da cadeia de suprimentos:** logística empresarial. Porto Alegre: Bookman Editora, 2009. 
+Ministerio da Educacao
 
-76 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+BOWERSOX, D. J. et al. **Gestão logística da cadeia de suprimentos** . AMGH Editora, 2013.
 
-## INSTITUTOFEDERAL Parana 
+CHOPRA, S, MEINDL, P. **Gestão da cadeia de suprimentos** : estratégia, planejamento e operações. 6. ed. São Paulo: Pearson, 2016. E-book (Biblioteca Virtual Pearson).
 
-BOWERSOX, D. J. et al. **Gestão logística da cadeia de suprimentos** . AMGH Editora, 2013. 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-CHOPRA, S, MEINDL, P. **Gestão da cadeia de suprimentos** : estratégia, planejamento e operações. 6. ed. São Paulo: Pearson, 2016. E-book (Biblioteca Virtual Pearson). 
+CHRISTOPHER, M. **Logística e gerenciamento da cadeia de suprimentos** : criando redes que agregam valor. São Paulo: Cengage Learning, 2010.
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+MENDES P. R. **Supply chian** : uma visão técnica e estratégica. São Paulo: Editora Blucher, 2023. E-book (Biblioteca Virtual Pearson).
 
-CHRISTOPHER, M. **Logística e gerenciamento da cadeia de suprimentos** : criando redes que agregam valor. São Paulo: Cengage Learning, 2010. 
+SIMCHI-LEVI, E.; SIMCHI-LEVI, D. **Cadeia de suprimentos projeto e gestão** : gestão estratégica e estudos de caso. 2. ed. Porto Alegre: Bookman, 2010.
 
-MENDES P. R. **Supply chian** : uma visão técnica e estratégica. São Paulo: Editora Blucher, 2023. E-book (Biblioteca Virtual Pearson). 
+TAYLOR, D. A. **Logística na cadeia de suprimentos** : uma perspectiva gerencial. São Paulo: Pearson Prentice-Hall, 2005. E-book (Biblioteca Virtual Pearson).
 
-SIMCHI-LEVI, E.; SIMCHI-LEVI, D. **Cadeia de suprimentos projeto e gestão** : gestão estratégica e estudos de caso. 2. ed. Porto Alegre: Bookman, 2010. 
+COMPONENTE CURRICULAR: **Optativa II**
 
-TAYLOR, D. A. **Logística na cadeia de suprimentos** : uma perspectiva gerencial. São Paulo: Pearson Prentice-Hall, 2005. E-book (Biblioteca Virtual Pearson). 
+CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio
 
-COMPONENTE CURRICULAR: **Optativa II** 
+EMENTA:
 
-CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio 
+BIBLIOGRAFIA  BÁSICA:
 
-EMENTA: 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-BIBLIOGRAFIA  BÁSICA: 
+COMPONENTE CURRICULAR: **Planejamento Estratégico**
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio
 
-COMPONENTE CURRICULAR: **Planejamento Estratégico** 
+## EMENTA:
 
-CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio 
+Introdução ao planejamento estratégico. Analisar e avaliar o ambiente interno e externo e formular objetivos e estratégias gerenciais. Processo do planejamento estratégico diagnóstico do
 
-## EMENTA: 
+77
 
-Introdução ao planejamento estratégico. Analisar e avaliar o ambiente interno e externo e formular objetivos e estratégias gerenciais. Processo do planejamento estratégico diagnóstico do 
+## INSTITUTOFEDERAL Parana
 
-77 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+ambiente, diretriz organizacional, formulação da estratégia, implementação da estratégia, controle estratégico. Abordagens estratégicas das organizações (terceirização, _joint venture_ , fusão, aquisição, alianças estratégicas, _downsizing_ e reengenharia). Ferramentas de Administração Estratégica (matriz SWOT, matriz BCG, matriz de Ansoff, 5 Forças de Porter, matriz GUT e _benchmarking_ ).
 
-Ministerio da Educacao 
+BIBLIOGRAFIA  BÁSICA:
 
-ambiente, diretriz organizacional, formulação da estratégia, implementação da estratégia, controle estratégico. Abordagens estratégicas das organizações (terceirização, _joint venture_ , fusão, aquisição, alianças estratégicas, _downsizing_ e reengenharia). Ferramentas de Administração Estratégica (matriz SWOT, matriz BCG, matriz de Ansoff, 5 Forças de Porter, matriz GUT e _benchmarking_ ). 
+CERTO, S. C. _et al._ **Administração estratégica:** planejamento e implantação de estratégias. 3. ed. São Paulo: Pearson, 2010. E-book (Biblioteca Virtual Pearson). HITT, M. A.; IRELAND, R. D.; HOSKISSON, R. E. **Administração estratégica:** competitividade e globalização. 3. ed. São Paulo: Cengage Learning, 2020. PORTER, M. E. **Estratégia competitiva:** técnicas para análise de indústrias e da concorrência. 2. ed. São Paulo: Gen/Atlas, 2005. BIBLIOGRAFIA COMPLEMENTAR:
 
-BIBLIOGRAFIA  BÁSICA: 
+BARNEY, J. B. **Administração estratégica e vantagem competitiva:** conceitos e casos. 5. ed. São Paulo: Pearson, 2017. E-book (Biblioteca Virtual Pearson).
 
-CERTO, S. C. _et al._ **Administração estratégica:** planejamento e implantação de estratégias. 3. ed. São Paulo: Pearson, 2010. E-book (Biblioteca Virtual Pearson). HITT, M. A.; IRELAND, R. D.; HOSKISSON, R. E. **Administração estratégica:** competitividade e globalização. 3. ed. São Paulo: Cengage Learning, 2020. PORTER, M. E. **Estratégia competitiva:** técnicas para análise de indústrias e da concorrência. 2. ed. São Paulo: Gen/Atlas, 2005. BIBLIOGRAFIA COMPLEMENTAR: 
+HARVARD BUSINESS REVIEW. **Lições de estratégia:** os melhores artigos da Harvard Business Review para criar vantagens competitivas e se destacar da concorrência. Rio de Janeiro: Sextante, 2020.
 
-BARNEY, J. B. **Administração estratégica e vantagem competitiva:** conceitos e casos. 5. ed. São Paulo: Pearson, 2017. E-book (Biblioteca Virtual Pearson). 
+NEUMANN, C. **Projeto de fábrica e layout.** Rio de Janeiro: Grupo Editorial Nacional, 2021. SERTEK, P.; MARTINS, T. S.; GUINDANI, R. A. **Administração e planejamento estratégico** . Curitiba: Editora Intersaberes, 2012. E-book (Biblioteca Virtual Pearson).
 
-HARVARD BUSINESS REVIEW. **Lições de estratégia:** os melhores artigos da Harvard Business Review para criar vantagens competitivas e se destacar da concorrência. Rio de Janeiro: Sextante, 2020. 
+COMPONENTE CURRICULAR: **Relato de Experiência Extensionista**
 
-NEUMANN, C. **Projeto de fábrica e layout.** Rio de Janeiro: Grupo Editorial Nacional, 2021. SERTEK, P.; MARTINS, T. S.; GUINDANI, R. A. **Administração e planejamento estratégico** . Curitiba: Editora Intersaberes, 2012. E-book (Biblioteca Virtual Pearson). 
+CARGA HORÁRIA TOTAL: 80 horas-aula / 60 horas-relógio
 
-COMPONENTE CURRICULAR: **Relato de Experiência Extensionista** 
+## EMENTA:
 
-CARGA HORÁRIA TOTAL: 80 horas-aula / 60 horas-relógio 
+Fundamentos da extensão e sua importância para a formação profissional e cidadã.  Elaboração, acompanhamento e sistematização de relatos de experiência extensionista. Registro  das ações desenvolvidas, procedimentos metodológicos, público envolvido e contribuições para a comunidade e para a formação discente. Reflexão crítica sobre o impacto das práticas
 
-## EMENTA: 
+78
 
-Fundamentos da extensão e sua importância para a formação profissional e cidadã.  Elaboração, acompanhamento e sistematização de relatos de experiência extensionista. Registro  das ações desenvolvidas, procedimentos metodológicos, público envolvido e contribuições para a comunidade e para a formação discente. Reflexão crítica sobre o impacto das práticas 
+## INSTITUTOFEDERAL
 
-78 
+Parana
 
-## INSTITUTOFEDERAL 
+Ministerio da Educacao
 
-Parana 
+extensionistas na sociedade e no processo formativo em tecnologia em processos gerenciais. BIBLIOGRAFIA  BÁSICA: FREIRE, Paulo. **Extensão ou comunicação?** 17. ed. São Paulo: Paz e Terra, 2015. BEAUD, Michel. **A arte da tese** : como elaborar trabalhos de pós-graduação, mestrado e doutorado. 3. ed. Rio de Janeiro: Edições BestBolso, 2021 SOUZA, Ana Luísa Lima. **A história da extensão universitária** . Campinas, SP: Editora Alínea, 2000 LISBOA FILHO, Flavia Ferreira. **Extensão universitária** : gestão, comunicação e desenvolvimento regional. – Santa Maria, RS : FACOS, 2022 E-book (Biblioteca Virtual UFSM) BIBLIOGRAFIA COMPLEMENTAR: TAVARES, C. A. R.; FREITAS, K. S. **Extensão universitária** : O patinho feio da academia? Jundiaí: Paco Editorial, 2016 GONÇALVES, Nádia Gaiofatto; QUIMELLI, Gisele Alves de Sá (Org.). **Princípios da extensão universitária** : contribuições para uma discussão necessária. Curitiba: Editora CRV, 2020. OLIVEIRA, Irlane Maia de; CHASSOT, Attico. **Saberes que sabem à extensão universitária.** Jundiaí: Paco e Littera, 2019 (Biblioteca Virtual Middleware)
 
-Ministerio da Educacao 
+## **COMPONENTES OPTATIVOS**
 
-extensionistas na sociedade e no processo formativo em tecnologia em processos gerenciais. BIBLIOGRAFIA  BÁSICA: FREIRE, Paulo. **Extensão ou comunicação?** 17. ed. São Paulo: Paz e Terra, 2015. BEAUD, Michel. **A arte da tese** : como elaborar trabalhos de pós-graduação, mestrado e doutorado. 3. ed. Rio de Janeiro: Edições BestBolso, 2021 SOUZA, Ana Luísa Lima. **A história da extensão universitária** . Campinas, SP: Editora Alínea, 2000 LISBOA FILHO, Flavia Ferreira. **Extensão universitária** : gestão, comunicação e desenvolvimento regional. – Santa Maria, RS : FACOS, 2022 E-book (Biblioteca Virtual UFSM) BIBLIOGRAFIA COMPLEMENTAR: TAVARES, C. A. R.; FREITAS, K. S. **Extensão universitária** : O patinho feio da academia? Jundiaí: Paco Editorial, 2016 GONÇALVES, Nádia Gaiofatto; QUIMELLI, Gisele Alves de Sá (Org.). **Princípios da extensão universitária** : contribuições para uma discussão necessária. Curitiba: Editora CRV, 2020. OLIVEIRA, Irlane Maia de; CHASSOT, Attico. **Saberes que sabem à extensão universitária.** Jundiaí: Paco e Littera, 2019 (Biblioteca Virtual Middleware) 
+COMPONENTE CURRICULAR: **Neurogestão: Aplicações da Neurociência na Gestão de Equipes**
 
-## **COMPONENTES OPTATIVOS** 
+CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio
 
-COMPONENTE CURRICULAR: **Neurogestão: Aplicações da Neurociência na Gestão de Equipes** 
+EMENTA: Como utilizar princípios da neurociência para motivar e engajar equipes. A influência dos processos cerebrais na produtividade e no comportamento organizacional. Estratégias de gestão para promover um ambiente de trabalho saudável, focado no bem-estar dos colaboradores. Neurociência da aprendizagem e do treinamento corporativo.
 
-CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio 
+79
 
-EMENTA: Como utilizar princípios da neurociência para motivar e engajar equipes. A influência dos processos cerebrais na produtividade e no comportamento organizacional. Estratégias de gestão para promover um ambiente de trabalho saudável, focado no bem-estar dos colaboradores. Neurociência da aprendizagem e do treinamento corporativo. 
+1[INSTITUTOFEDERAL] Parana
 
-79 
+## Ministerio da Educacao
 
-1[INSTITUTOFEDERAL] Parana 
+BIBLIOGRAFIA  BÁSICA: GOLDSTEIN, David; WALKER, L. L. **O cérebro corporativo** : como as neurociências estão transformando as organizações. São Paulo: Editora Senac, 2017. COSTA, Fernanda. **A neurociência da liderança** : como as descobertas do cérebro transformam a gestão. São Paulo: Editora Gente, 2020. DAMÁSIO, António. **Sentir e saber** : As origens da consciência. São Paulo: Companhia das Letras, 2012. DAMÁSIO, António. **O mistério da consciência** : em busca do cérebro que faz a mente. São Paulo: Companhia das Letras, 2007. BIBLIOGRAFIA COMPLEMENTAR: KANDEL, E. R.; SCHWARTZ, J. H.; JESSELL, T. M.; SIEGELBAUM, S. A.; HUDSPETH, A. J. **Princípios de neurociência** . 5. ed. Porto Alegre: AMGH, 2014. GOLDSMITH, M.; REITER, H. **Como mudar** : o poder da neurociência para transformar a liderança e as organizações. Rio de Janeiro: Campus, 2020. COLE, S. **Neurociência no trabalho** : como o cérebro influencia a produtividade e a inovação nas empresas. São Paulo: Saraiva, 2019.
 
-## Ministerio da Educacao 
+COMPONENTE CURRICULAR: **Filosofia e Ética no Mundo Corporativo**
 
-BIBLIOGRAFIA  BÁSICA: GOLDSTEIN, David; WALKER, L. L. **O cérebro corporativo** : como as neurociências estão transformando as organizações. São Paulo: Editora Senac, 2017. COSTA, Fernanda. **A neurociência da liderança** : como as descobertas do cérebro transformam a gestão. São Paulo: Editora Gente, 2020. DAMÁSIO, António. **Sentir e saber** : As origens da consciência. São Paulo: Companhia das Letras, 2012. DAMÁSIO, António. **O mistério da consciência** : em busca do cérebro que faz a mente. São Paulo: Companhia das Letras, 2007. BIBLIOGRAFIA COMPLEMENTAR: KANDEL, E. R.; SCHWARTZ, J. H.; JESSELL, T. M.; SIEGELBAUM, S. A.; HUDSPETH, A. J. **Princípios de neurociência** . 5. ed. Porto Alegre: AMGH, 2014. GOLDSMITH, M.; REITER, H. **Como mudar** : o poder da neurociência para transformar a liderança e as organizações. Rio de Janeiro: Campus, 2020. COLE, S. **Neurociência no trabalho** : como o cérebro influencia a produtividade e a inovação nas empresas. São Paulo: Saraiva, 2019. 
+CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio
 
-COMPONENTE CURRICULAR: **Filosofia e Ética no Mundo Corporativo** 
+EMENTA: Reflexões filosóficas sobre ética e responsabilidade social das organizações. Pensamento crítico e sua aplicação na resolução de problemas organizacionais. Filosofia existencialista e a busca por significado no trabalho. A ética na liderança e nas tomadas de decisão empresariais. Filosofia estoica.
 
-CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio 
+BIBLIOGRAFIA  BÁSICA:
 
-EMENTA: Reflexões filosóficas sobre ética e responsabilidade social das organizações. Pensamento crítico e sua aplicação na resolução de problemas organizacionais. Filosofia existencialista e a busca por significado no trabalho. A ética na liderança e nas tomadas de decisão empresariais. Filosofia estoica. 
+KANT, I. **Fundamentação da metafísica dos costumes** . 3. ed. São Paulo: Martins Fontes, 2009.
 
-BIBLIOGRAFIA  BÁSICA: 
+HOLIDAY, R. **O obstáculo é o caminho** : a arte milenar de transformar dificuldades em vantagem. São Paulo: Gente, 2018.
 
-KANT, I. **Fundamentação da metafísica dos costumes** . 3. ed. São Paulo: Martins Fontes, 2009. 
+CHAUÍ, M. **Convite à filosofia** . 17. ed. São Paulo: Ática, 2018.
 
-HOLIDAY, R. **O obstáculo é o caminho** : a arte milenar de transformar dificuldades em vantagem. São Paulo: Gente, 2018. 
+80
 
-CHAUÍ, M. **Convite à filosofia** . 17. ed. São Paulo: Ática, 2018. 
+## INSTITUTOFEDERAL
 
-80 
+## Parana
 
-## INSTITUTOFEDERAL 
+Ministerio da Educacao
 
-## Parana 
+SILVA, C. **Ética e responsabilidade social corporativa** . 2. ed. São Paulo: Atlas, 2018.
 
-Ministerio da Educacao 
+MARTINS, A. **Filosofia, ética e gestão** : reflexões para o mundo corporativo. Rio de Janeiro: Elsevier, 2017.
 
-SILVA, C. **Ética e responsabilidade social corporativa** . 2. ed. São Paulo: Atlas, 2018. 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-MARTINS, A. **Filosofia, ética e gestão** : reflexões para o mundo corporativo. Rio de Janeiro: Elsevier, 2017. 
+AURELIO, M. **Meditações** . 2. ed. São Paulo: L&PM, 2017.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+SÊNECA, L. A. **Cartas a Lucílio** . 1. ed. Rio de Janeiro: L&PM, 2016.
 
-AURELIO, M. **Meditações** . 2. ed. São Paulo: L&PM, 2017. 
+PIGA, S. **O que é filosofia?** . 5. ed. São Paulo: Editora Brasiliense, 2020.
 
-SÊNECA, L. A. **Cartas a Lucílio** . 1. ed. Rio de Janeiro: L&PM, 2016. 
+COMPONENTE CURRICULAR: **Atenção plena e Bem-Estar Organizacional**
 
-PIGA, S. **O que é filosofia?** . 5. ed. São Paulo: Editora Brasiliense, 2020. 
+CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio
 
-COMPONENTE CURRICULAR: **Atenção plena e Bem-Estar Organizacional** 
+EMENTA: Práticas de atenção plena para a redução do estresse e melhoria da concentração. A relação entre bem-estar emocional e desempenho no ambiente corporativo. Como a gestão do bem-estar impacta a retenção de talentos e o clima organizacional. Programas de saúde mental nas empresas: benefícios e implementação. BIBLIOGRAFIA  BÁSICA: HARVARD BUSINESS REVIEW. **As 10 lições essenciais da Harvard Business Review sobre inteligência emocional** . São Paulo: Editora Gente, 2018. HARVARD BUSINESS REVIEW. **As 10 lições essenciais da Harvard Business Review sobre bem-estar no trabalho** . São Paulo: Editora Gente, 2019. KABAT-ZINN, J. **Atenção plena** : como encontrar a paz em um mundo frenético. Rio de Janeiro: Sextante, 2018. SENGE, P. M. **A quinta disciplina** : a arte e prática da organização que aprende. 2. ed. São Paulo: Pioneira, 2018. GELLES, D. **Mindful work** : como a meditação está transformando os negócios de dentro para fora. São Paulo: Harvard Business Review, 2017. BIBLIOGRAFIA COMPLEMENTAR:
 
-CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio 
+HARVARD BUSINESS REVIEW. **As 10 lições essenciais da Harvard Business Review sobre gestão do estresse** . São Paulo: Editora Gente, 2020.
 
-EMENTA: Práticas de atenção plena para a redução do estresse e melhoria da concentração. A relação entre bem-estar emocional e desempenho no ambiente corporativo. Como a gestão do bem-estar impacta a retenção de talentos e o clima organizacional. Programas de saúde mental nas empresas: benefícios e implementação. BIBLIOGRAFIA  BÁSICA: HARVARD BUSINESS REVIEW. **As 10 lições essenciais da Harvard Business Review sobre inteligência emocional** . São Paulo: Editora Gente, 2018. HARVARD BUSINESS REVIEW. **As 10 lições essenciais da Harvard Business Review sobre bem-estar no trabalho** . São Paulo: Editora Gente, 2019. KABAT-ZINN, J. **Atenção plena** : como encontrar a paz em um mundo frenético. Rio de Janeiro: Sextante, 2018. SENGE, P. M. **A quinta disciplina** : a arte e prática da organização que aprende. 2. ed. São Paulo: Pioneira, 2018. GELLES, D. **Mindful work** : como a meditação está transformando os negócios de dentro para fora. São Paulo: Harvard Business Review, 2017. BIBLIOGRAFIA COMPLEMENTAR: 
+81
 
-HARVARD BUSINESS REVIEW. **As 10 lições essenciais da Harvard Business Review sobre gestão do estresse** . São Paulo: Editora Gente, 2020. 
+## INSTITUTOFEDERAL Parana
 
-81 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+NHAN, T. N. H. **Silêncio** : o poder da quietude em um mundo barulhento. Rio de Janeiro: Sextante, 2020.
 
-Ministerio da Educacao 
+FURINI, F. **Manual prático de mindfulness** : um programa de oito semanas para libertar você da depressão, da ansiedade e do estresse emocional. São Paulo: Gente, 2018.
 
-NHAN, T. N. H. **Silêncio** : o poder da quietude em um mundo barulhento. Rio de Janeiro: Sextante, 2020. 
+COMPONENTE CURRICULAR: **Psicologia Positiva nas Organizações**
 
-FURINI, F. **Manual prático de mindfulness** : um programa de oito semanas para libertar você da depressão, da ansiedade e do estresse emocional. São Paulo: Gente, 2018. 
+CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio
 
-COMPONENTE CURRICULAR: **Psicologia Positiva nas Organizações** 
+EMENTA: Fundamentos da psicologia positiva aplicados ao desenvolvimento organizacional. A importância da gratidão, resiliência e otimismo na construção de equipes de alto desempenho. Estratégias para cultivar uma cultura organizacional positiva e motivadora. Como as virtudes humanas podem ser incorporadas no ambiente de trabalho para melhorar o engajamento.
 
-CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio 
+BIBLIOGRAFIA  BÁSICA:
 
-EMENTA: Fundamentos da psicologia positiva aplicados ao desenvolvimento organizacional. A importância da gratidão, resiliência e otimismo na construção de equipes de alto desempenho. Estratégias para cultivar uma cultura organizacional positiva e motivadora. Como as virtudes humanas podem ser incorporadas no ambiente de trabalho para melhorar o engajamento. 
+CARR, A. **Psicologia positiva:** um guia para a prática **.** São Paulo: Loyola, 2020. SNYDER, C. R.; LOPEZ, S. J. **Manual de psicologia positiva.** Porto Alegre: Artmed, 2017. SIEGEL, D. J. **Mente e cérebro:** as neurociências da psicologia positiva. São Paulo: Cultrix, 2020. CHAMINÉ, S. **Psicologia positiva no trabalho:** aplicando a felicidade e o bem-estar nas organizações. São Paulo: Editora Gente, 2019. BIBLIOGRAFIA COMPLEMENTAR: GILBERT, P. **O poder da compaixão:** como cultivar o bem-estar emocional. Rio de Janeiro: Objetiva, 2019. KASHDAN, T. B.; FREDRICKSON, B. L. **A ciência do bem-estar:** as chaves para uma vida mais feliz. Rio de Janeiro: Record, 2021. LINLEY, P. A.; HARRISON, P. M.; WILSON, A.; HOGG, D. A. **Psicologia positiva aplicada:** técnicas para melhorar o bem-estar e o desempenho. Porto Alegre: Artmed, 2018.
 
-BIBLIOGRAFIA  BÁSICA: 
+82
 
-CARR, A. **Psicologia positiva:** um guia para a prática **.** São Paulo: Loyola, 2020. SNYDER, C. R.; LOPEZ, S. J. **Manual de psicologia positiva.** Porto Alegre: Artmed, 2017. SIEGEL, D. J. **Mente e cérebro:** as neurociências da psicologia positiva. São Paulo: Cultrix, 2020. CHAMINÉ, S. **Psicologia positiva no trabalho:** aplicando a felicidade e o bem-estar nas organizações. São Paulo: Editora Gente, 2019. BIBLIOGRAFIA COMPLEMENTAR: GILBERT, P. **O poder da compaixão:** como cultivar o bem-estar emocional. Rio de Janeiro: Objetiva, 2019. KASHDAN, T. B.; FREDRICKSON, B. L. **A ciência do bem-estar:** as chaves para uma vida mais feliz. Rio de Janeiro: Record, 2021. LINLEY, P. A.; HARRISON, P. M.; WILSON, A.; HOGG, D. A. **Psicologia positiva aplicada:** técnicas para melhorar o bem-estar e o desempenho. Porto Alegre: Artmed, 2018. 
+INSTITUTOFEDERAL Parana
 
-82 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+COMPONENTE CURRICULAR: **Libras** CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio EMENTA: Aspectos da Língua de Sinais e sua importância: cultura e história. Identidade surda. Introdução aos aspectos linguísticos na Língua Brasileira de sinais: fonologia, morfologia, sintaxe. Noções básicas de escrita de sinais. Processo de aquisição da Língua de Sinais observando as diferenças e similaridades existentes entre esta e a língua Portuguesa. BIBLIOGRAFIA  BÁSICA: BRASIL MEC/SEESP. Educação Especial - Língua Brasileira de Sinais (Série Atualidades Pedagógicas). Caderno 3. Brasília/DF. 1997. CAPOVILLA, F.; RAPHAEL, Walkíria Duarte. **Dicionário enciclopédico ilustrado trilíngue da língua de sinais** . São Paulo: Imprensa Oficial, 2001. QUADROS, Ronice Müller de. **Educação de surdos** : a aquisição da linguagem. Porto Alegre: Artes Médicas, 1997. SILVA, Rafael Dias (Org). **Língua brasileira de sinais:** libras **.** São Paulo: Pearson, 2015. E-book (Biblioteca Virtual Pearson). BIBLIOGRAFIA COMPLEMENTAR: QUADROS, Ronice Muller; KARNOPP, Lodenir. **Língua de sinais brasileira** : estudos linguísticos. Porto Alegre: Artmed, 2007. SACKS, Oliver W. **Vendo vozes** : uma viagem ao mundo dos surdos. São Paulo: Companhia das Letras, 2010. SKLIAR, Carlos (org.). **A surdez** : um olhar sobre a diferença. Porto Alegre: Mediação, 1998.
 
-Ministerio da Educacao 
+COMPONENTE CURRICULAR: **Bem-Estar Organizacional: Estratégias para um Ambiente de Trabalho Saudável e Produtivo** CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio EMENTA: Fundamentos científicos da humanização e do bem-estar, utilizando uma abordagem multidisciplinar que abrange psicologia positiva, neurociência, filosofia, sociologia e práticas cotidianas. Ferramentas e conhecimentos para aprimorar sua saúde mental, promover e
 
-COMPONENTE CURRICULAR: **Libras** CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio EMENTA: Aspectos da Língua de Sinais e sua importância: cultura e história. Identidade surda. Introdução aos aspectos linguísticos na Língua Brasileira de sinais: fonologia, morfologia, sintaxe. Noções básicas de escrita de sinais. Processo de aquisição da Língua de Sinais observando as diferenças e similaridades existentes entre esta e a língua Portuguesa. BIBLIOGRAFIA  BÁSICA: BRASIL MEC/SEESP. Educação Especial - Língua Brasileira de Sinais (Série Atualidades Pedagógicas). Caderno 3. Brasília/DF. 1997. CAPOVILLA, F.; RAPHAEL, Walkíria Duarte. **Dicionário enciclopédico ilustrado trilíngue da língua de sinais** . São Paulo: Imprensa Oficial, 2001. QUADROS, Ronice Müller de. **Educação de surdos** : a aquisição da linguagem. Porto Alegre: Artes Médicas, 1997. SILVA, Rafael Dias (Org). **Língua brasileira de sinais:** libras **.** São Paulo: Pearson, 2015. E-book (Biblioteca Virtual Pearson). BIBLIOGRAFIA COMPLEMENTAR: QUADROS, Ronice Muller; KARNOPP, Lodenir. **Língua de sinais brasileira** : estudos linguísticos. Porto Alegre: Artmed, 2007. SACKS, Oliver W. **Vendo vozes** : uma viagem ao mundo dos surdos. São Paulo: Companhia das Letras, 2010. SKLIAR, Carlos (org.). **A surdez** : um olhar sobre a diferença. Porto Alegre: Mediação, 1998. 
+83
 
-COMPONENTE CURRICULAR: **Bem-Estar Organizacional: Estratégias para um Ambiente de Trabalho Saudável e Produtivo** CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio EMENTA: Fundamentos científicos da humanização e do bem-estar, utilizando uma abordagem multidisciplinar que abrange psicologia positiva, neurociência, filosofia, sociologia e práticas cotidianas. Ferramentas e conhecimentos para aprimorar sua saúde mental, promover e 
+## INSTITUTOFEDERAL Parana
 
-83 
-
-## INSTITUTOFEDERAL Parana 
-
-Ministerio da Educacao 
+Ministerio da Educacao
 
 |INSTITUTOFEDERAL<br>Parana|INSTITUTOFEDERAL<br>Parana|INSTITUTOFEDERAL<br>Parana|INSTITUTOFEDERAL<br>Parana|INSTITUTOFEDERAL<br>Parana|Ministerio da Educacao|
 |---|---|---|---|---|---|
@@ -2092,757 +1983,737 @@ Ministerio da Educacao
 |COSTA, F.**O cérebro corporativo**: como a neurociência transforma a gestão empresarial. São|||||: como a neurociência transforma a gestão empresarial. São|
 |Paulo: Editora Senac, 2020.||||||
 
+COMPONENTE CURRICULAR: **Práticas Artísticas** CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio EMENTA: Práticas Artísticas em conjunto que incentivem a disseminação do interesse nas artes e propiciem aprimoramento das habilidades artísticas entre educandos do IFPR, contribuindo para a formação plena desses, além de fomentar o desenvolvimento das artes. BIBLIOGRAFIA  BÁSICA: DOURADO, H. A. **Dicionário de termos e expressões da música** . São Paulo: Editora 34, 2004. GRANJA, C. E. S. C. **Musicalizando a escola:** música, conhecimento e educação. São Paulo:
 
+84
 
-COMPONENTE CURRICULAR: **Práticas Artísticas** CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio EMENTA: Práticas Artísticas em conjunto que incentivem a disseminação do interesse nas artes e propiciem aprimoramento das habilidades artísticas entre educandos do IFPR, contribuindo para a formação plena desses, além de fomentar o desenvolvimento das artes. BIBLIOGRAFIA  BÁSICA: DOURADO, H. A. **Dicionário de termos e expressões da música** . São Paulo: Editora 34, 2004. GRANJA, C. E. S. C. **Musicalizando a escola:** música, conhecimento e educação. São Paulo: 
+## 1[INSTITUTOFEDERAL] Parana
 
-84 
+Ministerio da Educacao<br>
 
-## 1[INSTITUTOFEDERAL] Parana 
+Escrituras Editora, 2006. KRIEGER, E. **Descobrindo a música:** ideias para sala de aula. Porto Alegre: Sulina, 2005. SCHAFER; M. **O ouvido pensante** . São Paulo: Fundação Editora da Unesp, 1991. SCHELLING, F. W. **Filosofia da arte** . São Paulo: EDUSP 2007.
 
-**==> picture [83 x 10] intentionally omitted <==**
+BIBLIOGRAFIA COMPLEMENTAR:
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+ANNUZIATO, V. R. **Jogando com sons e brincando com a música II:** interagindo com a arte musical. São Paulo: Paulinas, 2003.
 
+BENNETT, R. **Elementos básicos da música** . Rio de Janeiro: Jorge Zahar, 1998.
 
-Escrituras Editora, 2006. KRIEGER, E. **Descobrindo a música:** ideias para sala de aula. Porto Alegre: Sulina, 2005. SCHAFER; M. **O ouvido pensante** . São Paulo: Fundação Editora da Unesp, 1991. SCHELLING, F. W. **Filosofia da arte** . São Paulo: EDUSP 2007. 
+FARIA, N. **A arte da improvisação para todos os instrumentos** . Rio de Janeiro: Lumiar Ed., 1991. GOHN, D. M. **Auto-aprendizagem musical:** Alternativas tecnológicas. São Paulo: Editora Annablume, 2003.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+COMPONENTE CURRICULAR: **Inteligência Artificial Aplicada aos Negócios**
 
-ANNUZIATO, V. R. **Jogando com sons e brincando com a música II:** interagindo com a arte musical. São Paulo: Paulinas, 2003. 
+CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio
 
-BENNETT, R. **Elementos básicos da música** . Rio de Janeiro: Jorge Zahar, 1998. 
+EMENTA: Introdução à Inteligência Artificial e seu impacto nos negócios. Principais aplicações da Inteligência Artificial no mundo empresarial. Ferramentas e tecnologias de Inteligência Artificial para negócios. IA e Análise de Dados para tomada de decisão. Ética, riscos e desafios da Inteligência Artificial nos negócios. Estudos de caso e aplicações práticas.
 
-FARIA, N. **A arte da improvisação para todos os instrumentos** . Rio de Janeiro: Lumiar Ed., 1991. GOHN, D. M. **Auto-aprendizagem musical:** Alternativas tecnológicas. São Paulo: Editora Annablume, 2003. 
+BIBLIOGRAFIA  BÁSICA:
 
-COMPONENTE CURRICULAR: **Inteligência Artificial Aplicada aos Negócios** 
+FLORES, M. J.; BESS, A. L. **Inteligência artificial aplicada a negócios** . Curitiba, PR: Intersaberes, 2023. E-book (Biblioteca Virtual Pearson).
 
-CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio 
+TEIXEIRA, F. **Inteligência artificial em marketing e vendas** : um guia para gestores de pequenas, médias e grandes empresas. Rio de Janeiro, RJ: Alta Books, 2021. FERNANDES, A. A.; COSTA, I.; ABREU, V. F. **Governança da inteligência artificial** : estrutura, desafios e práticas para organizações inovadoras. Brasport, 2025.
 
-EMENTA: Introdução à Inteligência Artificial e seu impacto nos negócios. Principais aplicações da Inteligência Artificial no mundo empresarial. Ferramentas e tecnologias de Inteligência Artificial para negócios. IA e Análise de Dados para tomada de decisão. Ética, riscos e desafios da Inteligência Artificial nos negócios. Estudos de caso e aplicações práticas. 
+85
 
-BIBLIOGRAFIA  BÁSICA: 
+## 1[INSTITUTOFEDERAL] Parana
 
-FLORES, M. J.; BESS, A. L. **Inteligência artificial aplicada a negócios** . Curitiba, PR: Intersaberes, 2023. E-book (Biblioteca Virtual Pearson). 
+Ministerio da Educacao
 
-TEIXEIRA, F. **Inteligência artificial em marketing e vendas** : um guia para gestores de pequenas, médias e grandes empresas. Rio de Janeiro, RJ: Alta Books, 2021. FERNANDES, A. A.; COSTA, I.; ABREU, V. F. **Governança da inteligência artificial** : estrutura, desafios e práticas para organizações inovadoras. Brasport, 2025. 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-85 
+CARRARO, F. **Inteligência artificial e ChatGPT** : da revolução dos modelos de IA generativa à engenharia de prompt. São Paulo: Casa do Código, 2023. E-book (Biblioteca Virtual Pearson).
 
-## 1[INSTITUTOFEDERAL] Parana 
+TAULLI, T. **Introdução à inteligência artificial** : uma abordagem não técnica. São Paulo: Novatec, 2020.
 
-Ministerio da Educacao 
+RUSSELL, S. J.; NORVIG, P. **Inteligência artificial** : uma abordagem moderna. Rio de Janeiro: GEN LTC, 2022.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+KNEUSEL, R. T. **Como a inteligência artificial funciona** : da magia à ciência. São Paulo: Novatec, 2024.
 
-CARRARO, F. **Inteligência artificial e ChatGPT** : da revolução dos modelos de IA generativa à engenharia de prompt. São Paulo: Casa do Código, 2023. E-book (Biblioteca Virtual Pearson). 
+COMPONENTE CURRICULAR: **Finanças Comportamentais**
 
-TAULLI, T. **Introdução à inteligência artificial** : uma abordagem não técnica. São Paulo: Novatec, 2020. 
+CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio EMENTA: Consumo e endividamento. Neuroeconomia. Vieses cognitivos e emocionais. Planejamento financeiro pessoal. Planejamento da aposentadoria e período sabático. Segur
 
-RUSSELL, S. J.; NORVIG, P. **Inteligência artificial** : uma abordagem moderna. Rio de Janeiro: GEN LTC, 2022. 
+BIBLIOGRAFIA  BÁSICA: CLASON, G. S. **O homem mais rico da Babilônia.** São Paulo: Buzz Editora, 2025. CERBASI, G. **Como organizar sua vida financeira.** Rio de Janeiro: Editora Sextante, 2015. HOUSEL, M. **A psicologia financeira:** lições atemporais sobre fortuna, ganância e felicidade. São Paulo: HarperCollins Brasil, 2021. KIYOSAKI, R. T. **Pai rico, pai pobre:** o que os ricos ensinam a seus filhos sobre dinheiro. Rio de Janeiro: Alta Books, 2018. BIBLIOGRAFIA COMPLEMENTAR: ARIELY, D.; KREISLER, J. **A psicologia do dinheiro:** descubra como as emoções influenciam nossas escolhas financeiras e aprenda a tomar decisões mais inteligentes. Rio de Janeiro: Sextante, 2019. BRUNET, T. **Dinheiro é emocional:** saúde emocional para ter paz financeira. São Paulo: Buzz Editora, 2025. LEMOS, F. **Dinheiro:** modo de usar. São Paulo: Benvirá, 2020.
 
-KNEUSEL, R. T. **Como a inteligência artificial funciona** : da magia à ciência. São Paulo: Novatec, 2024. 
+86
 
-COMPONENTE CURRICULAR: **Finanças Comportamentais** 
+INSTITUTOFEDERAL Parana
 
-CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio EMENTA: Consumo e endividamento. Neuroeconomia. Vieses cognitivos e emocionais. Planejamento financeiro pessoal. Planejamento da aposentadoria e período sabático. Segur 
+Ministerio da Educacao
 
-BIBLIOGRAFIA  BÁSICA: CLASON, G. S. **O homem mais rico da Babilônia.** São Paulo: Buzz Editora, 2025. CERBASI, G. **Como organizar sua vida financeira.** Rio de Janeiro: Editora Sextante, 2015. HOUSEL, M. **A psicologia financeira:** lições atemporais sobre fortuna, ganância e felicidade. São Paulo: HarperCollins Brasil, 2021. KIYOSAKI, R. T. **Pai rico, pai pobre:** o que os ricos ensinam a seus filhos sobre dinheiro. Rio de Janeiro: Alta Books, 2018. BIBLIOGRAFIA COMPLEMENTAR: ARIELY, D.; KREISLER, J. **A psicologia do dinheiro:** descubra como as emoções influenciam nossas escolhas financeiras e aprenda a tomar decisões mais inteligentes. Rio de Janeiro: Sextante, 2019. BRUNET, T. **Dinheiro é emocional:** saúde emocional para ter paz financeira. São Paulo: Buzz Editora, 2025. LEMOS, F. **Dinheiro:** modo de usar. São Paulo: Benvirá, 2020. 
+COMPONENTE CURRICULAR: Práticas **ESG (Environment, Social, and Governance) e suas implicações para a gestão das organizações**
 
-86 
+CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio
 
-INSTITUTOFEDERAL Parana 
+EMENTA: Conceito de ESG (Environmental, Social, and Governance). Origem histórico e evolução do conceito. Relação entre ESG e os conceitos de sustentabilidade e desempenho socioambiental. Práticas de ESG nas organizações. Relação entre as práticas ESG e o desempenho financeiro. Mensuração e divulgação do desempenho ESG .
 
-Ministerio da Educacao 
+BIBLIOGRAFIA  BÁSICA: BARSANO, P. R. **Gestão ambiental.** São Paulo Erica 2015. DALLABRIDA, V. R. (Org). **Governança territorial e desenvolvimento:** descentralização político-administrativa, estruturas subnacionais de gestão do desenvolvimento e capacidades estatais **.** Rio de Janeiro: Garamond, 2011. NASCIMENTO, L. F.; LEMOS, Â. D. C.; MELLO, M. C. A.. **Gestão socioambiental estratégica** . Porto Alegre: Bookman, 2008. TACHIZAWA, T. **Gestão socioambiental:** estratégias na nova era da sustentabilidade. 2. ed. Rio de Janeiro: Elsevier, 2012. BIBLIOGRAFIA COMPLEMENTAR: GRAINGER-BROWN, J.; MALEKPOUR, S. Implementing the sustainable development goals: a review of strategic tools and frameworks available to organisations. **Sustainability** , v. 11, n. 5, p. 1381, 20 HERRERO, L. A. R.; PINILLA, A. M.; ALFÉREZ, C. E. G. La integración de la sostenibilidad a través de la estrategia ESG: una guía de creación de valor para inversores y empresas. In: **Manual de finanzas sostenibles** : un enfoque multidisciplinar. Fundación MAPFRE, 2021. p. 11-46. KRAEMER, M. E. P. Responsabilidade social corporativa: uma contribuição das empresas para o desenvolvimento sustentável. **Revista Eletrônica de Ciência Administrativa** , v. 4, n. 1, p. 1-50, 2005.
 
-COMPONENTE CURRICULAR: Práticas **ESG (Environment, Social, and Governance) e suas implicações para a gestão das organizações** 
+COMPONENTE CURRICULAR: **Teoria da cultura do consumidor**
 
-CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio 
+CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio
 
-EMENTA: Conceito de ESG (Environmental, Social, and Governance). Origem histórico e evolução do conceito. Relação entre ESG e os conceitos de sustentabilidade e desempenho socioambiental. Práticas de ESG nas organizações. Relação entre as práticas ESG e o desempenho financeiro. Mensuração e divulgação do desempenho ESG . 
+87
 
-BIBLIOGRAFIA  BÁSICA: BARSANO, P. R. **Gestão ambiental.** São Paulo Erica 2015. DALLABRIDA, V. R. (Org). **Governança territorial e desenvolvimento:** descentralização político-administrativa, estruturas subnacionais de gestão do desenvolvimento e capacidades estatais **.** Rio de Janeiro: Garamond, 2011. NASCIMENTO, L. F.; LEMOS, Â. D. C.; MELLO, M. C. A.. **Gestão socioambiental estratégica** . Porto Alegre: Bookman, 2008. TACHIZAWA, T. **Gestão socioambiental:** estratégias na nova era da sustentabilidade. 2. ed. Rio de Janeiro: Elsevier, 2012. BIBLIOGRAFIA COMPLEMENTAR: GRAINGER-BROWN, J.; MALEKPOUR, S. Implementing the sustainable development goals: a review of strategic tools and frameworks available to organisations. **Sustainability** , v. 11, n. 5, p. 1381, 20 HERRERO, L. A. R.; PINILLA, A. M.; ALFÉREZ, C. E. G. La integración de la sostenibilidad a través de la estrategia ESG: una guía de creación de valor para inversores y empresas. In: **Manual de finanzas sostenibles** : un enfoque multidisciplinar. Fundación MAPFRE, 2021. p. 11-46. KRAEMER, M. E. P. Responsabilidade social corporativa: uma contribuição das empresas para o desenvolvimento sustentável. **Revista Eletrônica de Ciência Administrativa** , v. 4, n. 1, p. 1-50, 2005. 
+## INSTITUTOFEDERAL Parana
 
-COMPONENTE CURRICULAR: **Teoria da cultura do consumidor** 
+Ministerio da Educacao
 
-CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio 
+EMENTA: Comportamento do consumidor. Cultura e subcultura de consumo. Consumo simbólico. Hiperconsumo. Extensão do self. Marketing crítico. BIBLIOGRAFIA  BÁSICA: FONTENELLE, I. A. **Cultura do consumo:** fundamentos e formas contemporâneas. Rio de Janeiro: FGV Editora, 2017. MCCRACKEN, G. **Cultura & Consumo** : novas abordagens ao caráter simbólico dos bens e das atividades de consumo. Rio de Janeiro: MAUAD, 2010. MCCRACKEN, G. _**C**_ **ultura & Consumo II:** mercados, significados e gerenciamento de marcas. Rio de Janeiro: MAUAD, 2012. PINTO, M. R.; BATINGA, G. L. (orgs.). **Cultura e consumo no Brasil:** estado atual e novas perspectivas. Belo Horizonte: PUC Minas, 2018. BIBLIOGRAFIA COMPLEMENTAR: BRONDINO-POMPEO, K.; CARVALHO, I. C. M.; ABDALLA, C. C. (orgs.). **Aspectos culturais do consumo:** fundamentos, fronteiras e aplicações. Belo Horizonte: Pimenta Cultural, 2022. LIPOVETSKY, G. **Agradar e tocar:** ensaio sobre a sociedade da sedução. São Paulo: Manole, 2019. LIPOVETSKY, G.; SERROY, J. **A estetização do mundo:** viver na era do capitalismo artista. São Paulo: Companhia das Letras, 2015.
 
-87 
+COMPONENTE CURRICULAR: **Sistemas gerenciais**
 
-## INSTITUTOFEDERAL Parana 
+CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio
 
-Ministerio da Educacao 
+EMENTA:
 
-EMENTA: Comportamento do consumidor. Cultura e subcultura de consumo. Consumo simbólico. Hiperconsumo. Extensão do self. Marketing crítico. BIBLIOGRAFIA  BÁSICA: FONTENELLE, I. A. **Cultura do consumo:** fundamentos e formas contemporâneas. Rio de Janeiro: FGV Editora, 2017. MCCRACKEN, G. **Cultura & Consumo** : novas abordagens ao caráter simbólico dos bens e das atividades de consumo. Rio de Janeiro: MAUAD, 2010. MCCRACKEN, G. _**C**_ **ultura & Consumo II:** mercados, significados e gerenciamento de marcas. Rio de Janeiro: MAUAD, 2012. PINTO, M. R.; BATINGA, G. L. (orgs.). **Cultura e consumo no Brasil:** estado atual e novas perspectivas. Belo Horizonte: PUC Minas, 2018. BIBLIOGRAFIA COMPLEMENTAR: BRONDINO-POMPEO, K.; CARVALHO, I. C. M.; ABDALLA, C. C. (orgs.). **Aspectos culturais do consumo:** fundamentos, fronteiras e aplicações. Belo Horizonte: Pimenta Cultural, 2022. LIPOVETSKY, G. **Agradar e tocar:** ensaio sobre a sociedade da sedução. São Paulo: Manole, 2019. LIPOVETSKY, G.; SERROY, J. **A estetização do mundo:** viver na era do capitalismo artista. São Paulo: Companhia das Letras, 2015. 
+A empresa na era da informação. Vantagem competitiva. Sistemas empresariais Básicos. Sistemas de Informação Gerencial. Sistemas de Apoio à Decisão. Tecnologias Atuais em Sistemas de Informação. BIBLIOGRAFIA  BÁSICA:
 
-COMPONENTE CURRICULAR: **Sistemas gerenciais** 
+GORDON, Steven R. GORDON, Judith, R. **Sistemas de informação:** uma abordagem gerencial. 3 ed. Rio de Janeiro: LTC, 2011.
 
-CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio 
+88
 
-EMENTA: 
+## INSTITUTOFEDERAL Parana
 
-A empresa na era da informação. Vantagem competitiva. Sistemas empresariais Básicos. Sistemas de Informação Gerencial. Sistemas de Apoio à Decisão. Tecnologias Atuais em Sistemas de Informação. BIBLIOGRAFIA  BÁSICA: 
+Ministerio da Educacao
 
-GORDON, Steven R. GORDON, Judith, R. **Sistemas de informação:** uma abordagem gerencial. 3 ed. Rio de Janeiro: LTC, 2011. 
+LAUDON, Kenneth C. LAUDON, Jane P. **Sistemas de informação gerenciais:** administrando a empresa digital. 17. ed. São Paulo: Prentice Hall, 2023. E-book (Biblioteca Virtual Pearson). O’BRIEN, James A. **Sistemas de informação:** e as decisões gerenciais na era da internet. São Paulo: Saraiva, 2003. STAIR, Ralph M. REYNOLDS, George W. **Princípios de sistemas de informação.** 9. ed. São Paulo: LTC, 2011.
 
-88 
+BIBLIOGRAFIA COMPLEMENTAR: TURBAN, Efraim. **Administração da tecnologia da informação.** 3. ed. Rio de Janeiro: Editora CAMPUS, 2008 CASSARRO, Antonio Carlos. **Sistemas de informações para tomada de decisões.** 4. ed. São Paulo: Cengage Learning, 2010. HABERKORN, Ernesto. **Teoria do ERP:** enterprise resource planning. 2. ed. São Paulo: Makron Books, 1999.
 
-## INSTITUTOFEDERAL Parana 
+COMPONENTE CURRICULAR: **Educação Financeira**
 
-Ministerio da Educacao 
+CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio
 
-LAUDON, Kenneth C. LAUDON, Jane P. **Sistemas de informação gerenciais:** administrando a empresa digital. 17. ed. São Paulo: Prentice Hall, 2023. E-book (Biblioteca Virtual Pearson). O’BRIEN, James A. **Sistemas de informação:** e as decisões gerenciais na era da internet. São Paulo: Saraiva, 2003. STAIR, Ralph M. REYNOLDS, George W. **Princípios de sistemas de informação.** 9. ed. São Paulo: LTC, 2011. 
+EMENTA: Conceitos fundamentais: dinheiro, consumo, orçamento, planejamento financeiro pessoal. Orçamento Pessoal e Familiar (Renda, despesas fixas e variáveis / Planejamento de curto, médio e longo prazo / Controle de gastos e elaboração de planilhas orçamentárias). Endividamento e Crédito (Tipos de crédito: pessoal, consignado, rotativo, financiamentos). Poupança e Investimentos Iniciais (Diferença entre poupar e investir / Conceitos básicos: rentabilidade, risco, liquidez e prazo / Produtos financeiros básicos: poupança, CDB, Tesouro Direto, fundos, etc.). Previdência e Planejamento de Futuro (Planejamento financeiro para a aposentadoria / Importância da reserva de emergência). BIBLIOGRAFIA  BÁSICA: BANCO CENTRAL DO BRASIL. **Caderno de educação financeira:** gestão de finanças pessoais. Brasília: BCB, 2013. CERBASI, G. **Adeus, aposentadoria** : como garantir seu futuro sem depender dos outros. Rio de Janeiro: Sextante, 2014. CERBASI, G. **Como organizar sua vida financeira.** Rio de Janeiro: Sextante, 2015.
 
-BIBLIOGRAFIA COMPLEMENTAR: TURBAN, Efraim. **Administração da tecnologia da informação.** 3. ed. Rio de Janeiro: Editora CAMPUS, 2008 CASSARRO, Antonio Carlos. **Sistemas de informações para tomada de decisões.** 4. ed. São Paulo: Cengage Learning, 2010. HABERKORN, Ernesto. **Teoria do ERP:** enterprise resource planning. 2. ed. São Paulo: Makron Books, 1999. 
+89
 
-COMPONENTE CURRICULAR: **Educação Financeira** 
+## 1[INSTITUTOFEDERAL] Parana
 
-CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio 
+Ministerio da Educacao
 
-EMENTA: Conceitos fundamentais: dinheiro, consumo, orçamento, planejamento financeiro pessoal. Orçamento Pessoal e Familiar (Renda, despesas fixas e variáveis / Planejamento de curto, médio e longo prazo / Controle de gastos e elaboração de planilhas orçamentárias). Endividamento e Crédito (Tipos de crédito: pessoal, consignado, rotativo, financiamentos). Poupança e Investimentos Iniciais (Diferença entre poupar e investir / Conceitos básicos: rentabilidade, risco, liquidez e prazo / Produtos financeiros básicos: poupança, CDB, Tesouro Direto, fundos, etc.). Previdência e Planejamento de Futuro (Planejamento financeiro para a aposentadoria / Importância da reserva de emergência). BIBLIOGRAFIA  BÁSICA: BANCO CENTRAL DO BRASIL. **Caderno de educação financeira:** gestão de finanças pessoais. Brasília: BCB, 2013. CERBASI, G. **Adeus, aposentadoria** : como garantir seu futuro sem depender dos outros. Rio de Janeiro: Sextante, 2014. CERBASI, G. **Como organizar sua vida financeira.** Rio de Janeiro: Sextante, 2015. 
+CERBASI, G. **Investimentos inteligentes.** Rio de Janeiro: Sextante, 2019.
 
-89 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-## 1[INSTITUTOFEDERAL] Parana 
+BUAES, C. S. **Caderno de educação financeira:** viver bem com o dinheiro que se tem. Goiânia: Cegraf UFG, 2021.
 
-Ministerio da Educacao 
+RAMSEY, D. **A transformação total do seu dinheiro** : um plano eficaz para alcançar o bem-estar financeiro. Campinas: Auster, 2021.
 
-CERBASI, G. **Investimentos inteligentes.** Rio de Janeiro: Sextante, 2019. 
+KIYOSAKI, R. T. **Pai rico, pai pobre:** o que os ricos ensinam a seus filhos sobre dinheiro. Rio de Janeiro: Alta Books, 2018.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+COMPONENTE CURRICULAR: **Cidadania e Direitos Humanos** CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio EMENTA: Aspectos filosóficos, históricos, jurídicos, políticos e sociais dos direitos humanos. A Declaração Universal dos Direitos Humanos e a Constituição Brasileira de 1988. Direitos Humanos no Brasil: atualidade e desafios. Afirmação histórica dos direitos humanos. Universalismo e multiculturalismo. Cidadania e diversidade cultural. Fundamentação e inversão ideológica dos direitos humanos. Direito internacional dos direitos humanos e seus sistemas de proteção global e regional. Reconhecimento intercultural e políticas públicas em direitos humanos. BIBLIOGRAFIA  BÁSICA: ALMEIDA, F. **Teoria geral dos direitos humanos** . Porto Alegre: Sérgio Fabris Editor. 1996 BAZÍLIO, L. **Infância, educação e direitos humanos** . São Paulo: Cortez, 2003. BOBBIO, Norberto. **A era dos direitos.** Rio de Janeiro: Campus, 1992. COMPARATO, Fábio Konder. **A afirmação histórica dos direitos humanos.** 3. ed. São Paulo: Saraiva, 2008. DALLARI, D. **Direitos humanos:** histórico, conceito e classificação. São Paulo: Comissão de Justiça e Paz, 1995. DORNELLES, J. **O que são direitos humanos** . São Paulo: Brasiliense, 1989 SANTOS, Boaventura de Sousa. **Se Deus fosse um activista dos direitos humanos.** Coimbra: Ed. Almedina. 2013.
 
-BUAES, C. S. **Caderno de educação financeira:** viver bem com o dinheiro que se tem. Goiânia: Cegraf UFG, 2021. 
-
-RAMSEY, D. **A transformação total do seu dinheiro** : um plano eficaz para alcançar o bem-estar financeiro. Campinas: Auster, 2021. 
-
-KIYOSAKI, R. T. **Pai rico, pai pobre:** o que os ricos ensinam a seus filhos sobre dinheiro. Rio de Janeiro: Alta Books, 2018. 
-
-COMPONENTE CURRICULAR: **Cidadania e Direitos Humanos** CARGA HORÁRIA TOTAL: 40 horas-aula / 30 horas-relógio EMENTA: Aspectos filosóficos, históricos, jurídicos, políticos e sociais dos direitos humanos. A Declaração Universal dos Direitos Humanos e a Constituição Brasileira de 1988. Direitos Humanos no Brasil: atualidade e desafios. Afirmação histórica dos direitos humanos. Universalismo e multiculturalismo. Cidadania e diversidade cultural. Fundamentação e inversão ideológica dos direitos humanos. Direito internacional dos direitos humanos e seus sistemas de proteção global e regional. Reconhecimento intercultural e políticas públicas em direitos humanos. BIBLIOGRAFIA  BÁSICA: ALMEIDA, F. **Teoria geral dos direitos humanos** . Porto Alegre: Sérgio Fabris Editor. 1996 BAZÍLIO, L. **Infância, educação e direitos humanos** . São Paulo: Cortez, 2003. BOBBIO, Norberto. **A era dos direitos.** Rio de Janeiro: Campus, 1992. COMPARATO, Fábio Konder. **A afirmação histórica dos direitos humanos.** 3. ed. São Paulo: Saraiva, 2008. DALLARI, D. **Direitos humanos:** histórico, conceito e classificação. São Paulo: Comissão de Justiça e Paz, 1995. DORNELLES, J. **O que são direitos humanos** . São Paulo: Brasiliense, 1989 SANTOS, Boaventura de Sousa. **Se Deus fosse um activista dos direitos humanos.** Coimbra: Ed. Almedina. 2013. 
-
-90 
+90
 
 |INSTITUTOFEDERAL||
 |---|---|
 |Parana|Ministerio da Educacao|
 
+_HUNT, Lynn._ **A invenção dos direitos humanos:** uma história. São Paulo: Companhia das Letras, 2009.
 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-_HUNT, Lynn._ **A invenção dos direitos humanos:** uma história. São Paulo: Companhia das Letras, 2009. 
+HABERMAS, Jürgen. Direito e Democracia. Entre Faticidade e Validade. Tradução de Flávio PINSKY, Carla Bassanezi,PINKY, PINSKY, Jaime. História da Cidadania. São Paulo: Contexto, 2003.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+## 4.3 AVALIAÇÃO
 
-HABERMAS, Jürgen. Direito e Democracia. Entre Faticidade e Validade. Tradução de Flávio PINSKY, Carla Bassanezi,PINKY, PINSKY, Jaime. História da Cidadania. São Paulo: Contexto, 2003. 
+## **4.3.1 Avaliação da Aprendizagem**
 
-## 4.3 AVALIAÇÃO 
+A avaliação será concebida como diagnóstica, contínua, inclusiva, processual e formativa por meio da utilização de instrumentos diversificados. A complexidade do ato de avaliar transformou-se em um dos maiores desafios do sistema educacional, principalmente na Educação Profissional. A esse respeito muito se tem falado e escrito, porém, o processo de avaliação está intrinsecamente ligado ao grau de excelência que se necessita. Isto significa que as formas de avaliação a serem utilizadas deverão comprovar os objetivos alcançados pelo aluno durante o processo ensino-aprendizagem, o que inclui a capacidade de transferir conhecimentos, habilidades e atitudes frente a novas situações no contexto da vida e/ou exercício profissional. O desempenho dos educandos será avaliado de maneira ampla, contínua, gradual, cooperativa e cumulativa, prevalecendo os aspectos qualitativos sobre os quantitativos e também os resultados obtidos ao longo do processo de aprendizagem. A verificação da apropriação dos objetivos propostos nos componentes curriculares será feita de forma diversificada, por meio de provas escritas, orais e práticas, trabalhos de pesquisa, projetos interdisciplinares, seminários, relatórios de atividades, exercícios, aulas práticas, monografia, observação, resolução de situações problemas, autoavaliação e outros, a fim de atender às peculiaridades dos estudantes e de oportunizar uma avaliação adequada aos diferentes objetivos. Deverão ser priorizados
 
-## **4.3.1 Avaliação da Aprendizagem** 
+91
 
-A avaliação será concebida como diagnóstica, contínua, inclusiva, processual e formativa por meio da utilização de instrumentos diversificados. A complexidade do ato de avaliar transformou-se em um dos maiores desafios do sistema educacional, principalmente na Educação Profissional. A esse respeito muito se tem falado e escrito, porém, o processo de avaliação está intrinsecamente ligado ao grau de excelência que se necessita. Isto significa que as formas de avaliação a serem utilizadas deverão comprovar os objetivos alcançados pelo aluno durante o processo ensino-aprendizagem, o que inclui a capacidade de transferir conhecimentos, habilidades e atitudes frente a novas situações no contexto da vida e/ou exercício profissional. O desempenho dos educandos será avaliado de maneira ampla, contínua, gradual, cooperativa e cumulativa, prevalecendo os aspectos qualitativos sobre os quantitativos e também os resultados obtidos ao longo do processo de aprendizagem. A verificação da apropriação dos objetivos propostos nos componentes curriculares será feita de forma diversificada, por meio de provas escritas, orais e práticas, trabalhos de pesquisa, projetos interdisciplinares, seminários, relatórios de atividades, exercícios, aulas práticas, monografia, observação, resolução de situações problemas, autoavaliação e outros, a fim de atender às peculiaridades dos estudantes e de oportunizar uma avaliação adequada aos diferentes objetivos. Deverão ser priorizados 
+## INSTITUTOFEDERAL Parana
 
-91 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+instrumentos de avaliação estimuladores da autonomia na aprendizagem, que envolvam atividades realizadas individualmente e em grupo e forneçam indicadores da aplicação no contexto profissional dos objetivos adquiridos. A Resolução nº 50/2017 do Instituto Federal do Paraná, que dispõe sobre a Organização Didático-Pedagógica da Educação Superior no âmbito do IFPR, estabelece diretrizes importantes para a avaliação da aprendizagem.
 
-Ministerio da Educacao 
+De acordo com os artigo 15 a 17:
 
-instrumentos de avaliação estimuladores da autonomia na aprendizagem, que envolvam atividades realizadas individualmente e em grupo e forneçam indicadores da aplicação no contexto profissional dos objetivos adquiridos. A Resolução nº 50/2017 do Instituto Federal do Paraná, que dispõe sobre a Organização Didático-Pedagógica da Educação Superior no âmbito do IFPR, estabelece diretrizes importantes para a avaliação da aprendizagem. 
+a) a avaliação dos componentes curriculares serão expressos por conceitos, sendo:
 
-De acordo com os artigo 15 a 17: 
+I – conceito A – quando a aprendizagem do estudante for PLENA e atingir os objetivos, conforme critérios propostos no plano de ensino;
 
-a) a avaliação dos componentes curriculares serão expressos por conceitos, sendo: 
+II – conceito B – quando a aprendizagem do estudante for PARCIALMENTE PLENA  e atingir os objetivos, conforme critérios propostos no plano de ensino;
 
-I – conceito A – quando a aprendizagem do estudante for PLENA e atingir os objetivos, conforme critérios propostos no plano de ensino; 
+III – conceito C – quando a aprendizagem do estudante for SUFICIENTE e atingir os objetivos, conforme critérios propostos no plano de ensino;
 
-II – conceito B – quando a aprendizagem do estudante for PARCIALMENTE PLENA  e atingir os objetivos, conforme critérios propostos no plano de ensino; 
+IV – conceito D – quando a aprendizagem do estudante for INSUFICIENTE e não atingir os objetivos, conforme critérios propostos no plano de ensino.
 
-III – conceito C – quando a aprendizagem do estudante for SUFICIENTE e atingir os objetivos, conforme critérios propostos no plano de ensino; 
+b)  aprovação dos estudantes ocorrerá considerando os seguintes critérios:
 
-IV – conceito D – quando a aprendizagem do estudante for INSUFICIENTE e não atingir os objetivos, conforme critérios propostos no plano de ensino. 
+I – obtenção de conceito A, B ou C na disciplina/ unidade curricular/ componente curricular/ área e frequência igual ou superior a 75% (setenta e cinco por cento) da carga horária total no período letivo dos cursos técnicos de nível médio;
 
-b)  aprovação dos estudantes ocorrerá considerando os seguintes critérios: 
+II – obtenção de conceito A, B ou C na disciplina/ unidade curricular/ componente curricular/ área e frequência igual ou superior a 75% (setenta e cinco por cento) da carga horária total na disciplina/ unidade curricular/ componente curricular/ área dos cursos de graduação, de pós-graduação e de qualificação profissional.
 
-I – obtenção de conceito A, B ou C na disciplina/ unidade curricular/ componente curricular/ área e frequência igual ou superior a 75% (setenta e cinco por cento) da carga horária total no período letivo dos cursos técnicos de nível médio; 
+92
 
-II – obtenção de conceito A, B ou C na disciplina/ unidade curricular/ componente curricular/ área e frequência igual ou superior a 75% (setenta e cinco por cento) da carga horária total na disciplina/ unidade curricular/ componente curricular/ área dos cursos de graduação, de pós-graduação e de qualificação profissional. 
+## INSTITUTOFEDERAL Parana
 
-92 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+As avaliações e estudos de recuperação são de responsabilidade do professor, respeitada a autonomia didático/metodológica para definir quais os instrumentos mais adequados a serem utilizados para sanar as lacunas de aprendizagem. A recuperação paralela será oferecida aos estudantes que apresentarem dificuldades, através de atividades diversificadas, tais como: roteiro de estudos, participação de projetos de reforço e de nivelamento, revisão dos conteúdos, entre outras.
 
-Ministerio da Educacao 
+O estudante deverá obter conceito igual ou superior a C no conjunto das atividades definidas no Plano de Ensino e frequência igual ou superior a 75% (setenta e cinco por cento) do componente curricular para ser aprovado, de acordo com o Art. 91 da Resolução nº 55/2011. Será considerado REPROVADO quando não atingir o conceito igual ou superior a C e ou frequência igual ou superior a 75% (setenta e cinco por cento) no componente curricular ao final do período letivo, ficando em dependência nesse componente curricular, podendo avançar para o semestre ou série seguinte, conforme Art. 102 da Resolução nº 55/2011. Com isso, mesmo que o estudante tenha reprovação(ões) pendente(s) em componentes curriculares, terá direito à progressão parcial.
 
-As avaliações e estudos de recuperação são de responsabilidade do professor, respeitada a autonomia didático/metodológica para definir quais os instrumentos mais adequados a serem utilizados para sanar as lacunas de aprendizagem. A recuperação paralela será oferecida aos estudantes que apresentarem dificuldades, através de atividades diversificadas, tais como: roteiro de estudos, participação de projetos de reforço e de nivelamento, revisão dos conteúdos, entre outras. 
+A integralização dos componentes curriculares em regime de dependência é requisito indispensável para a obtenção do diploma. A oferta desses componentes, a cargo da instituição, poderá ocorrer de forma presencial ou supervisionada, a critério do docente responsável, observando-se a legislação vigente, em consonância com o Art. 103 da Resolução nº 55/2011. Adicionalmente, o curso poderá implementar estratégias para a criação de turmas especiais destinadas ao cumprimento dos componentes curriculares em regime de dependência, utilizando recursos como a alocação de carga horária durante o período de férias docentes, a programação de horários alternativos ao curso regular e a utilização de sábados letivos, entre outras alternativas. Estudantes em processo de adaptação curricular, seja por transferência ou em decorrência de mudança na matriz curricular, serão alocados no período letivo mais adequado ao seu percurso acadêmico. Ademais, é assegurado o regime domiciliar de estudos e a frequência correspondente aos estudantes em licença-maternidade ou em situações de saúde que impossibilitem a sua participação nas atividades acadêmicas presenciais, por um período mínimo de quinze dias úteis, em conformidade com os Arts. 94 e 96 da Resolução nº 55/2011.
 
-O estudante deverá obter conceito igual ou superior a C no conjunto das atividades definidas no Plano de Ensino e frequência igual ou superior a 75% (setenta e cinco por cento) do componente curricular para ser aprovado, de acordo com o Art. 91 da Resolução nº 55/2011. Será considerado REPROVADO quando não atingir o conceito igual ou superior a C e ou frequência igual ou superior a 75% (setenta e cinco por cento) no componente curricular ao final do período letivo, ficando em dependência nesse componente curricular, podendo avançar para o semestre ou série seguinte, conforme Art. 102 da Resolução nº 55/2011. Com isso, mesmo que o estudante tenha reprovação(ões) pendente(s) em componentes curriculares, terá direito à progressão parcial. 
+93
 
-A integralização dos componentes curriculares em regime de dependência é requisito indispensável para a obtenção do diploma. A oferta desses componentes, a cargo da instituição, poderá ocorrer de forma presencial ou supervisionada, a critério do docente responsável, observando-se a legislação vigente, em consonância com o Art. 103 da Resolução nº 55/2011. Adicionalmente, o curso poderá implementar estratégias para a criação de turmas especiais destinadas ao cumprimento dos componentes curriculares em regime de dependência, utilizando recursos como a alocação de carga horária durante o período de férias docentes, a programação de horários alternativos ao curso regular e a utilização de sábados letivos, entre outras alternativas. Estudantes em processo de adaptação curricular, seja por transferência ou em decorrência de mudança na matriz curricular, serão alocados no período letivo mais adequado ao seu percurso acadêmico. Ademais, é assegurado o regime domiciliar de estudos e a frequência correspondente aos estudantes em licença-maternidade ou em situações de saúde que impossibilitem a sua participação nas atividades acadêmicas presenciais, por um período mínimo de quinze dias úteis, em conformidade com os Arts. 94 e 96 da Resolução nº 55/2011. 
+## INSTITUTOFEDERAL Parana
 
-93 
+Ministerio da Educacao<br>
 
-## INSTITUTOFEDERAL Parana 
+## **4.3.2 Plano de Avaliação Institucional**
 
-**==> picture [84 x 10] intentionally omitted <==**
+O projeto de Avaliação Institucional do Curso decorrerá do Sistema Nacional de Avaliação do Ensino Superior - SINAES, regulado pela Lei n° 10.861/ 2004, formado por três componentes principais: avaliação institucional, avaliação externa e ENADE que se constituem nos elementos básicos do sistema de avaliação do curso.
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+Conforme o Projeto de Desenvolvimento Institucional (PDI) do IFPR a avaliação institucional trata-se de um processo contínuo que visa gerar informações para reafirmar ou redirecionar as ações da instituição, norteadas pela gestão democrática e autônoma, garantindo a qualidade no desenvolvimento do ensino, pesquisa e extensão. A avaliação interna objetiva oferecer subsídios para o aperfeiçoamento do projeto político- pedagógico do curso.
 
+A avaliação será composta por dois mecanismos de avaliação do MEC, que são: o Exame Nacional de Cursos, previsto pelo Sistema Nacional de Avaliação do Ensino Superior - SINAES e a avaliação efetuada pelos especialistas do Instituto Nacional de Estudos e Pesquisas Educacionais - INEP, que servirão para verificar a coerência dos objetivos e perfil dos egressos do curso para com as demandas da sociedade.
 
-## **4.3.2 Plano de Avaliação Institucional** 
+Ainda, a CPA (Comissão Própria de Avaliação) é instituída pelo SINAES (Sistema Nacional de Avaliação da Educação Superior) e é responsável pela implantação e desenvolvimento de processos de avaliação institucional. Os instrumentos de avaliação (questionários, pesquisas ou outras ferramentas) a serem desenvolvidas pela CPA servirão para o planejamento educacional e apontarão as áreas e setores que precisam de melhorias. Pretende-se estabelecer comunicação contínua entre a CPA e os docentes e estudantes do curso Superior de Tecnologia em Processos Gerenciais.
 
-O projeto de Avaliação Institucional do Curso decorrerá do Sistema Nacional de Avaliação do Ensino Superior - SINAES, regulado pela Lei n° 10.861/ 2004, formado por três componentes principais: avaliação institucional, avaliação externa e ENADE que se constituem nos elementos básicos do sistema de avaliação do curso. 
+94
 
-Conforme o Projeto de Desenvolvimento Institucional (PDI) do IFPR a avaliação institucional trata-se de um processo contínuo que visa gerar informações para reafirmar ou redirecionar as ações da instituição, norteadas pela gestão democrática e autônoma, garantindo a qualidade no desenvolvimento do ensino, pesquisa e extensão. A avaliação interna objetiva oferecer subsídios para o aperfeiçoamento do projeto político- pedagógico do curso. 
+## INSTITUTOFEDERAL Parana
 
-A avaliação será composta por dois mecanismos de avaliação do MEC, que são: o Exame Nacional de Cursos, previsto pelo Sistema Nacional de Avaliação do Ensino Superior - SINAES e a avaliação efetuada pelos especialistas do Instituto Nacional de Estudos e Pesquisas Educacionais - INEP, que servirão para verificar a coerência dos objetivos e perfil dos egressos do curso para com as demandas da sociedade. 
+Ministerio da Educacao
 
-Ainda, a CPA (Comissão Própria de Avaliação) é instituída pelo SINAES (Sistema Nacional de Avaliação da Educação Superior) e é responsável pela implantação e desenvolvimento de processos de avaliação institucional. Os instrumentos de avaliação (questionários, pesquisas ou outras ferramentas) a serem desenvolvidas pela CPA servirão para o planejamento educacional e apontarão as áreas e setores que precisam de melhorias. Pretende-se estabelecer comunicação contínua entre a CPA e os docentes e estudantes do curso Superior de Tecnologia em Processos Gerenciais. 
+A CPA (Comissão Própria de Avaliação) é instituída pelo SINAES (Sistema Nacional de Avaliação da Educação Superior) e é responsável pela implantação e desenvolvimento de processos de avaliação institucional (Resolução Consup/IFPR nº 38, de 04 de outubro de 2021 – aprova o regimento interno da CPA Central e CPAs Locais). Os instrumentos de avaliação desenvolvidos pela CPA são fundamentais para o planejamento educacional e setores que precisam de melhorias.
 
-94 
+A CPA do IFPR tem por finalidade o planejamento, o desenvolvimento, a  coordenação e a supervisão da Política de Avaliação Institucional, definida nas  legislações pertinentes e nas deliberações exaradas pelo Conselho Superior do  IFPR (Consup).
 
-## INSTITUTOFEDERAL Parana 
+No câmpus, será instituída CPA Local com:
 
-Ministerio da Educacao 
+- 2 (dois) representantes do corpo docente e seus respectivos suplentes, indicado por seus pares;
 
-A CPA (Comissão Própria de Avaliação) é instituída pelo SINAES (Sistema Nacional de Avaliação da Educação Superior) e é responsável pela implantação e desenvolvimento de processos de avaliação institucional (Resolução Consup/IFPR nº 38, de 04 de outubro de 2021 – aprova o regimento interno da CPA Central e CPAs Locais). Os instrumentos de avaliação desenvolvidos pela CPA são fundamentais para o planejamento educacional e setores que precisam de melhorias. 
+- 2 (dois) representantes do corpo técnico-administrativo e seus respectivos  suplentes, indicados por seus pares;
 
-A CPA do IFPR tem por finalidade o planejamento, o desenvolvimento, a  coordenação e a supervisão da Política de Avaliação Institucional, definida nas  legislações pertinentes e nas deliberações exaradas pelo Conselho Superior do  IFPR (Consup). 
+- 2 (dois) representante do corpo discente e um suplente, indicados por seus pares;
 
-No câmpus, será instituída CPA Local com: 
+- 2 (dois) representantes da sociedade civil e um suplente, indicados pelo Colégio de Dirigentes do Campus – CODIC.
 
-- 2 (dois) representantes do corpo docente e seus respectivos suplentes, indicado por seus pares; 
+## 4.3.2.1 Coordenação de curso
 
-- 2 (dois) representantes do corpo técnico-administrativo e seus respectivos  suplentes, indicados por seus pares; 
+A gestão do curso é realizada pela Coordenação apoiada pelo Núcleo Docente Estruturante (NDE) e Colegiado de Curso. A coordenação do curso é exercida por docentes que atuam regularmente no núcleo específico do curso. A gestão considera particularmente as políticas institucionais no âmbito do curso, as iniciativas estratégicas e metas estabelecidas no
 
-- 2 (dois) representante do corpo discente e um suplente, indicados por seus pares; 
+95
 
-- 2 (dois) representantes da sociedade civil e um suplente, indicados pelo Colégio de Dirigentes do Campus – CODIC. 
+## INSTITUTOFEDERAL Parana
 
-## 4.3.2.1 Coordenação de curso 
+Ministerio da Educacao
 
-A gestão do curso é realizada pela Coordenação apoiada pelo Núcleo Docente Estruturante (NDE) e Colegiado de Curso. A coordenação do curso é exercida por docentes que atuam regularmente no núcleo específico do curso. A gestão considera particularmente as políticas institucionais no âmbito do curso, as iniciativas estratégicas e metas estabelecidas no 
+PPC e a forma de autoavaliação institucional, resultado das avaliações internas e externas como insumo para aprimoramento contínuo do planejamento do curso.
 
-95 
+## 4.3.2.2 Núcleo Docente Estruturante (NDE) e Colegiado de Curso
 
-## INSTITUTOFEDERAL Parana 
+O Núcleo Docente Estruturante (NDE) constitui-se de um grupo de docentes, com atribuições acadêmicas de planejamento e acompanhamento, atuante no processo de concepção, consolidação e contínua atualização e avaliação do projeto pedagógico do curso. O processo de autoavaliação do curso é periódico e realizado sob a coordenação do Núcleo Docente Estruturante que terá, ao menos, quatro reuniões anuais. O NDE possui, no mínimo, 2 docentes doutores efetivos e com dedicação exclusiva (DE), dois técnicos administrativos, dois discentes e 2 (dois) representantes da sociedade civil e um suplente, indicados pelo  Colégio de Dirigentes do Câmpus (CODIC).
 
-Ministerio da Educacao 
+## 4.3.2.3 Docentes
 
-PPC e a forma de autoavaliação institucional, resultado das avaliações internas e externas como insumo para aprimoramento contínuo do planejamento do curso. 
+Integrarão o corpo docente preferencialmente professores doutores e com dedicação exclusiva. Os docentes que atuam no núcleo específico possuem formação e/ou trajetória compatível com as subáreas de Gestão e Tecnologia e apresentam competências específicas em áreas interdisciplinares. A atuação dos professores e do coordenador será objeto de avaliação interna de acordo com o PPC.
 
-## 4.3.2.2 Núcleo Docente Estruturante (NDE) e Colegiado de Curso 
+## 4.3.2.4 Avaliação interna e externa
 
-O Núcleo Docente Estruturante (NDE) constitui-se de um grupo de docentes, com atribuições acadêmicas de planejamento e acompanhamento, atuante no processo de concepção, consolidação e contínua atualização e avaliação do projeto pedagógico do curso. O processo de autoavaliação do curso é periódico e realizado sob a coordenação do Núcleo Docente Estruturante que terá, ao menos, quatro reuniões anuais. O NDE possui, no mínimo, 2 docentes doutores efetivos e com dedicação exclusiva (DE), dois técnicos administrativos, dois discentes e 2 (dois) representantes da sociedade civil e um suplente, indicados pelo  Colégio de Dirigentes do Câmpus (CODIC). 
+A autoavaliação do curso será constante com o objetivo de produzir conhecimentos, refletir sobre as atividades cumpridas pela instituição, identificar as causas dos seus problemas, aperfeiçoar a consciência pedagógica e capacidade profissional do corpo docente e técnico-administrativo, fortalecer as relações de cooperação entre os diversos atores institucionais, tornar mais efetiva a vinculação do curso com a comunidade, além de prestar contas à sociedade. No processo de avaliação do curso serão consideradas: 1) atividades curriculares; 2) atuação da coordenação de curso, NDE e Colegiado; 3) atuação do corpo docente;
 
-## 4.3.2.3 Docentes 
+96
 
-Integrarão o corpo docente preferencialmente professores doutores e com dedicação exclusiva. Os docentes que atuam no núcleo específico possuem formação e/ou trajetória compatível com as subáreas de Gestão e Tecnologia e apresentam competências específicas em áreas interdisciplinares. A atuação dos professores e do coordenador será objeto de avaliação interna de acordo com o PPC. 
+## INSTITUTOFEDERAL Parana
 
-## 4.3.2.4 Avaliação interna e externa 
+Ministerio da Educacao
 
-A autoavaliação do curso será constante com o objetivo de produzir conhecimentos, refletir sobre as atividades cumpridas pela instituição, identificar as causas dos seus problemas, aperfeiçoar a consciência pedagógica e capacidade profissional do corpo docente e técnico-administrativo, fortalecer as relações de cooperação entre os diversos atores institucionais, tornar mais efetiva a vinculação do curso com a comunidade, além de prestar contas à sociedade. No processo de avaliação do curso serão consideradas: 1) atividades curriculares; 2) atuação da coordenação de curso, NDE e Colegiado; 3) atuação do corpo docente; 
+4) infraestrutura de ensino e aprendizagem; 5) demandas, serviços prestados e qualidade dos laboratórios de ensino.
 
-96 
+Será realizada uma avaliação interna uma vez por ano, por meio de seminário de avaliação, onde serão apresentadas e discutidas questões da Comissão Interna de Avaliação, dos docentes e questões apresentadas pelos alunos representados pelo Centro Acadêmico e/ou mediante livre participação dos interessados.
 
-## INSTITUTOFEDERAL Parana 
+O processo anual de avaliação interna do curso será coordenado pelo NDE e as experiências serão documentadas e servirão de subsídios para o NDE e colegiado de curso.  O processo de autoavaliação institucional adequa-se às exigências técnicas e legais do Sistema Nacional de Avaliação da Educação Superior (SINAES).
 
-Ministerio da Educacao 
+## **4.3.3 Avaliação do Curso**
 
-4) infraestrutura de ensino e aprendizagem; 5) demandas, serviços prestados e qualidade dos laboratórios de ensino. 
+## 4.3.3.1 Avaliação Externa
 
-Será realizada uma avaliação interna uma vez por ano, por meio de seminário de avaliação, onde serão apresentadas e discutidas questões da Comissão Interna de Avaliação, dos docentes e questões apresentadas pelos alunos representados pelo Centro Acadêmico e/ou mediante livre participação dos interessados. 
+O Sistema Nacional de Avaliação da Educação Superior foi instituído pela Lei nº 10861/2004 - SINAES. Ao SINAES cabe promover a avaliação externa englobando a avaliação das Instituições, dos Cursos e do desempenho dos estudantes. O INEP/MEC, órgão responsável pela operacionalização da avaliação no âmbito do SINAES, disponibiliza em meio eletrônico, orientações gerais elaboradas pela Comissão Nacional de Avaliação – CONAES.
 
-O processo anual de avaliação interna do curso será coordenado pelo NDE e as experiências serão documentadas e servirão de subsídios para o NDE e colegiado de curso.  O processo de autoavaliação institucional adequa-se às exigências técnicas e legais do Sistema Nacional de Avaliação da Educação Superior (SINAES). 
+Estas orientações envolvem as dinâmicas, procedimentos e mecanismos a serem observados pelas comissões de avaliação de Instituições e de Cursos, e, ocorrem conforme cronogramas emanados do INEP. Nas visitas in loco e também, no preenchimento do formulário eletrônico, as Instituições são avaliadas em todas as dimensões, basicamente pautadas na organização didático-pedagógica, corpo docente e infraestrutura material e física. A avaliação externa constitui um dos aspectos básicos para o necessário aprimoramento da qualidade de ensino, do planejamento e da gestão da Instituição e dos Cursos.
 
-## **4.3.3 Avaliação do Curso** 
+97
 
-## 4.3.3.1 Avaliação Externa 
+## INSTITUTOFEDERAL Parana
 
-O Sistema Nacional de Avaliação da Educação Superior foi instituído pela Lei nº 10861/2004 - SINAES. Ao SINAES cabe promover a avaliação externa englobando a avaliação das Instituições, dos Cursos e do desempenho dos estudantes. O INEP/MEC, órgão responsável pela operacionalização da avaliação no âmbito do SINAES, disponibiliza em meio eletrônico, orientações gerais elaboradas pela Comissão Nacional de Avaliação – CONAES. 
+Ministerio da Educacao
 
-Estas orientações envolvem as dinâmicas, procedimentos e mecanismos a serem observados pelas comissões de avaliação de Instituições e de Cursos, e, ocorrem conforme cronogramas emanados do INEP. Nas visitas in loco e também, no preenchimento do formulário eletrônico, as Instituições são avaliadas em todas as dimensões, basicamente pautadas na organização didático-pedagógica, corpo docente e infraestrutura material e física. A avaliação externa constitui um dos aspectos básicos para o necessário aprimoramento da qualidade de ensino, do planejamento e da gestão da Instituição e dos Cursos. 
+A avaliação do processo de formação acadêmica – ENADE consiste de um exame que, ao avaliar o desempenho do estudante no início e ao final do curso, permite analisar os conhecimentos adquiridos. Outro indicador considerado pelos avaliadores externos, em seus pareceres, são os documentos prévios por eles analisados tais como o Censo Educacional, Cadastro Docente e o Formulário Eletrônico com recortes do Projeto Pedagógico do Curso ou em caso de Avaliação Institucional de Desenvolvimento Institucional – PDI.
 
-97 
+## 4.3.3.2 Avaliação Interna
 
-## INSTITUTOFEDERAL Parana 
+A avaliação interna constitui outro aspecto importante para o necessário aprimoramento da qualidade de ensino, do planejamento e da gestão da Instituição e dos Cursos. Através dos relatórios da Comissão Própria de Avaliação (CPA) poderá se fazer um exercício permanente de olhar para dentro de si mesma, delineando uma visão minuciosa da instituição e do curso e possibilitar, em curto prazo, as reorientações que se fazem necessárias em todos os aspectos.
 
-Ministerio da Educacao 
+Além disso, por meio do Projeto Político Pedagógico, será possível a realização de ações conjuntas entres os estudantes, docentes e sociedade civil organizada, estabelecendo diretrizes em relação a manutenção do curso.
 
-A avaliação do processo de formação acadêmica – ENADE consiste de um exame que, ao avaliar o desempenho do estudante no início e ao final do curso, permite analisar os conhecimentos adquiridos. Outro indicador considerado pelos avaliadores externos, em seus pareceres, são os documentos prévios por eles analisados tais como o Censo Educacional, Cadastro Docente e o Formulário Eletrônico com recortes do Projeto Pedagógico do Curso ou em caso de Avaliação Institucional de Desenvolvimento Institucional – PDI. 
+## **4.3.4 Avaliação do Projeto Pedagógico do Curso**
 
-## 4.3.3.2 Avaliação Interna 
+O Projeto Pedagógico do Curso Superior de Tecnologia em Processos Gerenciais deve refletir o perfil do curso frente às exigências do mercado e à constante transformação dos modelos de gestão, impulsionados pelas inovações tecnológicas e pelas mudanças no ambiente empresarial. Os egressos do curso estarão aptos a atuar diretamente na organização, planejamento e controle de processos administrativos, além de assumirem o papel de agentes de mudança, promovendo o uso ético e estratégico das tecnologias de gestão.
 
-A avaliação interna constitui outro aspecto importante para o necessário aprimoramento da qualidade de ensino, do planejamento e da gestão da Instituição e dos Cursos. Através dos relatórios da Comissão Própria de Avaliação (CPA) poderá se fazer um exercício permanente de olhar para dentro de si mesma, delineando uma visão minuciosa da instituição e do curso e possibilitar, em curto prazo, as reorientações que se fazem necessárias em todos os aspectos. 
+Tanto o Colegiado quanto o Núcleo Docente Estruturante do Curso são compostos por professores com experiência em outras instituições de ensino superior e vivência no setor
 
-Além disso, por meio do Projeto Político Pedagógico, será possível a realização de ações conjuntas entres os estudantes, docentes e sociedade civil organizada, estabelecendo diretrizes em relação a manutenção do curso. 
+98
 
-## **4.3.4 Avaliação do Projeto Pedagógico do Curso** 
+## INSTITUTOFEDERAL Parana
 
-O Projeto Pedagógico do Curso Superior de Tecnologia em Processos Gerenciais deve refletir o perfil do curso frente às exigências do mercado e à constante transformação dos modelos de gestão, impulsionados pelas inovações tecnológicas e pelas mudanças no ambiente empresarial. Os egressos do curso estarão aptos a atuar diretamente na organização, planejamento e controle de processos administrativos, além de assumirem o papel de agentes de mudança, promovendo o uso ético e estratégico das tecnologias de gestão. 
+Ministerio da Educacao
 
-Tanto o Colegiado quanto o Núcleo Docente Estruturante do Curso são compostos por professores com experiência em outras instituições de ensino superior e vivência no setor 
+produtivo. Essa trajetória profissional dos docentes favorece a integração entre teoria e prática nas atividades acadêmicas, permitindo que os estudantes tenham contato com situações reais que os preparam de forma sólida para os desafios do mercado de trabalho.
 
-98 
+Diversos instrumentos serão empregados na avaliação contínua do Projeto Pedagógico do Curso, tais como o acompanhamento dos egressos, a análise dos resultados de exames nacionais — como o ENADE —, pesquisas sobre as demandas do mercado e os resultados obtidos por meio da autoavaliação institucional. Além disso, serão realizadas avaliações internas sistemáticas no câmpus, com o objetivo de garantir a constante atualização e aprimoramento do curso.
 
-## INSTITUTOFEDERAL Parana 
+## 4.4 ESTÁGIO CURRICULAR
 
-Ministerio da Educacao 
+Conforme parecer do Conselho Nacional de Educação, o estágio supervisionado é, essencialmente, uma atividade curricular, ou seja, não é um apêndice da atividade escolar, é, essencialmente, uma atividade curricular, assumida como tal pela escola como um ato educativo de sua responsabilidade. Assim, o estágio deve ser sempre supervisionado pela escola, estar vinculado com a prática do estudante, integrando o currículo do estabelecimento de ensino, em consonância com a proposta pedagógica da instituição. E, se o estágio supervisionado é uma atividade curricular, deve ser uma atividade intencional da escola, planejada, não aleatória, assumida pela escola como um Ato Educativo.
 
-produtivo. Essa trajetória profissional dos docentes favorece a integração entre teoria e prática nas atividades acadêmicas, permitindo que os estudantes tenham contato com situações reais que os preparam de forma sólida para os desafios do mercado de trabalho. 
+Dentro desse entendimento, faz parte do curso, de forma optativa, sendo caracterizado como estágio não-obrigatório. A carga horária desenvolvida se dará conforme a opção do estudante, de acordo com sua realidade e necessidades. O estágio poderá ser desenvolvido em diversas instituições como: repartições públicas, indústria nacional ou multinacional, comércio, empresas que desenvolvam atividades em áreas afins. As normas que regem a execução do Estágio Curricular Não-Obrigatório seguem as normativas institucionais gerais e específicas do câmpus.
 
-Diversos instrumentos serão empregados na avaliação contínua do Projeto Pedagógico do Curso, tais como o acompanhamento dos egressos, a análise dos resultados de exames nacionais — como o ENADE —, pesquisas sobre as demandas do mercado e os resultados obtidos por meio da autoavaliação institucional. Além disso, serão realizadas avaliações internas sistemáticas no câmpus, com o objetivo de garantir a constante atualização e aprimoramento do curso. 
+99
 
-## 4.4 ESTÁGIO CURRICULAR 
+INSTITUTOFEDERAL Parana
 
-Conforme parecer do Conselho Nacional de Educação, o estágio supervisionado é, essencialmente, uma atividade curricular, ou seja, não é um apêndice da atividade escolar, é, essencialmente, uma atividade curricular, assumida como tal pela escola como um ato educativo de sua responsabilidade. Assim, o estágio deve ser sempre supervisionado pela escola, estar vinculado com a prática do estudante, integrando o currículo do estabelecimento de ensino, em consonância com a proposta pedagógica da instituição. E, se o estágio supervisionado é uma atividade curricular, deve ser uma atividade intencional da escola, planejada, não aleatória, assumida pela escola como um Ato Educativo. 
+Ministerio da Educacao<br>
 
-Dentro desse entendimento, faz parte do curso, de forma optativa, sendo caracterizado como estágio não-obrigatório. A carga horária desenvolvida se dará conforme a opção do estudante, de acordo com sua realidade e necessidades. O estágio poderá ser desenvolvido em diversas instituições como: repartições públicas, indústria nacional ou multinacional, comércio, empresas que desenvolvam atividades em áreas afins. As normas que regem a execução do Estágio Curricular Não-Obrigatório seguem as normativas institucionais gerais e específicas do câmpus. 
+## **4.4.1 Características do Estágio**
 
-99 
+- Carga Horária Estágio Obrigatório: 0 horas
 
-INSTITUTOFEDERAL Parana 
+- Carga Horária Estágio Não-Obrigatório: 30 horas (computadas enquanto atividades complementares) por semestre
 
-**==> picture [84 x 10] intentionally omitted <==**
+- Modalidade: Presencial ou Remota
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+- Período: 1º ao 4º período letivos
 
+## **4.4.2 Convênios de Estágio**
 
-## **4.4.1 Características do Estágio** 
+Para os estudantes poderem atuar em instituições públicas ou privadas são necessários trâmites que formalizam o vínculo de estágio. A formalização de convênios de estágio são de responsabilidade do câmpus e todos os trâmites devem ocorrer por meio das orientações disponibilizadas pela SAEE/Proens.
 
-- Carga Horária Estágio Obrigatório: 0 horas 
+Parcerias possibilitam que os estudantes sejam inseridos em contextos profissionais diversificados, contribuindo para sua formação prática e alinhamento às demandas do mercado. A formalização de convênios será conduzida conforme as exigências legais, garantindo segurança e eficácia no cumprimento das atividades de estágio.
 
-- Carga Horária Estágio Não-Obrigatório: 30 horas (computadas enquanto atividades complementares) por semestre 
+## 4.5 INTEGRAÇÃO COM AS ORGANIZAÇÕES PÚBLICAS, CIVIS E PARTICULARES
 
-- Modalidade: Presencial ou Remota 
+.
 
-- Período: 1º ao 4º período letivos 
+## **4.5.1 Integração com as redes públicas de ensino e proposição de atividades práticas de ensino para licenciaturas**
 
-## **4.4.2 Convênios de Estágio** 
+Não se aplica
 
-Para os estudantes poderem atuar em instituições públicas ou privadas são necessários trâmites que formalizam o vínculo de estágio. A formalização de convênios de estágio são de responsabilidade do câmpus e todos os trâmites devem ocorrer por meio das orientações disponibilizadas pela SAEE/Proens. 
+## **4.5.2 Integração com o sistema local e regional de saúde (SUS) e proposição de atividades práticas de ensino para áreas da saúde**
 
-Parcerias possibilitam que os estudantes sejam inseridos em contextos profissionais diversificados, contribuindo para sua formação prática e alinhamento às demandas do mercado. A formalização de convênios será conduzida conforme as exigências legais, garantindo segurança e eficácia no cumprimento das atividades de estágio. 
+Não se aplica
 
-## 4.5 INTEGRAÇÃO COM AS ORGANIZAÇÕES PÚBLICAS, CIVIS E PARTICULARES 
+100
 
-. 
+## INSTITUTOFEDERAL Parana
 
-## **4.5.1 Integração com as redes públicas de ensino e proposição de atividades práticas de ensino para licenciaturas** 
+Ministerio da Educacao
 
-Não se aplica 
+## **4.5.3  Integração com os setores públicos, civis e privados**
 
-## **4.5.2 Integração com o sistema local e regional de saúde (SUS) e proposição de atividades práticas de ensino para áreas da saúde** 
+A integração com organizações públicas, civis e particulares é essencial para a formação de profissionais competentes e socialmente engajados no curso de Tecnologia em Automação Industrial. Essa integração é promovida por meio de uma série de ações que abrangem ensino, pesquisa, extensão e práticas profissionais, com o objetivo de gerar resultados significativos para os estudantes, as instituições parceiras e a sociedade em geral.
 
-Não se aplica 
+Serão promovidos eventos, realizados em parceria com empresas, escolas públicas e privadas, a participação dos alunos em projetos com as redes de inovação do município, como hubs tecnológicos e parques industriais, fortalecendo o vínculo do curso com setores estratégicos da economia, permitindo a aplicação prática dos conhecimentos adquiridos pelos estudantes. Todas essas ações são documentadas e avaliadas para garantir a consolidação dos resultados e fomentar a implementação de estratégias pedagógicas mais eficazes, alinhadas às demandas do mercado e da sociedade.
 
-100 
+## 4.6 TRABALHO DE CONCLUSÃO DE CURSO
 
-## INSTITUTOFEDERAL Parana 
+O curso não contempla Trabalho de Conclusão de Curso (TCC). Em seu lugar, é oferecido o componente curricular denominado “Relato de Experiência Extensionista”.
 
-Ministerio da Educacao 
+## 4.7 ATIVIDADES COMPLEMENTARES
 
-## **4.5.3  Integração com os setores públicos, civis e privados** 
+As Atividades Complementares do curso de Tecnologia em Processos Gerenciais têm como objetivo enriquecer a formação acadêmica, social e profissional dos estudantes. Com carga horária obrigatória, definida conforme as Diretrizes Curriculares Nacionais (DCNs), essas atividades abrangem experiências que favoreçam o desenvolvimento de competências humanas, culturais e profissionais, inclusive fora do ambiente acadêmico.
 
-A integração com organizações públicas, civis e particulares é essencial para a formação de profissionais competentes e socialmente engajados no curso de Tecnologia em Automação Industrial. Essa integração é promovida por meio de uma série de ações que abrangem ensino, pesquisa, extensão e práticas profissionais, com o objetivo de gerar resultados significativos para os estudantes, as instituições parceiras e a sociedade em geral. 
+São consideradas Atividades Complementares todas as que contribuam para a construção de competências sociais, humanas, culturais e profissionais. Essas atividades têm papel
 
-Serão promovidos eventos, realizados em parceria com empresas, escolas públicas e privadas, a participação dos alunos em projetos com as redes de inovação do município, como hubs tecnológicos e parques industriais, fortalecendo o vínculo do curso com setores estratégicos da economia, permitindo a aplicação prática dos conhecimentos adquiridos pelos estudantes. Todas essas ações são documentadas e avaliadas para garantir a consolidação dos resultados e fomentar a implementação de estratégias pedagógicas mais eficazes, alinhadas às demandas do mercado e da sociedade. 
+101
 
-## 4.6 TRABALHO DE CONCLUSÃO DE CURSO 
+## INSTITUTOFEDERAL Parana
 
-O curso não contempla Trabalho de Conclusão de Curso (TCC). Em seu lugar, é oferecido o componente curricular denominado “Relato de Experiência Extensionista”. 
+Ministerio da Educacao
 
-## 4.7 ATIVIDADES COMPLEMENTARES 
+fundamental na formação do acadêmico, ao promover o desenvolvimento de experiências enriquecedoras, inclusive fora do ambiente acadêmico, complementando e aprimorando o perfil profissional e humanístico necessário para uma atuação eficaz no mercado de trabalho.
 
-As Atividades Complementares do curso de Tecnologia em Processos Gerenciais têm como objetivo enriquecer a formação acadêmica, social e profissional dos estudantes. Com carga horária obrigatória, definida conforme as Diretrizes Curriculares Nacionais (DCNs), essas atividades abrangem experiências que favoreçam o desenvolvimento de competências humanas, culturais e profissionais, inclusive fora do ambiente acadêmico. 
+O estudante deve cumprir ao menos 160 horas de atividades complementares. A realização visa integrar ensino, pesquisa e extensão, ampliando o perfil do egresso para uma atuação mais eficaz no mercado de trabalho. A regulamentação das Atividades Complementares está detalhada no Apêndice A deste Projeto Pedagógico de Curso.
 
-São consideradas Atividades Complementares todas as que contribuam para a construção de competências sociais, humanas, culturais e profissionais. Essas atividades têm papel 
+## **5.  POLÍTICAS DE ATENDIMENTO AOS ESTUDANTES**
 
-101 
+5.1 FORMAS DE ACESSO E PERMANÊNCIA
 
-## INSTITUTOFEDERAL Parana 
+O acesso de discentes ao Curso de Tecnologia em Processos Gerenciais do Instituto Federal do Paraná Câmpus Avançado Arapongas poderá ser realizado por meio de:
 
-Ministerio da Educacao 
+1) Aprovação em Processo Seletivo do Instituto Federal do Paraná.
 
-fundamental na formação do acadêmico, ao promover o desenvolvimento de experiências enriquecedoras, inclusive fora do ambiente acadêmico, complementando e aprimorando o perfil profissional e humanístico necessário para uma atuação eficaz no mercado de trabalho. 
+2) Sistema de Seleção Unificada (SISU) do qual instituições públicas de educação superior oferecem vagas a candidatos participantes do ENEM.
 
-O estudante deve cumprir ao menos 160 horas de atividades complementares. A realização visa integrar ensino, pesquisa e extensão, ampliando o perfil do egresso para uma atuação mais eficaz no mercado de trabalho. A regulamentação das Atividades Complementares está detalhada no Apêndice A deste Projeto Pedagógico de Curso. 
+3) Transferência interna: transferência de discente regularmente matriculado em curso superior do IFPR para outro curso superior no mesmo câmpus ou para outro câmpus do IFPR, a partir do 2º (segundo) período letivo do curso mediante a existência de vaga e equivalência dos componentes curriculares cursados.
 
-## **5.  POLÍTICAS DE ATENDIMENTO AOS ESTUDANTES** 
+4) Transferência externa: disponibilizada para discente matriculado em curso superior de outras Instituições de Ensino para ingresso em curso de mesmo nível a partir do 2º (segundo) período letivo do curso, mediante a existência de vaga e equivalência dos componentes curriculares cursados.
 
-5.1 FORMAS DE ACESSO E PERMANÊNCIA 
+102
 
-O acesso de discentes ao Curso de Tecnologia em Processos Gerenciais do Instituto Federal do Paraná Câmpus Avançado Arapongas poderá ser realizado por meio de: 
+## INSTITUTOFEDERAL Parana
 
-1) Aprovação em Processo Seletivo do Instituto Federal do Paraná. 
+Ministerio da Educacao
 
-2) Sistema de Seleção Unificada (SISU) do qual instituições públicas de educação superior oferecem vagas a candidatos participantes do ENEM. 
+5) Aproveitamento de Estudos de Curso de Graduação em que é possível o ingresso de discentes que já possuem diploma de curso superior de área afim, a partir do 2º (segundo) período letivo do curso, mediante a existência de vaga.
 
-3) Transferência interna: transferência de discente regularmente matriculado em curso superior do IFPR para outro curso superior no mesmo câmpus ou para outro câmpus do IFPR, a partir do 2º (segundo) período letivo do curso mediante a existência de vaga e equivalência dos componentes curriculares cursados. 
+Observa-se que as transferências internas e externas e o aproveitamento de estudos representam, além das formas de ingresso no Curso de Tecnologia em Processos Gerenciais – IFPR - Câmpus Avançado Arapongas, a possibilidade de mobilidade acadêmica para outros cursos de graduação.
 
-4) Transferência externa: disponibilizada para discente matriculado em curso superior de outras Instituições de Ensino para ingresso em curso de mesmo nível a partir do 2º (segundo) período letivo do curso, mediante a existência de vaga e equivalência dos componentes curriculares cursados. 
+Visando à permanência e o êxito dos discentes são disponibilizados atendimentos aos discentes realizados pelos docentes nos contraturno escolares. A coordenação de curso irá realizar acompanhamento, por meio de relatórios, propondo ações voltadas para a permanência e êxitos dos discentes. Além disso, o Instituto Federal do Paraná Dispõe acerca da Política Institucional de Assistência Estudantil , regulamentada pela Resolução CONSUP/IFPR Nº 239, de 10 de junho de 2025 em atendimento à Lei nº 14.914, de 3 de julho de 2024 - Institui a Política Nacional de Assistência Estudantil (PNAES), por meio dos vários Programas de Bolsas de Estudos existentes como os Auxílios da Assistência Estudantil, Programas de Bolsas de Inclusão Social, Bolsa Monitoria, Programa de Bolsa de Iniciação Científica, Programa de Bolsa de Extensão, entre outros. O IFPR - Câmpus Avançado Arapongas promoverá diversas atividades acadêmico-científico-culturais, como oficinas práticas, atividades de aprimoramento acadêmico, intervenções na comunidade, entre outras.
 
-102 
+## **5.1.1 Programas de Ensino, Pesquisa, Extensão, Inovação, Inclusão Social e Assistência estudantil**
 
-## INSTITUTOFEDERAL Parana 
+Regulamentada pela Resolução CONSUP/IFPR Nº 239, de 10 de junho de 2025 em atendimento à Lei nº 14.914, de 3 de julho de 2024 - Institui a Política Nacional de Assistência
 
-Ministerio da Educacao 
+103
 
-5) Aproveitamento de Estudos de Curso de Graduação em que é possível o ingresso de discentes que já possuem diploma de curso superior de área afim, a partir do 2º (segundo) período letivo do curso, mediante a existência de vaga. 
+## INSTITUTOFEDERAL Parana
 
-Observa-se que as transferências internas e externas e o aproveitamento de estudos representam, além das formas de ingresso no Curso de Tecnologia em Processos Gerenciais – IFPR - Câmpus Avançado Arapongas, a possibilidade de mobilidade acadêmica para outros cursos de graduação. 
+Ministerio da Educacao
 
-Visando à permanência e o êxito dos discentes são disponibilizados atendimentos aos discentes realizados pelos docentes nos contraturno escolares. A coordenação de curso irá realizar acompanhamento, por meio de relatórios, propondo ações voltadas para a permanência e êxitos dos discentes. Além disso, o Instituto Federal do Paraná Dispõe acerca da Política Institucional de Assistência Estudantil , regulamentada pela Resolução CONSUP/IFPR Nº 239, de 10 de junho de 2025 em atendimento à Lei nº 14.914, de 3 de julho de 2024 - Institui a Política Nacional de Assistência Estudantil (PNAES), por meio dos vários Programas de Bolsas de Estudos existentes como os Auxílios da Assistência Estudantil, Programas de Bolsas de Inclusão Social, Bolsa Monitoria, Programa de Bolsa de Iniciação Científica, Programa de Bolsa de Extensão, entre outros. O IFPR - Câmpus Avançado Arapongas promoverá diversas atividades acadêmico-científico-culturais, como oficinas práticas, atividades de aprimoramento acadêmico, intervenções na comunidade, entre outras. 
+Estudantil (PNAES), a política de Política Institucional de Assistência Estudantil no Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR), que em seu Artigo 2º define:
 
-## **5.1.1 Programas de Ensino, Pesquisa, Extensão, Inovação, Inclusão Social e Assistência estudantil** 
+Art. 2º Entende-se por assistência estudantil no IFPR, um conjunto de programas, projetos, serviços e ações, articulados com atividades de ensino, pesquisa, extensão e inovação, com a finalidade de ampliar e contribuir para a garantia das condições de permanência e conclusão do curso na educação superior e nos cursos técnicos de nível médio no âmbito do IFPR, regularmente matriculados na modalidade presencial. (IFPR, 2025).
 
-Regulamentada pela Resolução CONSUP/IFPR Nº 239, de 10 de junho de 2025 em atendimento à Lei nº 14.914, de 3 de julho de 2024 - Institui a Política Nacional de Assistência 
+Ainda, em seu Artigo 3º, apresenta os princípios no qual a Política de Apoio Estudantil está pautada:
 
-103 
+I - Defesa do direito à educação profissional, técnica e tecnológica pública, gratuita e de qualidade;
 
-## INSTITUTOFEDERAL Parana 
+II - Gestão democrática, participativa e transparente, envolvendo os diferentes segmentos da comunidade acadêmica no processo de planejamento, implementação e avaliação;
 
-Ministerio da Educacao 
+III - Defesa da justiça social, da igualdade de oportunidade e equidade nas condições para acesso, permanência e conclusão do curso;
 
-Estudantil (PNAES), a política de Política Institucional de Assistência Estudantil no Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR), que em seu Artigo 2º define: 
+IV - Defesa dos direitos humanos e eliminação de toda forma de preconceito e discriminação;
 
-Art. 2º Entende-se por assistência estudantil no IFPR, um conjunto de programas, projetos, serviços e ações, articulados com atividades de ensino, pesquisa, extensão e inovação, com a finalidade de ampliar e contribuir para a garantia das condições de permanência e conclusão do curso na educação superior e nos cursos técnicos de nível médio no âmbito do IFPR, regularmente matriculados na modalidade presencial. (IFPR, 2025). 
+V - Formação humana integral no processo de aprendizagem do estudante;
 
-Ainda, em seu Artigo 3º, apresenta os princípios no qual a Política de Apoio Estudantil está pautada: 
+VI - Avanço no processo de universalização da Assistência Estudantil;
 
-I - Defesa do direito à educação profissional, técnica e tecnológica pública, gratuita e de qualidade; 
+VII - Articulação entre os programas, projetos e ações relacionados à assistência estudantil com as demais políticas institucionais.
 
-II - Gestão democrática, participativa e transparente, envolvendo os diferentes segmentos da comunidade acadêmica no processo de planejamento, implementação e avaliação; 
+.
 
-III - Defesa da justiça social, da igualdade de oportunidade e equidade nas condições para acesso, permanência e conclusão do curso; 
+O Artigo 7º da Resolução CONSUP/IFPR nº 11/2009 (IFPR, 2009) apresenta as modalidades de auxílios da Assistência Estudantil:
 
-IV - Defesa dos direitos humanos e eliminação de toda forma de preconceito e discriminação; 
+- ❖ Programa de Assistência Estudantil (PAE);
 
-V - Formação humana integral no processo de aprendizagem do estudante; 
+- ❖ Programa de Bolsa Permanência (PBP);
 
-VI - Avanço no processo de universalização da Assistência Estudantil; 
+- ❖ Programa de Alimentação e Nutrição e Escolar (PINANE)
 
-VII - Articulação entre os programas, projetos e ações relacionados à assistência estudantil com as demais políticas institucionais. 
+- ❖ Programa Estudantil de Moradia (PEM);
 
-. 
+- ❖ Programa de Apoio ao Transporte do Estudante (Pate);
 
-O Artigo 7º da Resolução CONSUP/IFPR nº 11/2009 (IFPR, 2009) apresenta as modalidades de auxílios da Assistência Estudantil: 
+- ❖ Programa Incluir de Acessibilidade na Educação (Incluir);
 
-- ❖ Programa de Assistência Estudantil (PAE); 
+- ❖ Programa de Permanência Parental na Educação (Propepe);
 
-- ❖ Programa de Bolsa Permanência (PBP); 
+- ❖ Programa de Acolhimento nas Bibliotecas (PAB);
 
-- ❖ Programa de Alimentação e Nutrição e Escolar (PINANE) 
+104
 
-- ❖ Programa Estudantil de Moradia (PEM); 
+## INSTITUTOFEDERAL Parana
 
-- ❖ Programa de Apoio ao Transporte do Estudante (Pate); 
+Ministerio da Educacao
 
-- ❖ Programa Incluir de Acessibilidade na Educação (Incluir); 
+- ❖ Programa de Atenção à Saúde Mental dos Estudantes (PAS);
 
-- ❖ Programa de Permanência Parental na Educação (Propepe); 
+- ❖ Programa Milton Santos de Acesso ao Ensino Superior (Promisaes);
 
-- ❖ Programa de Acolhimento nas Bibliotecas (PAB); 
+- ❖ Benefício Permanência na Educação Superior;
 
-104 
+- ❖ Pé de Meia;
 
-## INSTITUTOFEDERAL Parana 
+- ❖ Programa Dignidade Menstrual (PRODIM);
 
-Ministerio da Educacao 
+- ❖ Outros programas, desde que estejam em consonância com a Lei 14.914/2024, observadas as dotações orçamentárias existentes.
 
-- ❖ Programa de Atenção à Saúde Mental dos Estudantes (PAS); 
+A Assistência Estudantil oferece ainda: Programa Monitoria, Programa de Inclusão Social, Programa de Apoio à participação de Eventos e o Programa Estudante Atleta, regulamentados, respectivamente, pelas Resoluções CONSUP nº 04/2010 (IFPR, 2010), nº 64/2010 (IFPR, 2010) e nº 65/2010 (IFPR, 2010) e pela Instrução Interna de Procedimento nº 01/2014 (IFPR, 2014).
 
-- ❖ Programa Milton Santos de Acesso ao Ensino Superior (Promisaes); 
+Além das Políticas da Assistência Estudantil, são oferecidas bolsas por meio da Pró-Reitoria de Pesquisa, Extensão e Inovação: Programa Institucional de Bolsa de Iniciação Científica (PIBIC), Programa Institucional de Bolsa de Extensão (PIBEX) e o Programa de Apoio ao Desenvolvimento Tecnológico e Inovação (PRADI), regulamentados pela Resolução CONSUP/IFPR nº 05/2010 (IFPR, 2010) e Portaria SETEC nº 58, de 21 de novembro de 2014 (BRASIL, 2014b).
 
-- ❖ Benefício Permanência na Educação Superior; 
+O Artigo 1º da Resolução CONSUP/IFPR nº 05/2010 (IFPR, 2010), traz os seguintes objetivos para os programas de bolsas acima mencionados:
 
-- ❖ Pé de Meia; 
+I – possibilitar aos estudantes dos Cursos Técnicos, integrados ou subseqüentes, o desenvolvimento de competências e habilidades nas atividades de pesquisa científica;
 
-- ❖ Programa Dignidade Menstrual (PRODIM); 
+II – incentivar a participação dos estudantes em projetos de pesquisa, individuais ou em grupo, desenvolvidos por professores-pesquisadores do IFPR, despertando o interesse pela pesquisa e permitindo o desenvolvimento do pensamento científico; III – contribuir para a formação de recursos humanos qualificados, aprimorando o processo de formação de profissionais para o mercado de trabalho e possibilitando o aprofundamento de conhecimentos na área do projeto ao qual está vinculado; e
 
-- ❖ Outros programas, desde que estejam em consonância com a Lei 14.914/2024, observadas as dotações orçamentárias existentes. 
+IV – otimizar a qualidade de ensino e sua indissociabilidade com a pesquisa e com as atividades extensionistas.
 
-A Assistência Estudantil oferece ainda: Programa Monitoria, Programa de Inclusão Social, Programa de Apoio à participação de Eventos e o Programa Estudante Atleta, regulamentados, respectivamente, pelas Resoluções CONSUP nº 04/2010 (IFPR, 2010), nº 64/2010 (IFPR, 2010) e nº 65/2010 (IFPR, 2010) e pela Instrução Interna de Procedimento nº 01/2014 (IFPR, 2014). 
+O discente do curso de Tecnologia em Processos Gerenciais poderá também pleitear bolsas em projetos de Ensino, Extensão, Pesquisa e Inovação que forem submetidos a editais
 
-Além das Políticas da Assistência Estudantil, são oferecidas bolsas por meio da Pró-Reitoria de Pesquisa, Extensão e Inovação: Programa Institucional de Bolsa de Iniciação Científica (PIBIC), Programa Institucional de Bolsa de Extensão (PIBEX) e o Programa de Apoio ao Desenvolvimento Tecnológico e Inovação (PRADI), regulamentados pela Resolução CONSUP/IFPR nº 05/2010 (IFPR, 2010) e Portaria SETEC nº 58, de 21 de novembro de 2014 (BRASIL, 2014b). 
+105
 
-O Artigo 1º da Resolução CONSUP/IFPR nº 05/2010 (IFPR, 2010), traz os seguintes objetivos para os programas de bolsas acima mencionados: 
+## INSTITUTOFEDERAL Parana
 
-I – possibilitar aos estudantes dos Cursos Técnicos, integrados ou subseqüentes, o desenvolvimento de competências e habilidades nas atividades de pesquisa científica; 
+Ministerio da Educacao
 
-II – incentivar a participação dos estudantes em projetos de pesquisa, individuais ou em grupo, desenvolvidos por professores-pesquisadores do IFPR, despertando o interesse pela pesquisa e permitindo o desenvolvimento do pensamento científico; III – contribuir para a formação de recursos humanos qualificados, aprimorando o processo de formação de profissionais para o mercado de trabalho e possibilitando o aprofundamento de conhecimentos na área do projeto ao qual está vinculado; e 
+externos por docentes do IFPR conforme regulamentação dada pela Resolução CONSUP/IFPR nº 47/2011 (IFPR, 2011).
 
-IV – otimizar a qualidade de ensino e sua indissociabilidade com a pesquisa e com as atividades extensionistas. 
+## **5.1.2 Aproveitamento de Estudos Anteriores**
 
-O discente do curso de Tecnologia em Processos Gerenciais poderá também pleitear bolsas em projetos de Ensino, Extensão, Pesquisa e Inovação que forem submetidos a editais 
+O Aproveitamento de Estudos Anteriores é previsto na Resolução CONSUP/IFPR nº 55/2011, definido em seu Artigo nº 81: “O aproveitamento de estudos anteriores compreende o processo de aproveitamento de componentes curriculares ou etapas (séries, módulos, blocos) cursadas com êxito em outro curso” (IFPR, 2011).
 
-105 
+Para o curso de Tecnologia em Processos Gerenciais apenas podem ser aproveitadas disciplinas em outros cursos de mesmo nível, como previsto nos Artigos 82 e 86. O pedido deverá ser protocolado pelo discente na Secretaria Acadêmica, em prazo definido em calendário acadêmico, acompanhado de documentação própria, e seguirá o trâmite apresentado no Artigo nº 84 da referida resolução:
 
-## INSTITUTOFEDERAL Parana 
+O pedido de aproveitamento de estudos deve ser protocolado na Secretaria Acadêmica do Câmpus, por meio de formulário próprio, acompanhado de histórico escolar completo e atualizado da instituição de origem, da ementa e do programa do componente curricular, autenticados pela Instituição de ensino credenciada pelo MEC.
 
-Ministerio da Educacao 
+§ 1º Os pedidos de aproveitamento de estudos devem ser feitos no prazo estabelecido pelo Calendário Acadêmico.
 
-externos por docentes do IFPR conforme regulamentação dada pela Resolução CONSUP/IFPR nº 47/2011 (IFPR, 2011). 
+§ 2º Os estudantes de cursos na modalidade de educação a distância devem entregar o pedido de aproveitamento de estudos ao tutor do Polo onde se realiza o curso, seguindo os mesmos prazos estabelecidos no parágrafo acima. O tutor deve encaminhar por via postal o pedido para a coordenação do curso correspondente.
 
-## **5.1.2 Aproveitamento de Estudos Anteriores** 
+§ 3º A Secretaria Acadêmica do Câmpus deve encaminhar os processos de aproveitamento de estudos à Direção de Ensino, Pesquisa e Extensão do Câmpus em até dois (02) dias úteis a contar da data do protocolo.
 
-O Aproveitamento de Estudos Anteriores é previsto na Resolução CONSUP/IFPR nº 55/2011, definido em seu Artigo nº 81: “O aproveitamento de estudos anteriores compreende o processo de aproveitamento de componentes curriculares ou etapas (séries, módulos, blocos) cursadas com êxito em outro curso” (IFPR, 2011). 
+§ 4º O estudante deve estar matriculado no componente curricular para o qual solicita o aproveitamento, ou ainda não tê-lo cursado.
 
-Para o curso de Tecnologia em Processos Gerenciais apenas podem ser aproveitadas disciplinas em outros cursos de mesmo nível, como previsto nos Artigos 82 e 86. O pedido deverá ser protocolado pelo discente na Secretaria Acadêmica, em prazo definido em calendário acadêmico, acompanhado de documentação própria, e seguirá o trâmite apresentado no Artigo nº 84 da referida resolução: 
+§ 5º O resultado do pedido de aproveitamento realizado pelo aluno não deve ultrapassar 10 (dez) dias úteis (IFPR, 2011).
 
-O pedido de aproveitamento de estudos deve ser protocolado na Secretaria Acadêmica do Câmpus, por meio de formulário próprio, acompanhado de histórico escolar completo e atualizado da instituição de origem, da ementa e do programa do componente curricular, autenticados pela Instituição de ensino credenciada pelo MEC. 
+106
 
-§ 1º Os pedidos de aproveitamento de estudos devem ser feitos no prazo estabelecido pelo Calendário Acadêmico. 
+## INSTITUTOFEDERAL
 
-§ 2º Os estudantes de cursos na modalidade de educação a distância devem entregar o pedido de aproveitamento de estudos ao tutor do Polo onde se realiza o curso, seguindo os mesmos prazos estabelecidos no parágrafo acima. O tutor deve encaminhar por via postal o pedido para a coordenação do curso correspondente. 
+## Parana
 
-§ 3º A Secretaria Acadêmica do Câmpus deve encaminhar os processos de aproveitamento de estudos à Direção de Ensino, Pesquisa e Extensão do Câmpus em até dois (02) dias úteis a contar da data do protocolo. 
+Ministerio da Educacao
 
-§ 4º O estudante deve estar matriculado no componente curricular para o qual solicita o aproveitamento, ou ainda não tê-lo cursado. 
+Será constituída, conforme Artigo nº 83 da Resolução CONSUP/IFPR nº 55/2011 (IFPR, 2011), uma comissão para avaliação do pedido de aproveitamento de estudos, compostas por professores da área de conhecimento, que deverá seguir os critérios:
 
-§ 5º O resultado do pedido de aproveitamento realizado pelo aluno não deve ultrapassar 10 (dez) dias úteis (IFPR, 2011). 
+I - correspondência entre a instituição de origem e o IFPR em relação às ementas, ao conteúdo programático e à carga horária cursados. A carga horária cursada não deverá ser inferior a 75% daquela indicada na disciplina do curso do IFPR;
 
-106 
+II - além da correspondência entre as disciplinas, o processo de aproveitamento de estudos poderá envolver avaliação teórica e/ou prática acerca do conhecimento a ser aproveitado.
 
-## INSTITUTOFEDERAL 
+Em caso de deferimento, caberá à Secretaria Acadêmica o cadastro do aproveitamento de estudos, como apresentado pelo Artigo nº 85.
 
-## Parana 
+## **5.1.3  Certificação de Conhecimentos Anteriores**
 
-Ministerio da Educacao 
+A certificação de conhecimentos anteriores está previsto pela Resolução CONSUP/IFPR nº 55/2011, em seu Artigo nº 87:
 
-Será constituída, conforme Artigo nº 83 da Resolução CONSUP/IFPR nº 55/2011 (IFPR, 2011), uma comissão para avaliação do pedido de aproveitamento de estudos, compostas por professores da área de conhecimento, que deverá seguir os critérios: 
+De acordo com a LDB 9394/96 e a Resolução CNE/CEB No 04/99, o conhecimento adquirido na educação profissional e tecnológica, inclusive no trabalho, poderá ser objeto de avaliação, reconhecimento e certificação para prosseguimento ou conclusão de estudos (IFPR, 2011).
 
-I - correspondência entre a instituição de origem e o IFPR em relação às ementas, ao conteúdo programático e à carga horária cursados. A carga horária cursada não deverá ser inferior a 75% daquela indicada na disciplina do curso do IFPR; 
+Os Artigos nº 88 e nº 90 da Resolução CONSUP/IFPR nº 55/2011 definem a Certificação de
 
-II - além da correspondência entre as disciplinas, o processo de aproveitamento de estudos poderá envolver avaliação teórica e/ou prática acerca do conhecimento a ser aproveitado. 
+Conhecimentos Anteriores e estabelecem os procedimentos do processo de certificação ao discente solicitante:
 
-Em caso de deferimento, caberá à Secretaria Acadêmica o cadastro do aproveitamento de estudos, como apresentado pelo Artigo nº 85. 
+Art. 88. Entende-se por Certificação de Conhecimentos Anteriores a dispensa de frequência em componente curricular do curso do IFPR em que o estudante comprove excepcional domínio de conhecimento através da aprovação em avaliação.
 
-## **5.1.3  Certificação de Conhecimentos Anteriores** 
+§ 1º A avaliação será realizada sob responsabilidade de Comissão composta por professores da área de conhecimento correspondente, designada pela Direção de Ensino, Pesquisa e Extensão do Câmpus, a qual estabelecerá os procedimentos e os critérios para a avaliação, de acordo
 
-A certificação de conhecimentos anteriores está previsto pela Resolução CONSUP/IFPR nº 55/2011, em seu Artigo nº 87: 
+107
 
-De acordo com a LDB 9394/96 e a Resolução CNE/CEB No 04/99, o conhecimento adquirido na educação profissional e tecnológica, inclusive no trabalho, poderá ser objeto de avaliação, reconhecimento e certificação para prosseguimento ou conclusão de estudos (IFPR, 2011). 
+## INSTITUTOFEDERAL Parana
 
-Os Artigos nº 88 e nº 90 da Resolução CONSUP/IFPR nº 55/2011 definem a Certificação de 
+Ministerio da Educacao
 
-Conhecimentos Anteriores e estabelecem os procedimentos do processo de certificação ao discente solicitante: 
+com o previsto no projeto do curso e terá quinze (15) dias úteis para a expedição do resultado.
 
-Art. 88. Entende-se por Certificação de Conhecimentos Anteriores a dispensa de frequência em componente curricular do curso do IFPR em que o estudante comprove excepcional domínio de conhecimento através da aprovação em avaliação. 
+§ 2º A avaliação para Certificação de Conhecimentos Anteriores poderá ocorrer por solicitação fundamentada do estudante, que justifique a excepcionalidade, ou por iniciativa de professores do curso.
 
-§ 1º A avaliação será realizada sob responsabilidade de Comissão composta por professores da área de conhecimento correspondente, designada pela Direção de Ensino, Pesquisa e Extensão do Câmpus, a qual estabelecerá os procedimentos e os critérios para a avaliação, de acordo 
+§ 3º Quando solicitado pelo estudante, o pedido de Certificação de Conhecimentos Anteriores deverá ser feito no prazo de até dez (10) dias a contar do início do período letivo, através de formulário próprio entregue à Secretaria Acadêmica do Câmpus.
 
-107 
+§ 4º Caberá à Comissão designada pela Direção de Ensino, Pesquisa e Extensão do Câmpus estabelecer a programação e a supervisão das avaliações, bem como a homologação dos resultados finais.
 
-## INSTITUTOFEDERAL Parana 
+§ 5º Não se aplica a Certificação de Conhecimentos Anteriores para o componente curricular de Trabalho de Conclusão de Curso (TCC) ou Monografia, bem como para Estágio Supervisionado.
 
-Ministerio da Educacao 
+§ 6º O estudante deverá estar matriculado ou ainda não ter cursado o(s) componente(s) curricular(es) para o(s) qual(is) solicita a certificação de conhecimentos, até que seja expedido o resultado do seu pedido de aproveitamento.
 
-com o previsto no projeto do curso e terá quinze (15) dias úteis para a expedição do resultado. 
+Art. 90. Caberá à Direção de Ensino, Pesquisa e Extensão do Câmpus encaminhar o resultado à Secretaria Acadêmica do Câmpus através de processo individual por estudante, contendo os componentes curriculares aproveitados com os respectivos conceitos avaliativos e a frequência, acompanhados de atas e/ou relatórios das avaliações, assinado pelos membros da Comissão designada para tal.
 
-§ 2º A avaliação para Certificação de Conhecimentos Anteriores poderá ocorrer por solicitação fundamentada do estudante, que justifique a excepcionalidade, ou por iniciativa de professores do curso. 
+Parágrafo único. Os componentes curriculares com certificação de conhecimento serão cadastrados, pela Secretaria Acadêmica do Câmpus, no sistema de controle acadêmico com a frequência integral e o desempenho atingido pelo estudante (IFPR, 2011).
 
-§ 3º Quando solicitado pelo estudante, o pedido de Certificação de Conhecimentos Anteriores deverá ser feito no prazo de até dez (10) dias a contar do início do período letivo, através de formulário próprio entregue à Secretaria Acadêmica do Câmpus. 
+## **5.1.4  Expedição de Diplomas e Certificados**
 
-§ 4º Caberá à Comissão designada pela Direção de Ensino, Pesquisa e Extensão do Câmpus estabelecer a programação e a supervisão das avaliações, bem como a homologação dos resultados finais. 
+## Conforme a Resolução CONSUP/IFPR nº. 55/2011 em seu Artigo 114, define-se que:
 
-§ 5º Não se aplica a Certificação de Conhecimentos Anteriores para o componente curricular de Trabalho de Conclusão de Curso (TCC) ou Monografia, bem como para Estágio Supervisionado. 
+O estudante que frequentar todos os módulos/unidades curriculares previstos no curso, tendo obtido aproveitamento em todos eles, frequência mínima de setenta e cinco por cento (75%) das horas-aula e Trabalho de Conclusão de Curso ou relatório de Estágio aprovado, quando o curso exigir, antes do prazo para jubilamento, receberá o diploma de concluinte do curso, que será obtido junto à Secretaria Acadêmica de seu Câmpus, após ter realizado a colação de grau na data agendada pela Instituição. § 1º Antes da colação de grau, o formando deverá apresentar à Secretaria Acadêmica do Câmpus o comprovante de ausência de débito com a biblioteca e com a Direção de Ensino, Pesquisa e Extensão do Câmpus e, no caso de ter sofrido mudança no nome durante o curso, entregar cópia do documento do qual consta o nome atualizado.
 
-§ 6º O estudante deverá estar matriculado ou ainda não ter cursado o(s) componente(s) curricular(es) para o(s) qual(is) solicita a certificação de conhecimentos, até que seja expedido o resultado do seu pedido de aproveitamento. 
+§ 2º O formando que não comparecer à cerimônia de formatura de seu curso deverá solicitar à Direção Geral, mediante requerimento, nova data
 
-Art. 90. Caberá à Direção de Ensino, Pesquisa e Extensão do Câmpus encaminhar o resultado à Secretaria Acadêmica do Câmpus através de processo individual por estudante, contendo os componentes curriculares aproveitados com os respectivos conceitos avaliativos e a frequência, acompanhados de atas e/ou relatórios das avaliações, assinado pelos membros da Comissão designada para tal. 
+108
 
-Parágrafo único. Os componentes curriculares com certificação de conhecimento serão cadastrados, pela Secretaria Acadêmica do Câmpus, no sistema de controle acadêmico com a frequência integral e o desempenho atingido pelo estudante (IFPR, 2011). 
+## INSTITUTOFEDERAL Parana
 
-## **5.1.4  Expedição de Diplomas e Certificados** 
+Ministerio da Educacao
 
-## Conforme a Resolução CONSUP/IFPR nº. 55/2011 em seu Artigo 114, define-se que: 
+para formatura em Gabinete, para receber a outorga do diploma (IFPR, 2011).
 
-O estudante que frequentar todos os módulos/unidades curriculares previstos no curso, tendo obtido aproveitamento em todos eles, frequência mínima de setenta e cinco por cento (75%) das horas-aula e Trabalho de Conclusão de Curso ou relatório de Estágio aprovado, quando o curso exigir, antes do prazo para jubilamento, receberá o diploma de concluinte do curso, que será obtido junto à Secretaria Acadêmica de seu Câmpus, após ter realizado a colação de grau na data agendada pela Instituição. § 1º Antes da colação de grau, o formando deverá apresentar à Secretaria Acadêmica do Câmpus o comprovante de ausência de débito com a biblioteca e com a Direção de Ensino, Pesquisa e Extensão do Câmpus e, no caso de ter sofrido mudança no nome durante o curso, entregar cópia do documento do qual consta o nome atualizado. 
+O discente terá outorgado o grau de Tecnólogo em Processos Gerenciais pelo Magnífico Reitor ou seu representante, podendo, a partir de então, exercer a profissão. A comprovação de titularidade ocorrerá mediante diploma, e os trâmites legais para a expedição de diplomas e certificados ficam a encargo da Secretaria Acadêmica que atuará com base nos preceitos de seu regulamento. O ato coletivo de colação de grau será realizado em sessão solene, em dia, hora e local previamente designados pelo Reitor. Os concluintes que não colarem grau na cerimônia de formatura ou necessitarem de antecipação mediante justificativa, poderão fazê-lo, em dia e hora designados pelo reitor, na presença de, pelo menos, dois professores do curso, em sessão solene realizada em gabinete.
 
-§ 2º O formando que não comparecer à cerimônia de formatura de seu curso deverá solicitar à Direção Geral, mediante requerimento, nova data 
+## **5.1.5  Acessibilidade**
 
-108 
+A instituição constantemente mostra-se preocupada ao cumprir com o expresso no Decreto nº 5.296, de 02 de dezembro de 2004 (BRASIL, 2004), que regulamenta a Lei nº 10.048, de 8 de novembro de 2000 (BRASIL, 2000), e a Lei nº 13.146/2015,  Lei Brasileira de Inclusão da Pessoa com Deficiência oferecendo prioridade de atendimento às pessoas que específica, e outras providências, e a Lei nº 10.098, de 19 de dezembro de 2000 (BRASIL, 2000), que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas com deficiência definidas.
 
-## INSTITUTOFEDERAL Parana 
+O Câmpus Avançado Arapongas conta com o trabalho do Núcleo de Apoio a Pessoas com Necessidades Específicas – NAPNE, visando a inserção e o atendimento aos alunos com Necessidades Educacionais Específicas nos cursos de nível básico, técnico e tecnológico nas Instituições Federais de Educação, a Secretaria de Educação Profissional e Tecnológica (SETEC/MEC) criou o Programa de Educação, Tecnologia e Profissionalização para Pessoas com Necessidades Educacionais Especiais (TEC NEP).
 
-Ministerio da Educacao 
+109
 
-para formatura em Gabinete, para receber a outorga do diploma (IFPR, 2011). 
+## INSTITUTOFEDERAL Parana
 
-O discente terá outorgado o grau de Tecnólogo em Processos Gerenciais pelo Magnífico Reitor ou seu representante, podendo, a partir de então, exercer a profissão. A comprovação de titularidade ocorrerá mediante diploma, e os trâmites legais para a expedição de diplomas e certificados ficam a encargo da Secretaria Acadêmica que atuará com base nos preceitos de seu regulamento. O ato coletivo de colação de grau será realizado em sessão solene, em dia, hora e local previamente designados pelo Reitor. Os concluintes que não colarem grau na cerimônia de formatura ou necessitarem de antecipação mediante justificativa, poderão fazê-lo, em dia e hora designados pelo reitor, na presença de, pelo menos, dois professores do curso, em sessão solene realizada em gabinete. 
+Ministerio da Educacao
 
-## **5.1.5  Acessibilidade** 
+O objetivo é estimular a criação da cultura da “educação para a convivência”, “aceitação da diversidade” e, principalmente, buscar a “quebra das barreiras arquitetônicas, educacionais e atitudinais” nos Institutos Federais. As responsabilidades dos coordenadores dos NAPNEs são:
 
-A instituição constantemente mostra-se preocupada ao cumprir com o expresso no Decreto nº 5.296, de 02 de dezembro de 2004 (BRASIL, 2004), que regulamenta a Lei nº 10.048, de 8 de novembro de 2000 (BRASIL, 2000), e a Lei nº 13.146/2015,  Lei Brasileira de Inclusão da Pessoa com Deficiência oferecendo prioridade de atendimento às pessoas que específica, e outras providências, e a Lei nº 10.098, de 19 de dezembro de 2000 (BRASIL, 2000), que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas com deficiência definidas. 
+a) Promover ações de sensibilização da comunidade escolar quanto a temática da Educação Inclusiva;
 
-O Câmpus Avançado Arapongas conta com o trabalho do Núcleo de Apoio a Pessoas com Necessidades Específicas – NAPNE, visando a inserção e o atendimento aos alunos com Necessidades Educacionais Específicas nos cursos de nível básico, técnico e tecnológico nas Instituições Federais de Educação, a Secretaria de Educação Profissional e Tecnológica (SETEC/MEC) criou o Programa de Educação, Tecnologia e Profissionalização para Pessoas com Necessidades Educacionais Especiais (TEC NEP). 
+b) Levantar a demanda de Pessoas com Necessidades Educacionais Específicas na Instituição, comunicando à Direção do Câmpus e à Pró-Reitoria de Extensão, Pesquisa e Inovação a importância e o tipo de atendimento a ser realizado;
 
-109 
+c) Contribuir para a adequação dos Projetos Político-Pedagógicos de modo a contemplar a educação inclusiva, oferecendo informações atualizadas à Direção de Ensino, bem como aos demais gestores do câmpus;
 
-## INSTITUTOFEDERAL Parana 
+d) Articular os diversos setores da instituição nas atividades relativas à inclusão, divulgando as ações prioritárias;
 
-Ministerio da Educacao 
+e) Participar das discussões relativas a reformas e construção de novas unidades, garantindo a acessibilidade às edificações, aos mobiliários, aos espaços e equipamentos com vistas à mobilidade das pessoas de maneira autônoma e segura, conforme previsto em legislação própria;
 
-O objetivo é estimular a criação da cultura da “educação para a convivência”, “aceitação da diversidade” e, principalmente, buscar a “quebra das barreiras arquitetônicas, educacionais e atitudinais” nos Institutos Federais. As responsabilidades dos coordenadores dos NAPNEs são: 
+f) Estabelecer contato com instituições ou organizações que atendam Pessoas com Necessidades Educacionais Específicas, visando desenvolver trabalhos em parceria;
 
-a) Promover ações de sensibilização da comunidade escolar quanto a temática da Educação Inclusiva; 
+g) Divulgar as ações do TEC NEP/NAPNE da SETEC para a comunidade em geral;
 
-b) Levantar a demanda de Pessoas com Necessidades Educacionais Específicas na Instituição, comunicando à Direção do Câmpus e à Pró-Reitoria de Extensão, Pesquisa e Inovação a importância e o tipo de atendimento a ser realizado; 
+h) Representar o NAPNE nas ocasiões em que se fizer necessário.
 
-c) Contribuir para a adequação dos Projetos Político-Pedagógicos de modo a contemplar a educação inclusiva, oferecendo informações atualizadas à Direção de Ensino, bem como aos demais gestores do câmpus; 
+O IFPR Câmpus Avançado Arapongas conta com o apoio de Tradutor e Intérprete de LIBRAS (TILS) que tem como objetivo disponibilizar atendimento ao aluno surdo, e criar novas ferramentas para auxílio do professor na inclusão de surdos no IFPR. Orientar a conduta moral e profissional, em conformidade com o Código de Ética da categoria do Intérprete, instituir normas que devem subsidiar o exercício das atividades dos TILS, assegurar o direito linguístico e a acessibilidade das pessoas surdas no ensino superior conforme Lei nº 10.098/2000 e Lei nº 10.436/2002, regulamentadas pelo Decreto nº 5626/2005. Como a garantia da valorização e o
 
-d) Articular os diversos setores da instituição nas atividades relativas à inclusão, divulgando as ações prioritárias; 
+110
 
-e) Participar das discussões relativas a reformas e construção de novas unidades, garantindo a acessibilidade às edificações, aos mobiliários, aos espaços e equipamentos com vistas à mobilidade das pessoas de maneira autônoma e segura, conforme previsto em legislação própria; 
+## INSTITUTOFEDERAL Parana
 
-f) Estabelecer contato com instituições ou organizações que atendam Pessoas com Necessidades Educacionais Específicas, visando desenvolver trabalhos em parceria; 
+Ministerio da Educacao
 
-g) Divulgar as ações do TEC NEP/NAPNE da SETEC para a comunidade em geral; 
+reconhecimento do serviço de tradução e interpretação de Língua Brasileira de Sinais/Português e dos profissionais que realizam essa atividade, assegurar o cumprimento do Código de Ética/Conduta do Tradutor Intérprete de Língua Brasileira de Sinais/Português, e cumprir as determinações legais do Instituto Federal do Paraná.
 
-h) Representar o NAPNE nas ocasiões em que se fizer necessário. 
+O Câmpus Avançado Arapongas promove a acessibilidade na infraestrutura e mobiliário conforme a Lei n. 10.048, de 8 de novembro de 2000, Lei n° 10.098, de 19 de dezembro de 2000 e Decreto nº 5.296, de 2 de dezembro de 2004. As instalações físicas do IFPR Câmpus Avançado Arapongas estão em conformidade com o Art. 24, Seção II, Capítulo IV, do Decreto nº 5.296, de 02 de dezembro de 2004, garantindo o acesso e a utilização de todos os seus ambientes por pessoas com deficiência ou com mobilidade reduzida, incluindo salas de aula, laboratórios de informática e biblioteca. A estrutura interna do prédio de ensino está totalmente adequada às normas de acessibilidade, assegurando, com base na Lei nº 13.146, de 6 de julho de 2015, o exercício dos direitos e das liberdades fundamentais por pessoas com deficiência.
 
-O IFPR Câmpus Avançado Arapongas conta com o apoio de Tradutor e Intérprete de LIBRAS (TILS) que tem como objetivo disponibilizar atendimento ao aluno surdo, e criar novas ferramentas para auxílio do professor na inclusão de surdos no IFPR. Orientar a conduta moral e profissional, em conformidade com o Código de Ética da categoria do Intérprete, instituir normas que devem subsidiar o exercício das atividades dos TILS, assegurar o direito linguístico e a acessibilidade das pessoas surdas no ensino superior conforme Lei nº 10.098/2000 e Lei nº 10.436/2002, regulamentadas pelo Decreto nº 5626/2005. Como a garantia da valorização e o 
+## **5.1.6  Educação Inclusiva**
 
-110 
+O direito à educação escolar inclusiva é um dos pilares através do qual se pode conquistar a cidadania e desencadear outras garantias (saúde, habitação e segurança). A inserção no processo educativo escolar constitui-se, assim, o canal para a defesa e a promoção da igualdade de direitos. A Constituição Brasileira em seu inciso I do artigo 206 estabelece “a igualdade de condições de acesso e permanência na escola” como um dos princípios para o ensino.
 
-## INSTITUTOFEDERAL Parana 
+Assim, entende-se que todos são diferentes dentro do ambiente educacional, e o campus busca garantir educação inclusiva nos mais variados contextos da instituição, seja ele físico, social e/ou pedagógico. Em um ambiente que reconhece e valoriza a diversidade humana, onde todas as pessoas possam usufruir do direito a uma educação de qualidade e a plena participação nas atividades acadêmicas.
 
-Ministerio da Educacao 
+Buscando cumprir seu compromisso com uma educação inclusiva, além dos docentes, o Campus Avançado Arapongas conta com uma equipe de Técnicos Administrativos em Educação
 
-reconhecimento do serviço de tradução e interpretação de Língua Brasileira de Sinais/Português e dos profissionais que realizam essa atividade, assegurar o cumprimento do Código de Ética/Conduta do Tradutor Intérprete de Língua Brasileira de Sinais/Português, e cumprir as determinações legais do Instituto Federal do Paraná. 
+111
 
-O Câmpus Avançado Arapongas promove a acessibilidade na infraestrutura e mobiliário conforme a Lei n. 10.048, de 8 de novembro de 2000, Lei n° 10.098, de 19 de dezembro de 2000 e Decreto nº 5.296, de 2 de dezembro de 2004. As instalações físicas do IFPR Câmpus Avançado Arapongas estão em conformidade com o Art. 24, Seção II, Capítulo IV, do Decreto nº 5.296, de 02 de dezembro de 2004, garantindo o acesso e a utilização de todos os seus ambientes por pessoas com deficiência ou com mobilidade reduzida, incluindo salas de aula, laboratórios de informática e biblioteca. A estrutura interna do prédio de ensino está totalmente adequada às normas de acessibilidade, assegurando, com base na Lei nº 13.146, de 6 de julho de 2015, o exercício dos direitos e das liberdades fundamentais por pessoas com deficiência. 
+## INSTITUTOFEDERAL Parana
 
-## **5.1.6  Educação Inclusiva** 
+Ministerio da Educacao
 
-O direito à educação escolar inclusiva é um dos pilares através do qual se pode conquistar a cidadania e desencadear outras garantias (saúde, habitação e segurança). A inserção no processo educativo escolar constitui-se, assim, o canal para a defesa e a promoção da igualdade de direitos. A Constituição Brasileira em seu inciso I do artigo 206 estabelece “a igualdade de condições de acesso e permanência na escola” como um dos princípios para o ensino. 
+lotados na Seção de Ensino: uma Tradutora Intérprete de Libras, uma Pedagoga, um Técnica em Assuntos Educacionais,  uma bibliotecária e um Técnico de Laboratório de Informática. Além da Coordenadora do CNAPNE (Núcleo de Atendimento às Pessoas com Necessidades Educacionais Específicas).  Essa equipe se dedica à promoção da inclusão, especialmente a pedagoga e a Técnica em Assuntos Educacionais que desempenham um papel crucial no acompanhamento pedagógico e na viabilização de condições que favoreçam a inclusão dos estudantes. O campus almeja a composição completa da equipe multiprofissional que compõe a SEPAE no IFPR.
 
-Assim, entende-se que todos são diferentes dentro do ambiente educacional, e o campus busca garantir educação inclusiva nos mais variados contextos da instituição, seja ele físico, social e/ou pedagógico. Em um ambiente que reconhece e valoriza a diversidade humana, onde todas as pessoas possam usufruir do direito a uma educação de qualidade e a plena participação nas atividades acadêmicas. 
+## **5.1.7  Mobilidade Estudantil e Internacionalização**
 
-Buscando cumprir seu compromisso com uma educação inclusiva, além dos docentes, o Campus Avançado Arapongas conta com uma equipe de Técnicos Administrativos em Educação 
+Conforme ações do PDI do IFPR (PDI 2014/2018, p. 48) especifica-se a “Implementação e consolidação do Programa de Mobilidade Estudantil Nacional e Internacional e Programa Ciência Sem Fronteiras”.
 
-111 
+O IFPR, por meio de sua Coordenadoria de Relações Internacionais, busca promover a internacionalização ampla do IFPR, por meio da formulação de políticas, da interlocução com parceiros nacionais e internacionais e do apoio às ações, projetos e programas de internacionalização dos câmpus e outros setores.
 
-## INSTITUTOFEDERAL Parana 
+De acordo com essa Coordenação, a internacionalização refere-se a todos esforços da instituição para incorporar perspectivas globais no ensino, pesquisa e extensão; para construir competências internacionais e interculturais entre alunos, professores e técnicos; para estabelecer parcerias com comunidades e instituições no exterior.
 
-Ministerio da Educacao 
+As ações especificadas são:
 
-lotados na Seção de Ensino: uma Tradutora Intérprete de Libras, uma Pedagoga, um Técnica em Assuntos Educacionais,  uma bibliotecária e um Técnico de Laboratório de Informática. Além da Coordenadora do CNAPNE (Núcleo de Atendimento às Pessoas com Necessidades Educacionais Específicas).  Essa equipe se dedica à promoção da inclusão, especialmente a pedagoga e a Técnica em Assuntos Educacionais que desempenham um papel crucial no acompanhamento pedagógico e na viabilização de condições que favoreçam a inclusão dos estudantes. O campus almeja a composição completa da equipe multiprofissional que compõe a SEPAE no IFPR. 
+- Participação de Congressos Internacionais, tais como o World Federation of Colleges and Polytechnics (WFCP);
 
-## **5.1.7  Mobilidade Estudantil e Internacionalização** 
+Fórum Franco Brasileiro – Ciência e Sociedade. - Oportunidade de Bolsa de Estudo – Nível Doutorado;
 
-Conforme ações do PDI do IFPR (PDI 2014/2018, p. 48) especifica-se a “Implementação e consolidação do Programa de Mobilidade Estudantil Nacional e Internacional e Programa Ciência Sem Fronteiras”. 
+112
 
-O IFPR, por meio de sua Coordenadoria de Relações Internacionais, busca promover a internacionalização ampla do IFPR, por meio da formulação de políticas, da interlocução com parceiros nacionais e internacionais e do apoio às ações, projetos e programas de internacionalização dos câmpus e outros setores. 
+## INSTITUTOFEDERAL
 
-De acordo com essa Coordenação, a internacionalização refere-se a todos esforços da instituição para incorporar perspectivas globais no ensino, pesquisa e extensão; para construir competências internacionais e interculturais entre alunos, professores e técnicos; para estabelecer parcerias com comunidades e instituições no exterior. 
+## Parana
 
-As ações especificadas são: 
+Ministerio da Educacao<br>
 
-- Participação de Congressos Internacionais, tais como o World Federation of Colleges and Polytechnics (WFCP); 
+- Programa de Bolsa Robert S. McNamara, para candidatos com doutorado em
 
-Fórum Franco Brasileiro – Ciência e Sociedade. - Oportunidade de Bolsa de Estudo – Nível Doutorado; 
+- andamento.
 
-112 
+Tais procedimentos são regulamentados pela Instrução Interna de Procedimentos Nº 02/2014 – PROENS/IFPR – Mobilidade Estudantil.
 
-## INSTITUTOFEDERAL 
+## **6. EQUIPE MULTIDISCIPLINAR**
 
-## Parana 
+## 6.1. CORPO DOCENTE
 
-**==> picture [84 x 10] intentionally omitted <==**
+## **6.1.1 Atribuições do Coordenador**
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+O coordenador deverá coordenar as atividades administrativas e pedagógicas do Curso Superior de Tecnologia em Processos Gerenciais. As atividades deverão compreender a verificação das questões estruturais para o funcionamento do curso, como acervo bibliográfico necessário, instalações de sala de aula condizente com as necessidades das turmas, levantamento de corpo docente disponível para atuar nos componentes curriculares. Buscar-se-á fornecer treinamento e capacitação para que os professores utilizem estratégias de ensino-aprendizagem modernas e desafiadoras ao estudante, visando estimulá-los na construção do conhecimento.
 
+A coordenação deverá articular com as pró-reitorias, direção geral e de ensino e demais setores do câmpus para oportunizar atividades como palestras, visitas técnicas, intercâmbios e convênios com instituições no exterior, convênios de estágios e o fomento à pesquisa científica por parte dos estudantes, tendo como base os programas institucionais já existentes.
 
-- Programa de Bolsa Robert S. McNamara, para candidatos com doutorado em 
+Além disso, o (a) Coordenador(a) do curso desempenha atividades inerentes às exigências e aos objetivos e compromissos do câmpus, com as seguintes atribuições:
 
-- andamento. 
+   1. Acompanhar em conjunto a equipe pedagógica as práticas pedagógicas.
 
-Tais procedimentos são regulamentados pela Instrução Interna de Procedimentos Nº 02/2014 – PROENS/IFPR – Mobilidade Estudantil. 
+2. Pronunciar sobre aproveitamento de estudo e adaptação de estudantes, subsidiando o
 
-## **6. EQUIPE MULTIDISCIPLINAR** 
+colegiado de curso, quando for o caso.
 
-## 6.1. CORPO DOCENTE 
+   3. Participar da elaboração do calendário acadêmico.
 
-## **6.1.1 Atribuições do Coordenador** 
+113
 
-O coordenador deverá coordenar as atividades administrativas e pedagógicas do Curso Superior de Tecnologia em Processos Gerenciais. As atividades deverão compreender a verificação das questões estruturais para o funcionamento do curso, como acervo bibliográfico necessário, instalações de sala de aula condizente com as necessidades das turmas, levantamento de corpo docente disponível para atuar nos componentes curriculares. Buscar-se-á fornecer treinamento e capacitação para que os professores utilizem estratégias de ensino-aprendizagem modernas e desafiadoras ao estudante, visando estimulá-los na construção do conhecimento. 
+## INSTITUTOFEDERAL Parana
 
-A coordenação deverá articular com as pró-reitorias, direção geral e de ensino e demais setores do câmpus para oportunizar atividades como palestras, visitas técnicas, intercâmbios e convênios com instituições no exterior, convênios de estágios e o fomento à pesquisa científica por parte dos estudantes, tendo como base os programas institucionais já existentes. 
+Ministerio da Educacao
 
-Além disso, o (a) Coordenador(a) do curso desempenha atividades inerentes às exigências e aos objetivos e compromissos do câmpus, com as seguintes atribuições: 
+   4. Elaborar o horário do curso em articulação com as demais coordenações.
 
-   1. Acompanhar em conjunto a equipe pedagógica as práticas pedagógicas. 
+   5. Convocar e presidir reuniões do curso e /ou colegiado.
 
-2. Pronunciar sobre aproveitamento de estudo e adaptação de estudantes, subsidiando o 
+6. Orientar e acompanhar, em conjunto com a equipe pedagógica, o planejamento e
 
-colegiado de curso, quando for o caso. 
+desenvolvimento das unidades curriculares e aproveitamento dos estudantes.
 
-   3. Participar da elaboração do calendário acadêmico. 
+7. Acompanhar em conjunto com a equipe pedagógica a execução de atividades
 
-113 
+programadas, bem como o cumprimento das mesmas pelo corpo docente do curso.
 
-## INSTITUTOFEDERAL Parana 
+8. Promover avaliações periódicas do curso em articulação com a Comissão Própria de
 
-Ministerio da Educacao 
+Avaliação.
 
-   4. Elaborar o horário do curso em articulação com as demais coordenações. 
+   9. Promover reuniões periódicas com o colegiado para revisão do projeto pedagógico.
 
-   5. Convocar e presidir reuniões do curso e /ou colegiado. 
+10. Promover reuniões com os docentes para revisão dos programas de ensino, das
 
-6. Orientar e acompanhar, em conjunto com a equipe pedagógica, o planejamento e 
+diretrizes conceituais do curso, dos componentes curriculares e das bibliografias.
 
-desenvolvimento das unidades curriculares e aproveitamento dos estudantes. 
+   11. Aprovar os planos de aula de cada componente curricular.
 
-7. Acompanhar em conjunto com a equipe pedagógica a execução de atividades 
+   12. Representar o Curso junto a órgãos, conselhos, eventos e outros, internos e externos.
 
-programadas, bem como o cumprimento das mesmas pelo corpo docente do curso. 
+   13. Participar e apoiar atividades extraclasses.
 
-8. Promover avaliações periódicas do curso em articulação com a Comissão Própria de 
+14. Implementar ações de atualização do acervo bibliográfico e laboratórios específicos
 
-Avaliação. 
+do curso bem como a sua manutenção.
 
-   9. Promover reuniões periódicas com o colegiado para revisão do projeto pedagógico. 
+15. Implementar ações juntamente com o Núcleo Docente Estruturante (NDE) do curso
 
-10. Promover reuniões com os docentes para revisão dos programas de ensino, das 
+buscando subsídios que visem a permanente atualização do Projeto Pedagógico do Curso.
 
-diretrizes conceituais do curso, dos componentes curriculares e das bibliografias. 
+   16. Participar do processo de seleção dos professores que irão atuar no curso.
 
-   11. Aprovar os planos de aula de cada componente curricular. 
+## **6.1.2 Experiência do Coordenador**
 
-   12. Representar o Curso junto a órgãos, conselhos, eventos e outros, internos e externos. 
+(esta seção será preenchida após definição do(a) coordenador(a))
 
-   13. Participar e apoiar atividades extraclasses. 
+## **6.1.3 Núcleo Docente Estruturante (NDE)**
 
-14. Implementar ações de atualização do acervo bibliográfico e laboratórios específicos 
+A composição do NDE respeita o Parecer CONAES nº. 4/2010 e Resolução CONAES nº. 01/2010.
 
-do curso bem como a sua manutenção. 
+(esta seção será preenchida após aprovação do PPC)
 
-15. Implementar ações juntamente com o Núcleo Docente Estruturante (NDE) do curso 
+114
 
-buscando subsídios que visem a permanente atualização do Projeto Pedagógico do Curso. 
+## INSTITUTOFEDERAL Parana
 
-   16. Participar do processo de seleção dos professores que irão atuar no curso. 
+Ministerio da Educacao
 
-## **6.1.2 Experiência do Coordenador** 
-
-(esta seção será preenchida após definição do(a) coordenador(a)) 
-
-## **6.1.3 Núcleo Docente Estruturante (NDE)** 
-
-A composição do NDE respeita o Parecer CONAES nº. 4/2010 e Resolução CONAES nº. 01/2010. 
-
-(esta seção será preenchida após aprovação do PPC) 
-
-114 
-
-## INSTITUTOFEDERAL Parana 
-
-Ministerio da Educacao 
-
-## **6.1.4 Relação do Corpo docente** 
+## **6.1.4 Relação do Corpo docente**
 
 |**Nome Completo**|**Curso de**<br>**Graduação**|**Maior**<br>**Titulação**|**Regime de**<br>**Trabalho**<br>**(DE, 40h,**<br>**20h)**|**Link Currículo**<br>**Lattes**|
 |---|---|---|---|---|
@@ -2856,13 +2727,11 @@ Ministerio da Educacao
 |Leila Cleuri Pryjma|Licenciatura<br>em<br>Letras,<br>Pedagogia,<br>Filosofia e Ciência<br>da Felicidade|Doutorado|DE|http://lattes.cnpq.br/<br>5052441188196242|
 |Luciano Rudnik|Licenciatura<br>em<br>Matemática|Doutorado|DE|http://lattes.cnpq.br/<br>9353730069407404|
 
+115
 
+## 1[INSTITUTOFEDERAL] Parana
 
-115 
-
-## 1[INSTITUTOFEDERAL] Parana 
-
-Ministerio da Educacao 
+Ministerio da Educacao
 
 |1 [INSTITUTOFEDERAL]<br>Parana|[INSTITUTOFEDERAL]|||Ministerio da Educacao|
 |---|---|---|---|---|
@@ -2875,49 +2744,47 @@ Ministerio da Educacao
 |Tiago Henrique dos<br>Santos|Bacharelado<br>em<br>Engenharia Elétrica|Doutorado|DE|http://lattes.cnpq.br/<br>0721099554331575|
 |Thiago Pereira do<br>Nascimento|Bacharelado<br>em<br>Ciências Contábeis|Mestrado|DE|http://lattes.cnpq.br/<br>8271993364166104|
 
+## **6.1.5 Colegiado de Curso**
 
+O Colegiado é um órgão consultivo e deliberativo do câmpus para assuntos de natureza pedagógica, didática e disciplinar quanto aos fatos e acontecimentos no decorrer do curso. A coordenação deverá propor as pautas das reuniões bimestrais, estando aberto para sugestões de temas para a pauta. Este colegiado respeitará o Regimento Interno Comum aos Câmpus: Resolução 08/2014.
 
-## **6.1.5 Colegiado de Curso** 
+Sua composição conta com todos os docentes que atuam no curso; dois representantes discentes, provenientes de turmas diferentes. Caso um representante discente falte a três reuniões
 
-O Colegiado é um órgão consultivo e deliberativo do câmpus para assuntos de natureza pedagógica, didática e disciplinar quanto aos fatos e acontecimentos no decorrer do curso. A coordenação deverá propor as pautas das reuniões bimestrais, estando aberto para sugestões de temas para a pauta. Este colegiado respeitará o Regimento Interno Comum aos Câmpus: Resolução 08/2014. 
+116
 
-Sua composição conta com todos os docentes que atuam no curso; dois representantes discentes, provenientes de turmas diferentes. Caso um representante discente falte a três reuniões 
+## INSTITUTOFEDERAL Parana
 
-116 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+consecutivas ou não, ele perderá o direito de representação, cabendo aos seus colegas de turma escolher um novo representante; um representante técnico-administrativo em educação vinculado diretamente ao curso, quando houver.
 
-Ministerio da Educacao 
+As reuniões do Colegiado ocorrerão em sessões ordinárias ou extraordinárias, pelo menos uma vez bimestral, com a presença de, no mínimo, metade mais um de seus membros, sendo as decisões tomadas por maioria simples de votos.
 
-consecutivas ou não, ele perderá o direito de representação, cabendo aos seus colegas de turma escolher um novo representante; um representante técnico-administrativo em educação vinculado diretamente ao curso, quando houver. 
+## **6.1.6 Políticas de Capacitação do Corpo Docente**
 
-As reuniões do Colegiado ocorrerão em sessões ordinárias ou extraordinárias, pelo menos uma vez bimestral, com a presença de, no mínimo, metade mais um de seus membros, sendo as decisões tomadas por maioria simples de votos. 
+A Resolução № 48/11, normatiza o Programa de Qualificação e Formação dos Servidores do IFPR no seu artigo primeiro ao artigo quinto. O Programa de Incentivo à Formação Inicial, Continuada e de Qualificação de Servidores Públicos, sob gestão da Pró-Reitoria de Gestão de Pessoas, contemplará, quando possível, os seguintes níveis formativos, nas modalidades EaD e presencial:
 
-## **6.1.6 Políticas de Capacitação do Corpo Docente** 
+## I. Cursos de Graduação;
 
-A Resolução № 48/11, normatiza o Programa de Qualificação e Formação dos Servidores do IFPR no seu artigo primeiro ao artigo quinto. O Programa de Incentivo à Formação Inicial, Continuada e de Qualificação de Servidores Públicos, sob gestão da Pró-Reitoria de Gestão de Pessoas, contemplará, quando possível, os seguintes níveis formativos, nas modalidades EaD e presencial: 
+II. Cursos de Pós-Graduação _Lato Sensu_ : aperfeiçoamento e especialização; III. Cursos de Pós-Graduação _Stricto Sensu_ : mestrado e doutorado; IV. Estágio Pós-Doutoral;
 
-## I. Cursos de Graduação; 
+Outros cursos, estágios, intercâmbios acadêmico-profissionais ou atividades de capacitação, no interesse da Administração.
 
-II. Cursos de Pós-Graduação _Lato Sensu_ : aperfeiçoamento e especialização; III. Cursos de Pós-Graduação _Stricto Sensu_ : mestrado e doutorado; IV. Estágio Pós-Doutoral; 
+Além dos programas de Pós-Graduação _Stricto Sensu_ , a formação permanente do corpo docente será objeto de discussão e definição de estratégias formativas, com vistas a atender aos objetivos do curso, devendo ocorrer em semanas pedagógicas, oficinas específicas, participação em eventos formativos institucionais e de realização de estudos acadêmico-científicos de forma continuada.
 
-Outros cursos, estágios, intercâmbios acadêmico-profissionais ou atividades de capacitação, no interesse da Administração. 
+Os parâmetros e regulamentos de concessão e remuneração de bolsas terão como base o Programa Institucional de Incentivo ao Ensino, Extensão, Pesquisa e Inovação (PROEPI) do
 
-Além dos programas de Pós-Graduação _Stricto Sensu_ , a formação permanente do corpo docente será objeto de discussão e definição de estratégias formativas, com vistas a atender aos objetivos do curso, devendo ocorrer em semanas pedagógicas, oficinas específicas, participação em eventos formativos institucionais e de realização de estudos acadêmico-científicos de forma continuada. 
+117
 
-Os parâmetros e regulamentos de concessão e remuneração de bolsas terão como base o Programa Institucional de Incentivo ao Ensino, Extensão, Pesquisa e Inovação (PROEPI) do 
+## INSTITUTOFEDERAL
 
-117 
+## Parana
 
-## INSTITUTOFEDERAL 
+Ministerio da Educacao
 
-## Parana 
+IFPR e os demais auxílios observarão os parâmetros regulamentados pela CAPES e CNPq e demais agências de fomento.
 
-Ministerio da Educacao 
-
-IFPR e os demais auxílios observarão os parâmetros regulamentados pela CAPES e CNPq e demais agências de fomento. 
-
-## 6.2 CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO 
+## 6.2 CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO
 
 |**Nome**|**Formação**|**Regime de**<br>**Trabalho**<br>**(40h, 30h ou**<br>**20h)**|**Cargo**|
 |---|---|---|---|
@@ -2929,19 +2796,17 @@ IFPR e os demais auxílios observarão os parâmetros regulamentados pela CAPES 
 |Rodrigo Ribas|Administração|40 h|Administrador|
 |Silvana Barboza da<br>Silva|Biblioteconomia|40 h|Bibliotecária|
 
+Como no curso há previsão de carga horária a distância, haverá uma equipe multidisciplinar, constituída por servidores(as) de diversas áreas, responsáveis pelo suporte nas atividades relacionadas com a Educação a Distância. Os servidores possuem experiência no ensino à distância e serão responsáveis pela revisão dos materiais didáticos produzidos pelos docentes do curso, darão suporte ao ambiente virtual de aprendizagem e promoverão pesquisas
 
+118
 
-Como no curso há previsão de carga horária a distância, haverá uma equipe multidisciplinar, constituída por servidores(as) de diversas áreas, responsáveis pelo suporte nas atividades relacionadas com a Educação a Distância. Os servidores possuem experiência no ensino à distância e serão responsáveis pela revisão dos materiais didáticos produzidos pelos docentes do curso, darão suporte ao ambiente virtual de aprendizagem e promoverão pesquisas 
+## INSTITUTOFEDERAL Parana
 
-118 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+sobre formação em EaD, além da documentação necessária, juntamente com os técnicos indicados.
 
-Ministerio da Educacao 
-
-sobre formação em EaD, além da documentação necessária, juntamente com os técnicos indicados. 
-
-São eles: 
+São eles:
 
 |**Docente**|**Área de formação**|
 |---|---|
@@ -2951,86 +2816,82 @@ São eles:
 |Marcia Valéria Paixão|Administração|
 |Marta Rodrigues de Souza|TAE|
 
+## **6.2.1 Políticas de Capacitação do Corpo Técnico Administrativo em Educação**
 
+As Políticas de capacitação do Técnico Administrativo em Educação no IFPR em Educação visam ampliar a formação dos servidores, bem como proporcionar melhoria na eficiência do serviço público, tendo como base a qualidade dos processos de trabalho. A Pró-reitoria de Gestão de Pessoas objetiva "planejar, superintender, coordenar, fomentar as Políticas de gestão de pessoas, visando ao alcance das metas e ao cumprimento da missão institucional" (p.315).
 
-## **6.2.1 Políticas de Capacitação do Corpo Técnico Administrativo em Educação** 
+A Pró-Reitoria de Gestão de Pessoas desempenha um papel estratégico na implementação dessas políticas, sendo responsável por planejar, coordenar e fomentar ações voltadas à gestão de pessoas, alinhadas às metas institucionais e à missão do IFPR. O câmpus também apoia ativamente a participação de seus técnicos administrativos em eventos científicos e tecnológicos, incentivando o desenvolvimento de competências institucionais e individuais. Essa abordagem garante que os profissionais que atuam no suporte às atividades acadêmicas estejam preparados para contribuir de forma efetiva na formação de tecnólogos em automação industrial, fortalecendo a integração entre ensino, pesquisa e extensão.
 
-As Políticas de capacitação do Técnico Administrativo em Educação no IFPR em Educação visam ampliar a formação dos servidores, bem como proporcionar melhoria na eficiência do serviço público, tendo como base a qualidade dos processos de trabalho. A Pró-reitoria de Gestão de Pessoas objetiva "planejar, superintender, coordenar, fomentar as Políticas de gestão de pessoas, visando ao alcance das metas e ao cumprimento da missão institucional" (p.315). 
+119
 
-A Pró-Reitoria de Gestão de Pessoas desempenha um papel estratégico na implementação dessas políticas, sendo responsável por planejar, coordenar e fomentar ações voltadas à gestão de pessoas, alinhadas às metas institucionais e à missão do IFPR. O câmpus também apoia ativamente a participação de seus técnicos administrativos em eventos científicos e tecnológicos, incentivando o desenvolvimento de competências institucionais e individuais. Essa abordagem garante que os profissionais que atuam no suporte às atividades acadêmicas estejam preparados para contribuir de forma efetiva na formação de tecnólogos em automação industrial, fortalecendo a integração entre ensino, pesquisa e extensão. 
+## INSTITUTOFEDERAL Parana
 
-119 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+## 6.3 INSTRUMENTOS DE GESTÃO DEMOCRÁTICA
 
-Ministerio da Educacao 
+.
 
-## 6.3 INSTRUMENTOS DE GESTÃO DEMOCRÁTICA 
+## **6.3.1 Funcionamento dos Colegiados de Gestão**
 
-. 
+Os artigos 14 e 15 da Lei de Diretrizes e Bases da Educação Nacional estabelecem os princípios e responsabilidades da IES na implementação da Gestão Democrática. Assim, considerando a lei o IFPR, regulamenta por meio das Resoluções no 08/2014 e no 22/2014 os regimentos internos de cada câmpus e regimento internos dos colegiados de cada câmpus do IFPR, respectivamente.
 
-## **6.3.1 Funcionamento dos Colegiados de Gestão** 
+O Colégio de Dirigentes do Câmpus – CODIC consiste em um órgão que auxilia e assessora a gestão do câmpus. O CODIC é órgão consultivo, propositivo, avaliativo, mobilizador e normativo de apoio técnico-político à gestão do câmpus. A função consultiva e propositiva corresponde às competências para assessorar a gestão do câmpus, opinando sobre as ações pedagógicas, administrativas, orçamentárias e disciplinares exercidas pelas unidades executivas.
 
-Os artigos 14 e 15 da Lei de Diretrizes e Bases da Educação Nacional estabelecem os princípios e responsabilidades da IES na implementação da Gestão Democrática. Assim, considerando a lei o IFPR, regulamenta por meio das Resoluções no 08/2014 e no 22/2014 os regimentos internos de cada câmpus e regimento internos dos colegiados de cada câmpus do IFPR, respectivamente. 
+A função avaliativa corresponde às competências para diagnosticar, avaliar e fiscalizar o cumprimento das ações desenvolvidas pelo câmpus. A função mobilizadora corresponde às competências para apoiar, promover e estimular a comunidade escolar e local em busca da melhoria da qualidade do ensino e do acesso à escola.  Já a função normativa corresponde à função de orientar e disciplinar, por meio de normas complementares, diretrizes e indicações, dentro do âmbito de sua competência, obedecendo aos marcos legais do IFPR.
 
-O Colégio de Dirigentes do Câmpus – CODIC consiste em um órgão que auxilia e assessora a gestão do câmpus. O CODIC é órgão consultivo, propositivo, avaliativo, mobilizador e normativo de apoio técnico-político à gestão do câmpus. A função consultiva e propositiva corresponde às competências para assessorar a gestão do câmpus, opinando sobre as ações pedagógicas, administrativas, orçamentárias e disciplinares exercidas pelas unidades executivas. 
+O Colegiado de Gestão Pedagógica do Câmpus – CGPC consiste em auxiliar a gestão pedagógica, com atuação regular e planejada na concepção, execução, controle, acompanhamento e avaliação dos processos pedagógicos da ação educativa. A competência do CGPC será exercida nos limites da legislação em vigor, das diretrizes da política educacional vigente expedida pelo IFPR e do compromisso de serem centros permanentes de debates e órgãos articuladores dos setores escolares e comunitários. O CGPC tem como membros as coordenações de curso, a coordenação do NAPNE e as pedagogas do campus.
 
-A função avaliativa corresponde às competências para diagnosticar, avaliar e fiscalizar o cumprimento das ações desenvolvidas pelo câmpus. A função mobilizadora corresponde às competências para apoiar, promover e estimular a comunidade escolar e local em busca da melhoria da qualidade do ensino e do acesso à escola.  Já a função normativa corresponde à função de orientar e disciplinar, por meio de normas complementares, diretrizes e indicações, dentro do âmbito de sua competência, obedecendo aos marcos legais do IFPR. 
+120
 
-O Colegiado de Gestão Pedagógica do Câmpus – CGPC consiste em auxiliar a gestão pedagógica, com atuação regular e planejada na concepção, execução, controle, acompanhamento e avaliação dos processos pedagógicos da ação educativa. A competência do CGPC será exercida nos limites da legislação em vigor, das diretrizes da política educacional vigente expedida pelo IFPR e do compromisso de serem centros permanentes de debates e órgãos articuladores dos setores escolares e comunitários. O CGPC tem como membros as coordenações de curso, a coordenação do NAPNE e as pedagogas do campus. 
+## INSTITUTOFEDERAL Parana
 
-120 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+Os colegiados de cursos são órgãos consultivos e deliberativos do câmpus para assuntos de natureza pedagógica, didática e disciplinar, no âmbito de cada curso, tendo como finalidade o desenvolvimento e fortalecimento dos cursos ofertados, assegurando a participação dos segmentos da comunidade escolar.
 
-Ministerio da Educacao 
+## **6.3.2 Representatividade da Comunidade Acadêmica**
 
-Os colegiados de cursos são órgãos consultivos e deliberativos do câmpus para assuntos de natureza pedagógica, didática e disciplinar, no âmbito de cada curso, tendo como finalidade o desenvolvimento e fortalecimento dos cursos ofertados, assegurando a participação dos segmentos da comunidade escolar. 
+A Comissão Própria de Avaliação (CPA) tem como missão liderar os processos de avaliação interna da Instituição, sendo um canal essencial para dar voz à comunidade acadêmica. Regulamentada no IFPR pela Resolução nº 56/2012, a CPA garante a participação de todos os segmentos da comunidade interna e da sociedade civil na avaliação do IFPR, além de medir a qualidade tanto do ensino quanto das ações de gestão. Esses indicadores ajudam a identificar as fortalezas e fragilidades da instituição, com o objetivo de corrigir problemas e reforçar os pontos positivos.
 
-## **6.3.2 Representatividade da Comunidade Acadêmica** 
+A participação de servidores e discentes se dá também por meio de reuniões pedagógicas, reuniões de professores e reuniões de colegiado, nas quais há a presença de um representante discente da turma em questão. No que se refere aos aspectos pedagógicos, cada câmpus do IFPR conta com a Seção Pedagógica e de Assuntos Estudantis, responsável por apoiar docentes e estudantes nas ações relacionadas ao processo de ensino-aprendizagem e à Assistência Estudantil.
 
-A Comissão Própria de Avaliação (CPA) tem como missão liderar os processos de avaliação interna da Instituição, sendo um canal essencial para dar voz à comunidade acadêmica. Regulamentada no IFPR pela Resolução nº 56/2012, a CPA garante a participação de todos os segmentos da comunidade interna e da sociedade civil na avaliação do IFPR, além de medir a qualidade tanto do ensino quanto das ações de gestão. Esses indicadores ajudam a identificar as fortalezas e fragilidades da instituição, com o objetivo de corrigir problemas e reforçar os pontos positivos. 
+As Resoluções do IFPR, estabelecidas pelo CONSUP, e as Instruções Internas de Procedimentos (IIP) das Pró-Reitorias e Diretorias Sistêmicas orientam tanto servidores quanto estudantes sobre as normas e diretrizes a serem seguidas, garantindo a legalidade nas tomadas de decisão.
 
-A participação de servidores e discentes se dá também por meio de reuniões pedagógicas, reuniões de professores e reuniões de colegiado, nas quais há a presença de um representante discente da turma em questão. No que se refere aos aspectos pedagógicos, cada câmpus do IFPR conta com a Seção Pedagógica e de Assuntos Estudantis, responsável por apoiar docentes e estudantes nas ações relacionadas ao processo de ensino-aprendizagem e à Assistência Estudantil. 
+## **6.3.3 Participação da Sociedade Civil na Gestão do Curso**
 
-As Resoluções do IFPR, estabelecidas pelo CONSUP, e as Instruções Internas de Procedimentos (IIP) das Pró-Reitorias e Diretorias Sistêmicas orientam tanto servidores quanto estudantes sobre as normas e diretrizes a serem seguidas, garantindo a legalidade nas tomadas de decisão. 
+A participação e colaboração da sociedade civil na gestão do Campus Avançado Arapongas acontece por meio da atuação dos membros do CODIC, que têm um papel importante nas áreas
 
-## **6.3.3 Participação da Sociedade Civil na Gestão do Curso** 
+121
 
-A participação e colaboração da sociedade civil na gestão do Campus Avançado Arapongas acontece por meio da atuação dos membros do CODIC, que têm um papel importante nas áreas 
+## 1[INSTITUTOFEDERAL] Parana
 
-121 
+Ministerio da Educacao
 
-## 1[INSTITUTOFEDERAL] Parana 
+consultiva, propositiva, avaliativa, mobilizadora e normativa. Eles oferecem apoio técnico e político à gestão do câmpus.
 
-Ministerio da Educacao 
+O CODIC, conforme definido pela Resolução nº 8 de 30 de abril de 2014, garante a presença da sociedade civil por meio de dois representantes: um indicado por entidades patronais e outro por entidades dos trabalhadores. Além disso, o CODIC conta com a participação das diretorias e chefias do câmpus, de representantes dos docentes, técnicos e estudantes, e também de um representante dos pais dos alunos da Educação Profissional Técnica integrada ao Ensino Médio. Essas contribuições são essenciais para promover uma gestão mais colaborativa e integrada.
 
-consultiva, propositiva, avaliativa, mobilizadora e normativa. Eles oferecem apoio técnico e político à gestão do câmpus. 
+## **7. INFRAESTRUTURA**
 
-O CODIC, conforme definido pela Resolução nº 8 de 30 de abril de 2014, garante a presença da sociedade civil por meio de dois representantes: um indicado por entidades patronais e outro por entidades dos trabalhadores. Além disso, o CODIC conta com a participação das diretorias e chefias do câmpus, de representantes dos docentes, técnicos e estudantes, e também de um representante dos pais dos alunos da Educação Profissional Técnica integrada ao Ensino Médio. Essas contribuições são essenciais para promover uma gestão mais colaborativa e integrada. 
+O campus Avançado Arapongas ocupa atualmente um prédio cedido pela Prefeitura Municipal (Processo SEI! 23411.010496/2019-10). O prédio possui dois pavimentos e está localizado na Rua Surucuá-Açu, 321, Vila Araponguinha, Arapongas-PR.
 
-## **7. INFRAESTRUTURA** 
-
-O campus Avançado Arapongas ocupa atualmente um prédio cedido pela Prefeitura Municipal (Processo SEI! 23411.010496/2019-10). O prédio possui dois pavimentos e está localizado na Rua Surucuá-Açu, 321, Vila Araponguinha, Arapongas-PR. 
-
-## 7.1 ÁREAS DE ENSINO ESPECÍFICAS 
+## 7.1 ÁREAS DE ENSINO ESPECÍFICAS
 
 |**Ambiente**|**Existente **|**A construir**|**Área (m2) **|
 |---|---|---|---|
 |Salas de aula|5|não|48,91 m²<br>47,63 m²<br>47,40 m²<br>60,08 m²<br>79,60 m²|
 |Sala de professores|1|não|100,75 m²|
 
+## 7.2 ÁREAS DE ESTUDO GERAL
 
+122
 
-## 7.2 ÁREAS DE ESTUDO GERAL 
+## INSTITUTOFEDERAL
 
-122 
+## Parana
 
-## INSTITUTOFEDERAL 
-
-## Parana 
-
-Ministerio da Educacao 
+Ministerio da Educacao
 
 |Parana|||Ministerio da Educacao|
 |---|---|---|---|
@@ -3038,289 +2899,273 @@ Ministerio da Educacao
 |Laboratórios de<br>Informática|2|não|57,04 m²<br>2,57 m²|
 |Biblioteca|1|não|165,83 m²|
 
-
-
-## 7.3 ÁREAS DE ESTUDO ESPECÍFICO 
+## 7.3 ÁREAS DE ESTUDO ESPECÍFICO
 
 |**Ambiente**|**Existente**|**A construir**|**Área (m2) **|
 |---|---|---|---|
 |Laboratório de Inovação|não|sim|165,83 m²|
 
-
-
-## 7.4 ÁREAS DE ESPORTE E VIVÊNCIA 
+## 7.4 ÁREAS DE ESPORTE E VIVÊNCIA
 
 |**Ambiente**|**Existente **|**A construir**|**Área (m2) **|
 |---|---|---|---|
 |Cozinha|1|não|31,41 m2|
 |Refeitório|1|não|96,25 m2|
 
-
-
-## 7.5 ÁREAS DE ATENDIMENTO DISCENTE 
+## 7.5 ÁREAS DE ATENDIMENTO DISCENTE
 
 |**Ambiente**|**Existente**|**A construir**|**Área (m2) **|
 |---|---|---|---|
 |Direção|1|não|28,37 m²|
 |Secretaria e Seção<br>Pedagógica|1|não|61,35 m²|
 
+## 7.7 BIBLIOTECA
 
+123
 
-## 7.7 BIBLIOTECA 
+## INSTITUTOFEDERAL Parana
 
-123 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+A Seção de Biblioteca do Câmpus faz parte da Rede de Bibliotecas do Instituto Federal do Paraná e opera de acordo com as diretrizes estabelecidas no Regulamento Geral das Bibliotecas do IFPR, na Política de Formação e Desenvolvimento de Acervos, na Instrução Interna de Procedimentos de Seleção e Descarte, no Manual de Competências, nos padrões nacionais e internacionais de documentação e informação, nas políticas de ensino, no Conselho Federal de Biblioteconomia e em outras normativas internas e de órgãos reguladores.
 
-Ministerio da Educacao 
+A Rede de Bibliotecas do IFPR utiliza o sistema PERGAMUM - Sistema Integrado de Bibliotecas para gerenciar seus acervos. Com diversos módulos de gerenciamento, o sistema permite à Biblioteca do Câmpus realizar atividades como o controle de empréstimos por meio do Módulo de Circulação de Materiais, que gerencia processos de empréstimos, devoluções, renovações, reservas, atualização de débitos e outros serviços, todos previamente registrados no módulo de catalogação. O acesso ao acervo físico está integrado ao acervo digital, por meio das plataformas ABNT/ISO e BV Pearson, através do Sistema Pergamum.
 
-A Seção de Biblioteca do Câmpus faz parte da Rede de Bibliotecas do Instituto Federal do Paraná e opera de acordo com as diretrizes estabelecidas no Regulamento Geral das Bibliotecas do IFPR, na Política de Formação e Desenvolvimento de Acervos, na Instrução Interna de Procedimentos de Seleção e Descarte, no Manual de Competências, nos padrões nacionais e internacionais de documentação e informação, nas políticas de ensino, no Conselho Federal de Biblioteconomia e em outras normativas internas e de órgãos reguladores. 
+O horário de funcionamento da Biblioteca do Câmpus é estabelecido conforme o horário das atividades de ensino, pesquisa e extensão, assim seu funcionamento é de segunda a sexta-feira das 14h às 22h. Ainda, oferece acesso ao Portal de Periódicos da Capes e disponibiliza suporte por meio de seus serviços de referência. Anualmente, o acervo é atualizado com base na bibliografia básica e complementar dos PPCs. Para atender às necessidades do curso, será realizado um levantamento de todos os títulos citados nas ementas, a fim de adequar a quantidade de exemplares, conforme as orientações e exigências do Sistema Nacional de Avaliação da Educação Superior.
 
-A Rede de Bibliotecas do IFPR utiliza o sistema PERGAMUM - Sistema Integrado de Bibliotecas para gerenciar seus acervos. Com diversos módulos de gerenciamento, o sistema permite à Biblioteca do Câmpus realizar atividades como o controle de empréstimos por meio do Módulo de Circulação de Materiais, que gerencia processos de empréstimos, devoluções, renovações, reservas, atualização de débitos e outros serviços, todos previamente registrados no módulo de catalogação. O acesso ao acervo físico está integrado ao acervo digital, por meio das plataformas ABNT/ISO e BV Pearson, através do Sistema Pergamum. 
+## **8. PLANEJAMENTO ECONÔMICO E SUSTENTABILIDADE FINANCEIRA**
 
-O horário de funcionamento da Biblioteca do Câmpus é estabelecido conforme o horário das atividades de ensino, pesquisa e extensão, assim seu funcionamento é de segunda a sexta-feira das 14h às 22h. Ainda, oferece acesso ao Portal de Periódicos da Capes e disponibiliza suporte por meio de seus serviços de referência. Anualmente, o acervo é atualizado com base na bibliografia básica e complementar dos PPCs. Para atender às necessidades do curso, será realizado um levantamento de todos os títulos citados nas ementas, a fim de adequar a quantidade de exemplares, conforme as orientações e exigências do Sistema Nacional de Avaliação da Educação Superior. 
+## 8.1 EXPANSÃO DO QUADRO DOCENTE
 
-## **8. PLANEJAMENTO ECONÔMICO E SUSTENTABILIDADE FINANCEIRA** 
+Para a oferta do curso, não há necessidade de contratação de docentes.
 
-## 8.1 EXPANSÃO DO QUADRO DOCENTE 
+## 8.2 PROJEÇÃO DE AQUISIÇÃO DE MATERIAIS PERMANENTE E CONSUMO
 
-Para a oferta do curso, não há necessidade de contratação de docentes. 
+124
 
-## 8.2 PROJEÇÃO DE AQUISIÇÃO DE MATERIAIS PERMANENTE E CONSUMO 
+## INSTITUTOFEDERAL Parana
 
-124 
+Ministerio da Educacao<br>
 
-## INSTITUTOFEDERAL Parana 
+O Curso de Tecnologia em Processos Gerenciais utilizará, em sua maioria, a infraestrutura e os equipamentos já disponíveis no câmpus. Os demais espaços e equipamentos que vierem a ser demandados serão adquiridos conforme disponibilidade de recursos do câmpus, conforme previsão na PAC.
 
-**==> picture [84 x 10] intentionally omitted <==**
+## 8.3 PROJEÇÃO DE AQUISIÇÃO DE ACERVO BIBLIOGRÁFICO
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+A atualização do acervo será realizada de acordo com as diretrizes da Política de Formação e Desenvolvimento de Coleções das bibliotecas do IFPR e a instrução normativa interna correspondente, conforme previsto no Plano de Desenvolvimento Orçamentário/PDO.
 
+Ao final de cada ciclo avaliativo, planeja-se a realização de uma revisão do PPC do curso, garantindo que o acervo esteja alinhado e atualizando às necessidades do curso, possibilitando ajustes curriculares conforme necessário. Inicialmente, o foco será na ampliação do acervo, mas com o tempo, os investimentos serão direcionados principalmente à atualização, com menor ênfase na expansão.
 
-O Curso de Tecnologia em Processos Gerenciais utilizará, em sua maioria, a infraestrutura e os equipamentos já disponíveis no câmpus. Os demais espaços e equipamentos que vierem a ser demandados serão adquiridos conforme disponibilidade de recursos do câmpus, conforme previsão na PAC. 
+Os livros solicitados seguirão o quantitativo definido pela Instrução Normativa nº 1, de 19 de agosto de 2021, que estabelece as normas para a execução da Política de Formação e Desenvolvimento de Coleções. Essa política será orientada pelas bibliografias básicas e complementares de cada disciplina da matriz curricular do projeto pedagógico do curso. A atualização da bibliografia das unidades curriculares ficará a cargo do Núcleo Docente Estruturante, que avaliará as necessidades e demandas para a aquisição de livros atualizados, visando atender às especificidades de cada componente curricular.
 
-## 8.3 PROJEÇÃO DE AQUISIÇÃO DE ACERVO BIBLIOGRÁFICO 
+125
 
-A atualização do acervo será realizada de acordo com as diretrizes da Política de Formação e Desenvolvimento de Coleções das bibliotecas do IFPR e a instrução normativa interna correspondente, conforme previsto no Plano de Desenvolvimento Orçamentário/PDO. 
+## INSTITUTOFEDERAL Parana
 
-Ao final de cada ciclo avaliativo, planeja-se a realização de uma revisão do PPC do curso, garantindo que o acervo esteja alinhado e atualizando às necessidades do curso, possibilitando ajustes curriculares conforme necessário. Inicialmente, o foco será na ampliação do acervo, mas com o tempo, os investimentos serão direcionados principalmente à atualização, com menor ênfase na expansão. 
+Ministerio da Educacao<br>
 
-Os livros solicitados seguirão o quantitativo definido pela Instrução Normativa nº 1, de 19 de agosto de 2021, que estabelece as normas para a execução da Política de Formação e Desenvolvimento de Coleções. Essa política será orientada pelas bibliografias básicas e complementares de cada disciplina da matriz curricular do projeto pedagógico do curso. A atualização da bibliografia das unidades curriculares ficará a cargo do Núcleo Docente Estruturante, que avaliará as necessidades e demandas para a aquisição de livros atualizados, visando atender às especificidades de cada componente curricular. 
+## **REFERÊNCIAS**
 
-125 
+BRASIL. Constituição da República Federativa do Brasil. Brasília: Senado Federal, 1998.
 
-## INSTITUTOFEDERAL Parana 
+BRASIL. MEC. Parâmetros Curriculares Nacionais: temas transversais – meio ambiente. Brasília: MEC/SEF, 1998.
 
-**==> picture [84 x 10] intentionally omitted <==**
+BRASIL. Lei nº 11.892, de 29 de dezembro de 2008. Institui a Rede Federal de Educação Profissional, Científica e Tecnológica, cria os Institutos Federais de Educação, Ciência e Tecnologia, e dá outras providências. Diário Oficial da União, Brasília, 30dez. 2008a, Seção 1, p. 1.
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+BRASIL. Conselho Nacional de Educação. Resolução CNE/CP nº 2, de 19 de fevereiro de 2002. BRASIL. Conselho Nacional de Educação. Câmara de Educação Superior. Resolução CNE/CP nº 3, de 18 de dezembro de 2002. Essa resolução institui as Diretrizes Curriculares Nacionais Gerais para a organização e o funcionamento dos cursos superiores de tecnologia, conforme informações do Portal do MEC.
 
+BRASIL. Lei nº 10.861, de 14 de abril de 2004. Institui o Sistema Nacional de Avaliação da Educação Superior - SINAES e dá outras providências. Brasília: [s.n.], 2004.
 
-## **REFERÊNCIAS** 
+BRASIL. Lei n° 9394, de 20 de dezembro de 1996. Estabelece as diretrizes e bases da educação nacional. Diário Oficial da União, Brasília, p. 27833, 23 dez. 1996.
 
-BRASIL. Constituição da República Federativa do Brasil. Brasília: Senado Federal, 1998. 
+BRASIL. Ministério da Educação. Secretaria de Educação Básica. Diretoria de Currículos e Educação Integral. Diretrizes Curriculares Nacionais Gerais da Educação Básica. Brasília: MEC, SEB, DICEI, 2013.
 
-BRASIL. MEC. Parâmetros Curriculares Nacionais: temas transversais – meio ambiente. Brasília: MEC/SEF, 1998. 
+BRASIL. Conselho Nacional de Educação. Resolução CNE/CES nº 2, de 18 de dezembro de 2017. Define as Diretrizes Curriculares Nacionais para a Formação Inicial de Professores para a Educação Superior e institui a Base Nacional Comum para a Formação Inicial de Professores da
 
-BRASIL. Lei nº 11.892, de 29 de dezembro de 2008. Institui a Rede Federal de Educação Profissional, Científica e Tecnológica, cria os Institutos Federais de Educação, Ciência e Tecnologia, e dá outras providências. Diário Oficial da União, Brasília, 30dez. 2008a, Seção 1, p. 1. 
+126
 
-BRASIL. Conselho Nacional de Educação. Resolução CNE/CP nº 2, de 19 de fevereiro de 2002. BRASIL. Conselho Nacional de Educação. Câmara de Educação Superior. Resolução CNE/CP nº 3, de 18 de dezembro de 2002. Essa resolução institui as Diretrizes Curriculares Nacionais Gerais para a organização e o funcionamento dos cursos superiores de tecnologia, conforme informações do Portal do MEC. 
+## INSTITUTOFEDERAL
 
-BRASIL. Lei nº 10.861, de 14 de abril de 2004. Institui o Sistema Nacional de Avaliação da Educação Superior - SINAES e dá outras providências. Brasília: [s.n.], 2004. 
+## Parana
 
-BRASIL. Lei n° 9394, de 20 de dezembro de 1996. Estabelece as diretrizes e bases da educação nacional. Diário Oficial da União, Brasília, p. 27833, 23 dez. 1996. 
+Ministerio da Educacao
 
-BRASIL. Ministério da Educação. Secretaria de Educação Básica. Diretoria de Currículos e Educação Integral. Diretrizes Curriculares Nacionais Gerais da Educação Básica. Brasília: MEC, SEB, DICEI, 2013. 
+Educação Superior (BNC-Formação). Diário Oficial da União, Brasília, DF, 19 dez. 2017. Seção 1, p. 111-119.
 
-BRASIL. Conselho Nacional de Educação. Resolução CNE/CES nº 2, de 18 de dezembro de 2017. Define as Diretrizes Curriculares Nacionais para a Formação Inicial de Professores para a Educação Superior e institui a Base Nacional Comum para a Formação Inicial de Professores da 
+BRASIL. Ministério da Educação. Conselho Nacional de Educação. Resolução CNE/CP nº 1, de 5 de janeiro de 2021.
 
-126 
+BRASIL. Parâmetros Curriculares Nacionais: Temas Transversais. Brasília: MEC/SEF, 1997. BRASIL. Conselho Nacional de Educação. Câmara de Educação Superior. Parecer CNE/CES nº 436/2001, de 2 de abril de 2001. Cursos Superiores de Tecnologia – Formação de Tecnólogos.
 
-## INSTITUTOFEDERAL 
+BRASIL. Conselho Nacional de Educação. Resolução CNE/CES nº 7, de 18 de dezembro de 2018. Regulamenta o Plano Nacional de Educação (PNE 2014/2024)
 
-## Parana 
+BRASIL. Decreto nº 12.456, de 19 de maio de 2025. Dispõe sobre a oferta de educação a distância por instituições de educação superior em cursos de graduação.
 
-Ministerio da Educacao 
+BRASIL. Decreto nº 5.154, de 23 de julho de 2004. Este decreto regulamenta o § 2º do art. 36 e os arts. 39 e 41 da Lei nº 9.394/96 (Lei de Diretrizes e Bases da Educação Nacional).
 
-Educação Superior (BNC-Formação). Diário Oficial da União, Brasília, DF, 19 dez. 2017. Seção 1, p. 111-119. 
+BRASIL. Conselho Nacional de Educação. Câmara de Educação Superior. Parecer CNE/CES nº 436, de 02 de abril de 2001. Dispõe sobre os Cursos Superiores de Tecnologia - Formação de Tecnólogos. Brasília, DF, 2001.
 
-BRASIL. Ministério da Educação. Conselho Nacional de Educação. Resolução CNE/CP nº 1, de 5 de janeiro de 2021. 
+BRASIL. Conselho Nacional de Educação. RESOLUÇÃO CNE/CP 3, DE 18 DE DEZEMBRO DE 2002.(*) Institui as Diretrizes Curriculares Nacionais Gerais para a organização e o funcionamento dos cursos superiores de tecnologia
 
-BRASIL. Parâmetros Curriculares Nacionais: Temas Transversais. Brasília: MEC/SEF, 1997. BRASIL. Conselho Nacional de Educação. Câmara de Educação Superior. Parecer CNE/CES nº 436/2001, de 2 de abril de 2001. Cursos Superiores de Tecnologia – Formação de Tecnólogos. 
+BRASIL. Ministério da Educação. Conselho Nacional de Educação. Câmara de Educação Profissional. Parecer CNE/CP n.º 29/2002, de 3 de dezembro de 2002.
 
-BRASIL. Conselho Nacional de Educação. Resolução CNE/CES nº 7, de 18 de dezembro de 2018. Regulamenta o Plano Nacional de Educação (PNE 2014/2024) 
+BRASIL. Lei nº 14.914, de 3 de julho de 2024. Institui a Política Nacional de Assistência Estudantil (PNAES). Diário Oficial da União, Brasília, DF, 3 jul. 2024. BRASIL, 2015, _Lei n. 13.146, de 6 de jul. de 2015. Lei Brasileira de Inclusão da Pessoa com Deficiência._ ,
 
-BRASIL. Decreto nº 12.456, de 19 de maio de 2025. Dispõe sobre a oferta de educação a distância por instituições de educação superior em cursos de graduação. 
+127
 
-BRASIL. Decreto nº 5.154, de 23 de julho de 2004. Este decreto regulamenta o § 2º do art. 36 e os arts. 39 e 41 da Lei nº 9.394/96 (Lei de Diretrizes e Bases da Educação Nacional). 
+## INSTITUTOFEDERAL Parana
 
-BRASIL. Conselho Nacional de Educação. Câmara de Educação Superior. Parecer CNE/CES nº 436, de 02 de abril de 2001. Dispõe sobre os Cursos Superiores de Tecnologia - Formação de Tecnólogos. Brasília, DF, 2001. 
+Ministerio da Educacao
 
-BRASIL. Conselho Nacional de Educação. RESOLUÇÃO CNE/CP 3, DE 18 DE DEZEMBRO DE 2002.(*) Institui as Diretrizes Curriculares Nacionais Gerais para a organização e o funcionamento dos cursos superiores de tecnologia 
+BRASIL. Decreto nº 5.626, de 22 de dezembro de 2005. Regulamenta a Lei nº 10.436, de 24 de abril de 2002, que dispõe sobre a Língua Brasileira de Sinais - Libras, e o art. 18 da Lei nº 10.098, de 19 de dezembro de 2000.
 
-BRASIL. Ministério da Educação. Conselho Nacional de Educação. Câmara de Educação Profissional. Parecer CNE/CP n.º 29/2002, de 3 de dezembro de 2002. 
+BRASIL. Lei nº 10.861, de 14 de abril de 2004. Institui o Sistema Nacional de Avaliação da Educação Superior (SINAES) no Brasil
 
-BRASIL. Lei nº 14.914, de 3 de julho de 2024. Institui a Política Nacional de Assistência Estudantil (PNAES). Diário Oficial da União, Brasília, DF, 3 jul. 2024. BRASIL, 2015, _Lei n. 13.146, de 6 de jul. de 2015. Lei Brasileira de Inclusão da Pessoa com Deficiência._ , 
+BRASIL. Decreto nº 5.296, de 2 de dezembro de 2004. Regulamenta as Leis nºs 10.048 e 10.098 de 2000.
 
-127 
+CONSELHO NACIONAL DE EDUCAÇÃO. Câmara de Educação Superior. Parecer CNE/CES nº 776/1997, de 3 de dezembro de 1997. Este parecer orienta as diretrizes curriculares dos cursos de graduação.
 
-## INSTITUTOFEDERAL Parana 
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (IBGE).  Censo Demográfico 2023). Rio de Janeiro: IBGE, 2023.
 
-Ministerio da Educacao 
+INSTITUTO FEDERAL DO PARANÁ. Resolução nº 55/11. Dispõe sobre a Organização Didático-Pedagógica da Educação Superior no âmbito do Instituto Federal do Paraná
 
-BRASIL. Decreto nº 5.626, de 22 de dezembro de 2005. Regulamenta a Lei nº 10.436, de 24 de abril de 2002, que dispõe sobre a Língua Brasileira de Sinais - Libras, e o art. 18 da Lei nº 10.098, de 19 de dezembro de 2000. 
+INSTITUTO FEDERAL DO PARANÁ. Resolução nº 02 de 23 de janeiro de 2017 que altera a Resolução 55/2011, que dispõe sobre a Organização Didático-Pedagógica na Educação Superior no âmbito do Instituto Federal do Paraná – IFPR.
 
-BRASIL. Lei nº 10.861, de 14 de abril de 2004. Institui o Sistema Nacional de Avaliação da Educação Superior (SINAES) no Brasil 
+INSTITUTO FEDERAL DO PARANÁ. Resolução N.º 50, de 14 de julho de 2017. Estabelece os critérios de avaliação do processo de ensino-aprendizagem do IFPR.
 
-BRASIL. Decreto nº 5.296, de 2 de dezembro de 2004. Regulamenta as Leis nºs 10.048 e 10.098 de 2000. 
+INSTITUTO FEDERAL DO PARANÁ. Resolução CONSUP/IFPR Nº 239, DE 10 DE junho DE 2025. Dispõe acerca da Política Institucional de Assistência Estudantil no Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR).
 
-CONSELHO NACIONAL DE EDUCAÇÃO. Câmara de Educação Superior. Parecer CNE/CES nº 776/1997, de 3 de dezembro de 1997. Este parecer orienta as diretrizes curriculares dos cursos de graduação. 
+INSTITUTO FEDERAL DO PARANÁ. Resolução № 48/11, Normatiza o Programa de Qualificação e Formação dos Servidores do IFPR.
 
-INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA (IBGE).  Censo Demográfico 2023). Rio de Janeiro: IBGE, 2023. 
+ANTUNES, Ricardo (Org.). Riqueza e miséria do trabalho no Brasil. São Paulo: Boitempo, 2006.
 
-INSTITUTO FEDERAL DO PARANÁ. Resolução nº 55/11. Dispõe sobre a Organização Didático-Pedagógica da Educação Superior no âmbito do Instituto Federal do Paraná 
+128
 
-INSTITUTO FEDERAL DO PARANÁ. Resolução nº 02 de 23 de janeiro de 2017 que altera a Resolução 55/2011, que dispõe sobre a Organização Didático-Pedagógica na Educação Superior no âmbito do Instituto Federal do Paraná – IFPR. 
+## INSTITUTOFEDERAL
 
-INSTITUTO FEDERAL DO PARANÁ. Resolução N.º 50, de 14 de julho de 2017. Estabelece os critérios de avaliação do processo de ensino-aprendizagem do IFPR. 
+## Parana
 
-INSTITUTO FEDERAL DO PARANÁ. Resolução CONSUP/IFPR Nº 239, DE 10 DE junho DE 2025. Dispõe acerca da Política Institucional de Assistência Estudantil no Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR). 
+Ministerio da Educacao
 
-INSTITUTO FEDERAL DO PARANÁ. Resolução № 48/11, Normatiza o Programa de Qualificação e Formação dos Servidores do IFPR. 
+CHAUÍ, M.  Cultura política e política cultural . _Estudos Avançados_ , _9_ (23), 71-84, 1995. https://revistas.usp.br/eav/article/view/8848
 
-ANTUNES, Ricardo (Org.). Riqueza e miséria do trabalho no Brasil. São Paulo: Boitempo, 2006. 
+DEMO, Pedro. Educar pela pesquisa. Campinas: Autores Associados, 1996.
 
-128 
+DEMO, P. Aposta no professor: cuidar de viver e de trabalhar com dignidade. Porto Alegre; Mediação, 2007.
 
-## INSTITUTOFEDERAL 
+FREIRE, P. **Pedagogia da Autonomia:** saberes necessários à prática educativa. São Paulo: Paz e Terra, 1996.
 
-## Parana 
+FREIRE, D. J. D. As tecnologias da informação e comunicação como ferramentas de
 
-Ministerio da Educacao 
+aprendizagem na escola. **Revista Ibero-Americana de Humanidade** s, Ciências e Educação, v. 10, n. 1, p. 732-746, 2024.
 
-CHAUÍ, M.  Cultura política e política cultural . _Estudos Avançados_ , _9_ (23), 71-84, 1995. https://revistas.usp.br/eav/article/view/8848 
+GASPARIN, J. L. **Uma didática para a pedagogia histórico-crítica** . 5ª ed. rev. Campinas, SP: Autores Associados, 2012.
 
-DEMO, Pedro. Educar pela pesquisa. Campinas: Autores Associados, 1996. 
+GONÇALVES, José R. Autenticidade, memória e ideologias nacionais: o problema dos patrimônios culturais. **Revista Estudos Históricos** , vol. 1, n.2, R.J, p. 264-275, 1988.
 
-DEMO, P. Aposta no professor: cuidar de viver e de trabalhar com dignidade. Porto Alegre; Mediação, 2007. 
+SALGADO, Plínio. **Enciclopédia do Integralismo IX** : O integralismo e a educação. Rio de Janeiro: Livraria Clássica Brasileira, 1959
 
-FREIRE, P. **Pedagogia da Autonomia:** saberes necessários à prática educativa. São Paulo: Paz e Terra, 1996. 
+SAVIANI, Dermeval. **A pedagogia no Brasil: história e teoria** . Campinas: Autores Associados, 2008
 
-FREIRE, D. J. D. As tecnologias da informação e comunicação como ferramentas de 
+SILVA, M.A. **História: o prazer em ensino e pesquis** a. São Paulo: Brasiliense, 1995
 
-aprendizagem na escola. **Revista Ibero-Americana de Humanidade** s, Ciências e Educação, v. 10, n. 1, p. 732-746, 2024. 
+MINISTÉRIO DA EDUCAÇÃO. Conselho Nacional de Educação. Conselho Pleno. Resolução CNE/CP nº 1, de 5 de janeiro de 2021
 
-GASPARIN, J. L. **Uma didática para a pedagogia histórico-crítica** . 5ª ed. rev. Campinas, SP: Autores Associados, 2012. 
+Lei nº 10.098, de 19 de dezembro de 2000. Estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências. Brasília, DF: [s.n.], 2000
 
-GONÇALVES, José R. Autenticidade, memória e ideologias nacionais: o problema dos patrimônios culturais. **Revista Estudos Históricos** , vol. 1, n.2, R.J, p. 264-275, 1988. 
+Lei nº 10.436, de 24 de abril de 2002. Dispõe sobre a Língua Brasileira de Sinais - Libras e dá outras providências
 
-SALGADO, Plínio. **Enciclopédia do Integralismo IX** : O integralismo e a educação. Rio de Janeiro: Livraria Clássica Brasileira, 1959 
+129
 
-SAVIANI, Dermeval. **A pedagogia no Brasil: história e teoria** . Campinas: Autores Associados, 2008 
+## INSTITUTOFEDERAL Parana
 
-SILVA, M.A. **História: o prazer em ensino e pesquis** a. São Paulo: Brasiliense, 1995 
+Ministerio da Educacao
 
-MINISTÉRIO DA EDUCAÇÃO. Conselho Nacional de Educação. Conselho Pleno. Resolução CNE/CP nº 1, de 5 de janeiro de 2021 
+Lei n 10.098 de 19 de dezembro de 2000. Estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências
 
-Lei nº 10.098, de 19 de dezembro de 2000. Estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências. Brasília, DF: [s.n.], 2000 
+130
 
-Lei nº 10.436, de 24 de abril de 2002. Dispõe sobre a Língua Brasileira de Sinais - Libras e dá outras providências 
+INSTITUTOFEDERAL Parana
 
-129 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+## **APÊNDICES**
 
-Ministerio da Educacao 
+## **APÊNDICE A - REGULAMENTO DE ATIVIDADES COMPLEMENTARES**
 
-Lei n 10.098 de 19 de dezembro de 2000. Estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências 
+## **REGULAMENTO DE ATIVIDADES COMPLEMENTARES DO CURSO SUPERIOR DE TECNOLOGIA EM PROCESSOS GERENCIAIS**
 
-130 
+## **INSTITUTO FEDERAL DO PARANÁ - CÂMPUS AVANÇADO ARAPONGAS**
 
-INSTITUTOFEDERAL Parana 
+## **CAPÍTULO I**
 
-Ministerio da Educacao 
+## **DA NATUREZA E DAS FINALIDADES**
 
-## **APÊNDICES** 
+Art. 1º. As atividades de formação complementar integram a estrutura curricular do Curso Superior de Tecnologia em Processos Gerenciais, constituindo-se como ações complementares ao currículo regular. Essas atividades têm como objetivo assegurar uma formação ampla e integral dos estudantes, preparando-os para as demandas do mundo do trabalho no campo da gestão e negócios, além de promover a integração entre ensino, pesquisa e extensão de maneira interdisciplinar, abrangendo as diversas áreas do conhecimento relacionadas à tecnologia e à gestão.
 
-## **APÊNDICE A - REGULAMENTO DE ATIVIDADES COMPLEMENTARES** 
+## **CAPÍTULO II**
 
-## **REGULAMENTO DE ATIVIDADES COMPLEMENTARES DO CURSO SUPERIOR DE TECNOLOGIA EM PROCESSOS GERENCIAIS** 
+## **DA CARGA HORÁRIA DAS ATIVIDADES COMPLEMENTARES**
 
-## **INSTITUTO FEDERAL DO PARANÁ - CÂMPUS AVANÇADO ARAPONGAS** 
+Art. 2º. As atividades complementares devem ser realizadas em períodos que não coincidam com os horários das aulas regulares do curso.
 
-## **CAPÍTULO I** 
+§ 1º Não serão concedidos abonos de faltas ou dispensas das atividades dos componentes curriculares aos estudantes que participarem de palestras, seminários, congressos ou outras atividades complementares durante o horário das aulas.
 
-## **DA NATUREZA E DAS FINALIDADES** 
+§ 2º Em situações de participação em eventos internos ao câmpus, como seminários, jornadas, congressos, simpósios ou cursos, com apresentação de trabalhos, as faltas poderão ser justificadas mediante a entrega de certificado de participação, devidamente autenticado.
 
-Art. 1º. As atividades de formação complementar integram a estrutura curricular do Curso Superior de Tecnologia em Processos Gerenciais, constituindo-se como ações complementares ao currículo regular. Essas atividades têm como objetivo assegurar uma formação ampla e integral dos estudantes, preparando-os para as demandas do mundo do trabalho no campo da gestão e negócios, além de promover a integração entre ensino, pesquisa e extensão de maneira interdisciplinar, abrangendo as diversas áreas do conhecimento relacionadas à tecnologia e à gestão. 
+131
 
-## **CAPÍTULO II** 
+## INSTITUTOFEDERAL
 
-## **DA CARGA HORÁRIA DAS ATIVIDADES COMPLEMENTARES** 
+## Parana
 
-Art. 2º. As atividades complementares devem ser realizadas em períodos que não coincidam com os horários das aulas regulares do curso. 
+Ministerio da Educacao
 
-§ 1º Não serão concedidos abonos de faltas ou dispensas das atividades dos componentes curriculares aos estudantes que participarem de palestras, seminários, congressos ou outras atividades complementares durante o horário das aulas. 
+Art. 3º. A realização das atividades complementares é de iniciativa exclusiva do estudante, sendo essencial sua proatividade e dinamismo, sempre em conformidade com os critérios estabelecidos neste Regulamento.
 
-§ 2º Em situações de participação em eventos internos ao câmpus, como seminários, jornadas, congressos, simpósios ou cursos, com apresentação de trabalhos, as faltas poderão ser justificadas mediante a entrega de certificado de participação, devidamente autenticado. 
+Art. 4º. Para a integralização do currículo do Curso Superior de Tecnologia em Processos Gerenciais, o estudante deverá cumprir uma carga horária total de 160 (cento e sessenta) horas relógio em atividades formativas complementares ao longo de sua matrícula regular no curso.
 
-131 
+§ 1º Sugere-se que as atividades complementares sejam distribuídas ao longo do decorrer do curso, evitando-se o acúmulo no último semestre do curso.
 
-## INSTITUTOFEDERAL 
+## **CAPÍTULO III**
 
-## Parana 
+## **DA VALIDAÇÃO DAS ATIVIDADES COMPLEMENTARES**
 
-Ministerio da Educacao 
+Art. 5º. As atividades complementares elegíveis estão listadas no Quadro I, acompanhadas da carga horária máxima aceita para validação de cada tipo de atividade, expressa em horas.
 
-Art. 3º. A realização das atividades complementares é de iniciativa exclusiva do estudante, sendo essencial sua proatividade e dinamismo, sempre em conformidade com os critérios estabelecidos neste Regulamento. 
+Art. 6º. A integralização da carga horária das atividades complementares realizadas será efetivada somente após a entrega dos comprovantes originais e suas respectivas cópias, protocolados na Secretaria Acadêmica por meio de formulário específico preenchido. O prazo máximo para essa entrega é de 30 dias antes do encerramento do último semestre letivo, sendo a validação realizada pelo Colegiado do Curso.
 
-Art. 4º. Para a integralização do currículo do Curso Superior de Tecnologia em Processos Gerenciais, o estudante deverá cumprir uma carga horária total de 160 (cento e sessenta) horas relógio em atividades formativas complementares ao longo de sua matrícula regular no curso. 
+Parágrafo único. Cabe à Coordenação do Curso analisar e referendar os documentos apresentados, encaminhando-os ao registro acadêmico para inclusão no histórico escolar do estudante após a aprovação.
 
-§ 1º Sugere-se que as atividades complementares sejam distribuídas ao longo do decorrer do curso, evitando-se o acúmulo no último semestre do curso. 
+Art. 8º. Serão aceitos como comprovantes de participação certificados ou declarações formais emitidas por responsáveis pelas atividades realizadas.
 
-## **CAPÍTULO III** 
+Art. 9º. Para a análise das atividades, poderá ser formada uma comissão composta por membros do Colegiado do Curso Superior de Tecnologia em Processos Gerenciais, que emitirá parecer a ser submetido ao Coordenador do curso para validação final.
 
-## **DA VALIDAÇÃO DAS ATIVIDADES COMPLEMENTARES** 
+Art. 10º. Os comprovantes originais das atividades complementares, acompanhados de suas cópias a serem registradas, devem ser apresentados à Secretaria Acadêmica para conferência.
 
-Art. 5º. As atividades complementares elegíveis estão listadas no Quadro I, acompanhadas da carga horária máxima aceita para validação de cada tipo de atividade, expressa em horas. 
+- § 1º Os originais permanecerão sob a guarda e responsabilidade do estudante.
 
-Art. 6º. A integralização da carga horária das atividades complementares realizadas será efetivada somente após a entrega dos comprovantes originais e suas respectivas cópias, protocolados na Secretaria Acadêmica por meio de formulário específico preenchido. O prazo máximo para essa entrega é de 30 dias antes do encerramento do último semestre letivo, sendo a validação realizada pelo Colegiado do Curso. 
+132
 
-Parágrafo único. Cabe à Coordenação do Curso analisar e referendar os documentos apresentados, encaminhando-os ao registro acadêmico para inclusão no histórico escolar do estudante após a aprovação. 
+## INSTITUTOFEDERAL
 
-Art. 8º. Serão aceitos como comprovantes de participação certificados ou declarações formais emitidas por responsáveis pelas atividades realizadas. 
+## Parana
 
-Art. 9º. Para a análise das atividades, poderá ser formada uma comissão composta por membros do Colegiado do Curso Superior de Tecnologia em Processos Gerenciais, que emitirá parecer a ser submetido ao Coordenador do curso para validação final. 
+Ministerio da Educacao
 
-Art. 10º. Os comprovantes originais das atividades complementares, acompanhados de suas cópias a serem registradas, devem ser apresentados à Secretaria Acadêmica para conferência. 
+§ 2º Caso solicitado, o estudante deverá apresentar novamente os comprovantes já analisados ao Colegiado do Curso, conforme determinação.
 
-- § 1º Os originais permanecerão sob a guarda e responsabilidade do estudante. 
+Art. 11. É de inteira responsabilidade do estudante acompanhar e garantir o cumprimento da carga horária mínima de 160 (cento e sessenta) horas relógio em atividades complementares. O não atendimento a essa exigência implicará na impossibilidade de obtenção do título de Tecnólogo em Processos Gerenciais dentro do prazo regulamentar do curso.
 
-132 
+§ 1º As atividades complementares da instituição de origem devem ser compatíveis com as previstas no Quadro I deste Regulamento, sendo os tipos de atividades divididos em três grupos:
 
-## INSTITUTOFEDERAL 
+- GRUPO I – atividades de complementação da formação social, humana e cultural
 
-## Parana 
+- GRUPO 2 – atividades de cunho comunitário e de interesse coletivo
 
-Ministerio da Educacao 
+- GRUPO 3 – atividades de iniciação científica, tecnológica e de formação profissional
 
-§ 2º Caso solicitado, o estudante deverá apresentar novamente os comprovantes já analisados ao Colegiado do Curso, conforme determinação. 
+Quadro I – Atividades Complementares e Carga Horária
 
-Art. 11. É de inteira responsabilidade do estudante acompanhar e garantir o cumprimento da carga horária mínima de 160 (cento e sessenta) horas relógio em atividades complementares. O não atendimento a essa exigência implicará na impossibilidade de obtenção do título de Tecnólogo em Processos Gerenciais dentro do prazo regulamentar do curso. 
-
-§ 1º As atividades complementares da instituição de origem devem ser compatíveis com as previstas no Quadro I deste Regulamento, sendo os tipos de atividades divididos em três grupos: 
-
-- GRUPO I – atividades de complementação da formação social, humana e cultural 
-
-- GRUPO 2 – atividades de cunho comunitário e de interesse coletivo 
-
-- GRUPO 3 – atividades de iniciação científica, tecnológica e de formação profissional 
-
-Quadro I – Atividades Complementares e Carga Horária 
-
-**GRUPO I – ATIVIDADES DE COMPLEMENTAÇÃO DA FORMAÇÃO SOCIAL, HUMANA E CULTURAL** 
+**GRUPO I – ATIVIDADES DE COMPLEMENTAÇÃO DA FORMAÇÃO SOCIAL, HUMANA E CULTURAL**
 
 |**GRUPO I – ATIVIDADES DE COMPLEMENTAÇÃO DA FORMAÇÃO SOCIAL, HUMANA E**<br>**CULTURAL**|**GRUPO I – ATIVIDADES DE COMPLEMENTAÇÃO DA FORMAÇÃO SOCIAL, HUMANA E**<br>**CULTURAL**|
 |---|---|
@@ -3334,13 +3179,11 @@ Quadro I – Atividades Complementares e Carga Horária
 |1.7 Participação em cursos e atividades de formação pessoal que não sejam<br>na área de formação do curso|0,1 ponto/hora<br>(limitado a 10 pontos)|
 |1.8 Participação em intercâmbio em instituição nacional ou internacional com pelo<br>menos 14 dias de duração.|10 pontos/atividade|
 
+133
 
+INSTITUTOFEDERAL Parana
 
-133 
-
-INSTITUTOFEDERAL Parana 
-
-Ministerio da Educacao 
+Ministerio da Educacao
 
 |**GRUPO 2 – ATIVIDADES DE CUNHO COMUNITÁRIO E DE INTERESSE COLETIVO**|**GRUPO 2 – ATIVIDADES DE CUNHO COMUNITÁRIO E DE INTERESSE COLETIVO**|
 |---|---|
@@ -3359,13 +3202,11 @@ Ministerio da Educacao
 |3.5 Visitas técnicas organizadas pelo Câmpus|10 pontos/visita|
 |3.6 Artigos publicados em revistas técnicas, resumos em anais de eventos<br>técnico-científicos ou artigos publicados em periódicos científicos de<br>abrangência local, regional, nacional ou internacional.|10 pontos/revistas técnicas,<br>resumos em anais de eventos<br>técnico científicos nacional<br>20 pontos/revistas técnicas,<br>resumos em anais de eventos<br>técnico científicos<br>internacional<br>30 pontos/artigo em periódico<br>local, regional, nacional<br>40 pontos/artigo em periódico|
 
+134
 
+INSTITUTOFEDERAL Parana
 
-134 
-
-INSTITUTOFEDERAL Parana 
-
-Ministerio da Educacao 
+Ministerio da Educacao
 
 |INSTITUTOFEDERAL<br>Parana|Ministerio da Educacao|
 |---|---|
@@ -3378,73 +3219,67 @@ Ministerio da Educacao
 |3.12 Participação como membro em Empresa Júnior, Hotel Tecnológico,<br>Incubadora, e outros ambientes de inovação.|10 pontos/semestre (limitado a<br>40 pontos)|
 |3.13 Monitor de disciplinas do curso|5 pontos/semestre|
 
+*Não será permitida dupla pontuação.
 
+§ 2º A carga horária reconhecida não poderá exceder a estipulada por este Regulamento para atividades idênticas ou equivalentes.
 
-*Não será permitida dupla pontuação. 
+Art. 12. Estudantes que ingressarem no curso por transferência interna, externa ou como portadores de diploma superior também estão sujeitos ao cumprimento da carga horária de atividades complementares, podendo requerer à Coordenação do Curso a validação parcial de horas realizadas na instituição de origem.
 
-§ 2º A carga horária reconhecida não poderá exceder a estipulada por este Regulamento para atividades idênticas ou equivalentes. 
+## **CAPÍTULO IV**
 
-Art. 12. Estudantes que ingressarem no curso por transferência interna, externa ou como portadores de diploma superior também estão sujeitos ao cumprimento da carga horária de atividades complementares, podendo requerer à Coordenação do Curso a validação parcial de horas realizadas na instituição de origem. 
+## **DAS DISPOSIÇÕES GERAIS**
 
-## **CAPÍTULO IV** 
+Art. 13. Situações não previstas neste Regulamento serão analisadas pelo Colegiado do Curso Superior de Tecnologia em Processos Gerenciais. Casos mais complexos serão decididos em conjunto com a coordenação do curso, a diretoria de ensino e coordenação de ensino.
 
-## **DAS DISPOSIÇÕES GERAIS** 
+Art. 14. Este Regulamento entrará em vigor a partir do início das atividades do Curso Superior de Tecnologia em Processo Gerenciais, ficando revogadas quaisquer disposições em contrário.
 
-Art. 13. Situações não previstas neste Regulamento serão analisadas pelo Colegiado do Curso Superior de Tecnologia em Processos Gerenciais. Casos mais complexos serão decididos em conjunto com a coordenação do curso, a diretoria de ensino e coordenação de ensino. 
+135
 
-Art. 14. Este Regulamento entrará em vigor a partir do início das atividades do Curso Superior de Tecnologia em Processo Gerenciais, ficando revogadas quaisquer disposições em contrário. 
+INSTITUTOFEDERAL Parana
 
-135 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+136
 
-Ministerio da Educacao 
+INSTITUTOFEDERAL Parana
 
-136 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+## **APÊNDICE B - REGULAMENTO DE ATIVIDADES DE EXTENSÃO**
 
-Ministerio da Educacao 
+## **REGULAMENTO DE ATIVIDADES DE EXTENSÃO DO CURSO SUPERIOR DE TECNOLOGIA EM PROCESSOS GERENCIAIS**
 
-## **APÊNDICE B - REGULAMENTO DE ATIVIDADES DE EXTENSÃO** 
+## **INSTITUTO FEDERAL DO PARANÁ - CÂMPUS AVANÇADO ARAPONGAS**
 
-## **REGULAMENTO DE ATIVIDADES DE EXTENSÃO DO CURSO SUPERIOR DE TECNOLOGIA EM PROCESSOS GERENCIAIS** 
+## **CAPÍTULO I DA NATUREZA E FINALIDADE**
 
-## **INSTITUTO FEDERAL DO PARANÁ - CÂMPUS AVANÇADO ARAPONGAS** 
+**Art. 1º** — As atividades para creditação da extensão no Curso Superior de Tecnologia em Processos Gerenciais visam integrar os estudantes às práticas extensionistas, alinhando os conhecimentos técnicos adquiridos ao longo do curso com ações que promovam o desenvolvimento social, tecnológico e profissional. Essas atividades têm como objetivo fortalecer a formação integral do estudante, incentivando a aplicação prática de competências em projetos e iniciativas de extensão.
 
-## **CAPÍTULO I DA NATUREZA E FINALIDADE** 
+**Art. 2º** — É obrigatória a realização de, no mínimo, 300 horas em atividades de extensão ao longo do curso, como requisito para a conclusão do Curso Superior de Tecnologia em Processos Gerenciais. O cumprimento dessa carga horária deve seguir as diretrizes estabelecidas neste regulamento.
 
-**Art. 1º** — As atividades para creditação da extensão no Curso Superior de Tecnologia em Processos Gerenciais visam integrar os estudantes às práticas extensionistas, alinhando os conhecimentos técnicos adquiridos ao longo do curso com ações que promovam o desenvolvimento social, tecnológico e profissional. Essas atividades têm como objetivo fortalecer a formação integral do estudante, incentivando a aplicação prática de competências em projetos e iniciativas de extensão. 
+## **CAPÍTULO II DA ORGANIZAÇÃO E ACOMPANHAMENTO**
 
-**Art. 2º** — É obrigatória a realização de, no mínimo, 300 horas em atividades de extensão ao longo do curso, como requisito para a conclusão do Curso Superior de Tecnologia em Processos Gerenciais. O cumprimento dessa carga horária deve seguir as diretrizes estabelecidas neste regulamento. 
+**Art. 3º** — As atividades de extensão devem ser acompanhadas por um servidor orientador ou, no caso de participação em projetos de extensão institucionais, pelo coordenador do respectivo projeto. Esse acompanhamento visa garantir a qualidade das ações realizadas e sua adequação aos objetivos do curso.
 
-## **CAPÍTULO II DA ORGANIZAÇÃO E ACOMPANHAMENTO** 
+**Art. 4º** —  O estudante deve elaborar, em conjunto com o servidor orientador ou o coordenador do projeto, um plano de atividades que contemple as horas a serem creditadas, especificando as ações a serem desenvolvidas e os prazos para sua execução.
 
-**Art. 3º** — As atividades de extensão devem ser acompanhadas por um servidor orientador ou, no caso de participação em projetos de extensão institucionais, pelo coordenador do respectivo projeto. Esse acompanhamento visa garantir a qualidade das ações realizadas e sua adequação aos objetivos do curso. 
+**Art. 5º** — O estudante deve submeter, semestralmente, declarações e certificados que comprovem a participação nas atividades curriculares de extensão.
 
-**Art. 4º** —  O estudante deve elaborar, em conjunto com o servidor orientador ou o coordenador do projeto, um plano de atividades que contemple as horas a serem creditadas, especificando as ações a serem desenvolvidas e os prazos para sua execução. 
+137
 
-**Art. 5º** — O estudante deve submeter, semestralmente, declarações e certificados que comprovem a participação nas atividades curriculares de extensão. 
+## INSTITUTOFEDERAL
 
-137 
+## Parana
 
-## INSTITUTOFEDERAL 
+Ministerio da Educacao<br>
 
-## Parana 
+**Parágrafo único** — A submissão das declarações e certificados não garante, de imediato, a validação da carga horária. Os documentos comprobatórios serão analisados pela coordenação do curso.
 
-**==> picture [83 x 9] intentionally omitted <==**
+**Art. 6º** — As atividades de extensão elegíveis e suas respectivas cargas horárias estão listadas no Quadro I deste regulamento. O estudante poderá combinar diferentes atividades, de modo a totalizar as 300 horas obrigatórias.
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+**Parágrafo único** — A descrição e os objetivos de cada atividade estão dispostos neste regulamento.
 
-
-**Parágrafo único** — A submissão das declarações e certificados não garante, de imediato, a validação da carga horária. Os documentos comprobatórios serão analisados pela coordenação do curso. 
-
-**Art. 6º** — As atividades de extensão elegíveis e suas respectivas cargas horárias estão listadas no Quadro I deste regulamento. O estudante poderá combinar diferentes atividades, de modo a totalizar as 300 horas obrigatórias. 
-
-**Parágrafo único** — A descrição e os objetivos de cada atividade estão dispostos neste regulamento. 
-
-**Quadro 1** - Atividades de extensão e carga horária 
+**Quadro 1** - Atividades de extensão e carga horária
 
 |**Atividades curriculares de Extensão (AE) oferecidas no curso**|**Atividades curriculares de Extensão (AE) oferecidas no curso**|**Atividades curriculares de Extensão (AE) oferecidas no curso**|
 |---|---|---|
@@ -3456,373 +3291,335 @@ Ministerio da Educacao<br>**----- End of picture text -----**<br>
 |Publicação de artigo acadêmico oriundo de<br>atividades<br>de<br>extensão<br>com<br>temática<br>relacionada à área de curso em evento<br>científico.|100 horas por autoria<br>para autoria e 50 horas<br>por de coautoria|200 horas|
 |Depósito de patente com temática relacionada<br>à área do curso|200 horas por patente|300 horas|
 
+138
 
+Ministerio da Educacao
 
-138 
+## INSTITUTOFEDERAL
 
-Ministerio da Educacao 
+## Parana
 
-## INSTITUTOFEDERAL 
+## **Projeto Integrador**
 
-## Parana 
+## **Descrição**
 
-## **Projeto Integrador** 
+Atividade curricular de extensão, desenvolvida de forma interdisciplinar, que visa à integração dos conteúdos teóricos e práticos adquiridos ao longo do curso. O estudante participa de projetos que envolvem a resolução de problemas relacionados à área de formação, com foco na inovação e no desenvolvimento social. O projeto será conduzido como componente curricular, mediado por um ou mais docentes, podendo contar, opcionalmente, com o apoio de servidores orientadores. O regulamento detalhado do Projeto Integrador está disponível no Apêndice C.
 
-## **Descrição** 
+## **Objetivos**
 
-Atividade curricular de extensão, desenvolvida de forma interdisciplinar, que visa à integração dos conteúdos teóricos e práticos adquiridos ao longo do curso. O estudante participa de projetos que envolvem a resolução de problemas relacionados à área de formação, com foco na inovação e no desenvolvimento social. O projeto será conduzido como componente curricular, mediado por um ou mais docentes, podendo contar, opcionalmente, com o apoio de servidores orientadores. O regulamento detalhado do Projeto Integrador está disponível no Apêndice C. 
+- Favorecer a aplicação dos conhecimentos adquiridos em situações práticas e reais.
 
-## **Objetivos** 
+- Estimular a interdisciplinaridade e o trabalho em equipe.
 
-- Favorecer a aplicação dos conhecimentos adquiridos em situações práticas e reais. 
+- Contribuir para o desenvolvimento de soluções que atendam às demandas da sociedade e do setor produtivo.
 
-- Estimular a interdisciplinaridade e o trabalho em equipe. 
+## **Prestação de serviços e orientações técnicas à comunidade, com temática relacionada ao curso promovido pelo IFPR**
 
-- Contribuir para o desenvolvimento de soluções que atendam às demandas da sociedade e do setor produtivo. 
+## **Descrição**
 
-## **Prestação de serviços e orientações técnicas à comunidade, com temática relacionada ao curso promovido pelo IFPR** 
+Atividade extensionista caracterizada pela oferta de serviços ou orientações técnicas à comunidade externa, fundamentada nos conhecimentos específicos da área do curso. A atuação deverá ser registrada por meio de declaração ou certificado emitido pela instituição promotora.
 
-## **Descrição** 
+## **Objetivos**
 
-Atividade extensionista caracterizada pela oferta de serviços ou orientações técnicas à comunidade externa, fundamentada nos conhecimentos específicos da área do curso. A atuação deverá ser registrada por meio de declaração ou certificado emitido pela instituição promotora. 
+- Promover a interação entre a instituição e a comunidade, ampliando o impacto social do curso.
 
-## **Objetivos** 
+- Possibilitar ao estudante vivenciar a prática profissional em ambientes reais.
 
-- Promover a interação entre a instituição e a comunidade, ampliando o impacto social do curso. 
+- Desenvolver competências técnicas e sociais, com foco na responsabilidade cidadã.
 
-- Possibilitar ao estudante vivenciar a prática profissional em ambientes reais. 
+## **Participação em projetos de extensão no âmbito do IFPR**
 
-- Desenvolver competências técnicas e sociais, com foco na responsabilidade cidadã. 
+## **Descrição**
 
-## **Participação em projetos de extensão no âmbito do IFPR** 
+139
 
-## **Descrição** 
+## INSTITUTOFEDERAL
 
-139 
+## Parana
 
-## INSTITUTOFEDERAL 
+Ministerio da Educacao<br>
 
-## Parana 
+Envolve a participação ativa do estudante em projetos de extensão desenvolvidos pelo Instituto Federal do Paraná, relacionados à área do curso. A carga horária deverá ser comprovada por meio de declaração emitida pelo coordenador do projeto.
 
-**==> picture [83 x 9] intentionally omitted <==**
+## **Objetivos**
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+- Incentivar a inserção do estudante em atividades extensionistas institucionais.
 
+- Promover o desenvolvimento de habilidades profissionais, sociais e cidadãs.
 
-Envolve a participação ativa do estudante em projetos de extensão desenvolvidos pelo Instituto Federal do Paraná, relacionados à área do curso. A carga horária deverá ser comprovada por meio de declaração emitida pelo coordenador do projeto. 
+- Estimular o compromisso com ações de impacto social, tecnológico e educacional.
 
-## **Objetivos** 
+## **Atuação como ministrante de minicurso ou palestra com temática relacionada à área do curso promovido pelo IFPR**
 
-- Incentivar a inserção do estudante em atividades extensionistas institucionais. 
+## **Descrição**
 
-- Promover o desenvolvimento de habilidades profissionais, sociais e cidadãs. 
+Consiste na elaboração e na apresentação de minicursos ou palestras sobre temas pertinentes à área de formação do estudante, em eventos acadêmicos ou comunitários. A carga horária será atribuída conforme declaração emitida pela entidade organizadora.
 
-- Estimular o compromisso com ações de impacto social, tecnológico e educacional. 
+## **Objetivos**
 
-## **Atuação como ministrante de minicurso ou palestra com temática relacionada à área do curso promovido pelo IFPR** 
+- Desenvolver habilidades de comunicação, didática e liderança.
 
-## **Descrição** 
+- Estimular a disseminação de conhecimentos técnico-científicos.
 
-Consiste na elaboração e na apresentação de minicursos ou palestras sobre temas pertinentes à área de formação do estudante, em eventos acadêmicos ou comunitários. A carga horária será atribuída conforme declaração emitida pela entidade organizadora. 
+- Contribuir para a formação de uma postura proativa e extensionista.
 
-## **Objetivos** 
+## **Publicação de artigo acadêmico oriundo de atividades de extensão com temática relacionada à área do curso em evento científico**
 
-- Desenvolver habilidades de comunicação, didática e liderança. 
+## **Descrição**
 
-- Estimular a disseminação de conhecimentos técnico-científicos. 
+Envolve a autoria de artigo científico resultante de atividades de extensão, com temática vinculada à área do curso, publicado e apresentado em eventos acadêmicos ou científicos. A coautoria contabiliza metade da carga horária prevista no Quadro 1. A escrita do artigo deve ser orientada por um servidor do IFPR que deve obrigatoriamente ser coautor do artigo publicado.
 
-- Contribuir para a formação de uma postura proativa e extensionista. 
+140
 
-## **Publicação de artigo acadêmico oriundo de atividades de extensão com temática relacionada à área do curso em evento científico** 
+## INSTITUTOFEDERAL
 
-## **Descrição** 
+## Parana
 
-Envolve a autoria de artigo científico resultante de atividades de extensão, com temática vinculada à área do curso, publicado e apresentado em eventos acadêmicos ou científicos. A coautoria contabiliza metade da carga horária prevista no Quadro 1. A escrita do artigo deve ser orientada por um servidor do IFPR que deve obrigatoriamente ser coautor do artigo publicado. 
+Ministerio da Educacao
 
-140 
+## **Objetivos**
 
-## INSTITUTOFEDERAL 
+- Estimular a produção e a divulgação do conhecimento científico.
 
-## Parana 
+- Incentivar a reflexão crítica sobre as práticas extensionistas desenvolvidas.
 
-Ministerio da Educacao 
+- Valorizar a articulação entre extensão, ensino e pesquisa.
 
-## **Objetivos** 
+## **6. Depósito de patente com temática relacionada à área do curso**
 
-- Estimular a produção e a divulgação do conhecimento científico. 
+## **Descrição**
 
-- Incentivar a reflexão crítica sobre as práticas extensionistas desenvolvidas. 
+Refere-se ao depósito, junto aos órgãos competentes, de pedido de patente de invenção, modelo de utilidade ou desenho industrial, desenvolvido a partir de atividades relacionadas à área de formação do estudante.
 
-- Valorizar a articulação entre extensão, ensino e pesquisa. 
+## **Objetivos**
 
-## **6. Depósito de patente com temática relacionada à área do curso** 
+- Fomentar a inovação tecnológica e o empreendedorismo.
 
-## **Descrição** 
+- Valorizar a produção intelectual oriunda das atividades extensionistas.
 
-Refere-se ao depósito, junto aos órgãos competentes, de pedido de patente de invenção, modelo de utilidade ou desenho industrial, desenvolvido a partir de atividades relacionadas à área de formação do estudante. 
+- Contribuir para o fortalecimento da cultura de propriedade intelectual no ambiente acadêmico.
 
-## **Objetivos** 
+## **CAPÍTULO III DO RELATO DE EXPERIÊNCIA EXTENSIONISTA**
 
-- Fomentar a inovação tecnológica e o empreendedorismo. 
+**Art. 7º** — O estudante deve produzir na componente curricular Relato de Experiência Extensionista relatório descrevendo cada uma das atividades desenvolvidas, os resultados alcançados e a contribuição dessas ações para sua formação acadêmica e profissional.
 
-- Valorizar a produção intelectual oriunda das atividades extensionistas. 
+141
 
-- Contribuir para o fortalecimento da cultura de propriedade intelectual no ambiente acadêmico. 
+INSTITUTOFEDERAL Parana
 
-## **CAPÍTULO III DO RELATO DE EXPERIÊNCIA EXTENSIONISTA** 
+Ministerio da Educacao
 
-**Art. 7º** — O estudante deve produzir na componente curricular Relato de Experiência Extensionista relatório descrevendo cada uma das atividades desenvolvidas, os resultados alcançados e a contribuição dessas ações para sua formação acadêmica e profissional. 
+**APÊNDICE C - REGULAMENTO DA OFERTA DO PROJETO INTEGRADOR**
 
-141 
+## **REGULAMENTO DA OFERTA DO PROJETO INTEGRADOR DO CURSO SUPERIOR DE TECNOLOGIA EM PROCESSOS GERENCIAIS**
 
-INSTITUTOFEDERAL Parana 
+## **INSTITUTO FEDERAL DO PARANÁ - CÂMPUS AVANÇADO ARAPONGAS**
 
-Ministerio da Educacao 
+**Art. 1º** — O Projeto Integrador será ofertado como componente curricular no 2º, 3º e 4º períodos letivos.
 
-**APÊNDICE C - REGULAMENTO DA OFERTA DO PROJETO INTEGRADOR** 
+**Art. 2º** — A participação do estudante no Projeto Integrador é opcional.
 
-## **REGULAMENTO DA OFERTA DO PROJETO INTEGRADOR DO CURSO SUPERIOR DE TECNOLOGIA EM PROCESSOS GERENCIAIS** 
+**Art. 3º** — Antes da finalização do período letivo anterior à oferta do Projeto Integrador, a coordenação do curso definirá um período no qual o estudante poderá manifestar o interesse em participar do referido componente.
 
-## **INSTITUTO FEDERAL DO PARANÁ - CÂMPUS AVANÇADO ARAPONGAS** 
+Parágrafo único — O Projeto Integrador não será ofertado caso não haja estudantes inscritos.
 
-**Art. 1º** — O Projeto Integrador será ofertado como componente curricular no 2º, 3º e 4º períodos letivos. 
+**Art. 4º** — O Projeto Integrador será mediado por um ou mais docentes, podendo contar, opcionalmente, com o apoio de servidores orientadores.
 
-**Art. 2º** — A participação do estudante no Projeto Integrador é opcional. 
+142
 
-**Art. 3º** — Antes da finalização do período letivo anterior à oferta do Projeto Integrador, a coordenação do curso definirá um período no qual o estudante poderá manifestar o interesse em participar do referido componente. 
+## INSTITUTOFEDERAL
 
-Parágrafo único — O Projeto Integrador não será ofertado caso não haja estudantes inscritos. 
+## Parana
 
-**Art. 4º** — O Projeto Integrador será mediado por um ou mais docentes, podendo contar, opcionalmente, com o apoio de servidores orientadores. 
+Ministerio da Educacao<br>
 
-142 
+## **ANEXOS**
 
-## INSTITUTOFEDERAL 
+## **ANEXO A - CARTAS DE APOIO**
 
-## Parana 
+## CartadeapoioaaberturadecursodeGraduacao
 
-**==> picture [83 x 9] intentionally omitted <==**
+A
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+ComissaoEstruturantedeCurso IFPR-Campus Avancado Arapongas CNPJ: 10.652.179/0027-54
 
+## AACIA-ASSOCIACAOCOMERCIALEEMPRESARIALDEARAPONGAS,cOmSedenacidadede
 
-## **ANEXOS** 
+naaberturadocursodeGraduacaointitulado:TecnologoemProcessosGerenciais. Salientamosaimportanciaerelevancia daatuacaodoIFPRemnossacidadeereiteramosque ofertasdestanaturezavemasomarsignificativamentenoArranjoProdutivoLocal,gerando condicoes de trabalho,renda eempregabilidade em nosso municipio. Destaforma,parabenizamospelainiciativaecolocamo-nosadisposicaoparaparceriasfuturas. Comosmelhorescumprimentos,
 
-## **ANEXO A - CARTAS DE APOIO** 
+## Arapongas-PR,11deAbril de2024.
 
-## CartadeapoioaaberturadecursodeGraduacao 
+ANDERSON[Assinado de forma] digitalpor CARLOS ANDERSON CARLOS MOLINA:0046431195 MOLINA:004 Dados: 2024.04.11 64311950 16:07:04 -03'00' ANDERSONCARLOSMOLINA PRESIDENTE ACIA-ASSOCIACAO COMERCIALEEMPRESARIALDEARAPONGAS
 
-A 
+143
 
-ComissaoEstruturantedeCurso IFPR-Campus Avancado Arapongas CNPJ: 10.652.179/0027-54 
+INSTITUTOFEDERAL Parana
 
-## AACIA-ASSOCIACAOCOMERCIALEEMPRESARIALDEARAPONGAS,cOmSedenacidadede 
+Ministerio da Educacao<br>
 
-naaberturadocursodeGraduacaointitulado:TecnologoemProcessosGerenciais. Salientamosaimportanciaerelevancia daatuacaodoIFPRemnossacidadeereiteramosque ofertasdestanaturezavemasomarsignificativamentenoArranjoProdutivoLocal,gerando condicoes de trabalho,renda eempregabilidade em nosso municipio. Destaforma,parabenizamospelainiciativaecolocamo-nosadisposicaoparaparceriasfuturas. Comosmelhorescumprimentos, 
+## CartadeapoioaaberturadecursodeGraduacao
 
-## Arapongas-PR,11deAbril de2024. 
+## ComissaoEstruturantedeCurso
 
-ANDERSON[Assinado de forma] digitalpor CARLOS ANDERSON CARLOS MOLINA:0046431195 MOLINA:004 Dados: 2024.04.11 64311950 16:07:04 -03'00' ANDERSONCARLOSMOLINA PRESIDENTE ACIA-ASSOCIACAO COMERCIALEEMPRESARIALDEARAPONGAS 
+IFPR-CampusAvancadoArapongas CNPJ:10.652.179/0027-54
 
-143 
+ATMANBRASILIMPEDISTDECOMPPARAMOVELARIA,comsedenacidadedeArapongas-PR, sito a Rua Tangara,numero 859,Bairro Jd.Petropolis,devidamente inscrita no CNPj N 08.057.360/0001-31,vem pormeiodesta,manifestarapoioedemonstrar total interesse na aberturadocursodeGraduacaointitulado:Tecnologo emProcessosGerenciais.
 
-INSTITUTOFEDERAL Parana 
+## Salientamosa importanciaerelevancia da atuacaodoIFPRemnossacidadeereiteramosque
 
-**==> picture [83 x 9] intentionally omitted <==**
+qualificacao profissional,formacao academicae tecnologicae,consequentemente,melhores condicoesdetrabalho,rendaeempregabilidadeemnossomunicipio
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+Destaforma,parabenizamospelainiciativaecolocamo-nosadisposicaoparaparceriasfuturas. Comosmelhorescumprimentos,
 
+## Arapongas-PR,09/04/2024
 
-## CartadeapoioaaberturadecursodeGraduacao 
+RajananAlbang/da Costa<br>ATMANBRASNIMPEDISTDECOMPPARAMOVELARIA<br>
 
-## ComissaoEstruturantedeCurso 
+144
 
-IFPR-CampusAvancadoArapongas CNPJ:10.652.179/0027-54 
+## INSTITUTOFEDERAL
 
-ATMANBRASILIMPEDISTDECOMPPARAMOVELARIA,comsedenacidadedeArapongas-PR, sito a Rua Tangara,numero 859,Bairro Jd.Petropolis,devidamente inscrita no CNPj N 08.057.360/0001-31,vem pormeiodesta,manifestarapoioedemonstrar total interesse na aberturadocursodeGraduacaointitulado:Tecnologo emProcessosGerenciais. 
+Parana
 
-## Salientamosa importanciaerelevancia da atuacaodoIFPRemnossacidadeereiteramosque 
+Ministerio da Educacao<br>
 
-qualificacao profissional,formacao academicae tecnologicae,consequentemente,melhores condicoesdetrabalho,rendaeempregabilidadeemnossomunicipio 
+CartadeapoioaaberturadecursodeGraduacao
 
-Destaforma,parabenizamospelainiciativaecolocamo-nosadisposicaoparaparceriasfuturas. Comosmelhorescumprimentos, 
+## A
 
-## Arapongas-PR,09/04/2024 
+## ComissaoEstruturantedeCurso
 
-**==> picture [223 x 35] intentionally omitted <==**
+IFPR-CampusAvancadoArapongas CNPJ:10.652.179/0027-54
 
-**----- Start of picture text -----**<br>
-RajananAlbang/da Costa<br>ATMANBRASNIMPEDISTDECOMPPARAMOVELARIA<br>**----- End of picture text -----**<br>
+ADaringTechSistemas,comsedenacidadedeArapongas-PR,sitoaRuaPR444,numeroSN km5,sala2,BairroJardimPetropolis,devidamenteinscritanoCNPjN°41.798.065/0001-01,vem pormeiodesta,manifestarapoioedemonstrartotalinteressena abertura docursodeGraduacao intitulado:TecnologoemProcessosGerenciais.
 
+SalientamosaimportanciaerelevanciadaatuacaodoIFPRemnossacidadeereiteramosque ofertasdestanaturezavemasomarsignificativamentenoArranjoProdutivoLocal,gerando qualificacaoprofissional,formacaoacademicaetecnol6gicae,consequentemente,melhores condicoesdetrabalho,rendaeempregabilidadeemnossomunicipio.
 
-144 
+Destaforma,parabenizamospelainiciativaecolocamo-nosadisposicaoparaparceriasfuturas. Comosmelhorescumprimentos,
 
-## INSTITUTOFEDERAL 
+Arapongas-PR,09/04/2024
 
-Parana 
+Thiago Henrique Lopes CEO-Programador Empresa deTecnologia
 
-**==> picture [83 x 9] intentionally omitted <==**
+145
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+INSTITUTOFEDERAL Parana
 
+Ministerio da Educacao<br>
 
-CartadeapoioaaberturadecursodeGraduacao 
+## CartadeapoioaaberturadecursodeGraduacao
 
-## A 
+A
 
-## ComissaoEstruturantedeCurso 
+## ComissaoEstruturantedeCurso
 
-IFPR-CampusAvancadoArapongas CNPJ:10.652.179/0027-54 
+IFPR-CampusAvancadoArapongas CNPJ:10.652.179/0027-54
 
-ADaringTechSistemas,comsedenacidadedeArapongas-PR,sitoaRuaPR444,numeroSN km5,sala2,BairroJardimPetropolis,devidamenteinscritanoCNPjN°41.798.065/0001-01,vem pormeiodesta,manifestarapoioedemonstrartotalinteressena abertura docursodeGraduacao intitulado:TecnologoemProcessosGerenciais. 
+## ninho tech
 
-SalientamosaimportanciaerelevanciadaatuacaodoIFPRemnossacidadeereiteramosque ofertasdestanaturezavemasomarsignificativamentenoArranjoProdutivoLocal,gerando qualificacaoprofissional,formacaoacademicaetecnol6gicae,consequentemente,melhores condicoesdetrabalho,rendaeempregabilidadeemnossomunicipio. 
+A "NinhoTech Governanca de Inovacao" da cidade de Arapongas, formalizada em 26 de outubro de2023,conta commembrosrepresentantes da“quadruplahelice",que engloba 0 SetorPublico,Universidades,EmpresaseSociedadeCivil.SuavisaoéposicionarArapongas
 
-Destaforma,parabenizamospelainiciativaecolocamo-nosadisposicaoparaparceriasfuturas. Comosmelhorescumprimentos, 
+estaodelineados emumplanode acao,sendoelesa movelaria,agronegocio,quimicae materiais.Ereconhecidoopapel crucial daTecnologia da Informacaoe Comunicacao(TIC) comoumcatalisadorfundamentalparaimpulsionaressessetoreseempresas,vempormeio desta,manifestarapoioedemonstrartotalinteressenaaberturadocursodeGraduacao intitulado:TecnologoemProcessosGerenciais.
 
-Arapongas-PR,09/04/2024 
+ofertasdestanaturezavem asomarsignificativamentenoArranjoProdutivoLocal,gerando qualificacaoprofissional,formacao academica etecnologica e,consequentemente,melhores condicoesdetrabalho,rendaeempregabilidadeemnossomunicipio.
 
-Thiago Henrique Lopes CEO-Programador Empresa deTecnologia 
+Destaforma,parabenizamospelainiciativaecolocamo-nosadisposicaoparaparceriasfuturas.
 
-145 
+146
 
-INSTITUTOFEDERAL Parana 
+## INSTITUTOFEDERAL Parana
 
-**==> picture [82 x 9] intentionally omitted <==**
+Ministerio da Educacao
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+Com osmelhorescumprimentos,
 
+Arapongas-PR,09/04/2024
 
-## CartadeapoioaaberturadecursodeGraduacao 
+loPes<br>
 
-A 
+Thiago Henrique Lopes Coordenador
 
-## ComissaoEstruturantedeCurso 
+147
 
-IFPR-CampusAvancadoArapongas CNPJ:10.652.179/0027-54 
+## INSTITUTOFEDERAL
 
-## ninho tech 
+## Parana
 
-A "NinhoTech Governanca de Inovacao" da cidade de Arapongas, formalizada em 26 de outubro de2023,conta commembrosrepresentantes da“quadruplahelice",que engloba 0 SetorPublico,Universidades,EmpresaseSociedadeCivil.SuavisaoéposicionarArapongas 
+Ministerio da Educacao
 
-estaodelineados emumplanode acao,sendoelesa movelaria,agronegocio,quimicae materiais.Ereconhecidoopapel crucial daTecnologia da Informacaoe Comunicacao(TIC) comoumcatalisadorfundamentalparaimpulsionaressessetoreseempresas,vempormeio desta,manifestarapoioedemonstrartotalinteressenaaberturadocursodeGraduacao intitulado:TecnologoemProcessosGerenciais. 
+## Publico
 
-ofertasdestanaturezavem asomarsignificativamentenoArranjoProdutivoLocal,gerando qualificacaoprofissional,formacao academica etecnologica e,consequentemente,melhores condicoesdetrabalho,rendaeempregabilidadeemnossomunicipio. 
+## CartadeapoioaaberturadecursodeGraduacao
 
-Destaforma,parabenizamospelainiciativaecolocamo-nosadisposicaoparaparceriasfuturas. 
+## ComissaoEstruturantedeCurso
 
-146 
+## IFPR-CampusAvancadoArapongas
 
-## INSTITUTOFEDERAL Parana 
+CNPJ:10.652.179/0027-54
 
-Ministerio da Educacao 
+## OSEBRAE/PR-SERVICODEAPOIOASMICROEPEQUENASEMPRESASDOESTADODOPARANA
 
-Com osmelhorescumprimentos, 
+comsedenacidadedeArapongas-PR,sitoa Av.Arapongas,numero88,BairroCentro, devidamenteinscritanoCNPjN°75.110.585/0020-64,vempormeiodesta,manifestarapoiona aberturadocursodeGraduacaodeTecnologiaemProcessosGerenciais.
 
-Arapongas-PR,09/04/2024 
+SalientamosaimportanciaerelevanciadaatuacaodoIFPRparaodesenvolvimentodacidadee
 
-**==> picture [24 x 9] intentionally omitted <==**
+comercial local,gerando qualificacao profissional, formacao academica e tecnologica e, consequentemente，melhorescondicoesdetrabalho,rendaeempregabilidadeemnosso municipio.
 
-**----- Start of picture text -----**<br>
-loPes<br>**----- End of picture text -----**<br>
+## Destaforma,parabenizamospelainiciativaecolocamo-nosadisposicaoparaparceriasfuturas.
 
+Comosmelhorescumprimentos,
 
-Thiago Henrique Lopes Coordenador 
+Arapongas-PR,09/04/2024
 
-147 
+CinaradeMarchiTozatti Consultora SEBRAE/PR-RegionalNorte EscritoriodeArapongas
 
-## INSTITUTOFEDERAL 
+148
 
-## Parana 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+Ministerio da Educacao<br>
 
-## Publico 
+## SINDICATODASINDUSTRIASDEMOVEISDEARAPONGAS
 
-## CartadeapoioaaberturadecursodeGraduacao 
+## SIMA
 
-## ComissaoEstruturantedeCurso 
+Oficio55B/24
 
-## IFPR-CampusAvancadoArapongas 
+## Arapongas-Pr,09deabrilde2024
 
-CNPJ:10.652.179/0027-54 
+## Ao
 
-## OSEBRAE/PR-SERVICODEAPOIOASMICROEPEQUENASEMPRESASDOESTADODOPARANA 
+COMISSAOESTRUTURANTEDECURSO.IFPR-CAMPUSAVANCADO ARAPONGAS CNPJ:10.652.179/0027-54 A/CSr.THIAGOPEREIRADONASCIMENTO
 
-comsedenacidadedeArapongas-PR,sitoa Av.Arapongas,numero88,BairroCentro, devidamenteinscritanoCNPjN°75.110.585/0020-64,vempormeiodesta,manifestarapoiona aberturadocursodeGraduacaodeTecnologiaemProcessosGerenciais. 
+## Assunto:CartadeApoioaAberturadeCursode Graduacao
 
-SalientamosaimportanciaerelevanciadaatuacaodoIFPRparaodesenvolvimentodacidadee 
+## OSIMA-SINDICATODASINDUSTRIASDEMOVEISDEARAPONGAS-PR
 
-comercial local,gerando qualificacao profissional, formacao academica e tecnologica e, consequentemente，melhorescondicoesdetrabalho,rendaeempregabilidadeemnosso municipio. 
+comsedena cidadedeArapongas-PR,sitoaAvenidaArapongas,Praca Dr.Julio
 
-## Destaforma,parabenizamospelainiciativaecolocamo-nosadisposicaoparaparceriasfuturas. 
+Junqueira,88-13Andar-Centro,Arapongas-PR,86701-901,devidamenteinscrita
 
-Comosmelhorescumprimentos, 
+no CNPj N78.013.810/0001-70,vem pormeiodesta,manifestar apoioe demonstrar total interessenaaberturadocurso deGraduacaointitulado:
 
-Arapongas-PR,09/04/2024 
+TecnologoemProcessosGerenciais.
 
-CinaradeMarchiTozatti Consultora SEBRAE/PR-RegionalNorte EscritoriodeArapongas 
+Salientamosa importanciaerelevancia daatuacaodo IFPR
 
-148 
+## emnossacidadeereiteramosqueofertasdestanaturezavemasomar
 
-## INSTITUTOFEDERAL Parana 
+significativamentenoArranjoProdutivoLocal,gerandoqualificacaoprofissional,
 
-**==> picture [83 x 9] intentionally omitted <==**
+formacaoacademicaetecnologicae,consequentemente,melhorescondicoesde trabalho,rendaeempregabilidadeemnossomunicipio.
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+Destaforma,parabenizamospelainiciativaecolocamo-nosadisposicaopara
 
+parceriasfuturas.
 
-## SINDICATODASINDUSTRIASDEMOVEISDEARAPONGAS 
+## Com osmelhorescumprimentos,
 
-## SIMA 
+Atenciosamente<br>JoseLopesAquino<br>Presidente<br>
 
-Oficio55B/24 
+PracaDr.JulioJunqueira,88-13°Andar-Fone:0055433172-1278 E-mail:sima@sima.org.br-Site:www.sima.org.br CEP86.701-901-ARAPONGAS-PR-BRASIL
 
-## Arapongas-Pr,09deabrilde2024 
-
-## Ao 
-
-COMISSAOESTRUTURANTEDECURSO.IFPR-CAMPUSAVANCADO ARAPONGAS CNPJ:10.652.179/0027-54 A/CSr.THIAGOPEREIRADONASCIMENTO 
-
-## Assunto:CartadeApoioaAberturadeCursode Graduacao 
-
-## OSIMA-SINDICATODASINDUSTRIASDEMOVEISDEARAPONGAS-PR 
-
-comsedena cidadedeArapongas-PR,sitoaAvenidaArapongas,Praca Dr.Julio 
-
-Junqueira,88-13Andar-Centro,Arapongas-PR,86701-901,devidamenteinscrita 
-
-no CNPj N78.013.810/0001-70,vem pormeiodesta,manifestar apoioe demonstrar total interessenaaberturadocurso deGraduacaointitulado: 
-
-TecnologoemProcessosGerenciais. 
-
-Salientamosa importanciaerelevancia daatuacaodo IFPR 
-
-## emnossacidadeereiteramosqueofertasdestanaturezavemasomar 
-
-significativamentenoArranjoProdutivoLocal,gerandoqualificacaoprofissional, 
-
-formacaoacademicaetecnologicae,consequentemente,melhorescondicoesde trabalho,rendaeempregabilidadeemnossomunicipio. 
-
-Destaforma,parabenizamospelainiciativaecolocamo-nosadisposicaopara 
-
-parceriasfuturas. 
-
-## Com osmelhorescumprimentos, 
-
-**==> picture [82 x 58] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Atenciosamente<br>JoseLopesAquino<br>Presidente<br>**----- End of picture text -----**<br>
-
-
-PracaDr.JulioJunqueira,88-13°Andar-Fone:0055433172-1278 E-mail:sima@sima.org.br-Site:www.sima.org.br CEP86.701-901-ARAPONGAS-PR-BRASIL 
-
-149 
+149
 

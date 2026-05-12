@@ -1,68 +1,57 @@
-**==> picture [473 x 55] intentionally omitted <==**
 
-## **MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO SUPERIOR INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ PRÓ - REITORIA DE ENSINO DIRETORIA DE ENSINO** 
+## **MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO SUPERIOR INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ PRÓ - REITORIA DE ENSINO DIRETORIA DE ENSINO**
 
-## **PROJETO PEDAGÓGICO DO CURSO DE TECNOLOGIA EM GESTÃO COMERCIAL** 
+## **PROJETO PEDAGÓGICO DO CURSO DE TECNOLOGIA EM GESTÃO COMERCIAL**
 
-**AUTORIZADO PELA RESOLUÇÃO Nº 29 DE 14 JUNHO DE 2019 AJUSTE PARECER CONSEPE Nº XX/ANO** 
+**AUTORIZADO PELA RESOLUÇÃO Nº 29 DE 14 JUNHO DE 2019 AJUSTE PARECER CONSEPE Nº XX/ANO**
 
-Assis Chateaubriand 2023 
+Assis Chateaubriand 2023
 
-**==> picture [471 x 55] intentionally omitted <==**
+## **INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**
 
-## **INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ** 
+## **Reitor**
 
-## **Reitor** 
+Odacir Antonio Zanatta
 
-Odacir Antonio Zanatta 
+## **Pró-Reitor de Ensino**
 
-## **Pró-Reitor de Ensino** 
+Amarildo Pinheiro Magalhães
 
-Amarildo Pinheiro Magalhães 
+## **Pró-Reitora de Ensino Adjunta**
 
-## **Pró-Reitora de Ensino Adjunta** 
+Cristiane Ribeiro da Silva
 
-Cristiane Ribeiro da Silva 
+## **Diretora de Ensino**
 
-## **Diretora de Ensino** 
+Patrícia Daniela Maciel
 
-Patrícia Daniela Maciel 
+## **Coordenadora de Cursos de Graduação**
 
-## **Coordenadora de Cursos de Graduação** 
+Katia Andrea Silva da Costa
 
-Katia Andrea Silva da Costa 
+## **Direção Geral do Campus**
 
-## **Direção Geral do Campus** 
+Vicente Estevam Sandeski
 
-Vicente Estevam Sandeski 
+## **Direção de Ensino, Pesquisa e Extensão do Campus**
 
-## **Direção de Ensino, Pesquisa e Extensão do Campus** 
+Alex Miyamoto Mussi
 
-Alex Miyamoto Mussi 
+## **Coordenadora de Curso**
 
-## **Coordenadora de Curso** 
+Keyla Christina Almeida Portela
 
-Keyla Christina Almeida Portela 
+## **Núcleo Docente Estruturante**
 
-## **Núcleo Docente Estruturante** 
+Alexandre José Schumacher Cesar Gomes de Freitas José Jurandir Pereira Junior Keyla Christina Almeida Portela Mauro Cesar de Souza Siena
 
-Alexandre José Schumacher Cesar Gomes de Freitas José Jurandir Pereira Junior Keyla Christina Almeida Portela Mauro Cesar de Souza Siena 
+## **Colegiado de Gestão Pedagógica de Campus**
 
-## **Colegiado de Gestão Pedagógica de Campus** 
+Alex Miyamoto Mussi Amanda Rottava Celina de Oliveira Barbosa Gomes Cesar Gomes de Freitas Cler Rosane Coldebella Muraro Douglas Barbosa Sousa Eliana Peliçon Pereira Figueira Grazielli Bueno
 
-Alex Miyamoto Mussi Amanda Rottava Celina de Oliveira Barbosa Gomes Cesar Gomes de Freitas Cler Rosane Coldebella Muraro Douglas Barbosa Sousa Eliana Peliçon Pereira Figueira Grazielli Bueno 
+Humberto Fioravante Ferro Keyla Christina Almeida Portela Layani Crystini Antonio da Silva Lieberti Marcussi de Araujo
 
-1 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-Humberto Fioravante Ferro Keyla Christina Almeida Portela Layani Crystini Antonio da Silva Lieberti Marcussi de Araujo 
-
-Leandro Luiz Borges Luis Henrique Manosso Von Mecheln Marcia Aparecida Barbosa Mauro Cesar de Souza Siena Octavio Henrique Viana Rafael Luis Bartz Renato Lada Guerreiro Rozeane Jara Puker Sergio Augusto Dias Castro Tania Helena Neunfeld 
-
-2 
-
-**==> picture [471 x 55] intentionally omitted <==**
+Leandro Luiz Borges Luis Henrique Manosso Von Mecheln Marcia Aparecida Barbosa Mauro Cesar de Souza Siena Octavio Henrique Viana Rafael Luis Bartz Renato Lada Guerreiro Rozeane Jara Puker Sergio Augusto Dias Castro Tania Helena Neunfeld
 
 |**SUMÁRIO**||
 |---|---|
@@ -101,12 +90,6 @@ Leandro Luiz Borges Luis Henrique Manosso Von Mecheln Marcia Aparecida Barbosa M
 |2.3.3 Memória, Patrimônio Artístico e Cultural|31|
 |2.3.4 Comunicação e Relações com a Comunidade|33|
 
-
-
-3 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
 |2.4|CONCEPÇÃO DO CURSO|34|
 |---|---|---|
 |2.5|PERFIL DO EGRESSO|36|
@@ -143,13 +126,7 @@ Leandro Luiz Borges Luis Henrique Manosso Von Mecheln Marcia Aparecida Barbosa M
 |4.5|INTEGRAÇÃO COM AS ORGANIZAÇÕES PÚBLICAS, CIVIS E PARTICULARES||
 |103|||
 
-
-
-4.5.1 Integração com as redes públicas de ensino e proposição de atividades práticas de ensino para licenciaturas 103 
-
-4 
-
-**==> picture [471 x 55] intentionally omitted <==**
+4.5.1 Integração com as redes públicas de ensino e proposição de atividades práticas de ensino para licenciaturas 103
 
 |4.5.2 Integração com o sistema local e regional de saúde (SUS) e proposição de|atividades|
 |---|---|
@@ -189,12 +166,6 @@ Leandro Luiz Borges Luis Henrique Manosso Von Mecheln Marcia Aparecida Barbosa M
 |7.5 ÁREAS DE ATENDIMENTO DISCENTE|135|
 |7.6 ÁREAS DE APOIO|136|
 
-
-
-5 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
 |7.7 BIBLIOTECA|136|
 |---|---|
 |7.7.1 Biblioteca do câmpus Assis Chateaubriand|137|
@@ -218,449 +189,350 @@ Leandro Luiz Borges Luis Henrique Manosso Von Mecheln Marcia Aparecida Barbosa M
 |**REGULAMENTO DE ATIVIDADES COMPLEMENTARES DO CURSO SUPERIOR**|**DE**|
 |**TECNOLOGIA EM GESTÃO COMERCIAL CAMPUS ASSIS**|**157**|
 
+## **1. APRESENTAÇÃO DO PROJETO**
 
+## **1.1 IDENTIFICAÇÃO**
 
-6 
+## **1.1.1 Denominação do Curso**
 
-**==> picture [471 x 55] intentionally omitted <==**
+Curso Superior de Tecnologia em Gestão Comercial.
 
-## **1. APRESENTAÇÃO DO PROJETO** 
+## **1.1.2 Eixo Tecnológico**
 
-## **1.1 IDENTIFICAÇÃO** 
+Gestão e Negócios
 
-## **1.1.1 Denominação do Curso** 
+## **1.1.3 Modalidade**
 
-Curso Superior de Tecnologia em Gestão Comercial. 
+Presencial
 
-## **1.1.2 Eixo Tecnológico** 
+## **1.1.4 Grau**
 
-Gestão e Negócios 
+Tecnologia
 
-## **1.1.3 Modalidade** 
+## **1.1.5 Regime Letivo (Periodicidade)**
 
-Presencial 
+Semestral
 
-## **1.1.4 Grau** 
+## **1.1.6 Turno principal do curso**
 
-Tecnologia 
+Noturno
 
-## **1.1.5 Regime Letivo (Periodicidade)** 
+## **1.1.7 Horário de oferta do curso**
 
-Semestral 
+As aulas ocorrerão de segunda-feira a sexta-feira, das 19h às 22h40min, com intervalo de 20 minutos entre 20h40min e 21h00min, sendo que cada aula possui duração de 50 minutos, conforme mostra o Quadro 1:
 
-## **1.1.6 Turno principal do curso** 
-
-Noturno 
-
-## **1.1.7 Horário de oferta do curso** 
-
-As aulas ocorrerão de segunda-feira a sexta-feira, das 19h às 22h40min, com intervalo de 20 minutos entre 20h40min e 21h00min, sendo que cada aula possui duração de 50 minutos, conforme mostra o Quadro 1: 
-
-**Quadro 1: Hora inicial de cada aula no período noturno** 
+**Quadro 1: Hora inicial de cada aula no período noturno**
 
 |1a aula|19h 00m às 19h 50m|
 |---|---|
 |2a aula|19h 50m Às 20h40m|
-
-
-
-7 
-
-**==> picture [471 x 55] intentionally omitted <==**
 
 |Intervalo|20h 40m às 21h|
 |---|---|
 |3a aula|21h 00m às 21h 50m|
 |4a aula|21h 50m às 22h 40m|
 
+## **1.1.8 Prazo de Integralização Curricular**
 
+Com relação ao prazo máximo para a integralização do curso tem-se o entendimento de que não mais se aplica. A Lei no 9.394/1996 (Lei de Diretrizes e Bases da Educação Brasileira), no artigo 92, revogou expressamente a Lei no 5.540/1968. Nesse sentido, no plano das normas gerais do Direito Educacional Brasileiro, não há mais qualquer base legal para desligar estudantes, no âmbito da educação superior, tendo por base o argumento de que ultrapassaram o prazo máximo para a conclusão dos cursos aos quais estariam vinculados.
 
-## **1.1.8 Prazo de Integralização Curricular** 
+A legislação que trazia essa obrigatoriedade de desligamento foi revogada pela Lei de Diretrizes e Bases da Educação Nacional (LDB) de 1996. Somem-se a essa revogação outras inovações trazidas na legislação educacional, dentre as quais cabe destacar a substituição dos currículos mínimos pelas diretrizes curriculares. E as diretrizes curriculares definidas pela Câmara de Ensino Superior (CES) do Conselho Nacional de Educação (CNE) nos últimos anos, para os diversos cursos superiores, não mais fazem referência a seus tempos de duração máximos.
 
-Com relação ao prazo máximo para a integralização do curso tem-se o entendimento de que não mais se aplica. A Lei no 9.394/1996 (Lei de Diretrizes e Bases da Educação Brasileira), no artigo 92, revogou expressamente a Lei no 5.540/1968. Nesse sentido, no plano das normas gerais do Direito Educacional Brasileiro, não há mais qualquer base legal para desligar estudantes, no âmbito da educação superior, tendo por base o argumento de que ultrapassaram o prazo máximo para a conclusão dos cursos aos quais estariam vinculados. 
+É necessário destacar que o Parecer CNE/CES no 184/2006 institui as cargas horárias mínimas para os cursos de graduação, bacharelados, na modalidade presencial; entretanto, não fixa prazos máximos, para a duração desses mesmos cursos.
 
-A legislação que trazia essa obrigatoriedade de desligamento foi revogada pela Lei de Diretrizes e Bases da Educação Nacional (LDB) de 1996. Somem-se a essa revogação outras inovações trazidas na legislação educacional, dentre as quais cabe destacar a substituição dos currículos mínimos pelas diretrizes curriculares. E as diretrizes curriculares definidas pela Câmara de Ensino Superior (CES) do Conselho Nacional de Educação (CNE) nos últimos anos, para os diversos cursos superiores, não mais fazem referência a seus tempos de duração máximos. 
+Em síntese, a LDB, ao apresentar a Educação como direito social, ao revogar a normativa que autorizava o desligamento do estudante por ultrapassar os tempos máximos de conclusão do curso, extingue a prática do jubilamento.
 
-É necessário destacar que o Parecer CNE/CES no 184/2006 institui as cargas horárias mínimas para os cursos de graduação, bacharelados, na modalidade presencial; entretanto, não fixa prazos máximos, para a duração desses mesmos cursos. 
+## **1.1.9 Carga-Horária total do Curso**
 
-Em síntese, a LDB, ao apresentar a Educação como direito social, ao revogar a normativa que autorizava o desligamento do estudante por ultrapassar os tempos máximos de conclusão do curso, extingue a prática do jubilamento. 
+1633 horas (componentes curriculares obrigatórios e atividades complementares = 150 horas).
 
-8 
+## **1.1.10 Vagas totais (anual)**
 
-**==> picture [471 x 55] intentionally omitted <==**
+Mínimo: 20 vagas Máximo: 40 vagas Oferta: anual
 
-## **1.1.9 Carga-Horária total do Curso** 
+## **1.1.11 Escolaridade mínima exigida**
 
-1633 horas (componentes curriculares obrigatórios e atividades complementares = 150 horas). 
+Ensino Médio completo.
 
-## **1.1.10 Vagas totais (anual)** 
+## **1.1.12 Coordenador**
 
-Mínimo: 20 vagas Máximo: 40 vagas Oferta: anual 
+Nome: Keyla Christina Almeida Portela Titulação Máxima: Doutorado Regime de Trabalho: DE, 40h.
 
-## **1.1.11 Escolaridade mínima exigida** 
+## **1.1.13 Coordenador substituto**
 
-Ensino Médio completo. 
+Nome: Mauro Cesar de Souza Siena Titulação Máxima: Mestrado Regime de Trabalho: DE, 40h
 
-## **1.1.12 Coordenador** 
+## **1.1.14 Endereço de Oferta**
 
-Nome: Keyla Christina Almeida Portela Titulação Máxima: Doutorado Regime de Trabalho: DE, 40h. 
+Campus: Assis Chateaubriand Rua e número: Avenida Cívica, 475. Bairro: Centro Cidade: Assis Chateaubriand UF: PR CEP: 85935-000 Fone/Fax: (44) 3528 6385 Página da Internet: http://assis.ifpr.edu.br
 
-## **1.1.13 Coordenador substituto** 
+## **1.2 CONTEXTO HISTÓRICO DO PROJETO NO IFPR**
 
-Nome: Mauro Cesar de Souza Siena Titulação Máxima: Mestrado Regime de Trabalho: DE, 40h 
+## 1.2.1 O Instituto Federal do Paraná
 
-## **1.1.14 Endereço de Oferta** 
+O atual Instituto Federal do Paraná (IFPR) tem suas raízes em 1869 a partir da criação da Escola Técnica que pertencia à antiga Colônia Alemã de Curitiba, sendo seus fundadores Gottliebe Mueller e Augusto Gaertner, sócios da Verein Deutsche Schule. Até 1914 o estabelecimento chamou-se Escola Alemã, tendo nesta ocasião mudado sua denominação para
 
-Campus: Assis Chateaubriand Rua e número: Avenida Cívica, 475. Bairro: Centro Cidade: Assis Chateaubriand UF: PR CEP: 85935-000 Fone/Fax: (44) 3528 6385 Página da Internet: http://assis.ifpr.edu.br 
+Colégio Progresso.
 
-## **1.2 CONTEXTO HISTÓRICO DO PROJETO NO IFPR** 
+Em 1914, a então Academia Comercial Progresso foi adquirida pela Faculdade de Direito da Universidade do Paraná, conforme consta da ata da reunião da respectiva Congregação, realizada a 18 de dezembro daquele ano, e de acordo com escritura pública de incorporação, lavrada a 20 do mês de abril de 1942, no Cartório do 1º Tabelionato desta Capital, às folhas 11 e 12 do livro nº 291, sendo autorizada a funcionar sob a denominação de Escola Técnica de Comércio anexa à Faculdade de Direito da Universidade do Paraná, por ato do Ministério da Educação e Cultura, datado de 27 de fevereiro de 1942. Com a federalização da Universidade do Paraná pela Lei nº 1.254, de 04 de dezembro de 1950, continuou a Escola a ser mantida pela Faculdade de Direito, consoante o artigo 15 da aludida lei. Por decisão do Conselho Universitário, proferida em 22 de janeiro de 1974, a Escola foi integrada à Universidade Federal do Paraná, como órgão suplementar, sob a denominação de Escola Técnica de Comércio da Universidade Federal do Paraná.
 
-## 1.2.1 O Instituto Federal do Paraná 
+A Escola Técnica de Comércio, voltada aos objetivos da Lei nº 5.692/71, é autorizada a ofertar os cursos Técnicos em Contabilidade e Secretariado, e outros cursos de formação profissional, além de aperfeiçoamento adequado ao aprimoramento de conhecimentos e capacitação técnica de egressos de seus cursos, realizando um trabalho educativo com qualidade e eficiência.
 
-O atual Instituto Federal do Paraná (IFPR) tem suas raízes em 1869 a partir da criação da Escola Técnica que pertencia à antiga Colônia Alemã de Curitiba, sendo seus fundadores Gottliebe Mueller e Augusto Gaertner, sócios da Verein Deutsche Schule. Até 1914 o estabelecimento chamou-se Escola Alemã, tendo nesta ocasião mudado sua denominação para 
+A partir de 14 de dezembro de 1990, ao aprovar a reorganização administrativa da Universidade Federal, o Conselho Universitário alterou sua denominação para Escola Técnica da Universidade Federal do Paraná. No ano letivo de 1991 a escola passa a ofertar os seguintes cursos: Técnico em Enfermagem, Técnico em Higiene Dental, Técnico em Prótese Dentária e Técnico em Processamento de Dados, além do tradicional Curso Técnico em Contabilidade, passando a especializar-se em cursos do Setor Serviços. Ainda na década de 90 são implantados os cursos: Técnico em Administração de Empresas, Técnico em Artes Cênicas, Técnico em Radiologia Médica e Técnico em Transações Imobiliárias.
 
-9 
+Com a promulgação da Lei nº 9.394/96 e do Decreto 2.208/97 a Escola passa a adaptar-se à nova situação da Reforma da Educação Profissional, reestruturando seus cursos e implantando o Curso Tecnologia em Informática.
 
-**==> picture [471 x 55] intentionally omitted <==**
+No período de 2002-2005 a Escola passa a atender as demandas de profissionalização de Instituições e da Sociedade Civil organizada, implantando cursos nas seguintes áreas profissionais: indústria, agropecuária, turismo e hospitalidade. Além de atuar em novas áreas profissionais, a escola amplia o número de cursos nas áreas profissionais de artes, gestão e saúde.
 
-Colégio Progresso. 
+Levando em consideração que um expressivo número de paranaenses têm dificuldade de acesso à escola pública de qualidade, a partir do ano de 2002 a Escola inicia um processo de descentralização curricular de seus cursos presenciais e implanta cursos na Modalidade de Educação à Distância na área de Gestão.
 
-Em 1914, a então Academia Comercial Progresso foi adquirida pela Faculdade de Direito da Universidade do Paraná, conforme consta da ata da reunião da respectiva Congregação, realizada a 18 de dezembro daquele ano, e de acordo com escritura pública de incorporação, lavrada a 20 do mês de abril de 1942, no Cartório do 1º Tabelionato desta Capital, às folhas 11 e 12 do livro nº 291, sendo autorizada a funcionar sob a denominação de Escola Técnica de Comércio anexa à Faculdade de Direito da Universidade do Paraná, por ato do Ministério da Educação e Cultura, datado de 27 de fevereiro de 1942. Com a federalização da Universidade do Paraná pela Lei nº 1.254, de 04 de dezembro de 1950, continuou a Escola a ser mantida pela Faculdade de Direito, consoante o artigo 15 da aludida lei. Por decisão do Conselho Universitário, proferida em 22 de janeiro de 1974, a Escola foi integrada à Universidade Federal do Paraná, como órgão suplementar, sob a denominação de Escola Técnica de Comércio da Universidade Federal do Paraná. 
+Com o intuito de assegurar a Política Afirmativa da Universidade Federal do Paraná, no ano de 2005 é implantado o Sistema de Cotas Social e Racial, com 20% das vagas para cada cota, num prazo de 10 (dez) anos. No decorrer destes 10 anos a Universidade Federal do Paraná esteve atuando nas Escolas Públicas com cursos de capacitação com a finalidade de melhorar a qualidade do ensino nas escolas públicas.
 
-A Escola Técnica de Comércio, voltada aos objetivos da Lei nº 5.692/71, é autorizada a ofertar os cursos Técnicos em Contabilidade e Secretariado, e outros cursos de formação profissional, além de aperfeiçoamento adequado ao aprimoramento de conhecimentos e capacitação técnica de egressos de seus cursos, realizando um trabalho educativo com qualidade e eficiência. 
+Com a Lei 11.892 do dia 29 de dezembro de 2008, criou-se o Instituto Federal do Paraná, com a transformação da Escola Técnica vinculada a Universidade Federal do Paraná. E conforme Resolução CONSUP n° 01 de 30 de março 2009, retificada pela Resolução nº 10/2009, consolidada pela Resolução nº 13/2011, com o anexo I retificado pela Resolução 39/2012, pela Resolução 02/2014 e pela Resolução nº 02/2015, em específico o Campus Assis Chateaubriand foi criado através da Portaria nº 993, de 07 de outubro de 2013. Publicação no DOU em 08/10/13, pág. 11.
 
-A partir de 14 de dezembro de 1990, ao aprovar a reorganização administrativa da Universidade Federal, o Conselho Universitário alterou sua denominação para Escola Técnica da Universidade Federal do Paraná. No ano letivo de 1991 a escola passa a ofertar os seguintes cursos: Técnico em Enfermagem, Técnico em Higiene Dental, Técnico em Prótese Dentária e Técnico em Processamento de Dados, além do tradicional Curso Técnico em Contabilidade, passando a especializar-se em cursos do Setor Serviços. Ainda na década de 90 são implantados os cursos: Técnico em Administração de Empresas, Técnico em Artes Cênicas, Técnico em Radiologia Médica e Técnico em Transações Imobiliárias. 
+Os Institutos Federais de Educação, Ciência e Tecnologia são instituições de educação superior, básica e profissional, pluricurriculares e _multicampi_ , especializados na oferta de educação profissional e tecnológica nas diferentes modalidades de ensino, com base na
 
-10 
+conjugação de conhecimentos técnicos e tecnológicos às suas práticas pedagógicas. Os IF's compõem a Rede Federal de Educação Profissional e Tecnológica.
 
-**==> picture [471 x 55] intentionally omitted <==**
+Os institutos devem ter forte inserção na área de pesquisa e extensão, visando estimular o desenvolvimento de soluções técnicas e tecnológicas e estendendo seus benefícios à comunidade. Metade das vagas é destinada à oferta de cursos técnicos de nível médio, em especial cursos de currículo integrado.
 
-Com a promulgação da Lei nº 9.394/96 e do Decreto 2.208/97 a Escola passa a adaptar-se à nova situação da Reforma da Educação Profissional, reestruturando seus cursos e implantando o Curso Tecnologia em Informática. 
+Na educação superior, o destaque fica para os cursos de engenharias e de licenciaturas em ciências física, química, matemática e biologia. Ainda são incentivadas as licenciaturas de conteúdos específicos da educação profissional e tecnológica, como a formação de professores de mecânica, eletricidade e informática.
 
-No período de 2002-2005 a Escola passa a atender as demandas de profissionalização de Instituições e da Sociedade Civil organizada, implantando cursos nas seguintes áreas profissionais: indústria, agropecuária, turismo e hospitalidade. Além de atuar em novas áreas profissionais, a escola amplia o número de cursos nas áreas profissionais de artes, gestão e saúde. 
+Os Institutos Federais têm autonomia, nos limites de sua área de atuação territorial, para criar e extinguir cursos, bem como para registrar diplomas dos cursos por ele oferecidos, mediante autorização do seu Conselho Superior. Ainda exercem o papel de instituições acreditadoras e certificadoras de competências profissionais. Cada Instituto Federal é organizado em estrutura com vários _campi_ , com proposta orçamentária anual identificada para cada _campus_ e reitoria, equiparando-se com as universidades federais.
 
-Levando em consideração que um expressivo número de paranaenses têm dificuldade de acesso à escola pública de qualidade, a partir do ano de 2002 a Escola inicia um processo de descentralização curricular de seus cursos presenciais e implanta cursos na Modalidade de Educação à Distância na área de Gestão. 
+O Instituto Federal de Educação, Ciência e Tecnologia do Paraná criado mediante transformação da Escola Técnica da Universidade Federal do Paraná, tem a sua Reitoria instalada em Curitiba, com _campi_ em Curitiba, Paranaguá, Umuarama, Paranavaí, Telêmaco Borba, Jacarezinho, Londrina, Foz do Iguaçu, Irati, Barracão, Jaguariaiva, Pitanga, Cascavel, União da Vitória, Pinhais, Colombo, Campo Largo, Palmas, Assis Chateaubriand, Astorga, Coronel Vivida, Goioerê, Ivaiporã e Quedas do Iguaçu.
 
-Com o intuito de assegurar a Política Afirmativa da Universidade Federal do Paraná, no ano de 2005 é implantado o Sistema de Cotas Social e Racial, com 20% das vagas para cada cota, num prazo de 10 (dez) anos. No decorrer destes 10 anos a Universidade Federal do Paraná esteve atuando nas Escolas Públicas com cursos de capacitação com a finalidade de melhorar a qualidade do ensino nas escolas públicas. 
+Conforme Resolução CONSUP nº 56, de 03 de dezembro de 2012 foi aprovado o Regimento Geral do IFPR, do qual contém as disposições gerais e básicas sobre as atividades comuns às unidades e aos demais órgãos do Instituto Federal do Paraná, nos planos
 
-Com a Lei 11.892 do dia 29 de dezembro de 2008, criou-se o Instituto Federal do Paraná, com a transformação da Escola Técnica vinculada a Universidade Federal do Paraná. E conforme Resolução CONSUP n° 01 de 30 de março 2009, retificada pela Resolução nº 10/2009, consolidada pela Resolução nº 13/2011, com o anexo I retificado pela Resolução 39/2012, pela Resolução 02/2014 e pela Resolução nº 02/2015, em específico o Campus Assis Chateaubriand foi criado através da Portaria nº 993, de 07 de outubro de 2013. Publicação no DOU em 08/10/13, pág. 11. 
+didático-científico, administrativo, financeiro, patrimonial e disciplinar.
 
-Os Institutos Federais de Educação, Ciência e Tecnologia são instituições de educação superior, básica e profissional, pluricurriculares e _multicampi_ , especializados na oferta de educação profissional e tecnológica nas diferentes modalidades de ensino, com base na 
+O Instituto Federal do Paraná desenvolve as seguintes atividades educacionais:
 
-11 
+- Oferta de educação profissional, levando em conta o avanço do conhecimento tecnológico e a incorporação crescente de novos métodos e processo de produção e distribuição de bens e serviços;
 
-**==> picture [471 x 55] intentionally omitted <==**
+- Atuação prioritária em cursos técnicos, de tecnologia, iniciação profissional e formação continuada de trabalhadores nos diversos setores da economia;
 
-conjugação de conhecimentos técnicos e tecnológicos às suas práticas pedagógicas. Os IF's compõem a Rede Federal de Educação Profissional e Tecnológica. 
+- Oferta de ensino médio;
 
-Os institutos devem ter forte inserção na área de pesquisa e extensão, visando estimular o desenvolvimento de soluções técnicas e tecnológicas e estendendo seus benefícios à comunidade. Metade das vagas é destinada à oferta de cursos técnicos de nível médio, em especial cursos de currículo integrado. 
+- Oferta de educação profissional, levando em consideração as tendências do setor produtivo e do desenvolvimento tecnológico;
 
-Na educação superior, o destaque fica para os cursos de engenharias e de licenciaturas em ciências física, química, matemática e biologia. Ainda são incentivadas as licenciaturas de conteúdos específicos da educação profissional e tecnológica, como a formação de professores de mecânica, eletricidade e informática. 
+- Realização de pesquisas aplicadas;
 
-Os Institutos Federais têm autonomia, nos limites de sua área de atuação territorial, para criar e extinguir cursos, bem como para registrar diplomas dos cursos por ele oferecidos, mediante autorização do seu Conselho Superior. Ainda exercem o papel de instituições acreditadoras e certificadoras de competências profissionais. Cada Instituto Federal é organizado em estrutura com vários _campi_ , com proposta orçamentária anual identificada para cada _campus_ e reitoria, equiparando-se com as universidades federais. 
+- Integração das ações educacionais com as expectativas da sociedade e as tendências do mundo do trabalho;
 
-O Instituto Federal de Educação, Ciência e Tecnologia do Paraná criado mediante transformação da Escola Técnica da Universidade Federal do Paraná, tem a sua Reitoria instalada em Curitiba, com _campi_ em Curitiba, Paranaguá, Umuarama, Paranavaí, Telêmaco Borba, Jacarezinho, Londrina, Foz do Iguaçu, Irati, Barracão, Jaguariaiva, Pitanga, Cascavel, União da Vitória, Pinhais, Colombo, Campo Largo, Palmas, Assis Chateaubriand, Astorga, Coronel Vivida, Goioerê, Ivaiporã e Quedas do Iguaçu. 
+- Promoção da transição entre a escola e o mundo do trabalho, capacitando jovens e adultos com conhecimentos gerais e específicos necessários ao exercício de atividades produtivas;
 
-Conforme Resolução CONSUP nº 56, de 03 de dezembro de 2012 foi aprovado o Regimento Geral do IFPR, do qual contém as disposições gerais e básicas sobre as atividades comuns às unidades e aos demais órgãos do Instituto Federal do Paraná, nos planos 
+- Especialização, aperfeiçoamento e atualização de trabalhadores em seus conhecimentos científicos e tecnológico;
 
-12 
+- Qualificação e atualização de jovens e adultos, independente do nível de escolaridade, visando a sua inserção e melhor desempenho no mercado de trabalho.
 
-**==> picture [471 x 55] intentionally omitted <==**
+O Instituto atua nas seguintes áreas:
 
-didático-científico, administrativo, financeiro, patrimonial e disciplinar. 
+- Agropecuária;
 
-O Instituto Federal do Paraná desenvolve as seguintes atividades educacionais: 
+- Artes;
 
-- Oferta de educação profissional, levando em conta o avanço do conhecimento tecnológico e a incorporação crescente de novos métodos e processo de produção e distribuição de bens e serviços; 
+- Comércio;
 
-- Atuação prioritária em cursos técnicos, de tecnologia, iniciação profissional e formação continuada de trabalhadores nos diversos setores da economia; 
+- Gestão;
 
-- Oferta de ensino médio; 
+- · Indústria;
 
-- Oferta de educação profissional, levando em consideração as tendências do setor produtivo e do desenvolvimento tecnológico; 
+- · Informática;
 
-- Realização de pesquisas aplicadas; 
+- · Meio Ambiente;
 
-- Integração das ações educacionais com as expectativas da sociedade e as tendências do mundo do trabalho; 
+- Saúde;
 
-- Promoção da transição entre a escola e o mundo do trabalho, capacitando jovens e adultos com conhecimentos gerais e específicos necessários ao exercício de atividades produtivas; 
+- Turismo e Hospitalidade.
 
-- Especialização, aperfeiçoamento e atualização de trabalhadores em seus conhecimentos científicos e tecnológico; 
+## **1.2.2 O Curso Superior de Tecnologia em Gestão Comercial**
 
-- Qualificação e atualização de jovens e adultos, independente do nível de escolaridade, visando a sua inserção e melhor desempenho no mercado de trabalho. 
+O _Campus_ Assis Chateaubriand é um dos _campi_ do Instituto Federal do Paraná (IFPR), sendo este uma instituição pública federal de ensino vinculada ao Ministério da Educação (MEC) por meio da Secretaria de Educação Profissional e Tecnológica (SETEC).
 
-O Instituto atua nas seguintes áreas: 
+O _campus_ , autorizado pela Portaria nº 993, de 7 de outubro de 2013, iniciou suas atividades no dia 17 de março de 2010. E no dia 05 de dezembro de 2012 foi inaugurado o primeiro bloco.
 
-- Agropecuária; 
+Em conformidade com os dispositivos legais de criação dos Institutos Federais, o _campus_ cumpre o seu papel de ofertar de forma gratuita educação profissional e tecnológica nas diferentes modalidades e níveis de ensino.
 
-- Artes; 
+Para atender os documentos institucionais e do campus que preveem a oferta de novos cursos para os futuros anos, o curso superior de Tecnologia em Gestão Comercial foi proposto. Este curso visa atender uma demanda do Município e da Região que resulta de um processo de pesquisa junto à comunidade e a Associação Comercial de Assis Chateaubriand.
 
-- Comércio; 
+Conforme orientações, o curso passou por diferentes processos desde o início de sua elaboração, sendo seu Projeto Pedagógico aprovado no dia 20 de março de 2019, pela CGPC da unidade.
 
-13 
+Além do curso superior de Tecnologia em Gestão Comercial são oferecidos à comunidade
 
-**==> picture [471 x 55] intentionally omitted <==**
+local e de municípios vizinhos os cursos Técnicos, na modalidade Integrado ao Ensino Médio, Informática, Eletromecânica, Comércio e Agropecuária; os cursos Técnicos, na modalidade Subsequente, Agropecuária, Alimentos, Eletromecânica, Eletrotécnica; os cursos superiores Licenciatura em Ciências Biológicas e o Tecnólogo em Análise e Desenvolvimento de Sistemas; os cursos de Pós- graduação Especialização em Ensino de Ciências e Matemática e Especialização em Governança Corporativa e Sustentabilidade.
 
-- Gestão; 
+## 1.2.3 Missão, Visão e Valores
 
-- · Indústria; 
+Prevendo a ampla participação da sociedade em todas as suas esferas, o Plano de Desenvolvimento Institucional (PDI) foi elaborado no ano de 2018 apontando a necessidade de parcerias com os movimentos sociais, as entidades ou instituições públicas e privadas representativas das classes patronal e trabalhadora.
 
-- · Informática; 
+Segundo o PDI 2018 essa articulação com a sociedade e com representantes do mercado de trabalho certamente trará ao processo educativo e formativo, valiosa contribuição em relação à compreensão dos valores sociais do trabalho e da dignidade humana.ǁ
 
-- · Meio Ambiente; 
+## O referido documento entende a participação da comunidade como:
 
-- Saúde; 
+essencial ao processo educacional que se munirá de condições de despertar nas pessoas a consciência cidadã voltada para a compreensão da realidade social em que vivem e a importância da participação no processo de transformação desta realidade, para que se possa construir uma sociedade mais livre, igualitária, justa, fraterna, solidária e soberana (PDI, 2009, p. 08).
 
-- Turismo e Hospitalidade. 
+Com essa perspectiva de ampla participação social e de transformação da realidade, a missão do IFPR se constitui em:
 
-## **1.2.2 O Curso Superior de Tecnologia em Gestão Comercial** 
+Promover a educação profissional e tecnológica, pública, de qualidade, socialmente referenciada, por meio do ensino, pesquisa e extensão, visando à formação de cidadãos críticos, autônomos e empreendedores, comprometidos com a sustentabilidade (Resolução 63, 2013, p. 14-15).
 
-O _Campus_ Assis Chateaubriand é um dos _campi_ do Instituto Federal do Paraná (IFPR), sendo este uma instituição pública federal de ensino vinculada ao Ministério da Educação (MEC) por meio da Secretaria de Educação Profissional e Tecnológica (SETEC). 
+Dessa missão, deriva-se a visão institucional: Ser referência em educação profissional, tecnológica e científica, reconhecida pelo compromisso com a transformação social (Resolução 63, 2013, p. 14-15).
 
-O _campus_ , autorizado pela Portaria nº 993, de 7 de outubro de 2013, iniciou suas atividades no dia 17 de março de 2010. E no dia 05 de dezembro de 2012 foi inaugurado o primeiro bloco. 
+Os valores definidos pela Resolução 63, de 17 de dezembro de 2013, são as que seguem: Pessoas; Visão sistêmica; Educação de qualidade e excelência; Eficiência e eficácia; Ética; Sustentabilidade; Qualidade de vida; Diversidade humana e cultural; Inclusão social; Empreendedorismo e inovação; Respeito às características regionais; Democracia e transparência.
 
-Em conformidade com os dispositivos legais de criação dos Institutos Federais, o _campus_ cumpre o seu papel de ofertar de forma gratuita educação profissional e tecnológica nas diferentes modalidades e níveis de ensino. 
+A partir do compromisso social, que se evidencia na missão, na visão e nos valores institucionais, o IFPR se propõe a ofertar uma formação sólida, com base na ética e nos valores democráticos como princípios fundamentais à educação e à produção de conhecimentos, permitindo uma integração efetiva entre os membros da comunidade escolar, a sociedade e o mundo do trabalho.
 
-Para atender os documentos institucionais e do campus que preveem a oferta de novos cursos para os futuros anos, o curso superior de Tecnologia em Gestão Comercial foi proposto. Este curso visa atender uma demanda do Município e da Região que resulta de um processo de pesquisa junto à comunidade e a Associação Comercial de Assis Chateaubriand. 
+## 1.3 O PROJETO PEDAGÓGICO DO CURSO
 
-Conforme orientações, o curso passou por diferentes processos desde o início de sua elaboração, sendo seu Projeto Pedagógico aprovado no dia 20 de março de 2019, pela CGPC da unidade. 
+## 1.3.1 Integração do Projeto ao PDI, PPI e PPP
 
-Além do curso superior de Tecnologia em Gestão Comercial são oferecidos à comunidade 
+O curso superior de Tecnologia em Gestão Comercial resulta de intenso debate com representantes da comunidade de Assis Chateaubriand e do entorno. A parceria estabelecida com a Associação Comercial local possibilitou várias discussões que levaram à decisão de oferta desse curso.
 
-14 
+O compromisso em ofertar cursos do Eixo de Gestão já havia sido firmado no Plano de Desenvolvimento Institucional, vigência 2019-2024, e reafirmado no Projeto Político Pedagógico do _campus_ .
 
-**==> picture [471 x 55] intentionally omitted <==**
+Trata-se de um curso que pretende capacitar profissionais para a área de gestão. Habilitálos para lidar com situações comerciais, financeiras e tributárias de forma a contribuir com o crescimento e desenvolvimento do município, conforme objetivos dos documentos institucionais e do _Campus_ Assis Chateaubriand.
 
-local e de municípios vizinhos os cursos Técnicos, na modalidade Integrado ao Ensino Médio, Informática, Eletromecânica, Comércio e Agropecuária; os cursos Técnicos, na modalidade Subsequente, Agropecuária, Alimentos, Eletromecânica, Eletrotécnica; os cursos superiores Licenciatura em Ciências Biológicas e o Tecnólogo em Análise e Desenvolvimento de Sistemas; os cursos de Pós- graduação Especialização em Ensino de Ciências e Matemática e Especialização em Governança Corporativa e Sustentabilidade. 
+## 1.3.2 Fundamentos Legais e Normativos da Área
 
-## 1.2.3 Missão, Visão e Valores 
+Em consonância com o Decreto nº 5.154, de 23 de julho de 2004, e com a Lei de Diretrizes e Bases, Lei nº 9.394, de 20 de dezembro de 1996, esse curso, que oferta educação profissional tecnológica, tem como premissas articular esforços das áreas da educação, do trabalho e emprego, da ciência e da tecnologia.
 
-Prevendo a ampla participação da sociedade em todas as suas esferas, o Plano de Desenvolvimento Institucional (PDI) foi elaborado no ano de 2018 apontando a necessidade de parcerias com os movimentos sociais, as entidades ou instituições públicas e privadas representativas das classes patronal e trabalhadora. 
+Nesse sentido, para uma preparação profissional que desenvolva nos indivíduos a competência para mobilizar seus conhecimentos técnicos e para atuar criticamente no mercado de trabalho mostram-se necessárias ações pedagógicas em que não haja a indissociabilidade entre teoria e prática.
 
-Segundo o PDI 2018 essa articulação com a sociedade e com representantes do mercado de trabalho certamente trará ao processo educativo e formativo, valiosa contribuição em relação à compreensão dos valores sociais do trabalho e da dignidade humana.ǁ 
+Este projeto, que atende o que prevê o Catálogo Nacional de Cursos Superiores de Tecnologia, apresenta, no item Perfil do Egresso, as competências e habilidades que devem ser desenvolvidas durante o curso.
 
-## O referido documento entende a participação da comunidade como: 
+## 1.3.3 Integração do Projeto com o SINAES
 
-essencial ao processo educacional que se munirá de condições de despertar nas pessoas a consciência cidadã voltada para a compreensão da realidade social em que vivem e a importância da participação no processo de transformação desta realidade, para que se possa construir uma sociedade mais livre, igualitária, justa, fraterna, solidária e soberana (PDI, 2009, p. 08). 
+O Projeto Pedagógico do Curso (PPC) de Tecnologia em Gestão Comercial foi elaborado com base no Instrumento de Avaliação de Cursos de Graduação do Sistema Nacional de Avaliação da Educação Superior (SINAES), conforme Lei nº 10.861 de 14/04/2004 (BRASIL, 2004).
 
-Com essa perspectiva de ampla participação social e de transformação da realidade, a missão do IFPR se constitui em: 
+O curso foi idealizado e planejado de forma conjunta. Resulta de debates entre membros do _Campus_ e da comunidade. Tem como objetivo capacitar profissionais que atuem na sociedade de forma a contribuir com o desenvolvimento local e regional.
 
-Promover a educação profissional e tecnológica, pública, de qualidade, socialmente referenciada, por meio do ensino, pesquisa e extensão, visando à formação de cidadãos críticos, autônomos e empreendedores, comprometidos com a sustentabilidade (Resolução 63, 2013, p. 14-15). 
+De forma articulada, a sociedade e o instituto decidiram por um curso que atende as necessidades do mercado de trabalho. Mercado cujas exigências ultrapassam as relacionadas à competência técnica, pois espera-se que o profissional formado em Tecnologia em Gestão Comercial possa mobilizar conhecimentos para transformar sua realidade, compreenda e
 
-15 
+consolide princípios e valores sociais, conforme enfatiza o PDI e o PPP do _campus_ .
 
-**==> picture [471 x 55] intentionally omitted <==**
+Durante a formação, tanto desse curso como de outros, os estudantes são estimulados a pesquisar. Pesquisa que não se restringe aos momentos e situações de aula. São oportunidades de enriquecer a bagagem cultural, ampliar a visão de mundo, construir ou consolidar conhecimentos. O resultado de pesquisas, as quais são realizadas sob orientação de um docente, podem ser apresentados tanto no próprio _campus_ como em eventos relacionados ao tema do estudo.
 
-Dessa missão, deriva-se a visão institucional: Ser referência em educação profissional, tecnológica e científica, reconhecida pelo compromisso com a transformação social (Resolução 63, 2013, p. 14-15). 
+A pesquisa, sempre articulada ao ensino, contribui com a formação de indivíduos críticos, que entendem que não devem esperar a resposta.
 
-Os valores definidos pela Resolução 63, de 17 de dezembro de 2013, são as que seguem: Pessoas; Visão sistêmica; Educação de qualidade e excelência; Eficiência e eficácia; Ética; Sustentabilidade; Qualidade de vida; Diversidade humana e cultural; Inclusão social; Empreendedorismo e inovação; Respeito às características regionais; Democracia e transparência. 
+Do mesmo modo, a extensão colabora com a formação, pois os estudantes podem se aproximar das necessidades da sociedade e, com auxílio da pesquisa e do ensino, propor soluções aos problemas que sua comunidade apresenta. observa-se, então, que não há a desarticulação desses três elementos do processo de aprendizagem.
 
-A partir do compromisso social, que se evidencia na missão, na visão e nos valores institucionais, o IFPR se propõe a ofertar uma formação sólida, com base na ética e nos valores democráticos como princípios fundamentais à educação e à produção de conhecimentos, permitindo uma integração efetiva entre os membros da comunidade escolar, a sociedade e o mundo do trabalho. 
+Para uma formação integral não é suficiente aulas desconectadas do contexto social e econômico do educando. Esse contexto deve estar presente nas aulas, ou seja, os estudantes devem ser estimulados a observar seu ambiente, sua cultura e a diversidade à sua volta. Deve estar consciente que também tem responsabilidade social, precisa saber que precisa conhecer para intervir.
 
-## 1.3 O PROJETO PEDAGÓGICO DO CURSO 
+Outro fator essencial para que o processo de ensino aconteça com qualidade está relacionado ao espaço em que as aulas acontecem. A estrutura física, o ambiente de estudo, os laboratórios, a biblioteca, todos os espaços devem estar adequados.
 
-## 1.3.1 Integração do Projeto ao PDI, PPI e PPP 
+Os órgãos de representação também são importantes para a formação do estudante, pois podem colaborar com a formação de pessoas críticas capazes de lutar por seus direitos. As ações dos colegiados, grêmios, centros acadêmicos e demais órgãos ajudam a desenvolver também a autonomia dos discentes e uma participação ativa.
 
-O curso superior de Tecnologia em Gestão Comercial resulta de intenso debate com representantes da comunidade de Assis Chateaubriand e do entorno. A parceria estabelecida com a Associação Comercial local possibilitou várias discussões que levaram à decisão de oferta desse curso. 
+Ações e políticas estudantis são, muitas vezes, oportunidades únicas de dar condições a
 
-O compromisso em ofertar cursos do Eixo de Gestão já havia sido firmado no Plano de Desenvolvimento Institucional, vigência 2019-2024, e reafirmado no Projeto Político Pedagógico do _campus_ . 
+alguns estudantes de continuar seus estudos. Por isso, também, necessárias no processo educativo.
 
-Trata-se de um curso que pretende capacitar profissionais para a área de gestão. Habilitálos para lidar com situações comerciais, financeiras e tributárias de forma a contribuir com o crescimento e desenvolvimento do município, conforme objetivos dos documentos institucionais e do _Campus_ Assis Chateaubriand. 
+## **2. PRINCÍPIOS E FUNDAMENTOS PEDAGÓGICOS**
 
-16 
+Os cursos Superiores de Tecnologia surgem num cenário de crescimento econômico, em que os setores produtivos expressam suas demandas por profissionais mais bem qualificados para atender às necessidades do mundo do trabalho.
 
-**==> picture [471 x 55] intentionally omitted <==**
+A Educação é um direito fundamental, garantido pela constituição. Seu papel é fundamental não apenas para o desenvolvimento de cada ser humano, mas de um país **.**
 
-## 1.3.2 Fundamentos Legais e Normativos da Área 
+O ato de educar é um ato político que exige um posicionamento e este deve ser fruto de discussão e de um acordo coletivo. Conforme Freire (2017, p.143):
 
-Em consonância com o Decreto nº 5.154, de 23 de julho de 2004, e com a Lei de Diretrizes e Bases, Lei nº 9.394, de 20 de dezembro de 1996, esse curso, que oferta educação profissional tecnológica, tem como premissas articular esforços das áreas da educação, do trabalho e emprego, da ciência e da tecnologia. 
+(...) toda prática educativa demanda a existência de sujeitos, um que, ensinando, aprende, outro que, aprendendo, ensina, daí o seu cunho gnosiológico; a existência de objetos, conteúdo a serem ensinados e aprendidos; envolve o uso de métodos, de técnicas, de materiais; implica, em função de seu caráter diretivo, objetivo, sonhos utopias, ideais. Daí a sua politicidade, qualidade que tem a prática educativa de ser política, de não poder ser neutra.
 
-Nesse sentido, para uma preparação profissional que desenvolva nos indivíduos a competência para mobilizar seus conhecimentos técnicos e para atuar criticamente no mercado de trabalho mostram-se necessárias ações pedagógicas em que não haja a indissociabilidade entre teoria e prática. 
+Nesse sentido, é enfatizado, no texto do projeto pedagógico do _Campus_ Assis Chateaubriand, que a constituição da consciência sobre a sociedade que temos e a realidade que se pretende é ação inalienável para a instituição escolar, pois é esta definição que permite indicar o sujeito que é preciso formar, ou seja, a concepção de homem que se pretende seguir.
 
-Este projeto, que atende o que prevê o Catálogo Nacional de Cursos Superiores de Tecnologia, apresenta, no item Perfil do Egresso, as competências e habilidades que devem ser desenvolvidas durante o curso. 
+Além disso, a ação educativa não tem possibilidade de ser neutra em relação às contradições que se apresentam socialmente. Estando os partícipes do processo educacional conscientes ou não, a prática educacional é uma ação política que se posiciona para a manutenção ou para a transformação das relações sociais (PPP, 2018).
 
-## 1.3.3 Integração do Projeto com o SINAES 
+Consoante com o previsto no projeto pedagógico do campus, considera-se aqui que a educação pertence ao âmbito do trabalho não material, “aquele que diz respeito à produção do saber, em que há a produção de ideias, conceitos, valores, símbolos, atitudes, habilidades”
 
-O Projeto Pedagógico do Curso (PPC) de Tecnologia em Gestão Comercial foi elaborado com base no Instrumento de Avaliação de Cursos de Graduação do Sistema Nacional de Avaliação da Educação Superior (SINAES), conforme Lei nº 10.861 de 14/04/2004 (BRASIL, 2004). 
+(SAVIANI, 2012, p. 12).
 
-O curso foi idealizado e planejado de forma conjunta. Resulta de debates entre membros do _Campus_ e da comunidade. Tem como objetivo capacitar profissionais que atuem na sociedade de forma a contribuir com o desenvolvimento local e regional. 
+Conforme Saviani (2012), das duas modalidades de produção não material, a especificidade da educação se situa naquela em que o produto não se separa do ato de produção, ou seja, “o ato de dar aula é inseparável da produção desse ato e de seu consumo. A aula é, pois, produzida e consumida ao mesmo tempo” (SAVIANI, 2012, p. 12).
 
-De forma articulada, a sociedade e o instituto decidiram por um curso que atende as necessidades do mercado de trabalho. Mercado cujas exigências ultrapassam as relacionadas à competência técnica, pois espera-se que o profissional formado em Tecnologia em Gestão Comercial possa mobilizar conhecimentos para transformar sua realidade, compreenda e 
+Podemos, pois, dizer que a natureza humana não é dada ao homem, mas é por ele produzida sobre a base da natureza biofísica. Consequentemente, o trabalho educativo é o ato de produzir, direta e intencionalmente, em cada indivíduo singular, a humanidade que é produzida histórica e coletivamente pelo conjunto dos homens.
 
-17 
+Assim, o objeto da educação diz respeito, de um lado, à identificação dos elementos culturais que precisam ser assimilados pelos indivíduos da espécie humana para que eles se tornem humanos e, de outro lado e concomitantemente, à descoberta das formas mais adequadas de atingir esse objetivo.
 
-**==> picture [471 x 55] intentionally omitted <==**
+Tendo em vista que o papel da escola é promover a construção do conhecimento científico e substituir, de acordo Freire (2015), a curiosidade ingênua pela curiosidade epistemológica, entende-se que os educadores devem respeitar o capital cultural dos educandos, utilizando-o para propiciar, por meio de conteúdos, a “construção do saber objetivo produzido historicamente” (SAVIANI, 2012, p. 7), que serão ferramentas instrumentais de luta (SAVIANI, 2012) com os quais os formados poderão participar realmente da transformação social.
 
-consolide princípios e valores sociais, conforme enfatiza o PDI e o PPP do _campus_ . 
+Conforme Saviani (2012, p. 80), a educação, nesse sentido, é “compreendida no seu desenvolvimento histórico-objetivo e apresenta, por consequência, a possibilidade de se articular uma proposta pedagógica cujo ponto de referência, cujo compromisso, seja a transformação da sociedade e não a manutenção, a sua perpetuação” .
 
-Durante a formação, tanto desse curso como de outros, os estudantes são estimulados a pesquisar. Pesquisa que não se restringe aos momentos e situações de aula. São oportunidades de enriquecer a bagagem cultural, ampliar a visão de mundo, construir ou consolidar conhecimentos. O resultado de pesquisas, as quais são realizadas sob orientação de um docente, podem ser apresentados tanto no próprio _campus_ como em eventos relacionados ao tema do estudo. 
+Considerando a educação dentro de uma perspectiva crítico-dialética, onde as ações pedagógicas podem promover uma formação integral do educando. Por meio de ações
 
-A pesquisa, sempre articulada ao ensino, contribui com a formação de indivíduos críticos, que entendem que não devem esperar a resposta. 
+pedagógicas os alunos são estimulados a refletir sobre a sociedade, sobre seus problemas e possíveis soluções.
 
-Do mesmo modo, a extensão colabora com a formação, pois os estudantes podem se aproximar das necessidades da sociedade e, com auxílio da pesquisa e do ensino, propor soluções aos problemas que sua comunidade apresenta. observa-se, então, que não há a desarticulação desses três elementos do processo de aprendizagem. 
+(...) a educação é, sim, determinada pela sociedade, mas essa determinação é relativa e na forma da ação recíproca o que significa que o determinado também reage sobre o determinante. Consequentemente, a educação também interfere sobre a sociedade, podendo contribuir para a sua própria transformação (SAVIANI, 2012, p.80).
 
-Para uma formação integral não é suficiente aulas desconectadas do contexto social e econômico do educando. Esse contexto deve estar presente nas aulas, ou seja, os estudantes devem ser estimulados a observar seu ambiente, sua cultura e a diversidade à sua volta. Deve estar consciente que também tem responsabilidade social, precisa saber que precisa conhecer para intervir. 
+Para realização de um trabalho de qualidade e atingir os objetivos da educação, ou seja, para formar cidadãos críticos, éticos, conscientes, solidários capazes de atuar na sociedade de modo a superar as condições impostas, é evidente que sejam articuladas a teoria e a prática. A pesquisa, nesse sentido, é imprescindível. O docente e todos os envolvidos no processo educacional devem estar em constante processo de estudo, de busca por alicerces para suas ações. Para tanto a “reflexão crítica sobre a prática se torna uma exigência da relação teoria/prática” (FREIRE, 2015, p. 24).
 
-Outro fator essencial para que o processo de ensino aconteça com qualidade está relacionado ao espaço em que as aulas acontecem. A estrutura física, o ambiente de estudo, os laboratórios, a biblioteca, todos os espaços devem estar adequados. 
+No _Campus_ Assis Chateaubriand a seleção de conteúdo, a definição dos objetivos, as opções metodológicas devem ser sustentadas por uma concepção de formação integral que, estando em harmonia com uma perspectiva progressista de equalização social, forneça as condições necessárias para que ele participe de forma efetiva na sociedade.
 
-Os órgãos de representação também são importantes para a formação do estudante, pois podem colaborar com a formação de pessoas críticas capazes de lutar por seus direitos. As ações dos colegiados, grêmios, centros acadêmicos e demais órgãos ajudam a desenvolver também a autonomia dos discentes e uma participação ativa. 
+## 2.1 JUSTIFICATIVA
 
-Ações e políticas estudantis são, muitas vezes, oportunidades únicas de dar condições a 
+A oferta do presente Curso Superior de Tecnologia em Gestão Comercial se justifica pela necessidade de formação continuada para os profissionais que buscam aperfeiçoamento nas questões referentes à gestão de empresas e que atuam no Comércio. Esta formação continuada tem como objetivo o aprimoramento da qualidade dos recursos humanos que estão à disposição da sociedade e das organizações.
 
-18 
+A formação superior é demandada por estes profissionais em decorrência das exigências do mercado e da competitividade, onde as habilidades gerenciais precisam ser desenvolvidas nas pessoas para o eficaz planejamento e gestão das organizações.
 
-**==> picture [471 x 55] intentionally omitted <==**
+Espera-se que os alunos do curso de Tecnólogo em Gestão Comercial contribuam significativamente para o desenvolvimento da sua comunidade, atuando de forma a maximizar os recursos organizacionais, empregando da maneira mais eficaz estes recursos e esforços visando a o desenvolvimento econômico e social.
 
-alguns estudantes de continuar seus estudos. Por isso, também, necessárias no processo educativo. 
+O município de Assis Chateaubriand apresenta segundo o Índice Firjan de Desenvolvimento Municipal um grau de desenvolvimento moderado, expondo carência principalmente na área do emprego e da renda (FIRJAN, 2014). Sendo que o PIB do município de Assis Chateaubriand foi de R$ 994.568,00 milhões, com um PIB per capita a preços correntes de R$ 29.229,00. Do total do valor adicionado bruto, 26,35% é resultante da agropecuária, 7,22% da indústria, 52,25% do setor de serviços e 13,93% da Administração Pública (IBGE).
 
-## **2. PRINCÍPIOS E FUNDAMENTOS PEDAGÓGICOS** 
+Esta região detém significativo potencial para o agronegócio, porém, também, é potencialmente promissora junto ao setor Industrial, Comercial e da Prestação de Serviços. Pois, sua alavancagem tem relação direta e indireta com processo logístico da cadeia do agronegócio. Estas inter-relações promovem o desenvolvimento regional com vistas a geração de emprego e renda, assim, Assis Chateaubriand tem papel essencial nesta conjuntura econômico-social, pois neste município está situado o _Campus_ do IFPR com sua atuação direcionada a demanda deste arranjo produtivo local.
 
-Os cursos Superiores de Tecnologia surgem num cenário de crescimento econômico, em que os setores produtivos expressam suas demandas por profissionais mais bem qualificados para atender às necessidades do mundo do trabalho. 
+O Instituto Federal do Paraná - _Campus_ Assis Chateaubriand está localizado no município de Assis Chateaubriand, com população estimada de 34.064 habitantes (IPARDES, 2018), que integra a Mesorregião Geográfica Oeste Paranaense e Microrregião de Toledo com uma população total de 410.734 habitantes.
 
-A Educação é um direito fundamental, garantido pela constituição. Seu papel é fundamental não apenas para o desenvolvimento de cada ser humano, mas de um país **.** 
+Como pode-se verificar, a região é predominantemente agrícola, com a presença de indústrias e cooperativas também voltadas para a mesma área.
 
-O ato de educar é um ato político que exige um posicionamento e este deve ser fruto de discussão e de um acordo coletivo. Conforme Freire (2017, p.143): 
+Na área econômica, a geração de emprego e renda é promovida em primeiro lugar pelo setor de serviços, seguido do agrícola e por último o industrial. Há uma perspectiva de crescimento do município e da região, considerando a instalação de novas indústrias que
 
-(...) toda prática educativa demanda a existência de sujeitos, um que, ensinando, aprende, outro que, aprendendo, ensina, daí o seu cunho gnosiológico; a existência de objetos, conteúdo a serem ensinados e aprendidos; envolve o uso de métodos, de técnicas, de materiais; implica, em função de seu caráter diretivo, objetivo, sonhos utopias, ideais. Daí a sua politicidade, qualidade que tem a prática educativa de ser política, de não poder ser neutra. 
+desenvolverá o setor industrial como também o agrícola.
 
-Nesse sentido, é enfatizado, no texto do projeto pedagógico do _Campus_ Assis Chateaubriand, que a constituição da consciência sobre a sociedade que temos e a realidade que se pretende é ação inalienável para a instituição escolar, pois é esta definição que permite indicar o sujeito que é preciso formar, ou seja, a concepção de homem que se pretende seguir. 
+Assim, o _campus_ insere-se em uma região promissora, com alto potencial de crescimento, e que demandará qualificação profissional da comunidade para atuar em todos os setores geradores de economia, além da necessidade de formação humana para as relações interpessoais.
 
-Além disso, a ação educativa não tem possibilidade de ser neutra em relação às contradições que se apresentam socialmente. Estando os partícipes do processo educacional conscientes ou não, a prática educacional é uma ação política que se posiciona para a manutenção ou para a transformação das relações sociais (PPP, 2018). 
+Desta maneira,   observa-se a relevante contribuição que o campus pode promover para esta região, pois seus cursos são voltados para o setor agropecuário, industrial e da prestação de serviços. Não obstante, também, é evidente que o setor da Indústria e Comércio é historicamente muito pujante neste município, pois, é considerado um pólo microrregional por sua localização e estrutura comercial.
 
-Consoante com o previsto no projeto pedagógico do campus, considera-se aqui que a educação pertence ao âmbito do trabalho não material, “aquele que diz respeito à produção do saber, em que há a produção de ideias, conceitos, valores, símbolos, atitudes, habilidades” 
+Portanto, para que a região do entorno de Assis Chateaubriand possa seguir promissora também se faz necessário a contínua expansão dos cursos ofertados pelo campus do IFPR, de forma atender as demandas regionais e anseios dos empreendedores locais. Fato este observável nos resultados obtidos da audiência pública do Plano de Desenvolvimento Institucional (PDI) do dia 19/04/2018, e, posteriormente, em pesquisa realizada pela comissão de estruturação do Eixo de Gestão (Portaria Nº 107 de 13 de junho de 2018), com empresários em prol de consolidar a percepção das áreas e cursos a serem ofertados pelo campus de modo a suprir as necessidades de apoio ao processo de desenvolvimento regional.
 
-19 
+Esta ação do _campus_ contribuirá para o desenvolvimento regional, pois o Oeste do Paraná tem potencial voltado para o agronegócio e grandes empresas deste setor atuam na região e dela contratam sua força de trabalho.
 
-**==> picture [471 x 55] intentionally omitted <==**
+Diante desta promissora região, é que deve-se observar os objetivos constitutivos de ofertas de cursos de educação profissional e tecnológica dos Institutos Federais.
 
-(SAVIANI, 2012, p. 12). 
+Os Institutos Federais têm como base a formação e qualificação técnica em cursos de média duração (1200 horas), sendo estes cursos denominados subsequentes ou pós-médio, direcionados para profissionais que necessitam de uma formação técnica mais completa bem
 
-Conforme Saviani (2012), das duas modalidades de produção não material, a especificidade da educação se situa naquela em que o produto não se separa do ato de produção, ou seja, “o ato de dar aula é inseparável da produção desse ato e de seu consumo. A aula é, pois, produzida e consumida ao mesmo tempo” (SAVIANI, 2012, p. 12). 
+como em cursos Técnicos Integrados ao Ensino Médio, de maneira a formar profissionais ao seu primeiro contato com o ambiente empresarial de formação, não obstante, também, tem os cursos superiores que buscam consolidar uma formação técnica de qualidade e com robustez nas áreas de tecnologias com intuito de atender as demandas latentes do mercado regional.
 
-Podemos, pois, dizer que a natureza humana não é dada ao homem, mas é por ele produzida sobre a base da natureza biofísica. Consequentemente, o trabalho educativo é o ato de produzir, direta e intencionalmente, em cada indivíduo singular, a humanidade que é produzida histórica e coletivamente pelo conjunto dos homens. 
+A partir da pesquisa realizada com empresários locais, pode-se observar no gráfico abaixo (aceitabilidade mercadológica) em ordem de prioridade, do qual foi solicitado aos respondentes que assinalaram em ordem de prioridade quais cursos deveriam ser ofertados à comunidade para atender a carência de profissionais com vistas ao bom desempenho das organizações empresariais da região.
 
-Assim, o objeto da educação diz respeito, de um lado, à identificação dos elementos culturais que precisam ser assimilados pelos indivíduos da espécie humana para que eles se tornem humanos e, de outro lado e concomitantemente, à descoberta das formas mais adequadas de atingir esse objetivo. 
+Desta forma, foi possível compreender melhor as reais necessidades do mercado e, em específico, quais cursos deveriam ser oferecidos à comunidade.
 
-Tendo em vista que o papel da escola é promover a construção do conhecimento científico e substituir, de acordo Freire (2015), a curiosidade ingênua pela curiosidade epistemológica, entende-se que os educadores devem respeitar o capital cultural dos educandos, utilizando-o para propiciar, por meio de conteúdos, a “construção do saber objetivo produzido historicamente” (SAVIANI, 2012, p. 7), que serão ferramentas instrumentais de luta (SAVIANI, 2012) com os quais os formados poderão participar realmente da transformação social. 
+Dentre os resultados da pesquisa apresentamos suas sínteses:
 
-Conforme Saviani (2012, p. 80), a educação, nesse sentido, é “compreendida no seu desenvolvimento histórico-objetivo e apresenta, por consequência, a possibilidade de se articular uma proposta pedagógica cujo ponto de referência, cujo compromisso, seja a transformação da sociedade e não a manutenção, a sua perpetuação” . 
+Após analisar os resultados da pesquisa pode-se perceber com uma maior clareza os rumos que o mercado espera do IFPR - _Campus_ Assis Chateaubriand no quesito formação profissional, diante das organizações do setor secundário e terciário.
 
-Considerando a educação dentro de uma perspectiva crítico-dialética, onde as ações pedagógicas podem promover uma formação integral do educando. Por meio de ações 
+Diante dos resultados obtidos, pode-se decidir quais cursos deverão ser ofertados no Eixo de Gestão e Negócios. É importante salientar que a região é predominantemente agrícola, com a presença de indústrias e cooperativas voltada para a mesma área, no entanto, sabe-se que a maioria as empresas, sejam elas de quaisquer ramos de atividade sempre demandaram em sua estrutura a necessidade da contratação de profissionais com habilidades para gerenciar e se relacionar com pessoas e processos, bem como, saber agir adequadamente em circunstâncias que não somente o conhecimento técnico é relevante, e, cada vez mais, as relações humanas estão sendo valorizadas.
 
-20 
+É sabido que a cidade de Assis Chateaubriand passa por um momento de recuperação em seu desenvolvimento e várias oportunidades estão e vão continuar surgindo, bem como, a instalação de um grande frigorífico de abate de suínos (FRIMESA), do qual tem previsão de gerar mais de 7.000 empregos diretos e muitos outros indiretamente.
 
-**==> picture [471 x 55] intentionally omitted <==**
+Tal empresa necessitará de suporte técnico para suas necessidades funcionais e assim muitas outras empresas se fixarão no município e oferecerão seus serviços. Pois, o processo logístico da cadeia da suinocultura gerará desenvolvimento em larga escala, bem como o crescimento populacional e, deste surgirá demanda por bens e serviços com intuito de suprir suas necessidades fisiológicas e de lazer.
 
-pedagógicas os alunos são estimulados a refletir sobre a sociedade, sobre seus problemas e possíveis soluções. 
+Assim, percebe-se que estas novas demandas devem ser aproveitadas e que será necessário que haja uma população empreendedora, com visão suficiente para atender a demanda existente e futura, principalmente, na área de serviços.
 
-(...) a educação é, sim, determinada pela sociedade, mas essa determinação é relativa e na forma da ação recíproca o que significa que o determinado também reage sobre o determinante. Consequentemente, a educação também interfere sobre a sociedade, podendo contribuir para a sua própria transformação (SAVIANI, 2012, p.80). 
+Considerando que os egressos do ensino fundamental são os estudantes em potencial que podem ingressar no ensino médio, verifica-se que Assis Chateaubriand ocupa a quarta colocação em número de matrículas, contando, com 7,60% (Tabela 2) do total de estudantes matriculados no ensino fundamental da microrregião de Toledo (IPARDES, 2018).
 
-Para realização de um trabalho de qualidade e atingir os objetivos da educação, ou seja, para formar cidadãos críticos, éticos, conscientes, solidários capazes de atuar na sociedade de modo a superar as condições impostas, é evidente que sejam articuladas a teoria e a prática. A pesquisa, nesse sentido, é imprescindível. O docente e todos os envolvidos no processo educacional devem estar em constante processo de estudo, de busca por alicerces para suas ações. Para tanto a “reflexão crítica sobre a prática se torna uma exigência da relação teoria/prática” (FREIRE, 2015, p. 24). 
-
-No _Campus_ Assis Chateaubriand a seleção de conteúdo, a definição dos objetivos, as opções metodológicas devem ser sustentadas por uma concepção de formação integral que, estando em harmonia com uma perspectiva progressista de equalização social, forneça as condições necessárias para que ele participe de forma efetiva na sociedade. 
-
-## 2.1 JUSTIFICATIVA 
-
-A oferta do presente Curso Superior de Tecnologia em Gestão Comercial se justifica pela necessidade de formação continuada para os profissionais que buscam aperfeiçoamento nas questões referentes à gestão de empresas e que atuam no Comércio. Esta formação continuada tem como objetivo o aprimoramento da qualidade dos recursos humanos que estão à disposição da sociedade e das organizações. 
-
-A formação superior é demandada por estes profissionais em decorrência das exigências do mercado e da competitividade, onde as habilidades gerenciais precisam ser desenvolvidas nas pessoas para o eficaz planejamento e gestão das organizações. 
-
-21 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-Espera-se que os alunos do curso de Tecnólogo em Gestão Comercial contribuam significativamente para o desenvolvimento da sua comunidade, atuando de forma a maximizar os recursos organizacionais, empregando da maneira mais eficaz estes recursos e esforços visando a o desenvolvimento econômico e social. 
-
-O município de Assis Chateaubriand apresenta segundo o Índice Firjan de Desenvolvimento Municipal um grau de desenvolvimento moderado, expondo carência principalmente na área do emprego e da renda (FIRJAN, 2014). Sendo que o PIB do município de Assis Chateaubriand foi de R$ 994.568,00 milhões, com um PIB per capita a preços correntes de R$ 29.229,00. Do total do valor adicionado bruto, 26,35% é resultante da agropecuária, 7,22% da indústria, 52,25% do setor de serviços e 13,93% da Administração Pública (IBGE). 
-
-Esta região detém significativo potencial para o agronegócio, porém, também, é potencialmente promissora junto ao setor Industrial, Comercial e da Prestação de Serviços. Pois, sua alavancagem tem relação direta e indireta com processo logístico da cadeia do agronegócio. Estas inter-relações promovem o desenvolvimento regional com vistas a geração de emprego e renda, assim, Assis Chateaubriand tem papel essencial nesta conjuntura econômico-social, pois neste município está situado o _Campus_ do IFPR com sua atuação direcionada a demanda deste arranjo produtivo local. 
-
-O Instituto Federal do Paraná - _Campus_ Assis Chateaubriand está localizado no município de Assis Chateaubriand, com população estimada de 34.064 habitantes (IPARDES, 2018), que integra a Mesorregião Geográfica Oeste Paranaense e Microrregião de Toledo com uma população total de 410.734 habitantes. 
-
-Como pode-se verificar, a região é predominantemente agrícola, com a presença de indústrias e cooperativas também voltadas para a mesma área. 
-
-Na área econômica, a geração de emprego e renda é promovida em primeiro lugar pelo setor de serviços, seguido do agrícola e por último o industrial. Há uma perspectiva de crescimento do município e da região, considerando a instalação de novas indústrias que 
-
-22 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-desenvolverá o setor industrial como também o agrícola. 
-
-Assim, o _campus_ insere-se em uma região promissora, com alto potencial de crescimento, e que demandará qualificação profissional da comunidade para atuar em todos os setores geradores de economia, além da necessidade de formação humana para as relações interpessoais. 
-
-Desta maneira,   observa-se a relevante contribuição que o campus pode promover para esta região, pois seus cursos são voltados para o setor agropecuário, industrial e da prestação de serviços. Não obstante, também, é evidente que o setor da Indústria e Comércio é historicamente muito pujante neste município, pois, é considerado um pólo microrregional por sua localização e estrutura comercial. 
-
-Portanto, para que a região do entorno de Assis Chateaubriand possa seguir promissora também se faz necessário a contínua expansão dos cursos ofertados pelo campus do IFPR, de forma atender as demandas regionais e anseios dos empreendedores locais. Fato este observável nos resultados obtidos da audiência pública do Plano de Desenvolvimento Institucional (PDI) do dia 19/04/2018, e, posteriormente, em pesquisa realizada pela comissão de estruturação do Eixo de Gestão (Portaria Nº 107 de 13 de junho de 2018), com empresários em prol de consolidar a percepção das áreas e cursos a serem ofertados pelo campus de modo a suprir as necessidades de apoio ao processo de desenvolvimento regional. 
-
-Esta ação do _campus_ contribuirá para o desenvolvimento regional, pois o Oeste do Paraná tem potencial voltado para o agronegócio e grandes empresas deste setor atuam na região e dela contratam sua força de trabalho. 
-
-Diante desta promissora região, é que deve-se observar os objetivos constitutivos de ofertas de cursos de educação profissional e tecnológica dos Institutos Federais. 
-
-Os Institutos Federais têm como base a formação e qualificação técnica em cursos de média duração (1200 horas), sendo estes cursos denominados subsequentes ou pós-médio, direcionados para profissionais que necessitam de uma formação técnica mais completa bem 
-
-23 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-como em cursos Técnicos Integrados ao Ensino Médio, de maneira a formar profissionais ao seu primeiro contato com o ambiente empresarial de formação, não obstante, também, tem os cursos superiores que buscam consolidar uma formação técnica de qualidade e com robustez nas áreas de tecnologias com intuito de atender as demandas latentes do mercado regional. 
-
-A partir da pesquisa realizada com empresários locais, pode-se observar no gráfico abaixo (aceitabilidade mercadológica) em ordem de prioridade, do qual foi solicitado aos respondentes que assinalaram em ordem de prioridade quais cursos deveriam ser ofertados à comunidade para atender a carência de profissionais com vistas ao bom desempenho das organizações empresariais da região. 
-
-Desta forma, foi possível compreender melhor as reais necessidades do mercado e, em específico, quais cursos deveriam ser oferecidos à comunidade. 
-
-Dentre os resultados da pesquisa apresentamos suas sínteses: 
-
-**==> picture [373 x 213] intentionally omitted <==**
-
-Após analisar os resultados da pesquisa pode-se perceber com uma maior clareza os rumos que o mercado espera do IFPR - _Campus_ Assis Chateaubriand no quesito formação profissional, diante das organizações do setor secundário e terciário. 
-
-24 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-Diante dos resultados obtidos, pode-se decidir quais cursos deverão ser ofertados no Eixo de Gestão e Negócios. É importante salientar que a região é predominantemente agrícola, com a presença de indústrias e cooperativas voltada para a mesma área, no entanto, sabe-se que a maioria as empresas, sejam elas de quaisquer ramos de atividade sempre demandaram em sua estrutura a necessidade da contratação de profissionais com habilidades para gerenciar e se relacionar com pessoas e processos, bem como, saber agir adequadamente em circunstâncias que não somente o conhecimento técnico é relevante, e, cada vez mais, as relações humanas estão sendo valorizadas. 
-
-É sabido que a cidade de Assis Chateaubriand passa por um momento de recuperação em seu desenvolvimento e várias oportunidades estão e vão continuar surgindo, bem como, a instalação de um grande frigorífico de abate de suínos (FRIMESA), do qual tem previsão de gerar mais de 7.000 empregos diretos e muitos outros indiretamente. 
-
-Tal empresa necessitará de suporte técnico para suas necessidades funcionais e assim muitas outras empresas se fixarão no município e oferecerão seus serviços. Pois, o processo logístico da cadeia da suinocultura gerará desenvolvimento em larga escala, bem como o crescimento populacional e, deste surgirá demanda por bens e serviços com intuito de suprir suas necessidades fisiológicas e de lazer. 
-
-Assim, percebe-se que estas novas demandas devem ser aproveitadas e que será necessário que haja uma população empreendedora, com visão suficiente para atender a demanda existente e futura, principalmente, na área de serviços. 
-
-Considerando que os egressos do ensino fundamental são os estudantes em potencial que podem ingressar no ensino médio, verifica-se que Assis Chateaubriand ocupa a quarta colocação em número de matrículas, contando, com 7,60% (Tabela 2) do total de estudantes matriculados no ensino fundamental da microrregião de Toledo (IPARDES, 2018). 
-
-25 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-Tabela 1 - Matrículas no ensino regular segundo a modalidade de ensino e a dependência no município de Assis Chateaubriand, PR. 
+Tabela 1 - Matrículas no ensino regular segundo a modalidade de ensino e a dependência no município de Assis Chateaubriand, PR.
 
 |**MODALIDADE DE**|**ENSINO**|||||
 |---|---|---|---|---|---|
 |||**ESTADUAL**|<br>**MUNICIPAL**|**PARTICULAR**|**TOTAL**|
 |**ENSINO**|**FEDERAL**|||||
-|||||||
-|||||||
 |Educação infantil|-|-|1312|105|1417|
-|||||||
 |Creche|-|-|618|37|655|
-|||||||
 |Pré-escolar|-|-|694|68|762|
-|||||||
 |Ensino Fundamental(1)|-|1758|1951|265|3974|
-|||||||
 |Ensino médio(2)|224|1110|-|1534|1404|
-|||||||
 |Educação profissional|483|79|-|-|562|
-|||||||
 |TOTAL|707|2947|3263|440|7357|
-|||||||
 
+FONTE: IPARDES (2018). (1) Inclui matrículas do ensino de 8 e 9 anos. (2) Inclui as matrículas do ensino médio propedêutico, do ensino integrado à educação profissional e do ensino normal e/ou magistério.
 
-
-FONTE: IPARDES (2018). (1) Inclui matrículas do ensino de 8 e 9 anos. (2) Inclui as matrículas do ensino médio propedêutico, do ensino integrado à educação profissional e do ensino normal e/ou magistério. 
-
-Tabela 2 - Síntese das informações das matrículas no ensino de pré-escola, fundamental e médio da Microrregião de Toledo PR, 2015. 
+Tabela 2 - Síntese das informações das matrículas no ensino de pré-escola, fundamental e médio da Microrregião de Toledo PR, 2015.
 
 ||da Microrregião de Toledo PR, 2015.|
 |---|---|
@@ -678,12 +550,6 @@ Tabela 2 - Síntese das informações das matrículas no ensino de pré-escola, 
 |Mercedes|108<br>746<br>221<br>-|
 |Nova Santa Rosa|206<br>972<br>217<br>-|
 
-
-
-26 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
 |Ouro Verde do Oeste<br>152<br>763|194<br>-|
 |---|---|
 |Palotina<br>873<br>4243|1158<br>18|
@@ -697,11 +563,9 @@ Tabela 2 - Síntese das informações das matrículas no ensino de pré-escola, 
 |Tupãssi<br>159<br>1020|273<br>-|
 |**Total**<br>**9848**<br>**50753**|**15246**<br>**1697**|
 
+FONTE: IPARDES (2018).
 
-
-FONTE: IPARDES (2018). 
-
-Tabela 3 – Distância entre Assis Chateaubriand e os municípios vizinhos 
+Tabela 3 – Distância entre Assis Chateaubriand e os municípios vizinhos
 
 |Tabela 3 – Distância entre Assis Chateaubriand|e os municípios vizinhos|
 |---|---|
@@ -719,12 +583,6 @@ Tabela 3 – Distância entre Assis Chateaubriand e os municípios vizinhos
 |Anahy|47.4|
 |Quatro Pontes|49.9|
 
-
-
-27 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
 |Tupãssi|32.8|
 |---|---|
 |Cafelândia|30.8|
@@ -732,563 +590,451 @@ Tabela 3 – Distância entre Assis Chateaubriand e os municípios vizinhos
 |Alto Piquiri|44|
 |Iporã|48.8|
 
+FONTE: IPARDES (2018).
 
+Figura 1. Potencial contribuição de matrículas nos municípios vizinhos
 
-FONTE: IPARDES (2018). 
+IPARDES (2018).<br>
 
-Figura 1. Potencial contribuição de matrículas nos municípios vizinhos 
+Pode-se considerar que os estudantes matriculados no ensino fundamental nesses municípios (Tabela 3) são potenciais estudantes do curso proposto.
 
-**==> picture [345 x 222] intentionally omitted <==**
+Cabe salientar que o objetivo do curso não é somente formar um profissional para o mercado, mas, sim, um cidadão crítico, autônomo e apto a atuar nas etapas de sua vida social, tendo além da formação técnica, uma formação humana para o mundo do trabalho, o qual poderia ser tanto um técnico, como um filósofo, um escritor ou tudo isso (MEC, 2018).
 
-**==> picture [76 x 9] intentionally omitted <==**
+## 2.2 OBJETIVOS
 
-**----- Start of picture text -----**<br>
-IPARDES (2018).<br>**----- End of picture text -----**<br>
+## 2.2.1 Objetivo Geral
 
+O Curso Superior de Tecnologia em Gestão Comercial tem como objetivo formar profissionais para atuação na Gestão e nas operações do comércio e seus segmentos de forma que possam contribuir para melhoria dos resultados organizacionais.
 
-Pode-se considerar que os estudantes matriculados no ensino fundamental nesses municípios (Tabela 3) são potenciais estudantes do curso proposto. 
+## 2.2.2 Objetivos Específicos
 
-Cabe salientar que o objetivo do curso não é somente formar um profissional para o mercado, mas, sim, um cidadão crítico, autônomo e apto a atuar nas etapas de sua vida social, tendo além da formação técnica, uma formação humana para o mundo do trabalho, o qual poderia ser tanto um técnico, como um filósofo, um escritor ou tudo isso (MEC, 2018). 
+Norteados pelas Diretrizes Curriculares Nacionais Gerais para a organização e o funcionamento dos cursos superiores de tecnologia (Resolução nº 01 CNE/CP/2021) e pelo Catálogo Nacional dos Cursos Superiores de Tecnologia (MEC/SETEC/2016), os objetivos específicos do Curso Superior de Tecnologia em Gestão Comercial são:
 
-28 
+- Realizar estudos de viabilidade econômica, financeira e tributária;
 
-**==> picture [471 x 55] intentionally omitted <==**
+- Elaborar análises comerciais considerando as demandas e oportunidades do mercado;
 
-## 2.2 OBJETIVOS 
+- Planejar pesquisas de mercado;
 
-## 2.2.1 Objetivo Geral 
+- Desenvolver relacionamentos pós-venda com clientes;
 
-O Curso Superior de Tecnologia em Gestão Comercial tem como objetivo formar profissionais para atuação na Gestão e nas operações do comércio e seus segmentos de forma que possam contribuir para melhoria dos resultados organizacionais. 
+- Gerenciar sistemas de informações comerciais;
 
-## 2.2.2 Objetivos Específicos 
+- Definir métodos de formação de preços, considerando aspectos tributários, de custos, da concorrência e do valor para o cliente;
 
-Norteados pelas Diretrizes Curriculares Nacionais Gerais para a organização e o funcionamento dos cursos superiores de tecnologia (Resolução nº 01 CNE/CP/2021) e pelo Catálogo Nacional dos Cursos Superiores de Tecnologia (MEC/SETEC/2016), os objetivos específicos do Curso Superior de Tecnologia em Gestão Comercial são: 
+- Gerenciar a área comercial de uma organização;
 
-- Realizar estudos de viabilidade econômica, financeira e tributária; 
+- Avaliar e emitir parecer técnico em sua área de formação;
 
-- Elaborar análises comerciais considerando as demandas e oportunidades do mercado; 
+- Compreender a importância da estratégia no mundo corporativo, bem como tomar conhecimento das ferramentas e análises estratégicas;
 
-- Planejar pesquisas de mercado; 
+- Compreender as especificidades do Direito do Consumidor para o atendimento às normas legais quanto a entrega do produto e/ou serviço;
 
-- Desenvolver relacionamentos pós-venda com clientes; 
+- Articular e decidir sobre as vendas em negócios diversos;
 
-- Gerenciar sistemas de informações comerciais; 
+- Elaborar previsões e orçamentos de vendas;
 
-- Definir métodos de formação de preços, considerando aspectos tributários, de custos, da concorrência e do valor para o cliente; 
+- Conhecer os canais de distribuição, as formas de distribuição física e as modalidades
 
-- Gerenciar a área comercial de uma organização; 
+de transporte.
 
-- Avaliar e emitir parecer técnico em sua área de formação; 
+## 2.3 RESPONSABILIDADE SOCIAL, AMBIENTAL E PATRIMONIAL
 
-- Compreender a importância da estratégia no mundo corporativo, bem como tomar conhecimento das ferramentas e análises estratégicas; 
+## 2.3.1 A Responsabilidade Social do Curso
 
-- Compreender as especificidades do Direito do Consumidor para o atendimento às normas legais quanto a entrega do produto e/ou serviço; 
+Além das questões estruturais do _Campus_ Assis Chateaubriand, que atendem atualmente aos alunos com necessidades educacionais especiais, existe no campus em funcionamento o NAPNE do que serve de apoio na construção das atividades educacionais.
 
-- Articular e decidir sobre as vendas em negócios diversos; 
+Da mesma forma, a equipe pedagógica do campus deverá prover o suporte pedagógico aos estudantes com necessidades educacionais especiais em cumprimento ao Decreto Nº. 5.296/2004.
 
-- Elaborar previsões e orçamentos de vendas; 
+Não obstante, também é tratado de maneira transversal conteúdos relacionados ao processo de inclusão social e profissional dos alunos e profissionais com necessidades especiais de maneira que é trabalhado junto aos conteúdos de gestão a necessidade da inclusão não apenas por uma obrigatoriedade legal mas por entender que cabe promover a inserção destes alunos e profissionais nas atividades que lhes cabe para a melhoria não só deles, mas, também, de todos que trabalham na organização.
 
-- Conhecer os canais de distribuição, as formas de distribuição física e as modalidades 
+É importante mencionar que a inclusão destes profissionais leva aos conhecimentos de todos que com eles trabalham a percepção que determinadas necessidades especiais podem ser potencializadoras de outras habilidades que são difíceis de se obter de um profissional que julgamos não necessitar de nenhuma adequação laboral.
 
-29 
+## 2.3.2 Meio Ambiente e Desenvolvimento Humano
 
-**==> picture [471 x 55] intentionally omitted <==**
+De acordo com a Lei nº 9.795 de 27 de abril de 1999 que dispõe sobre a educação ambiental, institui a Política Nacional de Educação Ambiental e dá outras providências. Em seu Art. 2º, a educação ambiental é um componente essencial e permanente da educação nacional, devendo estar presente, de forma articulada, em todos os níveis e modalidades do processo
 
-de transporte. 
+educativo, em caráter formal e não formal.
 
-## 2.3 RESPONSABILIDADE SOCIAL, AMBIENTAL E PATRIMONIAL 
+Desta forma, o curso de Tecnologia em Gestão Comercial irá abordar estas temáticas de maneira formal por meio dos componentes curriculares: Ética e responsabilidade social e ambiental com 40 horas aula no terceiro semestre e Gestão da Sustentabilidade com 40 horas aula no quarto semestre. Não obstante, serão realizadas atividades voltadas à promoção da conscientização ambiental e o desenvolvimento humano de forma integrada às demais ações do campus e do Eixo tecnológico.
 
-## 2.3.1 A Responsabilidade Social do Curso 
+## 2.3.3 Memória, Patrimônio Artístico e Cultural
 
-Além das questões estruturais do _Campus_ Assis Chateaubriand, que atendem atualmente aos alunos com necessidades educacionais especiais, existe no campus em funcionamento o NAPNE do que serve de apoio na construção das atividades educacionais. 
+Importante relacionar a Educação Patrimonial no contexto da área de formação em qual se insere o curso.
 
-Da mesma forma, a equipe pedagógica do campus deverá prover o suporte pedagógico aos estudantes com necessidades educacionais especiais em cumprimento ao Decreto Nº. 5.296/2004. 
+Trata-se de um processo permanente e sistemático de trabalho educacional centrado no Patrimônio Cultural como fonte primária de conhecimento e enriquecimento individual e coletivo. A partir da experiência e do contato direto com as evidências e manifestações da cultura nacional, regional e local, em seus múltiplos aspectos, sentidos e significados.
 
-Não obstante, também é tratado de maneira transversal conteúdos relacionados ao processo de inclusão social e profissional dos alunos e profissionais com necessidades especiais de maneira que é trabalhado junto aos conteúdos de gestão a necessidade da inclusão não apenas por uma obrigatoriedade legal mas por entender que cabe promover a inserção destes alunos e profissionais nas atividades que lhes cabe para a melhoria não só deles, mas, também, de todos que trabalham na organização. 
+O trabalho da Educação Patrimonial busca levar os acadêmicos a um processo ativo de conhecimento, apropriação e valorização de sua herança cultural, capacitando-os para um melhor usufruto destes bens, e propiciando a geração e a produção de novos conhecimentos, num processo contínuo de criação cultural.
 
-É importante mencionar que a inclusão destes profissionais leva aos conhecimentos de todos que com eles trabalham a percepção que determinadas necessidades especiais podem ser potencializadoras de outras habilidades que são difíceis de se obter de um profissional que julgamos não necessitar de nenhuma adequação laboral. 
+A Educação Patrimonial é um instrumento de alfabetização cultural que possibilita ao indivíduo fazer a leitura do mundo que o rodeia, levando-o à compreensão do universo sociocultural e da trajetória histórico-temporal em que está inserido. Este processo leva ao reforço da autoestima dos indivíduos e comunidades e à valorização da cultura brasileira, compreendida como múltipla e plural.
 
-## 2.3.2 Meio Ambiente e Desenvolvimento Humano 
+Todas as ações por meio das quais os povos expressam suas formas específicas de ser constituem a sua cultura e esta vai ao longo do tempo adquirindo formas e expressões diferentes.
 
-De acordo com a Lei nº 9.795 de 27 de abril de 1999 que dispõe sobre a educação ambiental, institui a Política Nacional de Educação Ambiental e dá outras providências. Em seu Art. 2º, a educação ambiental é um componente essencial e permanente da educação nacional, devendo estar presente, de forma articulada, em todos os níveis e modalidades do processo 
+A cultura é um processo eminentemente dinâmico, transmitido de geração em geração, que se aprende com os ancestrais e se cria e recria no cotidiano do presente, na solução dos pequenos e grandes problemas que cada sociedade ou indivíduo enfrentam.
 
-30 
+Neste processo dinâmico de socialização em que se aprende a fazer parte de um grupo social, o indivíduo constrói a própria identidade. Reconhecendo que todos os povos produzem cultura e que cada um tem uma forma diferente de se expressar e aceitar a diversidade cultural. Este conceito nos permite ter uma visão mais ampla do processo histórico, reconhecendo que não existem culturas mais importantes do que outras.
 
-**==> picture [471 x 55] intentionally omitted <==**
+O Brasil é um país pluricultural que deve esta característica ao conjunto de etnias que o formaram e à extensão do seu território. Estas diversidades culturais e regionais contribuem para a formação da identidade do cidadão brasileiro, incorporando-se ao processo de formação do indivíduo, e permitindo-lhe reconhecer o passado, compreender o presente e agir sobre ele.
 
-educativo, em caráter formal e não formal. 
+O Patrimônio Cultural Brasileiro não se resume aos objetos históricos e artísticos, aos monumentos representativos da memória nacional ou aos centros históricos já consagrados e protegidos pelas Instituições e Agentes Governamentais.
 
-Desta forma, o curso de Tecnologia em Gestão Comercial irá abordar estas temáticas de maneira formal por meio dos componentes curriculares: Ética e responsabilidade social e ambiental com 40 horas aula no terceiro semestre e Gestão da Sustentabilidade com 40 horas aula no quarto semestre. Não obstante, serão realizadas atividades voltadas à promoção da conscientização ambiental e o desenvolvimento humano de forma integrada às demais ações do campus e do Eixo tecnológico. 
+Existem outras formas de expressão cultural que constituem o patrimônio vivo da sociedade brasileira: artesanatos, maneiras de pescar, caçar, plantar, cultivar e colher, de utilizar plantas como alimentos e remédios, de construir moradias, a culinária, as danças e músicas, os modos de vestir e falar, os rituais e festas religiosas e populares, as relações sociais e familiares, revelam os múltiplos aspectos que pode assumir a cultura viva e presente de uma comunidade.
 
-## 2.3.3 Memória, Patrimônio Artístico e Cultural 
+Serão realizadas ações junto ao processo formativo tendo como objetivo melhorar a compreensão do patrimônio material e imaterial, produzido ao longo da formação sócio histórico local e regional. De modo que se possa valorizar e preservar a memória, a proteção dos bens culturais e artísticos produzidos pela sociedade utilizando se de situações reais históricas e contemporâneas com intuito de melhorar a compreensão dos conteúdos abordados nos
 
-Importante relacionar a Educação Patrimonial no contexto da área de formação em qual se insere o curso. 
+componentes curriculares, bem como em ações integradas aos demais cursos e ações do campus.
 
-Trata-se de um processo permanente e sistemático de trabalho educacional centrado no Patrimônio Cultural como fonte primária de conhecimento e enriquecimento individual e coletivo. A partir da experiência e do contato direto com as evidências e manifestações da cultura nacional, regional e local, em seus múltiplos aspectos, sentidos e significados. 
+## 2.3.4 Comunicação e Relações com a Comunidade
 
-O trabalho da Educação Patrimonial busca levar os acadêmicos a um processo ativo de conhecimento, apropriação e valorização de sua herança cultural, capacitando-os para um melhor usufruto destes bens, e propiciando a geração e a produção de novos conhecimentos, num processo contínuo de criação cultural. 
+A comunicação com a sociedade remete-se ao planejamento de ações de construção da identidade visual, o acesso à informação, a publicização do curso, as relações de comunicação interna e externa com a comunidade, entre outras ações. Descrever as ações do curso que poderão envolver a comunidade do entorno, comunidades tradicionais, grupos sociais organizados, entidades e outras formas de organização. Importante estabelecer a relação com a formação profissional de que trata o projeto pedagógico.
 
-A Educação Patrimonial é um instrumento de alfabetização cultural que possibilita ao indivíduo fazer a leitura do mundo que o rodeia, levando-o à compreensão do universo sociocultural e da trajetória histórico-temporal em que está inserido. Este processo leva ao reforço da autoestima dos indivíduos e comunidades e à valorização da cultura brasileira, compreendida como múltipla e plural. 
+As ações de promoção do curso e de seus profissionais diante da sociedade local e regional serão desenvolvidas seguindo orientação de um planejamento estruturado do curso em consonância com o planejamento do _campus_ e de todos os seus agentes.
 
-Todas as ações por meio das quais os povos expressam suas formas específicas de ser constituem a sua cultura e esta vai ao longo do tempo adquirindo formas e expressões diferentes. 
+O desenvolvimento de ações multidisciplinares pode auxiliar para a disseminação do curso de seus profissionais junto à comunidade interna e externa. Pois a integração sócio cultural e profissional entre acadêmicos, educadores e comunidade local pode potencializar os resultados desejados com o curso em sua área de atuação.
 
-31 
+Ações estas que poderão integrar as agendas dos órgãos locais de representatividade empresarial e social de forma que parcerias entre estas instituições possam promover uma formação profissional e cidadã consolidada e ética, sem deixar de lado as balizas de uma formação cidadã.
 
-**==> picture [471 x 55] intentionally omitted <==**
+Acreditamos que a Associação Comercial, Industrial e Agropecuária (ACIAC) bem como o Conselho de Dirigentes Lojistas (CDL) possam ser parceiros estratégicos do curso, pois deles foi que surgiu a demanda para a escolha do corrente curso e demais do Eixo Tecnológico de Gestão e Negócios.
 
-A cultura é um processo eminentemente dinâmico, transmitido de geração em geração, que se aprende com os ancestrais e se cria e recria no cotidiano do presente, na solução dos pequenos e grandes problemas que cada sociedade ou indivíduo enfrentam. 
+Desta maneira, cremos que possa ser estabelecido parcerias na para realização de eventos temáticos que promovam a formação profissional de nossos acadêmicos e a capacitação dos
 
-Neste processo dinâmico de socialização em que se aprende a fazer parte de um grupo social, o indivíduo constrói a própria identidade. Reconhecendo que todos os povos produzem cultura e que cada um tem uma forma diferente de se expressar e aceitar a diversidade cultural. Este conceito nos permite ter uma visão mais ampla do processo histórico, reconhecendo que não existem culturas mais importantes do que outras. 
+empresários e seus colaboradores. Pois estes eventos poderão ser realizados de forma aberta e integrada para que haja participação externa.
 
-O Brasil é um país pluricultural que deve esta característica ao conjunto de etnias que o formaram e à extensão do seu território. Estas diversidades culturais e regionais contribuem para a formação da identidade do cidadão brasileiro, incorporando-se ao processo de formação do indivíduo, e permitindo-lhe reconhecer o passado, compreender o presente e agir sobre ele. 
+No que tange a comunicação interna e externa do curso temos como objetivo a criação de um _website_ do curso integrado com a página do _Campus_ de forma que a comunidade possa ter acesso facilitado às ações desenvolvidas pelo Curso/Eixo. Não obstante, também, o curso já possui uma página no instagram para divulgação das atividades do curso.
 
-O Patrimônio Cultural Brasileiro não se resume aos objetos históricos e artísticos, aos monumentos representativos da memória nacional ou aos centros históricos já consagrados e protegidos pelas Instituições e Agentes Governamentais. 
+Outra possibilidade de promoção do curso é a oferta de cursos de capacitação profissional pelos alunos e professores em parceria. Cursos estes que podem integrar o pacote de projetos de extensão ofertados pelo corpo docente em conjunto com os discentes.
 
-Existem outras formas de expressão cultural que constituem o patrimônio vivo da sociedade brasileira: artesanatos, maneiras de pescar, caçar, plantar, cultivar e colher, de utilizar plantas como alimentos e remédios, de construir moradias, a culinária, as danças e músicas, os modos de vestir e falar, os rituais e festas religiosas e populares, as relações sociais e familiares, revelam os múltiplos aspectos que pode assumir a cultura viva e presente de uma comunidade. 
+## 2.4 CONCEPÇÃO DO CURSO
 
-Serão realizadas ações junto ao processo formativo tendo como objetivo melhorar a compreensão do patrimônio material e imaterial, produzido ao longo da formação sócio histórico local e regional. De modo que se possa valorizar e preservar a memória, a proteção dos bens culturais e artísticos produzidos pela sociedade utilizando se de situações reais históricas e contemporâneas com intuito de melhorar a compreensão dos conteúdos abordados nos 
+Conforme Lei n[o] 9.394, de 20 de ~~a~~ bril de 1.996 ― LDB em seu Capítulo IV Da Educação Superior em seus Art. 43 a 57 tratam das particularidades de funcionamento dos cursos superiores no território nacional. Também contamos com o Art. 3[o] , Título II ~~,~~ apresenta os princípios a partir dos quais o ensino será ministrado e o Art. 2[o] , ~~d~~ a Resolução CNE/CP n[o] ~~1~~ , de 18 de janeiro de 2021, enumera as características dos cursos de educação profissional de nível tecnológico, a saber:
 
-32 
+- Incentivar o desenvolvimento da capacidade empreendedora e da compreensão do processo tecnológico, em suas causas e efeitos;
 
-**==> picture [471 x 55] intentionally omitted <==**
+- Incentivar a produção e inovação científico-tecnológica, e suas respectivas aplicações no mundo do trabalho;
 
-componentes curriculares, bem como em ações integradas aos demais cursos e ações do campus. 
+- Desenvolver competências profissionais tecnológicas, gerais e específicas, para a gestão de processos e a produção de bens e serviços;
 
-## 2.3.4 Comunicação e Relações com a Comunidade 
+- Propiciar a compreensão e a avaliação dos impactos sociais, econômicos e ambientais resultantes da produção, gestão e incorporação de novas tecnologias;
 
-A comunicação com a sociedade remete-se ao planejamento de ações de construção da identidade visual, o acesso à informação, a publicização do curso, as relações de comunicação interna e externa com a comunidade, entre outras ações. Descrever as ações do curso que poderão envolver a comunidade do entorno, comunidades tradicionais, grupos sociais organizados, entidades e outras formas de organização. Importante estabelecer a relação com a formação profissional de que trata o projeto pedagógico. 
+- Promover a capacidade de continuar aprendendo e de acompanhar as mudanças nas condições de trabalho, bem como propiciar o prosseguimento de estudos em cursos
 
-As ações de promoção do curso e de seus profissionais diante da sociedade local e regional serão desenvolvidas seguindo orientação de um planejamento estruturado do curso em consonância com o planejamento do _campus_ e de todos os seus agentes. 
+de pós-graduação;
 
-O desenvolvimento de ações multidisciplinares pode auxiliar para a disseminação do curso de seus profissionais junto à comunidade interna e externa. Pois a integração sócio cultural e profissional entre acadêmicos, educadores e comunidade local pode potencializar os resultados desejados com o curso em sua área de atuação. 
+- Adotar a flexibilidade, a interdisciplinaridade, a contextualização e a atualização dos cursos e de seus currículos;
 
-Ações estas que poderão integrar as agendas dos órgãos locais de representatividade empresarial e social de forma que parcerias entre estas instituições possam promover uma formação profissional e cidadã consolidada e ética, sem deixar de lado as balizas de uma formação cidadã. 
+- Garantir a identidade do perfil profissional de conclusão de curso e da respectiva organização curricular.
 
-Acreditamos que a Associação Comercial, Industrial e Agropecuária (ACIAC) bem como o Conselho de Dirigentes Lojistas (CDL) possam ser parceiros estratégicos do curso, pois deles foi que surgiu a demanda para a escolha do corrente curso e demais do Eixo Tecnológico de Gestão e Negócios. 
+- Diante do exposto, os princípios que norteiam o Curso Superior de Tecnologia em Gestão Comercial ofertado no _Campus_ Assis Chateaubriand do Instituto Federal do Paraná procuram instituir uma justa medida entre as expectativas do estudante enquanto indivíduo, às demandas do mercado por profissionais qualificados e o anseio da sociedade por cidadãos éticos, comprometidos com a coletividade e empreendedores e são assim descritos:
 
-Desta maneira, cremos que possa ser estabelecido parcerias na para realização de eventos temáticos que promovam a formação profissional de nossos acadêmicos e a capacitação dos 
+- Ética permite a vivência da cidadania, possibilitando a liberdade de expressão e criação universal, sem diferenciar o sexo, a raça, o credo, os ideais políticos e a condição financeira;
 
-33 
+- A indissociabilidade entre ensino, pesquisa e extensão integra o indivíduo à sociedade, bem como o torna integrador desta mesma sociedade;
 
-**==> picture [471 x 55] intentionally omitted <==**
+- O Curso Superior de Tecnologia em Gestão Comercial deve, sempre, estar comprometido com a qualidade do ensino, o profissionalismo de seus professores, as experiências anteriores dos estudantes e com as metodologias de ensino mais adequadas;
 
-empresários e seus colaboradores. Pois estes eventos poderão ser realizados de forma aberta e integrada para que haja participação externa. 
+- O conhecimento adquirido no ambiente de ensino deve ser integrado com o conhecimento obtido fora deste ambiente estimulando, desta forma, uma maior integração com a comunidade, permitindo que o estudante integre-se na sociedade;
 
-No que tange a comunicação interna e externa do curso temos como objetivo a criação de um _website_ do curso integrado com a página do _Campus_ de forma que a comunidade possa ter acesso facilitado às ações desenvolvidas pelo Curso/Eixo. Não obstante, também, o curso já possui uma página no instagram para divulgação das atividades do curso. 
+- O egresso é constantemente estimulado a perceber a evolução tecnológica, seja por meio das disciplinas ou de projetos complementares. Além disso, o curso é concebido para permitir uma formação atualizada em consonância com os diversos mercados: internacional, nacional e regional;
 
-Outra possibilidade de promoção do curso é a oferta de cursos de capacitação profissional pelos alunos e professores em parceria. Cursos estes que podem integrar o pacote de projetos de extensão ofertados pelo corpo docente em conjunto com os discentes. 
+-
 
-## 2.4 CONCEPÇÃO DO CURSO 
+- A educação baseia-se em construção do conhecimento e do saber a partir de
 
-Conforme Lei n[o] 9.394, de 20 de ~~a~~ bril de 1.996 ― LDB em seu Capítulo IV Da Educação Superior em seus Art. 43 a 57 tratam das particularidades de funcionamento dos cursos superiores no território nacional. Também contamos com o Art. 3[o] , Título II ~~,~~ apresenta os princípios a partir dos quais o ensino será ministrado e o Art. 2[o] , ~~d~~ a Resolução CNE/CP n[o] ~~1~~ , de 18 de janeiro de 2021, enumera as características dos cursos de educação profissional de nível tecnológico, a saber: 
+experiências prévias e estimuladas;
 
-- Incentivar o desenvolvimento da capacidade empreendedora e da compreensão do processo tecnológico, em suas causas e efeitos; 
+- Direcionar e estimular a interdisciplinaridade permite a formação de um profissional com saberes diversos, dando ao mesmo uma visão ampla de seu campo de atuação;
 
-- Incentivar a produção e inovação científico-tecnológica, e suas respectivas aplicações no mundo do trabalho; 
+- O projeto do curso é construído dando ao estudante a possibilidade de integrar teoria e prática, que objetiva um ensino reflexivo direcionado a solucionar problemas e sugerir mudanças.
 
-- Desenvolver competências profissionais tecnológicas, gerais e específicas, para a gestão de processos e a produção de bens e serviços; 
+## 2.5 PERFIL DO EGRESSO
 
-- Propiciar a compreensão e a avaliação dos impactos sociais, econômicos e ambientais resultantes da produção, gestão e incorporação de novas tecnologias; 
+De forma geral, o egresso do Curso Superior de Tecnologia em Gestão Comercial do IFPR - _Campus_ Assis Chateaubriand, com base no Catálogo Nacional dos Cursos Superiores de Tecnologia (MEC/SETEC/2016) deverá ser capaz de:
 
-- Promover a capacidade de continuar aprendendo e de acompanhar as mudanças nas condições de trabalho, bem como propiciar o prosseguimento de estudos em cursos 
+   - Articular e decidir sobre as vendas em negócios diversos;
 
-34 
+   - Realizar estudos de viabilidade econômica, financeira e tributária;
 
-**==> picture [471 x 55] intentionally omitted <==**
+   - Elaborar análises comerciais considerando as demandas e oportunidades do mercado;
 
-de pós-graduação; 
+   - Planejar pesquisas de mercado;
 
-- Adotar a flexibilidade, a interdisciplinaridade, a contextualização e a atualização dos cursos e de seus currículos; 
+   - Desenvolver relacionamentos pós-venda com clientes;
 
-- Garantir a identidade do perfil profissional de conclusão de curso e da respectiva organização curricular. 
+   - Gerenciar sistemas de informações comerciais;
 
-- Diante do exposto, os princípios que norteiam o Curso Superior de Tecnologia em Gestão Comercial ofertado no _Campus_ Assis Chateaubriand do Instituto Federal do Paraná procuram instituir uma justa medida entre as expectativas do estudante enquanto indivíduo, às demandas do mercado por profissionais qualificados e o anseio da sociedade por cidadãos éticos, comprometidos com a coletividade e empreendedores e são assim descritos: 
+- Definir métodos de formação de preços, considerando aspectos tributários, de custos, da
 
-- Ética permite a vivência da cidadania, possibilitando a liberdade de expressão e criação universal, sem diferenciar o sexo, a raça, o credo, os ideais políticos e a condição financeira; 
+- concorrência e do valor para o cliente;
 
-- A indissociabilidade entre ensino, pesquisa e extensão integra o indivíduo à sociedade, bem como o torna integrador desta mesma sociedade; 
+   - Gerenciar a área comercial de uma organização;
 
-- O Curso Superior de Tecnologia em Gestão Comercial deve, sempre, estar comprometido com a qualidade do ensino, o profissionalismo de seus professores, as experiências anteriores dos estudantes e com as metodologias de ensino mais adequadas; 
+   - Avaliar e emitir parecer técnico em sua área de formação.
 
-- O conhecimento adquirido no ambiente de ensino deve ser integrado com o conhecimento obtido fora deste ambiente estimulando, desta forma, uma maior integração com a comunidade, permitindo que o estudante integre-se na sociedade; 
+2.5.1 Áreas de Atuação do Egresso
 
-- O egresso é constantemente estimulado a perceber a evolução tecnológica, seja por meio das disciplinas ou de projetos complementares. Além disso, o curso é concebido para permitir uma formação atualizada em consonância com os diversos mercados: internacional, nacional e regional; 
+O egresso do Curso Superior de Tecnologia em Gestão Comercial estará apto a
 
-- 
+desenvolver atividades em empresas públicas e privadas que atuem direta ou indiretamente na área Comercial, industrial e da prestação de serviços.
 
-- A educação baseia-se em construção do conhecimento e do saber a partir de 
+No mundo do trabalho o egresso poderá ainda elaborar e participar de pesquisas e projetos patrocinados e apoiados pelos diversos órgãos de fomento, elaborar relatórios, pareceres, além de elaborar projetos de consultoria, bem como prestar serviços de consultorias na área de Comércio.
 
-35 
+O egresso deverá, ainda, ter condições de assumir o papel de agente transformador do mundo do trabalho na sociedade em que está inserido, sendo capaz de provocar mudanças.
 
-**==> picture [471 x 55] intentionally omitted <==**
+Ainda, de acordo com o Catálogo Nacional de Cursos Superiores de Tecnologia, o Tecnólogo em Gestão Comercial, poderá atuar em empresas de beneficiamento de bens de consumo e industriais; empresas de comercialização de insumos; empresas de planejamento, desenvolvimento de projetos, assessoramento técnico e consultoria; empresas prestadoras de serviços de consumo final; empresas varejistas, atacadistas e de representação comercial; Institutos e centros de pesquisa; instituições de ensino, mediante formação requerida pela legislação vigente.
 
-experiências prévias e estimuladas; 
+E, conforme a Resolução Normativa CFA nº 374/2009 em seu Art. 2º inciso b) O Curso Superior de Tecnologia em Gestão Comercial: Denominações existentes com possibilidades de convergência - Comércio e Serviços; Gestão de Comércio Atacadista e Distribuidor; Gestão de Comércio e Serviços; Gestão de Comércio Eletrônico; Gestão de Comércio Varejista; Gestão de Concessionárias e Franquias; Gestão de Marketing de Varejo; Gestão de Negócios em Comércio e Serviços; Gestão de Negócios no Varejo; Gestão de Representações Comerciais; Gestão de Supermercados; Gestão de Varejo; Gestão do Varejo de Moda; Gestão Empresarial; Gestão Empresarial ênfase em Marketing e Vendas; Gestão Empresarial para o Varejo de Material de Construção; Gestão Estratégica Comercial; Marketing de Varejo, Produto e Serviço; Representação Comercial; Vendas de Varejo; Vendas e Estratégia Comercial; Processos Gerenciais em Negócios de Alimentação. (Redação dada à alínea pela Resolução Normativa CFA nº 396, de 08.12.2010, DOU 13.12.2010).
 
-- Direcionar e estimular a interdisciplinaridade permite a formação de um profissional com saberes diversos, dando ao mesmo uma visão ampla de seu campo de atuação; 
+O acompanhamento do egresso é uma ferramenta importante que possui vários objetivos:
 
-- O projeto do curso é construído dando ao estudante a possibilidade de integrar teoria e prática, que objetiva um ensino reflexivo direcionado a solucionar problemas e sugerir mudanças. 
+- verificar a empregabilidade;
 
-## 2.5 PERFIL DO EGRESSO 
+- investigar a atuação dos estudantes recém-formados no mundo do trabalho, se estão exercendo atividades na sua área de graduação;
 
-De forma geral, o egresso do Curso Superior de Tecnologia em Gestão Comercial do IFPR - _Campus_ Assis Chateaubriand, com base no Catálogo Nacional dos Cursos Superiores de Tecnologia (MEC/SETEC/2016) deverá ser capaz de: 
+- levantar dados em relação à formação continuada;
 
-   - Articular e decidir sobre as vendas em negócios diversos; 
+- obter informações sobre a opinião dos egressos acerca da qualidade do curso de Tecnologia em Gestão Comercial;
 
-   - Realizar estudos de viabilidade econômica, financeira e tributária; 
+- possibilitar o conhecimento das dificuldades do egresso para a integração no mercado trabalho;
 
-   - Elaborar análises comerciais considerando as demandas e oportunidades do mercado; 
+- manter a comunicação entre os ex-alunos e a Instituição.
 
-   - Planejar pesquisas de mercado; 
+Durante a realização do curso, será mantido um banco de informações, com os dados dos alunos, tais como nome, endereço, telefone e e-mail.
 
-   - Desenvolver relacionamentos pós-venda com clientes; 
+Será criada uma mala direta dos egressos por meio da qual ocorrerá a comunicação IFPR/aluno egresso. Dois anos após a formação será aplicado questionário aos ex-alunos, buscando avaliar a sua trajetória profissional, mantendo a comunicação aberta entre Instituição e sociedade e mantendo-o informado das diversas atividades que os mesmos poderão participar.
 
-   - Gerenciar sistemas de informações comerciais; 
+O questionário será aferido a fim de obter as seguintes informações:
 
-- Definir métodos de formação de preços, considerando aspectos tributários, de custos, da 
+1. Sexo e estado civil;
 
-- concorrência e do valor para o cliente; 
+2. Graduação, habilitação e Pós-graduação;
 
-   - Gerenciar a área comercial de uma organização; 
+3. Situação atual dos egressos e dificuldades de ingressar no mundo do trabalho;
 
-   - Avaliar e emitir parecer técnico em sua área de formação. 
+4. Avaliação do ex-aluno acerca do curso realizado, incluindo sugestões de melhoria;
 
-2.5.1 Áreas de Atuação do Egresso 
+5. Avaliação do corpo docente;
 
-O egresso do Curso Superior de Tecnologia em Gestão Comercial estará apto a 
+6. Cidade na qual desenvolvem a atividade profissional, a fim de saber se tiveram que se afastar muito do local de formação para ingressarem no campo profissional;
 
-36 
+7. Auto avaliação dos egressos em relação ao seu comprometimento com o curso e com a
 
-**==> picture [471 x 55] intentionally omitted <==**
+atuação profissional.
 
-desenvolver atividades em empresas públicas e privadas que atuem direta ou indiretamente na área Comercial, industrial e da prestação de serviços. 
+Estes dados serão compilados a cada dois anos e publicados no site da Instituição. Tais resultados contribuirão para avaliação do curso, bem como para conhecimento da demanda por profissionais da área e possíveis melhorias na qualidade do curso.
 
-No mundo do trabalho o egresso poderá ainda elaborar e participar de pesquisas e projetos patrocinados e apoiados pelos diversos órgãos de fomento, elaborar relatórios, pareceres, além de elaborar projetos de consultoria, bem como prestar serviços de consultorias na área de Comércio. 
+Outras ações referentes ao acompanhamento dos egressos incluem:
 
-O egresso deverá, ainda, ter condições de assumir o papel de agente transformador do mundo do trabalho na sociedade em que está inserido, sendo capaz de provocar mudanças. 
+- Manter os dados cadastrais dos egressos atualizados;
 
-Ainda, de acordo com o Catálogo Nacional de Cursos Superiores de Tecnologia, o Tecnólogo em Gestão Comercial, poderá atuar em empresas de beneficiamento de bens de consumo e industriais; empresas de comercialização de insumos; empresas de planejamento, desenvolvimento de projetos, assessoramento técnico e consultoria; empresas prestadoras de serviços de consumo final; empresas varejistas, atacadistas e de representação comercial; Institutos e centros de pesquisa; instituições de ensino, mediante formação requerida pela legislação vigente. 
+- Promover encontros, cursos de extensão, atualização e palestras que atendam as necessidades desses alunos frente às contínuas inovações do conhecimento das áreas a fim de atualizar e/ou complementar os saberes adquiridos ao longo do curso finalizado, contribuindo para a inserção no mundo do trabalho e, em consequência, obter sucesso profissional e pessoal;
 
-E, conforme a Resolução Normativa CFA nº 374/2009 em seu Art. 2º inciso b) O Curso Superior de Tecnologia em Gestão Comercial: Denominações existentes com possibilidades de convergência - Comércio e Serviços; Gestão de Comércio Atacadista e Distribuidor; Gestão de Comércio e Serviços; Gestão de Comércio Eletrônico; Gestão de Comércio Varejista; Gestão de Concessionárias e Franquias; Gestão de Marketing de Varejo; Gestão de Negócios em Comércio e Serviços; Gestão de Negócios no Varejo; Gestão de Representações Comerciais; Gestão de Supermercados; Gestão de Varejo; Gestão do Varejo de Moda; Gestão Empresarial; Gestão Empresarial ênfase em Marketing e Vendas; Gestão Empresarial para o Varejo de Material de Construção; Gestão Estratégica Comercial; Marketing de Varejo, Produto e Serviço; Representação Comercial; Vendas de Varejo; Vendas e Estratégia Comercial; Processos Gerenciais em Negócios de Alimentação. (Redação dada à alínea pela Resolução Normativa CFA nº 396, de 08.12.2010, DOU 13.12.2010). 
+- Incentivar e apoiar o reencontro dos alunos egressos, mantendo-se o vínculo que possibilitará o apoio ao desenvolvimento de sua vida profissional.
 
-37 
+## 2.5.2 Acompanhamento de Egressos
 
-**==> picture [471 x 55] intentionally omitted <==**
+Sabe-se que em sua proposta original os Institutos Federais objetivam a formação crítica e cidadã, a atuação coletiva e o trabalho compartilhado; são espaços para construção e democratização do conhecimento e para o desenvolvimento local e regional, buscando promover o conhecimento de forma integrada e verticalizada.
 
-O acompanhamento do egresso é uma ferramenta importante que possui vários objetivos: 
+Diante da característica social dos objetivos educacionais estabelecidos para a Rede Federal de Educação Tecnológica, cabe a cada Instituto investigar e acompanhar os estudantes egressos a fim de avaliar a efetividade do trabalho realizado.
 
-- verificar a empregabilidade; 
+Assim sendo, o acompanhamento dos egressos do Curso de Tecnologia em Gestão Comercial será realizado a partir de um acompanhamento permanente para que se possa identificar os caminhos trilhados no trabalho e sua inserção social.
 
-- investigar a atuação dos estudantes recém-formados no mundo do trabalho, se estão exercendo atividades na sua área de graduação; 
+Sabe-se que os espaços sociais, nos quais as relações se efetivam, são sempre dinâmicos e, portanto, estão em constantes transformações. Isso indica diversos desafios ao processo educacional e uma estratégia para o enfrentamento desses desafios é o acompanhamento dos egressos, pois essa ação contribuirá no acompanhamento das transformações sociais.
 
-- levantar dados em relação à formação continuada; 
+A proposta de acompanhamento pretende estabelecer parâmetros dentro da perspectiva de uma avaliação contínua da formação ofertada, analisando o currículo, o perfil profissional dos egressos e sua trajetória profissional. Assim, o acompanhamento dos egressos visa a:
 
-- obter informações sobre a opinião dos egressos acerca da qualidade do curso de Tecnologia em Gestão Comercial; 
+- manter registros atualizados de egressos;
 
-- possibilitar o conhecimento das dificuldades do egresso para a integração no mercado trabalho; 
+- verificar a empregabilidade, entendida como o conjunto de características do trabalhador, que permite sua inserção (e permanência) no mundo do trabalho;
 
-- manter a comunicação entre os ex-alunos e a Instituição. 
+- investigar a atuação dos estudantes recém-formados no mercado de trabalho, se estão exercendo atividades na sua área de formação;
 
-Durante a realização do curso, será mantido um banco de informações, com os dados dos alunos, tais como nome, endereço, telefone e e-mail. 
+- levantar dados em relação à continuidade de estudos verificando se os egressos permaneceram na área realizada no IFPR;
 
-Será criada uma mala direta dos egressos por meio da qual ocorrerá a comunicação IFPR/aluno egresso. Dois anos após a formação será aplicado questionário aos ex-alunos, buscando avaliar a sua trajetória profissional, mantendo a comunicação aberta entre Instituição e sociedade e mantendo-o informado das diversas atividades que os mesmos poderão participar. 
+- obter informações sobre a opinião dos egressos acerca da qualidade e adequação do curso de Tecnologia em Gestão Comercial, avaliando, a partir do distanciamento, como esse egresso percebe o IFPR;
 
-O questionário será aferido a fim de obter as seguintes informações: 
+- possibilitar o conhecimento das dificuldades do egresso para a integração no mercado trabalho;
 
-1. Sexo e estado civil; 
+- promover a realização de atividades extracurriculares (estágios e/ou participação em projetos de iniciação à pesquisa ou extensão), de cunho técnico-profissional, como complemento à sua formação e palestras direcionadas a profissionais formados pela Instituição;
 
-2. Graduação, habilitação e Pós-graduação; 
+- valorizar egressos que se destacam nas atividades profissionais;
 
-3. Situação atual dos egressos e dificuldades de ingressar no mundo do trabalho; 
+- identificar junto às empresas seus critérios de seleção e contratação dando ênfase às capacitações dos profissionais da área buscados pela mesma;
 
-4. Avaliação do ex-aluno acerca do curso realizado, incluindo sugestões de melhoria; 
+- promover a integração entre os ex-alunos e a Instituição.
 
-5. Avaliação do corpo docente; 
+Para isso, será estruturado um sistema de acompanhamento de egressos que inclui coleta
 
-6. Cidade na qual desenvolvem a atividade profissional, a fim de saber se tiveram que se afastar muito do local de formação para ingressarem no campo profissional; 
+e sistematização das informações pela Coordenação do Curso; realização de projetos de qualificação profissional mediante cursos, seminários, jornadas e outros eventos; construção de rede de parcerias com empresas e organismos governamentais e não governamentais em que atuem egressos do Curso de Tecnologia em Gestão Comercial; e projetos de pesquisa e extensão que articulem os setores produtivos com os processos de formação profissional desenvolvidos no IFPR.
 
-7. Auto avaliação dos egressos em relação ao seu comprometimento com o curso e com a 
+## 2.5.3 Registro Profissional
 
-38 
+O Registro profissional para egressos do Curso Superior de Tecnologia em Gestão Comercial poderá ser realizado junto ao Conselho Regional de Administração - CRA, conforme previsto na Lei nº 4.769/65 dispõe sobre o exercício da profissão de Administrador, profissão está regulamentada, que pode ser desempenhada por bacharéis ou tecnólogos em áreas específicas de administração, como é o caso do presente projeto.
 
-**==> picture [471 x 55] intentionally omitted <==**
+A Resolução Normativa CFA nº 504/2017 disponibiliza a lista de cursos superiores de tecnologia, no qual o CST em Gestão Comercial encontra-se presente.
 
-atuação profissional. 
+A coordenação e colegiado do curso irão incentivar os egressos a realizarem seu registro no Conselho Regional de Administração – CRA.
 
-Estes dados serão compilados a cada dois anos e publicados no site da Instituição. Tais resultados contribuirão para avaliação do curso, bem como para conhecimento da demanda por profissionais da área e possíveis melhorias na qualidade do curso. 
+## **3. METODOLOGIA E ESTRATÉGIAS PEDAGÓGICAS**
 
-Outras ações referentes ao acompanhamento dos egressos incluem: 
+O projeto pedagógico do Curso Superior de Tecnologia em Gestão Comercial visa proporcionar ao estudante o acesso unitário e indissociável ao conhecimento prático e teórico em gestão de atividades comerciais e correlatas.
 
-- Manter os dados cadastrais dos egressos atualizados; 
+A indissociabilidade entre estes elementos faz-se necessário visto que, na atualidade, cada vez mais, os profissionais da gestão contribuem na criação e desenvolvimento de organizações públicas, privadas e de terceiro setor que são capazes de fornecer soluções à sociedade, ao mesmo tempo em que geram emprego e renda.
 
-- Promover encontros, cursos de extensão, atualização e palestras que atendam as necessidades desses alunos frente às contínuas inovações do conhecimento das áreas a fim de atualizar e/ou complementar os saberes adquiridos ao longo do curso finalizado, contribuindo para a inserção no mundo do trabalho e, em consequência, obter sucesso profissional e pessoal; 
+As metodologias e estratégias utilizadas no Curso Superior de Tecnologia em Gestão Comercial envolverá:
 
-- Incentivar e apoiar o reencontro dos alunos egressos, mantendo-se o vínculo que possibilitará o apoio ao desenvolvimento de sua vida profissional. 
+- Aulas expositivas e dialogadas, com uso dos recursos audiovisuais adequados, para apresentação das teorias necessárias ao exercício profissional;
 
-## 2.5.2 Acompanhamento de Egressos 
+- Pesquisas de caráter bibliográfico, para enriquecimento e subsídio do conjunto teórico necessário à formação do aluno;
 
-Sabe-se que em sua proposta original os Institutos Federais objetivam a formação crítica e cidadã, a atuação coletiva e o trabalho compartilhado; são espaços para construção e democratização do conhecimento e para o desenvolvimento local e regional, buscando promover o conhecimento de forma integrada e verticalizada. 
+- Aulas práticas em disciplinas de caráter teórico-prático, tanto para consolidação das teorias apresentadas, como para o estímulo à capacidade de experimentação e observação do aluno;
 
-Diante da característica social dos objetivos educacionais estabelecidos para a Rede Federal de Educação Tecnológica, cabe a cada Instituto investigar e acompanhar os estudantes egressos a fim de avaliar a efetividade do trabalho realizado. 
+- Estudo de casos e exibição de filmes, com vistas ao desenvolvimento do poder de análise do aluno, bem como de sua capacidade de contextualização, espírito crítico e aplicação prática dos conteúdos apresentados;
 
-Assim sendo, o acompanhamento dos egressos do Curso de Tecnologia em Gestão Comercial será realizado a partir de um acompanhamento permanente para que se possa identificar os caminhos trilhados no trabalho e sua inserção social. 
+- Estudos dirigidos para facilitação da aprendizagem;
 
-39 
+- Dinâmicas de grupo e jogos de empresa, para simular, de modo lúdico, desafios a serem enfrentados no ambiente empresarial;
 
-**==> picture [471 x 55] intentionally omitted <==**
+- Pesquisas e produção de artigos científicos que estimulem o aluno a ser mais que um reprodutor de conhecimentos, provocando seu espírito investigativo (iniciação científica);
 
-Sabe-se que os espaços sociais, nos quais as relações se efetivam, são sempre dinâmicos e, portanto, estão em constantes transformações. Isso indica diversos desafios ao processo educacional e uma estratégia para o enfrentamento desses desafios é o acompanhamento dos egressos, pois essa ação contribuirá no acompanhamento das transformações sociais. 
+- Participação, como ouvinte e/ou organizador, em eventos, feiras, congressos, seminários, painéis, debates, dentre outras atividades, que estimulem a capacidade de planejamento, organização, direção e controle por parte do aluno, bem como sua competência de expressão oral, não verbal e escrita;
 
-A proposta de acompanhamento pretende estabelecer parâmetros dentro da perspectiva de uma avaliação contínua da formação ofertada, analisando o currículo, o perfil profissional dos egressos e sua trajetória profissional. Assim, o acompanhamento dos egressos visa a: 
+- Atividades voluntárias de caráter solidário, junto a Organizações NãoGovernamentais, que possibilitem tanto a aplicação prática de conteúdos apresentados no curso, como o exercício da responsabilidade socioambiental;
 
-- manter registros atualizados de egressos; 
+- Visitas técnicas que aproximem o aluno da realidade prática e profissional;
 
-- verificar a empregabilidade, entendida como o conjunto de características do trabalhador, que permite sua inserção (e permanência) no mundo do trabalho; 
+- Avaliações de caráter prático, que colaborem com o processo de ensino aprendizagem e indiquem necessidades de ajustes no processo;
 
-- investigar a atuação dos estudantes recém-formados no mercado de trabalho, se estão exercendo atividades na sua área de formação; 
+- Atividades complementares, que enriqueçam a formação e acrescente conhecimentos, habilidades e atitudes necessárias à formação do aluno;
 
-- levantar dados em relação à continuidade de estudos verificando se os egressos permaneceram na área realizada no IFPR; 
+- Quaisquer outras atividades que viabilizem o alcance dos objetivos do curso em consonância com os princípios metodológicos consonância com os princípios metodológicos da instituição.
 
-- obter informações sobre a opinião dos egressos acerca da qualidade e adequação do curso de Tecnologia em Gestão Comercial, avaliando, a partir do distanciamento, como esse egresso percebe o IFPR; 
+Tais metodologias e estratégias deverão sempre ser implementadas, de modo a ensejar ao aluno o despertar para outras realidades possíveis, além de seu contexto atual, conscientizá-lo de seu potencial, enquanto elemento transformador da realidade na qual está inserido e evidenciar que sua imagem profissional começa a ser formada desde sua vivência em sala de aula e não somente após a conclusão do curso.
 
-- possibilitar o conhecimento das dificuldades do egresso para a integração no mercado trabalho; 
+Por fim, é importante destacar que todo o processo de ensino-aprendizagem inerente ao Curso Superior de Tecnologia em Gestão Comercial deve ser permeado pela constante atualização e discussão em sala de aula dos temas emergentes expressos em cada componente curricular, com vistas a evitar a obsolescência do curso ante a dinâmica dos mercados e à necessidade de constante atualização do perfil dos profissionais de gestão na Sociedade Pós-Moderna.
 
-- promover a realização de atividades extracurriculares (estágios e/ou participação em projetos de iniciação à pesquisa ou extensão), de cunho técnico-profissional, como complemento à sua formação e palestras direcionadas a profissionais formados pela Instituição; 
+## 3.1 RELAÇÃO ENTRE ENSINO, PESQUISA , EXTENSÃO E INOVAÇÃO
 
-- valorizar egressos que se destacam nas atividades profissionais; 
+O curso Superior de Tecnologia em Gestão Comercial do _Campus_ Assis Chateaubriand pretende a articulação entre ensino, pesquisa, extensão e inovação contemplando em sua matriz curricular o desenvolvimento de atitudes e ações empreendedoras e inovadoras, tendo como foco as vivências da aprendizagem para a capacitação e para a inserção no mundo do trabalho.
 
-- identificar junto às empresas seus critérios de seleção e contratação dando ênfase às capacitações dos profissionais da área buscados pela mesma; 
+A Resolução nº 49/2019 define a extensão como um processo educativo, cultural, político, social e inclusivo, científico e tecnológico que promove, de forma indissociável ao ensino e à
 
-- promover a integração entre os ex-alunos e a Instituição. 
+pesquisa a interação entre o IFPR e a sociedade.
 
-40 
+Indo ao encontro desta ideia, Martins (2011) aborda a indissociabilidade entre ensino, pesquisa e extensão à luz de um estudo realizado sobre a construção do conhecimento nas instituições de Ensino Superior, afirmando que, após a promulgação da nova Lei de Diretrizes e Bases da Educação Nacional (LDBN), houve um movimento de revisão do processo ensinoaprendizagem por parte dos educadores, que apregoam que as aprendizagens deveriam associar-se às ações dos estudantes tanto na realidade experimental cotidiana quanto na realidade referente ao futuro exercício profissional.
 
-**==> picture [471 x 55] intentionally omitted <==**
+As atividades pedagógicas serão organizadas por meio de:
 
-Para isso, será estruturado um sistema de acompanhamento de egressos que inclui coleta 
+- elaboração e execução de projetos interdisciplinares para integrar as áreas de conhecimento com a apresentação de resultados práticos e objetivos construídos coletivamente;
 
-e sistematização das informações pela Coordenação do Curso; realização de projetos de qualificação profissional mediante cursos, seminários, jornadas e outros eventos; construção de rede de parcerias com empresas e organismos governamentais e não governamentais em que atuem egressos do Curso de Tecnologia em Gestão Comercial; e projetos de pesquisa e extensão que articulem os setores produtivos com os processos de formação profissional desenvolvidos no IFPR. 
+- implementação sistemática, permanente e/ou eventual de cursos de extensão, seminários, fóruns, palestras, semanas de curso e outros que articulem os currículos a temas de relevância social, local e/ou regional potencializando os recursos materiais, físicos e humanos disponíveis;
 
-## 2.5.3 Registro Profissional 
+- organização de estudos que contemplem conhecimentos relevantes e capazes de responder demandas pontuais para a comunidade interna e externa;
 
-O Registro profissional para egressos do Curso Superior de Tecnologia em Gestão Comercial poderá ser realizado junto ao Conselho Regional de Administração - CRA, conforme previsto na Lei nº 4.769/65 dispõe sobre o exercício da profissão de Administrador, profissão está regulamentada, que pode ser desempenhada por bacharéis ou tecnólogos em áreas específicas de administração, como é o caso do presente projeto. 
+- previsão de espaços para reflexão e construção de ações coletivas, que atendam a demandas específicas de áreas, cursos, campus e instituição, tais como fóruns, debates, grupos de estudo e similares;
 
-A Resolução Normativa CFA nº 504/2017 disponibiliza a lista de cursos superiores de tecnologia, no qual o CST em Gestão Comercial encontra-se presente. 
+- oferta de intercâmbio entre estudantes de diferentes campi, institutos e instituições educacionais considerando a equivalência de estudos.
 
-A coordenação e colegiado do curso irão incentivar os egressos a realizarem seu registro no Conselho Regional de Administração – CRA. 
+As práticas pedagógicas no âmbito do ensino serão realizadas com a intenção de oportunizar práticas investigativas no contexto social por meio de eventos, projetos de iniciação científica e demais atividades a fim de estimular a pesquisa, extensão e a inovação.
 
-## **3. METODOLOGIA E ESTRATÉGIAS PEDAGÓGICAS** 
+Será promovido pelo IFPR, anualmente, semanas de Curso, no qual serão tratados temas variados, relacionados à gestão organizacional, áreas de atuação profissional, tecnologias na área de gestão, entre outros.
 
-O projeto pedagógico do Curso Superior de Tecnologia em Gestão Comercial visa proporcionar ao estudante o acesso unitário e indissociável ao conhecimento prático e teórico em gestão de atividades comerciais e correlatas. 
+Eventualmente serão ofertados aos estudantes cursos de extensão, palestras e seminários que possam contribuir para uma formação ampla e integrada às diversas áreas de conhecimento.
 
-A indissociabilidade entre estes elementos faz-se necessário visto que, na atualidade, cada vez mais, os profissionais da gestão contribuem na criação e desenvolvimento de organizações públicas, privadas e de terceiro setor que são capazes de fornecer soluções à sociedade, ao mesmo tempo em que geram emprego e renda. 
+Contudo, o IFPR possui os Núcleos de Arte e Cultura (NACs), conforme estabelece a Resolução nº 60/2017, que tem o papel institucional de fomentar a formação, a difusão e a articulação da produção artístico-cultural, contribuindo para a política cultural da instituição além da preservação da memória e patrimônio cultural indo ao encontro de algumas atividades de extensão realizadas pelo o curso.
 
-41 
+## 3.2 TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO NO PROCESSO DE ENSINO-APRENDIZAGEM
 
-**==> picture [471 x 55] intentionally omitted <==**
+O desenvolvimento acelerado das Tecnologias Digitais de Informação e Comunicação (TIC's) criaram formas surpreendentes de armazenamento, recuperação e disseminação do conhecimento. Esse novo modo de sistematização do conhecimento produz rápidas alterações no cenário educacional, de magnitudes ainda pouco conhecidas, que necessitam ser analisadas e discutidas. Entretanto, isso requer reflexão sobre os conceitos das práticas educativas e de tecnologia, entendidos integrados na construção do conhecimento, na democratização do saber e, por conseguinte, no desenvolvimento da cidadania.
 
-As metodologias e estratégias utilizadas no Curso Superior de Tecnologia em Gestão Comercial envolverá: 
+As TDICs possibilitam sublevar os processos e metodologias de aprendizagem, pois criam chances de reformular as relações entre alunos e professores e de rever a relação da universidade como meio social, ao diversificar os espaços de construção do conhecimento.
 
-- Aulas expositivas e dialogadas, com uso dos recursos audiovisuais adequados, para apresentação das teorias necessárias ao exercício profissional; 
+Contudo, a opção crítica pela utilização da tecnologia, trata-se de um movimento de mudança paradigmática que é permeada por questões que exigem um processo de investigação e reflexão aprofundado. Assim, os docentes necessitam agir de maneira reflexiva para não
 
-- Pesquisas de caráter bibliográfico, para enriquecimento e subsídio do conjunto teórico necessário à formação do aluno; 
+adotarem recursos de forma acrítica, descontextualizada dos meios e da repercussão social, econômica, política e cultural no qual estão inseridos.
 
-- Aulas práticas em disciplinas de caráter teórico-prático, tanto para consolidação das teorias apresentadas, como para o estímulo à capacidade de experimentação e observação do aluno; 
+No curso superior de tecnologia em Gestão Comercial a utilização de TIC 's se dará de acordo com a didática de cada professor do curso. Será incentivado o uso dos recursos disponíveis no câmpus Assis Chateaubriand, mesmo não havendo a previsão do uso de Ambiente Virtual de Aprendizagem, as TICs servirão de apoio no processo de ensino e aprendizagem.
 
-- Estudo de casos e exibição de filmes, com vistas ao desenvolvimento do poder de análise do aluno, bem como de sua capacidade de contextualização, espírito crítico e aplicação prática dos conteúdos apresentados; 
+## 3.2.1 Educação Inclusiva
 
-- Estudos dirigidos para facilitação da aprendizagem; 
+Além das questões estruturais do _campu_ s Assis Chateaubriand, que atendem atualmente aos alunos com necessidades educacionais especiais, o Napne do _Campus_ Assis servirá de apoio na construção das atividades educacionais.
 
-- Dinâmicas de grupo e jogos de empresa, para simular, de modo lúdico, desafios a serem enfrentados no ambiente empresarial; 
+Da mesma forma, a equipe pedagógica do _campus_ deverá prover o suporte pedagógico aos estudantes com necessidades educacionais especiais em cumprimento ao Decreto Nº. 5.296/2004 Decreto-Lei nº. 1.044/69, que dispõe sobre tratamento excepcional para os alunos portadores das afecções; a Lei nº. 6.202/75, que atribui à estudante em estado de gestação o regime de exercícios domiciliares; a Lei 10.421/2002 (LEI ORDINÁRIA), que estende à mãe adotiva o direito à licença maternidade e ao salário-maternidade, alterando a Consolidação das Leis do Trabalho; a Resolução 54/2011 do CONSUP/IFPR , que dispõe sobre a Organização Didático Pedagógica da Educação Profissional Técnica de Nível Médio e Formação Inicial e Continuada de Trabalhadores no âmbito do Instituto Federal do Paraná - IFPR; e a Resolução 55/2011 do CONSUP/IFPR , que dispõe sobre a Organização Didático Pedagógica da Educação Superior no âmbito do Instituto Federal do Paraná - IFPR
 
-- Pesquisas e produção de artigos científicos que estimulem o aluno a ser mais que um reprodutor de conhecimentos, provocando seu espírito investigativo (iniciação científica); 
+## 3.2.2. Integração com a Pós-Graduação
 
-- Participação, como ouvinte e/ou organizador, em eventos, feiras, congressos, seminários, painéis, debates, dentre outras atividades, que estimulem a capacidade de planejamento, organização, direção e controle por parte do aluno, bem como sua competência de expressão oral, não verbal e escrita; 
+O curso superior de Tecnologia em Gestão Comercial deverá proporcionar conhecimentos que subsidiem a verticalização da formação do egresso.
 
-- Atividades voluntárias de caráter solidário, junto a Organizações NãoGovernamentais, que possibilitem tanto a aplicação prática de conteúdos apresentados no curso, como o exercício da responsabilidade socioambiental; 
+O _Campus_ Assis Chateaubriand possui curso de Especialização em Gestão Corporativa e Sustentabilidade e previsão junto ao PDI 2019/2023 da abertura de demais cursos para este Eixo Tecnológico, de forma que deverá haver ampla divulgação entre os egressos sobre os processos seletivos dos cursos de pós-graduação.
 
-- Visitas técnicas que aproximem o aluno da realidade prática e profissional; 
+## **4. ORGANIZAÇÃO CURRICULAR**
 
-42 
+A organização curricular do curso Superior de Tecnologia em Gestão Comercial está amparada nas diretrizes curriculares nacionais para a educação profissional de nível superior, além das determinações do Catálogo Nacional de Cursos do Ministério de Educação e Cultura.
 
-**==> picture [471 x 55] intentionally omitted <==**
+Os pressupostos pedagógicos do Curso Superior de Tecnologia em Gestão Comercial, do eixo Tecnológico Gestão e Negócios, compreendem os conceitos e as metodologias propostas na organização do curso e estas visam promover a forma que os docentes conduzirão o processo do ensino/aprendizagem.
 
-- Avaliações de caráter prático, que colaborem com o processo de ensino aprendizagem e indiquem necessidades de ajustes no processo; 
+O Curso Superior de Tecnologia em Gestão Comercial procura construir uma organização curricular pautada nos princípios básicos do currículo Integrado, tendo como principais eixos estruturantes a ciência, a cultura, o trabalho e a tecnologia, por meio da integração das dimensões fundamentais da vida que estruturam a prática social do egresso.
 
-- Atividades complementares, que enriqueçam a formação e acrescente conhecimentos, habilidades e atitudes necessárias à formação do aluno; 
+Com isso, propõe-se que a formação técnica do estudante seja interligada com o intuito de que o mesmo não resulte somente em um sujeito a mais que possui um curso superior concluído, mas sim que vise o pleno desenvolvimento do sujeito em todas as dimensões da vida.
 
-- Quaisquer outras atividades que viabilizem o alcance dos objetivos do curso em consonância com os princípios metodológicos consonância com os princípios metodológicos da instituição. 
+Na proposta do curso pretende-se a formação de um profissional consciente, com capacidade de discernimento para as mais variadas situações que venham ocorrer dentro de uma comunidade, além de formar trabalhadores responsáveis e comprometidos com a sociedade.
 
-Tais metodologias e estratégias deverão sempre ser implementadas, de modo a ensejar ao aluno o despertar para outras realidades possíveis, além de seu contexto atual, conscientizá-lo de seu potencial, enquanto elemento transformador da realidade na qual está inserido e evidenciar que sua imagem profissional começa a ser formada desde sua vivência em sala de aula e não somente após a conclusão do curso. 
+Para tanto, permeiam os Temas Transversais que serão abordados no ambiente escolar, a fim de oportunizar o acesso dos estudantes a conteúdos diversos, além de incentivar o desenvolvimento social e promover a criticidade, estimulando seu aprendizado e
 
-Por fim, é importante destacar que todo o processo de ensino-aprendizagem inerente ao Curso Superior de Tecnologia em Gestão Comercial deve ser permeado pela constante atualização e discussão em sala de aula dos temas emergentes expressos em cada componente curricular, com vistas a evitar a obsolescência do curso ante a dinâmica dos mercados e à necessidade de constante atualização do perfil dos profissionais de gestão na Sociedade Pós-Moderna. 
+desenvolvimento humano.
 
-## 3.1 RELAÇÃO ENTRE ENSINO, PESQUISA , EXTENSÃO E INOVAÇÃO 
+A abordagem dos Temas Transversais será por meio de debates, discussões e atividades sobre os temas trabalhados em palestras durante as semanas temáticas previstas no calendário acadêmico.
 
-O curso Superior de Tecnologia em Gestão Comercial do _Campus_ Assis Chateaubriand pretende a articulação entre ensino, pesquisa, extensão e inovação contemplando em sua matriz curricular o desenvolvimento de atitudes e ações empreendedoras e inovadoras, tendo como foco as vivências da aprendizagem para a capacitação e para a inserção no mundo do trabalho. 
+Os Temas Transversais abordados serão: Prevenção de todas as formas de violência contra a criança e adolescente (Lei nº 8.069/1990); Segurança no Trânsito (Art. 74 a 76 da Lei nº 9.503/1997); Educação Ambiental (Lei nº 9.795/1999; artigos 5º e 6º do Decreto nº 4.281/2002 e Res. CNE/CP nº 02/2012); Processo de envelhecimento, respeito e valorização do idoso (artigo 22 da Lei nº 10.741/2003); Educação em Direitos Humanos (Decreto nº 7.037/2009; Resolução CNE/CP nº 01/2012; Resolução CNE/CP Nº 01/2021); Educação alimentar e nutricional (Lei nº 11.947/2009 e Resolução CNE/CEB nº 02/2012; educação étnico-racial (Leis 10.639/2003 e 11.645/2008), medidas de prevenção e combate a incêndio e a desastres de acordo com a Lei nº 13.425/2017, visto que o mundo do trabalho constitui-se num campo onde essas temáticas não são desconexas, proporcionando um caráter transdisciplinar capaz de propiciar ao egresso uma nova visão da natureza, do homem, do trabalho e da realidade social.
 
-A Resolução nº 49/2019 define a extensão como um processo educativo, cultural, político, social e inclusivo, científico e tecnológico que promove, de forma indissociável ao ensino e à 
+Também serão trabalhados por meio de projetos de extensão e palestras os fundamentos de empreendedorismo, cooperativismo, legislação trabalhista, ética profissional, gestão ambiental, segurança do trabalho, gestão de pessoas e gestão da qualidade social e ambiental do trabalho conforme inciso VI do artigo 14 da resolução CNE/CP nº 01/2021, bem como a exibição de filmes de produção nacional por no mínimo duas horas mensais em conformidade com a lei nº 13.006/2014.
 
-43 
+Essa discussão possui caráter emancipatório e não discriminatório, pois oportuniza conhecimentos que possibilitam respeito às diferenças, seja em seminários, seja em debates despertados em temáticas transdisciplinares emanadas nos diversos componentes curriculares que compõem esse currículo, e não apenas naquelas cujas temáticas façam parte integrante do programa.
 
-**==> picture [471 x 55] intentionally omitted <==**
+Esse processo é indispensável para que o estudante não apenas conheça e saiba o mundo em que vive, mas com isso saiba nele atuar e transformá-lo por meio do trabalho. O conhecimento é percebido quando há manifestação de mudança de atitudes e comportamentos, na prática social.
 
-pesquisa a interação entre o IFPR e a sociedade. 
+Portanto, é o conhecimento mediador, num processo ação-reflexão-ação, simultaneamente, possibilitador da transformação social do indivíduo.
 
-Indo ao encontro desta ideia, Martins (2011) aborda a indissociabilidade entre ensino, pesquisa e extensão à luz de um estudo realizado sobre a construção do conhecimento nas instituições de Ensino Superior, afirmando que, após a promulgação da nova Lei de Diretrizes e Bases da Educação Nacional (LDBN), houve um movimento de revisão do processo ensinoaprendizagem por parte dos educadores, que apregoam que as aprendizagens deveriam associar-se às ações dos estudantes tanto na realidade experimental cotidiana quanto na realidade referente ao futuro exercício profissional. 
+Essa transformação também pode ser alimentada pela Arte, visto que a mesma se constitui como expressão da vida que, associada ao processo de criação, transforma-se na capacidade de exercer plenamente a condição de humanidade.
 
-As atividades pedagógicas serão organizadas por meio de: 
+A Arte, em suas diversas manifestações, favorece o desenvolvimento integral do indivíduo, possibilitando a expressão livre do pensamento e das emoções, desenvolvendo seu raciocínio com criatividade e imaginação. A ação educativa da Arte tem como objetivo a preparação do jovem para a vida plena da cidadania, buscando a formação de cidadãos que possam intervir na realidade, podendo ser considerada, também, como um instrumento de transformação social.
 
-- elaboração e execução de projetos interdisciplinares para integrar as áreas de conhecimento com a apresentação de resultados práticos e objetivos construídos coletivamente; 
+Assim, a educação para o trabalho, nessa perspectiva emancipadora progressista, figura como ciência transformadora e, a escola, como ambiente propício para a compreensão do trabalho como um princípio educativo.
 
-- implementação sistemática, permanente e/ou eventual de cursos de extensão, seminários, fóruns, palestras, semanas de curso e outros que articulem os currículos a temas de relevância social, local e/ou regional potencializando os recursos materiais, físicos e humanos disponíveis; 
+Esse contexto permite a compreensão que a educação profissional é muito mais que a mera preparação de mão de obra para o mercado de trabalho. Efetiva-se como mecanismo de conhecimento ontológico, ao passo que o homem produz sua própria existência inter-relacional geradora de conhecimentos, e também histórico, sob o ponto de vista capitalista de produção econômica.
 
-- organização de estudos que contemplem conhecimentos relevantes e capazes de responder demandas pontuais para a comunidade interna e externa; 
+Concebendo-se o trabalho como princípio educativo e a pesquisa como princípio pedagógico, o curso Superior de Tecnologia em Gestão Comercial do IFPR _Campus_ Assis
 
-- previsão de espaços para reflexão e construção de ações coletivas, que atendam a demandas específicas de áreas, cursos, campus e instituição, tais como fóruns, debates, grupos de estudo e similares; 
+Chateaubriand oportuniza condições de resgate social ao público estudantil regional, para o qual uma formação diferenciada proporciona espaços de inclusão e de desenvolvimento econômico e social por meio de uma efetiva formação para o mundo do trabalho.
 
-- oferta de intercâmbio entre estudantes de diferentes campi, institutos e instituições educacionais considerando a equivalência de estudos. 
+É importante ressaltar que, na educação profissional, deve se repetir que não há dissociação entre teoria e prática. O ensino deve contextualizar competências, visando significativamente à ação profissional. Daí que a prática se configura não como situações ou momentos distintos do curso, mas como uma metodologia de ensino que contextualiza e põe em ação o aprendizado (Parecer CNE/CEB Nº 16/99).
 
-As práticas pedagógicas no âmbito do ensino serão realizadas com a intenção de oportunizar práticas investigativas no contexto social por meio de eventos, projetos de iniciação científica e demais atividades a fim de estimular a pesquisa, extensão e a inovação. 
+## 4.1 ESTRUTURA CURRICULAR
 
-44 
+De acordo com as Diretrizes Curriculares Nacionais DCNs e as legislações pertinentes, os Cursos Superiores de Tecnologia em Gestão Comercial deverá contemplar de forma interdisciplinar os seguintes temas:
 
-**==> picture [471 x 55] intentionally omitted <==**
+1. História e Cultura Afro-Brasileira e Indígena (Lei nº 10.639, de 9 de janeiro de 2003 e Lei nº. 11.645/2008 e Resolução CNE/CP nº 01/2004).
 
-Será promovido pelo IFPR, anualmente, semanas de Curso, no qual serão tratados temas variados, relacionados à gestão organizacional, áreas de atuação profissional, tecnologias na área de gestão, entre outros. 
+2. Educação ambiental (Lei nº. 9.795/1999, Decreto nº. 4.281/2002 e Resolução CNE/CP nº. 02/2012).
 
-Eventualmente serão ofertados aos estudantes cursos de extensão, palestras e seminários que possam contribuir para uma formação ampla e integrada às diversas áreas de conhecimento. 
+3. Processos de Envelhecimento (Lei nº 10.741, de 1º de outubro de 2003)
 
-Contudo, o IFPR possui os Núcleos de Arte e Cultura (NACs), conforme estabelece a Resolução nº 60/2017, que tem o papel institucional de fomentar a formação, a difusão e a articulação da produção artístico-cultural, contribuindo para a política cultural da instituição além da preservação da memória e patrimônio cultural indo ao encontro de algumas atividades de extensão realizadas pelo o curso. 
+4. Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista (Lei nº 12.764 de 27 de dezembro de 2012)
 
-## 3.2 TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO NO PROCESSO DE ENSINO-APRENDIZAGEM 
+5. Conceito de gênero do PNE (Nota Técnica nº 24/2015 CGDH/DPEDHUC/SECADI/MEC)
 
-O desenvolvimento acelerado das Tecnologias Digitais de Informação e Comunicação (TIC's) criaram formas surpreendentes de armazenamento, recuperação e disseminação do conhecimento. Esse novo modo de sistematização do conhecimento produz rápidas alterações no cenário educacional, de magnitudes ainda pouco conhecidas, que necessitam ser analisadas e discutidas. Entretanto, isso requer reflexão sobre os conceitos das práticas educativas e de tecnologia, entendidos integrados na construção do conhecimento, na democratização do saber e, por conseguinte, no desenvolvimento da cidadania. 
+Os conteúdos supracitados serão abordados por meio do componente curricular Ética, responsabilidade social e ambiental, ministrado no terceiro semestre do curso.
 
-As TDICs possibilitam sublevar os processos e metodologias de aprendizagem, pois criam chances de reformular as relações entre alunos e professores e de rever a relação da universidade como meio social, ao diversificar os espaços de construção do conhecimento. 
+## **4.1.1 Representação Gráfica do Processo Formativo**
 
-Contudo, a opção crítica pela utilização da tecnologia, trata-se de um movimento de mudança paradigmática que é permeada por questões que exigem um processo de investigação e reflexão aprofundado. Assim, os docentes necessitam agir de maneira reflexiva para não 
+## **4.1.2 Matriz Curricular**
 
-45 
+Tabela 4 - Matriz do Curso de Tecnologia em Gestão Comercial
 
-**==> picture [471 x 55] intentionally omitted <==**
+## **4.1.3 Componentes Optativos**
 
-adotarem recursos de forma acrítica, descontextualizada dos meios e da repercussão social, econômica, política e cultural no qual estão inseridos. 
+Os componentes curriculares optativos seguem a formatação de 2 aulas semanais, totalizando 40 aulas no semestre com uma carga horária de 33 horas, conforme Tabela 5.
 
-No curso superior de tecnologia em Gestão Comercial a utilização de TIC 's se dará de acordo com a didática de cada professor do curso. Será incentivado o uso dos recursos disponíveis no câmpus Assis Chateaubriand, mesmo não havendo a previsão do uso de Ambiente Virtual de Aprendizagem, as TICs servirão de apoio no processo de ensino e aprendizagem. 
-
-## 3.2.1 Educação Inclusiva 
-
-Além das questões estruturais do _campu_ s Assis Chateaubriand, que atendem atualmente aos alunos com necessidades educacionais especiais, o Napne do _Campus_ Assis servirá de apoio na construção das atividades educacionais. 
-
-Da mesma forma, a equipe pedagógica do _campus_ deverá prover o suporte pedagógico aos estudantes com necessidades educacionais especiais em cumprimento ao Decreto Nº. 5.296/2004 Decreto-Lei nº. 1.044/69, que dispõe sobre tratamento excepcional para os alunos portadores das afecções; a Lei nº. 6.202/75, que atribui à estudante em estado de gestação o regime de exercícios domiciliares; a Lei 10.421/2002 (LEI ORDINÁRIA), que estende à mãe adotiva o direito à licença maternidade e ao salário-maternidade, alterando a Consolidação das Leis do Trabalho; a Resolução 54/2011 do CONSUP/IFPR , que dispõe sobre a Organização Didático Pedagógica da Educação Profissional Técnica de Nível Médio e Formação Inicial e Continuada de Trabalhadores no âmbito do Instituto Federal do Paraná - IFPR; e a Resolução 55/2011 do CONSUP/IFPR , que dispõe sobre a Organização Didático Pedagógica da Educação Superior no âmbito do Instituto Federal do Paraná - IFPR 
-
-## 3.2.2. Integração com a Pós-Graduação 
-
-O curso superior de Tecnologia em Gestão Comercial deverá proporcionar conhecimentos que subsidiem a verticalização da formação do egresso. 
-
-46 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-O _Campus_ Assis Chateaubriand possui curso de Especialização em Gestão Corporativa e Sustentabilidade e previsão junto ao PDI 2019/2023 da abertura de demais cursos para este Eixo Tecnológico, de forma que deverá haver ampla divulgação entre os egressos sobre os processos seletivos dos cursos de pós-graduação. 
-
-## **4. ORGANIZAÇÃO CURRICULAR** 
-
-A organização curricular do curso Superior de Tecnologia em Gestão Comercial está amparada nas diretrizes curriculares nacionais para a educação profissional de nível superior, além das determinações do Catálogo Nacional de Cursos do Ministério de Educação e Cultura. 
-
-Os pressupostos pedagógicos do Curso Superior de Tecnologia em Gestão Comercial, do eixo Tecnológico Gestão e Negócios, compreendem os conceitos e as metodologias propostas na organização do curso e estas visam promover a forma que os docentes conduzirão o processo do ensino/aprendizagem. 
-
-O Curso Superior de Tecnologia em Gestão Comercial procura construir uma organização curricular pautada nos princípios básicos do currículo Integrado, tendo como principais eixos estruturantes a ciência, a cultura, o trabalho e a tecnologia, por meio da integração das dimensões fundamentais da vida que estruturam a prática social do egresso. 
-
-Com isso, propõe-se que a formação técnica do estudante seja interligada com o intuito de que o mesmo não resulte somente em um sujeito a mais que possui um curso superior concluído, mas sim que vise o pleno desenvolvimento do sujeito em todas as dimensões da vida. 
-
-Na proposta do curso pretende-se a formação de um profissional consciente, com capacidade de discernimento para as mais variadas situações que venham ocorrer dentro de uma comunidade, além de formar trabalhadores responsáveis e comprometidos com a sociedade. 
-
-Para tanto, permeiam os Temas Transversais que serão abordados no ambiente escolar, a fim de oportunizar o acesso dos estudantes a conteúdos diversos, além de incentivar o desenvolvimento social e promover a criticidade, estimulando seu aprendizado e 
-
-47 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-desenvolvimento humano. 
-
-A abordagem dos Temas Transversais será por meio de debates, discussões e atividades sobre os temas trabalhados em palestras durante as semanas temáticas previstas no calendário acadêmico. 
-
-Os Temas Transversais abordados serão: Prevenção de todas as formas de violência contra a criança e adolescente (Lei nº 8.069/1990); Segurança no Trânsito (Art. 74 a 76 da Lei nº 9.503/1997); Educação Ambiental (Lei nº 9.795/1999; artigos 5º e 6º do Decreto nº 4.281/2002 e Res. CNE/CP nº 02/2012); Processo de envelhecimento, respeito e valorização do idoso (artigo 22 da Lei nº 10.741/2003); Educação em Direitos Humanos (Decreto nº 7.037/2009; Resolução CNE/CP nº 01/2012; Resolução CNE/CP Nº 01/2021); Educação alimentar e nutricional (Lei nº 11.947/2009 e Resolução CNE/CEB nº 02/2012; educação étnico-racial (Leis 10.639/2003 e 11.645/2008), medidas de prevenção e combate a incêndio e a desastres de acordo com a Lei nº 13.425/2017, visto que o mundo do trabalho constitui-se num campo onde essas temáticas não são desconexas, proporcionando um caráter transdisciplinar capaz de propiciar ao egresso uma nova visão da natureza, do homem, do trabalho e da realidade social. 
-
-Também serão trabalhados por meio de projetos de extensão e palestras os fundamentos de empreendedorismo, cooperativismo, legislação trabalhista, ética profissional, gestão ambiental, segurança do trabalho, gestão de pessoas e gestão da qualidade social e ambiental do trabalho conforme inciso VI do artigo 14 da resolução CNE/CP nº 01/2021, bem como a exibição de filmes de produção nacional por no mínimo duas horas mensais em conformidade com a lei nº 13.006/2014. 
-
-Essa discussão possui caráter emancipatório e não discriminatório, pois oportuniza conhecimentos que possibilitam respeito às diferenças, seja em seminários, seja em debates despertados em temáticas transdisciplinares emanadas nos diversos componentes curriculares que compõem esse currículo, e não apenas naquelas cujas temáticas façam parte integrante do programa. 
-
-48 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-Esse processo é indispensável para que o estudante não apenas conheça e saiba o mundo em que vive, mas com isso saiba nele atuar e transformá-lo por meio do trabalho. O conhecimento é percebido quando há manifestação de mudança de atitudes e comportamentos, na prática social. 
-
-Portanto, é o conhecimento mediador, num processo ação-reflexão-ação, simultaneamente, possibilitador da transformação social do indivíduo. 
-
-Essa transformação também pode ser alimentada pela Arte, visto que a mesma se constitui como expressão da vida que, associada ao processo de criação, transforma-se na capacidade de exercer plenamente a condição de humanidade. 
-
-A Arte, em suas diversas manifestações, favorece o desenvolvimento integral do indivíduo, possibilitando a expressão livre do pensamento e das emoções, desenvolvendo seu raciocínio com criatividade e imaginação. A ação educativa da Arte tem como objetivo a preparação do jovem para a vida plena da cidadania, buscando a formação de cidadãos que possam intervir na realidade, podendo ser considerada, também, como um instrumento de transformação social. 
-
-Assim, a educação para o trabalho, nessa perspectiva emancipadora progressista, figura como ciência transformadora e, a escola, como ambiente propício para a compreensão do trabalho como um princípio educativo. 
-
-Esse contexto permite a compreensão que a educação profissional é muito mais que a mera preparação de mão de obra para o mercado de trabalho. Efetiva-se como mecanismo de conhecimento ontológico, ao passo que o homem produz sua própria existência inter-relacional geradora de conhecimentos, e também histórico, sob o ponto de vista capitalista de produção econômica. 
-
-Concebendo-se o trabalho como princípio educativo e a pesquisa como princípio pedagógico, o curso Superior de Tecnologia em Gestão Comercial do IFPR _Campus_ Assis 
-
-49 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-Chateaubriand oportuniza condições de resgate social ao público estudantil regional, para o qual uma formação diferenciada proporciona espaços de inclusão e de desenvolvimento econômico e social por meio de uma efetiva formação para o mundo do trabalho. 
-
-É importante ressaltar que, na educação profissional, deve se repetir que não há dissociação entre teoria e prática. O ensino deve contextualizar competências, visando significativamente à ação profissional. Daí que a prática se configura não como situações ou momentos distintos do curso, mas como uma metodologia de ensino que contextualiza e põe em ação o aprendizado (Parecer CNE/CEB Nº 16/99). 
-
-## 4.1 ESTRUTURA CURRICULAR 
-
-De acordo com as Diretrizes Curriculares Nacionais DCNs e as legislações pertinentes, os Cursos Superiores de Tecnologia em Gestão Comercial deverá contemplar de forma interdisciplinar os seguintes temas: 
-
-1. História e Cultura Afro-Brasileira e Indígena (Lei nº 10.639, de 9 de janeiro de 2003 e Lei nº. 11.645/2008 e Resolução CNE/CP nº 01/2004). 
-
-2. Educação ambiental (Lei nº. 9.795/1999, Decreto nº. 4.281/2002 e Resolução CNE/CP nº. 02/2012). 
-
-3. Processos de Envelhecimento (Lei nº 10.741, de 1º de outubro de 2003) 
-
-4. Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista (Lei nº 12.764 de 27 de dezembro de 2012) 
-
-5. Conceito de gênero do PNE (Nota Técnica nº 24/2015 CGDH/DPEDHUC/SECADI/MEC) 
-
-Os conteúdos supracitados serão abordados por meio do componente curricular Ética, responsabilidade social e ambiental, ministrado no terceiro semestre do curso. 
-
-50 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-## **4.1.1 Representação Gráfica do Processo Formativo** 
-
-**==> picture [457 x 423] intentionally omitted <==**
-
-51 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-## **4.1.2 Matriz Curricular** 
-
-Tabela 4 - Matriz do Curso de Tecnologia em Gestão Comercial 
-
-**==> picture [444 x 524] intentionally omitted <==**
-
-52 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-## **4.1.3 Componentes Optativos** 
-
-Os componentes curriculares optativos seguem a formatação de 2 aulas semanais, totalizando 40 aulas no semestre com uma carga horária de 33 horas, conforme Tabela 5. 
-
-Tabela 5 - Componentes curriculares optativos 
+Tabela 5 - Componentes curriculares optativos
 
 |**Componente curricular**|**Carga horária**<br>**(hora-relógio)**|
 |---|---|
@@ -1296,57 +1042,47 @@ Tabela 5 - Componentes curriculares optativos
 |Inglês instrumental|33 horas|
 |Libras|33 horas|
 
+## **4.1.4** Componentes Eletivos
 
+Definem-se como componentes eletivos aqueles constantes da matriz curricular de outro curso superior ofertado no IFPR.
 
-## **4.1.4** Componentes Eletivos 
+As disciplinas eletivas são de livre escolha do acadêmico regular, para fins de enriquecimento cultural, de aprofundamento e/ou atualização de conhecimentos específicos que complementem a formação acadêmica.
 
-Definem-se como componentes eletivos aqueles constantes da matriz curricular de outro curso superior ofertado no IFPR. 
+O acadêmico poderá matricular-se em mais de um componente curricular eletivo, desde que haja disponibilidade de vagas no componente curricular e que não haja conflito de horários.
 
-As disciplinas eletivas são de livre escolha do acadêmico regular, para fins de enriquecimento cultural, de aprofundamento e/ou atualização de conhecimentos específicos que complementem a formação acadêmica. 
+## **4.1.5** Curricularização da Extensão
 
-O acadêmico poderá matricular-se em mais de um componente curricular eletivo, desde que haja disponibilidade de vagas no componente curricular e que não haja conflito de horários. 
+A Resolução CNE/CES nº 7/2018 prevê que as matrizes curriculares dos cursos superiores contemplem a curricularização da extensão em no mínimo 10% da carga horária total do curso, com a intenção de promover a interação transformadora entre instituições de ensino superior e
 
-## **4.1.5** Curricularização da Extensão 
+outros setores da sociedade, por meio da produção e da aplicação do conhecimento, em articulação permanente com o ensino e a pesquisa, mencionado no artigo 3 desta resolução.
 
-A Resolução CNE/CES nº 7/2018 prevê que as matrizes curriculares dos cursos superiores contemplem a curricularização da extensão em no mínimo 10% da carga horária total do curso, com a intenção de promover a interação transformadora entre instituições de ensino superior e 
+São objetivos da Curricularização da Extensão, conforme artigo 6 da Instrução Normativa
 
-53 
+Reitoria/IFPR nº 1, de 26 de julho de 2022, a qual institui a regulamentação para a implementação da Curricularização da Extensão no âmbito do IFPR:
 
-**==> picture [471 x 55] intentionally omitted <==**
+- I - garantir percentual mínimo de 10% (dez por cento) da carga horária de todos os cursos de graduação em atividades curriculares de extensão, a ser implantado no prazo determinado pela legislação.
 
-outros setores da sociedade, por meio da produção e da aplicação do conhecimento, em articulação permanente com o ensino e a pesquisa, mencionado no artigo 3 desta resolução. 
+- II - incentivar o desenvolvimento de atividades curriculares de extensão nos cursos ofertados.
 
-São objetivos da Curricularização da Extensão, conforme artigo 6 da Instrução Normativa 
+- III - garantir impacto na formação e no protagonismo dos estudantes ao contribuir na sua formação integral e como cidadão crítico e responsável.
 
-Reitoria/IFPR nº 1, de 26 de julho de 2022, a qual institui a regulamentação para a implementação da Curricularização da Extensão no âmbito do IFPR: 
+- IV - promover interação dialógica com a comunidade e os contextos locais, regionais, nacionais e/ou internacionais, por meio dos cursos ofertados pela Rede Federal de Educação Profissional, Científica e Tecnológica (RFEPCT), ressignificando-os.
 
-- I - garantir percentual mínimo de 10% (dez por cento) da carga horária de todos os cursos de graduação em atividades curriculares de extensão, a ser implantado no prazo determinado pela legislação. 
+- V - promover a indissociabilidade entre pesquisa, ensino e extensão.
 
-- II - incentivar o desenvolvimento de atividades curriculares de extensão nos cursos ofertados. 
+- VI - garantir a organicidade da Curricularização da Extensão como proposta prevista no Projeto Pedagógico de Curso (PPC).
 
-- III - garantir impacto na formação e no protagonismo dos estudantes ao contribuir na sua formação integral e como cidadão crítico e responsável. 
+- VII - ampliar o impacto social e acadêmico dos cursos, expressando o compromisso social da instituição com a produção e a construção de conhecimentos, atualizados e coerentes, voltados para o desenvolvimento social, equitativo e sustentável da realidade brasileira.
 
-- IV - promover interação dialógica com a comunidade e os contextos locais, regionais, nacionais e/ou internacionais, por meio dos cursos ofertados pela Rede Federal de Educação Profissional, Científica e Tecnológica (RFEPCT), ressignificando-os. 
+- VIII - buscar formação e atuação transdisciplinar e interprofissional, respeitando e promovendo a interculturalidade.
 
-- V - promover a indissociabilidade entre pesquisa, ensino e extensão. 
+IX - garantir atividades de extensão de forma orgânica, permanente e articulada, promovendo iniciativas que expressem o compromisso social da instituição com diversas áreas, em especial, as de comunicação, cultura, direitos humanos e justiça, educação, meio ambiente, saúde, tecnologia e produção e trabalho; e em consonância com as políticas ligadas às diretrizes para a educação ambiental, educação étnico-racial, direitos humanos, igualdade de gênero, inclusão e educação indígena.
 
-- VI - garantir a organicidade da Curricularização da Extensão como proposta prevista no Projeto Pedagógico de Curso (PPC). 
+O Projeto Pedagógico do Curso de Tecnologia em Gestão Comercial do IFPR _Campus_ Assis Chateaubriand, prevê 11,5% de carga horária a curricular do curso e serão caracterizadas como um processo político educacional, cultural, científico, tecnológico, com a finalidade de promover a interação transformadora entre as instituições de ensino superior e os outros setores da sociedade, por meio da produção e da aplicação do conhecimento, em articulação permanente como ensino e pesquisa.
 
-- VII - ampliar o impacto social e acadêmico dos cursos, expressando o compromisso social da instituição com a produção e a construção de conhecimentos, atualizados e coerentes, voltados para o desenvolvimento social, equitativo e sustentável da realidade brasileira. 
+No tocante à curricularização da extensão, a carga horária será distribuída em 5 (cinco) componentes curriculares obrigatórios, conforme pode ser visto na Tabela 5 abaixo:
 
-- VIII - buscar formação e atuação transdisciplinar e interprofissional, respeitando e promovendo a interculturalidade. 
-
-54 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-IX - garantir atividades de extensão de forma orgânica, permanente e articulada, promovendo iniciativas que expressem o compromisso social da instituição com diversas áreas, em especial, as de comunicação, cultura, direitos humanos e justiça, educação, meio ambiente, saúde, tecnologia e produção e trabalho; e em consonância com as políticas ligadas às diretrizes para a educação ambiental, educação étnico-racial, direitos humanos, igualdade de gênero, inclusão e educação indígena. 
-
-O Projeto Pedagógico do Curso de Tecnologia em Gestão Comercial do IFPR _Campus_ Assis Chateaubriand, prevê 11,5% de carga horária a curricular do curso e serão caracterizadas como um processo político educacional, cultural, científico, tecnológico, com a finalidade de promover a interação transformadora entre as instituições de ensino superior e os outros setores da sociedade, por meio da produção e da aplicação do conhecimento, em articulação permanente como ensino e pesquisa. 
-
-No tocante à curricularização da extensão, a carga horária será distribuída em 5 (cinco) componentes curriculares obrigatórios, conforme pode ser visto na Tabela 5 abaixo: 
-
-Tabela 6 - Componentes curriculares para curricularização da Extensão. 
+Tabela 6 - Componentes curriculares para curricularização da Extensão.
 
 |**Semestre**|**Componente curricular**|**Carga Horária**<br>**(Hora-relógio)**|
 |---|---|---|
@@ -1357,301 +1093,240 @@ Tabela 6 - Componentes curriculares para curricularização da Extensão.
 |Quarto|Elaboração de projetos|33|
 |Total||153|
 
+De acordo com o artigo 8º da Resolução CNE/CES no 7/2018, as atividades extensionistas se inserem nas seguintes modalidades: I - programas; II - projetos; III - cursos e oficinas; IV – eventos e V - prestação de serviços.
 
+Os componentes curriculares de Extensão serão desenvolvidos semestralmente, iniciandose no segundo semestre letivo do curso, que se tratam de atividades extensionistas, e que estão regulamentados pela Instrução Normativa Reitoria/IFPR Nº 1/2022, a oferta da extensão ocorrerá por meio de cinco componentes curriculares específicos de extensão, conforme explicitado na Tabela 6, a saber: Marketing de relacionamento (2º semestre/25h), Marketing de eventos (3º semestre/ 33h), Plano de marketing (3º semestre/ 29h), Planejamento e gestão estratégica (4º semestre/ 33h) e Elaboração de projetos (4º semestre/ 33h) cujas cargas horárias previstas totalizam 153 horas de atividades.
 
-55 
+Os componentes curriculares que abordarão as atividades de extensão descreverá em sua ementa como serão realizadas.
 
-**==> picture [471 x 55] intentionally omitted <==**
+## 4.2 EMENTÁRIO E BIBLIOGRAFIAS
 
-De acordo com o artigo 8º da Resolução CNE/CES no 7/2018, as atividades extensionistas se inserem nas seguintes modalidades: I - programas; II - projetos; III - cursos e oficinas; IV – eventos e V - prestação de serviços. 
+## **1º Semestre**
 
-Os componentes curriculares de Extensão serão desenvolvidos semestralmente, iniciandose no segundo semestre letivo do curso, que se tratam de atividades extensionistas, e que estão regulamentados pela Instrução Normativa Reitoria/IFPR Nº 1/2022, a oferta da extensão ocorrerá por meio de cinco componentes curriculares específicos de extensão, conforme explicitado na Tabela 6, a saber: Marketing de relacionamento (2º semestre/25h), Marketing de eventos (3º semestre/ 33h), Plano de marketing (3º semestre/ 29h), Planejamento e gestão estratégica (4º semestre/ 33h) e Elaboração de projetos (4º semestre/ 33h) cujas cargas horárias previstas totalizam 153 horas de atividades. 
+COMPONENTE CURRICULAR: Gestão Empresarial
 
-Os componentes curriculares que abordarão as atividades de extensão descreverá em sua ementa como serão realizadas. 
+CARGA HORÁRIA TOTAL: Hora/aula - 80 e Hora/relógio- 67
 
-## 4.2 EMENTÁRIO E BIBLIOGRAFIAS 
+EMENTA: Fundamentos de Gestão Empresarial: conceitos básicos de gestão, modelos de gestão, princípios de administração, teorias gerais da administração. Promover a capacidade de conhecer, identificar e comparar as diversas formas de organização; compreender e ser potencialmente capaz de utilizar as ferramentas da administração para atuar ou qualificar sua atuação como gestor de uma empresa. Ciclos de Vida das Organizações, Produtos e Serviços. Fundamentos e aplicações da Teoria do Desenvolvimento Organizacional: Enfatizar a importância da mudança organizacional planejada, da aprendizagem e do desenvolvimento das pessoas dentro das organizações; bem como promover a melhoria da eficácia organizacional. Salientando que para alcançar esse objetivo, a teoria do “DO” propõe a utilização de técnicas de intervenção nos processos organizacionais, com o objetivo de modificar a cultura, as normas, os valores e os comportamentos das pessoas envolvidas. Ênfase na aprendizagem organizacional e no desenvolvimento humano, a utilização de técnicas de intervenção, a preocupação com a cultura e o clima organizacional, a busca pela melhoria contínua e a flexibilidade para
 
-## **1º Semestre** 
+adaptar-se às mudanças. Pesquisa de Clima Organizacional; Dinâmicas de grupo; Análise Transacional; organizações mais eficazes e saudáveis, que sejam capazes de se adaptar às mudanças do ambiente e de promover o desenvolvimento pessoal e profissional de seus membros. Para isso, é fundamental que a mudança seja planejada e conduzida de forma participativa, envolvendo todos os membros da organização, e que haja um comprometimento com a melhoria contínua. BIBLIOGRAFIA BÁSICA:
 
-COMPONENTE CURRICULAR: Gestão Empresarial 
+SOBRAL, Felipe; PECI, Alketa. **Administração: Teoria e Prática no Contexto Brasileiro.** Pearson Universidades, 2013. OLIVEIRA, D. **Gestão da Mudança Organizacional** . 3ª ed. São Paulo: Atlas, 2016. OLIVEIRA, M. M. de. **Introdução à administração: teoria e prática** . São Paulo: Saraiva Educação, 2019. BIBLIOGRAFIA COMPLEMENTAR: CARVALHO, J. M. **Introdução à teoria geral da administração: uma visão abrangente da moderna administração das organizações** . São Paulo: Pearson, 2017. CASTRO, R. M. **Gestão do Ciclo de Vida de Produtos** . Atlas, 2018. CHIAVENATO, I. **Administração: teoria, processo e prática** . Rio de Janeiro: Elsevier, 2017. FLEURY, M. T. L.; FLEURY, A. **Liderança e Gestão de Pessoas** . 3ª edição. São Paulo: Atlas, 2017. LACOMBE, F. J. M.; HEILBORN, G. L. J. **Diagnóstico Organizacional: Uma abordagem metodológica.** 3ª edição. São Paulo: Atlas, 2015. ROBBINS, S. P.; COULTER, M.; DECENZO, D. A. **Fundamentos de administração** . São Paulo: Pearson, 2017. SAMPAIO, J. O.; SAMPAIO, Y. O. **Administração de pequenas empresas** . São Paulo: Atlas, 2017.
 
-CARGA HORÁRIA TOTAL: Hora/aula - 80 e Hora/relógio- 67 
+COMPONENTE CURRICULAR: Legislação Aplicada e direito do consumidor CARGA HORÁRIA TOTAL: Hora/aula -80 e Hora/relógio - 67
 
-EMENTA: Fundamentos de Gestão Empresarial: conceitos básicos de gestão, modelos de gestão, princípios de administração, teorias gerais da administração. Promover a capacidade de conhecer, identificar e comparar as diversas formas de organização; compreender e ser potencialmente capaz de utilizar as ferramentas da administração para atuar ou qualificar sua atuação como gestor de uma empresa. Ciclos de Vida das Organizações, Produtos e Serviços. Fundamentos e aplicações da Teoria do Desenvolvimento Organizacional: Enfatizar a importância da mudança organizacional planejada, da aprendizagem e do desenvolvimento das pessoas dentro das organizações; bem como promover a melhoria da eficácia organizacional. Salientando que para alcançar esse objetivo, a teoria do “DO” propõe a utilização de técnicas de intervenção nos processos organizacionais, com o objetivo de modificar a cultura, as normas, os valores e os comportamentos das pessoas envolvidas. Ênfase na aprendizagem organizacional e no desenvolvimento humano, a utilização de técnicas de intervenção, a preocupação com a cultura e o clima organizacional, a busca pela melhoria contínua e a flexibilidade para 
+EMENTA: Conhecimentos básicos de Introdução ao Direito. Noções fundamentais de Direito Constitucional, Administrativo, Civil e Empresarial. Introdução ao Direito do Consumidor. Análise do Código de Defesa do Consumidor (Lei 8078/90) a partir das alterações paradigmáticas da compreensão atual em relação a Constituição, os princípios gerais do direito e a jurisprudência. Dos Direitos Básicos do Consumidor. Responsabilidade civil nas relações de consumo. Danos morais na relação de consumo. Prescrição e decadência. Desconsideração da personalidade jurídica. A Publicidade nas relações de Consumo. Bancos de dados e cadastros de consumidores.
 
-56 
+BIBLIOGRAFIA BÁSICA:
 
-**==> picture [471 x 55] intentionally omitted <==**
+COELHO, Fábio Ulhoa. **Novo manual de direito comercial: Direito de Empresa** . 31. ed. São Paulo: Revista dos Tribunais, 2020.
 
-adaptar-se às mudanças. Pesquisa de Clima Organizacional; Dinâmicas de grupo; Análise Transacional; organizações mais eficazes e saudáveis, que sejam capazes de se adaptar às mudanças do ambiente e de promover o desenvolvimento pessoal e profissional de seus membros. Para isso, é fundamental que a mudança seja planejada e conduzida de forma participativa, envolvendo todos os membros da organização, e que haja um comprometimento com a melhoria contínua. BIBLIOGRAFIA BÁSICA: 
+NUNES, Rizzatto. **Curso de Direito do Consumidor** . - 14. ed.- São Paulo: Saraiva Educação, 2022.
 
-SOBRAL, Felipe; PECI, Alketa. **Administração: Teoria e Prática no Contexto Brasileiro.** Pearson Universidades, 2013. OLIVEIRA, D. **Gestão da Mudança Organizacional** . 3ª ed. São Paulo: Atlas, 2016. OLIVEIRA, M. M. de. **Introdução à administração: teoria e prática** . São Paulo: Saraiva Educação, 2019. BIBLIOGRAFIA COMPLEMENTAR: CARVALHO, J. M. **Introdução à teoria geral da administração: uma visão abrangente da moderna administração das organizações** . São Paulo: Pearson, 2017. CASTRO, R. M. **Gestão do Ciclo de Vida de Produtos** . Atlas, 2018. CHIAVENATO, I. **Administração: teoria, processo e prática** . Rio de Janeiro: Elsevier, 2017. FLEURY, M. T. L.; FLEURY, A. **Liderança e Gestão de Pessoas** . 3ª edição. São Paulo: Atlas, 2017. LACOMBE, F. J. M.; HEILBORN, G. L. J. **Diagnóstico Organizacional: Uma abordagem metodológica.** 3ª edição. São Paulo: Atlas, 2015. ROBBINS, S. P.; COULTER, M.; DECENZO, D. A. **Fundamentos de administração** . São Paulo: Pearson, 2017. SAMPAIO, J. O.; SAMPAIO, Y. O. **Administração de pequenas empresas** . São Paulo: Atlas, 2017. 
+THEODORO JÚNIOR, Humberto. **Direitos do consumidor** . 10. ed. ref., rev. e atual. Rio de Janeiro: Forense, 2020.
 
-COMPONENTE CURRICULAR: Legislação Aplicada e direito do consumidor CARGA HORÁRIA TOTAL: Hora/aula -80 e Hora/relógio - 67 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-57 
+NETTO, Felipe Braga. **Manual de Direito do Consumidor - À luz da Jurisprudência do STJ** . 17. ed. Rev., ampl. e atual. Salvador: Ed. Juspodivm, 2022.
 
-**==> picture [471 x 55] intentionally omitted <==**
+LENZA, Pedro. **Direito Constitucional.** - 25. ed. - São Paulo: Saraiva Educação,2021.
 
-EMENTA: Conhecimentos básicos de Introdução ao Direito. Noções fundamentais de Direito Constitucional, Administrativo, Civil e Empresarial. Introdução ao Direito do Consumidor. Análise do Código de Defesa do Consumidor (Lei 8078/90) a partir das alterações paradigmáticas da compreensão atual em relação a Constituição, os princípios gerais do direito e a jurisprudência. Dos Direitos Básicos do Consumidor. Responsabilidade civil nas relações de consumo. Danos morais na relação de consumo. Prescrição e decadência. Desconsideração da personalidade jurídica. A Publicidade nas relações de Consumo. Bancos de dados e cadastros de consumidores. 
+TARTUCE, F.; NEVES, D. A.A. **Manual de Direito do Consumidor: direito material e processual,** volume único. **-** 11. ed. Rio de Janeiro: Forense; Método, 2022.
 
-BIBLIOGRAFIA BÁSICA: 
+TARTUCE, Flávio. **Manual de Direito do Civil. -** 11. ed. -Rio de Janeiro, Forense; Método, 2021.
 
-COELHO, Fábio Ulhoa. **Novo manual de direito comercial: Direito de Empresa** . 31. ed. São Paulo: Revista dos Tribunais, 2020. 
+COMPONENTE CURRICULAR: Marketing e comportamento do consumidor
 
-NUNES, Rizzatto. **Curso de Direito do Consumidor** . - 14. ed.- São Paulo: Saraiva Educação, 2022. 
+CARGA HORÁRIA TOTAL: Hora/aula - 80 e Hora/relógio - 67
 
-THEODORO JÚNIOR, Humberto. **Direitos do consumidor** . 10. ed. ref., rev. e atual. Rio de Janeiro: Forense, 2020. 
+EMENTA: Conceitos centrais de marketing. Evolução do marketing. Tipos de marketing. Composto de marketing. Análise de ambiente interno e externo. Estratégias competitivas. Comportamento do consumidor e as estratégias de negócios. Processo de decisão de compra. Pirâmide de maslow. Pesquisa de mercado. Segmentação de mercado. Sistema de informação de
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+marketing - SIM BIBLIOGRAFIA BÁSICA: PAIXÃO, Márcia Valéria. **A influência do consumidor nas decisões de marketing** . Curitiba: Intersaberes, 2017. ANDRADE, **Carlos Frederico de. Marketing: o que é? Quem faz? Quais as tendências?** Curitiba: Intersaberes, 2015. GIACOMETTI, Henrique Brockett. **Ferramentas de marketing: do tradicional ao digital** . Curitiba: Intersaberes, 2020. BIBLIOGRAFIA COMPLEMENTAR: LAS CASAS, A.L. **Administração de marketing – conceitos, planejamento e aplicações à realidade brasileira** . São Paulo: Atlas, 2010. SANTINI, Fernando Roberto; LUDOVICO, Nelson. **Gestão de marketing: o plano de marketing como orientador das decisões.** São Paulo: Editora Saraiva, 2021. SAMARA, Beatriz S.; MORSCH, Marco A. **Comportamento do consumidor: conceitos e casos** . São Paulo: Practice Hall, 2005. REICHELT, Valesca Persch. **Fundamentos de marketing** . Curitiba: Intersaberes, 2013.
 
-NETTO, Felipe Braga. **Manual de Direito do Consumidor - À luz da Jurisprudência do STJ** . 17. ed. Rev., ampl. e atual. Salvador: Ed. Juspodivm, 2022. 
+COMPONENTE CURRICULAR: Gestão, Educação e Matemática Financeira CARGA HORÁRIA TOTAL: hora/aula: 80 e hora/relógio: 67
 
-LENZA, Pedro. **Direito Constitucional.** - 25. ed. - São Paulo: Saraiva Educação,2021. 
+EMENTA: Variações Percentuais; Variações Percentuais Sucessivas; Juro Composto; Desconto; Taxas Equivalentes; Anuidades; Sistemas de Amortização; Taxas reais e taxas aparentes. Séries de Pagamentos Uniformes. Valor Presente Líquido (VPL); Taxa Interna de Retorno (TIR); Índice de Lucratividade (IL); Introdução ao Mercado Financeiro. BIBLIOGRAFIA BÁSICA: ASSAF NETO, A. **Matemática financeira: uma abordagem prática.** 12. ed. São Paulo: Atlas, 2020. VIEIRA SOBRINHO, J. D. **Matemática financeira.** 5. ed. São Paulo: Atlas, 2017.
 
-TARTUCE, F.; NEVES, D. A.A. **Manual de Direito do Consumidor: direito material e processual,** volume único. **-** 11. ed. Rio de Janeiro: Forense; Método, 2022. 
+SAMANEZ, C. P. **Matemática financeira.** 7. ed. São Paulo: Pearson Prentice Hall, 2019.
 
-TARTUCE, Flávio. **Manual de Direito do Civil. -** 11. ed. -Rio de Janeiro, Forense; Método, 2021. 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-COMPONENTE CURRICULAR: Marketing e comportamento do consumidor 
+ASSAF NETO, A. Matemática Financeira: Objetiva e Aplicada. São Paulo: Atlas, 2019.
 
-CARGA HORÁRIA TOTAL: Hora/aula - 80 e Hora/relógio - 67 
+DORNELAS, E. Matemática financeira fácil. 4. ed. São Paulo: Saraiva, 2018.
 
-EMENTA: Conceitos centrais de marketing. Evolução do marketing. Tipos de marketing. Composto de marketing. Análise de ambiente interno e externo. Estratégias competitivas. Comportamento do consumidor e as estratégias de negócios. Processo de decisão de compra. Pirâmide de maslow. Pesquisa de mercado. Segmentação de mercado. Sistema de informação de 
+MACEDO, L. R.; D. CASTANHEIRA, N. P. Matemática Financeira Aplicada. Curitiba: InterSaberes, 2020.
 
-58 
+MULLER, A. N.; ANTONIK, L. R. Matemática Financeira: Instrumentos Financeiros para a tomada de decisão em Administração, Economia e Contabilidade. São Paulo: Saraiva, 2013.
 
-**==> picture [471 x 55] intentionally omitted <==**
+COMPONENTE CURRICULAR: Informática e Automação Comercial
 
-marketing - SIM BIBLIOGRAFIA BÁSICA: PAIXÃO, Márcia Valéria. **A influência do consumidor nas decisões de marketing** . Curitiba: Intersaberes, 2017. ANDRADE, **Carlos Frederico de. Marketing: o que é? Quem faz? Quais as tendências?** Curitiba: Intersaberes, 2015. GIACOMETTI, Henrique Brockett. **Ferramentas de marketing: do tradicional ao digital** . Curitiba: Intersaberes, 2020. BIBLIOGRAFIA COMPLEMENTAR: LAS CASAS, A.L. **Administração de marketing – conceitos, planejamento e aplicações à realidade brasileira** . São Paulo: Atlas, 2010. SANTINI, Fernando Roberto; LUDOVICO, Nelson. **Gestão de marketing: o plano de marketing como orientador das decisões.** São Paulo: Editora Saraiva, 2021. SAMARA, Beatriz S.; MORSCH, Marco A. **Comportamento do consumidor: conceitos e casos** . São Paulo: Practice Hall, 2005. REICHELT, Valesca Persch. **Fundamentos de marketing** . Curitiba: Intersaberes, 2013. 
+CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33
 
-COMPONENTE CURRICULAR: Gestão, Educação e Matemática Financeira CARGA HORÁRIA TOTAL: hora/aula: 80 e hora/relógio: 67 
+EMENTA: Introdução à Informática. Internet e Ferramentas Online. Softwares de produtividade: planilha eletrônica, editor de texto e editor de apresentação. Funcionalidades e características dos sistemas de automação comercial. Apresentações de sistemas de automação comercial: PDV, ERP, CRM. Segurança e Privacidade: Medidas de segurança e privacidade, proteção de dados de clientes e da empresa; conformidade com regulamentações e leis de privacidade de dados.
 
-EMENTA: Variações Percentuais; Variações Percentuais Sucessivas; Juro Composto; Desconto; Taxas Equivalentes; Anuidades; Sistemas de Amortização; Taxas reais e taxas aparentes. Séries de Pagamentos Uniformes. Valor Presente Líquido (VPL); Taxa Interna de Retorno (TIR); Índice de Lucratividade (IL); Introdução ao Mercado Financeiro. BIBLIOGRAFIA BÁSICA: ASSAF NETO, A. **Matemática financeira: uma abordagem prática.** 12. ed. São Paulo: Atlas, 2020. VIEIRA SOBRINHO, J. D. **Matemática financeira.** 5. ed. São Paulo: Atlas, 2017. 
+BIBLIOGRAFIA BÁSICA:
 
-59 
+LAUDON, Kenneth C.; LAUDON, Jane Price. **Sistemas de informação gerenciais.** 11. ed. São Paulo: Pearson Prentice Hall, 2011.
 
-**==> picture [471 x 55] intentionally omitted <==**
+NORTON, Peter. **Introdução à informática.** São Paulo: MaKron Books do Brasil, c1997.
 
-SAMANEZ, C. P. **Matemática financeira.** 7. ed. São Paulo: Pearson Prentice Hall, 2019. 
+REZENDE, Denis Alcides; ABREU. (Professora). **Tecnologia da informação aplicada a sistemas de informação empresariais:** o papel estratégico da informação e dos sistemas de informação nas empresas. 9. ed. rev. e ampl. São Paulo: Atlas, 2013.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-ASSAF NETO, A. Matemática Financeira: Objetiva e Aplicada. São Paulo: Atlas, 2019. 
+CORNACHIONE Jr., Edgard, B. **Informática para as áreas de contabilidade, administração e economia** . 3ª Ed. São Paulo. Atlas, 2012.
 
-DORNELAS, E. Matemática financeira fácil. 4. ed. São Paulo: Saraiva, 2018. 
+INGRACIO, Paulo Tadeu Peres. **OpenOffice** : fácil e prático. Rio de Janeiro: Ciência Moderna, 2006.
 
-MACEDO, L. R.; D. CASTANHEIRA, N. P. Matemática Financeira Aplicada. Curitiba: InterSaberes, 2020. 
+VELLOSO, Fernando de Castro. **Informática:** conceitos básicos. 8. ed. rev. e atual. Rio de Janeiro: Campus, 2011.
 
-MULLER, A. N.; ANTONIK, L. R. Matemática Financeira: Instrumentos Financeiros para a tomada de decisão em Administração, Economia e Contabilidade. São Paulo: Saraiva, 2013. 
+LAUDON, Kenneth C; LAUDON, Jane. **Sistemas de informação gerenciais.** Rio de Janeiro: Pearson: 2007.
 
-COMPONENTE CURRICULAR: Informática e Automação Comercial 
+COMPONENTE CURRICULAR: Métodos de técnicas de pesquisa CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33
 
-CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33 
+EMENTA: Conhecimento científico e tecnológico; Métodos e técnicas aplicadas à pesquisa científica e tecnológica; Finalidades e tipos de pesquisa científica; Técnicas de coleta de dados; Análise e interpretação de dados; Projeto de pesquisa. Normas técnicas para a elaboração de trabalhos científicos (ABNT); Plágio e suas implicações; Técnicas de oratória e elaboração de apresentações. BIBLIOGRAFIA BÁSICA: ANDRADE, Maria Margarida **. Introdução a Metodologia do Trabalho Científico** . 10ª Ed. São Paulo: Atlas, 2010. BARROS, Aidil Jesus da Silva e LEHFELD, Neide Aparecida de Souza. **Fundamentos de Metodologia Científica** . 3ª ed. São Paulo: Pearson Prentice Hall, 2007. MARCONI, Marina de Andrade; LAKATOS, Eva Maria. **Fundamentos da Metodologia Científic** a. 7ª Ed. São Paulo: Atlas, 2021. BIBLIOGRAFIA COMPLEMENTAR: CASTRO, Evandra Campos (org.). **Manual de normas para apresentação de trabalhos acadêmicos do Instituto Federal do Paraná: padrão ABNT** . Editora IFPR. Curitiba, 2023. CERVO, Amado Luiz; BERVIAN, Pedro Alcino; SILVA, Roberto. **Metodologia Científica** . 6ª ed. São Paulo: Pearson Prentice Hall, 2007. DEMO, P. **Pesquisa Princípio Científico e Educativo** . 14 ed. São Paulo: Cortez, 2011. FACHIN, Odília. **Fundamentos de metodologia: noções básicas em pesquisa científica** . São
 
-EMENTA: Introdução à Informática. Internet e Ferramentas Online. Softwares de produtividade: planilha eletrônica, editor de texto e editor de apresentação. Funcionalidades e características dos sistemas de automação comercial. Apresentações de sistemas de automação comercial: PDV, ERP, CRM. Segurança e Privacidade: Medidas de segurança e privacidade, proteção de dados de clientes e da empresa; conformidade com regulamentações e leis de privacidade de dados. 
+Paulo: Saraiva, 2017.
 
-BIBLIOGRAFIA BÁSICA: 
+TAVARES, Manoel. RICHARDSON, Roberto Jerry. **Metodologias qualitativas: teoria e prática** . São Paulo: Editora CRV, 2020.
 
-LAUDON, Kenneth C.; LAUDON, Jane Price. **Sistemas de informação gerenciais.** 11. ed. São Paulo: Pearson Prentice Hall, 2011. 
+## **2º Semestre**
 
-NORTON, Peter. **Introdução à informática.** São Paulo: MaKron Books do Brasil, c1997. 
+COMPONENTE CURRICULAR: Estatística aplicada
 
-REZENDE, Denis Alcides; ABREU. (Professora). **Tecnologia da informação aplicada a sistemas de informação empresariais:** o papel estratégico da informação e dos sistemas de informação nas empresas. 9. ed. rev. e ampl. São Paulo: Atlas, 2013. 
+CARGA HORÁRIA TOTAL: hora/aula: 40 e hora/relógio: 33
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+EMENTA: Estatística Descritiva e Indutiva: população e amostra; atributos e variáveis (nominal, ordinal, contínua e discreta); coleta de dados, amostragem, modo de apresentação dos dados (tabelas, diagramas e gráficos); distribuição de frequências simples e acumulada; medidas de tendência central e de dispersão. Associações de variáveis.
 
-CORNACHIONE Jr., Edgard, B. **Informática para as áreas de contabilidade, administração e economia** . 3ª Ed. São Paulo. Atlas, 2012. 
+BIBLIOGRAFIA BÁSICA:
 
-60 
+TRIOLA, Mario F. Introdução à estatística. Rio de Janeiro: LTC, 2018.
 
-**==> picture [471 x 55] intentionally omitted <==**
+MONTGOMERY, Douglas C.; RUNGER, George C. Estatística aplicada e probabilidade para engenheiros. Rio de Janeiro: LTC, 2016.
 
-INGRACIO, Paulo Tadeu Peres. **OpenOffice** : fácil e prático. Rio de Janeiro: Ciência Moderna, 2006. 
+MAGALHÃES, Marcos Nascimento; LIMA, Antonio Carlos Pedroso de. Noções de probabilidade e estatística. São Paulo: EDUSP, 2019.
 
-VELLOSO, Fernando de Castro. **Informática:** conceitos básicos. 8. ed. rev. e atual. Rio de Janeiro: Campus, 2011. 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-LAUDON, Kenneth C; LAUDON, Jane. **Sistemas de informação gerenciais.** Rio de Janeiro: Pearson: 2007. 
+MORETTIN, Pedro Alberto; BUSSAB, Wilton de O. Estatística básica. São Paulo: Saraiva, 2017.
 
-COMPONENTE CURRICULAR: Métodos de técnicas de pesquisa CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33 
+LEVIN, Jack. Estatística aplicada a ciências humanas. São Paulo: Bookman, 2016.
 
-EMENTA: Conhecimento científico e tecnológico; Métodos e técnicas aplicadas à pesquisa científica e tecnológica; Finalidades e tipos de pesquisa científica; Técnicas de coleta de dados; Análise e interpretação de dados; Projeto de pesquisa. Normas técnicas para a elaboração de trabalhos científicos (ABNT); Plágio e suas implicações; Técnicas de oratória e elaboração de apresentações. BIBLIOGRAFIA BÁSICA: ANDRADE, Maria Margarida **. Introdução a Metodologia do Trabalho Científico** . 10ª Ed. São Paulo: Atlas, 2010. BARROS, Aidil Jesus da Silva e LEHFELD, Neide Aparecida de Souza. **Fundamentos de Metodologia Científica** . 3ª ed. São Paulo: Pearson Prentice Hall, 2007. MARCONI, Marina de Andrade; LAKATOS, Eva Maria. **Fundamentos da Metodologia Científic** a. 7ª Ed. São Paulo: Atlas, 2021. BIBLIOGRAFIA COMPLEMENTAR: CASTRO, Evandra Campos (org.). **Manual de normas para apresentação de trabalhos acadêmicos do Instituto Federal do Paraná: padrão ABNT** . Editora IFPR. Curitiba, 2023. CERVO, Amado Luiz; BERVIAN, Pedro Alcino; SILVA, Roberto. **Metodologia Científica** . 6ª ed. São Paulo: Pearson Prentice Hall, 2007. DEMO, P. **Pesquisa Princípio Científico e Educativo** . 14 ed. São Paulo: Cortez, 2011. FACHIN, Odília. **Fundamentos de metodologia: noções básicas em pesquisa científica** . São 
+BARBETTA, Pedro Alberto; REIS, Marcelo Menezes; BORNIA, Antonio Cezar. Estatística para cursos de engenharia e informática. São Paulo: Atlas, 2017.
 
-61 
+STEVENSON, William J. Estatística aplicada à administração. São Paulo: Harbra, 2019.
 
-**==> picture [471 x 55] intentionally omitted <==**
+COMPONENTE CURRICULAR: Marketing de relacionamento
 
-Paulo: Saraiva, 2017. 
+CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33
 
-TAVARES, Manoel. RICHARDSON, Roberto Jerry. **Metodologias qualitativas: teoria e prática** . São Paulo: Editora CRV, 2020. 
+Carga horária de extensão: Hora/relógio - 25
 
-## **2º Semestre** 
+EMENTA: Os princípios básicos do marketing de relacionamento; Aplicações e programas de marketing de relacionamento. Estratégias básicas de marketing de relacionamento; Planejamento de marketing de relacionamento; Programas de marketing de relacionamento: Implementação e gerenciamento; Evolução dos conceitos do Marketing de relacionamento; Relacionamento com mercado consumidor. Conceitos de CRM. Tipos de aplicação de CRM. As 8 etapas da implementação do CRM. LTV - Lifetime Value. Informações, banco de dados e CRM (Customer Relationship Management); Relacionamento, CRM e programas de fidelidade.
 
-COMPONENTE CURRICULAR: Estatística aplicada 
+Atividades de extensão: Os alunos buscarão uma empresa fidedigna para realizar uma pesquisa de marketing, buscando analisar a satisfação dos clientes em relação ao atendimento prestado pela empresa. O trabalho será apresentado em sala de aula e posteriormente encaminhado os resultados para a empresa pesquisada.
 
-CARGA HORÁRIA TOTAL: hora/aula: 40 e hora/relógio: 33 
+BIBLIOGRAFIA BÁSICA: ALVES, Elizeu Barroso; Barbosa, Mariana Monfort; ROLON, Vanessa Estela Ktovicz. **Marketing de relacionamento: como construir e manter relacionamentos lucrativos?** Curitiba: Intersaberes, 2016. ALVES, Elizeu Barroso; FERREIRA JUNIOR, Achiles Batista; ROLON, Vanessa Estela Kotovicz. **Marketing de relacionamento: nós vemos marketing em tudo, e você** ? Curitiba: Intersaberes, 2023. OLIVEIRA, Daniele Melo. Marketing Estratégico. Curitiba: Intersaberes, 2021. ZENONE, Luis Claudio. **CRM (customer Relationship Management): marketing de relacionamento, fidelização de clientes e pós-vendas** . São Paulo: Aldemina, 2019. BIBLIOGRAFIA COMPLEMENTAR: BARRETO, Iná Futin; CRESCITELLI, Edson. Marketing de Relacionamento: Como Implantar e Avaliar Resultados. Rio de Janeiro: Pearson, 2013. DAMIN, Hiram B. **Customer success: o sucesso das empresas focadas em clientes.** São Paulo: DVS Editora, 2019.
 
-EMENTA: Estatística Descritiva e Indutiva: população e amostra; atributos e variáveis (nominal, ordinal, contínua e discreta); coleta de dados, amostragem, modo de apresentação dos dados (tabelas, diagramas e gráficos); distribuição de frequências simples e acumulada; medidas de tendência central e de dispersão. Associações de variáveis. 
+MADRUGA, Roberto. **Guia de Implantação de Marketing de Relacionamento e CRM** . São Paulo, Atlas, 2010.
 
-BIBLIOGRAFIA BÁSICA: 
+SILVA, Fabio Gomes; ZAMBON, Marcelo Socorro. **Gestão do relacionamento com o cliente** . Rio de Janeiro: Cengage, 2014.
 
-TRIOLA, Mario F. Introdução à estatística. Rio de Janeiro: LTC, 2018. 
+COMPONENTE CURRICULAR: Direito do trabalho CARGA HORÁRIA TOTAL: Hora/aula - 80 e Hora/relógio - 67 EMENTA: Direito do Trabalho: Noções gerais, histórico, conceito, divisão e fontes. Análise do Direito do Trabalho a partir das alterações paradigmáticas da compreensão contemporânea em relação a Constituição, os princípios gerais do direito e a jurisprudência. Direito individual do trabalho: Empregado e empregador; contrato de trabalho; forma de extinção do contrato de trabalho; a estabilidade; o fundo de garantia por tempo de serviço; salário e remuneração; a duração do contrato de trabalho; regulamentações especiais de trabalho; garantias de emprego; extinção do Contrato de trabalho. Noções de Processo do Trabalho. BIBLIOGRAFIA BÁSICA: CARRION. Valentin. **Comentários à Consolidação das Leis do Trabalhistas: legislação complementar - jurisprudência** . 45ª. ed. São Paulo: Saraiva Educação, 2021. LEITE,Carlos Henrique Bezerra. **Curso de direito do trabalho** . - 13. ed. - São Paulo: Saraiva Educação, 2021. MARTINS, Sérgio Pinto. **Manual de direito do trabalho** . - 14. ed. -São Paulo: Saraiva Educação, 2021. BIBLIOGRAFIA COMPLEMENTAR: BOMFIM, Vólia. **Direito do Trabalho: de acordo com a reforma trabalhista** . - 18. ed. - Rio de Janeiro: Forense;Método,2021. CAIRO JR, José. **Curso de direito do trabalho** . - 17.ed.rev. e atual. - Salvador: Ed. JusPodivm,2021. ROMAR, Carla Teresa Martins. **Direito do Trabalho Esquematizado** . Coord: Pedro Lenza. - 8. ed. -São Paulo: Saraiva Juridicos, 2022.
 
-MONTGOMERY, Douglas C.; RUNGER, George C. Estatística aplicada e probabilidade para engenheiros. Rio de Janeiro: LTC, 2016. 
+MARTINEZ, Luciano. **Curso de direito do trabalho** - 14ª edição. São Paulo: Editora Saraiva, 2023.
 
-MAGALHÃES, Marcos Nascimento; LIMA, Antonio Carlos Pedroso de. Noções de probabilidade e estatística. São Paulo: EDUSP, 2019. 
+COMPONENTE CURRICULAR: Comércio eletrônico e mídias digitais
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33
 
-MORETTIN, Pedro Alberto; BUSSAB, Wilton de O. Estatística básica. São Paulo: Saraiva, 2017. 
+EMENTA: Comércio eletrônico: conceitos e características. Tecnologias de suporte para o comércio eletrônico: Web, IP, domínio e imagens. Projeto de sites de comércio eletrônico: principais desafios, possibilidades e exemplos práticos. Casos de sucesso no cenário de comércio eletrônico brasileiro e mundial. Marketing Digital: definição e principais conceitos. Evolução do marketing digital. Ferramentas tecnológicas para construção de persona: pesquisa e análise de dados. Marketing de conteúdo. Otimização para SEO. Landing pages e otimização CRO. Marketing digital nas redes sociais mais utilizadas no Brasil. Legislação voltada ao tratamento de dados no âmbito de Tecnologia da Informação. Casos de sucesso no cenário de marketing digital brasileiro e mundial. Sistemas integrados ERP – CRM – SCM
 
-LEVIN, Jack. Estatística aplicada a ciências humanas. São Paulo: Bookman, 2016. 
+BIBLIOGRAFIA BÁSICA:
 
-BARBETTA, Pedro Alberto; REIS, Marcelo Menezes; BORNIA, Antonio Cezar. Estatística para cursos de engenharia e informática. São Paulo: Atlas, 2017. 
+COSTA, Gilberto Cézar Gutierrez. **Negócios Eletrônicos: uma abordagem estratégica gerencial.** Curitiba: Intersaberes, 2014.
 
-STEVENSON, William J. Estatística aplicada à administração. São Paulo: Harbra, 2019. 
+COSTA, Camila Gino Almeida. **Gestão de mídias sociais** . Curitiba: Intersaberes, 2017.
 
-62 
+FAUSTINO, Paulo. **Marketing Digital na Prática: Como criar do zero uma estratégia de marketing digital para promover negócios ou produtos** . 3ª edição. São Paulo: DVS Editora, 2019.
 
-**==> picture [471 x 55] intentionally omitted <==**
+FRANCISCO, Luciano F. C.; LAUDON, Jane P. **Comércio eletrônico e mídias digitais.** Curitiba: Contentus, 2020.
 
-COMPONENTE CURRICULAR: Marketing de relacionamento 
+LAUDON, Kenneth C.; LAUDON, Jane P. **Sistemas de Informações gerenciais** . 11ª edição. São Paulo: Pearson Education do Brasil, 2014.
 
-CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-Carga horária de extensão: Hora/relógio - 25 
+BAZZIO, A. C. **E-commerce: o avanço tecnológico e as relações consumidor-fornecedor** . Curitiba: InterSaberes, 2022.
 
-EMENTA: Os princípios básicos do marketing de relacionamento; Aplicações e programas de marketing de relacionamento. Estratégias básicas de marketing de relacionamento; Planejamento de marketing de relacionamento; Programas de marketing de relacionamento: Implementação e gerenciamento; Evolução dos conceitos do Marketing de relacionamento; Relacionamento com mercado consumidor. Conceitos de CRM. Tipos de aplicação de CRM. As 8 etapas da implementação do CRM. LTV - Lifetime Value. Informações, banco de dados e CRM (Customer Relationship Management); Relacionamento, CRM e programas de fidelidade. 
+FERREIRA JUNIOR, Achiles B.; AZEVEDO, Ney Q. de. **Marketing digital: uma análise do mercado 3.0.** Curitiba: InterSaberes, 2015.
 
-Atividades de extensão: Os alunos buscarão uma empresa fidedigna para realizar uma pesquisa de marketing, buscando analisar a satisfação dos clientes em relação ao atendimento prestado pela empresa. O trabalho será apresentado em sala de aula e posteriormente encaminhado os resultados para a empresa pesquisada. 
+GIACOMETTI, Henrique H. **Ferramentas de marketing digital** . Curitiba: Contentus, 2020.
 
-BIBLIOGRAFIA BÁSICA: ALVES, Elizeu Barroso; Barbosa, Mariana Monfort; ROLON, Vanessa Estela Ktovicz. **Marketing de relacionamento: como construir e manter relacionamentos lucrativos?** Curitiba: Intersaberes, 2016. ALVES, Elizeu Barroso; FERREIRA JUNIOR, Achiles Batista; ROLON, Vanessa Estela Kotovicz. **Marketing de relacionamento: nós vemos marketing em tudo, e você** ? Curitiba: Intersaberes, 2023. OLIVEIRA, Daniele Melo. Marketing Estratégico. Curitiba: Intersaberes, 2021. ZENONE, Luis Claudio. **CRM (customer Relationship Management): marketing de relacionamento, fidelização de clientes e pós-vendas** . São Paulo: Aldemina, 2019. BIBLIOGRAFIA COMPLEMENTAR: BARRETO, Iná Futin; CRESCITELLI, Edson. Marketing de Relacionamento: Como Implantar e Avaliar Resultados. Rio de Janeiro: Pearson, 2013. DAMIN, Hiram B. **Customer success: o sucesso das empresas focadas em clientes.** São Paulo: DVS Editora, 2019. 
+STEFANO, Nara.; ZATAR, Izabel C. **E-commerce: conceitos, implementação e gestão.** Curitiba: Intersaberes, 2016.
 
-63 
+COMPONENTE CURRICULAR: Empreendedorismo CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33
 
-**==> picture [471 x 55] intentionally omitted <==**
+EMENTA: Empreendedorismo: conceitos, características e habilidades empreendedoras. Empreendedorismo como ferramenta de gestão. Identificação e avaliação de oportunidades de negócios e criação de novas empresas. Estudo dos tipos de negócios e de modelos de negócio. Conceitos e aplicações de planos de negócios. Gestão do ciclo de vida das empresas, incluindo o processo de crescimento e expansão. Abordagem prática por meio de estudos de caso e projetos aplicados. Gestão estratégica de empresas nascentes. Inovação e criatividade empreendedora. Desenvolvimento de competências empreendedoras. BIBLIOGRAFIA BÁSICA: DORNELAS, J. C. A. **Empreendedorismo: transformando ideias em negócios.** Elsevier, 2019. FERREIRA, J. L.; FERNANDES, C. **Empreendedorismo criativo: como desenvolver negócios inovadores em economias emergentes** . Atlas, 2018. TIDD, J., BESSANT, J.; PAVITT, K. **Gestão da inovação e empreendedorismo** . Bookman, 2018. KIM, W. C.; MAUBORGNE, R. **A estratégia do oceano azul: como criar novos mercados e tornar a concorrência irrelevante** . HSM Editora, 2018. BIBLIOGRAFIA COMPLEMENTAR: DRUCKER, P. F. **Inovação e espírito empreendedor: práticas e princípios** . 10ª ed. São Paulo: Pioneira Thomson Learning, 2018. FILION, L. J. **Empreendedorismo: conceitos, processos e práticas** . Porto Alegre: Bookman,
 
-MADRUGA, Roberto. **Guia de Implantação de Marketing de Relacionamento e CRM** . São Paulo, Atlas, 2010. 
+2019.
 
-SILVA, Fabio Gomes; ZAMBON, Marcelo Socorro. **Gestão do relacionamento com o cliente** . Rio de Janeiro: Cengage, 2014. 
+GOUILLART, F. J.; KELLY, J. **Planejamento Estratégico para Empreendedores.** Porto Alegre: Bookman, 2019.
 
-COMPONENTE CURRICULAR: Direito do trabalho CARGA HORÁRIA TOTAL: Hora/aula - 80 e Hora/relógio - 67 EMENTA: Direito do Trabalho: Noções gerais, histórico, conceito, divisão e fontes. Análise do Direito do Trabalho a partir das alterações paradigmáticas da compreensão contemporânea em relação a Constituição, os princípios gerais do direito e a jurisprudência. Direito individual do trabalho: Empregado e empregador; contrato de trabalho; forma de extinção do contrato de trabalho; a estabilidade; o fundo de garantia por tempo de serviço; salário e remuneração; a duração do contrato de trabalho; regulamentações especiais de trabalho; garantias de emprego; extinção do Contrato de trabalho. Noções de Processo do Trabalho. BIBLIOGRAFIA BÁSICA: CARRION. Valentin. **Comentários à Consolidação das Leis do Trabalhistas: legislação complementar - jurisprudência** . 45ª. ed. São Paulo: Saraiva Educação, 2021. LEITE,Carlos Henrique Bezerra. **Curso de direito do trabalho** . - 13. ed. - São Paulo: Saraiva Educação, 2021. MARTINS, Sérgio Pinto. **Manual de direito do trabalho** . - 14. ed. -São Paulo: Saraiva Educação, 2021. BIBLIOGRAFIA COMPLEMENTAR: BOMFIM, Vólia. **Direito do Trabalho: de acordo com a reforma trabalhista** . - 18. ed. - Rio de Janeiro: Forense;Método,2021. CAIRO JR, José. **Curso de direito do trabalho** . - 17.ed.rev. e atual. - Salvador: Ed. JusPodivm,2021. ROMAR, Carla Teresa Martins. **Direito do Trabalho Esquematizado** . Coord: Pedro Lenza. - 8. ed. -São Paulo: Saraiva Juridicos, 2022. 
+SALMEN, Israel; MARQUES, Lucas. **Empreender: a arte de se foder todos os dias e não desistir: uma manual de sobrevivência para o mundo real do empreendedorismo** . São Paulo: Editora Gente, 2021.
 
-64 
+REIS, E. **Startups: guia completo** . São Paulo: Évora, 2018.
 
-**==> picture [471 x 55] intentionally omitted <==**
+COMPONENTE CURRICULAR: Análise econômica de mercado
 
-MARTINEZ, Luciano. **Curso de direito do trabalho** - 14ª edição. São Paulo: Editora Saraiva, 2023. 
+CARGA HORÁRIA TOTAL: Hora/aula - 40h e Hora/relógio - 33h
 
-COMPONENTE CURRICULAR: Comércio eletrônico e mídias digitais 
+EMENTA: Fundamentos e conceitos econômicos básicos; Descrição dos fatores de produção; Microeconomia (demanda, oferta, equilíbrio de mercado, elasticidade e estruturas de mercado); Macroeconomia (renda e produto nacional, política monetária, política de câmbio, política de inflação e política externa); Reflexão sobre economia internacional; Contextualização, reflexão e análise crítica da economia brasileira
 
-CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33 
+BIBLIOGRAFIA BÁSICA:
 
-EMENTA: Comércio eletrônico: conceitos e características. Tecnologias de suporte para o comércio eletrônico: Web, IP, domínio e imagens. Projeto de sites de comércio eletrônico: principais desafios, possibilidades e exemplos práticos. Casos de sucesso no cenário de comércio eletrônico brasileiro e mundial. Marketing Digital: definição e principais conceitos. Evolução do marketing digital. Ferramentas tecnológicas para construção de persona: pesquisa e análise de dados. Marketing de conteúdo. Otimização para SEO. Landing pages e otimização CRO. Marketing digital nas redes sociais mais utilizadas no Brasil. Legislação voltada ao tratamento de dados no âmbito de Tecnologia da Informação. Casos de sucesso no cenário de marketing digital brasileiro e mundial. Sistemas integrados ERP – CRM – SCM 
+PASSOS, Carlos; NOGAMI, Otto. **Princípios de economia** . São Paulo: Cengage, 2016. ROSSETI, J. P. **Introdução à Economia** . 21ª ed. São Paulo: Atlas, 2016.
 
-BIBLIOGRAFIA BÁSICA: 
+VASCONCELLOS, M. A. GARCIA, M. E. **Fundamentos de economia** . 2ª ed. São Paulo: Saraiva, 2018.
 
-COSTA, Gilberto Cézar Gutierrez. **Negócios Eletrônicos: uma abordagem estratégica gerencial.** Curitiba: Intersaberes, 2014. 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-COSTA, Camila Gino Almeida. **Gestão de mídias sociais** . Curitiba: Intersaberes, 2017. 
+ABREU, Margarida; AFONSO, Antonio; ESCANIA, Vitor; FERREIRA, Candida. **Economia monetária e financeira** . São Paulo: Escolar Editora, 2012.
 
-FAUSTINO, Paulo. **Marketing Digital na Prática: Como criar do zero uma estratégia de marketing digital para promover negócios ou produtos** . 3ª edição. São Paulo: DVS Editora, 2019. 
+DORNBUSCH, Rudiger; FISCHER, Stanley.; STARTZ, Richard. **Macroeconomia** .11ª ed. São Paulo: McGraw - Hill, 2013.
 
-FRANCISCO, Luciano F. C.; LAUDON, Jane P. **Comércio eletrônico e mídias digitais.** Curitiba: Contentus, 2020. 
+GIAMBIAGI, Fabio; CASTRO, Lavinia Barros de; VILLELA, Andre Arruda; HERMANN,
 
-LAUDON, Kenneth C.; LAUDON, Jane P. **Sistemas de Informações gerenciais** . 11ª edição. São Paulo: Pearson Education do Brasil, 2014. 
+Jennifer. **Economia brasileira contemporânea** . 3ª ed. São Paulo: Atlas, 2016.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+MAIA, Jayme. Maia. **Economia internacional e comércio exterior.** 16ª ed. São Paulo: Atlas, 2014.
 
-BAZZIO, A. C. **E-commerce: o avanço tecnológico e as relações consumidor-fornecedor** . Curitiba: InterSaberes, 2022. 
+MANKIW, N. Gregory. **Princípios de microeconomia** . São Paulo: Cengage, 2021.
 
-65 
+COMPONENTE CURRICULAR: Gestão da informação, comunicação e documentação
 
-**==> picture [471 x 55] intentionally omitted <==**
+CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33
 
-FERREIRA JUNIOR, Achiles B.; AZEVEDO, Ney Q. de. **Marketing digital: uma análise do mercado 3.0.** Curitiba: InterSaberes, 2015. 
+EMENTA: Gestão da informação. Importância da informação no planejamento estratégico empresarial. Diferenciação de informação e conhecimento. Conhecimento tácito e explícito. Fluxo Informacional. História da comunicação. Linguagem e comunicação. Comunicação interna e externa. O que é comunicação. Processo de comunicação. Tipos de comunicação dentro da empresa. Barreiras na comunicação. Comunicação integrada. Comunicação via e-mail. Comunicação na era Digital. Comunicação empresarial e oficial. Documentos de arquivo. Tipos de arquivamento. Equipamentos de arquivamento. Microfilmagem. Tabela de temporalidade. Gerenciamento Eletrônico de documentos.
 
-GIACOMETTI, Henrique H. **Ferramentas de marketing digital** . Curitiba: Contentus, 2020. 
+BIBLIOGRAFIA BÁSICA:
 
-STEFANO, Nara.; ZATAR, Izabel C. **E-commerce: conceitos, implementação e gestão.** Curitiba: Intersaberes, 2016. 
+PAES, Marilena L. **Arquivo: teoria e prática** . Rio de Janeiro: FGV, 2008.
 
-COMPONENTE CURRICULAR: Empreendedorismo CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33 
+FERREIRA, Patricia Itala; MALHEIROS, Gustavo. **Comunicação empresarial: planejamento, aplicação e resultados.** São Paulo: Atlas, 2017. PORTELA, K. C. A; BRAUER, K. C.; SCHUMACHER, A. J. **Comunicação Institucional** . Editora LT, 2015.
 
-EMENTA: Empreendedorismo: conceitos, características e habilidades empreendedoras. Empreendedorismo como ferramenta de gestão. Identificação e avaliação de oportunidades de negócios e criação de novas empresas. Estudo dos tipos de negócios e de modelos de negócio. Conceitos e aplicações de planos de negócios. Gestão do ciclo de vida das empresas, incluindo o processo de crescimento e expansão. Abordagem prática por meio de estudos de caso e projetos aplicados. Gestão estratégica de empresas nascentes. Inovação e criatividade empreendedora. Desenvolvimento de competências empreendedoras. BIBLIOGRAFIA BÁSICA: DORNELAS, J. C. A. **Empreendedorismo: transformando ideias em negócios.** Elsevier, 2019. FERREIRA, J. L.; FERNANDES, C. **Empreendedorismo criativo: como desenvolver negócios inovadores em economias emergentes** . Atlas, 2018. TIDD, J., BESSANT, J.; PAVITT, K. **Gestão da inovação e empreendedorismo** . Bookman, 2018. KIM, W. C.; MAUBORGNE, R. **A estratégia do oceano azul: como criar novos mercados e tornar a concorrência irrelevante** . HSM Editora, 2018. BIBLIOGRAFIA COMPLEMENTAR: DRUCKER, P. F. **Inovação e espírito empreendedor: práticas e princípios** . 10ª ed. São Paulo: Pioneira Thomson Learning, 2018. FILION, L. J. **Empreendedorismo: conceitos, processos e práticas** . Porto Alegre: Bookman, 
+GROSSI, Samantha Rodrigues Barbosa. **Comunicação organizacional no serviço público** . São Paulo: Editora Dialética, 2022.
 
-66 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-**==> picture [471 x 55] intentionally omitted <==**
+DE SORDI. José Osvaldo. **Administração da informação: fundamentos e práticas para uma nova gestão do conhecimento** . São Paulo: Saraiva, 2015.
 
-2019. 
+ELEUTERIO, M. A. M. **Sistemas de informações gerenciais na atualidade** . 1. ed. Curitiba: Intersaberes, 2015
 
-GOUILLART, F. J.; KELLY, J. **Planejamento Estratégico para Empreendedores.** Porto Alegre: Bookman, 2019. 
+LUIZARI, Katia. **Comunicação empresarial eficaz: como falar e escrever bem** . Curitiba: Intersaberes, 2013. MUNHOZ, A. S. **Sistemas de Informações Gerenciais na gestão de pessoas** . 1. ed. Curitiba: Intersaberes, 2017. PIMENTEL, Marina de Oliveira. **Em pauta: manual prático da comunicação organizacional.** Curitiba: Intersaberes, 2017. VALENTIM, Marta. **Gestão, mediação e uso da informação** . São Paulo: Cultura Acadêmica, 2010. YANAZE, Mitsuru Higuchi. **Gestão de marketing e comunicação** . São Paulo: Saraiva, 2012. MCGEE, James; PRUSAK, Laurence. **Gerenciamento estratégico da informação** . São Paulo: Campus, 2010.
 
-SALMEN, Israel; MARQUES, Lucas. **Empreender: a arte de se foder todos os dias e não desistir: uma manual de sobrevivência para o mundo real do empreendedorismo** . São Paulo: Editora Gente, 2021. 
+COMPONENTE CURRICULAR: Introdução à contabilidade CARGA HORÁRIA TOTAL: Hora/aula - 80 e Hora/relógio - 67
 
-REIS, E. **Startups: guia completo** . São Paulo: Évora, 2018. 
-
-COMPONENTE CURRICULAR: Análise econômica de mercado 
-
-CARGA HORÁRIA TOTAL: Hora/aula - 40h e Hora/relógio - 33h 
-
-EMENTA: Fundamentos e conceitos econômicos básicos; Descrição dos fatores de produção; Microeconomia (demanda, oferta, equilíbrio de mercado, elasticidade e estruturas de mercado); Macroeconomia (renda e produto nacional, política monetária, política de câmbio, política de inflação e política externa); Reflexão sobre economia internacional; Contextualização, reflexão e análise crítica da economia brasileira 
-
-BIBLIOGRAFIA BÁSICA: 
-
-PASSOS, Carlos; NOGAMI, Otto. **Princípios de economia** . São Paulo: Cengage, 2016. ROSSETI, J. P. **Introdução à Economia** . 21ª ed. São Paulo: Atlas, 2016. 
-
-VASCONCELLOS, M. A. GARCIA, M. E. **Fundamentos de economia** . 2ª ed. São Paulo: Saraiva, 2018. 
-
-BIBLIOGRAFIA COMPLEMENTAR: 
-
-ABREU, Margarida; AFONSO, Antonio; ESCANIA, Vitor; FERREIRA, Candida. **Economia monetária e financeira** . São Paulo: Escolar Editora, 2012. 
-
-DORNBUSCH, Rudiger; FISCHER, Stanley.; STARTZ, Richard. **Macroeconomia** .11ª ed. São Paulo: McGraw - Hill, 2013. 
-
-GIAMBIAGI, Fabio; CASTRO, Lavinia Barros de; VILLELA, Andre Arruda; HERMANN, 
-
-67 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-Jennifer. **Economia brasileira contemporânea** . 3ª ed. São Paulo: Atlas, 2016. 
-
-MAIA, Jayme. Maia. **Economia internacional e comércio exterior.** 16ª ed. São Paulo: Atlas, 2014. 
-
-MANKIW, N. Gregory. **Princípios de microeconomia** . São Paulo: Cengage, 2021. 
-
-COMPONENTE CURRICULAR: Gestão da informação, comunicação e documentação 
-
-CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33 
-
-EMENTA: Gestão da informação. Importância da informação no planejamento estratégico empresarial. Diferenciação de informação e conhecimento. Conhecimento tácito e explícito. Fluxo Informacional. História da comunicação. Linguagem e comunicação. Comunicação interna e externa. O que é comunicação. Processo de comunicação. Tipos de comunicação dentro da empresa. Barreiras na comunicação. Comunicação integrada. Comunicação via e-mail. Comunicação na era Digital. Comunicação empresarial e oficial. Documentos de arquivo. Tipos de arquivamento. Equipamentos de arquivamento. Microfilmagem. Tabela de temporalidade. Gerenciamento Eletrônico de documentos. 
-
-BIBLIOGRAFIA BÁSICA: 
-
-PAES, Marilena L. **Arquivo: teoria e prática** . Rio de Janeiro: FGV, 2008. 
-
-FERREIRA, Patricia Itala; MALHEIROS, Gustavo. **Comunicação empresarial: planejamento, aplicação e resultados.** São Paulo: Atlas, 2017. PORTELA, K. C. A; BRAUER, K. C.; SCHUMACHER, A. J. **Comunicação Institucional** . Editora LT, 2015. 
-
-GROSSI, Samantha Rodrigues Barbosa. **Comunicação organizacional no serviço público** . São Paulo: Editora Dialética, 2022. 
-
-BIBLIOGRAFIA COMPLEMENTAR: 
-
-DE SORDI. José Osvaldo. **Administração da informação: fundamentos e práticas para uma nova gestão do conhecimento** . São Paulo: Saraiva, 2015. 
-
-ELEUTERIO, M. A. M. **Sistemas de informações gerenciais na atualidade** . 1. ed. Curitiba: Intersaberes, 2015 
-
-68 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-LUIZARI, Katia. **Comunicação empresarial eficaz: como falar e escrever bem** . Curitiba: Intersaberes, 2013. MUNHOZ, A. S. **Sistemas de Informações Gerenciais na gestão de pessoas** . 1. ed. Curitiba: Intersaberes, 2017. PIMENTEL, Marina de Oliveira. **Em pauta: manual prático da comunicação organizacional.** Curitiba: Intersaberes, 2017. VALENTIM, Marta. **Gestão, mediação e uso da informação** . São Paulo: Cultura Acadêmica, 2010. YANAZE, Mitsuru Higuchi. **Gestão de marketing e comunicação** . São Paulo: Saraiva, 2012. MCGEE, James; PRUSAK, Laurence. **Gerenciamento estratégico da informação** . São Paulo: Campus, 2010. 
-
-COMPONENTE CURRICULAR: Introdução à contabilidade CARGA HORÁRIA TOTAL: Hora/aula - 80 e Hora/relógio - 67 
-
-**==> picture [477 x 284] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
 ||||||
 |---|---|---|---|---|
 |EMENTA: Noções de Contabilidade. Conceito, Objeto, Objetivo, Finalidade, Técnicas contábeis|
@@ -1671,1052 +1346,845 @@ COMPONENTE CURRICULAR: Introdução à contabilidade CARGA HORÁRIA TOTAL: Hora/
 |NEVES, Silvério das; VICECONTI, Paulo Eduardo V.|Contabilidade Avançada e Análise das|
 |demonstrações financeiras|. São Paulo: Saraiva, 2018.|
 
-**----- End of picture text -----**<br>
+RIBEIRO, Osni Moura. **Contabilidade Geral** . São Paulo: Saraiva, 2017.
 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-69 
+SANDE, Silvio; NEIVA, André. **Contabilidade geral e avançada** . São Paulo: Editora Método, 2020.
 
-**==> picture [471 x 55] intentionally omitted <==**
+MARION, José Carlos. **Contabilidade Empresarial e gerencial.** 19ª ed. São Paulo: Atlas, 2022.
 
-RIBEIRO, Osni Moura. **Contabilidade Geral** . São Paulo: Saraiva, 2017. 
+MONTOTO, Eugenio. **Contabilidade geral esquematizado.** São Paulo: Saraiva, 2018.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+PINTO, Maikol Nascimento; VASQUEZ, Selma Culturati. **Contabilidade Geral: fundamentos e práticas.** São Paulo: Érica, 2019.
 
-SANDE, Silvio; NEIVA, André. **Contabilidade geral e avançada** . São Paulo: Editora Método, 2020. 
+## **3º Semestre**
 
-MARION, José Carlos. **Contabilidade Empresarial e gerencial.** 19ª ed. São Paulo: Atlas, 2022. 
+COMPONENTE CURRICULAR: Marketing de eventos
 
-MONTOTO, Eugenio. **Contabilidade geral esquematizado.** São Paulo: Saraiva, 2018. 
+CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33
 
-PINTO, Maikol Nascimento; VASQUEZ, Selma Culturati. **Contabilidade Geral: fundamentos e práticas.** São Paulo: Érica, 2019. 
+Carga horária de extensão: Hora/relógio - 33
 
-## **3º Semestre** 
+EMENTA: O que é marketing de eventos? Como usar o marketing de eventos para promover a empresa. Uso do evento para promover uma marca. Definição de eventos. História de eventos. Tipologia de eventos. Como promover e organizar eventos empresariais e institucionais; Planejamento de eventos; Organização; Cerimonial e protocolo; Símbolos Nacionais; Ordem de Precedência.
 
-COMPONENTE CURRICULAR: Marketing de eventos 
+Atividades de extensão: Os alunos ficarão responsáveis em realizar o evento do curso, sendo o Seminário de Gestão Comercial ou o Congresso Internacional de Gestão Comercial. Os alunos deverão escrever o projeto conforme os conteúdos aprendidos em sala de aula. Posteriormente, entrarão em contato com profissionais para ministrarem palestras ou cursos em um dos eventos. Terão que visitar empresas do comércio local buscando patrocínio para a realização do evento gratuito ofertado para a comunidade local.
 
-CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33 
+BIBLIOGRAFIA BÁSICA:
 
-Carga horária de extensão: Hora/relógio - 33 
+GIACAGLIA, Maria Cecília. **Gestão estratégica de eventos** . São Paulo: Cengage, 2010.
 
-EMENTA: O que é marketing de eventos? Como usar o marketing de eventos para promover a empresa. Uso do evento para promover uma marca. Definição de eventos. História de eventos. Tipologia de eventos. Como promover e organizar eventos empresariais e institucionais; Planejamento de eventos; Organização; Cerimonial e protocolo; Símbolos Nacionais; Ordem de Precedência. 
+MELO NETO, Francisco Paulo. **Marketing de eventos.** São Paulo: Sprint,
 
-Atividades de extensão: Os alunos ficarão responsáveis em realizar o evento do curso, sendo o Seminário de Gestão Comercial ou o Congresso Internacional de Gestão Comercial. Os alunos deverão escrever o projeto conforme os conteúdos aprendidos em sala de aula. Posteriormente, entrarão em contato com profissionais para ministrarem palestras ou cursos em um dos eventos. Terão que visitar empresas do comércio local buscando patrocínio para a realização do evento gratuito ofertado para a comunidade local. 
+2007.
 
-BIBLIOGRAFIA BÁSICA: 
+PORTELA, Keyla Christina Almeida Portela; Schumacher, Alexandre José. **Cerimonial e Protocolo** . Curitiba: Editora Lt, 2015.
 
-GIACAGLIA, Maria Cecília. **Gestão estratégica de eventos** . São Paulo: Cengage, 2010. 
+TORRES, Marcelo Augusto. **Gestão e produção de eventos: da ideia à avaliação.** São Paulo: Editora Appris, 2021.
 
-MELO NETO, Francisco Paulo. **Marketing de eventos.** São Paulo: Sprint, 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-70 
+CZAJKOWSKI, Adriana; CZAJKOWSKI JUNIOR, Sergio. **Eventos: uma estratégia baseada em experiências.** Curitiba: Intersaberes, 2017.
 
-**==> picture [471 x 55] intentionally omitted <==**
+MARTIN, Vanessa. **Manual Prático de Eventos** . São Paulo, SP: GEN LTC, 2014.
 
-2007. 
+OLIVEIRA, Alan Santos de. **Organização de eventos, protocolo e cerimonial: do público ao corporativo, do presencial ao digital** . Curitiba: Intersaberes, 2022.
 
-PORTELA, Keyla Christina Almeida Portela; Schumacher, Alexandre José. **Cerimonial e Protocolo** . Curitiba: Editora Lt, 2015. 
+SCHUMACHER, A.J. PORTELA, K. C. A, **Ferramentas do Secretário Executivo.** Editora Viena, 2013.
 
-TORRES, Marcelo Augusto. **Gestão e produção de eventos: da ideia à avaliação.** São Paulo: Editora Appris, 2021. 
+ZITTA, Carmen. **Organização de eventos.** São Paulo: Editora Senac, 2018.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+COMPONENTE CURRICULAR: Direito empresarial e tributário
 
-CZAJKOWSKI, Adriana; CZAJKOWSKI JUNIOR, Sergio. **Eventos: uma estratégia baseada em experiências.** Curitiba: Intersaberes, 2017. 
+CARGA HORÁRIA TOTAL: Hora/aula - 80 e Hora/relógio - 67
 
-MARTIN, Vanessa. **Manual Prático de Eventos** . São Paulo, SP: GEN LTC, 2014. 
+EMENTA: Análise do Direito Empresarial e Tributário a partir das alterações paradigmáticas da compreensão contemporânea em relação a Constituição, os princípios gerais do direito e a jurisprudência. Teoria Geral do Direito Empresarial. Regime jurídico de direito Comercial. Empresa e Empresário. Estabelecimento Empresarial. Direito Societário. Títulos de Crédito. Falência e Recuperação Judicial. Noções Introdutórias ao Direito Tributário. Os impostos previstos na Constituição Federal. Limitações Constitucionais ao poder de Tributar. Competência Tributária e Legislação Tributária. Obrigação tributária. Garantias e privilégios do crédito tributário. Simples Nacional.
 
-OLIVEIRA, Alan Santos de. **Organização de eventos, protocolo e cerimonial: do público ao corporativo, do presencial ao digital** . Curitiba: Intersaberes, 2022. 
+BIBLIOGRAFIA BÁSICA:
 
-SCHUMACHER, A.J. PORTELA, K. C. A, **Ferramentas do Secretário Executivo.** Editora Viena, 2013. 
+COELHO, Fábio Ulhoa. **Novo manual de direito comercial: Direito de Empresa** . 31. ed. São Paulo: Revista dos Tribunais, 2020.
 
-ZITTA, Carmen. **Organização de eventos.** São Paulo: Editora Senac, 2018. 
+ALEXANDRE,Ricardo. **Direito Tributário** . - 16. ed. Rev., atual. E ampl. - Salvador Ed. JusPodivm,2022.
 
-COMPONENTE CURRICULAR: Direito empresarial e tributário 
+SACRAMONE, Marcelo Barbosa. **Manual de Direito Empresarial.** - 2. ed.- São Paulo/SP: Saraiva Educação, 2021.
 
-CARGA HORÁRIA TOTAL: Hora/aula - 80 e Hora/relógio - 67 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-EMENTA: Análise do Direito Empresarial e Tributário a partir das alterações paradigmáticas da compreensão contemporânea em relação a Constituição, os princípios gerais do direito e a jurisprudência. Teoria Geral do Direito Empresarial. Regime jurídico de direito Comercial. Empresa e Empresário. Estabelecimento Empresarial. Direito Societário. Títulos de Crédito. Falência e Recuperação Judicial. Noções Introdutórias ao Direito Tributário. Os impostos previstos na Constituição Federal. Limitações Constitucionais ao poder de Tributar. Competência Tributária e Legislação Tributária. Obrigação tributária. Garantias e privilégios do crédito tributário. Simples Nacional. 
+AMARO, Luciano. **Direito tributário brasileiro** . - 23. ed. - São Paulo: Saraiva Educação,2019. NEGRÃO, Ricardo. **Manual de Direito Empresarial** . - 10. ed. - São Paulo: Saraiva Educação,2020.
 
-BIBLIOGRAFIA BÁSICA: 
+MACHADO,Hugo de Brito. **Curso de Direito Tributário** . - 41. ed. rev. e atual. - São Paulo: Malheiros,2020.
 
-COELHO, Fábio Ulhoa. **Novo manual de direito comercial: Direito de Empresa** . 31. ed. São Paulo: Revista dos Tribunais, 2020. 
+PAULSEN, Leandro. **Curso de Direito Tributário Completo** . 14ª edição. São Paulo: Editora Saraiva, 2023.
 
-71 
+COMPONENTE CURRICULAR: Gestão de compras e estoque CARGA HORÁRIA TOTAL: Hora/aula - 40h e Hora/relógio - 33h EMENTA: Gestão de Compras: Estratégia de Compras; Delegação de Compras; Compras Centralizadas; Negociação com Fornecedores; Seleção de Fornecedores; Gestão de Estoque: Metodologias e Tecnologia; Identificação de Estoque Mínimo; Tecnologia da Informação aplicada a Gestão de Estoques; Técnicas de Estocagem. BIBLIOGRAFIA BÁSICA: BAILY, Peter. **Compras: princípios e administração** . São Paulo, Atlas, 2008. DIAS, Mario. **Manual do comprador: conceitos, teorias e práticas** . São Paulo, Edicta, 2003. NOGUEIRA, Amarildo Souza. **Logística Empresarial: um guia prático de operações logísticas** . São Paulo: Atlas, 2018. SILVA, Braulio Wilker. **Gestão de estoques** . São Paulo: Atlas, 2019. BIBLIOGRAFIA COMPLEMENTAR:
 
-**==> picture [471 x 55] intentionally omitted <==**
+VIANNA, João José. **Administração de materiais: um enfoque prático** . São Paulo, Atlas, 2000.
 
-ALEXANDRE,Ricardo. **Direito Tributário** . - 16. ed. Rev., atual. E ampl. - Salvador Ed. JusPodivm,2022. 
+MOURA, Reinaldo A. **Sistemas e técnicas de movimentação e armazenagem** . São Paulo: Atlas, 2005.
 
-SACRAMONE, Marcelo Barbosa. **Manual de Direito Empresarial.** - 2. ed.- São Paulo/SP: Saraiva Educação, 2021. 
+CHING, H. Y. **Gestão de estoques na cadeia de logística integrada** . 4ª Ed. Editora Atlas, 2013.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+ACCIOLY, F; AYRES, A. P. S; SUCUPIRA, C. **Gestão de estoques** . Editora FGV, 2013.
 
-AMARO, Luciano. **Direito tributário brasileiro** . - 23. ed. - São Paulo: Saraiva Educação,2019. NEGRÃO, Ricardo. **Manual de Direito Empresarial** . - 10. ed. - São Paulo: Saraiva Educação,2020. 
+COMPONENTE CURRICULAR: Contabilidade de custos e formação de preços CARGA HORÁRIA TOTAL: Hora/aula - 80 e Hora/relógio - 67
 
-MACHADO,Hugo de Brito. **Curso de Direito Tributário** . - 41. ed. rev. e atual. - São Paulo: Malheiros,2020. 
+EMENTA: Estrutura e métodos de apuração de custos; Estratégias de posicionamento de mercado de produtos e serviços; Métodos de definição de preços baseado na concorrência; Valor percebido e outros. BIBLIOGRAFIA BÁSICA:
 
-PAULSEN, Leandro. **Curso de Direito Tributário Completo** . 14ª edição. São Paulo: Editora Saraiva, 2023. 
+SANTOS, Marcello Lopes dos. **Processos de Formação de Preços** . Curitiba: IESDE Brasil S.A., 2008.
 
-COMPONENTE CURRICULAR: Gestão de compras e estoque CARGA HORÁRIA TOTAL: Hora/aula - 40h e Hora/relógio - 33h EMENTA: Gestão de Compras: Estratégia de Compras; Delegação de Compras; Compras Centralizadas; Negociação com Fornecedores; Seleção de Fornecedores; Gestão de Estoque: Metodologias e Tecnologia; Identificação de Estoque Mínimo; Tecnologia da Informação aplicada a Gestão de Estoques; Técnicas de Estocagem. BIBLIOGRAFIA BÁSICA: BAILY, Peter. **Compras: princípios e administração** . São Paulo, Atlas, 2008. DIAS, Mario. **Manual do comprador: conceitos, teorias e práticas** . São Paulo, Edicta, 2003. NOGUEIRA, Amarildo Souza. **Logística Empresarial: um guia prático de operações logísticas** . São Paulo: Atlas, 2018. SILVA, Braulio Wilker. **Gestão de estoques** . São Paulo: Atlas, 2019. BIBLIOGRAFIA COMPLEMENTAR: 
+DUBOIS, Alex, KULPA, Luciana e SOUZA, Luiz Eurico. **Gestão de Custos e Formação de Preços** . São Paulo. Atlas: 2006.
 
-72 
+MARTINS, E. **Contabilidade de custos – o uso da contabilidade de custos como instrumento de gerência e controle.** 9ª ed. São Paulo: Atlas, 2009.
 
-**==> picture [471 x 55] intentionally omitted <==**
+BIBLIOGRAFIA COMPLEMENTAR: MARION, José Carlos. **Contabilidade empresarial** . 14ª ed. São Paulo: Atlas, 2009. ASSEF, Roberto. **Guia Prático de Formação de Preços** . 3ª. ed. Rio de Janeiro: Campus Elsevier, 2005. DUTRA, R.G. **Custos – uma abordagem prática.** 5ª ed. São Paulo: Atlas, 2003. RIBEIRO, O. M. **Contabilidade de Custos.** Editora Saraiva, 2013.
 
-VIANNA, João José. **Administração de materiais: um enfoque prático** . São Paulo, Atlas, 2000. 
+COMPONENTE CURRICULAR: Plano de marketing
 
-MOURA, Reinaldo A. **Sistemas e técnicas de movimentação e armazenagem** . São Paulo: Atlas, 2005. 
+CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33
 
-CHING, H. Y. **Gestão de estoques na cadeia de logística integrada** . 4ª Ed. Editora Atlas, 2013. 
+Carga horária de extensão: Hora/relógio - 29
 
-ACCIOLY, F; AYRES, A. P. S; SUCUPIRA, C. **Gestão de estoques** . Editora FGV, 2013. 
+EMENTA: Publicidade e propaganda; as principais fases de elaboração de um projeto de pesquisa de opinião; Análise do ambiente: micro e macro ambiente. Análise da concorrência. Plano de ação. Pesquisa de Marketing; Planejamento Estratégico de Marketing; Elaboração de plano de Marketing.
 
-COMPONENTE CURRICULAR: Contabilidade de custos e formação de preços CARGA HORÁRIA TOTAL: Hora/aula - 80 e Hora/relógio - 67 
+Atividades de extensão: Os alunos buscarão uma empresa fidedigna para realizar um plano de marketing verificando identificar seus pontos fortes e fracos em relação aos seus concorrentes e quais melhorias poderão ser realizadas para se tornar mais competitivo no mercado. O trabalho será apresentado em sala de aula, e, posteriormente, encaminhado os resultados para a empresa pesquisada.
 
-EMENTA: Estrutura e métodos de apuração de custos; Estratégias de posicionamento de mercado de produtos e serviços; Métodos de definição de preços baseado na concorrência; Valor percebido e outros. BIBLIOGRAFIA BÁSICA: 
+BIBLIOGRAFIA BÁSICA:
 
-SANTOS, Marcello Lopes dos. **Processos de Formação de Preços** . Curitiba: IESDE Brasil S.A., 2008. 
+LUDOVICO, Nelson; SANTINI, Fernando Roberto. **Gestão de Marketing – o plano de Marketing como orientador das decisões** . São Paulo; Saraiva, 2014.
 
-DUBOIS, Alex, KULPA, Luciana e SOUZA, Luiz Eurico. **Gestão de Custos e Formação de Preços** . São Paulo. Atlas: 2006. 
+POLIZEI, Eder. **Plano de marketing** . Rio de Janeiro: Cengage, 2012. PAIXAO, Marcia Valeria. **Marketing e propaganda** . Curitiba: Editora IBPEX, 2013. VIRGILLITO, Salvatore Benetito _et al_ . **Pesquisa de marketing: uma abordagem quantitativa e qualitativa** . 2ª ed. São Paulo: Saraiva, 2017.
 
-MARTINS, E. **Contabilidade de custos – o uso da contabilidade de custos como instrumento de gerência e controle.** 9ª ed. São Paulo: Atlas, 2009. 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-BIBLIOGRAFIA COMPLEMENTAR: MARION, José Carlos. **Contabilidade empresarial** . 14ª ed. São Paulo: Atlas, 2009. ASSEF, Roberto. **Guia Prático de Formação de Preços** . 3ª. ed. Rio de Janeiro: Campus Elsevier, 2005. DUTRA, R.G. **Custos – uma abordagem prática.** 5ª ed. São Paulo: Atlas, 2003. RIBEIRO, O. M. **Contabilidade de Custos.** Editora Saraiva, 2013. 
+MALHOTA, Naresh. **Planos de marketing** . São Paulo: Saraiva, 2017. MALHOTA, Naresh. **Pesquisa de marketing: uma orientação aplicada - 7ª edição.** São Paulo: Bookman, 2019. NIQUE, Walter; LADEIRA, Wagner. **Como fazer pesquisa de marketing: um guia prático para a realidade Brasileira.** São Paulo: Atlas, 2017.
 
-73 
+KOTLER, Philip; ARMASTRONG, Gary. **Princípios de marketing.** 18ª Ed. São Paulo:
 
-**==> picture [471 x 55] intentionally omitted <==**
+Prentice Hall (Pearson), 2023.
 
-COMPONENTE CURRICULAR: Plano de marketing 
+COMPONENTE CURRICULAR: Técnicas de vendas e negociação
 
-CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33 
+CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33
 
-Carga horária de extensão: Hora/relógio - 29 
+EMENTA: Introdução ao processo de vendas e negociação: conceitos básicos, etapas e importância. Política de vendas na gestão estratégica da empresa; Conhecimento do produto/serviço: características, benefícios e diferenciais competitivos. Canal de vendas ou canal de distribuição; Perfil das equipes de vendas; Comunicação aplicada a estratégias de vendas e negociação: técnicas de comunicação, tipos de comunicação e comunicação não verbal. Técnicas de vendas: estratégias para abordagem, sondagem, apresentação, tratamento de objeções e fechamento de vendas. Gestão de relacionamento com clientes: fidelização, pós-vendas e atendimento ao cliente. Negociação: conceitos, tipos, estratégias, táticas e habilidades essenciais para uma negociação eficaz. Gestão de conflitos em negociações: técnicas de resolução e prevenção de conflitos. Ética em vendas e negociação: princípios éticos e condutas profissionais.
 
-EMENTA: Publicidade e propaganda; as principais fases de elaboração de um projeto de pesquisa de opinião; Análise do ambiente: micro e macro ambiente. Análise da concorrência. Plano de ação. Pesquisa de Marketing; Planejamento Estratégico de Marketing; Elaboração de plano de Marketing. 
+BIBLIOGRAFIA BÁSICA:
 
-Atividades de extensão: Os alunos buscarão uma empresa fidedigna para realizar um plano de marketing verificando identificar seus pontos fortes e fracos em relação aos seus concorrentes e quais melhorias poderão ser realizadas para se tornar mais competitivo no mercado. O trabalho será apresentado em sala de aula, e, posteriormente, encaminhado os resultados para a empresa pesquisada. 
+GOULART, Ricardo. **Negociação em vendas: técnicas e estratégias para vender mais** . São Paulo: Senac São Paulo, 2020.
 
-BIBLIOGRAFIA BÁSICA: 
+HADI, Maurício. **Gestão de vendas: técnicas, ferramentas e estratégias para alavancar seus resultados.** São Paulo: Novatec Editora, 2021.
 
-LUDOVICO, Nelson; SANTINI, Fernando Roberto. **Gestão de Marketing – o plano de Marketing como orientador das decisões** . São Paulo; Saraiva, 2014. 
+MALHOTRA, Naresh K.; BAZERMAN, Max H. **Negociações e resolução de conflitos: do raciocínio à ação** . Porto Alegre: Bookman Editora, 2019.
 
-POLIZEI, Eder. **Plano de marketing** . Rio de Janeiro: Cengage, 2012. PAIXAO, Marcia Valeria. **Marketing e propaganda** . Curitiba: Editora IBPEX, 2013. VIRGILLITO, Salvatore Benetito _et al_ . **Pesquisa de marketing: uma abordagem quantitativa e qualitativa** . 2ª ed. São Paulo: Saraiva, 2017. 
+VASCONCELOS, Carlos. **O poder da persuasão: técnicas de vendas e negociação** . São Paulo: Literare Books International, 2018.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-MALHOTA, Naresh. **Planos de marketing** . São Paulo: Saraiva, 2017. MALHOTA, Naresh. **Pesquisa de marketing: uma orientação aplicada - 7ª edição.** São Paulo: Bookman, 2019. NIQUE, Walter; LADEIRA, Wagner. **Como fazer pesquisa de marketing: um guia prático para a realidade Brasileira.** São Paulo: Atlas, 2017. 
+CASAS, Alexandre Luzzi. **Administração de vendas** . 5. ed. São Paulo: Atlas, 2018.
 
-KOTLER, Philip; ARMASTRONG, Gary. **Princípios de marketing.** 18ª Ed. São Paulo: 
+COHEN, H. **Você pode negociar qualquer cois** a. Sextante, 2019.
 
-74 
+MALHOTRA, N. K.; BAZERMAN, M. H. **Negociações e resolução de conflitos: do raciocínio à ação** . Bookman Editora, 2019.
 
-**==> picture [471 x 55] intentionally omitted <==**
+TALARICO, C. A. **Venda com valor: como negociar com compradores exigentes** . Editora Gente, 2018.
 
-Prentice Hall (Pearson), 2023. 
+COMPONENTE CURRICULAR: Ética, responsabilidade social e ambiental CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33 EMENTA:Conceito de Ética; Cilindro de Ciro e Leis das Doze Tábuas da Roma Antiga; Contemporaneidade e Introdução aos Temas Transversais; Introdução à sustentabilidade e suas características; Ética empresarial como suporte à Sustentabilidade; Responsabilidade Social Empresarial; Código de Ética Empresarial. - *Tratamento transversal do conteúdo obrigatório “Prevenção de todas as formas de violência contra a criança e adolescente”, conforme Lei nº 8.069/1990; *Tratamento transversal do conteúdo obrigatório “Segurança no Trânsito”, conforme Lei nº 9.503/1997; *Tratamento transversal do conteúdo obrigatório “Educação Ambiental”, conforme Lei nº 9.795/1999; *Tratamento transversal do conteúdo obrigatório “Processo de envelhecimento, respeito e valorização do idoso”, conforme Lei nº 10.741/2003; *Tratamento transversal do conteúdo obrigatório “Educação em Direitos Humanos”, conforme Decreto nº 7.037/2009, Resolução CNE/CP nº 01/2012; Resolução CNE/CEB Nº 01/2021); *Tratamento transversal do conteúdo obrigatório “Educação alimentar e nutricional”, conforme Lei nº 11.947/2009 e Resolução CNE/CEB nº 02/2012); *Tratamento transversal do conteúdo obrigatório “Cultura indígena e Cultura afro brasileira", conforme Lei 10.639/2003 e Lei 11.645/2008) BIBLIOGRAFIA BÁSICA: BARSANO, Paulo Roberto. **Ética e cidadania organizacional: guia prático e didático** . São Paulo, SP: Saraiva, 2012. PINSKY, Jaime; PINSKY, Carla Bassanezi (org.). **História da cidadania.** 6. ed. São Paulo: Contexto, 2013. RIOS, Terezinha Azerêdo. **Ética e competência.** 20. ed. São Paulo: Cortez, 2011. BIBLIOGRAFIA COMPLEMENTAR: ALBUQUERQUE, Manoel Antônio de. **O Estado de alto nível ético-profissional: via única**
 
-COMPONENTE CURRICULAR: Técnicas de vendas e negociação 
+**para a segurança e o desenvolvimento das nações** / Manoel Antônio de Albuquerque. – São Paulo: Labrador, 2020.
 
-CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33 
+CARVALHO, José Murilo de. **Cidadania no Brasil:** o longo caminho. 27. ed. Rio de Janeiro: Civilização Brasileira, 2021.
 
-EMENTA: Introdução ao processo de vendas e negociação: conceitos básicos, etapas e importância. Política de vendas na gestão estratégica da empresa; Conhecimento do produto/serviço: características, benefícios e diferenciais competitivos. Canal de vendas ou canal de distribuição; Perfil das equipes de vendas; Comunicação aplicada a estratégias de vendas e negociação: técnicas de comunicação, tipos de comunicação e comunicação não verbal. Técnicas de vendas: estratégias para abordagem, sondagem, apresentação, tratamento de objeções e fechamento de vendas. Gestão de relacionamento com clientes: fidelização, pós-vendas e atendimento ao cliente. Negociação: conceitos, tipos, estratégias, táticas e habilidades essenciais para uma negociação eficaz. Gestão de conflitos em negociações: técnicas de resolução e prevenção de conflitos. Ética em vendas e negociação: princípios éticos e condutas profissionais. 
+GOMES, Nilma Lino (Org). **Um Olhar além das fronteiras:** educação e relações sociais. Belo Horizonte: Autêntica, 2010.
 
-BIBLIOGRAFIA BÁSICA: 
+SÁ, A. Lopes de. **Ética profissional.** 10. ed. São Paulo: Atlas, 2019.
 
-GOULART, Ricardo. **Negociação em vendas: técnicas e estratégias para vender mais** . São Paulo: Senac São Paulo, 2020. 
+TACHIZAWA, Takeshy. **Gestão ambiental e responsabilidade social corporativa:** os paradigmas do novo contexto empresarial. 9. ed. São Paulo: Atlas, 2019.
 
-HADI, Maurício. **Gestão de vendas: técnicas, ferramentas e estratégias para alavancar seus resultados.** São Paulo: Novatec Editora, 2021. 
+COMPONENTE CURRICULAR: Gestão de Pessoas
 
-MALHOTRA, Naresh K.; BAZERMAN, Max H. **Negociações e resolução de conflitos: do raciocínio à ação** . Porto Alegre: Bookman Editora, 2019. 
+CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33
 
-VASCONCELOS, Carlos. **O poder da persuasão: técnicas de vendas e negociação** . São Paulo: Literare Books International, 2018. 
+EMENTA: Evolução histórica e conceitos de gestão de pessoas; Processos humanos nas organizações; Modelos e teorias de gestão de pessoas; Gestão estratégica de pessoas: alinhamento entre objetivos organizacionais e individuais; Planejamento e Políticas de gestão de pessoas: dimensionamento, análise de cargos e competências; Recrutamento e seleção de pessoas: técnicas e processos seletivos; Descrição e análise de cargos; Treinamento, educação e desenvolvimento de pessoas; Trabalho em Equipe; Gestão de desempenho: avaliação de desempenho, feedback e coaching; Gestão do clima e cultura organizacional; Remuneração e benefícios: estratégias e práticas; Gestão da mudança e gestão do conhecimento; A dinâmica do relacionamento interpessoal; Ajustamento humano a produtividade. Gestão de carreira e sucessão: planejamento e desenvolvimento de carreira; Gestão da diversidade e inclusão nas organizações; Ética e responsabilidade social na gestão de pessoas; Novas tendências em gestão de pessoas.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+BIBLIOGRAFIA BÁSICA:
 
-CASAS, Alexandre Luzzi. **Administração de vendas** . 5. ed. São Paulo: Atlas, 2018. 
+CHIAVENATO, I. **Gestão de pessoas: e o novo papel dos recursos humanos nas organizações.** Elsevier Brasil, 2019.
 
-COHEN, H. **Você pode negociar qualquer cois** a. Sextante, 2019. 
+COSTA, J. A. **Gestão de pessoas nas organizações: uma abordagem estratégica** . Atlas, 2019.
 
-MALHOTRA, N. K.; BAZERMAN, M. H. **Negociações e resolução de conflitos: do raciocínio à ação** . Bookman Editora, 2019. 
+FERREIRA, A. C.; ROSSONI, L. **Gestão de Pessoas: uma visão integrada** . Atlas, 2021.
 
-75 
+MARRAS, J. P. **Administração de Recursos Humanos: do operacional ao estratégico** .
 
-**==> picture [471 x 55] intentionally omitted <==**
+Saraiva, 2019.
 
-TALARICO, C. A. **Venda com valor: como negociar com compradores exigentes** . Editora Gente, 2018. 
+OLIVEIRA, J. C. L. **Gestão de Pessoas por Competências: uma metodologia que potencializa talentos** . Atlas, 2017.
 
-COMPONENTE CURRICULAR: Ética, responsabilidade social e ambiental CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33 EMENTA:Conceito de Ética; Cilindro de Ciro e Leis das Doze Tábuas da Roma Antiga; Contemporaneidade e Introdução aos Temas Transversais; Introdução à sustentabilidade e suas características; Ética empresarial como suporte à Sustentabilidade; Responsabilidade Social Empresarial; Código de Ética Empresarial. - *Tratamento transversal do conteúdo obrigatório “Prevenção de todas as formas de violência contra a criança e adolescente”, conforme Lei nº 8.069/1990; *Tratamento transversal do conteúdo obrigatório “Segurança no Trânsito”, conforme Lei nº 9.503/1997; *Tratamento transversal do conteúdo obrigatório “Educação Ambiental”, conforme Lei nº 9.795/1999; *Tratamento transversal do conteúdo obrigatório “Processo de envelhecimento, respeito e valorização do idoso”, conforme Lei nº 10.741/2003; *Tratamento transversal do conteúdo obrigatório “Educação em Direitos Humanos”, conforme Decreto nº 7.037/2009, Resolução CNE/CP nº 01/2012; Resolução CNE/CEB Nº 01/2021); *Tratamento transversal do conteúdo obrigatório “Educação alimentar e nutricional”, conforme Lei nº 11.947/2009 e Resolução CNE/CEB nº 02/2012); *Tratamento transversal do conteúdo obrigatório “Cultura indígena e Cultura afro brasileira", conforme Lei 10.639/2003 e Lei 11.645/2008) BIBLIOGRAFIA BÁSICA: BARSANO, Paulo Roberto. **Ética e cidadania organizacional: guia prático e didático** . São Paulo, SP: Saraiva, 2012. PINSKY, Jaime; PINSKY, Carla Bassanezi (org.). **História da cidadania.** 6. ed. São Paulo: Contexto, 2013. RIOS, Terezinha Azerêdo. **Ética e competência.** 20. ed. São Paulo: Cortez, 2011. BIBLIOGRAFIA COMPLEMENTAR: ALBUQUERQUE, Manoel Antônio de. **O Estado de alto nível ético-profissional: via única** 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-76 
+GIL, A. C. **Gestão de Pessoas: enfoque nos papéis profissionais** . Atlas, 2018.
 
-**==> picture [471 x 55] intentionally omitted <==**
+CHIAVENATO, I. **Recursos Humanos: o capital humano das organizações** . Atlas, 2019.
 
-**para a segurança e o desenvolvimento das nações** / Manoel Antônio de Albuquerque. – São Paulo: Labrador, 2020. 
+RIBEIRO, A. R. **Gestão de pessoas: um olhar sobre competências** . Bookman, 2017.
 
-CARVALHO, José Murilo de. **Cidadania no Brasil:** o longo caminho. 27. ed. Rio de Janeiro: Civilização Brasileira, 2021. 
+GOMES, E. D. **Gestão de Pessoas nas Organizações** . Atlas, 2020.
 
-GOMES, Nilma Lino (Org). **Um Olhar além das fronteiras:** educação e relações sociais. Belo Horizonte: Autêntica, 2010. 
+MORAES, M. A. L. **Gestão de Pessoas por Competências** . Atlas, 2019.
 
-SÁ, A. Lopes de. **Ética profissional.** 10. ed. São Paulo: Atlas, 2019. 
+## **4º Semestre**
 
-TACHIZAWA, Takeshy. **Gestão ambiental e responsabilidade social corporativa:** os paradigmas do novo contexto empresarial. 9. ed. São Paulo: Atlas, 2019. 
+COMPONENTE CURRICULAR: Administração financeira e orçamentária
 
-COMPONENTE CURRICULAR: Gestão de Pessoas 
+CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33
 
-CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33 
+EMENTA: Conceitos básicos de Gestão Financeira; Ambiente Financeiro Brasileiro; Capital de Giro; Risco e Retorno; Administração de Caixa; Ponto de Equilíbrio; Margem de Contribuição; Introdução ao Orçamento Empresarial. Métodos avaliativos de investimentos. Período de _Payback. Discounted payback._ Taxa interna de retorno (TIR). Valor presente Líquido (VPL).
 
-EMENTA: Evolução histórica e conceitos de gestão de pessoas; Processos humanos nas organizações; Modelos e teorias de gestão de pessoas; Gestão estratégica de pessoas: alinhamento entre objetivos organizacionais e individuais; Planejamento e Políticas de gestão de pessoas: dimensionamento, análise de cargos e competências; Recrutamento e seleção de pessoas: técnicas e processos seletivos; Descrição e análise de cargos; Treinamento, educação e desenvolvimento de pessoas; Trabalho em Equipe; Gestão de desempenho: avaliação de desempenho, feedback e coaching; Gestão do clima e cultura organizacional; Remuneração e benefícios: estratégias e práticas; Gestão da mudança e gestão do conhecimento; A dinâmica do relacionamento interpessoal; Ajustamento humano a produtividade. Gestão de carreira e sucessão: planejamento e desenvolvimento de carreira; Gestão da diversidade e inclusão nas organizações; Ética e responsabilidade social na gestão de pessoas; Novas tendências em gestão de pessoas. 
+BIBLIOGRAFIA BÁSICA:
 
-BIBLIOGRAFIA BÁSICA: 
+GITMAN, Lawrence J. **Princípios da administração financeira** . 12º ed. São Paulo: Pearson Prentice Hall, 2009.
 
-CHIAVENATO, I. **Gestão de pessoas: e o novo papel dos recursos humanos nas organizações.** Elsevier Brasil, 2019. 
+ASSAF NETO, Alexandre. **Finanças Corporativas e Valor** . 7. ed. São Paulo: Atlas, 2016.
 
-COSTA, J. A. **Gestão de pessoas nas organizações: uma abordagem estratégica** . Atlas, 2019. 
+HOJI, Masakazu. **Administração Financeira e Orçamentária: Matemática Financeira Aplicada, Estratégias Financeiras e Orçamento Empresarial** .. São Paulo: Atlas, 2022.
 
-FERREIRA, A. C.; ROSSONI, L. **Gestão de Pessoas: uma visão integrada** . Atlas, 2021. 
+MENDES, Sergio. **Administração financeira e orçamentária** . São Paulo: Editora Método, 2020.
 
-MARRAS, J. P. **Administração de Recursos Humanos: do operacional ao estratégico** . 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-77 
+ROSS, Stephen, WETERFIELD, Randolph _et al_ . **Fundamentos de administração financeira** . 13ª edição. Rio de Janeiro: Bookman, 2022.
 
-**==> picture [471 x 55] intentionally omitted <==**
+MÜLLER, Aderbal Nicolas. ANTONIK, Luís Roberto. **Matemática Financeira: Instrumentos para a tomada de decisão em marketing, finanças e comércio** . São Paulo: Saraiva, 2012. LEMES JÚNIOR, Antônio Barbosa. RIGO, Cláudio Miessa. Stephen A; WESTERFIELD, Randolph W; JORDAN, Bradford D. **Princípios de Administração Financeira** . São Paulo: Atlas, 2002. MULLER, Aderbal Nicolas; Antonik, Luis Roberto. **Análise financeira: uma visão gerencial.** São Paulo: Atlas, 2008. SILVA, José Pereira da. **Análise Financeira das Empresas** . São Paulo: Atlas, 2012.
 
-Saraiva, 2019. 
+COMPONENTE CURRICULAR: Plano de negócio CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33 EMENTA: Introdução ao plano de negócios: conceitos, importância e objetivos. Identificação de oportunidades de negócios: análise do mercado e do ambiente competitivo. Estruturação do plano de negócios: descrição da empresa, produtos e serviços, análise SWOT, estratégias de marketing e vendas, planejamento, organização, processo decisório, aspectos legais e tributários: constituição da empresa, registro de marca, regimes tributários, aspectos trabalhistas. Captação de recursos: fontes de financiamento, pitch de vendas e negociação com possíveis investidores. Estrutura de recursos humanos. Políticas e estratégias para empreendimentos emergentes. Mudança e adaptabilidade. Implementação e acompanhamento do plano de negócios: indicadores de desempenho, revisão e atualização do plano. BIBLIOGRAFIA BÁSICA: BRAGA, A. L. F. **Plano de negócios: como elaborar, analisar e planejar** . Editora Érica, 2019. BRITO, E. P. **Plano de negócios: da ideia ao sucesso empresarial.** Editora Senac São Paulo, 2020. DORNELAS, J. C. A. **Empreendedorismo: transformando ideias em negócios** . Editora de
 
-OLIVEIRA, J. C. L. **Gestão de Pessoas por Competências: uma metodologia que potencializa talentos** . Atlas, 2017. 
+Cultura, 2020.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+NAKAGAWA, M. **Plano de negócios: o guia definitivo** . Editora Atlas, 2019.
 
-GIL, A. C. **Gestão de Pessoas: enfoque nos papéis profissionais** . Atlas, 2018. 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-CHIAVENATO, I. **Recursos Humanos: o capital humano das organizações** . Atlas, 2019. 
+BARROS, F. R., & SALIM, A. C. **Plano de negócios: um guia prático para sua elaboração** . Atlas, 2019.
 
-RIBEIRO, A. R. **Gestão de pessoas: um olhar sobre competências** . Bookman, 2017. 
+LIMA, M. A. C. **Plano de negócios: como desenvolver um plano que vai mudar a história da sua empresa** . Editora Novas Edições Acadêmicas, 2019.
 
-GOMES, E. D. **Gestão de Pessoas nas Organizações** . Atlas, 2020. 
+NUNES, M. M. S.; MENEZES, R. O. **Plano de negócios: estruturação e viabilidade de ideias.** Intersaberes., 2019.
 
-MORAES, M. A. L. **Gestão de Pessoas por Competências** . Atlas, 2019. 
+PEREIRA, M. R. **Plano de negócios: como planejar e executar seu próprio negócio** . Editora Senac São Paulo, 2020.
 
-## **4º Semestre** 
+COMPONENTE CURRICULAR: Planejamento e gestão estratégica
 
-COMPONENTE CURRICULAR: Administração financeira e orçamentária 
+CARGA HORÁRIA TOTAL: Hora/aula - 80 e Hora/relógio - 67 (60 min)
 
-CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33 
+Carga horária de extensão: Hora/relógio - 33
 
-EMENTA: Conceitos básicos de Gestão Financeira; Ambiente Financeiro Brasileiro; Capital de Giro; Risco e Retorno; Administração de Caixa; Ponto de Equilíbrio; Margem de Contribuição; Introdução ao Orçamento Empresarial. Métodos avaliativos de investimentos. Período de _Payback. Discounted payback._ Taxa interna de retorno (TIR). Valor presente Líquido (VPL). 
+EMENTA: Evolução e conceitos de Planejamento, Objetivos, Estratégias e Metas; Fundamentos de planejamento e gestão estratégica; As fases e os níveis do planejamento; Análise do ambiente externo e interno da organização. A importância dos Cenários e Tendências para o Planejamento; Diagnóstico empresarial; Missão, Visão, Valores, Fatores Críticos de Sucesso; Objetivos e Metas; Cenários. Análise SWOT: Identificação de oportunidades e ameaças; Análise de forças e fraquezas da organização; Diretrizes Estratégicas: Missão, Visão e Valores; As etapas do planejamento estratégico e sua implementação; Formulação de objetivos estratégicos; Ferramentas Estratégicas; Plano de Ação e controle do Planejamento Estratégico; Tipos de Estratégias; Fatores de Competitividade e Vantagem Competitiva; Execução do plano estratégico; Monitoramento e avaliação de resultados; Comunicação e implementação da estratégia; Inovação e adaptação estratégica; Gestão estratégica de recursos humanos. Temas emergentes relacionados ao Planejamento Estratégico.
 
-BIBLIOGRAFIA BÁSICA: 
+Atividades de extensão: Os alunos buscarão uma empresa fidedigna para realizar uma atividade prática de planejamento estratégico visando desenvolver os objetivos, missão, visão e valores da organização, utilizando da ferramenta do Diagnóstico Organizacional para identificar e elencar
 
-GITMAN, Lawrence J. **Princípios da administração financeira** . 12º ed. São Paulo: Pearson Prentice Hall, 2009. 
+subsídios para a elaboração do planejamento a curto e médio e longo prazo. Essas ações visam tornar as organizações mais competitivas no mercado de trabalho, tendo também como objetivo corrigir problemas identificados ao longo da disciplina. O trabalho será apresentado em sala de aula, e, posteriormente, encaminhado os resultados para a empresa em estudo. BIBLIOGRAFIA BÁSICA: CHIAVENATO, I. **Administração estratégica: a busca da excelência empresarial.** Elsevier Brasil, 2018. COUTINHO, L. G., & SOARES, M. A. **Planejamento estratégico: conceitos, metodologia e práticas** . Atlas, 2020. CYRINO, A. B., & BECKER, J. L. . **Planejamento estratégico: teorias, modelos e processos.** Elsevier Brasil, 2019. MINTZBERG, H., AHLSTRAND, B.; LAMPEL, J.. **Safári de estratégia: um roteiro pela selva do planejamento estratégico** . Bookman., 2019. BIBLIOGRAFIA COMPLEMENTAR: FAHEY, L.,; RANDALL, R. M. **Aprendendo a pensar estrategicamente.** Bookman, 2019. OLIVEIRA, D. P. R. . **Planejamento estratégico: conceitos, metodologia e práticas** . Atlas, 2020. PORTER, M. E. **Estratégia competitiva: técnicas para análise de indústrias e da concorrência** . Elsevier Brasil,2018 TAVARES, M. C. **Planejamento estratégico e gestão por competências: integrando teoria e prática.** Atlas,2019.
 
-ASSAF NETO, Alexandre. **Finanças Corporativas e Valor** . 7. ed. São Paulo: Atlas, 2016. 
+COMPONENTE CURRICULAR: Logística aplicada CARGA HORÁRIA TOTAL: Hora/aula - 80h e Hora/relógio - 67h
 
-HOJI, Masakazu. **Administração Financeira e Orçamentária: Matemática Financeira Aplicada, Estratégias Financeiras e Orçamento Empresarial** .. São Paulo: Atlas, 2022. 
+EMENTA: Atividades Logísticas (atividades primárias e secundárias); Transporte; Processamento de Pedidos; Canais de Distribuição; Tipos e Classificação dos Canais de Distribuição; Conceitos de distribuição física; Propriedades dos canais de distribuição; Definição dos canais de distribuição; Custos da distribuição; Gestão da cadeia de suprimentos e agregação de  valor ao  cliente; Estudos  e  definições sobre  a localização  das  organizações;
 
-MENDES, Sergio. **Administração financeira e orçamentária** . São Paulo: Editora Método, 2020. 
+Movimentação de Materiais; Embalagem, armazenagem, movimentação e transporte. Planejamento das Necessidades de Materiais (MRP); Just–In-Time (JIT); Armazenagem e movimentação. BIBLIOGRAFIA BÁSICA: NOVAES, A.G. **Logística e gerenciamento da cadeia de distribuição, estratégias, operação e avaliação** . Rio de Janeiro: Elsevier, 2021. BALLOU, R. H. **Logística empresarial, transportes, administração de materiais, distribuição física** . 5ª. Ed. São Paulo: Atlas, 1993. NOGUEIRA, Amarildo de Souza. **Logística empresarial: um guia prático de operações logística** . São Paulo: Atlas, 2018. NOVAES, Antônio Galvão. **Logística e gerenciamento da cadeia de distribuição - estratégia, avaliação e operação** . São Paulo: Atlas, 2021. BIBLIOGRAFIA COMPLEMENTAR: ALVARENGA, A.C. **Logística Aplicada** . 3ª Ed. São Paulo: Edgar Blücher, 2000. CHRISTOPHER, M. **Logística e gerenciamento da cadeia de suprimentos, estratégias para a redução de custos e melhoria dos serviços.** São Paulo: Pioneira Thomson Learning, 2002. CORREA, Henrique Luiz. **Administração de cadeias de suprimento e logística.** São Paulo: Atlas, 2019. CHOPRA, Sunil; MEINDL, Peter. **Gestão da cadeia de suprimentos** . Rio de Janeiro: Pearson, 2015.
 
-78 
+COMPONENTE CURRICULAR: Design de loja, visual merchandising e franchising CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33
 
-**==> picture [471 x 55] intentionally omitted <==**
+EMENTA: Histórico do Merchandising. Materiais de merchandising em ponto de vendas.Componentes do visual merchandising; Loja; Tipos de layout. Relação do ambiente com a exposição de produtos, espaços customizados, manequins de loja, displays. Vitrinismo e a comunicação visual. Funções e tipos de vitrines. Estudo das instalações e equipamentos utilizados em vitrinas; aplicação das técnicas do Visual Merchandising; e análise do mercado de
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+trabalho. O que é franchising e tipos existentes. Vantagens e desvantagens do franchising para o franqueador e franqueado. BIBLIOGRAFIA BÁSICA: ANTERO, Kalyenne de Lima; AMARAL, Maria Carolina Merhy Ferreira do. **Design de loja e visual merchandising.** Curitiba: Intersaberes, 2021. BATISTA, Leandro Krug Líbano. **Franquias: multiplicar é a essência do negócio** . Curitiba: Intersaberes, 2022. BLESSA, Regina. **Loja perfeita : merchandising, estratégico, tático e visual** . São Paulo: Blessa, 2021. HSUAN-AN.Tai. **Design: conceitos e métodos** . São Paulo: Blucher, 2018. BIBLIOGRAFIA COMPLEMENTAR: CAMPOS, Leticia Mirella Fisher. **Promoção, produtos e mercado: análise sobre varejo, merchandising e evento.** Curitiba: Intersaberes, 2019. BLESSA, Regina. **Merchandising no Ponto de Vendas** . São Paulo: Atlas, 2007. LADEIRA, Wagner; SANTINI, Fernando. **Merchandising e promoção de vendas** . São Paulo: Atlas, 2018. ELOI, Fabio; RIVA, João; MANSANO, Kito; BONETI, Luciano. **Marketing promocional: um olhar descomplicado** . Rio de Janeiro: Cengage, 2013. DEMETRESCO, Sylvia e REGAMEY, Rita. **Tipologia e estética do visual merchandising** . São Paulo: Estação das Letras e das Cores, 2012. METRESCU, Sylvia. **Vitrines e exposições: arte técnica do visual merchandising** . Edira Érica, 2018.
 
-ROSS, Stephen, WETERFIELD, Randolph _et al_ . **Fundamentos de administração financeira** . 13ª edição. Rio de Janeiro: Bookman, 2022. 
+COMPONENTE CURRICULAR: Gestão da sustentabilidade CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33
 
-MÜLLER, Aderbal Nicolas. ANTONIK, Luís Roberto. **Matemática Financeira: Instrumentos para a tomada de decisão em marketing, finanças e comércio** . São Paulo: Saraiva, 2012. LEMES JÚNIOR, Antônio Barbosa. RIGO, Cláudio Miessa. Stephen A; WESTERFIELD, Randolph W; JORDAN, Bradford D. **Princípios de Administração Financeira** . São Paulo: Atlas, 2002. MULLER, Aderbal Nicolas; Antonik, Luis Roberto. **Análise financeira: uma visão gerencial.** São Paulo: Atlas, 2008. SILVA, José Pereira da. **Análise Financeira das Empresas** . São Paulo: Atlas, 2012. 
+EMENTA: Introdução e contextualização histórica das questões ambientais no Brasil e no mundo. Desenvolvimento Sustentável: concepções, dimensões e impactos. A variável ecológica no ambiente dos negócios; A repercussão da questão ambiental na organização; Modelos de
 
-COMPONENTE CURRICULAR: Plano de negócio CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33 EMENTA: Introdução ao plano de negócios: conceitos, importância e objetivos. Identificação de oportunidades de negócios: análise do mercado e do ambiente competitivo. Estruturação do plano de negócios: descrição da empresa, produtos e serviços, análise SWOT, estratégias de marketing e vendas, planejamento, organização, processo decisório, aspectos legais e tributários: constituição da empresa, registro de marca, regimes tributários, aspectos trabalhistas. Captação de recursos: fontes de financiamento, pitch de vendas e negociação com possíveis investidores. Estrutura de recursos humanos. Políticas e estratégias para empreendimentos emergentes. Mudança e adaptabilidade. Implementação e acompanhamento do plano de negócios: indicadores de desempenho, revisão e atualização do plano. BIBLIOGRAFIA BÁSICA: BRAGA, A. L. F. **Plano de negócios: como elaborar, analisar e planejar** . Editora Érica, 2019. BRITO, E. P. **Plano de negócios: da ideia ao sucesso empresarial.** Editora Senac São Paulo, 2020. DORNELAS, J. C. A. **Empreendedorismo: transformando ideias em negócios** . Editora de 
+gestão ambiental; Sistema de Gestão Ambiental e a série ISO 14001; Modelos de gestão ambiental; Noções de auditoria ambiental. BIBLIOGRAFIA BÁSICA: BARBIERI, José Carlos. **Gestão Ambiental Empresarial: conceitos, modelos e instrumentos** . 3a ed. São Paulo: Saraiva, 2015. DIAS, Reinaldo. **Gestão Ambiental: responsabilidade social e sustentabilidade** . 2ª ed. São Paulo: Atlas, 2017. DAL FORNO, M A R., **Fundamentos em gestão ambiental** , Série Ensino, Aprendizagem e Tecnologias, Porto Alegre: Editora da UFRGS, 2017. MOURA, Luiz Antônio Abdalla de. **Qualidade e gestão ambiental** . 7ª Edição. São Paulo: Freitas Bastos Editora, 2023. BIBLIOGRAFIA COMPLEMENTAR: ALVES, Ricardo Ribeiro. **Sustentabilidade empresarial e mercado verde: a transformação do mundo que vivemos.** São Paulo: Editora Vozes, 2019. BUENO, Karen Estefania Moura; TAVEIRA, Bruna Daniela de Araujo; FOGAÇA, Thiago Kich. **Planejamento e Gestão ambiental.** Curitiba: Intersaberes, 2020. DONAIRE, Denis; OLIVEIRA, Edenis César de. **Gestão ambiental na empresa: fundamentos e aplicações.** São Paulo: Atlas, 2018. TACHIZAWZ, Takeshy. **Gestão ambiental e responsabilidade social corporativa: os paradigmas do novo contexto empresarial** . São Paulo: Atlas, 2019.
 
-79 
+COMPONENTE CURRICULAR: Elaboração de projetos CARGA HORÁRIA TOTAL: Hora/aula - 80 e Hora/relógio - 67 Carga horária de extensão: Hora/relógio - 33
 
-**==> picture [471 x 55] intentionally omitted <==**
+EMENTA: Etapas do trabalho científico (determinação do tema e problema de pesquisa, dos objetivos, das hipóteses e variáveis de pesquisa, do tipo de pesquisa; Estrutura de trabalhos científicos: resumo, poster, relatório, projetos de pesquisa, trabalhos de conclusão de curso; Construção da revisão de literatura e escolha dos sujeitos da pesquisa); como elaborar um
 
-Cultura, 2020. 
+projeto; Etapas e produção de um artigo científico.
 
-NAKAGAWA, M. **Plano de negócios: o guia definitivo** . Editora Atlas, 2019. 
+Atividades de extensão: Os alunos realizarão no primeiro bimestre um projeto de pesquisa para uma empresa local visando identificar possíveis problemas e trazer resultados aplicáveis para a resolução dos problemas. No segundo bimestre o aluno apresentará um artigo científico, ou apresentação de pôster ou resumo expandido em evento científico apresentado os resultados da pesquisa realizada na empresa. BIBLIOGRAFIA BÁSICA:
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+AMÉRICO, Bruno. **Método de pesquisa qualitativa: analisando fora da caixa** . São Paulo: Alta Books, 2021.
 
-BARROS, F. R., & SALIM, A. C. **Plano de negócios: um guia prático para sua elaboração** . Atlas, 2019. 
+BRASILEIRO, Ada Magaly Matias. **Como produzir textos acadêmicos e científicos** . São Paulo: Contexto, 2021. GIL, Antonio Carlos **Como elaborar projetos de pesquisa** . 7ª Ed. Editora Atlas, 2022.
 
-LIMA, M. A. C. **Plano de negócios: como desenvolver um plano que vai mudar a história da sua empresa** . Editora Novas Edições Acadêmicas, 2019. 
+SIQUEIRA, José de Oliveira. **Fundamentos de método quantitativos** . São Paulo: Saraiva, 2017. BIBLIOGRAFIA COMPLEMENTAR: CRESWELL, John W.; CRESWELL, J. David. **Projeto de pesquisa: métodos qualitativos, quantitativos e mistos.** São Paulo: Editora Penso, 2021. CORREA, Luiz Nilton. **Metodologia científica: para trabalhos acadêmicos e artigos científicos** . Editora Humanitas, 2018.
 
-NUNES, M. M. S.; MENEZES, R. O. **Plano de negócios: estruturação e viabilidade de ideias.** Intersaberes., 2019. 
+CASAROTTO FILHO, N. **Elaboração de Projetos Empresariais. 2ª ed.** Editora Atlas, 2017. MARTINS, Gilberto de Andrade; THEOPHILO, Carlos Renato. **Metodologia da investigação científica para ciências sociais aplicadas** . São Paulo: Atlas, 2017. TAKAHASHI, Adriana Roseli Wunsch. **Pesquisa qualitativa em administração: fundamentos, métodos e usos no Brasil.** São Paulo: Atlas, 2013.
 
-PEREIRA, M. R. **Plano de negócios: como planejar e executar seu próprio negócio** . Editora Senac São Paulo, 2020. 
+COMPONENTE CURRICULAR: Gestão da qualidade (Optativa)
 
-COMPONENTE CURRICULAR: Planejamento e gestão estratégica 
+CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33
 
-CARGA HORÁRIA TOTAL: Hora/aula - 80 e Hora/relógio - 67 (60 min) 
+EMENTA: Conceitos básicos sobre qualidade e a sua evolução, ferramentas e técnicas para melhoria da qualidade. Sistema brasileiro de normas. Sistema brasileiro de certificação. Controle de qualidade total - TQC. Ferramentas básicas GQT - Método do PDCA, diagrama de causa e efeito. Fluxograma. Diagrama de Pareto. Normas da ISO. Histórico da ISO. Sistema de gestão de qualidade - SGQ. Prêmios de Excelência em gestão. 5W2H. Seis sigmas. 5S BIBLIOGRAFIA BÁSICA:
 
-Carga horária de extensão: Hora/relógio - 33 
+PALADINI, Edson Pacheco. **Gestão da qualidade: teoria e prática.** São Paulo: Atlas, 2019. CARPINETTI, Luiz Cesar Ribeiro; GEROLAMO, Mateus Cecílio. **Gestão da qualidade: ISO 9001** :2015. São Paulo: Atlas, 2016. CARVALHO, M. M.; PALADINI, E. P. (Org.). **Gestão da Qualidade: Teoria e Casos** ; São Paulo: Campus, 2012. BIBLIOGRAFIA COMPLEMENTAR: FALCONI, V. C. **TQC: Controle da Qualidade Total** 9ª Edição; Nova Lima: INDG, 2014. CARPINETTI, Luiz Cesar Ribeiro. **Gestão da qualidade: conceitos e técnicas** . São Paulo: Atlas, 2016. MELLO, Carlos Pereira. **Gestão da qualidade** . Rio de Janeiro: Pearson, 2010. PALADINI, Edson Pacheco. **Gestão Estratégica da Qualidade: princípios, métodos e processos** . Atlas. SP. 2008.
 
-EMENTA: Evolução e conceitos de Planejamento, Objetivos, Estratégias e Metas; Fundamentos de planejamento e gestão estratégica; As fases e os níveis do planejamento; Análise do ambiente externo e interno da organização. A importância dos Cenários e Tendências para o Planejamento; Diagnóstico empresarial; Missão, Visão, Valores, Fatores Críticos de Sucesso; Objetivos e Metas; Cenários. Análise SWOT: Identificação de oportunidades e ameaças; Análise de forças e fraquezas da organização; Diretrizes Estratégicas: Missão, Visão e Valores; As etapas do planejamento estratégico e sua implementação; Formulação de objetivos estratégicos; Ferramentas Estratégicas; Plano de Ação e controle do Planejamento Estratégico; Tipos de Estratégias; Fatores de Competitividade e Vantagem Competitiva; Execução do plano estratégico; Monitoramento e avaliação de resultados; Comunicação e implementação da estratégia; Inovação e adaptação estratégica; Gestão estratégica de recursos humanos. Temas emergentes relacionados ao Planejamento Estratégico. 
+COMPONENTE CURRICULAR: Libras (optativa)
 
-Atividades de extensão: Os alunos buscarão uma empresa fidedigna para realizar uma atividade prática de planejamento estratégico visando desenvolver os objetivos, missão, visão e valores da organização, utilizando da ferramenta do Diagnóstico Organizacional para identificar e elencar 
+CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33
 
-80 
+EMENTA: Surdez e linguagem. Legislação e surdez. Estudo da Língua Brasileira de Sinais (LIBRAS), da sua estrutura gramatical, de expressões manuais, gestuais e do seu papel para a comunidade surda. BIBLIOGRAFIA BÁSICA:
 
-**==> picture [471 x 55] intentionally omitted <==**
+ALMEIDA, Elizabeth Crepaldi de. DUARTE, Patrícia Moreira. **Atividades Ilustradas em Sinais da Libras.** São Paulo: Revinter, 2004.
 
-subsídios para a elaboração do planejamento a curto e médio e longo prazo. Essas ações visam tornar as organizações mais competitivas no mercado de trabalho, tendo também como objetivo corrigir problemas identificados ao longo da disciplina. O trabalho será apresentado em sala de aula, e, posteriormente, encaminhado os resultados para a empresa em estudo. BIBLIOGRAFIA BÁSICA: CHIAVENATO, I. **Administração estratégica: a busca da excelência empresarial.** Elsevier Brasil, 2018. COUTINHO, L. G., & SOARES, M. A. **Planejamento estratégico: conceitos, metodologia e práticas** . Atlas, 2020. CYRINO, A. B., & BECKER, J. L. . **Planejamento estratégico: teorias, modelos e processos.** Elsevier Brasil, 2019. MINTZBERG, H., AHLSTRAND, B.; LAMPEL, J.. **Safári de estratégia: um roteiro pela selva do planejamento estratégico** . Bookman., 2019. BIBLIOGRAFIA COMPLEMENTAR: FAHEY, L.,; RANDALL, R. M. **Aprendendo a pensar estrategicamente.** Bookman, 2019. OLIVEIRA, D. P. R. . **Planejamento estratégico: conceitos, metodologia e práticas** . Atlas, 2020. PORTER, M. E. **Estratégia competitiva: técnicas para análise de indústrias e da concorrência** . Elsevier Brasil,2018 TAVARES, M. C. **Planejamento estratégico e gestão por competências: integrando teoria e prática.** Atlas,2019. 
+BOTELHO, Paula. **Linguagem e Letramento na Educação dos Surdos** . São Paulo: Editora
 
-COMPONENTE CURRICULAR: Logística aplicada CARGA HORÁRIA TOTAL: Hora/aula - 80h e Hora/relógio - 67h 
+Autêntica, 2002.
 
-EMENTA: Atividades Logísticas (atividades primárias e secundárias); Transporte; Processamento de Pedidos; Canais de Distribuição; Tipos e Classificação dos Canais de Distribuição; Conceitos de distribuição física; Propriedades dos canais de distribuição; Definição dos canais de distribuição; Custos da distribuição; Gestão da cadeia de suprimentos e agregação de  valor ao  cliente; Estudos  e  definições sobre  a localização  das  organizações; 
+**SCHNEIDER, Roseleia.** Educação de Surdos – Inclusão no Ensino Regular. São Paulo: UPF Editora, 2006.
 
-81 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-**==> picture [471 x 55] intentionally omitted <==**
+FIGUEIRA, Alexandre dos Santos. **Material de apoio para o aprendizado de libras** . São Paulo: Phorte, 2011.
 
-Movimentação de Materiais; Embalagem, armazenagem, movimentação e transporte. Planejamento das Necessidades de Materiais (MRP); Just–In-Time (JIT); Armazenagem e movimentação. BIBLIOGRAFIA BÁSICA: NOVAES, A.G. **Logística e gerenciamento da cadeia de distribuição, estratégias, operação e avaliação** . Rio de Janeiro: Elsevier, 2021. BALLOU, R. H. **Logística empresarial, transportes, administração de materiais, distribuição física** . 5ª. Ed. São Paulo: Atlas, 1993. NOGUEIRA, Amarildo de Souza. **Logística empresarial: um guia prático de operações logística** . São Paulo: Atlas, 2018. NOVAES, Antônio Galvão. **Logística e gerenciamento da cadeia de distribuição - estratégia, avaliação e operação** . São Paulo: Atlas, 2021. BIBLIOGRAFIA COMPLEMENTAR: ALVARENGA, A.C. **Logística Aplicada** . 3ª Ed. São Paulo: Edgar Blücher, 2000. CHRISTOPHER, M. **Logística e gerenciamento da cadeia de suprimentos, estratégias para a redução de custos e melhoria dos serviços.** São Paulo: Pioneira Thomson Learning, 2002. CORREA, Henrique Luiz. **Administração de cadeias de suprimento e logística.** São Paulo: Atlas, 2019. CHOPRA, Sunil; MEINDL, Peter. **Gestão da cadeia de suprimentos** . Rio de Janeiro: Pearson, 2015. 
+GESSER, Audrei. **LIBRAS? Que língua é essa? :Crenças e preconceitos em torno da língua de sinais e da realidade surda.** São Paulo: Parábola Editorial, 2009.
 
-COMPONENTE CURRICULAR: Design de loja, visual merchandising e franchising CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33 
+HOUCH, Izildinha; SIPANS, Priscila. **O grande livro de libras: língua brasileira de sinais.** São Paulo: Camelot Editora, 2021. SEGALA, Sueli Ramalho; KOJIMA, Catarina Kiguti. **A Imagem do pensamento: libras - língua brasileira de sinais.** São Paulo: Lafonte, 2021.
 
-EMENTA: Histórico do Merchandising. Materiais de merchandising em ponto de vendas.Componentes do visual merchandising; Loja; Tipos de layout. Relação do ambiente com a exposição de produtos, espaços customizados, manequins de loja, displays. Vitrinismo e a comunicação visual. Funções e tipos de vitrines. Estudo das instalações e equipamentos utilizados em vitrinas; aplicação das técnicas do Visual Merchandising; e análise do mercado de 
+COMPONENTE CURRICULAR: Inglês instrumental (optativa) CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33
 
-82 
+EMENTA: Estratégias e técnicas de leitura e interpretação de textos (scanning, skimming, inferring, predicting, recursos tipográficos, conhecimento prévio, indexação de questões, cognatas e falsas cognatas, palavras-chave, palavras repetidas). Gêneros textuais. Noções de estrutura dos textos. Estudo das estruturas de textos técnico-científicos específicos da área de administração. Aspectos gramaticais e morfológicos pertinentes à compreensão de textos técnicos. Compreensão dos principais tempos verbais e suas utilizações em textos técnicos. Vocabulário técnico da área de administração. Formação de palavras. Afixos: sufixos e prefixos mais utilizados em textos da área de administração. Textos técnicos na área de administração. BIBLIOGRAFIA BÁSICA: CRUZ, Decio Torres, OLIVEIRA, Adelaide. **Inglês para administração e economia** . São Paulo: Editora Disal, 2019. SOUZA, Adriana Grade Fiori; ABSY, Conceição A.; COSTA, Gisele Cilli da; MELLO, Leonil de Favoreto de. **Leitura em Língua Inglesa. Uma abordagem instrumental** . São Paulo: Disal, 2005.
 
-**==> picture [471 x 55] intentionally omitted <==**
+SILVA, Amaury Flávio. **Inglês prático para administração.** São Paulo: Editora Disal, 2019.
 
-trabalho. O que é franchising e tipos existentes. Vantagens e desvantagens do franchising para o franqueador e franqueado. BIBLIOGRAFIA BÁSICA: ANTERO, Kalyenne de Lima; AMARAL, Maria Carolina Merhy Ferreira do. **Design de loja e visual merchandising.** Curitiba: Intersaberes, 2021. BATISTA, Leandro Krug Líbano. **Franquias: multiplicar é a essência do negócio** . Curitiba: Intersaberes, 2022. BLESSA, Regina. **Loja perfeita : merchandising, estratégico, tático e visual** . São Paulo: Blessa, 2021. HSUAN-AN.Tai. **Design: conceitos e métodos** . São Paulo: Blucher, 2018. BIBLIOGRAFIA COMPLEMENTAR: CAMPOS, Leticia Mirella Fisher. **Promoção, produtos e mercado: análise sobre varejo, merchandising e evento.** Curitiba: Intersaberes, 2019. BLESSA, Regina. **Merchandising no Ponto de Vendas** . São Paulo: Atlas, 2007. LADEIRA, Wagner; SANTINI, Fernando. **Merchandising e promoção de vendas** . São Paulo: Atlas, 2018. ELOI, Fabio; RIVA, João; MANSANO, Kito; BONETI, Luciano. **Marketing promocional: um olhar descomplicado** . Rio de Janeiro: Cengage, 2013. DEMETRESCO, Sylvia e REGAMEY, Rita. **Tipologia e estética do visual merchandising** . São Paulo: Estação das Letras e das Cores, 2012. METRESCU, Sylvia. **Vitrines e exposições: arte técnica do visual merchandising** . Edira Érica, 2018. 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-COMPONENTE CURRICULAR: Gestão da sustentabilidade CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33 
+DIENER, Patrick. **Inglês Instrumental** . Curitiba: Contentus, 2020.
 
-EMENTA: Introdução e contextualização histórica das questões ambientais no Brasil e no mundo. Desenvolvimento Sustentável: concepções, dimensões e impactos. A variável ecológica no ambiente dos negócios; A repercussão da questão ambiental na organização; Modelos de 
+IGREJA, José Roberto A. **Fale tudo em inglês nos negócios: Um guia completo de comunicação para o mundo corporativo.** São Paulo: Editora Disal, 2019.
 
-83 
+LIMA, Thereza Cristina de Souza; KOPPE, Carmen Terezinha. **Inglês básico nas organizações.** Curitiba: InterSaberes, 2013.
 
-**==> picture [471 x 55] intentionally omitted <==**
+SANTOS, Denise. **Ensino de Língua Inglesa: foco em estratégias.** Barueri, SP: Disal, 2012.
 
-gestão ambiental; Sistema de Gestão Ambiental e a série ISO 14001; Modelos de gestão ambiental; Noções de auditoria ambiental. BIBLIOGRAFIA BÁSICA: BARBIERI, José Carlos. **Gestão Ambiental Empresarial: conceitos, modelos e instrumentos** . 3a ed. São Paulo: Saraiva, 2015. DIAS, Reinaldo. **Gestão Ambiental: responsabilidade social e sustentabilidade** . 2ª ed. São Paulo: Atlas, 2017. DAL FORNO, M A R., **Fundamentos em gestão ambiental** , Série Ensino, Aprendizagem e Tecnologias, Porto Alegre: Editora da UFRGS, 2017. MOURA, Luiz Antônio Abdalla de. **Qualidade e gestão ambiental** . 7ª Edição. São Paulo: Freitas Bastos Editora, 2023. BIBLIOGRAFIA COMPLEMENTAR: ALVES, Ricardo Ribeiro. **Sustentabilidade empresarial e mercado verde: a transformação do mundo que vivemos.** São Paulo: Editora Vozes, 2019. BUENO, Karen Estefania Moura; TAVEIRA, Bruna Daniela de Araujo; FOGAÇA, Thiago Kich. **Planejamento e Gestão ambiental.** Curitiba: Intersaberes, 2020. DONAIRE, Denis; OLIVEIRA, Edenis César de. **Gestão ambiental na empresa: fundamentos e aplicações.** São Paulo: Atlas, 2018. TACHIZAWZ, Takeshy. **Gestão ambiental e responsabilidade social corporativa: os paradigmas do novo contexto empresarial** . São Paulo: Atlas, 2019. 
+## 4.3 AVALIAÇÃO
 
-COMPONENTE CURRICULAR: Elaboração de projetos CARGA HORÁRIA TOTAL: Hora/aula - 80 e Hora/relógio - 67 Carga horária de extensão: Hora/relógio - 33 
+## 4.3.1 Avaliação da Aprendizagem
 
-EMENTA: Etapas do trabalho científico (determinação do tema e problema de pesquisa, dos objetivos, das hipóteses e variáveis de pesquisa, do tipo de pesquisa; Estrutura de trabalhos científicos: resumo, poster, relatório, projetos de pesquisa, trabalhos de conclusão de curso; Construção da revisão de literatura e escolha dos sujeitos da pesquisa); como elaborar um 
+Toda a avaliação da aprendizagem está baseada na Resolução CONSUP/IFPR Nº 50 de 14 de julho de 2017, que estabelece as normas de avaliação dos processos de ensino-aprendizagem no âmbito do IFPR. Para garantir o processo permanente de aprendizado do estudante do Tecnólogo em Processos Gerenciais, a relação entre teoria e prática, expresso na indissociabilidade do ensino, pesquisa, extensão e inovação será uma constante, encadeando os procedimentos de ensinoaprendizagem. A relação entre teoria e prática permite o desenvolvimento da capacidade do estudante de refletir criticamente. Mas cabe ao docente a mediação entre o conhecimento prévio do estudante e o sistematizado, propiciando formas de apropriação e/ou construção dos saberes em suas múltiplas dimensões. Dessa forma, a avaliação é parte do processo de ensino-aprendizagem e não um fim, devendo ser contínua, cumulativa, com predominância de aspectos qualitativos, que implicará na necessidade de diagnóstico e registro da aprendizagem constantes.
 
-84 
+Este encadeamento de atividades deverá subsidiar o planejamento, prática de ensino e tomada de decisão docente, de forma dialogada com os estudantes, permitindo também sua
 
-**==> picture [471 x 55] intentionally omitted <==**
+revisão regularmente. Neste contexto, o processo de avaliação de ensino-aprendizagem será diagnóstico, formativo e somativo.
 
-projeto; Etapas e produção de um artigo científico. 
+Os principais instrumentos de avaliação da aprendizagem de acordo com a Resolução 50 são: seminários, trabalhos individuais e/ou em grupos, testes escritos e/ou orais/sinalizados, demonstrações de técnicas em laboratório, dramatizações, apresentações de trabalhos finais de iniciação científica, artigos científicos ou ensaios, TCC, relatórios de estágio, portfólios, resenhas, autoavaliações, participação em projetos, participações em atividades culturais e esportivas, visitas técnicas, atividades em AVA, atividades de mobilidade nacional e internacional e outras atividades de ensino, pesquisa e extensão.
 
-Atividades de extensão: Os alunos realizarão no primeiro bimestre um projeto de pesquisa para uma empresa local visando identificar possíveis problemas e trazer resultados aplicáveis para a resolução dos problemas. No segundo bimestre o aluno apresentará um artigo científico, ou apresentação de pôster ou resumo expandido em evento científico apresentado os resultados da pesquisa realizada na empresa. BIBLIOGRAFIA BÁSICA: 
+O docente utilizará, ao menos, dois instrumentos ao longo de cada período avaliado para emitir resultados parciais e finais (Art. 10, parágrafo único).
 
-AMÉRICO, Bruno. **Método de pesquisa qualitativa: analisando fora da caixa** . São Paulo: Alta Books, 2021. 
+Caso a produção do estudante, a partir dos diversificados instrumentos avaliativos, indicar necessidade de recuperação, esta será garantida obrigatoriamente pelos professores do curso (tão logo sejam identificadas as dificuldades no processo de ensino aprendizagem) de forma contínua ou paralela, a depender da situação colocada e acordada entre professor, estudante, coordenação do curso e seção pedagógica do campus.
 
-BRASILEIRO, Ada Magaly Matias. **Como produzir textos acadêmicos e científicos** . São Paulo: Contexto, 2021. GIL, Antonio Carlos **Como elaborar projetos de pesquisa** . 7ª Ed. Editora Atlas, 2022. 
+O processo de ensino-aprendizagem constitui-se em um processo de construção do conhecimento no qual professor e aluno são agentes participantes na tentativa de compreender, refletir e agir sobre os conhecimentos do mundo. O professor, nessa concepção, busca favorecer um aprendizado que vá ao encontro da realidade do aluno, desenvolvendo a autonomia e criticidade do educando. Pretende-se a formação integral e humanística, aliada à formação técnico-científica, para que o educando seja um cidadão mais participativo e agente transformador em sua sociedade.
 
-SIQUEIRA, José de Oliveira. **Fundamentos de método quantitativos** . São Paulo: Saraiva, 2017. BIBLIOGRAFIA COMPLEMENTAR: CRESWELL, John W.; CRESWELL, J. David. **Projeto de pesquisa: métodos qualitativos, quantitativos e mistos.** São Paulo: Editora Penso, 2021. CORREA, Luiz Nilton. **Metodologia científica: para trabalhos acadêmicos e artigos científicos** . Editora Humanitas, 2018. 
+Nesse processo, o trabalho com os conteúdos é proposto de forma a promover o trabalho interdisciplinar (aprendizagem interdisciplinar), favorecendo a relação entre conhecimentos, de forma a tornar o aprendizado mais significativo (aprendizagem significativa). Assim, o aluno
 
-CASAROTTO FILHO, N. **Elaboração de Projetos Empresariais. 2ª ed.** Editora Atlas, 2017. MARTINS, Gilberto de Andrade; THEOPHILO, Carlos Renato. **Metodologia da investigação científica para ciências sociais aplicadas** . São Paulo: Atlas, 2017. TAKAHASHI, Adriana Roseli Wunsch. **Pesquisa qualitativa em administração: fundamentos, métodos e usos no Brasil.** São Paulo: Atlas, 2013. 
+torna-se capaz de relacionar o aprendizado em sala de aula com seu universo de conhecimento, experiências e situações profissionais.
 
-COMPONENTE CURRICULAR: Gestão da qualidade (Optativa) 
+Pretende-se, também, desenvolver no educando uma atitude técnico-científica, ou seja, interesse em descobrir, saber o porquê, questionar e propor soluções, devendo esta atitude estar presente em todas as atividades desenvolvidas no curso e ser levada pelo educando para sua vida profissional.
 
-CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33 
+Dessa forma, as estratégias de ensino usadas no Curso Superior de Tecnologia em Gestão Comercial, para a promoção do processo de ensino-aprendizagem, levam em conta os princípios metodológicos para a educação profissional, descritos no Plano de Desenvolvimento Institucional do Instituto Federal Paranaense.
 
-85 
+Neste documento, fica claro que a preocupação da Instituição não pode se resumir em qualificar o trabalhador, pensando apenas em competências, saberes e habilidades que deverão dominar, mas, de modo mais abrangente, como constituí-lo na totalidade de sua condição de ser humano, capaz de considerar valores humanistas como fundamentais, tanto para o exercício profissional, como para o exercício da cidadania.
 
-**==> picture [471 x 55] intentionally omitted <==**
+Nesta perspectiva, o processo de ensino-aprendizagem deve estar calcado na construção e reconstrução do conhecimento, num diálogo em que todos envolvidos no processo são sujeitos, partindo da reflexão, do debate e da crítica, numa perspectiva criativa, interdisciplinar e contextualizada. O professor, portanto, não deve ser somente um preletor de conteúdo, mas um facilitador da construção de conhecimento, dentro e fora de sala de aula, a partir dos saberes e do contexto econômico, social e cultural dos seus alunos. O papel do professor, assim, assume caráter fundamental, pois deverá diagnosticar, adequadamente, o perfil discente e fazer uso de adequadas metodologias, catalisadoras do processo ensino-aprendizagem, sempre com foco na associação entre teoria e prática, proporcionando a interdisciplinaridade.
 
-EMENTA: Conceitos básicos sobre qualidade e a sua evolução, ferramentas e técnicas para melhoria da qualidade. Sistema brasileiro de normas. Sistema brasileiro de certificação. Controle de qualidade total - TQC. Ferramentas básicas GQT - Método do PDCA, diagrama de causa e efeito. Fluxograma. Diagrama de Pareto. Normas da ISO. Histórico da ISO. Sistema de gestão de qualidade - SGQ. Prêmios de Excelência em gestão. 5W2H. Seis sigmas. 5S BIBLIOGRAFIA BÁSICA: 
+No tocante a concepção de avaliação do processo ensino-aprendizagem, o presente curso atende o previsto na legislação, nas normas e nos documentos institucionais do IFPR e do
 
-PALADINI, Edson Pacheco. **Gestão da qualidade: teoria e prática.** São Paulo: Atlas, 2019. CARPINETTI, Luiz Cesar Ribeiro; GEROLAMO, Mateus Cecílio. **Gestão da qualidade: ISO 9001** :2015. São Paulo: Atlas, 2016. CARVALHO, M. M.; PALADINI, E. P. (Org.). **Gestão da Qualidade: Teoria e Casos** ; São Paulo: Campus, 2012. BIBLIOGRAFIA COMPLEMENTAR: FALCONI, V. C. **TQC: Controle da Qualidade Total** 9ª Edição; Nova Lima: INDG, 2014. CARPINETTI, Luiz Cesar Ribeiro. **Gestão da qualidade: conceitos e técnicas** . São Paulo: Atlas, 2016. MELLO, Carlos Pereira. **Gestão da qualidade** . Rio de Janeiro: Pearson, 2010. PALADINI, Edson Pacheco. **Gestão Estratégica da Qualidade: princípios, métodos e processos** . Atlas. SP. 2008. 
+Câmpus Assis Chateaubriand, os quais serão apresentados a seguir.
 
-COMPONENTE CURRICULAR: Libras (optativa) 
+## 4.3.2 Concepção de Avaliação
 
-CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33 
+No Projeto Pedagógico do campus é enfatizado que nenhuma atividade humana prescinde da avaliação, ou seja, avaliar é uma ação indispensável no desempenho das mais variadas tarefas que desenvolvemos. Avaliamos continuamente, como forma de fazer o contingenciamento entre o percurso que se está seguindo e os fins previamente traçados. Entretanto, no espaço escolar a avaliação é um processo formal que supera a espontaneidade que se apresenta no cotidiano e por isso precisa ser planejada. Segundo Vasconcellos (2005, p. 69),
 
-EMENTA: Surdez e linguagem. Legislação e surdez. Estudo da Língua Brasileira de Sinais (LIBRAS), da sua estrutura gramatical, de expressões manuais, gestuais e do seu papel para a comunidade surda. BIBLIOGRAFIA BÁSICA: 
+Deve-se avaliar para mudar o que tem que ser mudado. A avaliação deve ter efeito prático, ou seja, para o professor mudar a forma de trabalhar retomando conteúdos, explicando de outra maneira, mudando a forma de organizar o trabalho em sala de aula e dar atenção especial aos alunos que apresentam maior dificuldade; quanto à escola, proporcionar mais condições de estudo, criar espaço para recuperação, rever o currículo, incentivar a integração entre professores e desenvolver sempre alternativas para melhoria do processo de ensino e aprendizagem, envolvendo o coletivo escolar.
 
-ALMEIDA, Elizabeth Crepaldi de. DUARTE, Patrícia Moreira. **Atividades Ilustradas em Sinais da Libras.** São Paulo: Revinter, 2004. 
+As atividades avaliativas do curso seguem o que prevê a Lei de Diretrizes e Bases da Educação Nacional em seu artigo 24, inciso V, em que se afirma que a avaliação do trabalho escolar deverá ser contínua e cumulativa. Também é regulamentada por meio de Resolução do Conselho de Ensino, Pesquisa e Extensão (CONSEPE), e pelo regulamento da avaliação do rendimento escolar do Instituto Federal do Paraná, Resolução nº 50 de 14 de julho de 2017, nos quais prevalecem os aspectos qualitativos sobre os quantitativos e os resultados obtidos ao longo do processo de aprendizagem.
 
-BOTELHO, Paula. **Linguagem e Letramento na Educação dos Surdos** . São Paulo: Editora 
+O processo de avaliação de ensino-aprendizagem conforme o art. 7º da Resolução nº 50/2017 será:
 
-86 
+- I. diagnóstico: considera o conhecimento prévio e o construído durante o processo de ensinoaprendizagem, abrange descrição, apreciação qualitativa acerca dos resultados apresentados
 
-**==> picture [471 x 55] intentionally omitted <==**
+pelos envolvidos em diferentes etapas do processo educativo e indica avanços e entraves para intervir e agir, redefinindo ações e objetivos;
 
-Autêntica, 2002. 
+- II. formativo: ocorre durante todo o processo de ensino-aprendizagem, é contínuo, interativo e centrado no processo por meio do qual o estudante (re)constrói seus conhecimentos, possibilitando esse acompanhamento, bem como fornecendo subsídios para a avaliação da própria prática docente;
 
-**SCHNEIDER, Roseleia.** Educação de Surdos – Inclusão no Ensino Regular. São Paulo: UPF Editora, 2006. 
+- III. somativo: possibilita a avaliação dos objetivos pretendidos; apresenta os resultados de aprendizagem em diferentes períodos e seus dados subsidiam o replanejamento do ensino para próxima etapa;
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+Nesse sentido, a prática pedagógica articula-se com a avaliação e, é neste entrelaçamento, que o ato educativo se consolida. Como a avaliação é um processo em função da aprendizagem, deduz-se que, assim como os objetivos educacionais são diversos, várias e diferentes também serão as técnicas para avaliar se a aprendizagem está se realizando ou não. Nesta perspectiva, a avaliação será concebida como diagnóstica, contínua, inclusiva, processual e formativa (LUCKESI, 2003), por meio da utilização de instrumentos diversificados.
 
-FIGUEIRA, Alexandre dos Santos. **Material de apoio para o aprendizado de libras** . São Paulo: Phorte, 2011. 
+Os instrumentos e critérios avaliativos são definidos pelos docentes que têm autonomia didático/metodológica para definir qual estratégia é a mais adequada a ser utilizada, sempre em consonância com os valores, objetivos e princípios adotados pelo IFPR.
 
-GESSER, Audrei. **LIBRAS? Que língua é essa? :Crenças e preconceitos em torno da língua de sinais e da realidade surda.** São Paulo: Parábola Editorial, 2009. 
+Para a avaliação do processo ensino-aprendizagem, deverão ser utilizados vários instrumentos avaliativos conforme prevê o Art. 9º da Resolução nº 50/2017. O docente deve utilizar, ao menos, dois instrumentos ao longo de cada período avaliado para emitir resultados parciais e finais.
 
-HOUCH, Izildinha; SIPANS, Priscila. **O grande livro de libras: língua brasileira de sinais.** São Paulo: Camelot Editora, 2021. SEGALA, Sueli Ramalho; KOJIMA, Catarina Kiguti. **A Imagem do pensamento: libras - língua brasileira de sinais.** São Paulo: Lafonte, 2021. 
+Deverão ser priorizados instrumentos de avaliação estimuladores da autonomia na aprendizagem, que envolvam atividades realizadas individualmente e em grupo e forneçam indicadores da aplicação no contexto profissional dos objetivos alcançados.
 
-COMPONENTE CURRICULAR: Inglês instrumental (optativa) CARGA HORÁRIA TOTAL: Hora/aula - 40 e Hora/relógio - 33 
+Os docentes   terão   autonomia   didático/metodológica   para   definir   qual   estratégia,
 
-EMENTA: Estratégias e técnicas de leitura e interpretação de textos (scanning, skimming, inferring, predicting, recursos tipográficos, conhecimento prévio, indexação de questões, cognatas e falsas cognatas, palavras-chave, palavras repetidas). Gêneros textuais. Noções de estrutura dos textos. Estudo das estruturas de textos técnico-científicos específicos da área de administração. Aspectos gramaticais e morfológicos pertinentes à compreensão de textos técnicos. Compreensão dos principais tempos verbais e suas utilizações em textos técnicos. Vocabulário técnico da área de administração. Formação de palavras. Afixos: sufixos e prefixos mais utilizados em textos da área de administração. Textos técnicos na área de administração. BIBLIOGRAFIA BÁSICA: CRUZ, Decio Torres, OLIVEIRA, Adelaide. **Inglês para administração e economia** . São Paulo: Editora Disal, 2019. SOUZA, Adriana Grade Fiori; ABSY, Conceição A.; COSTA, Gisele Cilli da; MELLO, Leonil de Favoreto de. **Leitura em Língua Inglesa. Uma abordagem instrumental** . São Paulo: Disal, 2005. 
+instrumentos e critérios avaliativos serão os mais adequados a serem utilizados, sempre em consonância com os valores, objetivos e princípios adotados pelo IFPR. Cabe ao docente organizar as informações obtidas e proporcionar condições para o avanço na construção do conhecimento por meio de uma proposta de avaliação que oportunize o uso de diferentes metodologias e instrumentos, que seja construída de forma participativa com os estudantes, discutida e, caso necessário, reformulada a qualquer momento do processo ensino-aprendizagem, expressando assim uma prática coletiva de trabalho.
 
-87 
+O art. 16º da Resolução IFPR nº 50/2017, inciso II, explana que a aprovação dos estudantes ocorrerá levando em conta os seguintes parâmetros: obtenção de conceito A, B ou C na disciplina/unidade curricular/componente curricular/área e frequência igual ou superior a 75% (setenta e cinco por cento) da carga horária total no período letivo dos cursos técnicos de nível médio.
 
-**==> picture [471 x 55] intentionally omitted <==**
+A verificação da apropriação dos objetivos propostos nas unidades curriculares será feita por meio de diversos instrumentos, como:
 
-SILVA, Amaury Flávio. **Inglês prático para administração.** São Paulo: Editora Disal, 2019. 
+- trabalhos individuais e ou em grupos;
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+- seminários;
 
-DIENER, Patrick. **Inglês Instrumental** . Curitiba: Contentus, 2020. 
+- testes escritos ou orais/sinalizados;
 
-IGREJA, José Roberto A. **Fale tudo em inglês nos negócios: Um guia completo de comunicação para o mundo corporativo.** São Paulo: Editora Disal, 2019. 
+- portfólios;
 
-LIMA, Thereza Cristina de Souza; KOPPE, Carmen Terezinha. **Inglês básico nas organizações.** Curitiba: InterSaberes, 2013. 
+- resenhas;
 
-SANTOS, Denise. **Ensino de Língua Inglesa: foco em estratégias.** Barueri, SP: Disal, 2012. 
+- participação em projetos;
 
-## 4.3 AVALIAÇÃO 
+- visitas técnicas;
 
-## 4.3.1 Avaliação da Aprendizagem 
+- auto avaliação;
 
-Toda a avaliação da aprendizagem está baseada na Resolução CONSUP/IFPR Nº 50 de 14 de julho de 2017, que estabelece as normas de avaliação dos processos de ensino-aprendizagem no âmbito do IFPR. Para garantir o processo permanente de aprendizado do estudante do Tecnólogo em Processos Gerenciais, a relação entre teoria e prática, expresso na indissociabilidade do ensino, pesquisa, extensão e inovação será uma constante, encadeando os procedimentos de ensinoaprendizagem. A relação entre teoria e prática permite o desenvolvimento da capacidade do estudante de refletir criticamente. Mas cabe ao docente a mediação entre o conhecimento prévio do estudante e o sistematizado, propiciando formas de apropriação e/ou construção dos saberes em suas múltiplas dimensões. Dessa forma, a avaliação é parte do processo de ensino-aprendizagem e não um fim, devendo ser contínua, cumulativa, com predominância de aspectos qualitativos, que implicará na necessidade de diagnóstico e registro da aprendizagem constantes. 
+Além disso, o docente, observando as especificidades de seu componente curricular, poderá estabelecer critérios para cada instrumento avaliativo, entendendo-os como o que se espera que os estudantes tenham aprendido durante os processos de ensino-aprendizagem.
 
-Este encadeamento de atividades deverá subsidiar o planejamento, prática de ensino e tomada de decisão docente, de forma dialogada com os estudantes, permitindo também sua 
+Dessa forma, a avaliação possibilita que se decida sobre os modos de como melhorar o processo de ensino-aprendizagem ao identificar impasses e encontrar caminhos e alternativas para superá-los. Coloca-se como uma atividade construtiva que permite aprender e continuar aprendendo, compreendida como crítica do percurso de uma ação que subsidia a aprendizagem e fundamenta a tomada de novas decisões.
 
-88 
+## 4.3.3 Recuperação Paralela
 
-**==> picture [471 x 55] intentionally omitted <==**
+Recuperação Paralela, conforme § 2o do art.13 da Resolução 50 se constitui como parte integrante do processo de ensino aprendizagem em busca da superação de dificuldades encontradas pelo estudante e deve envolver a recuperação de conteúdos e conceitos a ser realizada por meio de aulas e instrumentos definidos pelo docente em horário diverso das disciplinas/ unidades curriculares/ componentes curriculares/ áreas cursadas pelo estudante.
 
-revisão regularmente. Neste contexto, o processo de avaliação de ensino-aprendizagem será diagnóstico, formativo e somativo. 
+Complementarmente a nota ―Estudos de Recuperação do CNE/CEB, de 09 de setembro de 2013, prevê que, constatada essa recuperação, dela decorrerá a revisão dos resultados anteriormente anotados nos registros escolares. Devendo ser realizada sem computar na carga horária mínima do curso.
 
-Os principais instrumentos de avaliação da aprendizagem de acordo com a Resolução 50 são: seminários, trabalhos individuais e/ou em grupos, testes escritos e/ou orais/sinalizados, demonstrações de técnicas em laboratório, dramatizações, apresentações de trabalhos finais de iniciação científica, artigos científicos ou ensaios, TCC, relatórios de estágio, portfólios, resenhas, autoavaliações, participação em projetos, participações em atividades culturais e esportivas, visitas técnicas, atividades em AVA, atividades de mobilidade nacional e internacional e outras atividades de ensino, pesquisa e extensão. 
+A oferta da recuperação paralela será disponibilizada para todos os estudantes, principalmente aos que apresentarem baixo rendimento, logo que sejam identificadas as dificuldades no processo de ensino aprendizagem.
 
-O docente utilizará, ao menos, dois instrumentos ao longo de cada período avaliado para emitir resultados parciais e finais (Art. 10, parágrafo único). 
+A organização dos horários da recuperação é de competência de cada docente em conjunto com a equipe pedagógica e gestora do _campus_ , respeitadas as normativas institucionais.
 
-Caso a produção do estudante, a partir dos diversificados instrumentos avaliativos, indicar necessidade de recuperação, esta será garantida obrigatoriamente pelos professores do curso (tão logo sejam identificadas as dificuldades no processo de ensino aprendizagem) de forma contínua ou paralela, a depender da situação colocada e acordada entre professor, estudante, coordenação do curso e seção pedagógica do campus. 
+É responsabilidade do professor comunicar aos estudantes a oferta da recuperação paralela e os conteúdos que serão trabalhados, bem como a entrega de registros dos conteúdos e da frequência à secretaria acadêmica ao final do período.
 
-O processo de ensino-aprendizagem constitui-se em um processo de construção do conhecimento no qual professor e aluno são agentes participantes na tentativa de compreender, refletir e agir sobre os conhecimentos do mundo. O professor, nessa concepção, busca favorecer um aprendizado que vá ao encontro da realidade do aluno, desenvolvendo a autonomia e criticidade do educando. Pretende-se a formação integral e humanística, aliada à formação técnico-científica, para que o educando seja um cidadão mais participativo e agente transformador em sua sociedade. 
+Recuperação paralela implica em novos registros acadêmicos e, quando constatada a apropriação dos conteúdos estudados, ocorrerá a mudança do resultado.
 
-Nesse processo, o trabalho com os conteúdos é proposto de forma a promover o trabalho interdisciplinar (aprendizagem interdisciplinar), favorecendo a relação entre conhecimentos, de forma a tornar o aprendizado mais significativo (aprendizagem significativa). Assim, o aluno 
+É de responsabilidade do estudante participar das atividades propostas.
 
-89 
+Os estudantes que reprovarem em componentes curriculares deverão cursá-los novamente, podendo solicitar matrícula também em componentes curriculares do próximo período. Os estudantes reprovados por frequência devem cursar novamente os componentes curriculares com obrigatoriedade de frequência
 
-**==> picture [471 x 55] intentionally omitted <==**
+## 4.3.4 Forma de Emissão de Resultados
 
-torna-se capaz de relacionar o aprendizado em sala de aula com seu universo de conhecimento, experiências e situações profissionais. 
+Os resultados dos processos avaliativos serão emitidos ao final de cada componente curricular na plataforma _online_ SIGAA, e, segundo a Resolução 50/2017 do IFPR, expressos em A, B, C e D, considerando:
 
-Pretende-se, também, desenvolver no educando uma atitude técnico-científica, ou seja, interesse em descobrir, saber o porquê, questionar e propor soluções, devendo esta atitude estar presente em todas as atividades desenvolvidas no curso e ser levada pelo educando para sua vida profissional. 
+- I. conceito A – quando a aprendizagem do estudante for PLENA e atingir os objetivos, conforme critérios propostos no plano de ensino;
 
-Dessa forma, as estratégias de ensino usadas no Curso Superior de Tecnologia em Gestão Comercial, para a promoção do processo de ensino-aprendizagem, levam em conta os princípios metodológicos para a educação profissional, descritos no Plano de Desenvolvimento Institucional do Instituto Federal Paranaense. 
+- II. conceito B – quando a aprendizagem do estudante for PARCIALMENTE PLENA e atingir os objetivos, conforme critérios propostos no plano de ensino;
 
-Neste documento, fica claro que a preocupação da Instituição não pode se resumir em qualificar o trabalhador, pensando apenas em competências, saberes e habilidades que deverão dominar, mas, de modo mais abrangente, como constituí-lo na totalidade de sua condição de ser humano, capaz de considerar valores humanistas como fundamentais, tanto para o exercício profissional, como para o exercício da cidadania. 
+- III.conceito C – quando a aprendizagem do estudante for SUFICIENTE e atingir os objetivos, conforme critérios propostos no plano de ensino e;
 
-Nesta perspectiva, o processo de ensino-aprendizagem deve estar calcado na construção e reconstrução do conhecimento, num diálogo em que todos envolvidos no processo são sujeitos, partindo da reflexão, do debate e da crítica, numa perspectiva criativa, interdisciplinar e contextualizada. O professor, portanto, não deve ser somente um preletor de conteúdo, mas um facilitador da construção de conhecimento, dentro e fora de sala de aula, a partir dos saberes e do contexto econômico, social e cultural dos seus alunos. O papel do professor, assim, assume caráter fundamental, pois deverá diagnosticar, adequadamente, o perfil discente e fazer uso de adequadas metodologias, catalisadoras do processo ensino-aprendizagem, sempre com foco na associação entre teoria e prática, proporcionando a interdisciplinaridade. 
+- IV. conceito D – quando a aprendizagem do estudante for INSUFICIENTE e não atingir os objetivos, conforme critérios propostos no plano de ensino.
 
-No tocante a concepção de avaliação do processo ensino-aprendizagem, o presente curso atende o previsto na legislação, nas normas e nos documentos institucionais do IFPR e do 
+Os conceitos terão emissão parcial após cada término de período letivo, conforme organização curricular, e emissão final após o término componentes curriculares, de acordo com o calendário do _campus_ .
 
-90 
+- 4.3.5 Condições de Aprovação
 
-**==> picture [471 x 55] intentionally omitted <==**
+Conforme previsto na Resolução 50/2014, os critérios de aprovação seguem a seguinte redação: Art. 16. A aprovação dos estudantes ocorrerá considerando os seguintes critérios:
 
-Câmpus Assis Chateaubriand, os quais serão apresentados a seguir. 
+- I. obtenção de conceito A, B ou C na disciplina/ unidade curricular/ componente curricular/ área e frequência igual ou superior a 75% (setenta e cinco por cento) da carga horária total no período letivo dos cursos técnicos de nível médio;
 
-## 4.3.2 Concepção de Avaliação 
+- II. obtenção de conceito A, B ou C na disciplina/ unidade curricular/ componente curricular/ área e frequência igual ou superior a 75% (setenta e cinco por cento) da carga horária total na disciplina/ unidade curricular/ componente curricular/ área dos cursos de graduação, de pós-graduação e de qualificação profissional.
 
-No Projeto Pedagógico do campus é enfatizado que nenhuma atividade humana prescinde da avaliação, ou seja, avaliar é uma ação indispensável no desempenho das mais variadas tarefas que desenvolvemos. Avaliamos continuamente, como forma de fazer o contingenciamento entre o percurso que se está seguindo e os fins previamente traçados. Entretanto, no espaço escolar a avaliação é um processo formal que supera a espontaneidade que se apresenta no cotidiano e por isso precisa ser planejada. Segundo Vasconcellos (2005, p. 69), 
+Art. 17. Cabe aos docentes, Coordenadores de Curso, Coordenador de Ensino, Seção Pedagógica e de Assuntos Estudantis e Direção de Ensino dar ciência do processo avaliativo aos estudantes e aos pais ou responsáveis pelos estudantes menores de idade.
 
-Deve-se avaliar para mudar o que tem que ser mudado. A avaliação deve ter efeito prático, ou seja, para o professor mudar a forma de trabalhar retomando conteúdos, explicando de outra maneira, mudando a forma de organizar o trabalho em sala de aula e dar atenção especial aos alunos que apresentam maior dificuldade; quanto à escola, proporcionar mais condições de estudo, criar espaço para recuperação, rever o currículo, incentivar a integração entre professores e desenvolver sempre alternativas para melhoria do processo de ensino e aprendizagem, envolvendo o coletivo escolar. 
+A certificação de conhecimentos se dá de forma contínua, através da observação do desempenho dos estudantes em sala de aula, e através de avaliações teóricas, práticas, orais ou atividades em grupo, conforme especificidade de cada disciplina.
 
-As atividades avaliativas do curso seguem o que prevê a Lei de Diretrizes e Bases da Educação Nacional em seu artigo 24, inciso V, em que se afirma que a avaliação do trabalho escolar deverá ser contínua e cumulativa. Também é regulamentada por meio de Resolução do Conselho de Ensino, Pesquisa e Extensão (CONSEPE), e pelo regulamento da avaliação do rendimento escolar do Instituto Federal do Paraná, Resolução nº 50 de 14 de julho de 2017, nos quais prevalecem os aspectos qualitativos sobre os quantitativos e os resultados obtidos ao longo do processo de aprendizagem. 
+## 4.3.6 Progressão total, parcial e reprovação
 
-O processo de avaliação de ensino-aprendizagem conforme o art. 7º da Resolução nº 50/2017 será: 
+Conforme resolução 02/2017, da qual prevê alterações na resolução 55/2011 no que a respeito das ― Normas Gerais de Avaliação e do Registro e Acompanhamento Acadêmico, passam a vigorar as seguintes redações:
 
-- I. diagnóstico: considera o conhecimento prévio e o construído durante o processo de ensinoaprendizagem, abrange descrição, apreciação qualitativa acerca dos resultados apresentados 
+Art. 101: Os cursos com regime de oferta semestral e matrícula por componente curricular deverão prever em seu PPC as possibilidades de progressão total e parcial, de acordo com a organização curricular e distribuição dos componentes nos períodos.
 
-91 
+Art. 102: O estudante que obtiver reprovação em componente(s) curricular(es) terá progressão total ou parcial para o semestre seguinte, e deverá cursar o(s) componente(s) em
 
-**==> picture [471 x 55] intentionally omitted <==**
+regime de dependência preferencialmente na próxima oferta regular do curso.
 
-pelos envolvidos em diferentes etapas do processo educativo e indica avanços e entraves para intervir e agir, redefinindo ações e objetivos; 
+Parágrafo único – Os acadêmicos com direito à progressão parcial poderão optar por matricular- se apenas nas disciplinas em dependência.
 
-- II. formativo: ocorre durante todo o processo de ensino-aprendizagem, é contínuo, interativo e centrado no processo por meio do qual o estudante (re)constrói seus conhecimentos, possibilitando esse acompanhamento, bem como fornecendo subsídios para a avaliação da própria prática docente; 
+Art. 103: Na impossibilidade de cursar o componente curricular em regime de dependência, na oferta regular do curso, o estudante poderá ser matriculado em turma especial, aberta para esse fim, sendo mantida, obrigatoriamente, a modalidade do curso.
 
-- III. somativo: possibilita a avaliação dos objetivos pretendidos; apresenta os resultados de aprendizagem em diferentes períodos e seus dados subsidiam o replanejamento do ensino para próxima etapa; 
+Com previsto na Resolução 50/2011 no art.23 os estudantes reprovados por frequência devem cursar novamente as disciplinas/ unidades curriculares/ componentes curriculares/ áreas com obrigatoriedade de frequência.
 
-Nesse sentido, a prática pedagógica articula-se com a avaliação e, é neste entrelaçamento, que o ato educativo se consolida. Como a avaliação é um processo em função da aprendizagem, deduz-se que, assim como os objetivos educacionais são diversos, várias e diferentes também serão as técnicas para avaliar se a aprendizagem está se realizando ou não. Nesta perspectiva, a avaliação será concebida como diagnóstica, contínua, inclusiva, processual e formativa (LUCKESI, 2003), por meio da utilização de instrumentos diversificados. 
+## 4.3.7 Plano de Avaliação Institucional
 
-Os instrumentos e critérios avaliativos são definidos pelos docentes que têm autonomia didático/metodológica para definir qual estratégia é a mais adequada a ser utilizada, sempre em consonância com os valores, objetivos e princípios adotados pelo IFPR. 
+O Plano de Avaliação Institucional do Instituto Federal do Paraná atende às orientações do Sistema Nacional de Avaliação da Educação Superior (SINAES), instituído pela Lei nº 10861/2004, e tem por objetivo a promoção da qualidade de ensino nesse nível de educação.
 
-Para a avaliação do processo ensino-aprendizagem, deverão ser utilizados vários instrumentos avaliativos conforme prevê o Art. 9º da Resolução nº 50/2017. O docente deve utilizar, ao menos, dois instrumentos ao longo de cada período avaliado para emitir resultados parciais e finais. 
+A Lei nº 10861/2004 prevê três dimensões para a avaliação institucional, quais sejam, a Auto Avaliação Institucional, a Avaliação Externa in loco, e o Exame Nacional de Desempenho dos Estudantes (ENADE). O Art. 3º da Lei nº 10861/2004 estabelece como objetivo da avaliação das instituições de ensino superior “identificar o seu perfil e o significado de sua atuação, por meio de suas atividades, cursos, programas, projetos e setores, considerando as diferentes dimensões institucionais”. Como dimensões para essa avaliação, o mesmo artigo, em seus incisos, indica dez aspectos:
 
-Deverão ser priorizados instrumentos de avaliação estimuladores da autonomia na aprendizagem, que envolvam atividades realizadas individualmente e em grupo e forneçam indicadores da aplicação no contexto profissional dos objetivos alcançados. 
+## I- a missão e o plano de desenvolvimento institucional;
 
-Os docentes   terão   autonomia   didático/metodológica   para   definir   qual   estratégia, 
+II- a política para o ensino, a pesquisa, a pós-graduação, a extensão e as respectivas formas de operacionalização, incluídos os procedimentos para estímulo à produção acadêmica, as bolsas de pesquisa, de monitoria e demais modalidades;
 
-92 
+III- a responsabilidade social da instituição, considerada especialmente no que se refere à sua contribuição em relação à inclusão social, ao Página 38 de 115 desenvolvimento econômico e social, à defesa do meio ambiente, da memória cultural, da produção artística e do patrimônio cultural; IV- a comunicação com a sociedade;
 
-**==> picture [471 x 55] intentionally omitted <==**
+V- as políticas de pessoal, as carreiras do corpo docente e do corpo técnico administrativo, seu aperfeiçoamento, desenvolvimento profissional e suas condições de trabalho;
 
-instrumentos e critérios avaliativos serão os mais adequados a serem utilizados, sempre em consonância com os valores, objetivos e princípios adotados pelo IFPR. Cabe ao docente organizar as informações obtidas e proporcionar condições para o avanço na construção do conhecimento por meio de uma proposta de avaliação que oportunize o uso de diferentes metodologias e instrumentos, que seja construída de forma participativa com os estudantes, discutida e, caso necessário, reformulada a qualquer momento do processo ensino-aprendizagem, expressando assim uma prática coletiva de trabalho. 
+VI- organização e gestão da instituição, especialmente o funcionamento e representatividade dos colegiados, sua independência e autonomia na relação com a mantenedora, e a participação dos segmentos da comunidade universitária nos processos decisórios;
 
-O art. 16º da Resolução IFPR nº 50/2017, inciso II, explana que a aprovação dos estudantes ocorrerá levando em conta os seguintes parâmetros: obtenção de conceito A, B ou C na disciplina/unidade curricular/componente curricular/área e frequência igual ou superior a 75% (setenta e cinco por cento) da carga horária total no período letivo dos cursos técnicos de nível médio. 
+VII- infraestrutura física, especialmente a de ensino e de pesquisa, biblioteca, recursos de informação e comunicação;
 
-A verificação da apropriação dos objetivos propostos nas unidades curriculares será feita por meio de diversos instrumentos, como: 
+VIII- planejamento e avaliação, especialmente os processos, resultados e eficácia da auto avaliação institucional;
 
-- trabalhos individuais e ou em grupos; 
+IX- políticas de atendimento aos estudantes;
 
-- seminários; 
+X- sustentabilidade financeira, tendo em vista o significado social da continuidade dos compromissos na oferta da educação superior. (Lei nº 10861/2004).
 
-- testes escritos ou orais/sinalizados; 
+Para o acompanhamento, discussão e execução da Avaliação Institucional, a Lei nº 10861/2004 prevê a criação da Comissão Própria de Avaliação, que, conforme o Relatório de Autoavaliação do IFPR (2010, p. 17), tem como atribuições “coordenar e articular o processo de Avaliação Institucional, bem como disponibilizar o resultado à comunidade acadêmica”
 
-- portfólios; 
+A CPA (Comissão Própria de Avaliação) é instituída pelo SINAES (Sistema Nacional de Avaliação da Educação Superior) e é responsável pela implantação e desenvolvimento de processos de avaliação institucional. Os instrumentos de avaliação (questionários, pesquisas ou
 
-- resenhas; 
+outras ferramentas) a serem desenvolvidas pela CPA servirão para o planejamento educacional e apontaram as áreas e setores que precisam de melhorias.
 
-- participação em projetos; 
+Atribuições da CPA do IFPR:
 
-- visitas técnicas; 
+- I. Apreciar:
 
-- auto avaliação; 
+a) o cumprimento dos princípios, finalidades e objetivos institucionais;
 
-Além disso, o docente, observando as especificidades de seu componente curricular, poderá estabelecer critérios para cada instrumento avaliativo, entendendo-os como o que se espera que os estudantes tenham aprendido durante os processos de ensino-aprendizagem. 
+b) a missão e o Plano de Desenvolvimento Institucional (PDI);
 
-93 
+c) as políticas de ensino, pesquisa, pós-graduação e extensão;
 
-**==> picture [471 x 55] intentionally omitted <==**
+- d) a responsabilidade social da Instituição;
 
-Dessa forma, a avaliação possibilita que se decida sobre os modos de como melhorar o processo de ensino-aprendizagem ao identificar impasses e encontrar caminhos e alternativas para superá-los. Coloca-se como uma atividade construtiva que permite aprender e continuar aprendendo, compreendida como crítica do percurso de uma ação que subsidia a aprendizagem e fundamenta a tomada de novas decisões. 
+- e) a infraestrutura física, em especial a do ensino, pesquisa, pós-graduação, extensão e biblioteca;
 
-## 4.3.3 Recuperação Paralela 
+f) a comunicação com a sociedade;
 
-Recuperação Paralela, conforme § 2o do art.13 da Resolução 50 se constitui como parte integrante do processo de ensino aprendizagem em busca da superação de dificuldades encontradas pelo estudante e deve envolver a recuperação de conteúdos e conceitos a ser realizada por meio de aulas e instrumentos definidos pelo docente em horário diverso das disciplinas/ unidades curriculares/ componentes curriculares/ áreas cursadas pelo estudante. 
+g) a organização e gestão da Instituição;
 
-Complementarmente a nota ―Estudos de Recuperação do CNE/CEB, de 09 de setembro de 2013, prevê que, constatada essa recuperação, dela decorrerá a revisão dos resultados anteriormente anotados nos registros escolares. Devendo ser realizada sem computar na carga horária mínima do curso. 
+h) o planejamento e avaliação, especialmente os processos, resultados e eficácia da auto avaliação institucional; e
 
-A oferta da recuperação paralela será disponibilizada para todos os estudantes, principalmente aos que apresentarem baixo rendimento, logo que sejam identificadas as dificuldades no processo de ensino aprendizagem. 
+i) as políticas de atendimento aos estudantes.
 
-A organização dos horários da recuperação é de competência de cada docente em conjunto com a equipe pedagógica e gestora do _campus_ , respeitadas as normativas institucionais. 
+II.Analisar as avaliações dos diferentes segmentos do IFPR, no âmbito da sua competência; III. Desenvolver estudos e análises, visando o fornecimento de subsídios para fixação, aperfeiçoamento e modificação da política da Avaliação Institucional;
 
-É responsabilidade do professor comunicar aos estudantes a oferta da recuperação paralela e os conteúdos que serão trabalhados, bem como a entrega de registros dos conteúdos e da frequência à secretaria acadêmica ao final do período. 
+III. Propor projetos, programas e ações que proporcionem a melhoria do processo avaliativo institucional;
 
-94 
+IV. Participar de todas as atividades relativas a eventos promovidos pelo
 
-**==> picture [471 x 55] intentionally omitted <==**
+Conselho Nacional de Educação Superior (CONAES), sempre que convidada ou convocada; e colaborar com os órgãos próprios do IFPR, no planejamento dos programas de Avaliação Institucional.
 
-Recuperação paralela implica em novos registros acadêmicos e, quando constatada a apropriação dos conteúdos estudados, ocorrerá a mudança do resultado. 
+Pretende-se estabelecer comunicação contínua entre a CPA e os docentes e estudantes do curso Superior de Tecnologia em Processos Gerenciais por meio de convites aos membros representantes da CPA do câmpus Curitiba para participar eventualmente das reuniões do colegiado do curso.
 
-É de responsabilidade do estudante participar das atividades propostas. 
+## 4.3.8 Avaliação do Curso
 
-Os estudantes que reprovarem em componentes curriculares deverão cursá-los novamente, podendo solicitar matrícula também em componentes curriculares do próximo período. Os estudantes reprovados por frequência devem cursar novamente os componentes curriculares com obrigatoriedade de frequência 
+O planejamento e a implementação do projeto do curso, assim como seu desenvolvimento, serão avaliados no campus, objetivando analisar as condições de ensino e aprendizagem dos estudantes, desde a adequação do currículo e a organização didático-pedagógica até as instalações físicas. Para tanto, será assegurada a participação do corpo discente, docente e técnicoadministrativo, e outras possíveis representações.
 
-## 4.3.4 Forma de Emissão de Resultados 
+Contudo, a avaliação do Curso de Tecnologia em Gestão Comercial é pautada nos princípios avaliativos da instituição, sendo realizadas de forma constante, nas reuniões de colegiado, reuniões com representantes de turma e com os responsáveis por projetos existentes no curso. Esta dinâmica permite documentar os pontos positivos e negativos, as possibilidades e os limites, os avanços e as dificuldades, subsidiando a posição ou a redefinição de rotas a serem seguidas.
 
-Os resultados dos processos avaliativos serão emitidos ao final de cada componente curricular na plataforma _online_ SIGAA, e, segundo a Resolução 50/2017 do IFPR, expressos em A, B, C e D, considerando: 
+Para que esta dinâmica seja possível, os conceitos de avaliação incorporados neste PPC devem estar presentes de forma permanente, com vistas a possibilitar que sejam atingidos plenamente os objetivos do Curso.
 
-- I. conceito A – quando a aprendizagem do estudante for PLENA e atingir os objetivos, conforme critérios propostos no plano de ensino; 
+Os documentos originados destas avaliações compreendem as atas das reuniões do colegiado e do Núcleo Docente Estruturante, bem como nos relatórios dos processos avaliativos
 
-- II. conceito B – quando a aprendizagem do estudante for PARCIALMENTE PLENA e atingir os objetivos, conforme critérios propostos no plano de ensino; 
+institucionais.
 
-- III.conceito C – quando a aprendizagem do estudante for SUFICIENTE e atingir os objetivos, conforme critérios propostos no plano de ensino e; 
+Serão estabelecidos instrumentos, procedimentos, mecanismos e critérios da avaliação institucional do curso, incluindo autoavaliações. Tal avaliação interna será constante, com momentos específicos para discussão, contemplando a análise global e integrada das diferentes dimensões, estruturas, relações, compromisso social, atividades e finalidades da instituição e do respectivo curso em questão.
 
-- IV. conceito D – quando a aprendizagem do estudante for INSUFICIENTE e não atingir os objetivos, conforme critérios propostos no plano de ensino. 
+Há também o relatório institucional reportado pela Comissão Própria de Avaliação (CPA), com atuação autônoma, representação no IFPR e no Campus especificamente. Faz parte do conjunto de atribuições da CPA prestar as informações solicitadas pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP), conduzir e sistematizar os processos internos de avaliação da instituição, sintetizar e reportar os resultados.
 
-Os conceitos terão emissão parcial após cada término de período letivo, conforme organização curricular, e emissão final após o término componentes curriculares, de acordo com o calendário do _campus_ . 
+Tais resultados são recomendações para as prioridades das ações a serem tomadas pela direção do Campus. Além disso, serão consideradas as avaliações externas, os resultados obtidos pelos alunos do curso no Exame Nacional de Desempenho de Estudantes (Enade) e os dados apresentados pelo Sistema Nacional de Avaliação da Educação Superior (Sinaes). O resultado dessas avaliações periódicas apontará a adequação e eficácia do projeto do curso e para que se preveja as ações acadêmico-administrativas necessárias, a serem implementadas.
 
-- 4.3.5 Condições de Aprovação 
+Todas as avaliações realizadas na Instituição deverão ser analisadas pelo colegiado do Curso a fim de que melhorias permanentes sejam implantadas.
 
-95 
+Para fins de Reconhecimento, será seguido as determinações da Lei nº 10.861, de 14 de abril de 2004, Decreto nº 5.773, de 9 de maio de 2006 e Portaria Normativa/MEC nº 23, de 01 de Dezembro de 2010, bem como os instrumentos de avaliação constantes no Sistema Nacional de Avaliação da Educação Superior – SINAES (http://download.inep.gov.br/educacao_superior/avaliacao_cursos_graduacao/instrumentos/2017/ curso_a utorizacao.pdf).
 
-**==> picture [471 x 55] intentionally omitted <==**
+No ano de 2022 foi realizada _in loco_ a visita técnica do Ministério da Educação - MEC para a avaliação do curso de Tecnologia em Gestão Comercial - TGC, obtendo nota máxima de avaliação cinco (5).
 
-Conforme previsto na Resolução 50/2014, os critérios de aprovação seguem a seguinte redação: Art. 16. A aprovação dos estudantes ocorrerá considerando os seguintes critérios: 
+## 4.3.9 Avaliação do Projeto Pedagógico do Curso
 
-- I. obtenção de conceito A, B ou C na disciplina/ unidade curricular/ componente curricular/ área e frequência igual ou superior a 75% (setenta e cinco por cento) da carga horária total no período letivo dos cursos técnicos de nível médio; 
+O projeto pedagógico desse curso, se necessário, sofrerá alterações quanto à concepção pedagógica do curso e/ou à estrutura e organização curricular e/ou ao perfil profissional, conforme a Instrução Interna de Procedimentos Proens/ IFPR Nº 04, de 27 de setembro de 2018, da I Art. 39: ― A solicitação de ajuste curricular somente poderá ocorrer após a integralização de cada matriz curricular implantada.
 
-- II. obtenção de conceito A, B ou C na disciplina/ unidade curricular/ componente curricular/ área e frequência igual ou superior a 75% (setenta e cinco por cento) da carga horária total na disciplina/ unidade curricular/ componente curricular/ área dos cursos de graduação, de pós-graduação e de qualificação profissional. 
+O PPC do curso passará pela avaliação e reformulação seguindo a Resolução Nº 08 de 23 de fevereiro de 2021, que institui o Núcleo Docente Estruturante que constitui segmento da estrutura de gestão acadêmica de cada Curso de Graduação – Bacharelados, Licenciaturas e Tecnologias,com atribuições consultivas, propositivas e avaliativas sobre matéria de natureza acadêmica, responsável pela concepção, implementação e consolidação dos Projetos Pedagógicos de cada curso.
 
-Art. 17. Cabe aos docentes, Coordenadores de Curso, Coordenador de Ensino, Seção Pedagógica e de Assuntos Estudantis e Direção de Ensino dar ciência do processo avaliativo aos estudantes e aos pais ou responsáveis pelos estudantes menores de idade. 
+O PPC também será apreciado pelo colegiado do curso conforme regimento interno do IFPR Nº 56/2012 do qual expressa que os colegiados de curso são órgãos consultivos e deliberativos do _Campus_ para assuntos de natureza pedagógica, didática e disciplinar, no âmbito de cada curso, tendo como finalidade o desenvolvimento e fortalecimento dos cursos ofertados, assegurando a participação dos segmentos da comunidade escolar.
 
-A certificação de conhecimentos se dá de forma contínua, através da observação do desempenho dos estudantes em sala de aula, e através de avaliações teóricas, práticas, orais ou atividades em grupo, conforme especificidade de cada disciplina. 
+Em reuniões do Núcleos Docente Estruturante e do Colegiado do curso serão discutidos, sempre que necessário, a alteração de oferta de componente curricular, as atualizações bibliográficas e as situações excepcionais que exijam modificações imediatas no projeto. Sendo estas identificadas, serão solicitadas à PROENS que poderá discipliná-las por ato normativo ou
 
-## 4.3.6 Progressão total, parcial e reprovação 
+outras formas de autorização.
 
-Conforme resolução 02/2017, da qual prevê alterações na resolução 55/2011 no que a respeito das ― Normas Gerais de Avaliação e do Registro e Acompanhamento Acadêmico, passam a vigorar as seguintes redações: 
+## 4.4 ESTÁGIO CURRICULAR
 
-Art. 101: Os cursos com regime de oferta semestral e matrícula por componente curricular deverão prever em seu PPC as possibilidades de progressão total e parcial, de acordo com a organização curricular e distribuição dos componentes nos períodos. 
+Não se Aplica
 
-Art. 102: O estudante que obtiver reprovação em componente(s) curricular(es) terá progressão total ou parcial para o semestre seguinte, e deverá cursar o(s) componente(s) em 
+## 4.4.1 Características do Estágio Obrigatório
 
-96 
+Não se aplica ao curso.
 
-**==> picture [471 x 55] intentionally omitted <==**
+## 4.4.2 Convênios de Estágio
 
-regime de dependência preferencialmente na próxima oferta regular do curso. 
+No Curso Superior de Tecnologia em Gestão Comercial o estágio não é obrigatório. Porém, todo estudante que desejar realizar estágio, terá o respaldo institucional pela Resolução CONSUP/IFPR nº 82, de 02 de junho de 2022, visando aproximar o conhecimento teórico da prática do mundo do trabalho.
 
-Parágrafo único – Os acadêmicos com direito à progressão parcial poderão optar por matricular- se apenas nas disciplinas em dependência. 
+Todos os trâmites ocorrerão de acordo com as políticas institucionais já existentes no campus Assis Chateaubriand, da mesma forma que, com a formalização dos termos de cooperação e convênios entre o IFPR e instituições públicas e privadas.
 
-Art. 103: Na impossibilidade de cursar o componente curricular em regime de dependência, na oferta regular do curso, o estudante poderá ser matriculado em turma especial, aberta para esse fim, sendo mantida, obrigatoriamente, a modalidade do curso. 
+O regulamento de estágio se encontra no Apêndice A deste projeto.
 
-Com previsto na Resolução 50/2011 no art.23 os estudantes reprovados por frequência devem cursar novamente as disciplinas/ unidades curriculares/ componentes curriculares/ áreas com obrigatoriedade de frequência. 
+## 4.5 INTEGRAÇÃO COM AS ORGANIZAÇÕES PÚBLICAS, CIVIS E PARTICULARES
 
-## 4.3.7 Plano de Avaliação Institucional 
+4.5.1 Integração com as redes públicas de ensino e proposição de atividades práticas de ensino para licenciaturas
 
-O Plano de Avaliação Institucional do Instituto Federal do Paraná atende às orientações do Sistema Nacional de Avaliação da Educação Superior (SINAES), instituído pela Lei nº 10861/2004, e tem por objetivo a promoção da qualidade de ensino nesse nível de educação. 
+Não se aplica para este curso.
 
-A Lei nº 10861/2004 prevê três dimensões para a avaliação institucional, quais sejam, a Auto Avaliação Institucional, a Avaliação Externa in loco, e o Exame Nacional de Desempenho dos Estudantes (ENADE). O Art. 3º da Lei nº 10861/2004 estabelece como objetivo da avaliação das instituições de ensino superior “identificar o seu perfil e o significado de sua atuação, por meio de suas atividades, cursos, programas, projetos e setores, considerando as diferentes dimensões institucionais”. Como dimensões para essa avaliação, o mesmo artigo, em seus incisos, indica dez aspectos: 
+4.5.2 Integração com o sistema local e regional de saúde (SUS) e proposição de atividades práticas de ensino para áreas da saúde
 
-## I- a missão e o plano de desenvolvimento institucional; 
+Não se aplica para este curso.
 
-II- a política para o ensino, a pesquisa, a pós-graduação, a extensão e as respectivas formas de operacionalização, incluídos os procedimentos para estímulo à produção acadêmica, as bolsas de pesquisa, de monitoria e demais modalidades; 
+## 4.5.3 Integração com os setores públicos, civis e privados
 
-97 
+Este curso surgiu de uma demanda social através da consulta pública realizada na Audiência Pública do PDI 2019/2023 do câmpus Assis Chateaubriand. Neste ato foi utilizado como instrumento de coleta de dados um formulário _online_ disponibilizado dias antes da audiência e foi deixado livre para contribuições dias depois, bem como, formulário impresso entregue no dia da Audiência Pública.
 
-**==> picture [471 x 55] intentionally omitted <==**
+Diante das informações geradas na Audiência foi criado uma comissão interna do _campus_ para tratar das demandas latentes identificados para o Eixo Tecnológico de Gestão e Negócios do _campus_ e, esta comissão, utilizou-se das informações e delas demandou outra consulta junto aos empresários do município em parceria com a Associação Comercial, Industrial e Agropecuária do Município de Assis Chateaubriand que foi identificado quais cursos existentes no catálogo nacional de cursos para área específico do Eixo de Gestão e Negócios teriam maior empregabilidade no mercado local e microrregional.
 
-III- a responsabilidade social da instituição, considerada especialmente no que se refere à sua contribuição em relação à inclusão social, ao Página 38 de 115 desenvolvimento econômico e social, à defesa do meio ambiente, da memória cultural, da produção artística e do patrimônio cultural; IV- a comunicação com a sociedade; 
+Não obstante, também foi realizado parceria institucional entre o IFPR _Campus_ Assis Chateaubriand e a ACIAC, cuja a aproximação ocorreu por meio de uma indicação via portaria de um representante do IFPR para participar de todas as reuniões da ACIAC e que membros da Associação possam fazer parte do CODIC. Diante desta ação de integração outras têm surgido e ao decorrer dos cursos do Eixo de Gestão poderão ser integradas à dinâmica organizacional do IFPR.
 
-V- as políticas de pessoal, as carreiras do corpo docente e do corpo técnico administrativo, seu aperfeiçoamento, desenvolvimento profissional e suas condições de trabalho; 
+## 4.6 TRABALHO DE CONCLUSÃO DE CURSO
 
-VI- organização e gestão da instituição, especialmente o funcionamento e representatividade dos colegiados, sua independência e autonomia na relação com a mantenedora, e a participação dos segmentos da comunidade universitária nos processos decisórios; 
+Não se aplica
 
-VII- infraestrutura física, especialmente a de ensino e de pesquisa, biblioteca, recursos de informação e comunicação; 
+## 4.7 ATIVIDADES COMPLEMENTARES
 
-VIII- planejamento e avaliação, especialmente os processos, resultados e eficácia da auto avaliação institucional; 
+As Atividades Complementares ou Atividades Acadêmico-Científico-Culturais são obrigatórias, segundo a Resolução CNE/CP 2/2019, são componentes curriculares que possibilitam o reconhecimento, por avaliação, de habilidades, conhecimentos e competências do estudante, inclusive adquiridas fora do ambiente escolar, abrangendo a prática de estudos e
 
-IX- políticas de atendimento aos estudantes; 
+atividades independentes, transversais, opcionais e de interdisciplinaridade com o mundo do trabalho.
 
-X- sustentabilidade financeira, tendo em vista o significado social da continuidade dos compromissos na oferta da educação superior. (Lei nº 10861/2004). 
+As atividades complementares têm a finalidade de enriquecer o processo de ensinoaprendizagem, privilegiando a complementação da formação social e profissional, por meio de atividades de cunho comunitário, de assistência acadêmica, científica, tecnológica, esportivas e culturais, através da participação do corpo discente em eventos científicos e profissionais, como palestras, congressos, encontros, seminários e outros congêneres, em grupos de pesquisa, em projetos sociais e de extensão, publicações de artigos e em cursos de curta duração relacionados à sua área de conhecimento.
 
-Para o acompanhamento, discussão e execução da Avaliação Institucional, a Lei nº 10861/2004 prevê a criação da Comissão Própria de Avaliação, que, conforme o Relatório de Autoavaliação do IFPR (2010, p. 17), tem como atribuições “coordenar e articular o processo de Avaliação Institucional, bem como disponibilizar o resultado à comunidade acadêmica” 
+As atividades complementares são obrigatórias e devem ser realizadas fora do horário do curso normal e fora dos componentes curriculares obrigatórios, compondo uma carga horária mínima de 150 (cento e cinquenta) horas.
 
-A CPA (Comissão Própria de Avaliação) é instituída pelo SINAES (Sistema Nacional de Avaliação da Educação Superior) e é responsável pela implantação e desenvolvimento de processos de avaliação institucional. Os instrumentos de avaliação (questionários, pesquisas ou 
+Todas as atividades realizadas devem ser comprovadas pelo próprio estudante, mediante declarações e certificados contendo número de horas e descrição das atividades desenvolvidas. Somente serão computadas, a título de Atividades Complementares, aquelas realizadas durante o período estabelecido para a integralização do Curso de Tecnologia em Gestão Comercial.
 
-98 
+No âmbito do Curso, as Atividades Complementares serão propostas concomitantes à matriz curricular em cada um dos 4 semestres do curso, consistindo também em mecanismos de aproveitamento de conhecimentos, adquiridos pelo estudante, através de estudos e práticas independentes, desde que atendido o prazo mínimo, estabelecido pela Instituição, para a conclusão do curso. O regulamento das Atividades Complementares encontra-se no Apêndice B deste documento.
 
-**==> picture [471 x 55] intentionally omitted <==**
+## **5. POLÍTICAS DE ATENDIMENTO AOS ESTUDANTES**
 
-outras ferramentas) a serem desenvolvidas pela CPA servirão para o planejamento educacional e apontaram as áreas e setores que precisam de melhorias. 
+## 5.1 FORMAS DE ACESSO E PERMANÊNCIA
 
-Atribuições da CPA do IFPR: 
+Quanto ao ingresso de estudantes, o qual se dá por meio de Processo Seletivo, o IFPR tem como base, principalmente, a Lei nº 12.711, de 29 de agosto de 2012, que dispõe sobre o ingresso nas universidades federais e nas instituições federais de ensino técnico de nível médio e dá outras providências; o Decreto nº 7.824, de 11 de outubro de 2012, que regulamenta a Lei nº 12.711; a Portaria Normativa nº 18, de 11 de outubro de 2012, que dispõe sobre a implementação das reservas de vagas em instituições federais de ensino de que tratam os documentos supracitados (PDI/IFPR, 2019-2023).
 
-- I. Apreciar: 
+As políticas de assistência estudantil institucional pretendem garantir a permanência do estudante até o final do Curso.
 
-a) o cumprimento dos princípios, finalidades e objetivos institucionais; 
+5.1.1 Programas de Ensino, Pesquisa, Extensão, Inovação, Inclusão Social e Assistência estudantil
 
-b) a missão e o Plano de Desenvolvimento Institucional (PDI); 
+A Assistência Estudantil, pautada na Política Nacional da Assistência Estudantil – PNAES – Decreto nº 7.234/2010, tem como finalidade ampliar as condições de acesso, permanência e êxito dos estudantes no IFPR. As ações planejadas a partir dessa política buscam aprimorar o desenvolvimento intelectual e humano da comunidade acadêmica contemplada pelos benefícios, sobretudo porque estão articuladas ao tripé ensino, pesquisa e extensão (PDI/IFPR, 2019-2023).
 
-c) as políticas de ensino, pesquisa, pós-graduação e extensão; 
+A Assistência Estudantil é orientada por princípios e diretrizes institucionais que se configuram como fundamentos para a elaboração e a execução de programas e ações, estabelecendo-se de forma transversal a todos os setores que compõem a Instituição (PDI/IFPR, 2019-2023). Os Programas Institucionais de Bolsas de Estudos são regulamentados pelas Resoluções CONSUP nº 11/2009 e nº 53/201.
 
-- d) a responsabilidade social da Instituição; 
+Essa Política tem como premissa a respeitabilidade a diversidade social, étnica, racial e inclusiva na perspectiva de uma sociedade democrática e cidadã, pautando-se nos seguintes princípios:
 
-- e) a infraestrutura física, em especial a do ensino, pesquisa, pós-graduação, extensão e biblioteca; 
+I. Educação profissional e tecnológica pública e gratuita de qualidade;
 
-f) a comunicação com a sociedade; 
+- II. Igualdade de oportunidade no acesso, permanência e conclusão de curso;
 
-g) a organização e gestão da Instituição; 
+- III. Garantia de qualidade de formação tecnológica e humanística voltada ao fortalecimento das políticas de inclusão social;
 
-h) o planejamento e avaliação, especialmente os processos, resultados e eficácia da auto avaliação institucional; e 
+- IV. Defesa do pluralismo de ideias com reconhecimento a liberdade de expressão;
 
-i) as políticas de atendimento aos estudantes. 
+- V. Eliminação de qualquer forma de preconceito ou discriminação;
 
-II.Analisar as avaliações dos diferentes segmentos do IFPR, no âmbito da sua competência; III. Desenvolver estudos e análises, visando o fornecimento de subsídios para fixação, aperfeiçoamento e modificação da política da Avaliação Institucional; 
+São Programas de Bolsas de Estudos do IFPR: o Programa Institucional de Bolsas de Iniciação Científica do IFPR – PIBIC e PIBIC-Jr, o Programa de Bolsas de Extensão – PIBEX e PIBEX - Jr, o Programa de Bolsas de Inclusão Social – PBIS, o PRADI - Programa de Apoio ao Desenvolvimento Tecnológico e Inovação do IFPR, o PIBID – Programa de Bolsas de Iniciação à Docência, além do Programa de Auxílio Complementar ao Estudante – PACE, do PIAP - Programa de Apoio à Pesquisa do IFPR e do Programa de Apoio a Eventos Estudantis, que consiste em oportunizar aos estudantes enriquecimento em sua formação profissional e humanística, por meio de apoio financeiro ou logístico aos estudantes regularmente matriculados no IFPR para participarem de eventos locais, estaduais e nacionais, de natureza acadêmica, científica, cultural e esportiva. Este programa está regulamentado através da Resolução 65/2010 e é ofertado através de edital, com inscrições ao longo do ano letivo.
 
-III. Propor projetos, programas e ações que proporcionem a melhoria do processo avaliativo institucional; 
+O PIBIC está inserido no Programa Institucional de Iniciação Científica (PIIC), que é voltado para o desenvolvimento do pensamento científico e iniciação à pesquisa de estudantes de graduação e integra alguns os programas de iniciação científica de agências de fomento. O PIIC do IFPR é regulamentado através da Resolução CONSUP № 11/11.
 
-IV. Participar de todas as atividades relativas a eventos promovidos pelo 
+Este programa tem como objetivos despertar vocação científica e incentivar novos talentos potenciais entre estudantes de graduação, propiciar à Instituição um instrumento de formulação de política de iniciação à pesquisa para estudantes de graduação, estimular uma maior articulação entre a graduação e pós-graduação, contribuir para a formação de recursos humanos para a pesquisa, estimular pesquisadores produtivos a envolverem estudantes de graduação nas atividades científica, tecnológica, artística e cultural, proporcionar ao bolsista, orientado por pesquisador qualificado, a aprendizagem de técnicas e métodos de pesquisa, bem como estimular
 
-99 
+o desenvolvimento do pensar cientificamente e da criatividade, decorrentes das condições criadas pelo confronto direto com os problemas de pesquisa, além de contribuir para a formação científica de recursos humanos que se dedicarão a qualquer atividade profissional. O PIIC do IFPR é regulamentado através da Resolução CONSUP № 11/11.
 
-**==> picture [471 x 55] intentionally omitted <==**
+O Programa de Bolsas de Extensão (PIBEX e PIBEX Jr), tem por objetivos principais incentivar as atividades de extensão com vistas à produção e divulgação do conhecimento a partir da realidade local, contribuir com a formação do estudante em seus aspectos técnico tecnológico e humano, promover a participação de servidores e estudantes em atividades de integração com a sociedade, incentivar a interação entre o conhecimento acadêmico e o popular contribuindo com políticas, públicas, assim como, colaborar com a articulação entre ensino pesquisa e extensão.
 
-Conselho Nacional de Educação Superior (CONAES), sempre que convidada ou convocada; e colaborar com os órgãos próprios do IFPR, no planejamento dos programas de Avaliação Institucional. 
+Programa de Bolsas de Inclusão Social – PBIS, consiste em oportunizar aos estudantes, com vulnerabilidade socioeconômica, remuneração financeira como incentivo à participação em propostas acadêmicas, que contribuam com a sua formação. Para a participação no referido programa será considerado, além da avaliação socioeconômica, o risco de abandono, reprovação ou dificuldades de desempenho do estudante no curso.
 
-Pretende-se estabelecer comunicação contínua entre a CPA e os docentes e estudantes do curso Superior de Tecnologia em Processos Gerenciais por meio de convites aos membros representantes da CPA do câmpus Curitiba para participar eventualmente das reuniões do colegiado do curso. 
+O estudante poderá participar do Programa de Bolsas Acadêmicas de Inclusão Social através de diversas atividades vinculadas ao ensino, pesquisa, extensão ou ainda àquelas atividades administrativo pedagógicas, tais como: coordenações de curso, bibliotecas, laboratórios, unidades administrativas (tanto nos Campi como nas Pró-Reitorias, Gabinete do Reitor e Assessorias da Reitoria) entre outros, sendo que, em qualquer um dos projetos/propostas ou atividades em que o estudante for selecionado será obrigatória a orientação direta de um responsável docente ou técnico- administrativo. A regulamentação do Programa de Bolsas Acadêmicas de Inclusão Social está expressa na Resolução CONSUP № 64/10.
 
-## 4.3.8 Avaliação do Curso 
+O PRADI - Programa de Apoio ao Desenvolvimento Tecnológico e Inovação (PRADI) do Instituto Federal do Paraná destina-se a apoiar, com concessão de bolsas a estudantes e auxílio financeiro aos coordenadores, projetos que promovam o desenvolvimento científico, tecnológico
 
-O planejamento e a implementação do projeto do curso, assim como seu desenvolvimento, serão avaliados no campus, objetivando analisar as condições de ensino e aprendizagem dos estudantes, desde a adequação do currículo e a organização didático-pedagógica até as instalações físicas. Para tanto, será assegurada a participação do corpo discente, docente e técnicoadministrativo, e outras possíveis representações. 
+e de inovação, considerando os aspectos econômico, social, ambiental e cultural em atendimento às demandas locais e/ou regionais.
 
-Contudo, a avaliação do Curso de Tecnologia em Gestão Comercial é pautada nos princípios avaliativos da instituição, sendo realizadas de forma constante, nas reuniões de colegiado, reuniões com representantes de turma e com os responsáveis por projetos existentes no curso. Esta dinâmica permite documentar os pontos positivos e negativos, as possibilidades e os limites, os avanços e as dificuldades, subsidiando a posição ou a redefinição de rotas a serem seguidas. 
+O Programa de Auxílio Complementar ao Estudante - PACE está regulamentado pela Resolução da Política de Apoio Estudantil e pela Instrução Interna de Procedimentos № 20/PROENS, de 27/02/2012. O PACE objetiva oferecer apoio aos estudantes regularmente matriculados em cursos presenciais em situação de vulnerabilidade socioeconômica, propiciando recurso financeiro mensal, por meio da oferta de auxílio moradia, auxílio-alimentação e auxíliotransporte, contribuindo para sua permanência e conclusão do curso.
 
-Para que esta dinâmica seja possível, os conceitos de avaliação incorporados neste PPC devem estar presentes de forma permanente, com vistas a possibilitar que sejam atingidos plenamente os objetivos do Curso. 
+O PIAP, Programa Institucional de Apoio à Pesquisa, tem por finalidade fomentar projetos de pesquisa desenvolvidos no IFPR, bem como custear atividades relacionadas aos mesmos. Os recursos provenientes desse programa destinam-se a manutenção e melhoria das atividades necessárias ao desenvolvimento da pesquisa proposta podendo ser aplicados em despesas relativas aos projetos de pesquisa contemplados, tais como aquisição de material de consumo e/ou permanente e inscrição em congressos e eventos científicos para apresentação de seus resultados.
 
-Os documentos originados destas avaliações compreendem as atas das reuniões do colegiado e do Núcleo Docente Estruturante, bem como nos relatórios dos processos avaliativos 
+Está prevista a participação dos estudantes do CST em Gestão Comercial nos editais de projetos de Pesquisa, Extensão, e Empreendedorismo/Inovação ofertados pela PROEPPI na condição de bolsistas e/ou voluntários.
 
-100 
+## 5.1.2 Aproveitamento de Estudos Anteriores
 
-**==> picture [471 x 55] intentionally omitted <==**
+Com relação aos critérios para aproveitamento de estudos anteriores, o curso segue as normas expressas na Resolução n° 55/2011 **(** CONSUP/IFPR **),** alterada pela Resolução nº 01/2017, conforme Capítulo V e que deverá sempre verificar quando necessário se outra resolução a substituiu ou a complementou.
 
-institucionais. 
+Art. 81. O aproveitamento de estudos anteriores compreende o processo de aproveitamento de componentes curriculares ou etapas (séries, módulos, blocos) cursadas com
 
-Serão estabelecidos instrumentos, procedimentos, mecanismos e critérios da avaliação institucional do curso, incluindo autoavaliações. Tal avaliação interna será constante, com momentos específicos para discussão, contemplando a análise global e integrada das diferentes dimensões, estruturas, relações, compromisso social, atividades e finalidades da instituição e do respectivo curso em questão. 
+êxito em outro curso.
 
-Há também o relatório institucional reportado pela Comissão Própria de Avaliação (CPA), com atuação autônoma, representação no IFPR e no Campus especificamente. Faz parte do conjunto de atribuições da CPA prestar as informações solicitadas pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP), conduzir e sistematizar os processos internos de avaliação da instituição, sintetizar e reportar os resultados. 
+Art. 82. Nos cursos de Graduação, o aproveitamento de ensino compreende a possibilidade de aproveitamento de disciplinas cursadas em outro curso de ensino superior, quando solicitado pelo aluno.
 
-Tais resultados são recomendações para as prioridades das ações a serem tomadas pela direção do Campus. Além disso, serão consideradas as avaliações externas, os resultados obtidos pelos alunos do curso no Exame Nacional de Desempenho de Estudantes (Enade) e os dados apresentados pelo Sistema Nacional de Avaliação da Educação Superior (Sinaes). O resultado dessas avaliações periódicas apontará a adequação e eficácia do projeto do curso e para que se preveja as ações acadêmico-administrativas necessárias, a serem implementadas. 
+Art. 83. O pedido de aproveitamento de estudos deve ser avaliado por Comissão de Análise composta de professores da área de conhecimento, seguindo os seguintes critérios:
 
-Todas as avaliações realizadas na Instituição deverão ser analisadas pelo colegiado do Curso a fim de que melhorias permanentes sejam implantadas. 
+- I. Correspondência entre a instituição de origem e o IFPR em relação às ementas, ao conteúdo programático e à carga horária cursados. A carga horária cursada não deverá ser inferior a 75% daquela indicada na disciplina do curso do IFPR;
 
-Para fins de Reconhecimento, será seguido as determinações da Lei nº 10.861, de 14 de abril de 2004, Decreto nº 5.773, de 9 de maio de 2006 e Portaria Normativa/MEC nº 23, de 01 de Dezembro de 2010, bem como os instrumentos de avaliação constantes no Sistema Nacional de Avaliação da Educação Superior – SINAES (http://download.inep.gov.br/educacao_superior/avaliacao_cursos_graduacao/instrumentos/2017/ curso_a utorizacao.pdf). 
+- II. Além da correspondência entre as disciplinas, o processo de aproveitamento de estudos poderá envolver avaliação teórica e/ou prática acerca do conhecimento a ser aproveitado.
 
-101 
+Art. 84. O pedido de aproveitamento de estudos deve ser protocolado na Secretaria Acadêmica do Campus, por meio de formulário próprio, acompanhado de histórico escolar completo e atualizado da instituição de origem, da ementa e do programa do componente curricular, autenticados pela Instituição de ensino credenciada pelo MEC.
 
-**==> picture [471 x 55] intentionally omitted <==**
+§ 1º Os pedidos de aproveitamento de estudos devem ser feitos no prazo estabelecido pelo Calendário Acadêmico.
 
-No ano de 2022 foi realizada _in loco_ a visita técnica do Ministério da Educação - MEC para a avaliação do curso de Tecnologia em Gestão Comercial - TGC, obtendo nota máxima de avaliação cinco (5). 
+§ 2º Os estudantes de cursos na modalidade de educação a distância devem entregar o pedido de aproveitamento de estudos ao tutor do Polo onde se realiza o curso, seguindo os mesmos prazos estabelecidos no parágrafo acima. O tutor deve encaminhar por via postal o pedido para a coordenação do curso correspondente.
 
-## 4.3.9 Avaliação do Projeto Pedagógico do Curso 
+§ 3º A Secretaria Acadêmica do _Campus_ deve encaminhar os processos de aproveitamento de estudos à Direção de Ensino, Pesquisa e Extensão do Campus em até dois (02) dias úteis a contar da data do protocolo.
 
-O projeto pedagógico desse curso, se necessário, sofrerá alterações quanto à concepção pedagógica do curso e/ou à estrutura e organização curricular e/ou ao perfil profissional, conforme a Instrução Interna de Procedimentos Proens/ IFPR Nº 04, de 27 de setembro de 2018, da I Art. 39: ― A solicitação de ajuste curricular somente poderá ocorrer após a integralização de cada matriz curricular implantada. 
+§ 4º O estudante deve estar matriculado no componente curricular para o qual solicita o aproveitamento, ou ainda não o ter cursado.
 
-O PPC do curso passará pela avaliação e reformulação seguindo a Resolução Nº 08 de 23 de fevereiro de 2021, que institui o Núcleo Docente Estruturante que constitui segmento da estrutura de gestão acadêmica de cada Curso de Graduação – Bacharelados, Licenciaturas e Tecnologias,com atribuições consultivas, propositivas e avaliativas sobre matéria de natureza acadêmica, responsável pela concepção, implementação e consolidação dos Projetos Pedagógicos de cada curso. 
+§ 5º O resultado do pedido de aproveitamento realizado pelo aluno não deve ultrapassar 10 (dez) dias úteis.
 
-O PPC também será apreciado pelo colegiado do curso conforme regimento interno do IFPR Nº 56/2012 do qual expressa que os colegiados de curso são órgãos consultivos e deliberativos do _Campus_ para assuntos de natureza pedagógica, didática e disciplinar, no âmbito de cada curso, tendo como finalidade o desenvolvimento e fortalecimento dos cursos ofertados, assegurando a participação dos segmentos da comunidade escolar. 
+Art. 85. Cabe à Secretaria Acadêmica do Campus proceder ao cadastramento do aproveitamento de estudos no sistema de controle acadêmico, através do Documento de Aproveitamento de Estudos enviado pela Direção de Ensino, Pesquisa e Extensão do Campus, devidamente assinado pelos membros da Comissão designada para a análise do pedido.
 
-Em reuniões do Núcleos Docente Estruturante e do Colegiado do curso serão discutidos, sempre que necessário, a alteração de oferta de componente curricular, as atualizações bibliográficas e as situações excepcionais que exijam modificações imediatas no projeto. Sendo estas identificadas, serão solicitadas à PROENS que poderá discipliná-las por ato normativo ou 
+Parágrafo único. Os componentes curriculares com aproveitamento de estudos serão cadastrados, pela Secretaria Acadêmica do _Campus_ , no sistema de controle acadêmico.
 
-102 
+Serão indicados a frequência e o desempenho atingidos pelo estudante no componente curricular realizado em outra instituição de ensino e aproveitado para o currículo do curso do IFPR.
 
-**==> picture [471 x 55] intentionally omitted <==**
+Art. 86. É vedado o aproveitamento de estudos entre níveis de ensino diferentes.
 
-outras formas de autorização. 
+Destarte, o aproveitamento de estudos anteriores compreende o processo de reconhecimento de componentes curriculares cursadas com êxito em outros cursos correlatos ao eixo de gestão e negócios. Além disso, o graduando poderá solicitar o requerimento de equivalência de domínio de conhecimentos de determinada componente curricular, por meio de solicitação à Diretoria de Ensino, Pesquisa e Extensão do _Campu_ s, executando o exame de suficiência, com o endosso do professor da componente curricular.
 
-## 4.4 ESTÁGIO CURRICULAR 
+## 5.1.3 Certificação de Conhecimentos Anteriores
 
-Não se Aplica 
+A certificação de Conhecimentos Anteriores se caracteriza como a dispensa de frequência em componente curricular do curso em que o estudante comprove excepcional domínio de conhecimento por meio da aprovação em avaliação.
 
-## 4.4.1 Características do Estágio Obrigatório 
+Os procedimentos para a certificação de conhecimentos anteriores estão regulamentados pelo capítulo VII, da Resolução nº 55 de 21 de dezembro de 2011 a qual dispõe sobre a Organização Didático Pedagógica da Educação Superior no âmbito do Instituto Federal do Paraná – IFPR:
 
-Não se aplica ao curso. 
+Art. 88. Entende-se por Certificação de Conhecimentos Anteriores a dispensa de frequência em componente curricular do curso do IFPR em que o estudante comprove excepcional domínio de conhecimento através da aprovação em avaliação.
 
-## 4.4.2 Convênios de Estágio 
+§ 1º A avaliação será realizada sob responsabilidade de Comissão composta por professores da área de conhecimento correspondente, designada pela Direção de Ensino, Pesquisa e Extensão do _Campus_ , a qual estabelecerá os procedimentos e os critérios para a avaliação, de acordo com o previsto no projeto do curso e terá quinze (15) dias úteis para a expedição do resultado.
 
-No Curso Superior de Tecnologia em Gestão Comercial o estágio não é obrigatório. Porém, todo estudante que desejar realizar estágio, terá o respaldo institucional pela Resolução CONSUP/IFPR nº 82, de 02 de junho de 2022, visando aproximar o conhecimento teórico da prática do mundo do trabalho. 
+§ 2º A avaliação para Certificação de Conhecimentos Anteriores poderá ocorrer por solicitação fundamentada do estudante, que justifique a excepcionalidade, ou por iniciativa de professores do curso.
 
-Todos os trâmites ocorrerão de acordo com as políticas institucionais já existentes no campus Assis Chateaubriand, da mesma forma que, com a formalização dos termos de cooperação e convênios entre o IFPR e instituições públicas e privadas. 
+§ 3º Quando solicitado pelo estudante, o pedido de Certificação de Conhecimentos Anteriores deverá ser feito no prazo de até dez (10) dias a contar do início do período letivo, através de formulário próprio entregue à Secretaria Acadêmica do _Campus_ .
 
-O regulamento de estágio se encontra no Apêndice A deste projeto. 
+§ 4º Caberá à Comissão designada pela Direção de Ensino, Pesquisa e Extensão do _Campus_ estabelecer a programação e a supervisão das avaliações, bem como a homologação dos resultados finais.
 
-## 4.5 INTEGRAÇÃO COM AS ORGANIZAÇÕES PÚBLICAS, CIVIS E PARTICULARES 
+§ 5º O estudante deverá estar matriculado ou ainda não ter cursado o(s) componente(s) curricular(es) para o(s) qual(is) solicita a certificação de conhecimentos, até que seja expedido o resultado do seu pedido de aproveitamento.
 
-4.5.1 Integração com as redes públicas de ensino e proposição de atividades práticas de ensino para licenciaturas 
+Art. 89. A certificação de conhecimentos por componente curricular somente pode ser
 
-Não se aplica para este curso. 
+aplicada em curso que prevê matrícula por componente curricular.
 
-4.5.2 Integração com o sistema local e regional de saúde (SUS) e proposição de atividades práticas de ensino para áreas da saúde 
+Parágrafo único. No curso com matrícula por módulo, bloco ou série, a certificação de conhecimentos somente se aplica se o estudante demonstrar domínio de conhecimento em todos os componentes curriculares do período letivo.
 
-Não se aplica para este curso. 
+Art. 90. Caberá à Direção de Ensino, Pesquisa e Extensão do _Campus_ encaminhar o resultado à Secretaria Acadêmica do _Campus_ por meio de processo individual por estudante, contendo os componentes curriculares aproveitados com os respectivos conceitos avaliativos e a frequência, acompanhados de atas e/ou relatórios das avaliações, assinado pelos membros da Comissão designada para tal.
 
-## 4.5.3 Integração com os setores públicos, civis e privados 
+Parágrafo único. Os componentes curriculares com certificação de conhecimento serão cadastrados, pela Secretaria Acadêmica do _Campus_ , no sistema de controle acadêmico com a frequência integral e o desempenho atingido pelo estudante.
 
-103 
+## 5.1.4 Expedição de Diplomas e Certificados
 
-**==> picture [471 x 55] intentionally omitted <==**
+O estudante que frequentar todos os componentes curriculares previstos no curso, tendo obtido aproveitamento em todos eles, frequência mínima de setenta e cinco por cento (75%) das horas-aula e 150 horas de atividades complementares, receberá o diploma de concluinte do curso, que será obtido junto à Secretaria Acadêmica do _Campus_ , após ter realizado a colação de grau na data agendada pela Instituição.
 
-Este curso surgiu de uma demanda social através da consulta pública realizada na Audiência Pública do PDI 2019/2023 do câmpus Assis Chateaubriand. Neste ato foi utilizado como instrumento de coleta de dados um formulário _online_ disponibilizado dias antes da audiência e foi deixado livre para contribuições dias depois, bem como, formulário impresso entregue no dia da Audiência Pública. 
+Antes da colação de grau, o formando deverá apresentar à Secretaria Acadêmica do _Campus_ o comprovante de ausência de débito com a biblioteca e com a Direção de Ensino, Pesquisa e Extensão do _Campus_ e, no caso de ter sofrido mudança no nome durante o curso, entregar cópia do documento do qual consta o nome atualizado.
 
-Diante das informações geradas na Audiência foi criado uma comissão interna do _campus_ para tratar das demandas latentes identificados para o Eixo Tecnológico de Gestão e Negócios do _campus_ e, esta comissão, utilizou-se das informações e delas demandou outra consulta junto aos empresários do município em parceria com a Associação Comercial, Industrial e Agropecuária do Município de Assis Chateaubriand que foi identificado quais cursos existentes no catálogo nacional de cursos para área específico do Eixo de Gestão e Negócios teriam maior empregabilidade no mercado local e microrregional. 
+Ao concluírem o curso, os alunos receberão o Certificado de Tecnólogo em Gestão Comercial do Eixo Tecnológico Gestão e Negócios.
 
-Não obstante, também foi realizado parceria institucional entre o IFPR _Campus_ Assis Chateaubriand e a ACIAC, cuja a aproximação ocorreu por meio de uma indicação via portaria de um representante do IFPR para participar de todas as reuniões da ACIAC e que membros da Associação possam fazer parte do CODIC. Diante desta ação de integração outras têm surgido e ao decorrer dos cursos do Eixo de Gestão poderão ser integradas à dinâmica organizacional do IFPR. 
+O formando que não comparecer à cerimônia de formatura de seu curso deverá solicitar à Direção Geral, mediante requerimento, nova data para formatura em Gabinete, para receber a outorga do diploma. O estudante concluinte do curso poderá requerer, após a sua Formatura, declaração de Conclusão de Curso junto à Secretaria Acadêmica do _Campus_ .
 
-## 4.6 TRABALHO DE CONCLUSÃO DE CURSO 
+## 5.1.5 Acessibilidade
 
-Não se aplica 
+O campus Assis Chateaubriand conta com o trabalho do Núcleo de Apoio a Pessoas com Necessidades Específicas – NAPNE, visando a inserção e o atendimento aos alunos com Necessidades Educacionais Específicas nos cursos de nível básico, técnico e tecnológico nas Instituições Federais de Educação, a Secretaria de Educação Profissional e Tecnológica (SETEC/MEC) criou o Programa de Educação, Tecnologia e Profissionalização para Pessoas com Necessidades Educacionais Especiais (TEC NEP).
 
-## 4.7 ATIVIDADES COMPLEMENTARES 
+O objetivo é estimular a criação da cultura da educação para a convivência, aceitação da diversidade e, principalmente, buscar a quebra das barreiras arquitetônicas, educacionais e atitudinais nos Institutos Federais.
 
-As Atividades Complementares ou Atividades Acadêmico-Científico-Culturais são obrigatórias, segundo a Resolução CNE/CP 2/2019, são componentes curriculares que possibilitam o reconhecimento, por avaliação, de habilidades, conhecimentos e competências do estudante, inclusive adquiridas fora do ambiente escolar, abrangendo a prática de estudos e 
+As responsabilidades dos coordenadores dos NAPNEs são:
 
-104 
+- a) Promover ações de sensibilização da comunidade escolar quanto a temática da Educação Inclusiva;
 
-**==> picture [471 x 55] intentionally omitted <==**
+- b) Levantar a demanda de Pessoas com Necessidades Educacionais Específicas na Instituição, comunicando à Direção do _Campus_ e à Pró-Reitoria de Extensão, Pesquisa e Inovação a importância e o tipo de atendimento a ser realizado;
 
-atividades independentes, transversais, opcionais e de interdisciplinaridade com o mundo do trabalho. 
+- c) Contribuir para a adequação dos Projetos Político-Pedagógicos de modo a contemplar a educação inclusiva, oferecendo informações atualizadas à Direção de Ensino, bem como aos demais gestores do _Campus_ ;
 
-As atividades complementares têm a finalidade de enriquecer o processo de ensinoaprendizagem, privilegiando a complementação da formação social e profissional, por meio de atividades de cunho comunitário, de assistência acadêmica, científica, tecnológica, esportivas e culturais, através da participação do corpo discente em eventos científicos e profissionais, como palestras, congressos, encontros, seminários e outros congêneres, em grupos de pesquisa, em projetos sociais e de extensão, publicações de artigos e em cursos de curta duração relacionados à sua área de conhecimento. 
+- d) Articular os diversos setores da instituição nas atividades relativas à inclusão,
 
-As atividades complementares são obrigatórias e devem ser realizadas fora do horário do curso normal e fora dos componentes curriculares obrigatórios, compondo uma carga horária mínima de 150 (cento e cinquenta) horas. 
+divulgando as ações prioritárias;
 
-Todas as atividades realizadas devem ser comprovadas pelo próprio estudante, mediante declarações e certificados contendo número de horas e descrição das atividades desenvolvidas. Somente serão computadas, a título de Atividades Complementares, aquelas realizadas durante o período estabelecido para a integralização do Curso de Tecnologia em Gestão Comercial. 
+- e) Participar das discussões relativas a reformas e construção de novas unidades, garantindo a acessibilidade às edificações, aos mobiliários, aos espaços e equipamentos com vistas à mobilidade das pessoas de maneira autônoma e segura, conforme previsto em legislação própria;
 
-No âmbito do Curso, as Atividades Complementares serão propostas concomitantes à matriz curricular em cada um dos 4 semestres do curso, consistindo também em mecanismos de aproveitamento de conhecimentos, adquiridos pelo estudante, através de estudos e práticas independentes, desde que atendido o prazo mínimo, estabelecido pela Instituição, para a conclusão do curso. O regulamento das Atividades Complementares encontra-se no Apêndice B deste documento. 
+- f) Estabelecer contato com instituições ou organizações que atendam Pessoas com Necessidades Educacionais Específicas, visando desenvolver trabalhos em parceria;
 
-## **5. POLÍTICAS DE ATENDIMENTO AOS ESTUDANTES** 
+- g) Divulgar as ações do TEC NEP/NAPNE da SETEC para a comunidade em geral;
 
-## 5.1 FORMAS DE ACESSO E PERMANÊNCIA 
+- h) Representar o NAPNE nas ocasiões em que se fizer necessário.
 
-105 
+Quanto à Língua Brasileira de Sinais, esta é ofertada no _campus_ como projeto de LIBRAS do IFPR, a qual visa atender decretos e leis do governo federal.
 
-**==> picture [471 x 55] intentionally omitted <==**
+A Libras é reconhecida no país como língua brasileira de sinais pela lei nº 10.436, de 24 de abril de 2002, e regulamentada pelo decreto nº 5.626, de 22 de dezembro de 2005 que determina em seu artigo 14 do decreto que as instituições federais de ensino garantam às pessoas surdas acesso à comunicação, à informação e à educação nos processos seletivos, nas atividades e nos conteúdos curriculares desenvolvidos em todos os níveis, etapas e modalidades de educação, desde a educação infantil até à superior.
 
-Quanto ao ingresso de estudantes, o qual se dá por meio de Processo Seletivo, o IFPR tem como base, principalmente, a Lei nº 12.711, de 29 de agosto de 2012, que dispõe sobre o ingresso nas universidades federais e nas instituições federais de ensino técnico de nível médio e dá outras providências; o Decreto nº 7.824, de 11 de outubro de 2012, que regulamenta a Lei nº 12.711; a Portaria Normativa nº 18, de 11 de outubro de 2012, que dispõe sobre a implementação das reservas de vagas em instituições federais de ensino de que tratam os documentos supracitados (PDI/IFPR, 2019-2023). 
+O IFPR conta com tradutores e intérpretes de LIBRAS que oferecem apoio aos alunos, possuindo também professor de LIBRAS para capacitação de servidores e professores, além de atendimento à comunidade externa nos eventos promovidos pela IFPR.
 
-As políticas de assistência estudantil institucional pretendem garantir a permanência do estudante até o final do Curso. 
+O objetivo da equipe é disponibilizar atendimento ao aluno surdo, e criar novas ferramentas para auxílio do professor na inclusão de surdos no IFPR. Orientar a conduta moral e profissional, em conformidade com o Código de Ética da categoria do Intérprete, instituir normas que devem subsidiar o exercício das atividades dos TILS, assegurar o direito linguístico e a acessibilidade das pessoas surdas no ensino superior conforme Lei nº 10.098/2000 e Lei nº
 
-5.1.1 Programas de Ensino, Pesquisa, Extensão, Inovação, Inclusão Social e Assistência estudantil 
+## 10.436/2002, regulamentadas pelo Decreto nº 5626/2005.
 
-A Assistência Estudantil, pautada na Política Nacional da Assistência Estudantil – PNAES – Decreto nº 7.234/2010, tem como finalidade ampliar as condições de acesso, permanência e êxito dos estudantes no IFPR. As ações planejadas a partir dessa política buscam aprimorar o desenvolvimento intelectual e humano da comunidade acadêmica contemplada pelos benefícios, sobretudo porque estão articuladas ao tripé ensino, pesquisa e extensão (PDI/IFPR, 2019-2023). 
+Como a garantia da valorização e o reconhecimento do serviço de tradução e interpretação de Língua Brasileira de Sinais/Português e dos profissionais que realizam essa atividade, assegurar o cumprimento do Código de Ética/Conduta do Tradutor Intérprete de Língua Brasileira de Sinais/Português, e cumprir as determinações legais do Instituto Federal do Paraná.
 
-A Assistência Estudantil é orientada por princípios e diretrizes institucionais que se configuram como fundamentos para a elaboração e a execução de programas e ações, estabelecendo-se de forma transversal a todos os setores que compõem a Instituição (PDI/IFPR, 2019-2023). Os Programas Institucionais de Bolsas de Estudos são regulamentados pelas Resoluções CONSUP nº 11/2009 e nº 53/201. 
+## 5.1.6 Educação Inclusiva
 
-Essa Política tem como premissa a respeitabilidade a diversidade social, étnica, racial e inclusiva na perspectiva de uma sociedade democrática e cidadã, pautando-se nos seguintes princípios: 
+Entende-se por educação inclusiva o processo que reconhece e respeita as diferenças dos educandos que envolvem a [...] deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotaçãoǁ, em sintonia com a definição de Educação Especial segundo o Art. 58, da Lei nº 12.796, de 4 de abril de 2013 (Lei que altera a LDB, Lei nº 9.394/1996).
 
-I. Educação profissional e tecnológica pública e gratuita de qualidade; 
+A preocupação com a inclusão está presente no curso sob dois aspectos: 1) na matriz curricular, na qual encontramos componente curriculares Libras ofertado de como optativa para a orientação e formação do profissional; e 2) pelas ações institucionais com vistas a inclusão da comunidade escolar e da sociedade sob o apoio e orientação do NAPNE – Núcleo de Atendimento às Pessoas com Necessidades Específicas.
 
-106 
+Ainda nas ações da Instituição, busca-se promover a inclusão conforme exprime o Decreto nº 5.296, de 02 de dezembro de 2004, o qual regulamenta as Leis n[o] 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas portadoras de deficiência, aos idosos com idade igual ou superior a 60 (sessenta) anos, as gestantes, as lactantes e as pessoas acompanhadas por crianças de colo; e n[o] 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências.
 
-**==> picture [471 x 55] intentionally omitted <==**
+Com relação às instalações físicas do IFPR, o _Campus_ Assis Chateaubriand encontra-se em concordância com o Art. 24, Seção II, Capítulo IV, do Decreto n[o] 5.296/2004, possibilitando às pessoas com deficiência ou com mobilidade reduzida acesso e utilização de todos os seus
 
-- II. Igualdade de oportunidade no acesso, permanência e conclusão de curso; 
+ambientes, incluindo salas de aula, laboratórios e biblioteca.
 
-- III. Garantia de qualidade de formação tecnológica e humanística voltada ao fortalecimento das políticas de inclusão social; 
+O _Campus_ Assis Chateaubriand promove a acessibilidade na infraestrutura e mobiliário conforme a Lei n. 10.048, de 8 de novembro de 2000, Lei n° 10.098, de 19 de dezembro de 2000 e Decreto nº 5.296, de 2 de dezembro de 2004.
 
-- IV. Defesa do pluralismo de ideias com reconhecimento a liberdade de expressão; 
+Além de supervisionar a adequação das instalações físicas, o NAPNE garante a implantação e consolidação de políticas inclusivas no Instituto, por meio da garantia do acesso, permanência e êxito do estudante com necessidades educacionais específicas IFPR, nas áreas de ensino, pesquisa e extensão.
 
-- V. Eliminação de qualquer forma de preconceito ou discriminação; 
+O NAPNE também desenvolve ações que promovam a melhoria do desempenho acadêmico dos estudantes com necessidades especiais por meio das seguintes estratégias:
 
-São Programas de Bolsas de Estudos do IFPR: o Programa Institucional de Bolsas de Iniciação Científica do IFPR – PIBIC e PIBIC-Jr, o Programa de Bolsas de Extensão – PIBEX e PIBEX - Jr, o Programa de Bolsas de Inclusão Social – PBIS, o PRADI - Programa de Apoio ao Desenvolvimento Tecnológico e Inovação do IFPR, o PIBID – Programa de Bolsas de Iniciação à Docência, além do Programa de Auxílio Complementar ao Estudante – PACE, do PIAP - Programa de Apoio à Pesquisa do IFPR e do Programa de Apoio a Eventos Estudantis, que consiste em oportunizar aos estudantes enriquecimento em sua formação profissional e humanística, por meio de apoio financeiro ou logístico aos estudantes regularmente matriculados no IFPR para participarem de eventos locais, estaduais e nacionais, de natureza acadêmica, científica, cultural e esportiva. Este programa está regulamentado através da Resolução 65/2010 e é ofertado através de edital, com inscrições ao longo do ano letivo. 
+- Levantamento de estudantes com necessidades especiais através de entrevistas e através de documentação entregue pelos próprios estudantes ou suas famílias;
 
-O PIBIC está inserido no Programa Institucional de Iniciação Científica (PIIC), que é voltado para o desenvolvimento do pensamento científico e iniciação à pesquisa de estudantes de graduação e integra alguns os programas de iniciação científica de agências de fomento. O PIIC do IFPR é regulamentado através da Resolução CONSUP № 11/11. 
+- Levantamento das práticas educativas adequadas à cada necessidade especial levantada;
 
-Este programa tem como objetivos despertar vocação científica e incentivar novos talentos potenciais entre estudantes de graduação, propiciar à Instituição um instrumento de formulação de política de iniciação à pesquisa para estudantes de graduação, estimular uma maior articulação entre a graduação e pós-graduação, contribuir para a formação de recursos humanos para a pesquisa, estimular pesquisadores produtivos a envolverem estudantes de graduação nas atividades científica, tecnológica, artística e cultural, proporcionar ao bolsista, orientado por pesquisador qualificado, a aprendizagem de técnicas e métodos de pesquisa, bem como estimular 
+- Apresentação e acompanhamento da implantação destas práticas educativas junto ao colegiado dos cursos.
 
-107 
+## 5.1.7 Mobilidade Estudantil e Internacionalização
 
-**==> picture [471 x 55] intentionally omitted <==**
+O IFPR, em sua contribuição para a formação do estudante, assume o compromisso de proporcionar-lhe a mobilidade escolar/acadêmica, a qual envolve os intercâmbios nacionais e internacionais podendo ser por meio de programas do Governo Federal, como o Ciência sem Fronteiras, ou por iniciativas próprias decorrentes de demandas locais, a mobilidade estudantil busca colaborar com a formação integral do estudante de maneira inclusiva, transformadora e comprometida com o desenvolvimento humano (PDI 2014-2018, IFPR, 139-140).
 
-o desenvolvimento do pensar cientificamente e da criatividade, decorrentes das condições criadas pelo confronto direto com os problemas de pesquisa, além de contribuir para a formação científica de recursos humanos que se dedicarão a qualquer atividade profissional. O PIIC do IFPR é regulamentado através da Resolução CONSUP № 11/11. 
+O IFPR, por meio de sua Assessoria de Relações Internacionais, busca promover a
 
-O Programa de Bolsas de Extensão (PIBEX e PIBEX Jr), tem por objetivos principais incentivar as atividades de extensão com vistas à produção e divulgação do conhecimento a partir da realidade local, contribuir com a formação do estudante em seus aspectos técnico tecnológico e humano, promover a participação de servidores e estudantes em atividades de integração com a sociedade, incentivar a interação entre o conhecimento acadêmico e o popular contribuindo com políticas, públicas, assim como, colaborar com a articulação entre ensino pesquisa e extensão. 
+internacionalização ampla do IFPR, por meio da formulação de políticas, da interlocução com parceiros nacionais e internacionais e do apoio às ações, projetos e programas de internacionalização dos campi e outros setores.
 
-Programa de Bolsas de Inclusão Social – PBIS, consiste em oportunizar aos estudantes, com vulnerabilidade socioeconômica, remuneração financeira como incentivo à participação em propostas acadêmicas, que contribuam com a sua formação. Para a participação no referido programa será considerado, além da avaliação socioeconômica, o risco de abandono, reprovação ou dificuldades de desempenho do estudante no curso. 
+A Mobilidade Estudantil na graduação possibilita que o estudante desenvolva atividades em instituição de ensino diferente da sua, a qual pode ser do próprio país de residência do estudante ou instituição no exterior.
 
-O estudante poderá participar do Programa de Bolsas Acadêmicas de Inclusão Social através de diversas atividades vinculadas ao ensino, pesquisa, extensão ou ainda àquelas atividades administrativo pedagógicas, tais como: coordenações de curso, bibliotecas, laboratórios, unidades administrativas (tanto nos Campi como nas Pró-Reitorias, Gabinete do Reitor e Assessorias da Reitoria) entre outros, sendo que, em qualquer um dos projetos/propostas ou atividades em que o estudante for selecionado será obrigatória a orientação direta de um responsável docente ou técnico- administrativo. A regulamentação do Programa de Bolsas Acadêmicas de Inclusão Social está expressa na Resolução CONSUP № 64/10. 
+A internacionalização refere-se a todos esforços da instituição para incorporar perspectivas globais no ensino, pesquisa e extensão; para construir competências internacionais e interculturais entre estudantes, professores e técnicos; para estabelecer parcerias com comunidades e instituições no exterior.
 
-O PRADI - Programa de Apoio ao Desenvolvimento Tecnológico e Inovação (PRADI) do Instituto Federal do Paraná destina-se a apoiar, com concessão de bolsas a estudantes e auxílio financeiro aos coordenadores, projetos que promovam o desenvolvimento científico, tecnológico 
+A intenção é criar no curso condições para viabilizar o intercâmbio de estudantes, egressos, docentes e colaboradores, uma das ações é a oferta de Língua Estrangeira Inglês e Espanhol como projetos de extensão e mediar acordos e cooperações com instituições internacionais de ensino superior, viabilizando a mobilidade acadêmica nacional e internacional.
 
-108 
+## **6. EQUIPE MULTIDISCIPLINAR**
 
-**==> picture [471 x 55] intentionally omitted <==**
+## 6.1. CORPO DOCENTE
 
-e de inovação, considerando os aspectos econômico, social, ambiental e cultural em atendimento às demandas locais e/ou regionais. 
+Conforme a Lei 9.394, de 20 de dezembro de 1996 em particular, o Art. 66 “A preparação para o exercício do magistério superior far-se-á em nível de pós-graduação, prioritariamente em programas de mestrado e doutorado.” ou conforme parágrafo único do mesmo artigo “O notório saber, reconhecido por universidade com curso de doutorado em área afim, poderá suprir a exigência de título acadêmico”, a instituição incentiva seus docentes a busca pela formação continuada primando pela qualidade e ensino e ascensão em seu plano de carreira.
 
-O Programa de Auxílio Complementar ao Estudante - PACE está regulamentado pela Resolução da Política de Apoio Estudantil e pela Instrução Interna de Procedimentos № 20/PROENS, de 27/02/2012. O PACE objetiva oferecer apoio aos estudantes regularmente matriculados em cursos presenciais em situação de vulnerabilidade socioeconômica, propiciando recurso financeiro mensal, por meio da oferta de auxílio moradia, auxílio-alimentação e auxíliotransporte, contribuindo para sua permanência e conclusão do curso. 
+## 6.1.1 Atribuições do Coordenador
 
-O PIAP, Programa Institucional de Apoio à Pesquisa, tem por finalidade fomentar projetos de pesquisa desenvolvidos no IFPR, bem como custear atividades relacionadas aos mesmos. Os recursos provenientes desse programa destinam-se a manutenção e melhoria das atividades necessárias ao desenvolvimento da pesquisa proposta podendo ser aplicados em despesas relativas aos projetos de pesquisa contemplados, tais como aquisição de material de consumo e/ou permanente e inscrição em congressos e eventos científicos para apresentação de seus resultados. 
+O coordenador deverá coordenar as atividades administrativas e pedagógicas do Curso Superior de Tecnologia em Gestão Comercial. As atividades deverão compreender a verificação
 
-Está prevista a participação dos estudantes do CST em Gestão Comercial nos editais de projetos de Pesquisa, Extensão, e Empreendedorismo/Inovação ofertados pela PROEPPI na condição de bolsistas e/ou voluntários. 
+das questões estruturais para o funcionamento do curso, como acervo bibliográfico necessário, instalações de sala de aula condizente com as necessidades das turmas, levantamento de corpo docente disponível para atuar nos componentes curriculares. Buscar-se-á fornecer treinamento e capacitação para que os professores utilizem estratégias de ensino-aprendizagem modernas e desafiadoras ao estudante, visando estimulá-los na construção do conhecimento.
 
-## 5.1.2 Aproveitamento de Estudos Anteriores 
+A coordenação deverá articular com as pró-reitorias, direção geral e de ensino e demais setores do _campus_ Assis Chateaubriand para oportunizar atividades como palestras, visitas técnicas, intercâmbios e convênios com instituições no exterior, convênios de estágios e o fomento à pesquisa científica por parte dos estudantes, tendo como base os programas institucionais já existentes.
 
-Com relação aos critérios para aproveitamento de estudos anteriores, o curso segue as normas expressas na Resolução n° 55/2011 **(** CONSUP/IFPR **),** alterada pela Resolução nº 01/2017, conforme Capítulo V e que deverá sempre verificar quando necessário se outra resolução a substituiu ou a complementou. 
+## 6.1.2 Experiência do Coordenador
 
-Art. 81. O aproveitamento de estudos anteriores compreende o processo de aproveitamento de componentes curriculares ou etapas (séries, módulos, blocos) cursadas com 
+Possui graduação em Secretariado Executivo Bilíngue pela Universidade Estadual do Oeste do Paraná, especialista em Linguística Aplicada a Língua Estrangeira pela UNIOESTE, licenciada em língua inglesa pela Universidade Tecnológica Federal do Paraná. Licenciada em Letras portugues-espanhol pela Univag. Licenciada em Pedagogia pela Uninter. Tecnóloga em Marketing pela Uninter.Especialista em educação com ênfase na docência do ensino superior - Unipan, especialista em MBS - master business secretaries, especialista em gestão e docência em EaD. Especialista em Gestão de Projetos pela Uninter. Especialista em Recursos Humanos pela Uninter. Especialista em Gestão de processos e qualidade pela Uninter. Especialista em Gestão de serviços, comércio e merchandising pela Uninter. Especialista em Gestão Escolar pela Uninter. Mestre em Ciências da Educação pela Universidade Internacional de Lisboa - Portugal, Licenciada em Letras - UNIVAG. Doutora em Linguística Aplicada e Estudos da Linguagem pela Pontifícia Universidade Católica de São Paulo - PUC SP, possui mais de 15 anos de experiência como docente na rede IF.
 
-109 
+## 6.1.3 Núcleo Docente Estruturante (NDE)
 
-**==> picture [471 x 55] intentionally omitted <==**
-
-êxito em outro curso. 
-
-Art. 82. Nos cursos de Graduação, o aproveitamento de ensino compreende a possibilidade de aproveitamento de disciplinas cursadas em outro curso de ensino superior, quando solicitado pelo aluno. 
-
-Art. 83. O pedido de aproveitamento de estudos deve ser avaliado por Comissão de Análise composta de professores da área de conhecimento, seguindo os seguintes critérios: 
-
-- I. Correspondência entre a instituição de origem e o IFPR em relação às ementas, ao conteúdo programático e à carga horária cursados. A carga horária cursada não deverá ser inferior a 75% daquela indicada na disciplina do curso do IFPR; 
-
-- II. Além da correspondência entre as disciplinas, o processo de aproveitamento de estudos poderá envolver avaliação teórica e/ou prática acerca do conhecimento a ser aproveitado. 
-
-Art. 84. O pedido de aproveitamento de estudos deve ser protocolado na Secretaria Acadêmica do Campus, por meio de formulário próprio, acompanhado de histórico escolar completo e atualizado da instituição de origem, da ementa e do programa do componente curricular, autenticados pela Instituição de ensino credenciada pelo MEC. 
-
-§ 1º Os pedidos de aproveitamento de estudos devem ser feitos no prazo estabelecido pelo Calendário Acadêmico. 
-
-§ 2º Os estudantes de cursos na modalidade de educação a distância devem entregar o pedido de aproveitamento de estudos ao tutor do Polo onde se realiza o curso, seguindo os mesmos prazos estabelecidos no parágrafo acima. O tutor deve encaminhar por via postal o pedido para a coordenação do curso correspondente. 
-
-§ 3º A Secretaria Acadêmica do _Campus_ deve encaminhar os processos de aproveitamento de estudos à Direção de Ensino, Pesquisa e Extensão do Campus em até dois (02) dias úteis a contar da data do protocolo. 
-
-110 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-§ 4º O estudante deve estar matriculado no componente curricular para o qual solicita o aproveitamento, ou ainda não o ter cursado. 
-
-§ 5º O resultado do pedido de aproveitamento realizado pelo aluno não deve ultrapassar 10 (dez) dias úteis. 
-
-Art. 85. Cabe à Secretaria Acadêmica do Campus proceder ao cadastramento do aproveitamento de estudos no sistema de controle acadêmico, através do Documento de Aproveitamento de Estudos enviado pela Direção de Ensino, Pesquisa e Extensão do Campus, devidamente assinado pelos membros da Comissão designada para a análise do pedido. 
-
-Parágrafo único. Os componentes curriculares com aproveitamento de estudos serão cadastrados, pela Secretaria Acadêmica do _Campus_ , no sistema de controle acadêmico. 
-
-Serão indicados a frequência e o desempenho atingidos pelo estudante no componente curricular realizado em outra instituição de ensino e aproveitado para o currículo do curso do IFPR. 
-
-Art. 86. É vedado o aproveitamento de estudos entre níveis de ensino diferentes. 
-
-Destarte, o aproveitamento de estudos anteriores compreende o processo de reconhecimento de componentes curriculares cursadas com êxito em outros cursos correlatos ao eixo de gestão e negócios. Além disso, o graduando poderá solicitar o requerimento de equivalência de domínio de conhecimentos de determinada componente curricular, por meio de solicitação à Diretoria de Ensino, Pesquisa e Extensão do _Campu_ s, executando o exame de suficiência, com o endosso do professor da componente curricular. 
-
-## 5.1.3 Certificação de Conhecimentos Anteriores 
-
-A certificação de Conhecimentos Anteriores se caracteriza como a dispensa de frequência em componente curricular do curso em que o estudante comprove excepcional domínio de conhecimento por meio da aprovação em avaliação. 
-
-111 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-Os procedimentos para a certificação de conhecimentos anteriores estão regulamentados pelo capítulo VII, da Resolução nº 55 de 21 de dezembro de 2011 a qual dispõe sobre a Organização Didático Pedagógica da Educação Superior no âmbito do Instituto Federal do Paraná – IFPR: 
-
-Art. 88. Entende-se por Certificação de Conhecimentos Anteriores a dispensa de frequência em componente curricular do curso do IFPR em que o estudante comprove excepcional domínio de conhecimento através da aprovação em avaliação. 
-
-§ 1º A avaliação será realizada sob responsabilidade de Comissão composta por professores da área de conhecimento correspondente, designada pela Direção de Ensino, Pesquisa e Extensão do _Campus_ , a qual estabelecerá os procedimentos e os critérios para a avaliação, de acordo com o previsto no projeto do curso e terá quinze (15) dias úteis para a expedição do resultado. 
-
-§ 2º A avaliação para Certificação de Conhecimentos Anteriores poderá ocorrer por solicitação fundamentada do estudante, que justifique a excepcionalidade, ou por iniciativa de professores do curso. 
-
-§ 3º Quando solicitado pelo estudante, o pedido de Certificação de Conhecimentos Anteriores deverá ser feito no prazo de até dez (10) dias a contar do início do período letivo, através de formulário próprio entregue à Secretaria Acadêmica do _Campus_ . 
-
-§ 4º Caberá à Comissão designada pela Direção de Ensino, Pesquisa e Extensão do _Campus_ estabelecer a programação e a supervisão das avaliações, bem como a homologação dos resultados finais. 
-
-§ 5º O estudante deverá estar matriculado ou ainda não ter cursado o(s) componente(s) curricular(es) para o(s) qual(is) solicita a certificação de conhecimentos, até que seja expedido o resultado do seu pedido de aproveitamento. 
-
-Art. 89. A certificação de conhecimentos por componente curricular somente pode ser 
-
-112 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-aplicada em curso que prevê matrícula por componente curricular. 
-
-Parágrafo único. No curso com matrícula por módulo, bloco ou série, a certificação de conhecimentos somente se aplica se o estudante demonstrar domínio de conhecimento em todos os componentes curriculares do período letivo. 
-
-Art. 90. Caberá à Direção de Ensino, Pesquisa e Extensão do _Campus_ encaminhar o resultado à Secretaria Acadêmica do _Campus_ por meio de processo individual por estudante, contendo os componentes curriculares aproveitados com os respectivos conceitos avaliativos e a frequência, acompanhados de atas e/ou relatórios das avaliações, assinado pelos membros da Comissão designada para tal. 
-
-Parágrafo único. Os componentes curriculares com certificação de conhecimento serão cadastrados, pela Secretaria Acadêmica do _Campus_ , no sistema de controle acadêmico com a frequência integral e o desempenho atingido pelo estudante. 
-
-## 5.1.4 Expedição de Diplomas e Certificados 
-
-O estudante que frequentar todos os componentes curriculares previstos no curso, tendo obtido aproveitamento em todos eles, frequência mínima de setenta e cinco por cento (75%) das horas-aula e 150 horas de atividades complementares, receberá o diploma de concluinte do curso, que será obtido junto à Secretaria Acadêmica do _Campus_ , após ter realizado a colação de grau na data agendada pela Instituição. 
-
-Antes da colação de grau, o formando deverá apresentar à Secretaria Acadêmica do _Campus_ o comprovante de ausência de débito com a biblioteca e com a Direção de Ensino, Pesquisa e Extensão do _Campus_ e, no caso de ter sofrido mudança no nome durante o curso, entregar cópia do documento do qual consta o nome atualizado. 
-
-Ao concluírem o curso, os alunos receberão o Certificado de Tecnólogo em Gestão Comercial do Eixo Tecnológico Gestão e Negócios. 
-
-113 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-O formando que não comparecer à cerimônia de formatura de seu curso deverá solicitar à Direção Geral, mediante requerimento, nova data para formatura em Gabinete, para receber a outorga do diploma. O estudante concluinte do curso poderá requerer, após a sua Formatura, declaração de Conclusão de Curso junto à Secretaria Acadêmica do _Campus_ . 
-
-## 5.1.5 Acessibilidade 
-
-O campus Assis Chateaubriand conta com o trabalho do Núcleo de Apoio a Pessoas com Necessidades Específicas – NAPNE, visando a inserção e o atendimento aos alunos com Necessidades Educacionais Específicas nos cursos de nível básico, técnico e tecnológico nas Instituições Federais de Educação, a Secretaria de Educação Profissional e Tecnológica (SETEC/MEC) criou o Programa de Educação, Tecnologia e Profissionalização para Pessoas com Necessidades Educacionais Especiais (TEC NEP). 
-
-O objetivo é estimular a criação da cultura da educação para a convivência, aceitação da diversidade e, principalmente, buscar a quebra das barreiras arquitetônicas, educacionais e atitudinais nos Institutos Federais. 
-
-As responsabilidades dos coordenadores dos NAPNEs são: 
-
-- a) Promover ações de sensibilização da comunidade escolar quanto a temática da Educação Inclusiva; 
-
-- b) Levantar a demanda de Pessoas com Necessidades Educacionais Específicas na Instituição, comunicando à Direção do _Campus_ e à Pró-Reitoria de Extensão, Pesquisa e Inovação a importância e o tipo de atendimento a ser realizado; 
-
-- c) Contribuir para a adequação dos Projetos Político-Pedagógicos de modo a contemplar a educação inclusiva, oferecendo informações atualizadas à Direção de Ensino, bem como aos demais gestores do _Campus_ ; 
-
-- d) Articular os diversos setores da instituição nas atividades relativas à inclusão, 
-
-114 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-divulgando as ações prioritárias; 
-
-- e) Participar das discussões relativas a reformas e construção de novas unidades, garantindo a acessibilidade às edificações, aos mobiliários, aos espaços e equipamentos com vistas à mobilidade das pessoas de maneira autônoma e segura, conforme previsto em legislação própria; 
-
-- f) Estabelecer contato com instituições ou organizações que atendam Pessoas com Necessidades Educacionais Específicas, visando desenvolver trabalhos em parceria; 
-
-- g) Divulgar as ações do TEC NEP/NAPNE da SETEC para a comunidade em geral; 
-
-- h) Representar o NAPNE nas ocasiões em que se fizer necessário. 
-
-Quanto à Língua Brasileira de Sinais, esta é ofertada no _campus_ como projeto de LIBRAS do IFPR, a qual visa atender decretos e leis do governo federal. 
-
-A Libras é reconhecida no país como língua brasileira de sinais pela lei nº 10.436, de 24 de abril de 2002, e regulamentada pelo decreto nº 5.626, de 22 de dezembro de 2005 que determina em seu artigo 14 do decreto que as instituições federais de ensino garantam às pessoas surdas acesso à comunicação, à informação e à educação nos processos seletivos, nas atividades e nos conteúdos curriculares desenvolvidos em todos os níveis, etapas e modalidades de educação, desde a educação infantil até à superior. 
-
-O IFPR conta com tradutores e intérpretes de LIBRAS que oferecem apoio aos alunos, possuindo também professor de LIBRAS para capacitação de servidores e professores, além de atendimento à comunidade externa nos eventos promovidos pela IFPR. 
-
-O objetivo da equipe é disponibilizar atendimento ao aluno surdo, e criar novas ferramentas para auxílio do professor na inclusão de surdos no IFPR. Orientar a conduta moral e profissional, em conformidade com o Código de Ética da categoria do Intérprete, instituir normas que devem subsidiar o exercício das atividades dos TILS, assegurar o direito linguístico e a acessibilidade das pessoas surdas no ensino superior conforme Lei nº 10.098/2000 e Lei nº 
-
-115 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-## 10.436/2002, regulamentadas pelo Decreto nº 5626/2005. 
-
-Como a garantia da valorização e o reconhecimento do serviço de tradução e interpretação de Língua Brasileira de Sinais/Português e dos profissionais que realizam essa atividade, assegurar o cumprimento do Código de Ética/Conduta do Tradutor Intérprete de Língua Brasileira de Sinais/Português, e cumprir as determinações legais do Instituto Federal do Paraná. 
-
-## 5.1.6 Educação Inclusiva 
-
-Entende-se por educação inclusiva o processo que reconhece e respeita as diferenças dos educandos que envolvem a [...] deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotaçãoǁ, em sintonia com a definição de Educação Especial segundo o Art. 58, da Lei nº 12.796, de 4 de abril de 2013 (Lei que altera a LDB, Lei nº 9.394/1996). 
-
-A preocupação com a inclusão está presente no curso sob dois aspectos: 1) na matriz curricular, na qual encontramos componente curriculares Libras ofertado de como optativa para a orientação e formação do profissional; e 2) pelas ações institucionais com vistas a inclusão da comunidade escolar e da sociedade sob o apoio e orientação do NAPNE – Núcleo de Atendimento às Pessoas com Necessidades Específicas. 
-
-Ainda nas ações da Instituição, busca-se promover a inclusão conforme exprime o Decreto nº 5.296, de 02 de dezembro de 2004, o qual regulamenta as Leis n[o] 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas portadoras de deficiência, aos idosos com idade igual ou superior a 60 (sessenta) anos, as gestantes, as lactantes e as pessoas acompanhadas por crianças de colo; e n[o] 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências. 
-
-Com relação às instalações físicas do IFPR, o _Campus_ Assis Chateaubriand encontra-se em concordância com o Art. 24, Seção II, Capítulo IV, do Decreto n[o] 5.296/2004, possibilitando às pessoas com deficiência ou com mobilidade reduzida acesso e utilização de todos os seus 
-
-116 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-ambientes, incluindo salas de aula, laboratórios e biblioteca. 
-
-O _Campus_ Assis Chateaubriand promove a acessibilidade na infraestrutura e mobiliário conforme a Lei n. 10.048, de 8 de novembro de 2000, Lei n° 10.098, de 19 de dezembro de 2000 e Decreto nº 5.296, de 2 de dezembro de 2004. 
-
-Além de supervisionar a adequação das instalações físicas, o NAPNE garante a implantação e consolidação de políticas inclusivas no Instituto, por meio da garantia do acesso, permanência e êxito do estudante com necessidades educacionais específicas IFPR, nas áreas de ensino, pesquisa e extensão. 
-
-O NAPNE também desenvolve ações que promovam a melhoria do desempenho acadêmico dos estudantes com necessidades especiais por meio das seguintes estratégias: 
-
-- Levantamento de estudantes com necessidades especiais através de entrevistas e através de documentação entregue pelos próprios estudantes ou suas famílias; 
-
-- Levantamento das práticas educativas adequadas à cada necessidade especial levantada; 
-
-- Apresentação e acompanhamento da implantação destas práticas educativas junto ao colegiado dos cursos. 
-
-## 5.1.7 Mobilidade Estudantil e Internacionalização 
-
-O IFPR, em sua contribuição para a formação do estudante, assume o compromisso de proporcionar-lhe a mobilidade escolar/acadêmica, a qual envolve os intercâmbios nacionais e internacionais podendo ser por meio de programas do Governo Federal, como o Ciência sem Fronteiras, ou por iniciativas próprias decorrentes de demandas locais, a mobilidade estudantil busca colaborar com a formação integral do estudante de maneira inclusiva, transformadora e comprometida com o desenvolvimento humano (PDI 2014-2018, IFPR, 139-140). 
-
-O IFPR, por meio de sua Assessoria de Relações Internacionais, busca promover a 
-
-117 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-internacionalização ampla do IFPR, por meio da formulação de políticas, da interlocução com parceiros nacionais e internacionais e do apoio às ações, projetos e programas de internacionalização dos campi e outros setores. 
-
-A Mobilidade Estudantil na graduação possibilita que o estudante desenvolva atividades em instituição de ensino diferente da sua, a qual pode ser do próprio país de residência do estudante ou instituição no exterior. 
-
-A internacionalização refere-se a todos esforços da instituição para incorporar perspectivas globais no ensino, pesquisa e extensão; para construir competências internacionais e interculturais entre estudantes, professores e técnicos; para estabelecer parcerias com comunidades e instituições no exterior. 
-
-A intenção é criar no curso condições para viabilizar o intercâmbio de estudantes, egressos, docentes e colaboradores, uma das ações é a oferta de Língua Estrangeira Inglês e Espanhol como projetos de extensão e mediar acordos e cooperações com instituições internacionais de ensino superior, viabilizando a mobilidade acadêmica nacional e internacional. 
-
-## **6. EQUIPE MULTIDISCIPLINAR** 
-
-## 6.1. CORPO DOCENTE 
-
-Conforme a Lei 9.394, de 20 de dezembro de 1996 em particular, o Art. 66 “A preparação para o exercício do magistério superior far-se-á em nível de pós-graduação, prioritariamente em programas de mestrado e doutorado.” ou conforme parágrafo único do mesmo artigo “O notório saber, reconhecido por universidade com curso de doutorado em área afim, poderá suprir a exigência de título acadêmico”, a instituição incentiva seus docentes a busca pela formação continuada primando pela qualidade e ensino e ascensão em seu plano de carreira. 
-
-## 6.1.1 Atribuições do Coordenador 
-
-O coordenador deverá coordenar as atividades administrativas e pedagógicas do Curso Superior de Tecnologia em Gestão Comercial. As atividades deverão compreender a verificação 
-
-118 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-das questões estruturais para o funcionamento do curso, como acervo bibliográfico necessário, instalações de sala de aula condizente com as necessidades das turmas, levantamento de corpo docente disponível para atuar nos componentes curriculares. Buscar-se-á fornecer treinamento e capacitação para que os professores utilizem estratégias de ensino-aprendizagem modernas e desafiadoras ao estudante, visando estimulá-los na construção do conhecimento. 
-
-A coordenação deverá articular com as pró-reitorias, direção geral e de ensino e demais setores do _campus_ Assis Chateaubriand para oportunizar atividades como palestras, visitas técnicas, intercâmbios e convênios com instituições no exterior, convênios de estágios e o fomento à pesquisa científica por parte dos estudantes, tendo como base os programas institucionais já existentes. 
-
-## 6.1.2 Experiência do Coordenador 
-
-Possui graduação em Secretariado Executivo Bilíngue pela Universidade Estadual do Oeste do Paraná, especialista em Linguística Aplicada a Língua Estrangeira pela UNIOESTE, licenciada em língua inglesa pela Universidade Tecnológica Federal do Paraná. Licenciada em Letras portugues-espanhol pela Univag. Licenciada em Pedagogia pela Uninter. Tecnóloga em Marketing pela Uninter.Especialista em educação com ênfase na docência do ensino superior - Unipan, especialista em MBS - master business secretaries, especialista em gestão e docência em EaD. Especialista em Gestão de Projetos pela Uninter. Especialista em Recursos Humanos pela Uninter. Especialista em Gestão de processos e qualidade pela Uninter. Especialista em Gestão de serviços, comércio e merchandising pela Uninter. Especialista em Gestão Escolar pela Uninter. Mestre em Ciências da Educação pela Universidade Internacional de Lisboa - Portugal, Licenciada em Letras - UNIVAG. Doutora em Linguística Aplicada e Estudos da Linguagem pela Pontifícia Universidade Católica de São Paulo - PUC SP, possui mais de 15 anos de experiência como docente na rede IF. 
-
-119 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-## 6.1.3 Núcleo Docente Estruturante (NDE) 
-
-O NDE é o “conjunto de professores, composto por pelo menos cinco docentes do curso, de elevada formação e titulação, contratados em tempo integral ou parcial, que respondem mais diretamente pela concepção, implementação e consolidação do Projeto Pedagógico do Curso” (Parecer CONAES nº 04/2010; Resolução CONAES nº 01, de 17/06/2010; Resolução CONSUP nº 08, de 23 de fevereiro de 2011; Resolução CONSUP n° 15, de 10 de junho de 2014). O NDE do curso superior de Tecnologia de Gestão Comercial compõe o quadro abaixo: 
+O NDE é o “conjunto de professores, composto por pelo menos cinco docentes do curso, de elevada formação e titulação, contratados em tempo integral ou parcial, que respondem mais diretamente pela concepção, implementação e consolidação do Projeto Pedagógico do Curso” (Parecer CONAES nº 04/2010; Resolução CONAES nº 01, de 17/06/2010; Resolução CONSUP nº 08, de 23 de fevereiro de 2011; Resolução CONSUP n° 15, de 10 de junho de 2014). O NDE do curso superior de Tecnologia de Gestão Comercial compõe o quadro abaixo:
 
 |**Nome completo**|**Titulação**|**Formação**|**Regime de Trabalho**|
 |---|---|---|---|
@@ -2726,13 +2194,7 @@ O NDE é o “conjunto de professores, composto por pelo menos cinco docentes do
 |Cesar Gomes de Freitas|Doutor|Ciências Contábeis e<br>Administração|DE|
 |José Jurandir Pereira Junior|Doutor|Licenciatura em<br>Filosofia, Licenciatura<br>em Ciências da Religião<br>e Bacharelado em Direito|DE|
 
-
-
-120 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-## **6.1.4 Relação do Corpo docente** 
+## **6.1.4 Relação do Corpo docente**
 
 |**Nome Completo**|**Curso de**<br>**Graduação**|**Maior**<br>**Titulação**|**Regime de**<br>**Trabalho**<br>**(DE, 40h,**<br>**20h)**|**Link Currículo Lattes**|
 |---|---|---|---|---|
@@ -2744,12 +2206,6 @@ O NDE é o “conjunto de professores, composto por pelo menos cinco docentes do
 |Rafael Silva Santos|Ciência da<br>Computação|Mestre|DE|http://lattes.cnpq.br/50123555<br>66936752|
 ||Licenciatura em|||http://lattes.cnpq.br/11546784<br>69138069|
 
-
-
-121 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
 |José Jurandir<br>Pereira Junior|Filosofia,<br>Licenciatura em<br>Ciências da<br>Religião e<br>Bacharelado em<br>Direito|Doutor|DE||
 |---|---|---|---|---|
 |Amilcar Machado<br>Profeta Filho|Licenciatura em<br>História|Mestre|DE|http://lattes.cnpq.br/72950738<br>99385706|
@@ -2757,87 +2213,73 @@ O NDE é o “conjunto de professores, composto por pelo menos cinco docentes do
 |Karen Cristina<br>Guedes Silva|Bacharel em<br>Engenharia de<br>alimentos<br>Licenciatura em<br>Matemática|Doutora|DE|https://lattes.cnpq.br/2764461<br>845245097|
 |Celina Oliveira<br>Barbosa Gomes|Letras – Português e<br>Inglês;<br>Tecnologia<br>em Informática|Doutora|DE|http://lattes.cnpq.br/33550104<br>69212317|
 
+## 6.1.5 Colegiado de Curso
 
+O Colegiado do Curso é um órgão deliberativo, normativo e consultivo setorial, tendo como finalidade acompanhar a implementação do projeto pedagógico, propor alterações dos currículos, discutir temas ligados ao curso, planejar e avaliar as atividades acadêmicas do curso.
 
-## 6.1.5 Colegiado de Curso 
+Conforme a Resolução nº 08 de 30 de abril de 2014, a qual regulamenta o regimento interno comum dos _Campi_ do IFPR, o Colegiado de Curso será constituído:
 
-O Colegiado do Curso é um órgão deliberativo, normativo e consultivo setorial, tendo como finalidade acompanhar a implementação do projeto pedagógico, propor alterações dos currículos, discutir temas ligados ao curso, planejar e avaliar as atividades acadêmicas do curso. 
+- por todos os Docentes que estão atuando no curso;
 
-Conforme a Resolução nº 08 de 30 de abril de 2014, a qual regulamenta o regimento interno comum dos _Campi_ do IFPR, o Colegiado de Curso será constituído: 
+• 02 (dois) representantes discentes, de turmas distintas. O representante discente que não comparecer a três (03) reuniões, consecutivas ou não, perderá o direito de representação, e caberá aos seus representados indicar o novo representante.
 
-- por todos os Docentes que estão atuando no curso; 
+• 01 (um) representante técnico administrativo em educação ligado diretamente ao curso, quando houver.
 
-122 
+Desta forma, a formação dos profissionais do corpo docente do Curso Superior de Tecnologia em Gestão Comercial do Instituto Federal do Paraná, _campus_ Assis Chateaubriand, será constituída por profissionais de diversas áreas, entre elas Ciências Exatas, Ciências Humanas e Ciências Sociais.
 
-**==> picture [471 x 55] intentionally omitted <==**
+A multidisciplinaridade do corpo docente fundamenta ainda mais o proposto pelos modernos conceitos de formação generalista adotada pela maioria dos cursos superiores, permitindo uma riqueza de conhecimentos que beneficiará a comunidade, a qual contará com um profissional de ampla visão social e humanista.
 
-• 02 (dois) representantes discentes, de turmas distintas. O representante discente que não comparecer a três (03) reuniões, consecutivas ou não, perderá o direito de representação, e caberá aos seus representados indicar o novo representante. 
+O Colegiado do Curso deverá se reunir bimestralmente em reuniões ordinárias ou sempre que convocado pelo Coordenador do Curso, em reuniões extraordinárias para tratar de assuntos referentes ao funcionamento do Curso Superior de Tecnologia em Gestão Comercial, bem como para aprovar projetos de pesquisa e extensão de seu corpo docente.
 
-• 01 (um) representante técnico administrativo em educação ligado diretamente ao curso, quando houver. 
+## 6.1.6 Políticas de Capacitação do Corpo Docente
 
-Desta forma, a formação dos profissionais do corpo docente do Curso Superior de Tecnologia em Gestão Comercial do Instituto Federal do Paraná, _campus_ Assis Chateaubriand, será constituída por profissionais de diversas áreas, entre elas Ciências Exatas, Ciências Humanas e Ciências Sociais. 
+A Resolução № 48/11, normatiza o Programa de Qualificação e Formação dos Servidores do IFPR no seu artigo primeiro ao artigo quinto.
 
-A multidisciplinaridade do corpo docente fundamenta ainda mais o proposto pelos modernos conceitos de formação generalista adotada pela maioria dos cursos superiores, permitindo uma riqueza de conhecimentos que beneficiará a comunidade, a qual contará com um profissional de ampla visão social e humanista. 
+O Programa de Incentivo à Formação Inicial, Continuada e de Qualificação de Servidores Públicos contemplará, quando possível, os seguintes níveis formativos, nas modalidades EaD e presencial:
 
-O Colegiado do Curso deverá se reunir bimestralmente em reuniões ordinárias ou sempre que convocado pelo Coordenador do Curso, em reuniões extraordinárias para tratar de assuntos referentes ao funcionamento do Curso Superior de Tecnologia em Gestão Comercial, bem como para aprovar projetos de pesquisa e extensão de seu corpo docente. 
+- I. Cursos de Graduação;
 
-## 6.1.6 Políticas de Capacitação do Corpo Docente 
+II. Cursos de Pós-Graduação Lato Sensu: aperfeiçoamento e especialização;
 
-A Resolução № 48/11, normatiza o Programa de Qualificação e Formação dos Servidores do IFPR no seu artigo primeiro ao artigo quinto. 
+III. Cursos de Pós-Graduação Stricto Sensu: mestrado e doutorado;
 
-O Programa de Incentivo à Formação Inicial, Continuada e de Qualificação de Servidores Públicos contemplará, quando possível, os seguintes níveis formativos, nas modalidades EaD e presencial: 
+## IV. Estágio Pós-Doutoral;
 
-- I. Cursos de Graduação; 
+Outros cursos, estágios, intercâmbios acadêmico-profissionais ou atividades de capacitação, no interesse da Administração.
 
-123 
+Além dos programas de Pós-Graduação Stricto Sensu, a formação permanente do corpo docente será objeto de discussão e definição de estratégias formativas, com vistas a atender aos objetivos do curso, devendo ocorrer em semanas pedagógicas, oficinas específicas, participação em eventos formativos institucionais e de realização de estudos acadêmico-científicos de forma continuada.
 
-**==> picture [471 x 55] intentionally omitted <==**
+## 6.2 CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO
 
-II. Cursos de Pós-Graduação Lato Sensu: aperfeiçoamento e especialização; 
+O Instituto Federal do Paraná, por situar-se no âmbito da Rede pública Federal de Educação Profissional e Tecnológica, possui um quadro docente constituído a partir de concurso público de provas e títulos. Os profissionais aprovados pelo concurso público ingressam no Plano de Carreira e Cargos do Magistério do Ensino Básico, Técnico e Tecnológico, Lei nº 11.784/2008. A remuneração docente se constitui dos seguintes componentes:
 
-III. Cursos de Pós-Graduação Stricto Sensu: mestrado e doutorado; 
+## I. Vencimento Básico;
 
-## IV. Estágio Pós-Doutoral; 
+II. Gratificação Específica de Atividade Docente do Ensino Básico, Técnico e
 
-Outros cursos, estágios, intercâmbios acadêmico-profissionais ou atividades de capacitação, no interesse da Administração. 
+Tecnológico- GEDBT (art. 116) e
 
-Além dos programas de Pós-Graduação Stricto Sensu, a formação permanente do corpo docente será objeto de discussão e definição de estratégias formativas, com vistas a atender aos objetivos do curso, devendo ocorrer em semanas pedagógicas, oficinas específicas, participação em eventos formativos institucionais e de realização de estudos acadêmico-científicos de forma continuada. 
+III. Retribuição por Titulação - RT (art. 117)
 
-## 6.2 CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO 
+A carreira docente se divide em seis classes:
 
-O Instituto Federal do Paraná, por situar-se no âmbito da Rede pública Federal de Educação Profissional e Tecnológica, possui um quadro docente constituído a partir de concurso público de provas e títulos. Os profissionais aprovados pelo concurso público ingressam no Plano de Carreira e Cargos do Magistério do Ensino Básico, Técnico e Tecnológico, Lei nº 11.784/2008. A remuneração docente se constitui dos seguintes componentes: 
+## - D I, D II, D III, D IV, D V e PROFESSOR TITULAR.
 
-## I. Vencimento Básico; 
+As classes D I, D II e D III contém 4 níveis: 1, 2, 3 e 4.
 
-II. Gratificação Específica de Atividade Docente do Ensino Básico, Técnico e 
+- A classe D IV contém 1 nível
 
-Tecnológico- GEDBT (art. 116) e 
+- Classe D V contém 3 níveis.
 
-III. Retribuição por Titulação - RT (art. 117) 
+- Professor Titular possui nível único. A progressão na carreira pode ser dar de
 
-A carreira docente se divide em seis classes: 
+- duas formas:
 
-## - D I, D II, D III, D IV, D V e PROFESSOR TITULAR. 
+   - 1) Progressão funcional por Titulação – O servidor receberá RT
 
-As classes D I, D II e D III contém 4 níveis: 1, 2, 3 e 4. 
+   - (Retribuição por Titulação) equivalente à titulação.
 
-- A classe D IV contém 1 nível 
-
-124 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-- Classe D V contém 3 níveis. 
-
-- Professor Titular possui nível único. A progressão na carreira pode ser dar de 
-
-- duas formas: 
-
-   - 1) Progressão funcional por Titulação – O servidor receberá RT 
-
-   - (Retribuição por Titulação) equivalente à titulação. 
-
-   - 2) Progressão por desempenho acadêmico (progressão por mérito mediante avaliação de desempenho, realizada a cada 24 meses) 
+   - 2) Progressão por desempenho acadêmico (progressão por mérito mediante avaliação de desempenho, realizada a cada 24 meses)
 
 |**Nome**|**Formação**|**Regime de**<br>**Trabalho**<br>**(40h, 30h ou**<br>**20h)**|**Cargo**|
 |---|---|---|---|
@@ -2851,185 +2293,147 @@ As classes D I, D II e D III contém 4 níveis: 1, 2, 3 e 4.
 |Thaís Valéria Fonseca de<br>Oliveira Scane|Bacharel em Serviço Social|40|Ass. Social|
 |Amanda Rottava|Psicóloga|40|Psicóloga|
 
+6.2.1 Políticas de Capacitação do Corpo Técnico Administrativo em Educação
 
+O PDI (2019-2023) aborda as Políticas de capacitação, destacando que a política tem como fundamento legal o Decreto nº 5.707/2006 e a Lei nº 11.091/2005. Ressalta-se que as Políticas de capacitação do Técnico Administrativo em Educação no IFPR em Educação visam ampliar a formação dos servidores, bem como proporcionar melhoria na eficiência do serviço público, tendo como base a qualidade dos processos de trabalho. A Pró-reitoria de Gestão de Pessoas objetiva "planejar, superintender, coordenar, fomentar as Políticas de gestão de pessoas, visando ao alcance das metas e ao cumprimento da missão institucional".
 
-125 
+As Políticas de Capacitação do Corpo Técnico-Administrativo seguem a Resolução 48/11 do IFPR, que trata do Programa de Qualificação e Formação dos Servidores do IFPR.
 
-**==> picture [471 x 55] intentionally omitted <==**
+Este Programa enfatiza a formação, qualificação e atualização sistemática em nível de Graduação e Pós-graduação _Lato_ e _Stricto Sensu_ , dos recursos humanos do instituto e de instituições parceiras das redes federal e estadual de ensino para o exercício pleno e eficiente de suas atividades nas instituições de ensino de origem.
 
-6.2.1 Políticas de Capacitação do Corpo Técnico Administrativo em Educação 
+O Programa de Incentivo à Formação Inicial, Continuada e de Qualificação de Servidores Públicos contemplará, quando possível, os seguintes níveis formativos nas modalidades EaD (Ensino à Distância) e Presencial:
 
-O PDI (2019-2023) aborda as Políticas de capacitação, destacando que a política tem como fundamento legal o Decreto nº 5.707/2006 e a Lei nº 11.091/2005. Ressalta-se que as Políticas de capacitação do Técnico Administrativo em Educação no IFPR em Educação visam ampliar a formação dos servidores, bem como proporcionar melhoria na eficiência do serviço público, tendo como base a qualidade dos processos de trabalho. A Pró-reitoria de Gestão de Pessoas objetiva "planejar, superintender, coordenar, fomentar as Políticas de gestão de pessoas, visando ao alcance das metas e ao cumprimento da missão institucional". 
+- Cursos de Graduação;
 
-As Políticas de Capacitação do Corpo Técnico-Administrativo seguem a Resolução 48/11 do IFPR, que trata do Programa de Qualificação e Formação dos Servidores do IFPR. 
+- Cursos de Pós-Graduação _Lato Sensu_ : aperfeiçoamento e Especialização;
 
-Este Programa enfatiza a formação, qualificação e atualização sistemática em nível de Graduação e Pós-graduação _Lato_ e _Stricto Sensu_ , dos recursos humanos do instituto e de instituições parceiras das redes federal e estadual de ensino para o exercício pleno e eficiente de suas atividades nas instituições de ensino de origem. 
+- Cursos de Pós-Graduação Stricto Sensu: mestrado e doutorado;
 
-O Programa de Incentivo à Formação Inicial, Continuada e de Qualificação de Servidores Públicos contemplará, quando possível, os seguintes níveis formativos nas modalidades EaD (Ensino à Distância) e Presencial: 
+- Estágio Pós-Doutoral;
 
-- Cursos de Graduação; 
+- Outros cursos, estágios, intercâmbios acadêmico-profissionais ou atividades de capacitação, no interesse da Administração.
 
-- Cursos de Pós-Graduação _Lato Sensu_ : aperfeiçoamento e Especialização; 
+Todos os Técnicos Administrativos do IFPR serão beneficiados, em todos os níveis de
 
-- Cursos de Pós-Graduação Stricto Sensu: mestrado e doutorado; 
+carreira, prioritariamente, aqueles que não possuam Pós-Graduação nos níveis de mestrado e doutorado.
 
-- Estágio Pós-Doutoral; 
+Os parâmetros e regulamentos de concessão e remuneração de bolsas terão como base o Programa Institucional de Incentivo ao Ensino, Extensão, Pesquisa e Inovação (Proepi) do IFPR e os demais auxílios observarão os parâmetros regulamentados pela Capes e CNPq e demais agências de fomento.
 
-- Outros cursos, estágios, intercâmbios acadêmico-profissionais ou atividades de capacitação, no interesse da Administração. 
+Segundo o Plano de Desenvolvimento Institucional – PDI do IFPR, em vigência, deverá ser construído o Programa de Capacitação e Aperfeiçoamento, com o objetivo de: contribuir para o desenvolvimento do servidor, como profissional e cidadão; capacitá-lo para o desenvolvimento de ações de gestão pública; e para o exercício de atividades de forma articulada com a função social da IFE. Essa medida busca suprir a necessidade de capacitação do corpo Técnico-Administrativo atual e interessante ao quadro de servidores do Instituto Federal do Paraná.
 
-Todos os Técnicos Administrativos do IFPR serão beneficiados, em todos os níveis de 
+A Diretoria de Desenvolvimento de Pessoas por meio da Coordenadoria de Capacitação e Aperfeiçoamento apresenta um programa de capacitação para técnicos no qual os próprios servidores podem atuar nos eventos internos de capacitação, apoiando o desenvolvimento da aprendizagem contínua do IFPR, como facilitadores/instrutores.
 
-126 
+São 87 temáticas entre aquelas de interesse para técnicos-administrativos e docentes. Além destas, há a possibilidade de abertura de outras temáticas, conforme sugestões pelo servidor que irá ministrar o programa de Capacitação. As temáticas apresentam conteúdos diversos, tais como nas áreas de administração, gestão de pessoas, atendimento ao público, informática, línguas estrangeiras, legislação, entre outros.
 
-**==> picture [471 x 55] intentionally omitted <==**
+A Secretaria Acadêmica tem como atribuições o apoio ao acadêmico por meio da realização de inscrições de ingresso de estudantes, matrículas nas disciplinas curriculares, emissão de certificados, declarações, recebimento de justificativas de ausências, emissão de
 
-carreira, prioritariamente, aqueles que não possuam Pós-Graduação nos níveis de mestrado e doutorado. 
+resposta a pedidos de considerações e recebimento de pedidos de transferência.
 
-Os parâmetros e regulamentos de concessão e remuneração de bolsas terão como base o Programa Institucional de Incentivo ao Ensino, Extensão, Pesquisa e Inovação (Proepi) do IFPR e os demais auxílios observarão os parâmetros regulamentados pela Capes e CNPq e demais agências de fomento. 
+## 6.3 INSTRUMENTOS DE GESTÃO DEMOCRÁTICA
 
-Segundo o Plano de Desenvolvimento Institucional – PDI do IFPR, em vigência, deverá ser construído o Programa de Capacitação e Aperfeiçoamento, com o objetivo de: contribuir para o desenvolvimento do servidor, como profissional e cidadão; capacitá-lo para o desenvolvimento de ações de gestão pública; e para o exercício de atividades de forma articulada com a função social da IFE. Essa medida busca suprir a necessidade de capacitação do corpo Técnico-Administrativo atual e interessante ao quadro de servidores do Instituto Federal do Paraná. 
+Conforme a Lei 9394/96, em seus artigos 14 e 15, estabelece os princípios e responsabilidades da IES na implementação da Gestão Democrática e o _Campus_ Assis Chateaubriand tem se empenhado em democratizar cada dia mais suas ações de modo que a sociedade encontre no Campus o resultado de seus anseios.
 
-A Diretoria de Desenvolvimento de Pessoas por meio da Coordenadoria de Capacitação e Aperfeiçoamento apresenta um programa de capacitação para técnicos no qual os próprios servidores podem atuar nos eventos internos de capacitação, apoiando o desenvolvimento da aprendizagem contínua do IFPR, como facilitadores/instrutores. 
+Art. 14. Os sistemas de ensino definirão as normas da gestão democrática do ensino público na educação básica, de acordo com as suas peculiaridades e conforme os seguintes princípios: I – participação dos profissionais da educação na elaboração do projeto pedagógico da escola; II – participação das comunidades escolar e local em conselhos escolares ou equivalentes. Art. 15. Os sistemas de ensino assegurarão às unidades escolares públicas de educação básica que os integram progressivos graus de autonomia pedagógica e administrativa e de gestão financeira, observadas as normas gerais de direito financeiro público (LDB, 2005, p. 12).
 
-São 87 temáticas entre aquelas de interesse para técnicos-administrativos e docentes. Além destas, há a possibilidade de abertura de outras temáticas, conforme sugestões pelo servidor que irá ministrar o programa de Capacitação. As temáticas apresentam conteúdos diversos, tais como nas áreas de administração, gestão de pessoas, atendimento ao público, informática, línguas estrangeiras, legislação, entre outros. 
+Considerando a lei supracitada, o IFPR, regulamenta por meio das Resoluções nº 08/2014 e nº 22/2014 os regimentos internos de cada campus e regimento internos dos colegiados de cada câmpus do IFPR, respectivamente.
 
-A Secretaria Acadêmica tem como atribuições o apoio ao acadêmico por meio da realização de inscrições de ingresso de estudantes, matrículas nas disciplinas curriculares, emissão de certificados, declarações, recebimento de justificativas de ausências, emissão de 
+## 6.3.1 Funcionamento dos Colegiados de Gestão
 
-127 
+Entendemos que, dentre as formas de organização da gestão, a perspectiva democrática apresenta-se coerente com os princípios norteadores das ações coletivas no IFPR, uma vez que promove a participação dos diferentes componentes da comunidade escolar nas decisões. A implementação da gestão democrática dentro de uma instituição de ensino se dá por meio de diversos órgãos e expedientes que promovem a efetiva participação da comunidade escolar.
 
-**==> picture [471 x 55] intentionally omitted <==**
+O Instituto Federal de Educação, Ciência e Tecnologia do Paraná, pauta-se por princípios democráticos, transparente e participativo, para cumprir esses objetivos, dispões de vários conselhos que estão coordenados pela Secretaria dos Órgãos Colegiados e o CODIC órgão
 
-resposta a pedidos de considerações e recebimento de pedidos de transferência. 
+presente em cada _campus_ .
 
-## 6.3 INSTRUMENTOS DE GESTÃO DEMOCRÁTICA 
+A Secretaria dos Órgãos Colegiados (SOC) está diretamente ligada ao Gabinete do Reitor, ocupando-se da organização das reuniões e deliberações dos órgãos superiores do Instituto Federal do Paraná. Atualmente, a SOC atende o Conselho Superior (Consup), o Conselho de Ensino Pesquisa e Extensão (Consepe), o Conselho de Administração e Planejamento (Consap) e o Colégio de Dirigentes (Codir).
 
-Conforme a Lei 9394/96, em seus artigos 14 e 15, estabelece os princípios e responsabilidades da IES na implementação da Gestão Democrática e o _Campus_ Assis Chateaubriand tem se empenhado em democratizar cada dia mais suas ações de modo que a sociedade encontre no Campus o resultado de seus anseios. 
+O Colégio Dirigente do _Campus_ , na Subseção III – do Regimento Geral do Instituto Federal do Paraná, Resolução Nº 56 de 03 de dezembro de 2012, em seu Art. 13, o Colégio Dirigente do _Campus_ (CODIC), integrante da estrutura do IFPR, é o órgão consultivo e propositivo, cuja finalidade é colaborar para o aperfeiçoamento dos processos educativos, administrativos e orçamentários financeiros e zelar pela correta execução das políticas do IFPR em cada _Campus._
 
-Art. 14. Os sistemas de ensino definirão as normas da gestão democrática do ensino público na educação básica, de acordo com as suas peculiaridades e conforme os seguintes princípios: I – participação dos profissionais da educação na elaboração do projeto pedagógico da escola; II – participação das comunidades escolar e local em conselhos escolares ou equivalentes. Art. 15. Os sistemas de ensino assegurarão às unidades escolares públicas de educação básica que os integram progressivos graus de autonomia pedagógica e administrativa e de gestão financeira, observadas as normas gerais de direito financeiro público (LDB, 2005, p. 12). 
+Parágrafo único. O funcionamento do CODIC será definido pelo seu Regimento Interno, aprovado por meio de resolução do Conselho Superior.
 
-Considerando a lei supracitada, o IFPR, regulamenta por meio das Resoluções nº 08/2014 e nº 22/2014 os regimentos internos de cada campus e regimento internos dos colegiados de cada câmpus do IFPR, respectivamente. 
+No regimento Interno Comum aos _Campi_ do Instituto Federal do Paraná, Resolução nº 08, de 30 de abril de 2014, os _Campi_ no Art. 4°, possuem a seguinte estrutura básica:
 
-## 6.3.1 Funcionamento dos Colegiados de Gestão 
+I - órgãos colegiados:
 
-Entendemos que, dentre as formas de organização da gestão, a perspectiva democrática apresenta-se coerente com os princípios norteadores das ações coletivas no IFPR, uma vez que promove a participação dos diferentes componentes da comunidade escolar nas decisões. A implementação da gestão democrática dentro de uma instituição de ensino se dá por meio de diversos órgãos e expedientes que promovem a efetiva participação da comunidade escolar. 
+- a) Colégio Dirigente do _Câmpus_ — CODIC;
 
-O Instituto Federal de Educação, Ciência e Tecnologia do Paraná, pauta-se por princípios democráticos, transparente e participativo, para cumprir esses objetivos, dispões de vários conselhos que estão coordenados pela Secretaria dos Órgãos Colegiados e o CODIC órgão 
+- b) Colegiado de Gestão Pedagógica do _Campus_ — CGPC;
 
-128 
+- c) Comitê de Pesquisa e Extensão — COPE;
 
-**==> picture [471 x 55] intentionally omitted <==**
+- d) Núcleo de Inovação Tecnológica — NIT;
 
-presente em cada _campus_ . 
+- e) Núcleo de Atendimento às Pessoas com Necessidades Educacionais Específicas — NAPNE;
 
-A Secretaria dos Órgãos Colegiados (SOC) está diretamente ligada ao Gabinete do Reitor, ocupando-se da organização das reuniões e deliberações dos órgãos superiores do Instituto Federal do Paraná. Atualmente, a SOC atende o Conselho Superior (Consup), o Conselho de Ensino Pesquisa e Extensão (Consepe), o Conselho de Administração e Planejamento (Consap) e o Colégio de Dirigentes (Codir). 
+f) Colegiados de Cursos;
 
-O Colégio Dirigente do _Campus_ , na Subseção III – do Regimento Geral do Instituto Federal do Paraná, Resolução Nº 56 de 03 de dezembro de 2012, em seu Art. 13, o Colégio Dirigente do _Campus_ (CODIC), integrante da estrutura do IFPR, é o órgão consultivo e propositivo, cuja finalidade é colaborar para o aperfeiçoamento dos processos educativos, administrativos e orçamentários financeiros e zelar pela correta execução das políticas do IFPR em cada _Campus._ 
+- II. Unidades Executivas;
 
-Parágrafo único. O funcionamento do CODIC será definido pelo seu Regimento Interno, aprovado por meio de resolução do Conselho Superior. 
+- a) Direção-Geral;
 
-No regimento Interno Comum aos _Campi_ do Instituto Federal do Paraná, Resolução nº 08, de 30 de abril de 2014, os _Campi_ no Art. 4°, possuem a seguinte estrutura básica: 
+- b) Diretoria de Planejamento e Administração; c) Diretoria de Ensino, Pesquisa e Extensão.
 
-I - órgãos colegiados: 
+Parágrafo único. O Manual de Competências e Organograma disporá sobre as competências e atribuições das unidades administrativas dos _campi,_ com vista à atuação sistêmica do IFPR.
 
-- a) Colégio Dirigente do _Câmpus_ — CODIC; 
+O CODIC, em conformidade com o Regimento Interno Comum aos _Campi_ do IFPR nos termos da Resolução Nº 08, de 30 de abril de 2014 do Conselho Superior, Art. 5º o CODIC é um órgão consultivo, propositivo, alternativo, mobilizador e normativo de apoio técnico-político à gestão no _campus_ .
 
-- b) Colegiado de Gestão Pedagógica do _Campus_ — CGPC; 
+Dentre as especificidades do CODIC, conforme §1º, §2º, §3º, §4º do Art.5º, estão: A FUNÇÃO CONSULTIVA E PROPOSITIVA: corresponde às competências para assessorar a gestão do _campus_ , opinando sobre as ações pedagógicas, administrativas, orçamentárias e disciplinares exercidas no _campus_ . A FUNÇÃO AVALIATIVA: corresponde às competências para diagnosticar, avaliar e fiscalizar o cumprimento das ações desenvolvidas pelo _campus_ . A FUNÇÃO MOBILIZADORA: corresponde às competências para apoiar, promover e estimular a comunidade escolar e local em busca da melhoria da qualidade do ensino e do acesso à escola. A FUNÇÃO NORMATIVA: corresponde à função de orientar e disciplinar, por meio de normas complementares, diretrizes e indicações, dentro do âmbito de suas competências, obedecendo aos marcos legais do IFPR.
 
-- c) Comitê de Pesquisa e Extensão — COPE; 
+A composição do CODIC, em seu Art. 6° terá a seguinte composição: I - Direção-Geral, como Presidente; II - Diretoria de Planejamento e Administração; III - Diretoria de Ensino, Pesquisa e Extensão; IV – representação de 50% das Coordenações de Curso e/ou área, de eixos
 
-- d) Núcleo de Inovação Tecnológica — NIT; 
+tecnológicos distintos, sendo no mínimo de 02 (dois) e no máximo de 04 (quatro), eleitos por seus pares; V - 02 (dois) representantes dos docentes; VI - 02 (dois) representantes dos Técnicos Administrativos em Educação; VII - 02 (dois) representantes discentes, sendo um do ensino superior, quando houver; VIII - 01 (um) representante dos pais de alunos da Educação Profissional Técnica Integrada ao Ensino Médio; IX – 02 (dois) representantes da sociedade civil, sendo 01 (um) indicado por entidades patronais e 01 (um) indicado por entidades dos(as) trabalhadores(as). § 1° No caso do _campus_ possuir Unidade Avançada, o dirigente máximo desta unidade integrará o CODIC como membro. § 2° Nas faltas e impedimentos dos titulares participarão do CODIC, na condição de suplentes, os seus respectivos substitutos legais. § 3° O CODIC será secretariado por servidor(a) designado(a) pela Direção-Geral do _campus_ .
 
-- e) Núcleo de Atendimento às Pessoas com Necessidades Educacionais Específicas — NAPNE; 
+A composição do conselho está regulamentado no Art. 7°, o processo de consulta para a escolha dos membros representantes de cada segmento será definido em regimento interno do CODIC, bem como as atribuições e a forma da renovação de seus membros e suplentes.
 
-129 
+O Colegiado de Gestão Pedagógica do _Campus_ – CGPC consiste em auxiliar na gestão pedagógica, com atuação regular e planejada na concepção, execução, controle, acompanhamento e avaliação dos processos pedagógicos da ação educativa.
 
-**==> picture [471 x 55] intentionally omitted <==**
+A competência do CGPC será exercida nos limites da legislação em vigor, das diretrizes da política educacional vigente expedida pelo IFPR e do compromisso de serem centros permanentes de debates e órgãos articuladores dos setores escolares e comunitários.
 
-f) Colegiados de Cursos; 
+O CGPC é coordenado pela Direção de Ensino, Pesquisa, Extensão e Inovação e tem como membros a Coordenação de Ensino, as Coordenações de Curso, o Coordenador do NAPNE e uma Pedagoga da SEPAE.
 
-- II. Unidades Executivas; 
+Os Colegiados de cursos são órgãos consultivos e deliberativos do Campus para assuntos de natureza pedagógica, didática e disciplinar, no âmbito de cada curso, tendo como finalidade o desenvolvimento e fortalecimento dos cursos ofertados, assegurando a participação dos
 
-- a) Direção-Geral; 
+segmentos da comunidade escolar.
 
-- b) Diretoria de Planejamento e Administração; c) Diretoria de Ensino, Pesquisa e Extensão. 
+Contudo, os colegiados de curso são compostos pelos docentes dos componentes curriculares do curso; 01 representante técnico administrativo em educação ligado diretamente ao curso; 02 representantes discentes de turmas distintas.
 
-Parágrafo único. O Manual de Competências e Organograma disporá sobre as competências e atribuições das unidades administrativas dos _campi,_ com vista à atuação sistêmica do IFPR. 
+## 6.3.2 Representatividade da Comunidade Acadêmica
 
-O CODIC, em conformidade com o Regimento Interno Comum aos _Campi_ do IFPR nos termos da Resolução Nº 08, de 30 de abril de 2014 do Conselho Superior, Art. 5º o CODIC é um órgão consultivo, propositivo, alternativo, mobilizador e normativo de apoio técnico-político à gestão no _campus_ . 
+A Comissão Própria de Avaliação - CPA é um órgão de representação da comunidade acadêmica responsável por conduzir os processos de avaliação e auto avaliação. Ela tem como objetivo o exercício avaliativo de buscar o aprofundamento de conhecimentos que permite compreender o contexto da realidade institucional, identificando seus vazios, necessidades e potencialidades, além de permitir a correção de rumos e a segurança do caminhar na direção dos objetivos traçados.
 
-Dentre as especificidades do CODIC, conforme §1º, §2º, §3º, §4º do Art.5º, estão: A FUNÇÃO CONSULTIVA E PROPOSITIVA: corresponde às competências para assessorar a gestão do _campus_ , opinando sobre as ações pedagógicas, administrativas, orçamentárias e disciplinares exercidas no _campus_ . A FUNÇÃO AVALIATIVA: corresponde às competências para diagnosticar, avaliar e fiscalizar o cumprimento das ações desenvolvidas pelo _campus_ . A FUNÇÃO MOBILIZADORA: corresponde às competências para apoiar, promover e estimular a comunidade escolar e local em busca da melhoria da qualidade do ensino e do acesso à escola. A FUNÇÃO NORMATIVA: corresponde à função de orientar e disciplinar, por meio de normas complementares, diretrizes e indicações, dentro do âmbito de suas competências, obedecendo aos marcos legais do IFPR. 
+O _Campu_ s Assis Chateaubriand por meio da Comissão Própria de Avaliação (CPA) tem como objetivo desenvolver melhorias por meio da participação de estudantes, docentes e colaboradores na avaliação.
 
-A composição do CODIC, em seu Art. 6° terá a seguinte composição: I - Direção-Geral, como Presidente; II - Diretoria de Planejamento e Administração; III - Diretoria de Ensino, Pesquisa e Extensão; IV – representação de 50% das Coordenações de Curso e/ou área, de eixos 
+A avaliação é feita por meio eletrônico e o público interno responde a várias questões sobre a instituição. É a partir da avaliação que são detectadas potencialidades e fragilidades da instituição para que estratégias possam ser delineadas com o objetivo de corrigir problemas e reforçar os pontos fortes, sempre com base nos resultados apurados, que expressam a opinião do meio acadêmico.
 
-130 
+A auto avaliação institucional segue determinação do Ministério da Educação para todas as instituições de ensino superior.
 
-**==> picture [471 x 55] intentionally omitted <==**
+A CPA do _Campus_ Assis Chateaubriand é formada por representantes dos professores, funcionários, alunos e sociedade civil, o que assegura, em todos os procedimentos, a representatividade dos diversos segmentos e transparência nos debates, resoluções e decisões.
 
-tecnológicos distintos, sendo no mínimo de 02 (dois) e no máximo de 04 (quatro), eleitos por seus pares; V - 02 (dois) representantes dos docentes; VI - 02 (dois) representantes dos Técnicos Administrativos em Educação; VII - 02 (dois) representantes discentes, sendo um do ensino superior, quando houver; VIII - 01 (um) representante dos pais de alunos da Educação Profissional Técnica Integrada ao Ensino Médio; IX – 02 (dois) representantes da sociedade civil, sendo 01 (um) indicado por entidades patronais e 01 (um) indicado por entidades dos(as) trabalhadores(as). § 1° No caso do _campus_ possuir Unidade Avançada, o dirigente máximo desta unidade integrará o CODIC como membro. § 2° Nas faltas e impedimentos dos titulares participarão do CODIC, na condição de suplentes, os seus respectivos substitutos legais. § 3° O CODIC será secretariado por servidor(a) designado(a) pela Direção-Geral do _campus_ . 
+A comissão se reúne diversas vezes no decorrer do ano, preparando, aplicando os questionários, e debatendo para análise e validação das informações, num processo participativo, até a redação final do relatório, que apresenta os projetos e as ações desenvolvidas para que o campus fique cada vez melhor para todos.
 
-A composição do conselho está regulamentado no Art. 7°, o processo de consulta para a escolha dos membros representantes de cada segmento será definido em regimento interno do CODIC, bem como as atribuições e a forma da renovação de seus membros e suplentes. 
+É importante salientar também que os discentes também fazem parte do Conselho de Direção do _Campus_ – CODIC, bem como integram os colegiados dos cursos, participam das reuniões de conselho de classe com seus representantes. Importante dizer também que os estudantes têm sua própria organização, sendo o Centro Acadêmico – CA seu órgão de representatividade junto aos temas do curso.
 
-O Colegiado de Gestão Pedagógica do _Campus_ – CGPC consiste em auxiliar na gestão pedagógica, com atuação regular e planejada na concepção, execução, controle, acompanhamento e avaliação dos processos pedagógicos da ação educativa. 
+## 6.3.3 Participação da Sociedade Civil na Gestão do Curso
 
-A competência do CGPC será exercida nos limites da legislação em vigor, das diretrizes da política educacional vigente expedida pelo IFPR e do compromisso de serem centros permanentes de debates e órgãos articuladores dos setores escolares e comunitários. 
+Bem se sabe que quando se trata da integração da escola com comunidade para a melhoria da educação, muitos têm essa ideia como algo utópico e difícil de se concretizar na prática, isso se dá a partir do cenário educacional que conhecemos, onde essa colaboração mútua de fato não ocorre ou pelo menos não como deveria acontecer mediante os anseios que surgem a partir dos processos educacionais.
 
-O CGPC é coordenado pela Direção de Ensino, Pesquisa, Extensão e Inovação e tem como membros a Coordenação de Ensino, as Coordenações de Curso, o Coordenador do NAPNE e uma Pedagoga da SEPAE. 
+O _Campus_ Assis Chateaubriand possui diversas instâncias colegiadas, tais como o Grêmio Estudantil que representa os alunos do Ensino Médio, o Diretório Central Estudantil (DCE) que representa todos os alunos do Ensino Superior, Conselhos de Classe onde se reúnem todos os docentes que ministram aulas no curso, de forma a observar as particularidades dos estudantes frente às ações globais do processo de formação. Estas organizações objetivam mobilizar a comunidade escolar na realização de uma gestão democrática do curso, dirigida pelos princípios da representatividade e participação dos agentes envolvidos.
 
-Os Colegiados de cursos são órgãos consultivos e deliberativos do Campus para assuntos de natureza pedagógica, didática e disciplinar, no âmbito de cada curso, tendo como finalidade o desenvolvimento e fortalecimento dos cursos ofertados, assegurando a participação dos 
+O Conselho de Classe é mais que uma reunião pedagógica, pois é parte do processo de avaliação da escola e o momento para redefinir práticas pedagógicas necessárias para oportunizar um ensino que garanta a aprendizagem aos alunos. Portanto, se faz necessário que todos os profissionais da educação envolvidos no Conselho de Classe superem ações que possam
 
-131 
+caracterizar um conselho de classe autoritário, burocrático e excludente, que é capaz de validar o fracasso escolar dos alunos ao invés de reorganizar o trabalho educativo aluno professor.
 
-**==> picture [471 x 55] intentionally omitted <==**
+## **7. INFRAESTRUTURA**
 
-segmentos da comunidade escolar. 
+O _Campus_ Assis Chateaubriand possui locais de acessibilidade para pessoas com necessidades especiais. Atualmente, conta com dois blocos onde são realizadas as atividades de ensino e administrativas, além dos laboratórios citados abaixo.
 
-Contudo, os colegiados de curso são compostos pelos docentes dos componentes curriculares do curso; 01 representante técnico administrativo em educação ligado diretamente ao curso; 02 representantes discentes de turmas distintas. 
+O projeto contempla ainda a construção de um terceiro bloco, além das dependências esportivas. Todas as salas de aula, laboratórios e salas administrativas, de professores e de reuniões são equipadas com ar-condicionado.
 
-## 6.3.2 Representatividade da Comunidade Acadêmica 
+As salas de aula apresentam quadro branco, quadro multimídia, projetor, cadeira e mesa para o professor, cadeiras e mesas próprias para os estudantes e um armário.
 
-A Comissão Própria de Avaliação - CPA é um órgão de representação da comunidade acadêmica responsável por conduzir os processos de avaliação e auto avaliação. Ela tem como objetivo o exercício avaliativo de buscar o aprofundamento de conhecimentos que permite compreender o contexto da realidade institucional, identificando seus vazios, necessidades e potencialidades, além de permitir a correção de rumos e a segurança do caminhar na direção dos objetivos traçados. 
+## 7.1 ÁREAS DE ENSINO ESPECÍFICAS
 
-O _Campu_ s Assis Chateaubriand por meio da Comissão Própria de Avaliação (CPA) tem como objetivo desenvolver melhorias por meio da participação de estudantes, docentes e colaboradores na avaliação. 
-
-A avaliação é feita por meio eletrônico e o público interno responde a várias questões sobre a instituição. É a partir da avaliação que são detectadas potencialidades e fragilidades da instituição para que estratégias possam ser delineadas com o objetivo de corrigir problemas e reforçar os pontos fortes, sempre com base nos resultados apurados, que expressam a opinião do meio acadêmico. 
-
-A auto avaliação institucional segue determinação do Ministério da Educação para todas as instituições de ensino superior. 
-
-A CPA do _Campus_ Assis Chateaubriand é formada por representantes dos professores, funcionários, alunos e sociedade civil, o que assegura, em todos os procedimentos, a representatividade dos diversos segmentos e transparência nos debates, resoluções e decisões. 
-
-132 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-A comissão se reúne diversas vezes no decorrer do ano, preparando, aplicando os questionários, e debatendo para análise e validação das informações, num processo participativo, até a redação final do relatório, que apresenta os projetos e as ações desenvolvidas para que o campus fique cada vez melhor para todos. 
-
-É importante salientar também que os discentes também fazem parte do Conselho de Direção do _Campus_ – CODIC, bem como integram os colegiados dos cursos, participam das reuniões de conselho de classe com seus representantes. Importante dizer também que os estudantes têm sua própria organização, sendo o Centro Acadêmico – CA seu órgão de representatividade junto aos temas do curso. 
-
-## 6.3.3 Participação da Sociedade Civil na Gestão do Curso 
-
-Bem se sabe que quando se trata da integração da escola com comunidade para a melhoria da educação, muitos têm essa ideia como algo utópico e difícil de se concretizar na prática, isso se dá a partir do cenário educacional que conhecemos, onde essa colaboração mútua de fato não ocorre ou pelo menos não como deveria acontecer mediante os anseios que surgem a partir dos processos educacionais. 
-
-O _Campus_ Assis Chateaubriand possui diversas instâncias colegiadas, tais como o Grêmio Estudantil que representa os alunos do Ensino Médio, o Diretório Central Estudantil (DCE) que representa todos os alunos do Ensino Superior, Conselhos de Classe onde se reúnem todos os docentes que ministram aulas no curso, de forma a observar as particularidades dos estudantes frente às ações globais do processo de formação. Estas organizações objetivam mobilizar a comunidade escolar na realização de uma gestão democrática do curso, dirigida pelos princípios da representatividade e participação dos agentes envolvidos. 
-
-O Conselho de Classe é mais que uma reunião pedagógica, pois é parte do processo de avaliação da escola e o momento para redefinir práticas pedagógicas necessárias para oportunizar um ensino que garanta a aprendizagem aos alunos. Portanto, se faz necessário que todos os profissionais da educação envolvidos no Conselho de Classe superem ações que possam 
-
-133 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-caracterizar um conselho de classe autoritário, burocrático e excludente, que é capaz de validar o fracasso escolar dos alunos ao invés de reorganizar o trabalho educativo aluno professor. 
-
-## **7. INFRAESTRUTURA** 
-
-O _Campus_ Assis Chateaubriand possui locais de acessibilidade para pessoas com necessidades especiais. Atualmente, conta com dois blocos onde são realizadas as atividades de ensino e administrativas, além dos laboratórios citados abaixo. 
-
-O projeto contempla ainda a construção de um terceiro bloco, além das dependências esportivas. Todas as salas de aula, laboratórios e salas administrativas, de professores e de reuniões são equipadas com ar-condicionado. 
-
-As salas de aula apresentam quadro branco, quadro multimídia, projetor, cadeira e mesa para o professor, cadeiras e mesas próprias para os estudantes e um armário. 
-
-## 7.1 ÁREAS DE ENSINO ESPECÍFICAS 
-
-A tabela abaixo apresenta as áreas de ensino específicas dos dois blocos existentes no campus. 
+A tabela abaixo apresenta as áreas de ensino específicas dos dois blocos existentes no campus.
 
 |ampus.||||
 |---|---|---|---|
@@ -3039,38 +2443,28 @@ A tabela abaixo apresenta as áreas de ensino específicas dos dois blocos exist
 |Coordenadoria de curso|Sim||Compartilhada|
 |Sala de reuniões|Sim||40 m2|
 
+## 7.2 ÁREAS DE ESTUDO GERAL
 
+A tabela abaixo apresenta as áreas de estudo geral que atendem aos cursos do _Campus_ Assis Chateaubriand. Conforme disposto anteriormente, o _campus_ Assis Chateaubriand está dimensionado para ter um terceiro bloco já projetado, que apresentará novas áreas de estudo
 
-## 7.2 ÁREAS DE ESTUDO GERAL 
-
-A tabela abaixo apresenta as áreas de estudo geral que atendem aos cursos do _Campus_ Assis Chateaubriand. Conforme disposto anteriormente, o _campus_ Assis Chateaubriand está dimensionado para ter um terceiro bloco já projetado, que apresentará novas áreas de estudo 
-
-134 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-geral, porém, na atual conjuntura, não há previsão de construção deste terceiro bloco.* 
+geral, porém, na atual conjuntura, não há previsão de construção deste terceiro bloco.*
 
 |Ambiente|Existente|A construir|Área (m2)|
 |---|---|---|---|
 |Biblioteca|Sim||288 m2|
 |04 Laboratório de informática com 125<br>computadores*|Sim||63 m2cada|
 
+* Processador AMD de 3.2 GHZ; 4 GB de memória RAM; HD de 500 GB.
 
-
-* Processador AMD de 3.2 GHZ; 4 GB de memória RAM; HD de 500 GB. 
-
-## 7.3 ÁREAS DE ESTUDO ESPECÍFICO 
+## 7.3 ÁREAS DE ESTUDO ESPECÍFICO
 
 |Ambiente|Existente|A construir|Área (m2)|
 |---|---|---|---|
 |Laboratório de Informática*|Sim||63 m2|
 
+* O laboratório de Informática segue orientação de utilização conforme agenda de horários de aulas. Quando necessário o professor do componente solicita a reserva para sua devida utilização, pois a utilização do mesmo é coletiva.
 
-
-* O laboratório de Informática segue orientação de utilização conforme agenda de horários de aulas. Quando necessário o professor do componente solicita a reserva para sua devida utilização, pois a utilização do mesmo é coletiva. 
-
-## 7.4 ÁREAS DE ESPORTE E VIVÊNCIA 
+## 7.4 ÁREAS DE ESPORTE E VIVÊNCIA
 
 |7.4 ÁREAS DE ESPORTE E VIVÊNCIA||||
 |---|---|---|---|
@@ -3079,9 +2473,7 @@ geral, porém, na atual conjuntura, não há previsão de construção deste ter
 |Cantina/Refeitório|Sim|||
 |Pátio coberto|Não|||
 
-
-
-## 7.5 ÁREAS DE ATENDIMENTO DISCENTE 
+## 7.5 ÁREAS DE ATENDIMENTO DISCENTE
 
 |Ambiente|Existente|A construir|Área (m2)|
 |---|---|---|---|
@@ -3091,13 +2483,7 @@ geral, porém, na atual conjuntura, não há previsão de construção deste ter
 |Primeiros socorros|Não|||
 |Serviço social|Sim|||
 
-
-
-135 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-## 7.6 ÁREAS DE APOIO 
+## 7.6 ÁREAS DE APOIO
 
 |Ambiente|Existente|A construir|Área (m2)|
 |---|---|---|---|
@@ -3106,615 +2492,519 @@ geral, porém, na atual conjuntura, não há previsão de construção deste ter
 |Sala de audiovisual|Não|||
 |Mecanografia|Não|||
 
+## **7.7 BIBLIOTECA**
 
+Como parte do processo didático-pedagógico, a biblioteca é integrante da formação humana e tem por finalidade apoiar as atividades de ensino, pesquisa e extensão a partir da promoção e da mediação do acesso à informação e ao conhecimento. Esse suporte ocorre por meio das ações de aquisição, processamento técnico, armazenamento, acondicionamento, preservação, conservação, disponibilização e disseminação de materiais e fontes informacionais (bibliográficos), produtos e serviços para a comunidade, proclamando o conceito de que a liberdade intelectual e o acesso à informação são pontos fundamentais para a formação da cidadania e o exercício da democracia.
 
-## **7.7 BIBLIOTECA** 
+Como espaço de convivência, a biblioteca tem por objetivo promover o incentivo à literatura, à arte e à cultura, auxiliando nas ações que visam à valorização da leitura e da biblioteca como instrumentos fundamentais na formação das/os estudantes no que diz respeito à reflexão da realidade, de forma crítica e autônoma. Também atua sobre os aspectos acadêmicos, científicos e tecnológicos, de modo a alcançar o exercício pleno da literacia na leitura e na escrita, instigando a tomada de consciência cultural e social, bem como de sensibilidade, estimulando a imaginação e a vivência de cidadãs e cidadãos críticas/os, reflexivas/os e responsáveis.
 
-Como parte do processo didático-pedagógico, a biblioteca é integrante da formação humana e tem por finalidade apoiar as atividades de ensino, pesquisa e extensão a partir da promoção e da mediação do acesso à informação e ao conhecimento. Esse suporte ocorre por meio das ações de aquisição, processamento técnico, armazenamento, acondicionamento, preservação, conservação, disponibilização e disseminação de materiais e fontes informacionais (bibliográficos), produtos e serviços para a comunidade, proclamando o conceito de que a liberdade intelectual e o acesso à informação são pontos fundamentais para a formação da cidadania e o exercício da democracia. 
+## 7.7.1 Biblioteca do câmpus Assis Chateaubriand
 
-Como espaço de convivência, a biblioteca tem por objetivo promover o incentivo à literatura, à arte e à cultura, auxiliando nas ações que visam à valorização da leitura e da biblioteca como instrumentos fundamentais na formação das/os estudantes no que diz respeito à reflexão da realidade, de forma crítica e autônoma. Também atua sobre os aspectos acadêmicos, científicos e tecnológicos, de modo a alcançar o exercício pleno da literacia na leitura e na escrita, instigando a tomada de consciência cultural e social, bem como de sensibilidade, estimulando a imaginação e a vivência de cidadãs e cidadãos críticas/os, reflexivas/os e responsáveis. 
+Localizada no piso térreo da Avenida Cívica, 475, Centro Cívico, a biblioteca do Campus Assis faz parte da Rede de Bibliotecas do IFPR. É um órgão suplementar, subordinado administrativamente à Direção de Ensino do Campus e tecnicamente ao Núcleo de Bibliotecas / Diretoria de Articulação Pedagógica e Formação Continuada (DAPE/PROENS).
 
-136 
+Possui um acervo plural e representativo de diversas áreas do conhecimento, que contemplam os mais de 12 cursos ofertados no campus. Este acervo pode ser utilizado tanto para consulta local, quanto para empréstimo domiciliar por prazo pré-determinado e estabelecido no regulamento.
 
-**==> picture [471 x 55] intentionally omitted <==**
+A classificação utilizada para organizar o acervo é a CDD - Classificação Decimal de Dewey, que organiza todo o conhecimento em dez classes principais.
 
-## 7.7.1 Biblioteca do câmpus Assis Chateaubriand 
+O controle e a gestão dos acervos bibliográficos da Rede de Bibliotecas do IFPR é realizado por meio do Sistema Pergamum.
 
-Localizada no piso térreo da Avenida Cívica, 475, Centro Cívico, a biblioteca do Campus Assis faz parte da Rede de Bibliotecas do IFPR. É um órgão suplementar, subordinado administrativamente à Direção de Ensino do Campus e tecnicamente ao Núcleo de Bibliotecas / Diretoria de Articulação Pedagógica e Formação Continuada (DAPE/PROENS). 
+Para acessar alguns dos serviços da biblioteca a/o usuária/o precisa ter vínculo institucional (estudante, técnica/o administrativa/o, docente, funcionária/o terceirizada/o e estágiária/o) e solicitar o seu cadastro no balcão de atendimento. Por meio do referido sistema são realizados o processamento técnico e registro patrimonial do acervo; empréstimo e devolução de material informacional; consulta ao acervo; reserva e renovação (também _online_ ), solicitação de empréstimo entre as bibliotecas da Rede do IFPR; levantamentos bibliográficos, relatórios e inventário patrimonial do acervo. O link de acesso ao acervo encontra-se disponível no site do IFPR, bem
 
-Possui um acervo plural e representativo de diversas áreas do conhecimento, que contemplam os mais de 12 cursos ofertados no campus. Este acervo pode ser utilizado tanto para consulta local, quanto para empréstimo domiciliar por prazo pré-determinado e estabelecido no regulamento. 
+como nas páginas de cada biblioteca da rede: https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php
 
-A classificação utilizada para organizar o acervo é a CDD - Classificação Decimal de Dewey, que organiza todo o conhecimento em dez classes principais. 
+A biblioteca do _Campus_ Assis Chateauabriand funciona nos termos previstos na Portaria nº 43/2021, que estabelece normas e diretrizes, nos termos do regulamento geral (https://ifpr.edu.br/wp-content/uploads/2014/12/1484-REGULAMENTO-GERAL-DAS-BIBLIO TECAS-DO-IFPR.pdf), para a elaboração e publicação do regulamento das Bibliotecas dos
 
-O controle e a gestão dos acervos bibliográficos da Rede de Bibliotecas do IFPR é realizado por meio do Sistema Pergamum. 
+_campi_ do IFPR, cujo regulamento próprio encontra-se publicado e disponível no balcão de atendimento.
 
-Para acessar alguns dos serviços da biblioteca a/o usuária/o precisa ter vínculo institucional (estudante, técnica/o administrativa/o, docente, funcionária/o terceirizada/o e estágiária/o) e solicitar o seu cadastro no balcão de atendimento. Por meio do referido sistema são realizados o processamento técnico e registro patrimonial do acervo; empréstimo e devolução de material informacional; consulta ao acervo; reserva e renovação (também _online_ ), solicitação de empréstimo entre as bibliotecas da Rede do IFPR; levantamentos bibliográficos, relatórios e inventário patrimonial do acervo. O link de acesso ao acervo encontra-se disponível no site do IFPR, bem 
+## **Política de Formação e Desenvolvimento de Acervos:**
 
-como nas páginas de cada biblioteca da rede: https://biblioteca.ifpr.edu.br/pergamum_ifpr/biblioteca/index.php 
+Portaria nº 25/2021: Política de Formação e Desenvolvimento de Coleções das Bibliotecas do Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR).
 
-A biblioteca do _Campus_ Assis Chateauabriand funciona nos termos previstos na Portaria nº 43/2021, que estabelece normas e diretrizes, nos termos do regulamento geral (https://ifpr.edu.br/wp-content/uploads/2014/12/1484-REGULAMENTO-GERAL-DAS-BIBLIO TECAS-DO-IFPR.pdf), para a elaboração e publicação do regulamento das Bibliotecas dos 
+IN nº 1/2021: Estabelece normas para execução da Política de Formação e Desenvolvimento de Coleções das bibliotecas do Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR).
 
-137 
+## **Catalogação Padronizada:**
 
-**==> picture [471 x 55] intentionally omitted <==**
+Portaria Conjunta PROAD/PROENS nº 8/2020: Institui o Manual de Catalogação para a Rede de Bibliotecas e o tutorial de cadastro de autoridades, no âmbito do Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR).
 
-_campi_ do IFPR, cujo regulamento próprio encontra-se publicado e disponível no balcão de atendimento. 
+## **Controle Patrimonial dos Acervos Bibliográficos:**
 
-## **Política de Formação e Desenvolvimento de Acervos:** 
+Portaria nº 28/2021: Normatiza o registro e o controle patrimonial de acervos bibliográficos no Sistema Pergamum, bem como a evidenciação contábil, no âmbito do Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR).
 
-Portaria nº 25/2021: Política de Formação e Desenvolvimento de Coleções das Bibliotecas do Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR). 
+## **Inventário:**
 
-IN nº 1/2021: Estabelece normas para execução da Política de Formação e Desenvolvimento de Coleções das bibliotecas do Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR). 
+Portaria nº 28/2021: Normatiza o registro e o controle patrimonial de acervos bibliográficos no Sistema Pergamum, bem como a evidenciação contábil, no âmbito do Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR).
 
-## **Catalogação Padronizada:** 
+IN Conjunta PROAD/PROENS nº 01/2022: Normatiza o fluxo de inventário de acervos bibliográficos, no âmbito do Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR).
 
-Portaria Conjunta PROAD/PROENS nº 8/2020: Institui o Manual de Catalogação para a Rede de Bibliotecas e o tutorial de cadastro de autoridades, no âmbito do Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR). 
+7.7.2 Serviços oferecidos
 
-## **Controle Patrimonial dos Acervos Bibliográficos:** 
+- Circulação de materiais: cadastro de usuários, empréstimo domiciliar, devolução, renovação e reserva de materiais bibliográficos;
 
-Portaria nº 28/2021: Normatiza o registro e o controle patrimonial de acervos bibliográficos no Sistema Pergamum, bem como a evidenciação contábil, no âmbito do Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR). 
+- Empréstimo entre bibliotecas com logística via malote dos Correios;
 
-## **Inventário:** 
+- Empréstimo de chaves de armários para a guarda de pertences dos usuários ou comunidade visitante enquanto permanência na biblioteca;
 
-Portaria nº 28/2021: Normatiza o registro e o controle patrimonial de acervos bibliográficos no Sistema Pergamum, bem como a evidenciação contábil, no âmbito do Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR). 
+- Consulta local do acervo;
 
-IN Conjunta PROAD/PROENS nº 01/2022: Normatiza o fluxo de inventário de acervos bibliográficos, no âmbito do Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR). 
+- Computadores com acesso à _internet_ para utilização dos usuários (e comunidade), no auxílio às pesquisas;
 
-7.7.2 Serviços oferecidos 
+- _Wi-fi_ gratuito;
 
-- Circulação de materiais: cadastro de usuários, empréstimo domiciliar, devolução, renovação e reserva de materiais bibliográficos; 
+- Serviço de referência: diversos treinamento de usuários, pré agendado com os coordenadores / docentes dos cursos a cada início de ano letivo e/ou conforme às demandas;
 
-- Empréstimo entre bibliotecas com logística via malote dos Correios; 
+- Relatórios de levantamentos bibliográficos;
 
-138 
+- Elaboração de fichas catalográficas,
 
-**==> picture [471 x 55] intentionally omitted <==**
+- Normalização de publicações institucionais.
 
-- Empréstimo de chaves de armários para a guarda de pertences dos usuários ou comunidade visitante enquanto permanência na biblioteca; 
+## _**7.7.3 Acervo virtual**_
 
-- Consulta local do acervo; 
+As bibliotecas IFPR possuem assinatura da Biblioteca Virtual Pearson que reúne mais de doze mil obras (e-books) de diferentes selos editoriais em suporte digital, com várias editoras parceiras que integram a plataforma.
 
-- Computadores com acesso à _internet_ para utilização dos usuários (e comunidade), no auxílio às pesquisas; 
+O acesso é realizado de uma forma muito prática, basta estar cadastrado no Sistema Pergamum da biblioteca, pois ambas as bases estão integradas. A biblioteca do _Campus_ Curitiba disponibiliza tutorial de acesso à plataforma, disponível no _site_
 
-- _Wi-fi_ gratuito; 
+## Tutorial Pearson_Assis
 
-- Serviço de referência: diversos treinamento de usuários, pré agendado com os coordenadores / docentes dos cursos a cada início de ano letivo e/ou conforme às demandas; 
+A BV Pearson traz diversos benefícios ao usuário e também à instituição, como:
 
-- Relatórios de levantamentos bibliográficos; 
+- Diversidade de acervo para atender aos diversos níveis dos cursos do IFPR;
 
-- Elaboração de fichas catalográficas, 
+- Credenciamento EaD, com suporte e treinamento pedagógico específicos;
 
-- Normalização de publicações institucionais. 
+- Ampliação do acesso ao acervo das bibliotecas para toda comunidade do IFPR e a diminuição da chance de um livro estar esgotado;
 
-## _**7.7.3 Acervo virtual**_ 
+- Mobilidade de acesso em qualquer suporte: desktop, tablets e smartphones;
 
-As bibliotecas IFPR possuem assinatura da Biblioteca Virtual Pearson que reúne mais de doze mil obras (e-books) de diferentes selos editoriais em suporte digital, com várias editoras parceiras que integram a plataforma. 
+- Recursos interativos: busca avançada, ferramenta de anotações, seleção de livros favoritos, impressão de páginas, download de conteúdos e ferramenta para destacar trechos do conteúdo;
 
-O acesso é realizado de uma forma muito prática, basta estar cadastrado no Sistema Pergamum da biblioteca, pois ambas as bases estão integradas. A biblioteca do _Campus_ Curitiba disponibiliza tutorial de acesso à plataforma, disponível no _site_ 
+- Acessibilidade: integração com softwares de acessibilidade para acesso às pessoas cegas;
 
-## Tutorial Pearson_Assis 
+- Sala Virtual: espaço digital integrado com o livro, onde é disponibilizado material de apoio específico para docentes e estudantes.
 
-A BV Pearson traz diversos benefícios ao usuário e também à instituição, como: 
+## 7.7.4 Normas ABNT e ISO
 
-139 
+Outro recurso importante que as bibliotecas IFPR disponibilizam é o acesso às Normas da Associação Brasileira de Normas Técnicas (ABNT) e _International Organization for Standardization_ (ISO) e o acesso é de forma integrada ao Sistema Pergamum.
 
-**==> picture [471 x 55] intentionally omitted <==**
+## 7.7.5 Portal de Periódicos CAPES
 
-- Diversidade de acervo para atender aos diversos níveis dos cursos do IFPR; 
+O Portal de Periódicos da Capes é uma biblioteca virtual que reúne e disponibiliza a instituições de ensino e pesquisa no Brasil o melhor da produção científica internacional. Ele conta atualmente com um acervo de mais de 37 mil periódicos com texto completo, 126 bases referenciais, 11 bases dedicadas exclusivamente a patentes, além de livros, enciclopédias e obras de referência, normas técnicas, estatísticas e conteúdo audiovisual. A comunidade acadêmica do Campus Curitiba tem livre acesso a este portal, com direito a conteúdo conveniado com os
 
-- Credenciamento EaD, com suporte e treinamento pedagógico específicos; 
+Institutos Federais (IFs), disponível para acesso com _Internet Protocol_ (IP) identificado pela instituição e remoto via CAF _e_ .
 
-- Ampliação do acesso ao acervo das bibliotecas para toda comunidade do IFPR e a diminuição da chance de um livro estar esgotado; 
+## 7.7.6 Organização curricular: ementários e bibliografia
 
-- Mobilidade de acesso em qualquer suporte: desktop, tablets e smartphones; 
+O acervo da biblioteca encontra-se em constante expansão. Atualmente, conforme o Plano de Gestão IFPR, os recursos para aquisição de material bibliográfico obedecem o percentual mínimo conforme a fase de expansão em que os _campi_ se encontram, permitindo a manutenção, atualização, ampliação e adequação do acervo às necessidades dos cursos e às demandas das/os usuárias/os, com objetivo de contribuir para a formação e aprimoramento das/os estudantes.
 
-- Recursos interativos: busca avançada, ferramenta de anotações, seleção de livros favoritos, impressão de páginas, download de conteúdos e ferramenta para destacar trechos do conteúdo; 
+As referências (básicas e complementares) dos componentes curriculares do Curso técnico em enfermagem, estão de acordo com a Instrução Normativa Reitoria/Proens/IFPR nº 01/2021, que estabelece normas para execução da política de formação e desenvolvimento de coleções das bibliotecas do Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR) e com a Política de Formação e Desenvolvimento de Coleções, estabelecida na Portaria nº 25/2021. A quantidade mínima de referências para cada título deve ser:
 
-- Acessibilidade: integração com softwares de acessibilidade para acesso às pessoas cegas; 
+a. Três títulos da bibliografia básica, sendo a proporção mínima de dois terços em suporte físico, considerando-se um exemplar para cada cinco vagas anuais pretendidas/autorizadas; e
 
-- Sala Virtual: espaço digital integrado com o livro, onde é disponibilizado material de apoio específico para docentes e estudantes. 
+b. Quatro títulos da bibliografia complementar, sendo dois exemplares para cada título, independente do suporte (físico e/ou eletrônico/virtual).
 
-## 7.7.4 Normas ABNT e ISO 
+Em março de 2023 conta com um acervo de 3.754 títulos e 14.201 exemplares das mais diversas áreas de conhecimento. Os alunos podem emprestar até 4 títulos de cada vez, pelo prazo de 7 dias, podendo ser renovados até 4 vezes.
 
-Outro recurso importante que as bibliotecas IFPR disponibilizam é o acesso às Normas da Associação Brasileira de Normas Técnicas (ABNT) e _International Organization for Standardization_ (ISO) e o acesso é de forma integrada ao Sistema Pergamum. 
+## 7.7.7 Infraestrutura
 
-## 7.7.5 Portal de Periódicos CAPES 
+A estrutura física da biblioteca conta com um espaço de 283,43 m2 e é composta por circulação, acervo e administrativo. Oferece espaço físico e mobiliário para estudo em grupos e individual. Também há computadores com acesso à internet para pesquisas e computadores para consulta local ao acervo físico e digital/virtual, NBRs da ABNT e ISO e Portal de Periódicos Capes.
 
-O Portal de Periódicos da Capes é uma biblioteca virtual que reúne e disponibiliza a instituições de ensino e pesquisa no Brasil o melhor da produção científica internacional. Ele conta atualmente com um acervo de mais de 37 mil periódicos com texto completo, 126 bases referenciais, 11 bases dedicadas exclusivamente a patentes, além de livros, enciclopédias e obras de referência, normas técnicas, estatísticas e conteúdo audiovisual. A comunidade acadêmica do Campus Curitiba tem livre acesso a este portal, com direito a conteúdo conveniado com os 
+Possui guarda-volumes e sistema de climatização com aparelhos de ar-condicionado.
 
-140 
+O horário de atendimento é de segunda à sexta-feira, das 08h às 22h.
 
-**==> picture [471 x 55] intentionally omitted <==**
+A equipe de trabalho é composta por 4 servidores: 1 bibliotecário, 2 auxiliares de biblioteca e 1 assistente em administração.
 
-Institutos Federais (IFs), disponível para acesso com _Internet Protocol_ (IP) identificado pela instituição e remoto via CAF _e_ . 
+## **8. PLANEJAMENTO ECONÔMICO E SUSTENTABILIDADE FINANCEIRA**
 
-## 7.7.6 Organização curricular: ementários e bibliografia 
+Para o funcionamento do curso não será necessário adquirir nenhum tipo de equipamento, bem como não será necessário construir nenhum laboratório. O curso se utilizará dos laboratórios de informática já disponíveis no campus. O acervo bibliográfico deverá ser adquirido uma parte, pois o campus já possui um pouco do que está previsto no PPC. Conforme relato no item 8.3.
 
-O acervo da biblioteca encontra-se em constante expansão. Atualmente, conforme o Plano de Gestão IFPR, os recursos para aquisição de material bibliográfico obedecem o percentual mínimo conforme a fase de expansão em que os _campi_ se encontram, permitindo a manutenção, atualização, ampliação e adequação do acervo às necessidades dos cursos e às demandas das/os usuárias/os, com objetivo de contribuir para a formação e aprimoramento das/os estudantes. 
+## 8.1 EXPANSÃO DO QUADRO DOCENTE
 
-As referências (básicas e complementares) dos componentes curriculares do Curso técnico em enfermagem, estão de acordo com a Instrução Normativa Reitoria/Proens/IFPR nº 01/2021, que estabelece normas para execução da política de formação e desenvolvimento de coleções das bibliotecas do Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR) e com a Política de Formação e Desenvolvimento de Coleções, estabelecida na Portaria nº 25/2021. A quantidade mínima de referências para cada título deve ser: 
+O curso Superior de Tecnologia em Gestão Comercial do _Campus_ Assis Chateaubriand conta atualmente com três professores com formação correlata a área do curso. Além de fazer parte do colegiado do curso, estes professores também ministram disciplinas em demais cursos do campus.
 
-a. Três títulos da bibliografia básica, sendo a proporção mínima de dois terços em suporte físico, considerando-se um exemplar para cada cinco vagas anuais pretendidas/autorizadas; e 
+Considerando o cenário acima exposto e considerando-se que a partir de 2023 iniciou-se o curso de Técnico em comércio integrado será necessário a contratação de novos docentes.
 
-b. Quatro títulos da bibliografia complementar, sendo dois exemplares para cada título, independente do suporte (físico e/ou eletrônico/virtual). 
+Lembrando que para o bom funcionamento do curso os atuais docentes não poderão extrapolar suas cargas horárias legalmente estabelecidas de forma que consigam desempenhar as atividades de
 
-Em março de 2023 conta com um acervo de 3.754 títulos e 14.201 exemplares das mais diversas áreas de conhecimento. Os alunos podem emprestar até 4 títulos de cada vez, pelo prazo de 7 dias, podendo ser renovados até 4 vezes. 
-
-141 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-## 7.7.7 Infraestrutura 
-
-A estrutura física da biblioteca conta com um espaço de 283,43 m2 e é composta por circulação, acervo e administrativo. Oferece espaço físico e mobiliário para estudo em grupos e individual. Também há computadores com acesso à internet para pesquisas e computadores para consulta local ao acervo físico e digital/virtual, NBRs da ABNT e ISO e Portal de Periódicos Capes. 
-
-Possui guarda-volumes e sistema de climatização com aparelhos de ar-condicionado. 
-
-O horário de atendimento é de segunda à sexta-feira, das 08h às 22h. 
-
-A equipe de trabalho é composta por 4 servidores: 1 bibliotecário, 2 auxiliares de biblioteca e 1 assistente em administração. 
-
-## **8. PLANEJAMENTO ECONÔMICO E SUSTENTABILIDADE FINANCEIRA** 
-
-Para o funcionamento do curso não será necessário adquirir nenhum tipo de equipamento, bem como não será necessário construir nenhum laboratório. O curso se utilizará dos laboratórios de informática já disponíveis no campus. O acervo bibliográfico deverá ser adquirido uma parte, pois o campus já possui um pouco do que está previsto no PPC. Conforme relato no item 8.3. 
-
-## 8.1 EXPANSÃO DO QUADRO DOCENTE 
-
-O curso Superior de Tecnologia em Gestão Comercial do _Campus_ Assis Chateaubriand conta atualmente com três professores com formação correlata a área do curso. Além de fazer parte do colegiado do curso, estes professores também ministram disciplinas em demais cursos do campus. 
-
-Considerando o cenário acima exposto e considerando-se que a partir de 2023 iniciou-se o curso de Técnico em comércio integrado será necessário a contratação de novos docentes. 
-
-142 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-Lembrando que para o bom funcionamento do curso os atuais docentes não poderão extrapolar suas cargas horárias legalmente estabelecidas de forma que consigam desempenhar as atividades de 
-
-pesquisa e extensão necessárias a uma graduação. Necessitará a contratação de novos docentes conforme segue abaixo tabelas. 
+pesquisa e extensão necessárias a uma graduação. Necessitará a contratação de novos docentes conforme segue abaixo tabelas.
 
 |Formação do docente|carga horária|Quantidade|
 |---|---|---|
 |Administração|DE|2|
 
+## 8.2 PROJEÇÃO DE AQUISIÇÃO DE MATERIAIS PERMANENTE E CONSUMO
 
+Não será necessário, pois será utilizado materiais e equipamentos já disponibilizados no _campus._
 
-## 8.2 PROJEÇÃO DE AQUISIÇÃO DE MATERIAIS PERMANENTE E CONSUMO 
+## 8.3 PROJEÇÃO DE AQUISIÇÃO DE ACERVO BIBLIOGRÁFICO
 
-Não será necessário, pois será utilizado materiais e equipamentos já disponibilizados no _campus._ 
+A partir das diretrizes da Política Orçamentária de Formação e Desenvolvimento de Acervos, o orçamento previsto no Plano de Desenvolvimento Orçamentário/PDO para a expansão do acervo bibliográfico equivale a 5% do orçamento do _campus_ em 2016, e para 2017/2018 equivalente a 3%.
 
-## 8.3 PROJEÇÃO DE AQUISIÇÃO DE ACERVO BIBLIOGRÁFICO 
+Desde o início do curso em 2015, a biblioteca vem realizando a aquisição de acervo bibliográfico seguindo a bibliografia básica e complementar disposta no ementário das disciplinas, priorizando a cada ano a compra de exemplares dos componentes curriculares correntes em cada ano.
 
-A partir das diretrizes da Política Orçamentária de Formação e Desenvolvimento de Acervos, o orçamento previsto no Plano de Desenvolvimento Orçamentário/PDO para a expansão do acervo bibliográfico equivale a 5% do orçamento do _campus_ em 2016, e para 2017/2018 equivalente a 3%. 
+De 2015 a 2020 o acervo adquirido seguiu as bibliografias dispostas para os componentes curriculares existentes no Projeto Pedagógico de Curso em vigência nestes anos.
 
-Desde o início do curso em 2015, a biblioteca vem realizando a aquisição de acervo bibliográfico seguindo a bibliografia básica e complementar disposta no ementário das disciplinas, priorizando a cada ano a compra de exemplares dos componentes curriculares correntes em cada ano. 
+A partir da vigência do presente Projeto Pedagógico de Curso, a biblioteca fará as solicitações de forma a adquirir os títulos que foram adicionados no presente Projeto Pedagógico de Curso e que não constavam no anterior.
 
-De 2015 a 2020 o acervo adquirido seguiu as bibliografias dispostas para os componentes curriculares existentes no Projeto Pedagógico de Curso em vigência nestes anos. 
+É importante ressaltar que na construção das bibliografias básicas e complementares de
 
-A partir da vigência do presente Projeto Pedagógico de Curso, a biblioteca fará as solicitações de forma a adquirir os títulos que foram adicionados no presente Projeto Pedagógico de Curso e que não constavam no anterior. 
+cada componente curricular do presente Projeto Pedagógico de Curso, priorizou-se a manutenção dos títulos já adquiridos pela biblioteca, adicionando novos títulos somente quando de fato necessários.
 
-É importante ressaltar que na construção das bibliografias básicas e complementares de 
+## **REFERÊNCIAS**
 
-143 
+BRASIL. **Decreto nº 4.281/2002** . Regulamenta a Lei n[o] 9.795, de 27 de abril de 1999, que institui a Política Nacional de Educação Ambiental, e dá outras providências. Disponível em: http://www.planalto.gov.br/ccivil_03/decreto/2002/d4281.htm Acesso em: 23 set. 2017.
 
-**==> picture [471 x 55] intentionally omitted <==**
+BRASIL.. **Decreto nº 5.626/2005** . Regulamenta a Lei n[o] 10.436, de 24 de abril de 2002, que dispõe sobre a Língua Brasileira de Sinais - Libras, e o art. 18 da Lei n[o] 10.098, de 19 de dezembro de 2000.
 
-cada componente curricular do presente Projeto Pedagógico de Curso, priorizou-se a manutenção dos títulos já adquiridos pela biblioteca, adicionando novos títulos somente quando de fato necessários. 
+BRASIL. **Lei nº 9.394 de 20 de dezembro de 1996** . Estabelece as diretrizes e bases da educação nacional. Brasília/DF: 1996. Acesso em: 04 fev. 2019.
 
-## **REFERÊNCIAS** 
+BRASIL. **Lei nº. 9.503/1997** . Institui o Código de Trânsito Brasileiro Disponível em: http://www.planalto.gov.br/ccivil_03/leis/L9503.htm Acesso em: 23 set. 2017.
 
-BRASIL. **Decreto nº 4.281/2002** . Regulamenta a Lei n[o] 9.795, de 27 de abril de 1999, que institui a Política Nacional de Educação Ambiental, e dá outras providências. Disponível em: http://www.planalto.gov.br/ccivil_03/decreto/2002/d4281.htm Acesso em: 23 set. 2017. 
+BRASIL. **Lei nº. 9.795/1999** . Dispõe sobre a educação ambiental, institui a Política Nacional de Educação Ambiental e dá outras providências. Disponível em: http://www.planalto.gov.br/ccivil_03/leis/l9795.htm. Acesso em: 11 fev. 2018.
 
-BRASIL.. **Decreto nº 5.626/2005** . Regulamenta a Lei n[o] 10.436, de 24 de abril de 2002, que dispõe sobre a Língua Brasileira de Sinais - Libras, e o art. 18 da Lei n[o] 10.098, de 19 de dezembro de 2000. 
+BRASIL. **Lei nº 10.436, de 24 de abril de 2002.** Dispõe sobre a Língua Brasileira de Sinais – Libras e dá outras providências. Disponível em: http://www.planalto.gov.br/ccivil_03/leis/2002/l10436.htm . Acesso em: 20 fev. 2018.
 
-BRASIL. **Lei nº 9.394 de 20 de dezembro de 1996** . Estabelece as diretrizes e bases da educação nacional. Brasília/DF: 1996. Acesso em: 04 fev. 2019. 
+BRASIL. **Lei nº 10.639, de 9 de janeiro de 2003** . Altera a Lei n[o] 9.394, de 20 de dezembro de 1996, modificada pela Lei n[o] 10.639, de 9 de janeiro de 2003, que estabelece as diretrizes e bases
 
-BRASIL. **Lei nº. 9.503/1997** . Institui o Código de Trânsito Brasileiro Disponível em: http://www.planalto.gov.br/ccivil_03/leis/L9503.htm Acesso em: 23 set. 2017. 
+da educação nacional, para incluir no currículo oficial da rede de ensino a obrigatoriedade da temática “História e Cultura Afro-Brasileira e Indígena” Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11645.htm. Acesso em 20 fev. 2018.
 
-BRASIL. **Lei nº. 9.795/1999** . Dispõe sobre a educação ambiental, institui a Política Nacional de Educação Ambiental e dá outras providências. Disponível em: http://www.planalto.gov.br/ccivil_03/leis/l9795.htm. Acesso em: 11 fev. 2018. 
+BRASIL. **Lei nº 10.741, de 1 de outubro de 2003** . Dispõe sobre o Estatuto do Idoso e dá outras providências. Disponível em: http://www.planalto.gov.br/ccivil_03/leis/2003/L10.741.htm. Acesso em: 23 set. 2017.
 
-BRASIL. **Lei nº 10.436, de 24 de abril de 2002.** Dispõe sobre a Língua Brasileira de Sinais – Libras e dá outras providências. Disponível em: http://www.planalto.gov.br/ccivil_03/leis/2002/l10436.htm . Acesso em: 20 fev. 2018. 
+BRASIL. **Lei nº. 11.645/2008** . Altera a Lei n[o] 9.394, de 20 de dezembro de 1996, modificada pela Lei n[o] 10.639, de 9 de janeiro de 2003, que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da rede de ensino a obrigatoriedade da temática “História e Cultura Afro-Brasileira e Indígena”. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11645. Acesso em: 10 nov. 2017.
 
-BRASIL. **Lei nº 10.639, de 9 de janeiro de 2003** . Altera a Lei n[o] 9.394, de 20 de dezembro de 1996, modificada pela Lei n[o] 10.639, de 9 de janeiro de 2003, que estabelece as diretrizes e bases 
+BRASIL. **Lei nº 11.892, de 29 de dezembro de 2008** . Institui a Rede Federal de Educação Profissional, Científica e Tecnológica, cria os Institutos Federais de Educação, Ciência e Tecnologia, e dá outras providências. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11892.htm. Acesso em: 27 out. 2017.
 
-144 
+BRASIL. **Lei nº 12.764 de 27 de dezembro de 2012.** Institui a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista; e altera o § 3[o] do art. 98 da Lei n[o] 8.112, de 11 de dezembro de 1990. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12764.htm. Acesso em: 20 fev. 2018.
 
-**==> picture [471 x 55] intentionally omitted <==**
+BRASIL. **Lei nº 12.796/2013** . Disponível em http://www.planalto.gov.br/ccivil_03/_ato20112014/2013/lei/l12796.htm. Acesso em: 01 mar. 2011.
 
-da educação nacional, para incluir no currículo oficial da rede de ensino a obrigatoriedade da temática “História e Cultura Afro-Brasileira e Indígena” Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11645.htm. Acesso em 20 fev. 2018. 
+BRASIL. Lei nº 13.006, de 26 de junho de 2014. Acrescenta § 8[o] ao art. 26 da Lei n[o] 9.394, de
 
-BRASIL. **Lei nº 10.741, de 1 de outubro de 2003** . Dispõe sobre o Estatuto do Idoso e dá outras providências. Disponível em: http://www.planalto.gov.br/ccivil_03/leis/2003/L10.741.htm. Acesso em: 23 set. 2017. 
+20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para obrigar a exibição de filmes de produção nacional nas escolas de educação básica. Brasília, DF, 2014.
 
-BRASIL. **Lei nº. 11.645/2008** . Altera a Lei n[o] 9.394, de 20 de dezembro de 1996, modificada pela Lei n[o] 10.639, de 9 de janeiro de 2003, que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da rede de ensino a obrigatoriedade da temática “História e Cultura Afro-Brasileira e Indígena”. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11645. Acesso em: 10 nov. 2017. 
+BRASIL. Comissão Nacional de Avaliação da Educação Superior. **Resolução CONAES nº 01 de 17 de junho de 2010** . Normatiza o núcleo docente estruturante e dá outras providências.
 
-BRASIL. **Lei nº 11.892, de 29 de dezembro de 2008** . Institui a Rede Federal de Educação Profissional, Científica e Tecnológica, cria os Institutos Federais de Educação, Ciência e Tecnologia, e dá outras providências. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11892.htm. Acesso em: 27 out. 2017. 
+BRASIL. Conselho Superior do Instituto Federal do Paraná. **Resolução CONSUP nº 08 de 23 de fevereiro de 2011** . Institui o Núcleo Docente Estruturante– NDE no âmbito da gestão acadêmica dos Cursos de Graduação – Bacharelados, Licenciaturas e Tecnologias do Instituto Federal do Paraná. Brasília, DF, 2011.
 
-BRASIL. **Lei nº 12.764 de 27 de dezembro de 2012.** Institui a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista; e altera o § 3[o] do art. 98 da Lei n[o] 8.112, de 11 de dezembro de 1990. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/l12764.htm. Acesso em: 20 fev. 2018. 
+BRASIL. Conselho Superior do Instituto Federal do Paraná. **Resolução CONSUP nº 15 de 10 de junho de 2015** . Altera a Resolução 08/2011-CONSUP que instituiu o NDE no âmbito da gestão acadêmica dos Cursos de Graduação do IFPR.. Brasília, DF, 2015.
 
-BRASIL. **Lei nº 12.796/2013** . Disponível em http://www.planalto.gov.br/ccivil_03/_ato20112014/2013/lei/l12796.htm. Acesso em: 01 mar. 2011. 
+BRASIL. Conselho Nacional de Educação. **Resolução CNE/CP nº 01/2004** . Institui Diretrizes Curriculares Nacionais para a Educação das Relações Étnico Raciais e para o Ensino de História e Cultura Afro-Brasileira e Africana. Disponível em: http://portal.mec.gov.br/cne/arquivos/pdf/res012004.pdf. Acesso em 23 set. 2017.
 
-BRASIL. Lei nº 13.006, de 26 de junho de 2014. Acrescenta § 8[o] ao art. 26 da Lei n[o] 9.394, de 
+BRASIL. Conselho Nacional de Educação. **Resolução CNE/CP nº. 02/2012** . Estabelece Diretrizes Nacionais para a Educação em Direitos Humanos/ Estabelece as Diretrizes Curriculares Nacionais para a Educação Ambiental. Disponível em: http://portal.mec.gov.br/observatorio-daeducacao/323-secretarias-112877938/orgaosvinculados-82187207/17810-2012-sp-1258713622 Acesso em 23 set. 2017.
 
-145 
+BRASIL. Conselho Nacional de Educação. **Resolução CNE/CP nº 2/2002** , de 19/02/2002. Institui a duração e a carga horária dos cursos de licenciatura, de graduação plena, de formação de professores da Educação Básica em nível superior. Brasília/ DF: 2002.
 
-**==> picture [471 x 55] intentionally omitted <==**
+BRASIL. Conselho Nacional de Educação. **Resolução CNE/CP nº 436/2001** , de 02/04/2001. Institui a análise dos Cursos Superiores de Tecnologia que conduzem a diplomas de Tecnólogos.
 
-20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para obrigar a exibição de filmes de produção nacional nas escolas de educação básica. Brasília, DF, 2014. 
+Brasília/ DF: 2001.
 
-BRASIL. Comissão Nacional de Avaliação da Educação Superior. **Resolução CONAES nº 01 de 17 de junho de 2010** . Normatiza o núcleo docente estruturante e dá outras providências. 
+BRASIL. Ministério da Educação. **Decreto nº 4.281, de 25 de junho de 2002** . Regulamenta a Lei n[o] 9.795, de 27 de abril de 1999, que institui a Política Nacional de Educação Ambiental, e dá outras providências. Brasília, DF, 2002.
 
-BRASIL. Conselho Superior do Instituto Federal do Paraná. **Resolução CONSUP nº 08 de 23 de fevereiro de 2011** . Institui o Núcleo Docente Estruturante– NDE no âmbito da gestão acadêmica dos Cursos de Graduação – Bacharelados, Licenciaturas e Tecnologias do Instituto Federal do Paraná. Brasília, DF, 2011. 
+BRASIL. Ministério da Educação. **Decreto nº 5.154 de 23 de julho de 2004** . Regulamenta o § 2º do art. 36 e os arts. 39 a 41 da Lei 9394 de 20 de dezembro de 1996, que estabelece as diretrizes da educação nacional, e dá outras providências. Brasília, DF, 2004.
 
-BRASIL. Conselho Superior do Instituto Federal do Paraná. **Resolução CONSUP nº 15 de 10 de junho de 2015** . Altera a Resolução 08/2011-CONSUP que instituiu o NDE no âmbito da gestão acadêmica dos Cursos de Graduação do IFPR.. Brasília, DF, 2015. 
+BRASIL. Ministério da Educação. **Decreto nº 7.037, de 21 de dezembro de 2009** . Aprova o Programa Nacional de Direitos Humanos - PNDH-3 e dá outras providências. Brasília, DF, 2009.
 
-BRASIL. Conselho Nacional de Educação. **Resolução CNE/CP nº 01/2004** . Institui Diretrizes Curriculares Nacionais para a Educação das Relações Étnico Raciais e para o Ensino de História e Cultura Afro-Brasileira e Africana. Disponível em: http://portal.mec.gov.br/cne/arquivos/pdf/res012004.pdf. Acesso em 23 set. 2017. 
+BRASIL: Ministério da Educação. **Lei nº 8.069, de 13 de julho de 1990** . Dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências. Brasília, DF, 1990.
 
-BRASIL. Conselho Nacional de Educação. **Resolução CNE/CP nº. 02/2012** . Estabelece Diretrizes Nacionais para a Educação em Direitos Humanos/ Estabelece as Diretrizes Curriculares Nacionais para a Educação Ambiental. Disponível em: http://portal.mec.gov.br/observatorio-daeducacao/323-secretarias-112877938/orgaosvinculados-82187207/17810-2012-sp-1258713622 Acesso em 23 set. 2017. 
+BRASIL. Ministério da Educação. **Lei nº 9.394 de 20 de dezembro de 1996.** Estabelece as Diretrizes e Bases da Educação Nacional, Brasília, DF, 1996.
 
-BRASIL. Conselho Nacional de Educação. **Resolução CNE/CP nº 2/2002** , de 19/02/2002. Institui a duração e a carga horária dos cursos de licenciatura, de graduação plena, de formação de professores da Educação Básica em nível superior. Brasília/ DF: 2002. 
+BRASIL. Ministério da Educação. **Lei nº 9.503, de 23 de setembro de 1997** . Institui o Código de Trânsito Brasileiro. Brasília, DF, 1997.
 
-BRASIL. Conselho Nacional de Educação. **Resolução CNE/CP nº 436/2001** , de 02/04/2001. Institui a análise dos Cursos Superiores de Tecnologia que conduzem a diplomas de Tecnólogos. 
+BRASIL. Ministério da Educação. **Lei nº 9.795 de 27 de abril de 1999.** Estabelece a Política Nacional de Educação Ambiental, Brasília, DF, 1999.
 
-146 
+BRASIL. Ministério da Educação. **Lei nº 10.639, de 9 de janeiro de 2003.** Diretrizes e Bases da Educação Nacional, Brasília, DF, 2003.
 
-**==> picture [471 x 55] intentionally omitted <==**
+BRASIL. Ministério da Educação. **Lei nº 10.741, de 1 de outubro de 2003** . Dispõe sobre o Estatuto do Idoso e dá outras providências. Brasília, DF, 2003.
 
-Brasília/ DF: 2001. 
+BRASIL. Ministério da Educação. **Lei nº 11.161, de 5 de agosto de 2005.** Dispõe sobre o ensino da língua espanhola, Brasília, DF, 2005.
 
-BRASIL. Ministério da Educação. **Decreto nº 4.281, de 25 de junho de 2002** . Regulamenta a Lei n[o] 9.795, de 27 de abril de 1999, que institui a Política Nacional de Educação Ambiental, e dá outras providências. Brasília, DF, 2002. 
+BRASIL. Ministério da Educação. **Lei nº 11.645, de 10 de março de 2008** . Diretrizes e Bases da Educação Nacional, Brasília, DF, 2008.
 
-BRASIL. Ministério da Educação. **Decreto nº 5.154 de 23 de julho de 2004** . Regulamenta o § 2º do art. 36 e os arts. 39 a 41 da Lei 9394 de 20 de dezembro de 1996, que estabelece as diretrizes da educação nacional, e dá outras providências. Brasília, DF, 2004. 
+BRASIL. Ministério da Educação. **Lei nº 11.788, de 25 de setembro de 2008** . Dispõe sobre o estágio de estudantes. Nacional, Brasília, DF, 2008.
 
-BRASIL. Ministério da Educação. **Decreto nº 7.037, de 21 de dezembro de 2009** . Aprova o Programa Nacional de Direitos Humanos - PNDH-3 e dá outras providências. Brasília, DF, 2009. 
+BRASIL. Ministério da Educação. **Lei nº 11.892, de 29 de dezembro de 2008** - Institui a Rede de Educação Profissional, Científica e tecnológica, cria os Institutos Federais de Educação, Ciência e Tecnologia, e dá outras providências. Brasília, DF, 2008.
 
-BRASIL: Ministério da Educação. **Lei nº 8.069, de 13 de julho de 1990** . Dispõe sobre o Estatuto da Criança e do Adolescente e dá outras providências. Brasília, DF, 1990. 
+BRASIL. Ministério da Educação. **Lei nº 11.947, de 16 de junho de 2009** . Dispõe sobre o atendimento da alimentação escolar e do Programa Dinheiro Direto na Escola aos alunos da educação básica; altera as Leis n[os] 10.880, de 9 de junho de 2004, 11.273, de 6 de fevereiro de 2006, 11.507, de 20 de julho de 2007; revoga dispositivos da Medida Provisória n[o] 2.178- 36, de 24 de agosto de 2001, e a Lei n[o] ~~8~~ .913, de 12 de julho de 1994; e dá outras providências. Brasília, DF, 2009.
 
-BRASIL. Ministério da Educação. **Lei nº 9.394 de 20 de dezembro de 1996.** Estabelece as Diretrizes e Bases da Educação Nacional, Brasília, DF, 1996. 
+BRASIL. Casa Civil. **Lei nº 12.764, de 27 de dezembro de 2012** . Institui a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista; e altera o § 3º do art. 98 da Lei nº 8.112, de 11 de dezembro de 1990. Brasília, DF, 2012.
 
-BRASIL. Ministério da Educação. **Lei nº 9.503, de 23 de setembro de 1997** . Institui o Código de Trânsito Brasileiro. Brasília, DF, 1997. 
+BRASIL. Ministério da Educação. **Lei nº 13.415, de 16 de fevereiro de 2017** . Altera as Leis n[o] 9.394, de 20 de dezembro de 1996. Brasília, DF, 2017.
 
-BRASIL. Ministério da Educação. **Lei nº 9.795 de 27 de abril de 1999.** Estabelece a Política Nacional de Educação Ambiental, Brasília, DF, 1999. 
+BRASIL, Ministério da Educação: **Parecer CNE/CEB nº 16, de 3 de outubro de 1999** . Diretrizes Curriculares Nacionais para a Educação Profissional de Nível Técnico. Brasília, DF, 1999.
 
-BRASIL. Ministério da Educação. **Lei nº 10.639, de 9 de janeiro de 2003.** Diretrizes e Bases da Educação Nacional, Brasília, DF, 2003. 
+BRASIL, Ministério da Educação: **Parecer CNE/CEB nº 03, de 9 de julho de 2008.** Catálogo Nacional de Cursos Técnicos. Brasília, DF, 2008.
 
-BRASIL. Ministério da Educação. **Lei nº 10.741, de 1 de outubro de 2003** . Dispõe sobre o Estatuto do Idoso e dá outras providências. Brasília, DF, 2003. 
+BRASIL. Ministério da Educação. **Resolução nº 1, de 5 de janeiro de 2021** . Define as Diretrizes
 
-BRASIL. Ministério da Educação. **Lei nº 11.161, de 5 de agosto de 2005.** Dispõe sobre o ensino da língua espanhola, Brasília, DF, 2005. 
+Curriculares Nacionais Gerais para a Educação Profissional e Tecnológica, observando o disposto no art. 81 da Lei nº 9.394/96 (LDB) e nos termos do art. 19 da Resolução CNE/CP nº 1/2021.Brasília, DF, 2021.
 
-147 
+BRASIL. Ministério da Educação. **Resolução CNE/CEB nº02, de 30 de janeiro de 2012** . Dispõe sobre definição das Diretrizes Curriculares Nacionais para o Ensino Médio. Brasília, DF, 2012.
 
-**==> picture [471 x 55] intentionally omitted <==**
+BRASIL. Ministério da Educação. **Resolução CNE/CP nº02, de 20 de dezembro de 2019** . Define as Diretrizes Curriculares Nacionais para a Formação Inicial de Professores para a Educação Básica e institui a Base Nacional Comum para a Formação Inicial de Professores da Educação Básica (BNC-Formação). Brasília, DF, 2019.
 
-BRASIL. Ministério da Educação. **Lei nº 11.645, de 10 de março de 2008** . Diretrizes e Bases da Educação Nacional, Brasília, DF, 2008. 
+BRASIL. Ministério da Educação. **Resolução CNE/CP nº 1, de setembro de 2012.** Define Diretrizes Curriculares Nacionais para a Educação Profissional Técnica de Nível Médio. Brasília, DF, 2012.
 
-BRASIL. Ministério da Educação. **Lei nº 11.788, de 25 de setembro de 2008** . Dispõe sobre o estágio de estudantes. Nacional, Brasília, DF, 2008. 
+BRASIL. Ministério   da   Educação. **Resolução CNE/CP nº 01, de 30 de maio de 2012.** Estabelece Diretrizes Nacionais para a Educação em Direitos Humanos. Brasília, DF, 2012.
 
-BRASIL. Ministério da Educação. **Lei nº 11.892, de 29 de dezembro de 2008** - Institui a Rede de Educação Profissional, Científica e tecnológica, cria os Institutos Federais de Educação, Ciência e Tecnologia, e dá outras providências. Brasília, DF, 2008. 
+BRASIL. Ministério da Educação. **Resolução CNE/CP nº 01, de 17 de julho de 2004.** Diretrizes Curriculares Nacionais para a Educação das Relações Étnico-Raciais e para o Ensino de História e Cultura Afro-Brasileira e Africana. Brasília, DF, 2004.
 
-BRASIL. Ministério da Educação. **Lei nº 11.947, de 16 de junho de 2009** . Dispõe sobre o atendimento da alimentação escolar e do Programa Dinheiro Direto na Escola aos alunos da educação básica; altera as Leis n[os] 10.880, de 9 de junho de 2004, 11.273, de 6 de fevereiro de 2006, 11.507, de 20 de julho de 2007; revoga dispositivos da Medida Provisória n[o] 2.178- 36, de 24 de agosto de 2001, e a Lei n[o] ~~8~~ .913, de 12 de julho de 1994; e dá outras providências. Brasília, DF, 2009. 
+BRASIL. **Nota Técnica nº 24 CGDH/DPEDHUC/SECADI/MEC** . Política para mulheres. Disponível em:
 
-BRASIL. Casa Civil. **Lei nº 12.764, de 27 de dezembro de 2012** . Institui a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista; e altera o § 3º do art. 98 da Lei nº 8.112, de 11 de dezembro de 1990. Brasília, DF, 2012. 
+http://www.spm.gov.br/assuntos/conselho/legislacao/nota-tecnica-no-24-2015-cgdh-dpedhuc-seca di- mec. Acesso em 23 set. 2017.
 
-BRASIL. Ministério da Educação. **Lei nº 13.415, de 16 de fevereiro de 2017** . Altera as Leis n[o] 9.394, de 20 de dezembro de 1996. Brasília, DF, 2017. 
+## DEMO, P. **Pesquisa princípio científico e educativo** . 12. ed. São Paulo: Cortez, 2006.
 
-BRASIL, Ministério da Educação: **Parecer CNE/CEB nº 16, de 3 de outubro de 1999** . Diretrizes Curriculares Nacionais para a Educação Profissional de Nível Técnico. Brasília, DF, 1999. 
+FIRJAN. Índice de desenvolvimento municipal, 2014. Disponível em:
 
-BRASIL, Ministério da Educação: **Parecer CNE/CEB nº 03, de 9 de julho de 2008.** Catálogo Nacional de Cursos Técnicos. Brasília, DF, 2008. 
+https://www.firjan.com.br/ifdm/
 
-BRASIL. Ministério da Educação. **Resolução nº 1, de 5 de janeiro de 2021** . Define as Diretrizes 
+FREIRE, Paulo. **Pedagogia da autonomia** : saberes necessários à prática educativa. 51. ed. Rio de Janeiro: Paz e Terra, 2015.
 
-148 
+FREIRE, Paulo _._ **Pedagogia do oprimido** _**.**_ 27. ed. Rio de Janeiro: Paz e Terra, 1999 _._ IDC. International Data Corporation. Disponível em: https://www.idc.com/ Acesso em: 04 de dez. de 2014.
 
-**==> picture [471 x 55] intentionally omitted <==**
+INEP. Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira. Sinopses Estatísticas da Educação Superior – Graduação 2015. Disponível em: http://portal.inep.gov.br. Acesso em maio de 2017.
 
-Curriculares Nacionais Gerais para a Educação Profissional e Tecnológica, observando o disposto no art. 81 da Lei nº 9.394/96 (LDB) e nos termos do art. 19 da Resolução CNE/CP nº 1/2021.Brasília, DF, 2021. 
+INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. Cadastro Central de Empresas 2015. Rio de Janeiro: IBGE, 2017. Acesso em 24 nov. 2017.
 
-BRASIL. Ministério da Educação. **Resolução CNE/CEB nº02, de 30 de janeiro de 2012** . Dispõe sobre definição das Diretrizes Curriculares Nacionais para o Ensino Médio. Brasília, DF, 2012. 
+INSTITUTO FEDERAL DO PARANÁ. Instrução Interna de Procedimentos Proens/IFPR 04/2018.
 
-BRASIL. Ministério da Educação. **Resolução CNE/CP nº02, de 20 de dezembro de 2019** . Define as Diretrizes Curriculares Nacionais para a Formação Inicial de Professores para a Educação Básica e institui a Base Nacional Comum para a Formação Inicial de Professores da Educação Básica (BNC-Formação). Brasília, DF, 2019. 
+INSTITUTO FEDERAL DO PARANÁ. Observatório Regional do IFPR. Indicadores Socioeconômicos. Curitiba, 2016. Disponível em: http://reitoria.ifpr.edu.br/wp-content/uploads/2013/12/Indicadores-Socioeconomicos1.pdf. Acesso em 16 nov. 2017.
 
-BRASIL. Ministério da Educação. **Resolução CNE/CP nº 1, de setembro de 2012.** Define Diretrizes Curriculares Nacionais para a Educação Profissional Técnica de Nível Médio. Brasília, DF, 2012. 
+INSTITUTO FEDERAL DO PARANÁ. **Plano de Desenvolvimento Institucional (PDI) 20092013** .
 
-BRASIL. Ministério   da   Educação. **Resolução CNE/CP nº 01, de 30 de maio de 2012.** Estabelece Diretrizes Nacionais para a Educação em Direitos Humanos. Brasília, DF, 2012. 
+INSTITUTO FEDERAL DO PARANÁ. **Plano de Desenvolvimento Institucional (PDI) 20192023** .
 
-BRASIL. Ministério da Educação. **Resolução CNE/CP nº 01, de 17 de julho de 2004.** Diretrizes Curriculares Nacionais para a Educação das Relações Étnico-Raciais e para o Ensino de História e Cultura Afro-Brasileira e Africana. Brasília, DF, 2004. 
+INSTITUTO FEDERAL DO PARANÁ. **Portaria nº 120 de 06 de agosto de 2009** .
 
-BRASIL. **Nota Técnica nº 24 CGDH/DPEDHUC/SECADI/MEC** . Política para mulheres. Disponível em: 
+INSTITUTO FEDERAL DO PARANÁ. **Portaria nº 591 de 22 de dezembro de 2012**
 
-http://www.spm.gov.br/assuntos/conselho/legislacao/nota-tecnica-no-24-2015-cgdh-dpedhuc-seca di- mec. Acesso em 23 set. 2017. 
+INSTITUTO FEDERAL DO PARANÁ. **Projeto Pedagógico** . Assis Chateaubriand, 2018.
 
-## DEMO, P. **Pesquisa princípio científico e educativo** . 12. ed. São Paulo: Cortez, 2006. 
+INSTITUTO FEDERAL DO PARANÁ. **Resolução nº 50, de 14 de julho de 2017.** Disponível em: http://reitoria.ifpr.edu.br/wp-content/uploads/2014/06/Resolu%C3%A7%C3%A3o-IFPRn%C2%BA-50_2017-Estabelece-as-normas-da-avalia%C3%A7%C3%A3o-dos-processos-deensino-aprendizagem-no-%C3%A2mbito-do-IFPR.pdf. Acesso em: abr. de 2018.
 
-FIRJAN. Índice de desenvolvimento municipal, 2014. Disponível em: 
+INSTITUTO FEDERAL DO PARANÁ. **Resolução nº 11/2018, retificada pela pela Resolução nº 49/2019.** Disponível em:
 
-149 
+https://ifpr.edu.br/resolucao-no-11-2018-2/#:~:text=Retificada%20pela%20Resolu%C3%A7%C3 %A3o%20n%C2%BA%2049,do%20Instituto%20Federal%20do%20Paran%C3%A1. Acesso em: abr. de 2023..
 
-**==> picture [471 x 55] intentionally omitted <==**
+INSTITUTO FEDERAL DO PARANÁ. **Resolução CONSUP/IFPR nº 08/2011**
 
-https://www.firjan.com.br/ifdm/ 
+INSTITUTO FEDERAL DO PARANÁ. **Resolução CONSUP/IFPR nº 54/2011**
 
-FREIRE, Paulo. **Pedagogia da autonomia** : saberes necessários à prática educativa. 51. ed. Rio de Janeiro: Paz e Terra, 2015. 
+INSTITUTO FEDERAL DO PARANÁ. **Resolução CONSUP/IFPR nº 11, de 21 de dezembro de 2009** .
 
-FREIRE, Paulo _._ **Pedagogia do oprimido** _**.**_ 27. ed. Rio de Janeiro: Paz e Terra, 1999 _._ IDC. International Data Corporation. Disponível em: https://www.idc.com/ Acesso em: 04 de dez. de 2014. 
+INSTITUTO FEDERAL DO PARANÁ. **Resolução CONSUP/IFPR nº 11/2011** INSTITUTO FEDERAL DO PARANÁ. **Resolução CONSUP/IFPR nº 53/2011**
 
-INEP. Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira. Sinopses Estatísticas da Educação Superior – Graduação 2015. Disponível em: http://portal.inep.gov.br. Acesso em maio de 2017. 
+INSTITUTO FEDERAL DO PARANÁ. **Resolução CONSUP/IFPR nº 55/2011**
 
-INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA. Cadastro Central de Empresas 2015. Rio de Janeiro: IBGE, 2017. Acesso em 24 nov. 2017. 
+INSTITUTO FEDERAL DO PARANÁ. **Resolução CONSUP/IFPR nº 64, de 28 de julho de 2010** .
 
-INSTITUTO FEDERAL DO PARANÁ. Instrução Interna de Procedimentos Proens/IFPR 04/2018. 
+INSTITUTO FEDERAL DO PARANÁ. **Resolução CONSUP/IFPR nº 01/2017** .
 
-INSTITUTO FEDERAL DO PARANÁ. Observatório Regional do IFPR. Indicadores Socioeconômicos. Curitiba, 2016. Disponível em: http://reitoria.ifpr.edu.br/wp-content/uploads/2013/12/Indicadores-Socioeconomicos1.pdf. Acesso em 16 nov. 2017. 
+INSTITUTO FEDERAL DO PARANÁ. **Resolução nº 02, de 30 de março de 2009** : estabelece diretrizes para a gestão das atividades de Ensino, Pesquisa e Extensão no âmbito do Instituto Federal do Paraná – IFPR.
 
-INSTITUTO FEDERAL DO PARANÁ. **Plano de Desenvolvimento Institucional (PDI) 20092013** . 
+INSTITUTO FEDERAL DO PARANÁ. **Resolução nº 82, de 02 de junho de 2022** : Dispõe sobre a política de estágios do IFPR e define as orientações para sua realização.
 
-INSTITUTO FEDERAL DO PARANÁ. **Plano de Desenvolvimento Institucional (PDI) 20192023** . 
+IPARDES. Instituto Paranaense de Desenvolvimento Econômico Social. 2016. Disponível em: http://www.ipardes.gov.br/. Acesso em: 24 mar. 2019.
 
-INSTITUTO FEDERAL DO PARANÁ. **Portaria nº 120 de 06 de agosto de 2009** . 
+LUCKESI. C. C. **Avaliação da aprendizagem escolar** . 9. ed. São Paulo: Cortez, 2011.
 
-INSTITUTO FEDERAL DO PARANÁ. **Portaria nº 591 de 22 de dezembro de 2012** 
+Organização das Nações Unidas (ONU). **População mundial** . Disponível em: https://nacoesunidas.org/acao/populacao-mundial/. Acesso em: fev. de 2018.
 
-150 
+POD. Programa Oeste em Desenvolvimento. 2018. Disponível em: http://www.oesteemdesenvolvimento.com.br/. Acesso em: 24 mar. 2019.
 
-**==> picture [471 x 55] intentionally omitted <==**
+SAUL, Ana Maria. **Avaliação emancipatória escolar** . São Paulo: Cortez, 1996.
 
-INSTITUTO FEDERAL DO PARANÁ. **Projeto Pedagógico** . Assis Chateaubriand, 2018. 
+SAVIANI, Dermeval. **Pedagogia histórico-crítica** : primeiras aproximações. Campinas, SP: Autores Associados, 2011.
 
-INSTITUTO FEDERAL DO PARANÁ. **Resolução nº 50, de 14 de julho de 2017.** Disponível em: http://reitoria.ifpr.edu.br/wp-content/uploads/2014/06/Resolu%C3%A7%C3%A3o-IFPRn%C2%BA-50_2017-Estabelece-as-normas-da-avalia%C3%A7%C3%A3o-dos-processos-deensino-aprendizagem-no-%C3%A2mbito-do-IFPR.pdf. Acesso em: abr. de 2018. 
+SCHÖN, D.A. **Educando o profissional reflexivo, um novo design para o ensino e a aprendizagem** . Artes Médicas, Porto Alegre, 2000.
 
-INSTITUTO FEDERAL DO PARANÁ. **Resolução nº 11/2018, retificada pela pela Resolução nº 49/2019.** Disponível em: 
+VASCONCELLOS, Celso. **Avaliação** : concepção dialética libertadora do processo de avaliação escolar. 15. ed. São Paulo: Libertad, 2005.
 
-https://ifpr.edu.br/resolucao-no-11-2018-2/#:~:text=Retificada%20pela%20Resolu%C3%A7%C3 %A3o%20n%C2%BA%2049,do%20Instituto%20Federal%20do%20Paran%C3%A1. Acesso em: abr. de 2023.. 
+VASCONCELLOS, Celso dos Santos. **Avaliação da aprendizagem:** práticas de mudança por uma práxis transformadora. São Paulo: Libertad, 2003.
 
-INSTITUTO FEDERAL DO PARANÁ. **Resolução CONSUP/IFPR nº 08/2011** 
+## **APÊNDICES**
 
-INSTITUTO FEDERAL DO PARANÁ. **Resolução CONSUP/IFPR nº 54/2011** 
+## APÊNDICE A
 
-INSTITUTO FEDERAL DO PARANÁ. **Resolução CONSUP/IFPR nº 11, de 21 de dezembro de 2009** . 
+## REGULAMENTO DE ESTÁGIO NÃO OBRIGATÓRIO
 
-INSTITUTO FEDERAL DO PARANÁ. **Resolução CONSUP/IFPR nº 11/2011** INSTITUTO FEDERAL DO PARANÁ. **Resolução CONSUP/IFPR nº 53/2011** 
+## **REGULAMENTO DO ESTÁGIO NÃO OBRIGATÓRIO DO CURSO DO CÂMPUS ASSIS CHATEAUBRIAND DO INSTITUTO FEDERAL DO PARANÁ CURSO: TECNÓLOGO EM GESTÃO COMERCIAL**
 
-INSTITUTO FEDERAL DO PARANÁ. **Resolução CONSUP/IFPR nº 55/2011** 
+## CAPÍTULO I
 
-INSTITUTO FEDERAL DO PARANÁ. **Resolução CONSUP/IFPR nº 64, de 28 de julho de 2010** . 
+## DA NATUREZA E FINALIDADE
 
-INSTITUTO FEDERAL DO PARANÁ. **Resolução CONSUP/IFPR nº 01/2017** . 
+Artigo 1º - O estágio curricular não obrigatório é um ato educativo de natureza opcional, com a finalidade de complementar os conhecimentos teóricos recebidos pelo estudante ao longo das atividades de ensino/aprendizagem e obedecerá a legislação específica, bem como as normas e diretrizes internas da IFPR.
 
-INSTITUTO FEDERAL DO PARANÁ. **Resolução nº 02, de 30 de março de 2009** : estabelece diretrizes para a gestão das atividades de Ensino, Pesquisa e Extensão no âmbito do Instituto Federal do Paraná – IFPR. 
+## CAPÍTULO II
 
-151 
+## DA ORGANIZAÇÃO
 
-**==> picture [471 x 55] intentionally omitted <==**
+Artigo 2º - O estágio curricular não obrigatório deve ser organizado tendo em vista os seguintes objetivos: I – ampliar a formação acadêmico-profissional do estudante;
 
-INSTITUTO FEDERAL DO PARANÁ. **Resolução nº 82, de 02 de junho de 2022** : Dispõe sobre a política de estágios do IFPR e define as orientações para sua realização. 
+II- propiciar ao estudante, na prática, a aplicação dos conhecimentos teóricos obtidos durante a realização do curso;
 
-IPARDES. Instituto Paranaense de Desenvolvimento Econômico Social. 2016. Disponível em: http://www.ipardes.gov.br/. Acesso em: 24 mar. 2019. 
+III - promover a integração social do estudante.
 
-LUCKESI. C. C. **Avaliação da aprendizagem escolar** . 9. ed. São Paulo: Cortez, 2011. 
+Artigo 3º - O estágio curricular não obrigatório será regulamentado pela Pró-Reitoria de Interação com a Sociedade em articulação com a Direção de Ensino, Pesquisa e Extensão do Câmpus Assis Chateaubriand, com as seguintes atribuições:
 
-Organização das Nações Unidas (ONU). **População mundial** . Disponível em: https://nacoesunidas.org/acao/populacao-mundial/. Acesso em: fev. de 2018. 
+- I. celebrar convênio com a entidade concedente de estágio ou agência de integração empresaescola;
 
-POD. Programa Oeste em Desenvolvimento. 2018. Disponível em: http://www.oesteemdesenvolvimento.com.br/. Acesso em: 24 mar. 2019. 
+- II. aprovar o plano de estágio elaborado pelo estudante e seu orientador;
 
-SAUL, Ana Maria. **Avaliação emancipatória escolar** . São Paulo: Cortez, 1996. 
+- III.assegurar a supervisão acadêmica do estágio, a ser realizada de forma compartilhada pelos orientadores e pelos supervisores profissionais vinculados às entidades concedentes;
 
-SAVIANI, Dermeval. **Pedagogia histórico-crítica** : primeiras aproximações. Campinas, SP: Autores Associados, 2011. 
+IV.aprovar e assinar o termo de compromisso de estágio, conforme legislação vigente.
 
-SCHÖN, D.A. **Educando o profissional reflexivo, um novo design para o ensino e a aprendizagem** . Artes Médicas, Porto Alegre, 2000. 
+Artigo 4º - Só poderão estagiar estudantes regularmente matriculados e com frequência regular,
 
-VASCONCELLOS, Celso. **Avaliação** : concepção dialética libertadora do processo de avaliação escolar. 15. ed. São Paulo: Libertad, 2005. 
+preferencialmente depois de cursado um semestre letivo.
 
-VASCONCELLOS, Celso dos Santos. **Avaliação da aprendizagem:** práticas de mudança por uma práxis transformadora. São Paulo: Libertad, 2003. 
+§ único - a duração do estágio não obrigatório não poderá ser inferior a um semestre letivo.
 
-152 
+Artigo 5º - Para fins de aproveitamento de créditos é vedada a equivalência entre estágio curricular obrigatório e não obrigatório.
 
-**==> picture [471 x 55] intentionally omitted <==**
+## CAPÍTULO III
 
-## **APÊNDICES** 
+## DO CAMPO DE ESTÁGIO
 
-## APÊNDICE A 
+Artigo 6º - Constituem campo de estágio as entidades de direito privado, os órgãos de administração pública, as instituições de ensino, a comunidade em geral e as próprias unidades de serviços e ensino do IFPR
 
-## REGULAMENTO DE ESTÁGIO NÃO OBRIGATÓRIO 
+Artigo 7º - Para aprovação de campo de estágio serão considerados pelo Campus Assis
 
-## **REGULAMENTO DO ESTÁGIO NÃO OBRIGATÓRIO DO CURSO DO CÂMPUS ASSIS CHATEAUBRIAND DO INSTITUTO FEDERAL DO PARANÁ CURSO: TECNÓLOGO EM GESTÃO COMERCIAL** 
+Chateaubriand, em relação à entidade ofertante de campo de estágio:
 
-## CAPÍTULO I 
+- I. existência de infra-estrutura material e de recursos humanos;
 
-## DA NATUREZA E FINALIDADE 
+- II. aceitação das condições de supervisão e avaliação do Câmpus Assis Chateaubriand do IFPR;
 
-Artigo 1º - O estágio curricular não obrigatório é um ato educativo de natureza opcional, com a finalidade de complementar os conhecimentos teóricos recebidos pelo estudante ao longo das atividades de ensino/aprendizagem e obedecerá a legislação específica, bem como as normas e diretrizes internas da IFPR. 
+- III. anuência e acatamento às normas disciplinadoras do estágio curricular não obrigatório do Câmpus Assis Chateaubriand do IFPR;
 
-## CAPÍTULO II 
+Artigo 8º - O campo de estágio será aprovado e oficializado pela Pró-Reitoria de Interação com a Sociedade com a entidade concedente de estágio ou agentes de integração empresa-escola, estes últimos entendidos como entidades que atuam na intermediação da busca de campos de estágio e ofertas de vagas.
 
-## DA ORGANIZAÇÃO 
+- § 1º - A jornada do estágio deverá ser compatível com o horário escolar do estudante;
 
-Artigo 2º - O estágio curricular não obrigatório deve ser organizado tendo em vista os seguintes objetivos: I – ampliar a formação acadêmico-profissional do estudante; 
+§ 2º - deverá ser garantida a adequação entre as atividades desenvolvidas no estágio e a área de formação do estudante.
 
-II- propiciar ao estudante, na prática, a aplicação dos conhecimentos teóricos obtidos durante a realização do curso; 
+## CAPÍTULO IV
 
-III - promover a integração social do estudante. 
+## DA SUPERVISÃO E ORIENTAÇÃO DE ESTÁGIO
 
-Artigo 3º - O estágio curricular não obrigatório será regulamentado pela Pró-Reitoria de Interação com a Sociedade em articulação com a Direção de Ensino, Pesquisa e Extensão do Câmpus Assis Chateaubriand, com as seguintes atribuições: 
+Artigo 9º - A supervisão do estágio não obrigatório caberá ao profissional vinculado à entidade concedente do estágio em conjunto com profissional orientador indicado pelo curso ao qual o aluno está matriculado.
 
-- I. celebrar convênio com a entidade concedente de estágio ou agência de integração empresaescola; 
+Artigo 10 - Cabe ao profissional orientador do estágio:
 
-- II. aprovar o plano de estágio elaborado pelo estudante e seu orientador; 
+- I. elaborar em conjunto com o estudante estagiário o plano de estágio, observada a adequação das atividades de estágio com a área de formação do estudante, de forma a garantir o desenvolvimento de competências necessárias à sua formação profissional.
 
-- III.assegurar a supervisão acadêmica do estágio, a ser realizada de forma compartilhada pelos orientadores e pelos supervisores profissionais vinculados às entidades concedentes; 
+- II. solicitar relatórios trimestrais dos estágios, verificar a assiduidade do estagiário e preencher a ficha de avaliação.
 
-153 
+Artigo 11 - Cabe ao supervisor profissional da entidade concedente:
 
-**==> picture [471 x 55] intentionally omitted <==**
+- I. avaliar as atividades desenvolvidas pelo estudante estagiário;
 
-IV.aprovar e assinar o termo de compromisso de estágio, conforme legislação vigente. 
+- II. assinar a ficha de freqüência do aluno estagiário;
 
-Artigo 4º - Só poderão estagiar estudantes regularmente matriculados e com frequência regular, 
+- III. orientar a elaboração dos relatórios do estágio e preencher a ficha de avaliação;
 
-preferencialmente depois de cursado um semestre letivo. 
+- IV. verificar a adequação das atividades de estágio com a área de formação do estudante, de forma a garantir o desenvolvimento de competências necessárias à sua formação profissional.
 
-§ único - a duração do estágio não obrigatório não poderá ser inferior a um semestre letivo. 
+## CAPÍTULO V
 
-Artigo 5º - Para fins de aproveitamento de créditos é vedada a equivalência entre estágio curricular obrigatório e não obrigatório. 
+## DA AVALIAÇÃO DO ESTÁGIO
 
-## CAPÍTULO III 
+Artigo 12 - A avaliação do estágio não obrigatório será realizada pelo profissional orientador do estágio, em conjunto com o supervisor profissional da entidade concedente, observados os seguintes critérios:
 
-## DO CAMPO DE ESTÁGIO 
+- I. desempenho profissional do estudante estagiário nas atividades contidas no plano de estágio;
 
-Artigo 6º - Constituem campo de estágio as entidades de direito privado, os órgãos de administração pública, as instituições de ensino, a comunidade em geral e as próprias unidades de serviços e ensino do IFPR 
+- II. assiduidade do estudante estagiário na entidade concedente;
 
-Artigo 7º - Para aprovação de campo de estágio serão considerados pelo Campus Assis 
+## CAPÍTULO VI
 
-Chateaubriand, em relação à entidade ofertante de campo de estágio: 
+## DAS DISPOSIÇÕES GERAIS
 
-- I. existência de infra-estrutura material e de recursos humanos; 
+Artigo 13 - O estágio de que trata este regulamento não cria vínculo empregatício de qualquer natureza entre o estudante e a entidade concedente, facultado ao estagiário o recebimento de bolsa.
 
-- II. aceitação das condições de supervisão e avaliação do Câmpus Assis Chateaubriand do IFPR; 
+§ único – A entidade concedente de estágio ou os agentes de integração empresa-escola providenciará seguro de acidentes pessoais ao estudante em regime de estágio curricular não obrigatório.
 
-- III. anuência e acatamento às normas disciplinadoras do estágio curricular não obrigatório do Câmpus Assis Chateaubriand do IFPR; 
+Artigo 14 - A entidade concedente poderá expedir declaração referente à realização de estágio curricular não obrigatório, depois de cumpridas todas as formalidades previstas para essa modalidade.
 
-Artigo 8º - O campo de estágio será aprovado e oficializado pela Pró-Reitoria de Interação com a Sociedade com a entidade concedente de estágio ou agentes de integração empresa-escola, estes últimos entendidos como entidades que atuam na intermediação da busca de campos de estágio e ofertas de vagas. 
+Artigo 15 - Os casos omissos serão resolvidos pela Direção de Ensino, Pesquisa e Extensão do Câmpus Assis Chateaubriand do IFPR em consonância com as orientações recebidas da Pró-Reitoria de Interação com a Sociedade.
 
-- § 1º - A jornada do estágio deverá ser compatível com o horário escolar do estudante; 
+## APÊNDICE B
 
-§ 2º - deverá ser garantida a adequação entre as atividades desenvolvidas no estágio e a área de formação do estudante. 
+## REGULAMENTO DE ATIVIDADES COMPLEMENTARES
 
-## CAPÍTULO IV 
+## **REGULAMENTO DE ATIVIDADES COMPLEMENTARES DO CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL CAMPUS ASSIS CHATEAUBRIAND**
 
-## DA SUPERVISÃO E ORIENTAÇÃO DE ESTÁGIO 
+## CAPÍTULO I
 
-Artigo 9º - A supervisão do estágio não obrigatório caberá ao profissional vinculado à entidade concedente do estágio em conjunto com profissional orientador indicado pelo curso ao qual o aluno está matriculado. 
+## DA NATUREZA E DAS FINALIDADES
 
-Artigo 10 - Cabe ao profissional orientador do estágio: 
+Art. 1º. As atividades de formação complementar compõem a estrutura curricular do Curso Superior de Tecnologia em Gestão Comercial. Elas se constituem de atividades complementares ao currículo, visando à formação ampla e integral dos estudantes para o mundo do trabalho. Elas permitem, ademais, a integração entre ensino, pesquisa e extensão, de forma interdisciplinar em relação às diversas áreas do conhecimento.
 
-154 
+## CAPÍTULO II
 
-**==> picture [471 x 55] intentionally omitted <==**
+## DA CARGA HORÁRIA DAS ATIVIDADES COMPLEMENTARES
 
-- I. elaborar em conjunto com o estudante estagiário o plano de estágio, observada a adequação das atividades de estágio com a área de formação do estudante, de forma a garantir o desenvolvimento de competências necessárias à sua formação profissional. 
+Art. 2º. As atividades complementares deverão ser desenvolvidas em espaços de tempo que não conflitem com os horários das aulas.
 
-- II. solicitar relatórios trimestrais dos estágios, verificar a assiduidade do estagiário e preencher a ficha de avaliação. 
+§ 1º Não haverá abono de faltas ou dispensa de atividades dos componentes curriculares aos alunos que vierem a assistir palestras, participar de seminários, congressos ou realização de qualquer atividade complementar nos horários das aulas.
 
-Artigo 11 - Cabe ao supervisor profissional da entidade concedente: 
+§ 2º Em caso de participação em seminários, jornadas, congressos, eventos, simpósios, cursos e atividades afins, para a apresentação de trabalhos, a falta poderá ser justificada mediante apresentação do certificado de participação no evento.
 
-- I. avaliar as atividades desenvolvidas pelo estudante estagiário; 
+Art. 3º. A realização das atividades complementares dependerá, exclusivamente, da
 
-- II. assinar a ficha de freqüência do aluno estagiário; 
+iniciativa e da dinamicidade do aluno, respeitados os critérios deste Regulamento.
 
-- III. orientar a elaboração dos relatórios do estágio e preencher a ficha de avaliação; 
+Art. 4º. Para integrar o currículo do Curso Superior de Tecnologia em Gestão Comercial, o estudante deve cumprir a carga horária de 150 (cento e cinquenta) horas em atividades formativas complementares, durante o período em que estiver regularmente matriculado no curso.
 
-- IV. verificar a adequação das atividades de estágio com a área de formação do estudante, de forma a garantir o desenvolvimento de competências necessárias à sua formação profissional. 
+§ 1º Sugere-se o cumprimento de, no mínimo, 37,5 horas de atividades complementares por semestre, evitando o acúmulo para semestres subsequentes.
 
-## CAPÍTULO V 
+§ 2º Caso sejam integralizadas as 150 (cento e cinquenta) horas totais antes do final do quarto semestre, fica o discente liberado do cumprimento das atividades complementares previstas nos semestres subsequentes até o término do curso.
 
-## DA AVALIAÇÃO DO ESTÁGIO 
+§ 3º Recomenda-se que o cumprimento das atividades complementares seja realizado no decorrer dos 3 (três) semestres iniciais do curso, a fim de evitar o acúmulo de atividades no último semestre.
 
-Artigo 12 - A avaliação do estágio não obrigatório será realizada pelo profissional orientador do estágio, em conjunto com o supervisor profissional da entidade concedente, observados os seguintes critérios: 
+## CAPÍTULO III
 
-- I. desempenho profissional do estudante estagiário nas atividades contidas no plano de estágio; 
+## DA VALIDAÇÃO DAS ATIVIDADES COMPLEMENTARES
 
-- II. assiduidade do estudante estagiário na entidade concedente; 
+Art. 5º. As Atividades Complementares estão discriminadas no Quadro I, bem como a carga horária máxima para cada atividade, em horas, aceita para validação das mesmas.
 
-## CAPÍTULO VI 
+Art. 6º As atividades complementares de projetos de pesquisa, extensão, de educação formal não podem estar vinculadas ao Estágio Curricular Obrigatório e ao Trabalho de Conclusão de Curso (TCC) do estudante.
 
-## DAS DISPOSIÇÕES GERAIS 
+Art. 7º A integralização das 150 (cento e cinquenta) horas só será efetivada a partir da apresentação dos respectivos comprovantes originais e respectivas cópias, que serão protocoladas na Secretaria Acadêmica através de aposto formulário de solicitação preenchida, no prazo máximo de 60 dias antes do término do último semestre letivo, e, posteriormente a validação pelo Colegiado do Curso.
 
-Artigo 13 - O estágio de que trata este regulamento não cria vínculo empregatício de qualquer natureza entre o estudante e a entidade concedente, facultado ao estagiário o recebimento de bolsa. 
+Parágrafo único. O Colegiado de Curso Superior de Tecnologia em Gestão Comercial é responsável por avaliar e validar, ou não, os documentos encaminhados, bem como encaminhá-los ao registro acadêmico, após a avaliação, para registro no histórico escolar do
 
-§ único – A entidade concedente de estágio ou os agentes de integração empresa-escola providenciará seguro de acidentes pessoais ao estudante em regime de estágio curricular não obrigatório. 
+estudante.
 
-Artigo 14 - A entidade concedente poderá expedir declaração referente à realização de estágio curricular não obrigatório, depois de cumpridas todas as formalidades previstas para essa modalidade. 
+Art. 8º. Serão aceitos como comprovantes para validação das atividades: certificados e declaração formal de responsável pela atividade.
 
-Artigo 15 - Os casos omissos serão resolvidos pela Direção de Ensino, Pesquisa e Extensão do Câmpus Assis Chateaubriand do IFPR em consonância com as orientações recebidas da Pró-Reitoria de Interação com a Sociedade. 
+Art. 9º Para a avaliação das atividades poderá ser constituída uma comissão, composta por membros do colegiado do Curso Superior de Tecnologia em Gestão Comercial, a qual encaminhará parecer ao Colegiado para que este proceda à validação.
 
-155 
+Art. 10º. Os comprovantes originais das atividades complementares desenvolvidas pelo estudante serão apresentados, juntamente com uma cópia, para conferência dos originais pela Secretaria Acadêmica.
 
-**==> picture [471 x 55] intentionally omitted <==**
+§ 1º Os originais deverão permanecer sob a posse e responsabilidade direta de cada estudante.
 
-## APÊNDICE B 
+§ 2º Quando ocorrer eventual solicitação de comprovantes já analisados, o estudante deverá apresentá-los ao Colegiado do Curso de Gestão Comercial, conforme solicitação.
 
-## REGULAMENTO DE ATIVIDADES COMPLEMENTARES 
+Art. 11. É de total responsabilidade do estudante controlar o cumprimento da carga horária em atividades formativas complementares. O não cumprimento da carga horária mínima prevista 150 (cento e cinquenta) horas implicará na não obtenção do grau de Tecnólogo em Gestão Comercial, no tempo regulamentar do curso.
 
-## **REGULAMENTO DE ATIVIDADES COMPLEMENTARES DO CURSO SUPERIOR DE TECNOLOGIA EM GESTÃO COMERCIAL CAMPUS ASSIS CHATEAUBRIAND** 
+Art. 12. Os alunos que ingressarem no curso por meio de transferência interna ou externa ou, ainda, por porte de diploma superior ficam também, sujeitos ao cumprimento da carga horária de atividades complementares, podendo solicitar ao Colegiado do Curso de Gestão Comercial o cômputo de parte da carga horária atribuída pela instituição de origem, observando-se as seguintes condições:
 
-## CAPÍTULO I 
+§ 1º As atividades complementares realizadas na instituição/curso de origem devem ser compatíveis com a estabelecida neste Regulamento;
 
-## DA NATUREZA E DAS FINALIDADES 
+§ 2º A carga horária atribuída pela instituição de origem não poderá ser superior à conferida por este Regulamento a atividade idêntica ou congênere;
 
-Art. 1º. As atividades de formação complementar compõem a estrutura curricular do Curso Superior de Tecnologia em Gestão Comercial. Elas se constituem de atividades complementares ao currículo, visando à formação ampla e integral dos estudantes para o mundo do trabalho. Elas permitem, ademais, a integração entre ensino, pesquisa e extensão, de forma interdisciplinar em relação às diversas áreas do conhecimento. 
+## CAPÍTULO IV
 
-## CAPÍTULO II 
+## DAS DISPOSIÇÕES GERAIS
 
-## DA CARGA HORÁRIA DAS ATIVIDADES COMPLEMENTARES 
+Art. 13. Os casos omissos serão analisados pelo Colegiado do Curso Superior de Tecnologia em Gestão Comercial. Para questões mais complexas, a decisão será em conjunto com a Coordenação de Ensino e a Direção de Ensino.
 
-Art. 2º. As atividades complementares deverão ser desenvolvidas em espaços de tempo que não conflitem com os horários das aulas. 
+Art. 14. Este Regulamento entrará em vigor a partir do início das atividades do Curso Superior de Tecnologia em Gestão Comercial, revogadas as disposições em contrário.
 
-§ 1º Não haverá abono de faltas ou dispensa de atividades dos componentes curriculares aos alunos que vierem a assistir palestras, participar de seminários, congressos ou realização de qualquer atividade complementar nos horários das aulas. 
-
-§ 2º Em caso de participação em seminários, jornadas, congressos, eventos, simpósios, cursos e atividades afins, para a apresentação de trabalhos, a falta poderá ser justificada mediante apresentação do certificado de participação no evento. 
-
-Art. 3º. A realização das atividades complementares dependerá, exclusivamente, da 
-
-156 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-iniciativa e da dinamicidade do aluno, respeitados os critérios deste Regulamento. 
-
-Art. 4º. Para integrar o currículo do Curso Superior de Tecnologia em Gestão Comercial, o estudante deve cumprir a carga horária de 150 (cento e cinquenta) horas em atividades formativas complementares, durante o período em que estiver regularmente matriculado no curso. 
-
-§ 1º Sugere-se o cumprimento de, no mínimo, 37,5 horas de atividades complementares por semestre, evitando o acúmulo para semestres subsequentes. 
-
-§ 2º Caso sejam integralizadas as 150 (cento e cinquenta) horas totais antes do final do quarto semestre, fica o discente liberado do cumprimento das atividades complementares previstas nos semestres subsequentes até o término do curso. 
-
-§ 3º Recomenda-se que o cumprimento das atividades complementares seja realizado no decorrer dos 3 (três) semestres iniciais do curso, a fim de evitar o acúmulo de atividades no último semestre. 
-
-## CAPÍTULO III 
-
-## DA VALIDAÇÃO DAS ATIVIDADES COMPLEMENTARES 
-
-Art. 5º. As Atividades Complementares estão discriminadas no Quadro I, bem como a carga horária máxima para cada atividade, em horas, aceita para validação das mesmas. 
-
-Art. 6º As atividades complementares de projetos de pesquisa, extensão, de educação formal não podem estar vinculadas ao Estágio Curricular Obrigatório e ao Trabalho de Conclusão de Curso (TCC) do estudante. 
-
-Art. 7º A integralização das 150 (cento e cinquenta) horas só será efetivada a partir da apresentação dos respectivos comprovantes originais e respectivas cópias, que serão protocoladas na Secretaria Acadêmica através de aposto formulário de solicitação preenchida, no prazo máximo de 60 dias antes do término do último semestre letivo, e, posteriormente a validação pelo Colegiado do Curso. 
-
-Parágrafo único. O Colegiado de Curso Superior de Tecnologia em Gestão Comercial é responsável por avaliar e validar, ou não, os documentos encaminhados, bem como encaminhá-los ao registro acadêmico, após a avaliação, para registro no histórico escolar do 
-
-157 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-estudante. 
-
-Art. 8º. Serão aceitos como comprovantes para validação das atividades: certificados e declaração formal de responsável pela atividade. 
-
-Art. 9º Para a avaliação das atividades poderá ser constituída uma comissão, composta por membros do colegiado do Curso Superior de Tecnologia em Gestão Comercial, a qual encaminhará parecer ao Colegiado para que este proceda à validação. 
-
-Art. 10º. Os comprovantes originais das atividades complementares desenvolvidas pelo estudante serão apresentados, juntamente com uma cópia, para conferência dos originais pela Secretaria Acadêmica. 
-
-§ 1º Os originais deverão permanecer sob a posse e responsabilidade direta de cada estudante. 
-
-§ 2º Quando ocorrer eventual solicitação de comprovantes já analisados, o estudante deverá apresentá-los ao Colegiado do Curso de Gestão Comercial, conforme solicitação. 
-
-Art. 11. É de total responsabilidade do estudante controlar o cumprimento da carga horária em atividades formativas complementares. O não cumprimento da carga horária mínima prevista 150 (cento e cinquenta) horas implicará na não obtenção do grau de Tecnólogo em Gestão Comercial, no tempo regulamentar do curso. 
-
-Art. 12. Os alunos que ingressarem no curso por meio de transferência interna ou externa ou, ainda, por porte de diploma superior ficam também, sujeitos ao cumprimento da carga horária de atividades complementares, podendo solicitar ao Colegiado do Curso de Gestão Comercial o cômputo de parte da carga horária atribuída pela instituição de origem, observando-se as seguintes condições: 
-
-§ 1º As atividades complementares realizadas na instituição/curso de origem devem ser compatíveis com a estabelecida neste Regulamento; 
-
-§ 2º A carga horária atribuída pela instituição de origem não poderá ser superior à conferida por este Regulamento a atividade idêntica ou congênere; 
-
-158 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-## CAPÍTULO IV 
-
-## DAS DISPOSIÇÕES GERAIS 
-
-Art. 13. Os casos omissos serão analisados pelo Colegiado do Curso Superior de Tecnologia em Gestão Comercial. Para questões mais complexas, a decisão será em conjunto com a Coordenação de Ensino e a Direção de Ensino. 
-
-Art. 14. Este Regulamento entrará em vigor a partir do início das atividades do Curso Superior de Tecnologia em Gestão Comercial, revogadas as disposições em contrário. 
-
-Tabela 1 - Lista de atividades de ensino complementares para o Curso Superior de Tecnologia em Gestão Comercial. 
+Tabela 1 - Lista de atividades de ensino complementares para o Curso Superior de Tecnologia em Gestão Comercial.
 
 ||Gestão Comercial.|||
 |---|---|---|---|
@@ -3722,9 +3012,7 @@ Tabela 1 - Lista de atividades de ensino complementares para o Curso Superior de
 |Disciplinas cursadas com aprovação em outros<br>cursos de graduação da IES ou em outras IES,<br>desde que as disciplinas não façam parte da<br>Matriz Curricular do Curso de Tecnologia em<br>Gestão Comercial|Análise de Equivalência de<br>Disciplina assinada pelo<br>Coordenador do Curso.|Cada disciplina<br>corresponde a 10 horas de<br>atividade|30 horas|
 |Disciplinas cursadas em cursos de pós-<br>graduação (como aluno regular ou ouvinte)|Certificado de Participação<br>ou<br>Declaração<br>da<br>Instituição|Cada disciplina<br>corresponde a 10 horas de<br>atividade|30 horas|
 
-
-
-Tabela 2 - Lista de atividades de Extensão complementares para o Curso Superior de Tecnologia em Gestão Comercial. 
+Tabela 2 - Lista de atividades de Extensão complementares para o Curso Superior de Tecnologia em Gestão Comercial.
 
 ||Gestão Comercial.|||
 |---|---|---|---|
@@ -3737,20 +3025,12 @@ Tabela 2 - Lista de atividades de Extensão complementares para o Curso Superior
 |Participação em jornadas, simpósios, encontros,<br>conferências, seminários, debates, congressos,<br>semanas de acadêmicas do curso e outros<br>eventos|<br> <br>Certificado de Participação|Cada hora de participação<br>no evento corresponde a 1<br>hora de atividade|30 horas|
 |Visitas Técnicas|Declaração assinada pelo<br>coordenador do curso|Cada visita técnica<br>corresponde até|25 horas|
 
-
-
-159 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
 |||||
 |---|---|---|---|
 |||~~5 horas de atividade~~||
 |Atividades<br>de<br>extensão<br>realizadas<br>nas<br>disciplinas|Declaração assinada pelo<br>docente|Cada hora de participação<br>corresponde a 1 hora de<br>atividade|25 horas|
 
-
-
-Tabela 3 - Lista de atividades de Iniciação à Docência e a Pesquisa complementares para o Curso Superior de Tecnologia em Gestão Comercial. 
+Tabela 3 - Lista de atividades de Iniciação à Docência e a Pesquisa complementares para o Curso Superior de Tecnologia em Gestão Comercial.
 
 |**Atividade**|**Requisitos para validação**|**Formas de**<br>**aproveitamento**|**Carga horária**<br>**máxima**<br>**reconhecida**|
 |---|---|---|---|
@@ -3765,13 +3045,7 @@ Tabela 3 - Lista de atividades de Iniciação à Docência e a Pesquisa compleme
 |Participação em Grupos de Estudos autorizados ou<br>patrocinados pela Instituição|<br>Declaração de Participação|Cada hora de participação<br>corresponde a 1 hora de<br>atividade|15 horas|
 |Participação em Oficinas de Leitura, sob a<br>supervisão do responsável|Declaração de Participação|Cada hora de participação<br>corresponde a 1 hora de<br>atividade|10 horas|
 
-
-
-160 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
-Tabela 4 - Lista de atividades de Representação Estudantil complementares para o Curso Superior de Tecnologia em Gestão Comercial. 
+Tabela 4 - Lista de atividades de Representação Estudantil complementares para o Curso Superior de Tecnologia em Gestão Comercial.
 
 |**Atividade**|**Requisitos para validação**|**Formas de aproveitamento**|**Carga horária**<br>**máxima**<br>**reconhecida**|
 |---|---|---|---|
@@ -3779,9 +3053,7 @@ Tabela 4 - Lista de atividades de Representação Estudantil complementares para
 |Representação discente de sala de aula|Declaração emitida pela<br>Coordenação do Curso|Cada participação anual<br>corresponde a 20 horas<br>de atividade|40 horas|
 |Representação e/ou Administração em Entidades<br>Estudantis|Declaração de Participação da<br>Entidade|Cada participação anual<br>corresponde a 20 horas de<br>atividade|40 horas|
 
-
-
-Tabela 5 - Lista de atividades de Vivência Profissional complementares para o Curso Superior de Tecnologia em Gestão Comercial. 
+Tabela 5 - Lista de atividades de Vivência Profissional complementares para o Curso Superior de Tecnologia em Gestão Comercial.
 
 |**Atividade**|**Requisitos para validação**|**Formas de**<br>**aproveitamento**|**Carga horária**<br>**máxima**<br>**reconhecida**|
 |---|---|---|---|
@@ -3791,11 +3063,9 @@ Tabela 5 - Lista de atividades de Vivência Profissional complementares para o C
 |Participação como Jurado Efetivo|Certidão emitida pelo Cartório<br>Criminal, constando datas e<br>horários de cada convocação|Cada participação corresponde<br>a 10 horas de atividade|<br>30 horas|
 |Ocupação de cargo ou função pública na área do<br>Gestor Comercial|Declaração do órgão público<br>descrevendo as atividades<br>desenvolvidas e a carga horária<br>doprofissional|Cada hora de participação<br>corresponde a 1 hora de<br>atividade|30 horas|
 
+Tabela 6 - Lista de Atividades Relacionadas a Temas Transversais: Responsabilidade Social, Sustentabilidade, Relações Étnico-Raciais, Inclusão Social, Diversidade, Cidadania e Direitos
 
-
-Tabela 6 - Lista de Atividades Relacionadas a Temas Transversais: Responsabilidade Social, Sustentabilidade, Relações Étnico-Raciais, Inclusão Social, Diversidade, Cidadania e Direitos 
-
-Humanos 
+Humanos
 
 ||Humanos|||
 |---|---|---|---|
@@ -3803,18 +3073,10 @@ Humanos
 |Participação em Organizações Não<br>Governamentais|Declaração de Participação<br>emitida pela Organização|Cada 6 meses de participação<br>correspondem a 10 horas de<br>atividade|30 horas|
 |Participação em Projetos Sociais ou Campanhas<br>Institucionais|Declaração de Participação<br>emitida pelo Coordenador do<br>Projeto/Campanha|Cada participação corresponde<br>a 10 horas<br>de atividade|<br>30 horas|
 
-
-
-161 
-
-**==> picture [471 x 55] intentionally omitted <==**
-
 |Participação em Trabalhos Comunitários e/ou<br>Voluntários|Declaração de Participação|Cada hora de participação<br>corresponde a 1 hora de<br>atividade|30 horas|
 |---|---|---|---|
 |Participação em Atividades de Responsabilidade<br>Ambiental|Declaração de Participação<br>emitida pelo responsável|Cada hora de participação<br>corresponde a 1 hora de<br>atividade|30 horas|
 |Participação como mesário voluntário em eleições|<br>Declaração de Comparecimento<br>expedida pela Justiça Eleitoral|Cada hora de participação<br>corresponde a 1 hora de<br>atividade|20 horas|
 
-
-
-162 
+162
 

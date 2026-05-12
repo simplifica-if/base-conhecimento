@@ -1,44 +1,43 @@
-**==> picture [510 x 69] intentionally omitted <==**
 
-## **MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA INSTITUTO FEDERAL DO PARANÁ CÂMPUS LONDRINA** 
+## **MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA INSTITUTO FEDERAL DO PARANÁ CÂMPUS LONDRINA**
 
-## **PROJETO PEDAGÓGICO DO CURSO TÉCNICO EM PRÓTESE DENTÁRIA** 
+## **PROJETO PEDAGÓGICO DO CURSO TÉCNICO EM PRÓTESE DENTÁRIA**
 
-## **Autorizado pela Resolução n° 7611, do Conselho Superior – Instituto Federal do Paraná - IFPR** 
+## **Autorizado pela Resolução n° 7611, do Conselho Superior – Instituto Federal do Paraná - IFPR**
 
-**LONDRINA 2013** 
+**LONDRINA 2013**
 
-## **INSTITUTO FEDERAL DO PARANÁ** 
+## **INSTITUTO FEDERAL DO PARANÁ**
 
-## **Reitor** 
+## **Reitor**
 
-Irineu Mário Colombo 
+Irineu Mário Colombo
 
-## **Pró-reitor de Ensino** 
+## **Pró-reitor de Ensino**
 
-Ezequiel Westphal 
+Ezequiel Westphal
 
-## **Diretor de Ensino Médio e Técnico** 
+## **Diretor de Ensino Médio e Técnico**
 
-Evandro Cherubini Rolin 
+Evandro Cherubini Rolin
 
-## **Coordenador de Ensino Médio e Técnico** 
+## **Coordenador de Ensino Médio e Técnico**
 
-Gabriel Mathias Carneiro Leão 
+Gabriel Mathias Carneiro Leão
 
-## **Diretor(a) Geral do Campus** 
+## **Diretor(a) Geral do Campus**
 
-Amir Limana 
+Amir Limana
 
-## **Diretor(a) de Ensino, Pesquisa e Extensão** 
+## **Diretor(a) de Ensino, Pesquisa e Extensão**
 
-Ricardo töws 
+Ricardo töws
 
-## **Coordenação do Curso** 
+## **Coordenação do Curso**
 
-Carlos Alexandre Bertoncelo 
+Carlos Alexandre Bertoncelo
 
-## **SUMÁRIO** 
+## **SUMÁRIO**
 
 |**1. IDENTIFICAÇÃO DO PROJETO**||||**04**||
 |---|---|---|---|---|---|
@@ -66,165 +65,157 @@ Carlos Alexandre Bertoncelo
 |**6.- Referências**||||**72**||
 |**7.-Anexos**||||**74**||
 
+**MINISTÉRIO DA INSTITUTO EDUCAÇÃO FEDERAL PARANÁ Campus Londrina**
 
+## **PLANO PEDAGÓGICO DO CURSO TÉCNICO EM PRÓTESE DENTÁRIA**
 
-**==> picture [35 x 36] intentionally omitted <==**
+## **1. IDENTIFICAÇÃO DO PROJETO**
 
-**MINISTÉRIO DA INSTITUTO EDUCAÇÃO FEDERAL PARANÁ Campus Londrina** 
+**PROCESSO 23403.000163/2011-16 NÚMERO:**
 
-## **PLANO PEDAGÓGICO DO CURSO TÉCNICO EM PRÓTESE DENTÁRIA** 
+**NOME DO CURSO: Curso Técnico em Prótese Dentária**
 
-## **1. IDENTIFICAÇÃO DO PROJETO** 
+**EIXO TECNOLÓGICO: Ambiente e Saúde**
 
-**PROCESSO 23403.000163/2011-16 NÚMERO:** 
+## **COORDENAÇÃO:**
 
-**NOME DO CURSO: Curso Técnico em Prótese Dentária** 
+**Coordenador:** Carlos Alexandre Bertoncelo
 
-**EIXO TECNOLÓGICO: Ambiente e Saúde** 
+**Telefone** : (43) 38786100 **E-mail: carlos.bertoncelo@ifpr.edu.br Vice-Coordenador:** Carlos Marcelo Archangelo
 
-## **COORDENAÇÃO:** 
+**Telefone** : (43) 38786100 **E-mail: carlos.archangelo@ifpr.edu.br**
 
-**Coordenador:** Carlos Alexandre Bertoncelo 
+**LOCAL DE REALIZAÇÃO/CAMPUS:** Campus Londrina.
 
-**Telefone** : (43) 38786100 **E-mail: carlos.bertoncelo@ifpr.edu.br Vice-Coordenador:** Carlos Marcelo Archangelo 
+**TEL: (43) 38786100 HOME-PAGE: E-MAIL: www.londrina.ifpr.edu.br secretaria_londrina@ifpr.edu.br**
 
-**Telefone** : (43) 38786100 **E-mail: carlos.archangelo@ifpr.edu.br** 
+**RESOLUÇÃO DE CRIAÇÃO:** Resolução n°7611, do Conselho Superior – IFPR.
 
-**LOCAL DE REALIZAÇÃO/CAMPUS:** Campus Londrina. 
+## **COMISSÃO RESPONSÁVEL PELO AJUSTE CURRICULAR DO PPC**
 
-**TEL: (43) 38786100 HOME-PAGE: E-MAIL: www.londrina.ifpr.edu.br secretaria_londrina@ifpr.edu.br** 
+Ricardo Töws - Diretor de Ensino, Pesquisa e Extensão. André Tomazini Gomes de Sá - Professor Curso Técnico em Prótese Dentária. Carlos Alexandre Bertoncelo – Coordenador Curso Técnico em Prótese Dentária. Carlos Marcelo Archangelo – Vice-coordenador Curso Técnico em Prótese Dentária. Manoel Martin Júnior – Professor Curso Técnico em Prótese Dentária. Karen Cristina Archangelo Perdigão – Professora Curso Técnico em Prótese Dentária
 
-**RESOLUÇÃO DE CRIAÇÃO:** Resolução n°7611, do Conselho Superior – IFPR. 
+**2. CARACTERÍSTICAS DO CURSO**
 
-## **COMISSÃO RESPONSÁVEL PELO AJUSTE CURRICULAR DO PPC** 
+NÍVEL  EDUCAÇÃO PROFISSIONAL TÉCNICA DE NÍVEL MÉDIO<br>OFERTA  SUBSEQUENTE<br>MODALIDADE  [PRESENCIAL ]<br>PARCERIA COM OUTRAS  ESPECIFICAR:<br>INSTITUIÇÕES:<br>Nome:<br>Endereço:<br>SIM                                      NÃO        X<br>Telefone:                                     E-mail:<br>PERÍODO DO CURSO: 2 ANOS  TURNO DE OFERTA: NOTURNO<br>HORÁRIO DE OFERTA DO CURSO: 19:00 AS 22:00 HORAS<br>CARGA HORÁRIA  DO CURSO : 1200 horas  NÚMERO DE VAGAS: 40<br>ESTÁGIO SUPERVISIONADO: 0<br>CARGA HORÁRIA TOTAL:  1200 horas MÍNIMO                           MÁXIMO      20   40<br>
 
-Ricardo Töws - Diretor de Ensino, Pesquisa e Extensão. André Tomazini Gomes de Sá - Professor Curso Técnico em Prótese Dentária. Carlos Alexandre Bertoncelo – Coordenador Curso Técnico em Prótese Dentária. Carlos Marcelo Archangelo – Vice-coordenador Curso Técnico em Prótese Dentária. Manoel Martin Júnior – Professor Curso Técnico em Prótese Dentária. Karen Cristina Archangelo Perdigão – Professora Curso Técnico em Prótese Dentária 
+## **3. ESTRUTURA E FUNCIONAMENTO**
 
-**2. CARACTERÍSTICAS DO CURSO** 
+## **3.1 Justificativa da oferta do curso**
 
-**==> picture [499 x 435] intentionally omitted <==**
+Habilitação Técnica de Nível Médio em Prótese Dentária - Área Profissional de Saúde atende ao disposto na Lei de Diretrizes e Bases da Educação Nacional - LDB - Lei Federal nº. 9.394/96 no Decreto Federal nº. 5.154/04, no Parecer CNE /CEB nº. 16/99 do Conselho Nacional de Educação, na Lei Federal nº. 6.710/79 e Decreto nº. 87.689/82, que regulamentam as atividades do Técnico em Prótese Dentária, no Regimento das Unidades Educacionais e nas demais normas do sistema de ensino.
 
-**----- Start of picture text -----**<br>
-NÍVEL  EDUCAÇÃO PROFISSIONAL TÉCNICA DE NÍVEL MÉDIO<br>OFERTA  SUBSEQUENTE<br>MODALIDADE  [PRESENCIAL ]<br>PARCERIA COM OUTRAS  ESPECIFICAR:<br>INSTITUIÇÕES:<br>Nome:<br>Endereço:<br>SIM                                      NÃO        X<br>Telefone:                                     E-mail:<br>PERÍODO DO CURSO: 2 ANOS  TURNO DE OFERTA: NOTURNO<br>HORÁRIO DE OFERTA DO CURSO: 19:00 AS 22:00 HORAS<br>CARGA HORÁRIA  DO CURSO : 1200 horas  NÚMERO DE VAGAS: 40<br>ESTÁGIO SUPERVISIONADO: 0<br>CARGA HORÁRIA TOTAL:  1200 horas MÍNIMO                           MÁXIMO      20   40<br>**----- End of picture text -----**<br>
+A competitividade do mercado globalizado impõe em todos os campos profissionais uma busca de permanente capacitação na área de conhecimentos técnicos. Nessa perspectiva, que é a tônica da modernidade, é fundamental ao ser humano capacitar-se adequadamente para o exercício de sua profissão, procurando canais compatíveis com a formação técnica. A necessidade de qualificação de profissionais que atendam à crescente demanda determinada pela diferenciação do mercado de trabalho na área de prótese dentária, faz com que a oferta do curso técnico em Prótese Dentária seja de fundamental importância para Londrina e região Metropolitana.
 
+Seguindo a evolução da Odontologia, na análise do mercado da prótese dentária, com o desenvolvimento tecnológico dos materiais dentários, da incontestável procura pela estética bucal, constata-se a necessidade de incorporação de novos métodos e técnicas, gerando demanda por profissionais capazes de responder às atuais exigências do setor.
 
-## **3. ESTRUTURA E FUNCIONAMENTO** 
+De acordo com o Conselho Federal de Odontologia (CFO) o Brasil tem hoje mais de 216 mil dentistas e 17.600 técnicos em prótese dentária sendo que desse total, 2068 dentistas estão na região de Londrina e 10 Laboratórios de prótese dentária.
 
-## **3.1 Justificativa da oferta do curso** 
+Quanto à especialidade de Prótese Dentária, uma das 19 reconhecidas pelo CFO é bastante procurada pelos cirurgiões-dentistas. Conforme aponta uma pesquisa realizada em 2002 pela ABENO – Associação Brasileira de Ensino Odontológico, entre os cursos de pós-graduação que os dentistas gostariam de realizar, os dois mais citados são Ortodontia e Prótese Dentária.
 
-Habilitação Técnica de Nível Médio em Prótese Dentária - Área Profissional de Saúde atende ao disposto na Lei de Diretrizes e Bases da Educação Nacional - LDB - Lei Federal nº. 9.394/96 no Decreto Federal nº. 5.154/04, no Parecer CNE /CEB nº. 16/99 do Conselho Nacional de Educação, na Lei Federal nº. 6.710/79 e Decreto nº. 87.689/82, que regulamentam as atividades do Técnico em Prótese Dentária, no Regimento das Unidades Educacionais e nas demais normas do sistema de ensino. 
+Quanto à saúde bucal da população brasileira, uma pesquisa nacional realizada pelo Ministério da Saúde mostrou que 13% dos adolescentes e 6% dos adultos nunca foram ao dentista e quase 27% das crianças até 3 anos já tiveram cárie. Dos adultos, 30% não têm dentes e entre os idosos, esse índice sobe para 75% (Fonte: Ministério da Saúde – 2002/2003). Isso prova que há um vasto mercado tanto para o cirurgião-dentista especialista em prótese dentária quanto para o técnico em prótese dentária.
 
-A competitividade do mercado globalizado impõe em todos os campos profissionais uma busca de permanente capacitação na área de conhecimentos técnicos. Nessa perspectiva, que é a tônica da modernidade, é fundamental ao ser humano capacitar-se adequadamente para o exercício de sua profissão, procurando canais compatíveis com a formação técnica. A necessidade de qualificação de profissionais que atendam à crescente demanda determinada pela diferenciação do mercado de trabalho na área de prótese dentária, faz com que a oferta do curso técnico em Prótese Dentária seja de fundamental importância para Londrina e região Metropolitana. 
+A formação de técnicos em prótese dentária está restrita a poucas escolas em todo o Estado. A rede privada oferece o maior número de vagas.
 
-Seguindo a evolução da Odontologia, na análise do mercado da prótese dentária, com o desenvolvimento tecnológico dos materiais dentários, da incontestável procura pela estética bucal, constata-se a necessidade de incorporação de novos métodos e técnicas, gerando demanda por profissionais capazes de responder às atuais exigências do setor. 
+Estes dados mostram uma pequena relação de dentista/protético no estado do Paraná. Além disto, hoje existem vários cursos de odontologia em todo o Paraná. Somente os cursos sediados na região metropolitana de Londrina formam cerca de 500 cirurgiões-dentistas por ano. Estes números têm elevado à oferta de serviços privados de odontologia, principal consumidor de peças protéticas. Já a rápida evolução de materiais dentários exige uma sólida formação do técnico em prótese dentária para proporcionar um serviço altamente qualificado de baixo custo e tecnologicamente adequado.
 
-De acordo com o Conselho Federal de Odontologia (CFO) o Brasil tem hoje mais de 216 mil dentistas e 17.600 técnicos em prótese dentária sendo que desse total, 2068 dentistas estão na região de Londrina e 10 Laboratórios de prótese dentária. 
+## **3.2  Objetivos do curso**
 
-Quanto à especialidade de Prótese Dentária, uma das 19 reconhecidas pelo CFO é bastante procurada pelos cirurgiões-dentistas. Conforme aponta uma pesquisa realizada em 2002 pela ABENO – Associação Brasileira de Ensino Odontológico, entre os cursos de pós-graduação que os dentistas gostariam de realizar, os dois mais citados são Ortodontia e Prótese Dentária. 
+Formar, qualificar, capacitar e atualizar cidadãos para atuar no processo de construção de peças protéticas, proporcionando ensino teórico e prático por meio do curso modular, enfocando o conhecimento científico e as inovações tecnológicas da odontologia.
 
-Quanto à saúde bucal da população brasileira, uma pesquisa nacional realizada pelo Ministério da Saúde mostrou que 13% dos adolescentes e 6% dos adultos nunca foram ao dentista e quase 27% das crianças até 3 anos já tiveram cárie. Dos adultos, 30% não têm dentes e entre os idosos, esse índice sobe para 75% (Fonte: Ministério da Saúde – 2002/2003). Isso prova que há um vasto mercado tanto para o cirurgião-dentista especialista em prótese dentária quanto para o técnico em prótese dentária. 
+## **3.3 Requisitos de acesso**
 
-A formação de técnicos em prótese dentária está restrita a poucas escolas em todo o Estado. A rede privada oferece o maior número de vagas. 
+Ter concluído o Ensino Médio;
 
-Estes dados mostram uma pequena relação de dentista/protético no estado do Paraná. Além disto, hoje existem vários cursos de odontologia em todo o Paraná. Somente os cursos sediados na região metropolitana de Londrina formam cerca de 500 cirurgiões-dentistas por ano. Estes números têm elevado à oferta de serviços privados de odontologia, principal consumidor de peças protéticas. Já a rápida evolução de materiais dentários exige uma sólida formação do técnico em prótese dentária para proporcionar um serviço altamente qualificado de baixo custo e tecnologicamente adequado. 
+Aprovação no processo seletivo regulamentado pela Pró-Reitoria de Ensino em parceria com o campus.
 
-## **3.2  Objetivos do curso** 
+## **3.4 Perfil profissional de conclusão**
 
-Formar, qualificar, capacitar e atualizar cidadãos para atuar no processo de construção de peças protéticas, proporcionando ensino teórico e prático por meio do curso modular, enfocando o conhecimento científico e as inovações tecnológicas da odontologia. 
+O **Técnico em Prótese Dentária** é o profissional de saúde que atua em laboratórios de próteses dentárias, empresas do segmento odontológico, instituições públicas e instituições educacionais, sendo o responsável por planejar e executar o trabalho técnico-odontológico e em conjunto com o cirurgião-dentista restabelece a capacidade funcional e estética do paciente por meio de próteses dentárias.
 
-## **3.3 Requisitos de acesso** 
+Atua na fase laboratorial da confecção de próteses dentárias e aparelhos ortodônticos removíveis, planejando e confeccionando os mesmos por solicitação do cirurgião dentista, desenvolvendo o trabalho individualmente ou em equipe, sendo vetado aos Técnicos em Prótese Dentária prestar, sob qualquer forma, assistência direta a clientes.
 
-Ter concluído o Ensino Médio; 
+Confecciona e repara os diversos tipos de prótese dentária e aparelhos ortodônticos removíveis; gerencia laboratórios de prótese dentária, sua logística; opera e zela pelo bom uso e manutenção de equipamentos e instrumentais específicos.
 
-Aprovação no processo seletivo regulamentado pela Pró-Reitoria de Ensino em parceria com o campus. 
+Para atender às demandas do processo produtivo, o Técnico em Prótese Dentária deverá constituir as seguintes competências profissionais específicas da habilitação:
 
-## **3.4 Perfil profissional de conclusão** 
+– Reconhecer-se como profissional de Saúde, baseando o planejamento de sua ação na perspectiva do ser humano integral e considerando os condicionantes e determinantes do processo de saúde e doença, a qualidade no atendimento, a preservação do meio ambiente e o compromisso social com a população.
 
-O **Técnico em Prótese Dentária** é o profissional de saúde que atua em laboratórios de próteses dentárias, empresas do segmento odontológico, instituições públicas e instituições educacionais, sendo o responsável por planejar e executar o trabalho técnico-odontológico e em conjunto com o cirurgião-dentista restabelece a capacidade funcional e estética do paciente por meio de próteses dentárias. 
+– Identificar e participar das formas de organização e relação de trabalho de suas atividades de forma produtiva e ética, caracterizando espaço e limites de atuação do profissional, pautados na legislação e recomendações do Conselho Profissional.
 
-Atua na fase laboratorial da confecção de próteses dentárias e aparelhos ortodônticos removíveis, planejando e confeccionando os mesmos por solicitação do cirurgião dentista, desenvolvendo o trabalho individualmente ou em equipe, sendo vetado aos Técnicos em Prótese Dentária prestar, sob qualquer forma, assistência direta a clientes. 
+– Planejar e confeccionar aparelhos ortodônticos removíveis e os diversos tipos de próteses dentárias, articulando conhecimentos e habilidades no uso de materiais, equipamentos, instrumentais e técnicas específicas, a fim de contribuir para a integridade do individuo.
 
-Confecciona e repara os diversos tipos de prótese dentária e aparelhos ortodônticos removíveis; gerencia laboratórios de prótese dentária, sua logística; opera e zela pelo bom uso e manutenção de equipamentos e instrumentais específicos. 
+– Gerir um negócio com visão sistêmica, mobilizando conceitos e princípios de empreendedorismo e habilidades na definição de estratégias que contribuem para a sustentabilidade do empreendimento.
 
-Para atender às demandas do processo produtivo, o Técnico em Prótese Dentária deverá constituir as seguintes competências profissionais específicas da habilitação: 
+Em consonância com as Diretrizes Curriculares Nacionais para a Educação Profissional de Nível Técnico, este profissional deve também constituir as seguintes competências profissionais gerais da área profissional de saúde:
 
-– Reconhecer-se como profissional de Saúde, baseando o planejamento de sua ação na perspectiva do ser humano integral e considerando os condicionantes e determinantes do processo de saúde e doença, a qualidade no atendimento, a preservação do meio ambiente e o compromisso social com a população. 
+- Identificar os determinantes e condicionantes do processo saúde-doença.
 
-– Identificar e participar das formas de organização e relação de trabalho de suas atividades de forma produtiva e ética, caracterizando espaço e limites de atuação do profissional, pautados na legislação e recomendações do Conselho Profissional. 
+– Identificar a estrutura e organização do sistema de saúde vigente.
 
-– Planejar e confeccionar aparelhos ortodônticos removíveis e os diversos tipos de próteses dentárias, articulando conhecimentos e habilidades no uso de materiais, equipamentos, instrumentais e técnicas específicas, a fim de contribuir para a integridade do individuo. 
+– Identificar funções e responsabilidades dos membros da equipe de trabalho.
 
-– Gerir um negócio com visão sistêmica, mobilizando conceitos e princípios de empreendedorismo e habilidades na definição de estratégias que contribuem para a sustentabilidade do empreendimento. 
+– Planejar e organizar o trabalho na perspectiva do atendimento integral e de qualidade.
 
-Em consonância com as Diretrizes Curriculares Nacionais para a Educação Profissional de Nível Técnico, este profissional deve também constituir as seguintes competências profissionais gerais da área profissional de saúde: 
+- Realizar trabalho em equipe, correlacionando conhecimentos de várias disciplinas ou ciências, tendo em vista o caráter interdisciplinar da área.
 
-- Identificar os determinantes e condicionantes do processo saúde-doença. 
+– Aplicar normas de biossegurança.
 
-– Identificar a estrutura e organização do sistema de saúde vigente. 
+– Aplicar princípios e normas de higiene e saúde pessoal e ambiental.
 
-– Identificar funções e responsabilidades dos membros da equipe de trabalho. 
+– Interpretar e aplicar legislação referente aos direitos do usuário.
 
-– Planejar e organizar o trabalho na perspectiva do atendimento integral e de qualidade. 
+– Identificar e aplicar princípios e normas de conservação de recursos não renováveis e de preservação do meio ambiente.
 
-- Realizar trabalho em equipe, correlacionando conhecimentos de várias disciplinas ou ciências, tendo em vista o caráter interdisciplinar da área. 
+– Aplicar princípios ergonômicos na realização do trabalho.
 
-– Aplicar normas de biossegurança. 
+– Avaliar riscos de iatrogenias, ao executar procedimentos técnicos.
 
-– Aplicar princípios e normas de higiene e saúde pessoal e ambiental. 
+– Interpretar e aplicar normas do exercício profissional e princípios éticos que regem a conduta profissional de saúde.
 
-– Interpretar e aplicar legislação referente aos direitos do usuário. 
+– Identificar e avaliar rotinas, protocolos de trabalho, instalações e equipamentos.
 
-– Identificar e aplicar princípios e normas de conservação de recursos não renováveis e de preservação do meio ambiente. 
+– Operar equipamentos próprios do campo de atuação, zelando pela sua manutenção.
 
-– Aplicar princípios ergonômicos na realização do trabalho. 
+– Registrar ocorrências e serviços prestados de acordo com exigências do campo de atuação.
 
-– Avaliar riscos de iatrogenias, ao executar procedimentos técnicos. 
+– Prestar informações ao cliente, ao paciente, ao sistema de saúde e a outros profissionais sobre os serviços que tenham sido prestados.
 
-– Interpretar e aplicar normas do exercício profissional e princípios éticos que regem a conduta profissional de saúde. 
+– Orientar clientes ou pacientes a assumirem, com autonomia, a própria saúde.
 
-– Identificar e avaliar rotinas, protocolos de trabalho, instalações e equipamentos. 
+– Coletar e organizar dados relativos ao campo de atuação.
 
-– Operar equipamentos próprios do campo de atuação, zelando pela sua manutenção. 
+– Utilizar recursos e ferramentas de informática específicos da área.
 
-– Registrar ocorrências e serviços prestados de acordo com exigências do campo de atuação. 
+– Realizar primeiros socorros em situações de emergência.
 
-– Prestar informações ao cliente, ao paciente, ao sistema de saúde e a outros profissionais sobre os serviços que tenham sido prestados. 
+## **3.5 Organização curricular**
 
-– Orientar clientes ou pacientes a assumirem, com autonomia, a própria saúde. 
+O curso de Técnico em Prótese Dentária tem carga horária total de 1.280 horas, sendo esta carga horária é distribuída em dois anos, ou seja, quatro semestres letivos, sendo que, em cada ano letivo os componentes curriculares são organizados em módulos, totalizando 4 módulos de 320 horas.
 
-– Coletar e organizar dados relativos ao campo de atuação. 
+Ao longo do curso é permitida a realização de estágio não obrigatório pelos alunos como uma forma de aplicar e vivenciar os conhecimentos adquiridos em sala de aula.
 
-– Utilizar recursos e ferramentas de informática específicos da área. 
+## **3.5.1. Prática Profissional: Estágio não Obrigatório**
 
-– Realizar primeiros socorros em situações de emergência. 
+A prática profissional acontecerá mediante as atividades práticas que permeiam todo o curso, no entanto, como uma forma de propiciar uma convivência mais consistente com a área o aluno poderá integralizar ao seu currículo estágio não obrigatório, a fim de enriquecer sua formação. As normas encontram-se em anexo.
 
-## **3.5 Organização curricular** 
+## **3.6 Critérios de avaliação de aprendizagem**
 
-O curso de Técnico em Prótese Dentária tem carga horária total de 1.280 horas, sendo esta carga horária é distribuída em dois anos, ou seja, quatro semestres letivos, sendo que, em cada ano letivo os componentes curriculares são organizados em módulos, totalizando 4 módulos de 320 horas. 
+A avaliação do processo de ensino aprendizagem segue a Portaria nº 120 de 06 de agosto de 2009/IFPR e demais normativas correlatas institucionais e a LDBEN nº 9394/96. No processo pedagógico, alunos e professores são sujeitos ativos e devem atuar de forma consciente, não apenas como parte do processo de conhecimento e aprendizagem, mais, sim, como seres humanos imersos numa cultura e que apresentam histórias particulares de vida.
 
-Ao longo do curso é permitida a realização de estágio não obrigatório pelos alunos como uma forma de aplicar e vivenciar os conhecimentos adquiridos em sala de aula. 
+O curso Técnico em Prótese Dentária tem como princípios norteadores da avaliação da aprendizagem os seguintes critérios:
 
-## **3.5.1. Prática Profissional: Estágio não Obrigatório** 
+1. A avaliação do aproveitamento dos alunos deverá ser formativa, portanto integral, processual e contínua. Os processos de avaliação serão divididos em Diagnóstica, Formativa e Somativa. A avaliação Diagnóstica envolverá descrição, atribuição de valor e julgamento acerca dos resultados apresentados pelos alunos em diferentes etapas do processo educativo e atende a diferentes objetivos, detectando o nível geral de conhecimento dos alunos, suas dificuldades e as medidas necessária para saná-las. A avaliação formativa ocorrerá durante o
 
-A prática profissional acontecerá mediante as atividades práticas que permeiam todo o curso, no entanto, como uma forma de propiciar uma convivência mais consistente com a área o aluno poderá integralizar ao seu currículo estágio não obrigatório, a fim de enriquecer sua formação. As normas encontram-se em anexo. 
+processo ensino-aprendizagem e será interna ao processo. Por fim a avaliação somativa possibilitará a avaliação dos objetivos pretendidos;
 
-## **3.6 Critérios de avaliação de aprendizagem** 
+2. Como instrumentos de avaliação poderão ser utilizados: atividades diagnósticas, individuais ou/e em equipe; trabalhos teórico-práticos produzidos e/ou aplicados individualmente ou em grupos (trabalhos projetos, relatórios, seminários etc.); portfólios; exercícios; avaliações ou outros instrumentos pertinentes que o professor julgue mais condizentes com os objetivos que serão traçados ao longo do processo de aprendizagem, com a finalidade de verificar se os objetivos dos componentes curriculares foram alcançados;
 
-A avaliação do processo de ensino aprendizagem segue a Portaria nº 120 de 06 de agosto de 2009/IFPR e demais normativas correlatas institucionais e a LDBEN nº 9394/96. No processo pedagógico, alunos e professores são sujeitos ativos e devem atuar de forma consciente, não apenas como parte do processo de conhecimento e aprendizagem, mais, sim, como seres humanos imersos numa cultura e que apresentam histórias particulares de vida. 
+3. As atividades de avaliação, realizadas pelo professor, além de identificar os alunos que não atingiram com proficiência os objetivos do bloco de conteúdos, fornecerão subsídios para a elaboração de um processo de reorientação da aprendizagem, que abrangerá estudos de recuperação;
 
-O curso Técnico em Prótese Dentária tem como princípios norteadores da avaliação da aprendizagem os seguintes critérios: 
+4. As avaliações e estudos de recuperação serão planejados e efetuados pelos professores e terão como princípio norteador a autonomia didáticometodológica para definir junto a sua área de conhecimento, qual metodologia e instrumentos avaliativos serão os mais adequados a serem utilizados;
 
-1. A avaliação do aproveitamento dos alunos deverá ser formativa, portanto integral, processual e contínua. Os processos de avaliação serão divididos em Diagnóstica, Formativa e Somativa. A avaliação Diagnóstica envolverá descrição, atribuição de valor e julgamento acerca dos resultados apresentados pelos alunos em diferentes etapas do processo educativo e atende a diferentes objetivos, detectando o nível geral de conhecimento dos alunos, suas dificuldades e as medidas necessária para saná-las. A avaliação formativa ocorrerá durante o 
-
-processo ensino-aprendizagem e será interna ao processo. Por fim a avaliação somativa possibilitará a avaliação dos objetivos pretendidos; 
-
-2. Como instrumentos de avaliação poderão ser utilizados: atividades diagnósticas, individuais ou/e em equipe; trabalhos teórico-práticos produzidos e/ou aplicados individualmente ou em grupos (trabalhos projetos, relatórios, seminários etc.); portfólios; exercícios; avaliações ou outros instrumentos pertinentes que o professor julgue mais condizentes com os objetivos que serão traçados ao longo do processo de aprendizagem, com a finalidade de verificar se os objetivos dos componentes curriculares foram alcançados; 
-
-3. As atividades de avaliação, realizadas pelo professor, além de identificar os alunos que não atingiram com proficiência os objetivos do bloco de conteúdos, fornecerão subsídios para a elaboração de um processo de reorientação da aprendizagem, que abrangerá estudos de recuperação; 
-
-4. As avaliações e estudos de recuperação serão planejados e efetuados pelos professores e terão como princípio norteador a autonomia didáticometodológica para definir junto a sua área de conhecimento, qual metodologia e instrumentos avaliativos serão os mais adequados a serem utilizados; 
-
-5. Os resultados parciais obtidos no processo de avaliação serão emitidos por disciplina e divulgados em edital, devendo ser expressos por conceitos, sendo: 
+5. Os resultados parciais obtidos no processo de avaliação serão emitidos por disciplina e divulgados em edital, devendo ser expressos por conceitos, sendo:
 
 |**CONCEITOS**||
 |---|---|
@@ -235,89 +226,87 @@ processo ensino-aprendizagem e será interna ao processo. Por fim a avaliação 
 |**D**<br>A<br>a<br>n|APRENDIZAGEM do aluno foi INSUFICIENTE, isto é, não<br>tingiu os objetivos propostos, inviabilizando o desenvolvimento<br>a disciplina ou área de conhecimento.|
 |||
 
+6. Serão considerados como critérios para a avaliação da aprendizagem: ▪ Habilidade nos procedimentos que envolvem aplicação de conhecimentos técnicos;
 
+▪ Comunicação escrita e/ou oral: habilidade discente de articulação, fundamentação, clareza e objetividade de ideias;
 
-6. Serão considerados como critérios para a avaliação da aprendizagem: ▪ Habilidade nos procedimentos que envolvem aplicação de conhecimentos técnicos; 
+▪ Interesse/dedicação: atitude discente primeira e indispensável para o aluno que tem a intenção de construir um conhecimento determinado, mediante a atenção e/ou concentração e esforço para acompanhar as atividades de aula, esclarecendo dúvidas, complementando, exemplificando;
 
-▪ Comunicação escrita e/ou oral: habilidade discente de articulação, fundamentação, clareza e objetividade de ideias; 
+▪ Participação: conduta discente ativa, como sujeito de reconstrução do conhecimento, mediante o registro das ideias desenvolvidas e/ou cumprimento das tarefas e/ou intervenções deduzidas e/ou questionamentos fundamentados; ▪ Pontualidade: atitude descente reveladora de compromisso com as responsabilidades escolares em que o aluno apresenta cumprimento dos horários e/ou tarefas propostas;
 
-▪ Interesse/dedicação: atitude discente primeira e indispensável para o aluno que tem a intenção de construir um conhecimento determinado, mediante a atenção e/ou concentração e esforço para acompanhar as atividades de aula, esclarecendo dúvidas, complementando, exemplificando; 
+▪ Solidariedade: conduta discente de atenção ao próximo e de preocupação coletiva, socialização de informações, experiências e conhecimentos que possam beneficiar o grupo, mediante disposição de partilhar conhecimentos já construídos e/ou disposição de acompanhar e orientar o desempenho escolar do companheiro.
 
-▪ Participação: conduta discente ativa, como sujeito de reconstrução do conhecimento, mediante o registro das ideias desenvolvidas e/ou cumprimento das tarefas e/ou intervenções deduzidas e/ou questionamentos fundamentados; ▪ Pontualidade: atitude descente reveladora de compromisso com as responsabilidades escolares em que o aluno apresenta cumprimento dos horários e/ou tarefas propostas; 
+▪ Frequência de, no mínimo, 75% (setenta e cinco por cento) do total da carga horária de cada período letivo.
 
-▪ Solidariedade: conduta discente de atenção ao próximo e de preocupação coletiva, socialização de informações, experiências e conhecimentos que possam beneficiar o grupo, mediante disposição de partilhar conhecimentos já construídos e/ou disposição de acompanhar e orientar o desempenho escolar do companheiro. 
+7. Os resultados obtidos durante o processo avaliativo deverão ser informados ao aluno e, caso haja deficiência na aprendizagem, o professor deverá orientar o aluno para que este avance em direção aos objetivos da avaliação previamente estabelecidos;
 
-▪ Frequência de, no mínimo, 75% (setenta e cinco por cento) do total da carga horária de cada período letivo. 
+8. No decorrer do período avaliativo serão oportunizados estudos de recuperação de aprendizagem, conforme Portaria 120/2009;
 
-7. Os resultados obtidos durante o processo avaliativo deverão ser informados ao aluno e, caso haja deficiência na aprendizagem, o professor deverá orientar o aluno para que este avance em direção aos objetivos da avaliação previamente estabelecidos; 
+9. O planejamento do processo de recuperação da aprendizagem é de responsabilidade do professor da componente curricular, devendo envolver a identificação das dificuldades apresentadas pelos alunos, a fim de que sejam selecionados os objetivos e as atividades que serão realizadas com o intuito de promover a aprendizagem dos mesmos;
 
-8. No decorrer do período avaliativo serão oportunizados estudos de recuperação de aprendizagem, conforme Portaria 120/2009; 
+10. No processo de recuperação da aprendizagem, o professor oportunizará atividades diversificadas, tais como roteiro de estudos, assessoria pedagógica (do
 
-9. O planejamento do processo de recuperação da aprendizagem é de responsabilidade do professor da componente curricular, devendo envolver a identificação das dificuldades apresentadas pelos alunos, a fim de que sejam selecionados os objetivos e as atividades que serão realizadas com o intuito de promover a aprendizagem dos mesmos; 
+professor em hora assistência), participação nos projetos de reforço e/ ou entre outras atividades que o professor sugerir. É de responsabilidade do aluno procurar o professor em seu horário de assistência, porém o professor terá autonomia de convocar o aluno caso julgue necessário.
 
-10. No processo de recuperação da aprendizagem, o professor oportunizará atividades diversificadas, tais como roteiro de estudos, assessoria pedagógica (do 
+## **3.7  Critérios de aproveitamento e procedimentos de avaliação de competências anteriormente desenvolvidas**
 
-professor em hora assistência), participação nos projetos de reforço e/ ou entre outras atividades que o professor sugerir. É de responsabilidade do aluno procurar o professor em seu horário de assistência, porém o professor terá autonomia de convocar o aluno caso julgue necessário. 
+No Curso Técnico em Prótese Dentária, o aproveitamento de estudos e a certificação de conhecimentos adquiridos por meio de experiências vivenciadas previamente ao início do curso ocorrerão conforme descrito a seguir:
 
-## **3.7  Critérios de aproveitamento e procedimentos de avaliação de competências anteriormente desenvolvidas** 
+## **Aproveitamento de Estudos** :
 
-No Curso Técnico em Prótese Dentária, o aproveitamento de estudos e a certificação de conhecimentos adquiridos por meio de experiências vivenciadas previamente ao início do curso ocorrerão conforme descrito a seguir: 
+O aluno poderá solicitar equivalência dos componentes curriculares que compreende a possibilidade de aproveitamento dos componentes curriculares cursados em outro curso de educação profissional técnica de nível médio e seguirá a Resolução 54/11-CONSUP/IFPR.
 
-## **Aproveitamento de Estudos** : 
+O pedido de aproveitamento de estudos deve ser protocolado na Secretaria Acadêmica do Câmpus, por meio de formulário próprio, respeitado o prazo estabelecido no calendário escolar, acompanhado de histórico escolar completo e atualizado da instituição de origem, da ementa e programa do componente curricular, vistados pela Instituição de ensino credenciada pelo MEC.
 
-O aluno poderá solicitar equivalência dos componentes curriculares que compreende a possibilidade de aproveitamento dos componentes curriculares cursados em outro curso de educação profissional técnica de nível médio e seguirá a Resolução 54/11-CONSUP/IFPR. 
+O pedido de aproveitamento de estudos deverá ser avaliado por Comissão de Análise composta de professores da área de conhecimento, seguindo tais critérios:
 
-O pedido de aproveitamento de estudos deve ser protocolado na Secretaria Acadêmica do Câmpus, por meio de formulário próprio, respeitado o prazo estabelecido no calendário escolar, acompanhado de histórico escolar completo e atualizado da instituição de origem, da ementa e programa do componente curricular, vistados pela Instituição de ensino credenciada pelo MEC. 
+• Correspondência entre as ementas, os programas e a carga horárias cursados na outra instituição e as do curso do IFPR. A carga horária cursada não deverá ser inferior a 75% daquela indicada no componente curiicular do curso do IFPR;
 
-O pedido de aproveitamento de estudos deverá ser avaliado por Comissão de Análise composta de professores da área de conhecimento, seguindo tais critérios: 
+• Além da correspondência entre os componentes curriculares, o processo de aproveitamento de estudos poderá envolver avaliação teórico e / ou prática acerca do conhecimento a ser aproveitado.
 
-• Correspondência entre as ementas, os programas e a carga horárias cursados na outra instituição e as do curso do IFPR. A carga horária cursada não deverá ser inferior a 75% daquela indicada no componente curiicular do curso do IFPR; 
+## **Certificação de Conhecimentos** :
 
-• Além da correspondência entre os componentes curriculares, o processo de aproveitamento de estudos poderá envolver avaliação teórico e / ou prática acerca do conhecimento a ser aproveitado. 
+A avaliação de conhecimentos/experiências adquiridos na educação profissional e tecnológica, inclusive no trabalho, poderá ser objeto de avaliação, reconhecimento e certificação, de acordo com a LDB 9394/96, a Resolução CNE/CEB N° 06/2012  e a Resolução 54/11-CONSUP/IFPR, para prosseguimento ou conclusão de estudos:
 
-## **Certificação de Conhecimentos** : 
+“Artigo 35 A avaliação da aprendizagem utilizada para fins de validação e aproveitamento de saberes profissionais desenvolvidos em experiências de trabalho ou de estudos formais e não formais, deve ser propiciada pelos sistemas de ensino como uma forma de valorização da experiência extraescolar dos educandos, objetivando a continuidade de estudos segundo itinerários formativos coerentes com os históricos profissionais dos cidadão
 
-A avaliação de conhecimentos/experiências adquiridos na educação profissional e tecnológica, inclusive no trabalho, poderá ser objeto de avaliação, reconhecimento e certificação, de acordo com a LDB 9394/96, a Resolução CNE/CEB N° 06/2012  e a Resolução 54/11-CONSUP/IFPR, para prosseguimento ou conclusão de estudos: 
+§ 1º Os sistemas de ensino devem elaborar diretrizes metodológicas para avaliação e validação dos saberes profissionais desenvolvidos pelos estudantes em seu itinerário profissional e de vida, para fins de prosseguimento de estudos ou de reconhecimento dos saberes avaliados e validados, para fins de certificação profissional, de acordo com o correspondente perfil profissional de conclusão do respectivo curso técnico de nível médio.
 
-“Artigo 35 A avaliação da aprendizagem utilizada para fins de validação e aproveitamento de saberes profissionais desenvolvidos em experiências de trabalho ou de estudos formais e não formais, deve ser propiciada pelos sistemas de ensino como uma forma de valorização da experiência extraescolar dos educandos, objetivando a continuidade de estudos segundo itinerários formativos coerentes com os históricos profissionais dos cidadão 
+§ 2º Os sistemas de ensino devem, respeitadas as condições de cada instituição educacional, oferecer oportunidades de complementação de estudos, visando a suprir eventuais insuficiências formativas constatadas na avaliação.
 
-§ 1º Os sistemas de ensino devem elaborar diretrizes metodológicas para avaliação e validação dos saberes profissionais desenvolvidos pelos estudantes em seu itinerário profissional e de vida, para fins de prosseguimento de estudos ou de reconhecimento dos saberes avaliados e validados, para fins de certificação profissional, de acordo com o correspondente perfil profissional de conclusão do respectivo curso técnico de nível médio. 
+Artigo 36 Para prosseguimento de estudos, a instituição de ensino pode promover o aproveitamento de conhecimentos e experiências anteriores do estudante, desde que diretamente relacionados com o perfil profissional de conclusão da respectiva qualificação ou habilitação profissional, que tenham sido desenvolvidos:
 
-§ 2º Os sistemas de ensino devem, respeitadas as condições de cada instituição educacional, oferecer oportunidades de complementação de estudos, visando a suprir eventuais insuficiências formativas constatadas na avaliação. 
+I- em qualificações profissionais e etapas ou módulos de nível técnico regularmente concluído em outros cursos de Educação Profissional Técnica de Nível Médio;
 
-Artigo 36 Para prosseguimento de estudos, a instituição de ensino pode promover o aproveitamento de conhecimentos e experiências anteriores do estudante, desde que diretamente relacionados com o perfil profissional de conclusão da respectiva qualificação ou habilitação profissional, que tenham sido desenvolvidos: 
+II-em cursos destinados à formação inicial e continuada ou qualificação profissional de, no mínimo, 160 horas de duração, mediante avaliação do estudante;
 
-I- em qualificações profissionais e etapas ou módulos de nível técnico regularmente concluído em outros cursos de Educação Profissional Técnica de Nível Médio; 
+III-em outros cursos de Educação Profissional e Tecnológica, inclusive no trabalho, por outros meios informais ou até mesmo em cursos superiores de graduação, mediante avaliação do estudante;
 
-II-em cursos destinados à formação inicial e continuada ou qualificação profissional de, no mínimo, 160 horas de duração, mediante avaliação do estudante; 
+IV-por reconhecimento, em processos formais de certificação profissional, realizado em instituição devidamente credenciada pelo órgão normativo do respectivo sistema de ensino ou no âmbito de sistemas nacionais de certificação profissional”.
 
-III-em outros cursos de Educação Profissional e Tecnológica, inclusive no trabalho, por outros meios informais ou até mesmo em cursos superiores de graduação, mediante avaliação do estudante; 
+## **3.8  Instalações e equipamentos, recursos tecnológicos e biblioteca**
 
-IV-por reconhecimento, em processos formais de certificação profissional, realizado em instituição devidamente credenciada pelo órgão normativo do respectivo sistema de ensino ou no âmbito de sistemas nacionais de certificação profissional”. 
+Deverão compor o quadro de instalações, equipamentos e corpo docentes necessários para a realização do curso:
 
-## **3.8  Instalações e equipamentos, recursos tecnológicos e biblioteca** 
+- a. Sala de Audiovisual;
 
-Deverão compor o quadro de instalações, equipamentos e corpo docentes necessários para a realização do curso: 
+- b. Salas de Aula;
 
-- a. Sala de Audiovisual; 
+- c. Laboratório de Informática com Programas Específicos;
 
-- b. Salas de Aula; 
+- d. Biblioteca com acervo específico e atualizado;
 
-- c. Laboratório de Informática com Programas Específicos; 
+- e. Laboratórios de confecção, construção e finalização de trabalhos Protéticos.
 
-- d. Biblioteca com acervo específico e atualizado; 
+- O curso técnico de prótese dentária está dividido com três laboratórios, cada um equipados com bancadas específicas para laboratório de prótese dentária e cadeiras com encosto para 35 alunos, fornos de cerâmica, equipamento para fundição de peças protéticas por indução, motores para polimento de peças protéticas, motores de bancada, recortadores e vibradores de gesso, prensas hidráulicas, micro-ondas, microscópio, vibrador de gesso, espatulador de gesso à vácuo, eliminador de bolhas, balanças de precisão, armários para estocagem de material, ar condicionado, projetor multimídia, quadro branco, mural de aviso e kit de primeiros socorros.
 
-- e. Laboratórios de confecção, construção e finalização de trabalhos Protéticos. 
+## Materiais solicitados aos estudantes para uso individual:
 
-- O curso técnico de prótese dentária está dividido com três laboratórios, cada um equipados com bancadas específicas para laboratório de prótese dentária e cadeiras com encosto para 35 alunos, fornos de cerâmica, equipamento para fundição de peças protéticas por indução, motores para polimento de peças protéticas, motores de bancada, recortadores e vibradores de gesso, prensas hidráulicas, micro-ondas, microscópio, vibrador de gesso, espatulador de gesso à vácuo, eliminador de bolhas, balanças de precisão, armários para estocagem de material, ar condicionado, projetor multimídia, quadro branco, mural de aviso e kit de primeiros socorros. 
+- Instrumental individual (Espátulas 24, 36, 7, 1, hollen Back, 3, 3s, lecron, pincel para aplicação de cerâmica, placa de vidro, potes dappen, alicates para ortodontia).
 
-## Materiais solicitados aos estudantes para uso individual: 
+- Articulador Semi-ajustável.
 
-- Instrumental individual (Espátulas 24, 36, 7, 1, hollen Back, 3, 3s, lecron, pincel para aplicação de cerâmica, placa de vidro, potes dappen, alicates para ortodontia). 
-
-- Articulador Semi-ajustável. 
-
-## **3.9 Pessoas Envolvidas – docentes e técnicos** 
+## **3.9 Pessoas Envolvidas – docentes e técnicos**
 
 |**TÉCNICOS**|**FUNÇÃO**|**REGIME DE**<br>**TRABALHO**|
 |---|---|---|
@@ -328,9 +317,7 @@ Deverão compor o quadro de instalações, equipamentos e corpo docentes necess�
 |Elisabete Cristina Pereira Eches|Pedagoga e Coordenadora<br>do NAPNE|40 horas|
 |Renata Pacheco de Abreu|Assistente Social|40 horas|
 
-
-
-## **Corpo docente:** 
+## **Corpo docente:**
 
 |Nome|Regime de<br>Trabalho|Qualificação|Área de<br>Formação|
 |---|---|---|---|
@@ -340,41 +327,39 @@ Deverão compor o quadro de instalações, equipamentos e corpo docentes necess�
 |Manoel<br>Martin<br>Júnior|40 horas|Doutor|Odontologia|
 |Karen Archangelo<br>Perdigão|Dedicação<br>Exclusiva|Mestre|Odontologia|
 
+## **3.10 Descrição de diplomas e certificados a serem expedidos**
 
+Após a integralização dos componentes curriculares que compõem a matriz curricular do curso técnico de nível médio na forma subsequente, será conferido ao concluinte do curso o Diploma de Técnico em Prótese Dentária, do Eixo Tecnológico Ambiente e Saúde.
 
-## **3.10 Descrição de diplomas e certificados a serem expedidos** 
+## **3.11 Organização Curricular**
 
-Após a integralização dos componentes curriculares que compõem a matriz curricular do curso técnico de nível médio na forma subsequente, será conferido ao concluinte do curso o Diploma de Técnico em Prótese Dentária, do Eixo Tecnológico Ambiente e Saúde. 
+A prática pedagógica orienta-se por uma pedagogia fundamentada numa concepção crítica das relações existentes entre educação, sociedade e trabalho, respeita conhecimentos e experiências dos participantes e pauta-se no princípio ação-reflexão-ação, na perspectiva da Pedagogia histórico-crítica (SAVIANI, 2008).
 
-## **3.11 Organização Curricular** 
+O currículo do Curso Técnico de Prótese Dentária proporcionará aos
 
-A prática pedagógica orienta-se por uma pedagogia fundamentada numa concepção crítica das relações existentes entre educação, sociedade e trabalho, respeita conhecimentos e experiências dos participantes e pauta-se no princípio ação-reflexão-ação, na perspectiva da Pedagogia histórico-crítica (SAVIANI, 2008). 
+estudantes:
 
-O currículo do Curso Técnico de Prótese Dentária proporcionará aos 
+I - Diálogo com diversos campos do trabalho em saúde, da ciência, da tecnologia e da cultura como referências fundamentais de sua formação; II - Elementos para compreender e discutir as relações sociais de produção e de trabalho em odontologia;
 
-estudantes: 
+III - Recursos para exercer sua profissão com competência, idoneidade intelectual e tecnológica, autonomia e responsabilidade, orientados por princípios éticos, estéticos e políticos, bem como compromissos com a construção de uma sociedade democrática;
 
-I - Diálogo com diversos campos do trabalho em saúde, da ciência, da tecnologia e da cultura como referências fundamentais de sua formação; II - Elementos para compreender e discutir as relações sociais de produção e de trabalho em odontologia; 
+IV - Domínio intelectual das tecnologias pertinentes ao eixo tecnológico do curso, de modo a permitir progressivo desenvolvimento profissional e capacidade de construir novos conhecimentos e desenvolver novas competências profissionais com autonomia intelectual;
 
-III - Recursos para exercer sua profissão com competência, idoneidade intelectual e tecnológica, autonomia e responsabilidade, orientados por princípios éticos, estéticos e políticos, bem como compromissos com a construção de uma sociedade democrática; 
+V - Instrumentais da habilitação Técnica em Prótese Dentária, por meio da vivência de diferentes situações práticas de estudo e de trabalho;
 
-IV - Domínio intelectual das tecnologias pertinentes ao eixo tecnológico do curso, de modo a permitir progressivo desenvolvimento profissional e capacidade de construir novos conhecimentos e desenvolver novas competências profissionais com autonomia intelectual; 
+VI - fundamentos de empreendedorismo, cooperativismo, tecnologia da informação, legislação trabalhista, ética profissional, segurança do trabalho, gestão de pessoas e iniciação científica.
 
-V - Instrumentais da habilitação Técnica em Prótese Dentária, por meio da vivência de diferentes situações práticas de estudo e de trabalho; 
+A fim de viabilizar e esta proposta de currículo, as estratégias serão utilizadas são relacionadas abaixo.
 
-VI - fundamentos de empreendedorismo, cooperativismo, tecnologia da informação, legislação trabalhista, ética profissional, segurança do trabalho, gestão de pessoas e iniciação científica. 
+Os componentes curriculares serão desenvolvidos integralmente de forma teórico-prática, com a condução coletiva de vários professores simultaneamente em cada um dos componentes curriculares. As atividades não presenciais serão realizadas conforme o Capítulo III, Duração dos Cursos, da Resolução 06 de 20 de setembro de 2012, CNE/CEB, que define as Diretrizes Curriculares Nacionais para a Educação Profissional Técnica de Nível Médio, em seu Parágrafo único. “Respeitados os mínimos previstos de duração e carga horária total, o plano de curso técnico de nível médio pode prever atividades não presenciais, até 20% (vinte por cento) da carga horária diária do curso, desde que haja suporte tecnológico e seja garantido o atendimento por docentes e tutores”. Assim, este Plano de Curso prevê a utilização de até dez por cento da carga horária diária do curso para a realização de atividades não presenciais por meio de ferramentas digitais que disponibilizarão aos discentes tanto os instrumentos eletrônicos na forma de planilhas, exercícios, estudo dirigido e avaliações, quanto o suporte remoto ou orientação do docente por meio da internet e TIC, tecnologias de informação e comunicação. Assim, diferentes situações de vivência e aprendizagem, como experimentos, investigação, simulações e intervenção, bem como outras ações pedagógicas, serão subsidiadas por meio desta tecnologia nos momentos não presenciais. Estas atividades serão realizadas nos seguintes componentes curriculares: Organização do Processo do Trabalho em Prótese Dentária/ Supervisão e Capacitação de Pessoal Auxiliar; Biossegurança; Introdução ao Trabalho de Conclusão de Curso (Tcc) e Ética Profissional.
 
-A fim de viabilizar e esta proposta de currículo, as estratégias serão utilizadas são relacionadas abaixo. 
+Toda experiência adquirida com as atividades não presenciais e presenciais serão consolidadas na forma de trabalho de conclusão de curso - TCC, cuja execução e avaliação estão vinculadas ao componente curricular.
 
-Os componentes curriculares serão desenvolvidos integralmente de forma teórico-prática, com a condução coletiva de vários professores simultaneamente em cada um dos componentes curriculares. As atividades não presenciais serão realizadas conforme o Capítulo III, Duração dos Cursos, da Resolução 06 de 20 de setembro de 2012, CNE/CEB, que define as Diretrizes Curriculares Nacionais para a Educação Profissional Técnica de Nível Médio, em seu Parágrafo único. “Respeitados os mínimos previstos de duração e carga horária total, o plano de curso técnico de nível médio pode prever atividades não presenciais, até 20% (vinte por cento) da carga horária diária do curso, desde que haja suporte tecnológico e seja garantido o atendimento por docentes e tutores”. Assim, este Plano de Curso prevê a utilização de até dez por cento da carga horária diária do curso para a realização de atividades não presenciais por meio de ferramentas digitais que disponibilizarão aos discentes tanto os instrumentos eletrônicos na forma de planilhas, exercícios, estudo dirigido e avaliações, quanto o suporte remoto ou orientação do docente por meio da internet e TIC, tecnologias de informação e comunicação. Assim, diferentes situações de vivência e aprendizagem, como experimentos, investigação, simulações e intervenção, bem como outras ações pedagógicas, serão subsidiadas por meio desta tecnologia nos momentos não presenciais. Estas atividades serão realizadas nos seguintes componentes curriculares: Organização do Processo do Trabalho em Prótese Dentária/ Supervisão e Capacitação de Pessoal Auxiliar; Biossegurança; Introdução ao Trabalho de Conclusão de Curso (Tcc) e Ética Profissional. 
+O componente curricular Ética Profissional irá subsidiar a abordagem relacionada à promoção da igualdade social, étnica, racial e os direitos humanos; educação alimentar e nutricional; processo de envelhecimento, respeito e valorização ao idoso; educação ambiental e educação para o trânsito, à fim de contemplar a legislação pertinente a estes temas, Leis 10.639/2003 e 11.645/2008 (BRASIL, 2003; BRASIL, 2008a), **em todos os componentes curriculares envolvidos no curso técnico em prótese dentária** , através de oficinas e seminários.
 
-Toda experiência adquirida com as atividades não presenciais e presenciais serão consolidadas na forma de trabalho de conclusão de curso - TCC, cuja execução e avaliação estão vinculadas ao componente curricular. 
+A organização curricular da habilitação em _**TÉCNICO EM PRÓTESE DENTÁRIA**_ (TPD) prevê quatro módulos, um por semestre, com duração total de dois anos.
 
-O componente curricular Ética Profissional irá subsidiar a abordagem relacionada à promoção da igualdade social, étnica, racial e os direitos humanos; educação alimentar e nutricional; processo de envelhecimento, respeito e valorização ao idoso; educação ambiental e educação para o trânsito, à fim de contemplar a legislação pertinente a estes temas, Leis 10.639/2003 e 11.645/2008 (BRASIL, 2003; BRASIL, 2008a), **em todos os componentes curriculares envolvidos no curso técnico em prótese dentária** , através de oficinas e seminários. 
-
-A organização curricular da habilitação em _**TÉCNICO EM PRÓTESE DENTÁRIA**_ (TPD) prevê quatro módulos, um por semestre, com duração total de dois anos. 
-
-## **MATRIZ CURRICULAR** 
+## **MATRIZ CURRICULAR**
 
 ||**MATRIZ CURRICULAR**||
 |---|---|---|
@@ -393,8 +378,6 @@ A organização curricular da habilitação em _**TÉCNICO EM PRÓTESE DENTÁRIA
 |Confecção de Prótese Total|141 horas|15 aulas<br>semanais|
 |**TOTAL**|306 horas||
 
-
-
 ||**MATRIZ CURRICULAR**||
 |---|---|---|
 |**PERÍODO LETIVO**|**2º SEMESTRE / 2º MÓDULO**||
@@ -405,8 +388,6 @@ A organização curricular da habilitação em _**TÉCNICO EM PRÓTESE DENTÁRIA
 |Enceramento<br>e<br>Escultura Dental|<br>147 horas|15 aulas<br>semanais|
 |Introdução<br>Prótese<br>Parcial<br>Fixa<br>I<br>(Introdução, núcleos e<br>provisórios)|<br> <br> <br>147 horas|15 aulas<br>semanais|
 |**TOTAL**|294 horas||
-
-
 
 ||**MATRIZ CURRICULAR**||
 |---|---|---|
@@ -422,9 +403,7 @@ A organização curricular da habilitação em _**TÉCNICO EM PRÓTESE DENTÁRIA
 |Prótese Parcial Fixa II<br>(Soldagem)|3 horas|03 aulas<br>semanais|
 |**TOTAL**|306 horas||
 
-
-
-## **MATRIZ CURRICULAR** 
+## **MATRIZ CURRICULAR**
 
 |**PERÍODO LETIVO**|**4º SEMESTRE / 4º MÓDULO**||
 |---|---|---|
@@ -438,41 +417,39 @@ A organização curricular da habilitação em _**TÉCNICO EM PRÓTESE DENTÁRIA
 |**TOTAL**|294 horas||
 |**CARGA TOTAL DO**<br>**CURSO**|**1.200 horas**||
 
+## **3.12 Programa do curso**
 
+## **3.12.1 COMPONENTES CURRICULARES**
 
-## **3.12 Programa do curso** 
+**Organização do Processo do Trabalho em Prótese Dentária/ Supervisão e Capacitação de Pessoal Auxiliar Componente Curricular: Período Carga Horária: 1º SEMESTRE / 1º MÓDULO** Horas-aulas: 09 horas       Horas-relógio: 09 horas **letivo: 09 horas OBJETIVOS**
 
-## **3.12.1 COMPONENTES CURRICULARES** 
+- Avaliar as condições físicas e de funcionamento do laboratório de prótese odontológica propondo medidas para a adequação do espaço físico.
 
-**Organização do Processo do Trabalho em Prótese Dentária/ Supervisão e Capacitação de Pessoal Auxiliar Componente Curricular: Período Carga Horária: 1º SEMESTRE / 1º MÓDULO** Horas-aulas: 09 horas       Horas-relógio: 09 horas **letivo: 09 horas OBJETIVOS** 
+- Acompanhar a execução de projetos de construção e reforma da estrutura física do laboratório de prótese odontológica.
 
-- Avaliar as condições físicas e de funcionamento do laboratório de prótese odontológica propondo medidas para a adequação do espaço físico. 
+**Bases Tecnológicas (Ementa)**
 
-- Acompanhar a execução de projetos de construção e reforma da estrutura física do laboratório de prótese odontológica. 
+- Métodos para a estocagem de materiais.
 
-**Bases Tecnológicas (Ementa)** 
+- Validade dos materiais.
 
-- Métodos para a estocagem de materiais. 
+- Seleção dos materiais, equipamentos e instrumental a serem utilizados na produção de aparelhos e dispositivos protéticos. - Técnicas de observação sistemática do desempenho da equipe do laboratório de prótese odontológica.
 
-- Validade dos materiais. 
+- Cálculo dos custos da produção de aparelhos e dispositivos protéticos. Adequar a estrutura física do laboratório de prótese odontológica com o dimensionamento quantitativo e qualitativo da clientela.
 
-- Seleção dos materiais, equipamentos e instrumental a serem utilizados na produção de aparelhos e dispositivos protéticos. - Técnicas de observação sistemática do desempenho da equipe do laboratório de prótese odontológica. 
+- Fluxos operacionais segundo o encadeamento do processo de trabalho e critérios higiênico-sanitária.
 
-- Cálculo dos custos da produção de aparelhos e dispositivos protéticos. Adequar a estrutura física do laboratório de prótese odontológica com o dimensionamento quantitativo e qualitativo da clientela. 
+- Normas de saúde ocupacional no planejamento da estrutura física do laboratório de prótese odontológica.
 
-- Fluxos operacionais segundo o encadeamento do processo de trabalho e critérios higiênico-sanitária. 
+- Dimensionar o instrumental e os equipamentos de acordo com a utilização prevista no planejamento.
 
-- Normas de saúde ocupacional no planejamento da estrutura física do laboratório de prótese odontológica. 
+- Finalidades e as formas de utilização dos diferentes equipamentos e instrumental.
 
-- Dimensionar o instrumental e os equipamentos de acordo com a utilização prevista no planejamento. 
+- Ferramentas básicas de informática no ambiente de trabalho e na vida cotidiana.
 
-- Finalidades e as formas de utilização dos diferentes equipamentos e instrumental. 
+- Identificação da necessidade de pessoal para o funcionamento do laboratório de prótese odontológica.
 
-- Ferramentas básicas de informática no ambiente de trabalho e na vida cotidiana. 
-
-- Identificação da necessidade de pessoal para o funcionamento do laboratório de prótese odontológica. 
-
-## **Bibliografia Básica** 
+## **Bibliografia Básica**
 
 |- Ferramentas básicas de informática no ambiente de trabalho e na vida cotidiana.<br>- Identificação da necessidade de pessoal para o funcionamento do laboratório de prótese odontológica.|- Ferramentas básicas de informática no ambiente de trabalho e na vida cotidiana.<br>- Identificação da necessidade de pessoal para o funcionamento do laboratório de prótese odontológica.|- Ferramentas básicas de informática no ambiente de trabalho e na vida cotidiana.<br>- Identificação da necessidade de pessoal para o funcionamento do laboratório de prótese odontológica.|- Ferramentas básicas de informática no ambiente de trabalho e na vida cotidiana.<br>- Identificação da necessidade de pessoal para o funcionamento do laboratório de prótese odontológica.|- Ferramentas básicas de informática no ambiente de trabalho e na vida cotidiana.<br>- Identificação da necessidade de pessoal para o funcionamento do laboratório de prótese odontológica.|- Ferramentas básicas de informática no ambiente de trabalho e na vida cotidiana.<br>- Identificação da necessidade de pessoal para o funcionamento do laboratório de prótese odontológica.|- Ferramentas básicas de informática no ambiente de trabalho e na vida cotidiana.<br>- Identificação da necessidade de pessoal para o funcionamento do laboratório de prótese odontológica.|
 |---|---|---|---|---|---|---|
@@ -486,8 +463,6 @@ A organização curricular da habilitação em _**TÉCNICO EM PRÓTESE DENTÁRIA
 |Phillips Materiais Dentários|ANUSAVICE, K.J; SHEN, C;<br>RAWLS,H.H.|12 ed.|Rio de Janeiro|Elsevier|2013||
 |Introdução à Informática|BARRIVIERA, R.; OLIVEIRA, E. D.||Curitiba|Livro<br>Técnico|2012|152p<br>.|
 
-
-
 |**Componente**<br>**Curricular:**|**Biossegurança**|**Biossegurança**|**Biossegurança**|**Biossegurança**|**Biossegurança**|**Biossegurança**|**Biossegurança**|**Biossegurança**|**Biossegurança**|
 |---|---|---|---|---|---|---|---|---|---|
 |**Período**<br>**letivo:**|**1º SEMESTRE / 1º MÓDULO**||**Carga Horária:**<br>**06 horas**||Horas-aulas: 06 horas        Horas-relógio: 06 horas|||||
@@ -496,9 +471,6 @@ A organização curricular da habilitação em _**TÉCNICO EM PRÓTESE DENTÁRIA
 |||**Bibliografia Básica**||||||||
 |Título||Autor||Edição||Local|Editora|Ano|LT|
 
-
-
-||||||||||
 |---|---|---|---|---|---|---|---|---|
 ||Biossegurança Em Odontologia<br>Em Ambientes De Saúde|RIBEIRO, MARIANGELA CAGNONI;<br>SILVA, ALMENARA DE SOUZA|. 2ª<br>Edição||ICONE|2009|||
 |||FONSECA; RISSO, MARINES.|||||||
@@ -517,9 +489,6 @@ A organização curricular da habilitação em _**TÉCNICO EM PRÓTESE DENTÁRIA
 ||Serviços Odontológicos.||||||||
 ||Prevenção e controle de riscos.|||Brasília|ANVISA||||
 ||Tecnologia em serviços de saúde|||||2006|||
-||||||||||
-
-
 
 |**Componente**<br>**Curricular:**|**Informática Instrumental**|**Informática Instrumental**|**Informática Instrumental**|**Informática Instrumental**|**Informática Instrumental**|**Informática Instrumental**|**Informática Instrumental**|**Informática Instrumental**|**Informática Instrumental**|
 |---|---|---|---|---|---|---|---|---|---|
@@ -529,83 +498,64 @@ A organização curricular da habilitação em _**TÉCNICO EM PRÓTESE DENTÁRIA
 |**Bibliografia Básica**||||||||||
 |Título||Autor||Edição||Local|Editora|Ano|LT|
 
+Título Autor Edição Local Editora Ano LT
 
-
-Título Autor Edição Local Editora Ano LT 
-
-||||||||
 |---|---|---|---|---|---|---|
 |Estudo dirigido de informática<br>básica|MANZANO, André Luiz; MANZANO,<br>Maria Isabel N.G.|7. ed.<br>rev.<br>atual.<br>ampl|São Paulo|Érica|2007||
 |Informática: conceitos básicos|VELLOSO, Fernando de Castro|8. ed|Rio de<br>Janeiro|Campus|2011||
 |Sistemas operacionais|LAUREANO, Marcos Aurelio Pchek;<br>OLSEN, Diogo Roberto|Editora<br>do<br>Livro<br>Técnic<br>o, 2010|Curitiba|Editora do<br>Livro<br>Técnico,<br>2010|2010||
 ||**Bibliografia Complementar**||||||
 |Guia prático de aplicação|MANZANO, José Augusto N. G.<br>BrOffice|Editora<br>do<br>Livro<br>Técnic<br>o|São Paulo|Érica|2010||
-||||||||
 |Hardware|SCHIAVONI, Marilene|Editora<br>do<br>Livro<br>Técnic<br>o|Curitiba||2010||
 |Introdução à Informática|BARRIVIERA, R.; OLIVEIRA, E. D.||Curitiba|Livro<br>Técnico|2012|152p<br>.|
 
+**Componente Confecção dos Modelos em Gesso Curricular: Período Carga Horária: 1º SEMESTRE / 1º MÓDULO** Horas-aulas: 42 horas           Horas-relógio: 42 horas **letivo: 42 horas**
 
+## **OBJETIVOS**
 
-**Componente Confecção dos Modelos em Gesso Curricular: Período Carga Horária: 1º SEMESTRE / 1º MÓDULO** Horas-aulas: 42 horas           Horas-relógio: 42 horas **letivo: 42 horas** 
+- Conhecer as técnicas de moldagem e construção de modelos odontológicos.
 
-## **OBJETIVOS** 
+- Identificar e caracterizar os materiais, instrumentais e equipamentos necessários à moldagem e confecção de modelos.
 
-- Conhecer as técnicas de moldagem e construção de modelos odontológicos. 
+- Selecionar a técnica de utilização adequada às possibilidades e limites dos diferentes materiais, equipamentos e instrumentais.
 
-- Identificar e caracterizar os materiais, instrumentais e equipamentos necessários à moldagem e confecção de modelos. 
+- Construir modelos de gesso para diferentes finalidades.
 
-- Selecionar a técnica de utilização adequada às possibilidades e limites dos diferentes materiais, equipamentos e instrumentais. 
+## **Bases Tecnológicas (Ementa)**
 
-- Construir modelos de gesso para diferentes finalidades. 
+- Materiais, instrumentais e equipamentos adequados à moldagem e confecção de modelos odontológicos.
 
-## **Bases Tecnológicas (Ementa)** 
+- Técnicas de vazamento de modelos de estudo e de trabalho.
 
-- Materiais, instrumentais e equipamentos adequados à moldagem e confecção de modelos odontológicos. 
+- Classificação, manipulação, tipos e propriedades físicas e mecânicas dos materiais de moldagem.
 
-- Técnicas de vazamento de modelos de estudo e de trabalho. 
+- Técnicas de moldagem nas diversas áreas.
 
-- Classificação, manipulação, tipos e propriedades físicas e mecânicas dos materiais de moldagem. 
+- Tratamento e cuidados do molde.
 
-- Técnicas de moldagem nas diversas áreas. 
+- Métodos e técnicas de construção de modelos de estudo.
 
-- Tratamento e cuidados do molde. 
+- Métodos e técnicas de constrição de modelos para prótese total.
 
-- Métodos e técnicas de construção de modelos de estudo. 
+- Classificação, manipulação, tipos e propriedades físicas e mecânicas do gesso.
 
-- Métodos e técnicas de constrição de modelos para prótese total. 
-
-- Classificação, manipulação, tipos e propriedades físicas e mecânicas do gesso. 
-
-||||||||
 |---|---|---|---|---|---|---|
 ||**Bibliografia Básica**||||||
 |Título|Autor|Edição|Local|Editora|Ano|LT|
-
-
 
 |Prótese Dentária – Princípios<br>fundamentais, técnicas<br>laboratoriais.|ASSAOKA, S.K.; CESAR, E.A.;<br>OLIVEIRA, F.J.|2ª<br>Edição|São<br>Paulo|Napoleão<br>Editora|2012||
 |---|---|---|---|---|---|---|
 |Prótese Total Passo a Passo.|CORRÊA, G.A.|1ª<br>Edição|São Paulo|Ed. Santos|2005||
 |Prótese Total – Convencional e<br>sobre Implantes.|TELLES, D|1ª<br>Edição|São Paulo|Ed. Santos|2009||
 
-
-
-||||||||
 |---|---|---|---|---|---|---|
 ||**Bibliografia Complementar**||||||
 |Materiais Dentários<br>Restauradores.|CRAIG, R.G.; POWERS, J.M|11a<br>Edição|São Paulo|Ed. Santos|2004||
 |Phillips - Materiais Dentários|ANUSAVICE, Kenneth J.|11ª<br>Edição||Elsevier|2005||
 |Prótese total: manual de fases<br>clínicas e laboratoriais|GALATI, Ademir.|2ª<br>Edição||Senac|2008||
 
+Componente<br>Anatomia Dentária<br>Curricular:<br>Período  Carga Horária:<br>1º SEMESTRE / 1º MÓDULO Horas-aulas: 21 horas        Horas-relógio: 21 horas<br>letivo:  21 horas<br>OBJETIVOS<br>- Conhecer os elementos anatômicos da cabeça e do pescoço de interesse para a prótese dentária.<br>- Conhecer os elementos anatômicos dos dentes decíduos e permanentes.<br>- Conhecer a nomenclatura da morfologia dental.<br>- Conhecer a classificação e a função dinâmica dos dentes e maxilares.<br>- Conhecer e distinguir a morfologia geral e específica de cada dente e do periodonto.<br>Bases Tecnológicas (Ementa)<br>- Ossos do crânio e da face.<br>- Músculos da mastigação.<br>- Componentes anatômicos da ATM.<br>- Relação intermaxilar.<br>- Registro intermaxilar.<br>- Anatomia e morfologia dental e periodontal.<br>- Classificação e função dos dentes.<br>- Nomenclatura e notação dentária.<br>Bibliografia Básica<br>Título  Autor  Edição  Local  Editora  Ano  LT<br>
 
-
-**==> picture [842 x 596] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Componente<br>Anatomia Dentária<br>Curricular:<br>Período  Carga Horária:<br>1º SEMESTRE / 1º MÓDULO Horas-aulas: 21 horas        Horas-relógio: 21 horas<br>letivo:  21 horas<br>OBJETIVOS<br>- Conhecer os elementos anatômicos da cabeça e do pescoço de interesse para a prótese dentária.<br>- Conhecer os elementos anatômicos dos dentes decíduos e permanentes.<br>- Conhecer a nomenclatura da morfologia dental.<br>- Conhecer a classificação e a função dinâmica dos dentes e maxilares.<br>- Conhecer e distinguir a morfologia geral e específica de cada dente e do periodonto.<br>Bases Tecnológicas (Ementa)<br>- Ossos do crânio e da face.<br>- Músculos da mastigação.<br>- Componentes anatômicos da ATM.<br>- Relação intermaxilar.<br>- Registro intermaxilar.<br>- Anatomia e morfologia dental e periodontal.<br>- Classificação e função dos dentes.<br>- Nomenclatura e notação dentária.<br>Bibliografia Básica<br>Título  Autor  Edição  Local  Editora  Ano  LT<br>**----- End of picture text -----**<br>
-
-
-||||||||||
 |---|---|---|---|---|---|---|---|---|
 ||Disfunções e desordens<br>temporomandibulres|SOLBERG, WiliamK.||São Paulo|Santos|1989|||
 ||Oclusão Clínica: atlas colorido|SANTOS, Júnior, José dos||São Paulo|Santos|1995|||
@@ -618,9 +568,6 @@ Componente<br>Anatomia Dentária<br>Curricular:<br>Período  Carga Horária:<br>
 ||Prótese fixa|PEGORARO, Luiz Fernando||São Paulo|Artes|1998|||
 ||||||Médicas||||
 ||Atlas de anatomia Humana|KAHLE, Werner|3°|Rio de Janeiro|Atheneu|1988|||
-||||||||||
-
-
 
 |**Componente**<br>**Curricular:**|**Enceramento Regressivo**|**Enceramento Regressivo**|**Enceramento Regressivo**|**Enceramento Regressivo**|**Enceramento Regressivo**|**Enceramento Regressivo**|**Enceramento Regressivo**|**Enceramento Regressivo**|**Enceramento Regressivo**|
 |---|---|---|---|---|---|---|---|---|---|
@@ -634,9 +581,6 @@ Componente<br>Anatomia Dentária<br>Curricular:<br>Período  Carga Horária:<br>
 |Anatomia do Dente||MADEIRA, M.C||||São Paulo|Sarvier|1996||
 |**Bibliografia Complementar**||||||||||
 
-
-
-||||||||||
 |---|---|---|---|---|---|---|---|---|
 ||Escultura Dental - Fundamentos e|CAMARGO, Denise Arliane|||Ed. Univali|2011|||
 ||Técnicas Aplicadas à|Amarante;  KOSMANN,|||||||
@@ -646,9 +590,6 @@ Componente<br>Anatomia Dentária<br>Curricular:<br>Período  Carga Horária:<br>
 ||Dental||||||||
 ||Oclusão Dentária - Princípios e|MARCHINI, Leonardo;  SANTOS,|1ª||Elsevier|2012|||
 ||Prática Clínica|Jarbas Francisco F.|Edição||||||
-||||||||||
-
-
 
 |**Componente**<br>**Curricular:**|**Introdução à Prótese Total**|**Introdução à Prótese Total**|**Introdução à Prótese Total**|**Introdução à Prótese Total**|**Introdução à Prótese Total**|**Introdução à Prótese Total**|**Introdução à Prótese Total**|**Introdução à Prótese Total**|**Introdução à Prótese Total**|
 |---|---|---|---|---|---|---|---|---|---|
@@ -662,9 +603,6 @@ Componente<br>Anatomia Dentária<br>Curricular:<br>Período  Carga Horária:<br>
 |HARMONIA - GUIA<br>SIMPLIFICADO DE<br>COMUNICAÇÃO ENTRE<br>O CIRUUGIÃO-<br>DENTISTA, TÉCNICO EM<br>PRÓTESE E PACIENTE||GIOVANI PARREIRA GAMBOGI||Edição:<br>1ª/2011|||Editora:<br>Quintessenc<br>e|||
 |**Bibliografia Complementar**||||||||||
 
-
-
-||||||||||
 |---|---|---|---|---|---|---|---|---|
 ||MANUAL DE PRÓTESE|DURVAL JANUZZI|||||||
 ||DENTÁRIA - PARA<br>PROTÉTICOS E<br>CIRURGIÕES-||Edição:<br>1ª/2011|||Editora:<br>Santos|||
@@ -674,21 +612,18 @@ Componente<br>Anatomia Dentária<br>Curricular:<br>Período  Carga Horária:<br>
 ||LABORATORIAIS||||||||
 ||TÉCNICA DA CLONAGEM<br>TERAPÊUTICA EM<br>PRÓTESE TOTAL.TOMAZ|OSMAR CASTRO Edição: 1ª/2009.|1ª<br>Edição:||Editora:<br>Santos|2009|||
 ||GOMES||||||||
-||||||||||
 
+**Componente Base de Prova e Rolete de Cera Curricular: Período Carga Horária: 1º SEMESTRE / 1º MÓDULO** Horas-aulas: 21 horas     Horas-relógio: 21 horas **letivo: 21 horas OBJETIVOS** - Fatores que influenciam no êxito da prótese total na reabilitação do paciente. - Confecção de modelos anatômicos e modelos funcionais. - Técnica de confecção de moldeiras individuais e chapas de prova. - Manuseio de articuladores. **Bases Tecnológicas (Ementa)** - Estudos teóricos conceituais e práticas laboratoriais como subsídio para indicação e correta confecção das próteses odontológicas. **Bibliografia Básica** Título Autor Edição Local Editora Ano LT
 
+- Fatores que influenciam no êxito da prótese total na reabilitação do paciente.
 
-**Componente Base de Prova e Rolete de Cera Curricular: Período Carga Horária: 1º SEMESTRE / 1º MÓDULO** Horas-aulas: 21 horas     Horas-relógio: 21 horas **letivo: 21 horas OBJETIVOS** - Fatores que influenciam no êxito da prótese total na reabilitação do paciente. - Confecção de modelos anatômicos e modelos funcionais. - Técnica de confecção de moldeiras individuais e chapas de prova. - Manuseio de articuladores. **Bases Tecnológicas (Ementa)** - Estudos teóricos conceituais e práticas laboratoriais como subsídio para indicação e correta confecção das próteses odontológicas. **Bibliografia Básica** Título Autor Edição Local Editora Ano LT 
+- Confecção de modelos anatômicos e modelos funcionais.
 
-- Fatores que influenciam no êxito da prótese total na reabilitação do paciente. 
+- Técnica de confecção de moldeiras individuais e chapas de prova.
 
-- Confecção de modelos anatômicos e modelos funcionais. 
+- Manuseio de articuladores.
 
-- Técnica de confecção de moldeiras individuais e chapas de prova. 
-
-- Manuseio de articuladores. 
-
-- Estudos teóricos conceituais e práticas laboratoriais como subsídio para indicação e correta confecção das próteses odontológicas. 
+- Estudos teóricos conceituais e práticas laboratoriais como subsídio para indicação e correta confecção das próteses odontológicas.
 
 |Prótese Total, Convencional e<br>Sobre<br>Implantes|Telles Daniel|1ª||Santos|2009||
 |---|---|---|---|---|---|---|
@@ -699,9 +634,7 @@ Componente<br>Anatomia Dentária<br>Curricular:<br>Período  Carga Horária:<br>
 |PRÓTESE DENTÁRIA<br>PRINCÍPIOS<br>FUNDAMENTAIS -<br>TÉCNICAS<br>LABORATORIAIS|SHIRLEY KAYAKI|Edição:<br>2a./201<br>1||- Editora:<br>Napoleão|||
 |TÉCNICA DA CLONAGEM<br>TERAPÊUTICA EM<br>PRÓTESE TOTAL.TOMAZ<br>GOMES|OSMAR CASTRO Edição: 1ª/2009.|1ª<br>Edição:||Editora:<br>Santos|2009||
 
-
-
-**Componente Confecção de Prótese Total Curricular: Período Carga Horária: 1º SEMESTRE / 1º MÓDULO** Horas-aulas: 141 horas      Horas-relógio: 141 horas **letivo: 141 horas OBJETIVOS** - Confeccionar prótese dentária total - Manuseio de resina acrílica, cera, dentes artificias e técnicas de inclusão e polimento e acabamento. **Bases Tecnológicas (Ementa)** - Anatomia e fisiologia estomatognática, na produção de prótese total. - Confecção de  modelos anatômicos e modelos funcionais. - Técnica de confecção de moldeiras individuais e base de prova com rolete de cera. - Manuseio de articuladores. - Montagem de dentes artificiais, ceroplastia, inclusão em muflas. - Técnica de acrilização, acabamento e polimento em prótese total. - Requisitos necessários para o êxito da prótese total na reabilitação do paciente. **Bibliografia Básica** Título Autor Edição Local Editora Ano LT 
+**Componente Confecção de Prótese Total Curricular: Período Carga Horária: 1º SEMESTRE / 1º MÓDULO** Horas-aulas: 141 horas      Horas-relógio: 141 horas **letivo: 141 horas OBJETIVOS** - Confeccionar prótese dentária total - Manuseio de resina acrílica, cera, dentes artificias e técnicas de inclusão e polimento e acabamento. **Bases Tecnológicas (Ementa)** - Anatomia e fisiologia estomatognática, na produção de prótese total. - Confecção de  modelos anatômicos e modelos funcionais. - Técnica de confecção de moldeiras individuais e base de prova com rolete de cera. - Manuseio de articuladores. - Montagem de dentes artificiais, ceroplastia, inclusão em muflas. - Técnica de acrilização, acabamento e polimento em prótese total. - Requisitos necessários para o êxito da prótese total na reabilitação do paciente. **Bibliografia Básica** Título Autor Edição Local Editora Ano LT
 
 |MANUAL DE PRÓTESE SOBRE<br>IMPLANTE: PASSOS<br>CLÍNICOS E<br>LABORATORIAIS|DALTON MATO RODRIGUES|1ª<br>Edição||ARTES<br>MEDICAS|2006||
 |---|---|---|---|---|---|---|
@@ -712,19 +645,15 @@ Componente<br>Anatomia Dentária<br>Curricular:<br>Período  Carga Horária:<br>
 |PRÓTESE DENTÁRIA<br>PRINCÍPIOS<br>FUNDAMENTAIS -<br>TÉCNICAS<br>LABORATORIAIS|SHIRLEY KAYAKI|Edição:<br>2a./201<br>1||- Editora:<br>Napoleão|||
 |TÉCNICA DA CLONAGEM<br>TERAPÊUTICA EM<br>PRÓTESE TOTAL.TOMAZ<br>GOMES|OSMAR CASTRO Edição: 1ª/2009.|1ª<br>Edição:||Editora:<br>Santos|2009||
 
-
-
 |**Componente**<br>**Curricular:**|**Enceramento e Escultura Dental**|**Enceramento e Escultura Dental**|**Enceramento e Escultura Dental**|
 |---|---|---|---|
 |**Período**<br>**letivo:**|**2º SEMESTRE / 2º MÓDULO**|**Carga Horária:**<br>**147 horas**|Horas-aulas: 147 horas      Horas-relógio: 147 horas|
 |**OBJETIVOS**<br>- Desenvolver habilidades técnicas de manipulação das ceras de uso odontológico.<br>- Praticar as diferentes técnicas de enceramento e escultura dental.<br>- Conhecer os principais meios referenciais da habilitação morfofuncional dos arcos dentais.<br>- Criar habilidades exploratórias no desenvolvimento das características anatômicas dos dentes.<br>- Desenvolver a percepção das características estéticas dos dentes.<br>- Desenvolver a capacidade de conciliar as peculiaridades morfofuncionais com a necessidade estética do tratamento restaurador<br>odontológico.||||
 |**Bases Tecnológicas (Ementa)**<br>- Propriedades físicas, composição, tipos e técnica de manipulação das ceras para uso odontológico.<br>- Anatomia e morfologia dental e periodontal.<br>- Classificação e função dos dentes.<br>- Nomenclatura e notação dentária.<br>- Manipulação de ceras para escultura.<br>- Reprodução da morfologia dental a partir de diferentes técnicas de enceramento e escultura.<br>-Reprodução dos arcos dentais com base nos princípios de oclusão.||||
 
+## - Caracterização estética das coroas dentais esculpidas em ceras.
 
-
-## - Caracterização estética das coroas dentais esculpidas em ceras. 
-
-## **Bibliografia Básica** 
+## **Bibliografia Básica**
 
 |- Caracterização estética das coroas dentais esculpidas em ceras.|- Caracterização estética das coroas dentais esculpidas em ceras.|- Caracterização estética das coroas dentais esculpidas em ceras.|- Caracterização estética das coroas dentais esculpidas em ceras.|- Caracterização estética das coroas dentais esculpidas em ceras.|- Caracterização estética das coroas dentais esculpidas em ceras.|- Caracterização estética das coroas dentais esculpidas em ceras.|
 |---|---|---|---|---|---|---|
@@ -739,27 +668,23 @@ Componente<br>Anatomia Dentária<br>Curricular:<br>Período  Carga Horária:<br>
 |Prótese fixa|PEGORARO, Luiz Fernando||São Paulo|Artes<br>Médicas|1998||
 |Atlas de anatomia Humana|KAHLE, Werner|3ª|Rio de Janeiro|Atheneu|1988||
 
+**Componente Introdução Prótese Parcial Fixa I (Introdução, Núcleos e Provisórios) Curricular: Período Carga Horária: 2º SEMESTRE / 2º MÓDULO** Horas-aulas: 147 horas       Horas-relógio: 147 horas **letivo: 147 horas**
 
+## **OBJETIVOS**
 
-**Componente Introdução Prótese Parcial Fixa I (Introdução, Núcleos e Provisórios) Curricular: Período Carga Horária: 2º SEMESTRE / 2º MÓDULO** Horas-aulas: 147 horas       Horas-relógio: 147 horas **letivo: 147 horas** 
+- GERAL: Planejar e realizar as etapas de confecção das próteses dentárias em laboratório.
 
-## **OBJETIVOS** 
+- ESPECÍFICO: Qualificar e definir os vários tipos de próteses parciais fixas e as suas correlações com disciplinas conexas;
 
-- GERAL: Planejar e realizar as etapas de confecção das próteses dentárias em laboratório. 
+Executar as etapas laboratoriais na produção de próteses parciais fixas executando preparos dentários, próteses provisórias e padrões de duralay de núcleos metálicos fundidos com base nas informações teóricas adquiridas em aula.
 
-- ESPECÍFICO: Qualificar e definir os vários tipos de próteses parciais fixas e as suas correlações com disciplinas conexas; 
+## **Bases Tecnológicas (Ementa)**
 
-Executar as etapas laboratoriais na produção de próteses parciais fixas executando preparos dentários, próteses provisórias e padrões de duralay de núcleos metálicos fundidos com base nas informações teóricas adquiridas em aula. 
-
-## **Bases Tecnológicas (Ementa)** 
-
-- Estudos teóricos conceituais e práticas laboratoriais como subsídio para indicação e correta confecção das próteses provisórias odontológicas. 
+- Estudos teóricos conceituais e práticas laboratoriais como subsídio para indicação e correta confecção das próteses provisórias odontológicas.
 
 ||**Bibliografia Básica**|**Bibliografia Básica**|||||
 |---|---|---|---|---|---|---|
 |Título|Autor|Edição|Local|Editora|Ano|LT|
-
-
 
 |Prótese Fixa|PEGORARO, L. F et al||São Paulo|Artes<br>Médicas|1998||
 |---|---|---|---|---|---|---|
@@ -770,8 +695,6 @@ Executar as etapas laboratoriais na produção de próteses parciais fixas execu
 |Fundamentos de Prótese Fixa|HEBERT T. SHILLIGBURG Jr<br>SUMIYA HOBO<br>LOWELL D. WHITSETT<br>RICHARD JACOBI<br>SUSAN E. BRACKETT|4a|São Paulo|Quintessenc<br>e|2007||
 |Fundamentos dos prepares<br>dentários|SHILLINBURG, H. T.; JACOB, R.;<br>BRACKETT, S. E.|3a<br>edição|São Paulo|Quintessenc<br>e|1997||
 
-
-
 |**Componente**<br>**Curricular:**|**Confecção de Prótese Parcial Removível**|**Confecção de Prótese Parcial Removível**|**Confecção de Prótese Parcial Removível**|
 |---|---|---|---|
 |**Período**<br>**letivo:**|**3º SEMESTRE / 3º MÓDULO**|**Carga Horária:**<br>**81 horas**|Horas-aulas: 81 horas           Horas-relógio: 81 horas|
@@ -779,9 +702,6 @@ Executar as etapas laboratoriais na produção de próteses parciais fixas execu
 |**Bases Tecnológicas (Ementa)**<br>- Conceito e Terminologia das Próteses Parciais Removíveis.<br>- Considerações gerais sobre os elementos constituintes.<br>- Classificação de Kennedy.<br>- Regras de Applegate.<br>- Sistemas de Próteses Parciais Removíveis.<br>- Desenhos de PPRs.<br>- Manipulação dos diversos materiais instrumentos necessários para construir uma PPR.<br>- Tipos e indicação dos grampos.<br>- Enceramento prático em laboratório.||||
 |**Bibliografia Básica**||||
 
-
-
-||||||||
 |---|---|---|---|---|---|---|
 |Título|Autor|Edição|Local|Editora|Ano|LT|
 |Atlas de Protese Parcial<br>Removivel|Reynaldo Todescan, Eglas E.<br>Bernardes Da Silva, Odilon Jose Da<br>Silva|4ª<br>edição||Santos|2006||
@@ -792,9 +712,6 @@ Executar as etapas laboratoriais na produção de próteses parciais fixas execu
 |McCracken Prótese Parcial<br>Removível|Alan B. Carr / David T. Brown|12ª<br>edição||Elsevier|2012||
 |Manual de Prótese Total<br>Removível|Maurício Serejo Ribeiro|1ª<br>edição||Santos|2007||
 
-
-
-|||||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 ||**Componente**<br>**Curricular:**||**Confecção de**||**Placa Interoclusal**|||||||||
 ||**Período**<br>**letivo:**|**3º SEMESTRE / 3º MÓDULO**||**Carga Horária:**<br>**60 horas**|||Horas-aulas: 60 horas        Horas-relógio: 60||||horas|||
@@ -811,11 +728,7 @@ Executar as etapas laboratoriais na produção de próteses parciais fixas execu
 ||- Acabamento e polimento das resinas.|||||||||||||
 ||||**Bibliografia Básica**|||||||||||
 ||Título||Autor|||Edição||Local|Editora|Ano||LT||
-|||||||||||||||
 
-
-
-||||||||||
 |---|---|---|---|---|---|---|---|---|
 ||Orteses Dentarias Na Pratica|UNGER, FRAÇOIS|1ª||Art Med|2006|||
 ||Clinica||||||||
@@ -834,9 +747,6 @@ Executar as etapas laboratoriais na produção de próteses parciais fixas execu
 ||Materiais Dentários|CRAIG, R.G.; POWERS, J.M|11a|São Paulo|Ed. Santos|2004|||
 ||Restauradores||||||||
 ||Phillips - Materiais Dentários|ANUSAVICE, Kenneth J|11a||Elsevier||||
-||||||||||
-
-
 
 |**Componente**<br>**Curricular:**|**Introdução ao Trabalho de Conclusão de Curso (Tcc)**|**Introdução ao Trabalho de Conclusão de Curso (Tcc)**|**Introdução ao Trabalho de Conclusão de Curso (Tcc)**|**Introdução ao Trabalho de Conclusão de Curso (Tcc)**|**Introdução ao Trabalho de Conclusão de Curso (Tcc)**|**Introdução ao Trabalho de Conclusão de Curso (Tcc)**|**Introdução ao Trabalho de Conclusão de Curso (Tcc)**|**Introdução ao Trabalho de Conclusão de Curso (Tcc)**|**Introdução ao Trabalho de Conclusão de Curso (Tcc)**|
 |---|---|---|---|---|---|---|---|---|---|
@@ -846,9 +756,6 @@ Executar as etapas laboratoriais na produção de próteses parciais fixas execu
 |||**Bibliografia Básica**||||||||
 |Título||Autor||Edição||Local|Editora|Ano|LT|
 
-
-
-||||||||
 |---|---|---|---|---|---|---|
 |Instituto Federal do Paraná;<br>Normas para Apresentação<br>de Trabalhos Acadêmicos<br>do Instituto federal do<br>Paraná (IFPR).|Equipe de Elaboração: Carmen<br>Balllão Watanabe, Eutália Cristina do<br>Nascimento Moreto, Renato Roxo<br>Coutinho Dutra.||||||
 |Estratégias<br>de<br>Ensino-<br>Aprendizagem.|BORDENAVE, J. D. ;PEREIRA, A. M.||Petrópolis:|Vozes.|2002|.|
@@ -858,20 +765,15 @@ Executar as etapas laboratoriais na produção de próteses parciais fixas execu
 |Metodologia científica: Guia para<br>eficiência nos estudos|Ruiz Já.|6 ed|São Paulo:<br>Atlas; 2006|Atlas2006|2006||
 |Normas<br>para<br>elaboração<br>de<br>trabalhos acadêmicos do Instituto<br>Federal do Paraná (IFPR).|INSTITUTO FEDERAL DO PARANÁ.<br>Sistema de Bibliotecas.|<br>1 ed.|Curitiba|Instituto<br>Federal<br>do<br>Paraná|2010||
 
-
-
 |**Componente**<br>**Curricular:**|**Confecção Prótese Parcial Fixa II (Troquelamento)**|**Confecção Prótese Parcial Fixa II (Troquelamento)**|**Confecção Prótese Parcial Fixa II (Troquelamento)**|**Confecção Prótese Parcial Fixa II (Troquelamento)**|**Confecção Prótese Parcial Fixa II (Troquelamento)**|**Confecção Prótese Parcial Fixa II (Troquelamento)**|**Confecção Prótese Parcial Fixa II (Troquelamento)**|**Confecção Prótese Parcial Fixa II (Troquelamento)**|**Confecção Prótese Parcial Fixa II (Troquelamento)**|
 |---|---|---|---|---|---|---|---|---|---|
 |**Período**<br>**letivo:**|**3º SEMESTRE / 3º MÓDULO**||**Carga Horária:**<br>**75 horas**||Horas-aulas: 75 horas         Horas-relógio: 75 horas|||||
-|||||||||||
 |**OBJETIVOS**<br>-Conhecer os diversos sistemas disponíveis para obtenção de modelos troquelados<br>- Desenvolver habilidades para confecção de modelos troquelados.||||||||||
 |**Bases Tecnológicas (Ementa)**<br>- Tipos de troqueis, aplicações e técnicas de confecção.<br>- Domínio  da metodologia de construção de diversos tipos de modelos troquelados||||||em gesso.||||
 |||**Bibliografia Básica**||||||||
 |Título||Autor||Edição||Local|Editora|Ano|LT|
 |Prótese Fixa Contemporânea||STEPHEN F. ROSENTIEL<br>MARTIN F. LAND<br>JUNHEI FUJIMOTO||3ª||São Paulo|Editora<br>Santos|2005||
 |Fundamentos de Prótese Fixa||HEBERT T. SHILLIGBURG Jr<br>SUMIYA HOBO<br>LOWELL D. WHITSETT<br>RICHARD JACOBI||4a||São Paulo|Quintessenc<br>e|2007||
-
-
 
 ||SUSAN E. BRACKETT||||||
 |---|---|---|---|---|---|---|
@@ -881,41 +783,34 @@ Executar as etapas laboratoriais na produção de próteses parciais fixas execu
 |Materiais Dentários<br>Restauradores|CRAIG, R.G.; POWERS, J.M|11a|São Paulo|Ed. Santos|2004||
 |Phillips - Materiais Dentários|ANUSAVICE, Kenneth J|11a||Elsevier|||
 
+**Componente Confecção Prótese Parcial Fixa II (Coping e Fundição) Curricular: Período Carga Horária: 3º SEMESTRE / 3º MÓDULO** Horas-aulas: 81 horas       Horas-relógio: 81 horas **letivo: 81 horas OBJETIVOS**
 
+- Desenvolver conhecimentos básicos e avançados sobre próteses fixas metalo-cerâmicas.
 
-**Componente Confecção Prótese Parcial Fixa II (Coping e Fundição) Curricular: Período Carga Horária: 3º SEMESTRE / 3º MÓDULO** Horas-aulas: 81 horas       Horas-relógio: 81 horas **letivo: 81 horas OBJETIVOS** 
+- Definir e aplicar as principais técnicas de preparação de modelos de gesso para prótese fixa.
 
-- Desenvolver conhecimentos básicos e avançados sobre próteses fixas metalo-cerâmicas. 
+- Definir e aplicar as principais técnicas de enceramento de copings para fundição.
 
-- Definir e aplicar as principais técnicas de preparação de modelos de gesso para prótese fixa. 
+- Apresentar as principais ligas metálicas para prótese fixa e as técnicas de fundição adequadas para elas.
 
-- Definir e aplicar as principais técnicas de enceramento de copings para fundição. 
+- Aplicar os conhecimentos teóricos na prática laboratorial, estimulando o raciocínio lógico para o aprimoramento da técnica.
 
-- Apresentar as principais ligas metálicas para prótese fixa e as técnicas de fundição adequadas para elas. 
+## **Bases Tecnológicas (Ementa)**
 
-- Aplicar os conhecimentos teóricos na prática laboratorial, estimulando o raciocínio lógico para o aprimoramento da técnica. 
+- Preparação dos modelos de trabalho.
 
-## **Bases Tecnológicas (Ementa)** 
+- Obtenção dos troquéis individuais.
 
-- Preparação dos modelos de trabalho. 
+- Isolantes e espaçadores para troquéis.
 
-- Obtenção dos troquéis individuais. 
+- Técnicas de enceramento dos copings.
 
-- Isolantes e espaçadores para troquéis. 
+- Ligas metálicas de uso odontológico.
 
-- Técnicas de enceramento dos copings. 
+- Fundição dos copings metálicos. - Desinclusão e limpeza de fundições - Usinagem de copings
 
-- Ligas metálicas de uso odontológico. 
+Bibliografia Básica<br>
 
-- Fundição dos copings metálicos. - Desinclusão e limpeza de fundições - Usinagem de copings 
-
-**==> picture [116 x 13] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Bibliografia Básica<br>**----- End of picture text -----**<br>
-
-
-|||||||||||
 |---|---|---|---|---|---|---|---|---|---|
 ||Título|Autor|Edição|Local|Editora||Ano|LT||
 ||Prótese Dentária - Princípios<br>Fundamentais - Técnicas<br>Laboratoriais|Shirley Kayaki Assaoka e cols.||São Paulo|Quintessenc<br>e||2007|||
@@ -929,23 +824,20 @@ Bibliografia Básica<br>**----- End of picture text -----**<br>
 ||Fundamentos de prótese fixa|SHILLINBURG, Haerbert T.||São Paulo|Quintessence||1994|||
 ||Prótese fixa|PEGORARO, Luiz Fernando||São Paulo|Artes Médicas||1998|||
 ||Anatomia e escultura dental|CANTISANO, Waldemar|3°|Rio de Janeiro|Guanabara||1987|||
-|||||||||||
 
+**Componente Confecção Prótese Parcial Fixa II (Soldagem) Curricular: Período Carga Horária: 3º SEMESTRE / 3º MÓDULO** Horas-aulas: 3 horas      Horas-relógio: 3 horas **letivo: 3 horas OBJETIVOS**
 
+- Conhecer os métodos de soldagens mais utilizados na prática em laboratório
 
-**Componente Confecção Prótese Parcial Fixa II (Soldagem) Curricular: Período Carga Horária: 3º SEMESTRE / 3º MÓDULO** Horas-aulas: 3 horas      Horas-relógio: 3 horas **letivo: 3 horas OBJETIVOS** 
+- Conhecer as propriedades das soldas odontológicas
 
-- Conhecer os métodos de soldagens mais utilizados na prática em laboratório 
+## **Bases Tecnológicas (Ementa)**
 
-- Conhecer as propriedades das soldas odontológicas 
+- Propriedades físicas, mecânicas e biológicas das ligas para soldagem
 
-## **Bases Tecnológicas (Ementa)** 
+- Propriedades dos materiais usados no processo de fundição.
 
-- Propriedades físicas, mecânicas e biológicas das ligas para soldagem 
-
-- Propriedades dos materiais usados no processo de fundição. 
-
-- Solda em estruturas metálicas. 
+- Solda em estruturas metálicas.
 
 ||**Bibliografia Básica**|**Bibliografia Básica**|||||
 |---|---|---|---|---|---|---|
@@ -960,9 +852,6 @@ Bibliografia Básica<br>**----- End of picture text -----**<br>
 |||Edição|||||
 ||**Bibliografia Complementar**||||||
 
-
-
-||||||||||
 |---|---|---|---|---|---|---|---|---|
 ||Fundamentos de prótese fixa|SHILLINBURG, Haerbert T  e Cols.|4ª|São Paulo|Quintessenc|2007|||
 ||||Edição||e||||
@@ -971,17 +860,14 @@ Bibliografia Básica<br>**----- End of picture text -----**<br>
 ||Prótese Dentária - Princípios||||||||
 ||Fundamentais - Técnicas<br>Laboratoriais|ASSAOKA, Shirley Kayaki; CESAR,<br>Edilene Almeida; OLIVEIRA, Flavio|2a<br>Edição|São Paulo|Napoleão|2012|||
 |||de Jesus|||||||
-||||||||||
 
+**Componente Confecção de Prótese Parcial Fixa III (Cerâmica) Curricular: Período Carga Horária: 4º SEMESTRE / 4º MÓDULO** Horas-aulas: 114 horas       Horas-relógio: 114 horas **letivo: 114 horas OBJETIVOS**
 
+- Confeccionar uma prótese dentária metalocerâmica através da aplicação de cerâmica (pó) sobre copings metálicos previamente fundidos.
 
-**Componente Confecção de Prótese Parcial Fixa III (Cerâmica) Curricular: Período Carga Horária: 4º SEMESTRE / 4º MÓDULO** Horas-aulas: 114 horas       Horas-relógio: 114 horas **letivo: 114 horas OBJETIVOS** 
+- Confeccionar a forma anatômica dos dentes através da escultura em pó de cerâmica, bem como todas as propriedades óticas do dentes.
 
-- Confeccionar uma prótese dentária metalocerâmica através da aplicação de cerâmica (pó) sobre copings metálicos previamente fundidos. 
-
-- Confeccionar a forma anatômica dos dentes através da escultura em pó de cerâmica, bem como todas as propriedades óticas do dentes. 
-
-- Realizar à queima, acabamento, polimento e glaze da cerâmica sobre o coping metálico e finalizar a confecção de uma coroa dentária metalocerâmica 
+- Realizar à queima, acabamento, polimento e glaze da cerâmica sobre o coping metálico e finalizar a confecção de uma coroa dentária metalocerâmica
 
 ||**Bases Tecnológicas (Ementa)**|**Bases Tecnológicas (Ementa)**|||||
 |---|---|---|---|---|---|---|
@@ -992,9 +878,6 @@ Bibliografia Básica<br>**----- End of picture text -----**<br>
 ||**Bibliografia Básica**||||||
 |Título|Autor|Edição|Local|Editora|Ano|LT|
 
-
-
-||||||||
 |---|---|---|---|---|---|---|
 |Desafiando a Natureza-Atlas com<br>Imagens em formato e<br>qualidade impressionante|Paulo<br>Kano|1ª<br>Edição|São Paulo|Quintessenc<br>e|2008||
 |Cerâmicas Odontológicas<br>Conceitos e Técnicas-<br>Parreira, Giovani Gambogi<br>/ Cols|Parreira, Giovani Gambogi / Cols.|1ª<br>Edição||SANTOS<br>EDITORA|2005||
@@ -1004,34 +887,27 @@ Bibliografia Básica<br>**----- End of picture text -----**<br>
 |PRÓTESE DENTÁRIA<br>PRINCÍPIOS<br>FUNDAMENTAIS -<br>TÉCNICAS<br>LABORATORIAIS|SHIRLEY KAYAKI ASSAOKA|2a.Ediç<br>ão||Editora:<br>Napoleão|2011||
 |HARMONIA - GUIA<br>SIMPLIFICADO DE<br>COMUNICAÇÃO ENTRE<br>O CIRUUGIÃO-<br>DENTISTA, TÉCNICO EM<br>PRÓTESE E PACIENTE|GIOVANI PARREIRA GAMBOGI|1ª<br>Edição||Editora:<br>Quintessenc<br>e|2011||
 
-
-
 |**Componente**<br>**Curricular:**|**Confecção de Aparelho Ortodôntico**|**Confecção de Aparelho Ortodôntico**|**Confecção de Aparelho Ortodôntico**|
 |---|---|---|---|
 |**Período**<br>**letivo:**|**4º SEMESTRE / 4º MÓDULO**|**Carga Horária:**<br>**126 horas**|Horas-aulas: 126 horas       Horas-relógio: 126 horas|
 |**OBJETIVOS**<br>- GERAL: Planejar e realizar as etapas de confecção dos aparelhos ortodônticos removíveis em laboratório.<br>- ESPECÍFICO: Qualificar e definir os vários tipos de aparelhos móveis existentes em ortodontia e as suas correlações com<br>disciplinas conexas;<br>Executar o planejamento, confecção de grampos e acrilização dos aparelhos removíveis ortodônticos com base<br>nas informações teóricas adquiridas em aula;.||||
 |**Bases Tecnológicas (Ementa)**<br>- introdução a Ortodontia<br>- Identificação e classificação dos vários tipos de aparelhos ortodônticos.<br>- Técnica de dobragem de fios para construção de elementos.<br>- Modelos de estudo e diagnóstico.<br>- Fases de manipulação das resinas.<br>- Reação de polimerização das resinas.<br>- Acabamento e polimento das resinas.<br>- Construção de molas.<br>- Construção de arco vestibular.<br>- Acrilização de aparelhos superiores e inferiores.<br>-Polimerização a frio e sob pressão.||||
 
+- Acabamento e polimento.
 
+- Construção de alças, arcos e grampos.
 
-- Acabamento e polimento. 
+- Soldagem.
 
-- Construção de alças, arcos e grampos. 
+- Técnica de construção de modelos ortodônticos.
 
-- Soldagem. 
-
-- Técnica de construção de modelos ortodônticos. 
-
-## **Bibliografia Básica** 
+## **Bibliografia Básica**
 
 |Título|Autor|Edição|Local|Editora|Ano|LT|
 |---|---|---|---|---|---|---|
 |Ortodontia Contemporânea|Willian R. Proffit|3ª<br>Edição||Elsevier|2005||
 |Ortodontia|Robert E. Moyers|4ª<br>Edição||Editora<br>Guanabara<br>Koogan|1991||
 
-
-
-||||||||
 |---|---|---|---|---|---|---|
 |Prótese Dentária –<br>Princípios Fundamentais –<br>Técnicas Laboratoriais|Shirley KayakiAssaoka<br>Edilene Almeida<br>Flavio de Jesus Oliveira|1ª<br>Edição||Napoleão|2010||
 ||**Bibliografia Complmentar**||||||
@@ -1039,15 +915,8 @@ Bibliografia Básica<br>**----- End of picture text -----**<br>
 |Aparatologia em Ortodontia,<br>Ortopedia Dentofacial e<br>Ortopedia Funcional|Grohmann, U.|3ª<br>Edição||Santos|2003||
 |Manual de Técnicas para a Dobra<br>de Fios|Eiichiro Nakajima|1ª<br>Edição||Editora<br>Quintessenc<br>e|2011||
 
+Componente<br>Confecção de Prótese Sobre Implante<br>Curricular:<br>Período  Carga Horária:<br>4º SEMESTRE / 4º MÓDULO Horas-aulas: 45 horas      Horas-relógio: 45 horas<br>letivo:  45 horas<br>OBJETIVOS<br>- Confecção de tipos de prótese sobre implante.<br>Bases Tecnológicas (Ementa)<br>- Tipos de trabalhos sobre implante.<br>- Conhecimento dos diversos sistemas de implante.<br>- Conhecimento da variabilidade de soluções protéticas.<br>- Conhecimento da diversidade de componentes protéticos.<br>Bibliografia Básica<br>Título  Autor  Edição  Local  Editora  Ano  LT<br>
 
-
-**==> picture [842 x 596] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Componente<br>Confecção de Prótese Sobre Implante<br>Curricular:<br>Período  Carga Horária:<br>4º SEMESTRE / 4º MÓDULO Horas-aulas: 45 horas      Horas-relógio: 45 horas<br>letivo:  45 horas<br>OBJETIVOS<br>- Confecção de tipos de prótese sobre implante.<br>Bases Tecnológicas (Ementa)<br>- Tipos de trabalhos sobre implante.<br>- Conhecimento dos diversos sistemas de implante.<br>- Conhecimento da variabilidade de soluções protéticas.<br>- Conhecimento da diversidade de componentes protéticos.<br>Bibliografia Básica<br>Título  Autor  Edição  Local  Editora  Ano  LT<br>**----- End of picture text -----**<br>
-
-
-||||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|
 ||Prótese Total, Convencional e||Daniel Telles||||Santos|2009|||
 ||sobre Implantes.||||||||||
@@ -1062,20 +931,14 @@ Componente<br>Confecção de Prótese Sobre Implante<br>Curricular:<br>Período 
 ||Estética|||o|||||||
 ||Princípios<br>de<br>Radiologia||WHAITES, E.|||São Paulo|Artmed|2003|||
 ||Odontológica||||||||||
-||||||||||||
-
-
 
 |**Componente**<br>**Curricular:**|**Ética Profissional**|**Ética Profissional**|**Ética Profissional**|**Ética Profissional**|**Ética Profissional**|**Ética Profissional**|**Ética Profissional**|**Ética Profissional**|**Ética Profissional**|
 |---|---|---|---|---|---|---|---|---|---|
 |**Período**<br>**letivo:**|**4º SEMESTRE / 4º MÓDULO**||**Carga Horária:**<br>**09 horas**||Horas-aulas: 09 horas      Horas-relógio: 09 horas|||||
-|||||||||||
 |**OBJETIVOS**<br>- Correlacionar a legislação profissional com o exercício ético da profissão.||||||||||
 |**Bases Tecnológicas (Ementa)**<br>- Legislação que rege a profissão de TPD<br>- Instituições que regulamentam o exercício profissional.<br>- Campos de atuação profissional do TPD.<br>- Instituições que regem o exercício profissional.<br>- Atividades privativas do TPD.<br>- Atividades privativas do APD.<br>- Atividades privativas do CD.<br>- Leis trabalhistas.<br>- Direitos humanos.<br>- Educação Ambiental.<br>- Relações Étnicos Raciais e histórias.<br>- Cultura afro-brasileira e dos povos indígenas.<br>- Educação alimentar e nutricional;<br>- Processo de envelhecimento, respeito e valorização ao idoso;<br>- Educação ambiental;<br>- Educação para o trânsito.||||||||||
 |||**Bibliografia Básica**||||||||
 |Título||Autor||Edição||Local|Editora|Ano|LT|
-
-
 
 |Aprendendo e ensinando a<br>cuidar da saúde: manual de<br>métodos, ferramentas e<br>idéias para um trabalho<br>comunitário.|Aprendendo e ensinando a<br>cuidar da saúde: manual de<br>métodos, ferramentas e<br>idéias para um trabalho<br>comunitário.|WERNER, David.|WERNER, David.|WERNER, David.|2ª<br>Edição|São Paulo|Paulinas|Paulinas|1991|1991||
 |---|---|---|---|---|---|---|---|---|---|---|---|
@@ -1088,9 +951,6 @@ Componente<br>Confecção de Prótese Sobre Implante<br>Curricular:<br>Período 
 |Estatuto da igualdade<br>racial|<br>BRASIL.<br>Câmara<br>dos<br>Deputados.|||Brasília|Edições Câmara|||2010||33 p.||
 |Direitos Humanos no<br>Brasil 2012: Relatório<br>da<br>Rede<br>Social<br>de|<br> <br> <br>MENDONÇA,<br>T.M.M.L.<br>(Org)|||São Paulo|Rede Social de Justiça e Direitos<br>Humanos|||2012||||
 
-
-
-||||||||||
 |---|---|---|---|---|---|---|---|---|
 ||Justiça<br>e<br>Direitos||||||||
 ||Humanos||||||||
@@ -1108,277 +968,268 @@ Componente<br>Confecção de Prótese Sobre Implante<br>Curricular:<br>Período 
 ||1999.||||||||
 ||BRASIL. Lei nº 9.503/1997 - Institui o Código de||||||||
 ||Trânsito Brasileiro, 1997.||||||||
-||||||||||
 
+## **4.Trabalho de conclusão de curso**
 
+O Trabalho de Conclusão de Curso (TCC) deve integrar conhecimentos apropriados ao longo do curso, preferencialmente inserido nas Linhas de Pesquisa e Extensão desenvolvidas pelos docentes do Curso Técnico em Prótese Dentária e relacionado com áreas afins de atuação do profissional, devendo estar enquadrado nas seguintes modalidades:
 
-## **4.Trabalho de conclusão de curso** 
+I - Relato de trabalho realizado em sala de aula;
 
-O Trabalho de Conclusão de Curso (TCC) deve integrar conhecimentos apropriados ao longo do curso, preferencialmente inserido nas Linhas de Pesquisa e Extensão desenvolvidas pelos docentes do Curso Técnico em Prótese Dentária e relacionado com áreas afins de atuação do profissional, devendo estar enquadrado nas seguintes modalidades: 
+II - Revisão da literatura;
 
-I - Relato de trabalho realizado em sala de aula; 
+III - Relato de experiência;
 
-II - Revisão da literatura; 
+IV - Pesquisa científica de natureza aplicada, incluindo modalidade prospectiva com intervenção, estudos retrospectivos e transversais, sob orientação de um docente do Curso, elaborado individualmente ou em grupo.
 
-III - Relato de experiência; 
+O TCC deverá ser elaborado de acordo com as normas estabelecidas pelo Instituto Federal do Paraná.
 
-IV - Pesquisa científica de natureza aplicada, incluindo modalidade prospectiva com intervenção, estudos retrospectivos e transversais, sob orientação de um docente do Curso, elaborado individualmente ou em grupo. 
+São objetivos do **Trabalho de Conclusão de Curso** :
 
-O TCC deverá ser elaborado de acordo com as normas estabelecidas pelo Instituto Federal do Paraná. 
+- I. aprofundar os conhecimentos teórico-práticos;
 
-São objetivos do **Trabalho de Conclusão de Curso** : 
+- II. estabelecer contato com o processo de investigação científica, por meio do acompanhamento de todas as etapas da pesquisa, tais como: formulação do tema de pesquisa, localização do referencial bibliográfico, escolha das técnicas de pesquisa para a coleta e análise dos dados, elaboração coerente da conclusão da pesquisa e apresentação final do TCC;
 
-- I. aprofundar os conhecimentos teórico-práticos; 
+- III. inserir os acadêmicos do Curso Técnico em Prótese Dentária do IFPR-Campus  Londrina no campo da Pesquisa Científica e Educacional;
 
-- II. estabelecer contato com o processo de investigação científica, por meio do acompanhamento de todas as etapas da pesquisa, tais como: formulação do tema de pesquisa, localização do referencial bibliográfico, escolha das técnicas de pesquisa para a coleta e análise dos dados, elaboração coerente da conclusão da pesquisa e apresentação final do TCC; 
+- IV. desenvolver o senso crítico, investigador e conquistador da autonomia pessoal e intelectual necessária para empreender contínua formação na sua práxis profissional, socializando o saber científico produzido.
 
-- III. inserir os acadêmicos do Curso Técnico em Prótese Dentária do IFPR-Campus  Londrina no campo da Pesquisa Científica e Educacional; 
+Compete aos docentes do Curso orientar o TCC quando solicitados, respeitadas suas disponibilidades. Os trabalhos devem ser divididos de forma equivalente pelos professores do Curso Técnico em Prótese Dentária.
 
-- IV. desenvolver o senso crítico, investigador e conquistador da autonomia pessoal e intelectual necessária para empreender contínua formação na sua práxis profissional, socializando o saber científico produzido. 
+Compete ao docente orientador de TCC estabelecer juntamente com seu orientando, o plano de trabalho e cronograma de execução das atividades registrando-as em ficha de frequência e orientação, que deve ser utilizada como registro das atividades orientadas, conforme regulamento de TCC.
 
-Compete aos docentes do Curso orientar o TCC quando solicitados, respeitadas suas disponibilidades. Os trabalhos devem ser divididos de forma equivalente pelos professores do Curso Técnico em Prótese Dentária. 
+O estudante deve protocolizar na Secretaria, em data estabelecida em calendário próprio.
 
-Compete ao docente orientador de TCC estabelecer juntamente com seu orientando, o plano de trabalho e cronograma de execução das atividades registrando-as em ficha de frequência e orientação, que deve ser utilizada como registro das atividades orientadas, conforme regulamento de TCC. 
+Para fins de avaliação do TCC, será considerado:
 
-O estudante deve protocolizar na Secretaria, em data estabelecida em calendário próprio. 
+- I. Avaliação do processo de elaboração do trabalho pelo orientador. A avaliação das atividades durante a elaboração de TCC é de
 
-Para fins de avaliação do TCC, será considerado: 
+- competência do docente orientador, que deve observar os seguintes critérios:
 
-- I. Avaliação do processo de elaboração do trabalho pelo orientador. A avaliação das atividades durante a elaboração de TCC é de 
+- I.  assiduidade e pontualidade às reuniões de orientação,
 
-- competência do docente orientador, que deve observar os seguintes critérios: 
+- II. execução das tarefas propostas;
 
-- I.  assiduidade e pontualidade às reuniões de orientação, 
+- III. superação progressiva das limitações teóricas com compreensão do processo de execução de TCC.
 
-- II. execução das tarefas propostas; 
+Ocorrerá reprovação do TCC que apresente elementos textuais, numéricos e de imagem que configurem a existência de plágio, isto é, a apropriação indevida de material intelectual sem a devida citação.
 
-- III. superação progressiva das limitações teóricas com compreensão do processo de execução de TCC. 
+## **4 REGULAMENTO DO ESTÁGIO CURRICULAR NÃO OBRIGATÓRIO DOS CURSOS DO CAMPUS LONDRINA DO INSTITUTO FEDERAL DO PARANÁ, CURSO TÉCNICO SUBSEQUENTE EM PRÓTESE DENTÁRIA**
 
-Ocorrerá reprovação do TCC que apresente elementos textuais, numéricos e de imagem que configurem a existência de plágio, isto é, a apropriação indevida de material intelectual sem a devida citação. 
+## **ANEXO A - REGULAMENTO DO ESTÁGIO SUPERVISIONADO DO CURSO TÉCNICO EM PRÓTESE DENTÁRIA DO IFPR - CAMPUS LONDRINA**
 
-## **4 REGULAMENTO DO ESTÁGIO CURRICULAR NÃO OBRIGATÓRIO DOS CURSOS DO CAMPUS LONDRINA DO INSTITUTO FEDERAL DO PARANÁ, CURSO TÉCNICO SUBSEQUENTE EM PRÓTESE DENTÁRIA** 
+## **CAPITULO I**
 
-## **ANEXO A - REGULAMENTO DO ESTÁGIO SUPERVISIONADO DO CURSO TÉCNICO EM PRÓTESE DENTÁRIA DO IFPR - CAMPUS LONDRINA** 
+## **DOS ESTÁGIOS SUPERVISIONADOS E SUAS FINALIDADES**
 
-## **CAPITULO I** 
+**Art. 1º** - O Estágio Supervisionado não obrigatório é ato educativo que visa à preparação para o trabalho produtivo dos educandos que frequentam o Curso Técnico em Prótese Dentária (TPD) sendo atividade opcional e seguirá o previsto na Lei nº 11.788 de 25/09/2008 e na Resolução CNE/CEB nº1 de 21/01/2004 e demais normas do Instituto Federal do Paraná (IFPR).
 
-## **DOS ESTÁGIOS SUPERVISIONADOS E SUAS FINALIDADES** 
+**Art. 2º** - O Estágio Supervisionado, considerado atividade curricular não obrigatória do curso técnico em Prótese Dentária (TPD), se destinará a propiciar ao aluno a complementação do processo de ensino e de aprendizagem, em termos de experiências práticas, visando a:
 
-**Art. 1º** - O Estágio Supervisionado não obrigatório é ato educativo que visa à preparação para o trabalho produtivo dos educandos que frequentam o Curso Técnico em Prótese Dentária (TPD) sendo atividade opcional e seguirá o previsto na Lei nº 11.788 de 25/09/2008 e na Resolução CNE/CEB nº1 de 21/01/2004 e demais normas do Instituto Federal do Paraná (IFPR). 
+I – Experiência ao aluno e a aplicação dos conhecimentos teóricos construídos durante a vida acadêmica;
 
-**Art. 2º** - O Estágio Supervisionado, considerado atividade curricular não obrigatória do curso técnico em Prótese Dentária (TPD), se destinará a propiciar ao aluno a complementação do processo de ensino e de aprendizagem, em termos de experiências práticas, visando a: 
+II – Promoção da articulação e da transição da instituição de ensino para o mundo do trabalho;
 
-I – Experiência ao aluno e a aplicação dos conhecimentos teóricos construídos durante a vida acadêmica; 
+III – Adaptação social e psicológica do aluno à sua futura atividade profissional;
 
-II – Promoção da articulação e da transição da instituição de ensino para o mundo do trabalho; 
+IV - Proporcionar um aprimoramento das práticas e métodos pertinentes ao Técnico em Saúde Bucal, adaptando-os às exigências do mercado de trabalho e dos mecanismos de modernização tecnológica;
 
-III – Adaptação social e psicológica do aluno à sua futura atividade profissional; 
+V – Desenvolver e aperfeiçoar habilidades e competências indispensáveis ao desempenho profissional.
 
-IV - Proporcionar um aprimoramento das práticas e métodos pertinentes ao Técnico em Saúde Bucal, adaptando-os às exigências do mercado de trabalho e dos mecanismos de modernização tecnológica; 
+## **CAPITULO II DA MATRÍCULA**
 
-V – Desenvolver e aperfeiçoar habilidades e competências indispensáveis ao desempenho profissional. 
+**Art. 3º** - O aluno poderá requerer o Estágio Supervisionado não obrigatório desde que esteja regularmente matriculado no Curso TPD à partir do segundo semestre do curso.
 
-## **CAPITULO II DA MATRÍCULA** 
+**Art. 4º** - O requerimento será feito via protocolo do Campus, respeitando-se os prazos estabelecidos.
 
-**Art. 3º** - O aluno poderá requerer o Estágio Supervisionado não obrigatório desde que esteja regularmente matriculado no Curso TPD à partir do segundo semestre do curso. 
+**Parágrafo único** - O estágio supervisionado não obrigatório fica condicionado à prévia solicitação do aluno ao coordenador do curso TPD e à indicação do professor supervisor.
 
-**Art. 4º** - O requerimento será feito via protocolo do Campus, respeitando-se os prazos estabelecidos. 
+## **CAPITULO III DO LOCAL DE REALIZAÇÃO E SUPERVISÃO**
 
-**Parágrafo único** - O estágio supervisionado não obrigatório fica condicionado à prévia solicitação do aluno ao coordenador do curso TPD e à indicação do professor supervisor. 
+**Art. 5º** - O Estágio Supervisionado não obrigatório será realizado junto a pessoas jurídicas de direito privado e órgãos da administração pública direta, autárquica e fundacional de qualquer dos poderes da União, Estados e Municípios bem como profissionais liberais devidamente registrados no Conselho Regional de Odontologia (CRO), de preferência mediante Convênio prévio com o IFPR, que apresentem condições de proporcionar experiência prática na área de formação do aluno, respeitado o Artigo 2º deste Regulamento.
 
-## **CAPITULO III DO LOCAL DE REALIZAÇÃO E SUPERVISÃO** 
+**Art. 6º** - A supervisão dos estágios deverá ter acompanhamento efetivo pelo professor orientador do IFPR e dar-se-á, preferentemente, pela modalidade indireta, e pelo profissional supervisor da parte concedente, comprovado por vistos de ambos nos relatórios de atividades e avaliação final.
 
-**Art. 5º** - O Estágio Supervisionado não obrigatório será realizado junto a pessoas jurídicas de direito privado e órgãos da administração pública direta, autárquica e fundacional de qualquer dos poderes da União, Estados e Municípios bem como profissionais liberais devidamente registrados no Conselho Regional de Odontologia (CRO), de preferência mediante Convênio prévio com o IFPR, que apresentem condições de proporcionar experiência prática na área de formação do aluno, respeitado o Artigo 2º deste Regulamento. 
+## **CAPITULO IV DA DURAÇÃO E DA JORNADA DIÁRIA DE ESTÁGIOS SUPERVISIONADOS**
 
-**Art. 6º** - A supervisão dos estágios deverá ter acompanhamento efetivo pelo professor orientador do IFPR e dar-se-á, preferentemente, pela modalidade indireta, e pelo profissional supervisor da parte concedente, comprovado por vistos de ambos nos relatórios de atividades e avaliação final. 
+**Art. 7º** - A duração do Estágio Supervisionado não obrigatório será compatível com o horário escolar do aluno e definida de comum acordo entre os envolvidos, devendo constar no termo de compromisso.
 
-## **CAPITULO IV DA DURAÇÃO E DA JORNADA DIÁRIA DE ESTÁGIOS SUPERVISIONADOS** 
+**Art. 8º** - A jornada diária de Estágios Supervisionados não excederá a carga horária de 06 (seis) horas diárias e 30 (trinta) horas semanais, salvo casos previstos em lei.
 
-**Art. 7º** - A duração do Estágio Supervisionado não obrigatório será compatível com o horário escolar do aluno e definida de comum acordo entre os envolvidos, devendo constar no termo de compromisso. 
+## **CAPITULO V DA BOLSA E DO SEGURO DE ESTÁGIOS SUPERVISIONADOS**
 
-**Art. 8º** - A jornada diária de Estágios Supervisionados não excederá a carga horária de 06 (seis) horas diárias e 30 (trinta) horas semanais, salvo casos previstos em lei. 
+**Art. 9** – A entidade concedente oferecerá ao estagiário, auxílio na forma de bolsa, sendo compulsória a sua concessão, bem como a do auxíliotransporte,e, também, pode ofertar outra forma de contraprestação de serviço, como alimentação e saúde sem que configure vínculo empregatício.
 
-## **CAPITULO V DA BOLSA E DO SEGURO DE ESTÁGIOS SUPERVISIONADOS** 
+Parágrafo único. A parte concedente deve contratar em favor do estagiário seguro contra acidentes pessoais, cuja apólice seja compatível com valores de mercado, conforme fique estabelecido no termo de compromisso.
 
-**Art. 9** – A entidade concedente oferecerá ao estagiário, auxílio na forma de bolsa, sendo compulsória a sua concessão, bem como a do auxíliotransporte,e, também, pode ofertar outra forma de contraprestação de serviço, como alimentação e saúde sem que configure vínculo empregatício. 
+## **CAPITULO VI DAS ATRIBUIÇÕES DOS ENVOLVIDOS NO PROCESSO DOS ESTÁGIOS SUPERVISIONADOS**
 
-Parágrafo único. A parte concedente deve contratar em favor do estagiário seguro contra acidentes pessoais, cuja apólice seja compatível com valores de mercado, conforme fique estabelecido no termo de compromisso. 
+## **SEÇÃO I DO COLEGIADO DO CURSO**
 
-## **CAPITULO VI DAS ATRIBUIÇÕES DOS ENVOLVIDOS NO PROCESSO DOS ESTÁGIOS SUPERVISIONADOS** 
+**Art. 10** - Elaborar e revisar a regulamentação específica para o estágio supervisionado.
 
-## **SEÇÃO I DO COLEGIADO DO CURSO** 
+**Art 13** - Definir o período do calendário acadêmico a partir do qual serão aceitas solicitações de estágio não obrigatório.
 
-**Art. 10** - Elaborar e revisar a regulamentação específica para o estágio supervisionado. 
+**Art 14** - Aprovar e compatibilizar os planos de atividade de estágios elaborados pelos professores orientadores.
 
-**Art 13** - Definir o período do calendário acadêmico a partir do qual serão aceitas solicitações de estágio não obrigatório. 
+## **SEÇÃO II DO COORDENADOR DO CURSO**
 
-**Art 14** - Aprovar e compatibilizar os planos de atividade de estágios elaborados pelos professores orientadores. 
+**Art. 15** – Ao coordenador do curso incube:
 
-## **SEÇÃO II DO COORDENADOR DO CURSO** 
+I – Definir em conjunto com os professores orientadores os locais adequados para realização dos estágios;
 
-**Art. 15** – Ao coordenador do curso incube: 
+II - Enviar à Seção de Estágios a listagem dos alunos e professores orientadores;
 
-I – Definir em conjunto com os professores orientadores os locais adequados para realização dos estágios; 
+III - Realizar, em conjunto com os professores orientadores de estágio do curso, o planejamento, desenvolvimento e avaliação dos estágios supervisionados.
 
-II - Enviar à Seção de Estágios a listagem dos alunos e professores orientadores; 
+## **SEÇÃO III DO PROFESSOR ORIENTADOR**
 
-III - Realizar, em conjunto com os professores orientadores de estágio do curso, o planejamento, desenvolvimento e avaliação dos estágios supervisionados. 
+**Art. 15** – Ao Professor Orientador de Estágios incumbe:
 
-## **SEÇÃO III DO PROFESSOR ORIENTADOR** 
+I - Avaliar as instalações da parte concedente do estágio e sua adequação à formação cultural e profissional do educando, na forma de Termo de Vistoria.
 
-**Art. 15** – Ao Professor Orientador de Estágios incumbe: 
+II - Receber as propostas de estágio com as respectivas documentações encaminhadas pelos alunos e verificar o correto preenchimento dos documentos;
 
-I - Avaliar as instalações da parte concedente do estágio e sua adequação à formação cultural e profissional do educando, na forma de Termo de Vistoria. 
+III - Encaminhar após análise ao coordenador do curso para ciência e assinatura;
 
-II - Receber as propostas de estágio com as respectivas documentações encaminhadas pelos alunos e verificar o correto preenchimento dos documentos; 
+IV - Realizar contatos com os campos de estágios por meio de visitas aos locais ou contatos telefônicos conforme as necessidades e modalidade de supervisão adotada;
 
-III - Encaminhar após análise ao coordenador do curso para ciência e assinatura; 
+V - Determinar as datas de entrega das fichas de avaliação, procedendo a análise das mesmas e emitindo os conceitos, respeitando os prazos previstos no calendário escolar.
 
-IV - Realizar contatos com os campos de estágios por meio de visitas aos locais ou contatos telefônicos conforme as necessidades e modalidade de supervisão adotada; 
+## **SEÇÃO IV DO SUPERVISOR DE CAMPO**
 
-V - Determinar as datas de entrega das fichas de avaliação, procedendo a análise das mesmas e emitindo os conceitos, respeitando os prazos previstos no calendário escolar. 
+**Art. 16** – Ao supervisor de campo incumbe:
 
-## **SEÇÃO IV DO SUPERVISOR DE CAMPO** 
+I - Ter conhecimento do plano de estágio assiná-lo e colaborar para o total alcance dos objetivos propostos, viabilizando a execução das atividades previstas;
 
-**Art. 16** – Ao supervisor de campo incumbe: 
+II - Disponibilizar horários para orientação e avaliação do aluno estagiário, bem como para os contatos com o professor orientador;
 
-I - Ter conhecimento do plano de estágio assiná-lo e colaborar para o total alcance dos objetivos propostos, viabilizando a execução das atividades previstas; 
+III - Realizar o preenchimento das fichas de avaliação conforme orientação do professor e respeitando os prazos determinados.
 
-II - Disponibilizar horários para orientação e avaliação do aluno estagiário, bem como para os contatos com o professor orientador; 
+IV - Observar e fazer cumprir a legislação relacionada à saúde e segurança no trabalho em relação ao estagiário supervisionado.
 
-III - Realizar o preenchimento das fichas de avaliação conforme orientação do professor e respeitando os prazos determinados. 
+## **SEÇÃO V DO ALUNO ESTAGIÁRIO**
 
-IV - Observar e fazer cumprir a legislação relacionada à saúde e segurança no trabalho em relação ao estagiário supervisionado. 
+**Art. 17** – Ao aluno estagiário incumbe:
 
-## **SEÇÃO V DO ALUNO ESTAGIÁRIO** 
+I - Efetuar requerimento para o Estágio Supervisionado via Protocolo no Campus;
 
-**Art. 17** – Ao aluno estagiário incumbe: 
+II - Firmar o Termo de Compromisso com a entidade concedente, com interveniência do IFPR;
 
-I - Efetuar requerimento para o Estágio Supervisionado via Protocolo no Campus; 
+III - Realizar todas as atividades previstas no plano de estágio de acordo com as normas técnicas e primando pelos princípios éticos;
 
-II - Firmar o Termo de Compromisso com a entidade concedente, com interveniência do IFPR; 
+IV - Respeitar e cumprir as Cláusulas do Termo de Compromisso;
 
-III - Realizar todas as atividades previstas no plano de estágio de acordo com as normas técnicas e primando pelos princípios éticos; 
+V - Apresentar ao Professor Orientador do Estágio os documentos que compõem o processo final de seu estágio Supervisionado, cumprida a carga horária prevista e respeitando-se o calendário acadêmico;
 
-IV - Respeitar e cumprir as Cláusulas do Termo de Compromisso; 
+VI - Participar de todas as etapas de avaliação do Estágio Supervisionado;
 
-V - Apresentar ao Professor Orientador do Estágio os documentos que compõem o processo final de seu estágio Supervisionado, cumprida a carga horária prevista e respeitando-se o calendário acadêmico; 
+## **CAPÍTULO VII DO DESENVOLVIMENTO DOS ESTÁGIOS SUPERVISIONADOS**
 
-VI - Participar de todas as etapas de avaliação do Estágio Supervisionado; 
+## **SEÇÃO I DO TERMO DE COMPROMISSO**
 
-## **CAPÍTULO VII DO DESENVOLVIMENTO DOS ESTÁGIOS SUPERVISIONADOS** 
+**Art. 18** – Os Estágios Supervisionados serão precedidos da celebração do Termo de Compromisso entre o aluno e a entidade concedente, com interveniência do IFPR no qual estarão previstas as condições de sua realização e sua duração.
 
-## **SEÇÃO I DO TERMO DE COMPROMISSO** 
+## **SEÇÃO II DOS PLANOS DE ESTÁGIOS SUPERVISIONADOS**
 
-**Art. 18** – Os Estágios Supervisionados serão precedidos da celebração do Termo de Compromisso entre o aluno e a entidade concedente, com interveniência do IFPR no qual estarão previstas as condições de sua realização e sua duração. 
+**Art. 19** – O Plano de Atividades do estágio é formulado pelo professor orientador do IFPR, acordado entre o estagiário e o profissional supervisor da unidade concedente, sendo assinado pelas três partes.
 
-## **SEÇÃO II DOS PLANOS DE ESTÁGIOS SUPERVISIONADOS** 
+## **SEÇÃO III DA AVALIAÇÃO DO ESTÁGIO SUPERVISIONADO**
 
-**Art. 19** – O Plano de Atividades do estágio é formulado pelo professor orientador do IFPR, acordado entre o estagiário e o profissional supervisor da unidade concedente, sendo assinado pelas três partes. 
+**Art. 20** – Para avaliação do Estágio serão realizadas avaliações referentes aos procedimentos técnicos previstos e de acordo com o Plano de Atividades do estágio e com as normas vigentes no IFPR. A aprovação está condicionada:
 
-## **SEÇÃO III DA AVALIAÇÃO DO ESTÁGIO SUPERVISIONADO** 
+I - Alcançar o mínimo de freqüência igual a setenta e cinco por cento (75%) da carga horária constante no Termo de Compromisso;
 
-**Art. 20** – Para avaliação do Estágio serão realizadas avaliações referentes aos procedimentos técnicos previstos e de acordo com o Plano de Atividades do estágio e com as normas vigentes no IFPR. A aprovação está condicionada: 
+II - Obter o mínimo exigido em avaliação de acordo com o regulamento que o IFPR estabelece, no conjunto de tarefas realizadas.
 
-I - Alcançar o mínimo de freqüência igual a setenta e cinco por cento (75%) da carga horária constante no Termo de Compromisso; 
+## **CAPÍTULO VIII DO DESLIGAMENTO DO ESTAGIÁRIO**
 
-II - Obter o mínimo exigido em avaliação de acordo com o regulamento que o IFPR estabelece, no conjunto de tarefas realizadas. 
+**Art. 21** – O desligamento do estagiário da entidade concedente ocorrerá, automaticamente, após o prazo fixado no Termo de Compromisso.
 
-## **CAPÍTULO VIII DO DESLIGAMENTO DO ESTAGIÁRIO** 
+**Art. 22** – O aluno será desligado da entidade concedente antes do encerramento do período previsto no Termo de Compromisso nos seguintes casos:
 
-**Art. 21** – O desligamento do estagiário da entidade concedente ocorrerá, automaticamente, após o prazo fixado no Termo de Compromisso. 
+I – A pedido do estagiário, mediante comunicação prévia à Coordenação do Curso mediante protocolo;
 
-**Art. 22** – O aluno será desligado da entidade concedente antes do encerramento do período previsto no Termo de Compromisso nos seguintes casos: 
+II – Por iniciativa da entidade concedente, quando o estagiário deixar de cumprir obrigação prevista no Termo de Compromisso;
 
-I – A pedido do estagiário, mediante comunicação prévia à Coordenação do Curso mediante protocolo; 
+III – Por iniciativa do IFPR, quando a entidade concedente deixar de cumprir obrigação prevista no termo de Convênio ou no Termo de Compromisso;
 
-II – Por iniciativa da entidade concedente, quando o estagiário deixar de cumprir obrigação prevista no Termo de Compromisso; 
+IV – Por iniciativa do IFPR, quando o aluno infringir normas disciplinares da Instituição que levem ao seu desligamento do corpo discente;
 
-III – Por iniciativa do IFPR, quando a entidade concedente deixar de cumprir obrigação prevista no termo de Convênio ou no Termo de Compromisso; 
+V - Por iniciativa do IFPR, quando constatada realização de atividades não compatíveis com a programação curricular do curso TPD.
 
-IV – Por iniciativa do IFPR, quando o aluno infringir normas disciplinares da Instituição que levem ao seu desligamento do corpo discente; 
+VI - Por iniciativa do IFPR, quando a parte concedente indicar funcionário de seu quadro de pessoal com formação ou experiência profissional diversa da área de conhecimento do curso TPD.
 
-V - Por iniciativa do IFPR, quando constatada realização de atividades não compatíveis com a programação curricular do curso TPD. 
+VII - Por iniciativa do IFPR, quando a parte concedente não respeitar a periodicidade mínima de 6 (seis) meses para o envio do relatório de atividades.
 
-VI - Por iniciativa do IFPR, quando a parte concedente indicar funcionário de seu quadro de pessoal com formação ou experiência profissional diversa da área de conhecimento do curso TPD. 
+## **CAPÍTULO IX DAS DISPOSIÇÕES GERAIS**
 
-VII - Por iniciativa do IFPR, quando a parte concedente não respeitar a periodicidade mínima de 6 (seis) meses para o envio do relatório de atividades. 
+**Art. 23** – A realização do Estágio Supervisionado por parte do aluno não acarretará vinculo empregatício de qualquer natureza.
 
-## **CAPÍTULO IX DAS DISPOSIÇÕES GERAIS** 
+**Art. 24** - O aluno deve recorrer preferentemente a serviços de agentes de integração públicos e privados, mediante condições acordadas em instrumento jurídico apropriado, para a realização do Estágio Supervisionado. **Art. 25** – Os casos omissos serão resolvidos pelo Colegiado de Curso TPD ou pela Direção de Ensino, Pesquisa e Extensão do Campus Londrina, no que couber.
 
-**Art. 23** – A realização do Estágio Supervisionado por parte do aluno não acarretará vinculo empregatício de qualquer natureza. 
+## **5 Referências:**
 
-**Art. 24** - O aluno deve recorrer preferentemente a serviços de agentes de integração públicos e privados, mediante condições acordadas em instrumento jurídico apropriado, para a realização do Estágio Supervisionado. **Art. 25** – Os casos omissos serão resolvidos pelo Colegiado de Curso TPD ou pela Direção de Ensino, Pesquisa e Extensão do Campus Londrina, no que couber. 
+## BRASIL. RESOLUÇÃO CNE/CEB nº 6
 
-## **5 Referências:** 
+De 20 de setembro de 2012. Brasília, DF, 2012. Disponível em: <http://portal.mec.gov.br/index.php?option=com_content&view=article&id=17417&It emid=866>. Acesso em: 28 jun. 2013.
 
-## BRASIL. RESOLUÇÃO CNE/CEB nº 6 
+## BRASIL. Lei 10.639
 
-De 20 de setembro de 2012. Brasília, DF, 2012. Disponível em: <http://portal.mec.gov.br/index.php?option=com_content&view=article&id=17417&It emid=866>. Acesso em: 28 jun. 2013. 
+De 09 de janeiro de 2003. Brasília, DF, 2003. Disponível em:< http://www.planalto.gov.br/ccivil_03/leis/2003/l10.639.htm>. Acesso em: 21 ago. 2013.
 
-## BRASIL. Lei 10.639 
+## BRASIL. Lei 11.645
 
-De 09 de janeiro de 2003. Brasília, DF, 2003. Disponível em:< http://www.planalto.gov.br/ccivil_03/leis/2003/l10.639.htm>. Acesso em: 21 ago. 2013. 
+De 10 de março de 2008. Brasília, DF, 2008a. Disponível em:< http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11645.htm>. Acesso em: 21 ago. 2013.
 
-## BRASIL. Lei 11.645 
+° - LDB 9394/96, a Resolução CNE/CEB N 06/2012  e a Resolução 54/11 CONSUP/IFPR
 
-De 10 de março de 2008. Brasília, DF, 2008a. Disponível em:< http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11645.htm>. Acesso em: 21 ago. 2013. 
+## Parecer CNE/CEB nº 16/99
 
-° - LDB 9394/96, a Resolução CNE/CEB N 06/2012  e a Resolução 54/11 CONSUP/IFPR 
+Trata das Diretrizes Curriculares Nacionais para a Educação Profissional de Nível Técnico.
 
-## Parecer CNE/CEB nº 16/99 
+## Lei no 6.710, de 5 de novembro de 1979.
 
-Trata das Diretrizes Curriculares Nacionais para a Educação Profissional de Nível Técnico. 
+Dispõe sobre a profissão de Técnico em Prótese Dentária e determina outras providências.
 
-## Lei no 6.710, de 5 de novembro de 1979. 
+## DECRETO Nº 87.689, DE 11 DE OUTUBRO DE 1982.
 
-Dispõe sobre a profissão de Técnico em Prótese Dentária e determina outras providências. 
+Regulamenta a Lei nº 6.710, de 5 de novembro de 1979, que dispõe sobre a profissão de Técnico em Prótese Dentária, e determina outras providências.
 
-## DECRETO Nº 87.689, DE 11 DE OUTUBRO DE 1982. 
+Norma do Conselho Federal de Odontologia – CFO- 185/93 de 26 de abril de 1993
 
-Regulamenta a Lei nº 6.710, de 5 de novembro de 1979, que dispõe sobre a profissão de Técnico em Prótese Dentária, e determina outras providências. 
+Que dispõe sobre as atividades privativas do técnico e do auxiliar em prótese dentária.
 
-Norma do Conselho Federal de Odontologia – CFO- 185/93 de 26 de abril de 1993 
+Portaria 120/09 de 06 de Agosto de 2009
 
-Que dispõe sobre as atividades privativas do técnico e do auxiliar em prótese dentária. 
+Estabelece os critérios de avaliação do processo ensino aprendizagem do IFPR.
 
-Portaria 120/09 de 06 de Agosto de 2009 
+Resolução N° 54/11
 
-Estabelece os critérios de avaliação do processo ensino aprendizagem do IFPR. 
+Dispõe sobre a Organização Didático-Pedagógica da Educação Profissional Técnica de Nível Médio e Formação Inicial e Continuada de Trabalhadores no âmbito do Instituto Federal do Paraná – IFPR.
 
-Resolução N° 54/11 
+Resolução N° 02 de 26 de Março de 2013
 
-Dispõe sobre a Organização Didático-Pedagógica da Educação Profissional Técnica de Nível Médio e Formação Inicial e Continuada de Trabalhadores no âmbito do Instituto Federal do Paraná – IFPR. 
+Aprova o Regulamento de Estágio no âmbito do IFPR.
 
-Resolução N° 02 de 26 de Março de 2013 
+SAVIANI, D.
 
-Aprova o Regulamento de Estágio no âmbito do IFPR. 
+Pedagogia histórico-crítica: primeiras aproximações. Ed. Autores Associados. Campinas, São Paulo, 2008.
 
-SAVIANI, D. 
+## 7.Anexos
 
-Pedagogia histórico-crítica: primeiras aproximações. Ed. Autores Associados. Campinas, São Paulo, 2008. 
+> **INSTITUTO FEDERAL DE MINISTÉRIO DA EDUCAÇÃO, CIÊNCIA E TECNOLOGIA PARANÁ EDUCAÇÃO Campus Londrina**
 
-## 7.Anexos 
+## **ATA N. 17/2013 - REUNIÃO COLEGIADO DO CURSO TÉCNICO EM PRÓTESE DENTÁRIA DO IFPR.**
 
-**==> picture [43 x 59] intentionally omitted <==**
+Aos quatorze dias do mês de Novembro do ano de 2013, às 16h 00min, no Laboratório de Prótese do _campus_ Londrina do Instituto Federal do Paraná, reuniram-se o colegiado do curso técnico em prótese dentária: Prof. André Tomazini Gomes de Sá; Prof. Carlos Marcelo Archangelo; Prof. Carlos Alexandre Bertoncelo; Prof. Manoel Martin Jr e a Professora Karen Cristina Archangelo Perdigão sob presidência do coordenador do curso técnico de prótese dentária Prof. Carlos Alexandre Bertoncelo. A reunião apresentou a seguinte pauta: 1) Aprovação do Plano Pedagógico do Curso de Prótese Dentária, sob autorização: **Resolução n° 7611, do Conselho Superior – Instituto Federal do Paraná – IFPR, processo número: 23403.000163/2011-16.**
 
-**==> picture [35 x 35] intentionally omitted <==**
+1. O Plano Pedagógico do Curso (PPC) de Prótese Dentária foi **alterado** e **aprovado** pelo colegiado, após mudanças pertinentes orientadas pela Pró-Reitoria de Ensino (PROENS).
 
-> **INSTITUTO FEDERAL DE MINISTÉRIO DA EDUCAÇÃO, CIÊNCIA E TECNOLOGIA PARANÁ EDUCAÇÃO Campus Londrina** 
+Nada mais tendo para discutir, o Coordenador do curso técnico em prótese dentária agradeceu a presença de todos e deu por encerrada a sessão, da qual eu, Carlos Alexandre Bertoncelo, lavrei a presente ata que depois de lida e aprovada será assinada pelos presentes.
 
-**==> picture [88 x 52] intentionally omitted <==**
+_________________________________________________ Prof. André Tomazini Gomes de Sá ___________________________________________________ Prof. Carlos Alexandre Bertoncelo ___________________________________________________ Prof. Carlos Marcelo Archangelo ___________________________________________________ Professora. Karen Cristina Archangelo Perdigão
 
-## **ATA N. 17/2013 - REUNIÃO COLEGIADO DO CURSO TÉCNICO EM PRÓTESE DENTÁRIA DO IFPR.** 
+___________________________________________________
 
-Aos quatorze dias do mês de Novembro do ano de 2013, às 16h 00min, no Laboratório de Prótese do _campus_ Londrina do Instituto Federal do Paraná, reuniram-se o colegiado do curso técnico em prótese dentária: Prof. André Tomazini Gomes de Sá; Prof. Carlos Marcelo Archangelo; Prof. Carlos Alexandre Bertoncelo; Prof. Manoel Martin Jr e a Professora Karen Cristina Archangelo Perdigão sob presidência do coordenador do curso técnico de prótese dentária Prof. Carlos Alexandre Bertoncelo. A reunião apresentou a seguinte pauta: 1) Aprovação do Plano Pedagógico do Curso de Prótese Dentária, sob autorização: **Resolução n° 7611, do Conselho Superior – Instituto Federal do Paraná – IFPR, processo número: 23403.000163/2011-16.** 
-
-1. O Plano Pedagógico do Curso (PPC) de Prótese Dentária foi **alterado** e **aprovado** pelo colegiado, após mudanças pertinentes orientadas pela Pró-Reitoria de Ensino (PROENS). 
-
-Nada mais tendo para discutir, o Coordenador do curso técnico em prótese dentária agradeceu a presença de todos e deu por encerrada a sessão, da qual eu, Carlos Alexandre Bertoncelo, lavrei a presente ata que depois de lida e aprovada será assinada pelos presentes. 
-
-_________________________________________________ Prof. André Tomazini Gomes de Sá ___________________________________________________ Prof. Carlos Alexandre Bertoncelo ___________________________________________________ Prof. Carlos Marcelo Archangelo ___________________________________________________ Professora. Karen Cristina Archangelo Perdigão 
-
-___________________________________________________ 
-
-Prof. Manoel Martin Junior 
+Prof. Manoel Martin Junior
 

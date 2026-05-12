@@ -1,98 +1,98 @@
-INSTITUTOFEDERAL Parana 
+INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+Ministerio da Educacao
 
-**MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO SUPERIOR INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ PRÓ - REITORIA DE ENSINO DIRETORIA DE ENSINO** 
+**MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO SUPERIOR INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ PRÓ - REITORIA DE ENSINO DIRETORIA DE ENSINO**
 
-**PROJETO PEDAGÓGICO DO CURSO DE LICENCIATURA EM PEDAGOGIA** 
+**PROJETO PEDAGÓGICO DO CURSO DE LICENCIATURA EM PEDAGOGIA**
 
-**AUTORIZADO PELA RESOLUÇÃO Nº34/2018 AJUSTE PARECER CONSEPE Nº106/2018 RECONHECIMENTO DO CURSO PORTARIA Nº 234/2023** 
+**AUTORIZADO PELA RESOLUÇÃO Nº34/2018 AJUSTE PARECER CONSEPE Nº106/2018 RECONHECIMENTO DO CURSO PORTARIA Nº 234/2023**
 
-**Curitiba 2023** 
+**Curitiba 2023**
 
-0 
+0
 
-INSTITUTOFEDERAL Parana 
+INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+Ministerio da Educacao
 
-## **INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ** 
+## **INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**
 
-**Reitor** 
+**Reitor**
 
-Odacir Antonio Zanatta 
+Odacir Antonio Zanatta
 
-**Pró-Reitor de Ensino** Amarildo Pinheiro Magalhães 
+**Pró-Reitor de Ensino** Amarildo Pinheiro Magalhães
 
-**Pró-Reitor(a) de Ensino Adjunto(a)** Cristiane Ribeiro da Silva 
+**Pró-Reitor(a) de Ensino Adjunto(a)** Cristiane Ribeiro da Silva
 
-**Diretor/a de Ensino** Patrícia Daniela Maciel 
+**Diretor/a de Ensino** Patrícia Daniela Maciel
 
-## **Coordenador/a de Cursos de Graduação** 
+## **Coordenador/a de Cursos de Graduação**
 
-Katia Andrea Silva da Costa 
+Katia Andrea Silva da Costa
 
-**Direção Geral do Campus** Adriano Willian da Silva 
+**Direção Geral do Campus** Adriano Willian da Silva
 
-## **Direção de Ensino, Pesquisa e Extensão do Campus** 
+## **Direção de Ensino, Pesquisa e Extensão do Campus**
 
-Giancarlo de França Aguiar Vilmar Fernandes 
+Giancarlo de França Aguiar Vilmar Fernandes
 
-## **Coordenador de Curso** 
+## **Coordenador de Curso**
 
-Iara Aquino Henn Diana Gurgel Pegorini 
+Iara Aquino Henn Diana Gurgel Pegorini
 
-## **Núcleo Docente Estruturante** 
+## **Núcleo Docente Estruturante**
 
-Cíntia Souza Batista Tortato Diana Gurgel Pegorini Iara Aquino Henn Sandra Urbanetz Rosangela Gonçalves de Oliveira Gabriela Chicuta Ribeiro Wesley Soares Guedes de Moraes 
+Cíntia Souza Batista Tortato Diana Gurgel Pegorini Iara Aquino Henn Sandra Urbanetz Rosangela Gonçalves de Oliveira Gabriela Chicuta Ribeiro Wesley Soares Guedes de Moraes
 
-**Comissão de Estruturação de Curso** Adnilra S. Moreira da Silva Sandeski 
+**Comissão de Estruturação de Curso** Adnilra S. Moreira da Silva Sandeski
 
-1 
+1
 
-## INSTITUTOFEDERAL Parana 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+Ministerio da Educacao
 
-Bruno Coletty Elisete Lopes Cassiano Hellen Christina Gonçalves Leandro Rafael Pinto Luciana dos Santos Rosenau Maria Helena Vianna Marianna Angonese Frankiv Regiane Dionísio Pinheiro Porrua Rogério Gomes Rosangela Gonçalves De Oliveira Sandra Terezinha Urbanetz Sebastião Dambroski Susi de Fátima Carvalho da Silva 
+Bruno Coletty Elisete Lopes Cassiano Hellen Christina Gonçalves Leandro Rafael Pinto Luciana dos Santos Rosenau Maria Helena Vianna Marianna Angonese Frankiv Regiane Dionísio Pinheiro Porrua Rogério Gomes Rosangela Gonçalves De Oliveira Sandra Terezinha Urbanetz Sebastião Dambroski Susi de Fátima Carvalho da Silva
 
-## **Colegiado de Gestão Pedagógica do Campus** 
+## **Colegiado de Gestão Pedagógica do Campus**
 
-Coordenadora do Núcleo Comum: Marineide Maria Silva 
+Coordenadora do Núcleo Comum: Marineide Maria Silva
 
-Coordenadora do Curso Técnico Integrado em Administração: Leila Araújo de Sousa Coordenador do Curso Técnico Integrado em Contabilidade: Erick Renan Xavier de Oliveira Coordenador do Curso Técnico Integrado em Eletrônica: Perci Ayres Antiqueira Coordenador do Curso Técnico Integrado em Mecânica: Wagner Uhlmann 
+Coordenadora do Curso Técnico Integrado em Administração: Leila Araújo de Sousa Coordenador do Curso Técnico Integrado em Contabilidade: Erick Renan Xavier de Oliveira Coordenador do Curso Técnico Integrado em Eletrônica: Perci Ayres Antiqueira Coordenador do Curso Técnico Integrado em Mecânica: Wagner Uhlmann
 
-Coordenador do Curso Técnico Integrado em Processos Fotográficos: Datames Acastro Egg Segundo 
+Coordenador do Curso Técnico Integrado em Processos Fotográficos: Datames Acastro Egg Segundo
 
-Coordenadora do Curso Técnico Integrado em Petróleo e Gás: Gisele Cristiane Becher Ribas Coordenadora do Curso Técnico Integrado em Jogos Digitais: Denise Sato Coordenador do Curso Técnico Integrado em Informática: Daniel Bussolaro Coordenadora do curso Subsequente de Edificações: Vanessa Vogt 
+Coordenadora do Curso Técnico Integrado em Petróleo e Gás: Gisele Cristiane Becher Ribas Coordenadora do Curso Técnico Integrado em Jogos Digitais: Denise Sato Coordenador do Curso Técnico Integrado em Informática: Daniel Bussolaro Coordenadora do curso Subsequente de Edificações: Vanessa Vogt
 
-Coordenadora do curso Subsequente de Eletromecânica: Danniella Rosa 
+Coordenadora do curso Subsequente de Eletromecânica: Danniella Rosa
 
-Coordenador do curso Subsequente de Eletrotécnica: Alexandre Francisco de Moraes Coordenadora do curso Subsequente de Enfermagem: Leni de Lima Santana Coordenador do curso Subsequente de Eventos: Marcos Rogério Maiolli Coordenadora do curso Subsequente de Massoterapia: Evelise Dias Antunes Coordenadora do curso Subsequente de Produção de Áudio e Vídeo: Fabiana Maria Moro Van 
+Coordenador do curso Subsequente de Eletrotécnica: Alexandre Francisco de Moraes Coordenadora do curso Subsequente de Enfermagem: Leni de Lima Santana Coordenador do curso Subsequente de Eventos: Marcos Rogério Maiolli Coordenadora do curso Subsequente de Massoterapia: Evelise Dias Antunes Coordenadora do curso Subsequente de Produção de Áudio e Vídeo: Fabiana Maria Moro Van
 
-Abbema 
+Abbema
 
-Coordenador do curso Subsequente de Prótese Dentária: Rogério Goulart da Costa Coordenadora do curso Subsequente de Radiologia: Marinei do Rocio Pacheco dos Santos. Coordenadora do curso Subsequente de Saúde Bucal: Doriana Cristina Gaio Girata 
+Coordenador do curso Subsequente de Prótese Dentária: Rogério Goulart da Costa Coordenadora do curso Subsequente de Radiologia: Marinei do Rocio Pacheco dos Santos. Coordenadora do curso Subsequente de Saúde Bucal: Doriana Cristina Gaio Girata
 
-2 
+2
 
-INSTITUTOFEDERAL Parana 
+INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+Ministerio da Educacao
 
-Coordenador do curso Subsequente de Telecomunicações: Everaldo Ribeiro Brinhole Coordenadora do curso Subsequente de Condomínio: Ester dos Santos Oliveira Coordenadora do curso Subsequente de Mecânica: Monica Beltrami 
+Coordenador do curso Subsequente de Telecomunicações: Everaldo Ribeiro Brinhole Coordenadora do curso Subsequente de Condomínio: Ester dos Santos Oliveira Coordenadora do curso Subsequente de Mecânica: Monica Beltrami
 
-Curso Superior - Bacharelado em Ciências Contábeis: Adriano Marcos Fuzaro Curso Superior - Tecnologia em Gestão Pública: José Carlos Pereira Curso Superior - Tecnologia em Massoterapia: Cibele Savi Stelmach Curso Superior - Licenciatura em Pedagogia: Iara Aquino Henn Curso Superior - Tecnologia em Processos Gerenciais: Alexandre Fernandes Curso Superior - Tecnologia em Secretariado: Mara Christina Vilas Boas Especialização em Educação Musical para a Educação Básica: Luis Bourscheidt Especialização em Educação Profissional: Luciana Rosenau Especialização em Gestão e Negócios: Roberto Guindani 
+Curso Superior - Bacharelado em Ciências Contábeis: Adriano Marcos Fuzaro Curso Superior - Tecnologia em Gestão Pública: José Carlos Pereira Curso Superior - Tecnologia em Massoterapia: Cibele Savi Stelmach Curso Superior - Licenciatura em Pedagogia: Iara Aquino Henn Curso Superior - Tecnologia em Processos Gerenciais: Alexandre Fernandes Curso Superior - Tecnologia em Secretariado: Mara Christina Vilas Boas Especialização em Educação Musical para a Educação Básica: Luis Bourscheidt Especialização em Educação Profissional: Luciana Rosenau Especialização em Gestão e Negócios: Roberto Guindani
 
-Especialização em Gestão Empresarial, Contábil e Tributária: Paulinho Renê Stefanello Especialização em Gestão Pública: Antonio Carlos Novaes de Souza Especialização em Gestão Social em Políticas Públicas: Rodrigo Tramutolo Navarro Mestrado profissional em Educação Profissional: Cristine Roberta Piassetta Xavier. 
+Especialização em Gestão Empresarial, Contábil e Tributária: Paulinho Renê Stefanello Especialização em Gestão Pública: Antonio Carlos Novaes de Souza Especialização em Gestão Social em Políticas Públicas: Rodrigo Tramutolo Navarro Mestrado profissional em Educação Profissional: Cristine Roberta Piassetta Xavier.
 
-3 
+3
 
-Parana 
+Parana
 
-Ministerio da Educacao 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL 
+## INSTITUTOFEDERAL
 
 |**1.APRESENTAÇÃO DO PROJETO**|**7**|
 |---|---|
@@ -126,17 +126,15 @@ Ministerio da Educacao
 |**3. METODOLOGIA E ESTRATÉGIAS PEDAGÓGICAS**|**28**|
 |3.1 RELAÇÃO ENTRE ENSINO, PESQUISA , EXTENSÃO E INOVAÇÃO|29|
 
+3.2 TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO NO PROCESSO
 
+4
 
-3.2 TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO NO PROCESSO 
+Parana
 
-4 
+Ministerio da Educacao
 
-Parana 
-
-Ministerio da Educacao 
-
-## INSTITUTOFEDERAL 
+## INSTITUTOFEDERAL
 
 ||DE ENSINO-APRENDIZAGEM|31|
 |---|---|---|
@@ -175,13 +173,11 @@ Ministerio da Educacao
 ||6.2 CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO|121|
 ||6.2.1 Políticas de Capacitação do Corpo Técnico Administrativo em Educação|128|
 
+5
 
+INSTITUTOFEDERAL Parana
 
-5 
-
-INSTITUTOFEDERAL Parana 
-
-Ministerio da Educacao 
+Ministerio da Educacao
 
 |**7. INFRAESTRUTURA**|**128**|
 |---|---|
@@ -204,281 +200,255 @@ Ministerio da Educacao
 |APÊNDICE D- NORMAS BRINQUEDOTECA                                                                   168|APÊNDICE D- NORMAS BRINQUEDOTECA                                                                   168|
 |APÊNDICE E - NORMAS DE ESTÁGIO NÃO OBRIGATÓRIO                                       175|APÊNDICE E - NORMAS DE ESTÁGIO NÃO OBRIGATÓRIO                                       175|
 
+6
 
+INSTITUTOFEDERAL Parana
 
-6 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+## **1.APRESENTAÇÃO DO PROJETO**
 
-Ministerio da Educacao 
+1.1 IDENTIFICAÇÃO
 
-## **1.APRESENTAÇÃO DO PROJETO** 
+## **1.1.1 Denominação do Curso**
 
-1.1 IDENTIFICAÇÃO 
+Pedagogia
 
-## **1.1.1 Denominação do Curso** 
+## **1.1.2 Área do Conhecimento/Eixo Tecnológico**
 
-Pedagogia 
+Educação - 70800006
 
-## **1.1.2 Área do Conhecimento/Eixo Tecnológico** 
+## **1.1.3 Modalidade**
 
-Educação - 70800006 
+(X) Presencial
 
-## **1.1.3 Modalidade** 
+(  ) Presencial com xx% a Distância
 
-(X) Presencial 
+(  ) a Distância
 
-(  ) Presencial com xx% a Distância 
+## **1.1.4 Grau**
 
-(  ) a Distância 
+Licenciatura.
 
-## **1.1.4 Grau** 
+## **1.1.5 Regime Letivo (Periodicidade)**
 
-Licenciatura. 
+Semestral.
 
-## **1.1.5 Regime Letivo (Periodicidade)** 
+## **1.1.6 Turno principal do curso**
 
-Semestral. 
+Vespertino.
 
-## **1.1.6 Turno principal do curso** 
+## **1.1.7 Horário de oferta do curso**
 
-Vespertino. 
+13h30min às 17h45min – Período Vespertino Aulas de Segunda-feira a Sexta-feira
 
-## **1.1.7 Horário de oferta do curso** 
+## **1.1.8 Prazo de Integralização Curricular**
 
-13h30min às 17h45min – Período Vespertino Aulas de Segunda-feira a Sexta-feira 
+Prazo mínimo: 4 anos Prazo máximo: 7 anos
 
-## **1.1.8 Prazo de Integralização Curricular** 
+## **1.1.9 Carga-Horária total do Curso**
 
-Prazo mínimo: 4 anos Prazo máximo: 7 anos 
+3200h
 
-## **1.1.9 Carga-Horária total do Curso** 
+7
 
-3200h 
+Ministerio da Educacao
 
-7 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+## **1.1.10 Vagas totais (anual)**
 
-## INSTITUTOFEDERAL Parana 
+Mínimo: 20 Máximo: 40
 
-## **1.1.10 Vagas totais (anual)** 
+## **1.1.11 Escolaridade mínima exigida**
 
-Mínimo: 20 Máximo: 40 
+Ensino Médio completo.
 
-## **1.1.11 Escolaridade mínima exigida** 
+## **1.1.12 Coordenador**
 
-Ensino Médio completo. 
+Nome: Iara Aquino Henn Titulação Máxima: Doutora Regime de Trabalho: Dedicação Exclusiva
 
-## **1.1.12 Coordenador** 
+## **1.1.13 Coordenador substituto**
 
-Nome: Iara Aquino Henn Titulação Máxima: Doutora Regime de Trabalho: Dedicação Exclusiva 
+Nome: Cíntia Souza Batista Tortato Titulação Máxima: Doutora Regime de Trabalho: Dedicação Exclusiva
 
-## **1.1.13 Coordenador substituto** 
+## **1.1.14 Endereço de Oferta**
 
-Nome: Cíntia Souza Batista Tortato Titulação Máxima: Doutora Regime de Trabalho: Dedicação Exclusiva 
+Campus: Curitiba Rua e Número: João Negrão, 1285. Bairro: Rebouças Cidade: Curitiba UF: PR CEP: 80230-150
 
-## **1.1.14 Endereço de Oferta** 
+8
 
-Campus: Curitiba Rua e Número: João Negrão, 1285. Bairro: Rebouças Cidade: Curitiba UF: PR CEP: 80230-150 
+## INSTITUTOFEDERAL Parana
 
-8 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+## 1.2 CONTEXTO HISTÓRICO DO PROJETO NO IFPR
 
-Ministerio da Educacao 
+## **1.2.1 O Instituto Federal do Paraná**
 
-## 1.2 CONTEXTO HISTÓRICO DO PROJETO NO IFPR 
+O atual IFPR - Instituto Federal do Paraná tem suas raízes em 1869 a partir da criação da Escola Técnica que pertencia à antiga Colônia Alemã de Curitiba, sendo seus fundadores Gottliebe Mueller e Augusto Gaertner, sócios da “Verein Deutche Schule”. Até 1914 o estabelecimento chamou-se Escola Alemã, tendo nesta ocasião mudado sua denominação para Colégio Progresso. Em 1914, a então Academia Comercial Progresso foi adquirida pela Faculdade de Direito da Universidade do Paraná, conforme consta da ata da reunião da respectiva Congregação, realizada em 18 de dezembro daquele ano. De acordo com escritura pública de incorporação, lavrada a 20 do mês de abril de 1942, no Cartório do 1º Tabelionato desta Capital, às folhas 11 e 12 do livro nº 291, a instituição foi autorizada a funcionar sob a denominação de Escola Técnica de Comércio anexa à Faculdade de Direito da Universidade do Paraná, por ato do Ministério da Educação e Cultura, datado de 27 de fevereiro de 1942. Com a federalização da Universidade do Paraná pela Lei nº 1.254, de 04 de dezembro de 1950, continuou a Escola a ser mantida pela Faculdade de Direito, consoante o artigo 15 da aludida lei. Por decisão do Conselho Universitário, proferida em 22 de janeiro de 1974, a Escola foi integrada à Universidade Federal do Paraná, como órgão suplementar, sob a denominação de Escola Técnica de Comércio da Universidade Federal do Paraná.
 
-## **1.2.1 O Instituto Federal do Paraná** 
+A Escola Técnica de Comércio, voltada aos objetivos da Lei nº 5.692/71, foi autorizada a ofertar os cursos Técnicos em Contabilidade e Secretariado, e outros cursos de formação profissional, além de aperfeiçoamento adequado ao aprimoramento de conhecimentos e capacitação técnica de egressos de seus cursos, realizando um trabalho educativo com qualidade e eficiência.
 
-O atual IFPR - Instituto Federal do Paraná tem suas raízes em 1869 a partir da criação da Escola Técnica que pertencia à antiga Colônia Alemã de Curitiba, sendo seus fundadores Gottliebe Mueller e Augusto Gaertner, sócios da “Verein Deutche Schule”. Até 1914 o estabelecimento chamou-se Escola Alemã, tendo nesta ocasião mudado sua denominação para Colégio Progresso. Em 1914, a então Academia Comercial Progresso foi adquirida pela Faculdade de Direito da Universidade do Paraná, conforme consta da ata da reunião da respectiva Congregação, realizada em 18 de dezembro daquele ano. De acordo com escritura pública de incorporação, lavrada a 20 do mês de abril de 1942, no Cartório do 1º Tabelionato desta Capital, às folhas 11 e 12 do livro nº 291, a instituição foi autorizada a funcionar sob a denominação de Escola Técnica de Comércio anexa à Faculdade de Direito da Universidade do Paraná, por ato do Ministério da Educação e Cultura, datado de 27 de fevereiro de 1942. Com a federalização da Universidade do Paraná pela Lei nº 1.254, de 04 de dezembro de 1950, continuou a Escola a ser mantida pela Faculdade de Direito, consoante o artigo 15 da aludida lei. Por decisão do Conselho Universitário, proferida em 22 de janeiro de 1974, a Escola foi integrada à Universidade Federal do Paraná, como órgão suplementar, sob a denominação de Escola Técnica de Comércio da Universidade Federal do Paraná. 
+A partir de 14 de dezembro de 1990, ao aprovar a reorganização administrativa da Universidade Federal do Paraná, o Conselho Universitário alterou sua denominação para Escola Técnica da Universidade Federal do Paraná. No ano letivo de 1991 a escola passa a ofertar os
 
-A Escola Técnica de Comércio, voltada aos objetivos da Lei nº 5.692/71, foi autorizada a ofertar os cursos Técnicos em Contabilidade e Secretariado, e outros cursos de formação profissional, além de aperfeiçoamento adequado ao aprimoramento de conhecimentos e capacitação técnica de egressos de seus cursos, realizando um trabalho educativo com qualidade e eficiência. 
+9
 
-A partir de 14 de dezembro de 1990, ao aprovar a reorganização administrativa da Universidade Federal do Paraná, o Conselho Universitário alterou sua denominação para Escola Técnica da Universidade Federal do Paraná. No ano letivo de 1991 a escola passa a ofertar os 
+Ministerio da Educacao
 
-9 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+seguintes cursos: Técnico em Enfermagem, Técnico em Higiene Dental, Técnico em Prótese Dentária e Técnico em Processamento de Dados, além do tradicional Curso Técnico em Contabilidade, passando a especializar-se em cursos do Setor de Serviços. Ainda na década de 90 são implantados os cursos: Técnico em Administração de Empresas, Técnico em Filosofia Cênicas, Técnico em Radiologia Médica e Técnico em Transações Imobiliárias.
 
-## INSTITUTOFEDERAL Parana 
+Com a promulgação da Lei nº 9.394/96 e do Decreto 2.208/97 a Escola passa a adaptar-se à nova situação da Reforma da Educação Profissional, reestruturando seus cursos e implantando o Curso de Tecnologia em Informática.
 
-seguintes cursos: Técnico em Enfermagem, Técnico em Higiene Dental, Técnico em Prótese Dentária e Técnico em Processamento de Dados, além do tradicional Curso Técnico em Contabilidade, passando a especializar-se em cursos do Setor de Serviços. Ainda na década de 90 são implantados os cursos: Técnico em Administração de Empresas, Técnico em Filosofia Cênicas, Técnico em Radiologia Médica e Técnico em Transações Imobiliárias. 
+No período de 2002 a 2005 a Escola passa a atender as demandas de profissionalização de Instituições e da Sociedade Civil organizada, implantando cursos nas seguintes áreas profissionais: indústria, agropecuária, turismo e hospitalidade. Além de atuar em novas áreas profissionais, a escola amplia o número de cursos nas áreas profissionais de Filosofia, gestão e saúde.
 
-Com a promulgação da Lei nº 9.394/96 e do Decreto 2.208/97 a Escola passa a adaptar-se à nova situação da Reforma da Educação Profissional, reestruturando seus cursos e implantando o Curso de Tecnologia em Informática. 
+Com a Lei 11.892 do dia 29 de dezembro de 2008, criou-se o Instituto Federal do Paraná a partir da Escola Técnica vinculada a Universidade Federal do Paraná.
 
-No período de 2002 a 2005 a Escola passa a atender as demandas de profissionalização de Instituições e da Sociedade Civil organizada, implantando cursos nas seguintes áreas profissionais: indústria, agropecuária, turismo e hospitalidade. Além de atuar em novas áreas profissionais, a escola amplia o número de cursos nas áreas profissionais de Filosofia, gestão e saúde. 
+Os Institutos Federais de Educação, Ciência e Tecnologia são instituições de educação superior, básica e profissional, pluricurriculares e multicampi, especializados na oferta de educação profissional e tecnológica nas diferentes modalidades de ensino, com base na conjugação de conhecimentos técnicos e tecnológicos às suas práticas pedagógicas. Os Institutos compõem a Rede Federal de Educação Profissional e Tecnológica.
 
-Com a Lei 11.892 do dia 29 de dezembro de 2008, criou-se o Instituto Federal do Paraná a partir da Escola Técnica vinculada a Universidade Federal do Paraná. 
+Por recomendação da Lei e da realidade a ser atendida os institutos devem ter forte inserção na área de pesquisa e extensão, visando estimular o desenvolvimento de soluções técnicas e tecnológicas e estendendo seus benefícios à comunidade. Metade das vagas será destinada à oferta de cursos técnicos de nível médio, em especial cursos de ensino médio integrado à educação profissional.
 
-Os Institutos Federais de Educação, Ciência e Tecnologia são instituições de educação superior, básica e profissional, pluricurriculares e multicampi, especializados na oferta de educação profissional e tecnológica nas diferentes modalidades de ensino, com base na conjugação de conhecimentos técnicos e tecnológicos às suas práticas pedagógicas. Os Institutos compõem a Rede Federal de Educação Profissional e Tecnológica. 
+Na educação superior, o destaque fica para os cursos de engenharias e de licenciaturas em ciências: física, química, matemática e biologia. Ainda serão incentivadas as licenciaturas de conteúdos específicos da educação profissional e tecnológica, como a formação de professores de mecânica, eletricidade e informática, por exemplo.
 
-Por recomendação da Lei e da realidade a ser atendida os institutos devem ter forte inserção na área de pesquisa e extensão, visando estimular o desenvolvimento de soluções técnicas e tecnológicas e estendendo seus benefícios à comunidade. Metade das vagas será destinada à oferta de cursos técnicos de nível médio, em especial cursos de ensino médio integrado à educação profissional. 
+10
 
-Na educação superior, o destaque fica para os cursos de engenharias e de licenciaturas em ciências: física, química, matemática e biologia. Ainda serão incentivadas as licenciaturas de conteúdos específicos da educação profissional e tecnológica, como a formação de professores de mecânica, eletricidade e informática, por exemplo. 
+## INSTITUTOFEDERAL Parana
 
-10 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+Os institutos federais têm autonomia, nos limites de sua área de atuação territorial, para criar e extinguir cursos, bem como para registrar diplomas dos cursos por ele oferecidos, mediante autorização do seu Conselho Superior. Podem também exercer o papel de instituições acreditadoras e certificadoras de competências profissionais. Cada instituto federal é organizado em estrutura com vários campi, com proposta orçamentária anual identificada para cada campus e reitoria, equiparando-se com as universidades federais.
 
-Ministerio da Educacao 
+## **1.2.2 O Curso Superior de Licenciatura em Pedagogia**
 
-Os institutos federais têm autonomia, nos limites de sua área de atuação territorial, para criar e extinguir cursos, bem como para registrar diplomas dos cursos por ele oferecidos, mediante autorização do seu Conselho Superior. Podem também exercer o papel de instituições acreditadoras e certificadoras de competências profissionais. Cada instituto federal é organizado em estrutura com vários campi, com proposta orçamentária anual identificada para cada campus e reitoria, equiparando-se com as universidades federais. 
+A formação de profissionais de educação, professores e gestores, no Brasil, é restrita. O número de professores leigos que ocupam funções docentes sem formação específica é elevado, além de que a maioria das escolas não possui profissionais devidamente formados para o trabalho na gestão, na assessoria pedagógica e para a promoção da formação de professores nos cursos de nível médio e a formação continuada dos professores nas escolas. Soma-se às necessidades do sistema regular de ensino a formação continuada dos trabalhadores em geral nas empresas.  Nesta tarefa a contribuição e participação dos profissionais da educação, principalmente, dos Pedagogos é solicitada.
 
-## **1.2.2 O Curso Superior de Licenciatura em Pedagogia** 
+O Plano Nacional de Educação (PNE 2014-2024) apresenta como meta a ampliação de matrículas na educação superior, com o objetivo de assegurar qualidade, fomentar a oferta de educação superior pública e gratuita, enfatizando a formação de professores para a educação básica.
 
-A formação de profissionais de educação, professores e gestores, no Brasil, é restrita. O número de professores leigos que ocupam funções docentes sem formação específica é elevado, além de que a maioria das escolas não possui profissionais devidamente formados para o trabalho na gestão, na assessoria pedagógica e para a promoção da formação de professores nos cursos de nível médio e a formação continuada dos professores nas escolas. Soma-se às necessidades do sistema regular de ensino a formação continuada dos trabalhadores em geral nas empresas.  Nesta tarefa a contribuição e participação dos profissionais da educação, principalmente, dos Pedagogos é solicitada. 
+O Curso de Pedagogia visa a formação de docentes da Educação Infantil, Ensino Fundamental e Magistério de nível Médio, além da docência, forma o Pedagogo para atuação na Gestão Educacional em espaços escolares e não escolares. O Curso de Licenciatura em Pedagogia possui demanda contínua para o mercado de trabalho, pois o pedagogo é o profissional responsável pela educação escolar na Educação Infantil e Anos Iniciais do Ensino Fundamental, tanto em instituições públicas como privadas.
 
-O Plano Nacional de Educação (PNE 2014-2024) apresenta como meta a ampliação de matrículas na educação superior, com o objetivo de assegurar qualidade, fomentar a oferta de educação superior pública e gratuita, enfatizando a formação de professores para a educação básica. 
+A ampliação do atendimento das crianças de 4 a 5 anos da Educação Infantil e de 50% das crianças de até 3 anos em Creches previsto como metas do atual PNE, corroboram com a afirmação de que haverá demanda para atuação destes profissionais. Salienta-se que, no ensino fundamental,
 
-O Curso de Pedagogia visa a formação de docentes da Educação Infantil, Ensino Fundamental e Magistério de nível Médio, além da docência, forma o Pedagogo para atuação na Gestão Educacional em espaços escolares e não escolares. O Curso de Licenciatura em Pedagogia possui demanda contínua para o mercado de trabalho, pois o pedagogo é o profissional responsável pela educação escolar na Educação Infantil e Anos Iniciais do Ensino Fundamental, tanto em instituições públicas como privadas. 
+11
 
-A ampliação do atendimento das crianças de 4 a 5 anos da Educação Infantil e de 50% das crianças de até 3 anos em Creches previsto como metas do atual PNE, corroboram com a afirmação de que haverá demanda para atuação destes profissionais. Salienta-se que, no ensino fundamental, 
+Ministerio da Educacao
 
-11 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+a maioria das crianças já estão matriculadas, no entanto na educação infantil, os índices de ingresso são ainda inferiores a 30%. Em decorrência, a formação de professores para esta modalidade encontra-se no início, ou seja, não é necessário apenas formar os profissionais que já atuam, mas também preparar para a expansão do sistema.
 
-## INSTITUTOFEDERAL Parana 
+Constata-se que, além da atuação do pedagogo na educação básica, estes profissionais estão presentes também na Educação Superior, na Educação a Distância, na Pedagogia Hospitalar, em Recursos Humanos e no Desenvolvimento Profissional de Colaboradores.
 
-a maioria das crianças já estão matriculadas, no entanto na educação infantil, os índices de ingresso são ainda inferiores a 30%. Em decorrência, a formação de professores para esta modalidade encontra-se no início, ou seja, não é necessário apenas formar os profissionais que já atuam, mas também preparar para a expansão do sistema. 
+## **1.2.3 Missão, Visão e Valores**
 
-Constata-se que, além da atuação do pedagogo na educação básica, estes profissionais estão presentes também na Educação Superior, na Educação a Distância, na Pedagogia Hospitalar, em Recursos Humanos e no Desenvolvimento Profissional de Colaboradores. 
+## **Missão**
 
-## **1.2.3 Missão, Visão e Valores** 
+Promover e valorizar a educação profissional e tecnológica, com base na indissociabilidade do ensino, pesquisa, extensão e inovação contribuindo para a formação do cidadão e da sustentabilidade da sociedade paranaense e brasileira, com amparo nos princípios da ética e da responsabilidade social.
 
-## **Missão** 
+## **Visão**
 
-Promover e valorizar a educação profissional e tecnológica, com base na indissociabilidade do ensino, pesquisa, extensão e inovação contribuindo para a formação do cidadão e da sustentabilidade da sociedade paranaense e brasileira, com amparo nos princípios da ética e da responsabilidade social. 
+Ser modelo de instituição de educação profissional e tecnológica caracterizada pelo compromisso social, ambiental e com a sustentabilidade, capaz de atuar com inovação e de forma transformadora.
 
-## **Visão** 
+## **Valores**
 
-Ser modelo de instituição de educação profissional e tecnológica caracterizada pelo compromisso social, ambiental e com a sustentabilidade, capaz de atuar com inovação e de forma transformadora. 
+São valores do IFPR:
 
-## **Valores** 
+- Compromisso com a construção do saber e reconhecimento dos saberes sociais;
 
-São valores do IFPR: 
+- Promoção de educação de qualidade, inclusiva e integradora, formadora de profissionais competentes e comprometidos com a responsabilidade sócio-ambiental;
 
-- Compromisso com a construção do saber e reconhecimento dos saberes sociais; 
+- Gestão participativa, dinâmica e transparente, comprometida com a qualidade de vida;
 
-- Promoção de educação de qualidade, inclusiva e integradora, formadora de profissionais competentes e comprometidos com a responsabilidade sócio-ambiental; 
+- Desenvolvimento de inovação tecnológica por meio de postura empreendedora;
 
-- Gestão participativa, dinâmica e transparente, comprometida com a qualidade de vida; 
+12
 
-- Desenvolvimento de inovação tecnológica por meio de postura empreendedora; 
+INSTITUTOFEDERAL Parana
 
-12 
+Ministerio da Educacao<br>
 
-INSTITUTOFEDERAL Parana 
+- Comportamento ético orientado pelos princípios da dignidade humana, respeito às diferenças dos cidadãos e combate a todas as formas de discriminação;
 
-**==> picture [83 x 9] intentionally omitted <==**
+- Respeito, preservação e disseminação da cultura e das tradições locais;
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+- Qualidade e excelência para promover a melhoria contínua dos serviços oferecidos, para a satisfação da sociedade.
 
+## **2. PRINCÍPIOS E FUNDAMENTOS PEDAGÓGICOS**
 
-- Comportamento ético orientado pelos princípios da dignidade humana, respeito às diferenças dos cidadãos e combate a todas as formas de discriminação; 
+A organização didático-pedagógica do Curso de Licenciatura em Pedagogia do Campus Curitiba está organizada conforme a Resolução 50/2011 do IFPR. Esse curso se desenvolve a partir da demanda de formação para profissionais para atuação na Educação Infantil e Básica. A partir das discussões clássicas e atuais para a formação de professores o curso visa oferecer formação aos profissionais graduados atuantes na educação básica, a partir de uma base sólida de conhecimentos teóricos e práticos, no intuito de promover um ensino pautado na valorização do ser humano, e em consonância com as demandas da sociedade atual.
 
-- Respeito, preservação e disseminação da cultura e das tradições locais; 
+Essa preocupação encontra-se expressa na LDBEN 9.394/96, ao apontar a necessidade de formação em nível de licenciatura para a atuação na educação básica; em todas as legislações referentes ao assunto e na mais recente Resolução do Conselho Nacional de Educação, a Resolução nº 2, de 1º de julho de 2015, que “Define as Diretrizes Curriculares Nacionais para a formação inicial em nível superior (cursos de licenciatura, cursos de formação pedagógica para graduados e cursos de segunda licenciatura) e para a formação continuada.”
 
-- Qualidade e excelência para promover a melhoria contínua dos serviços oferecidos, para a satisfação da sociedade. 
+O currículo do curso orienta-se por uma compreensão ampla do trabalho docente, incluindo estágios a partir do 2º semestre do curso, nos componentes curriculares da área de formação, atividades de aprofundamento como uma forma de conhecer e compreender o trabalho escolar na sua totalidade, envolvendo os diferentes níveis de planejamento no âmbito da instituição e do sistema de ensino, superando a fragmentação do trabalho na escola. Além disso, em cada componente curricular serão desenvolvidas atividades integradoras que acompanham todas as
 
-## **2. PRINCÍPIOS E FUNDAMENTOS PEDAGÓGICOS** 
+13
 
-A organização didático-pedagógica do Curso de Licenciatura em Pedagogia do Campus Curitiba está organizada conforme a Resolução 50/2011 do IFPR. Esse curso se desenvolve a partir da demanda de formação para profissionais para atuação na Educação Infantil e Básica. A partir das discussões clássicas e atuais para a formação de professores o curso visa oferecer formação aos profissionais graduados atuantes na educação básica, a partir de uma base sólida de conhecimentos teóricos e práticos, no intuito de promover um ensino pautado na valorização do ser humano, e em consonância com as demandas da sociedade atual. 
+INSTITUTOFEDERAL Parana
 
-Essa preocupação encontra-se expressa na LDBEN 9.394/96, ao apontar a necessidade de formação em nível de licenciatura para a atuação na educação básica; em todas as legislações referentes ao assunto e na mais recente Resolução do Conselho Nacional de Educação, a Resolução nº 2, de 1º de julho de 2015, que “Define as Diretrizes Curriculares Nacionais para a formação inicial em nível superior (cursos de licenciatura, cursos de formação pedagógica para graduados e cursos de segunda licenciatura) e para a formação continuada.” 
+Ministerio da Educacao
 
-O currículo do curso orienta-se por uma compreensão ampla do trabalho docente, incluindo estágios a partir do 2º semestre do curso, nos componentes curriculares da área de formação, atividades de aprofundamento como uma forma de conhecer e compreender o trabalho escolar na sua totalidade, envolvendo os diferentes níveis de planejamento no âmbito da instituição e do sistema de ensino, superando a fragmentação do trabalho na escola. Além disso, em cada componente curricular serão desenvolvidas atividades integradoras que acompanham todas as 
+etapas formativas do curso, possibilitando uma formação em estreito contato com a realidade e a prática docente.
 
-13 
+## 2.1 JUSTIFICATIVA
 
-INSTITUTOFEDERAL Parana 
+O IFPR é uma instituição do âmbito do sistema federal de ensino, a Rede Federal de Educação Profissional, Científica e Tecnológica, vinculada ao Ministério da Educação e está instituída de acordo com a Lei 11.892/2008. O IFPR oferta cursos de Formação Inicial e Continuada (FIC), cursos de Educação Profissional Técnica de nível Médio, Graduação e PósGraduação, e tem a finalidade de contribuir para a formação e profissionalização dos cidadãos, promovendo, inclusive, a verticalização do ensino.
 
-Ministerio da Educacao 
+Enfatiza-se que é fundamental que o IFPR cumpra os objetivos previstos na Lei 11.892/2008 (Art. 7º, VI, b) referente a educação superior para a oferta de “cursos de licenciatura, bem como programas especiais de formação pedagógica, com vistas na formação de professores para a educação básica”.
 
-etapas formativas do curso, possibilitando uma formação em estreito contato com a realidade e a prática docente. 
+O Plano de Desenvolvimento Institucional do IFPR expressa que
 
-## 2.1 JUSTIFICATIVA 
+No que se refere aos cursos superiores, presenciais e a distância, as políticas estruturantes estão centradas no fortalecimento das Licenciaturas e na ampliação da Pós-Graduação. Tratam-se de ações planejadas a partir de princípios pedagógicos articulados a concepções teórico-metodológicas, que buscam promover a ampliação e o fortalecimento dos cursos superiores da instituição. Em atendimento à Lei de Criação dos Institutos Federais, a oferta de cursos de Licenciatura, sobretudo os cursos de ciências da natureza, deve ser minimamente de 20% das vagas. O IFPR entende que a valorização da profissão docente constitui uma necessidade no mundo do trabalho, pois além do pouco reconhecimento da importância que possuem, os cursos de Licenciatura integram uma categoria na qual menos investimento são feitos, sobretudo no que diz respeito à profissionalização docente. (PDI, 2014-2018, p.50 e 51)
 
-O IFPR é uma instituição do âmbito do sistema federal de ensino, a Rede Federal de Educação Profissional, Científica e Tecnológica, vinculada ao Ministério da Educação e está instituída de acordo com a Lei 11.892/2008. O IFPR oferta cursos de Formação Inicial e Continuada (FIC), cursos de Educação Profissional Técnica de nível Médio, Graduação e PósGraduação, e tem a finalidade de contribuir para a formação e profissionalização dos cidadãos, promovendo, inclusive, a verticalização do ensino. 
+A oferta de cursos de formação específica de nível superior para os professores da educação básica é uma das metas do Plano de Desenvolvimento Institucional do IFPR (PDI 2014-2018).
 
-Enfatiza-se que é fundamental que o IFPR cumpra os objetivos previstos na Lei 11.892/2008 (Art. 7º, VI, b) referente a educação superior para a oferta de “cursos de licenciatura, bem como programas especiais de formação pedagógica, com vistas na formação de professores para a educação básica”. 
+14
 
-O Plano de Desenvolvimento Institucional do IFPR expressa que 
+## INSTITUTOFEDERAL Parana
 
-No que se refere aos cursos superiores, presenciais e a distância, as políticas estruturantes estão centradas no fortalecimento das Licenciaturas e na ampliação da Pós-Graduação. Tratam-se de ações planejadas a partir de princípios pedagógicos articulados a concepções teórico-metodológicas, que buscam promover a ampliação e o fortalecimento dos cursos superiores da instituição. Em atendimento à Lei de Criação dos Institutos Federais, a oferta de cursos de Licenciatura, sobretudo os cursos de ciências da natureza, deve ser minimamente de 20% das vagas. O IFPR entende que a valorização da profissão docente constitui uma necessidade no mundo do trabalho, pois além do pouco reconhecimento da importância que possuem, os cursos de Licenciatura integram uma categoria na qual menos investimento são feitos, sobretudo no que diz respeito à profissionalização docente. (PDI, 2014-2018, p.50 e 51) 
+Ministerio da Educacao<br>
 
-A oferta de cursos de formação específica de nível superior para os professores da educação básica é uma das metas do Plano de Desenvolvimento Institucional do IFPR (PDI 2014-2018). 
+**QUADRO 1 - Plano de Desenvolvimento Institucional do IFPR - PDI 2014-2018**
 
-14 
+## Meta15-Formacao deprofessores(nivel superior)
 
-## INSTITUTOFEDERAL Parana 
+Garantir, em regime de colaboracao entre a Uniao, os Estados, o Distrito Federal e os Municipios, no prazo de 1 (um) ano de vigencia deste PNE, politica nacional de formacao dos profissionais da educacao de que tratam os incisos I, ll e Ill do caput do art. 61 da Lei n? 9.394, de 20 de dezembro de 1996, assegurando que todos 0s professores e as professoras da educacao basica possuam formacao especifica de nivel superior, obtida em curso de licenciatura na area de conhecimento em que atuam.
 
-**==> picture [83 x 9] intentionally omitted <==**
+Comoé: Como sera:<br>67%dosprofessoresde 100% dos professores com<br>educacao basica tem curso formacaodenivelsuperiorna<br>superior na sua area de area de atuacao<br>atuacao Gasto:incluidonameta12<br>
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+## Item do PDI:
 
+2. PROJETO PEDAGOGICO INSTITUCiONAL; Item 2.4 - Fortalecimento das licenciaturas e ampliagao da Pos-Graduacao e Item 2.4 - Principais agoes
 
-**QUADRO 1 - Plano de Desenvolvimento Institucional do IFPR - PDI 2014-2018** 
+Fonte: Portal de Informações IFPR (2017)
 
-## Meta15-Formacao deprofessores(nivel superior) 
+A oferta do Curso de Licenciatura em Pedagogia no Campus Curitiba do IFPR, além de atender a ampliação da formação de professores da educação básica, atende outra meta do Plano de Desenvolvimento Institucional do IFPR que é a ampliação das vagas de acesso à Educação Superior.
 
-Garantir, em regime de colaboracao entre a Uniao, os Estados, o Distrito Federal e os Municipios, no prazo de 1 (um) ano de vigencia deste PNE, politica nacional de formacao dos profissionais da educacao de que tratam os incisos I, ll e Ill do caput do art. 61 da Lei n? 9.394, de 20 de dezembro de 1996, assegurando que todos 0s professores e as professoras da educacao basica possuam formacao especifica de nivel superior, obtida em curso de licenciatura na area de conhecimento em que atuam. 
+**QUADRO 2 - Plano de Desenvolvimento Institucional do IFPR - PDI 2014-2018**
 
-**==> picture [361 x 77] intentionally omitted <==**
+15
 
-**----- Start of picture text -----**<br>
-Comoé: Como sera:<br>67%dosprofessoresde 100% dos professores com<br>educacao basica tem curso formacaodenivelsuperiorna<br>superior na sua area de area de atuacao<br>atuacao Gasto:incluidonameta12<br>**----- End of picture text -----**<br>
+## INSTITUTOFEDERAL
 
+## Parana
 
-## Item do PDI: 
+Ministerio da Educacao<br>
 
-2. PROJETO PEDAGOGICO INSTITUCiONAL; Item 2.4 - Fortalecimento das licenciaturas e ampliagao da Pos-Graduacao e Item 2.4 - Principais agoes 
+## Meta 12-EnsinoSuperior-Acesso
 
-Fonte: Portal de Informações IFPR (2017) 
+Elevar a taxa bruta de matricula na educacao superior para 50% (cinquenta por cento) e a taxa liquida para 33% (trinta e tres por cento) da populagao de 18 (dezoito) a 24 (vinte e quatro) anos, assegurada a qualidade da oferta e expansio para, pelo menos, 40% (quarenta por cento) das novas matriculas, no segmento piblico.
 
-A oferta do Curso de Licenciatura em Pedagogia no Campus Curitiba do IFPR, além de atender a ampliação da formação de professores da educação básica, atende outra meta do Plano de Desenvolvimento Institucional do IFPR que é a ampliação das vagas de acesso à Educação Superior. 
+Como é: Como sera:<br>7milhoesmatriculados,sendo 12milhoesmatriculados,sendo<br>1,9 milhao publicas 3,9 milhoespublicas<br>Gasto atual: R$ 24,8 bilh6es Gasto:R$ 67,4bilh6es<br>PIB:0,50% PIB:1,39%<br>
 
-**QUADRO 2 - Plano de Desenvolvimento Institucional do IFPR - PDI 2014-2018** 
+Item do PDI:<br>
 
-15 
+2. PROJETO PEDAGOGICO INSTITUCIONAL; Item 2.4 - Fortalecimento das licenciaturas e ampliacao da Pos Graduacao
 
-## INSTITUTOFEDERAL 
+Fonte: Portal de Informações IFPR (2017)
 
-## Parana 
+Nesse contexto, além do cumprimento da Lei 11.892/2008 há também a justificativa de ampliar a oferta de vagas em instituições públicas na cidade de Curitiba, pois somente a Universidade Federal do Paraná oferece o curso gratuitamente, no ano de 2017 a UFPR abriu 2 turmas de Pedagogia em período diurno, confirmando a alta demanda para este curso.
 
-**==> picture [83 x 9] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
-
-
-## Meta 12-EnsinoSuperior-Acesso 
-
-Elevar a taxa bruta de matricula na educacao superior para 50% (cinquenta por cento) e a taxa liquida para 33% (trinta e tres por cento) da populagao de 18 (dezoito) a 24 (vinte e quatro) anos, assegurada a qualidade da oferta e expansio para, pelo menos, 40% (quarenta por cento) das novas matriculas, no segmento piblico. 
-
-**==> picture [408 x 77] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Como é: Como sera:<br>7milhoesmatriculados,sendo 12milhoesmatriculados,sendo<br>1,9 milhao publicas 3,9 milhoespublicas<br>Gasto atual: R$ 24,8 bilh6es Gasto:R$ 67,4bilh6es<br>PIB:0,50% PIB:1,39%<br>**----- End of picture text -----**<br>
-
-
-**==> picture [61 x 9] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Item do PDI:<br>**----- End of picture text -----**<br>
-
-
-2. PROJETO PEDAGOGICO INSTITUCIONAL; Item 2.4 - Fortalecimento das licenciaturas e ampliacao da Pos Graduacao 
-
-Fonte: Portal de Informações IFPR (2017) 
-
-Nesse contexto, além do cumprimento da Lei 11.892/2008 há também a justificativa de ampliar a oferta de vagas em instituições públicas na cidade de Curitiba, pois somente a Universidade Federal do Paraná oferece o curso gratuitamente, no ano de 2017 a UFPR abriu 2 turmas de Pedagogia em período diurno, confirmando a alta demanda para este curso. 
-
-**QUADRO 3– OFERTA DE CURSO DE PEDAGOGIA PRESENCIAL EM CURITIBA 2017** 
+**QUADRO 3– OFERTA DE CURSO DE PEDAGOGIA PRESENCIAL EM CURITIBA 2017**
 
 |**INSTITUIÇÃO**|**VAGAS**|**PRIVADA**|**PÚBLICA**|
 |---|---|---|---|
@@ -490,13 +460,11 @@ Nesse contexto, além do cumprimento da Lei 11.892/2008 há também a justificat
 |FACULDADE DE ADMINISTRAÇÃO, CIÊNCIAS, EDUCAÇÃO E<br>LETRAS (FACEL)|100|X||
 |FACULDADE DE TECNOLOGIA DE CURITIBA (FATEC-PR)|70|X||
 
+16
 
+Ministerio da Educacao
 
-16 
-
-Ministerio da Educacao 
-
-## INSTITUTOFEDERAL Parana 
+## INSTITUTOFEDERAL Parana
 
 |FACULDADE DE TECNOLOGIA MACHADO DE ASSIS (FAMA)|100|X||
 |---|---|---|---|
@@ -517,391 +485,373 @@ Ministerio da Educacao
 |UNIVERSIDADE TUIUTI DO PARANÁ (UTP)|1000|X||
 |**TOTAL**|**4980**|**22**|**1**|
 
+Fonte: e-MEC adaptação Observatório Regional do IFPR, 2017 (Adaptado)
 
+Estes dados demonstram que no ano de 2017, das 4.980 vagas anuais ofertadas para o Curso de Licenciatura em Pedagogia, apenas 170 são públicas/gratuitas. Portanto, é possível identificar que há muitas universidades e faculdades privadas que ofertam vestibular anualmente para tal licenciatura presencial em Curitiba, entretanto, as quantidades de vagas públicas são insuficientes para atender a demanda.
 
-Fonte: e-MEC adaptação Observatório Regional do IFPR, 2017 (Adaptado) 
+17
 
-Estes dados demonstram que no ano de 2017, das 4.980 vagas anuais ofertadas para o Curso de Licenciatura em Pedagogia, apenas 170 são públicas/gratuitas. Portanto, é possível identificar que há muitas universidades e faculdades privadas que ofertam vestibular anualmente para tal licenciatura presencial em Curitiba, entretanto, as quantidades de vagas públicas são insuficientes para atender a demanda. 
+## INSTITUTOFEDERAL Parana
 
-17 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+O observatório regional do IFPR, também confirma que há um alto número de ofertas de vagas de instituições privadas para a modalidade de educação a distância para a Licenciatura em Pedagogia. Nessa perspectiva, considera-se que é um diferencial oferecer um curso gratuito em formato presencial que possibilite ampliar as interações entre os saberes e docentes-estudantes e estudantes-estudantes, agregando qualidade pedagógica.
 
-Ministerio da Educacao 
+Além da grande oferta do Curso de Licenciatura em Pedagogia na cidade de Curitiba, há também um elevado número de estudantes dos cursos de formação de professores de nível médio. O quadro 04 apresenta os dados da SEED-PR conforme informações do Observatório Regional do IFPR.
 
-O observatório regional do IFPR, também confirma que há um alto número de ofertas de vagas de instituições privadas para a modalidade de educação a distância para a Licenciatura em Pedagogia. Nessa perspectiva, considera-se que é um diferencial oferecer um curso gratuito em formato presencial que possibilite ampliar as interações entre os saberes e docentes-estudantes e estudantes-estudantes, agregando qualidade pedagógica. 
+**QUADRO 4 – MATRÍCULAS NO NORMAL/MAGISTÉRIO: CURITIBA E REGIÃO METROPOLITANA 2010 a 2015**
 
-Além da grande oferta do Curso de Licenciatura em Pedagogia na cidade de Curitiba, há também um elevado número de estudantes dos cursos de formação de professores de nível médio. O quadro 04 apresenta os dados da SEED-PR conforme informações do Observatório Regional do IFPR. 
+MATRICULASNONORMAL/MAGISTERIO<br>Privada Total Publica Total<br>Municipio 2010 2011 2012 2013 2014 2015Total 2010 2011 2012 2013 2014 2015Total<br>Almirante Tamandare 105 105<br>Araucaria 169 169<br>Bocaiuva do Sul 48 48<br>CAMPINAGRANDEDOSUL 24 24<br>CAMPO LARGO 262 197 229 292 318 263 1.561<br>COLOMBO 156 127 119 120 102 149 773<br>CURITIBA 139 125 105 90 43 50 552 1.741 1.603 1.389 1.463 1.382 1.234 9.364<br>FAZENDA RIO GRANDE 13 19 21 1 54 281 252 225 208 213 211 1.444<br>Itambaraca 17 17<br>MANDAGUARI 121 118 126 148 131 127 771<br>PINHAIS 337 365 320 341 319 264 1.946<br>PIRAQUARA 282 245 225 180 137 157 1.226<br>Prudentopolis 13 13<br>RIO BRANCO DO SUL 154 161 147 126 130 150 868<br>SoJose dos Pinhais 180 180<br>Total 152 144 105 111 44 50 606 3.334 3.068 2.780 2.878 2.732 3.111 18.509<br>Privada Total Publica Total<br>Municipio 2010 2011 2012 2013 2014 2015Total 2010 2011 2012 2013 2014 2015Total<br>Almirante Tamandare 0% 0% 0% %0 0% 0% 0% 0% 0% 0% 0% 0% 3% 1%<br>Araucaria 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% %0 0% 5% 1%<br>Bocaiuva do Sul 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% %0 0% 2% 0%<br>CAMPINA GRANDE DO SUL 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% 1% 0%<br>CAMPO LARGO 0% 0% 0% 0% 0% 0% 0% 8% 6% 8% 10% 12% 8% 8%<br>COLOMBO 0% 0% 0% 0% 0% 0% 0% 5% 4% 4% 4% 4% 5% 4%<br>CURITIBA 91% 87% 100% 81% 98% 100% 91% 52% 52% 50% 51% 51% 40% 51%<br>FAZENDA RIO GRANDE %6 13% 0% 19% 2% 0% 9% 8% 8% 8% 7% 8% 7% 8%<br>Itambaraca 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% 1% 0%<br>MANDAGUARI %0 %0 0% 0% %0 0% 0% 4% 4% 5% %S 5% 4% 4%<br>PINHAIS 0% 0% 0% 0% 0% 0% 0% 10% 12% 12% 12% 12% 8% 11%<br>PIRAQUARA 0% 0% 0% 0% 0% 0% 0% 8% 8% 8% 6% 5% 5% 7%<br>Prudentopolis 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% 0%<br>RIO BRANCO DO SUL %0 0% 0% 0% %0 0% 0% 5% %S %S 4% 5% 5% 5%<br>SaoJose dos Pinhais %0 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% 6% 1%<br>Total 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100%<br>Fonte: SEED, Adaptac?o Observatorio Regional do Parana, 2017.<br>Contato:gilmar.hellmann@ifpr.edu.br-41-996288967<br>
 
-**QUADRO 4 – MATRÍCULAS NO NORMAL/MAGISTÉRIO: CURITIBA E REGIÃO METROPOLITANA 2010 a 2015** 
+Fonte: SEED PR, Adaptação Observatório Regional do Paraná IFPR (HELLMANN, 2017).
 
-**==> picture [464 x 245] intentionally omitted <==**
+18
 
-**----- Start of picture text -----**<br>
-MATRICULASNONORMAL/MAGISTERIO<br>Privada Total Publica Total<br>Municipio 2010 2011 2012 2013 2014 2015Total 2010 2011 2012 2013 2014 2015Total<br>Almirante Tamandare 105 105<br>Araucaria 169 169<br>Bocaiuva do Sul 48 48<br>CAMPINAGRANDEDOSUL 24 24<br>CAMPO LARGO 262 197 229 292 318 263 1.561<br>COLOMBO 156 127 119 120 102 149 773<br>CURITIBA 139 125 105 90 43 50 552 1.741 1.603 1.389 1.463 1.382 1.234 9.364<br>FAZENDA RIO GRANDE 13 19 21 1 54 281 252 225 208 213 211 1.444<br>Itambaraca 17 17<br>MANDAGUARI 121 118 126 148 131 127 771<br>PINHAIS 337 365 320 341 319 264 1.946<br>PIRAQUARA 282 245 225 180 137 157 1.226<br>Prudentopolis 13 13<br>RIO BRANCO DO SUL 154 161 147 126 130 150 868<br>SoJose dos Pinhais 180 180<br>Total 152 144 105 111 44 50 606 3.334 3.068 2.780 2.878 2.732 3.111 18.509<br>Privada Total Publica Total<br>Municipio 2010 2011 2012 2013 2014 2015Total 2010 2011 2012 2013 2014 2015Total<br>Almirante Tamandare 0% 0% 0% %0 0% 0% 0% 0% 0% 0% 0% 0% 3% 1%<br>Araucaria 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% %0 0% 5% 1%<br>Bocaiuva do Sul 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% %0 0% 2% 0%<br>CAMPINA GRANDE DO SUL 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% 1% 0%<br>CAMPO LARGO 0% 0% 0% 0% 0% 0% 0% 8% 6% 8% 10% 12% 8% 8%<br>COLOMBO 0% 0% 0% 0% 0% 0% 0% 5% 4% 4% 4% 4% 5% 4%<br>CURITIBA 91% 87% 100% 81% 98% 100% 91% 52% 52% 50% 51% 51% 40% 51%<br>FAZENDA RIO GRANDE %6 13% 0% 19% 2% 0% 9% 8% 8% 8% 7% 8% 7% 8%<br>Itambaraca 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% 1% 0%<br>MANDAGUARI %0 %0 0% 0% %0 0% 0% 4% 4% 5% %S 5% 4% 4%<br>PINHAIS 0% 0% 0% 0% 0% 0% 0% 10% 12% 12% 12% 12% 8% 11%<br>PIRAQUARA 0% 0% 0% 0% 0% 0% 0% 8% 8% 8% 6% 5% 5% 7%<br>Prudentopolis 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% 0%<br>RIO BRANCO DO SUL %0 0% 0% 0% %0 0% 0% 5% %S %S 4% 5% 5% 5%<br>SaoJose dos Pinhais %0 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% 0% 6% 1%<br>Total 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100% 100%<br>Fonte: SEED, Adaptac?o Observatorio Regional do Parana, 2017.<br>Contato:gilmar.hellmann@ifpr.edu.br-41-996288967<br>**----- End of picture text -----**<br>
+## INSTITUTOFEDERAL Parana
 
+Ministerio da Educacao<br>
 
-Fonte: SEED PR, Adaptação Observatório Regional do Paraná IFPR (HELLMANN, 2017). 
+Conforme os dados apresentados no quadro 04 é possível constatar que entre os anos de 2010 e 2015, na cidade de Curitiba e região metropolitana houve a matrícula de 18.509 estudantes de curso Normal/Magistério de nível médio. Nesse contexto, observa-se que há demanda para a oferta do Curso de Licenciatura em Pedagogia no IFPR Campus Curitiba para que possa oferecer a continuidade desta formação em nível superior.
 
-18 
+**QUADRO 5 – MATRÍCULAS NO NORMAL/MAGISTÉRIO: CURITIBA E REGIÃO METROPOLITANA 2016**
 
-## INSTITUTOFEDERAL Parana 
+MatriculasEnsinoMedio-Magisterio/NormalRegiaoMetropolitanadeCuritiba(2016)<br>AdministrativDependenciaPRIVADA NomeDaEscolaCOLEGIOSAGRADOCORACAODEJESUS MATUTINOTurno CURITIBAMunicipio 1Serle11 2"Serie19 3"Serie8 4Serie<br>ESTADUAL JOAOMARIADEBARROSCEPREFEFMN NOTURNO CAMPINAGRANDEDOSUL 16<br>ESTADUAL CARLOSALBERTORIBEIROCEEFN NOTURNO BOCAIUVADOSUL 15 25<br>ESTADUAL EDIMARWRIGHTCEPROFEMN VESPERTINO ALMIRANTETAMANDARE 33 44 21 22<br>ESTADUAL MATUTINO PIRAQUARA 28 36 24<br>ESTADUAL NOTURNO PIRAQUARA 20 17<br>ESTADUAL ABRAHAMLINCOLNCEPRESEFMN MATUTINO COLOMBO 21<br>ESTADUAL ABRAHAMLINCOLNCEPRESEFMN NOTURNO COLOMBO 24 34 25 22<br>ESTADUAL MARIADALUZFURQUIMCEEFMNP MATUTINO RIOBRANCO DOSUL 24<br>ESTADUAL MARIADALUZFURQUIMCEEFMNP NOTURNO RIOBRANCODOSUL 24 37 23 25<br>ESTADUAL COSTAVIANACEEFMPROFISN MATUTINO SAOJOSE DOSPINHAIS 35 41 35 28<br>ESTADUAL COSTAVIANACEEFMPROFISN NOTURNO SAOJOSEDOSPINHAIS 33<br>ESTADUAL JULIOSZYMANSKICEPROFEMPROFISN VESPERTINO ARAUCARIA 99 76 34 25<br>ESTADUAL JORGEANDRIGUETTOCEDESEFMPROFISN NOTURNO FAZENDA RIO GRANDE 41 51 45<br>ESTADUAL JORGEANDRIGUETTOCEDESEFMPROFISN VESPERTINO FAZENDA RIO GRANDE 32 33<br>ESTADUAL SAGRADAFAMILIA CEEFMN MATUTINO CAMPOLARGO 32<br>ESTADUAL SAGRADAFAMILIACEEFMN NOTURNO CAMPOLARGO 32<br>ESTADUAL SAGRADAFAMILIACEEFMN VESPERTINO CAMPOLARGO 68 77 38<br>ESTADUAL ARNALDOFBUSATOCEDEPEFMNPROFIS MATUTINO PINHAIS 62 39 39 35<br>ESTADUAL ARNALDOFBUSATOCEDEPEFMNPROFIS NOTURNO PINHAIS 45 32<br>ESTADUAL BENEDICTOJCORDEIROCEEFMNPROFIS MATUTINO CURITIBA 55 111 33 43<br>ESTADUALESTADUAL BENEDICTOJCORDEIROCEEFMNPROFISPAULOLEMINSKICEEFMNPROFIS NOTURNOMATUTINO CURITIBACURITIBA 57OE 91 5021 2551<br>ESTADUAL PAULOLEMINSKICEEFMNPROFIS NOTURNO CURITIBA 25 39 15<br>ESTADUAL INSTEDPRPROFERASMOPILOTTOEFMN MATUTINO CURITIBA 114 115 62 69<br>ESTADUAL INSTEDPRPROFERASMOPILOTTOEFMN NOTURNO CURITIBA 47 43 63 29<br>TOTALDEMATRICULAS 820 921 647 500<br>Fonte:SEED,AdaptacaoObservatorioRegionaldoParana,2017.<br>Contato:gllmar.hellmann@ifpr.edu.br-41-996288967<br>Fonte: SEED PR, Adaptação Observatório Regional do Paraná IFPR (HELLMANN, 2017).<br>
 
-**==> picture [83 x 8] intentionally omitted <==**
+O quadro 05 apresenta os dados com as matrículas dos estudantes para o curso Normal/Magistério de nível médio na cidade de Curitiba e região metropolitana para o ano de 2016. Observa-se que o início do Curso de Licenciatura em Pedagogia no ano de 2019 contemplará os estudantes que atualmente estão na 1ª e 2ª série do curso Normal/Magistério de nível médio, totalizando 1.741 egressos que necessitam dar continuidade em sua formação docente, sem considerar os interessados que não cursaram o curso Normal/Magistério de nível médio.
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+Outro aspecto que justifica a oferta do Curso de Licenciatura em Pedagogia presencial no IFPR é contribuir com a formação de melhor qualidade desses profissionais. Pinho (2016) afirma que conforme os dados do site do INEP, as vagas dos Cursos de Pedagogia são preenchidas em sua maioria por estudantes que atingiram a nota mínima de 450 até 550 no Enem, isto demonstra a
 
+19
 
-Conforme os dados apresentados no quadro 04 é possível constatar que entre os anos de 2010 e 2015, na cidade de Curitiba e região metropolitana houve a matrícula de 18.509 estudantes de curso Normal/Magistério de nível médio. Nesse contexto, observa-se que há demanda para a oferta do Curso de Licenciatura em Pedagogia no IFPR Campus Curitiba para que possa oferecer a continuidade desta formação em nível superior. 
+INSTITUTOFEDERAL Parana
 
-**QUADRO 5 – MATRÍCULAS NO NORMAL/MAGISTÉRIO: CURITIBA E REGIÃO METROPOLITANA 2016** 
+Ministerio da Educacao
 
-**==> picture [425 x 173] intentionally omitted <==**
+necessidade de propiciar uma formação de alto desempenho para estes estudantes, para oferecer condições de superar possíveis dificuldades.
 
-**----- Start of picture text -----**<br>
-MatriculasEnsinoMedio-Magisterio/NormalRegiaoMetropolitanadeCuritiba(2016)<br>AdministrativDependenciaPRIVADA NomeDaEscolaCOLEGIOSAGRADOCORACAODEJESUS MATUTINOTurno CURITIBAMunicipio 1Serle11 2"Serie19 3"Serie8 4Serie<br>ESTADUAL JOAOMARIADEBARROSCEPREFEFMN NOTURNO CAMPINAGRANDEDOSUL 16<br>ESTADUAL CARLOSALBERTORIBEIROCEEFN NOTURNO BOCAIUVADOSUL 15 25<br>ESTADUAL EDIMARWRIGHTCEPROFEMN VESPERTINO ALMIRANTETAMANDARE 33 44 21 22<br>ESTADUAL MATUTINO PIRAQUARA 28 36 24<br>ESTADUAL NOTURNO PIRAQUARA 20 17<br>ESTADUAL ABRAHAMLINCOLNCEPRESEFMN MATUTINO COLOMBO 21<br>ESTADUAL ABRAHAMLINCOLNCEPRESEFMN NOTURNO COLOMBO 24 34 25 22<br>ESTADUAL MARIADALUZFURQUIMCEEFMNP MATUTINO RIOBRANCO DOSUL 24<br>ESTADUAL MARIADALUZFURQUIMCEEFMNP NOTURNO RIOBRANCODOSUL 24 37 23 25<br>ESTADUAL COSTAVIANACEEFMPROFISN MATUTINO SAOJOSE DOSPINHAIS 35 41 35 28<br>ESTADUAL COSTAVIANACEEFMPROFISN NOTURNO SAOJOSEDOSPINHAIS 33<br>ESTADUAL JULIOSZYMANSKICEPROFEMPROFISN VESPERTINO ARAUCARIA 99 76 34 25<br>ESTADUAL JORGEANDRIGUETTOCEDESEFMPROFISN NOTURNO FAZENDA RIO GRANDE 41 51 45<br>ESTADUAL JORGEANDRIGUETTOCEDESEFMPROFISN VESPERTINO FAZENDA RIO GRANDE 32 33<br>ESTADUAL SAGRADAFAMILIA CEEFMN MATUTINO CAMPOLARGO 32<br>ESTADUAL SAGRADAFAMILIACEEFMN NOTURNO CAMPOLARGO 32<br>ESTADUAL SAGRADAFAMILIACEEFMN VESPERTINO CAMPOLARGO 68 77 38<br>ESTADUAL ARNALDOFBUSATOCEDEPEFMNPROFIS MATUTINO PINHAIS 62 39 39 35<br>ESTADUAL ARNALDOFBUSATOCEDEPEFMNPROFIS NOTURNO PINHAIS 45 32<br>ESTADUAL BENEDICTOJCORDEIROCEEFMNPROFIS MATUTINO CURITIBA 55 111 33 43<br>ESTADUALESTADUAL BENEDICTOJCORDEIROCEEFMNPROFISPAULOLEMINSKICEEFMNPROFIS NOTURNOMATUTINO CURITIBACURITIBA 57OE 91 5021 2551<br>ESTADUAL PAULOLEMINSKICEEFMNPROFIS NOTURNO CURITIBA 25 39 15<br>ESTADUAL INSTEDPRPROFERASMOPILOTTOEFMN MATUTINO CURITIBA 114 115 62 69<br>ESTADUAL INSTEDPRPROFERASMOPILOTTOEFMN NOTURNO CURITIBA 47 43 63 29<br>TOTALDEMATRICULAS 820 921 647 500<br>Fonte:SEED,AdaptacaoObservatorioRegionaldoParana,2017.<br>Contato:gllmar.hellmann@ifpr.edu.br-41-996288967<br>Fonte: SEED PR, Adaptação Observatório Regional do Paraná IFPR (HELLMANN, 2017).<br>**----- End of picture text -----**<br>
+A missão do IFPR tem por objetivo “Promover a educação profissional e tecnológica, pública, de qualidade, socialmente referenciada, por meio do ensino, pesquisa, extensão e inovação visando à formação de cidadãos críticos, autônomos e empreendedores, comprometidos com a sustentabilidade.” (PDI 2014-2018).
 
+A criação de cursos que atendam a essas necessidades é uma questão vital para a melhoria da educação básica, pois, como afirma Nóvoa (1995) não há melhoria do ensino sem uma adequada formação de professores. Além disso, nas regiões em que há maior falta de professores licenciados não há cursos, na maioria dos casos, há inexistência de oferta e de instituições de nível superior, principalmente nas cidades menores, o que exige a contribuição das demais instituições de ensino superior para superar tais deficiências colaborando com o esforço das políticas e ações governamentais.
 
-O quadro 05 apresenta os dados com as matrículas dos estudantes para o curso Normal/Magistério de nível médio na cidade de Curitiba e região metropolitana para o ano de 2016. Observa-se que o início do Curso de Licenciatura em Pedagogia no ano de 2019 contemplará os estudantes que atualmente estão na 1ª e 2ª série do curso Normal/Magistério de nível médio, totalizando 1.741 egressos que necessitam dar continuidade em sua formação docente, sem considerar os interessados que não cursaram o curso Normal/Magistério de nível médio. 
+Conforme a Resolução Nº 2/2015 às licenciaturas, como o curso de Pedagogia em educação infantil e anos iniciais do ensino fundamental a serem desenvolvidas em projetos de cursos articulados, deverão preponderar os tempos dedicados à constituição de conhecimento sobre os objetos de ensino. Com efeito, o IFPR propõe-se a colaborar para a melhoria da formação de professores com a criação e oferta de Cursos de Licenciatura em Pedagogia. Acrescenta-se que essa proposta não vai apenas em direção a ofertar mais um curso, mas sim para atender as demandas necessárias à escola na proposição de cursos de licenciatura de qualidade com programas articulados à prática profissional para formar professores e gestores para atuarem em coerência com as necessidades sociais do Brasil.
 
-Outro aspecto que justifica a oferta do Curso de Licenciatura em Pedagogia presencial no IFPR é contribuir com a formação de melhor qualidade desses profissionais. Pinho (2016) afirma que conforme os dados do site do INEP, as vagas dos Cursos de Pedagogia são preenchidas em sua maioria por estudantes que atingiram a nota mínima de 450 até 550 no Enem, isto demonstra a 
+## 2.2 OBJETIVOS
 
-19 
+## **2.2.1 Objetivo Geral**
 
-INSTITUTOFEDERAL Parana 
+O objetivo principal do Curso de Licenciatura em Pedagogia é:
 
-Ministerio da Educacao 
+20
 
-necessidade de propiciar uma formação de alto desempenho para estes estudantes, para oferecer condições de superar possíveis dificuldades. 
+INSTITUTOFEDERAL Parana
 
-A missão do IFPR tem por objetivo “Promover a educação profissional e tecnológica, pública, de qualidade, socialmente referenciada, por meio do ensino, pesquisa, extensão e inovação visando à formação de cidadãos críticos, autônomos e empreendedores, comprometidos com a sustentabilidade.” (PDI 2014-2018). 
+Ministerio da Educacao
 
-A criação de cursos que atendam a essas necessidades é uma questão vital para a melhoria da educação básica, pois, como afirma Nóvoa (1995) não há melhoria do ensino sem uma adequada formação de professores. Além disso, nas regiões em que há maior falta de professores licenciados não há cursos, na maioria dos casos, há inexistência de oferta e de instituições de nível superior, principalmente nas cidades menores, o que exige a contribuição das demais instituições de ensino superior para superar tais deficiências colaborando com o esforço das políticas e ações governamentais. 
+- Promover a apropriação dos conhecimentos necessários ao desenvolvimento da ação do pedagogo nas mais diversas possibilidades de atuação que existem na sociedade, tendo como enfoque basilar a docência.
 
-Conforme a Resolução Nº 2/2015 às licenciaturas, como o curso de Pedagogia em educação infantil e anos iniciais do ensino fundamental a serem desenvolvidas em projetos de cursos articulados, deverão preponderar os tempos dedicados à constituição de conhecimento sobre os objetos de ensino. Com efeito, o IFPR propõe-se a colaborar para a melhoria da formação de professores com a criação e oferta de Cursos de Licenciatura em Pedagogia. Acrescenta-se que essa proposta não vai apenas em direção a ofertar mais um curso, mas sim para atender as demandas necessárias à escola na proposição de cursos de licenciatura de qualidade com programas articulados à prática profissional para formar professores e gestores para atuarem em coerência com as necessidades sociais do Brasil. 
+Enfatiza-se que a docência constitui a base do Curso de Licenciatura em Pedagogia do IFPR, tanto na Educação Infantil quanto nos anos iniciais do Ensino Fundamental, além da ação do Pedagogo na Gestão Educacional reveste-se de uma importância ímpar. Atualmente esse profissional pode atuar em diferentes espaços, posto que a educação é um processo humano que está presente em toda a sociedade e em seus diferentes setores.
 
-## 2.2 OBJETIVOS 
+## **2.2.2 Objetivos Específicos**
 
-## **2.2.1 Objetivo Geral** 
+A partir do objetivo geral, os objetivos específicos apresentados a seguir expressam o caminho a ser percorrido não somente pelos docentes, mas por todos os segmentos que atuam direta ou indiretamente na Licenciatura em Pedagogia.
 
-O objetivo principal do Curso de Licenciatura em Pedagogia é: 
+- Formar o docente para atuar com os processos de ensino-aprendizagem em todos os níveis de ensino para atender as necessidades dos estudantes, planejando, acompanhando e avaliando os processos educacionais.
 
-20 
+- Viabilizar o trabalho coletivo, criando e organizando mecanismos de participação em programas e projetos educacionais.
 
-INSTITUTOFEDERAL Parana 
+- Facilitar o processo comunicativo entre a comunidade escolar e as associações a ela vinculadas.
 
-Ministerio da Educacao 
+   - Possibilitar formação para o desenvolvimento da autonomia, articulação entre teoria e prática, atuação profissional como pesquisador e reflexivo, atuação docente na perspectiva
 
-- Promover a apropriação dos conhecimentos necessários ao desenvolvimento da ação do pedagogo nas mais diversas possibilidades de atuação que existem na sociedade, tendo como enfoque basilar a docência. 
+21
 
-Enfatiza-se que a docência constitui a base do Curso de Licenciatura em Pedagogia do IFPR, tanto na Educação Infantil quanto nos anos iniciais do Ensino Fundamental, além da ação do Pedagogo na Gestão Educacional reveste-se de uma importância ímpar. Atualmente esse profissional pode atuar em diferentes espaços, posto que a educação é um processo humano que está presente em toda a sociedade e em seus diferentes setores. 
+INSTITUTOFEDERAL Parana
 
-## **2.2.2 Objetivos Específicos** 
+Ministerio da Educacao
 
-A partir do objetivo geral, os objetivos específicos apresentados a seguir expressam o caminho a ser percorrido não somente pelos docentes, mas por todos os segmentos que atuam direta ou indiretamente na Licenciatura em Pedagogia. 
+integral, compreensão da diversidade cultural, profissionais que defendam e construam a cidadania e o respeito mútuo;
 
-- Formar o docente para atuar com os processos de ensino-aprendizagem em todos os níveis de ensino para atender as necessidades dos estudantes, planejando, acompanhando e avaliando os processos educacionais. 
+- Construir meios coletivos para a formação do gestor integral, que supere a dicotomia entre o administrativo e o pedagógico, profissional politécnico, flexível e capaz de tomar decisões diante da complexidade do ato educativo em seus diferentes espaços, profissional ético, capaz de elevar as pessoas ao mais alto grau de saber intelectual, cultural e estético.
 
-- Viabilizar o trabalho coletivo, criando e organizando mecanismos de participação em programas e projetos educacionais. 
+## 2.4 CONCEPÇÃO DO CURSO
 
-- Facilitar o processo comunicativo entre a comunidade escolar e as associações a ela vinculadas. 
+O Curso de Licenciatura em Pedagogia compreende o profissional pedagogo como aquele que além de conhecer os processos educativos e suas múltiplas determinações e implicações, tem clareza da natureza educativa, técnica e política dos espaços possíveis para sua atuação, prioritariamente o espaço escolar, visto que esse ainda é o local de maior atuação do pedagogo. No entanto, este profissional não pode prescindir do conhecimento necessário a outros espaços que já reclamam a presença do pedagogo como de fundamental importância, compreendendo seu papel de agente organizador e formador.
 
-   - Possibilitar formação para o desenvolvimento da autonomia, articulação entre teoria e prática, atuação profissional como pesquisador e reflexivo, atuação docente na perspectiva 
+A Pedagogia, ao superar sua concepção inicial de “apenas levar pelas mãos” aqueles que desejavam ou tinham a possibilidade de ter acesso ao conhecimento, constitui-se como Ciência especificamente voltada aos aspectos educativos e formativos do ser humano. Dessa forma possibilita que se tenha uma visão de totalidade, extrapolando a dimensão individual e se constitui como possibilidade de organização coletiva indispensável a qualquer instituição para o alcance de suas metas e objetivos, independente de sua natureza. Percebe-se que esse é um dos motivos da ampliação dos espaços de atuação do pedagogo e é, por este mesmo motivo, que se torna crucial uma formação sólida, ética, competente e comprometida com um modelo de gestão democrática e dialógica.
 
-21 
+22
 
-INSTITUTOFEDERAL Parana 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+Ministerio da Educacao
 
-integral, compreensão da diversidade cultural, profissionais que defendam e construam a cidadania e o respeito mútuo; 
+A perspectiva  da _Pedagogia Histórico-Crítica_ é o que se busca no Curso de Licenciatura em Pedagogia, uma concepção historicizada da prática educativa, compreendendo a natureza da educação enquanto trabalho. Uma Pedagogia que compreende que o papel da educação escolar é a de possibilitar o acesso dos indivíduos aos conhecimentos sistematizados, aos conhecimentos formais  da cultura letrada, como condição para o exercício da liberdade (SAVIANI, 2008).
 
-- Construir meios coletivos para a formação do gestor integral, que supere a dicotomia entre o administrativo e o pedagógico, profissional politécnico, flexível e capaz de tomar decisões diante da complexidade do ato educativo em seus diferentes espaços, profissional ético, capaz de elevar as pessoas ao mais alto grau de saber intelectual, cultural e estético. 
+A Pedagogia é o campo que permite uma apropriação das bases fundamentais da ciência, da técnica e da cultura moderna, como forma de qualificação cada vez mais intensa. Dessa forma faz-se possível a organização do trabalho pedagógico e formativo escolar e de outros espaços à luz das novas necessidades materiais e culturais da sociedade.
 
-## 2.4 CONCEPÇÃO DO CURSO 
+Cabe destacar ainda que a Pedagogia não vê a formação de seus profissionais restrita apenas às necessidades provisórias do mercado de trabalho, que a cada momento apresenta demandas diferenciadas, como por exemplo, a atuação em ambientes hospitalares e organizações não governamentais. Não se pode desconsiderar essa realidade mas é preciso ressaltar que o mais importante é a construção de um referencial teórico-prático, cientificamente consistente, que permita ao pedagogo adquirir o instrumental necessário à sua atuação competente e comprometida com a escola e/ou outros espaços em que atuará e com a sociedade em que vive.
 
-O Curso de Licenciatura em Pedagogia compreende o profissional pedagogo como aquele que além de conhecer os processos educativos e suas múltiplas determinações e implicações, tem clareza da natureza educativa, técnica e política dos espaços possíveis para sua atuação, prioritariamente o espaço escolar, visto que esse ainda é o local de maior atuação do pedagogo. No entanto, este profissional não pode prescindir do conhecimento necessário a outros espaços que já reclamam a presença do pedagogo como de fundamental importância, compreendendo seu papel de agente organizador e formador. 
+As categorias que subsidiam essa concepção são a _Práxis_ e a Interdisciplinaridade, que a seguir apresenta-se:
 
-A Pedagogia, ao superar sua concepção inicial de “apenas levar pelas mãos” aqueles que desejavam ou tinham a possibilidade de ter acesso ao conhecimento, constitui-se como Ciência especificamente voltada aos aspectos educativos e formativos do ser humano. Dessa forma possibilita que se tenha uma visão de totalidade, extrapolando a dimensão individual e se constitui como possibilidade de organização coletiva indispensável a qualquer instituição para o alcance de suas metas e objetivos, independente de sua natureza. Percebe-se que esse é um dos motivos da ampliação dos espaços de atuação do pedagogo e é, por este mesmo motivo, que se torna crucial uma formação sólida, ética, competente e comprometida com um modelo de gestão democrática e dialógica. 
+A categoria _**práxis**_ pressupõe a compreensão dos processos que envolvem a construção e a apropriação do conhecimento científico e de outros conhecimentos que não são distintos da natureza social que produziu, numa síntese de múltiplas determinações. Assim sendo este conhecimento é parte constitutiva essencial da formação do pedagogo, assim como é indispensável em sua futura atuação profissional. Concebe-se que toda atividade educativa escolar é intencional e como tal deve ser compreendida como _práxis_ , como uma ação que é, ao mesmo tempo, teórica e prática. No entanto, há diferenças significativas entre a _práxis_ e a mera união da teoria e da prática na tentativa de ver a utilidade e/ou aplicabilidade de um determinado conhecimento. Dessa forma, isso é o que se busca no Curso de Licenciatura em Pedagogia.
 
-22 
+23
 
-## INSTITUTOFEDERAL Parana 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+Ministerio da Educacao
 
-A perspectiva  da _Pedagogia Histórico-Crítica_ é o que se busca no Curso de Licenciatura em Pedagogia, uma concepção historicizada da prática educativa, compreendendo a natureza da educação enquanto trabalho. Uma Pedagogia que compreende que o papel da educação escolar é a de possibilitar o acesso dos indivíduos aos conhecimentos sistematizados, aos conhecimentos formais  da cultura letrada, como condição para o exercício da liberdade (SAVIANI, 2008). 
+A **Interdisciplinaridade** nos aponta que a ação do pedagogo, independente do espaço em que atuará, implica numa visão de totalidade, sem a qual não se consegue educar e formar com qualidade. Para tanto é necessário a compreensão dos nexos que compõem a realidade e isso pode e deve ser construído dentro de um currículo interdisciplinar, no qual o conhecimento não é abordado de forma fragmentada. Sabe-se que o tratamento do conhecimento no âmbito fragmentado não permite a compreensão da totalidade capaz de explicar o fenômeno estudado. Quando se busca compreender e explicar a realidade, seja ela científica, tecnológica, econômica, política ou cultural, é preciso compreender o conhecimento como um todo produzido socialmente pelos homens nas relações que estabelecem entre si e com a natureza.
 
-A Pedagogia é o campo que permite uma apropriação das bases fundamentais da ciência, da técnica e da cultura moderna, como forma de qualificação cada vez mais intensa. Dessa forma faz-se possível a organização do trabalho pedagógico e formativo escolar e de outros espaços à luz das novas necessidades materiais e culturais da sociedade. 
+Porém, da mesma forma como práxis não é somente a junção entre teoria e prática, é necessário o cuidado para não reduzir a interdisciplinaridade a uma mera junção de conteúdos ou atividades entre duas ou mais disciplinas. A interdisciplinaridade não ocorre por meio de atividades comuns entre as disciplinas, mas sim pela concepção teórico-filosófica e teórico-metodológica que orienta o curso. De acordo com Machado,
 
-Cabe destacar ainda que a Pedagogia não vê a formação de seus profissionais restrita apenas às necessidades provisórias do mercado de trabalho, que a cada momento apresenta demandas diferenciadas, como por exemplo, a atuação em ambientes hospitalares e organizações não governamentais. Não se pode desconsiderar essa realidade mas é preciso ressaltar que o mais importante é a construção de um referencial teórico-prático, cientificamente consistente, que permita ao pedagogo adquirir o instrumental necessário à sua atuação competente e comprometida com a escola e/ou outros espaços em que atuará e com a sociedade em que vive. 
+...a interdisciplinaridade é atualmente uma palavra-chave para a organização escolar. O que se busca com isso é, de modo geral, o estabelecimento de uma intercomunicação efetiva entre as disciplinas, por meio do enriquecimento das relações entre elas. Almeja-se, no limite, a composição de um objeto comum, por meio dos objetos particulares de cada uma das disciplinas (...) as unidades disciplinares são, portanto, mantidas, tanto no que se refere aos métodos quanto aos objetos, sendo a horizontalidade a característica básica das relações estabelecidas. (MACHADO, 1995, p.36)
 
-As categorias que subsidiam essa concepção são a _Práxis_ e a Interdisciplinaridade, que a seguir apresenta-se: 
+Subsidiados pela **Práxis e pela Interdisciplinaridade** , compreende-se o conceito de homem como sujeito histórico não pode prescindir do nexo com a educação, sendo que a educação é o recurso que as sociedades dispõem para que a produção cultural da humanidade não se perca, passando de geração em geração. Desse modo, a educação constitui a mediação pela qual os seres humanos garantem a perpetuação do seu caráter histórico. (Paro, p.11, 2001).
 
-A categoria _**práxis**_ pressupõe a compreensão dos processos que envolvem a construção e a apropriação do conhecimento científico e de outros conhecimentos que não são distintos da natureza social que produziu, numa síntese de múltiplas determinações. Assim sendo este conhecimento é parte constitutiva essencial da formação do pedagogo, assim como é indispensável em sua futura atuação profissional. Concebe-se que toda atividade educativa escolar é intencional e como tal deve ser compreendida como _práxis_ , como uma ação que é, ao mesmo tempo, teórica e prática. No entanto, há diferenças significativas entre a _práxis_ e a mera união da teoria e da prática na tentativa de ver a utilidade e/ou aplicabilidade de um determinado conhecimento. Dessa forma, isso é o que se busca no Curso de Licenciatura em Pedagogia. 
+Então os pressupostos teóricos e metodológicos do curso de Pedagogia estão apoiados na concepção de homem histórico, que transcende a natureza e se constrói na relação com os demais seres humanos.
 
-23 
+24
 
-## INSTITUTOFEDERAL Parana 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+Ministerio da Educacao
 
-A **Interdisciplinaridade** nos aponta que a ação do pedagogo, independente do espaço em que atuará, implica numa visão de totalidade, sem a qual não se consegue educar e formar com qualidade. Para tanto é necessário a compreensão dos nexos que compõem a realidade e isso pode e deve ser construído dentro de um currículo interdisciplinar, no qual o conhecimento não é abordado de forma fragmentada. Sabe-se que o tratamento do conhecimento no âmbito fragmentado não permite a compreensão da totalidade capaz de explicar o fenômeno estudado. Quando se busca compreender e explicar a realidade, seja ela científica, tecnológica, econômica, política ou cultural, é preciso compreender o conhecimento como um todo produzido socialmente pelos homens nas relações que estabelecem entre si e com a natureza. 
+Por isso, esse projeto exige um compromisso que transcende a simples aquisição de informação e organização curricular, visto que, como outras áreas das ciências humanas, busca promover a formação de profissionais que atuarão diretamente sobre o processo intelectual, político e social e moral de diferentes grupos sociais. Assim a formação técnica, política, científica, etc, dos estudantes de pedagogia, mediada pelas relações e experiências pessoais e coletivas que devem ser vivenciadas no decorrer do desenvolvimento de todo o curso visa contribuir para a constituição de uma sociedade democrática, norteada por princípios histórico-humanos de liberdade.
 
-Porém, da mesma forma como práxis não é somente a junção entre teoria e prática, é necessário o cuidado para não reduzir a interdisciplinaridade a uma mera junção de conteúdos ou atividades entre duas ou mais disciplinas. A interdisciplinaridade não ocorre por meio de atividades comuns entre as disciplinas, mas sim pela concepção teórico-filosófica e teórico-metodológica que orienta o curso. De acordo com Machado, 
+Claro que temos consciência dos limites vividos numa sociedade organizada no sistema capitalista, sob a atual lógica neoliberal,  a proposta do curso de Pedagogia não desconsidera as implicações deste modelo para a concepção de homem  e educação que se discute e defende; sociedade esta onde coexistem o crescente aperfeiçoamento científico-tecnológico e a miséria social que leva a degradação inúmeros seres humanos, privados dos seus direitos elementares, inclusive uma educação de qualidade.
 
-...a interdisciplinaridade é atualmente uma palavra-chave para a organização escolar. O que se busca com isso é, de modo geral, o estabelecimento de uma intercomunicação efetiva entre as disciplinas, por meio do enriquecimento das relações entre elas. Almeja-se, no limite, a composição de um objeto comum, por meio dos objetos particulares de cada uma das disciplinas (...) as unidades disciplinares são, portanto, mantidas, tanto no que se refere aos métodos quanto aos objetos, sendo a horizontalidade a característica básica das relações estabelecidas. (MACHADO, 1995, p.36) 
+Na atualidade nenhum profissional pode ser indiferente a este contexto, ainda mais o Pedagogo, pois o Curso de Licenciatura em Pedagogia organiza seus princípios norteadores visando um profissional ético, político, técnico-cientificamente capacitado, comprometido com uma proposta democrática de educação e capacitado a interferir no processo educativo promovendo, ainda que com limites estruturais, mudanças urgentes e necessárias por meio da ação pedagógica, sejam nas salas de aula e/ou atuação como gestor em instituições formais e não formais de ensino.
 
-Subsidiados pela **Práxis e pela Interdisciplinaridade** , compreende-se o conceito de homem como sujeito histórico não pode prescindir do nexo com a educação, sendo que a educação é o recurso que as sociedades dispõem para que a produção cultural da humanidade não se perca, passando de geração em geração. Desse modo, a educação constitui a mediação pela qual os seres humanos garantem a perpetuação do seu caráter histórico. (Paro, p.11, 2001). 
+## 2.5 PERFIL DO EGRESSO
 
-Então os pressupostos teóricos e metodológicos do curso de Pedagogia estão apoiados na concepção de homem histórico, que transcende a natureza e se constrói na relação com os demais seres humanos. 
+Tendo a **Práxis e a Interdisciplinaridade** como eixos basilares e a compreensão do homem como ser histórico o Pedagogo no IFPR terá como elemento norteador de sua formação a reflexão e a pesquisa, que perpassam todos os componentes curriculares manifestando-se de forma explícita no Estágio e no Trabalho de Conclusão de Curso - TCC. Assim deseja-se que esse perfil profissional possibilite que atuem como pedagogos em diferentes espaços, compreendendo as suas
 
-24 
+25
 
-## INSTITUTOFEDERAL Parana 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+Ministerio da Educacao
 
-Por isso, esse projeto exige um compromisso que transcende a simples aquisição de informação e organização curricular, visto que, como outras áreas das ciências humanas, busca promover a formação de profissionais que atuarão diretamente sobre o processo intelectual, político e social e moral de diferentes grupos sociais. Assim a formação técnica, política, científica, etc, dos estudantes de pedagogia, mediada pelas relações e experiências pessoais e coletivas que devem ser vivenciadas no decorrer do desenvolvimento de todo o curso visa contribuir para a constituição de uma sociedade democrática, norteada por princípios histórico-humanos de liberdade. 
+naturezas e adotando as formas mais adequadas de gestão e organização do trabalho pedagógico, seja na escola ou em outros espaços educativos. Essa formação integral proporcionará a formação de um profissional cujas principais habilidades dirigem-se a uma atuação realista, crítica, transformadora e democrática da realidade na qual está atuando, independente de tratar-se de um espaço propriamente escolar ou não. Assim, nosso pedagogo será capaz de identificar os problemas prioritários da realidade educacional, hospitalar, empresarial ou de outros espaços distintos de educação e formação, trabalhando de forma comprometida efetiva no sentido de sua superação, tendo a clareza de que isso é possível através de uma prática dialógica, consonante com um modelo de gestão democrática. Acrescida à especificidade da gestão, nosso pedagogo estará habilitado a atuar como docente na Educação Infantil, nos anos iniciais do Ensino Fundamental e no Magistério nível médio e como Gestor Educacional, subsidiando seu trabalho sob os princípios da Interdisciplinaridade e da Práxis Pedagógica.
 
-Claro que temos consciência dos limites vividos numa sociedade organizada no sistema capitalista, sob a atual lógica neoliberal,  a proposta do curso de Pedagogia não desconsidera as implicações deste modelo para a concepção de homem  e educação que se discute e defende; sociedade esta onde coexistem o crescente aperfeiçoamento científico-tecnológico e a miséria social que leva a degradação inúmeros seres humanos, privados dos seus direitos elementares, inclusive uma educação de qualidade. 
+## **2.5.1 Áreas de Atuação do Egresso**
 
-Na atualidade nenhum profissional pode ser indiferente a este contexto, ainda mais o Pedagogo, pois o Curso de Licenciatura em Pedagogia organiza seus princípios norteadores visando um profissional ético, político, técnico-cientificamente capacitado, comprometido com uma proposta democrática de educação e capacitado a interferir no processo educativo promovendo, ainda que com limites estruturais, mudanças urgentes e necessárias por meio da ação pedagógica, sejam nas salas de aula e/ou atuação como gestor em instituições formais e não formais de ensino. 
+- Docência na Educação Infantil, Anos Iniciais do Ensino Fundamental e matérias pedagógicas do Magistério, Nível Médio;
 
-## 2.5 PERFIL DO EGRESSO 
+- Gestor Educacional de Instituições formais e não formais de Ensino;
 
-Tendo a **Práxis e a Interdisciplinaridade** como eixos basilares e a compreensão do homem como ser histórico o Pedagogo no IFPR terá como elemento norteador de sua formação a reflexão e a pesquisa, que perpassam todos os componentes curriculares manifestando-se de forma explícita no Estágio e no Trabalho de Conclusão de Curso - TCC. Assim deseja-se que esse perfil profissional possibilite que atuem como pedagogos em diferentes espaços, compreendendo as suas 
+- Assessor pedagógico nas áreas de planejamento, gestão e avaliação institucional;
 
-25 
+- Área de tecnologias, Educação a Distância e desenvolvimento de materiais didáticos;
 
-## INSTITUTOFEDERAL Parana 
+- Pesquisador educacional;
 
-Ministerio da Educacao 
+- Outras organizações em que o princípio educativo prepondere, como associações, fundações, ONGs, etc.
 
-naturezas e adotando as formas mais adequadas de gestão e organização do trabalho pedagógico, seja na escola ou em outros espaços educativos. Essa formação integral proporcionará a formação de um profissional cujas principais habilidades dirigem-se a uma atuação realista, crítica, transformadora e democrática da realidade na qual está atuando, independente de tratar-se de um espaço propriamente escolar ou não. Assim, nosso pedagogo será capaz de identificar os problemas prioritários da realidade educacional, hospitalar, empresarial ou de outros espaços distintos de educação e formação, trabalhando de forma comprometida efetiva no sentido de sua superação, tendo a clareza de que isso é possível através de uma prática dialógica, consonante com um modelo de gestão democrática. Acrescida à especificidade da gestão, nosso pedagogo estará habilitado a atuar como docente na Educação Infantil, nos anos iniciais do Ensino Fundamental e no Magistério nível médio e como Gestor Educacional, subsidiando seu trabalho sob os princípios da Interdisciplinaridade e da Práxis Pedagógica. 
+- Espaços em que a atuação do pedagogo se faz necessária para a continuidade do processo educativo sistemático: hospitais, EJAS (Educação de Jovens e Adultos), Comunidades, empresas, entre outros.
 
-## **2.5.1 Áreas de Atuação do Egresso** 
+26
 
-- Docência na Educação Infantil, Anos Iniciais do Ensino Fundamental e matérias pedagógicas do Magistério, Nível Médio; 
+INSTITUTOFEDERAL Parana
 
-- Gestor Educacional de Instituições formais e não formais de Ensino; 
+Ministerio da Educacao
 
-- Assessor pedagógico nas áreas de planejamento, gestão e avaliação institucional; 
+## **2.5.2 Acompanhamento de Egressos**
 
-- Área de tecnologias, Educação a Distância e desenvolvimento de materiais didáticos; 
+Sabe-se que em sua proposta original os Institutos Federais objetivam:
 
-- Pesquisador educacional; 
+- A formação cidadã.
 
-- Outras organizações em que o princípio educativo prepondere, como associações, fundações, ONGs, etc. 
+- A atuação como rede social.
 
-- Espaços em que a atuação do pedagogo se faz necessária para a continuidade do processo educativo sistemático: hospitais, EJAS (Educação de Jovens e Adultos), Comunidades, empresas, entre outros. 
+- Serem espaços para construção e democratização do conhecimento.
 
-26 
+- O desenvolvimento local e regional e promover o conhecimento de forma integrada e verticalizada.
 
-INSTITUTOFEDERAL Parana 
+Diante da característica social dos objetivos educacionais estabelecidos para a Rede Federal de Educação Tecnológica, cabe a cada Instituto investigar e acompanhar os estudantes egressos a fim de avaliar a efetividade do trabalho realizado.
 
-Ministerio da Educacao 
+O Campus Curitiba possui uma Comissão para acompanhamento de Egressos e também existe um Projeto de Pesquisa sendo desenvolvido em conjunto com essa Comissão. Assim sendo, o acompanhamento dos egressos será realizado a partir de ações permanentes e contínuas para que se possa identificar os caminhos trilhados e sua inserção social.
 
-## **2.5.2 Acompanhamento de Egressos** 
+Todos sabemos que os espaços sociais onde as relações se efetivam são sempre dinâmicos, portanto em constantes transformações. Isso indica diversos desafios ao processo educacional e uma estratégia para o enfrentamento desses desafios é o acompanhamento dos egressos pois essa ação contribuirá no acompanhamento das transformações sociais.
 
-Sabe-se que em sua proposta original os Institutos Federais objetivam: 
+A proposta de acompanhamento pretende estabelecer parâmetros dentro da perspectiva de uma avaliação contínua da formação ofertada, analisando o currículo, o perfil profissional dos egressos e sua trajetória profissional.
 
-- A formação cidadã. 
+Esse acompanhamento se dará de forma constante através de e-mails, convites para eventos, estímulo à participação nos cursos de pós-graduação oferecidos no Campus a fim de que se consiga apreender 3 (três) aspectos fundamentais: empregabilidade dos egressos; continuidade de estudos e adequação da formação profissional recebida.
 
-- A atuação como rede social. 
+Empregabilidade entendida como o conjunto de características do trabalhador, que permite sua inserção (e permanência) no mundo do trabalho, continuidade de estudos verificando se os
 
-- Serem espaços para construção e democratização do conhecimento. 
+27
 
-- O desenvolvimento local e regional e promover o conhecimento de forma integrada e verticalizada. 
+## INSTITUTOFEDERAL Parana
 
-Diante da característica social dos objetivos educacionais estabelecidos para a Rede Federal de Educação Tecnológica, cabe a cada Instituto investigar e acompanhar os estudantes egressos a fim de avaliar a efetividade do trabalho realizado. 
+Ministerio da Educacao<br>
 
-O Campus Curitiba possui uma Comissão para acompanhamento de Egressos e também existe um Projeto de Pesquisa sendo desenvolvido em conjunto com essa Comissão. Assim sendo, o acompanhamento dos egressos será realizado a partir de ações permanentes e contínuas para que se possa identificar os caminhos trilhados e sua inserção social. 
+egressos permaneceram na área realizada no IFPR e a adequação dos estudos recebida avaliando, a partir do distanciamento, como esse egresso percebe o IFPR.
 
-Todos sabemos que os espaços sociais onde as relações se efetivam são sempre dinâmicos, portanto em constantes transformações. Isso indica diversos desafios ao processo educacional e uma estratégia para o enfrentamento desses desafios é o acompanhamento dos egressos pois essa ação contribuirá no acompanhamento das transformações sociais. 
+## **2.5.3 Registro Profissional**
 
-A proposta de acompanhamento pretende estabelecer parâmetros dentro da perspectiva de uma avaliação contínua da formação ofertada, analisando o currículo, o perfil profissional dos egressos e sua trajetória profissional. 
+Não se aplica, por não ser obrigatório o credenciamento em conselhos profissionais para o curso de Pedagogia.
 
-Esse acompanhamento se dará de forma constante através de e-mails, convites para eventos, estímulo à participação nos cursos de pós-graduação oferecidos no Campus a fim de que se consiga apreender 3 (três) aspectos fundamentais: empregabilidade dos egressos; continuidade de estudos e adequação da formação profissional recebida. 
+## **3. METODOLOGIA E ESTRATÉGIAS PEDAGÓGICAS**
 
-Empregabilidade entendida como o conjunto de características do trabalhador, que permite sua inserção (e permanência) no mundo do trabalho, continuidade de estudos verificando se os 
+A estruturação do Curso de Licenciatura em Pedagogia busca garantir aos profissionais o acesso unitário e indissociável ao conhecimento prático e teórico em educação. A indissociabilidade entre estes elementos faz-se necessária visto que, na atualidade, cada vez mais, os profissionais da educação contribuem na formação de sujeitos históricos capazes de utilizar o conhecimento e a tecnologia no desenvolvimento cultural, político, econômico e tecnológico das sociedades modernas. Cabe ao curso, com abrangência em formação docente e gestão educacional, atender aos requisitos necessários para que a formação acadêmica promova o profissional que atenda os desafios e necessidades propostas. Dessa forma serão desenvolvidas aulas, estágios, seminários e palestras, visitas técnicas, atividades interdisciplinares, atividades artísticas e culturais, feiras, exposições e eventos.
 
-27 
+O desenvolvimento curricular do curso se articula ao planejamento coletivo interdisciplinar realizado semestralmente no curso, a partir de linhas/eixos, construídos como articuladores dos conhecimentos das várias ciências/componentes curriculares que se organizam pelo método da didática histórico-crítica para cada período:
 
-## INSTITUTOFEDERAL Parana 
+   - Eixo do primeiro período: Práticas Sociais e educação;
 
-**==> picture [83 x 9] intentionally omitted <==**
+- Eixo do segundo período: Trabalho, organização social e educação;
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+   - Eixo do terceiro período: Infância, cultura e direitos à educação;
 
+28
 
-egressos permaneceram na área realizada no IFPR e a adequação dos estudos recebida avaliando, a partir do distanciamento, como esse egresso percebe o IFPR. 
+## INSTITUTOFEDERAL Parana
 
-## **2.5.3 Registro Profissional** 
+Ministerio da Educacao
 
-Não se aplica, por não ser obrigatório o credenciamento em conselhos profissionais para o curso de Pedagogia. 
+- Eixo do quarto período: Escola e docência no Ensino Fundamental;
 
-## **3. METODOLOGIA E ESTRATÉGIAS PEDAGÓGICAS** 
+- Eixo do quinto período: Contextos sociais e formação docente;
 
-A estruturação do Curso de Licenciatura em Pedagogia busca garantir aos profissionais o acesso unitário e indissociável ao conhecimento prático e teórico em educação. A indissociabilidade entre estes elementos faz-se necessária visto que, na atualidade, cada vez mais, os profissionais da educação contribuem na formação de sujeitos históricos capazes de utilizar o conhecimento e a tecnologia no desenvolvimento cultural, político, econômico e tecnológico das sociedades modernas. Cabe ao curso, com abrangência em formação docente e gestão educacional, atender aos requisitos necessários para que a formação acadêmica promova o profissional que atenda os desafios e necessidades propostas. Dessa forma serão desenvolvidas aulas, estágios, seminários e palestras, visitas técnicas, atividades interdisciplinares, atividades artísticas e culturais, feiras, exposições e eventos. 
+- Eixo do sexto período: Democracia, participação e currículo;
 
-O desenvolvimento curricular do curso se articula ao planejamento coletivo interdisciplinar realizado semestralmente no curso, a partir de linhas/eixos, construídos como articuladores dos conhecimentos das várias ciências/componentes curriculares que se organizam pelo método da didática histórico-crítica para cada período: 
+- Eixo do sétimo período: Políticas, pedagogia e Ciência;
 
-   - Eixo do primeiro período: Práticas Sociais e educação; 
+● Eixo do oitavo período: Pesquisa e produção do conhecimento.
 
-- Eixo do segundo período: Trabalho, organização social e educação; 
+Entende-se como interdisciplinaridade o diálogo científico entre as ciências, sem perder de vista as especificidades e aprofundamento científico que cada uma se propõe. O diálogo acontece pelas categorias científicas em cada área do conhecimento, aprofundando-os nas várias dimensões a que se articulam os conteúdos das ementas. O fio condutor é planejar a partir da seguinte questão: como o trabalho interdisciplinar contribui com o aprofundamento dos conhecimentos da ementa do componente curricular e se desdobra em compreensões multidimensionais, num diálogo de práxis com a realidade dos objetos de estudo da pedagogia? Estes eixos em cada período do curso, em cada semestre letivo, se articulam por meio da didática histórico-crítica, a qual consiste em:
 
-   - Eixo do terceiro período: Infância, cultura e direitos à educação; 
+● Levantamento da prática social inicial do conteúdo (uma forma de avaliação diagnóstica e de compreensão da zona de desenvolvimento real do pensamento tendo por base a teoria da psicologia histórico-cultural). Dito de outra forma, são as percepções sobre o que os estudantes já sabem sobre o conteúdo e a realidade social para adentrar ao ensino, mais especificamente.
 
-28 
+● Problematização, a qual consiste na "Identificação e discussão sobre os principais problemas postos pela prática social e conteúdo" ou seja uma forma introdutória e articuladora do eixo interdisciplinar, no diálogo com os conteúdos das ementas oferecidas na turma, no referido semestre/período do curso.
 
-## INSTITUTOFEDERAL Parana 
+● Instrumentalização é o aprofundamento teórico/científico realizado em cada componente curricular a partir de sua ementa. Nesta fase do método as questões ou elementos postos pela problematização são como fio condutores, que frequentemente devem ser retomados para levantamento de premissas e argumentos.
 
-Ministerio da Educacao 
+● Prática social final do conteúdo catarse e/ou síntese e sistematização/ consiste na elaboração de um trabalho final interdisciplinar escrito, planejado e o seminário de sistematização, no qual se retoma questões/elementos postos na problematização para as reflexões e síntese
 
-- Eixo do quarto período: Escola e docência no Ensino Fundamental; 
+29
 
-- Eixo do quinto período: Contextos sociais e formação docente; 
+## INSTITUTOFEDERAL Parana
 
-- Eixo do sexto período: Democracia, participação e currículo; 
+Ministerio da Educacao
 
-- Eixo do sétimo período: Políticas, pedagogia e Ciência; 
+(conhecimento apropriado) com base nas instrumentalizações de cada componente curricular. No trabalho final, todos os componentes têm o papel de contribuir tanto na orientação, conteúdo e avaliação.
 
-● Eixo do oitavo período: Pesquisa e produção do conhecimento. 
+O campus oferece também aos discentes: programas de atendimento extraclasse, equipe multidisciplinar/multiprofissional, apoio psicopedagógico, assistência social, atividades de complementação de aprendizagem, atividades de pesquisa, atividades de extensão e inovação, entre outras.
 
-Entende-se como interdisciplinaridade o diálogo científico entre as ciências, sem perder de vista as especificidades e aprofundamento científico que cada uma se propõe. O diálogo acontece pelas categorias científicas em cada área do conhecimento, aprofundando-os nas várias dimensões a que se articulam os conteúdos das ementas. O fio condutor é planejar a partir da seguinte questão: como o trabalho interdisciplinar contribui com o aprofundamento dos conhecimentos da ementa do componente curricular e se desdobra em compreensões multidimensionais, num diálogo de práxis com a realidade dos objetos de estudo da pedagogia? Estes eixos em cada período do curso, em cada semestre letivo, se articulam por meio da didática histórico-crítica, a qual consiste em: 
+## 3.1 RELAÇÃO ENTRE ENSINO, PESQUISA , EXTENSÃO E INOVAÇÃO
 
-● Levantamento da prática social inicial do conteúdo (uma forma de avaliação diagnóstica e de compreensão da zona de desenvolvimento real do pensamento tendo por base a teoria da psicologia histórico-cultural). Dito de outra forma, são as percepções sobre o que os estudantes já sabem sobre o conteúdo e a realidade social para adentrar ao ensino, mais especificamente. 
+A curricularização da extensão estará articulada ao tripé da indissociabilidade do ensino, pesquisa, extensão que acontece no Instituto Federal do Paraná, por intermédio dos projetos de pesquisa e extensão de grupos ou docentes individuais, articulados às diversas temáticas de objetos da área pedagogia ou áreas afins no diálogo interdisciplinares, os quais são respectivamente conectados aos conteúdos que formam os pedagogos. Tais projetos de pesquisa ou extensão que são realizados nos espaços do curso devem passar pela aprovação do colegiado de curso, amplamente divulgados entre estudantes e sistematizados por meio de seminários e eventos que acontecem no âmbito do IFPR.
 
-● Problematização, a qual consiste na "Identificação e discussão sobre os principais problemas postos pela prática social e conteúdo" ou seja uma forma introdutória e articuladora do eixo interdisciplinar, no diálogo com os conteúdos das ementas oferecidas na turma, no referido semestre/período do curso. 
+O Curso de Licenciatura em Pedagogia do Campus Curitiba pretende a articulação entre ensino, pesquisa, extensão e inovação contemplando em sua Matriz Curricular o desenvolvimento Atividades de curricularização da extensão (ACE) que compreendem: “intervenções que envolvam diretamente as comunidades externas ao IFPR e que estejam vinculadas à formação do estudante, conforme normas institucionais próprias. São definidas como: Programa, Projeto, Curso, Evento, Publicações e Prestação de Serviço”. Art 3º INSTRUÇÃO NORMATIVA REITORIA/IFPR Nº 1, DE 26 DE JULHO DE 2021, tendo como foco as vivências da aprendizagem para a capacitação e para a inserção no mundo do trabalho.  A ACE terá implementação sistemática, permanente e/ou eventual de cursos de extensão, seminários, fóruns, palestras, semanas de curso e outros que articulem os currículos a temas de relevância social, local e/ou regional potencializando os recursos materiais, físicos e humanos disponíveis;
 
-● Instrumentalização é o aprofundamento teórico/científico realizado em cada componente curricular a partir de sua ementa. Nesta fase do método as questões ou elementos postos pela problematização são como fio condutores, que frequentemente devem ser retomados para levantamento de premissas e argumentos. 
+30
 
-● Prática social final do conteúdo catarse e/ou síntese e sistematização/ consiste na elaboração de um trabalho final interdisciplinar escrito, planejado e o seminário de sistematização, no qual se retoma questões/elementos postos na problematização para as reflexões e síntese 
+INSTITUTOFEDERAL Parana
 
-29 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+As  ACEs serão organizadas por meio de:
 
-Ministerio da Educacao 
+- elaboração e execução a partir do planejamento interdisciplinar para aprofundar as áreas de conhecimento articulando com as práticas sociais construídos coletivamente no início de cada semestre e avaliado durante o seu desenvolvimento;
 
-(conhecimento apropriado) com base nas instrumentalizações de cada componente curricular. No trabalho final, todos os componentes têm o papel de contribuir tanto na orientação, conteúdo e avaliação. 
+- por meio do trabalho interdisciplinar, a partir de linhas/eixos, construídos como articuladores dos conhecimentos das várias ciências/componentes curriculares que se organizam pelo método da didática histórico-crítica;
 
-O campus oferece também aos discentes: programas de atendimento extraclasse, equipe multidisciplinar/multiprofissional, apoio psicopedagógico, assistência social, atividades de complementação de aprendizagem, atividades de pesquisa, atividades de extensão e inovação, entre outras. 
+- as ACEs se organizarão de forma a contemplar conhecimentos relevantes e capazes de responder demandas da formação docentes da educação formal e de profissionais da educação não formal para a comunidade interna e externa;
 
-## 3.1 RELAÇÃO ENTRE ENSINO, PESQUISA , EXTENSÃO E INOVAÇÃO 
+- a indissociabilidade do tripé: ensino, pesquisa e extensão, considerando fundamental para uma extensão que se faz na dinâmica técnica, tecnológica e científica nos Institutos Federais;
 
-A curricularização da extensão estará articulada ao tripé da indissociabilidade do ensino, pesquisa, extensão que acontece no Instituto Federal do Paraná, por intermédio dos projetos de pesquisa e extensão de grupos ou docentes individuais, articulados às diversas temáticas de objetos da área pedagogia ou áreas afins no diálogo interdisciplinares, os quais são respectivamente conectados aos conteúdos que formam os pedagogos. Tais projetos de pesquisa ou extensão que são realizados nos espaços do curso devem passar pela aprovação do colegiado de curso, amplamente divulgados entre estudantes e sistematizados por meio de seminários e eventos que acontecem no âmbito do IFPR. 
+- o movimento de práxis que articula prática, teoria e prática nos princípios extensionistas Práxis de Paulo Freire: ação-reflexão-ação será a  tônica do processo, estimulando a iniciação científica e demais atividades a fim de estimular a pesquisa, extensão e a inovação;
 
-O Curso de Licenciatura em Pedagogia do Campus Curitiba pretende a articulação entre ensino, pesquisa, extensão e inovação contemplando em sua Matriz Curricular o desenvolvimento Atividades de curricularização da extensão (ACE) que compreendem: “intervenções que envolvam diretamente as comunidades externas ao IFPR e que estejam vinculadas à formação do estudante, conforme normas institucionais próprias. São definidas como: Programa, Projeto, Curso, Evento, Publicações e Prestação de Serviço”. Art 3º INSTRUÇÃO NORMATIVA REITORIA/IFPR Nº 1, DE 26 DE JULHO DE 2021, tendo como foco as vivências da aprendizagem para a capacitação e para a inserção no mundo do trabalho.  A ACE terá implementação sistemática, permanente e/ou eventual de cursos de extensão, seminários, fóruns, palestras, semanas de curso e outros que articulem os currículos a temas de relevância social, local e/ou regional potencializando os recursos materiais, físicos e humanos disponíveis; 
+- **previsão em componentes curriculares, para viabilizar a construção de trajetórias curriculares por meio do envolvimento em eventos, em projetos de pesquisa e extensão:** Educação do Campo 40h, Educação e Diversidade, 40h, Tecnologias Educacionais, 40h, Educação Inclusiva 40h, Educação Ambiental 40h, Projetos Educativos 80h, Educação e Direitos Humanos, 40h. Totalizando 320 horas;
 
-30 
+- nos componentes onde estão alocados às ACEs, a carga horária da extensão ser desenvolvida é total, de forma a contemplar uma organização didático-pedagógica organizada em: Observação participante do contexto onde acontecerá a ação extensionista; fundamentação teórica; o planejamento, a ação extensionista prática; a  avaliação e a sistematização; seminários de socialização. Dentro desta perspectiva nos planos de ensino dos componentes serão quantificadas as horas para estes momentos, a fim de totalizar a carga horária prevista;
 
-INSTITUTOFEDERAL Parana 
+31
 
-Ministerio da Educacao 
+## INSTITUTOFEDERAL Parana
 
-As  ACEs serão organizadas por meio de: 
+Ministerio da Educacao
 
-- elaboração e execução a partir do planejamento interdisciplinar para aprofundar as áreas de conhecimento articulando com as práticas sociais construídos coletivamente no início de cada semestre e avaliado durante o seu desenvolvimento; 
+- a partir dos componentes curriculares nomeados para ACE os estudantes juntos aos docentes, irão construir coletivamente o projeto de extensão para apreender a atividade extensionista contextualizada ao curso de formação;
 
-- por meio do trabalho interdisciplinar, a partir de linhas/eixos, construídos como articuladores dos conhecimentos das várias ciências/componentes curriculares que se organizam pelo método da didática histórico-crítica; 
+-  o componente curricular com as horas de extensão irá articular o planejamento das ACEs junto planejamento interdisciplinar do semestre com participação dos pares que ministram outros componentes naquele período do curso;
 
-- as ACEs se organizarão de forma a contemplar conhecimentos relevantes e capazes de responder demandas da formação docentes da educação formal e de profissionais da educação não formal para a comunidade interna e externa; 
+- os estudantes como protagonistas das ACEs e a adesão e integração entre formação continuada dos protagonistas da educação de Anos Iniciais do Ensino Fundamental nas diferentes modalidades de ensino,Educação Infantil e na gestão educacional. Integração entre Educação Básica e superior;
 
-- a indissociabilidade do tripé: ensino, pesquisa e extensão, considerando fundamental para uma extensão que se faz na dinâmica técnica, tecnológica e científica nos Institutos Federais; 
+## 3.2 TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO NO PROCESSO DE ENSINO-APRENDIZAGEM
 
-- o movimento de práxis que articula prática, teoria e prática nos princípios extensionistas Práxis de Paulo Freire: ação-reflexão-ação será a  tônica do processo, estimulando a iniciação científica e demais atividades a fim de estimular a pesquisa, extensão e a inovação; 
+O Curso de Licenciatura em Pedagogia utiliza as Tecnologias Digitais de Informação e Comunicação (TDIC) como recurso pedagógico em consonância com a proposta dos Institutos Federais de Educação.
 
-- **previsão em componentes curriculares, para viabilizar a construção de trajetórias curriculares por meio do envolvimento em eventos, em projetos de pesquisa e extensão:** Educação do Campo 40h, Educação e Diversidade, 40h, Tecnologias Educacionais, 40h, Educação Inclusiva 40h, Educação Ambiental 40h, Projetos Educativos 80h, Educação e Direitos Humanos, 40h. Totalizando 320 horas; 
+Os componentes curriculares serão ofertados presencialmente, entretanto utilizará as Tecnologias Digitais de Informação e Comunicação como recurso pedagógico e como meio de comunicação com os estudantes. Os meios de comunicação digitais serão viabilizados por meio de ferramentas institucionais, _softwares_ livres e aplicativos gratuitos. O docente terá o papel de mediador do conhecimento propondo atividades que oportunizem a cooperação, a autonomia e a interação com o objetivo de oportunizar aos estudantes a aprendizagem em níveis mais aprofundados.
 
-- nos componentes onde estão alocados às ACEs, a carga horária da extensão ser desenvolvida é total, de forma a contemplar uma organização didático-pedagógica organizada em: Observação participante do contexto onde acontecerá a ação extensionista; fundamentação teórica; o planejamento, a ação extensionista prática; a  avaliação e a sistematização; seminários de socialização. Dentro desta perspectiva nos planos de ensino dos componentes serão quantificadas as horas para estes momentos, a fim de totalizar a carga horária prevista; 
+Para as atividades que utilizam as TDIC, as interações ocorrerão de modo assíncrono por meio de aplicativos e _softwares_ de comunicação digital, institucionais e gratuitos conforme opção do docente do componente curricular. Pretende-se uma comunicação que permita o diálogo, a transversalidade, a ubiquidade e a fluidez multidirecional.
 
-31 
+32
 
-## INSTITUTOFEDERAL Parana 
+INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+Ministerio da Educacao
 
-- a partir dos componentes curriculares nomeados para ACE os estudantes juntos aos docentes, irão construir coletivamente o projeto de extensão para apreender a atividade extensionista contextualizada ao curso de formação; 
+## 3.3 **Atividade Prática Supervisionada (APS)**
 
--  o componente curricular com as horas de extensão irá articular o planejamento das ACEs junto planejamento interdisciplinar do semestre com participação dos pares que ministram outros componentes naquele período do curso; 
+São considerados Atividade Prática Supervisionada (APS): estudos dirigidos, trabalhos individuais, trabalhos em grupo, atividades em biblioteca, desenvolvimento de projetos, atividades em laboratório, atividades de campo, oficinas, pesquisas, estudos de casos, seminários, desenvolvimento de trabalhos acadêmicos específicos, dentre outros. As APS são atividades acadêmicas, não circunscritas à sala de aula, desenvolvidas sob a orientação, supervisão e avaliação de docentes e realizadas pelos discentes dos cursos de graduação do IFPR, como parte integrante da carga horária do componente curricular.
 
-- os estudantes como protagonistas das ACEs e a adesão e integração entre formação continuada dos protagonistas da educação de Anos Iniciais do Ensino Fundamental nas diferentes modalidades de ensino,Educação Infantil e na gestão educacional. Integração entre Educação Básica e superior; 
+As APS, conforme Portaria PROENS/IFPR nº 150, de 13 de dezembro de 2024, não terão horário pré-estabelecido para sua execução e podem ser realizadas a qualquer momento do período letivo, desde que previstas no plano de ensino do docente. E fica à critério do professor(a) adotar ou não a APS como estratégia de ensino e aprendizagem em qualquer período letivo. Sugere-se a sua adoção especialmente em período letivo cujo ano, em função dos feriados, não seja possível cumprir a carga horária de forma presencial uma vez que a APS pode ser realizada sem a presença de professor(a) ainda que o estudante não possa prescindir da orientação do professor(a) para a realização dessa(s) atividade(s). Após a adoção das APS não há a obrigatoriedade de sua continuidade em períodos seguintes para o mesmo componente curricular.
 
-## 3.2 TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO NO PROCESSO DE ENSINO-APRENDIZAGEM 
+Dessa forma, o cumprimento do efetivo do trabalho discente compreenderá em: I – preleções e aulas expositivas; e II – atividades práticas supervisionadas (APS), tais como laboratórios, atividades em biblioteca, iniciação científica, trabalhos individuais e em grupo, práticas de ensino e outras atividades.
 
-O Curso de Licenciatura em Pedagogia utiliza as Tecnologias Digitais de Informação e Comunicação (TDIC) como recurso pedagógico em consonância com a proposta dos Institutos Federais de Educação. 
+Uma vez adotado as APS no curso de Tecnologia em Processos Escolares são de responsabilidade do professor responsável pelo componente curricular, uma vez que as APS estão limitadas a 10% (dez por cento) da carga horária dos componentes curriculares teóricos, práticos ou teórico-práticos:
 
-Os componentes curriculares serão ofertados presencialmente, entretanto utilizará as Tecnologias Digitais de Informação e Comunicação como recurso pedagógico e como meio de comunicação com os estudantes. Os meios de comunicação digitais serão viabilizados por meio de ferramentas institucionais, _softwares_ livres e aplicativos gratuitos. O docente terá o papel de mediador do conhecimento propondo atividades que oportunizem a cooperação, a autonomia e a interação com o objetivo de oportunizar aos estudantes a aprendizagem em níveis mais aprofundados. 
+- prever a utilização de APS em seu plano de ensino, fazendo nele constar um subitem dentro do item “Metodologia” que verse especificamente sobre as APS contendo, no mínimo: a
 
-Para as atividades que utilizam as TDIC, as interações ocorrerão de modo assíncrono por meio de aplicativos e _softwares_ de comunicação digital, institucionais e gratuitos conforme opção do docente do componente curricular. Pretende-se uma comunicação que permita o diálogo, a transversalidade, a ubiquidade e a fluidez multidirecional. 
+33
 
-32 
+INSTITUTOFEDERAL Parana
 
-INSTITUTOFEDERAL Parana 
+Ministerio da Educacao
 
-Ministerio da Educacao 
+carga horária, o cronograma, os conteúdos, as metodologias e as formas de avaliação e de entrega das APS.
 
-## 3.3 **Atividade Prática Supervisionada (APS)** 
+- informar aos estudantes os critérios e os instrumentos de avaliação das APS que observarão a resolução vigente acerca de normas da avaliação da aprendizagem escolar do IFPR.
 
-São considerados Atividade Prática Supervisionada (APS): estudos dirigidos, trabalhos individuais, trabalhos em grupo, atividades em biblioteca, desenvolvimento de projetos, atividades em laboratório, atividades de campo, oficinas, pesquisas, estudos de casos, seminários, desenvolvimento de trabalhos acadêmicos específicos, dentre outros. As APS são atividades acadêmicas, não circunscritas à sala de aula, desenvolvidas sob a orientação, supervisão e avaliação de docentes e realizadas pelos discentes dos cursos de graduação do IFPR, como parte integrante da carga horária do componente curricular. 
+- planejar, executar e avaliar as APS considerando a matrícula de estudantes com Necessidades Educacionais Específicas, sendo responsabilidade do docente fazer as adequações necessárias, sob orientação da Coordenadoria do Núcleo de Atendimento às Pessoas com Necessidades Específicas.
 
-As APS, conforme Portaria PROENS/IFPR nº 150, de 13 de dezembro de 2024, não terão horário pré-estabelecido para sua execução e podem ser realizadas a qualquer momento do período letivo, desde que previstas no plano de ensino do docente. E fica à critério do professor(a) adotar ou não a APS como estratégia de ensino e aprendizagem em qualquer período letivo. Sugere-se a sua adoção especialmente em período letivo cujo ano, em função dos feriados, não seja possível cumprir a carga horária de forma presencial uma vez que a APS pode ser realizada sem a presença de professor(a) ainda que o estudante não possa prescindir da orientação do professor(a) para a realização dessa(s) atividade(s). Após a adoção das APS não há a obrigatoriedade de sua continuidade em períodos seguintes para o mesmo componente curricular. 
+- fazer a guarda das APS ao final do período letivo, seja em suporte físico, seja em suporte virtual, para fins de comprovação, se necessário.
 
-Dessa forma, o cumprimento do efetivo do trabalho discente compreenderá em: I – preleções e aulas expositivas; e II – atividades práticas supervisionadas (APS), tais como laboratórios, atividades em biblioteca, iniciação científica, trabalhos individuais e em grupo, práticas de ensino e outras atividades. 
+- registrar no SUAP, na descrição da aula, de acordo com o cronograma estabelecido no Plano de Ensino do componente curricular.
 
-Uma vez adotado as APS no curso de Tecnologia em Processos Escolares são de responsabilidade do professor responsável pelo componente curricular, uma vez que as APS estão limitadas a 10% (dez por cento) da carga horária dos componentes curriculares teóricos, práticos ou teórico-práticos: 
+Ainda conforme a Portaria PROENS/IFPR nº 150, de 13 de dezembro de 2024, fica vedado
 
-- prever a utilização de APS em seu plano de ensino, fazendo nele constar um subitem dentro do item “Metodologia” que verse especificamente sobre as APS contendo, no mínimo: a 
+a utilização de Atividades Práticas Supervisionadas (APS)
 
-33 
+- Quando não estiverem previstas no PPC;
 
-INSTITUTOFEDERAL Parana 
+- Quando não forem inseridas no Plano de Ensino do Docente;
 
-Ministerio da Educacao 
+- Quando o componente curricular prever carga horária na modalidade de Educação a Distância (EaD);
 
-carga horária, o cronograma, os conteúdos, as metodologias e as formas de avaliação e de entrega das APS. 
+- Para reposição de aulas presenciais, salvo com autorização prévia da coordenação de curso e da IEPEX ou equivalente, mediante justificativa fundamentada e respeitando-se o limite máximo estipulado na portaria do IFPR.
 
-- informar aos estudantes os critérios e os instrumentos de avaliação das APS que observarão a resolução vigente acerca de normas da avaliação da aprendizagem escolar do IFPR. 
+- Nas cargas horárias dos componentes curriculares já previstas para extensão;
 
-- planejar, executar e avaliar as APS considerando a matrícula de estudantes com Necessidades Educacionais Específicas, sendo responsabilidade do docente fazer as adequações necessárias, sob orientação da Coordenadoria do Núcleo de Atendimento às Pessoas com Necessidades Específicas. 
+- Nos estágios curriculares obrigatórios; e
 
-- fazer a guarda das APS ao final do período letivo, seja em suporte físico, seja em suporte virtual, para fins de comprovação, se necessário. 
+- Nas Atividades Complementares.
 
-- registrar no SUAP, na descrição da aula, de acordo com o cronograma estabelecido no Plano de Ensino do componente curricular. 
+Caberá ao coordenador de curso, assessorado pelo NDE e ouvido o colegiado de curso, acompanhar e avaliar a execução das APS.
 
-Ainda conforme a Portaria PROENS/IFPR nº 150, de 13 de dezembro de 2024, fica vedado 
+## **4. ORGANIZAÇÃO CURRICULAR**
 
-a utilização de Atividades Práticas Supervisionadas (APS) 
+34
 
-- Quando não estiverem previstas no PPC; 
+Ministerio da Educacao
 
-- Quando não forem inseridas no Plano de Ensino do Docente; 
+## INSTITUTOFEDERAL Parana
 
-- Quando o componente curricular prever carga horária na modalidade de Educação a Distância (EaD); 
-
-- Para reposição de aulas presenciais, salvo com autorização prévia da coordenação de curso e da IEPEX ou equivalente, mediante justificativa fundamentada e respeitando-se o limite máximo estipulado na portaria do IFPR. 
-
-- Nas cargas horárias dos componentes curriculares já previstas para extensão; 
-
-- Nos estágios curriculares obrigatórios; e 
-
-- Nas Atividades Complementares. 
-
-Caberá ao coordenador de curso, assessorado pelo NDE e ouvido o colegiado de curso, acompanhar e avaliar a execução das APS. 
-
-## **4. ORGANIZAÇÃO CURRICULAR** 
-
-34 
-
-Ministerio da Educacao 
-
-## INSTITUTOFEDERAL Parana 
-
-## 4.1 ESTRUTURA CURRICULAR 
+## 4.1 ESTRUTURA CURRICULAR
 
 |**COMPONENTES**|**COMPONENTES**|**COMPONENTES**|**COMPONENTES**|**COMPONENTES**|**COMPONENTES**||
 |---|---|---|---|---|---|---|
@@ -939,13 +889,11 @@ Ministerio da Educacao
 |Cintia Tortato e Iara Aquino Henn|Gestão Educacional|3|C|80|6º|Doutora|
 |Cintia Tortato e Iara Aquino Henn|Escola e Currículo|1|C|80|6º|Doutora|
 
+35
 
+Ministerio da Educacao
 
-35 
-
-Ministerio da Educacao 
-
-## 1[INSTITUTOFEDERAL] Parana 
+## 1[INSTITUTOFEDERAL] Parana
 
 |Leandro Rafael Pinto|Prática Pedagógica de Geografia|1|P|80|6º|Doutor|
 |---|---|---|---|---|---|---|
@@ -964,8 +912,6 @@ Ministerio da Educacao
 |Carmen Ballão|Educação Ambiental|1|C|40|8º|Doutora|
 |Érika Pessanha|Educação e Diversidade|2|C|40|8º|Doutora|
 
-
-
 ||**OPTATIVAS**||||||
 |---|---|---|---|---|---|---|
 |**Professor Responsável**|**Componente Curricular**|**Tipo**|**Núc**|**CH**|**Sem**||
@@ -973,40 +919,31 @@ Ministerio da Educacao
 ||Robótica Educativa|Op|2|40|7º|Mestre|
 |Wesley de Moraes|Espaços Educativos não Escolares|Op|2|40|7º|Doutor|
 |Michele Simonian Dÿck|Educação_On-line_e Híbrida|Op|2|40|7º|Doutora|
-||||||||
 ||**ELETIVAS**||||||
 |**Professor Responsável**|**Componente Curricular**|**Tipo**|**Núc**|**CH**|**Sem**||
 |Regiane Porrua|Língua Espanhola|Op|2|40|7º|Mestre|
 |Camilla Damian Mizerkowski Crestani Língua Inglesa|Camilla Damian Mizerkowski Crestani Língua Inglesa|Op|2|40|7º|Doutora|
 
+## **4.1.1 Representação Gráfica do Processo Formativo**
 
+Legenda:
 
-## **4.1.1 Representação Gráfica do Processo Formativo** 
+**NÚCLEOS - CARGA HORÁRIA**
 
-Legenda: 
+**Núcleo I**
 
-**NÚCLEOS - CARGA HORÁRIA** 
+1160<br>
 
-**Núcleo I** 
+36
 
-**==> picture [17 x 7] intentionally omitted <==**
+Ministerio da Educacao
 
-**----- Start of picture text -----**<br>
-1160<br>**----- End of picture text -----**<br>
-
-
-36 
-
-Ministerio da Educacao 
-
-## 1[INSTITUTOFEDERAL] Parana 
+## 1[INSTITUTOFEDERAL] Parana
 
 |**Núcleo II**|**1040**|
 |---|---|
 |**Núcleo III**|**1000**|
 |**CARGA HORÁRIA TOTAL DO CURSO**|**3200**|
-
-
 
 |**DISTRIBUIÇÃO - CARGA HORÁRIA**|**DISTRIBUIÇÃO - CARGA HORÁRIA**|
 |---|---|
@@ -1017,9 +954,7 @@ Ministerio da Educacao
 |**Total**|**3200**|
 |**(ACE) Atividade de Curricularização da Extensão (dentro dos componentes curriculares)**|**320**|
 
-
-
-## **NÚCLEO I – Estudos de formação geral** 
+## **NÚCLEO I – Estudos de formação geral**
 
 |**Componente Curricular**|**Núcleo**|**CH**|**Semestre**|
 |---|---|---|---|
@@ -1039,21 +974,16 @@ Ministerio da Educacao
 |Políticas Educacionais|1|80|7º|
 |Educação Profissional: princípios e práticas|1|80|8º|
 
+37
 
+Ministerio da Educacao
 
-37 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+Educação Ambiental 1 40 8º
 
-## INSTITUTOFEDERAL Parana 
+## **NÚCLEO II – Aprofundamento e diversificação de estudos**
 
-Educação Ambiental 1 40 8º 
-
-## **NÚCLEO II – Aprofundamento e diversificação de estudos** 
-
-**==> picture [447 x 263] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
 |||||
 |---|---|---|---|
 |Componente Curricular|Núcleo|CH|Semestre|
@@ -1074,14 +1004,8 @@ Educação Ambiental 1 40 8º
 |Pedagogo Escolar: Identidade, Funções e Saberes|2|80|8º|
 |Educação e Diversidade|2|40|8º|
 
-**----- End of picture text -----**<br>
+## **NÚCLEO III – Estudos Integradores**
 
-
-## **NÚCLEO III – Estudos Integradores** 
-
-**==> picture [448 x 185] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
 |||||
 |---|---|---|---|
 |Componente Curricular|Núcleo|CH|Semestre|
@@ -1097,16 +1021,13 @@ Educação Ambiental 1 40 8º
 |Gestão Educacional|3|80|6º|
 |Estágio V – Gestão Educacional|3|80|6º|
 
-**----- End of picture text -----**<br>
+38
 
+Ministerio da Educacao
 
-38 
+## INSTITUTOFEDERAL
 
-Ministerio da Educacao 
-
-## INSTITUTOFEDERAL 
-
-## Parana 
+## Parana
 
 |Educação Profissional, Ciência e Tecnologia|3|40|7º|
 |---|---|---|---|
@@ -1114,9 +1035,7 @@ Ministerio da Educacao
 |LIBRAS|3|80|7º|
 |Pesquisa Pedagógica - TCC II|3|80|8º|
 
-
-
-## **Atividade de Curricularização da Extensão** 
+## **Atividade de Curricularização da Extensão**
 
 |**Componente Curricular**|**Núcleo**|**CH**|**Semestre**|
 |---|---|---|---|
@@ -1128,39 +1047,27 @@ Ministerio da Educacao
 |Educação e Direitos Humanos|3|40|5º|
 |História e Cultura Afro-Brasileira e Indígena|3|40|4º|
 
+39
 
+## INSTITUTOFEDERAL Parana
 
-39 
+Ministerio da Educacao<br>
 
-## INSTITUTOFEDERAL Parana 
+## **Diagrama do Processo Pedagógico**
 
-**==> picture [83 x 8] intentionally omitted <==**
+DiagramaMatrizCurricular-CursodeLicenciaturaemPedagogia-IFPR-CampusCuritiba<br>19 29 39 49 59 69 79 89<br>semestre semestre semestre semestre semestre semestre semestre semestre<br>Lingua Matematica Fundamentos HistoriaeCultura Educacao Gestao Educacao Avaliacao<br>Portuguesa 80 Basica 80 Sociologicosda Afro-Brasileirae Inclusiva 40 Educacional80 Profissional, Institucional80<br>Educacao80 Indigena40 Ciencia eTec.40<br>Fundamentos EstagioI-Educ. Alfabetizacaoe Didaticae Estatistica Escolae Optativa/Eletiva Ed.Profissional:<br>Filosoficos da deJovens-e Letramento 80 Formacao aplicada a Curriculo 80 40 principiose<br>Educacao80 Adultos80 Docente40 Educacao40 praticas 80<br>NUCLEOI JovenseAdultosEducacaode FundamentosHistoricos da Educacao InfantilFundamentos da Corporeidade80 Organizacaodotrabalho Pedagogica dePratica Met.dePesquisaPedagogica Escolar:ldent.,Pedagogo<br>NUCLEOI 80 Educacao80 80 Pedagogico40 Geografia 80 -TCC180 Fung. e Sab.80<br>NUCLEOIII Fundamentos Arte Educacaoe Pratica Pratica Educacaoe EstagioV- Pratica Pesquisa<br>Psicologicos daEducacao80 seu Ensino80 Matematica80Pedagogica de Pedagogica Ling.Portuguesa 80 Humanos 40Direitos Educacional80Gestao Ciencias Nat.80Pedagogica de Pedagogica-TCC180<br>Tecnologias Educacaoe Estagio II- Avaliacaoda Educacao, Projetos Politicas Educacao<br>Educacionais 40 Trabalho 40 EducacaoInfantil Aprendizagem80 Comunicacaoe Educativos80 Educacionais 80 Ambiental<br>80 Tecnologia80 40<br>Teorias do Educacaodo Estagiolll-Anos Pratica LIBRAS 80 Educacaoe<br>Conhecimento Campo 40 Iniciais da Educ. Pedagogica de Diversidade 40<br>Pedagogico 40 Basica 80 Historia 80<br>Estagio IV-<br>Formacao<br>Docente80<br>
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+40
 
+INSTITUTOFEDERAL Parana
 
-## **Diagrama do Processo Pedagógico** 
+Ministerio da Educacao
 
-**==> picture [454 x 269] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-DiagramaMatrizCurricular-CursodeLicenciaturaemPedagogia-IFPR-CampusCuritiba<br>19 29 39 49 59 69 79 89<br>semestre semestre semestre semestre semestre semestre semestre semestre<br>Lingua Matematica Fundamentos HistoriaeCultura Educacao Gestao Educacao Avaliacao<br>Portuguesa 80 Basica 80 Sociologicosda Afro-Brasileirae Inclusiva 40 Educacional80 Profissional, Institucional80<br>Educacao80 Indigena40 Ciencia eTec.40<br>Fundamentos EstagioI-Educ. Alfabetizacaoe Didaticae Estatistica Escolae Optativa/Eletiva Ed.Profissional:<br>Filosoficos da deJovens-e Letramento 80 Formacao aplicada a Curriculo 80 40 principiose<br>Educacao80 Adultos80 Docente40 Educacao40 praticas 80<br>NUCLEOI JovenseAdultosEducacaode FundamentosHistoricos da Educacao InfantilFundamentos da Corporeidade80 Organizacaodotrabalho Pedagogica dePratica Met.dePesquisaPedagogica Escolar:ldent.,Pedagogo<br>NUCLEOI 80 Educacao80 80 Pedagogico40 Geografia 80 -TCC180 Fung. e Sab.80<br>NUCLEOIII Fundamentos Arte Educacaoe Pratica Pratica Educacaoe EstagioV- Pratica Pesquisa<br>Psicologicos daEducacao80 seu Ensino80 Matematica80Pedagogica de Pedagogica Ling.Portuguesa 80 Humanos 40Direitos Educacional80Gestao Ciencias Nat.80Pedagogica de Pedagogica-TCC180<br>Tecnologias Educacaoe Estagio II- Avaliacaoda Educacao, Projetos Politicas Educacao<br>Educacionais 40 Trabalho 40 EducacaoInfantil Aprendizagem80 Comunicacaoe Educativos80 Educacionais 80 Ambiental<br>80 Tecnologia80 40<br>Teorias do Educacaodo Estagiolll-Anos Pratica LIBRAS 80 Educacaoe<br>Conhecimento Campo 40 Iniciais da Educ. Pedagogica de Diversidade 40<br>Pedagogico 40 Basica 80 Historia 80<br>Estagio IV-<br>Formacao<br>Docente80<br>**----- End of picture text -----**<br>
-
-
-40 
-
-INSTITUTOFEDERAL Parana 
-
-Ministerio da Educacao 
-
-## **4.1.2  Matriz Curricular** 
+## **4.1.2  Matriz Curricular**
 
 |INSTITUTO<br>FEDERAL<br>Parana|**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**<br>Criação Lei nº 11.892 de 29/11/2008<br>_Campus Curitiba_<br>**MATRIZ CURRICULAR DO CURSO SUPERIOR DE LICENCIATURA EM PEDAGOGIA**<br>Código área do conhecimento do Curso: Educação - 70800006<br>Base legal: Resolução nº 19/ IFPR de 24/03/2017. Anexos I e II.<br>Base legal específica: Resolução CNE/CP 1/2006.Diretrizes Curriculares Nacionais Pedagogia<br>Resolução de autorização do curso no IFPR: Resolução nº 34/2018|**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**<br>Criação Lei nº 11.892 de 29/11/2008<br>_Campus Curitiba_<br>**MATRIZ CURRICULAR DO CURSO SUPERIOR DE LICENCIATURA EM PEDAGOGIA**<br>Código área do conhecimento do Curso: Educação - 70800006<br>Base legal: Resolução nº 19/ IFPR de 24/03/2017. Anexos I e II.<br>Base legal específica: Resolução CNE/CP 1/2006.Diretrizes Curriculares Nacionais Pedagogia<br>Resolução de autorização do curso no IFPR: Resolução nº 34/2018|**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**<br>Criação Lei nº 11.892 de 29/11/2008<br>_Campus Curitiba_<br>**MATRIZ CURRICULAR DO CURSO SUPERIOR DE LICENCIATURA EM PEDAGOGIA**<br>Código área do conhecimento do Curso: Educação - 70800006<br>Base legal: Resolução nº 19/ IFPR de 24/03/2017. Anexos I e II.<br>Base legal específica: Resolução CNE/CP 1/2006.Diretrizes Curriculares Nacionais Pedagogia<br>Resolução de autorização do curso no IFPR: Resolução nº 34/2018|**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**<br>Criação Lei nº 11.892 de 29/11/2008<br>_Campus Curitiba_<br>**MATRIZ CURRICULAR DO CURSO SUPERIOR DE LICENCIATURA EM PEDAGOGIA**<br>Código área do conhecimento do Curso: Educação - 70800006<br>Base legal: Resolução nº 19/ IFPR de 24/03/2017. Anexos I e II.<br>Base legal específica: Resolução CNE/CP 1/2006.Diretrizes Curriculares Nacionais Pedagogia<br>Resolução de autorização do curso no IFPR: Resolução nº 34/2018|**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**<br>Criação Lei nº 11.892 de 29/11/2008<br>_Campus Curitiba_<br>**MATRIZ CURRICULAR DO CURSO SUPERIOR DE LICENCIATURA EM PEDAGOGIA**<br>Código área do conhecimento do Curso: Educação - 70800006<br>Base legal: Resolução nº 19/ IFPR de 24/03/2017. Anexos I e II.<br>Base legal específica: Resolução CNE/CP 1/2006.Diretrizes Curriculares Nacionais Pedagogia<br>Resolução de autorização do curso no IFPR: Resolução nº 34/2018|**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**<br>Criação Lei nº 11.892 de 29/11/2008<br>_Campus Curitiba_<br>**MATRIZ CURRICULAR DO CURSO SUPERIOR DE LICENCIATURA EM PEDAGOGIA**<br>Código área do conhecimento do Curso: Educação - 70800006<br>Base legal: Resolução nº 19/ IFPR de 24/03/2017. Anexos I e II.<br>Base legal específica: Resolução CNE/CP 1/2006.Diretrizes Curriculares Nacionais Pedagogia<br>Resolução de autorização do curso no IFPR: Resolução nº 34/2018|**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**<br>Criação Lei nº 11.892 de 29/11/2008<br>_Campus Curitiba_<br>**MATRIZ CURRICULAR DO CURSO SUPERIOR DE LICENCIATURA EM PEDAGOGIA**<br>Código área do conhecimento do Curso: Educação - 70800006<br>Base legal: Resolução nº 19/ IFPR de 24/03/2017. Anexos I e II.<br>Base legal específica: Resolução CNE/CP 1/2006.Diretrizes Curriculares Nacionais Pedagogia<br>Resolução de autorização do curso no IFPR: Resolução nº 34/2018|
 |---|---|---|---|---|---|---|---|
-|||||||||
 |**Semanas do semestre letivo:**<br>**20**|||**Tipo: C,**<br>**P, ES,**<br>**AC.**|**Número**<br>**de aulas**<br>**sem.**|**CH. Hora**<br>**relógio 60.**|**io 60.**<br>**10 % CH**<br>**Extensão**<br>**Hora-**<br>**relógio**<br>**(60 min)**|**10 % CH**|
-|||||||||
 |**Períodos**|**Matriz curricular**|**Núcleo**||||||
 |**1º Semestre**|Língua Portuguesa|1|C|4|80|||
 ||Fundamentos Filosóficos da<br>Educação|Fundamentos Filosóficos da<br>2|C|4|80|||
@@ -1169,7 +1076,6 @@ Ministerio da Educacao
 ||Tecnologias Educacionais|2|AC|2||||
 ||Teorias<br>do<br>Conhecimento<br>Pedagógico|Conhecimento<br>2|C|2|40|||
 ||**Subtotal (Total doperíodo)**||||**400**|||
-|||||||||
 |**2º Semestre**|Matemática Básica|1|C|4|80|||
 ||Estágio I – Educação de<br>Jovens e Adultos|Estágio I – Educação de<br>3|ES|4|80|||
 ||Fundamentos Históricos da<br>Educação|Fundamentos Históricos da<br>2|C|4|80|||
@@ -1177,24 +1083,20 @@ Ministerio da Educacao
 ||Educação e Trabalho|3|C|2|40|||
 ||Educação do Campo|2|C - ACE|2||40||
 
+41
 
+Ministerio da Educacao
 
-41 
-
-Ministerio da Educacao 
-
-## INSTITUTOFEDERAL Parana 
+## INSTITUTOFEDERAL Parana
 
 ||**Subtotal(Total doperíodo)**|**Subtotal(Total doperíodo)**|**Subtotal(Total doperíodo)**|**Subtotal(Total doperíodo)**|**400**|||
 |---|---|---|---|---|---|---|---|
-|||||||||
 |**3º Semestre**|Fundamentos Sociológicos da<br>Educação|Fundamentos Sociológicos da<br>2|C|4|80|||
 ||Alfabetização e Letramento|1|C|4|80|||
 ||Fundamentos da Educação<br>Infantil|Fundamentos da Educação<br>2|C - ACE|4||80||
 ||Prática<br>Pedagógica<br>de<br>Matemática|de<br>1|P|4|80|||
 ||Estágio II – Educação Infantil|3|ES|4|80|||
 ||**Subtotal (Total doperíodo)**||||**400**|||
-|||||||||
 |**4º Semestre**|História<br>e<br>Cultura<br>Afro-<br>Brasileira e Indígena|3|C - ACE|2||40||
 ||Didática e Formação Docente|1|C|2|40|||
 ||Corporeidade|1|C|4|80|||
@@ -1202,7 +1104,6 @@ Ministerio da Educacao
 ||Avaliação da Aprendizagem|2|C|4|80|||
 ||Estágio III – Anos Iniciais da<br>Educação Básica|Estágio III – Anos Iniciais da<br>3|ES|4|80|||
 ||**Subtotal (Total doperíodo)**||||**400**|||
-|||||||||
 |**5º Semestre**|Educação Inclusiva|1|C -ACE|2||40||
 ||Estatística<br>aplicada<br>à<br>Educação|à<br>2|C|2|40|||
 ||Organização<br>do<br>trabalho<br>Pedagógico|trabalho<br>3|C|2|40|||
@@ -1211,26 +1112,22 @@ Ministerio da Educacao
 ||Prática Pedagógica de História|1|P|4|80|||
 ||Estágio<br>IV<br>–<br>Formação<br>Docente|Formação<br>3|ES|4|80|||
 ||**Subtotal(Total doperíodo)**||||**400**|||
-|||||||||
 |**6º Semestre**|Gestão Educacional|3|C|4|80|||
 ||Escola e Currículo|1|C|4|80|||
 ||Prática<br>Pedagógica<br>de<br>Geografia|de<br>1|P|4|80|||
 ||Estágio<br>V<br>–<br>Gestão<br>Educacional|Gestão<br>3|ES|4|80|||
 
+42
 
+## INSTITUTOFEDERAL
 
-42 
+## Parana
 
-## INSTITUTOFEDERAL 
-
-## Parana 
-
-Ministerio da Educacao 
+Ministerio da Educacao
 
 ||Projetos Educativos|2|AC|4||||
 |---|---|---|---|---|---|---|---|
 ||**Subtotal (Total doperíodo)**||||**400**|||
-|||||||||
 |**7º Semestre**|Educação<br>Profissional,<br>Ciência e Tecnologia|Profissional,<br>3|C - ACE|2||40||
 ||Optativa/Eletiva|2|C|2|40|||
 ||Metodologias<br>de<br>Pesquisa<br>Pedagógica - TCC I|Pesquisa<br>3|C|4|80|||
@@ -1238,7 +1135,6 @@ Ministerio da Educacao
 ||Políticas Educacionais|1|C|4|80|||
 ||LIBRAS|3|C|4|80|||
 ||**Subtotal(Total doperíodo)**||||**400**|||
-|||||||||
 |**8º Semestre**|Avaliação Institucional|2|C|4|80|||
 ||Educação<br>Profissional:<br>princípios epráticas|Profissional:<br>1|C|4|80|||
 ||Pedagogo Escolar: Identidade,<br>Funções e Saberes|Pedagogo Escolar: Identidade,<br>2|C|4|80|||
@@ -1254,13 +1150,11 @@ Ministerio da Educacao
 |**CARGA HORÁRIA TOTAL DO CURSO**|||||**3200**|||
 |(ACE) Atividade de Curricularização da Extensão (dentro dos componentes curriculares)|||||**320**|||
 
+43
 
+## INSTITUTOFEDERAL Parana
 
-43 
-
-## INSTITUTOFEDERAL Parana 
-
-Ministerio da Educacao 
+Ministerio da Educacao
 
 |**NÚCLEOS - CARGA HORÁRIA**|**NÚCLEOS - CARGA HORÁRIA**|||
 |---|---|---|---|
@@ -1271,9 +1165,7 @@ Ministerio da Educacao
 |**CARGA HORÁRIA TOTAL DO CURSO**|**3200**|||
 |||||
 
-
-
-## **4.1.3 Componentes Optativos** 
+## **4.1.3 Componentes Optativos**
 
 |**Optativas**|**Optativas**|**Optativas**|**Optativas**|**Optativas**|
 |---|---|---|---|---|
@@ -1282,2032 +1174,2028 @@ Ministerio da Educacao
 |Espaços Educativos não Escolares|**2**|Op|2|40|
 |Educação_On-line_e Híbrida|**2**|Op|2|40|
 
-
-
-## **4.1.4 Componentes Eletivos** 
+## **4.1.4 Componentes Eletivos**
 
 |**Eletivas**|**Eletivas**|**Eletivas**|**Eletivas**|**Eletivas**|
 |---|---|---|---|---|
 |Língua Espanhola|**2**|Op|4|40|
 |Língua Inglesa|**2**|Op|4|40|
 
+## **4.1.5 Componentes de Extensão**
 
+Componentes específicos de extensão de Educação Inclusiva, Fundamentos da Educação Infantil, Educação do Campo, Educação profissional, Ciência e Tecnologia, Educação Ambiental, Educação e Direitos Humanos, História e Cultura Afro-Brasileira e Indígena são as unidades curriculares que destinam sua carga horária total para desenvolvimento do conteúdo previsto em ementário por meio de atividades de extensão/metodologia extensionista. Essas unidades curriculares contém ementário com referências e descrição de atividades, além da especificação da carga horária teórica e da carga horária de extensão.
 
-## **4.1.5 Componentes de Extensão** 
+44
 
-Componentes específicos de extensão de Educação Inclusiva, Fundamentos da Educação Infantil, Educação do Campo, Educação profissional, Ciência e Tecnologia, Educação Ambiental, Educação e Direitos Humanos, História e Cultura Afro-Brasileira e Indígena são as unidades curriculares que destinam sua carga horária total para desenvolvimento do conteúdo previsto em ementário por meio de atividades de extensão/metodologia extensionista. Essas unidades curriculares contém ementário com referências e descrição de atividades, além da especificação da carga horária teórica e da carga horária de extensão. 
+INSTITUTOFEDERAL Parana
 
-44 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+## 4.2 EMENTÁRIO E BIBLIOGRAFIAS
 
-Ministerio da Educacao 
+## **1º SEMESTRE**
 
-## 4.2 EMENTÁRIO E BIBLIOGRAFIAS 
+⇜⇝
 
-## **1º SEMESTRE** 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Língua Portuguesa **CARGA HORÁRIA:** 80 Hora/aula e Hora/relógio (60 min)
 
-## **COMPONENTE CURRICULAR:** 
+## **EMENTA:**
 
-Língua Portuguesa **CARGA HORÁRIA:** 80 Hora/aula e Hora/relógio (60 min) 
+Linguagem e língua. Variedade linguística. Práticas discursivas de leitura, oralidade e escrita, bem como a prática pedagógica de análise linguística a partir de diversos gêneros discursivos. A construção textual dos sentidos: coesão, coerência, informatividade e intertextualidade. Os mecanismos da leitura. Prática de recepção e produção de textos orais e escritos da esfera acadêmica.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA  BÁSICA:**
 
-Linguagem e língua. Variedade linguística. Práticas discursivas de leitura, oralidade e escrita, bem como a prática pedagógica de análise linguística a partir de diversos gêneros discursivos. A construção textual dos sentidos: coesão, coerência, informatividade e intertextualidade. Os mecanismos da leitura. Prática de recepção e produção de textos orais e escritos da esfera acadêmica. 
+FIORIN, José Luiz; SAVIOLI, Francisco Platão. **Para entender o texto:** leitura e redação. 17. ed. São Paulo, SP, Ática, 2007. 431 p. ISBN 978508108664 (broch.).
 
-## **BIBLIOGRAFIA  BÁSICA:** 
+KÖCHE, Vanilda Salton; BOFF, Odete Maria Benetti; PAVANI, Cinara Ferreira. **Prática textual** : atividades de leitura e escrita. Petrópolis, RJ, Vozes, 2009. 176 p. ISBN 9788532632920.
 
-FIORIN, José Luiz; SAVIOLI, Francisco Platão. **Para entender o texto:** leitura e redação. 17. ed. São Paulo, SP, Ática, 2007. 431 p. ISBN 978508108664 (broch.). 
+GARCEZ, Lucília Helena do Carmo. **Técnica de redação** : o que é preciso saber para bem escrever. 2. ed. São Paulo, SP,  Martins Fontes, 2004. 150 p. ISBN8533620381 (broch).
 
-KÖCHE, Vanilda Salton; BOFF, Odete Maria Benetti; PAVANI, Cinara Ferreira. **Prática textual** : atividades de leitura e escrita. Petrópolis, RJ, Vozes, 2009. 176 p. ISBN 9788532632920. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-GARCEZ, Lucília Helena do Carmo. **Técnica de redação** : o que é preciso saber para bem escrever. 2. ed. São Paulo, SP,  Martins Fontes, 2004. 150 p. ISBN8533620381 (broch). 
+GARCIA, Othon M. **Comunicação em prosa moderna** : aprenda a escrever, aprendendo a pensar. 27. ed., Rio de Janeiro, RJ, Fundação Getúlio Vargas, 2010. 548 p. ISBN 9788522508310 (broch.).
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+FARACO, Carlos Emílio; MOURA, Francisco Marto de; MARUXO JR., José Hamilton. **Gramática** . 20. ed., São Paulo, SP,  Ática, 2012. 584 p. ISBN 9788508106288 (broch.).
 
-GARCIA, Othon M. **Comunicação em prosa moderna** : aprenda a escrever, aprendendo a pensar. 27. ed., Rio de Janeiro, RJ, Fundação Getúlio Vargas, 2010. 548 p. ISBN 9788522508310 (broch.). 
+KOCH, Ingedore Grunfeld Villaça; TRAVAGLIA, Luiz Carlos. **A coerência textual** . 18. ed., São Paulo, SP, Contexto, 2013. 118 p. ISBN 9788585134600 (broch.).
 
-FARACO, Carlos Emílio; MOURA, Francisco Marto de; MARUXO JR., José Hamilton. **Gramática** . 20. ed., São Paulo, SP,  Ática, 2012. 584 p. ISBN 9788508106288 (broch.). 
+45
 
-KOCH, Ingedore Grunfeld Villaça; TRAVAGLIA, Luiz Carlos. **A coerência textual** . 18. ed., São Paulo, SP, Contexto, 2013. 118 p. ISBN 9788585134600 (broch.). 
+INSTITUTOFEDERAL Parana
 
-45 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+KOCH, Ingedore Grunfeld Villaça. **O texto e a construção dos sentidos** . 10. ed., São Paulo, SP, Contexto, 2011. 168 p. ISBN 9788572440684 (broch.).
 
-Ministerio da Educacao 
+⇜⇝
 
-KOCH, Ingedore Grunfeld Villaça. **O texto e a construção dos sentidos** . 10. ed., São Paulo, SP, Contexto, 2011. 168 p. ISBN 9788572440684 (broch.). 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Fundamentos Filosóficos da Educação **CARGA HORÁRIA:** 80 Hora/aula e Hora/relógio (60 min)
 
-## **COMPONENTE CURRICULAR:** 
+## **EMENTA:**
 
-Fundamentos Filosóficos da Educação **CARGA HORÁRIA:** 80 Hora/aula e Hora/relógio (60 min) 
+O que é Filosofia. A natureza própria da reflexão filosófica, seus limites e virtualidades. A reflexão filosófica e suas inter-relações com o objeto da atividade pedagógica. Os campos e esferas de intervenção do pensamento filosófico: a epistemologia, a ontologia, a axiologia, e a Ética. As tendências e concepções predominantes e mais significativas na Filosofia Clássica, Medieval, Moderna e Contemporânea e suas contribuições ao desenvolvimento do pensamento pedagógico brasileiro.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA  BÁSICA:**
 
-O que é Filosofia. A natureza própria da reflexão filosófica, seus limites e virtualidades. A reflexão filosófica e suas inter-relações com o objeto da atividade pedagógica. Os campos e esferas de intervenção do pensamento filosófico: a epistemologia, a ontologia, a axiologia, e a Ética. As tendências e concepções predominantes e mais significativas na Filosofia Clássica, Medieval, Moderna e Contemporânea e suas contribuições ao desenvolvimento do pensamento pedagógico brasileiro. 
+ARISTÓTELES. Ética a Nicômaco. 4. ed., São Paulo, SP, Edipro, 2014.
 
-## **BIBLIOGRAFIA  BÁSICA:** 
+ARISTÓTELES. Metafísica. 2. ed., São Paulo, SP, Edipro, 2012.
 
-ARISTÓTELES. Ética a Nicômaco. 4. ed., São Paulo, SP, Edipro, 2014. 
+HUME, David. **Tratado da natureza humana** : uma tentativa de introduzir o método experimental de raciocínio nos assuntos morais. 2. ed., São Paulo, SP, UNESP, 2009.
 
-ARISTÓTELES. Metafísica. 2. ed., São Paulo, SP, Edipro, 2012. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-HUME, David. **Tratado da natureza humana** : uma tentativa de introduzir o método experimental de raciocínio nos assuntos morais. 2. ed., São Paulo, SP, UNESP, 2009. 
+ARISTÓTELES. **Órganon** : categorias da interpretação, analíticos anteriores, analíticos posteriores, tópicos, refutações sofísticas. 3. ed., São Paulo, SP, Edipro, 2016.
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+JAEGER, Werner Wilhelm. **Paidéia** : a formação do homem grego. 6. ed., São Paulo, SP, Martins Fontes, 2013.
 
-ARISTÓTELES. **Órganon** : categorias da interpretação, analíticos anteriores, analíticos posteriores, tópicos, refutações sofísticas. 3. ed., São Paulo, SP, Edipro, 2016. 
+KANT, Immanuel. **Crítica da razão prática** . 4. ed., São Paulo, SP, Martins Fontes, 2016.
 
-JAEGER, Werner Wilhelm. **Paidéia** : a formação do homem grego. 6. ed., São Paulo, SP, Martins Fontes, 2013. 
+LOCKE, John. **Ensaio sobre o entendimento humano** . São Paulo, SP, Martins Fontes, 2012.
 
-KANT, Immanuel. **Crítica da razão prática** . 4. ed., São Paulo, SP, Martins Fontes, 2016. 
+⇜⇝
 
-LOCKE, John. **Ensaio sobre o entendimento humano** . São Paulo, SP, Martins Fontes, 2012. 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Educação de Jovens e Adultos
 
-## **COMPONENTE CURRICULAR:** 
+46
 
-Educação de Jovens e Adultos 
+INSTITUTOFEDERAL Parana
 
-46 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+## **CARGA HORÁRIA:**
 
-Ministerio da Educacao 
+80 Hora/aula e Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-80 Hora/aula e Hora/relógio (60 min) 
+Análise histórico-social da Educação de Jovens e Adultos no Brasil. Princípios e concepções da EJA. Contribuições do Método Paulo Freire para o ensino na EJA. Políticas Públicas Educacionais e Legislação da EJA no âmbito nacional, estadual e municipal. Diretrizes Curriculares da EJA. O contexto da EJA na América Latina. Experiências e Programas nacionais EJA. Organização e o funcionamento da EJA nos espaços não-escolares. Formação e prática pedagógica dos profissionais dessa modalidade. Avaliação, Inclusão e Diversidade na EJA.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA BÁSICA:**
 
-Análise histórico-social da Educação de Jovens e Adultos no Brasil. Princípios e concepções da EJA. Contribuições do Método Paulo Freire para o ensino na EJA. Políticas Públicas Educacionais e Legislação da EJA no âmbito nacional, estadual e municipal. Diretrizes Curriculares da EJA. O contexto da EJA na América Latina. Experiências e Programas nacionais EJA. Organização e o funcionamento da EJA nos espaços não-escolares. Formação e prática pedagógica dos profissionais dessa modalidade. Avaliação, Inclusão e Diversidade na EJA. 
+BARCELOS, Valdo Hermes de Lima. **Educação de jovens e adultos** : currículo e práticas pedagógicas. 3. ed., Petrópolis, RJ,  Vozes, 2012. 142 p. ISBN 9788532639639 (broch.).
 
-## **BIBLIOGRAFIA BÁSICA:** 
+LOCH, Jussara Margareth de Paula. **EJA** : planejamento, metodologias e avaliação. Porto Alegre, RS,  Mediação, 2009. 127 p. ISBN 9788577060498 (broch.).
 
-BARCELOS, Valdo Hermes de Lima. **Educação de jovens e adultos** : currículo e práticas pedagógicas. 3. ed., Petrópolis, RJ,  Vozes, 2012. 142 p. ISBN 9788532639639 (broch.). 
+FROCHTENGARTEN, Fernando. **Caminhando sobre fronteiras** : o papel da educação na vida de adultos migrantes. São Paulo, SP,  Summus, 2009. 164 p. ISBN 9788532305275 (broch.).
 
-LOCH, Jussara Margareth de Paula. **EJA** : planejamento, metodologias e avaliação. Porto Alegre, RS,  Mediação, 2009. 127 p. ISBN 9788577060498 (broch.). 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-FROCHTENGARTEN, Fernando. **Caminhando sobre fronteiras** : o papel da educação na vida de adultos migrantes. São Paulo, SP,  Summus, 2009. 164 p. ISBN 9788532305275 (broch.). 
+BRANDÃO, Carlos Rodrigues. **O que é educação popular** . São Paulo, SP, Brasiliense, 2006. 122p. (Primeiros passos ; 318). ISBN 8511000941
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+CAPUCHO, Vera. **Educação de jovens e adultos** : prática pedagógica e fortalecimento da cidadania. 1. ed., São Paulo, SP, Cortez, 2012. 150 p. (Coleção educação em direitos humanos). ISBN 9788524919886 (broch.).
 
-BRANDÃO, Carlos Rodrigues. **O que é educação popular** . São Paulo, SP, Brasiliense, 2006. 122p. (Primeiros passos ; 318). ISBN 8511000941 
+FREIRE, Paulo. **Pedagogia da esperança** : um reencontro com a pedagogia do oprimido. 6. ed. São Paulo, SP, Paz e Terra, 1999. 245 p. ISBN 8521900104 (broch.).
 
-CAPUCHO, Vera. **Educação de jovens e adultos** : prática pedagógica e fortalecimento da cidadania. 1. ed., São Paulo, SP, Cortez, 2012. 150 p. (Coleção educação em direitos humanos). ISBN 9788524919886 (broch.). 
+SOARES, Leôncio; GIOVANETTI, Maria Amélia Gomes de Castro; GOMES, Nilma Lino (Org.). **Diálogos na educação de jovens e adultos** . 4. ed., Belo Horizonte, MG, Autêntica, 2011. 293 p. (Coleção estudos em EJA). ISBN 9788575261507 (broch.).
 
-FREIRE, Paulo. **Pedagogia da esperança** : um reencontro com a pedagogia do oprimido. 6. ed. São Paulo, SP, Paz e Terra, 1999. 245 p. ISBN 8521900104 (broch.). 
+⇜⇝
 
-SOARES, Leôncio; GIOVANETTI, Maria Amélia Gomes de Castro; GOMES, Nilma Lino (Org.). **Diálogos na educação de jovens e adultos** . 4. ed., Belo Horizonte, MG, Autêntica, 2011. 293 p. (Coleção estudos em EJA). ISBN 9788575261507 (broch.). 
+**COMPONENTE CURRICULAR:** Fundamentos Psicológicos da Educação **CARGA HORÁRIA:**
 
-⇜⇝ 
+47
 
-**COMPONENTE CURRICULAR:** Fundamentos Psicológicos da Educação **CARGA HORÁRIA:** 
+Parana
 
-47 
+Ministerio da Educacao
 
-Parana 
+## INSTITUTOFEDERAL
 
-Ministerio da Educacao 
+80 Hora/aula e Hora/relógio (60 min)
 
-## INSTITUTOFEDERAL 
+## **EMENTA:**
 
-80 Hora/aula e Hora/relógio (60 min) 
+As correntes da psicologia e suas contribuições para a pedagogia: O inatismo, o behaviorismo e o construtivismo. As estruturas psicológicas do desenvolvimento: A criança de zero a seis anos, a latência e a adolescência, os adultos e os idosos. O desenvolvimento do idoso e as perspectivas de aprendizagem, processos de envelhecimento. Psicologia e Educação. Espectro autista. Gênero. Altas habilidades e superdotação.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA  BÁSICA:**
 
-As correntes da psicologia e suas contribuições para a pedagogia: O inatismo, o behaviorismo e o construtivismo. As estruturas psicológicas do desenvolvimento: A criança de zero a seis anos, a latência e a adolescência, os adultos e os idosos. O desenvolvimento do idoso e as perspectivas de aprendizagem, processos de envelhecimento. Psicologia e Educação. Espectro autista. Gênero. Altas habilidades e superdotação. 
+CARRARA, Kester (org.). **Introdução à psicologia da educação** : seis abordagens. São Paulo, SP, Avercamp, 2004.
 
-## **BIBLIOGRAFIA  BÁSICA:** 
+DAVIS, Claudia. **Psicologia na educação** . 3. ed., São Paulo, SP, Cortez, 2010.
 
-CARRARA, Kester (org.). **Introdução à psicologia da educação** : seis abordagens. São Paulo, SP, Avercamp, 2004. 
+VIGOTSKY, Lev Seminovich. **A construção do pensamento e da linguagem** . 2. ed., São Paulo, SP,  Martins Fontes, 2009.
 
-DAVIS, Claudia. **Psicologia na educação** . 3. ed., São Paulo, SP, Cortez, 2010. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-VIGOTSKY, Lev Seminovich. **A construção do pensamento e da linguagem** . 2. ed., São Paulo, SP,  Martins Fontes, 2009. 
+ARCE, Alessandra; MARTINS, Lígia Márcia (Orgs.). **Quem tem medo de ensinar na educação infantil?** em defesa do ato de ensinar. Campinas, SP, Alínea, 2007.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+AQUINO, Júlio Groppa; (Org.). **Autoridade e autonomia na escola** : alternativas teóricas e práticas. São Paulo, SP, Summus, 1999.
 
-ARCE, Alessandra; MARTINS, Lígia Márcia (Orgs.). **Quem tem medo de ensinar na educação infantil?** em defesa do ato de ensinar. Campinas, SP, Alínea, 2007. 
+LA TAILLE, Yves de. **Piaget, Vygotsky, Wallon** : teorias psicogenéticas em discussão. São Paulo, SP, Summus, 1992.
 
-AQUINO, Júlio Groppa; (Org.). **Autoridade e autonomia na escola** : alternativas teóricas e práticas. São Paulo, SP, Summus, 1999. 
+PATTO, Maria Helena Souza. **A produção do fracasso escolar** : histórias de submissão e rebeldia. São Paulo, SP,  T. A. Queiroz, 1999.
 
-LA TAILLE, Yves de. **Piaget, Vygotsky, Wallon** : teorias psicogenéticas em discussão. São Paulo, SP, Summus, 1992. 
+## ⇜⇝
 
-PATTO, Maria Helena Souza. **A produção do fracasso escolar** : histórias de submissão e rebeldia. São Paulo, SP,  T. A. Queiroz, 1999. 
+## **COMPONENTE CURRICULAR:**
 
-## ⇜⇝ 
+Tecnologias Educacionais (Atividade Complementar) **CARGA HORÁRIA:** 40 Hora/aula e Hora/relógio (60 min)
 
-## **COMPONENTE CURRICULAR:** 
+**EMENTA:**
 
-Tecnologias Educacionais (Atividade Complementar) **CARGA HORÁRIA:** 40 Hora/aula e Hora/relógio (60 min) 
+48
 
-**EMENTA:** 
+INSTITUTOFEDERAL Parana
 
-48 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+A informatização da sociedade e o desafio da inclusão digital. Diferentes usos do computador na educação: tipos de software educativo. A informática nas escolas de Educação Infantil e nos anos iniciais do Ensino Fundamental. Introdução ao uso do computador como ferramenta no ensino de áreas específicas de conhecimento.
 
-Ministerio da Educacao 
+## **BIBLIOGRAFIA BÁSICA:**
 
-A informatização da sociedade e o desafio da inclusão digital. Diferentes usos do computador na educação: tipos de software educativo. A informática nas escolas de Educação Infantil e nos anos iniciais do Ensino Fundamental. Introdução ao uso do computador como ferramenta no ensino de áreas específicas de conhecimento. 
+BRITO, Glaucia da Silva; PURIFICAÇÃO, Ivonélia da. **Educação e novas tecnologias** : um (re)pensar. Curitiba, PR, Intersaberes, 2012. (Tecnologias educacionais). ISBN 9788582120217.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+KENSKI, Vani Moreira. **Educação e tecnologias** : o novo ritmo da informação. 8. ed., Campinas:, SP, Papirus, 2012. 141 p. (Papirus educação). ISBN 9788530808280 (broch.).
 
-BRITO, Glaucia da Silva; PURIFICAÇÃO, Ivonélia da. **Educação e novas tecnologias** : um (re)pensar. Curitiba, PR, Intersaberes, 2012. (Tecnologias educacionais). ISBN 9788582120217. 
+MORAN, José Manoel; MASETTO, Marcos; BEHRENS, Marilda Aparecida. **Novas tecnologias e mediação pedagógica** . 19. ed., Campinas, SP, Papirus, 2012. 173 p. (Coleção Papirus educação). ISBN 9788530805944 (broch.).
 
-KENSKI, Vani Moreira. **Educação e tecnologias** : o novo ritmo da informação. 8. ed., Campinas:, SP, Papirus, 2012. 141 p. (Papirus educação). ISBN 9788530808280 (broch.). 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-MORAN, José Manoel; MASETTO, Marcos; BEHRENS, Marilda Aparecida. **Novas tecnologias e mediação pedagógica** . 19. ed., Campinas, SP, Papirus, 2012. 173 p. (Coleção Papirus educação). ISBN 9788530805944 (broch.). 
+BACICH, Lilian; TANZI NETO, Adolfo; TREVISANI, Fernando de Mello (Org.). **Ensino híbrido** : personalização e tecnologia na educação. Porto Alegre, RS, Penso, 2015. 270 p. ISBN 9788584290482 (broch.).
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+KENSKI, Vani Moreira. **Tecnologias e ensino presencial e a distância** . 3. ed., Campinas, SP, Papirus, 2012. 157 p. (Série prática pedagógica). ISBN 8530807081 (broch.).
 
-BACICH, Lilian; TANZI NETO, Adolfo; TREVISANI, Fernando de Mello (Org.). **Ensino híbrido** : personalização e tecnologia na educação. Porto Alegre, RS, Penso, 2015. 270 p. ISBN 9788584290482 (broch.). 
+MORAN, José Manoel. **A educação que desejamos** : novos desafios e como chegar lá. Campinas, SP,  Papirus, 2013. (Coleção Papirus educação). ISBN 9788530810894.
 
-KENSKI, Vani Moreira. **Tecnologias e ensino presencial e a distância** . 3. ed., Campinas, SP, Papirus, 2012. 157 p. (Série prática pedagógica). ISBN 8530807081 (broch.). 
+PINTO, Álvaro Vieira. **O conceito de tecnologia** . Rio de Janeiro, SP, Contraponto, 2005. ISBN 9788585910679 - V.1 (broch.).
 
-MORAN, José Manoel. **A educação que desejamos** : novos desafios e como chegar lá. Campinas, SP,  Papirus, 2013. (Coleção Papirus educação). ISBN 9788530810894. 
+⇜⇝
 
-PINTO, Álvaro Vieira. **O conceito de tecnologia** . Rio de Janeiro, SP, Contraponto, 2005. ISBN 9788585910679 - V.1 (broch.). 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Teorias do Conhecimento Pedagógico **CARGA HORÁRIA:** 40 Hora/aula e Hora/relógio (60 min)
 
-## **COMPONENTE CURRICULAR:** 
+49
 
-Teorias do Conhecimento Pedagógico **CARGA HORÁRIA:** 40 Hora/aula e Hora/relógio (60 min) 
+INSTITUTOFEDERAL Parana
 
-49 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+## **EMENTA:**
 
-Ministerio da Educacao 
+Pedagogia: natureza e objeto, especificidade epistemológica. Histórico da pedagogia. O curso de pedagogia no Brasil. Teoria pedagógica dos educadores tradicionais aos progressistas. As concepções pedagógicas e suas práticas. Educação como prática social. Tendências investigativas em educação. Pedagogia como ciência.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA  BÁSICA:**
 
-Pedagogia: natureza e objeto, especificidade epistemológica. Histórico da pedagogia. O curso de pedagogia no Brasil. Teoria pedagógica dos educadores tradicionais aos progressistas. As concepções pedagógicas e suas práticas. Educação como prática social. Tendências investigativas em educação. Pedagogia como ciência. 
+CAMBI, Franco. **História da pedagogia** . UNESP, 2002.
 
-## **BIBLIOGRAFIA  BÁSICA:** 
+SAVIANI, Dermeval. **História das idéias pedagógicas no Brasil** . 4. ed., Campinas, SP, Autores Associados, 2013. 472 p. (Coleção memória da educação). ISBN 9788574963228 (broch.).
 
-CAMBI, Franco. **História da pedagogia** . UNESP, 2002. 
+SURH, Inge Renate Fröse. **Teorias do conhecimento pedagógico** . Curitiba, PR, IBPEX, 2011. - (Série Fundamentos da Educação). ISBN 978-85-7838-902-4 (broch.).
 
-SAVIANI, Dermeval. **História das idéias pedagógicas no Brasil** . 4. ed., Campinas, SP, Autores Associados, 2013. 472 p. (Coleção memória da educação). ISBN 9788574963228 (broch.). 
+GADOTTI, Moacir. História das ideias pedagógicas. 8. ed. São Paulo: Ática, 1999. 319 p. (Série educação). ISBN 9788508044368 (broch.).
 
-SURH, Inge Renate Fröse. **Teorias do conhecimento pedagógico** . Curitiba, PR, IBPEX, 2011. - (Série Fundamentos da Educação). ISBN 978-85-7838-902-4 (broch.). 
+LIBÂNEO, José Carlos. **Democratização da escola pública** : a pedagogia crítico-social dos conteúdos. 16. ed., São Paulo, SP, Edições Loyola, 1999. 149 p. (Educar ; 1). ISBN 8515001810 (broch.).
 
-GADOTTI, Moacir. História das ideias pedagógicas. 8. ed. São Paulo: Ática, 1999. 319 p. (Série educação). ISBN 9788508044368 (broch.). 
+SCHVARZ, Liliani Hermes Cordeiro. **A ação do pedagogo na escola nos limites da cotidianidade** . Curitiba, PR, Intersaberes, 2016. (Construção histórica da educação). ISBN 9788544302569.
 
-LIBÂNEO, José Carlos. **Democratização da escola pública** : a pedagogia crítico-social dos conteúdos. 16. ed., São Paulo, SP, Edições Loyola, 1999. 149 p. (Educar ; 1). ISBN 8515001810 (broch.). 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-SCHVARZ, Liliani Hermes Cordeiro. **A ação do pedagogo na escola nos limites da cotidianidade** . Curitiba, PR, Intersaberes, 2016. (Construção histórica da educação). ISBN 9788544302569. 
+GHIRALDELLI JÚNIOR, Paulo. **O que é pedagogia** . 4. ed., São Paulo, SP, Brasiliense, 2007. 97 p. (Coleção primeiros passos; 193). ISBN 9788511011937 (broch.).
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+GADOTTI, Moacir. **História das ideias pedagógicas** . 8. ed., São Paulo, SP, Ática, 1999. 319 p. (Série educação). ISBN 9788508044368 (broch.).
 
-GHIRALDELLI JÚNIOR, Paulo. **O que é pedagogia** . 4. ed., São Paulo, SP, Brasiliense, 2007. 97 p. (Coleção primeiros passos; 193). ISBN 9788511011937 (broch.). 
+LIBÂNEO, José Carlos. **Democratização da escola pública** : a pedagogia crítico-social dos conteúdos. 16. ed., São Paulo, SP, Edições Loyola, 1999. 149 p. (Educar ; 1). ISBN 8515001810 (broch.).
 
-GADOTTI, Moacir. **História das ideias pedagógicas** . 8. ed., São Paulo, SP, Ática, 1999. 319 p. (Série educação). ISBN 9788508044368 (broch.). 
+50
 
-LIBÂNEO, José Carlos. **Democratização da escola pública** : a pedagogia crítico-social dos conteúdos. 16. ed., São Paulo, SP, Edições Loyola, 1999. 149 p. (Educar ; 1). ISBN 8515001810 (broch.). 
+INSTITUTOFEDERAL Parana
 
-50 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+SCHVARZ, Liliani Hermes Cordeiro. **A ação do pedagogo na escola nos limites da cotidianidade.** Curitiba, PR, Intersaberes, 2016. (Construção histórica da educação). ISBN 9788544302569.
 
-Ministerio da Educacao 
+## **2º Semestre**
 
-SCHVARZ, Liliani Hermes Cordeiro. **A ação do pedagogo na escola nos limites da cotidianidade.** Curitiba, PR, Intersaberes, 2016. (Construção histórica da educação). ISBN 9788544302569. 
+⇜⇝
 
-## **2º Semestre** 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Matemática Básica **CARGA HORÁRIA:** 80 Hora/aula e Hora/relógio (60 min)
 
-## **COMPONENTE CURRICULAR:** 
+## **EMENTA:**
 
-Matemática Básica **CARGA HORÁRIA:** 80 Hora/aula e Hora/relógio (60 min) 
+Construção histórico-pedagógica da prática e do pensamento matemático. Noções básicas de aritmética, geometria, medidas, frações. Operações matemáticas. Situação-problema. Raciocínio lógico matemático.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA  BÁSICA:**
 
-Construção histórico-pedagógica da prática e do pensamento matemático. Noções básicas de aritmética, geometria, medidas, frações. Operações matemáticas. Situação-problema. Raciocínio lógico matemático. 
+BOYER, Carl. **História da matemática** . São Paulo,SP, Edgard Blucher, 1996.
 
-## **BIBLIOGRAFIA  BÁSICA:** 
+DRUCK, Suely. (org.) **Explorando o ensino da matemática** : artigos: volume 1 / seleção e organização Ana Catarina P. Hellmeister... [et al.] ; organização geral Suely Druck. – Brasília, DF, Ministério da Educação, Secretaria de Educação Básica, 2004. 240 p. ISBN 85-98171-13-1. http://www.dominiopublico.gov.br/download/texto/me000544.pdf
 
-BOYER, Carl. **História da matemática** . São Paulo,SP, Edgard Blucher, 1996. 
+IEZZI, Gelson; MURAKAMI, Carlos. **Fundamentos de matemática elementar** . São Paulo, SP, Atual, 2004.
 
-DRUCK, Suely. (org.) **Explorando o ensino da matemática** : artigos: volume 1 / seleção e organização Ana Catarina P. Hellmeister... [et al.] ; organização geral Suely Druck. – Brasília, DF, Ministério da Educação, Secretaria de Educação Básica, 2004. 240 p. ISBN 85-98171-13-1. http://www.dominiopublico.gov.br/download/texto/me000544.pdf 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-IEZZI, Gelson; MURAKAMI, Carlos. **Fundamentos de matemática elementar** . São Paulo, SP, Atual, 2004. 
+BORBA, Rute; GUIMARÃES, Gilda. **Pesquisa e atividades para o aprendizado matemático na educação infantil e nos anos iniciais do ensino fundamental** [livro eletrônico]/ Rute Borba e Gilda Guimarães, (org.) . Brasília, DF,  Sociedade Brasileira de Educação Matemática - SBEM, 2015. 5.098 Kb ; PDF
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+http://www.sbembrasil.org.br/sbembrasil/index.php/93-biblioteca/115-biblioteca-em-educacaomatematica
 
-BORBA, Rute; GUIMARÃES, Gilda. **Pesquisa e atividades para o aprendizado matemático na educação infantil e nos anos iniciais do ensino fundamental** [livro eletrônico]/ Rute Borba e Gilda Guimarães, (org.) . Brasília, DF,  Sociedade Brasileira de Educação Matemática - SBEM, 2015. 5.098 Kb ; PDF 
+51
 
-http://www.sbembrasil.org.br/sbembrasil/index.php/93-biblioteca/115-biblioteca-em-educacaomatematica 
+INSTITUTOFEDERAL Parana
 
-51 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+DRUCK, Suely. (org.) **Explorando o ensino da Matemática** : atividades, volume 2 / seleção e organização Ana Catarina P. Hellmeister... [et al.] ; organização geral Suely Druck. – Brasília, DF, Ministério da Educação, Secretaria de Educação Básica, 2004. 136 p. ISBN 85-98171-14-X
 
-Ministerio da Educacao 
+GUÉRIOS, Ettiène. (org.) **A avaliação em matemática nas séries iniciais** / Ettiène Guérios... [Et al.]. Universidade Federal do Paraná, Pró-Reitoria de Graduação e Ensino Profissionalizante, Centro Interdisciplinar de Formação Continuada de Professores; Ministério da Educação, Secretaria de Educação Básica. - Curitiba : Ed. da UFPR, 2005. 64p. - (Avaliação da Aprendizagem; 5) ISBN 85-7335-145-4
 
-DRUCK, Suely. (org.) **Explorando o ensino da Matemática** : atividades, volume 2 / seleção e organização Ana Catarina P. Hellmeister... [et al.] ; organização geral Suely Druck. – Brasília, DF, Ministério da Educação, Secretaria de Educação Básica, 2004. 136 p. ISBN 85-98171-14-X 
+http://www.cinfop.ufpr.br/pdf/colecao_1/matematica_5.pdf
 
-GUÉRIOS, Ettiène. (org.) **A avaliação em matemática nas séries iniciais** / Ettiène Guérios... [Et al.]. Universidade Federal do Paraná, Pró-Reitoria de Graduação e Ensino Profissionalizante, Centro Interdisciplinar de Formação Continuada de Professores; Ministério da Educação, Secretaria de Educação Básica. - Curitiba : Ed. da UFPR, 2005. 64p. - (Avaliação da Aprendizagem; 5) ISBN 85-7335-145-4 
+SOUZA, Antonio Carlos de; CARNEIRO, Reginaldo Fernando; BERTINI, Luciane de Fátima. **A Matemática nos anos iniciais do ensino fundamenta** l [livro eletrônico] : práticas de sala de aula e de formação de professores / organização Reginaldo Fernando Carneiro, Antonio Carlos de Souza, Luciane de Fatima Bertini.  Brasília, DF, SBEM, 2018.  (Coleção SBEM ; 11) 5 Mb ; PDF ISBN 978-85-98092-52-2
 
-http://www.cinfop.ufpr.br/pdf/colecao_1/matematica_5.pdf 
+http://www.sbembrasil.org.br/files/ebook_matematica_iniciais.pdf
 
-SOUZA, Antonio Carlos de; CARNEIRO, Reginaldo Fernando; BERTINI, Luciane de Fátima. **A Matemática nos anos iniciais do ensino fundamenta** l [livro eletrônico] : práticas de sala de aula e de formação de professores / organização Reginaldo Fernando Carneiro, Antonio Carlos de Souza, Luciane de Fatima Bertini.  Brasília, DF, SBEM, 2018.  (Coleção SBEM ; 11) 5 Mb ; PDF ISBN 978-85-98092-52-2 
+## ⇜⇝
 
-http://www.sbembrasil.org.br/files/ebook_matematica_iniciais.pdf 
+## **COMPONENTE CURRICULAR:**
 
-## ⇜⇝ 
+Estágio I – Educação de Jovens e Adultos **CARGA HORÁRIA:** 80 Hora/aula e Hora/relógio (60 min)
 
-## **COMPONENTE CURRICULAR:** 
+## **EMENTA:**
 
-Estágio I – Educação de Jovens e Adultos **CARGA HORÁRIA:** 80 Hora/aula e Hora/relógio (60 min) 
+Formação e compromisso do professor de jovens e adultos. Contextualização histórica, econômica e sócio-cultural dos sujeitos sociais da EJA; trajetórias de formação e de
 
-## **EMENTA:** 
+escolarização de jovens e adultos na EJA. Observação, participação no planejamento, docência e avaliação do processo ensino aprendizagem.
 
-Formação e compromisso do professor de jovens e adultos. Contextualização histórica, econômica e sócio-cultural dos sujeitos sociais da EJA; trajetórias de formação e de 
+## **BIBLIOGRAFIA  BÁSICA:**
 
-escolarização de jovens e adultos na EJA. Observação, participação no planejamento, docência e avaliação do processo ensino aprendizagem. 
+BIANCHI, Anna Cecilia de Moraes; ALVARENGA, Marina; BIANCHI, Roberto. **Manual de orientação** : estágio supervisionado. 4. ed., São Paulo, SP, Cengage Learning, 2009. 98 p. ISBN 9788522107209 (broch.).
 
-## **BIBLIOGRAFIA  BÁSICA:** 
+FREIRE, Paulo. **Ação cultural para a liberdade e outros escritos** . 17. ed., São Paulo,SP, Paz & Terra, 2019. 251 p. ISBN 9788577531660 (broch.).
 
-BIANCHI, Anna Cecilia de Moraes; ALVARENGA, Marina; BIANCHI, Roberto. **Manual de orientação** : estágio supervisionado. 4. ed., São Paulo, SP, Cengage Learning, 2009. 98 p. ISBN 9788522107209 (broch.). 
+LEITE, Sérgio Antonio da Silva (Org.). **Afetividade e letramento na educação de jovens e adultos EJA.** São Paulo, SP, Cortez, 2013. 232 p. ISBN 9788524920219 (broch.)
 
-FREIRE, Paulo. **Ação cultural para a liberdade e outros escritos** . 17. ed., São Paulo,SP, Paz & Terra, 2019. 251 p. ISBN 9788577531660 (broch.). 
+52
 
-LEITE, Sérgio Antonio da Silva (Org.). **Afetividade e letramento na educação de jovens e adultos EJA.** São Paulo, SP, Cortez, 2013. 232 p. ISBN 9788524920219 (broch.) 
+INSTITUTOFEDERAL Parana
 
-52 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-Ministerio da Educacao 
+BARCELOS, Valdo Hermes de Lima. **Educação de jovens e adultos** : currículo e práticas pedagógicas. 3. ed., Petrópolis RJ, Vozes, 2012. 142 p. ISBN 9788532639639 (broch.).
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+BASEGIO; Leandro Luiz. MEDEIROS; Renato da Luz. **Educação de jovens e adultos** : problemas e soluções. Curitiba, PR, Intersaberes, 2019. 188 ISBN 9788582127063.
 
-BARCELOS, Valdo Hermes de Lima. **Educação de jovens e adultos** : currículo e práticas pedagógicas. 3. ed., Petrópolis RJ, Vozes, 2012. 142 p. ISBN 9788532639639 (broch.). 
+BECKER, Fernando. **Educação e construção do conhecimento** . 2. ed., rev. e ampl. Porto Alegre, RS, Penso, 2012. 199 p. ISBN 9788563899828 (broch.).
 
-BASEGIO; Leandro Luiz. MEDEIROS; Renato da Luz. **Educação de jovens e adultos** : problemas e soluções. Curitiba, PR, Intersaberes, 2019. 188 ISBN 9788582127063. 
+PAULA, Cláudia Regina de; OLIVEIRA, Marcia Cristina de. **Educação de jovens e adultos** : a educação ao longo da vida. Curitiba, PR, Ibpex, 2011. 94 p. ISBN 9788578388652 (broch.).
 
-BECKER, Fernando. **Educação e construção do conhecimento** . 2. ed., rev. e ampl. Porto Alegre, RS, Penso, 2012. 199 p. ISBN 9788563899828 (broch.). 
+⇜⇝
 
-PAULA, Cláudia Regina de; OLIVEIRA, Marcia Cristina de. **Educação de jovens e adultos** : a educação ao longo da vida. Curitiba, PR, Ibpex, 2011. 94 p. ISBN 9788578388652 (broch.). 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Fundamentos Históricos da Educação **CARGA HORÁRIA:**
 
-## **COMPONENTE CURRICULAR:** 
+80 Hora/aula e Hora/relógio (60 min)
 
-Fundamentos Históricos da Educação **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-80 Hora/aula e Hora/relógio (60 min) 
+A história da escolarização brasileira: a educação no Brasil Colônia; a educação no Império; a educação na Primeira República; a educação brasileira no Governo Vargas; a educação brasileira nos governos populistas de 1945 a 1964; a educação brasileira na Ditadura Militar e a educação brasileira na nova República. Conhecimento histórico e historiográfico e sua contribuição no campo educacional, na interpretação dos problemas educativos e no entendimento da organização escolar brasileira.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA BÁSICA:**
 
-A história da escolarização brasileira: a educação no Brasil Colônia; a educação no Império; a educação na Primeira República; a educação brasileira no Governo Vargas; a educação brasileira nos governos populistas de 1945 a 1964; a educação brasileira na Ditadura Militar e a educação brasileira na nova República. Conhecimento histórico e historiográfico e sua contribuição no campo educacional, na interpretação dos problemas educativos e no entendimento da organização escolar brasileira. 
+ARIÈS, Philipe. **História social da criança e da família** . Rio de Janeiro, RJ, Zahar, 1981.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+FRANÇA, Leonel. **O Método pedagógico dos Jesuítas** . Rio de Janeiro, RJ, Agir, 1952.
 
-ARIÈS, Philipe. **História social da criança e da família** . Rio de Janeiro, RJ, Zahar, 1981. 
+LOPES, Eliane Marta Santos Teixeira; FARIA FILHO, Luciano Mendes; VEIGA, Cynthia Greive (Org.) 5 **00 anos de educação no Brasil** . 5. ed., Belo Horizonte, MG, Autêntica, 2011. 606 p. (Historial; 6). ISBN 9788586853616. (broch.).
 
-FRANÇA, Leonel. **O Método pedagógico dos Jesuítas** . Rio de Janeiro, RJ, Agir, 1952. 
+53
 
-LOPES, Eliane Marta Santos Teixeira; FARIA FILHO, Luciano Mendes; VEIGA, Cynthia Greive (Org.) 5 **00 anos de educação no Brasil** . 5. ed., Belo Horizonte, MG, Autêntica, 2011. 606 p. (Historial; 6). ISBN 9788586853616. (broch.). 
+INSTITUTOFEDERAL Parana
 
-53 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-Ministerio da Educacao 
+CUNHA, Luís Antônio. **A universidade temporã:** o ensino superior da colônia à era Vargas. Rio de Janeiro, RJ, Civilização Brasiliense, 1980.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+GERMANO, José Willington. **Estado militar e educação no Brasil** ( **1964-1985)** . São Paulo, SP, UNICAMP/Cortez, 1993.
 
-CUNHA, Luís Antônio. **A universidade temporã:** o ensino superior da colônia à era Vargas. Rio de Janeiro, RJ, Civilização Brasiliense, 1980. 
+LE GOFF, Jacques. **Os intelectuais na Idade Média** . São Paulo, SP, Brasiliense, 1995.
 
-GERMANO, José Willington. **Estado militar e educação no Brasil** ( **1964-1985)** . São Paulo, SP, UNICAMP/Cortez, 1993. 
+LEMME, Paschoal. O Manifesto dos Pioneiros da Educação Nova e suas repercussões na realidade educacional brasileira. **Revista Brasileira de Estudos Pedagógicos** . Brasília, DF, v. 65, n. 150, mai./ago. 1984.
 
-LE GOFF, Jacques. **Os intelectuais na Idade Média** . São Paulo, SP, Brasiliense, 1995. 
+## ⇜⇝
 
-LEMME, Paschoal. O Manifesto dos Pioneiros da Educação Nova e suas repercussões na realidade educacional brasileira. **Revista Brasileira de Estudos Pedagógicos** . Brasília, DF, v. 65, n. 150, mai./ago. 1984. 
+## **COMPONENTE CURRICULAR:**
 
-## ⇜⇝ 
+Arte Educação e seu Ensino (Atividade Complementar) **CARGA HORÁRIA:** 80 Hora/aula e Hora/relógio (60 min) **EMENTA:**
 
-## **COMPONENTE CURRICULAR:** 
+O fenômeno artístico a partir da perspectiva histórico-social e sua vinculação ao espaço educativo. Tendências pedagógicas do Ensino das Artes na Escola. Função social do Ensino das Artes na Escola. Práticas pedagógicas do Ensino das Artes no contexto escolar. Manifestações populares como recurso pedagógico para o Ensino das Artes.
 
-Arte Educação e seu Ensino (Atividade Complementar) **CARGA HORÁRIA:** 80 Hora/aula e Hora/relógio (60 min) **EMENTA:** 
+## **BIBLIOGRAFIA BÁSICA:**
 
-O fenômeno artístico a partir da perspectiva histórico-social e sua vinculação ao espaço educativo. Tendências pedagógicas do Ensino das Artes na Escola. Função social do Ensino das Artes na Escola. Práticas pedagógicas do Ensino das Artes no contexto escolar. Manifestações populares como recurso pedagógico para o Ensino das Artes. 
+BRASIL. Secretaria de Educação Fundamental. **Parâmetros curriculares nacionais:** arte (anos finais). Brasília, DF, MEC/SEF, 1998. BRASIL. Secretaria de Educação Fundamental. Parâmetros curriculares nacionais: arte (anos iniciais). Brasília, DF: MEC/SEF, 1997. Disponível em: http://portal.mec.gov.br/seb/arquivos/pdf/livro06.pdf.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+PROENÇA, Graça. **Descobrindo a história da Arte** . 2.ed., São Paulo, SP, Ática, 2008.
 
-BRASIL. Secretaria de Educação Fundamental. **Parâmetros curriculares nacionais:** arte (anos finais). Brasília, DF, MEC/SEF, 1998. BRASIL. Secretaria de Educação Fundamental. Parâmetros curriculares nacionais: arte (anos iniciais). Brasília, DF: MEC/SEF, 1997. Disponível em: http://portal.mec.gov.br/seb/arquivos/pdf/livro06.pdf. 
+SCHAFER, Murray. **O ouvido pensante** . 2.ed., São Paulo, SP, UNESP, 2011.
 
-PROENÇA, Graça. **Descobrindo a história da Arte** . 2.ed., São Paulo, SP, Ática, 2008. 
+54
 
-SCHAFER, Murray. **O ouvido pensante** . 2.ed., São Paulo, SP, UNESP, 2011. 
+INSTITUTOFEDERAL Parana
 
-54 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-Ministerio da Educacao 
+BARBOSA, Ana Mae Tavares Bastos. **Arte-educação no Brasil** : das origens ao modernismo. São Paulo, SP, Perspectiva, Secretaria da Cultura, Ciências e Tecnologia do Estado de São Paulo, 1978.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+FERRAZ, Maria Heloísa de Toledo; FUSARI, Maria de Rezende e. **Metodologia do ensino de arte** : fundamentos e proposições. 2. ed., São Paulo, SP, Cortez, 2009.
 
-BARBOSA, Ana Mae Tavares Bastos. **Arte-educação no Brasil** : das origens ao modernismo. São Paulo, SP, Perspectiva, Secretaria da Cultura, Ciências e Tecnologia do Estado de São Paulo, 1978. 
+GOMBRICH, Ernst. **A história da arte** . 16. ed., Rio de Janeiro, RJ, LTC, 1999.
 
-FERRAZ, Maria Heloísa de Toledo; FUSARI, Maria de Rezende e. **Metodologia do ensino de arte** : fundamentos e proposições. 2. ed., São Paulo, SP, Cortez, 2009. 
+LEMOS JUNIOR, Wilson. **História da formação de professores de música** : contexto paranaense. Curitiba, PR, Appris, 2017.
 
-GOMBRICH, Ernst. **A história da arte** . 16. ed., Rio de Janeiro, RJ, LTC, 1999. 
+⇜⇝
 
-LEMOS JUNIOR, Wilson. **História da formação de professores de música** : contexto paranaense. Curitiba, PR, Appris, 2017. 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Educação e Trabalho **CARGA HORÁRIA:** 40 Hora/aula e Hora/relógio (60 min)
 
-## **COMPONENTE CURRICULAR:** 
+## **EMENTA:**
 
-Educação e Trabalho **CARGA HORÁRIA:** 40 Hora/aula e Hora/relógio (60 min) 
+Contextualização da relação das categorias educação e trabalho: da centralidade do trabalho na constituição humana aos impactos da reestruturação produtiva na formação polivalente a politécnica do trabalhador. A função social da escola na contemporaneidade: hegemonia e contrahegemonia dos espaços educativos e as políticas públicas para a educação no Brasil.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA BÁSICA:**
 
-Contextualização da relação das categorias educação e trabalho: da centralidade do trabalho na constituição humana aos impactos da reestruturação produtiva na formação polivalente a politécnica do trabalhador. A função social da escola na contemporaneidade: hegemonia e contrahegemonia dos espaços educativos e as políticas públicas para a educação no Brasil. 
+KUENZER, Acácia Zeneida. **Pedagogia da fábrica** : as relações de produção e a educação do trabalhador. São Paulo, SP, Cortez, 1985. 203 p.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+LOMBARDI, José Claudinei; SAVIANI, Dermeval; SANFELICE, José Luís (Org.). **Capitalismo, trabalho e educação.** 3. ed., Campinas, SP, Autores Associados, 2005. 163 p. ISBN 8574960535 (broch.)
 
-KUENZER, Acácia Zeneida. **Pedagogia da fábrica** : as relações de produção e a educação do trabalhador. São Paulo, SP, Cortez, 1985. 203 p. 
+PISTRAK, Moisey. **Fundamentos da escola do trabalho.** 1. ed., São Paulo, SP, Expressão Popular, 2000. 224 p. ISBN 858739410X (broch.).
 
-LOMBARDI, José Claudinei; SAVIANI, Dermeval; SANFELICE, José Luís (Org.). **Capitalismo, trabalho e educação.** 3. ed., Campinas, SP, Autores Associados, 2005. 163 p. ISBN 8574960535 (broch.) 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-PISTRAK, Moisey. **Fundamentos da escola do trabalho.** 1. ed., São Paulo, SP, Expressão Popular, 2000. 224 p. ISBN 858739410X (broch.). 
+FREIRE, Paulo. **Educação e mudança** . 25. ed., São Paulo, SP, Paz & Terra, 2001. 79 p. (Educação e comunicação ; 1). ISBN 8521900147 (broch.).
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+55
 
-FREIRE, Paulo. **Educação e mudança** . 25. ed., São Paulo, SP, Paz & Terra, 2001. 79 p. (Educação e comunicação ; 1). ISBN 8521900147 (broch.). 
+INSTITUTOFEDERAL Parana
 
-55 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+KUENZER, Acácia Zeneida. **Ensino médio e profissional** : as políticas do estado neoliberal. São Paulo, SP, Cortez, 1997. 104 p. ((Questões da nossa época) ; v. 63). ISBN 8524906472 (broch.).
 
-Ministerio da Educacao 
+RAMOS, Marise Nogueira. **A pedagogia das competências** : autonomia ou adaptação? 4. ed., São Paulo, SP, Cortez, 2011. 320 p. ISBN 9788524908163 (broch.).
 
-KUENZER, Acácia Zeneida. **Ensino médio e profissional** : as políticas do estado neoliberal. São Paulo, SP, Cortez, 1997. 104 p. ((Questões da nossa época) ; v. 63). ISBN 8524906472 (broch.). 
+SAVIANI, Dermeval. **Escola e democracia** : teorias da educação, curvatura da vara, onze teses sobre educação e política. 24. ed., São Paulo, SP, Autores Associados, 1991, 1983. 96 p. (Coleção polêmicas do nosso tempo 5). ISBN 852490156X.
 
-RAMOS, Marise Nogueira. **A pedagogia das competências** : autonomia ou adaptação? 4. ed., São Paulo, SP, Cortez, 2011. 320 p. ISBN 9788524908163 (broch.). 
+## **COMPONENTE CURRICULAR:**
 
-SAVIANI, Dermeval. **Escola e democracia** : teorias da educação, curvatura da vara, onze teses sobre educação e política. 24. ed., São Paulo, SP, Autores Associados, 1991, 1983. 96 p. (Coleção polêmicas do nosso tempo 5). ISBN 852490156X. 
+Educação do Campo **CARGA HORÁRIA:**
 
-## **COMPONENTE CURRICULAR:** 
+40 Hora/aula e Hora/relógio (60 min)
 
-Educação do Campo **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-40 Hora/aula e Hora/relógio (60 min) 
+Concepções e práticas da educação do campo. O direito dos povos campesinos à educação. Educação popular e conhecimento por elas produzido. A educação do Campo no campo. A educação do campo enquanto produção de cultura. A educação do campo na formação dos sujeitos. A educação do campo como formação humana para o desenvolvimento sustentável. A educação do campo e o respeito às características do campo, atividade de curricularização da extensão.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA  BÁSICA:**
 
-Concepções e práticas da educação do campo. O direito dos povos campesinos à educação. Educação popular e conhecimento por elas produzido. A educação do Campo no campo. A educação do campo enquanto produção de cultura. A educação do campo na formação dos sujeitos. A educação do campo como formação humana para o desenvolvimento sustentável. A educação do campo e o respeito às características do campo, atividade de curricularização da extensão. 
+CALDART, Roseli Salete (Org.) ((org.)). **Caminhos para transformação da escola** : reflexões desde práticas da licenciatura em educação do campo. 1. ed., São Paulo, SP, Expressão Popular, 2011. 241 p. ISBN 9788577431649 (broch.).
 
-## **BIBLIOGRAFIA  BÁSICA:** 
+CERIOLI, Paulo Ricardo; KOLLING, Edgar Jorge; CALDART, Roseli Salete. **Educação do campo** : identidade e políticas públicas. São Paulo: PERES, 2002. 136 p. (Coleção por uma educação do campo; v.4). Disponível no grupo de pesquisa da UFSCAR. “Direitos autorais cedidos pelos autores à 'articulação nacional Por uma Educação do Campo”. http://www.gepec.ufscar.br/publicacoes/livros-e-colecoes/livros-diversos/educacaodo-campoidentidade-e-politicas-publicas.pdf/view
 
-CALDART, Roseli Salete (Org.) ((org.)). **Caminhos para transformação da escola** : reflexões desde práticas da licenciatura em educação do campo. 1. ed., São Paulo, SP, Expressão Popular, 2011. 241 p. ISBN 9788577431649 (broch.). 
+PIRES, Angela Monteiro. **Educação do campo como direito humano** . São Paulo, SP, Cortez, 2012. 159 p.  ISBN 9788524919916 (broch.).
 
-CERIOLI, Paulo Ricardo; KOLLING, Edgar Jorge; CALDART, Roseli Salete. **Educação do campo** : identidade e políticas públicas. São Paulo: PERES, 2002. 136 p. (Coleção por uma educação do campo; v.4). Disponível no grupo de pesquisa da UFSCAR. “Direitos autorais cedidos pelos autores à 'articulação nacional Por uma Educação do Campo”. http://www.gepec.ufscar.br/publicacoes/livros-e-colecoes/livros-diversos/educacaodo-campoidentidade-e-politicas-publicas.pdf/view 
+56
 
-PIRES, Angela Monteiro. **Educação do campo como direito humano** . São Paulo, SP, Cortez, 2012. 159 p.  ISBN 9788524919916 (broch.). 
+INSTITUTOFEDERAL Parana
 
-56 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-Ministerio da Educacao 
+ANTUNES-ROCHA, Maria Isabel; MARTINS, Maria de Fátima Almeida; EVANGELISTA, Aracy Alves Martins (Org.). **Territórios educativos na educação do campo** : escola, comunidade e movimentos sociais. 2. ed., Belo Horizonte, MG, Gutenberg, 2012. 259 p. (Coleção caminhos da educação do campo v. 5). ISBN 9788582350027 (broch.).
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+ARROYO, Miguel González; CALDART, Roseli Salete; MOLINA, Mônica Castagna (Org.). **Por uma educação do campo.** 4. ed., Petrópolis, RJ, Vozes, 2009. 214 p. ISBN 9788532630476 (broch.).
 
-ANTUNES-ROCHA, Maria Isabel; MARTINS, Maria de Fátima Almeida; EVANGELISTA, Aracy Alves Martins (Org.). **Territórios educativos na educação do campo** : escola, comunidade e movimentos sociais. 2. ed., Belo Horizonte, MG, Gutenberg, 2012. 259 p. (Coleção caminhos da educação do campo v. 5). ISBN 9788582350027 (broch.). 
+MELO, Alessandro de; HIDALGO, Angela Maria; SAPELLI, Marlene Lúcia Siebert (Org.). **Terra e educação** : contexto e experiências em educação do campo. Guarapuava, PR, UNICENTRO, 2014. 267 p. ISBN 9788578911645 (broch.).
 
-ARROYO, Miguel González; CALDART, Roseli Salete; MOLINA, Mônica Castagna (Org.). **Por uma educação do campo.** 4. ed., Petrópolis, RJ, Vozes, 2009. 214 p. ISBN 9788532630476 (broch.). 
+SANTOS, Cláudio Eduardo Félix dos. **O 'aprender a aprender ' na formação de professores do campo.** Vitória da Conquista, BA; UESB, 2013. 171 p. ISBN 9788574963105 (broch.).
 
-MELO, Alessandro de; HIDALGO, Angela Maria; SAPELLI, Marlene Lúcia Siebert (Org.). **Terra e educação** : contexto e experiências em educação do campo. Guarapuava, PR, UNICENTRO, 2014. 267 p. ISBN 9788578911645 (broch.). 
+## ⇜⇝
 
-SANTOS, Cláudio Eduardo Félix dos. **O 'aprender a aprender ' na formação de professores do campo.** Vitória da Conquista, BA; UESB, 2013. 171 p. ISBN 9788574963105 (broch.). 
+## **3º Semestre**
 
-## ⇜⇝ 
+## **COMPONENTE CURRICULAR:**
 
-## **3º Semestre** 
+Fundamentos Sociológicos da Educação **CARGA HORÁRIA:** 80 Hora/aula e Hora/relógio (60 min)
 
-## **COMPONENTE CURRICULAR:** 
+## **EMENTA:**
 
-Fundamentos Sociológicos da Educação **CARGA HORÁRIA:** 80 Hora/aula e Hora/relógio (60 min) 
+Tendências e correntes sociológicas. As dimensões sociológicas do fenômeno educativo, as instituições e os movimentos sociais. Relações entre escola, comunidade e família. Cultura e diversidade das sociedades humanas, etnocentrismo, relativismo cultural, pluralidade cultural. Construção da subjetividade, dos conceitos, características sociais e culturais dos alunos e a cultura escolar.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA  BÁSICA:**
 
-Tendências e correntes sociológicas. As dimensões sociológicas do fenômeno educativo, as instituições e os movimentos sociais. Relações entre escola, comunidade e família. Cultura e diversidade das sociedades humanas, etnocentrismo, relativismo cultural, pluralidade cultural. Construção da subjetividade, dos conceitos, características sociais e culturais dos alunos e a cultura escolar. 
+MELO Alessandro. **Fundamentos sócio-culturais da educação** . Curitiba, PR, Intersaberes, 2012.(Série fundamentos da educação).
 
-## **BIBLIOGRAFIA  BÁSICA:** 
+BOURDIEU, Pierre; PASSERON, Jean-Claude. **A reprodução. Elementos para uma teoria do sistema de ensino.** Petrópolis, RJ, Vozes, 2011.
 
-MELO Alessandro. **Fundamentos sócio-culturais da educação** . Curitiba, PR, Intersaberes, 2012.(Série fundamentos da educação). 
+57
 
-BOURDIEU, Pierre; PASSERON, Jean-Claude. **A reprodução. Elementos para uma teoria do sistema de ensino.** Petrópolis, RJ, Vozes, 2011. 
+Ministerio da Educacao
 
-57 
+INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+GIDDENS, Anthony. **Sociologia** . Tradução de Sandra Regina Netz. 4. ed., Porto Alegre, RS, Penso, 2012.
 
-INSTITUTOFEDERAL Parana 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-GIDDENS, Anthony. **Sociologia** . Tradução de Sandra Regina Netz. 4. ed., Porto Alegre, RS, Penso, 2012. 
+AQUINO, Júlio Groppa. **Do cotidiano escolar** : ensaios sobre a ética e seus avessos. 2. ed., São Paulo, SP, Summus, 2000. 211 p. ISBN 8532306977 (broch.).
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+KRUPPA, Sonia M. Portella. **Sociologia da educação** . São Paulo, PR, Cortez, 1994. 157 p. (Coleção magistério 2. grau. Série formação do professor). ISBN 8524904860 (broch.) .
 
-AQUINO, Júlio Groppa. **Do cotidiano escolar** : ensaios sobre a ética e seus avessos. 2. ed., São Paulo, SP, Summus, 2000. 211 p. ISBN 8532306977 (broch.). 
+BOURDIEU, Pierre; NOGUEIRA, Maria Alice; CATANI, Afrânio M. **Escritos de educação** . 14. ed., Petrópolis, RJ, Vozes, 2013. 279 p. (Coleção Ciências Sociais da Educação). ISBN 9788532620538 (broch.).
 
-KRUPPA, Sonia M. Portella. **Sociologia da educação** . São Paulo, PR, Cortez, 1994. 157 p. (Coleção magistério 2. grau. Série formação do professor). ISBN 8524904860 (broch.) . 
+FRIGOTTO, Gaudêncio; CIAVATTA, Maria. (orgs.). **Teoria e Educação no Labirinto do Capital** . São Paulo, SP, Expressão Popular, 2016.
 
-BOURDIEU, Pierre; NOGUEIRA, Maria Alice; CATANI, Afrânio M. **Escritos de educação** . 14. ed., Petrópolis, RJ, Vozes, 2013. 279 p. (Coleção Ciências Sociais da Educação). ISBN 9788532620538 (broch.). 
+⇜⇝
 
-FRIGOTTO, Gaudêncio; CIAVATTA, Maria. (orgs.). **Teoria e Educação no Labirinto do Capital** . São Paulo, SP, Expressão Popular, 2016. 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Alfabetização e Letramento **CARGA HORÁRIA:**
 
-## **COMPONENTE CURRICULAR:** 
+80 Hora/aula e Hora/relógio (60 min)
 
-Alfabetização e Letramento **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-80 Hora/aula e Hora/relógio (60 min) 
+Fundamentos teóricos dos métodos de Alfabetização e de Letramento: abordagem histórica dos conceitos; relações entre Alfabetização e Letramento. Aspectos Sociológicos, Psicológicos e Linguísticos dos métodos de Alfabetização e Letramento. Alfabetização escolar: da análise crítica de concepções tradicionais à caracterização de uma proposta emancipadora. A formação do professor alfabetizador: docente como mediador do processo aluno-escrita, aluno-leitor-produtor de textos. Pressupostos e práticas do letramento literário. Variáveis intervenientes no processo de Alfabetização de crianças, jovens e adultos.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA  BÁSICA:**
 
-Fundamentos teóricos dos métodos de Alfabetização e de Letramento: abordagem histórica dos conceitos; relações entre Alfabetização e Letramento. Aspectos Sociológicos, Psicológicos e Linguísticos dos métodos de Alfabetização e Letramento. Alfabetização escolar: da análise crítica de concepções tradicionais à caracterização de uma proposta emancipadora. A formação do professor alfabetizador: docente como mediador do processo aluno-escrita, aluno-leitor-produtor de textos. Pressupostos e práticas do letramento literário. Variáveis intervenientes no processo de Alfabetização de crianças, jovens e adultos. 
+LERNER, Délia. **Ler e escrever na escola** : o real, o possível e o necessário. Porto Alegre, RS, Artmed, 2007.
 
-## **BIBLIOGRAFIA  BÁSICA:** 
+58
 
-LERNER, Délia. **Ler e escrever na escola** : o real, o possível e o necessário. Porto Alegre, RS, Artmed, 2007. 
+INSTITUTOFEDERAL Parana
 
-58 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+ROJO, Roxane Helena; MOURA, Eduardo C. (org.). **Multiletramentos na escola** . São Paulo, SP, Parábola Editorial, 2012. 261 p. ISBN 978857934.
 
-Ministerio da Educacao 
+SOARES, Magda. **Alfabetização e letramento** . (e-book). Contexto 194. ISBN 9788572449854.
 
-ROJO, Roxane Helena; MOURA, Eduardo C. (org.). **Multiletramentos na escola** . São Paulo, SP, Parábola Editorial, 2012. 261 p. ISBN 978857934. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-SOARES, Magda. **Alfabetização e letramento** . (e-book). Contexto 194. ISBN 9788572449854. 
+CAGLIARI-MASSINI, G.; CAGLIARI, L. C. **Diante das letras** : a escrita na alfabetização. São Paulo, SP,  FAPESP, 1999. 238 P. ISBN 8585725478 .
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+FREIRE, Paulo. **A importância do ato de ler** : em três artigos que se completam. 51. ed,. São Paulo, SP, Cortez, 2011. 102 p. (Questões da nossa época ). ISBN 9788524916465 (broch.).
 
-CAGLIARI-MASSINI, G.; CAGLIARI, L. C. **Diante das letras** : a escrita na alfabetização. São Paulo, SP,  FAPESP, 1999. 238 P. ISBN 8585725478 . 
+MACHADO, Serafina Ferreira; SOUZA FILHO, Osmar Fabiano de; PORTELA, Letícia Mazzo. **Afrobetizando** : propostas didáticas para o ensino interdisciplinar da afro-literatura. São Bernardo do Campo, SP, Garcia, 2015. 132 p. ISBN 9788565490993 (broch.).
 
-FREIRE, Paulo. **A importância do ato de ler** : em três artigos que se completam. 51. ed,. São Paulo, SP, Cortez, 2011. 102 p. (Questões da nossa época ). ISBN 9788524916465 (broch.). 
+SCHWARTZ, Suzana. **Alfabetização de jovens e adultos** : teoria e prática. 3. ed., Petrópolis, RJ, Vozes, 2013. 221 p. ISBN 9788532606136 (broch.).
 
-MACHADO, Serafina Ferreira; SOUZA FILHO, Osmar Fabiano de; PORTELA, Letícia Mazzo. **Afrobetizando** : propostas didáticas para o ensino interdisciplinar da afro-literatura. São Bernardo do Campo, SP, Garcia, 2015. 132 p. ISBN 9788565490993 (broch.). 
+⇜⇝
 
-SCHWARTZ, Suzana. **Alfabetização de jovens e adultos** : teoria e prática. 3. ed., Petrópolis, RJ, Vozes, 2013. 221 p. ISBN 9788532606136 (broch.). 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Fundamentos da Educação Infantil **CARGA HORÁRIA:** 80 Hora/aula e Hora/relógio (60 min)
 
-## **COMPONENTE CURRICULAR:** 
+## **EMENTA:**
 
-Fundamentos da Educação Infantil **CARGA HORÁRIA:** 80 Hora/aula e Hora/relógio (60 min) 
+Políticas para a Educação Infantil (Conceitos de infância, família e sociedade; educação infantil, profissionais da educação infantil). A natureza do trabalho educativo na educação infantil. Desenvolvimento Humano e aquisição do conhecimento na primeira infância: o gesto, brinquedo, desenho, a oralidade e a escrita no desenvolvimento da criança de 0 a 6 anos. Organização dos conteúdos, tempos e espaços na Educação Infantil. Avaliação, Inclusão e Diversidade na educação Infantil, atividade de curricularização da extensão  articulado ao laboratório de aprendizagem brinquedoteca.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA  BÁSICA:**
 
-Políticas para a Educação Infantil (Conceitos de infância, família e sociedade; educação infantil, profissionais da educação infantil). A natureza do trabalho educativo na educação infantil. Desenvolvimento Humano e aquisição do conhecimento na primeira infância: o gesto, brinquedo, desenho, a oralidade e a escrita no desenvolvimento da criança de 0 a 6 anos. Organização dos conteúdos, tempos e espaços na Educação Infantil. Avaliação, Inclusão e Diversidade na educação Infantil, atividade de curricularização da extensão  articulado ao laboratório de aprendizagem brinquedoteca. 
+ARCE, Alessandra (org.). **Quem tem medo de ensinar na Educação Infantil? em defesa do ato de ensinar** . 3. ed., Campinas, SP, Alínea, 2013.
 
-## **BIBLIOGRAFIA  BÁSICA:** 
+59
 
-ARCE, Alessandra (org.). **Quem tem medo de ensinar na Educação Infantil? em defesa do ato de ensinar** . 3. ed., Campinas, SP, Alínea, 2013. 
+INSTITUTOFEDERAL Parana
 
-59 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+KISCHIMOTO, Tizuko Morchida (org.). **O brincar e suas teorias** . São Paulo, SP, Cengage Learning, 1998. 172 p. ISBN 9788522111718 (broch.).
 
-Ministerio da Educacao 
+OSTETTO, Luciana Esmeralda (org). **Educação infantil** : saberes e fazeres da formação de professores. 5.ed., Campinas, SP,  Papirus, 2011. (Coleção ágere). ISBN 9788530808761. (Ebook Pearson).
 
-KISCHIMOTO, Tizuko Morchida (org.). **O brincar e suas teorias** . São Paulo, SP, Cengage Learning, 1998. 172 p. ISBN 9788522111718 (broch.). 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-OSTETTO, Luciana Esmeralda (org). **Educação infantil** : saberes e fazeres da formação de professores. 5.ed., Campinas, SP,  Papirus, 2011. (Coleção ágere). ISBN 9788530808761. (Ebook Pearson). 
+KRAMER, Sonia (org). **Infância e educação infantil** . 11.ed., Campinas, SP, Papirus, 2011. (Série prática pedagógica). ISBN 8530805712.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+KRAMER, Sonia; LEITE, Maria Isabel F. Pereira (org.). **Infância e produção cultural** . 3. ed., São Paulo, SP, Papirus, 2003. 215 p. (Prática pedagógica). ISBN 8530805313 (broch.).
 
-KRAMER, Sonia (org). **Infância e educação infantil** . 11.ed., Campinas, SP, Papirus, 2011. (Série prática pedagógica). ISBN 8530805712. 
+OSTETTO, Luciana Esmeralda; LEITE, Maria Isabel Ferraz Pereira. **Arte, infância e formação de professores** : autoria e transgressão. 7. ed., Campinas, SP, Papirus, 2011. (Coleção ágere). ISBN 8530807421.
 
-KRAMER, Sonia; LEITE, Maria Isabel F. Pereira (org.). **Infância e produção cultural** . 3. ed., São Paulo, SP, Papirus, 2003. 215 p. (Prática pedagógica). ISBN 8530805313 (broch.). 
+ROSENAU, Luciana dos Santos. **Diagnósticos do fazer docente na educação infantil** . Curitiba, PR, Ibpex, 2012. (Série pesquisa e prática profissional em pedagogia). ISBN 9788582125458.
 
-OSTETTO, Luciana Esmeralda; LEITE, Maria Isabel Ferraz Pereira. **Arte, infância e formação de professores** : autoria e transgressão. 7. ed., Campinas, SP, Papirus, 2011. (Coleção ágere). ISBN 8530807421. 
+⇜⇝
 
-ROSENAU, Luciana dos Santos. **Diagnósticos do fazer docente na educação infantil** . Curitiba, PR, Ibpex, 2012. (Série pesquisa e prática profissional em pedagogia). ISBN 9788582125458. 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Prática Pedagógica de Matemática **CARGA HORÁRIA:** 80 Hora/aula e Hora/relógio (60 min)
 
-## **COMPONENTE CURRICULAR:** 
+## **EMENTA:**
 
-Prática Pedagógica de Matemática **CARGA HORÁRIA:** 80 Hora/aula e Hora/relógio (60 min) 
+História da Matemática e as concepções de conhecimento matemático relacionadas ao seu ensino. Princípios da organização do ensino em Matemática Sistematização dos conhecimentos matemáticos: aritméticos, geométricos, métricos, estatísticos, probabilísticos e algébricos. Novas possibilidades educativas: o jogo, a informática, a história da matemática, a modelagem matemática, a etnomatemática e a resolução de problemas. Conteúdos do ensino de Matemática na Educação Infantil e anos iniciais do Ensino Fundamental. Avaliação em Matemática. Matemática, Inclusão e Diversidade. Análise crítica de materiais didáticos (livros didáticos e paradidáticos, jogos, textos científicos e literários)
 
-## **EMENTA:** 
+60
 
-História da Matemática e as concepções de conhecimento matemático relacionadas ao seu ensino. Princípios da organização do ensino em Matemática Sistematização dos conhecimentos matemáticos: aritméticos, geométricos, métricos, estatísticos, probabilísticos e algébricos. Novas possibilidades educativas: o jogo, a informática, a história da matemática, a modelagem matemática, a etnomatemática e a resolução de problemas. Conteúdos do ensino de Matemática na Educação Infantil e anos iniciais do Ensino Fundamental. Avaliação em Matemática. Matemática, Inclusão e Diversidade. Análise crítica de materiais didáticos (livros didáticos e paradidáticos, jogos, textos científicos e literários) 
+INSTITUTOFEDERAL Parana
 
-60 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+## **BIBLIOGRAFIA BÁSICA:**
 
-Ministerio da Educacao 
+ANTUNES, Celso. **Jogos para a estimulação das múltiplas inteligências** . 17. ed., Rio de Janeiro, RJ, Vozes, 2010.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+CUNHA, Maria Isabel. **O bom professor e sua prática** . 24. ed., Campinas, SP, Papirus, 2012.
 
-ANTUNES, Celso. **Jogos para a estimulação das múltiplas inteligências** . 17. ed., Rio de Janeiro, RJ, Vozes, 2010. 
+GÓES, Anderson Roges Teixeira; GÓES, Heliza Colaço. **Ensino da matemática** : concepções, metodologias, tendências e organização do trabalho pedagógico. Curitiba, PR, InterSaberes, 2015.
 
-CUNHA, Maria Isabel. **O bom professor e sua prática** . 24. ed., Campinas, SP, Papirus, 2012. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-GÓES, Anderson Roges Teixeira; GÓES, Heliza Colaço. **Ensino da matemática** : concepções, metodologias, tendências e organização do trabalho pedagógico. Curitiba, PR, InterSaberes, 2015. 
+ANTUNES, Celso. **Professores e professoras** : reflexões sobre a aula e práticas pedagógicas diversas. 6. ed., Petrópolis, RJ,  Vozes, 2012.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+BICUDO, Maria Aparecida Viggiani; BORBA, Marcelo de Carvalho. **Educação matemática** : pesquisa em movimento. 4. ed., São Paulo, SP, Cortez, 2012.
 
-ANTUNES, Celso. **Professores e professoras** : reflexões sobre a aula e práticas pedagógicas diversas. 6. ed., Petrópolis, RJ,  Vozes, 2012. 
+FLOOD, Raymond; WILSON, Robin. **A História dos grandes matemáticos** : as descobertas e a propagação do conhecimento através das Vidas dos Grandes Matemáticos. São Paulo, SP, M.Books, 2013.
 
-BICUDO, Maria Aparecida Viggiani; BORBA, Marcelo de Carvalho. **Educação matemática** : pesquisa em movimento. 4. ed., São Paulo, SP, Cortez, 2012. 
+NUNES, Terezinha; CARRAHER, David; SCHLEIMANN, Analucia. **Na vida dez, na escola zero** . 16. ed., São Paulo, SP, Cortez, 2011.
 
-FLOOD, Raymond; WILSON, Robin. **A História dos grandes matemáticos** : as descobertas e a propagação do conhecimento através das Vidas dos Grandes Matemáticos. São Paulo, SP, M.Books, 2013. 
+⇜⇝
 
-NUNES, Terezinha; CARRAHER, David; SCHLEIMANN, Analucia. **Na vida dez, na escola zero** . 16. ed., São Paulo, SP, Cortez, 2011. 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Estágio II – Educação Infantil **CARGA HORÁRIA:** 80 Hora/aula e Hora/relógio (60 min)
 
-## **COMPONENTE CURRICULAR:** 
+## **EMENTA:**
 
-Estágio II – Educação Infantil **CARGA HORÁRIA:** 80 Hora/aula e Hora/relógio (60 min) 
+O Trabalho Pedagógico na Educação Infantil. Prática pedagógica e processos de aprendizagem e de avaliação na Educação Infantil. Educação para segurança no trânsito.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA BÁSICA:**
 
-O Trabalho Pedagógico na Educação Infantil. Prática pedagógica e processos de aprendizagem e de avaliação na Educação Infantil. Educação para segurança no trânsito. 
+COLL, César; MARCHESI, Álvaro; PALACIOS, Jesús (Org.). **Desenvolvimento psicológico e educação** : transtornos do desenvolvimento e necessidades educativas especiais. 2. ed., Porto Alegre, RS, Artmed, 2004. 367 p. (Biblioteca Artmed. Psicologia do desenvolvimento, infância e
 
-## **BIBLIOGRAFIA BÁSICA:** 
+61
 
-COLL, César; MARCHESI, Álvaro; PALACIOS, Jesús (Org.). **Desenvolvimento psicológico e educação** : transtornos do desenvolvimento e necessidades educativas especiais. 2. ed., Porto Alegre, RS, Artmed, 2004. 367 p. (Biblioteca Artmed. Psicologia do desenvolvimento, infância e 
+Parana
 
-61 
+Ministerio da Educacao
 
-Parana 
+## INSTITUTOFEDERAL
 
-Ministerio da Educacao 
+adolescência). ISBN 97885336302096 (broch.).
 
-## INSTITUTOFEDERAL 
+KISCHIMOTO, Tizuko Morchida (org.). **O brincar e suas teorias** . São Paulo, SP, Cengage Learning, 1998. 172 p. ISBN 9788522111718 (broch.).
 
-adolescência). ISBN 97885336302096 (broch.). 
+VIGOTSKY, Lev Semyonovitch. **A construção do pensamento e da linguagem** . 2. ed., São Paulo, SP, Martins Fontes, 2009. 496 p. (Textos de psicologia). ISBN 9788578270773 (broch.).
 
-KISCHIMOTO, Tizuko Morchida (org.). **O brincar e suas teorias** . São Paulo, SP, Cengage Learning, 1998. 172 p. ISBN 9788522111718 (broch.). 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-VIGOTSKY, Lev Semyonovitch. **A construção do pensamento e da linguagem** . 2. ed., São Paulo, SP, Martins Fontes, 2009. 496 p. (Textos de psicologia). ISBN 9788578270773 (broch.). 
+DEVRIES, Rheta; ZAN, Betty. **A ética na educação infantil** : o ambiente sócio-moral na escola. Porto Alegre, RS, Artmed, 1998. 328p. (Biblioteca Artmed. Epistemologia, genética/teoria piagetiana Epistemologia, genética/teoria piagetiana). ISBN 8573073160 (broch.).
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+GALLAHUE, David; OZMUN, John. **Compreendendo o desenvolvimento motor** : bebês, crianças, adolescentes e adultos. 7.ed., Porto Alegre, RS, AMGH, 2013. ISBN 9788580551808 (broch.).
 
-DEVRIES, Rheta; ZAN, Betty. **A ética na educação infantil** : o ambiente sócio-moral na escola. Porto Alegre, RS, Artmed, 1998. 328p. (Biblioteca Artmed. Epistemologia, genética/teoria piagetiana Epistemologia, genética/teoria piagetiana). ISBN 8573073160 (broch.). 
+MACHADO, Patrícia Brum. **Comportamento infantil** : estabelecendo limites. Porto Alegre, RS, Mediação, 2002. 76 p. (Cadernos de Educação Infantil ; 10). ISBN 8587063510 (broch.)
 
-GALLAHUE, David; OZMUN, John. **Compreendendo o desenvolvimento motor** : bebês, crianças, adolescentes e adultos. 7.ed., Porto Alegre, RS, AMGH, 2013. ISBN 9788580551808 (broch.). 
+TARDIF, Maurice; LESSARD, Claude; KREUCH, João Batista. **O trabalho docente** : elementos para uma teoria da docência como profissão de interação humanas. Petrópolis, RJ, Vozes, 2011. 317 p. ISBN 8532631657 (broch.).
 
-MACHADO, Patrícia Brum. **Comportamento infantil** : estabelecendo limites. Porto Alegre, RS, Mediação, 2002. 76 p. (Cadernos de Educação Infantil ; 10). ISBN 8587063510 (broch.) 
+⇜⇝
 
-TARDIF, Maurice; LESSARD, Claude; KREUCH, João Batista. **O trabalho docente** : elementos para uma teoria da docência como profissão de interação humanas. Petrópolis, RJ, Vozes, 2011. 317 p. ISBN 8532631657 (broch.). 
+## **4º Semestre**
 
-⇜⇝ 
+## **COMPONENTE CURRICULAR:**
 
-## **4º Semestre** 
+História e Cultura Afro-Brasileira e Indígena **CARGA HORÁRIA:** 40 Hora/aula e Hora/relógio (60 min) **EMENTA:**
 
-## **COMPONENTE CURRICULAR:** 
+62
 
-História e Cultura Afro-Brasileira e Indígena **CARGA HORÁRIA:** 40 Hora/aula e Hora/relógio (60 min) **EMENTA:** 
+INSTITUTOFEDERAL Parana
 
-62 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+A história afro-brasileira e a compreensão dos processos de diversidade étnico-racial e étnico-social na formação política, econômica e cultural do Brasil. Educação das relações étnico raciais. O processo de naturalização da pobreza e a formação da sociedade brasileira. Igualdade jurídica e desigualdade social. Os indígenas e os conhecimentos. A diversidade cultural indígena na formação da cultura brasileira, atividade de curricularização da extensão.
 
-Ministerio da Educacao 
+## **BIBLIOGRAFIA  BÁSICA:**
 
-A história afro-brasileira e a compreensão dos processos de diversidade étnico-racial e étnico-social na formação política, econômica e cultural do Brasil. Educação das relações étnico raciais. O processo de naturalização da pobreza e a formação da sociedade brasileira. Igualdade jurídica e desigualdade social. Os indígenas e os conhecimentos. A diversidade cultural indígena na formação da cultura brasileira, atividade de curricularização da extensão. 
+AQUINO, Júlio Groppa. **Diferenças e preconceito na escola** : alternativas teóricas e práticas. São Paulo, SP, Summus, 1998. 215 p. ISBN 8532306101.
 
-## **BIBLIOGRAFIA  BÁSICA:** 
+PINSKY, Jaime (Coord.). **12 faces do preconceito** . 11. ed., São Paulo, SP, Contexto, 2013. 123 p. ISBN 9788572441049 (broch.).
 
-AQUINO, Júlio Groppa. **Diferenças e preconceito na escola** : alternativas teóricas e práticas. São Paulo, SP, Summus, 1998. 215 p. ISBN 8532306101. 
+SCHWARCZ, Lilia M. **O espetáculo das raças** : cientistas, instituições e questão racial no Brasil (1870-1930). São Paulo, SP, Companhia das Letras, 1993.
 
-PINSKY, Jaime (Coord.). **12 faces do preconceito** . 11. ed., São Paulo, SP, Contexto, 2013. 123 p. ISBN 9788572441049 (broch.). 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-SCHWARCZ, Lilia M. **O espetáculo das raças** : cientistas, instituições e questão racial no Brasil (1870-1930). São Paulo, SP, Companhia das Letras, 1993. 
+BOSI, Alfredo. **História concisa da literatura brasileira** . 43. ed., São Paulo, SP, Cultrix, 2006.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+FONSECA, Marcus Vinicius; SILVA, Carolina Mostaro Neves da; FERNANDES, Alexsandra Borges (Org.). **Relações étnico-raciais e educação no Brasil** . Belo Horizonte, MG, Mazza Edições, 2011. 215 p. (Coleção pensar a educação, pensar o Brasil : seminários). ISBN 9788571605459 (broch.).
 
-BOSI, Alfredo. **História concisa da literatura brasileira** . 43. ed., São Paulo, SP, Cultrix, 2006. 
+FREYRE, Gilberto. **Casa-grande & senzala** : formação da família brasileira sob o regime da economia patriarcal. 51. ed., São Paulo, SP, Global, 2006.
 
-FONSECA, Marcus Vinicius; SILVA, Carolina Mostaro Neves da; FERNANDES, Alexsandra Borges (Org.). **Relações étnico-raciais e educação no Brasil** . Belo Horizonte, MG, Mazza Edições, 2011. 215 p. (Coleção pensar a educação, pensar o Brasil : seminários). ISBN 9788571605459 (broch.). 
+FREYRE, Gilberto. **Sobrados e mucambos** : decadência do patriarcado rural e desenvolvimento do urbano. 15. ed., Rio de Janeiro, RJ, Global, 2004. 968 p. (Introdução da sociedade patriarcal no Brasil ; 2). ISBN 8526008358 (encad.)
 
-FREYRE, Gilberto. **Casa-grande & senzala** : formação da família brasileira sob o regime da economia patriarcal. 51. ed., São Paulo, SP, Global, 2006. 
+⇜⇝
 
-FREYRE, Gilberto. **Sobrados e mucambos** : decadência do patriarcado rural e desenvolvimento do urbano. 15. ed., Rio de Janeiro, RJ, Global, 2004. 968 p. (Introdução da sociedade patriarcal no Brasil ; 2). ISBN 8526008358 (encad.) 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Didática e Formação Docente **CARGA HORÁRIA:**
 
-## **COMPONENTE CURRICULAR:** 
+63
 
-Didática e Formação Docente **CARGA HORÁRIA:** 
+INSTITUTOFEDERAL Parana
 
-63 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+40 Hora/aula e Hora/relógio (60 min)
 
-Ministerio da Educacao 
+## **EMENTA:**
 
-40 Hora/aula e Hora/relógio (60 min) 
+Didática: diferentes momentos históricos. Abordagens do processo didático: fundamentos e instâncias operacionais. Paradigmas da docência. Didática: Estratégias pedagógicas. Planejamento e organização do ensino: objetivos, conteúdos, métodos e avaliação na escola e em outros espaços pedagógicos. As temáticas atuais dentro do ensino.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA  BÁSICA:**
 
-Didática: diferentes momentos históricos. Abordagens do processo didático: fundamentos e instâncias operacionais. Paradigmas da docência. Didática: Estratégias pedagógicas. Planejamento e organização do ensino: objetivos, conteúdos, métodos e avaliação na escola e em outros espaços pedagógicos. As temáticas atuais dentro do ensino. 
+CANDAU, Vera Maria. **A didática em questão** . 33. ed., Petrópolis, RJ, Vozes, 2012. 129p. ISBN 9788532600936.
 
-## **BIBLIOGRAFIA  BÁSICA:** 
+MELO, Alessandro de; URBANETZ, Sandra Terezinha. **Fundamentos de didática** . Curitiba, PR, Intersaberes, 2012. ISBN 9788582122969.
 
-CANDAU, Vera Maria. **A didática em questão** . 33. ed., Petrópolis, RJ, Vozes, 2012. 129p. ISBN 9788532600936. 
+VASCONCELLOS, Celso dos Santos. **Coordenação do trabalho pedagógico** : do projeto político-pedagógico ao cotidiano da sala de aula. 15. ed., São Paulo, SP, Libertad, 2013. 213 p. (Subsídios pedagógicos do Libertad; 3). ISBN 9788585819095 (broch.).
 
-MELO, Alessandro de; URBANETZ, Sandra Terezinha. **Fundamentos de didática** . Curitiba, PR, Intersaberes, 2012. ISBN 9788582122969. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-VASCONCELLOS, Celso dos Santos. **Coordenação do trabalho pedagógico** : do projeto político-pedagógico ao cotidiano da sala de aula. 15. ed., São Paulo, SP, Libertad, 2013. 213 p. (Subsídios pedagógicos do Libertad; 3). ISBN 9788585819095 (broch.). 
+ALVES, Rubem. **Conversas com quem gosta de ensinar** . 14. ed., Campinas, SP, Papirus, 2012.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+CUNHA, Maria Isabel da. **O bom professor e sua prática** . 24.ed., Campinas, SP, Papirus, 2011. (Magistério. Formação e trabalho pedagógico). ISBN 8530800818.
 
-ALVES, Rubem. **Conversas com quem gosta de ensinar** . 14. ed., Campinas, SP, Papirus, 2012. 
+MORAES, Maria Célia Marcondes de (org.). **Iluminismo às avessas:** produção de conhecimento e políticas de formação docente. Rio de Janeiro, RJ, DP&A, 2003. 198 p. ISBN 8574902395 (broch.).
 
-CUNHA, Maria Isabel da. **O bom professor e sua prática** . 24.ed., Campinas, SP, Papirus, 2011. (Magistério. Formação e trabalho pedagógico). ISBN 8530800818. 
+ZABALA, Antoni. **A prática educativa** : como ensinar. Porto Alegre, RS, Artmed, 1998. 224 p. ISBN 9788573074260 (broch.).
 
-MORAES, Maria Célia Marcondes de (org.). **Iluminismo às avessas:** produção de conhecimento e políticas de formação docente. Rio de Janeiro, RJ, DP&A, 2003. 198 p. ISBN 8574902395 (broch.). 
+⇜⇝
 
-ZABALA, Antoni. **A prática educativa** : como ensinar. Porto Alegre, RS, Artmed, 1998. 224 p. ISBN 9788573074260 (broch.). 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Corporeidade **CARGA HORÁRIA:** 80 Hora/aula e Hora/relógio (60 min) **EMENTA:**
 
-## **COMPONENTE CURRICULAR:** 
+64
 
-Corporeidade **CARGA HORÁRIA:** 80 Hora/aula e Hora/relógio (60 min) **EMENTA:** 
+INSTITUTOFEDERAL Parana
 
-64 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+A Educação Física no contexto histórico cultural: teorias, tendências e concepções. Conteúdos e Avaliação da Educação Física na Educação Infantil e nos anos iniciais do Ensino Fundamental: ginástica, jogo e dança. Psicomotricidade. Corporeidade e Gênero. O Lúdico no desenvolvimento das crianças. Corpo, Inclusão e Diversidade.
 
-Ministerio da Educacao 
+## **BIBLIOGRAFIA BÁSICA:**
 
-A Educação Física no contexto histórico cultural: teorias, tendências e concepções. Conteúdos e Avaliação da Educação Física na Educação Infantil e nos anos iniciais do Ensino Fundamental: ginástica, jogo e dança. Psicomotricidade. Corporeidade e Gênero. O Lúdico no desenvolvimento das crianças. Corpo, Inclusão e Diversidade. 
+DOHME, Vania D'Angelo. **Atividades lúdicas na educação** : o caminho de tijolos amarelos do aprendizado. 6. ed., Petrópolis, RJ, Vozes, 2011. 181 p. ISBN 9788532629050 (broch.).
 
-## **BIBLIOGRAFIA BÁSICA:** 
+GALLAHUE, David.; OZMUN, John. **Compreendendo o desenvolvimento motor** : bebês, crianças, adolescentes e adultos. 7.ed., Porto Alegre, RS, AMGH, 2013. ISBN 9788580551808 (broch.).
 
-DOHME, Vania D'Angelo. **Atividades lúdicas na educação** : o caminho de tijolos amarelos do aprendizado. 6. ed., Petrópolis, RJ, Vozes, 2011. 181 p. ISBN 9788532629050 (broch.). 
+GONÇALVES, Maria Augusta Salin. **Sentir, pensar, agir** : corporeidade e educação. 15. ed., Campinas, SP, Papirus, 2011. 192 p. (Coleção corpo e motricidade). ISBN 9788530802530 (broch.).
 
-GALLAHUE, David.; OZMUN, John. **Compreendendo o desenvolvimento motor** : bebês, crianças, adolescentes e adultos. 7.ed., Porto Alegre, RS, AMGH, 2013. ISBN 9788580551808 (broch.). 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-GONÇALVES, Maria Augusta Salin. **Sentir, pensar, agir** : corporeidade e educação. 15. ed., Campinas, SP, Papirus, 2011. 192 p. (Coleção corpo e motricidade). ISBN 9788530802530 (broch.). 
+ARRUDA, Eucidio Pimenta. **Aprendizagens e jogos digitais** . Campinas, SP, Alínea, 2011. 193 p. ISBN 9788575164631 (broch.).
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+BENJAMIN, Walter. **Reflexões sobre a criança, o brinquedo e a educação** . 2.ed., São Paulo, SP, Duas Cidades, 2009. 173 p. (Coleção Espírito Crítico). ISBN 9788573262346 (broch.).
 
-ARRUDA, Eucidio Pimenta. **Aprendizagens e jogos digitais** . Campinas, SP, Alínea, 2011. 193 p. ISBN 9788575164631 (broch.). 
+KRAEMER, Maria Luiza. **Aprendendo com criatividade** . Campinas, SP, Autores Associados, 2010. 218 p. (Coleção Formação de professores). ISBN 9788574962436 (broch.).
 
-BENJAMIN, Walter. **Reflexões sobre a criança, o brinquedo e a educação** . 2.ed., São Paulo, SP, Duas Cidades, 2009. 173 p. (Coleção Espírito Crítico). ISBN 9788573262346 (broch.). 
+MACHADO, Marina Marcondes. **O brinquedo-sucata e a criança** : a importância do brincar, atividades e materiais. 7. ed., São Paulo, SP, Edições Loyola, 2010. 111 p. ISBN 9788515008650 (broch.).
 
-KRAEMER, Maria Luiza. **Aprendendo com criatividade** . Campinas, SP, Autores Associados, 2010. 218 p. (Coleção Formação de professores). ISBN 9788574962436 (broch.). 
+PERES, Lúcia Maria Vaz; PORTO, Tania Maria Esperon (Org.). **Tecnologias da educação** : tecendo relações entre imaginário, corporeidade e emoções. Araraquara, SP,  Junqueira & Marin, 2006. 204 p. ISBN 9788586305382 (broch.).
 
-MACHADO, Marina Marcondes. **O brinquedo-sucata e a criança** : a importância do brincar, atividades e materiais. 7. ed., São Paulo, SP, Edições Loyola, 2010. 111 p. ISBN 9788515008650 (broch.). 
+⇜⇝
 
-PERES, Lúcia Maria Vaz; PORTO, Tania Maria Esperon (Org.). **Tecnologias da educação** : tecendo relações entre imaginário, corporeidade e emoções. Araraquara, SP,  Junqueira & Marin, 2006. 204 p. ISBN 9788586305382 (broch.). 
+65
 
-⇜⇝ 
+INSTITUTOFEDERAL Parana
 
-65 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+## **COMPONENTE CURRICULAR:**
 
-Ministerio da Educacao 
+Prática Pedagógica de Língua Portuguesa **CARGA HORÁRIA:**
 
-## **COMPONENTE CURRICULAR:** 
+80 Hora/aula e Hora/relógio (60 min)
 
-Prática Pedagógica de Língua Portuguesa **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-80 Hora/aula e Hora/relógio (60 min) 
+Concepções de linguagem e língua e ensino da Língua Portuguesa. As contribuições da Linguística para o ensino da norma padrão, da oralidade, da escrita e da leitura. A prática da análise linguística: conceito e aplicabilidade. Gêneros textuais escritos: fundamentos teóricos e estratégias metodológicas para o processamento da produção escrita. Prática da produção textual: condições de produção, competência comunicativa, letramento e autoria. Hipertexto e gêneros textuais emergentes no contexto das novas tecnologias: características e implicações para o ensino da Língua Portuguesa. Gêneros Textuais Orais na Escola: abordagens teórico-metodológicas e condições básicas para o ensino. Caracterização, especificidades linguísticas e o diálogo entre oralidade e escrita. Produção de textos e processo avaliativo. Gêneros Textuais e Leitura: a dimensão psicolinguística da leitura: estratégias e habilidades de leitura. A dimensão interativa da leitura: leitura e intertextualidade, processamento e recepção da leitura. Língua, Inclusão e Diversidade. Avaliação em Língua Portuguesa. Análise crítica de materiais didáticos (livros didáticos e paradidáticos, jogos, textos científicos e literários)
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA  BÁSICA:**
 
-Concepções de linguagem e língua e ensino da Língua Portuguesa. As contribuições da Linguística para o ensino da norma padrão, da oralidade, da escrita e da leitura. A prática da análise linguística: conceito e aplicabilidade. Gêneros textuais escritos: fundamentos teóricos e estratégias metodológicas para o processamento da produção escrita. Prática da produção textual: condições de produção, competência comunicativa, letramento e autoria. Hipertexto e gêneros textuais emergentes no contexto das novas tecnologias: características e implicações para o ensino da Língua Portuguesa. Gêneros Textuais Orais na Escola: abordagens teórico-metodológicas e condições básicas para o ensino. Caracterização, especificidades linguísticas e o diálogo entre oralidade e escrita. Produção de textos e processo avaliativo. Gêneros Textuais e Leitura: a dimensão psicolinguística da leitura: estratégias e habilidades de leitura. A dimensão interativa da leitura: leitura e intertextualidade, processamento e recepção da leitura. Língua, Inclusão e Diversidade. Avaliação em Língua Portuguesa. Análise crítica de materiais didáticos (livros didáticos e paradidáticos, jogos, textos científicos e literários) 
+GERALDI, João Wanderley Geraldi. **O texto na sala de aula** . Milton José de Almeida (org.) 4. ed., São Paulo, SP, Ática, 2006.
 
-## **BIBLIOGRAFIA  BÁSICA:** 
+SCHNEWNLY, Bernard. **Gêneros orais e escritos na escola** . São Paulo, SP,  Mercado de Letras, 2004.
 
-GERALDI, João Wanderley Geraldi. **O texto na sala de aula** . Milton José de Almeida (org.) 4. ed., São Paulo, SP, Ática, 2006. 
+WACHOWICZ, Teresa Cristina. **Análise linguística nos gêneros textuais** [livro eletrônico] / . Teresa Cristina Wachowicz. Curitiba, PR, Intersaberes, 2012. (Série Língua Portuguesa em Foco).
 
-SCHNEWNLY, Bernard. **Gêneros orais e escritos na escola** . São Paulo, SP,  Mercado de Letras, 2004. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-WACHOWICZ, Teresa Cristina. **Análise linguística nos gêneros textuais** [livro eletrônico] / . Teresa Cristina Wachowicz. Curitiba, PR, Intersaberes, 2012. (Série Língua Portuguesa em Foco). 
+ELIAS, Vanda Maria (org.). **Ensino de língua portuguesa** : oralidade, escrita e leitura.  São Paulo, SP, Contexto, 2011.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+LEAL, Telma Ferraz. **A oralidade na escola** : a investigação do trabalho docente como foco de reflexão.  Belo Horizonte, MG, Autêntica Editora, 2012. (Coleção Língua Portuguesa na Escola).
 
-ELIAS, Vanda Maria (org.). **Ensino de língua portuguesa** : oralidade, escrita e leitura.  São Paulo, SP, Contexto, 2011. 
+NOGUEIRA, Patrícia Lima (org.). **Metodologia do ensino da língua portuguesa I** . São Paulo SP, Pearson, 2016. ISBN 9788543017099.
 
-LEAL, Telma Ferraz. **A oralidade na escola** : a investigação do trabalho docente como foco de reflexão.  Belo Horizonte, MG, Autêntica Editora, 2012. (Coleção Língua Portuguesa na Escola). 
+66
 
-NOGUEIRA, Patrícia Lima (org.). **Metodologia do ensino da língua portuguesa I** . São Paulo SP, Pearson, 2016. ISBN 9788543017099. 
+INSTITUTOFEDERAL Parana
 
-66 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+WILSON, Victoria (org.). **Leitura, escrita e ensino** [recurso eletrônico]:discutindo a formação de leitores. São Paulo, SP,  Summus, 2015.
 
-Ministerio da Educacao 
+⇜⇝
 
-WILSON, Victoria (org.). **Leitura, escrita e ensino** [recurso eletrônico]:discutindo a formação de leitores. São Paulo, SP,  Summus, 2015. 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Avaliação da Aprendizagem **CARGA HORÁRIA:** 80 Hora/aula e Hora/relógio (60 min) **EMENTA:**
 
-## **COMPONENTE CURRICULAR:** 
+Abordagem histórica e teórica da avaliação da aprendizagem. Avaliação a partir das concepções pedagógicas. Avaliação na legislação educacional brasileira. Enfoques sobre avaliação. Modalidades de avaliação. Critérios de avaliação. Instrumentos de avaliação.
 
-Avaliação da Aprendizagem **CARGA HORÁRIA:** 80 Hora/aula e Hora/relógio (60 min) **EMENTA:** 
+## **BIBLIOGRAFIA  BÁSICA:**
 
-Abordagem histórica e teórica da avaliação da aprendizagem. Avaliação a partir das concepções pedagógicas. Avaliação na legislação educacional brasileira. Enfoques sobre avaliação. Modalidades de avaliação. Critérios de avaliação. Instrumentos de avaliação. 
+LUCKESI, Cipriano. **Avaliação da aprendizagem** : componente do ato pedagógico. 1. ed., São Paulo, SP, Cortez, 2011.
 
-## **BIBLIOGRAFIA  BÁSICA:** 
+VASCONCELLOS, Celso dos Santos. **Avaliação da aprendizagem** : práticas de mudanças, por uma práxis transformadora. 11.ed., São Paulo, SP, Libertad, 2010.
 
-LUCKESI, Cipriano. **Avaliação da aprendizagem** : componente do ato pedagógico. 1. ed., São Paulo, SP, Cortez, 2011. 
+LUCKESI. Cipriano Carlos. **Avaliação da aprendizagem escolar** : estudos e proposições.São Paulo, Sp, Cortez, 2011.
 
-VASCONCELLOS, Celso dos Santos. **Avaliação da aprendizagem** : práticas de mudanças, por uma práxis transformadora. 11.ed., São Paulo, SP, Libertad, 2010. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-LUCKESI. Cipriano Carlos. **Avaliação da aprendizagem escolar** : estudos e proposições.São Paulo, Sp, Cortez, 2011. 
+FREITAS, Luiz Carlos de; DE SORDI, Mara Regina Lemes; FREITAS, Helena Costa Lopes de. **Avaliação educacional** : caminhando pela contramão. 4. ed., Petrópolis, RJ, Vozes, 2011. 86 p. (Coleção Fronteiras educacionais). ISBN 9788532637741 (broch.).
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+HOFFMANN, Jussara. **Avaliação** : mito & desafio : uma perspectiva construtivista. 43. ed., Porto Alegre, RS, Mediação, 2013.
 
-FREITAS, Luiz Carlos de; DE SORDI, Mara Regina Lemes; FREITAS, Helena Costa Lopes de. **Avaliação educacional** : caminhando pela contramão. 4. ed., Petrópolis, RJ, Vozes, 2011. 86 p. (Coleção Fronteiras educacionais). ISBN 9788532637741 (broch.). 
+BLOOM, Benjamin Samuel; HASTINGS, J. Thomas; MADAUS, George. **Manual de avaliação formativa e somativa do aprendizado escolar** . São Paulo, SP,  Pioneira, 1983. 307 p. (Biblioteca Pioneira de Ciências Sociais).
 
-HOFFMANN, Jussara. **Avaliação** : mito & desafio : uma perspectiva construtivista. 43. ed., Porto Alegre, RS, Mediação, 2013. 
+CUNHA, Maria Isabel da (org.). **Formatos avaliativos e concepção de docência** . Campinas, SP, Autores Associados, 2005.
 
-BLOOM, Benjamin Samuel; HASTINGS, J. Thomas; MADAUS, George. **Manual de avaliação formativa e somativa do aprendizado escolar** . São Paulo, SP,  Pioneira, 1983. 307 p. (Biblioteca Pioneira de Ciências Sociais). 
+67
 
-CUNHA, Maria Isabel da (org.). **Formatos avaliativos e concepção de docência** . Campinas, SP, Autores Associados, 2005. 
+Ministerio da Educacao
 
-67 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+⇜⇝
 
-## INSTITUTOFEDERAL Parana 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Estágio III – Anos Iniciais da Educação Básica **CARGA HORÁRIA:**
 
-## **COMPONENTE CURRICULAR:** 
+80 Hora/aula e Hora/relógio (60 min)
 
-Estágio III – Anos Iniciais da Educação Básica **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-80 Hora/aula e Hora/relógio (60 min) 
+Desenvolvimento da Prática Pedagógica: análise, planejamento e atuação. Relação professor, aluno e conhecimento na configuração do processo educacional. Especificidades do Trabalho Pedagógico no Ensino Fundamental. Educação para segurança no trânsito.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA BÁSICA:**
 
-Desenvolvimento da Prática Pedagógica: análise, planejamento e atuação. Relação professor, aluno e conhecimento na configuração do processo educacional. Especificidades do Trabalho Pedagógico no Ensino Fundamental. Educação para segurança no trânsito. 
+ANTUNES, Celso. **Professores e professoras** : reflexões sobre a aula e práticas pedagógicas diversas. 6.ed., Petrópolis, RJ, Vozes, 2012. 199 p. ISBN 9788532635266 (broch.).
 
-## **BIBLIOGRAFIA BÁSICA:** 
+BORDENAVE, Juan Diaz; PEREIRA, Adair Martins. **Estratégias de ensino-aprendizagem** . 25. ed., Petrópolis, RJ, Vozes, 2004. 312 p. ISBN 8532601545 (broch.).
 
-ANTUNES, Celso. **Professores e professoras** : reflexões sobre a aula e práticas pedagógicas diversas. 6.ed., Petrópolis, RJ, Vozes, 2012. 199 p. ISBN 9788532635266 (broch.). 
+PICONEZ, Stela C. Bertholo (Coord.). **A prática de ensino e o estágio supervisionado** . 24. ed., Campinas, SP, Papirus, 2012. 128 p. (Coleção magistério: formação e trabalho pedagógico). ISBN 9788530801595 (broch.).
 
-BORDENAVE, Juan Diaz; PEREIRA, Adair Martins. **Estratégias de ensino-aprendizagem** . 25. ed., Petrópolis, RJ, Vozes, 2004. 312 p. ISBN 8532601545 (broch.). 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-PICONEZ, Stela C. Bertholo (Coord.). **A prática de ensino e o estágio supervisionado** . 24. ed., Campinas, SP, Papirus, 2012. 128 p. (Coleção magistério: formação e trabalho pedagógico). ISBN 9788530801595 (broch.). 
+BECKER, Fernando. **Educação e construção do conhecimento** . 2. ed., rev. e ampl. Porto Alegre, RS, Penso, 2012. 199 p. ISBN 9788563899828 (broch.).
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+DUARTE, Newton. **Vigotski e o 'aprender a aprender'** : crítica às apropriações neoliberais e pósmodernas da teoria vigotskiana. 5. ed., rev. Campinas, SP, Autores Associados, 2011. 355 p. (Educação contemporânea). ISBN 9788585701918 (broch).
 
-BECKER, Fernando. **Educação e construção do conhecimento** . 2. ed., rev. e ampl. Porto Alegre, RS, Penso, 2012. 199 p. ISBN 9788563899828 (broch.). 
+FAZENDA, Ivani Catarina Arantes. **Práticas interdisciplinares na escola** . São Paulo, SP, Cortez, 1991. 147 p. ISBN 8524903228 (broch.)
 
-DUARTE, Newton. **Vigotski e o 'aprender a aprender'** : crítica às apropriações neoliberais e pósmodernas da teoria vigotskiana. 5. ed., rev. Campinas, SP, Autores Associados, 2011. 355 p. (Educação contemporânea). ISBN 9788585701918 (broch). 
+PACHECO, José. **Escola da ponte** : formação e transformação da educação. Petrópolis, RJ, Vozes, 2010. 231 p. (Coleção transições). ISBN 9788532636461.
 
-FAZENDA, Ivani Catarina Arantes. **Práticas interdisciplinares na escola** . São Paulo, SP, Cortez, 1991. 147 p. ISBN 8524903228 (broch.) 
+⇜⇝
 
-PACHECO, José. **Escola da ponte** : formação e transformação da educação. Petrópolis, RJ, Vozes, 2010. 231 p. (Coleção transições). ISBN 9788532636461. 
+68
 
-⇜⇝ 
+INSTITUTOFEDERAL Parana
 
-68 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+## **5º Semestre**
 
-Ministerio da Educacao 
+⇜⇝
 
-## **5º Semestre** 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Educação Inclusiva **CARGA HORÁRIA:**
 
-## **COMPONENTE CURRICULAR:** 
+40 Hora/aula e Hora/relógio (60 min)
 
-Educação Inclusiva **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-40 Hora/aula e Hora/relógio (60 min) 
+Conceitos e paradigmas históricos da Educação Especial e das propostas de Educação Inclusiva: Políticas Públicas de Educação no cenário internacional e nacional. A educação especial, o ensino regular e o atendimento educacional especializado a partir da política nacional de educação inclusiva e os projetos políticos pedagógicos. Organização e gestão curricular para a inclusão escolar. Processos educativos na escola de educação inclusiva: experiências em âmbito escolar e não-escolar. Fundamentos e recursos pedagógicos para inclusão: acessibilidade, tecnologia assistiva, desenho universal, atividade de curricularização da extensão articulado ao laboratório Incluir.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA BÁSICA:**
 
-Conceitos e paradigmas históricos da Educação Especial e das propostas de Educação Inclusiva: Políticas Públicas de Educação no cenário internacional e nacional. A educação especial, o ensino regular e o atendimento educacional especializado a partir da política nacional de educação inclusiva e os projetos políticos pedagógicos. Organização e gestão curricular para a inclusão escolar. Processos educativos na escola de educação inclusiva: experiências em âmbito escolar e não-escolar. Fundamentos e recursos pedagógicos para inclusão: acessibilidade, tecnologia assistiva, desenho universal, atividade de curricularização da extensão articulado ao laboratório Incluir. 
+BAPTISTA, Claudio Roberto; JESUS, Denise Meyrelles de.(orgs). **Avanços em políticas de inclusão** . Porto Alegre, RS, Mediação, 2015.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+CUNHA, Eugênio. **Práticas pedagógicas para inclusão e diversidade** . Rio de Janeiro, RJ, Wak, 2013.
 
-BAPTISTA, Claudio Roberto; JESUS, Denise Meyrelles de.(orgs). **Avanços em políticas de inclusão** . Porto Alegre, RS, Mediação, 2015. 
+STAINBACK, Susan; STAINBACK, Willian. **Inclusão, um guia para educadores** . Porto Alegre. RS, Artmed, 1999. Reimpressão 2007.
 
-CUNHA, Eugênio. **Práticas pedagógicas para inclusão e diversidade** . Rio de Janeiro, RJ, Wak, 2013. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-STAINBACK, Susan; STAINBACK, Willian. **Inclusão, um guia para educadores** . Porto Alegre. RS, Artmed, 1999. Reimpressão 2007. 
+GIROTO, Claudia Regina Mosca; POKER, Rosimar Bortolini; OMOTE, Sadao. **As tecnologias nas práticas pedagógicas inclusivas.** Marília, SP, Cultura Acadêmica, 2012. Disponível em: https://www.marilia.unesp.br/Home/Publicacoes/as-tecnologias-nas-praticas_e-book.pdf
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+GOMES, Mário (org). **Construindo as trilhas para a inclusão** . Petrópolis, RJ, Vozes, 2012.
 
-GIROTO, Claudia Regina Mosca; POKER, Rosimar Bortolini; OMOTE, Sadao. **As tecnologias nas práticas pedagógicas inclusivas.** Marília, SP, Cultura Acadêmica, 2012. Disponível em: https://www.marilia.unesp.br/Home/Publicacoes/as-tecnologias-nas-praticas_e-book.pdf 
+JIMÉNEZ, Manuel; OCAÑA, Antonio. **Atenção à diversidade na educação de jovens** . São Paulo, SP, Artmed, 2006.
 
-GOMES, Mário (org). **Construindo as trilhas para a inclusão** . Petrópolis, RJ, Vozes, 2012. 
+69
 
-JIMÉNEZ, Manuel; OCAÑA, Antonio. **Atenção à diversidade na educação de jovens** . São Paulo, SP, Artmed, 2006. 
+INSTITUTOFEDERAL Parana
 
-69 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+MANTOAN, Maria Tereza. **Inclusão escolar** : o que é? Por quê? Como fazer? São Paulo, SP, Moderna, 2003.
 
-Ministerio da Educacao 
+⇜⇝
 
-MANTOAN, Maria Tereza. **Inclusão escolar** : o que é? Por quê? Como fazer? São Paulo, SP, Moderna, 2003. 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Estatística aplicada à Educação **CARGA HORÁRIA:**
 
-## **COMPONENTE CURRICULAR:** 
+40 Hora/aula e Hora/relógio (60 min)
 
-Estatística aplicada à Educação **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-40 Hora/aula e Hora/relógio (60 min) 
+Conceitos básicos. Noções de Estatística Descritiva. Noções de Inferência Estatística: estimação e Teste de Hipótese. Medidas estatísticas. Descrição de dados amostrais: tabelas, gráficos, medidas de posição e variabilidade. Medidas de dispersão. Indicadores Educacionais. Probabilidade e distribuições de probabilidade. Amostragem. Distribuições amostrais. Correlação. Métodos estatísticos aplicados à produção de informações educacionais
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA BÁSICA:**
 
-Conceitos básicos. Noções de Estatística Descritiva. Noções de Inferência Estatística: estimação e Teste de Hipótese. Medidas estatísticas. Descrição de dados amostrais: tabelas, gráficos, medidas de posição e variabilidade. Medidas de dispersão. Indicadores Educacionais. Probabilidade e distribuições de probabilidade. Amostragem. Distribuições amostrais. Correlação. Métodos estatísticos aplicados à produção de informações educacionais 
+TOLEDO, Geraldo Luciano; OVALLE, Ivo Izidoro. **Estatística básica** . 2. ed., São Paulo, SP, Atlas, 1985. 459 p. ISBN 8522417911 (broch.).
 
-## **BIBLIOGRAFIA BÁSICA:** 
+BARBETTA, Pedro Alberto. **Estatística aplicada às ciências sociais** . 7. ed., Florianópolis, SC, UFSC, 2011. 315 p. (Didática). ISBN 9788532803962 (broch.).
 
-TOLEDO, Geraldo Luciano; OVALLE, Ivo Izidoro. **Estatística básica** . 2. ed., São Paulo, SP, Atlas, 1985. 459 p. ISBN 8522417911 (broch.). 
+COSTA, Sérgio Francisco. **Introdução ilustrada à estatística** . 5 ed., São Paulo, SP, Habra, 2013. 399 p. ISBN 9788529404196 (broch.).
 
-BARBETTA, Pedro Alberto. **Estatística aplicada às ciências sociais** . 7. ed., Florianópolis, SC, UFSC, 2011. 315 p. (Didática). ISBN 9788532803962 (broch.). 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-COSTA, Sérgio Francisco. **Introdução ilustrada à estatística** . 5 ed., São Paulo, SP, Habra, 2013. 399 p. ISBN 9788529404196 (broch.). 
+CAMPOS, Celso Ribeiro; WODEWOTZKI, Maria Lúcia Lorenzetti; JACOBINI, Otávio Roberto. **Educação estatística** : teoria e prática em ambientes de modelagem matemática. 2. ed., Belo Horizonte, MG, Autêntica, 2013. 143p. (Coleção Tendências em Educação Matemática.).
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+CASTANHEIRA, Nelson Pereira. **Estatística aplicada a todos os níveis** . Curitiba, PR, Ibpex, 2004. 312 p. ISBN 8587053710 (broch.).
 
-CAMPOS, Celso Ribeiro; WODEWOTZKI, Maria Lúcia Lorenzetti; JACOBINI, Otávio Roberto. **Educação estatística** : teoria e prática em ambientes de modelagem matemática. 2. ed., Belo Horizonte, MG, Autêntica, 2013. 143p. (Coleção Tendências em Educação Matemática.). 
+MORETTIN, Luiz Gonzaga. **Estatística básica** : probabilidade e inferência. São Paulo, SP, Pearson Prentice Hall, 2010. 375 p. ISBN 9788576053705 (broch.).
 
-CASTANHEIRA, Nelson Pereira. **Estatística aplicada a todos os níveis** . Curitiba, PR, Ibpex, 2004. 312 p. ISBN 8587053710 (broch.). 
+TRIOLA, Mario. **Introdução à estatística** . 12. ed., Rio de Janeiro, RJ, LTC, 2017. 812 p. ISBN 9788521633747 (broch.).
 
-MORETTIN, Luiz Gonzaga. **Estatística básica** : probabilidade e inferência. São Paulo, SP, Pearson Prentice Hall, 2010. 375 p. ISBN 9788576053705 (broch.). 
+70
 
-TRIOLA, Mario. **Introdução à estatística** . 12. ed., Rio de Janeiro, RJ, LTC, 2017. 812 p. ISBN 9788521633747 (broch.). 
+INSTITUTOFEDERAL Parana
 
-70 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+⇜⇝
 
-Ministerio da Educacao 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Organização do Trabalho Pedagógico
 
-## **COMPONENTE CURRICULAR:** 
+## **CARGA HORÁRIA:**
 
-Organização do Trabalho Pedagógico 
+40 Hora/aula e Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-40 Hora/aula e Hora/relógio (60 min) 
+A natureza e a especificidade do trabalho pedagógico na escola de tempo regular e tempo integral. Mecanismos de ação coletiva no interior da escola: conselho de classe; associação de pais; grêmio estudantil; conselho de escola; reunião pedagógica e de pais, entre outros. Diferentes formas de organização do ensino: ciclos e séries; organização curricular por temas, projetos, complexos temáticos e disciplinas. A Ética do trabalho pedagógico. A educação integral.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA  BÁSICA:**
 
-A natureza e a especificidade do trabalho pedagógico na escola de tempo regular e tempo integral. Mecanismos de ação coletiva no interior da escola: conselho de classe; associação de pais; grêmio estudantil; conselho de escola; reunião pedagógica e de pais, entre outros. Diferentes formas de organização do ensino: ciclos e séries; organização curricular por temas, projetos, complexos temáticos e disciplinas. A Ética do trabalho pedagógico. A educação integral. 
+FREITAS, Luiz Carlos de. **Crítica da organização do trabalho pedagógico e da didática** . 11. ed., Campinas, SP, Papirus, 2012. 288 p. (Coleção magistério: formação e trabalho pedagógico). Disponível no reposítório da UNICAMP http://repositorio.unicamp.br/handle/REPOSIP/251604
 
-## **BIBLIOGRAFIA  BÁSICA:** 
+VASCONCELLOS, Celso dos Santos. **Coordenação do trabalho pedagógico** : do projeto político-pedagógico ao cotidiano da sala de aula. 12. ed., São Paulo, SP, Libertad, 2009. 213 p.
 
-FREITAS, Luiz Carlos de. **Crítica da organização do trabalho pedagógico e da didática** . 11. ed., Campinas, SP, Papirus, 2012. 288 p. (Coleção magistério: formação e trabalho pedagógico). Disponível no reposítório da UNICAMP http://repositorio.unicamp.br/handle/REPOSIP/251604 
+VEIGA, Ilma Passos Alencastro; RESENDE, Lúcia Maria Gonçalves de (org.). **Escola** : espaço do projeto político-pedagógico. 17. ed., Campinas, SP, Papirus; 2013. 200 p. ISBN 9788530805326 (broch.).
 
-VASCONCELLOS, Celso dos Santos. **Coordenação do trabalho pedagógico** : do projeto político-pedagógico ao cotidiano da sala de aula. 12. ed., São Paulo, SP, Libertad, 2009. 213 p. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-VEIGA, Ilma Passos Alencastro; RESENDE, Lúcia Maria Gonçalves de (org.). **Escola** : espaço do projeto político-pedagógico. 17. ed., Campinas, SP, Papirus; 2013. 200 p. ISBN 9788530805326 (broch.). 
+FREIRE, Paulo. **Educação como prática da liberdade** . 15. ed., São Paulo, SP, Paz e Terra, 2013. 189 p. ISBN 9788577531653 (broch.).
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+GERALDI, Corinta Maria Grisolia; RIOLFI, Claudia Rosa; GARCIA, Maria de Fátima (Org.). **Escola viva** : elementos para a construção de uma educação de qualidade social . 1. ed., Campinas, SP, Mercado de Letras, 2004. 392 p. ISBN 8575910388 (broch.).
 
-FREIRE, Paulo. **Educação como prática da liberdade** . 15. ed., São Paulo, SP, Paz e Terra, 2013. 189 p. ISBN 9788577531653 (broch.). 
+LAVAL, Christian. **A escola não é uma empresa** : o neoliberalismo em ataque ao ensino público. Londrina, PR, Planta, 2004. 324 p. ISBN 8590200248 (broch.).
 
-GERALDI, Corinta Maria Grisolia; RIOLFI, Claudia Rosa; GARCIA, Maria de Fátima (Org.). **Escola viva** : elementos para a construção de uma educação de qualidade social . 1. ed., Campinas, SP, Mercado de Letras, 2004. 392 p. ISBN 8575910388 (broch.). 
+71
 
-LAVAL, Christian. **A escola não é uma empresa** : o neoliberalismo em ataque ao ensino público. Londrina, PR, Planta, 2004. 324 p. ISBN 8590200248 (broch.). 
+INSTITUTOFEDERAL Parana
 
-71 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+VEIGA, Ilma Passos Alencastro. **Educação Básica e Educação Superior** : projeto políticopedagógico. 6. ed., Papirus, 2004. 244 ISBN 8530807634.
 
-Ministerio da Educacao 
+⇜⇝
 
-VEIGA, Ilma Passos Alencastro. **Educação Básica e Educação Superior** : projeto políticopedagógico. 6. ed., Papirus, 2004. 244 ISBN 8530807634. 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Educação e Direitos Humanos **CARGA HORÁRIA:** 40 Hora/aula e Hora/relógio (60 min)
 
-## **COMPONENTE CURRICULAR:** 
+## **EMENTA:**
 
-Educação e Direitos Humanos **CARGA HORÁRIA:** 40 Hora/aula e Hora/relógio (60 min) 
+Noções de direito, democracia, ética, cidadania e direitos humanos. Fundamentação e gerações dos Direitos Humanos. Declaração Universal dos Direitos Humanos. Direitos da criança e do adolescente. Programa Nacional de Direitos Humanos. Estado, Sociedade e Políticas Públicas. Os direitos humanos e as políticas públicas. Movimentos Sociais: atores sociais, participação e governabilidade. Elementos éticos e políticos para análise e intervenção nas práticas educativas. Ética e Cidadania. Proteção dos direitos da pessoa com transtorno do espectro autista. Gênero e direitos, atividade de curricularização da extensão.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA BÁSICA:**
 
-Noções de direito, democracia, ética, cidadania e direitos humanos. Fundamentação e gerações dos Direitos Humanos. Declaração Universal dos Direitos Humanos. Direitos da criança e do adolescente. Programa Nacional de Direitos Humanos. Estado, Sociedade e Políticas Públicas. Os direitos humanos e as políticas públicas. Movimentos Sociais: atores sociais, participação e governabilidade. Elementos éticos e políticos para análise e intervenção nas práticas educativas. Ética e Cidadania. Proteção dos direitos da pessoa com transtorno do espectro autista. Gênero e direitos, atividade de curricularização da extensão. 
+COMPARATO, Fábio Konder. **A afirmação histórica dos direitos humanos** . 10. ed., São Paulo, SP, Saraiva, 2015. 619p. ISBN 9788502627369 (broch.).
 
-## **BIBLIOGRAFIA BÁSICA:** 
+DOTTI, René Ariel. **Declaração universal dos direitos do homem e notas da legislação brasileira** . 2. ed., Curitiba, PR, JM, 1999. 127 p.
 
-COMPARATO, Fábio Konder. **A afirmação histórica dos direitos humanos** . 10. ed., São Paulo, SP, Saraiva, 2015. 619p. ISBN 9788502627369 (broch.). 
+WEIS, Carlos. **Direitos humanos contemporâneos** . 3. ed., rev. e aum. São Paulo, SP, Malheiros, 2014. 224 p. ISBN 9788539202508 (broch.)
 
-DOTTI, René Ariel. **Declaração universal dos direitos do homem e notas da legislação brasileira** . 2. ed., Curitiba, PR, JM, 1999. 127 p. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-WEIS, Carlos. **Direitos humanos contemporâneos** . 3. ed., rev. e aum. São Paulo, SP, Malheiros, 2014. 224 p. ISBN 9788539202508 (broch.) 
+BRASIL. Secretaria de Direitos Humanos. **Caderno de educação em direitos humanos** : educação em direitos humanos: diretrizes nacionais. Brasília, DF, Coordenação Geral de Educação em Direitos Humanos, Secretaria Nacional de Promoção e Defesa dos Direitos Humanos, 2013. 72 p.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+MAGNOLI, Demétrio (org.). **História da paz** . São Paulo, SP, Contexto, 2008. ISBN 9788572443968.
 
-BRASIL. Secretaria de Direitos Humanos. **Caderno de educação em direitos humanos** : educação em direitos humanos: diretrizes nacionais. Brasília, DF, Coordenação Geral de Educação em Direitos Humanos, Secretaria Nacional de Promoção e Defesa dos Direitos Humanos, 2013. 72 p. 
+72
 
-MAGNOLI, Demétrio (org.). **História da paz** . São Paulo, SP, Contexto, 2008. ISBN 9788572443968. 
+INSTITUTOFEDERAL Parana
 
-72 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+VIEIRA, José Carlos. **Democracia e direitos humanos no Brasil** . São Paulo, SP, Loyola, 2005. ISBN 8515029227 (broch.).
 
-Ministerio da Educacao 
+ZAINKO, Maria Amélia Sabbag (org.). **Cidades educadoras** . Curitiba, PR, Editora da UFPR, 1997.
 
-VIEIRA, José Carlos. **Democracia e direitos humanos no Brasil** . São Paulo, SP, Loyola, 2005. ISBN 8515029227 (broch.). 
+⇜⇝
 
-ZAINKO, Maria Amélia Sabbag (org.). **Cidades educadoras** . Curitiba, PR, Editora da UFPR, 1997. 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Educação, Comunicação e Tecnologia **CARGA HORÁRIA** : 80 Hora/aula e Hora/relógio (60 min) **EMENTA:**
 
-## **COMPONENTE CURRICULAR:** 
+Educação, comunicação e tecnologia: dimensões conceituais. Leitura crítica dos meios de comunicação de massa e sua linguagem na cultura digital. Articulações das mídias e tecnologias em contextos formativos. Tecnologias de informação e comunicação como recurso didáticopedagógico para a educação presencial, educação a distância, educação _on-line_ e educação híbrida.
 
-Educação, Comunicação e Tecnologia **CARGA HORÁRIA** : 80 Hora/aula e Hora/relógio (60 min) **EMENTA:** 
+## **BIBLIOGRAFIA  BÁSICA:**
 
-Educação, comunicação e tecnologia: dimensões conceituais. Leitura crítica dos meios de comunicação de massa e sua linguagem na cultura digital. Articulações das mídias e tecnologias em contextos formativos. Tecnologias de informação e comunicação como recurso didáticopedagógico para a educação presencial, educação a distância, educação _on-line_ e educação híbrida. 
+CASTELLS, Manuel. **A sociedade em rede** . 17. ed., rev. e amp.. Tradução de Roneide Venâncio Majer. São Paulo, SP, Paz e Terra, 2016. (A era da informação: economia, sociedade e cultura; v.1) 632p.
 
-## **BIBLIOGRAFIA  BÁSICA:** 
+MARTIN-BARBERO, Jesús: **A comunicação na educação** . São Paulo, SP, Contexto, 2014. (online e-book Pearson).
 
-CASTELLS, Manuel. **A sociedade em rede** . 17. ed., rev. e amp.. Tradução de Roneide Venâncio Majer. São Paulo, SP, Paz e Terra, 2016. (A era da informação: economia, sociedade e cultura; v.1) 632p. 
+SANTAELLA, Lúcia. **Comunicação Ubíqua** : repercussões na cultura e na educação. São Paulo, SP, Paulus, 2013.
 
-MARTIN-BARBERO, Jesús: **A comunicação na educação** . São Paulo, SP, Contexto, 2014. (online e-book Pearson). 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-SANTAELLA, Lúcia. **Comunicação Ubíqua** : repercussões na cultura e na educação. São Paulo, SP, Paulus, 2013. 
+CASTELLS, Manuel. **O poder da Comunicação** . 1. ed., Tradução de Vera Lúcia Mello Joscelyne. Rio de Janeiro, RJ, Paz e Terra, 2015. 630p.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+BUCKINGHAM, David. **Crescer na era das mídias eletrônicas** . São Paulo, SP, Edições Loyola, 2007. 301 p. ISBN 9788515032693 (broch.).
 
-CASTELLS, Manuel. **O poder da Comunicação** . 1. ed., Tradução de Vera Lúcia Mello Joscelyne. Rio de Janeiro, RJ, Paz e Terra, 2015. 630p. 
+MARTÍN-BARBERO, Jesús. **Dos meios às mediações** : comunicação, cultura e hegemonia. 7. ed., Rio de Janeiro, RJ, Editora da UFRJ, 2013. 356 p. ISBN 9788571082083 (broch.).
 
-BUCKINGHAM, David. **Crescer na era das mídias eletrônicas** . São Paulo, SP, Edições Loyola, 2007. 301 p. ISBN 9788515032693 (broch.). 
+73
 
-MARTÍN-BARBERO, Jesús. **Dos meios às mediações** : comunicação, cultura e hegemonia. 7. ed., Rio de Janeiro, RJ, Editora da UFRJ, 2013. 356 p. ISBN 9788571082083 (broch.). 
+INSTITUTOFEDERAL Parana
 
-73 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+LÉVY, Pierre. **Cibercultura** . 3. ed., São Paulo, SP, Editora 34, 2010.
 
-Ministerio da Educacao 
+⇜⇝
 
-LÉVY, Pierre. **Cibercultura** . 3. ed., São Paulo, SP, Editora 34, 2010. 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Prática Pedagógica de História **CARGA HORÁRIA:**
 
-## **COMPONENTE CURRICULAR:** 
+80 Hora/aula e Hora/relógio (60 min)
 
-Prática Pedagógica de História **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-80 Hora/aula e Hora/relógio (60 min) 
+Historicização das diferentes concepções de História. Explicitação e compreensão dos pressupostos teórico-metodológicos para uma leitura crítica do ensino de História. Análise e seleção para organização dos conteúdos da educação infantil e das séries iniciais do Ensino Fundamental. Avaliação em História. História, Inclusão e Diversidade. Análise crítica de materiais didáticos (livros didáticos e paradidáticos, jogos, textos científicos e literários)
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA BÁSICA:**
 
-Historicização das diferentes concepções de História. Explicitação e compreensão dos pressupostos teórico-metodológicos para uma leitura crítica do ensino de História. Análise e seleção para organização dos conteúdos da educação infantil e das séries iniciais do Ensino Fundamental. Avaliação em História. História, Inclusão e Diversidade. Análise crítica de materiais didáticos (livros didáticos e paradidáticos, jogos, textos científicos e literários) 
+ASHBY, Rosalyn. Desenvolvendo um conceito de evidência histórica: as idéias dos estudantes sobre testar afirmações factuais singulares. In. SCHMIDT, Maria Auxiliadora; BRAGA, Tânia Mara Figueiredo, **Educar em Revista** . Dossiê Educação Histórica. Curitiba, PR, Editora da UFPR, 2006.  p. 151-170. https://revistas.ufpr.br/educar/article/view/5542/4056
 
-## **BIBLIOGRAFIA BÁSICA:** 
+BITTENCOURT, Circe (org.) **Ensino de História** : fundamentos e métodos. São Paulo: Cortez, 2004. LC (NOVO)
 
-ASHBY, Rosalyn. Desenvolvendo um conceito de evidência histórica: as idéias dos estudantes sobre testar afirmações factuais singulares. In. SCHMIDT, Maria Auxiliadora; BRAGA, Tânia Mara Figueiredo, **Educar em Revista** . Dossiê Educação Histórica. Curitiba, PR, Editora da UFPR, 2006.  p. 151-170. https://revistas.ufpr.br/educar/article/view/5542/4056 
+FONSECA, Selva Guimarães. **Didática e prática de ensino de história** : experiências, reflexões e aprendizados. 9.ed., Campinas, SP, Papirus, 2009. 255 p. (Coleção Magistério). ISBN 8530807065.
 
-BITTENCOURT, Circe (org.) **Ensino de História** : fundamentos e métodos. São Paulo: Cortez, 2004. LC (NOVO) 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-FONSECA, Selva Guimarães. **Didática e prática de ensino de história** : experiências, reflexões e aprendizados. 9.ed., Campinas, SP, Papirus, 2009. 255 p. (Coleção Magistério). ISBN 8530807065. 
+BITTENCOURT, Circe (org.) **O saber histórico na sala de aula** . São Paulo, SP, Contexto, 1997.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+COOPER, H. Aprendendo e ensinando sobre o passado a crianças de três a oito anos. **Educar em Revista.** Curitiba, PR, Especial, p. 171-190, 2006. Editora UFPR. Disponível em http://www.scielo.br/pdf/er/nspe/nspea10.pdf (acesso em 14/04/2020)
 
-BITTENCOURT, Circe (org.) **O saber histórico na sala de aula** . São Paulo, SP, Contexto, 1997. 
+74
 
-COOPER, H. Aprendendo e ensinando sobre o passado a crianças de três a oito anos. **Educar em Revista.** Curitiba, PR, Especial, p. 171-190, 2006. Editora UFPR. Disponível em http://www.scielo.br/pdf/er/nspe/nspea10.pdf (acesso em 14/04/2020) 
+INSTITUTOFEDERAL Parana
 
-74 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+OLIVEIRA, Andressa Garcia Pinheiro. **Aprendizagem histórica na educação infantil possibilidades e perspectivas da educação histórica** . Dissertação (Mestrado em Educação) - Universidade Federal do Paraná, Curitiba, PR, 2013.
 
-Ministerio da Educacao 
+PINTO, Julio Pimentel; TURAZZI, Maria Inez. **Ensino de história** : diálogos com a literatura e fotografia. São Paulo, SP, Moderna, 2012. 176 p. (Coleção Cotidiano escolar: ação docente). ISBN 9788516082437 (broch.)
 
-OLIVEIRA, Andressa Garcia Pinheiro. **Aprendizagem histórica na educação infantil possibilidades e perspectivas da educação histórica** . Dissertação (Mestrado em Educação) - Universidade Federal do Paraná, Curitiba, PR, 2013. 
+## ⇜⇝
 
-PINTO, Julio Pimentel; TURAZZI, Maria Inez. **Ensino de história** : diálogos com a literatura e fotografia. São Paulo, SP, Moderna, 2012. 176 p. (Coleção Cotidiano escolar: ação docente). ISBN 9788516082437 (broch.) 
+## **COMPONENTE CURRICULAR:**
 
-## ⇜⇝ 
+Estágio IV – Formação Docente **CARGA HORÁRIA:**
 
-## **COMPONENTE CURRICULAR:** 
+80 Hora/aula e Hora/relógio (60 min)
 
-Estágio IV – Formação Docente **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-80 Hora/aula e Hora/relógio (60 min) 
+Análise das políticas educacionais do curso de formação de professores em nível médio; organização histórica, legal e curricular do curso de formação de professores em nível médio; aspectos teórico-metodológicos no planejamento de aulas das disciplinas pedagógicas, da docência no ensino médio; pesquisa e planejamento de docência: plano de aula e oficinas.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA BÁSICA:**
 
-Análise das políticas educacionais do curso de formação de professores em nível médio; organização histórica, legal e curricular do curso de formação de professores em nível médio; aspectos teórico-metodológicos no planejamento de aulas das disciplinas pedagógicas, da docência no ensino médio; pesquisa e planejamento de docência: plano de aula e oficinas. 
+KUPFER, Maria Cristina Machado. **Educação para o futuro** : psicanálise e educação. 4. ed., São Paulo, SP, Escuta, 2013. 157 p. ISBN 857137158X (broch.).
 
-## **BIBLIOGRAFIA BÁSICA:** 
+SAMPAIO, Simaia. **Dificuldades de aprendizagem** : a psicopedagogia na relação sujeito, família e escola . 3. ed., Rio de Janeiro, RJ,  Wak, 2011. 140 p. ISBN 9788578540258.
 
-KUPFER, Maria Cristina Machado. **Educação para o futuro** : psicanálise e educação. 4. ed., São Paulo, SP, Escuta, 2013. 157 p. ISBN 857137158X (broch.). 
+PICONEZ, Stela Bertholo (Coord.). **A prática de ensino e o estágio supervisionado** . 24. ed., Campinas,SP, Papirus, 2012. 128 p. (Coleção magistério : formação e trabalho pedagógico). ISBN 9788530801595 (broch.).
 
-SAMPAIO, Simaia. **Dificuldades de aprendizagem** : a psicopedagogia na relação sujeito, família e escola . 3. ed., Rio de Janeiro, RJ,  Wak, 2011. 140 p. ISBN 9788578540258. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-PICONEZ, Stela Bertholo (Coord.). **A prática de ensino e o estágio supervisionado** . 24. ed., Campinas,SP, Papirus, 2012. 128 p. (Coleção magistério : formação e trabalho pedagógico). ISBN 9788530801595 (broch.). 
+GOERGEN, Pedro Laudinor; SAVIANI, Dermeval (Org.). **Formação de professores** : a experiência internacional sob o olhar brasileiro. Campinas, SP, Autores Associados, 1998. 300 p. ISBN 8585701625 (broch.).
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+FURLANI, Lúcia Maria Teixeira. **Autoridade do professor** : meta, mito ou nada disso? 9. ed., São Paulo, SP, Cortez, 1988. v.45 ((Questões da nossa época) ; 45). ISBN 9788524919312 (broch.).
 
-GOERGEN, Pedro Laudinor; SAVIANI, Dermeval (Org.). **Formação de professores** : a experiência internacional sob o olhar brasileiro. Campinas, SP, Autores Associados, 1998. 300 p. ISBN 8585701625 (broch.). 
+75
 
-FURLANI, Lúcia Maria Teixeira. **Autoridade do professor** : meta, mito ou nada disso? 9. ed., São Paulo, SP, Cortez, 1988. v.45 ((Questões da nossa época) ; 45). ISBN 9788524919312 (broch.). 
+INSTITUTOFEDERAL Parana
 
-75 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+VEIGA, Ilma Passos Alencastro. **A aventura de formar professores** . Campinas, SP, Papirus, 2009. 100 ISBN 9788530808952.
 
-Ministerio da Educacao 
+VEIGA, Ilma Passos Alencastro (org.). **Desmistificando a profissionalização do magistério** . Campinas, SP, Papirus, 1999. 264p (Magistério: formação e trabalho pedagógico;). ISBN 8530805682 (broch.).
 
-VEIGA, Ilma Passos Alencastro. **A aventura de formar professores** . Campinas, SP, Papirus, 2009. 100 ISBN 9788530808952. 
+⇜⇝
 
-VEIGA, Ilma Passos Alencastro (org.). **Desmistificando a profissionalização do magistério** . Campinas, SP, Papirus, 1999. 264p (Magistério: formação e trabalho pedagógico;). ISBN 8530805682 (broch.). 
+## **6º Semestre**
 
-⇜⇝ 
+## **COMPONENTE CURRICULAR:**
 
-## **6º Semestre** 
+Gestão Educacional **CARGA HORÁRIA:**
 
-## **COMPONENTE CURRICULAR:** 
+80 Hora/aula e Hora/relógio (60 min) **EMENTA:**
 
-Gestão Educacional **CARGA HORÁRIA:** 
+Teorias da Administração Escolar no Brasil; Apropriação dos principais métodos da administração empresarial pela administração escolar; crítica à apropriação dos métodos da administração empresarial pela administração escolar. Gestão democrática, gestão compartilhada e gestão de qualidade total. A Ética na gestão. A gestão da escola regular e em tempo integral.
 
-80 Hora/aula e Hora/relógio (60 min) **EMENTA:** 
+## **BIBLIOGRAFIA  BÁSICA:**
 
-Teorias da Administração Escolar no Brasil; Apropriação dos principais métodos da administração empresarial pela administração escolar; crítica à apropriação dos métodos da administração empresarial pela administração escolar. Gestão democrática, gestão compartilhada e gestão de qualidade total. A Ética na gestão. A gestão da escola regular e em tempo integral. 
+LIBÂNEO, José Carlos; OLIVEIRA, João Ferreira de; TOSCHI, Mirza Seabra. **Educação escolar** : políticas, estrutura e organização. 10. ed., rev. e amp. São Paulo, SP, Cortez, 2012. 543 p. (Docência em formação : saberes pedagógicos). ISBN 9788524918605 (broch.).
 
-## **BIBLIOGRAFIA  BÁSICA:** 
+LÜCK, Heloísa. **Concepções e processos democráticos de gestão educaciona** l. 7. ed., Petrópolis, RJ, Vozes, 2006. 132 p. (Série cadernos de gestão ; 2). ISBN 9788532632944 (broch.).
 
-LIBÂNEO, José Carlos; OLIVEIRA, João Ferreira de; TOSCHI, Mirza Seabra. **Educação escolar** : políticas, estrutura e organização. 10. ed., rev. e amp. São Paulo, SP, Cortez, 2012. 543 p. (Docência em formação : saberes pedagógicos). ISBN 9788524918605 (broch.). 
+PARO, Vitor Henrique. **Administração escolar** : introdução crítica. 17. ed., rev. e amp. São Paulo, SP, Cortez, 2012. 232 p. ISBN 9788524919541 (broch.).
 
-LÜCK, Heloísa. **Concepções e processos democráticos de gestão educaciona** l. 7. ed., Petrópolis, RJ, Vozes, 2006. 132 p. (Série cadernos de gestão ; 2). ISBN 9788532632944 (broch.). 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-PARO, Vitor Henrique. **Administração escolar** : introdução crítica. 17. ed., rev. e amp. São Paulo, SP, Cortez, 2012. 232 p. ISBN 9788524919541 (broch.). 
+PARO, Vitor Henrique. **Gestão escolar, democracia e qualidade do ensino** . São Paulo, SP, Ática, 2007. (Educação em ação). ISBN 9788508108688.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+76
 
-PARO, Vitor Henrique. **Gestão escolar, democracia e qualidade do ensino** . São Paulo, SP, Ática, 2007. (Educação em ação). ISBN 9788508108688. 
+## INSTITUTOFEDERAL Parana
 
-76 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+RIBEIRO, Maria Luísa Santos. **História da educação brasileira** : a organização escolar. 15. ed., rev. amp. Campinas, SP, Autores Associados, 1998. 207 p. (Coleção memória da educação). ISBN 8585701102.
 
-Ministerio da Educacao 
+OLIVEIRA, Maria Auxiliadora Monteiro (coautor). **Gestão educacional** : novos olhares, novas abordagens. 10. ed., Petrópolis, RJ, Vozes, 2012. ISBN 9788532630940.
 
-RIBEIRO, Maria Luísa Santos. **História da educação brasileira** : a organização escolar. 15. ed., rev. amp. Campinas, SP, Autores Associados, 1998. 207 p. (Coleção memória da educação). ISBN 8585701102. 
+VASCONCELLOS, Celso dos Santos. **Planejamento** : projeto de ensino-aprendizagem e projeto político-pedagógico – elementos metodológicos para elaboração e realização. 22. ed.,  São Paulo, SP, Libertad Editora, 2012 – (Cadernos Pedagógicos do Libertad).
 
-OLIVEIRA, Maria Auxiliadora Monteiro (coautor). **Gestão educacional** : novos olhares, novas abordagens. 10. ed., Petrópolis, RJ, Vozes, 2012. ISBN 9788532630940. 
+⇜⇝
 
-VASCONCELLOS, Celso dos Santos. **Planejamento** : projeto de ensino-aprendizagem e projeto político-pedagógico – elementos metodológicos para elaboração e realização. 22. ed.,  São Paulo, SP, Libertad Editora, 2012 – (Cadernos Pedagógicos do Libertad). 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Escola e Currículo **CARGA HORÁRIA:**
 
-## **COMPONENTE CURRICULAR:** 
+80 Hora/aula e Hora/relógio (60 min)
 
-Escola e Currículo **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-80 Hora/aula e Hora/relógio (60 min) 
+Paradigmas curriculares. As tendências tradicionais e críticas da escola e sua relação com o currículo. Processo de planejamento, estruturação e avaliação curricular por meio do projeto político pedagógico. Relações com o planejamento e a prática pedagógica. Tendências curriculares atuais, a educação para o trânsito.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA  BÁSICA:**
 
-Paradigmas curriculares. As tendências tradicionais e críticas da escola e sua relação com o currículo. Processo de planejamento, estruturação e avaliação curricular por meio do projeto político pedagógico. Relações com o planejamento e a prática pedagógica. Tendências curriculares atuais, a educação para o trânsito. 
+SACRISTÁN, José Gimeno. **O currículo** : uma reflexão sobre a prática. 3. ed., Porto Alegre, RS, Artmed, 2000. 352 p. (Biblioteca Artmed. Fundamentos da educação). ISBN 9788573073768 (broch.).
 
-## **BIBLIOGRAFIA  BÁSICA:** 
+SACRISTÁN, José Gimeno; GÓMEZ, Angel  Pérez. **Compreender e transformar o ensino** . 4. ed., Porto Alegre, RS, Artmed, 1998. 396 p. (Biblioteca Artmed : Epistemologia Genética/Teoria Piagetiana). ISBN 9788573073744 (broch.).
 
-SACRISTÁN, José Gimeno. **O currículo** : uma reflexão sobre a prática. 3. ed., Porto Alegre, RS, Artmed, 2000. 352 p. (Biblioteca Artmed. Fundamentos da educação). ISBN 9788573073768 (broch.). 
+RIBEIRO, Maria Luísa Santos. **Educação escolar** : que prática é essa? Campinas, SP, Autores Associados, 2001. 55 p. (Coleção Polêmicas do Nosso Tempo). ISBN 9788574960314 (broch.).
 
-SACRISTÁN, José Gimeno; GÓMEZ, Angel  Pérez. **Compreender e transformar o ensino** . 4. ed., Porto Alegre, RS, Artmed, 1998. 396 p. (Biblioteca Artmed : Epistemologia Genética/Teoria Piagetiana). ISBN 9788573073744 (broch.). 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-RIBEIRO, Maria Luísa Santos. **Educação escolar** : que prática é essa? Campinas, SP, Autores Associados, 2001. 55 p. (Coleção Polêmicas do Nosso Tempo). ISBN 9788574960314 (broch.). 
+SOUZA, Rosa Fátima De. **História da organização do trabalho escolar e do currículo no século XX** : ensino primário e secundário no Brasil. São Paulo, SP, Cortez, 2008. 319 p. (Biblioteca básica da história da educação brasileira). ISBN 9788524914164 (broch.).
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+77
 
-SOUZA, Rosa Fátima De. **História da organização do trabalho escolar e do currículo no século XX** : ensino primário e secundário no Brasil. São Paulo, SP, Cortez, 2008. 319 p. (Biblioteca básica da história da educação brasileira). ISBN 9788524914164 (broch.). 
+INSTITUTOFEDERAL Parana
 
-77 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+BARROSO, João. **Cultura, Cultura Escolar, Cultura da Escola** . Unesp, 2012. Disponível em: https://acervodigital.unesp.br/bitstream/123456789/65262/1/u1_d26_v1_t06.pdf . Acesso em 09 fev.. 2023.
 
-Ministerio da Educacao 
+SACRISTÁN, José Gimeno (org.). **Saberes e incertezas sobre o currículo** . Porto Alegre, RS, Penso, 2013. 542 p. ISBN 9788565848442 (broch.).
 
-BARROSO, João. **Cultura, Cultura Escolar, Cultura da Escola** . Unesp, 2012. Disponível em: https://acervodigital.unesp.br/bitstream/123456789/65262/1/u1_d26_v1_t06.pdf . Acesso em 09 fev.. 2023. 
+MOREIRA, Marco A.; BUCHWEITZ, Bernardo. **Mapas conceituais** : instrumentos didáticos, de avaliação e de análise de currículo. São Paulo, SP, Moraes, 1987. 83 p.
 
-SACRISTÁN, José Gimeno (org.). **Saberes e incertezas sobre o currículo** . Porto Alegre, RS, Penso, 2013. 542 p. ISBN 9788565848442 (broch.). 
+## ⇜⇝
 
-MOREIRA, Marco A.; BUCHWEITZ, Bernardo. **Mapas conceituais** : instrumentos didáticos, de avaliação e de análise de currículo. São Paulo, SP, Moraes, 1987. 83 p. 
+## **COMPONENTE CURRICULAR:**
 
-## ⇜⇝ 
+Prática Pedagógica de Geografia **CARGA HORÁRIA:**
 
-## **COMPONENTE CURRICULAR:** 
+80 Hora/aula e Hora/relógio (60 min)
 
-Prática Pedagógica de Geografia **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-80 Hora/aula e Hora/relógio (60 min) 
+Histórico da construção do pensamento científico e pedagógico da Geografia. As diferentes vertentes teórico-filosóficas da Geografia: Clássica, Teorético-Quantitativa, Crítica, Socioambiental e Cultural. O Currículo e o ensino de Geografia nos Anos Iniciais do Ensino Fundamental e na Educação Infantil: espaço geográfico, configuração da paisagem, alfabetização cartográfica. A organização do planejamento e sistematização do ensino: organização dos conteúdos, encaminhamento metodológico e processo avaliativo. Uso das Tecnologias para o ensino da Geografia. Geografia, Inclusão e Diversidade.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA  BÁSICA:**
 
-Histórico da construção do pensamento científico e pedagógico da Geografia. As diferentes vertentes teórico-filosóficas da Geografia: Clássica, Teorético-Quantitativa, Crítica, Socioambiental e Cultural. O Currículo e o ensino de Geografia nos Anos Iniciais do Ensino Fundamental e na Educação Infantil: espaço geográfico, configuração da paisagem, alfabetização cartográfica. A organização do planejamento e sistematização do ensino: organização dos conteúdos, encaminhamento metodológico e processo avaliativo. Uso das Tecnologias para o ensino da Geografia. Geografia, Inclusão e Diversidade. 
+ALMEIDA, Rosângela. **Do desenho ao mapa** : iniciação cartográfica na escola. 5. ed., São Paulo, SP, Contexto, 2013. 115 p. (Caminhos da Geografia). ISBN 9788572441704 (broch.).
 
-## **BIBLIOGRAFIA  BÁSICA:** 
+CARLOS, Ana Fani A. (org.). **A Geografia na sala de aula** . 8. ed., São Paulo, SP, Contexto, 2009. 144 p. (Coleção repensando o ensino). ISBN 9788572441087 (broch.).
 
-ALMEIDA, Rosângela. **Do desenho ao mapa** : iniciação cartográfica na escola. 5. ed., São Paulo, SP, Contexto, 2013. 115 p. (Caminhos da Geografia). ISBN 9788572441704 (broch.). 
+CASTROGIOVANNI, Antonio Carlos. **Ensino de geografia** : práticas e textualizações no cotidiano. 2. ed., Porto Alegre, RS, Mediação, 2017. 143p.
 
-CARLOS, Ana Fani A. (org.). **A Geografia na sala de aula** . 8. ed., São Paulo, SP, Contexto, 2009. 144 p. (Coleção repensando o ensino). ISBN 9788572441087 (broch.). 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-CASTROGIOVANNI, Antonio Carlos. **Ensino de geografia** : práticas e textualizações no cotidiano. 2. ed., Porto Alegre, RS, Mediação, 2017. 143p. 
+ANTUNES, Celso. J **ogos para a estimulação das múltiplas inteligências** . 18. ed., Petrópolis, RJ, Vozes, 2012. 295 p. ISBN 9788532621115 (broch.)..
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+78
 
-ANTUNES, Celso. J **ogos para a estimulação das múltiplas inteligências** . 18. ed., Petrópolis, RJ, Vozes, 2012. 295 p. ISBN 9788532621115 (broch.).. 
+INSTITUTOFEDERAL Parana
 
-78 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+CAVALCANTI, Lana de Souza. **A geografia escolar e a cidade** : Ensaios sobre o ensino de geografia para a vida urbana cotidiana. Campinas, SP, Papirus, 2012. ISBN 9788544900819.
 
-Ministerio da Educacao 
+FANTIN, Maria Eneida; TAUSCHECK, Neusa Maria. **Metodologia do ensino de geografia.** 2.ed., Curitiba, PR, Ibpex, 2010. 191 p. ISBN 9788578385699 (broch.).
 
-CAVALCANTI, Lana de Souza. **A geografia escolar e a cidade** : Ensaios sobre o ensino de geografia para a vida urbana cotidiana. Campinas, SP, Papirus, 2012. ISBN 9788544900819. 
+STEFANELLO, Ana Clarissa. **Didática e avaliação da aprendizagem no ensino de geografia** . São Paulo, SP, Saraiva, 2009. 159 p. (Metodologia do ensino de História e Geografia). ISBN 9788502090705 (broch.).
 
-FANTIN, Maria Eneida; TAUSCHECK, Neusa Maria. **Metodologia do ensino de geografia.** 2.ed., Curitiba, PR, Ibpex, 2010. 191 p. ISBN 9788578385699 (broch.). 
+⇜⇝
 
-STEFANELLO, Ana Clarissa. **Didática e avaliação da aprendizagem no ensino de geografia** . São Paulo, SP, Saraiva, 2009. 159 p. (Metodologia do ensino de História e Geografia). ISBN 9788502090705 (broch.). 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Estágio V – Gestão Educacional **CARGA HORÁRIA:** 80 Hora/aula e Hora/relógio (60 min)
 
-## **COMPONENTE CURRICULAR:** 
+## **EMENTA:**
 
-Estágio V – Gestão Educacional **CARGA HORÁRIA:** 80 Hora/aula e Hora/relógio (60 min) 
+Processos de gestão escolar e sua relação com os determinantes sócio-econômicos, considerando a natureza e a especificidade da organização do trabalho pedagógico escolar. Prática pedagógica do pedagogo nas unidades escolares (Conselho de Classe, reuniões pedagógicas, formação continuada, etc.)
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA BÁSICA:**
 
-Processos de gestão escolar e sua relação com os determinantes sócio-econômicos, considerando a natureza e a especificidade da organização do trabalho pedagógico escolar. Prática pedagógica do pedagogo nas unidades escolares (Conselho de Classe, reuniões pedagógicas, formação continuada, etc.) 
+LIBÂNEO, José Carlos; OLIVEIRA, João Ferreira de; TOSCHI, Mirza Seabra. **Educação escolar** : políticas, estrutura e organização. 10. ed., São Paulo, SP, Cortez, 2012. 543 p. ISBN 9788524918605 (broch.).
 
-## **BIBLIOGRAFIA BÁSICA:** 
+LÜCK, Heloísa. **Concepções e processos democráticos de gestão educacional** . 7. ed., Petrópolis RJ, Vozes, 2006. 132 p. (Série cadernos de gestão ; 2). ISBN 9788532632944 (broch.).
 
-LIBÂNEO, José Carlos; OLIVEIRA, João Ferreira de; TOSCHI, Mirza Seabra. **Educação escolar** : políticas, estrutura e organização. 10. ed., São Paulo, SP, Cortez, 2012. 543 p. ISBN 9788524918605 (broch.). 
+VEIGA, Ilma Passos Alencastro; RESENDE, Lúcia Maria Gonçalves de (org.). **Escola** : espaço do projeto político-pedagógico. São Paulo, SP,  Papirus, 1998. 200 p. (Coleção Magistério). ISBN 8530805321.
 
-LÜCK, Heloísa. **Concepções e processos democráticos de gestão educacional** . 7. ed., Petrópolis RJ, Vozes, 2006. 132 p. (Série cadernos de gestão ; 2). ISBN 9788532632944 (broch.). 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-VEIGA, Ilma Passos Alencastro; RESENDE, Lúcia Maria Gonçalves de (org.). **Escola** : espaço do projeto político-pedagógico. São Paulo, SP,  Papirus, 1998. 200 p. (Coleção Magistério). ISBN 8530805321. 
+MENESES, João Gualberto de Carvalho (org.) **Estrutura e funcionamento da educação básica** . 2. ed., São Paulo, SP, Pioneira Thomson Learning, 1999. 401 p. ISBN 8522100969 (broch.).
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+79
 
-MENESES, João Gualberto de Carvalho (org.) **Estrutura e funcionamento da educação básica** . 2. ed., São Paulo, SP, Pioneira Thomson Learning, 1999. 401 p. ISBN 8522100969 (broch.). 
+INSTITUTOFEDERAL Parana
 
-79 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+OLIVEIRA, Maria Auxiliadora Monteiro (coautor). **Gestão educacional** : Novos olhares, novas abordagens. 10. ed., Petrópolis, RJ, Vozes, 2012. ISBN 9788532630940.
 
-Ministerio da Educacao 
+PARO, Vitor Henrique. **Gestão escolar, democracia e qualidade do ensino** . São Paulo, SP, Ática, 2007. (Educação em ação). ISBN 9788508108688.
 
-OLIVEIRA, Maria Auxiliadora Monteiro (coautor). **Gestão educacional** : Novos olhares, novas abordagens. 10. ed., Petrópolis, RJ, Vozes, 2012. ISBN 9788532630940. 
+PARO, Vitor Henrique. **Gestão democrática da escola pública** . 3. ed., São Paulo, SP, Ática, 2000. 117 p. (Educação em ação). ISBN 9788508065226 (broch.).
 
-PARO, Vitor Henrique. **Gestão escolar, democracia e qualidade do ensino** . São Paulo, SP, Ática, 2007. (Educação em ação). ISBN 9788508108688. 
+⇜⇝
 
-PARO, Vitor Henrique. **Gestão democrática da escola pública** . 3. ed., São Paulo, SP, Ática, 2000. 117 p. (Educação em ação). ISBN 9788508065226 (broch.). 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Projetos Educativos (Atividades Complementares) **CARGA HORÁRIA:** 80 Hora/aula e Hora/relógio (60 min)
 
-## **COMPONENTE CURRICULAR:** 
+## **EMENTA:**
 
-Projetos Educativos (Atividades Complementares) **CARGA HORÁRIA:** 80 Hora/aula e Hora/relógio (60 min) 
+Abordagens teóricas e Interdisciplinares sobre Projetos Educacionais. Planejamento e gestão de projetos educacionais. Metodologia de projetos existentes. As fases de vida de um projeto. Projetos inclusivos. Avaliação de projetos educativos. Diversidade e Inclusão.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA BÁSICA:**
 
-Abordagens teóricas e Interdisciplinares sobre Projetos Educacionais. Planejamento e gestão de projetos educacionais. Metodologia de projetos existentes. As fases de vida de um projeto. Projetos inclusivos. Avaliação de projetos educativos. Diversidade e Inclusão. 
+FONTE, Patricia Lopes da. **Pedagogia de projetos** : ano letivo sem mesmice. Rio de Janeiro, RJ, Wak, 2014. 191 p. ISBN 8578542825 (broch.).
 
-## **BIBLIOGRAFIA BÁSICA:** 
+MICOTTI, Maria Cecília de Oliveira. **Leitura e escrita como aprender com êxito por meio da pedagogia por projetos** . São Paulo, SP, Contexto, 2009. ISBN 9788572444538.
 
-FONTE, Patricia Lopes da. **Pedagogia de projetos** : ano letivo sem mesmice. Rio de Janeiro, RJ, Wak, 2014. 191 p. ISBN 8578542825 (broch.). 
+MOURA, Dácio G.; BARBOSA, Eduardo Fernandes. **Trabalhando com projetos** : planejamento e gestão de projetos educacionais. 6. ed., Petrópolis, SP, Vozes, 2011. 293 p. ISBN 9788532641694 (broch.).
 
-MICOTTI, Maria Cecília de Oliveira. **Leitura e escrita como aprender com êxito por meio da pedagogia por projetos** . São Paulo, SP, Contexto, 2009. ISBN 9788572444538. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-MOURA, Dácio G.; BARBOSA, Eduardo Fernandes. **Trabalhando com projetos** : planejamento e gestão de projetos educacionais. 6. ed., Petrópolis, SP, Vozes, 2011. 293 p. ISBN 9788532641694 (broch.). 
+BEHRENS, Marilda Aparecida. **O paradigma da complexidade** : metodologias de projetos, contratos didáticos e portfólios. Petrópolis, RJ, Vozes, 2008. 135 p. ISBN 9788532632470 (broch.).
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+80
 
-BEHRENS, Marilda Aparecida. **O paradigma da complexidade** : metodologias de projetos, contratos didáticos e portfólios. Petrópolis, RJ, Vozes, 2008. 135 p. ISBN 9788532632470 (broch.). 
+INSTITUTOFEDERAL Parana
 
-80 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+FREIRE, Paulo. **Ação cultural para a liberdade e outros escritos** . 15.ed., São Paulo, SP, Paz e Terra, 2015. 251 p. ISBN 8577531660 (broch.).
 
-Ministerio da Educacao 
+MOREIRA, Marco Antonio. **Teorias de aprendizagem** . São Paulo, SP, E.P.U, 1999. 195 p. ISBN 8512321407 (broch.).
 
-FREIRE, Paulo. **Ação cultural para a liberdade e outros escritos** . 15.ed., São Paulo, SP, Paz e Terra, 2015. 251 p. ISBN 8577531660 (broch.). 
+PORTO, Humberta Gomes (org). **Currículos, programas e projetos pedagógicos** . São Paulo, SP, Pearson, 2018. ISBN 9788543025957.
 
-MOREIRA, Marco Antonio. **Teorias de aprendizagem** . São Paulo, SP, E.P.U, 1999. 195 p. ISBN 8512321407 (broch.). 
+⇜⇝
 
-PORTO, Humberta Gomes (org). **Currículos, programas e projetos pedagógicos** . São Paulo, SP, Pearson, 2018. ISBN 9788543025957. 
+## **7º Semestre**
 
-⇜⇝ 
+## **COMPONENTE CURRICULAR:**
 
-## **7º Semestre** 
+Educação Profissional, Ciência e Tecnologia **CARGA HORÁRIA:**
 
-## **COMPONENTE CURRICULAR:** 
+40 Hora/aula e Hora/relógio (60 min)
 
-Educação Profissional, Ciência e Tecnologia **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-40 Hora/aula e Hora/relógio (60 min) 
+O que é Ciência e tecnologia na sociedade atual. Histórico e vinculação com a Educação Profissional. Formação de professores. Educação Integral e Educação em Tempo Integral, atividade de curricularização da extensão.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA BÁSICA:**
 
-O que é Ciência e tecnologia na sociedade atual. Histórico e vinculação com a Educação Profissional. Formação de professores. Educação Integral e Educação em Tempo Integral, atividade de curricularização da extensão. 
+ARAÚJO, Ronaldo Marcos de Lima; RODRIGUES, Doriedson S. (Org.). **Filosofia da práxis e didática da educação profissional** . Campinas, SP, Autores Associados, 2011. 148 p. (Educação contemporânea). ISBN 9788577432400 (broch.).
 
-## **BIBLIOGRAFIA BÁSICA:** 
+FRIGOTTO, Gaudêncio; FRANCO, Maria Aparecida Ciavatta (Org.). **Teoria e educação no labirinto da capital.** Petrópolis, RJ, Vozes, 2001. 188 p. (Coleção de estudos culturais em educação). ISBN 853262524x.
 
-ARAÚJO, Ronaldo Marcos de Lima; RODRIGUES, Doriedson S. (Org.). **Filosofia da práxis e didática da educação profissional** . Campinas, SP, Autores Associados, 2011. 148 p. (Educação contemporânea). ISBN 9788577432400 (broch.). 
+MANACORDA, Mario Alighiero. **O princípio educativo em Gramsci** . Porto Alegre, RS, Artes Médicas Sul, 1990. 288 p. (Educação: teoria e crítica).
 
-FRIGOTTO, Gaudêncio; FRANCO, Maria Aparecida Ciavatta (Org.). **Teoria e educação no labirinto da capital.** Petrópolis, RJ, Vozes, 2001. 188 p. (Coleção de estudos culturais em educação). ISBN 853262524x. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-MANACORDA, Mario Alighiero. **O princípio educativo em Gramsci** . Porto Alegre, RS, Artes Médicas Sul, 1990. 288 p. (Educação: teoria e crítica). 
+BIANCHETTI, Lucídio. **Da chave de fenda ao laptop** : tecnologia digital e novas qualificações - desafios à educação. 2. ed., rev. e atual. Florianópolis, SC, Edufsc, 2008. 250 p.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+81
 
-BIANCHETTI, Lucídio. **Da chave de fenda ao laptop** : tecnologia digital e novas qualificações - desafios à educação. 2. ed., rev. e atual. Florianópolis, SC, Edufsc, 2008. 250 p. 
+Ministerio da Educacao
 
-81 
+INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+FRIGOTTO, Gaudêncio e outros. **Contextos da Educação Profissional** . Formação Pedagógica, volume II. IFPR. Disponível em: http://curitiba.ifpr.edu.br/wpcontent/uploads/2016/05/Contextos-da-Educa%C3%A7%C3%A3o-Profissional.pdf
 
-INSTITUTOFEDERAL Parana 
+KUENZER, Acácia Zeneida e outros. **Educação Profissional** : desafios e debates. Formação Pedagógica, volume I. IFPR. Disponível em: http://curitiba.ifpr.edu.br/wpcontent/uploads/2016/05/Educa%C3%A7%C3%A3o-Profissional-desafios-e-debates.pdf
 
-FRIGOTTO, Gaudêncio e outros. **Contextos da Educação Profissional** . Formação Pedagógica, volume II. IFPR. Disponível em: http://curitiba.ifpr.edu.br/wpcontent/uploads/2016/05/Contextos-da-Educa%C3%A7%C3%A3o-Profissional.pdf 
+MORAES, Maria Célia Marcondes de (org.). **Iluminismo às avessas** : produção de conhecimento e políticas de formação docente. Rio de Janeiro, RJ, DP&A, 2003. 198 p. ISBN 8574902395 (broch.).
 
-KUENZER, Acácia Zeneida e outros. **Educação Profissional** : desafios e debates. Formação Pedagógica, volume I. IFPR. Disponível em: http://curitiba.ifpr.edu.br/wpcontent/uploads/2016/05/Educa%C3%A7%C3%A3o-Profissional-desafios-e-debates.pdf 
+⇜⇝
 
-MORAES, Maria Célia Marcondes de (org.). **Iluminismo às avessas** : produção de conhecimento e políticas de formação docente. Rio de Janeiro, RJ, DP&A, 2003. 198 p. ISBN 8574902395 (broch.). 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Metodologias de Pesquisa Pedagógica Trabalho de Conclusão de Curso - TCC I **CARGA HORÁRIA:**
 
-## **COMPONENTE CURRICULAR:** 
+80 Hora/aula e Hora/relógio (60 min)
 
-Metodologias de Pesquisa Pedagógica Trabalho de Conclusão de Curso - TCC I **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-80 Hora/aula e Hora/relógio (60 min) 
+Definição de Trabalho de Conclusão de Curso. Normatização do Trabalho de conclusão de curso. Elementos constitutivos para elaboração do Trabalho de Conclusão de Curso. Elaboração de projeto: tema, justificativa, objetivos e revisão de literatura.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA BÁSICA:**
 
-Definição de Trabalho de Conclusão de Curso. Normatização do Trabalho de conclusão de curso. Elementos constitutivos para elaboração do Trabalho de Conclusão de Curso. Elaboração de projeto: tema, justificativa, objetivos e revisão de literatura. 
+DEMO, Pedro. **Metodologia da investigação em educação** . Curitiba, PR, Intersaberes, 2012. ISBN 9788582125007.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+GAMBOA, Silvio Sánchez. **Pesquisa em Educação** : métodos e epistemologias. Chapecó, SC, Argos Editora Universitária, 2007.
 
-DEMO, Pedro. **Metodologia da investigação em educação** . Curitiba, PR, Intersaberes, 2012. ISBN 9788582125007. 
+GIL, Antonio Carlos. **Como elaborar um projeto de pesquisa** . 4 ed., São Paulo, SP Atlas, 2009.
 
-GAMBOA, Silvio Sánchez. **Pesquisa em Educação** : métodos e epistemologias. Chapecó, SC, Argos Editora Universitária, 2007. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-GIL, Antonio Carlos. **Como elaborar um projeto de pesquisa** . 4 ed., São Paulo, SP Atlas, 2009. 
+BIBLIOGRAFIA UNIVERSITÁRIA PEARSON. **Metodologia Científica** . São Paulo, SP, Pearson .ISBN 9788564574595.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+INSTITUTO FEDERAL DO PARANÁ. Normas para apresentação de trabalhos acadêmicos do Instituto Federal do Paraná (IFPR). Curitiba, PR,  2010. 86 p. ISBN 9788591074303 (broch.).
 
-BIBLIOGRAFIA UNIVERSITÁRIA PEARSON. **Metodologia Científica** . São Paulo, SP, Pearson .ISBN 9788564574595. 
+82
 
-INSTITUTO FEDERAL DO PARANÁ. Normas para apresentação de trabalhos acadêmicos do Instituto Federal do Paraná (IFPR). Curitiba, PR,  2010. 86 p. ISBN 9788591074303 (broch.). 
+Ministerio da Educacao
 
-82 
+## INSTITUTOFEDERAL
 
-Ministerio da Educacao 
+Parana
 
-## INSTITUTOFEDERAL 
+MEDEIROS, João Bosco. **Redação científica** : a prática, fichamentos, resumos, resenhas. 10 ed., São Paulo, SP, Atlas, 2008.
 
-Parana 
+SEVERINO, Antonio Joaquim. **Metodologia do trabalho científico** . 23. ed., São Paulo, SP, Cortez, 2008.
 
-MEDEIROS, João Bosco. **Redação científica** : a prática, fichamentos, resumos, resenhas. 10 ed., São Paulo, SP, Atlas, 2008. 
+⇜⇝
 
-SEVERINO, Antonio Joaquim. **Metodologia do trabalho científico** . 23. ed., São Paulo, SP, Cortez, 2008. 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Prática Pedagógica de Ciências Naturais **CARGA HORÁRIA:**
 
-## **COMPONENTE CURRICULAR:** 
+80 Hora/aula e Hora/relógio (60 min)
 
-Prática Pedagógica de Ciências Naturais **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-80 Hora/aula e Hora/relógio (60 min) 
+Conhecimentos do senso comum e formação de conceitos. Método de investigação científica e a produção do conhecimento: implicações pedagógicas. Relação entre os conteúdos e as diferentes ciências: astronomia, biologia, física, geociências e química. Conteúdos do ensino de Ciências Naturais da educação infantil e das séries iniciais do ensino fundamental: ambiente, ser humano e saúde, recursos tecnológicos, Terra e Universo. Princípios de sistematização do ensino de ciência: do método científico ao método de ensino: observação, experimentação, problematização. Planejamento e organização de atividades: o uso de textos, os livros didáticos, atividades de campo, uso dos recursos tecnológicos. Avaliação em Ciências Naturais. Ciências, Inclusão e Diversidade. Análise crítica de materiais didáticos (livros didáticos e paradidáticos, jogos, textos científicos e literários)
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA BÁSICA:**
 
-Conhecimentos do senso comum e formação de conceitos. Método de investigação científica e a produção do conhecimento: implicações pedagógicas. Relação entre os conteúdos e as diferentes ciências: astronomia, biologia, física, geociências e química. Conteúdos do ensino de Ciências Naturais da educação infantil e das séries iniciais do ensino fundamental: ambiente, ser humano e saúde, recursos tecnológicos, Terra e Universo. Princípios de sistematização do ensino de ciência: do método científico ao método de ensino: observação, experimentação, problematização. Planejamento e organização de atividades: o uso de textos, os livros didáticos, atividades de campo, uso dos recursos tecnológicos. Avaliação em Ciências Naturais. Ciências, Inclusão e Diversidade. Análise crítica de materiais didáticos (livros didáticos e paradidáticos, jogos, textos científicos e literários) 
+ASTOLFI, Jean-Pierre; DEVELAY, Michel. **A didática das ciências** . 16. ed., Campinas. SP, Papirus, 2012. 123 p. ISBN 9788530801168 (broch.).
 
-## **BIBLIOGRAFIA BÁSICA:** 
+BIZZO, Nelio. **Pensamento científico** : a natureza da ciência no ensino fundamental. São Paulo, SP, Melhoramentos, 2012. 175 p. (Como eu ensino). ISBN 9788506004500 (broch.).
 
-ASTOLFI, Jean-Pierre; DEVELAY, Michel. **A didática das ciências** . 16. ed., Campinas. SP, Papirus, 2012. 123 p. ISBN 9788530801168 (broch.). 
+SELBACH,  Simone. **Ciências e didática** . Petrópolis, RJ, Vozes, 2010. 167p. (Como bem ensinar).
 
-BIZZO, Nelio. **Pensamento científico** : a natureza da ciência no ensino fundamental. São Paulo, SP, Melhoramentos, 2012. 175 p. (Como eu ensino). ISBN 9788506004500 (broch.). 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-SELBACH,  Simone. **Ciências e didática** . Petrópolis, RJ, Vozes, 2010. 167p. (Como bem ensinar). 
+ARMSTRONG, Diana Lucia de Paula; BARBOSA, Liane Maria Vargas. Metodologia do Ensino de Ciências Biológicas e da Natureza. Curitiba, InterSaberes: 2012
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+83
 
-ARMSTRONG, Diana Lucia de Paula; BARBOSA, Liane Maria Vargas. Metodologia do Ensino de Ciências Biológicas e da Natureza. Curitiba, InterSaberes: 2012 
+INSTITUTOFEDERAL Parana
 
-83 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+CACHAPUZ, António Francisco; CARVALHO, Anna Maria Pessoa de; GIL-PEREZ, Daniel (orgs.). **O ensino das ciências como compromisso científico e social** : os caminhos que percorremos. São Paulo, SP,  Cortez, 2012.
 
-Ministerio da Educacao 
+GÜLLICH, Roque Ismael da Costa; HERMEL, Erica do Espírito Santo (orgs.). **Didática da biologia.** Curitiba, PR, Appris, 2017. 349 p. (Coleção ensino de ciências).
 
-CACHAPUZ, António Francisco; CARVALHO, Anna Maria Pessoa de; GIL-PEREZ, Daniel (orgs.). **O ensino das ciências como compromisso científico e social** : os caminhos que percorremos. São Paulo, SP,  Cortez, 2012. 
+LOPES, Alice Casimiro, MACEDO, Elizabeth (orgs.). **Currículo de ciências em debate** . Campinas, SP,  Papirus, 2004, 192p.
 
-GÜLLICH, Roque Ismael da Costa; HERMEL, Erica do Espírito Santo (orgs.). **Didática da biologia.** Curitiba, PR, Appris, 2017. 349 p. (Coleção ensino de ciências). 
+⇜⇝
 
-LOPES, Alice Casimiro, MACEDO, Elizabeth (orgs.). **Currículo de ciências em debate** . Campinas, SP,  Papirus, 2004, 192p. 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Políticas Educacionais **CARGA HORÁRIA:**
 
-## **COMPONENTE CURRICULAR:** 
+80 Hora/aula e Hora/relógio (60 min)
 
-Políticas Educacionais **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-80 Hora/aula e Hora/relógio (60 min) 
+A Educação Brasileira e o Sistema Educacional: aspectos históricos, legais e organizacionais. Organização do Sistema Escolar Brasileiro. A Legislação da Educação Brasileira: Constituição Federal, LDB, ECA, Diretrizes Curriculares, PNE, Resoluções, Pareceres e Deliberações. Políticas Públicas Educacionais para os níveis e modalidades de ensino e para a formação dos professores. Organização administrativa, pedagógica e curricular do sistema de ensino federal, estadual e municipal. Financiamento da Educação escolar. Os programas do Fundo Nacional de Desenvolvimento da Educação.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA BÁSICA:**
 
-A Educação Brasileira e o Sistema Educacional: aspectos históricos, legais e organizacionais. Organização do Sistema Escolar Brasileiro. A Legislação da Educação Brasileira: Constituição Federal, LDB, ECA, Diretrizes Curriculares, PNE, Resoluções, Pareceres e Deliberações. Políticas Públicas Educacionais para os níveis e modalidades de ensino e para a formação dos professores. Organização administrativa, pedagógica e curricular do sistema de ensino federal, estadual e municipal. Financiamento da Educação escolar. Os programas do Fundo Nacional de Desenvolvimento da Educação. 
+LESSARD, Claude. **Políticas educativas:** a aplicação na prática. Petrópolis, RJ, Vozes, 2016.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+PEGORINI, Diana Gurgel. **Fundamentos da educação profissional** : política, legislação e história. Curitiba, PR, Intersaberes, 2020. (Série Processos Educacionais).
 
-LESSARD, Claude. **Políticas educativas:** a aplicação na prática. Petrópolis, RJ, Vozes, 2016. 
+SAVIANI, Dermeval. **Da LDB (1996) ao novo PNE (2014-2024)** : por uma outra política educacional. 5. ed., rev. e ampl., Campinas, SP, Autores Associados, 2016.  (Coleção educação contemporânea).
 
-PEGORINI, Diana Gurgel. **Fundamentos da educação profissional** : política, legislação e história. Curitiba, PR, Intersaberes, 2020. (Série Processos Educacionais). 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-SAVIANI, Dermeval. **Da LDB (1996) ao novo PNE (2014-2024)** : por uma outra política educacional. 5. ed., rev. e ampl., Campinas, SP, Autores Associados, 2016.  (Coleção educação contemporânea). 
+84
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+INSTITUTOFEDERAL Parana
 
-84 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+AKKARI, Abdeljalil. **Internacionalização das políticas educacionais** : transformações e desafios. Petrópolis, RJ, Vozes, 2011.
 
-Ministerio da Educacao 
+HOCHMAN, Gilberto; ARRETCHE, Marta; MARQUES, Eduardo (orgs.). **Políticas públicas no Brasil** . Rio de Janeiro, RJ, FIOCRUZ, 2007.
 
-AKKARI, Abdeljalil. **Internacionalização das políticas educacionais** : transformações e desafios. Petrópolis, RJ, Vozes, 2011. 
+LIBÂNEO, José Carlos; OLIVEIRA, João Ferreira; TOSCHI, Mirza Seabra (orgs.). **Educação escolar** : políticas, estrutura e organização. 10. ed., rev. e ampl. São Paulo, SP, Cortez, 2012. (Coleção docência em formação: saberes pedagógicos).
 
-HOCHMAN, Gilberto; ARRETCHE, Marta; MARQUES, Eduardo (orgs.). **Políticas públicas no Brasil** . Rio de Janeiro, RJ, FIOCRUZ, 2007. 
+SILVA, Maria Abádia da; CUNHA, Célio da (orgs.). **Educação básica** : políticas, avanços e pendências. Campinas, SP, Autores Associados, 2014. (Coleção Políticas Públicas da Educação).
 
-LIBÂNEO, José Carlos; OLIVEIRA, João Ferreira; TOSCHI, Mirza Seabra (orgs.). **Educação escolar** : políticas, estrutura e organização. 10. ed., rev. e ampl. São Paulo, SP, Cortez, 2012. (Coleção docência em formação: saberes pedagógicos). 
+⇜⇝
 
-SILVA, Maria Abádia da; CUNHA, Célio da (orgs.). **Educação básica** : políticas, avanços e pendências. Campinas, SP, Autores Associados, 2014. (Coleção Políticas Públicas da Educação). 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Língua Brasileira de Sinais - LIBRAS **CARGA HORÁRIA:**
 
-## **COMPONENTE CURRICULAR:** 
+80 Hora/aula e Hora/relógio (60 min)
 
-Língua Brasileira de Sinais - LIBRAS **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-80 Hora/aula e Hora/relógio (60 min) 
+A importância do conhecimento da LIBRAS no território Brasileiro. O desenvolvimento da LIBRAS no contexto sócio-econômico-cultural. A compreensão da  LIBRAS como língua natural. O conhecimento da estrutura da LIBRAS e sua capacidade de expressar qualquer conceito - descritivo, emotivo, racional, literal, metafórico, concreto, abstrato - enfim, permite a expressão de qualquer significado decorrente da necessidade comunicativa e expressiva do ser humano. A diferença de modalidade entre língua oral e língua espaço visual. A língua de sinais como sistemas linguísticos independentes desenvolvidos na comunidade dos surdos. O desenvolvimento da LIBRAS no contexto educacional.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA BÁSICA:**
 
-A importância do conhecimento da LIBRAS no território Brasileiro. O desenvolvimento da LIBRAS no contexto sócio-econômico-cultural. A compreensão da  LIBRAS como língua natural. O conhecimento da estrutura da LIBRAS e sua capacidade de expressar qualquer conceito - descritivo, emotivo, racional, literal, metafórico, concreto, abstrato - enfim, permite a expressão de qualquer significado decorrente da necessidade comunicativa e expressiva do ser humano. A diferença de modalidade entre língua oral e língua espaço visual. A língua de sinais como sistemas linguísticos independentes desenvolvidos na comunidade dos surdos. O desenvolvimento da LIBRAS no contexto educacional. 
+FERNANDES, Sueli. Práticas de Letramento na Educação Bilíngue para Surdo. Curitiba. PR, - SEED, 2006. Disponível em: https://acervodigital.ufpr.br/bitstream/handle/1884/24287/T%20 %20FERNANDES,%20SUELI%20DE%20FATIMA%20.pdf?sequence=1 Acesso em: 09/02/2023.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+GÓES, Maria Cecília Rafael de. **Linguagem, surdez e educação** . 4. ed., rev. Campinas, SP, Autores Associados, 2012. 106 p. (Coleção educação contemporânea). ISBN 9788585701208 (broch.).
 
-FERNANDES, Sueli. Práticas de Letramento na Educação Bilíngue para Surdo. Curitiba. PR, - SEED, 2006. Disponível em: https://acervodigital.ufpr.br/bitstream/handle/1884/24287/T%20 %20FERNANDES,%20SUELI%20DE%20FATIMA%20.pdf?sequence=1 Acesso em: 09/02/2023. 
+MANTOAN, Maria Teresa Eglér (org.). **O desafio das diferenças nas escolas** . 4. ed., Petrópolis,
 
-GÓES, Maria Cecília Rafael de. **Linguagem, surdez e educação** . 4. ed., rev. Campinas, SP, Autores Associados, 2012. 106 p. (Coleção educação contemporânea). ISBN 9788585701208 (broch.). 
+85
 
-MANTOAN, Maria Teresa Eglér (org.). **O desafio das diferenças nas escolas** . 4. ed., Petrópolis, 
+INSTITUTOFEDERAL Parana
 
-85 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+RJ, Vozes, 2011. 152 p. ISBN 9788532636775 (broch.).
 
-Ministerio da Educacao 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-RJ, Vozes, 2011. 152 p. ISBN 9788532636775 (broch.). 
+FERNANDES, Sueli.; MOREIRA, Laura Ceretta. Desdobramentos político-pedagógicos do bilinguismo para surdos: reflexões e encaminhamentos. **Revista Educação Especia** l. São Paulo, - v. 22, n. 34, p. 25-36, mai./ago., 2005. Disponível em: http://www.scielo.br/pdf/er/nspe 2/05.pdf Acesso em: 19/08/2019.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+KARNOPP, L. B. Produções culturais de surdos: análise de literatura surda. **Revista Cadernos de Educação** . UFPel. Pelotas, RS, n. 36, mai./ago., 2010, p. 155-174. Disponível em: http://www2.ufpel.edu.br/fae/caduc/downloads/n36/07.pdf Acesso em: 19/08/2019.
 
-FERNANDES, Sueli.; MOREIRA, Laura Ceretta. Desdobramentos político-pedagógicos do bilinguismo para surdos: reflexões e encaminhamentos. **Revista Educação Especia** l. São Paulo, - v. 22, n. 34, p. 25-36, mai./ago., 2005. Disponível em: http://www.scielo.br/pdf/er/nspe 2/05.pdf Acesso em: 19/08/2019. 
+PERLIN, Gladis. **Estudos Surdos** . Volumes I, II, III, IV. São Paulo, SP, Eletrônica; Arara Azul, 2007. Disponível em: http://editora-arara-azul.com.br/site/e-books Acesso em 19/08/2019.
 
-KARNOPP, L. B. Produções culturais de surdos: análise de literatura surda. **Revista Cadernos de Educação** . UFPel. Pelotas, RS, n. 36, mai./ago., 2010, p. 155-174. Disponível em: http://www2.ufpel.edu.br/fae/caduc/downloads/n36/07.pdf Acesso em: 19/08/2019. 
+PERLIN, Gladis. A cultura surda e os intérpretes da língua de sinais. ETD – **Educação Temática Digital** , v. 7 n.2, p. 137-147. Campinas, jun, 2006. ISSN: 1676 -2592. (Línguas de sinais: identidades e processos sociais - grupo de estudos e subjetividade). Disponível em: https://periodicos.sbu.unicamp.br/ojs/index.php/etd/article/view/798/813 Acesso em: 09/02/2023.
 
-PERLIN, Gladis. **Estudos Surdos** . Volumes I, II, III, IV. São Paulo, SP, Eletrônica; Arara Azul, 2007. Disponível em: http://editora-arara-azul.com.br/site/e-books Acesso em 19/08/2019. 
+⇜⇝
 
-PERLIN, Gladis. A cultura surda e os intérpretes da língua de sinais. ETD – **Educação Temática Digital** , v. 7 n.2, p. 137-147. Campinas, jun, 2006. ISSN: 1676 -2592. (Línguas de sinais: identidades e processos sociais - grupo de estudos e subjetividade). Disponível em: https://periodicos.sbu.unicamp.br/ojs/index.php/etd/article/view/798/813 Acesso em: 09/02/2023. 
+**8º Semestre**
 
-⇜⇝ 
+⇜⇝
 
-**8º Semestre** 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Avaliação Institucional **CARGA HORÁRIA:** 80 Hora/aula e Hora/relógio (60 min)
 
-## **COMPONENTE CURRICULAR:** 
+## **EMENTA:**
 
-Avaliação Institucional **CARGA HORÁRIA:** 80 Hora/aula e Hora/relógio (60 min) 
+Contexto sócio-político e a cultura da avaliação. Princípios da avaliação. Conceito e organização da avaliação institucional. Principais elementos pertinentes à avaliação institucional. Diferentes modelos.  Políticas nacionais de avaliação e sua expressão na Educação Brasileira hoje. Instrumentos atuais no Sistema da Avaliação Nacional.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA  BÁSICA:**
 
-Contexto sócio-político e a cultura da avaliação. Princípios da avaliação. Conceito e organização da avaliação institucional. Principais elementos pertinentes à avaliação institucional. Diferentes modelos.  Políticas nacionais de avaliação e sua expressão na Educação Brasileira hoje. Instrumentos atuais no Sistema da Avaliação Nacional. 
+86
 
-## **BIBLIOGRAFIA  BÁSICA:** 
+INSTITUTOFEDERAL Parana
 
-86 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+FREITAS, Luiz Carlos de; DE SORDI, Mara Regina Lemes; FREITAS, Helena Costa Lopes de. **Avaliação educacional** : caminhando pela contramão. 4. ed., Petrópolis, RJ, Vozes, 2013. 86 p. (Coleção Fronteiras educacionais). ISBN 9788532637741 (broch.).
 
-Ministerio da Educacao 
+LORDÊLO, José Albertino Carvalho; DAZZANI, Maria Virgínia. **Avaliação educacional** : desatando e reatando nós. Salvador, BA, EDUFBA, 2009. 349 p. Disponível em <http://books.scielo.org/id/wd/pdf/lordelo-9788523209315.pdf>.
 
-FREITAS, Luiz Carlos de; DE SORDI, Mara Regina Lemes; FREITAS, Helena Costa Lopes de. **Avaliação educacional** : caminhando pela contramão. 4. ed., Petrópolis, RJ, Vozes, 2013. 86 p. (Coleção Fronteiras educacionais). ISBN 9788532637741 (broch.). 
+SAVIANI, Dermeval. **Da LDB (1996) ao novo PNE (2014-2024)** : por uma outra política educacional. 5. ed., rev. e ampl. Campinas, SP, Autores Associados, 2016. (Coleção educação contemporânea).
 
-LORDÊLO, José Albertino Carvalho; DAZZANI, Maria Virgínia. **Avaliação educacional** : desatando e reatando nós. Salvador, BA, EDUFBA, 2009. 349 p. Disponível em <http://books.scielo.org/id/wd/pdf/lordelo-9788523209315.pdf>. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-SAVIANI, Dermeval. **Da LDB (1996) ao novo PNE (2014-2024)** : por uma outra política educacional. 5. ed., rev. e ampl. Campinas, SP, Autores Associados, 2016. (Coleção educação contemporânea). 
+SOBRINHO, José Dias. **Dilemas da Educação Superior no mundo globalizado** : sociedade do conhecimento ou economia do conhecimento? São Paulo, SP, Pearson, 2010. ISBN 9788573964530. (E-book Pearson)
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+HAJJ, Zaina El; COSTA, Barbara Regina Lopes; ARAUJO, Richard Medeiros. O Papel das comissões próprias de avaliação sobre os atos regulatórios: um olhar da gestão universitária. **Revista Meta Avaliação** , v. 10, n. 28, p. 75-105, apr. 2018. ISSN 2175-2753. Disponível em: <http://revistas.cesgranrio.org.br/index.php/metaavaliacao/article/view/1565>. Acesso em: 04 aug. 2019. doi:http://dx.doi.org/10.22347/2175-2753v10i28.1565.
 
-SOBRINHO, José Dias. **Dilemas da Educação Superior no mundo globalizado** : sociedade do conhecimento ou economia do conhecimento? São Paulo, SP, Pearson, 2010. ISBN 9788573964530. (E-book Pearson) 
+LACERDA, Leo Lynce Valle de; FERRI, Cássia; DUARTE, Blaise Keniel da Cruz. SINAES: evaluation, accountability and performance. **Revista Avaliação** . Campinas,  Sorocaba ,  v. 21, n. 3, p. 975-992, Nov. 2016 . Available from: <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S141440772016000300975&lng=en&nrm=iso>. access on 04 Aug. 2019. http://dx.doi.org/10.1590/S1414-40772016000300015.
 
-HAJJ, Zaina El; COSTA, Barbara Regina Lopes; ARAUJO, Richard Medeiros. O Papel das comissões próprias de avaliação sobre os atos regulatórios: um olhar da gestão universitária. **Revista Meta Avaliação** , v. 10, n. 28, p. 75-105, apr. 2018. ISSN 2175-2753. Disponível em: <http://revistas.cesgranrio.org.br/index.php/metaavaliacao/article/view/1565>. Acesso em: 04 aug. 2019. doi:http://dx.doi.org/10.22347/2175-2753v10i28.1565. 
+PEGORINI, Diana Gurgel. **Fundamentos da educação profissional** : política, legislação e história. Curitiba, PR, Intersaberes, 2020. (Série Processos Educacionais).
 
-LACERDA, Leo Lynce Valle de; FERRI, Cássia; DUARTE, Blaise Keniel da Cruz. SINAES: evaluation, accountability and performance. **Revista Avaliação** . Campinas,  Sorocaba ,  v. 21, n. 3, p. 975-992, Nov. 2016 . Available from: <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S141440772016000300975&lng=en&nrm=iso>. access on 04 Aug. 2019. http://dx.doi.org/10.1590/S1414-40772016000300015. 
+⇜⇝
 
-PEGORINI, Diana Gurgel. **Fundamentos da educação profissional** : política, legislação e história. Curitiba, PR, Intersaberes, 2020. (Série Processos Educacionais). 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Educação Profissional, princípios e práticas.
 
-## **COMPONENTE CURRICULAR:** 
+87
 
-Educação Profissional, princípios e práticas. 
+Ministerio da Educacao
 
-87 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+## **CARGA HORÁRIA:**
 
-## INSTITUTOFEDERAL Parana 
+80 Hora/aula e Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-80 Hora/aula e Hora/relógio (60 min) 
+História da Educação Brasileira. Reformas Educacionais. Aspectos históricos, legais e organizacionais da EPT no Brasil. A formação docente e as especificidades da Educação Profissional. Planejamento e atuação.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA  BÁSICA:**
 
-História da Educação Brasileira. Reformas Educacionais. Aspectos históricos, legais e organizacionais da EPT no Brasil. A formação docente e as especificidades da Educação Profissional. Planejamento e atuação. 
+ARAÚJO, Ronaldo Marcos de Lima; RODRIGUES, Doriedson (orgs.). **Filosofia da práxis e didática da educação profissional** . Campinas, SP, Autores Associados, 2011. 148 p. (Educação contemporânea). ISBN 9788577432400 (broch.).
 
-## **BIBLIOGRAFIA  BÁSICA:** 
+BOURDIEU, Pierre; PASSERON, Jean-Claude. **A reprodução** : elementos para uma teoria do sistema de ensino. 6. ed., Rio de Janeiro, RJ, Vozes, 2013. 275 p. (Coleção Textos Fundantes de Educação). ISBN 9788532636515 (broch.).
 
-ARAÚJO, Ronaldo Marcos de Lima; RODRIGUES, Doriedson (orgs.). **Filosofia da práxis e didática da educação profissional** . Campinas, SP, Autores Associados, 2011. 148 p. (Educação contemporânea). ISBN 9788577432400 (broch.). 
+GOMES, Heloisa Maria; MARINS, Hiloko Ogihara. **A ação docente na educação profissional** . 2. ed., São Paulo, SP,  Senac Nacional, 2013. 287 p. ISBN 9788539602094 (broch.).
 
-BOURDIEU, Pierre; PASSERON, Jean-Claude. **A reprodução** : elementos para uma teoria do sistema de ensino. 6. ed., Rio de Janeiro, RJ, Vozes, 2013. 275 p. (Coleção Textos Fundantes de Educação). ISBN 9788532636515 (broch.). 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-GOMES, Heloisa Maria; MARINS, Hiloko Ogihara. **A ação docente na educação profissional** . 2. ed., São Paulo, SP,  Senac Nacional, 2013. 287 p. ISBN 9788539602094 (broch.). 
+BUFFA, Ester; ARROYO, Miguel González; NOSELLA, Paolo. **Educação e cidadania** : quem educa o cidadão? 3.ed., São Paulo, SP, Cortez, 1991. 94 p. (Coleção polêmicas do nosso tempo). ISBN 8524900946.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+BIANCHI, Anna Cecilia de Moraes; ALVARENGA, Marina; BIANCHI, Roberto. **Manual de orientação** : estágio supervisionado. 4.ed., São Paulo, SP, Cengage Learning, 2009. 98 p. ISBN 9788522107209 (broch.).
 
-BUFFA, Ester; ARROYO, Miguel González; NOSELLA, Paolo. **Educação e cidadania** : quem educa o cidadão? 3.ed., São Paulo, SP, Cortez, 1991. 94 p. (Coleção polêmicas do nosso tempo). ISBN 8524900946. 
+REHEM, Cleunice Matos. **Perfil e formação do professor de educação profissional técnica** . São Paulo, SP, Senac Nacional, 2009. 167 p. ISBN 9788573598827 (broch.).
 
-BIANCHI, Anna Cecilia de Moraes; ALVARENGA, Marina; BIANCHI, Roberto. **Manual de orientação** : estágio supervisionado. 4.ed., São Paulo, SP, Cengage Learning, 2009. 98 p. ISBN 9788522107209 (broch.). 
+SANTOS, Jurandir. **Educação profissional & práticas de avaliação** . 2. ed., São Paulo, SP, Editora Senac São Paulo, 2011. 207 p. ISBN 9788573599831 (broch.).
 
-REHEM, Cleunice Matos. **Perfil e formação do professor de educação profissional técnica** . São Paulo, SP, Senac Nacional, 2009. 167 p. ISBN 9788573598827 (broch.). 
+⇜⇝
 
-SANTOS, Jurandir. **Educação profissional & práticas de avaliação** . 2. ed., São Paulo, SP, Editora Senac São Paulo, 2011. 207 p. ISBN 9788573599831 (broch.). 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Pedagogo Escolar: identidade, funções e saberes **CARGA HORÁRIA:**
 
-## **COMPONENTE CURRICULAR:** 
+88
 
-Pedagogo Escolar: identidade, funções e saberes **CARGA HORÁRIA:** 
+INSTITUTOFEDERAL Parana
 
-88 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+80 Hora/aula e Hora/relógio (60 min)
 
-Ministerio da Educacao 
+## **EMENTA:**
 
-80 Hora/aula e Hora/relógio (60 min) 
+A identidade, funções, atuações e saberes do(a) pedagogo(a) escolar atuando como o coordenador do trabalho pedagógico na educação infantil, ensino fundamental e ensino médio tendo como foco o trabalho orientador dos professores a partir dos elementos da cultura escolar, do currículo e tecnologias na escola.  O gestão e a organização escolar. A construção da ética profissional.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA BÁSICA:**
 
-A identidade, funções, atuações e saberes do(a) pedagogo(a) escolar atuando como o coordenador do trabalho pedagógico na educação infantil, ensino fundamental e ensino médio tendo como foco o trabalho orientador dos professores a partir dos elementos da cultura escolar, do currículo e tecnologias na escola.  O gestão e a organização escolar. A construção da ética profissional. 
+LIBÂNEO, José Carlos. **Pedagogia e pedagogos pra quê?** 12.ed., São Paulo, SP, Editora Cortez, 2010.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+LIBÂNEO, José Carlos. **Adeus professor, adeus professora?** Novas exigências educacionais e profissão docente. São Paulo, SP, Cortez, 2000.
 
-LIBÂNEO, José Carlos. **Pedagogia e pedagogos pra quê?** 12.ed., São Paulo, SP, Editora Cortez, 2010. 
+LIBÂNEO, José Carlos. **Organização e gestão da escola** : teoria e prática. 4.ed., Goiânia, GO, Editora Alternativa, 2003.
 
-LIBÂNEO, José Carlos. **Adeus professor, adeus professora?** Novas exigências educacionais e profissão docente. São Paulo, SP, Cortez, 2000. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-LIBÂNEO, José Carlos. **Organização e gestão da escola** : teoria e prática. 4.ed., Goiânia, GO, Editora Alternativa, 2003. 
+DYCK, Michele Simonian; BRITO, Glaucia da Silva. **Formação continuada de pedagogos e suas necessidades formativas em tecnologias** : entre ausências e insuficiências algumas perspectivas. **Revista de Educação, Ciência e Tecnologia** . v.6, n.1, 2017. Disponível em: https://periodicos.ifrs.edu.br/index.php/tear/issue/view/62 . Acesso em: 02 jan.2018.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+PLACCO, Vera Maria Nigro de Souza; ALMEIDA, Laurinda Ramalho de (org.). **O coordenador pedagógico** : provocações e possibilidades de atuação. 2. ed., São Paulo, SP, Edições Loyola, 2012. 139 p. ISBN 9788515039289 (broch.).
 
-DYCK, Michele Simonian; BRITO, Glaucia da Silva. **Formação continuada de pedagogos e suas necessidades formativas em tecnologias** : entre ausências e insuficiências algumas perspectivas. **Revista de Educação, Ciência e Tecnologia** . v.6, n.1, 2017. Disponível em: https://periodicos.ifrs.edu.br/index.php/tear/issue/view/62 . Acesso em: 02 jan.2018. 
+SAVIANI, Dermeval. **Desenvolvimento e educação na América Latina** . 3. ed., São Paulo, SP, Autores Associados, 1985. 120 p.
 
-PLACCO, Vera Maria Nigro de Souza; ALMEIDA, Laurinda Ramalho de (org.). **O coordenador pedagógico** : provocações e possibilidades de atuação. 2. ed., São Paulo, SP, Edições Loyola, 2012. 139 p. ISBN 9788515039289 (broch.). 
+TARDIF, Maurice. **Saberes docentes e formação profissional** . Petrópolis, RJ, Vozes, 2002.
 
-SAVIANI, Dermeval. **Desenvolvimento e educação na América Latina** . 3. ed., São Paulo, SP, Autores Associados, 1985. 120 p. 
+⇜⇝
 
-TARDIF, Maurice. **Saberes docentes e formação profissional** . Petrópolis, RJ, Vozes, 2002. 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Pesquisa Pedagógica Trabalho de Conclusão de Curso - TCC II **CARGA HORÁRIA:**
 
-## **COMPONENTE CURRICULAR:** 
+80 Hora/aula e Hora/relógio (60 min)
 
-Pesquisa Pedagógica Trabalho de Conclusão de Curso - TCC II **CARGA HORÁRIA:** 
+89
 
-80 Hora/aula e Hora/relógio (60 min) 
+Ministerio da Educacao
 
-89 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+## **EMENTA:**
 
-## INSTITUTOFEDERAL Parana 
+Realização do Trabalho de Conclusão de Curso (TCC). Relatório de Atividades. Defesa pública do TCC.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA BÁSICA:**
 
-Realização do Trabalho de Conclusão de Curso (TCC). Relatório de Atividades. Defesa pública do TCC. 
+GAMBOA, Silvio Sánchez. **Pesquisa em educação** : métodos e epistemologias. 2. ed., Chapecó, SC, Argos, 2012. 212 p. (Grandes temas ; 17). ISBN 9788578970376 (broch.)
 
-## **BIBLIOGRAFIA BÁSICA:** 
+INSTITUTO FEDERAL DO PARANÁ. Normas para apresentação de trabalhos acadêmicos do Instituto Federal do Paraná (IFPR). Curitiba, PR , 2010. 86 p. ISBN 9788591074303 (broch.).
 
-GAMBOA, Silvio Sánchez. **Pesquisa em educação** : métodos e epistemologias. 2. ed., Chapecó, SC, Argos, 2012. 212 p. (Grandes temas ; 17). ISBN 9788578970376 (broch.) 
+KNECHTEL, Maria do Rosário. **Metodologia da pesquisa em educação** : uma abordagem teóricoprática dialogada. Curitiba, PR, Intersaberes, 2014. ISBN 9788582128992.
 
-INSTITUTO FEDERAL DO PARANÁ. Normas para apresentação de trabalhos acadêmicos do Instituto Federal do Paraná (IFPR). Curitiba, PR , 2010. 86 p. ISBN 9788591074303 (broch.). 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-KNECHTEL, Maria do Rosário. **Metodologia da pesquisa em educação** : uma abordagem teóricoprática dialogada. Curitiba, PR, Intersaberes, 2014. ISBN 9788582128992. 
+ALVES, Rubem. **Conversas com quem gosta de ensinar** . 12.ed., Campinas, SP, Papirus, 2010. ISBN 8530805895.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+FAZENDA, Ivani (org.). **Metodologia da pesquisa educacional** . 9. ed., São Paulo, SP, Cortez, 2004. 174 p.
 
-ALVES, Rubem. **Conversas com quem gosta de ensinar** . 12.ed., Campinas, SP, Papirus, 2010. ISBN 8530805895. 
+MEDEIROS, João Bosco. **Redação científica** : a prática, fichamentos, resumos, resenhas. 10. ed., São Paulo, SP, Atlas, 2008.
 
-FAZENDA, Ivani (org.). **Metodologia da pesquisa educacional** . 9. ed., São Paulo, SP, Cortez, 2004. 174 p. 
+SEVERINO, Antônio Joaquim. **Metodologia do trabalho científico** . 22. ed., São Paulo, SP, Cortez, 2002. 335 p. ISBN 8524900504.
 
-MEDEIROS, João Bosco. **Redação científica** : a prática, fichamentos, resumos, resenhas. 10. ed., São Paulo, SP, Atlas, 2008. 
+⇜⇝
 
-SEVERINO, Antônio Joaquim. **Metodologia do trabalho científico** . 22. ed., São Paulo, SP, Cortez, 2002. 335 p. ISBN 8524900504. 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Educação Ambiental **CARGA HORÁRIA:**
 
-## **COMPONENTE CURRICULAR:** 
+40 Hora/aula e Hora/relógio (60 min)
 
-Educação Ambiental **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-40 Hora/aula e Hora/relógio (60 min) 
+Política de educação ambiental. O Ambiente e o Humano, implicações intrínsecas. Desenvolvimento, desenvolvimento sustentável e sociedade sustentável. A educação para a sustentabilidade e outras perspectivas educativas. Cultura e Sustentabilidade: ecologia dos saberes.
 
-## **EMENTA:** 
+90
 
-Política de educação ambiental. O Ambiente e o Humano, implicações intrínsecas. Desenvolvimento, desenvolvimento sustentável e sociedade sustentável. A educação para a sustentabilidade e outras perspectivas educativas. Cultura e Sustentabilidade: ecologia dos saberes. 
+INSTITUTOFEDERAL Parana
 
-90 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+A década das Nações Unidas da Educação para o Desenvolvimento Sustentável (EDS). Educação para o desenvolvimento sustentável ou educação para sustentabilidade: questões estratégicas e metodológicas, atividade de curricularização da extensão.
 
-Ministerio da Educacao 
+## **BIBLIOGRAFIA  BÁSICA:**
 
-A década das Nações Unidas da Educação para o Desenvolvimento Sustentável (EDS). Educação para o desenvolvimento sustentável ou educação para sustentabilidade: questões estratégicas e metodológicas, atividade de curricularização da extensão. 
+JUNIOR, Arlindo Philippi; PELICIONI, Maria Focesi. **Educação ambiental e sustentabilidade** . 2.ed., Barueri, SP, Manole, 2014.
 
-## **BIBLIOGRAFIA  BÁSICA:** 
+PINOTTI, Rafael. **Educação Ambiental para o século XXI no Brasil e no mundo** . 2.ed., Editora Bluncher, 2016.
 
-JUNIOR, Arlindo Philippi; PELICIONI, Maria Focesi. **Educação ambiental e sustentabilidade** . 2.ed., Barueri, SP, Manole, 2014. 
+PEDRINI, Alexandre Gusmão. **Paradigmas metodológicos em educação ambiental** . Petrópolis, RJ,  Vozes, 2014.
 
-PINOTTI, Rafael. **Educação Ambiental para o século XXI no Brasil e no mundo** . 2.ed., Editora Bluncher, 2016. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-PEDRINI, Alexandre Gusmão. **Paradigmas metodológicos em educação ambiental** . Petrópolis, RJ,  Vozes, 2014. 
+ALBUNUS, Lívia Luciana Ferreira. ZOUVI, Cristiane Lengler. **Ecopedagogia** : educação e meio ambiente. Curitiba, PR, Intersaberes,2013.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+ALENCASTRO, Mario Sérgio Cunha. **Ética e meio ambiente** : construindo as bases para um futuro sustentável. Curitiba, PR, Intersaberes, 2015.
 
-ALBUNUS, Lívia Luciana Ferreira. ZOUVI, Cristiane Lengler. **Ecopedagogia** : educação e meio ambiente. Curitiba, PR, Intersaberes,2013. 
+CURRIE, Karen. **Meio ambiente: interdisciplinaridade na prática** . Campinas, SP, Papirus, 2016.
 
-ALENCASTRO, Mario Sérgio Cunha. **Ética e meio ambiente** : construindo as bases para um futuro sustentável. Curitiba, PR, Intersaberes, 2015. 
+DOURADO, Juscelino. **Reflexões e práticas em Educação Ambiental** : discutindo o consumo e a geração de resíduos. São Paulo, SP,  Oficina de textos, 2012
 
-CURRIE, Karen. **Meio ambiente: interdisciplinaridade na prática** . Campinas, SP, Papirus, 2016. 
+⇜⇝
 
-DOURADO, Juscelino. **Reflexões e práticas em Educação Ambiental** : discutindo o consumo e a geração de resíduos. São Paulo, SP,  Oficina de textos, 2012 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Educação e Diversidade **CARGA HORÁRIA:** 40 Hora/aula e Hora/relógio (60 min)
 
-## **COMPONENTE CURRICULAR:** 
+## **EMENTA:**
 
-Educação e Diversidade **CARGA HORÁRIA:** 40 Hora/aula e Hora/relógio (60 min) 
+Diversidade étnico-cultural e suas implicações na sociedade e na organização escolar. Análise dos rituais pedagógicos que fundamentam a exclusão racial e social nos sistemas de ensino. A fala e o silêncio da escola, do professor e da criança sobre discriminação de orientação sexual, gênero e o racismo. Alternativas para a análise e intervenção educativa centradas na valorização das diversidades e na promoção do diálogo entre os diferentes sistemas culturais. Ética nas relações.
 
-## **EMENTA:** 
+91
 
-Diversidade étnico-cultural e suas implicações na sociedade e na organização escolar. Análise dos rituais pedagógicos que fundamentam a exclusão racial e social nos sistemas de ensino. A fala e o silêncio da escola, do professor e da criança sobre discriminação de orientação sexual, gênero e o racismo. Alternativas para a análise e intervenção educativa centradas na valorização das diversidades e na promoção do diálogo entre os diferentes sistemas culturais. Ética nas relações. 
+INSTITUTOFEDERAL Parana
 
-91 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+## **BIBLIOGRAFIA  BÁSICA:**
 
-Ministerio da Educacao 
+CORRÊA, Rosa Lydia Teixeira. **Cultura e diversidade** . 1. ed., InterSaberes, 2012. 185 p. (Série Ensino Religioso). ISBN 9788582121870 (broch.).
 
-## **BIBLIOGRAFIA  BÁSICA:** 
+LÓPEZ OCAÑA, Antonio M.; ZAFRA JIMÉNEZ, Manuel. **Atenção à diversidade na educação de jovens** . Porto Alegre, RS, Artmed, 2006. 174 p. (Biblioteca Artmed Formação docente). ISBN 9788536305240 (broch.).
 
-CORRÊA, Rosa Lydia Teixeira. **Cultura e diversidade** . 1. ed., InterSaberes, 2012. 185 p. (Série Ensino Religioso). ISBN 9788582121870 (broch.). 
+MOREIRA, Antonio Flavio Barbosa; CANDAU, Vera Maria (org.). **Multiculturalismo** : diferenças culturais e práticas pedagógicas. 10. ed., Petrópolis, RJ, Vozes, 2008. 245 p. ISBN 9788532636553 (broch.)
 
-LÓPEZ OCAÑA, Antonio M.; ZAFRA JIMÉNEZ, Manuel. **Atenção à diversidade na educação de jovens** . Porto Alegre, RS, Artmed, 2006. 174 p. (Biblioteca Artmed Formação docente). ISBN 9788536305240 (broch.). 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-MOREIRA, Antonio Flavio Barbosa; CANDAU, Vera Maria (org.). **Multiculturalismo** : diferenças culturais e práticas pedagógicas. 10. ed., Petrópolis, RJ, Vozes, 2008. 245 p. ISBN 9788532636553 (broch.) 
+ABRAMOWICZ, Anete; SILVÉRIO, Valter Roberto. **Afirmando diferenças** : montando o quebra-cabeça da diversidade na escola. Campinas, SP, Papirus, 2015. ISBN 9788544900468.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+GENTLE, Ivanilda Matias; ZENAIDE, Maria de Nazaré Tavares; GUIMARÃES, Valéria Maria Gomes (org.). **Gênero, diversidade sexual e educação** : conceituação e práticas de direito e políticas públicas. João Pessoa, PE, Ed. UFPB, 2008. 356 p. ISBN 9788577452279 (broch.).
 
-ABRAMOWICZ, Anete; SILVÉRIO, Valter Roberto. **Afirmando diferenças** : montando o quebra-cabeça da diversidade na escola. Campinas, SP, Papirus, 2015. ISBN 9788544900468. 
+GOMES, Mercio Pereira. **Antropologia/ ciência do homem** : filosofia da cultura. São Paulo, SP, Contexto, 2008. ISBN 9788572443838.
 
-GENTLE, Ivanilda Matias; ZENAIDE, Maria de Nazaré Tavares; GUIMARÃES, Valéria Maria Gomes (org.). **Gênero, diversidade sexual e educação** : conceituação e práticas de direito e políticas públicas. João Pessoa, PE, Ed. UFPB, 2008. 356 p. ISBN 9788577452279 (broch.). 
+LUZ, Nanci Stancki da; CARVALHO, Marília Gomes de; CASAGRANDE, Lindamir  (org.). **Construindo a igualdade na diversidade** : gênero e sexualidade na escola. Curitiba, PR, Ed. da UTFPR, 2009. 285 p. ISBN 9788570140555 (broch.).
 
-GOMES, Mercio Pereira. **Antropologia/ ciência do homem** : filosofia da cultura. São Paulo, SP, Contexto, 2008. ISBN 9788572443838. 
+⇜⇝
 
-LUZ, Nanci Stancki da; CARVALHO, Marília Gomes de; CASAGRANDE, Lindamir  (org.). **Construindo a igualdade na diversidade** : gênero e sexualidade na escola. Curitiba, PR, Ed. da UTFPR, 2009. 285 p. ISBN 9788570140555 (broch.). 
+## **OPTATIVAS**
 
-⇜⇝ 
+**COMPONENTE CURRICULAR:** Pedagogia Hospitalar **CARGA HORÁRIA:**
 
-## **OPTATIVAS** 
+40 Hora/aula e Hora/relógio (60 min)
 
-**COMPONENTE CURRICULAR:** Pedagogia Hospitalar **CARGA HORÁRIA:** 
+92
 
-40 Hora/aula e Hora/relógio (60 min) 
+INSTITUTOFEDERAL Parana
 
-92 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+## **EMENTA:**
 
-Ministerio da Educacao 
+A Pedagogia no contexto da área da Saúde: desenvolvimento histórico; formação do professor hospitalar. A instituição hospitalar: breve histórico; unidades com atendimento educacional. O papel da universidade na pesquisa da educação em hospitais: Pedagogia Hospitalar. Análise de estratégias educativas em hospitais: Classe Hospitalar; Escolarização Hospitalar; Escuta Pedagógica; Inclusão/Humanização; Métodos e Técnicas pedagógicas. Espaços alternativos de aprendizagem no hospital: Brinquedoteca; Ambiente Virtual de Aprendizagem - AVA. Vivência hospitalar: conteúdo escolar e conteúdo vivencial - vida e morte. Profissionais da educação hospitalar.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA BÁSICA:**
 
-A Pedagogia no contexto da área da Saúde: desenvolvimento histórico; formação do professor hospitalar. A instituição hospitalar: breve histórico; unidades com atendimento educacional. O papel da universidade na pesquisa da educação em hospitais: Pedagogia Hospitalar. Análise de estratégias educativas em hospitais: Classe Hospitalar; Escolarização Hospitalar; Escuta Pedagógica; Inclusão/Humanização; Métodos e Técnicas pedagógicas. Espaços alternativos de aprendizagem no hospital: Brinquedoteca; Ambiente Virtual de Aprendizagem - AVA. Vivência hospitalar: conteúdo escolar e conteúdo vivencial - vida e morte. Profissionais da educação hospitalar. 
+CUNHA, Eugênio. **Afeto e aprendizagem** : relação de amorosidade e saber na prática pedagógica. 3. ed., Rio de Janeiro, RJ, Wak, 2012. 129 p. ISBN 9788588081963 (broch.)
 
-## **BIBLIOGRAFIA BÁSICA:** 
+JUSTI, Eliane Martins Quadrelli; FONSECA, Eneida Simões da; SOUZA, Luciane do Rocio dos Santos de. **Pedagogia e escolarização no hospital** . Curitiba, PR, Intersaberes, 2012. (Dimensões da educação). ISBN 9788565704359.
 
-CUNHA, Eugênio. **Afeto e aprendizagem** : relação de amorosidade e saber na prática pedagógica. 3. ed., Rio de Janeiro, RJ, Wak, 2012. 129 p. ISBN 9788588081963 (broch.) 
+MATOS, Elizete Lúcia Moreira. **Pedagogia hospitalar** . 7. Ed., Petrópolis, RJ, Vozes 183 ISBN 9788532634085.
 
-JUSTI, Eliane Martins Quadrelli; FONSECA, Eneida Simões da; SOUZA, Luciane do Rocio dos Santos de. **Pedagogia e escolarização no hospital** . Curitiba, PR, Intersaberes, 2012. (Dimensões da educação). ISBN 9788565704359. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-MATOS, Elizete Lúcia Moreira. **Pedagogia hospitalar** . 7. Ed., Petrópolis, RJ, Vozes 183 ISBN 9788532634085. 
+ASSIS, Walkiria de. **Classe Hospitalar** : um olhar pedagógico singular. 1. ed.; São Paulo, SP, Phorte editora, 2009
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+LAJONQUIÈRE, Leandro de. **De Piaget a Freud para repensar as aprendizagens** : a (psico)pedagogia entre o conhecimento e o saber. Petrópolis, RJ, Vozes, 1995.. (Coleção psicopedagogia e psicanálise) ISBN 9788532608888.
 
-ASSIS, Walkiria de. **Classe Hospitalar** : um olhar pedagógico singular. 1. ed.; São Paulo, SP, Phorte editora, 2009 
+NAZARETH, Catia Aparecida Lopes. **Atendimento escolar à criança hospitalizada** . Curitiba, PR, Intersaberes, 2015. ISBN 9788544302538.
 
-LAJONQUIÈRE, Leandro de. **De Piaget a Freud para repensar as aprendizagens** : a (psico)pedagogia entre o conhecimento e o saber. Petrópolis, RJ, Vozes, 1995.. (Coleção psicopedagogia e psicanálise) ISBN 9788532608888. 
+⇜⇝
 
-NAZARETH, Catia Aparecida Lopes. **Atendimento escolar à criança hospitalizada** . Curitiba, PR, Intersaberes, 2015. ISBN 9788544302538. 
+93
 
-⇜⇝ 
+Ministerio da Educacao
 
-93 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+## **COMPONENTE CURRICULAR:**
 
-## INSTITUTOFEDERAL Parana 
+Robótica Educativa **CARGA HORÁRIA:**
 
-## **COMPONENTE CURRICULAR:** 
+40 Hora/aula e Hora/relógio (60 min)
 
-Robótica Educativa **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-40 Hora/aula e Hora/relógio (60 min) 
+Estratégias educativas. Conceito e historicidade de robótica. Conhecimento de kits e materiais disponíveis para o desenvolvimento de atividades com Educação Infantil, anos iniciais do Ensino Fundamental e Formação de Professores.
 
-## **EMENTA:** 
+## **Bibliografia Básica:**
 
-Estratégias educativas. Conceito e historicidade de robótica. Conhecimento de kits e materiais disponíveis para o desenvolvimento de atividades com Educação Infantil, anos iniciais do Ensino Fundamental e Formação de Professores. 
+JUNIOR, Luiz de Souza. **Robótica no ensino público, uma perspectiva interdisciplinar.** 1.ed., São Carlos, SP. pEte Educação com Tecnologia, 2015. – disponível em https://d335luupugsy2.cloudfront.net/cms/files/37352/1499021906Ebook_RoboticaEnsinoPublic o.pdf    N/A
 
-## **Bibliografia Básica:** 
+LÉVY, Pierre.. **As tecnologias da inteligência** : o futuro do pensamento na era da informação. Rio de Janeiro, RJ, Editora 34, 1993.
 
-JUNIOR, Luiz de Souza. **Robótica no ensino público, uma perspectiva interdisciplinar.** 1.ed., São Carlos, SP. pEte Educação com Tecnologia, 2015. – disponível em https://d335luupugsy2.cloudfront.net/cms/files/37352/1499021906Ebook_RoboticaEnsinoPublic o.pdf    N/A 
+MORIN, Edgar. **Os sete saberes necessários à educação do futuro** . São Paulo, SP, Cortez,2006.
 
-LÉVY, Pierre.. **As tecnologias da inteligência** : o futuro do pensamento na era da informação. Rio de Janeiro, RJ, Editora 34, 1993. 
+## **Bibliografia Complementar:**
 
-MORIN, Edgar. **Os sete saberes necessários à educação do futuro** . São Paulo, SP, Cortez,2006. 
+DANTAS, Scheila Leal. **História da robótica na educaçã** o [recurso eletrônico]. Curitiba, PR, Contentus, 2020. ISBN 978-65-5745-403-9.
 
-## **Bibliografia Complementar:** 
+CRAIG, John. **Introdução à Robótica** . 3.ed., São Paulo, SP, Pearson, 2013.
 
-DANTAS, Scheila Leal. **História da robótica na educaçã** o [recurso eletrônico]. Curitiba, PR, Contentus, 2020. ISBN 978-65-5745-403-9. 
+MATARIC, Maja ; FILHO, Humberto Ferasoli; SILVA, José Reinaldo; ALVES, Silas Franco dos Reis. **Introdução à robótica** . São Paulo, SP, Pearson, 2014.
 
-CRAIG, John. **Introdução à Robótica** . 3.ed., São Paulo, SP, Pearson, 2013. 
+PAPERT, Seymour. **Logo: computadores e educação** . São Paulo, SP, Brasiliense, 1985.
 
-MATARIC, Maja ; FILHO, Humberto Ferasoli; SILVA, José Reinaldo; ALVES, Silas Franco dos Reis. **Introdução à robótica** . São Paulo, SP, Pearson, 2014. 
+⇜⇝
 
-PAPERT, Seymour. **Logo: computadores e educação** . São Paulo, SP, Brasiliense, 1985. 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Espaços Educativos não escolares **CARGA HORÁRIA:**
 
-## **COMPONENTE CURRICULAR:** 
+40 Hora/aula e Hora/relógio (60 min)
 
-Espaços Educativos não escolares **CARGA HORÁRIA:** 
+**EMENTA:**
 
-40 Hora/aula e Hora/relógio (60 min) 
+94
 
-**EMENTA:** 
+INSTITUTOFEDERAL Parana
 
-94 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+O ato educativo nos diferentes espaços. Análise e reflexão dos processos educativos no interior de instituições formais e não formais governamentais e não governamentais. Possibilidades de atuação do pedagogo/professor nos espaços não escolares que desenvolvem diferentes práticas pedagógicas com base em diferentes perspectivas filosófica/conceituais. Avaliação, Inclusão e Diversidade nos espaços educativos não formais.
 
-Ministerio da Educacao 
+## **BIBLIOGRAFIA BÁSICA:**
 
-O ato educativo nos diferentes espaços. Análise e reflexão dos processos educativos no interior de instituições formais e não formais governamentais e não governamentais. Possibilidades de atuação do pedagogo/professor nos espaços não escolares que desenvolvem diferentes práticas pedagógicas com base em diferentes perspectivas filosófica/conceituais. Avaliação, Inclusão e Diversidade nos espaços educativos não formais. 
+BEHRENS, Marilda Aparecida. **O paradigma da complexidade** : metodologias de projetos, contratos didáticos e portfólios. Petrópolis, RJ, Vozes, 2008.. ISBN 9788532632470 (broch.).
 
-## **BIBLIOGRAFIA BÁSICA:** 
+NETO, Luiz Bezerra. **Sem-Terra aprende e ensina** : estudo sobre as práticas educativas do movimento dos trabalhadores rurais. Campinas, SP, Autores Associados, 1999. (Coleção polêmicas do nosso tempo). ISBN 858570182X (broch.).
 
-BEHRENS, Marilda Aparecida. **O paradigma da complexidade** : metodologias de projetos, contratos didáticos e portfólios. Petrópolis, RJ, Vozes, 2008.. ISBN 9788532632470 (broch.). 
+FREIRE, Paulo. **Educação como prática da liberdade** . 15. ed., São Paulo, SP, Paz & Terra, 2013.. ISBN 9788577531653 (broch.).
 
-NETO, Luiz Bezerra. **Sem-Terra aprende e ensina** : estudo sobre as práticas educativas do movimento dos trabalhadores rurais. Campinas, SP, Autores Associados, 1999. (Coleção polêmicas do nosso tempo). ISBN 858570182X (broch.). 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-FREIRE, Paulo. **Educação como prática da liberdade** . 15. ed., São Paulo, SP, Paz & Terra, 2013.. ISBN 9788577531653 (broch.). 
+CUNHA, Aline Lemos da (et. Al). **Pedagogia e ambientes não escolares** . Vários autor(es): Aline Lemos Da Cunha, Elaine De Santa Helena, Graziela Rossetto Giron, José Geraldo Soares Damico, Karen Selbach Borges, Laíno Alberto Schneider, Maria De Lourdes Borges, Taís Schmitz. Curitiba, PR, Intersaberes, 2013.. ISBN 9788582124918.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+LIPPE, Eliza Maria Oliveira (org.). **Pedagogia organizacional** . São Paulo, SP, Pearson, 2017. ISBN 9788543025889.
 
-CUNHA, Aline Lemos da (et. Al). **Pedagogia e ambientes não escolares** . Vários autor(es): Aline Lemos Da Cunha, Elaine De Santa Helena, Graziela Rossetto Giron, José Geraldo Soares Damico, Karen Selbach Borges, Laíno Alberto Schneider, Maria De Lourdes Borges, Taís Schmitz. Curitiba, PR, Intersaberes, 2013.. ISBN 9788582124918. 
+MELO, Alessandro de. **Relações entre escola e comunidade** . Curitiba, PR, Intersaberes, 2011. 9788582123744.
 
-LIPPE, Eliza Maria Oliveira (org.). **Pedagogia organizacional** . São Paulo, SP, Pearson, 2017. ISBN 9788543025889. 
+PAULO, Fernanda dos Santos. **Concepções de educação espaços, práticas, metodologias e trabalhadores da educação não escolar** . Curitiba, PR, Intersaberes, 2020. ISBN 9786555175738
 
-MELO, Alessandro de. **Relações entre escola e comunidade** . Curitiba, PR, Intersaberes, 2011. 9788582123744. 
+⇜⇝
 
-PAULO, Fernanda dos Santos. **Concepções de educação espaços, práticas, metodologias e trabalhadores da educação não escolar** . Curitiba, PR, Intersaberes, 2020. ISBN 9786555175738 
+**COMPONENTE CURRICULAR:** Educação Online e Híbrida **CARGA HORÁRIA:**
 
-⇜⇝ 
+40 Hora/aula e Hora/relógio (60 min)
 
-**COMPONENTE CURRICULAR:** Educação Online e Híbrida **CARGA HORÁRIA:** 
+95
 
-40 Hora/aula e Hora/relógio (60 min) 
+INSTITUTOFEDERAL Parana
 
-95 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+## **EMENTA:**
 
-Ministerio da Educacao 
+A educação online na contemporaneidade nos diferentes níveis e modalidades educacionais. A integração das tecnologias no planejamento e avaliação de propostas educacionais híbridas
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA BÁSICA:**
 
-A educação online na contemporaneidade nos diferentes níveis e modalidades educacionais. A integração das tecnologias no planejamento e avaliação de propostas educacionais híbridas 
+BACICH, Lilian.; NETO, Adolfo Tanzi.; TREVISANI, Fernando de Melo. (orgs.). **Ensino híbrido** : personalização e tecnologia na educação. Porto Alegre, RS, Penso, 2015.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+LÉVY, Pierre. **Cibercultura** . São Paulo, SP,  ed.34, 1999.
 
-BACICH, Lilian.; NETO, Adolfo Tanzi.; TREVISANI, Fernando de Melo. (orgs.). **Ensino híbrido** : personalização e tecnologia na educação. Porto Alegre, RS, Penso, 2015. 
+SILVA, Marco. **Educação online** : teorias, práticas, legislação, formação corporativa. São Paulo, SP, Loyola, 2003.
 
-LÉVY, Pierre. **Cibercultura** . São Paulo, SP,  ed.34, 1999. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-SILVA, Marco. **Educação online** : teorias, práticas, legislação, formação corporativa. São Paulo, SP, Loyola, 2003. 
+KENSKI, Vânia Moreira. **Tecnologias e Tempo docente** . Campina, SP,  Papirus, 2013.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+LIMA, Conceição. **CiberCultura, CiberLinguagem e CiberEducação** . 1. ed., São Paulo, SP, Biblioteca 24 horas, 2012. ISBN 9788541602839 (broch.).
 
-KENSKI, Vânia Moreira. **Tecnologias e Tempo docente** . Campina, SP,  Papirus, 2013. 
+MAIA, Carmem; MATTAR, João. **ABC da EaD** : a educação a distância hoje. São Paulo, SP, Pearson, 2007.  ISBN 9788576051572.
 
-LIMA, Conceição. **CiberCultura, CiberLinguagem e CiberEducação** . 1. ed., São Paulo, SP, Biblioteca 24 horas, 2012. ISBN 9788541602839 (broch.). 
+SILVA, Marco. **Formação de professores para docência "online"** . São Paulo, SP, Loyola, 2012.
 
-MAIA, Carmem; MATTAR, João. **ABC da EaD** : a educação a distância hoje. São Paulo, SP, Pearson, 2007.  ISBN 9788576051572. 
+⇜⇝
 
-SILVA, Marco. **Formação de professores para docência "online"** . São Paulo, SP, Loyola, 2012. 
+## **ELETIVAS**
 
-⇜⇝ 
+⇜⇝
 
-## **ELETIVAS** 
+## **COMPONENTE CURRICULAR:**
 
-⇜⇝ 
+Língua Espanhola **CARGA HORÁRIA:** 40 Hora/aula e Hora/relógio (60 min)
 
-## **COMPONENTE CURRICULAR:** 
+## **EMENTA:**
 
-Língua Espanhola **CARGA HORÁRIA:** 40 Hora/aula e Hora/relógio (60 min) 
+Uso da língua espanhola nas habilidades de leitura, escrita, recepção e produção oral em nível básico. Morfologia: Formação lexical. Registro formal e informal. Diferenças culturais entre os povos de línguas espanhola e brasileira. Apropriação dos recursos estilísticos próprios da comunicação, com ênfase em pedagogia. Leitura e interpretação de textos autênticos em língua espanhola.
 
-## **EMENTA:** 
+96
 
-Uso da língua espanhola nas habilidades de leitura, escrita, recepção e produção oral em nível básico. Morfologia: Formação lexical. Registro formal e informal. Diferenças culturais entre os povos de línguas espanhola e brasileira. Apropriação dos recursos estilísticos próprios da comunicação, com ênfase em pedagogia. Leitura e interpretação de textos autênticos em língua espanhola. 
+INSTITUTOFEDERAL Parana
 
-96 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+## **BIBLIOGRAFIA BÁSICA:**
 
-Ministerio da Educacao 
+FERNÁNDEZ, Gretel Eres; CALLEGARI, Marília Vasques; RINALDI, Simone. **Atividades lúdicas para a aula de língua estrangeira,espanhol** : considerações teóricas e propostas didáticas. São Paulo SP, IBEP, 2012. ISBN 9788534232098 (broch.).
 
-## **BIBLIOGRAFIA BÁSICA:** 
+GARCÍA SANTOS, Juan Felipe (Cood.). **Ahora, sí!** : língua espanhola. São Paulo, SP, Escala Educacional, 2007. ISBN 8576667401 (broch).
 
-FERNÁNDEZ, Gretel Eres; CALLEGARI, Marília Vasques; RINALDI, Simone. **Atividades lúdicas para a aula de língua estrangeira,espanhol** : considerações teóricas e propostas didáticas. São Paulo SP, IBEP, 2012. ISBN 9788534232098 (broch.). 
+JACOBI, Claudia; MELONE, Enrique; MENÓN, Lorena. **Clave** : español para el mundo. 3. ed., São Paulo, SP, Moderna, 2012. 159 p. ISBN 9788516078027 (broch.).
 
-GARCÍA SANTOS, Juan Felipe (Cood.). **Ahora, sí!** : língua espanhola. São Paulo, SP, Escala Educacional, 2007. ISBN 8576667401 (broch). 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-JACOBI, Claudia; MELONE, Enrique; MENÓN, Lorena. **Clave** : español para el mundo. 3. ed., São Paulo, SP, Moderna, 2012. 159 p. ISBN 9788516078027 (broch.). 
+FERRARI, Ana Josefina; MORENO DE MUSSINI, Ester Petra Sara. **La escritura en lengua española** . Curitiba, PR, Intersaberes, 2012. (Língua espanhola em foco). ISBN 9788582123829.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+FERRARI, Ana Josefina. **La lectura en lengua española** . Curitiba, PR, Intersaberes, 2012. ISBN 9788582123485.
 
-FERRARI, Ana Josefina; MORENO DE MUSSINI, Ester Petra Sara. **La escritura en lengua española** . Curitiba, PR, Intersaberes, 2012. (Língua espanhola em foco). ISBN 9788582123829. 
+SEDYCIAS, João (org.). **O ensino do espanhol no Brasil** : passado, presente, futuro. 1. ed., São Paulo, SP, Parábola Editorial, 2005.. (Estratégias de ensino ; 1). ISBN 9788588456327 (broch.).
 
-FERRARI, Ana Josefina. **La lectura en lengua española** . Curitiba, PR, Intersaberes, 2012. ISBN 9788582123485. 
+VARGAS SIERRA, Teresa. **Espanhol instrumental** . Curitiba, PR, Intersaberes, 2012. ISBN 9788582123454.
 
-SEDYCIAS, João (org.). **O ensino do espanhol no Brasil** : passado, presente, futuro. 1. ed., São Paulo, SP, Parábola Editorial, 2005.. (Estratégias de ensino ; 1). ISBN 9788588456327 (broch.). 
+⇜⇝
 
-VARGAS SIERRA, Teresa. **Espanhol instrumental** . Curitiba, PR, Intersaberes, 2012. ISBN 9788582123454. 
+## **COMPONENTE CURRICULAR :**
 
-⇜⇝ 
+Língua Inglesa **CARGA HORÁRIA:**
 
-## **COMPONENTE CURRICULAR :** 
+40 Hora/aula e Hora/relógio (60 min)
 
-Língua Inglesa **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-40 Hora/aula e Hora/relógio (60 min) 
+Uso da língua inglesa nas habilidades de leitura, escrita, recepção e produção oral em nível básico. Morfologia: Formação lexical. Registro formal e informal. Diferenças culturais entre os povos de línguas inglesa e brasileira. Apropriação dos recursos estilísticos próprios da comunicação, com ênfase em pedagogia. Leitura e interpretação de textos autênticos em língua inglesa.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA BÁSICA:**
 
-Uso da língua inglesa nas habilidades de leitura, escrita, recepção e produção oral em nível básico. Morfologia: Formação lexical. Registro formal e informal. Diferenças culturais entre os povos de línguas inglesa e brasileira. Apropriação dos recursos estilísticos próprios da comunicação, com ênfase em pedagogia. Leitura e interpretação de textos autênticos em língua inglesa. 
+97
 
-## **BIBLIOGRAFIA BÁSICA:** 
+INSTITUTOFEDERAL Parana
 
-97 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+LEDERMAN, Ligia; POTTER, Louise Emma. **Atividades com jogos para o ensino de inglês** . Barueri: Disal, 2013..
 
-Ministerio da Educacao 
+LIMA, Denilso de. **Combinando palavras em inglês** : seja fluente em inglês aprendendo collocations. Rio de Janeiro: Corpus, 2013. 179 p. ISBN 9788521628743 (broch.).
 
-LEDERMAN, Ligia; POTTER, Louise Emma. **Atividades com jogos para o ensino de inglês** . Barueri: Disal, 2013.. 
+POSSENTI, Sírio. P **or que (não) ensinar gramática na escola** . São Paulo, SP, Mercado das Letras, 1996.
 
-LIMA, Denilso de. **Combinando palavras em inglês** : seja fluente em inglês aprendendo collocations. Rio de Janeiro: Corpus, 2013. 179 p. ISBN 9788521628743 (broch.). 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-POSSENTI, Sírio. P **or que (não) ensinar gramática na escola** . São Paulo, SP, Mercado das Letras, 1996. 
+BALADELI, Ana Paula Domingos. **Desafios na formação descontinuada de professores de inglês para o uso pedagógico da internet** . Jundiaí, SP, Paco Editorial, 2013.. ISBN 9788581482958 (broch.).
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+LAPKOSKI, Graziella Araujo de Oliveira. **Do texto ao sentido** : teoria e prática de leitura em língua inglesa. Curitiba, PR,  InterSaberes, 2012. ISBN 9788582122815.
 
-BALADELI, Ana Paula Domingos. **Desafios na formação descontinuada de professores de inglês para o uso pedagógico da internet** . Jundiaí, SP, Paco Editorial, 2013.. ISBN 9788581482958 (broch.). 
+NUNES, Lygia Bojunga. **Aula de inglês** . Rio de Janeiro, RJ, Casa Lygia Bojunga, 2006. ISBN 8589020193 (broch.).
 
-LAPKOSKI, Graziella Araujo de Oliveira. **Do texto ao sentido** : teoria e prática de leitura em língua inglesa. Curitiba, PR,  InterSaberes, 2012. ISBN 9788582122815. 
+## 4.3 AVALIAÇÃO
 
-NUNES, Lygia Bojunga. **Aula de inglês** . Rio de Janeiro, RJ, Casa Lygia Bojunga, 2006. ISBN 8589020193 (broch.). 
+## **4.3.1 Avaliação da Aprendizagem**
 
-## 4.3 AVALIAÇÃO 
+A proposta de avaliação no Curso de Pedagogia busca focar a intencionalidade na formação do futuro profissional e acontecer de forma coerente com as discussões realizadas no decorrer do curso entre professores e coordenação, professores e seus pares, professores e estudantes, estudantes e estudantes, estudantes e coordenação. Esta discussão permeia o desenvolvimento da avaliação, tanto na forma institucional como a do processo de ensino-aprendizagem. Assim sendo, na busca da qualidade do processo educativo, segue o Curso de acordo com as normativas presentes na Resolução CONSUP/IFPR Nº 50 de 14 de julho de 2017 e outras normativas institucionais.
 
-## **4.3.1 Avaliação da Aprendizagem** 
+98
 
-A proposta de avaliação no Curso de Pedagogia busca focar a intencionalidade na formação do futuro profissional e acontecer de forma coerente com as discussões realizadas no decorrer do curso entre professores e coordenação, professores e seus pares, professores e estudantes, estudantes e estudantes, estudantes e coordenação. Esta discussão permeia o desenvolvimento da avaliação, tanto na forma institucional como a do processo de ensino-aprendizagem. Assim sendo, na busca da qualidade do processo educativo, segue o Curso de acordo com as normativas presentes na Resolução CONSUP/IFPR Nº 50 de 14 de julho de 2017 e outras normativas institucionais. 
+INSTITUTOFEDERAL Parana
 
-98 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+Para abordarmos a concepção de avaliação que permeará as práticas mediadoras da aprendizagem na licenciatura em Pedagogia faz interessante resgatar o embasamento legal brasileiro, qual seja, a LDB 9.394/96 em seu artigo 24
 
-Ministerio da Educacao 
+A verificação do rendimento escolar observará critérios, dentre eles podemos destacar: a) avaliação contínua e cumulativa do desempenho do aluno, com prevalência dos aspectos qualitativos sobre os quantitativos e dos resultados ao longo do período sobre os de eventuais provas finais;
 
-Para abordarmos a concepção de avaliação que permeará as práticas mediadoras da aprendizagem na licenciatura em Pedagogia faz interessante resgatar o embasamento legal brasileiro, qual seja, a LDB 9.394/96 em seu artigo 24 
+A partir dessa legalidade compreendemos que a concepção de avaliação da aprendizagem nessa proposição de licenciatura em Pedagogia perpassa a compreensão de que a avaliação **não é apenas** _**da**_ aprendizagem, **mas** _**para a**_ aprendizagem, Durand; Chouinard (2012).
 
-A verificação do rendimento escolar observará critérios, dentre eles podemos destacar: a) avaliação contínua e cumulativa do desempenho do aluno, com prevalência dos aspectos qualitativos sobre os quantitativos e dos resultados ao longo do período sobre os de eventuais provas finais; 
+Nesse sentido, os aspectos dignóstico e formativo, são baseados no princípio mediador, Hoffmann (2013) e em Luckesi (2011) para quem o erro é visto como fonte de virtude e não como fonte de castigo.
 
-A partir dessa legalidade compreendemos que a concepção de avaliação da aprendizagem nessa proposição de licenciatura em Pedagogia perpassa a compreensão de que a avaliação **não é apenas** _**da**_ aprendizagem, **mas** _**para a**_ aprendizagem, Durand; Chouinard (2012). 
+A **avaliação diagnóstica** , de acordo com Hoffmann (2011) é início, parte do processo e fim que permite o conhecimento das construções pessoais dos estudantes, aprendidas a partir da sua vivência em determinada realidade sociocultural. Podem parecer construções incoerentes do ponto de vista científico, mas lógicas para o estudante que as construiu a partir de certas “convicções” que deram certo em seu meio.
 
-Nesse sentido, os aspectos dignóstico e formativo, são baseados no princípio mediador, Hoffmann (2013) e em Luckesi (2011) para quem o erro é visto como fonte de virtude e não como fonte de castigo. 
+A **avaliação formativa ou mediadora** há a interpretação das atividades mas, também do processo de construção de um determinado conhecimento, o diálogo sobre as atividades, retomadas, reformulações das mesmas. Além de elaboração de novos desafios intelectuais a partir dos conteúdos para os estudantes. Nesse sentido, a **avaliação mediadora** baseia-se na perspectiva de que a partir da expressão “mediadora” a intenção do avaliador não é a de ver, justificar, explicar o que o aluno “alcançou” em termos de resultados de aprendizagem, mas a de desafiar todos os alunos continuamente a ir adiante, avançar confiando em suas possibilidades e oferecendo-lhe, sobretudo apoio pedagógico adequado. Hoffmann (2013).
 
-A **avaliação diagnóstica** , de acordo com Hoffmann (2011) é início, parte do processo e fim que permite o conhecimento das construções pessoais dos estudantes, aprendidas a partir da sua vivência em determinada realidade sociocultural. Podem parecer construções incoerentes do ponto de vista científico, mas lógicas para o estudante que as construiu a partir de certas “convicções” que deram certo em seu meio. 
+99
 
-A **avaliação formativa ou mediadora** há a interpretação das atividades mas, também do processo de construção de um determinado conhecimento, o diálogo sobre as atividades, retomadas, reformulações das mesmas. Além de elaboração de novos desafios intelectuais a partir dos conteúdos para os estudantes. Nesse sentido, a **avaliação mediadora** baseia-se na perspectiva de que a partir da expressão “mediadora” a intenção do avaliador não é a de ver, justificar, explicar o que o aluno “alcançou” em termos de resultados de aprendizagem, mas a de desafiar todos os alunos continuamente a ir adiante, avançar confiando em suas possibilidades e oferecendo-lhe, sobretudo apoio pedagógico adequado. Hoffmann (2013). 
+## INSTITUTOFEDERAL Parana
 
-99 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+Como parte integrante desse processo inclui-se a **avaliação por pares e a autoavaliação** que farão parte de nossas práticas de avaliação para a aprendizagem.
 
-Ministerio da Educacao 
+De acordo com Villas Boas (2009) a **avaliação por pares** , ou seja, entre os próprios estudantes constitui-se o primeiro passo para a autoavaliação. Além disso, sabendo que serão apreciadas por colegas os estudantes as preparam com maior cuidado e detém um interlocutor para além do professor. A mediação ocorre no mesmo nível e linguagem e há a maior aceitação dos comentários. Para tanto iniciaremos em duplas, passando então, para trios e grupos. Essa prática de avaliação mediadora que se utiliza das estratégias da mediação em pares amplia a comunicação e se assemelha ao mundo do trabalho, não descartando a ação mediadora do docente nesse processo.
 
-Como parte integrante desse processo inclui-se a **avaliação por pares e a autoavaliação** que farão parte de nossas práticas de avaliação para a aprendizagem. 
+Na **autoavaliação** o estudante conduzido pelo professor em um exercício metacognitivo pensa sobre seu próprio processo de aprendizagem. Essa prática pode utilizar-se de diferentes instrumentos por exemplo, o memorial de aprendizagem ou descritivo. Considerando a formação de professores essa prática de avaliação para a aprendizagem por meio da autoavaliação e metacognição (refere-se à capacidade de uma pessoa de prever o próprio desempenho em diversas tarefas. Por exemplo: até que ponto ela é capaz de se lembrar de diversos estímulos, de monitorar seus níveis atuais de domínio e compreensão). Essas práticas constituem o primeiro passo do caminhar para a prática reflexiva do Pedagogo Libâneo (2010) e (2011).
 
-De acordo com Villas Boas (2009) a **avaliação por pares** , ou seja, entre os próprios estudantes constitui-se o primeiro passo para a autoavaliação. Além disso, sabendo que serão apreciadas por colegas os estudantes as preparam com maior cuidado e detém um interlocutor para além do professor. A mediação ocorre no mesmo nível e linguagem e há a maior aceitação dos comentários. Para tanto iniciaremos em duplas, passando então, para trios e grupos. Essa prática de avaliação mediadora que se utiliza das estratégias da mediação em pares amplia a comunicação e se assemelha ao mundo do trabalho, não descartando a ação mediadora do docente nesse processo. 
+A avaliação buscará privilegiar a predominância de aspectos qualitativos sobre os quantitativos. A avaliação será processual e contínua, prevalecendo o desempenho do estudante ao longo do curso. Nesta situação, a avaliação tem como características as funções diagnóstica, formativa e somativa.
 
-Na **autoavaliação** o estudante conduzido pelo professor em um exercício metacognitivo pensa sobre seu próprio processo de aprendizagem. Essa prática pode utilizar-se de diferentes instrumentos por exemplo, o memorial de aprendizagem ou descritivo. Considerando a formação de professores essa prática de avaliação para a aprendizagem por meio da autoavaliação e metacognição (refere-se à capacidade de uma pessoa de prever o próprio desempenho em diversas tarefas. Por exemplo: até que ponto ela é capaz de se lembrar de diversos estímulos, de monitorar seus níveis atuais de domínio e compreensão). Essas práticas constituem o primeiro passo do caminhar para a prática reflexiva do Pedagogo Libâneo (2010) e (2011). 
+As avaliações poderão ocorrer por meios de: seminários, trabalhos individuais ou em grupos, testes escritos e orais, dramatizações, demonstrações de técnicas em laboratórios, apresentação de trabalhos finais de iniciação científica; artigos científicos, trabalho final de curso, portfólios, resenhas, autoavaliação, entre outros.
 
-A avaliação buscará privilegiar a predominância de aspectos qualitativos sobre os quantitativos. A avaliação será processual e contínua, prevalecendo o desempenho do estudante ao longo do curso. Nesta situação, a avaliação tem como características as funções diagnóstica, formativa e somativa. 
+Cada componente curricular deverá propor no mínimo duas avaliações e recomenda-se que nos momentos em que elas ocorram, o(a) professor(a) faça uso de formas e meios diferenciados para contemplar a individualidade e ritmo e as habilidades dos estudantes nos encontros
 
-As avaliações poderão ocorrer por meios de: seminários, trabalhos individuais ou em grupos, testes escritos e orais, dramatizações, demonstrações de técnicas em laboratórios, apresentação de trabalhos finais de iniciação científica; artigos científicos, trabalho final de curso, portfólios, resenhas, autoavaliação, entre outros. 
+100
 
-Cada componente curricular deverá propor no mínimo duas avaliações e recomenda-se que nos momentos em que elas ocorram, o(a) professor(a) faça uso de formas e meios diferenciados para contemplar a individualidade e ritmo e as habilidades dos estudantes nos encontros 
+INSTITUTOFEDERAL Parana
 
-100 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+presenciais. Fica vedado ao professor submeter o estudante a uma única oportunidade e a um único instrumento de avaliação.
 
-Ministerio da Educacao 
+Os resultados das avaliações serão expressos em conceitos A, B, C ou D. Será considerado aprovado o estudante que obtiver os conceitos A, B ou C e frequência igual ou superior a 75% (setenta e cinco por cento) na unidade/área curricular.
 
-presenciais. Fica vedado ao professor submeter o estudante a uma única oportunidade e a um único instrumento de avaliação. 
+Caso o estudante seja reprovado por conceito ele terá a oportunidade de realizar uma avaliação de recuperação, caberá ao professor de cada componente curricular elaborar tal avaliação.
 
-Os resultados das avaliações serão expressos em conceitos A, B, C ou D. Será considerado aprovado o estudante que obtiver os conceitos A, B ou C e frequência igual ou superior a 75% (setenta e cinco por cento) na unidade/área curricular. 
+## **4.3.2 Plano de Avaliação Institucional**
 
-Caso o estudante seja reprovado por conceito ele terá a oportunidade de realizar uma avaliação de recuperação, caberá ao professor de cada componente curricular elaborar tal avaliação. 
+A CPA (Comissão Própria de Avaliação) é instituída pelo SINAES (Sistema Nacional de Avaliação da Educação Superior) e é responsável pela implantação e desenvolvimento de processos de avaliação institucional. Os instrumentos de avaliação (questionários, pesquisas ou outras ferramentas) a serem desenvolvidas pela CPA servirão para o planejamento educacional  das as áreas e setores que precisam de melhorias.
 
-## **4.3.2 Plano de Avaliação Institucional** 
+Atribuições da CPA do IFPR:
 
-A CPA (Comissão Própria de Avaliação) é instituída pelo SINAES (Sistema Nacional de Avaliação da Educação Superior) e é responsável pela implantação e desenvolvimento de processos de avaliação institucional. Os instrumentos de avaliação (questionários, pesquisas ou outras ferramentas) a serem desenvolvidas pela CPA servirão para o planejamento educacional  das as áreas e setores que precisam de melhorias. 
+I. Apreciar:
 
-Atribuições da CPA do IFPR: 
+a) o cumprimento dos princípios, finalidades e objetivos institucionais;
 
-I. Apreciar: 
+b) a missão e o Plano de Desenvolvimento Institucional (PDI);
 
-a) o cumprimento dos princípios, finalidades e objetivos institucionais; 
+c) as políticas de ensino, pesquisa, pós-graduação e extensão;
 
-b) a missão e o Plano de Desenvolvimento Institucional (PDI); 
+d) a responsabilidade social da Instituição;
 
-c) as políticas de ensino, pesquisa, pós-graduação e extensão; 
+e) a infraestrutura física, em especial a do ensino, pesquisa, pós-graduação, extensão e biblioteca;
 
-d) a responsabilidade social da Instituição; 
+f) a comunicação com a sociedade;
 
-e) a infraestrutura física, em especial a do ensino, pesquisa, pós-graduação, extensão e biblioteca; 
+g) a organização e gestão da Instituição;
 
-f) a comunicação com a sociedade; 
+h) o planejamento e avaliação, especialmente os processos, resultados e eficácia da auto-avaliação institucional; e
 
-g) a organização e gestão da Instituição; 
+i) as políticas de atendimento aos estudantes.
 
-h) o planejamento e avaliação, especialmente os processos, resultados e eficácia da auto-avaliação institucional; e 
+101
 
-i) as políticas de atendimento aos estudantes. 
+INSTITUTOFEDERAL Parana
 
-101 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+II. Analisar as avaliações dos diferentes segmentos do IFPR, no âmbito da sua competência; III. Desenvolver estudos e análises, visando o fornecimento de subsídios para fixação, aperfeiçoamento e modificação da política da Avaliação Institucional;
 
-Ministerio da Educacao 
+IV. Propor projetos, programas e ações que proporcionem a melhoria do processo avaliativo institucional;
 
-II. Analisar as avaliações dos diferentes segmentos do IFPR, no âmbito da sua competência; III. Desenvolver estudos e análises, visando o fornecimento de subsídios para fixação, aperfeiçoamento e modificação da política da Avaliação Institucional; 
+V. Participar de todas as atividades relativas a eventos promovidos pelo Conselho Nacional de Educação Superior (CONAES), sempre que convidada ou convocada; e colaborar com os órgãos próprios do IFPR, no planejamento dos programas de Avaliação Institucional.
 
-IV. Propor projetos, programas e ações que proporcionem a melhoria do processo avaliativo institucional; 
+Pretende-se estabelecer comunicação contínua entre a CPA e os docentes e estudantes do curso de Pedagogia por meio de convites aos membros representantes da CPA do Campus Curitiba para participar eventualmente das reuniões do colegiado do curso.
 
-V. Participar de todas as atividades relativas a eventos promovidos pelo Conselho Nacional de Educação Superior (CONAES), sempre que convidada ou convocada; e colaborar com os órgãos próprios do IFPR, no planejamento dos programas de Avaliação Institucional. 
+## **4.3.3 Avaliação do Curso**
 
-Pretende-se estabelecer comunicação contínua entre a CPA e os docentes e estudantes do curso de Pedagogia por meio de convites aos membros representantes da CPA do Campus Curitiba para participar eventualmente das reuniões do colegiado do curso. 
+Todas as avaliações realizadas na Instituição deverão ser analisadas pelo colegiado do Curso a fim de que melhorias permanentes sejam implantadas.
 
-## **4.3.3 Avaliação do Curso** 
+Para fins de Reconhecimento, no início da segunda metade do Curso, a instituição deverá solicitar junto ao MEC a visita e avaliação.
 
-Todas as avaliações realizadas na Instituição deverão ser analisadas pelo colegiado do Curso a fim de que melhorias permanentes sejam implantadas. 
+## **4.3.4 Avaliação do Projeto Pedagógico do Curso**
 
-Para fins de Reconhecimento, no início da segunda metade do Curso, a instituição deverá solicitar junto ao MEC a visita e avaliação. 
+Tanto o Colegiado quanto o Núcleo Docente Estruturante (NDE) do Curso devem reunir-se periodicamente a fim de avaliar o andamento do Curso propondo melhorias sempre que necessário.
 
-## **4.3.4 Avaliação do Projeto Pedagógico do Curso** 
+## 4.4 ESTÁGIO CURRICULAR
 
-Tanto o Colegiado quanto o Núcleo Docente Estruturante (NDE) do Curso devem reunir-se periodicamente a fim de avaliar o andamento do Curso propondo melhorias sempre que necessário. 
+O Estágio no Curso de Pedagogia será desenvolvido, supervisionado por estudantes que frequentam o curso do IFPR, realizado nas áreas de formação do estudante, em consonância com
 
-## 4.4 ESTÁGIO CURRICULAR 
+102
 
-O Estágio no Curso de Pedagogia será desenvolvido, supervisionado por estudantes que frequentam o curso do IFPR, realizado nas áreas de formação do estudante, em consonância com 
+## INSTITUTOFEDERAL Parana
 
-102 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+o perfil do pedagogo.   A partir do segundo semestre, com carga horária total de 400 horas, com a seguinte estruturação:
 
-Ministerio da Educacao 
+Estágio I – Educação de Jovens e Adultos
 
-o perfil do pedagogo.   A partir do segundo semestre, com carga horária total de 400 horas, com a seguinte estruturação: 
+Estágio II – Educação Infantil
 
-Estágio I – Educação de Jovens e Adultos 
+Estágio III – Anos Iniciais da Educação Básica
 
-Estágio II – Educação Infantil 
+Estágio IV – Formação Docente
 
-Estágio III – Anos Iniciais da Educação Básica 
+Estágio V – Gestão Educacional
 
-Estágio IV – Formação Docente 
+## 4.4.1 Características do Estágio
 
-Estágio V – Gestão Educacional 
+Carga Horária Estágio Obrigatório: 400 horas considerado como pré-requisito para a aprovação e certificação.
 
-## 4.4.1 Características do Estágio 
+Modalidade:  Direta
 
-Carga Horária Estágio Obrigatório: 400 horas considerado como pré-requisito para a aprovação e certificação. 
-
-Modalidade:  Direta 
-
-Período: 
+Período:
 
 |**Estágio**|**CH**|**Semestre**|
 |---|---|---|
@@ -3317,297 +3205,295 @@ Período:
 |Estágio IV – Formação Docente|80|5º|
 |Estágio V – Gestão Educacional|80|6º|
 
+## **4.4.2 Convênios de Estágio**
 
+Para a consolidação dos estágios o Campus fará convênios com escolas e outros espaços educativos, tanto formais quanto não formais, nas esferas municipal, estadual, federal e particular.
 
-## **4.4.2 Convênios de Estágio** 
+## 4.6 TRABALHO DE CONCLUSÃO DE CURSO
 
-Para a consolidação dos estágios o Campus fará convênios com escolas e outros espaços educativos, tanto formais quanto não formais, nas esferas municipal, estadual, federal e particular. 
+O Trabalho de Conclusão de Curso, TCC, compõe o projeto pedagógico do Curso de Licenciatura em Pedagogia, concebido como um instrumental para o desenvolvimento de
 
-## 4.6 TRABALHO DE CONCLUSÃO DE CURSO 
+103
 
-O Trabalho de Conclusão de Curso, TCC, compõe o projeto pedagógico do Curso de Licenciatura em Pedagogia, concebido como um instrumental para o desenvolvimento de 
+## INSTITUTOFEDERAL Parana
 
-103 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+competências desejáveis na formação do perfil do pedagogo. O TCC visa desenvolver além da perspectiva de pesquisa na área de educação, a integração entre os componentes curriculares que compõem o currículo. Entende-se por Trabalho de Conclusão de Curso, o trabalho científico relacionado às diversas áreas relacionadas às ciências da educação.
 
-Ministerio da Educacao 
+Inicialmente será organizado por um projeto no qual o estudante demonstrará a sua competência para desenvolver pesquisa, aplicar metodologia apropriada, identificar variáveis relacionando-as e elaborar o texto no gênero discursivo artigo científico evidenciando a conclusão da pesquisa.
 
-competências desejáveis na formação do perfil do pedagogo. O TCC visa desenvolver além da perspectiva de pesquisa na área de educação, a integração entre os componentes curriculares que compõem o currículo. Entende-se por Trabalho de Conclusão de Curso, o trabalho científico relacionado às diversas áreas relacionadas às ciências da educação. 
+Assim o estudante desenvolverá seu TCC a partir da elaboração do problema a ser investigado, posteriormente realizará uma revisão bibliográfica que contribuirá para a sedimentação do conhecimento do estudante, bem como abrirá espaço para a reflexão sobre o tema proposto. Cabe destacar que o rigor metodológico possibilitará a credibilidade da pesquisa, conduzindo o estudante ao alcance de respostas confiáveis ao problema investigado.  Pretende-se que, após a conclusão do trabalho possa-se evidenciar a evolução do estudante, por meio da análise das relações entre as variáveis do objeto de estudo da pesquisa. Para a supervisão do TCC, estão previstas na grade horária do curso em 80 horas no sétimo período, com Metodologias de Pesquisa Pedagógica - TCC I e 80 horas-aula no último semestre do Curso, em Pesquisa Pedagógica - TCC II, onde acontecerão as orientações específicas por projeto, articulando-se os trabalhos desenvolvidos em todos os semestres juntamente com cada professor(a) orientador(a).
 
-Inicialmente será organizado por um projeto no qual o estudante demonstrará a sua competência para desenvolver pesquisa, aplicar metodologia apropriada, identificar variáveis relacionando-as e elaborar o texto no gênero discursivo artigo científico evidenciando a conclusão da pesquisa. 
+## 4.7 ATIVIDADES COMPLEMENTARES
 
-Assim o estudante desenvolverá seu TCC a partir da elaboração do problema a ser investigado, posteriormente realizará uma revisão bibliográfica que contribuirá para a sedimentação do conhecimento do estudante, bem como abrirá espaço para a reflexão sobre o tema proposto. Cabe destacar que o rigor metodológico possibilitará a credibilidade da pesquisa, conduzindo o estudante ao alcance de respostas confiáveis ao problema investigado.  Pretende-se que, após a conclusão do trabalho possa-se evidenciar a evolução do estudante, por meio da análise das relações entre as variáveis do objeto de estudo da pesquisa. Para a supervisão do TCC, estão previstas na grade horária do curso em 80 horas no sétimo período, com Metodologias de Pesquisa Pedagógica - TCC I e 80 horas-aula no último semestre do Curso, em Pesquisa Pedagógica - TCC II, onde acontecerão as orientações específicas por projeto, articulando-se os trabalhos desenvolvidos em todos os semestres juntamente com cada professor(a) orientador(a). 
+As Atividades Complementares podem ser desenvolvidas nos cursos ofertados no IFPR, bem como em atividades externas ao IFPR.
 
-## 4.7 ATIVIDADES COMPLEMENTARES 
+No âmbito do Curso as Atividades Complementares serão propostas na Matriz Curricular em componentes curriculares semestrais, consistindo também em mecanismos de aproveitamento de conhecimentos, adquiridos pelo estudante, através de estudos e práticas independentes, desde que atendido o prazo mínimo, comprovação por meio de certificado estabelecido pela Instituição, para a conclusão do curso.
 
-As Atividades Complementares podem ser desenvolvidas nos cursos ofertados no IFPR, bem como em atividades externas ao IFPR. 
+104
 
-No âmbito do Curso as Atividades Complementares serão propostas na Matriz Curricular em componentes curriculares semestrais, consistindo também em mecanismos de aproveitamento de conhecimentos, adquiridos pelo estudante, através de estudos e práticas independentes, desde que atendido o prazo mínimo, comprovação por meio de certificado estabelecido pela Instituição, para a conclusão do curso. 
+INSTITUTOFEDERAL Parana
 
-104 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+## **5.  POLÍTICAS DE ATENDIMENTO AOS ESTUDANTES**
 
-Ministerio da Educacao 
+## 5.1 FORMAS DE ACESSO E PERMANÊNCIA
 
-## **5.  POLÍTICAS DE ATENDIMENTO AOS ESTUDANTES** 
+O acesso será realizado por processo seletivo regido pelas normativas institucionais.
 
-## 5.1 FORMAS DE ACESSO E PERMANÊNCIA 
+As políticas de assistência estudantil institucional pretendem garantir a permanência do estudante até o final do Curso.
 
-O acesso será realizado por processo seletivo regido pelas normativas institucionais. 
+## **5.1.1 Programas de Ensino, Pesquisa, Extensão, Inovação,  Inclusão Social e Assitência estudantil**
 
-As políticas de assistência estudantil institucional pretendem garantir a permanência do estudante até o final do Curso. 
+A Política de Apoio Estudantil do IFPR compreende o conjunto de ações voltadas aos estudantes e que atendam aos princípios de garantia de acesso, permanência e conclusão do curso de acordo com os princípios da Educação Integral (formação geral, profissional e tecnológica) em estreita articulação com os setores produtivos locais, econômicos e sociais e é posta em prática, através da oferta periódica de vários Programas de Bolsas de Estudos, sendo regulamentada através da Resolução CONSUP № 011 /2009 e №  53/2011.
 
-## **5.1.1 Programas de Ensino, Pesquisa, Extensão, Inovação,  Inclusão Social e Assitência estudantil** 
+Essa Política tem como premissa a respeitabilidade a diversidade social, étnica, racial e inclusiva na perspectiva de uma sociedade democrática e cidadã, pautando-se nos seguintes princípios:
 
-A Política de Apoio Estudantil do IFPR compreende o conjunto de ações voltadas aos estudantes e que atendam aos princípios de garantia de acesso, permanência e conclusão do curso de acordo com os princípios da Educação Integral (formação geral, profissional e tecnológica) em estreita articulação com os setores produtivos locais, econômicos e sociais e é posta em prática, através da oferta periódica de vários Programas de Bolsas de Estudos, sendo regulamentada através da Resolução CONSUP № 011 /2009 e №  53/2011. 
+I. Educação profissional e tecnológica pública e gratuita de qualidade;
 
-Essa Política tem como premissa a respeitabilidade a diversidade social, étnica, racial e inclusiva na perspectiva de uma sociedade democrática e cidadã, pautando-se nos seguintes princípios: 
+II. Igualdade de oportunidade no acesso, permanência e conclusão de curso;
 
-I. Educação profissional e tecnológica pública e gratuita de qualidade; 
+III. Garantia de qualidade de formação tecnológica e humanística voltada ao fortalecimento das políticas de inclusão social;
 
-II. Igualdade de oportunidade no acesso, permanência e conclusão de curso; 
+IV. Defesa do pluralismo de ideias com reconhecimento a liberdade de expressão;
 
-III. Garantia de qualidade de formação tecnológica e humanística voltada ao fortalecimento das políticas de inclusão social; 
+- V. Eliminação de qualquer forma de preconceito ou discriminação;
 
-IV. Defesa do pluralismo de ideias com reconhecimento a liberdade de expressão; 
+105
 
-- V. Eliminação de qualquer forma de preconceito ou discriminação; 
+## INSTITUTOFEDERAL Parana
 
-105 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+São Programas de Bolsas de Estudos do IFPR: o Programa Institucional de Bolsas de Iniciação Científica do IFPR – PIBIC e PIBIC-Jr, o Programa de Bolsas de Extensão – PIBEX e PIBEX - Jr, o Programa de Bolsas de Inclusão Social – PBIS, o PRADI - Programa de Apoio ao Desenvolvimento Tecnológico e Inovação do IFPR, o PIBID – Programa de Bolsas de Iniciação à Docência, além do Programa de Auxílio Complementar ao Estudante – PACE, do PIAP - Programa de Apoio à Pesquisa do IFPR e do Programa de Apoio a Eventos Estudantis, que consiste em oportunizar aos estudantes enriquecimento em sua formação profissional e humanística, através de apoio financeiro ou logístico aos estudantes regularmente matriculados no IFPR para participarem de eventos locais, estaduais e nacionais, de natureza acadêmica, científica, cultural e esportiva. Este programa está regulamentado através da Resolução 65/2010 e é ofertado através de edital, com inscrições ao longo do ano letivo.
 
-Ministerio da Educacao 
+O PIBIC está inserido no Programa Institucional de Iniciação Científica (PIIC), que é voltado para o desenvolvimento do pensamento científico e iniciação à pesquisa de estudantes de graduação e integra alguns os programas de iniciação científica de agências de fomento. O PIIC do IFPR é regulamentado através da Resolução CONSUP № 11/11.
 
-São Programas de Bolsas de Estudos do IFPR: o Programa Institucional de Bolsas de Iniciação Científica do IFPR – PIBIC e PIBIC-Jr, o Programa de Bolsas de Extensão – PIBEX e PIBEX - Jr, o Programa de Bolsas de Inclusão Social – PBIS, o PRADI - Programa de Apoio ao Desenvolvimento Tecnológico e Inovação do IFPR, o PIBID – Programa de Bolsas de Iniciação à Docência, além do Programa de Auxílio Complementar ao Estudante – PACE, do PIAP - Programa de Apoio à Pesquisa do IFPR e do Programa de Apoio a Eventos Estudantis, que consiste em oportunizar aos estudantes enriquecimento em sua formação profissional e humanística, através de apoio financeiro ou logístico aos estudantes regularmente matriculados no IFPR para participarem de eventos locais, estaduais e nacionais, de natureza acadêmica, científica, cultural e esportiva. Este programa está regulamentado através da Resolução 65/2010 e é ofertado através de edital, com inscrições ao longo do ano letivo. 
+Este programa tem como objetivos despertar vocação científica e incentivar novos talentos potenciais entre estudantes de graduação, propiciar à Instituição um instrumento de formulação de política de iniciação à pesquisa para estudantes de graduação, estimular uma maior articulação entre a graduação e pós-graduação, contribuir para a formação de recursos humanos para a pesquisa, estimular pesquisadores produtivos a envolverem estudantes de graduação nas atividades científica, tecnológica, artística e cultural, proporcionar ao bolsista, orientado por pesquisador qualificado, a aprendizagem de técnicas e métodos de pesquisa, bem como estimular o desenvolvimento do pensar cientificamente e da criatividade, decorrentes das condições criadas pelo confronto direto com os problemas de pesquisa, além de contribuir para a formação científica de recursos humanos que se dedicarão a qualquer atividade profissional. O PIIC do IFPR é regulamentado através da Resolução CONSUP № 11/11.
 
-O PIBIC está inserido no Programa Institucional de Iniciação Científica (PIIC), que é voltado para o desenvolvimento do pensamento científico e iniciação à pesquisa de estudantes de graduação e integra alguns os programas de iniciação científica de agências de fomento. O PIIC do IFPR é regulamentado através da Resolução CONSUP № 11/11. 
+O PIBIC-Jr, Programa Institucional de Bolsas de Iniciação Científica Júnior, é um programa da Pró-Reitoria de Extensão, Pesquisa e Inovação (PROEPI) destinado a estudantes do Ensino
 
-Este programa tem como objetivos despertar vocação científica e incentivar novos talentos potenciais entre estudantes de graduação, propiciar à Instituição um instrumento de formulação de política de iniciação à pesquisa para estudantes de graduação, estimular uma maior articulação entre a graduação e pós-graduação, contribuir para a formação de recursos humanos para a pesquisa, estimular pesquisadores produtivos a envolverem estudantes de graduação nas atividades científica, tecnológica, artística e cultural, proporcionar ao bolsista, orientado por pesquisador qualificado, a aprendizagem de técnicas e métodos de pesquisa, bem como estimular o desenvolvimento do pensar cientificamente e da criatividade, decorrentes das condições criadas pelo confronto direto com os problemas de pesquisa, além de contribuir para a formação científica de recursos humanos que se dedicarão a qualquer atividade profissional. O PIIC do IFPR é regulamentado através da Resolução CONSUP № 11/11. 
+106
 
-O PIBIC-Jr, Programa Institucional de Bolsas de Iniciação Científica Júnior, é um programa da Pró-Reitoria de Extensão, Pesquisa e Inovação (PROEPI) destinado a estudantes do Ensino 
+INSTITUTOFEDERAL Parana
 
-106 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+Técnico Integrado, Subsequente e Concomitante, que tem por finalidade despertar a vocação científica e incentivar talentos potenciais nos estudantes mediante sua participação em atividade de pesquisa, orientada por pesquisador qualificado.
 
-Ministerio da Educacao 
+Programa Institucional de Bolsas de Iniciação Científica para o Ensino Médio (PIBIC-EM) do CNPq é um programa dirigido aos estudantes do Ensino Médio e profissional, com foco na criação de uma cultura científica e finalidade de contribuir para a formação de cidadãos plenos, conscientes e participativos, despertar vocação científica e incentivar talentos potenciais.
 
-Técnico Integrado, Subsequente e Concomitante, que tem por finalidade despertar a vocação científica e incentivar talentos potenciais nos estudantes mediante sua participação em atividade de pesquisa, orientada por pesquisador qualificado. 
+O Programa de Bolsas de Extensão (PIBEX e PIBEX Jr), tem por objetivos principais incentivar as atividades de extensão com vistas a produção e divulgação do conhecimento a partir da realidade local, contribuir com a formação do estudante em seus aspectos técnico tecnológico e humano, promover a participação de servidores e estudantes em atividades de integração com a sociedade, incentivar a interação entre o conhecimento acadêmico e o popular contribuindo com políticas, públicas, assim como, colaborar com a articulação entre ensino pesquisa e extensão.
 
-Programa Institucional de Bolsas de Iniciação Científica para o Ensino Médio (PIBIC-EM) do CNPq é um programa dirigido aos estudantes do Ensino Médio e profissional, com foco na criação de uma cultura científica e finalidade de contribuir para a formação de cidadãos plenos, conscientes e participativos, despertar vocação científica e incentivar talentos potenciais. 
+Programa de Bolsas de Inclusão Social – PBIS, consiste em oportunizar aos estudantes, com vulnerabilidade socioeconômica, remuneração financeira como incentivo à participação em propostas acadêmicas, que contribuam com a sua formação. Para a participação no referido programa será considerado, além da avaliação socioeconômica, o risco de abandono, reprovação ou dificuldades de desempenho do estudante no curso.
 
-O Programa de Bolsas de Extensão (PIBEX e PIBEX Jr), tem por objetivos principais incentivar as atividades de extensão com vistas a produção e divulgação do conhecimento a partir da realidade local, contribuir com a formação do estudante em seus aspectos técnico tecnológico e humano, promover a participação de servidores e estudantes em atividades de integração com a sociedade, incentivar a interação entre o conhecimento acadêmico e o popular contribuindo com políticas, públicas, assim como, colaborar com a articulação entre ensino pesquisa e extensão. 
+O estudante poderá participar do Programa de Bolsas Acadêmicas de Inclusão Social através de diversas atividades vinculadas ao ensino, pesquisa, extensão ou ainda àquelas atividades administrativo pedagógicas, tais como: coordenações de curso, bibliotecas, laboratórios, unidades administrativas (tanto nos Campi como nas Pró-Reitorias, Gabinete do Reitor e Assessorias da Reitoria) entre outros, sendo que, em qualquer um dos projetos/propostas ou atividades em que o estudante for selecionado será obrigatória a orientação direta de um responsável docente ou técnico-administrativo. A regulamentação do Programa de Bolsas Acadêmicas de Inclusão Social está expressa na Resolução CONSUP № 64/10.
 
-Programa de Bolsas de Inclusão Social – PBIS, consiste em oportunizar aos estudantes, com vulnerabilidade socioeconômica, remuneração financeira como incentivo à participação em propostas acadêmicas, que contribuam com a sua formação. Para a participação no referido programa será considerado, além da avaliação socioeconômica, o risco de abandono, reprovação ou dificuldades de desempenho do estudante no curso. 
+O PRADI - Programa de Apoio ao Desenvolvimento Tecnológico e Inovação (PRADI) do Instituto Federal do Paraná destina-se a apoiar, com concessão de bolsas à estudantes e auxílio
 
-O estudante poderá participar do Programa de Bolsas Acadêmicas de Inclusão Social através de diversas atividades vinculadas ao ensino, pesquisa, extensão ou ainda àquelas atividades administrativo pedagógicas, tais como: coordenações de curso, bibliotecas, laboratórios, unidades administrativas (tanto nos Campi como nas Pró-Reitorias, Gabinete do Reitor e Assessorias da Reitoria) entre outros, sendo que, em qualquer um dos projetos/propostas ou atividades em que o estudante for selecionado será obrigatória a orientação direta de um responsável docente ou técnico-administrativo. A regulamentação do Programa de Bolsas Acadêmicas de Inclusão Social está expressa na Resolução CONSUP № 64/10. 
+107
 
-O PRADI - Programa de Apoio ao Desenvolvimento Tecnológico e Inovação (PRADI) do Instituto Federal do Paraná destina-se a apoiar, com concessão de bolsas à estudantes e auxílio 
+INSTITUTOFEDERAL Parana
 
-107 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+financeiro aos coordenadores, projetos que promovam o desenvolvimento científico, tecnológico e de inovação, considerando os aspectos econômico, social, ambiental e cultural em atendimento às demandas locais e/ou regionais.
 
-Ministerio da Educacao 
+O PIBID - Programa Institucional de Bolsa de Iniciação à Docência, gerenciado pela CAPES, consiste numa iniciativa que visa à qualificação da formação dos futuros docentes e a melhoria da educação básica. Neste sentido o curso de Pedagogia pretende ofertar vagas para discentes bolsistas e vagas para professores supervisores, efetivos do quadro docente de escolas públicas do entorno local e coordenadores institucionais de área.
 
-financeiro aos coordenadores, projetos que promovam o desenvolvimento científico, tecnológico e de inovação, considerando os aspectos econômico, social, ambiental e cultural em atendimento às demandas locais e/ou regionais. 
+Com o PIBID o curso consegue proporcionar aos futuros professores a participação em ações e experiências didático-pedagógicas articuladas às orientações das políticas educacionais (LDB, PCN, DCNEM, PCNEM) e à realidade das escolas públicas; desenvolver experiências focadas na prática docente que se orientem para a superação de problemas identificados no processo ensino-aprendizagem de modo a contribuir para a melhoria da qualidade da formação docente na área de pedagogia e; promover, junto aos integrantes do projeto, diálogos que oportunizem a apreensão dos saberes da profissão nas diferentes ações das práticas e das aprendizagens da docência, favorecendo, assim, a coerência entre a formação dos professores e as finalidades da política da educação básica.
 
-O PIBID - Programa Institucional de Bolsa de Iniciação à Docência, gerenciado pela CAPES, consiste numa iniciativa que visa à qualificação da formação dos futuros docentes e a melhoria da educação básica. Neste sentido o curso de Pedagogia pretende ofertar vagas para discentes bolsistas e vagas para professores supervisores, efetivos do quadro docente de escolas públicas do entorno local e coordenadores institucionais de área. 
+O Programa de Auxílio Complementar ao Estudante - PACE está regulamentado pela Resolução da Política de Apoio Estudantil e pela Instrução Interna de Procedimentos № 20/PROENS, de 27/02/2012. O PACE objetiva oferecer apoio aos estudantes regularmente matriculados em cursos presenciais em situação de vulnerabilidade socioeconômica, propiciando recurso financeiro mensal, por meio da oferta de auxílio-moradia, auxílio-alimentação e auxíliotransporte, contribuindo para sua permanência e conclusão do curso.
 
-Com o PIBID o curso consegue proporcionar aos futuros professores a participação em ações e experiências didático-pedagógicas articuladas às orientações das políticas educacionais (LDB, PCN, DCNEM, PCNEM) e à realidade das escolas públicas; desenvolver experiências focadas na prática docente que se orientem para a superação de problemas identificados no processo ensino-aprendizagem de modo a contribuir para a melhoria da qualidade da formação docente na área de pedagogia e; promover, junto aos integrantes do projeto, diálogos que oportunizem a apreensão dos saberes da profissão nas diferentes ações das práticas e das aprendizagens da docência, favorecendo, assim, a coerência entre a formação dos professores e as finalidades da política da educação básica. 
+O PIAP, Programa Institucional de Apoio à Pesquisa, tem por finalidade fomentar projetos de pesquisa desenvolvidos no IFPR, bem como custear atividades relacionadas aos mesmos. Os recursos provenientes desse programa destinam-se a manutenção e melhoria das atividades necessárias ao desenvolvimento da pesquisa proposta podendo ser aplicados em despesas relativas
 
-O Programa de Auxílio Complementar ao Estudante - PACE está regulamentado pela Resolução da Política de Apoio Estudantil e pela Instrução Interna de Procedimentos № 20/PROENS, de 27/02/2012. O PACE objetiva oferecer apoio aos estudantes regularmente matriculados em cursos presenciais em situação de vulnerabilidade socioeconômica, propiciando recurso financeiro mensal, por meio da oferta de auxílio-moradia, auxílio-alimentação e auxíliotransporte, contribuindo para sua permanência e conclusão do curso. 
+108
 
-O PIAP, Programa Institucional de Apoio à Pesquisa, tem por finalidade fomentar projetos de pesquisa desenvolvidos no IFPR, bem como custear atividades relacionadas aos mesmos. Os recursos provenientes desse programa destinam-se a manutenção e melhoria das atividades necessárias ao desenvolvimento da pesquisa proposta podendo ser aplicados em despesas relativas 
+INSTITUTOFEDERAL Parana
 
-108 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+aos projetos de pesquisa contemplados, tais como aquisição de material de consumo e/ou permanente e inscrição em congressos e eventos científicos para apresentação de seus resultados.
 
-Ministerio da Educacao 
+## **5.1.2 Aproveitamento de Estudos Anteriores**
 
-aos projetos de pesquisa contemplados, tais como aquisição de material de consumo e/ou permanente e inscrição em congressos e eventos científicos para apresentação de seus resultados. 
+Estudos anteriores serão considerados de acordo com a Resolução nº 55/2011 - Organização Didático Pedagógica no IFPR. Os procedimentos serão feitos conforme art.87 a art.90 da Resolução 55/2011.
 
-## **5.1.2 Aproveitamento de Estudos Anteriores** 
+O aproveitamento de estudos é o resultado do reconhecimento da equivalência de um ou mais componentes curriculares, componente curricular de curso de graduação autorizado e/ou reconhecido cursado no IFPR ou de outra instituição.
 
-Estudos anteriores serão considerados de acordo com a Resolução nº 55/2011 - Organização Didático Pedagógica no IFPR. Os procedimentos serão feitos conforme art.87 a art.90 da Resolução 55/2011. 
+A equivalência de estudos, para fins de aproveitamento do componente curricular cursado, somente será concedida:
 
-O aproveitamento de estudos é o resultado do reconhecimento da equivalência de um ou mais componentes curriculares, componente curricular de curso de graduação autorizado e/ou reconhecido cursado no IFPR ou de outra instituição. 
+I. Quando corresponder a no mínimo 75% (setenta e cinco por cento) da carga horária e do conteúdo programático da unidade de estudo do componente curricular de curso do IFPR;
 
-A equivalência de estudos, para fins de aproveitamento do componente curricular cursado, somente será concedida: 
+II. É vedado o aproveitamento de estudos entre níveis de ensino diferentes (Resolução 55/2011)
 
-I. Quando corresponder a no mínimo 75% (setenta e cinco por cento) da carga horária e do conteúdo programático da unidade de estudo do componente curricular de curso do IFPR; 
+Quando se faz necessário, pode-se fazer avaliação teórico-prática acerca do conhecimento a ser aproveitado, conforme artigo 83 da Resolução 55/2011.
 
-II. É vedado o aproveitamento de estudos entre níveis de ensino diferentes (Resolução 55/2011) 
+Quando dois ou mais componentes curriculares/unidades de estudo cursados forem aproveitadas para um único componente curricular/unidade de estudo de curso do IFPR, a nota a ser registrada será a média aritmética simples das notas dos componentes curriculares considerados.
 
-Quando se faz necessário, pode-se fazer avaliação teórico-prática acerca do conhecimento a ser aproveitado, conforme artigo 83 da Resolução 55/2011. 
+Quando houver aproveitamento de componente curricular cursado em outra instituição de ensino, no histórico escolar constará como Dispensada – sob o código DI e será registrada no sistema de gestão acadêmica.
 
-Quando dois ou mais componentes curriculares/unidades de estudo cursados forem aproveitadas para um único componente curricular/unidade de estudo de curso do IFPR, a nota a ser registrada será a média aritmética simples das notas dos componentes curriculares considerados. 
+109
 
-Quando houver aproveitamento de componente curricular cursado em outra instituição de ensino, no histórico escolar constará como Dispensada – sob o código DI e será registrada no sistema de gestão acadêmica. 
+INSTITUTOFEDERAL Parana
 
-109 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+O aproveitamento de estudos é da competência do Coordenador de Curso, sendo que o mesmo poderá solicitar parecer do docente responsável pelo componente curricular correspondente, quando necessitar de opinião especializada.
 
-Ministerio da Educacao 
+No pedido de aproveitamento de estudos o aluno deverá anexar seu histórico escolar e os planos de ensino dos componentes curriculares cursados a aproveitar. No processo de aproveitamento de estudos será utilizado formulário próprio, conforme modelo disponível na secretaria acadêmica do Campus.
 
-O aproveitamento de estudos é da competência do Coordenador de Curso, sendo que o mesmo poderá solicitar parecer do docente responsável pelo componente curricular correspondente, quando necessitar de opinião especializada. 
+No caso de ingresso como portador de diploma, o acadêmico deverá apresentar, também, o diploma do título obtido em nível superior, em curso reconhecido pelo Ministério da Educação. Para as solicitações de aproveitamento de estudos o coordenador de curso deverá encaminhar à secretaria uma relação com as equivalências dos componentes curriculares dispensados para atualização no sistema de gestão acadêmica (PPC Pedagogia, Palmas, 2018[1] ).
 
-No pedido de aproveitamento de estudos o aluno deverá anexar seu histórico escolar e os planos de ensino dos componentes curriculares cursados a aproveitar. No processo de aproveitamento de estudos será utilizado formulário próprio, conforme modelo disponível na secretaria acadêmica do Campus. 
+## **5.1.3  Certificação de Conhecimentos Anteriores**
 
-No caso de ingresso como portador de diploma, o acadêmico deverá apresentar, também, o diploma do título obtido em nível superior, em curso reconhecido pelo Ministério da Educação. Para as solicitações de aproveitamento de estudos o coordenador de curso deverá encaminhar à secretaria uma relação com as equivalências dos componentes curriculares dispensados para atualização no sistema de gestão acadêmica (PPC Pedagogia, Palmas, 2018[1] ). 
+Em cumprimento a Resolução nº 55/2011 que dispõe sobre a Organização Didático Pedagógica no IFPR, poderá haver a Certificação de Conhecimentos Anteriores.
 
-## **5.1.3  Certificação de Conhecimentos Anteriores** 
+## **5.1.4  Expedição de Diplomas e Certificados**
 
-Em cumprimento a Resolução nº 55/2011 que dispõe sobre a Organização Didático Pedagógica no IFPR, poderá haver a Certificação de Conhecimentos Anteriores. 
+Após a conclusão e aprovação em todos os Componentes Curriculares, segundo a Resolução nº 55/2011 o estudante terá direito ao Diploma de Licenciado em Pedagogia.
 
-## **5.1.4  Expedição de Diplomas e Certificados** 
+## **5.1.5  Acessibilidade**
 
-Após a conclusão e aprovação em todos os Componentes Curriculares, segundo a Resolução nº 55/2011 o estudante terá direito ao Diploma de Licenciado em Pedagogia. 
+O Campus Curitiba conta com o trabalho do Núcleo de Apoio a Pessoas com Necessidades Específicas – NAPNE, visando a inserção e o atendimento aos alunos com Necessidades
 
-## **5.1.5  Acessibilidade** 
+> 1 Disponível em: http://palmas.ifpr.edu.br/graduacao/pedagogia/ acesso em 08 de abril de 2018.
 
-O Campus Curitiba conta com o trabalho do Núcleo de Apoio a Pessoas com Necessidades Específicas – NAPNE, visando a inserção e o atendimento aos alunos com Necessidades 
+110
 
-> 1 Disponível em: http://palmas.ifpr.edu.br/graduacao/pedagogia/ acesso em 08 de abril de 2018. 
+Ministerio da Educacao
 
-110 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+Educacionais Específicas nos cursos de nível básico, técnico e tecnológico nas Instituições Federais de Educação, a Secretaria de Educação Profissional e Tecnológica (SETEC/MEC) criou o Programa de Educação, Tecnologia e Profissionalização para Pessoas com Necessidades Educacionais Especiais (TEC NEP).
 
-## INSTITUTOFEDERAL Parana 
+O objetivo é estimular a criação da cultura da “educação para a convivência”, “aceitação da diversidade” e, principalmente, buscar a “quebra das barreiras arquitetônicas, educacionais e atitudinais” nos Institutos Federais.
 
-Educacionais Específicas nos cursos de nível básico, técnico e tecnológico nas Instituições Federais de Educação, a Secretaria de Educação Profissional e Tecnológica (SETEC/MEC) criou o Programa de Educação, Tecnologia e Profissionalização para Pessoas com Necessidades Educacionais Especiais (TEC NEP). 
+As responsabilidades dos coordenadores dos NAPNEs são:
 
-O objetivo é estimular a criação da cultura da “educação para a convivência”, “aceitação da diversidade” e, principalmente, buscar a “quebra das barreiras arquitetônicas, educacionais e atitudinais” nos Institutos Federais. 
+a) Promover ações de sensibilização da comunidade escolar quanto a temática da Educação Inclusiva;
 
-As responsabilidades dos coordenadores dos NAPNEs são: 
+b) Levantar a demanda de Pessoas com Necessidades Educacionais Específicas na Instituição, comunicando à Direção do Câmpus e à Pró-Reitoria de Extensão, Pesquisa e Inovação a importância e o tipo de atendimento a ser realizado;
 
-a) Promover ações de sensibilização da comunidade escolar quanto a temática da Educação Inclusiva; 
+c) Contribuir para a adequação dos Projetos Político-Pedagógicos de modo a contemplar a educação inclusiva, oferecendo informações atualizadas à Direção de Ensino, bem como aos demais gestores do Câmpus;
 
-b) Levantar a demanda de Pessoas com Necessidades Educacionais Específicas na Instituição, comunicando à Direção do Câmpus e à Pró-Reitoria de Extensão, Pesquisa e Inovação a importância e o tipo de atendimento a ser realizado; 
+d) Articular os diversos setores da instituição nas atividades relativas à inclusão, divulgando as ações prioritárias;
 
-c) Contribuir para a adequação dos Projetos Político-Pedagógicos de modo a contemplar a educação inclusiva, oferecendo informações atualizadas à Direção de Ensino, bem como aos demais gestores do Câmpus; 
+e) Participar das discussões relativas a reformas e construção de novas unidades, garantindo a acessibilidade às edificações, aos mobiliários, aos espaços e equipamentos com vistas à mobilidade das pessoas de maneira autônoma e segura, conforme previsto em legislação própria;
 
-d) Articular os diversos setores da instituição nas atividades relativas à inclusão, divulgando as ações prioritárias; 
+f) Estabelecer contato com instituições ou organizações que atendam Pessoas com Necessidades Educacionais Específicas, visando desenvolver trabalhos em parceria;
 
-e) Participar das discussões relativas a reformas e construção de novas unidades, garantindo a acessibilidade às edificações, aos mobiliários, aos espaços e equipamentos com vistas à mobilidade das pessoas de maneira autônoma e segura, conforme previsto em legislação própria; 
+g) Divulgar as ações do TEC NEP/NAPNE da SETEC para a comunidade em geral;
 
-f) Estabelecer contato com instituições ou organizações que atendam Pessoas com Necessidades Educacionais Específicas, visando desenvolver trabalhos em parceria; 
+h) Representar o NAPNE nas ocasiões em que se fizer necessário.
 
-g) Divulgar as ações do TEC NEP/NAPNE da SETEC para a comunidade em geral; 
+Quanto à Língua Brasileira de Sinais, esta é ofertada no campus como projeto de LIBRAS do IFPR, a qual visa atender decretos e leis do governo federal. Como sendo uma língua reconhecida no país, a língua brasileira de sinais é reconhecida pela lei nº 10.436, de 24 de abril de
 
-h) Representar o NAPNE nas ocasiões em que se fizer necessário. 
+111
 
-Quanto à Língua Brasileira de Sinais, esta é ofertada no campus como projeto de LIBRAS do IFPR, a qual visa atender decretos e leis do governo federal. Como sendo uma língua reconhecida no país, a língua brasileira de sinais é reconhecida pela lei nº 10.436, de 24 de abril de 
+## INSTITUTOFEDERAL Parana
 
-111 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+2002, e regulamentada pelo decreto nº 5.626, de 22 de dezembro de 2005. Determina o artigo 14 do decreto que as instituições federais de ensino garantam às pessoas surdas “acesso à comunicação, à informação e à educação nos processos seletivos, nas atividades e nos conteúdos curriculares desenvolvidos em todos os níveis, etapas e modalidades de educação, desde a educação infantil até à superior”.
 
-Ministerio da Educacao 
+O IFPR conta com tradutores e intérpretes de LIBRAS que oferecem apoio aos alunos, possuindo também professor de LIBRAS para capacitação de servidores e professores, além de atendimento à comunidade externa nos eventos promovidos pela IFPR.  O Objetivo da equipe é disponibilizar atendimento ao aluno surdo, e criar novas ferramentas para auxílio do professor na inclusão de surdos no IFPR. Orientar a conduta moral e profissional, em conformidade com o Código de Ética da categoria do Intérprete, instituir normas que devem subsidiar o exercício das atividades dos TILS, assegurar o direito linguístico e a acessibilidade das pessoas surdas no ensino superior conforme Lei nº 10.098/2000 e Lei nº 10.436/2002, regulamentadas pelo Decreto nº 5626/2005.
 
-2002, e regulamentada pelo decreto nº 5.626, de 22 de dezembro de 2005. Determina o artigo 14 do decreto que as instituições federais de ensino garantam às pessoas surdas “acesso à comunicação, à informação e à educação nos processos seletivos, nas atividades e nos conteúdos curriculares desenvolvidos em todos os níveis, etapas e modalidades de educação, desde a educação infantil até à superior”. 
+Como a garantia da valorização e o reconhecimento do serviço de tradução e interpretação de Língua Brasileira de Sinais/Português e dos profissionais que realizam essa atividade, assegurar o cumprimento do Código de Ética/Conduta do Tradutor Intérprete de Língua Brasileira de Sinais/Português, e cumprir as determinações legais do Instituto Federal do Paraná.
 
-O IFPR conta com tradutores e intérpretes de LIBRAS que oferecem apoio aos alunos, possuindo também professor de LIBRAS para capacitação de servidores e professores, além de atendimento à comunidade externa nos eventos promovidos pela IFPR.  O Objetivo da equipe é disponibilizar atendimento ao aluno surdo, e criar novas ferramentas para auxílio do professor na inclusão de surdos no IFPR. Orientar a conduta moral e profissional, em conformidade com o Código de Ética da categoria do Intérprete, instituir normas que devem subsidiar o exercício das atividades dos TILS, assegurar o direito linguístico e a acessibilidade das pessoas surdas no ensino superior conforme Lei nº 10.098/2000 e Lei nº 10.436/2002, regulamentadas pelo Decreto nº 5626/2005. 
+O Campus Curitiba promove a acessibilidade na infraestrutura e mobiliário conforme a Lei n. 10.048, de 8 de novembro de 2000, Lei n° 10.098, de 19 de dezembro de 2000 e Decreto nº 5.296, de 2 de dezembro de 2004.
 
-Como a garantia da valorização e o reconhecimento do serviço de tradução e interpretação de Língua Brasileira de Sinais/Português e dos profissionais que realizam essa atividade, assegurar o cumprimento do Código de Ética/Conduta do Tradutor Intérprete de Língua Brasileira de Sinais/Português, e cumprir as determinações legais do Instituto Federal do Paraná. 
+## **5.1.7  Mobilidade Estudantil e Internacionalização**
 
-O Campus Curitiba promove a acessibilidade na infraestrutura e mobiliário conforme a Lei n. 10.048, de 8 de novembro de 2000, Lei n° 10.098, de 19 de dezembro de 2000 e Decreto nº 5.296, de 2 de dezembro de 2004. 
+A partir do seguinte objetivo no PDI IFPR,quanto à Internacionalização: "Fortalecer a internacionalização do IFPR através do estabelecimento de políticas, programas de parcerias externas, realização de eventos científicos internacionais, assim como incentivar a produção e
 
-## **5.1.7  Mobilidade Estudantil e Internacionalização** 
+112
 
-A partir do seguinte objetivo no PDI IFPR,quanto à Internacionalização: "Fortalecer a internacionalização do IFPR através do estabelecimento de políticas, programas de parcerias externas, realização de eventos científicos internacionais, assim como incentivar a produção e 
+INSTITUTOFEDERAL Parana
 
-112 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+publicação de pesquisas em revistas internacionais". A Instrução Interna nº 02/2014 - IFPR/PROENS, regulamenta a Mobilidade Estudantil entre instituições brasileiras e do exterior, a qual é direcionada para estudantes e servidores temos como ação principal de mobilidade acadêmica com o Instituto Politécnico de bragança em Portugal com o qual desenvolvemos duas ações principais:
 
-Ministerio da Educacao 
+- Grupos de estudantes que todos anos realizam ação de intercâmbio de quinze dias no IPB e participam de eventos;
 
-publicação de pesquisas em revistas internacionais". A Instrução Interna nº 02/2014 - IFPR/PROENS, regulamenta a Mobilidade Estudantil entre instituições brasileiras e do exterior, a qual é direcionada para estudantes e servidores temos como ação principal de mobilidade acadêmica com o Instituto Politécnico de bragança em Portugal com o qual desenvolvemos duas ações principais: 
+- Estudantes com mobilidade de seis meses para estudos no IPB .
 
-- Grupos de estudantes que todos anos realizam ação de intercâmbio de quinze dias no IPB e participam de eventos; 
+## **6. EQUIPE MULTIDISCIPLINAR**
 
-- Estudantes com mobilidade de seis meses para estudos no IPB . 
+## 6.1. CORPO DOCENTE
 
-## **6. EQUIPE MULTIDISCIPLINAR** 
+## **6.1.1 Atribuições do Coordenador**
 
-## 6.1. CORPO DOCENTE 
+As atribuições dos coordenadores de cursos técnicos e superiores do Campus Curitiba do Instituto Federal do Paraná são determinadas pela Direção de Ensino, Pesquisa e Extensão do Campus.
 
-## **6.1.1 Atribuições do Coordenador** 
+As principais atividades rotineiras dos Colegiados de Curso e a regulamentação específica de cada atividade, dizem respeito à gestão das atividades de administração (organizar, liderar, planejar e avaliar) dos cursos ofertados no campus.
 
-As atribuições dos coordenadores de cursos técnicos e superiores do Campus Curitiba do Instituto Federal do Paraná são determinadas pela Direção de Ensino, Pesquisa e Extensão do Campus. 
+Tarefas rotineiras do coordenador:
 
-As principais atividades rotineiras dos Colegiados de Curso e a regulamentação específica de cada atividade, dizem respeito à gestão das atividades de administração (organizar, liderar, planejar e avaliar) dos cursos ofertados no campus. 
+**Reuniões com a Direção de Ensino, Pesquisa e Extensão:** as reuniões dos coordenadores de curso com a Direção de Ensino, Pesquisa e Extensão ocorrerão ordinariamente, uma vez por mês.
 
-Tarefas rotineiras do coordenador: 
+113
 
-**Reuniões com a Direção de Ensino, Pesquisa e Extensão:** as reuniões dos coordenadores de curso com a Direção de Ensino, Pesquisa e Extensão ocorrerão ordinariamente, uma vez por mês. 
+## INSTITUTOFEDERAL Parana
 
-113 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+**Reuniões do Colegiado:** as reuniões do Colegiado de Curso deverão ocorrer ordinariamente, uma vez por mês.
 
-Ministerio da Educacao 
+**Solicitação de Oferta de Disciplinas:** ao final de cada período letivo, em data informada pela Direção de Ensino, Pesquisa e Extensão do Campus, devem ser elaboradas as listas de oferta de disciplinas de cada curso. Cabe ao coordenador do curso solicitar à Secretaria Acadêmica a abertura das disciplinas do seu curso. Outra atribuição importante do coordenador de curso é a de elaborar a prévia da grade horária do semestre (cursos subsequentes e superiores e disciplinas técnicas dos cursos técnicos integrados), submetendo-a para análise e conclusão da Direção de Ensino, Pesquisa e Extensão.
 
-**Reuniões do Colegiado:** as reuniões do Colegiado de Curso deverão ocorrer ordinariamente, uma vez por mês. 
+**Solicitação de Documentos dos Professores:** ao iniciar cada período letivo (semestre ou ano) os coordenadores deverão receber dos professores que lecionam nos cursos sob sua coordenação os seguintes documentos em arquivo impresso e digital: planos de ensino e plano de trabalho docente. Tais documentos (em arquivo digital) serão encaminhados para a Direção de Ensino, Pesquisa e Extensão a fim de que sejam analisados e publicados e os documentos impressos deverão ser arquivados pela Coordenação do Curso.
 
-**Solicitação de Oferta de Disciplinas:** ao final de cada período letivo, em data informada pela Direção de Ensino, Pesquisa e Extensão do Campus, devem ser elaboradas as listas de oferta de disciplinas de cada curso. Cabe ao coordenador do curso solicitar à Secretaria Acadêmica a abertura das disciplinas do seu curso. Outra atribuição importante do coordenador de curso é a de elaborar a prévia da grade horária do semestre (cursos subsequentes e superiores e disciplinas técnicas dos cursos técnicos integrados), submetendo-a para análise e conclusão da Direção de Ensino, Pesquisa e Extensão. 
+Ao finalizar cada período letivo (semestre ou ano) os coordenadores deverão receber dos professores que lecionaram nos cursos sob sua coordenação a folha de registro de frequência, conteúdos e rendimento dos estudantes, a qual será arquivada junto a Coordenação do Curso e sempre que solicitada deverá ser encaminhada para a Direção de Ensino, Pesquisa e Extensão do Campus.
 
-**Solicitação de Documentos dos Professores:** ao iniciar cada período letivo (semestre ou ano) os coordenadores deverão receber dos professores que lecionam nos cursos sob sua coordenação os seguintes documentos em arquivo impresso e digital: planos de ensino e plano de trabalho docente. Tais documentos (em arquivo digital) serão encaminhados para a Direção de Ensino, Pesquisa e Extensão a fim de que sejam analisados e publicados e os documentos impressos deverão ser arquivados pela Coordenação do Curso. 
+**Matrícula:** os coordenadores de curso devem acompanhar o processo de matrícula dos estudantes do seu curso. Caberá a eles analisar as solicitações de matrículas em disciplinas de dependência e a abertura das turmas será feita de acordo com orientações emitidas pela Direção de Ensino, Pesquisa e Extensão. Essas informações deverão ser sempre encaminhadas para a Direção de Ensino, Pesquisa e Extensão do Campus quando solicitadas.
 
-Ao finalizar cada período letivo (semestre ou ano) os coordenadores deverão receber dos professores que lecionaram nos cursos sob sua coordenação a folha de registro de frequência, conteúdos e rendimento dos estudantes, a qual será arquivada junto a Coordenação do Curso e sempre que solicitada deverá ser encaminhada para a Direção de Ensino, Pesquisa e Extensão do Campus. 
+114
 
-**Matrícula:** os coordenadores de curso devem acompanhar o processo de matrícula dos estudantes do seu curso. Caberá a eles analisar as solicitações de matrículas em disciplinas de dependência e a abertura das turmas será feita de acordo com orientações emitidas pela Direção de Ensino, Pesquisa e Extensão. Essas informações deverão ser sempre encaminhadas para a Direção de Ensino, Pesquisa e Extensão do Campus quando solicitadas. 
+INSTITUTOFEDERAL Parana
 
-114 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+**Acompanhamento do Rendimento dos Estudantes:** Compete ao coordenador e ao Colegiado do curso acompanhar a situação do estudante que se encontre defasado da matriz curricular do curso.
 
-Ministerio da Educacao 
+**Colação de Grau:** o Coordenador deverá prestar atenção especial nas matrículas dos estudantes finalistas, para garantir que os mesmos possam colar grau ao final do período. Para isso devem ser verificados os boletins escolares anuais para detectar alguma pendência. Na data solicitada pela Direção de Ensino, Pesquisa e Extensão do Campus, os coordenadores devem enviar a listagem dos prováveis formandos para a Secretaria Acadêmica a fim de que sejam organizados os documentos necessários para a colação de grau.
 
-**Acompanhamento do Rendimento dos Estudantes:** Compete ao coordenador e ao Colegiado do curso acompanhar a situação do estudante que se encontre defasado da matriz curricular do curso. 
+**Migração de estudantes entre diferentes matrizes curriculares do mesmo curso:** para
 
-**Colação de Grau:** o Coordenador deverá prestar atenção especial nas matrículas dos estudantes finalistas, para garantir que os mesmos possam colar grau ao final do período. Para isso devem ser verificados os boletins escolares anuais para detectar alguma pendência. Na data solicitada pela Direção de Ensino, Pesquisa e Extensão do Campus, os coordenadores devem enviar a listagem dos prováveis formandos para a Secretaria Acadêmica a fim de que sejam organizados os documentos necessários para a colação de grau. 
+um estudante migrar de uma versão de currículo para outra, o Coordenador deverá encaminhar a Direção de Ensino, Pesquisa e Extensão do Campus, um memorando solicitando a respectiva migração, acompanhado da ata da reunião do Colegiado, onde a questão foi apreciada, e da solicitação do estudante ao Colegiado. Neste processo deve conter o documento que analisa as equivalências das disciplinas já cursadas com as existentes na outra matriz curricular do curso. Esta solicitação deverá ser efetuada antes do início do semestre ou ano letivo em que o estudante irá se matricular.
 
-**Migração de estudantes entre diferentes matrizes curriculares do mesmo curso:** para 
+**Reopção ou Remoção de Curso:** a reopção de um curso para outro e a remoção no mesmo curso para turno ou local diferente estarão sujeitas a análise da Coordenação dos Cursos e da Direção de Ensino, Pesquisa e Extensão, considerando a existência de vagas ociosas no curso pretendido e a similaridade entre as matrizes curriculares dos cursos.
 
-um estudante migrar de uma versão de currículo para outra, o Coordenador deverá encaminhar a Direção de Ensino, Pesquisa e Extensão do Campus, um memorando solicitando a respectiva migração, acompanhado da ata da reunião do Colegiado, onde a questão foi apreciada, e da solicitação do estudante ao Colegiado. Neste processo deve conter o documento que analisa as equivalências das disciplinas já cursadas com as existentes na outra matriz curricular do curso. Esta solicitação deverá ser efetuada antes do início do semestre ou ano letivo em que o estudante irá se matricular. 
+**Alterações curriculares:** toda alteração curricular só poderá entrar em vigor no primeiro semestre letivo de um dado ano. Para que sejam analisadas, os pedidos deverão ser submetidos a
 
-**Reopção ou Remoção de Curso:** a reopção de um curso para outro e a remoção no mesmo curso para turno ou local diferente estarão sujeitas a análise da Coordenação dos Cursos e da Direção de Ensino, Pesquisa e Extensão, considerando a existência de vagas ociosas no curso pretendido e a similaridade entre as matrizes curriculares dos cursos. 
+115
 
-**Alterações curriculares:** toda alteração curricular só poderá entrar em vigor no primeiro semestre letivo de um dado ano. Para que sejam analisadas, os pedidos deverão ser submetidos a 
+## INSTITUTOFEDERAL Parana
 
-115 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+Direção de Ensino, Pesquisa e Extensão do Campus até maio do ano anterior a fim de que haja tempo hábil de serem apreciadas pelas instâncias competentes. Ao final de qualquer processo de alteração curricular é necessário informar: 1. A carga horária para integralização curricular. 2. Uma tabela de equivalência entre as disciplinas novas ou alteradas com as disciplinas anteriores. Consideram-se alterações curriculares: mudanças na ementa, na carga horária e na periodização de uma disciplina.
 
-Ministerio da Educacao 
+**Reformas Curriculares:** reformas curriculares completas devem seguir as orientações provenientes da PROENS e da Direção de Ensino, Pesquisa e Extensão do Campus, estando sujeitas aos mesmos prazos que as alterações curriculares. A elaboração do Projeto Pedagógico deverá obedecer as diretrizes curriculares para o curso em questão, que podem ser encontradas na página do MEC (http://www.mec.gov.br ).
 
-Direção de Ensino, Pesquisa e Extensão do Campus até maio do ano anterior a fim de que haja tempo hábil de serem apreciadas pelas instâncias competentes. Ao final de qualquer processo de alteração curricular é necessário informar: 1. A carga horária para integralização curricular. 2. Uma tabela de equivalência entre as disciplinas novas ou alteradas com as disciplinas anteriores. Consideram-se alterações curriculares: mudanças na ementa, na carga horária e na periodização de uma disciplina. 
+**Acompanhamento de Estágio:** os coordenadores de curso serão encarregados de acompanhar os locais de estágios de seus estudantes (estágio obrigatório e estágio não obrigatório), verificando se os estagiários estão realizando as atividades previstas no contrato de estágio. Os coordenadores de curso serão encarregados de buscarem e dar início ao cadastro de locais de estágios obrigatórios seguindo as orientações provenientes das Pró Reitorias e da Direção de Ensino, Pesquisa e Extensão do Campus.
 
-**Reformas Curriculares:** reformas curriculares completas devem seguir as orientações provenientes da PROENS e da Direção de Ensino, Pesquisa e Extensão do Campus, estando sujeitas aos mesmos prazos que as alterações curriculares. A elaboração do Projeto Pedagógico deverá obedecer as diretrizes curriculares para o curso em questão, que podem ser encontradas na página do MEC (http://www.mec.gov.br ). 
+## **6.1.2 Experiência do Coordenador**
 
-**Acompanhamento de Estágio:** os coordenadores de curso serão encarregados de acompanhar os locais de estágios de seus estudantes (estágio obrigatório e estágio não obrigatório), verificando se os estagiários estão realizando as atividades previstas no contrato de estágio. Os coordenadores de curso serão encarregados de buscarem e dar início ao cadastro de locais de estágios obrigatórios seguindo as orientações provenientes das Pró Reitorias e da Direção de Ensino, Pesquisa e Extensão do Campus. 
+Possui graduação em Pedagogia pela Universidade Regional do Estado do Rio Grande do Sul (1997), mestrado em Educação Nas Ciências pela Universidade Regional do Noroeste do Estado do Rio Grande do Sul (2006) e doutorado em Antropologia Social - UNIVERSIDAD NACIONAL DE MISIONES - Fac. de Humanidades y Ciencias Sociales (2012). Atualmente é professora no Ensino Básico, Técnico e Tecnológico do Instituto Federal do Paraná, Campus
 
-## **6.1.2 Experiência do Coordenador** 
+116
 
-Possui graduação em Pedagogia pela Universidade Regional do Estado do Rio Grande do Sul (1997), mestrado em Educação Nas Ciências pela Universidade Regional do Noroeste do Estado do Rio Grande do Sul (2006) e doutorado em Antropologia Social - UNIVERSIDAD NACIONAL DE MISIONES - Fac. de Humanidades y Ciencias Sociales (2012). Atualmente é professora no Ensino Básico, Técnico e Tecnológico do Instituto Federal do Paraná, Campus 
+INSTITUTOFEDERAL Parana
 
-116 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+Palmas. Tem experiência na área de Antropologia, com ênfase em Antropologia Rural e na área da Educação Básica e Superior, atuando na formação de professores nos seguintes temas: Educação do Campo, Educação Inclusiva, Estágios Supervisionados Obrigatórios, Educação em Direitos Humanos, Formação de professores/as, Currículo, Avaliação e Educação Infantil e Didática. Com pesquisas na área da Educação e Educação do Campo. Atuou como coordenadora Institucional do PIBID Edital 2018 e 2020 e como Coordenadora de Área do Programa Institucional de Bolsas de Iniciação à Docência (Pibid) no Subprojeto de Pedagogia.
 
-Ministerio da Educacao 
-
-Palmas. Tem experiência na área de Antropologia, com ênfase em Antropologia Rural e na área da Educação Básica e Superior, atuando na formação de professores nos seguintes temas: Educação do Campo, Educação Inclusiva, Estágios Supervisionados Obrigatórios, Educação em Direitos Humanos, Formação de professores/as, Currículo, Avaliação e Educação Infantil e Didática. Com pesquisas na área da Educação e Educação do Campo. Atuou como coordenadora Institucional do PIBID Edital 2018 e 2020 e como Coordenadora de Área do Programa Institucional de Bolsas de Iniciação à Docência (Pibid) no Subprojeto de Pedagogia. 
-
-## **6.1.3 Núcleo Docente Estruturante (NDE)** 
+## **6.1.3 Núcleo Docente Estruturante (NDE)**
 
 |**Composição**|**Titulação**|**Formação**|**Regime**|
 |---|---|---|---|
@@ -3618,24 +3504,20 @@ Palmas. Tem experiência na área de Antropologia, com ênfase em Antropologia R
 |Rosangela G. de Oliveira|Doutora|Lic. Artes|DE|
 |Gabriela Chicuta Ribeiro|Mestre|Lic. Educação Física|DE|
 
+_*PORTARIA IFPR CAMPUS CURITIBA  Nº 58/2021_
 
-
-_*PORTARIA IFPR CAMPUS CURITIBA  Nº 58/2021_ 
-
-## **6.1.4 Relação do Corpo docente** 
+## **6.1.4 Relação do Corpo docente**
 
 |**Nome Completo**|**Curso de**<br>**Graduação**|**Maior**<br>**Titulação**|**Regime de**<br>**Trabalho**<br>**(DE, 40h,**|**Link Currículo Lattes**|
 |---|---|---|---|---|
 
+117
 
+Ministerio da Educacao
 
-117 
+## INSTITUTOFEDERAL
 
-Ministerio da Educacao 
-
-## INSTITUTOFEDERAL 
-
-## Parana 
+## Parana
 
 ||||**20h)**||
 |---|---|---|---|---|
@@ -3651,15 +3533,13 @@ Ministerio da Educacao
 |Diogo Labiak Neves|Geografia|Mestre|DE|http://lattes.cnpq.br/83835578<br>37441651|
 |Edilson Aparecido|História|Doutorado DE|Doutorado DE|http://lattes.cnpq.br/0735268396|
 
+118
 
+## INSTITUTOFEDERAL
 
-118 
+## Parana
 
-## INSTITUTOFEDERAL 
-
-## Parana 
-
-Ministerio da Educacao 
+Ministerio da Educacao
 
 |Chaves||||718766|
 |---|---|---|---|---|
@@ -3676,15 +3556,13 @@ Ministerio da Educacao
 |Paulo Maniesi|Física|Doutorado Professor|Doutorado Professor<br>Substituto|http://lattes.cnpq.br/0587474808<br>855690|
 |Regiane Pinheiro<br>Porrua|Letras<br>Português/Es<br>panhol|Doutorado DE|Doutorado DE|http://lattes.cnpq.br/0638498207<br>877919|
 
+119
 
+## INSTITUTOFEDERAL
 
-119 
+## Parana
 
-## INSTITUTOFEDERAL 
-
-## Parana 
-
-Ministerio da Educacao 
+Ministerio da Educacao
 
 |Roberto José Medeiros<br>Junior|Matemática e<br>Gestão<br>Pública|Doutorado DE|Doutorado DE|http://lattes.cnpq.br/3590320225<br>551774|
 |---|---|---|---|---|
@@ -3696,85 +3574,83 @@ Ministerio da Educacao
 |Wesley Soares Guedes<br>de Moraes|Teologia e<br>Pedagogia|Doutorado DE|Doutorado DE|http://lattes.cnpq.br/02920014854<br>17344|
 |Wilson Lemos Junior|Educação<br>Física,<br>Educação<br>Artística com<br>habilitação<br>em Música|Doutorado  DE|Doutorado  DE|http://lattes.cnpq.br/62359295760<br>86675|
 
+## **6.1.5 Colegiado de Curso**
 
+O funcionamento do colegiado do curso de Pedagogia está estruturado conforme a Seção VI do Regimento Interno Comum aos Campi: Resolução 08/2014.
 
-## **6.1.5 Colegiado de Curso** 
+Art. 24. Os Colegiados de Curso são órgãos consultivos e deliberativos do Câmpus para assuntos de natureza pedagógica, didática e disciplinar, no âmbito de cada curso, tendo como
 
-O funcionamento do colegiado do curso de Pedagogia está estruturado conforme a Seção VI do Regimento Interno Comum aos Campi: Resolução 08/2014. 
+120
 
-Art. 24. Os Colegiados de Curso são órgãos consultivos e deliberativos do Câmpus para assuntos de natureza pedagógica, didática e disciplinar, no âmbito de cada curso, tendo como 
+INSTITUTOFEDERAL Parana
 
-120 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+finalidade o desenvolvimento e fortalecimento dos cursos ofertados, assegurando a participação dos segmentos da comunidade escolar.
 
-Ministerio da Educacao 
+Art. 25. Os Colegiados de Curso possuem os seguintes componentes:
 
-finalidade o desenvolvimento e fortalecimento dos cursos ofertados, assegurando a participação dos segmentos da comunidade escolar. 
+I. Os(as) docentes dos componentes curriculares do curso;
 
-Art. 25. Os Colegiados de Curso possuem os seguintes componentes: 
+II. 01 (um) representante técnico administrativo em educação ligado diretamente ao curso, quando houver;
 
-I. Os(as) docentes dos componentes curriculares do curso; 
+III. 02 (dois) representantes discentes, de turmas distintas.
 
-II. 01 (um) representante técnico administrativo em educação ligado diretamente ao curso, quando houver; 
+Parágrafo único. O Colegiado de Curso será coordenado por um(a) docente e na sua ausência pela Coordenação de Ensino do Campus.
 
-III. 02 (dois) representantes discentes, de turmas distintas. 
+Art. 26. O Colegiado de Curso reunir-se-á ordinariamente com periodicidade mínima bimestral, por convocação da Coordenação de Curso ou, quando houver necessidade, por convocação da Coordenação de Curso ou da Direção de Ensino Pesquisa e Extensão do Câmpus. Parágrafo único. As proposições e deliberações advindas da reunião do Colegiado de Curso serão lavradas em ata, com a assinatura de todos os membros presentes.
 
-Parágrafo único. O Colegiado de Curso será coordenado por um(a) docente e na sua ausência pela Coordenação de Ensino do Campus. 
+Art. 27. Compete aos Colegiados de Curso:
 
-Art. 26. O Colegiado de Curso reunir-se-á ordinariamente com periodicidade mínima bimestral, por convocação da Coordenação de Curso ou, quando houver necessidade, por convocação da Coordenação de Curso ou da Direção de Ensino Pesquisa e Extensão do Câmpus. Parágrafo único. As proposições e deliberações advindas da reunião do Colegiado de Curso serão lavradas em ata, com a assinatura de todos os membros presentes. 
+I. Cumprir e fazer cumprir as normas da instituição para o pleno funcionamento do curso;
 
-Art. 27. Compete aos Colegiados de Curso: 
+II. Propor revisão do Plano de Curso, quando necessário, respeitadas as diretrizes e normas do IFPR;
 
-I. Cumprir e fazer cumprir as normas da instituição para o pleno funcionamento do curso; 
+III. Manifestar-se sobre as formas de admissão e seleção, bem como sobre o número de vagas iniciais, no que lhe couber;
 
-II. Propor revisão do Plano de Curso, quando necessário, respeitadas as diretrizes e normas do IFPR; 
+IV. Estabelecer normas internas de funcionamento do curso, respeitadas as diretrizes e normas da instituição;
 
-III. Manifestar-se sobre as formas de admissão e seleção, bem como sobre o número de vagas iniciais, no que lhe couber; 
+V. Zelar pelo cumprimento dos Planos de Ensino dos componentes curriculares;
 
-IV. Estabelecer normas internas de funcionamento do curso, respeitadas as diretrizes e normas da instituição; 
+VI. Orientar e acompanhar a vida escolar/acadêmica dos alunos do curso;
 
-V. Zelar pelo cumprimento dos Planos de Ensino dos componentes curriculares; 
+VII. Deliberar sobre requerimentos de alunos no âmbito de suas competências;
 
-VI. Orientar e acompanhar a vida escolar/acadêmica dos alunos do curso; 
+VIII. Deliberar o horário de aulas do Curso, respeitadas as diretrizes e normas da instituição;
 
-VII. Deliberar sobre requerimentos de alunos no âmbito de suas competências; 
+121
 
-VIII. Deliberar o horário de aulas do Curso, respeitadas as diretrizes e normas da instituição; 
+INSTITUTOFEDERAL Parana
 
-121 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+IX. Estudar, na qualidade de relator ou de membro de comissão especial, as matérias submetidas à apreciação do Colegiado, apresentando o relato e a decisão no prazo estabelecido pelo Colegiado ou pela Coordenação;
 
-Ministerio da Educacao 
+X. Recepcionar os ingressantes do Curso, orientando-os no que se refere ao funcionamento e organização do IFPR;
 
-IX. Estudar, na qualidade de relator ou de membro de comissão especial, as matérias submetidas à apreciação do Colegiado, apresentando o relato e a decisão no prazo estabelecido pelo Colegiado ou pela Coordenação; 
+XI. Decidir sobre a aprovação ou reprovação de estudantes com dificuldade de aproveitamento nos componentes curriculares, ou em casos específicos que extrapolem a competência didáticoavaliativo-pedagógica docente, desde que convocados.
 
-X. Recepcionar os ingressantes do Curso, orientando-os no que se refere ao funcionamento e organização do IFPR; 
+## **6.1.6 Políticas de Capacitação do Corpo Docente**
 
-XI. Decidir sobre a aprovação ou reprovação de estudantes com dificuldade de aproveitamento nos componentes curriculares, ou em casos específicos que extrapolem a competência didáticoavaliativo-pedagógica docente, desde que convocados. 
+A Resolução № 48/11, normatiza o Programa de Qualificação e Formação dos Servidores do IFPR no seu artigo primeiro ao artigo quinto. O Programa de Incentivo à Formação Inicial, Continuada e de Qualificação de Servidores Públicos contemplará, quando possível, os seguintes níveis formativos, nas modalidades EaD e presencial:
 
-## **6.1.6 Políticas de Capacitação do Corpo Docente** 
+I. Cursos de Graduação;
 
-A Resolução № 48/11, normatiza o Programa de Qualificação e Formação dos Servidores do IFPR no seu artigo primeiro ao artigo quinto. O Programa de Incentivo à Formação Inicial, Continuada e de Qualificação de Servidores Públicos contemplará, quando possível, os seguintes níveis formativos, nas modalidades EaD e presencial: 
+II. Cursos de Pós-Graduação Lato Sensu: aperfeiçoamento e especialização;
 
-I. Cursos de Graduação; 
+III. Cursos de Pós-Graduação Stricto Sensu: mestrado e doutorado; IV. Estágio Pós-Doutoral;
 
-II. Cursos de Pós-Graduação Lato Sensu: aperfeiçoamento e especialização; 
+Outros cursos, estágios, intercâmbios acadêmico-profissionais ou atividades de capacitação, no interesse da Administração.
 
-III. Cursos de Pós-Graduação Stricto Sensu: mestrado e doutorado; IV. Estágio Pós-Doutoral; 
+Além dos programas de Pós-Graduação Stricto Sensu, a formação permanente do corpo docente será objeto de discussão e definição de estratégias formativas, com vistas a atender aos objetivos do curso, devendo ocorrer em semanas pedagógicas, oficinas específicas, participação em eventos formativos institucionais e de realização de estudos acadêmico-científicos de forma continuada.
 
-Outros cursos, estágios, intercâmbios acadêmico-profissionais ou atividades de capacitação, no interesse da Administração. 
+122
 
-Além dos programas de Pós-Graduação Stricto Sensu, a formação permanente do corpo docente será objeto de discussão e definição de estratégias formativas, com vistas a atender aos objetivos do curso, devendo ocorrer em semanas pedagógicas, oficinas específicas, participação em eventos formativos institucionais e de realização de estudos acadêmico-científicos de forma continuada. 
+Ministerio da Educacao
 
-122 
+## 1[INSTITUTOFEDERAL] Parana
 
-Ministerio da Educacao 
-
-## 1[INSTITUTOFEDERAL] Parana 
-
-## 6.2 CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO 
+## 6.2 CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO
 
 |**NOME**|**CARGO**|**Formação**|**Regime de**<br>**Trabalho**|
 |---|---|---|---|
@@ -3788,13 +3664,11 @@ Ministerio da Educacao
 |BRUNO COLETTY|TÉCNICO EM ASSUNTOS<br>EDUCACIONAIS|Pedagogia|40h|
 |CAIO AUGUSTO<br>GARCIA SAMPAIO<br>VALENTE|TÉCNICO DE<br>LABORATÓRIO|Mecânica|40h|
 
+123
 
+Ministerio da Educacao
 
-123 
-
-Ministerio da Educacao 
-
-## 1[INSTITUTOFEDERAL] Parana 
+## 1[INSTITUTOFEDERAL] Parana
 
 |1 [INSTITUTOFEDERAL]<br>Parana|[INSTITUTOFEDERAL]||Ministerio da Educacao|
 |---|---|---|---|
@@ -3809,13 +3683,11 @@ Ministerio da Educacao
 |EDILZA SILVA DOS<br>SANTOS CHIBIOR|BIBLIOTECARIO-<br>DOCUMENTALISTA|Biblioteconomia|40h|
 |ELENIR LEITE<br>MARLOCH|ASSISTENTE EM<br>ADMINISTRACAO|Gestão Pública|40h|
 
+124
 
+Ministerio da Educacao
 
-124 
-
-Ministerio da Educacao 
-
-## 1[INSTITUTOFEDERAL] Parana 
+## 1[INSTITUTOFEDERAL] Parana
 
 |ELIANE MARA LUZ|ASSISTENTE EM<br>ADMINISTRACAO|Biblioteconomia|40h|
 |---|---|---|---|
@@ -3829,13 +3701,11 @@ Ministerio da Educacao
 |ISRAEL BISPO DOS<br>SANTOS|TRADUTOR INTÉRPRETE<br>DE LINGUAGEM SINAIS|Pedagogia|40h|
 |IVONE<br>ZAPOTOSZEK|ASSISTENTE EM<br>ADMINISTRACAO|Administração|40h|
 
+125
 
+INSTITUTOFEDERAL Parana
 
-125 
-
-INSTITUTOFEDERAL Parana 
-
-Ministerio da Educacao 
+Ministerio da Educacao
 
 |JANICE MAYUMI<br>BARK TODA|ASSISTENTE EM<br>ADMINISTRACAO|Secretariado|40h|
 |---|---|---|---|
@@ -3849,13 +3719,11 @@ Ministerio da Educacao
 |LEANDRO JOSÉ DE<br>ARAUJO|ASSISTENTE SOCIAL|Assistente<br>Social|40h|
 |LOURDES<br>ANDRESSA ZEIZER<br>SATO|ASSISTENTE EM<br>ADMINISTRACAO|Letras|40h|
 
+126
 
+INSTITUTOFEDERAL Parana
 
-126 
-
-INSTITUTOFEDERAL Parana 
-
-Ministerio da Educacao 
+Ministerio da Educacao
 
 |LUCIANA DE<br>CASSIA ANDRADE<br>NAKATANI|ASSISTENTE EM<br>ADMINISTRACAO|Administração|40h|
 |---|---|---|---|
@@ -3868,13 +3736,11 @@ Ministerio da Educacao
 |NILSON DOS<br>SANTOS MORAES|TÉCNICO EM<br>CONTABILIDADE|Filosofia|40h|
 |NILTON FERREIRA<br>BRANDÃO|ANALISTA DE<br>TECNOLOGIA DA<br>INFORMAÇÃO|Sistemas de<br>Informação|40h|
 
+127
 
+INSTITUTOFEDERAL Parana
 
-127 
-
-INSTITUTOFEDERAL Parana 
-
-Ministerio da Educacao 
+Ministerio da Educacao
 
 |PATRICIA BATISTA<br>CORREIA|AUXILIAR DE BIBLIOTECA Ed. Física|AUXILIAR DE BIBLIOTECA Ed. Física|40h|
 |---|---|---|---|
@@ -3888,36 +3754,32 @@ Ministerio da Educacao
 |SEBASTIÃO<br>DAMBROSKI|ADMINISTRADOR|Administração|40h|
 |SIRLEI SCHMITT DE<br>TOLEDO|AUXILIAR EM ASSUNTOS<br>EDUCACIONAIS|História|40h|
 
+128
 
+INSTITUTOFEDERAL Parana
 
-128 
-
-INSTITUTOFEDERAL Parana 
-
-Ministerio da Educacao 
+Ministerio da Educacao
 
 |SUSI DE FATIMA<br>CARVALHO DA<br>SILVA|AUXILIAR DE BIBLIOTECA Gestão Pública|AUXILIAR DE BIBLIOTECA Gestão Pública|40h|
 |---|---|---|---|
 |TAIS HELENA<br>AKATSU|BIBLIOTECARIO-<br>DOCUMENTALISTA|Biblioteconomia|40h|
 |TANIA GRACIELI<br>VEGA INCERTI|ASSISTENTE SOCIAL|Assistente<br>Social|40h|
 
+## **6.2.1 Políticas de Capacitação do Corpo Técnico Administrativo em Educação**
 
+O PDI  (2014-2018) aborda as Políticas de capacitação, destacando que a política tem como fundamento legal o Decreto nº 5.707/2006 e a  Lei nº 11.091/2005. Ressalta-se que as Políticas de capacitação do Técnico Administrativo em Educação no IFPR em Educação visam ampliar a formação dos servidores, bem como proporcionar melhoria na eficiência do serviço público, tendo como base a qualidade dos processos de trabalho. A Pró-reitoria de Gestão de Pessoas objetiva "planejar, superintender, coordenar, fomentar as Políticas de gestão de pessoas, visando ao alcance das metas e ao cumprimento da missão institucional" (p.315).
 
-## **6.2.1 Políticas de Capacitação do Corpo Técnico Administrativo em Educação** 
+## **7. INFRAESTRUTURA**
 
-O PDI  (2014-2018) aborda as Políticas de capacitação, destacando que a política tem como fundamento legal o Decreto nº 5.707/2006 e a  Lei nº 11.091/2005. Ressalta-se que as Políticas de capacitação do Técnico Administrativo em Educação no IFPR em Educação visam ampliar a formação dos servidores, bem como proporcionar melhoria na eficiência do serviço público, tendo como base a qualidade dos processos de trabalho. A Pró-reitoria de Gestão de Pessoas objetiva "planejar, superintender, coordenar, fomentar as Políticas de gestão de pessoas, visando ao alcance das metas e ao cumprimento da missão institucional" (p.315). 
+O Campus Curitiba do IFPR possui acessibilidade para estudantes com necessidades especiais de locomoção, comunicação oral e visual. Atualmente é estruturado em dois blocos, o didático e o administrativo. O Bloco Didático possui vinte e duas salas com capacidade média de vinte e cinco estudantes cada, também possui laboratórios de informática de uso comum dos diversos cursos. Também no Bloco Didático está a estrutura pedagógica da Direção de Ensino Sala, e salas de atendimento ao estudante e biblioteca.
 
-## **7. INFRAESTRUTURA** 
+129
 
-O Campus Curitiba do IFPR possui acessibilidade para estudantes com necessidades especiais de locomoção, comunicação oral e visual. Atualmente é estruturado em dois blocos, o didático e o administrativo. O Bloco Didático possui vinte e duas salas com capacidade média de vinte e cinco estudantes cada, também possui laboratórios de informática de uso comum dos diversos cursos. Também no Bloco Didático está a estrutura pedagógica da Direção de Ensino Sala, e salas de atendimento ao estudante e biblioteca. 
+INSTITUTOFEDERAL Parana
 
-129 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
-
-Ministerio da Educacao 
-
-## 7.1 ÁREAS DE ENSINO ESPECÍFICAS 
+## 7.1 ÁREAS DE ENSINO ESPECÍFICAS
 
 |Ambiente|Existente|A construir|Área (m2)|
 |---|---|---|---|
@@ -3926,9 +3788,7 @@ Ministerio da Educacao
 |Coord. de curso|01|Não|15|
 |Sala de reuniões|01|Não|20|
 
-
-
-## 7.2 ÁREAS DE ESTUDO GERAL 
+## 7.2 ÁREAS DE ESTUDO GERAL
 
 |Ambiente|Existente|A construir|
 |---|---|---|
@@ -3938,23 +3798,19 @@ Ministerio da Educacao
 |Laboratório de química|Sim|Não|
 |Laboratório de biologia|Sim|Não|
 
-
-
-## 7.3 ÁREAS DE ESTUDO ESPECÍFICO 
+## 7.3 ÁREAS DE ESTUDO ESPECÍFICO
 
 |Ambiente|Existente|A construir|Área (m2)|
 |---|---|---|---|
 |Laboratório de Brinquedoteca|Não|Sim|35|
 
+130
 
+Ministerio da Educacao
 
-130 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
-
-## INSTITUTOFEDERAL Parana 
-
-## 7.4 ÁREAS DE ESPORTE E VIVÊNCIA 
+## 7.4 ÁREAS DE ESPORTE E VIVÊNCIA
 
 |Ambiente|Existente|
 |---|---|
@@ -3962,9 +3818,7 @@ Ministerio da Educacao
 |Cantina/ Refeitório|Sim|
 |Pátio coberto|não|
 
-
-
-## 7.5 ÁREAS DE ATENDIMENTO DISCENTE 
+## 7.5 ÁREAS DE ATENDIMENTO DISCENTE
 
 |Ambiente|Existente|
 |---|---|
@@ -3973,9 +3827,7 @@ Ministerio da Educacao
 |Primeiros socorros|Sim|
 |Serviço social|Sim|
 
-
-
-## 7.6 ÁREAS DE APOIO 
+## 7.6 ÁREAS DE APOIO
 
 |Ambiente|Existente|
 |---|---|
@@ -3984,125 +3836,123 @@ Ministerio da Educacao
 |Sala de áudio-visual|Sim|
 |Mecanografia|Não|
 
+131
 
+Ministerio da Educacao
 
-131 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+## 7.7 BIBLIOTECA
 
-## INSTITUTOFEDERAL Parana 
+A Biblioteca IFPR Campus Curitiba tem a finalidade de apoiar as atividades de ensino, pesquisa e extensão por meio da aquisição, tratamento técnico, armazenamento, preservação, disseminação e disponibilização de produtos e serviços de informação para a comunidade acadêmica. É um órgão suplementar, subordinado administrativamente à Direção de Ensino do Campus e tecnicamente à Coordenadoria Geral de Bibliotecas (CGB) / PROENS / Reitoria. Conta, até o momento, com um total de 10.778 títulos e 32.287 exemplares de diversas áreas. Na área de educação são 646 títulos e mais de 1650 exemplares. Utiliza o Sistema Pergamum que contempla as principais funções de uma Biblioteca que inclui rotina diária com os seus usuários, processo técnico dos livros e controle patrimonial do acervo.
 
-## 7.7 BIBLIOTECA 
+O expediente em dias letivos:
 
-A Biblioteca IFPR Campus Curitiba tem a finalidade de apoiar as atividades de ensino, pesquisa e extensão por meio da aquisição, tratamento técnico, armazenamento, preservação, disseminação e disponibilização de produtos e serviços de informação para a comunidade acadêmica. É um órgão suplementar, subordinado administrativamente à Direção de Ensino do Campus e tecnicamente à Coordenadoria Geral de Bibliotecas (CGB) / PROENS / Reitoria. Conta, até o momento, com um total de 10.778 títulos e 32.287 exemplares de diversas áreas. Na área de educação são 646 títulos e mais de 1650 exemplares. Utiliza o Sistema Pergamum que contempla as principais funções de uma Biblioteca que inclui rotina diária com os seus usuários, processo técnico dos livros e controle patrimonial do acervo. 
+Segunda à sexta-feira: das 7h15 às 21h15
 
-O expediente em dias letivos: 
+Sábados: das 08h às 12h
 
-Segunda à sexta-feira: das 7h15 às 21h15 
+Serviços Oferecidos
 
-Sábados: das 08h às 12h 
+a) Circulação de material
 
-Serviços Oferecidos 
+Permite a retirada de material bibliográfico por prazo pré-determinado. O empréstimo domiciliar é permitido a estudantes, professores e funcionários do Instituto Federal do Paraná. Para este serviço, o usuário deverá apresentar o seu cartão de identificação e/ou um documento oficial com foto e/ou crachá funcional.
 
-a) Circulação de material 
+b) Empréstimo entre bibliotecas
 
-Permite a retirada de material bibliográfico por prazo pré-determinado. O empréstimo domiciliar é permitido a estudantes, professores e funcionários do Instituto Federal do Paraná. Para este serviço, o usuário deverá apresentar o seu cartão de identificação e/ou um documento oficial com foto e/ou crachá funcional. 
+O usuário pode realizar empréstimos em outras bibliotecas do IFPR, através de malote. Este serviço deve ser solicitado no balcão de atendimento.
 
-b) Empréstimo entre bibliotecas 
+c) Ficha catalográfica
 
-O usuário pode realizar empréstimos em outras bibliotecas do IFPR, através de malote. Este serviço deve ser solicitado no balcão de atendimento. 
+132
 
-c) Ficha catalográfica 
+Ministerio da Educacao
 
-132 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+Tem o propósito de elaborar ficha catalográfica de teses, dissertações, monografias, livros e outras publicações de autoria institucional. É um serviço prestado pela Seção de Processamento Técnico da Biblioteca.
 
-## INSTITUTOFEDERAL Parana 
+d) Levantamento bibliográfico
 
-Tem o propósito de elaborar ficha catalográfica de teses, dissertações, monografias, livros e outras publicações de autoria institucional. É um serviço prestado pela Seção de Processamento Técnico da Biblioteca. 
+Objetiva prestar atendimento ao usuário, auxiliando na busca, localização e obtenção de informações.
 
-d) Levantamento bibliográfico 
+e) Consulta às normas da ABNT
 
-Objetiva prestar atendimento ao usuário, auxiliando na busca, localização e obtenção de informações. 
+A Biblioteca IFPR Campus Curitiba possui a assinatura das Normas da Associação Brasileira de Normas Técnicas. O acesso à consulta deve ser solicitado às bibliotecárias da equipe.
 
-e) Consulta às normas da ABNT 
+f) Normalização de trabalhos acadêmicos
 
-A Biblioteca IFPR Campus Curitiba possui a assinatura das Normas da Associação Brasileira de Normas Técnicas. O acesso à consulta deve ser solicitado às bibliotecárias da equipe. 
+Auxilia os usuários na elaboração dos trabalhos acadêmicos de acordo com as “Normas para Apresentação de Trabalhos Acadêmicos do Instituto Federal do Paraná”, baseadas na ABNT.
 
-f) Normalização de trabalhos acadêmicos 
+g) Treinamento de usuários
 
-Auxilia os usuários na elaboração dos trabalhos acadêmicos de acordo com as “Normas para Apresentação de Trabalhos Acadêmicos do Instituto Federal do Paraná”, baseadas na ABNT. 
+Tem objetivo de orientar os usuários na utilização acervo e serviços da biblioteca.
 
-g) Treinamento de usuários 
+h) Reserva de material
 
-Tem objetivo de orientar os usuários na utilização acervo e serviços da biblioteca. 
+Reserva material que esteja emprestado, caso não haja disponibilidade de nenhum exemplar do livro solicitado pelo usuário.
 
-h) Reserva de material 
+i) Visita orientada
 
-Reserva material que esteja emprestado, caso não haja disponibilidade de nenhum exemplar do livro solicitado pelo usuário. 
+É a divulgação aos calouros, dos produtos e serviços oferecidos pela biblioteca. A visita deve ser pré-agendada, pelo professor ou coordenador de curso, geralmente no início do ano letivo.
 
-i) Visita orientada 
+j) Uso do espaço físico / computadores e consulta local do acervo
 
-É a divulgação aos calouros, dos produtos e serviços oferecidos pela biblioteca. A visita deve ser pré-agendada, pelo professor ou coordenador de curso, geralmente no início do ano letivo. 
+É permitido ao usuário e ao não usuário (comunidade) a utilização do espaço, a consulta local ao acervo e uso dos computadores da Biblioteca.
 
-j) Uso do espaço físico / computadores e consulta local do acervo 
+Na área de educação são 646 títulos e mais de 1650 exemplares. Além dos livros a biblioteca disponibiliza os seguintes links:
 
-É permitido ao usuário e ao não usuário (comunidade) a utilização do espaço, a consulta local ao acervo e uso dos computadores da Biblioteca. 
+133
 
-Na área de educação são 646 títulos e mais de 1650 exemplares. Além dos livros a biblioteca disponibiliza os seguintes links: 
+Ministerio da Educacao
 
-133 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+Acesso ao Portal Capes
 
-## INSTITUTOFEDERAL Parana 
+## Normas da ABNT
 
-Acesso ao Portal Capes 
+**Educação**
 
-## Normas da ABNT 
+## Biblioteca Virtual de Educação à Distância
 
-**Educação** 
+Reúne links, textos e bases de dados de interesse para a área.
 
-## Biblioteca Virtual de Educação à Distância 
+## EDUBASE
 
-Reúne links, textos e bases de dados de interesse para a área. 
+Selecione “Edubase” Base de dados nacional desenvolvida pela Biblioteca da Faculdade de Educação da UNICAMP. Contém referências bibliográficas de artigos de revistas e outros documentos na área de Educação.
 
-## EDUBASE 
+## ERIC
 
-Selecione “Edubase” Base de dados nacional desenvolvida pela Biblioteca da Faculdade de Educação da UNICAMP. Contém referências bibliográficas de artigos de revistas e outros documentos na área de Educação. 
+Selecione “Edubase” Base de dados nacional desenvolvida pela Biblioteca da Faculdade de Educação da UNICAMP
 
-## ERIC 
+**Periódicos on-line**
 
-Selecione “Edubase” Base de dados nacional desenvolvida pela Biblioteca da Faculdade de Educação da UNICAMP 
+## Scielo
 
-**Periódicos on-line** 
+**Livro Falado** :  Livros nacionais e internacionais
 
-## Scielo 
+http://www.livrofalado.pro.br/acervo.php
 
-**Livro Falado** :  Livros nacionais e internacionais 
+## **Observatório do Ensino Médio**
 
-http://www.livrofalado.pro.br/acervo.php 
+(http://www.observatoriodoensinomedio.ufpr.br
 
-## **Observatório do Ensino Médio** 
+O Observatório do Ensino Médio da Universidade Federal do Paraná tem por objetivo reunir estudantes, educadores e pesquisadores dos diversos níveis e modalidades de ensino que tenham interesse em compartilhar ideias, temas e pesquisas sobre ensino médio, juventude, suas relações com a escola e com o mundo do trabalho. Desenvolve atividades de pesquisa e de extensão universitária.
 
-(http://www.observatoriodoensinomedio.ufpr.br 
+## **8. PLANEJAMENTO ECONÔMICO E SUSTENTABILIDADE  FINANCEIRA**
 
-O Observatório do Ensino Médio da Universidade Federal do Paraná tem por objetivo reunir estudantes, educadores e pesquisadores dos diversos níveis e modalidades de ensino que tenham interesse em compartilhar ideias, temas e pesquisas sobre ensino médio, juventude, suas relações com a escola e com o mundo do trabalho. Desenvolve atividades de pesquisa e de extensão universitária. 
+INVESTIMENTO NECESSÁRIO (R$)
 
-## **8. PLANEJAMENTO ECONÔMICO E SUSTENTABILIDADE  FINANCEIRA** 
+ANO
 
-INVESTIMENTO NECESSÁRIO (R$) 
+134
 
-ANO 
+Ministerio da Educacao
 
-134 
+## INSTITUTOFEDERAL
 
-Ministerio da Educacao 
-
-## INSTITUTOFEDERAL 
-
-## Parana 
+## Parana
 
 ||CUSTEIO||
 |---|---|---|
@@ -4112,13 +3962,11 @@ Ministerio da Educacao
 ||R$ 42.258,60||
 |INVESTIMENTO TOTAL|R$ 155.643,50||
 
+## 8.1 EXPANSÃO DO QUADRO DOCENTE
 
+O Campus conta atualmente com os professores necessários para o desenvolvimento do Curso necessitando apenas que se garanta a substituição dos docentes que se aposentarem.
 
-## 8.1 EXPANSÃO DO QUADRO DOCENTE 
-
-O Campus conta atualmente com os professores necessários para o desenvolvimento do Curso necessitando apenas que se garanta a substituição dos docentes que se aposentarem. 
-
-## 8.2 PROJEÇÃO DE AQUISIÇÃO DE MATERIAIS PERMANENTE E CONSUMO 
+## 8.2 PROJEÇÃO DE AQUISIÇÃO DE MATERIAIS PERMANENTE E CONSUMO
 
 |DESCRIÇÃO DO ESPAÇO OU EQUIPAMENTO|QUANTIDAD<br>E|VALOR<br>ESTIMADO<br>(TOTAL - R$)|
 |---|---|---|
@@ -4129,510 +3977,506 @@ O Campus conta atualmente com os professores necessários para o desenvolvimento
 ||||
 |INVESTIMENTO TOTAL||R$ 155.643,50|
 
+## 8.3 PROJEÇÃO DE AQUISIÇÃO DE ACERVO BIBLIOGRÁFICO
 
+Não se aplica, a aquisição de livros está em análise e discussão no campus.
 
-## 8.3 PROJEÇÃO DE AQUISIÇÃO DE ACERVO BIBLIOGRÁFICO 
+135
 
-Não se aplica, a aquisição de livros está em análise e discussão no campus. 
+INSTITUTOFEDERAL Parana
 
-135 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+## **REFERÊNCIAS**
 
-Ministerio da Educacao 
+DURAND, Micheleine-Joanne; CHOUINARD, Roch. **L’Évalyation des aprentissages: de la planification de la démarche à la communication des resultats** . Édition Marcel Didier: Montréal, 2012.
 
-## **REFERÊNCIAS** 
+HOFFMANN, Jussara. **Avaliar: respeitar primeiro educar depois** . 4.ed. Editora Mediação: Porto Alegre, 2013.
 
-DURAND, Micheleine-Joanne; CHOUINARD, Roch. **L’Évalyation des aprentissages: de la planification de la démarche à la communication des resultats** . Édition Marcel Didier: Montréal, 2012. 
+KENSKI, Vani Moreira. **A vivência escolar dos estagiários e a prática de pesquisa em estágios supervisionados.** IN: FAZENDA, Ivani Catarina Arantes [et all]; PICONEZ, Stela C. Bertholo (Coord.). A prática de ensino e o estágio supervisionado. Campinas-SP: Papirus, 1991.
 
-HOFFMANN, Jussara. **Avaliar: respeitar primeiro educar depois** . 4.ed. Editora Mediação: Porto Alegre, 2013. 
+LUCKESI, Cipriano Carlos. **Avaliação da Aprendizagem Escolar: estudos e proposições** . 22.ed. Cortez: São Paulo, 2011.
 
-KENSKI, Vani Moreira. **A vivência escolar dos estagiários e a prática de pesquisa em estágios supervisionados.** IN: FAZENDA, Ivani Catarina Arantes [et all]; PICONEZ, Stela C. Bertholo (Coord.). A prática de ensino e o estágio supervisionado. Campinas-SP: Papirus, 1991. 
+LIBÂNEO, José Carlos. **Pedagogia e pedagogos pra quê?** 12.ed. São Paulo: Editora Cortez, 2010.
 
-LUCKESI, Cipriano Carlos. **Avaliação da Aprendizagem Escolar: estudos e proposições** . 22.ed. Cortez: São Paulo, 2011. 
+LIBÂNEO, José Carlos. Ainda as perguntas: o que é pedagogia, quem é o pedagogo, o que deve ser o curso de Pedagogia. In:PIMENTA, Selma Garrido. Org. **Pedagogia e Pedagogos:caminhos e perspectivas** .3 ed. Cortez: São Paulo, 2011. p.63-100.
 
-LIBÂNEO, José Carlos. **Pedagogia e pedagogos pra quê?** 12.ed. São Paulo: Editora Cortez, 2010. 
+MACHADO, Nilson José. **Epistemologia e Didática.** 5. ed. São Paulo: Cortez Editora, 1995. v. 1. 320p.
 
-LIBÂNEO, José Carlos. Ainda as perguntas: o que é pedagogia, quem é o pedagogo, o que deve ser o curso de Pedagogia. In:PIMENTA, Selma Garrido. Org. **Pedagogia e Pedagogos:caminhos e perspectivas** .3 ed. Cortez: São Paulo, 2011. p.63-100. 
+NÓVOA, António. **Formação de professores e profissão docente.** In:___ (Org.). Os Professores e a sua Formação. Lisboa: Nova Enciclopédia, Publicações Dom Quixote, 1995.
 
-MACHADO, Nilson José. **Epistemologia e Didática.** 5. ed. São Paulo: Cortez Editora, 1995. v. 1. 320p. 
+PARO, Vitor Henrique. **Escritos sobre educação.** 1. ed. São Paulo: Xamã, 2001. v. 1. 150p .
 
-NÓVOA, António. **Formação de professores e profissão docente.** In:___ (Org.). Os Professores e a sua Formação. Lisboa: Nova Enciclopédia, Publicações Dom Quixote, 1995. 
+SAVIANI, Dermeval. **Pedagogia histórico-crítica** : primeiras aproximações. 10. ed. rev. Campinas: Autores Associados, 2008. 160 p. (Coleção educação contemporânea).
 
-PARO, Vitor Henrique. **Escritos sobre educação.** 1. ed. São Paulo: Xamã, 2001. v. 1. 150p . 
+136
 
-SAVIANI, Dermeval. **Pedagogia histórico-crítica** : primeiras aproximações. 10. ed. rev. Campinas: Autores Associados, 2008. 160 p. (Coleção educação contemporânea). 
+INSTITUTOFEDERAL Parana
 
-136 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+VÁSQUEZ, Adolfo Sánchez. **Filosofía de la praxis** _._ México: Fondo de Cultura Económica, 1967.
 
-Ministerio da Educacao 
+VILLAS BOAS, Benigna Maria de Freitas. **Virando a escola do avesso por meio da avaliação** . 2. ed. Papirus: Campinas, 2009.
 
-VÁSQUEZ, Adolfo Sánchez. **Filosofía de la praxis** _._ México: Fondo de Cultura Económica, 1967. 
+137
 
-VILLAS BOAS, Benigna Maria de Freitas. **Virando a escola do avesso por meio da avaliação** . 2. ed. Papirus: Campinas, 2009. 
+INSTITUTOFEDERAL Parana
 
-137 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+## **APÊNDICE A - NORMAS TCC**
 
-Ministerio da Educacao 
+## **REGULAMENTO DO TRABALHO DE CONCLUSÃO DE CURSO DO CURSO DE LICENCIATURA EM PEDAGOGIA**
 
-## **APÊNDICE A - NORMAS TCC** 
+Dispõe sobre normas e procedimentos do Trabalho de Conclusão de Curso (TCC) de Licenciatura em Pedagogia, do Campus Curitiba, do Instituto Federal de Educação, Ciência e Tecnologia do Paraná e dá outras providências.
 
-## **REGULAMENTO DO TRABALHO DE CONCLUSÃO DE CURSO DO CURSO DE LICENCIATURA EM PEDAGOGIA** 
+A Coordenadora do Curso de Pedagogia do Campus Curitiba, do Instituto Federal de Educação, Ciência e Tecnologia do Paraná, no uso da competência que lhe confere a Portaria IFPR nº 211 de 18 de março de 2021, publicado no Diário Oficial da União, Seção nº 2, do dia 19 de marços de 2021, seção 2, página 20,
 
-Dispõe sobre normas e procedimentos do Trabalho de Conclusão de Curso (TCC) de Licenciatura em Pedagogia, do Campus Curitiba, do Instituto Federal de Educação, Ciência e Tecnologia do Paraná e dá outras providências. 
+## RESOLVE:
 
-A Coordenadora do Curso de Pedagogia do Campus Curitiba, do Instituto Federal de Educação, Ciência e Tecnologia do Paraná, no uso da competência que lhe confere a Portaria IFPR nº 211 de 18 de março de 2021, publicado no Diário Oficial da União, Seção nº 2, do dia 19 de marços de 2021, seção 2, página 20, 
+## **CAPÍTULO I**
 
-## RESOLVE: 
+## **DAS DISPOSIÇÕES GERAIS**
 
-## **CAPÍTULO I** 
+Art. 1º. O Trabalho de Conclusão de Curso (TCC) tem os seguintes princípios:
 
-## **DAS DISPOSIÇÕES GERAIS** 
+I. aprofundamento teórico-conceitual na formação na área da pedagogia, assim como, a inserção na produção acadêmico-científica, tecnológica, filosófica e artística para a apropriação da pesquisa;
 
-Art. 1º. O Trabalho de Conclusão de Curso (TCC) tem os seguintes princípios: 
+138
 
-I. aprofundamento teórico-conceitual na formação na área da pedagogia, assim como, a inserção na produção acadêmico-científica, tecnológica, filosófica e artística para a apropriação da pesquisa; 
+INSTITUTOFEDERAL Parana
 
-138 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+II. consolidação da formação do pedagogo, em uma perspectiva teórico/prática, com base nas teorias críticas,  em uma dinâmica de práxis transformadora perante os desafios e necessidades da sociedade contemporânea;
 
-Ministerio da Educacao 
+III. contribuições nos avanços da ciência da pedagogia, nas linhas que se constroem e consolidam a pesquisa na área, consolidando  o compromisso  social e transformador, na elucidação de problemáticas vivenciadas nos campos da práticas curriculares da educação formal e não formal;
 
-II. consolidação da formação do pedagogo, em uma perspectiva teórico/prática, com base nas teorias críticas,  em uma dinâmica de práxis transformadora perante os desafios e necessidades da sociedade contemporânea; 
+IV. promoção da relação de indissociabilidade do ensino, pesquisa e  extensão a partir dos documentos oficiais do Instituto Federal do Paraná (IFPR);
 
-III. contribuições nos avanços da ciência da pedagogia, nas linhas que se constroem e consolidam a pesquisa na área, consolidando  o compromisso  social e transformador, na elucidação de problemáticas vivenciadas nos campos da práticas curriculares da educação formal e não formal; 
+V. valorização das diversas dimensões da ciência da pedagogia nos aspectos históricos, sociológicos, econômicos, culturais, artísticos, filosóficos no diálogo interdisciplinar, sem perder de vista as especificidades dos objetos de estudo;
 
-IV. promoção da relação de indissociabilidade do ensino, pesquisa e  extensão a partir dos documentos oficiais do Instituto Federal do Paraná (IFPR); 
+VI. construção de objetos de pesquisa voltados para área da pedagogia, no movimento interdisciplinar, que exige a formação do pedagogo para aprofundamento e elucidação da pesquisa nos princípios das ciências humanas e sociais.
 
-V. valorização das diversas dimensões da ciência da pedagogia nos aspectos históricos, sociológicos, econômicos, culturais, artísticos, filosóficos no diálogo interdisciplinar, sem perder de vista as especificidades dos objetos de estudo; 
+## **CAPÍTULO II**
 
-VI. construção de objetos de pesquisa voltados para área da pedagogia, no movimento interdisciplinar, que exige a formação do pedagogo para aprofundamento e elucidação da pesquisa nos princípios das ciências humanas e sociais. 
+## **DO CARÁTER DO TRABALHO DE CONCLUSÃO DE CURSO**
 
-## **CAPÍTULO II** 
+Art. 2º. O TCC é um componente curricular obrigatório do curso de Licenciatura em Pedagogia, oferecido pelo IFPR/Curitiba e de caráter obrigatório na integralização do curso.
 
-## **DO CARÁTER DO TRABALHO DE CONCLUSÃO DE CURSO** 
+Art. 3º. O TCC visa promover a capacidade de investigar e delinear objetos de pesquisa, apropriando-se da metodologia científica, da elucidação e formulação teórica, assim como, da identificação e proposição de elementos, como contribuições para a elaboração da ciência da pedagogia.
 
-Art. 2º. O TCC é um componente curricular obrigatório do curso de Licenciatura em Pedagogia, oferecido pelo IFPR/Curitiba e de caráter obrigatório na integralização do curso. 
+Art. 4º. Na matriz curricular está previsto o estudo e pesquisa em dois componentes curriculares: Metodologias de Pesquisa Pedagógica - TCC I, no sétimo semestre do curso; e Pesquisa Pedagógica - TCC II, no oitavo semestre do curso.
 
-Art. 3º. O TCC visa promover a capacidade de investigar e delinear objetos de pesquisa, apropriando-se da metodologia científica, da elucidação e formulação teórica, assim como, da identificação e proposição de elementos, como contribuições para a elaboração da ciência da pedagogia. 
+Art. 5º. No início do componente curricular: Pesquisa Pedagógica - TCC II, no oitavo semestre do curso será realizado relato dos objetos de investigação e o estudante indicará três
 
-Art. 4º. Na matriz curricular está previsto o estudo e pesquisa em dois componentes curriculares: Metodologias de Pesquisa Pedagógica - TCC I, no sétimo semestre do curso; e Pesquisa Pedagógica - TCC II, no oitavo semestre do curso. 
+139
 
-Art. 5º. No início do componente curricular: Pesquisa Pedagógica - TCC II, no oitavo semestre do curso será realizado relato dos objetos de investigação e o estudante indicará três 
+INSTITUTOFEDERAL Parana
 
-139 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+possíveis nomes de orientadores, com estudos e pesquisas de aderência ao tema. As distribuições de orientações serão organizadas pelo professor coordenador do componente curricular, com consulta prévia de disponibilidade de tempo e aderência ao tema dos docentes para serem orientadores, a serem aprovadas no Núcleo Docente Estruturante de Curso (NDE) e Colegiado de Curso.
 
-Ministerio da Educacao 
+Art. 6º. O TCC é o critério final de avaliação do estudante, o qual deverá apresentar o trabalho contemplando os seguintes elementos:
 
-possíveis nomes de orientadores, com estudos e pesquisas de aderência ao tema. As distribuições de orientações serão organizadas pelo professor coordenador do componente curricular, com consulta prévia de disponibilidade de tempo e aderência ao tema dos docentes para serem orientadores, a serem aprovadas no Núcleo Docente Estruturante de Curso (NDE) e Colegiado de Curso. 
+I. introdução: cinscuntanciamento do objeto de estudo, problema e delimitação do tema, objetivos, relação pesquisador e objeto, método de pesquisa, referencial teórico e algumas generalizações;
 
-Art. 6º. O TCC é o critério final de avaliação do estudante, o qual deverá apresentar o trabalho contemplando os seguintes elementos: 
+II. desenvolvimento: revisão de literatura, interpretação de dados discussão/análise do objeto/tema;
 
-I. introdução: cinscuntanciamento do objeto de estudo, problema e delimitação do tema, objetivos, relação pesquisador e objeto, método de pesquisa, referencial teórico e algumas generalizações; 
+III. considerações: sistematização dos elementos discutidos, proposições (mesmo que provisórias para a problemática) e possíveis sugestões para trabalhos futuros;
 
-II. desenvolvimento: revisão de literatura, interpretação de dados discussão/análise do objeto/tema; 
+IV. referências bibliográficas: as normas que se referem a trabalhos acadêmicos do IFPR deverão permear todo o trabalho tendo como referência as normas da ABNT vigentes.
 
-III. considerações: sistematização dos elementos discutidos, proposições (mesmo que provisórias para a problemática) e possíveis sugestões para trabalhos futuros; 
+Art. 7º. Na disciplina de Pesquisa Pedagógica - TCC II o acadêmico   será avaliado pelos seguintes critérios:
 
-IV. referências bibliográficas: as normas que se referem a trabalhos acadêmicos do IFPR deverão permear todo o trabalho tendo como referência as normas da ABNT vigentes. 
+I. apropriação teórico-conceitual das categorias;
 
-Art. 7º. Na disciplina de Pesquisa Pedagógica - TCC II o acadêmico   será avaliado pelos seguintes critérios: 
+II. capacidade de análise, síntese e sistematização do conhecimento.
 
-I. apropriação teórico-conceitual das categorias; 
+III. arguição com organização e clareza na exposição das ideias (oral e escrita);
 
-II. capacidade de análise, síntese e sistematização do conhecimento. 
+IV. exposição teórico/metodológica;
 
-III. arguição com organização e clareza na exposição das ideias (oral e escrita); 
+V. Uso de referências de obras e/ou autores que  complementam adequadamente a argumentação e exposição de ideias.
 
-IV. exposição teórico/metodológica; 
+VI. uso adequado das normas de elaboração e apresentação de trabalhos acadêmicos do IFPR (e normas da ABNT);
 
-V. Uso de referências de obras e/ou autores que  complementam adequadamente a argumentação e exposição de ideias. 
+VII. utilização de termos adequados (linguagem formal e acadêmica);
 
-VI. uso adequado das normas de elaboração e apresentação de trabalhos acadêmicos do IFPR (e normas da ABNT); 
+140
 
-VII. utilização de termos adequados (linguagem formal e acadêmica); 
+INSTITUTOFEDERAL Parana
 
-140 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+VIII. domínio da Norma Culta da Língua Portuguesa, coerência, coesão e objetividade.
 
-Ministerio da Educacao 
+Art. 8º. A avaliação será realizada  a partir dos seguintes instrumentos: projeto de investigação; apresentação de projeto em banca de qualificação;  apresentação do trabalho final em banca examinadora, considerando os critérios do Art. 6º; entrega do trabalho final em arquivo em pDF para alocação no repositório digital, admitindo conceitos A, B, C ou D, sendo o conceito D insatisfatório para a aprovação.
 
-VIII. domínio da Norma Culta da Língua Portuguesa, coerência, coesão e objetividade. 
+Parágrafo único: O repositório é a base de dados online que reúne de maneira organizada, a produção científica dos Trabalhos de Conclusão de Curso (TCCs), do Curso de Licenciatura em Pedagogia do Campus Curitiba, na página do IFPR, Campus Curitiba: https://curitiba.ifpr.edu.br/cursos-superiores/licenciatura-em-pedagogia/
 
-Art. 8º. A avaliação será realizada  a partir dos seguintes instrumentos: projeto de investigação; apresentação de projeto em banca de qualificação;  apresentação do trabalho final em banca examinadora, considerando os critérios do Art. 6º; entrega do trabalho final em arquivo em pDF para alocação no repositório digital, admitindo conceitos A, B, C ou D, sendo o conceito D insatisfatório para a aprovação. 
+## **CAPÍTULO III**
 
-Parágrafo único: O repositório é a base de dados online que reúne de maneira organizada, a produção científica dos Trabalhos de Conclusão de Curso (TCCs), do Curso de Licenciatura em Pedagogia do Campus Curitiba, na página do IFPR, Campus Curitiba: https://curitiba.ifpr.edu.br/cursos-superiores/licenciatura-em-pedagogia/ 
+## **DAS ATRIBUIÇÕES**
 
-## **CAPÍTULO III** 
+Art. 9º. São atribuições do Colegiado de Curso de Pedagogia:
 
-## **DAS ATRIBUIÇÕES** 
+I. aprovar os temas de investigação e os respectivos docentes orientadores;
 
-Art. 9º. São atribuições do Colegiado de Curso de Pedagogia: 
+II. organizar e aprovar o cronograma para entrega e socialização dos TCCs.
 
-I. aprovar os temas de investigação e os respectivos docentes orientadores; 
+Art 10.   São atribuições da Coordenação do Curso de Pedagogia:
 
-II. organizar e aprovar o cronograma para entrega e socialização dos TCCs. 
+I. homologar lista dos temas e respectivos docentes orientadores de TCC;
 
-Art 10.   São atribuições da Coordenação do Curso de Pedagogia: 
+II. homologar a listagem de acadêmicos por orientador;
 
-I. homologar lista dos temas e respectivos docentes orientadores de TCC; 
+III.  homologar o cronograma de bancas, entrega e socialização dos TCCs;
 
-II. homologar a listagem de acadêmicos por orientador; 
+IV. acompanhar o cumprimento das orientações realizadas, bem como frequência de estudantes a sessões de orientação;
 
-III.  homologar o cronograma de bancas, entrega e socialização dos TCCs; 
+V. articular-se com o Colegiado de Curso e docente coordenador do componente Pesquisa Pedagógica - TCC II para compatibilizar diretrizes, organização e desenvolvimento dos projetos de investigação;
 
-IV. acompanhar o cumprimento das orientações realizadas, bem como frequência de estudantes a sessões de orientação; 
+141
 
-V. articular-se com o Colegiado de Curso e docente coordenador do componente Pesquisa Pedagógica - TCC II para compatibilizar diretrizes, organização e desenvolvimento dos projetos de investigação; 
+INSTITUTOFEDERAL Parana
 
-141 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+VI. convocar, juntamente ao docente coordenador do componente de Pesquisa Educacional - TCC II sempre que necessário, os orientadores para discutir questões relativas à organização, planejamento, desenvolvimento e avaliação dos TCC's;
 
-Ministerio da Educacao 
+VII. divulgar, através de edital, o cronograma com os prazos a serem cumpridos durante o processo de realização do TCC.
 
-VI. convocar, juntamente ao docente coordenador do componente de Pesquisa Educacional - TCC II sempre que necessário, os orientadores para discutir questões relativas à organização, planejamento, desenvolvimento e avaliação dos TCC's; 
+Art. 11.  São atribuições do  professor coordenador de Pesquisa Pedagógica - TCC II:
 
-VII. divulgar, através de edital, o cronograma com os prazos a serem cumpridos durante o processo de realização do TCC. 
+I. o professor coordenador de Pesquisa Educacional - TCC II será docente do núcleo duro da área de Pedagogia, nominado na matriz curricular do curso;
 
-Art. 11.  São atribuições do  professor coordenador de Pesquisa Pedagógica - TCC II: 
+II. organizar a distribuição dos projetos para os docentes orientadores de TCC em consonância com este regulamento, disponibilidade de tempo e aderência aos temas de pesquisa;
 
-I. o professor coordenador de Pesquisa Educacional - TCC II será docente do núcleo duro da área de Pedagogia, nominado na matriz curricular do curso; 
+III. acompanhar o desenvolvimento dos trabalhos;
 
-II. organizar a distribuição dos projetos para os docentes orientadores de TCC em consonância com este regulamento, disponibilidade de tempo e aderência aos temas de pesquisa; 
+IV. mediar as relações entre estudantes  e docentes-orientadores;
 
-III. acompanhar o desenvolvimento dos trabalhos; 
+V. programar a metodologia do componente organizado em: orientações iniciais com indicação bibliográfica geral sobre pesquisas na área; organização de bancas de qualificação dos projetos, _templates_ de apresentação do projeto e trabalho final. Realizar orientações sobre documentação (atas, fichas de avaliações, entrega dos trabalhos finais para arquivamento);
 
-IV. mediar as relações entre estudantes  e docentes-orientadores; 
+VI. organizar cronograma com as datas dos encontros gerais do componente de Pesquisa Educacional - TCC II ;
 
-V. programar a metodologia do componente organizado em: orientações iniciais com indicação bibliográfica geral sobre pesquisas na área; organização de bancas de qualificação dos projetos, _templates_ de apresentação do projeto e trabalho final. Realizar orientações sobre documentação (atas, fichas de avaliações, entrega dos trabalhos finais para arquivamento); 
+VII. organizar junto aos orientadores o cronograma das bancas examinadoras de apresentação do TCC;
 
-VI. organizar cronograma com as datas dos encontros gerais do componente de Pesquisa Educacional - TCC II ; 
+VIII. divulgar cronogramas de bancas de apresentação dos TCCs;
 
-VII. organizar junto aos orientadores o cronograma das bancas examinadoras de apresentação do TCC; 
+IX. encaminhar a divulgação dos resultados dos TCCs a Secretaria Acadêmica;
 
-VIII. divulgar cronogramas de bancas de apresentação dos TCCs; 
+X. definir estratégias de divulgação e reconhecimento dos trabalhos na comunidade interna e externa;
 
-IX. encaminhar a divulgação dos resultados dos TCCs a Secretaria Acadêmica; 
+XI. analisar pedidos de mudança de orientador, apresentar a coordenação e colegiado de curso;
 
-X. definir estratégias de divulgação e reconhecimento dos trabalhos na comunidade interna e externa; 
+142
 
-XI. analisar pedidos de mudança de orientador, apresentar a coordenação e colegiado de curso; 
+INSTITUTOFEDERAL Parana
 
-142 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+XII. elaborar editais com os prazos a serem cumpridos durante o processo de realização do
 
-Ministerio da Educacao 
+TCC;
 
-XII. elaborar editais com os prazos a serem cumpridos durante o processo de realização do 
+Art. 12. São atribuições do docente orientador:
 
-TCC; 
+I. tomar ciência deste regulamento;
 
-Art. 12. São atribuições do docente orientador: 
+II. delimitar junto com orientando que o tema escolhido seja um assunto ao qual o acadêmico possua afinidade e que seja da área da pedagogia;
 
-I. tomar ciência deste regulamento; 
+III. acompanhar o orientando no planejamento e na escrita do TCC;
 
-II. delimitar junto com orientando que o tema escolhido seja um assunto ao qual o acadêmico possua afinidade e que seja da área da pedagogia; 
+IV. orientar o acadêmico na discussão e organização material de pesquisa, análise e escrita e organização do texto;
 
-III. acompanhar o orientando no planejamento e na escrita do TCC; 
+VI. orientar o estudante na organização da apresentação oral do TCC;
 
-IV. orientar o acadêmico na discussão e organização material de pesquisa, análise e escrita e organização do texto; 
+VII. escolher juntamente ao acadêmico os membros da banca examinadora e enviar-lhes carta convite oficial;
 
-VI. orientar o estudante na organização da apresentação oral do TCC; 
+VIII. informar os membros da banca examinadora, por via de ofício impresso e eletrônico ao professor coordenador do componente curricular Pesquisa Pedagógica -  TCC II;
 
-VII. escolher juntamente ao acadêmico os membros da banca examinadora e enviar-lhes carta convite oficial; 
+IX. assegurar que o acadêmico encaminhe as versões finais impressas e PDF dos TCCs para as bancas examinadoras, com um prazo de, no mínimo, 15 dias de antecedência, contando a partir da data de postagem, quando enviado pelo correio;
 
-VIII. informar os membros da banca examinadora, por via de ofício impresso e eletrônico ao professor coordenador do componente curricular Pesquisa Pedagógica -  TCC II; 
+X. assegurar a entrega do trabalho final em PDF para arquivamento no repositório digital;
 
-IX. assegurar que o acadêmico encaminhe as versões finais impressas e PDF dos TCCs para as bancas examinadoras, com um prazo de, no mínimo, 15 dias de antecedência, contando a partir da data de postagem, quando enviado pelo correio; 
+XI. enviar ao docente coordenador do componente de pesquisa pedagógica - TCC II, data e horário da banca de apresentação do TCC, a frequência e avaliações realizadas constando os conceitos I e II e o conceito final;
 
-X. assegurar a entrega do trabalho final em PDF para arquivamento no repositório digital; 
+XII. comunicar por escrito ao docente coordenador do componente de pesquisa pedagógica - TCC II qualquer problema de desistência ou incompatibilidade na orientação o mais rápido possível.
 
-XI. enviar ao docente coordenador do componente de pesquisa pedagógica - TCC II, data e horário da banca de apresentação do TCC, a frequência e avaliações realizadas constando os conceitos I e II e o conceito final; 
+XIII.  conferir as correções, quando indicadas pela banca. O orientador envia ao docente coordenador do componente de pesquisa pedagógica - TCC II para alocar no repositório digital.
 
-XII. comunicar por escrito ao docente coordenador do componente de pesquisa pedagógica - TCC II qualquer problema de desistência ou incompatibilidade na orientação o mais rápido possível. 
+143
 
-XIII.  conferir as correções, quando indicadas pela banca. O orientador envia ao docente coordenador do componente de pesquisa pedagógica - TCC II para alocar no repositório digital. 
+INSTITUTOFEDERAL Parana
 
-143 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+Art. 13. São atribuições do acadêmico orientando:
 
-Ministerio da Educacao 
+I. conhecer este Regulamento, as normas e suas atribuições;
 
-Art. 13. São atribuições do acadêmico orientando: 
+II. definir a problemática, delimitar a temática e forma de execução do TCC, em concordância com o professor orientador;
 
-I. conhecer este Regulamento, as normas e suas atribuições; 
+III. organizar e realizar o plano de trabalho, a ser elaborado em conjunto com o professor orientador;
 
-II. definir a problemática, delimitar a temática e forma de execução do TCC, em concordância com o professor orientador; 
+IV. participar das aulas coletivas e das sessões de orientações estabelecidas no quadro de horário do curso, sendo contabilizada a frequência obrigatória;
 
-III. organizar e realizar o plano de trabalho, a ser elaborado em conjunto com o professor orientador; 
+V. encaminhar ao Comitê de Ética os projetos que precisam da aprovação deste órgão;
 
-IV. participar das aulas coletivas e das sessões de orientações estabelecidas no quadro de horário do curso, sendo contabilizada a frequência obrigatória; 
+VI. entregar, dentro do cronograma estabelecido, ao docente orientador, os documentos pertinentes às produções necessárias no processo de elaboração do TCC;
 
-V. encaminhar ao Comitê de Ética os projetos que precisam da aprovação deste órgão; 
+VIII. apresentar oralmente seu projeto de pesquisa em seminários de socialização, bancas de qualificação e de apresentação do TCC;
 
-VI. entregar, dentro do cronograma estabelecido, ao docente orientador, os documentos pertinentes às produções necessárias no processo de elaboração do TCC; 
+IX. entregar, dentro do cronograma estabelecido, ao professor orientador do TCC, duas ou três cópias impressas simples do TCC e em PDF a ser submetido à banca examinadora final;
 
-VIII. apresentar oralmente seu projeto de pesquisa em seminários de socialização, bancas de qualificação e de apresentação do TCC; 
+X. entregar trabalho em cópia digital para o orientador conferir as correções, quando indicadas pela banca. O orientador envia ao docente coordenador para alocar no repositório digital.
 
-IX. entregar, dentro do cronograma estabelecido, ao professor orientador do TCC, duas ou três cópias impressas simples do TCC e em PDF a ser submetido à banca examinadora final; 
+XI. comunicar por escrito ao docente coordenador do componente de pesquisa pedagógica - TCC II qualquer problema de desistência ou incompatibilidade na orientação o mais rápido possível.
 
-X. entregar trabalho em cópia digital para o orientador conferir as correções, quando indicadas pela banca. O orientador envia ao docente coordenador para alocar no repositório digital. 
+## **CAPÍTULO III**
 
-XI. comunicar por escrito ao docente coordenador do componente de pesquisa pedagógica - TCC II qualquer problema de desistência ou incompatibilidade na orientação o mais rápido possível. 
+## **DA NATUREZA E DOS OBJETIVOS DO TRABALHO DE CONCLUSÃO DE CURSO**
 
-## **CAPÍTULO III** 
+Art. 14. O TCC será apresentado no formato de artigo científico.
 
-## **DA NATUREZA E DOS OBJETIVOS DO TRABALHO DE CONCLUSÃO DE CURSO** 
+144
 
-Art. 14. O TCC será apresentado no formato de artigo científico. 
+INSTITUTOFEDERAL Parana
 
-144 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+Art. 15. O trabalho consiste em  pesquisas que abordam problemáticas e temáticas relevantes para a formação do licenciado em pedagogia. Como tal poderá ser uma pesquisa, conduzida individualmente, devendo resultar em artigo científico.
 
-Ministerio da Educacao 
+Art. 16. O Trabalho de Conclusão de Curso é o resultado de desenvolvimento de pesquisa acadêmica de estudante, que cursou ou realizou aproveitamento de estudos nos componentes curriculares Metodologias de Pesquisa Pedagógica - TCC I, e Pesquisa Pedagógica - TCC II, que tem como objetivos principais:
 
-Art. 15. O trabalho consiste em  pesquisas que abordam problemáticas e temáticas relevantes para a formação do licenciado em pedagogia. Como tal poderá ser uma pesquisa, conduzida individualmente, devendo resultar em artigo científico. 
+I. apropriar-se  dos processos e métodos de pesquisa das ciências da pedagogia na interrelação com as  ciências humanas e sociais, como meio para a resolução de problemas;
 
-Art. 16. O Trabalho de Conclusão de Curso é o resultado de desenvolvimento de pesquisa acadêmica de estudante, que cursou ou realizou aproveitamento de estudos nos componentes curriculares Metodologias de Pesquisa Pedagógica - TCC I, e Pesquisa Pedagógica - TCC II, que tem como objetivos principais: 
+II. desenvolver a prática social e acadêmica da escrita de trabalhos científicos com o emprego de linguagem adequada a textos de caráter técnico-científico;
 
-I. apropriar-se  dos processos e métodos de pesquisa das ciências da pedagogia na interrelação com as  ciências humanas e sociais, como meio para a resolução de problemas; 
+III. desenvolver a arguição para expor um trabalho em público, defendendo suas propostas e trabalho perante bancas examinadoras;
 
-II. desenvolver a prática social e acadêmica da escrita de trabalhos científicos com o emprego de linguagem adequada a textos de caráter técnico-científico; 
+IV. intensificar a relação com os campos da pedagogia na relação entre a instituição e as instituições de educação formal e não formal locais;
 
-III. desenvolver a arguição para expor um trabalho em público, defendendo suas propostas e trabalho perante bancas examinadoras; 
+V. estimular a construção do conhecimento coletivo e formas de difusão para toda a sociedade como acesso à democratização do conhecimento;
 
-IV. intensificar a relação com os campos da pedagogia na relação entre a instituição e as instituições de educação formal e não formal locais; 
+Art. 17. O TCC deverá ser organizado conforme as normas mais recentes da Associação Brasileira de Normas Técnicas (ABNT);
 
-V. estimular a construção do conhecimento coletivo e formas de difusão para toda a sociedade como acesso à democratização do conhecimento; 
+Art. 18. O TCC possui como objetivos específicos:
 
-Art. 17. O TCC deverá ser organizado conforme as normas mais recentes da Associação Brasileira de Normas Técnicas (ABNT); 
+I. desenvolver a capacidade de análise e participação na ciência por meio dos conhecimentos científicos, tecnológicos, filosóficos e artísticos apropriados durante o curso, por meio da execução de um trabalho final;
 
-Art. 18. O TCC possui como objetivos específicos: 
+II. apropriar-se do processo e  interesse pela pesquisa e ensino;
 
-I. desenvolver a capacidade de análise e participação na ciência por meio dos conhecimentos científicos, tecnológicos, filosóficos e artísticos apropriados durante o curso, por meio da execução de um trabalho final; 
+III. corroborar na formação crítica, integral e humanizada do licenciando em Pedagogia.
 
-II. apropriar-se do processo e  interesse pela pesquisa e ensino; 
+**CAPÍTULO IV**
 
-III. corroborar na formação crítica, integral e humanizada do licenciando em Pedagogia. 
+145
 
-**CAPÍTULO IV** 
+## INSTITUTOFEDERAL Parana
 
-145 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL Parana 
+## **DA OFERTA DE TRABALHOS DE CONCLUSÃO DE CURSO**
 
-Ministerio da Educacao 
+Art. 19. O Núcleo Docente Estruturante juntamente ao Colegiado do Curso deverá aprovar a distribuição de orientandos entre os docentes orientadores, com base nas linhas de pesquisa dos docentes do curso ou aderências aos temas.
 
-## **DA OFERTA DE TRABALHOS DE CONCLUSÃO DE CURSO** 
+Art. 20. Após a efetivação das matrículas no TCC, os acadêmicos participarão de encontros gerais iniciais com o professor coordenador do componente curricular de Pesquisa Pedagógica - TCC II. Irão sugerir possíveis docentes-orientadores. Após as sugestões, serão organizados os contatos, para averiguar a disponibilidade de orientações por docentes com aderência às problemáticas/temas de pesquisa. Após esse trâmite, se dará início a construção e qualificação do projeto de investigação para apresentar em banca de qualificação e de Trabalho de Conclusão de Curso.
 
-Art. 19. O Núcleo Docente Estruturante juntamente ao Colegiado do Curso deverá aprovar a distribuição de orientandos entre os docentes orientadores, com base nas linhas de pesquisa dos docentes do curso ou aderências aos temas. 
+Art. 21.  No projeto deverá constar os elementos mínimos e obrigatórios:
 
-Art. 20. Após a efetivação das matrículas no TCC, os acadêmicos participarão de encontros gerais iniciais com o professor coordenador do componente curricular de Pesquisa Pedagógica - TCC II. Irão sugerir possíveis docentes-orientadores. Após as sugestões, serão organizados os contatos, para averiguar a disponibilidade de orientações por docentes com aderência às problemáticas/temas de pesquisa. Após esse trâmite, se dará início a construção e qualificação do projeto de investigação para apresentar em banca de qualificação e de Trabalho de Conclusão de Curso. 
+I. tema;
 
-Art. 21.  No projeto deverá constar os elementos mínimos e obrigatórios: 
+II.  problema;
 
-I. tema; 
+III.  apresentação do objeto;
 
-II.  problema; 
+IV. objetivos geral e específicos;
 
-III.  apresentação do objeto; 
+V. referencial teórico;
 
-IV. objetivos geral e específicos; 
+VI.   metodologia;
 
-V. referencial teórico; 
+VII.   cronograma ;
 
-VI.   metodologia; 
+VIII.  referências bibliográficas.
 
-VII.   cronograma ; 
+Art. 22. O trabalho final é formato de artigo científico, com base nas seguintes regras, as quais poderão ser acessadas no link: = https://docs.google.com/document/d/1wYkxQgctWD_ImHUlJikE8NGvpdzy1bBU/edit?usp sharing&oui d=113226519912692344831&rtpof=true&sd=true
 
-VIII.  referências bibliográficas. 
+146
 
-Art. 22. O trabalho final é formato de artigo científico, com base nas seguintes regras, as quais poderão ser acessadas no link: = https://docs.google.com/document/d/1wYkxQgctWD_ImHUlJikE8NGvpdzy1bBU/edit?usp sharing&oui d=113226519912692344831&rtpof=true&sd=true 
+INSTITUTOFEDERAL Parana
 
-146 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+Art. 23. As bancas de qualificação e apresentação do trabalho final de TCC serão agendadas no horário previsto no semestre para as aulas do componente de pesquisa pedagógica - TCC II, para que todos os estudantes possam participar.
 
-Ministerio da Educacao 
+## **CAPÍTULO V**
 
-Art. 23. As bancas de qualificação e apresentação do trabalho final de TCC serão agendadas no horário previsto no semestre para as aulas do componente de pesquisa pedagógica - TCC II, para que todos os estudantes possam participar. 
+## **DA DURAÇÃO DO TRABALHO DE CONCLUSÃO DE CURSO**
 
-## **CAPÍTULO V** 
+Art. 24. O tempo de duração do TCC, seguirá a oferta dos componentes referentes no calendário acadêmico dos referidos semestres.
 
-## **DA DURAÇÃO DO TRABALHO DE CONCLUSÃO DE CURSO** 
+## **CAPÍTULO VI**
 
-Art. 24. O tempo de duração do TCC, seguirá a oferta dos componentes referentes no calendário acadêmico dos referidos semestres. 
+## **DO ACOMPANHAMENTO E ORIENTAÇÃO DOS TRABALHOS DE CONCLUSÃO DE CURSO**
 
-## **CAPÍTULO VI** 
+Art. 25. Será permitido a cada docente orientador acompanhar um máximo de 03 (três) orientandos.
 
-## **DO ACOMPANHAMENTO E ORIENTAÇÃO DOS TRABALHOS DE CONCLUSÃO DE CURSO** 
+Art. 26. O docente orientador e o coorientador são docentes que ministram aulas no curso.
 
-Art. 25. Será permitido a cada docente orientador acompanhar um máximo de 03 (três) orientandos. 
+Parágrafo único: Em caso de não haver docentes com disponibilidade para orientação, poderão ser convidados docentes do quadro de servidores do IFPR, desde que pesquisador, com aderência ao objeto de pesquisa, com aprovação do NDE e Colegiado de Curso.
 
-Art. 26. O docente orientador e o coorientador são docentes que ministram aulas no curso. 
+Art. 27. O acompanhamento dos acadêmicos nos projetos finais será feito pelo docenteorientador, observando-se sempre a vinculação entre a pedagogia, a temática de pesquisa na qual será desenvolvido o projeto e a área de atuação deste docente.
 
-Parágrafo único: Em caso de não haver docentes com disponibilidade para orientação, poderão ser convidados docentes do quadro de servidores do IFPR, desde que pesquisador, com aderência ao objeto de pesquisa, com aprovação do NDE e Colegiado de Curso. 
+Art. 28. As orientações dar-se-ão durante  encontros agendados conforme disponibilidade do orientador e do orientando, com periodicidade quinzenal, de no mínimo uma hora, no semestre letivo, previsto no cronograma de aulas para elaboração de TCC, com ficha de frequência assinada pelo orientador e orientador.
 
-Art. 27. O acompanhamento dos acadêmicos nos projetos finais será feito pelo docenteorientador, observando-se sempre a vinculação entre a pedagogia, a temática de pesquisa na qual será desenvolvido o projeto e a área de atuação deste docente. 
+Art. 29. O docente coordenador do componente curricular Pesquisa Pedagógica - TCC II, poderá solicitar aos docentes-orientadores relatórios sobre os projetos, nos quais deverá constar
 
-Art. 28. As orientações dar-se-ão durante  encontros agendados conforme disponibilidade do orientador e do orientando, com periodicidade quinzenal, de no mínimo uma hora, no semestre letivo, previsto no cronograma de aulas para elaboração de TCC, com ficha de frequência assinada pelo orientador e orientador. 
+147
 
-Art. 29. O docente coordenador do componente curricular Pesquisa Pedagógica - TCC II, poderá solicitar aos docentes-orientadores relatórios sobre os projetos, nos quais deverá constar 
+INSTITUTOFEDERAL Parana
 
-147 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+uma breve descrição das etapas vencidas do cronograma proposto, o estágio atual de desenvolvimento e as possíveis alterações que se fizerem necessárias.
 
-Ministerio da Educacao 
+Art. 30. Não é obrigatória a coorientação. Mas, será permitida a coorientação desde que seja docente no curso de Licenciatura em Pedagogia, com adesão a área e tema de pesquisa do TCC. Só será permitida a participação de coorientador, desde o início das orientações, quando da distribuição das orientações no componente de pesquisa pedagógica - TCC II, respeitados os prérequisitos nos termos deste regulamento, sendo que se segue os mesmos trâmites e critérios para docentes orientadores.
 
-uma breve descrição das etapas vencidas do cronograma proposto, o estágio atual de desenvolvimento e as possíveis alterações que se fizerem necessárias. 
+Art. 31. O coorientador participará da banca junto com o orientador, que presidirá o ato, sendo que não poderá ser parte dos membros convidados para avaliar. Em caso de algum impedimento do orientador em relação à presidência da banca examinadora, o coorientador poderá presidir o ato.
 
-Art. 30. Não é obrigatória a coorientação. Mas, será permitida a coorientação desde que seja docente no curso de Licenciatura em Pedagogia, com adesão a área e tema de pesquisa do TCC. Só será permitida a participação de coorientador, desde o início das orientações, quando da distribuição das orientações no componente de pesquisa pedagógica - TCC II, respeitados os prérequisitos nos termos deste regulamento, sendo que se segue os mesmos trâmites e critérios para docentes orientadores. 
+## **CAPÍTULO VII**
 
-Art. 31. O coorientador participará da banca junto com o orientador, que presidirá o ato, sendo que não poderá ser parte dos membros convidados para avaliar. Em caso de algum impedimento do orientador em relação à presidência da banca examinadora, o coorientador poderá presidir o ato. 
+## **DA AVALIAÇÃO/APROVAÇÃO DOS TRABALHOS DE CONCLUSÃO DE CURSO**
 
-## **CAPÍTULO VII** 
+Art. 32. A avaliação do TCC é composta de apresentação escrita de artigo científico indicado no Art. 21 deste regulamento, com defesa oral diante de uma banca examinadora:
 
-## **DA AVALIAÇÃO/APROVAÇÃO DOS TRABALHOS DE CONCLUSÃO DE CURSO** 
+- I. composta pelo docente orientador e/ou coorientador, um membro avaliador docente do curso de Licenciatura em Pedagogia e um avaliador convidado, que poderá ser um docente pertencente ou não à Instituição convidado, que pertença à área do trabalho, licenciado, com experiência e atuação em cursos superiores ou pesquisador relacionado ao tema.
 
-Art. 32. A avaliação do TCC é composta de apresentação escrita de artigo científico indicado no Art. 21 deste regulamento, com defesa oral diante de uma banca examinadora: 
+- II. os membros da banca devem possuir título mínimo de especialista, com aderência ao tema.
 
-- I. composta pelo docente orientador e/ou coorientador, um membro avaliador docente do curso de Licenciatura em Pedagogia e um avaliador convidado, que poderá ser um docente pertencente ou não à Instituição convidado, que pertença à área do trabalho, licenciado, com experiência e atuação em cursos superiores ou pesquisador relacionado ao tema. 
+- III. o trabalho, em sua versão final, em que deve constar o nome dos docentes componentes da banca examinadora, deverá ser entregue, em três vias impressas e em PDF, com uma antecedência de, no mínimo, 15 (quinze) dias da data da defesa oral.
 
-- II. os membros da banca devem possuir título mínimo de especialista, com aderência ao tema. 
+Art. 33. A avaliação será definida em termos de reprovado, aprovado ou aprovado com restrições.
 
-- III. o trabalho, em sua versão final, em que deve constar o nome dos docentes componentes da banca examinadora, deverá ser entregue, em três vias impressas e em PDF, com uma antecedência de, no mínimo, 15 (quinze) dias da data da defesa oral. 
+§ 1º Em caso de aprovação sem restrições, o termo de aprovação será assinado pelo orientador e pelos demais membros da banca examinadora do TCC com as indicações de correção do trabalho.
 
-Art. 33. A avaliação será definida em termos de reprovado, aprovado ou aprovado com restrições. 
+148
 
-§ 1º Em caso de aprovação sem restrições, o termo de aprovação será assinado pelo orientador e pelos demais membros da banca examinadora do TCC com as indicações de correção do trabalho. 
+INSTITUTOFEDERAL Parana
 
-148 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+§ 2º Em caso de aprovação com restrições, o termo de aprovação será assinado apenas pelos dois membros convidados para compor a banca, ficando a assinatura e aprovação do orientador condicionada à conclusão adequada das correções sugeridas, que deverá ocorrer em um prazo máximo de 30 dias.;
 
-Ministerio da Educacao 
+**§ 3º** A condição de reprovado será quando do conceito D, por não atender os critérios de avaliação do Art. 7º deste regulamento.
 
-§ 2º Em caso de aprovação com restrições, o termo de aprovação será assinado apenas pelos dois membros convidados para compor a banca, ficando a assinatura e aprovação do orientador condicionada à conclusão adequada das correções sugeridas, que deverá ocorrer em um prazo máximo de 30 dias.; 
+Art. 34. Caso a banca examinadora identifique plágio no TCC o acadêmico será considerado reprovado.
 
-**§ 3º** A condição de reprovado será quando do conceito D, por não atender os critérios de avaliação do Art. 7º deste regulamento. 
+Art. 35. Após a avaliação final do TCC e a assinatura do termo de aprovação, o autor deverá entregar para o professor orientador a versão final do trabalho, para o professor coordenador de TCC, que envia para o repositório digital.
 
-Art. 34. Caso a banca examinadora identifique plágio no TCC o acadêmico será considerado reprovado. 
+## **CAPÍTULO VIII**
 
-Art. 35. Após a avaliação final do TCC e a assinatura do termo de aprovação, o autor deverá entregar para o professor orientador a versão final do trabalho, para o professor coordenador de TCC, que envia para o repositório digital. 
+## **DA AUTORIA E DOS DIREITOS AUTORAIS**
 
-## **CAPÍTULO VIII** 
+Art. 36. Ao Instituto Federal do Paraná são reservados os direitos co-autorais dos Trabalhos de Conclusão de Curso que resultarem em inovação tecnológica, que justifique a solicitação de patente. Os acadêmicos irão assinar declaração de autoria do trabalho.
 
-## **DA AUTORIA E DOS DIREITOS AUTORAIS** 
+## **CAPÍTULO IX**
 
-Art. 36. Ao Instituto Federal do Paraná são reservados os direitos co-autorais dos Trabalhos de Conclusão de Curso que resultarem em inovação tecnológica, que justifique a solicitação de patente. Os acadêmicos irão assinar declaração de autoria do trabalho. 
+## **DAS DISPOSIÇÕES FINAIS**
 
-## **CAPÍTULO IX** 
+Art. 37. Em caso de cancelamento ou suspensão do TCC por parte do orientando ou do orientador, ou de ocorrência de mudanças eventuais no TCC, o docente coordenador do componente curricular de pesquisa pedagógica - TCC II deverá ser notificado imediatamente, para que sejam tomadas as devidas providências.
 
-## **DAS DISPOSIÇÕES FINAIS** 
+Art. 38. Casos não previstos nesta Resolução serão resolvidos pelo Núcleo Docente Estruturante do Curso (NDE) e Colegiado de Curso.
 
-Art. 37. Em caso de cancelamento ou suspensão do TCC por parte do orientando ou do orientador, ou de ocorrência de mudanças eventuais no TCC, o docente coordenador do componente curricular de pesquisa pedagógica - TCC II deverá ser notificado imediatamente, para que sejam tomadas as devidas providências. 
+Art. 39. Esta Resolução entra em vigor nesta data, revogadas as disposições em contrário.
 
-Art. 38. Casos não previstos nesta Resolução serão resolvidos pelo Núcleo Docente Estruturante do Curso (NDE) e Colegiado de Curso. 
+149
 
-Art. 39. Esta Resolução entra em vigor nesta data, revogadas as disposições em contrário. 
+INSTITUTOFEDERAL Parana
 
-149 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+Dê-se ciência,
 
-Ministerio da Educacao 
+Cumpra-se.
 
-Dê-se ciência, 
+Coordenação do curso de Licenciatura em Pedagogia
 
-Cumpra-se. 
+## **APÊNDICE B - NORMAS ATIVIDADES COMPLEMENTARES**
 
-Coordenação do curso de Licenciatura em Pedagogia 
+## **REGULAMENTO DAS ATIVIDADES COMPLEMENTARES**
 
-## **APÊNDICE B - NORMAS ATIVIDADES COMPLEMENTARES** 
+Dispõe sobre Atividades Complementares do Curso de Licenciatura em Pedagogia, do Campus Curitiba, do Instituto Federal de Educação, Ciência e Tecnologia do Paraná e dá outras providências.
 
-## **REGULAMENTO DAS ATIVIDADES COMPLEMENTARES** 
+Art. 1º.  As Atividades Complementares, para além das diversas possibilidades intra cursos e externas ao IFPR, são propostas por meio de componentes semestrais no decorrer do Curso de Pedagogia, sendo optativo cursar os componentes curriculares ou solicitar integralização por meio de mecanismos de aproveitamento de conhecimentos, apropriados pelo estudante, em estudos e práticas independentes. Devendo ser solicitada a inscrição por meio de edital próprio a ser divulgado  pela Instituição.
 
-Dispõe sobre Atividades Complementares do Curso de Licenciatura em Pedagogia, do Campus Curitiba, do Instituto Federal de Educação, Ciência e Tecnologia do Paraná e dá outras providências. 
+Art. 2º. A carga horária de Atividades Complementares é estabelecida em um mínimo de 200 horas, conforme a Resolução 02/2015 CNE/CP, Art. 13, § 1o, que estabelece um mínimo de:
 
-Art. 1º.  As Atividades Complementares, para além das diversas possibilidades intra cursos e externas ao IFPR, são propostas por meio de componentes semestrais no decorrer do Curso de Pedagogia, sendo optativo cursar os componentes curriculares ou solicitar integralização por meio de mecanismos de aproveitamento de conhecimentos, apropriados pelo estudante, em estudos e práticas independentes. Devendo ser solicitada a inscrição por meio de edital próprio a ser divulgado  pela Instituição. 
+IV - 200 (duzentas) horas de atividades teórico-práticas de aprofundamento em áreas específicas de interesse dos estudantes [...] por meio da iniciação científica, da iniciação à docência, da extensão e da monitoria, entre outras, consoante o projeto de curso da instituição.
 
-Art. 2º. A carga horária de Atividades Complementares é estabelecida em um mínimo de 200 horas, conforme a Resolução 02/2015 CNE/CP, Art. 13, § 1o, que estabelece um mínimo de: 
+Art. 3º. A seleção dos temas que compõem o quadro curricular das Atividades Complementares é realizada observando a relevância dos mesmos para a atuação profissional do pedagogo.
 
-IV - 200 (duzentas) horas de atividades teórico-práticas de aprofundamento em áreas específicas de interesse dos estudantes [...] por meio da iniciação científica, da iniciação à docência, da extensão e da monitoria, entre outras, consoante o projeto de curso da instituição. 
+150
 
-Art. 3º. A seleção dos temas que compõem o quadro curricular das Atividades Complementares é realizada observando a relevância dos mesmos para a atuação profissional do pedagogo. 
+INSTITUTOFEDERAL Parana
 
-150 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
-
-Ministerio da Educacao 
-
-Art. 4º. Consta na matriz curricular do curso a oferta de 3 (três) componentes como atividades complementares. Estes  componentes curriculares de atividades complementares ofertados na matriz curricular do curso não são obrigatórios e podem ser validados com outras atividades com certificação na área de educação. As disciplinas atualmente oferecidas como Atividades Complementares são: 
+Art. 4º. Consta na matriz curricular do curso a oferta de 3 (três) componentes como atividades complementares. Estes  componentes curriculares de atividades complementares ofertados na matriz curricular do curso não são obrigatórios e podem ser validados com outras atividades com certificação na área de educação. As disciplinas atualmente oferecidas como Atividades Complementares são:
 
 |Tecnologias Educacionais|AC|40|
 |---|---|---|
 |Arte Educação e seu Ensino|AC|80|
 |Projetos Educativos|AC|80|
 
+Art. 5º.  Podem ser também reconhecidas como Atividades Complementares, quando de âmbito formativo complementar, de caráter teórico-prático de aprofundamento em áreas específicas de interesse dos acadêmicos e devem promover a articulação entre o ensino, a pesquisa e a extensão, assegurando seu caráter interdisciplinar.
 
+## **Caracterização das Atividades Formativas Complementares**
 
-Art. 5º.  Podem ser também reconhecidas como Atividades Complementares, quando de âmbito formativo complementar, de caráter teórico-prático de aprofundamento em áreas específicas de interesse dos acadêmicos e devem promover a articulação entre o ensino, a pesquisa e a extensão, assegurando seu caráter interdisciplinar. 
+Art. 6º. Serão consideradas atividades complementares que se caracterizem como:
 
-## **Caracterização das Atividades Formativas Complementares** 
+- I. Atividades práticas, de modo a propiciar vivências, nas mais diferentes áreas do campo educacional, assegurando aprofundamentos e diversificação de estudos, experiências e utilização de recursos pedagógicos, excetos os estágios obrigatórios e não obrigatórios;
 
-Art. 6º. Serão consideradas atividades complementares que se caracterizem como: 
+- II. Programas de Iniciação Científica e Iniciação à Docência;
 
-- I. Atividades práticas, de modo a propiciar vivências, nas mais diferentes áreas do campo educacional, assegurando aprofundamentos e diversificação de estudos, experiências e utilização de recursos pedagógicos, excetos os estágios obrigatórios e não obrigatórios; 
+- III. Participação em projetos e ou atividades de ensino, pesquisa, extensão e inovação internos e/ou externos ao IFPR;
 
-- II. Programas de Iniciação Científica e Iniciação à Docência; 
+- IV. Cursos realizados em áreas afins;
 
-- III. Participação em projetos e ou atividades de ensino, pesquisa, extensão e inovação internos e/ou externos ao IFPR; 
+- V. Participação em eventos científicos no campo da educação.
 
-- IV. Cursos realizados em áreas afins; 
+- VI. Atividades de representação estudantil.
 
-- V. Participação em eventos científicos no campo da educação. 
+- VII. Seminários e estudos curriculares.
 
-- VI. Atividades de representação estudantil. 
+Parágrafo único: Todas as atividades devem ser certificadas da área da educação ofertadas ou não pela IES.
 
-- VII. Seminários e estudos curriculares. 
+151
 
-Parágrafo único: Todas as atividades devem ser certificadas da área da educação ofertadas ou não pela IES. 
+Ministerio da Educacao
 
-151 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+Art. 7º. O estudante deverá concluir as AC até o sexto período do curso. As solicitações de convalidação de Atividades Complementares serão analisadas por comissão instituída para este fim por membros do Núcleo docente estruturante e pelo colegiado do Curso a partir do critério de conteúdo e cargahorária.
 
-## INSTITUTOFEDERAL Parana 
+Art. 8°. As regras e prazos de entrega de inscrição, documentação, análise e divulgação de resultados serão estabelecidos pela comissão de análise em edital próprio.
 
-Art. 7º. O estudante deverá concluir as AC até o sexto período do curso. As solicitações de convalidação de Atividades Complementares serão analisadas por comissão instituída para este fim por membros do Núcleo docente estruturante e pelo colegiado do Curso a partir do critério de conteúdo e cargahorária. 
+Art. 9°. O formulário das Atividades Acadêmicas Complementares seguem anexos ao Projeto Político Pedagógico do Curso.
 
-Art. 8°. As regras e prazos de entrega de inscrição, documentação, análise e divulgação de resultados serão estabelecidos pela comissão de análise em edital próprio. 
+152
 
-Art. 9°. O formulário das Atividades Acadêmicas Complementares seguem anexos ao Projeto Político Pedagógico do Curso. 
+Ministerio da Educacao
 
-152 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+## **ATIVIDADES COMPLEMENTARES**
 
-## INSTITUTOFEDERAL Parana 
-
-## **ATIVIDADES COMPLEMENTARES** 
-
-As Atividades Acadêmicas Complementares estão distribuídas conforme tabela abaixo, computando-se as excedentes como facultativas, para registro e certificação. 
+As Atividades Acadêmicas Complementares estão distribuídas conforme tabela abaixo, computando-se as excedentes como facultativas, para registro e certificação.
 
 |**1 - ATIVIDADES DE ENSINO**|**Carga**<br>**Horária**|**Carga**<br>**Horária**<br>**Máxima**|**Documentos**<br>**Comprobatórios**|
 |---|---|---|---|
@@ -4644,13 +4488,11 @@ As Atividades Acadêmicas Complementares estão distribuídas conforme tabela ab
 |Participação em palestras como ouvinte.|1|10|Declaração|
 |Participação em cursos com mais de 12h de duração.|5|10|Certificado|
 
+153
 
+Ministerio da Educacao
 
-153 
-
-Ministerio da Educacao 
-
-## INSTITUTOFEDERAL Parana 
+## INSTITUTOFEDERAL Parana
 
 |Representação estudantil em colegiados do curso e outros de<br>reconhecida relevância.|5|5|Portaria de<br>Designação ou<br>Declaração|
 |---|---|---|---|
@@ -4663,13 +4505,11 @@ Ministerio da Educacao
 |Participação em grupos de estudo, e pesquisas.|15|15|Declaração|
 |**3 - ATIVIDADES DE EXTENSÃO**|**Carga**<br>**Horária**|**Carga**<br>**Horária**<br>**Máxima**|**Documentos**<br>**Comprobatórios**|
 
+154
 
+Ministerio da Educacao
 
-154 
-
-Ministerio da Educacao 
-
-## 1[INSTITUTOFEDERAL] Parana 
+## 1[INSTITUTOFEDERAL] Parana
 
 |1 [INSTITUTOFEDERAL]<br>Parana|||Ministerio da Educacao|
 |---|---|---|---|
@@ -4684,90 +4524,74 @@ Ministerio da Educacao
 |Participação na organização de eventos na área da educação.|5|5|Declaração|
 |Participação em curso de formação em Libras|10|10|Certificado ou<br>Declaração|
 
+155
 
+Ministerio da Educacao
 
-155 
+## INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+156
 
-## INSTITUTOFEDERAL Parana 
+INSTITUTOFEDERAL Parana
 
-156 
+Ministerio da Educacao<br>
 
-INSTITUTOFEDERAL Parana 
+## **ANEXO 2-  CONTROLE DE ATIVIDADES ACADÊMICAS/CULTURAIS PARA O PORTFÓLIO DAS ATIVIDADES COMPLEMENTARES**
 
-**==> picture [84 x 11] intentionally omitted <==**
+## **CURSO DE LICENCIATURA EM PEDAGOGIA  IFPR - CAMPUS CURITIBA**
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
-
-
-## **ANEXO 2-  CONTROLE DE ATIVIDADES ACADÊMICAS/CULTURAIS PARA O PORTFÓLIO DAS ATIVIDADES COMPLEMENTARES** 
-
-## **CURSO DE LICENCIATURA EM PEDAGOGIA  IFPR - CAMPUS CURITIBA** 
-
-## **ACADÊMICO(A):** 
+## **ACADÊMICO(A):**
 
 |**NÚMERO**|**ATIVIDADE/ EVENTO**|**ATIVIDADE/ EVENTO**|**INSTITUIÇÃ**<br>**O**|**DATA/PERÍODO**|**CARGA**<br>**HORÁRI**|
 |---|---|---|---|---|---|
 ||||**PROMOTOR**||**A**|
 ||||**A**|||
 
+**Código da Natureza da Atividade (N.A.):** 01- Atividade de Ensino; 02 – Atividade de Pesquisa; 03 – Atividade de Extensão; 04 -Outras atividades de Educação
 
+- Todas as atividades deverão estar relacionadas à área da Educação.
 
-**Código da Natureza da Atividade (N.A.):** 01- Atividade de Ensino; 02 – Atividade de Pesquisa; 03 – Atividade de Extensão; 04 -Outras atividades de Educação 
+- Anexar cópia do documento comprobatório das atividades nominadas, acompanhadas dos originais.
 
-- Todas as atividades deverão estar relacionadas à área da Educação. 
+Curitiba, PR /
 
-- Anexar cópia do documento comprobatório das atividades nominadas, acompanhadas dos originais. 
+de 20
 
-Curitiba, PR / 
+157
 
-de 20 
+## INSTITUTOFEDERAL Parana
 
-157 
+Ministerio da Educacao<br>
 
-## INSTITUTOFEDERAL Parana 
+Acadêmico(a)
 
-**==> picture [84 x 9] intentionally omitted <==**
+Coordenador de Curso
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+## **APÊNDICE C - NORMAS DO ESTÁGIO SUPERVISIONADO OBRIGATÓRIO**
 
+## **REGULAMENTO DO ESTÁGIO SUPERVISIONADO OBRIGATÓRIO DO**
 
-Acadêmico(a) 
+## **CURSO DE LICENCIATURA EM PEDAGOGIA**
 
-Coordenador de Curso 
+Dispõe sobre normas e procedimentos do Estágio supervisionado Obrigatório do Curso de Licenciatura em Pedagogia, do Campus Curitiba, do Instituto Federal de Educação, Ciência e Tecnologia do Paraná e dá outras providências.
 
-## **APÊNDICE C - NORMAS DO ESTÁGIO SUPERVISIONADO OBRIGATÓRIO** 
+A Coordenadora do Curso de Pedagogia do Campus Curitiba, do Instituto Federal de Educação, Ciência e Tecnologia do Paraná, no uso da competência que lhe confere a Portaria IFPR no 211 de 18 de março de 2021, publicado no Diário Oficial da União, Seção no 2, do dia 19 de marços de 2021, seção 2, página 20,
 
-## **REGULAMENTO DO ESTÁGIO SUPERVISIONADO OBRIGATÓRIO DO** 
+## RESOLVE:
 
-## **CURSO DE LICENCIATURA EM PEDAGOGIA** 
+## **CAPÍTULO I**
 
-Dispõe sobre normas e procedimentos do Estágio supervisionado Obrigatório do Curso de Licenciatura em Pedagogia, do Campus Curitiba, do Instituto Federal de Educação, Ciência e Tecnologia do Paraná e dá outras providências. 
+## **DO ESTÁGIO SUPERVISIONADO OBRIGATÓRIO E SUAS FINALIDADES**
 
-A Coordenadora do Curso de Pedagogia do Campus Curitiba, do Instituto Federal de Educação, Ciência e Tecnologia do Paraná, no uso da competência que lhe confere a Portaria IFPR no 211 de 18 de março de 2021, publicado no Diário Oficial da União, Seção no 2, do dia 19 de marços de 2021, seção 2, página 20, 
+158
 
-## RESOLVE: 
+1[INSTITUTOFEDERAL] Parana
 
-## **CAPÍTULO I** 
+Ministerio da Educacao<br>
 
-## **DO ESTÁGIO SUPERVISIONADO OBRIGATÓRIO E SUAS FINALIDADES** 
+**Art. 1º** O estágio curricular obrigatório do curso de Licenciatura em Pedagogia fundamentase na LEI Nº 11.788, de  25 de setembro de 2008, que dispõe sobre o estágio de estudantes; nas Diretrizes Curriculares Nacionais para os cursos de Licenciatura (Resolução 02/2015 – CNE/CP), na RESOLUÇÃO Nº 36, DE 01 DE OUTUBRO DE 2019, que regulamenta a realização dos estágios no âmbito do IFPR, no REGULAMENTO GERAL DE ESTÁGIOS DO CAMPUS CURITIBA, que regulamenta a realização dos estágios no Campus Curitiba do IFPR e no Projeto Pedagógico do Curso de Licenciatura em Pedagogia.
 
-158 
-
-1[INSTITUTOFEDERAL] Parana 
-
-**==> picture [83 x 11] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
-
-
-**Art. 1º** O estágio curricular obrigatório do curso de Licenciatura em Pedagogia fundamentase na LEI Nº 11.788, de  25 de setembro de 2008, que dispõe sobre o estágio de estudantes; nas Diretrizes Curriculares Nacionais para os cursos de Licenciatura (Resolução 02/2015 – CNE/CP), na RESOLUÇÃO Nº 36, DE 01 DE OUTUBRO DE 2019, que regulamenta a realização dos estágios no âmbito do IFPR, no REGULAMENTO GERAL DE ESTÁGIOS DO CAMPUS CURITIBA, que regulamenta a realização dos estágios no Campus Curitiba do IFPR e no Projeto Pedagógico do Curso de Licenciatura em Pedagogia. 
-
-**Art. 2º** O estágio curricular supervisionado obrigatório do Curso de Pedagogia será desenvolvido a partir do segundo semestre, com carga horária total de 400 horas, com a seguinte estruturação: 
+**Art. 2º** O estágio curricular supervisionado obrigatório do Curso de Pedagogia será desenvolvido a partir do segundo semestre, com carga horária total de 400 horas, com a seguinte estruturação:
 
 |estruturação:|||
 |---|---|---|
@@ -4778,197 +4602,179 @@ Ministerio da Educacao<br>**----- End of picture text -----**<br>
 |Estágio IV – Formação Docente|5º período|80h|
 |Estágio V – Gestão Educacional|6º período|80h|
 
+Parágrafo único. Os respectivos estágios devem ser cumpridos dentro dos prazos estabelecidos em legislação para a conclusão do curso.
 
+**Art. 3º** O Pedagogo formado no IFPR terá como elemento norteador de sua formação a reflexão e a pesquisa, as quais perpassam todas as disciplinas, embora estejam mais objetivamente presentes nas disciplinas de Estágio. Este perfil de Profissional Pesquisador permitirá que nossos estudantes atuem como pedagogos em diferentes espaços, compreendendo a natureza dos mesmos e adotando as formas mais adequadas de gestão e organização do trabalho pedagógico, seja na escola ou em outros espaços educativos.
 
-Parágrafo único. Os respectivos estágios devem ser cumpridos dentro dos prazos estabelecidos em legislação para a conclusão do curso. 
+**Art. 4º** O Estágio possibilita o exercício profissional prévio que permitirá à/o estudante a obtenção do diploma universitário que confere seu título definitivo. Assim é etapa fundamental de profissionalização da/o estudante, portanto deve ser realizado em ambientes reais de trabalho. As atividades de Estágio pretendem também apontar para possíveis atividades de extensão, visto que por meio destas, a/o estudante passa a interagir com a comunidade em geral, contribuindo de maneira significativa para o desenvolvimento de todos os envolvidos no processo.
 
-**Art. 3º** O Pedagogo formado no IFPR terá como elemento norteador de sua formação a reflexão e a pesquisa, as quais perpassam todas as disciplinas, embora estejam mais objetivamente presentes nas disciplinas de Estágio. Este perfil de Profissional Pesquisador permitirá que nossos estudantes atuem como pedagogos em diferentes espaços, compreendendo a natureza dos mesmos e adotando as formas mais adequadas de gestão e organização do trabalho pedagógico, seja na escola ou em outros espaços educativos. 
+159
 
-**Art. 4º** O Estágio possibilita o exercício profissional prévio que permitirá à/o estudante a obtenção do diploma universitário que confere seu título definitivo. Assim é etapa fundamental de profissionalização da/o estudante, portanto deve ser realizado em ambientes reais de trabalho. As atividades de Estágio pretendem também apontar para possíveis atividades de extensão, visto que por meio destas, a/o estudante passa a interagir com a comunidade em geral, contribuindo de maneira significativa para o desenvolvimento de todos os envolvidos no processo. 
+## INSTITUTOFEDERAL Parana
 
-159 
+Ministerio da Educacao<br>
 
-## INSTITUTOFEDERAL Parana 
+Parágrafo único. O Estágio Supervisionado prevê momentos de diagnóstico, de discussão e aprofundamento teórico e de intervenção na realidade educacional.
 
-**==> picture [83 x 11] intentionally omitted <==**
+**Art. 5º** . Ao realizar o curso de Pedagogia a/o estudante irá discutir e refletir sobre o fenômeno educativo em suas mais diversas modalidades, ofertas, e formas de organização. A discussão e a reflexão acontecerão em todos os componentes curriculares do curso articulando-se de forma permanente ao Estágio fundamentando o trabalho deste estudante em campo, nas dimensões sociais, políticas e pedagógicas.
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+## **CAPÍTULO II**
 
+## **DA ORGANIZAÇÃO ADMINISTRATIVA E DIDÁTICA DO ESTÁGIO OBRIGATÓRIO SUPERVISIONADO**
 
-Parágrafo único. O Estágio Supervisionado prevê momentos de diagnóstico, de discussão e aprofundamento teórico e de intervenção na realidade educacional. 
+**Art. 6º** Com base na decisão do Núcleo Estruturante será definido uma Coordenação de Estágio Supervisionado Obrigatório
 
-**Art. 5º** . Ao realizar o curso de Pedagogia a/o estudante irá discutir e refletir sobre o fenômeno educativo em suas mais diversas modalidades, ofertas, e formas de organização. A discussão e a reflexão acontecerão em todos os componentes curriculares do curso articulando-se de forma permanente ao Estágio fundamentando o trabalho deste estudante em campo, nas dimensões sociais, políticas e pedagógicas. 
+**Art. 7º** São atribuições da Coordenação do Estágio:
 
-## **CAPÍTULO II** 
+I - supervisionar o desenvolvimento das atividades do Estágio Supervisionado Obrigatório;
 
-## **DA ORGANIZAÇÃO ADMINISTRATIVA E DIDÁTICA DO ESTÁGIO OBRIGATÓRIO SUPERVISIONADO** 
+II - criar, juntamente com a coordenação do curso, instrumentos de avaliação do Estágio Supervisionado Obrigatório;
 
-**Art. 6º** Com base na decisão do Núcleo Estruturante será definido uma Coordenação de Estágio Supervisionado Obrigatório 
+III - estabelecer o contato inicial com as Instituições onde ocorrerá o estágio supervisionado.
 
-**Art. 7º** São atribuições da Coordenação do Estágio: 
+IV - manter estreito o vínculo com as Unidades Concedentes de Estágio, Incentivando a troca de experiência com o IFPR;
 
-I - supervisionar o desenvolvimento das atividades do Estágio Supervisionado Obrigatório; 
+V - informar às/aos professoras/es orientadoras/es sobre todos os procedimentos realizados nas disciplinas de Estágio Supervisionado Obrigatório e acompanhá-las/os durante a etapa de orientação;
 
-II - criar, juntamente com a coordenação do curso, instrumentos de avaliação do Estágio Supervisionado Obrigatório; 
+160
 
-III - estabelecer o contato inicial com as Instituições onde ocorrerá o estágio supervisionado. 
+INSTITUTOFEDERAL Parana
 
-IV - manter estreito o vínculo com as Unidades Concedentes de Estágio, Incentivando a troca de experiência com o IFPR; 
+Ministerio da Educacao
 
-V - informar às/aos professoras/es orientadoras/es sobre todos os procedimentos realizados nas disciplinas de Estágio Supervisionado Obrigatório e acompanhá-las/os durante a etapa de orientação; 
+VI - acompanhar toda a documentação referente ao Estágio Supervisionado Obrigatório: projetos, planos, material didático e relatório;
 
-160 
+VII - analisar pedidos de validação da disciplina de Estágio Supervisionado Obrigatório;
 
-INSTITUTOFEDERAL Parana 
+VIII - coordenar a elaboração e divulgação do manual de Estágio Supervisionado Obrigatório, junto aos professores orientadores e estagiários;
 
-Ministerio da Educacao 
+IX - organizar um arquivo, a cada final de semestre letivo, dos contratos e planos de Estágio Supervisionado Obrigatório já assinados.
 
-VI - acompanhar toda a documentação referente ao Estágio Supervisionado Obrigatório: projetos, planos, material didático e relatório; 
+X - participar de todas as reuniões internas ou externas referente ao Estágio Supervisionado Obrigatório.
 
-VII - analisar pedidos de validação da disciplina de Estágio Supervisionado Obrigatório; 
+**Art. 8º** Em consonância com a Lei nº 11.788/2008, artigo 7º, inciso III – o professor orientador deve ter formação na área a ser desenvolvida no estágio.
 
-VIII - coordenar a elaboração e divulgação do manual de Estágio Supervisionado Obrigatório, junto aos professores orientadores e estagiários; 
+**Art. 9º** Ao professor orientador de Estágio Supervisionado Obrigatório compete:
 
-IX - organizar um arquivo, a cada final de semestre letivo, dos contratos e planos de Estágio Supervisionado Obrigatório já assinados. 
+I - orientar as atividades de Estágio Supervisionado Obrigatório realizadas;
 
-X - participar de todas as reuniões internas ou externas referente ao Estágio Supervisionado Obrigatório. 
+II - aprovar o plano de Estágio Supervisionado Obrigatório apresentado pelo estagiário, levando em consideração os objetivos estabelecidos neste Regulamento de Estágio Supervisionado Obrigatório e no Projeto Político Pedagógico do Curso de Licenciatura em Pedagogia;
 
-**Art. 8º** Em consonância com a Lei nº 11.788/2008, artigo 7º, inciso III – o professor orientador deve ter formação na área a ser desenvolvida no estágio. 
+III - registrar todas as atividades acadêmicas da disciplina de Estágio Supervisionado Obrigatório no diário de classe encaminhado pela secretaria acadêmica do Campus: frequência, conteúdos e notas;
 
-**Art. 9º** Ao professor orientador de Estágio Supervisionado Obrigatório compete: 
+IV - elaborar e apresentar às/aos estudantes os planos de ensino e de aula da disciplina de Estágio Supervisionado Obrigatório no início do semestre letivo;
 
-I - orientar as atividades de Estágio Supervisionado Obrigatório realizadas; 
+V - agendar os horários das observações e regências das/os estagiários em consonância com o horário da/o professora/r regente na unidade concedente;
 
-II - aprovar o plano de Estágio Supervisionado Obrigatório apresentado pelo estagiário, levando em consideração os objetivos estabelecidos neste Regulamento de Estágio Supervisionado Obrigatório e no Projeto Político Pedagógico do Curso de Licenciatura em Pedagogia; 
+161
 
-III - registrar todas as atividades acadêmicas da disciplina de Estágio Supervisionado Obrigatório no diário de classe encaminhado pela secretaria acadêmica do Campus: frequência, conteúdos e notas; 
+INSTITUTOFEDERAL Parana
 
-IV - elaborar e apresentar às/aos estudantes os planos de ensino e de aula da disciplina de Estágio Supervisionado Obrigatório no início do semestre letivo; 
+Ministerio da Educacao
 
-V - agendar os horários das observações e regências das/os estagiários em consonância com o horário da/o professora/r regente na unidade concedente; 
+VI - discutir o desempenho acadêmico da/o estagiária/o com a coordenação do Estágio Supervisionado e com a/o professora/r regente da unidade escolar.
 
-161 
+## **CAPÍTULO III**
 
-INSTITUTOFEDERAL Parana 
+## **DOS CAMPOS DE ESTÁGIO**
 
-Ministerio da Educacao 
+**Art. 10.** O Estágio Curricular Obrigatório poderá ser desenvolvido nas escolas de Educação Básica, prioritariamente nas Instituições públicas de Educação Infantil, de Ensino Fundamental (Anos Iniciais) e Ensino Médio (Curso Técnico de Magistério), casos não previstos neste artigo deverão ser encaminhados ao colegiado.
 
-VI - discutir o desempenho acadêmico da/o estagiária/o com a coordenação do Estágio Supervisionado e com a/o professora/r regente da unidade escolar. 
+## **CAPÍTULO IV**
 
-## **CAPÍTULO III** 
+## **DA CARGA HORÁRIA**
 
-## **DOS CAMPOS DE ESTÁGIO** 
+**Art. 11.** A Carga horária total do Estágio Supervisionado será de 400 horas distribuídas e organizadas da seguinte forma:
 
-**Art. 10.** O Estágio Curricular Obrigatório poderá ser desenvolvido nas escolas de Educação Básica, prioritariamente nas Instituições públicas de Educação Infantil, de Ensino Fundamental (Anos Iniciais) e Ensino Médio (Curso Técnico de Magistério), casos não previstos neste artigo deverão ser encaminhados ao colegiado. 
+I - Estágio I – Educação de Jovens e Adultos. Carga horária: 80 Hora/aula e Hora/relógio (60 min). Segundo período. Foco: Formação e compromisso do professor de jovens e adultos. Contextualização histórica, econômica e sócio-cultural dos sujeitos sociais da EJA; trajetórias de formação e de escolarização de jovens e adultos na EJA. Observação, participação no planejamento, docência e avaliação do processo ensino aprendizagem.
 
-## **CAPÍTULO IV** 
+II - Estágio II – Educação Infantil. Carga horária: 80 Hora/aula e Hora/relógio (60 min). Terceiro período. Foco: O Trabalho Pedagógico na Educação Infantil. Prática pedagógica e processos de aprendizagem e de avaliação na Educação Infantil.
 
-## **DA CARGA HORÁRIA** 
+III - Estágio III – Anos Iniciais do Ensino Fundamental. Carga horária: 80 Hora/aula e Hora/relógio (60 min). Quarto período. Foco: Desenvolvimento da Prática Pedagógica: análise,
 
-**Art. 11.** A Carga horária total do Estágio Supervisionado será de 400 horas distribuídas e organizadas da seguinte forma: 
+162
 
-I - Estágio I – Educação de Jovens e Adultos. Carga horária: 80 Hora/aula e Hora/relógio (60 min). Segundo período. Foco: Formação e compromisso do professor de jovens e adultos. Contextualização histórica, econômica e sócio-cultural dos sujeitos sociais da EJA; trajetórias de formação e de escolarização de jovens e adultos na EJA. Observação, participação no planejamento, docência e avaliação do processo ensino aprendizagem. 
+INSTITUTOFEDERAL Parana
 
-II - Estágio II – Educação Infantil. Carga horária: 80 Hora/aula e Hora/relógio (60 min). Terceiro período. Foco: O Trabalho Pedagógico na Educação Infantil. Prática pedagógica e processos de aprendizagem e de avaliação na Educação Infantil. 
+Ministerio da Educacao<br>
 
-III - Estágio III – Anos Iniciais do Ensino Fundamental. Carga horária: 80 Hora/aula e Hora/relógio (60 min). Quarto período. Foco: Desenvolvimento da Prática Pedagógica: análise, 
+planejamento e atuação. Relação professor, aluno e conhecimento na configuração do processo educacional. Especificidades do Trabalho Pedagógico no Ensino Fundamental.
 
-162 
+IV - Estágio IV – Formação Docente. Carga horária: 80 Hora/aula e Hora/relógio (60 min). Quarto período. Foco: Análise das políticas educacionais do curso de formação de professores em nível médio; organização histórica, legal e curricular do curso de formação de professores em nível médio; aspectos teórico-metodológicos no planejamento de aulas das disciplinas pedagógicas, da docência no ensino médio; pesquisa e planejamento de docência: plano de aula e oficinas.
 
-INSTITUTOFEDERAL Parana 
+V - Estágio V – Gestão Educacional. Carga horária: 80 Hora/aula e Hora/relógio (60 min). Quinto período. Foco: Processos de gestão escolar e sua relação com os determinantes socioeconômicos, considerando a natureza e a especificidade da organização do trabalho pedagógico escolar. Prática pedagógica do pedagogo nas unidades escolares (Conselho de Classe, reuniões pedagógicas, formação continuada, etc.)
 
-**==> picture [83 x 11] intentionally omitted <==**
+Parágrafo único. Em todos os períodos a exigência da frequência é total, ou seja, a/o estudante não poderá faltar em nenhuma das atividades, salvo em casos previstos na legislação, a fim de que se cumpra a carga horária exigida.
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+## **CAPÍTULO V**
 
+## **DA PARTICIPAÇÃO DISCENTE**
 
-planejamento e atuação. Relação professor, aluno e conhecimento na configuração do processo educacional. Especificidades do Trabalho Pedagógico no Ensino Fundamental. 
+**Art. 12.** Compete à/ao estudante estagiário/a:
 
-IV - Estágio IV – Formação Docente. Carga horária: 80 Hora/aula e Hora/relógio (60 min). Quarto período. Foco: Análise das políticas educacionais do curso de formação de professores em nível médio; organização histórica, legal e curricular do curso de formação de professores em nível médio; aspectos teórico-metodológicos no planejamento de aulas das disciplinas pedagógicas, da docência no ensino médio; pesquisa e planejamento de docência: plano de aula e oficinas. 
+I - matricular-se no componente de estágio curricular obrigatório correspondente ao seu período ou que esteja em atraso;
 
-V - Estágio V – Gestão Educacional. Carga horária: 80 Hora/aula e Hora/relógio (60 min). Quinto período. Foco: Processos de gestão escolar e sua relação com os determinantes socioeconômicos, considerando a natureza e a especificidade da organização do trabalho pedagógico escolar. Prática pedagógica do pedagogo nas unidades escolares (Conselho de Classe, reuniões pedagógicas, formação continuada, etc.) 
+II - informar-se sobre a documentação necessária para iniciar o estágio curricular obrigatório;
 
-Parágrafo único. Em todos os períodos a exigência da frequência é total, ou seja, a/o estudante não poderá faltar em nenhuma das atividades, salvo em casos previstos na legislação, a fim de que se cumpra a carga horária exigida. 
+III - coletar as assinaturas devidas nos respectivos documentos e encaminhá-los aos/às orientadores/as de estágio;
 
-## **CAPÍTULO V** 
+IV - manter a assiduidade e pontualidade com registro na Ficha de frequência;
 
-## **DA PARTICIPAÇÃO DISCENTE** 
+163
 
-**Art. 12.** Compete à/ao estudante estagiário/a: 
+INSTITUTOFEDERAL Parana
 
-I - matricular-se no componente de estágio curricular obrigatório correspondente ao seu período ou que esteja em atraso; 
+Ministerio da Educacao<br>
 
-II - informar-se sobre a documentação necessária para iniciar o estágio curricular obrigatório; 
+V - desenvolver as atividades orientadas, diário de bordo, fichas de observação, planos de aula, e demais propostas do componente;
 
-III - coletar as assinaturas devidas nos respectivos documentos e encaminhá-los aos/às orientadores/as de estágio; 
+VI - elaborar o relatório de estágio conforme as orientações recebidas;
 
-IV - manter a assiduidade e pontualidade com registro na Ficha de frequência; 
+VII - entregar toda a documentação e atividades selecionadas dentro dos prazos estabelecidos;
 
-163 
+## **CAPÍTULO VI**
 
-INSTITUTOFEDERAL Parana 
+## **DA CONVALIDAÇÃO DO ESTÁGIO CURRICULAR SUPERVISIONADO**
 
-**==> picture [83 x 11] intentionally omitted <==**
+**Art 13** . Em consonância com o artigo 28 da Resolução n.36 de 01/10/2019, incisos I e II a/a/o estudante que exercer atividade profissional no campo das docências específicas dos estágios obrigatórios do curso de Licenciatura em Pedagogia: Educação de Jovens e adultos, Educação Infantil, Anos Iniciais do Ensino Fundamental, Formação de professores(em nível Médio) ou Gestão Educacional poderá solicitar equivalência de até 70% da carga horária do estágio específico ao colegiado do curso.
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+Parágrafo único. A aceitação como estágio do exercício das atividades referidas no caput deste artigo, dependerá de decisão do colegiado do curso, que levará em consideração o tipo de atividade desenvolvida e a sua contribuição para a formação profissional da/a/o estudante.
 
+**Art. 14** . A convalidação do Estágio Curricular Supervisionado poderá ocorrer desde que atendidas as seguintes determinações:
 
-V - desenvolver as atividades orientadas, diário de bordo, fichas de observação, planos de aula, e demais propostas do componente; 
+I - estar matriculada/o no componente curricular correspondente;
 
-VI - elaborar o relatório de estágio conforme as orientações recebidas; 
+II - estar atuando como docente no período no qual estiver matriculado nas disciplinas de Estágio Curricular Supervisionado domo:
 
-VII - entregar toda a documentação e atividades selecionadas dentro dos prazos estabelecidos; 
+a) empregada/o registrada/o, empresário formal, profissional liberal ou autônomo;
 
-## **CAPÍTULO VI** 
+b) servidora/r público ou empregada/o pública/o;
 
-## **DA CONVALIDAÇÃO DO ESTÁGIO CURRICULAR SUPERVISIONADO** 
+164
 
-**Art 13** . Em consonância com o artigo 28 da Resolução n.36 de 01/10/2019, incisos I e II a/a/o estudante que exercer atividade profissional no campo das docências específicas dos estágios obrigatórios do curso de Licenciatura em Pedagogia: Educação de Jovens e adultos, Educação Infantil, Anos Iniciais do Ensino Fundamental, Formação de professores(em nível Médio) ou Gestão Educacional poderá solicitar equivalência de até 70% da carga horária do estágio específico ao colegiado do curso. 
+## INSTITUTOFEDERAL Parana
 
-Parágrafo único. A aceitação como estágio do exercício das atividades referidas no caput deste artigo, dependerá de decisão do colegiado do curso, que levará em consideração o tipo de atividade desenvolvida e a sua contribuição para a formação profissional da/a/o estudante. 
+Ministerio da Educacao<br>
 
-**Art. 14** . A convalidação do Estágio Curricular Supervisionado poderá ocorrer desde que atendidas as seguintes determinações: 
+**§ 1º** A convalidação, a que se refere _o caput_ deste Artigo, deverá ser solicitada junto à Coordenação do curso, de acordo com os procedimentos determinados pela Secretaria Acadêmica.
 
-I - estar matriculada/o no componente curricular correspondente; 
+**§ 2°** No ato da solicitação da convalidação deverá ser entregue juntamente com o requerimento a seguinte documentação:
 
-II - estar atuando como docente no período no qual estiver matriculado nas disciplinas de Estágio Curricular Supervisionado domo: 
+I. declaração da instituição onde atua ou atuou, dirigida a à coordenação do Curso, devidamente assinada e carimbada pelo representante legal da instituição, indicando o cargo ocupado, período de trabalho, carga horária semanal e as atividades profissionais desempenhadas pela/o estudante na Instituição.
 
-a) empregada/o registrada/o, empresário formal, profissional liberal ou autônomo; 
+**Art. 15.** Uma vez indeferida a convalidação, não cabe recurso, sendo que a/o estudante deverá cumprir todas as etapas e atividades relativas ao Estágio Supervisionado, objeto deste Regulamento.
 
-b) servidora/r público ou empregada/o pública/o; 
+**Art. 16.** O local da realização do estágio será definido pela Coordenação de Estágio.
 
-164 
+**Art. 17.** Os casos omissos serão resolvidos pelo Colegiado de Curso.
 
-## INSTITUTOFEDERAL Parana 
+Coordenação do Curso de Licenciatura em Pedagogia
 
-**==> picture [83 x 11] intentionally omitted <==**
+## **ANEXOS ESTÁGIO SUPERVISIONADO OBRIGATÓRIO**
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+## **TERMO DE COMPROMISSO DE ESTÁGIO OBRIGATÓRIO CURSOS DE LICENCIATURA**
 
-
-**§ 1º** A convalidação, a que se refere _o caput_ deste Artigo, deverá ser solicitada junto à Coordenação do curso, de acordo com os procedimentos determinados pela Secretaria Acadêmica. 
-
-**§ 2°** No ato da solicitação da convalidação deverá ser entregue juntamente com o requerimento a seguinte documentação: 
-
-I. declaração da instituição onde atua ou atuou, dirigida a à coordenação do Curso, devidamente assinada e carimbada pelo representante legal da instituição, indicando o cargo ocupado, período de trabalho, carga horária semanal e as atividades profissionais desempenhadas pela/o estudante na Instituição. 
-
-**Art. 15.** Uma vez indeferida a convalidação, não cabe recurso, sendo que a/o estudante deverá cumprir todas as etapas e atividades relativas ao Estágio Supervisionado, objeto deste Regulamento. 
-
-**Art. 16.** O local da realização do estágio será definido pela Coordenação de Estágio. 
-
-**Art. 17.** Os casos omissos serão resolvidos pelo Colegiado de Curso. 
-
-Coordenação do Curso de Licenciatura em Pedagogia 
-
-## **ANEXOS ESTÁGIO SUPERVISIONADO OBRIGATÓRIO** 
-
-## **TERMO DE COMPROMISSO DE ESTÁGIO OBRIGATÓRIO CURSOS DE LICENCIATURA** 
-
-As partes abaixo qualificadas celebram neste ato o Termo de Compromisso de Estágio conforme a Lei nº 11.788/08. 
+As partes abaixo qualificadas celebram neste ato o Termo de Compromisso de Estágio conforme a Lei nº 11.788/08.
 
 |a Lei nº 11.788/08.|a Lei nº 11.788/08.|
 |---|---|
@@ -4976,397 +4782,387 @@ As partes abaixo qualificadas celebram neste ato o Termo de Compromisso de Está
 |**Instituição de Ensino:**||
 |**CNPJ:**||
 
+165
 
+## INSTITUTOFEDERAL
 
-165 
+## Parana
 
-## INSTITUTOFEDERAL 
+Ministerio da Educacao<br>
 
-## Parana 
+**Nome da pessoa que representada Endereço: Cidade: Telefones:**
 
-**==> picture [83 x 11] intentionally omitted <==**
+**DADOS DO ALUNO(A) NOME: CAMPUS: CURSO: PERÍODO: MATRICULA:**
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+Residente à rua ______________________________________________ , n° _______ na cidade de _____________________ , Estado __________________, CEP __________________ , Fone ______________ ,CPF________________________________
 
+Data de Nascimento _____/_____/____ , doravante denominado Estudante, com interveniência da Instituição de Ensino, celebram o presente Termo de Compromisso em consonância com o Art. 82 da Lei nº 9394/96 – LDB, Art. ~~1~~[o] da Lei nº 11.788/08 mediante as seguintes cláusulas e condições:
 
-**Nome da pessoa que representada Endereço: Cidade: Telefones:** 
+**CLÁUSULA PRIMEIRA** As atividades a serem desenvolvidas durante o Estágio constam de programação acordada entre as partes, Plano de Atividades em anexo- e terão por finalidade propiciar ao Estudante uma experiência acadêmico-profissional em um campo de trabalho determinado, visando:a) o aprimoramento técnico-científico em sua formação; b) a maior proximidade do aluno, com as condições reais de trabalho, por intermédio de práticas afins com a natureza e especificidade da área definida nos projetos políticos pedagógicos de cada curso;
 
-**DADOS DO ALUNO(A) NOME: CAMPUS: CURSO: PERÍODO: MATRICULA:** 
+## **CLÁUSULA SEGUNDA O presente estágio somente poderá ser iniciado após assinatura das partes envolvidas, não sendo reconhecido ou validada com DATA RETROATIVA;**
 
-Residente à rua ______________________________________________ , n° _______ na cidade de _____________________ , Estado __________________, CEP __________________ , Fone ______________ ,CPF________________________________ 
+166
 
-Data de Nascimento _____/_____/____ , doravante denominado Estudante, com interveniência da Instituição de Ensino, celebram o presente Termo de Compromisso em consonância com o Art. 82 da Lei nº 9394/96 – LDB, Art. ~~1~~[o] da Lei nº 11.788/08 mediante as seguintes cláusulas e condições: 
+INSTITUTOFEDERAL Parana
 
-**CLÁUSULA PRIMEIRA** As atividades a serem desenvolvidas durante o Estágio constam de programação acordada entre as partes, Plano de Atividades em anexo- e terão por finalidade propiciar ao Estudante uma experiência acadêmico-profissional em um campo de trabalho determinado, visando:a) o aprimoramento técnico-científico em sua formação; b) a maior proximidade do aluno, com as condições reais de trabalho, por intermédio de práticas afins com a natureza e especificidade da área definida nos projetos políticos pedagógicos de cada curso; 
+Ministerio da Educacao
 
-## **CLÁUSULA SEGUNDA O presente estágio somente poderá ser iniciado após assinatura das partes envolvidas, não sendo reconhecido ou validada com DATA RETROATIVA;** 
+**CLÁUSULA TERCEIRA** O estágio será desenvolvido no período de _____/_____/______a _____/_____/______, no horário das _____ às _____hs, ser prorrogado, através de emissão de Termo Aditivo; **CLÁUSULA QUARTA** Em caso do presente estágio ser prorrogado, o preenchimento e a assinatura do Termo Aditivo deverão ser providenciados antes da data de encerramento, contida na Cláusula Terceira neste Termo de Compromisso;
 
-166 
+**CLÁUSULA QUINTA** Na vigência deste Termo de Compromisso o Estudante será protegido contra Acidentes Pessoais, providenciado pela IFPR e representado pela Apólice n° _____ da Companhia
 
-INSTITUTOFEDERAL Parana 
+________________.
 
-Ministerio da Educacao 
+**CLÁUSULA SEXTA** Nos termos do Art. 3° da Lei n° 11.788/08, o Estudante não terá, para quaisquer efeitos, vínculo empregatício com a Parte Concedente;
 
-**CLÁUSULA TERCEIRA** O estágio será desenvolvido no período de _____/_____/______a _____/_____/______, no horário das _____ às _____hs, ser prorrogado, através de emissão de Termo Aditivo; **CLÁUSULA QUARTA** Em caso do presente estágio ser prorrogado, o preenchimento e a assinatura do Termo Aditivo deverão ser providenciados antes da data de encerramento, contida na Cláusula Terceira neste Termo de Compromisso; 
+**CLÁUSULA SÉTIMA** Constituem motivo para interrupção automática da vigência do presente Termo de Compromisso de Estágio:
 
-**CLÁUSULA QUINTA** Na vigência deste Termo de Compromisso o Estudante será protegido contra Acidentes Pessoais, providenciado pela IFPR e representado pela Apólice n° _____ da Companhia 
+- a. Conclusão ou abandono do curso e o trancamento de matrícula;
 
-________________. 
+- b. Não cumprimento do convencionado neste Termo de Compromisso.
 
-**CLÁUSULA SEXTA** Nos termos do Art. 3° da Lei n° 11.788/08, o Estudante não terá, para quaisquer efeitos, vínculo empregatício com a Parte Concedente; 
+- c. Solicitação do estudante;
 
-**CLÁUSULA SÉTIMA** Constituem motivo para interrupção automática da vigência do presente Termo de Compromisso de Estágio: 
+- d. Solicitação da parte concedente;
 
-- a. Conclusão ou abandono do curso e o trancamento de matrícula; 
+- e. Solicitação da instituição de ensino.
 
-- b. Não cumprimento do convencionado neste Termo de Compromisso. 
+E, por estar de inteiro e comum acordo com as condições deste Termo de Compromisso, as partes assinam em 04 (quatro) vias de igual teor.
 
-- c. Solicitação do estudante; 
+…………........./......./........
 
-- d. Solicitação da parte concedente; 
+__________________________________            _________________________________ UNIDADE CONCEDENTE                                    ESTUDANTE (ASSINATURA E CARIMBO)                               (ASSINATURA)
 
-- e. Solicitação da instituição de ensino. 
+___________________________________ PROFESSOR ORIENTADOR DE ESTÁGIOS/IFPR
 
-E, por estar de inteiro e comum acordo com as condições deste Termo de Compromisso, as partes assinam em 04 (quatro) vias de igual teor. 
+_________________________________                  _________________________________ COORDENADOR DO CURSO – IFPR                       CHEFE DE SEÇÃO DE ESTÁGIOS E (assinatura e carimbo)                          RELAÇÕES COMUNITÁRIAS – CÂMPUS IFPR
 
-…………........./......./........ 
+(assinatura e carimbo)
 
-__________________________________            _________________________________ UNIDADE CONCEDENTE                                    ESTUDANTE (ASSINATURA E CARIMBO)                               (ASSINATURA) 
+## **PLANO DE ATIVIDADES DE ESTÁGIO CURRICULAR - LICENCIATURA**
 
-___________________________________ PROFESSOR ORIENTADOR DE ESTÁGIOS/IFPR 
+167
 
-_________________________________                  _________________________________ COORDENADOR DO CURSO – IFPR                       CHEFE DE SEÇÃO DE ESTÁGIOS E (assinatura e carimbo)                          RELAÇÕES COMUNITÁRIAS – CÂMPUS IFPR 
+Ministerio da Educacao
 
-(assinatura e carimbo) 
+## INSTITUTOFEDERAL
 
-## **PLANO DE ATIVIDADES DE ESTÁGIO CURRICULAR - LICENCIATURA** 
+## Parana
 
-167 
+Este PLANO DE ATIVIDADES DE ESTÁGIO é parte integrante do Termo de Compromisso de Estágio, nos termos da Lei nº 11.788, de 25 de setembro de 2008.
 
-Ministerio da Educacao 
+## **DADOS DO ESTAGIÁRIO**
 
-## INSTITUTOFEDERAL 
+**Nome completo** :
 
-## Parana 
+**Matrícula** :
 
-Este PLANO DE ATIVIDADES DE ESTÁGIO é parte integrante do Termo de Compromisso de Estágio, nos termos da Lei nº 11.788, de 25 de setembro de 2008. 
+**Curso** :
 
-## **DADOS DO ESTAGIÁRIO** 
+**Turma** :
 
-**Nome completo** : 
+**Período** :
 
-**Matrícula** : 
+**Turno do curso** :
 
-**Curso** : 
+**Telefone** : ( ) **E-mail** :
 
-**Turma** : 
+**Professor Orientador** :
 
-**Período** : 
+**Telefone** : ( ) **E-mail** :
 
-**Turno do curso** : 
+## **DADOS DA CONCEDENTE**
 
-**Telefone** : ( ) **E-mail** : 
+**Razão Social** :
 
-**Professor Orientador** : 
+**CNPJ** :
 
-**Telefone** : ( ) **E-mail** : 
+**Ramo de Atividade** :
 
-## **DADOS DA CONCEDENTE** 
+**Endereço** :
 
-**Razão Social** : 
+**Telefone** : ( ) **E-mail** :
 
-**CNPJ** : 
+## **DADOS DO ESTÁGIO**
 
-**Ramo de Atividade** : 
+Período de estágio: ____/____/_____ a ____/____/______ Horário de estágio: ____:____ às ____:____
 
-**Endereço** : 
+Objetivos:
 
-**Telefone** : ( ) **E-mail** : 
+_________________________________________________________________________
 
-## **DADOS DO ESTÁGIO** 
+168
 
-Período de estágio: ____/____/_____ a ____/____/______ Horário de estágio: ____:____ às ____:____ 
+## INSTITUTOFEDERAL
 
-Objetivos: 
+## Parana
 
-_________________________________________________________________________ 
+Ministerio da Educacao
 
-168 
+_________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ Atividades a serem realizadas: _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________
 
-## INSTITUTOFEDERAL 
+## **a) Modalidade da Supervisão: Direta b) Carga Horária Total: _______ horas**
 
-## Parana 
+Local:_______________________________ , _____ de _________________ de 20____
 
-Ministerio da Educacao 
+Coordenador do Curso Professor Orientador IFPR
 
-_________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ Atividades a serem realizadas: _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ _________________________________________________________________________ 
+169
 
-## **a) Modalidade da Supervisão: Direta b) Carga Horária Total: _______ horas** 
+## INSTITUTOFEDERAL Parana
 
-Local:_______________________________ , _____ de _________________ de 20____ 
+Ministerio da Educacao<br>
 
-Coordenador do Curso Professor Orientador IFPR 
+Orientador na Unidade Concedente
 
-169 
+## **APÊNDICE D- NORMAS BRINQUEDOTECA**
 
-## INSTITUTOFEDERAL Parana 
+## **REGULAMENTO BRINQUEDOTECA CURSO DE LICENCIATURA EM PEDAGOGIA CAMPUS CURITIBA DO INSTITUTO FEDERAL DO PARANÁ**
 
-**==> picture [83 x 11] intentionally omitted <==**
+Dispõe sobre normas e procedimentos da Brinquedoteca do Curso de Licenciatura em Pedagogia, do Campus Curitiba, do Instituto Federal de Educação, Ciência e Tecnologia do Paraná e dá outras providências.
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+A Coordenadora do Curso de Pedagogia do Campus Curitiba, do Instituto Federal de Educação, Ciência e Tecnologia do Paraná, no uso da competência que lhe confere a Portaria IFPR nº 211 de 18 de março de 2021, publicado no Diário Oficial da União, Seção nº 2, do dia 19 de marços de 2021, seção 2, página 20,
 
+## RESOLVE:
 
-Orientador na Unidade Concedente 
+## CAPÍTULO I
 
-## **APÊNDICE D- NORMAS BRINQUEDOTECA** 
+## DAS DISPOSIÇÕES PRELIMINARES
 
-## **REGULAMENTO BRINQUEDOTECA CURSO DE LICENCIATURA EM PEDAGOGIA CAMPUS CURITIBA DO INSTITUTO FEDERAL DO PARANÁ** 
+Art. 1º. O presente regulamento trata das normatizações das atividades da Brinquedoteca do Curso de Licenciatura em Pedagogia, do Campus Curitiba, do Instituto Federal de Educação, Ciência e Tecnologia do Paraná.
 
-Dispõe sobre normas e procedimentos da Brinquedoteca do Curso de Licenciatura em Pedagogia, do Campus Curitiba, do Instituto Federal de Educação, Ciência e Tecnologia do Paraná e dá outras providências. 
+Art. 2º.  A Brinquedoteca é um laboratório didático pedagógico voltado para práticas pedagógicas e estágios curriculares dos(as) estudantes do Curso de Licenciatura em Pedagogia, sob supervisão dos(as) docentes, bem como um espaço para ações com a comunidade interna e externa do Campus Curitiba.
 
-A Coordenadora do Curso de Pedagogia do Campus Curitiba, do Instituto Federal de Educação, Ciência e Tecnologia do Paraná, no uso da competência que lhe confere a Portaria IFPR nº 211 de 18 de março de 2021, publicado no Diário Oficial da União, Seção nº 2, do dia 19 de marços de 2021, seção 2, página 20, 
+## CAPÍTULO II
 
-## RESOLVE: 
+170
 
-## CAPÍTULO I 
+Ministerio da Educacao
 
-## DAS DISPOSIÇÕES PRELIMINARES 
+## INSTITUTOFEDERAL
 
-Art. 1º. O presente regulamento trata das normatizações das atividades da Brinquedoteca do Curso de Licenciatura em Pedagogia, do Campus Curitiba, do Instituto Federal de Educação, Ciência e Tecnologia do Paraná. 
+## Parana
 
-Art. 2º.  A Brinquedoteca é um laboratório didático pedagógico voltado para práticas pedagógicas e estágios curriculares dos(as) estudantes do Curso de Licenciatura em Pedagogia, sob supervisão dos(as) docentes, bem como um espaço para ações com a comunidade interna e externa do Campus Curitiba. 
+## DOS OBJETIVOS
 
-## CAPÍTULO II 
+Art. 3º.  A Brinquedoteca terá como principal objetivo proporcionar aos discentes do Curso de Licenciatura em Pedagogia do Campus Curitiba, formação teórica e prática a respeito da importância do brincar, no que se refere à construção, elaboração e reflexão temática sobre jogos, brinquedos e brincadeiras, através do ensino, pesquisa e extensão alinhados com o Projeto Pedagógico do Curso.
 
-170 
+Art 4º. São objetivos específicos da Brinquedoteca do Curso de Licenciatura em Pedagogia do Campus Curitiba do Instituto Federal do Paraná:
 
-Ministerio da Educacao 
+I - propiciar um espaço onde professores(as) e acadêmicos(as) do Curso de Licenciatura de Pedagogia possam realizar práticas interdisciplinares e dedicar-se à exploração de brinquedos e jogos;
 
-## INSTITUTOFEDERAL 
+II - realizar ações com crianças e seus responsáveis com foco nos jogos e nas brincadeiras;
 
-## Parana 
+III - contribuir para a conceituação do jogo, do brinquedo e da brincadeira e sua importância na educação;
 
-## DOS OBJETIVOS 
+IV - desenvolver estudos e pesquisas de objetos de estudo como: o brincar, o brinquedo, as brincadeiras e os jogos;
 
-Art. 3º.  A Brinquedoteca terá como principal objetivo proporcionar aos discentes do Curso de Licenciatura em Pedagogia do Campus Curitiba, formação teórica e prática a respeito da importância do brincar, no que se refere à construção, elaboração e reflexão temática sobre jogos, brinquedos e brincadeiras, através do ensino, pesquisa e extensão alinhados com o Projeto Pedagógico do Curso. 
+V - ser um espaço para confeccionar, explorar, testar e avaliar brinquedos e brincadeiras, inclusive construindo jogos, com os mais diversos materiais;
 
-Art 4º. São objetivos específicos da Brinquedoteca do Curso de Licenciatura em Pedagogia do Campus Curitiba do Instituto Federal do Paraná: 
+VI - ser um espaço para formação continuada para comunidade interna e externa,  principalmente os(as) docentes da rede pública;
 
-I - propiciar um espaço onde professores(as) e acadêmicos(as) do Curso de Licenciatura de Pedagogia possam realizar práticas interdisciplinares e dedicar-se à exploração de brinquedos e jogos; 
+VII - contribuir para a valorização do brincar na formação docente e do ser humano em geral;
 
-II - realizar ações com crianças e seus responsáveis com foco nos jogos e nas brincadeiras; 
+VIII - fomentar o estudo e o trabalho didático-pedagógico na literatura infantil;
 
-III - contribuir para a conceituação do jogo, do brinquedo e da brincadeira e sua importância na educação; 
+IX - proporcionar vivências com a brincadeira, o brinquedo e os jogos entre criança/criança, criança/adulto e adulto/adulto;
 
-IV - desenvolver estudos e pesquisas de objetos de estudo como: o brincar, o brinquedo, as brincadeiras e os jogos; 
+X- promover formação inicial e continuada para egressos(as) do Curso de Licenciatura em Pedagogia e docentes da rede pública e demais interessados sobre o brincar.
 
-V - ser um espaço para confeccionar, explorar, testar e avaliar brinquedos e brincadeiras, inclusive construindo jogos, com os mais diversos materiais; 
+CAPÍTULO III
 
-VI - ser um espaço para formação continuada para comunidade interna e externa,  principalmente os(as) docentes da rede pública; 
+171
 
-VII - contribuir para a valorização do brincar na formação docente e do ser humano em geral; 
+Ministerio da Educacao
 
-VIII - fomentar o estudo e o trabalho didático-pedagógico na literatura infantil; 
+## INSTITUTOFEDERAL Parana
 
-IX - proporcionar vivências com a brincadeira, o brinquedo e os jogos entre criança/criança, criança/adulto e adulto/adulto; 
+## DA ESTRUTURA
 
-X- promover formação inicial e continuada para egressos(as) do Curso de Licenciatura em Pedagogia e docentes da rede pública e demais interessados sobre o brincar. 
+Art. 5º.  A Brinquedoteca está localizada no Campus Curitiba do Instituto Federal do Paraná.
 
-CAPÍTULO III 
+Art. 6º.  A Brinquedoteca está sob responsabilidade da Coordenação do Curso de Licenciatura em Pedagogia do Campus Curitiba.
 
-171 
+Art. 7º.  Os materiais serão adquiridos seguindo os seguintes critérios:
 
-Ministerio da Educacao 
+I - segurança;
 
-## INSTITUTOFEDERAL Parana 
+II - diversidade cultural, étnica, racial;
 
-## DA ESTRUTURA 
+III - acessibilidade;
 
-Art. 5º.  A Brinquedoteca está localizada no Campus Curitiba do Instituto Federal do Paraná. 
+IV - éticos e estéticos;
 
-Art. 6º.  A Brinquedoteca está sob responsabilidade da Coordenação do Curso de Licenciatura em Pedagogia do Campus Curitiba. 
+VI - atenda a diversas faixas etárias;
 
-Art. 7º.  Os materiais serão adquiridos seguindo os seguintes critérios: 
+V - diversidade de materiais, cores, texturas.
 
-I - segurança; 
+## CAPÍTULO  IV
 
-II - diversidade cultural, étnica, racial; 
+## DO FUNCIONAMENTO
 
-III - acessibilidade; 
+Art 8º. A Brinquedoteca poderá ser utilizada pela comunidade interna e externa do IFPR, mediante autorização da Coordenação do Curso de Pedagogia ou docente coordenador(a).
 
-IV - éticos e estéticos; 
+Art. 9º.  Os horários de funcionamento e agendamentos serão organizados e publicizados pela Coordenação do Curso de Pedagogia ou docente coordenador(a).
 
-VI - atenda a diversas faixas etárias; 
+Art. 10.  Os recursos disponíveis na Brinquedoteca poderão ser utilizados pelos(as) estudantes, docentes, técnicos(as) e comunidade externa.
 
-V - diversidade de materiais, cores, texturas. 
+172
 
-## CAPÍTULO  IV 
+INSTITUTOFEDERAL Parana
 
-## DO FUNCIONAMENTO 
+Ministerio da Educacao
 
-Art 8º. A Brinquedoteca poderá ser utilizada pela comunidade interna e externa do IFPR, mediante autorização da Coordenação do Curso de Pedagogia ou docente coordenador(a). 
+Art. 11. Os brinquedos e demais materiais são de uso prioritário das crianças de 0 (zero) até 12 (doze) anos, acompanhadas dos pais ou do responsável, e dos(as) acadêmicos(as) do Curso de Licenciatura em Pedagogia do Campus Curitiba, do IFPR.
 
-Art. 9º.  Os horários de funcionamento e agendamentos serão organizados e publicizados pela Coordenação do Curso de Pedagogia ou docente coordenador(a). 
+Art. 12. Poderão ocorrer registros visuais e sonoros (filmagens, fotografias, entre outros) mediante autorização do uso de imagem dos sujeitos e, no caso das crianças, pelos seus responsáveis.
 
-Art. 10.  Os recursos disponíveis na Brinquedoteca poderão ser utilizados pelos(as) estudantes, docentes, técnicos(as) e comunidade externa. 
+Parágrafo único: as crianças devem ser comunicadas que elas estão sendo registradas.
 
-172 
+Art. 13. Os brinquedos e jogos com defeitos ou avarias devem ser retirados ou isolados da Brinquedoteca, bem como comunicados à coordenação do curso para providências.
 
-INSTITUTOFEDERAL Parana 
+Art. 14. Danos ocorridos por utilização errada ou produzidos de forma intencional devem ser comunicados à coordenação do Curso de Licenciatura em Pedagogia, sendo responsabilidade do usuário a reparação dos danos.
 
-Ministerio da Educacao 
+Art. 15. O uso dos materiais da Brinquedoteca em outros espaços e empréstimos podem ocorrer, desde que devidamente registrado por escrito com data de retirada e prazo de entrega, sob assinatura de termo de responsabilidade, comunicados ao coordenador(a) responsável pela Brinquedoteca.
 
-Art. 11. Os brinquedos e demais materiais são de uso prioritário das crianças de 0 (zero) até 12 (doze) anos, acompanhadas dos pais ou do responsável, e dos(as) acadêmicos(as) do Curso de Licenciatura em Pedagogia do Campus Curitiba, do IFPR. 
+## CAPÍTULO V
 
-Art. 12. Poderão ocorrer registros visuais e sonoros (filmagens, fotografias, entre outros) mediante autorização do uso de imagem dos sujeitos e, no caso das crianças, pelos seus responsáveis. 
+## DOS RECURSOS HUMANOS
 
-Parágrafo único: as crianças devem ser comunicadas que elas estão sendo registradas. 
+Art. 16. A Brinquedoteca conta um coordenador(a), com apoio docente e discente para organização, proposição e acompanhamento das atividades que serão desenvolvidas:
 
-Art. 13. Os brinquedos e jogos com defeitos ou avarias devem ser retirados ou isolados da Brinquedoteca, bem como comunicados à coordenação do curso para providências. 
+I - O coordenador da brinquedoteca será do quadro de pessoal do IFPR,  formado/a em Licenciatura de Pedagogia, que mantenha projeto de pesquisa ou extensão para formação docente inicial e continuada sobre educação sobre temática relacionada ao brincar e a brincadeira, aprovado no Núcleo Docente Estruturante (NDE) e ou Colegiado de curso;
 
-Art. 14. Danos ocorridos por utilização errada ou produzidos de forma intencional devem ser comunicados à coordenação do Curso de Licenciatura em Pedagogia, sendo responsabilidade do usuário a reparação dos danos. 
+II - monitor(es) discente(es), bolsistas e não bolsistas da Licenciatura de Pedagogia que realiza o papel de organizador, monitor e participante do projeto de extensão e ou pesquisa relacionado ao coordenador do projeto brinquedoteca;
 
-Art. 15. O uso dos materiais da Brinquedoteca em outros espaços e empréstimos podem ocorrer, desde que devidamente registrado por escrito com data de retirada e prazo de entrega, sob assinatura de termo de responsabilidade, comunicados ao coordenador(a) responsável pela Brinquedoteca. 
+173
 
-## CAPÍTULO V 
+## INSTITUTOFEDERAL Parana
 
-## DOS RECURSOS HUMANOS 
+Ministerio da Educacao
 
-Art. 16. A Brinquedoteca conta um coordenador(a), com apoio docente e discente para organização, proposição e acompanhamento das atividades que serão desenvolvidas: 
+## CAPÍTULO VI
 
-I - O coordenador da brinquedoteca será do quadro de pessoal do IFPR,  formado/a em Licenciatura de Pedagogia, que mantenha projeto de pesquisa ou extensão para formação docente inicial e continuada sobre educação sobre temática relacionada ao brincar e a brincadeira, aprovado no Núcleo Docente Estruturante (NDE) e ou Colegiado de curso; 
+## DAS RESPONSABILIDADES
 
-II - monitor(es) discente(es), bolsistas e não bolsistas da Licenciatura de Pedagogia que realiza o papel de organizador, monitor e participante do projeto de extensão e ou pesquisa relacionado ao coordenador do projeto brinquedoteca; 
+Art. 17. O(A) coordenador(a) da brinquedoteca responsável, bem como o(a) Monitor(a) discente, em um trabalho conjunto, são responsáveis por:
 
-173 
+I - zelar pelo espaço, pelos materiais, pelos jogos e brinquedos;
 
-## INSTITUTOFEDERAL Parana 
+II -  cuidar do ambiente de forma criativa e construtiva;
 
-Ministerio da Educacao 
+III - organizar e classificar os jogos e brinquedos por faixa etária;
 
-## CAPÍTULO VI 
+IV - preparar os arquivos e registros da Brinquedoteca;
 
-## DAS RESPONSABILIDADES 
+V - catalogar os materiais existentes na Brinquedoteca;
 
-Art. 17. O(A) coordenador(a) da brinquedoteca responsável, bem como o(a) Monitor(a) discente, em um trabalho conjunto, são responsáveis por: 
+VI - zelar pela limpeza e assepsia dos jogos e brinquedos;
 
-I - zelar pelo espaço, pelos materiais, pelos jogos e brinquedos; 
+VII - incentivar sempre o brincar e a apropriação dos conhecimentos;
 
-II -  cuidar do ambiente de forma criativa e construtiva; 
+VIII - estabelecer regras e normas de funcionamento do espaço;
 
-III - organizar e classificar os jogos e brinquedos por faixa etária; 
+IX - comunicar irregularidades à coordenação do curso;
 
-IV - preparar os arquivos e registros da Brinquedoteca; 
+X - registrar e cobrar itens emprestados para devolutiva e preservação.
 
-V - catalogar os materiais existentes na Brinquedoteca; 
+XI - Promover reuniões com os representantes das escolas ou entidades a serem atendidas com o objetivo de prestar esclarecimentos sobre o funcionamento da Brinquedoteca;
 
-VI - zelar pela limpeza e assepsia dos jogos e brinquedos; 
+XII - Cadastrar as escolas e entidades que se interessarem em freqüentar;
 
-VII - incentivar sempre o brincar e a apropriação dos conhecimentos; 
+XIII – Cumprir e fazer cumprir este Regulamento, estabelecendo normas de funcionamento do espaço, juntamente com a Coordenação do Curso de Licenciatura em Pedagogia;
 
-VIII - estabelecer regras e normas de funcionamento do espaço; 
+174
 
-IX - comunicar irregularidades à coordenação do curso; 
+Ministerio da Educacao
 
-X - registrar e cobrar itens emprestados para devolutiva e preservação. 
+## INSTITUTOFEDERAL Parana
 
-XI - Promover reuniões com os representantes das escolas ou entidades a serem atendidas com o objetivo de prestar esclarecimentos sobre o funcionamento da Brinquedoteca; 
+XIV - Promover oficinas para criação e confecção artesanal de brinquedos, jogos e materiais pedagógicos (acompanhados de manual) procurando envolver as crianças, suas famílias e demais membros da comunidade.
 
-XII - Cadastrar as escolas e entidades que se interessarem em freqüentar; 
+## CAPÍTULO VII
 
-XIII – Cumprir e fazer cumprir este Regulamento, estabelecendo normas de funcionamento do espaço, juntamente com a Coordenação do Curso de Licenciatura em Pedagogia; 
+## DAS REGRAS DA BRINQUEDOTECA
 
-174 
+Art. 18. São regras para o uso da Brinquedoteca:
 
-Ministerio da Educacao 
+I - seguir as orientações para o agendamento e utilização do ambiente definidos pela Coordenação do Curso de Licenciatura em Pedagogia do Campus Curitiba;
 
-## INSTITUTOFEDERAL Parana 
+II - manter o ambiente organizado;
 
-XIV - Promover oficinas para criação e confecção artesanal de brinquedos, jogos e materiais pedagógicos (acompanhados de manual) procurando envolver as crianças, suas famílias e demais membros da comunidade. 
+III - conservar os jogos, brinquedos, livros e demais materiais;
 
-## CAPÍTULO VII 
+IV - em caso de quebra ou avaria de materiais comunicar imediatamente ao responsável pela Brinquedoteca;
 
-## DAS REGRAS DA BRINQUEDOTECA 
+Art. 19. O(A) docente que utilizar a brinquedoteca deve estar ciente deste regulamento, sendo responsável em entregar o ambiente organizado.
 
-Art. 18. São regras para o uso da Brinquedoteca: 
+## CAPÍTULO VIII
 
-I - seguir as orientações para o agendamento e utilização do ambiente definidos pela Coordenação do Curso de Licenciatura em Pedagogia do Campus Curitiba; 
+## DA SEGURANÇA E ACESSIBILIDADE
 
-II - manter o ambiente organizado; 
+Art. 20. A Brinquedoteca deve seguir as normas de segurança previstas na Legislação vigente, oferecendo as seguintes condições:
 
-III - conservar os jogos, brinquedos, livros e demais materiais; 
+I - segurança do local e do material (espaço, brinquedos e móveis);
 
-IV - em caso de quebra ou avaria de materiais comunicar imediatamente ao responsável pela Brinquedoteca; 
+II - boas condições de iluminação e ventilação;
 
-Art. 19. O(A) docente que utilizar a brinquedoteca deve estar ciente deste regulamento, sendo responsável em entregar o ambiente organizado. 
+175
 
-## CAPÍTULO VIII 
+INSTITUTOFEDERAL Parana
 
-## DA SEGURANÇA E ACESSIBILIDADE 
+Ministerio da Educacao
 
-Art. 20. A Brinquedoteca deve seguir as normas de segurança previstas na Legislação vigente, oferecendo as seguintes condições: 
+III - higienização dos materiais e espaços periodicamente.
 
-I - segurança do local e do material (espaço, brinquedos e móveis); 
+Art. 21. O mobiliário e os materiais precisam ser acessíveis às crianças com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação, de modo a promover inclusão plena, conforme legislação vigente.
 
-II - boas condições de iluminação e ventilação; 
+## CAPÍTULO IX
 
-175 
+## DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
-INSTITUTOFEDERAL Parana 
+Art. 22. As alterações deste Regulamento serão realizadas pela Coordenação do Curso de Licenciatura de Pedagogia à medida que se fizer necessário.
 
-Ministerio da Educacao 
+Art 23. Os casos omissos neste Regulamento devem ser resolvidos pelo(a) Coordenador(a) do Curso de Licenciatura em Pedagogia.
 
-III - higienização dos materiais e espaços periodicamente. 
+Dê-se ciência,
 
-Art. 21. O mobiliário e os materiais precisam ser acessíveis às crianças com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação, de modo a promover inclusão plena, conforme legislação vigente. 
+Cumpra-se.
 
-## CAPÍTULO IX 
+Coordenação do curso de Licenciatura em Pedagogia
 
-## DISPOSIÇÕES GERAIS E TRANSITÓRIAS 
+176
 
-Art. 22. As alterações deste Regulamento serão realizadas pela Coordenação do Curso de Licenciatura de Pedagogia à medida que se fizer necessário. 
+Ministerio da Educacao
 
-Art 23. Os casos omissos neste Regulamento devem ser resolvidos pelo(a) Coordenador(a) do Curso de Licenciatura em Pedagogia. 
+## INSTITUTOFEDERAL Parana
 
-Dê-se ciência, 
+## **APÊNDICE E - NORMAS DE ESTÁGIO NÃO OBRIGATÓRIO**
 
-Cumpra-se. 
+A RESOLUÇÃO Nº 02 DE 26 DE MARÇO DE 2013 aprova o Regulamento de Estágios no âmbito do IFPR.
 
-Coordenação do curso de Licenciatura em Pedagogia 
+Resolução IFPR Campus Curitiba
 
-176 
+Trecho do:
 
-Ministerio da Educacao 
+## **REGULAMENTO GERAL DE ESTÁGIOS DO CAMPUS CURITIBA AUTORIZADO PELO PARECER CONSEPE Nº06/2021**
 
-## INSTITUTOFEDERAL Parana 
+Art. 4º Para realização de estágio não obrigatório, o estudante deverá:
 
-## **APÊNDICE E - NORMAS DE ESTÁGIO NÃO OBRIGATÓRIO** 
+I – verificar as oportunidades de estágio na região e as parcerias firmadas com o IFPR, em especial os agentes de integração;
 
-A RESOLUÇÃO Nº 02 DE 26 DE MARÇO DE 2013 aprova o Regulamento de Estágios no âmbito do IFPR. 
+II – buscar informações da coordenação de curso sobre as possibilidades de estágio, bem como com as principais correlações com o seu curso;
 
-Resolução IFPR Campus Curitiba 
+III – formalizar TCE/PE com a UCE, utilizando-se dos formulários próprios disponibilizados pela Saee/Proens e Serc, ou departamentos equivalentes.
 
-Trecho do: 
+§ 1º. O estágio não obrigatório é facultativo, entretanto, ao optar por realizá-lo, o estudante estará vinculado aos dispositivos da Resolução IFPR nº 36/2019 e às normas da UCE.
 
-## **REGULAMENTO GERAL DE ESTÁGIOS DO CAMPUS CURITIBA AUTORIZADO PELO PARECER CONSEPE Nº06/2021** 
+§ 2º O estudante poderá iniciar o estágio respeitando a idade mínima prevista no Artigo 54 da Resolução IFPR nº 36/2019 e, se houver, os pré-requisitos estabelecidos nos PPCs.
 
-Art. 4º Para realização de estágio não obrigatório, o estudante deverá: 
+Acesse o Regulamento completo em:
 
-I – verificar as oportunidades de estágio na região e as parcerias firmadas com o IFPR, em especial os agentes de integração; 
+- - https://reitoria.ifpr.edu.br/wp content/uploads/2021/03/03.2021 Curitiba.pdf
 
-II – buscar informações da coordenação de curso sobre as possibilidades de estágio, bem como com as principais correlações com o seu curso; 
-
-III – formalizar TCE/PE com a UCE, utilizando-se dos formulários próprios disponibilizados pela Saee/Proens e Serc, ou departamentos equivalentes. 
-
-§ 1º. O estágio não obrigatório é facultativo, entretanto, ao optar por realizá-lo, o estudante estará vinculado aos dispositivos da Resolução IFPR nº 36/2019 e às normas da UCE. 
-
-§ 2º O estudante poderá iniciar o estágio respeitando a idade mínima prevista no Artigo 54 da Resolução IFPR nº 36/2019 e, se houver, os pré-requisitos estabelecidos nos PPCs. 
-
-Acesse o Regulamento completo em: 
-
-- - https://reitoria.ifpr.edu.br/wp content/uploads/2021/03/03.2021 Curitiba.pdf 
-
-177 
+177
 

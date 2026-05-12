@@ -1,48 +1,48 @@
-INSTITUTOFEDERAL Parana 
+INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+Ministerio da Educacao
 
-**MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO SUPERIOR - SESU INSTITUTO FEDERAL DO PARANÁ PRÓ - REITORIA DE ENSINO DIRETORIA DE ENSINO SUPERIOR - DESUP CAMPUS CURITIBA** 
+**MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO SUPERIOR - SESU INSTITUTO FEDERAL DO PARANÁ PRÓ - REITORIA DE ENSINO DIRETORIA DE ENSINO SUPERIOR - DESUP CAMPUS CURITIBA**
 
-**PROJETO PEDAGÓGICO DO CURSO SUPERIOR DE TECNOLOGIA EM PROCESSOS GERENCIAIS** 
+**PROJETO PEDAGÓGICO DO CURSO SUPERIOR DE TECNOLOGIA EM PROCESSOS GERENCIAIS**
 
-**AUTORIZADO PELA RESOLUÇÃO XXXXX** 
+**AUTORIZADO PELA RESOLUÇÃO XXXXX**
 
-**CURITIBA 2018** 
+**CURITIBA 2018**
 
-## **INSTITUTO FEDERAL DO PARANÁ** 
+## **INSTITUTO FEDERAL DO PARANÁ**
 
-## **Reitor** 
+## **Reitor**
 
-Odacir AntonioZanatta 
+Odacir AntonioZanatta
 
-**Pró-Reitor de Ensino** Amarildo Pinheiro Magalhães 
+**Pró-Reitor de Ensino** Amarildo Pinheiro Magalhães
 
-**Diretor de Ensino Superior** Paulo Medeiros 
+**Diretor de Ensino Superior** Paulo Medeiros
 
-**Coordenadora de Ensino Superior** Luciana dos Santos Rosenau 
+**Coordenadora de Ensino Superior** Luciana dos Santos Rosenau
 
-**Direção Geral do Campus** Adriano Willian da Silva 
+**Direção Geral do Campus** Adriano Willian da Silva
 
-**Direção de Ensino, Pesquisa e Extensão do Campus** Sheila Cristiana de Freitas 
+**Direção de Ensino, Pesquisa e Extensão do Campus** Sheila Cristiana de Freitas
 
-## **Coordenador de Curso** 
+## **Coordenador de Curso**
 
-Adriano Stadler 
+Adriano Stadler
 
-**Núcleo Docente Estruturante** 
+**Núcleo Docente Estruturante**
 
-Adriano Fuzzaro Adriano Stadler Hellen Christina Gonçalves Janaína Seguin Leila Souza Thiago Guimarães 
+Adriano Fuzzaro Adriano Stadler Hellen Christina Gonçalves Janaína Seguin Leila Souza Thiago Guimarães
 
-## **Comissão de Estruturação de Curso** 
+## **Comissão de Estruturação de Curso**
 
-Adriano Stadler Aline Coleto Janaína Seguin Larissa Mellinger Leila Souza 
+Adriano Stadler Aline Coleto Janaína Seguin Larissa Mellinger Leila Souza
 
-## **Colegiado de Gestão Pedagógica de Curso** 
+## **Colegiado de Gestão Pedagógica de Curso**
 
-Adriano Fuzzaro Adriano Stadler Alexandre Fernandes Aline Cristina Coleto Hellen Christina Gonçalves Janaína Seguin Leila Souza Marcos Antonio Barbosa Marcos Rogério Maioli Priscila Duarte Thiago Guimarães 
+Adriano Fuzzaro Adriano Stadler Alexandre Fernandes Aline Cristina Coleto Hellen Christina Gonçalves Janaína Seguin Leila Souza Marcos Antonio Barbosa Marcos Rogério Maioli Priscila Duarte Thiago Guimarães
 
-1 
+1
 
 |**SUMÁRIO**||
 |---|---|
@@ -92,8 +92,6 @@ Adriano Fuzzaro Adriano Stadler Alexandre Fernandes Aline Cristina Coleto Hellen
 |2.9 ESTÁGIO CURRICULAR SUPERVISIONADO|56|
 |2.9.1 Convênios de Estágio|56|
 
-
-
 |2.10 TRABALHO DE CONCLUSÃO DE CURSO|57|
 |---|---|
 |2.11 ATIVIDADES COMPLEMENTARES|57|
@@ -139,61 +137,59 @@ Adriano Fuzzaro Adriano Stadler Alexandre Fernandes Aline Cristina Coleto Hellen
 |**SUPERIOR DE TECNOLOGIA EM PROCESSOS GERENCIAIS***|0|
 |ANEXOS|1|
 
+3
 
+## **IDENTIFICAÇÃO**
 
-3 
+## **Denominação do Curso:**
 
-## **IDENTIFICAÇÃO** 
+Curso Superior de Tecnologia em Processos Gerenciais
 
-## **Denominação do Curso:** 
+## **Área do Conhecimento / Eixo Tecnológico:**
 
-Curso Superior de Tecnologia em Processos Gerenciais 
+60200006 - Administração
 
-## **Área do Conhecimento / Eixo Tecnológico:** 
+**Modalidade:**
 
-60200006 - Administração 
+Presencial
 
-**Modalidade:** 
+## **Grau:**
 
-Presencial 
+Graduação Tecnológica
 
-## **Grau:** 
+## **Regime Letivo (Periodicidade):**
 
-Graduação Tecnológica 
+(_x_) Semestral
 
-## **Regime Letivo (Periodicidade):** 
+(__) Anual (__) Alternância / por etapas
 
-(_x_) Semestral 
+## **Turno do curso:**
 
-(__) Anual (__) Alternância / por etapas 
+(__) Matutino
 
-## **Turno do curso:** 
+(__) Vespertino (_x_) Noturno (__) Integral:________________________________________________
 
-(__) Matutino 
+## **Número de etapas anuais e duração média dos períodos letivos:**
 
-(__) Vespertino (_x_) Noturno (__) Integral:________________________________________________ 
+2 semestres anuais
 
-## **Número de etapas anuais e duração média dos períodos letivos:** 
+## **Horário de oferta do curso:**
 
-2 semestres anuais 
+19:00h – 22:40h
 
-## **Horário de oferta do curso:** 
+## **Prazo de Integralização Curricular:**
 
-19:00h – 22:40h 
+Mínimo 2 anos Máximo 3 anos* * conforme Resolução 55/2011 IFPR
 
-## **Prazo de Integralização Curricular:** 
+**Carga-Horário total do Curso:** 1602 horas relógio
 
-Mínimo 2 anos Máximo 3 anos* * conforme Resolução 55/2011 IFPR 
+**Tipo de Matrícula:** Semestral
 
-**Carga-Horário total do Curso:** 1602 horas relógio 
+4
 
-**Tipo de Matrícula:** Semestral 
+## **Vagas totais (anual):**
 
-4 
-
-## **Vagas totais (anual):** 
-
-40 vagas anuais Ressalta-se que a distribuição das vagas se dará conforme edital de Seleção do IFPR. A distribuição das 40 vagas pode ser observada por meio do quadro a seguir. 
+40 vagas anuais Ressalta-se que a distribuição das vagas se dará conforme edital de Seleção do IFPR. A distribuição das 40 vagas pode ser observada por meio do quadro a seguir.
 
 |**Porcentual de**<br>**Vagas**|**Categorias**|**Número de**<br>**vagas**|
 |---|---|---|
@@ -206,215 +202,213 @@ Mínimo 2 anos Máximo 3 anos* * conforme Resolução 55/2011 IFPR
 |**5%**|Deficientes|2|
 |**TOTAL**||40 vagas|
 
+## **Escolaridade mínima exigida:**
 
+Ensino Médio completo
 
-## **Escolaridade mínima exigida:** 
+**Coordenador:**
 
-Ensino Médio completo 
+Nome: Adriano Stadler Titulação Máxima: Doutor Regime de Trabalho:(_x_) DE.  (__) 40h.  (__) 20h.
 
-**Coordenador:** 
+**Endereço de Oferta** Campus Curitiba Rua: João Negrão, 1285 Bairro: Rebouças Cidade: Curitiba UF: PR CEP: 80.230-150
 
-Nome: Adriano Stadler Titulação Máxima: Doutor Regime de Trabalho:(_x_) DE.  (__) 40h.  (__) 20h. 
+5
 
-**Endereço de Oferta** Campus Curitiba Rua: João Negrão, 1285 Bairro: Rebouças Cidade: Curitiba UF: PR CEP: 80.230-150 
+## **1. APRESENTAÇÃO DO PROJETO**
 
-5 
+O presente projeto constitui o Plano do Curso de Tecnologia em Processos Gerenciais. O curso está inserido no eixo de Gestão e Negócios do Catálogo Nacional de Cursos de Tecnologia do Ministério da Educação.
 
-## **1. APRESENTAÇÃO DO PROJETO** 
+Este projeto foi confeccionado em consonância com as normas e princípios legais em educação vigentes no país, especialmente, a Lei de Diretrizes e Bases (Lei 9.394/96) e documentos institucionais do Instituto Federal do Paraná, tais como o Projeto Político Pedagógico, Regimento Geral e Plano de Desenvolvimento Institucional.
 
-O presente projeto constitui o Plano do Curso de Tecnologia em Processos Gerenciais. O curso está inserido no eixo de Gestão e Negócios do Catálogo Nacional de Cursos de Tecnologia do Ministério da Educação. 
+O presente Plano de Curso possui por objetivo definir a organização didática pedagógica do curso, identificar o corpo docente e técnico administrativo que irá atuar no curso, descrever a infraestrutura do Campus que está disponível para utilização pelo curso, bem como o planejamento econômico e financeiro necessário para a oferta do mesmo.
 
-Este projeto foi confeccionado em consonância com as normas e princípios legais em educação vigentes no país, especialmente, a Lei de Diretrizes e Bases (Lei 9.394/96) e documentos institucionais do Instituto Federal do Paraná, tais como o Projeto Político Pedagógico, Regimento Geral e Plano de Desenvolvimento Institucional. 
+A elaboração do projeto ocorre por meio de extensa pesquisa desempenhada pela Comissão de Estruturação do Curso que buscou dados acerca das necessidades da comunidade, bem como das possibilidades de oferta de um curso na modalidade Tecnológica que complemente e consolide o eixo de gestão e negócios da instituição. Referido levantamento, planejado e executado de forma colaborativa em reuniões periódicas da Comissão, tornou-se elemento imprescindível para que o Curso de Processos Gerenciais efetive a oferta à comunidade de um ensino de qualidade e expanda a verticalização do eixo de Gestão e Negócios.
 
-O presente Plano de Curso possui por objetivo definir a organização didática pedagógica do curso, identificar o corpo docente e técnico administrativo que irá atuar no curso, descrever a infraestrutura do Campus que está disponível para utilização pelo curso, bem como o planejamento econômico e financeiro necessário para a oferta do mesmo. 
+Neste sentido, a proposta do Curso Superior de Tecnologia em Processos Gerenciais está alinhada aos objetivos do PDI 2014-2018 do IFPR, o qual prevê o fortalecimento do eixo gestão e negócios, bem como a verticalização do ensino através da criação de cursos que permitam ao estudante a trajetória de aprendizado e desenolvimento profissional. Esta formação verticalizada foi proposta pelo colegiado de administração a partir da existência do Curso Técnico em Administração nas formas integrado ao ensino médio e subsequente. Também está relacionado ao curso de Especialização em Gestão e Negócios oferecido a partir de 2018 no Campus Curitiba, fazendo assim a ligação entre ensino técnico, superior e pós graduação nas áreas do eixo tecnológico de gestão e negócios.
 
-A elaboração do projeto ocorre por meio de extensa pesquisa desempenhada pela Comissão de Estruturação do Curso que buscou dados acerca das necessidades da comunidade, bem como das possibilidades de oferta de um curso na modalidade Tecnológica que complemente e consolide o eixo de gestão e negócios da instituição. Referido levantamento, planejado e executado de forma colaborativa em reuniões periódicas da Comissão, tornou-se elemento imprescindível para que o Curso de Processos Gerenciais efetive a oferta à comunidade de um ensino de qualidade e expanda a verticalização do eixo de Gestão e Negócios. 
+O curso visa capacitar pessoas para atuar na comunidade de Curitiba e regiões adjacentes com competências específicas em gestão empresarial, envolvendo finanças, marketing, logística, recursos humanos e tecnológicos, bem como preparando para atuar na condição de empreendedores, seja em instituições públicas, privadas ou de terceiro setor.
 
-Neste sentido, a proposta do Curso Superior de Tecnologia em Processos Gerenciais está alinhada aos objetivos do PDI 2014-2018 do IFPR, o qual prevê o fortalecimento do eixo gestão e negócios, bem como a verticalização do ensino através da criação de cursos que permitam ao estudante a trajetória de aprendizado e desenolvimento profissional. Esta formação verticalizada foi proposta pelo colegiado de administração a partir da existência do Curso Técnico em Administração nas formas integrado ao ensino médio e subsequente. Também está relacionado ao curso de Especialização em Gestão e Negócios oferecido a partir de 2018 no Campus Curitiba, fazendo assim a ligação entre ensino técnico, superior e pós graduação nas áreas do eixo tecnológico de gestão e negócios. 
+## 1.2. HISTÓRICO
 
-O curso visa capacitar pessoas para atuar na comunidade de Curitiba e regiões adjacentes com competências específicas em gestão empresarial, envolvendo finanças, marketing, logística, recursos humanos e tecnológicos, bem como preparando para atuar na condição de empreendedores, seja em instituições públicas, privadas ou de terceiro setor. 
+## **1.2.1 O Instituto Federal do Paraná**
 
-## 1.2. HISTÓRICO 
+O atual Instituto Federal do Paraná (IFPR) tem suas raízes em 1869 a partir da criação da Escola Técnica que pertencia à antiga Colônia Alemã de Curitiba, sendo seus fundadores Gottliebe Mueller e Augusto Gaertner, sócios da “VereinDeutcheSchule”. Até 1914 o estabelecimento chamou-se Escola Alemã, tendo nesta ocasião mudado sua denominação para Colégio Progresso. Em 1914, a então Academia Comercial Progresso foi adquirida pela Faculdade de Direito da Universidade do Paraná, conforme consta da ata da reunião da respectiva Congregação, realizada a 18 de dezembro daquele ano, e de acordo com escritura pública de incorporação, lavrada a 20 do mês de abril de 1942, no Cartório do 1º Tabelionato desta Capital, às folhas 11 e 12 do livro nº 291, sendo autorizada a funcionar sob a denominação de Escola Técnica de Comércio anexa à Faculdade de Direito da Universidade do Paraná, por ato do Ministério da Educação e Cultura, datado de 27 de fevereiro de 1942. Com a federalização da Universidade do Paraná pela Lei nº 1.254, de 04 de dezembro de 1950, continuou a Escola a ser mantida pela Faculdade de Direito, consoante o artigo 15 da aludida lei. Por decisão do Conselho Universitário, proferida em 22 de janeiro de 1974, a Escola foi integrada à Universidade Federal do Paraná, como órgão suplementar, sob a denominação de Escola Técnica de Comércio da Universidade Federal do Paraná.
 
-## **1.2.1 O Instituto Federal do Paraná** 
+A Escola Técnica de Comércio, voltada aos objetivos da Lei nº 5.692/71, é autorizada a ofertar os cursos Técnicos em Contabilidade e Secretariado, e outros cursos de formação profissional, além de aperfeiçoamento adequado ao aprimoramento de conhecimentos e capacitação técnica de egressos de seus cursos, realizando um trabalho educativo com qualidade e eficiência.
 
-O atual Instituto Federal do Paraná (IFPR) tem suas raízes em 1869 a partir da criação da Escola Técnica que pertencia à antiga Colônia Alemã de Curitiba, sendo seus fundadores Gottliebe Mueller e Augusto Gaertner, sócios da “VereinDeutcheSchule”. Até 1914 o estabelecimento chamou-se Escola Alemã, tendo nesta ocasião mudado sua denominação para Colégio Progresso. Em 1914, a então Academia Comercial Progresso foi adquirida pela Faculdade de Direito da Universidade do Paraná, conforme consta da ata da reunião da respectiva Congregação, realizada a 18 de dezembro daquele ano, e de acordo com escritura pública de incorporação, lavrada a 20 do mês de abril de 1942, no Cartório do 1º Tabelionato desta Capital, às folhas 11 e 12 do livro nº 291, sendo autorizada a funcionar sob a denominação de Escola Técnica de Comércio anexa à Faculdade de Direito da Universidade do Paraná, por ato do Ministério da Educação e Cultura, datado de 27 de fevereiro de 1942. Com a federalização da Universidade do Paraná pela Lei nº 1.254, de 04 de dezembro de 1950, continuou a Escola a ser mantida pela Faculdade de Direito, consoante o artigo 15 da aludida lei. Por decisão do Conselho Universitário, proferida em 22 de janeiro de 1974, a Escola foi integrada à Universidade Federal do Paraná, como órgão suplementar, sob a denominação de Escola Técnica de Comércio da Universidade Federal do Paraná. 
+A partir de 14 de dezembro 1990, ao aprovar a reorganização administrativa da Universidade Federal, o Conselho Universitário alterou sua denominação para Escola Técnica da Universidade Federal do Paraná. No ano letivo de 1991 a escola passa a ofertar os seguintes cursos: Técnico em Enfermagem, Técnico em Higiene Dental, Técnico em Prótese Dentária e Técnico em Processamento de Dados, além do tradicional Curso Técnico em Contabilidade, passando a especializar-se em cursos do Setor Serviços. Ainda na década de 90 são implantados os cursos: Técnico em Administração de Empresas, Técnico em Artes Cênicas, Técnico em Radiologia Médica e Técnico em Transações Imobiliárias.
 
-A Escola Técnica de Comércio, voltada aos objetivos da Lei nº 5.692/71, é autorizada a ofertar os cursos Técnicos em Contabilidade e Secretariado, e outros cursos de formação profissional, além de aperfeiçoamento adequado ao aprimoramento de conhecimentos e capacitação técnica de egressos de seus cursos, realizando um trabalho educativo com qualidade e eficiência. 
+Com a promulgação da Lei nº 9.394/96 e do Decreto 2.208/97 a Escola passa a adaptar-se a nova situação da Reforma da Educação Profissional, reestruturando seus cursos e implantando o Curso Tecnologia em Informática.
 
-A partir de 14 de dezembro 1990, ao aprovar a reorganização administrativa da Universidade Federal, o Conselho Universitário alterou sua denominação para Escola Técnica da Universidade Federal do Paraná. No ano letivo de 1991 a escola passa a ofertar os seguintes cursos: Técnico em Enfermagem, Técnico em Higiene Dental, Técnico em Prótese Dentária e Técnico em Processamento de Dados, além do tradicional Curso Técnico em Contabilidade, passando a especializar-se em cursos do Setor Serviços. Ainda na década de 90 são implantados os cursos: Técnico em Administração de Empresas, Técnico em Artes Cênicas, Técnico em Radiologia Médica e Técnico em Transações Imobiliárias. 
+No período de 2002-2005 a Escola passa a atender as demandas de profissionalização de Instituições e da Sociedade Civil organizada, implantando cursos nas seguintes áreas profissionais:
 
-Com a promulgação da Lei nº 9.394/96 e do Decreto 2.208/97 a Escola passa a adaptar-se a nova situação da Reforma da Educação Profissional, reestruturando seus cursos e implantando o Curso Tecnologia em Informática. 
+7
 
-No período de 2002-2005 a Escola passa a atender as demandas de profissionalização de Instituições e da Sociedade Civil organizada, implantando cursos nas seguintes áreas profissionais: 
+indústria, agropecuária, turismo e hospitalidade. Além de atuar em novas áreas profissionais a escola amplia o número de cursos nas áreas profissionais de artes, gestão e saúde.
 
-7 
+Levando em consideração que um expressivo número de paranaenses tem dificuldade de acesso à escola pública de qualidade, a partir do ano de 2002 a Escola inicia um processo de descentralização curricular de seus cursos presencias e implanta cursos na Modalidade de Educação à Distância na área de Gestão. Com o intuito de assegurar a Política Afirmativa da Universidade Federal do Paraná, no ano de 2005 é implantado o Sistema de Cotas Social e Racial, com 20% das vagas para cada cota, num prazo de 10 (dez) anos. No decorrer destes 10 anos a Universidade Federal do Paraná esteve atuando nas Escolas Públicas com cursos de capacitação com a finalidade de melhorar a qualidade do ensino nas escolas pública.
 
-indústria, agropecuária, turismo e hospitalidade. Além de atuar em novas áreas profissionais a escola amplia o número de cursos nas áreas profissionais de artes, gestão e saúde. 
+Com a Lei 11.892 do dia 29 de dezembro de 2008, cria-se o Instituto Federal do Paraná, com a transformação da Escola Técnica vinculada a Universidade Federal do Paraná.
 
-Levando em consideração que um expressivo número de paranaenses tem dificuldade de acesso à escola pública de qualidade, a partir do ano de 2002 a Escola inicia um processo de descentralização curricular de seus cursos presencias e implanta cursos na Modalidade de Educação à Distância na área de Gestão. Com o intuito de assegurar a Política Afirmativa da Universidade Federal do Paraná, no ano de 2005 é implantado o Sistema de Cotas Social e Racial, com 20% das vagas para cada cota, num prazo de 10 (dez) anos. No decorrer destes 10 anos a Universidade Federal do Paraná esteve atuando nas Escolas Públicas com cursos de capacitação com a finalidade de melhorar a qualidade do ensino nas escolas pública. 
+Os Institutos Federais de Educação, Ciência e Tecnologia são instituições de educação superior, básica e profissional, pluricurriculares e _multicampi_ , especializados na oferta de educação profissional e tecnológica nas diferentes modalidades de ensino, com base na conjugação de conhecimentos técnicos e tecnológicos às suas práticas pedagógicas. Os IF's compõem a Rede Federal de Educação Profissional e Tecnológica.
 
-Com a Lei 11.892 do dia 29 de dezembro de 2008, cria-se o Instituto Federal do Paraná, com a transformação da Escola Técnica vinculada a Universidade Federal do Paraná. 
+Os institutos devem ter forte inserção na área de pesquisa e extensão, visando estimular o desenvolvimento de soluções técnicas e tecnológicas e estendendo seus benefícios à comunidade. Metade das vagas é destinada à oferta de cursos técnicos de nível médio, em especial cursos de currículo integrado.
 
-Os Institutos Federais de Educação, Ciência e Tecnologia são instituições de educação superior, básica e profissional, pluricurriculares e _multicampi_ , especializados na oferta de educação profissional e tecnológica nas diferentes modalidades de ensino, com base na conjugação de conhecimentos técnicos e tecnológicos às suas práticas pedagógicas. Os IF's compõem a Rede Federal de Educação Profissional e Tecnológica. 
+Na educação superior, o destaque fica para os cursos de engenharias e de licenciaturas em ciências física, química, matemática e biologia. Ainda são incentivadas as licenciaturas de conteúdos específicos da educação profissional e tecnológica, como a formação de professores de mecânica, eletricidade e informática.
 
-Os institutos devem ter forte inserção na área de pesquisa e extensão, visando estimular o desenvolvimento de soluções técnicas e tecnológicas e estendendo seus benefícios à comunidade. Metade das vagas é destinada à oferta de cursos técnicos de nível médio, em especial cursos de currículo integrado. 
+Os Institutos Federais têm autonomia, nos limites de sua área de atuação territorial, para criar e extinguir cursos, bem como para registrar diplomas dos cursos por ele oferecidos, mediante autorização do seu Conselho Superior. Ainda exercem o papel de instituições acreditadoras e certificadoras de competências profissionais. Cada Instituto Federal é organizado em estrutura com vários _campi_ , com proposta orçamentária anual identificada para cada _campus_ e reitoria, equiparando-se com as universidades federais.
 
-Na educação superior, o destaque fica para os cursos de engenharias e de licenciaturas em ciências física, química, matemática e biologia. Ainda são incentivadas as licenciaturas de conteúdos específicos da educação profissional e tecnológica, como a formação de professores de mecânica, eletricidade e informática. 
+O Instituto Federal de Educação, Ciência e Tecnologia do Paraná criado mediante transformação da Escola Técnica da Universidade Federal do Paraná, tem a sua Reitoria instalada em Curitiba, com _campi_ em Curitiba, Paranaguá, Umuarama, Paranavaí, Telêmaco Borba, Jacarezinho, Londrina, Foz do
 
-Os Institutos Federais têm autonomia, nos limites de sua área de atuação territorial, para criar e extinguir cursos, bem como para registrar diplomas dos cursos por ele oferecidos, mediante autorização do seu Conselho Superior. Ainda exercem o papel de instituições acreditadoras e certificadoras de competências profissionais. Cada Instituto Federal é organizado em estrutura com vários _campi_ , com proposta orçamentária anual identificada para cada _campus_ e reitoria, equiparando-se com as universidades federais. 
+8
 
-O Instituto Federal de Educação, Ciência e Tecnologia do Paraná criado mediante transformação da Escola Técnica da Universidade Federal do Paraná, tem a sua Reitoria instalada em Curitiba, com _campi_ em Curitiba, Paranaguá, Umuarama, Paranavaí, Telêmaco Borba, Jacarezinho, Londrina, Foz do 
+Iguaçu, Irati, Barracão, Jaguariaíva, Pitanga, Cascavel, União da Vitória, Pinhais, Colombo, Campo Largo, Palmas, Assis Chateaubriand, Astorga, Coronel Vivida, Goioerê, Ivaiporã e Quedas do Iguaçú.
 
-8 
+O Instituto Federal do Paraná desenvolve as seguintes atividades educacionais:
 
-Iguaçu, Irati, Barracão, Jaguariaíva, Pitanga, Cascavel, União da Vitória, Pinhais, Colombo, Campo Largo, Palmas, Assis Chateaubriand, Astorga, Coronel Vivida, Goioerê, Ivaiporã e Quedas do Iguaçú. 
+- Oferta de educação profissional, levando em conta o avanço do conhecimento tecnológico e a incorporação crescente de novos métodos e processo de produção e distribuição de bens e serviços;
 
-O Instituto Federal do Paraná desenvolve as seguintes atividades educacionais: 
+- Atuação prioritária em cursos técnicos, de tecnologia, iniciação profissional e formação continuada de trabalhadores nos diversos setores da economia;
 
-- Oferta de educação profissional, levando em conta o avanço do conhecimento tecnológico e a incorporação crescente de novos métodos e processo de produção e distribuição de bens e serviços; 
+- Oferta de ensino médio;
 
-- Atuação prioritária em cursos técnicos, de tecnologia, iniciação profissional e formação continuada de trabalhadores nos diversos setores da economia; 
+- Oferta de educação profissional, levando em consideração as tendências do setor produtivo e do desenvolvimento tecnológico;
 
-- Oferta de ensino médio; 
+- Realização de pesquisas aplicadas;
 
-- Oferta de educação profissional, levando em consideração as tendências do setor produtivo e do desenvolvimento tecnológico; 
+- Integração das ações educacionais com as expectativas da sociedade e as tendências do mundo do trabalho;
 
-- Realização de pesquisas aplicadas; 
+- Promoção da transição entre a escola e o mundo do trabalho, capacitando jovens e adultos com conhecimentos gerais e específicos necessários ao exercício de atividades produtivas;
 
-- Integração das ações educacionais com as expectativas da sociedade e as tendências do mundo do trabalho; 
+- Especialização, aperfeiçoamento e atualização de trabalhadores em seus conhecimentos científicos e tecnológico;
 
-- Promoção da transição entre a escola e o mundo do trabalho, capacitando jovens e adultos com conhecimentos gerais e específicos necessários ao exercício de atividades produtivas; 
+- Qualificação e atualização de jovens e adultos, independente do nível de escolaridade, visando a sua inserção e melhor desempenho no mercado de trabalho.
 
-- Especialização, aperfeiçoamento e atualização de trabalhadores em seus conhecimentos científicos e tecnológico; 
+   - O Instituto atua nas seguintes áreas:
 
-- Qualificação e atualização de jovens e adultos, independente do nível de escolaridade, visando a sua inserção e melhor desempenho no mercado de trabalho. 
+- Agropecuária
 
-   - O Instituto atua nas seguintes áreas: 
+- Artes
 
-- Agropecuária 
+- Comércio
 
-- Artes 
+- Gestão
 
-- Comércio 
+- Indústria
 
-- Gestão 
+- Informática
 
-- Indústria 
+- Meio Ambiente
 
-- Informática 
+- Saúde
 
-- Meio Ambiente 
+- Turismo e Hospitalidade
 
-- Saúde 
+9
 
-- Turismo e Hospitalidade 
+## **1.2.2 O Curso Superior de Tecnologia em Processos Gerenciais**
 
-9 
+No dia 13 de novembro de 2009 o tecnólogo em processos gerenciais foi reconhecido como profissional apto para gerir empresas pelo Conselho Federal de Administração, Resolução Normativa nº 373, de 12/11/09, e a Resolução Normativa nº 374, de 12/11/09.
 
-## **1.2.2 O Curso Superior de Tecnologia em Processos Gerenciais** 
+O Campus Curitiba é o Campus sede do Instituto Federal do Paraná (IFPR), instituição pública federal de ensino vinculada ao Ministério da Educação (MEC) por meio da Secretaria de Educação Profissional e Tecnológica (SETEC).
 
-No dia 13 de novembro de 2009 o tecnólogo em processos gerenciais foi reconhecido como profissional apto para gerir empresas pelo Conselho Federal de Administração, Resolução Normativa nº 373, de 12/11/09, e a Resolução Normativa nº 374, de 12/11/09. 
+O Campus Curitiba, em conformidade com os dispositivos legais de criação dos Institutos Federais cumpre o seu papel de ofertar de forma gratuita educação profissional e tecnológica nas diferentes modalidades e níveis de ensino.
 
-O Campus Curitiba é o Campus sede do Instituto Federal do Paraná (IFPR), instituição pública federal de ensino vinculada ao Ministério da Educação (MEC) por meio da Secretaria de Educação Profissional e Tecnológica (SETEC). 
+O Campus Curitiba é o Campus sede do IFPR, localizado na capital do Estado do Paraná e, atualmente, possui 202 docentes, 78 técnicos, 2.600 alunos presenciais e 160 alunos na modalidade EAD. O Campus oferta atualmente 08 Cursos Técnicos Integrados, 16 Cursos Técnicos Subsequentes, 03 Cursos Superiores e 06 de Pós-Graduação e 05 cursos técnicos subsequentes na modalidade EAD.
 
-O Campus Curitiba, em conformidade com os dispositivos legais de criação dos Institutos Federais cumpre o seu papel de ofertar de forma gratuita educação profissional e tecnológica nas diferentes modalidades e níveis de ensino. 
+## **1.2.3 Missão, Visão e Valores**
 
-O Campus Curitiba é o Campus sede do IFPR, localizado na capital do Estado do Paraná e, atualmente, possui 202 docentes, 78 técnicos, 2.600 alunos presenciais e 160 alunos na modalidade EAD. O Campus oferta atualmente 08 Cursos Técnicos Integrados, 16 Cursos Técnicos Subsequentes, 03 Cursos Superiores e 06 de Pós-Graduação e 05 cursos técnicos subsequentes na modalidade EAD. 
+O Curso Superior de Tecnologia em Processos Gerais possui como missão desenvolver no aluno, por meio de uma visão sistêmica dos negócios e com base nos principais conceitos de gestão, as competências necessárias visando a formação de um profissional competente, crítico, ético e empreendedor que respeite a sustentabilidade econômica, social e ambiental.
 
-## **1.2.3 Missão, Visão e Valores** 
+O projeto do Curso Superior de Tecnologia em Processos Gerenciais está diretamente ligado à missão e visão institucionais, pois visa a formação profissional, articulando ensino, pesquisa e extensão. Elementos presentes na **missão** como cidadania, empreendedorismo e sustentabilidade estão contemplados no curso como componente curricular, e por meio de atividades interdisciplinares.
 
-O Curso Superior de Tecnologia em Processos Gerais possui como missão desenvolver no aluno, por meio de uma visão sistêmica dos negócios e com base nos principais conceitos de gestão, as competências necessárias visando a formação de um profissional competente, crítico, ético e empreendedor que respeite a sustentabilidade econômica, social e ambiental. 
+A **visão** é contemplada a partir do compromisso do colegiado do curso com a transformação social a partir da formação de gestores capazes de atuar em suas comunidades, articulando recursos de forma a gerar empregos, melhorando assim as condições sociais e econômicas daquelas famílias que estarão diretamente ligadas aos negócios que os egressos do CST em Processos Gerenciais irão atuar.
 
-O projeto do Curso Superior de Tecnologia em Processos Gerenciais está diretamente ligado à missão e visão institucionais, pois visa a formação profissional, articulando ensino, pesquisa e extensão. Elementos presentes na **missão** como cidadania, empreendedorismo e sustentabilidade estão contemplados no curso como componente curricular, e por meio de atividades interdisciplinares. 
+Aliado a isso, os **valores** do Curso Superior de Tecnologia em Processos Gerencias, do Campus Curitiba do IFPR estão atrelados aos componentes curriculares, atividades de pesquisa e extensão, bem como através do caráter e exemplo de cada um dos docentes que fazem parte do colegiado, os quais visam
 
-A **visão** é contemplada a partir do compromisso do colegiado do curso com a transformação social a partir da formação de gestores capazes de atuar em suas comunidades, articulando recursos de forma a gerar empregos, melhorando assim as condições sociais e econômicas daquelas famílias que estarão diretamente ligadas aos negócios que os egressos do CST em Processos Gerenciais irão atuar. 
+10
 
-Aliado a isso, os **valores** do Curso Superior de Tecnologia em Processos Gerencias, do Campus Curitiba do IFPR estão atrelados aos componentes curriculares, atividades de pesquisa e extensão, bem como através do caráter e exemplo de cada um dos docentes que fazem parte do colegiado, os quais visam 
+promover além da melhoria na gestão das organizações, a construção de uma sociedade mais humana, justa, tolerante e focada na transformação social.
 
-10 
+Os valores que pautam a criação do CST em Processos Gerenciais estão alicerçados no que está descrito no PDI 2014-2018, que são:
 
-promover além da melhoria na gestão das organizações, a construção de uma sociedade mais humana, justa, tolerante e focada na transformação social. 
+- Educação de qualidade e excelência
 
-Os valores que pautam a criação do CST em Processos Gerenciais estão alicerçados no que está descrito no PDI 2014-2018, que são: 
+- Eficiência e eficácia
 
-- Educação de qualidade e excelência 
+- Ética
 
-- Eficiência e eficácia 
+- Pessoas
 
-- Ética 
+- Sustentabilidade
 
-- Pessoas 
+- Visão sistêmica
 
-- Sustentabilidade 
+- Qualidade de vida
 
-- Visão sistêmica 
+- Diversidade humana e cultural
 
-- Qualidade de vida 
+- Inclusão social
 
-- Diversidade humana e cultural 
+- Empreendedorismo e inovação
 
-- Inclusão social 
+- Respeito às características regionais
 
-- Empreendedorismo e inovação 
+- Democracia e transparência
 
-- Respeito às características regionais 
+Portanto, a missão, visão e valores do curso em questão estão em conformidade com a identidade institucional, fazendo com que este projeto possa contribuir para os rumos do IFPR na sociedade.
 
-- Democracia e transparência 
+## **2. ORGANIZAÇÃO DIDÁTICO-PEDAGÓGICA**
 
-Portanto, a missão, visão e valores do curso em questão estão em conformidade com a identidade institucional, fazendo com que este projeto possa contribuir para os rumos do IFPR na sociedade. 
+A Organização Didático-Pedagógica do curso superior em questão está em consonância com a Lei de Diretrizes e Bases da Educação Nacional/LDB – Lei nº. 9.394, de 20 de dezembro de 1996 –, com os Pareceres promulgados pelo Conselho Nacional da Educação - CNE, com as Diretrizes Curriculares Nacionais do Ensino Superior, com o Estatuto do Instituto Federal do Paraná, com o Plano de Desenvolvimento Institucional/PDI da Instituição, e com a Resolução n°55/11 que rege todos os procedimentos didático-pedagógico-administrativos dos Cursos de Ensino Superior do Instituto Federal do Paraná/IFPR.
 
-## **2. ORGANIZAÇÃO DIDÁTICO-PEDAGÓGICA** 
+A organização didático-pedagógica do Curso Superior Processos Gerenciais é ofertado como Educação Profissional Tecnológica de Graduação, organizado na forma presencial e está em consonância com os objetivos da Resolução n°55/11, com a formação do estudante de forma ética, responsável, autônoma e criativa, capaz de tomar decisões na busca de soluções para os problemas relacionados com o desenvolvimento social, técnico, econômico e cultural do país.
 
-A Organização Didático-Pedagógica do curso superior em questão está em consonância com a Lei de Diretrizes e Bases da Educação Nacional/LDB – Lei nº. 9.394, de 20 de dezembro de 1996 –, com os Pareceres promulgados pelo Conselho Nacional da Educação - CNE, com as Diretrizes Curriculares Nacionais do Ensino Superior, com o Estatuto do Instituto Federal do Paraná, com o Plano de Desenvolvimento Institucional/PDI da Instituição, e com a Resolução n°55/11 que rege todos os procedimentos didático-pedagógico-administrativos dos Cursos de Ensino Superior do Instituto Federal do Paraná/IFPR. 
+11
 
-A organização didático-pedagógica do Curso Superior Processos Gerenciais é ofertado como Educação Profissional Tecnológica de Graduação, organizado na forma presencial e está em consonância com os objetivos da Resolução n°55/11, com a formação do estudante de forma ética, responsável, autônoma e criativa, capaz de tomar decisões na busca de soluções para os problemas relacionados com o desenvolvimento social, técnico, econômico e cultural do país. 
+Especificamente, os Cursos Superiores de Tecnologia têm por objetivo formar profissionais aptos a desenvolver atividades em determinado Eixo Tecnológico, utilizando, desenvolvendo e adaptando tecnologias com a compreensão crítica das implicações decorrentes e das suas relações com o processo produtivo, com o ambiente e com a sociedade (Resolução n°55/11 – IFPR).
 
-11 
+O Curso Superior de Tecnologia em Processos Gerenciais do campus Curitiba – IFPR está estruturado por componentes curriculares agrupados em 4 períodos (módulos). Esta organização curricular proporciona a articulação entre a formação teórica e prática, de modo a contribuir para a formação integral do educando como profissional responsável e competente e como cidadão atuante, consciente, criativo. Todo este arcabouço contempla as Diretrizes Curriculares Nacionais, que perpassa pela integração entre educação, trabalho, ciência, tecnologia e cultura; integração de conhecimentos gerais e profissionais; indissociabilidade entre educação e prática social, teoria e prática; reconhecimento da diversidade dos sujeitos, das diversidades étnico-raciais, de gênero, sexuais, geracionais, regionais, culturais; entre outros pressupostos norteadores da Educação Superior.
 
-Especificamente, os Cursos Superiores de Tecnologia têm por objetivo formar profissionais aptos a desenvolver atividades em determinado Eixo Tecnológico, utilizando, desenvolvendo e adaptando tecnologias com a compreensão crítica das implicações decorrentes e das suas relações com o processo produtivo, com o ambiente e com a sociedade (Resolução n°55/11 – IFPR). 
+## 2.1 JUSTIFICATIVA
 
-O Curso Superior de Tecnologia em Processos Gerenciais do campus Curitiba – IFPR está estruturado por componentes curriculares agrupados em 4 períodos (módulos). Esta organização curricular proporciona a articulação entre a formação teórica e prática, de modo a contribuir para a formação integral do educando como profissional responsável e competente e como cidadão atuante, consciente, criativo. Todo este arcabouço contempla as Diretrizes Curriculares Nacionais, que perpassa pela integração entre educação, trabalho, ciência, tecnologia e cultura; integração de conhecimentos gerais e profissionais; indissociabilidade entre educação e prática social, teoria e prática; reconhecimento da diversidade dos sujeitos, das diversidades étnico-raciais, de gênero, sexuais, geracionais, regionais, culturais; entre outros pressupostos norteadores da Educação Superior. 
+A oferta do presente Curso Superior de Tecnologia em Processos Gerenciais se justifica pela necessidade de formação continuada para os profissionais que buscam aperfeiçoamento nas questões referentes à gestão de empresas.
 
-## 2.1 JUSTIFICATIVA 
+Esta formação continuada tem como objetivo o aprimoramento da qualidade dos recursos humanos que estão à disposição da sociedade e das organizações nos mais diversos setores da economia.
 
-A oferta do presente Curso Superior de Tecnologia em Processos Gerenciais se justifica pela necessidade de formação continuada para os profissionais que buscam aperfeiçoamento nas questões referentes à gestão de empresas. 
+A formação superior é demandada por estes profissionais em decorrência das exigências do mercado e da competitividade dos setores, onde as habilidades gerenciais precisam ser desenvolvidas nas pessoas para o eficaz planejamento e gestão das organizações.
 
-Esta formação continuada tem como objetivo o aprimoramento da qualidade dos recursos humanos que estão à disposição da sociedade e das organizações nos mais diversos setores da economia. 
+Espera-se que os alunos tecnólogo em Processos Gerenciais contribuam significativamente para o desenvolvimento da sua comunidade, atuando de forma a maximizar os recursos organizacionais, empregando da maneira mais eficaz estes recursos e esforços visando a o desenvolvimento econômico e social.
 
-A formação superior é demandada por estes profissionais em decorrência das exigências do mercado e da competitividade dos setores, onde as habilidades gerenciais precisam ser desenvolvidas nas pessoas para o eficaz planejamento e gestão das organizações. 
+O curso Superior de Tecnologia em Processos Gerenciais tem como objetivo proporcionar o conhecimento sobre ferramentas de gestão empresarial, apresentando a realidade das organizações por meio de discussões, exercícios, visitas técnicas, estudos de caso, apresentação de seminários e palestras, os quais visam aproximar o estudante da realidade da gestão das organizações. Assim, os principais objetivos do curso são:
 
-Espera-se que os alunos tecnólogo em Processos Gerenciais contribuam significativamente para o desenvolvimento da sua comunidade, atuando de forma a maximizar os recursos organizacionais, empregando da maneira mais eficaz estes recursos e esforços visando a o desenvolvimento econômico e social. 
+12
 
-O curso Superior de Tecnologia em Processos Gerenciais tem como objetivo proporcionar o conhecimento sobre ferramentas de gestão empresarial, apresentando a realidade das organizações por meio de discussões, exercícios, visitas técnicas, estudos de caso, apresentação de seminários e palestras, os quais visam aproximar o estudante da realidade da gestão das organizações. Assim, os principais objetivos do curso são: 
+- Capacitar os alunos para o raciocínio crítico e analítico sobre a gestão de empresas e a aplicabilidade dos conceitos adquiridos ao longo do curso;
 
-12 
+- Desenvolver habilidades técnicas e humanas que permitam ampliar sua capacidade profissional;
 
-- Capacitar os alunos para o raciocínio crítico e analítico sobre a gestão de empresas e a aplicabilidade dos conceitos adquiridos ao longo do curso; 
+- Desenvolver competência técnica para o gerenciamento empresarial com ênfase em marketing, finanças, recursos humanos, operações, empreendedorismo e logística.
 
-- Desenvolver habilidades técnicas e humanas que permitam ampliar sua capacidade profissional; 
+A cidade de Curitiba possui população estimada de 1.908.359 habitantes, e sua região metropolitana, que compreende 29 municípios, compreende 3.395.956 habitantes  o que representa 46,85% da população total estimada do Estado do Paraná (IBGE, 2017).
 
-- Desenvolver competência técnica para o gerenciamento empresarial com ênfase em marketing, finanças, recursos humanos, operações, empreendedorismo e logística. 
+Nos anos de 1970, a capital do Estado teve um desenvolvimento bastante acelerado, muito em função da criação de seu distrito industrial - a Cidade Industrial de Curitiba – que atualmente conta com mais de 2.000 indústrias (SMF, 2011). Essa expansão econômica de Curitiba, passou a atrair a atenção das pessoas que passaram a buscar a cidade como fonte de recursos financeiros e um modo de concretizar seus sonhos pessoais.
 
-A cidade de Curitiba possui população estimada de 1.908.359 habitantes, e sua região metropolitana, que compreende 29 municípios, compreende 3.395.956 habitantes  o que representa 46,85% da população total estimada do Estado do Paraná (IBGE, 2017). 
+Os 30 anos seguintes foram marcados por um fluxo migratório intenso para a capital, que chegou a ter menos de 50% de seus habitantes composta por naturais do município.
 
-Nos anos de 1970, a capital do Estado teve um desenvolvimento bastante acelerado, muito em função da criação de seu distrito industrial - a Cidade Industrial de Curitiba – que atualmente conta com mais de 2.000 indústrias (SMF, 2011). Essa expansão econômica de Curitiba, passou a atrair a atenção das pessoas que passaram a buscar a cidade como fonte de recursos financeiros e um modo de concretizar seus sonhos pessoais. 
+A construção da imagem de Curitiba como uma “cidade modelo” se deu em função de diversos atributos que a colocaram em destaque no cenário nacional. A cidade conta com um transporte público de referência no país e no exterior, com vias exclusivas para transporte coletivo de grande fluxo, rede de transporte coletivo integrada em terminais municipais e intermunicipais e o uso dos primeiros ônibus que utilizam combustível alternativo ao petróleo, bem como motorização híbrida para diminuir a emissão de gases poluentes.
 
-Os 30 anos seguintes foram marcados por um fluxo migratório intenso para a capital, que chegou a ter menos de 50% de seus habitantes composta por naturais do município. 
+O título de “cidade verde” não veio por acaso. Ao longo dos últimos 40 anos, políticas públicas vêm sendo pensadas para que a cidade seja mais sustentável e a grande preocupação com o meio-ambiente é uma das estratégias que reforçam esta imagem. Considerada como uma das dez cidades mais sustentáveis do mundo, ao lado de Estocolmo, Copenhagen, Vancouver e Portland, Curitiba tem quase 65m² de área verde por habitante, o dobro do considerado ideal pela Organização das Nãçoes Unidas (ONU), e tem a melhor qualidade do ar do país dentre as grandes cidades, segundo a Organização Mundial da Saúde (OMS). Ao mesmo tempo, Curitiba vem trabalhando com a população, desde meados da década de 1990, a separação do lixo, hábito já integrado no dia-a-dia de seus moradores.
 
-A construção da imagem de Curitiba como uma “cidade modelo” se deu em função de diversos atributos que a colocaram em destaque no cenário nacional. A cidade conta com um transporte público de referência no país e no exterior, com vias exclusivas para transporte coletivo de grande fluxo, rede de transporte coletivo integrada em terminais municipais e intermunicipais e o uso dos primeiros ônibus que utilizam combustível alternativo ao petróleo, bem como motorização híbrida para diminuir a emissão de gases poluentes. 
+A partir daí o clima mais frio, com um inverno considerdo rigoroso para os padrões nacionais, a organização, limpeza, a percepção de amplo desenvolvimento econômico e a grande diversidade de grupos imigrantes que ajudaram a cunhar a cultura local (composta por italianos, poloneses, ucranianos, japoneses, espanhóis, dentre outros) reforçam a imagem de que a cidade possui contornos europeus.
 
-O título de “cidade verde” não veio por acaso. Ao longo dos últimos 40 anos, políticas públicas vêm sendo pensadas para que a cidade seja mais sustentável e a grande preocupação com o meio-ambiente é uma das estratégias que reforçam esta imagem. Considerada como uma das dez cidades mais sustentáveis do mundo, ao lado de Estocolmo, Copenhagen, Vancouver e Portland, Curitiba tem quase 65m² de área verde por habitante, o dobro do considerado ideal pela Organização das Nãçoes Unidas (ONU), e tem a melhor qualidade do ar do país dentre as grandes cidades, segundo a Organização Mundial da Saúde (OMS). Ao mesmo tempo, Curitiba vem trabalhando com a população, desde meados da década de 1990, a separação do lixo, hábito já integrado no dia-a-dia de seus moradores. 
+13
 
-A partir daí o clima mais frio, com um inverno considerdo rigoroso para os padrões nacionais, a organização, limpeza, a percepção de amplo desenvolvimento econômico e a grande diversidade de grupos imigrantes que ajudaram a cunhar a cultura local (composta por italianos, poloneses, ucranianos, japoneses, espanhóis, dentre outros) reforçam a imagem de que a cidade possui contornos europeus. 
+Curitiba passa a chamar muita atenção de moradores de outras cidades e estados e passa a receber um grande volume de migrantes. Ocorre que o município não tinha uma estrutura condizente para abarcar este fluxo migratório e começam a surgir problemas comuns dos centros urbanos: desemprego, aumento dos índices de violência, aumento da informalidade laboral, escassez de serviços públicos (como creches, educação e serviços de saúde).
 
-13 
+Apesar dessa situação, o Índice de Desenvolvimento Humano Municipal[1] (IDH-m) vem crescendo nos últimos 30 anos, conforme tabela 1
 
-Curitiba passa a chamar muita atenção de moradores de outras cidades e estados e passa a receber um grande volume de migrantes. Ocorre que o município não tinha uma estrutura condizente para abarcar este fluxo migratório e começam a surgir problemas comuns dos centros urbanos: desemprego, aumento dos índices de violência, aumento da informalidade laboral, escassez de serviços públicos (como creches, educação e serviços de saúde). 
-
-Apesar dessa situação, o Índice de Desenvolvimento Humano Municipal[1] (IDH-m) vem crescendo nos últimos 30 anos, conforme tabela 1 
-
-Tabela 1 – Evolução IDH-m do município de Curitiba 
+Tabela 1 – Evolução IDH-m do município de Curitiba
 
 |Ano|IDH-m||
 |---|---|---|
@@ -423,47 +417,33 @@ Tabela 1 – Evolução IDH-m do município de Curitiba
 |2010|,823||
 |Fonte:PNDU-Programa das Nações Unidas para o Desenvolvimento | IDH por município e estado|||
 
+No que tange a seu perfil econômico, Curitiba tem um Produto Interno Bruto (PIB) total  de R$ 79.383.343,00, um PIB per capita de R$42.934,00 e uma renda média domiciliar per capita de R$ 1.536,39 (IPARDES, 2013), Apenas a capital do Estado é responsável por 40% do PIB estadual (IBGE, 2016).
 
+Ao se analisar a evolução do crescimento de empresas na cidade de Curitiba, percebe-se que, entre 2010 e 2014, houve um aumento de 9%, conforme gráfico 1.
 
-No que tange a seu perfil econômico, Curitiba tem um Produto Interno Bruto (PIB) total  de R$ 79.383.343,00, um PIB per capita de R$42.934,00 e uma renda média domiciliar per capita de R$ 1.536,39 (IPARDES, 2013), Apenas a capital do Estado é responsável por 40% do PIB estadual (IBGE, 2016). 
+> 1 medida municipal composta de indicadores de três dimensões do desenvolvimento humano: longevidade, educação e renda. O índice varia de 0 a 1. Quanto mais próximo de 1, maior o desenvolvimento humano.
 
-Ao se analisar a evolução do crescimento de empresas na cidade de Curitiba, percebe-se que, entre 2010 e 2014, houve um aumento de 9%, conforme gráfico 1. 
+14
 
-> 1 medida municipal composta de indicadores de três dimensões do desenvolvimento humano: longevidade, educação e renda. O índice varia de 0 a 1. Quanto mais próximo de 1, maior o desenvolvimento humano. 
+Gráfico 1 – Evolução do número de empresas no município de Curitiba entre 2010 e 2014
 
-14 
+62150<br>61666<br>60319<br>58833<br>56765<br>2010 2011 2012 2013 2014<br>
 
-Gráfico 1 – Evolução do número de empresas no município de Curitiba entre 2010 e 2014 
+Fonte: RAIS – MTE<br>
 
-**==> picture [308 x 193] intentionally omitted <==**
+A esta análise, soma-se a a verificação de uma evolução de 11% da quantidade total de funcionários entre os anos de 2010 e 2014, conforme gráfico 2.
 
-**----- Start of picture text -----**<br>
-62150<br>61666<br>60319<br>58833<br>56765<br>2010 2011 2012 2013 2014<br>**----- End of picture text -----**<br>
+Gráfico 2 – Evolução da quantidade total de funcionários entre os anos de 2010 e 2014
 
+967397<br>943667<br>936159<br>898099<br>848850<br>2010 2011 2012 2013 2014<br>Fonte: RAIS-MTE<br>
 
-**==> picture [94 x 8] intentionally omitted <==**
+Em Curitiba, a principal fonte econômica está centrada no  setor terciário, com seus diversos segmentos de  comércio  e prestação de serviços de várias áreas, como na educação e saúde. Em seguida, destaca-se o setor secundário, com complexos industriais de grande porte, conforme tabela 2.
 
-**----- Start of picture text -----**<br>
-Fonte: RAIS – MTE<br>**----- End of picture text -----**<br>
+Tabela 2 – Distribuição de empresas e funcionários por setor e porte
 
+Indústria Construção Comércio Serviços
 
-A esta análise, soma-se a a verificação de uma evolução de 11% da quantidade total de funcionários entre os anos de 2010 e 2014, conforme gráfico 2. 
-
-Gráfico 2 – Evolução da quantidade total de funcionários entre os anos de 2010 e 2014 
-
-**==> picture [348 x 213] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-967397<br>943667<br>936159<br>898099<br>848850<br>2010 2011 2012 2013 2014<br>Fonte: RAIS-MTE<br>**----- End of picture text -----**<br>
-
-
-Em Curitiba, a principal fonte econômica está centrada no  setor terciário, com seus diversos segmentos de  comércio  e prestação de serviços de várias áreas, como na educação e saúde. Em seguida, destaca-se o setor secundário, com complexos industriais de grande porte, conforme tabela 2. 
-
-Tabela 2 – Distribuição de empresas e funcionários por setor e porte 
-
-Indústria Construção Comércio Serviços 
-
-15 
+15
 
 |||Civil|||
 |---|---|---|---|---|
@@ -477,187 +457,185 @@ Indústria Construção Comércio Serviços
 |Grande|1%|0%|1%|2%|
 |**TOTAL**|**51.111**|**3.609**|**23.536**|**29.589**|
 
+Fonte: MTE (2014)
 
+Este cenário abarca ainda um contingente de instituições públicas, as quais demandam por profissionais portadores de competências e habilidades condizentes com os princípios da eficiência da Gestão, focado em qualidade e ética na prestação dos serviços aos cidadãos.
 
-Fonte: MTE (2014) 
+Ao se analisar o cenário educacional brasileiro e estadual, mais especificamente no que diz respeito aos cursos superiores na área de Administração, percebe-se a relevância deste curso na decisão de se cursar uma graduação no país.
 
-Este cenário abarca ainda um contingente de instituições públicas, as quais demandam por profissionais portadores de competências e habilidades condizentes com os princípios da eficiência da Gestão, focado em qualidade e ética na prestação dos serviços aos cidadãos. 
+No ano de 2016, no Brasil, haviam aproximadamente 1,2 milhões de estudantes matriculados nos cursos superiores de Administração, o que representa cerca de 15% do total de alunos matriculados neste nível de ensino, percentual este que se repete no Estado do Paraná.
 
-Ao se analisar o cenário educacional brasileiro e estadual, mais especificamente no que diz respeito aos cursos superiores na área de Administração, percebe-se a relevância deste curso na decisão de se cursar uma graduação no país. 
+Quando parte-se para uma análise mais focada na prospecção de mercado, o cenário mostra que a quantidade de vagas ofertadas, somando instituições públicas e privadas que oferecem cursos superiores na área da Administração, não atende plenamente a demanda do estado (58.886 incritos x 41.684 vagas). A situação se torna mais crítica ao se analisar especificamente a oferta de vagas em Instituições de Ensino Superior Públicas (24.984 inscritos x 2.480 vagas) o que representa uma relação de 10,1 candidatos por vaga (INEP, 2016).
 
-No ano de 2016, no Brasil, haviam aproximadamente 1,2 milhões de estudantes matriculados nos cursos superiores de Administração, o que representa cerca de 15% do total de alunos matriculados neste nível de ensino, percentual este que se repete no Estado do Paraná. 
+Em 2012, o Instituto Nacional de Pesquisas Educacionais (INEP) realizou um levantamento e verificou que haviam 747.024 alunos matriculados em cursos de tecnologia nas áreas de Administração.
 
-Quando parte-se para uma análise mais focada na prospecção de mercado, o cenário mostra que a quantidade de vagas ofertadas, somando instituições públicas e privadas que oferecem cursos superiores na área da Administração, não atende plenamente a demanda do estado (58.886 incritos x 41.684 vagas). A situação se torna mais crítica ao se analisar especificamente a oferta de vagas em Instituições de Ensino Superior Públicas (24.984 inscritos x 2.480 vagas) o que representa uma relação de 10,1 candidatos por vaga (INEP, 2016). 
+O que se conclui neste contexto, é que a busca pela qualificação profissional tem sido uma consttane no cenário tanto nacional quanto regional e que as demandas do arranjo produtivo local onde o Campus Curitiba, do Instituto Federal do Paraná, encontra-se inserido permanecem latentes.
 
-Em 2012, o Instituto Nacional de Pesquisas Educacionais (INEP) realizou um levantamento e verificou que haviam 747.024 alunos matriculados em cursos de tecnologia nas áreas de Administração. 
+## 2.2 OBJETIVOS
 
-O que se conclui neste contexto, é que a busca pela qualificação profissional tem sido uma consttane no cenário tanto nacional quanto regional e que as demandas do arranjo produtivo local onde o Campus Curitiba, do Instituto Federal do Paraná, encontra-se inserido permanecem latentes. 
+16
 
-## 2.2 OBJETIVOS 
+O CST em Processos Gerenciais, ofertado na modalidade presencial, tem o objetivo de formar profissionais tecnólogos de nível superior com competências e habilidades que lhes permitam tanto atuar em empresas públicas, privadas ou de terceiro setor, bem como abrir e gerenciar seu próprio negócio a partir da proposição de negócios que atendam às demandas sociais.
 
-16 
+Tem ainda como objetivo formar indivíduos que exerçam ética e politicamente sua cidadania com elevado nível de responsabilidade socioambiental, contribuindo para a construção de uma sociedade mais equânime e justa, preservando o meio ambiente e garantindo sua sustentabilidade para as próximas gerações.
 
-O CST em Processos Gerenciais, ofertado na modalidade presencial, tem o objetivo de formar profissionais tecnólogos de nível superior com competências e habilidades que lhes permitam tanto atuar em empresas públicas, privadas ou de terceiro setor, bem como abrir e gerenciar seu próprio negócio a partir da proposição de negócios que atendam às demandas sociais. 
+## **2.2.1 Objetivo Geral**
 
-Tem ainda como objetivo formar indivíduos que exerçam ética e politicamente sua cidadania com elevado nível de responsabilidade socioambiental, contribuindo para a construção de uma sociedade mais equânime e justa, preservando o meio ambiente e garantindo sua sustentabilidade para as próximas gerações. 
+- Oportunizar conhecimentos técnicos e gerenciais capazes de permitir ao egresso a atuação profissional na área de gestão de organizações, trazendo soluções para estas instituições, empreendendo novos negócios e/ou contribuindo para gestão nos diversos setores da sociedade.
 
-## **2.2.1 Objetivo Geral** 
+## **2.2.2 Objetivos Específicos**
 
-- Oportunizar conhecimentos técnicos e gerenciais capazes de permitir ao egresso a atuação profissional na área de gestão de organizações, trazendo soluções para estas instituições, empreendendo novos negócios e/ou contribuindo para gestão nos diversos setores da sociedade. 
+- Capacitar pessoas para a atuação na gestão de processos gerenciais em instituições de diferentes portes e setores;
 
-## **2.2.2 Objetivos Específicos** 
+- Promover a visão crítica sobre os aspectos sócio-econômicos, ambientais, culturais promovendo preceitos da ética e cidadania;
 
-- Capacitar pessoas para a atuação na gestão de processos gerenciais em instituições de diferentes portes e setores; 
+- Desenvolver competências e habilidades empreendedoras, a partir do enfoque criativo e inovador para o desenvolvimento de negócios que atendam as demandas da região onde atuam.
 
-- Promover a visão crítica sobre os aspectos sócio-econômicos, ambientais, culturais promovendo preceitos da ética e cidadania; 
+## 2.3 CONCEPÇÃO DO CURSO
 
-- Desenvolver competências e habilidades empreendedoras, a partir do enfoque criativo e inovador para o desenvolvimento de negócios que atendam as demandas da região onde atuam. 
+A Educação Profissional, Científica e Tecnológica é um direito social inalienável do cidadão, em termos de direito do trabalhador ao conhecimento. Dessa forma, a oferta do Curso Superior de Tecnologia em Processos Gerenciais embasa sua oferta tanto no art. 6º da Constituição Federal, ao elencar os direitos sociais do cidadão brasileiro, relacionado os direitos à educação e ao trabalho, bem como atende ao propósito principal dos Institutos Federais que é a formação de cidadãos como agentes políticos capazes de ultrapassar obstáculos, pensar e agir em favor de transformações políticas, econômicas e sociais, imprescindíveis para a construção de um mundo com melhores condições humanas/sociais.
 
-## 2.3 CONCEPÇÃO DO CURSO 
+Ao atender estes termos, o curso buscará contribuir para a formação do ser humano como profissional e, principalmente, como cidadão consciente de seu papel na sociedade. Dessa forma, a base fundamental do
 
-A Educação Profissional, Científica e Tecnológica é um direito social inalienável do cidadão, em termos de direito do trabalhador ao conhecimento. Dessa forma, a oferta do Curso Superior de Tecnologia em Processos Gerenciais embasa sua oferta tanto no art. 6º da Constituição Federal, ao elencar os direitos sociais do cidadão brasileiro, relacionado os direitos à educação e ao trabalho, bem como atende ao propósito principal dos Institutos Federais que é a formação de cidadãos como agentes políticos capazes de ultrapassar obstáculos, pensar e agir em favor de transformações políticas, econômicas e sociais, imprescindíveis para a construção de um mundo com melhores condições humanas/sociais. 
+17
 
-Ao atender estes termos, o curso buscará contribuir para a formação do ser humano como profissional e, principalmente, como cidadão consciente de seu papel na sociedade. Dessa forma, a base fundamental do 
+curso é a formação do ser humano, por meio de experiências e conhecimentos ao longo das relações sociais e produtivas.
 
-17 
+A filosofia que norteia a oferta do curso é a de que o ser humano deve agir como agente integrador e integrante do meio em que vive. Nesta perspectiva, o ser humano deve agir refletindo sobre as suas necessidades e dos demais, nas esferas social, econômica e cultural.
 
-curso é a formação do ser humano, por meio de experiências e conhecimentos ao longo das relações sociais e produtivas. 
+O curso, ora ofertado, tem a finalidade de contribuir para a formação e profissionalização dos cidadãos, buscando a formação integral do estudante. Para tanto, todas as ações pedagógicas ofertadas buscarão construir um ambiente no qual os alunos possam aprender a interpretar o mundo, para, então, poder transformá-lo a partir do domínio dos conhecimentos científico-tecnológicos, sócio-históricos e culturais, bem como dos seus processos de construção, necessários à superação dos conflitos sociais, em uma sociedade cujas relações são cada vez mais mediadas pela ciência e pela tecnologia. (PDI 2014-2019 do IFPR, p.37)
 
-A filosofia que norteia a oferta do curso é a de que o ser humano deve agir como agente integrador e integrante do meio em que vive. Nesta perspectiva, o ser humano deve agir refletindo sobre as suas necessidades e dos demais, nas esferas social, econômica e cultural. 
+## 2.4 PERFIL DO EGRESSO
 
-O curso, ora ofertado, tem a finalidade de contribuir para a formação e profissionalização dos cidadãos, buscando a formação integral do estudante. Para tanto, todas as ações pedagógicas ofertadas buscarão construir um ambiente no qual os alunos possam aprender a interpretar o mundo, para, então, poder transformá-lo a partir do domínio dos conhecimentos científico-tecnológicos, sócio-históricos e culturais, bem como dos seus processos de construção, necessários à superação dos conflitos sociais, em uma sociedade cujas relações são cada vez mais mediadas pela ciência e pela tecnologia. (PDI 2014-2019 do IFPR, p.37) 
+De acordo com o Catálogo Nacional de Cursos Superiores em Tecnologia (2016) o perfil do egresso deve abranger as seguintes competências e habilidades:
 
-## 2.4 PERFIL DO EGRESSO 
+- Analisar e avaliar o ambiente interno e externo e formular objetivos e estratégias gerenciais.
 
-De acordo com o Catálogo Nacional de Cursos Superiores em Tecnologia (2016) o perfil do egresso deve abranger as seguintes competências e habilidades: 
+- Planejar, projetar, gerenciar e promover os processos organizacionais e os sistemas da organização.
 
-- Analisar e avaliar o ambiente interno e externo e formular objetivos e estratégias gerenciais. 
+- Desenvolver e gerenciar processos logísticos, financeiros e de custos.
 
-- Planejar, projetar, gerenciar e promover os processos organizacionais e os sistemas da organização. 
+- Otimizar os recursos da organização, por meio de melhorias nos processos.
 
-- Desenvolver e gerenciar processos logísticos, financeiros e de custos. 
+- Promover a gestão e governança por processos e consequentemente o desenvolvimento de sistemas, a gestão do conhecimento, o redesenho e a melhoria.
 
-- Otimizar os recursos da organização, por meio de melhorias nos processos. 
+- Promover a mudança organizacional planejada.
 
-- Promover a gestão e governança por processos e consequentemente o desenvolvimento de sistemas, a gestão do conhecimento, o redesenho e a melhoria. 
+- Vistoriar, realizar perícia, avaliar, emitir laudo e parecer técnico em sua área de formação.
 
-- Promover a mudança organizacional planejada. 
+Desta forma, em consonânica com os objetivos geral e específico do curso, deseja-se que o perfil do egresso possua a visão empreendedora a partir de ideias inovadoras, criatividade e a otimização dos recursos organizacionais. Além de promover a ética, cidadania, tolerância, sustentabilidade e valores humanos.
 
-- Vistoriar, realizar perícia, avaliar, emitir laudo e parecer técnico em sua área de formação. 
+18
 
-Desta forma, em consonânica com os objetivos geral e específico do curso, deseja-se que o perfil do egresso possua a visão empreendedora a partir de ideias inovadoras, criatividade e a otimização dos recursos organizacionais. Além de promover a ética, cidadania, tolerância, sustentabilidade e valores humanos. 
+## **2.4.1 Áreas de Atuação do Egresso**
 
-18 
+De acordo com a legislação vigente sobre os cursos tecnológicos, o egresso do CST em Processo Gerenciais poderá atuar em :
 
-## **2.4.1 Áreas de Atuação do Egresso** 
+Empresas de planejamento, desenvolvimento de projetos, assessoramento técnico e consultoria. Empresas em geral (indústria, comércio e serviços). Institutos e Centros de Pesquisa. Instituições de Ensino, mediante formação requerida pela legislação vigente (Catálogo Nacional de Cursos, 2016).
 
-De acordo com a legislação vigente sobre os cursos tecnológicos, o egresso do CST em Processo Gerenciais poderá atuar em : 
+Os egressos do curso poderão atuar no planejamento e gestão de organizações públicas, privadas e sem fins lucrativos nos mais diferentes segmentos e portes. Estarão preparados para atuar em cargos de supervisão, coordenação, gerência e direção de organizações a partir dos conhecimentos adquiridos no curso tecnológico de processos gerenciais. Poderão atuar em recursos humanos, finanças, marketing, vendas, produção, logística e demais setores que demandem por gestão de recursos humanos, financeiros, materiais ou tecnológicos.
 
-Empresas de planejamento, desenvolvimento de projetos, assessoramento técnico e consultoria. Empresas em geral (indústria, comércio e serviços). Institutos e Centros de Pesquisa. Instituições de Ensino, mediante formação requerida pela legislação vigente (Catálogo Nacional de Cursos, 2016). 
+Da mesma forma, o aluno será incentivado a atuar no contexto do empreendedorismo a partir da criação de negócios inovadores e que se adequem às necessidades da comunidade onde serão desenvolvidos, fazendo com que assim possa-se desenvolver social e economicamente as regiões onde atuam.
 
-Os egressos do curso poderão atuar no planejamento e gestão de organizações públicas, privadas e sem fins lucrativos nos mais diferentes segmentos e portes. Estarão preparados para atuar em cargos de supervisão, coordenação, gerência e direção de organizações a partir dos conhecimentos adquiridos no curso tecnológico de processos gerenciais. Poderão atuar em recursos humanos, finanças, marketing, vendas, produção, logística e demais setores que demandem por gestão de recursos humanos, financeiros, materiais ou tecnológicos. 
+## **2.4.2 Acompanhamento de Egressos**
 
-Da mesma forma, o aluno será incentivado a atuar no contexto do empreendedorismo a partir da criação de negócios inovadores e que se adequem às necessidades da comunidade onde serão desenvolvidos, fazendo com que assim possa-se desenvolver social e economicamente as regiões onde atuam. 
+Será mantido um cadastro com os dados atualizados dos egressos, objetivando divulgar cursos e serviços ofertados pelo IFPR, bem como manter a interação entre egressos e estudantes, visando trazer para o contexto escolar as realidades do mercado de trabalho.
 
-## **2.4.2 Acompanhamento de Egressos** 
+## **2.4.3 Registro Profissional**
 
-Será mantido um cadastro com os dados atualizados dos egressos, objetivando divulgar cursos e serviços ofertados pelo IFPR, bem como manter a interação entre egressos e estudantes, visando trazer para o contexto escolar as realidades do mercado de trabalho. 
+A Lei nº 4.769/65 dispõe sobre o exercício da profissão de Administrador, profissão esta regulamentada, que pode ser desempenhada por bacharéis ou tecnólogos em áreas específicas de administração, como é o caso do presente projeto. A Resolução Normativa CFA nº 374/2009 disponibiliza a lista de cursos superiores de tecnologia, onde o CST em Processos Gerenciais encontra-se presente. A coordenação e colegiado do curso irão incentivar os egressos a realizarem seu registro no Conselho Regional de Administração – CRA.
 
-## **2.4.3 Registro Profissional** 
+## 2.5 METODOLOGIA E ESTRATÉGIAS PEDAGÓGICAS
 
-A Lei nº 4.769/65 dispõe sobre o exercício da profissão de Administrador, profissão esta regulamentada, que pode ser desempenhada por bacharéis ou tecnólogos em áreas específicas de administração, como é o caso do presente projeto. A Resolução Normativa CFA nº 374/2009 disponibiliza a lista de cursos superiores de tecnologia, onde o CST em Processos Gerenciais encontra-se presente. A coordenação e colegiado do curso irão incentivar os egressos a realizarem seu registro no Conselho Regional de Administração – CRA. 
+19
 
-## 2.5 METODOLOGIA E ESTRATÉGIAS PEDAGÓGICAS 
+O projeto pedagógico do Curso Superior de Tecnologia em Processos Gerenciais visa proporcionar ao estudante o acesso unitário e indissociável ao conhecimento prático e teórico em gestão de processos empresariais. A indissociabilidade entre estes elementos faz-se necessário visto que, na atualidade, cada vez mais, os profissionais da gestão contribuem na criação e desenvolvimento de organizações públicas, privadas e de terceiro setor que são capazes de fornecer soluções à sociedade, ao mesmo tempo em que geram emprego e renda.
 
-19 
+Cabe ao curso, com abrangência em formação de gestão de processos empresariais e perfil empreendedor, atender aos requisitos necessários para que a formação acadêmica promova o profissional que atenda os desafios e necessidades propostas. Dessa forma serão desenvolvidas aulas, seminários e palestras, visitas técnicas, atividades interdisciplinares, atividades artísticas e culturais, feiras, exposições e eventos.
 
-O projeto pedagógico do Curso Superior de Tecnologia em Processos Gerenciais visa proporcionar ao estudante o acesso unitário e indissociável ao conhecimento prático e teórico em gestão de processos empresariais. A indissociabilidade entre estes elementos faz-se necessário visto que, na atualidade, cada vez mais, os profissionais da gestão contribuem na criação e desenvolvimento de organizações públicas, privadas e de terceiro setor que são capazes de fornecer soluções à sociedade, ao mesmo tempo em que geram emprego e renda. 
+O campus oferece também aos discentes: programas de atendimento extraclasse, equipe multidisciplinar/multiprofissional, apoio psicopedagógico, assistência social, atividades de complementação de aprendizagem, atividades de pesquisa, atividades de extensão e inovação, entre outras.
 
-Cabe ao curso, com abrangência em formação de gestão de processos empresariais e perfil empreendedor, atender aos requisitos necessários para que a formação acadêmica promova o profissional que atenda os desafios e necessidades propostas. Dessa forma serão desenvolvidas aulas, seminários e palestras, visitas técnicas, atividades interdisciplinares, atividades artísticas e culturais, feiras, exposições e eventos. 
+## **2.5.1 Relação entre Ensino, Pesquisa, Extensão e Inovação**
 
-O campus oferece também aos discentes: programas de atendimento extraclasse, equipe multidisciplinar/multiprofissional, apoio psicopedagógico, assistência social, atividades de complementação de aprendizagem, atividades de pesquisa, atividades de extensão e inovação, entre outras. 
+O curso Superior de Tecnologia em Processos Gerenciais do campus Curitiba pretende a articulação entre ensino, pesquisa, extensão e inovação contemplando em sua matriz curricular o desenvolvimento de atitudes e ações empreendedoras e inovadoras, tendo como foco as vivências da aprendizagem para a capacitação e para a inserção no mundo do trabalho.
 
-## **2.5.1 Relação entre Ensino, Pesquisa, Extensão e Inovação** 
+As atividades pedagógicas serão organizadas por meio de:
 
-O curso Superior de Tecnologia em Processos Gerenciais do campus Curitiba pretende a articulação entre ensino, pesquisa, extensão e inovação contemplando em sua matriz curricular o desenvolvimento de atitudes e ações empreendedoras e inovadoras, tendo como foco as vivências da aprendizagem para a capacitação e para a inserção no mundo do trabalho. 
+- elaboração e execução de projetos interdisciplinares para integrar as áreas de conhecimento com a apresentação de resultados práticos e objetivos construídos coletivamente;
 
-As atividades pedagógicas serão organizadas por meio de: 
+- implementação sistemática, permanente e/ou eventual de cursos de extensão, seminários, fóruns, palestras, semanas de curso e outros que articulem os currículos a temas de relevância social, local e/ou regional potencializando os recursos materiais, físicos e humanos disponíveis;
 
-- elaboração e execução de projetos interdisciplinares para integrar as áreas de conhecimento com a apresentação de resultados práticos e objetivos construídos coletivamente; 
+- organização de estudos que contemplem conhecimentos relevantes e capazes de responder demandas pontuais para a comunidade interna e externa;
 
-- implementação sistemática, permanente e/ou eventual de cursos de extensão, seminários, fóruns, palestras, semanas de curso e outros que articulem os currículos a temas de relevância social, local e/ou regional potencializando os recursos materiais, físicos e humanos disponíveis; 
+- previsão de horas-aula, para viabilizar a construção de trajetórias curriculares por meio do envolvimento em eventos, em projetos de pesquisa e extensão, em componentes curriculares optativos e outras possibilidades;
 
-- organização de estudos que contemplem conhecimentos relevantes e capazes de responder demandas pontuais para a comunidade interna e externa; 
+20
 
-- previsão de horas-aula, para viabilizar a construção de trajetórias curriculares por meio do envolvimento em eventos, em projetos de pesquisa e extensão, em componentes curriculares optativos e outras possibilidades; 
+- previsão de espaços para reflexão e construção de ações coletivas, que atendam a demandas específicas de áreas, cursos, campus e instituição, tais como fóruns, debates, grupos de estudo e similares;
 
-20 
+- oferta de intercâmbio entre estudantes de diferentes campi, institutos e instituições educacionais considerando a equivalência de estudos.
 
-- previsão de espaços para reflexão e construção de ações coletivas, que atendam a demandas específicas de áreas, cursos, campus e instituição, tais como fóruns, debates, grupos de estudo e similares; 
+As práticas pedagógicas no âmbito do ensino serão realizadas com a intenção de oportunizar práticas investigativas no contexto social por meio de eventos, projetos de iniciação científica e demais atividades a fim de estimular a pesquisa, extensão e a inovação.
 
-- oferta de intercâmbio entre estudantes de diferentes campi, institutos e instituições educacionais considerando a equivalência de estudos. 
+## **2.5.2 Tecnologias Digitais de Informação e Comunicação no processo de ensino-aprendizagem**
 
-As práticas pedagógicas no âmbito do ensino serão realizadas com a intenção de oportunizar práticas investigativas no contexto social por meio de eventos, projetos de iniciação científica e demais atividades a fim de estimular a pesquisa, extensão e a inovação. 
+No CST em Processos Gerenciais a utilização de TIC’s se dará de acordo com a didática de cada professor do curso. Será incentivado o uso dos recursos disponíveis no campus Curitiba. Mesmo não havendo a previsão do uso de Ambiente Virtual de Aprendizagem, as TIC’s servirão de apoio no processo de ensinoaprendizagem.
 
-## **2.5.2 Tecnologias Digitais de Informação e Comunicação no processo de ensino-aprendizagem** 
+## **2.5.3 Educação Inclusiva**
 
-No CST em Processos Gerenciais a utilização de TIC’s se dará de acordo com a didática de cada professor do curso. Será incentivado o uso dos recursos disponíveis no campus Curitiba. Mesmo não havendo a previsão do uso de Ambiente Virtual de Aprendizagem, as TIC’s servirão de apoio no processo de ensinoaprendizagem. 
+Além das questões estruturais do campus Curitiba, que atendem atualmente aos alunos com necessidades educacionais especiais, o presente projeto de curso destinará 5% das vagas (4) aos estudantes deficientes, onde o Napne do campus Curitiba servirá de apoio na construção das atividades educacionais. Da mesma forma, a equipe pedagógica do campus deverá prover o suporte pedagógico aos estudantes com necessidades educacionais especiais em cumprimento ao Decreto no. 5.296/2004.
 
-## **2.5.3 Educação Inclusiva** 
+## **2.5.4 Integração**
 
-Além das questões estruturais do campus Curitiba, que atendem atualmente aos alunos com necessidades educacionais especiais, o presente projeto de curso destinará 5% das vagas (4) aos estudantes deficientes, onde o Napne do campus Curitiba servirá de apoio na construção das atividades educacionais. Da mesma forma, a equipe pedagógica do campus deverá prover o suporte pedagógico aos estudantes com necessidades educacionais especiais em cumprimento ao Decreto no. 5.296/2004. 
+## 2.5.4.1 Integração com a Pós-Graduação
 
-## **2.5.4 Integração** 
+O CST em Processos Gerenciais deverá proporcionar conhecimentos que subsidiem a verticalização da formação do egresso. O campus Curitiba possui cursos de Especialização em Gestão e Negócios e em Gestão Pública, de forma que deverá haver ampla divulgação entre os egressos sobre os processos seletivos dos cursos de pós-graduações.
 
-## 2.5.4.1 Integração com a Pós-Graduação 
+## 2.5.4.2 Mobilidade Estudantil e Internacionalização
 
-O CST em Processos Gerenciais deverá proporcionar conhecimentos que subsidiem a verticalização da formação do egresso. O campus Curitiba possui cursos de Especialização em Gestão e Negócios e em Gestão Pública, de forma que deverá haver ampla divulgação entre os egressos sobre os processos seletivos dos cursos de pós-graduações. 
+Conforme consta no Plano de Desenvolvimento Institucional:
 
-## 2.5.4.2 Mobilidade Estudantil e Internacionalização 
+21
 
-Conforme consta no Plano de Desenvolvimento Institucional: 
+O IFPR, em sua contribuição para a formação do estudante, assume o compromisso de proporcionar-lhe a mobilidade escolar/acadêmica, a qual envolve os intercâmbios nacionais e internacionais. Seja por meio de programas do Governo Federal, como o Ciência sem Fronteiras, ou por iniciativas próprias decorrentes de demandas locais, a mobilidade estudantil busca colaborar com a formação integral do estudante de maneira inclusiva, transformadora e comprometida com o desenvolvimento humano. (PDI 139-140).
 
-21 
+Assim, em consonância com este documento, os curso poderá oportunizar a possibilidade de intercâmbio com outras instituições de ensino e internacionalização. Além dos programas governamentais de incentivo à mobilidade, a coordenação poderá firmar convênios com instituições internacionais para que haja o intercâmbio estudantil. Os elementos como validação de créditos no exterior, ou outra demanda deverá ser discutida e formalizada junto à direção geral do campus Curitiba e a pró reitoria responsável.
 
-O IFPR, em sua contribuição para a formação do estudante, assume o compromisso de proporcionar-lhe a mobilidade escolar/acadêmica, a qual envolve os intercâmbios nacionais e internacionais. Seja por meio de programas do Governo Federal, como o Ciência sem Fronteiras, ou por iniciativas próprias decorrentes de demandas locais, a mobilidade estudantil busca colaborar com a formação integral do estudante de maneira inclusiva, transformadora e comprometida com o desenvolvimento humano. (PDI 139-140). 
+## **2.5.5 Material Didático**
 
-Assim, em consonância com este documento, os curso poderá oportunizar a possibilidade de intercâmbio com outras instituições de ensino e internacionalização. Além dos programas governamentais de incentivo à mobilidade, a coordenação poderá firmar convênios com instituições internacionais para que haja o intercâmbio estudantil. Os elementos como validação de créditos no exterior, ou outra demanda deverá ser discutida e formalizada junto à direção geral do campus Curitiba e a pró reitoria responsável. 
+Não se aplica
 
-## **2.5.5 Material Didático** 
+## **2.5.6 Mecanismos de Interação entre docentes, tutores e estudantes**
 
-Não se aplica 
+Não se aplica
 
-## **2.5.6 Mecanismos de Interação entre docentes, tutores e estudantes** 
+2.5.6.1 Atividades de Tutoria
 
-Não se aplica 
+Não se aplica.
 
-2.5.6.1 Atividades de Tutoria 
+## **2.5.7 Atividades Práticas de Ensino**
 
-Não se aplica. 
+Não se aplica
 
-## **2.5.7 Atividades Práticas de Ensino** 
+## 2.6 ESTRUTURA CURRICULAR
 
-Não se aplica 
+De acordo com as Diretrizes Curriculares Nacionais – DCNs e as legislações pertinentes, os Cursos Superiores de Tecnologia em Processos Gerenciais deverá contemplar de forma interdisciplinar os seguintes temas:
 
-## 2.6 ESTRUTURA CURRICULAR 
+1. História e Cultura Afro-Brasileira e Indígena (Lei nº 10.639, de 9 de janeiro de 2003   e  Lei nº. 11.645/2008 e Resolução CNE/CP nº 01/2004).
 
-De acordo com as Diretrizes Curriculares Nacionais – DCNs e as legislações pertinentes, os Cursos Superiores de Tecnologia em Processos Gerenciais deverá contemplar de forma interdisciplinar os seguintes temas: 
+2. Educação ambiental (Lei nº. 9.795/1999, Decreto nº. 4.281/2002 e Resolução CNE/CP nº. 02/2012).
 
-1. História e Cultura Afro-Brasileira e Indígena (Lei nº 10.639, de 9 de janeiro de 2003   e  Lei nº. 11.645/2008 e Resolução CNE/CP nº 01/2004). 
+3. Processos de Envelhecimento (Lei nº 10.741, de 1º de outubro de 2003)
 
-2. Educação ambiental (Lei nº. 9.795/1999, Decreto nº. 4.281/2002 e Resolução CNE/CP nº. 02/2012). 
+4. Conceito de gênero do PNE (Nota Técnica nº 24 CGDH/DPEDHUC/SECADI/MEC)
 
-3. Processos de Envelhecimento (Lei nº 10.741, de 1º de outubro de 2003) 
+Os conteúdos supracitados serão abordados por meio do componente curricular Ética e Cidadania, ministrado no primeiro semestre do curso.
 
-4. Conceito de gênero do PNE (Nota Técnica nº 24 CGDH/DPEDHUC/SECADI/MEC) 
+O componente curricular LIBRAS será optativo para este curso (Decreto nº. 5.626/2005.Lei nº 10.436, de
 
-Os conteúdos supracitados serão abordados por meio do componente curricular Ética e Cidadania, ministrado no primeiro semestre do curso. 
+## 24 de abril de 2002).
 
-O componente curricular LIBRAS será optativo para este curso (Decreto nº. 5.626/2005.Lei nº 10.436, de 
-
-## 24 de abril de 2002). 
-
-22 
+22
 
 ||**Componente Curricular**|**Professor Responsável**|**CH**|
 |---|---|---|---|
@@ -692,33 +670,23 @@ O componente curricular LIBRAS será optativo para este curso (Decreto nº. 5.62
 |**CARGA HORÁRIA TOTAL**<br>* o aluno deverá optar por uma das disciplinas optativas.||**1880 horas-aula**||
 |||**1602 horas relógio**||
 
+23
 
+## **6.1 Representação Gráfica do Processo Formativo**
 
-23 
+Ingresso do Estudante<br>Teoria Geral da Administração<br>Fundamentos da Economia<br>Comportamento Organizacional<br>Módulo 1  Matemática<br>Comunicação Empresarial<br>Ética e Cidadania<br>Fundamentos do Direito<br>Gestão da Produção<br>Logística Empresarial<br>Módulo 2  Estatística Gestão Social e Ambiental<br>Direito Empresarial<br>Gestão da Qualidade<br>Gestão Financeira<br>Contabilidade Geral<br>Pesquisa Operacional<br>Componente  Módulo 3  Gestão Mercadológica<br>E-comerce e Negócios Virtuais<br>Optativo   Gestão da Informação, Tecnologias<br>LIBRAS  e Comunicação<br>Gestão de Pessoas<br>Empreendedorismo<br>Estratégia Empresarial<br>Módulo 4  Direito do trabalho<br>Metodologia Científica<br>Trabalho de Conclusão de Curso<br>Optativa<br>Conclusão do Curso<br>
 
-## **6.1 Representação Gráfica do Processo Formativo** 
+24
 
-**==> picture [432 x 339] intentionally omitted <==**
+## **2.6.2Matriz Curricular**
 
-**----- Start of picture text -----**<br>
-Ingresso do Estudante<br>Teoria Geral da Administração<br>Fundamentos da Economia<br>Comportamento Organizacional<br>Módulo 1  Matemática<br>Comunicação Empresarial<br>Ética e Cidadania<br>Fundamentos do Direito<br>Gestão da Produção<br>Logística Empresarial<br>Módulo 2  Estatística Gestão Social e Ambiental<br>Direito Empresarial<br>Gestão da Qualidade<br>Gestão Financeira<br>Contabilidade Geral<br>Pesquisa Operacional<br>Componente  Módulo 3  Gestão Mercadológica<br>E-comerce e Negócios Virtuais<br>Optativo   Gestão da Informação, Tecnologias<br>LIBRAS  e Comunicação<br>Gestão de Pessoas<br>Empreendedorismo<br>Estratégia Empresarial<br>Módulo 4  Direito do trabalho<br>Metodologia Científica<br>Trabalho de Conclusão de Curso<br>Optativa<br>Conclusão do Curso<br>**----- End of picture text -----**<br>
+## **INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**
 
+(Criação Lei nº 11.892 de 29/11/2008) _Campus_ Curitiba
 
-24 
+MATRIZ CURRICULAR DO CURSO SUPERIOR DE TECNOLOGIA EM<br>INSTITUTO PROCESSOS GERENCIAIS<br>FEDERAL Código do Curso:ódigo do Curso:go do Curso:o do Curso:Curso:urso:: 000000<br>PARANA<br>
 
-## **2.6.2Matriz Curricular** 
-
-## **INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ** 
-
-(Criação Lei nº 11.892 de 29/11/2008) _Campus_ Curitiba 
-
-**==> picture [449 x 46] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-MATRIZ CURRICULAR DO CURSO SUPERIOR DE TECNOLOGIA EM<br>INSTITUTO PROCESSOS GERENCIAIS<br>FEDERAL Código do Curso:ódigo do Curso:go do Curso:o do Curso:Curso:urso:: 000000<br>PARANA<br>**----- End of picture text -----**<br>
-
-
-Código do Curso:ódigo do Curso:go do Curso:o do Curso:Curso:urso:: 000000 Base legal: RESOLUÇÃO CNE/CP 3/2002 - Catálogo Nacional de Cursos Superiores em Tecnologia Base legal específica do curso: Resolução CNE/CP nº 0000000 Resolução de autorização do curso no IFPR: Resolução nº 0000000 
+Código do Curso:ódigo do Curso:go do Curso:o do Curso:Curso:urso:: 000000 Base legal: RESOLUÇÃO CNE/CP 3/2002 - Catálogo Nacional de Cursos Superiores em Tecnologia Base legal específica do curso: Resolução CNE/CP nº 0000000 Resolução de autorização do curso no IFPR: Resolução nº 0000000
 
 |||||||**Hora-**|**Hora-**|
 |---|---|---|---|---|---|---|---|
@@ -734,11 +702,9 @@ Código do Curso:ódigo do Curso:go do Curso:o do Curso:Curso:urso:: 000000 Base
 ||||Fundamentos do Direito|C|2|40|33|
 ||||**Subtotal (Total do período)**|||**400**|**334 **|
 
+## **Módulo: Produção e Logística**
 
-
-## **Módulo: Produção e Logística** 
-
-Certificação Intermediária - Programador de controle de produção – CBO 3911-25 
+Certificação Intermediária - Programador de controle de produção – CBO 3911-25
 
 |||Gestão da Produção|C|4|80|67|
 |---|---|---|---|---|---|---|
@@ -749,13 +715,11 @@ Certificação Intermediária - Programador de controle de produção – CBO 39
 |||_Gestão Social e Ambiental_|C|2|80|67|
 |||**Subtotal (Total do período)**|||**400**|**334 **|
 
+25
 
+## **Módulo: Marketing e Finanças**
 
-25 
-
-## **Módulo: Marketing e Finanças** 
-
-Certificação Intermediária - Analista de marketing – CBO 2531-25 
+Certificação Intermediária - Analista de marketing – CBO 2531-25
 
 |**Módulo: Marketing e Finanças**<br>Certificação Intermediária - Analista de marketing – CBO 2531-25|**Módulo: Marketing e Finanças**<br>Certificação Intermediária - Analista de marketing – CBO 2531-25|**Módulo: Marketing e Finanças**<br>Certificação Intermediária - Analista de marketing – CBO 2531-25|**Módulo: Marketing e Finanças**<br>Certificação Intermediária - Analista de marketing – CBO 2531-25|**Módulo: Marketing e Finanças**<br>Certificação Intermediária - Analista de marketing – CBO 2531-25|**Módulo: Marketing e Finanças**<br>Certificação Intermediária - Analista de marketing – CBO 2531-25|
 |---|---|---|---|---|---|
@@ -766,7 +730,6 @@ Certificação Intermediária - Analista de marketing – CBO 2531-25
 ||_E-comerce e Negócios Virtuais_|C|2|40|33|
 ||Gestão de Informação, Tecnologia e|C|4|40|33|
 ||Comunicação|||||
-|||||||
 ||**Subtotal (Total do período)**|||**400**|**334 **|
 |**Módulo: Estratégia e Pessoas**<br>Certificação Intermediária - Coordenador de Administração de Pessoal  - CBO 1422-10||||||
 |**4º Semestre**|Gestão de Pessoas|C|4|80|67|
@@ -776,7 +739,6 @@ Certificação Intermediária - Analista de marketing – CBO 2531-25
 ||Metodologia Científica|C|2|40|33|
 ||_Trabalho de Conclusão de Curso_|C|8|160|134|
 ||_Disciplina Optativa_|C|2|40|33|
-|||||||
 ||**Subtotal (Total do período)**|||**480**|**400**|
 ||**CARGA HORÁRIA – HORAS AULA**||||<br>**1680**|
 ||**HORAS RELÓGIO**||||**1402 **|
@@ -786,1463 +748,1461 @@ Certificação Intermediária - Analista de marketing – CBO 2531-25
 |(ES)Estágio Supervisionado)|||||0|
 |**CARGA HORÁRIA TOTAL DO CURSO – HORAS RELÓGIO**|||||**1602 **|
 
+## **2.6.3 Componentes Optativos**
 
+O componente curricular Libras será ofertado em caráter optativo no **terceiro ou quarto semestre**
 
-## **2.6.3 Componentes Optativos** 
+**do curso** , dependendo da disponibilidade de professores.
 
-O componente curricular Libras será ofertado em caráter optativo no **terceiro ou quarto semestre** 
+Serão eles:
 
-**do curso** , dependendo da disponibilidade de professores. 
+1. LIBRAS - Língua Brasileira de Sinais
 
-Serão eles: 
+2. Critividade e Inovação
 
-1. LIBRAS - Língua Brasileira de Sinais 
+26
 
-2. Critividade e Inovação 
+## **2.7 EMENTÁRIO E BIBLIOGRAFIAS**
 
-26 
+2.7.1 MÓDULO 1
 
-## **2.7 EMENTÁRIO E BIBLIOGRAFIAS** 
+## **COMPONENTE CURRICULAR:**
 
-2.7.1 MÓDULO 1 
+Teoria Geral da Administração
 
-## **COMPONENTE CURRICULAR:** 
+## **CARGA HORÁRIA:**
 
-Teoria Geral da Administração 
+80 Hora/aula e 67 Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-80 Hora/aula e 67 Hora/relógio (60 min) 
+- Evolução histórica da administração;
 
-## **EMENTA:** 
+- Aspectos contemporâneos da Administração;
 
-- Evolução histórica da administração; 
+- Evolução dos conceitos relacionados ao homem, organização e meio ambiente;
 
-- Aspectos contemporâneos da Administração; 
+- Cultura e poder nas organizações;
 
-- Evolução dos conceitos relacionados ao homem, organização e meio ambiente; 
+- Processo de tomada de decisões;
 
-- Cultura e poder nas organizações; 
+- Enfoques Teóricos Pós-Contingenciais;
 
-- Processo de tomada de decisões; 
+- Novos desafios da administração.
 
-- Enfoques Teóricos Pós-Contingenciais; 
+## **BIBLIOGRAFIA BÁSICA:**
 
-- Novos desafios da administração. 
+HALL, R. H. **Organizações: estrutura e processos** . São Paulo: Prentice-Hall do Brasil, 2004.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+MAXIMIANO, Antonio, C. A. **Teoria geral da administração** . 6ª Ed. São Paulo: Atlas 2008.
 
-HALL, R. H. **Organizações: estrutura e processos** . São Paulo: Prentice-Hall do Brasil, 2004. 
+MINZTBERG, Henry. **Criando organizações eficazes** – estrutura em cinco configurações. 2ª  Ed. São Paulo: Atlas, 2003.
 
-MAXIMIANO, Antonio, C. A. **Teoria geral da administração** . 6ª Ed. São Paulo: Atlas 2008. 
+MOTTA, Fernando C. P.; VASCONCELOS, Isabella. F. G. **Teoria Geral da Administração** . 3ª. Ed. São Paulo: CENGAGE 2006.
 
-MINZTBERG, Henry. **Criando organizações eficazes** – estrutura em cinco configurações. 2ª  Ed. São Paulo: Atlas, 2003. 
+SOBRAL, Filipe; PECI, Alketa. **Administração: teoria e prática no contexto brasileiro** . São Paulo: Pearson Education do Brasil, 2013.
 
-MOTTA, Fernando C. P.; VASCONCELOS, Isabella. F. G. **Teoria Geral da Administração** . 3ª. Ed. São Paulo: CENGAGE 2006. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-SOBRAL, Filipe; PECI, Alketa. **Administração: teoria e prática no contexto brasileiro** . São Paulo: Pearson Education do Brasil, 2013. 
+DAFT, Richard L. **Administração.** Revisão técnica: Denis Forte. Tradução: Harue O. Avritcher. São Paulo: Cengage Learning, 2010.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+SCHERMERHORM JR., John R. **Administração** . Revisão Técnica: Sandra Regina H. Mariano. Tradução: Mário Persona. Rio de janeiro: LTC, 2014.
 
-DAFT, Richard L. **Administração.** Revisão técnica: Denis Forte. Tradução: Harue O. Avritcher. São Paulo: Cengage Learning, 2010. 
+RAYMUNDO, Paulo R. **O que é administração** . 2ª Ed. São Paulo: Brasiliense, 2010.
 
-SCHERMERHORM JR., John R. **Administração** . Revisão Técnica: Sandra Regina H. Mariano. Tradução: Mário Persona. Rio de janeiro: LTC, 2014. 
+CHIAVENATO, Idalberto. **Cartas a um jovem administrador** : o futuro está na administração. 6ª Ed. Rio de janeiro: Elsevier, 2006.
 
-RAYMUNDO, Paulo R. **O que é administração** . 2ª Ed. São Paulo: Brasiliense, 2010. 
+AMARU, A. C. **Teoria geral da administração** . 2. ed. São Paulo: Atlas, 2000.
 
-CHIAVENATO, Idalberto. **Cartas a um jovem administrador** : o futuro está na administração. 6ª Ed. Rio de janeiro: Elsevier, 2006. 
+27
 
-AMARU, A. C. **Teoria geral da administração** . 2. ed. São Paulo: Atlas, 2000. 
+## **COMPONENTE CURRICULAR:**
 
-27 
+Comunicação Empresarial
 
-## **COMPONENTE CURRICULAR:** 
+## **CARGA HORÁRIA:**
 
-Comunicação Empresarial 
+40 Hora/aula e 33 Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+**EMENTA:**
 
-40 Hora/aula e 33 Hora/relógio (60 min) 
+- Cultura e comunicação organizacional.
 
-**EMENTA:** 
+- Elementos da Comunicação e funções da linguagem.
 
-- Cultura e comunicação organizacional. 
+- Comunicação Interna e Externa; Comunicação e gestão estratégica.
 
-- Elementos da Comunicação e funções da linguagem. 
+- Gêneros discursivos da esfera empresarial.
 
-- Comunicação Interna e Externa; Comunicação e gestão estratégica. 
+- Norma padrão da língua portuguesa.
 
-- Gêneros discursivos da esfera empresarial. 
+## **BIBLIOGRAFIA BÁSICA:**
 
-- Norma padrão da língua portuguesa. 
+LUIZARI, Kátia. **Comunicação empresarial eficaz: como falar e escrever bem** . Curitiba: Ibpex, 2010. 211 p. ISBN 9788578387808 (broch.).
 
-## **BIBLIOGRAFIA BÁSICA:** 
+MARTINS, Dileta Silveira; ZILBERKNOP, Lúbia Scliar. **Português instrumental: de acordo com as atuais normas da ABNT** . 29. ed. São Paulo: Atlas, 2010. 560 p. ISBN 9788522457229 (broch.). MATOS, Gustavo Gomes de. **Comunicação empresarial sem complicação: como facilitar a comunicação na empresa, pela via da cultura e do diálogo** . 3. ed. rev. e ampl. São Paulo: Manole, 2014. 207 p. ISBN 9788520439968 (broch.).
 
-LUIZARI, Kátia. **Comunicação empresarial eficaz: como falar e escrever bem** . Curitiba: Ibpex, 2010. 211 p. ISBN 9788578387808 (broch.). 
+PIMENTA, Maria Alzira. **Comunicação empresarial** . 7. ed. São Paulo: Alínea, 2010. 223 p. ISBN 9788575164174 (broch.).
 
-MARTINS, Dileta Silveira; ZILBERKNOP, Lúbia Scliar. **Português instrumental: de acordo com as atuais normas da ABNT** . 29. ed. São Paulo: Atlas, 2010. 560 p. ISBN 9788522457229 (broch.). MATOS, Gustavo Gomes de. **Comunicação empresarial sem complicação: como facilitar a comunicação na empresa, pela via da cultura e do diálogo** . 3. ed. rev. e ampl. São Paulo: Manole, 2014. 207 p. ISBN 9788520439968 (broch.). 
+TOMASI, Carolina; MEDEIROS, João Bosco. **Comunicação empresarial** . 4. ed. São Paulo: Atlas, 2014. 445 p. ISBN 9788522487660 (broch.).
 
-PIMENTA, Maria Alzira. **Comunicação empresarial** . 7. ed. São Paulo: Alínea, 2010. 223 p. ISBN 9788575164174 (broch.). 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-TOMASI, Carolina; MEDEIROS, João Bosco. **Comunicação empresarial** . 4. ed. São Paulo: Atlas, 2014. 445 p. ISBN 9788522487660 (broch.). 
+CASTELLS, Manuel. A **era da informação: economia, sociedade e cultura** . Vol. 1: Sociedade em Rede. São Paulo: Paz e Terra, 1999.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+CHINEM, Rivaldo. **Introdução à comunicação empresarial** . São Paulo: Saraiva, 2010. 108 p. ISBN 9788502095410 (broch.).
 
-CASTELLS, Manuel. A **era da informação: economia, sociedade e cultura** . Vol. 1: Sociedade em Rede. São Paulo: Paz e Terra, 1999. 
+KUNSCH, Margarida Maria Krohling (Org.). **A comunicação como fator de humanização das organizações** . 1. ed. São Caetano do Sul: Difusão, 2010. 253 p. (Série pensamento e prática ; 3). ISBN 9788578080723 (broch.).
 
-CHINEM, Rivaldo. **Introdução à comunicação empresarial** . São Paulo: Saraiva, 2010. 108 p. ISBN 9788502095410 (broch.). 
+LOPES, Boanerges (Org.). **Comunicação empresarial: transformações e tendências** . Rio de Janeiro: Mauad X, 2010. 173 p.
 
-KUNSCH, Margarida Maria Krohling (Org.). **A comunicação como fator de humanização das organizações** . 1. ed. São Caetano do Sul: Difusão, 2010. 253 p. (Série pensamento e prática ; 3). ISBN 9788578080723 (broch.). 
+MOSCOVICI, Fela. “ **Desenvolvimento Interpessoal** ”. Livros Técnicos e Científicos, Rio de Janeiro, 1975.
 
-LOPES, Boanerges (Org.). **Comunicação empresarial: transformações e tendências** . Rio de Janeiro: Mauad X, 2010. 173 p. 
+28
 
-MOSCOVICI, Fela. “ **Desenvolvimento Interpessoal** ”. Livros Técnicos e Científicos, Rio de Janeiro, 1975. 
+## **COMPONENTE CURRICULAR:**
 
-28 
+Fundamentos de Direito
 
-## **COMPONENTE CURRICULAR:** 
+## **CARGA HORÁRIA:**
 
-Fundamentos de Direito 
+40 Hora/aula e 34 Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-40 Hora/aula e 34 Hora/relógio (60 min) 
+- O ordenamento jurídico e a Lei  - Abordagens Preliminares.
 
-## **EMENTA:** 
+- Instituições de Direito Público e Privado: O Estado, a Sociedade e seu regramento.
 
-- O ordenamento jurídico e a Lei  - Abordagens Preliminares. 
+- Lições Jurídicas Introdutórias ao Direito Constitucional, ao Direito Administrativo, ao Direito Civil e ao Direito do Consumidor.
 
-- Instituições de Direito Público e Privado: O Estado, a Sociedade e seu regramento. 
+## **BIBLIOGRAFIABÁSICA:**
 
-- Lições Jurídicas Introdutórias ao Direito Constitucional, ao Direito Administrativo, ao Direito Civil e ao Direito do Consumidor. 
+COTRIM, Gilberto. **Direito Fundamental:** Instituições de Direito Público e Privado. 23 3 ed. São Paulo: Saraiva 2009.
 
-## **BIBLIOGRAFIABÁSICA:** 
+DOWER, Nelson Godoy Bassil. **Instituições de Direito Público e Privado** . 15 ed. Saraiva, 2017
 
-COTRIM, Gilberto. **Direito Fundamental:** Instituições de Direito Público e Privado. 23 3 ed. São Paulo: Saraiva 2009. 
+FUHRER, Maximilianus C. A.; FUHRER, Édis M. **Manual de Direito Público e Privado** . 20 ed. São Paulo: Revista dos Tribunais, 2015.
 
-DOWER, Nelson Godoy Bassil. **Instituições de Direito Público e Privado** . 15 ed. Saraiva, 2017 
+MARTINS, Sérgio P. **Instituições de Direito Público e Privado** . 17 ed. São Paulo: Atlas, 2017.
 
-FUHRER, Maximilianus C. A.; FUHRER, Édis M. **Manual de Direito Público e Privado** . 20 ed. São Paulo: Revista dos Tribunais, 2015. 
+NUNES, Rizatto. **Manual de Introdução ao Estudo do Direito** . 15. ed., Saraiva: 2018.
 
-MARTINS, Sérgio P. **Instituições de Direito Público e Privado** . 17 ed. São Paulo: Atlas, 2017. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-NUNES, Rizatto. **Manual de Introdução ao Estudo do Direito** . 15. ed., Saraiva: 2018. 
+DI PIETRO, Maria Sylvia Zanella. **Direito administrativo. 30** .ed. São Paulo: Atlas, 2017.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+GAGLIANO, Pablo Stolze; PAMPLONA FILHO, Rodolfo. **Novo curso de direito civil:** contratos : teoria geral. 16. ed. rev., atual. e ampl. São Paulo: Saraiva, 2015.
 
-DI PIETRO, Maria Sylvia Zanella. **Direito administrativo. 30** .ed. São Paulo: Atlas, 2017. 
+LENZA, Pedro. **Direito Constitucional esquematizado.** 21. ed. rev., atual. e ampl. São Paulo: Saraiva, 2017.
 
-GAGLIANO, Pablo Stolze; PAMPLONA FILHO, Rodolfo. **Novo curso de direito civil:** contratos : teoria geral. 16. ed. rev., atual. e ampl. São Paulo: Saraiva, 2015. 
+MORAES, Alexandre de. **Direito Constitucional** . 33 ed. São Paulo: Atlas, 2017.
 
-LENZA, Pedro. **Direito Constitucional esquematizado.** 21. ed. rev., atual. e ampl. São Paulo: Saraiva, 2017. 
+VENOSA, Sílvio de Salvo. **Introdução ao estudo do direito:** primeiras linhas. 5. ed. São Paulo: Atlas, 2016.
 
-MORAES, Alexandre de. **Direito Constitucional** . 33 ed. São Paulo: Atlas, 2017. 
+29
 
-VENOSA, Sílvio de Salvo. **Introdução ao estudo do direito:** primeiras linhas. 5. ed. São Paulo: Atlas, 2016. 
+## **COMPONENTE CURRICULAR:**
 
-29 
+Fundamentos da economia
 
-## **COMPONENTE CURRICULAR:** 
+## **CARGA HORÁRIA:**
 
-Fundamentos da economia 
+40 Hora/aula e  33 Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-40 Hora/aula e  33 Hora/relógio (60 min) 
+- Síntese da evolução do pensamento econômico.
 
-## **EMENTA:** 
+- Aspectos gerais da teoria econômica.
 
-- Síntese da evolução do pensamento econômico. 
+- O processo produtivo.
 
-- Aspectos gerais da teoria econômica. 
+- Sistemas econômicos.
 
-- O processo produtivo. 
+- Análise microeconômica: mercado, oferta, demanda, elasticidade  e preços.
 
-- Sistemas econômicos. 
+- Fundamentos da Microeconomia  e da Macroeconomia: políticas econômicas
 
-- Análise microeconômica: mercado, oferta, demanda, elasticidade  e preços. 
+## **BIBLIOGRAFIA BÁSICA:**
 
-- Fundamentos da Microeconomia  e da Macroeconomia: políticas econômicas 
+PASSOS; NOGAMI. Princípios de Economia. 5ª ed., 2011.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+SOUZA, N.J. Economia Básica. São Paulo: Atlas, 1ª ed., 2012.
 
-PASSOS; NOGAMI. Princípios de Economia. 5ª ed., 2011. 
+VICECONTI; NEVES. Introdução à Economia. Editora saraiva, 1ª ed., 2012.
 
-SOUZA, N.J. Economia Básica. São Paulo: Atlas, 1ª ed., 2012. 
+ROSSETI, Jose P. Introdução a Economia. 17ª ed. São Paulo, Atlas. 1997.
 
-VICECONTI; NEVES. Introdução à Economia. Editora saraiva, 1ª ed., 2012. 
+LEITE, J. A. Macroeconomia: teoria, modelos e instrumentos de política econômica. São Paulo, Atlas, 1996.
 
-ROSSETI, Jose P. Introdução a Economia. 17ª ed. São Paulo, Atlas. 1997. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-LEITE, J. A. Macroeconomia: teoria, modelos e instrumentos de política econômica. São Paulo, Atlas, 1996. 
+TROSTER, Roberto Luis & MOCHÓN, Francisco. Introdução à economia. São Paulo: Makron Books,1999.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+GAROFALO, G. de L; CARVALHO, L. C. Microeconomia. São Paulo, Atlas, 1996.
 
-TROSTER, Roberto Luis & MOCHÓN, Francisco. Introdução à economia. São Paulo: Makron Books,1999. 
+GUIMARÃES, S. Economia & Mercado: introdução a economia e ao marketing. São Paulo, Ática, 1991. PINDICK, Robert S., RUBINFELD, Daniel L. Microeconomia. 5ª ed. São Paulo: Prentice Hall, 2002.
 
-GAROFALO, G. de L; CARVALHO, L. C. Microeconomia. São Paulo, Atlas, 1996. 
+VASCONCELLOS, Marco A. Sandoval & GARCIA, Manuel E. Fundamentos de economia. São Paulo: Saraiva, 1998.
 
-GUIMARÃES, S. Economia & Mercado: introdução a economia e ao marketing. São Paulo, Ática, 1991. PINDICK, Robert S., RUBINFELD, Daniel L. Microeconomia. 5ª ed. São Paulo: Prentice Hall, 2002. 
+30
 
-VASCONCELLOS, Marco A. Sandoval & GARCIA, Manuel E. Fundamentos de economia. São Paulo: Saraiva, 1998. 
+## **COMPONENTE CURRICULAR:**
 
-30 
+Comportamento Organizacional
 
-## **COMPONENTE CURRICULAR:** 
+## **CARGA HORÁRIA:**
 
-Comportamento Organizacional 
+80 Hora/aula e 67 Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-80 Hora/aula e 67 Hora/relógio (60 min) 
+A psicologia como campo do conhecimento. A constituição da subjetividade. Significado do trabalho na sociedade contemporânea. Aspectos psicossociais do trabalho promoção de saúde e sofrimento. Relações interpessoais: poder, motivação e liderança. Comportamento organizacional: comunicação, grupos e equipes, gerenciamento de conflitos. Diversidade cultural nas organizações.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA BÁSICA:**
 
-A psicologia como campo do conhecimento. A constituição da subjetividade. Significado do trabalho na sociedade contemporânea. Aspectos psicossociais do trabalho promoção de saúde e sofrimento. Relações interpessoais: poder, motivação e liderança. Comportamento organizacional: comunicação, grupos e equipes, gerenciamento de conflitos. Diversidade cultural nas organizações. 
+BOCK, A. M. B.; FURTADO, O.; TEIXEIRA, M. L. Psicologias: uma introdução ao estudo de psicologia.13. ed. São Paulo: Saraiva, 2002.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+CHANLAT, J.-F. O Indivíduo na Organização. Vol.III. 3 ed. São Paulo: Atlas, 1996. DEJOURS, C.; ABDOUCHELI, E.; JAYET, C. Psicodinâmica do trabalho: contribuições da escola dejouriana à análise da relação prazer, sofrimento e trabalho.São Paulo: Atlas, 2011. TORRES, C. V.; NEBRA, A. R. P. Diversidade cultural no contexto organizacional. In.: Psicologia, Organização e Trabalho no Brasil. Artmed, 2004.
 
-BOCK, A. M. B.; FURTADO, O.; TEIXEIRA, M. L. Psicologias: uma introdução ao estudo de psicologia.13. ed. São Paulo: Saraiva, 2002. 
+ZANELLI, J. C., BORGES-ANDRADE, J. E. & BASTOS, A. V. B. Psicologia, organizações e trabalho no Brasil. Porto Alegre: Artmed, 2004.
 
-CHANLAT, J.-F. O Indivíduo na Organização. Vol.III. 3 ed. São Paulo: Atlas, 1996. DEJOURS, C.; ABDOUCHELI, E.; JAYET, C. Psicodinâmica do trabalho: contribuições da escola dejouriana à análise da relação prazer, sofrimento e trabalho.São Paulo: Atlas, 2011. TORRES, C. V.; NEBRA, A. R. P. Diversidade cultural no contexto organizacional. In.: Psicologia, Organização e Trabalho no Brasil. Artmed, 2004. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-ZANELLI, J. C., BORGES-ANDRADE, J. E. & BASTOS, A. V. B. Psicologia, organizações e trabalho no Brasil. Porto Alegre: Artmed, 2004. 
+MOSCOVICI, Fela. “ **Desenvolvimento Interpessoal** ”. Livros Técnicos e Científicos, Rio de Janeiro, 1975.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+DEL PRETTE, Z. A. P.; DEL PRETTE, A.Psicologia das habilidades sociais: terapia, educação e trabalho.
 
-MOSCOVICI, Fela. “ **Desenvolvimento Interpessoal** ”. Livros Técnicos e Científicos, Rio de Janeiro, 1975. 
+JACQUES, M. G.; CODO, W. Saúde mental e trabalho: leituras. Petrópolis: Vozes, 2002.
 
-DEL PRETTE, Z. A. P.; DEL PRETTE, A.Psicologia das habilidades sociais: terapia, educação e trabalho. 
+MOSCOVICI, F. Desenvolvimento Interpessoal: treinamento em grupo. 8 ed. Rio de Janeiro: José Olympio, 1998.
 
-JACQUES, M. G.; CODO, W. Saúde mental e trabalho: leituras. Petrópolis: Vozes, 2002. 
+ZANELLI, J. C. & SILVA, N. Interação Humana e Gestão: a construção psicossocial das organizações de trabalho **.** São Paulo: Casa do Psicólogo, 2008.
 
-MOSCOVICI, F. Desenvolvimento Interpessoal: treinamento em grupo. 8 ed. Rio de Janeiro: José Olympio, 1998. 
+31
 
-ZANELLI, J. C. & SILVA, N. Interação Humana e Gestão: a construção psicossocial das organizações de trabalho **.** São Paulo: Casa do Psicólogo, 2008. 
+## **COMPONENTE CURRICULAR:**
 
-31 
+Matemática
 
-## **COMPONENTE CURRICULAR:** 
+## **CARGA HORÁRIA:**
 
-Matemática 
+80 Hora/aula e 67 Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-80 Hora/aula e 67 Hora/relógio (60 min) 
+Juros simples, montante, taxas equivalentes, valor nominal e valor atual em regime de juros simples; Desconto racional simples, desconto comercial, relação entre taxa de juros simples e a taxa de desconto em regime de juros simples; Juros compostos, montante, taxas equivalentes, valor atual e valor nominal em regime de juros compostos; Planos de amortização de empréstimos e sistema de amortização constante;
 
-## **EMENTA:** 
+## BIBLIOGRAFIA BÁSICA:
 
-Juros simples, montante, taxas equivalentes, valor nominal e valor atual em regime de juros simples; Desconto racional simples, desconto comercial, relação entre taxa de juros simples e a taxa de desconto em regime de juros simples; Juros compostos, montante, taxas equivalentes, valor atual e valor nominal em regime de juros compostos; Planos de amortização de empréstimos e sistema de amortização constante; 
+CRESPO, Antônio Arnot. **Matemática Comercial e Financeira Fácil** . 13. ed. São Paulo: Saraiva, 2001.
 
-## BIBLIOGRAFIA BÁSICA: 
+FARIA, Rogério Gomes de. **Matemática Comercial e Financeira** . 5. ed. São Paulo: Makron, 2000. PUCCINI, Abelardo de Lima. **Matemática Financeira** : Objetiva e Aplicada. 7. ed. São Paulo: Saraiva, 2008.
 
-CRESPO, Antônio Arnot. **Matemática Comercial e Financeira Fácil** . 13. ed. São Paulo: Saraiva, 2001. 
+SPINELLI, Walter; SOUZA, M. Helena S. **Matemática Comercial e Financeira** . 14. ed. São Paulo: Ática, 2002.
 
-FARIA, Rogério Gomes de. **Matemática Comercial e Financeira** . 5. ed. São Paulo: Makron, 2000. PUCCINI, Abelardo de Lima. **Matemática Financeira** : Objetiva e Aplicada. 7. ed. São Paulo: Saraiva, 2008. 
+MATARAZZO, Dante Carmine. **Análise financeira de balanço: abordagem básica** e **gerencial** . 6. ed. São Paulo: Atlas, 2008
 
-SPINELLI, Walter; SOUZA, M. Helena S. **Matemática Comercial e Financeira** . 14. ed. São Paulo: Ática, 2002. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-MATARAZZO, Dante Carmine. **Análise financeira de balanço: abordagem básica** e **gerencial** . 6. ed. São Paulo: Atlas, 2008 
+CASTANHEIRA, Nelson. **Matemática Financeira Aplicada.** Curitiba, IBPEX, 2007.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+CASTANHEIRA, Nelson. **Noções Básicas de Matemática Comercial e Financeira** . 2. ed. Curitiba: IBPEX, 2008. SPINELLI, Walter, SOUZA, Maria Helena Soares de. **Matemática Comercial e Financeira** . São Paulo: Ática, 2004. MARTINS, Eliseu. **Contabilidade de custos – inclui o ABC** . 6ª ed., São Paulo, Atlas, 1998. SILVA, Lino Martins. **Contabilidade governamental: um enfoque administrativo** . 3.ed. São Paulo: Atlas, 1993
 
-CASTANHEIRA, Nelson. **Matemática Financeira Aplicada.** Curitiba, IBPEX, 2007. 
+32
 
-CASTANHEIRA, Nelson. **Noções Básicas de Matemática Comercial e Financeira** . 2. ed. Curitiba: IBPEX, 2008. SPINELLI, Walter, SOUZA, Maria Helena Soares de. **Matemática Comercial e Financeira** . São Paulo: Ática, 2004. MARTINS, Eliseu. **Contabilidade de custos – inclui o ABC** . 6ª ed., São Paulo, Atlas, 1998. SILVA, Lino Martins. **Contabilidade governamental: um enfoque administrativo** . 3.ed. São Paulo: Atlas, 1993 
+## **COMPONENTE CURRICULAR:**
 
-32 
+Ética e Cidadania
 
-## **COMPONENTE CURRICULAR:** 
+## **CARGA HORÁRIA:**
 
-Ética e Cidadania 
+40 Hora/aula e 33 Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-40 Hora/aula e 33 Hora/relógio (60 min) 
+Conceitos fundamentais para a compreensão da ética; Valores, profissão e ética; Conduta ética; Ética na relação da organização com seus _stakeholders_ ; Iniciativas ambientais influenciam a cultura organizacional; Ética profissional; Gestão da reputação do profissional; Código de ética empresarial; O processo de comunicação: interferências e questões éticas envolvidas; Comunicação interpessoal; Aspectos fundamentais da liderança nas relações interpessoais; Diversidades no ambiente de trabalho e o papel da liderança; Mitos do papel da liderança; Valorização da diversidade no convívio social e profissional; Energia na equipe: tensão e conflito interpessoal; relações interpessoais e a conduta ética profissional; Relações Étnico-Raciais, História e Cultura Afro-brasileira e Indígena. Responsabilidade Social. Debates sobre temáticas de Gênero, Educação ambiental e processos de envelhecimento.
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA BÁSICA:**
 
-Conceitos fundamentais para a compreensão da ética; Valores, profissão e ética; Conduta ética; Ética na relação da organização com seus _stakeholders_ ; Iniciativas ambientais influenciam a cultura organizacional; Ética profissional; Gestão da reputação do profissional; Código de ética empresarial; O processo de comunicação: interferências e questões éticas envolvidas; Comunicação interpessoal; Aspectos fundamentais da liderança nas relações interpessoais; Diversidades no ambiente de trabalho e o papel da liderança; Mitos do papel da liderança; Valorização da diversidade no convívio social e profissional; Energia na equipe: tensão e conflito interpessoal; relações interpessoais e a conduta ética profissional; Relações Étnico-Raciais, História e Cultura Afro-brasileira e Indígena. Responsabilidade Social. Debates sobre temáticas de Gênero, Educação ambiental e processos de envelhecimento. 
+ASHLEY, Patricia Almeida (Coord.). **Ética e responsabilidade social nos negócios.** 2. ed. São Paulo: Saraiva, 2005.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+CHIAVENATO, Idalberto. **Administração de recursos humanos:** fundamentos básicos. 5 e. São Paulo: Atlas, 2003.
 
-ASHLEY, Patricia Almeida (Coord.). **Ética e responsabilidade social nos negócios.** 2. ed. São Paulo: Saraiva, 2005. 
+MACEDO, Ivanildo Izaias de. **Aspectos comportamentais da gestão de pessoas.** 9. ed. Rio de Janeiros: Editora FGV, 2007
 
-CHIAVENATO, Idalberto. **Administração de recursos humanos:** fundamentos básicos. 5 e. São Paulo: Atlas, 2003. 
+PIOVAN, Ricardo. **Resiliência:** como superar pressões e adversidades no trabalho. São Paulo: Reino editorial, 2010.
 
-MACEDO, Ivanildo Izaias de. **Aspectos comportamentais da gestão de pessoas.** 9. ed. Rio de Janeiros: Editora FGV, 2007 
+STADLER, Adriano (org) Empreendedorismo e Responsabilidade Social. Editora Intersaberes 2014.
 
-PIOVAN, Ricardo. **Resiliência:** como superar pressões e adversidades no trabalho. São Paulo: Reino editorial, 2010. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-STADLER, Adriano (org) Empreendedorismo e Responsabilidade Social. Editora Intersaberes 2014. 
+ALENCASTRO, Mario Sergio Cunha. **Ética empresarial na prática:** liderança, gestão e responsabilidade corporativa. Curitiba: Ibpex, 2010.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+MARCÍLIO, M. L. e RAMOS, E. L. (1997). Ética na Virada do Século. São Paulo: LTr.
 
-ALENCASTRO, Mario Sergio Cunha. **Ética empresarial na prática:** liderança, gestão e responsabilidade corporativa. Curitiba: Ibpex, 2010. 
+PINSKY, J. (1998). Cidadania e Educação. São Paulo: Editora Contexto.
 
-MARCÍLIO, M. L. e RAMOS, E. L. (1997). Ética na Virada do Século. São Paulo: LTr. 
+CHAUÍ, M. (1998). Convite à filosofia. São Paulo: Ática.
 
-PINSKY, J. (1998). Cidadania e Educação. São Paulo: Editora Contexto. 
+DIMENSTEIN, G. (1994). Como não ser enganado nas eleições. São Paulo: Editora Ática, 2ª edição.
 
-CHAUÍ, M. (1998). Convite à filosofia. São Paulo: Ática. 
+33
 
-DIMENSTEIN, G. (1994). Como não ser enganado nas eleições. São Paulo: Editora Ática, 2ª edição. 
+## 2.7.2 MÓDULO 2
 
-33 
+## **COMPONENTE CURRICULAR:**
 
-## 2.7.2 MÓDULO 2 
+Gestão da Produção
 
-## **COMPONENTE CURRICULAR:** 
+## **CARGA HORÁRIA:**
 
-Gestão da Produção 
+80 Hora/aula e 67 Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-80 Hora/aula e 67 Hora/relógio (60 min) 
+- Aspectos históricos e contemporâneos da gestão da produção;
 
-## **EMENTA:** 
+- Ferramentas da gestão da produção;
 
-- Aspectos históricos e contemporâneos da gestão da produção; 
+- Estratégia e produtividade;
 
-- Ferramentas da gestão da produção; 
+- Produtividade e competitividade;
 
-- Estratégia e produtividade; 
+- As pessoas na gestão da produção
 
-- Produtividade e competitividade; 
+- Novos desafios da gestão da produção.
 
-- As pessoas na gestão da produção 
+## **BIBLIOGRAFIA BÁSICA:**
 
-- Novos desafios da gestão da produção. 
+CORRÊA, Henrique; CORRÊA, Carlos A. **Administração da produção e de operações (manufatura e serviços)** : uma abordagem estratégica. 2. ed. São Paulo: Atlas, 2009.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+JACOBS, F. Robert; CHANCE, Richard B. **Administração da produção e de operações** : o essencial. Porto Alegre: Bookman, 2009.
 
-CORRÊA, Henrique; CORRÊA, Carlos A. **Administração da produção e de operações (manufatura e serviços)** : uma abordagem estratégica. 2. ed. São Paulo: Atlas, 2009. 
+SLACK, Nigel ; JOHNSON, Robert; CHAMBERS, Stuart. **Administração da Produção** . 3. ed. São Paulo: Atlas, 2009.
 
-JACOBS, F. Robert; CHANCE, Richard B. **Administração da produção e de operações** : o essencial. Porto Alegre: Bookman, 2009. 
+RITZMAN, Larry P.; KAJEWSKI, Lee; MALHORTA, Manoj. **Administração da produção e operações** . São Paulo: Prentice Hall, 2009.
 
-SLACK, Nigel ; JOHNSON, Robert; CHAMBERS, Stuart. **Administração da Produção** . 3. ed. São Paulo: Atlas, 2009. 
+CHASE, Richard B.; AQUILANO, Nicholas J.; JACOBS, F. Robert. **Administração da produção e operações** : para vantagens competitivas. São Paulo: McGraw Hill, 2006.
 
-RITZMAN, Larry P.; KAJEWSKI, Lee; MALHORTA, Manoj. **Administração da produção e operações** . São Paulo: Prentice Hall, 2009. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-CHASE, Richard B.; AQUILANO, Nicholas J.; JACOBS, F. Robert. **Administração da produção e operações** : para vantagens competitivas. São Paulo: McGraw Hill, 2006. 
+ARAÚJO, Marco Antonio de. **Administração de produção e operações** . Rio de Janeiro: Brasport, 2009. LAMMING, Richard; BROWN, Steven; JONES, Peter. **Administração de produção e operações** . Rio de Janeiro: Campus, 2005. MARTINS, Petrônio G.; LAUGENI, Fernando P. **Administração da produção** . São Paulo: Saraiva, 2005. MOREIRA, Daniel Augusto. **Administração da produção e operações** . São Paulo: Cengage, 2008. DIAS, Marco Aurélio Pereira. **Administração de materiais** – uma abordagem logística. 4. ed. São Paulo: Atlas, 1993.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+34
 
-ARAÚJO, Marco Antonio de. **Administração de produção e operações** . Rio de Janeiro: Brasport, 2009. LAMMING, Richard; BROWN, Steven; JONES, Peter. **Administração de produção e operações** . Rio de Janeiro: Campus, 2005. MARTINS, Petrônio G.; LAUGENI, Fernando P. **Administração da produção** . São Paulo: Saraiva, 2005. MOREIRA, Daniel Augusto. **Administração da produção e operações** . São Paulo: Cengage, 2008. DIAS, Marco Aurélio Pereira. **Administração de materiais** – uma abordagem logística. 4. ed. São Paulo: Atlas, 1993. 
+## **COMPONENTE CURRICULAR:**
 
-34 
+Gestão da Qualidade
 
-## **COMPONENTE CURRICULAR:** 
+## **CARGA HORÁRIA:**
 
-Gestão da Qualidade 
+40 Hora/aula e 33 Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-40 Hora/aula e 33 Hora/relógio (60 min) 
+- Aspectos básicos e contemporâneos da gestão da qualidade;
 
-## **EMENTA:** 
+- Processos, agentes da qualidade e ferramentas gerenciais;
 
-- Aspectos básicos e contemporâneos da gestão da qualidade; 
+- Ambientes de atuação da gestão da qualidade;
 
-- Processos, agentes da qualidade e ferramentas gerenciais; 
+- Métodos de prevenção e solução de problemas;
 
-- Ambientes de atuação da gestão da qualidade; 
+- Normalização;
 
-- Métodos de prevenção e solução de problemas; 
+- Gestão para a excelência.
 
-- Normalização; 
+## **BIBLIOGRAFIA BÁSICA:**
 
-- Gestão para a excelência. 
+CARPINETTI, L. C. R. **Gestão da Qualidade:** Conceitos e Técnicas. 2ª ed. São Paulo: Atlas, 2012.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+JURAN, J. M. **A Qualidade desde o Projeto:** Novos Passos para o Planejamento da Qualidade em Produtos e Serviços. São Paulo: Cengage Learning, 2009.
 
-CARPINETTI, L. C. R. **Gestão da Qualidade:** Conceitos e Técnicas. 2ª ed. São Paulo: Atlas, 2012. 
+PALADINI, E. P. **Gestão da qualidade** : teoria e prática. São Paulo: Atlas, 2004.
 
-JURAN, J. M. **A Qualidade desde o Projeto:** Novos Passos para o Planejamento da Qualidade em Produtos e Serviços. São Paulo: Cengage Learning, 2009. 
+PALADINI, E. P. **Avaliação estratégica da qualidade** . São Paulo: Atlas, 2002.
 
-PALADINI, E. P. **Gestão da qualidade** : teoria e prática. São Paulo: Atlas, 2004. 
+MOREIRA, Daniel Augusto. **Administração da produção e operações** . São Paulo: Cengage, 2008.
 
-PALADINI, E. P. **Avaliação estratégica da qualidade** . São Paulo: Atlas, 2002. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-MOREIRA, Daniel Augusto. **Administração da produção e operações** . São Paulo: Cengage, 2008. 
+AGUIAR, S.. **Integração das ferramentas da qualidade ao PDCA e ao programa seis sigma.** Nova Lima: INDG, 2006.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+BALLESTERO-ALVAREZ, M. E. **Administração da qualidade e da produtividade:** abordagem do processo administrativo. São Paulo: Atlas, 2001.
 
-AGUIAR, S.. **Integração das ferramentas da qualidade ao PDCA e ao programa seis sigma.** Nova Lima: INDG, 2006. 
+CARVALHO, M. M.; PALADINI, E. P. (Coord.). **Gestão da qualidade** : teoria e casos. Rio de Janeiro: Elsevier, 2006.
 
-BALLESTERO-ALVAREZ, M. E. **Administração da qualidade e da produtividade:** abordagem do processo administrativo. São Paulo: Atlas, 2001. 
+CARPINETTI, L. C. R.. MIGUEL, P. A. C.. GEROLAMO, M. C. **Gestão da qualidade ISO 9001:2009** : princípios e requisitos. 2. ed. São Paulo: Atlas, 2009.
 
-CARVALHO, M. M.; PALADINI, E. P. (Coord.). **Gestão da qualidade** : teoria e casos. Rio de Janeiro: Elsevier, 2006. 
+DEMING, W. E. **Qualidade** : a revolução da administração. Rio de Janeiro. Saraiva, 1990.
 
-CARPINETTI, L. C. R.. MIGUEL, P. A. C.. GEROLAMO, M. C. **Gestão da qualidade ISO 9001:2009** : princípios e requisitos. 2. ed. São Paulo: Atlas, 2009. 
+OHNO, T. _**O Sistema Toyota de Produção**_ : além da produção em larga escala. Porto Alegre: Bookman, 1997. 149 p.
 
-DEMING, W. E. **Qualidade** : a revolução da administração. Rio de Janeiro. Saraiva, 1990. 
+35
 
-OHNO, T. _**O Sistema Toyota de Produção**_ : além da produção em larga escala. Porto Alegre: Bookman, 1997. 149 p. 
+## **COMPONENTE CURRICULAR:**
 
-35 
+Direito Empresarial
 
-## **COMPONENTE CURRICULAR:** 
+## **CARGA HORÁRIA:**
 
-Direito Empresarial 
+40 Hora/aula e 33 Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-40 Hora/aula e 33 Hora/relógio (60 min) 
+- Fundamentos do Direito Empresarial.
 
-## **EMENTA:** 
+- Empresa, Empresário e Estabelecimento.
 
-- Fundamentos do Direito Empresarial. 
+- Obrigações do empresário.
 
-- Empresa, Empresário e Estabelecimento. 
+- Proteção ao estabelecimento comercial.
 
-- Obrigações do empresário. 
+- Locação empresarial.
 
-- Proteção ao estabelecimento comercial. 
+- Sociedades empresárias.
 
-- Locação empresarial. 
+- Títulos de crédito.
 
-- Sociedades empresárias. 
+## **BIBLIOGRAFIA BÁSICA:**
 
-- Títulos de crédito. 
+COELHO, Fábio Ulhoa. Manual de Direito Comercial – Direito da Empresa. 27 ed. São Paulo: Saraiva, 2015.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+MARTINS, Fran. Títulos de Crédito.  13 ed. São Paulo: Saraiva, 2008.
 
-COELHO, Fábio Ulhoa. Manual de Direito Comercial – Direito da Empresa. 27 ed. São Paulo: Saraiva, 2015. 
+COELHO, Fábio Ulhoa. Curso de Direito Comercial - Volume I - Empresa e Estabelecimento - Títulos de Crédito. 20ª Ed., São Paulo: Saraiva, 2016.
 
-MARTINS, Fran. Títulos de Crédito.  13 ed. São Paulo: Saraiva, 2008. 
+COELHO, Fábio Ulhoa. Curso de Direito Comercial - Volume II - Direito de Empresa, 20ª Ed., São Paulo: Saraiva, 2016.
 
-COELHO, Fábio Ulhoa. Curso de Direito Comercial - Volume I - Empresa e Estabelecimento - Títulos de Crédito. 20ª Ed., São Paulo: Saraiva, 2016. 
+DI PIETRO, Maria Sylvia Zanella. **Direito administrativo. 30** .ed. São Paulo: Atlas, 2017.
 
-COELHO, Fábio Ulhoa. Curso de Direito Comercial - Volume II - Direito de Empresa, 20ª Ed., São Paulo: Saraiva, 2016. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-DI PIETRO, Maria Sylvia Zanella. **Direito administrativo. 30** .ed. São Paulo: Atlas, 2017. 
+SOUZA, Carlos Gustavo de. Direito de Empresa – Organização e Estruturas Societárias. 3 ed. Rio de Janeiro: LFB, 2009.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+MIRANDA, Maria Bernadete. Curso Teórico e Prático de Direito Empresarial. 1 ed. São Paulo: GZ Editora, 2010.
 
-SOUZA, Carlos Gustavo de. Direito de Empresa – Organização e Estruturas Societárias. 3 ed. Rio de Janeiro: LFB, 2009. 
+GUSMÃO, Mônica. Lições e Direito Empresarial. 10 ed. São Paulo: Lumen Juris, 2011.
 
-MIRANDA, Maria Bernadete. Curso Teórico e Prático de Direito Empresarial. 1 ed. São Paulo: GZ Editora, 2010. 
+LIPPERT, Márcia Mallmann. A Empresa no Código Civil. 2 ed. São Paulo: Revista dos Tribunais, 2007.
 
-GUSMÃO, Mônica. Lições e Direito Empresarial. 10 ed. São Paulo: Lumen Juris, 2011. 
+LENZA, Pedro. **Direito Constitucional esquematizado.** 21. ed. rev., atual. e ampl. São Paulo: Saraiva, 2017.
 
-LIPPERT, Márcia Mallmann. A Empresa no Código Civil. 2 ed. São Paulo: Revista dos Tribunais, 2007. 
+36
 
-LENZA, Pedro. **Direito Constitucional esquematizado.** 21. ed. rev., atual. e ampl. São Paulo: Saraiva, 2017. 
+## **COMPONENTE CURRICULAR:**
 
-36 
+Logística Empresarial
 
-## **COMPONENTE CURRICULAR:** 
+## **CARGA HORÁRIA:**
 
-Logística Empresarial 
+80 Hora/aula e 67 Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-80 Hora/aula e 67 Hora/relógio (60 min) 
+- Conceitos Básicos de Logística
 
-## **EMENTA:** 
+- Custos Logísticos e Nível de Serviço
 
-- Conceitos Básicos de Logística 
+- Modelos de Previsão de Demanda
 
-- Custos Logísticos e Nível de Serviço 
+- Modelos de Gestão de Estoques
 
-- Modelos de Previsão de Demanda 
+- Modelos de Localização de Facilidades
 
-- Modelos de Gestão de Estoques 
+- Armazenagem e Sistemas de Distribuição Física de Produtos
 
-- Modelos de Localização de Facilidades 
+- Roteirização de Veículos
 
-- Armazenagem e Sistemas de Distribuição Física de Produtos 
+- Sistemas de Estoque Gerenciado pelo Fornecedor
 
-- Roteirização de Veículos 
+- Tópicos em Logística Reversa
 
-- Sistemas de Estoque Gerenciado pelo Fornecedor 
+## **BIBLIOGRAFIA BÁSICA:**
 
-- Tópicos em Logística Reversa 
+BALLOU, R. H. (2006). Gerenciamento da Cadeia de Suprimentos/ Logística Empresarial. 5ª Edição. Bookman. Porto Alegre.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+CHOPRA, S. e MEINDL, P. (2016). Gestão da cadeia de suprimentos: estratégia, planejamento e operações. Pearson, 6ª Edição.
 
-BALLOU, R. H. (2006). Gerenciamento da Cadeia de Suprimentos/ Logística Empresarial. 5ª Edição. Bookman. Porto Alegre. 
+NOVAES, A. G. (1989) Sistemas Logísticos: Transporte, Armazenagem e Distribuição Física de Produtos. Ed. Edgard Blucher Ltda. São Paulo.
 
-CHOPRA, S. e MEINDL, P. (2016). Gestão da cadeia de suprimentos: estratégia, planejamento e operações. Pearson, 6ª Edição. 
+NOVAES, A. G. (2001) Logística e Gerenciamento da Cadeia de Distribuição. Editora Campus. São Paulo.
 
-NOVAES, A. G. (1989) Sistemas Logísticos: Transporte, Armazenagem e Distribuição Física de Produtos. Ed. Edgard Blucher Ltda. São Paulo. 
+LEITE, P. R. Logística Reversa - Meio Ambiente e Competitividade, Editora Prentice Hall. São Paulo, 2002.
 
-NOVAES, A. G. (2001) Logística e Gerenciamento da Cadeia de Distribuição. Editora Campus. São Paulo. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-LEITE, P. R. Logística Reversa - Meio Ambiente e Competitividade, Editora Prentice Hall. São Paulo, 2002. 
+CHRISTOPHER, M. (1997) Logística e Gerenciamento da Cadeia de Suprimentos. São Paulo, Pioneira. FLEURY, P.F.; WANKE, P.; FIGUEIREDO, K.F. (2000) Logística Empresarial. São Paulo,Atlas. NOVAES, A. G. N.; ALVARENGA, A. C. (1994) Logística Integrada. São Paulo, Pioneira.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+MOREIRA, D. A. Administração da Produção e Operações. São Paulo: Pioneira, 1993
 
-CHRISTOPHER, M. (1997) Logística e Gerenciamento da Cadeia de Suprimentos. São Paulo, Pioneira. FLEURY, P.F.; WANKE, P.; FIGUEIREDO, K.F. (2000) Logística Empresarial. São Paulo,Atlas. NOVAES, A. G. N.; ALVARENGA, A. C. (1994) Logística Integrada. São Paulo, Pioneira. 
+BALLOU, R. H. (1995). Logística Empresarial. Editora Atlas.
 
-MOREIRA, D. A. Administração da Produção e Operações. São Paulo: Pioneira, 1993 
+37
 
-BALLOU, R. H. (1995). Logística Empresarial. Editora Atlas. 
+## **COMPONENTE CURRICULAR:**
 
-37 
+Gestão Social e Ambiental
 
-## **COMPONENTE CURRICULAR:** 
+## **CARGA HORÁRIA:**
 
-Gestão Social e Ambiental 
+80 Hora/aula e 67 Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-80 Hora/aula e 67 Hora/relógio (60 min) 
+- Conceituar Gestão social e Ambiental.
 
-## **EMENTA:** 
+- Conhecer conceitos e fundamentos dos impactos ambientais;
 
-- Conceituar Gestão social e Ambiental. 
+- Conhecer a evolução das normas de Sistemas de Gestão de Meio Ambiente;
 
-- Conhecer conceitos e fundamentos dos impactos ambientais; 
+- Relacionar a gestão ambiental com a qualidade de vida.
 
-- Conhecer a evolução das normas de Sistemas de Gestão de Meio Ambiente; 
+- Reconhecer a importância da preservação ambiental.
 
-- Relacionar a gestão ambiental com a qualidade de vida. 
+- Entender os mecanismos sistêmicos de sustentabilidade.
 
-- Reconhecer a importância da preservação ambiental. 
+- Compreender o uso da tecnologia como aliado à redução dos impactos ambientais;
 
-- Entender os mecanismos sistêmicos de sustentabilidade. 
+- Compreender a importância da norma NBR ISO 14001 e NBR ISO 26.000.
 
-- Compreender o uso da tecnologia como aliado à redução dos impactos ambientais; 
+## **BIBLIOGRAFIA BÁSICA:**
 
-- Compreender a importância da norma NBR ISO 14001 e NBR ISO 26.000. 
+STADLER, Adriano; MAIOLI, Marcos Rogério. Organizações e Desenvolvimento Sustentável. Editora Intersaberes, 2014.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+DIAS, Reinaldo. Gestão Ambiental: Responsabilidade Social e Sustentabilidade 1ª São Paulo Atlas 2006
 
-STADLER, Adriano; MAIOLI, Marcos Rogério. Organizações e Desenvolvimento Sustentável. Editora Intersaberes, 2014. 
+ALBERGARIA, Bruno. Direito Ambiental e Responsabilidade Civil das Empresas 1ª Belo Horizonte Fórum 2005
 
-DIAS, Reinaldo. Gestão Ambiental: Responsabilidade Social e Sustentabilidade 1ª São Paulo Atlas 2006 
+TOZONI-REIS, M. F. C. Educação ambiental: natureza, razão e história. 2ª Autores Associados 2008
 
-ALBERGARIA, Bruno. Direito Ambiental e Responsabilidade Civil das Empresas 1ª Belo Horizonte Fórum 2005 
+RAMOS, Simone V. Sustentabilidade e Desenvolvimento Local. Insituto Federal do Paraná, 2012.
 
-TOZONI-REIS, M. F. C. Educação ambiental: natureza, razão e história. 2ª Autores Associados 2008 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-RAMOS, Simone V. Sustentabilidade e Desenvolvimento Local. Insituto Federal do Paraná, 2012. 
+TRENNEPOHL, Curt. Infrações Contra o Meio-Ambiente 2ª Belo Horizonte Fórum 2004
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+BARBIERI, José Carlos. Gestão Ambiental Empresarial. 1ª São Paulo Saraiva 2004
 
-TRENNEPOHL, Curt. Infrações Contra o Meio-Ambiente 2ª Belo Horizonte Fórum 2004 
+DONAIRE, Denis. Gestão Ambiental na Empresa. 1ª São Paulo Atlas 1999
 
-BARBIERI, José Carlos. Gestão Ambiental Empresarial. 1ª São Paulo Saraiva 2004 
+NASCIMENTO, Luis Felipe, LEMOS, Ângela Denise da Cunha, e MELLO, Maria Celina Abreu de. Gestão Socioambiental Estratégica 1ª Porto Alegre Bookman 2008
 
-DONAIRE, Denis. Gestão Ambiental na Empresa. 1ª São Paulo Atlas 1999 
+ROAF, S.A adaptação de Edificações e Cidades às Mudanças Climáticas 1ª Bookman 200
 
-NASCIMENTO, Luis Felipe, LEMOS, Ângela Denise da Cunha, e MELLO, Maria Celina Abreu de. Gestão Socioambiental Estratégica 1ª Porto Alegre Bookman 2008 
+38
 
-ROAF, S.A adaptação de Edificações e Cidades às Mudanças Climáticas 1ª Bookman 200 
+## **COMPONENTE CURRICULAR:**
 
-38 
+Estatística
 
-## **COMPONENTE CURRICULAR:** 
+## **CARGA HORÁRIA:**
 
-Estatística 
+80 Hora/aula e 67 Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-80 Hora/aula e 67 Hora/relógio (60 min) 
+- Organização e apresentação de dados;
 
-## **EMENTA:** 
+- População e amostra;
 
-- Organização e apresentação de dados; 
+- Variáveis e intervalos;
 
-- População e amostra; 
+- Tabulação de dados e gráficos estatísticos;
 
-- Variáveis e intervalos; 
+- Desvio Padrão;
 
-- Tabulação de dados e gráficos estatísticos; 
+- Variância;
 
-- Desvio Padrão; 
+- Ferramentas de simulação e análise dos dados (cenário, atingir m,ETA e solver);
 
-- Variância; 
+- Funções Lógicas, financeiras, estatísticas e banco de dados.
 
-- Ferramentas de simulação e análise dos dados (cenário, atingir m,ETA e solver); 
+## **BIBLIOGRAFIA BÁSICA:**
 
-- Funções Lógicas, financeiras, estatísticas e banco de dados. 
+- COSTA NETO, P.L. de O. Estatística. São Paulo: Editora Edgard Blucher Ltda. 17o Ed. 1999.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+- DOWNING, D., CLARK, J. Estatística Aplicada. São Paulo: Editora Saraiva 2000.
 
-- COSTA NETO, P.L. de O. Estatística. São Paulo: Editora Edgard Blucher Ltda. 17o Ed. 1999. 
+- TRIOLA, M. F. Introdução a Estatística. Rio de Janeiro: Livros Técnicos e Científicos Editora S.A., 7a Ed. 1999.
 
-- DOWNING, D., CLARK, J. Estatística Aplicada. São Paulo: Editora Saraiva 2000. 
+- CRESPO, Antônio Arnot. **Matemática Comercial e Financeira Fácil** . 13. ed. São Paulo: Saraiva, 2001.
 
-- TRIOLA, M. F. Introdução a Estatística. Rio de Janeiro: Livros Técnicos e Científicos Editora S.A., 7a Ed. 1999. 
+- FARIA, Rogério Gomes de. **Matemática Comercial e Financeira** . 5. ed. São Paulo: Makron, 2000.
 
-- CRESPO, Antônio Arnot. **Matemática Comercial e Financeira Fácil** . 13. ed. São Paulo: Saraiva, 2001. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-- FARIA, Rogério Gomes de. **Matemática Comercial e Financeira** . 5. ed. São Paulo: Makron, 2000. 
+CRESPO, A. A. **Estatística Fácil** . São Paulo: Editora Saraiva, 17. Ed, 1999.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+LAPPONI, J. C. Estatística usando o Excel. São Paulo: Editora Lapponi, 2000.
 
-CRESPO, A. A. **Estatística Fácil** . São Paulo: Editora Saraiva, 17. Ed, 1999. 
+PUCCINI, Abelardo de Lima. **Matemática Financeira** : Objetiva e Aplicada. 7. ed. São Paulo:
 
-LAPPONI, J. C. Estatística usando o Excel. São Paulo: Editora Lapponi, 2000. 
+Saraiva, 2008.
 
-PUCCINI, Abelardo de Lima. **Matemática Financeira** : Objetiva e Aplicada. 7. ed. São Paulo: 
+SPINELLI, Walter; SOUZA, M. Helena S. **Matemática Comercial e Financeira** . 14. ed. São Paulo: Ática, 2002.
 
-Saraiva, 2008. 
+MATARAZZO, Dante Carmine. **Análise financeira de balanço: abordagem básica** e **gerencial** . 6. ed. São Paulo: Atlas, 2008.
 
-SPINELLI, Walter; SOUZA, M. Helena S. **Matemática Comercial e Financeira** . 14. ed. São Paulo: Ática, 2002. 
+39
 
-MATARAZZO, Dante Carmine. **Análise financeira de balanço: abordagem básica** e **gerencial** . 6. ed. São Paulo: Atlas, 2008. 
+## 2.7.3 MÓDULO 3
 
-39 
+## **COMPONENTE CURRICULAR:**
 
-## 2.7.3 MÓDULO 3 
+Gestão Financeira
 
-## **COMPONENTE CURRICULAR:** 
+## **CARGA HORÁRIA:**
 
-Gestão Financeira 
+80 Hora/aula e 67 Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-80 Hora/aula e 67 Hora/relógio (60 min) 
+- Demonstrações contábeis: caracterização das demonstrações contábeis,
 
-## **EMENTA:** 
+- Análise horizontal, Análise vertical.
 
-- Demonstrações contábeis: caracterização das demonstrações contábeis, 
+- Liquidez: comum ou corrente, seca, geral;
 
-- Análise horizontal, Análise vertical. 
+- Endividamento;
 
-- Liquidez: comum ou corrente, seca, geral; 
+- Rentabilidade: margem bruta comercial, margem operacional,
 
-- Endividamento; 
+- Custo financeiro;
 
-- Rentabilidade: margem bruta comercial, margem operacional, 
+- Rentabilidade sobre o patrimônio líquido, fontes de recursos, fluxo de caixa operacional.
 
-- Custo financeiro; 
+- Previsão de falência;
 
-- Rentabilidade sobre o patrimônio líquido, fontes de recursos, fluxo de caixa operacional. 
+- Valor Presente Líquido; Taxa Interna de Retorno;
 
-- Previsão de falência; 
+- Paybcak descontado; Termômetro de Kanitz.
 
-- Valor Presente Líquido; Taxa Interna de Retorno; 
+## **BIBLIOGRAFIA BÁSICA:**
 
-- Paybcak descontado; Termômetro de Kanitz. 
+MATARAZZO, Dante Carmine. Análise financeira de balanços: abordagem básica e gerencial. 7. ed. São Paulo: Atlas, 2010.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+HOJI, Masakazu. Administração financeira: uma abordagem prática. 5ª edição. São Paulo, Atlas, 2004.
 
-MATARAZZO, Dante Carmine. Análise financeira de balanços: abordagem básica e gerencial. 7. ed. São Paulo: Atlas, 2010. 
+MARION, José Carlos. Análise das demonstrações contábeis: contabilidade empresarial. 7. ed. São Paulo: Atlas, 2012.
 
-HOJI, Masakazu. Administração financeira: uma abordagem prática. 5ª edição. São Paulo, Atlas, 2004. 
+ASSAF, N., A. Curso de Administração Financeira. – São Paulo: Atlas, 2014.
 
-MARION, José Carlos. Análise das demonstrações contábeis: contabilidade empresarial. 7. ed. São Paulo: Atlas, 2012. 
+KIYOSAKI, Robert T., & LECHTER, Sharon L. **Pai rico pai pobre –** O que os ricos ensinam a seus filhos sobre dinheiro.Rio de Janeiro: Campus, 2000
 
-ASSAF, N., A. Curso de Administração Financeira. – São Paulo: Atlas, 2014. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-KIYOSAKI, Robert T., & LECHTER, Sharon L. **Pai rico pai pobre –** O que os ricos ensinam a seus filhos sobre dinheiro.Rio de Janeiro: Campus, 2000 
+FONSECA, J. W. F. Administração Financeira e Orçamentária. Curitiba: IESDE, 2009.
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+HOJI, M. Administração Financeira: uma abordagem pratica. 5ª ed. São Paulo: ATLAS, 2006.
 
-FONSECA, J. W. F. Administração Financeira e Orçamentária. Curitiba: IESDE, 2009. 
+GITMAN, L. J. Princípios da Administração Financeira. 12ª Ed, Editora Pearson, São Paulo. 2010.
 
-HOJI, M. Administração Financeira: uma abordagem pratica. 5ª ed. São Paulo: ATLAS, 2006. 
+BRAGA, Roberto. Fundamentos e técnicas de administração financeira. São Paulo: Atlas, 1998;
 
-GITMAN, L. J. Princípios da Administração Financeira. 12ª Ed, Editora Pearson, São Paulo. 2010. 
+CRUZ, June Alisson Westarb;Andrich, Emir Guimarães;Mugnaini, Alexandre. Análise das demonstrações financeiras: teoria e prática. Curitiba : Juruá Ed., 2010;
 
-BRAGA, Roberto. Fundamentos e técnicas de administração financeira. São Paulo: Atlas, 1998; 
+40
 
-CRUZ, June Alisson Westarb;Andrich, Emir Guimarães;Mugnaini, Alexandre. Análise das demonstrações financeiras: teoria e prática. Curitiba : Juruá Ed., 2010; 
+## **COMPONENTE CURRICULAR:**
 
-40 
+Gestão Mercadológica
 
-## **COMPONENTE CURRICULAR:** 
+## **CARGA HORÁRIA:**
 
-Gestão Mercadológica 
+80 Hora/aula e 67 Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+## **Ementa:**
 
-80 Hora/aula e 67 Hora/relógio (60 min) 
+- Marketing – conceitos e evolução.
 
-## **Ementa:** 
+- O ambiente do marketing.
 
-- Marketing – conceitos e evolução. 
+- Comportamento do Consumidor.
 
-- O ambiente do marketing. 
+- Estratégia de produto.
 
-- Comportamento do Consumidor. 
+- Satisfação, valor e fidelidade do consumidor.
 
-- Estratégia de produto. 
+- Segmentação. Posicionamento.
 
-- Satisfação, valor e fidelidade do consumidor. 
+- Gestão de marcas. Marketing de Serviços.
 
-- Segmentação. Posicionamento. 
+## Bibliografia Básica:
 
-- Gestão de marcas. Marketing de Serviços. 
+KOTLER, P.; KELLER, K. Administração de marketing. 12. ed. São Paulo: Prentice Hall, 2006. CHURCHILL, G. ; PETER, J. P. Marketing: criando valor para os clientes. São Paulo: Saraiva, 2000. SOLOMON, M. O comportamento do consumidor: Comprando, possuindo, sendo. 9. ed. Porto Alegre: Bookman, 2010.
 
-## Bibliografia Básica: 
+GREWAL, D.; LEVY, M. **Marketing** . 4. ed. Porto Alegre: AMGH, 2016. CRAVENS, D. W.; PIERCY, N. F. **Marketing estratégico** . 8. ed. São Paulo: McGraw-Hill, 2007. 752p.
 
-KOTLER, P.; KELLER, K. Administração de marketing. 12. ed. São Paulo: Prentice Hall, 2006. CHURCHILL, G. ; PETER, J. P. Marketing: criando valor para os clientes. São Paulo: Saraiva, 2000. SOLOMON, M. O comportamento do consumidor: Comprando, possuindo, sendo. 9. ed. Porto Alegre: Bookman, 2010. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-GREWAL, D.; LEVY, M. **Marketing** . 4. ed. Porto Alegre: AMGH, 2016. CRAVENS, D. W.; PIERCY, N. F. **Marketing estratégico** . 8. ed. São Paulo: McGraw-Hill, 2007. 752p. 
+BAKER, M. B. Administração de marketing. Rio de Janeiro: Campus, 2005. KELLER, K. L. Gestão estratégica de marcas. São Paulo: Prentice Hall, 2008.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+FARRIS, P. W. et al. **Métricas de marketing** : o guia definitivo de avaliação do desempenho do marketing. 2. ed. Porto Alegre: Bookman, 2012. 426p. URDAN, A. T.; URDAN, F. T. Gestão do composto de marketing. São Paulo: Atlas, 2006. CALDER, B.; TYBOUT, A. M. Marketing. São Paulo: Saraiva, 2014.
 
-BAKER, M. B. Administração de marketing. Rio de Janeiro: Campus, 2005. KELLER, K. L. Gestão estratégica de marcas. São Paulo: Prentice Hall, 2008. 
+41
 
-FARRIS, P. W. et al. **Métricas de marketing** : o guia definitivo de avaliação do desempenho do marketing. 2. ed. Porto Alegre: Bookman, 2012. 426p. URDAN, A. T.; URDAN, F. T. Gestão do composto de marketing. São Paulo: Atlas, 2006. CALDER, B.; TYBOUT, A. M. Marketing. São Paulo: Saraiva, 2014. 
+## **COMPONENTE CURRICULAR:**
 
-41 
+Pesquisa Operacional
 
-## **COMPONENTE CURRICULAR:** 
+## **CARGA HORÁRIA:**
 
-Pesquisa Operacional 
+80 Hora/aula e 67 Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-80 Hora/aula e 67 Hora/relógio (60 min) 
+- Introdução ao Management Science
 
-## **EMENTA:** 
+- Modelagem Matemática de Problemas de Programação Linear
 
-- Introdução ao Management Science 
+- Método Gráfico para Solução de Problemas
 
-- Modelagem Matemática de Problemas de Programação Linear 
+- Método Simplex Dualidade e Análise de Sensibilidade
 
-- Método Gráfico para Solução de Problemas 
+- Programação Inteira e Programação Binária
 
-- Método Simplex Dualidade e Análise de Sensibilidade 
+- Otimização em Redes: Problema de Transporte e seus Variantes
 
-- Programação Inteira e Programação Binária 
+- Otimização em Redes: Problemas de Menor Caminho e seus Variantes
 
-- Otimização em Redes: Problema de Transporte e seus Variantes 
+- Otimização em Redes: Problemas de Fluxo; Aplicações em Administração
 
-- Otimização em Redes: Problemas de Menor Caminho e seus Variantes 
+## **BIBLIOGRAFIA BÁSICA:**
 
-- Otimização em Redes: Problemas de Fluxo; Aplicações em Administração 
+HILLIER F.; LIEBERMANN G.J. Introdução à Pesquisa Operacional – 9. ed. Ed. Bookman, Porto Alegre: AMGH, 2013
 
-## **BIBLIOGRAFIA BÁSICA:** 
+ANDRADE, Eduardo Leopoldino de. Introdução à Pesquisa Operacional: Métodos e modelos para Análise de Decisões. – 4 ed. - Rio de Janeiro: LTC, 2009.
 
-HILLIER F.; LIEBERMANN G.J. Introdução à Pesquisa Operacional – 9. ed. Ed. Bookman, Porto Alegre: AMGH, 2013 
+TAHA, Hamdy A. Pesquisa Operacional: uma visão geral. São Paulo: Pearson Prentice Hall, 2008.
 
-ANDRADE, Eduardo Leopoldino de. Introdução à Pesquisa Operacional: Métodos e modelos para Análise de Decisões. – 4 ed. - Rio de Janeiro: LTC, 2009. 
+ORRAR, L. J. Theófilo, Carlos R. (coordenadores) Pesquisa Operacional para decisão em contabilidade e administração: Contabilometria. São Paulo: Atlas, 2004.
 
-TAHA, Hamdy A. Pesquisa Operacional: uma visão geral. São Paulo: Pearson Prentice Hall, 2008. 
+LACHTERMACHER, Gerson. Pesquisa Operacional na Tomada de Decisões. Rio de Janeiro: Elsevier, 2007.
 
-ORRAR, L. J. Theófilo, Carlos R. (coordenadores) Pesquisa Operacional para decisão em contabilidade e administração: Contabilometria. São Paulo: Atlas, 2004. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-LACHTERMACHER, Gerson. Pesquisa Operacional na Tomada de Decisões. Rio de Janeiro: Elsevier, 2007. 
+LONGARAY, André Andrade. Introdução à Pesquisa Operacional. 1. ed.- São Paulo: Saraiva, 2013.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+PASSOS, Eduardo José Pedreira dos. Programação Linear como instrumento da Pesquisa Operacional. São Paulo: Atlas,2008.
 
-LONGARAY, André Andrade. Introdução à Pesquisa Operacional. 1. ed.- São Paulo: Saraiva, 2013. 
+SILVA, E. M. SILVA, E. M. GONÇALVES, V; Murolo, A. C. Pesquisa Operacional: Programação Linear. São Paulo: Atlas, 1994.
 
-PASSOS, Eduardo José Pedreira dos. Programação Linear como instrumento da Pesquisa Operacional. São Paulo: Atlas,2008. 
+BELFIORE, P.; FÁVERO, L. P. L. . Pesquisa Operacional: para cursos de Administração, Contabilidade e Economia. 1. ed. Rio de Janeiro: Campus Elsevier, 2012
 
-SILVA, E. M. SILVA, E. M. GONÇALVES, V; Murolo, A. C. Pesquisa Operacional: Programação Linear. São Paulo: Atlas, 1994. 
+ARENALES, Marcos Nereu ; ARMENTANO, VINÍCIUS AMARAL ; MORABITO, R. ; YANASSE, Horácio Hideki . Pesquisa Operacional. 2. ed. RJ: Editora Elsevier, 2015.
 
-BELFIORE, P.; FÁVERO, L. P. L. . Pesquisa Operacional: para cursos de Administração, Contabilidade e Economia. 1. ed. Rio de Janeiro: Campus Elsevier, 2012 
+42
 
-ARENALES, Marcos Nereu ; ARMENTANO, VINÍCIUS AMARAL ; MORABITO, R. ; YANASSE, Horácio Hideki . Pesquisa Operacional. 2. ed. RJ: Editora Elsevier, 2015. 
+## **COMPONENTE CURRICULAR:**
 
-42 
+e-commerce e Negócios Virtuais
 
-## **COMPONENTE CURRICULAR:** 
+## **CARGA HORÁRIA:**
 
-e-commerce e Negócios Virtuais 
+40 Hora/aula e 33 Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-40 Hora/aula e 33 Hora/relógio (60 min) 
+- Negócios e Marketing eletrônico.
 
-## **EMENTA:** 
+- CryptoMoedas.
 
-- Negócios e Marketing eletrônico. 
+- Negociação Eletrônica.
 
-- CryptoMoedas. 
+- Varejo no Comércio Eletrônico.
 
-- Negociação Eletrônica. 
+- Meios de Pagamento Eletrônicos.
 
-- Varejo no Comércio Eletrônico. 
+- Legislação sobre o Comércio e o Negócio Eletrônico.
 
-- Meios de Pagamento Eletrônicos. 
+## **BIBLIOGRAFIA BÁSICA:**
 
-- Legislação sobre o Comércio e o Negócio Eletrônico. 
+ALBERTIN, Alberto Luiz. Comércio eletrônico: modelo e contribuições de sua aplicação. São Paulo: Atlas, 2010.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+TURBAN, Efraim. Comércio Eletrônico: estratégia e gestão. São Paulo: Prentice Hall, 2004.
 
-ALBERTIN, Alberto Luiz. Comércio eletrônico: modelo e contribuições de sua aplicação. São Paulo: Atlas, 2010. 
+ULRICH, Fernando. Bitcoin: a moeda na era digital. Editora Mises, 2014.
 
-TURBAN, Efraim. Comércio Eletrônico: estratégia e gestão. São Paulo: Prentice Hall, 2004. 
+VELLOSO, Fernandes de Castro. Informática: conceitos básicos. 8 ed. Rio de Janeiro: Campos, 2011.
 
-ULRICH, Fernando. Bitcoin: a moeda na era digital. Editora Mises, 2014. 
+KOTLER, Philip. **Administração de Marketing** – A Edição do Novo Milênio. 10ª. ed. São Paulo: Prentice Hall, 2000.
 
-VELLOSO, Fernandes de Castro. Informática: conceitos básicos. 8 ed. Rio de Janeiro: Campos, 2011. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-KOTLER, Philip. **Administração de Marketing** – A Edição do Novo Milênio. 10ª. ed. São Paulo: Prentice Hall, 2000. 
+LAUDON, Kenneth; LAUDON, Jane, Sistemas de informação gerenciais, 9. ed. São Paulo; Pearson Prentice Hall,
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+PARASURAMA, A.; COLBY, Charles L. Marketing para produtos inovadores: como e por que seus clientes adotam tecnologia. Porto Alegre: Bookman, 2002.
 
-LAUDON, Kenneth; LAUDON, Jane, Sistemas de informação gerenciais, 9. ed. São Paulo; Pearson Prentice Hall, 
+REZENDE, Denis; ABREU, Aline F. de. Tecnologia da Informação aplicada a Sistemas de Informação Empresariais. 7 ed. São Paulo: Atlas 2010.
 
-PARASURAMA, A.; COLBY, Charles L. Marketing para produtos inovadores: como e por que seus clientes adotam tecnologia. Porto Alegre: Bookman, 2002. 
+RAPP, Stan, MARTIN, Chuck. Maxi-e-marketing no future da internet: estratégias para vencer a concorrência na Economia da internet. São Paulo: Makron Books, 2002.
 
-REZENDE, Denis; ABREU, Aline F. de. Tecnologia da Informação aplicada a Sistemas de Informação Empresariais. 7 ed. São Paulo: Atlas 2010. 
+SHETH, Jogdish N. Marketing na Internet. Porto Alegre:Bookman, 2002.
 
-RAPP, Stan, MARTIN, Chuck. Maxi-e-marketing no future da internet: estratégias para vencer a concorrência na Economia da internet. São Paulo: Makron Books, 2002. 
+43
 
-SHETH, Jogdish N. Marketing na Internet. Porto Alegre:Bookman, 2002. 
+## **COMPONENTE CURRICULAR:**
 
-43 
+Contabilidade Geral
 
-## **COMPONENTE CURRICULAR:** 
+## **CARGA HORÁRIA:**
 
-Contabilidade Geral 
+80 Hora/aula e 67 Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+**EMENTA:**
 
-80 Hora/aula e 67 Hora/relógio (60 min) 
+Contabilidade: Conceituação, Objeto, Objetivo e Evolução Histórica. Patrimônio. Processo Contábil: fatos contábeis; plano de contas; escrituração, balancetes. Balanço Patrimonial. Apuração de resultados e sua demonstração. Princípios fundamentais: noções preliminares.
 
-**EMENTA:** 
+## **BIBLIOGRAFIA BÁSICA:**
 
-Contabilidade: Conceituação, Objeto, Objetivo e Evolução Histórica. Patrimônio. Processo Contábil: fatos contábeis; plano de contas; escrituração, balancetes. Balanço Patrimonial. Apuração de resultados e sua demonstração. Princípios fundamentais: noções preliminares. 
+Equipe de Professores FEA/USP. **Contabilidade Introdutória** .11ª.ed.São Paulo. Atlas, 2010.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+MARION, José Carlos. **Contabilidade Básica** . 10ª.ed.São Paulo. Atlas, 2009
 
-Equipe de Professores FEA/USP. **Contabilidade Introdutória** .11ª.ed.São Paulo. Atlas, 2010. 
+PADOVEZE, Clovis Luis. **Manual de Contabilidade Básica** . 7ª.ed.São Paulo. Atlas, 2009
 
-MARION, José Carlos. **Contabilidade Básica** . 10ª.ed.São Paulo. Atlas, 2009 
+ARAUJO, Inaldo da Paixão Santos. **Introdução a Contabilidade** .3ª.ed.São Paulo. Saraiva, 2009.
 
-PADOVEZE, Clovis Luis. **Manual de Contabilidade Básica** . 7ª.ed.São Paulo. Atlas, 2009 
+MARTINS, Eliseu. **Contabilidade de custos – inclui o ABC** . 6ª ed., São Paulo, Atlas, 1998.
 
-ARAUJO, Inaldo da Paixão Santos. **Introdução a Contabilidade** .3ª.ed.São Paulo. Saraiva, 2009. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-MARTINS, Eliseu. **Contabilidade de custos – inclui o ABC** . 6ª ed., São Paulo, Atlas, 1998. 
+FAVERO, Hamilton Luiz., et al. **Contabilidade: Teoria e Prática** - **Volume 1.** 6ª. ed. São Paulo, Atlas, 2011.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+GONÇALVES, Eugênio Celso, BAPTISTA, Antonio Eustáqui. **Contabilidade Geral** . 6ª. ed. São Paulo, Atlas, 2007.
 
-FAVERO, Hamilton Luiz., et al. **Contabilidade: Teoria e Prática** - **Volume 1.** 6ª. ed. São Paulo, Atlas, 2011. 
+STICKNEY, Clyde P., WEIL, Roman L., **Contabilidade Financeira – introdução aos conceitos, métodos e aplicações.** , 12ª. ed., São Paulo, Cengage Learning, 2010.
 
-GONÇALVES, Eugênio Celso, BAPTISTA, Antonio Eustáqui. **Contabilidade Geral** . 6ª. ed. São Paulo, Atlas, 2007. 
+IUDÍCIBUS, Sérgio de, MARION, José Carlos., **Contabilidade Comercial: atualizada conforme Lei No. 11.638/2007 e MP No. 449/2008.** 8ª. ed., São Paulo, Atlas, 2009.
 
-STICKNEY, Clyde P., WEIL, Roman L., **Contabilidade Financeira – introdução aos conceitos, métodos e aplicações.** , 12ª. ed., São Paulo, Cengage Learning, 2010. 
+FERREIRA, Ricardo., **Contabilidade Básica.** 8ª. ed., Rio de Janeiro, Ferreira, 2010.
 
-IUDÍCIBUS, Sérgio de, MARION, José Carlos., **Contabilidade Comercial: atualizada conforme Lei No. 11.638/2007 e MP No. 449/2008.** 8ª. ed., São Paulo, Atlas, 2009. 
+44
 
-FERREIRA, Ricardo., **Contabilidade Básica.** 8ª. ed., Rio de Janeiro, Ferreira, 2010. 
+## 2.7.4 MÓDULO 4
 
-44 
+## **COMPONENTE CURRICULAR:**
 
-## 2.7.4 MÓDULO 4 
+Estratégia Empresarial
 
-## **COMPONENTE CURRICULAR:** 
+## **CARGA HORÁRIA:**
 
-Estratégia Empresarial 
+80 Hora/aula e 67 Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+## **Ementa:**
 
-80 Hora/aula e 67 Hora/relógio (60 min) 
+- Conceitos e tipos de planejamento estratégico.
 
-## **Ementa:** 
+- Escolas de estratégia.
 
-- Conceitos e tipos de planejamento estratégico. 
+- Objetivos estratégicos.
 
-- Escolas de estratégia. 
+- Análise ambiental.
 
-- Objetivos estratégicos. 
+- Modelos de concorrência.
 
-- Análise ambiental. 
+- Análise SWOT.
 
-- Modelos de concorrência. 
+- Processo de formulação e implementação de estratégia.
 
-- Análise SWOT. 
+- Controle e análise de resultados.
 
-- Processo de formulação e implementação de estratégia. 
+## Bibliografia Básica:
 
-- Controle e análise de resultados. 
+ANSOF, H. I. e McDonnell, E. J. Implantando a administração estratégica. São Paulo: Atlas, 1993.
 
-## Bibliografia Básica: 
+MINTZBERG, H.; LAMPEL, J.; QUINN, J.B.; GHOSHAL, S. **O processo da Estratégia** . Ed. 4ª. Porto Alegre: Bookman, 2009.
 
-ANSOF, H. I. e McDonnell, E. J. Implantando a administração estratégica. São Paulo: Atlas, 1993. 
+MINTZBERG, H. et al. **Safári de Estratégia** . Ed. 2ª. Porto Alegre: Bookman, 2000.
 
-MINTZBERG, H.; LAMPEL, J.; QUINN, J.B.; GHOSHAL, S. **O processo da Estratégia** . Ed. 4ª. Porto Alegre: Bookman, 2009. 
+OLIVEIRA, D. P. R. **Planejamento estratégico** . Ed. 29ª. São Paulo: Atlas, 2011
 
-MINTZBERG, H. et al. **Safári de Estratégia** . Ed. 2ª. Porto Alegre: Bookman, 2000. 
+CRAVENS, D. W.; PIERCY, N. F. **Marketing estratégico** . 8. ed. São Paulo: McGraw-Hill, 2007. 752p.
 
-OLIVEIRA, D. P. R. **Planejamento estratégico** . Ed. 29ª. São Paulo: Atlas, 2011 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-CRAVENS, D. W.; PIERCY, N. F. **Marketing estratégico** . 8. ed. São Paulo: McGraw-Hill, 2007. 752p. 
+KAPLAN, R. S.; NORTON, D. P. **Organização Orientada para a Estratégia.** Ed. 20ª. Rio de Janeiro: Elsevier, 2000.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+WRIGHT, P.; KROLL, M. J.; PARNELL, J. **Administração Estratégica: conceitos.** Ed. 1ª. **São Paulo:** Atlas, 2000.
 
-KAPLAN, R. S.; NORTON, D. P. **Organização Orientada para a Estratégia.** Ed. 20ª. Rio de Janeiro: Elsevier, 2000. 
+HITT, M.; IRELAND, R. D.; HOSKISSON, R. E. **Administração Estratégica. Ed.** 2ª Ed. **São Paulo:** Cengage, 2008.
 
-WRIGHT, P.; KROLL, M. J.; PARNELL, J. **Administração Estratégica: conceitos.** Ed. 1ª. **São Paulo:** Atlas, 2000. 
+PORTER, Michael E. Vantagem competitiva. Rio de Janeiro: Campus, 1989. WRIGHT, Peter. Administração estratégica: conceitos. São Paulo: Atlas, 2000
 
-HITT, M.; IRELAND, R. D.; HOSKISSON, R. E. **Administração Estratégica. Ed.** 2ª Ed. **São Paulo:** Cengage, 2008. 
+45
 
-PORTER, Michael E. Vantagem competitiva. Rio de Janeiro: Campus, 1989. WRIGHT, Peter. Administração estratégica: conceitos. São Paulo: Atlas, 2000 
+## **COMPONENTE CURRICULAR:**
 
-45 
+Direito do Trabalho
 
-## **COMPONENTE CURRICULAR:** 
+## **CARGA HORÁRIA:**
 
-Direito do Trabalho 
+40 Hora/aula e 34 Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-40 Hora/aula e 34 Hora/relógio (60 min) 
+- O Estado, a Sociedade e o Direito do Trabalho Brasileiro.
 
-## **EMENTA:** 
+- O regramento jurídico do trabalho: aspectos legais e principiológicos.
 
-- O Estado, a Sociedade e o Direito do Trabalho Brasileiro. 
+- A Empresa e o Contrato Individual de Trabalho – A regulação e sua aplicabilidade.
 
-- O regramento jurídico do trabalho: aspectos legais e principiológicos. 
+- Direito Coletivo do Trabalho: Organizações Sindicais – atribuições.
 
-- A Empresa e o Contrato Individual de Trabalho – A regulação e sua aplicabilidade. 
+- Instrumentos Normativos Coletivos.
 
-- Direito Coletivo do Trabalho: Organizações Sindicais – atribuições. 
+## **BIBLIOGRAFIABÁSICA:**
 
-- Instrumentos Normativos Coletivos. 
+CASSAR, Vólia Bomfim. **Direito do Trabalho** . 15. ed. Elsevier/Método: 2018.
 
-## **BIBLIOGRAFIABÁSICA:** 
+GARCIA, Gustavo Filipe Barbosa. **Manual de direito do trabalho.** 12. ed. rev., atual. e ampl. São Paulo: Método, 2018.
 
-CASSAR, Vólia Bomfim. **Direito do Trabalho** . 15. ed. Elsevier/Método: 2018. 
+LEITE, Carlos Henrique Bezerra. Curso de Direito do Trabalho **. 9** . ed. São Paulo: Saraiva, 2018.
 
-GARCIA, Gustavo Filipe Barbosa. **Manual de direito do trabalho.** 12. ed. rev., atual. e ampl. São Paulo: Método, 2018. 
+MARTINS, Sérgio Pinto. **Fundamentos de direito do trabalho.** 18. ed. São Paulo: Atlas, 2017.
 
-LEITE, Carlos Henrique Bezerra. Curso de Direito do Trabalho **. 9** . ed. São Paulo: Saraiva, 2018. 
+ROMAR, Carla Teresa Martins. Direito do Trabalho Esquematizado. 5ª ed. Saraiva, 2018.
 
-MARTINS, Sérgio Pinto. **Fundamentos de direito do trabalho.** 18. ed. São Paulo: Atlas, 2017. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-ROMAR, Carla Teresa Martins. Direito do Trabalho Esquematizado. 5ª ed. Saraiva, 2018. 
+CAIRO JR, José. **Curso de Direito do Trabalho** . 14ª Ed. Editora Jus Podivm, 2018.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+CAVALCANTE, Jouberto de Quadros Pessoa; JORGE NETO, Francisco Ferreira. **Prática Jurídica Trabalhista** .9ª Ed. São Paulo: Atlas, 2018.
 
-CAIRO JR, José. **Curso de Direito do Trabalho** . 14ª Ed. Editora Jus Podivm, 2018. 
+DELGADO, Maurício Godinho. **Curso de direito do trabalho.** 17. ed. São Paulo: LTr, 2018
 
-CAVALCANTE, Jouberto de Quadros Pessoa; JORGE NETO, Francisco Ferreira. **Prática Jurídica Trabalhista** .9ª Ed. São Paulo: Atlas, 2018. 
+MARTINS, Sérgio Pinto. **Direito do trabalho.** 34.ed. São Paulo: Atlas, 2018
 
-DELGADO, Maurício Godinho. **Curso de direito do trabalho.** 17. ed. São Paulo: LTr, 2018 
+RENZETTI, Rogério. **Direito do Trabalho: Teoria e Questões Práticas** . 4e. São Paulo: Método, 2018.
 
-MARTINS, Sérgio Pinto. **Direito do trabalho.** 34.ed. São Paulo: Atlas, 2018 
+46
 
-RENZETTI, Rogério. **Direito do Trabalho: Teoria e Questões Práticas** . 4e. São Paulo: Método, 2018. 
+## **COMPONENTE CURRICULAR:**
 
-46 
+Gestão de Pessoas
 
-## **COMPONENTE CURRICULAR:** 
+## **CARGA HORÁRIA:**
 
-Gestão de Pessoas 
+80 Hora/aula e 67 Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-80 Hora/aula e 67 Hora/relógio (60 min) 
+A Evolução da Função dos Recursos Humanos e o Impacto na Estrutura da Empresa; Fundamentos do Comportamento Organizacional; Desafios e Oportunidades no Campo do Comportamento Organizacional; O Individuo; Atitude; Percepção; Aprendizagem; Motivação; Características dos Grupos; Liderança e Poder; Clima e Cultura Organizacionais; Recrutamento e Seleção como Responsabilidade da Gestão, Gestão de Talentos,Treinamento,Gestão por competência. _Coach._
 
-## **EMENTA:** 
+## **BIBLIOGRAFIA BÁSICA:**
 
-A Evolução da Função dos Recursos Humanos e o Impacto na Estrutura da Empresa; Fundamentos do Comportamento Organizacional; Desafios e Oportunidades no Campo do Comportamento Organizacional; O Individuo; Atitude; Percepção; Aprendizagem; Motivação; Características dos Grupos; Liderança e Poder; Clima e Cultura Organizacionais; Recrutamento e Seleção como Responsabilidade da Gestão, Gestão de Talentos,Treinamento,Gestão por competência. _Coach._ 
+ANGELONI, Maria Terezinha (coordenadora). **Organizações do conhecimento:** infra-estrutura, pessoas e tecnologias. São Paulo: Saraiva, 2002.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+CHIAVENATTO, Idalberto. **Gestão de pessoas:** o novo papel de recursos humanos nas organizações. Rio de Janeiro: Campus, 1998.
 
-ANGELONI, Maria Terezinha (coordenadora). **Organizações do conhecimento:** infra-estrutura, pessoas e tecnologias. São Paulo: Saraiva, 2002. 
+_____________________. **Como transformar RH (de um centro de despensa) em um centro de lucro.** 2.ed. São Paulo: Makron Books, 2000.
 
-CHIAVENATTO, Idalberto. **Gestão de pessoas:** o novo papel de recursos humanos nas organizações. Rio de Janeiro: Campus, 1998. 
+RIBEIRO, Antonio Lima. **Gestão de Pessoas.** São Paulo: Saraiva, 2006.
 
-_____________________. **Como transformar RH (de um centro de despensa) em um centro de lucro.** 2.ed. São Paulo: Makron Books, 2000. 
+BOHLANDER, George; SCOTT, Snell; SHERMAN, Arthur. **Administração de recursos humanos.** São Paulo: Pioneira Thomson Learning, 2005.
 
-RIBEIRO, Antonio Lima. **Gestão de Pessoas.** São Paulo: Saraiva, 2006. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-BOHLANDER, George; SCOTT, Snell; SHERMAN, Arthur. **Administração de recursos humanos.** São Paulo: Pioneira Thomson Learning, 2005. 
+FRANÇA, Ana Cristina Limongi. **Práticas de recursos humanos:** conceitos, ferramentas e procedimentos. São Paulo: Atlas, 2008.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+ULRICH, Dave. **Os campeões de recursos humanos:** inovando para obter resultados. 7. ed. São Paulo: Futura, 2002.
 
-FRANÇA, Ana Cristina Limongi. **Práticas de recursos humanos:** conceitos, ferramentas e procedimentos. São Paulo: Atlas, 2008. 
+RESENDE, Ênio. **Cargos, salários e carreira:** novos paradigmas conceituais e práticos. São Paulo: Summus, 2002
 
-ULRICH, Dave. **Os campeões de recursos humanos:** inovando para obter resultados. 7. ed. São Paulo: Futura, 2002. 
+GIL, Antonio C. **A gestão de pessoas: enfoque nos papéis profissionais** . São Paulo: Atlas, 2001.
 
-RESENDE, Ênio. **Cargos, salários e carreira:** novos paradigmas conceituais e práticos. São Paulo: Summus, 2002 
+DUTRA, J. S. **Competências: Conceitos e Instrumentos para a Gestão de Pessoasna Empresa Moderna** . São Paulo: Atlas, 2004.
 
-GIL, Antonio C. **A gestão de pessoas: enfoque nos papéis profissionais** . São Paulo: Atlas, 2001. 
+47
 
-DUTRA, J. S. **Competências: Conceitos e Instrumentos para a Gestão de Pessoasna Empresa Moderna** . São Paulo: Atlas, 2004. 
+## **COMPONENTE CURRICULAR:**
 
-47 
+Metodologia Científica
 
-## **COMPONENTE CURRICULAR:** 
+## **CARGA HORÁRIA:**
 
-Metodologia Científica 
+40 Hora/aula e 33 Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-40 Hora/aula e 33 Hora/relógio (60 min) 
+- Natureza teórica e prática da produção científica e os diversos tipos de pesquisa científica.
 
-## **EMENTA:** 
+- Elaboração de um Projeto de Pesquisa.
 
-- Natureza teórica e prática da produção científica e os diversos tipos de pesquisa científica. 
+- Trabalhos Monográficos na Iniciação Científica e nos Trabalhos de Conclusão de Curso (TCC) nos Cursos de Graduação e Pós-Graduação.
 
-- Elaboração de um Projeto de Pesquisa. 
+## **BIBLIOGRAFIA BÁSICA:**
 
-- Trabalhos Monográficos na Iniciação Científica e nos Trabalhos de Conclusão de Curso (TCC) nos Cursos de Graduação e Pós-Graduação. 
+ANDRADE, M. M. de. **Introdução à Metodologia do Trabalho Científico:** elaboração de trabalhos na graduação. 3. ed. São Paulo: Atlas, 1998.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+LAKATOS, E.M.; MARCONI, M. de A. **Técnicas de Pesquisa.** 5. ed. São Paulo: Atlas, 2002. GIL, Antônio Carlos. **Como Elaborar Projetos de Pesquisa** . 4. ed. São Paulo: Atlas, 2002. MARCONI, Marina de Andrade; LAKATOS, Eva Maria. **Metodologia Científica** . 3. ed. São Paulo: Atlas, 2000. MARCONI, Marina de Andrade; LAKATOS, Eva Maria. **Metodologia do TrabalhoCientífico** . 5. ed. São Paulo: Atlas, 2001.
 
-ANDRADE, M. M. de. **Introdução à Metodologia do Trabalho Científico:** elaboração de trabalhos na graduação. 3. ed. São Paulo: Atlas, 1998. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-LAKATOS, E.M.; MARCONI, M. de A. **Técnicas de Pesquisa.** 5. ed. São Paulo: Atlas, 2002. GIL, Antônio Carlos. **Como Elaborar Projetos de Pesquisa** . 4. ed. São Paulo: Atlas, 2002. MARCONI, Marina de Andrade; LAKATOS, Eva Maria. **Metodologia Científica** . 3. ed. São Paulo: Atlas, 2000. MARCONI, Marina de Andrade; LAKATOS, Eva Maria. **Metodologia do TrabalhoCientífico** . 5. ed. São Paulo: Atlas, 2001. 
+RUDIO, Franz V. **Introdução ao projeto de pesquisa científica** . 34. ed. Petrópolis: Vozes, 2007. 144 p. SEVERINO, Antônio J. **Metodologia do trabalho científico** . 23. ed. São Paulo: Cortez, 2007. 304 p. BASTOS, L. da R. et.all. **Manual para a elaboração de projetos e relatórios de pesquisa: teses, dissertações e monografias.** Rio de Janeiro: LTC, 2001. BELO DE AZEVEDO, Israel. **O Prazer da Produção Científica.** 2. ed. Piracicaba: UNIMEP, 1993. OLIVEIRA, S. L. **Tratado de Metodologia Científica:** projetos de pesquisas, TGI, TCC, Monografias, Dissertações e Teses. São Paulo: Pioneira, 1997. RUDIO, F.V. **Introdução ao Projeto de Pesquisa.** 31. ed. Petrópolis: Vozes, 2003 BALLÃO, Carmen (org). Metodologia da Pesquisa. Insituto Federal do Paraná, 2012.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+48
 
-RUDIO, Franz V. **Introdução ao projeto de pesquisa científica** . 34. ed. Petrópolis: Vozes, 2007. 144 p. SEVERINO, Antônio J. **Metodologia do trabalho científico** . 23. ed. São Paulo: Cortez, 2007. 304 p. BASTOS, L. da R. et.all. **Manual para a elaboração de projetos e relatórios de pesquisa: teses, dissertações e monografias.** Rio de Janeiro: LTC, 2001. BELO DE AZEVEDO, Israel. **O Prazer da Produção Científica.** 2. ed. Piracicaba: UNIMEP, 1993. OLIVEIRA, S. L. **Tratado de Metodologia Científica:** projetos de pesquisas, TGI, TCC, Monografias, Dissertações e Teses. São Paulo: Pioneira, 1997. RUDIO, F.V. **Introdução ao Projeto de Pesquisa.** 31. ed. Petrópolis: Vozes, 2003 BALLÃO, Carmen (org). Metodologia da Pesquisa. Insituto Federal do Paraná, 2012. 
+## **COMPONENTE CURRICULAR:**
 
-48 
+Gestão de Informação, Tecnologia e Comunicação
 
-## **COMPONENTE CURRICULAR:** 
+## **CARGA HORÁRIA:**
 
-Gestão de Informação, Tecnologia e Comunicação 
+40 Hora/aula e 33 Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-40 Hora/aula e 33 Hora/relógio (60 min) 
+- Cultura informacional.
 
-## **EMENTA:** 
+- Ambientes e fluxos de informação.
 
-- Cultura informacional. 
+- Mapeamento de necessidades informacionais; Prospecção e monitoramento informacional.
 
-- Ambientes e fluxos de informação. 
+- Métodos e técnicas de gestão da informação; Métodos e técnicas de gestão do conhecimento.
 
-- Mapeamento de necessidades informacionais; Prospecção e monitoramento informacional. 
+- Inteligência competitiva organizacional.
 
-- Métodos e técnicas de gestão da informação; Métodos e técnicas de gestão do conhecimento. 
+## **BIBLIOGRAFIA BÁSICA:**
 
-- Inteligência competitiva organizacional. 
+BUKOWITZ, W. R.; WILLIAMS, R. L. **Manual de gestão do conhecimento** . Porto Alegre: Bookman, 2002.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+CASTELLS, M. **A sociedade em rede** : a era da informação: economia, sociedade e cultura. Rio de Janeiro: Paz e Terra, 1999.
 
-BUKOWITZ, W. R.; WILLIAMS, R. L. **Manual de gestão do conhecimento** . Porto Alegre: Bookman, 2002. 
+CHOO, C. W. **A organização do conhecimento** : como as organizações usam a informação para criar significado, construir conhecimento e tomar decisões. São Paulo: Editora SENAC, 2003.
 
-CASTELLS, M. **A sociedade em rede** : a era da informação: economia, sociedade e cultura. Rio de Janeiro: Paz e Terra, 1999. 
+DAVENPORT, T.; PRUSAK, L. **Ecologia da informação** : por que só a tecnologia não basta para o sucesso na era da informação. São Paulo: Futura, 1998.
 
-CHOO, C. W. **A organização do conhecimento** : como as organizações usam a informação para criar significado, construir conhecimento e tomar decisões. São Paulo: Editora SENAC, 2003. 
+NONAKA, I.; TAKEUCHI, H. **Criação de conhecimento na empresa** : como as empresas japonesas geram a dinâmica da inovação. Rio de Janeiro: Campus, 2008.
 
-DAVENPORT, T.; PRUSAK, L. **Ecologia da informação** : por que só a tecnologia não basta para o sucesso na era da informação. São Paulo: Futura, 1998. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-NONAKA, I.; TAKEUCHI, H. **Criação de conhecimento na empresa** : como as empresas japonesas geram a dinâmica da inovação. Rio de Janeiro: Campus, 2008. 
+VALENTIM, M. L. P. (Org.). **Ambientes e fluxos de informação** . São Paulo: Cultura Acadêmica, 2010.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+TARAPANOFF, K. (Org.). **Inteligência organizacional e competitiva** . Brasília: Editora UnB, 2001.
 
-VALENTIM, M. L. P. (Org.). **Ambientes e fluxos de informação** . São Paulo: Cultura Acadêmica, 2010. 
+ANGELONI, M. T. (Coord.). **Organizações do conhecimento** : infra-estrutura, pessoas e tecnologias. São Paulo: Saraiva, 2003.
 
-TARAPANOFF, K. (Org.). **Inteligência organizacional e competitiva** . Brasília: Editora UnB, 2001. 
+CÂNDIDO, C. A.; VALENTIM, M. L. P.; CONTANI, M. L. Gestão estratégica da informação: semiótica aplicada ao processo de tomada de decisão. **DataGramaZero** , Rio de Janeiro, v. 6, n. 3, p. 1- 16, jun. 2005.
 
-ANGELONI, M. T. (Coord.). **Organizações do conhecimento** : infra-estrutura, pessoas e tecnologias. São Paulo: Saraiva, 2003. 
+CARBONE, P. P. et al. **Gestão por competências e gestão do conhecimento** . 2.ed. Rio de Janeiro: FGV Editora, 2006.
 
-CÂNDIDO, C. A.; VALENTIM, M. L. P.; CONTANI, M. L. Gestão estratégica da informação: semiótica aplicada ao processo de tomada de decisão. **DataGramaZero** , Rio de Janeiro, v. 6, n. 3, p. 1- 16, jun. 2005. 
+49
 
-CARBONE, P. P. et al. **Gestão por competências e gestão do conhecimento** . 2.ed. Rio de Janeiro: FGV Editora, 2006. 
+## **COMPONENTE CURRICULAR:**
 
-49 
+Empreendedorismo
 
-## **COMPONENTE CURRICULAR:** 
+## **CARGA HORÁRIA:**
 
-Empreendedorismo 
+40 Hora/aula e 33 Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-40 Hora/aula e 33 Hora/relógio (60 min) 
+- A Evolução no Processo de Gestão no Mundo Contemporâneo;
 
-## **EMENTA:** 
+- As Pessoas e as Mudanças;
 
-- A Evolução no Processo de Gestão no Mundo Contemporâneo; 
+- A Educação Empreendedora;
 
-- As Pessoas e as Mudanças; 
+- O Desenvolvimento de Competências;
 
-- A Educação Empreendedora; 
+- Criatividade e Inovação Empresarial;
 
-- O Desenvolvimento de Competências; 
+- O Planejamento do Empreendedor;
 
-- Criatividade e Inovação Empresarial; 
+- O Plano de Negócios (PN).
 
-- O Planejamento do Empreendedor; 
+## **BIBLIOGRAFIA BÁSICA:**
 
-- O Plano de Negócios (PN). 
+DOLABELA, F. **O segredo de Luísa: uma ideia, uma paixão e um plano de negócios:** como nasce o empreendedor e se cria uma empresa. São Paulo: Cultura, 1999.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+DORNELAS, J. C. A. **Empreendedorismo: transformando ideias em negócios.** 2ª Ed. Rio de Janeiro: Campus, 2005.
 
-DOLABELA, F. **O segredo de Luísa: uma ideia, uma paixão e um plano de negócios:** como nasce o empreendedor e se cria uma empresa. São Paulo: Cultura, 1999. 
+SALIM, C. S.; HOCHMAN, N.; RAMAL, A.C.; RAMAL, S.A. **Construindo Planos de Negócios: todos os passos necessários para planejar e desenvolver negócios de sucesso** . Rio de Janeiro: Campus, 2001.
 
-DORNELAS, J. C. A. **Empreendedorismo: transformando ideias em negócios.** 2ª Ed. Rio de Janeiro: Campus, 2005. 
+KOTLER, Philip; KELLER, Kevin. L. **Administração de Marketing.** 12. ed.São Paulo: Pearson Prentice Hall, 2006
 
-SALIM, C. S.; HOCHMAN, N.; RAMAL, A.C.; RAMAL, S.A. **Construindo Planos de Negócios: todos os passos necessários para planejar e desenvolver negócios de sucesso** . Rio de Janeiro: Campus, 2001. 
+STADLER, A; HALICKI, Z; ARANTES, E. C. Empreendedorismo e Responsabilidade Social. Curitiba: Editora Intersaberes. 2014.
 
-KOTLER, Philip; KELLER, Kevin. L. **Administração de Marketing.** 12. ed.São Paulo: Pearson Prentice Hall, 2006 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-STADLER, A; HALICKI, Z; ARANTES, E. C. Empreendedorismo e Responsabilidade Social. Curitiba: Editora Intersaberes. 2014. 
+CHIAVENATO, I. **Empreendedorismo: dando asas ao espírito empreendedor** . 3ª Ed. São Paulo: Saraiva, 2008.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+DORNELAS, J. C. A. **Empreendedorismo na prática: mitos e verdades dos empreendedores de sucesso** . Rio de Janeiro: Elsevier, 2007.
 
-CHIAVENATO, I. **Empreendedorismo: dando asas ao espírito empreendedor** . 3ª Ed. São Paulo: Saraiva, 2008. 
+MAXIMIANO, A. C. A. **Administração para empreendedores:** fundamentos da criação e da gestão de novos negócios. São Paulo: Prentice-Hall, 2006.
 
-DORNELAS, J. C. A. **Empreendedorismo na prática: mitos e verdades dos empreendedores de sucesso** . Rio de Janeiro: Elsevier, 2007. 
+FRANÇA, Ana Cristina Limongi. **Práticas de recursos humanos:** conceitos, ferramentas e procedimentos. São Paulo: Atlas, 2008.
 
-MAXIMIANO, A. C. A. **Administração para empreendedores:** fundamentos da criação e da gestão de novos negócios. São Paulo: Prentice-Hall, 2006. 
+ANGELONI, Maria Terezinha (coordenadora). **Organizações do conhecimento:** infra-estrutura, pessoas e tecnologias. São Paulo: Saraiva, 2002.
 
-FRANÇA, Ana Cristina Limongi. **Práticas de recursos humanos:** conceitos, ferramentas e procedimentos. São Paulo: Atlas, 2008. 
+50
 
-ANGELONI, Maria Terezinha (coordenadora). **Organizações do conhecimento:** infra-estrutura, pessoas e tecnologias. São Paulo: Saraiva, 2002. 
+## **COMPONENTE CURRICULAR:**
 
-50 
+Trabalho de Conclusão de Curso
 
-## **COMPONENTE CURRICULAR:** 
+## **CARGA HORÁRIA:**
 
-Trabalho de Conclusão de Curso 
+160 Hora/aula e 134 Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+**EMENTA:**
 
-160 Hora/aula e 134 Hora/relógio (60 min) 
+- Elaboração do Trabalho de Conclusão de Curso
 
-**EMENTA:** 
+- Orientação e acompanhamento das fases do trabalho.
 
-- Elaboração do Trabalho de Conclusão de Curso 
+- Apresentação do TCC.
 
-- Orientação e acompanhamento das fases do trabalho. 
+## **BIBLIOGRAFIA BÁSICA:**
 
-- Apresentação do TCC. 
+ANDRADE, M. M. de. **Introdução à Metodologia do Trabalho Científico:** elaboração de trabalhos na graduação. 3. ed. São Paulo: Atlas, 1998.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+LAKATOS, E.M.; MARCONI, M. de A. **Técnicas de Pesquisa.** 5. ed. São Paulo: Atlas, 2002.
 
-ANDRADE, M. M. de. **Introdução à Metodologia do Trabalho Científico:** elaboração de trabalhos na graduação. 3. ed. São Paulo: Atlas, 1998. 
+GIL, Antônio Carlos. **Como Elaborar Projetos de Pesquisa** . 4. ed. São Paulo: Atlas, 2002.
 
-LAKATOS, E.M.; MARCONI, M. de A. **Técnicas de Pesquisa.** 5. ed. São Paulo: Atlas, 2002. 
+MARCONI, Marina de Andrade; LAKATOS, Eva Maria. **Metodologia Científica** . 3. ed. São Paulo: Atlas, 2000.
 
-GIL, Antônio Carlos. **Como Elaborar Projetos de Pesquisa** . 4. ed. São Paulo: Atlas, 2002. 
+MARCONI, Marina de Andrade; LAKATOS, Eva Maria. **Metodologia do TrabalhoCientífico** . 5. ed. São Paulo: Atlas, 2001.
 
-MARCONI, Marina de Andrade; LAKATOS, Eva Maria. **Metodologia Científica** . 3. ed. São Paulo: Atlas, 2000. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-MARCONI, Marina de Andrade; LAKATOS, Eva Maria. **Metodologia do TrabalhoCientífico** . 5. ed. São Paulo: Atlas, 2001. 
+RUDIO, Franz V. **Introdução ao projeto de pesquisa científica** . 34. ed. Petrópolis: Vozes, 2007. SEVERINO, Antônio J. **Metodologia do trabalho científico** . 23. ed. São Paulo: Cortez, 2007. 304 p. BASTOS, L. da R. et.all. **Manual para a elaboração de projetos e relatórios de pesquisa: teses, dissertações e monografias.** Rio de Janeiro: LTC, 2001. BELO DE AZEVEDO, Israel. **O Prazer da Produção Científica.** 2. ed. Piracicaba: UNIMEP, 1993. OLIVEIRA, S. L. **Tratado de Metodologia Científica:** projetos de pesquisas, TGI, TCC, Monografias, Dissertações e Teses. São Paulo: Pioneira, 1997. RUDIO, F.V. **Introdução ao Projeto de Pesquisa.** 31. ed. Petrópolis: Vozes, 2003 BALLÃO, Carmen (org). Metodologia da Pesquisa. Insituto Federal do Paraná, 2012.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+51
 
-RUDIO, Franz V. **Introdução ao projeto de pesquisa científica** . 34. ed. Petrópolis: Vozes, 2007. SEVERINO, Antônio J. **Metodologia do trabalho científico** . 23. ed. São Paulo: Cortez, 2007. 304 p. BASTOS, L. da R. et.all. **Manual para a elaboração de projetos e relatórios de pesquisa: teses, dissertações e monografias.** Rio de Janeiro: LTC, 2001. BELO DE AZEVEDO, Israel. **O Prazer da Produção Científica.** 2. ed. Piracicaba: UNIMEP, 1993. OLIVEIRA, S. L. **Tratado de Metodologia Científica:** projetos de pesquisas, TGI, TCC, Monografias, Dissertações e Teses. São Paulo: Pioneira, 1997. RUDIO, F.V. **Introdução ao Projeto de Pesquisa.** 31. ed. Petrópolis: Vozes, 2003 BALLÃO, Carmen (org). Metodologia da Pesquisa. Insituto Federal do Paraná, 2012. 
+## 2.7.5 OPTATIVAS
 
-51 
+## **COMPONENTE CURRICULAR:**
 
-## 2.7.5 OPTATIVAS 
+LIBRAS
 
-## **COMPONENTE CURRICULAR:** 
+## **CARGA HORÁRIA:**
 
-LIBRAS 
+40 Hora/aula e 33 Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-40 Hora/aula e 33 Hora/relógio (60 min) 
+- Aspectos clínicos, educacionais e sócio-antropologicos da surdez;
 
-## **EMENTA:** 
+- A Língua Brasileira de Sinais: Libras
 
-- Aspectos clínicos, educacionais e sócio-antropologicos da surdez; 
+- Noções básicas de fonologia, morfologia e de sintaxe;
 
-- A Língua Brasileira de Sinais: Libras 
+- Estudo léxico das Libras
 
-- Noções básicas de fonologia, morfologia e de sintaxe; 
+- Noções de variação
 
-- Estudo léxico das Libras 
+- Prática de Libras
 
-- Noções de variação 
+## **BIBLIOGRAFIA BÁSICA:**
 
-- Prática de Libras 
+BRASIL MEC/SEESP. Educação Especial - Língua Brasileira de Sinais (Série Atualidades Pedagógicas). Caderno 3. Brasília/DF. 1997. FENEIS. Revista da FENEIS Nº 06 e 07 (2000) e N.º 10 (2001), Rio de Janeiro/RJ.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+BRITO, L. F. Por uma Gramática de Línguas de Sinais. Rio de Janeiro Tempo Brasileiro 1995 CASTRO JUNIOR, G. Variação Linguística em Língua de Sinais Brasileira: foco no léxico.
 
-BRASIL MEC/SEESP. Educação Especial - Língua Brasileira de Sinais (Série Atualidades Pedagógicas). Caderno 3. Brasília/DF. 1997. FENEIS. Revista da FENEIS Nº 06 e 07 (2000) e N.º 10 (2001), Rio de Janeiro/RJ. 
+Brasília Dissertação de Mestrado: UnB 2011
 
-BRITO, L. F. Por uma Gramática de Línguas de Sinais. Rio de Janeiro Tempo Brasileiro 1995 CASTRO JUNIOR, G. Variação Linguística em Língua de Sinais Brasileira: foco no léxico. 
+COUTINHO, D. Libras e Língua Portuguesa: semelhanças e diferenças. Arpoador. João Pessoa:  2000.
 
-Brasília Dissertação de Mestrado: UnB 2011 
+KOJIMA, C. K.; SEGALA, S. R. Revista Língua de Sinais. A Imagem do Pensamento. Editora Escala – São Paulo/SP. N.º 02 e 04, 2001
 
-COUTINHO, D. Libras e Língua Portuguesa: semelhanças e diferenças. Arpoador. João Pessoa:  2000. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-KOJIMA, C. K.; SEGALA, S. R. Revista Língua de Sinais. A Imagem do Pensamento. Editora Escala – São Paulo/SP. N.º 02 e 04, 2001 
+FELIPE, T. A. Libras em Contexto. 7ª Brasília MEC/SEESP 2007.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+QUADROS, R. M.; KARNOPP, L. Língua de Sinais Brasileira: estudos lingüísticos. Porto Alegre Artmed 2004
 
-FELIPE, T. A. Libras em Contexto. 7ª Brasília MEC/SEESP 2007. 
+SACKS, O. W. Vendo Vozes: uma viagem ao mundo dos surdos. São Paulo Companhia das Letras 1998 SKLIAR, C. A Surdez: um olhar sobre as diferenças. Porto Alegre Mediação 1998.
 
-QUADROS, R. M.; KARNOPP, L. Língua de Sinais Brasileira: estudos lingüísticos. Porto Alegre Artmed 2004 
+STRNADOVÁ, V. Como é Ser Surdo. Petrópolis Babel 2000.
 
-SACKS, O. W. Vendo Vozes: uma viagem ao mundo dos surdos. São Paulo Companhia das Letras 1998 SKLIAR, C. A Surdez: um olhar sobre as diferenças. Porto Alegre Mediação 1998. 
+52
 
-STRNADOVÁ, V. Como é Ser Surdo. Petrópolis Babel 2000. 
+## **COMPONENTE CURRICULAR:**
 
-52 
+Inovação e Criatividade
 
-## **COMPONENTE CURRICULAR:** 
+## **CARGA HORÁRIA:**
 
-Inovação e Criatividade 
+40 Hora/aula e 33 Hora/relógio (60 min)
 
-## **CARGA HORÁRIA:** 
+## **EMENTA:**
 
-40 Hora/aula e 33 Hora/relógio (60 min) 
+- Fundamentos da Inovação e Criatividade.
 
-## **EMENTA:** 
+- Técnicas e exercícios que potencializam a criatividade e inovação em produtos e serviços.
 
-- Fundamentos da Inovação e Criatividade. 
+- O processo de gestão criativo e de inovação na empresa.
 
-- Técnicas e exercícios que potencializam a criatividade e inovação em produtos e serviços. 
+- Características da pessoa criativa e inovadora.
 
-- O processo de gestão criativo e de inovação na empresa. 
+- Como estimular a inovação e a criatividade na empresa.
 
-- Características da pessoa criativa e inovadora. 
+## **BIBLIOGRAFIA BÁSICA:**
 
-- Como estimular a inovação e a criatividade na empresa. 
+FIGUEIREDO, Paulo N. Gestão da inovação: conceitos, métricas e experiências de empresas no Brasil. São Paulo: LTC, 2009.
 
-## **BIBLIOGRAFIA BÁSICA:** 
+TIDD, J.; BESANT, J., PAVITT, K. Gestão da inovação. São Paulo: Artmed, 2008.
 
-FIGUEIREDO, Paulo N. Gestão da inovação: conceitos, métricas e experiências de empresas no Brasil. São Paulo: LTC, 2009. 
+OSTROWER, Fayga. Criatividade e processo de criação. 24. ed. Petrópolis: Vozes, 2009
 
-TIDD, J.; BESANT, J., PAVITT, K. Gestão da inovação. São Paulo: Artmed, 2008. 
+DORNELAS, J. C. A. **Empreendedorismo: transformando ideias em negócios.** 2ª Ed. Rio de Janeiro: Campus, 2005.
 
-OSTROWER, Fayga. Criatividade e processo de criação. 24. ed. Petrópolis: Vozes, 2009 
+STADLER, A; HALICKI, Z; ARANTES, E. C. Empreendedorismo e Responsabilidade Social. Curitiba: Editora Intersaberes. 2014.
 
-DORNELAS, J. C. A. **Empreendedorismo: transformando ideias em negócios.** 2ª Ed. Rio de Janeiro: Campus, 2005. 
+## **BIBLIOGRAFIA COMPLEMENTAR:**
 
-STADLER, A; HALICKI, Z; ARANTES, E. C. Empreendedorismo e Responsabilidade Social. Curitiba: Editora Intersaberes. 2014. 
+ALENCAR, Eunice Soriano de. A gerência da criatividade. São Paulo: Makron Books, 1996. AYAN, Jordan E. AHA!: 10 maneiras de libertar seu espírito criativo e encontrar grandes ideias. São Paulo: Negócio Editora, 1998.
 
-## **BIBLIOGRAFIA COMPLEMENTAR:** 
+DRUCKER, Peter Ferdinand. Inovação e espírito empreendedor (entrepreneurship): prática e princípios. São Paulo: Pioneira Thomson, 2008.
 
-ALENCAR, Eunice Soriano de. A gerência da criatividade. São Paulo: Makron Books, 1996. AYAN, Jordan E. AHA!: 10 maneiras de libertar seu espírito criativo e encontrar grandes ideias. São Paulo: Negócio Editora, 1998. 
+FLEURY, Maria Tereza Leme; FLEURY, Afonso C. Correa. Aprendizagem e inovação organizacional. São Paulo: Atlas, 2000.
 
-DRUCKER, Peter Ferdinand. Inovação e espírito empreendedor (entrepreneurship): prática e princípios. São Paulo: Pioneira Thomson, 2008. 
+FLEITH, Denise de Souza; ALENCAR, Eunice M. L. Soriano de (Org.). Desenvolvimento de talentos e altas habilidades: orientação a pais e professores Porto Alegre: ARTMED, 2007.
 
-FLEURY, Maria Tereza Leme; FLEURY, Afonso C. Correa. Aprendizagem e inovação organizacional. São Paulo: Atlas, 2000. 
+53
 
-FLEITH, Denise de Souza; ALENCAR, Eunice M. L. Soriano de (Org.). Desenvolvimento de talentos e altas habilidades: orientação a pais e professores Porto Alegre: ARTMED, 2007. 
+## 2.8 AVALIAÇÃO
 
-53 
+## **2.8.1 Avaliação da Aprendizagem**
 
-## 2.8 AVALIAÇÃO 
+Toda a avaliação da aprendizagem está baseada na Resolução CONSUP/IFPR Nº 50 de 14 de julho de 2017, que estabelece as normas de avaliação dos processos de ensino-aprendizagem no âmbito do IFPR. Para garantir o processo permanente de aprendizado do estudante do Tecnólogo em Processos Gerenciais, a relação entre teoria e prática, expresso na indissociabilidade do ensino, pesquisa, extensão e inovação será uma constante, encadeando os procedimentos de ensino-aprendizagem. A relação entre teoria e prática permite o desenvolvimento da capacidade do estudante de refletir criticamente. Mas cabe ao docente a mediação entre o conhecimento prévio do estudante e o sistematizado, propiciando formas de apropriação e/ou construção dos saberes em suas múltiplas dimensões. Dessa forma, a avaliação é parte do processo de ensino-aprendizagem e não um fim, devendo ser contínua, cumulativa, com predominância de aspectos qualitativos, que implicará na necessidade de diagnóstico e registro da aprendizagem constantes.
 
-## **2.8.1 Avaliação da Aprendizagem** 
+Este encadeamento de atividades deverá subsidiar o planejamento, prática de ensino e tomada de decisão docente, de forma dialogada com os estudantes, permitindo também sua revisão regularmente. Neste contexto, o processo de avaliação de ensino-aprendizagem será diagnóstico, formativo e somativo.
 
-Toda a avaliação da aprendizagem está baseada na Resolução CONSUP/IFPR Nº 50 de 14 de julho de 2017, que estabelece as normas de avaliação dos processos de ensino-aprendizagem no âmbito do IFPR. Para garantir o processo permanente de aprendizado do estudante do Tecnólogo em Processos Gerenciais, a relação entre teoria e prática, expresso na indissociabilidade do ensino, pesquisa, extensão e inovação será uma constante, encadeando os procedimentos de ensino-aprendizagem. A relação entre teoria e prática permite o desenvolvimento da capacidade do estudante de refletir criticamente. Mas cabe ao docente a mediação entre o conhecimento prévio do estudante e o sistematizado, propiciando formas de apropriação e/ou construção dos saberes em suas múltiplas dimensões. Dessa forma, a avaliação é parte do processo de ensino-aprendizagem e não um fim, devendo ser contínua, cumulativa, com predominância de aspectos qualitativos, que implicará na necessidade de diagnóstico e registro da aprendizagem constantes. 
+Os principais instrumentos de avaliação da aprendizagem de acordo com a Resolução 50 são: seminários, trabalhos individuais e/ou em grupos, testes escritos e/ou orais/sinalizados, demostrações de técnicas em laboratório, dramatizações, apresentações de trabalhos finais de iniciação científica, artigos científicos ou ensaios, TCC, relatórios de estágio, portfólios, resenhas, autoavaliações, participação em projetos, participações em atividades culturais e esportivas, visitas técnias, atividades em AVA, atividades de mobilidade nacional e internacional e outras atividades de ensino, pesquisa e extensão.
 
-Este encadeamento de atividades deverá subsidiar o planejamento, prática de ensino e tomada de decisão docente, de forma dialogada com os estudantes, permitindo também sua revisão regularmente. Neste contexto, o processo de avaliação de ensino-aprendizagem será diagnóstico, formativo e somativo. 
+O docente utilizará, ao menos, dois instrumentos ao longo de cada período avaliado para emitir resultados parciais e finais (Art. 10, parágrafo único).
 
-Os principais instrumentos de avaliação da aprendizagem de acordo com a Resolução 50 são: seminários, trabalhos individuais e/ou em grupos, testes escritos e/ou orais/sinalizados, demostrações de técnicas em laboratório, dramatizações, apresentações de trabalhos finais de iniciação científica, artigos científicos ou ensaios, TCC, relatórios de estágio, portfólios, resenhas, autoavaliações, participação em projetos, participações em atividades culturais e esportivas, visitas técnias, atividades em AVA, atividades de mobilidade nacional e internacional e outras atividades de ensino, pesquisa e extensão. 
+Caso a produção do estudante, a partir dos diversificados instrumentos avaliativos, indicar necessidade de recuperação, esta será garantida obrigatoriamente pelos professores do curso (tão logo sejam identificadas as dificuldades no processo de ensino aprendizagem) de forma contínua ou paralela, a depender da situação colocada e acordada entre professor, estudante, coordenação do curso e seção pedagógica do campus.
 
-O docente utilizará, ao menos, dois instrumentos ao longo de cada período avaliado para emitir resultados parciais e finais (Art. 10, parágrafo único). 
+54
 
-Caso a produção do estudante, a partir dos diversificados instrumentos avaliativos, indicar necessidade de recuperação, esta será garantida obrigatoriamente pelos professores do curso (tão logo sejam identificadas as dificuldades no processo de ensino aprendizagem) de forma contínua ou paralela, a depender da situação colocada e acordada entre professor, estudante, coordenação do curso e seção pedagógica do campus. 
+## **2.8.2 Plano de Avaliação Institucional**
 
-54 
+A CPA (Comissão Própria de Avaliação) é instituída pelo SINAES (Sistema Nacional de Avaliação da Educação Superior) e é responsável pela implantação e desenvolvimento de processos de avaliação institucional. Os instrumentos de avaliação (questionários, pesquisas ou outras ferramentas) a serem desenvolvidas pela CPA servirão para o planejamento educacional e apontarão as áreas e setores que precisam de melhorias.
 
-## **2.8.2 Plano de Avaliação Institucional** 
+Atribuições da CPA do IFPR:
 
-A CPA (Comissão Própria de Avaliação) é instituída pelo SINAES (Sistema Nacional de Avaliação da Educação Superior) e é responsável pela implantação e desenvolvimento de processos de avaliação institucional. Os instrumentos de avaliação (questionários, pesquisas ou outras ferramentas) a serem desenvolvidas pela CPA servirão para o planejamento educacional e apontarão as áreas e setores que precisam de melhorias. 
+I. Apreciar:
 
-Atribuições da CPA do IFPR: 
+a) o cumprimento dos princípios, finalidades e objetivos institucionais;
 
-I. Apreciar: 
+b) a missão e o Plano de Desenvolvimento Institucional (PDI);
 
-a) o cumprimento dos princípios, finalidades e objetivos institucionais; 
+c) as políticas de ensino, pesquisa, pós-graduação e extensão;
 
-b) a missão e o Plano de Desenvolvimento Institucional (PDI); 
+d) a responsabilidade social da Instituição;
 
-c) as políticas de ensino, pesquisa, pós-graduação e extensão; 
+e) a infraestrutura física, em especial a do ensino, pesquisa, pós-graduação, extensão e biblioteca;
 
-d) a responsabilidade social da Instituição; 
+f) a comunicação com a sociedade;
 
-e) a infraestrutura física, em especial a do ensino, pesquisa, pós-graduação, extensão e biblioteca; 
+g) a organização e gestão da Instituição;
 
-f) a comunicação com a sociedade; 
+h) o planejamento e avaliação, especialmente os processos, resultados e eficácia da auto-avaliação institucional; e
 
-g) a organização e gestão da Instituição; 
+i) as políticas de atendimento aos estudantes.
 
-h) o planejamento e avaliação, especialmente os processos, resultados e eficácia da auto-avaliação institucional; e 
+II. Analisar as avaliações dos diferentes segmentos do IFPR, no âmbito da sua competência;
 
-i) as políticas de atendimento aos estudantes. 
+III. Desenvolver estudos e análises, visando o fornecimento de subsídios para fixação, aperfeiçoamento e modificação da política da Avaliação Institucional;
 
-II. Analisar as avaliações dos diferentes segmentos do IFPR, no âmbito da sua competência; 
+IV. Propor projetos, programas e ações que proporcionem a melhoria do processo avaliativo institucional; V. Participar de todas as atividades relativas a eventos promovidos pelo Conselho Nacional de Educação Superior (CONAES), sempre que convidada ou convocada; e colaborar com os órgãos próprios do IFPR, no planejamento dos programas de Avaliação Institucional.
 
-III. Desenvolver estudos e análises, visando o fornecimento de subsídios para fixação, aperfeiçoamento e modificação da política da Avaliação Institucional; 
+Pretende-se estabelecer comunicação contínua entre a CPA e os docentes e estudantes do curso Superior de Tecnologia em Processos Gerenciais por meio de convites aos membros representantes da CPA do campus Curitiba para participar eventualmente das reuniões do colegiado do curso.
 
-IV. Propor projetos, programas e ações que proporcionem a melhoria do processo avaliativo institucional; V. Participar de todas as atividades relativas a eventos promovidos pelo Conselho Nacional de Educação Superior (CONAES), sempre que convidada ou convocada; e colaborar com os órgãos próprios do IFPR, no planejamento dos programas de Avaliação Institucional. 
+## **2.8.3 Avaliação do Curso**
 
-Pretende-se estabelecer comunicação contínua entre a CPA e os docentes e estudantes do curso Superior de Tecnologia em Processos Gerenciais por meio de convites aos membros representantes da CPA do campus Curitiba para participar eventualmente das reuniões do colegiado do curso. 
+55
 
-## **2.8.3 Avaliação do Curso** 
+Todas as avaliações realizadas na Instituição deverão ser analisadas pelo colegiado do Curso a fim de que melhorias permanentes sejam implantadas.
 
-55 
+Para fins de Reconhecimento, no início da segunda metade do Curso, a instituição deverá solicitar junto ao MEC a visita e avaliação.
 
-Todas as avaliações realizadas na Instituição deverão ser analisadas pelo colegiado do Curso a fim de que melhorias permanentes sejam implantadas. 
+## **2.8.4 Avaliação do Projeto Pedagógico do Curso**
 
-Para fins de Reconhecimento, no início da segunda metade do Curso, a instituição deverá solicitar junto ao MEC a visita e avaliação. 
+O projeto pedagógico foi avaliado a partir da comissão de elaboração do projeto pedagógico do curso, instituído pela portaria 072/2017 do campus Curitiba. Tal comissão teve como objetivo sugerir as concepções pedagógicas do curso, ementário e demais informações relevantes em sua constituição. O NDE do curso técnico subsequente em administração contribuiu na avaliação e ajustes do projeto por meio da discussão, pesquisas e elaboração dos termos que compõe este PPC. Em todas as reuniões realizadas durante o processo de construção do PPC o NDE atuou de maneira a assegurar que o curso terá viabilidade e função social na formação de profissionais da área de processos gerenciais. O NDE estará ao lado da coordenação do curso discutindo as melhores formas de assegurar a qualidade no processo de ensino-aprendizagem.
 
-## **2.8.4 Avaliação do Projeto Pedagógico do Curso** 
+## 2.9 ESTÁGIO CURRICULAR SUPERVISIONADO
 
-O projeto pedagógico foi avaliado a partir da comissão de elaboração do projeto pedagógico do curso, instituído pela portaria 072/2017 do campus Curitiba. Tal comissão teve como objetivo sugerir as concepções pedagógicas do curso, ementário e demais informações relevantes em sua constituição. O NDE do curso técnico subsequente em administração contribuiu na avaliação e ajustes do projeto por meio da discussão, pesquisas e elaboração dos termos que compõe este PPC. Em todas as reuniões realizadas durante o processo de construção do PPC o NDE atuou de maneira a assegurar que o curso terá viabilidade e função social na formação de profissionais da área de processos gerenciais. O NDE estará ao lado da coordenação do curso discutindo as melhores formas de assegurar a qualidade no processo de ensino-aprendizagem. 
+Não se aplica
 
-## 2.9 ESTÁGIO CURRICULAR SUPERVISIONADO 
+## **2.9.1 Convênios de Estágio**
 
-Não se aplica 
+NO CST em Processos Gerenciais o estágio não é obrigatório. Porém, todo estudante que desejar realizar estágio, terá o respaldo institucional, visando aproximar o conhecimento teórico da prática do mundo do trabalho.
 
-## **2.9.1 Convênios de Estágio** 
+Todos os trâmites ocorrerão de acordo com as políticas institucionais já existentes no campus Curitiba, da mesma forma que, com a formalização dos termos de cooperação e convênios entre o IFPR e instituições públicas e privadas.
 
-NO CST em Processos Gerenciais o estágio não é obrigatório. Porém, todo estudante que desejar realizar estágio, terá o respaldo institucional, visando aproximar o conhecimento teórico da prática do mundo do trabalho. 
+O regulamento de estágio se enconta no Anexo A deste projeto.
 
-Todos os trâmites ocorrerão de acordo com as políticas institucionais já existentes no campus Curitiba, da mesma forma que, com a formalização dos termos de cooperação e convênios entre o IFPR e instituições públicas e privadas. 
+56
 
-O regulamento de estágio se enconta no Anexo A deste projeto. 
+## 2.10 TRABALHO DE CONCLUSÃO DE CURSO
 
-56 
+O Trabalho de Conclusão de Curso, TCC, compõe o projeto pedagógico do curso Superior de Processos Gerenciais, concebido como um instrumental para o desenvolvimento de competências desejáveis na formação do perfil do pedagogo. O TCC visa desenvolver além da perspectiva de pesquisa na área de gestão, a integração entre os componentes curriculares que compõem o currículo do curso. Entende-se por Trabalho de Conclusão de Curso, o trabalho científico correlacionado às diversas áreas do Curso Superior de Processos Gerenciais. Inicialmente será organizado por um projeto no qual o estudante demonstrará a sua competência para desenvolver pesquisa, aplicar metodologia apropriada, identificar variáveis e correlacioná-las e, no final do Curso, elaborar o texto de conclusão da pesquisa. Assim o estudante desenvolverá seu TCC a partir da elaboração do problema a ser investigado, posteriormente realizará uma revisão bibliográfica que contribuirá para a sedimentação do conhecimento do estudante, bem como abrirá espaço para a reflexão sobre o tema proposto. Cabe destacar que o rigor metodológico possibilitará a credibilidade da pesquisa, conduzindo o estudante ao alcance de respostas confiáveis ao problema investigado.  Pretende-se que, após a conclusão do trabalho possa-se evidenciar a evolução do estudante, por meio da análise das relações entre as variáveis do objeto de estudo da pesquisa. Para a supervisão do TCC, estão previstas na grade horária do curso em 134 horas relógio no último semestre do Curso, onde acontecerão as orientações específicas por projeto, articulando-se os trabalhos desenvolvidos em todos os semestres.
 
-## 2.10 TRABALHO DE CONCLUSÃO DE CURSO 
+## 2.11 ATIVIDADES COMPLEMENTARES
 
-O Trabalho de Conclusão de Curso, TCC, compõe o projeto pedagógico do curso Superior de Processos Gerenciais, concebido como um instrumental para o desenvolvimento de competências desejáveis na formação do perfil do pedagogo. O TCC visa desenvolver além da perspectiva de pesquisa na área de gestão, a integração entre os componentes curriculares que compõem o currículo do curso. Entende-se por Trabalho de Conclusão de Curso, o trabalho científico correlacionado às diversas áreas do Curso Superior de Processos Gerenciais. Inicialmente será organizado por um projeto no qual o estudante demonstrará a sua competência para desenvolver pesquisa, aplicar metodologia apropriada, identificar variáveis e correlacioná-las e, no final do Curso, elaborar o texto de conclusão da pesquisa. Assim o estudante desenvolverá seu TCC a partir da elaboração do problema a ser investigado, posteriormente realizará uma revisão bibliográfica que contribuirá para a sedimentação do conhecimento do estudante, bem como abrirá espaço para a reflexão sobre o tema proposto. Cabe destacar que o rigor metodológico possibilitará a credibilidade da pesquisa, conduzindo o estudante ao alcance de respostas confiáveis ao problema investigado.  Pretende-se que, após a conclusão do trabalho possa-se evidenciar a evolução do estudante, por meio da análise das relações entre as variáveis do objeto de estudo da pesquisa. Para a supervisão do TCC, estão previstas na grade horária do curso em 134 horas relógio no último semestre do Curso, onde acontecerão as orientações específicas por projeto, articulando-se os trabalhos desenvolvidos em todos os semestres. 
+As Atividades Complementares ou Atividades Acadêmico-Científico-Culturais são obrigatórias, segundo a Resolução CNE/CP 2/2015, são componentes curriculares que possibilitam o reconhecimento, por avaliação, de habilidades, conhecimentos e competências do estudante, inclusive adquiridas fora do ambiente escolar, abrangendo a prática de estudos e atividades independentes, transversais, opcionais e de interdisciplinaridade com o mundo do trabalho.
 
-## 2.11 ATIVIDADES COMPLEMENTARES 
+As atividades complementares têm a finalidade de enriquecer o processo de ensino-aprendizagem, privilegiando a complementação da formação social e profissional. O que caracteriza esse conjunto de atividades é a flexibilidade de carga horária semanal, com controle do tempo total de dedicação do estudante durante o semestre ou ano letivo.
 
-As Atividades Complementares ou Atividades Acadêmico-Científico-Culturais são obrigatórias, segundo a Resolução CNE/CP 2/2015, são componentes curriculares que possibilitam o reconhecimento, por avaliação, de habilidades, conhecimentos e competências do estudante, inclusive adquiridas fora do ambiente escolar, abrangendo a prática de estudos e atividades independentes, transversais, opcionais e de interdisciplinaridade com o mundo do trabalho. 
+No âmbito do Curso, as Atividades Complementares serão propostas concomitantes à matriz curricular em cada um dos 4 semestres do curso, consistindo também em mecanismos de aproveitamento
 
-As atividades complementares têm a finalidade de enriquecer o processo de ensino-aprendizagem, privilegiando a complementação da formação social e profissional. O que caracteriza esse conjunto de atividades é a flexibilidade de carga horária semanal, com controle do tempo total de dedicação do estudante durante o semestre ou ano letivo. 
+57
 
-No âmbito do Curso, as Atividades Complementares serão propostas concomitantes à matriz curricular em cada um dos 4 semestres do curso, consistindo também em mecanismos de aproveitamento 
+de conhecimentos, adquiridos pelo estudante, através de estudos e práticas independentes, desde que atendido o prazo mínimo, estabelecido pela Instituição, para a conclusão do curso. O regulamento das Atividades Complementares encontra-se no Apêndice C deste documento.
 
-57 
+## 2.12 FORMAS DE ACESSO, PERMANÊNCIA
 
-de conhecimentos, adquiridos pelo estudante, através de estudos e práticas independentes, desde que atendido o prazo mínimo, estabelecido pela Instituição, para a conclusão do curso. O regulamento das Atividades Complementares encontra-se no Apêndice C deste documento. 
+O acesso será realizado por processo seletivo regido pelas normativas institucionais.
 
-## 2.12 FORMAS DE ACESSO, PERMANÊNCIA 
+As políticas de assistência estudantil institucional pretendem garantir a permanência do estudante até o final do Curso.
 
-O acesso será realizado por processo seletivo regido pelas normativas institucionais. 
+## **2.12.1 Bolsas de Pesquisa, Extensão, Inovação, Inclusão Social, Monitoria e Bolsa-Atleta**
 
-As políticas de assistência estudantil institucional pretendem garantir a permanência do estudante até o final do Curso. 
+A Política de Apoio Estudantil do IFPR compreende o conjunto de ações voltadas aos estudantes e que atendam aos princípios de garantia de acesso, permanência e conclusão do curso de acordo com os princípios da Educação Integral (formação geral, profissional e tecnológica) em estreita articulação com os setores produtivos locais, econômicos e sociais e é posta em prática, através da oferta periódica de vários Programas de Bolsas de Estudos, sendo regulamentada através da Resolução CONSUP № 011 /2009 e No 53/2011.
 
-## **2.12.1 Bolsas de Pesquisa, Extensão, Inovação, Inclusão Social, Monitoria e Bolsa-Atleta** 
+Essa Política tem como premissa a respeitabilidade a diversidade social, étnica, racial e inclusiva na perspectiva de uma sociedade democrática e cidadã, pautando-se nos seguintes princípios:
 
-A Política de Apoio Estudantil do IFPR compreende o conjunto de ações voltadas aos estudantes e que atendam aos princípios de garantia de acesso, permanência e conclusão do curso de acordo com os princípios da Educação Integral (formação geral, profissional e tecnológica) em estreita articulação com os setores produtivos locais, econômicos e sociais e é posta em prática, através da oferta periódica de vários Programas de Bolsas de Estudos, sendo regulamentada através da Resolução CONSUP № 011 /2009 e No 53/2011. 
+I. Educação profissional e tecnológica pública e gratuita de qualidade;
 
-Essa Política tem como premissa a respeitabilidade a diversidade social, étnica, racial e inclusiva na perspectiva de uma sociedade democrática e cidadã, pautando-se nos seguintes princípios: 
+II. Igualdade de oportunidade no acesso, permanência e conclusão de curso;
 
-I. Educação profissional e tecnológica pública e gratuita de qualidade; 
+III. Garantia de qualidade de formação tecnológica e humanística voltada ao fortalecimento das políticas de inclusão social;
 
-II. Igualdade de oportunidade no acesso, permanência e conclusão de curso; 
+IV. Defesa do pluralismo de ideias com reconhecimento a liberdade de expressão;
 
-III. Garantia de qualidade de formação tecnológica e humanística voltada ao fortalecimento das políticas de inclusão social; 
+V. Eliminação de qualquer forma de preconceito ou discriminação;
 
-IV. Defesa do pluralismo de ideias com reconhecimento a liberdade de expressão; 
+São Programas de Bolsas de Estudos do IFPR: o Programa Institucional de Bolsas de Iniciação Científica do IFPR – PIBIC e PIBIC-Jr, o Programa de Bolsas de Extensão – PIBEX e PIBEX - Jr, o Programa de Bolsas de Inclusão Social – PBIS, o PRADI - Programa de Apoio ao Desenvolvimento Tecnológico e Inovação do IFPR, o PIBID – Programa de Bolsas de Iniciação à Docência, além do Programa de Auxílio Complementar ao Estudante – PACE, do PIAP - Programa de Apoio à Pesquisa do IFPR e do Programa de Apoio a Eventos Estudantis, que consiste em oportunizar aos estudantes enriquecimento em sua formação profissional e humanística, através de apoio financeiro ou logístico aos
 
-V. Eliminação de qualquer forma de preconceito ou discriminação; 
+58
 
-São Programas de Bolsas de Estudos do IFPR: o Programa Institucional de Bolsas de Iniciação Científica do IFPR – PIBIC e PIBIC-Jr, o Programa de Bolsas de Extensão – PIBEX e PIBEX - Jr, o Programa de Bolsas de Inclusão Social – PBIS, o PRADI - Programa de Apoio ao Desenvolvimento Tecnológico e Inovação do IFPR, o PIBID – Programa de Bolsas de Iniciação à Docência, além do Programa de Auxílio Complementar ao Estudante – PACE, do PIAP - Programa de Apoio à Pesquisa do IFPR e do Programa de Apoio a Eventos Estudantis, que consiste em oportunizar aos estudantes enriquecimento em sua formação profissional e humanística, através de apoio financeiro ou logístico aos 
+estudantes regularmente matriculados no IFPR para participarem de eventos locais, estaduais e nacionais, de natureza acadêmica, científica, cultural e esportiva. Este programa está regulamentado através da Resolução 65/2010 e é ofertado através de edital, com inscrições ao longo do ano letivo.
 
-58 
+O PIBIC está inserido no Programa Institucional de Iniciação Científica (PIIC), que é voltado para o desenvolvimento do pensamento científico e iniciação à pesquisa de estudantes de graduação e integra alguns os programas de iniciação científica de agências de fomento. O PIIC do IFPR é regulamentado através da Resolução CONSUP № 11/11.
 
-estudantes regularmente matriculados no IFPR para participarem de eventos locais, estaduais e nacionais, de natureza acadêmica, científica, cultural e esportiva. Este programa está regulamentado através da Resolução 65/2010 e é ofertado através de edital, com inscrições ao longo do ano letivo. 
+Este programa tem como objetivos despertar vocação científica e incentivar novos talentos potenciais entre estudantes de graduação, propiciar à Instituição um instrumento de formulação de política de iniciação à pesquisa para estudantes de graduação, estimular uma maior articulação entre a graduação e pós-graduação, contribuir para a formação de recursos humanos para a pesquisa, estimular pesquisadores produtivos a envolverem estudantes de graduação nas atividades científica, tecnológica, artística e cultural, proporcionar ao bolsista, orientado por pesquisador qualificado, a aprendizagem de técnicas e métodos de pesquisa, bem como estimular o desenvolvimento do pensar cientificamente e da criatividade, decorrentes das condições criadas pelo confronto direto com os problemas de pesquisa, além de contribuir para a formação científica de recursos humanos que se dedicarão a qualquer atividade profissional. O PIIC do IFPR é regulamentado através da Resolução CONSUP № 11/11.
 
-O PIBIC está inserido no Programa Institucional de Iniciação Científica (PIIC), que é voltado para o desenvolvimento do pensamento científico e iniciação à pesquisa de estudantes de graduação e integra alguns os programas de iniciação científica de agências de fomento. O PIIC do IFPR é regulamentado através da Resolução CONSUP № 11/11. 
+O Programa de Bolsas de Extensão (PIBEX e PIBEX Jr), tem por objetivos principais incentivar as atividades de extensão com vistas a produção e divulgação do conhecimento a partir da realidade local, contribuir com a formação do estudante em seus aspectos técnico tecnológico e humano, promover a participação de servidores e estudantes em atividades de integração com a sociedade, incentivar a interação entre o conhecimento acadêmico e o popular contribuindo com políticas, públicas, assim como, colaborar com a articulação entre ensino pesquisa e extensão.
 
-Este programa tem como objetivos despertar vocação científica e incentivar novos talentos potenciais entre estudantes de graduação, propiciar à Instituição um instrumento de formulação de política de iniciação à pesquisa para estudantes de graduação, estimular uma maior articulação entre a graduação e pós-graduação, contribuir para a formação de recursos humanos para a pesquisa, estimular pesquisadores produtivos a envolverem estudantes de graduação nas atividades científica, tecnológica, artística e cultural, proporcionar ao bolsista, orientado por pesquisador qualificado, a aprendizagem de técnicas e métodos de pesquisa, bem como estimular o desenvolvimento do pensar cientificamente e da criatividade, decorrentes das condições criadas pelo confronto direto com os problemas de pesquisa, além de contribuir para a formação científica de recursos humanos que se dedicarão a qualquer atividade profissional. O PIIC do IFPR é regulamentado através da Resolução CONSUP № 11/11. 
+Programa de Bolsas de Inclusão Social – PBIS, consiste em oportunizar aos estudantes, com vulnerabilidade socioeconômica, remuneração financeira como incentivo à participação em propostas acadêmicas, que contribuam com a sua formação. Para a participação no referido programa será considerado, além da avaliação socioeconômica, o risco de abandono, reprovação ou dificuldades de desempenho do estudante no curso.
 
-O Programa de Bolsas de Extensão (PIBEX e PIBEX Jr), tem por objetivos principais incentivar as atividades de extensão com vistas a produção e divulgação do conhecimento a partir da realidade local, contribuir com a formação do estudante em seus aspectos técnico tecnológico e humano, promover a participação de servidores e estudantes em atividades de integração com a sociedade, incentivar a interação entre o conhecimento acadêmico e o popular contribuindo com políticas, públicas, assim como, colaborar com a articulação entre ensino pesquisa e extensão. 
+O estudante poderá participar do Programa de Bolsas Acadêmicas de Inclusão Social através de diversas atividades vinculadas ao ensino, pesquisa, extensão ou ainda àquelas atividades administrativo pedagógicas, tais como: coordenações de curso, bibliotecas, laboratórios, unidades administrativas (tanto nos Campi como nas Pró-Reitorias, Gabinete do Reitor e Assessorias da Reitoria) entre outros, sendo que, em qualquer um dos projetos/propostas ou atividades em que o estudante for selecionado será obrigatória
 
-Programa de Bolsas de Inclusão Social – PBIS, consiste em oportunizar aos estudantes, com vulnerabilidade socioeconômica, remuneração financeira como incentivo à participação em propostas acadêmicas, que contribuam com a sua formação. Para a participação no referido programa será considerado, além da avaliação socioeconômica, o risco de abandono, reprovação ou dificuldades de desempenho do estudante no curso. 
+59
 
-O estudante poderá participar do Programa de Bolsas Acadêmicas de Inclusão Social através de diversas atividades vinculadas ao ensino, pesquisa, extensão ou ainda àquelas atividades administrativo pedagógicas, tais como: coordenações de curso, bibliotecas, laboratórios, unidades administrativas (tanto nos Campi como nas Pró-Reitorias, Gabinete do Reitor e Assessorias da Reitoria) entre outros, sendo que, em qualquer um dos projetos/propostas ou atividades em que o estudante for selecionado será obrigatória 
+a orientação direta de um responsável docente ou técnico-administrativo. A regulamentação do Programa de Bolsas Acadêmicas de Inclusão Social está expressa na Resolução CONSUP № 64/10.
 
-59 
+O PRADI - Programa de Apoio ao Desenvolvimento Tecnológico e Inovação (PRADI) do Instituto Federal do Paraná destina-se a apoiar, com concessão de bolsas à estudantes e auxílio financeiro aos coordenadores, projetos que promovam o desenvolvimento científico, tecnológico e de inovação, considerando os aspectos econômico, social, ambiental e cultural em atendimento às demandas locais e/ou regionais.
 
-a orientação direta de um responsável docente ou técnico-administrativo. A regulamentação do Programa de Bolsas Acadêmicas de Inclusão Social está expressa na Resolução CONSUP № 64/10. 
+O Programa de Auxílio Complementar ao Estudante - PACE está regulamentado pela Resolução da Política de Apoio Estudantil e pela Instrução Interna de Procedimentos № 20/PROENS, de 27/02/2012. O PACE objetiva oferecer apoio aos estudantes regularmente matriculados em cursos presenciais em situação de vulnerabilidade socioeconômica, propiciando recurso financeiro mensal, por meio da oferta de auxílio moradia, auxílio-alimentação e auxílio-transporte, contribuindo para sua permanência e conclusão do curso.
 
-O PRADI - Programa de Apoio ao Desenvolvimento Tecnológico e Inovação (PRADI) do Instituto Federal do Paraná destina-se a apoiar, com concessão de bolsas à estudantes e auxílio financeiro aos coordenadores, projetos que promovam o desenvolvimento científico, tecnológico e de inovação, considerando os aspectos econômico, social, ambiental e cultural em atendimento às demandas locais e/ou regionais. 
+O PIAP, Programa Institucional de Apoio à Pesquisa, tem por finalidade fomentar projetos de pesquisa desenvolvidos no IFPR, bem como custear atividades relacionadas aos mesmos. Os recursos provenientes desse programa destinam-se a manutenção e melhoria das atividades necessárias ao desenvolvimento da pesquisa proposta podendo ser aplicados em despesas relativas aos projetos de pesquisa contemplados, tais como aquisição de material de consumo e/ou permanente e inscrição em congressos e eventos científicos para apresentação de seus resultados.
 
-O Programa de Auxílio Complementar ao Estudante - PACE está regulamentado pela Resolução da Política de Apoio Estudantil e pela Instrução Interna de Procedimentos № 20/PROENS, de 27/02/2012. O PACE objetiva oferecer apoio aos estudantes regularmente matriculados em cursos presenciais em situação de vulnerabilidade socioeconômica, propiciando recurso financeiro mensal, por meio da oferta de auxílio moradia, auxílio-alimentação e auxílio-transporte, contribuindo para sua permanência e conclusão do curso. 
+Está prevista a participação dos estudantes do CST em Processos Gerenciais nos editais de projetos de Pesquisa, Extensão, e Empreendedorismo/Inovação ofertados pela PROEPPI na condição de bolsistas e/ou voluntários.
 
-O PIAP, Programa Institucional de Apoio à Pesquisa, tem por finalidade fomentar projetos de pesquisa desenvolvidos no IFPR, bem como custear atividades relacionadas aos mesmos. Os recursos provenientes desse programa destinam-se a manutenção e melhoria das atividades necessárias ao desenvolvimento da pesquisa proposta podendo ser aplicados em despesas relativas aos projetos de pesquisa contemplados, tais como aquisição de material de consumo e/ou permanente e inscrição em congressos e eventos científicos para apresentação de seus resultados. 
+## **2.12.2 Aproveitamento de Estudos Anteriores**
 
-Está prevista a participação dos estudantes do CST em Processos Gerenciais nos editais de projetos de Pesquisa, Extensão, e Empreendedorismo/Inovação ofertados pela PROEPPI na condição de bolsistas e/ou voluntários. 
+Estudos anteriores serão considerados de acordo com a Resolução nº 55/2011 - Organização Didático Pedagógica no IFPR.
 
-## **2.12.2 Aproveitamento de Estudos Anteriores** 
+Ressalta-se ainda que este aproveitamento deverá respeitar o tempo máximo de 10 anos de quando a disciplina foi cursada pelo estudante.
 
-Estudos anteriores serão considerados de acordo com a Resolução nº 55/2011 - Organização Didático Pedagógica no IFPR. 
+## **2.12.3 Certificação de Conhecimentos Anteriores**
 
-Ressalta-se ainda que este aproveitamento deverá respeitar o tempo máximo de 10 anos de quando a disciplina foi cursada pelo estudante. 
+Em cumprimento a Resolução nº 55/2011 que dispõe sobre a Organização Didático Pedagógica no IFPR, poderá haver a Certificação de Conhecimentos Anteriores.
 
-## **2.12.3 Certificação de Conhecimentos Anteriores** 
+60
 
-Em cumprimento a Resolução nº 55/2011 que dispõe sobre a Organização Didático Pedagógica no IFPR, poderá haver a Certificação de Conhecimentos Anteriores. 
+## **2.12.4 Expedição de Diplomas e Certificados**
 
-60 
+A certificação intermediária será concedida ao estudante que concluir os módulos do curso, tendo êxito em todos os componentes curriculares do módulo em questão. A exceção se dará no módulo 4 no qual consta o componente Trabalho de Conclusão de Curso. Neste último, o êxito nos componentes curriculares, exceto a disciplina TCC, dará direito à certificação.
 
-## **2.12.4 Expedição de Diplomas e Certificados** 
+A cada módulo cursado, será concedido o certificado, constando a carga horária do módulo, de acordo com a CBO Classificação Brasileira de Ocupações[2] conforme a seguinte relação:
 
-A certificação intermediária será concedida ao estudante que concluir os módulos do curso, tendo êxito em todos os componentes curriculares do módulo em questão. A exceção se dará no módulo 4 no qual consta o componente Trabalho de Conclusão de Curso. Neste último, o êxito nos componentes curriculares, exceto a disciplina TCC, dará direito à certificação. 
+Módulo 1 – Auxiliar de administração – CBO 4110-05 Módulo 2 – Programador de controle de produção – CBO 3911-25 Módulo 3 - Analista de marketing – CBO 2531-25 Módulo 4 – Coordenador de Administração de Pessoal  - CBO 1422-10
 
-A cada módulo cursado, será concedido o certificado, constando a carga horária do módulo, de acordo com a CBO Classificação Brasileira de Ocupações[2] conforme a seguinte relação: 
+Ressalta-se que para a certificação intermediária não há necessidade de obter êxito na disciplina TCC, bem como em Atividades Complementares. Já uma disciplina Optativa é necessário para compor a carga horária de tal certificação.
 
-Módulo 1 – Auxiliar de administração – CBO 4110-05 Módulo 2 – Programador de controle de produção – CBO 3911-25 Módulo 3 - Analista de marketing – CBO 2531-25 Módulo 4 – Coordenador de Administração de Pessoal  - CBO 1422-10 
+Após a conclusão e aprovação em todos os Componentes Curriculares, segundo a Resolução nº 55/2011 o estudante terá direito ao Diploma de Tecnólogo em Processos Gerenciais.
 
-Ressalta-se que para a certificação intermediária não há necessidade de obter êxito na disciplina TCC, bem como em Atividades Complementares. Já uma disciplina Optativa é necessário para compor a carga horária de tal certificação. 
+## **2.12.5 Acessibilidade**
 
-Após a conclusão e aprovação em todos os Componentes Curriculares, segundo a Resolução nº 55/2011 o estudante terá direito ao Diploma de Tecnólogo em Processos Gerenciais. 
+O campus Curitiba conta com o trabalho do Núcleo de Apoio a Pessoas com Necessidades Específicas – NAPNE, visando a inserção e o atendimento aos alunos com Necessidades Educacionais Específicas nos cursos de nível básico, técnico e tecnológico nas Instituições Federais de Educação, a Secretaria de Educação Profissional e Tecnológica (SETEC/MEC) criou o Programa de Educação, Tecnologia e Profissionalização para Pessoas com Necessidades Educacionais Especiais (TEC NEP).
 
-## **2.12.5 Acessibilidade** 
+> A Classificação Brasileira de Ocupações - CBO, instituída por portaria ministerial nº. 397, de 9 de outubro de 2002, tem por finalidade a identificação das ocupações no mercado de trabalho, para fins classificatórios junto aos registros administrativos e domiciliares. Os efeitos de uniformização pretendida pela Classificação Brasileira de Ocupações são de ordem administrativa e não se estendem as relações de trabalho. Já a regulamentação da profissão, diferentemente da CBO é realizada por meio de lei, cuja apreciação é feita pelo Congresso Nacional, por meio de seus Deputados e Senadores , e levada à sanção do Presidente da República. (Fonte:www.mtecbo.gov.br).
 
-O campus Curitiba conta com o trabalho do Núcleo de Apoio a Pessoas com Necessidades Específicas – NAPNE, visando a inserção e o atendimento aos alunos com Necessidades Educacionais Específicas nos cursos de nível básico, técnico e tecnológico nas Instituições Federais de Educação, a Secretaria de Educação Profissional e Tecnológica (SETEC/MEC) criou o Programa de Educação, Tecnologia e Profissionalização para Pessoas com Necessidades Educacionais Especiais (TEC NEP). 
+61
 
-> A Classificação Brasileira de Ocupações - CBO, instituída por portaria ministerial nº. 397, de 9 de outubro de 2002, tem por finalidade a identificação das ocupações no mercado de trabalho, para fins classificatórios junto aos registros administrativos e domiciliares. Os efeitos de uniformização pretendida pela Classificação Brasileira de Ocupações são de ordem administrativa e não se estendem as relações de trabalho. Já a regulamentação da profissão, diferentemente da CBO é realizada por meio de lei, cuja apreciação é feita pelo Congresso Nacional, por meio de seus Deputados e Senadores , e levada à sanção do Presidente da República. (Fonte:www.mtecbo.gov.br). 
+O objetivo é estimular a criação da cultura da “educação para a convivência”, “aceitação da diversidade” e, principalmente, buscar a “quebra das barreiras arquitetônicas, educacionais e atitudinais” nos Institutos Federais.
 
-61 
+As responsabilidades dos coordenadores dos NAPNEs são:
 
-O objetivo é estimular a criação da cultura da “educação para a convivência”, “aceitação da diversidade” e, principalmente, buscar a “quebra das barreiras arquitetônicas, educacionais e atitudinais” nos Institutos Federais. 
+a) Promover ações de sensibilização da comunidade escolar quanto a temática da Educação Inclusiva;
 
-As responsabilidades dos coordenadores dos NAPNEs são: 
+b) Levantar a demanda de Pessoas com Necessidades Educacionais Específicas na Instituição, comunicando à Direção do Câmpus e à Pró-Reitoria de Extensão, Pesquisa e Inovação a importância e o tipo de atendimento a ser realizado;
 
-a) Promover ações de sensibilização da comunidade escolar quanto a temática da Educação Inclusiva; 
+c) Contribuir para a adequação dos Projetos Político-Pedagógicos de modo a contemplar a educação inclusiva, oferecendo informações atualizadas à Direção de Ensino, bem como aos demais gestores do Câmpus;
 
-b) Levantar a demanda de Pessoas com Necessidades Educacionais Específicas na Instituição, comunicando à Direção do Câmpus e à Pró-Reitoria de Extensão, Pesquisa e Inovação a importância e o tipo de atendimento a ser realizado; 
+d) Articular os diversos setores da instituição nas atividades relativas à inclusão, divulgando as ações prioritárias;
 
-c) Contribuir para a adequação dos Projetos Político-Pedagógicos de modo a contemplar a educação inclusiva, oferecendo informações atualizadas à Direção de Ensino, bem como aos demais gestores do Câmpus; 
+e) Participar das discussões relativas a reformas e construção de novas unidades, garantindo a acessibilidade às edificações, aos mobiliários, aos espaços e equipamentos com vistas à mobilidade das pessoas de maneira autônoma e segura, conforme previsto em legislação própria;
 
-d) Articular os diversos setores da instituição nas atividades relativas à inclusão, divulgando as ações prioritárias; 
+f) Estabelecer contato com instituições ou organizações que atendam Pessoas com Necessidades Educacionais Específicas, visando desenvolver trabalhos em parceria;
 
-e) Participar das discussões relativas a reformas e construção de novas unidades, garantindo a acessibilidade às edificações, aos mobiliários, aos espaços e equipamentos com vistas à mobilidade das pessoas de maneira autônoma e segura, conforme previsto em legislação própria; 
+g) Divulgar as ações do TEC NEP/NAPNE da SETEC para a comunidade em geral;
 
-f) Estabelecer contato com instituições ou organizações que atendam Pessoas com Necessidades Educacionais Específicas, visando desenvolver trabalhos em parceria; 
+h) Representar o NAPNE nas ocasiões em que se fizer necessário.
 
-g) Divulgar as ações do TEC NEP/NAPNE da SETEC para a comunidade em geral; 
+Quanto à Língua Brasileira de Sinais, esta é ofertada no campus como projeto de LIBRAS do IFPR, a qual visa atender decretos e leis do governo federal. Como sendo uma língua reconhecida no país a língua brasileira de sinais é reconhecida pela lei nº 10.436, de 24 de abril de 2002, e regulamentada pelo decreto nº 5.626, de 22 de dezembro de 2005. Determina o artigo 14 do decreto que as instituições federais de ensino garantam às pessoas surdas “acesso à comunicação, à informação e à educação nos processos seletivos, nas atividades e nos conteúdos curriculares desenvolvidos em todos os níveis, etapas e modalidades de educação, desde a educação infantil até à superior”.
 
-h) Representar o NAPNE nas ocasiões em que se fizer necessário. 
+O IFPR conta com tradutores e intérpretes de LIBRAS que oferecem apoio aos alunos, possuindo também professor de LIBRAS para capacitação de servidores e professores, além de atendimento à comunidade externa nos eventos promovidos pela IFPR.  O Objetivo da equipe é disponibilizar atendimento ao aluno surdo, e criar novas ferramentas para auxílio do professor na inclusão de surdos no IFPR. Orientar a conduta moral e profissional, em conformidade com o Código de Ética da categoria do Intérprete, instituir normas que devem subsidiar o exercício das atividades dos TILS, assegurar o direito
 
-Quanto à Língua Brasileira de Sinais, esta é ofertada no campus como projeto de LIBRAS do IFPR, a qual visa atender decretos e leis do governo federal. Como sendo uma língua reconhecida no país a língua brasileira de sinais é reconhecida pela lei nº 10.436, de 24 de abril de 2002, e regulamentada pelo decreto nº 5.626, de 22 de dezembro de 2005. Determina o artigo 14 do decreto que as instituições federais de ensino garantam às pessoas surdas “acesso à comunicação, à informação e à educação nos processos seletivos, nas atividades e nos conteúdos curriculares desenvolvidos em todos os níveis, etapas e modalidades de educação, desde a educação infantil até à superior”. 
+62
 
-O IFPR conta com tradutores e intérpretes de LIBRAS que oferecem apoio aos alunos, possuindo também professor de LIBRAS para capacitação de servidores e professores, além de atendimento à comunidade externa nos eventos promovidos pela IFPR.  O Objetivo da equipe é disponibilizar atendimento ao aluno surdo, e criar novas ferramentas para auxílio do professor na inclusão de surdos no IFPR. Orientar a conduta moral e profissional, em conformidade com o Código de Ética da categoria do Intérprete, instituir normas que devem subsidiar o exercício das atividades dos TILS, assegurar o direito 
+linguístico e a acessibilidade das pessoas surdas no ensino superior conforme Lei nº 10.098/2000 e Lei nº 10.436/2002, regulamentadas pelo Decreto nº 5626/2005.
 
-62 
+Como a garantia da valorização e o reconhecimento do serviço de tradução e interpretação de Língua Brasileira de Sinais/Português e dos profissionais que realizam essa atividade, assegurar o cumprimento do Código de Ética/Conduta do Tradutor Intérprete de Língua Brasileira de Sinais/Português, e cumprir as determinações legais do Instituto Federal do Paraná.
 
-linguístico e a acessibilidade das pessoas surdas no ensino superior conforme Lei nº 10.098/2000 e Lei nº 10.436/2002, regulamentadas pelo Decreto nº 5626/2005. 
+O campus Curitiba promove a acessibilidade na infraestrutura e mobiliário conforme a Lei n. 10.048, de 8 de novembro de 2000, Lei n° 10.098, de 19 de dezembro de 2000 e Decreto nº 5.296, de 2 de dezembro de 2004.
 
-Como a garantia da valorização e o reconhecimento do serviço de tradução e interpretação de Língua Brasileira de Sinais/Português e dos profissionais que realizam essa atividade, assegurar o cumprimento do Código de Ética/Conduta do Tradutor Intérprete de Língua Brasileira de Sinais/Português, e cumprir as determinações legais do Instituto Federal do Paraná. 
+## **2.12.6 Mobilidade Acadêmica**
 
-O campus Curitiba promove a acessibilidade na infraestrutura e mobiliário conforme a Lei n. 10.048, de 8 de novembro de 2000, Lei n° 10.098, de 19 de dezembro de 2000 e Decreto nº 5.296, de 2 de dezembro de 2004. 
+O IFPR, em sua contribuição para a formação do estudante, assume o compromisso de proporcionar-lhe a mobilidade escolar/acadêmica, a qual envolve os intercâmbios nacionais e internacionais. Seja por meio de programas do Governo Federal, como o Ciência sem Fronteiras, ou por iniciativas próprias decorrentes de demandas locais, a mobilidade estudantil busca colaborar com a formação integral do estudante de maneira inclusiva, transformadora e comprometida com o desenvolvimento humano (PDI 2014-2018, IFPR, 139-140).
 
-## **2.12.6 Mobilidade Acadêmica** 
+O IFPR, por meio de sua Assessoria de Relações Internacionais, busca promover a internacionalização ampla do IFPR, através da formulação de políticas, da interlocução com parceiros nacionais e internacionais e do apoio às ações, projetos e programas de internacionalização dos campi e outros setores.
 
-O IFPR, em sua contribuição para a formação do estudante, assume o compromisso de proporcionar-lhe a mobilidade escolar/acadêmica, a qual envolve os intercâmbios nacionais e internacionais. Seja por meio de programas do Governo Federal, como o Ciência sem Fronteiras, ou por iniciativas próprias decorrentes de demandas locais, a mobilidade estudantil busca colaborar com a formação integral do estudante de maneira inclusiva, transformadora e comprometida com o desenvolvimento humano (PDI 2014-2018, IFPR, 139-140). 
+A Mobilidade Estudantil na graduação possibilita que o estudante desenvolva atividades em instituição de ensino diferente da sua, a qual pode ser do próprio país de residência do estudante ou instituição no exterior. A internacionalização refere-se a todos esforços da instituição para incorporar perspectivas globais no ensino, pesquisa e extensão; para construir competências internacionais e interculturais entre estudantes, professores e técnicos; para estabelecer parcerias com comunidades e instituições no exterior.
 
-O IFPR, por meio de sua Assessoria de Relações Internacionais, busca promover a internacionalização ampla do IFPR, através da formulação de políticas, da interlocução com parceiros nacionais e internacionais e do apoio às ações, projetos e programas de internacionalização dos campi e outros setores. 
+A intenção é criar no curso condições para viabilizar o intercâmbio de estudantes, egressos, docentes e colaboradores, uma das ações é a oferta de Língua Estrangeira Inglês e Espanhol como componentes curriculares e mediar acordos e cooperações com instituições internacionais de ensino superior, viabilizando a mobilidade acadêmica nacional e internacional.
 
-A Mobilidade Estudantil na graduação possibilita que o estudante desenvolva atividades em instituição de ensino diferente da sua, a qual pode ser do próprio país de residência do estudante ou instituição no exterior. A internacionalização refere-se a todos esforços da instituição para incorporar perspectivas globais no ensino, pesquisa e extensão; para construir competências internacionais e interculturais entre estudantes, professores e técnicos; para estabelecer parcerias com comunidades e instituições no exterior. 
+63
 
-A intenção é criar no curso condições para viabilizar o intercâmbio de estudantes, egressos, docentes e colaboradores, uma das ações é a oferta de Língua Estrangeira Inglês e Espanhol como componentes curriculares e mediar acordos e cooperações com instituições internacionais de ensino superior, viabilizando a mobilidade acadêmica nacional e internacional. 
+## **3. CORPO DOCENTE E CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO**
 
-63 
+## 3.1. CORPO DOCENTE
 
-## **3. CORPO DOCENTE E CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO** 
+## **3.1.1 Atribuições do Coordenador**
 
-## 3.1. CORPO DOCENTE 
+O coordenador deverá coordenar as atividades administrativas e pedagógicas do CST em Processos Gerenciais. As atividades deverão compreender a verificação das questões estruturais para o funcionamento do curso, como acervo bibliográfico necessário, instalações de sala de aula condizente com as necessidades das turmas, levantamento de corpo docente disponível para atuar nos componentes curriculares. Buscar-se-á fornecer treinamento e capacitação para que os professores utilizem estratégias de ensino-aprendizagem modernas e desafiadoras ao estudante, visando estimula-los na construção do conhecimento.
 
-## **3.1.1 Atribuições do Coordenador** 
+A coordenação deverá articular com as pro reitorias, direção geral e de ensino e demais setores do campus Curitiba para oportunizar atividades como palestras, visitas técnicas, intercâmbios e convênios com instituições no exterior, convênios de estágios e o fomento à pesquisa científica por parte dos estudantes, tendo como base os programas instituicionais já existentes.
 
-O coordenador deverá coordenar as atividades administrativas e pedagógicas do CST em Processos Gerenciais. As atividades deverão compreender a verificação das questões estruturais para o funcionamento do curso, como acervo bibliográfico necessário, instalações de sala de aula condizente com as necessidades das turmas, levantamento de corpo docente disponível para atuar nos componentes curriculares. Buscar-se-á fornecer treinamento e capacitação para que os professores utilizem estratégias de ensino-aprendizagem modernas e desafiadoras ao estudante, visando estimula-los na construção do conhecimento. 
+## **3.1.2 Experiência do Coordenador**
 
-A coordenação deverá articular com as pro reitorias, direção geral e de ensino e demais setores do campus Curitiba para oportunizar atividades como palestras, visitas técnicas, intercâmbios e convênios com instituições no exterior, convênios de estágios e o fomento à pesquisa científica por parte dos estudantes, tendo como base os programas instituicionais já existentes. 
+Doutor em Administração e Turismo pela Universidade do Vale do Itajaí, com estágio doutoral na Glasgow Caledonian University – UK (2017). Possui Bacharelado em Administração (2000), Licencitura Plena em Matemática (2002), Mestrado em Administração (2007). Possui 16 anos de experiência profissional em empresas privadas do setor de serviços, e 7 anos de serviço público como professor e gestor de projetos educacionais no IFPR.
 
-## **3.1.2 Experiência do Coordenador** 
+## **3.1.3 Núcleo Docente Estruturante (NDE)**
 
-Doutor em Administração e Turismo pela Universidade do Vale do Itajaí, com estágio doutoral na Glasgow Caledonian University – UK (2017). Possui Bacharelado em Administração (2000), Licencitura Plena em Matemática (2002), Mestrado em Administração (2007). Possui 16 anos de experiência profissional em empresas privadas do setor de serviços, e 7 anos de serviço público como professor e gestor de projetos educacionais no IFPR. 
-
-## **3.1.3 Núcleo Docente Estruturante (NDE)** 
-
-A composição do NDE respeita o Parecer CONAES nº. 4/2010 e Resolução CONAES nº. 01/2010. 
+A composição do NDE respeita o Parecer CONAES nº. 4/2010 e Resolução CONAES nº. 01/2010.
 
 |**Composição**|**Titulação**|**Formação**|**Regime de Trabalho**|
 |---|---|---|---|
@@ -2253,11 +2213,9 @@ A composição do NDE respeita o Parecer CONAES nº. 4/2010 e Resolução CONAES
 |Leila Souza|Doutora|Administração|DE|
 |Priscila Duarte|Mestre|Administração|DE|
 
+64
 
-
-64 
-
-## **3.1.4 Relação do Corpo docente** 
+## **3.1.4 Relação do Corpo docente**
 
 ||||||
 |---|---|---|---|---|
@@ -2275,63 +2233,61 @@ A composição do NDE respeita o Parecer CONAES nº. 4/2010 e Resolução CONAES
 |Cassia Moreto|Direito|Mestre|http://lattes.cnpq.br/0893<br>514863450886|Fundamentos do Direito<br>Direito do Trabalho|
 |Adriano Fuzzaro|Administração|Doutor|ttp://lattes.cnpq.br/11912<br>47948425993|Fundamentos da Economia<br>Gestão Financeira|
 
+## **3.1.5 Colegiado de Curso**
 
+O Colegiado é um órgão consultivo e deliberativo do campus para assuntos de natureza pedagógica, didática e disciplinar quanto aos fatos e acontecimentos no decorrer do curso. A coordenação deverá propor as pautas das reuniões bimestrais, estando aberto para sugestões de temas para a pauta. Este colegiado respeitará o Regimento Interno Comum aos Campi: Resolução 08/2014.
 
-## **3.1.5 Colegiado de Curso** 
+65
 
-O Colegiado é um órgão consultivo e deliberativo do campus para assuntos de natureza pedagógica, didática e disciplinar quanto aos fatos e acontecimentos no decorrer do curso. A coordenação deverá propor as pautas das reuniões bimestrais, estando aberto para sugestões de temas para a pauta. Este colegiado respeitará o Regimento Interno Comum aos Campi: Resolução 08/2014. 
+## **3.1.6 Políticas de Capacitação Docente**
 
-65 
+A Resolução № 48/11, normatiza o Programa de Qualificação e Formação dos Servidores do IFPR no seu artigo primeiro ao artigo quinto. O Programa de Incentivo à Formação Inicial, Continuada e de Qualificação de Servidores Públicos contemplará, quando possível, os seguintes níveis formativos, nas modalidades EaD e presencial:
 
-## **3.1.6 Políticas de Capacitação Docente** 
+## I. Cursos de Graduação;
 
-A Resolução № 48/11, normatiza o Programa de Qualificação e Formação dos Servidores do IFPR no seu artigo primeiro ao artigo quinto. O Programa de Incentivo à Formação Inicial, Continuada e de Qualificação de Servidores Públicos contemplará, quando possível, os seguintes níveis formativos, nas modalidades EaD e presencial: 
+II. Cursos de Pós-Graduação Lato Sensu: aperfeiçoamento e especialização;
 
-## I. Cursos de Graduação; 
+III. Cursos de Pós-Graduação Stricto Sensu: mestrado e doutorado;
 
-II. Cursos de Pós-Graduação Lato Sensu: aperfeiçoamento e especialização; 
+IV. Estágio Pós-Doutoral;
 
-III. Cursos de Pós-Graduação Stricto Sensu: mestrado e doutorado; 
+Outros cursos, estágios, intercâmbios acadêmico-profissionais ou atividades de capacitação, no interesse da Administração.
 
-IV. Estágio Pós-Doutoral; 
+Além dos programas de Pós-Graduação Stricto Sensu, a formação permanente do corpo docente será objeto de discussão e definição de estratégias formativas, com vistas a atender aos objetivos do curso, devendo ocorrer em semanas pedagógicas, oficinas específicas, participação em eventos formativos institucionais e de realização de estudos acadêmico-científicos de forma continuada.
 
-Outros cursos, estágios, intercâmbios acadêmico-profissionais ou atividades de capacitação, no interesse da Administração. 
+## **3.1.7 Plano de Cargos e Salários dos Docentes**
 
-Além dos programas de Pós-Graduação Stricto Sensu, a formação permanente do corpo docente será objeto de discussão e definição de estratégias formativas, com vistas a atender aos objetivos do curso, devendo ocorrer em semanas pedagógicas, oficinas específicas, participação em eventos formativos institucionais e de realização de estudos acadêmico-científicos de forma continuada. 
+O Instituto Federal do Paraná, por situar-se no âmbito da Rede pública Federal de Educação Profissional e Tecnológica, possui um quadro docente constituído a partir de concurso público de provas e títulos. Os profissionais aprovados pelo concurso público ingressam no Plano de Carreira e Cargos do Magistério do Ensino Básico, Técnico e Tecnológico, Lei n. 11.784/2008.
 
-## **3.1.7 Plano de Cargos e Salários dos Docentes** 
+A remuneração docente se constitui dos seguintes componentes:
 
-O Instituto Federal do Paraná, por situar-se no âmbito da Rede pública Federal de Educação Profissional e Tecnológica, possui um quadro docente constituído a partir de concurso público de provas e títulos. Os profissionais aprovados pelo concurso público ingressam no Plano de Carreira e Cargos do Magistério do Ensino Básico, Técnico e Tecnológico, Lei n. 11.784/2008. 
+I. Vencimento Básico;
 
-A remuneração docente se constitui dos seguintes componentes: 
+II. Gratificação Específica de Atividade Docente do Ensino Básico, Técnico e Tecnológico- GEDBT (art. 116) e
 
-I. Vencimento Básico; 
+III. Retribuição por Titulação - RT (art. 117)
 
-II. Gratificação Específica de Atividade Docente do Ensino Básico, Técnico e Tecnológico- GEDBT (art. 116) e 
+A carreira docente se divide em seis classes:
 
-III. Retribuição por Titulação - RT (art. 117) 
+- D I, D II, D III, D IV, D V e PROFESSOR TITULAR.
 
-A carreira docente se divide em seis classes: 
+As classes D I, D II e D III contém 4 níveis: 1, 2, 3 e 4.
 
-- D I, D II, D III, D IV, D V e PROFESSOR TITULAR. 
+- A classe D IV contém 1 nível.
 
-As classes D I, D II e D III contém 4 níveis: 1, 2, 3 e 4. 
+- Classe D V contém 3 níveis.
 
-- A classe D IV contém 1 nível. 
+- Professor Titular possui nível único.
 
-- Classe D V contém 3 níveis. 
+66
 
-- Professor Titular possui nível único. 
+A progressão na carreira pode ser dar de duas formas:
 
-66 
+- 1) Progressão funcional por Titulação – O servidor receberá RT (Retribuição por Titulação) equivalente à titulação.
 
-A progressão na carreira pode ser dar de duas formas: 
+- 2) Progressão por desempenho acadêmico (progressão por mérito mediante avaliação de desempenho, realizada a cada 24 meses).
 
-- 1) Progressão funcional por Titulação – O servidor receberá RT (Retribuição por Titulação) equivalente à titulação. 
-
-- 2) Progressão por desempenho acadêmico (progressão por mérito mediante avaliação de desempenho, realizada a cada 24 meses). 
-
-## 3.2 CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO 
+## 3.2 CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO
 
 |**NOME**|**CARGO**|**Formação**|**Regime de**<br>**Trabalho**|
 |---|---|---|---|
@@ -2355,9 +2311,7 @@ A progressão na carreira pode ser dar de duas formas:
 |EDILZA SILVA DOS<br>SANTOS CHIBIOR|BIBLIOTECARIO-<br>DOCUMENTALISTA|Biblioteconomia|40h|
 |ELENIR LEITE MARLOCH|ASSISTENTE EM<br>ADMINISTRACAO|Gestão Pública|40h|
 
-
-
-67 
+67
 
 |ELIANE MARA LUZ|ASSISTENTE EM<br>ADMINISTRACAO|Biblioteconomia|40h|
 |---|---|---|---|
@@ -2389,9 +2343,7 @@ A progressão na carreira pode ser dar de duas formas:
 |MARLI TEREZINHA<br>FEREIRA BECKER GRIPP|COZINHEIRO|Gestão Pública|40h|
 |NILSON DOS SANTOS<br>MORAES|TECNICO EM CONTABILIDADE|Filosofia|40h|
 
-
-
-68 
+68
 
 |NILTON FERREIRA<br>BRANDÃO|ANALISTA DE TECNOLOGIA DA<br>INFORMACAO|Sistemas de<br>Informação|40h|
 |---|---|---|---|
@@ -2409,55 +2361,53 @@ A progressão na carreira pode ser dar de duas formas:
 |TAIS HELENA AKATSU|BIBLIOTECARIO-<br>DOCUMENTALISTA|Biblioteconomia|40h|
 |TANIA GRACIELI VEGA<br>INCERTI|ASSISTENTE SOCIAL|Assistente Social|40h|
 
+## **3.2.1 Políticas de Capacitação do Técnico Administrativo em Educação**
 
+O PDI (2014-2018) aborda as Políticas de capacitação, destacando que a política tem como fundamento legal o Decreto nº 5.707/2006 e a  Lei nº 11.091/2005. Ressalta-se que as Políticas de capacitação do Técnico Administrativo em Educação no IFPR em Educação visam ampliar a formação dos servidores, bem como proporcionar melhoria na eficiência do serviço público, tendo como base a qualidade dos processos de trabalho. A Pró-reitoria de Gestão de Pessoas objetiva  "planejar, superintender, coordenar, fomentar as Políticas de gestão de pessoas, visando ao alcance das metas e ao cumprimento da missão institucional" (p.315).
 
-## **3.2.1 Políticas de Capacitação do Técnico Administrativo em Educação** 
+## **3.2.2 Plano de Cargos e Salários dos Servidores Técnico-Administrativos em Educação**
 
-O PDI (2014-2018) aborda as Políticas de capacitação, destacando que a política tem como fundamento legal o Decreto nº 5.707/2006 e a  Lei nº 11.091/2005. Ressalta-se que as Políticas de capacitação do Técnico Administrativo em Educação no IFPR em Educação visam ampliar a formação dos servidores, bem como proporcionar melhoria na eficiência do serviço público, tendo como base a qualidade dos processos de trabalho. A Pró-reitoria de Gestão de Pessoas objetiva  "planejar, superintender, coordenar, fomentar as Políticas de gestão de pessoas, visando ao alcance das metas e ao cumprimento da missão institucional" (p.315). 
+A Lei nº 11.091/2005, apresenta a estrutura do Plano de Carreira dos Cargos TécnicoAdministrativo em Educação, a saber: os cargos do Plano de Carreira são organizados em 5 (cinco) níveis
 
-## **3.2.2 Plano de Cargos e Salários dos Servidores Técnico-Administrativos em Educação** 
+de classificação, A, B, C, D e E, de acordo com o disposto no inciso II do art. 5o e no Anexo II da Lei 11.091/2005 e tem como princípios e diretrizes a/o:
 
-A Lei nº 11.091/2005, apresenta a estrutura do Plano de Carreira dos Cargos TécnicoAdministrativo em Educação, a saber: os cargos do Plano de Carreira são organizados em 5 (cinco) níveis 
+I - natureza do processo educativo, função social e objetivos do Sistema Federal de Ensino;
 
-de classificação, A, B, C, D e E, de acordo com o disposto no inciso II do art. 5o e no Anexo II da Lei 11.091/2005 e tem como princípios e diretrizes a/o: 
+II - dinâmica dos processos de pesquisa, de ensino, de extensão e de administração, e as competências específicas decorrentes;
 
-I - natureza do processo educativo, função social e objetivos do Sistema Federal de Ensino; 
+III - qualidade do processo de trabalho;
 
-II - dinâmica dos processos de pesquisa, de ensino, de extensão e de administração, e as competências específicas decorrentes; 
+IV - reconhecimento do saber não instituído resultante da atuação profissional na dinâmica de ensino, de pesquisa e de extensão;
 
-III - qualidade do processo de trabalho; 
+V - vinculação ao planejamento estratégico e ao desenvolvimento organizacional das instituições;
 
-IV - reconhecimento do saber não instituído resultante da atuação profissional na dinâmica de ensino, de pesquisa e de extensão; 
+VI - investidura em cada cargo condicionada à aprovação em concurso público;
 
-V - vinculação ao planejamento estratégico e ao desenvolvimento organizacional das instituições; 
+VII – desenvolvimento do servidor vinculado aos objetivos institucionais;
 
-VI - investidura em cada cargo condicionada à aprovação em concurso público; 
+VIII - garantia de programas de capacitação que contemplem a formação específica e a geral, nesta incluída a educação formal;
 
-VII – desenvolvimento do servidor vinculado aos objetivos institucionais; 
+IX - avaliação do desempenho funcional dos servidores, como processo pedagógico, realizada mediante critérios objetivos decorrentes das metas institucionais, referenciada no caráter coletivo do trabalho e nas expectativas dos usuários; e
 
-VIII - garantia de programas de capacitação que contemplem a formação específica e a geral, nesta incluída a educação formal; 
+X - oportunidade de acesso às atividades de direção, assessoramento, chefia, coordenação e assistência, respeitadas as normas específicas.
 
-IX - avaliação do desempenho funcional dos servidores, como processo pedagógico, realizada mediante critérios objetivos decorrentes das metas institucionais, referenciada no caráter coletivo do trabalho e nas expectativas dos usuários; e 
+As atribuições gerais dos cargos do Plano de Carreira estão descritas no art. 8º da Lei 11.091/2005:
 
-X - oportunidade de acesso às atividades de direção, assessoramento, chefia, coordenação e assistência, respeitadas as normas específicas. 
+I - planejar, organizar, executar ou avaliar as atividades inerentes ao apoio técnico-administrativo ao ensino;
 
-As atribuições gerais dos cargos do Plano de Carreira estão descritas no art. 8º da Lei 11.091/2005: 
+II - planejar, organizar, executar ou avaliar as atividades técnico-administrativas inerentes à pesquisa e à extensão nas Instituições Federais de Ensino;
 
-I - planejar, organizar, executar ou avaliar as atividades inerentes ao apoio técnico-administrativo ao ensino; 
+III - executar tarefas específicas, utilizando-se de recursos materiais, financeiros e outros de que a Instituição Federal de Ensino disponha, a fim de assegurar a eficiência, a eficácia e a efetividade das atividades de ensino, pesquisa e extensão das Instituições Federais de Ensino.
 
-II - planejar, organizar, executar ou avaliar as atividades técnico-administrativas inerentes à pesquisa e à extensão nas Instituições Federais de Ensino; 
+Conforme art. 8º da IIP PROENS 02/2017, a Comissão Estruturação de Curso foi composta também por um representante da Seção Pedagógica do Campus.
 
-III - executar tarefas específicas, utilizando-se de recursos materiais, financeiros e outros de que a Instituição Federal de Ensino disponha, a fim de assegurar a eficiência, a eficácia e a efetividade das atividades de ensino, pesquisa e extensão das Instituições Federais de Ensino. 
+70
 
-Conforme art. 8º da IIP PROENS 02/2017, a Comissão Estruturação de Curso foi composta também por um representante da Seção Pedagógica do Campus. 
+## **4. INFRAESTRUTURA**
 
-70 
+O Campus Curitiba do IFPR possui acessibilidade para estudantes com necessidades especiais de locomoção, comunicação oral e visual. Atualmente é estruturado em dois blocos, o didático e o administrativo. O Bloco Didático possui vinte e duas salas com capacidade média de vinte e cinto estudantes cada, também possui laboratórios de informática de uso comum dos diversos cursos. Também no Bloco Didático está a estrutura pedagógica da Direção de Ensino Sala, e salas de atendimento ao estudante e biblioteca.
 
-## **4. INFRAESTRUTURA** 
-
-O Campus Curitiba do IFPR possui acessibilidade para estudantes com necessidades especiais de locomoção, comunicação oral e visual. Atualmente é estruturado em dois blocos, o didático e o administrativo. O Bloco Didático possui vinte e duas salas com capacidade média de vinte e cinto estudantes cada, também possui laboratórios de informática de uso comum dos diversos cursos. Também no Bloco Didático está a estrutura pedagógica da Direção de Ensino Sala, e salas de atendimento ao estudante e biblioteca. 
-
-## 4.1 ÁREAS DE ENSINO ESPECÍFICAS 
+## 4.1 ÁREAS DE ENSINO ESPECÍFICAS
 
 |Ambiente|Existente (sim/não)|A construir (sim/não)|Área (m2)|
 |---|---|---|---|
@@ -2467,9 +2417,7 @@ O Campus Curitiba do IFPR possui acessibilidade para estudantes com necessidades
 |Coordenadoria de curso|01|Não||
 |Sala de reuniões|01|Não||
 
-
-
-## 4.2 ÁREAS DE ESTUDO GERAL 
+## 4.2 ÁREAS DE ESTUDO GERAL
 
 |Ambiente|Existente(sim/não)|A construir(sim/não)|Área(m2)|
 |---|---|---|---|
@@ -2480,26 +2428,22 @@ O Campus Curitiba do IFPR possui acessibilidade para estudantes com necessidades
 |Laboratório dequímica**|Sim|Não se aplica||
 |Laboratório de biologia**|Sim|Não se aplica||
 
+* descrever o total de equipamentos e as configurações das máquinas
 
+** descrever os equipamentos e os insumos
 
-* descrever o total de equipamentos e as configurações das máquinas 
-
-** descrever os equipamentos e os insumos 
-
-## 4.3 ÁREAS DE ESTUDO ESPECÍFICO 
+## 4.3 ÁREAS DE ESTUDO ESPECÍFICO
 
 |Ambiente|Existente (sim/não)|A construir (sim/não)|Área (m2)|
 |---|---|---|---|
 |Laboratório de Práticas<br>Administrativas|Não|Sim|60m²|
 |Laboratório<br>de<br>Informática|Sim|Não|Espaços<br>já<br>existentes<br>no<br>campus Curitiba|
 
+** será apresentado projeto posteriormente, e dependerá da disponibilidade de espaços e recursos da instituição.
 
+71
 
-** será apresentado projeto posteriormente, e dependerá da disponibilidade de espaços e recursos da instituição. 
-
-71 
-
-## 4.4 ÁREAS DE ESPORTE E VIVÊNCIA 
+## 4.4 ÁREAS DE ESPORTE E VIVÊNCIA
 
 |Existente (sim/não)|A construir (sim/não)|Área (m2)|
 |---|---|---|
@@ -2507,9 +2451,7 @@ O Campus Curitiba do IFPR possui acessibilidade para estudantes com necessidades
 |Sim|Não||
 |Não|Não||
 
-
-
-## 4.5 ÁREAS DE ATENDIMENTO DISCENTE 
+## 4.5 ÁREAS DE ATENDIMENTO DISCENTE
 
 |Ambiente|Existente (sim/não)|A construir (sim/não)|Área (m2)|
 |---|---|---|---|
@@ -2519,9 +2461,7 @@ O Campus Curitiba do IFPR possui acessibilidade para estudantes com necessidades
 |Primeiros socorros|Sim|Não||
 |Serviço social|Sim|Não||
 
-
-
-## 4.6 ÁREAS DE APOIO 
+## 4.6 ÁREAS DE APOIO
 
 |||||
 |---|---|---|---|
@@ -2531,107 +2471,105 @@ O Campus Curitiba do IFPR possui acessibilidade para estudantes com necessidades
 |Sala de áudio-visual|Sim|Não||
 |Mecanografia|Não|Não||
 
+72
 
+## 4.7 BIBLIOTECA
 
-72 
+A Biblioteca IFPR Campus Curitiba tem a finalidade de apoiar as atividades de ensino, pesquisa e extensão por meio da aquisição, tratamento técnico, armazenamento, preservação, disseminação e disponibilização de produtos e serviços de informação para a comunidade acadêmica. É um órgão suplementar, subordinado administrativamente à Direção de Ensino do Campus e tecnicamente à Coordenadoria Geral de Bibliotecas (CGB) / PROENS / Reitoria. Conta, até o momento com um total de 10.778 títulos e 32.287 exemplares de diversas áreas. Na área de educação são 646 títulos e mais de 1650 exemplares. Utiliza o Sistema Pergamum que contempla as principais funções de uma Biblioteca que inclui rotina diária com os seus usuários, processo técnico dos livros e controle patrimonial do acervo.
 
-## 4.7 BIBLIOTECA 
+O expediente em dias letivos:
 
-A Biblioteca IFPR Campus Curitiba tem a finalidade de apoiar as atividades de ensino, pesquisa e extensão por meio da aquisição, tratamento técnico, armazenamento, preservação, disseminação e disponibilização de produtos e serviços de informação para a comunidade acadêmica. É um órgão suplementar, subordinado administrativamente à Direção de Ensino do Campus e tecnicamente à Coordenadoria Geral de Bibliotecas (CGB) / PROENS / Reitoria. Conta, até o momento com um total de 10.778 títulos e 32.287 exemplares de diversas áreas. Na área de educação são 646 títulos e mais de 1650 exemplares. Utiliza o Sistema Pergamum que contempla as principais funções de uma Biblioteca que inclui rotina diária com os seus usuários, processo técnico dos livros e controle patrimonial do acervo. 
+Segunda à sexta-feira: das 7h15 às 21h15
 
-O expediente em dias letivos: 
+Sábados: das 08h às 12h
 
-Segunda à sexta-feira: das 7h15 às 21h15 
+Serviços Oferecidos
 
-Sábados: das 08h às 12h 
+## a) Circulação de material
 
-Serviços Oferecidos 
+Permite a retirada de material bibliográfico por prazo pré-determinado. O empréstimo domiciliar é permitido a estudantes, professores e funcionários do Instituto Federal do Paraná. Para este serviço, o usuário deverá apresentar o seu cartão de identificação e/ou um documento oficial com foto e/ou crachá funcional.
 
-## a) Circulação de material 
+b) Empréstimo entre bibliotecas
 
-Permite a retirada de material bibliográfico por prazo pré-determinado. O empréstimo domiciliar é permitido a estudantes, professores e funcionários do Instituto Federal do Paraná. Para este serviço, o usuário deverá apresentar o seu cartão de identificação e/ou um documento oficial com foto e/ou crachá funcional. 
+O usuário pode realizar empréstimos em outras bibliotecas do IFPR, através de malote. Este serviço deve ser solicitado no balcão de atendimento.
 
-b) Empréstimo entre bibliotecas 
+c) Ficha catalográfica
 
-O usuário pode realizar empréstimos em outras bibliotecas do IFPR, através de malote. Este serviço deve ser solicitado no balcão de atendimento. 
+Tem o propósito de elaborar ficha catalográfica de teses, dissertações, monografias, livros e outras publicações de autoria institucional. É um serviço prestado pela Seção de Processamento Técnico da Biblioteca.
 
-c) Ficha catalográfica 
+## d) Levantamento bibliográfico
 
-Tem o propósito de elaborar ficha catalográfica de teses, dissertações, monografias, livros e outras publicações de autoria institucional. É um serviço prestado pela Seção de Processamento Técnico da Biblioteca. 
+Objetiva prestar atendimento ao usuário, auxiliando na busca, localização e obtenção de informações. e) Consulta às normas da ABNT
 
-## d) Levantamento bibliográfico 
+A Biblioteca IFPR Campus Curitiba possui a assinatura das Normas da Associação Brasileira de Normas Técnicas. O acesso à consulta deve ser solicitado às bibliotecárias da equipe.
 
-Objetiva prestar atendimento ao usuário, auxiliando na busca, localização e obtenção de informações. e) Consulta às normas da ABNT 
+f) Normalização de trabalhos acadêmicos
 
-A Biblioteca IFPR Campus Curitiba possui a assinatura das Normas da Associação Brasileira de Normas Técnicas. O acesso à consulta deve ser solicitado às bibliotecárias da equipe. 
+73
 
-f) Normalização de trabalhos acadêmicos 
+Auxilia os usuários na elaboração dos trabalhos acadêmicos de acordo com as “Normas para Apresentação de Trabalhos Acadêmicos do Instituto Federal do Paraná”, baseadas na ABNT.
 
-73 
+g) Treinamento de usuários
 
-Auxilia os usuários na elaboração dos trabalhos acadêmicos de acordo com as “Normas para Apresentação de Trabalhos Acadêmicos do Instituto Federal do Paraná”, baseadas na ABNT. 
+Tem objetivo de orientar os usuários na utilização acervo e serviços da biblioteca.
 
-g) Treinamento de usuários 
+h) Reserva de material
 
-Tem objetivo de orientar os usuários na utilização acervo e serviços da biblioteca. 
+Reserva material que esteja emprestado, caso não haja disponibilidade de nenhum exemplar do livro solicitado pelo usuário.
 
-h) Reserva de material 
+i) Visita orientada
 
-Reserva material que esteja emprestado, caso não haja disponibilidade de nenhum exemplar do livro solicitado pelo usuário. 
+É a divulgação aos calouros, dos produtos e serviços oferecidos pela biblioteca. A visita deve ser pré-
 
-i) Visita orientada 
+agendada, pelo professor ou coordenador de curso, geralmente no início do ano letivo.
 
-É a divulgação aos calouros, dos produtos e serviços oferecidos pela biblioteca. A visita deve ser pré- 
+j) Uso do espaço físico / computadores e consulta local do acervo
 
-agendada, pelo professor ou coordenador de curso, geralmente no início do ano letivo. 
+É permitido ao usuário e ao não usuário (comunidade) a utilização do espaço, a consulta local ao acervo e
 
-j) Uso do espaço físico / computadores e consulta local do acervo 
+uso dos computadores da Biblioteca.
 
-É permitido ao usuário e ao não usuário (comunidade) a utilização do espaço, a consulta local ao acervo e 
+Na área de educação são 646 títulos e mais de 1650 exemplares. Além dos livros a biblioteca disponibiliza os seguintes links:
 
-uso dos computadores da Biblioteca. 
+Acesso ao Portal Capes
 
-Na área de educação são 646 títulos e mais de 1650 exemplares. Além dos livros a biblioteca disponibiliza os seguintes links: 
+## Normas da ABNT
 
-Acesso ao Portal Capes 
+_**Educação**_
 
-## Normas da ABNT 
+Biblioteca Virtual de Educação à Distância
 
-_**Educação**_ 
+Reúne links, textos e bases de dados de interesse para a área.
 
-Biblioteca Virtual de Educação à Distância 
+## EDUBASE
 
-Reúne links, textos e bases de dados de interesse para a área. 
+Selecione “Edubase” Base de dados nacional desenvolvida pela Biblioteca da Faculdade de Educação da
 
-## EDUBASE 
+UNICAMP. Contém referências bibliográficas de artigos de revistas e outros documentos na área de Educação.
 
-Selecione “Edubase” Base de dados nacional desenvolvida pela Biblioteca da Faculdade de Educação da 
+## ERIC
 
-UNICAMP. Contém referências bibliográficas de artigos de revistas e outros documentos na área de Educação. 
+Selecione “Edubase” Base de dados nacional desenvolvida pela Biblioteca da Faculdade de Educação da UNICAMP
 
-## ERIC 
+## **Periódicos on-line**
 
-Selecione “Edubase” Base de dados nacional desenvolvida pela Biblioteca da Faculdade de Educação da UNICAMP 
+## Scielo
 
-## **Periódicos on-line** 
+**Livro Falado** :  Livros nacionais e internacionais
 
-## Scielo 
+http://www.livrofalado.pro.br/acervo.php
 
-**Livro Falado** :  Livros nacionais e internacionais 
+**Observatório do Ensino Médio**
 
-http://www.livrofalado.pro.br/acervo.php 
+74
 
-**Observatório do Ensino Médio** 
+## (http://www.observatoriodoensinomedio.ufpr.br/)
 
-74 
+O Observatório do Ensino Médio da Universidade Federal do Paraná tem por objetivo reunir estudantes, educadores e pesquisadores dos diversos níveis e modalidades de ensino que tenham interesse em compartilhar ideias, temas e pesquisas sobre ensino médio, juventude, suas relações com a escola e com o mundo do trabalho. Desenvolve atividades de pesquisa e de extensão universitária.
 
-## (http://www.observatoriodoensinomedio.ufpr.br/) 
+## **5. PLANEJAMENTO ECONÔMICO FINANCEIRO**
 
-O Observatório do Ensino Médio da Universidade Federal do Paraná tem por objetivo reunir estudantes, educadores e pesquisadores dos diversos níveis e modalidades de ensino que tenham interesse em compartilhar ideias, temas e pesquisas sobre ensino médio, juventude, suas relações com a escola e com o mundo do trabalho. Desenvolve atividades de pesquisa e de extensão universitária. 
-
-## **5. PLANEJAMENTO ECONÔMICO FINANCEIRO** 
-
-5.1 O curso terá a necessidade de novas infraestruturas?   ( x  ) Sim   (   ) Não. 
+5.1 O curso terá a necessidade de novas infraestruturas?   ( x  ) Sim   (   ) Não.
 
 |ANO|INVESTIMENTO NECESSÁRIO (R$)|INVESTIMENTO NECESSÁRIO (R$)|
 |---|---|---|
@@ -2642,266 +2580,262 @@ O Observatório do Ensino Médio da Universidade Federal do Paraná tem por obje
 |INVESTIMENTO TOTAL|-|-|
 ||||
 
+## 5.1 EXPANSÃO DO QUADRO DOCENTE
 
+O Campus conta atualmente com os professores necessários para o desenvolvimento do Curso necessitando apenas que se garanta a substituição dos docentes que se aposentarem, ou na ocasião de afastamento para capacitação.
 
-## 5.1 EXPANSÃO DO QUADRO DOCENTE 
+O curso será formado com o corpo docente efetivo do IFPR – Instituto Federal do Paraná, com titulação de especialistas, mestres e doutores, atendendo à proporcionalidade exigida pelo MEC – Ministério da Educação.  O curso não terá a necessidade de novas contratações.
 
-O Campus conta atualmente com os professores necessários para o desenvolvimento do Curso necessitando apenas que se garanta a substituição dos docentes que se aposentarem, ou na ocasião de afastamento para capacitação. 
+## 5.2 PROJEÇÃO DE AQUISIÇÃO DE MATERIAIS PERMANENTE E CONSUMO
 
-O curso será formado com o corpo docente efetivo do IFPR – Instituto Federal do Paraná, com titulação de especialistas, mestres e doutores, atendendo à proporcionalidade exigida pelo MEC – Ministério da Educação.  O curso não terá a necessidade de novas contratações. 
+O CST em Processos Gerenciais demandará de um laboratório de práticas administrativas, o qual será um espaço composto por uma sala de aproximadamente 60m², contendo dois computadores com acesso à internet, uma impressora, uma mesa com cadeiras para reuniões, materiais de expediente em geral.
 
-## 5.2 PROJEÇÃO DE AQUISIÇÃO DE MATERIAIS PERMANENTE E CONSUMO 
+75
 
-O CST em Processos Gerenciais demandará de um laboratório de práticas administrativas, o qual será um espaço composto por uma sala de aproximadamente 60m², contendo dois computadores com acesso à internet, uma impressora, uma mesa com cadeiras para reuniões, materiais de expediente em geral. 
-
-75 
-
-Tal espaço abrigará o laboratório do curso, que desempenhará as atividades de Empresa-Escola e/ou Incubadora de Novos Negócios, projetos estes, que proporcionarão ao estudante o contato com as rotinas administrativas, ligadas ao planejamento e gestão de negócios. 
+Tal espaço abrigará o laboratório do curso, que desempenhará as atividades de Empresa-Escola e/ou Incubadora de Novos Negócios, projetos estes, que proporcionarão ao estudante o contato com as rotinas administrativas, ligadas ao planejamento e gestão de negócios.
 
 |DESCRIÇÃO DO ESPAÇO OU EQUIPAMENTO|QUANTIDADE|VALOR ESTIMADO<br>(TOTAL - R$)|
 |---|---|---|
 |Laboratório de Práticas Administrativas – 2 computadores,<br>mesas, cadeiras, impressora e materiais de expediente|<br>1|R$ 15.000,00|
 ||||
 
+## 5.3 PROJEÇÃO DE AQUISIÇÃO DE ACERVO BIBLIOGRÁFICO
 
+Não se aplica no ato da abertura do curso.
 
-## 5.3 PROJEÇÃO DE AQUISIÇÃO DE ACERVO BIBLIOGRÁFICO 
+76
 
-Não se aplica no ato da abertura do curso. 
+## **REFERÊNCIAS**
 
-76 
+BRASIL. Lei nº 11.892, de 29 de dezembro de 2008. Institui a Rede Federal de Educação Profissional, Científica e Tecnológica, cria os Institutos Federais de Educação, Ciência e Tecnologia, e dá outras providências. Disponível em: <http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11892.htm.> Acesso em: 27 out. 2017.
 
-## **REFERÊNCIAS** 
+________ Lei nº 10.639, de 9 de janeiro de 2003. Altera a Lei n[o] 9.394, de 20 de dezembro de 1996, modificada pela Lei n[o] 10.639, de 9 de janeiro de 2003, que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da rede de ensino a obrigatoriedade da temática “História e - Cultura Afro-Brasileira e Indígena” Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2007 2010/2008/lei/l11645.htm. Acesso em 20/02/2018.
 
-BRASIL. Lei nº 11.892, de 29 de dezembro de 2008. Institui a Rede Federal de Educação Profissional, Científica e Tecnológica, cria os Institutos Federais de Educação, Ciência e Tecnologia, e dá outras providências. Disponível em: <http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11892.htm.> Acesso em: 27 out. 2017. 
+_________  Lei nº. 11.645/2008. Altera a Lei n[o] 9.394, de 20 de dezembro de 1996, modificada pela Lei n[o] 10.639, de 9 de janeiro de 2003, que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da rede de ensino a obrigatoriedade da temática “História e Cultura Afro-Brasileira e Indígena”. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11645.htm. Acesso em 10/11/2017.
 
-________ Lei nº 10.639, de 9 de janeiro de 2003. Altera a Lei n[o] 9.394, de 20 de dezembro de 1996, modificada pela Lei n[o] 10.639, de 9 de janeiro de 2003, que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da rede de ensino a obrigatoriedade da temática “História e - Cultura Afro-Brasileira e Indígena” Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2007 2010/2008/lei/l11645.htm. Acesso em 20/02/2018. 
+_________  Resolução CNE/CP nº 01/2004. Institui Diretrizes Curriculares Nacionais para a Educação das Relações Étnico Raciais e para o Ensino de História e Cultura Afro-Brasileira e Africana. Disponível em: http://portal.mec.gov.br/cne/arquivos/pdf/res012004.pdf. Acesso em 23/09/2017.
 
-_________  Lei nº. 11.645/2008. Altera a Lei n[o] 9.394, de 20 de dezembro de 1996, modificada pela Lei n[o] 10.639, de 9 de janeiro de 2003, que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da rede de ensino a obrigatoriedade da temática “História e Cultura Afro-Brasileira e Indígena”. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11645.htm. Acesso em 10/11/2017. 
+_________   Lei nº. 9.795/1999.  Dispõe sobre a educação ambiental, institui a Política Nacional de Educação Ambiental e dá outras providências. Disponível em: http://www.planalto.gov.br/ccivil_03/leis/l9795.htm. Acesso em 11/02/2018. _________    Decreto nº. 4.281/2002 Regulamenta a Lei n[o] 9.795, de 27 de abril de 1999, que institui a Política Nacional de Educação Ambiental, e dá outras providências. Disponível em: http://www.planalto.gov.br/ccivil_03/decreto/2002/d4281.htm Acesso em 23/09/2017 ____________ Resolução CNE/CP nº. 02/2012. Estabelece Diretrizes Nacionais para a Educação em Direitos Humanos/ Estabelece as Diretrizes Curriculares Nacionais para a Educação Ambiental. Disponível em: http://portal.mec.gov.br/observatorio-da-educacao/323-secretarias-112877938/orgaosvinculados-82187207/17810-2012-sp-1258713622 Acesso em 23/09/2017.
 
-_________  Resolução CNE/CP nº 01/2004. Institui Diretrizes Curriculares Nacionais para a Educação das Relações Étnico Raciais e para o Ensino de História e Cultura Afro-Brasileira e Africana. Disponível em: http://portal.mec.gov.br/cne/arquivos/pdf/res012004.pdf. Acesso em 23/09/2017. 
+____________ Lei nº 10.741, de 1º de outubro de 2003 Dispõe sobre o Estatuto do Idoso e dá outras providências. Disponível em: http://www.planalto.gov.br/ccivil_03/leis/2003/L10.741.htm. Acesso em 23/09/2017.
 
-_________   Lei nº. 9.795/1999.  Dispõe sobre a educação ambiental, institui a Política Nacional de Educação Ambiental e dá outras providências. Disponível em: http://www.planalto.gov.br/ccivil_03/leis/l9795.htm. Acesso em 11/02/2018. _________    Decreto nº. 4.281/2002 Regulamenta a Lei n[o] 9.795, de 27 de abril de 1999, que institui a Política Nacional de Educação Ambiental, e dá outras providências. Disponível em: http://www.planalto.gov.br/ccivil_03/decreto/2002/d4281.htm Acesso em 23/09/2017 ____________ Resolução CNE/CP nº. 02/2012. Estabelece Diretrizes Nacionais para a Educação em Direitos Humanos/ Estabelece as Diretrizes Curriculares Nacionais para a Educação Ambiental. Disponível em: http://portal.mec.gov.br/observatorio-da-educacao/323-secretarias-112877938/orgaosvinculados-82187207/17810-2012-sp-1258713622 Acesso em 23/09/2017. 
+_________ Nota Técnica nº 24 CGDH/DPEDHUC/SECADI/MEC. Política para mulheres. Disponível em: http://www.spm.gov.br/assuntos/conselho/legislacao/nota-tecnica-no-24-2015-cgdh-dpedhuc-secadimec  Acesso em 23/09/2017.
 
-____________ Lei nº 10.741, de 1º de outubro de 2003 Dispõe sobre o Estatuto do Idoso e dá outras providências. Disponível em: http://www.planalto.gov.br/ccivil_03/leis/2003/L10.741.htm. Acesso em 23/09/2017. 
+_________ Lei nº 12.764 de 27 de dezembro de 2012 Institui a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista; e altera o § 3[o] do art. 98 da Lei n[o] 8.112, de 11 de dezembro de 1990. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato20112014/2012/lei/l12764.htm. Acesso em 20/02/2018.
 
-_________ Nota Técnica nº 24 CGDH/DPEDHUC/SECADI/MEC. Política para mulheres. Disponível em: http://www.spm.gov.br/assuntos/conselho/legislacao/nota-tecnica-no-24-2015-cgdh-dpedhuc-secadimec  Acesso em 23/09/2017. 
+_________ Decreto nº. 5.626/2005.  Regulamenta a Lei n[o] 10.436, de 24 de abril de 2002, que dispõe sobre a Língua Brasileira de Sinais - Libras, e o art. 18 da Lei n[o] 10.098, de 19 de dezembro de 2000.
 
-_________ Lei nº 12.764 de 27 de dezembro de 2012 Institui a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista; e altera o § 3[o] do art. 98 da Lei n[o] 8.112, de 11 de dezembro de 1990. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato20112014/2012/lei/l12764.htm. Acesso em 20/02/2018. 
+77
 
-_________ Decreto nº. 5.626/2005.  Regulamenta a Lei n[o] 10.436, de 24 de abril de 2002, que dispõe sobre a Língua Brasileira de Sinais - Libras, e o art. 18 da Lei n[o] 10.098, de 19 de dezembro de 2000. 
+Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/decreto/d5626.htm Acesso em 20/02/2018.
 
-77 
+_________  Lei nº 10.436, de 24 de abril de 2002 Dispõe sobre a Língua Brasileira de Sinais - Libras e dá outras providências. Disponível em: http://www.planalto.gov.br/ccivil_03/leis/2002/l10436.htm . Acesso em 20/02/2018.
 
-Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/decreto/d5626.htm Acesso em 20/02/2018. 
+___________ Lei nº. 9.503/1997. Institui o Código de Trânsito Brasileiro Disponível em: http://www.planalto.gov.br/ccivil_03/leis/L9503.htm Acesso em 23/09/2017.
 
-_________  Lei nº 10.436, de 24 de abril de 2002 Dispõe sobre a Língua Brasileira de Sinais - Libras e dá outras providências. Disponível em: http://www.planalto.gov.br/ccivil_03/leis/2002/l10436.htm . Acesso em 20/02/2018. 
+IFPR. Instituto Federal do Paraná. Observatório Regional do IFPR. Indicadores Socioeconômicos. Curitiba, 2016. Disponível em: <http://reitoria.ifpr.edu.br/wpcontent/uploads/2013/12/IndicadoresSocioeconomicos1.pdf>. Acesso em 16 nov. 2017.
 
-___________ Lei nº. 9.503/1997. Institui o Código de Trânsito Brasileiro Disponível em: http://www.planalto.gov.br/ccivil_03/leis/L9503.htm Acesso em 23/09/2017. 
+IBGE,Cadastro Central de Empresas 2015. Rio de Janeiro: IBGE, 2017. Acesso em 24 nov. 2017. INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA, 2106. IBGE. Disponível em:
 
-IFPR. Instituto Federal do Paraná. Observatório Regional do IFPR. Indicadores Socioeconômicos. Curitiba, 2016. Disponível em: <http://reitoria.ifpr.edu.br/wpcontent/uploads/2013/12/IndicadoresSocioeconomicos1.pdf>. Acesso em 16 nov. 2017. 
+<http://www.cidades.ibge.gov.br/xtras/home.php?lang=> Acesso em: 10 de agosto de 2017.
 
-IBGE,Cadastro Central de Empresas 2015. Rio de Janeiro: IBGE, 2017. Acesso em 24 nov. 2017. INSTITUTO BRASILEIRO DE GEOGRAFIA E ESTATÍSTICA, 2106. IBGE. Disponível em: 
+78
 
-<http://www.cidades.ibge.gov.br/xtras/home.php?lang=> Acesso em: 10 de agosto de 2017. 
+## **APÊNDICES A**
 
-78 
+## **REGULAMENTO DO ESTÁGIO NÃO OBRIGATÓRIO DOS CURSOS DO CAMPUS CURITIBA DO INSTITUTO FEDERAL DO PARANÁ CURSO: TÉCNÓLOGO EM PROCESSOS GERENCIAIS**
 
-## **APÊNDICES A** 
+## CAPÍTULO I
 
-## **REGULAMENTO DO ESTÁGIO NÃO OBRIGATÓRIO DOS CURSOS DO CAMPUS CURITIBA DO INSTITUTO FEDERAL DO PARANÁ CURSO: TÉCNÓLOGO EM PROCESSOS GERENCIAIS** 
+## DA NATUREZA E FINALIDADE
 
-## CAPÍTULO I 
+Artigo 1º - O estágio curricular não obrigatório é um ato educativo de natureza opcional, com a finalidade de complementar os conhecimentos teóricos recebidos pelo estudante ao longo das atividades de ensino/aprendizagem e obedecerá a legislação específica, bem como as normas e diretrizes internas da IFPR.
 
-## DA NATUREZA E FINALIDADE 
+## CAPÍTULO II
 
-Artigo 1º - O estágio curricular não obrigatório é um ato educativo de natureza opcional, com a finalidade de complementar os conhecimentos teóricos recebidos pelo estudante ao longo das atividades de ensino/aprendizagem e obedecerá a legislação específica, bem como as normas e diretrizes internas da IFPR. 
+DA ORGANIZAÇÃO
 
-## CAPÍTULO II 
+Artigo 2º - O estágio curricular não obrigatório deve ser organizado tendo em vista os seguintes objetivos: I – ampliar a formação acadêmico-profissional do estudante;
 
-DA ORGANIZAÇÃO 
+II- propiciar ao estudante, na prática, a aplicação dos conhecimentos teóricos obtidos durante a realização do curso;
 
-Artigo 2º - O estágio curricular não obrigatório deve ser organizado tendo em vista os seguintes objetivos: I – ampliar a formação acadêmico-profissional do estudante; 
+III - promover a integração social do estudante.
 
-II- propiciar ao estudante, na prática, a aplicação dos conhecimentos teóricos obtidos durante a realização do curso; 
+Artigo 3º - O estágio curricular não obrigatório será regulamentado pela Pró-Reitoria de Interação com a Sociedade em articulação com a Direção de Ensino, Pesquisa e Extensão do Campus Curitiba, com as seguintes atribuições:
 
-III - promover a integração social do estudante. 
+I - celebrar convênio com a entidade concedente de estágio ou agência de integração empresa-escola; II - aprovar o plano de estágio elaborado pelo estudante e seu orientador;
 
-Artigo 3º - O estágio curricular não obrigatório será regulamentado pela Pró-Reitoria de Interação com a Sociedade em articulação com a Direção de Ensino, Pesquisa e Extensão do Campus Curitiba, com as seguintes atribuições: 
+III - assegurar a supervisão acadêmica do estágio, a ser realizada de forma compartilhada  pelos orientadores e pelos supervisores profissionais vinculados às entidades concedentes;
 
-I - celebrar convênio com a entidade concedente de estágio ou agência de integração empresa-escola; II - aprovar o plano de estágio elaborado pelo estudante e seu orientador; 
+IV - aprovar e assinar o termo de compromisso de estágio, conforme legislação vigente.
 
-III - assegurar a supervisão acadêmica do estágio, a ser realizada de forma compartilhada  pelos orientadores e pelos supervisores profissionais vinculados às entidades concedentes; 
+Artigo 4º - Só poderão estagiar estudantes regularmente matriculados e com freqüência regular, preferencialmente depois de cursado um semestre letivo.
 
-IV - aprovar e assinar o termo de compromisso de estágio, conforme legislação vigente. 
+§ único - a duração do estágio não obrigatório não poderá ser inferior a um semestre letivo.
 
-Artigo 4º - Só poderão estagiar estudantes regularmente matriculados e com freqüência regular, preferencialmente depois de cursado um semestre letivo. 
+Artigo 5º - Para fins de aproveitamento de créditos é vedada a equivalência entre estágio curricular obrigatório e não obrigatório.
 
-§ único - a duração do estágio não obrigatório não poderá ser inferior a um semestre letivo. 
+## CAPÍTULO III
 
-Artigo 5º - Para fins de aproveitamento de créditos é vedada a equivalência entre estágio curricular obrigatório e não obrigatório. 
+## DO CAMPO DE ESTÁGIO
 
-## CAPÍTULO III 
+Artigo 6º - Constituem campo de estágio as entidades de direito privado, os órgãos de administração pública, as instituições de ensino, a comunidade em geral e as próprias unidades de serviços e ensino do IFPR
 
-## DO CAMPO DE ESTÁGIO 
+Artigo 7º - Para aprovação de campo de estágio serão considerados pelo Campus Curitiba, em relação à entidade ofertante de campo de estágio:
 
-Artigo 6º - Constituem campo de estágio as entidades de direito privado, os órgãos de administração pública, as instituições de ensino, a comunidade em geral e as próprias unidades de serviços e ensino do IFPR 
+I - existência de infra-estrutura material e de recursos humanos;
 
-Artigo 7º - Para aprovação de campo de estágio serão considerados pelo Campus Curitiba, em relação à entidade ofertante de campo de estágio: 
+II - aceitação das condições de supervisão e avaliação do Campus Curitiba do IFPR;
 
-I - existência de infra-estrutura material e de recursos humanos; 
+III - anuência e acatamento às normas disciplinadoras do estágio curricular não obrigatório do Campus Curitiba do IFPR;
 
-II - aceitação das condições de supervisão e avaliação do Campus Curitiba do IFPR; 
+Artigo 8º - O campo de estágio será aprovado e oficializado pela Pró-Reitoria de Interação com a Sociedade com a entidade concedente de estágio ou agentes de integração empresa-escola, estes últimos entendidos como entidades que atuam na intermediação da busca de campos de stágio e ofertas de vagas. § 1º - A jornada do estágio deverá ser compatível com o horário escolar do estudante;
 
-III - anuência e acatamento às normas disciplinadoras do estágio curricular não obrigatório do Campus Curitiba do IFPR; 
+79
 
-Artigo 8º - O campo de estágio será aprovado e oficializado pela Pró-Reitoria de Interação com a Sociedade com a entidade concedente de estágio ou agentes de integração empresa-escola, estes últimos entendidos como entidades que atuam na intermediação da busca de campos de stágio e ofertas de vagas. § 1º - A jornada do estágio deverá ser compatível com o horário escolar do estudante; 
+§ 2º - deverá ser garantida a adequação entre as atividades desenvolvidas no estágio e a área de formação do estudante.
 
-79 
+## CAPÍTULO IV
 
-§ 2º - deverá ser garantida a adequação entre as atividades desenvolvidas no estágio e a área de formação do estudante. 
+## DA SUPERVISÃO E ORIENTAÇÃO DE ESTÁGIO
 
-## CAPÍTULO IV 
+Artigo 9º - A supervisão do estágio não obrigatório caberá ao profissional vinculado à entidade concedente do estágio em conjunto com profissional orientador indicado pelo curso ao qual o aluno está matriculado.
 
-## DA SUPERVISÃO E ORIENTAÇÃO DE ESTÁGIO 
+Artigo 10 - Cabe ao profissional orientador do estágio:
 
-Artigo 9º - A supervisão do estágio não obrigatório caberá ao profissional vinculado à entidade concedente do estágio em conjunto com profissional orientador indicado pelo curso ao qual o aluno está matriculado. 
+I - elaborar em conjunto com o estudante estagiário o plano de estágio, observada a adequação das atividades de estágio com a área de formação do estudante, de forma a garantir o desenvolvimento de competências necessárias à sua formação profissional.
 
-Artigo 10 - Cabe ao profissional orientador do estágio: 
+II - solicitar relatórios trimestrais dos estágios, verificar a assiduidade do estagiário e preencher a ficha de avaliação.
 
-I - elaborar em conjunto com o estudante estagiário o plano de estágio, observada a adequação das atividades de estágio com a área de formação do estudante, de forma a garantir o desenvolvimento de competências necessárias à sua formação profissional. 
+Artigo 11 - Cabe ao supervisor profissional da entidade concedente:
 
-II - solicitar relatórios trimestrais dos estágios, verificar a assiduidade do estagiário e preencher a ficha de avaliação. 
+I - avaliar as atividades desenvolvidas pelo estudante estagiário;
 
-Artigo 11 - Cabe ao supervisor profissional da entidade concedente: 
+II - assinar a ficha de freqüência do aluno estagiário;
 
-I - avaliar as atividades desenvolvidas pelo estudante estagiário; 
+III - orientar a elaboração dos relatórios do estágio e preencher a ficha de avaliação;
 
-II - assinar a ficha de freqüência do aluno estagiário; 
+IV - verificar a adequação das atividades de estágio com a área de formação do estudante, de forma a garantir o desenvolvimento de competências necessárias à sua formação profissional.
 
-III - orientar a elaboração dos relatórios do estágio e preencher a ficha de avaliação; 
+## CAPÍTULO V
 
-IV - verificar a adequação das atividades de estágio com a área de formação do estudante, de forma a garantir o desenvolvimento de competências necessárias à sua formação profissional. 
+## DA AVALIAÇÃO DO ESTÁGIO
 
-## CAPÍTULO V 
+Artigo 12 - A avaliação do estágio não obrigatório será realizada pelo profissional orientador do estágio, em conjunto com o supervisor profissional da entidade concedente, observados os seguintes critérios: I - desempenho profissional do estudante estagiário nas atividades contidas no plano de estágio; II - assiduidade do estudante estagiário na entidade concedente;
 
-## DA AVALIAÇÃO DO ESTÁGIO 
+## CAPÍTULO VI
 
-Artigo 12 - A avaliação do estágio não obrigatório será realizada pelo profissional orientador do estágio, em conjunto com o supervisor profissional da entidade concedente, observados os seguintes critérios: I - desempenho profissional do estudante estagiário nas atividades contidas no plano de estágio; II - assiduidade do estudante estagiário na entidade concedente; 
+## DAS DISPOSIÇÕES GERAIS
 
-## CAPÍTULO VI 
+Artigo 13 - O estágio de que trata este regulamento não cria vínculo empregatício de qualquer natureza entre o estudante e a entidade concedente, facultado ao estagiário o recebimento de bolsa.
 
-## DAS DISPOSIÇÕES GERAIS 
+§ único – A entidade concedente de estágio ou os agentes de integração empresa-escola providenciarão seguro de acidentes pessoais ao estudante em regime de estágio curricular não obrigatório.
 
-Artigo 13 - O estágio de que trata este regulamento não cria vínculo empregatício de qualquer natureza entre o estudante e a entidade concedente, facultado ao estagiário o recebimento de bolsa. 
+Artigo14 - A entidade concedente poderá expedir declaração referente à realização de estágio curricular não obrigatório, depois de cumpridas todas as formalidades previstas para essa modalidade.
 
-§ único – A entidade concedente de estágio ou os agentes de integração empresa-escola providenciarão seguro de acidentes pessoais ao estudante em regime de estágio curricular não obrigatório. 
+Artigo 15 - Os casos omissos serão resolvidos pela Direção de Ensino, Pesquisa e Extensão do Campus Curitiba do IFPR em consonância com as orientações recebidas da Pró-Reitoria de Interação com a Sociedade.
 
-Artigo14 - A entidade concedente poderá expedir declaração referente à realização de estágio curricular não obrigatório, depois de cumpridas todas as formalidades previstas para essa modalidade. 
+Curitiba, xx de xxx de 20xx.
 
-Artigo 15 - Os casos omissos serão resolvidos pela Direção de Ensino, Pesquisa e Extensão do Campus Curitiba do IFPR em consonância com as orientações recebidas da Pró-Reitoria de Interação com a Sociedade. 
+Direção de Ensino                                          Direção de Pesquisa, Extensão e Inovação
 
-Curitiba, xx de xxx de 20xx. 
+80
 
-Direção de Ensino                                          Direção de Pesquisa, Extensão e Inovação 
+## **APÊNDICE B - Regulamento de TCC**
 
-80 
+O objetivo da disciplina de Trabalho de Conclusão de Curso (TCC) é contribuir para o desenvolvimento de sua capacidade científica e possibilitar ao aluno a aplicação prática de conteúdos estudados ao longo do curso de Tecnologia em Processos Gerenciais.
 
-## **APÊNDICE B - Regulamento de TCC** 
+Assim sendo, o aluno individualmente ou em grupo de no máximo 3 pessoas poderá optar por uma das linhas abaixo para o desenvolvimento do seu TCC:
 
-O objetivo da disciplina de Trabalho de Conclusão de Curso (TCC) é contribuir para o desenvolvimento de sua capacidade científica e possibilitar ao aluno a aplicação prática de conteúdos estudados ao longo do curso de Tecnologia em Processos Gerenciais. 
+1) Desenvolver um trabalho monográfico, de cunho científico, abordando um tema relevante no contexto da Gestão, relativo aos conteúdos ministrados ao longo do curso.
 
-Assim sendo, o aluno individualmente ou em grupo de no máximo 3 pessoas poderá optar por uma das linhas abaixo para o desenvolvimento do seu TCC: 
+O TCC é uma disciplina presencial e obrigatória, que compõe a matriz curricular do curso. O aluno terá encontros periódicos com o seu professor orientador, os quais se darão em horário definido e também em outros horários previamente combinados entre o orientador e o (s) aluno (s).
 
-1) Desenvolver um trabalho monográfico, de cunho científico, abordando um tema relevante no contexto da Gestão, relativo aos conteúdos ministrados ao longo do curso. 
+Ao final da disciplina, o (s) aluno (s) poderá (ao) apresentar seu trabalho final em qualquer uma das seguintes formas: Artigo científico ou Monografia e deverá seguir a seguinte estrutura básica de conteúdo: Título nos idiomas Português e Inglês, Resumo Palavras-chaves, Abstract, keywords, (no caso de monografia será acrescido: Capa, contracapa, Sumário, Lista de tabelas, figuras e quadros), Introdução, Referencial Teórico, Metodologia, Apresentação/Análise dos Resultados, Considerações Finais, Bibliografia.
 
-O TCC é uma disciplina presencial e obrigatória, que compõe a matriz curricular do curso. O aluno terá encontros periódicos com o seu professor orientador, os quais se darão em horário definido e também em outros horários previamente combinados entre o orientador e o (s) aluno (s). 
+Em ambos os casos haverá apresentação oral do trabalho, sendo que a avaliação do TCC será realizada por uma banca formada por três professores, onde os critérios utilizados na avaliação serão:
 
-Ao final da disciplina, o (s) aluno (s) poderá (ao) apresentar seu trabalho final em qualquer uma das seguintes formas: Artigo científico ou Monografia e deverá seguir a seguinte estrutura básica de conteúdo: Título nos idiomas Português e Inglês, Resumo Palavras-chaves, Abstract, keywords, (no caso de monografia será acrescido: Capa, contracapa, Sumário, Lista de tabelas, figuras e quadros), Introdução, Referencial Teórico, Metodologia, Apresentação/Análise dos Resultados, Considerações Finais, Bibliografia. 
+1. Conteúdo do trabalho escrito
 
-Em ambos os casos haverá apresentação oral do trabalho, sendo que a avaliação do TCC será realizada por uma banca formada por três professores, onde os critérios utilizados na avaliação serão: 
+2. Domínio de Conteúdo.
 
-1. Conteúdo do trabalho escrito 
+3. Expressão Oral.
 
-2. Domínio de Conteúdo. 
+4. Organização da Apresentação Oral.
 
-3. Expressão Oral. 
+5. Organização do Trabalho Escrito.
 
-4. Organização da Apresentação Oral. 
+A não aprovação na disciplina de TCC, bem como a não apresentação oral do TCC em banca de defesa, impedirá tanto que o aluno conclua o curso quanto participe da colação de grau. Demais orientações estão previstas no regulamento do TCC que será reelaborado e devidamente aprovado pelo colegiado do Curso de Tecnologia em Processos do Campus Curitiba-PR.
 
-5. Organização do Trabalho Escrito. 
+81
 
-A não aprovação na disciplina de TCC, bem como a não apresentação oral do TCC em banca de defesa, impedirá tanto que o aluno conclua o curso quanto participe da colação de grau. Demais orientações estão previstas no regulamento do TCC que será reelaborado e devidamente aprovado pelo colegiado do Curso de Tecnologia em Processos do Campus Curitiba-PR. 
+## **APÊNDICE C**
 
-81 
+## **REGULAMENTO DE ATIVIDADES COMPLEMENTARES DO CURSO SUPERIOR DE TECNOLOGIA EM PROCESSOS GERENCIAIS DO CAMPUS CURITIBA**
 
-## **APÊNDICE C** 
+## **CAPÍTULO I DA NATUREZA E DAS FINALIDADES**
 
-## **REGULAMENTO DE ATIVIDADES COMPLEMENTARES DO CURSO SUPERIOR DE TECNOLOGIA EM PROCESSOS GERENCIAIS DO CAMPUS CURITIBA** 
+Art. 1º. As atividades de formação complementar compõem a estrutura curricular do Curso Superior de Tecnologia em Processos Gerenciais. Elas se constituem de atividades complementares ao currículo, visando à formação ampla e integral dos estudantes para o mundo do trabalho. Elas permitem, ademais, a integração entre ensino, pesquisa e extensão, de forma interdisciplinar em relação às diversas áreas do conhecimento.
 
-## **CAPÍTULO I DA NATUREZA E DAS FINALIDADES** 
+## CAPÍTULO II
 
-Art. 1º. As atividades de formação complementar compõem a estrutura curricular do Curso Superior de Tecnologia em Processos Gerenciais. Elas se constituem de atividades complementares ao currículo, visando à formação ampla e integral dos estudantes para o mundo do trabalho. Elas permitem, ademais, a integração entre ensino, pesquisa e extensão, de forma interdisciplinar em relação às diversas áreas do conhecimento. 
+## **DA CARGA HORÁRIA DAS ATIVIDADES COMPLEMENTARES**
 
-## CAPÍTULO II 
+Art. 2º. As atividades complementares deverão ser desenvolvidas em espaços de tempo que não conflitem com os horários das aulas ou do estágio curricular obrigatório.
 
-## **DA CARGA HORÁRIA DAS ATIVIDADES COMPLEMENTARES** 
+§ 1º Não haverá abono de faltas ou dispensa de atividades dos componentes curriculares aos alunos que vierem a assistir palestras, participar de seminários, congressos ou realização de qualquer atividade complementar nos horários das aulas.
 
-Art. 2º. As atividades complementares deverão ser desenvolvidas em espaços de tempo que não conflitem com os horários das aulas ou do estágio curricular obrigatório. 
+§ 2º Em caso de participação em seminários, jornadas, congressos, eventos, simpósios, cursos e atividades afins, para a apresentação de trabalhos, a falta poderá ser justificada mediante apresentação do certificado de participação no evento.
 
-§ 1º Não haverá abono de faltas ou dispensa de atividades dos componentes curriculares aos alunos que vierem a assistir palestras, participar de seminários, congressos ou realização de qualquer atividade complementar nos horários das aulas. 
+Art. 3º. A realização das atividades complementares dependerá, exclusivamente, da iniciativa e da dinamicidade do aluno, respeitados os critérios deste Regulamento.
 
-§ 2º Em caso de participação em seminários, jornadas, congressos, eventos, simpósios, cursos e atividades afins, para a apresentação de trabalhos, a falta poderá ser justificada mediante apresentação do certificado de participação no evento. 
+Art. 4º. Para integralizar o currículo do Curso Superior de Tecnologia em Processos Gerenciais, o estudante deve cumprir a carga horária mínima de 200 (duzentas) horas em atividades formativas complementares, durante o período em que estiver regularmente matriculado no curso.
 
-Art. 3º. A realização das atividades complementares dependerá, exclusivamente, da iniciativa e da dinamicidade do aluno, respeitados os critérios deste Regulamento. 
+§ 1º Sugere-se o cumprimento de, no mínimo, 50 (cinquenta) horas de atividades complementares por semestre, evitando o acúmulo para semestres subsequentes. § 2º Caso sejam integralizadas as 200 (duzentas) horas totais antes do final do quarto semestre, fica o discente liberado do cumprimento das atividades complementares previstas nos semestres subsequentes até o término do curso.
 
-Art. 4º. Para integralizar o currículo do Curso Superior de Tecnologia em Processos Gerenciais, o estudante deve cumprir a carga horária mínima de 200 (duzentas) horas em atividades formativas complementares, durante o período em que estiver regularmente matriculado no curso. 
+§ 3º Recomenda-se que o cumprimento das atividades complementares seja realizado no decorrer dos 3 (três) semestres iniciais do curso, a fim de evitar o acúmulo de atividades no último semestre.
 
-§ 1º Sugere-se o cumprimento de, no mínimo, 50 (cinquenta) horas de atividades complementares por semestre, evitando o acúmulo para semestres subsequentes. § 2º Caso sejam integralizadas as 200 (duzentas) horas totais antes do final do quarto semestre, fica o discente liberado do cumprimento das atividades complementares previstas nos semestres subsequentes até o término do curso. 
+## CAPÍTULO III
 
-§ 3º Recomenda-se que o cumprimento das atividades complementares seja realizado no decorrer dos 3 (três) semestres iniciais do curso, a fim de evitar o acúmulo de atividades no último semestre. 
+## **DA VALIDAÇÃO DAS ATIVIDADES COMPLEMENTARES**
 
-## CAPÍTULO III 
+Art. 5º. As Atividades Complementares estão discriminadas no Quadro I, bem como a carga horária máxima para cada atividade, em horas, aceita para validação das mesmas.
 
-## **DA VALIDAÇÃO DAS ATIVIDADES COMPLEMENTARES** 
+82
 
-Art. 5º. As Atividades Complementares estão discriminadas no Quadro I, bem como a carga horária máxima para cada atividade, em horas, aceita para validação das mesmas. 
+Art. 6º As atividades complementares de projetos de pesquisa, extensão, de educação formal não podem estar vinculadas ao Estágio Curricular Obrigatório e ao Trabalho de Conclusão de Curso (TCC) do estudante.
 
-82 
+Art. 7º A integralização das 200 (duzentas) horas só será efetivada a partir da apresentação dos respectivos comprovantes originais e respectivas cópias, que serão protocoladas na Secretaria Acadêmica junto com a Guia de Recebimento das Atividades Complementares (Anexo II) preenchida, no prazo máximo de 60 dias antes do término do último semestre letivo, e após a validação pelo Colegiado do Curso.
 
-Art. 6º As atividades complementares de projetos de pesquisa, extensão, de educação formal não podem estar vinculadas ao Estágio Curricular Obrigatório e ao Trabalho de Conclusão de Curso (TCC) do estudante. 
+Parágrafo único. O Colegiado de Curso Superior de Tecnologia em Processos Gerenciais é responsável por avaliar e validar, ou não, os documentos encaminhados, bem como encaminhá-los ao registro acadêmico, após a avaliação, para registro no histórico escolar do estudante.
 
-Art. 7º A integralização das 200 (duzentas) horas só será efetivada a partir da apresentação dos respectivos comprovantes originais e respectivas cópias, que serão protocoladas na Secretaria Acadêmica junto com a Guia de Recebimento das Atividades Complementares (Anexo II) preenchida, no prazo máximo de 60 dias antes do término do último semestre letivo, e após a validação pelo Colegiado do Curso. 
+Art. 8º. Serão aceitos como comprovantes para validação das atividades: certificados e declaração formal de responsável pela atividade.
 
-Parágrafo único. O Colegiado de Curso Superior de Tecnologia em Processos Gerenciais é responsável por avaliar e validar, ou não, os documentos encaminhados, bem como encaminhá-los ao registro acadêmico, após a avaliação, para registro no histórico escolar do estudante. 
+Art. 9º Para a avaliação das atividades poderá ser constituída uma comissão, composta por membros do colegiado do Curso Superior de Tecnologia em Processos Gerenciais, a qual encaminhará parecer ao Colegiado para que este proceda à validação.
 
-Art. 8º. Serão aceitos como comprovantes para validação das atividades: certificados e declaração formal de responsável pela atividade. 
+Art. 10º. Os comprovantes originais das atividades complementares desenvolvidas pelo estudante serão apresentados, juntamente com uma cópia, para conferência dos originais pela Secretaria Acadêmica.
 
-Art. 9º Para a avaliação das atividades poderá ser constituída uma comissão, composta por membros do colegiado do Curso Superior de Tecnologia em Processos Gerenciais, a qual encaminhará parecer ao Colegiado para que este proceda à validação. 
+§ 1º Os originais deverão permanecer sob a posse e responsabilidade direta de cada estudante. § 2º Quando ocorrer eventual solicitação de comprovantes já analisados, o estudante deverá reapresentá-los ao Colegiado do Curso de Processos Gerenciais, conforme solicitação.
 
-Art. 10º. Os comprovantes originais das atividades complementares desenvolvidas pelo estudante serão apresentados, juntamente com uma cópia, para conferência dos originais pela Secretaria Acadêmica. 
+Art. 11. É de total responsabilidade do estudante controlar o cumprimento da carga horária em atividades formativas complementares. O não cumprimento da carga horária mínima prevista 200 (duzentas) horas implicará na não obtenção do grau de Tecnólogo em Processos Gerenciais, no tempo regulamentar do curso.
 
-§ 1º Os originais deverão permanecer sob a posse e responsabilidade direta de cada estudante. § 2º Quando ocorrer eventual solicitação de comprovantes já analisados, o estudante deverá reapresentá-los ao Colegiado do Curso de Processos Gerenciais, conforme solicitação. 
+83
 
-Art. 11. É de total responsabilidade do estudante controlar o cumprimento da carga horária em atividades formativas complementares. O não cumprimento da carga horária mínima prevista 200 (duzentas) horas implicará na não obtenção do grau de Tecnólogo em Processos Gerenciais, no tempo regulamentar do curso. 
+Art. 12. Os alunos que ingressarem no curso por meio de transferência interna ou externa ou, ainda, por porte de diploma superior ficam também, sujeitos ao cumprimento da carga horária de atividades complementares, podendo solicitar ao Colegiado do Curso de Processos Gerenciais o cômputo de parte da carga horária atribuída pela instituição de origem, observando-se as seguintes condições:
 
-83 
+§ 1º As atividades complementares realizadas na instituição/curso de origem devem ser compatíveis com a estabelecida neste Regulamento;
 
-Art. 12. Os alunos que ingressarem no curso por meio de transferência interna ou externa ou, ainda, por porte de diploma superior ficam também, sujeitos ao cumprimento da carga horária de atividades complementares, podendo solicitar ao Colegiado do Curso de Processos Gerenciais o cômputo de parte da carga horária atribuída pela instituição de origem, observando-se as seguintes condições: 
+§ 2º A carga horária atribuída pela instituição de origem não poderá ser superior à conferida por este Regulamento a atividade idêntica ou congênere;
 
-§ 1º As atividades complementares realizadas na instituição/curso de origem devem ser compatíveis com a estabelecida neste Regulamento; 
+## CAPÍTULO IV
 
-§ 2º A carga horária atribuída pela instituição de origem não poderá ser superior à conferida por este Regulamento a atividade idêntica ou congênere; 
+## **DAS DISPOSIÇÕES GERAIS**
 
-## CAPÍTULO IV 
+Art. 13. Os casos omissos serão analisados pelo Colegiado do Curso Superior de Tecnologia em Processos Gerenciais. Para questões mais complexas, a decisão será em conjunto com a Coordenação de Ensino e a Direção de Ensino.
 
-## **DAS DISPOSIÇÕES GERAIS** 
+Art. 14. Este Regulamento entrará em vigor a partir do início das atividades do Curso Superior de Tecnologia em Processos Gerenciais, revogadas as disposições em contrário.
 
-Art. 13. Os casos omissos serão analisados pelo Colegiado do Curso Superior de Tecnologia em Processos Gerenciais. Para questões mais complexas, a decisão será em conjunto com a Coordenação de Ensino e a Direção de Ensino. 
-
-Art. 14. Este Regulamento entrará em vigor a partir do início das atividades do Curso Superior de Tecnologia em Processos Gerenciais, revogadas as disposições em contrário. 
-
-Quadro 1 - Lista de atividades formativas complementares para o Curso Superior de Tecnologia em Processos Gerenciais. 
+Quadro 1 - Lista de atividades formativas complementares para o Curso Superior de Tecnologia em Processos Gerenciais.
 
 ||Processos Gerenciais.||
 |---|---|---|
@@ -2919,9 +2853,7 @@ Quadro 1 - Lista de atividades formativas complementares para o Curso Superior d
 ||XI – Participação emprojetos de educação formal e informal|100|
 ||XII – Participação emprogramas de voluntariado|25|
 
-
-
-84 
+84
 
 |XIII – Participação em programas e projetos institucionais<br>externos|25|
 |---|---|
@@ -2929,25 +2861,23 @@ Quadro 1 - Lista de atividades formativas complementares para o Curso Superior d
 |XV – Publicação de artigos em jornais, revistas e outras<br>publicações de interesse|Até 5 artigos<br>(20<br>horas/artigo<br>)|
 |XVI – Apresentação de trabalhos em eventos técnico-científicos|Até 5 trabalhos<br>(10<br>horas/trabalho)|
 
+85
 
+## **APÊNDICE D FICHA DE VALIDAÇÃO DE ATIVIDADES COMPLEMENTARES PARA PREENCHIMENTO DO ESTUDANTE**
 
-85 
+Eu , matrícula , telefone ( ) e-mail , venho requerer a validação e registro no histórico escolar, da carga horária referente à(s) atividade(s) complementar(es), conforme especificado no campo abaixo e cuja cópia da documentação comprobatória segue em anexo, ficando inteiramente responsável pela veracidade das informações prestadas.
 
-## **APÊNDICE D FICHA DE VALIDAÇÃO DE ATIVIDADES COMPLEMENTARES PARA PREENCHIMENTO DO ESTUDANTE** 
+**Carga Horária TÍTULO DA DESCRIÇÃO DA CARGA Total Validada ATIVIDADE ATIVIDADE* HORÁRIA (não preencher)**
 
-Eu , matrícula , telefone ( ) e-mail , venho requerer a validação e registro no histórico escolar, da carga horária referente à(s) atividade(s) complementar(es), conforme especificado no campo abaixo e cuja cópia da documentação comprobatória segue em anexo, ficando inteiramente responsável pela veracidade das informações prestadas. 
+* Colocar apenas o nº. da atividade, conforme o quadro do verso.
 
-**Carga Horária TÍTULO DA DESCRIÇÃO DA CARGA Total Validada ATIVIDADE ATIVIDADE* HORÁRIA (não preencher)** 
+Curitiba, de de 20 .
 
-* Colocar apenas o nº. da atividade, conforme o quadro do verso. 
+Assinatura do Requerente
 
-Curitiba, de de 20 . 
+86
 
-Assinatura do Requerente 
-
-86 
-
-## **APÊNDICE E LISTA DE ATIVIDADES FORMATIVAS COMPLEMENTARES PARA O CURSO SUPERIOR DE TECNOLOGIA EM PROCESSOS GERENCIAIS*** 
+## **APÊNDICE E LISTA DE ATIVIDADES FORMATIVAS COMPLEMENTARES PARA O CURSO SUPERIOR DE TECNOLOGIA EM PROCESSOS GERENCIAIS***
 
 |**Descrição da Atividade**|**Descrição da Atividade**|**Carga horária**<br>**máxima para**<br>**validação (horas)**|
 |---|---|---|
@@ -2973,25 +2903,23 @@ Assinatura do Requerente
 |Curitiba|,de20__.||
 |Colegiado do Curso de Processos Gerenciais|||
 
+* Para uso exclusivo do colegiado do CST em Processos Gerenciais.
 
+Ministerio da Educacao
 
-* Para uso exclusivo do colegiado do CST em Processos Gerenciais. 
+## INSTITUTOFEDERAL
 
-Ministerio da Educacao 
+## Parana
 
-## INSTITUTOFEDERAL 
+## **ANEXOS**
 
-## Parana 
+- Atas de reuniões;
 
-## **ANEXOS** 
+- Atas do colegiado do curso;
 
-- Atas de reuniões; 
+- Atas do NDE;
 
-- Atas do colegiado do curso; 
+- Demais documentos comprobatórios necessários.
 
-- Atas do NDE; 
-
-- Demais documentos comprobatórios necessários. 
-
-1 
+1
 

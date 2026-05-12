@@ -1,98 +1,88 @@
-**==> picture [70 x 17] intentionally omitted <==**
 
-**----- Start of picture text -----**<br>
-INSTITUTOFEDERAL<br>PARANA<br>**----- End of picture text -----**<br>
+INSTITUTOFEDERAL<br>PARANA<br>
 
+MinisteriodaEducacao<br>InstitutoFederaldoParana<br>
 
-**==> picture [97 x 19] intentionally omitted <==**
+## **MINISTÉRIO DA EDUCAÇÃO**
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+# **SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA INSTITUTO FEDERAL DO PARANÁ CÂMPUS CURITIBA**
 
+## **PROJETO PEDAGÓGICO DO CURSO DE EDIFICAÇÕES**
 
-## **MINISTÉRIO DA EDUCAÇÃO** 
+## **Autorizado pela Resolução n° 20/09, retificada pela Resolução n° 103/11 do Conselho Superior - IFPR**
 
-# **SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA INSTITUTO FEDERAL DO PARANÁ CÂMPUS CURITIBA** 
+**CURITIBA**
 
-## **PROJETO PEDAGÓGICO DO CURSO DE EDIFICAÇÕES** 
+**2014**
 
-## **Autorizado pela Resolução n° 20/09, retificada pela Resolução n° 103/11 do Conselho Superior - IFPR** 
+## **INSTITUTO FEDERAL DO PARANÁ**
 
-**CURITIBA** 
+## **Reitor**
 
-**2014** 
+Irineu Mário Colombo
 
-## **INSTITUTO FEDERAL DO PARANÁ** 
+## **Pró-reitor de Ensino**
 
-## **Reitor** 
+Ezequiel Westphal
 
-Irineu Mário Colombo 
+## **Diretor de Ensino Médio e Técnico**
 
-## **Pró-reitor de Ensino** 
+Evandro Cherubin Rolin
 
-Ezequiel Westphal 
+## **Coordenador de Ensino Médio e Técnico**
 
-## **Diretor de Ensino Médio e Técnico** 
+Gabriel Mathias Carneiro Leão
 
-Evandro Cherubin Rolin 
+## **Diretor Geral do Campus**
 
-## **Coordenador de Ensino Médio e Técnico** 
+Luiz Gonzaga Alves Araújo
 
-Gabriel Mathias Carneiro Leão 
+**Diretor de Ensino, Pesquisa e Extensão** Adriano Willian da Silva
 
-## **Diretor Geral do Campus** 
+## **Coordenação do Curso**
 
-Luiz Gonzaga Alves Araújo 
+Celia Regina Gapski Yamamoto
 
-**Diretor de Ensino, Pesquisa e Extensão** Adriano Willian da Silva 
+## **SUMÁRIO**
 
-## **Coordenação do Curso** 
+**1. Identificação do Projeto  ................................................................................................................................... 4 2. Características do curso ................................................................................................................................... 5 3. Estrutura e Funcionamento .............................................................................................................................. 6** 3.1 Justificativa e oferta do curso ........................................................................................................................ 6 3.2 Objetivos do Curso ........................................................................................................................................ 7 3.3 Perfil Profissional de Conclusão .................................................................................................................... 8 3.4 Avaliação da aprendizagem .......................................................................................................................... 9 3.4.1 Critérios de avaliação de aprendizagem ................................................................................................ 9 3.4.2 Critérios de avaliação de competências desenvolvidas ......................................................................... 9 3.5 Instalações e equipamentos, recursos tecnológicos e biblioteca ............................................................... 10 3.6 Pessoas Envolvidas..................................................................................................................................... 25 3.6.1 Equipe Pedagógica .............................................................................................................................. 25 3.6.2 Equipe Técnica ..................................................................................................................................... 26 3.7 Descrição de diplomas e certificados a serem expedido ............................................................................ 26 3.8 Organização Curricular ................................................................................................................................ 26 **4. Documentos Anexos ....................................................................................................................................... 53 5. Referências  ..................................................................................................................................................... 58**
 
-Celia Regina Gapski Yamamoto 
+INSTITUTOFEDERAL PARANA
 
-## **SUMÁRIO** 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-**1. Identificação do Projeto  ................................................................................................................................... 4 2. Características do curso ................................................................................................................................... 5 3. Estrutura e Funcionamento .............................................................................................................................. 6** 3.1 Justificativa e oferta do curso ........................................................................................................................ 6 3.2 Objetivos do Curso ........................................................................................................................................ 7 3.3 Perfil Profissional de Conclusão .................................................................................................................... 8 3.4 Avaliação da aprendizagem .......................................................................................................................... 9 3.4.1 Critérios de avaliação de aprendizagem ................................................................................................ 9 3.4.2 Critérios de avaliação de competências desenvolvidas ......................................................................... 9 3.5 Instalações e equipamentos, recursos tecnológicos e biblioteca ............................................................... 10 3.6 Pessoas Envolvidas..................................................................................................................................... 25 3.6.1 Equipe Pedagógica .............................................................................................................................. 25 3.6.2 Equipe Técnica ..................................................................................................................................... 26 3.7 Descrição de diplomas e certificados a serem expedido ............................................................................ 26 3.8 Organização Curricular ................................................................................................................................ 26 **4. Documentos Anexos ....................................................................................................................................... 53 5. Referências  ..................................................................................................................................................... 58** 
+## **1.  Identificação do Projeto**
 
-INSTITUTOFEDERAL PARANA 
+**PROCESSO NÚMERO: 23397.000293/2014-28**
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+**NOME DO CURSO:** TÉCNICO EM EDIFICAÇÕES
 
-## **1.  Identificação do Projeto** 
+**EIXO TECNOLÓGICO:** INFRAESTRUTURA
 
-**PROCESSO NÚMERO: 23397.000293/2014-28** 
+## **COORDENAÇÃO**
 
-**NOME DO CURSO:** TÉCNICO EM EDIFICAÇÕES 
+**Coordenador: Celia Regina Gapski Yamamoto E-mail:** celia.yamamoto@ifpr.edu.br **Telefone** : (41) 3595-8804 **Vice-Coordenador:** Rodrigo Cezar Kanning **E-mail:** rodrigo.kanning@ifpr.edu.br **Telefone:** (41) 3595-8804
 
-**EIXO TECNOLÓGICO:** INFRAESTRUTURA 
+**LOCAL DE REALIZAÇÃO/CAMPUS** Instituto Federal de Educação Ciência e Tecnologia do Paraná – Campus Curitiba Rua João Negrão, 1285 – Rebouças – CEP 80.230-150
 
-## **COORDENAÇÃO** 
+**TEL:** (41) 3535-1400 **HOME-PAGE: E-mail:** www.curitiba.ifpr.edu.br
 
-**Coordenador: Celia Regina Gapski Yamamoto E-mail:** celia.yamamoto@ifpr.edu.br **Telefone** : (41) 3595-8804 **Vice-Coordenador:** Rodrigo Cezar Kanning **E-mail:** rodrigo.kanning@ifpr.edu.br **Telefone:** (41) 3595-8804 
+**RESOLUÇÃO DE CRIAÇÃO: Resolução n[o]** 20/09  do Conselho Superior, retificada pela Resolução n[o] 103/11 do Conselho Superior - IFPR
 
-**LOCAL DE REALIZAÇÃO/CAMPUS** Instituto Federal de Educação Ciência e Tecnologia do Paraná – Campus Curitiba Rua João Negrão, 1285 – Rebouças – CEP 80.230-150 
+**APROVAÇÃO DO PROJETO PEDAGÓGICO DO CURSO ( ) AJUSTE CURRICULAR DO PROJETO PEDAGÓGICO DO CURSO (X)**
 
-**TEL:** (41) 3535-1400 **HOME-PAGE: E-mail:** www.curitiba.ifpr.edu.br 
+## **COMISSÃO RESPONSÁVEL PELA ELABORAÇÃO DO PPC OU AJUSTE CURRICULAR:**
 
-**RESOLUÇÃO DE CRIAÇÃO: Resolução n[o]** 20/09  do Conselho Superior, retificada pela Resolução n[o] 103/11 do Conselho Superior - IFPR 
+Alécio Júnior Mattana Celia Regina Gapski Yamamoto Danniella Rosa Dominique Elena Giordano Gonzalez Ezequiel Burkarter Rodrigo Cezar Kanning Vanessa Vogt
 
-**APROVAÇÃO DO PROJETO PEDAGÓGICO DO CURSO ( ) AJUSTE CURRICULAR DO PROJETO PEDAGÓGICO DO CURSO (X)** 
+4
 
-## **COMISSÃO RESPONSÁVEL PELA ELABORAÇÃO DO PPC OU AJUSTE CURRICULAR:** 
+INSTITUTOFEDERAL PARANA
 
-Alécio Júnior Mattana Celia Regina Gapski Yamamoto Danniella Rosa Dominique Elena Giordano Gonzalez Ezequiel Burkarter Rodrigo Cezar Kanning Vanessa Vogt 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-4 
+## **2.  Características do Curso**
 
-INSTITUTOFEDERAL PARANA 
-
-MinisteriodaEducacao InstitutoFederaldoParana 
-
-## **2.  Características do Curso** 
-
-**==> picture [471 x 228] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
 |||
 |---|---|
 |Nível ................................................. :|Educação Profissional Técnica de Nível Médio|
@@ -109,636 +99,581 @@ MinisteriodaEducacao InstitutoFederaldoParana
 |Requisitos de acesso ao Curso...... : Ensino Médio Completo e Aprovação por Processo|
 |Seletivo.|
 
-**----- End of picture text -----**<br>
+Os estudantes serão admitidos no curso Técnico em Edificações por Processo Seletivo ou outra forma que o IFPR venha adotar, regulamentado pela Pró-Reitoria de Ensino em parceria com o Câmpus Curitiba. Os candidatos deverão comprovar a conclusão do Ensino Médio no ato da matrícula, por atestado de conclusão do ensino médio ou apresentação do diploma e demais documentos necessários para o registro no controle acadêmico do IFPR.
 
+**Tipo de Matrícula ............................. :** por componente curricular **Regime ............................................. :** Semestral **Instituição Parceira ......................... :** Nenhuma.
 
-Os estudantes serão admitidos no curso Técnico em Edificações por Processo Seletivo ou outra forma que o IFPR venha adotar, regulamentado pela Pró-Reitoria de Ensino em parceria com o Câmpus Curitiba. Os candidatos deverão comprovar a conclusão do Ensino Médio no ato da matrícula, por atestado de conclusão do ensino médio ou apresentação do diploma e demais documentos necessários para o registro no controle acadêmico do IFPR. 
+5
 
-**Tipo de Matrícula ............................. :** por componente curricular **Regime ............................................. :** Semestral **Instituição Parceira ......................... :** Nenhuma. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-5 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## **3. Estrutura e Funcionamento**
 
-INSTITUTOFEDERAL PARANA 
+## **3.1 Justificativa da Oferta do Curso**
 
-## **3. Estrutura e Funcionamento** 
+Segundo o Ministério das Cidades, o déficit habitacional em 2007 era estimado em 6.273 milhões de domicílios, dos quais 5.180 milhões ou 82,6% estavam localizados nas áreas urbanas. Relativamente, correspondia a 11,1% do estoque de domicílios particulares permanentes do país, sendo 10,8% nas áreas urbanas e 12,9% nas rurais.
 
-## **3.1 Justificativa da Oferta do Curso** 
+Os resultados da estimativa do déficit habitacional no Paraná identificam as necessidades a partir de dois componentes: o déficit habitacional e a inadequação dos domicílios. Entendeu-se déficit habitacional como estando associado à necessidade de construção de novas moradias de modo a atender à substituição das habitações precárias e à coabitação familiar. Desse modo, o déficit habitacional paranaense foi estimado em 169.277 novas moradias no ano 2000. Em termos relativos, esse déficit equivale a 6,35% dos domicílios particulares permanentes do Estado. Observa-se que há uma concentração do déficit habitacional nas escalas intermediárias de déficit que variam de 3,18% a 12,70%, atingindo 374 municípios, ou seja, 94% dos municípios do Estado, com uma predominância nas regiões sudoeste e parte do centro-sul, norte e metropolitana. O déficit habitacional superior a 12,70% atinge um grupo de apenas 11 municípios, todos eles com até 50 mil habitantes.  A inexistência de uma política habitacional nacional de longo prazo, de forma a eliminar as carências de unidades residenciais, estimadas em torno oito milhões, faz com que este déficit seja progressivo a cada ano.
 
-Segundo o Ministério das Cidades, o déficit habitacional em 2007 era estimado em 6.273 milhões de domicílios, dos quais 5.180 milhões ou 82,6% estavam localizados nas áreas urbanas. Relativamente, correspondia a 11,1% do estoque de domicílios particulares permanentes do país, sendo 10,8% nas áreas urbanas e 12,9% nas rurais. 
+Pelos indicadores de contratações de profissionais na área da Construção Civil do Paraná do Sindicato da Indústria da Construção Civil do Paraná (SINDUSCON), Gráfico 01, referência 2008 e 2009 (outubro), vê-se claramente o aumento significativo e crescente das contratações no período, voltando-se aos níveis do período de antes da crise financeira de agosto de 2008.
 
-Os resultados da estimativa do déficit habitacional no Paraná identificam as necessidades a partir de dois componentes: o déficit habitacional e a inadequação dos domicílios. Entendeu-se déficit habitacional como estando associado à necessidade de construção de novas moradias de modo a atender à substituição das habitações precárias e à coabitação familiar. Desse modo, o déficit habitacional paranaense foi estimado em 169.277 novas moradias no ano 2000. Em termos relativos, esse déficit equivale a 6,35% dos domicílios particulares permanentes do Estado. Observa-se que há uma concentração do déficit habitacional nas escalas intermediárias de déficit que variam de 3,18% a 12,70%, atingindo 374 municípios, ou seja, 94% dos municípios do Estado, com uma predominância nas regiões sudoeste e parte do centro-sul, norte e metropolitana. O déficit habitacional superior a 12,70% atinge um grupo de apenas 11 municípios, todos eles com até 50 mil habitantes.  A inexistência de uma política habitacional nacional de longo prazo, de forma a eliminar as carências de unidades residenciais, estimadas em torno oito milhões, faz com que este déficit seja progressivo a cada ano. 
+As demandas da construção civil retornaram aos patamares do ano anterior, embora o déficit habitacional permaneça o mesmo e a necessidade de profissionais na área de construção civil fique aquém do esperado.
 
-Pelos indicadores de contratações de profissionais na área da Construção Civil do Paraná do Sindicato da Indústria da Construção Civil do Paraná (SINDUSCON), Gráfico 01, referência 2008 e 2009 (outubro), vê-se claramente o aumento significativo e crescente das contratações no período, voltando-se aos níveis do período de antes da crise financeira de agosto de 2008. 
+6.000<br>5.000<br>4.000<br>3.000<br>Serie1<br>2.000<br>1.000<br>
 
-As demandas da construção civil retornaram aos patamares do ano anterior, embora o déficit habitacional permaneça o mesmo e a necessidade de profissionais na área de construção civil fique aquém do esperado. 
+## **Gráfico 01:** Indicadores de contratação de profissionais da área de construção civil. _Fonte:_ SINDUSCON (out/2009)
 
-**==> picture [251 x 110] intentionally omitted <==**
+Em 2007, a expansão do setor da construção estava em linha com o crescimento do Produto Interno Bruto - PIB brasileiro (5,7%), com o desempenho da atividade da construção no PIB (5,0%) e com a formação bruta de capital fixo, que avançou 13,5%, assinalando o maior acréscimo desde o início da série histórica, em 1996.
 
-**----- Start of picture text -----**<br>
-6.000<br>5.000<br>4.000<br>3.000<br>Serie1<br>2.000<br>1.000<br>**----- End of picture text -----**<br>
+A atividade empresarial da construção foi influenciada positivamente por um conjunto de fatores diretamente relacionados à dinâmica do setor, tais como: crescimento da renda familiar e do
 
+6
 
-## **Gráfico 01:** Indicadores de contratação de profissionais da área de construção civil. _Fonte:_ SINDUSCON (out/2009) 
+INSTITUTOFEDERAL PARANA
 
-Em 2007, a expansão do setor da construção estava em linha com o crescimento do Produto Interno Bruto - PIB brasileiro (5,7%), com o desempenho da atividade da construção no PIB (5,0%) e com a formação bruta de capital fixo, que avançou 13,5%, assinalando o maior acréscimo desde o início da série histórica, em 1996. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-A atividade empresarial da construção foi influenciada positivamente por um conjunto de fatores diretamente relacionados à dinâmica do setor, tais como: crescimento da renda familiar e do 
+emprego, aumento do crédito ao consumidor, maior oferta de crédito imobiliário e manutenção da redução do Imposto sobre Produtos Industrializados - IPI de diversos insumos da construção. Além destes fatores, a atividade da construção foi beneficiada por uma conjuntura econômica favorável.
 
-6 
+O Índice Nacional de Preços ao Consumidor Amplo - IPCA, utilizado como referência para o regime de metas de inflação, cresceu 4,46% em 2007, contra 3,14% do ano anterior, ficando dentro da meta de 4,50%. A estabilidade dos preços e a redução da taxa de juros contribuíram para um ambiente econômico mais estável, fundamental para a atividade empresarial da construção e para a compra de imóveis pelas famílias, cujos investimentos são feitos considerando prazos de maturação mais longos.
 
-INSTITUTOFEDERAL PARANA 
+Os produtos da indústria da construção, retratados pela Pesquisa Anual da Indústria da Construção desde 2002, são os diversos tipos de obras e/ou serviços executados pelas empresas de construção no ano de referência da pesquisa. Esses produtos mostram, por exemplo, o valor construído de edificações residenciais; edificações comerciais; plantas industriais; rodovias; pontes e túneis; aeroportos; redes de distribuição de água; barragens e represas para geração de energia elétrica; instalações elétricas e de telecomunicações, dentre outros. Nesta análise, os 54 produtos foram agregados em quatro grandes grupos: obras residenciais; edificações industriais, comerciais e outras edificações não residenciais; obras de infraestrutura; e outras obras.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+Em 2007, o valor das obras e/ou serviços executados pelas empresas com cinco ou mais pessoas ocupadas cresceu 14,4%, em termos nominais, e 8,6% descontados os efeitos inflacionários. O valor do segmento de obras residenciais avançou 6,3% em termos nominais, em função, principalmente, do crescimento de edificações residenciais (13,9%), produto de maior peso na construção e diretamente influenciado pelo crédito imobiliário, cujo aumento está relacionado a aprimoramentos no marco regulatório do setor. O valor emprestado foi 92,0% superior ao de 2006 e o número de unidades financiadas, 73,9% maior. Segundo estatísticas do Sistema Financeiro da Habitação, do Banco Central do Brasil, foram liberadas com recursos da caderneta de poupança, em 2007, 17,6 bilhões no financiamento de 193.547 unidades, sendo 51,1% deste montante destinados a novas construções de imóveis e o restante para a compra de moradias usadas.
 
-emprego, aumento do crédito ao consumidor, maior oferta de crédito imobiliário e manutenção da redução do Imposto sobre Produtos Industrializados - IPI de diversos insumos da construção. Além destes fatores, a atividade da construção foi beneficiada por uma conjuntura econômica favorável. 
+Dentro desta perspectiva houve também um grande aumento de postos de trabalho na Construção Civil - ver _Gráfico 01_ em justificativa - não só de ocupações mais simples como servente, pedreiros, carpinteiros e outros como também mão de obra mais qualificadas como Técnicos de nível médio da Construção Civil e Engenheiros Civis. Em função também do déficit habitacional e da infraestrutura do país e da retomada dos investimentos públicos na área da construção civil o crescimento será contínuo nos próximos anos, havendo a geração de novos empregos e ampliando sensivelmente o mercado de trabalho.
 
-O Índice Nacional de Preços ao Consumidor Amplo - IPCA, utilizado como referência para o regime de metas de inflação, cresceu 4,46% em 2007, contra 3,14% do ano anterior, ficando dentro da meta de 4,50%. A estabilidade dos preços e a redução da taxa de juros contribuíram para um ambiente econômico mais estável, fundamental para a atividade empresarial da construção e para a compra de imóveis pelas famílias, cujos investimentos são feitos considerando prazos de maturação mais longos. 
+A tendência é de que o mercado imobiliário de Curitiba se mantenha em um patamar de 20 mil alvarás ao ano, pelos próximos anos. O número está abaixo do período de maior crescimento (2009 a 2013), com média de 23,2 mil alvarás/ano, mas ainda assim bem acima da média de liberações do período anterior ao grande volume de lançamento entre 2004 e 2008, quando a média de alvarás liberados foi de 12,5 mil novas edificações ao ano (1).
 
-Os produtos da indústria da construção, retratados pela Pesquisa Anual da Indústria da Construção desde 2002, são os diversos tipos de obras e/ou serviços executados pelas empresas de construção no ano de referência da pesquisa. Esses produtos mostram, por exemplo, o valor construído de edificações residenciais; edificações comerciais; plantas industriais; rodovias; pontes e túneis; aeroportos; redes de distribuição de água; barragens e represas para geração de energia elétrica; instalações elétricas e de telecomunicações, dentre outros. Nesta análise, os 54 produtos foram agregados em quatro grandes grupos: obras residenciais; edificações industriais, comerciais e outras edificações não residenciais; obras de infraestrutura; e outras obras. 
+Um dos resultados do crescimento do mercado imobiliário foi a verticalização (1). O índice de verticalização de Curitiba cresceu 2% em dez anos. Em 2010 os apartamentos correspondiam a 27% dos domicílios na capital paranaense, com 152,9 mil unidades. Dez anos antes, somavam 25% dos domicílios, com 117 mil unidades (4). Em 2011, ano de alto crescimento da produção imobiliária, os alvarás para empreendimentos de mais de 8 andares eram 69% do total. Em 2013, até setembro, 49% das autorizações para novas construções foram para unidades de mais de 4 andares e 51% para edificações de até 3 pavimentos. As construções residenciais representam a maior parte dos alvarás liberados, registrando crescimento de 4% sobre 2012. O número indica que a demanda por moradia na capital continua aquecida e acima do ritmo médio de crescimento populacional dos últimos anos, que ficou em 0,5% (1).
 
-Em 2007, o valor das obras e/ou serviços executados pelas empresas com cinco ou mais pessoas ocupadas cresceu 14,4%, em termos nominais, e 8,6% descontados os efeitos inflacionários. O valor do segmento de obras residenciais avançou 6,3% em termos nominais, em função, principalmente, do crescimento de edificações residenciais (13,9%), produto de maior peso na construção e diretamente influenciado pelo crédito imobiliário, cujo aumento está relacionado a aprimoramentos no marco regulatório do setor. O valor emprestado foi 92,0% superior ao de 2006 e o número de unidades financiadas, 73,9% maior. Segundo estatísticas do Sistema Financeiro da Habitação, do Banco Central do Brasil, foram liberadas com recursos da caderneta de poupança, em 2007, 17,6 bilhões no financiamento de 193.547 unidades, sendo 51,1% deste montante destinados a novas construções de imóveis e o restante para a compra de moradias usadas. 
+7
 
-Dentro desta perspectiva houve também um grande aumento de postos de trabalho na Construção Civil - ver _Gráfico 01_ em justificativa - não só de ocupações mais simples como servente, pedreiros, carpinteiros e outros como também mão de obra mais qualificadas como Técnicos de nível médio da Construção Civil e Engenheiros Civis. Em função também do déficit habitacional e da infraestrutura do país e da retomada dos investimentos públicos na área da construção civil o crescimento será contínuo nos próximos anos, havendo a geração de novos empregos e ampliando sensivelmente o mercado de trabalho. 
+INSTITUTOFEDERAL PARANA
 
-A tendência é de que o mercado imobiliário de Curitiba se mantenha em um patamar de 20 mil alvarás ao ano, pelos próximos anos. O número está abaixo do período de maior crescimento (2009 a 2013), com média de 23,2 mil alvarás/ano, mas ainda assim bem acima da média de liberações do período anterior ao grande volume de lançamento entre 2004 e 2008, quando a média de alvarás liberados foi de 12,5 mil novas edificações ao ano (1). 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-Um dos resultados do crescimento do mercado imobiliário foi a verticalização (1). O índice de verticalização de Curitiba cresceu 2% em dez anos. Em 2010 os apartamentos correspondiam a 27% dos domicílios na capital paranaense, com 152,9 mil unidades. Dez anos antes, somavam 25% dos domicílios, com 117 mil unidades (4). Em 2011, ano de alto crescimento da produção imobiliária, os alvarás para empreendimentos de mais de 8 andares eram 69% do total. Em 2013, até setembro, 49% das autorizações para novas construções foram para unidades de mais de 4 andares e 51% para edificações de até 3 pavimentos. As construções residenciais representam a maior parte dos alvarás liberados, registrando crescimento de 4% sobre 2012. O número indica que a demanda por moradia na capital continua aquecida e acima do ritmo médio de crescimento populacional dos últimos anos, que ficou em 0,5% (1). 
+O movimento que se vê agora é o natural de Curitiba. Essa acomodação mostra um mercado que amadureceu. Depois de atender a demanda reprimida, crescerá a ritmos mais “naturais”. O comportamento do comprador também mudou – diante de um quadro de bastante oferta, ele compara mais antes de fechar negócio. De seu lado, as construtoras estão mais comedidas, estudando melhor cada lançamento. Esse é um comportamento das empresas paranaenses, que têm mais compromisso com a cidade e com os empregos (1).
 
-7 
+A pergunta a ser feita é se a cidade crescerá para mais longe ou vai se adensar.
 
-INSTITUTOFEDERAL PARANA 
+Com a escalada dos preços dos terrenos, cujo valor médio avançou mais de 300% desde 2007, a saída para viabilizar os empreendimentos mais baratos tem sido apostar nos principais municípios limítrofes de Curitiba, em Almirante Tamandaré, Araucária, Campo Largo, Colombo, Fazenda Rio Grande, Piraquara, Pinhais e São José dos Pinhais. E, o único fator que pode mudar um pouco esse cenário na região metropolitana é a revisão do plano diretor de Curitiba, em andamento neste ano de 2014 (1).
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+A liberação de construções mais altas nos bairros mais periféricos, por exemplo, poderia equacionar o custo do terreno. Contudo, não dá para verticalizar zonas que não estão preparadas para isso (4). Por outro lado, mesmo com infraestrutura, o bairro Rebouças, onde se localiza o campus Curitiba do IFPR, por exemplo, tem potencial para crescer com ações de revitalização e verticalização. É possível verticalizar com planejamento e envolvimento da iniciativa privada – projetos de parceria público-privada que aliem moradia, serviço público e cultura (4). As empresas, ao lançar um empreendimento, além de planejar o projeto e pesquisar o público-alvo, ao perceberem que uma região está se tornando importante para a cidade, resolvem investir, também, na recuperação da rua e de praças, auxiliar o comércio da região e cuidar de áreas verdes próximas. Embora seja uma estratégia comercial, levar novos ares para a vizinhança traz retorno para toda a cidade e seus moradores. Incorporadores administração municipal ou estadual, juntos promovem a recuperação do entorno. É o que acontece no Rebouças, perto da Rodoferroviária: um prédio em construção e a restauração da Ponte Preta. Começa um pensar “da porta para fora”, na sinergia com a região: projetos mistos. Esse movimento é muito positivo (5).
 
-O movimento que se vê agora é o natural de Curitiba. Essa acomodação mostra um mercado que amadureceu. Depois de atender a demanda reprimida, crescerá a ritmos mais “naturais”. O comportamento do comprador também mudou – diante de um quadro de bastante oferta, ele compara mais antes de fechar negócio. De seu lado, as construtoras estão mais comedidas, estudando melhor cada lançamento. Esse é um comportamento das empresas paranaenses, que têm mais compromisso com a cidade e com os empregos (1). 
+As empresas do setor, onde a tradicional obra de tijolo sobre tijolo ainda impera, precisam investir em tecnologias e sistemas construtivos ( _steelframe_ , _woodframe_ e concreto) para satisfazer o consumidor brasileiro, que, cada vez mais exigente e informado, já busca diferenciais de economia e sustentabilidade nos imóveis, conforme pesquisa da Câmara Brasileira da Indústria da Construção Civil. Inovação é palavra de ordem. É em inovação que a indústria da construção precisa evoluir (6). E, cada vez mais, nesse tema, a sustentabilidade ganha força: a economia dos recursos renováveis por meio de sistemas tecnológicos, a racionalização do uso de energia e de água, a utilização de teto solar para geração de energia. O brasileiro ampliou sua conscientização ambiental, passou a valorizar a melhor utilização de recursos que, além dos aspectos ambientais, promovem economia continuada no orçamento familiar e está disposto a investir mais pela inovação. O desafio é encontrar soluções tecnológicas que reduzam os custos de suas implantações para imóveis de todos os segmentos (7).
 
-A pergunta a ser feita é se a cidade crescerá para mais longe ou vai se adensar. 
+A escassez de profissionais para a construção civil, percebida com intensidade entre as construtoras devido aos lançamentos, também, é sentida por quem busca prestadores de serviços para reformas e reparos (2). Em um mercado que demanda trabalhadores especializados e garantia de serviço de qualidade, ganham espaço cursos de qualificação no setor: pedreiro auxiliar, mestre de obras, pintor, azulejista, instalador elétrico residencial, instalador hidráulico (2), entre outras profissões relacionadas à construção civil.
 
-Com a escalada dos preços dos terrenos, cujo valor médio avançou mais de 300% desde 2007, a saída para viabilizar os empreendimentos mais baratos tem sido apostar nos principais municípios limítrofes de Curitiba, em Almirante Tamandaré, Araucária, Campo Largo, Colombo, Fazenda Rio Grande, Piraquara, Pinhais e São José dos Pinhais. E, o único fator que pode mudar um pouco esse cenário na região metropolitana é a revisão do plano diretor de Curitiba, em andamento neste ano de 2014 (1). 
+A pergunta que fica é: Quem vai orientar e coordenar esta equipe de profissionais para os diferentes tipos e padrões de construções?
 
-A liberação de construções mais altas nos bairros mais periféricos, por exemplo, poderia equacionar o custo do terreno. Contudo, não dá para verticalizar zonas que não estão preparadas para isso (4). Por outro lado, mesmo com infraestrutura, o bairro Rebouças, onde se localiza o campus Curitiba do IFPR, por exemplo, tem potencial para crescer com ações de revitalização e verticalização. É possível verticalizar com planejamento e envolvimento da iniciativa privada – projetos de parceria público-privada que aliem moradia, serviço público e cultura (4). As empresas, ao lançar um empreendimento, além de planejar o projeto e pesquisar o público-alvo, ao perceberem que uma região está se tornando importante para a cidade, resolvem investir, também, na recuperação da rua e de praças, auxiliar o comércio da região e cuidar de áreas verdes próximas. Embora seja uma estratégia comercial, levar novos ares para a vizinhança traz retorno para toda a cidade e seus moradores. Incorporadores administração municipal ou estadual, juntos promovem a recuperação do entorno. É o que acontece no Rebouças, perto da Rodoferroviária: um prédio em construção e a restauração da Ponte Preta. Começa um pensar “da porta para fora”, na sinergia com a região: projetos mistos. Esse movimento é muito positivo (5). 
+MinisteriodaEducacao<br>INSTITUTOFEDERAL<br>InstitutoFederaldoParana<br>PARANA<br>
 
-As empresas do setor, onde a tradicional obra de tijolo sobre tijolo ainda impera, precisam investir em tecnologias e sistemas construtivos ( _steelframe_ , _woodframe_ e concreto) para satisfazer o consumidor brasileiro, que, cada vez mais exigente e informado, já busca diferenciais de economia e sustentabilidade nos imóveis, conforme pesquisa da Câmara Brasileira da Indústria da Construção Civil. Inovação é palavra de ordem. É em inovação que a indústria da construção precisa evoluir (6). E, cada vez mais, nesse tema, a sustentabilidade ganha força: a economia dos recursos renováveis por meio de sistemas tecnológicos, a racionalização do uso de energia e de água, a utilização de teto solar para geração de energia. O brasileiro ampliou sua conscientização ambiental, passou a valorizar a melhor utilização de recursos que, além dos aspectos ambientais, promovem economia continuada no orçamento familiar e está disposto a investir mais pela inovação. O desafio é encontrar soluções tecnológicas que reduzam os custos de suas implantações para imóveis de todos os segmentos (7). 
+O Curso Técnico em Edificações, modalidade subsequente ao ensino médio, tem sua criação justificada porque visa fundamentalmente à formação de profissionais para atender a demanda da indústria da Construção Civil, setor responsável pelo suprimento do déficit habitacional no Brasil. A geração de novos empregos reflexo do mercado denota a perspectiva econômica para a realização do curso. Apesar de válida, não é única.  Trata-se da formação de um profissional inserido na construção de uma sociedade social e ambientalmente mais equilibrada. O curso do Câmpus Curitiba do Instituto Federal do Paraná integra ciência, tecnologia e cultura, objetivando soluções para os problemas deste tempo, necessariamente articulados ao dinamismo histórico da sociedade em seu processo de desenvolvimento.
 
-A escassez de profissionais para a construção civil, percebida com intensidade entre as construtoras devido aos lançamentos, também, é sentida por quem busca prestadores de serviços para reformas e reparos (2). Em um mercado que demanda trabalhadores especializados e garantia de serviço de qualidade, ganham espaço cursos de qualificação no setor: pedreiro auxiliar, mestre de obras, pintor, azulejista, instalador elétrico residencial, instalador hidráulico (2), entre outras profissões relacionadas à construção civil. 
+A referência fundamental para a educação profissional e tecnológica é o homem e, por isso, a formação do Técnico em Edificações é “potencializadora do ser humano, enquanto integralidade, do desenvolvimento de sua capacidade de gerar conhecimentos, a partir de uma prática interativa com a realidade” e de produzir ciência e tecnologia (PACHECO, p.22).
 
-A pergunta que fica é: Quem vai orientar e coordenar esta equipe de profissionais para os diferentes tipos e padrões de construções? 
+## **3.2 Objetivos do Curso**
 
-8 
+O objetivo principal do curso consiste na formação de um profissional legalmente habilitado, que possua competências para atuar em: escritórios de projetos, orçamentos, levantamentos de material para estimativa de custo, laboratórios de materiais de construção e solos, levantamentos topográficos, planejamento e execução de obras de construção civil, coordenação de equipes de trabalho, seleção e treinamento de pessoal, realização de interfaces entre áreas técnica e administrativa das construtoras.
 
-**==> picture [451 x 21] intentionally omitted <==**
+O Curso Técnico em Edificações tem por objetivos a formação cidadã do indivíduo crítico e a formação integral do profissional para projetar e executar obras de acordo com os procedimentos legais, propondo alternativas do uso de técnicas e materiais de construção, elaborando o planejamento e o orçamento necessários à escolha da melhor solução a ser adotada na ocupação do solo, tendo por premissa o respeito e a preservação ambiental. Para isso será necessário a atuação nas seguintes atividades: Realizar levantamento topográfico; Desenvolver projetos sob supervisão; Legalizar projetos e obras; Planejar o trabalho de execução de obras civis; Orçar obras; Providenciar suprimentos e serviços; Supervisionar execução e obras; Executar controle tecnológico de materiais e solos; Orientar os trabalhadores da área de edificações; e Executar a manutenção e conservação de obras.
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>INSTITUTOFEDERAL<br>InstitutoFederaldoParana<br>PARANA<br>**----- End of picture text -----**<br>
+O curso  objetiva desenvolver a formação de profissionais conscientes de seu potencial e de suas responsabilidades, na participação e na construção do mundo de trabalho, como membros ativos da sociedade em que vivem objetivando o aprender contínuo, a postura ética (o trato das questões de sustentabilidade) e a flexibilidade nas relações (viver com a diversidade) em atenção ao disposto na Lei de Diretrizes e Bases da Educação Nacional nº 9.394/96 e a formação integral, que consiga superar a dicotomia historicamente cristalizada da divisão social do trabalho entre a ação de executar e as ações de pensar, planejar, dirigir, supervisionar ou controlar a qualidade dos produtos ou serviços, atendendo as Diretrizes Curriculares Nacionais para a Educação Básica (MEC,2013, p.207).
 
+## **3.3  Perfil Profissional de Conclusão**
 
-O Curso Técnico em Edificações, modalidade subsequente ao ensino médio, tem sua criação justificada porque visa fundamentalmente à formação de profissionais para atender a demanda da indústria da Construção Civil, setor responsável pelo suprimento do déficit habitacional no Brasil. A geração de novos empregos reflexo do mercado denota a perspectiva econômica para a realização do curso. Apesar de válida, não é única.  Trata-se da formação de um profissional inserido na construção de uma sociedade social e ambientalmente mais equilibrada. O curso do Câmpus Curitiba do Instituto Federal do Paraná integra ciência, tecnologia e cultura, objetivando soluções para os problemas deste tempo, necessariamente articulados ao dinamismo histórico da sociedade em seu processo de desenvolvimento. 
+O técnico em Edificações ao concluir todos os semestres deverá ter construído as seguintes competências gerais da Área Profissional:
 
-A referência fundamental para a educação profissional e tecnológica é o homem e, por isso, a formação do Técnico em Edificações é “potencializadora do ser humano, enquanto integralidade, do desenvolvimento de sua capacidade de gerar conhecimentos, a partir de uma prática interativa com a realidade” e de produzir ciência e tecnologia (PACHECO, p.22). 
+1. Aplicar normas, métodos, técnicas e procedimentos estabelecidos visando à qualidade e
 
-## **3.2 Objetivos do Curso** 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-O objetivo principal do curso consiste na formação de um profissional legalmente habilitado, que possua competências para atuar em: escritórios de projetos, orçamentos, levantamentos de material para estimativa de custo, laboratórios de materiais de construção e solos, levantamentos topográficos, planejamento e execução de obras de construção civil, coordenação de equipes de trabalho, seleção e treinamento de pessoal, realização de interfaces entre áreas técnica e administrativa das construtoras. 
+INSTITUTOFEDERAL PARANA
 
-O Curso Técnico em Edificações tem por objetivos a formação cidadã do indivíduo crítico e a formação integral do profissional para projetar e executar obras de acordo com os procedimentos legais, propondo alternativas do uso de técnicas e materiais de construção, elaborando o planejamento e o orçamento necessários à escolha da melhor solução a ser adotada na ocupação do solo, tendo por premissa o respeito e a preservação ambiental. Para isso será necessário a atuação nas seguintes atividades: Realizar levantamento topográfico; Desenvolver projetos sob supervisão; Legalizar projetos e obras; Planejar o trabalho de execução de obras civis; Orçar obras; Providenciar suprimentos e serviços; Supervisionar execução e obras; Executar controle tecnológico de materiais e solos; Orientar os trabalhadores da área de edificações; e Executar a manutenção e conservação de obras. 
+   - produtividade dos processos construtivos e de segurança dos trabalhadores;
 
-O curso  objetiva desenvolver a formação de profissionais conscientes de seu potencial e de suas responsabilidades, na participação e na construção do mundo de trabalho, como membros ativos da sociedade em que vivem objetivando o aprender contínuo, a postura ética (o trato das questões de sustentabilidade) e a flexibilidade nas relações (viver com a diversidade) em atenção ao disposto na Lei de Diretrizes e Bases da Educação Nacional nº 9.394/96 e a formação integral, que consiga superar a dicotomia historicamente cristalizada da divisão social do trabalho entre a ação de executar e as ações de pensar, planejar, dirigir, supervisionar ou controlar a qualidade dos produtos ou serviços, atendendo as Diretrizes Curriculares Nacionais para a Educação Básica (MEC,2013, p.207). 
+2. Analisar interfaces das plantas e especificações de um projeto, integrando-as de forma sistêmica;
 
-## **3.3  Perfil Profissional de Conclusão** 
+3. Propor alternativas de uso de materiais, de técnicas e de fluxos de circulação de materiais, pessoas e equipamentos, tanto em escritórios quanto em canteiros de obras, visando à melhoria contínua dos processos de construção;
 
-O técnico em Edificações ao concluir todos os semestres deverá ter construído as seguintes competências gerais da Área Profissional: 
+4. Elaborar projetos arquitetônicos, estruturais e de instalações hidráulicas e elétricas, com respectivos detalhamentos, cálculos e desenho para edificações, nos termos e limites regulamentares do Decreto Federal 90.922/95;
 
-1. Aplicar normas, métodos, técnicas e procedimentos estabelecidos visando à qualidade e 
+5. Supervisionar a execução de projetos, coordenando equipes de trabalho em obras nos limites do Decreto Federal 90.922/95; ou executar o mesmo em obras maiores com orientação do engenheiro responsável;
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+6. Elaborar cronogramas e orçamentos, orientando, acompanhando e controlando as etapas da construção;
 
-INSTITUTOFEDERAL PARANA 
+7. Controlar a qualidade dos materiais, de acordo com as Normas técnicas;
 
-   - produtividade dos processos construtivos e de segurança dos trabalhadores; 
+8. Coordenar o manuseio, o preparo e o armazenamento dos materiais e equipamentos;
 
-2. Analisar interfaces das plantas e especificações de um projeto, integrando-as de forma sistêmica; 
+9. Executar e auxiliar trabalhos de levantamentos topográficos, locações e demarcações de terrenos;
 
-3. Propor alternativas de uso de materiais, de técnicas e de fluxos de circulação de materiais, pessoas e equipamentos, tanto em escritórios quanto em canteiros de obras, visando à melhoria contínua dos processos de construção; 
+10. Acompanhar a execução de sondagens e realizar suas medições;
 
-4. Elaborar projetos arquitetônicos, estruturais e de instalações hidráulicas e elétricas, com respectivos detalhamentos, cálculos e desenho para edificações, nos termos e limites regulamentares do Decreto Federal 90.922/95; 
+11. Realizar ensaios tecnológicos de laboratório e de campo;
 
-5. Supervisionar a execução de projetos, coordenando equipes de trabalho em obras nos limites do Decreto Federal 90.922/95; ou executar o mesmo em obras maiores com orientação do engenheiro responsável; 
+12. Elaborar representação gráfica de projetos.
 
-6. Elaborar cronogramas e orçamentos, orientando, acompanhando e controlando as etapas da construção; 
+O egresso do curso estará apto a atuar como profissional liberal ou junto às empresas que atuam na área de construção civil, como empresas de projetos, fábricas de insumos e de elementos industrializados, empreiteiras de trabalhadores da construção civil, construtoras, incorporadoras, distribuidoras de materiais, empresas de fiscalização e laboratórios, porque o curso proporciona uma formação educacional profissional ampla na área de projetos e obras de edificações, de tecnologias e de materiais de construção civil, bem como nas áreas administrativas e de planejamento.
 
-7. Controlar a qualidade dos materiais, de acordo com as Normas técnicas; 
+## **3.4  Avaliação da aprendizagem**
 
-8. Coordenar o manuseio, o preparo e o armazenamento dos materiais e equipamentos; 
+## 3.4.1 Critérios de avaliação da aprendizagem
 
-9. Executar e auxiliar trabalhos de levantamentos topográficos, locações e demarcações de terrenos; 
+A avaliação do aproveitamento dos alunos faz parte do processo educativo da escola, portanto: integral (humanística), processual (o processo desenvolvido), contínua (dia a dia), diagnóstica (recuperação durante o processo), individual (autoavaliação no final da atividade avaliativa), realizada pelas equipes de educadores ao longo do período letivo de acordo com os objetivos previstos, relacionados aos diversos conteúdos e por meio de diferentes instrumentos.
 
-10. Acompanhar a execução de sondagens e realizar suas medições; 
+A atividade de avaliação, realizada pelo professor, permitirá a identificação daqueles alunos que não atingiram com proficiência os objetivos do curso e que deverão ser submetidos a um processo de reorientação da aprendizagem, onde serão oferecidos estudos de recuperação. As avaliações e estudos de recuperação serão planejados e efetuados pelos professores de acordo com os princípios da avaliação previstos na proposta pedagógica da instituição, incluindo liberdade e autonomia relacionadas a aspectos didático-metodológicos para definir qual a metodologia e instrumentos avaliativos são mais adequados à realidade.
 
-11. Realizar ensaios tecnológicos de laboratório e de campo; 
+Os resultados obtidos no processo de avaliação durante cada período serão expressos por conceitos de acordo com a Portaria 120/2009 e com a Resolução 54/2011 do CONSUP:
 
-12. Elaborar representação gráfica de projetos. 
+- Conceito A: quando a aprendizagem do aluno foi plena e atingiu os objetivos propostos no processo ensino aprendizagem;
 
-O egresso do curso estará apto a atuar como profissional liberal ou junto às empresas que atuam na área de construção civil, como empresas de projetos, fábricas de insumos e de elementos industrializados, empreiteiras de trabalhadores da construção civil, construtoras, incorporadoras, distribuidoras de materiais, empresas de fiscalização e laboratórios, porque o curso proporciona uma formação educacional profissional ampla na área de projetos e obras de edificações, de tecnologias e de materiais de construção civil, bem como nas áreas administrativas e de planejamento. 
+- Conceito B: quando a aprendizagem do aluno foi parcialmente plena e atingiu níveis
 
-## **3.4  Avaliação da aprendizagem** 
+10
 
-## 3.4.1 Critérios de avaliação da aprendizagem 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-A avaliação do aproveitamento dos alunos faz parte do processo educativo da escola, portanto: integral (humanística), processual (o processo desenvolvido), contínua (dia a dia), diagnóstica (recuperação durante o processo), individual (autoavaliação no final da atividade avaliativa), realizada pelas equipes de educadores ao longo do período letivo de acordo com os objetivos previstos, relacionados aos diversos conteúdos e por meio de diferentes instrumentos. 
+INSTITUTOFEDERAL PARANA
 
-A atividade de avaliação, realizada pelo professor, permitirá a identificação daqueles alunos que não atingiram com proficiência os objetivos do curso e que deverão ser submetidos a um processo de reorientação da aprendizagem, onde serão oferecidos estudos de recuperação. As avaliações e estudos de recuperação serão planejados e efetuados pelos professores de acordo com os princípios da avaliação previstos na proposta pedagógica da instituição, incluindo liberdade e autonomia relacionadas a aspectos didático-metodológicos para definir qual a metodologia e instrumentos avaliativos são mais adequados à realidade. 
+desejáveis aos objetivos propostos no processo ensino aprendizagem;
 
-Os resultados obtidos no processo de avaliação durante cada período serão expressos por conceitos de acordo com a Portaria 120/2009 e com a Resolução 54/2011 do CONSUP: 
+- Conceito C: quando a aprendizagem do aluno foi suficiente e atingiu níveis aceitáveis aos objetivos propostos, sem comprometimento à continuidade no processo ensino aprendizagem;
 
-- Conceito A: quando a aprendizagem do aluno foi plena e atingiu os objetivos propostos no processo ensino aprendizagem; 
+- Conceito D: quando a aprendizagem do aluno foi insuficiente e não atingiu os objetivos propostos, comprometendo e/ou inviabilizando desenvolvimento do processo ensino aprendizagem.
 
-- Conceito B: quando a aprendizagem do aluno foi parcialmente plena e atingiu níveis 
+São requisitos para aprovação a obtenção dos conceitos A, B ou C, no conjunto das atividades/avaliações e frequência igual ou superior a 75% do total de carga horária, propostas nos componentes curriculares ao final do período letivo.
 
-10 
+Em linhas gerais os instrumentos de avaliação, entre outros, serão os trabalhos teóricopráticos produzidos e/ou aplicados individualmente ou em grupos (trabalhos por projetos, relatórios, seminários etc.), portfólios, exercícios, testes e/ou avaliações e outras formas que o professor julgar necessário, que permitam validar o desempenho obtido pelo aluno referente ao processo ensinoaprendizagem.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+No processo de recuperação paralela, serão desenvolvidas atividades, definidas previamente pelo docente tendo em vista subsidiar, provocar e buscar promover o desenvolvimento do estudante nos diferentes aspectos (cognitivos, afetivos, sociais e psicomotores).
 
-INSTITUTOFEDERAL PARANA 
+## 3.4.2 Critérios de avaliação de competências anteriormente desenvolvidas
 
-desejáveis aos objetivos propostos no processo ensino aprendizagem; 
+De acordo com a LDB 9394/96 e a Resolução CNE/CEB nº 06/12, o conhecimento adquirido na educação profissional e tecnológica, inclusive no trabalho, poderá ser objeto de avaliação, reconhecimento e certificação para prosseguimento ou conclusão dos estudos.
 
-- Conceito C: quando a aprendizagem do aluno foi suficiente e atingiu níveis aceitáveis aos objetivos propostos, sem comprometimento à continuidade no processo ensino aprendizagem; 
+- Certificação de Conhecimentos: Entende-se por certificação de conhecimentos anteriores a dispensa de frequência em Componente Curricular do Curso do IFPR em que o aluno comprove excepcional domínio de conhecimento através da aprovação em avaliação realizada por professores da área. Esta avaliação poderá ser teórica ou teórico/prática. Envolve, ainda, a análise do histórico escolar e entrevista.
 
-- Conceito D: quando a aprendizagem do aluno foi insuficiente e não atingiu os objetivos propostos, comprometendo e/ou inviabilizando desenvolvimento do processo ensino aprendizagem. 
+- Aproveitamento de Estudos: compreende a possibilidade de aproveitamento de componentes curriculares trabalhados em outro curso de educação profissional técnica de nível médio, mediante requerimento. Com vistas ao aproveitamento de estudos, a avaliação recairá sobre a correspondência entre os programas e a carga horária cursados na outra instituição e os do campus Curitiba do IFPR e não sobre a denominação dos componentes curriculares para os quais se pleiteia o aproveitamento. A carga horária cursada não deverá ser nunca inferior a 75% daquela indicada na matriz curricular do curso e os conteúdos devem ser equivalentes.
 
-São requisitos para aprovação a obtenção dos conceitos A, B ou C, no conjunto das atividades/avaliações e frequência igual ou superior a 75% do total de carga horária, propostas nos componentes curriculares ao final do período letivo. 
+## **3.5 Instalações e equipamentos, recursos tecnológicos e biblioteca**
 
-Em linhas gerais os instrumentos de avaliação, entre outros, serão os trabalhos teóricopráticos produzidos e/ou aplicados individualmente ou em grupos (trabalhos por projetos, relatórios, seminários etc.), portfólios, exercícios, testes e/ou avaliações e outras formas que o professor julgar necessário, que permitam validar o desempenho obtido pelo aluno referente ao processo ensinoaprendizagem. 
+Para o funcionamento do curso técnico de edificações, serão utilizadas as instalações do IFPR campus Curitiba.
 
-No processo de recuperação paralela, serão desenvolvidas atividades, definidas previamente pelo docente tendo em vista subsidiar, provocar e buscar promover o desenvolvimento do estudante nos diferentes aspectos (cognitivos, afetivos, sociais e psicomotores). 
+As instalações físicas necessárias para o funcionamento do curso seguem abaixo relacionadas, com os respectivos equipamentos necessários:
 
-## 3.4.2 Critérios de avaliação de competências anteriormente desenvolvidas 
+- Biblioteca, com acervo específico e atualizado;
 
-De acordo com a LDB 9394/96 e a Resolução CNE/CEB nº 06/12, o conhecimento adquirido na educação profissional e tecnológica, inclusive no trabalho, poderá ser objeto de avaliação, reconhecimento e certificação para prosseguimento ou conclusão dos estudos. 
+- Laboratório de Topografia, com equipamentos;
 
-- Certificação de Conhecimentos: Entende-se por certificação de conhecimentos anteriores a dispensa de frequência em Componente Curricular do Curso do IFPR em que o aluno comprove excepcional domínio de conhecimento através da aprovação em avaliação realizada por professores da área. Esta avaliação poderá ser teórica ou teórico/prática. Envolve, ainda, a análise do histórico escolar e entrevista. 
+11
 
-- Aproveitamento de Estudos: compreende a possibilidade de aproveitamento de componentes curriculares trabalhados em outro curso de educação profissional técnica de nível médio, mediante requerimento. Com vistas ao aproveitamento de estudos, a avaliação recairá sobre a correspondência entre os programas e a carga horária cursados na outra instituição e os do campus Curitiba do IFPR e não sobre a denominação dos componentes curriculares para os quais se pleiteia o aproveitamento. A carga horária cursada não deverá ser nunca inferior a 75% daquela indicada na matriz curricular do curso e os conteúdos devem ser equivalentes. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-## **3.5 Instalações e equipamentos, recursos tecnológicos e biblioteca** 
+INSTITUTOFEDERAL PARANA
 
-Para o funcionamento do curso técnico de edificações, serão utilizadas as instalações do IFPR campus Curitiba. 
+- Laboratório de Informática com programas específicos;
 
-As instalações físicas necessárias para o funcionamento do curso seguem abaixo relacionadas, com os respectivos equipamentos necessários: 
+Componentes Curriculares Atendidas:
 
-- Biblioteca, com acervo específico e atualizado; 
+- **Informática Instrumental**
 
-- Laboratório de Topografia, com equipamentos; 
+- **Desenho Digital Básico**
 
-11 
+- **Topografia**  **Planejamento de Obras**
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+- **Orçamento de Obras**
 
-INSTITUTOFEDERAL PARANA 
+- **Projeto Integrado**
 
-- Laboratório de Informática com programas específicos; 
+Móveis e Equipamentos:
 
-Componentes Curriculares Atendidas: 
+- 51 Mesas de Desenho com suporte para computador (Pranchetas digitais), com: um tampo 100x80 inclinável de acabamento em fórmica, com régua paralela; canaleta de suporte a canetas; um suporte lateral para monitor; um apoio retrátil para teclado e mouse; um suporte para CPU; uma luminária própria para fixar junto à prancheta;
 
-- **Informática Instrumental** 
+- 51 cadeiras com regulagem de altura do assento;
 
-- **Desenho Digital Básico** 
+- 51 Estações de Trabalho com computadores Core i5, 8 GB RAM, HD 1TB GB, Gravador de CD/DVD, conexão USB 3.0 frontal, placa de vídeo dedicada de 1GB, placa de rede, teclado ABNT, mouse laser, monitor LCD 15” .
 
-- **Topografia**  **Planejamento de Obras** 
+- 01 Servidor de rede local para as 40 estações de trabalho;
 
-- **Orçamento de Obras** 
+- 01 Armário para o servidor
 
-- **Projeto Integrado** 
+- 02 Projetores de Vídeo de Alta Resolução (1920x1080), 2.000 lumens, contraste 50.000:1.
 
-Móveis e Equipamentos: 
+- 02 Telas de Projeção;
 
-- 51 Mesas de Desenho com suporte para computador (Pranchetas digitais), com: um tampo 100x80 inclinável de acabamento em fórmica, com régua paralela; canaleta de suporte a canetas; um suporte lateral para monitor; um apoio retrátil para teclado e mouse; um suporte para CPU; uma luminária própria para fixar junto à prancheta; 
+- 01 Lousa grande branca, para marcadores, curvada nas laterais;
 
-- 51 cadeiras com regulagem de altura do assento; 
+- 06 mapotecas em aço com 10 gavetas horizontais para A0;
 
-- 51 Estações de Trabalho com computadores Core i5, 8 GB RAM, HD 1TB GB, Gravador de CD/DVD, conexão USB 3.0 frontal, placa de vídeo dedicada de 1GB, placa de rede, teclado ABNT, mouse laser, monitor LCD 15” . 
+- 01 Mesa de Luz tamanho 150x80;
 
-- 01 Servidor de rede local para as 40 estações de trabalho; 
+- 01 escaninho guarda-volumes com 50 nichos;
 
-- 01 Armário para o servidor 
+- 01 armário para guarda de materiais;
 
-- 02 Projetores de Vídeo de Alta Resolução (1920x1080), 2.000 lumens, contraste 50.000:1. 
+- Softwares para operação das estações:
 
-- 02 Telas de Projeção; 
+   - Sistema operacional da plataforma Windows, compatível com gerenciamento da rede local;
 
-- 01 Lousa grande branca, para marcadores, curvada nas laterais; 
+   - Editor de textos;
 
-- 06 mapotecas em aço com 10 gavetas horizontais para A0; 
+   - Planilha eletrônica;
 
-- 01 Mesa de Luz tamanho 150x80; 
+   - Criador de apresentações de slide;
 
-- 01 escaninho guarda-volumes com 50 nichos; 
+   - Software CAD;
 
-- 01 armário para guarda de materiais; 
+   - Software de Gerenciamento de Projetos (MS Project ou equivalente);
 
-- Softwares para operação das estações: 
+   - Software de Orçamento
 
-   - Sistema operacional da plataforma Windows, compatível com gerenciamento da rede local; 
+12
 
-   - Editor de textos; 
+INSTITUTOFEDERAL PARANA
 
-   - Planilha eletrônica; 
+Ministerioda Educacao<br>InstitutoFederaldoParana<br>
 
-   - Criador de apresentações de slide; 
+PROJECAO QUADROBRANCO PROJECAO<br>MESADELUZ<br>GUARDAVOLUMES<br>PRANCHETASDIGITAIS<br>MAPOTECAS<br>ARMARIOS<br>Escala Grafica Laboratorio de<br>10m<br>Informatica Aplicada<br>
 
-   - Software CAD; 
+13
 
-   - Software de Gerenciamento de Projetos (MS Project ou equivalente); 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-   - Software de Orçamento 
+INSTITUTOFEDERAL PARANA
 
-12 
+## - Laboratório de Desenho (Ateliê de Projeto)
 
-INSTITUTOFEDERAL PARANA 
+Componentes Curriculares Atendidas:
 
-**==> picture [96 x 19] intentionally omitted <==**
+- **Desenho Digital Básico**
 
-**----- Start of picture text -----**<br>
-Ministerioda Educacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+- **Desenho Digital Avançado**  **Desenho Técnico**  **Desenho Arquitetônico**  **Projeto Arquitetônico**  **Projeto Integrado**
 
+Móveis e Equipamentos:
 
-**==> picture [436 x 384] intentionally omitted <==**
+- 51 mesas de Desenho com suporte para computador (Pranchetas digitais), com: um tampo 100x80 inclinável de acabamento em fórmica, com régua paralela;canaleta de suporte a canetas; um suporte lateral para monitor ; um apoio retrátil para teclado e mouse; um suporte para CPU;  uma luminária própria para fixar junto à prancheta;
 
-**----- Start of picture text -----**<br>
-PROJECAO QUADROBRANCO PROJECAO<br>MESADELUZ<br>GUARDAVOLUMES<br>PRANCHETASDIGITAIS<br>MAPOTECAS<br>ARMARIOS<br>Escala Grafica Laboratorio de<br>10m<br>Informatica Aplicada<br>**----- End of picture text -----**<br>
+- 51 gaveteiros auxiliares com gavetas com chave, e com rodinhas para apoio e guarda dos materiais de desenho;
 
+- 51 kits para desenho, contendo: 1 par de esquadros de 30-60º / 45º de 16cm e outro par de 28cm, ambos  em acrílico espesso e bordas retas, sem escala; 1 transferidor com gravação fotoquímica dos graus; 1 escala triangular de 30cm contendo as escalas 1:20-1:25-1:50-1:751:100-1:125;  1 escala triangular de 30cm contendo as escalas 1:100-1:200-1:250-1:300-1:4001:500; 1 compasso balaústre com adaptador universal para canetas e lapiseiras; 1 gabarito circulógrafo, como círculos variando em 1mm, de 1 até 35mm; 1 gabarito de peças hidráulicas em 1:50 e 1:100, 1 gabarito de móveis em 1:50 e 1:100; jogo de 6 normógrafos com maiúsculas e minúsculas, com as alturas de letra de 2,5-3,0-3,5-4,0-5,0-7,0.
 
-13 
+- 51 cadeiras com regulagem de altura do assento;
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+- 51 estações de Trabalho com computadores Core i7, 12 GB RAM, HD 1TB GB, Gravador de CD/DVD, conexão USB 3.0 frontal, placa de vídeo dedicada de 1GB, placa de rede, teclado ABNT, mouse laser, monitor LCD 17” .
 
-INSTITUTOFEDERAL PARANA 
+- 01 servidor de rede local para as 40 estações de trabalho;
 
-## - Laboratório de Desenho (Ateliê de Projeto) 
+- 01 armário para o servidor
 
-Componentes Curriculares Atendidas: 
+- 02 projetores de Vídeo de Alta Resolução (1920x1080), 2.000 lumens, contraste 50.000:1.
 
-- **Desenho Digital Básico** 
+- 02 telas de Projeção;
 
-- **Desenho Digital Avançado**  **Desenho Técnico**  **Desenho Arquitetônico**  **Projeto Arquitetônico**  **Projeto Integrado** 
+- 01 lousa grande branca, para marcadores, curvada nas laterais;
 
-Móveis e Equipamentos: 
+- 01 lousa grande para giz, em fórmica verde quadriculada, curvada nas laterais;
 
-- 51 mesas de Desenho com suporte para computador (Pranchetas digitais), com: um tampo 100x80 inclinável de acabamento em fórmica, com régua paralela;canaleta de suporte a canetas; um suporte lateral para monitor ; um apoio retrátil para teclado e mouse; um suporte para CPU;  uma luminária própria para fixar junto à prancheta; 
+- 06 mapotecas em aço com 10 gavetas horizontais para A0;
 
-- 51 gaveteiros auxiliares com gavetas com chave, e com rodinhas para apoio e guarda dos materiais de desenho; 
+- 02 mesas de Luz tamanho 150x80;  08 mesas para Projeto em Grupos de 5 a 6 pessoas;  48 cadeiras  01 escaninho guarda-volumes com 50 nichos;  01 armário para guarda de materiais;  Softwares para operação das estações:
 
-- 51 kits para desenho, contendo: 1 par de esquadros de 30-60º / 45º de 16cm e outro par de 28cm, ambos  em acrílico espesso e bordas retas, sem escala; 1 transferidor com gravação fotoquímica dos graus; 1 escala triangular de 30cm contendo as escalas 1:20-1:25-1:50-1:751:100-1:125;  1 escala triangular de 30cm contendo as escalas 1:100-1:200-1:250-1:300-1:4001:500; 1 compasso balaústre com adaptador universal para canetas e lapiseiras; 1 gabarito circulógrafo, como círculos variando em 1mm, de 1 até 35mm; 1 gabarito de peças hidráulicas em 1:50 e 1:100, 1 gabarito de móveis em 1:50 e 1:100; jogo de 6 normógrafos com maiúsculas e minúsculas, com as alturas de letra de 2,5-3,0-3,5-4,0-5,0-7,0. 
+   - Sistema operacional da plataforma Windows, compatível com gerenciamento da rede local;
 
-- 51 cadeiras com regulagem de altura do assento; 
+   - Planilha eletrônica;  Criador de apresentações de slide;  Software CAD;  Software de Modelagem 3D capaz de importar vetores 2D do software CAD;  Software de Renderização compatível com o software de modelagem 3D;  Software de Desenho Vetorial capaz de importar vetores 2D do software CAD;  Software de Edição de Imagens Raster salvas pelo software de renderização.
 
-- 51 estações de Trabalho com computadores Core i7, 12 GB RAM, HD 1TB GB, Gravador de CD/DVD, conexão USB 3.0 frontal, placa de vídeo dedicada de 1GB, placa de rede, teclado ABNT, mouse laser, monitor LCD 17” . 
+Ministerioda Educacao<br>INSTITUTOFEDERAL<br>InstitutoFederaldoParana<br>PARANA<br>PROJECAO QUADROBRANCO PROJECAO<br>MESADELUZ<br>GUARDAVOLUMES<br>PRANCHETASDIGITAIS<br>LOUSAQUADRICULADA<br>MESASPROJETO<br>GRUPO<br>MAPOTECAS<br>ARMARIOS<br>EscalaGrafica<br>10m Atelie de Projeto<br>
 
-- 01 servidor de rede local para as 40 estações de trabalho; 
+- Laboratório de Instalações Prediais
 
-- 01 armário para o servidor 
+ Componentes Curriculares **Teoria das Instalações Elétricas** Atendidas:  **Teoria das Instalações Hidráulicas**  **Práticas Complementares**
 
-- 02 projetores de Vídeo de Alta Resolução (1920x1080), 2.000 lumens, contraste 50.000:1. 
+Equipamentos: HIDRAÚLICA:
 
-- 02 telas de Projeção; 
+- 05 Amortecedores de pulsação para manômetro trabalho até 100 Bar;
 
-- 01 lousa grande branca, para marcadores, curvada nas laterais; 
+- 02 Aparelho para corte de tubo de aço galvanizado;
 
-- 01 lousa grande para giz, em fórmica verde quadriculada, curvada nas laterais; 
+- 04 Maçaricos a gás;
 
-- 06 mapotecas em aço com 10 gavetas horizontais para A0; 
+- 01 Rosqueadeira elétrica para tubos;
 
-- 02 mesas de Luz tamanho 150x80;  08 mesas para Projeto em Grupos de 5 a 6 pessoas;  48 cadeiras  01 escaninho guarda-volumes com 50 nichos;  01 armário para guarda de materiais;  Softwares para operação das estações: 
+- 01 Termômetro Digital; 01 Tacômetro Digital – Microtest;
 
-   - Sistema operacional da plataforma Windows, compatível com gerenciamento da rede local; 
+- 01 Estetoscópio para motores – Kent; 01 Detector de gases com aviso sonoro;
 
-   - Planilha eletrônica;  Criador de apresentações de slide;  Software CAD;  Software de Modelagem 3D capaz de importar vetores 2D do software CAD;  Software de Renderização compatível com o software de modelagem 3D;  Software de Desenho Vetorial capaz de importar vetores 2D do software CAD;  Software de Edição de Imagens Raster salvas pelo software de renderização. 
+- 03 Tornos tipo morsa para bancada;
 
-14 
+- 01 Rebarbador Espiral c 7 catracas 1/8” a 2”; 02 Sopradores Térmicos 1440W/Cornala; 07 Manômetros de diversos diâmetros; Ferramentas; Chaves; Grifos de diversos tamanhos. ELÉTRICA:
 
-**==> picture [479 x 340] intentionally omitted <==**
+- Bancadas com comando eletromagnético, tomadas e lâmpadas de prova 12 volts;
 
-**----- Start of picture text -----**<br>
-Ministerioda Educacao<br>INSTITUTOFEDERAL<br>InstitutoFederaldoParana<br>PARANA<br>PROJECAO QUADROBRANCO PROJECAO<br>MESADELUZ<br>GUARDAVOLUMES<br>PRANCHETASDIGITAIS<br>LOUSAQUADRICULADA<br>MESASPROJETO<br>GRUPO<br>MAPOTECAS<br>ARMARIOS<br>EscalaGrafica<br>10m Atelie de Projeto<br>**----- End of picture text -----**<br>
+- Dispositivos de comando de iluminação: Interruptores simples, simples bipolar, paralelos, intermediários, minuteria eletrônica, relé de impulso, relé fotoelétrico;
 
+- Iluminação: Lâmpada a vapor de mercúrio, vapor de sódio;
 
-- Laboratório de Instalações Prediais 
+- Entrada de energia: monofásica, bifásica e trifásica;
 
- Componentes Curriculares **Teoria das Instalações Elétricas** Atendidas:  **Teoria das Instalações Hidráulicas**  **Práticas Complementares** 
+- Quadros de distribuição;
 
-Equipamentos: HIDRAÚLICA: 
+- Normas de entrada de energia: Fornecimento em tensão secundária de distribuição; tomadas.
 
-- 05 Amortecedores de pulsação para manômetro trabalho até 100 Bar; 
+15
 
-- 02 Aparelho para corte de tubo de aço galvanizado; 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-- 04 Maçaricos a gás; 
+INSTITUTOFEDERAL PARANA
 
-- 01 Rosqueadeira elétrica para tubos; 
+## - Laboratório Didático de Processos Construtivos (Canteiro de Obras)
 
-- 01 Termômetro Digital; 01 Tacômetro Digital – Microtest; 
+-
 
-- 01 Estetoscópio para motores – Kent; 01 Detector de gases com aviso sonoro; 
+- Componentes Curriculares **Técnicas Básicas de Construção Civil** Atendidas:  **Técnicas Complementares de Construção Civil**  **Práticas Básicas de Construção Civil**
 
-- 03 Tornos tipo morsa para bancada; 
+- **Práticas Complementares de Construção Civil**
 
-- 01 Rebarbador Espiral c 7 catracas 1/8” a 2”; 02 Sopradores Térmicos 1440W/Cornala; 07 Manômetros de diversos diâmetros; Ferramentas; Chaves; Grifos de diversos tamanhos. ELÉTRICA: 
+- **Tecnologia do Concreto**
 
-- Bancadas com comando eletromagnético, tomadas e lâmpadas de prova 12 volts; 
+Equipamentos:
 
-- Dispositivos de comando de iluminação: Interruptores simples, simples bipolar, paralelos, intermediários, minuteria eletrônica, relé de impulso, relé fotoelétrico; 
+- 01 Guilhotina de cortar ferro;
 
-- Iluminação: Lâmpada a vapor de mercúrio, vapor de sódio; 
+- 01 Lixadeira de cinta; mod. GBS-5;
 
-- Entrada de energia: monofásica, bifásica e trifásica; 
+- 01 Serra circular com bancada metálica;
 
-- Quadros de distribuição; 
+- 02 Vibradores de mangote;
 
-- Normas de entrada de energia: Fornecimento em tensão secundária de distribuição; tomadas. 
+- 01 Moinho triturador;
 
-15 
+- Carrinhos e jiricas diversos;
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+- 03 morsas e esmeril;
 
-INSTITUTOFEDERAL PARANA 
+- 05 Bancadas para carpintaria de acabamento;
 
-## - Laboratório Didático de Processos Construtivos (Canteiro de Obras) 
+- 01 Bancada multiuso (dobragem de aço e preparo e montagem de forma);
 
-- 
+- 02 Serras elétricas fixas e 05 serras tico-tico;
 
-- Componentes Curriculares **Técnicas Básicas de Construção Civil** Atendidas:  **Técnicas Complementares de Construção Civil**  **Práticas Básicas de Construção Civil** 
+- 04 Plainas elétricas;
 
-- **Práticas Complementares de Construção Civil** 
+- 01 Lixadeira oscilante;
 
-- **Tecnologia do Concreto** 
+- 01 Cortador de parede;
 
-Equipamentos: 
+- 01 Esmerilhadeira;
 
-- 01 Guilhotina de cortar ferro; 
+- 06 Pistolas para cola quente;
 
-- 01 Lixadeira de cinta; mod. GBS-5; 
+- Ferramental de uso manual: martelo de unha, arco de pua, pé de cabra, serrote universal, serrote de ponta, serrote de costa, alicate travador, limas, soquetes, formão, garlopa, sutas, esquadros, colher de pedreiro triangular, colher de pedreiro de haste reta,  torquês, camartelo, prumo de face, prumo de centro, nível de bolha, marreta, cantoneiras, espaçadores, desempenadeira metálica, desempenadeira de madeira, desempenadeira com feltro, salpicadeira, forquilhas, broxas, espumas, esquadro de alvenaria, ponteiro e talhadeira .
 
-- 01 Serra circular com bancada metálica; 
+16
 
-- 02 Vibradores de mangote; 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-- 01 Moinho triturador; 
+INSTITUTOFEDERAL PARANA
 
-- Carrinhos e jiricas diversos; 
+- Laboratório de Materiais de Construção e Mecânica dos Solos
 
-- 03 morsas e esmeril; 
+Componentes Curriculares Atendidas:
 
-- 05 Bancadas para carpintaria de acabamento; 
+- **Mecânica dos Solos e Fundações**
 
-- 01 Bancada multiuso (dobragem de aço e preparo e montagem de forma); 
+- **Materiais de Construção**
 
-- 02 Serras elétricas fixas e 05 serras tico-tico; 
+- **Tecnologia do Concreto**
 
-- 04 Plainas elétricas; 
+## ENSAIOS EM AGREGADOS
 
-- 01 Lixadeira oscilante; 
+- 02 jogos de peneiras granulométricas, Ø 8x2", com aberturas das séries normal e intermediária, mais tampa e fundo, em latão;
 
-- 01 Cortador de parede; 
+- 04 escovas para limpeza de peneiras de nylon;
 
-- 01 Esmerilhadeira; 
+- 04 escovas para limpeza de peneiras de latão;
 
-- 06 Pistolas para cola quente; 
+- 02 cestos para pesagem hidrostática em tela de abertura 2 mm com ø=15cm e altura 15cm;
 
-- Ferramental de uso manual: martelo de unha, arco de pua, pé de cabra, serrote universal, serrote de ponta, serrote de costa, alicate travador, limas, soquetes, formão, garlopa, sutas, esquadros, colher de pedreiro triangular, colher de pedreiro de haste reta,  torquês, camartelo, prumo de face, prumo de centro, nível de bolha, marreta, cantoneiras, espaçadores, desempenadeira metálica, desempenadeira de madeira, desempenadeira com feltro, salpicadeira, forquilhas, broxas, espumas, esquadro de alvenaria, ponteiro e talhadeira . 
+- 02 cestos para pesagem hidrostática em tela com ø 20 cm e altura 20 cm
 
-16 
+- 02 mesas para pesagem hidrostática;
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+- 02 comparadores colorimétricos para impurezas orgânicas na areia;
 
-INSTITUTOFEDERAL PARANA 
+- 02 recipientes para determinação de densidade aparente, capacidade 10L, com diâmetro interior 220 mm e altura interior 268 mm, conforme NM45;
 
-- Laboratório de Materiais de Construção e Mecânica dos Solos 
+- 01 recipiente para determinação de densidade aparente, capacidade 15dm³, com diâmetro interior 260 mm e altura interior 282 mm, conforme NM45;
 
-Componentes Curriculares Atendidas: 
+## ENSAIOS EM SOLOS
 
-- **Mecânica dos Solos e Fundações** 
+- 02 dessecadores Ø 300mm com tampa e luva
 
-- **Materiais de Construção** 
+- 01 prensa de Cisalhamento Direto ELE;
 
-- **Tecnologia do Concreto** 
+- 02 prensas de Adensamento ELE;
 
-## ENSAIOS EM AGREGADOS 
+- 01 sistema Automático de Aquisição de dados, ADU;
 
-- 02 jogos de peneiras granulométricas, Ø 8x2", com aberturas das séries normal e intermediária, mais tampa e fundo, em latão; 
+- 01 prensa de compressão simples;
 
-- 04 escovas para limpeza de peneiras de nylon; 
+- 02 prensas CBR;
 
-- 04 escovas para limpeza de peneiras de latão; 
+- 01 permeâmetro de carga variável;
 
-- 02 cestos para pesagem hidrostática em tela de abertura 2 mm com ø=15cm e altura 15cm; 
+- 04 aparelhos de Casagrande;
 
-- 02 cestos para pesagem hidrostática em tela com ø 20 cm e altura 20 cm 
+- 04 densímetros;
 
-- 02 mesas para pesagem hidrostática; 
+- 01 estufa,
 
-- 02 comparadores colorimétricos para impurezas orgânicas na areia; 
+- ferramentas diversas.
 
-- 02 recipientes para determinação de densidade aparente, capacidade 10L, com diâmetro interior 220 mm e altura interior 268 mm, conforme NM45; 
+## MATERIAIS CONSTRUTIVOS
 
-- 01 recipiente para determinação de densidade aparente, capacidade 15dm³, com diâmetro interior 260 mm e altura interior 282 mm, conforme NM45; 
+- 01 agitador de peneiras eletromecânico de bancada com controlador eletrônico de tempo para até 99minutos e frequência de vibração com capacidade para até 8 peneiras Ø 8X2” ou 17 peneiras Ø 8X1” mais tampa e fundo;
 
-## ENSAIOS EM SOLOS 
+- 01 balança Digital de 100kg; 01 Balança Digital de 50kg; 01 Balança Digital de 4kg;
 
-- 02 dessecadores Ø 300mm com tampa e luva 
+- 01 prensa Universal de Ensaios com capacidade 200tf com acessórios para ensaios de tração simples, tração na flexão, módulo de elasticidade e adaptadores para corpos de prova 10x20cm e 5x10cm;
 
-- 01 prensa de Cisalhamento Direto ELE; 
+- 01 retífica de corpo de prova elétrica; 01 Mesa de adensamento por choque, destinada ao adensamento de fôrmas 4X4X16cm com contador de golpes digital com programador para 30 e 60 golpes e  equipamento que realiza o ciclo de golpes programado e paraliza sem interferência do operador;
 
-- 02 prensas de Adensamento ELE; 
+- 01 mesa vibratória 100x50cm, 220V/60Hz trifásico;
 
-- 01 sistema Automático de Aquisição de dados, ADU; 
+17
 
-- 01 prensa de compressão simples; 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-- 02 prensas CBR; 
+INSTITUTOFEDERAL PARANA
 
-- 01 permeâmetro de carga variável; 
+- 02 vibrador de agulha imersão elétrico, mangote com borracha vulcanizada, comprimento de 5 m que vibração de 10.000 a 12.000 V.P.M, agulha em aço tratado termicamente para garantir grande durabilidade;
 
-- 04 aparelhos de Casagrande; 
+- 01 bomba de vácuo;
 
-- 04 densímetros; 
+- 02 Jogo de Peneiras da série normal  – 8 X 2" – Latão Padrão ABNT;
 
-- 01 estufa, 
+- 02 jogos de peneiras da série intermediária;
 
-- ferramentas diversas. 
+- 08 peneiras n.200; 03 Tampa para peneiras 8 X 2" – Latão;
 
-## MATERIAIS CONSTRUTIVOS 
+- 03 fundo para peneiras 8 X 2" – Latão;
 
-- 01 agitador de peneiras eletromecânico de bancada com controlador eletrônico de tempo para até 99minutos e frequência de vibração com capacidade para até 8 peneiras Ø 8X2” ou 17 peneiras Ø 8X1” mais tampa e fundo; 
+- 01 betoneira de 120L, 01 Betoneira de 400L;
 
-- 01 balança Digital de 100kg; 01 Balança Digital de 50kg; 01 Balança Digital de 4kg; 
+- 01 argamassadeira mecânica de movimento planetário para mistura de cimentos e argamassas com cuba de  litros de capacidade e pá (batedor) em aço inoxidável com motor com duas velocidades conforme norma Alimentação: 220V - 60Hz;
 
-- 01 prensa Universal de Ensaios com capacidade 200tf com acessórios para ensaios de tração simples, tração na flexão, módulo de elasticidade e adaptadores para corpos de prova 10x20cm e 5x10cm; 
+- 03 aparelhos de Vicat Penetrômetro tipo Vicat para determinação do tempo de início e fim de pega do cimento e gesso, construído em ferro fundido com base emborrachada que acompanha: molde em nylon medindo 80X70X40mm, placa de vidro, agulhas para início e fim de pega e sonda Tetmajer para determinação da consistência normal;
 
-- 01 retífica de corpo de prova elétrica; 01 Mesa de adensamento por choque, destinada ao adensamento de fôrmas 4X4X16cm com contador de golpes digital com programador para 30 e 60 golpes e  equipamento que realiza o ciclo de golpes programado e paraliza sem interferência do operador; 
+- 02 estufas elétricas com termostato até 300C;
 
-- 01 mesa vibratória 100x50cm, 220V/60Hz trifásico; 
+- 02 medidores de umidade tipo Speedy: o kit é composto por: 01 garrafa com tampa de pressão e manômetro, 01 balança portátil, 01 escova para limpeza, 02 anéis vedantes para tampa, 01 frasco com 500g de carbureto de cálcio, 01 concha para dosagem do carbureto de cálcio, 01 espátula, 01 flanela, 01 estojo metálico e 01 instrução de uso;
 
-17 
+- 02 permeabilímetro de Blaine, aparelho para determinação da superfície específica do cimento, composta por tubo em ”U”, célula (êmbolo) de permeabilidade com pistão de socamento e disco perfurado, papel filtro, líquido manométrico colorido, vazador e pipetador de borracha de 03 vias, tudo acondicionado em estojo de madeira;
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+- 01 banho termorregular para garantir constante temperatura aos frascos de Le Chatelier, construído em isopor com revestimento externo em madeira e tampa, que acomoda até 6 frascos.  Não possui aquecimento, apenas mantém a temperatura constante;
 
-INSTITUTOFEDERAL PARANA 
+- 01 aparelho medidor de ar incorporado à argamassa pelo método presométrico em argamassa, composto por vaso presométrico de aproximadamente 1 litro, bomba de ar, válvulas, manômetro de leitura e acessórios acondicionados em estojo;
 
-- 02 vibrador de agulha imersão elétrico, mangote com borracha vulcanizada, comprimento de 5 m que vibração de 10.000 a 12.000 V.P.M, agulha em aço tratado termicamente para garantir grande durabilidade; 
+- 04 termohigrometro Digital;
 
-- 01 bomba de vácuo; 
+- 30 moldes cilíndricos 10x20cm para concreto;
 
-- 02 Jogo de Peneiras da série normal  – 8 X 2" – Latão Padrão ABNT; 
+- 12 moldes prismáticos para argamassa Fôrma prismática medindo 4X4X16cm para ensaios de tração na flexão em argamassa. Construída em aço com tratamento anticorrosivo e superfície com baixa rugosidade Versão tripla;
 
-- 02 jogos de peneiras da série intermediária; 
+- 02 paquímetro digital de 30cm;
 
-- 08 peneiras n.200; 03 Tampa para peneiras 8 X 2" – Latão; 
+- 02 paquímetro digital de 15cm; 02  paquímetro de 15cm;
 
-- 03 fundo para peneiras 8 X 2" – Latão; 
+- 02 jogos para ensaio de massa unitária de agregados (Recipiente cilíndrico, régua metálica de rasadura e concha metálica);
 
-- 01 betoneira de 120L, 01 Betoneira de 400L; 
+- 01 mesa de consistência manual ( _flowtable_ ) de argamassa manual, construída em ferro fundido com tampo de baixa rugosidade;
 
-- 01 argamassadeira mecânica de movimento planetário para mistura de cimentos e argamassas com cuba de  litros de capacidade e pá (batedor) em aço inoxidável com motor com duas velocidades conforme norma Alimentação: 220V - 60Hz; 
+- 02 fôrma tronco cônica para ensaio de consistência da argamassa Ø125X80X65mm;
 
-- 03 aparelhos de Vicat Penetrômetro tipo Vicat para determinação do tempo de início e fim de pega do cimento e gesso, construído em ferro fundido com base emborrachada que acompanha: molde em nylon medindo 80X70X40mm, placa de vidro, agulhas para início e fim de pega e sonda Tetmajer para determinação da consistência normal; 
+- 02 soquetes para argamassa (soquete padrão para ensaio de argamassa);
 
-- 02 estufas elétricas com termostato até 300C; 
+- 01 fôrma tronco cônica para ensaio de absorção de água (forma tronco cônica metálica para ensaio de absorção de água, medindo no diâmetro superior 90mm, no inferior 40mm e altura de 75mm);
 
-- 02 medidores de umidade tipo Speedy: o kit é composto por: 01 garrafa com tampa de pressão e manômetro, 01 balança portátil, 01 escova para limpeza, 02 anéis vedantes para tampa, 01 frasco com 500g de carbureto de cálcio, 01 concha para dosagem do carbureto de cálcio, 01 espátula, 01 flanela, 01 estojo metálico e 01 instrução de uso; 
+- 02 bandejas plásticas de argamassa;
 
-- 02 permeabilímetro de Blaine, aparelho para determinação da superfície específica do cimento, composta por tubo em ”U”, célula (êmbolo) de permeabilidade com pistão de socamento e disco perfurado, papel filtro, líquido manométrico colorido, vazador e pipetador de borracha de 03 vias, tudo acondicionado em estojo de madeira; 
+- 01 aquecedor com ventilador;
 
-- 01 banho termorregular para garantir constante temperatura aos frascos de Le Chatelier, construído em isopor com revestimento externo em madeira e tampa, que acomoda até 6 frascos.  Não possui aquecimento, apenas mantém a temperatura constante; 
+- 02 recipientes de massa específica de argamassa;
 
-- 01 aparelho medidor de ar incorporado à argamassa pelo método presométrico em argamassa, composto por vaso presométrico de aproximadamente 1 litro, bomba de ar, válvulas, manômetro de leitura e acessórios acondicionados em estojo; 
+- 01 furadeira profissional;
 
-- 04 termohigrometro Digital; 
+18
 
-- 30 moldes cilíndricos 10x20cm para concreto; 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-- 12 moldes prismáticos para argamassa Fôrma prismática medindo 4X4X16cm para ensaios de tração na flexão em argamassa. Construída em aço com tratamento anticorrosivo e superfície com baixa rugosidade Versão tripla; 
+INSTITUTOFEDERAL PARANA
 
-- 02 paquímetro digital de 30cm; 
+- 02 coroa Ø 50mm para furadeira (coroa diamantada com saída Ø 3/8” (9,5mm) para furadeira, especial para uso na extração de C.P.  destinado ao ensaio de arrancamento);
 
-- 02 paquímetro digital de 15cm; 02  paquímetro de 15cm; 
+- 01 serra portátil tipo Makita;
 
-- 02 jogos para ensaio de massa unitária de agregados (Recipiente cilíndrico, régua metálica de rasadura e concha metálica); 
+- 20 pastilhas de arrancamento (Placa de alumínio medindo 50X50mm);
 
-- 01 mesa de consistência manual ( _flowtable_ ) de argamassa manual, construída em ferro fundido com tampo de baixa rugosidade; 
+- 20 pastilhas de arrancamento (Placa de alumínio medindo Ø 50mm);
 
-- 02 fôrma tronco cônica para ensaio de consistência da argamassa Ø125X80X65mm; 
+- 02 pino bola em aço inox com rosca;  01 aparelho de arrancamento;  02 conjunto para Ensaio de Abatimento ( _Slump Test_ ) (placa metálica + haste de socamento+ funil + molde tronco cônico);
 
-- 02 soquetes para argamassa (soquete padrão para ensaio de argamassa); 
+- 20 capsulas de alumínio (capsula de al.diam 70x45mm c/tampa 159ml);
 
-- 01 fôrma tronco cônica para ensaio de absorção de água (forma tronco cônica metálica para ensaio de absorção de água, medindo no diâmetro superior 90mm, no inferior 40mm e altura de 75mm); 
+- 08 tachos metálicos (tacho para preparo de amostras de cimento e argamassa com alças, medindo Ø28XØ21X11 cm, construído em chapa de aço zincado);
 
-- 02 bandejas plásticas de argamassa; 
+- 08 bandejas metálicas;
 
-- 01 aquecedor com ventilador; 
+- 01 mesa para pesagem hidrostática (mesa com tampa perfurada e plataforma elevatória para ensaio de pesagem hidrostática em agregados. Possui recipiente para colocação de água);
 
-- 02 recipientes de massa específica de argamassa; 
+- 01 cesto para pesagem hidrostática (cesto tela Ø 20X20cm com abertura de 3,4mm);
 
-- 01 furadeira profissional; 
+- VIDRARIAS (08 Provetas 100ml, 500ml, 1000ml; 06 Picnômetro para ensaio de absorção; 05 Frasco de Chapman; 06 Frasco de Le Chatelier; 05 de cada Becker 250ml, 500ml, 1000ml; 05 Funil de vidro);
 
-18 
+- 01 aparelho de retenção de água de argamassa (aparelho composto por funil de Buchner modificado Ø 20cm, frasco Kitazato com saída superior, manômetro tipo tubo em “U”, suporte, mangueiras e conexões para determinação da retenção de água em argamassas);
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+- 15 cachimbos para permeabilidade (cachimbo de vidro graduado para medir permeabilidade em superfícies - Modelo vertical para paredes);
 
-INSTITUTOFEDERAL PARANA 
+19
 
-- 02 coroa Ø 50mm para furadeira (coroa diamantada com saída Ø 3/8” (9,5mm) para furadeira, especial para uso na extração de C.P.  destinado ao ensaio de arrancamento); 
+Ministerio da Educacao InstitutoFederaldoParana
 
-- 01 serra portátil tipo Makita; 
+INSTITUTOFEDERAL PARANA
 
-- 20 pastilhas de arrancamento (Placa de alumínio medindo 50X50mm); 
+## Laboratório didático: canteiro de obras
 
-- 20 pastilhas de arrancamento (Placa de alumínio medindo Ø 50mm); 
+1362<br>ESTOQUE<br>612<br>LAB.EDIFICACOES<br>CANTEIRO<br>A:127.60m2<br>PD:3,45 +0.50<br>312<br>DESNIVEL 10cm<br>+0.40<br>1362<br>EM NIVEL<br>SOBE<br>
 
-- 02 pino bola em aço inox com rosca;  01 aparelho de arrancamento;  02 conjunto para Ensaio de Abatimento ( _Slump Test_ ) (placa metálica + haste de socamento+ funil + molde tronco cônico); 
+1362<br>ESTOQUEP2R1T2 TIFICAADENSADORAMESA PRENSADOR FLOW TABLE<br>ESUMDIFICAQOR MESA VIBRATORIA<br>612<br>60<br>LAB.EDIFICACOES<br>CANTEIRO<br>P2R1/R2T2 088<br>A:127,60m2<br>+0.50<br>BALANCA 10Kg<br>ESPACO CONSTRUCAO MODELOS<br>+0.40<br>品 FITA<br>BETONEIRA<br>1362 [2]<br>EM NIVEL<br>SOBE<br>
 
-- 20 capsulas de alumínio (capsula de al.diam 70x45mm c/tampa 159ml); 
+20
 
-- 08 tachos metálicos (tacho para preparo de amostras de cimento e argamassa com alças, medindo Ø28XØ21X11 cm, construído em chapa de aço zincado); 
+INSTITUTOFEDERAL PARANA
 
-- 08 bandejas metálicas; 
+Ministerio da Educacao InstitutoFederaldoParana
 
-- 01 mesa para pesagem hidrostática (mesa com tampa perfurada e plataforma elevatória para ensaio de pesagem hidrostática em agregados. Possui recipiente para colocação de água); 
+## Laboratório de materiais de construção
 
-- 01 cesto para pesagem hidrostática (cesto tela Ø 20X20cm com abertura de 3,4mm); 
+ENXOFR<br>A:5,75m2<br>TANQUES<br>A:9,54m2<br>175 415<br>LAB.EDIFICACOES AREA<br>MARCENARIAEENSAIOS APOIO<br>A:70,40m2 A:36,09m2<br>PD:3,45 PD:3,45<br>+0.50<br>807 595<br>9439 EM NIVEL<br>SOBE<br>807 009<br>CURV<br>61ZR2<br>75m2 TANQUES<br>P2R1/R2T2<br>A:9,54m2<br>201<br>175 415<br>SOH70AVA 270 105<br>06<br>AREA<br>APOIO DECANTA<br>P2R1/R2T1<br>A:36,09m2<br>100 150<br>LAB. EDIFICACOES VISOR190X100X110emRAL<br>MARCENARIA EENSAIOS<br>P2R1/R2 T2<br>A:70,40m2 +0.50 PRENSA<br>310 230 0O PRENSA CONCRETO<br>ESTUFAS BALANCAS_5Kg ARGAMASSA<br>9439 EM NIVEL<br>L<br>
 
-- VIDRARIAS (08 Provetas 100ml, 500ml, 1000ml; 06 Picnômetro para ensaio de absorção; 05 Frasco de Chapman; 06 Frasco de Le Chatelier; 05 de cada Becker 250ml, 500ml, 1000ml; 05 Funil de vidro); 
+INSTITUTOFEDERAL<br>PARANA<br>
 
-- 01 aparelho de retenção de água de argamassa (aparelho composto por funil de Buchner modificado Ø 20cm, frasco Kitazato com saída superior, manômetro tipo tubo em “U”, suporte, mangueiras e conexões para determinação da retenção de água em argamassas); 
+MinisteriodaEducacao<br>InstitutoFederaldoParana<br>
 
-- 15 cachimbos para permeabilidade (cachimbo de vidro graduado para medir permeabilidade em superfícies - Modelo vertical para paredes); 
+## Laboratório de mecânica dos solos
 
-19 
+608<br>ABER JANELA<br>60 08<br>ENSAIOS<br>LEVES<br>630 270 8,29mR1T3<br>LAB.ENSAIOS<br>LEVES<br>A:38,29m2<br>PD:3,10<br>260 APOIOENSAIOS APOIO ENSAIOSCORPOH LEVES<br>LEVES P1R1T3<br>A:15.80m2 A:15,80m2<br>PD:3,10<br>ABERTURAJANELAS<br>608 608<br>
 
-Ministerio da Educacao InstitutoFederaldoParana 
+## **3.6 Pessoas Envolvidas**
 
-INSTITUTOFEDERAL PARANA 
+Para o pleno desenvolvimento das atividades didáticas do curso, são necessárias uma equipe pedagógica e uma equipe técnica.
 
-## Laboratório didático: canteiro de obras 
+## 3.6.1 Equipe Pedagógica
 
-**==> picture [234 x 253] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-1362<br>ESTOQUE<br>612<br>LAB.EDIFICACOES<br>CANTEIRO<br>A:127.60m2<br>PD:3,45 +0.50<br>312<br>DESNIVEL 10cm<br>+0.40<br>1362<br>EM NIVEL<br>SOBE<br>**----- End of picture text -----**<br>
-
-
-**==> picture [259 x 250] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-1362<br>ESTOQUEP2R1T2 TIFICAADENSADORAMESA PRENSADOR FLOW TABLE<br>ESUMDIFICAQOR MESA VIBRATORIA<br>612<br>60<br>LAB.EDIFICACOES<br>CANTEIRO<br>P2R1/R2T2 088<br>A:127,60m2<br>+0.50<br>BALANCA 10Kg<br>ESPACO CONSTRUCAO MODELOS<br>+0.40<br>品 FITA<br>BETONEIRA<br>1362 [2]<br>EM NIVEL<br>SOBE<br>**----- End of picture text -----**<br>
-
-
-20 
-
-INSTITUTOFEDERAL PARANA 
-
-Ministerio da Educacao InstitutoFederaldoParana 
-
-## Laboratório de materiais de construção 
-
-807 
-
-**==> picture [304 x 495] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-ENXOFR<br>A:5,75m2<br>TANQUES<br>A:9,54m2<br>175 415<br>LAB.EDIFICACOES AREA<br>MARCENARIAEENSAIOS APOIO<br>A:70,40m2 A:36,09m2<br>PD:3,45 PD:3,45<br>+0.50<br>807 595<br>9439 EM NIVEL<br>SOBE<br>807 009<br>CURV<br>61ZR2<br>75m2 TANQUES<br>P2R1/R2T2<br>A:9,54m2<br>201<br>175 415<br>SOH70AVA 270 105<br>06<br>AREA<br>APOIO DECANTA<br>P2R1/R2T1<br>A:36,09m2<br>100 150<br>LAB. EDIFICACOES VISOR190X100X110emRAL<br>MARCENARIA EENSAIOS<br>P2R1/R2 T2<br>A:70,40m2 +0.50 PRENSA<br>310 230 0O PRENSA CONCRETO<br>ESTUFAS BALANCAS_5Kg ARGAMASSA<br>9439 EM NIVEL<br>L<br>**----- End of picture text -----**<br>
-
-
-21 
-
-**==> picture [69 x 15] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-INSTITUTOFEDERAL<br>PARANA<br>**----- End of picture text -----**<br>
-
-
-**==> picture [96 x 18] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
-
-
-## Laboratório de mecânica dos solos 
-
-**==> picture [361 x 226] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-608<br>ABER JANELA<br>60 08<br>ENSAIOS<br>LEVES<br>630 270 8,29mR1T3<br>LAB.ENSAIOS<br>LEVES<br>A:38,29m2<br>PD:3,10<br>260 APOIOENSAIOS APOIO ENSAIOSCORPOH LEVES<br>LEVES P1R1T3<br>A:15.80m2 A:15,80m2<br>PD:3,10<br>ABERTURAJANELAS<br>608 608<br>**----- End of picture text -----**<br>
-
-
-## **3.6 Pessoas Envolvidas** 
-
-Para o pleno desenvolvimento das atividades didáticas do curso, são necessárias uma equipe pedagógica e uma equipe técnica. 
-
-## 3.6.1 Equipe Pedagógica 
-
-A equipe pedagógica do Curso Técnico em Edificações é composta atualmente pelos docentes do Instituto Federal do Paraná abaixo relacionados: 
+A equipe pedagógica do Curso Técnico em Edificações é composta atualmente pelos docentes do Instituto Federal do Paraná abaixo relacionados:
 
 |Professores|Graduação|Máxima Titulação|Regime de<br>Trabalho|
 |---|---|---|---|
@@ -748,13 +683,11 @@ A equipe pedagógica do Curso Técnico em Edificações é composta atualmente p
 |Dominique Elena<br>Giordano Gonzalez|Arquitetura e<br>Urbanismo<br>Dupla-formação em<br>Engenharia Civil|Mestrado em andamento|Dedicação<br>Exclusiva|
 |Ezequiel Burkarter|Física|Doutorado em Física|Dedicação<br>Exclusiva|
 
+22
 
+Ministerioda Educacao InstitutoFederaldoParana
 
-22 
-
-Ministerioda Educacao InstitutoFederaldoParana 
-
-INSTITUTOFEDERAL PARANA 
+INSTITUTOFEDERAL PARANA
 
 |INSTITUTOFEDERAL<br>PARANA|INSTITUTOFEDERAL|InstitutoFederaldoParana|InstitutoFederaldoParana|
 |---|---|---|---|
@@ -764,24 +697,20 @@ INSTITUTOFEDERAL PARANA
 |Rodrigo Cezar<br>Kanning|Tecnólogo em<br>Construção Civil|Doutorado em Engenharia e Ciência<br>dos Materiais|Dedicação<br>Exclusiva|
 |Vanessa Vogt|Tecnólogo em<br>Construção Civil|Mestrado em Construção Civil|20 h|
 
+## 3.6.2 Equipe Técnica de Laboratórios
 
+A equipe técnica destina-se ao controle, organização e manutenção dos laboratórios e seus equipamentos e materiais, e também ao auxílio na segurança dos alunos durante a utilização dos espaços e equipamentos laboratoriais. Deverá ser composta por dois (02) técnicos com formação afim das áreas abaixo indicadas:
 
-## 3.6.2 Equipe Técnica de Laboratórios 
-
-A equipe técnica destina-se ao controle, organização e manutenção dos laboratórios e seus equipamentos e materiais, e também ao auxílio na segurança dos alunos durante a utilização dos espaços e equipamentos laboratoriais. Deverá ser composta por dois (02) técnicos com formação afim das áreas abaixo indicadas: 
-
-O curso deverá contar com as seguintes formações técnicas: 
+O curso deverá contar com as seguintes formações técnicas:
 
 |**TÉCNICO**|**ÁREA DE CONHECIMENTO**|**LABORATÓRIOS**<br>**RELACIONADOS**|
 |---|---|---|
 |Técnico Laboratórios de<br>Ensaios|Laboratório de Química ou de<br>Ensaios da Construção Civil|Laboratório de Materiais<br>Laboratório de Solos|
 |Técnico Laboratório de<br>Práticas|Canteiro de Construção Civil|Laboratório de Práticas<br>Construtivas|
 
+## 3.6.3 Equipe Técnica
 
-
-## 3.6.3 Equipe Técnica 
-
-Uma equipe de mais de trinta profissionais compõem o corpo técnico- administrativo, constituído pelos servidores integrantes do quadro permanente de pessoal do Instituto Federal, Câmpus Curitiba, regidos pelo Regime Jurídico Único, e exercem as atividades técnicas, administrativas e operacionais, visando o apoio ao Ensino, Pesquisa e Extensão. 
+Uma equipe de mais de trinta profissionais compõem o corpo técnico- administrativo, constituído pelos servidores integrantes do quadro permanente de pessoal do Instituto Federal, Câmpus Curitiba, regidos pelo Regime Jurídico Único, e exercem as atividades técnicas, administrativas e operacionais, visando o apoio ao Ensino, Pesquisa e Extensão.
 
 |Nome|Titulação|Graduação|
 |---|---|---|
@@ -791,13 +720,11 @@ Uma equipe de mais de trinta profissionais compõem o corpo técnico- administra
 |AndreyEnrique Santos|Graduação|Educação física|
 |Bruno Bello|Graduando|História|
 
+23
 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-23 
-
-MinisteriodaEducacao InstitutoFederaldoParana 
-
-INSTITUTOFEDERAL PARANA 
+INSTITUTOFEDERAL PARANA
 
 |INSTITUTOFEDERAL<br>PARANA||MinisteriodaEducacao<br>InstitutoFederaldoParana|
 |---|---|---|
@@ -834,35 +761,33 @@ INSTITUTOFEDERAL PARANA
 |Susi de Fatima Carvalho da Silva|Graduação|Gestãopública|
 |Vivaldo Cordeiro Gonçalves|Especialização|Gestão da informação|
 
+## **3.7 Descrição de diplomas e certificados a serem expedidos**
 
+Os alunos que concluírem os quatro (04) semestres letivos com aproveitamento receberão o Diploma de _Técnico em Edificações_ , do Eixo Tecnológico de _Infraestrutura_ .
 
-## **3.7 Descrição de diplomas e certificados a serem expedidos** 
+## **3.8  Organização Curricular**
 
-Os alunos que concluírem os quatro (04) semestres letivos com aproveitamento receberão o Diploma de _Técnico em Edificações_ , do Eixo Tecnológico de _Infraestrutura_ . 
+Os componentes curriculares do curso objetivam dar noções básicas das diversas áreas de atuação, de forma a ampliar as possibilidades de inserção dos egressos no mercado de trabalho, por estarem inseridos em uma região metropolitana onde há uma demanda por técnicos compromissados com a transformação social e comprometidos com a sustentabilidade.
 
-## **3.8  Organização Curricular** 
+24
 
-Os componentes curriculares do curso objetivam dar noções básicas das diversas áreas de atuação, de forma a ampliar as possibilidades de inserção dos egressos no mercado de trabalho, por estarem inseridos em uma região metropolitana onde há uma demanda por técnicos compromissados com a transformação social e comprometidos com a sustentabilidade. 
+INSTITUTOFEDERAL PARANA
 
-24 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-INSTITUTOFEDERAL PARANA 
+Não obstante, as áreas de canteiro de obras e de escritórios de projetos representam a parte mais significativa da demanda de mercado. Assim, uma parte maior dos componentes curriculares do curso está destinada a estes conteúdos.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+O curso está dividido em quatro (04) semestres, totalizando dois (02) anos de duração. Os componentes curriculares estão distribuídos de modo a concentrar a ciência de base (matemática, física, informática) e as que introduzem o conhecimento básico e prático das atividades ligadas à construção civil (desenho, materiais de construção, técnicas e práticas básicas de construção civil e segurança do trabalho), de maneira a permitir que o aluno já ao final do primeiro semestre, mas principalmente ao final do primeiro ano, tenha uma base de conhecimentos suficiente para atuar durante o segundo ano nas áreas de maior demanda do setor, o que auxilia na fixação e compreensão do conteúdo visto, na integração entre teoria e prática, e na sua inserção no mercado de trabalho.
 
-Não obstante, as áreas de canteiro de obras e de escritórios de projetos representam a parte mais significativa da demanda de mercado. Assim, uma parte maior dos componentes curriculares do curso está destinada a estes conteúdos. 
+No terceiro semestre estão os componentes curriculares ligados a áreas mais específicas, e restritas de atuação, bem como atividades práticas contempladas em Práticas Complementares de Construção Civil. Transmitem noções básicas e discutem temas mais complexos, o que amplia a concepção dos alunos sobre o setor da construção civil e sua complexidade, e também as possibilidades de inserção em nichos de mercado mais restritos, como laboratórios de ensaios, cartografia, escritórios de projetos complementares, ainda que necessitem treinamentos futuros que aprofundem seu conhecimento no campo específico de atuação.
 
-O curso está dividido em quatro (04) semestres, totalizando dois (02) anos de duração. Os componentes curriculares estão distribuídos de modo a concentrar a ciência de base (matemática, física, informática) e as que introduzem o conhecimento básico e prático das atividades ligadas à construção civil (desenho, materiais de construção, técnicas e práticas básicas de construção civil e segurança do trabalho), de maneira a permitir que o aluno já ao final do primeiro semestre, mas principalmente ao final do primeiro ano, tenha uma base de conhecimentos suficiente para atuar durante o segundo ano nas áreas de maior demanda do setor, o que auxilia na fixação e compreensão do conteúdo visto, na integração entre teoria e prática, e na sua inserção no mercado de trabalho. 
+No quarto e último semestre estão concentrados os componente curriculares que integram ou transpassam os conhecimentos diversos já adquiridos nos semestres precedentes. São as áreas ligadas a projeto, planejamento, controle e gestão de obra. O objetivo é o de ampliar a visão além de posturas mais tradicionais e artesanais da construção civil.
 
-No terceiro semestre estão os componentes curriculares ligados a áreas mais específicas, e restritas de atuação, bem como atividades práticas contempladas em Práticas Complementares de Construção Civil. Transmitem noções básicas e discutem temas mais complexos, o que amplia a concepção dos alunos sobre o setor da construção civil e sua complexidade, e também as possibilidades de inserção em nichos de mercado mais restritos, como laboratórios de ensaios, cartografia, escritórios de projetos complementares, ainda que necessitem treinamentos futuros que aprofundem seu conhecimento no campo específico de atuação. 
+Os conteúdos transversais referentes a Educação Ambiental (Lei nº 9.795/99, que dispõe sobre a Política Nacional de Educação Ambiental e Resolução CNE/CP nº 02/12), Educação para o Trânsito (Lei nº 9.503/97, que institui o Código de Trânsito Brasileiro), Educação em Direitos Humanos (Decreto nº 7.037/2009, que institui o Programa Nacional de Direitos Humanos – PNDH 3), Educação Alimentar e Nutrição Escolar (Lei nº 11.947/2009, que dispõe sobre o atendimento da alimentação escolar), História e Cultura Afro-Brasileira e Africana (Lei 10.639/2003 que estabelece o ensino de história e cultura afro-brasileira e africana), Educação Financeira serão tratados por meio de palestras, simpósios e seminários realizados no âmbito do Câmpus Curitiba. Além destas atividades específicas a Educação para o Trânsito também é abordada no componente curricular Higiene e Segurança do Trabalho. A Educação Ambiental conforme Lei nº 9.795/99 e resolução CNE/CP nº 02/12 é tratada de modo transversal, contínuo e permanente ao longo do curso.
 
-No quarto e último semestre estão concentrados os componente curriculares que integram ou transpassam os conhecimentos diversos já adquiridos nos semestres precedentes. São as áreas ligadas a projeto, planejamento, controle e gestão de obra. O objetivo é o de ampliar a visão além de posturas mais tradicionais e artesanais da construção civil. 
+25
 
-Os conteúdos transversais referentes a Educação Ambiental (Lei nº 9.795/99, que dispõe sobre a Política Nacional de Educação Ambiental e Resolução CNE/CP nº 02/12), Educação para o Trânsito (Lei nº 9.503/97, que institui o Código de Trânsito Brasileiro), Educação em Direitos Humanos (Decreto nº 7.037/2009, que institui o Programa Nacional de Direitos Humanos – PNDH 3), Educação Alimentar e Nutrição Escolar (Lei nº 11.947/2009, que dispõe sobre o atendimento da alimentação escolar), História e Cultura Afro-Brasileira e Africana (Lei 10.639/2003 que estabelece o ensino de história e cultura afro-brasileira e africana), Educação Financeira serão tratados por meio de palestras, simpósios e seminários realizados no âmbito do Câmpus Curitiba. Além destas atividades específicas a Educação para o Trânsito também é abordada no componente curricular Higiene e Segurança do Trabalho. A Educação Ambiental conforme Lei nº 9.795/99 e resolução CNE/CP nº 02/12 é tratada de modo transversal, contínuo e permanente ao longo do curso. 
-
-25 
-
-Ministerioda Educacao InstitutoFederaldoParana 
+Ministerioda Educacao InstitutoFederaldoParana
 
 |**Componentes curriculares**|**Componentes curriculares**|**Carga horária**<br>(horas relógio)|**Carga horária**<br>(horas aula*)|**Nº aulas na**<br>**semana**|
 |---|---|---|---|---|
@@ -898,19 +823,8 @@ Ministerioda Educacao InstitutoFederaldoParana
 |**Carga horária total**||**1358**|**1600**|**80**|
 |**(*) 1 Hora aula = 50 min**|||||
 
+MinisteriodaEducacao<br>INSTITUTOFEDERAL<br>InstitutoFederaldoParana<br>PARANA<br>
 
-
-26 
-
-**==> picture [451 x 22] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>INSTITUTOFEDERAL<br>InstitutoFederaldoParana<br>PARANA<br>**----- End of picture text -----**<br>
-
-
-**==> picture [497 x 173] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
 ||||
 |---|---|---|
 |Semestre 1|
@@ -927,231 +841,219 @@ MinisteriodaEducacao<br>INSTITUTOFEDERAL<br>InstitutoFederaldoParana<br>PARANA<b
 |4. Decomposição de Vetores.|
 |5. Conceito de Força.|
 
-**----- End of picture text -----**<br>
+6. Decomposição de Forças. 7. Resultante de Sistemas de Forças (Primeira e Terceira Leis de Newton). 8. Binário e Momento (ou Torque) de uma Força. 9. Condição de Equilíbrio de Corpo Rígido. **Matemática:** 10. Potências de Dez e Operações com Potências de Dez. 11. Notação Científica e Notação de Engenharia.
 
+12. Operações com radiciação e potenciação.
 
-6. Decomposição de Forças. 7. Resultante de Sistemas de Forças (Primeira e Terceira Leis de Newton). 8. Binário e Momento (ou Torque) de uma Força. 9. Condição de Equilíbrio de Corpo Rígido. **Matemática:** 10. Potências de Dez e Operações com Potências de Dez. 11. Notação Científica e Notação de Engenharia. 
+13. Sistemas de Equações Lineares.
 
-12. Operações com radiciação e potenciação. 
+14. Equação do Primeiro Grau e Gráficos.
 
-13. Sistemas de Equações Lineares. 
+15. Relações Métricas no Triângulo Retângulo.
 
-14. Equação do Primeiro Grau e Gráficos. 
+16. Definição de Seno e Cosseno de um Ângulo.
 
-15. Relações Métricas no Triângulo Retângulo. 
+17. Leis dos Cossenos.
 
-16. Definição de Seno e Cosseno de um Ângulo. 
-
-17. Leis dos Cossenos. 
-
-**==> picture [310 x 25] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
 ||||
 |---|---|---|
 |Fundamentos Físicos|e Matemáticos|para Edificações|
 |BIBLIOGRAFIA BÁSICA|
 
-**----- End of picture text -----**<br>
+GASPAR, Alberto. **Compreendendo a Física – Mecânica - Volume 1** . São Paulo, Ed. Atica, 2010.
 
+MÁXIMO, Antonio; ALVARENGA, Beatriz. **Curso de Física – Volume 1.** São Paulo, Ed. Scipione, 2010.
 
-GASPAR, Alberto. **Compreendendo a Física – Mecânica - Volume 1** . São Paulo, Ed. Atica, 2010. 
+TIPLER, Paul; MOSCA, Gene. **Física para Cientistas e Engenheiros Vol. 1** . KOUDELA, Ingrid Dormien; AMOS, Eduardo José de Almeida.Sexta Edição, Rio de Janeiro, Ed. LTC, 2009.
 
-MÁXIMO, Antonio; ALVARENGA, Beatriz. **Curso de Física – Volume 1.** São Paulo, Ed. Scipione, 2010. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-TIPLER, Paul; MOSCA, Gene. **Física para Cientistas e Engenheiros Vol. 1** . KOUDELA, Ingrid Dormien; AMOS, Eduardo José de Almeida.Sexta Edição, Rio de Janeiro, Ed. LTC, 2009. 
+FEYNMAN;Richard Philips;LEIGHTON, Robert;SANDS, Matthew. **Lições da Física de Feynman – Edição Definitiva – Volumes I, II e III** . SILVA, Adriana Válio Roque, COUTINHO, Kaline Rabelo. Rio de Janeiro, Ed. Bookman, 2008.
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+ROCHA, José Fernando (Org). **Origens e Evolução das Ideias da Física** . Salvador, Ed. UFBa, 2002.
 
-FEYNMAN;Richard Philips;LEIGHTON, Robert;SANDS, Matthew. **Lições da Física de Feynman – Edição Definitiva – Volumes I, II e III** . SILVA, Adriana Válio Roque, COUTINHO, Kaline Rabelo. Rio de Janeiro, Ed. Bookman, 2008. 
+TORRES, Carlos Magno; FERRARO, Nicolau Giuberto; SOARES, Paulo Antonio Toledo. **Física Ciência e Tecnologia** . São Paulo, Ed. Moderna , 2010.
 
-ROCHA, José Fernando (Org). **Origens e Evolução das Ideias da Física** . Salvador, Ed. UFBa, 2002. 
+27
 
-TORRES, Carlos Magno; FERRARO, Nicolau Giuberto; SOARES, Paulo Antonio Toledo. **Física Ciência e Tecnologia** . São Paulo, Ed. Moderna , 2010. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-27 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+**Semestre 1**
 
-INSTITUTOFEDERAL PARANA 
+## **IFPR –** Campus Curitiba
 
-**Semestre 1** 
+Curso: Eixo Tecnológico: **TÉCNICO EM EDIFICAÇÕES** (Subsequente) **INFRAESTRUTURA** Componente Curricular: Carga Horária: 40h **Informática Instrumental** _(horas aula – 50min)_
 
-## **IFPR –** Campus Curitiba 
+## EMENTA
 
-Curso: Eixo Tecnológico: **TÉCNICO EM EDIFICAÇÕES** (Subsequente) **INFRAESTRUTURA** Componente Curricular: Carga Horária: 40h **Informática Instrumental** _(horas aula – 50min)_ 
+1. Edição e formatação de textos para elaboração de documentos; 2. Cálculo e organização de dados a partir de planilhas eletrônicas, com aplicações para a construção civil, automatizando tabelas para geração de resultados e gráficos;
 
-## EMENTA 
+3. Criação e formatação de apresentações para projeção.
 
-1. Edição e formatação de textos para elaboração de documentos; 2. Cálculo e organização de dados a partir de planilhas eletrônicas, com aplicações para a construção civil, automatizando tabelas para geração de resultados e gráficos; 
+Informática Instrumental
 
-3. Criação e formatação de apresentações para projeção. 
+## **BIBLIOGRAFIA BÁSICA**
 
-Informática Instrumental 
+ALVES, William Pereira. **Informática: Microsoft Office Word 2010 e Microsoft Office Excel 2010** .São Paulo: Érica, 2012.
 
-## **BIBLIOGRAFIA BÁSICA** 
+McFEDRIES, Paul. **Fórmulas e Funções com Microsoft Office Excel 2007** . [s.l.]: Prentice-Hall, 2008. OLIVEIRA, Maria Marly de. **Como fazer projetos, relatórios, monografias, dissertações e teses** . [s.l.]: Campus-RJ, 2010.
 
-ALVES, William Pereira. **Informática: Microsoft Office Word 2010 e Microsoft Office Excel 2010** .São Paulo: Érica, 2012. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-McFEDRIES, Paul. **Fórmulas e Funções com Microsoft Office Excel 2007** . [s.l.]: Prentice-Hall, 2008. OLIVEIRA, Maria Marly de. **Como fazer projetos, relatórios, monografias, dissertações e teses** . [s.l.]: Campus-RJ, 2010. 
+ALVES, William Pereira. **Estudo Dirigido de Microsoft Office Acess 2010** . São Paulo: Érica, 2010.
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+LANCHARRO, E. A.; LOPEZ, M. G.; FERNANDEZ, S. P. **Informática básica** . São Paulo: Makron Books, 1991.
 
-ALVES, William Pereira. **Estudo Dirigido de Microsoft Office Acess 2010** . São Paulo: Érica, 2010. 
+MANZANO, A. L.; MANZANO, M.I. N.G. **Estudo dirigido de informática básica** . 7. ed. rev. atual. ampl. São Paulo: Érica, 2007. MANZANO, A. L.; MANZANO, M.I. N.G. **Estudo dirigido Microsoft Office Word 2010** . São Paulo: Érica, 2010.
 
-LANCHARRO, E. A.; LOPEZ, M. G.; FERNANDEZ, S. P. **Informática básica** . São Paulo: Makron Books, 1991. 
+WILLIAN, B. **Informática Elementar: Open Office 2.0** . Rio de Janeiro, Alta Books, 2007.
 
-MANZANO, A. L.; MANZANO, M.I. N.G. **Estudo dirigido de informática básica** . 7. ed. rev. atual. ampl. São Paulo: Érica, 2007. MANZANO, A. L.; MANZANO, M.I. N.G. **Estudo dirigido Microsoft Office Word 2010** . São Paulo: Érica, 2010. 
+28
 
-WILLIAN, B. **Informática Elementar: Open Office 2.0** . Rio de Janeiro, Alta Books, 2007. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-28 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+**Semestre 1**
 
-INSTITUTOFEDERAL PARANA 
+## **IFPR –** Campus Curitiba
 
-**Semestre 1** 
+Curso: Eixo Tecnológico: **TÉCNICO EM EDIFICAÇÕES** (Subsequente) **INFRAESTRUTURA** Componente Curricular: Carga Horária: 80h **Desenho Técnico** _(horas aula – 50min)_ EMENTA
 
-## **IFPR –** Campus Curitiba 
+1. Traçado de linhas, tipos e espessuras; 2. Letras e Algarismos normativos 3. Geometria Básica; 4. Formatação de folhas de desenho
 
-Curso: Eixo Tecnológico: **TÉCNICO EM EDIFICAÇÕES** (Subsequente) **INFRAESTRUTURA** Componente Curricular: Carga Horária: 80h **Desenho Técnico** _(horas aula – 50min)_ EMENTA 
+5. Escalas gráficas
 
-1. Traçado de linhas, tipos e espessuras; 2. Letras e Algarismos normativos 3. Geometria Básica; 4. Formatação de folhas de desenho 
+6. Projeções Paralelas
 
-5. Escalas gráficas 
+7. Cotagem
 
-6. Projeções Paralelas 
+8. Perspectivas Paralelas 9. Perspectiva Cônica
 
-7. Cotagem 
+Desenho Técnico
 
-8. Perspectivas Paralelas 9. Perspectiva Cônica 
+## **BIBLIOGRAFIA BÁSICA**
 
-Desenho Técnico 
+DAGOSTINO, F. R. **Desenho Arquitetõnico Contemporâneo** . [s.l.]: Hemus, 2004.
 
-## **BIBLIOGRAFIA BÁSICA** 
+MONTENEGRO, Gildo A. **Geometria descritiva** . São Paulo: Edgard Blücher, 1991
 
-DAGOSTINO, F. R. **Desenho Arquitetõnico Contemporâneo** . [s.l.]: Hemus, 2004. 
+NEIZEL, Ernst. **Desenho técnico para a construção civil, v.1** . São Paulo: EDUSP, 2012. Vol.1. (Coleção Desenho Técnico)
 
-MONTENEGRO, Gildo A. **Geometria descritiva** . São Paulo: Edgard Blücher, 1991 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-NEIZEL, Ernst. **Desenho técnico para a construção civil, v.1** . São Paulo: EDUSP, 2012. Vol.1. (Coleção Desenho Técnico) 
+CHING, F. D.K. **Representação Gráfica em Arquitetura** . Porto Alegre: Bookman, 2011. MONTENEGRO, Gildo A. **A perspectiva dos Profissionais** . [s.l.]: Edgard Blücher, 2010. MONTENEGRO, Gildo A. **Desenho de projetos** . São Paulo: Blucher, 2007. SILVA, A.; RIBEIRO, C. T.; DIAS, J. **Desenho Técnico Moderno** .Rio de Janeiro: LTC, 2006.
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+29
 
-CHING, F. D.K. **Representação Gráfica em Arquitetura** . Porto Alegre: Bookman, 2011. MONTENEGRO, Gildo A. **A perspectiva dos Profissionais** . [s.l.]: Edgard Blücher, 2010. MONTENEGRO, Gildo A. **Desenho de projetos** . São Paulo: Blucher, 2007. SILVA, A.; RIBEIRO, C. T.; DIAS, J. **Desenho Técnico Moderno** .Rio de Janeiro: LTC, 2006. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-29 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+**Semestre 1**
 
-INSTITUTOFEDERAL PARANA 
+## **IFPR –** Campus Curitiba
 
-**Semestre 1** 
+Curso: Eixo Tecnológico: **TÉCNICO EM EDIFICAÇÕES** (Subsequente) **INFRAESTRUTURA** Componente Curricular: Carga Horária: 40h **Desenho Digital Básico** _(horas aula – 50min)_
 
-## **IFPR –** Campus Curitiba 
+- EMENTA
 
-Curso: Eixo Tecnológico: **TÉCNICO EM EDIFICAÇÕES** (Subsequente) **INFRAESTRUTURA** Componente Curricular: Carga Horária: 40h **Desenho Digital Básico** _(horas aula – 50min)_ 
+- 1. Características do ambiente CAD (entrada de dados, plano cartesiano virtual, configurações iniciais);
 
-- EMENTA 
+2. Comandos de criação de elementos geométricos;
 
-- 1. Características do ambiente CAD (entrada de dados, plano cartesiano virtual, configurações iniciais); 
+3. Comandos de edição de elementos geométricos;
 
-2. Comandos de criação de elementos geométricos; 
+4. Organização dos elementos em camadas;
 
-3. Comandos de edição de elementos geométricos; 
+5. Hachuras e tipos de linha;
 
-4. Organização dos elementos em camadas; 
+6. Criação de blocos;
 
-5. Hachuras e tipos de linha; 
+7. Estilos de texto e de Cotas simples (não anotativas);
 
-6. Criação de blocos; 
+8. Plotagem em escala a partir do espaço de modelo.
 
-7. Estilos de texto e de Cotas simples (não anotativas); 
+Desenho Digital Básico
 
-8. Plotagem em escala a partir do espaço de modelo. 
+## **BIBLIOGRAFIA BÁSICA**
 
-Desenho Digital Básico 
+BRASWELL, M. S. **Autocad 2009 para Arquitetos e Projetistas de Interiores** . [s.l.]: Ciência Moderna, 2009. ONSTOTT, S. **Autocad 2012 e Autocad LT 2012** . Porto Alegre: Bookman, 2011. VENDITTI, M. V. R. **Desenho Técnico sem Prancheta com Autocad 2010** . [s.l.]: Visual Books, 2010. **BIBLIOGRAFIA COMPLEMENTAR**
 
-## **BIBLIOGRAFIA BÁSICA** 
+LEAKE, J. M.; BORGERSON, J. **Manual de desenho técnico para engenharia: desenho, modelagem e visualização** . Rio de Janeiro: Livros Técnicos e Científicos, 2010. LIMA, C. C. **Estudo dirigido de Autocad 2013: para Windows** . [s.l.] Érica, 2012. SILVA.A.; RIBEIRO, C. A.; DIAS, J.; SOUSA, L. **Desenho Técnico Moderno** . São Paulo: LTC, 2006.
 
-BRASWELL, M. S. **Autocad 2009 para Arquitetos e Projetistas de Interiores** . [s.l.]: Ciência Moderna, 2009. ONSTOTT, S. **Autocad 2012 e Autocad LT 2012** . Porto Alegre: Bookman, 2011. VENDITTI, M. V. R. **Desenho Técnico sem Prancheta com Autocad 2010** . [s.l.]: Visual Books, 2010. **BIBLIOGRAFIA COMPLEMENTAR** 
+30
 
-LEAKE, J. M.; BORGERSON, J. **Manual de desenho técnico para engenharia: desenho, modelagem e visualização** . Rio de Janeiro: Livros Técnicos e Científicos, 2010. LIMA, C. C. **Estudo dirigido de Autocad 2013: para Windows** . [s.l.] Érica, 2012. SILVA.A.; RIBEIRO, C. A.; DIAS, J.; SOUSA, L. **Desenho Técnico Moderno** . São Paulo: LTC, 2006. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-30 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+**Semestre 1**
 
-INSTITUTOFEDERAL PARANA 
+## **IFPR –** Campus Curitiba
 
-**Semestre 1** 
+Curso:
 
-## **IFPR –** Campus Curitiba 
+Curso: Eixo Tecnológico: **TÉCNICO EM EDIFICAÇÕES** (Subsequente) **INFRAESTRUTURA**
 
-Curso: 
+Componente Curricular: Carga Horária: 80h **Técnicas Básicas de Construção Civil** _(horas aula – 50min)_
 
-Curso: Eixo Tecnológico: **TÉCNICO EM EDIFICAÇÕES** (Subsequente) **INFRAESTRUTURA** 
+## EMENTA
 
-Componente Curricular: Carga Horária: 80h **Técnicas Básicas de Construção Civil** _(horas aula – 50min)_ 
+1. A especificidade da Indústria da Construção Civil
 
-## EMENTA 
+2. Movimentação de terra e locação
 
-1. A especificidade da Indústria da Construção Civil 
+3. Visão geral das fundações enquanto interface entre superestrutura e o solo (o conteúdo específico de fundações será tratado em outra disciplina)
 
-2. Movimentação de terra e locação 
+4. Estrutura de concreto armado produzido in loco
 
-3. Visão geral das fundações enquanto interface entre superestrutura e o solo (o conteúdo específico de fundações será tratado em outra disciplina) 
+   - Formas, Escoramentos e Armaduras
 
-4. Estrutura de concreto armado produzido in loco 
+   - Lançamento, cura do concreto e desforma do concreto
 
-   - Formas, Escoramentos e Armaduras 
+5. Visão geral de outros tipos de estruturas (pré-moldada, aço, stell e wood frame, etc)
 
-   - Lançamento, cura do concreto e desforma do concreto 
+6. Vedação Vertical: conceito e funções;
 
-5. Visão geral de outros tipos de estruturas (pré-moldada, aço, stell e wood frame, etc) 
+   - alvenaria convencional de blocos: técnica de execução.
 
-6. Vedação Vertical: conceito e funções; 
+   - complementos da alvenaria: vergas e contra-vergas, encunhamento, amarrações, passagem de instalações e contramarcos.
 
-   - alvenaria convencional de blocos: técnica de execução. 
+   - detalhes estruturais da alvenaria: cintas de amarração, encunhamento, coxins, amarrações, ligação com a estrutura.
 
-   - complementos da alvenaria: vergas e contra-vergas, encunhamento, amarrações, passagem de instalações e contramarcos. 
+- noções gerais de outros tipos de vedações que não a alvenaria convencional: sistemas por acoplagem a seco (drywall), vedações monolíticas, sistemas cortina, sistemas vernaculares (madeira, pedra, adobe, taipa). - esquadrias: conceito, componentes, tipos de vedação e abertura, materiais e fixações. Técnicas Básicas de Construção Civil
 
-   - detalhes estruturais da alvenaria: cintas de amarração, encunhamento, coxins, amarrações, ligação com a estrutura. 
+## **BIBLIOGRAFIA BÁSICA**
 
-- noções gerais de outros tipos de vedações que não a alvenaria convencional: sistemas por acoplagem a seco (drywall), vedações monolíticas, sistemas cortina, sistemas vernaculares (madeira, pedra, adobe, taipa). - esquadrias: conceito, componentes, tipos de vedação e abertura, materiais e fixações. Técnicas Básicas de Construção Civil 
+CHING, Francis D. K. **Técnicas de construção ilustradas.** 4 Edição. São Paulo: PINI, 2010. SALGADO, Julio. **Técnicas e práticas construtivas para edificação.** 1 Edição. São Paulo: Érica, 2009. YAZIGI, Walid. **A Técnica de Edificar** . 10 Edição. São Paulo: Pini, 2011.
 
-## **BIBLIOGRAFIA BÁSICA** 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-CHING, Francis D. K. **Técnicas de construção ilustradas.** 4 Edição. São Paulo: PINI, 2010. SALGADO, Julio. **Técnicas e práticas construtivas para edificação.** 1 Edição. São Paulo: Érica, 2009. YAZIGI, Walid. **A Técnica de Edificar** . 10 Edição. São Paulo: Pini, 2011. 
+ABRAM, Isaac. **Manual Prático de Terraplanagem.** 1 Edição. São Paulo: PINI, 2002.
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+BOTELHO, Manoel Henrique Campos. **Manual de primeiros socorros do engenheiro e do arquiteto** . 2.ed. São Paulo: E. Blücher, 2009.
 
-ABRAM, Isaac. **Manual Prático de Terraplanagem.** 1 Edição. São Paulo: PINI, 2002. 
+CASADO, Alberto; LORDSLEEN JR. **Execução e Inspeção de Alvenaria Racionalizada.** 3 Edição. São Paulo: O Nome da Rosa, 2004.
 
-BOTELHO, Manoel Henrique Campos. **Manual de primeiros socorros do engenheiro e do arquiteto** . 2.ed. São Paulo: E. Blücher, 2009. 
+NAZAR, Nilton **. Formas e Escoramentos para Edifícios:critérios para dimensionamento e escolha do sistema** . 1 Edição. São Paulo: PINI, 2007.
 
-CASADO, Alberto; LORDSLEEN JR. **Execução e Inspeção de Alvenaria Racionalizada.** 3 Edição. São Paulo: O Nome da Rosa, 2004. 
+31
 
-NAZAR, Nilton **. Formas e Escoramentos para Edifícios:critérios para dimensionamento e escolha do sistema** . 1 Edição. São Paulo: PINI, 2007. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-31 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+**Semestre 1**
 
-INSTITUTOFEDERAL PARANA 
+## **IFPR –** Campus Curitiba
 
-**Semestre 1** 
+Curso: Eixo Tecnológico: **TÉCNICO EM EDIFICAÇÕES** (Subsequente) **INFRAESTRUTURA** Componente Curricular: Carga Horária: 40h **Materiais de Construção Civil** _(horas aula – 50min)_ EMENTA
 
-## **IFPR –** Campus Curitiba 
+Características, propriedades, vantagens e desvantagens (econômica, ambiental, durabilidade, etc) dos materiais utilizados na construção civil. 1. Aglomerantes; 2. Argamassas; 3. Metais; 4. Materiais cerâmicos; 5. Vidro; 6. Polímeros 7. Tintas e Vernizes; 8. Materiais Betuminosos; 9. Madeira; 10. Materiais compostos ou mistos 11. Novos materiais e materiais alternativos.
 
-Curso: Eixo Tecnológico: **TÉCNICO EM EDIFICAÇÕES** (Subsequente) **INFRAESTRUTURA** Componente Curricular: Carga Horária: 40h **Materiais de Construção Civil** _(horas aula – 50min)_ EMENTA 
-
-Características, propriedades, vantagens e desvantagens (econômica, ambiental, durabilidade, etc) dos materiais utilizados na construção civil. 1. Aglomerantes; 2. Argamassas; 3. Metais; 4. Materiais cerâmicos; 5. Vidro; 6. Polímeros 7. Tintas e Vernizes; 8. Materiais Betuminosos; 9. Madeira; 10. Materiais compostos ou mistos 11. Novos materiais e materiais alternativos. 
-
-**==> picture [494 x 241] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
 |||||
 |---|---|---|---|
 |Materiais de Construção Civil|
@@ -1171,22 +1073,16 @@ Características, propriedades, vantagens e desvantagens (econômica, ambiental,
 |BERTOLINI, Luca.|Materiais de Construção – Patologia, Reabilitação, Prevenção.|1 Edição. São Paulo:|
 |Ofinica de Textos, 2010.|
 
-**----- End of picture text -----**<br>
+VAN VLACK, L. H. **Princício de Ciência e Tecnologia dos Materiais.** 4 Edição. São Paulo: Campus, 2003.
 
+32
 
-VAN VLACK, L. H. **Princício de Ciência e Tecnologia dos Materiais.** 4 Edição. São Paulo: Campus, 2003. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-32 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+**Semestre 1 IFPR –** Campus Curitiba Curso: Eixo Tecnológico: **TÉCNICO EM EDIFICAÇÕES** (Subsequente) **INFRAESTRUTURA** Componente Curricular: Carga Horária: 40h **Higiene e Segurança do Trabalho** _(horas aula – 50min)_ EMENTA
 
-INSTITUTOFEDERAL PARANA 
-
-**Semestre 1 IFPR –** Campus Curitiba Curso: Eixo Tecnológico: **TÉCNICO EM EDIFICAÇÕES** (Subsequente) **INFRAESTRUTURA** Componente Curricular: Carga Horária: 40h **Higiene e Segurança do Trabalho** _(horas aula – 50min)_ EMENTA 
-
-**==> picture [231 x 110] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
 ||||
 |---|---|---|
 |1. Acidentes do Trabalho;|
@@ -1199,160 +1095,157 @@ INSTITUTOFEDERAL PARANA
 |9. PPRA;|
 |10. Procedimentos|de Primeiros|Socorros.|
 
-**----- End of picture text -----**<br>
+Higiene e Segurança do Trabalho
 
+## **BIBLIOGRAFIA BÁSICA**
 
-Higiene e Segurança do Trabalho 
+EQUIPE ATLAS. **Segurança e Medicina do Trabalho.** 71ª Edição. Editora Atlas, 2013. GONÇALVES, E. A. **Manual de Segurança e Saúde no Trabalho.** 3ª Edição. Editora LTR, 2007. ROUSSELET, Edison da Silva; FALCÃO, Cesar. **A segurança na obra: manual técnico de segurança do trabalho em edificações prediais** . Rio de Janeiro, RJ: Interciência, 1999. SALIBA, T. M.; PAGANO, S. C. R. S. **Legislação de Segurança, Acidente do Trabalho e Saúde do Trabalhador.** 5ª Edição 2007. Editora LTR, 2007.
 
-## **BIBLIOGRAFIA BÁSICA** 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-EQUIPE ATLAS. **Segurança e Medicina do Trabalho.** 71ª Edição. Editora Atlas, 2013. GONÇALVES, E. A. **Manual de Segurança e Saúde no Trabalho.** 3ª Edição. Editora LTR, 2007. ROUSSELET, Edison da Silva; FALCÃO, Cesar. **A segurança na obra: manual técnico de segurança do trabalho em edificações prediais** . Rio de Janeiro, RJ: Interciência, 1999. SALIBA, T. M.; PAGANO, S. C. R. S. **Legislação de Segurança, Acidente do Trabalho e Saúde do Trabalhador.** 5ª Edição 2007. Editora LTR, 2007. 
+GARCIA, Gustavo Felipe Barbosa [organizador]. **Legislação de segurança e medicina do trabalho.** 2ª Edição. Editora Método, 2008.
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+PONZETTO, G. **Mapa de Riscos Ambientais - NR5** -2ª Edição. Editora LTR, 2007. SAAD, E. G. **Introdução à Engenharia de Segurança do Trabalho** . São Paulo, Fundacentro, 1981.
 
-GARCIA, Gustavo Felipe Barbosa [organizador]. **Legislação de segurança e medicina do trabalho.** 2ª Edição. Editora Método, 2008. 
+33
 
-PONZETTO, G. **Mapa de Riscos Ambientais - NR5** -2ª Edição. Editora LTR, 2007. SAAD, E. G. **Introdução à Engenharia de Segurança do Trabalho** . São Paulo, Fundacentro, 1981. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-33 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+**Semestre 2**
 
-INSTITUTOFEDERAL PARANA 
+## **IFPR –** Campus Curitiba
 
-**Semestre 2** 
+Curso: Eixo Tecnológico: **TÉCNICO EM EDIFICAÇÕES** (Subsequente) **INFRAESTRUTURA** Componente Curricular: Carga Horária: 80h **Desenho Arquitetônico** _(horas aula – 50min)_
 
-## **IFPR –** Campus Curitiba 
+- EMENTA
 
-Curso: Eixo Tecnológico: **TÉCNICO EM EDIFICAÇÕES** (Subsequente) **INFRAESTRUTURA** Componente Curricular: Carga Horária: 80h **Desenho Arquitetônico** _(horas aula – 50min)_ 
+- 1. Introdução ao Desenho Arquitetônico e de Construção Civil (Simbologias e Representações); 2. O Lote ou terreno como elemento de construção (Estudo do Lote sobre o Levantamento Planialtimétrico para possível implantação do projeto); 3. Desenvolvimento dos desenhos do Projeto Arquitetônico dado, em vistas ortogonais (vistas principais e seccionais);
 
-- EMENTA 
+4. Circulação Horizontal e Vertical nas edificações (ambiente/projeto/escadas/rampas); 5. Coberturas: Resolução de polígonos de calhas, vistas ortogonais e seccionais;
 
-- 1. Introdução ao Desenho Arquitetônico e de Construção Civil (Simbologias e Representações); 2. O Lote ou terreno como elemento de construção (Estudo do Lote sobre o Levantamento Planialtimétrico para possível implantação do projeto); 3. Desenvolvimento dos desenhos do Projeto Arquitetônico dado, em vistas ortogonais (vistas principais e seccionais); 
+6. Desenvolvimento do Projeto Arquitetônico na representação de grafite e na ferramenta AUTOCAD.
 
-4. Circulação Horizontal e Vertical nas edificações (ambiente/projeto/escadas/rampas); 5. Coberturas: Resolução de polígonos de calhas, vistas ortogonais e seccionais; 
+Desenho Arquitetônico
 
-6. Desenvolvimento do Projeto Arquitetônico na representação de grafite e na ferramenta AUTOCAD. 
+## **BIBLIOGRAFIA BÁSICA**
 
-Desenho Arquitetônico 
+CARRANZA, R. **Escalas de Representação em Arquitetura** . [s.l.]: G&C, 2007.
 
-## **BIBLIOGRAFIA BÁSICA** 
+MONTENEGRO, Gildo A. **Desenho arquitetônico: para cursos técnicos de 2º grau e faculdades de arquitetura** . 4.ed. rev. e atual. São Paulo: Edgard Blucher, 2001.
 
-CARRANZA, R. **Escalas de Representação em Arquitetura** . [s.l.]: G&C, 2007. 
+NEUFERT, E.; NEUFERT, P. **A Arte de Projetar em Arquitetura** . Portugal: GG, 2004.
 
-MONTENEGRO, Gildo A. **Desenho arquitetônico: para cursos técnicos de 2º grau e faculdades de arquitetura** . 4.ed. rev. e atual. São Paulo: Edgard Blucher, 2001. 
+## YEE, R. **Desenho Arquitetônico: um compêndio visual de tipos e métodos** . Rio de Janeiro: LTC, 2012. **BIBLIOGRAFIA COMPLEMENTAR**
 
-NEUFERT, E.; NEUFERT, P. **A Arte de Projetar em Arquitetura** . Portugal: GG, 2004. 
+CHING, Francis D. K. **Dicionário visual de arquitetura** . 2. ed. São Paulo: Martins Fontes, 2010. LEGGITT, J. **Desenho de Arquitetura** . Porto Alegre: Bookman, 2004. MONSA. **Cubiertas / Coberturas** . [s.l.]: MONSA, 2010. MONSA. **Escaleras / Escadas** . [s.l.]: MONSA, 2011.
 
-## YEE, R. **Desenho Arquitetônico: um compêndio visual de tipos e métodos** . Rio de Janeiro: LTC, 2012. **BIBLIOGRAFIA COMPLEMENTAR** 
+SAAD, A. L. **Acessibilidade: guia prático para projeto de adaptações e de novas edificações** . São Paulo: PINI, 2011.
 
-CHING, Francis D. K. **Dicionário visual de arquitetura** . 2. ed. São Paulo: Martins Fontes, 2010. LEGGITT, J. **Desenho de Arquitetura** . Porto Alegre: Bookman, 2004. MONSA. **Cubiertas / Coberturas** . [s.l.]: MONSA, 2010. MONSA. **Escaleras / Escadas** . [s.l.]: MONSA, 2011. 
+34
 
-SAAD, A. L. **Acessibilidade: guia prático para projeto de adaptações e de novas edificações** . São Paulo: PINI, 2011. 
+INSTITUTOFEDERAL PARANA
 
-34 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-INSTITUTOFEDERAL PARANA 
+## **Semestre 2**
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## **IFPR –** Campus Curitiba
 
-## **Semestre 2** 
+Curso: Eixo Tecnológico: **TÉCNICO EM EDIFICAÇÕES** (Subsequente) **INFRAESTRUTURA** Componente Curricular: Carga Horária: 40h **Desenho Digital Avançado** _(horas aula – 50min)_ EMENTA
 
-## **IFPR –** Campus Curitiba 
+1. Espaço de papel;
 
-Curso: Eixo Tecnológico: **TÉCNICO EM EDIFICAÇÕES** (Subsequente) **INFRAESTRUTURA** Componente Curricular: Carga Horária: 40h **Desenho Digital Avançado** _(horas aula – 50min)_ EMENTA 
+2. Criação de elementos anotativos (textos, cotas e blocos);
 
-1. Espaço de papel; 
+3. Plotagem em escala a partir do espaço de papel;
 
-2. Criação de elementos anotativos (textos, cotas e blocos); 
+4. Uso de tabelas de penas para configuração das espessuras de linha na plotagem;
 
-3. Plotagem em escala a partir do espaço de papel; 
+5. Uso de atributos e variáveis do sistema;
 
-4. Uso de tabelas de penas para configuração das espessuras de linha na plotagem; 
+6. Criação de bibliotecas de blocos;
 
-5. Uso de atributos e variáveis do sistema; 
+7. Uso de referências externas e do gerenciamento de folhas;
 
-6. Criação de bibliotecas de blocos; 
+8. Noções básicas de modelagem tridimensional (maquete eletrônica).
 
-7. Uso de referências externas e do gerenciamento de folhas; 
+Desenho Digital Avançado
 
-8. Noções básicas de modelagem tridimensional (maquete eletrônica). 
+## **BIBLIOGRAFIA BÁSICA**
 
-Desenho Digital Avançado 
+BIZZELLI, M. H. S. S.; MILANELO, C. H. M. **Aulas Práticas de Corel Draw X5** . [s.l.]: Ciência Moderna, 2012. CURRY, Z. **Autocad 2009 para Design de Interior** . [s.l.]: Ciência Moderna, 2009.
 
-## **BIBLIOGRAFIA BÁSICA** 
+LEGGITT, J. **DESENHO DE Arquitetura** . Porto Alegre: Bookman, 2004. OLIVEIRA, M. B. **Google SketchUp Pro Aplicado ao Projeto Arquitetônico** . [s.l.]: Novatec, 2010.
 
-BIZZELLI, M. H. S. S.; MILANELO, C. H. M. **Aulas Práticas de Corel Draw X5** . [s.l.]: Ciência Moderna, 2012. CURRY, Z. **Autocad 2009 para Design de Interior** . [s.l.]: Ciência Moderna, 2009. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-LEGGITT, J. **DESENHO DE Arquitetura** . Porto Alegre: Bookman, 2004. OLIVEIRA, M. B. **Google SketchUp Pro Aplicado ao Projeto Arquitetônico** . [s.l.]: Novatec, 2010. 
+BRASWELL, M. S. **Autocad 2009 para Arquitetos e Projetistas de Interiores** . [s.l.]: Ciência Moderna, 2009.
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+CAVASSANI, G. **V-ray para Google Sketchup8: acabamento, iluminação e recursos avançados para maquete eletrônica** . [s.l.]:Érica, 2012.
 
-BRASWELL, M. S. **Autocad 2009 para Arquitetos e Projetistas de Interiores** . [s.l.]: Ciência Moderna, 2009. 
+GASPAR, J. **Google SketchUp Pro Avançado** . [s.l.]: Probooks, 2011.
 
-CAVASSANI, G. **V-ray para Google Sketchup8: acabamento, iluminação e recursos avançados para maquete eletrônica** . [s.l.]:Érica, 2012. 
+LEAKE, J. M.; BORGERSON, J. **Manual de desenho técnico para engenharia: desenho, modelagem e visualização** . Rio de Janeiro: Livros Técnicos e Científicos, 2010. LIMA, C. C. **Estudo dirigido de Autocad 2013: para Windows** . [s.l.] Érica, 2012.
 
-GASPAR, J. **Google SketchUp Pro Avançado** . [s.l.]: Probooks, 2011. 
+35
 
-LEAKE, J. M.; BORGERSON, J. **Manual de desenho técnico para engenharia: desenho, modelagem e visualização** . Rio de Janeiro: Livros Técnicos e Científicos, 2010. LIMA, C. C. **Estudo dirigido de Autocad 2013: para Windows** . [s.l.] Érica, 2012. 
+Ministerioda Educacao InstitutoFederaldoParana
 
-35 
+INSTITUTOFEDERAL PARANA
 
-Ministerioda Educacao InstitutoFederaldoParana 
+**Semestre 2**
 
-INSTITUTOFEDERAL PARANA 
+## **IFPR –** Campus Curitiba
 
-**Semestre 2** 
+Curso: Eixo Tecnológico: **TÉCNICO EM EDIFICAÇÕES** (Subsequente) **INFRAESTRUTURA** Componente Curricular: Carga Horária: 80h **Resistência dos Materiais** _(horas aula – 50min)_ EMENTA
 
-## **IFPR –** Campus Curitiba 
+1. Elementos estruturais lineares.
 
-Curso: Eixo Tecnológico: **TÉCNICO EM EDIFICAÇÕES** (Subsequente) **INFRAESTRUTURA** Componente Curricular: Carga Horária: 80h **Resistência dos Materiais** _(horas aula – 50min)_ EMENTA 
+2. Carregamentos externos.
 
-1. Elementos estruturais lineares. 
+3. Vínculos.
 
-2. Carregamentos externos. 
+4. Conceitos de hipoestaticidade, hiperestaticidade, eisostaticidade.
 
-3. Vínculos. 
+5. Equações de equilíbrio da estática.
 
-4. Conceitos de hipoestaticidade, hiperestaticidade, eisostaticidade. 
+6. Esforços axiais em barras isostáticas.
 
-5. Equações de equilíbrio da estática. 
+7. Treliça plana isostática (Método dos Nós).
 
-6. Esforços axiais em barras isostáticas. 
+8. Esforços internos de cisalhamento e flexão.
 
-7. Treliça plana isostática (Método dos Nós). 
+9. Características geométricas das seções de barras (área, centro de gravidade, momento estático, momento de inércia e raio de giração).
 
-8. Esforços internos de cisalhamento e flexão. 
+10. Modelo constitutivo dos materiais homogêneos, isotrópicos e elástico-lineares (Lei de Hooke). 11. Conceito de instabilidade por flambagem de barras prismáticas compostas por material homogêneo, isotrópico elástico-linear com o modelo clássico de Euler.
 
-9. Características geométricas das seções de barras (área, centro de gravidade, momento estático, momento de inércia e raio de giração). 
+Resistência dos Materiais
 
-10. Modelo constitutivo dos materiais homogêneos, isotrópicos e elástico-lineares (Lei de Hooke). 11. Conceito de instabilidade por flambagem de barras prismáticas compostas por material homogêneo, isotrópico elástico-linear com o modelo clássico de Euler. 
+## **BIBLIOGRAFIA BÁSICA**
 
-Resistência dos Materiais 
+ALMEIDA, Maria C. F. **Estruturas isostáticas.** 1º Ed. São Paulo: Oficina de Textos, 2009.
 
-## **BIBLIOGRAFIA BÁSICA** 
+BEER, F. P.; DEWOLF, J. T. **Resistência dos Materiais.** 1º Ed. São Paulo: Mc Graw Hill, 1991.
 
-ALMEIDA, Maria C. F. **Estruturas isostáticas.** 1º Ed. São Paulo: Oficina de Textos, 2009. 
+- BOTELHO, Manoel Henrique Campos. **Resistência dos Materiais: Para entender e gostar.** 1º Ed. São Paulo: Edgar Blücher, 2008.
 
-BEER, F. P.; DEWOLF, J. T. **Resistência dos Materiais.** 1º Ed. São Paulo: Mc Graw Hill, 1991. 
+HIBBELER, R. C. **Resistência dos materiais** . 7. ed. São Paulo: Pearson Prentice Hall, 2010.
 
-- BOTELHO, Manoel Henrique Campos. **Resistência dos Materiais: Para entender e gostar.** 1º Ed. São Paulo: Edgar Blücher, 2008. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-HIBBELER, R. C. **Resistência dos materiais** . 7. ed. São Paulo: Pearson Prentice Hall, 2010. 
+BEER, F. P.; JOHNSTON JR., E. R. **Resistência dos Materiais** . 3º Ed. São Paulo: Makron Books, 1995. HIBBELER, R. C. **Estática: Mecânica Para Engenharia.** 12º Ed. São Paulo: Pearson Education, 2011. TIMOSHENKO, S. P.; GERE, J. E. **Mecânica dos Sólidos - Vols. I e I.** 2º Ed. Rio de Janeiro: LTC, 1984. TIMOSHENKO, Stephan P. **Resistência dos Materiais. Vol. 2.** Rio de Janeiro: LTC, 1977.
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+36
 
-BEER, F. P.; JOHNSTON JR., E. R. **Resistência dos Materiais** . 3º Ed. São Paulo: Makron Books, 1995. HIBBELER, R. C. **Estática: Mecânica Para Engenharia.** 12º Ed. São Paulo: Pearson Education, 2011. TIMOSHENKO, S. P.; GERE, J. E. **Mecânica dos Sólidos - Vols. I e I.** 2º Ed. Rio de Janeiro: LTC, 1984. TIMOSHENKO, Stephan P. **Resistência dos Materiais. Vol. 2.** Rio de Janeiro: LTC, 1977. 
+Ministerioda Educacao InstitutoFederaldoParana
 
-36 
+INSTITUTOFEDERAL PARANA
 
-Ministerioda Educacao InstitutoFederaldoParana 
+## **Semestre 2**
 
-INSTITUTOFEDERAL PARANA 
-
-## **Semestre 2** 
-
-## **IFPR –** Campus Curitiba 
+## **IFPR –** Campus Curitiba
 
 |**IFPR –**Campusmpuspus Curitibaritibatibaibaba||
 |---|---|
@@ -1360,105 +1253,100 @@ INSTITUTOFEDERAL PARANA
 |Componente Curricular:|Carga Horária: 40h|
 |**Tecnologia do Concreto**|_(horas aula – 50min)_|
 
+## EMENTA
 
+1. Cimento Portland (histórico, definições, classificação e reações químicas)
 
-## EMENTA 
+2. Fases do Concreto (pasta, agregados, argamassa, ar aprisionado)
 
-1. Cimento Portland (histórico, definições, classificação e reações químicas) 
+3. Traço e relações importantes no concreto (água/cimento, água/materiais secos, consumo de cimento, teor de argamassa, teor de agregados)
 
-2. Fases do Concreto (pasta, agregados, argamassa, ar aprisionado) 
+4. Propriedades do Concreto Fresco (pega, trabalhabilidade, teor de ar incorporado, segregação, exsudação, deformações)
 
-3. Traço e relações importantes no concreto (água/cimento, água/materiais secos, consumo de cimento, teor de argamassa, teor de agregados) 
+5. Propriedades do Concreto Endurecido (alcalinidade, grau de hidratação, resistência à compressão e à tração, módulo de elasticidade)
 
-4. Propriedades do Concreto Fresco (pega, trabalhabilidade, teor de ar incorporado, segregação, exsudação, deformações) 
+6. Cura do Concreto
 
-5. Propriedades do Concreto Endurecido (alcalinidade, grau de hidratação, resistência à compressão e à tração, módulo de elasticidade) 
+7. Ensaios físicos
 
-6. Cura do Concreto 
+8. Dosagem de concreto
 
-7. Ensaios físicos 
+9. Aditivos (tipos, vantagens, cuidados) 10 Noções gerais de tópicos relacionados à tecnologia do concreto, como durabilidade
 
-8. Dosagem de concreto 
+Tecnologia do Concreto
 
-9. Aditivos (tipos, vantagens, cuidados) 10 Noções gerais de tópicos relacionados à tecnologia do concreto, como durabilidade 
+## **BIBLIOGRAFIA BÁSICA**
 
-Tecnologia do Concreto 
+ISAIA, Geraldo C **. Concreto: Ciência e tecnologia. Volumes I e II.** São Paulo: Ibracon, 2011.
 
-## **BIBLIOGRAFIA BÁSICA** 
+ISAIA, Geraldo C. **Concreto: ensino, pesquisa e realizações. Volumes I e II** . São Paulo: Ibracon, 2005. MEHTA, P. K.; MONTEIRO, P. J. M. **Concreto: Microestrutura, propriedades e Materiais.** São Paulo: Ibracon, 2008.
 
-ISAIA, Geraldo C **. Concreto: Ciência e tecnologia. Volumes I e II.** São Paulo: Ibracon, 2011. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-ISAIA, Geraldo C. **Concreto: ensino, pesquisa e realizações. Volumes I e II** . São Paulo: Ibracon, 2005. MEHTA, P. K.; MONTEIRO, P. J. M. **Concreto: Microestrutura, propriedades e Materiais.** São Paulo: Ibracon, 2008. 
+ISAIA, Geraldo C **. Concreto: Ciência e tecnologia. Volumes I e II.** São Paulo: Ibracon, 2011.
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+ISAIA, Geraldo C. **Concreto: ensino, pesquisa e realizações. Volumes I e II** . São Paulo: Ibracon, 2005.
 
-ISAIA, Geraldo C **. Concreto: Ciência e tecnologia. Volumes I e II.** São Paulo: Ibracon, 2011. 
+MEHTA, P. K.; MONTEIRO, P. J. M. **Concreto: Microestrutura, propriedades e Materiais.** São Paulo: Ibracon, 2008.ALVES, J.D. **Manual da Tecnologia do Concreto.** São Paulo:Nobel, 1978.
 
-ISAIA, Geraldo C. **Concreto: ensino, pesquisa e realizações. Volumes I e II** . São Paulo: Ibracon, 2005. 
+FALCÃO BAUER , L. A. **O concreto no Brasil: pré-fabricação, monumentos e fundações.** Rio de Janeiro: LTC, 2005.
 
-MEHTA, P. K.; MONTEIRO, P. J. M. **Concreto: Microestrutura, propriedades e Materiais.** São Paulo: Ibracon, 2008.ALVES, J.D. **Manual da Tecnologia do Concreto.** São Paulo:Nobel, 1978. 
+FUSCO, Péricles Brasiliense. **Tecnologia do Concreto Estrutural** . 1º Ed. São Paulo: Pini, 2008.
 
-FALCÃO BAUER , L. A. **O concreto no Brasil: pré-fabricação, monumentos e fundações.** Rio de Janeiro: LTC, 2005. 
+GOMES, P. C. C.; BARROS, A. R. **Métodos de Dosagem de Concreto Autoadensável** . 1º Ed. São Paulo: Pini, 2005.
 
-FUSCO, Péricles Brasiliense. **Tecnologia do Concreto Estrutural** . 1º Ed. São Paulo: Pini, 2008. 
+37
 
-GOMES, P. C. C.; BARROS, A. R. **Métodos de Dosagem de Concreto Autoadensável** . 1º Ed. São Paulo: Pini, 2005. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-37 
+INSTITUTOFEDERAL PARANA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## **Semestre 2**
 
-INSTITUTOFEDERAL PARANA 
+## **IFPR –** Campus Curitiba
 
-## **Semestre 2** 
+Curso: Eixo Tecnológico: **TÉCNICO EM EDIFICAÇÕES** (Subsequente) **INFRAESTRUTURA** Componente Curricular: Carga Horária: 80h **Práticas Básicas de Construção Civil** _(horas aula – 50min)_
 
-## **IFPR –** Campus Curitiba 
+EMENTA
 
-Curso: Eixo Tecnológico: **TÉCNICO EM EDIFICAÇÕES** (Subsequente) **INFRAESTRUTURA** Componente Curricular: Carga Horária: 80h **Práticas Básicas de Construção Civil** _(horas aula – 50min)_ 
+## 1. Locação
 
-EMENTA 
+2. Fôrmas
 
-## 1. Locação 
+3. Armaduras
 
-2. Fôrmas 
+4. Concretagem e cura
 
-3. Armaduras 
+5. Alvenaria  (locação, amarrações, nível e prumo). 6. Revestimento em argamassa (chapisco, emboço, requadro, reboco)
 
-4. Concretagem e cura 
+Práticas Básicas de Construção Civil
 
-5. Alvenaria  (locação, amarrações, nível e prumo). 6. Revestimento em argamassa (chapisco, emboço, requadro, reboco) 
+## **BIBLIOGRAFIA BÁSICA**
 
-Práticas Básicas de Construção Civil 
+- CASADO, Alberto; LORDSLEEN JUNIOR. **Execução e Inspeção de Alvenaria Racionalizada** . 3[a ] Edição. São Paulo: O Nome da Rosa, 2004.
 
-## **BIBLIOGRAFIA BÁSICA** 
+- NAZAR, Nilton. **Fôrmas e Escoramentos para Edifícios : Critérios para dimensionamento e escolha do sistema** . 1[a ] Edição. São Paulo: Pini, 2007.
 
-- CASADO, Alberto; LORDSLEEN JUNIOR. **Execução e Inspeção de Alvenaria Racionalizada** . 3[a ] Edição. São Paulo: O Nome da Rosa, 2004. 
+- SALGADO, Júlio. **Mestre de Obras: Gestão Básica para Construção Civil** . 1[a ] Edição. São Paulo: Érica, 2011.
 
-- NAZAR, Nilton. **Fôrmas e Escoramentos para Edifícios : Critérios para dimensionamento e escolha do sistema** . 1[a ] Edição. São Paulo: Pini, 2007. 
+YAZIGI, Walid. **A Técnica de Edificar** . 10[a ] Edição. São Paulo: Pini, 2011.
 
-- SALGADO, Júlio. **Mestre de Obras: Gestão Básica para Construção Civil** . 1[a ] Edição. São Paulo: Érica, 2011. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-YAZIGI, Walid. **A Técnica de Edificar** . 10[a ] Edição. São Paulo: Pini, 2011. 
+AZEREDO, H. A. **O edifício até sua cobertura** . 2[a ] Edição. São Paulo: Edgard Blucher, 2004.
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+BORGES, Alberto de Campos. **Prática das pequenas construções** . 9. ed. rev. ampl. São Paulo: Blücher, 2011. v.1
 
-AZEREDO, H. A. **O edifício até sua cobertura** . 2[a ] Edição. São Paulo: Edgard Blucher, 2004. 
+PINI (org.). **Construção Passo a Passo, vol. 1 e 2** . 2[a ] Edição. São Paulo: Pini, 2009.
 
-BORGES, Alberto de Campos. **Prática das pequenas construções** . 9. ed. rev. ampl. São Paulo: Blücher, 2011. v.1 
+SEBRAE; SINDUSCON. **Qualidade na Aquisição de Materiais de Construção de Obras** . 7[a ] Edição.  Pini, 2004.
 
-PINI (org.). **Construção Passo a Passo, vol. 1 e 2** . 2[a ] Edição. São Paulo: Pini, 2009. 
+38
 
-SEBRAE; SINDUSCON. **Qualidade na Aquisição de Materiais de Construção de Obras** . 7[a ] Edição.  Pini, 2004. 
+Ministerioda Educacao InstitutoFederaldoParana
 
-38 
+INSTITUTOFEDERAL PARANA
 
-Ministerioda Educacao InstitutoFederaldoParana 
-
-INSTITUTOFEDERAL PARANA 
-
-**==> picture [494 x 98] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
 ||||
 |---|---|---|
 |Semestre 2|
@@ -1469,36 +1357,30 @@ INSTITUTOFEDERAL PARANA
 |Técnicas Complementares de Construção Civil|(horas aula – 50min)|
 |EMENTA|
 
-**----- End of picture text -----**<br>
+1. Vedações horizontais: conceito e funções;
 
+2. Tipos de Lajes;
 
-1. Vedações horizontais: conceito e funções; 
+3. Contrapiso e caimento, desnível de área molhada;
 
-2. Tipos de Lajes; 
+4. Tipos de Impermeabilização;
 
-3. Contrapiso e caimento, desnível de área molhada; 
+5. Telhados;
 
-4. Tipos de Impermeabilização; 
+6. Tipos de pisos e pavimentos (madeira, pedra, cerâmica, granilite, blocos intertravados, etc) 7. Revestimentos cerâmicos e pintura;
 
-5. Telhados; 
+8. Noções gerais sobre a importância da prevenção de problemas, e da prática da manutenção para a durabilidade das construções: Falhas construtivas comuns e suas consequências. Vantagens econômicas do correto projeto, execução e manutenção em relação às situações de reparo de falhas e reexecução.
 
-6. Tipos de pisos e pavimentos (madeira, pedra, cerâmica, granilite, blocos intertravados, etc) 7. Revestimentos cerâmicos e pintura; 
+Técnicas Complementares de Construção Civil **BIBLIOGRAFIA BÁSICA**
 
-8. Noções gerais sobre a importância da prevenção de problemas, e da prática da manutenção para a durabilidade das construções: Falhas construtivas comuns e suas consequências. Vantagens econômicas do correto projeto, execução e manutenção em relação às situações de reparo de falhas e reexecução. 
+- MELHADO, Silvio Burratino; SOUZA, Ana Lucia Rocha de. **Projeto e Execução de Lajes Racionalizadas** . O Nome da Rosa, 2002.
 
-Técnicas Complementares de Construção Civil **BIBLIOGRAFIA BÁSICA** 
+- SABBATINI, Fernando Henrique; BAIA, Luciana Leone Maciel. **Projeto e Execução de Revestimentos de Argamassa** . 1[a ] Edição. O Nome da Rosa, 2000.
 
-- MELHADO, Silvio Burratino; SOUZA, Ana Lucia Rocha de. **Projeto e Execução de Lajes Racionalizadas** . O Nome da Rosa, 2002. 
+- THOMAZ, Ercio. **Trincas em Edifícios: Causas, Prevenção e Recuperação** . 1[a] Edição. São Paulo, Pini, 2002.
 
-- SABBATINI, Fernando Henrique; BAIA, Luciana Leone Maciel. **Projeto e Execução de Revestimentos de Argamassa** . 1[a ] Edição. O Nome da Rosa, 2000. 
+- UEMOTO, Kai Loh. **Projeto, Execução e Inspeção de Pinturas** . 2[a ] Edição. O Nome da Rosa, 2005. **BIBLIOGRAFIA COMPLEMENTAR**
 
-- THOMAZ, Ercio. **Trincas em Edifícios: Causas, Prevenção e Recuperação** . 1[a] Edição. São Paulo, Pini, 2002. 
-
-- UEMOTO, Kai Loh. **Projeto, Execução e Inspeção de Pinturas** . 2[a ] Edição. O Nome da Rosa, 2005. **BIBLIOGRAFIA COMPLEMENTAR** 
-
-**==> picture [479 x 69] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
 ||||||
 |---|---|---|---|---|
 |BARROS, Mercia Maria SemensatoBottura de; RIBEIRO, Fabiana Andrade.|Juntas de Movimentação em|
@@ -1507,430 +1389,413 @@ Técnicas Complementares de Construção Civil **BIBLIOGRAFIA BÁSICA**
 |Blucher, 2010.|
 |PINI.|Fichas de Materiais e Serviços: Portas, Forros e Telhados|. 2|[a ]|Edição. São Paulo: Pini, 2011.|
 
-**----- End of picture text -----**<br>
+39
 
+INSTITUTOFEDERAL PARANA
 
-39 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-INSTITUTOFEDERAL PARANA 
+## **Semestre 3**
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## **IFPR –** Campus Curitiba
 
-## **Semestre 3** 
+Curso: Eixo Tecnológico: **TÉCNICO EM EDIFICAÇÕES** (Subsequente) **INFRAESTRUTURA** Componente Curricular: Carga Horária: 80h **Mecânica dos Solos e Fundações** _(horas aula – 50min)_
 
-## **IFPR –** Campus Curitiba 
+EMENTA
 
-Curso: Eixo Tecnológico: **TÉCNICO EM EDIFICAÇÕES** (Subsequente) **INFRAESTRUTURA** Componente Curricular: Carga Horária: 80h **Mecânica dos Solos e Fundações** _(horas aula – 50min)_ 
+1. Origem e formação dos solos, com descrição das características dos principais tipos de solos do ponto de vista de interação com os edifícios e/ou rodovias;
 
-EMENTA 
+2. Estado físico do solo com caracterização das três fases constituintes;
 
-1. Origem e formação dos solos, com descrição das características dos principais tipos de solos do ponto de vista de interação com os edifícios e/ou rodovias; 
+3. Ensaios de caracterização dos solos: granulometria, sedimentação e limites de Atterberg;
 
-2. Estado físico do solo com caracterização das três fases constituintes; 
+4. Principais métodos de classificação dos solos: classificação unificada e sistema rodoviário de classificação;
 
-3. Ensaios de caracterização dos solos: granulometria, sedimentação e limites de Atterberg; 
+5. Conceitos de tensões nos solos, devidas ao peso próprio, pressão neutra e pressões efetivas;
 
-4. Principais métodos de classificação dos solos: classificação unificada e sistema rodoviário de classificação; 
+6. Conceitos de permeabilidade dos solos;
 
-5. Conceitos de tensões nos solos, devidas ao peso próprio, pressão neutra e pressões efetivas; 
+7. Ensaio SPT;
 
-6. Conceitos de permeabilidade dos solos; 
+8. Fundações superficiais;
 
-7. Ensaio SPT; 
+9. Fundações profundas;
 
-8. Fundações superficiais; 
+10. Rebaixamento de lençol freático;
 
-9. Fundações profundas; 
+11. Estabilidade de taludes.
 
-10. Rebaixamento de lençol freático; 
+Mecânica dos Solos e Fundações
 
-11. Estabilidade de taludes. 
+## **BIBLIOGRAFIA BÁSICA**
 
-Mecânica dos Solos e Fundações 
+- ALONSO, Urbano Rodrigues. **Exercícios de Fundação** . 1a ed. Edgar Blucher. São Paulo, 1943.
 
-## **BIBLIOGRAFIA BÁSICA** 
+- CAPUTO, Homero Pinto. **Mecânica dos Solos e suas Aplicações 1 - Fundamentos** . 6a ed. São Paulo. LTC, 1996.
 
-- ALONSO, Urbano Rodrigues. **Exercícios de Fundação** . 1a ed. Edgar Blucher. São Paulo, 1943. 
+- CAPUTO, Homero Pinto. **Mecânica dos Solos e suas Aplicações 2 - Mecânica das Rochas - Fundações - Obras de Terra** . 6a ed. LTC. São Paulo, 1995.
 
-- CAPUTO, Homero Pinto. **Mecânica dos Solos e suas Aplicações 1 - Fundamentos** . 6a ed. São Paulo. LTC, 1996. 
+- CAPUTO, Homero Pinto. **Mecânica dos Solos e suas Aplicações 3 - Exercícios e Problemas Resolvidos** . 4a ed. LTC. São Paulo, 1994.
 
-- CAPUTO, Homero Pinto. **Mecânica dos Solos e suas Aplicações 2 - Mecânica das Rochas - Fundações - Obras de Terra** . 6a ed. LTC. São Paulo, 1995. 
+- DAS, Braja M. **Fundamentos de Engenharia Geotécnica** . 7a ed. São Paulo. Thomson Learnig, 2011.
 
-- CAPUTO, Homero Pinto. **Mecânica dos Solos e suas Aplicações 3 - Exercícios e Problemas Resolvidos** . 4a ed. LTC. São Paulo, 1994. 
+- PINTO, Carlos Souza. **Curso básico de mecânica dos Solos** . 3a ed. São Paulo. Oficina de Texto, 2006. REBELLO, Yopanan Conrado Pereira. **Fundações – Guia prático de projeto, execução e dimensionamento** . [s.l.]: Zigurate, 2008.
 
-- DAS, Braja M. **Fundamentos de Engenharia Geotécnica** . 7a ed. São Paulo. Thomson Learnig, 2011. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-- PINTO, Carlos Souza. **Curso básico de mecânica dos Solos** . 3a ed. São Paulo. Oficina de Texto, 2006. REBELLO, Yopanan Conrado Pereira. **Fundações – Guia prático de projeto, execução e dimensionamento** . [s.l.]: Zigurate, 2008. 
+- CINTRA, Jose Carlos A.; AOKI, Nelson. **Fundações por estacas: Projeto Geotécnico** .1a ed. São Paulo. Oficina de Texto, 2010.
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+- CINTRA, Jose Carlos A.; AOKI, Nelson; ALBIERO, Jose Henrique. **Mecânica dos Solos e suas Aplicações 3 - Exercícios e Problemas Resolvidos** . 1a ed. São Paulo. Oficina de Texto, 2011.
 
-- CINTRA, Jose Carlos A.; AOKI, Nelson. **Fundações por estacas: Projeto Geotécnico** .1a ed. São Paulo. Oficina de Texto, 2010. 
+- LOPES, Francisco de Rezende; VELLOSO, Dirceu de Alencar. **Fundações - Volume Único** . São Paulo. Oficina de Textos, 2011.
 
-- CINTRA, Jose Carlos A.; AOKI, Nelson; ALBIERO, Jose Henrique. **Mecânica dos Solos e suas Aplicações 3 - Exercícios e Problemas Resolvidos** . 1a ed. São Paulo. Oficina de Texto, 2011. 
+- LOPES, Francisco de Rezende; VELLOSO, Dirceu de Alencar. **Previsão e Controle das Fundações** . São Paulo, 1991.
 
-- LOPES, Francisco de Rezende; VELLOSO, Dirceu de Alencar. **Fundações - Volume Único** . São Paulo. Oficina de Textos, 2011. 
+- MÍ FIORI, Alberto Pio; CARMIGNANI, Luigi. **Fundamentos de Mecânica dos Solos e das Rochas** . 6a ed. Curitiba. UFPR, 2009.
 
-- LOPES, Francisco de Rezende; VELLOSO, Dirceu de Alencar. **Previsão e Controle das Fundações** . São Paulo, 1991. 
+- VARGAS, M. **Introdução à Mecânica dos Solos** . McGraw-Hill,1977.
 
-- MÍ FIORI, Alberto Pio; CARMIGNANI, Luigi. **Fundamentos de Mecânica dos Solos e das Rochas** . 6a ed. Curitiba. UFPR, 2009. 
+40
 
-- VARGAS, M. **Introdução à Mecânica dos Solos** . McGraw-Hill,1977. 
+INSTITUTOFEDERAL PARANA
 
-40 
+Ministerioda Educacao<br>InstitutoFederaldoParana<br>
 
-INSTITUTOFEDERAL PARANA 
+Semestre 3<br>IFPR –  Campus Curitiba<br>Curso:  Eixo Tecnológico:<br>TÉCNICO EM EDIFICAÇÕES (Subsequente) INFRAESTRUTURA<br>Componente Curricular:  Carga Horária: 80h<br>Topografia (horas aula – 50min)<br>EMENTA<br>TOPOGRAFIA BÁSICA<br>1. Introdução à topografia – conceituação.<br>2. Levantamento por medidas lineares.<br>3. Unidades topográficas.<br>4. Sistemas de coordenadas.<br>
 
-**==> picture [96 x 19] intentionally omitted <==**
+5. Revisão trigonométrica, lei dos senos e cossenos – aplicações. 6. Rumo e Azimute, transformações e correlações de vante e de ré. 7. Levantamento por irradiação, inserção e ordenadas.
 
-**----- Start of picture text -----**<br>
-Ministerioda Educacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+8. Poligonal aberta, fechada e amarrada e Cálculo de área por DDM e áreas extra-poligonais. TOPOGRAFIA APLICADA
 
+9. Nivelamento geométrico (simples e composto) e nivelamento trigonométrico
 
-**==> picture [494 x 170] intentionally omitted <==**
+10. Prática de nivelamento geométrico e trigonométrico
 
-**----- Start of picture text -----**<br>
-Semestre 3<br>IFPR –  Campus Curitiba<br>Curso:  Eixo Tecnológico:<br>TÉCNICO EM EDIFICAÇÕES (Subsequente) INFRAESTRUTURA<br>Componente Curricular:  Carga Horária: 80h<br>Topografia (horas aula – 50min)<br>EMENTA<br>TOPOGRAFIA BÁSICA<br>1. Introdução à topografia – conceituação.<br>2. Levantamento por medidas lineares.<br>3. Unidades topográficas.<br>4. Sistemas de coordenadas.<br>**----- End of picture text -----**<br>
+11. Taqueometria
 
+12. Prática de taqueometria
 
-5. Revisão trigonométrica, lei dos senos e cossenos – aplicações. 6. Rumo e Azimute, transformações e correlações de vante e de ré. 7. Levantamento por irradiação, inserção e ordenadas. 
+13. Topologia e curvas de nível (interpolação)
 
-8. Poligonal aberta, fechada e amarrada e Cálculo de área por DDM e áreas extra-poligonais. TOPOGRAFIA APLICADA 
+14. Terraplenagem e volumes de corte e aterro por compensação
 
-9. Nivelamento geométrico (simples e composto) e nivelamento trigonométrico 
+15. Locação de obra
 
-10. Prática de nivelamento geométrico e trigonométrico 
+16. Memoriais e normas de topografia.
 
-11. Taqueometria 
+Topografia
 
-12. Prática de taqueometria 
+## **BIBLIOGRAFIA BÁSICA**
 
-13. Topologia e curvas de nível (interpolação) 
+BORGES, A. **Topografia Aplicada à Engenharia Civil** .Vol. 1. 2a ed. São Paulo. Edgard Blucher,1977. BORGES, A. **Topografia Aplicada à Engenharia Civil** .Vol. 2 1a ed. São Paulo. Edgard Blucher, 1999. MCCORMICK, John. **Topografia** . 3a ed. LTC. Rio de Janeiro. LTC GEN, 2007. SÃO JOÃO, José Celso. **Topografia** . 1a ed. Curitiba. UFPR,1996.
 
-14. Terraplenagem e volumes de corte e aterro por compensação 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-15. Locação de obra 
+BORGES, A. **Exercícios de Topografia** . 3a ed. São Paulo. Edgard Blucher, 1975.
 
-16. Memoriais e normas de topografia. 
+LOCH, Carlos; CORDINI, Jucilei. **Topografia Contemporânea** . 3a ed. Florianópolis. UFSC LV, 2007. MATOS, Joao Luis; CASACA, Joao Martins; BAIO, Jose Miguel. **Topografia Geral** . 4a ed. Rio de Janeiro. LTC, 2007.
 
-Topografia 
+MinisteriodaEducacao<br>INSTITUTOFEDERAL<br>InstitutoFederaldoParana<br>PARANA<br>
 
-## **BIBLIOGRAFIA BÁSICA** 
+## **Semestre 3**
 
-BORGES, A. **Topografia Aplicada à Engenharia Civil** .Vol. 1. 2a ed. São Paulo. Edgard Blucher,1977. BORGES, A. **Topografia Aplicada à Engenharia Civil** .Vol. 2 1a ed. São Paulo. Edgard Blucher, 1999. MCCORMICK, John. **Topografia** . 3a ed. LTC. Rio de Janeiro. LTC GEN, 2007. SÃO JOÃO, José Celso. **Topografia** . 1a ed. Curitiba. UFPR,1996. 
+## **IFPR –** Campus Curitiba
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+Curso: Eixo Tecnológico: **TÉCNICO EM EDIFICAÇÕES** (Subsequente) **INFRAESTRUTURA** Componente Curricular: Carga Horária: 80h **Sistemas Estruturais** _(horas aula – 50min)_ EMENTA
 
-BORGES, A. **Exercícios de Topografia** . 3a ed. São Paulo. Edgard Blucher, 1975. 
+## 1. Análise estrutural
 
-LOCH, Carlos; CORDINI, Jucilei. **Topografia Contemporânea** . 3a ed. Florianópolis. UFSC LV, 2007. MATOS, Joao Luis; CASACA, Joao Martins; BAIO, Jose Miguel. **Topografia Geral** . 4a ed. Rio de Janeiro. LTC, 2007. 
+   - Elementos estruturais: lajes, vigas, pilares, fundações;
 
-41 
+   - Vínculos: tipos e simbologia;
 
-**==> picture [450 x 22] intentionally omitted <==**
+   - Tipos de carregamento: cargas concentradas e distribuídas;
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>INSTITUTOFEDERAL<br>InstitutoFederaldoParana<br>PARANA<br>**----- End of picture text -----**<br>
+   - Reações de apoio;
 
+   - Esforços: normais, cortantes e momentos fletores em uma viga isostática;
 
-## **Semestre 3** 
+   - Diagrama de esforços cortante e momento fletor;
 
-## **IFPR –** Campus Curitiba 
+2. Comportamentos e deformações estruturais, diagramas tensão-deformação de cálculo - ELU;
 
-Curso: Eixo Tecnológico: **TÉCNICO EM EDIFICAÇÕES** (Subsequente) **INFRAESTRUTURA** Componente Curricular: Carga Horária: 80h **Sistemas Estruturais** _(horas aula – 50min)_ EMENTA 
+3. Pré-dimensionamento de elementos estruturais (tesouras, lajes, vigas e pilares curtos);
 
-## 1. Análise estrutural 
+4. Dimensionamento de viga retangular a flexão com armadura simples;
 
-   - Elementos estruturais: lajes, vigas, pilares, fundações; 
+5. Dimensionamento de viga retangular ao cisalhamento ;
 
-   - Vínculos: tipos e simbologia; 
+6. Dimensionamento de pilar com dispensa da Análise dos Efeitos Locais de 2ª ordem; 7. Leitura de desenhos de projeto e de detalhamento estrutural.
 
-   - Tipos de carregamento: cargas concentradas e distribuídas; 
+Sistemas Estruturais
 
-   - Reações de apoio; 
+## **BIBLIOGRAFIA BÁSICA**
 
-   - Esforços: normais, cortantes e momentos fletores em uma viga isostática; 
+- ADÃO, Francisco Xavier;HEMERLY,  Adriano Chequetto. **Concreto Armado - Novo Milênio Cálculo Prático e Econômico.** 2º Ed. Rio de Janeiro: Interciência, 2010.
 
-   - Diagrama de esforços cortante e momento fletor; 
+- BOTELHO, Manoel Henrique Campos; MARCHETTI, Osvaldemar. **Concreto armado eu te amo. Vol. 1.** 7º Ed. São Paulo: Blucher. 2013.
 
-2. Comportamentos e deformações estruturais, diagramas tensão-deformação de cálculo - ELU; 
+- CARVALHO, Roberto Chust; FIGUEREDO FILHO, Jasson Rodrigues. **Cálculo e detalhamento de estruturas de concreto armado.** 3º Ed. São Carlos: EdUFSCar, 2010.
 
-3. Pré-dimensionamento de elementos estruturais (tesouras, lajes, vigas e pilares curtos); 
+MELCONIAN, Sarkis. **Mecânica técnica e resistência dos materiais** . 18. ed. São Paulo: Érica, 2007.
 
-4. Dimensionamento de viga retangular a flexão com armadura simples; 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-5. Dimensionamento de viga retangular ao cisalhamento ; 
+FUSCO, Péricles Brasiliense. **Tecnologia do Concreto Estrutural** . 1º Ed. São Paulo:Pini, 2008. MARGARIDO,Aluízio Fontana. **Fundamentos de Estruturas.** 3º Ed. São Paulo: Zigurate. 2007.
 
-6. Dimensionamento de pilar com dispensa da Análise dos Efeitos Locais de 2ª ordem; 7. Leitura de desenhos de projeto e de detalhamento estrutural. 
+MOLITERNO,Antonio. **Caderno de Estruturas em Alvenaria e Concreto Simples** . 1º Ed. São Paulo: Edgar Blücher, 1995.
 
-Sistemas Estruturais 
+PFEIL, Walter. **Estruturas de madeira** . 6. ed. rev. e ampl. Rio de Janeiro: Livros Técnicos e Científicos, 2003. PINHEIRO,Libânio Miranda; CARVALHO,Roberto Chust. **Cálculo e Detalhamento de Estruturas Usuais de Concreto Armado - Volume 2.** 1º Ed.São Paulo:Pini, 2009.
 
-## **BIBLIOGRAFIA BÁSICA** 
+42
 
-- ADÃO, Francisco Xavier;HEMERLY,  Adriano Chequetto. **Concreto Armado - Novo Milênio Cálculo Prático e Econômico.** 2º Ed. Rio de Janeiro: Interciência, 2010. 
+INSTITUTOFEDERAL PARANA
 
-- BOTELHO, Manoel Henrique Campos; MARCHETTI, Osvaldemar. **Concreto armado eu te amo. Vol. 1.** 7º Ed. São Paulo: Blucher. 2013. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-- CARVALHO, Roberto Chust; FIGUEREDO FILHO, Jasson Rodrigues. **Cálculo e detalhamento de estruturas de concreto armado.** 3º Ed. São Carlos: EdUFSCar, 2010. 
+## **Semestre 3**
 
-MELCONIAN, Sarkis. **Mecânica técnica e resistência dos materiais** . 18. ed. São Paulo: Érica, 2007. 
+## **IFPR –** Campus Curitiba
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+Curso: Eixo Tecnológico: **TÉCNICO EM EDIFICAÇÕES** (Subsequente) **INFRAESTRUTURA** Componente Curricular: Carga Horária: 40h **Teoria das Instalações Elétricas Prediais** _(horas aula – 50min)_
 
-FUSCO, Péricles Brasiliense. **Tecnologia do Concreto Estrutural** . 1º Ed. São Paulo:Pini, 2008. MARGARIDO,Aluízio Fontana. **Fundamentos de Estruturas.** 3º Ed. São Paulo: Zigurate. 2007. 
+EMENTA
 
-MOLITERNO,Antonio. **Caderno de Estruturas em Alvenaria e Concreto Simples** . 1º Ed. São Paulo: Edgar Blücher, 1995. 
+1. Elementos básicos de eletricidade.
 
-PFEIL, Walter. **Estruturas de madeira** . 6. ed. rev. e ampl. Rio de Janeiro: Livros Técnicos e Científicos, 2003. PINHEIRO,Libânio Miranda; CARVALHO,Roberto Chust. **Cálculo e Detalhamento de Estruturas Usuais de Concreto Armado - Volume 2.** 1º Ed.São Paulo:Pini, 2009. 
+2. Normas genéricas, equipamentos e simbologia de projeto normalizada.
 
-42 
+3. Medição de tensões e correntes.
 
-INSTITUTOFEDERAL PARANA 
+4. Instalações elétricas básicas.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+5. Instalações elétricas específicas na construção civil.
 
-## **Semestre 3** 
+6. Iluminamentos mínimos exigidos nos ambientes.
 
-## **IFPR –** Campus Curitiba 
+7. Dimensionamento de circuitos, condutores e disjuntores.
 
-Curso: Eixo Tecnológico: **TÉCNICO EM EDIFICAÇÕES** (Subsequente) **INFRAESTRUTURA** Componente Curricular: Carga Horária: 40h **Teoria das Instalações Elétricas Prediais** _(horas aula – 50min)_ 
+8. Previsão de carga instalada.
 
-EMENTA 
+9. Dispositivos de proteção.
 
-1. Elementos básicos de eletricidade. 
+10. Dimensionamento de circuitos elétricos prediais.
 
-2. Normas genéricas, equipamentos e simbologia de projeto normalizada. 
+11. Memorial descritivo.
 
-3. Medição de tensões e correntes. 
+12. Entrada de serviço.
 
-4. Instalações elétricas básicas. 
+Teoria das Instalações Elétricas Prediais **BIBLIOGRAFIA BÁSICA**
 
-5. Instalações elétricas específicas na construção civil. 
+CAVALIN, G. e CERVELIN, S. **Instalações Elétricas Prediais.** 14° ED. São Paulo: Érica, 2006.
 
-6. Iluminamentos mínimos exigidos nos ambientes. 
+CAVALIN, G. e CERVELIN. **Instalações elétricas prediais: teoria & prática.** Curitiba: Base Editorial, 2010. LIMA FILHO, Domingos Leite. **Projetos de instalações elétricas prediais** . 12. ed. rev. São Paulo: Érica, 2011.
 
-7. Dimensionamento de circuitos, condutores e disjuntores. 
+WALENIA, Paulo Sergio. **Projetos Elétricos Prediais.** Curitiba: Base Editorial, 2011.
 
-8. Previsão de carga instalada. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-9. Dispositivos de proteção. 
+CARVALHO JUNIOR,Roberto de. **Instalações Elétricas e o Projeto de Arquitetura.** 3º Ed. São Paulo: Blucher, 2011.
 
-10. Dimensionamento de circuitos elétricos prediais. 
+CREDER, Hélio. **Instalações Elétricas** . 15º Ed. Rio de Janeiro: LTC, 2007.
 
-11. Memorial descritivo. 
+PrysmianCables& Systems. **Instalações Elétricas Residenciais** . São Paulo, 2006.
 
-12. Entrada de serviço. 
+ABNT NBR 13534:2004/2008. **Instalações elétricas de baixa tensão - Requisitos específicos para instalação em estabelecimentos assistenciais de saúde.** Rio de Janeiro. ABNT NBR 5444:1989. **Símbolos gráficos para instalações elétricas prediais.** Rio de Janeiro.
 
-Teoria das Instalações Elétricas Prediais **BIBLIOGRAFIA BÁSICA** 
+43
 
-CAVALIN, G. e CERVELIN, S. **Instalações Elétricas Prediais.** 14° ED. São Paulo: Érica, 2006. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-CAVALIN, G. e CERVELIN. **Instalações elétricas prediais: teoria & prática.** Curitiba: Base Editorial, 2010. LIMA FILHO, Domingos Leite. **Projetos de instalações elétricas prediais** . 12. ed. rev. São Paulo: Érica, 2011. 
+INSTITUTOFEDERAL PARANA
 
-WALENIA, Paulo Sergio. **Projetos Elétricos Prediais.** Curitiba: Base Editorial, 2011. 
+## **Semestre 3**
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+## **IFPR –** Campus Curitiba
 
-CARVALHO JUNIOR,Roberto de. **Instalações Elétricas e o Projeto de Arquitetura.** 3º Ed. São Paulo: Blucher, 2011. 
+Curso: **TÉCNICO EM EDIFICAÇÕES** (Subsequente)
 
-CREDER, Hélio. **Instalações Elétricas** . 15º Ed. Rio de Janeiro: LTC, 2007. 
+Componente Curricular: **Teoria das Instalações Hidráulicas Prediais**
 
-PrysmianCables& Systems. **Instalações Elétricas Residenciais** . São Paulo, 2006. 
+Eixo Tecnológico: **INFRAESTRUTURA**
 
-ABNT NBR 13534:2004/2008. **Instalações elétricas de baixa tensão - Requisitos específicos para instalação em estabelecimentos assistenciais de saúde.** Rio de Janeiro. ABNT NBR 5444:1989. **Símbolos gráficos para instalações elétricas prediais.** Rio de Janeiro. 
+Carga Horária: 40h _(horas aula – 50min)_
 
-43 
+## EMENTA
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+1. Sistemas de distribuição de água;
 
-INSTITUTOFEDERAL PARANA 
+2. Simbologia para projeto;
 
-## **Semestre 3** 
+3. Sistema de abastecimento e distribuição de água fria predial;
 
-## **IFPR –** Campus Curitiba 
+4. Princípios de projeto de instalações domiciliares de água fria;
 
-Curso: **TÉCNICO EM EDIFICAÇÕES** (Subsequente) 
+5. Instalações de Esgotos e Águas Pluviais (Coleta de águas servidas e pluviais);
 
-Componente Curricular: **Teoria das Instalações Hidráulicas Prediais** 
+6. Princípios de projeto de águas servidas e pluviais domiciliares;
 
-Eixo Tecnológico: **INFRAESTRUTURA** 
+7. Sistema de produção e distribuição de água quente predial.
 
-Carga Horária: 40h _(horas aula – 50min)_ 
+8. Sistema de prevenção e combate a incêndios;
 
-## EMENTA 
+9. Sistemas de instalação de gás.
 
-1. Sistemas de distribuição de água; 
+Teoria das Instalações Hidráulicas Prediais
 
-2. Simbologia para projeto; 
+## **BIBLIOGRAFIA BÁSICA**
 
-3. Sistema de abastecimento e distribuição de água fria predial; 
+CARVALHO JUNIOR, Roberto de. **Instalações Hidráulicas e o Projeto de Arquitetura** . 4[a ] Edição. Edgard Blucher, 2011.
 
-4. Princípios de projeto de instalações domiciliares de água fria; 
+SALGADO, Jullio. **Instalação Hidráulica Residencial: A prática do dia a dia** . 1[a ] Edição. Érica, 2010.
 
-5. Instalações de Esgotos e Águas Pluviais (Coleta de águas servidas e pluviais); 
+BOTELHO, Manoel Henrique Campos; RIBEIRO JR, Geraldo de Andrade. **Instalações Hidráulicas Prediais: usando tubos de PVC e PPR** . 3[a ] Edição. Edgard Blucher, 2010.
 
-6. Princípios de projeto de águas servidas e pluviais domiciliares; 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-7. Sistema de produção e distribuição de água quente predial. 
+COSTA, Regina Pacca; TELLES, Dirceu D’Alkmin. **Reuso da água: conceitos, teorias e práticas** . 2[a ] Edição. Edgard Blucher, 2010.
 
-8. Sistema de prevenção e combate a incêndios; 
+GRIBBIN, John E. **Introdução à Hidráulica, Hidrologia e Gestão** . 1[a ] Edição. Cengage, 2008.
 
-9. Sistemas de instalação de gás. 
+NUVOLARI, Ariovaldo. **Esgoto Sanitário** . 1[a ] Edição. Edgard Blucher, 2011.
 
-Teoria das Instalações Hidráulicas Prediais 
+SOUZA, Hebert Lopes de; LESSA, Ana Karina Marques da Cunha. **Gestão da Manutenção Predial: Uma aplicação prática** . 1[a ] Edição. Qualitymark, 2010.
 
-## **BIBLIOGRAFIA BÁSICA** 
+44
 
-CARVALHO JUNIOR, Roberto de. **Instalações Hidráulicas e o Projeto de Arquitetura** . 4[a ] Edição. Edgard Blucher, 2011. 
+INSTITUTOFEDERAL PARANA
 
-SALGADO, Jullio. **Instalação Hidráulica Residencial: A prática do dia a dia** . 1[a ] Edição. Érica, 2010. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-BOTELHO, Manoel Henrique Campos; RIBEIRO JR, Geraldo de Andrade. **Instalações Hidráulicas Prediais: usando tubos de PVC e PPR** . 3[a ] Edição. Edgard Blucher, 2010. 
+## **Semestre 3**
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+## **IFPR –** Campus Curitiba
 
-COSTA, Regina Pacca; TELLES, Dirceu D’Alkmin. **Reuso da água: conceitos, teorias e práticas** . 2[a ] Edição. Edgard Blucher, 2010. 
+Curso: **TÉCNICO EM EDIFICAÇÕESCNICO EM EDIFICAÇÕESNICO EM EDIFICAÇÕESCO EM EDIFICAÇÕES EM EDIFICAÇÕESCAÇÕESAÇÕESÇÕESESS** (Subsequente)nte)te)
 
-GRIBBIN, John E. **Introdução à Hidráulica, Hidrologia e Gestão** . 1[a ] Edição. Cengage, 2008. 
+Curso: Eixo Tecnológico: **TÉCNICO EM EDIFICAÇÕESCNICO EM EDIFICAÇÕESNICO EM EDIFICAÇÕESCO EM EDIFICAÇÕES EM EDIFICAÇÕESCAÇÕESAÇÕESÇÕESESS** (Subsequente)nte)te) **INFRAESTRUTURA** Componente Curricular: Carga Horária: 80h **Projeto Arquitetônico** _(horas aula – 50min)_
 
-NUVOLARI, Ariovaldo. **Esgoto Sanitário** . 1[a ] Edição. Edgard Blucher, 2011. 
+## EMENTA
 
-SOUZA, Hebert Lopes de; LESSA, Ana Karina Marques da Cunha. **Gestão da Manutenção Predial: Uma aplicação prática** . 1[a ] Edição. Qualitymark, 2010. 
+1. Visão geral sobre a relação entre a edificação e seu entorno:
 
-44 
+   - Relação com o entorno natural (orientação solar, ventos, temperatura e umidade);
 
-INSTITUTOFEDERAL PARANA 
+   - Relação com o entorno urbano (interface público-privada, respeito ao patrimônio histórico);
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+2. Visão geral de conceitos compositivos (proporção, contraste, repetição e ritmo);
 
-## **Semestre 3** 
+3. Programa de Necessidades e Estudo Preliminar;
 
-## **IFPR –** Campus Curitiba 
+4. Legislação urbanística e anteprojeto para aprovação (projeto legal);
 
-Curso: **TÉCNICO EM EDIFICAÇÕESCNICO EM EDIFICAÇÕESNICO EM EDIFICAÇÕESCO EM EDIFICAÇÕES EM EDIFICAÇÕESCAÇÕESAÇÕESÇÕESESS** (Subsequente)nte)te) 
+5. Conceitos de Desenho Universal e de Acessibilidade;
 
-Curso: Eixo Tecnológico: **TÉCNICO EM EDIFICAÇÕESCNICO EM EDIFICAÇÕESNICO EM EDIFICAÇÕESCO EM EDIFICAÇÕES EM EDIFICAÇÕESCAÇÕESAÇÕESÇÕESESS** (Subsequente)nte)te) **INFRAESTRUTURA** Componente Curricular: Carga Horária: 80h **Projeto Arquitetônico** _(horas aula – 50min)_ 
+6. Noções de Conforto Ambiental;
 
-## EMENTA 
+7. Elaboração de Anteprojeto de uma residência;
 
-1. Visão geral sobre a relação entre a edificação e seu entorno: 
+8. Estudos de obras arquitetônicas de referência.
 
-   - Relação com o entorno natural (orientação solar, ventos, temperatura e umidade); 
+Projeto Arquitetônico
 
-   - Relação com o entorno urbano (interface público-privada, respeito ao patrimônio histórico); 
+## **BIBLIOGRAFIA BÁSICA**
 
-2. Visão geral de conceitos compositivos (proporção, contraste, repetição e ritmo); 
+BROWN, G. Z. **Sol, vento e luz: estratégias para o projeto de arquitetura** . Porto Alegre: Bookman, 2004.
 
-3. Programa de Necessidades e Estudo Preliminar; 
+FROTA, A. B.; SCHIFFER, S. R. **Manual do Conforto Térmico** . São Paulo: Studio Nobel, 2009. GUERRINI, D. P. **Iluminação: teoria e projeto** . [s.l.]: Érica, 2007.
 
-4. Legislação urbanística e anteprojeto para aprovação (projeto legal); 
+KARLEN, M. **Planejamento de Espaços Internos: com exercícios** . Porto Alegre: Bookman, 2010.
 
-5. Conceitos de Desenho Universal e de Acessibilidade; 
+NEUFERT, E.; NEUFERT, P. **A Arte de Projetar em Arquitetura** . Portugal: GG, 2004. SAAD, A. L. **Acessibilidade: guia prático para projeto de adaptações e de novas edificações** . São Paulo: PINI, 2011.
 
-6. Noções de Conforto Ambiental; 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-7. Elaboração de Anteprojeto de uma residência; 
+CAMBIAGHI, S. **Desenho Universal: métodos e técnicas para arquitetos e urbanistas** . São Paulo: SENAC, 2007.
 
-8. Estudos de obras arquitetônicas de referência. 
+CHING, F. D. K. **Arquitetura: forma, espaço e ordem** . São Paulo: Martins Fontes, 2008.
 
-Projeto Arquitetônico 
+CHOAY, F. **O Patrimônio em Questão** . [s.l.] : Fino Traço, 2011.
 
-## **BIBLIOGRAFIA BÁSICA** 
+SILVA, M. L. **Iluminação: simplificando o projeto** . [s.l.]: Ciência Moderna, 2009.
 
-BROWN, G. Z. **Sol, vento e luz: estratégias para o projeto de arquitetura** . Porto Alegre: Bookman, 2004. 
+VIANNA, N. S.; GONÇALVES, J. C. S. **Iluminação e Arquitetura** . 3ª ed. São Paulo: Geros, 2007.
 
-FROTA, A. B.; SCHIFFER, S. R. **Manual do Conforto Térmico** . São Paulo: Studio Nobel, 2009. GUERRINI, D. P. **Iluminação: teoria e projeto** . [s.l.]: Érica, 2007. 
+YEE, R. **Desenho Arquitetônico: um compêndio visual de tipos e métodos** . Rio de Janeiro: LTC, 2012. KOCH, Wilfried. **Dicionário dos estilos arquitetônicos** . 3. ed. São Paulo: Martins Fontes, 2008.
 
-KARLEN, M. **Planejamento de Espaços Internos: com exercícios** . Porto Alegre: Bookman, 2010. 
+45
 
-NEUFERT, E.; NEUFERT, P. **A Arte de Projetar em Arquitetura** . Portugal: GG, 2004. SAAD, A. L. **Acessibilidade: guia prático para projeto de adaptações e de novas edificações** . São Paulo: PINI, 2011. 
+INSTITUTOFEDERAL PARANA
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-CAMBIAGHI, S. **Desenho Universal: métodos e técnicas para arquitetos e urbanistas** . São Paulo: SENAC, 2007. 
+**Semestre 3**
 
-CHING, F. D. K. **Arquitetura: forma, espaço e ordem** . São Paulo: Martins Fontes, 2008. 
+## **IFPR –** Campus Curitiba
 
-CHOAY, F. **O Patrimônio em Questão** . [s.l.] : Fino Traço, 2011. 
+Curso: **TÉCNICO EM EDIFICAÇÕES** (Subsequente)
 
-SILVA, M. L. **Iluminação: simplificando o projeto** . [s.l.]: Ciência Moderna, 2009. 
+Componente Curricular: **Práticas Complementares e Instalações Prediais**
 
-VIANNA, N. S.; GONÇALVES, J. C. S. **Iluminação e Arquitetura** . 3ª ed. São Paulo: Geros, 2007. 
+Eixo Tecnológico: **INFRAESTRUTURA**
 
-YEE, R. **Desenho Arquitetônico: um compêndio visual de tipos e métodos** . Rio de Janeiro: LTC, 2012. KOCH, Wilfried. **Dicionário dos estilos arquitetônicos** . 3. ed. São Paulo: Martins Fontes, 2008. 
+Carga Horária: 80h _(horas aula – 50min)_
 
-45 
+EMENTA
 
-INSTITUTOFEDERAL PARANA 
+_Prática de Instalações Elétricas:_
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+2. Prática de instalação hidráulica completa
 
-**Semestre 3** 
+1. Manuseio de equipamentos e de água fria e esgoto de um banheiro ferramentas utilizadas na execução de residencial. instalações elétricas. 3. Testes de vazamento e funcionamento.
 
-## **IFPR –** Campus Curitiba 
+2. Prática de execução de emendas em condutores elétricos e colocação de conectores. 3. Prática de distribuição de fios, de instalação de interruptores de luz e tomadas, luminárias e quadros de luz.
 
-Curso: **TÉCNICO EM EDIFICAÇÕES** (Subsequente) 
+4. Execução de sistemas coletores de águas pluviais.
 
-Componente Curricular: **Práticas Complementares e Instalações Prediais** 
+## _Práticas Construtivas:_
 
-Eixo Tecnológico: **INFRAESTRUTURA** 
+1. Piso (contrapiso, caimento)
 
-Carga Horária: 80h _(horas aula – 50min)_ 
+2. Impermeabilização;
 
-EMENTA 
+3. Esquadrias
 
-_Prática de Instalações Elétricas:_ 
+## _Prática de Instalações Hidráulicas:_
 
-2. Prática de instalação hidráulica completa 
+   4. Drywall.
 
-1. Manuseio de equipamentos e de água fria e esgoto de um banheiro ferramentas utilizadas na execução de residencial. instalações elétricas. 3. Testes de vazamento e funcionamento. 
+   5. Revestimento cerâmico
 
-2. Prática de execução de emendas em condutores elétricos e colocação de conectores. 3. Prática de distribuição de fios, de instalação de interruptores de luz e tomadas, luminárias e quadros de luz. 
+1. Manuseio e prática com equipamentos e ferramentas utilizadas na execução de instalações hidráulicas e sanitárias.
 
-4. Execução de sistemas coletores de águas pluviais. 
+6. Pintura.
 
-## _Práticas Construtivas:_ 
+Práticas Complementares e Instalações Prediais **BIBLIOGRAFIA BÁSICA**
 
-1. Piso (contrapiso, caimento) 
+AZEREDO, H, A. **O edifício até sua cobertura** . 2[a ] Edição. São Paulo: Edgard Blucher, 2004.
 
-2. Impermeabilização; 
+PINI (org.) **Construção Passo a Passo, vol. 1 e 2** . 2[a ] Edição. São Paulo: Pini, 2009.
 
-3. Esquadrias 
+SALGADO, Júlio. **Mestre de Obras: Gestão Básica para Construção Civil** . 1[a ] Edição. São Paulo: Érica, 2011.
 
-## _Prática de Instalações Hidráulicas:_ 
+U S Navy. **Construção Civil Teoria e Prática, vol. 3** . 1[a ] Edição. São Paulo: Inovação, 2005.
 
-   4. Drywall. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-   5. Revestimento cerâmico 
+BORGES, Alberto de Campos. **Prática das pequenas construções** . 6.ed. rev. ampl. São Paulo: Blücher, 2011. v.2.
 
-1. Manuseio e prática com equipamentos e ferramentas utilizadas na execução de instalações hidráulicas e sanitárias. 
+CAMPANTE, Edmilson Freitas. BAÍA, Luciana Leone Maciel. **Projeto e Execução de Revestimento Cerâmico** . 2[a ] Edição. O Nome da Rosa.
 
-6. Pintura. 
+CAVALIN, G; CERVELIN, S. **Instalações Elétricas Prediais: Teoria e Prática** . 22[a ] Edição. Paraná: Base, 2008.
 
-Práticas Complementares e Instalações Prediais **BIBLIOGRAFIA BÁSICA** 
+UEMOTO, Kai Loh. **Projeto, Execução e Inspeção de Pinturas** . 2[a ] Edição. O nome da Rosa, 2005.
 
-AZEREDO, H, A. **O edifício até sua cobertura** . 2[a ] Edição. São Paulo: Edgard Blucher, 2004. 
+46
 
-PINI (org.) **Construção Passo a Passo, vol. 1 e 2** . 2[a ] Edição. São Paulo: Pini, 2009. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-SALGADO, Júlio. **Mestre de Obras: Gestão Básica para Construção Civil** . 1[a ] Edição. São Paulo: Érica, 2011. 
-
-U S Navy. **Construção Civil Teoria e Prática, vol. 3** . 1[a ] Edição. São Paulo: Inovação, 2005. 
-
-## **BIBLIOGRAFIA COMPLEMENTAR** 
-
-BORGES, Alberto de Campos. **Prática das pequenas construções** . 6.ed. rev. ampl. São Paulo: Blücher, 2011. v.2. 
-
-CAMPANTE, Edmilson Freitas. BAÍA, Luciana Leone Maciel. **Projeto e Execução de Revestimento Cerâmico** . 2[a ] Edição. O Nome da Rosa. 
-
-CAVALIN, G; CERVELIN, S. **Instalações Elétricas Prediais: Teoria e Prática** . 22[a ] Edição. Paraná: Base, 2008. 
-
-UEMOTO, Kai Loh. **Projeto, Execução e Inspeção de Pinturas** . 2[a ] Edição. O nome da Rosa, 2005. 
-
-46 
-
-MinisteriodaEducacao InstitutoFederaldoParana 
-
-INSTITUTOFEDERAL PARANA 
+INSTITUTOFEDERAL PARANA
 
 |INSTITUTOFEDERAL<br>PARANA<br>InstitutoFederaldoParana|INSTITUTOFEDERAL<br>PARANA<br>InstitutoFederaldoParana|INSTITUTOFEDERAL<br>PARANA<br>InstitutoFederaldoParana|
 |---|---|---|
@@ -1946,33 +1811,25 @@ INSTITUTOFEDERAL PARANA
 |**BIBLIOGRAFIA COMPLEMENTAR**|||
 |WALISIEWICZ, Marek.**Energia Alternativa: Solar, Eólica, hidrelétrica e de Biocombustíveis**. 1ª ed. São<br>Paulo: Publifolha, 2010.<br>LOWY, Michael.**Ecologia e Socialismo**. São Paulo: Cortez, 2005.<br>MATOS, K. M. da C.; MATTOS, A.**Valoração econômica do meio ambiente**. São Carlos: FAPESP, 2004.|||
 
+KLEINBACH, Merlin; REIS, Lineu B. **Energia e Meio Ambiente** . [s.l.]: Cengage Learning, 2010.
 
+MARQUES NETO, Jose da Costa. **Gestão dos Resíduos de Construção e Demolição no Brasil** . [s.l.]: Rima, 2005.
 
-KLEINBACH, Merlin; REIS, Lineu B. **Energia e Meio Ambiente** . [s.l.]: Cengage Learning, 2010. 
+ROAF, S. **A adaptação de Edificações e Cidades ás Mudanças Climáticas** . Porto Alegre: Bookaman, 2009. **BIBLIOGRAFIA COMPLEMENTAR**
 
-MARQUES NETO, Jose da Costa. **Gestão dos Resíduos de Construção e Demolição no Brasil** . [s.l.]: Rima, 2005. 
+WALISIEWICZ, Marek. **Energia Alternativa: Solar, Eólica, hidrelétrica e de Biocombustíveis** . 1ª ed. São Paulo: Publifolha, 2010. LOWY, Michael. **Ecologia e Socialismo** . São Paulo: Cortez, 2005. MATOS, K. M. da C.; MATTOS, A. **Valoração econômica do meio ambiente** . São Carlos: FAPESP, 2004.
 
-ROAF, S. **A adaptação de Edificações e Cidades ás Mudanças Climáticas** . Porto Alegre: Bookaman, 2009. **BIBLIOGRAFIA COMPLEMENTAR** 
+Ministerioda Educacao<br>INSTITUTOFEDERAL<br>InstitutoFederaldoParana<br>PARANA<br>Semestre 4<br>IFPR –  Campus Curitiba<br>Curso:  Eixo Tecnológico:<br>TÉCNICO EM EDIFICAÇÕES (Subsequente) INFRAESTRUTURA<br>Componente Curricular:  Carga Horária: 80h<br>Gestão de Obras (horas aula – 50min)<br>EMENTA<br>1. Princípios e conceitos de gestão da qualidade;<br>- PDCA<br>- 5S<br>2. Certificações no Brasil;<br>- ISO9000<br>- PBQP-H<br>- ISO14000<br>3. LeanConstruction e sistemas de garantia de qualidade;<br>4. Controle de produtividade.<br>Gestão de Obras<br>BIBLIOGRAFIA BÁSICA<br>BALLESTERO-ALVAREZ, Maria Esmeralda.  Gestão de Qualidade, Produção e Operações . 2ª ed. São<br>Paulo: Atlas, 2012. [INCLUIR]<br>MAXIMIANO, Antonio C. A.  Administração de Projetos: como transformar ideias em resultados . 4ª ed.<br>São Paulo: Atlas, 2010.[INCLUIR]<br>SACOMANO, J. B. et al.  Administração de Produção na Construção Civil . [s.l.]: Arte & Ciência, 2005.<br>SOUZA, Roberto de; TAMAKI, Marcos Roberto.  Gestão de Materiais de Construção . [s.l.]: O Nome da Rosa,<br>2005.<br>SOUZA, Ubiraci E. Lemes de.  Como Reduzir Perdas nos Canteiros: Manual de Gestão do Consumo de<br>Materiais na Construção Civil.  1ª ed. São Paulo. PINI, 2005.<br>BIBLIOGRAFIA COMPLEMENTAR<br>CARVALHO, Pedro Carlos de.  O Programa 5S e a Qualidade Total . [s.l.]: Alinea, 2011.<br>LIKER, Jeffrey K.  O Modelo Toyota: princípios de gestão do maior fabricante do mundo . Porto Alegre:<br>Bookman, 2005.<br>SLACK, Nigel ; JOHNSON, Robert; CHAMBERS, Stuart.  Administração da Produção . 3ª ed. São Paulo:<br>Atlas, 2009.<br>ANTUNES, J. et al.  Sistemas de Produção: conceitos e práticas para projetos e gestão da produção<br>enxuta . Porto Alegre: Bookman, 2008. [INCLUIR]<br>PMI – Project Manegement Institute.  PMBOK: Guia do Conhecimento em Gerenciamento de Projetos .<br>[s.l.]: Saraiva, 2012. [INCLUIR]<br>
 
-WALISIEWICZ, Marek. **Energia Alternativa: Solar, Eólica, hidrelétrica e de Biocombustíveis** . 1ª ed. São Paulo: Publifolha, 2010. LOWY, Michael. **Ecologia e Socialismo** . São Paulo: Cortez, 2005. MATOS, K. M. da C.; MATTOS, A. **Valoração econômica do meio ambiente** . São Carlos: FAPESP, 2004. 
+48
 
-47 
+Ministerioda Educacao InstitutoFederaldoParana
 
-**==> picture [507 x 586] intentionally omitted <==**
+INSTITUTOFEDERAL PARANA
 
-**----- Start of picture text -----**<br>
-Ministerioda Educacao<br>INSTITUTOFEDERAL<br>InstitutoFederaldoParana<br>PARANA<br>Semestre 4<br>IFPR –  Campus Curitiba<br>Curso:  Eixo Tecnológico:<br>TÉCNICO EM EDIFICAÇÕES (Subsequente) INFRAESTRUTURA<br>Componente Curricular:  Carga Horária: 80h<br>Gestão de Obras (horas aula – 50min)<br>EMENTA<br>1. Princípios e conceitos de gestão da qualidade;<br>- PDCA<br>- 5S<br>2. Certificações no Brasil;<br>- ISO9000<br>- PBQP-H<br>- ISO14000<br>3. LeanConstruction e sistemas de garantia de qualidade;<br>4. Controle de produtividade.<br>Gestão de Obras<br>BIBLIOGRAFIA BÁSICA<br>BALLESTERO-ALVAREZ, Maria Esmeralda.  Gestão de Qualidade, Produção e Operações . 2ª ed. São<br>Paulo: Atlas, 2012. [INCLUIR]<br>MAXIMIANO, Antonio C. A.  Administração de Projetos: como transformar ideias em resultados . 4ª ed.<br>São Paulo: Atlas, 2010.[INCLUIR]<br>SACOMANO, J. B. et al.  Administração de Produção na Construção Civil . [s.l.]: Arte & Ciência, 2005.<br>SOUZA, Roberto de; TAMAKI, Marcos Roberto.  Gestão de Materiais de Construção . [s.l.]: O Nome da Rosa,<br>2005.<br>SOUZA, Ubiraci E. Lemes de.  Como Reduzir Perdas nos Canteiros: Manual de Gestão do Consumo de<br>Materiais na Construção Civil.  1ª ed. São Paulo. PINI, 2005.<br>BIBLIOGRAFIA COMPLEMENTAR<br>CARVALHO, Pedro Carlos de.  O Programa 5S e a Qualidade Total . [s.l.]: Alinea, 2011.<br>LIKER, Jeffrey K.  O Modelo Toyota: princípios de gestão do maior fabricante do mundo . Porto Alegre:<br>Bookman, 2005.<br>SLACK, Nigel ; JOHNSON, Robert; CHAMBERS, Stuart.  Administração da Produção . 3ª ed. São Paulo:<br>Atlas, 2009.<br>ANTUNES, J. et al.  Sistemas de Produção: conceitos e práticas para projetos e gestão da produção<br>enxuta . Porto Alegre: Bookman, 2008. [INCLUIR]<br>PMI – Project Manegement Institute.  PMBOK: Guia do Conhecimento em Gerenciamento de Projetos .<br>[s.l.]: Saraiva, 2012. [INCLUIR]<br>**----- End of picture text -----**<br>
+## **Semestre 4**
 
-
-48 
-
-Ministerioda Educacao InstitutoFederaldoParana 
-
-INSTITUTOFEDERAL PARANA 
-
-## **Semestre 4** 
-
-## **IFPR –** Campus Curitiba 
+## **IFPR –** Campus Curitiba
 
 |INSTITUTOFEDERAL<br>PARANA<br>InstitutoFederaldoParana|INSTITUTOFEDERAL<br>PARANA<br>InstitutoFederaldoParana|
 |---|---|
@@ -1987,685 +1844,673 @@ INSTITUTOFEDERAL PARANA
 |**BIBLIOGRAFIA COMPLEMENTAR**||
 |CARDOSO, Roberto Sales.**Orçamento de Obras em Foco: Um novo olhar sobre a engenharia de custos**.<br>2ª ed. São Paulo. PINI, 2011.<br>CARVALHO, Deusvaldo.**Orçamento e contabilidade pública: teoria, prática e mais de 800 exercícios**. 12ª<br>ed. Campus, 2010.<br>COÊLHO, Ronaldo Sérgio de Araújo.**Orçamentação na Construção de Edificações**. 1ª ed. UEMA, 2011.<br>SOUZA, Ubiraci E. Lemes de.**Como Reduzir Perdas nos Canteiros: Manual de Gestão do Consumo de**<br>**Materiais na Construção Civil.**1ª ed. São Paulo. PINI, 2005.<br>TISAKA, Maçahico.**Orçamento na Construção Civil - Consultoria, Projeto e Execução**. 2 ed. São Paulo.<br>PINI, 2011.||
 
+49
 
+INSTITUTOFEDERAL PARANA
 
-49 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-INSTITUTOFEDERAL PARANA 
+## **Semestre 4**
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## **IFPR –** Campus Curitiba
 
-## **Semestre 4** 
+Curso: **TÉCNICO EM EDIFICAÇÕES** (Subsequente)
 
-## **IFPR –** Campus Curitiba 
+Componente Curricular: **Planejamento de Obras**
 
-Curso: **TÉCNICO EM EDIFICAÇÕES** (Subsequente) 
+Eixo Tecnológico: **INFRAESTRUTURA** Carga Horária: 80h _(horas aula – 50min)_
 
-Componente Curricular: **Planejamento de Obras** 
+## EMENTA
 
-Eixo Tecnológico: **INFRAESTRUTURA** Carga Horária: 80h _(horas aula – 50min)_ 
+1. Técnicas Básicas de Planejamento;
 
-## EMENTA 
+2. Tecnologias Modernas de Planejamento;
 
-1. Técnicas Básicas de Planejamento; 
+3. Integração do Planejamento e a Tecnologia de Informação;
 
-2. Tecnologias Modernas de Planejamento; 
+4. Curva ABC e Redes de planejamento PERT/COM;
 
-3. Integração do Planejamento e a Tecnologia de Informação; 
+5. Planejamento de empreendimentos;
 
-4. Curva ABC e Redes de planejamento PERT/COM; 
+-
 
-5. Planejamento de empreendimentos; 
+- 6. Cronograma Físico Financeiro, Gráfico de Gantt e Histograma.
 
-- 
+## Planejamento de Obras
 
-- 6. Cronograma Físico Financeiro, Gráfico de Gantt e Histograma. 
+## **BIBLIOGRAFIA BÁSICA**
 
-## Planejamento de Obras 
+LIMMER, Carl Vicent. **Planejamento, Orçamento e Controle de Projetos e Obras** . Rio de Janeiro. LTC, 1997.
 
-## **BIBLIOGRAFIA BÁSICA** 
+MATTOS, A. D. **Planejamento e controle de obras** . São Paulo. PINI, 2010.
 
-LIMMER, Carl Vicent. **Planejamento, Orçamento e Controle de Projetos e Obras** . Rio de Janeiro. LTC, 1997. 
+SALGADO, Julio (et al). **Mestre de Obras: Gestão básica para construção civil** . 1 ed. ERICA, 2011. SANTOS, Adriana de Paula Lacerda; JUNGLES, AntonioEdésio. **Como Gerenciar as Compras de Materiais na Construção Civil** . 1ª ed. São Paulo. PINI, 2008.
 
-MATTOS, A. D. **Planejamento e controle de obras** . São Paulo. PINI, 2010. 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-SALGADO, Julio (et al). **Mestre de Obras: Gestão básica para construção civil** . 1 ed. ERICA, 2011. SANTOS, Adriana de Paula Lacerda; JUNGLES, AntonioEdésio. **Como Gerenciar as Compras de Materiais na Construção Civil** . 1ª ed. São Paulo. PINI, 2008. 
+GOLDMAN, Pedrinho. **Introdução ao Planejamento e Controle de Custos na Construção Civil Brasileira** . 4 ed. São Paulo. PINI, 2004.
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+MENDES, João Ricardo Barroca. **Gerenciamento de Projetos** . 1ª ed. FGV, 2009.
 
-GOLDMAN, Pedrinho. **Introdução ao Planejamento e Controle de Custos na Construção Civil Brasileira** . 4 ed. São Paulo. PINI, 2004. 
+NETTO, A. V. **Como gerenciar construções** . 1ª Ed. São Paulo. PINI, 1988. REZENDE, Antonio Carlos. **Gerenciamento de projetos, obras e instalações** . IMAM, 2008. SILVA, Alexsandro Amarante da. **Planejamento e Controle de Empreendimentos com Ms Project 2007** . [s.l.]: Ciência Moderna, 2008.
 
-MENDES, João Ricardo Barroca. **Gerenciamento de Projetos** . 1ª ed. FGV, 2009. 
+SOUZA, Roberto. **Qualidade na Aquisição de Materiais e Execução de Obras** . 1ª Ed. São Paulo. PINI, 1996.
 
-NETTO, A. V. **Como gerenciar construções** . 1ª Ed. São Paulo. PINI, 1988. REZENDE, Antonio Carlos. **Gerenciamento de projetos, obras e instalações** . IMAM, 2008. SILVA, Alexsandro Amarante da. **Planejamento e Controle de Empreendimentos com Ms Project 2007** . [s.l.]: Ciência Moderna, 2008. 
+VEIEIRA, Helio Flavio. **Logística Aplicada à Construção Civil** . 1ª Ed. São Paulo. PINI.
 
-SOUZA, Roberto. **Qualidade na Aquisição de Materiais e Execução de Obras** . 1ª Ed. São Paulo. PINI, 1996. 
+MinisteriodaEducacao<br>INSTITUTOFEDERAL<br>InstitutoFederaldoParana<br>PARANA<br>
 
-VEIEIRA, Helio Flavio. **Logística Aplicada à Construção Civil** . 1ª Ed. São Paulo. PINI. 
+Semestre 4<br>IFPR –  Campus Curitiba<br>Curso:  Eixo Tecnológico:<br>TÉCNICO EM EDIFICAÇÕES (Subsequente) INFRAESTRUTURA<br>Componente Curricular:  Carga Horária: 160h<br>Projeto Integrado (horas aula – 50min)<br>EMENTA<br>1. Projeto Arquitetônico Executivo:<br> Modulação de eixos estruturais e de alvenaria;<br><br>Especificação de revestimentos;<br><br>Especificação de esquadrias;<br> Detalhamento de áreas molhadas;<br><br>Paginação de revestimentos cerâmicos;<br><br>Detalhamentos construtivos (guarda-corpo, corrimão, degraus, desníveis,<br>impermeabilizações, beirais, arremates, pingadeiras, rufos)<br>2. Projetos Complementares:<br><br>Projeto Elétrico<br><br>Projeto Hidráulico<br><br>Projeto Águas Pluviais<br>3. Planejamento e orçamento da obra;<br>4. Memorial descritivo e justificativo do projeto.<br>Projeto Integrado<br>BIBLIOGRAFIA BÁSICA<br>ASBEA.  Detalhes em Arquitetura .  [s.l.]: J. J. Carol, 2010.<br>BEINHAUSER, P.  Atlas de Detalhes Construtivos . [s,l.]: GG Brasil, 2012.<br>KEELER, M.; BURKE, B.  Fundamentos de Projeto de Edificações Sustentáveis . Porto Alegre: Bookman,<br>2010.<br>REIS, Paulo Mourao.  Preparação de Obras: construção civil . [s.l.]: Publindustria, 2010.<br>REIS, L. B.; ROMERO, M. A.  Eficiência Energética em Edificios .  [s.l.]: Manole, 2012.<br>
 
-50 
+## **BIBLIOGRAFIA COMPLEMENTAR**
 
-**==> picture [450 x 22] intentionally omitted <==**
+LITTLEFIELD, D. **Manual do Arquiteto: planejamento, dimensionamento e projeto** . Porto Alegre: Bookman, 2011.
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>INSTITUTOFEDERAL<br>InstitutoFederaldoParana<br>PARANA<br>**----- End of picture text -----**<br>
+LUCINI, H. C. **Manual Técnico de Modulação de Vãos de Esquadrias** .  São Paulo: PINI, 2001. MELHADO, S. **Coordenação de Projetos de Edificações** . [s.l.]: O Nome da Rosa, 2006. VAN LENGEN, J. **Manual do Arquiteto Descalço** . [s.l.]: Emporio do Livro, 2008.
 
+## BIBLIOGRAFIA DO CURSO
 
-**==> picture [497 x 408] intentionally omitted <==**
+BÁSICA
 
-**----- Start of picture text -----**<br>
-Semestre 4<br>IFPR –  Campus Curitiba<br>Curso:  Eixo Tecnológico:<br>TÉCNICO EM EDIFICAÇÕES (Subsequente) INFRAESTRUTURA<br>Componente Curricular:  Carga Horária: 160h<br>Projeto Integrado (horas aula – 50min)<br>EMENTA<br>1. Projeto Arquitetônico Executivo:<br> Modulação de eixos estruturais e de alvenaria;<br><br>Especificação de revestimentos;<br><br>Especificação de esquadrias;<br> Detalhamento de áreas molhadas;<br><br>Paginação de revestimentos cerâmicos;<br><br>Detalhamentos construtivos (guarda-corpo, corrimão, degraus, desníveis,<br>impermeabilizações, beirais, arremates, pingadeiras, rufos)<br>2. Projetos Complementares:<br><br>Projeto Elétrico<br><br>Projeto Hidráulico<br><br>Projeto Águas Pluviais<br>3. Planejamento e orçamento da obra;<br>4. Memorial descritivo e justificativo do projeto.<br>Projeto Integrado<br>BIBLIOGRAFIA BÁSICA<br>ASBEA.  Detalhes em Arquitetura .  [s.l.]: J. J. Carol, 2010.<br>BEINHAUSER, P.  Atlas de Detalhes Construtivos . [s,l.]: GG Brasil, 2012.<br>KEELER, M.; BURKE, B.  Fundamentos de Projeto de Edificações Sustentáveis . Porto Alegre: Bookman,<br>2010.<br>REIS, Paulo Mourao.  Preparação de Obras: construção civil . [s.l.]: Publindustria, 2010.<br>REIS, L. B.; ROMERO, M. A.  Eficiência Energética em Edificios .  [s.l.]: Manole, 2012.<br>**----- End of picture text -----**<br>
+ADÃO, Francisco Xavier;HEMERLY,  Adriano Chequetto. **Concreto Armado - Novo Milênio Cálculo Prático e Econômico.** 2º Ed. Rio de Janeiro: Interciência, 2010.
 
+AGOPYAN, V.; JOHN, V. M. **O Desafioda Sustentabilidade na Construção Civil** . [s.l.]: Edgard Blucher, 2011.
 
-## **BIBLIOGRAFIA COMPLEMENTAR** 
+51
 
-LITTLEFIELD, D. **Manual do Arquiteto: planejamento, dimensionamento e projeto** . Porto Alegre: Bookman, 2011. 
+MinisteriodaEducacao INSTITUTOFEDERAL InstitutoFederaldoParana PARANA
 
-LUCINI, H. C. **Manual Técnico de Modulação de Vãos de Esquadrias** .  São Paulo: PINI, 2001. MELHADO, S. **Coordenação de Projetos de Edificações** . [s.l.]: O Nome da Rosa, 2006. VAN LENGEN, J. **Manual do Arquiteto Descalço** . [s.l.]: Emporio do Livro, 2008. 
+ALMEIDA, Maria C. F. **Estruturas isostáticas.** 1º Ed. São Paulo: Oficina de Textos, 2009.
 
-## BIBLIOGRAFIA DO CURSO 
+ALONSO, Urbano Rodrigues. **Exercícios de Fundação** . 1a ed. Edgar Blucher. São Paulo, 1943.
 
-BÁSICA 
+ALVES, William Pereira. **Informática: Microsoft Office Word 2010 e Microsoft Office Excel 2010** . São Paulo: Érica, 2012.
 
-ADÃO, Francisco Xavier;HEMERLY,  Adriano Chequetto. **Concreto Armado - Novo Milênio Cálculo Prático e Econômico.** 2º Ed. Rio de Janeiro: Interciência, 2010. 
+ASADO, Alberto; LORDSLEEN JUNIOR. **Execução e Inspeção de Alvenaria Racionalizada** . 3[a ] Edição. São Paulo: O Nome da Rosa, 2004.
 
-AGOPYAN, V.; JOHN, V. M. **O Desafioda Sustentabilidade na Construção Civil** . [s.l.]: Edgard Blucher, 2011. 
+ASBEA. **Detalhes em Arquitetura** .  [s.l.]:J. J. Carol, 2010.
 
-51 
+AZEREDO, H, A. **O edifício até sua cobertura** . 2[a ] Edição. São Paulo: Edgard Blucher, 2004.
 
-MinisteriodaEducacao INSTITUTOFEDERAL InstitutoFederaldoParana PARANA 
+BALLESTERO-ALVAREZ, Maria Esmeralda. **Gestão de Qualidade, Produção e Operações** . 2ª ed. São Paulo: Atlas, 2012.
 
-ALMEIDA, Maria C. F. **Estruturas isostáticas.** 1º Ed. São Paulo: Oficina de Textos, 2009. 
+BEER, F. P.; DEWOLF, J. T. **Resistência dos Materiais.** 1º Ed. São Paulo: Mc Graw Hill, 1991
 
-ALONSO, Urbano Rodrigues. **Exercícios de Fundação** . 1a ed. Edgar Blucher. São Paulo, 1943. 
+BEINHAUSER, P. **Atlas de Detalhes Construtivos** . [s,l.]: GG Brasil, 2012.
 
-ALVES, William Pereira. **Informática: Microsoft Office Word 2010 e Microsoft Office Excel 2010** . São Paulo: Érica, 2012. 
+BIZZELLI, M. H. S. S.; MILANELO, C. H. M. **Aulas Práticas de Corel Draw X5** . [s.l.]: Ciência Moderna, 2012.
 
-ASADO, Alberto; LORDSLEEN JUNIOR. **Execução e Inspeção de Alvenaria Racionalizada** . 3[a ] Edição. São Paulo: O Nome da Rosa, 2004. 
+BORGES, A. **Topografia Aplicada à Engenharia Civil** . Vol. 1. 2a ed. São Paulo. Edgard Blucher, 1977.
 
-ASBEA. **Detalhes em Arquitetura** .  [s.l.]:J. J. Carol, 2010. 
+BORGES, A. **Topografia Aplicada à Engenharia Civil** . Vol. 2 1a ed. São Paulo. Edgard Blucher, 1999.
 
-AZEREDO, H, A. **O edifício até sua cobertura** . 2[a ] Edição. São Paulo: Edgard Blucher, 2004. 
+BOTELHO, Manoel Henrique Campos. **Resistência dos Materiais: Para entender e gostar.** 1º Ed. São Paulo: Edgar Blücher, 2008.
 
-BALLESTERO-ALVAREZ, Maria Esmeralda. **Gestão de Qualidade, Produção e Operações** . 2ª ed. São Paulo: Atlas, 2012. 
+BOTELHO, Manoel Henrique Campos; MARCHETTI, Osvaldemar. **Concreto armado eu te amo. Vol. 1.** 7º Ed. São Paulo: Blucher. 2013.
 
-BEER, F. P.; DEWOLF, J. T. **Resistência dos Materiais.** 1º Ed. São Paulo: Mc Graw Hill, 1991 
+BOTELHO, Manoel Henrique Campos; RIBEIRO JR, Geraldo de Andrade. **Instalações Hidráulicas Prediais: usando tubos de PVC e PPR** . 3[a ] Edição. Edgard Blucher, 2010.
 
-BEINHAUSER, P. **Atlas de Detalhes Construtivos** . [s,l.]: GG Brasil, 2012. 
+BRASWELL, M. S. **Autocad 2009 para Arquitetos e Projetistas de Interiores** . [s.l.]: Ciência Moderna, 2009.
 
-BIZZELLI, M. H. S. S.; MILANELO, C. H. M. **Aulas Práticas de Corel Draw X5** . [s.l.]: Ciência Moderna, 2012. 
+BROWN, G. Z. **Sol, vento e luz: estratégias para o projeto de arquitetura** . Porto Alegre: Bookman, 2004.
 
-BORGES, A. **Topografia Aplicada à Engenharia Civil** . Vol. 1. 2a ed. São Paulo. Edgard Blucher, 1977. 
+CAPUTO, Homero Pinto. **Mecânica dos Solos e suas Aplicações 1 - Fundamentos** . 6a ed. São Paulo. LTC, 1996.
 
-BORGES, A. **Topografia Aplicada à Engenharia Civil** . Vol. 2 1a ed. São Paulo. Edgard Blucher, 1999. 
+CAPUTO, Homero Pinto. **Mecânica dos Solos e suas Aplicações 2 - Mecânica das Rochas - Fundações - Obras de Terra** . 6a ed. LTC. São Paulo, 1995.
 
-BOTELHO, Manoel Henrique Campos. **Resistência dos Materiais: Para entender e gostar.** 1º Ed. São Paulo: Edgar Blücher, 2008. 
+CAPUTO, Homero Pinto. **Mecânica dos Solos e suas Aplicações 3 - Exercícios e Problemas Resolvidos** . 4a ed. LTC. São Paulo, 1994.
 
-BOTELHO, Manoel Henrique Campos; MARCHETTI, Osvaldemar. **Concreto armado eu te amo. Vol. 1.** 7º Ed. São Paulo: Blucher. 2013. 
+CARRANZA, R. **Escalas de Representação em Arquitetura** . [s.l.]: G&C, 2007.
 
-BOTELHO, Manoel Henrique Campos; RIBEIRO JR, Geraldo de Andrade. **Instalações Hidráulicas Prediais: usando tubos de PVC e PPR** . 3[a ] Edição. Edgard Blucher, 2010. 
+CARVALHO JUNIOR, Roberto de. **Instalações Hidráulicas e o Projeto de Arquitetura** . 4[a ] Edição. Edgard Blucher, 2011.
 
-BRASWELL, M. S. **Autocad 2009 para Arquitetos e Projetistas de Interiores** . [s.l.]: Ciência Moderna, 2009. 
+CARVALHO, Roberto Chust; FIGUEREDO FILHO, Jasson Rodrigues. **Cálculo e detalhamento de estruturas de concreto armado.** 3º Ed. São Carlos: EdUFSCar, 2010.
 
-BROWN, G. Z. **Sol, vento e luz: estratégias para o projeto de arquitetura** . Porto Alegre: Bookman, 2004. 
+CAVALIN, G. e CERVELIN, S. **Instalações Elétricas Prediais.** 14° ED. São Paulo:
 
-CAPUTO, Homero Pinto. **Mecânica dos Solos e suas Aplicações 1 - Fundamentos** . 6a ed. São Paulo. LTC, 1996. 
+52
 
-CAPUTO, Homero Pinto. **Mecânica dos Solos e suas Aplicações 2 - Mecânica das Rochas - Fundações - Obras de Terra** . 6a ed. LTC. São Paulo, 1995. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-CAPUTO, Homero Pinto. **Mecânica dos Solos e suas Aplicações 3 - Exercícios e Problemas Resolvidos** . 4a ed. LTC. São Paulo, 1994. 
+INSTITUTOFEDERAL PARANA
 
-CARRANZA, R. **Escalas de Representação em Arquitetura** . [s.l.]: G&C, 2007. 
+Érica, 2006.
 
-CARVALHO JUNIOR, Roberto de. **Instalações Hidráulicas e o Projeto de Arquitetura** . 4[a ] Edição. Edgard Blucher, 2011. 
+CAVALIN, G. e CERVELIN. **Instalações elétricas prediais: teoria & prática.** Curitiba: Base Editorial, 2010.
 
-CARVALHO, Roberto Chust; FIGUEREDO FILHO, Jasson Rodrigues. **Cálculo e detalhamento de estruturas de concreto armado.** 3º Ed. São Carlos: EdUFSCar, 2010. 
+CHING, Francis D. K. **Técnicas de construção ilustradas.** 4 Edição. São Paulo: PINI, 2010.
 
-CAVALIN, G. e CERVELIN, S. **Instalações Elétricas Prediais.** 14° ED. São Paulo: 
+CURRY, Z. **Autocad 2009 para Design de Interior** . [s.l.]: Ciência Moderna, 2009.
 
-52 
+DAGOSTINO, F. R. **Desenho Arquitetõnico Contemporâneo** . [s.l.]: Hemus, 2004.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+DAS, Braja M. **Fundamentos de Engenharia Geotécnica** . 7a ed. São Paulo. Thomson Learnig, 2011.
 
-INSTITUTOFEDERAL PARANA 
+EQUIPE ATLAS. **Segurança e Medicina do Trabalho.** 71ª Edição. Editora Atlas, 2013. FALCÃO BAUER, L. A. **Materiais de Construção. Vol. 1 e 2.** 5 Edição. Rio de Janeiro: Livros Técnicos e Científicos, 2005.
 
-Érica, 2006. 
+FREIRE, Wesley Jorge. **Tecnologias e Materiais Alternativos de Construção** . 1ª ed. Campinas: Unicamp, 2004.
 
-CAVALIN, G. e CERVELIN. **Instalações elétricas prediais: teoria & prática.** Curitiba: Base Editorial, 2010. 
+FROTA, A. B.; SCHIFFER, S. R. **Manual do Conforto Térmico** . São Paulo: Studio Nobel, 2009.
 
-CHING, Francis D. K. **Técnicas de construção ilustradas.** 4 Edição. São Paulo: PINI, 2010. 
+FUENTES, Manuel; THOMAS, Stephanie; ROAF, Sue. **Ecohouse: A casa Ambientalmente Sustentável** . Porto Alegre: Bookman, 2009.
 
-CURRY, Z. **Autocad 2009 para Design de Interior** . [s.l.]: Ciência Moderna, 2009. 
+GASPAR, Alberto. **Compreendendo a Física – Mecânica - Volume 1** . São Paulo, Ed. Atica, 2010.
 
-DAGOSTINO, F. R. **Desenho Arquitetõnico Contemporâneo** . [s.l.]: Hemus, 2004. 
+GONÇALVES, E. A. **Manual de Segurança e Saúde no Trabalho.** 3ª Edição. Editora LTR, 2007.
 
-DAS, Braja M. **Fundamentos de Engenharia Geotécnica** . 7a ed. São Paulo. Thomson Learnig, 2011. 
+GONÇALVES, E. A. **Manual de Segurança e Saúde no Trabalho.** 3ª Edição. Editora LTR, 2007.
 
-EQUIPE ATLAS. **Segurança e Medicina do Trabalho.** 71ª Edição. Editora Atlas, 2013. FALCÃO BAUER, L. A. **Materiais de Construção. Vol. 1 e 2.** 5 Edição. Rio de Janeiro: Livros Técnicos e Científicos, 2005. 
+GUERRINI, D. P. **Iluminação: teoria e projeto** . [s.l.]: Érica, 2007.
 
-FREIRE, Wesley Jorge. **Tecnologias e Materiais Alternativos de Construção** . 1ª ed. Campinas: Unicamp, 2004. 
+HIBBELER, R. C. **Resistência dos materiais** . 7. ed. São Paulo: Pearson Prentice Hall, 2010.
 
-FROTA, A. B.; SCHIFFER, S. R. **Manual do Conforto Térmico** . São Paulo: Studio Nobel, 2009. 
+ISAIA, Geraldo C **. Concreto: Ciência e tecnologia. Volumes I e II.** São Paulo: Ibracon, 2011.
 
-FUENTES, Manuel; THOMAS, Stephanie; ROAF, Sue. **Ecohouse: A casa Ambientalmente Sustentável** . Porto Alegre: Bookman, 2009. 
+ISAIA, Geraldo C. **Concreto: ensino, pesquisa e realizações. Volumes I e II** . São Paulo: Ibracon, 2005.
 
-GASPAR, Alberto. **Compreendendo a Física – Mecânica - Volume 1** . São Paulo, Ed. Atica, 2010. 
+ISAIA, Geraldo C. **Materiais de Construção Civil e Princípios de Ciência e Engenharia de Materiais. Vol1 e 2.** 2 Edição. São Paulo: IBRACON, 2010.
 
-GONÇALVES, E. A. **Manual de Segurança e Saúde no Trabalho.** 3ª Edição. Editora LTR, 2007. 
+KARLEN, M. **Planejamento de Espaços Internos: com exercícios** . Porto Alegre: Bookman, 2010.
 
-GONÇALVES, E. A. **Manual de Segurança e Saúde no Trabalho.** 3ª Edição. Editora LTR, 2007. 
+KEELER, M.; BURKE, B. **Fundamentos de Projeto de Edificações Sustentáveis** . Porto Alegre: Bookman, 2010.
 
-GUERRINI, D. P. **Iluminação: teoria e projeto** . [s.l.]: Érica, 2007. 
+KLEINBACH, Merlin; REIS, Lineu B. **Energia e Meio Ambiente** . [s.l.]: Cengage Learning, 2010.
 
-HIBBELER, R. C. **Resistência dos materiais** . 7. ed. São Paulo: Pearson Prentice Hall, 2010. 
+LEGGITT, J. **Desenho de Arquitetura** . Porto Alegre: Bookman, 2004.
 
-ISAIA, Geraldo C **. Concreto: Ciência e tecnologia. Volumes I e II.** São Paulo: Ibracon, 2011. 
+LIMA FILHO, Domingos Leite. **Projetos de instalações elétricas prediais** . 12. ed. rev. São Paulo: Érica, 2011.
 
-ISAIA, Geraldo C. **Concreto: ensino, pesquisa e realizações. Volumes I e II** . São Paulo: Ibracon, 2005. 
+LIMMER, Carl Vicent. **Planejamento, Orçamento e Controle de Projetos e Obras** . Rio de Janeiro. LTC, 1997.
 
-ISAIA, Geraldo C. **Materiais de Construção Civil e Princípios de Ciência e Engenharia de Materiais. Vol1 e 2.** 2 Edição. São Paulo: IBRACON, 2010. 
+LIMMER, Carl Vicent. **Planejamento, Orçamento e Controle de Projetos** . 1ed. Rio de
 
-KARLEN, M. **Planejamento de Espaços Internos: com exercícios** . Porto Alegre: Bookman, 2010. 
+53
 
-KEELER, M.; BURKE, B. **Fundamentos de Projeto de Edificações Sustentáveis** . Porto Alegre: Bookman, 2010. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-KLEINBACH, Merlin; REIS, Lineu B. **Energia e Meio Ambiente** . [s.l.]: Cengage Learning, 2010. 
+INSTITUTOFEDERAL PARANA
 
-LEGGITT, J. **Desenho de Arquitetura** . Porto Alegre: Bookman, 2004. 
+Janeiro. LTC, 1997.
 
-LIMA FILHO, Domingos Leite. **Projetos de instalações elétricas prediais** . 12. ed. rev. São Paulo: Érica, 2011. 
+MARQUES NETO, Jose da Costa. **Gestão dos Resíduos de Construção e Demolição no Brasil** . [s.l.]: Rima, 2005.
 
-LIMMER, Carl Vicent. **Planejamento, Orçamento e Controle de Projetos e Obras** . Rio de Janeiro. LTC, 1997. 
+MARSHALL JUNIOR, I. et al. **Gestão da Qualidade** . 10ª ed. São Paulo: Editora FGV, 2011.
 
-LIMMER, Carl Vicent. **Planejamento, Orçamento e Controle de Projetos** . 1ed. Rio de 
+MATTOS, A. D. **Como preparar orçamento de obras** . 1ª ed. Pini, 2007.
 
-53 
+MATTOS, A. D. **Planejamento e controle de obras** . São Paulo. PINI, 2010.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+MAXIMIANO, Antonio C. A. **Administração de Projetos: como transformar ideias em resultados** . 4ª ed. São Paulo: Atlas, 2010.
 
-INSTITUTOFEDERAL PARANA 
+MÁXIMO, Antonio; ALVARENGA, Beatriz. **Curso de Física – Volume 1.** São Paulo, Ed. Scipione, 2010.
 
-Janeiro. LTC, 1997. 
+MCCORMICK, John. **Topografia** . 3a ed. LTC. Rio de Janeiro. LTC GE N, 2007.
 
-MARQUES NETO, Jose da Costa. **Gestão dos Resíduos de Construção e Demolição no Brasil** . [s.l.]: Rima, 2005. 
+McFEDRIES, Paul. **Fórmulas e Funções com Microsoft Office Excel 2007** . [s.l.]: Prentice-Hall, 2008.
 
-MARSHALL JUNIOR, I. et al. **Gestão da Qualidade** . 10ª ed. São Paulo: Editora FGV, 2011. 
+MEHTA, P. K.; MONTEIRO, P. J. M. **Concreto: Microestrutura, propriedades e Materiais.** São Paulo: Ibracon, 2008.
 
-MATTOS, A. D. **Como preparar orçamento de obras** . 1ª ed. Pini, 2007. 
+MELCONIAN, Sarkis. **Mecânica técnica e resistência dos materiais.** 18. ed. São Paulo: Érica, 2007.
 
-MATTOS, A. D. **Planejamento e controle de obras** . São Paulo. PINI, 2010. 
+MELHADO, Silvio Burratino; SOUZA, Ana Lucia Rocha de. **Projeto e Execução de Lajes Racionalizadas** . O Nome da Rosa, 2002.
 
-MAXIMIANO, Antonio C. A. **Administração de Projetos: como transformar ideias em resultados** . 4ª ed. São Paulo: Atlas, 2010. 
+MONTENEGRO, Gildo A. **Desenho arquitetônico: para cursos técnicos de 2º grau e faculdades de arquitetura** . 4.ed. rev. e atual. São Paulo: Edgard Blucher, 2001.
 
-MÁXIMO, Antonio; ALVARENGA, Beatriz. **Curso de Física – Volume 1.** São Paulo, Ed. Scipione, 2010. 
+MONTENEGRO, Gildo A. **Geometria descritiva** . São Paulo: Edgard Blücher, 1991
 
-MCCORMICK, John. **Topografia** . 3a ed. LTC. Rio de Janeiro. LTC GE N, 2007. 
+NAZAR, Nilton. **Fôrmas e Escoramentos para Edifícios: Critérios para dimensionamento e escolha do sistema** . 1[a ] Edição. São Paulo: Pini, 2007.
 
-McFEDRIES, Paul. **Fórmulas e Funções com Microsoft Office Excel 2007** . [s.l.]: Prentice-Hall, 2008. 
+NEIZEL, Ernst. **Desenho técnico para a construção civil, v.1** . São Paulo: EDUSP, 2012. Vol.1. (Coleção Desenho Técnico)
 
-MEHTA, P. K.; MONTEIRO, P. J. M. **Concreto: Microestrutura, propriedades e Materiais.** São Paulo: Ibracon, 2008. 
+NEUFERT, E.; NEUFERT, P. **A Arte de Projetar em Arquitetura** . Portugal: GG, 2004.
 
-MELCONIAN, Sarkis. **Mecânica técnica e resistência dos materiais.** 18. ed. São Paulo: Érica, 2007. 
+NOCÊRA, Rosaldo de Jesus. **Planejamento e Controle de Obras com MS-Project 2010** . RJN, 2012.
 
-MELHADO, Silvio Burratino; SOUZA, Ana Lucia Rocha de. **Projeto e Execução de Lajes Racionalizadas** . O Nome da Rosa, 2002. 
+OLIVEIRA, M. B. **Google SketchUp Pro Aplicado ao Projeto Arquitetônico** . [s.l.]: Novatec, 2010.
 
-MONTENEGRO, Gildo A. **Desenho arquitetônico: para cursos técnicos de 2º grau e faculdades de arquitetura** . 4.ed. rev. e atual. São Paulo: Edgard Blucher, 2001. 
+OLIVEIRA, Maria Marly de. **Como fazer projetos, relatórios, monografias, dissertações e teses** . [s.l.]: Campus-RJ, 2010.
 
-MONTENEGRO, Gildo A. **Geometria descritiva** . São Paulo: Edgard Blücher, 1991 
+ONSTOTT, S. **Autocad 2012 e Autocad LT 2012** . Porto Alegre: Bookman, 2011.
 
-NAZAR, Nilton. **Fôrmas e Escoramentos para Edifícios: Critérios para dimensionamento e escolha do sistema** . 1[a ] Edição. São Paulo: Pini, 2007. 
+PINI (org.) **Construção Passo a Passo, vol. 1 e 2** . 2[a ] Edição. São Paulo: Pini, 2009. PINI. **TCPO – Tabela de Composição de Preços para Orçamentos** . 14 ed. São Paulo. PINI, 2011.
 
-NEIZEL, Ernst. **Desenho técnico para a construção civil, v.1** . São Paulo: EDUSP, 2012. Vol.1. (Coleção Desenho Técnico) 
+PINTO, Carlos Souza. **Curso básico de mecânica dos Solos** . 3a ed. São Paulo. Oficina de Texto, 2006.
 
-NEUFERT, E.; NEUFERT, P. **A Arte de Projetar em Arquitetura** . Portugal: GG, 2004. 
+PINTO, J. D. S.; STARLING, T.; RIBEIRO, C. C. **Materiais de Construção Civil** . [s.l.]: UFMG, 2011.
 
-NOCÊRA, Rosaldo de Jesus. **Planejamento e Controle de Obras com MS-Project 2010** . RJN, 2012. 
+REBELLO, Yopanan Conrado Pereira. **Fundações – Guia prático de projeto, execução e dimensionamento** . [s.l.]: Zigurate, 2008.
 
-OLIVEIRA, M. B. **Google SketchUp Pro Aplicado ao Projeto Arquitetônico** . [s.l.]: Novatec, 2010. 
+54
 
-OLIVEIRA, Maria Marly de. **Como fazer projetos, relatórios, monografias, dissertações e teses** . [s.l.]: Campus-RJ, 2010. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-ONSTOTT, S. **Autocad 2012 e Autocad LT 2012** . Porto Alegre: Bookman, 2011. 
+INSTITUTOFEDERAL PARANA
 
-PINI (org.) **Construção Passo a Passo, vol. 1 e 2** . 2[a ] Edição. São Paulo: Pini, 2009. PINI. **TCPO – Tabela de Composição de Preços para Orçamentos** . 14 ed. São Paulo. PINI, 2011. 
+REIS, L. B.; ROMERO, M. A. **Eficiência Energética em Edificios** .  [s.l.]: Manole, 2012. REIS, Paulo Mourao. **Preparação de Obras: construção civil** . [s.l.]: Publindustria, 2010.
 
-PINTO, Carlos Souza. **Curso básico de mecânica dos Solos** . 3a ed. São Paulo. Oficina de Texto, 2006. 
+ROAF, S. **A adaptação de Edificações e Cidades ás Mudanças Climáticas** . Porto Alegre: Bookaman, 2009.
 
-PINTO, J. D. S.; STARLING, T.; RIBEIRO, C. C. **Materiais de Construção Civil** . [s.l.]: UFMG, 2011. 
+SAAD, A. L. **Acessibilidade: guia prático para projeto de adaptações e de novas edificações** . São Paulo: PINI, 2011.
 
-REBELLO, Yopanan Conrado Pereira. **Fundações – Guia prático de projeto, execução e dimensionamento** . [s.l.]: Zigurate, 2008. 
+SABBATINI, Fernando Henrique; BAIA, Luciana Leone Maciel. **Projeto e Execução de Revestimentos de Argamassa** . 1[a ] Edição. O Nome da Rosa, 2000.
 
-54 
+SACOMANO, J. B. et al. **Administração de Produção na Construção Civil** . [s.l.]: Arte & Ciência, 2005.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+SALGADO, Julio. **Instalação Hidráulica Residencial: A prática do dia a dia** . 1[a ] Edição. Érica, 2010.
 
-INSTITUTOFEDERAL PARANA 
+SALGADO, Julio. **Mestre de Obras: Gestão Básica para Construção Civil** . 1[a ] Edição. São Paulo: Érica, 2011.
 
-REIS, L. B.; ROMERO, M. A. **Eficiência Energética em Edificios** .  [s.l.]: Manole, 2012. REIS, Paulo Mourao. **Preparação de Obras: construção civil** . [s.l.]: Publindustria, 2010. 
+SALGADO, Julio. **Técnicas e práticas construtivas para edificação.** 1 Edição. São Paulo: Érica, 2009.
 
-ROAF, S. **A adaptação de Edificações e Cidades ás Mudanças Climáticas** . Porto Alegre: Bookaman, 2009. 
+SALIBA, T. M.; PAGANO, S. C. R. S. **Legislação de Segurança, Acidente do Trabalho e Saúde do Trabalhador.** 5ª Edição 2007. Editora LTR, 2007
 
-SAAD, A. L. **Acessibilidade: guia prático para projeto de adaptações e de novas edificações** . São Paulo: PINI, 2011. 
+SANTOS, Adriana de Paula Lacerda; JUNGLES, AntonioEdésio. **Como Gerenciar as Compras de Materiais na Construção Civil** . 1ª ed. São Paulo. PINI, 2008.
 
-SABBATINI, Fernando Henrique; BAIA, Luciana Leone Maciel. **Projeto e Execução de Revestimentos de Argamassa** . 1[a ] Edição. O Nome da Rosa, 2000. 
+SÃO JOÃO, José Celso. **Topografia** . 1a ed. Curitiba. UFPR,1996.
 
-SACOMANO, J. B. et al. **Administração de Produção na Construção Civil** . [s.l.]: Arte & Ciência, 2005. 
+SILVA, Mozart Bezerra da. **Manual de BDI** . 1ª ed. Edgard Blücher, 2006.
 
-SALGADO, Julio. **Instalação Hidráulica Residencial: A prática do dia a dia** . 1[a ] Edição. Érica, 2010. 
+SOUZA, Roberto de; TAMAKI, Marcos Roberto. **Gestão de Materiais de Construção** . [s.l.]: O Nome da Rosa, 2005.
 
-SALGADO, Julio. **Mestre de Obras: Gestão Básica para Construção Civil** . 1[a ] Edição. São Paulo: Érica, 2011. 
+SOUZA, Ubiraci E. Lemes de. **Como Reduzir Perdas nos Canteiros: Manual de Gestão do Consumo de Materiais na Construção Civil.** 1ª ed. São Paulo. PINI, 2005.
 
-SALGADO, Julio. **Técnicas e práticas construtivas para edificação.** 1 Edição. São Paulo: Érica, 2009. 
+THOMAZ, Ercio. **Trincas em Edifícios: Causas, Prevenção e Recuperação** . 1[a] Edição. São Paulo. Pini, 2002.
 
-SALIBA, T. M.; PAGANO, S. C. R. S. **Legislação de Segurança, Acidente do Trabalho e Saúde do Trabalhador.** 5ª Edição 2007. Editora LTR, 2007 
+TIPLER, Paul; MOSCA, Gene. **Física para Cientistas e Engenheiros Vol. 1** . KOUDELA, Ingrid Dormien; AMOS, Eduardo José de Almeida. Sexta Edição, Rio de Janeiro, Ed. LTC, 2009.
 
-SANTOS, Adriana de Paula Lacerda; JUNGLES, AntonioEdésio. **Como Gerenciar as Compras de Materiais na Construção Civil** . 1ª ed. São Paulo. PINI, 2008. 
+U S Navy. **Construção Civil Teoria e Prática, vol. 3** . 1[a ] Edição. São Paulo: Inovação, 2005.
 
-SÃO JOÃO, José Celso. **Topografia** . 1a ed. Curitiba. UFPR,1996. 
+UEMOTO, Kai Loh. **Projeto, Execução e Inspeção de Pinturas** . 2[a ] Edição. O Nome da Rosa, 2005.
 
-SILVA, Mozart Bezerra da. **Manual de BDI** . 1ª ed. Edgard Blücher, 2006. 
+VENDITTI, M. V. R. **Desenho Técnico sem Prancheta com Autocad 2010** . [s.l.]: Visual Books, 2010.
 
-SOUZA, Roberto de; TAMAKI, Marcos Roberto. **Gestão de Materiais de Construção** . [s.l.]: O Nome da Rosa, 2005. 
+WALENIA, Paulo Sergio. **Projetos Elétricos Prediais.** Curitiba: Base Editorial, 2011.
 
-SOUZA, Ubiraci E. Lemes de. **Como Reduzir Perdas nos Canteiros: Manual de Gestão do Consumo de Materiais na Construção Civil.** 1ª ed. São Paulo. PINI, 2005. 
+YAZIGI, Walid. **A Técnica de Edificar** . 10 Edição. São Paulo: Pini, 2011.
 
-THOMAZ, Ercio. **Trincas em Edifícios: Causas, Prevenção e Recuperação** . 1[a] Edição. São Paulo. Pini, 2002. 
+YEE, R. **Desenho Arquitetônico: um compêndio visual de tipos e métodos** . Rio de Janeiro: LTC, 2012.
 
-TIPLER, Paul; MOSCA, Gene. **Física para Cientistas e Engenheiros Vol. 1** . KOUDELA, Ingrid Dormien; AMOS, Eduardo José de Almeida. Sexta Edição, Rio de Janeiro, Ed. LTC, 2009. 
+55
 
-U S Navy. **Construção Civil Teoria e Prática, vol. 3** . 1[a ] Edição. São Paulo: Inovação, 2005. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-UEMOTO, Kai Loh. **Projeto, Execução e Inspeção de Pinturas** . 2[a ] Edição. O Nome da Rosa, 2005. 
+INSTITUTOFEDERAL PARANA
 
-VENDITTI, M. V. R. **Desenho Técnico sem Prancheta com Autocad 2010** . [s.l.]: Visual Books, 2010. 
+## COPLEMENTAR
 
-WALENIA, Paulo Sergio. **Projetos Elétricos Prediais.** Curitiba: Base Editorial, 2011. 
+ABNT NBR 13534:2004/2008. **Instalações elétricas de baixa tensão - Requisitos específicos para instalação em estabelecimentos assistenciais de saúde.** Rio de Janeiro.
 
-YAZIGI, Walid. **A Técnica de Edificar** . 10 Edição. São Paulo: Pini, 2011. 
+ABNT NBR 5444:1989. **Símbolos gráficos para instalações elétricas prediais.** Rio de Janeiro.
 
-YEE, R. **Desenho Arquitetônico: um compêndio visual de tipos e métodos** . Rio de Janeiro: LTC, 2012. 
+ABRAM, Isaac. **Manual Prático de Terraplanagem.** 1 Edição. São Paulo: PINI, 2002.
 
-55 
+ADDIS, B. **Reuso de Materiais e Elementos de Construção.** 1 Edição. São Paulo: Ofinica de Textos, 2010.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+ALVES, J.D. **Manual da Tecnologia do Concreto.** São Paulo: Nobel, 1978.
 
-INSTITUTOFEDERAL PARANA 
+ALVES, William Pereira. **Estudo Dirigido deMicrosoft Office Acess 2010** . São Paulo: Érica, 2010.
 
-## COPLEMENTAR 
+ANTUNES, J. et al. **Sistemas de Produção: conceitos e práticas para projetos e gestão da produção enxuta** . Porto Alegre: Bookman, 2008.
 
-ABNT NBR 13534:2004/2008. **Instalações elétricas de baixa tensão - Requisitos específicos para instalação em estabelecimentos assistenciais de saúde.** Rio de Janeiro. 
+ASKELAND, Donald R; PHULÉ, PradeepPrabhakar. **Ciência e engenharia dos materiais.** São Paulo: Cengage Learning, 2008.
 
-ABNT NBR 5444:1989. **Símbolos gráficos para instalações elétricas prediais.** Rio de Janeiro. 
+BARROS, Mercia Maria SemensatoBottura de; RIBEIRO, Fabiana Andrade. **Juntas de Movimentação em Revestimentos Cerâmicos de Fachadas** . 2[a ] Edição. São Paulo, Pini, 2012.
 
-ABRAM, Isaac. **Manual Prático de Terraplanagem.** 1 Edição. São Paulo: PINI, 2002. 
+BEER, F. P.; JOHNSTON JR., E. R. **Resistência dos Materiais** .  3º Ed. São Paulo: Makron Books, 1995.
 
-ADDIS, B. **Reuso de Materiais e Elementos de Construção.** 1 Edição. São Paulo: Ofinica de Textos, 2010. 
+BERTOLINI, Luca. **Materiais de Construção – Patologia, Reabilitação, Prevenção.** 1 Edição. São Paulo: Ofinica de Textos, 2010.
 
-ALVES, J.D. **Manual da Tecnologia do Concreto.** São Paulo: Nobel, 1978. 
+BORGES, A. **Exercícios de Topografia** . 3a ed. São Paulo. Edgard Blucher, 1975.
 
-ALVES, William Pereira. **Estudo Dirigido deMicrosoft Office Acess 2010** . São Paulo: Érica, 2010. 
+BORGES, Alberto de Campos. **Prática das pequenas construções** . 6.ed. rev. ampl. São Paulo: Blücher, 2011. v. 2
 
-ANTUNES, J. et al. **Sistemas de Produção: conceitos e práticas para projetos e gestão da produção enxuta** . Porto Alegre: Bookman, 2008. 
+BORGES, Alberto de Campos. **Prática das pequenas construções** . 9. ed. rev. ampl. São Paulo: Blücher, 2011. v. 1
 
-ASKELAND, Donald R; PHULÉ, PradeepPrabhakar. **Ciência e engenharia dos materiais.** São Paulo: Cengage Learning, 2008. 
+BOTELHO, Manoel Henrique Campos. **Manual de primeiros socorros do engenheiro e do arquiteto** . 2.ed. São Paulo: E. Blücher, 2009.
 
-BARROS, Mercia Maria SemensatoBottura de; RIBEIRO, Fabiana Andrade. **Juntas de Movimentação em Revestimentos Cerâmicos de Fachadas** . 2[a ] Edição. São Paulo, Pini, 2012. 
+CAMBIAGHI, S. **Desenho Universal: métodos e técnicas para arquitetos e urbanistas** . São Paulo: SENAC, 2007.
 
-BEER, F. P.; JOHNSTON JR., E. R. **Resistência dos Materiais** .  3º Ed. São Paulo: Makron Books, 1995. 
+CAMPANTE, Edmilson Freitas. BAÍA, Luciana Leone Maciel. **Projeto e Execução de Revestimento Cerâmico** . 2[a ] Edição. O Nome da Rosa.
 
-BERTOLINI, Luca. **Materiais de Construção – Patologia, Reabilitação, Prevenção.** 1 Edição. São Paulo: Ofinica de Textos, 2010. 
+CARDOSO, Roberto Sales. **Orçamento de Obras em Foco: Um novo olhar sobre a engenharia de custos** . 2ª ed. São Paulo. PINI, 2011.
 
-BORGES, A. **Exercícios de Topografia** . 3a ed. São Paulo. Edgard Blucher, 1975. 
+CARVALHO, Deusvaldo. **Orçamento e contabilidade pública: teoria, prática e mais de 800 exercícios** . 12ª ed. Campus, 2010.
 
-BORGES, Alberto de Campos. **Prática das pequenas construções** . 6.ed. rev. ampl. São Paulo: Blücher, 2011. v. 2 
+CARVALHO, Pedro Carlos de. **O Programa 5S e a Qualidade Total** . [s.l.]: Alinea, 2011.
 
-BORGES, Alberto de Campos. **Prática das pequenas construções** . 9. ed. rev. ampl. São Paulo: Blücher, 2011. v. 1 
+CAVASSANI, G. **V-ray para Google Sketchup8: acabamento, iluminação e recursos avançados para maquete eletrônica** . [s.l.]:Érica, 2012.
 
-BOTELHO, Manoel Henrique Campos. **Manual de primeiros socorros do engenheiro e do arquiteto** . 2.ed. São Paulo: E. Blücher, 2009. 
+CHING, F. D. K. **Arquitetura: forma, espaço e ordem** . São Paulo: Martins Fontes,
 
-CAMBIAGHI, S. **Desenho Universal: métodos e técnicas para arquitetos e urbanistas** . São Paulo: SENAC, 2007. 
+56
 
-CAMPANTE, Edmilson Freitas. BAÍA, Luciana Leone Maciel. **Projeto e Execução de Revestimento Cerâmico** . 2[a ] Edição. O Nome da Rosa. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-CARDOSO, Roberto Sales. **Orçamento de Obras em Foco: Um novo olhar sobre a engenharia de custos** . 2ª ed. São Paulo. PINI, 2011. 
+INSTITUTOFEDERAL PARANA
 
-CARVALHO, Deusvaldo. **Orçamento e contabilidade pública: teoria, prática e mais de 800 exercícios** . 12ª ed. Campus, 2010. 
+2008.
 
-CARVALHO, Pedro Carlos de. **O Programa 5S e a Qualidade Total** . [s.l.]: Alinea, 2011. 
+CHING, F. D.K. **Representação Gráfica em Arquitetura** . Porto Alegre: Bookman, 2011.
 
-CAVASSANI, G. **V-ray para Google Sketchup8: acabamento, iluminação e recursos avançados para maquete eletrônica** . [s.l.]:Érica, 2012. 
+CHING, Francis D. K. **Dicionário visual de arquitetura** . 2. ed. São Paulo: Martins Fontes, 2010.
 
-CHING, F. D. K. **Arquitetura: forma, espaço e ordem** . São Paulo: Martins Fontes, 
+CHOAY, F. **O Patrimônio em Questão** . [s.l.]: Fino Traço, 2011.
 
-56 
+CINTRA, Jose Carlos A.; AOKI, Nelson. **Fundações por estacas: Projeto Geotécnico** . 1a ed. São Paulo. Oficina de Texto, 2010.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+CINTRA, Jose Carlos A.; AOKI, Nelson; ALBIERO, Jose Henrique. **Mecânica dos Solos e suas Aplicações 3 - Exercícios e Problemas Resolvidos** . 1a ed. São Paulo. Oficina de Texto, 2011.
 
-INSTITUTOFEDERAL PARANA 
+COÊLHO, Ronaldo Sérgio de Araújo. **Orçamentação na Construção de Edificações** . 1ª ed. UEMA, 2011.
 
-2008. 
+COSTA, Regina Pacca; TELLES, Dirceu D’Alkmin. **Reuso da água: conceitos, teorias e práticas** . 2[a ] Edição. Edgard Blucher, 2010.
 
-CHING, F. D.K. **Representação Gráfica em Arquitetura** . Porto Alegre: Bookman, 2011. 
+CREDER, Hélio. **Instalações Elétricas** . 15º Ed. Rio de Janeiro: LTC, 2007.
 
-CHING, Francis D. K. **Dicionário visual de arquitetura** . 2. ed. São Paulo: Martins Fontes, 2010. 
+FALCÃO BAUER, L. A. **O concreto no Brasil: pré-fabricação, monumentos e fundações.** Rio de Janeiro: LTC, 2005.
 
-CHOAY, F. **O Patrimônio em Questão** . [s.l.]: Fino Traço, 2011. 
+FEYNMAN, Richard Philips; LEIGHTON, Robert; SANDS Matthew. **Lições da Física de Feynman – Edição Definitiva – Volumes I, II e III** . SILVA, Adriana Válio Roque; COUTINHO, Kaline Rabelo. Rio de Janeiro, Ed. Bookman, 2008.
 
-CINTRA, Jose Carlos A.; AOKI, Nelson. **Fundações por estacas: Projeto Geotécnico** . 1a ed. São Paulo. Oficina de Texto, 2010. 
+FUSCO, Péricles Brasiliense. **Tecnologia do Concreto Estrutural** . 1º Ed. São Paulo: Pini, 2008.
 
-CINTRA, Jose Carlos A.; AOKI, Nelson; ALBIERO, Jose Henrique. **Mecânica dos Solos e suas Aplicações 3 - Exercícios e Problemas Resolvidos** . 1a ed. São Paulo. Oficina de Texto, 2011. 
+GARCIA, Gustavo Felipe Barbosa [organizador]. **Legislação de segurança e medicina do trabalho.** 2ª Edição. Editora Método, 2008.
 
-COÊLHO, Ronaldo Sérgio de Araújo. **Orçamentação na Construção de Edificações** . 1ª ed. UEMA, 2011. 
+GASPAR, J. **Google SketchUp Pro Avançado** . [s.l.]: Probooks, 2011.
 
-COSTA, Regina Pacca; TELLES, Dirceu D’Alkmin. **Reuso da água: conceitos, teorias e práticas** . 2[a ] Edição. Edgard Blucher, 2010. 
+GOLDMAN, Pedrinho. **Introdução ao Planejamento e Controle de Custos na Construção Civil Brasileira** . 4 ed. São Paulo. PINI, 2004.
 
-CREDER, Hélio. **Instalações Elétricas** . 15º Ed. Rio de Janeiro: LTC, 2007. 
+GOMES, P. C. C.; BARROS, A. R. **Métodos de Dosagem de Concreto Autoadensável** . 1º Ed. São Paulo: Pini, 2005.
 
-FALCÃO BAUER, L. A. **O concreto no Brasil: pré-fabricação, monumentos e fundações.** Rio de Janeiro: LTC, 2005. 
+GRIBBIN, John E. **Introdução à Hidráulica, Hidrologia e Gestão** . 1[a ] Edição. Cengage, 2008.
 
-FEYNMAN, Richard Philips; LEIGHTON, Robert; SANDS Matthew. **Lições da Física de Feynman – Edição Definitiva – Volumes I, II e III** . SILVA, Adriana Válio Roque; COUTINHO, Kaline Rabelo. Rio de Janeiro, Ed. Bookman, 2008. 
+HIBBELER, R. C. **Estática: Mecânica Para Engenharia.** 12º Ed. São Paulo:Pearson Education, 2011.
 
-FUSCO, Péricles Brasiliense. **Tecnologia do Concreto Estrutural** . 1º Ed. São Paulo: Pini, 2008. 
+KOCH, Wilfried. **Dicionário dos estilos arquitetônicos** . 3. ed. São Paulo: Martins Fontes, 2008.
 
-GARCIA, Gustavo Felipe Barbosa [organizador]. **Legislação de segurança e medicina do trabalho.** 2ª Edição. Editora Método, 2008. 
+LANCHARRO, E. A.; LOPEZ, M. G.; FERNANDEZ, S. P. **Informática básica** . São Paulo: Makron Books, 1991.
 
-GASPAR, J. **Google SketchUp Pro Avançado** . [s.l.]: Probooks, 2011. 
+LEAKE, J. M.; BORGERSON, J. **Manual de desenho técnico para engenharia: desenho, modelagem e visualização** . Rio de Janeiro: LivrosTécnicos e Científicos, 2010.
 
-GOLDMAN, Pedrinho. **Introdução ao Planejamento e Controle de Custos na Construção Civil Brasileira** . 4 ed. São Paulo. PINI, 2004. 
+LIKER, Jeffrey K. **O Modelo Toyota: princípios de gestão do maior fabricante do mundo** . Porto Alegre: Bookman, 2005.
 
-GOMES, P. C. C.; BARROS, A. R. **Métodos de Dosagem de Concreto Autoadensável** . 1º Ed. São Paulo: Pini, 2005. 
+LIMA, C. C. **Estudo dirigido de Autocad 2013: para Windows** . [s.l.] Érica, 2012.
 
-GRIBBIN, John E. **Introdução à Hidráulica, Hidrologia e Gestão** . 1[a ] Edição. Cengage, 2008. 
+LITTLEFIELD, D. **Manual do Arquiteto: planejamento, dimensionamento e projeto** .
 
-HIBBELER, R. C. **Estática: Mecânica Para Engenharia.** 12º Ed. São Paulo:Pearson Education, 2011. 
+57
 
-KOCH, Wilfried. **Dicionário dos estilos arquitetônicos** . 3. ed. São Paulo: Martins Fontes, 2008. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-LANCHARRO, E. A.; LOPEZ, M. G.; FERNANDEZ, S. P. **Informática básica** . São Paulo: Makron Books, 1991. 
+INSTITUTOFEDERAL PARANA
 
-LEAKE, J. M.; BORGERSON, J. **Manual de desenho técnico para engenharia: desenho, modelagem e visualização** . Rio de Janeiro: LivrosTécnicos e Científicos, 2010. 
+Porto Alegre: Bookman, 2011.
 
-LIKER, Jeffrey K. **O Modelo Toyota: princípios de gestão do maior fabricante do mundo** . Porto Alegre: Bookman, 2005. 
+LOCH, Carlos; CORDINI, Jucilei. **Topografia Contemporânea** . 3a ed. Florianópolis. UFSC LV, 2007.
 
-LIMA, C. C. **Estudo dirigido de Autocad 2013: para Windows** . [s.l.] Érica, 2012. 
+LOPES, Francisco de Rezende; VELLOSO, Dirceu de Alencar. **Fundações - Volume Único** . São Paulo. Oficina de Textos, 2011.
 
-LITTLEFIELD, D. **Manual do Arquiteto: planejamento, dimensionamento e projeto** . 
+LOPES, Francisco de Rezende; VELLOSO, Dirceu de Alencar. **Previsão e Controle das Fundações** . São Paulo, 1991.
 
-57 
+LOWY, Michael. **Ecologia e Socialismo** . São Paulo: Cortez, 2005.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+LUCINI, H. C. **Manual Técnico de Modulação de Vãos de Esquadrias** .  São Paulo: PINI, 2001.
 
-INSTITUTOFEDERAL PARANA 
+MANZANO, A. L.; MANZANO, M. I. N.G. **Estudo dirigido de informática básica** . 7. ed. rev. atual. ampl. São Paulo: Érica, 2007.
 
-Porto Alegre: Bookman, 2011. 
+MANZANO, A. L.; MANZANO, M. I. N.G. **Estudo dirigido Microsoft Office Word 2010** . São Paulo: Érica, 2010.
 
-LOCH, Carlos; CORDINI, Jucilei. **Topografia Contemporânea** . 3a ed. Florianópolis. UFSC LV, 2007. 
+MARGARIDO, Aluízio Fontana. **Fundamentos de Estruturas.** 3º Ed. São Paulo: Zigurate. 2007.
 
-LOPES, Francisco de Rezende; VELLOSO, Dirceu de Alencar. **Fundações - Volume Único** . São Paulo. Oficina de Textos, 2011. 
+MATOS, Joao Luis; CASACA, Joao Martins; BAIO, Jose Miguel. **Topografia Geral** . 4a ed. Rio de Janeiro. LTC, 2007.
 
-LOPES, Francisco de Rezende; VELLOSO, Dirceu de Alencar. **Previsão e Controle das Fundações** . São Paulo, 1991. 
+MATOS, K. M. da C.; MATTOS, A. **Valoração econômica do meio ambiente** . São Carlos: FAPESP, 2004.
 
-LOWY, Michael. **Ecologia e Socialismo** . São Paulo: Cortez, 2005. 
+MELHADO, S. **Coordenação de Projetos de Edificações** . [s.l.]: ONome da Rosa, 2006.
 
-LUCINI, H. C. **Manual Técnico de Modulação de Vãos de Esquadrias** .  São Paulo: PINI, 2001. 
+MENDES, João Ricardo Barroca. **Gerenciamento de Projetos** . 1ª ed. FGV, 2009.
 
-MANZANO, A. L.; MANZANO, M. I. N.G. **Estudo dirigido de informática básica** . 7. ed. rev. atual. ampl. São Paulo: Érica, 2007. 
+MÍ FIORI, Alberto Pio; CARMIGNANI, Luigi. **Fundamentos de Mecânica dos Solos e das Rochas** . 6a ed. Curitiba. UFPR, 2009.
 
-MANZANO, A. L.; MANZANO, M. I. N.G. **Estudo dirigido Microsoft Office Word 2010** . São Paulo: Érica, 2010. 
+MOLITERNO, Antonio. **Caderno de Estruturas em Alvenaria e Concreto Simples** . 1º Ed. São Paulo: Edgar Blücher, 1995.
 
-MARGARIDO, Aluízio Fontana. **Fundamentos de Estruturas.** 3º Ed. São Paulo: Zigurate. 2007. 
+MOLITERNO, Antonio. **Caderno de Projetos de Telhados em Estruturas de Madeira** . 4[a ] Edição. Edgard Blucher, 2010.
 
-MATOS, Joao Luis; CASACA, Joao Martins; BAIO, Jose Miguel. **Topografia Geral** . 4a ed. Rio de Janeiro. LTC, 2007. 
+MONSA. **Cubiertas / Coberturas** . [s.l.]: MONSA, 2010.
 
-MATOS, K. M. da C.; MATTOS, A. **Valoração econômica do meio ambiente** . São Carlos: FAPESP, 2004. 
+MONSA. **Escaleras / Escadas** . [s.l.]: MONSA, 2011.
 
-MELHADO, S. **Coordenação de Projetos de Edificações** . [s.l.]: ONome da Rosa, 2006. 
+MONTENEGRO, Gildo A. **A perspectiva dos Profissionais** . [s.l.]: Edgard Blücher, 2010.
 
-MENDES, João Ricardo Barroca. **Gerenciamento de Projetos** . 1ª ed. FGV, 2009. 
+MONTENEGRO, Gildo A. **Desenho de projetos** . São Paulo: Blucher, 2007
 
-MÍ FIORI, Alberto Pio; CARMIGNANI, Luigi. **Fundamentos de Mecânica dos Solos e das Rochas** . 6a ed. Curitiba. UFPR, 2009. 
+NETTO, A. V. **Como gerenciar construções** . 1ª Ed. São Paulo. PINI, 1988.
 
-MOLITERNO, Antonio. **Caderno de Estruturas em Alvenaria e Concreto Simples** . 1º Ed. São Paulo: Edgar Blücher, 1995. 
+NUVOLARI, Ariovaldo. **Esgoto Sanitário** . 1[a ] Edição. Edgard Blucher, 2011.
 
-MOLITERNO, Antonio. **Caderno de Projetos de Telhados em Estruturas de Madeira** . 4[a ] Edição. Edgard Blucher, 2010. 
+PFEIL, Walter. **Estruturas de madeira** . 6. ed. rev. e ampl. Rio de Janeiro: Livros Técnicos e Científicos, 2003.
 
-MONSA. **Cubiertas / Coberturas** . [s.l.]: MONSA, 2010. 
+PINHEIRO, Libânio Miranda; CARVALHO, Roberto Chust. **Cálculo e Detalhamento de Estruturas Usuais de Concreto Armado - Volume 2.** 1º Ed.São Paulo: Pini, 2009.
 
-MONSA. **Escaleras / Escadas** . [s.l.]: MONSA, 2011. 
+PINI. **Fichas de Materiais e Serviços: Portas, Forros e Telhados** . 2[a ] Edição. São Paulo: Pini, 2011.
 
-MONTENEGRO, Gildo A. **A perspectiva dos Profissionais** . [s.l.]: Edgard Blücher, 2010. 
+PMI – Project Manegement Institute. **PMBOK: Guia do Conhecimento em Gerenciamento de Projetos** . [s.l.]: Saraiva, 2012.
 
-MONTENEGRO, Gildo A. **Desenho de projetos** . São Paulo: Blucher, 2007 
+58
 
-NETTO, A. V. **Como gerenciar construções** . 1ª Ed. São Paulo. PINI, 1988. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-NUVOLARI, Ariovaldo. **Esgoto Sanitário** . 1[a ] Edição. Edgard Blucher, 2011. 
+INSTITUTOFEDERAL PARANA
 
-PFEIL, Walter. **Estruturas de madeira** . 6. ed. rev. e ampl. Rio de Janeiro: Livros Técnicos e Científicos, 2003. 
+PONZETTO, G. **Mapa de Riscos Ambientais - NR5** -2ª Edição. Editora LTR, 2007.
 
-PINHEIRO, Libânio Miranda; CARVALHO, Roberto Chust. **Cálculo e Detalhamento de Estruturas Usuais de Concreto Armado - Volume 2.** 1º Ed.São Paulo: Pini, 2009. 
+REZENDE, Antonio Carlos. **Gerenciamento de projetos, obras e instalações** . IMAM, 2008.
 
-PINI. **Fichas de Materiais e Serviços: Portas, Forros e Telhados** . 2[a ] Edição. São Paulo: Pini, 2011. 
+ROCHA, José Fernando (Org). **Origens e Evolução das Ideias da Física** . Salvador, Ed. UFBa, 2002.
 
-PMI – Project Manegement Institute. **PMBOK: Guia do Conhecimento em Gerenciamento de Projetos** . [s.l.]: Saraiva, 2012. 
+SAAD, E. G. **Introdução à Engenharia de Segurança do Trabalho** . São Paulo, Fundacentro, 1981.
 
-58 
+SEBRAE; SINDUSCON. **Qualidade na Aquisição de Materiais de Construção de Obras** . 7[a ] Edição.  Pini, 2004.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+SILVA, A.; RIBEIRO, C. T.; DIAS, J. **Desenho Técnico Moderno** .Rio de Janeiro: LTC, 2006.
 
-INSTITUTOFEDERAL PARANA 
+SILVA, Alexsandro Amarante da. **Planejamento e Controle de Empreendimentos com Ms Project 2007** . [s.l.]: Ciência Moderna, 2008.
 
-PONZETTO, G. **Mapa de Riscos Ambientais - NR5** -2ª Edição. Editora LTR, 2007. 
+SILVA, M. L. **Iluminação: simplificando o projeto** . [s.l.]:Ciência Moderna, 2009.
 
-REZENDE, Antonio Carlos. **Gerenciamento de projetos, obras e instalações** . IMAM, 2008. 
+SLACK, Nigel; JOHNSON, Robert; CHAMBERS, Stuart. **Administração da Produção** . 3ª ed. São Paulo: Atlas, 2009.
 
-ROCHA, José Fernando (Org). **Origens e Evolução das Ideias da Física** . Salvador, Ed. UFBa, 2002. 
+SOUZA, Hebert Lopes de; LESSA, Ana Karina Marques da Cunha. **Gestão da Manutenção Predial: Uma aplicação prática** . 1[a ] Edição. Qualitymark, 2010.
 
-SAAD, E. G. **Introdução à Engenharia de Segurança do Trabalho** . São Paulo, Fundacentro, 1981. 
+SOUZA, Roberto. **Qualidade na Aquisição de Materiais e Execução de Obras** . 1ª Ed. São Paulo. PINI, 1996.
 
-SEBRAE; SINDUSCON. **Qualidade na Aquisição de Materiais de Construção de Obras** . 7[a ] Edição.  Pini, 2004. 
+TIMOSHENKO, S. P.; GERE, J. E. **Mecânica dos Sólidos - Vols. I e II** ,  2 Ed.  Rio de Janeiro: LTC , 1984.
 
-SILVA, A.; RIBEIRO, C. T.; DIAS, J. **Desenho Técnico Moderno** .Rio de Janeiro: LTC, 2006. 
+TIMOSHENKO, Stephan P. **Resistência dos Materiais.** Vol. 2. Rio de Janeiro: LTC, 1977.
 
-SILVA, Alexsandro Amarante da. **Planejamento e Controle de Empreendimentos com Ms Project 2007** . [s.l.]: Ciência Moderna, 2008. 
+TISAKA, Maçahico. **Orçamento na Construção Civil - Consultoria, Projeto e Execução** . 2 ed. São Paulo. PINI, 2011.
 
-SILVA, M. L. **Iluminação: simplificando o projeto** . [s.l.]:Ciência Moderna, 2009. 
+TORRES, Carlos Magno; FERRARO, Nicolau Giuberto; SOARES, Paulo Antonio Toledo. **Física Ciência e Tecnologia** . São Paulo, Ed. Moderna, 2010.
 
-SLACK, Nigel; JOHNSON, Robert; CHAMBERS, Stuart. **Administração da Produção** . 3ª ed. São Paulo: Atlas, 2009. 
+VAN LENGEN, J. **Manual do Arquiteto Descalço** . [s.l.]: Emporio do Livro, 2008.
 
-SOUZA, Hebert Lopes de; LESSA, Ana Karina Marques da Cunha. **Gestão da Manutenção Predial: Uma aplicação prática** . 1[a ] Edição. Qualitymark, 2010. 
+VAN VLACK, L. H. **Princício de Ciência e Tecnologia dos Materiais.** 4 Edição. São Paulo: Campus, 2003.
 
-SOUZA, Roberto. **Qualidade na Aquisição de Materiais e Execução de Obras** . 1ª Ed. São Paulo. PINI, 1996. 
+VARGAS, M. **Introdução à Mecânica dos Solos** . McGraw-Hill,1977
 
-TIMOSHENKO, S. P.; GERE, J. E. **Mecânica dos Sólidos - Vols. I e II** ,  2 Ed.  Rio de Janeiro: LTC , 1984. 
+VEIEIRA, Helio Flavio. **Logística Aplicada à Construção Civil** . 1ª Ed. São Paulo. PINI.
 
-TIMOSHENKO, Stephan P. **Resistência dos Materiais.** Vol. 2. Rio de Janeiro: LTC, 1977. 
+VIANNA, N. S.; GONÇALVES, J. C. S. **Iluminação e Arquitetura** .3ª ed. São Paulo: Geros, 2007.
 
-TISAKA, Maçahico. **Orçamento na Construção Civil - Consultoria, Projeto e Execução** . 2 ed. São Paulo. PINI, 2011. 
+WALISIEWICZ, Marek. **Energia Alternativa: Solar, Eólica, hidrelétrica e de Biocombustíveis** . 1ª ed. São Paulo: Publifolha, 2010.
 
-TORRES, Carlos Magno; FERRARO, Nicolau Giuberto; SOARES, Paulo Antonio Toledo. **Física Ciência e Tecnologia** . São Paulo, Ed. Moderna, 2010. 
+WILLIAN, B. **Informática Elementar: Open Office 2.0** . Rio de Janeiro, Alta Books, 2007.
 
-VAN LENGEN, J. **Manual do Arquiteto Descalço** . [s.l.]: Emporio do Livro, 2008. 
+59
 
-VAN VLACK, L. H. **Princício de Ciência e Tecnologia dos Materiais.** 4 Edição. São Paulo: Campus, 2003. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-VARGAS, M. **Introdução à Mecânica dos Solos** . McGraw-Hill,1977 
+INSTITUTOFEDERAL PARANA
 
-VEIEIRA, Helio Flavio. **Logística Aplicada à Construção Civil** . 1ª Ed. São Paulo. PINI. 
+## 4. Documentos Anexos
 
-VIANNA, N. S.; GONÇALVES, J. C. S. **Iluminação e Arquitetura** .3ª ed. São Paulo: Geros, 2007. 
+## **REGULAMENTO DO ESTÁGIO CURRICULAR NÃO OBRIGATÓRIO DOS CURSOS DO CAMPUS CURITIBA DO INSTITUTO FEDERAL DO PARANÁ**
 
-WALISIEWICZ, Marek. **Energia Alternativa: Solar, Eólica, hidrelétrica e de Biocombustíveis** . 1ª ed. São Paulo: Publifolha, 2010. 
+## CAPÍTULO I
 
-WILLIAN, B. **Informática Elementar: Open Office 2.0** . Rio de Janeiro, Alta Books, 2007. 
+## DA NATUREZA E FINALIDADE
 
-59 
+Artigo 1º - O estágio curricular não obrigatório é um ato educativo de natureza opcional, com a finalidade de complementar os conhecimentos teóricos recebidos pelo estudante ao longo das atividades de ensino/aprendizagem e obedecerá a legislação específica, bem como as normas e diretrizes internas da IFPR.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+## CAPÍTULO II
 
-INSTITUTOFEDERAL PARANA 
+## DA ORGANIZAÇÃO
 
-## 4. Documentos Anexos 
+Artigo 2º - O estágio curricular não obrigatório deve ser organizado tendo em vista os seguintes objetivos:
 
-## **REGULAMENTO DO ESTÁGIO CURRICULAR NÃO OBRIGATÓRIO DOS CURSOS DO CAMPUS CURITIBA DO INSTITUTO FEDERAL DO PARANÁ** 
+- I – ampliar a formação acadêmico-profissional do estudante;
 
-## CAPÍTULO I 
+II- propiciar ao estudante, na prática, a aplicação dos conhecimentos teóricos obtidos durante a realização do curso;
 
-## DA NATUREZA E FINALIDADE 
+III - promover a integração social do estudante.
 
-Artigo 1º - O estágio curricular não obrigatório é um ato educativo de natureza opcional, com a finalidade de complementar os conhecimentos teóricos recebidos pelo estudante ao longo das atividades de ensino/aprendizagem e obedecerá a legislação específica, bem como as normas e diretrizes internas da IFPR. 
+Artigo 3º - O estágio curricular não obrigatório será regulamentado pela Pró-Reitoria de Extensão, Pesquisa e Inovação, em conjunto com  a Direção de Ensino e com a Direção de Pesquisa, Extensão e Inovação do Campus Curitiba, com as seguintes atribuições:
 
-## CAPÍTULO II 
+I - celebrar convênio com a entidade concedente de estágio ou agência de integração empresa-escola;
 
-## DA ORGANIZAÇÃO 
+II - aprovar o plano de estágio elaborado pelo estudante e seu orientador;
 
-Artigo 2º - O estágio curricular não obrigatório deve ser organizado tendo em vista os seguintes objetivos: 
+III - assegurar a supervisão acadêmica do estágio, a ser realizada de forma compartilhada pelos orientadores e pelos supervisores profissionais vinculados às entidades concedentes;
 
-- I – ampliar a formação acadêmico-profissional do estudante; 
+- IV - aprovar e assinar o termo de compromisso de estágio, conforme legislação vigente.
 
-II- propiciar ao estudante, na prática, a aplicação dos conhecimentos teóricos obtidos durante a realização do curso; 
+Artigo 4º - Só poderão estagiar estudantes regularmente matriculados e com freqüência regular, preferencialmente depois de cursado um semestre letivo.
 
-III - promover a integração social do estudante. 
+§ único - a duração do estágio curricular não obrigatório não poderá ser inferior a um semestre letivo.
 
-Artigo 3º - O estágio curricular não obrigatório será regulamentado pela Pró-Reitoria de Extensão, Pesquisa e Inovação, em conjunto com  a Direção de Ensino e com a Direção de Pesquisa, Extensão e Inovação do Campus Curitiba, com as seguintes atribuições: 
+## CAPÍTULO III
 
-I - celebrar convênio com a entidade concedente de estágio ou agência de integração empresa-escola; 
+## DO CAMPO DE ESTÁGIO
 
-II - aprovar o plano de estágio elaborado pelo estudante e seu orientador; 
+Artigo 5º - Constituem campo de estágio as entidades de direito privado, os órgãos de administração pública, as instituições de ensino, a comunidade em geral e as próprias unidades de serviços e ensino do IFPR
 
-III - assegurar a supervisão acadêmica do estágio, a ser realizada de forma compartilhada pelos orientadores e pelos supervisores profissionais vinculados às entidades concedentes; 
+Artigo 6º - Para aprovação de campo de estágio serão considerados pelo Campus Curitiba, em relação à entidade ofertante de campo de estágio:
 
-- IV - aprovar e assinar o termo de compromisso de estágio, conforme legislação vigente. 
+I - existência de infra-estrutura material e de recursos humanos;
 
-Artigo 4º - Só poderão estagiar estudantes regularmente matriculados e com freqüência regular, preferencialmente depois de cursado um semestre letivo. 
+II - aceitação das condições de supervisão e avaliação do Campus Curitiba do IFPR;
 
-§ único - a duração do estágio curricular não obrigatório não poderá ser inferior a um semestre letivo. 
+III - anuência e acatamento às normas disciplinadoras do estágio curricular não obrigatório do Campus Curitiba do IFPR;
 
-## CAPÍTULO III 
+Artigo 7º - O campo de estágio será aprovado e oficializado pela Pró-Reitoria de Interação com a Sociedade com a entidade concedente de estágio ou agentes de integração empresa-escola, estes últimos entendidos como entidades que atuam na intermediação da busca de campos de estágio e ofertas de vagas.
 
-## DO CAMPO DE ESTÁGIO 
+§ 1º - A jornada do estágio deverá ser compatível com o horário escolar do estudante;
 
-Artigo 5º - Constituem campo de estágio as entidades de direito privado, os órgãos de administração pública, as instituições de ensino, a comunidade em geral e as próprias unidades de serviços e ensino do IFPR 
+§ 2º - deverá ser garantida a adequação entre as atividades desenvolvidas no estágio e a área de formação do estudante.
 
-Artigo 6º - Para aprovação de campo de estágio serão considerados pelo Campus Curitiba, em relação à entidade ofertante de campo de estágio: 
+60
 
-I - existência de infra-estrutura material e de recursos humanos; 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-II - aceitação das condições de supervisão e avaliação do Campus Curitiba do IFPR; 
+INSTITUTOFEDERAL PARANA
 
-III - anuência e acatamento às normas disciplinadoras do estágio curricular não obrigatório do Campus Curitiba do IFPR; 
+## CAPÍTULO IV
 
-Artigo 7º - O campo de estágio será aprovado e oficializado pela Pró-Reitoria de Interação com a Sociedade com a entidade concedente de estágio ou agentes de integração empresa-escola, estes últimos entendidos como entidades que atuam na intermediação da busca de campos de estágio e ofertas de vagas. 
+## DA SUPERVISÃO E ORIENTAÇÃO DE ESTÁGIO
 
-§ 1º - A jornada do estágio deverá ser compatível com o horário escolar do estudante; 
+Artigo 8º - A supervisão do estágio curricular não obrigatório caberá ao profissional vinculado à entidade concedente do estágio em conjunto com profissional orientador indicado pelo curso ao qual o aluno está matriculado.
 
-§ 2º - deverá ser garantida a adequação entre as atividades desenvolvidas no estágio e a área de formação do estudante. 
+Artigo 9º - Cabe ao profissional orientador do estágio:
 
-60 
+I - elaborar em conjunto com o estudante estagiário o plano de estágio, observada a adequação das atividades de estágio com a área de formação do estudante, de forma a garantir o desenvolvimento de competências necessárias à sua formação profissional.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+II - solicitar relatórios trimestrais dos estágios, verificar a assiduidade do estagiário e preencher a ficha de avaliação.
 
-INSTITUTOFEDERAL PARANA 
+Artigo 10 - Cabe ao supervisor profissional da entidade concedente:
 
-## CAPÍTULO IV 
+I - avaliar as atividades desenvolvidas pelo estudante estagiário;
 
-## DA SUPERVISÃO E ORIENTAÇÃO DE ESTÁGIO 
+II - assinar a ficha de frequência do aluno estagiário;
 
-Artigo 8º - A supervisão do estágio curricular não obrigatório caberá ao profissional vinculado à entidade concedente do estágio em conjunto com profissional orientador indicado pelo curso ao qual o aluno está matriculado. 
+III - orientar a elaboração dos relatórios do estágio e preencher a ficha de avaliação;
 
-Artigo 9º - Cabe ao profissional orientador do estágio: 
+IV - verificar a adequação das atividades de estágio com a área de formação do estudante, de
 
-I - elaborar em conjunto com o estudante estagiário o plano de estágio, observada a adequação das atividades de estágio com a área de formação do estudante, de forma a garantir o desenvolvimento de competências necessárias à sua formação profissional. 
+forma a garantir o desenvolvimento de competências necessárias à sua formação profissional.
 
-II - solicitar relatórios trimestrais dos estágios, verificar a assiduidade do estagiário e preencher a ficha de avaliação. 
+## CAPÍTULO V
 
-Artigo 10 - Cabe ao supervisor profissional da entidade concedente: 
+## DA AVALIAÇÃO DO ESTÁGIO
 
-I - avaliar as atividades desenvolvidas pelo estudante estagiário; 
+Artigo 11 - A avaliação do estágio curricular não obrigatório será realizada pelo profissional orientador do estágio, em conjunto com o supervisor profissional da entidade concedente, observados os seguintes critérios:
 
-II - assinar a ficha de frequência do aluno estagiário; 
+I - desempenho profissional do estudante estagiário nas atividades contidas no plano de
 
-III - orientar a elaboração dos relatórios do estágio e preencher a ficha de avaliação; 
+estágio;
 
-IV - verificar a adequação das atividades de estágio com a área de formação do estudante, de 
+II - assiduidade do estudante estagiário na entidade concedente;
 
-forma a garantir o desenvolvimento de competências necessárias à sua formação profissional. 
+## CAPÍTULO VI
 
-## CAPÍTULO V 
+## DAS DISPOSIÇÕES GERAIS
 
-## DA AVALIAÇÃO DO ESTÁGIO 
+Artigo 12 - O estágio de que trata este regulamento não cria vínculo empregatício de qualquer natureza entre o estudante e a entidade concedente, facultado ao estagiário o recebimento de bolsa.
 
-Artigo 11 - A avaliação do estágio curricular não obrigatório será realizada pelo profissional orientador do estágio, em conjunto com o supervisor profissional da entidade concedente, observados os seguintes critérios: 
+§ único – A entidade concedente de estágio ou os agentes de integração empresa-escola providenciarão seguro de acidentes pessoais ao estudante em regime de estágio curricular não obrigatório.
 
-I - desempenho profissional do estudante estagiário nas atividades contidas no plano de 
+Artigo13 - A entidade concedente poderá expedir declaração referente à realização de estágio curricular não obrigatório, depois de cumpridas todas as formalidades previstas para essa modalidade.
 
-estágio; 
+Artigo 14 - Os casos omissos serão resolvidos pela Direção de Ensino e pela Direção de Pesquisa, Extensão e Inovação do Campus Curitiba em consonância com as orientações recebidas da Pró-Reitoria de Extensão, Pesquisa e Inovação.
 
-II - assiduidade do estudante estagiário na entidade concedente; 
+Artigo 15 - Este regulamento entra em vigor nesta data, revogadas as disposições em contrário.
 
-## CAPÍTULO VI 
+Curitiba, 06 de maio de 2013.
 
-## DAS DISPOSIÇÕES GERAIS 
+Direção de Ensino                                          Direção de Pesquisa, Extensão e Inovação
 
-Artigo 12 - O estágio de que trata este regulamento não cria vínculo empregatício de qualquer natureza entre o estudante e a entidade concedente, facultado ao estagiário o recebimento de bolsa. 
+61
 
-§ único – A entidade concedente de estágio ou os agentes de integração empresa-escola providenciarão seguro de acidentes pessoais ao estudante em regime de estágio curricular não obrigatório. 
+1 INSTITUTOFEDERAL PARANA **Relatório de Atividades de Estágio Curricular Não Obrigatório**
 
-Artigo13 - A entidade concedente poderá expedir declaração referente à realização de estágio curricular não obrigatório, depois de cumpridas todas as formalidades previstas para essa modalidade. 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-Artigo 14 - Os casos omissos serão resolvidos pela Direção de Ensino e pela Direção de Pesquisa, Extensão e Inovação do Campus Curitiba em consonância com as orientações recebidas da Pró-Reitoria de Extensão, Pesquisa e Inovação. 
+O relatório será elaborado pelo estagiário devendo conter:
 
-Artigo 15 - Este regulamento entra em vigor nesta data, revogadas as disposições em contrário. 
+   - 1) Dados de identificação do estagiário e da unidade concedente.
 
-Curitiba, 06 de maio de 2013. 
+   - 2) Setores em que o estagiário atuou na empresa.
 
-Direção de Ensino                                          Direção de Pesquisa, Extensão e Inovação 
+   - 3) Descrever as atividades desenvolvidas.
 
-61 
+- 4) Apresentar pelo menos uma situação real de trabalho, vivenciada pelo estagiário na
 
-1 INSTITUTOFEDERAL PARANA **Relatório de Atividades de Estágio Curricular Não Obrigatório** 
+- unidade concedente, contemplando as atividades de trabalho vinculadas área de formação acadêmica-profissional.
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+- 5) Avaliação do estágio pelo acadêmico. O estagiário deve responder as seguintes
 
-O relatório será elaborado pelo estagiário devendo conter: 
+- perguntas com relação ao desenvolvimento das atividades:
 
-   - 1) Dados de identificação do estagiário e da unidade concedente. 
+Está de acordo com suas expectativas?
 
-   - 2) Setores em que o estagiário atuou na empresa. 
+Está oferecendo experiência para o exercício profissional futuro?
 
-   - 3) Descrever as atividades desenvolvidas. 
+Permite conhecer novas técnicas e metodologias de trabalho?
 
-- 4) Apresentar pelo menos uma situação real de trabalho, vivenciada pelo estagiário na 
+Oferece experiência prática na sua área de formação?
 
-- unidade concedente, contemplando as atividades de trabalho vinculadas área de formação acadêmica-profissional. 
+Permite conhecer a importância do trabalho em equipe?
 
-- 5) Avaliação do estágio pelo acadêmico. O estagiário deve responder as seguintes 
+Você sugere que outro acadêmico faça um estágio semelhante ao seu? Por quê?
 
-- perguntas com relação ao desenvolvimento das atividades: 
+Com relação ao ambiente de trabalho:
 
-Está de acordo com suas expectativas? 
+O ambiente físico é adequado?
 
-Está oferecendo experiência para o exercício profissional futuro? 
+Houve integração com os funcionários da empresa?
 
-Permite conhecer novas técnicas e metodologias de trabalho? 
+Como foi a orientação e supervisão exercidas pela empresa
 
-Oferece experiência prática na sua área de formação? 
+- 6) Avaliação do estágio pelo supervisor.
 
-Permite conhecer a importância do trabalho em equipe? 
-
-Você sugere que outro acadêmico faça um estágio semelhante ao seu? Por quê? 
-
-Com relação ao ambiente de trabalho: 
-
-O ambiente físico é adequado? 
-
-Houve integração com os funcionários da empresa? 
-
-Como foi a orientação e supervisão exercidas pela empresa 
-
-- 6) Avaliação do estágio pelo supervisor. 
-
-O supervisor deverá preencher os seguintes itens: 
+O supervisor deverá preencher os seguintes itens:
 
 ||Aspectos considerados do estagiário|Muito Bom   Bom|Muito Bom   Bom|Regular|
 |---|---|---|---|---|
@@ -2678,69 +2523,63 @@ O supervisor deverá preencher os seguintes itens:
 |7)|Compreensão das tarefas.||||
 |8)|Contribuição com ideias.||||
 
+62
 
+INSTITUTOFEDERAL PARANA
 
-62 
+MinisteriodaEducacao<br>InstitutoFederaldoParana<br>
 
-INSTITUTOFEDERAL PARANA 
+Recomendações:
 
-**==> picture [96 x 18] intentionally omitted <==**
+- 7) Avaliação do estágio pelo professor orientador
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>**----- End of picture text -----**<br>
+Diante das respostas dadas pelo estagiário e pelo supervisor de estágio, considero o estágio
 
+concluído com
 
-Recomendações: 
+(   ) êxito                         (   ) sem êxito
 
-- 7) Avaliação do estágio pelo professor orientador 
+Data e local:_____________________________________________________
 
-Diante das respostas dadas pelo estagiário e pelo supervisor de estágio, considero o estágio 
+Assinatura do Estagiário:
 
-concluído com 
+Assinatura do Supervisor:
 
-(   ) êxito                         (   ) sem êxito 
+Assinatura do Professor Orientador:
 
-Data e local:_____________________________________________________ 
+63
 
-Assinatura do Estagiário: 
+MinisteriodaEducacao InstitutoFederaldoParana
 
-Assinatura do Supervisor: 
+INSTITUTOFEDERAL PARANA
 
-Assinatura do Professor Orientador: 
+## **5. Referências**
 
-63 
+1. Catálogo Nacional de Cursos Técnicos. http://catalogonct.mec.gov.br/index.php
 
-MinisteriodaEducacao InstitutoFederaldoParana 
+2. Cipriano Carlos Luckesi. Blog http://www.luckesi.com.br/artigosavaliacao.htm#3. Acessado em 20/11/2012.
 
-INSTITUTOFEDERAL PARANA 
+3. PACHECO. Eliezer. Os institutos federais: uma revolução na educação profissional e tecnológica.
 
-## **5. Referências** 
+## 4. Parecer CNE/CEB nº 39/2004.
 
-1. Catálogo Nacional de Cursos Técnicos. http://catalogonct.mec.gov.br/index.php 
+http://portal.mec.gov.br/setec/arquivos/pdf_legislacao/tecnico/legisla_tecnico_parecer392 004.pdf#_blank
 
-2. Cipriano Carlos Luckesi. Blog http://www.luckesi.com.br/artigosavaliacao.htm#3. Acessado em 20/11/2012. 
+5. Resolução CNE/CEB nº 06/12. Define Diretrizes Curriculares Nacionais para a Educação Profissional Técnica de Nível Médio.
 
-3. PACHECO. Eliezer. Os institutos federais: uma revolução na educação profissional e tecnológica. 
+http://portal.mec.gov.br/index.php?option=com_docman&task=doc_download&gid=1166 3&Itemid=
 
-## 4. Parecer CNE/CEB nº 39/2004. 
+6. Resolução nº 01, de 3 de fevereiro de 2005.
 
-http://portal.mec.gov.br/setec/arquivos/pdf_legislacao/tecnico/legisla_tecnico_parecer392 004.pdf#_blank 
+http://portal.mec.gov.br/setec/arquivos/pdf_legislacao/tecnico/legisla_tecnico_resol1_3fe v_2005.pdf#_blank
 
-5. Resolução CNE/CEB nº 06/12. Define Diretrizes Curriculares Nacionais para a Educação Profissional Técnica de Nível Médio. 
+7. Secretaria de Políticas de Promoção da Igualdade Racial. http://www.seppir.gov.br/publicacoes
 
-http://portal.mec.gov.br/index.php?option=com_docman&task=doc_download&gid=1166 3&Itemid= 
+8. Brasil. Ministério da Educação. Secretaria de Educação Básica. Secretaria de Educação Continuada, Alfabetização, Diversidade e Inclusão. Secretaria de Educação Profissional e Tecnológica. Conselho Nacional da Educação. Câmara Nacional de Educação Básica. Diretrizes Curriculares Nacionais Gerais da Educação Básica. Brasília: MEC, SEB, DICEI, 2013. 562p.
 
-6. Resolução nº 01, de 3 de fevereiro de 2005. 
+9. Portaria no 120/2009.  http://londrina.ifpr.edu.br/wp-content/uploads/2013/01/Portaria120-de-06.08.09.pdf
 
-http://portal.mec.gov.br/setec/arquivos/pdf_legislacao/tecnico/legisla_tecnico_resol1_3fe v_2005.pdf#_blank 
+10. (1) GAZETA DO POVO. Rumo à acomodação. Curitiba, 08/12/2013. 11. (2) ______. Em busca de profissionais qualificados. Curitiba, 23/02/2014. 12. (3) ______. Investidores Maduros. Curitiba, 08/12/2013. 13. (4) ______. O futuro da cidade em discussão: revisão do plano diretor. Curitiba, 08/12/2013. 14. (5) ______. Recuperar antes de construir. Curitiba, 27/03/2013. 15. (6) ______. Inovação é fundamental para crescer. Curitiba, 19/03/2014. 16. (7) ______. Consumidor está aberto a inovações. Curitiba, 19/3/2013.
 
-7. Secretaria de Políticas de Promoção da Igualdade Racial. http://www.seppir.gov.br/publicacoes 
-
-8. Brasil. Ministério da Educação. Secretaria de Educação Básica. Secretaria de Educação Continuada, Alfabetização, Diversidade e Inclusão. Secretaria de Educação Profissional e Tecnológica. Conselho Nacional da Educação. Câmara Nacional de Educação Básica. Diretrizes Curriculares Nacionais Gerais da Educação Básica. Brasília: MEC, SEB, DICEI, 2013. 562p. 
-
-9. Portaria no 120/2009.  http://londrina.ifpr.edu.br/wp-content/uploads/2013/01/Portaria120-de-06.08.09.pdf 
-
-10. (1) GAZETA DO POVO. Rumo à acomodação. Curitiba, 08/12/2013. 11. (2) ______. Em busca de profissionais qualificados. Curitiba, 23/02/2014. 12. (3) ______. Investidores Maduros. Curitiba, 08/12/2013. 13. (4) ______. O futuro da cidade em discussão: revisão do plano diretor. Curitiba, 08/12/2013. 14. (5) ______. Recuperar antes de construir. Curitiba, 27/03/2013. 15. (6) ______. Inovação é fundamental para crescer. Curitiba, 19/03/2014. 16. (7) ______. Consumidor está aberto a inovações. Curitiba, 19/3/2013. 
-
-64 
+64
 

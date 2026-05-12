@@ -1,74 +1,70 @@
-Ministerio da Educacao 
+Ministerio da Educacao
 
-INSTITUTOFEDERAL Parana 
+INSTITUTOFEDERAL Parana
 
-**MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO SUPERIOR INSTITUTO FEDERAL DO PARANÁ PRÓ - REITORIA DE ENSINO DIRETORIA DE ENSINO** 
+**MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO SUPERIOR INSTITUTO FEDERAL DO PARANÁ PRÓ - REITORIA DE ENSINO DIRETORIA DE ENSINO**
 
-## **PROJETO PEDAGÓGICO DO CURSO DE TECNOLOGIA EM MASSOTERAPIA** 
+## **PROJETO PEDAGÓGICO DO CURSO DE TECNOLOGIA EM MASSOTERAPIA**
 
-**AUTORIZADO PELA RESOLUÇÃO Nº 23 de 2018** 
+**AUTORIZADO PELA RESOLUÇÃO Nº 23 de 2018**
 
-CURITIBA 2022 
+CURITIBA 2022
 
-1 
+1
 
-INSTITUTOFEDERAL Parana 
+INSTITUTOFEDERAL Parana
 
-**==> picture [64 x 9] intentionally omitted <==**
+Ministerio da Educacao<br>
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+## **INSTITUTO FEDERAL DO PARANÁ**
 
+**Reitor**
 
-## **INSTITUTO FEDERAL DO PARANÁ** 
+Odacir Antonio Zanatta
 
-**Reitor** 
+**Pró-Reitor de Ensino** Amarildo Pinheiro Magalhães
 
-Odacir Antonio Zanatta 
+**Diretor/a de Ensino** Patrícia Daniela Maciel
 
-**Pró-Reitor de Ensino** Amarildo Pinheiro Magalhães 
+## **Coordenador/a de Cursos de Graduação**
 
-**Diretor/a de Ensino** Patrícia Daniela Maciel 
+Katia Andrea Silva da Costa
 
-## **Coordenador/a de Cursos de Graduação** 
+**Direção Geral do Campus** Adriano William da Silva
 
-Katia Andrea Silva da Costa 
+**Direção de Ensino do Campus** Giancarlo de França Aguiar
 
-**Direção Geral do Campus** Adriano William da Silva 
+**Direção de Pesquisa e Extensão do Campus** Vilmar Fernandes
 
-**Direção de Ensino do Campus** Giancarlo de França Aguiar 
+**Coordenadora de Curso** Cibele Savi Stelmach
 
-**Direção de Pesquisa e Extensão do Campus** Vilmar Fernandes 
+**Núcleo Docente Estruturante**
 
-**Coordenadora de Curso** Cibele Savi Stelmach 
+Celia Regina Alves de Araújo Sandrini Cibele Savi Stelmach Elisangela Valevein Rodrigues Evelise Dias Antunes Geslaine Janaina Bueno dos Santos Jaime Amador Soares Livia Pimenta Renó Gasparotto Maria Izabel Rodrigues Severiano
 
-**Núcleo Docente Estruturante** 
+## **Comissão de Estruturação de Curso**
 
-Celia Regina Alves de Araújo Sandrini Cibele Savi Stelmach Elisangela Valevein Rodrigues Evelise Dias Antunes Geslaine Janaina Bueno dos Santos Jaime Amador Soares Livia Pimenta Renó Gasparotto Maria Izabel Rodrigues Severiano 
+Adriano Willian da Silva André Roberto Cremonezi Bruno Coletty Celia Regina Alves de Araújo Sandrini
 
-## **Comissão de Estruturação de Curso** 
+2
 
-Adriano Willian da Silva André Roberto Cremonezi Bruno Coletty Celia Regina Alves de Araújo Sandrini 
+Ministerio da Educacao
 
-2 
+INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+Cibele Savi Stelmach Claudia Monteiro dos Santos Bontorin Dirceia Romero Calixto Edilza Silva dos Santos Chibior Elisangela Valevein Rodrigues Evelise Dias Antunes Geslaine Janaina Bueno dos Santos Jaime Amador Soares Livia Pimenta Renó Gasparotto Marcos Otaviano da Silva Maria Izabel Rodrigues Severiano Ricardo Alexandre Pereira
 
-INSTITUTOFEDERAL Parana 
+**Colegiado de Gestão Pedagógica de Campus** Ricardo Alexandre Pereira Karina Labes
 
-Cibele Savi Stelmach Claudia Monteiro dos Santos Bontorin Dirceia Romero Calixto Edilza Silva dos Santos Chibior Elisangela Valevein Rodrigues Evelise Dias Antunes Geslaine Janaina Bueno dos Santos Jaime Amador Soares Livia Pimenta Renó Gasparotto Marcos Otaviano da Silva Maria Izabel Rodrigues Severiano Ricardo Alexandre Pereira 
+3
 
-**Colegiado de Gestão Pedagógica de Campus** Ricardo Alexandre Pereira Karina Labes 
+Parana
 
-3 
+Ministerio da Educacao
 
-Parana 
+## INSTITUTOFEDERAL
 
-Ministerio da Educacao 
-
-## INSTITUTOFEDERAL 
-
-## **SUMÁRIO** 
+## **SUMÁRIO**
 
 |**1.IDENTIFICAÇÃO**|**7**|
 |---|---|
@@ -101,9 +97,7 @@ Ministerio da Educacao
 |5.1 ESTRUTURA CURRICULAR|35|
 |**5.1.1 Representação Gráfica do Processo Formativo**|**35**|
 
-
-
-4 
+4
 
 |INSTITUTOFEDERAL||
 |---|---|
@@ -141,11 +135,9 @@ Ministerio da Educacao
 |**7.1.7 Plano de Cargos e Salários dos Docentes**|**104**|
 |7.2 CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO|106|
 
+5
 
-
-5 
-
-## INSTITUTOFEDERAL 
+## INSTITUTOFEDERAL
 
 |INSTITUTOFEDERAL|||
 |---|---|---|
@@ -174,669 +166,629 @@ Ministerio da Educacao
 |ANEXO A - REGULAMENTOS E NORMATIVAS PARA ESTÁGIO DO IFPR||151|
 |ANEXO B – MODELO DE PLANO DE TRABALHO||181|
 
+6
 
+INSTITUTOFEDERAL Parana
 
-6 
+Ministerio da Educacao<br>
 
-INSTITUTOFEDERAL Parana 
+## **1.IDENTIFICAÇÃO**
 
-**==> picture [64 x 9] intentionally omitted <==**
+## **Denominação do Curso:**
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+CURSO SUPERIOR EM TECNOLOGIA EM MASSOTERAPIA
 
+## **Área do Conhecimento/Eixo Tecnológico:**
 
-## **1.IDENTIFICAÇÃO** 
+40000001 Ciências da Saúde / Ambiente e Saúde
 
-## **Denominação do Curso:** 
+## **Modalidade:** Presencial
 
-CURSO SUPERIOR EM TECNOLOGIA EM MASSOTERAPIA 
+**Grau:** Tecnologia.
 
-## **Área do Conhecimento/Eixo Tecnológico:** 
+## **Regime Letivo (Periodicidade):** (x) Semestral
 
-40000001 Ciências da Saúde / Ambiente e Saúde 
+**Turno do curso:** (x) matutino
 
-## **Modalidade:** Presencial 
+## **Número de etapas anuais e duração média dos períodos letivos:**
 
-**Grau:** Tecnologia. 
+3 anos - 6 semestres - 400h/semestre
 
-## **Regime Letivo (Periodicidade):** (x) Semestral 
+**Horário de oferta do curso:** 7h30 às 11h50
 
-**Turno do curso:** (x) matutino 
+## **Prazo de Integralização Curricular:**
 
-## **Número de etapas anuais e duração média dos períodos letivos:** 
+Prazo mínimo será de três (03) anos e máximo em cinco (05) anos.
 
-3 anos - 6 semestres - 400h/semestre 
+## **Carga-Horário total do Curso: 2.440h**
 
-**Horário de oferta do curso:** 7h30 às 11h50 
+Carga horária dos componentes curriculares: 2.000h Carga horária estágio obrigatório: 400h Carga horária atividades complementares: 40h Carga horária de atividades de extensão/inseridas nos componentes curriculares: 240h **Tipo de Matrícula:** Por semestre: módulo/serial.
 
-## **Prazo de Integralização Curricular:** 
+**Vagas totais (anual):** Mínimo 20 e máximo 35
 
-Prazo mínimo será de três (03) anos e máximo em cinco (05) anos. 
+**Escolaridade mínima exigida:** Ensino Médio completo.
 
-## **Carga-Horário total do Curso: 2.440h** 
+## **Coordenadora:**
 
-Carga horária dos componentes curriculares: 2.000h Carga horária estágio obrigatório: 400h Carga horária atividades complementares: 40h Carga horária de atividades de extensão/inseridas nos componentes curriculares: 240h **Tipo de Matrícula:** Por semestre: módulo/serial. 
+Nome: Cibele Savi Stelmach Titulação Máxima: Mestrado Regime de Trabalho: (X) DE. ( ) 40h. ( ) 20h.
 
-**Vagas totais (anual):** Mínimo 20 e máximo 35 
+## **Endereço de Oferta:**
 
-**Escolaridade mínima exigida:** Ensino Médio completo. 
+Instituto Federal do Paraná, Campus Curitiba Rua João Negrão, nº 1285, Bairro Rebouças, Curitiba/PR, CEP: 80230-150.
 
-## **Coordenadora:** 
+7
 
-Nome: Cibele Savi Stelmach Titulação Máxima: Mestrado Regime de Trabalho: (X) DE. ( ) 40h. ( ) 20h. 
+INSTITUTOFEDERAL Parana
 
-## **Endereço de Oferta:** 
+Ministerio da Educacao<br>
 
-Instituto Federal do Paraná, Campus Curitiba Rua João Negrão, nº 1285, Bairro Rebouças, Curitiba/PR, CEP: 80230-150. 
+## **2 APRESENTAÇÃO DO PROJETO**
 
-7 
+O presente documento constitui o Projeto Pedagógico de Curso (PPC) de Curso Superior em Tecnologia em Massoterapia, do eixo tecnológico Ambiente e Saúde e têm por finalidade contextualizar e indicar as diretrizes pedagógicas para o respectivo curso de tecnologia em nível de graduação com duração de 3 (três) anos. Ofertado pelo Instituto Federal do Paraná (IFPR) - Campus Curitiba, destinado a estudantes oriundos do ensino médio ou equivalente. Este documento baseia-se em princípios e preceitos legais do sistema educativo nacional, explicitados na LDB nº 9.394/96 – atualizada pela Lei nº 11.741/08 –, e nos documentos normatizadores da Educação Profissional e Tecnológica e Ensino Superior em consonância com Plano de Desenvolvimento Institucional (PDI), com o Projeto Pedagógico Institucional (PPI) do IFPR e Projeto Político Pedagógico (PPP) do Campus Curitiba.
 
-INSTITUTOFEDERAL Parana 
+O Curso Superior em Tecnologia em Massoterapia trata-se de um curso inédito, já aprovado no processo DESUP/PROENS/IFPR processo 2340900057/2017-11 e resolução nº 23 de 2018, para posterior reconhecimento de curso junto ao MEC/SETEC (Secretaria de Educação Profissional e Tecnológica) e pelo próprio CNE, e conforme determina os artigos 43 e 44 do Decreto 5773/2006. Este curso visa atender a proposta do MEC com relação aos cursos de tecnologia como uma das principais respostas do setor educacional às necessidades e demandas da sociedade brasileira e atender as alterações nos modos de produção, na distribuição da força de trabalho e na sua qualificação (Resolução nº 3 de 18 de dezembro de 2002).
 
-**==> picture [64 x 9] intentionally omitted <==**
+Além disto, o Ministério da Saúde apresentou a Política Nacional de Práticas Integrativas e Complementares no SUS (PNPIC) consolidada e publicada na forma das portarias ministeriais nº 971, de 3 de maio de 2006, e nº 1.600, de 17 de julho de 2006, cujo objetivo é estabelecer políticas para garantir a integralidade na atenção à saúde, atendendo a necessidade de se conhecer, apoiar, incorporar e implementar experiências que já vêm sendo desenvolvidas na rede pública de muitos municípios e estados, entre as quais se destacam aquelas no âmbito da Medicina Tradicional Chinesa (BRASIL,2012; 2015).
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+8
 
+## INSTITUTOFEDERAL
 
-## **2 APRESENTAÇÃO DO PROJETO** 
+## Parana
 
-O presente documento constitui o Projeto Pedagógico de Curso (PPC) de Curso Superior em Tecnologia em Massoterapia, do eixo tecnológico Ambiente e Saúde e têm por finalidade contextualizar e indicar as diretrizes pedagógicas para o respectivo curso de tecnologia em nível de graduação com duração de 3 (três) anos. Ofertado pelo Instituto Federal do Paraná (IFPR) - Campus Curitiba, destinado a estudantes oriundos do ensino médio ou equivalente. Este documento baseia-se em princípios e preceitos legais do sistema educativo nacional, explicitados na LDB nº 9.394/96 – atualizada pela Lei nº 11.741/08 –, e nos documentos normatizadores da Educação Profissional e Tecnológica e Ensino Superior em consonância com Plano de Desenvolvimento Institucional (PDI), com o Projeto Pedagógico Institucional (PPI) do IFPR e Projeto Político Pedagógico (PPP) do Campus Curitiba. 
+Ministerio da Educacao
 
-O Curso Superior em Tecnologia em Massoterapia trata-se de um curso inédito, já aprovado no processo DESUP/PROENS/IFPR processo 2340900057/2017-11 e resolução nº 23 de 2018, para posterior reconhecimento de curso junto ao MEC/SETEC (Secretaria de Educação Profissional e Tecnológica) e pelo próprio CNE, e conforme determina os artigos 43 e 44 do Decreto 5773/2006. Este curso visa atender a proposta do MEC com relação aos cursos de tecnologia como uma das principais respostas do setor educacional às necessidades e demandas da sociedade brasileira e atender as alterações nos modos de produção, na distribuição da força de trabalho e na sua qualificação (Resolução nº 3 de 18 de dezembro de 2002). 
+No que diz respeito à Medicina Tradicional Chinesa (MTC) o curso atua desde seu embasamento teórico às práticas a ela relacionadas como o Shiatsu e o Tuiná, além de outras contempladas na formação do Tecnólogo em Massoterapia (MACIOCIA, 2008).
 
-Além disto, o Ministério da Saúde apresentou a Política Nacional de Práticas Integrativas e Complementares no SUS (PNPIC) consolidada e publicada na forma das portarias ministeriais nº 971, de 3 de maio de 2006, e nº 1.600, de 17 de julho de 2006, cujo objetivo é estabelecer políticas para garantir a integralidade na atenção à saúde, atendendo a necessidade de se conhecer, apoiar, incorporar e implementar experiências que já vêm sendo desenvolvidas na rede pública de muitos municípios e estados, entre as quais se destacam aquelas no âmbito da Medicina Tradicional Chinesa (BRASIL,2012; 2015). 
+A Organização das Nações Unidas (ONU) estabelece a Estratégia da OMS sobre medicina tradicional (2014 – 2023). Este documento tem por objetivo ajudar autoridades de saúde para encontrar soluções que levem a uma visão mais ampla sobre a melhoria da saúde e a autonomia dos pacientes. A estratégia tem dois objetivos principais: prestar apoio aos Estados-Membros para que aproveitem a possível contribuição da MTC para a saúde, bemestar e cuidados de saúde centrada nas pessoas e promover o uso seguro e efetivo da MTC através da regulamentação de produtos, práticas e profissionais (WHO, 2013).
 
-8 
+Estas perspectivas da ONU e da PNPIC favorecem a necessidade de ofertar cursos de formação nesta área atuando no atendimento primário em saúde, como em demais níveis de complexidade, utilizando métodos científicos para promover o bem-estar e a qualidade de vida – QV.
 
-## INSTITUTOFEDERAL 
+A formação em Tecnologia em Massoterapia atende a nova organização definida pela LDB (Lei Federal nº 9.394/96); a articulação com os demais níveis de Educação; o perfil do tecnólogo; a organização curricular; o acesso aos cursos superiores de tecnologia, bem como a duração, a verticalização, a certificação intermediária e a diplomação em tecnologia. O IFPR atua na verticalização desse percurso e já contemplou a Formação Inicial e Continuada – FIC de Massagista; a formação Técnica – Técnico em Massoterapia e agora propõe a formação superior com o curso Superior de Tecnologia em Massoterapia. O Instituto Federal do Paraná apresenta no bojo de sua política macro de ensino os itinerários formativos. A instituição dos itinerários permite a integração das diferentes etapas da Educação Básica, do Ensino Superior e da Educação Profissional e Tecnológica, possibilitando a educação continuada por meio da verticalização do ensino (PDI – IFPR, p.47).
 
-## Parana 
+## 2.1 O INSTITUTO FEDERAL DO PARANÁ
 
-Ministerio da Educacao 
+O Instituto Federal do Paraná (IFPR) é uma instituição pública federal de ensino vinculada ao Ministério da Educação (MEC) por meio da Secretaria de Educação Profissional
 
-No que diz respeito à Medicina Tradicional Chinesa (MTC) o curso atua desde seu embasamento teórico às práticas a ela relacionadas como o Shiatsu e o Tuiná, além de outras contempladas na formação do Tecnólogo em Massoterapia (MACIOCIA, 2008). 
+9
 
-A Organização das Nações Unidas (ONU) estabelece a Estratégia da OMS sobre medicina tradicional (2014 – 2023). Este documento tem por objetivo ajudar autoridades de saúde para encontrar soluções que levem a uma visão mais ampla sobre a melhoria da saúde e a autonomia dos pacientes. A estratégia tem dois objetivos principais: prestar apoio aos Estados-Membros para que aproveitem a possível contribuição da MTC para a saúde, bemestar e cuidados de saúde centrada nas pessoas e promover o uso seguro e efetivo da MTC através da regulamentação de produtos, práticas e profissionais (WHO, 2013). 
+## INSTITUTOFEDERAL
 
-Estas perspectivas da ONU e da PNPIC favorecem a necessidade de ofertar cursos de formação nesta área atuando no atendimento primário em saúde, como em demais níveis de complexidade, utilizando métodos científicos para promover o bem-estar e a qualidade de vida – QV. 
+## Parana
 
-A formação em Tecnologia em Massoterapia atende a nova organização definida pela LDB (Lei Federal nº 9.394/96); a articulação com os demais níveis de Educação; o perfil do tecnólogo; a organização curricular; o acesso aos cursos superiores de tecnologia, bem como a duração, a verticalização, a certificação intermediária e a diplomação em tecnologia. O IFPR atua na verticalização desse percurso e já contemplou a Formação Inicial e Continuada – FIC de Massagista; a formação Técnica – Técnico em Massoterapia e agora propõe a formação superior com o curso Superior de Tecnologia em Massoterapia. O Instituto Federal do Paraná apresenta no bojo de sua política macro de ensino os itinerários formativos. A instituição dos itinerários permite a integração das diferentes etapas da Educação Básica, do Ensino Superior e da Educação Profissional e Tecnológica, possibilitando a educação continuada por meio da verticalização do ensino (PDI – IFPR, p.47). 
+Ministerio da Educacao
 
-## 2.1 O INSTITUTO FEDERAL DO PARANÁ 
+e Tecnológica (SETEC). É voltado à educação superior, básica e profissional, especializada na oferta gratuita de educação profissional e tecnológica nas diferentes modalidades e níveis de ensino.
 
-O Instituto Federal do Paraná (IFPR) é uma instituição pública federal de ensino vinculada ao Ministério da Educação (MEC) por meio da Secretaria de Educação Profissional 
+A instituição foi criada em dezembro de 2008 através da Lei 11.892, que instituiu a Rede Federal de Educação Profissional e Tecnológica e os 38 institutos federais hoje existentes no país. Com a Lei em vigor, a Escola Técnica da Universidade Federal do Paraná (ET-UFPR) foi transformada no IFPR, que hoje possui autonomia administrativa e pedagógica.
 
-9 
+Cerca de oito anos após ser instituído formalmente, o IFPR possui 25 campi espalhados pelo estado do Paraná e continua em expansão. Foram implantados Campus Avançados: unidades que prioritariamente ofertam ensino técnico, cursos de formação inicial e continuada e de Educação a Distância, atendendo as ações que integram o Programa Nacional de Acesso ao Ensino Técnico e Emprego (Pronatec) com cinco unidades, além de três mestrados em funcionamento.
 
-## INSTITUTOFEDERAL 
+Atualmente, a instituição contempla mais de 26 mil estudantes nos cursos de modalidade presencial e a distância. O IFPR oferece 43 cursos técnicos presenciais, 11 cursos técnicos na modalidade à distância, 20 cursos superiores presenciais, três cursos de especialização na modalidade presencial e um curso de especialização na modalidade a distância.
 
-## Parana 
+De acordo com o PDI:
 
-Ministerio da Educacao 
+A partir da expectativa do Observatório do Mundo do Trabalho, proposto na formação da Rede Federal em 2008, o IFPR vem desenvolvendo desde agosto de 2013 o Observatório Regional do IFPR. Este se ocupa em pesquisar, apresentar e atualizar indicadores socioeconômicos das Unidades Educacionais (Campus), que sejam relevantes para o desenvolvimento de ações de ensino, pesquisa e extensão da Autarquia Federal. Também atende a demandas especificas da Instituição e realiza Projetos Institucionais como: Boletins Informativos, Artigos Científicos, Mapeamento Geográfico da Localização de Origem dos Alunos, Estudo das Mudanças Populacionais, indicação de fontes de pesquisa Públicas e Governamentais para formação de Indicadores e proposição de Metodologia de Indicadores Socioeconômicos aplicados ao Ensino Profissionalizante, Parcerias com Grupos de Pesquisa da Instituição.
 
-e Tecnológica (SETEC). É voltado à educação superior, básica e profissional, especializada na oferta gratuita de educação profissional e tecnológica nas diferentes modalidades e níveis de ensino. 
+10
 
-A instituição foi criada em dezembro de 2008 através da Lei 11.892, que instituiu a Rede Federal de Educação Profissional e Tecnológica e os 38 institutos federais hoje existentes no país. Com a Lei em vigor, a Escola Técnica da Universidade Federal do Paraná (ET-UFPR) foi transformada no IFPR, que hoje possui autonomia administrativa e pedagógica. 
+## INSTITUTOFEDERAL
 
-Cerca de oito anos após ser instituído formalmente, o IFPR possui 25 campi espalhados pelo estado do Paraná e continua em expansão. Foram implantados Campus Avançados: unidades que prioritariamente ofertam ensino técnico, cursos de formação inicial e continuada e de Educação a Distância, atendendo as ações que integram o Programa Nacional de Acesso ao Ensino Técnico e Emprego (Pronatec) com cinco unidades, além de três mestrados em funcionamento. 
+## Parana
 
-Atualmente, a instituição contempla mais de 26 mil estudantes nos cursos de modalidade presencial e a distância. O IFPR oferece 43 cursos técnicos presenciais, 11 cursos técnicos na modalidade à distância, 20 cursos superiores presenciais, três cursos de especialização na modalidade presencial e um curso de especialização na modalidade a distância. 
+Ministerio da Educacao<br>
 
-De acordo com o PDI: 
+## 2.2 O CURSO SUPERIOR DE TECNOLOGIA EM MASSOTERAPIA
 
-A partir da expectativa do Observatório do Mundo do Trabalho, proposto na formação da Rede Federal em 2008, o IFPR vem desenvolvendo desde agosto de 2013 o Observatório Regional do IFPR. Este se ocupa em pesquisar, apresentar e atualizar indicadores socioeconômicos das Unidades Educacionais (Campus), que sejam relevantes para o desenvolvimento de ações de ensino, pesquisa e extensão da Autarquia Federal. Também atende a demandas especificas da Instituição e realiza Projetos Institucionais como: Boletins Informativos, Artigos Científicos, Mapeamento Geográfico da Localização de Origem dos Alunos, Estudo das Mudanças Populacionais, indicação de fontes de pesquisa Públicas e Governamentais para formação de Indicadores e proposição de Metodologia de Indicadores Socioeconômicos aplicados ao Ensino Profissionalizante, Parcerias com Grupos de Pesquisa da Instituição. 
+O Curso Superior de Tecnologia em Massoterapia é um curso inédito, já aprovado no processo DESUP/PROENS/IFPR (processo 2340900057/2017-11) e resolução Nº 23 de 2018, havendo a necessidade de solicitar o reconhecimento de curso junto à Câmara de Educação Superior do Colegiado, junto ao MEC/ MEC/SETEC (Secretaria de Educação Profissional e Tecnológica) e pelo próprio CNE, e conforme determina os artigos 43 e 44 do Decreto 5773/2006.
 
-10 
+A necessidade da proposta está de acordo com as definições da PNPIC e diretrizes da ONU no que se refere à proposição de atendimento voltado ao bem-estar, prevenção e cuidados de saúde centrados nas pessoas, com foco na promoção da qualidade de vida. O curso também atua de forma a promover formação sistemática e voltada aos pressupostos da MTC através da formação abrangente de seus fundamentos e aplicação segura pelo profissional em nível de graduação.
 
-## INSTITUTOFEDERAL 
+A criação deste curso vem também ao encontro da discussão do PLS 13/2016 que "dispõe sobre a regulamentação do exercício da profissão de Massoterapeuta e dá outras providências”, fase em que a profissão da massoterapia, embora milenar, requer adequação por meio de regimentos que atuem na sua consolidação.
 
-## Parana 
+A Lei nº 11.892, de 29 de dezembro de 2008, institui a Rede Federal de Educação Profissional, Científica e Tecnológica, cria os Institutos Federais de Educação, Ciência e Tecnologia, e dá outras providências. O Instituto Federal do Paraná é criado mediante transformação da Escola Técnica da Universidade Federal do Paraná; os Institutos Federais de Educação, Ciência e Tecnologia são instituições de educação superior, básica e profissional, pluricurriculares e multicampi, especializados na oferta de educação profissional e tecnológica nas diferentes modalidades de ensino, com base na conjugação de conhecimentos técnicos e tecnológicos às suas práticas pedagógicas.
 
-**==> picture [64 x 9] intentionally omitted <==**
+## 2.3 MISSÃO, VISÃO E VALORES
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+A missão dos IFs é promover a educação profissional e tecnológica, pública, de qualidade e socialmente referenciada, por meio do ensino, pesquisa e extensão, visando à
 
+11
 
-## 2.2 O CURSO SUPERIOR DE TECNOLOGIA EM MASSOTERAPIA 
+## INSTITUTOFEDERAL
 
-O Curso Superior de Tecnologia em Massoterapia é um curso inédito, já aprovado no processo DESUP/PROENS/IFPR (processo 2340900057/2017-11) e resolução Nº 23 de 2018, havendo a necessidade de solicitar o reconhecimento de curso junto à Câmara de Educação Superior do Colegiado, junto ao MEC/ MEC/SETEC (Secretaria de Educação Profissional e Tecnológica) e pelo próprio CNE, e conforme determina os artigos 43 e 44 do Decreto 5773/2006. 
+## Parana
 
-A necessidade da proposta está de acordo com as definições da PNPIC e diretrizes da ONU no que se refere à proposição de atendimento voltado ao bem-estar, prevenção e cuidados de saúde centrados nas pessoas, com foco na promoção da qualidade de vida. O curso também atua de forma a promover formação sistemática e voltada aos pressupostos da MTC através da formação abrangente de seus fundamentos e aplicação segura pelo profissional em nível de graduação. 
+Ministerio da Educacao
 
-A criação deste curso vem também ao encontro da discussão do PLS 13/2016 que "dispõe sobre a regulamentação do exercício da profissão de Massoterapeuta e dá outras providências”, fase em que a profissão da massoterapia, embora milenar, requer adequação por meio de regimentos que atuem na sua consolidação. 
+formação de cidadãos críticos, autônomos e empreendedores, comprometidos com a sustentabilidade, cuja visão é ser referência em educação profissional, tecnológica e científica, reconhecida pelo compromisso com a transformação social.
 
-A Lei nº 11.892, de 29 de dezembro de 2008, institui a Rede Federal de Educação Profissional, Científica e Tecnológica, cria os Institutos Federais de Educação, Ciência e Tecnologia, e dá outras providências. O Instituto Federal do Paraná é criado mediante transformação da Escola Técnica da Universidade Federal do Paraná; os Institutos Federais de Educação, Ciência e Tecnologia são instituições de educação superior, básica e profissional, pluricurriculares e multicampi, especializados na oferta de educação profissional e tecnológica nas diferentes modalidades de ensino, com base na conjugação de conhecimentos técnicos e tecnológicos às suas práticas pedagógicas. 
+De acordo com a Lei de criação (Lei nº 11.892/08) e com seu Estatuto, o IFPR tem as seguintes finalidades e características (BRASIL, 2008):
 
-## 2.3 MISSÃO, VISÃO E VALORES 
+I – ofertar educação profissional e tecnológica, em todos os seus níveis e modalidades, formando e qualificando cidadãos com vistas à atuação profissional nos diversos setores da economia, com ênfase no desenvolvimento socioeconômico local, regional e nacional;
 
-A missão dos IFs é promover a educação profissional e tecnológica, pública, de qualidade e socialmente referenciada, por meio do ensino, pesquisa e extensão, visando à 
+II – desenvolver a educação profissional e tecnológica como processo educativo e investigativo de geração e adaptação de soluções técnicas e tecnológicas às demandas sociais e peculiaridades regionais;
 
-11 
+III – promover a integração e a verticalização da educação básica à educação profissional e educação superior, otimizando a infraestrutura física, os quadros de pessoal e os recursos de gestão;
 
-## INSTITUTOFEDERAL 
+IV – orientar sua oferta formativa em benefício da consolidação e fortalecimento dos arranjos produtivos, sociais e culturais locais, identificados com base no mapeamento das potencialidades de desenvolvimento socioeconômico e cultural no âmbito de atuação do Instituto Federal;
 
-## Parana 
+V – constituir-se em centro de excelência na oferta do ensino de ciências, em geral, e de ciências aplicadas, em particular, estimulando o desenvolvimento de espírito crítico, voltado à investigação empírica;
 
-Ministerio da Educacao 
+VI – qualificar-se como centro de referência no apoio à oferta do ensino de ciências nas instituições públicas de ensino, oferecendo capacitação técnica e atualização pedagógica aos docentes das redes públicas de ensino;
 
-formação de cidadãos críticos, autônomos e empreendedores, comprometidos com a sustentabilidade, cuja visão é ser referência em educação profissional, tecnológica e científica, reconhecida pelo compromisso com a transformação social. 
+VII – desenvolver programas de extensão e de divulgação científica e tecnológica;
 
-De acordo com a Lei de criação (Lei nº 11.892/08) e com seu Estatuto, o IFPR tem as seguintes finalidades e características (BRASIL, 2008): 
+VIII – realizar e estimular a pesquisa aplicada, a produção cultural, o empreendedorismo, o cooperativismo e o desenvolvimento científico e tecnológico;
 
-I – ofertar educação profissional e tecnológica, em todos os seus níveis e modalidades, formando e qualificando cidadãos com vistas à atuação profissional nos diversos setores da economia, com ênfase no desenvolvimento socioeconômico local, regional e nacional; 
+IX – promover a produção, o desenvolvimento e a transferência de tecnologias sociais, notadamente as voltadas à preservação do meio ambiente.
 
-II – desenvolver a educação profissional e tecnológica como processo educativo e investigativo de geração e adaptação de soluções técnicas e tecnológicas às demandas sociais e peculiaridades regionais; 
+12
 
-III – promover a integração e a verticalização da educação básica à educação profissional e educação superior, otimizando a infraestrutura física, os quadros de pessoal e os recursos de gestão; 
+## INSTITUTOFEDERAL
 
-IV – orientar sua oferta formativa em benefício da consolidação e fortalecimento dos arranjos produtivos, sociais e culturais locais, identificados com base no mapeamento das potencialidades de desenvolvimento socioeconômico e cultural no âmbito de atuação do Instituto Federal; 
+Parana
 
-V – constituir-se em centro de excelência na oferta do ensino de ciências, em geral, e de ciências aplicadas, em particular, estimulando o desenvolvimento de espírito crítico, voltado à investigação empírica; 
+Ministerio da Educacao
 
-VI – qualificar-se como centro de referência no apoio à oferta do ensino de ciências nas instituições públicas de ensino, oferecendo capacitação técnica e atualização pedagógica aos docentes das redes públicas de ensino; 
+Atendendo a estas finalidades acima citadas, especialmente no que diz respeito à verticalização do ensino, o Colegiado do Curso Técnico em Massoterapia, desde seu início, oferta cursos de formação Inicial e Continuada – FIC Massagista (Extensão, Mulheres Mil e PRONATEC), foi o pioneiro no desenvolvimento do Curso Técnico em Massoterapia e propõe agora o Curso Superior de Tecnologia em Massoterapia.
 
-VII – desenvolver programas de extensão e de divulgação científica e tecnológica; 
+## **3. ORGANIZAÇÃO DIDÁTICO-PEDAGÓGICA**
 
-VIII – realizar e estimular a pesquisa aplicada, a produção cultural, o empreendedorismo, o cooperativismo e o desenvolvimento científico e tecnológico; 
+A organização didático-pedagógica do Curso de Tecnologia em Massoterapia atende à Resolução nº. 55/2011, Capítulo I - Da educação Superior, Seção I - Dos cursos de graduação. Atende às Diretrizes Curriculares Nacionais e Legislações vigentes estabelecidas pelos órgãos competentes do Ministério da Educação como proposta de curso.
 
-IX – promover a produção, o desenvolvimento e a transferência de tecnologias sociais, notadamente as voltadas à preservação do meio ambiente. 
+E ainda em consonância com o Art. 8°, da Resolução nº. 55/2011(IFPR,2011), este curso tem por objetivo formar profissionais tecnólogos em Massoterapia capacitados técnicocientificamente para a execução de técnicas massoterapêuticas visando a promoção da saúde, a prevenção de doenças e principalmente a manutenção da qualidade de vida da população.
 
-12 
+O curso está estruturado de forma flexível e em componentes curriculares agrupados em seis semestres com duração e carga horária estruturada com base nos cursos do eixo de Ambiente e Saúde no Catálogo Nacional de Cursos Superiores de Tecnologia.
 
-## INSTITUTOFEDERAL 
+Atende também ao disposto no Art. 19 que trata do princípio político-pedagógico do currículo visto que está fundamentado em práticas que se estabelecem com o diálogo entre técnicos, professores, estudantes e comunidade [...] (IFPR, Resolução nº. 55/2011, p. 5).
 
-Parana 
+Por fim, para a oferta deste curso será observado o disposto no Art. 11 (IFPR, Resolução nº. 55/2011, p. 5): o perfil do docente, a infraestrutura (instalações, materiais didáticos etc.) e principalmente as necessidades e tendências do mundo do trabalho, dos arranjos produtivos, culturais e sociais, considerando contextos locais e regionais [...].
 
-Ministerio da Educacao 
+## 3.1 JUSTIFICATIVA
 
-Atendendo a estas finalidades acima citadas, especialmente no que diz respeito à verticalização do ensino, o Colegiado do Curso Técnico em Massoterapia, desde seu início, oferta cursos de formação Inicial e Continuada – FIC Massagista (Extensão, Mulheres Mil e PRONATEC), foi o pioneiro no desenvolvimento do Curso Técnico em Massoterapia e propõe agora o Curso Superior de Tecnologia em Massoterapia. 
+13
 
-## **3. ORGANIZAÇÃO DIDÁTICO-PEDAGÓGICA** 
+## INSTITUTOFEDERAL
 
-A organização didático-pedagógica do Curso de Tecnologia em Massoterapia atende à Resolução nº. 55/2011, Capítulo I - Da educação Superior, Seção I - Dos cursos de graduação. Atende às Diretrizes Curriculares Nacionais e Legislações vigentes estabelecidas pelos órgãos competentes do Ministério da Educação como proposta de curso. 
+## Parana
 
-E ainda em consonância com o Art. 8°, da Resolução nº. 55/2011(IFPR,2011), este curso tem por objetivo formar profissionais tecnólogos em Massoterapia capacitados técnicocientificamente para a execução de técnicas massoterapêuticas visando a promoção da saúde, a prevenção de doenças e principalmente a manutenção da qualidade de vida da população. 
+Ministerio da Educacao
 
-O curso está estruturado de forma flexível e em componentes curriculares agrupados em seis semestres com duração e carga horária estruturada com base nos cursos do eixo de Ambiente e Saúde no Catálogo Nacional de Cursos Superiores de Tecnologia. 
+A massagem é uma forma terapêutica milenar, praticada antes mesmo dos primeiros registros escritos, amplamente utilizada no contexto histórico das práticas orientais, hoje conhecidas por Medicina Tradicional Chinesa (MTC), assim como presente nos primeiros escritos da medicina ocidental quando, Hipócrates, ressaltava a importância do toque como prática terapêutica enquanto desenvolvia novos estudos sobre o corpo humano e sua relação entre o equilíbrio de fluidos, com o objetivo de prevenir doenças e promover o bem-estar.
 
-Atende também ao disposto no Art. 19 que trata do princípio político-pedagógico do currículo visto que está fundamentado em práticas que se estabelecem com o diálogo entre técnicos, professores, estudantes e comunidade [...] (IFPR, Resolução nº. 55/2011, p. 5). 
+A profissão de Massagista foi criada pelo Decreto-Lei N. 8345/45 e reconhecida pela Lei N. 3968/61 que fundamenta o exercício profissional da Massoterapia. O Código Sanitário introduziu o regulamento da promoção, preservação e recuperação da saúde no Estado, contemplando disposições a serem respeitadas por esses profissionais. A habilitação Técnica em Massoterapia atende ao disposto na Lei de Diretrizes e Bases da Educação Nacional (LDB), Lei Federal N. 9394/96, no Decreto Federal N. 5154/04, na Resolução CNE/CEB n° 06/12, no Parecer CNE/CEB N. 16/99 do Conselho Nacional da Saúde do Paraná (SESA) e nas demais normas do Sistema de Ensino e na Legislação que regulamentam as atividades da área: Ambiente e Saúde.
 
-Por fim, para a oferta deste curso será observado o disposto no Art. 11 (IFPR, Resolução nº. 55/2011, p. 5): o perfil do docente, a infraestrutura (instalações, materiais didáticos etc.) e principalmente as necessidades e tendências do mundo do trabalho, dos arranjos produtivos, culturais e sociais, considerando contextos locais e regionais [...]. 
+No ano de 2003 iniciou-se a oferta do curso Técnico em Massoterapia na Escola Técnica da Universidade Federal do Paraná. Deste então nota-se uma crescente demanda nos processos seletivos, observada também pelo número de turmas já formadas e a adesão cada vez maior na sociedade, motivo pelo qual são estabelecidas várias parcerias com empresas e instituições público-privadas em que, seja em formato de estágio ou participação em eventos através de projetos de extensão, nas quais os alunos são bem recepcionados e notadamente valorizados no momento que executam suas atividades laborais em massoterapia.
 
-## 3.1 JUSTIFICATIVA 
+O Projeto Pedagógico do Curso Técnico em Massoterapia possui características que inviabilizam alguns progressos na atuação desses profissionais como o limite da carga horária, a impossibilidade de ascensão em cursos de pós-graduação, a ampliação do conhecimento. O curso em nível superior (Tecnologia), permite a verticalização dessa formação profissional e com isso a possibilidade de ampliar o universo de saberes nesse público, além de propiciar novas oportunidades de trabalho. De acordo com o Parecer CNE/CES 436/2001, os cursos superiores de tecnologia são cursos de graduação com
 
-13 
+14
 
-## INSTITUTOFEDERAL 
+## INSTITUTOFEDERAL
 
-## Parana 
+## Parana
 
-Ministerio da Educacao 
+Ministerio da Educacao
 
-A massagem é uma forma terapêutica milenar, praticada antes mesmo dos primeiros registros escritos, amplamente utilizada no contexto histórico das práticas orientais, hoje conhecidas por Medicina Tradicional Chinesa (MTC), assim como presente nos primeiros escritos da medicina ocidental quando, Hipócrates, ressaltava a importância do toque como prática terapêutica enquanto desenvolvia novos estudos sobre o corpo humano e sua relação entre o equilíbrio de fluidos, com o objetivo de prevenir doenças e promover o bem-estar. 
+características especiais e que se cumpridas as diretrizes vinculadas conduz o aluno para a obtenção de diploma de tecnólogo, em nível superior.
 
-A profissão de Massagista foi criada pelo Decreto-Lei N. 8345/45 e reconhecida pela Lei N. 3968/61 que fundamenta o exercício profissional da Massoterapia. O Código Sanitário introduziu o regulamento da promoção, preservação e recuperação da saúde no Estado, contemplando disposições a serem respeitadas por esses profissionais. A habilitação Técnica em Massoterapia atende ao disposto na Lei de Diretrizes e Bases da Educação Nacional (LDB), Lei Federal N. 9394/96, no Decreto Federal N. 5154/04, na Resolução CNE/CEB n° 06/12, no Parecer CNE/CEB N. 16/99 do Conselho Nacional da Saúde do Paraná (SESA) e nas demais normas do Sistema de Ensino e na Legislação que regulamentam as atividades da área: Ambiente e Saúde. 
+Sendo o IFPR pioneiro na oferta da modalidade técnica em massoterapia na esfera federal, a criação de um curso de nível tecnólogo propicia um nível de aprendizagem mais complexa em que é possível inserir conteúdo que aperfeiçoam e capacitam o profissional para uma compreensão mais ampla do processo saúde/doença em suas dimensões técnico/científicas. Além disso, a carga horária prevista permite o aprofundamento das concepções terapêuticas para além de sua prática, inseridas na complexidade do atendimento em saúde vigente. A possibilidade de finalizar um curso em nível superior (Tecnologia) permite, além do conhecimento aprofundado nas especificidades técnico/conceituais da área, o acesso para cursos de especialização, mestrado e doutorado. Essa vantagem propõe um salto importante na profissão do massoterapeuta uma vez que abre espaço para o avanço em inovação, investigação e aperfeiçoamento dessas práticas por meio da construção de novos saberes.
 
-No ano de 2003 iniciou-se a oferta do curso Técnico em Massoterapia na Escola Técnica da Universidade Federal do Paraná. Deste então nota-se uma crescente demanda nos processos seletivos, observada também pelo número de turmas já formadas e a adesão cada vez maior na sociedade, motivo pelo qual são estabelecidas várias parcerias com empresas e instituições público-privadas em que, seja em formato de estágio ou participação em eventos através de projetos de extensão, nas quais os alunos são bem recepcionados e notadamente valorizados no momento que executam suas atividades laborais em massoterapia. 
+O Curso Superior de Tecnologia em Massoterapia se propõe a cumprir o objetivo de verticalização no IFPR. A verticalização implica na oferta concomitante de cursos em níveis e modalidades diferentes, perpassando a educação profissional, técnica e tecnológica. A diversidade de ofertas faz parte do currículo dos Institutos Federais, pois contempla como princípio em sua proposta político pedagógica.
 
-O Projeto Pedagógico do Curso Técnico em Massoterapia possui características que inviabilizam alguns progressos na atuação desses profissionais como o limite da carga horária, a impossibilidade de ascensão em cursos de pós-graduação, a ampliação do conhecimento. O curso em nível superior (Tecnologia), permite a verticalização dessa formação profissional e com isso a possibilidade de ampliar o universo de saberes nesse público, além de propiciar novas oportunidades de trabalho. De acordo com o Parecer CNE/CES 436/2001, os cursos superiores de tecnologia são cursos de graduação com 
+(...) ofertar educação básica, principalmente em cursos de ensino médio integrado à educação profissional técnica de nível médio; ensino técnico em geral; cursos superiores de tecnologia, licenciatura e bacharelado em áreas em que a ciência e a tecnologia são componentes determinantes, em particular as engenharias, bem como programas de pós-graduação lato e stricto sensu, sem deixar de assegurar a formação inicial e continuada do trabalhador e dos futuros trabalhadores (BRASIL, 2008, p. 27).
 
-14 
+O colegiado da massoterapia é pioneiro na oferta o curso de Formação Inicial e Continuada em Massagista desde 2011 e na modalidade de extensão, Mulheres Mil em 2012, assim como no Programa Federal de Acesso ao Ensino Técnico e Emprego (PRONATEC). Vale citar o exemplo de estudantes que percorreram esse itinerário formativo, como a Sra.
 
-## INSTITUTOFEDERAL 
+15
 
-## Parana 
+## INSTITUTOFEDERAL
 
-Ministerio da Educacao 
+## Parana
 
-características especiais e que se cumpridas as diretrizes vinculadas conduz o aluno para a obtenção de diploma de tecnólogo, em nível superior. 
+Ministerio daEducacao
 
-Sendo o IFPR pioneiro na oferta da modalidade técnica em massoterapia na esfera federal, a criação de um curso de nível tecnólogo propicia um nível de aprendizagem mais complexa em que é possível inserir conteúdo que aperfeiçoam e capacitam o profissional para uma compreensão mais ampla do processo saúde/doença em suas dimensões técnico/científicas. Além disso, a carga horária prevista permite o aprofundamento das concepções terapêuticas para além de sua prática, inseridas na complexidade do atendimento em saúde vigente. A possibilidade de finalizar um curso em nível superior (Tecnologia) permite, além do conhecimento aprofundado nas especificidades técnico/conceituais da área, o acesso para cursos de especialização, mestrado e doutorado. Essa vantagem propõe um salto importante na profissão do massoterapeuta uma vez que abre espaço para o avanço em inovação, investigação e aperfeiçoamento dessas práticas por meio da construção de novos saberes. 
+Bernadete Santos, pedagoga, que fez a redescoberta do estudo pelo Pronatec em massagista, passando a integrar posteriormente o Curso Técnico de Massoterapia, dando início ao exercício de uma nova profissão de técnico em massoterapia. Ainda, almejava a continuidade do curso no nível superior na área. Porém, devido a não oferta, acessou o curso superior em Gestão Pública no Campus Curitiba (ingresso em 2016). Essa história foi relatada pelo site UOL educação e, posteriormente, em entrevista no Globo Repórter. Disponível em UOL Educação[1] e Globo Repórter[2] .
 
-O Curso Superior de Tecnologia em Massoterapia se propõe a cumprir o objetivo de verticalização no IFPR. A verticalização implica na oferta concomitante de cursos em níveis e modalidades diferentes, perpassando a educação profissional, técnica e tecnológica. A diversidade de ofertas faz parte do currículo dos Institutos Federais, pois contempla como princípio em sua proposta político pedagógica. 
+Outro dado relevante que justifica a oferta do curso Tecnologia em Massoterapia é a grande procura no curso técnico por estudantes com formação superior, principalmente da área de saúde, na busca por formação específica em massoterapia. Um levantamento estatístico realizado pela secretaria acadêmica do Campus Curitiba o curso técnico em massoterapia formou 43 turmas desde 2003, totalizando 1146 alunos. Analisando os formandos a partir de 2008 foram identificados 116 alunos que já portavam uma graduação, ou seja, 11,6% de alunos com perfil para ingressar em um curso de tecnólogo.
 
-(...) ofertar educação básica, principalmente em cursos de ensino médio integrado à educação profissional técnica de nível médio; ensino técnico em geral; cursos superiores de tecnologia, licenciatura e bacharelado em áreas em que a ciência e a tecnologia são componentes determinantes, em particular as engenharias, bem como programas de pós-graduação lato e stricto sensu, sem deixar de assegurar a formação inicial e continuada do trabalhador e dos futuros trabalhadores (BRASIL, 2008, p. 27). 
+Além desses dados, o curso técnico já conta com expressivas intervenções na comunidade permitindo o curso superior a abertura de mais espaços de atuação. O Projeto Mãos Itinerantes, por exemplo, com base nos anos 2012 a 2017, divulgaram e levaram as práticas massoterapêuticas em eventos locais somando 6.199 atendimentos sendo, portanto, uma média aproximada de 1.240 para cada ano. O projeto atuou em 125 eventos promovidos pela comunidade local, tendo a média de 13 alunos por evento. Uma vez que a prática profissional apreendida na instituição de ensino está vinculada ao contexto do mundo do trabalho que o aluno enfrentará no término do curso, tais inserções facilitam a compreensão de sua atividade laboral naquela comunidade e evita choques de realidades que muitas vezes são responsáveis pela desistência do novo profissional no mercado de trabalho.
 
-O colegiado da massoterapia é pioneiro na oferta o curso de Formação Inicial e Continuada em Massagista desde 2011 e na modalidade de extensão, Mulheres Mil em 2012, assim como no Programa Federal de Acesso ao Ensino Técnico e Emprego (PRONATEC). Vale citar o exemplo de estudantes que percorreram esse itinerário formativo, como a Sra. 
+> 1 http://curitiba.ifpr.edu.br/2014/10/31/pronatec-e-campus-curitiba-na-midia/ 2 http://g1.globo.com/globo-reporter/noticia/2014/11/aposentada-investe-em-nova-profissao-e-faz-enemjunto-com- netas.html
 
-15 
+16
 
-## INSTITUTOFEDERAL 
+## INSTITUTOFEDERAL
 
-## Parana 
+## Parana
 
-Ministerio daEducacao 
+Ministerio da Educacao
 
-Bernadete Santos, pedagoga, que fez a redescoberta do estudo pelo Pronatec em massagista, passando a integrar posteriormente o Curso Técnico de Massoterapia, dando início ao exercício de uma nova profissão de técnico em massoterapia. Ainda, almejava a continuidade do curso no nível superior na área. Porém, devido a não oferta, acessou o curso superior em Gestão Pública no Campus Curitiba (ingresso em 2016). Essa história foi relatada pelo site UOL educação e, posteriormente, em entrevista no Globo Repórter. Disponível em UOL Educação[1] e Globo Repórter[2] . 
+A profissão de Tecnólogo em Massoterapia está de acordo com as Referências Curriculares Nacionais para a área profissional da Saúde de modo a contemplar os princípios norteadores da Reforma Sanitária. Prioriza, portanto, a ideia da saúde como condição de cidadania, apontando especificidades para os trabalhadores da área e reafirmando a necessidade do compromisso destes com uma concepção de saúde que transcende à visão setorial e diversifica os seus campos de prática.
 
-Outro dado relevante que justifica a oferta do curso Tecnologia em Massoterapia é a grande procura no curso técnico por estudantes com formação superior, principalmente da área de saúde, na busca por formação específica em massoterapia. Um levantamento estatístico realizado pela secretaria acadêmica do Campus Curitiba o curso técnico em massoterapia formou 43 turmas desde 2003, totalizando 1146 alunos. Analisando os formandos a partir de 2008 foram identificados 116 alunos que já portavam uma graduação, ou seja, 11,6% de alunos com perfil para ingressar em um curso de tecnólogo. 
+A saúde é entendida como um bem comum na perspectiva da qualidade de vida. O processo saúde-doença representa o conjunto de relações e variáveis que produzem e condicionam o estado de saúde e doença de uma população, que se altera em diversos momentos históricos da humanidade.
 
-Além desses dados, o curso técnico já conta com expressivas intervenções na comunidade permitindo o curso superior a abertura de mais espaços de atuação. O Projeto Mãos Itinerantes, por exemplo, com base nos anos 2012 a 2017, divulgaram e levaram as práticas massoterapêuticas em eventos locais somando 6.199 atendimentos sendo, portanto, uma média aproximada de 1.240 para cada ano. O projeto atuou em 125 eventos promovidos pela comunidade local, tendo a média de 13 alunos por evento. Uma vez que a prática profissional apreendida na instituição de ensino está vinculada ao contexto do mundo do trabalho que o aluno enfrentará no término do curso, tais inserções facilitam a compreensão de sua atividade laboral naquela comunidade e evita choques de realidades que muitas vezes são responsáveis pela desistência do novo profissional no mercado de trabalho. 
+As ações de saúde, na medida em que assumem como princípio a visão integral do ser humano, passam a incorporar profissionais com formação diversificada, numa perspectiva multidisciplinar. Neste modelo assistencial, as práticas alternativas e complementares devem ser incorporadas aos serviços de saúde, às tecnologias populares e às ações de promoção de saúde.
 
-> 1 http://curitiba.ifpr.edu.br/2014/10/31/pronatec-e-campus-curitiba-na-midia/ 2 http://g1.globo.com/globo-reporter/noticia/2014/11/aposentada-investe-em-nova-profissao-e-faz-enemjunto-com- netas.html 
+A Portaria nº 971/2006 do Ministério da Saúde, com revisão e atualização em 2015, define a Política Nacional de Práticas Integrativas e Complementares (PNPIC). Esta iniciativa governamental reconhece as terapias alternativas acupuntura, fitoterápicos, águas termais e homeopatia como eficazes para a prevenção de doenças e promoção e recuperação da saúde. Esta política estimula a ampliação do acesso da população a esses serviços na rede pública, ampliando assim, o âmbito das práticas integrativas e incentiva as pesquisas, orientações e aplicabilidade junto à população, na medida em que reconhece a necessidade de sua inclusão na atenção primária como grande diferencial nas práticas de educação em saúde, promoção da saúde e prevenção de doenças na população local.
 
-16 
+Assim, diante dos reconhecidos benefícios em saúde ofertados pela profissão, da coerência com as demandas solicitadas pelo Ministério da Saúde, da inexistência deste curso no formato público pela região e da viabilidade desta no cenário regional com contingente populacional relevante (Curitiba e região metropolitana) construiu-se o projeto deste curso
 
-## INSTITUTOFEDERAL 
+17
 
-## Parana 
+## INSTITUTOFEDERAL
 
-Ministerio da Educacao 
+## Parana
 
-A profissão de Tecnólogo em Massoterapia está de acordo com as Referências Curriculares Nacionais para a área profissional da Saúde de modo a contemplar os princípios norteadores da Reforma Sanitária. Prioriza, portanto, a ideia da saúde como condição de cidadania, apontando especificidades para os trabalhadores da área e reafirmando a necessidade do compromisso destes com uma concepção de saúde que transcende à visão setorial e diversifica os seus campos de prática. 
+Ministerio da Educacao
 
-A saúde é entendida como um bem comum na perspectiva da qualidade de vida. O processo saúde-doença representa o conjunto de relações e variáveis que produzem e condicionam o estado de saúde e doença de uma população, que se altera em diversos momentos históricos da humanidade. 
+com notável clareza de que sua importância supera os limites locais, constituindo-se uma etapa relevante, e histórica, na valorização e reconhecimento deste profissional.
 
-As ações de saúde, na medida em que assumem como princípio a visão integral do ser humano, passam a incorporar profissionais com formação diversificada, numa perspectiva multidisciplinar. Neste modelo assistencial, as práticas alternativas e complementares devem ser incorporadas aos serviços de saúde, às tecnologias populares e às ações de promoção de saúde. 
+O Instituto Federal do Paraná, e o Colegiado que representa o Curso Superior de Tecnologia em Massoterapia, estão comprometidos com os princípios que privilegiam a integralidade da atenção à saúde, considerando as dimensões biológicas, psicológicas e sociais do processo saúde-doença, na medida em que preparam profissionais para atuar, ampliar e integrar ações de promoção, proteção, recuperação e reabilitação da saúde. Neste sentido, pretendem propiciar condições para que os alunos desenvolvam as competências gerais da área profissional de saúde e as específicas desta habilitação, definidas a partir da análise do processo de trabalho do Tecnólogo em Massoterapia, respeitando valores políticos, éticos e, mantendo compromisso com a sociedade através da qualidade, do trabalho, da ciência, da tecnologia e das práticas sociais relacionadas com os princípios da cidadania responsável e humana.
 
-A Portaria nº 971/2006 do Ministério da Saúde, com revisão e atualização em 2015, define a Política Nacional de Práticas Integrativas e Complementares (PNPIC). Esta iniciativa governamental reconhece as terapias alternativas acupuntura, fitoterápicos, águas termais e homeopatia como eficazes para a prevenção de doenças e promoção e recuperação da saúde. Esta política estimula a ampliação do acesso da população a esses serviços na rede pública, ampliando assim, o âmbito das práticas integrativas e incentiva as pesquisas, orientações e aplicabilidade junto à população, na medida em que reconhece a necessidade de sua inclusão na atenção primária como grande diferencial nas práticas de educação em saúde, promoção da saúde e prevenção de doenças na população local. 
+## 3.2 OBJETIVOS
 
-Assim, diante dos reconhecidos benefícios em saúde ofertados pela profissão, da coerência com as demandas solicitadas pelo Ministério da Saúde, da inexistência deste curso no formato público pela região e da viabilidade desta no cenário regional com contingente populacional relevante (Curitiba e região metropolitana) construiu-se o projeto deste curso 
+## 3.2.1 Objetivo Geral
 
-17 
+Formar profissionais tecnólogos em Massoterapia capacitados técnicocientificamente para a execução de práticas massoterapêuticas visando a promoção da saúde, a prevenção de doenças e a manutenção da qualidade de vida da população.
 
-## INSTITUTOFEDERAL 
+## 3.2.2 Objetivos Específicos
 
-## Parana 
+- Habilitar profissionais Tecnólogos em Massoterapia para atuar na educação para saúde, proteção e prevenção, bem como na gestão desses serviços, sejam eles de caráter autônomo como também em empresas, instituições de saúde, ambientes de práticas corporais visando a qualidade de vida através das terapias.
 
-Ministerio da Educacao 
+- Promover a melhoria da qualidade de saúde da população por meio de execução, controle e avaliação de práticas massoterapêuticas a serem desenvolvidas pelos profissionais desta área.
 
-com notável clareza de que sua importância supera os limites locais, constituindo-se uma etapa relevante, e histórica, na valorização e reconhecimento deste profissional. 
+18
 
-O Instituto Federal do Paraná, e o Colegiado que representa o Curso Superior de Tecnologia em Massoterapia, estão comprometidos com os princípios que privilegiam a integralidade da atenção à saúde, considerando as dimensões biológicas, psicológicas e sociais do processo saúde-doença, na medida em que preparam profissionais para atuar, ampliar e integrar ações de promoção, proteção, recuperação e reabilitação da saúde. Neste sentido, pretendem propiciar condições para que os alunos desenvolvam as competências gerais da área profissional de saúde e as específicas desta habilitação, definidas a partir da análise do processo de trabalho do Tecnólogo em Massoterapia, respeitando valores políticos, éticos e, mantendo compromisso com a sociedade através da qualidade, do trabalho, da ciência, da tecnologia e das práticas sociais relacionadas com os princípios da cidadania responsável e humana. 
+## INSTITUTOFEDERAL
 
-## 3.2 OBJETIVOS 
+## Parana
 
-## 3.2.1 Objetivo Geral 
+Ministerio da Educacao<br>
 
-Formar profissionais tecnólogos em Massoterapia capacitados técnicocientificamente para a execução de práticas massoterapêuticas visando a promoção da saúde, a prevenção de doenças e a manutenção da qualidade de vida da população. 
+- Atuar em políticas de planejamento, organização e análise do processo de tarefas próprias das atividades deste profissional podendo, inclusive, apresentar-se como responsável técnico das práticas massoterapêuticas;
 
-## 3.2.2 Objetivos Específicos 
+- Atuar como responsável técnico das práticas massoterapêuticas;
 
-- Habilitar profissionais Tecnólogos em Massoterapia para atuar na educação para saúde, proteção e prevenção, bem como na gestão desses serviços, sejam eles de caráter autônomo como também em empresas, instituições de saúde, ambientes de práticas corporais visando a qualidade de vida através das terapias. 
+- Supervisionar a atuação dos técnicos em massoterapia;
 
-- Promover a melhoria da qualidade de saúde da população por meio de execução, controle e avaliação de práticas massoterapêuticas a serem desenvolvidas pelos profissionais desta área. 
+- Formar cidadãos promotores e divulgadores da qualidade de vida por meio das terapias manuais por meio do conhecimento crítico e reflexivo sobre seu papel na sociedade, do conhecimento científico sobre a evolução e efetividade dessas práticas ao longo dos séculos;
 
-18 
+- Contribuir para o fortalecimento da profissão através da pesquisa científica bem como sugerir novas habilidades técnicas conforme análise, investigação e comprovação de sua eficiência e eficácia junto à população.
 
-## INSTITUTOFEDERAL 
+- Proporcionar o acesso desses profissionais à verticalização acadêmica nos níveis lato sensu e stricto sensu, contribuindo então para maior visibilidade de estudos científicos focados nas práticas manuais.
 
-## Parana 
+## 3.3 CONCEPÇÃO DO CURSO
 
-**==> picture [64 x 9] intentionally omitted <==**
+O Instituto Federal de Educação, Ciência e Tecnologia, é uma instituição pública federal de educação; educação básica, profissional e superior. Subordinado diretamente a Secretaria de Educação Profissional e Tecnológica (SETEC) e vinculada ao Ministério da Educação (MEC). Os trinta e oito Institutos Federais de Educação Profissionais Cientifica e Tecnológica juntamente com outras instituições federais como os Centros Federais de Educação Tecnológica Celso Suckow da Fonseca - CEFET-RJ e de Minas Gerais - CEFETMG, Escolas Técnicas Vinculadas às Universidades Federais formam a Rede Federal de Educação Profissional, Ciência e Tecnologia (RFEPT) (BRASIL, 2008a). Distribuída em todo território brasileiro, a Rede Federal de Educação Profissional de Ciência e Tecnologia é especializada na oferta de educação profissional e tecnológica nas diferentes modalidades de ensino (Lei Federal nº 11.892, de 29 de dezembro de 2008). Suas finalidades, conforme a
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+19
 
+## INSTITUTOFEDERAL
 
-- Atuar em políticas de planejamento, organização e análise do processo de tarefas próprias das atividades deste profissional podendo, inclusive, apresentar-se como responsável técnico das práticas massoterapêuticas; 
+## Parana
 
-- Atuar como responsável técnico das práticas massoterapêuticas; 
+Ministerio da Educacao
 
-- Supervisionar a atuação dos técnicos em massoterapia; 
+referida lei, são muitas e ousadas: vão desde a oferta de educação profissional e tecnológica nas diferentes modalidades de ensino de cursos técnicos, tecnológicos e de pós-graduação lato e stricto sensu.
 
-- Formar cidadãos promotores e divulgadores da qualidade de vida por meio das terapias manuais por meio do conhecimento crítico e reflexivo sobre seu papel na sociedade, do conhecimento científico sobre a evolução e efetividade dessas práticas ao longo dos séculos; 
+De acordo com o artigo 2º da Lei nº 11.892/08, os Institutos Federais de educação caracterizam-se como uma autarquia de regime especial de base educacional humanísticotécnico-científica. Procuram articular a educação superior, básica e profissional, pluricurricular e multicampi, especializada na oferta de EPT (Educação Profissional Tecnológica) em diferentes níveis e modalidades de ensino, expressa suas expectativas sobre o papel dessa instituição a busca por justiça social, a equidade, a competitividade econômica e a geração de novas tecnologias. Segundo o MEC, os IFs atenderão de forma  ágil  e  eficaz às  demandas  crescentes  por  formação  profissional,  por  difusão  de conhecimentos científicos e tecnológicos e de suporte aos arranjos produtivos locais, oferecendo educação básica, em cursos de Ensino Médio Integrado à EPT de nível médio; ensino técnico em geral; cursos superiores de tecnologia, licenciatura e bacharelado, programas de pós-graduação Lato e Stricto Sensu, assegurando, ao mesmo tempo, a formação inicial e continuada de trabalhadores.
 
-- Contribuir para o fortalecimento da profissão através da pesquisa científica bem como sugerir novas habilidades técnicas conforme análise, investigação e comprovação de sua eficiência e eficácia junto à população. 
+A Educação Profissional, Científica e Tecnológica é um direito social inalienável do cidadão, em termos de direito do trabalhador ao conhecimento. A Constituição Federal, em seu art. 6º, ao elencar os direitos sociais do cidadão brasileiro, relaciona os direitos à educação e ao trabalho. O que está posto para os Institutos Federais é a formação de cidadãos como agentes políticos capazes de ultrapassar obstáculos, pensar e agir em favor de transformações políticas, econômicas e sociais, imprescindíveis para a construção de um mundo com melhores condições humanas e sociais.
 
-- Proporcionar o acesso desses profissionais à verticalização acadêmica nos níveis lato sensu e stricto sensu, contribuindo então para maior visibilidade de estudos científicos focados nas práticas manuais. 
+Salientamos que o colegiado de Massoterapia do Campus de Curitiba já contemplou todas as formas de formação incluindo a formação inicial continuada (FIC), Educação de Jovens e Adultos (EJA) em programas com o objetivo de promover a inclusão social e econômica de mulheres em situação de vulnerabilidade intitulado Mulheres Mil e o Programa Nacional de Acesso ao Ensino Técnico e Emprego (Pronatec), assumindo o papel de agente colaborador na estruturação das políticas públicas, estabelecendo uma interação mais direta
 
-## 3.3 CONCEPÇÃO DO CURSO 
+20
 
-O Instituto Federal de Educação, Ciência e Tecnologia, é uma instituição pública federal de educação; educação básica, profissional e superior. Subordinado diretamente a Secretaria de Educação Profissional e Tecnológica (SETEC) e vinculada ao Ministério da Educação (MEC). Os trinta e oito Institutos Federais de Educação Profissionais Cientifica e Tecnológica juntamente com outras instituições federais como os Centros Federais de Educação Tecnológica Celso Suckow da Fonseca - CEFET-RJ e de Minas Gerais - CEFETMG, Escolas Técnicas Vinculadas às Universidades Federais formam a Rede Federal de Educação Profissional, Ciência e Tecnologia (RFEPT) (BRASIL, 2008a). Distribuída em todo território brasileiro, a Rede Federal de Educação Profissional de Ciência e Tecnologia é especializada na oferta de educação profissional e tecnológica nas diferentes modalidades de ensino (Lei Federal nº 11.892, de 29 de dezembro de 2008). Suas finalidades, conforme a 
+## INSTITUTOFEDERAL
 
-19 
+## Parana
 
-## INSTITUTOFEDERAL 
+Ministerio da Educacao
 
-## Parana 
+junto ao poder público e às comunidades locais na busca de soluções para a realidade de exclusão.
 
-Ministerio da Educacao 
+O Instituto Federal do Paraná, Campus Curitiba assumiu a vanguarda quanto ao processo de estruturar a profissão de massoterapia através da educação e formação de qualidade. É pioneiro na oferta desta modalidade técnica de ensino na esfera federal. Implantou o primeiro curso técnico em massoterapia na modalidade pública no Brasil no ano de 2003, portanto, é a instituição de referência, local, regional e nacional nesta área de atuação. Atualmente o curso técnico em Massoterapia do IFPR é a formação técnica com a maior carga horária, bem como consta com excelente infraestrutura física e um quadro de docentes especialistas, mestres e doutores. Neste contexto é importante salientar que hoje no Brasil o curso Técnico em Massoterapia do IFPR é a formação mais importante do país, com a maior carga horária, sendo assim, sua matriz de disciplinas vem servindo de referência para a implantação de outros cursos técnicos de massoterapia fato que qualifica esta instituição para a implantação do primeiro curso de tecnologia no Brasil em caráter experimental.
 
-referida lei, são muitas e ousadas: vão desde a oferta de educação profissional e tecnológica nas diferentes modalidades de ensino de cursos técnicos, tecnológicos e de pós-graduação lato e stricto sensu. 
+A habilitação Técnica em Massoterapia neste momento atende ao disposto na Lei de Diretrizes e Bases da Educação Nacional (LDB), Lei Federal N. 9394/96, no Decreto Federal N. 5154/04, na Resolução CNE/CEB n° 06/12, no Parecer CNE/CEB n° 16/99 do Conselho Nacional da Saúde do Paraná (SESA) e nas demais normas do Sistema de Ensino e na Legislação que regulamentam as atividades da área: Ambiente, Saúde e Segurança.
 
-De acordo com o artigo 2º da Lei nº 11.892/08, os Institutos Federais de educação caracterizam-se como uma autarquia de regime especial de base educacional humanísticotécnico-científica. Procuram articular a educação superior, básica e profissional, pluricurricular e multicampi, especializada na oferta de EPT (Educação Profissional Tecnológica) em diferentes níveis e modalidades de ensino, expressa suas expectativas sobre o papel dessa instituição a busca por justiça social, a equidade, a competitividade econômica e a geração de novas tecnologias. Segundo o MEC, os IFs atenderão de forma  ágil  e  eficaz às  demandas  crescentes  por  formação  profissional,  por  difusão  de conhecimentos científicos e tecnológicos e de suporte aos arranjos produtivos locais, oferecendo educação básica, em cursos de Ensino Médio Integrado à EPT de nível médio; ensino técnico em geral; cursos superiores de tecnologia, licenciatura e bacharelado, programas de pós-graduação Lato e Stricto Sensu, assegurando, ao mesmo tempo, a formação inicial e continuada de trabalhadores. 
+Neste contexto o curso propõe, através de seu currículo, uma atuação importante no que se refere à promoção do bem-estar físico, da saúde, manutenção da saúde e prevenção de agravos e doenças.
 
-A Educação Profissional, Científica e Tecnológica é um direito social inalienável do cidadão, em termos de direito do trabalhador ao conhecimento. A Constituição Federal, em seu art. 6º, ao elencar os direitos sociais do cidadão brasileiro, relaciona os direitos à educação e ao trabalho. O que está posto para os Institutos Federais é a formação de cidadãos como agentes políticos capazes de ultrapassar obstáculos, pensar e agir em favor de transformações políticas, econômicas e sociais, imprescindíveis para a construção de um mundo com melhores condições humanas e sociais. 
+Como estabelecido pela Organização Mundial da Saúde (OMS), saúde é definida, em termos gerais, pelo bem-estar físico, mental e social. Portanto, as ações em saúde não se restringem aos tratamentos de doenças, mas, principalmente, aos meios que permitem a manutenção e o fortalecimento da saúde. Assim, nota-se que iniciativas que transitam nesse modelo de atenção à saúde são incentivadas, seja em forma de práticas de ensino, como é o objetivo do curso aqui proposto, como também em políticas de saúde.
 
-Salientamos que o colegiado de Massoterapia do Campus de Curitiba já contemplou todas as formas de formação incluindo a formação inicial continuada (FIC), Educação de Jovens e Adultos (EJA) em programas com o objetivo de promover a inclusão social e econômica de mulheres em situação de vulnerabilidade intitulado Mulheres Mil e o Programa Nacional de Acesso ao Ensino Técnico e Emprego (Pronatec), assumindo o papel de agente colaborador na estruturação das políticas públicas, estabelecendo uma interação mais direta 
+21
 
-20 
+## INSTITUTOFEDERAL
 
-## INSTITUTOFEDERAL 
+## Parana
 
-## Parana 
+Ministerio da Educacao
 
-Ministerio da Educacao 
+A atenção primária é a porta de entrada dos usuários para o sistema público de saúde e preconiza a promoção da saúde e prevenção de agravos através de práticas como as que serão abaixo relatadas e que fazem parte do escopo conteúdo deste curso de tecnologia: Medicina Tradicional Chinesa e Acupuntura (MTC): A MTC inclui práticas manuais e corporais como Tuiná, Shiatsu e Automassagem, além da aplicação de terapias como Moxabustão e Ventosas. São práticas que, no âmbito das diretrizes da PNPIC (Política Nacional de Práticas Integrativas e Complementares em Saúde) podem ser desenvolvidas em grupos perante a comunidade, individualmente, além de que seus conhecimentos devem ser divulgados à população em geral a fim de aplicar outro preceito que é a Educação em Saúde. Os profissionais de saúde atuarão, portanto, na aplicação das técnicas em conjunto com equipe multidisciplinar e na disseminação, capacitação e treinamento desses conhecimentos à equipe multidisciplinar e população.
 
-junto ao poder público e às comunidades locais na busca de soluções para a realidade de exclusão. 
+Sobre as práticas acima relatadas, a Política das PIC´s em relatório produzido pelo Ministério da Saúde sobre a inserção de tais procedimentos nas unidades de saúde, observa a carência desses profissionais, incentivando a capacitação da rede de saúde pública às práticas e do incentivo à habilitar profissionais com esse perfil.
 
-O Instituto Federal do Paraná, Campus Curitiba assumiu a vanguarda quanto ao processo de estruturar a profissão de massoterapia através da educação e formação de qualidade. É pioneiro na oferta desta modalidade técnica de ensino na esfera federal. Implantou o primeiro curso técnico em massoterapia na modalidade pública no Brasil no ano de 2003, portanto, é a instituição de referência, local, regional e nacional nesta área de atuação. Atualmente o curso técnico em Massoterapia do IFPR é a formação técnica com a maior carga horária, bem como consta com excelente infraestrutura física e um quadro de docentes especialistas, mestres e doutores. Neste contexto é importante salientar que hoje no Brasil o curso Técnico em Massoterapia do IFPR é a formação mais importante do país, com a maior carga horária, sendo assim, sua matriz de disciplinas vem servindo de referência para a implantação de outros cursos técnicos de massoterapia fato que qualifica esta instituição para a implantação do primeiro curso de tecnologia no Brasil em caráter experimental. 
+Além dessas atribuições profissionais relatadas acima, a PNPIC prevê a existência de outras práticas terapêuticas, além daquelas de origem oriental, que estão contempladas na proposta do curso de tecnologia.
 
-A habilitação Técnica em Massoterapia neste momento atende ao disposto na Lei de Diretrizes e Bases da Educação Nacional (LDB), Lei Federal N. 9394/96, no Decreto Federal N. 5154/04, na Resolução CNE/CEB n° 06/12, no Parecer CNE/CEB n° 16/99 do Conselho Nacional da Saúde do Paraná (SESA) e nas demais normas do Sistema de Ensino e na Legislação que regulamentam as atividades da área: Ambiente, Saúde e Segurança. 
+Neste contexto nota-se que o PPC e a matriz curricular do curso estão alinhados com Política Nacional de Práticas Integrativas e Complementares (PNPIC) nas disciplinas Concepções histórico filosóficas e metodológicas da Massoterapia, Medicina Tradicional Chinesa, Anatomia dos Meridianos, Massagem Oriental I- Shiatsu, Massagem Oriental IITui Ná, bem como a Massagem Desportiva, Reflexoterapia (Reflexologia de microssistemas das mãos, punhos, pés e tornozelos), entre outros. Assim, o Instituto Federal do Paraná, por meio do seu corpo docente formado por professores doutores e mestres, com projetos vinculados a tais procedimentos, poderá, na existência do Tecnólogo Superior, ampliar e desenvolver mais projetos de iniciação científica alinhado a grupo de pesquisa e a projetos de fomentos governamentais em ressonância a política de práticas integrativas. Poderá,
 
-Neste contexto o curso propõe, através de seu currículo, uma atuação importante no que se refere à promoção do bem-estar físico, da saúde, manutenção da saúde e prevenção de agravos e doenças. 
+22
 
-Como estabelecido pela Organização Mundial da Saúde (OMS), saúde é definida, em termos gerais, pelo bem-estar físico, mental e social. Portanto, as ações em saúde não se restringem aos tratamentos de doenças, mas, principalmente, aos meios que permitem a manutenção e o fortalecimento da saúde. Assim, nota-se que iniciativas que transitam nesse modelo de atenção à saúde são incentivadas, seja em forma de práticas de ensino, como é o objetivo do curso aqui proposto, como também em políticas de saúde. 
+## INSTITUTOFEDERAL
 
-21 
+## Parana
 
-## INSTITUTOFEDERAL 
+Ministerio da Educacao
 
-## Parana 
+também, em parceria com secretarias estaduais e/ou municipais de saúde, atuar diretamente com este setor, contemplando em suas propostas de pesquisa as demandas de saúde regional.
 
-Ministerio da Educacao 
+Assim, compreende-se que a instauração do curso superior de Tecnologia em Massoterapia permitirá não somente o fortalecimento desta área da saúde, com evidentes demandas na população, mas também, adequar-se aos preceitos dos Institutos Federais no que diz respeito à indissociabilidade entre ensino, pesquisa e extensão e à importância da oferta em atender a uma demanda regional, nesse caso, além da demanda de técnicos em massoterapia que aguarda a implantação do curso superior, atenderá também  a demanda de implantação regional da política nacional PNPIC.
 
-A atenção primária é a porta de entrada dos usuários para o sistema público de saúde e preconiza a promoção da saúde e prevenção de agravos através de práticas como as que serão abaixo relatadas e que fazem parte do escopo conteúdo deste curso de tecnologia: Medicina Tradicional Chinesa e Acupuntura (MTC): A MTC inclui práticas manuais e corporais como Tuiná, Shiatsu e Automassagem, além da aplicação de terapias como Moxabustão e Ventosas. São práticas que, no âmbito das diretrizes da PNPIC (Política Nacional de Práticas Integrativas e Complementares em Saúde) podem ser desenvolvidas em grupos perante a comunidade, individualmente, além de que seus conhecimentos devem ser divulgados à população em geral a fim de aplicar outro preceito que é a Educação em Saúde. Os profissionais de saúde atuarão, portanto, na aplicação das técnicas em conjunto com equipe multidisciplinar e na disseminação, capacitação e treinamento desses conhecimentos à equipe multidisciplinar e população. 
+O objetivo é formar o cidadão de modo crítico e integral capaz de superar a dicotomia na divisão do trabalho entre o executar e pensar, planejar, dirigir, supervisionar ou controlar a qualidade dos serviços. Ofertar o primeiro curso de Tecnologia em Massoterapia no Brasil é possibilitar aos estudantes traçar um itinerário formativo da educação básica ao nível superior ultrapassando os limites do trabalho manual para o trabalho intelectual, simultâneo no ensino, na pesquisa e na extensão comprometendo-se com os princípios da ética, da sustentabilidade ambiental, da preservação da saúde e do desenvolvimento social, orientando suas atividades por valores expressos na ética profissional.
 
-Sobre as práticas acima relatadas, a Política das PIC´s em relatório produzido pelo Ministério da Saúde sobre a inserção de tais procedimentos nas unidades de saúde, observa a carência desses profissionais, incentivando a capacitação da rede de saúde pública às práticas e do incentivo à habilitar profissionais com esse perfil. 
+A implantação do Curso Superior de Tecnologia em Massoterapia possibilitará o acesso aos futuros tecnólogos a programas de pós-graduação Lato e Stricto Sensu. A referência fundamental para a educação profissional e tecnológica é o ser humano e, por isso, o trabalho, como categoria estruturante do ser social, é seu elemento constituinte. É, pois, uma formação que se dá no decorrer da vida humana, por meio das experiências e conhecimentos, ao longo das relações sociais e produtivas. A formação superior em tecnologia contemplará a estrutura acadêmica que falta para a massoterapia estruturar-se como profissão.
 
-Além dessas atribuições profissionais relatadas acima, a PNPIC prevê a existência de outras práticas terapêuticas, além daquelas de origem oriental, que estão contempladas na proposta do curso de tecnologia. 
+A concepção filosófica do curso está baseada no consenso dos conceitos filosóficos orientais com referência na escola da Natureza e sua influência direta nas disciplinas de Medicina Tradicional Chinesa,, associado a escola filosófica clássica ocidental representada na obra de Platão e sua influência nas técnicas de massagem oriundas da escola Massagem
 
-Neste contexto nota-se que o PPC e a matriz curricular do curso estão alinhados com Política Nacional de Práticas Integrativas e Complementares (PNPIC) nas disciplinas Concepções histórico filosóficas e metodológicas da Massoterapia, Medicina Tradicional Chinesa, Anatomia dos Meridianos, Massagem Oriental I- Shiatsu, Massagem Oriental IITui Ná, bem como a Massagem Desportiva, Reflexoterapia (Reflexologia de microssistemas das mãos, punhos, pés e tornozelos), entre outros. Assim, o Instituto Federal do Paraná, por meio do seu corpo docente formado por professores doutores e mestres, com projetos vinculados a tais procedimentos, poderá, na existência do Tecnólogo Superior, ampliar e desenvolver mais projetos de iniciação científica alinhado a grupo de pesquisa e a projetos de fomentos governamentais em ressonância a política de práticas integrativas. Poderá, 
+23
 
-22 
+## INSTITUTOFEDERAL
 
-## INSTITUTOFEDERAL 
+## Parana
 
-## Parana 
+Ministerio da Educacao
 
-Ministerio da Educacao 
+Sueca de Ling, a qual origina as técnicas ocidentais, como as massagens desportiva e terapêutica.
 
-também, em parceria com secretarias estaduais e/ou municipais de saúde, atuar diretamente com este setor, contemplando em suas propostas de pesquisa as demandas de saúde regional. 
+A primeira definição de conhecimento humano encontra-se na obra Teeteto, de Platão, onde o mesmo é definido como sendo uma crença verdadeira justificada.  Por crença, entende-se a disposição para tomar algo como sendo verdadeiro, distinguindo-se neste caso específico da crença comum graças ao tipo de justificação que o conhecimento adota, a saber: a justificação de validade Universal em todo e qualquer tempo e necessária válida indistintamente, por estabelecer-se com clareza evidente e comprovação metodológica. Desde então, a noção de conhecimento sofreu mutações, de tal modo que no imediato pósRevolução Industrial, a noção de conhecimento sofre uma dinamização e passa a ser compreendida não mais como o conjunto de saberes humanos que se estabelece, com comprovação e validade atemporais, mas como sendo o conjunto de saberes que sofre uma perene atualização de acordo com os novos saberes e descobertas, sendo passível de acréscimo e mesmo de substituição (HESSEN, 1999, pp. 14 – 19).
 
-Assim, compreende-se que a instauração do curso superior de Tecnologia em Massoterapia permitirá não somente o fortalecimento desta área da saúde, com evidentes demandas na população, mas também, adequar-se aos preceitos dos Institutos Federais no que diz respeito à indissociabilidade entre ensino, pesquisa e extensão e à importância da oferta em atender a uma demanda regional, nesse caso, além da demanda de técnicos em massoterapia que aguarda a implantação do curso superior, atenderá também  a demanda de implantação regional da política nacional PNPIC. 
+O ser humano, neste processo, é compreendido como um projeto em constante atualização, competindo ao mesmo o exame criterioso e científico dos resultados que obtém em suas experiências, sejam elas laborais, sejam elas acadêmico-institucionais. Compreendese que a produção e transmissão de conhecimento constituem uma prática especificamente humana, suficientemente capaz de definir e formatar a noção de humanidade. Nestes termos, lidar com o conhecimento implica em lidar com a construção da própria humanidade que nos define (SCHNÄDELBACH, 1982, pp. 33 – 39).
 
-O objetivo é formar o cidadão de modo crítico e integral capaz de superar a dicotomia na divisão do trabalho entre o executar e pensar, planejar, dirigir, supervisionar ou controlar a qualidade dos serviços. Ofertar o primeiro curso de Tecnologia em Massoterapia no Brasil é possibilitar aos estudantes traçar um itinerário formativo da educação básica ao nível superior ultrapassando os limites do trabalho manual para o trabalho intelectual, simultâneo no ensino, na pesquisa e na extensão comprometendo-se com os princípios da ética, da sustentabilidade ambiental, da preservação da saúde e do desenvolvimento social, orientando suas atividades por valores expressos na ética profissional. 
+O Curso Superior de Tecnologia em Massoterapia do IFPR Campus Curitiba, em observância ao exposto, pretende desenvolver e capacitar profissionais que estejam comprometidos em essa dimensão e compreensão do conhecimento, através do desenvolvimento de práticas integrativas que possam corroborar para a formação e capacitação de técnicas e saberes interligados e dirigidos à prevenção, na área da saúde, bem como ao fomento e promoção da qualidade de vida. Conforme prescreve o Plano de Desenvolvimento Institucional – PDI do Instituto Federal do Paraná:
 
-A implantação do Curso Superior de Tecnologia em Massoterapia possibilitará o acesso aos futuros tecnólogos a programas de pós-graduação Lato e Stricto Sensu. A referência fundamental para a educação profissional e tecnológica é o ser humano e, por isso, o trabalho, como categoria estruturante do ser social, é seu elemento constituinte. É, pois, uma formação que se dá no decorrer da vida humana, por meio das experiências e conhecimentos, ao longo das relações sociais e produtivas. A formação superior em tecnologia contemplará a estrutura acadêmica que falta para a massoterapia estruturar-se como profissão. 
+24
 
-A concepção filosófica do curso está baseada no consenso dos conceitos filosóficos orientais com referência na escola da Natureza e sua influência direta nas disciplinas de Medicina Tradicional Chinesa,, associado a escola filosófica clássica ocidental representada na obra de Platão e sua influência nas técnicas de massagem oriundas da escola Massagem 
+## INSTITUTOFEDERAL
 
-23 
+## Parana
 
-## INSTITUTOFEDERAL 
+Ministerio daEducacao
 
-## Parana 
+A Educação Profissional e Tecnológica, enquanto categoria de formação integral pressupõe o desenvolvimento do sujeito, não podendo ficar sua formação restrita à dimensão lógico-formal ou às funções ocupacionais do trabalho. Pelo contrário, ela se dá na interface dos fatores psicossociais e cognitivos, que se desenvolvem através das dimensões pedagógicas das relações sociais e produtivas, com a finalidade de criar as condições necessárias à vida em sociedade. Para avançar na constituição de uma escola comprometida com a emancipação humana nos espaços de contradição da sociedade contemporânea, o IFPR insere-se como um lugar de aprender a interpretar o mundo para, então, poder transformá-lo a partir do domínio dos conhecimentos científicotecnológicos, sócio históricos e culturais, bem como dos seus processos de construção, necessários à superação dos conflitos sociais, em uma sociedade cujas relações são cada vez mais mediadas pela ciência e pela tecnologia. Neste sentido, a concepção de trabalho se aproxima da relação entre o homem e a natureza, de maneira que o trabalho se torna elemento fundamental para a sobrevivência humana, da mesma maneira que contribui para a constituição do sujeito como ser social e cultural (PDI 2014-2019 do IFPR, p.37).
 
-Ministerio da Educacao 
+Nestes termos, o projeto pedagógico do Curso Superior de Tecnologia em Massoterapia do IFPR Campus Curitiba encontra-se alicerçado sobre três pilares articulados, a saber:
 
-Sueca de Ling, a qual origina as técnicas ocidentais, como as massagens desportiva e terapêutica. 
+- I. O desenvolvimento de práticas integrativas entre diferentes saberes massoterápicos, de modo capacitar à formação de um profissional capaz de agir em prática integral e complementar junto a outras atividades da área da saúde;
 
-A primeira definição de conhecimento humano encontra-se na obra Teeteto, de Platão, onde o mesmo é definido como sendo uma crença verdadeira justificada.  Por crença, entende-se a disposição para tomar algo como sendo verdadeiro, distinguindo-se neste caso específico da crença comum graças ao tipo de justificação que o conhecimento adota, a saber: a justificação de validade Universal em todo e qualquer tempo e necessária válida indistintamente, por estabelecer-se com clareza evidente e comprovação metodológica. Desde então, a noção de conhecimento sofreu mutações, de tal modo que no imediato pósRevolução Industrial, a noção de conhecimento sofre uma dinamização e passa a ser compreendida não mais como o conjunto de saberes humanos que se estabelece, com comprovação e validade atemporais, mas como sendo o conjunto de saberes que sofre uma perene atualização de acordo com os novos saberes e descobertas, sendo passível de acréscimo e mesmo de substituição (HESSEN, 1999, pp. 14 – 19). 
+- II. O estabelecimento da prevenção na área da saúde como foco formativo;
 
-O ser humano, neste processo, é compreendido como um projeto em constante atualização, competindo ao mesmo o exame criterioso e científico dos resultados que obtém em suas experiências, sejam elas laborais, sejam elas acadêmico-institucionais. Compreendese que a produção e transmissão de conhecimento constituem uma prática especificamente humana, suficientemente capaz de definir e formatar a noção de humanidade. Nestes termos, lidar com o conhecimento implica em lidar com a construção da própria humanidade que nos define (SCHNÄDELBACH, 1982, pp. 33 – 39). 
+- III. O desenvolvimento da qualidade de vida como meta e objetivo central, a ser alcançado através da capacitação teórico-prática profissional e da acessibilização dos resultados à rede pública do Sistema único de Saúde – SUS.
 
-O Curso Superior de Tecnologia em Massoterapia do IFPR Campus Curitiba, em observância ao exposto, pretende desenvolver e capacitar profissionais que estejam comprometidos em essa dimensão e compreensão do conhecimento, através do desenvolvimento de práticas integrativas que possam corroborar para a formação e capacitação de técnicas e saberes interligados e dirigidos à prevenção, na área da saúde, bem como ao fomento e promoção da qualidade de vida. Conforme prescreve o Plano de Desenvolvimento Institucional – PDI do Instituto Federal do Paraná: 
+Desta forma, reconhecer-se como profissional da Área de Saúde, baseando o planejamento de sua ação na perspectiva do ser humano integral e considerando os condicionantes e determinantes do processo de saúde-doença, a qualidade no atendimento, a preservação do meio ambiente e o compromisso social com a população.
 
-24 
+25
 
-## INSTITUTOFEDERAL 
+## INSTITUTOFEDERAL Parana
 
-## Parana 
+Ministerio da Educacao<br>
 
-Ministerio daEducacao 
+## 3.4 PERFIL DO EGRESSO
 
-A Educação Profissional e Tecnológica, enquanto categoria de formação integral pressupõe o desenvolvimento do sujeito, não podendo ficar sua formação restrita à dimensão lógico-formal ou às funções ocupacionais do trabalho. Pelo contrário, ela se dá na interface dos fatores psicossociais e cognitivos, que se desenvolvem através das dimensões pedagógicas das relações sociais e produtivas, com a finalidade de criar as condições necessárias à vida em sociedade. Para avançar na constituição de uma escola comprometida com a emancipação humana nos espaços de contradição da sociedade contemporânea, o IFPR insere-se como um lugar de aprender a interpretar o mundo para, então, poder transformá-lo a partir do domínio dos conhecimentos científicotecnológicos, sócio históricos e culturais, bem como dos seus processos de construção, necessários à superação dos conflitos sociais, em uma sociedade cujas relações são cada vez mais mediadas pela ciência e pela tecnologia. Neste sentido, a concepção de trabalho se aproxima da relação entre o homem e a natureza, de maneira que o trabalho se torna elemento fundamental para a sobrevivência humana, da mesma maneira que contribui para a constituição do sujeito como ser social e cultural (PDI 2014-2019 do IFPR, p.37). 
+O Tecnólogo em Massoterapia é um profissional da Área de Saúde que atua em diferentes tipos de estabelecimentos públicos (nesse caso, principalmente na atenção básica através de suas contribuições com práticas integrativas e complementares instituídas pela PNPIC) e privados, como também pode atuar de forma autônoma no seu próprio Gabinete Massoterápico. Este profissional também é capacitado para atuar na pesquisa através de sua inserção em programas lato-sensu e stricto-sensu. A inserção do Tecnólogo em Massoterapia no Catálogo Nacional de Cursos Superiores de Tecnologia necessita, entre os requisitos, ao menos três anos de formação da primeira turma. A atuação do técnico está prevista no Catálogo Nacional de Cursos Técnicos, 3ª edição, p,28; resolução CNE/CEB 01/2014; Lei nº 3.968, 5 de outubro 1961, dispõe sobre o exercício da profissão de massagista, e dá outras providencias e na Referência Técnica para o funcionamento dos serviços de estética e embelezamento sem responsabilidade médica - Agência Nacional de Vigilância Sanitária - ANVISA dezembro /2009.
 
-Nestes termos, o projeto pedagógico do Curso Superior de Tecnologia em Massoterapia do IFPR Campus Curitiba encontra-se alicerçado sobre três pilares articulados, a saber: 
+O profissional Tecnólogo em Massoterapia deve adquirir as competências necessárias para executar com segurança, diferentes técnicas de massagens visando à atenção integral à saúde. Para tanto, deve no decorrer do curso, mobilizar e articular com pertinência os saberes necessários à ação eficiente e eficaz, integrando suporte científico, tecnológico e valorativo que lhe permita:
 
-- I. O desenvolvimento de práticas integrativas entre diferentes saberes massoterápicos, de modo capacitar à formação de um profissional capaz de agir em prática integral e complementar junto a outras atividades da área da saúde; 
+- Buscar atualização constante por meio de estudos e pesquisas, de forma crítica propor inovações, identificar e incorporar novos métodos, técnicas e tecnologias às suas ações e responder às situações cotidianas e imprevisíveis com flexibilidade e criatividade;
 
-- II. O estabelecimento da prevenção na área da saúde como foco formativo; 
+- Formar o cidadão de modo crítico e integral capaz de superar a dicotomia cristalizada na divisão do trabalho entre o executar e pensar, planejar, dirigir, supervisionar ou controlar a qualidade dos serviços.
 
-- III. O desenvolvimento da qualidade de vida como meta e objetivo central, a ser alcançado através da capacitação teórico-prática profissional e da acessibilização dos resultados à rede pública do Sistema único de Saúde – SUS. 
+- Assumir postura profissional condizente com os princípios que regem as ações na área de saúde, atuando em equipes multidisciplinares e relacionando-se
 
-Desta forma, reconhecer-se como profissional da Área de Saúde, baseando o planejamento de sua ação na perspectiva do ser humano integral e considerando os condicionantes e determinantes do processo de saúde-doença, a qualidade no atendimento, a preservação do meio ambiente e o compromisso social com a população. 
+26
 
-25 
+## INSTITUTOFEDERAL
 
-## INSTITUTOFEDERAL Parana 
+## Parana
 
-**==> picture [64 x 9] intentionally omitted <==**
+Ministerio da Educacao
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+adequadamente com os clientes, contribuindo de forma efetiva para a promoção, proteção e recuperação da saúde;
 
+- Gerenciar seu percurso profissional com iniciativa e de forma empreendedora, prestando serviços em Instituições privadas ou públicas e/ou na condução do seu próprio consultório;
 
-## 3.4 PERFIL DO EGRESSO 
+- Atuar com responsabilidade, comprometendo-se com os princípios da ética, da sustentabilidade ambiental, da preservação da saúde e do desenvolvimento social, orientado suas atividades por valores expressos na ética profissional, resultante da qualidade e do gosto pelo trabalho bem realizado;
 
-O Tecnólogo em Massoterapia é um profissional da Área de Saúde que atua em diferentes tipos de estabelecimentos públicos (nesse caso, principalmente na atenção básica através de suas contribuições com práticas integrativas e complementares instituídas pela PNPIC) e privados, como também pode atuar de forma autônoma no seu próprio Gabinete Massoterápico. Este profissional também é capacitado para atuar na pesquisa através de sua inserção em programas lato-sensu e stricto-sensu. A inserção do Tecnólogo em Massoterapia no Catálogo Nacional de Cursos Superiores de Tecnologia necessita, entre os requisitos, ao menos três anos de formação da primeira turma. A atuação do técnico está prevista no Catálogo Nacional de Cursos Técnicos, 3ª edição, p,28; resolução CNE/CEB 01/2014; Lei nº 3.968, 5 de outubro 1961, dispõe sobre o exercício da profissão de massagista, e dá outras providencias e na Referência Técnica para o funcionamento dos serviços de estética e embelezamento sem responsabilidade médica - Agência Nacional de Vigilância Sanitária - ANVISA dezembro /2009. 
+- Para atender às demandas do processo produtivo, esse profissional deve constituir as seguintes competências específicas da habilitação:
 
-O profissional Tecnólogo em Massoterapia deve adquirir as competências necessárias para executar com segurança, diferentes técnicas de massagens visando à atenção integral à saúde. Para tanto, deve no decorrer do curso, mobilizar e articular com pertinência os saberes necessários à ação eficiente e eficaz, integrando suporte científico, tecnológico e valorativo que lhe permita: 
+- Reconhecer-se como profissional da Área de Saúde, baseando o planejamento de sua ação na perspectiva do ser humano integral e considerando os condicionantes e determinantes do processo de saúde-doença, a qualidade no atendimento, a preservação do meio ambiente e o compromisso social com a população;
 
-- Buscar atualização constante por meio de estudos e pesquisas, de forma crítica propor inovações, identificar e incorporar novos métodos, técnicas e tecnologias às suas ações e responder às situações cotidianas e imprevisíveis com flexibilidade e criatividade; 
+- Elaborar plano de trabalho terapêutico selecionando as manobras ou técnicas mais indicadas de massoterapia, tendo em vista a análise dos aspectos anatômicos, fisiológicos, biomecânicos e fisiopatológicos do cliente, assim como as indicações e contraindicações do quadro apresentado;
 
-- Formar o cidadão de modo crítico e integral capaz de superar a dicotomia cristalizada na divisão do trabalho entre o executar e pensar, planejar, dirigir, supervisionar ou controlar a qualidade dos serviços. 
+- Proceder às manobras de massagem, com base em conceitos de anatomia, fisiologia e biomecânica, Medicina Tradicional Chinesa (MTC) visando à saúde integral e reconhecendo o ser humano como um todo indivisível, compreendido em suas dimensões física, psíquica, social, espiritual e ecológica;
 
-- Assumir postura profissional condizente com os princípios que regem as ações na área de saúde, atuando em equipes multidisciplinares e relacionando-se 
+- Selecionar e adotar procedimentos que garantam a segurança, a higiene e profilaxia nos locais de trabalho e atender às diferentes normas que regem a prestação dos serviços de saúde, acompanhando e incorporando, de forma crítica, as principais tendências presentes na evolução das técnicas massoterápicas;
 
-26 
+27
 
-## INSTITUTOFEDERAL 
+## INSTITUTOFEDERAL Parana
 
-## Parana 
+Ministerio da Educacao
 
-Ministerio da Educacao 
+● Informar e orientar o cliente/paciente e a comunidade em geral quanto aos hábitos e medidas geradoras de melhores condições de vida, visando à conquista de autonomia na manutenção da própria saúde;
 
-adequadamente com os clientes, contribuindo de forma efetiva para a promoção, proteção e recuperação da saúde; 
+- Gerir um negócio com visão sistêmica, mobilizando e articulando conceitos e princípios de empreendedorismo e habilidades na definição de estratégias que contribuam para a sustentabilidade do empreendimento.
 
-- Gerenciar seu percurso profissional com iniciativa e de forma empreendedora, prestando serviços em Instituições privadas ou públicas e/ou na condução do seu próprio consultório; 
+O Curso de Tecnologia em Massoterapia deve possuir, também, as competências gerais da Área Profissional da Saúde:
 
-- Atuar com responsabilidade, comprometendo-se com os princípios da ética, da sustentabilidade ambiental, da preservação da saúde e do desenvolvimento social, orientado suas atividades por valores expressos na ética profissional, resultante da qualidade e do gosto pelo trabalho bem realizado; 
+- Identificar os determinantes e os condicionantes no processo saúde-doença e qualidade de vida;
 
-- Para atender às demandas do processo produtivo, esse profissional deve constituir as seguintes competências específicas da habilitação: 
+- Identificar a estrutura e organização do sistema de saúde vigente;
 
-- Reconhecer-se como profissional da Área de Saúde, baseando o planejamento de sua ação na perspectiva do ser humano integral e considerando os condicionantes e determinantes do processo de saúde-doença, a qualidade no atendimento, a preservação do meio ambiente e o compromisso social com a população; 
+- Identificar funções e responsabilidades dos membros da equipe de trabalho;
 
-- Elaborar plano de trabalho terapêutico selecionando as manobras ou técnicas mais indicadas de massoterapia, tendo em vista a análise dos aspectos anatômicos, fisiológicos, biomecânicos e fisiopatológicos do cliente, assim como as indicações e contraindicações do quadro apresentado; 
+- Planejar e organizar o trabalho na perspectiva do atendimento integral e de qualidade;
 
-- Proceder às manobras de massagem, com base em conceitos de anatomia, fisiologia e biomecânica, Medicina Tradicional Chinesa (MTC) visando à saúde integral e reconhecendo o ser humano como um todo indivisível, compreendido em suas dimensões física, psíquica, social, espiritual e ecológica; 
+- Realizar o trabalho em equipe, correlacionando conhecimentos de várias disciplinas e/ou técnicas massoterápicas, ou ciências, tendo em vista o caráter interdisciplinar da área;
 
-- Selecionar e adotar procedimentos que garantam a segurança, a higiene e profilaxia nos locais de trabalho e atender às diferentes normas que regem a prestação dos serviços de saúde, acompanhando e incorporando, de forma crítica, as principais tendências presentes na evolução das técnicas massoterápicas; 
+- Aplicar normas de biossegurança;
 
-27 
+- Aplicar princípios e normas de higiene e saúde pessoal e ambiental;
 
-## INSTITUTOFEDERAL Parana 
+- Interpretar e aplicar a Legislação referente aos direitos dos usuários;
 
-Ministerio da Educacao 
+- Identificar e aplicar princípios e normas de conservação de recursos não renováveis e de preservação do meio ambiente;
 
-● Informar e orientar o cliente/paciente e a comunidade em geral quanto aos hábitos e medidas geradoras de melhores condições de vida, visando à conquista de autonomia na manutenção da própria saúde; 
+- Aplicar princípios ergonômicos na realização do trabalho;
 
-- Gerir um negócio com visão sistêmica, mobilizando e articulando conceitos e princípios de empreendedorismo e habilidades na definição de estratégias que contribuam para a sustentabilidade do empreendimento. 
+- Avaliar riscos iatrogênicos ao executar procedimentos técnicos;
 
-O Curso de Tecnologia em Massoterapia deve possuir, também, as competências gerais da Área Profissional da Saúde: 
+- Interpretar e aplicar normas do exercício profissional e princípios éticos que regem a conduta do profissional de saúde;
 
-- Identificar os determinantes e os condicionantes no processo saúde-doença e qualidade de vida; 
+- Identificar e avaliar rotinas, protocolos de trabalho, instalações e equipamentos;
 
-- Identificar a estrutura e organização do sistema de saúde vigente; 
+- Operar equipamentos próprios do campo de atuação, zelando pela sua manutenção;
 
-- Identificar funções e responsabilidades dos membros da equipe de trabalho; 
+28
 
-- Planejar e organizar o trabalho na perspectiva do atendimento integral e de qualidade; 
+INSTITUTOFEDERAL Parana
 
-- Realizar o trabalho em equipe, correlacionando conhecimentos de várias disciplinas e/ou técnicas massoterápicas, ou ciências, tendo em vista o caráter interdisciplinar da área; 
+Ministerio da Educacao<br>
 
-- Aplicar normas de biossegurança; 
+- Registrar ocorrências e serviços prestados de acordo com as exigências do campo de atuação;
 
-- Aplicar princípios e normas de higiene e saúde pessoal e ambiental; 
+- Prestar informações ao cliente/paciente, ao sistema de saúde e aos outros profissionais sobre os serviços que tenham sido prestados;
 
-- Interpretar e aplicar a Legislação referente aos direitos dos usuários; 
+- Orientar clientes a assumirem, com autonomia, a própria saúde;
 
-- Identificar e aplicar princípios e normas de conservação de recursos não renováveis e de preservação do meio ambiente; 
+- Coletar e organizar dados relativos ao campo de atuação;
 
-- Aplicar princípios ergonômicos na realização do trabalho; 
+- Utilizar recursos e ferramentas de informática específicos da área;
 
-- Avaliar riscos iatrogênicos ao executar procedimentos técnicos; 
+- Realizar os procedimentos de primeiros socorros em situações de emergências.
 
-- Interpretar e aplicar normas do exercício profissional e princípios éticos que regem a conduta do profissional de saúde; 
+## 3.4.1 Áreas de Atuação do Egresso
 
-- Identificar e avaliar rotinas, protocolos de trabalho, instalações e equipamentos; 
+O campo da massoterapia abrange como áreas de atuação clubes e equipes esportivas, clínicas estéticas ou dermatológicas, unidades de atenção primária da saúde em conjunto com equipe multiprofissional, academias, clínicas e/ou estabelecimentos de saúde direcionados para o bem-estar. O profissional poderá atuar como autônomo executando a atividade de massoterapia em domicílios ou gabinete próprio de atendimento. Poderá atuar em palestras mediadas nos eventos de Semana Interna de Prevenção de Acidentes de Trabalho (SIPAT) bem como aprimorar, elaborar e redefinir conceitos e práticas de sua área de atuação através da pesquisa acadêmica em nível stricto sensu. Nessa perspectiva, poderá atuar na docência em saúde.
 
-- Operar equipamentos próprios do campo de atuação, zelando pela sua manutenção; 
+## 3.4.2 Acompanhamento de Egressos
 
-28 
+A fim de verificar o efeito da formação profissional no mundo do trabalho os alunos egressos serão contatados após o período de formação. O acompanhamento do aluno se faz necessário a fim de identificar se as demandas esperadas estão se formalizando na rotina de trabalho desses profissionais. Além disso, o contato com o aluno egresso viabiliza informações que denotam um espectro da realidade vivenciada pelo profissional, o que
 
-INSTITUTOFEDERAL Parana 
+29
 
-**==> picture [64 x 9] intentionally omitted <==**
+## INSTITUTOFEDERAL
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+## Parana
 
+Ministerio da Educacao
 
-- Registrar ocorrências e serviços prestados de acordo com as exigências do campo de atuação; 
+permite à instituição propor maior proximidade dos conteúdos teóricos e práticos com a realidade profissional. O conhecimento sobre as dificuldades, as demandas e os possíveis novos campos de atuação fornecem subsídios para novas propostas e direcionamentos do curso no âmbito de adequar-se ao contexto profissional vivenciado nesse campo de trabalho.
 
-- Prestar informações ao cliente/paciente, ao sistema de saúde e aos outros profissionais sobre os serviços que tenham sido prestados; 
+Assim, objetiva-se ao final do período de formação de cada turma atualizar o cadastro desses alunos e adicionar seus dados de identificação bem como de atuação profissional através da formulação de um banco de dados de egressos. Nesse banco serão contabilizados o quantitativo de profissionais inseridos no mercado de trabalho. O modelo desse banco de dados estará   estabelecido por meio de projeto de pesquisa institucional do colegiado de professores do Curso de Tecnologia em Massoterapia.
 
-- Orientar clientes a assumirem, com autonomia, a própria saúde; 
+## 3.4.3 Registro Profissional
 
-- Coletar e organizar dados relativos ao campo de atuação; 
+O curso propõe uma abordagem profissional com novas demandas e perfil diferenciado do profissional técnico em Massoterapia. O registro profissional, portanto, será discutido de modo a identificar a necessidade de um conselho profissional novo ou mesmo a inserção desse profissional em conselhos profissionais já existentes e de características similares como, por exemplo, o Conselho Federal de Fisioterapia e Terapia Ocupacional.
 
-- Utilizar recursos e ferramentas de informática específicos da área; 
+## **4. METODOLOGIA E ESTRATÉGIAS PEDAGÓGICAS**
 
-- Realizar os procedimentos de primeiros socorros em situações de emergências. 
+O Curso Superior em Tecnologia em Massoterapia tem o compromisso com a integração entre trabalho, ciência, tecnologia e cultura; a pesquisa como eixo orientador da prática pedagógica; a indissociabilidade entre teoria e prática e a interdisciplinaridade, visando à superação da fragmentação entre as áreas do conhecimento‖ (IFPR, 2014). Preparando o indivíduo para o mundo do trabalho de forma que compreendam os processos do trabalho em suas dimensões científica, tecnológica   e social, como parte       das relações sociais. Para se atingir o perfil do egresso serão empregadas aulas presenciais contemplando atividades teóricas e práticas; aulas práticas com participação da comunidade externa como
 
-## 3.4.1 Áreas de Atuação do Egresso 
+30
 
-O campo da massoterapia abrange como áreas de atuação clubes e equipes esportivas, clínicas estéticas ou dermatológicas, unidades de atenção primária da saúde em conjunto com equipe multiprofissional, academias, clínicas e/ou estabelecimentos de saúde direcionados para o bem-estar. O profissional poderá atuar como autônomo executando a atividade de massoterapia em domicílios ou gabinete próprio de atendimento. Poderá atuar em palestras mediadas nos eventos de Semana Interna de Prevenção de Acidentes de Trabalho (SIPAT) bem como aprimorar, elaborar e redefinir conceitos e práticas de sua área de atuação através da pesquisa acadêmica em nível stricto sensu. Nessa perspectiva, poderá atuar na docência em saúde. 
+## INSTITUTOFEDERAL
 
-## 3.4.2 Acompanhamento de Egressos 
+## Parana
 
-A fim de verificar o efeito da formação profissional no mundo do trabalho os alunos egressos serão contatados após o período de formação. O acompanhamento do aluno se faz necessário a fim de identificar se as demandas esperadas estão se formalizando na rotina de trabalho desses profissionais. Além disso, o contato com o aluno egresso viabiliza informações que denotam um espectro da realidade vivenciada pelo profissional, o que 
+Ministerio da Educacao
 
-29 
+forma de aproximação real da profissão; atividades complementares, como visitas técnicas a contextos reais de atuação profissional, seminários e palestras, atividades de complementação de aprendizagem, atividades interdisciplinares, avaliações, entre outras.
 
-## INSTITUTOFEDERAL 
+O curso optou por unir especialistas oriundos de vários horizontes científicos em colaboração interdisciplinar para formação acadêmica do tecnólogo em massoterapia, preservando a integridade, a especificidade, de cada disciplina, reunindo uma multiplicidade de conhecimentos e competências práticas constituindo uma convergência que engendra novos campos de estudo estáveis, estruturados e institucionalizados no domínio do ensino, pesquisa, extensão e da inovação, corroborando com o olhar de interdisciplinaridade de Raynaut (2014).
 
-## Parana 
+O Campus Curitiba oferece aos discentes: programas de atendimento extraclasse tais como monitoria e atendimento individual ao aluno ofertado pelos docentes; equipe multidisciplinar/multiprofissional; apoio psicopedagógico; assistência social; atividades de complementação de aprendizagem; atividades de pesquisa; atividades de extensão e inovação, entre outras.
 
-Ministerio da Educacao 
+## 4.1 RELAÇÃO ENTRE ENSINO, PESQUISA, EXTENSÃO E INOVAÇÃO
 
-permite à instituição propor maior proximidade dos conteúdos teóricos e práticos com a realidade profissional. O conhecimento sobre as dificuldades, as demandas e os possíveis novos campos de atuação fornecem subsídios para novas propostas e direcionamentos do curso no âmbito de adequar-se ao contexto profissional vivenciado nesse campo de trabalho. 
+O IFPR tem como missão promover a educação profissional e tecnológica, pública, de qualidade, socialmente referenciada, por meio do ensino, pesquisa e extensão. Desta forma, o Curso Superior em Tecnologia em Massoterapia visa propor estratégias para articular ensino, pesquisa e extensão, como a flexibilidade curricular que possibilita o desenvolvimento de atitudes e ações empreendedoras e inovadoras, tendo como foco as vivências da aprendizagem para a capacitação e para a inserção no mundo do trabalho. Algumas estratégias possíveis são: projetos interdisciplinares que sejam capazes de integrar diversas áreas de conhecimento além da saúde, de apresentar resultados práticos e objetivos e que tenham sido propostos pelo coletivo envolvido no projeto; implementação sistemática, permanente e/ou eventual de cursos de extensão, seminários, fóruns, palestras, semanas de curso, eventos internos e externos ao IFPR e outros que articulem os currículos a temas de
 
-Assim, objetiva-se ao final do período de formação de cada turma atualizar o cadastro desses alunos e adicionar seus dados de identificação bem como de atuação profissional através da formulação de um banco de dados de egressos. Nesse banco serão contabilizados o quantitativo de profissionais inseridos no mercado de trabalho. O modelo desse banco de dados estará   estabelecido por meio de projeto de pesquisa institucional do colegiado de professores do Curso de Tecnologia em Massoterapia. 
+31
 
-## 3.4.3 Registro Profissional 
+## INSTITUTOFEDERAL
 
-O curso propõe uma abordagem profissional com novas demandas e perfil diferenciado do profissional técnico em Massoterapia. O registro profissional, portanto, será discutido de modo a identificar a necessidade de um conselho profissional novo ou mesmo a inserção desse profissional em conselhos profissionais já existentes e de características similares como, por exemplo, o Conselho Federal de Fisioterapia e Terapia Ocupacional. 
+## Parana
 
-## **4. METODOLOGIA E ESTRATÉGIAS PEDAGÓGICAS** 
+Ministerio da Educacao
 
-O Curso Superior em Tecnologia em Massoterapia tem o compromisso com a integração entre trabalho, ciência, tecnologia e cultura; a pesquisa como eixo orientador da prática pedagógica; a indissociabilidade entre teoria e prática e a interdisciplinaridade, visando à superação da fragmentação entre as áreas do conhecimento‖ (IFPR, 2014). Preparando o indivíduo para o mundo do trabalho de forma que compreendam os processos do trabalho em suas dimensões científica, tecnológica   e social, como parte       das relações sociais. Para se atingir o perfil do egresso serão empregadas aulas presenciais contemplando atividades teóricas e práticas; aulas práticas com participação da comunidade externa como 
+relevância social, local e/ou regional e que potencializam recursos materiais, físicos e humanos disponíveis; flexibilização de conteúdos por meio da  criação de componentes curriculares e de outros mecanismos de organização de estudos que contemplem conhecimentos relevantes, capazes de responder a demandas pontuais e de grande valor para a comunidade interna e externa; previsão de horas-aula, para viabilizar a construção de trajetórias curriculares por meio do envolvimento em eventos, em projetos de pesquisa e extensão, em componentes curriculares optativos e outras possibilidades; previsão de espaço para reflexão e construção de ações coletivas, que atendam a demandas específicas de áreas, cursos, campus e Instituição, tais como fóruns, debates, grupos de estudo e similares; oferta de intercâmbio entre estudantes de diferentes campi, institutos e instituições educacionais considerando a equivalência de estudos.
 
-30 
+## 4.2 TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO NO PROCESSO DE ENSINO-APRENDIZAGEM
 
-## INSTITUTOFEDERAL 
+Uma vez que é um curso prático, não está prevista carga horária em plataformas de Ead.
 
-## Parana 
+## 4.3 EDUCAÇÃO INCLUSIVA
 
-Ministerio da Educacao 
+O Plano Nacional de Educação (PNE), lei ordinária, prevista na Constituição Federal, que entrou em vigência no dia 26 de junho de 2014 e valerá por 10 anos estabelece diretrizes, metas e estratégias de concretização no campo da educação. O PNE tem 20 metas que abrangem todos os níveis de formação, desde a educação infantil até o ensino superior, com atenção para detalhes como a educação inclusiva, a melhoria da taxa de escolaridade média dos brasileiros, a formação e plano de carreira para professores, bem como a gestão e o financiamento da Educação.
 
-forma de aproximação real da profissão; atividades complementares, como visitas técnicas a contextos reais de atuação profissional, seminários e palestras, atividades de complementação de aprendizagem, atividades interdisciplinares, avaliações, entre outras. 
+No que se refere a educação inclusiva (Meta 4 do PNE) para a população de 4 (quatro) a 17 (dezessete) anos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação o objetivo é de universalizar, o acesso à educação básica e ao
 
-O curso optou por unir especialistas oriundos de vários horizontes científicos em colaboração interdisciplinar para formação acadêmica do tecnólogo em massoterapia, preservando a integridade, a especificidade, de cada disciplina, reunindo uma multiplicidade de conhecimentos e competências práticas constituindo uma convergência que engendra novos campos de estudo estáveis, estruturados e institucionalizados no domínio do ensino, pesquisa, extensão e da inovação, corroborando com o olhar de interdisciplinaridade de Raynaut (2014). 
+32
 
-O Campus Curitiba oferece aos discentes: programas de atendimento extraclasse tais como monitoria e atendimento individual ao aluno ofertado pelos docentes; equipe multidisciplinar/multiprofissional; apoio psicopedagógico; assistência social; atividades de complementação de aprendizagem; atividades de pesquisa; atividades de extensão e inovação, entre outras. 
+## INSTITUTOFEDERAL
 
-## 4.1 RELAÇÃO ENTRE ENSINO, PESQUISA, EXTENSÃO E INOVAÇÃO 
+## Parana
 
-O IFPR tem como missão promover a educação profissional e tecnológica, pública, de qualidade, socialmente referenciada, por meio do ensino, pesquisa e extensão. Desta forma, o Curso Superior em Tecnologia em Massoterapia visa propor estratégias para articular ensino, pesquisa e extensão, como a flexibilidade curricular que possibilita o desenvolvimento de atitudes e ações empreendedoras e inovadoras, tendo como foco as vivências da aprendizagem para a capacitação e para a inserção no mundo do trabalho. Algumas estratégias possíveis são: projetos interdisciplinares que sejam capazes de integrar diversas áreas de conhecimento além da saúde, de apresentar resultados práticos e objetivos e que tenham sido propostos pelo coletivo envolvido no projeto; implementação sistemática, permanente e/ou eventual de cursos de extensão, seminários, fóruns, palestras, semanas de curso, eventos internos e externos ao IFPR e outros que articulem os currículos a temas de 
+Ministerio da Educacao
 
-31 
+atendimento educacional especializado, preferencialmente na rede regular de ensino, com a garantia de sistema educacional inclusivo, de salas de recursos multifuncionais, classes, escolas ou serviços especializados, públicos ou conveniado está contemplado no PROJETO PEDAGÓGICO INSTITUCIONAL (Item 2.4 - Assistência estudantil).
 
-## INSTITUTOFEDERAL 
+Além disto, o Campus Curitiba conta com o Núcleo de Apoio a Pessoas com Necessidades Específicas – NAPNE que visa a inserção e o atendimento aos alunos com Necessidades Educacionais Específicas nos cursos de nível básico, técnico e tecnológico nas Instituições Federais de Educação. A Secretaria de Educação Profissional e Tecnológica (SETEC/MEC) criou o Programa de Educação, Tecnologia e Profissionalização para Pessoas com Necessidades Educacionais Especiais (TEC NEP).  O objetivo é estimular a criação da cultura a educação para a convivência, aceitação da diversidade e, principalmente, buscar a quebra das barreiras arquitetônicas, educacionais e atitudinais nos Institutos Federais. 4.4 INTEGRAÇÃO
 
-## Parana 
+## 4.4.1 Integração com a Pós-Graduação
 
-Ministerio da Educacao 
+O IFPR ao propor Curso Superior em Tecnologia em Massoterapia visa propor estratégias para articular ensino, pesquisa e extensão. Estratégias de integração com a pósgraduação referem-se à implementação sistemática, permanente e/ou eventual de cursos de extensão, e de especialização lato sensu, especificamente especialização em Medicina Tradicional Chinesa associada a Massagem Tui Ná, Medicina Ayurveda associado a Massagem Abhyanga, Massagem Desportiva e Técnicas de Massoterapia Aplicadas em SPA com carga horária de 360 horas que atenda a demanda da formação continuada de egressos do curso.
 
-relevância social, local e/ou regional e que potencializam recursos materiais, físicos e humanos disponíveis; flexibilização de conteúdos por meio da  criação de componentes curriculares e de outros mecanismos de organização de estudos que contemplem conhecimentos relevantes, capazes de responder a demandas pontuais e de grande valor para a comunidade interna e externa; previsão de horas-aula, para viabilizar a construção de trajetórias curriculares por meio do envolvimento em eventos, em projetos de pesquisa e extensão, em componentes curriculares optativos e outras possibilidades; previsão de espaço para reflexão e construção de ações coletivas, que atendam a demandas específicas de áreas, cursos, campus e Instituição, tais como fóruns, debates, grupos de estudo e similares; oferta de intercâmbio entre estudantes de diferentes campi, institutos e instituições educacionais considerando a equivalência de estudos. 
+Além disto, a formalização do Curso de Tecnologia em Massoterapia, ainda no processo de verticalização permite a possibilidade de oferta de Mestrado Profissional em Saúde, bem como oportunizar o ingresso no Mestrado Profissional em Educação Profissional e Tecnológica já ofertado pelo campus.
 
-## 4.2 TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO NO PROCESSO DE ENSINO-APRENDIZAGEM 
+Segue a proposta de itinerário formativo no Campus Curitiba.
 
-Uma vez que é um curso prático, não está prevista carga horária em plataformas de Ead. 
+INSTITUTOFEDERAL<br>Parana Ministerio da Educacao<br>
 
-## 4.3 EDUCAÇÃO INCLUSIVA 
+**Figura 1.** Itinerários formativos do Campus Curitiba.
 
-O Plano Nacional de Educação (PNE), lei ordinária, prevista na Constituição Federal, que entrou em vigência no dia 26 de junho de 2014 e valerá por 10 anos estabelece diretrizes, metas e estratégias de concretização no campo da educação. O PNE tem 20 metas que abrangem todos os níveis de formação, desde a educação infantil até o ensino superior, com atenção para detalhes como a educação inclusiva, a melhoria da taxa de escolaridade média dos brasileiros, a formação e plano de carreira para professores, bem como a gestão e o financiamento da Educação. 
+Itinerarios formativos<br>Verticalizacdo (prosseguimento) Doutorado<br>Requisito minimo: ensino superior completo<br>CURSO SUPERIOR. Mestrado<br>Ambiente eSauide Especializacio<br>Requisito minimo:ensino medio<br>completo • Tecnologo em Massoterapia<br>Qualificacao Profissional Aperfeicoamento<br>/ Formagao Inicial<br>Continuada (FIC)<br>CURSO TECNICO<br>Ambiente eSatide<br>Requisito minimo: ensino Especializacao<br>fundamental completo  Tecnico em Massoterapia profissional teenica de<br>Qualificacao Profissional nivel medio<br>/ Formacao Inicial e<br>Continuada (FIC)<br>CURSOS FIC<br>Ambiente eSaide<br>Requisito minimo: ensinofundamental incompleto Massagista·PROEJA-FIC<br>·PROEJA<br>
 
-No que se refere a educação inclusiva (Meta 4 do PNE) para a população de 4 (quatro) a 17 (dezessete) anos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação o objetivo é de universalizar, o acesso à educação básica e ao 
+## 4.4.2 Mobilidade Estudantil e Internacionalização
 
-32 
+O IFPR, em sua contribuição para a formação do estudante, assume o compromisso de proporcionar-lhe a mobilidade escolar/acadêmica, a qual envolve os intercâmbios nacionais e internacionais. Seja por meio de programas do Governo Federal, como o Ciência sem Fronteiras, ou por iniciativas próprias decorrentes de demandas locais, a mobilidade estudantil busca colaborar com a formação integral do estudante de maneira inclusiva, transformadora e comprometida com o desenvolvimento humano (PDI 139-140).
 
-## INSTITUTOFEDERAL 
+## 4.4.3 Material Didático
 
-## Parana 
+Não se aplica por se tratar de curso presencial.
 
-Ministerio da Educacao 
+## 4.4.4 Mecanismos de Interação entre docentes, tutores e estudantes
 
-atendimento educacional especializado, preferencialmente na rede regular de ensino, com a garantia de sistema educacional inclusivo, de salas de recursos multifuncionais, classes, escolas ou serviços especializados, públicos ou conveniado está contemplado no PROJETO PEDAGÓGICO INSTITUCIONAL (Item 2.4 - Assistência estudantil). 
+Não se aplica por se tratar de curso presencial.
 
-Além disto, o Campus Curitiba conta com o Núcleo de Apoio a Pessoas com Necessidades Específicas – NAPNE que visa a inserção e o atendimento aos alunos com Necessidades Educacionais Específicas nos cursos de nível básico, técnico e tecnológico nas Instituições Federais de Educação. A Secretaria de Educação Profissional e Tecnológica (SETEC/MEC) criou o Programa de Educação, Tecnologia e Profissionalização para Pessoas com Necessidades Educacionais Especiais (TEC NEP).  O objetivo é estimular a criação da cultura a educação para a convivência, aceitação da diversidade e, principalmente, buscar a quebra das barreiras arquitetônicas, educacionais e atitudinais nos Institutos Federais. 4.4 INTEGRAÇÃO 
+34
 
-## 4.4.1 Integração com a Pós-Graduação 
+INSTITUTOFEDERAL Parana
 
-O IFPR ao propor Curso Superior em Tecnologia em Massoterapia visa propor estratégias para articular ensino, pesquisa e extensão. Estratégias de integração com a pósgraduação referem-se à implementação sistemática, permanente e/ou eventual de cursos de extensão, e de especialização lato sensu, especificamente especialização em Medicina Tradicional Chinesa associada a Massagem Tui Ná, Medicina Ayurveda associado a Massagem Abhyanga, Massagem Desportiva e Técnicas de Massoterapia Aplicadas em SPA com carga horária de 360 horas que atenda a demanda da formação continuada de egressos do curso. 
+Ministerio daEducacao<br>
 
-Além disto, a formalização do Curso de Tecnologia em Massoterapia, ainda no processo de verticalização permite a possibilidade de oferta de Mestrado Profissional em Saúde, bem como oportunizar o ingresso no Mestrado Profissional em Educação Profissional e Tecnológica já ofertado pelo campus. 
+## 4.4.5 Atividades Práticas de Ensino
 
-Segue a proposta de itinerário formativo no Campus Curitiba. 
+Tendo que o Curso de Tecnologia em Massoterapia é experimental não há Diretrizes Curriculares Nacionais previstas, desta forma, as atividades práticas de ensino serão baseadas no disposto nas Resoluções n.º 03/2001, n.º 04/2001 e n.º 03/2002 da Câmara de Educação Superior/Conselho Nacional de Educação, entre outras priorizando o enfoque de atenção à saúde.
 
-33 
+## **5. ORGANIZAÇÃO CURRICULAR**
 
-**==> picture [322 x 20] intentionally omitted <==**
+## 5.1 ESTRUTURA CURRICULAR
 
-**----- Start of picture text -----**<br>
-INSTITUTOFEDERAL<br>Parana Ministerio da Educacao<br>**----- End of picture text -----**<br>
+A estrutura curricular do Curso de Tecnologia em Massoterapia está organizada em 6 semestres de aulas em que os componentes curriculares são ofertados por módulos, conforme Quadro 1.
 
+## 5.1.1 Representação Gráfica do Processo Formativo
 
-**Figura 1.** Itinerários formativos do Campus Curitiba. 
-
-**==> picture [349 x 251] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Itinerarios formativos<br>Verticalizacdo (prosseguimento) Doutorado<br>Requisito minimo: ensino superior completo<br>CURSO SUPERIOR. Mestrado<br>Ambiente eSauide Especializacio<br>Requisito minimo:ensino medio<br>completo • Tecnologo em Massoterapia<br>Qualificacao Profissional Aperfeicoamento<br>/ Formagao Inicial<br>Continuada (FIC)<br>CURSO TECNICO<br>Ambiente eSatide<br>Requisito minimo: ensino Especializacao<br>fundamental completo  Tecnico em Massoterapia profissional teenica de<br>Qualificacao Profissional nivel medio<br>/ Formacao Inicial e<br>Continuada (FIC)<br>CURSOS FIC<br>Ambiente eSaide<br>Requisito minimo: ensinofundamental incompleto Massagista·PROEJA-FIC<br>·PROEJA<br>**----- End of picture text -----**<br>
-
-
-## 4.4.2 Mobilidade Estudantil e Internacionalização 
-
-O IFPR, em sua contribuição para a formação do estudante, assume o compromisso de proporcionar-lhe a mobilidade escolar/acadêmica, a qual envolve os intercâmbios nacionais e internacionais. Seja por meio de programas do Governo Federal, como o Ciência sem Fronteiras, ou por iniciativas próprias decorrentes de demandas locais, a mobilidade estudantil busca colaborar com a formação integral do estudante de maneira inclusiva, transformadora e comprometida com o desenvolvimento humano (PDI 139-140). 
-
-## 4.4.3 Material Didático 
-
-Não se aplica por se tratar de curso presencial. 
-
-## 4.4.4 Mecanismos de Interação entre docentes, tutores e estudantes 
-
-Não se aplica por se tratar de curso presencial. 
-
-34 
-
-INSTITUTOFEDERAL Parana 
-
-**==> picture [64 x 9] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Ministerio daEducacao<br>**----- End of picture text -----**<br>
-
-
-## 4.4.5 Atividades Práticas de Ensino 
-
-Tendo que o Curso de Tecnologia em Massoterapia é experimental não há Diretrizes Curriculares Nacionais previstas, desta forma, as atividades práticas de ensino serão baseadas no disposto nas Resoluções n.º 03/2001, n.º 04/2001 e n.º 03/2002 da Câmara de Educação Superior/Conselho Nacional de Educação, entre outras priorizando o enfoque de atenção à saúde. 
-
-## **5. ORGANIZAÇÃO CURRICULAR** 
-
-## 5.1 ESTRUTURA CURRICULAR 
-
-A estrutura curricular do Curso de Tecnologia em Massoterapia está organizada em 6 semestres de aulas em que os componentes curriculares são ofertados por módulos, conforme Quadro 1. 
-
-## 5.1.1 Representação Gráfica do Processo Formativo 
-
-**Gráfico 1. Curso Superior de Tecnologia em Massoterapia** 
+**Gráfico 1. Curso Superior de Tecnologia em Massoterapia**
 
 |**1ºSemestre**|**ANATOMOCINESIOLOGIA**|
 |---|---|
@@ -854,9 +806,7 @@ A estrutura curricular do Curso de Tecnologia em Massoterapia está organizada e
 ||**NOÇÕES DE IMAGEM**<br>**Ú**|
 ||**SAÚDE DO TRABALHADOR**|
 
-
-
-35 
+35
 
 ||**SAÚDE COLETIVA**|
 |---|---|
@@ -885,26 +835,20 @@ A estrutura curricular do Curso de Tecnologia em Massoterapia está organizada e
 ||**MASSOTERAPIA- TERAPÊUTICA E DESPORTIVA**|
 |**6º Semestre**|**ESTÁGIO**|
 
+## 5.1.2 Matriz Curricular
 
+A presente matriz Curricular atende ao disposto na Resolução CNE/CP 03 de 18/12/2002 que institui as Diretrizes Curriculares Nacionais Gerais para a organização e o funcionamento dos Cursos Superiores de Tecnologia prevendo procedimentos na estrutura curricular para promover a flexibilidade, a interdisciplinaridade, a contextualização e a atualização permanente do curso e de seus currículos. Nesta matriz não ocorre a separação de aula teórica e aula prática, pois se considera que a teoria e a prática devem fazer parte do processo formativo e deverá ser efetivada de forma concomitante, garantindo a unidade
 
-## 5.1.2 Matriz Curricular 
+36
 
-A presente matriz Curricular atende ao disposto na Resolução CNE/CP 03 de 18/12/2002 que institui as Diretrizes Curriculares Nacionais Gerais para a organização e o funcionamento dos Cursos Superiores de Tecnologia prevendo procedimentos na estrutura curricular para promover a flexibilidade, a interdisciplinaridade, a contextualização e a atualização permanente do curso e de seus currículos. Nesta matriz não ocorre a separação de aula teórica e aula prática, pois se considera que a teoria e a prática devem fazer parte do processo formativo e deverá ser efetivada de forma concomitante, garantindo a unidade 
+Parana
 
-36 
+## INSTITUTOFEDERAL
 
-Parana 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL 
+teoria-prática, em consonância com os documentos institucionais e a metodologia utilizada no desenvolvimento das atividades.
 
-Ministerio da Educacao 
-
-teoria-prática, em consonância com os documentos institucionais e a metodologia utilizada no desenvolvimento das atividades. 
-
-**==> picture [363 x 175] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-|||||||
 |---|---|---|---|---|---|
 |INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E|
 |TECNOLOGIA DO PARANÁ|
@@ -918,13 +862,6 @@ teoria-prática, em consonância com os documentos institucionais e a metodologi
 |Catálogo|Nacional de|Cursos|Superiores|em Tecnologia|
 |Resolução de autorização do curso no IFPR: Resolução nº 23 de 2018|
 
-**----- End of picture text -----**<br>
-
-
-**==> picture [474 x 312] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-||||||||
 |---|---|---|---|---|---|---|
 |CH|CH|CH|
 |em|em|em|
@@ -949,12 +886,8 @@ teoria-prática, em consonância com os documentos institucionais e a metodologi
 |PERCEPÇÃO CORPORAL|C|2|48|40|-|
 |Subtotal (Total do|período)|20|480|400|-|
 
-**----- End of picture text -----**<br>
+37
 
-
-37 
-
-||||||||
 |---|---|---|---|---|---|---|
 |**2º Semestre**|PATOLOGIA|C|3|72|60|-|
 ||NOÇÕES DE IMAGEM|C|2|48|40|-|
@@ -965,7 +898,6 @@ teoria-prática, em consonância com os documentos institucionais e a metodologi
 ||AVALIAÇÃO EM MASSOTERAPIA|C|3|72|60|-|
 ||PRATICAS TAOÍSTAS I|C|1|24|20|-|
 ||**Subtotal (Total do período)**||**20**|**480**|**400**|**-**|
-||||||||
 |**3º Semestre**|MTC|C|4|96|80|-|
 ||MASSOTERAPIA ORIENTAL I -<br>SHIATSU|C|5|120|100|40|
 ||TÉCNICAS DE MASSOTERAPIA<br>APLICADAS EM SPA|C|5|120|100|40|
@@ -973,7 +905,6 @@ teoria-prática, em consonância com os documentos institucionais e a metodologi
 ||AVALIAÇÃO EM MASSOTERAPIA<br>ORIENTAL|C|3|72|60|-|
 ||PRATICAS TAOÍSTAS II|C|1|24|20|-|
 ||**Subtotal (Total do período)**||**20**|**480**|**400**|**80**|
-||||||||
 |**4º Semestre**|MASSOTERAPIA ORIENTAL II - TUINÁ<br>E SEITAI|C|5|120|100|40|
 ||METODOLOGIA CIENTIFICA|C|2|48|40|-|
 ||MASSOTERAPIA - DLM|C|5|120|100|40|
@@ -982,19 +913,15 @@ teoria-prática, em consonância com os documentos institucionais e a metodologi
 ||BIOETICA e LEGISLAÇAO|C|2|72|60|-|
 ||PRATICAS TAOÍSTAS III|C|1|24|20|-|
 ||**Subtotal (Total do período)**||**20**|**480**|**400**|**80**|
-||||||||
 |**5º Semestre**|GESTÃO EMPREENDEDORA|C|2|48|40|-|
 ||TCC|C|3|72|60|-|
 ||BIOESTATISTICA|C|2|48|40|-|
 ||FENOMENOLOGIA CORPORAL E DOS<br>SENTIDOS|C|3|72|60|-|
 ||REFLEXOTERAPIA|C|5|120|100|40|
 
-
-
 ||MASSOTERAPIA - TERAPEUTICA E<br>DESPORTIVA|C|5|120|100|40|
 |---|---|---|---|---|---|---|
 ||**Subtotal (Total do período)**||**20**|**480**|**400**|**80**|
-||||||||
 |**6º Semestre**|ESTÁGIO|ES|5|480|400|-|
 ||**Subtotal (Total do período)**||**20**|**480**|**400**|**-**|
 |Atividades Curriculares de Extensão(ACE)||||||240h|
@@ -1005,1563 +932,1517 @@ teoria-prática, em consonância com os documentos institucionais e a metodologi
 |**Carga Horária Total do Curso**|||||||
 |||||||**2.440 h**|
 
+## 5.1.3 Componentes Optativos
 
+Além das disciplinas mencionadas na matriz curricular que são obrigatórias, para integralização do curso os alunos poderão realizar uma disciplina optativa, conforme disciplinas oferecidas no último semestre do curso: Língua Brasileira de Sinais – LIBRAS - 40h e Tópicos Especiais em Massoterapia – 40 h.
 
-## 5.1.3 Componentes Optativos 
+## 5.2 EMENTÁRIO E BIBLIOGRAFIAS
 
-Além das disciplinas mencionadas na matriz curricular que são obrigatórias, para integralização do curso os alunos poderão realizar uma disciplina optativa, conforme disciplinas oferecidas no último semestre do curso: Língua Brasileira de Sinais – LIBRAS - 40h e Tópicos Especiais em Massoterapia – 40 h. 
+## **1º semestre**
 
-## 5.2 EMENTÁRIO E BIBLIOGRAFIAS 
+39
 
-## **1º semestre** 
+MinisteriodaEducacao
 
-39 
+## INSTITUTOFEDERAL
 
-MinisteriodaEducacao 
+Parana
 
-## INSTITUTOFEDERAL 
+COMPONENTE CURRICULAR: Anatomocinesiologia
 
-Parana 
+CARGA HORÁRIA: 72 Hora/aula e 60 Hora/relógio (60 min.)
 
-COMPONENTE CURRICULAR: Anatomocinesiologia 
+EMENTA: Conceituação geral. Corpo humano: organização e estrutura macroscópica. Anatomia topográfica: Estudo topográfico dos membros superiores e inferiores, da cabeça e pescoço e do tórax.
 
-CARGA HORÁRIA: 72 Hora/aula e 60 Hora/relógio (60 min.) 
+BIBLIOGRAFIA BÁSICA:
 
-EMENTA: Conceituação geral. Corpo humano: organização e estrutura macroscópica. Anatomia topográfica: Estudo topográfico dos membros superiores e inferiores, da cabeça e pescoço e do tórax. 
+ARAUJO, C. R. A., ANTUNES, E. D.; Anatomia Humana. 1 ed. Curitiba: Editora Livro Técnico, 2011. DANGELO, J.; FATTINI, C. A. Anatomia humana sistêmica e segmentar: para o estudante de medicina. São Paulo: Atheneu, 2002.
 
-BIBLIOGRAFIA BÁSICA: 
+PALASTANGA, N., SOAMES, R W, PALASTANGA, D. Anatomia e movimento humano. Rio de Janeiro: Elsevier, 2010. CHEVREL JP; GUÉRAULD, JP; LÉVI, JP. Anatomia geral. 7. ed. Guanabara Koogan: Rio de Janeiro, 2003. NETTER, FH. Atlas de anatomia humana. 2. Ed. Porto Alegre: Artmed, 2003.
 
-ARAUJO, C. R. A., ANTUNES, E. D.; Anatomia Humana. 1 ed. Curitiba: Editora Livro Técnico, 2011. DANGELO, J.; FATTINI, C. A. Anatomia humana sistêmica e segmentar: para o estudante de medicina. São Paulo: Atheneu, 2002. 
+BIBLIOGRAFIA COMPLEMENTAR GRAY, H; GOSS, CM. Anatomia. 29. Ed. Rio de Janeiro: Guanabara Koogan, 1977. GARTNER, LP. et al. Tratado de histologia em cores. Rio de Janeiro: Guanabara Koogan, 1999. NETTER, F.H. Atlas de Anatomia Humana 5/E - Edição Especial Com Netter 3D, 5ª ED, ELSEVIER, 2011.
 
-PALASTANGA, N., SOAMES, R W, PALASTANGA, D. Anatomia e movimento humano. Rio de Janeiro: Elsevier, 2010. CHEVREL JP; GUÉRAULD, JP; LÉVI, JP. Anatomia geral. 7. ed. Guanabara Koogan: Rio de Janeiro, 2003. NETTER, FH. Atlas de anatomia humana. 2. Ed. Porto Alegre: Artmed, 2003. 
+ROHEN, J.W. Anatomia humana: atlas fotográfico de anatomia sistêmica e regional. Barueri: Manole, 6 ed, 2007.
 
-BIBLIOGRAFIA COMPLEMENTAR GRAY, H; GOSS, CM. Anatomia. 29. Ed. Rio de Janeiro: Guanabara Koogan, 1977. GARTNER, LP. et al. Tratado de histologia em cores. Rio de Janeiro: Guanabara Koogan, 1999. NETTER, F.H. Atlas de Anatomia Humana 5/E - Edição Especial Com Netter 3D, 5ª ED, ELSEVIER, 2011. 
+CASTRO, S.V. Anatomia fundamental. São Paulo: Pearson/Makron Books, 3 ed, 2005.
 
-ROHEN, J.W. Anatomia humana: atlas fotográfico de anatomia sistêmica e regional. Barueri: Manole, 6 ed, 2007. 
+40
 
-CASTRO, S.V. Anatomia fundamental. São Paulo: Pearson/Makron Books, 3 ed, 2005. 
+MinisteriodaEducacao
 
-40 
+## INSTITUTOFEDERAL
 
-MinisteriodaEducacao 
+Parana
 
-## INSTITUTOFEDERAL 
+COMPONENTE CURRICULAR: Anatomia de Meridianos e Pontos
 
-Parana 
+CARGA HORÁRIA: 48 Hora/aula e 40 Hora/relógio (60 min.)
 
-COMPONENTE CURRICULAR: Anatomia de Meridianos e Pontos 
+## EMENTA:
 
-CARGA HORÁRIA: 48 Hora/aula e 40 Hora/relógio (60 min.) 
+Promover o estudo de estrutura anatômica palpáveis como ossos, articulações, músculos, vasos e nervos. Proporcionar aos alunos o conhecimento dos principais vasos, canais e meridianos e pontos da terapêutica clássica Chinesa, assim como sua localização a fim de viabilizar por meio de tato e manipulação o estudo da estrutural biomecânica e a inter- relação funcional com anatomia e fisiologia energética segundo a Medicina Tradicional Chinesa (MTC).
 
-## EMENTA: 
+BIBLIOGRAFIA BÁSICA
 
-Promover o estudo de estrutura anatômica palpáveis como ossos, articulações, músculos, vasos e nervos. Proporcionar aos alunos o conhecimento dos principais vasos, canais e meridianos e pontos da terapêutica clássica Chinesa, assim como sua localização a fim de viabilizar por meio de tato e manipulação o estudo da estrutural biomecânica e a inter- relação funcional com anatomia e fisiologia energética segundo a Medicina Tradicional Chinesa (MTC). 
+HECKER, H. Atlas colorido de acupuntura: pontos sistêmicos, pontos- 2ª Ed. 2010. DANGELO, J.; FATTINI, C. A. Anatomia humana sistêmica e segmentar: para o estudante de medicina. São Paulo: Atheneu, 2002.
 
-BIBLIOGRAFIA BÁSICA 
+AUTEROCHE, B. SOLINAS, H. MAINVILLE, L.. Atlas de Acupuntura Chinesa Andrei, 2000. FOCKS, C.. Atlas de Acupuntura. Manole, 2008. MACIOCIA, G. Canais de Acupuntura, Ed Roca 2008.
 
-HECKER, H. Atlas colorido de acupuntura: pontos sistêmicos, pontos- 2ª Ed. 2010. DANGELO, J.; FATTINI, C. A. Anatomia humana sistêmica e segmentar: para o estudante de medicina. São Paulo: Atheneu, 2002. 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-AUTEROCHE, B. SOLINAS, H. MAINVILLE, L.. Atlas de Acupuntura Chinesa Andrei, 2000. FOCKS, C.. Atlas de Acupuntura. Manole, 2008. MACIOCIA, G. Canais de Acupuntura, Ed Roca 2008. 
+MACIOCIA, Giovane. Os Fundamentos Da Medicina Tradicional Chinesa. Ed Roca, 1996. PEREZ, C.A. NOGUEIRA. Acupuntura: Fundamentos de Bioenergética. Madrid: Mandala,1993. DING, Li Acupuntura Teoria do Meridiano e Pontos de Acupuntura. São Paulo:Roca.1996 CHEN, E. Anatomia Topográfica dos pontos de acupuntura. São Paulo,1997 CHEVREL JP; GUÉRAULD, JP; LÉVI, JP. Anatomia geral. 7. ed. Guanabara Koogan: Rio de Janeiro, 2003.
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+41
 
-MACIOCIA, Giovane. Os Fundamentos Da Medicina Tradicional Chinesa. Ed Roca, 1996. PEREZ, C.A. NOGUEIRA. Acupuntura: Fundamentos de Bioenergética. Madrid: Mandala,1993. DING, Li Acupuntura Teoria do Meridiano e Pontos de Acupuntura. São Paulo:Roca.1996 CHEN, E. Anatomia Topográfica dos pontos de acupuntura. São Paulo,1997 CHEVREL JP; GUÉRAULD, JP; LÉVI, JP. Anatomia geral. 7. ed. Guanabara Koogan: Rio de Janeiro, 2003. 
+MinisteriodaEducacao
 
-41 
+## INSTITUTOFEDERAL
 
-MinisteriodaEducacao 
+Parana
 
-## INSTITUTOFEDERAL 
+COMPONENTE CURRICULAR: Fisiologia
 
-Parana 
+CARGA HORÁRIA: 48 Hora/aula e 40 Hora/relógio
 
-COMPONENTE CURRICULAR: Fisiologia 
+EMENTA: Sistema Nervoso; Fisiologia dos Órgãos e Sentidos; Sistema Tegumentar e Muscular; Sistema Endócrino, Sistema Digestório; Sistema Respiratório, Sistema Cardiovascular e Linfático; Sistema Excretor e Sistema Reprodutor Masculino e Feminino.
 
-CARGA HORÁRIA: 48 Hora/aula e 40 Hora/relógio 
+## BIBLIOGRAFIA BÁSICA:
 
-EMENTA: Sistema Nervoso; Fisiologia dos Órgãos e Sentidos; Sistema Tegumentar e Muscular; Sistema Endócrino, Sistema Digestório; Sistema Respiratório, Sistema Cardiovascular e Linfático; Sistema Excretor e Sistema Reprodutor Masculino e Feminino. 
+HALL, John E.; GUYTON, Arthur C. Tratado de fisiologia médica. 12. ed. Rio de Janeiro: Elsevier, 2011. FOX, Stuart Ira. Fisiologia humana. 7. ed. Barueri: Manole, 2007.
 
-## BIBLIOGRAFIA BÁSICA: 
+BERNE, Robert M.; LEVY, Matthew N.; KOEPPEN, Bruce M.; STANTON, Bruce A. Berne & Levy Fisiologia. Rio de Janeiro: Elsevier, 2009.
 
-HALL, John E.; GUYTON, Arthur C. Tratado de fisiologia médica. 12. ed. Rio de Janeiro: Elsevier, 2011. FOX, Stuart Ira. Fisiologia humana. 7. ed. Barueri: Manole, 2007. 
+KAWAMOTO, Emília Emi. Anatomia e fisiologia humana. 3. Ed. São Paulo: EPU, 2009. 189p. TORTORA, Gerard J. Corpo humano: fundamentos de anatomia e fisiologia. 4.ed. Porto Alegre: Artmed, 2000.
 
-BERNE, Robert M.; LEVY, Matthew N.; KOEPPEN, Bruce M.; STANTON, Bruce A. Berne & Levy Fisiologia. Rio de Janeiro: Elsevier, 2009. 
+BIBLIOGRAFIA COMPLEMENTAR: ANTCZAK, Susan E. et al. Fisiopatologia básica. Rio de Janeiro: LAB, 2005. COSTANZO, Linda S. Fisiologia. 4. ed. Rio de Janeiro: Saunders Elsevier, 2011. MARTINI, Frederic. Anatomia humana. 6. ed. Porto Alegre: Artmed, 2009. CAMPBELL, Neil A. et al. Biologia. 8. ed. Porto Alegre: Artmed, 2010.
 
-KAWAMOTO, Emília Emi. Anatomia e fisiologia humana. 3. Ed. São Paulo: EPU, 2009. 189p. TORTORA, Gerard J. Corpo humano: fundamentos de anatomia e fisiologia. 4.ed. Porto Alegre: Artmed, 2000. 
+KAPIT, Wynn; KAPIT, Wynn; MEISAMI, Email. Fisiologia: um livro para colorir. 2. ed. São Paulo: Roca, 2004.
 
-BIBLIOGRAFIA COMPLEMENTAR: ANTCZAK, Susan E. et al. Fisiopatologia básica. Rio de Janeiro: LAB, 2005. COSTANZO, Linda S. Fisiologia. 4. ed. Rio de Janeiro: Saunders Elsevier, 2011. MARTINI, Frederic. Anatomia humana. 6. ed. Porto Alegre: Artmed, 2009. CAMPBELL, Neil A. et al. Biologia. 8. ed. Porto Alegre: Artmed, 2010. 
+42
 
-KAPIT, Wynn; KAPIT, Wynn; MEISAMI, Email. Fisiologia: um livro para colorir. 2. ed. São Paulo: Roca, 2004. 
+INSTITUTOFEDERAL Parana MinisteriodaEducacao
 
-42 
+COMPONENTE CURRICULAR: Psicologia do Relacionamento Humano
 
-INSTITUTOFEDERAL Parana MinisteriodaEducacao 
+CARGA HORÁRIA: 48 Hora/aula e 40 Hora/relógio
 
-COMPONENTE CURRICULAR: Psicologia do Relacionamento Humano 
+EMENTA: A psicologia como ciência e profissão. A constituição psicossocial da subjetividade. Relações interpessoais e o tecnólogo em massoterapia. Processos psicológicos básicos: sensação e percepção. Psicologia da saúde e construção de políticas públicas. Humanização em saúde e sofrimento psíquico.
 
-CARGA HORÁRIA: 48 Hora/aula e 40 Hora/relógio 
+BIBLIOGRAFIA BÁSICA: BOCK A. MB.; FURTADO O.; TEIXEIRA ML. Psicologias: uma introdução ao estudo de psicologia. 12 ed São Paulo: Saraiva, 2012; CORDEIRO, Q. Trabalho e saúde mental dos profissionais da saúde. São Paulo: CREMESP, 2016. LIPP M. Sentimentos que causam stress. Campinas: Papirus, 2009; MYERS, D. Processos psicológicos básicos II. São Paulo: PLT Anhanguera, 2006. SILVA, Maria Júlia Paes da. O Comunicação tem remédio: a comunicação nas relações interpessoais em saúde. São Paulo: Edições Loyola, 2002.
 
-EMENTA: A psicologia como ciência e profissão. A constituição psicossocial da subjetividade. Relações interpessoais e o tecnólogo em massoterapia. Processos psicológicos básicos: sensação e percepção. Psicologia da saúde e construção de políticas públicas. Humanização em saúde e sofrimento psíquico. 
+BIBLIOGRAFIA COMPLEMENTAR: ASSUNÇÃO RM, Castro PF. Relação entre estresse laboral e personalidade entre profissionais da área de saúde. Rev. Saúde. 2011; 5(2):4-16. BRASIL. Humaniza SUS: documento base para gestores e trabalhadores do SUS. Brasília: Ministério da saúde, 2006; LANE, Silvia T. Maurer. O que é psicologia social. 22. ed. São Paulo: Brasiliense, 2009. (Coleção Primeiros Passos; 39). MONTAGU A. Tocar: o significado humano da pele. São Paulo: SUMMUS, 1988; RAMOS-CERQUEIRA, A. T. A. Interdisciplinaridade e psicologia na área da saúde. Temas em Psicologia, v. 3, p. 37-41, 2004. REQUENA, Yves; ANDREI, Edmondo. Acupuntura e psicologia. São Paulo: Organização Andrei, 1990.
 
-BIBLIOGRAFIA BÁSICA: BOCK A. MB.; FURTADO O.; TEIXEIRA ML. Psicologias: uma introdução ao estudo de psicologia. 12 ed São Paulo: Saraiva, 2012; CORDEIRO, Q. Trabalho e saúde mental dos profissionais da saúde. São Paulo: CREMESP, 2016. LIPP M. Sentimentos que causam stress. Campinas: Papirus, 2009; MYERS, D. Processos psicológicos básicos II. São Paulo: PLT Anhanguera, 2006. SILVA, Maria Júlia Paes da. O Comunicação tem remédio: a comunicação nas relações interpessoais em saúde. São Paulo: Edições Loyola, 2002. 
+43
 
-BIBLIOGRAFIA COMPLEMENTAR: ASSUNÇÃO RM, Castro PF. Relação entre estresse laboral e personalidade entre profissionais da área de saúde. Rev. Saúde. 2011; 5(2):4-16. BRASIL. Humaniza SUS: documento base para gestores e trabalhadores do SUS. Brasília: Ministério da saúde, 2006; LANE, Silvia T. Maurer. O que é psicologia social. 22. ed. São Paulo: Brasiliense, 2009. (Coleção Primeiros Passos; 39). MONTAGU A. Tocar: o significado humano da pele. São Paulo: SUMMUS, 1988; RAMOS-CERQUEIRA, A. T. A. Interdisciplinaridade e psicologia na área da saúde. Temas em Psicologia, v. 3, p. 37-41, 2004. REQUENA, Yves; ANDREI, Edmondo. Acupuntura e psicologia. São Paulo: Organização Andrei, 1990. 
+INSTITUTOFEDERAL Parana MinisteriodaEducacao
 
-43 
+COMPONENTE CURRICULAR: Primeiros Socorros
 
-INSTITUTOFEDERAL Parana MinisteriodaEducacao 
+CARGA HORÁRIA: 24 Hora/aula e 20 Hora/relógio
 
-COMPONENTE CURRICULAR: Primeiros Socorros 
+EMENTA: Cuidados sobre os primeiros atendimentos em situações de urgência e emergência como desmaio, convulsões, desordens do aparelho circulatório e respiratório, queimaduras, choques elétricos, ferimentos, hemorragias, lesões do aparelho locomotor. Transporte de vítimas.
 
-CARGA HORÁRIA: 24 Hora/aula e 20 Hora/relógio 
+BIBLIOGRAFIA BÁSICA:
 
-EMENTA: Cuidados sobre os primeiros atendimentos em situações de urgência e emergência como desmaio, convulsões, desordens do aparelho circulatório e respiratório, queimaduras, choques elétricos, ferimentos, hemorragias, lesões do aparelho locomotor. Transporte de vítimas. 
+JUSSARA; LUONGO. Tratado de primeiros socorros. São Paulo: Rideel, 2012; KARREN K, RAFEN, B, LIMER D. Primeiros socorros para estudantes. 10 ed. São Paulo: Manole, 2015;
 
-BIBLIOGRAFIA BÁSICA: 
+Coletivo de autores. PHTLS. Atendimento pré-hospitalar do traumatizado. 8. ed. PHTLS, 2016; CHAPLEAU W. Manual de emergências: um guia de primeiros socorros. ELSEVIER, 2008; Coletivo de autores. Guia prático de primeiros socorros. Sao Paulo: Rideel, 2011.
 
-JUSSARA; LUONGO. Tratado de primeiros socorros. São Paulo: Rideel, 2012; KARREN K, RAFEN, B, LIMER D. Primeiros socorros para estudantes. 10 ed. São Paulo: Manole, 2015; 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-Coletivo de autores. PHTLS. Atendimento pré-hospitalar do traumatizado. 8. ed. PHTLS, 2016; CHAPLEAU W. Manual de emergências: um guia de primeiros socorros. ELSEVIER, 2008; Coletivo de autores. Guia prático de primeiros socorros. Sao Paulo: Rideel, 2011. 
+HALL, John E.; GUYTON, Arthur C. Tratado de fisiologia médica. 12. ed. Rio de Janeiro: Elsevier, 2011.
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+FOX, Stuart Ira. Fisiologia humana. 7. ed. Barueri: Manole, 2007.. ROBBINS, STANLEY L; COTRAN, RAMZI S.; KUMAR, V. Patologia: bases patológicas das doenças. Rio de Janeiro: Elsevier, 2010; ROBBINS, S. L. Fundamentos da patologia estrutural e funcional. 6 ed Rio de Janeiro: Elsevier, 2001.
 
-HALL, John E.; GUYTON, Arthur C. Tratado de fisiologia médica. 12. ed. Rio de Janeiro: Elsevier, 2011. 
+44
 
-FOX, Stuart Ira. Fisiologia humana. 7. ed. Barueri: Manole, 2007.. ROBBINS, STANLEY L; COTRAN, RAMZI S.; KUMAR, V. Patologia: bases patológicas das doenças. Rio de Janeiro: Elsevier, 2010; ROBBINS, S. L. Fundamentos da patologia estrutural e funcional. 6 ed Rio de Janeiro: Elsevier, 2001. 
+MinisteriodaEducacao
 
-44 
+## INSTITUTOFEDERAL
 
-MinisteriodaEducacao 
+Parana
 
-## INSTITUTOFEDERAL 
+COMPONENTE CURRICULAR: Biossegurança
 
-Parana 
+CARGA HORÁRIA: 24 Hora/aula e 20 Hora/relógio (60 min.)
 
-COMPONENTE CURRICULAR: Biossegurança 
+EMENTA: Princípios, normas e técnicas de biossegurança. Reconhecer e prevenir os riscos de manipulação de clientes e controle de infecção na massoterapia. Política de Educação Ambiental - Lei nº 9.795, de 27 de abril de 1999.
 
-CARGA HORÁRIA: 24 Hora/aula e 20 Hora/relógio (60 min.) 
+BIBLIOGRAFIA BÁSICA:
 
-EMENTA: Princípios, normas e técnicas de biossegurança. Reconhecer e prevenir os riscos de manipulação de clientes e controle de infecção na massoterapia. Política de Educação Ambiental - Lei nº 9.795, de 27 de abril de 1999. 
+BAHIA. Secretaria da Saúde. Superintendência de Vigilância e Proteção da Saúde. Diretoria de Vigilância e Controle Sanitário. BRASIL. Universidade Federal da Bahia. Instituto de Ciências da Saúde. Manual de Biossegurança. Salvador. 2001. Disponível em: http://www.fiocruz.br/biosseguranca/Bis/manuais/biosseguranca/manual_biosseguranca.pdf CORINGA, Josias do Espírito Santo. Biossegurança. Curitiba: Editora do Livro Técnico, 2010. HIRATA, Mario Hiroyuki; MANCINI FILHO, Jorge; HIRATA, Rosario Dominguez Crespo. Manual de biossegurança. 3. ed. São Paulo: Manole, 2017.
 
-BIBLIOGRAFIA BÁSICA: 
+MASTROENI, Marco Fábio. Biossegurança aplicada a laboratórios e serviços de saúde. 2. ed. São Paulo: Atheneu, 2006.
 
-BAHIA. Secretaria da Saúde. Superintendência de Vigilância e Proteção da Saúde. Diretoria de Vigilância e Controle Sanitário. BRASIL. Universidade Federal da Bahia. Instituto de Ciências da Saúde. Manual de Biossegurança. Salvador. 2001. Disponível em: http://www.fiocruz.br/biosseguranca/Bis/manuais/biosseguranca/manual_biosseguranca.pdf CORINGA, Josias do Espírito Santo. Biossegurança. Curitiba: Editora do Livro Técnico, 2010. HIRATA, Mario Hiroyuki; MANCINI FILHO, Jorge; HIRATA, Rosario Dominguez Crespo. Manual de biossegurança. 3. ed. São Paulo: Manole, 2017. 
+SANTANA-CAIRES, Marcella et al . Avaliação das Práticas de Higienização por Estudantes de Medicina da Universidade Federal da Bahia (Brasil) durante Atendimento Clínico. Rev. bras. educ. med., Rio de Janeiro , v. 40, n. 3, p. 411-422, Set. 2016 . Disponível em: <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S010055022016000300411&lng=en&nrm=iso>
 
-MASTROENI, Marco Fábio. Biossegurança aplicada a laboratórios e serviços de saúde. 2. ed. São Paulo: Atheneu, 2006. 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-SANTANA-CAIRES, Marcella et al . Avaliação das Práticas de Higienização por Estudantes de Medicina da Universidade Federal da Bahia (Brasil) durante Atendimento Clínico. Rev. bras. educ. med., Rio de Janeiro , v. 40, n. 3, p. 411-422, Set. 2016 . Disponível em: <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S010055022016000300411&lng=en&nrm=iso> 
+COSTA, Marco Antonio F. da. Qualidade em biossegurança. Rio de Janeiro: QualityMark, 2000. HIRATA, Mario Hiroyuki; MANCINI FILHO, Jorge. Manual de biossegurança. São Paulo: Manole, 2002.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+MINISTÉRIO DA SAÚDE DO BRASIL. Organização Pan-Americana da Saúde no Brasil. Doenças relacionadas ao trabalho: manual de procedimentos para os serviços de saúde / organizado por Elizabeth Costa Dias; colaboradores Idelberto Muniz Almeida et al. – Brasília: Ministério da Saúde do Brasil, 2001.
 
-COSTA, Marco Antonio F. da. Qualidade em biossegurança. Rio de Janeiro: QualityMark, 2000. HIRATA, Mario Hiroyuki; MANCINI FILHO, Jorge. Manual de biossegurança. São Paulo: Manole, 2002. 
+RIBEIRO, Gerusa; PIRES, Denise Elvira Pires de; SCHERER, Magda Duarte dos Anjos. Práticas de biossegurança no ensino técnico de enfermagem. Trab. educ. saúde, Rio de Janeiro, v. 14, n. 3, p. 871- 888, Dec. 2016.
 
-MINISTÉRIO DA SAÚDE DO BRASIL. Organização Pan-Americana da Saúde no Brasil. Doenças relacionadas ao trabalho: manual de procedimentos para os serviços de saúde / organizado por Elizabeth Costa Dias; colaboradores Idelberto Muniz Almeida et al. – Brasília: Ministério da Saúde do Brasil, 2001. 
+SILVA, Almenara de Souza Fonseca; RISSO, Marines; RIBEIRO, Mariangela Cagnoni. Biossegurança em odontologia e ambientes de saúde. 2.ed. rev. e ampl. São Paulo: Ícone, 2009.
 
-RIBEIRO, Gerusa; PIRES, Denise Elvira Pires de; SCHERER, Magda Duarte dos Anjos. Práticas de biossegurança no ensino técnico de enfermagem. Trab. educ. saúde, Rio de Janeiro, v. 14, n. 3, p. 871- 888, Dec. 2016. 
+45
 
-SILVA, Almenara de Souza Fonseca; RISSO, Marines; RIBEIRO, Mariangela Cagnoni. Biossegurança em odontologia e ambientes de saúde. 2.ed. rev. e ampl. São Paulo: Ícone, 2009. 
+MinisteriodaEducacao
 
-45 
+## INSTITUTOFEDERAL
 
-MinisteriodaEducacao 
+Parana
 
-## INSTITUTOFEDERAL 
+COMPONENTE CURRICULAR: Biologia Celular e Tecidual
 
-Parana 
+CARGA HORÁRIA: 48 Hora/aula e 40 Hora/relógio (60 min.)
 
-COMPONENTE CURRICULAR: Biologia Celular e Tecidual 
+EMENTA: Apresentação da célula como unidade biológica fundamental responsável pelas atividades vitais dos seres vivos. Análise da célula animal sob o ponto de vista ultra estrutural e funcional. Análise dos tecidos fundamentais do ser humano e suas variedades: Tecido epitelial, tecido conjuntivo, tecido muscular, tecido nervoso. Principais características morfológicas e relações funcionais entre os tecidos.
 
-CARGA HORÁRIA: 48 Hora/aula e 40 Hora/relógio (60 min.) 
+BIBLIOGRAFIA BÁSICA: ALBERTS, B.; BRAY, D.; RAFF, M.; HOPKIN, K.; WALTER, P.; LEWIS, J.; ROBERTS, K.; JOHNSON, A. Fundamentos da Biologia Celular. 4. ed. Porto Alegre: Artmed, 2017. JUNQUEIRA, L. C; CARNEIRO, J. Biologia Celular e Molecular. 9. ed. Rio de Janeiro: Guanabara Koogan, 2012. JUNQUEIRA, L. C.; CARNEIRO, J. Histologia Básica. 13. ed. Editora Guanabara Koogan, Rio de Janeiro, 2017. GARTNER, L. P.; HIATT, J. L. Tratado de Histologia em Cores. 3. ed. Editora Guanabara Koogan, Rio de Janeiro, 2007. GARTNER, L. P.; HIATT, J. L. Atlas Colorido de Histologia. 6. ed. Editora Guanabara Koogan, Rio de Janeiro, 2014.
 
-EMENTA: Apresentação da célula como unidade biológica fundamental responsável pelas atividades vitais dos seres vivos. Análise da célula animal sob o ponto de vista ultra estrutural e funcional. Análise dos tecidos fundamentais do ser humano e suas variedades: Tecido epitelial, tecido conjuntivo, tecido muscular, tecido nervoso. Principais características morfológicas e relações funcionais entre os tecidos. 
+BIBLIOGRAFIA COMPLEMENTAR: ALBERTS, B.; JOHNSON, A.; LEWIS, J.; MORGAN, D.; RAFF, M.; ROBERTS, K.; WALTER, P. Biologia Molecular da Célula. 6. ed. Porto Alegre: Artmed, 2017. COOPER, G.M. A Célula - Uma Abordagem Molecular. 3. ed. Porto Alegre: Artmed, 2007. CORMACK, D.H. Fundamentos de Histologia. 2. ed. Editora Guanabara Koogan, Rio de Janeiro, 2003.
 
-BIBLIOGRAFIA BÁSICA: ALBERTS, B.; BRAY, D.; RAFF, M.; HOPKIN, K.; WALTER, P.; LEWIS, J.; ROBERTS, K.; JOHNSON, A. Fundamentos da Biologia Celular. 4. ed. Porto Alegre: Artmed, 2017. JUNQUEIRA, L. C; CARNEIRO, J. Biologia Celular e Molecular. 9. ed. Rio de Janeiro: Guanabara Koogan, 2012. JUNQUEIRA, L. C.; CARNEIRO, J. Histologia Básica. 13. ed. Editora Guanabara Koogan, Rio de Janeiro, 2017. GARTNER, L. P.; HIATT, J. L. Tratado de Histologia em Cores. 3. ed. Editora Guanabara Koogan, Rio de Janeiro, 2007. GARTNER, L. P.; HIATT, J. L. Atlas Colorido de Histologia. 6. ed. Editora Guanabara Koogan, Rio de Janeiro, 2014. 
+ROSS, M.H. & PAWLINA, W. Histologia, Texto e Atlas. 7. ed. Rio de Janeiro, Editora Guanabara Koogan, 2017. YOUNG, B. & HEATH, J.W. Wheater;  Histologia Funcional – texto e atlas em cores. 5. Ed. Editora Guanabara Koogan, Rio de Janeiro, 2007.
 
-BIBLIOGRAFIA COMPLEMENTAR: ALBERTS, B.; JOHNSON, A.; LEWIS, J.; MORGAN, D.; RAFF, M.; ROBERTS, K.; WALTER, P. Biologia Molecular da Célula. 6. ed. Porto Alegre: Artmed, 2017. COOPER, G.M. A Célula - Uma Abordagem Molecular. 3. ed. Porto Alegre: Artmed, 2007. CORMACK, D.H. Fundamentos de Histologia. 2. ed. Editora Guanabara Koogan, Rio de Janeiro, 2003. 
+46
 
-ROSS, M.H. & PAWLINA, W. Histologia, Texto e Atlas. 7. ed. Rio de Janeiro, Editora Guanabara Koogan, 2017. YOUNG, B. & HEATH, J.W. Wheater;  Histologia Funcional – texto e atlas em cores. 5. Ed. Editora Guanabara Koogan, Rio de Janeiro, 2007. 
+## INSTITUTOFEDERAL
 
-46 
+## Parana
 
-## INSTITUTOFEDERAL 
+MinisteriodaEducacao
 
-## Parana 
+COMPONENTE CURRICULAR: COMUNICAÇÃO LINGUÍSTICA
 
-MinisteriodaEducacao 
+CARGA HORÁRIA: Hora/aula 48 e Hora/relógio 40(60 min.)
 
-COMPONENTE CURRICULAR: COMUNICAÇÃO LINGUÍSTICA 
+EMENTA: A linguagem no processo de comunicação: a história da escrita; a língua oral e escrita no contexto sociocultural; frase, oração, período, parágrafo e texto; discurso e construção  textual; construção contextual; recursos linguísticos gramaticais, ortografia, sintaxe, semântica e morfolexical; noções metodológicas de leitura e interpretação; produção de textos; produção de textos técnicos.
 
-CARGA HORÁRIA: Hora/aula 48 e Hora/relógio 40(60 min.) 
+BIBLIOGRAFIA BÁSICA
 
-EMENTA: A linguagem no processo de comunicação: a história da escrita; a língua oral e escrita no contexto sociocultural; frase, oração, período, parágrafo e texto; discurso e construção  textual; construção contextual; recursos linguísticos gramaticais, ortografia, sintaxe, semântica e morfolexical; noções metodológicas de leitura e interpretação; produção de textos; produção de textos técnicos. 
+MEDEIROS, João Bosco. Português instrumental: contém técnicas de elaboração de trabalho de conclusão de curso (TCC). 10º ed, 2014. Atlas MARTINS, Dileta Silveira; ZILBERKNOP, Lúbia Scliar. Português instrumental: de acordo com as normas atuais da ABNT. 29º ed, 2010. Atlas GARCIA, Cláudia Amorim; GARCIA, Eduardo Amorim. Comunicação em prosa moderna. FGV, 2009. FARACO, Carlos Alberto. Prática de texto para estudantes universitários. (Série Manuais Acadêmicos). Vozes. 1º ed, 2016.
 
-BIBLIOGRAFIA BÁSICA 
+NASCIMENTO, Luiz Paulo do. Elaboração de projetos de pesquisa: monografia, dissertação, tese e estudo de caso, com base em metodologia científica. Cengage, 2012.
 
-MEDEIROS, João Bosco. Português instrumental: contém técnicas de elaboração de trabalho de conclusão de curso (TCC). 10º ed, 2014. Atlas MARTINS, Dileta Silveira; ZILBERKNOP, Lúbia Scliar. Português instrumental: de acordo com as normas atuais da ABNT. 29º ed, 2010. Atlas GARCIA, Cláudia Amorim; GARCIA, Eduardo Amorim. Comunicação em prosa moderna. FGV, 2009. FARACO, Carlos Alberto. Prática de texto para estudantes universitários. (Série Manuais Acadêmicos). Vozes. 1º ed, 2016. 
+BIBLIOGRAFIA COMPLEMETAR SOUZA, Genival E. de. Manual do trabalho acadêmico-científico: planejar, elaborar, apresentar. Alta Books, 2017
 
-NASCIMENTO, Luiz Paulo do. Elaboração de projetos de pesquisa: monografia, dissertação, tese e estudo de caso, com base em metodologia científica. Cengage, 2012. 
+MACEDO, Walmiro. O livro da semântica: estudos dos signos linguíticos. Lexikon. 2012 PIACENTINI, Maria Tereza de Queiroz. Manual da boa escrita. Vírgula, crase, palavras compostas. Lexikon, 2014
 
-BIBLIOGRAFIA COMPLEMETAR SOUZA, Genival E. de. Manual do trabalho acadêmico-científico: planejar, elaborar, apresentar. Alta Books, 2017 
+CUNHA, Celso; CINTRA, Lindley. Nova gramática do português contemporâneo. Lexikon, 2013
 
-MACEDO, Walmiro. O livro da semântica: estudos dos signos linguíticos. Lexikon. 2012 PIACENTINI, Maria Tereza de Queiroz. Manual da boa escrita. Vírgula, crase, palavras compostas. Lexikon, 2014 
+GEIFER, Paulo; SILVA, Renata de Cassia Menezes. A nova ortografia sem mistério: so ensino fundamental ao uso profissional. Lexikon, 2009 KOCH, Ingedore Villaça TRAVAGLIA, Luiz Carlos. _A coerência textual._ São Paulo, 2001.
 
-CUNHA, Celso; CINTRA, Lindley. Nova gramática do português contemporâneo. Lexikon, 2013 
+47
 
-GEIFER, Paulo; SILVA, Renata de Cassia Menezes. A nova ortografia sem mistério: so ensino fundamental ao uso profissional. Lexikon, 2009 KOCH, Ingedore Villaça TRAVAGLIA, Luiz Carlos. _A coerência textual._ São Paulo, 2001. 
+INSTITUTOFEDERAL Parana MinisteriodaEducacao COMPONENTE CURRICULAR: Concepções Histórico-Filosóficas e Metodológicas da Massoterapia
 
-47 
+CARGA HORÁRIA: 48 Hora/aula e 40 Hora/relógio (60 min.)
 
-INSTITUTOFEDERAL Parana MinisteriodaEducacao COMPONENTE CURRICULAR: Concepções Histórico-Filosóficas e Metodológicas da Massoterapia 
+## EMENTA:
 
-CARGA HORÁRIA: 48 Hora/aula e 40 Hora/relógio (60 min.) 
+Histórico da massoterapia no Oriente (Mesopotâmia; Egito, China, Japão); histórico da massoterapia no Ocidente antigo (Grécia, Roma); transição histórica restrições\proibições Europeias no período Idade Média; Resgate histórico pós-Renascimento; Método cartesiano; Massoterapia na contemporaneidade e vínculo à pesquisa científica. Massagem no Brasil; Massagem no IFPR. BIBLIOGRAFIA BÁSICA: ANDRADE, C. K; CLIFFORD, P. Massagem: Técnicas e Resultados. Rio de Janeiro: Guanabara-Koogan, 2003. BROWN, D. W. Massagem Terapêutica, Introdução Prática. 1. ed. São Paulo; Manole, 2001 BRAUN, M. B.; SIMONSON, S. J. Massoterapia. São Paulo: Manole, 2007. CASSAR, M. P. Manual de Massagem Terapêutica. São Paulo: Manole. 2001. IFPR – Campus Curitiba. Projeto Pedagógico do Curso Técnico de Massoterapia. Disponível em <http://curitiba.ifpr.edu.br/cursos-tecnicossubsequentes/massoterapia-2/>. Acesso em 11 de julho de 2015.
 
-## EMENTA: 
+DESCARTES, R. Meditações Metafísicas. Tradução Maria Ermantina de Almeida Prado Galvão. São Paulo: Folha de São Paulo, 2015 BIBLIOGRAFIA COMPLEMENTAR:
 
-Histórico da massoterapia no Oriente (Mesopotâmia; Egito, China, Japão); histórico da massoterapia no Ocidente antigo (Grécia, Roma); transição histórica restrições\proibições Europeias no período Idade Média; Resgate histórico pós-Renascimento; Método cartesiano; Massoterapia na contemporaneidade e vínculo à pesquisa científica. Massagem no Brasil; Massagem no IFPR. BIBLIOGRAFIA BÁSICA: ANDRADE, C. K; CLIFFORD, P. Massagem: Técnicas e Resultados. Rio de Janeiro: Guanabara-Koogan, 2003. BROWN, D. W. Massagem Terapêutica, Introdução Prática. 1. ed. São Paulo; Manole, 2001 BRAUN, M. B.; SIMONSON, S. J. Massoterapia. São Paulo: Manole, 2007. CASSAR, M. P. Manual de Massagem Terapêutica. São Paulo: Manole. 2001. IFPR – Campus Curitiba. Projeto Pedagógico do Curso Técnico de Massoterapia. Disponível em <http://curitiba.ifpr.edu.br/cursos-tecnicossubsequentes/massoterapia-2/>. Acesso em 11 de julho de 2015. 
+CLAY, James H. Massoterapia Clínica: integrando anatomia e tratamento. São Paulo: Manole, 2008. FRITZ, S. Fundamentos da Massagem Terapêutica. 2ª ed. São Paulo: Manole, 2002. DOMENICO, G.; WOOD, E. C. Técnica de Massagem de Beard. 4ª ed. São Paulo: Manole, 1998.
 
-DESCARTES, R. Meditações Metafísicas. Tradução Maria Ermantina de Almeida Prado Galvão. São Paulo: Folha de São Paulo, 2015 BIBLIOGRAFIA COMPLEMENTAR: 
+LACROIX, Nitya, (ET AL). Guia Completo de Massagem Corporal. São Paulo: Madras, 2014.
 
-CLAY, James H. Massoterapia Clínica: integrando anatomia e tratamento. São Paulo: Manole, 2008. FRITZ, S. Fundamentos da Massagem Terapêutica. 2ª ed. São Paulo: Manole, 2002. DOMENICO, G.; WOOD, E. C. Técnica de Massagem de Beard. 4ª ed. São Paulo: Manole, 1998. 
+48
 
-LACROIX, Nitya, (ET AL). Guia Completo de Massagem Corporal. São Paulo: Madras, 2014. 
+MinisteriodaEducacao
 
-48 
+## INSTITUTOFEDERAL
 
-MinisteriodaEducacao 
+## Parana
 
-## INSTITUTOFEDERAL 
+COMPONENTE CURRICULAR: Informática
 
-## Parana 
+CARGA HORÁRIA: 24 Hora/aula e 20 Hora/relógio (60 min.)
 
-COMPONENTE CURRICULAR: Informática 
+EMENTA: Conceitos básicos sobre as tecnologias digitais. Conceitos de _hardware_ e _software_ . Conceitos básicos sobre a Internet e suas aplicações. Uso de aplicativos. Editor de texto.
 
-CARGA HORÁRIA: 24 Hora/aula e 20 Hora/relógio (60 min.) 
+## BIBLIOGRAFIA BÁSICA:
 
-EMENTA: Conceitos básicos sobre as tecnologias digitais. Conceitos de _hardware_ e _software_ . Conceitos básicos sobre a Internet e suas aplicações. Uso de aplicativos. Editor de texto. 
+VELLOSO, Fernando de Castro. Informática - Conceitos Básicos - 10ª Ed. 2017. Elsevier – Campus.
 
-## BIBLIOGRAFIA BÁSICA: 
+MARÇULA, Marcelo; FILHO, Pio Armando Benini. Informática Conceitos e Aplicações. Editora Erica. Rio de Janeiro, 2013.
 
-VELLOSO, Fernando de Castro. Informática - Conceitos Básicos - 10ª Ed. 2017. Elsevier – Campus. 
+MARTEL, Frederic. SMART – O que você não sabe sobre a internet. Editora Civilização Brasileira, 2015.
 
-MARÇULA, Marcelo; FILHO, Pio Armando Benini. Informática Conceitos e Aplicações. Editora Erica. Rio de Janeiro, 2013. 
+MANZANO, André Luiz N. G.; MANZANO, Maria Izabel N. G. Estudo dirigido de informática básica. 7. ed. rev. atual. ampl. São Paulo: Érica, 2007. NORTON, Peter. **Introdução à informática.** São Paulo: MaKron Books do Brasil, 2008.
 
-MARTEL, Frederic. SMART – O que você não sabe sobre a internet. Editora Civilização Brasileira, 2015. 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-MANZANO, André Luiz N. G.; MANZANO, Maria Izabel N. G. Estudo dirigido de informática básica. 7. ed. rev. atual. ampl. São Paulo: Érica, 2007. NORTON, Peter. **Introdução à informática.** São Paulo: MaKron Books do Brasil, 2008. 
+PATRICK, Beverly. Google Drive 154 success secrets – 154 Most. Editor EMEREO PUBLISHING, 2014.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+KHAN, Saqib. Mastering Google Drive and Docs. Editora CREATESPACE PUB, 2013. HOLZNER, Steven; HOLZNER, Nancy. Google Docs 4 Everyone. Editora MACMILLAN TECHNICAL, 2009.
 
-PATRICK, Beverly. Google Drive 154 success secrets – 154 Most. Editor EMEREO PUBLISHING, 2014. 
+MEIRELLES, Fernando de Souza. Informática: novas aplicações com microcomputadores. São Paulo: McGraw-Hill, 2013.
 
-KHAN, Saqib. Mastering Google Drive and Docs. Editora CREATESPACE PUB, 2013. HOLZNER, Steven; HOLZNER, Nancy. Google Docs 4 Everyone. Editora MACMILLAN TECHNICAL, 2009. 
+49
 
-MEIRELLES, Fernando de Souza. Informática: novas aplicações com microcomputadores. São Paulo: McGraw-Hill, 2013. 
+INSTITUTOFEDERAL Parana MinisteriodaEducacao
 
-49 
+COMPONENTE CURRICULAR: Percepção Corporal
 
-INSTITUTOFEDERAL Parana MinisteriodaEducacao 
+CARGA HORÁRIA: 48 Hora/aula e 40 Hora/relógio (60 min.)
 
-COMPONENTE CURRICULAR: Percepção Corporal 
+EMENTA: Conscientização somática, princípios da percepção corporal, sentidos corporais,
 
-CARGA HORÁRIA: 48 Hora/aula e 40 Hora/relógio (60 min.) 
+sensaçõ es corporal , percepções corporal, coordenação corporal, ritmo corporal. BIBLIOGRAFIA BÁSICA: ANTUNES, Celso. Inteligências Múltiplas e seus Jogos. Petrópolis/RJ: Vozes, 2006. ANDRADE, Carla: CLIFFORD, Paul. Massagem: técnicas e resultados. Rio de janeiro/RJ: Guanabara Koogan, 2003. BRITO, Carmem Lúcia. Consciência Corporal: repensando a educação física. Rio de Janeiro/RJ: Sprint, 1996 COSTE, Jean Claude. A Psicomotricidade. Rio de Janeiro/RJ: Guanabara Koogan, 1992. WEIL, Pierre; TOMPAKOW, Roland. O corpo fala: a linguagem silenciosa da comunicação não verbal. Petrópolis/RJ: Vozes, 2012.
 
-EMENTA: Conscientização somática, princípios da percepção corporal, sentidos corporais, 
+BIBLIOGRAFIA COMPLEMENTAR: GOLEMAN, Daniel. Inteligência Emocional. Rio de Janeiro: Objetiva, 1995. KELEMAN, Stanley. Anatomia Emocional. São Paulo: Summus, 1992 KNASTER, Mirka. Descubra a Sabedoria do seu Corpo. São Paulo: Cultrix, 1996. MOSHE, Feldenkrais. Consciência pelo movimento. São Paulo/SP: Summus, 1977. SANTAELLA, Lucia. Corpo e Comunicação. São Paulo: Paulus, 2004.
 
-sensaçõ es corporal , percepções corporal, coordenação corporal, ritmo corporal. BIBLIOGRAFIA BÁSICA: ANTUNES, Celso. Inteligências Múltiplas e seus Jogos. Petrópolis/RJ: Vozes, 2006. ANDRADE, Carla: CLIFFORD, Paul. Massagem: técnicas e resultados. Rio de janeiro/RJ: Guanabara Koogan, 2003. BRITO, Carmem Lúcia. Consciência Corporal: repensando a educação física. Rio de Janeiro/RJ: Sprint, 1996 COSTE, Jean Claude. A Psicomotricidade. Rio de Janeiro/RJ: Guanabara Koogan, 1992. WEIL, Pierre; TOMPAKOW, Roland. O corpo fala: a linguagem silenciosa da comunicação não verbal. Petrópolis/RJ: Vozes, 2012. 
+50
 
-BIBLIOGRAFIA COMPLEMENTAR: GOLEMAN, Daniel. Inteligência Emocional. Rio de Janeiro: Objetiva, 1995. KELEMAN, Stanley. Anatomia Emocional. São Paulo: Summus, 1992 KNASTER, Mirka. Descubra a Sabedoria do seu Corpo. São Paulo: Cultrix, 1996. MOSHE, Feldenkrais. Consciência pelo movimento. São Paulo/SP: Summus, 1977. SANTAELLA, Lucia. Corpo e Comunicação. São Paulo: Paulus, 2004. 
+Ministerio da Educagao
 
-50 
+## INSTITUTOFEDERAL
 
-Ministerio da Educagao 
+Parana
 
-## INSTITUTOFEDERAL 
+**2º semestre**
 
-Parana 
+COMPONENTE CURRICULAR: Patologia
 
-**2º semestre** 
+CARGA HORÁRIA: Hora/aula 72 e Hora/relógio 60 (60 min.)
 
-COMPONENTE CURRICULAR: Patologia 
+EMENTA: Localização e fisiopatologia das doenças dos sistemas neuromusculoesquelético, circulatório, tegumentar, endócrino e digestivo. Sintomas, epidemiologia, características clínicas, indicação e contraindicação de massagem.
 
-CARGA HORÁRIA: Hora/aula 72 e Hora/relógio 60 (60 min.) 
+BIBLIOGRAFIA BÁSICA:
 
-EMENTA: Localização e fisiopatologia das doenças dos sistemas neuromusculoesquelético, circulatório, tegumentar, endócrino e digestivo. Sintomas, epidemiologia, características clínicas, indicação e contraindicação de massagem. 
+ROBBINS, STANLEY L; COTRAN, RAMZI S.; KUMAR, V. Patologia: bases patológicas das doenças. Rio de Janeiro: Elsevier, 2010;
 
-BIBLIOGRAFIA BÁSICA: 
+ROBBINS, S. L. Fundamentos da patologia estrutural e funcional. 6 ed Rio de Janeiro: Elsevier, 2001; WERNER R. Guia de patologia para massoterapeutas. Rio de Janeiro: Koogan, 2008; HALL, J; GUYTON, A. Tratado de fisiologia Médica. 12 ed Rio de Janeiro: Elsevier, 2011; ANCTAZAC, SE. Fisiopatologia básica. Rio de Janeiro: Guanabara Koogan, 2005.
 
-ROBBINS, STANLEY L; COTRAN, RAMZI S.; KUMAR, V. Patologia: bases patológicas das doenças. Rio de Janeiro: Elsevier, 2010; 
+BIBLIOGRAFIA COMPLEMENTAR: HERBERT, S; BARROS FILHO, T; XAVIER, R.; PARDINI JUNIOR, AG. Ortopedia e Traumatologia. 4 ed Porto Alegre: Manole, 2009; BEAR MF.; BARRY WC.; PARADISO MA. Neurociências: Desvendando o Sistema Nervoso. 2 ed Porto Alegre: ARTMED, 2002; COSTANZO, L. Fisiologia. 4 ed Rio de Janeiro: Elsevier, 2011; BRAUN MB, Simonson S. Massoterapia. São Paulo: Manole, 2007; ARAUJO CRA; Santos GJB. Fundamentos da fisiologia humana. Curitiba: Livro técnico, 2012.
 
-ROBBINS, S. L. Fundamentos da patologia estrutural e funcional. 6 ed Rio de Janeiro: Elsevier, 2001; WERNER R. Guia de patologia para massoterapeutas. Rio de Janeiro: Koogan, 2008; HALL, J; GUYTON, A. Tratado de fisiologia Médica. 12 ed Rio de Janeiro: Elsevier, 2011; ANCTAZAC, SE. Fisiopatologia básica. Rio de Janeiro: Guanabara Koogan, 2005. 
+51
 
-BIBLIOGRAFIA COMPLEMENTAR: HERBERT, S; BARROS FILHO, T; XAVIER, R.; PARDINI JUNIOR, AG. Ortopedia e Traumatologia. 4 ed Porto Alegre: Manole, 2009; BEAR MF.; BARRY WC.; PARADISO MA. Neurociências: Desvendando o Sistema Nervoso. 2 ed Porto Alegre: ARTMED, 2002; COSTANZO, L. Fisiologia. 4 ed Rio de Janeiro: Elsevier, 2011; BRAUN MB, Simonson S. Massoterapia. São Paulo: Manole, 2007; ARAUJO CRA; Santos GJB. Fundamentos da fisiologia humana. Curitiba: Livro técnico, 2012. 
+MinisteriodaEducacao
 
-51 
+## INSTITUTOFEDERAL
 
-MinisteriodaEducacao 
+Parana
 
-## INSTITUTOFEDERAL 
+COMPONENTE CURRICULAR: Noções de Imagem
 
-Parana 
+CARGA HORÁRIA: Hora/aula 48 e Hora/relógio 40 (60 min.)
 
-COMPONENTE CURRICULAR: Noções de Imagem 
+EMENTA: Conhecimentos básicos sobre imagens radiológicas e ressonâncias, assim como termografia como informação complementar para a realização de uma boa anamnese. BIBLIOGRAFIA BÁSICA: BONTRAGER, Kenneth L. - LAMPIGNANO, John P. Tratado de posicionamento radiográfico e Anatomia Associada. 7ª Ed. Elselvier, 2010 BUSHONG, Stewart C. Ciência Radiológica para Tecnólogos. 9ª Ed. Elselvier, 2010 MOLLER, Torsten B., REIF, Emil. Atlas de Anatomia Radiológica. Porto Alegre: Artmed, 2012. SAVAREGO, Simone; DAMAS, Karina Ferrassa. Bases da radiologia convencional. 2. ed. São Caetano do Sul: Yendis, 2007. WEIR, Jamie; SPRATT, Jonathan D.; SALKOWSKI, Lonie R. (Colab.). Atlas de anatomia humana em imagem. Rio de Janeiro: Elsevier, 2011
 
-CARGA HORÁRIA: Hora/aula 48 e Hora/relógio 40 (60 min.) 
+BIBLIOGRAFIA COMPLEMENTAR: BRAMBS, Hans Juergen. Diagnóstico por imagem: gastrintestinal. Porto Alegre: Artmed, 2009. FISHMAN, Elliot K; JEFFREY, R. Brooke. Tomografia computadorizada espiral: princípios, técnicas e aplicações clínicas. [2. ed.]. Rio de Janeiro: Revinter, c2003. HOFER, Matthias. Tomografia computadorizada: manual prático de ensino. 6. ed. Rio de Janeiro: Revinter, 2010. MOURÃO, Arnaldo Prata. Tomografia computadorizada: tecnologias e aplicações. São Caetano do Sul: Difusão, 2007. NOBREGA, Almir Inacio da. Técnicas em ressonância magnética nuclear. São Paulo: Editora Atheneu, 2006. REISER, Maximilian; MELNYK, Andreas Baur; GLASER, Christian. Diagnóstico por imagem: musculoesquelético. Porto Alegre: Artmed, 2009.
 
-EMENTA: Conhecimentos básicos sobre imagens radiológicas e ressonâncias, assim como termografia como informação complementar para a realização de uma boa anamnese. BIBLIOGRAFIA BÁSICA: BONTRAGER, Kenneth L. - LAMPIGNANO, John P. Tratado de posicionamento radiográfico e Anatomia Associada. 7ª Ed. Elselvier, 2010 BUSHONG, Stewart C. Ciência Radiológica para Tecnólogos. 9ª Ed. Elselvier, 2010 MOLLER, Torsten B., REIF, Emil. Atlas de Anatomia Radiológica. Porto Alegre: Artmed, 2012. SAVAREGO, Simone; DAMAS, Karina Ferrassa. Bases da radiologia convencional. 2. ed. São Caetano do Sul: Yendis, 2007. WEIR, Jamie; SPRATT, Jonathan D.; SALKOWSKI, Lonie R. (Colab.). Atlas de anatomia humana em imagem. Rio de Janeiro: Elsevier, 2011 
+52
 
-BIBLIOGRAFIA COMPLEMENTAR: BRAMBS, Hans Juergen. Diagnóstico por imagem: gastrintestinal. Porto Alegre: Artmed, 2009. FISHMAN, Elliot K; JEFFREY, R. Brooke. Tomografia computadorizada espiral: princípios, técnicas e aplicações clínicas. [2. ed.]. Rio de Janeiro: Revinter, c2003. HOFER, Matthias. Tomografia computadorizada: manual prático de ensino. 6. ed. Rio de Janeiro: Revinter, 2010. MOURÃO, Arnaldo Prata. Tomografia computadorizada: tecnologias e aplicações. São Caetano do Sul: Difusão, 2007. NOBREGA, Almir Inacio da. Técnicas em ressonância magnética nuclear. São Paulo: Editora Atheneu, 2006. REISER, Maximilian; MELNYK, Andreas Baur; GLASER, Christian. Diagnóstico por imagem: musculoesquelético. Porto Alegre: Artmed, 2009. 
+MinisteriodaEducacao
 
-52 
+## INSTITUTOFEDERAL
 
-MinisteriodaEducacao 
+Parana
 
-## INSTITUTOFEDERAL 
+COMPONENTE CURRICULAR: Saúde do Trabalhador
 
-Parana 
+CARGA HORÁRIA: 48 Hora/aula e 40 Hora/relógio (60 min.)
 
-COMPONENTE CURRICULAR: Saúde do Trabalhador 
+EMENTA: Aspectos relacionados à saúde do trabalhador com foco no profissional tecnólogo em massoterapia, qualidade e saúde no trabalho, ergonomia, higiene e segurança no trabalho, doenças ocupacionais, legislação e massoterapia na prevenção das doenças ocupacionais.
 
-CARGA HORÁRIA: 48 Hora/aula e 40 Hora/relógio (60 min.) 
+BIBLIOGRAFIA BÁSICA:
 
-EMENTA: Aspectos relacionados à saúde do trabalhador com foco no profissional tecnólogo em massoterapia, qualidade e saúde no trabalho, ergonomia, higiene e segurança no trabalho, doenças ocupacionais, legislação e massoterapia na prevenção das doenças ocupacionais. 
+ANTUNES, Ricardo L. C. Adeus ao trabalho? ensaio sobre as metamorfoses e a centralidade do mundo do trabalho. 15. ed. São Paulo: Cortez; 2011.
 
-BIBLIOGRAFIA BÁSICA: 
+BRASIL. Ministério da Saúde. Dor Relacionada ao Trabalho- Lesões por Esforços Repetitivos (LER) Distúrbios Osteomusculares Relacionadas ao Trabalho (DORT). Saúde do Trabalhador Protocolos de Complexidade Diferenciada. Normas e Manuais Técnicos. Brasília, 2012. Disponível em: <http://bvsms.saude.gov.br/bvs/publicacoes/dor_relacionada_trabalho_ler_dort.pdf>
 
-ANTUNES, Ricardo L. C. Adeus ao trabalho? ensaio sobre as metamorfoses e a centralidade do mundo do trabalho. 15. ed. São Paulo: Cortez; 2011. 
+CABAK, A.; KOTYNIA, P.; BANASINSKI, M.; OBMINSKI, Z.; TOMASZEWSKI, W. The Concept of ‖Chair Massage‖ in the Workplace as Prevention of Musculoskeletal Overload and Pain. Ortop. Traumatol. Rehabilitacja. Polska. v. 18, 2016. MINISTÉRIO DA SAÚDE DO BRASIL. Organização Pan-Americana da Saúde no Brasil. Doenças relacionadas ao trabalho: manual de procedimentos para os serviços de saúde / organizado por Elizabeth Costa Dias; colaboradores Idelberto Muniz Almeida et al. – Brasília: Ministério da Saúde do Brasil, 2001. Disponível em: http://www.paho.org/bra/index.php?option=com_docman&view=download&category_slug=sa u de-e-ambiente-707&alias=207-doencas-relacionadas-ao-trabalho-manual-procedimentospara- os-servicos-saude-7&Itemid=965
 
-BRASIL. Ministério da Saúde. Dor Relacionada ao Trabalho- Lesões por Esforços Repetitivos (LER) Distúrbios Osteomusculares Relacionadas ao Trabalho (DORT). Saúde do Trabalhador Protocolos de Complexidade Diferenciada. Normas e Manuais Técnicos. Brasília, 2012. Disponível em: <http://bvsms.saude.gov.br/bvs/publicacoes/dor_relacionada_trabalho_ler_dort.pdf> 
+SALIBA, Tuffi Messias; PAGANO, Sofia C. Reis Saliba. Legislação de segurança, acidente do trabalho e saúde do trabalhador. 7. ed. São Paulo: LTr, 2010.
 
-CABAK, A.; KOTYNIA, P.; BANASINSKI, M.; OBMINSKI, Z.; TOMASZEWSKI, W. The Concept of ‖Chair Massage‖ in the Workplace as Prevention of Musculoskeletal Overload and Pain. Ortop. Traumatol. Rehabilitacja. Polska. v. 18, 2016. MINISTÉRIO DA SAÚDE DO BRASIL. Organização Pan-Americana da Saúde no Brasil. Doenças relacionadas ao trabalho: manual de procedimentos para os serviços de saúde / organizado por Elizabeth Costa Dias; colaboradores Idelberto Muniz Almeida et al. – Brasília: Ministério da Saúde do Brasil, 2001. Disponível em: http://www.paho.org/bra/index.php?option=com_docman&view=download&category_slug=sa u de-e-ambiente-707&alias=207-doencas-relacionadas-ao-trabalho-manual-procedimentospara- os-servicos-saude-7&Itemid=965 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-SALIBA, Tuffi Messias; PAGANO, Sofia C. Reis Saliba. Legislação de segurança, acidente do trabalho e saúde do trabalhador. 7. ed. São Paulo: LTr, 2010. 
+FALZON, Pierre (Ed.). Ergonomia. São Paulo: Blucher, 2007.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+BRASIL. Ministério do Trabalho e Emprego. Manual de aplicação da Norma Regulamentadora nº 17. 2. ed. Brasília: MTE, 2002.
 
-FALZON, Pierre (Ed.). Ergonomia. São Paulo: Blucher, 2007. 
+ECHEVERRIA, A.L.P.B; PEREIRA, M.E.C. A dimensão psicopatológica da LER/DORT (Lesões por esforços repetitivos/Distúrbios osteomusculares relacionados ao trabalho). Revista Latinoamericana de Psicopatologia Fundamental, São Paulo,v. 10, n.4, dez. 2007. IIDA, Itiro. Ergonomia: projeto e produção. São Paulo: Blucher, 1990.
 
-BRASIL. Ministério do Trabalho e Emprego. Manual de aplicação da Norma Regulamentadora nº 17. 2. ed. Brasília: MTE, 2002. 
+ROCHA, Geraldo Celso. Trabalho, saúde e ergonomia: relação entre aspectos legais e médicos. Curitiba: Juruá, 2004.
 
-ECHEVERRIA, A.L.P.B; PEREIRA, M.E.C. A dimensão psicopatológica da LER/DORT (Lesões por esforços repetitivos/Distúrbios osteomusculares relacionados ao trabalho). Revista Latinoamericana de Psicopatologia Fundamental, São Paulo,v. 10, n.4, dez. 2007. IIDA, Itiro. Ergonomia: projeto e produção. São Paulo: Blucher, 1990. 
+WISNER, Alain. Por dentro do trabalho: ergonomia: método & tecnica. São Paulo: FTD, 1987.
 
-ROCHA, Geraldo Celso. Trabalho, saúde e ergonomia: relação entre aspectos legais e médicos. Curitiba: Juruá, 2004. 
+53
 
-WISNER, Alain. Por dentro do trabalho: ergonomia: método & tecnica. São Paulo: FTD, 1987. 
+MinisteriodaEducacao
 
-53 
+## INSTITUTOFEDERAL
 
-MinisteriodaEducacao 
+Parana
 
-## INSTITUTOFEDERAL 
+COMPONENTE CURRICULAR: Saúde Coletiva/Diretrizes do SUS
 
-Parana 
+CARGA HORÁRIA: Hora/aula 72 e 60 Hora/relógio (60 min.)
 
-COMPONENTE CURRICULAR: Saúde Coletiva/Diretrizes do SUS 
+EMENTA: Transformações do processo saúde-doença ao longo dos anos, diferenças entre conceitos de saúde, normativas da saúde pública contemplando as diretrizes do SUS (Lei Orgânica da Saúde) e suas ramificações como a Estratégia Saúde da Família (ESF) e a Política Nacional de Práticas Integrativas e Complementares (PNPIC). Processo de territorialização e os níveis de atenção à saúde com ênfase na atenção Primária. Princípios da Epidemiologia, aspectos comportamentais das relações humanas na saúde e a humanização da saúde.
 
-CARGA HORÁRIA: Hora/aula 72 e 60 Hora/relógio (60 min.) 
+BIBLIOGRAFIA BÁSICA: CAMPOS GV. Tratado de Saúde Coletiva. 2 ed São Paulo: Hucitec, 2012. MENDES EV. Distrito Sanitário: processo social de mudanças sanitárias no SUS. São Paulo: HUCITEC, 1993.
 
-EMENTA: Transformações do processo saúde-doença ao longo dos anos, diferenças entre conceitos de saúde, normativas da saúde pública contemplando as diretrizes do SUS (Lei Orgânica da Saúde) e suas ramificações como a Estratégia Saúde da Família (ESF) e a Política Nacional de Práticas Integrativas e Complementares (PNPIC). Processo de territorialização e os níveis de atenção à saúde com ênfase na atenção Primária. Princípios da Epidemiologia, aspectos comportamentais das relações humanas na saúde e a humanização da saúde. 
+PEREIRA MG. Epidemiologia: Teoria e Prática. Rio de Janeiro: Guanabara Koogan, 1999. ROUQUAYROL MZ, Gurgel MG. Epidemiologia e Saúde. Rio de Janeiro: Medbook, 2014. HARADA M, Pedreira M, Peterlini M, Pereira S. O erro humano e a segurança do paciente. 2 ed São Paulo: Atheneu, 2006.
 
-BIBLIOGRAFIA BÁSICA: CAMPOS GV. Tratado de Saúde Coletiva. 2 ed São Paulo: Hucitec, 2012. MENDES EV. Distrito Sanitário: processo social de mudanças sanitárias no SUS. São Paulo: HUCITEC, 1993. 
+BIBLIOGRAFIA COMPLEMENTAR: GRAUDA E, BREILH J. Saúde na sociedade. São Paulo: Cortez, 1989; MARTINS MA; Ferreira M, Lemes C. Saúde: a hora é agora. Barueri: Manole, 2010; MARCONDES, AC. Programas de saúde. 4 ed São Paulo: Atual, 1993; BRIVIGLEIRO E; POSSEBON J, SPINELLI R. Higiene Ocupacional: agentes físicos, biológicos e químicos. São PAulo: SENAC, 2006; REMEN R. O paciente como ser humano. 2 ed São Paulo: SUMMUS, 1992.
 
-PEREIRA MG. Epidemiologia: Teoria e Prática. Rio de Janeiro: Guanabara Koogan, 1999. ROUQUAYROL MZ, Gurgel MG. Epidemiologia e Saúde. Rio de Janeiro: Medbook, 2014. HARADA M, Pedreira M, Peterlini M, Pereira S. O erro humano e a segurança do paciente. 2 ed São Paulo: Atheneu, 2006. 
+54
 
-BIBLIOGRAFIA COMPLEMENTAR: GRAUDA E, BREILH J. Saúde na sociedade. São Paulo: Cortez, 1989; MARTINS MA; Ferreira M, Lemes C. Saúde: a hora é agora. Barueri: Manole, 2010; MARCONDES, AC. Programas de saúde. 4 ed São Paulo: Atual, 1993; BRIVIGLEIRO E; POSSEBON J, SPINELLI R. Higiene Ocupacional: agentes físicos, biológicos e químicos. São PAulo: SENAC, 2006; REMEN R. O paciente como ser humano. 2 ed São Paulo: SUMMUS, 1992. 
+## INSTITUTOFEDERAL
 
-54 
+Parana
 
-## INSTITUTOFEDERAL 
+MinisteriodaEducacao<br>
 
-Parana 
+COMPONENTE CURRICULAR: Princípios da Massagem
 
-**==> picture [64 x 9] intentionally omitted <==**
+CARGA HORÁRIA: Hora/aula 96 e 80 Hora/relógio (60 min.)
 
-**----- Start of picture text -----**<br>
-MinisteriodaEducacao<br>**----- End of picture text -----**<br>
+EMENTA: Princípios e características das manobras básicas de massagem. Conhecimento técnico e manual das manobras básicas de massagem. Efeitos mecânicos, fisiológicos e seu uso adequado de acordo com o fator de promoção à saúde.
 
+BIBLIOGRAFIA BÁSICA: CASSAR, M. P. Manual de Massagem Terapêutica. São Paulo: Manole. 2001.
 
-COMPONENTE CURRICULAR: Princípios da Massagem 
+BROWN, D. W. Massagem Terapêutica, Introdução Prática. 1. ed. São Paulo; Manole, 2001BRAUN, M. B.; SIMONSON, S. J. Massoterapia. São Paulo: Manole, 2007. ANDRADE, C. K; CLIFFORD, P. Massagem: Técnicas e Resultados. Rio de Janeiro: Guanabara-Koogan, 2003. FRITZ, S. Fundamentos da Massagem Terapêutica. 2ª ed. São Paulo: Manole, 2002.
 
-CARGA HORÁRIA: Hora/aula 96 e 80 Hora/relógio (60 min.) 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-EMENTA: Princípios e características das manobras básicas de massagem. Conhecimento técnico e manual das manobras básicas de massagem. Efeitos mecânicos, fisiológicos e seu uso adequado de acordo com o fator de promoção à saúde. 
+ELLSWORTH. A.; ALTMAN.P. Massagem. Anatomia Ilustrada. Guia Completo de Técnicas de Massagem Básica. 1ª ed. São Paulo. Manole, 2012.
 
-BIBLIOGRAFIA BÁSICA: CASSAR, M. P. Manual de Massagem Terapêutica. São Paulo: Manole. 2001. 
+CLAY, J.H; POUNDS, D. M. Massoterapia Clínica- Integrando anatomia ao tratamento. 2ª ed. São Paulo: Manole. 2008.
 
-BROWN, D. W. Massagem Terapêutica, Introdução Prática. 1. ed. São Paulo; Manole, 2001BRAUN, M. B.; SIMONSON, S. J. Massoterapia. São Paulo: Manole, 2007. ANDRADE, C. K; CLIFFORD, P. Massagem: Técnicas e Resultados. Rio de Janeiro: Guanabara-Koogan, 2003. FRITZ, S. Fundamentos da Massagem Terapêutica. 2ª ed. São Paulo: Manole, 2002. 
+DOMENICO, G.; WOOD, E. C. Técnica de Massagem de Beard. 4ª ed. São Paulo: Manole, 1998.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+BECK, M. F.; HESS, S.; MILLER, E. Curso Básico de Massagem. São: Paulo; Cengage Learning, 2009. KAVANAGH. W.; Guia Completo de Massagem. 1ªed. São Paulo; Pensamento, 2010.
 
-ELLSWORTH. A.; ALTMAN.P. Massagem. Anatomia Ilustrada. Guia Completo de Técnicas de Massagem Básica. 1ª ed. São Paulo. Manole, 2012. 
+55
 
-CLAY, J.H; POUNDS, D. M. Massoterapia Clínica- Integrando anatomia ao tratamento. 2ª ed. São Paulo: Manole. 2008. 
+MinisteriodaEducacao
 
-DOMENICO, G.; WOOD, E. C. Técnica de Massagem de Beard. 4ª ed. São Paulo: Manole, 1998. 
+## INSTITUTOFEDERAL
 
-BECK, M. F.; HESS, S.; MILLER, E. Curso Básico de Massagem. São: Paulo; Cengage Learning, 2009. KAVANAGH. W.; Guia Completo de Massagem. 1ªed. São Paulo; Pensamento, 2010. 
+Parana
 
-55 
+COMPONENTE CURRICULAR: Desenvolvimento Humano
 
-MinisteriodaEducacao 
+CARGA HORÁRIA: Hora/aula 48 e Hora/relógio 40 (60 min.)
 
-## INSTITUTOFEDERAL 
+EMENTA: Embriologia. Fases do desenvolvimento humano. Processo de envelhecimento do homem. Teorias do envelhecimento e aspectos demográficos.
 
-Parana 
+## BIBLIOGRAFIA BÁSICA:
 
-COMPONENTE CURRICULAR: Desenvolvimento Humano 
+MOORE, K.; PERSAUD, T.V.N.; TORCHIA, M. G. Embriologia Básica. 9ª ed. Rio de Janeiro: Elsevier, 2016.
 
-CARGA HORÁRIA: Hora/aula 48 e Hora/relógio 40 (60 min.) 
+CARLSON, B.M.; Embriologia humana e Biologia do Desenvolvimento. 5ª ed, Rio de Janeiro: Elsevier, 2014.
 
-EMENTA: Embriologia. Fases do desenvolvimento humano. Processo de envelhecimento do homem. Teorias do envelhecimento e aspectos demográficos. 
+WOLPERT, L.; JESSELL, T.; LAWRENCE, P.; MEYEROWITZ, E.; ROBERTSON, E.; SMITH, J. Princípios de Biologia do Desenvolvimento. 3ª ed. Porto Alegre: Artmed, 2008. CORREA, MR. Cartografias do envelhecimento na contemporaneidade: velhice e terceira idade [online]. São Paulo: Editora UNESP; São Paulo: Cultura Acadêmica, 2009. BEAUVOIR, S. A velhice. Rio de Janeiro: Nova Fronteira, 1990.
 
-## BIBLIOGRAFIA BÁSICA: 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-MOORE, K.; PERSAUD, T.V.N.; TORCHIA, M. G. Embriologia Básica. 9ª ed. Rio de Janeiro: Elsevier, 2016. 
+TRENTINI, C.; XAVIER, F. M.; FLECK, M. P. Qualidade de vida em idosos. In: Cognição e envelhecimento. Porto Alegre: Artmed, 2006.
 
-CARLSON, B.M.; Embriologia humana e Biologia do Desenvolvimento. 5ª ed, Rio de Janeiro: Elsevier, 2014. 
+MOORE, K.; PERSAUD, T.V.N.; TORCHIA, M. G. Embriologia Clínica. 10ª ed. Rio de Janeiro: Elsevier, 2016.
 
-WOLPERT, L.; JESSELL, T.; LAWRENCE, P.; MEYEROWITZ, E.; ROBERTSON, E.; SMITH, J. Princípios de Biologia do Desenvolvimento. 3ª ed. Porto Alegre: Artmed, 2008. CORREA, MR. Cartografias do envelhecimento na contemporaneidade: velhice e terceira idade [online]. São Paulo: Editora UNESP; São Paulo: Cultura Acadêmica, 2009. BEAUVOIR, S. A velhice. Rio de Janeiro: Nova Fronteira, 1990. 
+ANCTAZAC, SE. Fisiopatologia básica. Rio de Janeiro: Guanabara Koogan, 2005;
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+CENEVIVA, W. Estatuto do idoso e Constituição Civil: a terceira idade nas alternativas da lei. Revista a terceira idade. São Paulo: Sesc-Geti, v.15, n.30, p.7-23, maio 2004.
 
-TRENTINI, C.; XAVIER, F. M.; FLECK, M. P. Qualidade de vida em idosos. In: Cognição e envelhecimento. Porto Alegre: Artmed, 2006. 
+KIELING, C. et. al. Bases biológicas do envelhecimento cognitivo. In: PARENTE, M. A. M. P. (Org.) Cognição e envelhecimento. Porto Alegre: Artmed, 2006.
 
-MOORE, K.; PERSAUD, T.V.N.; TORCHIA, M. G. Embriologia Clínica. 10ª ed. Rio de Janeiro: Elsevier, 2016. 
+56
 
-ANCTAZAC, SE. Fisiopatologia básica. Rio de Janeiro: Guanabara Koogan, 2005; 
+MinisteriodaEducacao
 
-CENEVIVA, W. Estatuto do idoso e Constituição Civil: a terceira idade nas alternativas da lei. Revista a terceira idade. São Paulo: Sesc-Geti, v.15, n.30, p.7-23, maio 2004. 
+## INSTITUTOFEDERAL
 
-KIELING, C. et. al. Bases biológicas do envelhecimento cognitivo. In: PARENTE, M. A. M. P. (Org.) Cognição e envelhecimento. Porto Alegre: Artmed, 2006. 
+Parana
 
-56 
+COMPONENTE CURRICULAR: Avaliação em Massoterapia
 
-MinisteriodaEducacao 
+CARGA HORÁRIA: Hora/aula 72 e Hora/relógio 60 (60 min.)
 
-## INSTITUTOFEDERAL 
+EMENTA: Métodos e técnicas qualitativas e quantitativas de avaliação em massoterapia. Introdução a semiologia. Anamnese. Exame físico: inspeção, palpação, perimetria, amplitude articular. Avaliação da dor. Análise termográfica. Avaliação por fotometria.
 
-Parana 
+BIBLIOGRAFIA BÁSICA:
 
-COMPONENTE CURRICULAR: Avaliação em Massoterapia 
+CASSAR, M. P. Manual de Massagem Terapêutica. São Paulo: Manole, 2001. HOPPENFELD, Stanley; VIZEU, Ingrid M. Xavier. Propedêutica ortopédica coluna e extremidades. São Paulo: Atheneu, 1997.
 
-CARGA HORÁRIA: Hora/aula 72 e Hora/relógio 60 (60 min.) 
+MATOS, Oslei de. Avaliação postural e prescrição de exercícios corretivos. São Paulo: Phorte, 2010.
 
-EMENTA: Métodos e técnicas qualitativas e quantitativas de avaliação em massoterapia. Introdução a semiologia. Anamnese. Exame físico: inspeção, palpação, perimetria, amplitude articular. Avaliação da dor. Análise termográfica. Avaliação por fotometria. 
+CROSS, J; FETTO, J; ROSEN, E. Exame Músculo Esquelético. 2. ed. São Paulo: Artmed, 2005.
 
-BIBLIOGRAFIA BÁSICA: 
+NORKIN, C.C; WHITE, D. J. Medida do movimento articular. 2. Ed. Porto Alegre: Artmédica, 1997.
 
-CASSAR, M. P. Manual de Massagem Terapêutica. São Paulo: Manole, 2001. HOPPENFELD, Stanley; VIZEU, Ingrid M. Xavier. Propedêutica ortopédica coluna e extremidades. São Paulo: Atheneu, 1997. 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-MATOS, Oslei de. Avaliação postural e prescrição de exercícios corretivos. São Paulo: Phorte, 2010. 
+SOUZA, Juliana Alves et al. Biofotogrametria confiabilidade das medidas do protocolo do software para avaliação postural (SAPO). Rev. bras. cineantropom. desempenho hum. (Online), Florianópolis, v. 13, n. 4, p. 299-305, Aug. 2011.
 
-CROSS, J; FETTO, J; ROSEN, E. Exame Músculo Esquelético. 2. ed. São Paulo: Artmed, 2005. 
+TEIXEIRA, FA; CARVALHO, GA. Confiabilidade e validade das medidas da cifose torácica através do método flexicurva. Rev. bras. fisioter., São Carlos, v. 11, n. 3, p. 199-204, June 2007. KNOPLICH, J. Fibromilagia dor e fadiga. 2. Ed. São Caetano do Sul SP: Yendis, 2007. SANTOS, Antonio Cardoso dos. O exercício físico e o controle da dor na coluna: biomecânica, epidemiologia, avaliação, protocolos práticos de exercícios. Rio de Janeiro: MEDSI, 1996.
 
-NORKIN, C.C; WHITE, D. J. Medida do movimento articular. 2. Ed. Porto Alegre: Artmédica, 1997. 
+57
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+Parana MinisteriodaEducacao
 
-SOUZA, Juliana Alves et al. Biofotogrametria confiabilidade das medidas do protocolo do software para avaliação postural (SAPO). Rev. bras. cineantropom. desempenho hum. (Online), Florianópolis, v. 13, n. 4, p. 299-305, Aug. 2011. 
+## INSTITUTOFEDERAL
 
-TEIXEIRA, FA; CARVALHO, GA. Confiabilidade e validade das medidas da cifose torácica através do método flexicurva. Rev. bras. fisioter., São Carlos, v. 11, n. 3, p. 199-204, June 2007. KNOPLICH, J. Fibromilagia dor e fadiga. 2. Ed. São Caetano do Sul SP: Yendis, 2007. SANTOS, Antonio Cardoso dos. O exercício físico e o controle da dor na coluna: biomecânica, epidemiologia, avaliação, protocolos práticos de exercícios. Rio de Janeiro: MEDSI, 1996. 
+COMPONENTE CURRICULAR: Práticas Taoístas I
 
-57 
+CARGA HORÁRIA: 24 Hora/aula e 20 Hora/relógio (60 min.)
 
-Parana MinisteriodaEducacao 
+EMENTA: Dao In, Pá Kuá, Chi Kung, Meditação, Respiração Energética, Do In, Qi Gong, Treino da energia da Mão, Circulação Energética.
 
-## INSTITUTOFEDERAL 
+BIBLIOGRAFIA BÁSICA:
 
-COMPONENTE CURRICULAR: Práticas Taoístas I 
+LEE, M. L. LIANG GONG em 18 terapias, forjando um corpo saudável ginástica chinesa do DR. Zhuang yuen Ming. 12. Ed. São Paulo: Pensamento, 2010.
 
-CARGA HORÁRIA: 24 Hora/aula e 20 Hora/relógio (60 min.) 
+NGHI, N. V. Chi Kung Gimnasia medical china. 1. Ed. Cabal. Madrid, 1980. MACIOCIA, G. Fundamentos de Medicina Chinesa. 2ª ed. São Paulo: Roca, 2007. MACIOCIA G. Canais de Acupuntura.São Paulo: Roca, 2007.
 
-EMENTA: Dao In, Pá Kuá, Chi Kung, Meditação, Respiração Energética, Do In, Qi Gong, Treino da energia da Mão, Circulação Energética. 
+YAMAMURA, Ysao. Acupuntura Tradicional: a arte de inserir. São Paulo: Roca, 2001.
 
-BIBLIOGRAFIA BÁSICA: 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-LEE, M. L. LIANG GONG em 18 terapias, forjando um corpo saudável ginástica chinesa do DR. Zhuang yuen Ming. 12. Ed. São Paulo: Pensamento, 2010. 
+JUNG, C. G. 13 estudos alquímicos. 4. Ed. Petrópolis: Vozes, 2016. BERRY, C. R. Memória Corporal. Rio de Janeira: Nova era, 2003. CAPRA, F. O ponto de mutação. 35. Ed. São Paulo: Cutrix, 2016.
 
-NGHI, N. V. Chi Kung Gimnasia medical china. 1. Ed. Cabal. Madrid, 1980. MACIOCIA, G. Fundamentos de Medicina Chinesa. 2ª ed. São Paulo: Roca, 2007. MACIOCIA G. Canais de Acupuntura.São Paulo: Roca, 2007. 
+FOCKS, Claudia; MARZ, Ulrich. Atlas de Acupuntura. São Paulo: Manole, 2005. MARTINS, E. I. S; LEONELLI, L. B.. Do-In, Shiatsu e Acupuntura: Uma Visão Chinesa do Toque Terapêutico. 2ªed. São Paulo: Roca, 2001.
 
-YAMAMURA, Ysao. Acupuntura Tradicional: a arte de inserir. São Paulo: Roca, 2001. 
+58
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+Ministerio da Educagao
 
-JUNG, C. G. 13 estudos alquímicos. 4. Ed. Petrópolis: Vozes, 2016. BERRY, C. R. Memória Corporal. Rio de Janeira: Nova era, 2003. CAPRA, F. O ponto de mutação. 35. Ed. São Paulo: Cutrix, 2016. 
+## INSTITUTOFEDERAL
 
-FOCKS, Claudia; MARZ, Ulrich. Atlas de Acupuntura. São Paulo: Manole, 2005. MARTINS, E. I. S; LEONELLI, L. B.. Do-In, Shiatsu e Acupuntura: Uma Visão Chinesa do Toque Terapêutico. 2ªed. São Paulo: Roca, 2001. 
+Parana
 
-58 
+## **3º semestre**
 
-Ministerio da Educagao 
+COMPONENTE CURRICULAR: Medicina Tradicional Chinesa - MTC
 
-## INSTITUTOFEDERAL 
+CARGA HORÁRIA: 96 Hora/aula e 80 Hora/relógio (60 min.)
 
-Parana 
+EMENTA: A Medicina tradicional Chinesa é um legado do povo Chinês a todos os povos do mundo, um complexo sistema de avaliação de sinais e sintomas corporais associados a um conjunto de técnicas de intervenção das alterações da homeostase. Fundamentos básicos sobre Medicina Tradicional Chinesa: Definição, histórico, Teoria de Yin e Yang, teoria dos cinco movimentos, Zang-Fu, inter-relações entre Zang-Fu, Jing, Qi, Xue, JinYe, Jin-Luo, os doze canais principais (nomenclatura, classificação e trajeto),pontos principais, etiologia, patologia, seis fatores patogênicos exógenos, Inspeção, Diferenciação de síndromes, técnicas associadas (moxabustão/ventosaterapia).
 
-## **3º semestre** 
+BIBLIOGRAFIA BÁSICA:
 
-COMPONENTE CURRICULAR: Medicina Tradicional Chinesa - MTC 
+MACIOCIA, G. Fundamentos de Medicina Chinesa. s.ed. São Paulo: Roca, 2007. MACIOCIA, G. Diagnóstico na Medicina Chinesa- Um Guia Geral. s.ed. São Paulo: Roca, 2005.
 
-CARGA HORÁRIA: 96 Hora/aula e 80 Hora/relógio (60 min.) 
+MARTINS, E. I. S; LEONELLI, L. B. Do-In, Shiatsu e Acupuntura: Uma Visão Chinesa do Toque Terapêutico. 2ªed. São Paulo: Roca, 2001.
 
-EMENTA: A Medicina tradicional Chinesa é um legado do povo Chinês a todos os povos do mundo, um complexo sistema de avaliação de sinais e sintomas corporais associados a um conjunto de técnicas de intervenção das alterações da homeostase. Fundamentos básicos sobre Medicina Tradicional Chinesa: Definição, histórico, Teoria de Yin e Yang, teoria dos cinco movimentos, Zang-Fu, inter-relações entre Zang-Fu, Jing, Qi, Xue, JinYe, Jin-Luo, os doze canais principais (nomenclatura, classificação e trajeto),pontos principais, etiologia, patologia, seis fatores patogênicos exógenos, Inspeção, Diferenciação de síndromes, técnicas associadas (moxabustão/ventosaterapia). 
+WEN, Tom Sintan. Acupuntura Clássica Chinesa. São Paulo: Cultrix, 2012. HUIHE Y., BAINE, Z. Teoria Básica Tradicional Chinesa. 2ªed. São Paulo: Atheneu, 2012.
 
-BIBLIOGRAFIA BÁSICA: 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-MACIOCIA, G. Fundamentos de Medicina Chinesa. s.ed. São Paulo: Roca, 2007. MACIOCIA, G. Diagnóstico na Medicina Chinesa- Um Guia Geral. s.ed. São Paulo: Roca, 2005. 
+WEN, Tom Sintan. Acupuntura Clássica Chinesa. São Paulo: Cultrix, 2012. YAMAMURA, Ysao . Acupuntura Tradicional: a arte de inserir. São Paulo: Roca, 2001. XI WENBU, Beijing.Tratado de Medicina Chinesa (Trad.honghuoYsaoYamamuras.ed) São Paulo: Roca, 1993.
 
-MARTINS, E. I. S; LEONELLI, L. B. Do-In, Shiatsu e Acupuntura: Uma Visão Chinesa do Toque Terapêutico. 2ªed. São Paulo: Roca, 2001. 
+FOCKS, Claudia; MARZ, Ulrich. Atlas de Acupuntura. São Paulo: Manole, 2005. FREIRE, M. Automassagem e Medicina Chinesa. Brasília: Mauad, 1996.
 
-WEN, Tom Sintan. Acupuntura Clássica Chinesa. São Paulo: Cultrix, 2012. HUIHE Y., BAINE, Z. Teoria Básica Tradicional Chinesa. 2ªed. São Paulo: Atheneu, 2012. 
+59
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+## INSTITUTOFEDERAL
 
-WEN, Tom Sintan. Acupuntura Clássica Chinesa. São Paulo: Cultrix, 2012. YAMAMURA, Ysao . Acupuntura Tradicional: a arte de inserir. São Paulo: Roca, 2001. XI WENBU, Beijing.Tratado de Medicina Chinesa (Trad.honghuoYsaoYamamuras.ed) São Paulo: Roca, 1993. 
+## Parana
 
-FOCKS, Claudia; MARZ, Ulrich. Atlas de Acupuntura. São Paulo: Manole, 2005. FREIRE, M. Automassagem e Medicina Chinesa. Brasília: Mauad, 1996. 
+## MinisteriodaEducacao
 
-59 
+COMPONENTE CURRICULAR: Massoterapia Oriental I - Shiatsu
 
-## INSTITUTOFEDERAL 
+CARGA HORÁRIA: 120 Hora/aula e 100 Hora/relógio (60 min.)
 
-## Parana 
+EMENTA: Desenvolvimento histórico, conceito Ki, Tsubô, Ampuko, Zen, Pressão, Kio, Jitsu, Posicionamento, manobras e procedimentos básicos de tonificação e sedação aplicando a técnica massoterápica Japonesa Shiatsu, organizar o ambiente de trabalho, observando os cuidados e técnicas de assepsia, bem como identificar as necessidades, queixas, indicações e contra indicações através de anamnese e exame físico (Bom-shim, Bum-shim, Mom-Shim, Setsu-Shim) com base nos fundamentos da disciplina MTC, aplicar corretamente a técnica Zen- shiatsu (Shizuto Masunaga) e a técnica shiatsu clássico ( Toru Namikoshi) no solo e adaptado para maca.
 
-## MinisteriodaEducacao 
+BIBLIOGRAFIA BÁSICA:
 
-COMPONENTE CURRICULAR: Massoterapia Oriental I - Shiatsu 
+BASTOS, Sohaku. Shiatsu Tradicional. São Paulo: Shaku In, 1982.
 
-CARGA HORÁRIA: 120 Hora/aula e 100 Hora/relógio (60 min.) 
+MARTINS, E. I. S.; LEONELLI, L. B. Do-In, Shiatsu e Acupuntura: Uma Visão Chinesa do Toque Terapêutico. 2ª Ed. São Paulo: Roca, 2001. FOCKS, Claudia. Atlas de Acupuntura. Barueri: Manole, 2005. RAPPENECKER, Wilfried; KOCKRICK, Meike. Atlas de Shiatsu: os meridianos do zen shiatsu. Barueri: Manoel, 2008.
 
-EMENTA: Desenvolvimento histórico, conceito Ki, Tsubô, Ampuko, Zen, Pressão, Kio, Jitsu, Posicionamento, manobras e procedimentos básicos de tonificação e sedação aplicando a técnica massoterápica Japonesa Shiatsu, organizar o ambiente de trabalho, observando os cuidados e técnicas de assepsia, bem como identificar as necessidades, queixas, indicações e contra indicações através de anamnese e exame físico (Bom-shim, Bum-shim, Mom-Shim, Setsu-Shim) com base nos fundamentos da disciplina MTC, aplicar corretamente a técnica Zen- shiatsu (Shizuto Masunaga) e a técnica shiatsu clássico ( Toru Namikoshi) no solo e adaptado para maca. 
+NAMIKOSHI< Toru. O Livro Completo da Teoria Shiatsu. São Paulo: Manole, 1992.
 
-BIBLIOGRAFIA BÁSICA: 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-BASTOS, Sohaku. Shiatsu Tradicional. São Paulo: Shaku In, 1982. 
+WEN, Tom Sintan. Acupuntura Clássica Chinesa. São Paulo: Cultrix, 2012. YAMAMURA, Ysao . Acupuntura Tradicional: a arte de inserir. São Paulo: Roca, 2001. MACIOCIA, G. Fundamentos de Medicina Chinesa. 2ª ed. São Paulo: Roca, 2007. MACIOCIA G. Canais de Acupuntura.São Paulo: Roca, 2007. FOCKS, Claudia; MARZ, Ulrich. Guia Prático de Acupuntura. Barueri: Manole, 2008.
 
-MARTINS, E. I. S.; LEONELLI, L. B. Do-In, Shiatsu e Acupuntura: Uma Visão Chinesa do Toque Terapêutico. 2ª Ed. São Paulo: Roca, 2001. FOCKS, Claudia. Atlas de Acupuntura. Barueri: Manole, 2005. RAPPENECKER, Wilfried; KOCKRICK, Meike. Atlas de Shiatsu: os meridianos do zen shiatsu. Barueri: Manoel, 2008. 
+60
 
-NAMIKOSHI< Toru. O Livro Completo da Teoria Shiatsu. São Paulo: Manole, 1992. 
+MinisteriodaEducacao
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+## INSTITUTOFEDERAL
 
-WEN, Tom Sintan. Acupuntura Clássica Chinesa. São Paulo: Cultrix, 2012. YAMAMURA, Ysao . Acupuntura Tradicional: a arte de inserir. São Paulo: Roca, 2001. MACIOCIA, G. Fundamentos de Medicina Chinesa. 2ª ed. São Paulo: Roca, 2007. MACIOCIA G. Canais de Acupuntura.São Paulo: Roca, 2007. FOCKS, Claudia; MARZ, Ulrich. Guia Prático de Acupuntura. Barueri: Manole, 2008. 
+Parana
 
-60 
+COMPONENTE CURRICULAR: Técnicas de Massoterapia Aplicadas em Spa
 
-MinisteriodaEducacao 
+CARGA HORÁRIA: 120 Hora/aula e 100 Hora/relógio (60 min.)
 
-## INSTITUTOFEDERAL 
+EMENTA: Contextualização da anatomia e fisiologia do Sistema Tegumentar. Massagem estética corporal e facial. Técnicas associadas. Massofilaxia.
 
-Parana 
+BIBLIOGRAFIA BÁSICA:
 
-COMPONENTE CURRICULAR: Técnicas de Massoterapia Aplicadas em Spa 
+GUIRRO, R; e GUIRRO, E. Fisioterapia Dermato-Funcional: fundamentos, recursos e patologias - 3ª ed. São Paulo: Manole, 2004.
 
-CARGA HORÁRIA: 120 Hora/aula e 100 Hora/relógio (60 min.) 
+HALL, John E. Guyton & Hall: fundamentos de fisiologia. 12. ed. Rio de Janeiro: Elsevier, 2012.
 
-EMENTA: Contextualização da anatomia e fisiologia do Sistema Tegumentar. Massagem estética corporal e facial. Técnicas associadas. Massofilaxia. 
+BORGES, F.S.; SCORZA, F.A. Terapêutica em Estética: Conceitos e Técnicas. São Paulo: Phorte Editora, 2016.
 
-BIBLIOGRAFIA BÁSICA: 
+KAMIZATO, K.K.; BRITO, S.G. Técnicas Estéticas faciais. São Paulo:Saraiva, 2014. CASSAR, M. Manual de massagem terapêutica. São Paulo: Manole, 2001.
 
-GUIRRO, R; e GUIRRO, E. Fisioterapia Dermato-Funcional: fundamentos, recursos e patologias - 3ª ed. São Paulo: Manole, 2004. 
+BIBLIOGRAFIA COMPLEMENTAR: CURSO didático de estética. 1. ed. São Caetano do Sul: Yendis, 2008. COUTINHO, M. Estética e saúde: a linha tênue entre beleza e saúde. São Paulo: Phorte, 2011. SENAC. Departamento Nacional. Ritos do corpo. Rio de Janeiro: Senac Nacional, 2000. CASSAR, M.P. MASSAGEM - Curso Completo. 1. Reimpressão. São Paulo: Manole, 2001. BORGES, F. S. Dermato-funcional: modalidades terapêuticas nas disfunções estéticas. 2 ed. São Paulo: Phorte, 2010.
 
-HALL, John E. Guyton & Hall: fundamentos de fisiologia. 12. ed. Rio de Janeiro: Elsevier, 2012. 
+61
 
-BORGES, F.S.; SCORZA, F.A. Terapêutica em Estética: Conceitos e Técnicas. São Paulo: Phorte Editora, 2016. 
+## INSTITUTOFEDERAL
 
-KAMIZATO, K.K.; BRITO, S.G. Técnicas Estéticas faciais. São Paulo:Saraiva, 2014. CASSAR, M. Manual de massagem terapêutica. São Paulo: Manole, 2001. 
+Parana MinisteriodaEducacao
 
-BIBLIOGRAFIA COMPLEMENTAR: CURSO didático de estética. 1. ed. São Caetano do Sul: Yendis, 2008. COUTINHO, M. Estética e saúde: a linha tênue entre beleza e saúde. São Paulo: Phorte, 2011. SENAC. Departamento Nacional. Ritos do corpo. Rio de Janeiro: Senac Nacional, 2000. CASSAR, M.P. MASSAGEM - Curso Completo. 1. Reimpressão. São Paulo: Manole, 2001. BORGES, F. S. Dermato-funcional: modalidades terapêuticas nas disfunções estéticas. 2 ed. São Paulo: Phorte, 2010. 
+COMPONENTE CURRICULAR: Bases Farmacológicas
 
-61 
+CARGA HORÁRIA: Hora/aula 48 e Hora/relógio 40 (60 min.)
 
-## INSTITUTOFEDERAL 
+EMENTA: Conceitos básicos de farmacologia geral. Noções de farmacocinética. Interação entre o sistema biológico. Noções da ação farmacodinâmica. Ativos de uso dermatológico. Terapias Alternativas.
 
-Parana MinisteriodaEducacao 
+BIBLIOGRAFIA BÁSICA:
 
-COMPONENTE CURRICULAR: Bases Farmacológicas 
+RANGE, H.P et al. Farmacologia.7ª ed. Elsevier, Rio de janeiro, 2011. FRANCISCHI, J.N. A Farmacologia em nossa vida.1ª ed. UFMG. Belo Horizonte, 2005. PIVELLO, V.L. Farmacologia: Como agem os medicamentos. 1ª ed. Atheneu, São Paulo, 2014. AMARAL, F.Técnica de Aplicação de Óleos Essenciais.São Paulo: Cengage Learning, 2015.
 
-CARGA HORÁRIA: Hora/aula 48 e Hora/relógio 40 (60 min.) 
+FOX, S.I. Fisiologia Humana. 7ªed. Editora Manole. São Paulo, 2007.
 
-EMENTA: Conceitos básicos de farmacologia geral. Noções de farmacocinética. Interação entre o sistema biológico. Noções da ação farmacodinâmica. Ativos de uso dermatológico. Terapias Alternativas. 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-BIBLIOGRAFIA BÁSICA: 
+GOODMAN & GILMAN As Bases Farmacológicas da Terapêutica. 9ªed. Editora Guanabara Koogan. Rio de Janeiro, 1997.
 
-RANGE, H.P et al. Farmacologia.7ª ed. Elsevier, Rio de janeiro, 2011. FRANCISCHI, J.N. A Farmacologia em nossa vida.1ª ed. UFMG. Belo Horizonte, 2005. PIVELLO, V.L. Farmacologia: Como agem os medicamentos. 1ª ed. Atheneu, São Paulo, 2014. AMARAL, F.Técnica de Aplicação de Óleos Essenciais.São Paulo: Cengage Learning, 2015. 
+KATZUNG, B.G; Farmacologia Básica e Clínica. 10ª ed. Editora Lange, São Paulo, 2007. MAYER, B. Noções de Farmacologia. 1ªed. Editora Livro Técnico. Curitiba, 2010. GUYTON, A. C. Fisiologia Humana e Mecanismos de Doenças. 9ªed. Editora Guanabara Koogan. Rio de Janeiro, 1998.
 
-FOX, S.I. Fisiologia Humana. 7ªed. Editora Manole. São Paulo, 2007. 
+WERNER, R. Guia de Patologia para Massoterapeutas. 2ªed. Editora Guanabara Koogan. Rio de Janeiro, 2005.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+62
 
-GOODMAN & GILMAN As Bases Farmacológicas da Terapêutica. 9ªed. Editora Guanabara Koogan. Rio de Janeiro, 1997. 
+MinisteriodaEducacao
 
-KATZUNG, B.G; Farmacologia Básica e Clínica. 10ª ed. Editora Lange, São Paulo, 2007. MAYER, B. Noções de Farmacologia. 1ªed. Editora Livro Técnico. Curitiba, 2010. GUYTON, A. C. Fisiologia Humana e Mecanismos de Doenças. 9ªed. Editora Guanabara Koogan. Rio de Janeiro, 1998. 
+## INSTITUTOFEDERAL
 
-WERNER, R. Guia de Patologia para Massoterapeutas. 2ªed. Editora Guanabara Koogan. Rio de Janeiro, 2005. 
+## Parana
 
-62 
+COMPONENTE CURRICULAR: Avaliação em Massoterapia Oriental
 
-MinisteriodaEducacao 
+CARGA HORÁRIA: 72 Hora/aula e 60 Hora/relógio (60 min.)
 
-## INSTITUTOFEDERAL 
+EMENTA: Padrão de identificação, de acordo com os oito princípios, de acordo com os Qi, Xue, Jin Ye, de acordo com os Zang Fu, de acordo com os fatores patogênicos, de acordo com os sinais e sintomas, observação, shen, tipo constitucional, cabeça e face, olhos, nariz, orelhas, boca e lábios, dentes e gengivas, membros, pele, língua, meridianos, audição, anamnese, palpação, pulso, temperatura.
 
-## Parana 
+BIBLIOGRAFIA BÁSICA:
 
-COMPONENTE CURRICULAR: Avaliação em Massoterapia Oriental 
+MACIOCIA, G. **Diagnóstico na Medicina Chinesa** : um Guia Geral. São Paulo: Editora Roca, 2005.
 
-CARGA HORÁRIA: 72 Hora/aula e 60 Hora/relógio (60 min.) 
+MOREIRA, Tiago Ricardo. Bizu Comentado–Perguntas e Respostas Comentadas de Enfermagem. Rio de Janeiro: Editora Rubio, 2014.
 
-EMENTA: Padrão de identificação, de acordo com os oito princípios, de acordo com os Qi, Xue, Jin Ye, de acordo com os Zang Fu, de acordo com os fatores patogênicos, de acordo com os sinais e sintomas, observação, shen, tipo constitucional, cabeça e face, olhos, nariz, orelhas, boca e lábios, dentes e gengivas, membros, pele, língua, meridianos, audição, anamnese, palpação, pulso, temperatura. 
+YAMOMOTO, C. **Pulsologia** : arte e ciência do diagnóstico na medicina oriental. São Paulo: Ground, 1998.
 
-BIBLIOGRAFIA BÁSICA: 
+YAMAMURA, Y. **Tratado de Medicina Chinesa** . São Paulo: Roca, 1993. WEN, T. S. **Acupuntura clássica chinesa** . São Paulo: Cultrix, 2014.
 
-MACIOCIA, G. **Diagnóstico na Medicina Chinesa** : um Guia Geral. São Paulo: Editora Roca, 2005. 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-MOREIRA, Tiago Ricardo. Bizu Comentado–Perguntas e Respostas Comentadas de Enfermagem. Rio de Janeiro: Editora Rubio, 2014. 
+WEN, Tom Sintan. Acupuntura Clássica Chinesa. São Paulo: Cultrix, 2012. YAMAMURA, Ysao. Acupuntura Tradicional: a arte de inserir. São Paulo: Roca, 2001. XI WENBU, Beijing. Tratado de Medicina Chinesa (Trad. Honghuo Ysao Yamamuras. ed) São Paulo: Roca, 1993. FOCKS, Claudia; MARZ, Ulrich. Atlas de Acupuntura. São Paulo: Manole, 2005. FREIRE, M. Automassagem e Medicina Chinesa. Brasília: Mauad, 1996.
 
-YAMOMOTO, C. **Pulsologia** : arte e ciência do diagnóstico na medicina oriental. São Paulo: Ground, 1998. 
+63
 
-YAMAMURA, Y. **Tratado de Medicina Chinesa** . São Paulo: Roca, 1993. WEN, T. S. **Acupuntura clássica chinesa** . São Paulo: Cultrix, 2014. 
+INSTITUTOFEDERAL Parana MinisteriodaEducacao
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+COMPONENTE CURRICULAR: Práticas Taoístas II
 
-WEN, Tom Sintan. Acupuntura Clássica Chinesa. São Paulo: Cultrix, 2012. YAMAMURA, Ysao. Acupuntura Tradicional: a arte de inserir. São Paulo: Roca, 2001. XI WENBU, Beijing. Tratado de Medicina Chinesa (Trad. Honghuo Ysao Yamamuras. ed) São Paulo: Roca, 1993. FOCKS, Claudia; MARZ, Ulrich. Atlas de Acupuntura. São Paulo: Manole, 2005. FREIRE, M. Automassagem e Medicina Chinesa. Brasília: Mauad, 1996. 
+CARGA HORÁRIA: 24 Hora/aula e 20 Hora/relógio (60 min.)
 
-63 
+EMENTA: Tai chi, Tsuei Shou, Pá Kuá, Chi Kung, Meditação, Respiração Energética, Do In, Qi Gong, Treino da energia da Mão, Circulação Energética.
 
-INSTITUTOFEDERAL Parana MinisteriodaEducacao 
+BIBLIOGRAFIA BÁSICA:
 
-COMPONENTE CURRICULAR: Práticas Taoístas II 
+LEE, M. L. LIANG GONG em 18 terapias, forjando um corpo saudável ginástica chinesa do DR. Zhuang yuen Min.g. 12. Ed. São Paulo: Pensamento, 2010.
 
-CARGA HORÁRIA: 24 Hora/aula e 20 Hora/relógio (60 min.) 
+NGHI, N. V. Chi Kung Gimnasia medical china. 1. Ed. Cabal. Madrid, 1980. MACIOCIA, G. Fundamentos de Medicina Chinesa. 2ª ed. São Paulo: Roca, 2007. MACIOCIA G. Canais de Acupuntura.São Paulo: Roca, 2007.
 
-EMENTA: Tai chi, Tsuei Shou, Pá Kuá, Chi Kung, Meditação, Respiração Energética, Do In, Qi Gong, Treino da energia da Mão, Circulação Energética. 
+YAMAMURA, Ysao . Acupuntura Tradicional: a arte de inserir. São Paulo: Roca, 2001.
 
-BIBLIOGRAFIA BÁSICA: 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-LEE, M. L. LIANG GONG em 18 terapias, forjando um corpo saudável ginástica chinesa do DR. Zhuang yuen Min.g. 12. Ed. São Paulo: Pensamento, 2010. 
+JUNG, C. G. 13 estudos alquímicos. 4. Ed. Petropolis: Vozes, 2016. BERRY, C. R. Memória Corporal. Rio de Janeira: Nova era, 2003. CAPRA, F. O ponto de mutação. 35. Ed. São Paulo: Cutrix, 2016. FOCKS, Claudia; MARZ, Ulrich. Atlas de Acupuntura. São Paulo: Manole, 2005. MARTINS, E. I. S; LEONELLI, L. B. Do-In, Shiatsu e Acupuntura: Uma Visão Chinesa do Toque Terapêutico. 2ªed. São Paulo: Roca, 2001.
 
-NGHI, N. V. Chi Kung Gimnasia medical china. 1. Ed. Cabal. Madrid, 1980. MACIOCIA, G. Fundamentos de Medicina Chinesa. 2ª ed. São Paulo: Roca, 2007. MACIOCIA G. Canais de Acupuntura.São Paulo: Roca, 2007. 
+64
 
-YAMAMURA, Ysao . Acupuntura Tradicional: a arte de inserir. São Paulo: Roca, 2001. 
+Ministerio da Educagao
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+## INSTITUTOFEDERAL
 
-JUNG, C. G. 13 estudos alquímicos. 4. Ed. Petropolis: Vozes, 2016. BERRY, C. R. Memória Corporal. Rio de Janeira: Nova era, 2003. CAPRA, F. O ponto de mutação. 35. Ed. São Paulo: Cutrix, 2016. FOCKS, Claudia; MARZ, Ulrich. Atlas de Acupuntura. São Paulo: Manole, 2005. MARTINS, E. I. S; LEONELLI, L. B. Do-In, Shiatsu e Acupuntura: Uma Visão Chinesa do Toque Terapêutico. 2ªed. São Paulo: Roca, 2001. 
+Parana
 
-64 
+## **4º semestre**
 
-Ministerio da Educagao 
+COMPONENTE CURRICULAR: Massoterapia Oriental II - Tuiná e Seitai
 
-## INSTITUTOFEDERAL 
+CARGA HORÁRIA: 120 Hora/aula e 100 Hora/relógio (60 min.)
 
-Parana 
+EMENTA: Aplicar a fundamentação teórica da disciplina Medicina Tradicional Chinesa (MTC) yin e yang, cinco movimentos, Zang Fu, meridianos e principais pontos, Qi, Xue, Shen como fundamentos essenciais para a execução da técnica, identificar as necessidade, queixas, indicações e contra indicações, através de anamnese e exame físico com base nos fundamentos da disciplina MTC, padrões de desarmonia dos oito princípios, etiologia, avaliação da língua, conhecer e aplicar as 28 manobras principais descritas a massagem tradicional Chinesa Tui Ná, preparando o ambiente de trabalho, observando os cuidados e técnicas de assepsia, bem como; desenvolvimento da história da Massagem Tui Ná e demonstrar a origem de suas manobras posicionamento e procedimentos básicos de tonificação e sedação, definição, classificação e características, nomenclatura.
 
-## **4º semestre** 
+BIBLIOGRAFIA BÁSICA: ARCHANGE, G. Manual de Massagem Chinesa. São Paulo: Andrei, 1986. FREIRE, M. Automassagem e Medicina Chinesa. Brasília: Mauad, 1996. LOPES, Claudio. Tuina – Medicina Manual Chinesa. São Paulo: Andreoli, 2010.
 
-COMPONENTE CURRICULAR: Massoterapia Oriental II - Tuiná e Seitai 
+MERCATI, M. Tuiná – Massagem para Estimular o Corpo e a Mente. São Paulo: Manole, 1999.
 
-CARGA HORÁRIA: 120 Hora/aula e 100 Hora/relógio (60 min.) 
+CHIEN T.L. Tui na Massagem Chinesa. Icone ed 1 ed 2015 Wenbu X. Tratado de Medicina Chinesa. Beijing/China – Roca: Roca, 1993.
 
-EMENTA: Aplicar a fundamentação teórica da disciplina Medicina Tradicional Chinesa (MTC) yin e yang, cinco movimentos, Zang Fu, meridianos e principais pontos, Qi, Xue, Shen como fundamentos essenciais para a execução da técnica, identificar as necessidade, queixas, indicações e contra indicações, através de anamnese e exame físico com base nos fundamentos da disciplina MTC, padrões de desarmonia dos oito princípios, etiologia, avaliação da língua, conhecer e aplicar as 28 manobras principais descritas a massagem tradicional Chinesa Tui Ná, preparando o ambiente de trabalho, observando os cuidados e técnicas de assepsia, bem como; desenvolvimento da história da Massagem Tui Ná e demonstrar a origem de suas manobras posicionamento e procedimentos básicos de tonificação e sedação, definição, classificação e características, nomenclatura. 
+BIBLIOGRAFIA COMPLEMENTAR: MACIOCIA, G. Fundamentos de Medicina Chinesa. 2ª ed. São Paulo: Roca, 2007. MACIOCIA G. Canais de Acupuntura.São Paulo: Roca, 2007. HUIHE Y., BAINE, Z. Teoria Básica Tradicional Chinesa. 2ªed. São Paulo: Atheneu, 2012. WEN, Tom Sintan. Acupuntura Clássica Chinesa. São Paulo: Cultrix, 2012. YAMAMURA, Ysao. Acupuntura Tradicional: a arte de inserir. São Paulo: Roca, 2001. SERRANO, A. V. Reeducation postural integral SOTAI. I Ed. Pai do tribo: Badalona/Espanha, 2006.
 
-BIBLIOGRAFIA BÁSICA: ARCHANGE, G. Manual de Massagem Chinesa. São Paulo: Andrei, 1986. FREIRE, M. Automassagem e Medicina Chinesa. Brasília: Mauad, 1996. LOPES, Claudio. Tuina – Medicina Manual Chinesa. São Paulo: Andreoli, 2010. 
+65
 
-MERCATI, M. Tuiná – Massagem para Estimular o Corpo e a Mente. São Paulo: Manole, 1999. 
+## INSTITUTOFEDERAL
 
-CHIEN T.L. Tui na Massagem Chinesa. Icone ed 1 ed 2015 Wenbu X. Tratado de Medicina Chinesa. Beijing/China – Roca: Roca, 1993. 
+## Parana MinisteriodaEducacao
 
-BIBLIOGRAFIA COMPLEMENTAR: MACIOCIA, G. Fundamentos de Medicina Chinesa. 2ª ed. São Paulo: Roca, 2007. MACIOCIA G. Canais de Acupuntura.São Paulo: Roca, 2007. HUIHE Y., BAINE, Z. Teoria Básica Tradicional Chinesa. 2ªed. São Paulo: Atheneu, 2012. WEN, Tom Sintan. Acupuntura Clássica Chinesa. São Paulo: Cultrix, 2012. YAMAMURA, Ysao. Acupuntura Tradicional: a arte de inserir. São Paulo: Roca, 2001. SERRANO, A. V. Reeducation postural integral SOTAI. I Ed. Pai do tribo: Badalona/Espanha, 2006. 
+COMPONENTE CURRICULAR: Metodologia Científica
 
-65 
+CARGA HORÁRIA: 48 Hora/aula e 40 Hora/relógio (60 min.)
 
-## INSTITUTOFEDERAL 
+EMENTA: Diferenciação dos diversos tipos de conhecimentos: senso comum, empírico, místico e cientifico; Elucidação sobre pesquisa científica; Caracterização dos diferentes tipos de pesquisa científica; Etapas da pesquisa científica; Pesquisa bibliográfica; Tipos de pesquisa; Estruturação de trabalhos científicos; Ética em pesquisa.
 
-## Parana MinisteriodaEducacao 
+BIBLIOGRAFIA BÁSICA:
 
-COMPONENTE CURRICULAR: Metodologia Científica 
+MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Fundamentos de metodologia científica. 7. ed. São Paulo: Atlas, 2010. TEIXEIRA, E. As três metodologias: acadêmica, da ciência e da pesquisa. 10. ed. Petrópolis: Vozes, 2005. FLICK, U. Introdução à Metodologia de Pesquisa: um guia para iniciantes. Porto Alegre: Penso, 2013. GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 5. ed. São Paulo: Atlas, 2010. SANTOS, J. A.; PARRA FILHO, D. Metodologia científica. 2. ed. São Paulo: Cengage Learning, 2011.
 
-CARGA HORÁRIA: 48 Hora/aula e 40 Hora/relógio (60 min.) 
+BIBLIOGRAFIA COMPLEMENTAR: KÖCHE, J C. Fundamento de metodologia cientifica: teoria da ciência e pratica da pesquisa. 15.ed.-. Petrópolis: Vozes, 1999. ANDRADE, M M . Introdução à metodologia do trabalho científico: elaboração de trabalhos na graduação. 5. ed. São Paulo: Atlas, 2001. BASTOS, L.R. et al. Manual para a elaboração de projetos e relatórios de pesquisa, teses dissertações e monografias. 6. ed. Rio de Janeiro: LTC, 2003. BARROS, A. J. P.; LEHFELD, N. A. S. Fundamentos de metodologia científica. 3. ed. São Paulo: Pearson Prentice Hall, 2007. BOOTH, W. C.; COLOMB, G. G.; WILLIAMS, J. M. A arte da pesquisa. 2.ed. São Paulo: Martins Fontes, 2005.
 
-EMENTA: Diferenciação dos diversos tipos de conhecimentos: senso comum, empírico, místico e cientifico; Elucidação sobre pesquisa científica; Caracterização dos diferentes tipos de pesquisa científica; Etapas da pesquisa científica; Pesquisa bibliográfica; Tipos de pesquisa; Estruturação de trabalhos científicos; Ética em pesquisa. 
+66
 
-BIBLIOGRAFIA BÁSICA: 
+Parana MinisteriodaEducacao
 
-MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Fundamentos de metodologia científica. 7. ed. São Paulo: Atlas, 2010. TEIXEIRA, E. As três metodologias: acadêmica, da ciência e da pesquisa. 10. ed. Petrópolis: Vozes, 2005. FLICK, U. Introdução à Metodologia de Pesquisa: um guia para iniciantes. Porto Alegre: Penso, 2013. GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 5. ed. São Paulo: Atlas, 2010. SANTOS, J. A.; PARRA FILHO, D. Metodologia científica. 2. ed. São Paulo: Cengage Learning, 2011. 
+## INSTITUTOFEDERAL
 
-BIBLIOGRAFIA COMPLEMENTAR: KÖCHE, J C. Fundamento de metodologia cientifica: teoria da ciência e pratica da pesquisa. 15.ed.-. Petrópolis: Vozes, 1999. ANDRADE, M M . Introdução à metodologia do trabalho científico: elaboração de trabalhos na graduação. 5. ed. São Paulo: Atlas, 2001. BASTOS, L.R. et al. Manual para a elaboração de projetos e relatórios de pesquisa, teses dissertações e monografias. 6. ed. Rio de Janeiro: LTC, 2003. BARROS, A. J. P.; LEHFELD, N. A. S. Fundamentos de metodologia científica. 3. ed. São Paulo: Pearson Prentice Hall, 2007. BOOTH, W. C.; COLOMB, G. G.; WILLIAMS, J. M. A arte da pesquisa. 2.ed. São Paulo: Martins Fontes, 2005. 
+COMPONENTE CURRICULAR: Massoterapia Drenagem Linfática Manual - DLM
 
-66 
+CARGA HORÁRIA: 120 Hora/aula e 100 Hora/relógio (60 min.)
 
-Parana MinisteriodaEducacao 
+EMENTA: Estudo do sistema linfático, anatomia e fisiologia. Estudo da drenagem linfática corporal e facial. Execução de técnicas de drenagens. Contextualização dos fundamentos teóricos e práticos.
 
-## INSTITUTOFEDERAL 
+BIBLIOGRAFIA BÁSICA: GUIRRO, R; GUIRRO, E. Fisioterapia Dermato-Funcional: fundamentos, recursos e patologias. 3ª Ed. Manole: São Paulo, 2004.
 
-COMPONENTE CURRICULAR: Massoterapia Drenagem Linfática Manual - DLM 
+LEDUC, A; LEDUC, O. Drenagem linfática. Barueri: Manole, 2007. HERPERTZ, U. Edema e Drenagem Linfática. 2ª Ed. Roca: São Paulo, 2006.
 
-CARGA HORÁRIA: 120 Hora/aula e 100 Hora/relógio (60 min.) 
+FÖLDI, M. STRÖSSENREUTHER, R. H. K. Princípios de drenagem linfática. 4. ed. Barueri: Manole, 2012.
 
-EMENTA: Estudo do sistema linfático, anatomia e fisiologia. Estudo da drenagem linfática corporal e facial. Execução de técnicas de drenagens. Contextualização dos fundamentos teóricos e práticos. 
+GUYTON, A. C. Fisiologia humana e mecanismos das doenças. 10ª Ed. Rio de Janeiro: Guanabara Koogan, 2002.
 
-BIBLIOGRAFIA BÁSICA: GUIRRO, R; GUIRRO, E. Fisioterapia Dermato-Funcional: fundamentos, recursos e patologias. 3ª Ed. Manole: São Paulo, 2004. 
+BIBLIOGRAFIA COMPLEMENTAR: FRITZ, S. Fundamentos da massagem terapêutica. 2ª Ed. Barueri: Manole, 2002. VASCONCELOS, Maria Goreti de. Princípios de drenagem linfática. 1. ed. São Paulo: Érica, c2015.
 
-LEDUC, A; LEDUC, O. Drenagem linfática. Barueri: Manole, 2007. HERPERTZ, U. Edema e Drenagem Linfática. 2ª Ed. Roca: São Paulo, 2006. 
+ELWING, A; SANCHES, O. Drenagem linfática manual: teoria e prática. São Paulo: Senac Nacional, 2010.
 
-FÖLDI, M. STRÖSSENREUTHER, R. H. K. Princípios de drenagem linfática. 4. ed. Barueri: Manole, 2012. 
+GUSMÃO, C. Drenagem linfática manual: método Dr. Vodder. São Paulo: Atheneu, 2010. MONSTERLEET, G. Drenagem linfática: guia completo de técnica e fisiologia. Barueri: Manole, 2011.
 
-GUYTON, A. C. Fisiologia humana e mecanismos das doenças. 10ª Ed. Rio de Janeiro: Guanabara Koogan, 2002. 
+67
 
-BIBLIOGRAFIA COMPLEMENTAR: FRITZ, S. Fundamentos da massagem terapêutica. 2ª Ed. Barueri: Manole, 2002. VASCONCELOS, Maria Goreti de. Princípios de drenagem linfática. 1. ed. São Paulo: Érica, c2015. 
+MinisteriodaEducacao
 
-ELWING, A; SANCHES, O. Drenagem linfática manual: teoria e prática. São Paulo: Senac Nacional, 2010. 
+## INSTITUTOFEDERAL
 
-GUSMÃO, C. Drenagem linfática manual: método Dr. Vodder. São Paulo: Atheneu, 2010. MONSTERLEET, G. Drenagem linfática: guia completo de técnica e fisiologia. Barueri: Manole, 2011. 
+Parana
 
-67 
+COMPONENTE CURRICULAR: Bioquímica
 
-MinisteriodaEducacao 
+CARGA HORÁRIA: 48 Hora/aula e 40 Hora/relógio (60 min.)
 
-## INSTITUTOFEDERAL 
+EMENTA: Propriedades físico-químicas e aspectos funcionais das biomoléculas constituintes do organismo humano. Aminoácidos, proteínas e enzimas. Ácidos nucleicos. Carboidratos. Lipídeos. Vitaminas e coenzimas. Metabolismo e principais vias metabólicas. Relações nutricionais e desencadeamento de estados patológicos.
 
-Parana 
+## BIBLIOGRAFIA BÁSICA:
 
-COMPONENTE CURRICULAR: Bioquímica 
+NELSON, D. L., COX, M. M. Princípios de Bioquímica de Lehninger. 6. ed. Porto Alegre: Artmed, 2014
 
-CARGA HORÁRIA: 48 Hora/aula e 40 Hora/relógio (60 min.) 
+MARZZOCO A, Torres B. Bioquímica Básica. 3 ed. Rio de Janeiro: Guanabara Koogan, 2013; HARVEY R, Ferreira D. Bioquímica ilustrada. Porto Alegre: Artmed, 2012;
 
-EMENTA: Propriedades físico-químicas e aspectos funcionais das biomoléculas constituintes do organismo humano. Aminoácidos, proteínas e enzimas. Ácidos nucleicos. Carboidratos. Lipídeos. Vitaminas e coenzimas. Metabolismo e principais vias metabólicas. Relações nutricionais e desencadeamento de estados patológicos. 
+VOETT, VOETT, PRATT. Fundamentos da Bioquímica. 4 ed Porto Alegre: ARTMED, 2014. BERG, J. M.; TYMOCZKO, J. L.; STRYER, L. O. Bioquímica. 5 ed. Rio de Janeiro: Guanabara Koogan, 2004.
 
-## BIBLIOGRAFIA BÁSICA: 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-NELSON, D. L., COX, M. M. Princípios de Bioquímica de Lehninger. 6. ed. Porto Alegre: Artmed, 2014 
+MAYLER L. Fundamentos da Bioquímica. Curitiba: Livro Técnico, 2012. COSTANZO, L. Fisiologia. 4 ed Rio de Janeiro: Elsevier, 2011.
 
-MARZZOCO A, Torres B. Bioquímica Básica. 3 ed. Rio de Janeiro: Guanabara Koogan, 2013; HARVEY R, Ferreira D. Bioquímica ilustrada. Porto Alegre: Artmed, 2012; 
+FOX, S.I. Fisiologia Humana. 7ªed. Editora Manole. São Paulo, 2007 BRAUN MB, Simonson S. Massoterapia. São Paulo: Manole, 2007.
 
-VOETT, VOETT, PRATT. Fundamentos da Bioquímica. 4 ed Porto Alegre: ARTMED, 2014. BERG, J. M.; TYMOCZKO, J. L.; STRYER, L. O. Bioquímica. 5 ed. Rio de Janeiro: Guanabara Koogan, 2004. 
+WERNER, R. Guia de Patologia para Massoterapeutas. 2ªed. Editora Guanabara Koogan. Rio de Janeiro, 2005.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+68
 
-MAYLER L. Fundamentos da Bioquímica. Curitiba: Livro Técnico, 2012. COSTANZO, L. Fisiologia. 4 ed Rio de Janeiro: Elsevier, 2011. 
+Parana MinisteriodaEducacao
 
-FOX, S.I. Fisiologia Humana. 7ªed. Editora Manole. São Paulo, 2007 BRAUN MB, Simonson S. Massoterapia. São Paulo: Manole, 2007. 
+## INSTITUTOFEDERAL
 
-WERNER, R. Guia de Patologia para Massoterapeutas. 2ªed. Editora Guanabara Koogan. Rio de Janeiro, 2005. 
+COMPONENTE CURRICULAR: Neuroanatomia
 
-68 
+CARGA HORÁRIA: 48 Hora/aula e 40 Hora/relógio (60 min.)
 
-Parana MinisteriodaEducacao 
+EMENTA: Desenvolvimento embrionário e organização geral do tecido nervoso. Anatomia microscópica e aspectos funcionais dos principais tipos celulares do sistema nervoso. Mecanismos de transmissão sináptica. Divisões do sistema nervoso e compreensão dos aspectos morfológicos e funcionais de seus elementos constituintes. Nervos em geral, vias aferentes e eferentes e sensibilidade.
 
-## INSTITUTOFEDERAL 
+BIBLIOGRAFIA BÁSICA:
 
-COMPONENTE CURRICULAR: Neuroanatomia 
+MACHADO, A. B. M; HAERTEL, L. M. Neuroanatomia Funcional _._ 3. ed. São Paulo: Atheneu, 2014.
 
-CARGA HORÁRIA: 48 Hora/aula e 40 Hora/relógio (60 min.) 
+COSENZA, R. M. Fundamentos de Neuroanatomia. 4. ed. Rio de Janeiro: Guanabara Koogan, 2013. PROSDOCIMI, F. S.; SCHMIDT, A. G. Manual de Neuroanatomia Humana - Guia Prático. 1. ed. São Paulo: Roca, 2014.
 
-EMENTA: Desenvolvimento embrionário e organização geral do tecido nervoso. Anatomia microscópica e aspectos funcionais dos principais tipos celulares do sistema nervoso. Mecanismos de transmissão sináptica. Divisões do sistema nervoso e compreensão dos aspectos morfológicos e funcionais de seus elementos constituintes. Nervos em geral, vias aferentes e eferentes e sensibilidade. 
+MENESES, M. S. Neuroanatomia Aplicada. 3. ed. Rio de Janeiro: Guanabara Koogan, 2011. AFIFI, A. K.; BERGMAN, R. A. Neuroanatomia funcional - texto e atlas. 2. ed. São Paulo: Roca, 2008.
 
-BIBLIOGRAFIA BÁSICA: 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-MACHADO, A. B. M; HAERTEL, L. M. Neuroanatomia Funcional _._ 3. ed. São Paulo: Atheneu, 2014. 
+LENT, R. Cem Bilhões de Neurônios? Conceitos Fundamentais de Neurociência. 2. ed. São Paulo: Atheneu, 2010.
 
-COSENZA, R. M. Fundamentos de Neuroanatomia. 4. ed. Rio de Janeiro: Guanabara Koogan, 2013. PROSDOCIMI, F. S.; SCHMIDT, A. G. Manual de Neuroanatomia Humana - Guia Prático. 1. ed. São Paulo: Roca, 2014. 
+BEAR, M. F.; CONNORS, B . W.; PARADISO, M. A. Neurociências, desvendando o sistema nervoso. 4. ed. Porto Alegre: Armed, 2017.
 
-MENESES, M. S. Neuroanatomia Aplicada. 3. ed. Rio de Janeiro: Guanabara Koogan, 2011. AFIFI, A. K.; BERGMAN, R. A. Neuroanatomia funcional - texto e atlas. 2. ed. São Paulo: Roca, 2008. 
+SNELL, R. S. Neuroanatomia clínica. 7. ed. Rio de Janeiro: Guanabara Koogan, 2010. MARTINEZ, A. M. B.; ALLODI, S.; UZIEL, D. Neuroanatomia essencial. 1. ed. Rio de Janeiro: Guanabara Koogan, 2014.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+TORTORA, G. J.; DERRICKSON, B. Corpo Humano: Fundamentos de Anatomia e Fisiologia. 10. ed. Porto Alegre: Artmed, 2016.
 
-LENT, R. Cem Bilhões de Neurônios? Conceitos Fundamentais de Neurociência. 2. ed. São Paulo: Atheneu, 2010. 
+69
 
-BEAR, M. F.; CONNORS, B . W.; PARADISO, M. A. Neurociências, desvendando o sistema nervoso. 4. ed. Porto Alegre: Armed, 2017. 
+MinisteriodaEducacao
 
-SNELL, R. S. Neuroanatomia clínica. 7. ed. Rio de Janeiro: Guanabara Koogan, 2010. MARTINEZ, A. M. B.; ALLODI, S.; UZIEL, D. Neuroanatomia essencial. 1. ed. Rio de Janeiro: Guanabara Koogan, 2014. 
+## INSTITUTOFEDERAL
 
-TORTORA, G. J.; DERRICKSON, B. Corpo Humano: Fundamentos de Anatomia e Fisiologia. 10. ed. Porto Alegre: Artmed, 2016. 
+## Parana
 
-69 
+COMPONENTE CURRICULAR: Bioética e Legislação
 
-MinisteriodaEducacao 
+CARGA HORÁRIA: 48 Hora/aula e 40 Hora/relógio (60 min.)
 
-## INSTITUTOFEDERAL 
+## EMENTA:
 
-## Parana 
+Contexto histórico da Bioética na saúde, Bioética nas diretrizes profissionais da saúde, Princípios da Bioética, Ética profissional do trabalhador na área de saúde; Estudos, reflexões e práticas sobre os diferentes contextos de relacionamento humano: Preconceito racial, estatuto da Igualdade Racial ((Lei nº 12.288, de Julho de 2010), Educação das relações étnico-raciais e histórica\cultura Afro-brasileira e Africana ( lei nº 10.639, de 9 de janeiro de 2003; (Lei nº 11.645 de 10 de março de 2008, resolução CNE\CP Nº 01de 17 de junho de 2004; Diversidade de gênero conceito de gênero do Plano Nacional de Educação- PNE (Lei nº 13.005, de 25 de junho de 2004), Estatuto da Criança e Adolescente (Lei nº 8.069, de 13 de julho de 1990, legislação correlata. Atualizada em 23/7/2014); Estatuto do idoso (Lei nº 10.741, de 1º de outubro de 2003), Estatuto da pessoa com Deficiência (Lei nº   13.146\2015) ; Código de Defesa do Consumidor (Lei nº   8.078; Lei nº   13.425), Exercício da profissão de Massagista Lei nº 3.968 de 05 de outubro de 1961); Constituição da República Federativa do Brasil|88
 
-COMPONENTE CURRICULAR: Bioética e Legislação 
+BIBLIOGRAFIA BÁSICA:
 
-CARGA HORÁRIA: 48 Hora/aula e 40 Hora/relógio (60 min.) 
+RAMOS DLP. Bioética: pessoa e vida. São Caetano do Sul: Difusão, 2009; URBAN CA. Bioética clínica. Rio de Janeiro: Revinter, 2003; POTTER VR. Bioética- Ponte para o futuro. São Paulo: Loyola, 2009; SGRECCIA E. Manual de Bioética. Fundamentos e ética biomédica. São Paulo: Loyola, 2000. GARRAFA V, GORDON J. Pesquisa em Bioética no Brasil de hoje. São Paulo: Gaia, 2006.
 
-## EMENTA: 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-Contexto histórico da Bioética na saúde, Bioética nas diretrizes profissionais da saúde, Princípios da Bioética, Ética profissional do trabalhador na área de saúde; Estudos, reflexões e práticas sobre os diferentes contextos de relacionamento humano: Preconceito racial, estatuto da Igualdade Racial ((Lei nº 12.288, de Julho de 2010), Educação das relações étnico-raciais e histórica\cultura Afro-brasileira e Africana ( lei nº 10.639, de 9 de janeiro de 2003; (Lei nº 11.645 de 10 de março de 2008, resolução CNE\CP Nº 01de 17 de junho de 2004; Diversidade de gênero conceito de gênero do Plano Nacional de Educação- PNE (Lei nº 13.005, de 25 de junho de 2004), Estatuto da Criança e Adolescente (Lei nº 8.069, de 13 de julho de 1990, legislação correlata. Atualizada em 23/7/2014); Estatuto do idoso (Lei nº 10.741, de 1º de outubro de 2003), Estatuto da pessoa com Deficiência (Lei nº   13.146\2015) ; Código de Defesa do Consumidor (Lei nº   8.078; Lei nº   13.425), Exercício da profissão de Massagista Lei nº 3.968 de 05 de outubro de 1961); Constituição da República Federativa do Brasil|88 
+PESSINI L, BARCHIFONTAINE CP. Bioética e Longevidade humana. São Paulo: Centro Universitário São Camilo: gráfica Coimbra, 2006;
 
-BIBLIOGRAFIA BÁSICA: 
+SEGRE M, COHEN C. Bioética. 3 ed. São Paulo: Editora da USP, 2002; SILVA JV. Bioética: meio ambiente, saúde e pesquisa. São Paulo: Erica, 2006; BAUMAN, Z. O mal-estar da pósmodernidade. Rio de Janeiro: J. Zahar, 1998 BRASIL. Constituição Federal de 1988.
 
-RAMOS DLP. Bioética: pessoa e vida. São Caetano do Sul: Difusão, 2009; URBAN CA. Bioética clínica. Rio de Janeiro: Revinter, 2003; POTTER VR. Bioética- Ponte para o futuro. São Paulo: Loyola, 2009; SGRECCIA E. Manual de Bioética. Fundamentos e ética biomédica. São Paulo: Loyola, 2000. GARRAFA V, GORDON J. Pesquisa em Bioética no Brasil de hoje. São Paulo: Gaia, 2006. 
+70
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+INSTITUTOFEDERAL Parana MinisteriodaEducacao
 
-PESSINI L, BARCHIFONTAINE CP. Bioética e Longevidade humana. São Paulo: Centro Universitário São Camilo: gráfica Coimbra, 2006; 
+COMPONENTE CURRICULAR: Práticas Taoístas III
 
-SEGRE M, COHEN C. Bioética. 3 ed. São Paulo: Editora da USP, 2002; SILVA JV. Bioética: meio ambiente, saúde e pesquisa. São Paulo: Erica, 2006; BAUMAN, Z. O mal-estar da pósmodernidade. Rio de Janeiro: J. Zahar, 1998 BRASIL. Constituição Federal de 1988. 
+CARGA HORÁRIA: 24 Hora/aula e 20 Hora/relógio (60 min.)
 
-70 
+EMENTA: Tsuei Shou, Pá Kuá, Chi Kung, Meditação, Respiração Energética, Do In, Qi Gong, Treino da energia da Mão, Circulação Energética.
 
-INSTITUTOFEDERAL Parana MinisteriodaEducacao 
+BIBLIOGRAFIA BÁSICA:
 
-COMPONENTE CURRICULAR: Práticas Taoístas III 
+LEE, M. L. LIANG GONG em 18 terapias, forjando um corpo saudável ginástica chinesa do DR. Zhuang yuen Ming. 12. Ed. São Paulo: Pensamento, 2010.
 
-CARGA HORÁRIA: 24 Hora/aula e 20 Hora/relógio (60 min.) 
+NGHI, N. V. Chi Kung Gimnasia medical china. 1. Ed. Cabal. Madrid, 1980. MACIOCIA, G. Fundamentos de Medicina Chinesa. 2ª ed. São Paulo: Roca, 2007. MACIOCIA G. Canais de Acupuntura.São Paulo: Roca, 2007.
 
-EMENTA: Tsuei Shou, Pá Kuá, Chi Kung, Meditação, Respiração Energética, Do In, Qi Gong, Treino da energia da Mão, Circulação Energética. 
+YAMAMURA, Ysao . Acupuntura Tradicional: a arte de inserir. São Paulo: Roca, 2001.
 
-BIBLIOGRAFIA BÁSICA: 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-LEE, M. L. LIANG GONG em 18 terapias, forjando um corpo saudável ginástica chinesa do DR. Zhuang yuen Ming. 12. Ed. São Paulo: Pensamento, 2010. 
+JUNG, C. G. 13 estudos alquímicos. 4. Ed. Petropolis: Vozes, 2016. BERRY, C. R. Memória Corporal. Rio de Janeira: Nova era, 2003. CAPRA, F. O ponto de mutação. 35. Ed. São Paulo: Cutrix, 2016.
 
-NGHI, N. V. Chi Kung Gimnasia medical china. 1. Ed. Cabal. Madrid, 1980. MACIOCIA, G. Fundamentos de Medicina Chinesa. 2ª ed. São Paulo: Roca, 2007. MACIOCIA G. Canais de Acupuntura.São Paulo: Roca, 2007. 
+FOCKS, Claudia; MARZ, Ulrich. Atlas de Acupuntura. São Paulo: Manole, 2005. MARTINS, E. I. S; LEONELLI, L. B. Do-In, Shiatsu e Acupuntura: Uma Visão Chinesa do Toque Terapêutico. 2ªed. São Paulo: Roca, 2001.
 
-YAMAMURA, Ysao . Acupuntura Tradicional: a arte de inserir. São Paulo: Roca, 2001. 
+71
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+## INSTITUTOFEDERAL
 
-JUNG, C. G. 13 estudos alquímicos. 4. Ed. Petropolis: Vozes, 2016. BERRY, C. R. Memória Corporal. Rio de Janeira: Nova era, 2003. CAPRA, F. O ponto de mutação. 35. Ed. São Paulo: Cutrix, 2016. 
+Parana
 
-FOCKS, Claudia; MARZ, Ulrich. Atlas de Acupuntura. São Paulo: Manole, 2005. MARTINS, E. I. S; LEONELLI, L. B. Do-In, Shiatsu e Acupuntura: Uma Visão Chinesa do Toque Terapêutico. 2ªed. São Paulo: Roca, 2001. 
+Ministerio da Educagao<br>
 
-71 
+**5º semestre**
 
-## INSTITUTOFEDERAL 
+COMPONENTE CURRICULAR: Gestão Empreendedora
 
-Parana 
+CARGA HORÁRIA: 48 Hora/aula e 40 Hora/relógio (60 min.)
 
-**==> picture [64 x 11] intentionally omitted <==**
+EMENTA: Conceito de empreendedorismo e empreendimento. Perfil do empreendedor. Geração de Ideias. Busca de Informações. Mecanismos e procedimentos para criação de empresas. Gerenciamento de negociação. Qualidade de competitividade. Marketing pessoal e empresarial. Gestão de empreendimentos. O plano de negócio. Avaliação de mercado.
 
-**----- Start of picture text -----**<br>
-Ministerio da Educagao<br>**----- End of picture text -----**<br>
+BIBLIOGRAFIA BÁSICA:
 
+DRUCKER, Peter Ferdinand. Inovação e espírito empreendedor (entrepreneurship): prática e princípios. 1. ed. rev. São Paulo: Cengage Learning, 2017. 383 p. ISBN 9788522126682. SALIM, Cesar Simões. Administração empreendedora: teoria e prática usando estudo de casos. Rio de Janeiro: Campus, 2004. 226 p. MAXIMIANO, Antonio Cesar Amaru. Administração para empreendedores. 2. ed. São Paulo: Pearson, 2011. 240 p.
 
-**5º semestre** 
+TERRA, José Cláudio Cyrineu et al. 10 dimensões da gestão da inovação: uma abordagem para a transformação organizacional. Rio de Janeiro: Elsevier, 2012. 317 p. CORTELLA, Mario Sergio. Qual é a tua obra? Inquietações propositivas sobre gestão, liderança e ética. 21. ed. Petrópolis: Vozes, 2013. 141 p.
 
-COMPONENTE CURRICULAR: Gestão Empreendedora 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-CARGA HORÁRIA: 48 Hora/aula e 40 Hora/relógio (60 min.) 
+PASSOS, Alfredo; NAJJAR, Eduardo Rienzo. Carreira e marketing pessoal: da teoria à prática. 2. ed. São Paulo: Negócio, 1999. 203 p. FERREIRA, Victor Cláudio Paradela. Modelos de gestão. 3. ed. Rio de Janeiro: FGV, 2009. 192 p. (Gestão de pessoas). PESCE, Bel. A menina do Vale: como o empreendedorismo pode mudar a sua vida. Rio de Janeiro: Casa da Palavra, 2012.
 
-EMENTA: Conceito de empreendedorismo e empreendimento. Perfil do empreendedor. Geração de Ideias. Busca de Informações. Mecanismos e procedimentos para criação de empresas. Gerenciamento de negociação. Qualidade de competitividade. Marketing pessoal e empresarial. Gestão de empreendimentos. O plano de negócio. Avaliação de mercado. 
+SCHELL, Jim; FRAZÃO FILHO, Luiz Euclydes Trindade. Guia para gerenciar pequenas empresas: como fazer a transição para uma gestão empreendedora. Rio de Janeiro: Campus, 1995, c1994. XVI, 271 p. MAXIMIANO, Antonio Cesar Amaru. Administração para empreendedores. 2. ed. São Paulo: Pearson, 2011. 240 p.
 
-BIBLIOGRAFIA BÁSICA: 
+72
 
-DRUCKER, Peter Ferdinand. Inovação e espírito empreendedor (entrepreneurship): prática e princípios. 1. ed. rev. São Paulo: Cengage Learning, 2017. 383 p. ISBN 9788522126682. SALIM, Cesar Simões. Administração empreendedora: teoria e prática usando estudo de casos. Rio de Janeiro: Campus, 2004. 226 p. MAXIMIANO, Antonio Cesar Amaru. Administração para empreendedores. 2. ed. São Paulo: Pearson, 2011. 240 p. 
+MinisteriodaEducacao
 
-TERRA, José Cláudio Cyrineu et al. 10 dimensões da gestão da inovação: uma abordagem para a transformação organizacional. Rio de Janeiro: Elsevier, 2012. 317 p. CORTELLA, Mario Sergio. Qual é a tua obra? Inquietações propositivas sobre gestão, liderança e ética. 21. ed. Petrópolis: Vozes, 2013. 141 p. 
+## INSTITUTOFEDERAL
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+Parana
 
-PASSOS, Alfredo; NAJJAR, Eduardo Rienzo. Carreira e marketing pessoal: da teoria à prática. 2. ed. São Paulo: Negócio, 1999. 203 p. FERREIRA, Victor Cláudio Paradela. Modelos de gestão. 3. ed. Rio de Janeiro: FGV, 2009. 192 p. (Gestão de pessoas). PESCE, Bel. A menina do Vale: como o empreendedorismo pode mudar a sua vida. Rio de Janeiro: Casa da Palavra, 2012. 
+COMPONENTE CURRICULAR: Trabalho de Conclusão de Curso - TCC
 
-SCHELL, Jim; FRAZÃO FILHO, Luiz Euclydes Trindade. Guia para gerenciar pequenas empresas: como fazer a transição para uma gestão empreendedora. Rio de Janeiro: Campus, 1995, c1994. XVI, 271 p. MAXIMIANO, Antonio Cesar Amaru. Administração para empreendedores. 2. ed. São Paulo: Pearson, 2011. 240 p. 
+CARGA HORÁRIA: 72 Hora/aula e 60 Hora/relógio (60 min.)
 
-72 
+EMENTA: O Trabalho de Conclusão de Curso (TCC) integrar conhecimentos adquiridos no Curso Técnico em Massoterapia. Estruturação do TCC; Orientação metodológica no desenvolvimento do TCC.
 
-MinisteriodaEducacao 
+BIBLIOGRAFIA BÁSICA:
 
-## INSTITUTOFEDERAL 
+MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Fundamentos de metodologia científica. 7. ed. São Paulo: Atlas, 2010.
 
-Parana 
+TEIXEIRA, Elizabeth. As três metodologias: acadêmica, da ciência e da pesquisa. 10. ed. Petrópolis: Vozes, c2005.
 
-COMPONENTE CURRICULAR: Trabalho de Conclusão de Curso - TCC 
+FLICK, Uwe. Introdução à Metodologia de Pesquisa: um guia para iniciantes. Porto Alegre: Penso, 2013.
 
-CARGA HORÁRIA: 72 Hora/aula e 60 Hora/relógio (60 min.) 
+GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 5. ed. São Paulo: Atlas, 2010. 184 p. SANTOS, João Almeida; PARRA FILHO, Domingos. Metodologia científica. 2. ed. São Paulo: Cengage Learning, 2011.
 
-EMENTA: O Trabalho de Conclusão de Curso (TCC) integrar conhecimentos adquiridos no Curso Técnico em Massoterapia. Estruturação do TCC; Orientação metodológica no desenvolvimento do TCC. 
+BIBLIOGRAFIA COMPLEMENTAR:
 
-BIBLIOGRAFIA BÁSICA: 
+KÖCHE, José Carlos. Fundamentos de metodologia cientifica: teoria da ciência e pratica da pesquisa. 15.ed.-. Petropolis: Vozes, 1999.
 
-MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Fundamentos de metodologia científica. 7. ed. São Paulo: Atlas, 2010. 
+ANDRADE, Maria Margarida de. Introdução à metodologia do trabalho científico: elaboração de trabalhos na graduação. 5. ed. São Paulo: Atlas, 2001.
 
-TEIXEIRA, Elizabeth. As três metodologias: acadêmica, da ciência e da pesquisa. 10. ed. Petrópolis: Vozes, c2005. 
+BASTOS, Lília da Rocha et al. Manual para a elaboração de projetos e relatórios de pesquisa, teses dissertações e monografias. 6. ed. Rio de Janeiro: LTC, 2003.
 
-FLICK, Uwe. Introdução à Metodologia de Pesquisa: um guia para iniciantes. Porto Alegre: Penso, 2013. 
+BARROS, Aidil de Jesus Paes de; LEHFELD, Neide Aparecida de Souza. Fundamentos de metodologia científica. 3. ed. São Paulo: Pearson Prentice Hall, 2007.
 
-GIL, Antonio Carlos. Como elaborar projetos de pesquisa. 5. ed. São Paulo: Atlas, 2010. 184 p. SANTOS, João Almeida; PARRA FILHO, Domingos. Metodologia científica. 2. ed. São Paulo: Cengage Learning, 2011. 
+BOOTH, Wayne C.; COLOMB, Gregory G.; WILLIAMS, Joseph M. A arte da pesquisa. 2.ed. São Paulo: Martins Fontes, 2005.
 
-BIBLIOGRAFIA COMPLEMENTAR: 
+73
 
-KÖCHE, José Carlos. Fundamentos de metodologia cientifica: teoria da ciência e pratica da pesquisa. 15.ed.-. Petropolis: Vozes, 1999. 
+MinisteriodaEducacao
 
-ANDRADE, Maria Margarida de. Introdução à metodologia do trabalho científico: elaboração de trabalhos na graduação. 5. ed. São Paulo: Atlas, 2001. 
+## INSTITUTOFEDERAL
 
-BASTOS, Lília da Rocha et al. Manual para a elaboração de projetos e relatórios de pesquisa, teses dissertações e monografias. 6. ed. Rio de Janeiro: LTC, 2003. 
+Parana
 
-BARROS, Aidil de Jesus Paes de; LEHFELD, Neide Aparecida de Souza. Fundamentos de metodologia científica. 3. ed. São Paulo: Pearson Prentice Hall, 2007. 
+COMPONENTE CURRICULAR: Bioestatística
 
-BOOTH, Wayne C.; COLOMB, Gregory G.; WILLIAMS, Joseph M. A arte da pesquisa. 2.ed. São Paulo: Martins Fontes, 2005. 
+CARGA HORÁRIA: 48 Hora/aula e 40 Hora/relógio (60 min.)
 
-73 
+EMENTA: Introdução: conceitos iniciais e objetivos da estatística. Fases de um trabalho estatístico. População e amostra. Variáveis qualitativas e variáveis quantitativas. Variáveis discretas e variáveis contínuas. Séries estatísticas e gráficas. Distribuição de frequências. Medidas de posição. Medidas de dispersão. Probabilidade. Testes de hipóteses.
 
-MinisteriodaEducacao 
+BIBLIOGRAFIA BÁSICA:
 
-## INSTITUTOFEDERAL 
+CALLEGARI-JACQUES, S. M. Bioestatística: princípios e aplicações. 1a edição, Porto Alegre: Artmed, 2003.
 
-Parana 
+CRESPO, A. A. Estatística Fácil. 19a edição, São Paulo: Saraiva, 2009.
 
-COMPONENTE CURRICULAR: Bioestatística 
+COSTA, S. F. Introdução ilustrada à estatística. 5a edição, São Paulo: Harbra, 2013. VIEIRA, S; WADA, R. O que é estatística (Coleção primeiros passos). 2a edição, São Paulo: Brasiliense, 2010.
 
-CARGA HORÁRIA: 48 Hora/aula e 40 Hora/relógio (60 min.) 
+KENNETH, R. et al. Epidemiologia moderna. 3a edição, Porto Alegre: Artmed, 2011.
 
-EMENTA: Introdução: conceitos iniciais e objetivos da estatística. Fases de um trabalho estatístico. População e amostra. Variáveis qualitativas e variáveis quantitativas. Variáveis discretas e variáveis contínuas. Séries estatísticas e gráficas. Distribuição de frequências. Medidas de posição. Medidas de dispersão. Probabilidade. Testes de hipóteses. 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-BIBLIOGRAFIA BÁSICA: 
+COZBY, P. C. Métodos de pesquisa em ciências do comportamento. 1a edição, São Paulo: Atlas, 2014.
 
-CALLEGARI-JACQUES, S. M. Bioestatística: princípios e aplicações. 1a edição, Porto Alegre: Artmed, 2003. 
+NAGIB, H. Metodologia e estudos em ciência da saúde: como planejar, analisar e apresentar um trabalho, 1a edição. São Paulo: Roca, 2004.
 
-CRESPO, A. A. Estatística Fácil. 19a edição, São Paulo: Saraiva, 2009. 
+MUCELIN, C. A. Estatística. 1a edição, Curitiba: Editora do Livro Técnico, 2010 MORETTIN, P. A. Estatística básica. 8a edição, São Paulo: Saraiva, 2013. ROUQUARYOL, M. Z; SILVA, M. G. C. Epidemiologia & Saúde. 7a edição, Rio de Janeiro: Med Book, 2013.
 
-COSTA, S. F. Introdução ilustrada à estatística. 5a edição, São Paulo: Harbra, 2013. VIEIRA, S; WADA, R. O que é estatística (Coleção primeiros passos). 2a edição, São Paulo: Brasiliense, 2010. 
+74
 
-KENNETH, R. et al. Epidemiologia moderna. 3a edição, Porto Alegre: Artmed, 2011. 
+MinisteriodaEducacao
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+## INSTITUTOFEDERAL
 
-COZBY, P. C. Métodos de pesquisa em ciências do comportamento. 1a edição, São Paulo: Atlas, 2014. 
+Parana
 
-NAGIB, H. Metodologia e estudos em ciência da saúde: como planejar, analisar e apresentar um trabalho, 1a edição. São Paulo: Roca, 2004. 
+COMPONENTE CURRICULAR: Fenomenologia Corporal e dos Sentidos
 
-MUCELIN, C. A. Estatística. 1a edição, Curitiba: Editora do Livro Técnico, 2010 MORETTIN, P. A. Estatística básica. 8a edição, São Paulo: Saraiva, 2013. ROUQUARYOL, M. Z; SILVA, M. G. C. Epidemiologia & Saúde. 7a edição, Rio de Janeiro: Med Book, 2013. 
+CARGA HORÁRIA: 72 Hora/aula e 60 Hora/relógio 60 (60 min.)
 
-74 
+EMENTA: Influências histórico-filosóficas da constituição do pensamento humano, fenomenologia, fenomenologia da percepção, concepções corporais oriente\ocidente, arquétipos, pesquisa e extensão na área de Massoterapia.
 
-MinisteriodaEducacao 
+BIBLIOGRAFIA BÁSICA:
 
-## INSTITUTOFEDERAL 
+ARISTÓTELES. Metafísica. Tradução de Edson Bini. 2ed. São Paulo: Edipro, 2012
 
-Parana 
+. Física I e II. Tradução de Lucas Angioni. Campinas: Unicamp, 2009. DESCARTES, R. Meditações Metafísicas. Tradução Maria Ermantina de Almeida Prado Galvão. São Paulo: Folha de São Paulo, 2015.
 
-COMPONENTE CURRICULAR: Fenomenologia Corporal e dos Sentidos 
+PLATÃO. A República. Tradução de J. Guinsburg. São Paulo: Perspectiva, 2014. WILHELM, Richard (Trad.); Mutzenbecher, Alayde (Trad.); Pinto, Gustavo Alberto Corrêa (Trad.). I Ching: o livro das mutações. São Paulo: Pensamento, 2006.
 
-CARGA HORÁRIA: 72 Hora/aula e 60 Hora/relógio 60 (60 min.) 
+HUSSERL, Edmund. Ideias para uma fenomenologia pura. Tradução de Márcio Suzuki. Aparecida: Ideias&Letras, 2006.
 
-EMENTA: Influências histórico-filosóficas da constituição do pensamento humano, fenomenologia, fenomenologia da percepção, concepções corporais oriente\ocidente, arquétipos, pesquisa e extensão na área de Massoterapia. 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-BIBLIOGRAFIA BÁSICA: 
+BUZZI, A. R. Filosofia para principiantes: existência humana no mundo. Petrópolis: Vozes, 1992.
 
-ARISTÓTELES. Metafísica. Tradução de Edson Bini. 2ed. São Paulo: Edipro, 2012 
+CERBONE, D. R. Fenomenologia. Petrópolis: Vozes, 2012. JUNG, C. G. Estudos alquímicos. 4. Ed. Petrópolis: Vozes, 2016.
 
-. Física I e II. Tradução de Lucas Angioni. Campinas: Unicamp, 2009. DESCARTES, R. Meditações Metafísicas. Tradução Maria Ermantina de Almeida Prado Galvão. São Paulo: Folha de São Paulo, 2015. 
+MATTHEWS, E. Compreender Merleau-Ponty. Petrópolis: Vozes, 2010.
 
-PLATÃO. A República. Tradução de J. Guinsburg. São Paulo: Perspectiva, 2014. WILHELM, Richard (Trad.); Mutzenbecher, Alayde (Trad.); Pinto, Gustavo Alberto Corrêa (Trad.). I Ching: o livro das mutações. São Paulo: Pensamento, 2006. 
+MERLEAU-PONTY, M. Fenomenologia da percepção. Tradução Carlos Alberto Ribeiro de Moura. 2. ed. São Paulo: Martins Fontes, 1999.
 
-HUSSERL, Edmund. Ideias para uma fenomenologia pura. Tradução de Márcio Suzuki. Aparecida: Ideias&Letras, 2006. 
+75
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+INSTITUTOFEDERAL Parana MinisteriodaEducacao
 
-BUZZI, A. R. Filosofia para principiantes: existência humana no mundo. Petrópolis: Vozes, 1992. 
+COMPONENTE CURRICULAR: Reflexoterapia
 
-CERBONE, D. R. Fenomenologia. Petrópolis: Vozes, 2012. JUNG, C. G. Estudos alquímicos. 4. Ed. Petrópolis: Vozes, 2016. 
+CARGA HORÁRIA: 120 Hora/aula e 100 Hora/relógio (60 min.)
 
-MATTHEWS, E. Compreender Merleau-Ponty. Petrópolis: Vozes, 2010. 
+EMENTA: Estudo da reflexoterapia podal, histórico, bases fisiológicas, mapeamento, pontos reflexos e patologias. Execução da técnica da reflexologia podal e quirodal. Contextualização dos fundamentos teóricos e práticos.
 
-MERLEAU-PONTY, M. Fenomenologia da percepção. Tradução Carlos Alberto Ribeiro de Moura. 2. ed. São Paulo: Martins Fontes, 1999. 
+BIBLIOGRAFIA BÁSICA:
 
-75 
+GILLANDERS, A. Guia Completo de Reflexologia. São Paulo: Pensamento, 2008; MARQUARDT; H. Reflexoterapia pelos pés. São Paulo: Manole, 2005. MARQUARDT, H. KOLSTER, B.C; Reflexoterapia Massagem do Tecido Conjuntivo, Terapia das zonas reflexas dos pés. São Paulo: Manole, 2007. HALL, N. M. Reflexologia: Um Método Para Melhorar a Saúde. 4ª ed. São Paulo: Pensamento- Cultrix, 2009. LOURENÇO, O. T. Reflexologia Podal. 4ª ed. São Paulo: Ground, 2010.
 
-INSTITUTOFEDERAL Parana MinisteriodaEducacao 
+BIBLIOGRAFIA COMPLEMENTAR: FOX, S. I. Fisiologia Humana. 7ªed. Editora Manole. São Paulo, 2007. GILLANDERS, A. Reflexologia para Dor nas Costas. 1.ed. São Paulo; Pensamento - Cultrix; 2008. GILLANDERS, A. Reflexologia para Mulheres. 1.ed. São Paulo; Pensamento Cultrix, 2006. WILLS, P. Manual de Reflexologia e Cromoterapia. 7ª ed. São Paulo; Pensamento Cultrix, 2010. KAVANAGH.W.; Guia Completo de Massagem. 1ªed. São Paulo; Pensamento, 2010.
 
-COMPONENTE CURRICULAR: Reflexoterapia 
+76
 
-CARGA HORÁRIA: 120 Hora/aula e 100 Hora/relógio (60 min.) 
+MinisteriodaEducacao
 
-EMENTA: Estudo da reflexoterapia podal, histórico, bases fisiológicas, mapeamento, pontos reflexos e patologias. Execução da técnica da reflexologia podal e quirodal. Contextualização dos fundamentos teóricos e práticos. 
+## INSTITUTOFEDERAL
 
-BIBLIOGRAFIA BÁSICA: 
+## Parana
 
-GILLANDERS, A. Guia Completo de Reflexologia. São Paulo: Pensamento, 2008; MARQUARDT; H. Reflexoterapia pelos pés. São Paulo: Manole, 2005. MARQUARDT, H. KOLSTER, B.C; Reflexoterapia Massagem do Tecido Conjuntivo, Terapia das zonas reflexas dos pés. São Paulo: Manole, 2007. HALL, N. M. Reflexologia: Um Método Para Melhorar a Saúde. 4ª ed. São Paulo: Pensamento- Cultrix, 2009. LOURENÇO, O. T. Reflexologia Podal. 4ª ed. São Paulo: Ground, 2010. 
+COMPONENTE CURRICULAR: Massoterapia Terapêutica e Desportiva
 
-BIBLIOGRAFIA COMPLEMENTAR: FOX, S. I. Fisiologia Humana. 7ªed. Editora Manole. São Paulo, 2007. GILLANDERS, A. Reflexologia para Dor nas Costas. 1.ed. São Paulo; Pensamento - Cultrix; 2008. GILLANDERS, A. Reflexologia para Mulheres. 1.ed. São Paulo; Pensamento Cultrix, 2006. WILLS, P. Manual de Reflexologia e Cromoterapia. 7ª ed. São Paulo; Pensamento Cultrix, 2010. KAVANAGH.W.; Guia Completo de Massagem. 1ªed. São Paulo; Pensamento, 2010. 
+CARGA HORÁRIA: 120 Hora/aula e 100 Hora/relógio (60 min.)
 
-76 
+EMENTA: Identificação das necessidades para a manutenção das condições musculoesqueléticas do cliente através de anamnese e exame físico. Aplicação dos procedimentos massoterápicos de acordo com a complexidade necessária. Promoção da saúde e qualidade de vida através das manobras da massagem desportiva e da manipulação ou ajustamento vertebral, desbloqueio do sistema nervoso. Princípios e características da massagem terapêutica. Massagem Aplicada aos diferentes esportes.
 
-MinisteriodaEducacao 
+BIBLIOGRAFIA BÁSICA:
 
-## INSTITUTOFEDERAL 
+ARCHER, P. A Massagem terapêutica esportiva Barueri: Manole, 2008.
 
-## Parana 
+CHAITOW, L. Guia do terapeuta: massagem para dor lombar e pélvica. Rio de Janeiro: Elsevier, 2008.
 
-COMPONENTE CURRICULAR: Massoterapia Terapêutica e Desportiva 
+FRITZ, Sandy. Fundamentos da massagem terapêutica. 2.ed. São Paulo: Manole, 2002. TOBIAS, J. Massagem Desportiva. Maringá: Unicorpore, 2009; GOMES, AC. Treinamento Desportivo. 2 ed. Porto Alegre: Artmed, 2010;
 
-CARGA HORÁRIA: 120 Hora/aula e 100 Hora/relógio (60 min.) 
+BIBLIOGRAFIA COMPLEMENTAR: VAN STEEN, L. O reflexo vertebral: técnica das percussões e terapêutica, São Paulo Andrei, 1983.
 
-EMENTA: Identificação das necessidades para a manutenção das condições musculoesqueléticas do cliente através de anamnese e exame físico. Aplicação dos procedimentos massoterápicos de acordo com a complexidade necessária. Promoção da saúde e qualidade de vida através das manobras da massagem desportiva e da manipulação ou ajustamento vertebral, desbloqueio do sistema nervoso. Princípios e características da massagem terapêutica. Massagem Aplicada aos diferentes esportes. 
+CALVI, E. N. de C.; R. P. A; GELSI, T. A. Bambuterapia. 2. ed. São Caetano do Sul: Yendis, 2013.
 
-BIBLIOGRAFIA BÁSICA: 
+BRAUN, M. B; SIMONSON, S. J. Introdução à massoterapia. Barueri: Manole, 2007. MACGILLICUDDY M. Massagem para o desempenho Esportivo. Porto Alegre: Artmed, 2010; MORINI N. Bandagem Terapêutica. Conceito de Estimulação Tegumentar. ROCA, 2016
 
-ARCHER, P. A Massagem terapêutica esportiva Barueri: Manole, 2008. 
+77
 
-CHAITOW, L. Guia do terapeuta: massagem para dor lombar e pélvica. Rio de Janeiro: Elsevier, 2008. 
+## INSTITUTOFEDERAL
 
-FRITZ, Sandy. Fundamentos da massagem terapêutica. 2.ed. São Paulo: Manole, 2002. TOBIAS, J. Massagem Desportiva. Maringá: Unicorpore, 2009; GOMES, AC. Treinamento Desportivo. 2 ed. Porto Alegre: Artmed, 2010; 
+Parana
 
-BIBLIOGRAFIA COMPLEMENTAR: VAN STEEN, L. O reflexo vertebral: técnica das percussões e terapêutica, São Paulo Andrei, 1983. 
+Ministerio daEducacao<br>
 
-CALVI, E. N. de C.; R. P. A; GELSI, T. A. Bambuterapia. 2. ed. São Caetano do Sul: Yendis, 2013. 
+## **6º semestre**
 
-BRAUN, M. B; SIMONSON, S. J. Introdução à massoterapia. Barueri: Manole, 2007. MACGILLICUDDY M. Massagem para o desempenho Esportivo. Porto Alegre: Artmed, 2010; MORINI N. Bandagem Terapêutica. Conceito de Estimulação Tegumentar. ROCA, 2016 
+COMPONENTE CURRICULAR: Estágio
 
-77 
+CARGA HORÁRIA: 480 Hora/aula e 400 Hora/relógio (60 min.)
 
-## INSTITUTOFEDERAL 
+EMENTA: Atividade desenvolvida como prática profissional das técnicas massoterápicas aprendidas durante o curso, proporcionando instrumentais de cada técnica, por meio da vivência de diferentes situações práticas de estudo e de trabalho, bem como atuar na supervisão da atuação da equipe dos técnicos em Massoterapia atuando como o responsável técnico na organização, planejamento da equipe técnica em Massoterapia. Atuando na qualidade de vida, promoção da saúde e bem-estar e desenvolvendo a técnica de trabalho em equipe e promoção da prática da ética profissional.
 
-Parana 
+## BIBLIOGRAFIA BÁSICA E COMPLEMENTAR:
 
-**==> picture [64 x 9] intentionally omitted <==**
+As referências bibliográficas referem-se às citadas nos componentes curriculares: Princípios da Massagem; Massoterapia I - Shiatsu; Massoterapia Estética; Massoterapia Oriental II -Tuiná e Setai; Massoterapia - Drenagem Linfática Manual; Reflexoterapia e Massoterapia Terapêutica e Desportiva.
 
-**----- Start of picture text -----**<br>
-Ministerio daEducacao<br>**----- End of picture text -----**<br>
+## 5.3 AVALIAÇÃO
 
+## 5.3.1 Avaliação da Aprendizagem
 
-## **6º semestre** 
+Os princípios de avaliação do processo ensino aprendizagem do Curso Superior de Tecnologia em Massoterapia tem como base a LDB e a Resolução CONSUP/IFPR Nº 50 de 14 de julho de 2017, que dispõe sobre a avaliação do processo ensino-aprendizagem no âmbito do Instituto Federal do Paraná, sua concepção, princípios, instrumentos avaliativos, recuperação de estudos, conselhos de classe e resultados.
 
-COMPONENTE CURRICULAR: Estágio 
+Assim, e de acordo Projeto Político Pedagógico do IFPR - Campus Curitiba, a prática do professor deverá ter como referencial teórico a função social integradora do ensino, buscando a emancipação do educando enquanto profissional e agente transformador da sociedade. A avaliação, portanto, terá um caráter emancipatório e qualitativo, constituindo
 
-CARGA HORÁRIA: 480 Hora/aula e 400 Hora/relógio (60 min.) 
+78
 
-EMENTA: Atividade desenvolvida como prática profissional das técnicas massoterápicas aprendidas durante o curso, proporcionando instrumentais de cada técnica, por meio da vivência de diferentes situações práticas de estudo e de trabalho, bem como atuar na supervisão da atuação da equipe dos técnicos em Massoterapia atuando como o responsável técnico na organização, planejamento da equipe técnica em Massoterapia. Atuando na qualidade de vida, promoção da saúde e bem-estar e desenvolvendo a técnica de trabalho em equipe e promoção da prática da ética profissional. 
+INSTITUTOFEDERAL Parana
 
-## BIBLIOGRAFIA BÁSICA E COMPLEMENTAR: 
+Ministerio da Educacao<br>
 
-As referências bibliográficas referem-se às citadas nos componentes curriculares: Princípios da Massagem; Massoterapia I - Shiatsu; Massoterapia Estética; Massoterapia Oriental II -Tuiná e Setai; Massoterapia - Drenagem Linfática Manual; Reflexoterapia e Massoterapia Terapêutica e Desportiva. 
+um instrumento de reflexão para professores e alunos, cada qual buscando melhorar a sua prática a partir dos resultados obtidos.
 
-## 5.3 AVALIAÇÃO 
+A avaliação da aprendizagem dos componentes curriculares do Curso Superior de Tecnologia em Massoterapia segue a regulamentação do desempenho escolar, da aprovação e dos estudos de recuperação:
 
-## 5.3.1 Avaliação da Aprendizagem 
+- A avaliação do aproveitamento dos alunos deverá ser formativa, portanto, integral, processual e contínua.
 
-Os princípios de avaliação do processo ensino aprendizagem do Curso Superior de Tecnologia em Massoterapia tem como base a LDB e a Resolução CONSUP/IFPR Nº 50 de 14 de julho de 2017, que dispõe sobre a avaliação do processo ensino-aprendizagem no âmbito do Instituto Federal do Paraná, sua concepção, princípios, instrumentos avaliativos, recuperação de estudos, conselhos de classe e resultados. 
+- Os instrumentos de avaliação teórica utilizados: atividades diagnósticas, individuais ou/e em equipe; trabalhos teórico-práticos produzidos e/ou aplicados individualmente ou em grupos (trabalhos projetos, relatórios, seminários etc.); portfólios; exercícios; testes; provas ou outros instrumentos pertinentes que o professor julgue mais condizentes com os objetivos que serão traçados ao longo do processo de aprendizagem, com a finalidade de verificar se os objetivos da disciplina foram alcançados, e ainda as provas práticas e de estudos de caso. No caso das práticas diretas em cliente, desempenhadas através de práticas ambulatoriais supervisionadas, o aluno poderá ainda ser avaliado através das seguintes atitudes por meio da observação direta do professor: ética; prontidão; iniciativa; relação interpessoal; valorização do ser humano (humanização na prestação da assistência); assiduidade; solidariedade com a equipe e outros.
 
-Assim, e de acordo Projeto Político Pedagógico do IFPR - Campus Curitiba, a prática do professor deverá ter como referencial teórico a função social integradora do ensino, buscando a emancipação do educando enquanto profissional e agente transformador da sociedade. A avaliação, portanto, terá um caráter emancipatório e qualitativo, constituindo 
+- As atividades de avaliação, realizadas pelo professor, além de identificar os alunos que não atingiram com proficiência os objetivos do bloco de conteúdo, fornecerão subsídios para a elaboração de um processo de reorientação da aprendizagem, que abrangerá estudos de recuperação paralela ao período letivo.
 
-78 
+- As avaliações e estudos de recuperação serão planejados e efetuados pelos professores e terão como princípio norteador a autonomia didático-metodológica para definir junto a sua área de conhecimento e/ou colegiado de curso, qual metodologia e instrumentos avaliativos serão os mais adequados a serem utilizados.
 
-INSTITUTOFEDERAL Parana 
+79
 
-**==> picture [64 x 9] intentionally omitted <==**
+## INSTITUTOFEDERAL
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+## Parana
 
+Ministerio da Educacao<br>
 
-um instrumento de reflexão para professores e alunos, cada qual buscando melhorar a sua prática a partir dos resultados obtidos. 
+Os resultados parciais obtidos no processo de avaliação serão emitidos por componente curricular (disciplina) e registrados no sistema acadêmico da Instituição, devendo ser expressos por conceitos, sendo:
 
-A avaliação da aprendizagem dos componentes curriculares do Curso Superior de Tecnologia em Massoterapia segue a regulamentação do desempenho escolar, da aprovação e dos estudos de recuperação: 
+## CONCEITOS DESCRITORES
 
-- A avaliação do aproveitamento dos alunos deverá ser formativa, portanto, integral, processual e contínua. 
+A - APRENDIZAGEM do aluno foi PLENA, isto é, atingiu plenamente os objetivos propostos no componente curricular.
 
-- Os instrumentos de avaliação teórica utilizados: atividades diagnósticas, individuais ou/e em equipe; trabalhos teórico-práticos produzidos e/ou aplicados individualmente ou em grupos (trabalhos projetos, relatórios, seminários etc.); portfólios; exercícios; testes; provas ou outros instrumentos pertinentes que o professor julgue mais condizentes com os objetivos que serão traçados ao longo do processo de aprendizagem, com a finalidade de verificar se os objetivos da disciplina foram alcançados, e ainda as provas práticas e de estudos de caso. No caso das práticas diretas em cliente, desempenhadas através de práticas ambulatoriais supervisionadas, o aluno poderá ainda ser avaliado através das seguintes atitudes por meio da observação direta do professor: ética; prontidão; iniciativa; relação interpessoal; valorização do ser humano (humanização na prestação da assistência); assiduidade; solidariedade com a equipe e outros. 
+B - APRENDIZAGEM do aluno foi PARCIALMENTE PLENA, isto é, atingiu parcialmente os objetivos propostos no componente curricular
 
-- As atividades de avaliação, realizadas pelo professor, além de identificar os alunos que não atingiram com proficiência os objetivos do bloco de conteúdo, fornecerão subsídios para a elaboração de um processo de reorientação da aprendizagem, que abrangerá estudos de recuperação paralela ao período letivo. 
+C - APRENDIZAGEM do aluno foi SUFICIENTE, atingiu minimamente os objetivos propostos e não há comprometimento à continuidade do trabalho no componente curricular. D - APRENDIZAGEM do aluno foi INSUFICIENTE, isto é, não atingiu os objetivos propostos, inviabilizando o desenvolvimento no componente curricular
 
-- As avaliações e estudos de recuperação serão planejados e efetuados pelos professores e terão como princípio norteador a autonomia didático-metodológica para definir junto a sua área de conhecimento e/ou colegiado de curso, qual metodologia e instrumentos avaliativos serão os mais adequados a serem utilizados. 
+## 5.3.2 Plano de Avaliação Institucional
 
-79 
+A Comissão Própria de Avaliação (CPA) é instituída pelo SINAES (Sistema Nacional de Avaliação da Educação Superior) e é responsável pela implantação e desenvolvimento de processos de avaliação institucional. Os instrumentos de avaliação (questionários, pesquisas ou outras ferramentas) a serem desenvolvidas pela CPA servirão para o planejamento educacional e apontarão as áreas e setores que precisam de melhorias. Atribuições da CPA do IFPR:
 
-## INSTITUTOFEDERAL 
+I. Apreciar: a) o cumprimento dos princípios, finalidades e objetivos institucionais; b) a missão e o Plano de Desenvolvimento Institucional (PDI); c) as políticas de ensino, pesquisa, pós-graduação e extensão; d) a responsabilidade social da Instituição; e) a infraestrutura física, em especial a do ensino, pesquisa, pós-graduação, extensão e biblioteca; f) a comunicação com a sociedade; g) a organização e gestão da Instituição; h) o planejamento e avaliação, especialmente os processos, resultados e
 
-## Parana 
+80
 
-**==> picture [64 x 9] intentionally omitted <==**
+## INSTITUTOFEDERAL
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+## Parana
 
+Ministerio da Educacao
 
-Os resultados parciais obtidos no processo de avaliação serão emitidos por componente curricular (disciplina) e registrados no sistema acadêmico da Instituição, devendo ser expressos por conceitos, sendo: 
+eficácia da auto avaliação institucional; e i) as políticas de atendimento aos estudantes.
 
-## CONCEITOS DESCRITORES 
+- II. Analisar as avaliações dos diferentes segmentos do IFPR, no âmbito da sua competência;
 
-A - APRENDIZAGEM do aluno foi PLENA, isto é, atingiu plenamente os objetivos propostos no componente curricular. 
+- III. Desenvolver estudos e análises, visando o fornecimento de subsídios para fixação, aperfeiçoamento e modificação da política da Avaliação Institucional;
 
-B - APRENDIZAGEM do aluno foi PARCIALMENTE PLENA, isto é, atingiu parcialmente os objetivos propostos no componente curricular 
+- IV. Propor projetos, programas e ações que proporcionem a melhoria do processo avaliativo institucional;
 
-C - APRENDIZAGEM do aluno foi SUFICIENTE, atingiu minimamente os objetivos propostos e não há comprometimento à continuidade do trabalho no componente curricular. D - APRENDIZAGEM do aluno foi INSUFICIENTE, isto é, não atingiu os objetivos propostos, inviabilizando o desenvolvimento no componente curricular 
+- V. Participar de todas as atividades relativas a eventos promovidos pelo Conselho Nacional de Educação Superior (CONAES), sempre que convidada ou convocada; e colaborar com os órgãos próprios do IFPR, no planejamento dos programas de Avaliação Institucional.
 
-## 5.3.2 Plano de Avaliação Institucional 
+Os atuais membros da CPA do IFPR foram designados na Portaria nº 1386 de 16 de junho de 2015. Há ainda o regulamento da CPA de outubro de 2009 que disciplina as competências, a composição, a organização e o funcionamento da Comissão Própria de Avaliação (CPA), do Instituto Federal do Paraná (IFPR), prevista na Lei nº 10.861, de 1404-2004 e regulamentada pela Portaria Ministerial nº 2.051, de 19-07-2004.
 
-A Comissão Própria de Avaliação (CPA) é instituída pelo SINAES (Sistema Nacional de Avaliação da Educação Superior) e é responsável pela implantação e desenvolvimento de processos de avaliação institucional. Os instrumentos de avaliação (questionários, pesquisas ou outras ferramentas) a serem desenvolvidas pela CPA servirão para o planejamento educacional e apontarão as áreas e setores que precisam de melhorias. Atribuições da CPA do IFPR: 
+## 5.3.3 Avaliação do Curso
 
-I. Apreciar: a) o cumprimento dos princípios, finalidades e objetivos institucionais; b) a missão e o Plano de Desenvolvimento Institucional (PDI); c) as políticas de ensino, pesquisa, pós-graduação e extensão; d) a responsabilidade social da Instituição; e) a infraestrutura física, em especial a do ensino, pesquisa, pós-graduação, extensão e biblioteca; f) a comunicação com a sociedade; g) a organização e gestão da Instituição; h) o planejamento e avaliação, especialmente os processos, resultados e 
+A avaliação do curso acontecerá por meio da orientação da Resolução do CS n° 23 de 2009, do Instituto Federal do Paraná com a nomeação da CPA - Comissão Permanente de Avaliação que institui um programa de autoavaliação institucional aplicado semestralmente aos discentes e que se estende ao Núcleo Docente Estruturante - NDE.
 
-80 
+81
 
-## INSTITUTOFEDERAL 
+## INSTITUTOFEDERAL
 
-## Parana 
+## Parana
 
-Ministerio da Educacao 
+Ministerio da Educacao<br>
 
-eficácia da auto avaliação institucional; e i) as políticas de atendimento aos estudantes. 
+## 5.3.4 Avaliação do Projeto Pedagógico do Curso
 
-- II. Analisar as avaliações dos diferentes segmentos do IFPR, no âmbito da sua competência; 
+O Projeto Pedagógico do Curso de Tecnologia em Massoterapia será avaliado de forma contínua por meio dos encontros de colegiado e Núcleo Estruturante, no decorrer dos semestres.
 
-- III. Desenvolver estudos e análises, visando o fornecimento de subsídios para fixação, aperfeiçoamento e modificação da política da Avaliação Institucional; 
+O trabalho pedagógico dos professores do curso é avaliado periodicamente, ao longo do semestre, quando se efetiva o acompanhamento das atividades desenvolvidas com os alunos e os resultados obtidos. A Coordenação faz a mediação de comunicação com o corpo docente, que são informados das dificuldades apresentadas pelas turmas e os alunos que necessitam de uma atenção especial. Esse é o espaço por excelência, para se discutir as alternativas viáveis para o planejamento das atividades docentes.
 
-- IV. Propor projetos, programas e ações que proporcionem a melhoria do processo avaliativo institucional; 
+A readequação do Projeto Pedagógico e a orientação das dimensões e dos diferentes aspectos do curso é realizada sempre que necessário, com o comprometimento da coordenação, corpo docente e discente.
 
-- V. Participar de todas as atividades relativas a eventos promovidos pelo Conselho Nacional de Educação Superior (CONAES), sempre que convidada ou convocada; e colaborar com os órgãos próprios do IFPR, no planejamento dos programas de Avaliação Institucional. 
+Em paralelo ao programa de autoavaliação institucional, é aplicado aos discentes formulários periódicos de avaliação do curso. Os resultados dessas avaliações (institucional e do curso) são utilizados na melhoria do desempenho geral enquanto instituição de ensino, e seu processo de ensino/aprendizagem, infraestrutura institucional, atuação docente, permitindo, também, conhecimento de demandas e especificidades e demandas inerentes ao curso.
 
-Os atuais membros da CPA do IFPR foram designados na Portaria nº 1386 de 16 de junho de 2015. Há ainda o regulamento da CPA de outubro de 2009 que disciplina as competências, a composição, a organização e o funcionamento da Comissão Própria de Avaliação (CPA), do Instituto Federal do Paraná (IFPR), prevista na Lei nº 10.861, de 1404-2004 e regulamentada pela Portaria Ministerial nº 2.051, de 19-07-2004. 
+## 5.4 ESTÁGIO CURRICULAR
 
-## 5.3.3 Avaliação do Curso 
+Conforme a Lei nº. 11.788 de 25 de setembro de 2008 e Portaria nº. 4, de 22 de junho de 2009, do IFPR, o estágio supervisionado obrigatório do Curso Superior de Tecnologia em Massoterapia é considerado atividade curricular obrigatória e se destina a propiciar ao aluno a complementação do processo de ensino e de aprendizagem, em termos de experiências práticas, visando a: I – Experiência ao aluno, para facilitar sua futura absorção pelo mercado de trabalho; II – Promoção da articulação e da transição da instituição de ensino para o mundo
 
-A avaliação do curso acontecerá por meio da orientação da Resolução do CS n° 23 de 2009, do Instituto Federal do Paraná com a nomeação da CPA - Comissão Permanente de Avaliação que institui um programa de autoavaliação institucional aplicado semestralmente aos discentes e que se estende ao Núcleo Docente Estruturante - NDE. 
+82
 
-81 
+## INSTITUTOFEDERAL Parana
 
-## INSTITUTOFEDERAL 
+Ministerio da Educacao
 
-## Parana 
+do trabalho; III – Adaptação social e psicológica do aluno à sua futura atividade profissional; IV – Orientação do aluno na escolha da sua especialização profissional.
 
-**==> picture [64 x 9] intentionally omitted <==**
+O estágio supervisionado obrigatório será realizado em instituições públicas e privadas, devidamente conveniadas com o IFPR, que apresentem condições de proporcionar experiência prática na área de formação do aluno. A supervisão de estágios é entendida como assessoria dada ao aluno no decorrer de sua prática profissional, por docente orientador e por profissional do campo de estágio, de forma a proporcionar, ao estagiário, o pleno desempenho de ações, princípios e valores inerentes à realidade da profissão em que se processa a vivência prática.
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+A supervisão é semidireta onde ocorre o acompanhamento e orientação do planejado por meio de visitas sistemáticas aos campos de estágios, pelo professor orientador, que mantêm contatos com o profissional responsável pelo(s) estagiário(s), além do complemento de entrevistas e reuniões com os estudantes. A supervisão do estágio é considerada atividade de ensino, o qual consta no plano curricular e dos planos individuais de ensino dos professores envolvidos.
 
+O objetivo do estágio do Curso de Tecnologia em Massoterapia sob a supervisão de um professor orientador é de realizar atendimentos com ênfase na massoterapia, aplicando na prática todas as técnicas aprendidas durante o curso, bem como atuar na supervisão da atuação da equipe dos técnicos em Massoterapia, neste contexto a atuação laboral do Tecnólogo em Massoterapia diferencia-se do Técnico em Massoterapia, pois deverá atuar como o responsável técnico na organização, planejamento da equipe técnica em massoterapia, atuando na promoção da saúde e bem-estar e qualidade de vida da população.
 
-## 5.3.4 Avaliação do Projeto Pedagógico do Curso 
+O profissional deve ser capaz de identificar, selecionar e aplicar técnicas massoterápicas orientais e ocidentais de acordo com as diferentes necessidades do usuário; Atuar de forma autônoma ou sob a prescrição de fisioterapeutas ou médicos; Avaliar, escolher e orientar a técnica adequada às necessidades do cliente baseado nos conceitos anatômicos, fisiológicos, biomecânicos e fisiopatológicos; Respeitar as contraindicações das técnicas e das condições do cliente quando presentes; Registrar os atendimentos em fichas
 
-O Projeto Pedagógico do Curso de Tecnologia em Massoterapia será avaliado de forma contínua por meio dos encontros de colegiado e Núcleo Estruturante, no decorrer dos semestres. 
+83
 
-O trabalho pedagógico dos professores do curso é avaliado periodicamente, ao longo do semestre, quando se efetiva o acompanhamento das atividades desenvolvidas com os alunos e os resultados obtidos. A Coordenação faz a mediação de comunicação com o corpo docente, que são informados das dificuldades apresentadas pelas turmas e os alunos que necessitam de uma atenção especial. Esse é o espaço por excelência, para se discutir as alternativas viáveis para o planejamento das atividades docentes. 
+## INSTITUTOFEDERAL
 
-A readequação do Projeto Pedagógico e a orientação das dimensões e dos diferentes aspectos do curso é realizada sempre que necessário, com o comprometimento da coordenação, corpo docente e discente. 
+## Parana
 
-Em paralelo ao programa de autoavaliação institucional, é aplicado aos discentes formulários periódicos de avaliação do curso. Os resultados dessas avaliações (institucional e do curso) são utilizados na melhoria do desempenho geral enquanto instituição de ensino, e seu processo de ensino/aprendizagem, infraestrutura institucional, atuação docente, permitindo, também, conhecimento de demandas e especificidades e demandas inerentes ao curso. 
+Ministerio da Educacao
 
-## 5.4 ESTÁGIO CURRICULAR 
+próprias e individuais de cada cliente; Planejar e organizar o trabalho na perspectiva do atendimento integral e de qualidade; Aplicar princípios ergonômicos na realização do trabalho; Avaliar e prevenir riscos iatrogênicos ao executar procedimentos técnicos; Prestar informações ao cliente, ao sistema de saúde e aos outros profissionais sobre os serviços que tenham sido prestados; Realizar os procedimentos de primeiros socorros em situações de emergência; habilitar os alunos para os atendimentos às comunidades; dirimir dificuldades surgidas durante as massagens; proporcionar trocas de conhecimentos e experiências entre os alunos e professores; desenvolver a técnica de trabalho em equipe e promover a prática da ética profissional.
 
-Conforme a Lei nº. 11.788 de 25 de setembro de 2008 e Portaria nº. 4, de 22 de junho de 2009, do IFPR, o estágio supervisionado obrigatório do Curso Superior de Tecnologia em Massoterapia é considerado atividade curricular obrigatória e se destina a propiciar ao aluno a complementação do processo de ensino e de aprendizagem, em termos de experiências práticas, visando a: I – Experiência ao aluno, para facilitar sua futura absorção pelo mercado de trabalho; II – Promoção da articulação e da transição da instituição de ensino para o mundo 
+## 5.4.2 Convênios de Estágio
 
-82 
+O Curso de Tecnologia em Massoterapia visa promover espaços de aprendizado que vão além da sala de aula. Os estágios, portanto, atuam com base nas parcerias já estabelecidas no curso técnico e ampliadas para o curso superior a partir da viabilização de novos campos de atuação. No que diz respeito ao vínculo do aluno nas práticas massoterapêuticas em nível de atenção básica, é necessário vincular e aprovar o projeto do curso em instância municipal que designa e distribui os convênios conforme demandas municipais. Portanto, a viabilização desses estágios, cuja característica é de atuação permanente nesses estabelecimentos, ocorrerá a partir da aprovação e reconhecimento do curso. Os estágios ocorrem no último semestre do curso, isto é, no terceiro ano de vigência do Curso Superior de Tecnologia em Massoterapia, viabilizado por parcerias de estágio ou, posteriormente, convênios permanentes.
 
-## INSTITUTOFEDERAL Parana 
+Para celebração de convênio de estágio não oneroso serão necessárias as seguintes etapas a serem firmadas previamente ao início do curso. São elas o memorando do Diretor Geral solicitando parceria e justificando o período com base no artigo 50 da Lei 9784/1999; Memorando da coordenação de curso justificando a relação dos profissionais com o plano de trabalho e a motivação para celebração do convênio permanente; ofício da instituição
 
-Ministerio da Educacao 
+84
 
-do trabalho; III – Adaptação social e psicológica do aluno à sua futura atividade profissional; IV – Orientação do aluno na escolha da sua especialização profissional. 
+## INSTITUTOFEDERAL
 
-O estágio supervisionado obrigatório será realizado em instituições públicas e privadas, devidamente conveniadas com o IFPR, que apresentem condições de proporcionar experiência prática na área de formação do aluno. A supervisão de estágios é entendida como assessoria dada ao aluno no decorrer de sua prática profissional, por docente orientador e por profissional do campo de estágio, de forma a proporcionar, ao estagiário, o pleno desempenho de ações, princípios e valores inerentes à realidade da profissão em que se processa a vivência prática. 
+## Parana
 
-A supervisão é semidireta onde ocorre o acompanhamento e orientação do planejado por meio de visitas sistemáticas aos campos de estágios, pelo professor orientador, que mantêm contatos com o profissional responsável pelo(s) estagiário(s), além do complemento de entrevistas e reuniões com os estudantes. A supervisão do estágio é considerada atividade de ensino, o qual consta no plano curricular e dos planos individuais de ensino dos professores envolvidos. 
+Ministerio da Educacao
 
-O objetivo do estágio do Curso de Tecnologia em Massoterapia sob a supervisão de um professor orientador é de realizar atendimentos com ênfase na massoterapia, aplicando na prática todas as técnicas aprendidas durante o curso, bem como atuar na supervisão da atuação da equipe dos técnicos em Massoterapia, neste contexto a atuação laboral do Tecnólogo em Massoterapia diferencia-se do Técnico em Massoterapia, pois deverá atuar como o responsável técnico na organização, planejamento da equipe técnica em massoterapia, atuando na promoção da saúde e bem-estar e qualidade de vida da população. 
+concedente manifestando o interesse; atos constitutivos da instituição concedente (contrato social, lei de criação, etc.); documentação do representante legal (se for o caso, portaria de nomeação desse representante); certidões negativas de débitos trabalhistas, receita federal e FGTS; relatório do CADIN/ SINCONV quando possível; minuta do termo de compromisso; minuta do termo de convênio; Plano de trabalho de acordo com o artigo 116 da Lei 8.666/1993 assinado pelas duas partes sendo que a parte institucional deverá conter assinatura preferencial do diretor geral ou coordenador do convênio. Os documentos para celebração de estágio apresentam-se no apêndice.
 
-O profissional deve ser capaz de identificar, selecionar e aplicar técnicas massoterápicas orientais e ocidentais de acordo com as diferentes necessidades do usuário; Atuar de forma autônoma ou sob a prescrição de fisioterapeutas ou médicos; Avaliar, escolher e orientar a técnica adequada às necessidades do cliente baseado nos conceitos anatômicos, fisiológicos, biomecânicos e fisiopatológicos; Respeitar as contraindicações das técnicas e das condições do cliente quando presentes; Registrar os atendimentos em fichas 
+Assim, por tratar-se de um curso novo (experimental), os convênios serão firmados posteriormente à efetivação de locais de práticas estabelecidos e acordados previamente pelo colegiado do Curso Superior de Tecnologia em Massoterapia, por meio de termos de parceria devidamente fundamentados por meio de documentos legais, de acordo com as resoluções de estágio institucionais. Como parceiras iniciais, já vinculadas ao curso técnico em Massoterapia, estão elencados o Hospital Pequeno Príncipe, o Clube Duque de Caxias e a matriz dos CORREIOS. Nestes locais o Instituto Federal já realizou práticas de atendimento massoterapêutico e, dada a satisfatoriedade nesse processo espera-se haver pouca ou nenhuma dificuldade para a efetivação do convênio. Por outro lado, espera-se ainda firmar parceria de convênio com unidades básicas de saúde do município de Curitiba de acordo com a proposta e finalidade do curso em promover o acesso às práticas massoterapêuticas na atenção primária da saúde. Esta finalidade contempla atingir uma das premissas da Política Nacional de Práticas Integrativas e Complementares (PNPIC) que é facilitar o acesso da população a esse tipo de prática.
 
-83 
+A fim de viabilizar esse trâmite e antecipar o interesse em firmar convênio a comunicação entre Instituto Federal e Secretaria Municipal de Saúde, algumas ações já foram realizadas em vista da aproximação e sensibilização desta área de atuação na saúde pública, como o evento online em Práticas Integrativas e Complementares, promovido pelo Colegiado do curso em parceria com a Secretaria Estadual de Saúde (SESA). Além dos locais citados,
 
-## INSTITUTOFEDERAL 
+85
 
-## Parana 
+INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+Ministerio da Educacao
 
-próprias e individuais de cada cliente; Planejar e organizar o trabalho na perspectiva do atendimento integral e de qualidade; Aplicar princípios ergonômicos na realização do trabalho; Avaliar e prevenir riscos iatrogênicos ao executar procedimentos técnicos; Prestar informações ao cliente, ao sistema de saúde e aos outros profissionais sobre os serviços que tenham sido prestados; Realizar os procedimentos de primeiros socorros em situações de emergência; habilitar os alunos para os atendimentos às comunidades; dirimir dificuldades surgidas durante as massagens; proporcionar trocas de conhecimentos e experiências entre os alunos e professores; desenvolver a técnica de trabalho em equipe e promover a prática da ética profissional. 
+o Instituto Federal do Paraná, através de seus laboratórios de massoterapia, também oferece espaço para estágio.
 
-## 5.4.2 Convênios de Estágio 
+Os documentos referentes às normativas que regulamentam o estabelecimento de parcerias para estágio, os regimentos institucionais atualizados (Resolução 36 e Regulamento Geral de Estágio), bem como o modelo de avaliação dos estudantes no período de estágio (Caderno de Estágio), estão apresentados nos anexos deste documento.
 
-O Curso de Tecnologia em Massoterapia visa promover espaços de aprendizado que vão além da sala de aula. Os estágios, portanto, atuam com base nas parcerias já estabelecidas no curso técnico e ampliadas para o curso superior a partir da viabilização de novos campos de atuação. No que diz respeito ao vínculo do aluno nas práticas massoterapêuticas em nível de atenção básica, é necessário vincular e aprovar o projeto do curso em instância municipal que designa e distribui os convênios conforme demandas municipais. Portanto, a viabilização desses estágios, cuja característica é de atuação permanente nesses estabelecimentos, ocorrerá a partir da aprovação e reconhecimento do curso. Os estágios ocorrem no último semestre do curso, isto é, no terceiro ano de vigência do Curso Superior de Tecnologia em Massoterapia, viabilizado por parcerias de estágio ou, posteriormente, convênios permanentes. 
+## 5.5 TRABALHO DE CONCLUSÃO DE CURSO
 
-Para celebração de convênio de estágio não oneroso serão necessárias as seguintes etapas a serem firmadas previamente ao início do curso. São elas o memorando do Diretor Geral solicitando parceria e justificando o período com base no artigo 50 da Lei 9784/1999; Memorando da coordenação de curso justificando a relação dos profissionais com o plano de trabalho e a motivação para celebração do convênio permanente; ofício da instituição 
+De acordo com a Associação Brasileira de Normas Técnicas (ABNT), o Trabalho de Conclusão de Curso (TCC) é definido como um documento que representa o resultado de um estudo, devendo expressar conhecimento do assunto escolhido, que deve ser obrigatoriamente emanado da disciplina, módulo, estudo independente, curso, programa e outros ministrados. Deve ser feito sob a coordenação de um orientador (NBR 14724, 2005).
 
-84 
+O TCC é um produto de pesquisa científica, que tem por objetivo encontrar soluções para problemas propostos, mediante a utilização de métodos científicos. Todo trabalho científico consiste na realização de um estudo planejado que visa, fundamentalmente, contribuir para o avanço do conhecimento humano em todos os setores. Dessa forma, os TCCs deverão ser elaborados de acordo com os padrões acadêmicos próprios de uma investigação científica, devendo, para isso, seguir os critérios de cientificidade que caracterizam o trabalho de pesquisa. As horas-aula deste componente são destinadas a noções básicas sobre metodologia do trabalho científico, pesquisa em bases de dados, desenvolvimento das atividades, elaboração, redação e preparo da apresentação do TCC.
 
-## INSTITUTOFEDERAL 
+O Trabalho de Conclusão do Curso, em geral, atende a objetivos determinados, como possibilitar o aprofundamento de temas abordados ao longo do curso, integrando os conteúdo teórico-práticos e desenvolvidos nas diversas atividades acadêmicas; possibilitar ao estudante o desenvolvimento de técnicas específicas, buscando a resolução de problemas relacionados à prática profissional; capacitar o estudante para a elaboração e apresentação de trabalho científico escrito; preparar o estudante para a continuidade de seus estudos e de sua
 
-## Parana 
+86
 
-Ministerio da Educacao 
+INSTITUTOFEDERAL Parana
 
-concedente manifestando o interesse; atos constitutivos da instituição concedente (contrato social, lei de criação, etc.); documentação do representante legal (se for o caso, portaria de nomeação desse representante); certidões negativas de débitos trabalhistas, receita federal e FGTS; relatório do CADIN/ SINCONV quando possível; minuta do termo de compromisso; minuta do termo de convênio; Plano de trabalho de acordo com o artigo 116 da Lei 8.666/1993 assinado pelas duas partes sendo que a parte institucional deverá conter assinatura preferencial do diretor geral ou coordenador do convênio. Os documentos para celebração de estágio apresentam-se no apêndice. 
+Ministerio da Educacao<br>
 
-Assim, por tratar-se de um curso novo (experimental), os convênios serão firmados posteriormente à efetivação de locais de práticas estabelecidos e acordados previamente pelo colegiado do Curso Superior de Tecnologia em Massoterapia, por meio de termos de parceria devidamente fundamentados por meio de documentos legais, de acordo com as resoluções de estágio institucionais. Como parceiras iniciais, já vinculadas ao curso técnico em Massoterapia, estão elencados o Hospital Pequeno Príncipe, o Clube Duque de Caxias e a matriz dos CORREIOS. Nestes locais o Instituto Federal já realizou práticas de atendimento massoterapêutico e, dada a satisfatoriedade nesse processo espera-se haver pouca ou nenhuma dificuldade para a efetivação do convênio. Por outro lado, espera-se ainda firmar parceria de convênio com unidades básicas de saúde do município de Curitiba de acordo com a proposta e finalidade do curso em promover o acesso às práticas massoterapêuticas na atenção primária da saúde. Esta finalidade contempla atingir uma das premissas da Política Nacional de Práticas Integrativas e Complementares (PNPIC) que é facilitar o acesso da população a esse tipo de prática. 
+formação, visando a verticalização e contribuir para o enriquecimento das diferentes linhas de estudo, estimulando a produção científica.
 
-A fim de viabilizar esse trâmite e antecipar o interesse em firmar convênio a comunicação entre Instituto Federal e Secretaria Municipal de Saúde, algumas ações já foram realizadas em vista da aproximação e sensibilização desta área de atuação na saúde pública, como o evento online em Práticas Integrativas e Complementares, promovido pelo Colegiado do curso em parceria com a Secretaria Estadual de Saúde (SESA). Além dos locais citados, 
+O Trabalho de Conclusão de Curso (TCC) será realizado no formato artigo e representa o resultado de um estudo científico que reflete o conhecimento sobre determinado assunto, de acordo com o tema escolhido pelo estudante.
 
-85 
+O componente curricular Trabalho de Conclusão de Curso - TCC possui carga horária de 72 Hora/aula e 60 Hora/relógio, e visa orientar a estruturação do TCC e a organização metodológica do processo de desenvolvimento do TCC a fim de integrar os conhecimentos adquiridos no Curso Superior de Tecnologia em Massoterapia.
 
-INSTITUTOFEDERAL Parana 
+O trabalho deverá ser realizado sob a coordenação de um orientador escolhido pelo discente e/ou designado pelo docente responsável pela disciplina de TCC. Os trabalhos de Conclusão de curso poderão ser realizados individualmente ou em duplas de acordo com a orientação do Colegiado do curso e do professor responsável pela disciplina. Os temas desenvolvidos no TCC devem ter relação com os conteúdos ministrados no decorrer do curso.
 
-Ministerio da Educacao 
+O trabalho deverá ser obrigatoriamente apresentado, oralmente, à banca examinadora, composta por três (03) membros. Esta terá como composição básica o professor orientador, como seu presidente e mais dois professores de áreas correlatas. As apresentações dos trabalhos são públicas, de acordo com calendário definido pela Coordenação de Curso.
 
-o Instituto Federal do Paraná, através de seus laboratórios de massoterapia, também oferece espaço para estágio. 
+A versão final dos TCCs desenvolvidos, apresentados e aprovados são publicados na página eletrônica do campus Curitiba, em repositório institucional próprio e acessíveis pela internet, no espaço destinado ao Curso Superior de Tecnologia em Massoterapia. O regulamento específico do TCC consta anexado ao PPC (APÊNDICE B).
 
-Os documentos referentes às normativas que regulamentam o estabelecimento de parcerias para estágio, os regimentos institucionais atualizados (Resolução 36 e Regulamento Geral de Estágio), bem como o modelo de avaliação dos estudantes no período de estágio (Caderno de Estágio), estão apresentados nos anexos deste documento. 
+## 5.6 ATIVIDADES COMPLEMENTARES
 
-## 5.5 TRABALHO DE CONCLUSÃO DE CURSO 
+Atividades Complementares as ações desenvolvidas pelos estudantes, paralelas à realização do Curso Superior de Tecnologia em Massoterapia, com vistas à sedimentação e complementação dos saberes construídos em sua trajetória acadêmica. As Atividades Complementares devem estar voltadas à pesquisa, ao ensino e à extensão, contextualizadas
 
-De acordo com a Associação Brasileira de Normas Técnicas (ABNT), o Trabalho de Conclusão de Curso (TCC) é definido como um documento que representa o resultado de um estudo, devendo expressar conhecimento do assunto escolhido, que deve ser obrigatoriamente emanado da disciplina, módulo, estudo independente, curso, programa e outros ministrados. Deve ser feito sob a coordenação de um orientador (NBR 14724, 2005). 
+87
 
-O TCC é um produto de pesquisa científica, que tem por objetivo encontrar soluções para problemas propostos, mediante a utilização de métodos científicos. Todo trabalho científico consiste na realização de um estudo planejado que visa, fundamentalmente, contribuir para o avanço do conhecimento humano em todos os setores. Dessa forma, os TCCs deverão ser elaborados de acordo com os padrões acadêmicos próprios de uma investigação científica, devendo, para isso, seguir os critérios de cientificidade que caracterizam o trabalho de pesquisa. As horas-aula deste componente são destinadas a noções básicas sobre metodologia do trabalho científico, pesquisa em bases de dados, desenvolvimento das atividades, elaboração, redação e preparo da apresentação do TCC. 
+## INSTITUTOFEDERAL Parana
 
-O Trabalho de Conclusão do Curso, em geral, atende a objetivos determinados, como possibilitar o aprofundamento de temas abordados ao longo do curso, integrando os conteúdo teórico-práticos e desenvolvidos nas diversas atividades acadêmicas; possibilitar ao estudante o desenvolvimento de técnicas específicas, buscando a resolução de problemas relacionados à prática profissional; capacitar o estudante para a elaboração e apresentação de trabalho científico escrito; preparar o estudante para a continuidade de seus estudos e de sua 
+Ministerio da Educacao
 
-86 
+e relacionadas à área de abrangência do curso. O Apêndice C da Resolução de Atividades Complementares do Campus Curitiba, que regulamenta as Atividades Formativas Integradoras - AFIN (Atividades Complementares) nos cursos técnicos e superiores do Campus Curitiba do IFPR, estabelece as orientações sobre essas atividades. O Apêndice está disponível no PPC do Curso Superior de Tecnologia em Massoterapia:
 
-INSTITUTOFEDERAL Parana 
+Art. 1 Os alunos regularmente matriculados nos cursos de nível técnico e superior devem, obrigatoriamente, se expressar no projeto pedagógico do curso, desempenhar atividades complementares no transcorrer de sua formação acadêmica.
 
-**==> picture [64 x 9] intentionally omitted <==**
+Art. 2 As atividades a serem desenvolvidas pelos alunos, dentro do Instituto, devem envolver o ensino, a pesquisa e/ou extensão, sendo que ficará a cargo do aluno a inscrição no evento junto à organização do mesmo.
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+- I. Os documentos comprobatórios da participação dos alunos no evento, deverão ser enviados pela organização do mesmo à Coordenação do Curso, que após análise os encaminhará para a Secretaria Acadêmica do Campus, responsável pelo gerenciamento dos mesmos.
 
+- II. Quando as atividades forem feitas fora do Instituto, caberá ao estudante recolher os documentos comprobatórios e encaminhá-los para a Coordenação do Curso, documentos para o colegiado do curso para validá-los, computando a carga horária específica da atividade.
 
-formação, visando a verticalização e contribuir para o enriquecimento das diferentes linhas de estudo, estimulando a produção científica. 
+- III. Atividades não constantes da tabela devem ser analisadas pela coordenação do Curso, juntamente com o seu colegiado, para serem computadas na carga horária do estudante.
 
-O Trabalho de Conclusão de Curso (TCC) será realizado no formato artigo e representa o resultado de um estudo científico que reflete o conhecimento sobre determinado assunto, de acordo com o tema escolhido pelo estudante. 
+- IV. A verificação do cumprimento da carga horária (documentação) será feita pela Secretaria Acadêmica.
 
-O componente curricular Trabalho de Conclusão de Curso - TCC possui carga horária de 72 Hora/aula e 60 Hora/relógio, e visa orientar a estruturação do TCC e a organização metodológica do processo de desenvolvimento do TCC a fim de integrar os conhecimentos adquiridos no Curso Superior de Tecnologia em Massoterapia. 
+Art. 4 Ao final do curso constará no histórico do aluno a participação nas atividades complementares.
 
-O trabalho deverá ser realizado sob a coordenação de um orientador escolhido pelo discente e/ou designado pelo docente responsável pela disciplina de TCC. Os trabalhos de Conclusão de curso poderão ser realizados individualmente ou em duplas de acordo com a orientação do Colegiado do curso e do professor responsável pela disciplina. Os temas desenvolvidos no TCC devem ter relação com os conteúdos ministrados no decorrer do curso. 
+Art. 5 Os alunos dos cursos técnicos e superiores deverão ter cumprido ao final do curso a carga horária de Atividades AFIN prevista no projeto pedagógico do curso.
 
-O trabalho deverá ser obrigatoriamente apresentado, oralmente, à banca examinadora, composta por três (03) membros. Esta terá como composição básica o professor orientador, como seu presidente e mais dois professores de áreas correlatas. As apresentações dos trabalhos são públicas, de acordo com calendário definido pela Coordenação de Curso. 
+88
 
-A versão final dos TCCs desenvolvidos, apresentados e aprovados são publicados na página eletrônica do campus Curitiba, em repositório institucional próprio e acessíveis pela internet, no espaço destinado ao Curso Superior de Tecnologia em Massoterapia. O regulamento específico do TCC consta anexado ao PPC (APÊNDICE B). 
+## INSTITUTOFEDERAL Parana
 
-## 5.6 ATIVIDADES COMPLEMENTARES 
+Ministerio da Educacao<br>
 
-Atividades Complementares as ações desenvolvidas pelos estudantes, paralelas à realização do Curso Superior de Tecnologia em Massoterapia, com vistas à sedimentação e complementação dos saberes construídos em sua trajetória acadêmica. As Atividades Complementares devem estar voltadas à pesquisa, ao ensino e à extensão, contextualizadas 
+O aluno terá que cumprir a carga horária máxima de 40 horas em atividades complementares durante o curso podendo ser divididas em 20 horas em participação em eventos organizados pelo curso e 20 horas em atividades descritas acima. Cabe ao aluno a organização e apresentação dessa carga horária (40hs) à coordenação do curso ou ao professor responsável pelas atividades complementares.
 
-87 
+## **6. POLÍTICAS DE ATENDIMENTO AOS ESTUDANTES**
 
-## INSTITUTOFEDERAL Parana 
+## 6.1 FORMAS DE ACESSO E PERMANÊNCIA
 
-Ministerio da Educacao 
+O IFPR, em virtude de sua concepção de educação pública, inclusiva e de qualidade, voltada, sobretudo, aos indivíduos e famílias de baixa renda e socialmente vulneráveis implementa uma política de democratização do acesso, legalmente embasada, que prevê reserva de vagas. Tal política, acesso ao aprendizado de qualidade, oportunizando a emancipação cultural e intelectual do sujeito, por meio de sua formação integral (IFPR, 2014).
 
-e relacionadas à área de abrangência do curso. O Apêndice C da Resolução de Atividades Complementares do Campus Curitiba, que regulamenta as Atividades Formativas Integradoras - AFIN (Atividades Complementares) nos cursos técnicos e superiores do Campus Curitiba do IFPR, estabelece as orientações sobre essas atividades. O Apêndice está disponível no PPC do Curso Superior de Tecnologia em Massoterapia: 
+O ingresso de estudantes no Curso de Tecnologia em Massoterapia ocorre de diversas formas, conforme Resolução no55/2011 IFPR:
 
-Art. 1 Os alunos regularmente matriculados nos cursos de nível técnico e superior devem, obrigatoriamente, se expressar no projeto pedagógico do curso, desempenhar atividades complementares no transcorrer de sua formação acadêmica. 
+Art. 36 - São formas de ingresso nos cursos regulares de Ensino Superior:
 
-Art. 2 As atividades a serem desenvolvidas pelos alunos, dentro do Instituto, devem envolver o ensino, a pesquisa e/ou extensão, sendo que ficará a cargo do aluno a inscrição no evento junto à organização do mesmo. 
+- I. Processo seletivo;
 
-- I. Os documentos comprobatórios da participação dos alunos no evento, deverão ser enviados pela organização do mesmo à Coordenação do Curso, que após análise os encaminhará para a Secretaria Acadêmica do Campus, responsável pelo gerenciamento dos mesmos. 
+- II. Processo seletivo simplificado;
 
-- II. Quando as atividades forem feitas fora do Instituto, caberá ao estudante recolher os documentos comprobatórios e encaminhá-los para a Coordenação do Curso, documentos para o colegiado do curso para validá-los, computando a carga horária específica da atividade. 
+III. Sistema de Seleção Unificada/SiSU;
 
-- III. Atividades não constantes da tabela devem ser analisadas pela coordenação do Curso, juntamente com o seu colegiado, para serem computadas na carga horária do estudante. 
+- IV. Ingresso para portadores de diploma de graduação;
 
-- IV. A verificação do cumprimento da carga horária (documentação) será feita pela Secretaria Acadêmica. 
+- V. Ingresso de estudantes estrangeiros através de convênio cultural;
 
-Art. 4 Ao final do curso constará no histórico do aluno a participação nas atividades complementares. 
+- VI. Ingresso de alunos especiais;
 
-Art. 5 Os alunos dos cursos técnicos e superiores deverão ter cumprido ao final do curso a carga horária de Atividades AFIN prevista no projeto pedagógico do curso. 
+- VII. Transferência.
 
-88 
+Quanto ao Processo Seletivo próprio, a distribuição das vagas para os Cursos Superiores ocorre da mesma maneira que sua distribuição para os Cursos Técnicos, sendo
 
-## INSTITUTOFEDERAL Parana 
+89
 
-**==> picture [64 x 9] intentionally omitted <==**
+## INSTITUTOFEDERAL Parana
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+Ministerio da Educacao
 
+80% (oitenta por cento) das vagas reservadas para estudantes que tenham cursado integralmente o Ensino Fundamental em escolas públicas. Dentro desse, as mesmas subdivisões com base na renda familiar bruta e na proporção de pretos, pardos e indígenas da população do Paraná são utilizadas (Lei nº 12.711/2012).
 
-O aluno terá que cumprir a carga horária máxima de 40 horas em atividades complementares durante o curso podendo ser divididas em 20 horas em participação em eventos organizados pelo curso e 20 horas em atividades descritas acima. Cabe ao aluno a organização e apresentação dessa carga horária (40hs) à coordenação do curso ou ao professor responsável pelas atividades complementares. 
+## 6.1.1 Bolsas de Pesquisa, Extensão, Inovação, Inclusão Social, Monitoria e Bolsa-Atleta
 
-## **6. POLÍTICAS DE ATENDIMENTO AOS ESTUDANTES** 
+A política de incentivo à Pesquisa Orientada objetiva a formação de mão de obra capaz de interagir com metodologias e práticas ligadas à pesquisa científica. Esta prática, além de aproximar os projetos de pesquisa da comunidade que cerca o campus, é vetor de formação integral aos estudantes do IFPR. A política de incentivo à Pesquisa executa programas de bolsas destinados a discentes em parceria com agências de fomento nacionais e estaduais e ampliam o acesso a projetos de pesquisa, inclusive por meio de ações afirmativas, como a inclusão nos programas, de estudantes em vulnerabilidade social (IFPR, 2014).
 
-## 6.1 FORMAS DE ACESSO E PERMANÊNCIA 
+O IFPR ainda possui um Programa Institucional de Bolsas de Iniciação Científica (PIBIC/IFPR) destinado a alunos do Ensino Superior com a finalidade de despertar a vocação científica e incentivar talentos potenciais nos alunos mediante sua participação em atividade de pesquisa, orientada por pesquisador qualificado. As bolsas podem ser financiadas pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) e pela Fundação Araucária (FA), como também pelo próprio IFPR (IFPR, 2017).
 
-O IFPR, em virtude de sua concepção de educação pública, inclusiva e de qualidade, voltada, sobretudo, aos indivíduos e famílias de baixa renda e socialmente vulneráveis implementa uma política de democratização do acesso, legalmente embasada, que prevê reserva de vagas. Tal política, acesso ao aprendizado de qualidade, oportunizando a emancipação cultural e intelectual do sujeito, por meio de sua formação integral (IFPR, 2014). 
+Associada às políticas de incentivo à Pesquisa e Iniciação Científica o IFPR possui uma política de incentivo à Extensão Social e Tecnológica que prevê o estímulo à difusão do conhecimento científico e tecnológico, por meio de revistas de divulgação científica, museus de ciências, seminários de divulgação científica, extensão ou inovação, olimpíadas do conhecimento, cursos de curta duração, desenvolvimento cultural social e tecnológico.
 
-O ingresso de estudantes no Curso de Tecnologia em Massoterapia ocorre de diversas formas, conforme Resolução no55/2011 IFPR: 
+O Programa Institucional de Extensão – PIBEX visa contribuir para a formação profissional e cidadã de estudantes por meio da sua participação em projetos de extensão, por
 
-Art. 36 - São formas de ingresso nos cursos regulares de Ensino Superior: 
+90
 
-- I. Processo seletivo; 
+## INSTITUTOFEDERAL
 
-- II. Processo seletivo simplificado; 
+## Parana
 
-III. Sistema de Seleção Unificada/SiSU; 
+Ministerio da Educacao
 
-- IV. Ingresso para portadores de diploma de graduação; 
+meio da concessão de bolsas. As atividades são acompanhadas e supervisionadas por servidores da instituição no âmbito de projetos que têm como princípio a indissociabilidade entre pesquisa, ensino e extensão, e prioriza a interlocução com sujeitos da sociedade e seus movimentos sociais, visando à superação das atuais condições de desigualdade e de exclusão existentes no Paraná (IFPR, 2017).
 
-- V. Ingresso de estudantes estrangeiros através de convênio cultural; 
+Com finalidade de ampliar as condições de acesso, permanência e êxito do estudante no IFPR a execução da Política Nacional da Assistência Estudantil – PNAES é executada por meio da execução de programas e ações e, é orientada por princípios e diretrizes que se estabelecem de forma transversal a todos os setores que compõem a integrada ao desenvolvimento pedagógico, ao exercício pleno da cidadania e à promoção de inclusão ao mundo do trabalho.
 
-- VI. Ingresso de alunos especiais; 
+Destarte, prioriza-se o atendimento ao estudante em vulnerabilidade socioeconômica, de acordo com a Política de Apoio Estudantil do Instituto Federal do Paraná (Resolução n.º 11/2009; Resolução n.º 53/2011) pelos seguintes programas:
 
-- VII. Transferência. 
+a) Programa de Bolsas Acadêmicas de Inclusão Social – PBIS (Resolução n.º 64/2010 IFPR, Resolução n.º 01/2015 IFPR)
 
-Quanto ao Processo Seletivo próprio, a distribuição das vagas para os Cursos Superiores ocorre da mesma maneira que sua distribuição para os Cursos Técnicos, sendo 
+Regido por edital específico e anual, trata da inserção dos estudantes nos projetos acadêmicos, em que se desenvolverá a capacidade de interação teórica com a prática, e ainda a aproximação com os docentes e técnico-administrativos coordenadores das mais variadas linhas de projetos apresentadas. Estimular o estudante a pensar, agir e colaborar no processo de ensino- aprendizagem corresponde a uma assistência estudantil que vai além de uma perspectiva limitada, estabelece linhas de horizonte para pesquisa, oportunidade de apresentar as atividades desenvolvidas no projeto em seminários, simpósios, exposições, feiras de entretenimento, ciência etc. O PBIS instiga o estudante a desenvolver o senso crítico, a sua contribuição para os meios social, cultural, educacional, profissional,
 
-89 
+91
 
-## INSTITUTOFEDERAL Parana 
+Parana
 
-Ministerio da Educacao 
+## INSTITUTOFEDERAL
 
-80% (oitenta por cento) das vagas reservadas para estudantes que tenham cursado integralmente o Ensino Fundamental em escolas públicas. Dentro desse, as mesmas subdivisões com base na renda familiar bruta e na proporção de pretos, pardos e indígenas da população do Paraná são utilizadas (Lei nº 12.711/2012). 
+Ministerio da Educacao<br>
 
-## 6.1.1 Bolsas de Pesquisa, Extensão, Inovação, Inclusão Social, Monitoria e Bolsa-Atleta 
+econômico e valoriza-o como agente transformador e importante no processo de mudança da sociedade e do meio qual vive.
 
-A política de incentivo à Pesquisa Orientada objetiva a formação de mão de obra capaz de interagir com metodologias e práticas ligadas à pesquisa científica. Esta prática, além de aproximar os projetos de pesquisa da comunidade que cerca o campus, é vetor de formação integral aos estudantes do IFPR. A política de incentivo à Pesquisa executa programas de bolsas destinados a discentes em parceria com agências de fomento nacionais e estaduais e ampliam o acesso a projetos de pesquisa, inclusive por meio de ações afirmativas, como a inclusão nos programas, de estudantes em vulnerabilidade social (IFPR, 2014). 
+b) Programa de Auxílio Complementar ao Estudante – PACE (IIP n.º 20 PROENS, 27/02/2012)
 
-O IFPR ainda possui um Programa Institucional de Bolsas de Iniciação Científica (PIBIC/IFPR) destinado a alunos do Ensino Superior com a finalidade de despertar a vocação científica e incentivar talentos potenciais nos alunos mediante sua participação em atividade de pesquisa, orientada por pesquisador qualificado. As bolsas podem ser financiadas pelo Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq) e pela Fundação Araucária (FA), como também pelo próprio IFPR (IFPR, 2017). 
+Proporciona condições para o início, a continuidade, e a conclusão do curso. Regido anualmente por edital específico, vem auxiliar o estudante nas despesas decorrentes com: alimentação, transporte e moradia. Para garantir o processo de aprendizagem, o programa possui ações básicas que possibilitam ao estudante a sua permanência na Instituição, e que oportunizam ao máximo a qualidade de vida e condições para um aprendizado de sucesso e êxito na sua formação acadêmica e profissional.
 
-Associada às políticas de incentivo à Pesquisa e Iniciação Científica o IFPR possui uma política de incentivo à Extensão Social e Tecnológica que prevê o estímulo à difusão do conhecimento científico e tecnológico, por meio de revistas de divulgação científica, museus de ciências, seminários de divulgação científica, extensão ou inovação, olimpíadas do conhecimento, cursos de curta duração, desenvolvimento cultural social e tecnológico. 
+## c) Programa Estudante Atleta – PEA (IIP N.º 001/2014 PROENS/IFPR, 28/03/2014)
 
-O Programa Institucional de Extensão – PIBEX visa contribuir para a formação profissional e cidadã de estudantes por meio da sua participação em projetos de extensão, por 
+Regido por edital específico anual, oportuniza aos estudantes a participação nas mais diversas modalidades esportivas, incentivando sua prática e treinamento, participação nos Jogos Internos do IFPR, Regionais e Nacionais da Rede Federal, contribuindo para convivência social, saúde física, acesso ao lazer, melhoria da qualidade de vida, bem como colabora no processo ensino- aprendizagem e na formação integral do estudante.
 
-90 
+## d) Programa de Apoio a Eventos Estudantis (Resolução nº. 65/2010 IFPR)
 
-## INSTITUTOFEDERAL 
+Instituído anualmente por edital específico, é destinado para auxiliar nas despesas com alimentação, hospedagem, taxa de inscrição e deslocamento de estudantes para participação em eventos políticos, acadêmicos, esportivos e culturais. Valoriza-se dessa forma a construção técnica e profissional e coloca-o frente a novas perspectivas acadêmicas, de pesquisa, de extensão, e incentivo à formação social e profissional.
 
-## Parana 
+92
 
-Ministerio da Educacao 
+## INSTITUTOFEDERAL
 
-meio da concessão de bolsas. As atividades são acompanhadas e supervisionadas por servidores da instituição no âmbito de projetos que têm como princípio a indissociabilidade entre pesquisa, ensino e extensão, e prioriza a interlocução com sujeitos da sociedade e seus movimentos sociais, visando à superação das atuais condições de desigualdade e de exclusão existentes no Paraná (IFPR, 2017). 
+Parana
 
-Com finalidade de ampliar as condições de acesso, permanência e êxito do estudante no IFPR a execução da Política Nacional da Assistência Estudantil – PNAES é executada por meio da execução de programas e ações e, é orientada por princípios e diretrizes que se estabelecem de forma transversal a todos os setores que compõem a integrada ao desenvolvimento pedagógico, ao exercício pleno da cidadania e à promoção de inclusão ao mundo do trabalho. 
+Ministerio da Educacao<br>
 
-Destarte, prioriza-se o atendimento ao estudante em vulnerabilidade socioeconômica, de acordo com a Política de Apoio Estudantil do Instituto Federal do Paraná (Resolução n.º 11/2009; Resolução n.º 53/2011) pelos seguintes programas: 
+## e) Programa Monitoria (Resolução nº. 04/2010 IFPR)
 
-a) Programa de Bolsas Acadêmicas de Inclusão Social – PBIS (Resolução n.º 64/2010 IFPR, Resolução n.º 01/2015 IFPR) 
+Anualmente instituído por edital, é disponibilizado aos estudantes com domínio de um componente curricular e com disposição para auxiliar aos demais colegas no processo ensino- aprendizagem. O referido programa tem como objetivo suscitar no segmento discente o interesse pela docência, possibilitar o desenvolvimento de habilidades relacionadas ao seu exercício, promover a qualidade do ensino em todos os níveis e, através da interação entre teoria e prática, colaborar com demais estudantes nas atividades acadêmicas de ensino, na área do componente específico.
 
-Regido por edital específico e anual, trata da inserção dos estudantes nos projetos acadêmicos, em que se desenvolverá a capacidade de interação teórica com a prática, e ainda a aproximação com os docentes e técnico-administrativos coordenadores das mais variadas linhas de projetos apresentadas. Estimular o estudante a pensar, agir e colaborar no processo de ensino- aprendizagem corresponde a uma assistência estudantil que vai além de uma perspectiva limitada, estabelece linhas de horizonte para pesquisa, oportunidade de apresentar as atividades desenvolvidas no projeto em seminários, simpósios, exposições, feiras de entretenimento, ciência etc. O PBIS instiga o estudante a desenvolver o senso crítico, a sua contribuição para os meios social, cultural, educacional, profissional, 
+Em consonância com a Constituição Federal de 1988 e demais legislações pertinentes à educação, a política de assistência estudantil do IFPR terá como princípio a igualdade de condições de acesso, permanência e conclusão de cursos dos estudantes da instituição. Em atenção ao processo de democratização do ensino no país, as ações da assistência estudantil do IFPR priorizarão o atendimento aos estudantes provenientes de segmentos sociais pauperizados – com dificuldades de prosseguirem na vida acadêmica com êxito (IFPR, 2014).
 
-91 
+Para além da desigualdade socioeconômica, a assistência estudantil visa atender a todos os estudantes, por intermédio de política afirmativa e ações universais. Entende-se por ações afirmativas o conjunto de medidas especiais voltadas a grupos discriminados social ou economicamente. As ações universais visam o acompanhamento e atendimento independentemente da condição social, econômica, etnia, gênero, dentre outros (IFPR, 2014).
 
-Parana 
+## 6.1.2 Aproveitamento de Estudos Anteriores
 
-## INSTITUTOFEDERAL 
+Ao matricular-se no semestre ou ano letivo, o aluno poderá requerer aproveitamento de estudos de experiências vivenciadas em outro curso de nível superior. E ainda os adquiridos na vida, no trabalho ou em ambiente escolar.
 
-**==> picture [64 x 9] intentionally omitted <==**
+93
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+## INSTITUTOFEDERAL
 
+## Parana
 
-econômico e valoriza-o como agente transformador e importante no processo de mudança da sociedade e do meio qual vive. 
+Ministerio da Educacao
 
-b) Programa de Auxílio Complementar ao Estudante – PACE (IIP n.º 20 PROENS, 27/02/2012) 
+O aproveitamento de estudos concluídos com êxito poderá ser realizado mediante a adoção de um ou mais dos seguintes procedimentos, conforme Resolução nº 55/11: O aproveitamento de estudos anteriores compreende o processo de aproveitamento de componentes curriculares ou etapas (séries, módulos, blocos) cursadas com êxito em outro curso.
 
-Proporciona condições para o início, a continuidade, e a conclusão do curso. Regido anualmente por edital específico, vem auxiliar o estudante nas despesas decorrentes com: alimentação, transporte e moradia. Para garantir o processo de aprendizagem, o programa possui ações básicas que possibilitam ao estudante a sua permanência na Instituição, e que oportunizam ao máximo a qualidade de vida e condições para um aprendizado de sucesso e êxito na sua formação acadêmica e profissional. 
+Nos cursos de Graduação, o aproveitamento de ensino compreende a possibilidade de aproveitamento de disciplinas cursadas em outro curso de ensino superior, quando solicitado pelo aluno.
 
-## c) Programa Estudante Atleta – PEA (IIP N.º 001/2014 PROENS/IFPR, 28/03/2014) 
+O pedido de aproveitamento de estudos deverá ser avaliado por Comissão de análise composta de professores da área de conhecimento, seguindo os critérios: Correspondência entre as ementas, os programas e a carga horária cursados na outra instituição e as do curso do IFPR. A carga horária cursada não deverá ser nunca inferior àquela indicada na matriz curricular do curso, conforme o disposto no inciso I do Art. 65 da Resolução IFPR nº 55/2011. Além da correspondência entre os componentes curriculares o processo de aproveitamento de estudos poderá envolver avaliação teórico e/ou prática acerca do conhecimento a ser aproveitado.
 
-Regido por edital específico anual, oportuniza aos estudantes a participação nas mais diversas modalidades esportivas, incentivando sua prática e treinamento, participação nos Jogos Internos do IFPR, Regionais e Nacionais da Rede Federal, contribuindo para convivência social, saúde física, acesso ao lazer, melhoria da qualidade de vida, bem como colabora no processo ensino- aprendizagem e na formação integral do estudante. 
+Art. 45 - Caberá ao Colegiado de Curso das Coordenações de Eixo Tecnológico (Cursos Superiores de Tecnologia) e das Coordenações das Áreas de Conhecimento (Licenciaturas e Bacharelados) analisar e emitir parecer sobre o aproveitamento de estudos e equivalência curricular desenvolvidos no curso de origem.
 
-## d) Programa de Apoio a Eventos Estudantis (Resolução nº. 65/2010 IFPR) 
+§1º - O limite de aproveitamento de estudos e equivalência curricular será de até 30% (trinta por cento) da carga horária total do curso. §2º - Atividades Complementares, Estágio Curricular e Trabalho de Conclusão de Curso (TCC) ou Monografia não terão aproveitamento de estudos e equivalência curricular.
 
-Instituído anualmente por edital específico, é destinado para auxiliar nas despesas com alimentação, hospedagem, taxa de inscrição e deslocamento de estudantes para participação em eventos políticos, acadêmicos, esportivos e culturais. Valoriza-se dessa forma a construção técnica e profissional e coloca-o frente a novas perspectivas acadêmicas, de pesquisa, de extensão, e incentivo à formação social e profissional. 
+## 6.1.3 Certificação de Conhecimentos Anteriores
 
-92 
+De acordo com a LDB 9394/96 e a Resolução CNE/CP nº 03/2002, o conhecimento adquirido na educação profissional e tecnológica, inclusive no trabalho, poderá ser objeto de avaliação, reconhecimento e certificação para prosseguimento ou conclusão de estudos.
 
-## INSTITUTOFEDERAL 
+94
 
-Parana 
+## INSTITUTOFEDERAL
 
-**==> picture [64 x 9] intentionally omitted <==**
+## Parana
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+Ministerio da Educacao
 
+Em concordância com a legislação, o Curso de Tecnologia em Massoterapia permitirá a dispensa de frequência em Componente Curricular do curso do IFPR em que o estudante comprove excepcional domínio de conhecimento através da aprovação em avaliação desde que cumpridos os procedimentos para certificação dos conhecimentos anteriores seguirá as diretrizes institucionais estabelecidas no Art. 88 da Resolução nº 55/2011 do IFPR.
 
-## e) Programa Monitoria (Resolução nº. 04/2010 IFPR) 
+## 6.1.4 Expedição de Diplomas e Certificados
 
-Anualmente instituído por edital, é disponibilizado aos estudantes com domínio de um componente curricular e com disposição para auxiliar aos demais colegas no processo ensino- aprendizagem. O referido programa tem como objetivo suscitar no segmento discente o interesse pela docência, possibilitar o desenvolvimento de habilidades relacionadas ao seu exercício, promover a qualidade do ensino em todos os níveis e, através da interação entre teoria e prática, colaborar com demais estudantes nas atividades acadêmicas de ensino, na área do componente específico. 
+O estudante que frequentar todos os módulos/unidades curriculares previstos no curso, tendo obtido aproveitamento em todos eles, frequência mínima de setenta e cinco por cento (75%) das horas-aula e Trabalho de Conclusão de Curso ou relatório de Estágio aprovado, quando o curso exigir, antes do prazo para jubilamento, receberá o diploma de concluinte do curso, que será obtido junto à Secretaria Acadêmica de seu Campus, após ter realizado a colação de grau na data agendada pela Instituição.
 
-Em consonância com a Constituição Federal de 1988 e demais legislações pertinentes à educação, a política de assistência estudantil do IFPR terá como princípio a igualdade de condições de acesso, permanência e conclusão de cursos dos estudantes da instituição. Em atenção ao processo de democratização do ensino no país, as ações da assistência estudantil do IFPR priorizarão o atendimento aos estudantes provenientes de segmentos sociais pauperizados – com dificuldades de prosseguirem na vida acadêmica com êxito (IFPR, 2014). 
+§ 1º – Antes da colação de grau, o formando deverá apresentar à Secretaria Acadêmica do Campus o comprovante de ausência de débito com a biblioteca e com a Direção de Ensino, Pesquisa e Extensão do Campus e, no caso de ter sofrido mudança no nome durante o curso, entregar cópia do documento do qual consta o nome atualizado.
 
-Para além da desigualdade socioeconômica, a assistência estudantil visa atender a todos os estudantes, por intermédio de política afirmativa e ações universais. Entende-se por ações afirmativas o conjunto de medidas especiais voltadas a grupos discriminados social ou economicamente. As ações universais visam o acompanhamento e atendimento independentemente da condição social, econômica, etnia, gênero, dentre outros (IFPR, 2014). 
+§ 2º – O formando que não comparecer à cerimônia de formatura de seu curso deverá solicitar à Direção Geral, mediante requerimento, nova data para formatura em Gabinete, para receber a outorga do diploma.
 
-## 6.1.2 Aproveitamento de Estudos Anteriores 
+## 6.1.5 Acessibilidade
 
-Ao matricular-se no semestre ou ano letivo, o aluno poderá requerer aproveitamento de estudos de experiências vivenciadas em outro curso de nível superior. E ainda os adquiridos na vida, no trabalho ou em ambiente escolar. 
+A acessibilidade arquitetônica no Campus Curitiba se dá por meio de adaptações na infraestrutura, tendo em vista que há prédios previamente construídos, visando o pleno acesso a pessoas com deficiência. Para acesso aos andares superiores o Campus conta com dois elevadores e o acesso principal por rampa. Além disto o Campus Curitiba conta com o Núcleo de Apoio a Pessoas com Necessidades Específicas – NAPNE que visa à inserção e o
 
-93 
+95
 
-## INSTITUTOFEDERAL 
+## INSTITUTOFEDERAL
 
-## Parana 
+## Parana
 
-Ministerio da Educacao 
+Ministerio da Educacao
 
-O aproveitamento de estudos concluídos com êxito poderá ser realizado mediante a adoção de um ou mais dos seguintes procedimentos, conforme Resolução nº 55/11: O aproveitamento de estudos anteriores compreende o processo de aproveitamento de componentes curriculares ou etapas (séries, módulos, blocos) cursadas com êxito em outro curso. 
+atendimento aos alunos com Necessidades Educacionais Específicas nos cursos de nível básico, técnico e tecnológico nas Instituições Federais de Educação, a Secretaria de Educação Profissional e Tecnológica (SETEC/MEC)  que  tem  por  objetivo  estimular  a  criação  da cultura  da   educação  para  a convivência‖,  aceitação  da  diversidade‖  e,  principalmente, buscar  a  quebra  das  barreiras arquitetônicas, educacionais e atitudinais‖ nos Institutos Federais.
 
-Nos cursos de Graduação, o aproveitamento de ensino compreende a possibilidade de aproveitamento de disciplinas cursadas em outro curso de ensino superior, quando solicitado pelo aluno. 
+## 6.1.6 Mobilidade Estudantil e Internacionalização
 
-O pedido de aproveitamento de estudos deverá ser avaliado por Comissão de análise composta de professores da área de conhecimento, seguindo os critérios: Correspondência entre as ementas, os programas e a carga horária cursados na outra instituição e as do curso do IFPR. A carga horária cursada não deverá ser nunca inferior àquela indicada na matriz curricular do curso, conforme o disposto no inciso I do Art. 65 da Resolução IFPR nº 55/2011. Além da correspondência entre os componentes curriculares o processo de aproveitamento de estudos poderá envolver avaliação teórico e/ou prática acerca do conhecimento a ser aproveitado. 
+Os alunos dos Cursos de Graduação do IFPR podem afastar-se para participar de Programas de Intercâmbio em Instituições de Ensino Superior ou Centros de Pesquisas do Brasil e de outros países, conveniados com o IFPR. Para tanto deverão ser obedecidas as normativas institucionais estabelecidas na Resolução n.º 55/2011 e na Instrução Interna de Procedimentos n.º 02/2014 – IFPR/PROENS.
 
-Art. 45 - Caberá ao Colegiado de Curso das Coordenações de Eixo Tecnológico (Cursos Superiores de Tecnologia) e das Coordenações das Áreas de Conhecimento (Licenciaturas e Bacharelados) analisar e emitir parecer sobre o aproveitamento de estudos e equivalência curricular desenvolvidos no curso de origem. 
+O IFPR, por meio de sua Coordenadoria de Relações Internacionais, busca promover a internacionalização ampla do IFPR, através da formulação de políticas, da interlocução com parceiros nacionais e internacionais e do apoio às ações, projetos e programas de internacionalização dos campi e outros setores. O estudante poderá participar das chamadas publicadas no site institucional na página de Relações Internacionais.
 
-§1º - O limite de aproveitamento de estudos e equivalência curricular será de até 30% (trinta por cento) da carga horária total do curso. §2º - Atividades Complementares, Estágio Curricular e Trabalho de Conclusão de Curso (TCC) ou Monografia não terão aproveitamento de estudos e equivalência curricular. 
+## **7. CORPO DOCENTE E CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO**
 
-## 6.1.3 Certificação de Conhecimentos Anteriores 
+## 7.1. CORPO DOCENTE
 
-De acordo com a LDB 9394/96 e a Resolução CNE/CP nº 03/2002, o conhecimento adquirido na educação profissional e tecnológica, inclusive no trabalho, poderá ser objeto de avaliação, reconhecimento e certificação para prosseguimento ou conclusão de estudos. 
+## 7.1.1 Atribuições do Coordenador
 
-94 
+As atribuições dos coordenadores de cursos técnicos e superiores do Campus Curitiba do Instituto Federal do Paraná são determinadas pela Direção de Ensino, Pesquisa e Extensão
 
-## INSTITUTOFEDERAL 
+96
 
-## Parana 
+Parana
 
-Ministerio da Educacao 
+## INSTITUTOFEDERAL
 
-Em concordância com a legislação, o Curso de Tecnologia em Massoterapia permitirá a dispensa de frequência em Componente Curricular do curso do IFPR em que o estudante comprove excepcional domínio de conhecimento através da aprovação em avaliação desde que cumpridos os procedimentos para certificação dos conhecimentos anteriores seguirá as diretrizes institucionais estabelecidas no Art. 88 da Resolução nº 55/2011 do IFPR. 
+Ministerio da Educacao
 
-## 6.1.4 Expedição de Diplomas e Certificados 
+do Campus. Em termos práticos, muitos desses procedimentos se tornam rotineiros ou têm regulamentações específicas. São tarefas rotineiras do coordenador:
 
-O estudante que frequentar todos os módulos/unidades curriculares previstos no curso, tendo obtido aproveitamento em todos eles, frequência mínima de setenta e cinco por cento (75%) das horas-aula e Trabalho de Conclusão de Curso ou relatório de Estágio aprovado, quando o curso exigir, antes do prazo para jubilamento, receberá o diploma de concluinte do curso, que será obtido junto à Secretaria Acadêmica de seu Campus, após ter realizado a colação de grau na data agendada pela Instituição. 
+- Reuniões com a Direção de Ensino, Pesquisa e Extensão: as reuniões dos coordenadores de curso com a Direção de Ensino, Pesquisa e Extensão ocorrerão ordinariamente, uma vez por mês.;
 
-§ 1º – Antes da colação de grau, o formando deverá apresentar à Secretaria Acadêmica do Campus o comprovante de ausência de débito com a biblioteca e com a Direção de Ensino, Pesquisa e Extensão do Campus e, no caso de ter sofrido mudança no nome durante o curso, entregar cópia do documento do qual consta o nome atualizado. 
+- Reuniões do Colegiado: as reuniões do Colegiado de Curso deverão ocorrer ordinariamente, uma vez por mês;
 
-§ 2º – O formando que não comparecer à cerimônia de formatura de seu curso deverá solicitar à Direção Geral, mediante requerimento, nova data para formatura em Gabinete, para receber a outorga do diploma. 
+- Solicitação de Oferta de Disciplinas: ao final de cada período letivo, em data informada pela Direção de Ensino, Pesquisa e Extensão do Campus, devem ser elaboradas as listas de oferta de disciplinas de cada curso. Cabe ao coordenador do curso solicitar à Secretaria Acadêmica a abertura das disciplinas do seu curso
 
-## 6.1.5 Acessibilidade 
+- Elaborar a prévia da matriz horária do semestre (cursos subsequentes e superiores e disciplinas técnicas dos cursos técnicos integrados), submetendo-a para análise e conclusão da Direção de Ensino, Pesquisa e Extensão;
 
-A acessibilidade arquitetônica no Campus Curitiba se dá por meio de adaptações na infraestrutura, tendo em vista que há prédios previamente construídos, visando o pleno acesso a pessoas com deficiência. Para acesso aos andares superiores o Campus conta com dois elevadores e o acesso principal por rampa. Além disto o Campus Curitiba conta com o Núcleo de Apoio a Pessoas com Necessidades Específicas – NAPNE que visa à inserção e o 
+- Solicitação de Documentos dos Professores: ao iniciar cada período letivo (semestre ou ano) os coordenadores deverão receber dos professores que lecionam nos cursos sob sua coordenação os seguintes documentos em arquivo impresso e digital: planos de ensino e plano de trabalho docente. Tais documentos (em arquivo digital) serão encaminhados para a Direção de Ensino, Pesquisa e Extensão a fim de que sejam analisados e publicados e os documentos impressos deverão ser arquivados pela Coordenação do Curso. Ao finalizar cada período letivo (semestre ou ano) os coordenadores deverão receber dos professores que lecionaram nos cursos sob sua coordenação a folha de registro de frequência, conteúdo e rendimento dos alunos, a qual será arquivada junto a Coordenação do Curso e sempre que solicitada deverá ser encaminhada para a Direção de Ensino, Pesquisa e Extensão do Campus;
 
-95 
+- Matrícula: os coordenadores de curso devem acompanhar o processo de matrícula dos alunos do seu curso. Caberá a eles analisar as solicitações de matrículas em disciplinas de dependência e a abertura das turmas será feita de acordo com
 
-## INSTITUTOFEDERAL 
+97
 
-## Parana 
+INSTITUTOFEDERAL Parana
 
-Ministerio da Educacao 
+Ministerio da Educacao
 
-atendimento aos alunos com Necessidades Educacionais Específicas nos cursos de nível básico, técnico e tecnológico nas Instituições Federais de Educação, a Secretaria de Educação Profissional e Tecnológica (SETEC/MEC)  que  tem  por  objetivo  estimular  a  criação  da cultura  da   educação  para  a convivência‖,  aceitação  da  diversidade‖  e,  principalmente, buscar  a  quebra  das  barreiras arquitetônicas, educacionais e atitudinais‖ nos Institutos Federais. 
+orientações emitidas pela Direção de Ensino, Pesquisa e Extensão. Essas informações deverão ser sempre encaminhadas para a Direção de Ensino, Pesquisa e Extensão do Campus quando solicitadas;
 
-## 6.1.6 Mobilidade Estudantil e Internacionalização 
+● Acompanhamento do Rendimento dos Alunos: A Regulamentação de Avaliação do Campus dispõe sobre o acompanhamento do rendimento dos alunos do campus, regulamentando os procedimentos de acompanhamento de estudos e recuperação da aprendizagem de alunos. Compete ao Colegiado do curso acompanhar a situação do aluno que se encontre defasado da matriz curricular do curso. No horário destinado ao atendimento dos alunos pelos professores, poderá ser aplicado um Plano de Estudos. O Plano de Estudo deve envolver, na elaboração e na execução, aluno e Colegiado do Curso. O Plano de Estudo deve ser impresso em duas vias, assinadas pelo aluno e pelo coordenador, sendo uma para o aluno e outra para o Colegiado. Os coordenadores de curso devem estabelecer contato com os pais dos alunos menores de idade que apresentam baixo rendimento, informando-os sobre a situação dos mesmos. Tais informações deverão ser repassadas à Direção de Ensino, Pesquisa e Extensão do Campus, que deverá ser requisitada quando necessário para auxiliar no atendimento dessas demandas;
 
-Os alunos dos Cursos de Graduação do IFPR podem afastar-se para participar de Programas de Intercâmbio em Instituições de Ensino Superior ou Centros de Pesquisas do Brasil e de outros países, conveniados com o IFPR. Para tanto deverão ser obedecidas as normativas institucionais estabelecidas na Resolução n.º 55/2011 e na Instrução Interna de Procedimentos n.º 02/2014 – IFPR/PROENS. 
+- Colação de Grau: o Coordenador deverá prestar atenção especial nas matrículas dos alunos finalistas, para garantir que os mesmos possam colar grau ao final do período. Para isso devem ser verificados os boletins escolares anuais para detectar alguma pendência. Na data solicitada pela Direção de Ensino, Pesquisa e Extensão do Campus, os coordenadores devem enviar a listagem dos prováveis formandos para a Secretaria Acadêmica a fim de que sejam organizados os documentos necessários para a colação de grau;
 
-O IFPR, por meio de sua Coordenadoria de Relações Internacionais, busca promover a internacionalização ampla do IFPR, através da formulação de políticas, da interlocução com parceiros nacionais e internacionais e do apoio às ações, projetos e programas de internacionalização dos campi e outros setores. O estudante poderá participar das chamadas publicadas no site institucional na página de Relações Internacionais. 
+- Migração de alunos entre diferentes matrizes curriculares do mesmo curso: para um aluno migrar de uma versão de currículo para outra, o Coordenador deverá encaminhar a Direção de Ensino, Pesquisa e Extensão do Campus, um memorando solicitando a respectiva migração, acompanhado da ata da reunião do Colegiado,
 
-## **7. CORPO DOCENTE E CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO** 
+98
 
-## 7.1. CORPO DOCENTE 
+## INSTITUTOFEDERAL
 
-## 7.1.1 Atribuições do Coordenador 
+## Parana
 
-As atribuições dos coordenadores de cursos técnicos e superiores do Campus Curitiba do Instituto Federal do Paraná são determinadas pela Direção de Ensino, Pesquisa e Extensão 
+Ministerio da Educacao
 
-96 
+onde a questão foi apreciada, e da solicitação do aluno ao Colegiado. Neste processo deve conter o documento que analisa as equivalências das disciplinas já cursadas com as existentes na outra matriz curricular do curso. Esta solicitação deverá ser efetuada antes do início do semestre ou ano letivo em que o aluno irá se matricular;
 
-Parana 
+   - Reopção ou Remoção de Curso: a reopção de um curso para outro e a remoção no mesmo curso para turno ou local diferente estarão sujeitas a análise da Coordenação dos Cursos e da Direção de Ensino, Pesquisa e Extensão, considerando a existência de vagas ociosas no curso pretendido e a similaridade entre as matrizes curriculares dos cursos;
 
-## INSTITUTOFEDERAL 
+   - Aproveitamento de estudos: os projetos pedagógicos dos cursos regulamentam o aproveitamento de estudos. Compete ao coordenador do curso avaliar no âmbito do Colegiado com a orientação e anuência da Direção de Ensino, Pesquisa e Extensão do Campus, os requerimentos de aproveitamento de estudos dos alunos. Podem ser aproveitados estudos de disciplinas cursadas em outras instituições ou disciplinas cursadas em outros cursos/currículos na própria Instituição (neste caso a avaliação do aproveitamento de estudos pode ser feita apenas pela Direção de Ensino, Pesquisa e Extensão do Campus). Além disso, o aluno poderá solicitar aproveitamento de disciplinas com base em conhecimentos e experiências anteriormente desenvolvidas. Neste caso, o colegiado do curso poderá realizar entrevistas e/ou prova teóricaprática com o solicitante para aferir seu grau de conhecimento;
 
-Ministerio da Educacao 
+- Alterações curriculares: toda alteração curricular só poderá entrar em vigor no primeiro semestre letivo de um dado ano. Para que sejam analisadas, os pedidos deverão ser submetidos a Direção de Ensino, Pesquisa e Extensão do Campus até maio do ano anterior a fim de que haja tempo hábil de serem apreciadas pela PROENS Ao final de qualquer processo de alteração curricular é necessário informar: 1. A carga horária para integralização curricular. 2. Uma tabela de equivalência entre as disciplinas novas ou alteradas com as disciplinas anteriores. Consideram- se alterações curriculares: mudanças na ementa, na carga horária e na periodização de uma disciplina. Reformas Curriculares: reformas curriculares
 
-do Campus. Em termos práticos, muitos desses procedimentos se tornam rotineiros ou têm regulamentações específicas. São tarefas rotineiras do coordenador: 
+99
 
-- Reuniões com a Direção de Ensino, Pesquisa e Extensão: as reuniões dos coordenadores de curso com a Direção de Ensino, Pesquisa e Extensão ocorrerão ordinariamente, uma vez por mês.; 
+## INSTITUTOFEDERAL
 
-- Reuniões do Colegiado: as reuniões do Colegiado de Curso deverão ocorrer ordinariamente, uma vez por mês; 
+## Parana
 
-- Solicitação de Oferta de Disciplinas: ao final de cada período letivo, em data informada pela Direção de Ensino, Pesquisa e Extensão do Campus, devem ser elaboradas as listas de oferta de disciplinas de cada curso. Cabe ao coordenador do curso solicitar à Secretaria Acadêmica a abertura das disciplinas do seu curso 
+Ministerio da Educacao
 
-- Elaborar a prévia da matriz horária do semestre (cursos subsequentes e superiores e disciplinas técnicas dos cursos técnicos integrados), submetendo-a para análise e conclusão da Direção de Ensino, Pesquisa e Extensão; 
+completas devem seguir as orientações provenientes da PROENS e da Direção de Ensino, Pesquisa e Extensão do Campus, estando sujeitas aos mesmos prazos que as alterações curriculares. A elaboração do Projeto Pedagógico deverá obedecer às diretrizes curriculares para o curso em questão, que podem ser encontradas na página do MEC (http://www.mec.gov.br/sesu e http://www.mec.gov.br/setec);
 
-- Solicitação de Documentos dos Professores: ao iniciar cada período letivo (semestre ou ano) os coordenadores deverão receber dos professores que lecionam nos cursos sob sua coordenação os seguintes documentos em arquivo impresso e digital: planos de ensino e plano de trabalho docente. Tais documentos (em arquivo digital) serão encaminhados para a Direção de Ensino, Pesquisa e Extensão a fim de que sejam analisados e publicados e os documentos impressos deverão ser arquivados pela Coordenação do Curso. Ao finalizar cada período letivo (semestre ou ano) os coordenadores deverão receber dos professores que lecionaram nos cursos sob sua coordenação a folha de registro de frequência, conteúdo e rendimento dos alunos, a qual será arquivada junto a Coordenação do Curso e sempre que solicitada deverá ser encaminhada para a Direção de Ensino, Pesquisa e Extensão do Campus; 
+● Acompanhamento de Estágio: os coordenadores de curso serão encarregados de acompanhar os locais de estágios de seus alunos (estágio obrigatório e estágio não obrigatório), verificando se os estagiários estão realizando as atividades previstas no contrato de estágio. Os coordenadores de curso serão encarregados de buscarem e dar início ao cadastro de locais de estágios obrigatórios seguindo as orientações provenientes da PRI e da Direção de Ensino, Pesquisa e Extensão do Campus.
 
-- Matrícula: os coordenadores de curso devem acompanhar o processo de matrícula dos alunos do seu curso. Caberá a eles analisar as solicitações de matrículas em disciplinas de dependência e a abertura das turmas será feita de acordo com 
+## 7.1.2 Experiência do Coordenador
 
-97 
+A Coordenadora Professora Cibele Savi Stelmach, é Mestra em Educação Profissional e Tecnológica pelo Programa de Pós-graduação em Educação Profissional e Tecnológica - ProfEPT, graduada em Biologia pela Pontifícia Universidade Católica do Paraná, no Curso Técnico em Massoterapia pela Escola Técnica da Universidade Federal do Paraná ET-UFPR, Especialista em Farmacologia pelo Centro Universitário Filadélfia - UniFil. Docente do Curso Superior de Tecnologia em Massoterapia e do Curso Técnico em Massoterapia do Instituto Federal de Educação Ciência e Tecnologia do Paraná - IFPR, Campus Curitiba. Possui experiência e atua na área de educação, nos temas de educação em saúde, educação profissional e tecnológica e ensino.
 
-INSTITUTOFEDERAL Parana 
+## 7.1.3 Núcleo Docente Estruturante (NDE)
 
-Ministerio da Educacao 
+## SIAPE – DOCENTE:
 
-orientações emitidas pela Direção de Ensino, Pesquisa e Extensão. Essas informações deverão ser sempre encaminhadas para a Direção de Ensino, Pesquisa e Extensão do Campus quando solicitadas; 
+1918808 - André Roberto Cremonezi
 
-● Acompanhamento do Rendimento dos Alunos: A Regulamentação de Avaliação do Campus dispõe sobre o acompanhamento do rendimento dos alunos do campus, regulamentando os procedimentos de acompanhamento de estudos e recuperação da aprendizagem de alunos. Compete ao Colegiado do curso acompanhar a situação do aluno que se encontre defasado da matriz curricular do curso. No horário destinado ao atendimento dos alunos pelos professores, poderá ser aplicado um Plano de Estudos. O Plano de Estudo deve envolver, na elaboração e na execução, aluno e Colegiado do Curso. O Plano de Estudo deve ser impresso em duas vias, assinadas pelo aluno e pelo coordenador, sendo uma para o aluno e outra para o Colegiado. Os coordenadores de curso devem estabelecer contato com os pais dos alunos menores de idade que apresentam baixo rendimento, informando-os sobre a situação dos mesmos. Tais informações deverão ser repassadas à Direção de Ensino, Pesquisa e Extensão do Campus, que deverá ser requisitada quando necessário para auxiliar no atendimento dessas demandas; 
+100
 
-- Colação de Grau: o Coordenador deverá prestar atenção especial nas matrículas dos alunos finalistas, para garantir que os mesmos possam colar grau ao final do período. Para isso devem ser verificados os boletins escolares anuais para detectar alguma pendência. Na data solicitada pela Direção de Ensino, Pesquisa e Extensão do Campus, os coordenadores devem enviar a listagem dos prováveis formandos para a Secretaria Acadêmica a fim de que sejam organizados os documentos necessários para a colação de grau; 
+## INSTITUTOFEDERAL
 
-- Migração de alunos entre diferentes matrizes curriculares do mesmo curso: para um aluno migrar de uma versão de currículo para outra, o Coordenador deverá encaminhar a Direção de Ensino, Pesquisa e Extensão do Campus, um memorando solicitando a respectiva migração, acompanhado da ata da reunião do Colegiado, 
+Parana
 
-98 
+Ministerio da Educacao<br>
 
-## INSTITUTOFEDERAL 
+1782035 - Celia Regina Alves de Araújo Sandrini
 
-## Parana 
+1785744 - Cibele Savi Stelmach
 
-Ministerio da Educacao 
+661564 - Elisangela Valevein Rodrigues
 
-onde a questão foi apreciada, e da solicitação do aluno ao Colegiado. Neste processo deve conter o documento que analisa as equivalências das disciplinas já cursadas com as existentes na outra matriz curricular do curso. Esta solicitação deverá ser efetuada antes do início do semestre ou ano letivo em que o aluno irá se matricular; 
+1781950 - Evelise Dias Antunes
 
-   - Reopção ou Remoção de Curso: a reopção de um curso para outro e a remoção no mesmo curso para turno ou local diferente estarão sujeitas a análise da Coordenação dos Cursos e da Direção de Ensino, Pesquisa e Extensão, considerando a existência de vagas ociosas no curso pretendido e a similaridade entre as matrizes curriculares dos cursos; 
+1566409 - Geslaine Janaina Bueno dos Santos
 
-   - Aproveitamento de estudos: os projetos pedagógicos dos cursos regulamentam o aproveitamento de estudos. Compete ao coordenador do curso avaliar no âmbito do Colegiado com a orientação e anuência da Direção de Ensino, Pesquisa e Extensão do Campus, os requerimentos de aproveitamento de estudos dos alunos. Podem ser aproveitados estudos de disciplinas cursadas em outras instituições ou disciplinas cursadas em outros cursos/currículos na própria Instituição (neste caso a avaliação do aproveitamento de estudos pode ser feita apenas pela Direção de Ensino, Pesquisa e Extensão do Campus). Além disso, o aluno poderá solicitar aproveitamento de disciplinas com base em conhecimentos e experiências anteriormente desenvolvidas. Neste caso, o colegiado do curso poderá realizar entrevistas e/ou prova teóricaprática com o solicitante para aferir seu grau de conhecimento; 
+1918461 - Jaime Amador Soares
 
-- Alterações curriculares: toda alteração curricular só poderá entrar em vigor no primeiro semestre letivo de um dado ano. Para que sejam analisadas, os pedidos deverão ser submetidos a Direção de Ensino, Pesquisa e Extensão do Campus até maio do ano anterior a fim de que haja tempo hábil de serem apreciadas pela PROENS Ao final de qualquer processo de alteração curricular é necessário informar: 1. A carga horária para integralização curricular. 2. Uma tabela de equivalência entre as disciplinas novas ou alteradas com as disciplinas anteriores. Consideram- se alterações curriculares: mudanças na ementa, na carga horária e na periodização de uma disciplina. Reformas Curriculares: reformas curriculares 
+1904714 - Livia Pimenta Rennó Gasparotto
 
-99 
+1726318 - Maria Izabel Rodrigues Severiano
 
-## INSTITUTOFEDERAL 
+Pedagogo (a) do Campus e Representante da Seção Pedagógica: 1805822 - Bruno Coletty,
 
-## Parana 
+1657121 - Ricardo Alexandre Pereira
 
-Ministerio da Educacao 
+Bibliotecário (a): Edilza Silva Dos Santos Chibior - 1822641
 
-completas devem seguir as orientações provenientes da PROENS e da Direção de Ensino, Pesquisa e Extensão do Campus, estando sujeitas aos mesmos prazos que as alterações curriculares. A elaboração do Projeto Pedagógico deverá obedecer às diretrizes curriculares para o curso em questão, que podem ser encontradas na página do MEC (http://www.mec.gov.br/sesu e http://www.mec.gov.br/setec); 
+Representantes da Diretoria de Administração e Planejamento:
 
-● Acompanhamento de Estágio: os coordenadores de curso serão encarregados de acompanhar os locais de estágios de seus alunos (estágio obrigatório e estágio não obrigatório), verificando se os estagiários estão realizando as atividades previstas no contrato de estágio. Os coordenadores de curso serão encarregados de buscarem e dar início ao cadastro de locais de estágios obrigatórios seguindo as orientações provenientes da PRI e da Direção de Ensino, Pesquisa e Extensão do Campus. 
+1651087 - Adriano Willian Da Silva, 1962475 - Dirceia Romero Calixto
 
-## 7.1.2 Experiência do Coordenador 
+Responsável pela revisão de linguagem do texto: 1785744 – Cibele Savi Stelmach
 
-A Coordenadora Professora Cibele Savi Stelmach, é Mestra em Educação Profissional e Tecnológica pelo Programa de Pós-graduação em Educação Profissional e Tecnológica - ProfEPT, graduada em Biologia pela Pontifícia Universidade Católica do Paraná, no Curso Técnico em Massoterapia pela Escola Técnica da Universidade Federal do Paraná ET-UFPR, Especialista em Farmacologia pelo Centro Universitário Filadélfia - UniFil. Docente do Curso Superior de Tecnologia em Massoterapia e do Curso Técnico em Massoterapia do Instituto Federal de Educação Ciência e Tecnologia do Paraná - IFPR, Campus Curitiba. Possui experiência e atua na área de educação, nos temas de educação em saúde, educação profissional e tecnológica e ensino. 
+7.1.4 Relação do Corpo docente
 
-## 7.1.3 Núcleo Docente Estruturante (NDE) 
+101
 
-## SIAPE – DOCENTE: 
+## INSTITUTOFEDERAL
 
-1918808 - André Roberto Cremonezi 
-
-100 
-
-## INSTITUTOFEDERAL 
-
-Parana 
-
-**==> picture [64 x 9] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
-
-
-1782035 - Celia Regina Alves de Araújo Sandrini 
-
-1785744 - Cibele Savi Stelmach 
-
-661564 - Elisangela Valevein Rodrigues 
-
-1781950 - Evelise Dias Antunes 
-
-1566409 - Geslaine Janaina Bueno dos Santos 
-
-1918461 - Jaime Amador Soares 
-
-1904714 - Livia Pimenta Rennó Gasparotto 
-
-1726318 - Maria Izabel Rodrigues Severiano 
-
-Pedagogo (a) do Campus e Representante da Seção Pedagógica: 1805822 - Bruno Coletty, 
-
-1657121 - Ricardo Alexandre Pereira 
-
-Bibliotecário (a): Edilza Silva Dos Santos Chibior - 1822641 
-
-Representantes da Diretoria de Administração e Planejamento: 
-
-1651087 - Adriano Willian Da Silva, 1962475 - Dirceia Romero Calixto 
-
-Responsável pela revisão de linguagem do texto: 1785744 – Cibele Savi Stelmach 
-
-7.1.4 Relação do Corpo docente 
-
-101 
-
-## INSTITUTOFEDERAL 
-
-## Parana 
+## Parana
 
 |Parana|Parana|||Ministerioda Educacao|
 |---|---|---|---|---|
@@ -2574,11 +2455,9 @@ Responsável pela revisão de linguagem do texto: 1785744 – Cibele Savi Stelma
 |Evelise Dias<br>Antunes|Fisioterapia|Mestre<br>em Educação|http://lattes.<br>c<br>npq.br/4146<br>6<br>2377375458<br>2|Metodologia Científica,<br>Trabalho de Conclusão de<br>Curso.|
 |Gabriel Mathias<br>Carneiro Leão|Biologia|Mestre em<br>Biologia Celular<br>e Molecular|http://lattes.<br>c<br>npq.br/8373<br>1<br>9051477832<br>4|Biologia Celular e Tecidual,<br>Desenvolvimento Humano,<br>Neuroanatomia|
 
+102
 
-
-102 
-
-## 1[INSTITUTOFEDERAL] Parana 
+## 1[INSTITUTOFEDERAL] Parana
 
 |1 [INSTITUTOFEDERAL]<br>Parana|[INSTITUTOFEDERAL]<br>Parana|[INSTITUTOFEDERAL]||Ministerio daEducacao|
 |---|---|---|---|---|
@@ -2589,69 +2468,59 @@ Responsável pela revisão de linguagem do texto: 1785744 – Cibele Savi Stelma
 |Irene Tomoko<br>Nakano|Medicina|Doutorado em<br>Biotecnologia<br>Aplicada à<br>Saúde da<br>Criança e do<br>Adolescente|http://lattes.<br>cnpq.br/759<br>1621863695<br>118|Noções de Imagens|
 |Maria Izabel<br>Rodrigues<br>Severiano|Educação Física|Mestrado<br>em Distúrbios da<br>Comunicação|http://lattes.<br>c<br>npq.br/9664<br>0<br>0753941870<br>7|Avaliação em Massoterapia<br>Oriental e Desenvolvimento<br>Humano.|
 
+7.1.5 Colegiado de Curso
 
+103
 
-7.1.5 Colegiado de Curso 
+## INSTITUTOFEDERAL
 
-103 
+## Parana
 
-## INSTITUTOFEDERAL 
+Ministerio da Educacao
 
-## Parana 
+O corpo docente do curso possui formação específica e experiência profissional e acadêmica adequadas para ministrar os componentes curriculares do curso Superior de Tecnologia em Massoterapia, de forma a abordar a sua relevância para a atuação profissional e acadêmica do discente, estimular o raciocínio crítico, favorecer o acesso aos conteúdos de pesquisa atualizados, de acordo com os objetivos dos componentes curriculares e o perfil do egresso. Ainda, incentiva a produção do conhecimento, por meio do incentivo à pesquisa e da publicação em eventos ou revistas na área. O corpo docente é formado por professores concursados, em regime de dedicação exclusiva, e conta com colaboração de professores temporários/ substitutos.
 
-Ministerio da Educacao 
+## 7.1.6 Políticas de Capacitação do Corpo Docente
 
-O corpo docente do curso possui formação específica e experiência profissional e acadêmica adequadas para ministrar os componentes curriculares do curso Superior de Tecnologia em Massoterapia, de forma a abordar a sua relevância para a atuação profissional e acadêmica do discente, estimular o raciocínio crítico, favorecer o acesso aos conteúdos de pesquisa atualizados, de acordo com os objetivos dos componentes curriculares e o perfil do egresso. Ainda, incentiva a produção do conhecimento, por meio do incentivo à pesquisa e da publicação em eventos ou revistas na área. O corpo docente é formado por professores concursados, em regime de dedicação exclusiva, e conta com colaboração de professores temporários/ substitutos. 
+A distribuição de carga horária docente ao longo da semana é realizada, obedecendo aos intervalos legal para descanso, sempre adequando às necessidades dos docentes do núcleo comum e dos docentes que estão em processo de qualificação, visando proporcionar-lhes condições adequadas para sua capacitação, obedecendo a resolução 48/11, que normatiza o Programa de Qualificação e Formação dos servidores.
 
-## 7.1.6 Políticas de Capacitação do Corpo Docente 
+## 7.1.7 Plano de Cargos e Salários dos Docentes
 
-A distribuição de carga horária docente ao longo da semana é realizada, obedecendo aos intervalos legal para descanso, sempre adequando às necessidades dos docentes do núcleo comum e dos docentes que estão em processo de qualificação, visando proporcionar-lhes condições adequadas para sua capacitação, obedecendo a resolução 48/11, que normatiza o Programa de Qualificação e Formação dos servidores. 
+O Instituto Federal do Paraná, por situar-se no âmbito da Rede Pública Federal de Educação Profissional e Tecnológica, possui um quadro docente constituído a partir de concurso público de provas e títulos.
 
-## 7.1.7 Plano de Cargos e Salários dos Docentes 
+Os profissionais aprovados pelo concurso público ingressam no Plano de Carreira e Cargos do Magistério do Ensino Básico, Técnico e Tecnológico, Lei n. 11.784/2008.
 
-O Instituto Federal do Paraná, por situar-se no âmbito da Rede Pública Federal de Educação Profissional e Tecnológica, possui um quadro docente constituído a partir de concurso público de provas e títulos. 
+A remuneração docente se constitui dos seguintes componentes:
 
-Os profissionais aprovados pelo concurso público ingressam no Plano de Carreira e Cargos do Magistério do Ensino Básico, Técnico e Tecnológico, Lei n. 11.784/2008. 
+- I- Vencimento Básico;
 
-A remuneração docente se constitui dos seguintes componentes: 
+- II- Gratificação Específica de Atividade Docente do Ensino Básico, Técnico e Tecnológico- GEDBT (art. 116) e
 
-- I- Vencimento Básico; 
+104
 
-- II- Gratificação Específica de Atividade Docente do Ensino Básico, Técnico e Tecnológico- GEDBT (art. 116) e 
+## INSTITUTOFEDERAL Parana
 
-104 
+Ministerio da Educacao<br>
 
-## INSTITUTOFEDERAL Parana 
+III- Retribuição por Titulação- RT (art. 117).
 
-**==> picture [64 x 9] intentionally omitted <==**
+A carreira docente se divide em seis classes: D I, D II, D III, D IV, D V e PROFESSOR TITULAR. As classes D I, D II e D III contém 4 níveis: 1, 2, 3 e 4. A classe D IV contém 1 nível. A Classe D V contém 3 níveis. Professor Titular possui nível único.
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+A progressão na carreira pode ser dar de duas formas:
 
+1. progressão funcional por Titulação: o servidor receberá RT (Retribuição por Titulação) equivalente à titulação;
 
-III- Retribuição por Titulação- RT (art. 117). 
+2. progressão por desempenho acadêmico (progressão por mérito mediante avaliação de desempenho, realizada a cada 18 meses).
 
-A carreira docente se divide em seis classes: D I, D II, D III, D IV, D V e PROFESSOR TITULAR. As classes D I, D II e D III contém 4 níveis: 1, 2, 3 e 4. A classe D IV contém 1 nível. A Classe D V contém 3 níveis. Professor Titular possui nível único. 
+105
 
-A progressão na carreira pode ser dar de duas formas: 
+Parana
 
-1. progressão funcional por Titulação: o servidor receberá RT (Retribuição por Titulação) equivalente à titulação; 
+## INSTITUTOFEDERAL
 
-2. progressão por desempenho acadêmico (progressão por mérito mediante avaliação de desempenho, realizada a cada 18 meses). 
+Ministerio da Educacao<br>
 
-105 
-
-Parana 
-
-## INSTITUTOFEDERAL 
-
-**==> picture [63 x 8] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
-
-
-## 7.2 CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO 
+## 7.2 CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO
 
 |**Nome**|**Formação**|**Regime de**<br>**Trabalho**|**Cargo**|
 |---|---|---|---|
@@ -2665,115 +2534,105 @@ Ministerio da Educacao<br>**----- End of picture text -----**<br>
 |BRUNO BELLO|Graduando|40 horas|ASSISTENTE EM<br>ADMINISTRAÇÃO|
 |BRUNO COLETTY|Especialização|40 horas|TÉCNICO EM ASSUNTOS<br>EDUCACIONAIS|
 
+106
 
+INSTITUTOFEDERAL Parana
 
-106 
+Ministerio da Educacao<br>
 
-INSTITUTOFEDERAL Parana 
+7.2.1 Políticas de Capacitação do Corpo Técnico Administrativo em Educação
 
-**==> picture [64 x 9] intentionally omitted <==**
+A política tem como fundamento legal o Decreto nº 5.707/2006 e a Lei nº 11.091/2005. Cabe citar que as Políticas de capacitação do Técnico Administrativo em Educação no IFPR em Educação têm por objetivo a ampliação e consolidação da formação dos servidores, bem como proporcionar melhoria na eficiência do serviço público. Tem-se como princípio a qualidade dos processos de trabalho no âmbito do serviço público. Ressaltase ainda que no IFPR, a Pró-reitoria de Gestão de Pessoas competente "planejar, superintender, coordenar, fomentar as Políticas de gestão de pessoas, visando ao alcance das metas e ao cumprimento da missão institucional" (PDI, 2014-2018).
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+A política de capacitação segue a orientação e se desdobra a partir da fundamentação legal da política de desenvolvimento de servidores públicos federais (Decreto nº 5.707/2006) e, especificamente, de servidores da educação pública, Lei nº 11.091/2005, Decreto nº 5.825/2006 e Lei nº 12.772/2012.
 
+As políticas de desenvolvimento dos servidores públicos federais têm como finalidade a melhoria da eficiência, eficácia e qualidade dos serviços públicos prestados ao cidadão; o desenvolvimento permanente do servidor público; a adequação das competências requeridas dos servidores aos objetivos do IFPR, tendo como referência o plano plurianual; a divulgação e o gerenciamento das ações de capacitação; e, a racionalização e efetividade dos gastos com capacitação.
 
-7.2.1 Políticas de Capacitação do Corpo Técnico Administrativo em Educação 
+Seguem as diretrizes de incentivar e apoiar iniciativas de capacitação voltadas para o desenvolvimento das competências institucionais e individuais; as iniciativas promovidas pela própria instituição; a participação em ações de educação continuada; promover a capacitação gerencial; oportunidade de requalificação aos servidores redistribuídos; cursos introdutórios ou de formação aos servidores que ingressarem no serviço público; e, avaliar e considerar os resultados das ações de capacitação e a mensuração do desempenho como complementares entre si. Trilha-se no caminho do Plano de Desenvolvimento dos Integrantes da Carreira dos Cargos Técnico-Administrativos em Educação, instituída pela Lei no 11.091,
 
-A política tem como fundamento legal o Decreto nº 5.707/2006 e a Lei nº 11.091/2005. Cabe citar que as Políticas de capacitação do Técnico Administrativo em Educação no IFPR em Educação têm por objetivo a ampliação e consolidação da formação dos servidores, bem como proporcionar melhoria na eficiência do serviço público. Tem-se como princípio a qualidade dos processos de trabalho no âmbito do serviço público. Ressaltase ainda que no IFPR, a Pró-reitoria de Gestão de Pessoas competente "planejar, superintender, coordenar, fomentar as Políticas de gestão de pessoas, visando ao alcance das metas e ao cumprimento da missão institucional" (PDI, 2014-2018). 
+107
 
-A política de capacitação segue a orientação e se desdobra a partir da fundamentação legal da política de desenvolvimento de servidores públicos federais (Decreto nº 5.707/2006) e, especificamente, de servidores da educação pública, Lei nº 11.091/2005, Decreto nº 5.825/2006 e Lei nº 12.772/2012. 
+INSTITUTOFEDERAL Parana
 
-As políticas de desenvolvimento dos servidores públicos federais têm como finalidade a melhoria da eficiência, eficácia e qualidade dos serviços públicos prestados ao cidadão; o desenvolvimento permanente do servidor público; a adequação das competências requeridas dos servidores aos objetivos do IFPR, tendo como referência o plano plurianual; a divulgação e o gerenciamento das ações de capacitação; e, a racionalização e efetividade dos gastos com capacitação. 
+Ministerio da Educacao<br>
 
-Seguem as diretrizes de incentivar e apoiar iniciativas de capacitação voltadas para o desenvolvimento das competências institucionais e individuais; as iniciativas promovidas pela própria instituição; a participação em ações de educação continuada; promover a capacitação gerencial; oportunidade de requalificação aos servidores redistribuídos; cursos introdutórios ou de formação aos servidores que ingressarem no serviço público; e, avaliar e considerar os resultados das ações de capacitação e a mensuração do desempenho como complementares entre si. Trilha-se no caminho do Plano de Desenvolvimento dos Integrantes da Carreira dos Cargos Técnico-Administrativos em Educação, instituída pela Lei no 11.091, 
+de 12 de janeiro de 2005 e na carreira dos docentes, pela Lei nº 12.772 de 28 de dezembro de 2012.
 
-107 
+No que se refere à capacitação, trabalha-se com os objetivos de contribuir para o desenvolvimento do servidor, como profissional e cidadão; capacitá-lo para o desenvolvimento de ações de gestão pública e para o exercício de atividades de forma articulada com a função social do IFPR. Desta forma, a implantação de Programa de Capacitação e Aperfeiçoamento desdobra-se nas seguintes linhas de desenvolvimento preconizadas pelo art. 7º do Decreto nº 5.825/2006 e no art. 20 da Lei 12.772/12:
 
-INSTITUTOFEDERAL Parana 
+- I. iniciação ao serviço público: visando ao conhecimento da função do Estado, das especificidades do serviço público, da missão do IFPR, da conduta do servidor público e sua integração no ambiente institucional;
 
-**==> picture [64 x 9] intentionally omitted <==**
+- II. formação geral: visando à oferta de conjunto de informações ao servidor sobre a importância dos aspectos profissionais vinculados à formulação, ao planejamento, à execução e ao controle das metas institucionais;
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+- III. educação formal: visando à implementação de ações que contemplem os diversos níveis de educação formal;
 
+- IV. gestão: visando à preparação do servidor para o desenvolvimento da atividade de gestão, que gradativamente será instituído como pré-requisito para o exercício de funções de chefia, coordenação, assessoramento e direção;
 
-de 12 de janeiro de 2005 e na carreira dos docentes, pela Lei nº 12.772 de 28 de dezembro de 2012. 
+- V. inter-relação entre ambientes: visando à capacitação do servidor para o desenvolvimento de atividades relacionadas e desenvolvidas em mais de um ambiente organizacional;
 
-No que se refere à capacitação, trabalha-se com os objetivos de contribuir para o desenvolvimento do servidor, como profissional e cidadão; capacitá-lo para o desenvolvimento de ações de gestão pública e para o exercício de atividades de forma articulada com a função social do IFPR. Desta forma, a implantação de Programa de Capacitação e Aperfeiçoamento desdobra-se nas seguintes linhas de desenvolvimento preconizadas pelo art. 7º do Decreto nº 5.825/2006 e no art. 20 da Lei 12.772/12: 
+- VI. capacitação específica: visando ao desempenho de atividades vinculadas ao ambiente organizacional em que o servidor atua e ao cargo que ocupa.
 
-- I. iniciação ao serviço público: visando ao conhecimento da função do Estado, das especificidades do serviço público, da missão do IFPR, da conduta do servidor público e sua integração no ambiente institucional; 
+No IFPR foi instituído e está aberto um Banco de Facilitadores gerenciado pela PROGEPE/Coordenadoria de Capacitação, cujo acesso pode ser realizado através da página da PROGEPE, Capacitação IFPR - Desenvolvimento de Projetos e Banco de Instrutores/Facilitadores.
 
-- II. formação geral: visando à oferta de conjunto de informações ao servidor sobre a importância dos aspectos profissionais vinculados à formulação, ao planejamento, à execução e ao controle das metas institucionais; 
+108
 
-- III. educação formal: visando à implementação de ações que contemplem os diversos níveis de educação formal; 
+## INSTITUTOFEDERAL Parana
 
-- IV. gestão: visando à preparação do servidor para o desenvolvimento da atividade de gestão, que gradativamente será instituído como pré-requisito para o exercício de funções de chefia, coordenação, assessoramento e direção; 
+Ministerio da Educacao
 
-- V. inter-relação entre ambientes: visando à capacitação do servidor para o desenvolvimento de atividades relacionadas e desenvolvidas em mais de um ambiente organizacional; 
+Por intermédio deste banco são conhecidos os talentos institucionais e suas propostas de capacitação interna, que são implementadas na medida em que há viabilidade. Os planejamentos de capacitação instruídos pelas áreas estratégicas do IFPR estão sendo articulados, gradativamente, por meio do Programa de Desenvolvimento dos Servidores Técnico- administrativos e Docentes do IFPR, conforme Resolução nº 44/2013-CONSUP.
 
-- VI. capacitação específica: visando ao desempenho de atividades vinculadas ao ambiente organizacional em que o servidor atua e ao cargo que ocupa. 
+- 7.2.2 Plano de Cargos e Salários dos Servidores Técnico-Administrativos em Educação
 
-No IFPR foi instituído e está aberto um Banco de Facilitadores gerenciado pela PROGEPE/Coordenadoria de Capacitação, cujo acesso pode ser realizado através da página da PROGEPE, Capacitação IFPR - Desenvolvimento de Projetos e Banco de Instrutores/Facilitadores. 
+Segundo a Lei nº 11.091/2005, destaca-se brevemente a estrutura do Plano de Carreira dos Cargos de Técnico-Administrativo em Educação, a saber: os cargos do Plano de Carreira são organizados em 5 (cinco) níveis de classificação, A, B, C, D e E, de acordo com o disposto no inciso II do art. 5o e no Anexo II da Lei 11.091/2005 e tem como princípios e diretrizes:
 
-108 
+- I. natureza do processo educativo, função social e objetivos do Sistema Federal de Ensino;
 
-## INSTITUTOFEDERAL Parana 
+- II. dinâmica dos processos de pesquisa, de ensino, de extensão e de administração, e as competências específicas decorrentes;
 
-Ministerio da Educacao 
+III. qualidade do processo de trabalho;
 
-Por intermédio deste banco são conhecidos os talentos institucionais e suas propostas de capacitação interna, que são implementadas na medida em que há viabilidade. Os planejamentos de capacitação instruídos pelas áreas estratégicas do IFPR estão sendo articulados, gradativamente, por meio do Programa de Desenvolvimento dos Servidores Técnico- administrativos e Docentes do IFPR, conforme Resolução nº 44/2013-CONSUP. 
+- IV. reconhecimento do saber não instituído resultante da atuação profissional na dinâmica de ensino, de pesquisa e de extensão;
 
-- 7.2.2 Plano de Cargos e Salários dos Servidores Técnico-Administrativos em Educação 
+- V. vinculação ao planejamento estratégico e ao desenvolvimento organizacional das instituições;
 
-Segundo a Lei nº 11.091/2005, destaca-se brevemente a estrutura do Plano de Carreira dos Cargos de Técnico-Administrativo em Educação, a saber: os cargos do Plano de Carreira são organizados em 5 (cinco) níveis de classificação, A, B, C, D e E, de acordo com o disposto no inciso II do art. 5o e no Anexo II da Lei 11.091/2005 e tem como princípios e diretrizes: 
+- VI. investidura em cada cargo condicionada à aprovação em concurso público; VII. desenvolvimento do servidor vinculado aos objetivos institucionais; VIII. garantia de programas de capacitação que contemplem a formação específica e a geral, nesta incluída a educação formal;
 
-- I. natureza do processo educativo, função social e objetivos do Sistema Federal de Ensino; 
+109
 
-- II. dinâmica dos processos de pesquisa, de ensino, de extensão e de administração, e as competências específicas decorrentes; 
+## INSTITUTOFEDERAL
 
-III. qualidade do processo de trabalho; 
+## Parana
 
-- IV. reconhecimento do saber não instituído resultante da atuação profissional na dinâmica de ensino, de pesquisa e de extensão; 
+Ministerio da Educacao
 
-- V. vinculação ao planejamento estratégico e ao desenvolvimento organizacional das instituições; 
+IX. avaliação do desempenho funcional dos servidores, como processo pedagógico, realizada mediante critérios objetivos decorrentes das metas institucionais, referenciada no caráter coletivo do trabalho e nas expectativas dos usuários; e
 
-- VI. investidura em cada cargo condicionada à aprovação em concurso público; VII. desenvolvimento do servidor vinculado aos objetivos institucionais; VIII. garantia de programas de capacitação que contemplem a formação específica e a geral, nesta incluída a educação formal; 
+- X. oportunidade de acesso às atividades de direção, assessoramento, chefia, coordenação e assistência, respeitadas as normas específicas.
 
-109 
+Cabe ainda pontuar as atribuições gerais dos cargos do Plano de Carreira descritas no art. 8º da Lei 11.091/2005:
 
-## INSTITUTOFEDERAL 
+- I. planejar, organizar, executar ou avaliar as atividades inerentes ao apoio técnicoadministrativo ao ensino;
 
-## Parana 
+- II. planejar, organizar, executar ou avaliar as atividades técnico-administrativas inerentes à pesquisa e à extensão nas Instituições Federais de Ensino;
 
-Ministerio da Educacao 
+- III. executar tarefas específicas, utilizando-se de recursos materiais, financeiros e outros de que a Instituição Federal de Ensino disponha, a fim de assegurar a eficiência, a eficácia e a efetividade das atividades de ensino, pesquisa e extensão das Instituições Federais de Ensino.
 
-IX. avaliação do desempenho funcional dos servidores, como processo pedagógico, realizada mediante critérios objetivos decorrentes das metas institucionais, referenciada no caráter coletivo do trabalho e nas expectativas dos usuários; e 
+## **8. INFRAESTRUTURA**
 
-- X. oportunidade de acesso às atividades de direção, assessoramento, chefia, coordenação e assistência, respeitadas as normas específicas. 
+A acessibilidade é um atributo essencial do ambiente que garante a melhoria e qualidade de vida, possibilitando às pessoas com deficiência viver de forma independente, desta forma o Campus Curitiba está preparado para atender portadores de deficiências. O Campus possui 3.200 (três mil e duzentos alunos) matriculados em 29 (vinte e nove) cursos diferentes os quais são de Pós-graduação, Cursos Superiores, Cursos Técnicos Integrados ao Ensino Médio, Curso Técnicos Subsequentes e Curso Técnicos a Distância e 200 professores. Possui 6 (seis) laboratórios de Informática, um auditório, uma Secretaria Acadêmica, uma Diretoria de Ensino, uma Seção Pedagógica, uma Diretoria de Pesquisa, Extensão e Inovação, um Núcleo de Apoio a Pessoas com Necessidades Específicas, uma sala de
 
-Cabe ainda pontuar as atribuições gerais dos cargos do Plano de Carreira descritas no art. 8º da Lei 11.091/2005: 
+110
 
-- I. planejar, organizar, executar ou avaliar as atividades inerentes ao apoio técnicoadministrativo ao ensino; 
+## INSTITUTOFEDERAL
 
-- II. planejar, organizar, executar ou avaliar as atividades técnico-administrativas inerentes à pesquisa e à extensão nas Instituições Federais de Ensino; 
+## Parana
 
-- III. executar tarefas específicas, utilizando-se de recursos materiais, financeiros e outros de que a Instituição Federal de Ensino disponha, a fim de assegurar a eficiência, a eficácia e a efetividade das atividades de ensino, pesquisa e extensão das Instituições Federais de Ensino. 
+Ministerio da Educacao
 
-## **8. INFRAESTRUTURA** 
+professores e uma biblioteca central. A segurança é realizada por uma empresa terceirizada a qual é responsável pela segurança interna e externa do Campus. Há 40 salas de aula, com 40 alunos em média por sala. O curso de Tecnólogo em Massoterapia possui dois Laboratórios de Massoterapia e um Laboratório de Anatomia e Fisiologia, uma Biblioteca central e laboratórios de Informática.
 
-A acessibilidade é um atributo essencial do ambiente que garante a melhoria e qualidade de vida, possibilitando às pessoas com deficiência viver de forma independente, desta forma o Campus Curitiba está preparado para atender portadores de deficiências. O Campus possui 3.200 (três mil e duzentos alunos) matriculados em 29 (vinte e nove) cursos diferentes os quais são de Pós-graduação, Cursos Superiores, Cursos Técnicos Integrados ao Ensino Médio, Curso Técnicos Subsequentes e Curso Técnicos a Distância e 200 professores. Possui 6 (seis) laboratórios de Informática, um auditório, uma Secretaria Acadêmica, uma Diretoria de Ensino, uma Seção Pedagógica, uma Diretoria de Pesquisa, Extensão e Inovação, um Núcleo de Apoio a Pessoas com Necessidades Específicas, uma sala de 
-
-110 
-
-## INSTITUTOFEDERAL 
-
-## Parana 
-
-Ministerio da Educacao 
-
-professores e uma biblioteca central. A segurança é realizada por uma empresa terceirizada a qual é responsável pela segurança interna e externa do Campus. Há 40 salas de aula, com 40 alunos em média por sala. O curso de Tecnólogo em Massoterapia possui dois Laboratórios de Massoterapia e um Laboratório de Anatomia e Fisiologia, uma Biblioteca central e laboratórios de Informática. 
-
-## 8.1 ÁREAS DE ENSINO ESPECÍFICAS 
+## 8.1 ÁREAS DE ENSINO ESPECÍFICAS
 
 |Ambiente|Existente (sim/não)|A construir (sim/não)|Área (m2)|
 |---|---|---|---|
@@ -2782,9 +2641,7 @@ professores e uma biblioteca central. A segurança é realizada por uma empresa 
 |Coordenadoria de curso|não|não|-|
 |Sala de reuniões|sim|não|-|
 
-
-
-## 8.2 ÁREAS DE ESTUDO GERAL 
+## 8.2 ÁREAS DE ESTUDO GERAL
 
 |Ambiente|Existente (sim/não)|A construir (sim/não)|Área (m2)|
 |---|---|---|---|
@@ -2794,21 +2651,15 @@ professores e uma biblioteca central. A segurança é realizada por uma empresa 
 |Laboratório de química|sim|não|23|
 |Laboratório de biologia|sim|não|23|
 
+111
 
+Parana
 
-111 
+## INSTITUTOFEDERAL
 
-Parana 
+Ministerio da Educacao<br>
 
-## INSTITUTOFEDERAL 
-
-**==> picture [64 x 9] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
-
-
-## 8.3 ÁREAS DE ESTUDO ESPECÍFICO 
+## 8.3 ÁREAS DE ESTUDO ESPECÍFICO
 
 |Ambiente|Existente (sim/não)|A construir (sim/não)|Área (m2)|
 |---|---|---|---|
@@ -2816,9 +2667,7 @@ Ministerio da Educacao<br>**----- End of picture text -----**<br>
 |Laboratório<br>de Anatomia e<br>Fisiologia|sim|não|-|
 |Áreas externas|sim|não|-|
 
-
-
-## 8.4 ÁREAS DE ESPORTE E VIVÊNCIA 
+## 8.4 ÁREAS DE ESPORTE E VIVÊNCIA
 
 |Ambiente|Existente (sim/não)|A construir (sim/não)|Área (m2)|
 |---|---|---|---|
@@ -2826,9 +2675,7 @@ Ministerio da Educacao<br>**----- End of picture text -----**<br>
 |Cantina/ Refeitório|sim|não|-|
 |Pátio coberto|sim|não|-|
 
-
-
-## 8.5 ÁREAS DE ATENDIMENTO DISCENTE 
+## 8.5 ÁREAS DE ATENDIMENTO DISCENTE
 
 |Ambiente|Existente (sim/não)|A construir (sim/não)|Área (m2)|
 |---|---|---|---|
@@ -2838,15 +2685,13 @@ Ministerio da Educacao<br>**----- End of picture text -----**<br>
 |Primeiros socorros|sim|não|-|
 |Serviço social|sim|não|-|
 
+112
 
+Ministerioda Educacao
 
-112 
+## INSTITUTOFEDERAL Parana
 
-Ministerioda Educacao 
-
-## INSTITUTOFEDERAL Parana 
-
-## 8.6 ÁREAS DE APOIO 
+## 8.6 ÁREAS DE APOIO
 
 |Ambiente|Existente (sim/não)|A construir (sim/não)|Área (m2)|
 |---|---|---|---|
@@ -2855,725 +2700,687 @@ Ministerioda Educacao
 |Sala de audiovisual|sim|não|-|
 |Mecanografia|sim|não|-|
 
+## 8.7 BIBLIOTECA
 
+A Biblioteca IFPR Campus Curitiba funciona de segunda à sexta-feira, das 07h15min às 21:15 e aos sábados das 08:00 às 12:00. É informatizada e utiliza o Sistema Pergamum, que permite gerenciar diversos serviços: catalogação de materiais, cadastro de usuários, consulta ao acervo, empréstimos, devoluções, reserva, relatórios, cadastro de planos de ensino, levantamentos bibliográficos, entre outros. A bibliografia básica e complementar de cada disciplina totaliza 102 títulos, 637 exemplares (somente livros).
 
-## 8.7 BIBLIOTECA 
+No acervo da biblioteca encontram-se livros multidisciplinares que também fazem parte das bibliografias utilizadas pelo curso  os quais  são:  Metodologia da Pesquisa 134 títulos / 382 exemplares; Psicologia 432 títulos / 925 exemplares; Saúde do trabalhador / Biossegurança 35 títulos / 163 exemplares; Anatomia, Cinesiologia, Farmacologia, Fisiologia, Patologias, Socorros de Urgências, Diversas Terapias, Massagem e demais relacionados à área da saúde 1376 títulos / 4415 exemplares; Administração 464 títulos / 2439 exemplares. O total de títulos é de 2441 e de exemplares e de 5885.
 
-A Biblioteca IFPR Campus Curitiba funciona de segunda à sexta-feira, das 07h15min às 21:15 e aos sábados das 08:00 às 12:00. É informatizada e utiliza o Sistema Pergamum, que permite gerenciar diversos serviços: catalogação de materiais, cadastro de usuários, consulta ao acervo, empréstimos, devoluções, reserva, relatórios, cadastro de planos de ensino, levantamentos bibliográficos, entre outros. A bibliografia básica e complementar de cada disciplina totaliza 102 títulos, 637 exemplares (somente livros). 
+Periódicos Impressos 4 títulos / 28 exemplares, recursos digitais acesso ao Portal de Periódicos Capes e assinatura das Normas ABNT / ISO (Associação Brasileira de Normas Técnicas), mídias e materiais adicionais (CDS e DVDS) que acompanham alguns títulos da área da saúde 135 exemplares.
 
-No acervo da biblioteca encontram-se livros multidisciplinares que também fazem parte das bibliografias utilizadas pelo curso  os quais  são:  Metodologia da Pesquisa 134 títulos / 382 exemplares; Psicologia 432 títulos / 925 exemplares; Saúde do trabalhador / Biossegurança 35 títulos / 163 exemplares; Anatomia, Cinesiologia, Farmacologia, Fisiologia, Patologias, Socorros de Urgências, Diversas Terapias, Massagem e demais relacionados à área da saúde 1376 títulos / 4415 exemplares; Administração 464 títulos / 2439 exemplares. O total de títulos é de 2441 e de exemplares e de 5885. 
+113
 
-Periódicos Impressos 4 títulos / 28 exemplares, recursos digitais acesso ao Portal de Periódicos Capes e assinatura das Normas ABNT / ISO (Associação Brasileira de Normas Técnicas), mídias e materiais adicionais (CDS e DVDS) que acompanham alguns títulos da área da saúde 135 exemplares. 
+Ministerio da Educacao
 
-113 
+## INSTITUTOFEDERAL
 
-Ministerio da Educacao 
+Parana
 
-## INSTITUTOFEDERAL 
+## **9. PLANEJAMENTO ECONÔMICO E SUSTENTABILIDADE FINANCEIRA**
 
-Parana 
+## 9.1 EXPANSÃO DO QUADRO DOCENTE
 
-## **9. PLANEJAMENTO ECONÔMICO E SUSTENTABILIDADE FINANCEIRA** 
+Não há previsão de contratação de novos servidores técnico-administrativos e de novos docentes, pois todos os docentes citados no item 6.1.4 Relação do Corpo docente atuam no Curso Superior em Tecnologia em Massoterapia.
 
-## 9.1 EXPANSÃO DO QUADRO DOCENTE 
+## 9.2 PROJEÇÃO DE AQUISIÇÃO DE MATERIAIS PERMANENTE E CONSUMO
 
-Não há previsão de contratação de novos servidores técnico-administrativos e de novos docentes, pois todos os docentes citados no item 6.1.4 Relação do Corpo docente atuam no Curso Superior em Tecnologia em Massoterapia. 
+Não haverá necessidade de compra de materiais para laboratórios, pois será utilizado do curso Técnico de Massoterapia.
 
-## 9.2 PROJEÇÃO DE AQUISIÇÃO DE MATERIAIS PERMANENTE E CONSUMO 
+## 9.3 PROJEÇÃO DE AQUISIÇÃO DE ACERVO BIBLIOGRÁFICO
 
-Não haverá necessidade de compra de materiais para laboratórios, pois será utilizado do curso Técnico de Massoterapia. 
+As bibliografias que não se encontram no acervo serão adquiridas conforme a necessidade respeitando o calendário de compras da instituição. Anualmente os docentes com atuação no curso são contatados para informar a bibliografia necessária para cada disciplina e proverão três orçamentos. Ressalta-se que os docentes deverão indicar somente obras com edições atualizadas ou reeditadas. Na bibliografia básica, deve haver a previsão de compra de no mínimo três (3) bibliografias. Na bibliografia complementar, devem ser previstas no mínimo cinco (5) bibliografias. Se a mesma bibliografia for utilizada em outros componentes curriculares do mesmo curso ou em outros cursos, a previsão de compra deverá ser revista para atender aos instrumentos de avaliação do INEP.
 
-## 9.3 PROJEÇÃO DE AQUISIÇÃO DE ACERVO BIBLIOGRÁFICO 
+114
 
-As bibliografias que não se encontram no acervo serão adquiridas conforme a necessidade respeitando o calendário de compras da instituição. Anualmente os docentes com atuação no curso são contatados para informar a bibliografia necessária para cada disciplina e proverão três orçamentos. Ressalta-se que os docentes deverão indicar somente obras com edições atualizadas ou reeditadas. Na bibliografia básica, deve haver a previsão de compra de no mínimo três (3) bibliografias. Na bibliografia complementar, devem ser previstas no mínimo cinco (5) bibliografias. Se a mesma bibliografia for utilizada em outros componentes curriculares do mesmo curso ou em outros cursos, a previsão de compra deverá ser revista para atender aos instrumentos de avaliação do INEP. 
+INSTITUTOFEDERAL Parana
 
-114 
+Ministerio da Educacao<br>
 
-INSTITUTOFEDERAL Parana 
+## **REFERÊNCIAS**
 
-**==> picture [64 x 9] intentionally omitted <==**
+BRASIL. Concepção e diretrizes – Instituto Federal de Educação, Ciência e Tecnologia. Brasília: MEC/SETEC. 2008.
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+BRASIL\2009 Referência Técnica para o funcionamento dos Serviços de Estética e Embelezamento sem responsabilidade Médica- Agência Nacional de vigilância SanitáriaANVISA-Brasília- 2009.
 
+BRASIL. Ministério da saúde. Política Nacional de Humanização- Humaniza SUS. Brasília: Ministério da Saúde, 2004.
 
-## **REFERÊNCIAS** 
+BRASIL. Constituição (1988). Constituição da República Federativa do Brasil. Brasília, DF: Senado Federal, 1988, 292.
 
-BRASIL. Concepção e diretrizes – Instituto Federal de Educação, Ciência e Tecnologia. Brasília: MEC/SETEC. 2008. 
+Brasil. 2006 - PNAB. QUE SE INSERE A. PNPIC-SUS.   nº 971 de. Portaria. Ministerial nº. 1600 de. Portaria SAS. Ministerial nº. 853 d. Decreto Nº 5.813 de. 22 /06/2006~
 
-BRASIL\2009 Referência Técnica para o funcionamento dos Serviços de Estética e Embelezamento sem responsabilidade Médica- Agência Nacional de vigilância SanitáriaANVISA-Brasília- 2009. 
+BRASIL. Ministério da saúde. Política Nacional de Humanização- Humaniza SUS. Brasília: Ministério da Saúde, 2004.
 
-BRASIL. Ministério da saúde. Política Nacional de Humanização- Humaniza SUS. Brasília: Ministério da Saúde, 2004. 
+Catálogo Nacional de Cursos Técnicos, 3ª edição, MEC,2008, P,28.
 
-BRASIL. Constituição (1988). Constituição da República Federativa do Brasil. Brasília, DF: Senado Federal, 1988, 292. 
+CASSAR. M.P. Manual de Massagem \terapêutica, Barueri, São Paulo, Manole, 2008.
 
-Brasil. 2006 - PNAB. QUE SE INSERE A. PNPIC-SUS.   nº 971 de. Portaria. Ministerial nº. 1600 de. Portaria SAS. Ministerial nº. 853 d. Decreto Nº 5.813 de. 22 /06/2006~ 
+HESSEN, Johannes. Teoria do Conhecimento. Tradução de João Vergílio Gallerani Cuter. São Paulo: Martins Fontes, 1999.
 
-BRASIL. Ministério da saúde. Política Nacional de Humanização- Humaniza SUS. Brasília: Ministério da Saúde, 2004. 
+LEI Nº 12.711, DE 29 DE AGOSTO DE 2012. Dispõe sobre o ingresso nas universidades federais e nas instituições federais de ensino técnico de nível médio e dá outras providências. Diário Oficial da União - Seção 1 - 30/8/2012, Página 1.
 
-Catálogo Nacional de Cursos Técnicos, 3ª edição, MEC,2008, P,28. 
+INSTITUTO FEDERAL DO PARANÁ. Plano de Desenvolvimento Institucional - PDI 2014/2018. Curitiba, 2014.
 
-CASSAR. M.P. Manual de Massagem \terapêutica, Barueri, São Paulo, Manole, 2008. 
+INSTITUTO FEDERAL DO PARANÁ. Plano de desenvolvimento institucional - PDI 20142018. Dezembro, 2014.
 
-HESSEN, Johannes. Teoria do Conhecimento. Tradução de João Vergílio Gallerani Cuter. São Paulo: Martins Fontes, 1999. 
+INSTITUTO FEDERAL DO PARANÁ. Programa Institucional de Bolsas de Extensão - PIBEX. Disponível em: http://reitoria.ifpr.edu.br/menu-institucional/proreitorias/proepi- 2/extensao/programas/bolsas-de-extensao/ Acesso em: 20 ago 2017
 
-LEI Nº 12.711, DE 29 DE AGOSTO DE 2012. Dispõe sobre o ingresso nas universidades federais e nas instituições federais de ensino técnico de nível médio e dá outras providências. Diário Oficial da União - Seção 1 - 30/8/2012, Página 1. 
+INSTITUTO FEDERAL DO PARANÁ. PBIC. Disponível em:http://reitoria.ifpr.edu.br/menu-institucional/pro-reitorias/proepi2/pesquisa-einovacao/iniciacao-cientifica/pibic/ Acesso em: 10 dez 2017
 
-INSTITUTO FEDERAL DO PARANÁ. Plano de Desenvolvimento Institucional - PDI 2014/2018. Curitiba, 2014. 
+INSTITUTO FEDERAL DO PARANÁ. Resolução n.º 11/2009, que determina a Política de Apoio Estudantil do Instituto Federal do Paraná.
 
-INSTITUTO FEDERAL DO PARANÁ. Plano de desenvolvimento institucional - PDI 20142018. Dezembro, 2014. 
+115
 
-INSTITUTO FEDERAL DO PARANÁ. Programa Institucional de Bolsas de Extensão - PIBEX. Disponível em: http://reitoria.ifpr.edu.br/menu-institucional/proreitorias/proepi- 2/extensao/programas/bolsas-de-extensao/ Acesso em: 20 ago 2017 
+## INSTITUTOFEDERAL
 
-INSTITUTO FEDERAL DO PARANÁ. PBIC. Disponível em:http://reitoria.ifpr.edu.br/menu-institucional/pro-reitorias/proepi2/pesquisa-einovacao/iniciacao-cientifica/pibic/ Acesso em: 10 dez 2017 
+## Parana
 
-INSTITUTO FEDERAL DO PARANÁ. Resolução n.º 11/2009, que determina a Política de Apoio Estudantil do Instituto Federal do Paraná. 
+Ministerio da Educacao
 
-115 
+INSTITUTO FEDERAL DO PARANÁ. Resolução n.º 04/2010 - Conselho Superior Dispõe sobre o Programa de Monitoria do Instituto Federal do Paraná (29/03/2010)
 
-## INSTITUTOFEDERAL 
+INSTITUTO FEDERAL DO PARANÁ. Resolução n.º 64/2010 - Aprova a criação do Programa de Bolsas Acadêmicas de Inclusão Social (28/07/2010)
 
-## Parana 
+INSTITUTO FEDERAL DO PARANÁ. Resolução n.º 65/2010- Aprova a criação do Programa de Apoio a Eventos Estudantis.
 
-Ministerio da Educacao 
+INSTITUTO FEDERAL DO PARANÁ. Resolução nº 53, de 21 de dezembro de 2011. Altera os artigos 7º, 8º e 12 da Resolução 11/2009, que determina a Política de Apoio Estudantil do Instituto Federal do Paraná.
 
-INSTITUTO FEDERAL DO PARANÁ. Resolução n.º 04/2010 - Conselho Superior Dispõe sobre o Programa de Monitoria do Instituto Federal do Paraná (29/03/2010) 
+INSTITUTO FEDERAL DO PARANÁ. Instrução interna de Procedimentos — IIP n.º 20 PROENS, 27/02/2012 - Aprova a criação do Programa de Assistência Complementar ao Estudante do Instituto Federal do Paraná (PACE)
 
-INSTITUTO FEDERAL DO PARANÁ. Resolução n.º 64/2010 - Aprova a criação do Programa de Bolsas Acadêmicas de Inclusão Social (28/07/2010) 
+INSTITUTO FEDERAL DO PARANÁ. Instrução Interna de Procedimentos — IIP N.º 001/2014 PROENS/IFPR, 28/03/2014 - Cria e regulamenta o Programa Estudante-Atleta no Instituto Federal do Paraná.
 
-INSTITUTO FEDERAL DO PARANÁ. Resolução n.º 65/2010- Aprova a criação do Programa de Apoio a Eventos Estudantis. 
+INSTITUTO FEDERAL DO PARANÁ. Instrução Interna de Procedimentos — IIP N.º 002/2014 PROENS/IFPR - Cria e regulamenta as normas e procedimentos para a Mobilidade Estudantil do Instituto Federal do Paraná.
 
-INSTITUTO FEDERAL DO PARANÁ. Resolução nº 53, de 21 de dezembro de 2011. Altera os artigos 7º, 8º e 12 da Resolução 11/2009, que determina a Política de Apoio Estudantil do Instituto Federal do Paraná. 
+INSTITUTO FEDERAL DO PARANÁ. Resolução nº 01, de 05 de fevereiro de 2015 — Altera a Resolução 64/2010 – CONSUP, que aprovou a criação do Programa de Bolsas Acadêmicas de Inclusão Social.
 
-INSTITUTO FEDERAL DO PARANÁ. Instrução interna de Procedimentos — IIP n.º 20 PROENS, 27/02/2012 - Aprova a criação do Programa de Assistência Complementar ao Estudante do Instituto Federal do Paraná (PACE) 
+MACIOCIA, G. Canais de Acupuntura, São Paulo, Ed Roca 2008.
 
-INSTITUTO FEDERAL DO PARANÁ. Instrução Interna de Procedimentos — IIP N.º 001/2014 PROENS/IFPR, 28/03/2014 - Cria e regulamenta o Programa Estudante-Atleta no Instituto Federal do Paraná. 
+RAYNAUT, Claude. Os desafios contemporâneos da produção do conhecimento: o apelo para interdisciplinaridade. Interthesis, vol 11, n. 01, jan/jun 2014, pp. 1-22. Acessível em: https://periodicos.ufsc.br/index.php/interthesis/article/view/18071384.2014v11n1p1/26883
 
-INSTITUTO FEDERAL DO PARANÁ. Instrução Interna de Procedimentos — IIP N.º 002/2014 PROENS/IFPR - Cria e regulamenta as normas e procedimentos para a Mobilidade Estudantil do Instituto Federal do Paraná. 
+SANTANA, CPV; NASCIMENTO, A. Práticas Integrativas e complementares: cuidado integral dentro da atenção psicossocial através de práticas corporais. Bahia. Disponível em: http://www7.bahiana.edu.br//jspui/handle/bahiana/332 Acesso em 19 de novembro, 2017
 
-INSTITUTO FEDERAL DO PARANÁ. Resolução nº 01, de 05 de fevereiro de 2015 — Altera a Resolução 64/2010 – CONSUP, que aprovou a criação do Programa de Bolsas Acadêmicas de Inclusão Social. 
+SCHNÄDELBACH, Herbert. Filosofia en Alemania, 1831 – 1933. Tradução de Pepa Linares. Madrid: Cátedra, 1982.
 
-MACIOCIA, G. Canais de Acupuntura, São Paulo, Ed Roca 2008. 
+116
 
-RAYNAUT, Claude. Os desafios contemporâneos da produção do conhecimento: o apelo para interdisciplinaridade. Interthesis, vol 11, n. 01, jan/jun 2014, pp. 1-22. Acessível em: https://periodicos.ufsc.br/index.php/interthesis/article/view/18071384.2014v11n1p1/26883 
+## INSTITUTOFEDERAL
 
-SANTANA, CPV; NASCIMENTO, A. Práticas Integrativas e complementares: cuidado integral dentro da atenção psicossocial através de práticas corporais. Bahia. Disponível em: http://www7.bahiana.edu.br//jspui/handle/bahiana/332 Acesso em 19 de novembro, 2017 
+Parana
 
-SCHNÄDELBACH, Herbert. Filosofia en Alemania, 1831 – 1933. Tradução de Pepa Linares. Madrid: Cátedra, 1982. 
+Ministerio da Educacao
 
-116 
+## **APÊNDICES**
 
-## INSTITUTOFEDERAL 
+117
 
-Parana 
+Parana
 
-Ministerio da Educacao 
+## INSTITUTOFEDERAL
 
-## **APÊNDICES** 
+Ministerio da Educacao<br>
 
-117 
+APÊNDICE A - Regulamento de TCC
 
-Parana 
+## 1) INTRODUÇÃO
 
-## INSTITUTOFEDERAL 
+A ABNT – Associação Brasileira de Normas Técnicas, define o Trabalho de Conclusão de Curso - TCC como: Documento que representa o resultado de estudo, devendo expressar conhecimento do assunto escolhido, que deve ser obrigatoriamente emanado da disciplina, módulo, estudo independente, curso, programa e outros ministrados. Deve ser feito sob a coordenação de um orientador (NBR 14724, 2005).
 
-**==> picture [64 x 9] intentionally omitted <==**
+Apesar da denominação dada a cada trabalho, em função do nível de investigação e de formação (TCC, monografia, projeto final, projeto de intervenção, projeto de conclusão), todos são considerados, de fato, trabalhos monográficos, ou seja, são produtos de pesquisa científica, que tem por objetivo encontrar soluções para problemas propostos, mediante a utilização de métodos científicos.
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+Todo trabalho científico consiste na realização de um estudo planejado que visa, fundamentalmente, contribuir para o avanço do conhecimento humano em todos os setores. Dessa forma, os TCCs deverão ser elaborados de acordo com os padrões acadêmicos próprios de uma investigação científica, devendo, para isso, seguir os critérios de cientificidade que caracterizam o trabalho de pesquisa.
 
+As horas-aula desta disciplina são destinadas a noções básicas sobre metodologia do trabalho científico, pesquisa em bases de dados, desenvolvimento das atividades, elaboração, redação e preparo da apresentação do TCC.
 
-APÊNDICE A - Regulamento de TCC 
+## 2) OBJETIVOS
 
-## 1) INTRODUÇÃO 
+O Trabalho de Conclusão do Curso-TCC, em geral, atende a objetivos determinados:
 
-A ABNT – Associação Brasileira de Normas Técnicas, define o Trabalho de Conclusão de Curso - TCC como: Documento que representa o resultado de estudo, devendo expressar conhecimento do assunto escolhido, que deve ser obrigatoriamente emanado da disciplina, módulo, estudo independente, curso, programa e outros ministrados. Deve ser feito sob a coordenação de um orientador (NBR 14724, 2005). 
+- I- possibilitar o aprofundamento de temas abordados ao longo do curso, integrando os conteúdos teórico-práticos e desenvolvidos nas diversas atividades acadêmicas;
 
-Apesar da denominação dada a cada trabalho, em função do nível de investigação e de formação (TCC, monografia, projeto final, projeto de intervenção, projeto de conclusão), todos são considerados, de fato, trabalhos monográficos, ou seja, são produtos de pesquisa científica, que tem por objetivo encontrar soluções para problemas propostos, mediante a utilização de métodos científicos. 
+- IIpossibilitar ao estudante o desenvolvimento de atividades investigativas, a execução de técnicas específicas ou a execução de projetos de intervenção na realidade ou de execução de técnicas específicas, buscando a resolução de problemas relacionados à prática profissional;
 
-Todo trabalho científico consiste na realização de um estudo planejado que visa, fundamentalmente, contribuir para o avanço do conhecimento humano em todos os setores. Dessa forma, os TCCs deverão ser elaborados de acordo com os padrões acadêmicos próprios de uma investigação científica, devendo, para isso, seguir os critérios de cientificidade que caracterizam o trabalho de pesquisa. 
+- IIIcapacitar o estudante para a elaboração e apresentação de trabalho científico escrito;
 
-As horas-aula desta disciplina são destinadas a noções básicas sobre metodologia do trabalho científico, pesquisa em bases de dados, desenvolvimento das atividades, elaboração, redação e preparo da apresentação do TCC. 
+IVpreparar o estudante para a continuidade de seus estudos e de sua formação em nível de graduação;
 
-## 2) OBJETIVOS 
+- V- contribuir para o enriquecimento das diferentes linhas de estudo, estimulando a produção científica.
 
-O Trabalho de Conclusão do Curso-TCC, em geral, atende a objetivos determinados: 
+118
 
-- I- possibilitar o aprofundamento de temas abordados ao longo do curso, integrando os conteúdos teórico-práticos e desenvolvidos nas diversas atividades acadêmicas; 
+Parana
 
-- IIpossibilitar ao estudante o desenvolvimento de atividades investigativas, a execução de técnicas específicas ou a execução de projetos de intervenção na realidade ou de execução de técnicas específicas, buscando a resolução de problemas relacionados à prática profissional; 
+## INSTITUTOFEDERAL
 
-- IIIcapacitar o estudante para a elaboração e apresentação de trabalho científico escrito; 
+Ministerio da Educacao<br>
 
-IVpreparar o estudante para a continuidade de seus estudos e de sua formação em nível de graduação; 
+## 3) ORIENTAÇÕES
 
-- V- contribuir para o enriquecimento das diferentes linhas de estudo, estimulando a produção científica. 
+O Planejamento das atividades para elaboração do TCC deve estar de acordo com os prazos definidos no calendário letivo.
 
-118 
+Observação: Os trabalhos de Conclusão de curso poderão ser realizados individualmente ou em equipe de acordo com a orientação do Colegiado do curso e do coordenador da disciplina.
 
-Parana 
+## 3.1) Matrícula
 
-## INSTITUTOFEDERAL 
+- I- o estudante deverá matricular-se na disciplina no prazo estipulado no calendário letivo;
 
-**==> picture [64 x 9] intentionally omitted <==**
+- IIaté o final do primeiro mês de aulas o estudante indicará o tema provável da pesquisa ao Coordenador da disciplina e preencherá conjuntamente com o Orientador uma via do plano de trabalho.
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+## 3.2) Escolha do Orientador
 
+- I- o Orientador deverá ser escolhido entre o corpo docente da área, com titulação mínima e qualificação para orientar o discente.
 
-## 3) ORIENTAÇÕES 
+- IIo Orientador poderá contar com a colaboração ou a coorientação de outros especialistas da Instituição ou externos, desde que aprovado pelo Colegiado do Curso e Direção de Ensino, Pesquisa e Extensão do campus.
 
-O Planejamento das atividades para elaboração do TCC deve estar de acordo com os prazos definidos no calendário letivo. 
+## 3.3) Atribuições e competências do orientador
 
-Observação: Os trabalhos de Conclusão de curso poderão ser realizados individualmente ou em equipe de acordo com a orientação do Colegiado do curso e do coordenador da disciplina. 
+   - a. orientar o aluno no processo de elaboração científica de seu TCC, acompanhando e avaliando o desenvolvimento do trabalho em todas as suas fases;
 
-## 3.1) Matrícula 
+   - b. estabelecer o plano e cronograma do trabalho em conjunto com o orientando;
 
-- I- o estudante deverá matricular-se na disciplina no prazo estipulado no calendário letivo; 
+   - c. informar o aluno sobre as normas, procedimentos e critérios de avaliação respectivos;
 
-- IIaté o final do primeiro mês de aulas o estudante indicará o tema provável da pesquisa ao Coordenador da disciplina e preencherá conjuntamente com o Orientador uma via do plano de trabalho. 
+- IIcomunicar ao Coordenador da disciplina de TCC quando ocorrerem problemas, dificuldades e dúvidas relativas ao processo de orientação, para que o   mesmo, juntamente com o Colegiado do Curso, tome as devidas providências;
 
-## 3.2) Escolha do Orientador 
+- IIIcomparecer às reuniões, convocadas pelo Coordenador do Trabalho de Conclusão do Curso, para discutir questões relativas à organização, planejamento, desenvolvimento e avaliação respectivas;
 
-- I- o Orientador deverá ser escolhido entre o corpo docente da área, com titulação mínima e qualificação para orientar o discente. 
+119
 
-- IIo Orientador poderá contar com a colaboração ou a coorientação de outros especialistas da Instituição ou externos, desde que aprovado pelo Colegiado do Curso e Direção de Ensino, Pesquisa e Extensão do campus. 
+## INSTITUTOFEDERAL
 
-## 3.3) Atribuições e competências do orientador 
+## Parana
 
-   - a. orientar o aluno no processo de elaboração científica de seu TCC, acompanhando e avaliando o desenvolvimento do trabalho em todas as suas fases; 
+Ministerio da Educacao
 
-   - b. estabelecer o plano e cronograma do trabalho em conjunto com o orientando; 
+- IVencaminhar ao Coordenador do TCC o título do trabalho e a composição da banca examinadora na data solicitada e confirmar a data e horário da defesa pública;
 
-   - c. informar o aluno sobre as normas, procedimentos e critérios de avaliação respectivos; 
+- V- presidir a banca examinadora do trabalho por ele orientado;
 
-- IIcomunicar ao Coordenador da disciplina de TCC quando ocorrerem problemas, dificuldades e dúvidas relativas ao processo de orientação, para que o   mesmo, juntamente com o Colegiado do Curso, tome as devidas providências; 
+- VIatribuir conceito ao aluno, conforme o desenvolvimento do plano de trabalho (conceitos parciais), desempenho nas atividades, apresentação oral e escrita do TCC, lançando o conceito do último bimestre letivo e fechando a pauta da disciplina, somente após conferência das correções na versão final entregue pelo orientando.
 
-- IIIcomparecer às reuniões, convocadas pelo Coordenador do Trabalho de Conclusão do Curso, para discutir questões relativas à organização, planejamento, desenvolvimento e avaliação respectivas; 
+## 3.4) Direitos do orientando
 
-119 
+   - I- definir a temática da monografia com seu Orientador e em conformidade com as linhas de estudo da área;
 
-## INSTITUTOFEDERAL 
+   - IIter um docente Orientador com conhecimento na área temática escolhida;
 
-## Parana 
+   - IIIsolicitar orientação diretamente ao docente escolhido ou através do Coordenador de TCC; IV - ser informado sobre as normas e regulamentação do TCC;
 
-Ministerio da Educacao 
+   - IVcomunicar ao Coordenador de TCC quando ocorrem problemas, dificuldades e dúvidas relativas ao processo de orientação, para que o mesmo, ouvido o Colegiado do Curso, tome as devidas providências;
 
-- IVencaminhar ao Coordenador do TCC o título do trabalho e a composição da banca examinadora na data solicitada e confirmar a data e horário da defesa pública; 
+   - V- mudar de temática e se for o caso, de Orientador, apenas uma vez, no máximo até 1 (um) mês após o início da orientação, mediante avaliação do Coordenador de TCC e do Colegiado do Curso.
 
-- V- presidir a banca examinadora do trabalho por ele orientado; 
+- 3.5) Deveres do orientando
 
-- VIatribuir conceito ao aluno, conforme o desenvolvimento do plano de trabalho (conceitos parciais), desempenho nas atividades, apresentação oral e escrita do TCC, lançando o conceito do último bimestre letivo e fechando a pauta da disciplina, somente após conferência das correções na versão final entregue pelo orientando. 
+   - I- definir o Orientador, de acordo com as disponibilidades dos docentes que possuem qualificação para exercer a orientação, e o tema do seu TCC no prazo máximo de 20 (vinte) dias após o início do ano letivo, preenchendo o plano de trabalho e informando o Coordenador do TCC;
 
-## 3.4) Direitos do orientando 
+   - IIcumprir as normas e regulamentação próprias para elaboração do TCC;
 
-   - I- definir a temática da monografia com seu Orientador e em conformidade com as linhas de estudo da área; 
+   - IIIcumprir as etapas estabelecidas no plano de trabalho elaborado junto com o Orientador;
 
-   - IIter um docente Orientador com conhecimento na área temática escolhida; 
+   - IVdar ciência sobre os trabalhos desenvolvidos sempre que isto seja solicitado pelo Orientador ou Coorientador;
 
-   - IIIsolicitar orientação diretamente ao docente escolhido ou através do Coordenador de TCC; IV - ser informado sobre as normas e regulamentação do TCC; 
+   - V- respeitar as normas e prazos estabelecidos no plano de trabalho do TCC proposto pelo seu Coordenador e aprovado pelo Colegiado do Curso;
 
-   - IVcomunicar ao Coordenador de TCC quando ocorrem problemas, dificuldades e dúvidas relativas ao processo de orientação, para que o mesmo, ouvido o Colegiado do Curso, tome as devidas providências; 
+   - VIapresentar a monografia ou artigo científico à banca examinadora somente após o aval do Orientador, sendo que ao orientando que não entregá-la no prazo
 
-   - V- mudar de temática e se for o caso, de Orientador, apenas uma vez, no máximo até 1 (um) mês após o início da orientação, mediante avaliação do Coordenador de TCC e do Colegiado do Curso. 
+120
 
-- 3.5) Deveres do orientando 
+Ministerio da Educacao
 
-   - I- definir o Orientador, de acordo com as disponibilidades dos docentes que possuem qualificação para exercer a orientação, e o tema do seu TCC no prazo máximo de 20 (vinte) dias após o início do ano letivo, preenchendo o plano de trabalho e informando o Coordenador do TCC; 
+## INSTITUTOFEDERAL Parana
 
-   - IIcumprir as normas e regulamentação próprias para elaboração do TCC; 
+determinado pelo calendário do TCC (primeira avaliação da banca com pelo menos 25 dias antes do término do período letivo), será atribuída a nota zero e conceito final D;
 
-   - IIIcumprir as etapas estabelecidas no plano de trabalho elaborado junto com o Orientador; 
+- VIIentregar três (3) vias impressas do Trabalho de Conclusão de Curso concluído ao Coordenador da disciplina com pelo menos 25 dias de antecedência da apresentação do trabalho para a banca.
 
-   - IVdar ciência sobre os trabalhos desenvolvidos sempre que isto seja solicitado pelo Orientador ou Coorientador; 
+- VIII- defender publicamente o Trabalho de Conclusão de Curso de acordo com o cronograma estabelecido pelo Coordenador de TCC;
 
-   - V- respeitar as normas e prazos estabelecidos no plano de trabalho do TCC proposto pelo seu Coordenador e aprovado pelo Colegiado do Curso; 
+- IXrealizar as correções do TCC sugeridas pela banca examinadora;
 
-   - VIapresentar a monografia ou artigo científico à banca examinadora somente após o aval do Orientador, sendo que ao orientando que não entregá-la no prazo 
+- X- entregar 1 (uma) cópia da versão final do Trabalho de Conclusão de Curso com as correções propostas pela banca examinadora, na forma impressa e uma cópia em meio digital ao Coordenador de TCC.
 
-120 
+## 4) NORMAS PARA ELABORAÇÃO DO TCC
 
-Ministerio da Educacao 
+## 4.1) Etapas
 
-## INSTITUTOFEDERAL Parana 
+O estudante, a partir da definição do tema do TCC, deve:
 
-determinado pelo calendário do TCC (primeira avaliação da banca com pelo menos 25 dias antes do término do período letivo), será atribuída a nota zero e conceito final D; 
+   - I- fazer o levantamento da bibliografia;
 
-- VIIentregar três (3) vias impressas do Trabalho de Conclusão de Curso concluído ao Coordenador da disciplina com pelo menos 25 dias de antecedência da apresentação do trabalho para a banca. 
+   - IIelaborar todos os itens do TCC conforme a modalidade definida pelo colegiado do curso que realiza;
 
-- VIII- defender publicamente o Trabalho de Conclusão de Curso de acordo com o cronograma estabelecido pelo Coordenador de TCC; 
+   - IIIinteirar-se dos processos de obtenção dos dados; IV - aprender a analisar os dados;
 
-- IXrealizar as correções do TCC sugeridas pela banca examinadora; 
+   - IVformular coerentemente a conclusão;
 
-- X- entregar 1 (uma) cópia da versão final do Trabalho de Conclusão de Curso com as correções propostas pela banca examinadora, na forma impressa e uma cópia em meio digital ao Coordenador de TCC. 
+   - V- apresentar o trabalho final de acordo com as normas de trabalhos técnicocientíficos;
 
-## 4) NORMAS PARA ELABORAÇÃO DO TCC 
+   - VIapresentar defesa pública.
 
-## 4.1) Etapas 
+- 4.2) Tópicos do plano de trabalho e do TCC
 
-O estudante, a partir da definição do tema do TCC, deve: 
+O TCC deverá ser estruturado na forma de texto, sugerindo-se quando aplicável, as normas usuais para trabalhos científicos, seguindo normas da ABNT e das Normas de Apresentação de Trabalhos Acadêmicos do Instituto Federal do Paraná.
 
-   - I- fazer o levantamento da bibliografia; 
+O Plano de Trabalho deverá contemplar no mínimo os seguintes tópicos:
 
-   - IIelaborar todos os itens do TCC conforme a modalidade definida pelo colegiado do curso que realiza; 
+- I- informações sobre o aluno e horário da realização dos trabalhos;
 
-   - IIIinteirar-se dos processos de obtenção dos dados; IV - aprender a analisar os dados; 
+- IIjustificativa;
 
-   - IVformular coerentemente a conclusão; 
+- IIIobjetivos;
 
-   - V- apresentar o trabalho final de acordo com as normas de trabalhos técnicocientíficos; 
+- IVatividades a serem desenvolvidas.
 
-   - VIapresentar defesa pública. 
+121
 
-- 4.2) Tópicos do plano de trabalho e do TCC 
+Parana
 
-O TCC deverá ser estruturado na forma de texto, sugerindo-se quando aplicável, as normas usuais para trabalhos científicos, seguindo normas da ABNT e das Normas de Apresentação de Trabalhos Acadêmicos do Instituto Federal do Paraná. 
+Ministerio da Educacao
 
-O Plano de Trabalho deverá contemplar no mínimo os seguintes tópicos: 
+## INSTITUTOFEDERAL
 
-- I- informações sobre o aluno e horário da realização dos trabalhos; 
+O TCC deverá contemplar os seguintes tópicos, com variações, de acordo com a modalidade de trabalho definida pelos colegiados de curso:
 
-- IIjustificativa; 
+V- título;
 
-- IIIobjetivos; 
+VIresumo; VIIlista de Figuras, Tabelas e Abreviaturas, Apêndices e Anexos; VIII- introdução;
 
-- IVatividades a serem desenvolvidas. 
+IXrevisão bibliográfica;
 
-121 
+X- objetivos do trabalho; XImetodologia; XIIdiscussão e/ou apresentação de resultados; IX- conclusões; XIII- referências.
 
-Parana 
+## 5) MODALIDADES DE REDAÇÃO DO TCC
 
-Ministerio da Educacao 
+O TCC deverá ser redigido e impresso sob a forma de artigo científico: a redação, em português, deverá estar em concordância com as normas estabelecidas pelo Colegiado do Curso.
 
-## INSTITUTOFEDERAL 
+Observação: Trabalhos práticos e específicos de áreas tecnológicas poderão ser entregues na forma de mídia digital.
 
-O TCC deverá contemplar os seguintes tópicos, com variações, de acordo com a modalidade de trabalho definida pelos colegiados de curso: 
+- 6) CRITÉRIOS E METODOLOGIA DE AVALIAÇÃO DO TCC
 
-V- título; 
+- 6.1) Parte escrita
 
-VIresumo; VIIlista de Figuras, Tabelas e Abreviaturas, Apêndices e Anexos; VIII- introdução; 
+A avaliação da parte escrita do TCC pela banca examinadora considerará:
 
-IXrevisão bibliográfica; 
+- I. contribuição para a área, atualidade do tema e da revisão bibliográfica;
 
-X- objetivos do trabalho; XImetodologia; XIIdiscussão e/ou apresentação de resultados; IX- conclusões; XIII- referências. 
+- II. coerência entre objetivos, a metodologia empregada e as conclusões do trabalho;
 
-## 5) MODALIDADES DE REDAÇÃO DO TCC 
+- III. qualidade da discussão dos dados e resultados;
 
-O TCC deverá ser redigido e impresso sob a forma de artigo científico: a redação, em português, deverá estar em concordância com as normas estabelecidas pelo Colegiado do Curso. 
+- IV. coerência das conclusões com os objetivos iniciais do trabalho;
 
-Observação: Trabalhos práticos e específicos de áreas tecnológicas poderão ser entregues na forma de mídia digital. 
+- V. adequação às normas para apresentação de documento técnico-científico;
 
-- 6) CRITÉRIOS E METODOLOGIA DE AVALIAÇÃO DO TCC 
+- VI. a forma e correção gramatical de apresentação do trabalho.
 
-- 6.1) Parte escrita 
+122
 
-A avaliação da parte escrita do TCC pela banca examinadora considerará: 
+INSTITUTOFEDERAL Parana
 
-- I. contribuição para a área, atualidade do tema e da revisão bibliográfica; 
+Ministerio da Educacao
 
-- II. coerência entre objetivos, a metodologia empregada e as conclusões do trabalho; 
+## 6.2) Apresentação
 
-- III. qualidade da discussão dos dados e resultados; 
+A avaliação da apresentação oral e defesa pública considerará:
 
-- IV. coerência das conclusões com os objetivos iniciais do trabalho; 
+- I- conteúdo e forma da apresentação oral do TCC;
 
-- V. adequação às normas para apresentação de documento técnico-científico; 
+- IIrespeito ao tempo de apresentação de no mínimo 20 (vinte) e máximo 25 (vinte e cinco) minutos, excetuando-se a modalidade de Projeto de Intervenção que poderá estender o tempo de apresentação por até 30 minutos.
 
-- VI. a forma e correção gramatical de apresentação do trabalho. 
+- IIIdomínio do tema;
 
-122 
+- IVsegurança na abordagem-argumentação;
 
-INSTITUTOFEDERAL Parana 
+- V- clareza e objetividade;
 
-Ministerio da Educacao 
+- VIpertinência e acerto das respostas aos questionamentos formulados pelos membros da banca examinadora.
 
-## 6.2) Apresentação 
+## 6.3) Banca Examinadora
 
-A avaliação da apresentação oral e defesa pública considerará: 
+A banca examinadora será constituída pelo Orientador e por dois membros da área ou do colegiado do curso.
 
-- I- conteúdo e forma da apresentação oral do TCC; 
+Os membros da banca examinadora são sugeridos pelo Orientador, com participação e ciência do aluno, sendo que este deve informar ao Coordenador de TCC para, em seguida, homologar a indicação em reunião do Colegiado do Curso.
 
-- IIrespeito ao tempo de apresentação de no mínimo 20 (vinte) e máximo 25 (vinte e cinco) minutos, excetuando-se a modalidade de Projeto de Intervenção que poderá estender o tempo de apresentação por até 30 minutos. 
+## 6.4) Conceito
 
-- IIIdomínio do tema; 
+O TCC será avaliado através de uma média aritmética proveniente de 3 (três) notas, que resultarão no conceito do último bimestre letivo, considerando:
 
-- IVsegurança na abordagem-argumentação; 
+- I. média de desempenho das atividades bimestrais como: assiduidade, pontualidade, responsabilidade, criatividade, iniciativa, relacionamento e desempenho técnico com cumprimento do Plano de Trabalho;
 
-- V- clareza e objetividade; 
+- II. apresentação da monografia, Projeto de Intervenção ou artigo científico à banca examinadora de 3 (três) membros;
 
-- VIpertinência e acerto das respostas aos questionamentos formulados pelos membros da banca examinadora. 
+- III. apresentação oral em defesa pública à banca examinadora;
 
-## 6.3) Banca Examinadora 
+Caso o aluno seja reprovado na primeira apresentação do trabalho, este deverá no prazo não inferior a quinze dias após esta primeira apresentação, realizar a reapresentação do Trabalho de Conclusão de Curso com as devidas correções e passará por nova avaliação a ser realizada por outra banca (rebanca).
 
-A banca examinadora será constituída pelo Orientador e por dois membros da área ou do colegiado do curso. 
+A banca da segunda apresentação (rebanca) nunca será idêntica a banca da primeira apresentação do TCC.
 
-Os membros da banca examinadora são sugeridos pelo Orientador, com participação e ciência do aluno, sendo que este deve informar ao Coordenador de TCC para, em seguida, homologar a indicação em reunião do Colegiado do Curso. 
+123
 
-## 6.4) Conceito 
+## INSTITUTOFEDERAL Parana
 
-O TCC será avaliado através de uma média aritmética proveniente de 3 (três) notas, que resultarão no conceito do último bimestre letivo, considerando: 
+Ministerio da Educacao
 
-- I. média de desempenho das atividades bimestrais como: assiduidade, pontualidade, responsabilidade, criatividade, iniciativa, relacionamento e desempenho técnico com cumprimento do Plano de Trabalho; 
+A aprovação do aluno no TCC está condicionada a atingir o conceito final A, B ou C, lançada no sistema acadêmico pelo coordenador da disciplina somente após a entrega da versão corrigida, em prazo determinado pelo Coordenador de TCC.
 
-- II. apresentação da monografia, Projeto de Intervenção ou artigo científico à banca examinadora de 3 (três) membros; 
+## 7) CRONOGRAMA DE ATIVIDADES
 
-- III. apresentação oral em defesa pública à banca examinadora; 
+A elaboração do TCC exige uma sistematização de trabalho, tanto no desenvolvimento da pesquisa, quanto nos encontros com o orientador que supervisionará o estudante nas diversas etapas do trabalho.
 
-Caso o aluno seja reprovado na primeira apresentação do trabalho, este deverá no prazo não inferior a quinze dias após esta primeira apresentação, realizar a reapresentação do Trabalho de Conclusão de Curso com as devidas correções e passará por nova avaliação a ser realizada por outra banca (rebanca). 
+Para evitar transtornos ou situações que possam impedir a entrega do TCC no prazo estabelecido no cronograma, sugere-se que o estudante e seu orientador elaborem um calendário de encontros para discussão e acompanhamento das atividades a serem desenvolvidas.
 
-A banca da segunda apresentação (rebanca) nunca será idêntica a banca da primeira apresentação do TCC. 
+Registro de Ocorrências e Atendimento: o registro de ocorrências, no qual os estudantes e os orientadores poderão emitir, por escrito, sugestões, reclamações, solicitações ou qualquer outro assunto que considerarem   necessário de atenção especial deverá ser feito em formulário próprio e assinado pelo solicitante. A Coordenação terá prazo de 5 (cinco) dias úteis para emitir um parecer avaliativo, que deverá ser retirado junto a Coordenação da disciplina.
 
-123 
+## 8) CRONOGRAMA DE APRESENTAÇÕES
 
-## INSTITUTOFEDERAL Parana 
+O cronograma das apresentações contendo o nome dos estudantes, orientadores, datas e horários é feito pela Coordenação de TCC, consultando os orientadores e o colegiado do curso, e comunicando aos alunos, sempre respeitando os prazos já informados.
 
-Ministerio da Educacao 
+Eventuais trocas por indisponibilidades do orientador ou membros da banca devem ser feitas com antecedência consultando sobre a possibilidade da alteração com a anuência do Coordenador de TCC.
 
-A aprovação do aluno no TCC está condicionada a atingir o conceito final A, B ou C, lançada no sistema acadêmico pelo coordenador da disciplina somente após a entrega da versão corrigida, em prazo determinado pelo Coordenador de TCC. 
+124
 
-## 7) CRONOGRAMA DE ATIVIDADES 
+Ministerio daEducacao
 
-A elaboração do TCC exige uma sistematização de trabalho, tanto no desenvolvimento da pesquisa, quanto nos encontros com o orientador que supervisionará o estudante nas diversas etapas do trabalho. 
+## INSTITUTOFEDERAL Parana
 
-Para evitar transtornos ou situações que possam impedir a entrega do TCC no prazo estabelecido no cronograma, sugere-se que o estudante e seu orientador elaborem um calendário de encontros para discussão e acompanhamento das atividades a serem desenvolvidas. 
+PROPOSTA/PROJETO DO TCC E ROTEIRO DE PREENCHIMENTO DO FORMULÁRIO
 
-Registro de Ocorrências e Atendimento: o registro de ocorrências, no qual os estudantes e os orientadores poderão emitir, por escrito, sugestões, reclamações, solicitações ou qualquer outro assunto que considerarem   necessário de atenção especial deverá ser feito em formulário próprio e assinado pelo solicitante. A Coordenação terá prazo de 5 (cinco) dias úteis para emitir um parecer avaliativo, que deverá ser retirado junto a Coordenação da disciplina. 
+Instruções de preenchimento do formulário
 
-## 8) CRONOGRAMA DE APRESENTAÇÕES 
+É essencial o preenchimento de todos os campos, pois a falta de informações inviabilizará o julgamento da solicitação.
 
-O cronograma das apresentações contendo o nome dos estudantes, orientadores, datas e horários é feito pela Coordenação de TCC, consultando os orientadores e o colegiado do curso, e comunicando aos alunos, sempre respeitando os prazos já informados. 
+## 1 IDENTIFICAÇÃO DA PROPOSTA/ PROJETO
 
-Eventuais trocas por indisponibilidades do orientador ou membros da banca devem ser feitas com antecedência consultando sobre a possibilidade da alteração com a anuência do Coordenador de TCC. 
+TÍTULO DO TRABALHO:
 
-124 
+Palavras-chave:
 
-Ministerio daEducacao 
+## 2 IDENTIFICAÇÃO DO ESTUDANTE
 
-## INSTITUTOFEDERAL Parana 
+Nome: Matrícula: Telefone: e-mail:
 
-PROPOSTA/PROJETO DO TCC E ROTEIRO DE PREENCHIMENTO DO FORMULÁRIO 
+## 3 IDENTIFICAÇÃO DO ORIENTADOR
 
-Instruções de preenchimento do formulário 
+Nome completo: Titulação acadêmica: Especialista ( ) Mestre ( ) Doutor ( ) e-mail:
 
-É essencial o preenchimento de todos os campos, pois a falta de informações inviabilizará o julgamento da solicitação. 
+Co-orientador: Sim ( ) Não ( ) Nome completo: Titulação acadêmica: Especialista ( ) Mestre ( ) Doutor ( ) Telefone: e- mail:
 
-## 1 IDENTIFICAÇÃO DA PROPOSTA/ PROJETO 
+4 JUSTIFICATIVA (O estudante deve justificar a escolha do tema, tendo em vista sua relevância científica,
 
-TÍTULO DO TRABALHO: 
+educacional e/ou social. O trabalho deverá apresentar alguma contribuição para o esclarecimento ou enriquecimento
 
-Palavras-chave: 
+de informações sobre o assunto tratado.)
 
-## 2 IDENTIFICAÇÃO DO ESTUDANTE 
+5 RESUMO DO TRABALHO (Neste item deve ser apresentado um resumo de até 350 palavras da proposta/projeto descrevendo seus objetivos, procedimentos metodológicos e resultados esperados).
 
-Nome: Matrícula: Telefone: e-mail: 
+125
 
-## 3 IDENTIFICAÇÃO DO ORIENTADOR 
+INSTITUTOFEDERAL Parana
 
-Nome completo: Titulação acadêmica: Especialista ( ) Mestre ( ) Doutor ( ) e-mail: 
+Ministerio da Educacao<br>
 
-Co-orientador: Sim ( ) Não ( ) Nome completo: Titulação acadêmica: Especialista ( ) Mestre ( ) Doutor ( ) Telefone: e- mail: 
+Assinatura do Orientador Assinatura do Estudante DATA: DATA: 6 ( ) APROVAÇÃO ( ) REPROVAÇÃO COORDENAÇÃO DO
 
-4 JUSTIFICATIVA (O estudante deve justificar a escolha do tema, tendo em vista sua relevância científica, 
+TCC:
 
-educacional e/ou social. O trabalho deverá apresentar alguma contribuição para o esclarecimento ou enriquecimento 
+REGISTRO DE OCORRÊNCIAS E ATENDIMENTO FICHA DE ATENDIMENTO
 
-de informações sobre o assunto tratado.) 
+Estudante: Orientador: Data: / / Horário: : Duração do atendimento: : Telefone: _ e-mail: (do solicitante) Atendimento:
 
-5 RESUMO DO TRABALHO (Neste item deve ser apresentado um resumo de até 350 palavras da proposta/projeto descrevendo seus objetivos, procedimentos metodológicos e resultados esperados). 
+( ) Estudante ( ) Orientador ( ) Outro Natureza do atendimento: ( ) Dúvidas ( ) Reclamações ( ) Sugestões
 
-125 
+Assunto:
 
-INSTITUTOFEDERAL Parana 
+Histórico:
 
-**==> picture [64 x 8] intentionally omitted <==**
+Encaminhamento:
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+126
 
+INSTITUTOFEDERAL Parana
 
-Assinatura do Orientador Assinatura do Estudante DATA: DATA: 6 ( ) APROVAÇÃO ( ) REPROVAÇÃO COORDENAÇÃO DO 
+Ministerio daEducacao<br>
 
-TCC: 
+Situação atual:
 
-REGISTRO DE OCORRÊNCIAS E ATENDIMENTO FICHA DE ATENDIMENTO 
+( ) Concluído ( ) Em andamento
 
-Estudante: Orientador: Data: / / Horário: : Duração do atendimento: : Telefone: _ e-mail: (do solicitante) Atendimento: 
+Assinatura do Solicitante
 
-( ) Estudante ( ) Orientador ( ) Outro Natureza do atendimento: ( ) Dúvidas ( ) Reclamações ( ) Sugestões 
+Assinatura do Coordenador do TCC
 
-Assunto: 
+## FORMULÁRIO DE SUBSTITUIÇÃO DE ORIENTADOR
 
-Histórico: 
+Nome do(a) estudante: _ Nº de Matrícula: Nome do Orientador Inicial: Nome do Orientador Substituto: Título do TCC:
 
-Encaminhamento: 
+Justificativa:
 
-126 
+Data: / / .
 
-INSTITUTOFEDERAL Parana 
+Assinatura do(a) Estudante
 
-**==> picture [64 x 9] intentionally omitted <==**
+Data: / / . Data: / / .
 
-**----- Start of picture text -----**<br>
-Ministerio daEducacao<br>**----- End of picture text -----**<br>
+127
 
+## INSTITUTOFEDERAL
 
-Situação atual: 
+Parana
 
-( ) Concluído ( ) Em andamento 
+Assinatura do Orientador Inicial
 
-Assinatura do Solicitante 
+Ministerio da Educacao<br>
 
-Assinatura do Coordenador do TCC 
+Assinatura do Orientador Substituto
 
-## FORMULÁRIO DE SUBSTITUIÇÃO DE ORIENTADOR 
+Parecer da Coordenação do TCC:
 
-Nome do(a) estudante: _ Nº de Matrícula: Nome do Orientador Inicial: Nome do Orientador Substituto: Título do TCC: 
+Data: / / .
 
-Justificativa: 
+Assinatura do Coordenador de TCC INDICAÇÃO DE BANCA EXAMINADORA PARA TRABALHO DE CONCLUSÃO DE CURSO
 
-Data: / / . 
+INDICAÇÃO DE BANCA EXAMINADORA PARA AVALIAÇÃO DO TCC ESTUDANTE: MATRÍCULA:
 
-Assinatura do(a) Estudante 
+TÍTULO DO TRABALHO:
 
-Data: / / . Data: / / . 
+AVALIAÇÃO DO TCC: Data: / / . Horário: h min. Local:
 
-127 
+COMPOSIÇÃO DA BANCA EXAMINADORA Orientador: Nome: Titulação: Departamento/Centro: Fone: e-mail: Membro da Banca – Examinador 1: Nome: Titulação: Instituição: Fone: e-mail: Membro da Banca - Examinador 2: Nome:
 
-## INSTITUTOFEDERAL 
+Titulação:
 
-Parana 
+Instituição: e-mail:
 
-Assinatura do Orientador Inicial 
+Fone:
 
-**==> picture [64 x 8] intentionally omitted <==**
+128
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+INSTITUTOFEDERAL Parana
 
+Ministerio daEducacao
 
-Assinatura do Orientador Substituto 
+Assinatura do Orientador Assinatura do Coordenador do TCC Data: : / / . Data: / / . Curitiba,
 
-Parecer da Coordenação do TCC: 
+Data: : / / . de  de .
 
-Data: / / . 
+Colegiado do Curso
 
-Assinatura do Coordenador de TCC INDICAÇÃO DE BANCA EXAMINADORA PARA TRABALHO DE CONCLUSÃO DE CURSO 
+129
 
-INDICAÇÃO DE BANCA EXAMINADORA PARA AVALIAÇÃO DO TCC ESTUDANTE: MATRÍCULA: 
+Ministerio daEducacao
 
-TÍTULO DO TRABALHO: 
+## INSTITUTOFEDERAL
 
-AVALIAÇÃO DO TCC: Data: / / . Horário: h min. Local: 
+## Parana
 
-COMPOSIÇÃO DA BANCA EXAMINADORA Orientador: Nome: Titulação: Departamento/Centro: Fone: e-mail: Membro da Banca – Examinador 1: Nome: Titulação: Instituição: Fone: e-mail: Membro da Banca - Examinador 2: Nome: 
+ATA DE AVALIAÇÃO DO TCC TRABALHO DE CONCLUSÃO DE CURSO  ATA DE AVALIAÇÃO DE TCC
 
-Titulação: 
+Aos dias do mês de do ano de dois mil e , na Sala , às horas e minutos, reuniu-se a Banca Examinadora indicada pelo Orientador do TCC e homologada pelo Colegiado do Curso
 
-Instituição: e-mail: 
+,composta por ,Orientador do trabalho e
 
-Fone: 
+presidente da Banca,
 
-128 
+e A reunião teve por objetivo avaliar o trabalho do (a) estudante , sob o título
 
-INSTITUTOFEDERAL Parana 
+.Os trabalhos foram abertos
 
-Ministerio daEducacao 
+pelo orientador. Cada examinador arguiu o(a) estudante, com tempos iguais de perguntas e respostas. Terminadas as arguições, procedeu-se o julgamento do trabalho, concluindo a Banca Examinadora por sua (aprovação ou reprovação). Nada mais havendo a tratar, foi lavrada a presente ata, que vai assinada pelos membros da Banca Examinadora.
 
-Assinatura do Orientador Assinatura do Coordenador do TCC Data: : / / . Data: / / . Curitiba, 
+Curitiba, de de 20 .
 
-Data: : / / . de  de . 
+O (A) estudante deverá reformular seu trabalho conforme estabelecido no parágrafo primeiro no prazo de 15 (dez) dias:
 
-Colegiado do Curso 
+( ) Sim ( ) Não.
 
-129 
+Se houver alteração no título do trabalho, informar o novo título abaixo:
 
-Ministerio daEducacao 
+Este documento não deve conter rasuras ou corretivo. (Preencher com letra de forma)
 
-## INSTITUTOFEDERAL 
+Presidente (Orientador)
 
-## Parana 
+Assinatura do Examinador 1
 
-ATA DE AVALIAÇÃO DO TCC TRABALHO DE CONCLUSÃO DE CURSO  ATA DE AVALIAÇÃO DE TCC 
+Assinatura do Examinador 2
 
-Aos dias do mês de do ano de dois mil e , na Sala , às horas e minutos, reuniu-se a Banca Examinadora indicada pelo Orientador do TCC e homologada pelo Colegiado do Curso 
+130
 
-,composta por ,Orientador do trabalho e 
+INSTITUTOFEDERAL Parana
 
-presidente da Banca, 
+Ministerio da Educacao
 
-e A reunião teve por objetivo avaliar o trabalho do (a) estudante , sob o título 
+131
 
-.Os trabalhos foram abertos 
+INSTITUTOFEDERAL Parana
 
-pelo orientador. Cada examinador arguiu o(a) estudante, com tempos iguais de perguntas e respostas. Terminadas as arguições, procedeu-se o julgamento do trabalho, concluindo a Banca Examinadora por sua (aprovação ou reprovação). Nada mais havendo a tratar, foi lavrada a presente ata, que vai assinada pelos membros da Banca Examinadora. 
+Ministerio da Educacao<br>
 
-Curitiba, de de 20 . 
+FICHA DE AVALIAÇÃO DO TCC
 
-O (A) estudante deverá reformular seu trabalho conforme estabelecido no parágrafo primeiro no prazo de 15 (dez) dias: 
+NOME:
 
-( ) Sim ( ) Não. 
+Membros da banca examinadora
 
-Se houver alteração no título do trabalho, informar o novo título abaixo: 
+Avaliação do Desenvolvimento ORIENTADOR TCC Apresentação
 
-Este documento não deve conter rasuras ou corretivo. (Preencher com letra de forma) 
+Escrita TCC Apresentacão
 
-Presidente (Orientador) 
+Oral Média   Parcial
 
-Assinatura do Examinador 1 
+Assinaturas
 
-Assinatura do Examinador 2 
+132
 
-130 
+Parana
 
-INSTITUTOFEDERAL Parana 
+Ministerio da Educacao
 
-Ministerio da Educacao 
+## INSTITUTOFEDERAL
 
-131 
+As notas devem ser atribuídas de zero a dez. Média do bimestre Conceito do bimestre:
 
-INSTITUTOFEDERAL Parana 
+O relatório final necessita de correções? Data da entrega / / (até 15 dias após a apresentação)
 
-**==> picture [64 x 9] intentionally omitted <==**
+Na avaliação, o orientador de estágio deve considerar: o desenvolvimento do plano de estágio; assiduidade, pontualidade, responsabilidade, criatividade, iniciativa, relacionamento e desempenho técnico; e os itens previstos para o relatório final.
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+A avaliação da parte escrita do TCC pela banca examinadora deve considerar: contribuição para a área, atualidade do tema e da revisão bibliográfica; coerência entre objetivos, a metodologia empregada e as conclusões do trabalho; qualidade da discussão dos dados e resultados; coerência das conclusões com os objetivos iniciais do trabalho; adequação às normas a apresentação de trabalhos acadêmicos do IFPR; a forma e correção gramatical de apresentação do trabalho.
 
+A avaliação da apresentação oral e defesa pública pela banca examinadora deve considerar: conteúdo e forma da apresentação oral do TCC; respeito ao tempo de apresentação de no mínimo
 
-FICHA DE AVALIAÇÃO DO TCC 
+10 (dez) e máximo 15 (quinze) minutos; domínio do tema; segurança na abordagemargumentação; clareza e objetividade; pertinência e acerto das respostas aos questionamentos formulados pelos membros da banca examinadora.
 
-NOME: 
+Cópia p/ COORDENAÇÃO DE TCC
 
-Membros da banca examinadora 
+NOME:....................................................................................................
 
-Avaliação do Desenvolvimento ORIENTADOR TCC Apresentação 
+Membros da banca examinadora
 
-Escrita TCC Apresentacão 
+Avaliação do Desenvolvimento ORIENTADOR TCC Apresentação
 
-Oral Média   Parcial 
+Escrita TCC Apresentação
 
-Assinaturas 
+Oral Média Parcial
 
-132 
+Assinaturas
 
-Parana 
+Média do bimestre:    Conceito do bimestre:
 
-Ministerio da Educacao 
+133
 
-## INSTITUTOFEDERAL 
+INSTITUTOFEDERAL Parana
 
-As notas devem ser atribuídas de zero a dez. Média do bimestre Conceito do bimestre: 
+Ministerio da Educacao<br>
 
-O relatório final necessita de correções? Data da entrega / / (até 15 dias após a apresentação) 
+FORMULÁRIO DE DIVULGAÇÃO TCC
 
-Na avaliação, o orientador de estágio deve considerar: o desenvolvimento do plano de estágio; assiduidade, pontualidade, responsabilidade, criatividade, iniciativa, relacionamento e desempenho técnico; e os itens previstos para o relatório final. 
+APRESENTAÇÃO DE TRABALHOS DE CONCLUSÃO DE CURSO
 
-A avaliação da parte escrita do TCC pela banca examinadora deve considerar: contribuição para a área, atualidade do tema e da revisão bibliográfica; coerência entre objetivos, a metodologia empregada e as conclusões do trabalho; qualidade da discussão dos dados e resultados; coerência das conclusões com os objetivos iniciais do trabalho; adequação às normas a apresentação de trabalhos acadêmicos do IFPR; a forma e correção gramatical de apresentação do trabalho. 
+ALUNO TÍTULO DATA/HORA E LOCAL APRESENTAÇÃO
 
-A avaliação da apresentação oral e defesa pública pela banca examinadora deve considerar: conteúdo e forma da apresentação oral do TCC; respeito ao tempo de apresentação de no mínimo 
+134
 
-10 (dez) e máximo 15 (quinze) minutos; domínio do tema; segurança na abordagemargumentação; clareza e objetividade; pertinência e acerto das respostas aos questionamentos formulados pelos membros da banca examinadora. 
+## INSTITUTOFEDERAL
 
-Cópia p/ COORDENAÇÃO DE TCC 
+Parana
 
-NOME:.................................................................................................... 
+Ministerio daEducacao<br>
 
-Membros da banca examinadora 
+DECLARAÇÃO DE PARTICIPAÇÃO EM BANCA DE TCC
 
-Avaliação do Desenvolvimento ORIENTADOR TCC Apresentação 
+D E C L A R A Ç Ã O
 
-Escrita TCC Apresentação 
+Declaro para os devidos fins que o (a) docente
 
-Oral Média Parcial 
+,
 
-Assinaturas 
+participou como membro Titular da Banca Examinadora da defesa do Trabalho de Conclusão de Curso, do aluno
 
-Média do bimestre:    Conceito do bimestre: 
+intitulada:―
 
-133 
+, em de de 20 .
 
-INSTITUTOFEDERAL Parana 
+Curitiba, de de      20.
 
-**==> picture [64 x 9] intentionally omitted <==**
+Por ser expressão da verdade firmo a presente.
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+Docente Coordenador de TCC
 
+135
 
-FORMULÁRIO DE DIVULGAÇÃO TCC 
+Parana
 
-APRESENTAÇÃO DE TRABALHOS DE CONCLUSÃO DE CURSO 
+## INSTITUTOFEDERAL
 
-ALUNO TÍTULO DATA/HORA E LOCAL APRESENTAÇÃO 
+Ministerio da Educacao
 
-134 
+APÊNDICE B - Regulamento de Atividades Complementares
 
-## INSTITUTOFEDERAL 
+Regulamenta as Atividades Formativas Integradoras- AFIN (Atividades Complementares) nos cursos técnicos e superiores do Campus Curitiba- IFPR.
 
-Parana 
+Art. 1º Os alunos regularmente matriculados nos cursos de nível técnico e superior devem, obrigatoriamente, se expresso no projeto pedagógico do curso, desempenhar atividades complementares no transcorrer de sua formação acadêmica.
 
-**==> picture [64 x 9] intentionally omitted <==**
+Art. 2º As atividades a serem desenvolvidas pelos alunos, dentro do Instituto, devem envolver o ensino, a pesquisa e/ou extensão, sendo que ficará a cargo do aluno a inscrição no evento junto à organização do mesmo.
 
-**----- Start of picture text -----**<br>
-Ministerio daEducacao<br>**----- End of picture text -----**<br>
+- I. Os documentos comprobatórios da participação dos alunos no evento, deverão ser enviados pela organização do mesmo à Coordenação do Curso, que após análise os encaminhará para a Secretaria Acadêmica do Campus, responsável pelo gerenciamento dos mesmos.
 
+- II. Quando as atividades forem feitas fora do Instituto, caberá ao estudante recolher os documentos comprobatórios e encaminhá-los para a Coordenação do Curso, a fim de que essa transmita os documentos para o colegiado do curso validá-los, computando a carga horária específica da atividade, de acordo com a tabela em anexo.
 
-DECLARAÇÃO DE PARTICIPAÇÃO EM BANCA DE TCC 
+- III. Atividades não constantes da tabela devem ser analisadas pela coordenação do Curso, juntamente com o seu colegiado, para serem computadas na carga horária do estudante.
 
-D E C L A R A Ç Ã O 
+- IV. A verificação do cumprimento da carga horária (documentação) será feita pela Secretaria Acadêmica.
 
-Declaro para os devidos fins que o (a) docente 
+Art. 3º A carga horária total de cada AFIN consta no Anexo I desta resolução. Art. 4º Ao final do curso constará no histórico do aluno a participação nas atividades complementares.
 
-, 
+Art. 5º    Os alunos dos cursos técnicos e superiores deverão ter cumprido ao final do curso a carga horária de Atividades AFIN prevista no projeto pedagógico do curso.
 
-participou como membro Titular da Banca Examinadora da defesa do Trabalho de Conclusão de Curso, do aluno 
+Art. 6º Os casos omissos a esta Resolução serão decididos pela Direção de Ensino, Pesquisa e Extensão do Campus em consonância com as coordenações de curso.
 
-intitulada:― 
+A tabela a seguir enumera as Atividades Formativas Integradoras- AFIN, dando o valor da carga horária máxima que o aluno poderá cumprir em cada semestre letivo.
 
-, em de de 20 . 
+136
 
-Curitiba, de de      20. 
+## 1[INSTITUTOFEDERAL]
 
-Por ser expressão da verdade firmo a presente. 
-
-Docente Coordenador de TCC 
-
-135 
-
-Parana 
-
-## INSTITUTOFEDERAL 
-
-Ministerio da Educacao 
-
-APÊNDICE B - Regulamento de Atividades Complementares 
-
-Regulamenta as Atividades Formativas Integradoras- AFIN (Atividades Complementares) nos cursos técnicos e superiores do Campus Curitiba- IFPR. 
-
-Art. 1º Os alunos regularmente matriculados nos cursos de nível técnico e superior devem, obrigatoriamente, se expresso no projeto pedagógico do curso, desempenhar atividades complementares no transcorrer de sua formação acadêmica. 
-
-Art. 2º As atividades a serem desenvolvidas pelos alunos, dentro do Instituto, devem envolver o ensino, a pesquisa e/ou extensão, sendo que ficará a cargo do aluno a inscrição no evento junto à organização do mesmo. 
-
-- I. Os documentos comprobatórios da participação dos alunos no evento, deverão ser enviados pela organização do mesmo à Coordenação do Curso, que após análise os encaminhará para a Secretaria Acadêmica do Campus, responsável pelo gerenciamento dos mesmos. 
-
-- II. Quando as atividades forem feitas fora do Instituto, caberá ao estudante recolher os documentos comprobatórios e encaminhá-los para a Coordenação do Curso, a fim de que essa transmita os documentos para o colegiado do curso validá-los, computando a carga horária específica da atividade, de acordo com a tabela em anexo. 
-
-- III. Atividades não constantes da tabela devem ser analisadas pela coordenação do Curso, juntamente com o seu colegiado, para serem computadas na carga horária do estudante. 
-
-- IV. A verificação do cumprimento da carga horária (documentação) será feita pela Secretaria Acadêmica. 
-
-Art. 3º A carga horária total de cada AFIN consta no Anexo I desta resolução. Art. 4º Ao final do curso constará no histórico do aluno a participação nas atividades complementares. 
-
-Art. 5º    Os alunos dos cursos técnicos e superiores deverão ter cumprido ao final do curso a carga horária de Atividades AFIN prevista no projeto pedagógico do curso. 
-
-Art. 6º Os casos omissos a esta Resolução serão decididos pela Direção de Ensino, Pesquisa e Extensão do Campus em consonância com as coordenações de curso. 
-
-A tabela a seguir enumera as Atividades Formativas Integradoras- AFIN, dando o valor da carga horária máxima que o aluno poderá cumprir em cada semestre letivo. 
-
-136 
-
-## 1[INSTITUTOFEDERAL] 
-
-## Parana 
+## Parana
 
 ||1 [INSTITUTOFEDERAL]<br>Parana|[INSTITUTOFEDERAL]|Ministerio da Educacao|
 |---|---|---|---|
@@ -3592,11 +3399,9 @@ A tabela a seguir enumera as Atividades Formativas Integradoras- AFIN, dando o v
 |12|Atividades de Extensão|30|90|
 |13|Exposição de trabalhos<br>em eventos Internos,<br>como Semana de<br>Integração Comunidade-<br>Escola e Feira de<br>Projetos|15 (cada trabalho<br>apresentado)|60|
 
+137
 
-
-137 
-
-## INSTITUTOFEDERAL 中 
+## INSTITUTOFEDERAL 中
 
 ||中<br>INSTITUTOFEDERAL<br>Parana|INSTITUTOFEDERAL|Ministerio da Educacao|
 |---|---|---|---|
@@ -3605,1895 +3410,1815 @@ A tabela a seguir enumera as Atividades Formativas Integradoras- AFIN, dando o v
 |16|Atividade profissional<br>em área relacionada ao<br>curso|40|120|
 |17|Atividades não-previstas<br>na tabela e reconhecidas<br>pelo colegiado de curso|10|80|
 
+Ministerio da Educacao
 
+138
 
-Ministerio da Educacao 
+## INSTITUTOFEDERAL
 
-138 
+Parana
 
-## INSTITUTOFEDERAL 
+Ministerio da Educacao<br>
 
-Parana 
+APÊNDICE C - REGULAMENTO DO ESTÁGIO OBRIGATÓRIO
 
-**==> picture [64 x 9] intentionally omitted <==**
+CURSO SUPERIOR DE TECNOLOGIA EM MASSOTERAPIA
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+## INTRODUÇÃO
 
+O Estágio Obrigatório caracteriza-se como um componente curricular desenvolvido durante o sexto período do Curso de Tecnologia em Massoterapia que visa estabelecer uma integração entre todas as disciplinas ofertadas, de modo que o discente possa perceber a importância de cada uma delas em sua formação como futuro Tecnólogo em Massoterapia. Esta atividade prática possibilita que o discente possa também aplicar os conhecimentos teóricos adquiridos durante as atividades práticas de atendimento massoterapêutico com a intenção de minimizar o impacto da transição vida acadêmica e a vida profissional. As técnicas utilizadas nestas atividades serão: Massagem Laboral, Massagem Reflexologia, Massagem Drenagem Linfática Manual, Massagem Shiatsu, Massagem Tuiná e Seitai, Técnicas de Massoterapia Aplicadas em Spa, Massagem Terapêutica e Desportiva.
 
-APÊNDICE C - REGULAMENTO DO ESTÁGIO OBRIGATÓRIO 
+Este regulamento do estágio do Curso de Tecnologia em Massoterapia, do Instituto Federal do Paraná, Campus Curitiba, define os procedimentos que devem ser seguidos pelos discentes do curso, como orientação a respeito da constituição, finalidade, organização, funcionamento, atribuições, forma de avaliação e as obrigações dos envolvidos.
 
-CURSO SUPERIOR DE TECNOLOGIA EM MASSOTERAPIA 
+## OBJETIVO
 
-## INTRODUÇÃO 
+Artigo 1º O estágio proporcionará ao discente o atendimento à comunidade integrando conteúdo científico, tecnológico e valorativo através das competências necessárias para executar com segurança as diferentes técnicas de massagem, visando à atenção integral à saúde.
 
-O Estágio Obrigatório caracteriza-se como um componente curricular desenvolvido durante o sexto período do Curso de Tecnologia em Massoterapia que visa estabelecer uma integração entre todas as disciplinas ofertadas, de modo que o discente possa perceber a importância de cada uma delas em sua formação como futuro Tecnólogo em Massoterapia. Esta atividade prática possibilita que o discente possa também aplicar os conhecimentos teóricos adquiridos durante as atividades práticas de atendimento massoterapêutico com a intenção de minimizar o impacto da transição vida acadêmica e a vida profissional. As técnicas utilizadas nestas atividades serão: Massagem Laboral, Massagem Reflexologia, Massagem Drenagem Linfática Manual, Massagem Shiatsu, Massagem Tuiná e Seitai, Técnicas de Massoterapia Aplicadas em Spa, Massagem Terapêutica e Desportiva. 
+## CAPÍTULO I
 
-Este regulamento do estágio do Curso de Tecnologia em Massoterapia, do Instituto Federal do Paraná, Campus Curitiba, define os procedimentos que devem ser seguidos pelos discentes do curso, como orientação a respeito da constituição, finalidade, organização, funcionamento, atribuições, forma de avaliação e as obrigações dos envolvidos. 
+## DA CONSTITUIÇÃO E FINALIDADE
 
-## OBJETIVO 
+Artigo 2º O estágio é entendido como um conjunto de atividades indispensáveis ao processo de formação profissional, a qual possibilita ao acadêmico a aquisição de uma visão crítica na área da saúde por meio de atividades teóricas e práticas. Para isso, os conhecimentos adquiridos nas diversas disciplinas do curso deverão ser direcionados ao atendimento ao público, constituindo um instrumento de integração sob a forma de treinamento prático, aperfeiçoamento técnico-científico, cultural e de relacionamento humano. A realização desta atividade educativa, prática-formativa e de prestação de serviços à comunidade, proporciona complementação do processo de ensino-aprendizagem, oferece subsídios à revisão de currículos, embasamento ético, adequação de programas e atualização de metodologias de
 
-Artigo 1º O estágio proporcionará ao discente o atendimento à comunidade integrando conteúdo científico, tecnológico e valorativo através das competências necessárias para executar com segurança as diferentes técnicas de massagem, visando à atenção integral à saúde. 
+139
 
-## CAPÍTULO I 
+Parana
 
-## DA CONSTITUIÇÃO E FINALIDADE 
+## INSTITUTOFEDERAL
 
-Artigo 2º O estágio é entendido como um conjunto de atividades indispensáveis ao processo de formação profissional, a qual possibilita ao acadêmico a aquisição de uma visão crítica na área da saúde por meio de atividades teóricas e práticas. Para isso, os conhecimentos adquiridos nas diversas disciplinas do curso deverão ser direcionados ao atendimento ao público, constituindo um instrumento de integração sob a forma de treinamento prático, aperfeiçoamento técnico-científico, cultural e de relacionamento humano. A realização desta atividade educativa, prática-formativa e de prestação de serviços à comunidade, proporciona complementação do processo de ensino-aprendizagem, oferece subsídios à revisão de currículos, embasamento ético, adequação de programas e atualização de metodologias de 
+Ministerio da Educacao<br>
 
-139 
+ensino.
 
-Parana 
+Artigo 3º O estágio obedece à carga horária estabelecida no currículo do Curso de Tecnologia em Massoterapia, sendo desenvolvida em ambulatório específico do curso, adequado à formação exigida pelo componente curricular com as seguintes finalidades:
 
-## INSTITUTOFEDERAL 
+I. Promover a aplicação prática dos conhecimentos adquiridos nos componentes curriculares do curso;
 
-**==> picture [64 x 9] intentionally omitted <==**
+II. Possibilitar o aprimoramento e a complementação do ensino e da aprendizagem; III. Propiciar integração com a comunidade e possibilitar a busca de soluções para problemas de saúde pública vivenciados;
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+IV. Contribuir para a prevenção e melhoria das condições de saúde da população por meio do preparo e qualificação do profissional do Tecnólogo em Massoterapia;
 
+V. Oferecer oportunidade de análise contínua da aplicação teórico-prática aos docentes visando a atualização do currículo do curso.
 
-ensino. 
+## CAPÍTULO II
 
-Artigo 3º O estágio obedece à carga horária estabelecida no currículo do Curso de Tecnologia em Massoterapia, sendo desenvolvida em ambulatório específico do curso, adequado à formação exigida pelo componente curricular com as seguintes finalidades: 
+DAS ATRIBUIÇÕES DA INSTITUIÇÃO CONCEDENTE
 
-I. Promover a aplicação prática dos conhecimentos adquiridos nos componentes curriculares do curso; 
+Artigo 4º É atribuição da Instituição concedente:
 
-II. Possibilitar o aprimoramento e a complementação do ensino e da aprendizagem; III. Propiciar integração com a comunidade e possibilitar a busca de soluções para problemas de saúde pública vivenciados; 
+§ 1º Notificar o supervisor sobre qualquer intercorrência ocorrida durante a realização das atividades;
 
-IV. Contribuir para a prevenção e melhoria das condições de saúde da população por meio do preparo e qualificação do profissional do Tecnólogo em Massoterapia; 
+§ 2º Contribuir para a avaliação do desempenho do discente, de acordo com o formulário fornecido pelo professor-supervisor.
 
-V. Oferecer oportunidade de análise contínua da aplicação teórico-prática aos docentes visando a atualização do currículo do curso. 
+## CAPÍTULO III
 
-## CAPÍTULO II 
+DA ORGANIZAÇÃO E FUNCIONAMENTO DO ESTÁGIO
 
-DAS ATRIBUIÇÕES DA INSTITUIÇÃO CONCEDENTE 
+Artigo 5° A Atividade Prática Ambulatorial do Curso Tecnólogo em Massoterapia está estruturada nas seguintes Técnicas de Massagem:
 
-Artigo 4º É atribuição da Instituição concedente: 
+- I. Técnica da Massagem Laboral;
 
-§ 1º Notificar o supervisor sobre qualquer intercorrência ocorrida durante a realização das atividades; 
+- II. Técnica da Massagem de Reflexologia;
 
-§ 2º Contribuir para a avaliação do desempenho do discente, de acordo com o formulário fornecido pelo professor-supervisor. 
+- III. Técnica da Massagem de Drenagem Linfática Manual;
 
-## CAPÍTULO III 
+- IV. Técnica da Massagem Shiatsu;
 
-DA ORGANIZAÇÃO E FUNCIONAMENTO DO ESTÁGIO 
+- V. Técnica da Massagem Tuiná e Seitai;
 
-Artigo 5° A Atividade Prática Ambulatorial do Curso Tecnólogo em Massoterapia está estruturada nas seguintes Técnicas de Massagem: 
+- VI. Técnica da Massagem Aplicadas em SPA; VII. Técnica da Massagem Terapêutica e Desportiva.
 
-- I. Técnica da Massagem Laboral; 
+140
 
-- II. Técnica da Massagem de Reflexologia; 
+Parana
 
-- III. Técnica da Massagem de Drenagem Linfática Manual; 
+## INSTITUTOFEDERAL
 
-- IV. Técnica da Massagem Shiatsu; 
+Ministerio da Educacao<br>
 
-- V. Técnica da Massagem Tuiná e Seitai; 
+CAPÍTULO IV
 
-- VI. Técnica da Massagem Aplicadas em SPA; VII. Técnica da Massagem Terapêutica e Desportiva. 
+DA SUPERVISÃO DO ESTÁGIO
 
-140 
+Artigo 6° Competências do supervisor:
 
-Parana 
+- § 1º Proporcionar suporte teórico-prático relacionado à técnica em atendimento; § 2º Favorecer a reflexão da prática profissional e das experiências vividas;
 
-## INSTITUTOFEDERAL 
+- § 3º Favorecer, orientar, estimular a discussão e propor novas condutas; § 4º Estimular o desenvolvimento da postura profissional ética;
 
-**==> picture [64 x 9] intentionally omitted <==**
+§ 5º Definir, analisar e discutir objetivos de tratamento;
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+§.6º.Oferecer aos discentes atividades profissionais, proporcionando-lhes participação em situações reais de trabalho, prática de atendimento, promovendo a prevenção e/ou tratamento do indivíduo.
 
+Artigos 7° Não serão permitidas alterações e/ou troca de estudantes entre os grupos, exceto por motivos pertinentes a organização e aproveitamento teórico-prático dos mesmos, com ciência e autorização do Coordenador do Curso.
 
-CAPÍTULO IV 
+Artigo 8° A supervisão é semidireta onde ocorre o acompanhamento e orientação do planejado por meio de visitas sistemáticas aos campos de estágios, pelo professor orientador, que mantêm contatos com o profissional responsável pelo(s) estagiário(s).
 
-DA SUPERVISÃO DO ESTÁGIO 
+## CAPÍTULO V
 
-Artigo 6° Competências do supervisor: 
+## DAS ATRIBUIÇÕES DO DISCENTE
 
-- § 1º Proporcionar suporte teórico-prático relacionado à técnica em atendimento; § 2º Favorecer a reflexão da prática profissional e das experiências vividas; 
+Artigo 9º É de competência do discente durante o estágio:
 
-- § 3º Favorecer, orientar, estimular a discussão e propor novas condutas; § 4º Estimular o desenvolvimento da postura profissional ética; 
+- I. Cumprir e fazer cumprir as disposições contidas neste regulamento;
 
-§ 5º Definir, analisar e discutir objetivos de tratamento; 
+- II. Manter comportamento compatível com a profissão de Tecnólogo em Massoterapia, com base nos princípios da ética profissional;
 
-§.6º.Oferecer aos discentes atividades profissionais, proporcionando-lhes participação em situações reais de trabalho, prática de atendimento, promovendo a prevenção e/ou tratamento do indivíduo. 
+III. Participar de todas as atividades propostas pelo Professor-Supervisor e de outras atividades correlatas que contribuam com a experiência do atendimento, além de submeterse às normas de avaliação determinadas por este componente curricular;
 
-Artigos 7° Não serão permitidas alterações e/ou troca de estudantes entre os grupos, exceto por motivos pertinentes a organização e aproveitamento teórico-prático dos mesmos, com ciência e autorização do Coordenador do Curso. 
+- IV. Cumprir a carga horária total desta atividade;
 
-Artigo 8° A supervisão é semidireta onde ocorre o acompanhamento e orientação do planejado por meio de visitas sistemáticas aos campos de estágios, pelo professor orientador, que mantêm contatos com o profissional responsável pelo(s) estagiário(s). 
+V. Apresentar sugestões que possam contribuir para a superação das situações– problemas e para a melhoria da qualidade do atendimento;
 
-## CAPÍTULO V 
+VI. Comunicar e justificar com antecedência sua ausência;
 
-## DAS ATRIBUIÇÕES DO DISCENTE 
+VII. Apresentar-se ao ambulatório portando roupa branca e jaleco, vetando-se o uso de mochilas, bolsas e pastas escolares;
 
-Artigo 9º É de competência do discente durante o estágio: 
+VIII. Responsabilizar-se pelo ressarcimento financeiro de material (ais), ou utensílio
 
-- I. Cumprir e fazer cumprir as disposições contidas neste regulamento; 
+141
 
-- II. Manter comportamento compatível com a profissão de Tecnólogo em Massoterapia, com base nos princípios da ética profissional; 
+Parana
 
-III. Participar de todas as atividades propostas pelo Professor-Supervisor e de outras atividades correlatas que contribuam com a experiência do atendimento, além de submeterse às normas de avaliação determinadas por este componente curricular; 
+Ministerio da Educacao
 
-- IV. Cumprir a carga horária total desta atividade; 
+## INSTITUTOFEDERAL
 
-V. Apresentar sugestões que possam contribuir para a superação das situações– problemas e para a melhoria da qualidade do atendimento; 
+(s) danificado (s), bem como produto (s) extraviado (s) durante a execução da atividade, após apurados os fatos, de acordo com o termo de compromisso.
 
-VI. Comunicar e justificar com antecedência sua ausência; 
+IX. Responsabilizar-se pelo controle da agenda e pela recepção do paciente/cliente.
 
-VII. Apresentar-se ao ambulatório portando roupa branca e jaleco, vetando-se o uso de mochilas, bolsas e pastas escolares; 
+CAPÍTULO VI
 
-VIII. Responsabilizar-se pelo ressarcimento financeiro de material (ais), ou utensílio 
+DA APROVAÇÃO DO DISCENTE / DA AVALIAÇÃO DO DISCENTE
 
-141 
+Artigo 10º A avaliação obedecerá aos critérios estabelecidos no artigo 12o deste regulamento respeitando o disposto no Regimento Interno do IFPR e sistema de avaliação adotado.
 
-Parana 
+Artigo 11º Para aprovação o discente deverá ter aproveitamento no mínimo suficiente (conceito "C").
 
-Ministerio da Educacao 
+Artigo 12º Os atendimentos do estágio serão avaliados de acordo com os seguintes aspectos:
 
-## INSTITUTOFEDERAL 
+§ 1º Fatores pessoais:
 
-(s) danificado (s), bem como produto (s) extraviado (s) durante a execução da atividade, após apurados os fatos, de acordo com o termo de compromisso. 
+1. Disciplina e responsabilidade;
 
-IX. Responsabilizar-se pelo controle da agenda e pela recepção do paciente/cliente. 
+2. Pontualidade e assiduidade;
 
-CAPÍTULO VI 
+3. Responsabilidade em relação ao paciente;
 
-DA APROVAÇÃO DO DISCENTE / DA AVALIAÇÃO DO DISCENTE 
+4. Responsabilidade em relação ao grupo de trabalho;
 
-Artigo 10º A avaliação obedecerá aos critérios estabelecidos no artigo 12o deste regulamento respeitando o disposto no Regimento Interno do IFPR e sistema de avaliação adotado. 
+5. Apresentação pessoal adequada (unhas aparadas, cabelos presos; barba aparada, acessórios discretos; esmaltes claros e discretos, etc.);
 
-Artigo 11º Para aprovação o discente deverá ter aproveitamento no mínimo suficiente (conceito "C"). 
+6. Vestimenta adequada: roupa branca, sapato branco, jaleco e crachá;
 
-Artigo 12º Os atendimentos do estágio serão avaliados de acordo com os seguintes aspectos: 
+7. Organização do setor de atendimento e cuidado com materiais e equipamentos.
 
-§ 1º Fatores pessoais: 
+§ 2º Postura profissional e ética em relação ao:
 
-1. Disciplina e responsabilidade; 
+1. Professor;
 
-2. Pontualidade e assiduidade; 
+2. Paciente/Cliente;
 
-3. Responsabilidade em relação ao paciente; 
+3. Ao grupo; 4. Instituição.
 
-4. Responsabilidade em relação ao grupo de trabalho; 
+§ 3º Desenvolvimento no atendimento ao cliente/paciente:
 
-5. Apresentação pessoal adequada (unhas aparadas, cabelos presos; barba aparada, acessórios discretos; esmaltes claros e discretos, etc.); 
+1. Preenchimento coerente das fichas de avaliação e evolução diária do paciente/cliente;
 
-6. Vestimenta adequada: roupa branca, sapato branco, jaleco e crachá; 
+2. Execução correta da técnica de massagem, de acordo com a situação clínica do paciente/cliente Orientações preventivas de acordo com cada caso, visando promover a saúde do paciente/cliente;
 
-7. Organização do setor de atendimento e cuidado com materiais e equipamentos. 
+§ 4º Avaliação do desempenho geral do Discente:
 
-§ 2º Postura profissional e ética em relação ao: 
+1. Procura de informações complementares na literatura;
 
-1. Professor; 
+142
 
-2. Paciente/Cliente; 
+## INSTITUTOFEDERAL Parana
 
-3. Ao grupo; 4. Instituição. 
+Ministerio da Educacao<br>
 
-§ 3º Desenvolvimento no atendimento ao cliente/paciente: 
+2. Procura ao professor para esclarecimento de dúvidas;
 
-1. Preenchimento coerente das fichas de avaliação e evolução diária do paciente/cliente; 
+3. Interesse em conhecer outros casos além do designado ao educando;
 
-2. Execução correta da técnica de massagem, de acordo com a situação clínica do paciente/cliente Orientações preventivas de acordo com cada caso, visando promover a saúde do paciente/cliente; 
+4. Apresentação de dois estudos de caso individual ao final das atividades do estágio.
 
-§ 4º Avaliação do desempenho geral do Discente: 
+## CAPÍTULO VII
 
-1. Procura de informações complementares na literatura; 
+DO CONTROLE DE FREQÜÊNCIA
 
-142 
+Artigo 13º A frequência do discente será feita através de caderneta do estágio e livro ata, com controle diário do supervisor;
 
-## INSTITUTOFEDERAL Parana 
+§ 1º O discente deverá trazer sua caderneta em todos os atendimentos, estando sujeito ao registro de falta sem justificativa.
 
-**==> picture [64 x 9] intentionally omitted <==**
+Artigo 14º Não serão permitidas aos estudantes faltas sem justificativa no estágio, estando sujeitos à reprovação automática.
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+Artigo 15º No que se refere às faltas:
 
+§ 1º Entende-se por faltas justificadas aquelas decorrentes de licença maternidade, paternidade, luto (falecimento de parente de primeiro grau), acidentes de trânsito, internamento hospitalar ou doenças infectocontagiosas.
 
-2. Procura ao professor para esclarecimento de dúvidas; 
+§ 2º As faltas justificadas deverão ser comprovadas por meio de documentação, assim como protocoladas na secretaria.
 
-3. Interesse em conhecer outros casos além do designado ao educando; 
+§ 3º No caso de acidentes de trânsito apresentar o boletim de ocorrência.
 
-4. Apresentação de dois estudos de caso individual ao final das atividades do estágio. 
+§ 4º No caso de licença maternidade, doenças infectocontagiosas e internamento hospitalar, apresentar atestado médico.
 
-## CAPÍTULO VII 
+§ 5º No caso de falecimento de parentes de primeiro grau apresentar o atestado de óbito.
 
-DO CONTROLE DE FREQÜÊNCIA 
+§ 6º Todos os documentos devem ser devidamente protocolados na secretaria acadêmica. § 7º As faltas sem justificativas implicará diretamente no processo de ensino- aprendizagem sendo analisados pelo supervisor e encaminhados à Coordenação/Colegiado do curso. § 8º As faltas decorrentes da participação do aluno em eventos acadêmicos / científicos da área (congressos, simpósios, entre outros) não serão penalizadas, sendo necessária a prévia comunicação e a apresentação do certificado correspondente ao Coordenador do Curso.
 
-Artigo 13º A frequência do discente será feita através de caderneta do estágio e livro ata, com controle diário do supervisor; 
+## CAPÍTULO VIII DISPOSIÇÕES GERAIS
 
-§ 1º O discente deverá trazer sua caderneta em todos os atendimentos, estando sujeito ao registro de falta sem justificativa. 
+Artigo 16º Será exigida absoluta pontualidade do estudante e do supervisor em todos os compromissos do estágio.
 
-Artigo 14º Não serão permitidas aos estudantes faltas sem justificativa no estágio, estando sujeitos à reprovação automática. 
+Artigo 17º É estritamente proibido ao discente a cobrança de honorários extras ou troca de favores em função das atividades realizadas no estágio.
 
-Artigo 15º No que se refere às faltas: 
+143
 
-§ 1º Entende-se por faltas justificadas aquelas decorrentes de licença maternidade, paternidade, luto (falecimento de parente de primeiro grau), acidentes de trânsito, internamento hospitalar ou doenças infectocontagiosas. 
+Parana
 
-§ 2º As faltas justificadas deverão ser comprovadas por meio de documentação, assim como protocoladas na secretaria. 
+## INSTITUTOFEDERAL
 
-§ 3º No caso de acidentes de trânsito apresentar o boletim de ocorrência. 
+Ministerio da Educacao
 
-§ 4º No caso de licença maternidade, doenças infectocontagiosas e internamento hospitalar, apresentar atestado médico. 
+Artigo 18º Os supervisores não estão autorizados a programar outras formas de avaliação para o educando, por qualquer motivo, senão as previstas neste regulamento.
 
-§ 5º No caso de falecimento de parentes de primeiro grau apresentar o atestado de óbito. 
+Artigo 19º Este regulamento entra em vigor na data de sua aprovação, revogadas as disposições em contrário.
 
-§ 6º Todos os documentos devem ser devidamente protocolados na secretaria acadêmica. § 7º As faltas sem justificativas implicará diretamente no processo de ensino- aprendizagem sendo analisados pelo supervisor e encaminhados à Coordenação/Colegiado do curso. § 8º As faltas decorrentes da participação do aluno em eventos acadêmicos / científicos da área (congressos, simpósios, entre outros) não serão penalizadas, sendo necessária a prévia comunicação e a apresentação do certificado correspondente ao Coordenador do Curso. 
+Curitiba, 09 de janeiro de 2022.
 
-## CAPÍTULO VIII DISPOSIÇÕES GERAIS 
+Colegiado do Curso de Tecnologia em Massoterapia Instituto Federal do Paraná Campus Curitiba
 
-Artigo 16º Será exigida absoluta pontualidade do estudante e do supervisor em todos os compromissos do estágio. 
+Curso de Tecnologia em Massoterapia Estágio Obrigatório Ficha de Anamnese / Prontuário de atendimento
 
-Artigo 17º É estritamente proibido ao discente a cobrança de honorários extras ou troca de favores em função das atividades realizadas no estágio. 
+Local de atendimento: 1. Identificação Pessoal
 
-143 
+Nome: Sexo: ( ) Fem ( ) Masc Idade: Data de Nascimento: Telefone para contato: e-mail: 2. Identificação Profissional Profissão Setor/Área de trabalho Função Há quanto tempo exerce? Postura corporal adotada no trabalho ( ) sentada ( ) em pé ( ) mista
 
-Parana 
+3. Histórico de saúde Doenças Pregressas
 
-## INSTITUTOFEDERAL 
+Doença atual
 
-Ministerio da Educacao 
+Queixas Principais
 
-Artigo 18º Os supervisores não estão autorizados a programar outras formas de avaliação para o educando, por qualquer motivo, senão as previstas neste regulamento. 
+144
 
-Artigo 19º Este regulamento entra em vigor na data de sua aprovação, revogadas as disposições em contrário. 
+INSTITUTOFEDERAL Parana
 
-Curitiba, 09 de janeiro de 2022. 
+Ministerio da Educacao<br>
 
-Colegiado do Curso de Tecnologia em Massoterapia Instituto Federal do Paraná Campus Curitiba 
+Processos cirúrgicos/Medicamentos
 
-Curso de Tecnologia em Massoterapia Estágio Obrigatório Ficha de Anamnese / Prontuário de atendimento 
+- Realiza alguma atividade física ou tratamento de reabilitação? ( ) SIM ( ) NÃO Se sim, qual(is): Qual a frequência:
 
-Local de atendimento: 1. Identificação Pessoal 
+Motivo da procura pela massoterapia:
 
-Nome: Sexo: ( ) Fem ( ) Masc Idade: Data de Nascimento: Telefone para contato: e-mail: 2. Identificação Profissional Profissão Setor/Área de trabalho Função Há quanto tempo exerce? Postura corporal adotada no trabalho ( ) sentada ( ) em pé ( ) mista 
+Atendimentos (evolução) Nome do(a) paciente:
 
-3. Histórico de saúde Doenças Pregressas 
+Assinale com X no mapa os pontos de dor e a Escala Visual Analógica de Dor (EVA) antes e após o atendimento (pode ser utilizado A (antes) e o número do grau de dor e D (depois), exemplo: A 5/D 0.
 
-Doença atual 
+Descrever o tipo de dor, se tem irradiação; localização dos pontos corporais trabalhados; técnicas utilizadas; feedback do paciente; demais informações relevantes sobre o trabalho executado).
 
-Queixas Principais 
+DATA:
 
-144 
+Sequência: DATA – informações do procedimento (a partir das descrições acima) – nome do aluno.
 
-INSTITUTOFEDERAL Parana 
+145
 
-**==> picture [64 x 9] intentionally omitted <==**
+INSTITUTOFEDERAL Parana
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+Ministerio da Educacao<br>
 
+## **TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO**
 
-Processos cirúrgicos/Medicamentos 
+Eu (nome do(a) paciente), portador(a) do documento de identidade , declaro ter sido informado sobre todos os benefícios, os riscos, as indicações, contraindicações, relacionados às técnicas massoterápicas e esclareci minhas dúvidas. Estou ciente de que estou sendo atendido por DISCENTES (estudantes) do Curso de Tecnologia em Massoterapia do Instituto Federal do Paraná e que as manobras de massagem podem provocar hematoma, dor e/ou desconforto. Você não terá nenhum custo, nem receberá qualquer vantagem financeira ao participar da(s) sessões.
 
-- Realiza alguma atividade física ou tratamento de reabilitação? ( ) SIM ( ) NÃO Se sim, qual(is): Qual a frequência: 
+Declaro ser responsável por todas as informações contidas na ficha de Avaliação, que as mesmas são verdadeiras e foram fornecidas por mim, de livre e espontânea vontade. Autorizo aos discentes e docentes do Curso do Curso de Tecnologia em Massoterapia do Instituto Federal do Paraná a utilizarem as informações por mim relatadas na ficha de avaliação para fins científicos e acadêmicos, desde que seja mantido meu anonimato. Os termos técnicos foram explicados e todas as minhas dúvidas foram esclarecidas por
 
-Motivo da procura pela massoterapia: 
+(nome completo do(a) aluno(a)), no (local da prática/estágio), sob supervisão do(a) Prof.(a)
 
-Atendimentos (evolução) Nome do(a) paciente: 
+.
 
-Assinale com X no mapa os pontos de dor e a Escala Visual Analógica de Dor (EVA) antes e após o atendimento (pode ser utilizado A (antes) e o número do grau de dor e D (depois), exemplo: A 5/D 0. 
+Expresso também minha concordância e espontânea vontade em submeter-me às práticas massoterápicas desenvolvidas no Curso de Tecnologia em Massoterapia do IFPR, assumindo a responsabilidade de buscar atendimento médico em caso de eventuais efeitos indesejáveis decorrentes.
 
-Descrever o tipo de dor, se tem irradiação; localização dos pontos corporais trabalhados; técnicas utilizadas; feedback do paciente; demais informações relevantes sobre o trabalho executado). 
+Estou ciente que posso suspender a prática a qualquer momento, sem que este fato implique em qualquer forma de constrangimento entre mim e a instituição (Instituto Federal do Paraná - Curitiba). Endereço:
 
-DATA: 
+Cidade: Telefone: ( ) Curitiba, de de
 
-Sequência: DATA – informações do procedimento (a partir das descrições acima) – nome do aluno. 
+Assinatura do paciente Assinatura do estudante Assinatura do(a) supervisor(a)
 
-145 
+146
 
-INSTITUTOFEDERAL Parana 
+Parana
 
-**==> picture [64 x 9] intentionally omitted <==**
+## INSTITUTOFEDERAL
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+Ministerio da Educacao
 
+**TERMO DE ASSENTIMENTO** (para menores de 18 anos de idade)
 
-## **TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO** 
+Eu (nome do(a) paciente), portador(a) do documento de identidade , declaro ter sido informado sobre todos os benefícios, os riscos, as indicações, contraindicações, relacionados às técnicas massoterápicas e esclareci minhas dúvidas. Estou ciente de que estou sendo atendido por DISCENTES (estudantes) do Curso de Tecnologia em Massoterapia do Instituto Federal do Paraná e que as manobras de massagem podem provocar hematoma, dor e/ou desconforto. Você não terá nenhum custo, nem receberá qualquer vantagem financeira ao participar da(s) sessões.
 
-Eu (nome do(a) paciente), portador(a) do documento de identidade , declaro ter sido informado sobre todos os benefícios, os riscos, as indicações, contraindicações, relacionados às técnicas massoterápicas e esclareci minhas dúvidas. Estou ciente de que estou sendo atendido por DISCENTES (estudantes) do Curso de Tecnologia em Massoterapia do Instituto Federal do Paraná e que as manobras de massagem podem provocar hematoma, dor e/ou desconforto. Você não terá nenhum custo, nem receberá qualquer vantagem financeira ao participar da(s) sessões. 
+Declaro ser responsável por todas as informações contidas na ficha de Avaliação, que as mesmas são verdadeiras e foram fornecidas por mim, de livre e espontânea vontade. Autorizo aos discentes e docentes do Curso de Tecnologia em em Massoterapia do Instituto Federal do Paraná a utilizarem as informações por mim relatadas na ficha de avaliação para fins científicos e acadêmicos, desde que seja mantido meu anonimato.
 
-Declaro ser responsável por todas as informações contidas na ficha de Avaliação, que as mesmas são verdadeiras e foram fornecidas por mim, de livre e espontânea vontade. Autorizo aos discentes e docentes do Curso do Curso de Tecnologia em Massoterapia do Instituto Federal do Paraná a utilizarem as informações por mim relatadas na ficha de avaliação para fins científicos e acadêmicos, desde que seja mantido meu anonimato. Os termos técnicos foram explicados e todas as minhas dúvidas foram esclarecidas por 
+Os termos técnicos foram explicados e todas as minhas dúvidas foram esclarecidas por
 
-(nome completo do(a) aluno(a)), no (local da prática/estágio), sob supervisão do(a) Prof.(a) 
+(nome       completo       do(a)       aluno(a)),       no
 
-. 
+(local da prática/estágio), sob supervisão do(a) Prof.(a) .
 
-Expresso também minha concordância e espontânea vontade em submeter-me às práticas massoterápicas desenvolvidas no Curso de Tecnologia em Massoterapia do IFPR, assumindo a responsabilidade de buscar atendimento médico em caso de eventuais efeitos indesejáveis decorrentes. 
+Expresso também minha concordância e espontânea vontade em submeter-me às práticas massoterápicas desenvolvidas no Curso de Tecnologia em Massoterapia do IFPR, assumindo a responsabilidade de buscar atendimento médico em caso de eventuais efeitos indesejáveis decorrentes.
 
-Estou ciente que posso suspender a prática a qualquer momento, sem que este fato implique em qualquer forma de constrangimento entre mim e a instituição (Instituto Federal do Paraná - Curitiba). Endereço: 
+Estou ciente que posso suspender a prática a qualquer momento, sem que este fato implique em qualquer forma de constrangimento entre mim e a instituição (Instituto Federal do Paraná - Curitiba).
 
-Cidade: Telefone: ( ) Curitiba, de de 
+Eu, responsável pelo(a) menor , autorizo que receba atendimentos, sendo informado(a) que posso modificar a decisão da autorização se assim o desejar devendo contatar pessoalmente o/a professor supervisor do Curso de Tecnologia em Massoterapia do IFPR.
 
-Assinatura do paciente Assinatura do estudante Assinatura do(a) supervisor(a) 
+Nome do responsável: Endereço:
 
-146 
+Cidade: Telefone(s): ( ) E-mail: Curitiba, de de
 
-Parana 
+Assinatura do paciente Assinatura do estudante Assinatura do(a) supervisor(a)
 
-## INSTITUTOFEDERAL 
+147
 
-Ministerio da Educacao 
+Parana
 
-**TERMO DE ASSENTIMENTO** (para menores de 18 anos de idade) 
+Ministerio da Educacao
 
-Eu (nome do(a) paciente), portador(a) do documento de identidade , declaro ter sido informado sobre todos os benefícios, os riscos, as indicações, contraindicações, relacionados às técnicas massoterápicas e esclareci minhas dúvidas. Estou ciente de que estou sendo atendido por DISCENTES (estudantes) do Curso de Tecnologia em Massoterapia do Instituto Federal do Paraná e que as manobras de massagem podem provocar hematoma, dor e/ou desconforto. Você não terá nenhum custo, nem receberá qualquer vantagem financeira ao participar da(s) sessões. 
+## INSTITUTOFEDERAL
 
-Declaro ser responsável por todas as informações contidas na ficha de Avaliação, que as mesmas são verdadeiras e foram fornecidas por mim, de livre e espontânea vontade. Autorizo aos discentes e docentes do Curso de Tecnologia em em Massoterapia do Instituto Federal do Paraná a utilizarem as informações por mim relatadas na ficha de avaliação para fins científicos e acadêmicos, desde que seja mantido meu anonimato. 
+**TERMO DE AUTORIZAÇÃO DE USO DE IMAGEM E/OU DEPOIMENTOS**
 
-Os termos técnicos foram explicados e todas as minhas dúvidas foram esclarecidas por 
+Eu , portador do CPF e RG , responsável legal por (em caso de participante se menor de idade), depois de conhecer e entender os objetivos, procedimentos metodológicos, riscos e benefícios da pesquisa, bem como de estar ciente da necessidade do uso de minha imagem e/ou depoimento, especificados no Termo de Consentimento Livre e Esclarecido (TCLE),      AUTORIZO,     por     meio     do presente     termo,     a(o)      estudante
 
-(nome       completo       do(a)       aluno(a)),       no 
+”a realizar as fotos que se façam necessárias e/ou a colher meu depoimento sem quaisquer ônus financeiros a nenhuma das partes para utilização no trabalho de estudo de caso a ser apresentado a(o) Prof(a). Supervisor .
 
-(local da prática/estágio), sob supervisão do(a) Prof.(a) . 
+Ao mesmo tempo, libero a utilização destas fotos (seus respectivos negativos) e/ou depoimentos para fins científicos e de estudos (apresentações de seminários, pôsteres em congresso e artigos científicos), em favor dos pesquisadores do estudo, acima especificados. Curitiba, de de      20  .
 
-Expresso também minha concordância e espontânea vontade em submeter-me às práticas massoterápicas desenvolvidas no Curso de Tecnologia em Massoterapia do IFPR, assumindo a responsabilidade de buscar atendimento médico em caso de eventuais efeitos indesejáveis decorrentes. 
+Participante dos atendimentos de massoterapia
 
-Estou ciente que posso suspender a prática a qualquer momento, sem que este fato implique em qualquer forma de constrangimento entre mim e a instituição (Instituto Federal do Paraná - Curitiba). 
+Estudante responsável pelo estudo
 
-Eu, responsável pelo(a) menor , autorizo que receba atendimentos, sendo informado(a) que posso modificar a decisão da autorização se assim o desejar devendo contatar pessoalmente o/a professor supervisor do Curso de Tecnologia em Massoterapia do IFPR. 
+148
 
-Nome do responsável: Endereço: 
+Parana
 
-Cidade: Telefone(s): ( ) E-mail: Curitiba, de de 
+Ministerio da Educacao
 
-Assinatura do paciente Assinatura do estudante Assinatura do(a) supervisor(a) 
+## INSTITUTOFEDERAL
 
-147 
+**Roteiro para elaboração de Estudo de Caso dos Estágios**
 
-Parana 
+## I. Objetivo
 
-Ministerio da Educacao 
+Estimular o espírito investigatório e a análise crítica na atuação do técnico em massoterapia, visando à eficácia na formação técnica e científica.
 
-## INSTITUTOFEDERAL 
+- II. Metodologia
 
-**TERMO DE AUTORIZAÇÃO DE USO DE IMAGEM E/OU DEPOIMENTOS** 
+- Seguir as normas da ABNT – IFPR (http://reitoria.ifpr.edu.br/wp-
 
-Eu , portador do CPF e RG , responsável legal por (em caso de participante se menor de idade), depois de conhecer e entender os objetivos, procedimentos metodológicos, riscos e benefícios da pesquisa, bem como de estar ciente da necessidade do uso de minha imagem e/ou depoimento, especificados no Termo de Consentimento Livre e Esclarecido (TCLE),      AUTORIZO,     por     meio     do presente     termo,     a(o)      estudante 
+content/uploads/2010/05/normas_ifpr_completa_alta_impressao.pdf);
 
-”a realizar as fotos que se façam necessárias e/ou a colher meu depoimento sem quaisquer ônus financeiros a nenhuma das partes para utilização no trabalho de estudo de caso a ser apresentado a(o) Prof(a). Supervisor . 
+- Respeitar a ética profissional na identificação do paciente, utilização de fotos e/ou vídeos. III. Procedimentos pesquisa bibliográfica
 
-Ao mesmo tempo, libero a utilização destas fotos (seus respectivos negativos) e/ou depoimentos para fins científicos e de estudos (apresentações de seminários, pôsteres em congresso e artigos científicos), em favor dos pesquisadores do estudo, acima especificados. Curitiba, de de      20  . 
+⮚ Revisão teórica dos aspectos clínicos pertinentes à queixa do paciente objeto do estudo;
 
-Participante dos atendimentos de massoterapia 
+- ⮚ Revisão teórica referente a(s) técnica(s) massoterapêutica(s) utilizada(s) no tratamento;
 
-Estudante responsável pelo estudo 
+- IV. Conteúdo do trabalho
 
-148 
+Os itens abaixo deverão ser apresentados em Power point e compartilhados no email da turma e dos professores responsáveis pelo estágio.
 
-Parana 
+1. Identificação do paciente (somente iniciais do nome);
 
-Ministerio da Educacao 
+2. Queixa principal (colocar o diagnóstico clínico, caso possua);
 
-## INSTITUTOFEDERAL 
+3. Revisão bibliográfica (utilizar livros e artigos científicos):
 
-**Roteiro para elaboração de Estudo de Caso dos Estágios** 
+- a. Etiologia,
 
-## I. Objetivo 
+- b. Quadro clínico,
 
-Estimular o espírito investigatório e a análise crítica na atuação do técnico em massoterapia, visando à eficácia na formação técnica e científica. 
+- c. Fisiopatologia,
 
-- II. Metodologia 
+- d. Tratamento.
 
-- Seguir as normas da ABNT – IFPR (http://reitoria.ifpr.edu.br/wp- 
+4. Avaliação específica do paciente (realizada pelo aluno(a));
 
-content/uploads/2010/05/normas_ifpr_completa_alta_impressao.pdf); 
+5. Objetivos do tratamento de massoterapia aplicado;
 
-- Respeitar a ética profissional na identificação do paciente, utilização de fotos e/ou vídeos. III. Procedimentos pesquisa bibliográfica 
+6. Programa de tratamento massoterapêutico executado (com justificativa);
 
-⮚ Revisão teórica dos aspectos clínicos pertinentes à queixa do paciente objeto do estudo; 
+7. Evolução (por datas de atendimento);
 
-- ⮚ Revisão teórica referente a(s) técnica(s) massoterapêutica(s) utilizada(s) no tratamento; 
+8. Análise dos resultados do tratamento;
 
-- IV. Conteúdo do trabalho 
+9. Considerações finais;
 
-Os itens abaixo deverão ser apresentados em Power point e compartilhados no email da turma e dos professores responsáveis pelo estágio. 
+10. Referências.
 
-1. Identificação do paciente (somente iniciais do nome); 
+149
 
-2. Queixa principal (colocar o diagnóstico clínico, caso possua); 
+INSTITUTOFEDERAL Parana
 
-3. Revisão bibliográfica (utilizar livros e artigos científicos): 
+Ministerio da Educacao
 
-- a. Etiologia, 
+## **ANEXOS**
 
-- b. Quadro clínico, 
+150
 
-- c. Fisiopatologia, 
+INSTITUTOFEDERAL Parana
 
-- d. Tratamento. 
+Ministerio da Educacao
 
-4. Avaliação específica do paciente (realizada pelo aluno(a)); 
+ANEXO A - REGULAMENTOS E NORMATIVAS PARA ESTÁGIO DO IFPR
 
-5. Objetivos do tratamento de massoterapia aplicado; 
+**MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO SUPERIOR INSTITUTO FEDERAL DO PARANÁ PRÓ - REITORIA DE ENSINO**
 
-6. Programa de tratamento massoterapêutico executado (com justificativa); 
+**REGULAMENTO GERAL DE ESTÁGIOS DO CAMPUS CURITIBA AUTORIZADO PELO PARECER CONSEPE Nº06/2021**
 
-7. Evolução (por datas de atendimento); 
+**Curitiba 2021**
 
-8. Análise dos resultados do tratamento; 
+151
 
-9. Considerações finais; 
+Ministerio da Educacao
 
-10. Referências. 
+INSTITUTOFEDERAL Parana
 
-149 
+## **INSTITUTO FEDERAL DO PARANÁ**
 
-INSTITUTOFEDERAL Parana 
+## **Reitor**
 
-Ministerio da Educacao 
+Odacir Antonio Zanatta
 
-## **ANEXOS** 
+## **Pró-Reitor de Ensino**
 
-150 
+Amarildo Pinheiro Magalhães
 
-INSTITUTOFEDERAL Parana 
+## **Chefe da Seção de Acompanhamento de Estágios e Egressos da Proens**
 
-Ministerio da Educacao 
+Roberto Alexandre Fedechem
 
-ANEXO A - REGULAMENTOS E NORMATIVAS PARA ESTÁGIO DO IFPR 
+**Direção Geral do Campus** Adriano Willian da Silva Viana Pereira
 
-**MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO SUPERIOR INSTITUTO FEDERAL DO PARANÁ PRÓ - REITORIA DE ENSINO** 
+## **Direção de Ensino, Pesquisa e Extensão do Campus**
 
-**REGULAMENTO GERAL DE ESTÁGIOS DO CAMPUS CURITIBA AUTORIZADO PELO PARECER CONSEPE Nº06/2021** 
+Vilmar Fernandes
 
-**Curitiba 2021** 
+## **Chefe da Seção de Estágios e Relações Comunitárias do Campus**
 
-151 
+Jenifer Caroline Leite
 
-Ministerio da Educacao 
+## **Membros da Comissão de Elaboração do Regulamento Geral de Estágios do Campus**
 
-INSTITUTOFEDERAL Parana 
+Jenifer Caroline Leite Luiz Ailil Vianna Martins Telma Pelaes de Carvalho Elizabete dos Santos Gabriella Lemes Rodrigues de Oliveira Livia Pimenta Reno Gasparotto Luciana de Cassia Camargo Pirani Anderson Nalevaiko Marques Carlos Alberto de Ávila Doriana Cristina Gaio Girata Elenir Leite Marli Becker
 
-## **INSTITUTO FEDERAL DO PARANÁ** 
+152
 
-## **Reitor** 
+INSTITUTOFEDERAL Parana
 
-Odacir Antonio Zanatta 
+Ministerio da Educacao
 
-## **Pró-Reitor de Ensino** 
+## **REGULAMENTO GERAL DE ESTÁGIOS DO CAMPUS CURITIBA**
 
-Amarildo Pinheiro Magalhães 
+CAPÍTULO I DAS REGRAS GERAIS DE ESTÁGIO
 
-## **Chefe da Seção de Acompanhamento de Estágios e Egressos da Proens** 
+Art. 1º - Este Regulamento Geral de Estágio (RGE) abrange todos os Projetos Pedagógicos de Curso (PPC) do Campus Curitiba, sendo seus dispositivos alinhados à resolução IFPR nº 36/2019, a l ei nº 11.788/2008 e demais dispositivos legais pertinentes.
 
-Roberto Alexandre Fedechem 
+Parágrafo único. O estágio, como ato educativo, prioriza a formação do estudante para o mundo do trabalho e o fortalecimento dos conhecimentos construídos no ambiente acadêmico.
 
-**Direção Geral do Campus** Adriano Willian da Silva Viana Pereira 
+Art. 2º Os estudantes que realizam as atividades de estágio obrigatório e não obrigatório são considerados estagiários, para os efeitos deste regulamento, desde que estejam regularmente matriculados no curso do campus e que as atividades propiciem experiência acadêmicoprofissional e contextualização curricular.
 
-## **Direção de Ensino, Pesquisa e Extensão do Campus** 
+Art. 3º Para realização de estágio obrigatório o estudante deverá:
 
-Vilmar Fernandes 
+I – estar matriculado no componente de estágio;
 
-## **Chefe da Seção de Estágios e Relações Comunitárias do Campus** 
+II – receber orientação do professor orientador sobre as possibilidades de estágio;
 
-Jenifer Caroline Leite 
+III – formalizar Termo de Compromisso e Plano de Estágio (TCE/PE) com a unidade concedente de estágio (UCE), utilizando-se dos formulários próprios disponibilizados pela Seção de Acompanhamento de Estágios e Egressos da Pró-reitoria de Ensino (Saee/Proens) e Seção de Estágios e Relações Comunitárias do campus (Serc), ou departamentos equivalentes.
 
-## **Membros da Comissão de Elaboração do Regulamento Geral de Estágios do Campus** 
+IV – O estudante deverá realizar o estágio que trata o caput deste artigo de acordo com o descrito no Projeto Pedagógico de Curso (PPC) de cada curso.
 
-Jenifer Caroline Leite Luiz Ailil Vianna Martins Telma Pelaes de Carvalho Elizabete dos Santos Gabriella Lemes Rodrigues de Oliveira Livia Pimenta Reno Gasparotto Luciana de Cassia Camargo Pirani Anderson Nalevaiko Marques Carlos Alberto de Ávila Doriana Cristina Gaio Girata Elenir Leite Marli Becker 
+Parágrafo único – nos casos previstos no inciso IV deste artigo, o estágio deverá ser iniciado respeitando a idade mínima prevista no Artigo 54 da Resolução IFPR nº 36/2019, ou da idade mínima que trata a legislação aplicada à área de saúde.
 
-152 
+Art. 4º Para realização de estágio não obrigatório, o estudante deverá:
 
-INSTITUTOFEDERAL Parana 
+I – verificar as oportunidades de estágio na região e as parcerias firmadas com o IFPR, em especial os agentes de integração;
 
-Ministerio da Educacao 
+II – buscar informações da coordenação de curso sobre as possibilidades de estágio, bem como com as principais correlações com o seu curso;
 
-## **REGULAMENTO GERAL DE ESTÁGIOS DO CAMPUS CURITIBA** 
+III – formalizar TCE/PE com a UCE, utilizando-se dos formulários próprios disponibilizados zela Saee/Proens e Serc, ou departamentos equivalentes.
 
-CAPÍTULO I DAS REGRAS GERAIS DE ESTÁGIO 
+§ 1º. O estágio não obrigatório é facultativo, entretanto, ao optar por realizá-lo, o estudante estará vinculado aos dispositivos da resolução IFPR nº 36/2019 e às normas da UCE.
 
-Art. 1º - Este Regulamento Geral de Estágio (RGE) abrange todos os Projetos Pedagógicos de Curso (PPC) do Campus Curitiba, sendo seus dispositivos alinhados à resolução IFPR nº 36/2019, a l ei nº 11.788/2008 e demais dispositivos legais pertinentes. 
+§ 2º O estudante poderá iniciar o estágio respeitando a idade mínima prevista no Artigo 54 da Resolução IFPR nº 36/2019 e, se houver, os pré-requisitos estabelecidos nos PPCs.
 
-Parágrafo único. O estágio, como ato educativo, prioriza a formação do estudante para o mundo do trabalho e o fortalecimento dos conhecimentos construídos no ambiente acadêmico. 
+Art. 5º O estudante deve estar coberto por seguro contra acidentes pessoais durante a vigência do estágio, que será informado no TCE/PE.
 
-Art. 2º Os estudantes que realizam as atividades de estágio obrigatório e não obrigatório são considerados estagiários, para os efeitos deste regulamento, desde que estejam regularmente matriculados no curso do campus e que as atividades propiciem experiência acadêmicoprofissional e contextualização curricular. 
+Parágrafo único. Nos casos em que o seguro seja custeado pela UCE ou agente de integração,
 
-Art. 3º Para realização de estágio obrigatório o estudante deverá: 
+153
 
-I – estar matriculado no componente de estágio; 
+Parana
 
-II – receber orientação do professor orientador sobre as possibilidades de estágio; 
+Ministerio da Educacao
 
-III – formalizar Termo de Compromisso e Plano de Estágio (TCE/PE) com a unidade concedente de estágio (UCE), utilizando-se dos formulários próprios disponibilizados pela Seção de Acompanhamento de Estágios e Egressos da Pró-reitoria de Ensino (Saee/Proens) e Seção de Estágios e Relações Comunitárias do campus (Serc), ou departamentos equivalentes. 
+## INSTITUTOFEDERAL
 
-IV – O estudante deverá realizar o estágio que trata o caput deste artigo de acordo com o descrito no Projeto Pedagógico de Curso (PPC) de cada curso. 
+é necessário que a SERC requisite a apólice de seguro e incorpore ao processo de “Acompanhamento de estágio”.
 
-Parágrafo único – nos casos previstos no inciso IV deste artigo, o estágio deverá ser iniciado respeitando a idade mínima prevista no Artigo 54 da Resolução IFPR nº 36/2019, ou da idade mínima que trata a legislação aplicada à área de saúde. 
+Art. 6º A caracterização e definição do estágio será feita entre o IFPR e a UCE, por meio do TCE/PE, no qual estarão acordadas todas as condições de sua realização, e que será periodicamente reexaminado.
 
-Art. 4º Para realização de estágio não obrigatório, o estudante deverá: 
+Parágrafo único. É responsabilidade da Coordenação do Curso e da SERC a verificação se o TCE/PE está em conformidade e se o estudante cumpre continuamente os artigos 6º, 17 e 26 da resolução IFPR nº 36/2019, não eximindo o estudante do cumprimento do art. 18 da mesma resolução.
 
-I – verificar as oportunidades de estágio na região e as parcerias firmadas com o IFPR, em especial os agentes de integração; 
+Art. 7º A responsabilidade por verificar se o estudante estará em local apropriado para estágio, alinhado aos princípios pedagógicos do IFPR, em ambiente de formação para o mundo do trabalho e em acordo com o PPC é de responsabilidade da Colegiado do Curso, antes da formalização do TCE/PE, sendo a formalização do documento garantia da inspeção do campo de estágio.
 
-II – buscar informações da coordenação de curso sobre as possibilidades de estágio, bem como com as principais correlações com o seu curso; 
+Parágrafo único - a verificação que trata o caput deste artigo poderá ser realizada por meio do preenchimento de um questionário de avaliação elaborado pelo Colegiado do Curso, a ser respondido e assinado pelo supervisor do estágio na UCE.
 
-III – formalizar TCE/PE com a UCE, utilizando-se dos formulários próprios disponibilizados zela Saee/Proens e Serc, ou departamentos equivalentes. 
+Art. 8º Para os casos em que seja possível o estágio de 40 (quarenta) horas semanais, em acordo com a resolução IFPR nº 36/2019, em especial o §1 do art. 17, devem ter a sua previsão de execução definida no TCE/PE ou mediante aditivo ao TCE/PE.
 
-§ 1º. O estágio não obrigatório é facultativo, entretanto, ao optar por realizá-lo, o estudante estará vinculado aos dispositivos da resolução IFPR nº 36/2019 e às normas da UCE. 
+Parágrafo único. No caso de estágio durante as férias, a orientação será indireta, retornando à orientação prevista no TCE/PE após esse período.
 
-§ 2º O estudante poderá iniciar o estágio respeitando a idade mínima prevista no Artigo 54 da Resolução IFPR nº 36/2019 e, se houver, os pré-requisitos estabelecidos nos PPCs. 
+Art. 9º Toda alteração ao TCE/PE será realizada por meio de aditivo, que deverá ser formalizado, com intermédio da Serc, durante a vigência do TCE/PE.
 
-Art. 5º O estudante deve estar coberto por seguro contra acidentes pessoais durante a vigência do estágio, que será informado no TCE/PE. 
+Art. 10. O TCE/PE, aditivos, equivalências, relatórios e demais requisições deverão ser realizados por meio dos formulários próprios disponibilizados pela Saee/Proens e Serc, nos prazos estabelecidos e divulgados pelo campus.
 
-Parágrafo único. Nos casos em que o seguro seja custeado pela UCE ou agente de integração, 
+Art. 11. Não serão aceitos TCE/PE e aditivos ao TCE/PE:
 
-153 
+I) com data retroativa;
 
-Parana 
+II) antes do período indicado;
 
-Ministerio da Educacao 
+III) que contenham rasuras ou indicativos de alteração;
 
-## INSTITUTOFEDERAL 
+IV) com informações obrigatórias faltantes;
 
-é necessário que a SERC requisite a apólice de seguro e incorpore ao processo de “Acompanhamento de estágio”. 
+V) sem a assinatura do estudante e do professor orientador.
 
-Art. 6º A caracterização e definição do estágio será feita entre o IFPR e a UCE, por meio do TCE/PE, no qual estarão acordadas todas as condições de sua realização, e que será periodicamente reexaminado. 
+Parágrafo único. Como regra, o chefe da Serc assinará somente após a assinatura das demais partes.
 
-Parágrafo único. É responsabilidade da Coordenação do Curso e da SERC a verificação se o TCE/PE está em conformidade e se o estudante cumpre continuamente os artigos 6º, 17 e 26 da resolução IFPR nº 36/2019, não eximindo o estudante do cumprimento do art. 18 da mesma resolução. 
+Art. 12. Os documentos da relação de estágio deverão ser entregues e protocolados na Secretaria Acadêmica do campus, que fará o encaminhamento para a Serc, a qual terá o prazo de 5 (cinco) dias úteis para realizar a tramitação necessária.
 
-Art. 7º A responsabilidade por verificar se o estudante estará em local apropriado para estágio, alinhado aos princípios pedagógicos do IFPR, em ambiente de formação para o mundo do trabalho e em acordo com o PPC é de responsabilidade da Colegiado do Curso, antes da formalização do TCE/PE, sendo a formalização do documento garantia da inspeção do campo de estágio. 
+Art. 13. A Serc abrirá processo no SEI, com a tipologia “Acompanhamento de estágio”, por oferta de curso, que conterá:
 
-Parágrafo único - a verificação que trata o caput deste artigo poderá ser realizada por meio do preenchimento de um questionário de avaliação elaborado pelo Colegiado do Curso, a ser respondido e assinado pelo supervisor do estágio na UCE. 
+I) todos os documentos da relação de estágio (TCE/PE, aditivos ao TCE/PE, relatórios etc.); II) o relatório dos estudantes que realizaram estágio não obrigatório, que trará as informações
 
-Art. 8º Para os casos em que seja possível o estágio de 40 (quarenta) horas semanais, em acordo com a resolução IFPR nº 36/2019, em especial o §1 do art. 17, devem ter a sua previsão de execução definida no TCE/PE ou mediante aditivo ao TCE/PE. 
+154
 
-Parágrafo único. No caso de estágio durante as férias, a orientação será indireta, retornando à orientação prevista no TCE/PE após esse período. 
+Parana
 
-Art. 9º Toda alteração ao TCE/PE será realizada por meio de aditivo, que deverá ser formalizado, com intermédio da Serc, durante a vigência do TCE/PE. 
+Ministerio da Educacao
 
-Art. 10. O TCE/PE, aditivos, equivalências, relatórios e demais requisições deverão ser realizados por meio dos formulários próprios disponibilizados pela Saee/Proens e Serc, nos prazos estabelecidos e divulgados pelo campus. 
+## INSTITUTOFEDERAL
 
-Art. 11. Não serão aceitos TCE/PE e aditivos ao TCE/PE: 
+necessárias ao lançamento pela Secretaria Acadêmica em histórico escolar do estudante; § 1º. O processo será tramitado para Saee/Proens para fins de controle;
 
-I) com data retroativa; 
+§ 2º. A Serc abrirá um novo processo de “Acompanhamento de estágio”, vinculado ao processo de oferta, para casos em que seja requerida equivalência para análise do colegiado do curso;
 
-II) antes do período indicado; 
+§ 3º. Ao término da oferta, deverá ser registrado o quantitativo de estudantes que realizaram estágio obrigatório e não obrigatório, por meio de despacho final à Saee/Proens, que poderá ser realizado pelo coordenador do curso;
 
-III) que contenham rasuras ou indicativos de alteração; 
+§ 4º As relações de estágio são comprovadas pelos documentos do processo.
 
-IV) com informações obrigatórias faltantes; 
+Art. 14. O convênio de estágio, quando necessário, deverá ser formalizado antes do início da realização de estágio, sendo de responsabilidade dos coordenadores de curso e dos professores orientadores a verificação da necessidade; da Serc, o apoio à formalização; da Saee/Proens, a supervisão e orientação.
 
-V) sem a assinatura do estudante e do professor orientador. 
+## CAPÍTULO II DA EQUIVALÊNCIA
 
-Parágrafo único. Como regra, o chefe da Serc assinará somente após a assinatura das demais partes. 
+Art. 15. As horas de estágio não obrigatório poderão ser utilizadas para horas de atividades complementares, sendo o percentual máximo de utilização de 25% da carga horária de atividades complementares, limitada a 50 horas.
 
-Art. 12. Os documentos da relação de estágio deverão ser entregues e protocolados na Secretaria Acadêmica do campus, que fará o encaminhamento para a Serc, a qual terá o prazo de 5 (cinco) dias úteis para realizar a tramitação necessária. 
+Art. 16. O estudante, nos casos previstos nos incisos I e II do art. 28 da resolução IFPR nº 36/2019, poderá solicitar ao colegiado do curso, por meio de formulário próprio, equivalência de até 70% da carga horária de estágio obrigatório, considerando:
 
-Art. 13. A Serc abrirá processo no SEI, com a tipologia “Acompanhamento de estágio”, por oferta de curso, que conterá: 
+a) estágios de até 200h (duzentas horas): deverão ser comprovados no mínimo 3 meses de experiência nos últimos 2 (dois) anos;
 
-I) todos os documentos da relação de estágio (TCE/PE, aditivos ao TCE/PE, relatórios etc.); II) o relatório dos estudantes que realizaram estágio não obrigatório, que trará as informações 
+b) estágios de até 400h (quatrocentas horas): deverão ser comprovados no mínimo 6 meses de experiência nos últimos 3 (três) anos;
 
-154 
+c) estágios superiores a 400h (quatrocentas horas): deverão ser comprovados no mínimo 12 meses de experiência nos últimos 5 (cinco) anos.
 
-Parana 
+Parágrafo único. Caberá ao colegiado do curso avaliar as características qualitativas das atividades realizadas e definir o percentual de equivalência por estudante limitado ao valor do caput.
 
-Ministerio da Educacao 
+Art. 17. O estudante, no caso previsto no inciso III do art. 28 da resolução IFPR nº 36/2019, poderá solicitar ao colegiado do curso, por meio de formulário próprio, equivalência da carga horária de estágio.
 
-## INSTITUTOFEDERAL 
+Parágrafo único. Caberá ao colegiado do curso avaliar as características qualitativas das atividades realizadas e aprovar ou não a equivalência pretendida.
 
-necessárias ao lançamento pela Secretaria Acadêmica em histórico escolar do estudante; § 1º. O processo será tramitado para Saee/Proens para fins de controle; 
+Art. 18. O estudante, no caso previsto no inciso IV do art. 28 da resolução IFPR nº 36/2019, poderá solicitar ao colegiado do curso, por meio de formulário próprio, equivalência da carga horária de estágio. Para tanto, o colegiado do curso considerará:
 
-§ 2º. A Serc abrirá um novo processo de “Acompanhamento de estágio”, vinculado ao processo de oferta, para casos em que seja requerida equivalência para análise do colegiado do curso; 
+I - a compatibilidade das atividades desenvolvidas com o componente curricular de estágio obrigatório;
 
-§ 3º. Ao término da oferta, deverá ser registrado o quantitativo de estudantes que realizaram estágio obrigatório e não obrigatório, por meio de despacho final à Saee/Proens, que poderá ser realizado pelo coordenador do curso; 
+155
 
-§ 4º As relações de estágio são comprovadas pelos documentos do processo. 
+## INSTITUTOFEDERAL
 
-Art. 14. O convênio de estágio, quando necessário, deverá ser formalizado antes do início da realização de estágio, sendo de responsabilidade dos coordenadores de curso e dos professores orientadores a verificação da necessidade; da Serc, o apoio à formalização; da Saee/Proens, a supervisão e orientação. 
+## Parana
 
-## CAPÍTULO II DA EQUIVALÊNCIA 
+Ministerio da Educacao<br>
 
-Art. 15. As horas de estágio não obrigatório poderão ser utilizadas para horas de atividades complementares, sendo o percentual máximo de utilização de 25% da carga horária de atividades complementares, limitada a 50 horas. 
+II - a compatibilidade das horas totais.
 
-Art. 16. O estudante, nos casos previstos nos incisos I e II do art. 28 da resolução IFPR nº 36/2019, poderá solicitar ao colegiado do curso, por meio de formulário próprio, equivalência de até 70% da carga horária de estágio obrigatório, considerando: 
+§ 1º No caso das licenciaturas, o nível de ensino previsto no componente curricular de estágio deverá ser considerado.
 
-a) estágios de até 200h (duzentas horas): deverão ser comprovados no mínimo 3 meses de experiência nos últimos 2 (dois) anos; 
+§ 2º Para os casos do Pibid e Residência Pedagógica, os professores orientadores responsáveis pelos programas emitirão pareceres de equivalência para os componentes de estágio obrigatório.
 
-b) estágios de até 400h (quatrocentas horas): deverão ser comprovados no mínimo 6 meses de experiência nos últimos 3 (três) anos; 
+Art. 19. Os documentos comprobatórios para a solicitação de equivalência de carga horária de
 
-c) estágios superiores a 400h (quatrocentas horas): deverão ser comprovados no mínimo 12 meses de experiência nos últimos 5 (cinco) anos. 
+estágio segue o rol exemplificativo do §1 do art. 28 da resolução IFPR nº 36/2019. Art. 20. A matrícula, sua confirmação e a frequência regular no curso são itens indispensáveis
 
-Parágrafo único. Caberá ao colegiado do curso avaliar as características qualitativas das atividades realizadas e definir o percentual de equivalência por estudante limitado ao valor do caput. 
+para iniciar e continuar em estágio, sendo de responsabilidade do professor orientador notificar as mudanças na situação do estudante à Serc.
 
-Art. 17. O estudante, no caso previsto no inciso III do art. 28 da resolução IFPR nº 36/2019, poderá solicitar ao colegiado do curso, por meio de formulário próprio, equivalência da carga horária de estágio. 
+Parágrafo único. O professor orientador e o coordenador de curso, com intermédio da Serc, podem, justificadamente, não iniciar ou interromper estágio de estudante que não mantenha as condições acadêmicas mínimas, registrando formalmente por e-mail.
 
-Parágrafo único. Caberá ao colegiado do curso avaliar as características qualitativas das atividades realizadas e aprovar ou não a equivalência pretendida. 
+## CAPÍTULO III
 
-Art. 18. O estudante, no caso previsto no inciso IV do art. 28 da resolução IFPR nº 36/2019, poderá solicitar ao colegiado do curso, por meio de formulário próprio, equivalência da carga horária de estágio. Para tanto, o colegiado do curso considerará: 
+## DO DESLIGAMENTO
 
-I - a compatibilidade das atividades desenvolvidas com o componente curricular de estágio obrigatório; 
+Art. 21. A rescisão do estágio deverá ocorrer por meio de formulário próprio, respeitandose as
 
-155 
+regras previstas no art. 31 da resolução IFPR nº 36/2019, considerando que a Serc tem o prazo de 5 dias úteis para tramitações necessárias.
 
-## INSTITUTOFEDERAL 
+## CAPÍTULO IV
 
-## Parana 
+## DA ORIENTAÇÃO, SUPERVISÃO E AVALIAÇÃO
 
-**==> picture [64 x 9] intentionally omitted <==**
+Art. 22. A orientação de estágio não obrigatório será da forma indireta, nos termos da resolução IFPR nº 36/2019, exceto se previsto de forma diferente no PPC.
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+Art. 23. Para orientação de estágio obrigatório e não obrigatório, é computada a carga horária de 1 (uma) hora-aula semanal para até 10 (dez) estudantes e de 2 (duas) horas-aulas semanais para mais de 10 estudantes, considerando-se o limite de 20 estudantes por professor.
 
+Art. 24. Para avaliação e acompanhamento do estágio, são consideradas as mesmas concepções que orientam o processo de ensino e aprendizagem, conforme previsto no PPC, observando-se:
 
-II - a compatibilidade das horas totais. 
+I – a articulação entre teoria e prática em produções e vivências do estudante, durante a realização do estágio;
 
-§ 1º No caso das licenciaturas, o nível de ensino previsto no componente curricular de estágio deverá ser considerado. 
+II – a participação do estudante nos encontros de orientação de estágio, atendendo ao critério de assiduidade no componente curricular;
 
-§ 2º Para os casos do Pibid e Residência Pedagógica, os professores orientadores responsáveis pelos programas emitirão pareceres de equivalência para os componentes de estágio obrigatório. 
+III – a autoavaliação do estudante;
 
-Art. 19. Os documentos comprobatórios para a solicitação de equivalência de carga horária de 
+IV – elaboração e construção do plano de estágio, nas etapas acordadas;
 
-estágio segue o rol exemplificativo do §1 do art. 28 da resolução IFPR nº 36/2019. Art. 20. A matrícula, sua confirmação e a frequência regular no curso são itens indispensáveis 
+156
 
-para iniciar e continuar em estágio, sendo de responsabilidade do professor orientador notificar as mudanças na situação do estudante à Serc. 
+## INSTITUTOFEDERAL
 
-Parágrafo único. O professor orientador e o coordenador de curso, com intermédio da Serc, podem, justificadamente, não iniciar ou interromper estágio de estudante que não mantenha as condições acadêmicas mínimas, registrando formalmente por e-mail. 
+## Parana
 
-## CAPÍTULO III 
+Ministerio da Educacao
 
-## DO DESLIGAMENTO 
+V – elaboração e entrega dos relatórios de estágio, nas etapas acordadas;
 
-Art. 21. A rescisão do estágio deverá ocorrer por meio de formulário próprio, respeitandose as 
+VI – participação em eventos específicos com a socialização das experiências e resultados do estágio.
 
-regras previstas no art. 31 da resolução IFPR nº 36/2019, considerando que a Serc tem o prazo de 5 dias úteis para tramitações necessárias. 
+## CAPÍTULO V
 
-## CAPÍTULO IV 
+## DA RESPONSABILIDADE
 
-## DA ORIENTAÇÃO, SUPERVISÃO E AVALIAÇÃO 
+Art. 25. A resolução IFPR nº 36/2019 trata das responsabilidades dos estagiários durante todo o texto, em especial no art. 18, que se complementam com as seguintes:
 
-Art. 22. A orientação de estágio não obrigatório será da forma indireta, nos termos da resolução IFPR nº 36/2019, exceto se previsto de forma diferente no PPC. 
+I - aceitar as normas de estágio do IFPR e da UCE;
 
-Art. 23. Para orientação de estágio obrigatório e não obrigatório, é computada a carga horária de 1 (uma) hora-aula semanal para até 10 (dez) estudantes e de 2 (duas) horas-aulas semanais para mais de 10 estudantes, considerando-se o limite de 20 estudantes por professor. 
+II - escolher seu campo de estágio, dentre aqueles credenciados pelo IFPR, com o auxílio do professor orientador;
 
-Art. 24. Para avaliação e acompanhamento do estágio, são consideradas as mesmas concepções que orientam o processo de ensino e aprendizagem, conforme previsto no PPC, observando-se: 
+III - elaborar o TCE/PE, aprovado pelo professor orientador e a UCE;
 
-I – a articulação entre teoria e prática em produções e vivências do estudante, durante a realização do estágio; 
+IV - assinar e cumprir o TCE/PE;
 
-II – a participação do estudante nos encontros de orientação de estágio, atendendo ao critério de assiduidade no componente curricular; 
+V - entregar relatórios, fichas de frequências e demais documentos necessários que formalizam a relação de estágio.
 
-III – a autoavaliação do estudante; 
+Art. 26. A resolução IFPR nº 36/2019 trata das responsabilidades dos professores orientadores de estágio durante todo o texto, que se complementam com as seguintes:
 
-IV – elaboração e construção do plano de estágio, nas etapas acordadas; 
+I - elaborar e organizar o plano de estágio junto aos agentes nele envolvidos, objetivando o cumprimento do PPC;
 
-156 
+II - manter encontros periódicos com seus orientandos para acompanhamento das atividades; III - oferecer aos estagiários condições necessárias para o desenvolvimento da execução das atividades programadas no plano de atividades;
 
-## INSTITUTOFEDERAL 
+IV - orientar os estudantes, em conjunto com a Serc, sobre os procedimentos de estágio;
 
-## Parana 
+V - interagir com os supervisores de forma a garantir sua participação ativa no planejamento e acompanhamento do estágio;
 
-Ministerio da Educacao 
+VI - acompanhar, orientar e direcionar o estudante no decorrer de sua prática profissional, inclusive no campo de estágio;
 
-V – elaboração e entrega dos relatórios de estágio, nas etapas acordadas; 
+VII - cumprir as exigências normativas em relação ao acompanhamento de desempenho, frequência e avaliação do estudante, em caráter parcial e final;
 
-VI – participação em eventos específicos com a socialização das experiências e resultados do estágio. 
+VIII - manter em dia a documentação referente aos estágios supervisionados que lhe dizem respeito;
 
-## CAPÍTULO V 
+IX - acompanhar o trâmite dos processos a que seus estagiários estão vinculados, cobrando desses o cumprimento dos prazos processuais.
 
-## DA RESPONSABILIDADE 
+## CAPÍTULO VI DOS ESTUDANTES COM DEFICIÊNCIA
 
-Art. 25. A resolução IFPR nº 36/2019 trata das responsabilidades dos estagiários durante todo o texto, em especial no art. 18, que se complementam com as seguintes: 
+Art. 27. A Resolução IFPR nº 36/2019 trata em seus artigos de 40 a 44 sobre os estudantes com deficiência, que devem ser complementados com:
 
-I - aceitar as normas de estágio do IFPR e da UCE; 
+157
 
-II - escolher seu campo de estágio, dentre aqueles credenciados pelo IFPR, com o auxílio do professor orientador; 
+## INSTITUTOFEDERAL
 
-III - elaborar o TCE/PE, aprovado pelo professor orientador e a UCE; 
+## Parana
 
-IV - assinar e cumprir o TCE/PE; 
+Ministerio da Educacao
 
-V - entregar relatórios, fichas de frequências e demais documentos necessários que formalizam a relação de estágio. 
+Os estudantes com deficiência poderão iniciar seu estágio em período diferente do indicado no PC, desde que previsto no processo de flexibilização curricular do estudante, sendo a forma de orientação, nestes casos, adequada às necessidades por ele demandadas.
 
-Art. 26. A resolução IFPR nº 36/2019 trata das responsabilidades dos professores orientadores de estágio durante todo o texto, que se complementam com as seguintes: 
+## CAPÍTULO VII
 
-I - elaborar e organizar o plano de estágio junto aos agentes nele envolvidos, objetivando o cumprimento do PPC; 
+## DO REGISTRO PELA SECRETARIA ACADÊMICA
 
-II - manter encontros periódicos com seus orientandos para acompanhamento das atividades; III - oferecer aos estagiários condições necessárias para o desenvolvimento da execução das atividades programadas no plano de atividades; 
+Art. 28. De acordo com o inciso II, art. 13, deste regulamento, a Secretaria Acadêmica procederá ao registro do estágio não obrigatório do estudante no sistema acadêmico, considerando:
 
-IV - orientar os estudantes, em conjunto com a Serc, sobre os procedimentos de estágio; 
+I - o relatório de estágio, que trará as informações necessárias ao lançamento, contendo: a) número da matrícula; b) nome do estudante; c) carga horária total;
 
-V - interagir com os supervisores de forma a garantir sua participação ativa no planejamento e acompanhamento do estágio; 
+II - quando não houver possibilidade de registro no sistema acadêmico, a Secretaria Acadêmica devolverá o processo para a Serc, informando quais estudantes não foram possíveis os registros, e solicitando a emissão das declarações de conclusão de estágio por esta unidade ou UCE;
 
-VI - acompanhar, orientar e direcionar o estudante no decorrer de sua prática profissional, inclusive no campo de estágio; 
+§ 1º Para os casos especificados no item I, a Secretaria Acadêmica deverá registrar no sistema acadêmico a informação: “O estudante concluiu XXX horas de estágio não obrigatório no decorrer do curso”.
 
-VII - cumprir as exigências normativas em relação ao acompanhamento de desempenho, frequência e avaliação do estudante, em caráter parcial e final; 
+§ 2º Para os casos especificados no item II, a Secretaria Acadêmica, após receber a declaração de conclusão do estágio, deverá arquivar na pasta individual do estudante.
 
-VIII - manter em dia a documentação referente aos estágios supervisionados que lhe dizem respeito; 
+## CAPÍTULO VIII DISPOSIÇÕES GERAIS
 
-IX - acompanhar o trâmite dos processos a que seus estagiários estão vinculados, cobrando desses o cumprimento dos prazos processuais. 
+Art. 29. Este regulamento entra em vigor na data de sua publicação, revogando-se todos os regulamentos de estágios presentes nos PPC do campus.
 
-## CAPÍTULO VI DOS ESTUDANTES COM DEFICIÊNCIA 
+Art. 30. A necessidade de atualização deste RGE será avaliada periodicamente pelos colegiados de curso, os quais, caso a verifiquem, utilizar-se-ão dos mesmos trâmites de aprovação deste documento.
 
-Art. 27. A Resolução IFPR nº 36/2019 trata em seus artigos de 40 a 44 sobre os estudantes com deficiência, que devem ser complementados com: 
+Parágrafo único. Caso a atualização do RGE seja constatada na criação ou ajuste de curso, a proposta de alteração deverá ser inserida como anexo do PPC e, após a sua aprovação, atualizada na página do campus.
 
-157 
+Art. 31. Os casos omissos serão resolvidos pelo colegiado do curso ao qual o estudante está relacionado, e em última instância, pela direção de ensino.
 
-## INSTITUTOFEDERAL 
+## CAPÍTULO IX DISPOSIÇÕES TRANSITÓRIAS
 
-## Parana 
+Art. 32. Os PPC que não contiverem a menção ao estágio não obrigatório terão o prazo de 2 (dois) anos para adequação, sendo, neste ínterim, permitida a sua realização, desde que o
 
-Ministerio da Educacao 
+158
 
-Os estudantes com deficiência poderão iniciar seu estágio em período diferente do indicado no PC, desde que previsto no processo de flexibilização curricular do estudante, sendo a forma de orientação, nestes casos, adequada às necessidades por ele demandadas. 
+Parana
 
-## CAPÍTULO VII 
+## INSTITUTOFEDERAL
 
-## DO REGISTRO PELA SECRETARIA ACADÊMICA 
+Ministerio da Educacao<br>
 
-Art. 28. De acordo com o inciso II, art. 13, deste regulamento, a Secretaria Acadêmica procederá ao registro do estágio não obrigatório do estudante no sistema acadêmico, considerando: 
+perfil do egresso esteja alinhado ao estágio do estudante.
 
-I - o relatório de estágio, que trará as informações necessárias ao lançamento, contendo: a) número da matrícula; b) nome do estudante; c) carga horária total; 
+Art. 33. Para os cursos no âmbito do IFPR, campus Curitiba, a área administrativa também poderá ser parte integrante do perfil do egresso, constituindo-se como possibilidade para área de estágio não obrigatório do estudante, sendo a sua menção no PPC oportunamente inserida quando realizado o ajuste curricular.
 
-II - quando não houver possibilidade de registro no sistema acadêmico, a Secretaria Acadêmica devolverá o processo para a Serc, informando quais estudantes não foram possíveis os registros, e solicitando a emissão das declarações de conclusão de estágio por esta unidade ou UCE; 
+Art. 34. Para os casos em que a orientação não esteja definida em PPC, será considerada a orientação semidireta, sendo a sua menção no PPC oportunamente inserida quando realizado o ajuste curricular.
 
-§ 1º Para os casos especificados no item I, a Secretaria Acadêmica deverá registrar no sistema acadêmico a informação: “O estudante concluiu XXX horas de estágio não obrigatório no decorrer do curso”. 
+RESOLUÇÃO Nº 36, DE 01 DE OUTUBRO DE 2019
 
-§ 2º Para os casos especificados no item II, a Secretaria Acadêmica, após receber a declaração de conclusão do estágio, deverá arquivar na pasta individual do estudante. 
+Normatiza os estágios dos cursos do Instituto Federal do Paraná - IFPR, o IFPR como campo de estágio e define os procedimentos para sua realização.
 
-## CAPÍTULO VIII DISPOSIÇÕES GERAIS 
+O CONSELHO SUPERIOR DO INSTITUTO FEDERAL DO PARANÁ, no uso de suas atribuições legais e estatutárias, considerando o parecer exarado pelo conselheiro relator Marcelo Estevam no processo 23411.002272/2019-26,
 
-Art. 29. Este regulamento entra em vigor na data de sua publicação, revogando-se todos os regulamentos de estágios presentes nos PPC do campus. 
+RESOLVE:
 
-Art. 30. A necessidade de atualização deste RGE será avaliada periodicamente pelos colegiados de curso, os quais, caso a verifiquem, utilizar-se-ão dos mesmos trâmites de aprovação deste documento. 
+## CAPÍTULO I DAS DISPOSIÇÕES PRELIMINARES
 
-Parágrafo único. Caso a atualização do RGE seja constatada na criação ou ajuste de curso, a proposta de alteração deverá ser inserida como anexo do PPC e, após a sua aprovação, atualizada na página do campus. 
+Art. 1º A presente resolução visa normatizar os estágios dos cursos do Instituto Federal do Paraná (IFPR), em todos os níveis e modalidades, o IFPR como campo de estágio e definir os procedimentos para sua realização, tendo por fundamento a Lei nº 9.394 de 20 de dezembro de 1996, Lei nº 11.788 de 25 de setembro de 2008, Lei nº 13.146 de 6 de julho de 2015, a Portaria MPOG nº 313 de 14 de setembro de 2007, a resolução CNE/CEB nº 6 de 20 de setembro de 2012, a Orientação Normativa MPOG nº 2 de 24 de junho de 2016, normativas internas do IFPR e outros dispositivos legais pertinentes.
 
-Art. 31. Os casos omissos serão resolvidos pelo colegiado do curso ao qual o estudante está relacionado, e em última instância, pela direção de ensino. 
+## CAPÍTULO II DA NATUREZA DOS ESTÁGIOS
 
-## CAPÍTULO IX DISPOSIÇÕES TRANSITÓRIAS 
+Art. 2º Estágio é ato educativo escolar supervisionado e orientado, desenvolvido no ambiente de trabalho, de estudantes que estejam frequentando os cursos do IFPR ou de estudantes que venham a estagiar nas dependências do IFPR. O estágio consiste em atividade pedagógica, devendo:
 
-Art. 32. Os PPC que não contiverem a menção ao estágio não obrigatório terão o prazo de 2 (dois) anos para adequação, sendo, neste ínterim, permitida a sua realização, desde que o 
+I - ser realizada sob a responsabilidade e coordenação da instituição de ensino;
 
-158 
+II - propiciar experiência acadêmico-profissional;
 
-Parana 
+III - oportunizar o aprendizado da atividade profissional e a contextualização curricular;
 
-## INSTITUTOFEDERAL 
+IV - preparar o estudante para a cidadania e para o mundo do trabalho;
 
-**==> picture [64 x 9] intentionally omitted <==**
+159
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+Ministerio da Educacao
 
+## INSTITUTOFEDERAL
 
-perfil do egresso esteja alinhado ao estágio do estudante. 
+## Parana
 
-Art. 33. Para os cursos no âmbito do IFPR, campus Curitiba, a área administrativa também poderá ser parte integrante do perfil do egresso, constituindo-se como possibilidade para área de estágio não obrigatório do estudante, sendo a sua menção no PPC oportunamente inserida quando realizado o ajuste curricular. 
+V - ser realizado nas áreas de formação do estudante, em consonância com o perfil profissional descrito no Projeto Pedagógico do Curso (PPC).
 
-Art. 34. Para os casos em que a orientação não esteja definida em PPC, será considerada a orientação semidireta, sendo a sua menção no PPC oportunamente inserida quando realizado o ajuste curricular. 
+Art. 3º O estágio poderá ser obrigatório e/ou não obrigatório, de acordo com as especificidades de cada curso.
 
-RESOLUÇÃO Nº 36, DE 01 DE OUTUBRO DE 2019 
+Art. 4º É considerado estágio obrigatório aquele definido no PPC, com carga horária determinada e que seja considerado como pré-requisito para a aprovação e certificação. Parágrafo único. Para caracterizar o estágio como obrigatório, é necessário incluí-lo na organização curricular do PPC, evidenciar a contextualização da necessidade, as normas específicas da profissão (caso haja), a oferta de campo de estágio na região e a relevância do estágio na formação do perfil profissional.
 
-Normatiza os estágios dos cursos do Instituto Federal do Paraná - IFPR, o IFPR como campo de estágio e define os procedimentos para sua realização. 
+Art. 5º É considerado estágio não obrigatório aquele que não seja pré-requisito para a aprovação e certificação, realizado de forma opcional, acrescido à carga horária total do curso.
 
-O CONSELHO SUPERIOR DO INSTITUTO FEDERAL DO PARANÁ, no uso de suas atribuições legais e estatutárias, considerando o parecer exarado pelo conselheiro relator Marcelo Estevam no processo 23411.002272/2019-26, 
+Art. 6º O estágio não cria vínculo empregatício de qualquer natureza quando:
 
-RESOLVE: 
+I – houver matrícula e frequência regular do estudante atestados pela instituição de ensino em curso de educação superior, de educação profissional, de ensino médio, da educação especial e nos anos finais do ensino fundamental, na modalidade profissional da educação de jovens e adultos;
 
-## CAPÍTULO I DAS DISPOSIÇÕES PRELIMINARES 
+II – celebrado por meio de Termo de Compromisso de Estágio (TCE) entre o estudante, a Unidade Concedente de Estágio (UCE) e a Instituição de Ensino;
 
-Art. 1º A presente resolução visa normatizar os estágios dos cursos do Instituto Federal do Paraná (IFPR), em todos os níveis e modalidades, o IFPR como campo de estágio e definir os procedimentos para sua realização, tendo por fundamento a Lei nº 9.394 de 20 de dezembro de 1996, Lei nº 11.788 de 25 de setembro de 2008, Lei nº 13.146 de 6 de julho de 2015, a Portaria MPOG nº 313 de 14 de setembro de 2007, a resolução CNE/CEB nº 6 de 20 de setembro de 2012, a Orientação Normativa MPOG nº 2 de 24 de junho de 2016, normativas internas do IFPR e outros dispositivos legais pertinentes. 
+III – compatibilidade entre as atividades desenvolvidas no estágio e aquelas previstas no TCE e Plano de Estágio (PE).
 
-## CAPÍTULO II DA NATUREZA DOS ESTÁGIOS 
+§ 1º O estagiário poderá receber bolsa ou outra forma de contraprestação que venha a ser acordada sendo compulsória a sua concessão na hipótese de estágio não obrigatório.
 
-Art. 2º Estágio é ato educativo escolar supervisionado e orientado, desenvolvido no ambiente de trabalho, de estudantes que estejam frequentando os cursos do IFPR ou de estudantes que venham a estagiar nas dependências do IFPR. O estágio consiste em atividade pedagógica, devendo: 
+§ 2º A eventual concessão de benefícios relacionados a transporte, alimentação e saúde, entre outros, não caracteriza vínculo empregatício.
 
-I - ser realizada sob a responsabilidade e coordenação da instituição de ensino; 
+Art. 7º O estudante somente poderá ser matriculado na componente curricular de estágio obrigatório, ou iniciar o estágio não obrigatório, a partir do período indicado no Regulamento Geral de Estágios (RGE), sendo preferencial a partir do segundo período letivo.
 
-II - propiciar experiência acadêmico-profissional; 
+Art. 8º No caso de cursos presenciais, os horários em que serão desenvolvidas as atividades do estágio não podem coincidir com os horários de aulas em que o estudante esteja matriculado.
 
-III - oportunizar o aprendizado da atividade profissional e a contextualização curricular; 
+## CAPÍTULO III DO REGULAMENTO GERAL DE ESTÁGIOS
 
-IV - preparar o estudante para a cidadania e para o mundo do trabalho; 
+Art. 9º O RGE será único para o campus e para a diretoria de Educação a Distância (EaD) e versará sobre estágio não obrigatório e estágio obrigatório, nos casos em que haja previsão em PPC.
 
-159 
+160
 
-Ministerio da Educacao 
+## INSTITUTOFEDERAL
 
-## INSTITUTOFEDERAL 
+## Parana
 
-## Parana 
+Ministerio da Educacao
 
-V - ser realizado nas áreas de formação do estudante, em consonância com o perfil profissional descrito no Projeto Pedagógico do Curso (PPC). 
+Art. 10. As normativas do RGE estarão em acordo com esta resolução e poderão ser gerais, agrupadas por níveis, áreas e modalidades, divididas por curso ou híbridas.
 
-Art. 3º O estágio poderá ser obrigatório e/ou não obrigatório, de acordo com as especificidades de cada curso. 
+Parágrafo único. O RGE deverá contemplar, independente da forma, todos os estágios dos cursos do campus ou da EaD.
 
-Art. 4º É considerado estágio obrigatório aquele definido no PPC, com carga horária determinada e que seja considerado como pré-requisito para a aprovação e certificação. Parágrafo único. Para caracterizar o estágio como obrigatório, é necessário incluí-lo na organização curricular do PPC, evidenciar a contextualização da necessidade, as normas específicas da profissão (caso haja), a oferta de campo de estágio na região e a relevância do estágio na formação do perfil profissional. 
+Art. 11. As normativas do RGE que versarem sobre questões horárias, como equivalência de atividades
 
-Art. 5º É considerado estágio não obrigatório aquele que não seja pré-requisito para a aprovação e certificação, realizado de forma opcional, acrescido à carga horária total do curso. 
+complementares ou de estágio obrigatório, deverão utilizar preferencialmente faixas horárias e
 
-Art. 6º O estágio não cria vínculo empregatício de qualquer natureza quando: 
+percentuais, a fim de evitar incoerências normativas.
 
-I – houver matrícula e frequência regular do estudante atestados pela instituição de ensino em curso de educação superior, de educação profissional, de ensino médio, da educação especial e nos anos finais do ensino fundamental, na modalidade profissional da educação de jovens e adultos; 
+Art. 12. A cada criação de curso deverá ser reavaliado o RGE e, se necessário, atualizado. Parágrafo único. A necessidade de atualização do RGE deverá constar na Proposta de Abertura de
 
-II – celebrado por meio de Termo de Compromisso de Estágio (TCE) entre o estudante, a Unidade Concedente de Estágio (UCE) e a Instituição de Ensino; 
+Curso (PAC) ou PPC.
 
-III – compatibilidade entre as atividades desenvolvidas no estágio e aquelas previstas no TCE e Plano de Estágio (PE). 
+Art. 13. A elaboração e/ou revisão do RGE será realizada por equipe multidisciplinar, com a
 
-§ 1º O estagiário poderá receber bolsa ou outra forma de contraprestação que venha a ser acordada sendo compulsória a sua concessão na hipótese de estágio não obrigatório. 
+participação dos coordenadores de curso.
 
-§ 2º A eventual concessão de benefícios relacionados a transporte, alimentação e saúde, entre outros, não caracteriza vínculo empregatício. 
+§ 1º Os casos omissos no RGE sobre tema que obrigatoriamente deveria estar contemplado, acarretará em revisão no período de 3 (três) meses.
 
-Art. 7º O estudante somente poderá ser matriculado na componente curricular de estágio obrigatório, ou iniciar o estágio não obrigatório, a partir do período indicado no Regulamento Geral de Estágios (RGE), sendo preferencial a partir do segundo período letivo. 
+§ 2º Para casos urgentes, nos quais possa haver perecimento do direito do estudante, a decisão se dará pelo colegiado do curso do estudante.
 
-Art. 8º No caso de cursos presenciais, os horários em que serão desenvolvidas as atividades do estágio não podem coincidir com os horários de aulas em que o estudante esteja matriculado. 
+Art. 14. Em caso de conflito de previsão sobre estágios, esta resolução e o RGE, nesta ordem, são preferenciais.
 
-## CAPÍTULO III DO REGULAMENTO GERAL DE ESTÁGIOS 
+Art. 15. O RGE não deve conter sobreposição normativa em relação a esta resolução. Art. 16. O RGE é aprovado pelo Conselho de Ensino, Pesquisa e Extensão (Consepe) do IFPR.
 
-Art. 9º O RGE será único para o campus e para a diretoria de Educação a Distância (EaD) e versará sobre estágio não obrigatório e estágio obrigatório, nos casos em que haja previsão em PPC. 
+## CAPÍTULO IV DO ESTUDANTE ESTAGIÁRIO
 
-160 
+Art. 17. O estudante, ou seu representante legal, definirá em comum acordo com o IFPR e a UCE a jornada de estágio, devendo constar no TCE, ser compatível com as atividades acadêmicas e não ultrapassar:
 
-## INSTITUTOFEDERAL 
+I – 4 (quatro) horas diárias e 20 (vinte) horas semanais, no caso de estudantes de educação especial e dos anos finais do ensino fundamental, na modalidade profissional de educação de jovens e adultos;
 
-## Parana 
+II – 6 (seis) horas diárias e 30 (trinta) horas semanais, no caso de estudantes do ensino superior, da educação profissional de nível médio e do ensino médio regular.
 
-Ministerio da Educacao 
+§ 1º. O estágio relativo a cursos que alternam teoria e prática, nos períodos em que não estão programadas aulas presenciais, poderá ter jornada de até 40 (quarenta) horas semanais, desde que haja previsão específica no PPC ou RGE e que não haja dissociação da teoria e prática no âmbito do curso.
 
-Art. 10. As normativas do RGE estarão em acordo com esta resolução e poderão ser gerais, agrupadas por níveis, áreas e modalidades, divididas por curso ou híbridas. 
+§ 2º O estagiário menor não poderá realizar estágio no período noturno.
 
-Parágrafo único. O RGE deverá contemplar, independente da forma, todos os estágios dos cursos do campus ou da EaD. 
+161
 
-Art. 11. As normativas do RGE que versarem sobre questões horárias, como equivalência de atividades 
+Ministerio da Educacao
 
-complementares ou de estágio obrigatório, deverão utilizar preferencialmente faixas horárias e 
+## INSTITUTOFEDERAL
 
-percentuais, a fim de evitar incoerências normativas. 
+Parana
 
-Art. 12. A cada criação de curso deverá ser reavaliado o RGE e, se necessário, atualizado. Parágrafo único. A necessidade de atualização do RGE deverá constar na Proposta de Abertura de 
+Art. 18. São responsabilidades do estudante: I - iniciar o estágio em acordo com as normas do PPC, do RGE e desta resolução, sob pena de não aproveitamento da carga horária.
 
-Curso (PAC) ou PPC. 
+II - cumprir as regras da UCE, de forma a promover o bom ambiente de aprendizagem; III - cumprir os dispositivos do TCE e PE;
 
-Art. 13. A elaboração e/ou revisão do RGE será realizada por equipe multidisciplinar, com a 
+IV - zelar pelo nome do IFPR e do participe;
 
-participação dos coordenadores de curso. 
+V - entregar relatórios, fichas de frequências e demais documentos necessários que formalizam a relação de estágio;
 
-§ 1º Os casos omissos no RGE sobre tema que obrigatoriamente deveria estar contemplado, acarretará em revisão no período de 3 (três) meses. 
+VI - comunicar dificuldades que impossibilitem a continuidade na UCE;
 
-§ 2º Para casos urgentes, nos quais possa haver perecimento do direito do estudante, a decisão se dará pelo colegiado do curso do estudante. 
+Parágrafo único. Ao que tange o inciso VI, o estudante do IFPR comunicará, nesta ordem, ao orientador do estágio, ao coordenador do curso ou a seção de Estágios e Relações Comunitárias (SERC).
 
-Art. 14. Em caso de conflito de previsão sobre estágios, esta resolução e o RGE, nesta ordem, são preferenciais. 
+Art. 19. É assegurado ao estagiário:
 
-Art. 15. O RGE não deve conter sobreposição normativa em relação a esta resolução. Art. 16. O RGE é aprovado pelo Conselho de Ensino, Pesquisa e Extensão (Consepe) do IFPR. 
+I - a redução da carga horária pelo menos à metade, segundo estipulado no TCE, nos períodos de avaliação;
 
-## CAPÍTULO IV DO ESTUDANTE ESTAGIÁRIO 
+II - período de recesso de 30 (trinta) dias sempre que o estágio tenha duração igual ou superior a 1 (um) ano, ou de forma proporcional nos casos de duração inferior, sendo a concessão
 
-Art. 17. O estudante, ou seu representante legal, definirá em comum acordo com o IFPR e a UCE a jornada de estágio, devendo constar no TCE, ser compatível com as atividades acadêmicas e não ultrapassar: 
+preferencialmente no período de férias acadêmicas e com remuneração quando o estagiário receber bolsa ou outra forma de contraprestação;
 
-I – 4 (quatro) horas diárias e 20 (vinte) horas semanais, no caso de estudantes de educação especial e dos anos finais do ensino fundamental, na modalidade profissional de educação de jovens e adultos; 
+III - promoção de cuidados relativos à saúde e a segurança no trabalho, sendo a implementação de responsabilidade da UCE;
 
-II – 6 (seis) horas diárias e 30 (trinta) horas semanais, no caso de estudantes do ensino superior, da educação profissional de nível médio e do ensino médio regular. 
+IV - cobertura por seguro contra acidentes pessoais, durante o período de realização de estágio, independente de manifestação;
 
-§ 1º. O estágio relativo a cursos que alternam teoria e prática, nos períodos em que não estão programadas aulas presenciais, poderá ter jornada de até 40 (quarenta) horas semanais, desde que haja previsão específica no PPC ou RGE e que não haja dissociação da teoria e prática no âmbito do curso. 
+V - contribuir como segurado facultativo do Regime Geral de Previdência Social ou equivalente, independente de anuência da instituição de ensino, da UCE ou do agente de integração;
 
-§ 2º O estagiário menor não poderá realizar estágio no período noturno. 
+VI - que ficar impossibilitado de concluir o estágio obrigatório no período regular do curso, a conclusão oportuna em até 18 (dezoito) meses após a conclusão das demais componentes curriculares, desde que aprovado pelo colegiado do curso.
 
-161 
+Parágrafo único. Para que o estudante possa beneficiar-se da redução da carga horária, conforme inciso I, deverá apresentar cronograma de atividades avaliativas à UCE em cada período letivo, com ciência do professor orientador ou coordenador do curso.
 
-Ministerio da Educacao 
+## CAPÍTULO V CAMPOS DE ESTÁGIO
 
-## INSTITUTOFEDERAL 
+Art. 20. Constituem campo de estágio as entidades de direito privado, os órgãos de administração
 
-Parana 
+pública direta, autárquica e fundacional de qualquer dos Poderes da União, dos Estados, do
 
-Art. 18. São responsabilidades do estudante: I - iniciar o estágio em acordo com as normas do PPC, do RGE e desta resolução, sob pena de não aproveitamento da carga horária. 
+162
 
-II - cumprir as regras da UCE, de forma a promover o bom ambiente de aprendizagem; III - cumprir os dispositivos do TCE e PE; 
+INSTITUTOFEDERAL Parana
 
-IV - zelar pelo nome do IFPR e do participe; 
+Ministerio da Educacao
 
-V - entregar relatórios, fichas de frequências e demais documentos necessários que formalizam a relação de estágio; 
+Distrito Federal e dos Municípios, bem como profissionais liberais de nível superior e devidamente registrados em seus respectivos conselhos de fiscalização profissional, desde que apresentem condições para:
 
-VI - comunicar dificuldades que impossibilitem a continuidade na UCE; 
+I - planejamento e execução conjunta das atividades de estágio;
 
-Parágrafo único. Ao que tange o inciso VI, o estudante do IFPR comunicará, nesta ordem, ao orientador do estágio, ao coordenador do curso ou a seção de Estágios e Relações Comunitárias (SERC). 
+II - avaliação e aprofundamento dos conhecimentos teórico-práticos de campo específico de trabalho;
 
-Art. 19. É assegurado ao estagiário: 
+III - vivência efetiva de situações concretas de vida e trabalho, dentro do campo profissional. § 1º O IFPR poderá ser campo de estágio para os estudantes da própria instituição ou de instituição de ensino diversa, desde que o local específico de realização do estágio contemple os requisitos do PPC ao qual o estudante esteja vinculado.
 
-I - a redução da carga horária pelo menos à metade, segundo estipulado no TCE, nos períodos de avaliação; 
+§ 2º O IFPR não poderá ser unidade conveniada de agente de integração para fim de tornarse campo de estágio a outras instituições de ensino.
 
-II - período de recesso de 30 (trinta) dias sempre que o estágio tenha duração igual ou superior a 1 (um) ano, ou de forma proporcional nos casos de duração inferior, sendo a concessão 
+Art. 21. As UCE serão cadastradas pelo IFPR para campo de estágio, por meio de formulário/planilha eletrônica disponibilizado pela seção de Acompanhamento de Estágios e Egressos da Pró-reitoria de Ensino (SAEE/Proens).
 
-preferencialmente no período de férias acadêmicas e com remuneração quando o estagiário receber bolsa ou outra forma de contraprestação; 
+§ 1º O cadastro da UCE deverá ter, ao menos: razão social e nome fantasia, CNPJ, endereço, dados completos do responsável incluindo documentos de identificação, telefone, e-mail e data do início da parceria.
 
-III - promoção de cuidados relativos à saúde e a segurança no trabalho, sendo a implementação de responsabilidade da UCE; 
+§ 2º A responsabilidade de cadastro das UCE ficará a cargo das SERC.
 
-IV - cobertura por seguro contra acidentes pessoais, durante o período de realização de estágio, independente de manifestação; 
+§ 3º O formulário/planilha eletrônica será de uso restrito das unidades do IFPR, com acesso democrático entre todas as SERC e SAEE/Proens.
 
-V - contribuir como segurado facultativo do Regime Geral de Previdência Social ou equivalente, independente de anuência da instituição de ensino, da UCE ou do agente de integração; 
+§ 4º No site do IFPR será divulgado somente a lista de UCE conveniadas por meio de processo administrativo.
 
-VI - que ficar impossibilitado de concluir o estágio obrigatório no período regular do curso, a conclusão oportuna em até 18 (dezoito) meses após a conclusão das demais componentes curriculares, desde que aprovado pelo colegiado do curso. 
+Art. 22. O convênio de estágio, instrumento jurídico apropriado que visa o estreitamento institucional entre o IFPR e os parceiros de estágio, será formalizado quando:
 
-Parágrafo único. Para que o estudante possa beneficiar-se da redução da carga horária, conforme inciso I, deverá apresentar cronograma de atividades avaliativas à UCE em cada período letivo, com ciência do professor orientador ou coordenador do curso. 
+I - se tratar de agente de integração;
 
-## CAPÍTULO V CAMPOS DE ESTÁGIO 
+II - a UCE pública ou privada exigi-lo previamente para receber os estudantes de estágio obrigatório e/ou não obrigatório do IFPR;
 
-Art. 20. Constituem campo de estágio as entidades de direito privado, os órgãos de administração 
+III - a UCE receber a partir de 10 (dez) estudantes simultaneamente do IFPR para estágio obrigatório, conforme controle efetuado pela SERC;
 
-pública direta, autárquica e fundacional de qualquer dos Poderes da União, dos Estados, do 
+Parágrafo único. No contexto do inciso III, tratando-se de UCE:
 
-162 
+I - privada, se não houver autorização para formalização de termo de convênio, o IFPR não excederá o quantitativo de estudantes.
 
-INSTITUTOFEDERAL Parana 
+II - pública, poderá o demandante, após recusa administrativa encaminhar consulta à SAEE
 
-Ministerio da Educacao 
+para verificar a possibilidade de adequação do quantitativo de estudantes, que o analisará sob os aspectos de viabilidade, interesse institucional e coerência com os princípios pedagógicos do IFPR.
 
-Distrito Federal e dos Municípios, bem como profissionais liberais de nível superior e devidamente registrados em seus respectivos conselhos de fiscalização profissional, desde que apresentem condições para: 
+Art. 23. Quando o IFPR figurar como UCE, somente será formalizado convênio de estágio quando a Instituição de Ensino parceira o exigir previamente, sendo neste caso preferencialmente por reciprocidade.
 
-I - planejamento e execução conjunta das atividades de estágio; 
+Art. 24. Para os convênios de estágio, os processos originados pelos demandantes deverão: I - seguir as orientações e modelos disponibilizados pela SAEE/Proens;
 
-II - avaliação e aprofundamento dos conhecimentos teórico-práticos de campo específico de trabalho; 
+163
 
-III - vivência efetiva de situações concretas de vida e trabalho, dentro do campo profissional. § 1º O IFPR poderá ser campo de estágio para os estudantes da própria instituição ou de instituição de ensino diversa, desde que o local específico de realização do estágio contemple os requisitos do PPC ao qual o estudante esteja vinculado. 
+Parana
 
-§ 2º O IFPR não poderá ser unidade conveniada de agente de integração para fim de tornarse campo de estágio a outras instituições de ensino. 
+## INSTITUTOFEDERAL
 
-Art. 21. As UCE serão cadastradas pelo IFPR para campo de estágio, por meio de formulário/planilha eletrônica disponibilizado pela seção de Acompanhamento de Estágios e Egressos da Pró-reitoria de Ensino (SAEE/Proens). 
+Ministerio da Educacao
 
-§ 1º O cadastro da UCE deverá ter, ao menos: razão social e nome fantasia, CNPJ, endereço, dados completos do responsável incluindo documentos de identificação, telefone, e-mail e data do início da parceria. 
+II - possuir termo de responsabilidade do coordenador do convênio;
 
-§ 2º A responsabilidade de cadastro das UCE ficará a cargo das SERC. 
+III - possuir documentos de comprovação de regularidade da UCE e dos seus representantes legais;
 
-§ 3º O formulário/planilha eletrônica será de uso restrito das unidades do IFPR, com acesso democrático entre todas as SERC e SAEE/Proens. 
+IV - possuir parecer de aprovação da SAEE/Proens;
 
-§ 4º No site do IFPR será divulgado somente a lista de UCE conveniadas por meio de processo administrativo. 
+V - ter a assinatura do termo e/ou aditivo de convênio pelo reitor do IFPR ou seu substituto legal;
 
-Art. 22. O convênio de estágio, instrumento jurídico apropriado que visa o estreitamento institucional entre o IFPR e os parceiros de estágio, será formalizado quando: 
+VI - quando incluído plano de trabalho do convênio, ter a assinatura pelo coordenador do convênio, diretor geral, pró-reitor, reitor ou seus substitutos legais, bem como pelo represente legal da UCE.
 
-I - se tratar de agente de integração; 
+VII - ter publicidade do extrato do convênio por meio do Diário Oficial da União;
 
-II - a UCE pública ou privada exigi-lo previamente para receber os estudantes de estágio obrigatório e/ou não obrigatório do IFPR; 
+VIII - ter prazo de validade de até 5 (cinco) anos, sendo permitida a prorrogação, mediante termo aditivo, quando a lei permitir;
 
-III - a UCE receber a partir de 10 (dez) estudantes simultaneamente do IFPR para estágio obrigatório, conforme controle efetuado pela SERC; 
+IX - seguir o regramento legal para formalização de convênio com instituição pública federal.
 
-Parágrafo único. No contexto do inciso III, tratando-se de UCE: 
+Art. 25. Compete às UCE, independente de convênio, e ainda que intermediada por agentes de integração:
 
-I - privada, se não houver autorização para formalização de termo de convênio, o IFPR não excederá o quantitativo de estudantes. 
+I - celebrar TCE com o IFPR e o estudante, ou seu responsável legal, zelando por seu cumprimento;
 
-II - pública, poderá o demandante, após recusa administrativa encaminhar consulta à SAEE 
+II - ofertar instalações que tenham condições de proporcionar ao estudante atividades de aprendizagem social, profissional e cultural;
 
-para verificar a possibilidade de adequação do quantitativo de estudantes, que o analisará sob os aspectos de viabilidade, interesse institucional e coerência com os princípios pedagógicos do IFPR. 
+III - ofertar estágio para estudantes selecionados de comum acordo com o IFPR, para desenvolver atividades relacionadas com o curso ao qual pertencem;
 
-Art. 23. Quando o IFPR figurar como UCE, somente será formalizado convênio de estágio quando a Instituição de Ensino parceira o exigir previamente, sendo neste caso preferencialmente por reciprocidade. 
+IV - promover cuidados relativos à saúde;
 
-Art. 24. Para os convênios de estágio, os processos originados pelos demandantes deverão: I - seguir as orientações e modelos disponibilizados pela SAEE/Proens; 
+V - promover cuidados relativos à segurança no trabalho, fornecendo os equipamentos necessários,
 
-163 
+bem como orientando e fiscalizando o seu uso;
 
-Parana 
+VI - indicar funcionário/servidor do seu quadro de pessoal para atender o desenvolvimento do  estudante, supervisionando no máximo 10 (dez) estagiários simultaneamente, com:
 
-## INSTITUTOFEDERAL 
+a) formação ou experiência profissional na área de conhecimento do curso do estagiário;
 
-Ministerio da Educacao 
+b) atuação no mesmo local onde se realiza o estágio.
 
-II - possuir termo de responsabilidade do coordenador do convênio; 
+VII - contratar Seguro de Cobertura de Acidentes Pessoais para os estágios não obrigatórios; VIII - contratar Seguro de Cobertura de Acidentes Pessoais para os estágios obrigatórios quando:
 
-III - possuir documentos de comprovação de regularidade da UCE e dos seus representantes legais; 
+a) não contratado pela IES;
 
-IV - possuir parecer de aprovação da SAEE/Proens; 
+b) quando acordado com a IES em TCE ou convênio de estágio.
 
-V - ter a assinatura do termo e/ou aditivo de convênio pelo reitor do IFPR ou seu substituto legal; 
+IX - proporcionar ao IFPR condições para acompanhamento, orientação e avaliação das atividades deestágio do estudante, sem prévio aviso;
 
-VI - quando incluído plano de trabalho do convênio, ter a assinatura pelo coordenador do convênio, diretor geral, pró-reitor, reitor ou seus substitutos legais, bem como pelo represente legal da UCE. 
+X - estabelecer horário da jornada de atividades do estagiário sem prejuízo às atividades acadêmicas;
 
-VII - ter publicidade do extrato do convênio por meio do Diário Oficial da União; 
+XI - produzir e enviar à SERC no IFPR, com periodicidade mínima de 6 (seis) meses, relatório de atividades, com vista obrigatória ao estagiário;
 
-VIII - ter prazo de validade de até 5 (cinco) anos, sendo permitida a prorrogação, mediante termo aditivo, quando a lei permitir; 
+XII - na hipótese de estágio obrigatório, ofertar ao estagiário bolsa ou outra forma de
 
-IX - seguir o regramento legal para formalização de convênio com instituição pública federal. 
+164
 
-Art. 25. Compete às UCE, independente de convênio, e ainda que intermediada por agentes de integração: 
+INSTITUTOFEDERAL Parana
 
-I - celebrar TCE com o IFPR e o estudante, ou seu responsável legal, zelando por seu cumprimento; 
+Ministerio da Educacao
 
-II - ofertar instalações que tenham condições de proporcionar ao estudante atividades de aprendizagem social, profissional e cultural; 
+contraprestação que venha a ser acordada, sendo compulsória a sua concessão, bem como a do auxílio-transporte, na hipótese de estágio não obrigatório;
 
-III - ofertar estágio para estudantes selecionados de comum acordo com o IFPR, para desenvolver atividades relacionadas com o curso ao qual pertencem; 
+XIII - por ocasião do desligamento do estagiário, entregar termo de realização do estágio com indicação resumida das atividades desenvolvidas, dos períodos e da avaliação de desempenho, com ciência obrigatória do supervisor;
 
-IV - promover cuidados relativos à saúde; 
+XIV - fornecer declaração de estágio ao estudante quando solicitado;
 
-V - promover cuidados relativos à segurança no trabalho, fornecendo os equipamentos necessários, 
+XV - manter à disposição da fiscalização documentos que comprovem a relação de estágio. Art. 26. A duração do estágio, na mesma unidade concedente, não poderá exceder 2 (dois) anos, exceto quando se tratar de estagiário com deficiência.
 
-bem como orientando e fiscalizando o seu uso; 
+## CAPÍTULO VI DA EQUIVALÊNCIA
 
-VI - indicar funcionário/servidor do seu quadro de pessoal para atender o desenvolvimento do  estudante, supervisionando no máximo 10 (dez) estagiários simultaneamente, com: 
+Art. 27. O estágio não obrigatório poderá ser considerado parte das atividades complementares, ficando a critério do RGE estipular o limite de carga horária e a forma a ser aproveitada, desde que não ultrapasse 25% (vinte e cinco por cento) dessas atividades. Parágrafo único. É vedado o aproveitamento da carga horária do estágio obrigatório como atividade complementar.
 
-a) formação ou experiência profissional na área de conhecimento do curso do estagiário; 
+Art. 28. O estudante do IFPR que exercer atividade profissional correlata ao seu curso poderá valer-se de tais atividades para efeitos de realização do seu estágio obrigatório, desde que atendam aos requisitos do PPC, do RGE, desta resolução e enquadre-se entre um dos seguintes casos:
 
-b) atuação no mesmo local onde se realiza o estágio. 
+I - empregado registrado, empresário formal, profissional liberal ou autônomo;
 
-VII - contratar Seguro de Cobertura de Acidentes Pessoais para os estágios não obrigatórios; VIII - contratar Seguro de Cobertura de Acidentes Pessoais para os estágios obrigatórios quando: 
+II - servidor público ou empregado público;
 
-a) não contratado pela IES; 
+III - atuante oficialmente em programas de monitoria, de incentivo à pesquisa cien􀆡fica ou ao desenvolvimento tecnológico;
 
-b) quando acordado com a IES em TCE ou convênio de estágio. 
+IV - atuante oficialmente em programas autorizados pelo Governo Federal, Estadual ou Municipal, dos quais o IFPR participe formalmente e nos quais os seus projetos estejam alinhados com o objetivo da formação para o mundo do trabalho.
 
-IX - proporcionar ao IFPR condições para acompanhamento, orientação e avaliação das atividades deestágio do estudante, sem prévio aviso; 
+§ 1º O estudante deverá apresentar a documentação comprobatória compa􀆡vel (Carteira de Trabalho e Previdência Social - CTPS, contrato social, declaração de cadastro de servidor público, carta testemunhal, registros de imagens históricas, etc) com a experiência apresentada, sendo sempre na forma de vias originais ou autenticadas, conforme RGE.
 
-X - estabelecer horário da jornada de atividades do estagiário sem prejuízo às atividades acadêmicas; 
+§ 2º Para os casos dos incisos I e II, a equivalência será de até 70% (setenta por cento) da carga horária total do estágio obrigatório, conforme regras previstas no RGE.
 
-XI - produzir e enviar à SERC no IFPR, com periodicidade mínima de 6 (seis) meses, relatório de atividades, com vista obrigatória ao estagiário; 
+§ 3º Para o caso do inciso IV é necessário que haja previsão no RGE sobre a equivalência do programa com o estágio obrigatório do curso, no qual se explicite a equivalência curricular.
 
-XII - na hipótese de estágio obrigatório, ofertar ao estagiário bolsa ou outra forma de 
+§ 4º A aceitação como estágio do exercício das atividades referidas no caput deste artigo, dependerá de decisão do colegiado do curso, que levará em consideração o tipo de atividade desenvolvida e a sua contribuição para a formação profissional do estudante.
 
-164 
+Art. 29. Os estudantes que realizarem estágio fora do país dentro de programas de
 
-INSTITUTOFEDERAL Parana 
+165
 
-Ministerio da Educacao 
+## INSTITUTOFEDERAL
 
-contraprestação que venha a ser acordada, sendo compulsória a sua concessão, bem como a do auxílio-transporte, na hipótese de estágio não obrigatório; 
+## Parana
 
-XIII - por ocasião do desligamento do estagiário, entregar termo de realização do estágio com indicação resumida das atividades desenvolvidas, dos períodos e da avaliação de desempenho, com ciência obrigatória do supervisor; 
+Ministerio da Educacao
 
-XIV - fornecer declaração de estágio ao estudante quando solicitado; 
+intercâmbio universitário deverão obedecer aos procedimentos estabelecidos pelas instituições anfitriãs.
 
-XV - manter à disposição da fiscalização documentos que comprovem a relação de estágio. Art. 26. A duração do estágio, na mesma unidade concedente, não poderá exceder 2 (dois) anos, exceto quando se tratar de estagiário com deficiência. 
+Parágrafo único. O aproveitamento do estágio dependerá de validação pelo colegiado do curso, seguindo os preceitos do art. 28 e de normatização do RGE.
 
-## CAPÍTULO VI DA EQUIVALÊNCIA 
+Art. 30. O servidor do IFPR tem direito a requisitar à chefia imediata declaração com descritivo das atividades laborais para equivalência de estágio nos cursos do IFPR ou em outra instituição pública ou privada, sendo o prazo para emissão não superior a 5 (cinco) dias úteis.
 
-Art. 27. O estágio não obrigatório poderá ser considerado parte das atividades complementares, ficando a critério do RGE estipular o limite de carga horária e a forma a ser aproveitada, desde que não ultrapasse 25% (vinte e cinco por cento) dessas atividades. Parágrafo único. É vedado o aproveitamento da carga horária do estágio obrigatório como atividade complementar. 
+## CAPÍTULO VII DO DESLIGAMENTO
 
-Art. 28. O estudante do IFPR que exercer atividade profissional correlata ao seu curso poderá valer-se de tais atividades para efeitos de realização do seu estágio obrigatório, desde que atendam aos requisitos do PPC, do RGE, desta resolução e enquadre-se entre um dos seguintes casos: 
+Art. 31. O desligamento do estudante IFPR da unidade concedente de estágio ocorrerá:
 
-I - empregado registrado, empresário formal, profissional liberal ou autônomo; 
+I - automaticamente após encerrado o prazo fixado no TCE.
 
-II - servidor público ou empregado público; 
+II - antes do período previsto no TCE nos seguintes casos:
 
-III - atuante oficialmente em programas de monitoria, de incentivo à pesquisa cien􀆡fica ou ao desenvolvimento tecnológico; 
+a) a pedido do estudante, mediante comunicação prévia por escrito à UCE e à SERC;
 
-IV - atuante oficialmente em programas autorizados pelo Governo Federal, Estadual ou Municipal, dos quais o IFPR participe formalmente e nos quais os seus projetos estejam alinhados com o objetivo da formação para o mundo do trabalho. 
+b) por iniciativa da UCE, quando o estudante deixar de cumprir obrigações previstas no TCE, mediante comunicação ao estudante e à SERC com no mínimo 30 (trinta) dias corridos de antecedência, prazo em que deverá dar-se a mediação entre professor orientador de estágio, estudante e supervisor de estágio da UCE para possível reversão;
 
-§ 1º O estudante deverá apresentar a documentação comprobatória compa􀆡vel (Carteira de Trabalho e Previdência Social - CTPS, contrato social, declaração de cadastro de servidor público, carta testemunhal, registros de imagens históricas, etc) com a experiência apresentada, sendo sempre na forma de vias originais ou autenticadas, conforme RGE. 
+c) por iniciativa do IFPR, quando a UCE deixar de cumprir obrigações previstas no TCE ou convênio de estágio;
 
-§ 2º Para os casos dos incisos I e II, a equivalência será de até 70% (setenta por cento) da carga horária total do estágio obrigatório, conforme regras previstas no RGE. 
+d) por iniciativa do IFPR, quando ocorrer o trancamento da matrícula, o abandono, o desligamento antecipado, a transferência ou a conclusão do curso pelo estudante;
 
-§ 3º Para o caso do inciso IV é necessário que haja previsão no RGE sobre a equivalência do programa com o estágio obrigatório do curso, no qual se explicite a equivalência curricular. 
+e) quando o convênio de estágio celebrado entre o IFPR e a UCE ou entre o IFPR e o agente de integração for rescindido ou encerrado.
 
-§ 4º A aceitação como estágio do exercício das atividades referidas no caput deste artigo, dependerá de decisão do colegiado do curso, que levará em consideração o tipo de atividade desenvolvida e a sua contribuição para a formação profissional do estudante. 
+§ 1º No contexto das alíneas “b”, “c” e “e” do inciso II, o TCE ou convênio de estágio deverá conter a normatização para rescisão, antecipada ou não; ou, prever/elaborar Termo de Encerramento.
 
-Art. 29. Os estudantes que realizarem estágio fora do país dentro de programas de 
+§ 2º Ocorrendo o desligamento do estudante nos casos previstos no inciso II deste artigo, a UCE encaminhará à SERC, em até 3 (três) dias após o cancelamento, o Termo de Rescisão do TCE para análise e providências.
 
-165 
+§ 3º Para os casos de faltas graves, equivalentes a demissão por justa causa na atual Consolidação das Leis do Trabalho - CLT, o prazo estabelecido na alínea “b” do inciso II torna-se 5 (cinco) dias úteis, mantendo-se a mediação para comprovação do ocorrido.
 
-## INSTITUTOFEDERAL 
+Art. 32. Será permitida a complementação do estágio, após o encerramento do TCE e PE e desde que não infrinja o art. 26, na mesma ou em outra UCE, após aprovação e assinaturas de novos TCE e PE.
 
-## Parana 
+Art. 33. O estudante de outra instituição de ensino que realiza estágio no IFPR terá a mesma prerrogativa que o estudante IFPR, podendo haver normatização adicional pela Pró-reitoria de Gestão de Pessoas (Progepe).
 
-Ministerio da Educacao 
+166
 
-intercâmbio universitário deverão obedecer aos procedimentos estabelecidos pelas instituições anfitriãs. 
+Parana
 
-Parágrafo único. O aproveitamento do estágio dependerá de validação pelo colegiado do curso, seguindo os preceitos do art. 28 e de normatização do RGE. 
+Ministerio da Educacao
 
-Art. 30. O servidor do IFPR tem direito a requisitar à chefia imediata declaração com descritivo das atividades laborais para equivalência de estágio nos cursos do IFPR ou em outra instituição pública ou privada, sendo o prazo para emissão não superior a 5 (cinco) dias úteis. 
+## INSTITUTOFEDERAL
 
-## CAPÍTULO VII DO DESLIGAMENTO 
+## CAPÍTULO VIII DA ORIENTAÇÃO, SUPERVISÃO E AVALIAÇÃO
 
-Art. 31. O desligamento do estudante IFPR da unidade concedente de estágio ocorrerá: 
+Art. 34. A orientação de estágio deve ser entendida como direcionamento dado ao estudante no decorrer de sua prática profissional por professor orientador e supervisão de estágio por acompanhamento do profissional supervisor da UCE de forma a proporcionar ao estagiário o pleno desempenho de ações, princípios e valores inerentes à realidade da profissão. Art. 35. A orientação do estágio é considerada atividade de ensino, constando no PPC e Plano de Trabalho Docente, sendo relevante que constitua componente curricular nos casos de estágio obrigatório.
 
-I - automaticamente após encerrado o prazo fixado no TCE. 
+§ 1º O quantitativo de estagiários por professor orientador será definido pelo colegiado do curso, respeitando-se suas especificidades, de forma a salvaguardar a qualidade do processo de ensino-aprendizagem, considerando-se que o ideal seja inferior a 20 estagiários.
 
-II - antes do período previsto no TCE nos seguintes casos: 
+§ 2º A carga horária da orientação de estágio será definida no PPC ou no RGE. Art. 36. A orientação de estágio se dará em conformidade com as seguintes modalidades: I) orientação direta: direcionamento e acompanhamento do estágio através de aulas, observação contínua e direta das atividades desenvolvidas nas UCE ao longo de todo o processo pelo professor orientador e reuniões com os profissionais supervisores;
 
-a) a pedido do estudante, mediante comunicação prévia por escrito à UCE e à SERC; 
+II) orientação semidireta: direcionamento e acompanhamento do estágio através de aulas, observação periódica das atividades desenvolvidas nas UCE ao longo de todo o processo pelo professor orientador reuniões com os profissionais supervisores;
 
-b) por iniciativa da UCE, quando o estudante deixar de cumprir obrigações previstas no TCE, mediante comunicação ao estudante e à SERC com no mínimo 30 (trinta) dias corridos de antecedência, prazo em que deverá dar-se a mediação entre professor orientador de estágio, estudante e supervisor de estágio da UCE para possível reversão; 
+III) orientação indireta: direcionamento e acompanhamento do estágio através de aulas, observação esporádica, ocorrendo ao menos uma vez por período, das atividades desenvolvidas nas UCE pelo professor orientador e reuniões com os profissionais supervisores.
 
-c) por iniciativa do IFPR, quando a UCE deixar de cumprir obrigações previstas no TCE ou convênio de estágio; 
+Parágrafo único. A forma de orientação a ser adotada será detalhada e justificada no PPC ou RGE, de modo a salvaguardar as especificidades de cada profissão, sendo preferenciais as adoções das modalidades semi-direta e direta.
 
-d) por iniciativa do IFPR, quando ocorrer o trancamento da matrícula, o abandono, o desligamento antecipado, a transferência ou a conclusão do curso pelo estudante; 
+Art. 37. O planejamento, acompanhamento e avaliação do estágio:
 
-e) quando o convênio de estágio celebrado entre o IFPR e a UCE ou entre o IFPR e o agente de integração for rescindido ou encerrado. 
+I - cabem ao professor orientador e ao profissional supervisor;
 
-§ 1º No contexto das alíneas “b”, “c” e “e” do inciso II, o TCE ou convênio de estágio deverá conter a normatização para rescisão, antecipada ou não; ou, prever/elaborar Termo de Encerramento. 
+II - devem ocorrer de forma sistemática e con􀆡nua;
 
-§ 2º Ocorrendo o desligamento do estudante nos casos previstos no inciso II deste artigo, a UCE encaminhará à SERC, em até 3 (três) dias após o cancelamento, o Termo de Rescisão do TCE para análise e providências. 
+III - integram a dinâmica do processo de estágio;
 
-§ 3º Para os casos de faltas graves, equivalentes a demissão por justa causa na atual Consolidação das Leis do Trabalho - CLT, o prazo estabelecido na alínea “b” do inciso II torna-se 5 (cinco) dias úteis, mantendo-se a mediação para comprovação do ocorrido. 
+IV - devem prover informações e dados para a realimentação das atividades de estágio, Plano de Ensino, PPC, RGE e atuação do IFPR, tendo como enfoque a busca de mecanismos e meios de aprimorar a qualidade do ensino ofertada.
 
-Art. 32. Será permitida a complementação do estágio, após o encerramento do TCE e PE e desde que não infrinja o art. 26, na mesma ou em outra UCE, após aprovação e assinaturas de novos TCE e PE. 
+§ 1º Na ausência eventual do professor orientador, o coordenador de curso assumirá as suas funções.
 
-Art. 33. O estudante de outra instituição de ensino que realiza estágio no IFPR terá a mesma prerrogativa que o estudante IFPR, podendo haver normatização adicional pela Pró-reitoria de Gestão de Pessoas (Progepe). 
+§ 2º Os instrumentos e critérios para avaliação dos estagiários seguirão as normas institucionais sobre o tema.
 
-166 
+§ 3º O acompanhamento inclui a visita aos locais de realização de estágio visando verificar o cumprimento do TCE, PE e convênio de estágio, quando o caso, dos estagiários sob
 
-Parana 
+167
 
-Ministerio da Educacao 
+Parana
 
-## INSTITUTOFEDERAL 
+## INSTITUTOFEDERAL
 
-## CAPÍTULO VIII DA ORIENTAÇÃO, SUPERVISÃO E AVALIAÇÃO 
+Ministerio da Educacao<br>
 
-Art. 34. A orientação de estágio deve ser entendida como direcionamento dado ao estudante no decorrer de sua prática profissional por professor orientador e supervisão de estágio por acompanhamento do profissional supervisor da UCE de forma a proporcionar ao estagiário o pleno desempenho de ações, princípios e valores inerentes à realidade da profissão. Art. 35. A orientação do estágio é considerada atividade de ensino, constando no PPC e Plano de Trabalho Docente, sendo relevante que constitua componente curricular nos casos de estágio obrigatório. 
+orientação.
 
-§ 1º O quantitativo de estagiários por professor orientador será definido pelo colegiado do curso, respeitando-se suas especificidades, de forma a salvaguardar a qualidade do processo de ensino-aprendizagem, considerando-se que o ideal seja inferior a 20 estagiários. 
+Art. 38. O estudante na modalidade de Educação a Distância (EaD) terá o planejamento, acompanhamento e avaliação do estágio pela unidade EaD do IFPR e pelo Professor Mediador Presencial, ou equivalente, que deverá ser portador de diploma de nível superior e atuante direta ou indiretamente no curso do estudante.
 
-§ 2º A carga horária da orientação de estágio será definida no PPC ou no RGE. Art. 36. A orientação de estágio se dará em conformidade com as seguintes modalidades: I) orientação direta: direcionamento e acompanhamento do estágio através de aulas, observação contínua e direta das atividades desenvolvidas nas UCE ao longo de todo o processo pelo professor orientador e reuniões com os profissionais supervisores; 
+§ 1º Todas as prerrogativas do professor orientador são aplicáveis ao Professor Mediador Presencial, ou equivalente.
 
-II) orientação semidireta: direcionamento e acompanhamento do estágio através de aulas, observação periódica das atividades desenvolvidas nas UCE ao longo de todo o processo pelo professor orientador reuniões com os profissionais supervisores; 
+§ 2º As prerrogativas do caput poderão ser compartilhadas com o campus IFPR, nos casos em que o estudante possua vínculo com o campus.
 
-III) orientação indireta: direcionamento e acompanhamento do estágio através de aulas, observação esporádica, ocorrendo ao menos uma vez por período, das atividades desenvolvidas nas UCE pelo professor orientador e reuniões com os profissionais supervisores. 
+Art. 39. A supervisão do estudante de outra instituição de ensino que realiza estágio no IFPR ocorrerá conforme normas complementares elaboradas pela Progepe.
 
-Parágrafo único. A forma de orientação a ser adotada será detalhada e justificada no PPC ou RGE, de modo a salvaguardar as especificidades de cada profissão, sendo preferenciais as adoções das modalidades semi-direta e direta. 
+## CAPÍTULO IX DOS ESTUDANTES COM DEFICIÊNCIA
 
-Art. 37. O planejamento, acompanhamento e avaliação do estágio: 
+Art. 40. Para efeitos desta resolução considera-se estudantes com deficiência, ou estudantes oriundos de instituições de educação especial, aqueles que apresentem documentos comprobatórios atestados pela instituição de ensino.
 
-I - cabem ao professor orientador e ao profissional supervisor; 
+Art. 41. O estudante com deficiência deverá frequentar campo de estágio com acessibilidade adequada que deverá ser verificado anteriormente por professor orientador, coordenador de curso ou servidor da SERC com respaldo do Núcleo de Atendimento à Pessoa com Necessidades Específicas (Napne).
 
-II - devem ocorrer de forma sistemática e con􀆡nua; 
+Art. 42. O período de realização do estágio poderá ser diferente do indicado no PPC, RGE ou nesta resolução, desde que previsto no processo de flexibilização curricular do estudante. Art. 43. Poderá haver, desde que previsto e justificado no PPC ou RGE, forma alternativa de orientação para estudantes com deficiência.
 
-III - integram a dinâmica do processo de estágio; 
+Art. 44. Os estudantes surdos e/ou deficientes auditivos usuários de Libras (Língua Brasileira de Sinais) como meio de comunicação, poderão entregar seu relatório na modalidade bilíngue.
 
-IV - devem prover informações e dados para a realimentação das atividades de estágio, Plano de Ensino, PPC, RGE e atuação do IFPR, tendo como enfoque a busca de mecanismos e meios de aprimorar a qualidade do ensino ofertada. 
+## CAPÍTULO X DA ADMINISTRAÇÃO
 
-§ 1º Na ausência eventual do professor orientador, o coordenador de curso assumirá as suas funções. 
+Art. 45. A organização administrativa dos estágios do IFPR se dará de forma sistêmica e descentralizada, sendo componentes do Sistema de Gestão de Estágios:
 
-§ 2º Os instrumentos e critérios para avaliação dos estagiários seguirão as normas institucionais sobre o tema. 
+I - SAEE/Proens;
 
-§ 3º O acompanhamento inclui a visita aos locais de realização de estágio visando verificar o cumprimento do TCE, PE e convênio de estágio, quando o caso, dos estagiários sob 
+II - SERC;
 
-167 
+III - Coordenadores de curso;
 
-Parana 
+IV - Colegiados de curso;
 
-## INSTITUTOFEDERAL 
+V - Progepe, para estágios remunerados quando o IFPR figurar como UCE.
 
-**==> picture [64 x 9] intentionally omitted <==**
+Art. 46. Os campi do IFPR deverão buscar o fortalecimento das relações de estágio e
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+168
 
+Parana
 
-orientação. 
+Ministerio da Educacao
 
-Art. 38. O estudante na modalidade de Educação a Distância (EaD) terá o planejamento, acompanhamento e avaliação do estágio pela unidade EaD do IFPR e pelo Professor Mediador Presencial, ou equivalente, que deverá ser portador de diploma de nível superior e atuante direta ou indiretamente no curso do estudante. 
+## INSTITUTOFEDERAL
 
-§ 1º Todas as prerrogativas do professor orientador são aplicáveis ao Professor Mediador Presencial, ou equivalente. 
+estreitamente com as questões do mundo do trabalho, com a proposição de criação e manutenção das SERC.
 
-§ 2º As prerrogativas do caput poderão ser compartilhadas com o campus IFPR, nos casos em que o estudante possua vínculo com o campus. 
+Art. 47. Compete à SAEE/Proens:
 
-Art. 39. A supervisão do estudante de outra instituição de ensino que realiza estágio no IFPR ocorrerá conforme normas complementares elaboradas pela Progepe. 
+I - construir as políticas de desenvolvimento, acompanhamento e avaliação do estágio, em consonância com as normativas da Proens;
 
-## CAPÍTULO IX DOS ESTUDANTES COM DEFICIÊNCIA 
+II - manter relacionamento com as UCE e agentes de integração;
 
-Art. 40. Para efeitos desta resolução considera-se estudantes com deficiência, ou estudantes oriundos de instituições de educação especial, aqueles que apresentem documentos comprobatórios atestados pela instituição de ensino. 
+III - realizar o controle administrativo geral dos estágios;
 
-Art. 41. O estudante com deficiência deverá frequentar campo de estágio com acessibilidade adequada que deverá ser verificado anteriormente por professor orientador, coordenador de curso ou servidor da SERC com respaldo do Núcleo de Atendimento à Pessoa com Necessidades Específicas (Napne). 
+IV - coordenar as ações gerais das SERC;
 
-Art. 42. O período de realização do estágio poderá ser diferente do indicado no PPC, RGE ou nesta resolução, desde que previsto no processo de flexibilização curricular do estudante. Art. 43. Poderá haver, desde que previsto e justificado no PPC ou RGE, forma alternativa de orientação para estudantes com deficiência. 
+V - promover, com o auxílio das Diretoria de Ensino Superior (Desup/Proens), Diretoria de Ensino Médio e Técnico (Demtec/Proens), Diretoria de Assuntos Estudantis (Daes/Proens) e Diretoria de Pósgraduação (DPG/Proeppi), ações para desenvolvimento e promoção de estágios;
 
-Art. 44. Os estudantes surdos e/ou deficientes auditivos usuários de Libras (Língua Brasileira de Sinais) como meio de comunicação, poderão entregar seu relatório na modalidade bilíngue. 
+VI - manter dados sobre os estagiários, UCE e agente de integração do IFPR por meio do apoio das SERC;
 
-## CAPÍTULO X DA ADMINISTRAÇÃO 
+VII - compilar e produzir informações gerais sobre o tema;
 
-Art. 45. A organização administrativa dos estágios do IFPR se dará de forma sistêmica e descentralizada, sendo componentes do Sistema de Gestão de Estágios: 
+VIII - apoiar os campi na organização de eventos sobre a temática de estágio;
 
-I - SAEE/Proens; 
+IX - divulgar modelos, formulários, estabelecer fluxos e rotinas operacionais dos processos de estágio;
 
-II - SERC; 
+X - manter a publicização dos convênios de estágios formalizados pelo IFPR. Art. 48. Compete à SERC:
 
-III - Coordenadores de curso; 
+I - colaborar com a construção das políticas de desenvolvimento, acompanhamento e avaliação do estágio, em consonância com as normativas da Pró-reitoria de Ensino;
 
-IV - Colegiados de curso; 
+II - prospectar campos de estágio junto à comunidade local com o apoio do colegiado do curso;
 
-V - Progepe, para estágios remunerados quando o IFPR figurar como UCE. 
+III - manter relacionamento com as UCE e agentes de integração;
 
-Art. 46. Os campi do IFPR deverão buscar o fortalecimento das relações de estágio e 
+IV - assinar, como Instituição de Ensino, os TCE, PE, Termos Aditivos do TCE e PE e demais documentos eferentes aos estágios de estudantes vinculados ao campus;
 
-168 
+V - manter e organizar a documentação relacionada aos estágios;
 
-Parana 
+VI - manter fluxo de informações relativas ao acompanhamento e desenvolvimento dos estágios, bem como assegurar a socialização de informações junto às coordenações de curso e a SAEE/Proens;
 
-Ministerio da Educacao 
+VII - orientar os estudantes quanto ao preenchimento da documentação necessária à execução do estágio;
 
-## INSTITUTOFEDERAL 
+VIII - enviar à Secretaria Acadêmica a carga horária realizada dos estágios não obrigatórios para registro em histórico escolar;
 
-estreitamente com as questões do mundo do trabalho, com a proposição de criação e manutenção das SERC. 
+IX - manter atualizados, para acompanhamento institucional, os dados dos estagiários, das UCE e dos agentes de integração;
 
-Art. 47. Compete à SAEE/Proens: 
+X - se o seguro disponibilizado pelo IFPR não contemplar todos os estudantes, deverá enviar relação dos estagiários para o setor responsável para que sejam incluídos na apólice;
 
-I - construir as políticas de desenvolvimento, acompanhamento e avaliação do estágio, em consonância com as normativas da Proens; 
+XI - organizar evento sobre a temática de estágio, com o apoio das coordenações de cursos, em data definida pelo próprio campus.
 
-II - manter relacionamento com as UCE e agentes de integração; 
+Art. 49. Compete aos coordenadores de curso:
 
-III - realizar o controle administrativo geral dos estágios; 
+169
 
-IV - coordenar as ações gerais das SERC; 
+Parana
 
-V - promover, com o auxílio das Diretoria de Ensino Superior (Desup/Proens), Diretoria de Ensino Médio e Técnico (Demtec/Proens), Diretoria de Assuntos Estudantis (Daes/Proens) e Diretoria de Pósgraduação (DPG/Proeppi), ações para desenvolvimento e promoção de estágios; 
+Ministerio da Educacao
 
-VI - manter dados sobre os estagiários, UCE e agente de integração do IFPR por meio do apoio das SERC; 
+## INSTITUTOFEDERAL
 
-VII - compilar e produzir informações gerais sobre o tema; 
+I - manter relacionamento com as UCE e agentes de integração;
 
-VIII - apoiar os campi na organização de eventos sobre a temática de estágio; 
+II - definir em conjunto com os professores orientadores, antecipadamente, os locais adequados para realização dos estágios do curso, por meio de visitas às UCE em conjunto com servidor da SERC;
 
-IX - divulgar modelos, formulários, estabelecer fluxos e rotinas operacionais dos processos de estágio; 
+III - enviar à SERC, a cada nova turma, a listagem dos estudantes que realizarão estágios obrigatórios, contendo os seguintes dados: curso, período de realização, matrícula, nome completo, sexo, CPF e data de nascimento;
 
-X - manter a publicização dos convênios de estágios formalizados pelo IFPR. Art. 48. Compete à SERC: 
+IV - manter fluxo de informações relativas ao planejamento, acompanhamento e avaliação dos estágios nos cursos;
 
-I - colaborar com a construção das políticas de desenvolvimento, acompanhamento e avaliação do estágio, em consonância com as normativas da Pró-reitoria de Ensino; 
+V - realizar, em conjunto com os professores orientadores, o planejamento, acompanhamento e avaliação dos estágios.
 
-II - prospectar campos de estágio junto à comunidade local com o apoio do colegiado do curso; 
+Art. 50. Compete aos colegiados de curso:
 
-III - manter relacionamento com as UCE e agentes de integração; 
+I - acompanhar e fazer cumprir as normas do RGE;
 
-IV - assinar, como Instituição de Ensino, os TCE, PE, Termos Aditivos do TCE e PE e demais documentos eferentes aos estágios de estudantes vinculados ao campus; 
+II - articular as componentes curriculares com o desenvolvimento do estágio.
 
-V - manter e organizar a documentação relacionada aos estágios; 
+Art. 51. Compete à Progepe, para estágios remunerados quando o IFPR figurar como UCE: I - o planejamento e acompanhamento administrativo dos estagiários;
 
-VI - manter fluxo de informações relativas ao acompanhamento e desenvolvimento dos estágios, bem como assegurar a socialização de informações junto às coordenações de curso e a SAEE/Proens; 
+II - a aprovação dos estagiários para estagiar no IFPR;
 
-VII - orientar os estudantes quanto ao preenchimento da documentação necessária à execução do estágio; 
+III - manter relacionamento com as instituições de ensinos demandantes;
 
-VIII - enviar à Secretaria Acadêmica a carga horária realizada dos estágios não obrigatórios para registro em histórico escolar; 
+IV - elaborar normas complementares para contratação e manutenção de estagiários.
 
-IX - manter atualizados, para acompanhamento institucional, os dados dos estagiários, das UCE e dos agentes de integração; 
+Art. 52. Fica delegada a assinatura indicada no inciso IV do art. 48 ao chefe da SERC, independente de portaria, que entre suas prerrogativas deve representar o campus acerca dos estágios dos estudantes
 
-X - se o seguro disponibilizado pelo IFPR não contemplar todos os estudantes, deverá enviar relação dos estagiários para o setor responsável para que sejam incluídos na apólice; 
+nos documentos elencados no inciso.
 
-XI - organizar evento sobre a temática de estágio, com o apoio das coordenações de cursos, em data definida pelo próprio campus. 
+Art. 53. A responsabilidade pela gestão do seguro dos estudantes estagiários é:
 
-Art. 49. Compete aos coordenadores de curso: 
+I - da Proens, quando se tratar de estágio obrigatório de estudantes presenciais ou EaD regularmente matriculados no IFPR;
 
-169 
+II - da Progepe, quando se tratar de estágio não obrigatório nas dependências do IFPR, independente do local onde o estudante atue;
 
-Parana 
+III - da Pró-reitoria de Extensão, Pesquisa, Pós-Graduação e Inovação (Proeppi), quando se tratar de estágio obrigatório do programa Programa Nacional de Acesso ao Ensino Técnico e Emprego (Pronatec);
 
-Ministerio da Educacao 
+IV - da Pró-reitoria demandante, quando se tratar de estágio obrigatório de estudantes IFPR em programas de ensino ofertados pelo IFPR ou do qual faça parte.
 
-## INSTITUTOFEDERAL 
+Parágrafo único. A Proens poderá, oportunamente, oferecer cobertura do seguro para estudantes IFPR em estágio não obrigatório.
 
-I - manter relacionamento com as UCE e agentes de integração; 
+## CAPÍTULO XI DAS DISPOSIÇÕES GERAIS
 
-II - definir em conjunto com os professores orientadores, antecipadamente, os locais adequados para realização dos estágios do curso, por meio de visitas às UCE em conjunto com servidor da SERC; 
+Art. 54. A idade mínima para o início das atividades de estágio é aos 16 (dezesseis) anos completos.
 
-III - enviar à SERC, a cada nova turma, a listagem dos estudantes que realizarão estágios obrigatórios, contendo os seguintes dados: curso, período de realização, matrícula, nome completo, sexo, CPF e data de nascimento; 
+Art. 55. As disposições desta resolução estendem-se a todos os estudantes regularmente
 
-IV - manter fluxo de informações relativas ao planejamento, acompanhamento e avaliação dos estágios nos cursos; 
+170
 
-V - realizar, em conjunto com os professores orientadores, o planejamento, acompanhamento e avaliação dos estágios. 
+Parana
 
-Art. 50. Compete aos colegiados de curso: 
+## INSTITUTOFEDERAL
 
-I - acompanhar e fazer cumprir as normas do RGE; 
+Ministerio da Educacao<br>
 
-II - articular as componentes curriculares com o desenvolvimento do estágio. 
+matriculados no IFPR ou que realizem estágio no IFPR.
 
-Art. 51. Compete à Progepe, para estágios remunerados quando o IFPR figurar como UCE: I - o planejamento e acompanhamento administrativo dos estagiários; 
+Parágrafo único. Os estudantes em estágio de docência da pós-graduação seguirão regulamentação adicional em normativa própria.
 
-II - a aprovação dos estagiários para estagiar no IFPR; 
+Art 56. Na ausência da SERC ou de chefe da seção, o Diretor de Ensino ou Diretor de Ensino, Pesquisa e Extensão, Diretor Adjunto, Diretor Geral ou seus substitutos legais, nesta ordem, responderão pelas ações desta seção.
 
-III - manter relacionamento com as instituições de ensinos demandantes; 
+Art. 57. Os campi do IFPR e as Pró-reitorias se adaptarão às normas constantes nesta resolução em até 12 (doze) meses a partir da publicação desta resolução.
 
-IV - elaborar normas complementares para contratação e manutenção de estagiários. 
+§ 1º O PPC deverá proceder às adaptações necessárias na primeira revisão posterior a publicação desta resolução ou no prazo máximo estabelecido no caput do artigo, e se disponível, conforme IIP sobre o tema.
 
-Art. 52. Fica delegada a assinatura indicada no inciso IV do art. 48 ao chefe da SERC, independente de portaria, que entre suas prerrogativas deve representar o campus acerca dos estágios dos estudantes 
+§ 2º O RGE deverá ser elaborado ou revisado no prazo máximo estabelecido no caput do artigo, sendo após a sua aprovação pelo Consepe, automaticamente revogados os regulamentos de estágios dos PPC.
 
-nos documentos elencados no inciso. 
+§ 3º Os campos de estágios que estão em desacordo com esta resolução deverão ser adequados pelo campus ou EaD no prazo estabelecido no caput do artigo.
 
-Art. 53. A responsabilidade pela gestão do seguro dos estudantes estagiários é: 
+Art. 58. Esta resolução e os modelos disponibilizados pela SAEE/Proens deverão ser paradigmas para a construção coletiva dos RGE e demais documentos das SERC.
 
-I - da Proens, quando se tratar de estágio obrigatório de estudantes presenciais ou EaD regularmente matriculados no IFPR; 
+Art. 59. Esta resolução deverá ser revista em no máximo 4 (quatro) anos a partir da sua publicação, por comissão multidisciplinar, com consulta à comunidade interna.
 
-II - da Progepe, quando se tratar de estágio não obrigatório nas dependências do IFPR, independente do local onde o estudante atue; 
+Art. 60. Os casos omissos serão resolvidos pela Proens.
 
-III - da Pró-reitoria de Extensão, Pesquisa, Pós-Graduação e Inovação (Proeppi), quando se tratar de estágio obrigatório do programa Programa Nacional de Acesso ao Ensino Técnico e Emprego (Pronatec); 
+Art. 61. Esta resolução entrará em vigor na data de sua publicação, revogando-se a Resolução 02/2013 e demais disposições em contrário, com ampla publicação e divulgação na página eletrônica do IFPR.
 
-IV - da Pró-reitoria demandante, quando se tratar de estágio obrigatório de estudantes IFPR em programas de ensino ofertados pelo IFPR ou do qual faça parte. 
+## CAPÍTULO XII DAS DISPOSIÇÕES TRANSITÓRIAS
 
-Parágrafo único. A Proens poderá, oportunamente, oferecer cobertura do seguro para estudantes IFPR em estágio não obrigatório. 
+Art. 62. Na ausência de adoção de modalidade de orientação pelo PPC, compreende-se que será na modalidade semidireta.
 
-## CAPÍTULO XI DAS DISPOSIÇÕES GERAIS 
+Art. 63. Na ausência de previsão de período para início da realização de estágio não obrigatório pelo PPC, compreende-se que será no segundo período.
 
-Art. 54. A idade mínima para o início das atividades de estágio é aos 16 (dezesseis) anos completos. 
+Art. 64. Será resolvido pelo colegiado do curso, quando não houver previsão no PPC e caso ainda não haja RGE, todas as normativas para qual esta resolução remeta.
 
-Art. 55. As disposições desta resolução estendem-se a todos os estudantes regularmente 
+171
 
-170 
+INSTITUTOFEDERAL Parana
 
-Parana 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL 
+## **TERMO DE COMPROMISSO E PLANO DE ESTÁGIO (TCE/PE)**
 
-**==> picture [64 x 9] intentionally omitted <==**
+TERMO DE COMPROMISSO E PLANO DE ESTÁGIO (TCE/PE) COM TERMO DE ANUÊNCIA  CONTROLE INTERNO
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+(ESTUDANTE IFPR EM ESTÁGIO OBRIGATÓRIO OU NÃO OBRIGATÓRIO)
 
+_________________
 
-matriculados no IFPR ou que realizem estágio no IFPR. 
+ESTUDANTE ESTAGIÁRIO IFPR NOME: CPF: DT. NASC.: ____/____/_________ TEL: (      ) E-MAIL: ENDEREÇO:  Nº: CIDADE: UF: CEP: CURSO: CAMPUS: PERÍODO DO CURSO: TURNO: MATRÍCULA: UNIDADE CONCEDENTE DE ESTÁGIO (UCE) RAZÃO SOCIAL: CNPJ/CPF: RESPONSÁVEL LEGAL: DOC. (CPF ou SIAPE): E-MAIL: TEL: (       ) ENDEREÇO:  Nº: CIDADE: UF: CEP: ESTÁGIO MODALIDADE: (      ) Obrigatório (      ) Não obrigatório SUPERVISOR(A) NA UCE Nome: CPF ou SIAPE: Formação: E-mail:PROFESSOR(A) ORIENTADOR(A) NO IFPR Nome: SIAPE: Formação: E-mail: MODALIDADE DE ORIENTAÇÃO: (      ) Direta (      ) Semidireta (      ) Indireta (      ) Outra: PERÍODO DE REALIZAÇÃO:
 
-Parágrafo único. Os estudantes em estágio de docência da pós-graduação seguirão regulamentação adicional em normativa própria. 
+172
 
-Art 56. Na ausência da SERC ou de chefe da seção, o Diretor de Ensino ou Diretor de Ensino, Pesquisa e Extensão, Diretor Adjunto, Diretor Geral ou seus substitutos legais, nesta ordem, responderão pelas ações desta seção. 
+## INSTITUTOFEDERAL
 
-Art. 57. Os campi do IFPR e as Pró-reitorias se adaptarão às normas constantes nesta resolução em até 12 (doze) meses a partir da publicação desta resolução. 
+Parana
 
-§ 1º O PPC deverá proceder às adaptações necessárias na primeira revisão posterior a publicação desta resolução ou no prazo máximo estabelecido no caput do artigo, e se disponível, conforme IIP sobre o tema. 
+Ministerio da Educacao<br>
 
-§ 2º O RGE deverá ser elaborado ou revisado no prazo máximo estabelecido no caput do artigo, sendo após a sua aprovação pelo Consepe, automaticamente revogados os regulamentos de estágios dos PPC. 
+____/____/____ A ____/____/____
 
-§ 3º Os campos de estágios que estão em desacordo com esta resolução deverão ser adequados pelo campus ou EaD no prazo estabelecido no caput do artigo. 
+CARGA HORÁRIA SEMANAL: _____ horas JORNADA DIÁRIA: _____ horas OBSERVAÇÕES ADICIONAIS: HORÁRIO POR DIA DA SEMANA:
 
-Art. 58. Esta resolução e os modelos disponibilizados pela SAEE/Proens deverão ser paradigmas para a construção coletiva dos RGE e demais documentos das SERC. 
+SEG: __________________________________________ TER: __________________________________________ QUA: __________________________________________ QUI: __________________________________________ SEX: __________________________________________
 
-Art. 59. Esta resolução deverá ser revista em no máximo 4 (quatro) anos a partir da sua publicação, por comissão multidisciplinar, com consulta à comunidade interna. 
+AUXÍLIO FINANCEIRO OFERECIDO PELA UCE*
 
-Art. 60. Os casos omissos serão resolvidos pela Proens. 
+(No estágio não obrigatório é compulsório a concessão de bolsa auxílio e auxílio-transporte ao estudante.) *Se não houver auxílio, invalidar este campo por meio de um traço sobre o quadro. [1] BOLSA AUXÍLIO: R$ [2] AUXÍLIO-TRANSPORTE: R$ [3] OUTROS: R$ VALOR TOTAL [1+2+3]: R$ DADOS BANCÁRIOS DO ESTUDANTE: Banco: Agência: C/C:
 
-Art. 61. Esta resolução entrará em vigor na data de sua publicação, revogando-se a Resolução 02/2013 e demais disposições em contrário, com ampla publicação e divulgação na página eletrônica do IFPR. 
+SEGURO DE ACIDENTES PESSOAIS SEGURO OFERTADO PELO(A): (      ) IFPR (      ) UCE COMPANHIA: APÓLICE:
 
-## CAPÍTULO XII DAS DISPOSIÇÕES TRANSITÓRIAS 
+PLANO DE ESTÁGIO (PE) (Atividades a serem desenvolvidos e objetivos a serem alcançados)
 
-Art. 62. Na ausência de adoção de modalidade de orientação pelo PPC, compreende-se que será na modalidade semidireta. 
+O estudante, com interveniência do Instituto Federal do Paraná (IFPR), celebram o presente Termo de Compromisso e Plano de Estágio com a Unidade Concedente de Estágio (UCE) em consonância com o art. 82 da lei nº 9.394/96, a lei nº 11.788/2008 e a resolução IFPR nº 36/2019, mediante as seguintes condições:
 
-Art. 63. Na ausência de previsão de período para início da realização de estágio não obrigatório pelo PPC, compreende-se que será no segundo período. 
+173
 
-Art. 64. Será resolvido pelo colegiado do curso, quando não houver previsão no PPC e caso ainda não haja RGE, todas as normativas para qual esta resolução remeta. 
+Parana
 
-171 
+## INSTITUTOFEDERAL
 
-INSTITUTOFEDERAL Parana 
+Ministerio da Educacao
 
-Ministerio da Educacao 
+Cláusula 1º O estudante (ou seu representante legal), em comum acordo com o IFPR e a UCE, definiram e registraram na seção “Estágio” as  características do estágio, sendo que a carga horária não ultrapassa:
 
-## **TERMO DE COMPROMISSO E PLANO DE ESTÁGIO (TCE/PE)** 
+I – 4 (quatro) horas diárias e 20 (vinte) horas semanais, no caso de estudantes de educação especial e dos anos finais do ensino fundamental, na modalidade profissional de educação de jovens e adultos;
 
-TERMO DE COMPROMISSO E PLANO DE ESTÁGIO (TCE/PE) COM TERMO DE ANUÊNCIA  CONTROLE INTERNO 
+II – 6 (seis) horas diárias e 30 (trinta) horas semanais, no caso de estudantes do ensino superior, da educação profissional de nível médio e do ensino médio regular.
 
-(ESTUDANTE IFPR EM ESTÁGIO OBRIGATÓRIO OU NÃO OBRIGATÓRIO) 
+§ 1º O estágio relativo a cursos que alternam teoria e prática, nos períodos em que não estão programadas aulas presenciais, poderá ter jornada de até 40 (quarenta) horas semanais, desde que haja previsão específica no Projeto Pedagógico do Curso (PPC), no Regulamento Geral de Estágios do campus, e neste TCE/PE e que não haja dissociação da teoria e prática no estágio.
 
-_________________ 
+§ 2º O estagiário menor não poderá realizar estágio no período noturno.
 
-ESTUDANTE ESTAGIÁRIO IFPR NOME: CPF: DT. NASC.: ____/____/_________ TEL: (      ) E-MAIL: ENDEREÇO:  Nº: CIDADE: UF: CEP: CURSO: CAMPUS: PERÍODO DO CURSO: TURNO: MATRÍCULA: UNIDADE CONCEDENTE DE ESTÁGIO (UCE) RAZÃO SOCIAL: CNPJ/CPF: RESPONSÁVEL LEGAL: DOC. (CPF ou SIAPE): E-MAIL: TEL: (       ) ENDEREÇO:  Nº: CIDADE: UF: CEP: ESTÁGIO MODALIDADE: (      ) Obrigatório (      ) Não obrigatório SUPERVISOR(A) NA UCE Nome: CPF ou SIAPE: Formação: E-mail:PROFESSOR(A) ORIENTADOR(A) NO IFPR Nome: SIAPE: Formação: E-mail: MODALIDADE DE ORIENTAÇÃO: (      ) Direta (      ) Semidireta (      ) Indireta (      ) Outra: PERÍODO DE REALIZAÇÃO: 
+Cláusula 2º Os valores em favor do estudante serão somente o disposto na seção “Auxílio Financeiro oferecido pela UCE” e devidos a partir do início do estágio.
 
-172 
+Parágrafo único. No estágio não obrigatório é compulsório a concessão de bolsa auxílio e auxílio-transporte ao estudante.
 
-## INSTITUTOFEDERAL 
+Cláusula 3º Na vigência do TCE/PE, o estudante estará resguardado pela seguradora indicada na seção “Seguro de Acidentes Pessoais”.
 
-Parana 
+Cláusula 4º As atividades a serem desenvolvidas durante o estágio estão acordadas entre as partes na seção “Plano de Estágio” e terão por finalidade propiciar ao estudante uma experiência acadêmico-profissional na UCE, visando:
 
-**==> picture [64 x 9] intentionally omitted <==**
+I - ser realizada sob a responsabilidade e coordenação do IFPR;
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+II - propiciar experiência acadêmico-profissional;
 
+III - oportunizar o aprendizado da atividade profissional e a contextualização curricular;
 
-____/____/____ A ____/____/____ 
+IV - preparar o estudante para a cidadania e para o mundo do trabalho;
 
-CARGA HORÁRIA SEMANAL: _____ horas JORNADA DIÁRIA: _____ horas OBSERVAÇÕES ADICIONAIS: HORÁRIO POR DIA DA SEMANA: 
+V - ser realizado nas áreas de formação do estudante, em consonância com o perfil profissional descrito no PPC.
 
-SEG: __________________________________________ TER: __________________________________________ QUA: __________________________________________ QUI: __________________________________________ SEX: __________________________________________ 
+Cláusula 5º O estágio somente poderá ser iniciado após assinatura das partes envolvidas. Parágrafo único. Não será reconhecido o período de atividade anterior ou posterior à vigência do estágio.
 
-AUXÍLIO FINANCEIRO OFERECIDO PELA UCE* 
+Cláusula 6º O estágio respeitará a duração máxima de vigência de 2 (dois) anos, exceto quando se tratar de estudante deficiente.
 
-(No estágio não obrigatório é compulsório a concessão de bolsa auxílio e auxílio-transporte ao estudante.) *Se não houver auxílio, invalidar este campo por meio de um traço sobre o quadro. [1] BOLSA AUXÍLIO: R$ [2] AUXÍLIO-TRANSPORTE: R$ [3] OUTROS: R$ VALOR TOTAL [1+2+3]: R$ DADOS BANCÁRIOS DO ESTUDANTE: Banco: Agência: C/C: 
+Cláusula 7º O estágio será desenvolvido conforme indicado neste documento, não podendo sofrer alterações sem a emissão de Termo Aditivo durante a vigência deste termo. Cláusula 8º O estágio não cria vínculo empregatício de qualquer natureza quando:
 
-SEGURO DE ACIDENTES PESSOAIS SEGURO OFERTADO PELO(A): (      ) IFPR (      ) UCE COMPANHIA: APÓLICE: 
+I – houver matrícula e frequência regular do estudante, atestados pelo IFPR em curso de educação superior, de educação profissional, de ensino médio, da educação especial e nos anos finais do ensino fundamental, na modalidade profissional da educação de jovens e adultos;
 
-PLANO DE ESTÁGIO (PE) (Atividades a serem desenvolvidos e objetivos a serem alcançados) 
+II – celebrado por meio de TCE/PE entre o estudante (ou seu representante legal), a UCE e
 
-O estudante, com interveniência do Instituto Federal do Paraná (IFPR), celebram o presente Termo de Compromisso e Plano de Estágio com a Unidade Concedente de Estágio (UCE) em consonância com o art. 82 da lei nº 9.394/96, a lei nº 11.788/2008 e a resolução IFPR nº 36/2019, mediante as seguintes condições: 
+174
 
-173 
+## INSTITUTOFEDERAL
 
-Parana 
+Parana
 
-## INSTITUTOFEDERAL 
+Ministerio da Educacao
 
-Ministerio da Educacao 
+o IFPR;
 
-Cláusula 1º O estudante (ou seu representante legal), em comum acordo com o IFPR e a UCE, definiram e registraram na seção “Estágio” as  características do estágio, sendo que a carga horária não ultrapassa: 
+III – houver compatibilidade entre as atividades desenvolvidas no estágio e as previstas no TCE/PE.
 
-I – 4 (quatro) horas diárias e 20 (vinte) horas semanais, no caso de estudantes de educação especial e dos anos finais do ensino fundamental, na modalidade profissional de educação de jovens e adultos; 
+Cláusula 9º Compete à UCE, independente de convênio, e ainda que intermediada por agente de integração:
 
-II – 6 (seis) horas diárias e 30 (trinta) horas semanais, no caso de estudantes do ensino superior, da educação profissional de nível médio e do ensino médio regular. 
+I – celebrar este termo com o IFPR e o estudante (ou seu representante legal), zelando por seu cumprimento;
 
-§ 1º O estágio relativo a cursos que alternam teoria e prática, nos períodos em que não estão programadas aulas presenciais, poderá ter jornada de até 40 (quarenta) horas semanais, desde que haja previsão específica no Projeto Pedagógico do Curso (PPC), no Regulamento Geral de Estágios do campus, e neste TCE/PE e que não haja dissociação da teoria e prática no estágio. 
+II – ofertar instalações que tenham condições de proporcionar ao estudante atividades de aprendizagem social, profissional e cultural;
 
-§ 2º O estagiário menor não poderá realizar estágio no período noturno. 
+III – promover cuidados relativos à saúde e segurança no trabalho, fornecendo os equipamentos necessários, bem como orientando e fiscalizando o seu uso;
 
-Cláusula 2º Os valores em favor do estudante serão somente o disposto na seção “Auxílio Financeiro oferecido pela UCE” e devidos a partir do início do estágio. 
+IV – não permitir que o estagiário inicie as atividades de estágio sem a devida formalização deste TCE/PE;
 
-Parágrafo único. No estágio não obrigatório é compulsório a concessão de bolsa auxílio e auxílio-transporte ao estudante. 
+V – proporcionar ao IFPR condições para acompanhamento, orientação e avaliação das atividades de estágio, sem prévio aviso;
 
-Cláusula 3º Na vigência do TCE/PE, o estudante estará resguardado pela seguradora indicada na seção “Seguro de Acidentes Pessoais”. 
+VI – produzir e enviar à SERC (Seção de Estágios e Relações e Comunitárias) no IFPR, com periodicidade mínima de 6 (seis) meses, relatório de atividades, com vista obrigatória ao estagiário;
 
-Cláusula 4º As atividades a serem desenvolvidas durante o estágio estão acordadas entre as partes na seção “Plano de Estágio” e terão por finalidade propiciar ao estudante uma experiência acadêmico-profissional na UCE, visando: 
+VII – por ocasião do desligamento do estagiário, entregar termo de realização do estágio com indicação resumida das atividades desenvolvidas, dos períodos e da avaliação de desempenho, com ciência obrigatória do supervisor;
 
-I - ser realizada sob a responsabilidade e coordenação do IFPR; 
+VIII – fornecer declaração de estágio ao estudante quando solicitado;
 
-II - propiciar experiência acadêmico-profissional; 
+IX – manter à disposição da fiscalização documentos que comprovem a relação de estágio. Cláusula 10. Compete ao IFPR:
 
-III - oportunizar o aprendizado da atividade profissional e a contextualização curricular; 
+I – celebrar este TCE/PE com a UCE e o estudante (ou seu representante legal), indicando as condições de adequação do estágio à proposta pedagógica do curso, à etapa e modalidade da formação escolar do estudante e ao horário e calendário escolar;
 
-IV - preparar o estudante para a cidadania e para o mundo do trabalho; 
+II – avaliar as instalações da UCE e sua adequação à formação cultural e profissional do estagiário;
 
-V - ser realizado nas áreas de formação do estudante, em consonância com o perfil profissional descrito no PPC. 
+III – indicar professor(a) orientador(a) da área a ser desenvolvida no estágio, como responsável pelo acompanhamento e avaliação das atividades do estagiário;
 
-Cláusula 5º O estágio somente poderá ser iniciado após assinatura das partes envolvidas. Parágrafo único. Não será reconhecido o período de atividade anterior ou posterior à vigência do estágio. 
+IV – exigir do acadêmico a apresentação periódica, em prazo não superior a 6 (seis) meses, de relatório das atividades;
 
-Cláusula 6º O estágio respeitará a duração máxima de vigência de 2 (dois) anos, exceto quando se tratar de estudante deficiente. 
+V – zelar pelo cumprimento deste TCE/PE;
 
-Cláusula 7º O estágio será desenvolvido conforme indicado neste documento, não podendo sofrer alterações sem a emissão de Termo Aditivo durante a vigência deste termo. Cláusula 8º O estágio não cria vínculo empregatício de qualquer natureza quando: 
+VI – comunicar à UCE, no início do período letivo, as datas de realização de avaliações escolares;
 
-I – houver matrícula e frequência regular do estudante, atestados pelo IFPR em curso de educação superior, de educação profissional, de ensino médio, da educação especial e nos anos finais do ensino fundamental, na modalidade profissional da educação de jovens e adultos; 
+VII – informar de imediato, à UCE, quaisquer alterações na situação escolar/acadêmica do estagiário, tais como o trancamento da matrícula, o abandono, o desligamento antecipado, a mudança ou a conclusão do curso e a transferência de instituição pelo estudante. Cláusula 11. São responsabilidades do estudante:
 
-II – celebrado por meio de TCE/PE entre o estudante (ou seu representante legal), a UCE e 
+I – iniciar o estágio em acordo com as normas do PPC, do Regulamento Geral de Estágios do campus e a resolução IFPR nº 36/2019;
 
-174 
+175
 
-## INSTITUTOFEDERAL 
+Parana
 
-Parana 
+Ministerio da Educacao
 
-Ministerio da Educacao 
+## INSTITUTOFEDERAL
 
-o IFPR; 
+II – cumprir as regras da UCE, de forma a promover o bom ambiente de aprendizagem; III – cumprir os dispositivos deste TCE/PE;
 
-III – houver compatibilidade entre as atividades desenvolvidas no estágio e as previstas no TCE/PE. 
+IV – zelar pelo nome do IFPR e da UCE;
 
-Cláusula 9º Compete à UCE, independente de convênio, e ainda que intermediada por agente de integração: 
+V – observar as normas internas estabelecidas, conduzindo-se dentro da ética profissional e guardando sigilo das informações a que tiver acesso;
 
-I – celebrar este termo com o IFPR e o estudante (ou seu representante legal), zelando por seu cumprimento; 
+VI – entregar relatórios, fichas de frequências e demais documentos necessários que formalizam a relação de estágio;
 
-II – ofertar instalações que tenham condições de proporcionar ao estudante atividades de aprendizagem social, profissional e cultural; 
+VII – comunicar dificuldades que impossibilitem a continuidade na UCE;
 
-III – promover cuidados relativos à saúde e segurança no trabalho, fornecendo os equipamentos necessários, bem como orientando e fiscalizando o seu uso; 
+VIII – manter atualizadas todas as suas informações cadastrais, tanto em relação à UCE quanto ao IFPR;
 
-IV – não permitir que o estagiário inicie as atividades de estágio sem a devida formalização deste TCE/PE; 
+IX – informar de imediato, à UCE, quaisquer alterações na sua situação escolar/acadêmica, tais como o trancamento da matrícula, o abandono, o desligamento antecipado, a mudança ou a conclusão do curso e a transferência de instituição, assumindo integral responsabilidade por sua omissão.
 
-V – proporcionar ao IFPR condições para acompanhamento, orientação e avaliação das atividades de estágio, sem prévio aviso; 
+Parágrafo único. Caso tenha interesse, poderá providenciar sua inscrição e contribuição como segurado facultativo do Regime Geral de Previdência Social. Cláusula 12. É assegurado ao estagiário:
 
-VI – produzir e enviar à SERC (Seção de Estágios e Relações e Comunitárias) no IFPR, com periodicidade mínima de 6 (seis) meses, relatório de atividades, com vista obrigatória ao estagiário; 
+I – a redução da carga horária pelo menos à metade, segundo estipulado neste TCE/PE, nos períodos de avaliação, sem qualquer desconto nos valores de bolsa-auxílio ou outra forma de contraprestação;
 
-VII – por ocasião do desligamento do estagiário, entregar termo de realização do estágio com indicação resumida das atividades desenvolvidas, dos períodos e da avaliação de desempenho, com ciência obrigatória do supervisor; 
+II – recesso de 30 (trinta) dias sempre que o estágio tenha duração igual ou superior a 1 (um) ano, ou de maneira proporcional, nos casos de duração inferior a 1 (um) ano, a ser gozado preferencialmente durante suas férias escolares, o qual deverá ser remunerado quando o estagiário receber bolsa ou outra forma de contraprestação.
 
-VIII – fornecer declaração de estágio ao estudante quando solicitado; 
+III – promoção de cuidados relativos à saúde e a segurança no trabalho, sendo a implementação de responsabilidade da UCE;
 
-IX – manter à disposição da fiscalização documentos que comprovem a relação de estágio. Cláusula 10. Compete ao IFPR: 
+IV – cobertura por seguro contra acidentes pessoais, durante o período de realização de estágio, independente de manifestação;
 
-I – celebrar este TCE/PE com a UCE e o estudante (ou seu representante legal), indicando as condições de adequação do estágio à proposta pedagógica do curso, à etapa e modalidade da formação escolar do estudante e ao horário e calendário escolar; 
+Parágrafo único. Para que o estudante possa beneficiar-se da redução da carga horária, conforme inciso I, deverá apresentar cronograma de atividades avaliativas à UCE em cada período letivo, com ciência do(a) professor(a) orientador(a) ou coordenador(a) do curso. Cláusula 13. O desligamento do estudante IFPR ocorrerá:
 
-II – avaliar as instalações da UCE e sua adequação à formação cultural e profissional do estagiário; 
+I – automaticamente, após encerrado o prazo fixado neste TCE/PE.
 
-III – indicar professor(a) orientador(a) da área a ser desenvolvida no estágio, como responsável pelo acompanhamento e avaliação das atividades do estagiário; 
+II – antes do período previsto, pelo não cumprimento das cláusulas e condições pactuadas ou pela inobservância dos requisitos que permitam sua continuidade.
 
-IV – exigir do acadêmico a apresentação periódica, em prazo não superior a 6 (seis) meses, de relatório das atividades; 
+§ 1º O desligamento do estudante deverá observar, no que couber, o capítulo de desligamento da resolução IFPR nº 36/2019.
 
-V – zelar pelo cumprimento deste TCE/PE; 
+§ 2º As partes devem ser previamente comunicadas por escrito.
 
-VI – comunicar à UCE, no início do período letivo, as datas de realização de avaliações escolares; 
+§ 3º No caso de desligamento prévio, deverá ser elaborado Termo de Rescisão. Cláusula 14. Caso existam dados pessoais trocados entre os signatários do presente termo, estes se comprometem a observar os ditames da Lei n.º 13.709/2018 – Lei Geral de Proteção de Dados.
 
-VII – informar de imediato, à UCE, quaisquer alterações na situação escolar/acadêmica do estagiário, tais como o trancamento da matrícula, o abandono, o desligamento antecipado, a mudança ou a conclusão do curso e a transferência de instituição pelo estudante. Cláusula 11. São responsabilidades do estudante: 
+176
 
-I – iniciar o estágio em acordo com as normas do PPC, do Regulamento Geral de Estágios do campus e a resolução IFPR nº 36/2019; 
+## INSTITUTOFEDERAL
 
-175 
+## Parana
 
-Parana 
+Ministerio da Educacao
 
-Ministerio da Educacao 
+Cláusula 15. As partes elegem o Foro da Justiça Federal, Seção Judiciária do Paraná, Circunscrição de Curitiba, para dirimir toda e qualquer dúvida suscitada em razão do presente termo, excluindo qualquer outro por mais privilegiado que seja
 
-## INSTITUTOFEDERAL 
+TERMO DE ANUÊNCIA EM CONFORMIDADE COM A RESOLUÇÃO IFPR Nº 20, DE 29 DE JUNHO DE 2021
 
-II – cumprir as regras da UCE, de forma a promover o bom ambiente de aprendizagem; III – cumprir os dispositivos deste TCE/PE; 
+Cláusula 1º As partes possuem ciência da pandemia do novo coronavírus e concordam que atuarão de forma conjunta para que os estagiários não fiquem expostos aos riscos da Covid19, buscando atuar em conformidade com a Resolução IFPR nº 20, de 29 de junho de 2021, em especial buscando formas de realizar as atividades de estágio de forma remota, bem como a sua supervisão e orientação.
 
-IV – zelar pelo nome do IFPR e da UCE; 
+Cláusula 2º A UCE compromete-se com o IFPR quanto a seguir os protocolos de saúde das autoridades competentes a qual está vinculada, e igualmente seguirá as orientações da Comissão de Acompanhamento e Controle da Propagação do Covid-19 do IFPR relativa ao campus de origem do estudante.
 
-V – observar as normas internas estabelecidas, conduzindo-se dentro da ética profissional e guardando sigilo das informações a que tiver acesso; 
+Cláusula 3º Quando o estágio ocorrer de forma presencial, a UCE, por meio do supervisor de estágio, comunicará ao IFPR toda e qualquer ocorrência relativa à saúde do estagiário, bem como qualquer alteração relativa à permanência de estagiários em seu ambiente.
 
-VI – entregar relatórios, fichas de frequências e demais documentos necessários que formalizam a relação de estágio; 
+Cláusula 4º O estagiário deverá informar a UCE, se apresentar quaisquer sintomas que indiquem possível contágio pelo Covid-19.
 
-VII – comunicar dificuldades que impossibilitem a continuidade na UCE; 
+Parágrafo único. No caso de estudante menor, a responsabilidade será dos responsáveis legais.
 
-VIII – manter atualizadas todas as suas informações cadastrais, tanto em relação à UCE quanto ao IFPR; 
+Cláusula 5º No que concerne as cláusulas 3º e 4º, a UCE deverá tomar as medidas sanitárias cabíveis para mitigar a transmissão da Covid-19 e resguardar a saúde do estagiário, podendo caso o estágio esteja sendo realizado de forma presencial, ser alterado para estágio remoto, com ciência do IFPR.
 
-IX – informar de imediato, à UCE, quaisquer alterações na sua situação escolar/acadêmica, tais como o trancamento da matrícula, o abandono, o desligamento antecipado, a mudança ou a conclusão do curso e a transferência de instituição, assumindo integral responsabilidade por sua omissão. 
+Cláusula 6º Quando as supervisões ocorrerem de forma remota, a UCE manterá registro da sua ocorrência.
 
-Parágrafo único. Caso tenha interesse, poderá providenciar sua inscrição e contribuição como segurado facultativo do Regime Geral de Previdência Social. Cláusula 12. É assegurado ao estagiário: 
+Parágrafo único. Não é necessário gravar o diálogo entre o estudante e o supervisor, quando a interação for síncrona.
 
-I – a redução da carga horária pelo menos à metade, segundo estipulado neste TCE/PE, nos períodos de avaliação, sem qualquer desconto nos valores de bolsa-auxílio ou outra forma de contraprestação; 
+Cláusula 7º As demais cláusulas do Termo de Compromisso de Estágio e Plano de Estágio (TCE/PE) permanecem inalteradas.
 
-II – recesso de 30 (trinta) dias sempre que o estágio tenha duração igual ou superior a 1 (um) ano, ou de maneira proporcional, nos casos de duração inferior a 1 (um) ano, a ser gozado preferencialmente durante suas férias escolares, o qual deverá ser remunerado quando o estagiário receber bolsa ou outra forma de contraprestação. 
+E, por estarem de inteiro e comum acordo com as condições deste Termo de Compromisso e Plano de Estágio com Termo de Anuência, as partes assinam em vias de igual teor e forma.
 
-III – promoção de cuidados relativos à saúde e a segurança no trabalho, sendo a implementação de responsabilidade da UCE; 
+_____________________, ______ de _____________________ de 20_____
 
-IV – cobertura por seguro contra acidentes pessoais, durante o período de realização de estágio, independente de manifestação; 
+IFPR
 
-Parágrafo único. Para que o estudante possa beneficiar-se da redução da carga horária, conforme inciso I, deverá apresentar cronograma de atividades avaliativas à UCE em cada período letivo, com ciência do(a) professor(a) orientador(a) ou coordenador(a) do curso. Cláusula 13. O desligamento do estudante IFPR ocorrerá: 
+177
 
-I – automaticamente, após encerrado o prazo fixado neste TCE/PE. 
+## INSTITUTOFEDERAL
 
-II – antes do período previsto, pelo não cumprimento das cláusulas e condições pactuadas ou pela inobservância dos requisitos que permitam sua continuidade. 
+## Parana
 
-§ 1º O desligamento do estudante deverá observar, no que couber, o capítulo de desligamento da resolução IFPR nº 36/2019. 
+Ministerio da Educacao<br>
 
-§ 2º As partes devem ser previamente comunicadas por escrito. 
+(SERC ou Direção) IFPR (Orientador) UCE (Responsável legal) UCE (Supervisor) Estagiário (Estudante IFPR)
 
-§ 3º No caso de desligamento prévio, deverá ser elaborado Termo de Rescisão. Cláusula 14. Caso existam dados pessoais trocados entre os signatários do presente termo, estes se comprometem a observar os ditames da Lei n.º 13.709/2018 – Lei Geral de Proteção de Dados. 
+Documento válido somente com a assinatura/ciência do IFPR (SERC ou Direção). Colher as assinaturas da direita para esquerda.
 
-176 
+178
 
-## INSTITUTOFEDERAL 
+INSTITUTOFEDERAL Parana
 
-## Parana 
+Ministerio da Educacao
 
-Ministerio da Educacao 
+## **RELATÓRIO FINAL DE ESTÁGIO**
 
-Cláusula 15. As partes elegem o Foro da Justiça Federal, Seção Judiciária do Paraná, Circunscrição de Curitiba, para dirimir toda e qualquer dúvida suscitada em razão do presente termo, excluindo qualquer outro por mais privilegiado que seja 
+RELATÓRIO FINAL DE ESTÁGIO CONTROLE INTERNO (ESTUDANTE IFPR EM ESTÁGIO OBRIGATÓRIO OU NÃO OBRIGATÓRIO) _________________
 
-TERMO DE ANUÊNCIA EM CONFORMIDADE COM A RESOLUÇÃO IFPR Nº 20, DE 29 DE JUNHO DE 2021 
+ESTUDANTE ESTAGIÁRIO IFPR NOME: E-MAIL: TEL: (      ) CURSO: CAMPUS: PERÍODO DO CURSO: TURNO: MATRÍCULA: UNIDADE CONCEDENTE DE ESTÁGIO (UCE) RAZÃO SOCIAL: CNPJ/CPF: E-MAIL: TEL: (       ) ESTÁGIO MODALIDADE: (      ) Obrigatório (      ) Não obrigatório SUPERVISOR(A) NA UCE:
 
-Cláusula 1º As partes possuem ciência da pandemia do novo coronavírus e concordam que atuarão de forma conjunta para que os estagiários não fiquem expostos aos riscos da Covid19, buscando atuar em conformidade com a Resolução IFPR nº 20, de 29 de junho de 2021, em especial buscando formas de realizar as atividades de estágio de forma remota, bem como a sua supervisão e orientação. 
+PROFESSOR(A) ORIENTADOR(A) NO IFPR:
 
-Cláusula 2º A UCE compromete-se com o IFPR quanto a seguir os protocolos de saúde das autoridades competentes a qual está vinculada, e igualmente seguirá as orientações da Comissão de Acompanhamento e Controle da Propagação do Covid-19 do IFPR relativa ao campus de origem do estudante. 
+PERÍODO DE REALIZAÇÃO: ____/____/____ A ____/____/____ CARGA HORÁRIA SEMANAL: _____ horas CARGA HORÁRIA TOTAL*: _______ horas * Total de horas do período informado. OBSERVAÇÕES ADICIONAIS:
 
-Cláusula 3º Quando o estágio ocorrer de forma presencial, a UCE, por meio do supervisor de estágio, comunicará ao IFPR toda e qualquer ocorrência relativa à saúde do estagiário, bem como qualquer alteração relativa à permanência de estagiários em seu ambiente. 
+DESCRIÇÃO DAS ATIVIDADES DO ESTÁGIO
 
-Cláusula 4º O estagiário deverá informar a UCE, se apresentar quaisquer sintomas que indiquem possível contágio pelo Covid-19. 
+(Supervisor - descrever as atividades que o estagiário exerceu em todo o período)
 
-Parágrafo único. No caso de estudante menor, a responsabilidade será dos responsáveis legais. 
+AVALIAÇÃO DO DESENVOLVIMENTO DO ESTÁGIO (Supervisor - escolher um grau de satisfação de 1 a 5, sendo 5 satisfeito) Fatores avaliados Grau Fatores avaliados Grau 01. Assiduidade 06. Conhecimento técnico 02. Criatividade 07. Cumprimento das atividades 03. Inovação 08. Relacionamento interpessoal
 
-Cláusula 5º No que concerne as cláusulas 3º e 4º, a UCE deverá tomar as medidas sanitárias cabíveis para mitigar a transmissão da Covid-19 e resguardar a saúde do estagiário, podendo caso o estágio esteja sendo realizado de forma presencial, ser alterado para estágio remoto, com ciência do IFPR. 
+179
 
-Cláusula 6º Quando as supervisões ocorrerem de forma remota, a UCE manterá registro da sua ocorrência. 
+## INSTITUTOFEDERAL Parana
 
-Parágrafo único. Não é necessário gravar o diálogo entre o estudante e o supervisor, quando a interação for síncrona. 
+Ministerio da Educacao<br>
 
-Cláusula 7º As demais cláusulas do Termo de Compromisso de Estágio e Plano de Estágio (TCE/PE) permanecem inalteradas. 
+04. Responsabilidade 09. Interesse pela temática 05. Conduta 10. Desempenho geral do estágio Avaliação do estudante (orientador) (    ) A     (    ) B     (    ) C     (    ) D _____________________, ______ de _____________________ de 20_____
 
-E, por estarem de inteiro e comum acordo com as condições deste Termo de Compromisso e Plano de Estágio com Termo de Anuência, as partes assinam em vias de igual teor e forma. 
+IFPR (SERC ou Direção) IFPR (Orientador) UCE (Supervisor) Estagiário (Estudante IFPR)
 
-_____________________, ______ de _____________________ de 20_____ 
+Documento válido somente com a assinatura/ciência do IFPR (SERC ou Direção). Colher as assinaturas da direita para esquerda. CADERNO DE ESTÁGIO
 
-IFPR 
+CURSO DE TECNOLOGIA EM MASSOTERAPIA
 
-177 
+IDENTIFICAÇÃO
 
-## INSTITUTOFEDERAL 
+NOME: MATRÍCULA: TELEFONE:  E-MAIL:
 
-## Parana 
+Controle de Horas Estágio Obrigatório Ano Dias das semana:
 
-**==> picture [64 x 9] intentionally omitted <==**
+Mês Data Local Nº/ Atendim. Horas Assinatura Professor
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+180
 
+## INSTITUTOFEDERAL
 
-(SERC ou Direção) IFPR (Orientador) UCE (Responsável legal) UCE (Supervisor) Estagiário (Estudante IFPR) 
+Parana
 
-Documento válido somente com a assinatura/ciência do IFPR (SERC ou Direção). Colher as assinaturas da direita para esquerda. 
+Ministerio daEducacao<br>
 
-178 
+## ANEXO B – MODELO DE PLANO DE TRABALHO
 
-INSTITUTOFEDERAL Parana 
+## **Art. 116 da Lei n°. 8.666/93**
 
-Ministerio da Educacao 
+I – Identificação do objeto a ser executado; Convênio entre o Instituto Federal do Paraná e a
 
-## **RELATÓRIO FINAL DE ESTÁGIO** 
+Convênio entre o Instituto Federal do Paraná e a , objetiva disponibilizar espaço de campo de estágio obrigatório e não obrigatório aos acadêmicos licenciados e bacharelados do IFPR.
 
-RELATÓRIO FINAL DE ESTÁGIO CONTROLE INTERNO (ESTUDANTE IFPR EM ESTÁGIO OBRIGATÓRIO OU NÃO OBRIGATÓRIO) _________________ 
+## Cabe à:
 
-ESTUDANTE ESTAGIÁRIO IFPR NOME: E-MAIL: TEL: (      ) CURSO: CAMPUS: PERÍODO DO CURSO: TURNO: MATRÍCULA: UNIDADE CONCEDENTE DE ESTÁGIO (UCE) RAZÃO SOCIAL: CNPJ/CPF: E-MAIL: TEL: (       ) ESTÁGIO MODALIDADE: (      ) Obrigatório (      ) Não obrigatório SUPERVISOR(A) NA UCE: 
+a) Disponibilizar espaço pedagógico para o estágio obrigatório e não obrigatório aos acadêmicos dos cursos superiores e técnicos, conforme prevê a Lei 11.788/2008.
 
-PROFESSOR(A) ORIENTADOR(A) NO IFPR: 
+## Cabe ao IFPR:
 
-PERÍODO DE REALIZAÇÃO: ____/____/____ A ____/____/____ CARGA HORÁRIA SEMANAL: _____ horas CARGA HORÁRIA TOTAL*: _______ horas * Total de horas do período informado. OBSERVAÇÕES ADICIONAIS: 
+a) Manter a oferta do estágio obrigatório e não obrigatório conforme prevê a legislação 11.788/2008 e a Resolução do IFPR nº02/2013.
 
-DESCRIÇÃO DAS ATIVIDADES DO ESTÁGIO 
+II – Metas a serem atingidas:
 
-(Supervisor - descrever as atividades que o estagiário exerceu em todo o período) 
+O IFPR em parceria com a , concordam em efetivar
 
-AVALIAÇÃO DO DESENVOLVIMENTO DO ESTÁGIO (Supervisor - escolher um grau de satisfação de 1 a 5, sendo 5 satisfeito) Fatores avaliados Grau Fatores avaliados Grau 01. Assiduidade 06. Conhecimento técnico 02. Criatividade 07. Cumprimento das atividades 03. Inovação 08. Relacionamento interpessoal 
+atividades pedagógicas com os acadêmicos do IFPR, como espaço das atividades de estágio obrigatório e não obrigatório, visando atingir as seguintes metas:
 
-179 
+a) Manter a oferta e o campo de estágio obrigatório e não obrigatório;
 
-## INSTITUTOFEDERAL Parana 
+b) Promover atividades teórico-práticas por meio da promoção conjunta de atividades de ensino;
 
-**==> picture [64 x 9] intentionally omitted <==**
+c) Efetivação de atividades teóricas-práticas de estágio obrigatório e não obrigatório;
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+- d) Realizar o compartilhamento de conhecimentos e competências.
 
+III – Etapas ou fases de execução;
 
-04. Responsabilidade 09. Interesse pela temática 05. Conduta 10. Desempenho geral do estágio Avaliação do estudante (orientador) (    ) A     (    ) B     (    ) C     (    ) D _____________________, ______ de _____________________ de 20_____ 
+Formalização e assinatura do termo de convênio de cooperação de estágio para atender atividades pedagógicas de estágio obrigatório e não obrigatório.
 
-IFPR (SERC ou Direção) IFPR (Orientador) UCE (Supervisor) Estagiário (Estudante IFPR) 
+a) Execução do objeto, objetivando a atingimento de cada uma das metas acordadas por cada um dos convenentes, ao longo do prazo de execução acordado e de acordo com as possibilidades de cada convenente.
 
-Documento válido somente com a assinatura/ciência do IFPR (SERC ou Direção). Colher as assinaturas da direita para esquerda. CADERNO DE ESTÁGIO 
+b) Verificação dos resultados alcançados em cada meta em conjunto, pelo IFPR e a com avaliação dos benefícios e aspectos a serem melhorados.
 
-CURSO DE TECNOLOGIA EM MASSOTERAPIA 
+IV – Plano de aplicação dos recursos humanos, materiais e financeiros;
 
-IDENTIFICAÇÃO 
+Para o cumprimento do objeto, não há repasses financeiros entre a INSTITUIÇÃO DE ENSINO e a UNIDADE CONCEDENTE.
 
-NOME: MATRÍCULA: TELEFONE:  E-MAIL: 
+V – Cronograma de desembolso;
 
-Controle de Horas Estágio Obrigatório Ano Dias das semana: 
+Não se aplica
 
-Mês Data Local Nº/ Atendim. Horas Assinatura Professor 
+181
 
-180 
+INSTITUTOFEDERAL Parana
 
-## INSTITUTOFEDERAL 
+Ministerio daEducacao<br>
 
-Parana 
+VI – Cronograma físico, com previsão da conclusão das etapas ou fases programadas e do início e fim da execução;
 
-**==> picture [64 x 9] intentionally omitted <==**
+O presente convênio terá vigência por 5 (cinco) anos a partir da data de sua assinatura. VII – Definição da infraestrutura necessária
 
-**----- Start of picture text -----**<br>
-Ministerio daEducacao<br>**----- End of picture text -----**<br>
+Tanto INSTITUIÇÃO DE ENSINO, quanto a UNIDADE CONCEDENTE dispõe de toda a infraestrutura necessária para a execução deste convênio de estágio não obrigatório. Em caso de ocorrerem modificações das metas propostas e, por consequência, tornar-se necessário infraestrutura adicional, será realizada mediante aditamento deste plano de trabalho.
 
+, de de 2022.
 
-## ANEXO B – MODELO DE PLANO DE TRABALHO 
+**NOME COMPLETO CARGO / FUNÇÃO IFPR**
 
-## **Art. 116 da Lei n°. 8.666/93** 
+**NOME COMPLETO CARGO / FUNÇÃO CONCEDENTE**
 
-I – Identificação do objeto a ser executado; Convênio entre o Instituto Federal do Paraná e a 
+182
 
-Convênio entre o Instituto Federal do Paraná e a , objetiva disponibilizar espaço de campo de estágio obrigatório e não obrigatório aos acadêmicos licenciados e bacharelados do IFPR. 
+Parana
 
-## Cabe à: 
+## INSTITUTOFEDERAL
 
-a) Disponibilizar espaço pedagógico para o estágio obrigatório e não obrigatório aos acadêmicos dos cursos superiores e técnicos, conforme prevê a Lei 11.788/2008. 
+Ministerio daEducacao<br>
 
-## Cabe ao IFPR: 
+## **CELEBRAÇÃO DE CONVÊNIO**
 
-a) Manter a oferta do estágio obrigatório e não obrigatório conforme prevê a legislação 11.788/2008 e a Resolução do IFPR nº02/2013. 
+O **INSTITUTO FEDERAL DE EDUCAÇÃO CIÊNCIA E TECNOLOGIA DO PARANÁ** , inscrito no CNPJ/MF sob o nº 10.652.179/0001-15, com endereço à Av. Victor Ferreira do Amaral, 306, Bairro Tarumã, cidade de Curitiba, estado do Paraná, doravante denominado **INSTITUIÇÃO DE ENSINO** , neste ato representado por seu Reitor _ProTempore_ , Prof. **ODACIR ANTONIO ZANATTA** , portador do RG n° 16.157.372 SSP-SP e CPF n° 537.578.159-04, nomeado pela Portaria nº 603 de 08 de julho de 2016 do Gabinete do Ministro da Educação, e
 
-II – Metas a serem atingidas: 
+A **,** inscrita no CNPJ sob o nº , com sede na Rua , , Bairro, cidade de , estado do , doravante denominado **UNIDADE CONCEDENTE** , neste ato representada por seu ___ portador do RG nº e CPF nº ;
 
-O IFPR em parceria com a , concordam em efetivar 
+Resolvem celebrar o presente Convênio de Estágio com base na Lei nº 11.788 de 25 de setembro de 2008 e em conformidade com as cláusulas e condições seguintes:
 
-atividades pedagógicas com os acadêmicos do IFPR, como espaço das atividades de estágio obrigatório e não obrigatório, visando atingir as seguintes metas: 
+## **CLÁUSULA PRIMEIRA – DO OBJETO**
 
-a) Manter a oferta e o campo de estágio obrigatório e não obrigatório; 
+O presente Convênio, em conformidade com a Lei n°. 11.788 de 25 de setembro de 2008, tem por finalidade propiciar ao Estagiário o desenvolvimento de atividades no âmbito do trabalho, que visa à preparação para o trabalho produtivo do estudante por meio de aprimoramento técnico-científico em sua formação e maior proximidade com as condições reais de trabalho por intermédio de práticas afins com a natureza e especificidade de cada curso.
 
-b) Promover atividades teórico-práticas por meio da promoção conjunta de atividades de ensino; 
+## **CLÁUSULA SEGUNDA – DAS OBRIGAÇÕES**
 
-c) Efetivação de atividades teóricas-práticas de estágio obrigatório e não obrigatório; 
+## **I. – COMPETE À INSTITUIÇÃO DE ENSINO:**
 
-- d) Realizar o compartilhamento de conhecimentos e competências. 
+- a) Celebrar termo de compromisso com o educando ou com seu representante ou assistente legal, quando ele for absoluta ou relativamente incapaz, e com a parte concedente, indicando as condições de adequação do estágio à proposta pedagógica do curso, à etapa e modalidade da formação escolar do estudante e ao horário e calendário escolar. A celebração do termo de compromisso não gera vínculo empregatício com a **INSTITUIÇÃO DE ENSINO** nem qualquer
 
-III – Etapas ou fases de execução; 
+183
 
-Formalização e assinatura do termo de convênio de cooperação de estágio para atender atividades pedagógicas de estágio obrigatório e não obrigatório. 
+## INSTITUTOFEDERAL
 
-a) Execução do objeto, objetivando a atingimento de cada uma das metas acordadas por cada um dos convenentes, ao longo do prazo de execução acordado e de acordo com as possibilidades de cada convenente. 
+## Parana
 
-b) Verificação dos resultados alcançados em cada meta em conjunto, pelo IFPR e a com avaliação dos benefícios e aspectos a serem melhorados. 
+Ministerio da Educacao<br>
 
-IV – Plano de aplicação dos recursos humanos, materiais e financeiros; 
+obrigatoriedade de remuneração;
 
-Para o cumprimento do objeto, não há repasses financeiros entre a INSTITUIÇÃO DE ENSINO e a UNIDADE CONCEDENTE. 
+- b) Avaliar as instalações da parte concedente do estágio e sua adequação à formação cultural e profissional do educando;
 
-V – Cronograma de desembolso; 
+- c) Indicar professor orientador, da área a ser desenvolvida no estágio, como responsável pelo acompanhamento e avaliação das atividades do estagiário;
 
-Não se aplica 
+- d) Exigir do educando a apresentação periódica, em prazo não superior a 06 (seis) meses, de relatório das atividades;
 
-181 
+- e) Zelar pelo cumprimento do termo de compromisso, reorientando o estagiário para outro local em caso de descumprimento de suas normas;
 
-INSTITUTOFEDERAL Parana 
+- f) Elaborar normas complementares e instrumentos de avaliação dos estágios de seus educandos;
 
-**==> picture [64 x 9] intentionally omitted <==**
+- g) Comunicar à UNIDADE CONCEDENTE do estágio, no início do período letivo, as datas de realização de avaliações escolares ou acadêmicas.
 
-**----- Start of picture text -----**<br>
-Ministerio daEducacao<br>**----- End of picture text -----**<br>
+## **II. – COMPETE À UNIDADE CONCEDENTE:**
 
+- a) Celebrar termo de compromisso com a instituição de ensino e o educando, zelando por seu cumprimento;
 
-VI – Cronograma físico, com previsão da conclusão das etapas ou fases programadas e do início e fim da execução; 
+- b) ofertar instalações que tenham condições de proporcionar ao educando atividades de aprendizagem social, profissional e cultural;
 
-O presente convênio terá vigência por 5 (cinco) anos a partir da data de sua assinatura. VII – Definição da infraestrutura necessária 
+- c) Ofertar estágio para estudantes selecionados de comum acordo com a **INSTITUIÇÃO DE ENSINO** , para desenvolver atividades relacionadas com o curso ao qual pertencem;
 
-Tanto INSTITUIÇÃO DE ENSINO, quanto a UNIDADE CONCEDENTE dispõe de toda a infraestrutura necessária para a execução deste convênio de estágio não obrigatório. Em caso de ocorrerem modificações das metas propostas e, por consequência, tornar-se necessário infraestrutura adicional, será realizada mediante aditamento deste plano de trabalho. 
+- d) Indicar funcionário do seu quadro de pessoal, com formação ou experiência, profissional da área de conhecimento desenvolvida no curso do Estagiário, para atender o desenvolvimento do estágio do estudante, para orientar e supervisionar até 10 (dez) estagiários simultaneamente;
 
-, de de 2022. 
+- e) Contratar Seguro de Cobertura de Acidentes Pessoais para o Estagiário, conforme legislação em vigor;
 
-**NOME COMPLETO CARGO / FUNÇÃO IFPR** 
+- f) Proporcionar à INSTITUIÇÃO DE ENSINO condições para acompanhamento, a supervisão e
 
-**NOME COMPLETO CARGO / FUNÇÃO CONCEDENTE** 
+184
 
-182 
+## INSTITUTOFEDERAL
 
-Parana 
+## Parana
 
-## INSTITUTOFEDERAL 
+Ministerio da Educacao<br>
 
-**==> picture [64 x 9] intentionally omitted <==**
+avaliação das atividades de estágio do aluno;
 
-**----- Start of picture text -----**<br>
-Ministerio daEducacao<br>**----- End of picture text -----**<br>
+- g) Estabelecer horário da jornada de atividades do Estagiário sem prejuízo as atividades discentes do mesmo, conforme legislação em vigor;
 
+- h) Enviar à INSTITUIÇÃO DE ENSINO, com periodicidade mínima de 06 (seis) meses, relatório de atividades, com vista obrigatória ao estagiário;
 
-## **CELEBRAÇÃO DE CONVÊNIO** 
+- i) Aplica-se à UNIDADE CONCEDENTE o Art. 12 da Lei n.º 11.788 de 25 de setembro de 2008, que determina que o estagiário poderá receber bolsa ou outra forma de contraprestação que venha a ser acordada, sendo compulsória a sua concessão, bem como a do auxílio-transporte, na hipótese de estágio não obrigatório;
 
-O **INSTITUTO FEDERAL DE EDUCAÇÃO CIÊNCIA E TECNOLOGIA DO PARANÁ** , inscrito no CNPJ/MF sob o nº 10.652.179/0001-15, com endereço à Av. Victor Ferreira do Amaral, 306, Bairro Tarumã, cidade de Curitiba, estado do Paraná, doravante denominado **INSTITUIÇÃO DE ENSINO** , neste ato representado por seu Reitor _ProTempore_ , Prof. **ODACIR ANTONIO ZANATTA** , portador do RG n° 16.157.372 SSP-SP e CPF n° 537.578.159-04, nomeado pela Portaria nº 603 de 08 de julho de 2016 do Gabinete do Ministro da Educação, e 
+- j) por ocasião do desligamento do estagiário, entregar termo de realização do estágio com indicação resumida das atividades desenvolvidas, dos períodos e da avaliação de desempenho;
 
-A **,** inscrita no CNPJ sob o nº , com sede na Rua , , Bairro, cidade de , estado do , doravante denominado **UNIDADE CONCEDENTE** , neste ato representada por seu ___ portador do RG nº e CPF nº ; 
+- k) manter à disposição da fiscalização documentos que comprovem a relação de estágio.
 
-Resolvem celebrar o presente Convênio de Estágio com base na Lei nº 11.788 de 25 de setembro de 2008 e em conformidade com as cláusulas e condições seguintes: 
+**Parágrafo Primeiro** : Desde que solicitado, a **UNIDADE CONCEDENTE** poderá cooperar com a **INSTITUIÇÃO DE ENSINO** fornecendo subsídios para a operacionalização de suas atribuições.
 
-## **CLÁUSULA PRIMEIRA – DO OBJETO** 
+**Parágrafo Segundo:** A **UNIDADE CONCEDENTE** não está autorizada a fornecer documentos e informações relacionadas aos Programas de Estágio sem o prévio consentimento formal da **INSTITUIÇÃO DE ENSINO** .
 
-O presente Convênio, em conformidade com a Lei n°. 11.788 de 25 de setembro de 2008, tem por finalidade propiciar ao Estagiário o desenvolvimento de atividades no âmbito do trabalho, que visa à preparação para o trabalho produtivo do estudante por meio de aprimoramento técnico-científico em sua formação e maior proximidade com as condições reais de trabalho por intermédio de práticas afins com a natureza e especificidade de cada curso. 
+**Parágrafo Terceiro:** O estagiário não terá vínculo empregatício com a **UNIDADE CONCEDENTE** conforme legislação em vigor.
 
-## **CLÁUSULA SEGUNDA – DAS OBRIGAÇÕES** 
+**Parágrafo Quarto:** No caso de estágio obrigatório, a responsabilidade pela contratação do seguro, de que trata a alínea ―c‖ supra, fica a cargo do IFPR.
 
-## **I. – COMPETE À INSTITUIÇÃO DE ENSINO:** 
+## **CLÁUSULA TERCEIRA – DOS RECURSOS**
 
-- a) Celebrar termo de compromisso com o educando ou com seu representante ou assistente legal, quando ele for absoluta ou relativamente incapaz, e com a parte concedente, indicando as condições de adequação do estágio à proposta pedagógica do curso, à etapa e modalidade da formação escolar do estudante e ao horário e calendário escolar. A celebração do termo de compromisso não gera vínculo empregatício com a **INSTITUIÇÃO DE ENSINO** nem qualquer 
+O presente Convênio caracteriza-se, por sua natureza, pelo desprovimento de obrigações financeiras entre as partes, respondendo cada uma pelas obrigações que assumir.
 
-183 
+185
 
-## INSTITUTOFEDERAL 
+Parana
 
-## Parana 
+## INSTITUTOFEDERAL
 
-**==> picture [64 x 9] intentionally omitted <==**
+Ministerio da Educacao<br>
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+## **CLÁUSULA QUARTA – DA VIGÊNCIA**
 
+O presente Convênio vigorará pelo prazo de 5 (cinco) anos, contados a partir da data da sua assinatura.
 
-obrigatoriedade de remuneração; 
+## **CLÁUSULA QUINTA – DA RESCISÃO**
 
-- b) Avaliar as instalações da parte concedente do estágio e sua adequação à formação cultural e profissional do educando; 
+O presente termo poderá ser rescindido pelo descumprimento das condições pactuadas, ou pela superveniência de norma legal ou fato administrativo que o torne formal ou materialmente inexequível ou por iniciativa de quaisquer das partes, mediante prévio aviso, por escrito, com antecedência mínima de 30 dias.
 
-- c) Indicar professor orientador, da área a ser desenvolvida no estágio, como responsável pelo acompanhamento e avaliação das atividades do estagiário; 
+**Parágrafo Único:** Na hipótese de rescisão antecipada deste Convênio, os Termos de Compromissos de Estágio ficam automaticamente rescindidos.
 
-- d) Exigir do educando a apresentação periódica, em prazo não superior a 06 (seis) meses, de relatório das atividades; 
+## **CLÁUSULA SEXTA - DA PUBLICAÇÃO**
 
-- e) Zelar pelo cumprimento do termo de compromisso, reorientando o estagiário para outro local em caso de descumprimento de suas normas; 
+A publicação resumida deste instrumento será efetivada por extrato no Diário Oficial da União – DOU, por conta da **INSTITUIÇÃO DE ENSINO** , de acordo com os termos do Art. 17 de IN n°. 01/97 – STN.
 
-- f) Elaborar normas complementares e instrumentos de avaliação dos estágios de seus educandos; 
+## **CLÁUSULA SÉTIMA - DO FORO**
 
-- g) Comunicar à UNIDADE CONCEDENTE do estágio, no início do período letivo, as datas de realização de avaliações escolares ou acadêmicas. 
+As partes elegem o Foro da Justiça Federal, Seção Judiciária do Paraná, Circunscrição de Curitiba para dirimir toda e qualquer dúvida suscitada em razão do presente convênio, excluindo qualquer outro por mais privilegiado que seja.
 
-## **II. – COMPETE À UNIDADE CONCEDENTE:** 
+E por estarem justos e acordados, firmam o presente instrumento, que depois de lido e achado conforme, vai por todos assinados na presença de 02 (duas) testemunhas, em duas vias, de onde serão extraídas as cópias necessárias.
 
-- a) Celebrar termo de compromisso com a instituição de ensino e o educando, zelando por seu cumprimento; 
+186
 
-- b) ofertar instalações que tenham condições de proporcionar ao educando atividades de aprendizagem social, profissional e cultural; 
+INSTITUTOFEDERAL Parana Ministerio da Educacao Curitiba, de de .
 
-- c) Ofertar estágio para estudantes selecionados de comum acordo com a **INSTITUIÇÃO DE ENSINO** , para desenvolver atividades relacionadas com o curso ao qual pertencem; 
+**Odacir Antonio Zanatta** Reitor _Pro Tempore_ do IFPR (cargo)
 
-- d) Indicar funcionário do seu quadro de pessoal, com formação ou experiência, profissional da área de conhecimento desenvolvida no curso do Estagiário, para atender o desenvolvimento do estágio do estudante, para orientar e supervisionar até 10 (dez) estagiários simultaneamente; 
+1ª Testemunha 2ª Testemunha Nome: Nome: CPF: CPF:
 
-- e) Contratar Seguro de Cobertura de Acidentes Pessoais para o Estagiário, conforme legislação em vigor; 
+187
 
-- f) Proporcionar à INSTITUIÇÃO DE ENSINO condições para acompanhamento, a supervisão e 
+## INSTITUTOFEDERAL Parana **TERMO DE RESPONSABILIDADE DO COORDENADOR DE CONVÊNIO**
 
-184 
+Ministerio da Educacao
 
-## INSTITUTOFEDERAL 
+Eu, servidor(a) , CPF/MF nº , na qualidade de coordenador(a) do acordo, objeto do processo nº , DECLARO estar ciente das responsabilidades assumidas, conforme condições abaixo descritas: a) Tomar conhecimento e respeitar as regras e normas do IFPR, bem como, legislação federal aplicável relativa aos procedimentos administrativos cabíveis para a plena execução do projeto, assim como as que regulamentam a proteção de direitos relativos à propriedade industrial e intelectual bem como as demais resoluções aplicáveis ao acordo, zelando pelo mesmo até a efetiva aprovação do relatório final; b) Executar o Plano de Trabalho seguindo os critérios técnicos estabelecidos no instrumento acordado, contribuindo para a sua perfeita execução, durante a vigência e enquanto perdurar os efeitos da execução do respectivo instrumento legal, pelo gerenciamento das atividades técnicas e acadêmicas, com vistas ao pleno desenvolvimento do projeto e a garantir o cumprimento das normas legais, das obrigações e dos fluxos administrativos previstos no instrumento legal, no Plano de Trabalho e nos eventuais aditivos, relativos e pertinentes ao projeto cumprindo todas as condições que me competem e guardando sigilo e confidencialidade sobre o mesmo; c) Manter registro atualizado referente ao controle e acompanhamento do desenvolvimento do ajuste, emitindo relatórios parciais sobre a execução do convênio em períodos não superiores a 12 meses; d) Quando houver interesse no aditamento de prazo do acordo em referência, solicitar à DESUP/PROENS, com antecedência mínima de 90 (noventa) dias do encerramento da vigência, o aditamento de prazo do acordo em referência; e) Apresentar Relatório Final de execução na ocasião de encerramento do convênio.
 
-## Parana 
+Coordenador(a) do Convênio Enviar cópia digital deste termo assinado para DESUP-PROENS. Diretoria de Ensino Superior (DESUP) - PróReitoria de Ensino (PROENS) - IFPR Telefone: (41) 3595-7687 - E-mail: desup.proens@ifpr.edu.br
 
-**==> picture [64 x 9] intentionally omitted <==**
+## ORIENTAÇÕES SOBRE CELEBRAÇÃO DE CONVÊNIO DE ESTÁGIO NÃO ONEROSO DE ENSINO SUPERIOR ENTRE O IFPR E INSTITUIÇÃO PÚBLICA OU PRIVADA.
 
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
+As orientações a seguir versam sobre a celebração de convênio de estágio entre o Campus do IFPR e o Partícipe. O que segue pretende atribuir maior transparência, celeridade e legalidade, e não substitui outras normativas/regulamentos internos ou leis. As informações seguintes estão em consonância com: Resolução IFPR 02/2013 - Regulamento de Estágios do Instituto Federal do Paraná; Lei 11.788/2013 - Dispõe sobre Estágio de Estudantes; Lei 8.666/1993 - Normas para licitações e contratos com a Administração Pública; Lei 9.784/1999 - Regula o processo administrativo na Administração Pública; CF88 - Constituição Federal 1988 CONSIDERAÇÕES INICIAIS: A celebração de convênio de estágio é facultativa (art. 8, lei 11.788/2013), sendo necessário apenas quando o Partícipe o exigir. Entretanto, o Termo de Compromisso é obrigatório para ambas as modalidades de estágios (obrigatório e não obrigatório); Se o convênio é oneroso e/ou não relativo a estágios a demanda deve ser encaminhada à PROPLAN para a Seção de Convênios e seguir as orientações daquela seção (e- mail: proplan@ifpr.edu.br); Não é permitido
 
+## INSTITUTOFEDERAL Parana
 
-avaliação das atividades de estágio do aluno; 
+Ministerio da Educacao
 
-- g) Estabelecer horário da jornada de atividades do Estagiário sem prejuízo as atividades discentes do mesmo, conforme legislação em vigor; 
+a celebração de convênio ―guarda-chuva‖, ou seja, o contrato com objeto genérico; Não é permitido a celebração de convênio no qual o nível de ensino não está definido; O prazo do convênio não pode ser superior a 60 meses (5 anos) considerando todos os aditivos (art. 57, inciso II, da Lei nº 8.666/1993 - aplicável a qualquer contrato administrativo). 1ª ETAPA: Realizar a juntada da seguinte documentação: Memorando do Diretor Geral solicitando a parceria e justificando o pedido de forma que fique evidenciado o interesse institucional (art. 50, lei 9.784/1999); Incluir memorando proveniente das coordenações de curso solicitando motivadamente a celebração do convênio ou ata de  colegiado do Campus com aprovação do plano de trabalho e à celebração de convênio; Ofício da outra Instituição participante, manifestando interesse na celebração do convênio;  Documentação do Partícipe: Diretoria de Ensino Superior (DESUP) - Pró-Reitoria de Ensino  (PROENS) - IFPR Telefone: (41) 3595-7687 - E-mail: desup.proens@ifpr.edu.br;  Atos    constitutivos da entidade participante (contrato social, estatuto social, lei de  criação, etc); ○ Documentação do representante legal (RG e CPF); Portaria de nomeação do representante legal, quando for o caso; ○ Ato de delegação do represente legal, quando for o caso; Certidões  negativas: i) Certidão Negativa de Débitos (CND) da Receita Federal, disponível em: https://idg.receita.fazenda.gov.br/interface/lista-de-servicos/certidoesesituacao-fiscal/certidao- de-regularidade-fiscal ii) Certidão Negativa de Débitos Trabalhistas (CNT) do TST, disponível em: http://www.tst.jus.br/certidao iii) Certidão Negativa do Fundo de Garantia por Tempo de  Serviço (FGTS), disponível em: http://www.fgts.gov.br/empregador/servicos_online/consulta_crf.asp iv) Comprovante  de inscrição cadastral (CNPJ), disponível em: http://www.receita.fazenda.gov.br/pessoajuridica/cnpj/cnpjreva/cnpjreva_solicitacao.asp v) Relatório do CADIN e SICONV - quando possível. Minuta(s) do(s) Termo(s) de Convênio(s), observando: A inclusão da palavra MINUTA à frente do título do termo de convênio; Sem assinatura ou datas; Objeto não genérico; Vigência determinada não superior a 60 meses (art.    57, lei 8.666/1993); Obrigações claras e objetivas; v Foro da Justiça Federal (art. 109, CF 88); Minuta(s) do(s) Termos(s) de Compromisso, observando: A inclusão da palavra ―MINUTA à frente do título do termo de compromisso; Sem assinatura ou datas. Plano de Trabalho em acordo com o Artigo 116 da Lei nº. 8.666/1993, assinado pelo Coordenador do Convênio ou Diretor Geral do Campus e pela outra parte interessada. Vide o §1: § 1º A celebração de convênio, acordo ou ajuste pelos órgãos ou entidades da Administração Pública depende de prévia aprovação de competente plano de trabalho proposto pela organização interessada, o qual deverá conter, no mínimo, as seguintes informações: I - identificação do objeto a ser executado; II - metas a serem atingidas; III - etapas ou fases de execução; IV - plano de aplicação dos recursos financeiros; V - cronograma de desembolso; VI - previsão de início e fim da execução do objeto, bem assim da conclusão das etapas ou fases programadas; VII - se o ajuste compreender obra ou serviço de engenharia, comprovação de que os recursos próprios para complementar a execução do objeto estão devidamente assegurados, salvo se o custo total do empreendimento recair sobre a entidade ou órgão descentralizador. Diretoria de Ensino Superior (DESUP) - Pró-Reitoria de Ensino (PROENS) - IFPR Telefone: (41) 3595-7687 - E-mail: desup.proens@ifpr.edu.br Abrir o processo no SIPAC com o assunto Celebração de Convênio de Estágio entre o IFPR Campus XXX e a instituição YYY. Incluir o Checklist ao processo. Enviar para PROENS/DESUP. 2ª ETAPA: Processo é recebido e avaliado pela PROENS/DESUP, e caso possua inconsistências ou necessidade de retificações é retornado ao Campus para as diligências necessárias; O processo regular é enviado ao Expediente para autorização do Reitor e análise da Procuradoria Federal (PF);
 
-- h) Enviar à INSTITUIÇÃO DE ENSINO, com periodicidade mínima de 06 (seis) meses, relatório de atividades, com vista obrigatória ao estagiário; 
+1
 
-- i) Aplica-se à UNIDADE CONCEDENTE o Art. 12 da Lei n.º 11.788 de 25 de setembro de 2008, que determina que o estagiário poderá receber bolsa ou outra forma de contraprestação que venha a ser acordada, sendo compulsória a sua concessão, bem como a do auxílio-transporte, na hipótese de estágio não obrigatório; 
+## INSTITUTOFEDERAL Parana
 
-- j) por ocasião do desligamento do estagiário, entregar termo de realização do estágio com indicação resumida das atividades desenvolvidas, dos períodos e da avaliação de desempenho; 
+Ministerio da Educacao
 
-- k) manter à disposição da fiscalização documentos que comprovem a relação de estágio. 
+Após análise da PF: Em caso de falta de documentação, inconsistência e/ou necessidade de retificação, o processo será retornando ao Campus para regularização. Após as regularizações, o processo deve retornar a PROENS/DESUP para nova análise; ○ Em caso de aprovação da minuta, o processo será devolvido para ser providenciado pelo Campus: Duas vias do termo definitivo, assinadas pela instituição participante, para coleta de assinaturas na IFPR em acordo com a minuta aprovada pela Procuradoria Federal. É imprescindível que as vias não sejam juntadas ao processo, mas vir junto a este, na forma de apenso; Indicar por meio de Memorando Eletrônico o Coordenador do Convênio com as seguintes informações: nome completo, CPF, SIAPE e e-mail; Retornar à PROENS/DESUP. 3ºETAPA: Processo é recebido e avaliado pela PROENS/DESUP: Será verificado a vigência da documentação, se o termo definitivo está assinado e em acordo com as considerações da Procuradoria Federal. Em caso de necessidade de retificação será retornando ao Campus para regularização. Após as regularizações, o processo deve retornar a PROENS/DESUP para nova análise; O processo regular é enviado ao Expediente para assinatura do Reitor; Ao retornar o processo, a PROENS/DESUP procederá: As anotações de controle; Solicitação da publicação do extrato do convênio no Diário Oficial da União (DOU) à seção responsável; Divulgação no site da PROENS/DESUP; Diretoria de Ensino Superior (DESUP) - Pró-Reitoria de Ensino (PROENS) - IFPR Telefone: (41) 3595-7687 - E-mail: desup.proens@ifpr.edu.br; Anexará ao processo a página do DOU com a publicação; Solicitará a emissão da portaria do coordenador do convênio à seção responsável; O processo é enviado ao Campus para diligências finais. 4º ETAPA: O Campus após receber o processo: Enviará uma das vias do termo assinada para a instituição participante; Coletará a assinatura do Termo de Responsabilidade do Coordenador (disponível no site da PROENS/DESUP), anexará ao processo e enviará uma cópia digital para desup.proens@ifpr.edu.br ou ao email indicado; Arquivará o processo.
 
-**Parágrafo Primeiro** : Desde que solicitado, a **UNIDADE CONCEDENTE** poderá cooperar com a **INSTITUIÇÃO DE ENSINO** fornecendo subsídios para a operacionalização de suas atribuições. 
+CONSIDERAÇÕES FINAIS: Cabe ao Campus o controle do prazo de vigência do convênio. A PROENS/DESUP atua como supervisor e orientador no processo; Em caso de renovação de convênio de estágio (aditivo) é imprescindível que todos os trâmites ocorram dentro do prazo de vigência do último termo válido, sendo a tramitação através da supervisão/orientação da PROENS/DESUP; Mudanças no convênio ou na coordenação devem ser informadas a PROENS/DESUP.
 
-**Parágrafo Segundo:** A **UNIDADE CONCEDENTE** não está autorizada a fornecer documentos e informações relacionadas aos Programas de Estágio sem o prévio consentimento formal da **INSTITUIÇÃO DE ENSINO** . 
-
-**Parágrafo Terceiro:** O estagiário não terá vínculo empregatício com a **UNIDADE CONCEDENTE** conforme legislação em vigor. 
-
-**Parágrafo Quarto:** No caso de estágio obrigatório, a responsabilidade pela contratação do seguro, de que trata a alínea ―c‖ supra, fica a cargo do IFPR. 
-
-## **CLÁUSULA TERCEIRA – DOS RECURSOS** 
-
-O presente Convênio caracteriza-se, por sua natureza, pelo desprovimento de obrigações financeiras entre as partes, respondendo cada uma pelas obrigações que assumir. 
-
-185 
-
-Parana 
-
-## INSTITUTOFEDERAL 
-
-**==> picture [64 x 9] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-Ministerio da Educacao<br>**----- End of picture text -----**<br>
-
-
-## **CLÁUSULA QUARTA – DA VIGÊNCIA** 
-
-O presente Convênio vigorará pelo prazo de 5 (cinco) anos, contados a partir da data da sua assinatura. 
-
-## **CLÁUSULA QUINTA – DA RESCISÃO** 
-
-O presente termo poderá ser rescindido pelo descumprimento das condições pactuadas, ou pela superveniência de norma legal ou fato administrativo que o torne formal ou materialmente inexequível ou por iniciativa de quaisquer das partes, mediante prévio aviso, por escrito, com antecedência mínima de 30 dias. 
-
-**Parágrafo Único:** Na hipótese de rescisão antecipada deste Convênio, os Termos de Compromissos de Estágio ficam automaticamente rescindidos. 
-
-## **CLÁUSULA SEXTA - DA PUBLICAÇÃO** 
-
-A publicação resumida deste instrumento será efetivada por extrato no Diário Oficial da União – DOU, por conta da **INSTITUIÇÃO DE ENSINO** , de acordo com os termos do Art. 17 de IN n°. 01/97 – STN. 
-
-## **CLÁUSULA SÉTIMA - DO FORO** 
-
-As partes elegem o Foro da Justiça Federal, Seção Judiciária do Paraná, Circunscrição de Curitiba para dirimir toda e qualquer dúvida suscitada em razão do presente convênio, excluindo qualquer outro por mais privilegiado que seja. 
-
-E por estarem justos e acordados, firmam o presente instrumento, que depois de lido e achado conforme, vai por todos assinados na presença de 02 (duas) testemunhas, em duas vias, de onde serão extraídas as cópias necessárias. 
-
-186 
-
-INSTITUTOFEDERAL Parana Ministerio da Educacao Curitiba, de de . 
-
-**Odacir Antonio Zanatta** Reitor _Pro Tempore_ do IFPR (cargo) 
-
-1ª Testemunha 2ª Testemunha Nome: Nome: CPF: CPF: 
-
-187 
-
-## INSTITUTOFEDERAL Parana **TERMO DE RESPONSABILIDADE DO COORDENADOR DE CONVÊNIO** 
-
-Ministerio da Educacao 
-
-Eu, servidor(a) , CPF/MF nº , na qualidade de coordenador(a) do acordo, objeto do processo nº , DECLARO estar ciente das responsabilidades assumidas, conforme condições abaixo descritas: a) Tomar conhecimento e respeitar as regras e normas do IFPR, bem como, legislação federal aplicável relativa aos procedimentos administrativos cabíveis para a plena execução do projeto, assim como as que regulamentam a proteção de direitos relativos à propriedade industrial e intelectual bem como as demais resoluções aplicáveis ao acordo, zelando pelo mesmo até a efetiva aprovação do relatório final; b) Executar o Plano de Trabalho seguindo os critérios técnicos estabelecidos no instrumento acordado, contribuindo para a sua perfeita execução, durante a vigência e enquanto perdurar os efeitos da execução do respectivo instrumento legal, pelo gerenciamento das atividades técnicas e acadêmicas, com vistas ao pleno desenvolvimento do projeto e a garantir o cumprimento das normas legais, das obrigações e dos fluxos administrativos previstos no instrumento legal, no Plano de Trabalho e nos eventuais aditivos, relativos e pertinentes ao projeto cumprindo todas as condições que me competem e guardando sigilo e confidencialidade sobre o mesmo; c) Manter registro atualizado referente ao controle e acompanhamento do desenvolvimento do ajuste, emitindo relatórios parciais sobre a execução do convênio em períodos não superiores a 12 meses; d) Quando houver interesse no aditamento de prazo do acordo em referência, solicitar à DESUP/PROENS, com antecedência mínima de 90 (noventa) dias do encerramento da vigência, o aditamento de prazo do acordo em referência; e) Apresentar Relatório Final de execução na ocasião de encerramento do convênio. 
-
-**==> picture [278 x 12] intentionally omitted <==**
-
-Coordenador(a) do Convênio Enviar cópia digital deste termo assinado para DESUP-PROENS. Diretoria de Ensino Superior (DESUP) - PróReitoria de Ensino (PROENS) - IFPR Telefone: (41) 3595-7687 - E-mail: desup.proens@ifpr.edu.br 
-
-## ORIENTAÇÕES SOBRE CELEBRAÇÃO DE CONVÊNIO DE ESTÁGIO NÃO ONEROSO DE ENSINO SUPERIOR ENTRE O IFPR E INSTITUIÇÃO PÚBLICA OU PRIVADA. 
-
-As orientações a seguir versam sobre a celebração de convênio de estágio entre o Campus do IFPR e o Partícipe. O que segue pretende atribuir maior transparência, celeridade e legalidade, e não substitui outras normativas/regulamentos internos ou leis. As informações seguintes estão em consonância com: Resolução IFPR 02/2013 - Regulamento de Estágios do Instituto Federal do Paraná; Lei 11.788/2013 - Dispõe sobre Estágio de Estudantes; Lei 8.666/1993 - Normas para licitações e contratos com a Administração Pública; Lei 9.784/1999 - Regula o processo administrativo na Administração Pública; CF88 - Constituição Federal 1988 CONSIDERAÇÕES INICIAIS: A celebração de convênio de estágio é facultativa (art. 8, lei 11.788/2013), sendo necessário apenas quando o Partícipe o exigir. Entretanto, o Termo de Compromisso é obrigatório para ambas as modalidades de estágios (obrigatório e não obrigatório); Se o convênio é oneroso e/ou não relativo a estágios a demanda deve ser encaminhada à PROPLAN para a Seção de Convênios e seguir as orientações daquela seção (e- mail: proplan@ifpr.edu.br); Não é permitido 
-
-## INSTITUTOFEDERAL Parana 
-
-Ministerio da Educacao 
-
-a celebração de convênio ―guarda-chuva‖, ou seja, o contrato com objeto genérico; Não é permitido a celebração de convênio no qual o nível de ensino não está definido; O prazo do convênio não pode ser superior a 60 meses (5 anos) considerando todos os aditivos (art. 57, inciso II, da Lei nº 8.666/1993 - aplicável a qualquer contrato administrativo). 1ª ETAPA: Realizar a juntada da seguinte documentação: Memorando do Diretor Geral solicitando a parceria e justificando o pedido de forma que fique evidenciado o interesse institucional (art. 50, lei 9.784/1999); Incluir memorando proveniente das coordenações de curso solicitando motivadamente a celebração do convênio ou ata de  colegiado do Campus com aprovação do plano de trabalho e à celebração de convênio; Ofício da outra Instituição participante, manifestando interesse na celebração do convênio;  Documentação do Partícipe: Diretoria de Ensino Superior (DESUP) - Pró-Reitoria de Ensino  (PROENS) - IFPR Telefone: (41) 3595-7687 - E-mail: desup.proens@ifpr.edu.br;  Atos    constitutivos da entidade participante (contrato social, estatuto social, lei de  criação, etc); ○ Documentação do representante legal (RG e CPF); Portaria de nomeação do representante legal, quando for o caso; ○ Ato de delegação do represente legal, quando for o caso; Certidões  negativas: i) Certidão Negativa de Débitos (CND) da Receita Federal, disponível em: https://idg.receita.fazenda.gov.br/interface/lista-de-servicos/certidoesesituacao-fiscal/certidao- de-regularidade-fiscal ii) Certidão Negativa de Débitos Trabalhistas (CNT) do TST, disponível em: http://www.tst.jus.br/certidao iii) Certidão Negativa do Fundo de Garantia por Tempo de  Serviço (FGTS), disponível em: http://www.fgts.gov.br/empregador/servicos_online/consulta_crf.asp iv) Comprovante  de inscrição cadastral (CNPJ), disponível em: http://www.receita.fazenda.gov.br/pessoajuridica/cnpj/cnpjreva/cnpjreva_solicitacao.asp v) Relatório do CADIN e SICONV - quando possível. Minuta(s) do(s) Termo(s) de Convênio(s), observando: A inclusão da palavra MINUTA à frente do título do termo de convênio; Sem assinatura ou datas; Objeto não genérico; Vigência determinada não superior a 60 meses (art.    57, lei 8.666/1993); Obrigações claras e objetivas; v Foro da Justiça Federal (art. 109, CF 88); Minuta(s) do(s) Termos(s) de Compromisso, observando: A inclusão da palavra ―MINUTA à frente do título do termo de compromisso; Sem assinatura ou datas. Plano de Trabalho em acordo com o Artigo 116 da Lei nº. 8.666/1993, assinado pelo Coordenador do Convênio ou Diretor Geral do Campus e pela outra parte interessada. Vide o §1: § 1º A celebração de convênio, acordo ou ajuste pelos órgãos ou entidades da Administração Pública depende de prévia aprovação de competente plano de trabalho proposto pela organização interessada, o qual deverá conter, no mínimo, as seguintes informações: I - identificação do objeto a ser executado; II - metas a serem atingidas; III - etapas ou fases de execução; IV - plano de aplicação dos recursos financeiros; V - cronograma de desembolso; VI - previsão de início e fim da execução do objeto, bem assim da conclusão das etapas ou fases programadas; VII - se o ajuste compreender obra ou serviço de engenharia, comprovação de que os recursos próprios para complementar a execução do objeto estão devidamente assegurados, salvo se o custo total do empreendimento recair sobre a entidade ou órgão descentralizador. Diretoria de Ensino Superior (DESUP) - Pró-Reitoria de Ensino (PROENS) - IFPR Telefone: (41) 3595-7687 - E-mail: desup.proens@ifpr.edu.br Abrir o processo no SIPAC com o assunto Celebração de Convênio de Estágio entre o IFPR Campus XXX e a instituição YYY. Incluir o Checklist ao processo. Enviar para PROENS/DESUP. 2ª ETAPA: Processo é recebido e avaliado pela PROENS/DESUP, e caso possua inconsistências ou necessidade de retificações é retornado ao Campus para as diligências necessárias; O processo regular é enviado ao Expediente para autorização do Reitor e análise da Procuradoria Federal (PF); 
-
-1 
-
-## INSTITUTOFEDERAL Parana 
-
-Ministerio da Educacao 
-
-Após análise da PF: Em caso de falta de documentação, inconsistência e/ou necessidade de retificação, o processo será retornando ao Campus para regularização. Após as regularizações, o processo deve retornar a PROENS/DESUP para nova análise; ○ Em caso de aprovação da minuta, o processo será devolvido para ser providenciado pelo Campus: Duas vias do termo definitivo, assinadas pela instituição participante, para coleta de assinaturas na IFPR em acordo com a minuta aprovada pela Procuradoria Federal. É imprescindível que as vias não sejam juntadas ao processo, mas vir junto a este, na forma de apenso; Indicar por meio de Memorando Eletrônico o Coordenador do Convênio com as seguintes informações: nome completo, CPF, SIAPE e e-mail; Retornar à PROENS/DESUP. 3ºETAPA: Processo é recebido e avaliado pela PROENS/DESUP: Será verificado a vigência da documentação, se o termo definitivo está assinado e em acordo com as considerações da Procuradoria Federal. Em caso de necessidade de retificação será retornando ao Campus para regularização. Após as regularizações, o processo deve retornar a PROENS/DESUP para nova análise; O processo regular é enviado ao Expediente para assinatura do Reitor; Ao retornar o processo, a PROENS/DESUP procederá: As anotações de controle; Solicitação da publicação do extrato do convênio no Diário Oficial da União (DOU) à seção responsável; Divulgação no site da PROENS/DESUP; Diretoria de Ensino Superior (DESUP) - Pró-Reitoria de Ensino (PROENS) - IFPR Telefone: (41) 3595-7687 - E-mail: desup.proens@ifpr.edu.br; Anexará ao processo a página do DOU com a publicação; Solicitará a emissão da portaria do coordenador do convênio à seção responsável; O processo é enviado ao Campus para diligências finais. 4º ETAPA: O Campus após receber o processo: Enviará uma das vias do termo assinada para a instituição participante; Coletará a assinatura do Termo de Responsabilidade do Coordenador (disponível no site da PROENS/DESUP), anexará ao processo e enviará uma cópia digital para desup.proens@ifpr.edu.br ou ao email indicado; Arquivará o processo. 
-
-CONSIDERAÇÕES FINAIS: Cabe ao Campus o controle do prazo de vigência do convênio. A PROENS/DESUP atua como supervisor e orientador no processo; Em caso de renovação de convênio de estágio (aditivo) é imprescindível que todos os trâmites ocorram dentro do prazo de vigência do último termo válido, sendo a tramitação através da supervisão/orientação da PROENS/DESUP; Mudanças no convênio ou na coordenação devem ser informadas a PROENS/DESUP. 
-
-2 
+2
 

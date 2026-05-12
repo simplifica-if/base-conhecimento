@@ -1,18 +1,16 @@
-22/07/2019 
+22/07/2019
 
-SEI/IFPR - 0340642 - Portaria 
+SEI/IFPR - 0340642 - Portaria
 
-Boletim de Serviço Eletrônico em 26/06/2019 
+Boletim de Serviço Eletrônico em 26/06/2019
 
-**==> picture [267 x 41] intentionally omitted <==**
+PORTARIA Nº 109, DE 25 DE JUNHO DE 2019
 
-PORTARIA Nº 109, DE 25 DE JUNHO DE 2019 
+O Pró-reitor de Ensino do Ins�tuto Federal do Paraná, no uso das atribuições que lhe são conferidas pela Portaria IFPR 1224, de 29 de setembro de 2017, publicada no Diário Oficial da União de 2 de outubro de 2017, Seção 2, p. 25.
 
-O Pró-reitor de Ensino do Ins�tuto Federal do Paraná, no uso das atribuições que lhe são conferidas pela Portaria IFPR 1224, de 29 de setembro de 2017, publicada no Diário Oficial da União de 2 de outubro de 2017, Seção 2, p. 25. 
+## RESOLVE:
 
-## RESOLVE: 
-
-Art. 1º - Autorizar o  funcionamento do **Curso Superior de Tecnologia em Gastronomia** , do Campus Foz do Iguaçu, do IFPR, a par�r do ano le�vo de 2020, conforme as caracterís�cas a seguir: 
+Art. 1º - Autorizar o  funcionamento do **Curso Superior de Tecnologia em Gastronomia** , do Campus Foz do Iguaçu, do IFPR, a par�r do ano le�vo de 2020, conforme as caracterís�cas a seguir:
 
 |||
 |---|---|
@@ -25,81 +23,63 @@ Art. 1º - Autorizar o  funcionamento do **Curso Superior de Tecnologia em Gastr
 |CARGA HORÁRIA|1.916 horas|
 |||
 
+Art. 3º - Esta portaria entra em vigor na data de sua publicação.
 
+Documento assinado eletronicamente por **AMARILDO PINHEIRO MAGALHAES** , **Pro-Reitor(a)** , em 25/06/2019, às 17:57, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015.
 
-Art. 3º - Esta portaria entra em vigor na data de sua publicação. 
+A auten�cidade deste documento pode ser conferida no site h�ps://sei.ifpr.edu.br/sei/controlador_externo.php? acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador **0340642** e o código CRC **DCCF0E09** .
 
-**==> picture [56 x 37] intentionally omitted <==**
+**Referência:** Processo nº 23411.006577/2018-26 INSTITUTO FEDERAL DO PARANÁ | PROENS/REITORIA-PROENS Av. Victor Ferreira do Amaral, 306,3º Andar  Curi�ba - PR | CEP CEP 82530-230  - Brasil
 
-Documento assinado eletronicamente por **AMARILDO PINHEIRO MAGALHAES** , **Pro-Reitor(a)** , em 25/06/2019, às 17:57, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto nº 8.539, de 8 de outubro de 2015. 
+SEI nº 0340642
 
-**==> picture [54 x 54] intentionally omitted <==**
+https://sei.ifpr.edu.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=362105&infra_sistem… 1/1
 
-A auten�cidade deste documento pode ser conferida no site h�ps://sei.ifpr.edu.br/sei/controlador_externo.php? acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador **0340642** e o código CRC **DCCF0E09** . 
+**MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO SUPERIOR INSTITUTO FEDERAL DO PARANÁ PRÓ - REITORIA DE ENSINO DIRETORIA DE ENSINO SUPERIOR**
 
-**Referência:** Processo nº 23411.006577/2018-26 INSTITUTO FEDERAL DO PARANÁ | PROENS/REITORIA-PROENS Av. Victor Ferreira do Amaral, 306,3º Andar  Curi�ba - PR | CEP CEP 82530-230  - Brasil 
+## **PROJETO PEDAGÓGICO DO CURSO SUPERIOR DE TECNOLOGIA EM GASTRONOMIA**
 
-SEI nº 0340642 
+**AUTORIZADO PELA RESOLUÇÃO  N°19 DE  13 DE JUNHO DE 2019**
 
-https://sei.ifpr.edu.br/sei/controlador.php?acao=documento_imprimir_web&acao_origem=arvore_visualizar&id_documento=362105&infra_sistem… 1/1 
+**1** Foz do Iguaçu 2019
 
-**==> picture [471 x 55] intentionally omitted <==**
+## **INSTITUTO FEDERAL DO PARANÁ**
 
-**MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO SUPERIOR INSTITUTO FEDERAL DO PARANÁ PRÓ - REITORIA DE ENSINO DIRETORIA DE ENSINO SUPERIOR** 
+## **Reitor**
 
-## **PROJETO PEDAGÓGICO DO CURSO SUPERIOR DE TECNOLOGIA EM GASTRONOMIA** 
+Odacir Antonio Zanatta
 
-**AUTORIZADO PELA RESOLUÇÃO  N°19 DE  13 DE JUNHO DE 2019** 
+## **Pró-Reitor de Ensino**
 
-**1** Foz do Iguaçu 2019 
+Amarildo Pinheiro Magalhães
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **Diretor/a de Ensino Superior**
 
-## **INSTITUTO FEDERAL DO PARANÁ** 
+Paulo César Medeiros
 
-## **Reitor** 
+## **Coordenador/a de Cursos Tecnólogos e Bacharelados**
 
-Odacir Antonio Zanatta 
+Claudia Dell’ Agnolo Petry
 
-## **Pró-Reitor de Ensino** 
+## **Direção Geral do Campus Alcione Benacchio**
 
-Amarildo Pinheiro Magalhães 
+**Direção de Ensino, Pesquisa e Extensão do Campus Camila Castello Branco de Almeida Porto**
 
-## **Diretor/a de Ensino Superior** 
+## **Coordenador de Curso**
 
-Paulo César Medeiros 
+## **Núcleo Docente Estruturante**
 
-## **Coordenador/a de Cursos Tecnólogos e Bacharelados** 
+Paola Stefannutti Gislaine Silveira Simões Raphael M. M. Cruz Thiago Henrique Lopes Lauisa Barbosa Pinto
 
-Claudia Dell’ Agnolo Petry 
+## **Comissão de Estruturação de Curso**
 
-## **Direção Geral do Campus Alcione Benacchio** 
+Thiago Henrique Lopes Camila Castello Branco de Almeida Porto Gislaine Silveira Simões Nelson de Castro Neto Raphael Miranda Medeiros Cruz Kayla Walquiria Garmus Talitha Perez Bianchini Kathleen Dall Bello de Souza Risson Márcia Helena Beck Luiz Fernando França
 
-**Direção de Ensino, Pesquisa e Extensão do Campus Camila Castello Branco de Almeida Porto** 
+Hugo Avelar Cardoso Pires Flávio Lúcio Alves Pedrosa Anastasia Brand Steckling Ana Carolina Pimenta José Henrique de Oliveira
 
-## **Coordenador de Curso** 
+## **Colegiado de Gestão Pedagógica de Curso**
 
-## **Núcleo Docente Estruturante** 
-
-Paola Stefannutti Gislaine Silveira Simões Raphael M. M. Cruz Thiago Henrique Lopes Lauisa Barbosa Pinto 
-
-## **Comissão de Estruturação de Curso** 
-
-Thiago Henrique Lopes Camila Castello Branco de Almeida Porto Gislaine Silveira Simões Nelson de Castro Neto Raphael Miranda Medeiros Cruz Kayla Walquiria Garmus Talitha Perez Bianchini Kathleen Dall Bello de Souza Risson Márcia Helena Beck Luiz Fernando França 
-
-2 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-Hugo Avelar Cardoso Pires Flávio Lúcio Alves Pedrosa Anastasia Brand Steckling Ana Carolina Pimenta José Henrique de Oliveira 
-
-## **Colegiado de Gestão Pedagógica de Curso** 
-
-Thiago Henrique Lopes Gislaine Silveira Simões Paola Stefanutti Raphael Miranda Medeiros Cruz Lauisa Barbosa Pinto Kayla Walquíria Garmus Talitha Perez Bianchini José Henrique de Oliveira 
-
-3 
-
-**==> picture [472 x 55] intentionally omitted <==**
+Thiago Henrique Lopes Gislaine Silveira Simões Paola Stefanutti Raphael Miranda Medeiros Cruz Lauisa Barbosa Pinto Kayla Walquíria Garmus Talitha Perez Bianchini José Henrique de Oliveira
 
 |**1.APRESENTAÇÃO DO PROJETO**|**6**|
 |---|---|
@@ -135,9 +115,7 @@ Thiago Henrique Lopes Gislaine Silveira Simões Paola Stefanutti Raphael Miranda
 |2.3.1 A Responsabilidade Social do Curso|11|
 |2.3.2 Meio Ambiente e Desenvolvimento Humano|12|
 
-
-
-4 
+4
 
 |2.3.3 Memória , Patrimônio Artstco e Cultural|12|
 |---|---|
@@ -175,12 +153,6 @@ Thiago Henrique Lopes Gislaine Silveira Simões Paola Stefanutti Raphael Miranda
 |4.6 TRABALHO DE CONCLUSÃO DE CURSO|23|
 |4.7 ATIVIDADES COMPLEMENTARES|24|
 
-
-
-5 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |**5.**|**POLÍTICAS DE ATENDIMENTO AOS ESTUDANTES**|**24**|
 |---|---|---|
 ||5.1 FORMAS DE ACESSO E PERMANÊNCIA|24|
@@ -216,12 +188,6 @@ Thiago Henrique Lopes Gislaine Silveira Simões Paola Stefanutti Raphael Miranda
 ||7.7 BIBLIOTECA|30|
 |**8.**|**PLANEJAMENTO ECONÔMICO E SUSTENTABILIDADE  FINANCEIRA**|**30**|
 
-
-
-6 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |8.1 EXPANSÃO DO QUADRO DOCENTE|31|
 |---|---|
 |8.2 PROJEÇÃO DE AQUISIÇÃO DE MATERIAIS PERMANENTE E CONSUMO|31|
@@ -233,979 +199,805 @@ Thiago Henrique Lopes Gislaine Silveira Simões Paola Stefanutti Raphael Miranda
 |APÊNDICE C - REGULAMENTO DE ATIVIDADES COMPLEMENTARES|32|
 |**ANEXOS**|**33**|
 
+## **1.APRESENTAÇÃO DO PROJETO**
 
+## 1.1 IDENTIFICAÇÃO
 
-7 
+## **1.1.1 Denominação do Curso**
 
-**==> picture [472 x 55] intentionally omitted <==**
+Curso Superior de Tecnologia em Gastronomia
 
-## **1.APRESENTAÇÃO DO PROJETO** 
+## **1.1.2 Área do Conhecimento/Eixo Tecnológico**
 
-## 1.1 IDENTIFICAÇÃO 
+60000007 – Ciências Sociais Aplicadas 61300004 – Turismo, Hospitalidade e Lazer
 
-## **1.1.1 Denominação do Curso** 
+## **1.1.3 Modalidade**
 
-Curso Superior de Tecnologia em Gastronomia 
+Presencial
 
-## **1.1.2 Área do Conhecimento/Eixo Tecnológico** 
+## **1.1.4 Grau**
 
-60000007 – Ciências Sociais Aplicadas 61300004 – Turismo, Hospitalidade e Lazer 
+Tecnologia
 
-## **1.1.3 Modalidade** 
+## **1.1.5 Regime Letivo (Periodicidade)**
 
-Presencial 
+Semestral
 
-## **1.1.4 Grau** 
+## **1.1.6 Turno principal do curso**
 
-Tecnologia 
+Matutino e vespertino
 
-## **1.1.5 Regime Letivo (Periodicidade)** 
+## **1.1.7 Horário de oferta do curso**
 
-Semestral 
+Matutno (4 aulas de 50 minutos) 08h20 às 09h10 09h10 às 10h00 (intervalo 20 minutos)* 10h20 às 11h10 11h10 às 12h00 (intervalo 30 minutos)* Vespertno (2 aulas de 50 minutos)** 12h30 às 13h20 13h20 às 14h10 *Nos dias de aulas práticas o horário de intervalo poderá ser alterado ou suprimido devido à especificidade das práticas realizadas, porém a carga horária diária será respeitada.
 
-## **1.1.6 Turno principal do curso** 
+**A carga horária diária do curso poderá atender especificidades das disciplinas ou dinâmicas de ensino, e podem ser alteradas, alocando aulas somente no turno matutino ou vespertino.
 
-Matutino e vespertino 
+## **1.1.8 Prazo de Integralização Curricular**
 
-## **1.1.7 Horário de oferta do curso** 
+Prazo mínimo para integralização curricular: 2 anos Prazo máximo: 3 anos
 
-Matutno (4 aulas de 50 minutos) 08h20 às 09h10 09h10 às 10h00 (intervalo 20 minutos)* 10h20 às 11h10 11h10 às 12h00 (intervalo 30 minutos)* Vespertno (2 aulas de 50 minutos)** 12h30 às 13h20 13h20 às 14h10 *Nos dias de aulas práticas o horário de intervalo poderá ser alterado ou suprimido devido à especificidade das práticas realizadas, porém a carga horária diária será respeitada. 
+## **1.1.9 Carga-Horário total do Curso**
 
-**A carga horária diária do curso poderá atender especificidades das disciplinas ou dinâmicas de ensino, e podem ser alteradas, alocando aulas somente no turno matutino ou vespertino. 
+Componentes curriculares – 1616h Atividades complementares – 100h Estágio supervisionado – 200h _Carga horária total do curso - 1916h_
 
-8 
+## **1.1.10 Vagas totais (anual)**
 
-**==> picture [472 x 55] intentionally omitted <==**
+44 (quarenta e quatro), sendo 40 brasileiros e 4 estrangeiros
 
-## **1.1.8 Prazo de Integralização Curricular** 
+## **1.1.11 Escolaridade mínima exigida**
 
-Prazo mínimo para integralização curricular: 2 anos Prazo máximo: 3 anos 
+Ensino Médio completo
 
-## **1.1.9 Carga-Horário total do Curso** 
+## **1.1.12 Coordenador**
 
-Componentes curriculares – 1616h Atividades complementares – 100h Estágio supervisionado – 200h _Carga horária total do curso - 1916h_ 
+Nome: Titulação Máxima: Regime de Trabalho:
 
-## **1.1.10 Vagas totais (anual)** 
+## **1.1.13 Coordenador substituto (se houver)**
 
-44 (quarenta e quatro), sendo 40 brasileiros e 4 estrangeiros 
+Nome: Titulação Máxima: Regime de Trabalho:
 
-## **1.1.11 Escolaridade mínima exigida** 
+## **1.1.14 Endereço de Oferta**
 
-Ensino Médio completo 
+Campus: Instituto Federal do Paraná – Campus Foz do Iguaçu Rua e número: Avenida Araucária, 780 Bairro: Vila A Cidade: Foz do Iguaçu UF: Paraná CEP: 85860-000
 
-## **1.1.12 Coordenador** 
+## 1.2 CONTEXTO HISTÓRICO DO PROJETO NO IFPR
 
-Nome: Titulação Máxima: Regime de Trabalho: 
+## **1.2.1 O Instituto Federal do Paraná**
 
-## **1.1.13 Coordenador substituto (se houver)** 
+O Instituto Federal do Paraná – IFPR, de acordo com o seu Estatuto (Resolução 013/2011 – CONSUP) foi criado nos termos da Lei n.º 11.892, de 29 de dezembro de 2008, vinculado ao Ministério da Educação, possui natureza jurídica de autarquia, sendo detentor de autonomia administrativa, patrimonial, financeira, didático-pedagógica e disciplinar.
 
-Nome: Titulação Máxima: Regime de Trabalho: 
+O Art. 2º da Lei 11.982/2008 caracteriza os Institutos Federais como sendo:
 
-## **1.1.14 Endereço de Oferta** 
+“[…]  instituições  de  educação  superior,  básica  e  profissional,  pluricurriculares  e multicampi,  especializados  na  oferta  de  educação  profissional  e  tecnológica  nas diferentes modalidades de ensino, com base na conjugação de conhecimentos técnicos e tecnológicos com as suas práticas pedagógicas […]”
 
-Campus: Instituto Federal do Paraná – Campus Foz do Iguaçu Rua e número: Avenida Araucária, 780 Bairro: Vila A Cidade: Foz do Iguaçu UF: Paraná CEP: 85860-000 
+As finalidades e características dos Institutos Federais e, portanto, do Instituto Federal do Paraná (IFPR), são descritas nos incisos do Art. 6º da referida Lei, como sendo:
 
-9 
+I - ofertar educação profissional e tecnológica, em todos os seus níveis e modalidades, formando e qualificando cidadãos com vistas na atuação profissional nos diversos setores da economia, com ênfase no desenvolvimento socioeconômico local, regional e nacional;
 
-**==> picture [472 x 55] intentionally omitted <==**
+II - desenvolver a educação profissional e tecnológica como processo educativo e investigativo de geração e adaptação de soluções técnicas e tecnológicas às demandas sociais e peculiaridades regionais;
 
-## 1.2 CONTEXTO HISTÓRICO DO PROJETO NO IFPR 
+III  -  promover  a  integração  e  a  verticalização  da  educação  básica  à  educação profissional e educação superior, otimizando a infraestrutura física, os quadros de pessoal e os recursos de gestão;
 
-## **1.2.1 O Instituto Federal do Paraná** 
+IV - orientar sua oferta formativa em benefício da consolidação e fortalecimento dos arranjos produtivos, sociais e culturais locais, identificados com base no mapeamento das potencialidades de desenvolvimento socioeconômico e cultural no  âmbito  de atuação do Instituto Federal;
 
-O Instituto Federal do Paraná – IFPR, de acordo com o seu Estatuto (Resolução 013/2011 – CONSUP) foi criado nos termos da Lei n.º 11.892, de 29 de dezembro de 2008, vinculado ao Ministério da Educação, possui natureza jurídica de autarquia, sendo detentor de autonomia administrativa, patrimonial, financeira, didático-pedagógica e disciplinar. 
+V - constituir-se em centro de excelência na oferta do ensino de ciências, em geral, e de ciências aplicadas, em particular, estimulando o desenvolvimento de espírito crítico, voltado à investigação empírica;
 
-O Art. 2º da Lei 11.982/2008 caracteriza os Institutos Federais como sendo: 
+VI - qualificar-se como centro de referência no apoio à oferta do ensino de ciências nas instituições  públicas  de  ensino,  oferecendo  capacitação  técnica  e  atualização pedagógica aos docentes das redes públicas de ensino;
 
-“[…]  instituições  de  educação  superior,  básica  e  profissional,  pluricurriculares  e multicampi,  especializados  na  oferta  de  educação  profissional  e  tecnológica  nas diferentes modalidades de ensino, com base na conjugação de conhecimentos técnicos e tecnológicos com as suas práticas pedagógicas […]” 
+VII - desenvolver programas de extensão e de divulgação científica e tecnológica; VIII - realizar e estimular a pesquisa aplicada, a produção cultural, o empreendedorismo, o cooperativismo e o desenvolvimento científico e tecnológico; IX - promover a produção, o desenvolvimento e a transferência de tecnologias sociais,
 
-As finalidades e características dos Institutos Federais e, portanto, do Instituto Federal do Paraná (IFPR), são descritas nos incisos do Art. 6º da referida Lei, como sendo: 
+notadamente as voltadas à preservação do meio ambiente.
 
-I - ofertar educação profissional e tecnológica, em todos os seus níveis e modalidades, formando e qualificando cidadãos com vistas na atuação profissional nos diversos setores da economia, com ênfase no desenvolvimento socioeconômico local, regional e nacional; 
+A partir disso, estabelecem-se os objetivos dos Institutos Federais, descritos no Art. 7º da mesma lei:
 
-II - desenvolver a educação profissional e tecnológica como processo educativo e investigativo de geração e adaptação de soluções técnicas e tecnológicas às demandas sociais e peculiaridades regionais; 
+I - ministrar educação profissional técnica de nível médio, prioritariamente na forma de cursos integrados, para os concluintes do ensino fundamental e para o público da educação de jovens e adultos;
 
-III  -  promover  a  integração  e  a  verticalização  da  educação  básica  à  educação profissional e educação superior, otimizando a infraestrutura física, os quadros de pessoal e os recursos de gestão; 
+II - ministrar cursos de formação inicial e continuada de trabalhadores, objetivando a capacitação, o aperfeiçoamento, a especialização e a atualização de profissionais, em todos os níveis de escolaridade, nas áreas da educação profissional e tecnológica; III - realizar pesquisas aplicadas, estimulando o desenvolvimento de soluções técnicas e tecnológicas, estendendo seus benefícios à comunidade; IV - desenvolver atividades de extensão de acordo com os princípios e finalidades da educação profissional e tecnológica, em articulação com o mundo do trabalho e os segmentos  sociais,  e  com  ênfase  na  produção,  desenvolvimento  e  difusão  de conhecimentos científicos e tecnológicos;
 
-IV - orientar sua oferta formativa em benefício da consolidação e fortalecimento dos arranjos produtivos, sociais e culturais locais, identificados com base no mapeamento das potencialidades de desenvolvimento socioeconômico e cultural no  âmbito  de atuação do Instituto Federal; 
+V - estimular e apoiar processos educativos que levem à geração de trabalho e renda e à emancipação do cidadão na perspectiva do desenvolvimento socioeconômico local e regional; e
 
-V - constituir-se em centro de excelência na oferta do ensino de ciências, em geral, e de ciências aplicadas, em particular, estimulando o desenvolvimento de espírito crítico, voltado à investigação empírica; 
+VI - ministrar em nível de educação superior.
 
-VI - qualificar-se como centro de referência no apoio à oferta do ensino de ciências nas instituições  públicas  de  ensino,  oferecendo  capacitação  técnica  e  atualização pedagógica aos docentes das redes públicas de ensino; 
+O grande diferencial dos Institutos Federais é a oferta de todos os níveis de ensino na mesma instituição. Pela primeira vez, é possível oferecer, no mesmo local, desde a Educação Básica (cursos de nível médio e técnico) até a Pós-Graduação (especialização, mestrado e doutorado). O Ensino Superior é ministrado nos Institutos Federais, observando o disposto nas alíneas do Art.7º, inciso VI, que dá a abrangência de atuação desse nível nas instituições vinculadas à Rede Federal de Educação, Ciência e Tecnologia:
 
-VII - desenvolver programas de extensão e de divulgação científica e tecnológica; VIII - realizar e estimular a pesquisa aplicada, a produção cultural, o empreendedorismo, o cooperativismo e o desenvolvimento científico e tecnológico; IX - promover a produção, o desenvolvimento e a transferência de tecnologias sociais, 
+a)  cursos  superiores  de  tecnologia  visando  à  formação  de  profissionais  para  os diferentes setores da economia;
 
-10 
+b) cursos de licenciatura, bem como programas especiais de formação pedagógica, com vistas na formação de professores para a educação básica, sobretudo nas áreas de ciências e matemática, e para a educação profissional;
 
-**==> picture [472 x 55] intentionally omitted <==**
+c) cursos de bacharelado e engenharia, visando à formação de profissionais para os diferentes setores da economia e áreas do conhecimento;
 
-notadamente as voltadas à preservação do meio ambiente. 
+d) cursos de pós-graduação lato sensu de aperfeiçoamento e especialização, visando à formação de especialistas nas diferentes áreas do conhecimento; e
 
-A partir disso, estabelecem-se os objetivos dos Institutos Federais, descritos no Art. 7º da mesma lei: 
+e) cursos de pós-graduação stricto sensu de mestrado e doutorado, que contribuam para promover o estabelecimento de bases sólidas em educação, ciência e tecnologia, com vistas no processo de geração e inovação tecnológica.
 
-I - ministrar educação profissional técnica de nível médio, prioritariamente na forma de cursos integrados, para os concluintes do ensino fundamental e para o público da educação de jovens e adultos; 
+A história do Instituto Federal do Paraná está intimamente ligada a própria história de Curitiba. O processo de desenvolvimento socioespacial da cidade e a chegada dos imigrantes alemães foram alguns dos muitos fatores que contribuíram para a gênese e a evolução da Educação no estado do Paraná. A história do Instituto Federal do Paraná pode ser apresentada em quatro períodos distintos.
 
-II - ministrar cursos de formação inicial e continuada de trabalhadores, objetivando a capacitação, o aperfeiçoamento, a especialização e a atualização de profissionais, em todos os níveis de escolaridade, nas áreas da educação profissional e tecnológica; III - realizar pesquisas aplicadas, estimulando o desenvolvimento de soluções técnicas e tecnológicas, estendendo seus benefícios à comunidade; IV - desenvolver atividades de extensão de acordo com os princípios e finalidades da educação profissional e tecnológica, em articulação com o mundo do trabalho e os segmentos  sociais,  e  com  ênfase  na  produção,  desenvolvimento  e  difusão  de conhecimentos científicos e tecnológicos; 
+O primeiro teve início em 1869 com a fundação da Escola Alemã, cujo objetivo era atender os filhos dos alemães instalados na cidade. Porém, com o tempo, passou a atender também os brasileiros.
 
-V - estimular e apoiar processos educativos que levem à geração de trabalho e renda e à emancipação do cidadão na perspectiva do desenvolvimento socioeconômico local e regional; e 
+Com os conflitos provocados pela Primeira Guerra Mundial a comunidade brasileira conquistou o espaço da referida escola por meio da liderança do professor Fernando Augusto Moreira. Após a intervenção, a escola passou a chamar-se Colégio Progresso ou Academia Comercial  Progresso.  O  professor  Fernando  foi  o  primeiro  diretor,  contribuindo  para  o fortalecimento do ensino público e este momento marcou o segundo período da Educação no estado do Paraná.
 
-VI - ministrar em nível de educação superior. 
+A transição para o terceiro período aconteceu com a aquisição do Colégio Progresso pela Faculdade de Direito da Universidade do Paraná, que a partir de então foi denominada Escola Técnica de Comércio, vinculada à Faculdade de Direito da Universidade do Paraná. Ela foi federalizada em 1950 e passando à denominação de Universidade Federal do Paraná – UFPR. Entre os períodos de 1974 e 1997, a Escola Técnica do Comércio passou por reformulações e mudanças de nomenclatura quando, finalmente, foi elevada à categoria de setor da UFPR.
 
-O grande diferencial dos Institutos Federais é a oferta de todos os níveis de ensino na mesma instituição. Pela primeira vez, é possível oferecer, no mesmo local, desde a Educação Básica (cursos de nível médio e técnico) até a Pós-Graduação (especialização, mestrado e doutorado). O Ensino Superior é ministrado nos Institutos Federais, observando o disposto nas alíneas do Art.7º, inciso VI, que dá a abrangência de atuação desse nível nas instituições vinculadas à Rede Federal de Educação, Ciência e Tecnologia: 
+Um marco histórico que iniciou o quarto período para a Escola Técnica acontece em 19 de março de 2008, quando a mesma foi desvinculada da UFPR para aderir, sediar e implantar o Instituto Federal por meio de autorização concedida pelo Conselho Universitário da UFPR, que autorizou a implantação do Instituto Federal do Paraná a partir da Escola Técnica.
 
-a)  cursos  superiores  de  tecnologia  visando  à  formação  de  profissionais  para  os diferentes setores da economia; 
+O Instituto Federal do Paraná (IFPR) conta hoje com 20 campi, cinco campi avançado e três campi avançado em implantação, ofertando cursos em nível médio, técnico e superior, além da oferta de cursos na modalidade à distância em cerca de 400 polos no Paraná e outros 200 em praticamente todas as unidades da Federação.
 
-b) cursos de licenciatura, bem como programas especiais de formação pedagógica, com vistas na formação de professores para a educação básica, sobretudo nas áreas de ciências e matemática, e para a educação profissional; 
+Os campi do IFPR estão localizados nos municípios de Assis Chateaubriand, Campo Largo, Curitiba, Capanema, Cascavel, Colombo, Foz do Iguaçu, Irati, Ivaiporã, Jacarezinho, Jaguariaíva, Londrina, Palmas, Paranaguá, Paranavaí, Pinhais, Pitanga, Telêmaco Borba, Umuarama e União da Vitória. Também é constituído por 5 novas Unidades de Educação Profissional (UEP) em Barracão, Quedas do Iguaçu, Coronel Vivida, Astorga e Goioerê, o que potencializa ainda mais o acesso da população à educação profissional, científica e tecnológica pública e de qualidade (www.ifpr.edu.br).
 
-c) cursos de bacharelado e engenharia, visando à formação de profissionais para os diferentes setores da economia e áreas do conhecimento; 
+O Paraná é um dos estados brasileiros que mais se destaca no crescimento econômico e na qualidade de vida, conforme revela seu Índice de Desenvolvimento Humano (IDH) médio. A economia paranaense está entre as cinco maiores do país, tendo apresentado, no ano de 2013, atingiu um PIB de 287.966 bilhões de reais, correspondente a 5,84% do PIB nacional (IPARDES, 2015).
 
-d) cursos de pós-graduação lato sensu de aperfeiçoamento e especialização, visando à formação de especialistas nas diferentes áreas do conhecimento; e 
+Na composição do PIB paranaense, o setor de serviços é o que mais se destaca, correspondendo  a  64,05%  do  total,  seguido  dos  setores  industrial  e  agropecuário,  que participam, respectivamente, com 27,28% e 8,68%.
 
-e) cursos de pós-graduação stricto sensu de mestrado e doutorado, que contribuam para promover o estabelecimento de bases sólidas em educação, ciência e tecnologia, com vistas no processo de geração e inovação tecnológica. 
+O IFPR oferece  condições adequadas  para a produção  de conhecimento e para  a qualificação  profissional,  necessárias  ao  estímulo  do  desenvolvimento  socioeconômico  do Paraná. Por isso, a distribuição espacial dos campi procurou contemplar o Estado como um todo, situando as unidades em municípios considerados pólos de desenvolvimento regional.
 
-A história do Instituto Federal do Paraná está intimamente ligada a própria história de Curitiba. O processo de desenvolvimento socioespacial da cidade e a chegada dos imigrantes alemães foram alguns dos muitos fatores que contribuíram para a gênese e a evolução da Educação no estado do Paraná. A história do Instituto Federal do Paraná pode ser apresentada em quatro períodos distintos. 
+## **1.2.2 O Curso Superior de Tecnologia em Gastronomia**
 
-11 
+Mantenedora: Secretaria de Educação Profissional e Tecnológica / Ministério da Educação. Portaria de Autorização de Funcionamento do Campus nº. 131 de 29 de janeiro de 2010 Ministério da Educação.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **1.2.3 Missão, Visão e Valores**
 
-O primeiro teve início em 1869 com a fundação da Escola Alemã, cujo objetivo era atender os filhos dos alemães instalados na cidade. Porém, com o tempo, passou a atender também os brasileiros. 
+Através da Lei nº 11.892, de 29 de Dezembro de 2008 foi instituída a Rede Federal de Educação  Profissional,  Científica  e  Tecnológica,  criando  assim  os  Institutos  Federais  de Educação, Ciência e Tecnologia.
 
-Com os conflitos provocados pela Primeira Guerra Mundial a comunidade brasileira conquistou o espaço da referida escola por meio da liderança do professor Fernando Augusto Moreira. Após a intervenção, a escola passou a chamar-se Colégio Progresso ou Academia Comercial  Progresso.  O  professor  Fernando  foi  o  primeiro  diretor,  contribuindo  para  o fortalecimento do ensino público e este momento marcou o segundo período da Educação no estado do Paraná. 
+De acordo com o artigo 6º desta Lei, as finalidades e características dos Institutos Federais são definidas:
 
-A transição para o terceiro período aconteceu com a aquisição do Colégio Progresso pela Faculdade de Direito da Universidade do Paraná, que a partir de então foi denominada Escola Técnica de Comércio, vinculada à Faculdade de Direito da Universidade do Paraná. Ela foi federalizada em 1950 e passando à denominação de Universidade Federal do Paraná – UFPR. Entre os períodos de 1974 e 1997, a Escola Técnica do Comércio passou por reformulações e mudanças de nomenclatura quando, finalmente, foi elevada à categoria de setor da UFPR. 
+I - ofertar educação profissional e tecnológica, em todos os seus níveis e modalidades, formando e qualificando cidadãos com vistas na atuação profissional nos  diversos setores  da  economia, com  ênfase  no desenvolvimento socioeconômico local, regional e nacional; II - desenvolver a educação profissional e tecnológica como processo educativo e investigativo de geração e adaptação de soluções técnicas e tecnológicas às demandas sociais e peculiaridades regionais; III - promover a integração e a verticalização da educação básica à educação profissional e educação superior, otimizando a infraestrutura física, os quadros de pessoal e os recursos de gestão;
 
-Um marco histórico que iniciou o quarto período para a Escola Técnica acontece em 19 de março de 2008, quando a mesma foi desvinculada da UFPR para aderir, sediar e implantar o Instituto Federal por meio de autorização concedida pelo Conselho Universitário da UFPR, que autorizou a implantação do Instituto Federal do Paraná a partir da Escola Técnica. 
+IV  -  orientar  sua  oferta  formativa  em  benefício  da  consolidação  e fortalecimento  dos  arranjos  produtivos,  sociais  e  culturais  locais, identificados  com  base  no  mapeamento  das  potencialidades  de desenvolvimento socioeconômico e cultural no âmbito de atuação do Instituto Federal;
 
-O Instituto Federal do Paraná (IFPR) conta hoje com 20 campi, cinco campi avançado e três campi avançado em implantação, ofertando cursos em nível médio, técnico e superior, além da oferta de cursos na modalidade à distância em cerca de 400 polos no Paraná e outros 200 em praticamente todas as unidades da Federação. 
+V - constituir-se em centro de excelência na oferta do ensino de ciências, em  geral,  e  de  ciências  aplicadas,  em  particular,  estimulando  o desenvolvimento de espírito crítico, voltado à investigação empírica; VI - qualificar-se como centro de referência no apoio à oferta do ensino de ciências nas instituições públicas de ensino, oferecendo capacitação técnica e atualização pedagógica aos docentes das redes públicas de ensino;
 
-Os campi do IFPR estão localizados nos municípios de Assis Chateaubriand, Campo Largo, Curitiba, Capanema, Cascavel, Colombo, Foz do Iguaçu, Irati, Ivaiporã, Jacarezinho, Jaguariaíva, Londrina, Palmas, Paranaguá, Paranavaí, Pinhais, Pitanga, Telêmaco Borba, Umuarama e União da Vitória. Também é constituído por 5 novas Unidades de Educação Profissional (UEP) em Barracão, Quedas do Iguaçu, Coronel Vivida, Astorga e Goioerê, o que potencializa ainda mais o acesso da população à educação profissional, científica e tecnológica pública e de qualidade (www.ifpr.edu.br). 
+VII - desenvolver programas de extensão e de divulgação científica e tecnológica;
 
-O Paraná é um dos estados brasileiros que mais se destaca no crescimento econômico e na qualidade de vida, conforme revela seu Índice de Desenvolvimento Humano (IDH) médio. A economia paranaense está entre as cinco maiores do país, tendo apresentado, no ano de 2013, atingiu um PIB de 287.966 bilhões de reais, correspondente a 5,84% do PIB nacional (IPARDES, 2015). 
+VIII - realizar e estimular a pesquisa aplicada, a produção cultural, o empreendedorismo, o cooperativismo e o desenvolvimento científico e tecnológico;
 
-12 
+IX - promover a produção, o desenvolvimento e a transferência de tecnologias sociais, notadamente as voltadas à preservação do meio ambiente.
 
-**==> picture [472 x 55] intentionally omitted <==**
+E ainda, no artigo 7º, são definidos os objetivos dos Institutos Federais:
 
-Na composição do PIB paranaense, o setor de serviços é o que mais se destaca, correspondendo  a  64,05%  do  total,  seguido  dos  setores  industrial  e  agropecuário,  que participam, respectivamente, com 27,28% e 8,68%. 
+I - ministrar educação profissional técnica de nível médio, prioritariamente na forma de cursos integrados, para os concluintes do ensino fundamental e para o público da educação de jovens e adultos; II - ministrar cursos de formação inicial e continuada de trabalhadores, objetivando  a  capacitação,  o aperfeiçoamento,  a  especialização  e  a atualização de profissionais, em todos os níveis de escolaridade, nas áreas da educação profissional e tecnológica;
 
-O IFPR oferece  condições adequadas  para a produção  de conhecimento e para  a qualificação  profissional,  necessárias  ao  estímulo  do  desenvolvimento  socioeconômico  do Paraná. Por isso, a distribuição espacial dos campi procurou contemplar o Estado como um todo, situando as unidades em municípios considerados pólos de desenvolvimento regional. 
+III - realizar  pesquisas aplicadas, estimulando o desenvolvimento de soluções técnicas e tecnológicas, estendendo seus benefícios à comunidade;
 
-## **1.2.2 O Curso Superior de Tecnologia em Gastronomia** 
+IV - desenvolver atividades de extensão de acordo com os princípios e finalidades da educação profissional e tecnológica, em articulação com o mundo do trabalho e os segmentos sociais, e com ênfase na produção, desenvolvimento e difusão de conhecimentos científicos e tecnológicos; V - estimular e apoiar processos educativos que levem à geração de trabalho  e  renda  e  à  emancipação  do  cidadão  na  perspectiva  do desenvolvimento socioeconômico local e regional; e
 
-Mantenedora: Secretaria de Educação Profissional e Tecnológica / Ministério da Educação. Portaria de Autorização de Funcionamento do Campus nº. 131 de 29 de janeiro de 2010 Ministério da Educação. 
+VI - ministrar em nível de educação superior:
 
-## **1.2.3 Missão, Visão e Valores** 
+a) cursos superiores de tecnologia visando à formação de profissionais para os diferentes setores da economia;
 
-Através da Lei nº 11.892, de 29 de Dezembro de 2008 foi instituída a Rede Federal de Educação  Profissional,  Científica  e  Tecnológica,  criando  assim  os  Institutos  Federais  de Educação, Ciência e Tecnologia. 
+b) cursos de licenciatura, bem como programas especiais de formação pedagógica, com vistas na formação de professores para a educação
 
-De acordo com o artigo 6º desta Lei, as finalidades e características dos Institutos Federais são definidas: 
+básica, sobretudo nas áreas de ciências e matemática, e para a educação profissional;
 
-I - ofertar educação profissional e tecnológica, em todos os seus níveis e modalidades, formando e qualificando cidadãos com vistas na atuação profissional nos  diversos setores  da  economia, com  ênfase  no desenvolvimento socioeconômico local, regional e nacional; II - desenvolver a educação profissional e tecnológica como processo educativo e investigativo de geração e adaptação de soluções técnicas e tecnológicas às demandas sociais e peculiaridades regionais; III - promover a integração e a verticalização da educação básica à educação profissional e educação superior, otimizando a infraestrutura física, os quadros de pessoal e os recursos de gestão; 
+c)  cursos  de  bacharelado  e  engenharia,  visando  à  formação  de profissionais  para  os  diferentes  setores  da  economia  e  áreas  do conhecimento;
 
-IV  -  orientar  sua  oferta  formativa  em  benefício  da  consolidação  e fortalecimento  dos  arranjos  produtivos,  sociais  e  culturais  locais, identificados  com  base  no  mapeamento  das  potencialidades  de desenvolvimento socioeconômico e cultural no âmbito de atuação do Instituto Federal; 
+d) cursos de pós-graduação lato sensu de aperfeiçoamento e especialização, visando à formação de especialistas nas diferentes áreas do conhecimento; e
 
-13 
+e) cursos de pós-graduação stricto sensu de mestrado e doutorado, que contribuam  para  promover  o  estabelecimento  de  bases  sólidas  em educação, ciência e tecnologia, com vistas no processo de geração e inovação tecnológica.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Desta forma, a resolução n° 63 de 17 de dezembro de 2012, que aprova a Identidade Institucional do IFPR, busca a consonância entre a Lei nº 11.892, de 29 de Dezembro de 2008 e a sua própria missão, de forma que os pressupostos legais que definem os objetivos do IFPR sejam plenamente cumpridos. Assim, é a Missão do IFPR: “Promover educação profissional e tecnológica, pública, de qualidade, socialmente referenciada, por meio do ensino, pesquisa e extensão, visando a formação de cidadãos críticos, autônomos e empreendedores, comprometidos com a sustentabilidade”.
 
-V - constituir-se em centro de excelência na oferta do ensino de ciências, em  geral,  e  de  ciências  aplicadas,  em  particular,  estimulando  o desenvolvimento de espírito crítico, voltado à investigação empírica; VI - qualificar-se como centro de referência no apoio à oferta do ensino de ciências nas instituições públicas de ensino, oferecendo capacitação técnica e atualização pedagógica aos docentes das redes públicas de ensino; 
+A visão do IFPR, atingidos os seus objetivos e características, definidas em Lei e na própria criação do Instituto é: “Ser referência em educação profissional, tecnológica e científica, reconhecida pelo compromisso com a transformação social”.
 
-VII - desenvolver programas de extensão e de divulgação científica e tecnológica; 
+Os valores do IFPR são os princípios norteadores de suas práticas e condutas, tanto no âmbito  institucional,  quanto  no  profissionalmente  individual.  Serão  estes  princípios  que permitirão o pleno atendimento dos objetivos institucionais definidos em Lei além de, desta forma, atender aos anseios e necessidades da sua comunidade interna e externa. São os valores do IFPR:
 
-VIII - realizar e estimular a pesquisa aplicada, a produção cultural, o empreendedorismo, o cooperativismo e o desenvolvimento científico e tecnológico; 
+1 Pessoas;
 
-IX - promover a produção, o desenvolvimento e a transferência de tecnologias sociais, notadamente as voltadas à preservação do meio ambiente. 
+2 Visão sistêmica;
 
-E ainda, no artigo 7º, são definidos os objetivos dos Institutos Federais: 
+3 Educação de qualidade e excelência;
 
-I - ministrar educação profissional técnica de nível médio, prioritariamente na forma de cursos integrados, para os concluintes do ensino fundamental e para o público da educação de jovens e adultos; II - ministrar cursos de formação inicial e continuada de trabalhadores, objetivando  a  capacitação,  o aperfeiçoamento,  a  especialização  e  a atualização de profissionais, em todos os níveis de escolaridade, nas áreas da educação profissional e tecnológica; 
+4 Eficiência e eficácia;
 
-III - realizar  pesquisas aplicadas, estimulando o desenvolvimento de soluções técnicas e tecnológicas, estendendo seus benefícios à comunidade; 
+5 Ética;
 
-IV - desenvolver atividades de extensão de acordo com os princípios e finalidades da educação profissional e tecnológica, em articulação com o mundo do trabalho e os segmentos sociais, e com ênfase na produção, desenvolvimento e difusão de conhecimentos científicos e tecnológicos; V - estimular e apoiar processos educativos que levem à geração de trabalho  e  renda  e  à  emancipação  do  cidadão  na  perspectiva  do desenvolvimento socioeconômico local e regional; e 
+6 Sustentabilidade;
 
-VI - ministrar em nível de educação superior: 
+7 Qualidade de vida;
 
-a) cursos superiores de tecnologia visando à formação de profissionais para os diferentes setores da economia; 
+8 Diversidade humana e cultural;
 
-b) cursos de licenciatura, bem como programas especiais de formação pedagógica, com vistas na formação de professores para a educação 
+9 Inclusão social; 10 Empreendedorismo e inovação; 11 Respeito às características regionais;
 
-14 
+12 Democracia e transparência.
 
-**==> picture [472 x 55] intentionally omitted <==**
+A partir do compromisso social, que se evidencia na missão, na visão e nos valores institucionais do IFPR, o Curso Superior de Tecnologia em Gastronomia se propõe a ofertar uma formação sólida e integral, com base na ética e nos valores democráticos como princípios fundamentais à educação e à produção de conhecimentos, permitindo uma integração efetiva entre os membros da comunidade escolar, a sociedade e o mundo do trabalho.
 
-básica, sobretudo nas áreas de ciências e matemática, e para a educação profissional; 
+## 1.3 O PROJETO PEDAGÓGICO DO CURSO
 
-c)  cursos  de  bacharelado  e  engenharia,  visando  à  formação  de profissionais  para  os  diferentes  setores  da  economia  e  áreas  do conhecimento; 
+## **1.3.1 Integração do Projeto ao PDI, PPI e PPP.**
 
-d) cursos de pós-graduação lato sensu de aperfeiçoamento e especialização, visando à formação de especialistas nas diferentes áreas do conhecimento; e 
+Com vistas ao desenvolvimento social, econômico e cultural, e seguindo preceitos de sustentabilidade ambiental, o CST em Gastronomia atuará em coerência com o PDI do IFPR e o PPP do campus, pois objetiva a formação de profissionais cidadãos e que impactem de forma positiva no mercado de trabalho e na sociedade. Ainda, a partir da instalação do curso e do restaurante escola previsto, serão viabilizadas propostas de pesquisa em áreas de gestão e operação de restaurantes, além de projetos de extensão que levem conhecimentos e práticas de gastronomia para a comunidade local.
 
-e) cursos de pós-graduação stricto sensu de mestrado e doutorado, que contribuam  para  promover  o  estabelecimento  de  bases  sólidas  em educação, ciência e tecnologia, com vistas no processo de geração e inovação tecnológica. 
+Destaca-se que a implantação do CST de Gastronomia consta na proposta do PDI 20192023 que está em elaboração, onde apresentará suas demandas e impactos esperados.
 
-Desta forma, a resolução n° 63 de 17 de dezembro de 2012, que aprova a Identidade Institucional do IFPR, busca a consonância entre a Lei nº 11.892, de 29 de Dezembro de 2008 e a sua própria missão, de forma que os pressupostos legais que definem os objetivos do IFPR sejam plenamente cumpridos. Assim, é a Missão do IFPR: “Promover educação profissional e tecnológica, pública, de qualidade, socialmente referenciada, por meio do ensino, pesquisa e extensão, visando a formação de cidadãos críticos, autônomos e empreendedores, comprometidos com a sustentabilidade”. 
+## **1.3.2 Fundamentos Legais e Normativos da Área**
 
-A visão do IFPR, atingidos os seus objetivos e características, definidas em Lei e na própria criação do Instituto é: “Ser referência em educação profissional, tecnológica e científica, reconhecida pelo compromisso com a transformação social”. 
+O presente projeto tem por objetivo apresentar o Curso Superior de Tecnologia em Gastronomia a ser implantado no Campus Foz do Iguaçu. Os fundamentos legais do curso consideram as resoluções e pareceres do Conselho Nacional de Educação (CNE), que por meio do Parecer n°436/2001, aprovado em 02 de abril de 2001, apresentou orientações gerais sobre os cursos superiores de Tecnologia em criação, e nas resoluções n° 29/2002 (aprovada em 03 de dezembro de 2002) e n° 03/2002 (aprovada em 18 de dezembro de 2002) regulamentou sobre as Diretrizes Curriculares Nacionais Gerais para a Educação Profissional e Tecnológica. Além do citado, essa oferta considera o constante na Lei n°9.393 de 20 de dezembro de 1996 que estabeleceu as Diretrizes e Bases da Educação Nacional, e também, considera o constante no Decreto n° 5.773 de 09 de maio de 2006, que dispõe sobre a adequação da denominação dos cursos superiores de tecnologia ao Catálogo Nacional de Cursos Superiores de Tecnologia.
 
-Os valores do IFPR são os princípios norteadores de suas práticas e condutas, tanto no âmbito  institucional,  quanto  no  profissionalmente  individual.  Serão  estes  princípios  que permitirão o pleno atendimento dos objetivos institucionais definidos em Lei além de, desta forma, atender aos anseios e necessidades da sua comunidade interna e externa. São os valores do IFPR: 
+O curso Superior de Tecnologia em Gastronomia consta na 3[a] edição do Catálogo Nacional de Cursos Superiores de Tecnologia, publicado no ano de 2016 pelo Ministério da Educação.
 
-1 Pessoas; 
+No âmbito do Instituto Federal do Paraná, o curso foi aprovado pela Resolução CONSUP
 
-2 Visão sistêmica; 
+n°19 de 13 de junho de 2019.
 
-3 Educação de qualidade e excelência; 
+De acordo com o constante no Catálogo Nacional de Cursos Superiores de Tecnologia (2016), o Gastrônomo terá o perfil
 
-4 Eficiência e eficácia; 
+Concebe,  planeja, gerencia  e operacionaliza produções culinárias nas diferentes fases dos serviços de alimentação. Cria preparações culinárias e valoriza a ciência dos ingredientes. Diferencia e coordena técnicas culinárias. Planeja, controla e avalia custos. Coordena e gerencia pessoas de sua equipe. Valida a segurança alimentar. Planeja, elabora e organiza projetos  de  fluxo  de  montagem  de  cozinha.  Identifica  utensílios, equipamentos  e  matéria-prima  em  restaurantes  e  estabelecimentos alimentícios. Articula e coordena empreendimentos e negócios gastronômicos. Identifica novas perspectivas do  mercado  alimentício. Vistoria, avalia e emite parecer técnico em sua área de formação. (p. 152)
 
-5 Ética; 
+Assim, o profissional terá por propósito a consolidação do mercado gastronômico local, regional e nacional, por meio da atuação competente e baseada em conhecimento sólido, qualificando o cenário existente. Desse modo, espera-se que o profissional também aplique seus conhecimentos para melhorar a qualidade de vida das pessoas, com preocupação social e ambiental.
 
-6 Sustentabilidade; 
+Como campo de atuação, pode-se mencionar restaurantes, bares, hotéis, hospitais, centros gastronômicos, indústria alimentícia, parques, etc. Destaca-se o caráter empreendedor a ser buscado no curso, permitindo assim que os egressos desenvolvam negócios e sejam modificadores de sua realidade gerando ainda emprego e renda.
 
-7 Qualidade de vida; 
+O projeto de implantação do Curso Superior de Tecnologia (CST) em Gastronomia permeou  as  discussões  sobre  planejamento  estratégico  do  Colegiado  de  Gastronomia  do campus Foz do Iguaçu desde o ano de 2012, com a apresentação de projeto arquitetônico de reforma do espaço destinado a instalação dos laboratórios do curso. Ressalta-se que o colegiado avalia desde então como viável ao contexto local a implantação do curso, porém do ponto de vista estrutural não era possível.
 
-8 Diversidade humana e cultural; 
+Já no ano de 2017, com o início da obra de reforma do espaço para instalação de estrutura física adequada ao curso, as discussões foram retomadas no Colegiado e no ano de 2018 uma Comissão de Estruturação de Curso foi instaurada, que elaborou a PAC (Proposta de Abertura de Curso) e remeteu a aprovação do campus e Reitoria. Participam da comissão professores do colegiado de gastronomia, pessoal técnico administrativo e professores de diferentes colegiados.
 
-9 Inclusão social; 10 Empreendedorismo e inovação; 11 Respeito às características regionais; 
+A  proposta  conta  com  o  apoio  da  ABRASEL  (Associação  Brasileira  de  Bares  e Restaurantes) regional Oeste-Paraná e outras instituições locais, que expressam constantemente sua necessidade por mudanças na conjuntura do mercado local.
 
-12 Democracia e transparência. 
+## **1.3.3 Integração do Projeto com o SINAES (Camila ou José Henrique)**
 
-15 
+Criado pela Lei nº 10.861, de 14 de abril de 2004, o Sistema Nacional de Avaliação da Educação Superior (Sinaes) S integra um conjunto de avaliações realizadas com diferentes metodologias, aplicadas em diferentes momentos e incluindo diferentes atores institucionais visando, assim, uma leitura mais fiel e mais completa possível do funcionamento das Instituições de Ensino Superior - IES brasileiras, independentemente do tamanho, da natureza administrativa e da organização acadêmica.
 
-**==> picture [472 x 55] intentionally omitted <==**
+O  Sistema  segue  as  diretrizes  definidas  pela  Comissão  Nacional  de  Avaliação  da Educação Superior (Conaes), cabendo ao Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), por meio de sua Diretoria de Avaliação da Educação Superior (Daes), a organização de todo o processo avaliativo.
 
-A partir do compromisso social, que se evidencia na missão, na visão e nos valores institucionais do IFPR, o Curso Superior de Tecnologia em Gastronomia se propõe a ofertar uma formação sólida e integral, com base na ética e nos valores democráticos como princípios fundamentais à educação e à produção de conhecimentos, permitindo uma integração efetiva entre os membros da comunidade escolar, a sociedade e o mundo do trabalho. 
+O Sinaes tem como missão, avaliar a graduação valorizando aspectos indutores da melhoria  da  qualidade  da  educação  superior  e  da  formação  acadêmica  dos  estudantes brasileiros.  As  avaliações  realizadas  no  âmbito  desse  sistema  aferem  a  qualidade  das Instituições  de  Educação  Superior  (IES),  de  cursos  de  graduação  e  de  desempenho  de estudantes.
 
-## 1.3 O PROJETO PEDAGÓGICO DO CURSO 
+O Sinaes possui uma série de instrumentos complementares: autoavaliação, avaliação externa, Enade, Avaliação dos cursos de graduação e instrumentos de informação como o censo e o cadastro. A integração dos instrumentos permite que sejam atribuídos alguns conceitos, ordenados numa escala com cinco níveis, a cada uma das dimensões e ao conjunto das dimensões avaliadas.
 
-## **1.3.1 Integração do Projeto ao PDI, PPI e PPP.** 
+A avaliação das instituições busca identificar o seu perfil e a qualidade da sua atuação, considerando suas atividades, cursos, programas, projetos e setores. No caso dos cursos de graduação, a avaliação tem como objetivo verificar as condições de ensino oferecidas, o perfil do  corpo  docente  e  a  organização  didático-pedagógica.  A  avaliação  do  desempenho  dos estudantes dos cursos de graduação, realizada por meio do Exame Nacional de Desempenho de Estudantes (Enade), tem a finalidade de avaliar o desempenho dos alunos em relação aos conteúdos programáticos, suas habilidades e competências – esse exame também oferece elementos para a construção de indicadores de qualidade dos cursos que servem de referência para os processos posteriores de avaliação in loco. O resultado das avaliações possibilita traçar um panorama da educação superior brasileira.
 
-Com vistas ao desenvolvimento social, econômico e cultural, e seguindo preceitos de sustentabilidade ambiental, o CST em Gastronomia atuará em coerência com o PDI do IFPR e o PPP do campus, pois objetiva a formação de profissionais cidadãos e que impactem de forma positiva no mercado de trabalho e na sociedade. Ainda, a partir da instalação do curso e do restaurante escola previsto, serão viabilizadas propostas de pesquisa em áreas de gestão e operação de restaurantes, além de projetos de extensão que levem conhecimentos e práticas de gastronomia para a comunidade local. 
+O Sinaes está fundamentado nas avaliações institucionais, de cursos e de estudantes. A Avaliação Institucional, interna e externa, considera 10 dimensões:
 
-Destaca-se que a implantação do CST de Gastronomia consta na proposta do PDI 20192023 que está em elaboração, onde apresentará suas demandas e impactos esperados. 
+- Missão e PDI
 
-## **1.3.2 Fundamentos Legais e Normativos da Área** 
+- Política para ensino, pesquisa, pós-graduação e extensão
 
-O presente projeto tem por objetivo apresentar o Curso Superior de Tecnologia em Gastronomia a ser implantado no Campus Foz do Iguaçu. Os fundamentos legais do curso consideram as resoluções e pareceres do Conselho Nacional de Educação (CNE), que por meio do Parecer n°436/2001, aprovado em 02 de abril de 2001, apresentou orientações gerais sobre os cursos superiores de Tecnologia em criação, e nas resoluções n° 29/2002 (aprovada em 03 de dezembro de 2002) e n° 03/2002 (aprovada em 18 de dezembro de 2002) regulamentou sobre as Diretrizes Curriculares Nacionais Gerais para a Educação Profissional e Tecnológica. Além do citado, essa oferta considera o constante na Lei n°9.393 de 20 de dezembro de 1996 que estabeleceu as Diretrizes e Bases da Educação Nacional, e também, considera o constante no Decreto n° 5.773 de 09 de maio de 2006, que dispõe sobre a adequação da denominação dos cursos superiores de tecnologia ao Catálogo Nacional de Cursos Superiores de Tecnologia. 
+- Responsabilidade social da IES
 
-O curso Superior de Tecnologia em Gastronomia consta na 3[a] edição do Catálogo Nacional de Cursos Superiores de Tecnologia, publicado no ano de 2016 pelo Ministério da Educação. 
+- Comunicação com a sociedade
 
-No âmbito do Instituto Federal do Paraná, o curso foi aprovado pela Resolução CONSUP 
+- As políticas de pessoal, carreiras do corpo docente e de técnico-administrativo
 
-16 
+- Organização de gestão da IES
 
-**==> picture [472 x 55] intentionally omitted <==**
+- Infraestrutura física
 
-n°19 de 13 de junho de 2019. 
+- Planejamento de avaliação
 
-De acordo com o constante no Catálogo Nacional de Cursos Superiores de Tecnologia (2016), o Gastrônomo terá o perfil 
+- Políticas de atendimento aos estudantes
 
-Concebe,  planeja, gerencia  e operacionaliza produções culinárias nas diferentes fases dos serviços de alimentação. Cria preparações culinárias e valoriza a ciência dos ingredientes. Diferencia e coordena técnicas culinárias. Planeja, controla e avalia custos. Coordena e gerencia pessoas de sua equipe. Valida a segurança alimentar. Planeja, elabora e organiza projetos  de  fluxo  de  montagem  de  cozinha.  Identifica  utensílios, equipamentos  e  matéria-prima  em  restaurantes  e  estabelecimentos alimentícios. Articula e coordena empreendimentos e negócios gastronômicos. Identifica novas perspectivas do  mercado  alimentício. Vistoria, avalia e emite parecer técnico em sua área de formação. (p. 152) 
+- Sustentabilidade financeira
 
-Assim, o profissional terá por propósito a consolidação do mercado gastronômico local, regional e nacional, por meio da atuação competente e baseada em conhecimento sólido, qualificando o cenário existente. Desse modo, espera-se que o profissional também aplique seus conhecimentos para melhorar a qualidade de vida das pessoas, com preocupação social e ambiental. 
+A avaliação dos cursos, no entanto, é realizada levando em conta 3 dimensões:
 
-Como campo de atuação, pode-se mencionar restaurantes, bares, hotéis, hospitais, centros gastronômicos, indústria alimentícia, parques, etc. Destaca-se o caráter empreendedor a ser buscado no curso, permitindo assim que os egressos desenvolvam negócios e sejam modificadores de sua realidade gerando ainda emprego e renda. 
+- Organização didático-pedagógica
 
-O projeto de implantação do Curso Superior de Tecnologia (CST) em Gastronomia permeou  as  discussões  sobre  planejamento  estratégico  do  Colegiado  de  Gastronomia  do campus Foz do Iguaçu desde o ano de 2012, com a apresentação de projeto arquitetônico de reforma do espaço destinado a instalação dos laboratórios do curso. Ressalta-se que o colegiado avalia desde então como viável ao contexto local a implantação do curso, porém do ponto de vista estrutural não era possível. 
+- Perfil do corpo docente
 
-Já no ano de 2017, com o início da obra de reforma do espaço para instalação de estrutura física adequada ao curso, as discussões foram retomadas no Colegiado e no ano de 2018 uma Comissão de Estruturação de Curso foi instaurada, que elaborou a PAC (Proposta de Abertura de Curso) e remeteu a aprovação do campus e Reitoria. Participam da comissão professores do colegiado de gastronomia, pessoal técnico administrativo e professores de diferentes colegiados. 
+- Instalações físicas
 
-A  proposta  conta  com  o  apoio  da  ABRASEL  (Associação  Brasileira  de  Bares  e Restaurantes) regional Oeste-Paraná e outras instituições locais, que expressam constantemente sua necessidade por mudanças na conjuntura do mercado local. 
+Os  principais  objetivos  da  avaliação  envolvem  melhorar  o  mérito  e  o  valor  das instituições, áreas, cursos e programas, nas dimensões de ensino, pesquisa, extensão, gestão e formação; melhorar a qualidade da educação superior e orientar a expansão da oferta, além de promover  a  responsabilidade  social  das  IES,  respeitando  a  identidade  institucional  e  a autonomia de cada organização.
 
-17 
+O Projeto Pedagógico do Curso de Gastronomia, como instrumento norteador, baseia-se na  necessidade  da  melhoria  contínua  dos  processos  internos  e  externos  que  regulam  o funcionamento do curso e permitem a formação integral do estudante.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Desta forma, a organização deste instrumento é estruturada levando-se em conta as dimensões  avaliadas  pelo  sistema,  alinhando  a  concepção,  formação,  estruturação  e consolidação  do  curso  com  as  políticas  institucionais  já  estabelecidas,  o  que  permite  a sobreposição de etapas já efetivadas pela instituição ao curso, garantindo um processo mais ágil do que o propiciado aos cursos pioneiros.
 
-## **1.3.3 Integração do Projeto com o SINAES (Camila ou José Henrique)** 
+Assim, garantindo a integração do curso à instituição e suas _práxis_ na avaliação e posterior melhoria advinda do processo avaliativo, garantimos não somente a observação das dimensões e critérios do sistema, mas aos seus objetivos primordiais, em especial à oferta da graduação de qualidade e, acima de tudo, comprometida com a constante evolução que esta etapa da formação educacional exige.
 
-Criado pela Lei nº 10.861, de 14 de abril de 2004, o Sistema Nacional de Avaliação da Educação Superior (Sinaes) S integra um conjunto de avaliações realizadas com diferentes metodologias, aplicadas em diferentes momentos e incluindo diferentes atores institucionais visando, assim, uma leitura mais fiel e mais completa possível do funcionamento das Instituições de Ensino Superior - IES brasileiras, independentemente do tamanho, da natureza administrativa e da organização acadêmica. 
+## **2. PRINCÍPIOS E FUNDAMENTOS PEDAGÓGICOS**
 
-O  Sistema  segue  as  diretrizes  definidas  pela  Comissão  Nacional  de  Avaliação  da Educação Superior (Conaes), cabendo ao Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), por meio de sua Diretoria de Avaliação da Educação Superior (Daes), a organização de todo o processo avaliativo. 
+## 2.1 JUSTIFICATIVA
 
-O Sinaes tem como missão, avaliar a graduação valorizando aspectos indutores da melhoria  da  qualidade  da  educação  superior  e  da  formação  acadêmica  dos  estudantes brasileiros.  As  avaliações  realizadas  no  âmbito  desse  sistema  aferem  a  qualidade  das Instituições  de  Educação  Superior  (IES),  de  cursos  de  graduação  e  de  desempenho  de estudantes. 
+A alimentação sempre foi objeto de grande preocupação da civilização e caracterizou grandes mudanças na sociedade, desde a pré-histórica até a contemporânea.
 
-O Sinaes possui uma série de instrumentos complementares: autoavaliação, avaliação externa, Enade, Avaliação dos cursos de graduação e instrumentos de informação como o censo e o cadastro. A integração dos instrumentos permite que sejam atribuídos alguns conceitos, ordenados numa escala com cinco níveis, a cada uma das dimensões e ao conjunto das dimensões avaliadas. 
+Partindo da necessidade fisiológica de buscar alimento, o ser humano enquanto coletor na pré-história praticava o ato da escolha na observância dos itens disponíveis na natureza. Tal escolha baseava-se na necessidade, sendo um ato de manutenção da vida. Porém, o fato de poder escolher, ou ainda a utilização do fogo para cocção dos alimentos, levou à busca pelo prazer da boa comida. Portanto, o homem pré-histórico dotado do livre arbítrio e informações empíricas já praticava os princípios básicos da gastronomia.
 
-A avaliação das instituições busca identificar o seu perfil e a qualidade da sua atuação, considerando suas atividades, cursos, programas, projetos e setores. No caso dos cursos de graduação, a avaliação tem como objetivo verificar as condições de ensino oferecidas, o perfil do  corpo  docente  e  a  organização  didático-pedagógica.  A  avaliação  do  desempenho  dos estudantes dos cursos de graduação, realizada por meio do Exame Nacional de Desempenho de Estudantes (Enade), tem a finalidade de avaliar o desempenho dos alunos em relação aos conteúdos programáticos, suas habilidades e competências – esse exame também oferece elementos para a construção de indicadores de qualidade dos cursos que servem de referência para os processos posteriores de avaliação in loco. O resultado das avaliações possibilita traçar um panorama da educação superior brasileira. 
+Nos dias de hoje, a quantidade de informações que se produz é muito maior do que a que se produzia em séculos passados, o que demanda do homem uma capacidade de absorção e aceitação (ou não) muito rápida, porém muitas vezes não dispondo tempo de interpretar as ideias  ou  aceitá-las  de  forma  que  se  tornem  confortáveis.  Tais  mudanças  geradas  pelo conhecimento da sociedade moderna fez com que a especialização da mão-de-obra se tornasse muito mais necessária, demandando habilidades para que a geração empirista dos séculos passados fosse substituída pela capacidade de aliar conhecimentos técnicos e científicos à prática profissional.
 
-O Sinaes está fundamentado nas avaliações institucionais, de cursos e de estudantes. A Avaliação Institucional, interna e externa, considera 10 dimensões: 
+O momento atual  pede um profissional  da área da alimentação que comporte as constantes evoluções do conhecimento, o qual se favorece pelo fato de ter tal conhecimento como  seu  principal  capital.  Nesse  sentido,  as  formações  técnica  e  tecnológica  formam profissionais mais competentes, com atuação baseada em informações que contribuam para processos sociais, econômicos, ambientais etc.
 
-- Missão e PDI 
+É importante pontuar que a gastronomia propriamente dita, especialmente nas últimas décadas, desmembra-se do hábito comum da alimentação de modo a incrementar esse ato e inseri-lo em um âmbito mais refinado, técnico, artístico e conceitual. Como pontua Krause (2001, p.07) a alimentação humana utiliza-se de fundamentos de nutrição, química, engenharia de alimentos e também da gastronomia. Porém, aplicar conceitos gastronômicos ao processo de produção, serviço, venda (ou não) de alimentos é agregar valor a esse momento tão importante da manutenção da vida humana.
 
-18 
+O turismo gastronômico ou os serviços de alimentação como elementos pertencentes à infraestrutura básica do turismo, aqui compreendidos como a gastronomia de uma localidade ou destino,  têm  sido argumentos  importantes também em tempos de popularização  das viagens e o consequente aumento do movimento turístico no país e no mundo. Nesse sentido, melhorar, ampliar e consolidar a oferta da gastronomia, aqui compreendido como elemento
 
-**==> picture [472 x 55] intentionally omitted <==**
+básico para a ocorrência do turismo, auxiliará no desenvolvimento dessa atividade econômica, já  que  possibilita  a  ampliação  da  oferta  de  empregos,  melhores  condições  de  trabalho, valorização da cultura local e incremento do consumo.
 
-- Política para ensino, pesquisa, pós-graduação e extensão 
+Para a gastronomia, como um dos elementos básicos do turismo, é fundamental que um destino  invista  em  capacitação  profissional  para  atuar  nos  diversos  estabelecimentos  de alimentos e bebidas, eventos e hospedagem, buscando também incentivar o empreendedorismo competente e responsável.
 
-- Responsabilidade social da IES 
+Arkhestrato,  filósofo  grego  da  Era  Clássica,  definiu  gastronomia  como  "estudo  e observância das leis do estômago" (Montanari e Flandrin, 2007; Franco, 2001). O célebre BrillatSavarin (1995, p.57) define gastronomia objetivamente como “conhecimento fundamentado de tudo o que se refere ao homem, na medida em que se alimenta”. O autor ainda cita como objetivo da gastronomia zelar pela conservação dos homens, por meio da melhor alimentação possível.
 
-- Comunicação com a sociedade 
+O conceito de gastronomia preconizado no país ícone dessa área - a França - surgiu somente em 1623 na tradução da obra de Arkhestrato, porém evoluiu para preceitos de comer e beber bem, além da arte de preparar os alimentos para deles obter o máximo de satisfação (FRANCO, 2001, p. 167).
 
-- As políticas de pessoal, carreiras do corpo docente e de técnico-administrativo 
+O dicionário Houaiss (2010, p.384) descreve gastronomia como "prática e ." conhecimentos da arte culinária. O prazer de apreciar pratos finos
 
-- Organização de gestão da IES 
+A definição de gastronomia, quando aplicada a um determinado contexto turístico, nos fornece  subsídios  para compreender como a sociedade  se desenvolveu e  convive com o ambiente em que se situa. De acordo com Carneiro (2003) e Dória (2009) a alimentação reflete como o homem evoluiu num determinado ambiente, expressando seus valores e modo de vida.
 
-- Infraestrutura física 
+A gastronomia sempre acompanhou as mudanças da sociedade, haja visto que o ato da alimentação é uma das necessidades humanas mais básicas, a forma como tratamos a matéria também evoluiu. Nos diversos momentos da história a forma como pensamos a gastronomia alterou-se significativamente, e essa área sempre foi motivo de estudo intenso, seja desde os tempos antigos quando a alimentação era tratada como importante ramo da saúde, na Idade Média ou Renascença com a aplicação dos preceitos de arte e saúde na alimentação, ou no decorrer dos séculos recentes quando ela passou a ser  tratada de forma mais hedonista e também profissional (CARNEIRO, 2003; FRANCO, 2001; MONTANARI e FLANDRIN, 2007).
 
-- Planejamento de avaliação 
+No Brasil, como mencionam Barreto e Senra (2004), a formação em gastronomia sempre se deu de forma prática e empírica, com a formação de profissionais dentro dos restaurantes através de anos de experiência. Barreto e Senra (2004) citam ainda que a formação profissional no país só começa a ser observada com a vinda dos _chefs_ de cozinha europeus na década de 1970.
 
-- Políticas de atendimento aos estudantes 
+A ideia da profissionalização do setor da gastronomia, incluindo a formação profissional formal,  inicia-se  no  Brasil  na  década  de  1990  com  o  Serviço  Nacional  de  Aprendizagem Comercial (SENAC) em parceria com o Culinary Institute of America (CIA) com a implantação do curso de Cozinheiro Chef Internacional. No final dessa década ainda surgem os primeiros cursos superiores de Gastronomia no Brasil (KRAUSE, 2001). O autor ainda aponta diversos fatores motivadores no início dos anos 2000 para a crescente demanda por cursos da área, dentre eles a saturação da formação em profissões tradicionais como medicina ou direito, o que motivou as escolas a diversificarem sua oferta, atraindo alunos para essa nova proposta de ensino. Essa recente história da formação superior da área no país denota a necessidade de expansão da oferta.
 
-- Sustentabilidade financeira 
+A profissionalização da área durante a história também deixou de ser estritamente empirista, onde o cozinheiro aprendia o ofício na prática das cozinhas ou sob o ensinamento familiar. A gastronomia hoje tornou-se matéria séria, estudada em cursos de vários níveis, inclusive em cursos superiores de Tecnologia e Bacharelado.
 
-A avaliação dos cursos, no entanto, é realizada levando em conta 3 dimensões: 
+Para  ilustrar  ainda a necessidade  de  conhecimentos inerentes aos profissionais da Gastronomia,  serão  citados  alguns  aspectos  gerais  que  formam  o  hábito  alimentar contemporâneo. São eles:
 
-- Organização didático-pedagógica 
+- Aspectos modernos, relativos à indústria de alimentos, como produção de enlatados, conservação pelo frio, pasteurização, desidratação, processamento e distribuição;
 
-- Perfil do corpo docente 
+- Aspectos econômicos, como a produção agrícola, que por sua vez ressalta os alimentos geneticamente modificados ou orgânicos, produção industrial e de processamento e preparação dos alimentos;
 
-- Instalações físicas 
+- Aspectos tecnológicos da preparação dos alimentos, como a evolução das técnicas culinárias com inspiração científica e modernista, o uso de equipamentos e utensílios modernos, métodos de conservação aplicados ao processamento e distribuição;
 
-Os  principais  objetivos  da  avaliação  envolvem  melhorar  o  mérito  e  o  valor  das instituições, áreas, cursos e programas, nas dimensões de ensino, pesquisa, extensão, gestão e formação; melhorar a qualidade da educação superior e orientar a expansão da oferta, além de promover  a  responsabilidade  social  das  IES,  respeitando  a  identidade  institucional  e  a autonomia de cada organização. 
+- Aspectos históricos, que demonstram através da documentação de fatos a relação da alimentação e evolução do homem e das civilizações através dos tempos;
 
-O Projeto Pedagógico do Curso de Gastronomia, como instrumento norteador, baseia-se na  necessidade  da  melhoria  contínua  dos  processos  internos  e  externos  que  regulam  o funcionamento do curso e permitem a formação integral do estudante. 
+- Aspectos contemporâneos, como nutrição, modismos, diversidade de gêneros culturais e rápida comunicação ou globalização;
 
-Desta forma, a organização deste instrumento é estruturada levando-se em conta as dimensões  avaliadas  pelo  sistema,  alinhando  a  concepção,  formação,  estruturação  e consolidação  do  curso  com  as  políticas  institucionais  já  estabelecidas,  o  que  permite  a sobreposição de etapas já efetivadas pela instituição ao curso, garantindo um processo mais ágil do que o propiciado aos cursos pioneiros. 
+- Abordagem  social  do  alimento,  como  os  diversos  programas  governamentais  para amenizar  o  problema  da  fome  no  país  e  os  estudos  científicos  para  aumentar  a produtividade e contribuir com esse aspecto, entre outros fatores.
 
-Assim, garantindo a integração do curso à instituição e suas _práxis_ na avaliação e posterior melhoria advinda do processo avaliativo, garantimos não somente a observação das dimensões e critérios do sistema, mas aos seus objetivos primordiais, em especial à oferta da graduação de qualidade e, acima de tudo, comprometida com a constante evolução que esta etapa da formação educacional exige. 
+Estes aspectos citados fazem parte de uma pequena seleção do imenso conteúdo que
 
-19 
+envolve o homem e o ato da alimentação. Assim, vale ressaltar a importância da instalação e manutenção da formação e capacitação profissional na área da gastronomia, em diversos níveis e modalidades de ensino, importantes agentes transformadores do mercado profissional, em
 
-**==> picture [472 x 55] intentionally omitted <==**
+especial os cursos de Tecnologia.
 
-## **2. PRINCÍPIOS E FUNDAMENTOS PEDAGÓGICOS** 
+O sistema eMEC mantido pelo Ministério da Educação do Brasil apresenta relatório para os cursos superiores de Gastronomia, com um total de 315 (trezentos e quinze) cursos de graduação cadastrados, presenciais ou a distância, nas modalidades bacharelado ou tecnólogo (MINISTÉRIO DA EDUCAÇÃO, 2018).
 
-## 2.1 JUSTIFICATIVA 
+Do total de cursos cadastrados, somente 19 (dezenove) cursos são públicos, isto é, 6% da oferta geral. Dos 19 ofertados por instituições públicas, 11 (onze) são oferecidos por Institutos Federais, ou seja, 3,4% da oferta geral e 57,8% dos cursos públicos. Na região sul do país somente três instituições oferecem o curso – dois no estado do Rio Grande do Sul (Universidade Federal de Pelotas e Instituto Federal Farroupilha) e um no estado de Santa Catarina – o Instituto Federal de Santa Catarina (IFSC) (MINISTÉRIO DA EDUCAÇÃO, 2018).
 
-A alimentação sempre foi objeto de grande preocupação da civilização e caracterizou grandes mudanças na sociedade, desde a pré-histórica até a contemporânea. 
+A região sudeste conta com quatro cursos públicos de Gastronomia, o centro-oeste possui três cursos e a região norte não oferta cursos gratuitos na área. A região nordeste é a que possui a maior oferta de cursos públicos e gratuitos do país – são nove ao todo (MINISTÉRIO DA EDUCAÇÃO, 2018).
 
-Partindo da necessidade fisiológica de buscar alimento, o ser humano enquanto coletor na pré-história praticava o ato da escolha na observância dos itens disponíveis na natureza. Tal escolha baseava-se na necessidade, sendo um ato de manutenção da vida. Porém, o fato de poder escolher, ou ainda a utilização do fogo para cocção dos alimentos, levou à busca pelo prazer da boa comida. Portanto, o homem pré-histórico dotado do livre arbítrio e informações empíricas já praticava os princípios básicos da gastronomia. 
+O baixo percentual de escolas públicas a ofertarem o curso superior de gastronomia no Brasil mostra que grande parte da demanda existente é suprida por cursos superiores pagos (94% do total), e dessa forma o potencial para a oferta do ensino público gratuito no Brasil é enorme.
 
-Nos dias de hoje, a quantidade de informações que se produz é muito maior do que a que se produzia em séculos passados, o que demanda do homem uma capacidade de absorção e aceitação (ou não) muito rápida, porém muitas vezes não dispondo tempo de interpretar as ideias  ou  aceitá-las  de  forma  que  se  tornem  confortáveis.  Tais  mudanças  geradas  pelo conhecimento da sociedade moderna fez com que a especialização da mão-de-obra se tornasse muito mais necessária, demandando habilidades para que a geração empirista dos séculos passados fosse substituída pela capacidade de aliar conhecimentos técnicos e científicos à prática profissional. 
+Esse fato é comprovado com os números da concorrência para o vestibular para o curso em instituições gratuitas: i) o vestibular para o curso de Tecnologia em Gastronomia do IFSC de Florianópolis apresentou 29,95 candidatos por vaga (IFSC, 2018); ii) o curso de Gastronomia do Instituto Federal do Ceará (IFCE) foi o 14° curso mais concorrido, com 879 candidatos inscritos no vestibular 2018 (IFCE, 2018) e iii) no IFPI (Instituto Federal do Piauí a concorrência para o mesmo curso foi de 57,43 candidatos por vaga (IFPI, 2018). Esses números denotam a enorme procura pelo curso no âmbito dos institutos federais e de forma gratuita.
 
-O momento atual  pede um profissional  da área da alimentação que comporte as constantes evoluções do conhecimento, o qual se favorece pelo fato de ter tal conhecimento como  seu  principal  capital.  Nesse  sentido,  as  formações  técnica  e  tecnológica  formam profissionais mais competentes, com atuação baseada em informações que contribuam para processos sociais, econômicos, ambientais etc. 
+Vale lembrar que o curso de Gastronomia ofertado pela UFRJ (Universidade Federal do Rio de Janeiro) na época do seu lançamento (2011) alcançou 115,88 candidatos por vaga, sendo o curso mais concorrido da instituição na época, inclusive superior ao tradicional e renomado curso de medicina, que teve concorrência de 104,23 candidatos/vaga (GUIA DO ESTUDANTE, 2017).
 
-É importante pontuar que a gastronomia propriamente dita, especialmente nas últimas décadas, desmembra-se do hábito comum da alimentação de modo a incrementar esse ato e inseri-lo em um âmbito mais refinado, técnico, artístico e conceitual. Como pontua Krause (2001, p.07) a alimentação humana utiliza-se de fundamentos de nutrição, química, engenharia de alimentos e também da gastronomia. Porém, aplicar conceitos gastronômicos ao processo de produção, serviço, venda (ou não) de alimentos é agregar valor a esse momento tão importante da manutenção da vida humana. 
+Segundo a Organização Mundial de Turismo (OMT, 2016), o Turismo é considerado o terceiro setor mais lucrativo da economia mundial, sendo que o segmento que mais cresce é o de viagens de negócios e eventos. Dos US$ 3,4 trilhões gerados pelo setor, anualmente em todo o mundo, US$ 850 bilhões são oriundos do turismo de eventos que cresce a uma taxa anual de 30%. Conforme levantamento divulgado no final de 2001, os gastos destinados à permanência
 
-O turismo gastronômico ou os serviços de alimentação como elementos pertencentes à infraestrutura básica do turismo, aqui compreendidos como a gastronomia de uma localidade ou destino,  têm  sido argumentos  importantes também em tempos de popularização  das viagens e o consequente aumento do movimento turístico no país e no mundo. Nesse sentido, melhorar, ampliar e consolidar a oferta da gastronomia, aqui compreendido como elemento 
+daqueles que viajam por motivo de evento, período em geral superior a três dias, 36,7% se destinam à hospedagem; 30,4% ao transporte (viagens aéreas, locação de automóveis, uso de táxi e outros meios); 18,6% à alimentação e 14,3% a outras despesas.
 
-20 
+Numa projeção sobre o turismo global, até o ano de 2020, a OMT estudou dados compilados de 85 países, incluindo o Brasil, e revela que o número de viajantes ao exterior deve saltar de 563 milhões (apurados em 1995) para 1,6 bilhão em 2020. A fatia da população mundial viajando ao exterior subirá para 7% em 2020.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Segundo o Ministério do Turismo a atividade turística movimentou no ano de 2014 no Brasil cerca de R$492 bilhões, o que corresponde a cerca de 9,6% do PIB (produto interno bruto) em atividades diretas, indiretas ou induzidas, tendo nesse ano um investimento de R$59,6 bilhões. Ainda segundo informações do Ministério, o setor respondeu por aproximadamente 8,8% dos postos de trabalho do país, direta ou indiretamente (MINISTÉRIO DO TURISMO, 2015).
 
-básico para a ocorrência do turismo, auxiliará no desenvolvimento dessa atividade econômica, já  que  possibilita  a  ampliação  da  oferta  de  empregos,  melhores  condições  de  trabalho, valorização da cultura local e incremento do consumo. 
+Em uma perspectiva mundial, o turismo gerou no ano de 2014 cerca de US$7,6 trilhões, ou 10% de toda riqueza gerada no mundo, contando com 277 milhões de empregos gerados. De acordo com esses dados, o Brasil é a 10ª economia do mundo.
 
-Para a gastronomia, como um dos elementos básicos do turismo, é fundamental que um destino  invista  em  capacitação  profissional  para  atuar  nos  diversos  estabelecimentos  de alimentos e bebidas, eventos e hospedagem, buscando também incentivar o empreendedorismo competente e responsável. 
+Nesse contexto, a gastronomia gera grande parte desses números, e só no Brasil são estimados 1 milhão de bares e restaurantes, segundo a Associação Brasileira de Bares e Restaurantes (ABRASEL, 2015). Ainda segundo a entidade, o setor gastronômico descrito gerou cerca de R$140 bilhões no ano de 2014, com um crescimento de 8,6% em relação ao ano anterior.
 
-Arkhestrato,  filósofo  grego  da  Era  Clássica,  definiu  gastronomia  como  "estudo  e observância das leis do estômago" (Montanari e Flandrin, 2007; Franco, 2001). O célebre BrillatSavarin (1995, p.57) define gastronomia objetivamente como “conhecimento fundamentado de tudo o que se refere ao homem, na medida em que se alimenta”. O autor ainda cita como objetivo da gastronomia zelar pela conservação dos homens, por meio da melhor alimentação possível. 
+O Instituto Paranaense de Desenvolvimento Econômico e Social (IPARDES) traçou o perfil turístico da região Cataratas do Iguaçu e Caminhos do Lago de Itaipu, situada no extremo oeste do estado. Esse relatório menciona dados de 2016, e cita um total de 874 (oitocentos e setenta e quatro) estabelecimentos relacionados à alimentação na região, ou 5,88% do total de 14.857 (quatorze  mil, oitocentos  e cinquenta e sete) do estado do Paraná. Os estabelecimentos relacionados à atividade turística nessa região somam 1.476 (mil, quatrocentos e setenta e seis) dos 20.004 (vinte mil e quatro) do estado (INSTITUTO PARANAENSE DE DESENVOLVIMENTO ECONÔMICO E SOCIAL, 2018).
 
-O conceito de gastronomia preconizado no país ícone dessa área - a França - surgiu somente em 1623 na tradução da obra de Arkhestrato, porém evoluiu para preceitos de comer e beber bem, além da arte de preparar os alimentos para deles obter o máximo de satisfação (FRANCO, 2001, p. 167). 
+O Município de Foz do Iguaçu encontra-se em destaque no ramo turístico, hoteleiro e gastronômico  em  termos  quantitativos  e  qualitativos.  No  primeiro  caso,  referimo-nos  ao número de turistas nacionais e internacionais que visitam a cidade numa periodicidade anual importante, na segunda observação destacamos um cenário de mudanças para oferecer não somente uma cidade de belas paisagens naturais, mas também de ótima estrutura de meios de hospedagem e de restaurantes, promovendo um aquecimento do setor econômico de toda a região.
 
-O dicionário Houaiss (2010, p.384) descreve gastronomia como "prática e ." conhecimentos da arte culinária. O prazer de apreciar pratos finos 
+Em estudo realizado pela Secretaria de Turismo do município (2017), o movimento de
 
-A definição de gastronomia, quando aplicada a um determinado contexto turístico, nos fornece  subsídios  para compreender como a sociedade  se desenvolveu e  convive com o ambiente em que se situa. De acordo com Carneiro (2003) e Dória (2009) a alimentação reflete como o homem evoluiu num determinado ambiente, expressando seus valores e modo de vida. 
+passageiros em 2016 no aeroporto da cidade superou 1,8 milhões de pessoas. O órgão também menciona que a ocupação média da rede hoteleira no município foi de 53,9% dos leitos disponíveis.  Outra  informação  relevante  identificada  no  Inventário  Técnico  de  Estatísticas turísticas de Foz do Iguaçu é o número de críticas dos turistas em relação aos serviços de alimentação do município, sendo os _restaurantes_ a dimensão com 4,8% das observações e a _gastronomia_ com 5,8% delas.
 
-A gastronomia sempre acompanhou as mudanças da sociedade, haja visto que o ato da alimentação é uma das necessidades humanas mais básicas, a forma como tratamos a matéria também evoluiu. Nos diversos momentos da história a forma como pensamos a gastronomia alterou-se significativamente, e essa área sempre foi motivo de estudo intenso, seja desde os tempos antigos quando a alimentação era tratada como importante ramo da saúde, na Idade Média ou Renascença com a aplicação dos preceitos de arte e saúde na alimentação, ou no decorrer dos séculos recentes quando ela passou a ser  tratada de forma mais hedonista e também profissional (CARNEIRO, 2003; FRANCO, 2001; MONTANARI e FLANDRIN, 2007). 
+A Secretaria de Turismo do município contabilizava 206 empreendimentos gastronômicos em estudo realizado em 2014, considerando somente os corredores turísticos do município, o que denota o grande mercado de atuação do profissional da gastronomia na cidade (FOZ DO IGUAÇU, 2017).
 
-No Brasil, como mencionam Barreto e Senra (2004), a formação em gastronomia sempre se deu de forma prática e empírica, com a formação de profissionais dentro dos restaurantes através de anos de experiência. Barreto e Senra (2004) citam ainda que a formação profissional no país só começa a ser observada com a vinda dos _chefs_ de cozinha europeus na década de 1970. 
+Neste sentido a região oeste do Paraná, especificamente o município de Foz do Iguaçu representa um importante local para a implantação de cursos profissionalizantes na área do Turismo, Hospitalidade e Lazer, auferindo conhecimentos, saberes, habilidades e competências para a comunidade local, com o grande objetivo de desenvolver um aprendizado coletivo instituindo uma comunidade socialmente e economicamente desenvolvida e sustentável.
 
-21 
+A gastronomia destaca-se como um dos mais importantes elementos do turismo, já que atende a uma necessidade básica do ramo. Dória (2009), Carneiro (2003) e Castelli (2005) contextualizam a gastronomia como importante aspecto cultural de qualquer território, onde desde os primórdios das civilizações a alimentação reflete o modo de vida construído em cada ambiente, por força das interações do homem e suas diversas influências na localidade e suas características geográficas.
 
-**==> picture [472 x 55] intentionally omitted <==**
+De acordo com Krause (2001, p.05) o turismo, baseado na movimentação de pessoas em localidades distantes de suas residências, tem como um dos elementos possibilitadores, os equipamentos turísticos voltados primariamente às funções de acomodação e alimentação destes  elementos  em  trânsito.  O  autor  cita  ainda  a  importância  da  gastronomia  como impulsionador de destinações turísticas, por meio da valorização da cultura local.
 
-A ideia da profissionalização do setor da gastronomia, incluindo a formação profissional formal,  inicia-se  no  Brasil  na  década  de  1990  com  o  Serviço  Nacional  de  Aprendizagem Comercial (SENAC) em parceria com o Culinary Institute of America (CIA) com a implantação do curso de Cozinheiro Chef Internacional. No final dessa década ainda surgem os primeiros cursos superiores de Gastronomia no Brasil (KRAUSE, 2001). O autor ainda aponta diversos fatores motivadores no início dos anos 2000 para a crescente demanda por cursos da área, dentre eles a saturação da formação em profissões tradicionais como medicina ou direito, o que motivou as escolas a diversificarem sua oferta, atraindo alunos para essa nova proposta de ensino. Essa recente história da formação superior da área no país denota a necessidade de expansão da oferta. 
+Do ponto de vista do turismo, a gastronomia pode ser vista basicamente por duas óticas: a do produto turístico (HORNG E TSAI, 2012; SÁNCHEZ-CAÑIZARES E LÓPEZ-GUZMÁN, 2012) e como  elemento  da  infraestrutura  básica  para  o  turismo  (CASTELLI,  2005;  MONTANARI  E FLANDRIN, 2007).
 
-A profissionalização da área durante a história também deixou de ser estritamente empirista, onde o cozinheiro aprendia o ofício na prática das cozinhas ou sob o ensinamento familiar. A gastronomia hoje tornou-se matéria séria, estudada em cursos de vários níveis, inclusive em cursos superiores de Tecnologia e Bacharelado. 
+Como produto turístico denota a cultura de uma localidade, segundo suas formas de interpretar  a  alimentação,  técnicas  específicas,  valores,  meios  de  produção,  despertando curiosidade e imersão na cultura local, do ponto de vista do turista (CARNEIRO, 2003; DÓRIA, 2009; CASTELLI, 2005; HORNG E TSAI, 2012).
 
-Para  ilustrar  ainda a necessidade  de  conhecimentos inerentes aos profissionais da Gastronomia,  serão  citados  alguns  aspectos  gerais  que  formam  o  hábito  alimentar contemporâneo. São eles: 
+Krause (2001, p.17) cita também a gastronomia como importante fator de atratividade dos destinos turísticos, motivados pela curiosidade, sabor, prazer e lazer.
 
-- Aspectos modernos, relativos à indústria de alimentos, como produção de enlatados, conservação pelo frio, pasteurização, desidratação, processamento e distribuição; 
+A  gastronomia  como elemento  da infraestrutura  básica  do  turismo explicita-se  na própria definição de turismo, bem como na relevância da alimentação como suporte da vida. Consequentemente, deve estar presente na oferta de equipamentos turísticos (CASTELLI, 2005, RUSCHMANN E SOLHA, 2006).
 
-- Aspectos econômicos, como a produção agrícola, que por sua vez ressalta os alimentos geneticamente modificados ou orgânicos, produção industrial e de processamento e preparação dos alimentos; 
+Nesse sentido, melhorar, ampliar e consolidar a oferta da gastronomia como elemento básico e também  atrativo turístico auxiliará no desenvolvimento dessa atividade econômica e do contexto em que estiver inserida, já que possibilitará ampliação da oferta de empregos, melhores condições de trabalho, valorização da cultura local e incremento do consumo.
 
-- Aspectos tecnológicos da preparação dos alimentos, como a evolução das técnicas culinárias com inspiração científica e modernista, o uso de equipamentos e utensílios modernos, métodos de conservação aplicados ao processamento e distribuição; 
+Montanari e Flandrin (2007) e Castelli (2005) denotam como a gastronomia pode ser compreendida como produto turístico, e ilustram ainda sua importância para o desenvolvimento do turismo.  Horng  e Tsai  (2012) apresentam  a ideia de  que  o turismo gastronômico  pode  ser  utilizado  como  importante  ferramenta  para  o  desenvolvimento estratégico de uma localidade. Dória (2009) cita a importância da culinária regional como fator de expressão cultural.
 
-- Aspectos históricos, que demonstram através da documentação de fatos a relação da alimentação e evolução do homem e das civilizações através dos tempos; 
+A Gastronomia do século XXI suplanta o ato do fazer e visa o saber fazer, porque fazer e como fazer. Portanto, não cabe mais uma abordagem superficial dos conteúdos dentro das unidades curriculares. Todos os conteúdos pertinentes à atuação profissional consciente devem ser abordados de forma completa e aprofundados.
 
-- Aspectos contemporâneos, como nutrição, modismos, diversidade de gêneros culturais e rápida comunicação ou globalização; 
+A gastronomia demanda hoje de ferramentas para formação profissional que atendam às demandas da globalização atual, pois como menciona Krause (2001) a globalização exigirá dos prestadores de serviço do ramo da alimentação cada vez mais capacitação para atender aos evolucionismos impostos por esse movimento, justamente pela rápida comunicação e troca de informações entre comunidades.
 
-- Abordagem  social  do  alimento,  como  os  diversos  programas  governamentais  para amenizar  o  problema  da  fome  no  país  e  os  estudos  científicos  para  aumentar  a produtividade e contribuir com esse aspecto, entre outros fatores. 
+No complexo contexto sobre o mercado da Gastronomia apresentado, sua forma de estudo hoje transpassa a necessidade da técnica pura. O entendimento da tecnologia na sua amplitude e profundidade é complexo, pois inclui várias dimensões que abordam aspectos sociais, econômicos, antropológicos e científicos, para fundamentarem as ações simplesmente técnicas (HARRINGTON _et al,_ 2005).
 
-Estes aspectos citados fazem parte de uma pequena seleção do imenso conteúdo que 
+Com a constante mutação do mercado profissional e dos estudos em gastronomia o conhecimento, além de capital, é a ferramenta para promoção social nos mais diversos aspectos da tecnologia, e para tanto se faz necessária uma nova abordagem do conhecimento, que formulada através da base empírica da prática, constitui uma nova base epistemológica para a Gastronomia, nos seus mais diversos ramos de atuação. O século do conhecimento baseia-se em ideias antes pouco valorizadas e o principal produto de venda é o conceito em que os mais variados produtos estão imbuídos.
 
-envolve o homem e o ato da alimentação. Assim, vale ressaltar a importância da instalação e manutenção da formação e capacitação profissional na área da gastronomia, em diversos níveis e modalidades de ensino, importantes agentes transformadores do mercado profissional, em 
+Como consta nos Referenciais Curriculares Nacionais da Educação Profissional de Nível
 
-22 
+Técnico, da área profissional de Turismo e Hospitalidade (BRASIL, 2007), o momento histórico torna  urgente  a  formação  de  um  profissional  capaz  de  utilizar  técnicas  e  ferramentas profissionais.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Além dos aspectos relacionados aos meios de produção mais eficazes, o profissional competente é aquele que, numa sociedade desigual, articula os mesmos meios de produção destinados às classes ricas com as responsabilidades sociais e a sustentabilidade, e assim promove  o  estudo  da  questão  e  leva  também  às  classes  mais  pobres  o  conceito  de Gastronomia.
 
-especial os cursos de Tecnologia. 
+Vale destacar pesquisa realizada pelo Colegiado de Cozinha no ano de 2018 sobre demandas de cursos da área de Gastronomia para serem ofertadas no IFPR Foz do Iguaçu. Por encontrar-se permanentemente aberto a respostas, o questionário conta com resultado parcial, onde 112 (cento e doze) pessoas apontaram o curso superior como demanda de ensino na instituição, a partir dos 174 (cento e setenta e quatro) questionários respondidos até o dia 08 de agosto de 2018.
 
-O sistema eMEC mantido pelo Ministério da Educação do Brasil apresenta relatório para os cursos superiores de Gastronomia, com um total de 315 (trezentos e quinze) cursos de graduação cadastrados, presenciais ou a distância, nas modalidades bacharelado ou tecnólogo (MINISTÉRIO DA EDUCAÇÃO, 2018). 
+Outro aspecto de destaque é a carta recebida pelo mesmo Colegiado no primeiro semestre de 2018 pela ABRASEL OESTE PR, apontando o curso Superior de Gastronomia como um dos anseios do mercado profissional local, além de ter disponibilizado apoio em futuras discussões e até mesmo para implantação do curso.
 
-Do total de cursos cadastrados, somente 19 (dezenove) cursos são públicos, isto é, 6% da oferta geral. Dos 19 ofertados por instituições públicas, 11 (onze) são oferecidos por Institutos Federais, ou seja, 3,4% da oferta geral e 57,8% dos cursos públicos. Na região sul do país somente três instituições oferecem o curso – dois no estado do Rio Grande do Sul (Universidade Federal de Pelotas e Instituto Federal Farroupilha) e um no estado de Santa Catarina – o Instituto Federal de Santa Catarina (IFSC) (MINISTÉRIO DA EDUCAÇÃO, 2018). 
+Por fim, considerando os aspectos teóricos, mercadológicos e econômicos apontados, o Colegiado acredita que o Curso Superior de Gastronomia é viável e solicita apreciação desta proposta para abertura do mesmo.
 
-A região sudeste conta com quatro cursos públicos de Gastronomia, o centro-oeste possui três cursos e a região norte não oferta cursos gratuitos na área. A região nordeste é a que possui a maior oferta de cursos públicos e gratuitos do país – são nove ao todo (MINISTÉRIO DA EDUCAÇÃO, 2018). 
+## 2.2 OBJETIVOS
 
-O baixo percentual de escolas públicas a ofertarem o curso superior de gastronomia no Brasil mostra que grande parte da demanda existente é suprida por cursos superiores pagos (94% do total), e dessa forma o potencial para a oferta do ensino público gratuito no Brasil é enorme. 
+## **2.2.1 Objetivo Geral**
 
-Esse fato é comprovado com os números da concorrência para o vestibular para o curso em instituições gratuitas: i) o vestibular para o curso de Tecnologia em Gastronomia do IFSC de Florianópolis apresentou 29,95 candidatos por vaga (IFSC, 2018); ii) o curso de Gastronomia do Instituto Federal do Ceará (IFCE) foi o 14° curso mais concorrido, com 879 candidatos inscritos no vestibular 2018 (IFCE, 2018) e iii) no IFPI (Instituto Federal do Piauí a concorrência para o mesmo curso foi de 57,43 candidatos por vaga (IFPI, 2018). Esses números denotam a enorme procura pelo curso no âmbito dos institutos federais e de forma gratuita. 
+Formar gastrônomos com competências e habilidades para produzir, servir, planejar, empreender e gerir negócios na área de alimentos e bebidas com inovação e responsabilidade socioambiental.
 
-Vale lembrar que o curso de Gastronomia ofertado pela UFRJ (Universidade Federal do Rio de Janeiro) na época do seu lançamento (2011) alcançou 115,88 candidatos por vaga, sendo o curso mais concorrido da instituição na época, inclusive superior ao tradicional e renomado curso de medicina, que teve concorrência de 104,23 candidatos/vaga (GUIA DO ESTUDANTE, 2017). 
+## **2.2.2 Objetivos Específicos**
 
-Segundo a Organização Mundial de Turismo (OMT, 2016), o Turismo é considerado o terceiro setor mais lucrativo da economia mundial, sendo que o segmento que mais cresce é o de viagens de negócios e eventos. Dos US$ 3,4 trilhões gerados pelo setor, anualmente em todo o mundo, US$ 850 bilhões são oriundos do turismo de eventos que cresce a uma taxa anual de 30%. Conforme levantamento divulgado no final de 2001, os gastos destinados à permanência 
+- Desenvolver  capacidades  para  as  funções  de  gestor,  supervisor  e  coordenador  da produção e serviços de alimentos e bebidas;
 
-23 
+- Desenvolver habilidades gastronômicas de produção e execução de alimentos;
 
-**==> picture [472 x 55] intentionally omitted <==**
+- Formar  e  atualizar  com  novas  tecnologias  de  trabalho,  gestores,  supervisores  e coordenadores em gastronomia.
 
-daqueles que viajam por motivo de evento, período em geral superior a três dias, 36,7% se destinam à hospedagem; 30,4% ao transporte (viagens aéreas, locação de automóveis, uso de táxi e outros meios); 18,6% à alimentação e 14,3% a outras despesas. 
+- Desenvolver as características profissionais para empreender e analisar o mercado da gastronomia.
 
-Numa projeção sobre o turismo global, até o ano de 2020, a OMT estudou dados compilados de 85 países, incluindo o Brasil, e revela que o número de viajantes ao exterior deve saltar de 563 milhões (apurados em 1995) para 1,6 bilhão em 2020. A fatia da população mundial viajando ao exterior subirá para 7% em 2020. 
+- Formar trabalhadores  para o gerenciamento dos problemas e criação de soluções, voltados para os resultados econômicos, financeiros e de satisfação dos clientes.
 
-Segundo o Ministério do Turismo a atividade turística movimentou no ano de 2014 no Brasil cerca de R$492 bilhões, o que corresponde a cerca de 9,6% do PIB (produto interno bruto) em atividades diretas, indiretas ou induzidas, tendo nesse ano um investimento de R$59,6 bilhões. Ainda segundo informações do Ministério, o setor respondeu por aproximadamente 8,8% dos postos de trabalho do país, direta ou indiretamente (MINISTÉRIO DO TURISMO, 2015). 
+## 2.3  RESPONSABILIDADE SOCIAL, AMBIENTAL E PATRIMONIAL
 
-Em uma perspectiva mundial, o turismo gerou no ano de 2014 cerca de US$7,6 trilhões, ou 10% de toda riqueza gerada no mundo, contando com 277 milhões de empregos gerados. De acordo com esses dados, o Brasil é a 10ª economia do mundo. 
+## **2.3.1 A Responsabilidade Social do Curso**
 
-Nesse contexto, a gastronomia gera grande parte desses números, e só no Brasil são estimados 1 milhão de bares e restaurantes, segundo a Associação Brasileira de Bares e Restaurantes (ABRASEL, 2015). Ainda segundo a entidade, o setor gastronômico descrito gerou cerca de R$140 bilhões no ano de 2014, com um crescimento de 8,6% em relação ao ano anterior. 
+Pautados no objetivo do Curso, objetiva-se proporcionar ao acadêmico uma experiência embasada no tripé educacional, fundamentados no Ensino, Pesquisa e Extensão. Para que o acesso as três áreas de excelência da educação sejam atendidas, o Curso Superior de Tecnologia em Gastronomia desenvolve, além da execução normal da sua matriz curricular, ações de responsabilidade  sociais  atreladas  a  pesquisa  e  extensão,  contemplados  em  atividades desenvolvidas pelos professores, acadêmicos com a comunidade.
 
-O Instituto Paranaense de Desenvolvimento Econômico e Social (IPARDES) traçou o perfil turístico da região Cataratas do Iguaçu e Caminhos do Lago de Itaipu, situada no extremo oeste do estado. Esse relatório menciona dados de 2016, e cita um total de 874 (oitocentos e setenta e quatro) estabelecimentos relacionados à alimentação na região, ou 5,88% do total de 14.857 (quatorze  mil, oitocentos  e cinquenta e sete) do estado do Paraná. Os estabelecimentos relacionados à atividade turística nessa região somam 1.476 (mil, quatrocentos e setenta e seis) dos 20.004 (vinte mil e quatro) do estado (INSTITUTO PARANAENSE DE DESENVOLVIMENTO ECONÔMICO E SOCIAL, 2018). 
+A  política  de  responsabilidade  social  está  então  alicerçada,  nas  novas  exigências relacionadas ao ensino superior e em suas modalidades de avaliação da qualidade. A lei nº. 10.861/2004 dá um indicativo sobre como a responsabilidade social deverá ser observada pelo Sistema Nacional de Avaliação da Educação Superior: “A responsabilidade social da instituição, considerada especialmente no que se refere à sua contribuição em relação à inclusão social; ao desenvolvimento econômico e social; à defesa do meio ambiente, da memória cultural, da produção artística e do patrimônio cultural – contempla o compromisso social da instituição na qualidade de portadora da educação como bem público e expressão da sociedade democrática e plural, de respeito pela diferença e de solidariedade, independentemente da configuração jurídica”.
 
-O Município de Foz do Iguaçu encontra-se em destaque no ramo turístico, hoteleiro e gastronômico  em  termos  quantitativos  e  qualitativos.  No  primeiro  caso,  referimo-nos  ao número de turistas nacionais e internacionais que visitam a cidade numa periodicidade anual importante, na segunda observação destacamos um cenário de mudanças para oferecer não somente uma cidade de belas paisagens naturais, mas também de ótima estrutura de meios de hospedagem e de restaurantes, promovendo um aquecimento do setor econômico de toda a região. 
+De acordo com o Plano de Desenvolvimento Institucional do IFPR são inúmeros os desafios econômicos, sociais e políticos que precisam ser enfrentados pelas instituições de ensino superior, especialmente as públicas. O IFPR não pode ignorar a importância de sua colaboração  na  construção  de  uma  sociedade  mais justa  e  igualitária,  motivo  pelo  qual, constam,  em  seu  estatuto,  os  seguintes  princípios  norteadores,  reveladores  de  sua responsabilidade social:
 
-Em estudo realizado pela Secretaria de Turismo do município (2017), o movimento de 
+I. Compromisso com a justiça social, equidade, cidadania, ética, preservação do meio ambiente, transparência e gestão democrática;
 
-24 
+II. Eficácia nas respostas de formação profissional, difusão do conhecimento científico e tecnológico e suporte aos arranjos produtivos locais, sociais e culturais;
 
-**==> picture [472 x 55] intentionally omitted <==**
+III. Inclusão de pessoas com deficiências e necessidades educacionais especiais;
 
-passageiros em 2016 no aeroporto da cidade superou 1,8 milhões de pessoas. O órgão também menciona que a ocupação média da rede hoteleira no município foi de 53,9% dos leitos disponíveis.  Outra  informação  relevante  identificada  no  Inventário  Técnico  de  Estatísticas turísticas de Foz do Iguaçu é o número de críticas dos turistas em relação aos serviços de alimentação do município, sendo os _restaurantes_ a dimensão com 4,8% das observações e a _gastronomia_ com 5,8% delas. 
+IV. Natureza pública e gratuita do ensino, sob a responsabilidade da União. ‘Partindo desses princípios, o IFPR desenvolverá políticas de responsabilidade social tendo em vista as seguintes diretrizes:
 
-A Secretaria de Turismo do município contabilizava 206 empreendimentos gastronômicos em estudo realizado em 2014, considerando somente os corredores turísticos do município, o que denota o grande mercado de atuação do profissional da gastronomia na cidade (FOZ DO IGUAÇU, 2017). 
+- Garantir o acesso de todos à educação, dedicando Atenção especial às camadas que historicamente vêm sofrendo processos de exclusão
 
-Neste sentido a região oeste do Paraná, especificamente o município de Foz do Iguaçu representa um importante local para a implantação de cursos profissionalizantes na área do Turismo, Hospitalidade e Lazer, auferindo conhecimentos, saberes, habilidades e competências para a comunidade local, com o grande objetivo de desenvolver um aprendizado coletivo instituindo uma comunidade socialmente e economicamente desenvolvida e sustentável. 
+- Zelar para que a produção e a transmissão do conhecimento sejam orientados para o interesse público e o bem comum;
 
-A gastronomia destaca-se como um dos mais importantes elementos do turismo, já que atende a uma necessidade básica do ramo. Dória (2009), Carneiro (2003) e Castelli (2005) contextualizam a gastronomia como importante aspecto cultural de qualquer território, onde desde os primórdios das civilizações a alimentação reflete o modo de vida construído em cada ambiente, por força das interações do homem e suas diversas influências na localidade e suas características geográficas. 
+- Formar profissionais compromissados com a ética, a transparência, a justiça, a paz e interesse social;
 
-De acordo com Krause (2001, p.05) o turismo, baseado na movimentação de pessoas em localidades distantes de suas residências, tem como um dos elementos possibilitadores, os equipamentos turísticos voltados primariamente às funções de acomodação e alimentação destes  elementos  em  trânsito.  O  autor  cita  ainda  a  importância  da  gastronomia  como impulsionador de destinações turísticas, por meio da valorização da cultura local. 
+- Lutar pelo comprometimento social com a preservação do meio ambiente;
 
-Do ponto de vista do turismo, a gastronomia pode ser vista basicamente por duas óticas: a do produto turístico (HORNG E TSAI, 2012; SÁNCHEZ-CAÑIZARES E LÓPEZ-GUZMÁN, 2012) e como  elemento  da  infraestrutura  básica  para  o  turismo  (CASTELLI,  2005;  MONTANARI  E FLANDRIN, 2007). 
+- Orientar suas ações educativas para o trabalho coletivo, a solidariedade, o respeito à diversidade;
 
-Como produto turístico denota a cultura de uma localidade, segundo suas formas de interpretar  a  alimentação,  técnicas  específicas,  valores,  meios  de  produção,  despertando curiosidade e imersão na cultura local, do ponto de vista do turista (CARNEIRO, 2003; DÓRIA, 2009; CASTELLI, 2005; HORNG E TSAI, 2012). 
+- Implementar canais de relacionamento que favoreçam o diálogo com a comunidade, de forma a realimentar as reflexões e as políticas institucionais;
 
-Krause (2001, p.17) cita também a gastronomia como importante fator de atratividade dos destinos turísticos, motivados pela curiosidade, sabor, prazer e lazer. 
+- Articular-se aos movimentos sociais, apoiando as diferentes formas de organizações de cidadãos;
 
-25 
+- Lutar contra os preconceitos de toda ordem, promovendo a diversidade como valor intrínseco às suas práticas.
 
-**==> picture [472 x 55] intentionally omitted <==**
+No Curso Superior de Tecnologia em Gastronomia do IFPR, a responsabilidade social está evidenciada  em  projetos  de  aproveitamento  e  reaproveitamento  integral  de  alimentos ensinando e elaborando pratos para atender de forma a ensinar e oferecer uma qualidade nutricional a comunidades carentes.
 
-A  gastronomia  como elemento  da infraestrutura  básica  do  turismo explicita-se  na própria definição de turismo, bem como na relevância da alimentação como suporte da vida. Consequentemente, deve estar presente na oferta de equipamentos turísticos (CASTELLI, 2005, RUSCHMANN E SOLHA, 2006). 
+No nível de pesquisa, uma atividade proposta pelo curso avalia a presença de microbiota patogênica com mãos de manipulador, anéis, adornos, maçanetas e feita orientação de lavagem das mãos. Um trabalho desenvolvido em âmbito de pesquisa que envolve e contato in loco com manipuladores e consumidores de alimentos em praça de alimentação, ensinando a utilização de álcool gel 70% abordagem nas diferentes culturas que estão presentes, na nossa região de tríplice fronteira. A relevância da formação superior profissional de Gastronomia: um estudo de caso embasado em pesquisa e levantamento também proporciona aos acadêmicos, integração e fundamentação técnico-científica para sua formação.
 
-Nesse sentido, melhorar, ampliar e consolidar a oferta da gastronomia como elemento básico e também  atrativo turístico auxiliará no desenvolvimento dessa atividade econômica e do contexto em que estiver inserida, já que possibilitará ampliação da oferta de empregos, melhores condições de trabalho, valorização da cultura local e incremento do consumo. 
+Em se tratando de responsabilidade social, a Gastronomia atende, através do Programa “gastronomia  social”,  entidades  assistencialistas,  ensinando  e  produzindo  aproveitamento integral dos alimentos ao público atendido pela mesma”.
 
-Montanari e Flandrin (2007) e Castelli (2005) denotam como a gastronomia pode ser compreendida como produto turístico, e ilustram ainda sua importância para o desenvolvimento do turismo.  Horng  e Tsai  (2012) apresentam  a ideia de  que  o turismo gastronômico  pode  ser  utilizado  como  importante  ferramenta  para  o  desenvolvimento estratégico de uma localidade. Dória (2009) cita a importância da culinária regional como fator de expressão cultural. 
+## **2.3.2 Meio Ambiente e Desenvolvimento Humano**
 
-A Gastronomia do século XXI suplanta o ato do fazer e visa o saber fazer, porque fazer e como fazer. Portanto, não cabe mais uma abordagem superficial dos conteúdos dentro das unidades curriculares. Todos os conteúdos pertinentes à atuação profissional consciente devem ser abordados de forma completa e aprofundados. 
+A questão ambiental tem sido assunto de intenso interesse e discussão ao longo das últimas décadas. Diversos países, estados, municípios, instituições tem discutido mecanismos e diretrizes  no  sentido  de  reverter  o  quadro  negativo  e  apontar  novos  rumos  para  um desenvolvimento sem agressões ao meio ambiente, utilizando de forma racional os recursos naturais.
 
-A gastronomia demanda hoje de ferramentas para formação profissional que atendam às demandas da globalização atual, pois como menciona Krause (2001) a globalização exigirá dos prestadores de serviço do ramo da alimentação cada vez mais capacitação para atender aos evolucionismos impostos por esse movimento, justamente pela rápida comunicação e troca de informações entre comunidades. 
+O conceito de Desenvolvimento Sustentável nunca foi tão importante. O homem precisa mudar sua forma de relacionar com a natureza. Suas ações devem estar voltadas para a preservação de seu próprio ambiente, sob o risco das gerações futuras serem penalizadas.
 
-No complexo contexto sobre o mercado da Gastronomia apresentado, sua forma de estudo hoje transpassa a necessidade da técnica pura. O entendimento da tecnologia na sua amplitude e profundidade é complexo, pois inclui várias dimensões que abordam aspectos sociais, econômicos, antropológicos e científicos, para fundamentarem as ações simplesmente técnicas (HARRINGTON _et al,_ 2005). 
+A Lei n°.9.795, de27 de abril de 199, institui a Po lítica Nacional de Educação Ambiental e estabelece,  em  seu  Art.2°,  que  “a  educação  ambienta  l  é  um  componente  essencial  e permanente da educação nacional, devendo estar presente, de forma articulada, em todos os níveis e modalidades do processo educativo, em caráter formal e não-formal”.
 
-Com a constante mutação do mercado profissional e dos estudos em gastronomia o conhecimento, além de capital, é a ferramenta para promoção social nos mais diversos aspectos da tecnologia, e para tanto se faz necessária uma nova abordagem do conhecimento, que formulada através da base empírica da prática, constitui uma nova base epistemológica para a Gastronomia, nos seus mais diversos ramos de atuação. O século do conhecimento baseia-se em ideias antes pouco valorizadas e o principal produto de venda é o conceito em que os mais variados produtos estão imbuídos. 
+Diante disso podemos dizer que o Curso Superior em Gastronomia tem uma grande preocupação com o meio ambiente, já que quase 100% da sua matéria prima para aulas é proveniente do meio ambiente. Por isso no decorrer das aulas praticas e teóricas sempre é abordado a relação do uso e consumo consciente dos alimentos, bem como seu uso de uma forma  racional,  sem  ter  desperdícios  e  sempre  cuidando  a  forma  pré  preparo,  preparo, manuseio e armazenagem do mesmo, pois conforme pesquisa realizada mais de 15% dos ingredientes comprados ao final do expediente de um restaurante acaba indo parar na lixeira. Ações realizadas nas aulas praticas com os alunos são:
 
-Como consta nos Referenciais Curriculares Nacionais da Educação Profissional de Nível 
+- Eles os principais responsáveis pelo desperdiço;
 
-26 
+- Avaliação dos ingredientes disponíveis na geladeira e dispensa para poder utilizar eles antes do prazo de validade ou antes que os mesmos estraguem;
 
-**==> picture [472 x 55] intentionally omitted <==**
+- Alteração do cardápio para minimizar a quantidade de sobras;
 
-Técnico, da área profissional de Turismo e Hospitalidade (BRASIL, 2007), o momento histórico torna  urgente  a  formação  de  um  profissional  capaz  de  utilizar  técnicas  e  ferramentas profissionais. 
+- Reciclar tudo que pode ser reciclado;
 
-Além dos aspectos relacionados aos meios de produção mais eficazes, o profissional competente é aquele que, numa sociedade desigual, articula os mesmos meios de produção destinados às classes ricas com as responsabilidades sociais e a sustentabilidade, e assim promove  o  estudo  da  questão  e  leva  também  às  classes  mais  pobres  o  conceito  de Gastronomia. 
+- Conduzir  um  gerenciamento  de  estoque  com  frequência  para  comprar  somente  o necessário;
 
-Vale destacar pesquisa realizada pelo Colegiado de Cozinha no ano de 2018 sobre demandas de cursos da área de Gastronomia para serem ofertadas no IFPR Foz do Iguaçu. Por encontrar-se permanentemente aberto a respostas, o questionário conta com resultado parcial, onde 112 (cento e doze) pessoas apontaram o curso superior como demanda de ensino na instituição, a partir dos 174 (cento e setenta e quatro) questionários respondidos até o dia 08 de agosto de 2018. 
+- Utilização de produtos sazonais e locais;
 
-Outro aspecto de destaque é a carta recebida pelo mesmo Colegiado no primeiro semestre de 2018 pela ABRASEL OESTE PR, apontando o curso Superior de Gastronomia como um dos anseios do mercado profissional local, além de ter disponibilizado apoio em futuras discussões e até mesmo para implantação do curso. 
+- Construção e manutenção de horta orgânica no próprio IF;
 
-Por fim, considerando os aspectos teóricos, mercadológicos e econômicos apontados, o Colegiado acredita que o Curso Superior de Gastronomia é viável e solicita apreciação desta proposta para abertura do mesmo. 
+- Cuidados com lavagem, limpeza e descascamento de hortifrutigranjeiros;
 
-## 2.2 OBJETIVOS 
+- Ficha técnica e ficha de produção;
 
-## **2.2.1 Objetivo Geral** 
+Além da questão ambiental o desenvolvimento humano também vem sendo foco de estudos há muito tempo e sua compreensão conceitual vem apresentando uma evolução significativa. O Índice de Desenvolvimento Humano (IDH) é um marco relevante no que tange a essa  busca  conceitual,  pois  amplia  os  indicadores  econômicos  existentes,  como  a  renda, incorporando também índices relacionados à saúde e à educação. Esse conjunto de aspectos passou a ser base de avaliação do desenvolvimento humano no mundo todo. Apesar da origem econômica dessa discussão, outras disciplinas aderiram ampliando as possibilidades interpretativas, marcando a introdução de um viés mais humano ao conceito.
 
-Formar gastrônomos com competências e habilidades para produzir, servir, planejar, empreender e gerir negócios na área de alimentos e bebidas com inovação e responsabilidade socioambiental. 
+No entanto, o conceito ainda não atingiu o limite de sua representatividade, sendo alvo de novas abordagens interpretativas que ganham sentido na análise ampliada do termo, as quais se agregam complementarmente às concepções já existentes, especialmente os aspectos subjetivos, cuja característica, de difícil mensuração, não é passível de ser avaliada pelos indicadores já existentes. Além desse aspecto, que se agregou às discussões conceituais sobre desenvolvimento humano, também passaram a fazer parte da discussão as inter-relações que ocorrem no transcorrer da vida, assim como a qualidade de vida e o bem-estar. E os aspectos culturais e históricos também ganham força e influência para o entendimento da temática, direcionando-o para o âmbito coletivo, incorporando noções de cidadania, responsabilidade e ética. Assim, percebe-se a importância de considerar  combinadamente  os aspectos físico, cognitivo, psicossocial, econômico e cultural para a proposição de uma noção ampliada do termo.
 
-## **2.2.2 Objetivos Específicos** 
+## **2.3.3 Memória , Patrimônio Artístico e Cultural**
 
-- Desenvolver  capacidades  para  as  funções  de  gestor,  supervisor  e  coordenador  da produção e serviços de alimentos e bebidas; 
+O PPC do curso de gastronomia tem o propósito em   promover o desenvolvimento regional  do  municipio  de  Foz  do  Iguaçu  com  objetivos  que  vem  de  encontro  com  a responsabilidade  social  do IFPR,  onde  o projeto pedagógico  busca integra  o processo de formação  das  pessoas  e  gerar  conhecimento respondendo  por  intermédio  da pesquisa e inclusão no mercado de trabalho as demandas da sociedade.
 
-- Desenvolver habilidades gastronômicas de produção e execução de alimentos; 
+Em  compreensão  as  ações  e  processos  formativos  dentro  da  estrutura  do  PPC encontramos exemplos como:
 
-- Formar  e  atualizar  com  novas  tecnologias  de  trabalho,  gestores,  supervisores  e coordenadores em gastronomia. 
+- As  disciplinas  culturais  como Brasileira, Clássica e  Etnias os estudantes  através  da
 
-27 
+   - estrutura pratico pedagógica do curso tem a capacidade de absorverem as diferentes culturas e replicarem no desenvolvimento local e promover uma valorização prática e intelectual, dos mesmos dentro do patrimônio artístico do município de Foz do Iguaçu.
 
-**==> picture [472 x 55] intentionally omitted <==**
+- Ações como a participação nos eventos culturais são garantidas pelas disciplinas praticas do curso e desenvolvidas no restaurante escola, produzindo ao longo da formação um reconhecimento social-histórico e local, valorizando a memória e proteção dos bens culturais reproduzidos pela sociedade.
 
-- Desenvolver as características profissionais para empreender e analisar o mercado da gastronomia. 
+- Com a própria localização fronteiriça do Campus e ofertas exclusivas a estudantes Paraguaios e Argentinos, a estrutura do curso aporta uma importante integração entre os  estudantes  e  colegiado  reproduzindo  a  realidade  do  mercado  de  trabalho  na fronteira.
 
-- Formar trabalhadores  para o gerenciamento dos problemas e criação de soluções, voltados para os resultados econômicos, financeiros e de satisfação dos clientes. 
+- Dentro  do  processo  de  trabalho  educacional  do  PCC  existe  uma  relação  entre  o Patrimônio Cultural e a valorização da gastronomia regional como fonte primaria de contato direto com as evidências e manifestações da cultura em todos os seus aspectos.
 
-## 2.3  RESPONSABILIDADE SOCIAL, AMBIENTAL E PATRIMONIAL 
+- Promove  o  processo  ativo  de  conhecimento  através  da  valorização  da  cultura  da alimentação  e  suas  heranças  culturais  capacitando  para  melhor  desenvolvimento humano e regional do território
 
-## **2.3.1 A Responsabilidade Social do Curso** 
+## **2.3.4 Comunicação e Relações com a Comunidade**
 
-Pautados no objetivo do Curso, objetiva-se proporcionar ao acadêmico uma experiência embasada no tripé educacional, fundamentados no Ensino, Pesquisa e Extensão. Para que o acesso as três áreas de excelência da educação sejam atendidas, o Curso Superior de Tecnologia em Gastronomia desenvolve, além da execução normal da sua matriz curricular, ações de responsabilidade  sociais  atreladas  a  pesquisa  e  extensão,  contemplados  em  atividades desenvolvidas pelos professores, acadêmicos com a comunidade. 
+Possui um caráter extensionista inegável à área de Turismo, Hospitalidade e Lazer. Além das atividades desenvolvidas em sala de aula, o Curso promove uma série de ações de extensão, permitindo o aperfeiçoamento das práticas pedagógicas exercidas em sala de aula e a melhoria do processo de ensino aprendizagem, além de possibilitar uma reflexão das práticas de ensino existentes.
 
-A  política  de  responsabilidade  social  está  então  alicerçada,  nas  novas  exigências relacionadas ao ensino superior e em suas modalidades de avaliação da qualidade. A lei nº. 10.861/2004 dá um indicativo sobre como a responsabilidade social deverá ser observada pelo Sistema Nacional de Avaliação da Educação Superior: “A responsabilidade social da instituição, considerada especialmente no que se refere à sua contribuição em relação à inclusão social; ao desenvolvimento econômico e social; à defesa do meio ambiente, da memória cultural, da produção artística e do patrimônio cultural – contempla o compromisso social da instituição na qualidade de portadora da educação como bem público e expressão da sociedade democrática e plural, de respeito pela diferença e de solidariedade, independentemente da configuração jurídica”. 
+As práticas são planejadas no sentido de respeitar e agregar os conhecimentos prévios do aluno as teorias curriculares propostas. Este diálogo com a comunidade é essencial para que o perfil do egresso do Curso Técnico em Cozinha se assemelhe ao proposto do Projeto Político Pedagógico do Curso, sendo este: o discente estará apto a atuar na organização da cozinha, na seleção e no preparo da matéria-prima; participar da elaboração e organização dos pratos do cardápio; executar cortes e métodos de cozimento, utilizando as práticas de manipulação de alimentos; operar e manter equipamentos e maquinário de cozinha; e armazenar diferentes tipos de gêneros alimentícios, controlar estoque, consumo e custos. Para tal propõe-se as
 
-De acordo com o Plano de Desenvolvimento Institucional do IFPR são inúmeros os desafios econômicos, sociais e políticos que precisam ser enfrentados pelas instituições de ensino superior, especialmente as públicas. O IFPR não pode ignorar a importância de sua colaboração  na  construção  de  uma  sociedade  mais justa  e  igualitária,  motivo  pelo  qual, constam,  em  seu  estatuto,  os  seguintes  princípios  norteadores,  reveladores  de  sua responsabilidade social: 
+seguintes ações anuais:
 
-I. Compromisso com a justiça social, equidade, cidadania, ética, preservação do meio ambiente, transparência e gestão democrática; 
+**Evento Gastronômico – Feira do Peixe Vivo** , cujo objetivo é trazer aos alunos do primeiro  semestre  a  primeira  experiência  profissional  e  aproximar  com  o  contexto gastronômico, através da elaboração de pratos a base de pescados. Ainda pode-se destacar a como objetivos específicos, promover integração entre os novos alunos; incentivar o trabalho em equipe; aproximar a realidade laboral da profissão e divulgar o curso Técnico em Cozinha na sociedade iguaçuense e da região.
 
-II. Eficácia nas respostas de formação profissional, difusão do conhecimento científico e tecnológico e suporte aos arranjos produtivos locais, sociais e culturais; 
+**Gastronomíadas: Olimpíada Gastronômica do IFPR** , que tem como objetivo principal, promover o conhecimento da história da gastronomia brasileira nesta região de fronteiras, auferindo ao eixo de Turismo, Hospitalidade e Lazer do Instituto Federal do Paraná uma integração dos alunos com a área e o setor profissional da Gastronomia. Nesta Olimpíada os alunos tem a oportunidade de prepararem um prato de acordo com o tema proposto pelo colegiado, e apresentá-lo para a banca. Como objetivos específicos desta atividade, pode-se citar:  promover  a  Gastronomia  do  país,  através  de  um  concurso  gastronômico  que proporcionará aos alunos do Curso Técnico em Cozinha – Câmpus Foz do Iguaçu, elaborarem um prato alusivo às Raízes Brasileiras e a Tríplice Fronteira; incentivar a pesquisa no campo da alimentação; fomentar a relação das competências teóricas e práticas, fazendo que o aluno demonstre seu talento e criatividade aliado ao conhecimento científico.
 
-III. Inclusão de pessoas com deficiências e necessidades educacionais especiais; 
+A outra ação é a **Feira de Estágio do Curso Técnico em Cozinha** , o evento consiste em um encontro a ser realizado durante a semana de estágios do IFPR - Foz do Iguaçu, com carga horária de 4h, no turno da manhã. E tem por objetivo promover a contextualização do estágio curricular no processo de ensino e também a integração do aluno com o mercado de trabalho. Como objetivos específicos pode-se mencionar: propiciar maior entendimento das atividades de estágio; caracterizar a importância do estágio na vida acadêmica e profissional dos alunos; estreitar as relações do IFPR com o mercado de trabalho de Foz do Iguaçu.
 
-28 
+**O FESTIVAL INTERNACIONAL DE TURISMO - PARCERIA: ABRASEL - ARENA GASTRONÔMICA,** O Festival de Turismo das Cataratas está em sua 11ª edição e será realizado nos dias 15, 16 e 17 de junho de 2016. O Festival é o maior evento fixo de Foz do Iguaçu e o segundo maior de turismo da região sul. Devido sua posição geográfica do Brasil, Argentina e Paraguai, possibilita a promoção de um encontro de negócios entre profissionais de turismo do Mercosul. Os alunos através da parceria com a ABRASEL, Associação de Bares e Restaurante, participarão de uma Arena Gastronômica Show, onde os vencedores do concurso Gastronomiadas apresentam para o público da feira suas receitas, fornecendo para os alunos participantes uma experiência profissional e a possibilidade de ver suas receitas configuradas no
 
-**==> picture [472 x 55] intentionally omitted <==**
+livro anual da ABRASEL.
 
-IV. Natureza pública e gratuita do ensino, sob a responsabilidade da União. ‘Partindo desses princípios, o IFPR desenvolverá políticas de responsabilidade social tendo em vista as seguintes diretrizes: 
+E a **Semana de Gastronomia IFPR** , com a realização de diversas atividades ligadas a área, como palestras, oficinas, mesas redondas e mostras, a serem organizadas de acordo com a disponibilidade dos convidados. Todas as ações apresentadas constam com formulário próprio encaminhado a direção do campus.
 
-- Garantir o acesso de todos à educação, dedicando Atenção especial às camadas que historicamente vêm sofrendo processos de exclusão 
+## 2.4 CONCEPÇÃO DO CURSO
 
-- Zelar para que a produção e a transmissão do conhecimento sejam orientados para o interesse público e o bem comum; 
+A Gastronomia como produto começou a ser explorada nas estalagens ainda em Roma, e o mundo ocidental civilizado viu uma grande mudança na percepção do alimento e desse ritual, que destacava características de uma sociedade complexa.
 
-- Formar profissionais compromissados com a ética, a transparência, a justiça, a paz e interesse social; 
+A cultura alimentar francesa foi a grande inspiradora no ocidente, que, aproveitando-se do momento histórico favorável ao seu desenvolvimento e disseminação, ditou as regras da aristocracia e burguesia europeia entre os séculos XVI e XX. A gastronomia francesa como produto  se  tornou  ainda  mais  famosa  com  o  advento  do  restaurante,  estabelecimento tipicamente francês e logo adotado pelo mundo (MONTANARI E FLANDRIN, 2007; FRANCO, 2001; SPANG, 2003; PITTE, 2005).
 
-- Lutar pelo comprometimento social com a preservação do meio ambiente; 
+A profissionalização da área durante a história também deixou de ser estritamente empirista, onde o cozinheiro aprendia o ofício na prática das cozinhas ou sob o ensinamento familiar. A gastronomia hoje tornou-se matéria séria, estudada em cursos de vários níveis, inclusive em cursos superiores de Tecnologia e Bacharelado.
 
-- Orientar suas ações educativas para o trabalho coletivo, a solidariedade, o respeito à diversidade; 
+Durante a história, o ensino das técnicas gastronômicas tem sido pautado na prática e no aprendizado por repetição ou memorização.
 
-- Implementar canais de relacionamento que favoreçam o diálogo com a comunidade, de forma a realimentar as reflexões e as políticas institucionais; 
+A comunicação criativa por que passou a Gastronomia através da história tem como veículos três formas básicas: os ensinamentos verbais, de mãe para filha ou de chefe de cozinha para ajudante; os livros de receitas, que através da história significaram dogmas e a partir daí bases para futuras criações; e também os diversos cursos de aspecto técnico desenvolvidos no século  XX  e  que  foram  fomentados  pelas  verdades  absolutas  dos  livros  e  ansiados  na informalidade da comunicação verbal (MONTANARI E FLANDRIN, 2007; CARNEIRO, 2003).
 
-- Articular-se aos movimentos sociais, apoiando as diferentes formas de organizações de cidadãos; 
+A comunicação técnica sempre foi favorecida através da informalidade dos cadernos de receitas das famílias, alguns livros importantes na história da alimentação ou mesmo da forma verbal, metodologia utilizada em toda Ásia, em que as receitas são ensinadas pelas mães às suas filhas.
 
-- Lutar contra os preconceitos de toda ordem, promovendo a diversidade como valor intrínseco às suas práticas. 
+Os  registros  de  receitas  são  antigos  e  datam  de  antes  de  Cristo  (MONTANARI  E FLANDRIN, 2007) , porém a transmissão verbal é feita desde muito antes. Uma cultura que valoriza e sempre valorizou tais registros foi a francesa, que trata a Gastronomia de seu país como uma das formas de maior expressão patriótica.
 
-No Curso Superior de Tecnologia em Gastronomia do IFPR, a responsabilidade social está evidenciada  em  projetos  de  aproveitamento  e  reaproveitamento  integral  de  alimentos ensinando e elaborando pratos para atender de forma a ensinar e oferecer uma qualidade nutricional a comunidades carentes. 
+Durante  séculos  após  a  Renascença,  o  modo  de  alimentação  muda  na  Europa, quebrando  com  os  padrões  medievais  e  levando  em  maior  consideração  aspectos  como
 
-No nível de pesquisa, uma atividade proposta pelo curso avalia a presença de microbiota patogênica com mãos de manipulador, anéis, adornos, maçanetas e feita orientação de lavagem das mãos. Um trabalho desenvolvido em âmbito de pesquisa que envolve e contato in loco com manipuladores e consumidores de alimentos em praça de alimentação, ensinando a utilização de álcool gel 70% abordagem nas diferentes culturas que estão presentes, na nossa região de tríplice fronteira. A relevância da formação superior profissional de Gastronomia: um estudo de caso embasado em pesquisa e levantamento também proporciona aos acadêmicos, integração e fundamentação técnico-científica para sua formação. 
+nutrição e segurança alimentar (MONTANARI E FLANDRIN, 2007; FRANCO, 2001; PITTE, 2005). Os grandes cozinheiros eram os que praticavam a chamada _Haute Cuisine_ , ou cozinha da nobreza. Tais cozinheiros tinham a função de tratar da saúde dos nobres através da boa alimentação que era pregada desde o séc. XV.
 
-Em se tratando de responsabilidade social, a Gastronomia atende, através do Programa “gastronomia  social”,  entidades  assistencialistas,  ensinando  e  produzindo  aproveitamento integral dos alimentos ao público atendido pela mesma”. 
+Os padrões ensinados sempre levavam o aspecto tradicionalista do preparo, portanto, qualquer alteração iria refletir em mudanças na aceitação do público e tais mudanças eram ainda inseguras. Eis um dos fatos que motivaram por toda a história a pouca mutação culinária em alguns povos, já que a alimentação é uma das necessidades básicas e de fundamental importância, sendo essa mudança difícil para o ser humano.
 
-29 
+Conhecimento,  segundo  o  Dicionário  Houaiss  (2010,  p.189),  significa  cognição, percepção; fato, estado ou condição de compreender; domínio; competência; experiência; entre outras definições. O que a prática da vida traz à Gastronomia? Em determinado momento, serviu para formulação do conhecimento através dos fatos explicados, possibilitando dessa forma o controle sobre os meios de produção.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Os séculos passaram e a quantidade de informação formulada nos dias de hoje é infinitamente maior do que nas épocas citadas acima, portanto, a necessidade de se obter cada vez mais informações que expliquem os fatos hoje é latente, e não só na Gastronomia, mas em todas as profissões (DÓRIA, 2009; CARNEIRO, 2003). Quem é valorizado é o profissional que possui o conhecimento para realizar suas ações, e as competências exigidas pelo mercado suplantam o momento e buscam o futuro através da inovação tecnológica. Desse momento histórico se favorece a Gastronomia, que agora deve ser  abordada forma diferente.
 
-## **2.3.2 Meio Ambiente e Desenvolvimento Humano** 
+Segundo  Marconi  e  Lakatos  (2010)  a  diferença  entre  conhecimento  empírico  e conhecimento formal, científico, não está na veracidade dos fatos ou em sua natureza, mas sim na _forma_ - o modo ou método do _conhecer_ .
 
-A questão ambiental tem sido assunto de intenso interesse e discussão ao longo das últimas décadas. Diversos países, estados, municípios, instituições tem discutido mecanismos e diretrizes  no  sentido  de  reverter  o  quadro  negativo  e  apontar  novos  rumos  para  um desenvolvimento sem agressões ao meio ambiente, utilizando de forma racional os recursos naturais. 
+Marconi e Lakatos (2010) e Demo (1985) frisam ainda que a ciência não é o único caminho para acesso ao conhecimento e à verdade, e que tanto o observador cientista e o observador comum chegam ao conhecer - chegam a uma determinada forma de conhecimento. As autoras ainda propõem a objetividade do conhecimento popular como sinal de racionalidade e bom senso, o que denota importância dessa forma de conhecer.
 
-O conceito de Desenvolvimento Sustentável nunca foi tão importante. O homem precisa mudar sua forma de relacionar com a natureza. Suas ações devem estar voltadas para a preservação de seu próprio ambiente, sob o risco das gerações futuras serem penalizadas. 
+Os  conhecimentos  produzidos  na  gastronomia,  como  citado  nas  reflexões  iniciais, podem ser considerados superficiais, sensitivos e subjetivos (MARCONI E LAKATOS, 2010 _apud_ ANDER-EGG,  1978)  já  que  demonstram  a  maneira  informal,  a  formulação  de  ideias  e  a transmissão  das  técnicas.  Ainda  de  acordo  com  as  autoras,  esse  conhecimento  popular caracteriza-se por ser valorativo, reflexivo, assistemático, verificável, falível e inexato. A definição de conhecimento empírico apresentada por Cervo, Bervian e  da Silva (2007) aproxima-se  muito  do  processo  histórico  de  formação  do  conhecimento  técnico  da gastronomia:
 
-A Lei n°.9.795, de27 de abril de 199, institui a Po lítica Nacional de Educação Ambiental e estabelece,  em  seu  Art.2°,  que  “a  educação  ambienta  l  é  um  componente  essencial  e permanente da educação nacional, devendo estar presente, de forma articulada, em todos os níveis e modalidades do processo educativo, em caráter formal e não-formal”. 
+O conhecimento empírico, erroneamente chamado vulgar ou de senso comum, é aquele que é adquirido pela própria pessoa na sua relação com o meio ambiente ou com o meio social, obtido por meio de interação contínua na forma de ensaios e
 
-Diante disso podemos dizer que o Curso Superior em Gastronomia tem uma grande preocupação com o meio ambiente, já que quase 100% da sua matéria prima para aulas é proveniente do meio ambiente. Por isso no decorrer das aulas praticas e teóricas sempre é abordado a relação do uso e consumo consciente dos alimentos, bem como seu uso de uma forma  racional,  sem  ter  desperdícios  e  sempre  cuidando  a  forma  pré  preparo,  preparo, manuseio e armazenagem do mesmo, pois conforme pesquisa realizada mais de 15% dos ingredientes comprados ao final do expediente de um restaurante acaba indo parar na lixeira. Ações realizadas nas aulas praticas com os alunos são: 
+tentativas que resultam em erros e em acertos. Do ponto de vista da utilização de métodos e técnicas científicas, esse tipo de conhecimento - mesmo consolidado como convicção, como cultura ou como tradição - é ametódico e assistemático. (p.06).
 
-- Eles os principais responsáveis pelo desperdiço; 
+Os autores em referência destacam ainda que a interação social e o ato de ensinar e aprender,  constituem  a  forma  de  transmissão  desses  conhecimentos,  de  acordo  com  a necessidade e objetivos de cada indivíduo.
 
-- Avaliação dos ingredientes disponíveis na geladeira e dispensa para poder utilizar eles antes do prazo de validade ou antes que os mesmos estraguem; 
+O contexto agrava-se a partir do momento em que a gastronomia torna-se tema de cursos universitários, pós-graduações e pesquisas científicas, pois é nesse contexto que o empírico passa a ser estudado de forma científica, metódica, sistemática e objetiva.
 
-- Alteração do cardápio para minimizar a quantidade de sobras; 
+Com a constante mutação do mercado profissional e dos estudos em gastronomia o conhecimento, além de capital, é a ferramenta para promoção social nos mais diversos aspectos da tecnologia, e para tanto se faz necessária uma nova abordagem do conhecimento, que formulada através da base empírica da prática, constitui uma nova base epistemológica para a Gastronomia, nos seus mais diversos ramos de atuação. O século do conhecimento baseia-se em ideias antes pouco valorizadas e o principal produto de venda é o conceito em que os mais variados produtos estão imbuídos.
 
-- Reciclar tudo que pode ser reciclado; 
+Cervo, Bervian e da Silva (2007) definem o conhecimento científico como o pensamento sistematizado,  buscando  conhecer  a  estrutura,  organização,  funcionamento,  composição, causas e leis do objeto ou fenômeno estudado, dotando de espírito crítico a ciência e o entendimento aprofundado desses fenômenos. Destacam  ainda, que o pensamento científico é caracterizado por uma tríade - a verdade, a evidência e a certeza.
 
-- Conduzir  um  gerenciamento  de  estoque  com  frequência  para  comprar  somente  o necessário; 
+A verdade caracteriza o comportamento humano incansável na busca por explicações dos fatos que o circundam. É a idealização de uma explicação cabível ao conhecimento e da crença no resultado. Porém, o mesmo comportamento humano gera a inquietude da não aceitação da verdade explicada, baseado em novas percepções sobre os fenômenos da vida, ou no ponto de vista do observador. Portanto, a verdade depende do observador (BERVIAN, CERVO E DA SILVA, 2007).
 
-- Utilização de produtos sazonais e locais; 
+Os autores destacam que a manifestação clara da verdade mostra-se com a revelação de fatos  que  evidenciam  a  explicação  procurada,  e  com  isso  a  certeza  dessa  explicação caracterizar-se como verdade está no estado de espírito do observador em aceitá-la como tal.
 
-- Construção e manutenção de horta orgânica no próprio IF; 
+Por fim, Cervo, Bervian e Da Silva (2007) sugerem a adoção de uma postura científica ao observador. A busca pelo desenvolvimento humano, social e ambiental passa pela necessidade de um novo olhar aos fenômenos. Demanda do pesquisador (aquele que faz ciência) uma postura  objetiva,  séria  e  capaz  de  sistematizar  a  verdade,  adotando  métodos  e  técnicas adequadas ao estudo do objeto. Ao concluir essa etapa, o mesmo observador poderá refletir e revalidar a verdade, ou observá-la com um novo olhar para identificar novas questões, e assim buscar uma nova verdade.
 
-- Cuidados com lavagem, limpeza e descascamento de hortifrutigranjeiros; 
+Como ponderam Dória (2009), Carneiro (2003), Castelli (2005),  Horng e Tsai (2012), Sánchez-Cañizares  e  López-Guzmán,  (2012) a  gastronomia  consolida-se  também  como importante fator para a atração turística.
 
-30 
+É essa postura científica que demanda atualmente a gastronomia, seja na forma de estudar, ensinar ou praticar.
 
-**==> picture [472 x 55] intentionally omitted <==**
+O século da pós-cozinha é inspirado nos _chefs_ de vanguarda que, com ideias modernistas e conceitos franceses que ditavam modelos, fizeram o ato da alimentação mais que a ideia básica de nutrição, mas sim nutrição aliada ao prazer, à caracterização de um momento único. Com mudanças tão rápidas um conceito ou ideia sobre gastronomia muda diariamente. No século XXI, se pagam altos preços em restaurantes especializados em servir pequenas porções do tamanho de colheres, que são grandes experiências momentâneas, ou ainda, folhas de fibras de alimentos (como as de papel) com sabor de frutas, bacalhau ou uma complexa _paella valenciana;_ pode-se comer até o cardápio _._
 
-- Ficha técnica e ficha de produção; 
+Montanari e Flandrin (2007) e Castelli (2005) denotam como a gastronomia pode ser compreendida como produto turístico, e ilustram ainda sua importância para o desenvolvimento do turismo.  Horng  e Tsai  (2012) apresentam  a ideia de  que  o turismo gastronômico  pode  ser  utilizado  como  importante  ferramenta  para  o  desenvolvimento estratégico de uma localidade. Dória (2009) cita a importância da culinária regional como fator de expressão cultural.
 
-Além da questão ambiental o desenvolvimento humano também vem sendo foco de estudos há muito tempo e sua compreensão conceitual vem apresentando uma evolução significativa. O Índice de Desenvolvimento Humano (IDH) é um marco relevante no que tange a essa  busca  conceitual,  pois  amplia  os  indicadores  econômicos  existentes,  como  a  renda, incorporando também índices relacionados à saúde e à educação. Esse conjunto de aspectos passou a ser base de avaliação do desenvolvimento humano no mundo todo. Apesar da origem econômica dessa discussão, outras disciplinas aderiram ampliando as possibilidades interpretativas, marcando a introdução de um viés mais humano ao conceito. 
+A Gastronomia do século XXI suplanta o ato do fazer e visa o saber fazer, porque fazer e como fazer. Portanto, não cabe mais uma abordagem superficial dos conteúdos dentro das unidades curriculares. Todos os conteúdos pertinentes à atuação profissional consciente devem ser abordados de forma completa e aprofundados. Deve-se lembrar do tempo de formação que não deve ser estendido com informações desnecessárias.
 
-No entanto, o conceito ainda não atingiu o limite de sua representatividade, sendo alvo de novas abordagens interpretativas que ganham sentido na análise ampliada do termo, as quais se agregam complementarmente às concepções já existentes, especialmente os aspectos subjetivos, cuja característica, de difícil mensuração, não é passível de ser avaliada pelos indicadores já existentes. Além desse aspecto, que se agregou às discussões conceituais sobre desenvolvimento humano, também passaram a fazer parte da discussão as inter-relações que ocorrem no transcorrer da vida, assim como a qualidade de vida e o bem-estar. E os aspectos culturais e históricos também ganham força e influência para o entendimento da temática, direcionando-o para o âmbito coletivo, incorporando noções de cidadania, responsabilidade e ética. Assim, percebe-se a importância de considerar  combinadamente  os aspectos físico, cognitivo, psicossocial, econômico e cultural para a proposição de uma noção ampliada do termo. 
+A gastronomia demanda hoje de ferramentas para formação profissional que atendam às demandas da globalização atual, pois como menciona Krause (2001) a globalização exigirá dos prestadores de serviço do ramo da alimentação cada vez mais capacitação para atender aos evolucionismos impostos por esse movimento, justamente pela rápida comunicação e troca de informações entre comunidades.
 
-## **2.3.3 Memória , Patrimônio Artístico e Cultural** 
+A epistemologia da Gastronomia hoje transpassa a necessidade da técnica pura. O entendimento da tecnologia na sua amplitude e profundidade é complexo, pois inclui várias dimensões  que  abordam  aspectos  sociais,  econômicos,  antropológicos  e  científicos,  para fundamentarem as ações simplesmente técnicas (HARRINGTON _et al,_ 2005).
 
-O PPC do curso de gastronomia tem o propósito em   promover o desenvolvimento regional  do  municipio  de  Foz  do  Iguaçu  com  objetivos  que  vem  de  encontro  com  a responsabilidade  social  do IFPR,  onde  o projeto pedagógico  busca integra  o processo de formação  das  pessoas  e  gerar  conhecimento respondendo  por  intermédio  da pesquisa e inclusão no mercado de trabalho as demandas da sociedade. 
+Para a tomada de posição na sociedade atual, em qualquer meio de produção, é necessário conhecer todo diálogo que envolve a decisão do indivíduo, fundamentando sua postura nesse processo. Esse conceito reflete a realidade do século XX e XXI, que traz o conhecimento como capital fundamental. À medida que o capital monetário no século XX é gerado pela execução de processos, ação rápida para tal meio de produção, ou simplesmente mão-de-obra técnica, o gerador de capital no século XXI é o indivíduo social que detém o conhecimento e que é o incentivador do novo meio de produção criativo. É o conhecimento criando  novos  padrões  no  mercado  e  gerando  assim  sua  constante  mudança,  e  que consequentemente torna-se uma base para tal modo de produção que pode ser caracterizado como perpétuo, pois acompanha o mercado e estes evoluem juntos.  A profissionalização da área também deixou de ser estritamente empirista, onde o cozinheiro aprendia o ofício na
 
-Em  compreensão  as  ações  e  processos  formativos  dentro  da  estrutura  do  PPC encontramos exemplos como: 
+prática das cozinhas ou sob o ensinamento familiar.
 
-- As  disciplinas  culturais  como Brasileira, Clássica e  Etnias os estudantes  através  da 
+Como menciona Krause (2001, p.08) ao descrever algumas demandas de formação ao mercado  da  gastronomia,  esta  área  está  sendo  uma  referência  decisiva  no  mercado  de alimentação e restauração por responder pelo sabor-aroma-cor e design, onde aplica o conceito de arte aliado à alimentação em geral. O autor pontua ainda que a gastronomia, utilizada da forma correta por profissionais adequadamente capacitados, é cada vez mais requisitada na busca  de  diferenciais  capazes  de  dar  rentabilidade  aos  investimentos  em  alimentação  e restauração.
 
-31 
+É fato que a gastronomia evolui muito rapidamente na atualidade, devido às constantes mudanças sociais, ou ainda, aos novos olhares que ela assume para o cliente ou para o profissional. Soma-se a isso o fato da gastronomia articular conhecimentos de diversas áreas, e que a simples execução de uma receita incorre em mobilizar esses conhecimentos e expressálos por meio de habilidades práticas, resultando no produto final.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Tal situação exige dos professores ferramentas que propiciem atingir a diversa gama de conhecimentos necessários à execução daquela simples tarefa, preocupando-se também com o desenvolvimento das habilidades necessárias. Dessa forma, o ensino se torna mais eficiente. Rezende (2002) defende a ideia que não adianta vestirmos o "velho" com roupas novas, no caso as novas tecnologias, mas que esses recursos devem ser utilizados para o ensino de novos conhecimentos  que  se  baseiam  em  novas  concepções  de  alunos  e  professores,  o  que definitivamente transforma o processo de ensino-aprendizagem.
 
-   - estrutura pratico pedagógica do curso tem a capacidade de absorverem as diferentes culturas e replicarem no desenvolvimento local e promover uma valorização prática e intelectual, dos mesmos dentro do patrimônio artístico do município de Foz do Iguaçu. 
+A  pedagogia  relacional  citada  por  Becker  (2001)  nos  ajuda  a  compreender  como funciona o mecanismo básico para o ensino da gastronomia. Ao apresentar o material o professor deixa que o aluno tome ciência de seu significado e o auxilia a despertar para isso. Nesse momento, a troca de saberes e experiências é fundamental. Esse exemplo é visível em aulas práticas, onde toda matéria constitui campo aberto para todo tipo de experiência. O autor cita ainda que é fundamental a matéria possuir significado ao aluno.
 
-- Ações como a participação nos eventos culturais são garantidas pelas disciplinas praticas do curso e desenvolvidas no restaurante escola, produzindo ao longo da formação um reconhecimento social-histórico e local, valorizando a memória e proteção dos bens culturais reproduzidos pela sociedade. 
+A pedagogia referenciada no ensino da gastronomia é a construtivista, uma vez que o aluno de qualquer nível dessa área vive essa matéria em seu dia-a-dia: alimenta-se, prepara, compra,  planta,  cria,  estuda,  etc.,  relacionando-se  com  essa  nova  ciência  em  diversos momentos do seu dia e de sua vida. Por isso é preciso, antes de mais nada, compreender que o ensino  da  gastronomia  deve  ser  implementado  de  forma  a  acrescentar  experiências  ao indivíduo, e que isso tenha significado no mercado de trabalho (PIAGET, 1977 _apud_ BECKER, 2001) .
 
-- Com a própria localização fronteiriça do Campus e ofertas exclusivas a estudantes Paraguaios e Argentinos, a estrutura do curso aporta uma importante integração entre os  estudantes  e  colegiado  reproduzindo  a  realidade  do  mercado  de  trabalho  na fronteira. 
+Na perspectiva construtivista, o uso de novas tecnologias nas aulas práticas será um recurso que facilitará a inserção do aluno como sujeito do processo pedagógico, não isolando-o como simples receptor de conhecimento.
 
-- Dentro  do  processo  de  trabalho  educacional  do  PCC  existe  uma  relação  entre  o Patrimônio Cultural e a valorização da gastronomia regional como fonte primaria de contato direto com as evidências e manifestações da cultura em todos os seus aspectos. 
+Becker (2001) explica que é importante que o professor, além de ensinar, também aprenda.  Principalmente  o  que  o  aluno  constrói  no  decorrer  do  processo  de  ensinoaprendizagem. O uso de novas tecnologias em aulas práticas, assim como em outros processos educacionais, permitirá ao professor  construir  a cada dia a sua docência, dinamizando o processo  de  aprender  e  ensinar,  já  que  na  educação  construtivista  a  troca  é  premissa
 
-- Promove  o  processo  ativo  de  conhecimento  através  da  valorização  da  cultura  da alimentação  e  suas  heranças  culturais  capacitando  para  melhor  desenvolvimento humano e regional do território 
+elementar. Sim, a ideia de que o professor aprende ao ensinar é básica na gastronomia, pois trata-se de uma necessidade humana básica: o ato de obter, preparar e consumir alimentos.
 
-## **2.3.4 Comunicação e Relações com a Comunidade** 
+O momento da aula, assim como a metodologia adotada pelo professor, dependerá do contexto, disciplina, projeto de curso, conhecimentos abordados, mas também da profissão ensinada. A didática adotada pelo professor deve estar inserida nos dois grandes contextos aqui comentados: o dinamismo da gastronomia e a realidade de mercado. Sobre essa demanda, Masetto (2003, p. 74) descreve a aula como convivência humana e momento de relações pedagógicas. O autor esclarece que
 
-Possui um caráter extensionista inegável à área de Turismo, Hospitalidade e Lazer. Além das atividades desenvolvidas em sala de aula, o Curso promove uma série de ações de extensão, permitindo o aperfeiçoamento das práticas pedagógicas exercidas em sala de aula e a melhoria do processo de ensino aprendizagem, além de possibilitar uma reflexão das práticas de ensino existentes. 
+[...] quando falamos da aula como vivência queremos ressaltar a fundamentalidade de seu caráter de integração com a realidade. A aula como espaço que permita, favoreça e estimule a presença, discussão, o estudo, a pesquisa, o debate e o enfretamento de tudo o que constitui o ser, a existência, as evoluções, as transformações, o dinamismo e a força do mundo, do homem, dos grupos humanos, da sociedade humana, existindo numa realidade contextualizada temporal e espacialmente, num processo histórico em movimento. Essa realidade diz respeito diretamente àqueles que se reúnem numa sala.
 
-As práticas são planejadas no sentido de respeitar e agregar os conhecimentos prévios do aluno as teorias curriculares propostas. Este diálogo com a comunidade é essencial para que o perfil do egresso do Curso Técnico em Cozinha se assemelhe ao proposto do Projeto Político Pedagógico do Curso, sendo este: o discente estará apto a atuar na organização da cozinha, na seleção e no preparo da matéria-prima; participar da elaboração e organização dos pratos do cardápio; executar cortes e métodos de cozimento, utilizando as práticas de manipulação de alimentos; operar e manter equipamentos e maquinário de cozinha; e armazenar diferentes tipos de gêneros alimentícios, controlar estoque, consumo e custos. Para tal propõe-se as 
+Masetto (2003) lembra ainda que para que a aula se torne um espaço de relações pedagógicas são necessárias modificações no seu formato mais tradicional: o espaço físico, redefinições dos objetivos da própria aula, implantação de técnicas participativas e o processo de avaliação. Em cursos que envolvam práticas gastronômicas, essa tarefa é alcançada em partes, já que o espaço (laboratório) é envolvente e desperta a atenção do aluno em todos os seus aspectos,  porém  as  aulas  acontecem  de  forma tradicional: o professor  mostra uma habilidade e relaciona-a com um conhecimento, e o aluno repete. Ao tornar o aluno parte do processo, mostrar a ele os objetivos e lhe fornecer ferramentas para alcançá-los, o próprio processo se reconstrói e a aula passa a ter novo significado.
 
-32 
+A partir da proposta de rediscussão do momento aula, Masetto (2003) propõe que o processo de avaliação seja participativo, constante, e que seja parte do processo, e não o final dele. Nesse sentido, a avaliação deixa de ser um instrumento punitivo para tornar-se um instrumento pedagógico, indicativo do caminho e não o final da trilha. O ensino da gastronomia, ao utilizar novas ferramentas tecnológicas, será melhorado e os momentos pedagógicos serão melhores aproveitados.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Por fim, Masetto (2003) define e defende as chamadas aulas vivas: o ambiente de aprendizagem tradicional é transformado em momento definitivo de trocas e aprendizagem mútua (professor também aprende - aluno também ensina). O ambiente profissional também constitui importante meio de aprendizagem, pois trata da prática aliada à teoria vista por meio da resolução de problemas e novos desafios. O autor complementa que o momento da aula tradicional também pode ser vivo, com o uso de tecnologias como a informática e a telemática, pois, além de propiciar ao aluno fazer parte do momento pedagógico, lhe abre ainda uma porta para o mundo.
 
-seguintes ações anuais: 
+Conteúdos procedimentais, como caracterizados por Zaballa (1998) são didaticamente considerados de acordo com sua complexidade: a simples execução de uma atividade motora,
 
-**Evento Gastronômico – Feira do Peixe Vivo** , cujo objetivo é trazer aos alunos do primeiro  semestre  a  primeira  experiência  profissional  e  aproximar  com  o  contexto gastronômico, através da elaboração de pratos a base de pescados. Ainda pode-se destacar a como objetivos específicos, promover integração entre os novos alunos; incentivar o trabalho em equipe; aproximar a realidade laboral da profissão e divulgar o curso Técnico em Cozinha na sociedade iguaçuense e da região. 
+como um corte de vegetais ou carnes, mobiliza o físico, a habilidade prática com atenção e precisão do aluno. A execução de um guisado por exemplo mobiliza, além de habilidades motoras, as habilidades cognitivas, ou a prática das ações pautadas em conhecimentos já adquiridos anteriormente, demandando assim do aluno maior complexidade das ações. O autor cita que considerar tais parâmetros permite ao professor adaptar a dinâmica da aula bem como os instrumentos de avaliação.
 
-**Gastronomíadas: Olimpíada Gastronômica do IFPR** , que tem como objetivo principal, promover o conhecimento da história da gastronomia brasileira nesta região de fronteiras, auferindo ao eixo de Turismo, Hospitalidade e Lazer do Instituto Federal do Paraná uma integração dos alunos com a área e o setor profissional da Gastronomia. Nesta Olimpíada os alunos tem a oportunidade de prepararem um prato de acordo com o tema proposto pelo colegiado, e apresentá-lo para a banca. Como objetivos específicos desta atividade, pode-se citar:  promover  a  Gastronomia  do  país,  através  de  um  concurso  gastronômico  que proporcionará aos alunos do Curso Técnico em Cozinha – Câmpus Foz do Iguaçu, elaborarem um prato alusivo às Raízes Brasileiras e a Tríplice Fronteira; incentivar a pesquisa no campo da alimentação; fomentar a relação das competências teóricas e práticas, fazendo que o aluno demonstre seu talento e criatividade aliado ao conhecimento científico. 
+A prática educativa construtivista proposta por Zaballa (1998) pressupõe
 
-A outra ação é a **Feira de Estágio do Curso Técnico em Cozinha** , o evento consiste em um encontro a ser realizado durante a semana de estágios do IFPR - Foz do Iguaçu, com carga horária de 4h, no turno da manhã. E tem por objetivo promover a contextualização do estágio curricular no processo de ensino e também a integração do aluno com o mercado de trabalho. Como objetivos específicos pode-se mencionar: propiciar maior entendimento das atividades de estágio; caracterizar a importância do estágio na vida acadêmica e profissional dos alunos; estreitar as relações do IFPR com o mercado de trabalho de Foz do Iguaçu. 
+[...] que nossa estrutura cognitiva esteja configurada por uma rede de esquemas de conhecimentos. Estes esquemas se definem como as representações que uma pessoa possui, num momento dado de sua existência, sobre algum objeto do conhecimento. Ao  longo  da  vida,  estes  esquemas  são  revisados,  modificados,  tornam-se  mais complexos e adaptados à realidade, mais ricos em relações. (ZABALLA, 1998, p.37)
 
-**O FESTIVAL INTERNACIONAL DE TURISMO - PARCERIA: ABRASEL - ARENA GASTRONÔMICA,** O Festival de Turismo das Cataratas está em sua 11ª edição e será realizado nos dias 15, 16 e 17 de junho de 2016. O Festival é o maior evento fixo de Foz do Iguaçu e o segundo maior de turismo da região sul. Devido sua posição geográfica do Brasil, Argentina e Paraguai, possibilita a promoção de um encontro de negócios entre profissionais de turismo do Mercosul. Os alunos através da parceria com a ABRASEL, Associação de Bares e Restaurante, participarão de uma Arena Gastronômica Show, onde os vencedores do concurso Gastronomiadas apresentam para o público da feira suas receitas, fornecendo para os alunos participantes uma experiência profissional e a possibilidade de ver suas receitas configuradas no 
+Sobre esse tema, o autor em referência (ibid.) complementa que é necessário que o conhecimento seja construído de modo a desenvolver uma aprendizagem significativa dos conteúdos, ou, integrado à rede de conhecimentos prévios.
 
-33 
+## 2.5 PERFIL DO EGRESSO
 
-**==> picture [472 x 55] intentionally omitted <==**
+Ao logo do curso, o estudante do Curso Superior de Tecnologia em Gastronomia, adquirirá  conhecimentos  sobre  as  diversas  áreas  que  compõem  o  quadro  curricular, capacitando-o para exercer sua função após sua formação.
 
-livro anual da ABRASEL. 
+Em concordância com o Catálogo Nacional de Cursos Superiores de Tecnologia (2016, p.152), o Tecnólogo em Gastronomia concebe, planeja, gerencia e operacionaliza produções culinárias  nas  diferentes  fases dos serviços de alimentação.  Cria preparações culinárias e valoriza a ciência dos ingredientes. Diferencia e coordena técnicas culinárias. Planeja, controla e avalia custos. Coordena e gerencia pessoas de sua equipe. Valida a segurança alimentar. Planeja, elabora e organiza projetos de fluxo de montagem de cozinha. Identifica utensílios, equipamentos e matéria-prima em restaurantes e estabelecimentos alimentícios. Articula e coordena  empreendimentos  e  negócios  gastronômicos.  Identifica  novas  perspectivas  do mercado alimentício. Vistoria, avalia e emite parecer técnico em sua área de formação.
 
-E a **Semana de Gastronomia IFPR** , com a realização de diversas atividades ligadas a área, como palestras, oficinas, mesas redondas e mostras, a serem organizadas de acordo com a disponibilidade dos convidados. Todas as ações apresentadas constam com formulário próprio encaminhado a direção do campus. 
+Os componentes curriculares oferecidos formam a base do conhecimento necessário para que o egresso contemple as habilidades necessárias para o exercício da função que lhe é conferida com a certificação de Tecnologia em Gastronomia.
 
-## 2.4 CONCEPÇÃO DO CURSO 
+## **2.5.1 Áreas de Atuação do Egresso**
 
-A Gastronomia como produto começou a ser explorada nas estalagens ainda em Roma, e o mundo ocidental civilizado viu uma grande mudança na percepção do alimento e desse ritual, que destacava características de uma sociedade complexa. 
+Estando em conformidade com o Catálogo Nacional de Cursos Superiores de Tecnologia (2016, p.152), entre as principais áreas de atuação do profissional Egresso do Curso Superior de Tecnologia em Gastronomia, pode-se citar:
 
-A cultura alimentar francesa foi a grande inspiradora no ocidente, que, aproveitando-se do momento histórico favorável ao seu desenvolvimento e disseminação, ditou as regras da aristocracia e burguesia europeia entre os séculos XVI e XX. A gastronomia francesa como produto  se  tornou  ainda  mais  famosa  com  o  advento  do  restaurante,  estabelecimento tipicamente francês e logo adotado pelo mundo (MONTANARI E FLANDRIN, 2007; FRANCO, 2001; SPANG, 2003; PITTE, 2005). 
+- Centros gastronômicos.
 
-A profissionalização da área durante a história também deixou de ser estritamente empirista, onde o cozinheiro aprendia o ofício na prática das cozinhas ou sob o ensinamento familiar. A gastronomia hoje tornou-se matéria séria, estudada em cursos de vários níveis, inclusive em cursos superiores de Tecnologia e Bacharelado. 
+- Embaixadas e consulados.
 
-Durante a história, o ensino das técnicas gastronômicas tem sido pautado na prática e no aprendizado por repetição ou memorização. 
+- Empresas de hospedagem, recreação e lazer.
 
-A comunicação criativa por que passou a Gastronomia através da história tem como veículos três formas básicas: os ensinamentos verbais, de mãe para filha ou de chefe de cozinha para ajudante; os livros de receitas, que através da história significaram dogmas e a partir daí bases para futuras criações; e também os diversos cursos de aspecto técnico desenvolvidos no século  XX  e  que  foram  fomentados  pelas  verdades  absolutas  dos  livros  e  ansiados  na informalidade da comunicação verbal (MONTANARI E FLANDRIN, 2007; CARNEIRO, 2003). 
+- Hospitais e Spas.
 
-A comunicação técnica sempre foi favorecida através da informalidade dos cadernos de receitas das famílias, alguns livros importantes na história da alimentação ou mesmo da forma verbal, metodologia utilizada em toda Ásia, em que as receitas são ensinadas pelas mães às suas filhas. 
+- Indústria alimentícia.
 
-Os  registros  de  receitas  são  antigos  e  datam  de  antes  de  Cristo  (MONTANARI  E FLANDRIN, 2007) , porém a transmissão verbal é feita desde muito antes. Uma cultura que valoriza e sempre valorizou tais registros foi a francesa, que trata a Gastronomia de seu país como uma das formas de maior expressão patriótica. 
+- Parques temáticos, aquáticos, cruzeiros marítimos.
 
-Durante  séculos  após  a  Renascença,  o  modo  de  alimentação  muda  na  Europa, quebrando  com  os  padrões  medievais  e  levando  em  maior  consideração  aspectos  como 
+- Restaurantes comerciais, institucionais e industriais, catering, bufês e bares.
 
-34 
+- Instituições de Ensino, mediante formação requerida pela legislação vigente.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Além dos supracitados, e em decorrência do perfil do egresso e das atividades de ensino, pesquisa e extensão previstos no Curso, pode-se acrescentar:
 
-nutrição e segurança alimentar (MONTANARI E FLANDRIN, 2007; FRANCO, 2001; PITTE, 2005). Os grandes cozinheiros eram os que praticavam a chamada _Haute Cuisine_ , ou cozinha da nobreza. Tais cozinheiros tinham a função de tratar da saúde dos nobres através da boa alimentação que era pregada desde o séc. XV. 
+- Áreas afins à área de gastronomia, que demande a presença deste profissional;
 
-Os padrões ensinados sempre levavam o aspecto tradicionalista do preparo, portanto, qualquer alteração iria refletir em mudanças na aceitação do público e tais mudanças eram ainda inseguras. Eis um dos fatos que motivaram por toda a história a pouca mutação culinária em alguns povos, já que a alimentação é uma das necessidades básicas e de fundamental importância, sendo essa mudança difícil para o ser humano. 
+- Parte administrativa, gerencial e de operação de diferentes setores relacionados com alimentos e bebidas;
 
-Conhecimento,  segundo  o  Dicionário  Houaiss  (2010,  p.189),  significa  cognição, percepção; fato, estado ou condição de compreender; domínio; competência; experiência; entre outras definições. O que a prática da vida traz à Gastronomia? Em determinado momento, serviu para formulação do conhecimento através dos fatos explicados, possibilitando dessa forma o controle sobre os meios de produção. 
+- Centros  de  pesquisas  ou  ambiente  que  possibilite  o  desenvolvimento  de  estudos relacionados  com as constantes inovações geradas pelas indústrias de alimentos e bebidas além de pesquisa da alimentação como cultura e  saber tradicional.
 
-Os séculos passaram e a quantidade de informação formulada nos dias de hoje é infinitamente maior do que nas épocas citadas acima, portanto, a necessidade de se obter cada vez mais informações que expliquem os fatos hoje é latente, e não só na Gastronomia, mas em todas as profissões (DÓRIA, 2009; CARNEIRO, 2003). Quem é valorizado é o profissional que possui o conhecimento para realizar suas ações, e as competências exigidas pelo mercado suplantam o momento e buscam o futuro através da inovação tecnológica. Desse momento histórico se favorece a Gastronomia, que agora deve ser  abordada forma diferente. 
+## **2.5.2 Acompanhamento de Egressos**
 
-Segundo  Marconi  e  Lakatos  (2010)  a  diferença  entre  conhecimento  empírico  e conhecimento formal, científico, não está na veracidade dos fatos ou em sua natureza, mas sim na _forma_ - o modo ou método do _conhecer_ . 
+As políticas e as ações executadas possuem por finalidade a formação de profissionais socialmente críticos, tecnicamente competentes e humanamente solidários, em sintonia com as necessidades da sociedade local e de seu entorno, comprometidos com valores éticos e com a construção de uma sociedade justa e democrática.
 
-Marconi e Lakatos (2010) e Demo (1985) frisam ainda que a ciência não é o único caminho para acesso ao conhecimento e à verdade, e que tanto o observador cientista e o observador comum chegam ao conhecer - chegam a uma determinada forma de conhecimento. As autoras ainda propõem a objetividade do conhecimento popular como sinal de racionalidade e bom senso, o que denota importância dessa forma de conhecer. 
+Nesta intenção, o Instituto Federal do Paraná vem desenvolvendo um processo de Avaliação  Institucional,  com  o objetivo de  fomentar  a  autocrítica  institucional,  garantir  a qualidade das ações no âmbito da instituição e informar à sociedade da consonância dessas ações com as demandas científicas e sociais.
 
-Os  conhecimentos  produzidos  na  gastronomia,  como  citado  nas  reflexões  iniciais, podem ser considerados superficiais, sensitivos e subjetivos (MARCONI E LAKATOS, 2010 _apud_ ANDER-EGG,  1978)  já  que  demonstram  a  maneira  informal,  a  formulação  de  ideias  e  a transmissão  das  técnicas.  Ainda  de  acordo  com  as  autoras,  esse  conhecimento  popular caracteriza-se por ser valorativo, reflexivo, assistemático, verificável, falível e inexato. A definição de conhecimento empírico apresentada por Cervo, Bervian e  da Silva (2007) aproxima-se  muito  do  processo  histórico  de  formação  do  conhecimento  técnico  da gastronomia: 
+A autocrítica institucional pressupõe a análise retroativa daqueles que aqui trilharam sua formação acadêmica e que hoje, possivelmente, encontram-se atuando no mundo do trabalho. Para tanto, estabelecer a Política de Acompanhamento do Egresso é condição indispensável.
 
-O conhecimento empírico, erroneamente chamado vulgar ou de senso comum, é aquele que é adquirido pela própria pessoa na sua relação com o meio ambiente ou com o meio social, obtido por meio de interação contínua na forma de ensaios e 
+O  acompanhamento  do  egresso  compõe,  junto  a  outros  parâmetros,  uma  das ferramentas fundamentais na construção de indicadores, contribuindo para a discussão das ações implementadas, considerando sua eficácia e repercussão.
 
-35 
+Pretende-se que o acompanhamento dos concluintes possa destacar aspectos referentes ao curso oferecido a partir das expectativas sociais e mercadológicas, contribuindo para o aperfeiçoamento dos conhecimentos dos recém-formados.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Constituem objetivos da Política de Acompanhamento do Egresso:
 
-tentativas que resultam em erros e em acertos. Do ponto de vista da utilização de métodos e técnicas científicas, esse tipo de conhecimento - mesmo consolidado como convicção, como cultura ou como tradição - é ametódico e assistemático. (p.06). 
+- Identificar o perfil do egresso e criar mecanismos para avaliação de seu desempenho nos postos de trabalho quer no setor público, no privado ou no terceiro setor;
 
-Os autores em referência destacam ainda que a interação social e o ato de ensinar e aprender,  constituem  a  forma  de  transmissão  desses  conhecimentos,  de  acordo  com  a necessidade e objetivos de cada indivíduo. 
+- Construir uma base de dados com informações que possibilitem manter com o egresso comunicação permanente e estreito vínculo institucional;
 
-O contexto agrava-se a partir do momento em que a gastronomia torna-se tema de cursos universitários, pós-graduações e pesquisas científicas, pois é nesse contexto que o empírico passa a ser estudado de forma científica, metódica, sistemática e objetiva. 
+- Obter informações dos empregadores que, associadas às do egresso, direcionem a tomada de decisões institucionais ou do curso;
 
-Com a constante mutação do mercado profissional e dos estudos em gastronomia o conhecimento, além de capital, é a ferramenta para promoção social nos mais diversos aspectos da tecnologia, e para tanto se faz necessária uma nova abordagem do conhecimento, que formulada através da base empírica da prática, constitui uma nova base epistemológica para a Gastronomia, nos seus mais diversos ramos de atuação. O século do conhecimento baseia-se em ideias antes pouco valorizadas e o principal produto de venda é o conceito em que os mais variados produtos estão imbuídos. 
+- Estimular e criar condições para a educação continuada;
 
-Cervo, Bervian e da Silva (2007) definem o conhecimento científico como o pensamento sistematizado,  buscando  conhecer  a  estrutura,  organização,  funcionamento,  composição, causas e leis do objeto ou fenômeno estudado, dotando de espírito crítico a ciência e o entendimento aprofundado desses fenômenos. Destacam  ainda, que o pensamento científico é caracterizado por uma tríade - a verdade, a evidência e a certeza. 
+- Construir indicadores que subsidiem a adequação curricular do curso de Tecnologia em Gastronomia às necessidades do desenvolvimento de competências e habilidades em consonância com as diretrizes nacionais para os cursos superiores e atendimento ao mundo de trabalho.
 
-A verdade caracteriza o comportamento humano incansável na busca por explicações dos fatos que o circundam. É a idealização de uma explicação cabível ao conhecimento e da crença no resultado. Porém, o mesmo comportamento humano gera a inquietude da não aceitação da verdade explicada, baseado em novas percepções sobre os fenômenos da vida, ou no ponto de vista do observador. Portanto, a verdade depende do observador (BERVIAN, CERVO E DA SILVA, 2007). 
+- Promover atualização acadêmica oferecendo cursos, seminários e palestras direcionadas à complementação profissional do egresso;
 
-Os autores destacam que a manifestação clara da verdade mostra-se com a revelação de fatos  que  evidenciam  a  explicação  procurada,  e  com  isso  a  certeza  dessa  explicação caracterizar-se como verdade está no estado de espírito do observador em aceitá-la como tal. 
+- Proporcionar a participação de egressos em atividades extensionistas (como proponente de cursos de extensão, palestrante/conferencista em eventos acadêmicos e científicos, e colaborar em atividades de responsabilidade social);
 
-Por fim, Cervo, Bervian e Da Silva (2007) sugerem a adoção de uma postura científica ao observador. A busca pelo desenvolvimento humano, social e ambiental passa pela necessidade de um novo olhar aos fenômenos. Demanda do pesquisador (aquele que faz ciência) uma postura  objetiva,  séria  e  capaz  de  sistematizar  a  verdade,  adotando  métodos  e  técnicas adequadas ao estudo do objeto. Ao concluir essa etapa, o mesmo observador poderá refletir e revalidar a verdade, ou observá-la com um novo olhar para identificar novas questões, e assim buscar uma nova verdade. 
+- Apoiar os egressos em questões do mundo de trabalho e empregabilidade;
 
-Como ponderam Dória (2009), Carneiro (2003), Castelli (2005),  Horng e Tsai (2012), Sánchez-Cañizares  e  López-Guzmán,  (2012) a  gastronomia  consolida-se  também  como importante fator para a atração turística. 
+- Divulgar possibilidades e eventuais ofertas de vagas de emprego;
 
-36 
+- Proporcionar  ao  egresso  espaço  para  socialização  e  divulgação  de  contribuições  à sociedade (conquistas, premiações e produção artística e literária);
 
-**==> picture [472 x 55] intentionally omitted <==**
+- Possibilitar e promover o relacionamento entre antigos colegas de curso, assim como eventuais encontros entre as turmas.
 
-É essa postura científica que demanda atualmente a gastronomia, seja na forma de estudar, ensinar ou praticar. 
+- Promover encontros anuais com os egressos do curso, nos quais são realizadas palestras, depoimentos, troca de experiências, além de possibilitar a ampliação de networking entre egressos, discentes e docentes.
 
-O século da pós-cozinha é inspirado nos _chefs_ de vanguarda que, com ideias modernistas e conceitos franceses que ditavam modelos, fizeram o ato da alimentação mais que a ideia básica de nutrição, mas sim nutrição aliada ao prazer, à caracterização de um momento único. Com mudanças tão rápidas um conceito ou ideia sobre gastronomia muda diariamente. No século XXI, se pagam altos preços em restaurantes especializados em servir pequenas porções do tamanho de colheres, que são grandes experiências momentâneas, ou ainda, folhas de fibras de alimentos (como as de papel) com sabor de frutas, bacalhau ou uma complexa _paella valenciana;_ pode-se comer até o cardápio _._ 
+## **2.5.3 Registro Profissional**
 
-Montanari e Flandrin (2007) e Castelli (2005) denotam como a gastronomia pode ser compreendida como produto turístico, e ilustram ainda sua importância para o desenvolvimento do turismo.  Horng  e Tsai  (2012) apresentam  a ideia de  que  o turismo gastronômico  pode  ser  utilizado  como  importante  ferramenta  para  o  desenvolvimento estratégico de uma localidade. Dória (2009) cita a importância da culinária regional como fator de expressão cultural. 
+Não se aplica.
 
-A Gastronomia do século XXI suplanta o ato do fazer e visa o saber fazer, porque fazer e como fazer. Portanto, não cabe mais uma abordagem superficial dos conteúdos dentro das unidades curriculares. Todos os conteúdos pertinentes à atuação profissional consciente devem ser abordados de forma completa e aprofundados. Deve-se lembrar do tempo de formação que não deve ser estendido com informações desnecessárias. 
+## **3. METODOLOGIA E ESTRATÉGIAS PEDAGÓGICAS**
 
-A gastronomia demanda hoje de ferramentas para formação profissional que atendam às demandas da globalização atual, pois como menciona Krause (2001) a globalização exigirá dos prestadores de serviço do ramo da alimentação cada vez mais capacitação para atender aos evolucionismos impostos por esse movimento, justamente pela rápida comunicação e troca de informações entre comunidades. 
+Para que a formação do tecnólogo em gastronomia tenha êxito, diversas estratégias pedagógicas serão aplicadas, de forma a construir as habilidades e competências necessárias aos profissionais. O curso adotará as seguintes estratégias:
 
-A epistemologia da Gastronomia hoje transpassa a necessidade da técnica pura. O entendimento da tecnologia na sua amplitude e profundidade é complexo, pois inclui várias dimensões  que  abordam  aspectos  sociais,  econômicos,  antropológicos  e  científicos,  para fundamentarem as ações simplesmente técnicas (HARRINGTON _et al,_ 2005). 
+Aulas teóricas de disciplinas específicas, contextualizadas com a prática profissional e as demandas de mercado, buscando assim fundamentas aquilo que será realizado em laboratório;
 
-Para a tomada de posição na sociedade atual, em qualquer meio de produção, é necessário conhecer todo diálogo que envolve a decisão do indivíduo, fundamentando sua postura nesse processo. Esse conceito reflete a realidade do século XX e XXI, que traz o conhecimento como capital fundamental. À medida que o capital monetário no século XX é gerado pela execução de processos, ação rápida para tal meio de produção, ou simplesmente mão-de-obra técnica, o gerador de capital no século XXI é o indivíduo social que detém o conhecimento e que é o incentivador do novo meio de produção criativo. É o conhecimento criando  novos  padrões  no  mercado  e  gerando  assim  sua  constante  mudança,  e  que consequentemente torna-se uma base para tal modo de produção que pode ser caracterizado como perpétuo, pois acompanha o mercado e estes evoluem juntos.  A profissionalização da área também deixou de ser estritamente empirista, onde o cozinheiro aprendia o ofício na 
+Aulas  práticas:  terão  o  objetivo  de  apresentar  as  habilidades  e  conhecimentos necessários à realização das técnicas em questão;
 
-37 
+Aulas práticas aplicadas ao restaurante escola: constitui o momento de aplicação real do conhecimento aprendido na prática experimental, ou seja, são momentos de serviço de clientes reais e assim vivenciar a realidade profissional, porém com amparo dos docentes, aplicando imediatamente as correções necessárias no aprendizado.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Projetos  de  pesquisa:  a  partir  das  práticas  vivenciadas  nos  laboratórios  e  dos conhecimentos  adquiridos,  os  alunios  poderão  integrar  projetos  de  pesquisa  a  serem desenvolvidos no âmbito do restaurante escola, ou ainda nas linhas de pesquisa desenvolvidas por docentes da área.
 
-prática das cozinhas ou sob o ensinamento familiar. 
+Ações de extensão: é o momento onde os alunos irão atuar junto à comunidade externa em eventos, mostras, feiras, etc. sob orientação de docentes do curso.
 
-Como menciona Krause (2001, p.08) ao descrever algumas demandas de formação ao mercado  da  gastronomia,  esta  área  está  sendo  uma  referência  decisiva  no  mercado  de alimentação e restauração por responder pelo sabor-aroma-cor e design, onde aplica o conceito de arte aliado à alimentação em geral. O autor pontua ainda que a gastronomia, utilizada da forma correta por profissionais adequadamente capacitados, é cada vez mais requisitada na busca  de  diferenciais  capazes  de  dar  rentabilidade  aos  investimentos  em  alimentação  e restauração. 
+Destaca-se que para participação em aulas práticas de gastronomia os alunos deverão trajar uniforme e seguir as normas de higiene, considerando a legislação sanitária em vigor. Também deverão adquirir utensílios de uso pessoal.
 
-É fato que a gastronomia evolui muito rapidamente na atualidade, devido às constantes mudanças sociais, ou ainda, aos novos olhares que ela assume para o cliente ou para o profissional. Soma-se a isso o fato da gastronomia articular conhecimentos de diversas áreas, e que a simples execução de uma receita incorre em mobilizar esses conhecimentos e expressálos por meio de habilidades práticas, resultando no produto final. 
+## 3.1 RELAÇÃO ENTRE ENSINO, PESQUISA , EXTENSÃO E INOVAÇÃO
 
-Tal situação exige dos professores ferramentas que propiciem atingir a diversa gama de conhecimentos necessários à execução daquela simples tarefa, preocupando-se também com o desenvolvimento das habilidades necessárias. Dessa forma, o ensino se torna mais eficiente. Rezende (2002) defende a ideia que não adianta vestirmos o "velho" com roupas novas, no caso as novas tecnologias, mas que esses recursos devem ser utilizados para o ensino de novos conhecimentos  que  se  baseiam  em  novas  concepções  de  alunos  e  professores,  o  que definitivamente transforma o processo de ensino-aprendizagem. 
+Há um consenso de que a educação superior precisa priorizar uma formação para além da técnica, ou seja, pela compreensão do ser humano como um ser integral e integrador, autor e protagonista da sua própria história. O conhecimento técnico-científico se constitui como uma das vertentes ou dimensões do processo formativo. Considerando que a sociedade atual exige um  novo  perfil  de  profissional,  que  seja  capaz  de  transcender  os  preceitos  normativoreducionistas,  subentende-se  que  essa  formação  demanda  novas  relações  e  interações pedagógicas, bem como novos processos de ensino-aprendizagem.
 
-A  pedagogia  relacional  citada  por  Becker  (2001)  nos  ajuda  a  compreender  como funciona o mecanismo básico para o ensino da gastronomia. Ao apresentar o material o professor deixa que o aluno tome ciência de seu significado e o auxilia a despertar para isso. Nesse momento, a troca de saberes e experiências é fundamental. Esse exemplo é visível em aulas práticas, onde toda matéria constitui campo aberto para todo tipo de experiência. O autor cita ainda que é fundamental a matéria possuir significado ao aluno. 
+A qualidade e o sucesso dos profissionais formados dependem, em grande parte, do nível de interação  e  articulação entre  esses  três  pilares  do  conhecimento  uno  e multidimensional. É difícil, portanto, conceber um aluno bem-sucedido sem a influência de uma formação sistêmica, isto é, ampliada e integrada, propiciada pelo ensino, pesquisa, extensão e inovação, uma vez que, carece da pesquisa, extensão e inovação, responsável pela produção do conhecimento científico, promovida pela qualificação docente. Sob esse enfoque, emerge a reflexão acerca da integração entre as atividades de ensino, pesquisa, extensão e inovação, neste sentido, o ensino superior é fundamental, pois atribui novos conhecimentos científicos, que podem ser utilizados e transmitidos na carreira profissional dos egressos.
 
-A pedagogia referenciada no ensino da gastronomia é a construtivista, uma vez que o aluno de qualquer nível dessa área vive essa matéria em seu dia-a-dia: alimenta-se, prepara, compra,  planta,  cria,  estuda,  etc.,  relacionando-se  com  essa  nova  ciência  em  diversos momentos do seu dia e de sua vida. Por isso é preciso, antes de mais nada, compreender que o ensino  da  gastronomia  deve  ser  implementado  de  forma  a  acrescentar  experiências  ao indivíduo, e que isso tenha significado no mercado de trabalho (PIAGET, 1977 _apud_ BECKER, 2001) . 
+Como fonte de pesquisa, o Restaurante Escola será o ambiente ideal para a vivência de experiências, aplicação de teorias e conceitos, coletas de dados, proposições metodológicas, desenvolvimento de produtos e experimentações.
 
-Na perspectiva construtivista, o uso de novas tecnologias nas aulas práticas será um recurso que facilitará a inserção do aluno como sujeito do processo pedagógico, não isolando-o como simples receptor de conhecimento. 
+Nesse ambiente, seriam criadas e implementadas linhas de pesquisa em diversos temas, e portanto a implantação desse espaço impactará de forma positiva não somente o espírito empreendedor na escola, mas também o caráter pesquisador, fato esse que somente será propiciado pelo Restaurante Escola.
 
-Becker (2001) explica que é importante que o professor, além de ensinar, também aprenda.  Principalmente  o  que  o  aluno  constrói  no  decorrer  do  processo  de  ensinoaprendizagem. O uso de novas tecnologias em aulas práticas, assim como em outros processos educacionais, permitirá ao professor  construir  a cada dia a sua docência, dinamizando o processo  de  aprender  e  ensinar,  já  que  na  educação  construtivista  a  troca  é  premissa 
+Com a integração dos discentes no ambiente do restaurante escola, e a partir do volume de informações geradas em sua operação, os alunos poderão integrar-se a essas linhas de
 
-38 
+pesquisa e será possível compreender como aprimorar o conhecimento do setor, tanto do ponto de vista científico como no aspecto empreendedor.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## 3.2 TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO NO PROCESSO DE ENSINOAPRENDIZAGEM
 
-elementar. Sim, a ideia de que o professor aprende ao ensinar é básica na gastronomia, pois trata-se de uma necessidade humana básica: o ato de obter, preparar e consumir alimentos. 
+O ensino deve ser pautado na ética, propiciando uma educação motivadora e com boas condições de estudo, pesquisa e ensino. Estas condições vêm de 3 encontro à infraestrutura atualizada, adequada aos padrões de qualidade e normas estabelecidas para o cumprimento da aprendizagem, permitindo avanço tecnológico consonante ao conforto e adequação exigidos. Tudo isso, em adição ao uso de tecnologias rápidas, que facilitem a acessibilidade e rapidez da comunicação.
 
-O momento da aula, assim como a metodologia adotada pelo professor, dependerá do contexto, disciplina, projeto de curso, conhecimentos abordados, mas também da profissão ensinada. A didática adotada pelo professor deve estar inserida nos dois grandes contextos aqui comentados: o dinamismo da gastronomia e a realidade de mercado. Sobre essa demanda, Masetto (2003, p. 74) descreve a aula como convivência humana e momento de relações pedagógicas. O autor esclarece que 
+As Tecnologias Digitais de Informação e Comunicação – TDICs se integram em uma gama de bases tecnológicas que possibilitam a partir de equipamentos, programas e das mídias, a associação de diversos ambientes e indivíduos numa rede, facilitando a comunicação entre seus integrantes, ampliando as ações e possibilidades já garantidas pelos meios tecnológicos.
 
-[...] quando falamos da aula como vivência queremos ressaltar a fundamentalidade de seu caráter de integração com a realidade. A aula como espaço que permita, favoreça e estimule a presença, discussão, o estudo, a pesquisa, o debate e o enfretamento de tudo o que constitui o ser, a existência, as evoluções, as transformações, o dinamismo e a força do mundo, do homem, dos grupos humanos, da sociedade humana, existindo numa realidade contextualizada temporal e espacialmente, num processo histórico em movimento. Essa realidade diz respeito diretamente àqueles que se reúnem numa sala. 
+Trata-se aqui do uso destas tecnologias no processo de ensinoaprendizagem, vale ressaltar que alguns autores, como Sancho Gil (2009), propõem a renomeação das TICs (Tecnologias de Informação e Comunicação) por TACs (Tecnologias de Aprendizagem e Conhecimento), por considerar  os  conflitos  de  gerações  que  envolvem  os  agentes  no  processo  de  ensinoaprendizagem,  a  abundância  de  informações  (linguagem  líquida),  o  contexto  temporal  e espacial e, sobretudo a nova cultura existente nesta era.
 
-Masetto (2003) lembra ainda que para que a aula se torne um espaço de relações pedagógicas são necessárias modificações no seu formato mais tradicional: o espaço físico, redefinições dos objetivos da própria aula, implantação de técnicas participativas e o processo de avaliação. Em cursos que envolvam práticas gastronômicas, essa tarefa é alcançada em partes, já que o espaço (laboratório) é envolvente e desperta a atenção do aluno em todos os seus aspectos,  porém  as  aulas  acontecem  de  forma tradicional: o professor  mostra uma habilidade e relaciona-a com um conhecimento, e o aluno repete. Ao tornar o aluno parte do processo, mostrar a ele os objetivos e lhe fornecer ferramentas para alcançá-los, o próprio processo se reconstrói e a aula passa a ter novo significado. 
+Aliado às novas tecnologias, o uso da internet garante maior comunicação entre povos de origens díspares, fomentando por meio do diálogo e da facilidade deste exercício, a troca de conhecimentos  e  potencializando  o  ensino  aprendizagem.  Isso  possibilita  a  garantia  da qualificação  de  profissionais  que  buscam  na  EaD,  uma  maneira  de  obter  continuidade, complementação e integração dos conhecimentos, possibilitando formação e interatividade àqueles que desprovidos de oportunidades locais, possam acessar a um ensino de qualidade, ampliando a oferta de educação continuada, em espaços e horários adaptáveis.
 
-A partir da proposta de rediscussão do momento aula, Masetto (2003) propõe que o processo de avaliação seja participativo, constante, e que seja parte do processo, e não o final dele. Nesse sentido, a avaliação deixa de ser um instrumento punitivo para tornar-se um instrumento pedagógico, indicativo do caminho e não o final da trilha. O ensino da gastronomia, ao utilizar novas ferramentas tecnológicas, será melhorado e os momentos pedagógicos serão melhores aproveitados. 
+Sobre o uso da internet e a exploração deste recurso na educação, Moran (1997) afirma que não basta o uso do recurso em si, mas dos esforços que se movem daqueles que integram a atividade proposta. Obtêm-se resultados significativos quando há integração em um contexto estrutural de mudança do processo de ensino-aprendizagem, onde, estudantes e professores se comunicam abertamente, interagem de forma interpessoal e efetiva.
 
-Por fim, Masetto (2003) define e defende as chamadas aulas vivas: o ambiente de aprendizagem tradicional é transformado em momento definitivo de trocas e aprendizagem mútua (professor também aprende - aluno também ensina). O ambiente profissional também constitui importante meio de aprendizagem, pois trata da prática aliada à teoria vista por meio da resolução de problemas e novos desafios. O autor complementa que o momento da aula tradicional também pode ser vivo, com o uso de tecnologias como a informática e a telemática, pois, além de propiciar ao aluno fazer parte do momento pedagógico, lhe abre ainda uma porta para o mundo. 
+Não é a internet que modifica o processo de ensino-aprendizagem, mas a atitude de cada indivíduo e da instituição frente à vida, a si mesmo e ao outro (MORAN, 1997). Para que as TDICs ou TACs sejam importante meio de fomento no desenvolvimento das habilidades do estudante, as práticas e recursos do processo 4 educacional precisam ser reestruturados, acompanhando o avanço das tecnologias e o desenvolvimento das habilidades para o seu uso.
 
-Conteúdos procedimentais, como caracterizados por Zaballa (1998) são didaticamente considerados de acordo com sua complexidade: a simples execução de uma atividade motora, 
+## **4. ORGANIZAÇÃO CURRICULAR**
 
-39 
+## 4.1 ESTRUTURA CURRICULAR
 
-**==> picture [472 x 55] intentionally omitted <==**
+Os conhecimentos inerentes ao profissional da gastronomia aqui apresentados tem por objetivo a formação de pessoas capacitadas a atuar no planejamento, produção e gestão de empresas de gastronomia, ou ainda, possibilitam o empreendedorismo. Dessa forma, é possível relacionar os eixos tecnológicos ou temáticos que compõe o curso. São eles: Alimentação e Cultura, Tecnologias da Gastronomia e Mercado Profissional e Empreendedorismo.
 
-como um corte de vegetais ou carnes, mobiliza o físico, a habilidade prática com atenção e precisão do aluno. A execução de um guisado por exemplo mobiliza, além de habilidades motoras, as habilidades cognitivas, ou a prática das ações pautadas em conhecimentos já adquiridos anteriormente, demandando assim do aluno maior complexidade das ações. O autor cita que considerar tais parâmetros permite ao professor adaptar a dinâmica da aula bem como os instrumentos de avaliação. 
+O eixo Alimentação e Cultura está voltado para a caracterização dos temas relativos a formação cultural da alimentação em diferentes contextos, partindo de ideias mais genéricas e atuais, como as necessidades da sociedade, ou como o alimento motivou o desenvolvimento da humanidade, e também percorrendo temas mais específicos, como a formação da gastronomia brasileira e a cozinha clássica ocidental, européia, africana e asiática. As formas de comunicação na gastronomia também são abordadas, seja escrita, oral ou pictórica, além das relações históricas do homem com as bebidas. Os objetivos deste eixo são: fornecer ao profissional subsídios para compreender o contexto em que se insere, entender como desempenhar seu papel enquanto profissional e cidadão de modo construtivo na sociedade e ainda oferecer ferramentas para a progressão de conhecimento da prática e assim adaptar-se às mudanças de mercado. São componentes curriculares deste eixo: História da Gastronomia, Expressão e artes na  Gastronomia,  Gastronomia  Brasileira,  Gastronomia  e  Sustentabilidade,  Gastronomia Clássicas Francesa e Italiana, Gastronomia Europeia e Gastronomia Étnica.
 
-A prática educativa construtivista proposta por Zaballa (1998) pressupõe 
+No eixo temático Tecnologias da Gastronomia são trabalhadas as técnicas e habilidades voltadas ao bom desempenho do profissional em cozinha e salão, formando assim um profissional mais completo possível. Este eixo é compreendido por disciplinas práticas com atividades em grupos e que mobilizem uma série de habilidades e conhecimentos para o aprendizado, de modo progressivo durante o percurso curricular. Com isso, o profissional formado no CST de Gastronomia terá capacidade de atuar em qualquer área produtiva do mercado gastronômico local. As disciplinas que compõem este eixo são: Higiene e Manipulação de alimentos, Habilidades básicas de cozinha 1, Nutrição aplicada à gastronomia, Serviço de salão e bar, Habilidades básicas de cozinha 2, Garde Manger, Tecnologia dos alimentos aplicada à Gastronomia, Bases para panificação, Confeitaria, Bebidas e Enogastronomia.
 
-[...] que nossa estrutura cognitiva esteja configurada por uma rede de esquemas de conhecimentos. Estes esquemas se definem como as representações que uma pessoa possui, num momento dado de sua existência, sobre algum objeto do conhecimento. Ao  longo  da  vida,  estes  esquemas  são  revisados,  modificados,  tornam-se  mais complexos e adaptados à realidade, mais ricos em relações. (ZABALLA, 1998, p.37) 
+Por fim, o eixo temático Mercado Profissional e Empreendedorismo visa atender a uma demanda crescente do mercado da gastronomia local, que é a gestão e empreendedorismo. Neste eixo são trabalhadas as realidades do mercado e da profissão, são apresentados os negócios gastronômicos existentes e as possibilidades para empreender no contexto atual, de forma sustentável e responsável. O foco deste eixo é também apresentar a aplicação profissional dos conhecimentos culturais e técnicos desenvolvidos nos outros eixos citados. Fazem parte deste eixo os seguintes componentes curriculares:  Introdução à Gastronomia,
 
-Sobre esse tema, o autor em referência (ibid.) complementa que é necessário que o conhecimento seja construído de modo a desenvolver uma aprendizagem significativa dos conteúdos, ou, integrado à rede de conhecimentos prévios. 
+Ambientação profissional, Empreendedorismo em Gastronomia, Planejamento de Cardápios, Eventos, Gestão gastronômica, Orientação de Estágio e Projeto de Conclusão de Curso, além do Estágio Curricular Obrigatório e das Atividades Complementares. Portanto, este eixo denota o caráter empreendedor do tecnólogo aqui apresentado.
 
-## 2.5 PERFIL DO EGRESSO 
+É importante destacar que o CST em Gastronomia não possui Diretrizes Curriculares Nacionais próprias, e que respeita as Diretrizes  Curriculares Nacionais Gerais para Cursos de Tecnologia (Parecer CNE/CP nº 29/2002, aprovado em 3 de dezembro de 2002), além do Parecer n°436/2001 que contém orientações sobre a formação do tecnólogo. Um importante referencial abordado para construção dessa matriz são os conteúdos cobrados no ENADE 2015 para o CST em Gastronomia.
 
-Ao logo do curso, o estudante do Curso Superior de Tecnologia em Gastronomia, adquirirá  conhecimentos  sobre  as  diversas  áreas  que  compõem  o  quadro  curricular, capacitando-o para exercer sua função após sua formação. 
+O  CST  em  Gastronomia  contempla  a  temática  História  e  Cultura  Afro-Brasileira  e Indígena na disciplina de Gastronomia Brasileira, fazendo um resgate histórico-cultural das influências desses povos na formação da cultura alimentar do País, de modo a valorizar tais etnias.
 
-Em concordância com o Catálogo Nacional de Cursos Superiores de Tecnologia (2016, p.152), o Tecnólogo em Gastronomia concebe, planeja, gerencia e operacionaliza produções culinárias  nas  diferentes  fases dos serviços de alimentação.  Cria preparações culinárias e valoriza a ciência dos ingredientes. Diferencia e coordena técnicas culinárias. Planeja, controla e avalia custos. Coordena e gerencia pessoas de sua equipe. Valida a segurança alimentar. Planeja, elabora e organiza projetos de fluxo de montagem de cozinha. Identifica utensílios, equipamentos e matéria-prima em restaurantes e estabelecimentos alimentícios. Articula e coordena  empreendimentos  e  negócios  gastronômicos.  Identifica  novas  perspectivas  do mercado alimentício. Vistoria, avalia e emite parecer técnico em sua área de formação. 
+A preocupação com a sustentabilidade ambiental é evidente no curso, já que existe um componente curricular específico para esse tema – Gastronomia e Sustentabilidade – pois é premissa básica do curso a preservação e uso consciente de recursos ambientais, preocupação que  é  vista  também  nas  práticas  pedagógicas  nas  disciplinas  práticas,  pois  o  correto aproveitamento dos alimentos é sempre exigido.
 
-Os componentes curriculares oferecidos formam a base do conhecimento necessário para que o egresso contemple as habilidades necessárias para o exercício da função que lhe é conferida com a certificação de Tecnologia em Gastronomia. 
+Também  é temática do curso questões sociais contemporâneas, dentre  elas: i) os processos de envelhecimento, vivência e experiências; ii) o respeito à diversidade de gênero e iii)  direitos  humanos.  Tais  conteúdos  fazem  parte  de  discussões  iniciais  no  componente Introdução  à Gastronomia – que contextualiza  a gastronomia  na atualidade  e  discute os diversos aspectos das relações humanas e alimentação.
 
-## **2.5.1 Áreas de Atuação do Egresso** 
+A segurança no trabalho é tema fundamental no CST de Gastronomia, já que o ambiente de trabalho relacionado apresenta diversas fontes de risco, e assim, o conteúdo é abordado no início do curso em Habilidades Básicas de Cozinha 1.
 
-40 
+Conforme Decreto  nº.  5.626/2005  e Lei  nº  10.436,  de  24  de  abril  de  2002,  o componente curricular de Libras é ofertado como optativo.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **4.1.1 Representação Gráfica do Processo Formativo**
 
-Estando em conformidade com o Catálogo Nacional de Cursos Superiores de Tecnologia (2016, p.152), entre as principais áreas de atuação do profissional Egresso do Curso Superior de Tecnologia em Gastronomia, pode-se citar: 
+1°Semestre 2°Semestre 3°Semestre 4°Semestre Conclusão<br>Habilidades  Gastronomia  Estágio<br>História da  Gastronomia<br>Gastronomia  Básicas de  Brasileira Étnica Curricular<br>Cozinha 2  (120h) Obrigatório<br>(40h) (240h)<br>(80h) (200h)<br>Empreended<br>Higiene e  Atividades<br>Garde  orismo em  Enogastrono<br>Manipulação  Complementa<br>de Alimentos  Manger Gastronomia mia res<br>(80h) (40h) (80h)<br>(40h) (100h)<br>Habilidades  Tecnologia<br>dos Alimentos  Eventos Gestão<br>Básicas de<br>Aplicada à  (40h) Gastronômica<br>Cozinha 1<br>Gastronomia  (80h)<br>(120h)<br>(60h)<br>Aplicada à Nutrição  Bases para  Confeitaria Conclusão de Projeto de<br>Gastronomia  Panificação (80h) Curso<br>(80h)<br>(40h) (80h)<br>Expressão e<br>Planejamento  Bebidas<br>Artes na<br>de Cardápios (40h)<br>Gastronomia  EIXOS TEMÁTICOS<br>(40h)<br>(40h)<br>Eixo Temático<br>Gastronomia  Mercado<br>Gastronomia  e  Profissional e<br>Serviços de  Clássica  Sustentabilid Empreendedoris<br>Salão e Bar  (Francesa e  ade mo<br>(40h) Italiana)<br>(40h)<br>(120h)<br>Eixo Temático<br>Gastronomia  Tecnologias da<br>Introdução à  Gastronomia<br>Europeia<br>Gastronomia<br>(120h)<br>(40h)<br>Eixo Temático<br>Alimentação e<br>Orientação<br>Ambientação  Cultura<br>de estágio<br>profissional<br>(20h)<br>(120h)<br>
 
-- Centros gastronômicos. 
-
-- Embaixadas e consulados. 
-
-- Empresas de hospedagem, recreação e lazer. 
-
-- Hospitais e Spas. 
-
-- Indústria alimentícia. 
-
-- Parques temáticos, aquáticos, cruzeiros marítimos. 
-
-- Restaurantes comerciais, institucionais e industriais, catering, bufês e bares. 
-
-- Instituições de Ensino, mediante formação requerida pela legislação vigente. 
-
-Além dos supracitados, e em decorrência do perfil do egresso e das atividades de ensino, pesquisa e extensão previstos no Curso, pode-se acrescentar: 
-
-- Áreas afins à área de gastronomia, que demande a presença deste profissional; 
-
-- Parte administrativa, gerencial e de operação de diferentes setores relacionados com alimentos e bebidas; 
-
-- Centros  de  pesquisas  ou  ambiente  que  possibilite  o  desenvolvimento  de  estudos relacionados  com as constantes inovações geradas pelas indústrias de alimentos e bebidas além de pesquisa da alimentação como cultura e  saber tradicional. 
-
-## **2.5.2 Acompanhamento de Egressos** 
-
-As políticas e as ações executadas possuem por finalidade a formação de profissionais socialmente críticos, tecnicamente competentes e humanamente solidários, em sintonia com as necessidades da sociedade local e de seu entorno, comprometidos com valores éticos e com a construção de uma sociedade justa e democrática. 
-
-Nesta intenção, o Instituto Federal do Paraná vem desenvolvendo um processo de Avaliação  Institucional,  com  o objetivo de  fomentar  a  autocrítica  institucional,  garantir  a qualidade das ações no âmbito da instituição e informar à sociedade da consonância dessas ações com as demandas científicas e sociais. 
-
-A autocrítica institucional pressupõe a análise retroativa daqueles que aqui trilharam sua formação acadêmica e que hoje, possivelmente, encontram-se atuando no mundo do trabalho. Para tanto, estabelecer a Política de Acompanhamento do Egresso é condição indispensável. 
-
-O  acompanhamento  do  egresso  compõe,  junto  a  outros  parâmetros,  uma  das ferramentas fundamentais na construção de indicadores, contribuindo para a discussão das ações implementadas, considerando sua eficácia e repercussão. 
-
-Pretende-se que o acompanhamento dos concluintes possa destacar aspectos referentes ao curso oferecido a partir das expectativas sociais e mercadológicas, contribuindo para o aperfeiçoamento dos conhecimentos dos recém-formados. 
-
-Constituem objetivos da Política de Acompanhamento do Egresso: 
-
-41 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-- Identificar o perfil do egresso e criar mecanismos para avaliação de seu desempenho nos postos de trabalho quer no setor público, no privado ou no terceiro setor; 
-
-- Construir uma base de dados com informações que possibilitem manter com o egresso comunicação permanente e estreito vínculo institucional; 
-
-- Obter informações dos empregadores que, associadas às do egresso, direcionem a tomada de decisões institucionais ou do curso; 
-
-- Estimular e criar condições para a educação continuada; 
-
-- Construir indicadores que subsidiem a adequação curricular do curso de Tecnologia em Gastronomia às necessidades do desenvolvimento de competências e habilidades em consonância com as diretrizes nacionais para os cursos superiores e atendimento ao mundo de trabalho. 
-
-- Promover atualização acadêmica oferecendo cursos, seminários e palestras direcionadas à complementação profissional do egresso; 
-
-- Proporcionar a participação de egressos em atividades extensionistas (como proponente de cursos de extensão, palestrante/conferencista em eventos acadêmicos e científicos, e colaborar em atividades de responsabilidade social); 
-
-- Apoiar os egressos em questões do mundo de trabalho e empregabilidade; 
-
-- Divulgar possibilidades e eventuais ofertas de vagas de emprego; 
-
-- Proporcionar  ao  egresso  espaço  para  socialização  e  divulgação  de  contribuições  à sociedade (conquistas, premiações e produção artística e literária); 
-
-- Possibilitar e promover o relacionamento entre antigos colegas de curso, assim como eventuais encontros entre as turmas. 
-
-- Promover encontros anuais com os egressos do curso, nos quais são realizadas palestras, depoimentos, troca de experiências, além de possibilitar a ampliação de networking entre egressos, discentes e docentes. 
-
-## **2.5.3 Registro Profissional** 
-
-Não se aplica. 
-
-## **3. METODOLOGIA E ESTRATÉGIAS PEDAGÓGICAS** 
-
-Para que a formação do tecnólogo em gastronomia tenha êxito, diversas estratégias pedagógicas serão aplicadas, de forma a construir as habilidades e competências necessárias aos profissionais. O curso adotará as seguintes estratégias: 
-
-Aulas teóricas de disciplinas específicas, contextualizadas com a prática profissional e as demandas de mercado, buscando assim fundamentas aquilo que será realizado em laboratório; 
-
-Aulas  práticas:  terão  o  objetivo  de  apresentar  as  habilidades  e  conhecimentos necessários à realização das técnicas em questão; 
-
-42 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-Aulas práticas aplicadas ao restaurante escola: constitui o momento de aplicação real do conhecimento aprendido na prática experimental, ou seja, são momentos de serviço de clientes reais e assim vivenciar a realidade profissional, porém com amparo dos docentes, aplicando imediatamente as correções necessárias no aprendizado. 
-
-Projetos  de  pesquisa:  a  partir  das  práticas  vivenciadas  nos  laboratórios  e  dos conhecimentos  adquiridos,  os  alunios  poderão  integrar  projetos  de  pesquisa  a  serem desenvolvidos no âmbito do restaurante escola, ou ainda nas linhas de pesquisa desenvolvidas por docentes da área. 
-
-Ações de extensão: é o momento onde os alunos irão atuar junto à comunidade externa em eventos, mostras, feiras, etc. sob orientação de docentes do curso. 
-
-Destaca-se que para participação em aulas práticas de gastronomia os alunos deverão trajar uniforme e seguir as normas de higiene, considerando a legislação sanitária em vigor. Também deverão adquirir utensílios de uso pessoal. 
-
-## 3.1 RELAÇÃO ENTRE ENSINO, PESQUISA , EXTENSÃO E INOVAÇÃO 
-
-Há um consenso de que a educação superior precisa priorizar uma formação para além da técnica, ou seja, pela compreensão do ser humano como um ser integral e integrador, autor e protagonista da sua própria história. O conhecimento técnico-científico se constitui como uma das vertentes ou dimensões do processo formativo. Considerando que a sociedade atual exige um  novo  perfil  de  profissional,  que  seja  capaz  de  transcender  os  preceitos  normativoreducionistas,  subentende-se  que  essa  formação  demanda  novas  relações  e  interações pedagógicas, bem como novos processos de ensino-aprendizagem. 
-
-A qualidade e o sucesso dos profissionais formados dependem, em grande parte, do nível de interação  e  articulação entre  esses  três  pilares  do  conhecimento  uno  e multidimensional. É difícil, portanto, conceber um aluno bem-sucedido sem a influência de uma formação sistêmica, isto é, ampliada e integrada, propiciada pelo ensino, pesquisa, extensão e inovação, uma vez que, carece da pesquisa, extensão e inovação, responsável pela produção do conhecimento científico, promovida pela qualificação docente. Sob esse enfoque, emerge a reflexão acerca da integração entre as atividades de ensino, pesquisa, extensão e inovação, neste sentido, o ensino superior é fundamental, pois atribui novos conhecimentos científicos, que podem ser utilizados e transmitidos na carreira profissional dos egressos. 
-
-Como fonte de pesquisa, o Restaurante Escola será o ambiente ideal para a vivência de experiências, aplicação de teorias e conceitos, coletas de dados, proposições metodológicas, desenvolvimento de produtos e experimentações. 
-
-Nesse ambiente, seriam criadas e implementadas linhas de pesquisa em diversos temas, e portanto a implantação desse espaço impactará de forma positiva não somente o espírito empreendedor na escola, mas também o caráter pesquisador, fato esse que somente será propiciado pelo Restaurante Escola. 
-
-Com a integração dos discentes no ambiente do restaurante escola, e a partir do volume de informações geradas em sua operação, os alunos poderão integrar-se a essas linhas de 
-
-43 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-pesquisa e será possível compreender como aprimorar o conhecimento do setor, tanto do ponto de vista científico como no aspecto empreendedor. 
-
-## 3.2 TECNOLOGIAS DIGITAIS DE INFORMAÇÃO E COMUNICAÇÃO NO PROCESSO DE ENSINOAPRENDIZAGEM 
-
-O ensino deve ser pautado na ética, propiciando uma educação motivadora e com boas condições de estudo, pesquisa e ensino. Estas condições vêm de 3 encontro à infraestrutura atualizada, adequada aos padrões de qualidade e normas estabelecidas para o cumprimento da aprendizagem, permitindo avanço tecnológico consonante ao conforto e adequação exigidos. Tudo isso, em adição ao uso de tecnologias rápidas, que facilitem a acessibilidade e rapidez da comunicação. 
-
-As Tecnologias Digitais de Informação e Comunicação – TDICs se integram em uma gama de bases tecnológicas que possibilitam a partir de equipamentos, programas e das mídias, a associação de diversos ambientes e indivíduos numa rede, facilitando a comunicação entre seus integrantes, ampliando as ações e possibilidades já garantidas pelos meios tecnológicos. 
-
-Trata-se aqui do uso destas tecnologias no processo de ensinoaprendizagem, vale ressaltar que alguns autores, como Sancho Gil (2009), propõem a renomeação das TICs (Tecnologias de Informação e Comunicação) por TACs (Tecnologias de Aprendizagem e Conhecimento), por considerar  os  conflitos  de  gerações  que  envolvem  os  agentes  no  processo  de  ensinoaprendizagem,  a  abundância  de  informações  (linguagem  líquida),  o  contexto  temporal  e espacial e, sobretudo a nova cultura existente nesta era. 
-
-Aliado às novas tecnologias, o uso da internet garante maior comunicação entre povos de origens díspares, fomentando por meio do diálogo e da facilidade deste exercício, a troca de conhecimentos  e  potencializando  o  ensino  aprendizagem.  Isso  possibilita  a  garantia  da qualificação  de  profissionais  que  buscam  na  EaD,  uma  maneira  de  obter  continuidade, complementação e integração dos conhecimentos, possibilitando formação e interatividade àqueles que desprovidos de oportunidades locais, possam acessar a um ensino de qualidade, ampliando a oferta de educação continuada, em espaços e horários adaptáveis. 
-
-Sobre o uso da internet e a exploração deste recurso na educação, Moran (1997) afirma que não basta o uso do recurso em si, mas dos esforços que se movem daqueles que integram a atividade proposta. Obtêm-se resultados significativos quando há integração em um contexto estrutural de mudança do processo de ensino-aprendizagem, onde, estudantes e professores se comunicam abertamente, interagem de forma interpessoal e efetiva. 
-
-Não é a internet que modifica o processo de ensino-aprendizagem, mas a atitude de cada indivíduo e da instituição frente à vida, a si mesmo e ao outro (MORAN, 1997). Para que as TDICs ou TACs sejam importante meio de fomento no desenvolvimento das habilidades do estudante, as práticas e recursos do processo 4 educacional precisam ser reestruturados, acompanhando o avanço das tecnologias e o desenvolvimento das habilidades para o seu uso. 
-
-44 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-## **4. ORGANIZAÇÃO CURRICULAR** 
-
-## 4.1 ESTRUTURA CURRICULAR 
-
-Os conhecimentos inerentes ao profissional da gastronomia aqui apresentados tem por objetivo a formação de pessoas capacitadas a atuar no planejamento, produção e gestão de empresas de gastronomia, ou ainda, possibilitam o empreendedorismo. Dessa forma, é possível relacionar os eixos tecnológicos ou temáticos que compõe o curso. São eles: Alimentação e Cultura, Tecnologias da Gastronomia e Mercado Profissional e Empreendedorismo. 
-
-O eixo Alimentação e Cultura está voltado para a caracterização dos temas relativos a formação cultural da alimentação em diferentes contextos, partindo de ideias mais genéricas e atuais, como as necessidades da sociedade, ou como o alimento motivou o desenvolvimento da humanidade, e também percorrendo temas mais específicos, como a formação da gastronomia brasileira e a cozinha clássica ocidental, européia, africana e asiática. As formas de comunicação na gastronomia também são abordadas, seja escrita, oral ou pictórica, além das relações históricas do homem com as bebidas. Os objetivos deste eixo são: fornecer ao profissional subsídios para compreender o contexto em que se insere, entender como desempenhar seu papel enquanto profissional e cidadão de modo construtivo na sociedade e ainda oferecer ferramentas para a progressão de conhecimento da prática e assim adaptar-se às mudanças de mercado. São componentes curriculares deste eixo: História da Gastronomia, Expressão e artes na  Gastronomia,  Gastronomia  Brasileira,  Gastronomia  e  Sustentabilidade,  Gastronomia Clássicas Francesa e Italiana, Gastronomia Europeia e Gastronomia Étnica. 
-
-No eixo temático Tecnologias da Gastronomia são trabalhadas as técnicas e habilidades voltadas ao bom desempenho do profissional em cozinha e salão, formando assim um profissional mais completo possível. Este eixo é compreendido por disciplinas práticas com atividades em grupos e que mobilizem uma série de habilidades e conhecimentos para o aprendizado, de modo progressivo durante o percurso curricular. Com isso, o profissional formado no CST de Gastronomia terá capacidade de atuar em qualquer área produtiva do mercado gastronômico local. As disciplinas que compõem este eixo são: Higiene e Manipulação de alimentos, Habilidades básicas de cozinha 1, Nutrição aplicada à gastronomia, Serviço de salão e bar, Habilidades básicas de cozinha 2, Garde Manger, Tecnologia dos alimentos aplicada à Gastronomia, Bases para panificação, Confeitaria, Bebidas e Enogastronomia. 
-
-Por fim, o eixo temático Mercado Profissional e Empreendedorismo visa atender a uma demanda crescente do mercado da gastronomia local, que é a gestão e empreendedorismo. Neste eixo são trabalhadas as realidades do mercado e da profissão, são apresentados os negócios gastronômicos existentes e as possibilidades para empreender no contexto atual, de forma sustentável e responsável. O foco deste eixo é também apresentar a aplicação profissional dos conhecimentos culturais e técnicos desenvolvidos nos outros eixos citados. Fazem parte deste eixo os seguintes componentes curriculares:  Introdução à Gastronomia, 
-
-45 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-Ambientação profissional, Empreendedorismo em Gastronomia, Planejamento de Cardápios, Eventos, Gestão gastronômica, Orientação de Estágio e Projeto de Conclusão de Curso, além do Estágio Curricular Obrigatório e das Atividades Complementares. Portanto, este eixo denota o caráter empreendedor do tecnólogo aqui apresentado. 
-
-É importante destacar que o CST em Gastronomia não possui Diretrizes Curriculares Nacionais próprias, e que respeita as Diretrizes  Curriculares Nacionais Gerais para Cursos de Tecnologia (Parecer CNE/CP nº 29/2002, aprovado em 3 de dezembro de 2002), além do Parecer n°436/2001 que contém orientações sobre a formação do tecnólogo. Um importante referencial abordado para construção dessa matriz são os conteúdos cobrados no ENADE 2015 para o CST em Gastronomia. 
-
-O  CST  em  Gastronomia  contempla  a  temática  História  e  Cultura  Afro-Brasileira  e Indígena na disciplina de Gastronomia Brasileira, fazendo um resgate histórico-cultural das influências desses povos na formação da cultura alimentar do País, de modo a valorizar tais etnias. 
-
-A preocupação com a sustentabilidade ambiental é evidente no curso, já que existe um componente curricular específico para esse tema – Gastronomia e Sustentabilidade – pois é premissa básica do curso a preservação e uso consciente de recursos ambientais, preocupação que  é  vista  também  nas  práticas  pedagógicas  nas  disciplinas  práticas,  pois  o  correto aproveitamento dos alimentos é sempre exigido. 
-
-Também  é temática do curso questões sociais contemporâneas, dentre  elas: i) os processos de envelhecimento, vivência e experiências; ii) o respeito à diversidade de gênero e iii)  direitos  humanos.  Tais  conteúdos  fazem  parte  de  discussões  iniciais  no  componente Introdução  à Gastronomia – que contextualiza  a gastronomia  na atualidade  e  discute os diversos aspectos das relações humanas e alimentação. 
-
-A segurança no trabalho é tema fundamental no CST de Gastronomia, já que o ambiente de trabalho relacionado apresenta diversas fontes de risco, e assim, o conteúdo é abordado no início do curso em Habilidades Básicas de Cozinha 1. 
-
-Conforme Decreto  nº.  5.626/2005  e Lei  nº  10.436,  de  24  de  abril  de  2002,  o componente curricular de Libras é ofertado como optativo. 
-
-## **4.1.1 Representação Gráfica do Processo Formativo** 
-
-46 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-**==> picture [429 x 583] intentionally omitted <==**
-
-**----- Start of picture text -----**<br>
-1°Semestre 2°Semestre 3°Semestre 4°Semestre Conclusão<br>Habilidades  Gastronomia  Estágio<br>História da  Gastronomia<br>Gastronomia  Básicas de  Brasileira Étnica Curricular<br>Cozinha 2  (120h) Obrigatório<br>(40h) (240h)<br>(80h) (200h)<br>Empreended<br>Higiene e  Atividades<br>Garde  orismo em  Enogastrono<br>Manipulação  Complementa<br>de Alimentos  Manger Gastronomia mia res<br>(80h) (40h) (80h)<br>(40h) (100h)<br>Habilidades  Tecnologia<br>dos Alimentos  Eventos Gestão<br>Básicas de<br>Aplicada à  (40h) Gastronômica<br>Cozinha 1<br>Gastronomia  (80h)<br>(120h)<br>(60h)<br>Aplicada à Nutrição  Bases para  Confeitaria Conclusão de Projeto de<br>Gastronomia  Panificação (80h) Curso<br>(80h)<br>(40h) (80h)<br>Expressão e<br>Planejamento  Bebidas<br>Artes na<br>de Cardápios (40h)<br>Gastronomia  EIXOS TEMÁTICOS<br>(40h)<br>(40h)<br>Eixo Temático<br>Gastronomia  Mercado<br>Gastronomia  e  Profissional e<br>Serviços de  Clássica  Sustentabilid Empreendedoris<br>Salão e Bar  (Francesa e  ade mo<br>(40h) Italiana)<br>(40h)<br>(120h)<br>Eixo Temático<br>Gastronomia  Tecnologias da<br>Introdução à  Gastronomia<br>Europeia<br>Gastronomia<br>(120h)<br>(40h)<br>Eixo Temático<br>Alimentação e<br>Orientação<br>Ambientação  Cultura<br>de estágio<br>profissional<br>(20h)<br>(120h)<br>**----- End of picture text -----**<br>
-
-
-47 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-## **4.1.2  Matriz Curricular** 
-
-48 
-
-**==> picture [472 x 55] intentionally omitted <==**
+## **4.1.2  Matriz Curricular**
 
 ||**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**|**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**|**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**|**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**|**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**|
 |---|---|---|---|---|---|
@@ -1228,7 +1020,6 @@ Conforme Decreto  nº.  5.626/2005  e Lei  nº  10.436,  de  24  de  abril  de  
 ||Introdução à Gastronomia<br>|C|2|40|33,00|
 ||Ambientaçãoprofssional|C|6|120|100,00|
 ||**Subtotal(Total doperíodo)**|||**480**|**398,00**|
-|||||||
 |**2º Semestre**|Habilidades básicas de cozinha 2|C|4|80|67,00|
 ||Garde Manger|C|4|80|67,00|
 ||Tecnologia dos alimentos aplicada à Gastronomia<br>|C|4|80|67,00|
@@ -1236,7 +1027,6 @@ Conforme Decreto  nº.  5.626/2005  e Lei  nº  10.436,  de  24  de  abril  de  
 ||Planejamento de cardápios|C|2|40|33,00|
 ||Gastronomia Clássicas Francesa e Italiana|C|6|120|100,00|
 ||**Subtotal(Total doperíodo)**|||**480**|**401,00**|
-|||||||
 |**3º Semestre**|Gastronomia Brasileira|C|6|120|100,00|
 ||Empreendedorismo em Gastronomia|C|2|40|33,00|
 ||Eventos|C|2|40|33,00|
@@ -1246,1329 +1036,1165 @@ Conforme Decreto  nº.  5.626/2005  e Lei  nº  10.436,  de  24  de  abril  de  
 ||Gastronomia Europeia|C|6|120|100,00|
 ||Orientação de estágio|C|1|20|17,00|
 ||**Subtotal(Total doperíodo)**|||**480**|**416,00**|
-|||||||
 |**4º Semestre**|Gastronomia Étnica|C|12|240|200,00|
 ||Enogastronomia|C|4|80|67,00|
 ||Gestãogastronômica|C|4|80|67,00|
 ||Projeto de conclusão de curso|C|4|80|67,00|
 ||**Subtotal(Total doperíodo)**|||**480**|**401,00**|
-|||||||
 ||**CARGA HORÁRIA TOTAL DO CURSO**||||**1616**|
 ||**DISTRIBUIÇÃO - CARGA HORÁRIA**|||||
 |(C)Componentes curriculares<br>|||||1616|
 |(AC)Atvidades Complementares|||||160|
 |(ES)Estágio Supervisionado|||||200|
 
+## **4.1.3 Componentes Optativos**
 
+O  Curso Superior de Tecnologia em Gastronomia tem a  unidade curricular Libras como a única unidade curricular optativa, podendo ser realizada a qualquer tempo pelo discente, em quando ofertada no campus. Esta unidade curricular será oferecida no Câmpus de Foz do Iguaçu em conjunto com outros cursos superiores do campus. A respectiva ementa será apresentada no ementário e não constará da matriz curricular.
 
-49 
+## **4.1.4 Componentes Eletivos**
 
-**==> picture [472 x 55] intentionally omitted <==**
+Não se aplica
 
-## **4.1.3 Componentes Optativos** 
+## 4.2 EMENTÁRIO E BIBLIOGRAFIAS
 
-O  Curso Superior de Tecnologia em Gastronomia tem a  unidade curricular Libras como a única unidade curricular optativa, podendo ser realizada a qualquer tempo pelo discente, em quando ofertada no campus. Esta unidade curricular será oferecida no Câmpus de Foz do Iguaçu em conjunto com outros cursos superiores do campus. A respectiva ementa será apresentada no ementário e não constará da matriz curricular. 
+## **1° SEMESTRE**
 
-## **4.1.4 Componentes Eletivos** 
+**COMPONENTE CURRICULAR: História da Gastronomia** CARGA HORÁRIA: 40h/aula (33h) EMENTA O Ato de Comer; Comportamentos Alimentares e suas influências; Alimentação e civilizações; A alimentação nos principais períodos da história ocidental; O alimento e sua simbologia ao longo da história; Comida como Cultura; Alimentação e religião; A globalização alimentar; O desenvolvimento da gastronomia. BIBLIOGRAFIA  BÁSICA FLANDRIN, Jean-Louis; FLANDRIN, Jean Louis; MONTANARI, Massimo. História da alimentação. São Paulo: Estação Liberdade, 1998. FRANCO, Ariovaldo. De caçador a gourmet: uma história da gastronomia. 5. ed. São Paulo: SENAC São Paulo, 2010. MONTANARI, Massimo. Comida como cultura. 2. ed. São Paulo: Ed. Senac São Paulo, 2013. BIBLIOGRAFIA COMPLEMENTAR TREFZER, Rudolf. Clássicos da literatura culinária: os mais importantes livros da história da gastronomia. São Paulo: Senac Nacional, 2009. BRILLART-SAVARIN, Anthelme. A fisiologia do gosto. 2. ed. Rio de Janeiro: Companhia das Letras, 1995. MONTANARI, Massimo (Org). O mundo na cozinha: história, identidade, trocas. São Paulo: Ed. Senac São Paulo, 2009. PETRINI, Carlo. Slow food: princípios da nova gastronomia. São Paulo: SENAC São Paulo, 2009.
 
-Não se aplica 
+## **COMPONENTE CURRICULAR: Higiene e Manipulação de Alimentos**
 
-## 4.2 EMENTÁRIO E BIBLIOGRAFIAS 
+CARGA HORÁRIA: 40 h/aula  (33h)
 
-## **1° SEMESTRE** 
+EMENTA: Boas práticas de fabricação aplicadas a serviços de alimentação; Procedimentos operacionais padronizados aplicados em cozinhas profissionais; Métodos de higienização, conservação e armazenamento de alimentos pré e pós preparo; Doenças transmitidas por alimentos e causadas por microrganismos; Programas de garantia da qualidade aplicado a serviços de alimentação; Legislações vigentes.
 
-**COMPONENTE CURRICULAR: História da Gastronomia** CARGA HORÁRIA: 40h/aula (33h) EMENTA O Ato de Comer; Comportamentos Alimentares e suas influências; Alimentação e civilizações; A alimentação nos principais períodos da história ocidental; O alimento e sua simbologia ao longo da história; Comida como Cultura; Alimentação e religião; A globalização alimentar; O desenvolvimento da gastronomia. BIBLIOGRAFIA  BÁSICA FLANDRIN, Jean-Louis; FLANDRIN, Jean Louis; MONTANARI, Massimo. História da alimentação. São Paulo: Estação Liberdade, 1998. FRANCO, Ariovaldo. De caçador a gourmet: uma história da gastronomia. 5. ed. São Paulo: SENAC São Paulo, 2010. MONTANARI, Massimo. Comida como cultura. 2. ed. São Paulo: Ed. Senac São Paulo, 2013. BIBLIOGRAFIA COMPLEMENTAR TREFZER, Rudolf. Clássicos da literatura culinária: os mais importantes livros da história da gastronomia. São Paulo: Senac Nacional, 2009. BRILLART-SAVARIN, Anthelme. A fisiologia do gosto. 2. ed. Rio de Janeiro: Companhia das Letras, 1995. MONTANARI, Massimo (Org). O mundo na cozinha: história, identidade, trocas. São Paulo: Ed. Senac São Paulo, 2009. PETRINI, Carlo. Slow food: princípios da nova gastronomia. São Paulo: SENAC São Paulo, 2009. 
+## BIBLIOGRAFIA BÁSICA:
 
-50 
+ASSIS, L. de. Alimentos Seguros: ferramentas para gestão e controle da produção e distribuição. Rio de Janeiro: Senac Nacional, 2012.
 
-**==> picture [472 x 55] intentionally omitted <==**
+GERMANO, P. M. L., GERMANO, M. I. S. Higiene e vigilância sanitária de alimentos: qualidade das matérias-primas, doenças transmitidas por alimentos, treinamento de recursos humanos. São Paulo: Manole, 4ºed., 2011.
 
-## **COMPONENTE CURRICULAR: Higiene e Manipulação de Alimentos** 
+SANTOS JUNIOR, C. J. dos. Manual de Segurança Alimentar: boas práticas para os serviços de alimentação. Rio de Janeiro: editora Rubio, 2ºed., 2008.
 
-CARGA HORÁRIA: 40 h/aula  (33h) 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-EMENTA: Boas práticas de fabricação aplicadas a serviços de alimentação; Procedimentos operacionais padronizados aplicados em cozinhas profissionais; Métodos de higienização, conservação e armazenamento de alimentos pré e pós preparo; Doenças transmitidas por alimentos e causadas por microrganismos; Programas de garantia da qualidade aplicado a serviços de alimentação; Legislações vigentes. 
+FORSYTHE, S. J.Microbiologia da segurança dos alimentos. Porto Alegre: Artmed, 2. ed., 2013.
 
-## BIBLIOGRAFIA BÁSICA: 
+LOPES, T. H.; CASTRO-NETO, N. de; MARCOS, E. N. F.; SCHEIDT, M. H. Higiene e manipulação de alimentos. Curitiba: Livro Técnico, 2012.
 
-ASSIS, L. de. Alimentos Seguros: ferramentas para gestão e controle da produção e distribuição. Rio de Janeiro: Senac Nacional, 2012. 
+SILVA Jr., E. A. da. Manual de Controle Higiênico-Sanitário em Serviços de Alimentação. São Paulo: Varela, 6º ed., 1995
 
-GERMANO, P. M. L., GERMANO, M. I. S. Higiene e vigilância sanitária de alimentos: qualidade das matérias-primas, doenças transmitidas por alimentos, treinamento de recursos humanos. São Paulo: Manole, 4ºed., 2011. 
+VIEIRA, M. N. C. M.; JAPUR, C. C. (Coord.).Gestão de qualidade na produção de refeições.Rio de Janeiro: Guanabara Koogan, 2012.
 
-SANTOS JUNIOR, C. J. dos. Manual de Segurança Alimentar: boas práticas para os serviços de alimentação. Rio de Janeiro: editora Rubio, 2ºed., 2008. 
+## **COMPONENTE CURRICULAR: Habilidades Básicas de Cozinha 1**
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+CARGA HORÁRIA: 120h/aula (100h)
 
-FORSYTHE, S. J.Microbiologia da segurança dos alimentos. Porto Alegre: Artmed, 2. ed., 2013. 
+## EMENTA
 
-LOPES, T. H.; CASTRO-NETO, N. de; MARCOS, E. N. F.; SCHEIDT, M. H. Higiene e manipulação de alimentos. Curitiba: Livro Técnico, 2012. 
+Habilidades Básicas de Cozinha; Fundos Básicos; Aromáticos; Agentes de Ligação; Embelezadores; Métodos de Cocção; Cortes clássicos aplicados a vegetais, carnes, aves e peixes; Técnicas básicas de preparações gastronômicas integrando os conhecimentos teóricos e práticos com as práticas de cozinha profissional e a terminologia clássica.
 
-SILVA Jr., E. A. da. Manual de Controle Higiênico-Sanitário em Serviços de Alimentação. São Paulo: Varela, 6º ed., 1995 
+## BIBLIOGRAFIA  BÁSICA
 
-VIEIRA, M. N. C. M.; JAPUR, C. C. (Coord.).Gestão de qualidade na produção de refeições.Rio de Janeiro: Guanabara Koogan, 2012. 
+CASTRO NETO, Nelson de; LOPES, Thiago Henrique. Habilidades básicas de cozinha. Curitiba: Livro Técnico, 2011.
 
-## **COMPONENTE CURRICULAR: Habilidades Básicas de Cozinha 1** 
+CULINARY INSTITUTE OF AMERICA. SENAC Departamento Nacional. Chef profissional. 4. ed. rev. São Paulo: SENAC, 2011.
 
-CARGA HORÁRIA: 120h/aula (100h) 
+WRIGHT, Jeni. Le Cordon Bleu: Todas as técnicas culinárias. São Paulo: Marco Zero, 1996.
 
-## EMENTA 
+BIBLIOGRAFIA COMPLEMENTAR
 
-Habilidades Básicas de Cozinha; Fundos Básicos; Aromáticos; Agentes de Ligação; Embelezadores; Métodos de Cocção; Cortes clássicos aplicados a vegetais, carnes, aves e peixes; Técnicas básicas de preparações gastronômicas integrando os conhecimentos teóricos e práticos com as práticas de cozinha profissional e a terminologia clássica. 
+BARRETO, R. L. P. Passaporte para o Sabor. São Paulo, Editora SENAC, 2002. THIS, H. (Tradução de Marcos Bagno) – Um cientista na cozinha. São Paulo: Ática, 2002. MCGEE, Harold. Comida e Cozinha – Ciência e Cultura da Culinária. São Paulo, SP: WMF Martins Fontes, 2011.
 
-## BIBLIOGRAFIA  BÁSICA 
+DUCHENE, Laurent. Le Cordon Bleu: sobremesas e suas técnicas. São Paulo: Marco Zero, 1999.
 
-CASTRO NETO, Nelson de; LOPES, Thiago Henrique. Habilidades básicas de cozinha. Curitiba: Livro Técnico, 2011. 
+## **COMPONENTE CURRICULAR: Nutrição aplicada a Gastronomia**
 
-CULINARY INSTITUTE OF AMERICA. SENAC Departamento Nacional. Chef profissional. 4. ed. rev. São Paulo: SENAC, 2011. 
+CARGA HORÁRIA: 40 horas/aula – (33h)
 
-WRIGHT, Jeni. Le Cordon Bleu: Todas as técnicas culinárias. São Paulo: Marco Zero, 1996. 
+EMENTA: Composição nutricional dos alimentos; Processos de digestão e absorção de nutrientes que compõem os alimentos; Cálculo de valor nutricional e valor calórico dos alimentos; Estudo dos macro (proteínas, lipídeos e carboidratos) e micronutrientes (vitaminas e minerais) dos alimentos; Alimentos Funcionais; Elaboração de cardápio balanceado; Restrições alimentares (alergias e intolerâncias); Elaboração de cardápios que atendam as restrições alimentares.
 
-51 
+BIBLIOGRAFIA BÁSICA:
 
-**==> picture [472 x 55] intentionally omitted <==**
+BORSOI, M. A. Nutrição e dietética: noções básicas. 14ºed. São Paulo: SENAC São Paulo, 2010. MARTINIS, E. C. P. de, TEIXEIRA, G. H. Atualidades em ciências de alimentos e nutrição para profissionais de saúde. 1º ed., São Paulo: Varela, 2015.
 
-BIBLIOGRAFIA COMPLEMENTAR 
+MARTINS, B. T.; BASÍLIO, M. C.; SILVA, M. A. C. Nutrição aplicada e alimentação saudável.São Paulo: Ed. Senac São Paulo, 2014.
 
-BARRETO, R. L. P. Passaporte para o Sabor. São Paulo, Editora SENAC, 2002. THIS, H. (Tradução de Marcos Bagno) – Um cientista na cozinha. São Paulo: Ática, 2002. MCGEE, Harold. Comida e Cozinha – Ciência e Cultura da Culinária. São Paulo, SP: WMF Martins Fontes, 2011. 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-DUCHENE, Laurent. Le Cordon Bleu: sobremesas e suas técnicas. São Paulo: Marco Zero, 1999. 
+ALLEN, D.; KEARNEY, R.Alimentação saudável sem glúten.São Paulo: Ed. Senac São Paulo, 2014. ABICAIR, M.; BACCARIN, F.Alta gastronomia diet e light:sem glúten, sem lactose e com redução de sal. São Paulo: Ed. Senac São Paulo, 2015.
 
-## **COMPONENTE CURRICULAR: Nutrição aplicada a Gastronomia** 
+GUTFILEN, V.Com sabor:sem glúten, sem lactose. Rio de Janeiro: Rubio, 2014.
 
-CARGA HORÁRIA: 40 horas/aula – (33h) 
+KNIBEL, M. P.; ASSIS, D. C. de.Nutrição contemporânea:saúde com sabor. Rio de Janeiro: Rubio, 2010.
 
-EMENTA: Composição nutricional dos alimentos; Processos de digestão e absorção de nutrientes que compõem os alimentos; Cálculo de valor nutricional e valor calórico dos alimentos; Estudo dos macro (proteínas, lipídeos e carboidratos) e micronutrientes (vitaminas e minerais) dos alimentos; Alimentos Funcionais; Elaboração de cardápio balanceado; Restrições alimentares (alergias e intolerâncias); Elaboração de cardápios que atendam as restrições alimentares. 
+## **COMPONENTE CURRICULAR: Expressão e Artes na Gastronomia**
 
-BIBLIOGRAFIA BÁSICA: 
+CARGA HORÁRIA: 40h/aula (33h)
 
-BORSOI, M. A. Nutrição e dietética: noções básicas. 14ºed. São Paulo: SENAC São Paulo, 2010. MARTINIS, E. C. P. de, TEIXEIRA, G. H. Atualidades em ciências de alimentos e nutrição para profissionais de saúde. 1º ed., São Paulo: Varela, 2015. 
+## EMENTA
 
-MARTINS, B. T.; BASÍLIO, M. C.; SILVA, M. A. C. Nutrição aplicada e alimentação saudável.São Paulo: Ed. Senac São Paulo, 2014. 
+Arte e Gastronomia: cultura, linguagem e expressão. Noções básicas de estética visual e coloração. História da Arte e História da Gastronomia: relações e períodos. Arte contemporânea e pratos contemporâneos. Noções básicas de fotografia. Composição artística e montagem de pratos.
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+BIBLIOGRAFIA  BÁSICA:
 
-ALLEN, D.; KEARNEY, R.Alimentação saudável sem glúten.São Paulo: Ed. Senac São Paulo, 2014. ABICAIR, M.; BACCARIN, F.Alta gastronomia diet e light:sem glúten, sem lactose e com redução de sal. São Paulo: Ed. Senac São Paulo, 2015. 
+FARTHING, Stephen. Tudo sobre Arte – Os Movimentos e as Obras Mais Importantes de Todos os Tempos. 1ª edição. Rio de Janeiro: Sextante, 2011.
 
-GUTFILEN, V.Com sabor:sem glúten, sem lactose. Rio de Janeiro: Rubio, 2014. 
+FLANDRIN, Jean-Louis; FLANDRIN, Jean Louis; MONTANARI, Massimo. História da alimentação. São Paulo: Estação Liberdade, 1998.
 
-KNIBEL, M. P.; ASSIS, D. C. de.Nutrição contemporânea:saúde com sabor. Rio de Janeiro: Rubio, 2010. 
+PROENÇA, Graça. História da Arte. 17ª edição. São Paulo: Editora Ática, 2007. SANTAELLA, Lucia. O que é semiótica. 2ª edição. São Paulo: Editora Brasiliense, 2003.
 
-## **COMPONENTE CURRICULAR: Expressão e Artes na Gastronomia** 
+BIBLIOGRAFIA COMPLEMENTAR: GOMBRICH, Ernst Hans. A História da Arte. 16ª edição. São Paulo: Editora LTC, 2000. BERENSON, Bernard. Estética e História. 2ª edição. São Paulo: Editora Perspectiva, 2010.
 
-CARGA HORÁRIA: 40h/aula (33h) 
+TOTA, Anna Lisa. A Sociologia da Arte: Do Museu Tradicional à Artes Multimédia. Lisboa: Editorial Estampa, 2000.
 
-## EMENTA 
+## **COMPONENTE CURRICULAR: SERVIÇO DE SALÃO E BAR**
 
-Arte e Gastronomia: cultura, linguagem e expressão. Noções básicas de estética visual e coloração. História da Arte e História da Gastronomia: relações e períodos. Arte contemporânea e pratos contemporâneos. Noções básicas de fotografia. Composição artística e montagem de pratos. 
+CARGA HORÁRIA: 40h/aula (33h)
 
-BIBLIOGRAFIA  BÁSICA: 
+EMENTA: Técnicas de serviços em gastronomia; organização e montagem de salão; organograma de salão; materiais e equipamentos de salão; postura profissional; serviços de atendimento a clientes; terminologia gastronômica aplicada ao serviço de salão e bar.
 
-FARTHING, Stephen. Tudo sobre Arte – Os Movimentos e as Obras Mais Importantes de Todos os Tempos. 1ª edição. Rio de Janeiro: Sextante, 2011. 
+BIBLIOGRAFIA BÁSICA BECK, H. Arte e Ciência do Serviço. São Paulo, SP. ANHEMBI MORUMBI, 2005. Instituto Americano de Culinária. A Arte de servir. São Paulo, SP. Editora ROCA, 2004. PACHECO, A. de O. Manual do bar. São Paulo: Senac, 1989.
 
-FLANDRIN, Jean-Louis; FLANDRIN, Jean Louis; MONTANARI, Massimo. História da alimentação. São Paulo: Estação Liberdade, 1998. 
+BIBLIOGRAFIA COMPLEMENTAR
 
-52 
+FREUND, F.T. Festas e recepções: gastonomia, organização e cerimonial. 2 ed. 1ª reimp. Rio de Janeiro: Senac Nacional, 2009. 144p.
 
-**==> picture [472 x 55] intentionally omitted <==**
+PACHECO, A. de O.. Manual do Maître d’hotel. 3ª ed. Revista atual. São Paulo: Ed. SENAC, 2000. DJACZ, Mônica. Segredos de uma banqueteira : : para receber em casa com sucesso / . São Paulo: Melhoramentos, 2006 128 p.
 
-PROENÇA, Graça. História da Arte. 17ª edição. São Paulo: Editora Ática, 2007. SANTAELLA, Lucia. O que é semiótica. 2ª edição. São Paulo: Editora Brasiliense, 2003. 
+SIMON, J. Vinho e Comida. São Paulo: Companhia das Letras, 2000
 
-BIBLIOGRAFIA COMPLEMENTAR: GOMBRICH, Ernst Hans. A História da Arte. 16ª edição. São Paulo: Editora LTC, 2000. BERENSON, Bernard. Estética e História. 2ª edição. São Paulo: Editora Perspectiva, 2010. 
+## **COMPONENTE CURRICULAR: Introdução à Gastronomia**
 
-TOTA, Anna Lisa. A Sociologia da Arte: Do Museu Tradicional à Artes Multimédia. Lisboa: Editorial Estampa, 2000. 
+CARGA HORÁRIA: 40h/aula (33h)
 
-## **COMPONENTE CURRICULAR: SERVIÇO DE SALÃO E BAR** 
+## EMENTA
 
-CARGA HORÁRIA: 40h/aula (33h) 
+Gastronomia como mercado de trabalho; Vertentes Gastronômicas; Ambiente Profissional; Tipologia de Restaurante; Setorização da Cozinha; Brigada de Cozinha; Organograma; Segurança no trabalho; A figura do Chef; Contexto atual do mercado gastronômico.
 
-EMENTA: Técnicas de serviços em gastronomia; organização e montagem de salão; organograma de salão; materiais e equipamentos de salão; postura profissional; serviços de atendimento a clientes; terminologia gastronômica aplicada ao serviço de salão e bar. 
+BIBLIOGRAFIA  BÁSICA
 
-BIBLIOGRAFIA BÁSICA BECK, H. Arte e Ciência do Serviço. São Paulo, SP. ANHEMBI MORUMBI, 2005. Instituto Americano de Culinária. A Arte de servir. São Paulo, SP. Editora ROCA, 2004. PACHECO, A. de O. Manual do bar. São Paulo: Senac, 1989. 
+MEZOMO, Iracema de Barros. Os serviços de alimentação: planejamento e administração. 6.ed. rev. e
 
-BIBLIOGRAFIA COMPLEMENTAR 
+atual. Barueri: Manole, 2015.
 
-FREUND, F.T. Festas e recepções: gastonomia, organização e cerimonial. 2 ed. 1ª reimp. Rio de Janeiro: Senac Nacional, 2009. 144p. 
+BARRETO, Ronaldo L. P. Passaporte para o sabor: tecnologias para a elaboração de cardápios. 7. ed. rev. e ampl. São Paulo: SENAC São Paulo, 2008.
 
-PACHECO, A. de O.. Manual do Maître d’hotel. 3ª ed. Revista atual. São Paulo: Ed. SENAC, 2000. DJACZ, Mônica. Segredos de uma banqueteira : : para receber em casa com sucesso / . São Paulo: Melhoramentos, 2006 128 p. 
+TEICHMANN, Ione Mendes. Tecnologia culinária. 2. ed. Caxias do Sul: EDUCS, 2009.
 
-SIMON, J. Vinho e Comida. São Paulo: Companhia das Letras, 2000 
+## BIBLIOGRAFIA COMPLEMENTAR
 
-## **COMPONENTE CURRICULAR: Introdução à Gastronomia** 
+BOURDAIN, Anthony. Cozinha confidencial: uma aventura nas entranhas da culinária. São Paulo: Companhia das Letras, 2009.
 
-CARGA HORÁRIA: 40h/aula (33h) 
+CASTRO NETO, Nelson de; LOPES, Thiago Henrique. Habilidades básicas de cozinha. Curitiba: Livro Técnico, 2011.
 
-## EMENTA 
+ATALA, Alex. Com unhas, dentes & cuca: prática culinária e papo-cabeça ao alcance de todos. 2. ed. rev. São Paulo: SENAC São Paulo, 2009.
 
-Gastronomia como mercado de trabalho; Vertentes Gastronômicas; Ambiente Profissional; Tipologia de Restaurante; Setorização da Cozinha; Brigada de Cozinha; Organograma; Segurança no trabalho; A figura do Chef; Contexto atual do mercado gastronômico. 
+RUHLMAN, Michael. A alma de um chef: viagem para a perfeição. São Paulo: Senac Nacional, 2007.
 
-BIBLIOGRAFIA  BÁSICA 
+## **COMPONENTE CURRICULAR: Ambientação profissional**
 
-MEZOMO, Iracema de Barros. Os serviços de alimentação: planejamento e administração. 6.ed. rev. e 
+CARGA HORÁRIA: 120h/aula (100h)
 
-53 
+## EMENTA
 
-**==> picture [472 x 55] intentionally omitted <==**
+Aplicação de conhecimentos e habilidades de cozinha no ambiente profissional de restaurante; Aplicação de técnicas de serviço de sala e bar no ambiente profissional de restaurante; Atendimento ao cliente; Organização do espaço de trabalho; Conhecimentos básicos de operações de restaurantes e demais empresas de alimentos e bebidas;
 
-atual. Barueri: Manole, 2015. 
+## BIBLIOGRAFIA  BÁSICA
 
-BARRETO, Ronaldo L. P. Passaporte para o sabor: tecnologias para a elaboração de cardápios. 7. ed. rev. e ampl. São Paulo: SENAC São Paulo, 2008. 
+CULINARY INSTITUTE OF AMERICA. SENAC Departamento Nacional. Chef profissional. 4. ed. rev. São Paulo: SENAC, 2011.
 
-TEICHMANN, Ione Mendes. Tecnologia culinária. 2. ed. Caxias do Sul: EDUCS, 2009. 
+WRIGHT, Jeni. Le Cordon Bleu: Todas as técnicas culinárias. São Paulo: Marco Zero, 1996. FUNDAMENTOS culinários: os chefs de Le Cordon Bleu. New York: Cengage Learning, 2011.
 
-## BIBLIOGRAFIA COMPLEMENTAR 
+## BIBLIOGRAFIA COMPLEMENTAR
 
-BOURDAIN, Anthony. Cozinha confidencial: uma aventura nas entranhas da culinária. São Paulo: Companhia das Letras, 2009. 
+BARRETO, R. L. P. Passaporte para o Sabor. São Paulo, Editora SENAC, 2002. THIS, H. (Tradução de Marcos Bagno) – Um cientista na cozinha. São Paulo: Ática, 2002. MCGEE, Harold. Comida e Cozinha – Ciência e Cultura da Culinária. São Paulo, SP: WMF Martins Fontes, 2011.
 
-CASTRO NETO, Nelson de; LOPES, Thiago Henrique. Habilidades básicas de cozinha. Curitiba: Livro Técnico, 2011. 
+LAROUSSE GASTRONOMIQUE. New York: Clarkson Potter Publishers, 2001.
 
-ATALA, Alex. Com unhas, dentes & cuca: prática culinária e papo-cabeça ao alcance de todos. 2. ed. rev. São Paulo: SENAC São Paulo, 2009. 
+## **2° SEMESTRE**
 
-RUHLMAN, Michael. A alma de um chef: viagem para a perfeição. São Paulo: Senac Nacional, 2007. 
+## **COMPONENTE CURRICULAR: Habilidades Básicas de Cozinha 2**
 
-## **COMPONENTE CURRICULAR: Ambientação profissional** 
+CARGA HORÁRIA: 80h/aula (67h)
 
-CARGA HORÁRIA: 120h/aula (100h) 
+## EMENTA
 
-## EMENTA 
+Habilidades Básicas de Cozinha; Fundos Básicos; Aromáticos; Agentes de Ligação; Embelezadores; Métodos de Cocção; Cortes clássicos aplicados a vegetais, carnes, aves e peixes; Técnicas básicas de
 
-Aplicação de conhecimentos e habilidades de cozinha no ambiente profissional de restaurante; Aplicação de técnicas de serviço de sala e bar no ambiente profissional de restaurante; Atendimento ao cliente; Organização do espaço de trabalho; Conhecimentos básicos de operações de restaurantes e demais empresas de alimentos e bebidas; 
+preparações gastronômicas integrando os conhecimentos teóricos e práticos com as práticas de cozinha profissional e a terminologia clássica.
 
-## BIBLIOGRAFIA  BÁSICA 
+BIBLIOGRAFIA  BÁSICA
 
-CULINARY INSTITUTE OF AMERICA. SENAC Departamento Nacional. Chef profissional. 4. ed. rev. São Paulo: SENAC, 2011. 
+CULINARY INSTITUTE OF AMERICA. SENAC Departamento Nacional. Chef profissional. 4. ed. rev. São Paulo: SENAC, 2011.
 
-WRIGHT, Jeni. Le Cordon Bleu: Todas as técnicas culinárias. São Paulo: Marco Zero, 1996. FUNDAMENTOS culinários: os chefs de Le Cordon Bleu. New York: Cengage Learning, 2011. 
+WRIGHT, Jeni. Le Cordon Bleu: Todas as técnicas culinárias. São Paulo: Marco Zero, 1996. DUCHENE, Laurent. Le Cordon Bleu: sobremesas e suas técnicas. São Paulo: Marco Zero, 1999.
 
-## BIBLIOGRAFIA COMPLEMENTAR 
+## BIBLIOGRAFIA COMPLEMENTAR
 
-BARRETO, R. L. P. Passaporte para o Sabor. São Paulo, Editora SENAC, 2002. THIS, H. (Tradução de Marcos Bagno) – Um cientista na cozinha. São Paulo: Ática, 2002. MCGEE, Harold. Comida e Cozinha – Ciência e Cultura da Culinária. São Paulo, SP: WMF Martins Fontes, 2011. 
+BARRETO, R. L. P. Passaporte para o Sabor. São Paulo, Editora SENAC, 2002. THIS, H. (Tradução de Marcos Bagno) – Um cientista na cozinha. São Paulo: Ática, 2002. MCGEE, Harold. Comida e Cozinha – Ciência e Cultura da Culinária. São Paulo, SP: WMF Martins Fontes, 2011.
 
-LAROUSSE GASTRONOMIQUE. New York: Clarkson Potter Publishers, 2001. 
+LAROUSSE GASTRONOMIQUE. New York: Clarkson Potter Publishers, 2001.
 
-## **2° SEMESTRE** 
+## **COMPONENTE CURRICULAR: Garde Manger**
 
-## **COMPONENTE CURRICULAR: Habilidades Básicas de Cozinha 2** 
+CARGA HORÁRIA: 80h/aula (67h)
 
-CARGA HORÁRIA: 80h/aula (67h) 
+## EMENTA
 
-## EMENTA 
+Abordagem histórico-cultural de construção das elaborações da cozinha fria; Atribuições do Garde Manger; Matérias primas utilizadas nas elaborações gastronômicas da cozinha fria Técnicas clássicas de preparo de saladas, molhos, entradas frias, canapés e outros hors d´oeuvre, galantinas, patês, terrinas, conservas, curas;
 
-Habilidades Básicas de Cozinha; Fundos Básicos; Aromáticos; Agentes de Ligação; Embelezadores; Métodos de Cocção; Cortes clássicos aplicados a vegetais, carnes, aves e peixes; Técnicas básicas de 
+## BIBLIOGRAFIA  BÁSICA
 
-54 
+America, The Culinary Institute of. Garde Manger: The Art and Craft of the Cold Kitchen. EUA, Nova Jersey. Editora: Wiley, 2008.
 
-**==> picture [472 x 55] intentionally omitted <==**
+CULINARY INSTITUTE OF AMERICA. SENAC Departamento Nacional. Chef profissional. 4. ed. rev. São Paulo: SENAC, 2011. FUNDAMENTOS culinários: os chefs de Le Cordon Bleu. New York: Cengage Learning, 2011.
 
-preparações gastronômicas integrando os conhecimentos teóricos e práticos com as práticas de cozinha profissional e a terminologia clássica. 
+## BIBLIOGRAFIA COMPLEMENTAR
 
-BIBLIOGRAFIA  BÁSICA 
+BARRETO, R. L. P. Passaporte para o Sabor. São Paulo, Editora SENAC, 2002. THIS, H. (Tradução de Marcos Bagno) – Um cientista na cozinha. São Paulo: Ática, 2002. MCGEE, Harold. Comida e Cozinha – Ciência e Cultura da Culinária. São Paulo, SP: WMF Martins Fontes, 2011.
 
-CULINARY INSTITUTE OF AMERICA. SENAC Departamento Nacional. Chef profissional. 4. ed. rev. São Paulo: SENAC, 2011. 
+EVANGELISTA, J. Tecnologia de Alimentos. 2. ed. São Paulo: Atheneu, 2001.
 
-WRIGHT, Jeni. Le Cordon Bleu: Todas as técnicas culinárias. São Paulo: Marco Zero, 1996. DUCHENE, Laurent. Le Cordon Bleu: sobremesas e suas técnicas. São Paulo: Marco Zero, 1999. 
+## **COMPONENTE CURRICULAR: Tecnologia de Alimentos Aplicada a Gastronomia**
 
-## BIBLIOGRAFIA COMPLEMENTAR 
+CARGA HORÁRIA: 80h/aula  (67h)
 
-BARRETO, R. L. P. Passaporte para o Sabor. São Paulo, Editora SENAC, 2002. THIS, H. (Tradução de Marcos Bagno) – Um cientista na cozinha. São Paulo: Ática, 2002. MCGEE, Harold. Comida e Cozinha – Ciência e Cultura da Culinária. São Paulo, SP: WMF Martins Fontes, 2011. 
+EMENTA: Matérias primas alimentares; Métodos de conservação aplicados aos alimentos; Transformações bioquímicas; Processamento de produtos cárneos; Processamento de produtos
 
-LAROUSSE GASTRONOMIQUE. New York: Clarkson Potter Publishers, 2001. 
+lácteos; Processamento de grãos; Processamento de frutas e hortaliças.
 
-## **COMPONENTE CURRICULAR: Garde Manger** 
+BIBLIOGRAFIA BÁSICA:
 
-CARGA HORÁRIA: 80h/aula (67h) 
+MCGEE, H. Comida e Cozinha: Ciência e Cultura da Culinária. São Paulo, WMF Martins Fontes, 2011. ARAÚJO, W. M. C. et al. (org.). Alquimia dos alimentos. 3. ed. Brasília, DF: SENAC-DF, 2016. KOBLITZ, Maria Gabriela Bello.Materias-primas alimentícias: composição e controle de qualidade. Rio de Janeiro: Guanabara Koogan, 2011.
 
-## EMENTA 
+## BIBLIOGRAFIA COMPLEMENTAR:
 
-Abordagem histórico-cultural de construção das elaborações da cozinha fria; Atribuições do Garde Manger; Matérias primas utilizadas nas elaborações gastronômicas da cozinha fria Técnicas clássicas de preparo de saladas, molhos, entradas frias, canapés e outros hors d´oeuvre, galantinas, patês, terrinas, conservas, curas; 
+RAIGORODSKY, Breno.Embutidos:da sobrevivência à gastronomia. São Paulo: Editora Senac São Paulo, 2011.
 
-## BIBLIOGRAFIA  BÁSICA 
+MONTEBELLO, N. de P.; Araújo, W. M. C. Carne & Cia. Série Alimentos e Bebidas. vol. 1. Distrito Federal, Senac, 2007.
 
-America, The Culinary Institute of. Garde Manger: The Art and Craft of the Cold Kitchen. EUA, Nova Jersey. Editora: Wiley, 2008. 
+CAMPBELL-PLATT, G.Ciência e tecnologia de alimentos.Barueri, SP: Manole, 2015 THIS, Hervé.Um cientista na cozinha.4. ed. São Paulo: Ática, 2007. 240 p.
 
-CULINARY INSTITUTE OF AMERICA. SENAC Departamento Nacional. Chef profissional. 4. ed. rev. São Paulo: SENAC, 2011. FUNDAMENTOS culinários: os chefs de Le Cordon Bleu. New York: Cengage Learning, 2011. 
+## **COMPONENTE CURRICULAR: Bases para panificação**
 
-## BIBLIOGRAFIA COMPLEMENTAR 
+CARGA HORÁRIA: 80h/aula (67h)
 
-BARRETO, R. L. P. Passaporte para o Sabor. São Paulo, Editora SENAC, 2002. THIS, H. (Tradução de Marcos Bagno) – Um cientista na cozinha. São Paulo: Ática, 2002. MCGEE, Harold. Comida e Cozinha – Ciência e Cultura da Culinária. São Paulo, SP: WMF Martins Fontes, 2011. 
+## EMENTA
 
-EVANGELISTA, J. Tecnologia de Alimentos. 2. ed. São Paulo: Atheneu, 2001. 
+O pão como alimento simbólico; A evolução histórica da panificação; Conceitos básicos sobre panificação; técnicas de mistura, amassamento, fermentação, modelagem e cocção; utensílios e equipamentos básicos da padaria; pães básicos comerciais.
 
-## **COMPONENTE CURRICULAR: Tecnologia de Alimentos Aplicada a Gastronomia** 
+## BIBLIOGRAFIA  BÁSICA
 
-CARGA HORÁRIA: 80h/aula  (67h) 
+SUAS, Michel. Panificação e viennoiserie: abordagem profissional . São Paulo: Cengage Learning, 2012. 442 p.
 
-EMENTA: Matérias primas alimentares; Métodos de conservação aplicados aos alimentos; Transformações bioquímicas; Processamento de produtos cárneos; Processamento de produtos 
+GISSLEN, Wayne. Panificação e confeitaria profissionais. 5. ed. Barueri: Manole, 2011. 770 p. SEBESS, Paulo. Técnicas de padaria profissional. 2. ed. ampl. Rio de Janeiro: Senac Nacional, 2010. 331 p.
 
-55 
+## BIBLIOGRAFIA COMPLEMENTAR
 
-**==> picture [472 x 55] intentionally omitted <==**
+SEBESS, Mariana. Técnicas de confeitaria profissional. 3. ed. Rio de Janeiro: Ed. SENAC, 2011. 379 p. GOMENSORO, Maria Lucia. Pequeno dicionário de gastronomia. Rio de Janeiro: Objetiva, 1999. 432 p. WERLE, Loukie; COX, Jill. Ingredientes. Colonia: Könemann, 2000. 384 p.
 
-lácteos; Processamento de grãos; Processamento de frutas e hortaliças. 
+CULINARY INSTITUTE OF AMERICA.. SENAC Departamento Nacional. Chef profissional. 4. ed. rev. São Paulo: SENAC, 2011. 1235 p.
 
-BIBLIOGRAFIA BÁSICA: 
+## **COMPONENTE CURRICULAR: Planejamento de Cardápios**
 
-MCGEE, H. Comida e Cozinha: Ciência e Cultura da Culinária. São Paulo, WMF Martins Fontes, 2011. ARAÚJO, W. M. C. et al. (org.). Alquimia dos alimentos. 3. ed. Brasília, DF: SENAC-DF, 2016. KOBLITZ, Maria Gabriela Bello.Materias-primas alimentícias: composição e controle de qualidade. Rio de Janeiro: Guanabara Koogan, 2011. 
+CARGA HORÁRIA: 40h/aula (33h)
 
-## BIBLIOGRAFIA COMPLEMENTAR: 
+## EMENTA
 
-RAIGORODSKY, Breno.Embutidos:da sobrevivência à gastronomia. São Paulo: Editora Senac São Paulo, 2011. 
+Tipologia de empreendimentos gastronômicos; Estudo sobre cardápios: histórico, tipologia, nomenclatura, características e formas de apresentação; Princípios gerais para elaboração de cardápios
 
-MONTEBELLO, N. de P.; Araújo, W. M. C. Carne & Cia. Série Alimentos e Bebidas. vol. 1. Distrito Federal, Senac, 2007. 
+de acordo com o tipo de serviço e funcionamento do empreendimento gastronômico; Análise do comportamento de compra; Tendências e inovações no mercado gastronômico.
 
-CAMPBELL-PLATT, G.Ciência e tecnologia de alimentos.Barueri, SP: Manole, 2015 THIS, Hervé.Um cientista na cozinha.4. ed. São Paulo: Ática, 2007. 240 p. 
+## BIBLIOGRAFIA  BÁSICA
 
-## **COMPONENTE CURRICULAR: Bases para panificação** 
+BRAGA, R. Gestão da gastronomia: custos, formação de preços, gerenciamento e planejamento do lucro. 3º ed. São Paulo: SENAC, 2012.
 
-CARGA HORÁRIA: 80h/aula (67h) 
+FONSECA, M. T. Tecnologias gerenciais de restaurantes. 5º ed. São Paulo: SENAC São Paulo, 2009. KNIGHT, J. B.; KOTSCHEVAR, L. H. Gestão, planejamento e operação de restaurantes. 3º ed. São Paulo: Roca, 2005.
 
-## EMENTA 
+## BIBLIOGRAFIA COMPLEMENTAR
 
-O pão como alimento simbólico; A evolução histórica da panificação; Conceitos básicos sobre panificação; técnicas de mistura, amassamento, fermentação, modelagem e cocção; utensílios e equipamentos básicos da padaria; pães básicos comerciais. 
+BARRETO, R. L. P. Passaporte para o sabor: tecnologias para a elaboração de cardápios. 8º ed. São Paulo: SENAC São Paulo, 2010.
 
-## BIBLIOGRAFIA  BÁSICA 
+MENDONÇA, R. T. Cardápios - Técnicas e Planejamento. 1º ed. São Paulo: Rubio, 2014.
 
-SUAS, Michel. Panificação e viennoiserie: abordagem profissional . São Paulo: Cengage Learning, 2012. 442 p. 
+REGGIOLLI, M. R. Planejamento Estratégico de Cardápios: Para Gestão de Negócios em Alimentação. 2º ed. São Paulo: Atheneu, 2010.
 
-GISSLEN, Wayne. Panificação e confeitaria profissionais. 5. ed. Barueri: Manole, 2011. 770 p. SEBESS, Paulo. Técnicas de padaria profissional. 2. ed. ampl. Rio de Janeiro: Senac Nacional, 2010. 331 p. 
+SILVA, S. M. C. da; MARTINEZ, S. Cardápio: guia prático para a elaboração. 3º ed. São Paulo: Roca, 2014.
 
-## BIBLIOGRAFIA COMPLEMENTAR 
+## **COMPONENTE CURRICULAR: GASTRONOMIA CLÁSSICA FRANCESA E ITALIANA**
 
-SEBESS, Mariana. Técnicas de confeitaria profissional. 3. ed. Rio de Janeiro: Ed. SENAC, 2011. 379 p. GOMENSORO, Maria Lucia. Pequeno dicionário de gastronomia. Rio de Janeiro: Objetiva, 1999. 432 p. WERLE, Loukie; COX, Jill. Ingredientes. Colonia: Könemann, 2000. 384 p. 
+CARGA HORÁRIA: 120h/aula (100h)
 
-CULINARY INSTITUTE OF AMERICA.. SENAC Departamento Nacional. Chef profissional. 4. ed. rev. São Paulo: SENAC, 2011. 1235 p. 
+## EMENTA
 
-## **COMPONENTE CURRICULAR: Planejamento de Cardápios** 
+Conceitos básicos de cozinha clássica; Evolução histórica da cozinha clássica; Cozinha italiana clássica – técnicas e conceitos; cozinha francesa clássica – técnicas e conceitos
 
-CARGA HORÁRIA: 40h/aula (33h) 
+BIBLIOGRAFIA BÁSICA
 
-## EMENTA 
+DAVID, E. Cozinha Francesa Regional. São Paulo: Cia. Das Letras, 2000. HAZAM, M. Fundamentos da Cozinha Italiana Clássica. São Paulo: Martins Fontes, 2002. PIRAS, C. Culinária Itália: especialidades italianas. Colônia: Könemann, 2000
 
-Tipologia de empreendimentos gastronômicos; Estudo sobre cardápios: histórico, tipologia, nomenclatura, características e formas de apresentação; Princípios gerais para elaboração de cardápios 
+## BIBLIOGRAFIA COMPLEMENTAR
 
-56 
+DOMINE, A. Especialidades Francesas. Colônia: Könemann, 2000.
 
-**==> picture [472 x 55] intentionally omitted <==**
+FARROW, Joanna. Escola de culinária : 150 das melhores receitas clássicas e contemporâneas passo a passo. Barueri: Manole, 2008.
 
-de acordo com o tipo de serviço e funcionamento do empreendimento gastronômico; Análise do comportamento de compra; Tendências e inovações no mercado gastronômico. 
+FLANDRIN,J.L.MONTANARI,M. A História da Alimentação. Ed. Fayard,Paris,1996. 2 - GOMENSORO, M. L. Pequeno dicionário da gastronomia. Rio de Janeiro: Ed. Objetiva,1999.
 
-## BIBLIOGRAFIA  BÁSICA 
+LANCELLOTTI,S. O livro da Cozinha Clássica: a história das receitas mais famosas da história. Porto Alegre: L&PM Pocket, 2007.
 
-BRAGA, R. Gestão da gastronomia: custos, formação de preços, gerenciamento e planejamento do lucro. 3º ed. São Paulo: SENAC, 2012. 
+## **3° SEMESTRE**
 
-FONSECA, M. T. Tecnologias gerenciais de restaurantes. 5º ed. São Paulo: SENAC São Paulo, 2009. KNIGHT, J. B.; KOTSCHEVAR, L. H. Gestão, planejamento e operação de restaurantes. 3º ed. São Paulo: Roca, 2005. 
+## **COMPONENTE CURRICULAR: Gastronomia Brasileira**
 
-## BIBLIOGRAFIA COMPLEMENTAR 
+CARGA HORÁRIA: 120h/aula (100h)
 
-BARRETO, R. L. P. Passaporte para o sabor: tecnologias para a elaboração de cardápios. 8º ed. São Paulo: SENAC São Paulo, 2010. 
+EMENTA
 
-MENDONÇA, R. T. Cardápios - Técnicas e Planejamento. 1º ed. São Paulo: Rubio, 2014. 
+Formação da gastronomia brasileira – aspectos históricos e geográficos; cozinha brasileira indígena; períodos históricos da cozinha brasileira; gastronomia brasileira regional; gastronomia brasileira contemporãnea – conceitos fundamentais;
 
-REGGIOLLI, M. R. Planejamento Estratégico de Cardápios: Para Gestão de Negócios em Alimentação. 2º ed. São Paulo: Atheneu, 2010. 
+BIBLIOGRAFIA  BÁSICA ATALA, A. Por uma gastronomia brasileira. 1. ed. Bei, 2003. CASCUDO, L.C.História da alimentação no Brasil. São Paulo, Edusp 1983. FERNANDES, C. Viagem gastronômica através do Brasil. São Paulo SENAC, 2001.
 
-SILVA, S. M. C. da; MARTINEZ, S. Cardápio: guia prático para a elaboração. 3º ed. São Paulo: Roca, 2014. 
+BIBLIOGRAFIA COMPLEMENTAR ELBULLITALLER, A. Léxico científico gastronômico – As chaves para entender a cozinha de hoje. São Paulo: Editora Senac São Paulo, 2009. ZARVOS, N. Multissabores: a forma da gastronomia brasileira. Rio de Janeiro SENAC Nacional 2000. LODY, R. Brasil Bom de Boca: Temas da Antropologia da Alimentação. ão Paulo: Editora Senac São Paulo, 2008.
 
-## **COMPONENTE CURRICULAR: GASTRONOMIA CLÁSSICA FRANCESA E ITALIANA** 
+SILVA, P. Farinha, Feijão e Carne-seca: Um tripé culinário no Brasil Colonial. São Paulo: Editora Senac São Paulo, 2005.
 
-CARGA HORÁRIA: 120h/aula (100h) 
+## **COMPONENTE CURRICULAR: Empreendedorismo em Gastronomia**
 
-## EMENTA 
+CARGA HORÁRIA: 40h/aula (33h)
 
-Conceitos básicos de cozinha clássica; Evolução histórica da cozinha clássica; Cozinha italiana clássica – técnicas e conceitos; cozinha francesa clássica – técnicas e conceitos 
+EMENTA
 
-BIBLIOGRAFIA BÁSICA 
+Principais conceitos e características do empreendedorismo; Ética e responsabilidade social nas organizações; Modelos de negócios.
 
-DAVID, E. Cozinha Francesa Regional. São Paulo: Cia. Das Letras, 2000. HAZAM, M. Fundamentos da Cozinha Italiana Clássica. São Paulo: Martins Fontes, 2002. PIRAS, C. Culinária Itália: especialidades italianas. Colônia: Könemann, 2000 
+BIBLIOGRAFIA  BÁSICA
 
-## BIBLIOGRAFIA COMPLEMENTAR 
+OSTERWALDER Alexander; PIGNEUR, Yves. Business Model Generation: A Handbook for Visionaries, Game Changers and Challengers. Paperback, 2010. DORNELAS, Jose Carlos Assis. Empreendedorismo: transformando idéias em negócios.5º ed. Rio de Janeiro: Campus, 2015.
 
-DOMINE, A. Especialidades Francesas. Colônia: Könemann, 2000. 
+BESSANT, John; TIDD, Joe. PAVIT, Keith. Inovação e Empreendedorismo. Porto Alegre: Bookman, 2009.
 
-FARROW, Joanna. Escola de culinária : 150 das melhores receitas clássicas e contemporâneas passo a passo. Barueri: Manole, 2008. 
+BIBLIOGRAFIA COMPLEMENTAR BROWN, Tim. Design Thinking: Uma metodologia poderosa para decretar o fim das velhas ideias. Rio de Janeiro: Elsevier, Campus, 2010. CHIAVENATO, Idalberto. Empreendedorismo: dando asas ao espírito empreendedor. 4.ed. São Paulo: Saraiva, 2012.
 
-FLANDRIN,J.L.MONTANARI,M. A História da Alimentação. Ed. Fayard,Paris,1996. 2 - GOMENSORO, M. L. Pequeno dicionário da gastronomia. Rio de Janeiro: Ed. Objetiva,1999. 
+FONSECA, Marcelo Traldi. Tecnologias gerenciais de restaurantes. 5. ed. São Paulo: SENAC São Paulo, 2009. 189 p.
 
-LANCELLOTTI,S. O livro da Cozinha Clássica: a história das receitas mais famosas da história. Porto Alegre: L&PM Pocket, 2007. 
+KNIGHT, John Barton; KOTSCHEVAR, Lendal Henry, $d 1908-. Gestão, planejamento e operação de restaurantes. 3. ed. São Paulo: Roca, 2005. xii, 492 p.
 
-## **3° SEMESTRE** 
+## **COMPONENTE CURRICULAR: EVENTOS**
 
-## **COMPONENTE CURRICULAR: Gastronomia Brasileira** 
+CARGA HORÁRIA: 40h/aula (33h)
 
-CARGA HORÁRIA: 120h/aula (100h) 
+EMENTA: Departamento de Alimentos e Bebidas (A&B) aplicada ao setor de eventos; História e mercado atual; Demandas da área; Comunicação entre setores – Eventos, Hospedagem e Recepção; Perfil do profissional; Organização e gerenciamento de eventos gastronômicos; Cardápio para eventos; Estudo de tipologia de eventos gastronômicos – coquetel, coffe break, café da manhã, almoço, jantar, brunch.
 
-EMENTA 
+## BIBLIOGRAFIA BÁSICA
 
-57 
+DAVIS, B.; LOCKWOOD, A. PANTELIDIS, I.; ALCOTT, P. YASOSHIMA, J. R.; tradução CUZZUOL, G. Gestão de Alimentos e Bebidas. Rio de Janeiro: Elsevier, 2012. FREUND, F.T. Festas e recepções: gastronomia, organização e cerimonial. 2ª ed. Rio de Janeiro: Senac Nacional, 2009. PACHECO, Aristides de Oliveira. Manual de Organização de Banquetes. São Paulo: Editora SENAC, 2000. BIBLIOGRAFIA COMPLEMENTAR MCDONNELL, I. Organização e Gestão de Eventos. 3ª ed. Ed. Elsevier, 2007. BECK, Heinz; BECK, Heinz et al. Arte e ciência do serviço. São Paulo, SP: Anhembi Morumbi, 2005. MATIAS, M. Organização de Eventos: Procedimentos e Técnicas. 5ª ed. Manole, 2010. ZANELLA, L. C. Manual de Organização de Eventos: Planejamento e Operacionalização. 5ª ed. São Paulo: Atlas, 2012.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **COMPONENTE CURRICULAR Confeitaria**
 
-Formação da gastronomia brasileira – aspectos históricos e geográficos; cozinha brasileira indígena; períodos históricos da cozinha brasileira; gastronomia brasileira regional; gastronomia brasileira contemporãnea – conceitos fundamentais; 
+CARGA HORÁRIA: 80h/aula (67h)
 
-BIBLIOGRAFIA  BÁSICA ATALA, A. Por uma gastronomia brasileira. 1. ed. Bei, 2003. CASCUDO, L.C.História da alimentação no Brasil. São Paulo, Edusp 1983. FERNANDES, C. Viagem gastronômica através do Brasil. São Paulo SENAC, 2001. 
+EMENTA Disciplina introdutória ao conhecimento em confeitaria, visando propiciar ao aluno uma visão global e sistemática de processos e métodos, bem como o estudo de matérias-primas e ingredientes e suas funções na elaboração de produtos básicos nesta categoria de alimentos. Ao final da disciplina o aluno será capaz de entender e aplicar preparações de base da confeitaria francesa, clássica e contemporânea. Conhecer os diversos tipos e preparações de cremes e merengues. Desenvolver receitas de sobremesas geladas e quentes. O aluno deverá investigar conceitos, processos, defeitos do chocolate, bem como, elaboração de receitas com chocolate. Será motivado a entender e descrever ingredientes usados na viennoiserie, conhecendo técnicas de elaboração de massa folhada e pães doces.
 
-BIBLIOGRAFIA COMPLEMENTAR ELBULLITALLER, A. Léxico científico gastronômico – As chaves para entender a cozinha de hoje. São Paulo: Editora Senac São Paulo, 2009. ZARVOS, N. Multissabores: a forma da gastronomia brasileira. Rio de Janeiro SENAC Nacional 2000. LODY, R. Brasil Bom de Boca: Temas da Antropologia da Alimentação. ão Paulo: Editora Senac São Paulo, 2008. 
+## BIBLIOGRAFIA  BÁSICA
 
-SILVA, P. Farinha, Feijão e Carne-seca: Um tripé culinário no Brasil Colonial. São Paulo: Editora Senac São Paulo, 2005. 
+SEBESS, Mariana. Técnicas de confeitaria profissional. 3. ed. Rio de Janeiro: Senac Nacional, 2011 GISSLEN, Wayne. Panificação e confeitaria profissionais. 5. ed. Barueri: Manole, 2011. SILVA, Avelino. Delícias da confeitaria. São Paulo: Melhoramentos, 2003.
 
-## **COMPONENTE CURRICULAR: Empreendedorismo em Gastronomia** 
+BIBLIOGRAFIA COMPLEMENTAR GHANNOUM, Samira Jamil. Bake off: mão na massa. São Paulo: Boccato, 2015. CANELLA-RAWLS, Sandra. Espessantes na confeitaria: texturas e sabores. São Paulo: Ed. Senac São
 
-CARGA HORÁRIA: 40h/aula (33h) 
+Paulo, 2014
 
-EMENTA 
+SOUSA, Bia Nunes de (Ed.). Fabulosos: bolos espetaculares para todas as ocasiões. São Paulo: Alaúde, 2015.
 
-Principais conceitos e características do empreendedorismo; Ética e responsabilidade social nas organizações; Modelos de negócios. 
+NOCE, Danielle. Por uma vida mais doce. São Paulo: Melhoramentos, 2014.
 
-BIBLIOGRAFIA  BÁSICA 
+## **COMPONENTE CURRICULAR: BEBIDAS**
 
-OSTERWALDER Alexander; PIGNEUR, Yves. Business Model Generation: A Handbook for Visionaries, Game Changers and Challengers. Paperback, 2010. DORNELAS, Jose Carlos Assis. Empreendedorismo: transformando idéias em negócios.5º ed. Rio de Janeiro: Campus, 2015. 
+CARGA HORÁRIA: 40h/aula (33h)
 
-BESSANT, John; TIDD, Joe. PAVIT, Keith. Inovação e Empreendedorismo. Porto Alegre: Bookman, 2009. 
+EMENTA: Classificação. composição e processos de fabricação das principais bebidas alcóolicas e não alcólicas, de infusão, fermentadas e destiladas; Tecnologia do vinho e da cerveja: História, processos de fabricação, classificação, composição, harmonização com alimentos, características sensoriais e técnica de serviço; Coquetelaria internacional: Técnica de elaboração dos principais coquetéis, com o manuseio de equipamentos e utensílios de bar utilizados na apresentação de bebidas em hotéis, restaurantes e similares.
 
-BIBLIOGRAFIA COMPLEMENTAR BROWN, Tim. Design Thinking: Uma metodologia poderosa para decretar o fim das velhas ideias. Rio de Janeiro: Elsevier, Campus, 2010. CHIAVENATO, Idalberto. Empreendedorismo: dando asas ao espírito empreendedor. 4.ed. São Paulo: Saraiva, 2012. 
+## BIBLIOGRAFIA BÁSICA
 
-FONSECA, Marcelo Traldi. Tecnologias gerenciais de restaurantes. 5. ed. São Paulo: SENAC São Paulo, 2009. 189 p. 
+PACHECO, Aristides. de O. Manual do bar 6a. Edição. São Paulo: Senac, 2006. VENTURINI FILHO, Waldemar G. Tecnologia de bebidas: matéria prima, processamento, BPF/APPCC, legislação e mercado. São Paulo: Edgard Blucher, 2005.
 
-KNIGHT, John Barton; KOTSCHEVAR, Lendal Henry, $d 1908-. Gestão, planejamento e operação de restaurantes. 3. ed. São Paulo: Roca, 2005. xii, 492 p. 
+MORADO, Ronaldo. Larousse da Cerveja. 5a. Edição Editora Lafonte Ltda., 2009.
 
-58 
+BIBLIOGRAFIA COMPLEMENTAR
 
-**==> picture [472 x 55] intentionally omitted <==**
+DOMINE, ANDRE. Vinhos. Konemann, 2006.
 
-## **COMPONENTE CURRICULAR: EVENTOS** 
+VENTURINI FILHO, Waldemar G. Bebidas Alcóolicas: Ciência e Tecnologia. Vol. 1. 2a. Edição. São Paulo: Editora Blucher, 2016.
 
-CARGA HORÁRIA: 40h/aula (33h) 
+VENTURINI FILHO, Waldemar G. Bebidas Não Alcóolicas: Ciência e Tecnologia. Vol. 2. 1a. Edição. São Paulo: Editora Blucher, 2010.
 
-EMENTA: Departamento de Alimentos e Bebidas (A&B) aplicada ao setor de eventos; História e mercado atual; Demandas da área; Comunicação entre setores – Eventos, Hospedagem e Recepção; Perfil do profissional; Organização e gerenciamento de eventos gastronômicos; Cardápio para eventos; Estudo de tipologia de eventos gastronômicos – coquetel, coffe break, café da manhã, almoço, jantar, brunch. 
+VIEIRA, Silvia Marta (Coord.). Barman: perfil profissional, técnicas de trabalho e mercado. Rio de Janeiro: Senac Nacional, 2007.
 
-## BIBLIOGRAFIA BÁSICA 
+## **COMPONENTE CURRICULAR: Gastronomia e Sustentabilidade**
 
-DAVIS, B.; LOCKWOOD, A. PANTELIDIS, I.; ALCOTT, P. YASOSHIMA, J. R.; tradução CUZZUOL, G. Gestão de Alimentos e Bebidas. Rio de Janeiro: Elsevier, 2012. FREUND, F.T. Festas e recepções: gastronomia, organização e cerimonial. 2ª ed. Rio de Janeiro: Senac Nacional, 2009. PACHECO, Aristides de Oliveira. Manual de Organização de Banquetes. São Paulo: Editora SENAC, 2000. BIBLIOGRAFIA COMPLEMENTAR MCDONNELL, I. Organização e Gestão de Eventos. 3ª ed. Ed. Elsevier, 2007. BECK, Heinz; BECK, Heinz et al. Arte e ciência do serviço. São Paulo, SP: Anhembi Morumbi, 2005. MATIAS, M. Organização de Eventos: Procedimentos e Técnicas. 5ª ed. Manole, 2010. ZANELLA, L. C. Manual de Organização de Eventos: Planejamento e Operacionalização. 5ª ed. São Paulo: Atlas, 2012. 
+CARGA HORÁRIA: 40h/aula (33h)
 
-## **COMPONENTE CURRICULAR Confeitaria** 
+## EMENTA
 
-CARGA HORÁRIA: 80h/aula (67h) 
+Princípios de educação ambiental e consumo sustentável; Tipos de poluição ambiental Água: legislação, tratamento, e desperdício; Sistemas de tratamento de efluentes produzidos pela gastronomia; Gerenciamento de resíduos sólidos; Teoria dos 3 Rs.
 
-EMENTA Disciplina introdutória ao conhecimento em confeitaria, visando propiciar ao aluno uma visão global e sistemática de processos e métodos, bem como o estudo de matérias-primas e ingredientes e suas funções na elaboração de produtos básicos nesta categoria de alimentos. Ao final da disciplina o aluno será capaz de entender e aplicar preparações de base da confeitaria francesa, clássica e contemporânea. Conhecer os diversos tipos e preparações de cremes e merengues. Desenvolver receitas de sobremesas geladas e quentes. O aluno deverá investigar conceitos, processos, defeitos do chocolate, bem como, elaboração de receitas com chocolate. Será motivado a entender e descrever ingredientes usados na viennoiserie, conhecendo técnicas de elaboração de massa folhada e pães doces. 
+BIBLIOGRAFIA  BÁSICA
 
-## BIBLIOGRAFIA  BÁSICA 
+BALDISSARELLI, A.; LOPES, C. Q.; OROFINO, F. V. G.; MARTINS, G. C. **Considerando   mais o lixo.** 2. ed. Florianópolis: Copiart, 2009. 90p.
 
-SEBESS, Mariana. Técnicas de confeitaria profissional. 3. ed. Rio de Janeiro: Senac Nacional, 2011 GISSLEN, Wayne. Panificação e confeitaria profissionais. 5. ed. Barueri: Manole, 2011. SILVA, Avelino. Delícias da confeitaria. São Paulo: Melhoramentos, 2003. 
+GIACOMINI FILHO, G. **Meio ambiente e consumismo** . Série Meio Ambiente (8), São Paulo: Editora
 
-BIBLIOGRAFIA COMPLEMENTAR GHANNOUM, Samira Jamil. Bake off: mão na massa. São Paulo: Boccato, 2015. CANELLA-RAWLS, Sandra. Espessantes na confeitaria: texturas e sabores. São Paulo: Ed. Senac São 
+Senac São Paulo, 2008. 254p.
 
-59 
+OROFINO, F. V. G. **Caracterização física dos resíduos produzidos em Florianópolis.** Florianópolis: COMCAP – Companhia de Melhoramentos da Capital, 2002. 98p.
 
-**==> picture [472 x 55] intentionally omitted <==**
+BIBLIOGRAFIA COMPLEMENTAR
 
-Paulo, 2014 
+GONÇALVES, P. A **reciclagem integradora dos aspectos ambientais, sociais e econômicos** . Rio de Janeiro: DP&A:Fase, 2003. 182p.
 
-SOUSA, Bia Nunes de (Ed.). Fabulosos: bolos espetaculares para todas as ocasiões. São Paulo: Alaúde, 2015. 
+DIAS, G. F. **Educação e gestão ambiental** . Gaia, 2006. 118p.
 
-NOCE, Danielle. Por uma vida mais doce. São Paulo: Melhoramentos, 2014. 
+RODRIGUES, F. L. **Lixo - De onde vem para onde vai?** Moderna, 2003.
 
-## **COMPONENTE CURRICULAR: BEBIDAS** 
+## **COMPONENTE CURRICULAR: Gastronomia Europeia**
 
-CARGA HORÁRIA: 40h/aula (33h) 
+CARGA HORÁRIA: 120h/aula (100h)
 
-EMENTA: Classificação. composição e processos de fabricação das principais bebidas alcóolicas e não alcólicas, de infusão, fermentadas e destiladas; Tecnologia do vinho e da cerveja: História, processos de fabricação, classificação, composição, harmonização com alimentos, características sensoriais e técnica de serviço; Coquetelaria internacional: Técnica de elaboração dos principais coquetéis, com o manuseio de equipamentos e utensílios de bar utilizados na apresentação de bebidas em hotéis, restaurantes e similares. 
+## EMENTA
 
-## BIBLIOGRAFIA BÁSICA 
+A gastronomia do continente europeu no contexto cultural; A importância das influências árabes e sulamericanas; Visão geral gastronômica do continente; Ênfase em Portugal, Espanha, Alemanha e Região do Mediterrâneo (Grécia, Egito* e Marrocos*) abordando as seguintes questões: Visão geral histórica; Aspectos regionais; Produtos e ingredientes utilizados; Pratos típicos por região; Elaboração e preparação de pratos. Outras preparações gastronômicas relevantes da Europa.
 
-PACHECO, Aristides. de O. Manual do bar 6a. Edição. São Paulo: Senac, 2006. VENTURINI FILHO, Waldemar G. Tecnologia de bebidas: matéria prima, processamento, BPF/APPCC, legislação e mercado. São Paulo: Edgard Blucher, 2005. 
+BIBLIOGRAFIA  BÁSICA
 
-MORADO, Ronaldo. Larousse da Cerveja. 5a. Edição Editora Lafonte Ltda., 2009. 
+LAROUSSE da cozinha do mundo: Europa e Escandinávia. São Paulo: Larousse do Brasil, 2005. LAROUSSE da cozinha do mundo: Mediterrâneo e Europa Central. São Paulo: Larousse do Brasil, 2005. FUNDAMENTOS culinários: os chefs de Le Cordon Bleu. New York: Cengage Learning, 2011
 
-BIBLIOGRAFIA COMPLEMENTAR 
+BIBLIOGRAFIA COMPLEMENTAR Bibliografia Complementar:
 
-DOMINE, ANDRE. Vinhos. Konemann, 2006. 
+SENAC. Departamento Nacional. Cozinhar é preciso: a história e as receitas portuguesas de henriqueta henriques e da Gruta de Santo Antônio. 3. ed. Rio de Janeiro: SENAC Rio, 2010. JAMAL, Salah. Aroma árabe: receitas e relatos. São Paulo: Senac Nacional, 2005. WERLE, Loukie; COX, Jill. Ingredientes. Colonia: Könemann, 2000.
 
-VENTURINI FILHO, Waldemar G. Bebidas Alcóolicas: Ciência e Tecnologia. Vol. 1. 2a. Edição. São Paulo: Editora Blucher, 2016. 
+FISCHLER, Claude; MASSON, Estelle. Comer: a alimentação de franceses, outros europeus e americanos. São Paulo: SENAC São Paulo, 2010.
 
-VENTURINI FILHO, Waldemar G. Bebidas Não Alcóolicas: Ciência e Tecnologia. Vol. 2. 1a. Edição. São Paulo: Editora Blucher, 2010. 
+## **COMPONENTE CURRICULAR: Orientação de estágio**
 
-VIEIRA, Silvia Marta (Coord.). Barman: perfil profissional, técnicas de trabalho e mercado. Rio de Janeiro: Senac Nacional, 2007. 
+CARGA HORÁRIA: 20h/aula (17h)
 
-## **COMPONENTE CURRICULAR: Gastronomia e Sustentabilidade** 
+## EMENTA
 
-CARGA HORÁRIA: 40h/aula (33h) 
+Mundo de trabalho; Ética profissional; Gastronomia e profissionalismo; Técnicas gastronômicas; Elaboração de trabalho acadêmico.
 
-## EMENTA 
+BIBLIOGRAFIA  BÁSICA
 
-Princípios de educação ambiental e consumo sustentável; Tipos de poluição ambiental Água: legislação, tratamento, e desperdício; Sistemas de tratamento de efluentes produzidos pela gastronomia; Gerenciamento de resíduos sólidos; Teoria dos 3 Rs. 
+MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Fundamentos de metodologia científica.7.
 
-BIBLIOGRAFIA  BÁSICA 
+ed. São Paulo: Atlas, 2010.
 
-BALDISSARELLI, A.; LOPES, C. Q.; OROFINO, F. V. G.; MARTINS, G. C. **Considerando   mais o lixo.** 2. ed. Florianópolis: Copiart, 2009. 90p. 
+FONSECA, Marcelo Traldi. Tecnologias gerenciais de restaurantes. 5. ed. São Paulo: SENAC São Paulo, 2009. 189 p.
 
-GIACOMINI FILHO, G. **Meio ambiente e consumismo** . Série Meio Ambiente (8), São Paulo: Editora 
+KINTON, Ronald; CESERANI, Victor; FOSKETT, David BEd. Enciclopedia de serviços de alimentação. São Paulo: Varela, 1999. xiv,703p.
 
-60 
+## BIBLIOGRAFIA COMPLEMENTAR
 
-**==> picture [472 x 55] intentionally omitted <==**
+TEICHMANN, Ione Mendes. Tecnologia culinária. 2. ed. Caxias do Sul: EDUCS, 2009. 362 p. (Hotelaria.)
 
-Senac São Paulo, 2008. 254p. 
+MEZOMO, Iracema de Barros. Os serviços de alimentação: planejamento e administração. 6.ed. rev. e atual. Barueri: Manole, 2015. xxii, 343 p.
 
-OROFINO, F. V. G. **Caracterização física dos resíduos produzidos em Florianópolis.** Florianópolis: COMCAP – Companhia de Melhoramentos da Capital, 2002. 98p. 
+BRAGA, Roberto. Gestão da gastronomia: custos, formação de preços, gerenciamento e planejamento do lucro. 3. ed. São Paulo: SENAC, 2012. 190 p
 
-BIBLIOGRAFIA COMPLEMENTAR 
+GOMENSORO, Maria Lucia. Pequeno dicionário de gastronomia. Rio de Janeiro: Objetiva, 1999. 432 p.
 
-GONÇALVES, P. A **reciclagem integradora dos aspectos ambientais, sociais e econômicos** . Rio de Janeiro: DP&A:Fase, 2003. 182p. 
+## **4° SEMESTRE**
 
-DIAS, G. F. **Educação e gestão ambiental** . Gaia, 2006. 118p. 
+## **COMPONENTE CURRICULAR: Gastronomia étnica**
 
-RODRIGUES, F. L. **Lixo - De onde vem para onde vai?** Moderna, 2003. 
+CARGA HORÁRIA: 240h (200h)
 
-## **COMPONENTE CURRICULAR: Gastronomia Europeia** 
+## EMENTA
 
-CARGA HORÁRIA: 120h/aula (100h) 
+Conceitos básicos sobre cozinha típica, regional e tradicional; Cozinha das Américas (norte, central e latina); Cozinha Africana; Cozinha Asiática.
 
-## EMENTA 
+## BIBLIOGRAFIA  BÁSICA
 
-A gastronomia do continente europeu no contexto cultural; A importância das influências árabes e sulamericanas; Visão geral gastronômica do continente; Ênfase em Portugal, Espanha, Alemanha e Região do Mediterrâneo (Grécia, Egito* e Marrocos*) abordando as seguintes questões: Visão geral histórica; Aspectos regionais; Produtos e ingredientes utilizados; Pratos típicos por região; Elaboração e preparação de pratos. Outras preparações gastronômicas relevantes da Europa. 
+LAROUSSE da cozinha do mundo: Américas. São Paulo: Larousse do Brasil, 2005. LAROUSSE da cozinha do mundo: Oriente Médio, África e Índico. São Paulo: Larousse do Brasil, 2005. MAI, Pham. Sabores do oriente: receitas da China, de Cingapura, da Coreia, da Índia, do Japão, da Tailândia e do Vietnã. São Paulo: Publifolha, 2011.
 
-BIBLIOGRAFIA  BÁSICA 
+## BIBLIOGRAFIA COMPLEMENTAR
 
-LAROUSSE da cozinha do mundo: Europa e Escandinávia. São Paulo: Larousse do Brasil, 2005. LAROUSSE da cozinha do mundo: Mediterrâneo e Europa Central. São Paulo: Larousse do Brasil, 2005. FUNDAMENTOS culinários: os chefs de Le Cordon Bleu. New York: Cengage Learning, 2011 
+KINA, Eiko M. Receitas praticas da cozinha japonesa/ Eiko M. kina; fotografias Henrique Suzuki; inlustrações Tania Regina Caparróz Barroso. - São Paulo: Companhia Melhoramentos, 2000. BARBER, Kimiko; TAKEMURA, Hiroki. Sushi. São Paulo: Publifolha, 2008.
 
-BIBLIOGRAFIA COMPLEMENTAR Bibliografia Complementar: 
+CWIERTKA, KatarzynaJ.Moderna Cozinha Japonesa Editora: SENAC SP -Ed: 1: 2008. Escola De Culinária. 150 das melhores receitas clássicas e contemporaneas passo a passo. Manole, 2008
 
-SENAC. Departamento Nacional. Cozinhar é preciso: a história e as receitas portuguesas de henriqueta henriques e da Gruta de Santo Antônio. 3. ed. Rio de Janeiro: SENAC Rio, 2010. JAMAL, Salah. Aroma árabe: receitas e relatos. São Paulo: Senac Nacional, 2005. WERLE, Loukie; COX, Jill. Ingredientes. Colonia: Könemann, 2000. 
+## **COMPONENTE CURRICULAR: ENOGASTRONOMA**
 
-FISCHLER, Claude; MASSON, Estelle. Comer: a alimentação de franceses, outros europeus e americanos. São Paulo: SENAC São Paulo, 2010. 
+CARGA HORÁRIA: 80h/aula (67h)
 
-## **COMPONENTE CURRICULAR: Orientação de estágio** 
+EMENTA: Identificar as regiões produtoras de vinho no Brasil e no Mundo. - Apresentar e servir o vinho. -Utilizar os copos adequados para servir o vinho. - Higienizar e polir os copos de vinho. - Organizar a
 
-CARGA HORÁRIA: 20h/aula (17h) 
+mise-en-place de mesa para o serviço de vinhos. - Planejar e controlar o estoque de vinhos. - Planejar a carta de vinhos. - Harmonizar comidas e vinhos. - Orientar sua equipe em relação a venda do vinho. Técnicas de degustação de vinhos. A videira, tipos de uvas. Métodos de elaboração dos vinhos. Diferentes regiões produtoras de vinhos no mundo. Harmonização de vinho e comida. Elaboração de carta de vinhos. Atendimento dos clientes nas mesas. Venda de vinhos aos clientes. Utilização de copos adequados aos vinhos. Sistemas de informações e controle.
 
-## EMENTA 
+## BIBLIOGRAFIA BÁSICA
 
-Mundo de trabalho; Ética profissional; Gastronomia e profissionalismo; Técnicas gastronômicas; Elaboração de trabalho acadêmico. 
+BORGES, Euclides Penedo. Harmonização: o livro definitivo do casamento do vinho com a comida. Rio de Janeiro: Mauad X, 2007.
 
-BIBLIOGRAFIA  BÁSICA 
+JOHNSON, Hugh. A história do vinho: nova edição ilustrada. [2. ed.]. São Paulo: CMS, 2009 VINHO: escolha, compra, serviço e degustação: manual do sommelier. São Paulo: Globo, 2004.
 
-MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Fundamentos de metodologia científica.7. 
+## BIBLIOGRAFIA COMPLEMENTAR
 
-61 
+CABRAL, Carlos; MELLO, Carlos Ernesto Cabral de. Presença do vinho no Brasil: um pouco de história. 2. ed. São Paulo: Cultura, 2007
 
-**==> picture [472 x 55] intentionally omitted <==**
+JOHSON, Hugh; ROBINSON, Jancis. Atlas mundial do vinho. Tradução de Fátima Santos, Renato Rezende, Ricardo Rosenbusch. 6. ed. Rio de Janeiro: Nova Fronteira, 2008
 
-ed. São Paulo: Atlas, 2010. 
+LOMBARDO, João Alexandre. Santa Catarina à mesa: a revolução das uvas e do vinho e o renascimento das cervejarias no estado. 2. ed. Florianópolis: Expressão, 2009
 
-FONSECA, Marcelo Traldi. Tecnologias gerenciais de restaurantes. 5. ed. São Paulo: SENAC São Paulo, 2009. 189 p. 
+LONA, Adolfo Alberto. Vinhos e espumantes: degustação, elaboração e serviço. Porto Alegre: Age, 2009.
 
-KINTON, Ronald; CESERANI, Victor; FOSKETT, David BEd. Enciclopedia de serviços de alimentação. São Paulo: Varela, 1999. xiv,703p. 
+## **COMPONENTE CURRICULAR: Gestão Gastronômica**
 
-## BIBLIOGRAFIA COMPLEMENTAR 
+CARGA HORÁRIA: 80h/aula (67h)
 
-TEICHMANN, Ione Mendes. Tecnologia culinária. 2. ed. Caxias do Sul: EDUCS, 2009. 362 p. (Hotelaria.) 
+## EMENTA
 
-MEZOMO, Iracema de Barros. Os serviços de alimentação: planejamento e administração. 6.ed. rev. e atual. Barueri: Manole, 2015. xxii, 343 p. 
+Gestão da gastronomia; o produto restaurante; custos de produção; ficha técnica de custos; engenharia de cardápios; índices de desempenho; formação de preços; estrutura física de restaurantes; tecnologia aplicada a gastronomia; métodos gerenciais; composto de marketing aplicado a gastronomia; tendências de mercado da alimentação fora de casa;
 
-BRAGA, Roberto. Gestão da gastronomia: custos, formação de preços, gerenciamento e planejamento do lucro. 3. ed. São Paulo: SENAC, 2012. 190 p 
+## BIBLIOGRAFIA  BÁSICA
 
-GOMENSORO, Maria Lucia. Pequeno dicionário de gastronomia. Rio de Janeiro: Objetiva, 1999. 432 p. 
+FONSECA, Marcelo Traldi. Tecnologias gerenciais de restaurantes. 5. ed. São Paulo: SENAC São Paulo, 2009. 189 p.
 
-## **4° SEMESTRE** 
+KNIGHT, John Barton; KOTSCHEVAR, Lendal Henry, $d 1908-. Gestão, planejamento e operação de restaurantes. 3. ed. São Paulo: Roca, 2005. xii, 492 p.
 
-## **COMPONENTE CURRICULAR: Gastronomia étnica** 
+KINTON, Ronald; CESERANI, Victor; FOSKETT, David BEd. Enciclopedia de serviços de alimentação. São Paulo: Varela, 1999. xiv,703p.
 
-CARGA HORÁRIA: 240h (200h) 
+## BIBLIOGRAFIA COMPLEMENTAR
 
-## EMENTA 
+TEICHMANN, Ione Mendes. Tecnologia culinária. 2. ed. Caxias do Sul: EDUCS, 2009. 362 p. (Hotelaria.) MEZOMO, Iracema de Barros. Os serviços de alimentação: planejamento e administração. 6.ed. rev. e atual. Barueri: Manole, 2015. xxii, 343 p.
 
-Conceitos básicos sobre cozinha típica, regional e tradicional; Cozinha das Américas (norte, central e latina); Cozinha Africana; Cozinha Asiática. 
+BRAGA, Roberto. Gestão da gastronomia: custos, formação de preços, gerenciamento e planejamento do lucro. 3. ed. São Paulo: SENAC, 2012. 190 p
 
-## BIBLIOGRAFIA  BÁSICA 
+GOMENSORO, Maria Lucia. Pequeno dicionário de gastronomia. Rio de Janeiro: Objetiva, 1999. 432 p.
 
-LAROUSSE da cozinha do mundo: Américas. São Paulo: Larousse do Brasil, 2005. LAROUSSE da cozinha do mundo: Oriente Médio, África e Índico. São Paulo: Larousse do Brasil, 2005. MAI, Pham. Sabores do oriente: receitas da China, de Cingapura, da Coreia, da Índia, do Japão, da Tailândia e do Vietnã. São Paulo: Publifolha, 2011. 
+## **COMPONENTE CURRICULAR: Projeto de Conclusão de Curso**
 
-## BIBLIOGRAFIA COMPLEMENTAR 
+CARGA HORÁRIA: 80h/aula (67h)
 
-KINA, Eiko M. Receitas praticas da cozinha japonesa/ Eiko M. kina; fotografias Henrique Suzuki; inlustrações Tania Regina Caparróz Barroso. - São Paulo: Companhia Melhoramentos, 2000. BARBER, Kimiko; TAKEMURA, Hiroki. Sushi. São Paulo: Publifolha, 2008. 
+## EMENTA
 
-CWIERTKA, KatarzynaJ.Moderna Cozinha Japonesa Editora: SENAC SP -Ed: 1: 2008. Escola De Culinária. 150 das melhores receitas clássicas e contemporaneas passo a passo. Manole, 2008 
+Principais conceitos e características de projetos empreendedores; Ética e Responsabilidade Social nas organizações. Modelo de negócios; Metodologia do trabalho científico;
 
-## **COMPONENTE CURRICULAR: ENOGASTRONOMA** 
+## BIBLIOGRAFIA  BÁSICA
 
-CARGA HORÁRIA: 80h/aula (67h) 
+MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Fundamentos de metodologia científica.7. ed. São Paulo: Atlas, 2010.
 
-EMENTA: Identificar as regiões produtoras de vinho no Brasil e no Mundo. - Apresentar e servir o vinho. -Utilizar os copos adequados para servir o vinho. - Higienizar e polir os copos de vinho. - Organizar a 
+FONSECA, Marcelo Traldi. Tecnologias gerenciais de restaurantes. 5. ed. São Paulo: SENAC São Paulo, 2009. 189 p.
 
-62 
+KNIGHT, John Barton; KOTSCHEVAR, Lendal Henry, $d 1908-. Gestão, planejamento e operação de restaurantes. 3. ed. São Paulo: Roca, 2005. xii, 492 p.
 
-**==> picture [472 x 55] intentionally omitted <==**
+KINTON, Ronald; CESERANI, Victor; FOSKETT, David BEd. Enciclopedia de serviços de alimentação. São Paulo: Varela, 1999. xiv,703p.
 
-mise-en-place de mesa para o serviço de vinhos. - Planejar e controlar o estoque de vinhos. - Planejar a carta de vinhos. - Harmonizar comidas e vinhos. - Orientar sua equipe em relação a venda do vinho. Técnicas de degustação de vinhos. A videira, tipos de uvas. Métodos de elaboração dos vinhos. Diferentes regiões produtoras de vinhos no mundo. Harmonização de vinho e comida. Elaboração de carta de vinhos. Atendimento dos clientes nas mesas. Venda de vinhos aos clientes. Utilização de copos adequados aos vinhos. Sistemas de informações e controle. 
+## BIBLIOGRAFIA COMPLEMENTAR
 
-## BIBLIOGRAFIA BÁSICA 
+TEICHMANN, Ione Mendes. Tecnologia culinária. 2. ed. Caxias do Sul: EDUCS, 2009. 362 p. (Hotelaria.)
 
-BORGES, Euclides Penedo. Harmonização: o livro definitivo do casamento do vinho com a comida. Rio de Janeiro: Mauad X, 2007. 
+MEZOMO, Iracema de Barros. Os serviços de alimentação: planejamento e administração. 6.ed. rev. e atual. Barueri: Manole, 2015. xxii, 343 p.
 
-JOHNSON, Hugh. A história do vinho: nova edição ilustrada. [2. ed.]. São Paulo: CMS, 2009 VINHO: escolha, compra, serviço e degustação: manual do sommelier. São Paulo: Globo, 2004. 
+BRAGA, Roberto. Gestão da gastronomia: custos, formação de preços, gerenciamento e planejamento do lucro. 3. ed. São Paulo: SENAC, 2012. 190 p
 
-## BIBLIOGRAFIA COMPLEMENTAR 
+GOMENSORO, Maria Lucia. Pequeno dicionário de gastronomia. Rio de Janeiro: Objetiva, 1999. 432 p.
 
-CABRAL, Carlos; MELLO, Carlos Ernesto Cabral de. Presença do vinho no Brasil: um pouco de história. 2. ed. São Paulo: Cultura, 2007 
+## **COMPONENTE CURRICULAR: Introdução à Lingua Brasileira de Sinais (LIBRAS)**
 
-JOHSON, Hugh; ROBINSON, Jancis. Atlas mundial do vinho. Tradução de Fátima Santos, Renato Rezende, Ricardo Rosenbusch. 6. ed. Rio de Janeiro: Nova Fronteira, 2008 
+CARGA HORÁRIA: 36h/aula
 
-LOMBARDO, João Alexandre. Santa Catarina à mesa: a revolução das uvas e do vinho e o renascimento das cervejarias no estado. 2. ed. Florianópolis: Expressão, 2009 
+## EMENTA
 
-LONA, Adolfo Alberto. Vinhos e espumantes: degustação, elaboração e serviço. Porto Alegre: Age, 2009. 
+Surdez como diferença cultural, comunidade e escola de surdos. Língua Brasileira de Sinais - noções de lingüística; verbos; expressões; números, estações e meses do ano; corpo humano; vocabulário escolar e por áreas do conhecimento. Bilingüismo e educação de surdos.
 
-## **COMPONENTE CURRICULAR: Gestão Gastronômica** 
+## BIBLIOGRAFIA  BÁSICA
 
-CARGA HORÁRIA: 80h/aula (67h) 
+GESSER, Audrei. LIBRAS? Que língua é essa? Crenças e preconceitos em torno da Língua Sinais e da realidade surda. São Paulo: Parábola, 2009.
 
-## EMENTA 
+FIGUEIRA, Alexandre dos Santos. Material de Apoio Para o Aprendizado de Libras. Editora Phorte, 2011. 5. BRANDÃO, Flávio. Dicionário Ilustrado de Libras: Língua Brasileira de Sinais. Editora Global, 2011.
 
-Gestão da gastronomia; o produto restaurante; custos de produção; ficha técnica de custos; engenharia de cardápios; índices de desempenho; formação de preços; estrutura física de restaurantes; tecnologia aplicada a gastronomia; métodos gerenciais; composto de marketing aplicado a gastronomia; tendências de mercado da alimentação fora de casa; 
+BIBLIOGRAFIA COMPLEMENTAR
 
-## BIBLIOGRAFIA  BÁSICA 
+BOTELHO, Paula. Linguagem e letramento na educação dos surdos - ideologias e práticas pedagógicas. Belo Horizonte: Autêntica, 2005.
 
-FONSECA, Marcelo Traldi. Tecnologias gerenciais de restaurantes. 5. ed. São Paulo: SENAC São Paulo, 2009. 189 p. 
+FERNANDEZ, Eulália (Org.). Surdez e bilingüismo. Porto Alegre: Mediação, 2005.
 
-KNIGHT, John Barton; KOTSCHEVAR, Lendal Henry, $d 1908-. Gestão, planejamento e operação de restaurantes. 3. ed. São Paulo: Roca, 2005. xii, 492 p. 
+SOUZA, Regina Maria de; SILVESTRE, Núria; ARANTES, Valéria Amorin (Org.). Educação de surdos. São Paulo: Summus, 2007.
 
-KINTON, Ronald; CESERANI, Victor; FOSKETT, David BEd. Enciclopedia de serviços de alimentação. São Paulo: Varela, 1999. xiv,703p. 
+PEREIRA, Maria da Cristina da Cunha. Libras: Conhecimento Além Dos Sinais. Editora Pearson, 201
 
-## BIBLIOGRAFIA COMPLEMENTAR 
+## 4.3 AVALIAÇÃO
 
-TEICHMANN, Ione Mendes. Tecnologia culinária. 2. ed. Caxias do Sul: EDUCS, 2009. 362 p. (Hotelaria.) MEZOMO, Iracema de Barros. Os serviços de alimentação: planejamento e administração. 6.ed. rev. e atual. Barueri: Manole, 2015. xxii, 343 p. 
+## **4.3.1 Avaliação da Aprendizagem**
 
-BRAGA, Roberto. Gestão da gastronomia: custos, formação de preços, gerenciamento e planejamento do lucro. 3. ed. São Paulo: SENAC, 2012. 190 p 
+A LDB (Lei de Diretrizes e Bases da Educação Nacional) nº 9394/96 assegura que a avaliação deve ser “contínua e cumulativa do desempenho do aluno, com prevalência dos aspectos qualitativos sobre os quantitativos e dos resultados ao longo do período sobre os de eventuais provas finais” (artigo 24, inciso V, letra a).
 
-63 
+Avaliar é um processo contínuo que objetiva não só redirecionar a aprendizagem do aluno,  como  também  planejar  o  trabalho  do  professor,  contemplando  os  princípios  de promoção da educação integral. Trata-se de concepção que ressalte as funções diagnóstica, formativa e somativa, ferramenta para tomada de consciência das dificuldades, conquistas e possibilidades, e que funcione como instrumento colaborador na compreensão dos processos da aprendizagem e ensino.
 
-**==> picture [472 x 55] intentionally omitted <==**
+A avaliação da aprendizagem aqui é compreendida como um instrumento subsidiário de planejamento e de execução, ela só faz sentido na medida em que serve para o diagnóstico, trabalhando a serviço da melhoria dos resultados. A avaliação deve ser entendida como um processo que parte do diagnóstico para o desenvolvimento, pautando-se por ser uma atividade racionalmente definida, cujas ações são marcadas por decisão clara e explícita do que se está fazendo  e  para  onde  possivelmente  se  encaminham  os resultados  obtidos.  Apoiados  em Hoffmann (2000), entendemos a avaliação em uma perspectiva mediadora:
 
-GOMENSORO, Maria Lucia. Pequeno dicionário de gastronomia. Rio de Janeiro: Objetiva, 1999. 432 p. 
+A perspectiva de avaliação mediadora pretende, essencialmente, opor-se ao modelo do “transmitir-verificar-registrar” e evoluir no sentido de uma ação reflexiva e desafiadora do educador em termos de contribuir, elucidar, favorecer a troca de conhecimento entre e com os alunos, num movimento de superação, do saber transmitido a uma produção de saber enriquecido, construído a partir da compreensão dos fenômenos estudados (HOFFMANN, 2009, p. 116).
 
-## **COMPONENTE CURRICULAR: Projeto de Conclusão de Curso** 
+Nesse  contexto,  para  Luckesi  (2005)  a  avaliação  da  aprendizagem  é  um  ato  de acompanhamento da aprendizagem do educando, permitindo tomar conhecimento do que se aprendeu e do que não se aprendeu e orientar o educando para que supere suas dificuldades e
 
-CARGA HORÁRIA: 80h/aula (67h) 
+carências. Assim, a ação avaliativa é compreendida não como de julgamento, mas ação do saber provisório a um saber enriquecido, em que não haja apenas um resultado, mas sempre um processo. Também sendo um processo de revisão e reflexão da prática educativa do professor. Assim é fundamental que a avaliação assuma uma vertente crítica e reflexiva da própria ação, a fim de analisar e melhorar essa ação: trata-se de um processo de reflexão-ação-reflexão.
 
-## EMENTA 
+A  avaliação,  enquanto  relação  dialógica  vai  conceber  o  conhecimento  como apropriação do saber pelo aluno e pelo professor, como ação-reflexão-ação que se passa na sala de aula em direção a um saber aprimorado, enriquecido, carregado de significados, de compreensão. Dessa forma a avaliação passa a exigir do professor uma relação epistemológica com o aluno. Uma conexão entendida como uma reflexão aprofundada sobre as formas como se dá a compreensão do educando sobre o objeto do conhecimento (HOFFMANN, 2005, p.116).
 
-Principais conceitos e características de projetos empreendedores; Ética e Responsabilidade Social nas organizações. Modelo de negócios; Metodologia do trabalho científico; 
+A avaliação do processo ensino-aprendizagem considera as normatizações da LDB e também da Portaria 120/2009 do IFPR.
 
-## BIBLIOGRAFIA  BÁSICA 
+O artigo 24 da LDB orienta para uma avaliação contínua e cumulativa, contrariando a tradição arraigada  de centralizá-la em  provas,  prática prejudicial  a todo o processo, pois transmite educação utilitarista de que aprender é ser bem-sucedido em provas. O ensino há de ser permeado pelo olhar avaliativo do professor, produzindo informações e retroalimentando o processo de ensino aprendizagem.
 
-MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Fundamentos de metodologia científica.7. ed. São Paulo: Atlas, 2010. 
+A Portaria 120/2009 de IFPR faz a recepção e interpretação institucional do referido artigo da LDB. Segundo esta Portaria, a avaliação apresenta as seguintes características:
 
-FONSECA, Marcelo Traldi. Tecnologias gerenciais de restaurantes. 5. ed. São Paulo: SENAC São Paulo, 2009. 189 p. 
+a) Diagnóstica: antecipa as dificuldades de aprendizagem de modo a poder saná-las ao longo do processo;
 
-KNIGHT, John Barton; KOTSCHEVAR, Lendal Henry, $d 1908-. Gestão, planejamento e operação de restaurantes. 3. ed. São Paulo: Roca, 2005. xii, 492 p. 
+b) Formativa: dá-se no decorrer do processo de ensino e não no final;
 
-KINTON, Ronald; CESERANI, Victor; FOSKETT, David BEd. Enciclopedia de serviços de alimentação. São Paulo: Varela, 1999. xiv,703p. 
+c) Somativa: pode ser expressada na forma de resultado também ao final de uma etapa. Além disso, segundo este mesmo documento, são considerados meios para a avaliação: I. Seminários;
 
-## BIBLIOGRAFIA COMPLEMENTAR 
+II. Trabalho individual e grupal;
 
-TEICHMANN, Ione Mendes. Tecnologia culinária. 2. ed. Caxias do Sul: EDUCS, 2009. 362 p. (Hotelaria.) 
+III. Teste escrito e/ou oral;
 
-MEZOMO, Iracema de Barros. Os serviços de alimentação: planejamento e administração. 6.ed. rev. e atual. Barueri: Manole, 2015. xxii, 343 p. 
+IV. Demonstração de técnicas em laboratório;
 
-BRAGA, Roberto. Gestão da gastronomia: custos, formação de preços, gerenciamento e planejamento do lucro. 3. ed. São Paulo: SENAC, 2012. 190 p 
+V. Dramatização;
 
-GOMENSORO, Maria Lucia. Pequeno dicionário de gastronomia. Rio de Janeiro: Objetiva, 1999. 432 p. 
+VI. Apresentação do trabalho final de iniciação científica;
 
-## **COMPONENTE CURRICULAR: Introdução à Lingua Brasileira de Sinais (LIBRAS)** 
+VII. Artigo científico;
 
-CARGA HORÁRIA: 36h/aula 
+VIII. TCC; IX. Portfólios;
 
-## EMENTA 
+- X. Resenhas;
 
-Surdez como diferença cultural, comunidade e escola de surdos. Língua Brasileira de Sinais - noções de lingüística; verbos; expressões; números, estações e meses do ano; corpo humano; vocabulário escolar e por áreas do conhecimento. Bilingüismo e educação de surdos. 
+XI. Auto avaliação, entre outros.
 
-## BIBLIOGRAFIA  BÁSICA 
+A  título  de  registro  serão  utilizados  os  conceitos  A  (aprendizagem  plena),  B (aprendizagem parcialmente plena), C (aprendizagem suficiente) e D (aprendizagem insuficiente). A emissão dos conceitos se dará no meio do semestre e no final do mesmo. Após o término do semestre letivo, segundo consta no calendário acadêmico do campus, haverá
 
-GESSER, Audrei. LIBRAS? Que língua é essa? Crenças e preconceitos em torno da Língua Sinais e da realidade surda. São Paulo: Parábola, 2009. 
+aplicação de instrumento avaliativo de recuperação da aprendizagem, sendo o critério de atribuição do conceito final previsto no plano de ensino do componente curricular.
 
-FIGUEIRA, Alexandre dos Santos. Material de Apoio Para o Aprendizado de Libras. Editora Phorte, 2011. 5. BRANDÃO, Flávio. Dicionário Ilustrado de Libras: Língua Brasileira de Sinais. Editora Global, 2011. 
+As  avaliações  e  estudos  de  recuperação  são  de  responsabilidade  do  professor, respeitada  a  autonomia  didático/metodológica  para  definir  quais  os  instrumentos  mais adequados a serem utilizados para sanar as lacunas de aprendizagem.
 
-64 
+A  recuperação  paralela  será  oferecida  aos  alunos  que  apresentarem  dificuldades, através de atividades diversificadas, tais como: roteiros de estudo, participação em projetos de reforço e nivelamento, revisão dos conteúdos, entre outras.
 
-**==> picture [472 x 55] intentionally omitted <==**
+A frequência para a aprovação nos componentes curriculares deve ser igual ou superior a setenta e cinco por cento (75%). Será considerado reprovado o aluno que obtiver frequência inferior a setenta e cinco por cento (75%), ficando impedido de prestar exame final.
 
-BIBLIOGRAFIA COMPLEMENTAR 
+Alunos em processo de adaptação, (transferidos ou que vierem de uma grade que não está mais vigente), serão matriculados no período mais adequado ao curso, desde que não seja em componentes curriculares que exijam pré-requisitos. A aprovação em Estágio Curricular Obrigatório,  Trabalho  de  Conclusão  de  Curso  e  Atividades  Complementares  seguirão regulamentos específicos.
 
-BOTELHO, Paula. Linguagem e letramento na educação dos surdos - ideologias e práticas pedagógicas. Belo Horizonte: Autêntica, 2005. 
+## **4.3.2 Plano de Avaliação Institucional**
 
-FERNANDEZ, Eulália (Org.). Surdez e bilingüismo. Porto Alegre: Mediação, 2005. 
+O Plano de Avaliação Institucional do Instituto Federal do Paraná atende às orientações do  Sistema  Nacional  de  Avaliação  da  Educação  Superior  (SINAES),  instituído  pela  Lei 10.861/2004, e tem por objetivo a promoção da qualidade de ensino nesse nível de educação.
 
-SOUZA, Regina Maria de; SILVESTRE, Núria; ARANTES, Valéria Amorin (Org.). Educação de surdos. São Paulo: Summus, 2007. 
+A Lei 10.861/2004 prevê três dimensões para a avaliação institucional, quais sejam, a Auto avaliação Institucional, a Avaliação Externa in loco, e o Exame Nacional de Desempenho dos Estudantes (ENADE).
 
-PEREIRA, Maria da Cristina da Cunha. Libras: Conhecimento Além Dos Sinais. Editora Pearson, 201 
+O Art. 3º da Lei 10.861/2004 estabelece como objetivo identificar o seu perfil e o significado de sua atuação, por meio de suas atividades, cursos, programas, projetos e setores, considerando as diferentes dimensões institucionais, dentre elas obrigatoriamente as seguintes:
 
-## 4.3 AVALIAÇÃO 
+I a missão e o plano de desenvolvimento institucional; II a política para o ensino, a pesquisa, a pós-graduação, a extensão e as respectivas formas de operacionalização, incluídos os procedimentos para estímulo à produção acadêmica, as bolsas de pesquisa, de monitoria e demais modalidades; III a responsabilidade social da instituição, considerada especialmente no que se refere à sua contribuição em relação à inclusão social, ao desenvolvimento econômico e social, à defesa do meio ambiente, da memória cultural, da produção artística e do patrimônio cultural; IV a comunicação com a sociedade; V  as  políticas  de  pessoal,  as  carreiras  do  corpo  docente  e  do  corpo  técnicoadministrativo, seu aperfeiçoamento, desenvolvimento profissional e suas condições de trabalho;
 
-## **4.3.1 Avaliação da Aprendizagem** 
+VI organização e gestão da instituição, especialmente o funcionamento e
 
-A LDB (Lei de Diretrizes e Bases da Educação Nacional) nº 9394/96 assegura que a avaliação deve ser “contínua e cumulativa do desempenho do aluno, com prevalência dos aspectos qualitativos sobre os quantitativos e dos resultados ao longo do período sobre os de eventuais provas finais” (artigo 24, inciso V, letra a). 
+representatividade dos colegiados, sua independência e autonomia na relação com a mantenedora,  e  a  participação  dos  segmentos  da  comunidade  universitária  nos processos decisórios;
 
-Avaliar é um processo contínuo que objetiva não só redirecionar a aprendizagem do aluno,  como  também  planejar  o  trabalho  do  professor,  contemplando  os  princípios  de promoção da educação integral. Trata-se de concepção que ressalte as funções diagnóstica, formativa e somativa, ferramenta para tomada de consciência das dificuldades, conquistas e possibilidades, e que funcione como instrumento colaborador na compreensão dos processos da aprendizagem e ensino. 
+VII infraestrutura física, especialmente a de ensino e de pesquisa, biblioteca, recursos de  informação  e  comunicação;  VIII  planejamento  e  avaliação,  especialmente  os processos, resultados e eficácia da auto-avaliação institucional; IX políticas de atendimento aos estudantes;
 
-A avaliação da aprendizagem aqui é compreendida como um instrumento subsidiário de planejamento e de execução, ela só faz sentido na medida em que serve para o diagnóstico, trabalhando a serviço da melhoria dos resultados. A avaliação deve ser entendida como um processo que parte do diagnóstico para o desenvolvimento, pautando-se por ser uma atividade racionalmente definida, cujas ações são marcadas por decisão clara e explícita do que se está fazendo  e  para  onde  possivelmente  se  encaminham  os resultados  obtidos.  Apoiados  em Hoffmann (2000), entendemos a avaliação em uma perspectiva mediadora: 
+X sustentabilidade financeira, tendo em vista o significado social da continuidade dos compromissos na oferta da educação superior (LEI 10.861/2004).
 
-A perspectiva de avaliação mediadora pretende, essencialmente, opor-se ao modelo do “transmitir-verificar-registrar” e evoluir no sentido de uma ação reflexiva e desafiadora do educador em termos de contribuir, elucidar, favorecer a troca de conhecimento entre e com os alunos, num movimento de superação, do saber transmitido a uma produção de saber enriquecido, construído a partir da compreensão dos fenômenos estudados (HOFFMANN, 2009, p. 116). 
+Para  o  acompanhamento,  discussão  e  execução  da  Avaliação  Institucional,  a  lei 10.861/2004 prevê a criação da Comissão Própria de Avaliação (CPA), que, conforme o Relatório de Auto avaliação do IFPR (2010, p. 17), tem como atribuições “Coordenar e articular o processo de Avaliação Institucional, bem como disponibilizar o resultado final a comunidade acadêmica”.
 
-Nesse  contexto,  para  Luckesi  (2005)  a  avaliação  da  aprendizagem  é  um  ato  de acompanhamento da aprendizagem do educando, permitindo tomar conhecimento do que se aprendeu e do que não se aprendeu e orientar o educando para que supere suas dificuldades e 
+A  CPA  do  IFPR  é  composta  por  docentes,  técnicos-administrativos,  discentes  e representantes da comunidade paranaense. Por ser uma instituição multicampi, a CPA contém representantes das diversas áreas da instituição que, em seus trabalhos, pretendem levantar, anualmente, as potencialidades, as fragilidades e as ações estratégicas para a melhoria da qualidade do Ensino Superior no IFPR, levando em consideração as dimensões previstas na legislação para esse nível de ensino.
 
-65 
+Para tanto, todos os envolvidos no processo educativo são consultados, através de instrumentos avaliativos específicos para docentes, discentes e técnicos administrativos. Após a coleta desses dados e sua análise, a CPA os sistematiza e divulga o relatório, disponível a toda a comunidade acadêmica.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **4.3.3 Avaliação do Curso**
 
-carências. Assim, a ação avaliativa é compreendida não como de julgamento, mas ação do saber provisório a um saber enriquecido, em que não haja apenas um resultado, mas sempre um processo. Também sendo um processo de revisão e reflexão da prática educativa do professor. Assim é fundamental que a avaliação assuma uma vertente crítica e reflexiva da própria ação, a fim de analisar e melhorar essa ação: trata-se de um processo de reflexão-ação-reflexão. 
+Em  todas  as  áreas  e  setores sociais e organizacionais,  a avaliação  representa  um instrumento valioso para o contínuo aprimoramento. A análise sistemática de desempenho pode levar a adequação e ao aperfeiçoamento, permitindo a implementação de projetos de excelência, garantindo a sua constante renovação e modernização.
 
-A  avaliação,  enquanto  relação  dialógica  vai  conceber  o  conhecimento  como apropriação do saber pelo aluno e pelo professor, como ação-reflexão-ação que se passa na sala de aula em direção a um saber aprimorado, enriquecido, carregado de significados, de compreensão. Dessa forma a avaliação passa a exigir do professor uma relação epistemológica com o aluno. Uma conexão entendida como uma reflexão aprofundada sobre as formas como se dá a compreensão do educando sobre o objeto do conhecimento (HOFFMANN, 2005, p.116). 
+A avaliação é um processo que deve estar integrado ao planejamento institucional, para permitir a identificação de novas necessidades e a redefinição dos objetivos e prioridades, e deve  ainda  estar  inserido  na  política  mais  ampla  de  desenvolvimento  acadêmico  e administrativo.
 
-A avaliação do processo ensino-aprendizagem considera as normatizações da LDB e também da Portaria 120/2009 do IFPR. 
+Tendo como objetivo a constante adequação e melhoria do curso ora proposto neste projeto, o mesmo deverá ser permanentemente avaliado.
 
-O artigo 24 da LDB orienta para uma avaliação contínua e cumulativa, contrariando a tradição arraigada  de centralizá-la em  provas,  prática prejudicial  a todo o processo, pois transmite educação utilitarista de que aprender é ser bem-sucedido em provas. O ensino há de ser permeado pelo olhar avaliativo do professor, produzindo informações e retroalimentando o processo de ensino aprendizagem. 
+A  auto  avaliação  do  Curso  Superior  de  Tecnologia  em  Gastronomia  seguira  os mecanismos implantados  para a avaliação institucional, baseada na Lei nº 10.861/2004 e coordenada em termos gerais pela Comissão Própria de Avaliação CPA, que estabelece a metodologia, as dimensões e instrumentos a serem usados no processo de auto avaliação e formas de utilização dos resultados.
 
-A Portaria 120/2009 de IFPR faz a recepção e interpretação institucional do referido artigo da LDB. Segundo esta Portaria, a avaliação apresenta as seguintes características: 
+A  auto  avaliação  será  realizada  anualmente  no  Curso pela  pesquisa  de  opinião  e respectiva tabulação e também não se restringe somente à análise das proposições do projeto pedagógico.  Inicia  considerando  a  identidade  do  curso,  os  seus  principais  princípios norteadores,  os  projetos  de  pesquisa  e  de  extensão,  o  levantamento  dos  problemas,  o estabelecimento de critérios indicadores, escalas e instrumentos para avaliação das metas e ações.
 
-a) Diagnóstica: antecipa as dificuldades de aprendizagem de modo a poder saná-las ao longo do processo; 
+A coordenação do Curso Superior de Tecnologia em Gastronomia por sugestão da CPA, em primeira instância realizará uma reunião com os professores e depois com representantes dos discentes e corpo técnico administrativo, com a finalidade de dar ciência dos mecanismos a serem adotados para avaliação do curso.
 
-b) Formativa: dá-se no decorrer do processo de ensino e não no final; 
+Os instrumentos poderão ser disponibilizados diretamente no Portal Acadêmico da Instituição para acesso via internet, de todos os envolvidos no processo. A utilização desta ferramenta agiliza a apuração dos dados, permitindo a construção de gráficos e planilhas, contribuindo ainda, para o sigilo entre as diferentes categorias de respondentes.
 
-c) Somativa: pode ser expressada na forma de resultado também ao final de uma etapa. Além disso, segundo este mesmo documento, são considerados meios para a avaliação: I. Seminários; 
+## **4.3.4 Avaliação do Projeto Pedagógico do Curso**
 
-II. Trabalho individual e grupal; 
+O Projeto Pedagógico do Curso Superior de Tecnologia em Gastronomia é avaliado, em dois momentos distintos:
 
-III. Teste escrito e/ou oral; 
+**Avaliação inicial** – no início de cada semestre, através das semanas de planejamento pedagógico,  quando  são  propostas  as  mudanças  necessárias,  considerando  as  atividades desenvolvidas no semestre anterior.
 
-IV. Demonstração de técnicas em laboratório; 
+**Avaliação contínua** – no decorrer dos semestres, por meio das reuniões de professores (Colegiado de Curso e Núcleo Docente Estruturante – NDE).
 
-V. Dramatização; 
+O trabalho pedagógico dos professores do curso será avaliado, periodicamente, nas semanas de planejamento pedagógico quando se efetiva o acompanhamento das atividades desenvolvidas com os alunos e os resultados obtidos.
 
-VI. Apresentação do trabalho final de iniciação científica; 
+Nesses momentos, tanto a coordenação quanto o corpo docente são informados das dificuldades apresentadas pela turma e os alunos que necessitam de uma atenção especial. Esse é o espaço, por excelência, para se discutir as alternativas viáveis para o replanejamento das atividades docentes.
 
-VII. Artigo científico; 
+Vale destacar que, o processo de consolidação do Projeto Pedagógico de Curso só é possível com a interação de todos e, a avaliação continuada é o principal mecanismo para assegurar a qualidade das atividades didático-pedagógicas e do funcionamento do curso como um todo.
 
-VIII. TCC; IX. Portfólios; 
+A readequação do Projeto Pedagógico e a reorientação das dimensões e dos diferentes aspectos  do  curso  será  realizada  sempre  que  necessário,  com  o  comprometimento  da coordenação, corpo docente e discente.
 
-- X. Resenhas; 
+4.4 ESTÁGIO CURRICULAR
 
-XI. Auto avaliação, entre outros. 
+O processo de  estágio curricular obrigatório  para conclusão do Curso Superior  de Tecnologia  em  Gastronomia  constitui-se  em  um  instrumento  que  orienta  e  normatiza  as atividades  desenvolvidas  pelo/a  estagiário/a,  considerando  que  ele/a  encontra-se  em  um período  de  transição,  ou  seja,  ainda  é  estudante,  mas  já  é  quase  um  profissional  da gastronomia,  necessitando  traduzir  na  prática  os  conhecimentos  adquiridos  durante  seu período  de  estudos.  Nesse  contexto,  o  estágio  possibilita  a  integralização  do  processo pedagógico no curso de Tecnologia em Gastronomia e tem por finalidade vivenciar a realidade administrativa e operacional por meio do contato direto com a prática profissional.
 
-A  título  de  registro  serão  utilizados  os  conceitos  A  (aprendizagem  plena),  B (aprendizagem parcialmente plena), C (aprendizagem suficiente) e D (aprendizagem insuficiente). A emissão dos conceitos se dará no meio do semestre e no final do mesmo. Após o término do semestre letivo, segundo consta no calendário acadêmico do campus, haverá 
+Segundo a Lei 11.788 de 25 de setembro de 2008, o estágio é ato educativo escolar, supervisionado, desenvolvido no ambiente de trabalho, que visa à preparação de trabalho produtivo  de  educandos  que  estejam  frequentando  o  ensino  regular  em  instituições  de educação superior, de educação profissional, de ensino médio da educação especial, dos anos finais do ensino fundamental, na modalidade profissional da educação de jovens e adultos.
 
-66 
+O estágio supervisionado é obrigatório para conclusão do curso de Tecnologia em Gastronomia  do IFPR  e  tem  o objetivo de  articular  os  conhecimentos  apreendidos, e as habilidades  desenvolvidas  no  decorrer  do  curso.  O  estágio  deverá  acontecer  a  partir  da conclusão do segundo semestre do curso, desde que não reprovado no período, e será realizado em consonância com a legislação vigente, e o prazo final para conclusão do estágio será o término letivo do terceiro semestre do curso. Em caso de não conclusão do estágio no período determinado o aluno ficará reprovado na disciplina de Orientação de Estágio, e poderá realizá-lo no quarto semestre letivo.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Os objetivos do estágio supervisionado e obrigatório:
 
-aplicação de instrumento avaliativo de recuperação da aprendizagem, sendo o critério de atribuição do conceito final previsto no plano de ensino do componente curricular. 
+   - proporcionar a adequação prática dos conhecimentos recebidos em sala de aula para o exercício efetivo da atividade profissional, ligada a gastronomia e hospitalidade;
 
-As  avaliações  e  estudos  de  recuperação  são  de  responsabilidade  do  professor, respeitada  a  autonomia  didático/metodológica  para  definir  quais  os  instrumentos  mais adequados a serem utilizados para sanar as lacunas de aprendizagem. 
+   - favorecer a experiência prática monitorada e supervisionada, facilitando a apropriação do saber-fazer, a construção de competências e o desenvolvimento de habilidades profissionais;
 
-A  recuperação  paralela  será  oferecida  aos  alunos  que  apresentarem  dificuldades, através de atividades diversificadas, tais como: roteiros de estudo, participação em projetos de reforço e nivelamento, revisão dos conteúdos, entre outras. 
+   - proporcionar  ao/a  estudante  oportunidades  reais  para  conduzir  a  uma  postura profissional adequada;
 
-A frequência para a aprovação nos componentes curriculares deve ser igual ou superior a setenta e cinco por cento (75%). Será considerado reprovado o aluno que obtiver frequência inferior a setenta e cinco por cento (75%), ficando impedido de prestar exame final. 
+- desenvolver no/a estagiário/a capacidade criativa na sua área de conhecimento; O estágio supervisionado e obrigatório para conclusão do curso de Tecnologia em
 
-Alunos em processo de adaptação, (transferidos ou que vierem de uma grade que não está mais vigente), serão matriculados no período mais adequado ao curso, desde que não seja em componentes curriculares que exijam pré-requisitos. A aprovação em Estágio Curricular Obrigatório,  Trabalho  de  Conclusão  de  Curso  e  Atividades  Complementares  seguirão regulamentos específicos. 
+- Gastronomia terá uma carga-horária de 200 horas (duzentas horas) e terá amparo legal no que se refere a quantidade de horas diárias segundo a legislação vigente O estágio ocorrerá sobre a
 
-## **4.3.2 Plano de Avaliação Institucional** 
+tutela de um ou mais professores responsáveis pela disciplina de orientação de estágio, e a modalidade de orientação será _indireta_ .
 
-O Plano de Avaliação Institucional do Instituto Federal do Paraná atende às orientações do  Sistema  Nacional  de  Avaliação  da  Educação  Superior  (SINAES),  instituído  pela  Lei 10.861/2004, e tem por objetivo a promoção da qualidade de ensino nesse nível de educação. 
+Após a conclusão do estágio o aluno deverá apresentar o relatório das atividades desempenhadas sob a supervisão do professor orientador. O manual de estágio e o modelo de relatório encontram-se no Apêndice A deste PPC.
 
-A Lei 10.861/2004 prevê três dimensões para a avaliação institucional, quais sejam, a Auto avaliação Institucional, a Avaliação Externa in loco, e o Exame Nacional de Desempenho dos Estudantes (ENADE). 
+## **4.4.1 Características do Estágio**
 
-O Art. 3º da Lei 10.861/2004 estabelece como objetivo identificar o seu perfil e o significado de sua atuação, por meio de suas atividades, cursos, programas, projetos e setores, considerando as diferentes dimensões institucionais, dentre elas obrigatoriamente as seguintes: 
+- Carga horária de estágio obrigatório: 200 (duzentas) horas-aula
 
-I a missão e o plano de desenvolvimento institucional; II a política para o ensino, a pesquisa, a pós-graduação, a extensão e as respectivas formas de operacionalização, incluídos os procedimentos para estímulo à produção acadêmica, as bolsas de pesquisa, de monitoria e demais modalidades; III a responsabilidade social da instituição, considerada especialmente no que se refere à sua contribuição em relação à inclusão social, ao desenvolvimento econômico e social, à defesa do meio ambiente, da memória cultural, da produção artística e do patrimônio cultural; IV a comunicação com a sociedade; V  as  políticas  de  pessoal,  as  carreiras  do  corpo  docente  e  do  corpo  técnicoadministrativo, seu aperfeiçoamento, desenvolvimento profissional e suas condições de trabalho; 
+- Modalidade de orientação: indireta;
 
-VI organização e gestão da instituição, especialmente o funcionamento e 
+- Período de realização do estágio: conclusão do 2° semestre do curso ao final do 3° semestre, antes do fechamento do período letivo.
 
-67 
+## **4.4.2 Convênios de Estágio**
 
-**==> picture [472 x 55] intentionally omitted <==**
+A  PROENS/Seção  de  Acompanhamento  de  Estágios  e  Egressos  é  responsável  por acompanhar a formalização de convênios de estágio obrigatório e não obrigatório, bem como orientar as unidades sobre a elaboração e manutenção dos termos. Os convênios de estágio são acordos de cooperação com objeto limitado a lei 11.788/08.
 
-representatividade dos colegiados, sua independência e autonomia na relação com a mantenedora,  e  a  participação  dos  segmentos  da  comunidade  universitária  nos processos decisórios; 
+Para  que  os  estudantes  possam  atuar  em  instituições  públicos  ou  privadas  são necessários trâmites que formaliza o acordo técnico de cooperação (convênios de estágios). A iniciativa de celebração destes convênios são de responsabilidade do Campus, através da Seção de Estágios e Relações Comunitárias.
 
-VII infraestrutura física, especialmente a de ensino e de pesquisa, biblioteca, recursos de  informação  e  comunicação;  VIII  planejamento  e  avaliação,  especialmente  os processos, resultados e eficácia da auto-avaliação institucional; IX políticas de atendimento aos estudantes; 
+O Campus Foz do Iguaçu na área do eixo tecnológico Turismo, Hospitalidade e Lazer já possui convênios com as seguintes empresas:
 
-X sustentabilidade financeira, tendo em vista o significado social da continuidade dos compromissos na oferta da educação superior (LEI 10.861/2004). 
+- 1 Hotel Vialle - Hotelaria
 
-Para  o  acompanhamento,  discussão  e  execução  da  Avaliação  Institucional,  a  lei 10.861/2004 prevê a criação da Comissão Própria de Avaliação (CPA), que, conforme o Relatório de Auto avaliação do IFPR (2010, p. 17), tem como atribuições “Coordenar e articular o processo de Avaliação Institucional, bem como disponibilizar o resultado final a comunidade acadêmica”. 
+- 2 Panificadora Roma - Panificadora
 
-A  CPA  do  IFPR  é  composta  por  docentes,  técnicos-administrativos,  discentes  e representantes da comunidade paranaense. Por ser uma instituição multicampi, a CPA contém representantes das diversas áreas da instituição que, em seus trabalhos, pretendem levantar, anualmente, as potencialidades, as fragilidades e as ações estratégicas para a melhoria da qualidade do Ensino Superior no IFPR, levando em consideração as dimensões previstas na legislação para esse nível de ensino. 
+- 3 Rafain Palace Hotel - Hotelaria
 
-Para tanto, todos os envolvidos no processo educativo são consultados, através de instrumentos avaliativos específicos para docentes, discentes e técnicos administrativos. Após a coleta desses dados e sua análise, a CPA os sistematiza e divulga o relatório, disponível a toda a comunidade acadêmica. 
+- 4 Restaurante de Casa - Restaurante 5 Restaurante Chef Lopes – Restaurante
 
-## **4.3.3 Avaliação do Curso** 
+- 6 Panificadora Pão Nosso - Panificadora
 
-Em  todas  as  áreas  e  setores sociais e organizacionais,  a avaliação  representa  um instrumento valioso para o contínuo aprimoramento. A análise sistemática de desempenho pode levar a adequação e ao aperfeiçoamento, permitindo a implementação de projetos de excelência, garantindo a sua constante renovação e modernização. 
+- 7 Dona Violeta Gastronomia - Rotisserie 8 Cantina Bom Sabor - Restaurante
 
-A avaliação é um processo que deve estar integrado ao planejamento institucional, para permitir a identificação de novas necessidades e a redefinição dos objetivos e prioridades, e deve  ainda  estar  inserido  na  política  mais  ampla  de  desenvolvimento  acadêmico  e administrativo. 
+- 9 Panificadora Firenze - Confeitaria e Panificação
 
-Tendo como objetivo a constante adequação e melhoria do curso ora proposto neste projeto, o mesmo deverá ser permanentemente avaliado. 
+- 10 BDN - Bar e Restaurante - Bar e restaurante
 
-A  auto  avaliação  do  Curso  Superior  de  Tecnologia  em  Gastronomia  seguira  os mecanismos implantados  para a avaliação institucional, baseada na Lei nº 10.861/2004 e coordenada em termos gerais pela Comissão Própria de Avaliação CPA, que estabelece a metodologia, as dimensões e instrumentos a serem usados no processo de auto avaliação e formas de utilização dos resultados. 
+- 11 Belmond Brasil Hoteis S/A - Hotelaria
 
-68 
+12 Churrascaria e Pizzaria Tradição - Churrascaria e Pizzaria 13 Kino Empreendimento hoteleiro - Hotelaria 14 Churrascaria do Gaúcho Foz Eireli - Churrascaria 15 Katamaki Sushi - Restaurante 16 Pop Art Moda Cult Ltda - Cafeteria 17 Prestivel Comércio e Serviços Ltda - Cozinha Industrial 18 Hotel Cassino Acaray - Hotelaria 19 Hotel Nadai - Hotelaria 20 Continental Inn - Hotelaria 21 Hotel Golden Tulip - Hotelaria 22 Churrascaria Fogo Dourado - Churrascaria 23 Associação Produtores Rurais Foz  - Cozinha 24 Panificadora e Confeitaria Kuka - Confeitaria e Panificação 25 Recanto Cataratas Thermas Resort - Hotelaria 26 Marcia Candida Macedo Silva - Restaurante 27 Gourmet Fitness - Restaurante 28 Hartmann Comércio Alimentos - Alimentos 29 Hotel Bourbon - Hotelaria
 
-**==> picture [472 x 55] intentionally omitted <==**
+- 30 CMEI Dom Olivo Aurelio Pazza - Restaurante 31 Leoni Reich - Restaurante
 
-A  auto  avaliação  será  realizada  anualmente  no  Curso pela  pesquisa  de  opinião  e respectiva tabulação e também não se restringe somente à análise das proposições do projeto pedagógico.  Inicia  considerando  a  identidade  do  curso,  os  seus  principais  princípios norteadores,  os  projetos  de  pesquisa  e  de  extensão,  o  levantamento  dos  problemas,  o estabelecimento de critérios indicadores, escalas e instrumentos para avaliação das metas e ações. 
+- 32 Panelinha saudável - Restaurante
 
-A coordenação do Curso Superior de Tecnologia em Gastronomia por sugestão da CPA, em primeira instância realizará uma reunião com os professores e depois com representantes dos discentes e corpo técnico administrativo, com a finalidade de dar ciência dos mecanismos a serem adotados para avaliação do curso. 
+- 33 Ederson Centenaro Comercio - Lancheria
 
-Os instrumentos poderão ser disponibilizados diretamente no Portal Acadêmico da Instituição para acesso via internet, de todos os envolvidos no processo. A utilização desta ferramenta agiliza a apuração dos dados, permitindo a construção de gráficos e planilhas, contribuindo ainda, para o sigilo entre as diferentes categorias de respondentes. 
+- 34 Restaurante Jiquitaia - Restaurante
 
-## **4.3.4 Avaliação do Projeto Pedagógico do Curso** 
+- 35 Churrascaria Rafain - Restaurante 36 GSP Administradora de Hotéis – Hotelaria
 
-O Projeto Pedagógico do Curso Superior de Tecnologia em Gastronomia é avaliado, em dois momentos distintos: 
+Além das empresas citadas espera-se consolidar convênios com outros empreendimentos do setor, para a concretização das atividades de estágio.
 
-**Avaliação inicial** – no início de cada semestre, através das semanas de planejamento pedagógico,  quando  são  propostas  as  mudanças  necessárias,  considerando  as  atividades desenvolvidas no semestre anterior. 
+## 4.5 INTEGRAÇÃO COM AS ORGANIZAÇÕES PÚBLICAS, CIVIS E PARTICULARES
 
-**Avaliação contínua** – no decorrer dos semestres, por meio das reuniões de professores (Colegiado de Curso e Núcleo Docente Estruturante – NDE). 
+## **4.5.1 Integração com as redes públicas de ensino e proposição de atividades práticas de ensino para licenciaturas**
 
-O trabalho pedagógico dos professores do curso será avaliado, periodicamente, nas semanas de planejamento pedagógico quando se efetiva o acompanhamento das atividades desenvolvidas com os alunos e os resultados obtidos. 
+Não se aplica
 
-Nesses momentos, tanto a coordenação quanto o corpo docente são informados das dificuldades apresentadas pela turma e os alunos que necessitam de uma atenção especial. Esse é o espaço, por excelência, para se discutir as alternativas viáveis para o replanejamento das atividades docentes. 
+## **4.5.2 Integração com o sistema local e regional de saúde (SUS) e proposição de atividades práticas de ensino para áreas da saúde**
 
-Vale destacar que, o processo de consolidação do Projeto Pedagógico de Curso só é possível com a interação de todos e, a avaliação continuada é o principal mecanismo para assegurar a qualidade das atividades didático-pedagógicas e do funcionamento do curso como um todo. 
+Não se aplica
 
-A readequação do Projeto Pedagógico e a reorientação das dimensões e dos diferentes aspectos  do  curso  será  realizada  sempre  que  necessário,  com  o  comprometimento  da coordenação, corpo docente e discente. 
+## **4.5.3  Integração com os setores públicos, civis e privados**
 
-69 
+Quando se pensa em estimular a integração entre os alunos e colegiado do curso de gastronomia, é comum que se pense em profissionais que atuam em uma mesma equipe.
 
-**==> picture [472 x 55] intentionally omitted <==**
+No entanto, uma instituição é sempre formada por mais de um setor e todos somam esforços para fazer o negócio acontecer. E é exatamente por essa razão que a integração entre departamentos e setores públicos, civis e privados é tão importante.
 
-4.4 ESTÁGIO CURRICULAR 
+Todavia,  isso não  costuma  acontecer, pois  muitas  instituição  acabam  fazendo  seu trabalho  interno e  desenvolvendo suas atividades sem  dar  muita  importância  para  esses setores. Diferentemente o IFPR tem no seu lema, trabalhar em prol para a sociedade, pois como se trata já de uma instituição pública ele tem o dever em qualificar profissionais para a sociedade. Muitos dos profissionais serão empregados em empresas privadas ou civis, por isso que a integração entre esses setores é de extrema importância, pois esse relacionamento deve se fazer já no começo de cada tipo de curso e no decorrer dele. O curso de Gastronomia tem esse intuito, já que o aluno no segundo ano passa a começar interagir com as empresas em relação a estágios, cursos, treinamentos e parcerias para projetos e pesquisas, pois o curso pode elaborar novos produtos em parcerias com essas empresas e gerar no futuro empregos ou oportunidades de novos empreendedores. Diante disso se faz necessário ter essa integração com esses setores e ter parcerias fortes e sólidas para ter um melhor andamento do curso, dos alunos com a sociedade.
 
-O processo de  estágio curricular obrigatório  para conclusão do Curso Superior  de Tecnologia  em  Gastronomia  constitui-se  em  um  instrumento  que  orienta  e  normatiza  as atividades  desenvolvidas  pelo/a  estagiário/a,  considerando  que  ele/a  encontra-se  em  um período  de  transição,  ou  seja,  ainda  é  estudante,  mas  já  é  quase  um  profissional  da gastronomia,  necessitando  traduzir  na  prática  os  conhecimentos  adquiridos  durante  seu período  de  estudos.  Nesse  contexto,  o  estágio  possibilita  a  integralização  do  processo pedagógico no curso de Tecnologia em Gastronomia e tem por finalidade vivenciar a realidade administrativa e operacional por meio do contato direto com a prática profissional. 
+## 4.6 TRABALHO DE CONCLUSÃO DE CURSO
 
-Segundo a Lei 11.788 de 25 de setembro de 2008, o estágio é ato educativo escolar, supervisionado, desenvolvido no ambiente de trabalho, que visa à preparação de trabalho produtivo  de  educandos  que  estejam  frequentando  o  ensino  regular  em  instituições  de educação superior, de educação profissional, de ensino médio da educação especial, dos anos finais do ensino fundamental, na modalidade profissional da educação de jovens e adultos. 
+A  ideia  do  Trabalho  de  Conclusão  do  Curso  (TCC)  é  o  resultado  da  discussão  e aprofundamento  dos  componentes  curriculares  obrigatórios  e  não-obrigatórios  que  os acadêmicos vivenciarão durante os anos de formação, tais como as componentes curriculares, as atividades de iniciação científica, de extensão, de inovação, de monitoria, dos seminários, eventos científico-culturais, estudos curriculares, entre outros durante o desenvolvimento do curso. Para isto os alunos terão com componentes curriculares obrigatórios a metodologia de trabalhos  acadêmicos,  delineamentos  experimentais,  que  auxiliam  no  planejamento  e desenvolvimento progressivo do conhecimento.
 
-O estágio supervisionado é obrigatório para conclusão do curso de Tecnologia em Gastronomia  do IFPR  e  tem  o objetivo de  articular  os  conhecimentos  apreendidos, e as habilidades  desenvolvidas  no  decorrer  do  curso.  O  estágio  deverá  acontecer  a  partir  da conclusão do segundo semestre do curso, desde que não reprovado no período, e será realizado em consonância com a legislação vigente, e o prazo final para conclusão do estágio será o término letivo do terceiro semestre do curso. Em caso de não conclusão do estágio no período determinado o aluno ficará reprovado na disciplina de Orientação de Estágio, e poderá realizá-lo no quarto semestre letivo. 
+O TCC no CST em Gastronomia terá caráter convergente entre ensino, pesquisa e extensão e será trabalhado na disciplina de Projeto de Conclusão de Curso, no 4° semestre. Essa disciplina tratará da organização de um projeto a ser proposto por um professor ou grupo de
 
-Os objetivos do estágio supervisionado e obrigatório: 
+professores, que poderá abranger as seguintes possibilidades:
 
-   - proporcionar a adequação prática dos conhecimentos recebidos em sala de aula para o exercício efetivo da atividade profissional, ligada a gastronomia e hospitalidade; 
+- Desenvolvimento de projetos de empreendimentos gastronômicos, sob orientação de um professor, que focará na criação de um negócio de alimentos e bebidas que considere aspectos reais e a viabilidade do mesmo ou
 
-   - favorecer a experiência prática monitorada e supervisionada, facilitando a apropriação do saber-fazer, a construção de competências e o desenvolvimento de habilidades profissionais; 
+- Desenvolvimento  de projetos de pesquisa, produtos e/ou  serviços  em gastronomia, com  base  em  atividades,  ensino,  pesquisa  e/ou  extensão promovidos e orientados por docentes do colegiado e com a integração de alunos.
 
-   - proporcionar  ao/a  estudante  oportunidades  reais  para  conduzir  a  uma  postura profissional adequada; 
+O material desenvolvido nesta disciplina contará como trabalho de conclusão de curso, e será regulamentado pelo colegiado.
 
-- desenvolver no/a estagiário/a capacidade criativa na sua área de conhecimento; O estágio supervisionado e obrigatório para conclusão do curso de Tecnologia em 
+Dessa  forma,  o  TCC  compreende  a  síntese  dos  conhecimentos  elaborados  pelo acadêmico no decorrer do seu processo de graduação, com submissão e defesa pública diante de banca examinadora. O TCC deverá seguir as seguintes etapas: elaboração de Projeto de Pesquisa, execução do projeto de pesquisa, elaboração do artigo científico ou de trabalho de inovação e defesa pública diante de banca examinadora, de acordo com as normas específicas do Curso de Tecnologia em Gastronomia (Apêndice B).
 
-- Gastronomia terá uma carga-horária de 200 horas (duzentas horas) e terá amparo legal no que se refere a quantidade de horas diárias segundo a legislação vigente O estágio ocorrerá sobre a 
+## 4.7 ATIVIDADES COMPLEMENTARES
 
-70 
+As  atividades  complementares  são  componentes  curriculares  que  possibilitam  o reconhecimento, por avaliação, de habilidades, conhecimentos e competências e atitudes do aluno inclusive de habilidades adquiridas fora do ambiente escolar.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Neste sentido, o colegiado do curso entende que seja fundamental o aluno realizar as atividades complementares de forma obrigatória. A carga horária das atividades complementares serão de 100 (cem) horas de acordo com as atividades descritas. Os alunos deverão apresentar seus comprovantes através de documentos reconhecidos (declarações, certificados entre outros) a secretaria para que possam ser submetidas a reunião do colegiado do  Curso,  aprovadas  e  arquivadas  (Apêndice  C),  e  considera-se  atividade  complementar pertinente ao CST em Gastronomia os seguintes itens:
 
-tutela de um ou mais professores responsáveis pela disciplina de orientação de estágio, e a modalidade de orientação será _indireta_ . 
+- Atividade de trabalho esporádica, desde que na área de gastronomia e de acordo com a legislação trabalhista em vigor;
 
-Após a conclusão do estágio o aluno deverá apresentar o relatório das atividades desempenhadas sob a supervisão do professor orientador. O manual de estágio e o modelo de relatório encontram-se no Apêndice A deste PPC. 
+- Eventos e atividades gastronômicas realizadas no IFPR ou sob orientação dos docentes do curso;
 
-## **4.4.1 Características do Estágio** 
+- Eventos e atividades gastronômicas externas;
 
-- Carga horária de estágio obrigatório: 200 (duzentas) horas-aula 
+- Atividade de bolsista ou voluntariado em projetos de ensino, pesquisa e extensão do campus;
 
-- Modalidade de orientação: indireta; 
+- Participação em eventos científicos ou técnicos do eixo turismo, hospitalidade e lazer;
 
-- Período de realização do estágio: conclusão do 2° semestre do curso ao final do 3° semestre, antes do fechamento do período letivo. 
+- Cursos de curta duração (até 100h) do eixo turismo, hospitalidade e lazer; Todas  as  atividades  complementares  deverão  ser  comprovadas  com  certificados,
 
-## **4.4.2 Convênios de Estágio** 
+declarações, atestados ou documentos formais que comprovem a realização da mesma, e deverão ser entregues ao coordenador do curso somente no quarto semestre letivo.
 
-A  PROENS/Seção  de  Acompanhamento  de  Estágios  e  Egressos  é  responsável  por acompanhar a formalização de convênios de estágio obrigatório e não obrigatório, bem como orientar as unidades sobre a elaboração e manutenção dos termos. Os convênios de estágio são acordos de cooperação com objeto limitado a lei 11.788/08. 
+## **5.  POLÍTICAS DE ATENDIMENTO AOS ESTUDANTES**
 
-Para  que  os  estudantes  possam  atuar  em  instituições  públicos  ou  privadas  são necessários trâmites que formaliza o acordo técnico de cooperação (convênios de estágios). A iniciativa de celebração destes convênios são de responsabilidade do Campus, através da Seção de Estágios e Relações Comunitárias. 
+## 5.1 FORMAS DE ACESSO E PERMANÊNCIA
 
-O Campus Foz do Iguaçu na área do eixo tecnológico Turismo, Hospitalidade e Lazer já possui convênios com as seguintes empresas: 
+O presente projeto possui suas referências na Lei de Diretrizes e Bases da Educação Nacional – LDB – Lei nº 9394/96; na Lei 11.892/2008 que institui a Rede Federal de Educação Profissional,  Científica  e  Tecnológica,  cria  os  Institutos  Federais  de  Educação,  Ciência  e Tecnologia; nas Diretrizes Curriculares para os cursos de graduação em Engenharia – Resolução CNE/CES nº 11/02; na Resolução 055/2011 - CONSUP-IFPR, que dispõe sobre a Organização Didático-Pedagógica  da Educação  Superior  no  Âmbito do Instituto  Federal  do Paraná;  na Resolução CNE/CES nº 11/02 que dispõe sobre carga horária mínima e procedimentos relativos a integralização e duração dos cursos de graduação, bacharelados, na modalidade presencial. As formas de acesso ao curso são:
 
-- 1 Hotel Vialle - Hotelaria 
+## **Processo Seletivo para os cursos regulares do Ensino Superior**
 
-- 2 Panificadora Roma - Panificadora 
+Conforme  Art.  38  da  Resolução  055/2011  -  CONSUP-IFPR,  o  ingresso  nos  cursos regulares do Ensino Superior do IFPR se faz mediante processo seletivo público, a partir de critérios e normas definidas em edital específico.
 
-- 3 Rafain Palace Hotel - Hotelaria 
+## **Processos Simplificados para Vagas Remanescentes**
 
-- 4 Restaurante de Casa - Restaurante 5 Restaurante Chef Lopes – Restaurante 
+Conforme  Art.  39  da  Resolução  055/2011  -  CONSUP-IFPR,  o  Processo  Seletivo Simplificado destina-se ao preenchimento das vagas remanescentes do primeiro período letivo do curso.
 
-- 6 Panificadora Pão Nosso - Panificadora 
+Vagas remanescentes são aquelas não ocupadas após realizadas todas as chamadas do processo  seletivo  e/ou  aquelas  geradas  pela  não  confirmação  da  matrícula  no  prazo estabelecido.
 
-- 7 Dona Violeta Gastronomia - Rotisserie 8 Cantina Bom Sabor - Restaurante 
+O referido processo seletivo simplificado será definido em edital próprio do campus Foz do Iguaçu, com as devidas orientações da PROENS.
 
-- 9 Panificadora Firenze - Confeitaria e Panificação 
+## **Sistema de Seleção Unificada/SiSU**
 
-- 10 BDN - Bar e Restaurante - Bar e restaurante 
+Segundo o Art. 40 da Resolução 055/2011 - CONSUP-IFPR - O Sistema de Seleção Unificada/SiSU é destinado ao preenchimento de vagas dos cursos superiores de graduação do IFPR e é aberto para a participação de candidatos que concluíram o Ensino Médio ou os estudos equivalentes.
 
-- 11 Belmond Brasil Hoteis S/A - Hotelaria 
+O Sistema de Seleção Unificada/SiSU, é promovido pelo Ministério da Educação/MEC e utilizará a nota do Exame Nacional do Ensino Médio/ENEM do ano correspondente ao ano da edição do SiSU como base para a classificação dos candidatos inscritos no referido sistema que
 
-71 
+indicaram os cursos do IFPR. Após seleção, o Campus Foz do Iguaçu publicará o resultado Edital próprio  e  a  validade  do  Processo  Seletivo  restringir-se-á  ao  período  letivo  que  esteja expressamente referido no edital.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **Estudante Especial**
 
-12 Churrascaria e Pizzaria Tradição - Churrascaria e Pizzaria 13 Kino Empreendimento hoteleiro - Hotelaria 14 Churrascaria do Gaúcho Foz Eireli - Churrascaria 15 Katamaki Sushi - Restaurante 16 Pop Art Moda Cult Ltda - Cafeteria 17 Prestivel Comércio e Serviços Ltda - Cozinha Industrial 18 Hotel Cassino Acaray - Hotelaria 19 Hotel Nadai - Hotelaria 20 Continental Inn - Hotelaria 21 Hotel Golden Tulip - Hotelaria 22 Churrascaria Fogo Dourado - Churrascaria 23 Associação Produtores Rurais Foz  - Cozinha 24 Panificadora e Confeitaria Kuka - Confeitaria e Panificação 25 Recanto Cataratas Thermas Resort - Hotelaria 26 Marcia Candida Macedo Silva - Restaurante 27 Gourmet Fitness - Restaurante 28 Hartmann Comércio Alimentos - Alimentos 29 Hotel Bourbon - Hotelaria 
+O estudante matriculado em Curso Superior do IFPR ou de outra Instituição de Ensino Superior, ou formado em nível  superior  poderá cursar no âmbito do IFPR, componentes curriculares em outro curso de mesmo nível de ensino, sendo denominado aluno especial. Conforme Art. 50 da Resolução 055/2011 - CONSUP-IFPR - São requisitos básicos para matrícula de aluno especial:
 
-- 30 CMEI Dom Olivo Aurelio Pazza - Restaurante 31 Leoni Reich - Restaurante 
+- I. Compatibilidade de horário;
 
-- 32 Panelinha saudável - Restaurante 
+- II. Existência de vaga na disciplina pretendida.
 
-- 33 Ederson Centenaro Comercio - Lancheria 
+O aluno especial, desde que cumpridas as exigências de frequência e de aproveitamento estabelecidas  para  os  estudantes  regulares,  terá  direito  ao  atestado  de  aprovação  no componente curricular. O aluno do IFPR que obtiver aprovação terá o referido componente curricular registrado em seu histórico escolar.
 
-- 34 Restaurante Jiquitaia - Restaurante 
+Caberá a coordenação do curso a publicação, a cada início de período letivo, comunicado com a relação de disciplinas e número de vagas disponíveis para o ingresso de aluno especial e os respectivos critérios de seleção.
 
-- 35 Churrascaria Rafain - Restaurante 36 GSP Administradora de Hotéis – Hotelaria 
+Ainda conforme a Resolução 055/2011 - CONSUP-IFPR, a seleção do aluno especial será realizada através de entrevista por pelo menos 1 (um) membro do colegiado do curso e pelo professor responsável pela disciplina, com registro em ata.
 
-Além das empresas citadas espera-se consolidar convênios com outros empreendimentos do setor, para a concretização das atividades de estágio. 
+## **Por Transferência**
 
-## 4.5 INTEGRAÇÃO COM AS ORGANIZAÇÕES PÚBLICAS, CIVIS E PARTICULARES 
+a) Transferência interna: transferência de estudante regularmente matriculado em curso do IFPR para outro curso no mesmo Campus ou em outro Campus do IFPR.
 
-## **4.5.1 Integração com as redes públicas de ensino e proposição de atividades práticas de ensino para licenciaturas** 
+b) Transferência externa: transferência disponibilizada para estudantes de outras instituições de educação da Rede Pública, somente a partir do 2º período letivo do curso, mediante a existência de vaga, seguindo os critérios divulgados em edital próprio.
 
-Não se aplica 
+c) Transferência ex offício: transferência de estudante de uma instituição para outra por motivo de mudança no domicílio, quando se tratar de servidor público federal civil ou militar estudante, ou seu dependente estudante. É requerida em razão de comprovada remoção ou transferência de ofício que acarrete mudança de domicílio para o município onde se situe a instituição recebedora, ou para localidade mais próxima desta.
 
-## **4.5.2 Integração com o sistema local e regional de saúde (SUS) e proposição de atividades práticas de ensino para áreas da saúde** 
+Com caráter socioeducativo e a finalidade de incentivar a permanência do estudante no curso, o IFPR visa propiciar ao estudante as condições básicas necessárias à continuidade de sua atividade  acadêmica,  tais  como:  moradia,  alimentação,  transporte;  por  meio  do  PACE  - PROGRAMA DE ASSISTÊNCIA COMPLEMENTAR AO ESTUDANTE (AUXÍLIO-MORADIA, AUXÍLIOTRANSPORTE E AUXÍLIO-ALIMENTAÇÃO).
 
-Não se aplica 
+Também há disponibilidade de auxílio evento, o que contribui de forma significativa para
 
-72 
+a formação profissional do estudante, permitindo a sua participação em eventos técnicos e científicos. A participação dos alunos, nestes eventos, será incentivada pelos professores e pelo Colegiado do Curso, através da divulgação de eventos e através da orientação de trabalhos. Estas atividades propiciarão a troca de conhecimentos, atualização em novas tecnologias, contatos profissionais, bem como a divulgação de trabalhos desenvolvidos no curso.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **5.1.1 Programas de Pesquisa, Extensão, Inovação, Inclusão Social, Monitoria e Bolsa-Atleta**
 
-## **4.5.3  Integração com os setores públicos, civis e privados** 
+O Curso Superior de Tecnologia em Gastronomia conta com a implementação de ações para valorização e envolvimento dos estudantes, para a redução da evasão escolar e para uma formação qualificada dos futuros gastrônomos, por meio da oferta de Bolsas do Instituto Federal do Paraná. A seguir seguem bolsas fomentadas por duas pró-reitoras, a PROEPPI e a PROENS.
 
-Quando se pensa em estimular a integração entre os alunos e colegiado do curso de gastronomia, é comum que se pense em profissionais que atuam em uma mesma equipe. 
+A Pró-Reitoria de Extensão, Pesquisa, Pós-Graduação e Inovação – PROEPPI tem como objetivo o planejamento, a estruturação e o desenvolvimento das políticas de incentivo às atividades  de  extensão  social  e  tecnológica,  pesquisa  científica  e  aplicada,  inovação  e propriedade intelectual e pós-graduação em toda rede formada pelos campi do IFPR. Os Programas de Bolsas da Pró Reitoria de Pesquisa Extensão e Inovação são:
 
-No entanto, uma instituição é sempre formada por mais de um setor e todos somam esforços para fazer o negócio acontecer. E é exatamente por essa razão que a integração entre departamentos e setores públicos, civis e privados é tão importante. 
+## **PIBIC**
 
-Todavia,  isso não  costuma  acontecer, pois  muitas  instituição  acabam  fazendo  seu trabalho  interno e  desenvolvendo suas atividades sem  dar  muita  importância  para  esses setores. Diferentemente o IFPR tem no seu lema, trabalhar em prol para a sociedade, pois como se trata já de uma instituição pública ele tem o dever em qualificar profissionais para a sociedade. Muitos dos profissionais serão empregados em empresas privadas ou civis, por isso que a integração entre esses setores é de extrema importância, pois esse relacionamento deve se fazer já no começo de cada tipo de curso e no decorrer dele. O curso de Gastronomia tem esse intuito, já que o aluno no segundo ano passa a começar interagir com as empresas em relação a estágios, cursos, treinamentos e parcerias para projetos e pesquisas, pois o curso pode elaborar novos produtos em parcerias com essas empresas e gerar no futuro empregos ou oportunidades de novos empreendedores. Diante disso se faz necessário ter essa integração com esses setores e ter parcerias fortes e sólidas para ter um melhor andamento do curso, dos alunos com a sociedade. 
+Programa  Institucional  de  Bolsas  de  Iniciação  Científica  do  Instituto  Federal  do  Paraná (PIBIC/IFPR) é um programa da Pró-reitoria de Extensão, Pesquisa e Inovação destinado a alunos do Ensino Superior que tem por finalidade despertar a vocação científica e incentivar talentos potenciais nos  alunos  mediante  sua participação em atividade de pesquisa orientada por pesquisador qualificado;
 
-## 4.6 TRABALHO DE CONCLUSÃO DE CURSO 
+## **Extensão**
 
-A  ideia  do  Trabalho  de  Conclusão  do  Curso  (TCC)  é  o  resultado  da  discussão  e aprofundamento  dos  componentes  curriculares  obrigatórios  e  não-obrigatórios  que  os acadêmicos vivenciarão durante os anos de formação, tais como as componentes curriculares, as atividades de iniciação científica, de extensão, de inovação, de monitoria, dos seminários, eventos científico-culturais, estudos curriculares, entre outros durante o desenvolvimento do curso. Para isto os alunos terão com componentes curriculares obrigatórios a metodologia de trabalhos  acadêmicos,  delineamentos  experimentais,  que  auxiliam  no  planejamento  e desenvolvimento progressivo do conhecimento. 
+O Programa Institucional de Bolsas de Extensão tem por objetivos principais: a) Apoiar o resgate e  a  valorização  dos  saberes  produzidos  nas  comunidades, reconhecendo  a  educação  em processos formais e não formais. b) Contribuir para a formação do estudante em seus aspectos técnico, tecnológico e humano. c) Considerar de forma holística a formação do jovem e do adulto - seu desenvolvimento para exercício da cidadania, sua inserção no mundo do trabalho e a  capacitação  necessária  à  gestão  de  seus  empreendimentos  individuais  e  coletivos.  d) Promover  a  participação  de  servidores  e  estudantes  em  atividades de  integração  com  a sociedade, constituindo relações pautadas pela cooperação, respeito e solidariedade entre a população, bem como o fortalecimento de ações inclusivas em todos os seus aspectos. e) Estímulo a políticas públicas locais, regionais e/ou nacionais que contribuam para a formação integral  de cidadãos  de todas  as idades, considerando  o pleno desenvolvimento de suas potencialidades oportunizando condições para sua autonomia intelectual, criativa e consciente
 
-O TCC no CST em Gastronomia terá caráter convergente entre ensino, pesquisa e extensão e será trabalhado na disciplina de Projeto de Conclusão de Curso, no 4° semestre. Essa disciplina tratará da organização de um projeto a ser proposto por um professor ou grupo de 
+de seus direitos sociais. f) Apoio a ações que permitam acesso da população aos bens materiais e culturais da humanidade. g) Incentivar a interação entre o conhecimento acadêmico e o empírico, contribuindo com as políticas públicas vigentes. h) Colaborar com a articulação entre ensino, pesquisa, extensão e inovação e incrementar o apoio aos projetos de extensão.
 
-73 
+## **IFTECH**
 
-**==> picture [472 x 55] intentionally omitted <==**
+A Feira de Inovação Tecnológica do IFPR (IFTECH) representa um espaço de apresentações e exposição de protótipos e produtos desenvolvidos pelos estudantes do IFPR de todos os níveis de formação, oferecendo uma rica oportunidade de trocas de experiências ligadas à execução de protótipos e produtos científicos, tecnológicos e inovadores.
 
-professores, que poderá abranger as seguintes possibilidades: 
+## **PIAP**
 
-- Desenvolvimento de projetos de empreendimentos gastronômicos, sob orientação de um professor, que focará na criação de um negócio de alimentos e bebidas que considere aspectos reais e a viabilidade do mesmo ou 
+O Programa Institucional de Apoio à Pesquisa (PIAP) do Instituto Federal do Paraná é um programa da Pró-reitoria de Extensão, Pesquisa e Inovação (PROEPI) que tem por finalidade fomentar  projetos  de  pesquisa  desenvolvidos  no  IFPR,  bem  como  custear  atividades relacionadas aos mesmos.
 
-- Desenvolvimento  de projetos de pesquisa, produtos e/ou  serviços  em gastronomia, com  base  em  atividades,  ensino,  pesquisa  e/ou  extensão promovidos e orientados por docentes do colegiado e com a integração de alunos. 
+## **PIBIN**
 
-O material desenvolvido nesta disciplina contará como trabalho de conclusão de curso, e será regulamentado pelo colegiado. 
+O Programa Institucional de Bolsas de Incentivo ao Empreendedorismo Inovador (PIBIN) do Instituto Federal do Paraná tem por finalidade estimular o desenvolvimento tecnológico, a inovação, o empreendedorismo e ações de melhoramento de 32 produtos e processos através da  inserção  de  alunos  em  Programas  de  Iniciação  Científica  com  foco  em  Inovação  e Empreendedorismo.
 
-Dessa  forma,  o  TCC  compreende  a  síntese  dos  conhecimentos  elaborados  pelo acadêmico no decorrer do seu processo de graduação, com submissão e defesa pública diante de banca examinadora. O TCC deverá seguir as seguintes etapas: elaboração de Projeto de Pesquisa, execução do projeto de pesquisa, elaboração do artigo científico ou de trabalho de inovação e defesa pública diante de banca examinadora, de acordo com as normas específicas do Curso de Tecnologia em Gastronomia (Apêndice B). 
+## **PIBITI**
 
-## 4.7 ATIVIDADES COMPLEMENTARES 
+O Programa Institucional de Bolsas de Iniciação em Desenvolvimento Tecnológico e Inovação (PIBITI)  tem  por  objetivo  estimular  os  jovens  dos  cursos  de  graduação  nas  atividades, metodologias, conhecimentos e práticas próprias ao desenvolvimento tecnológico e processos de inovação.
 
-As  atividades  complementares  são  componentes  curriculares  que  possibilitam  o reconhecimento, por avaliação, de habilidades, conhecimentos e competências e atitudes do aluno inclusive de habilidades adquiridas fora do ambiente escolar. 
+## **PIBEX**
 
-Neste sentido, o colegiado do curso entende que seja fundamental o aluno realizar as atividades complementares de forma obrigatória. A carga horária das atividades complementares serão de 100 (cem) horas de acordo com as atividades descritas. Os alunos deverão apresentar seus comprovantes através de documentos reconhecidos (declarações, certificados entre outros) a secretaria para que possam ser submetidas a reunião do colegiado do  Curso,  aprovadas  e  arquivadas  (Apêndice  C),  e  considera-se  atividade  complementar pertinente ao CST em Gastronomia os seguintes itens: 
+O  Programa  Institucional  de  Bolsas  de  Extensão  da  Fundação  Araucária  –  PIBEX-FA  visa contribuir para a formação profissional e cidadã de seus estudantes de graduação por meio da sua participação em projetos de extensão universitária, através da concessão de bolsas. As atividades serão acompanhadas e supervisionadas por docentes da instituição no âmbito de projetos que serão selecionados por meio deste edital.
 
-- Atividade de trabalho esporádica, desde que na área de gastronomia e de acordo com a legislação trabalhista em vigor; 
+## **PROEQ**
 
-- Eventos e atividades gastronômicas realizadas no IFPR ou sob orientação dos docentes do curso; 
+O Programa Institucional de Apoio à Aquisição de Equipamentos para Pesquisa, Desenvolvimento,  Extensão  e  Inovação  (PROEQ)  visa  o  suprimento  da  necessidade  de equipamentos de uso compartilhado e destinados à melhoria da infraestrutura nos campi do
 
-- Eventos e atividades gastronômicas externas; 
+IFPR, em todas as áreas do conhecimento.
 
-- Atividade de bolsista ou voluntariado em projetos de ensino, pesquisa e extensão do campus; 
+Já a Pró-Reitoria de Ensino (PROENS) é responsável pelo planejamento, superintendência, coordenação e fomento das políticas e acompanhamento da execução das atividades de ensino, na área de educação profissional e tecnológica, de graduação e pósgraduação,  articuladas  com  a  extensão,  a  pesquisa,  o  empreendedorismo  e  a  inovação tecnológica no âmbito do IFPR. A Assistência Estudantil é um conjunto de ações e programas, implantados pela Diretoria de Assuntos Estudantis e Atividades Especiais (DAES) da Pró-Reitoria de Ensino (PROENS), voltados ao estudante, para garantir seu acesso, permanência e êxito no Instituto Federal do Paraná (IFPR). Esses programas, em sua maioria, são voltados àqueles que se encontram em situação de vulnerabilidade socioeconômica. Entende-se que determinado indivíduo ou família encontra-se em situação de vulnerabilidade socioeconômica quando é/foi submetido a processos de exclusão, discriminação ou enfraquecimento de seu grupo social, tendo sua capacidade de reação limitada e suas oportunidades para superação restritas. Tal situação é decorrente de desigualdade social e financeira, privação e/ou fragilização de vínculos de pertencimento social ou afetivo relacionais. As bolsas provenientes dos programas  da Assistência Estudantil são:
 
-- Participação em eventos científicos ou técnicos do eixo turismo, hospitalidade e lazer; 
+## **Monitoria**
 
-- Cursos de curta duração (até 100h) do eixo turismo, hospitalidade e lazer; Todas  as  atividades  complementares  deverão  ser  comprovadas  com  certificados, 
+O  Programa  de  Monitoria  é  voltado  àqueles  estudantes  que  têm  bom  domínio  dos componentes  curriculares,  com  disposição  para  auxiliar  os  colegas  no  processo  ensino aprendizagem, sob orientação do professor. As vagas são disponibilizadas para os componentes curriculares indicados pelos campi. O edital de seleção, contendo o período de inscrição e as regras específicas do programa, é publicado no início do período letivo.
 
-74 
+## **PBIS - Programa de Bolsas Acadêmicas de Inclusão Social**
 
-**==> picture [472 x 55] intentionally omitted <==**
+O Programa de Bolsas Acadêmicas de Inclusão Social (PBIS) proporciona a participação de estudantes, em vulnerabilidade socioeconômica, em projetos acadêmicos sob a orientação de servidores da instituição. As atividades dos projetos podem ser desenvolvidas nas dependências do campi ou externamente, respeitada a carga horária de 06 horas semanais.
 
-declarações, atestados ou documentos formais que comprovem a realização da mesma, e deverão ser entregues ao coordenador do curso somente no quarto semestre letivo. 
+## **Estudante Atleta**
 
-## **5.  POLÍTICAS DE ATENDIMENTO AOS ESTUDANTES** 
+Os estudantes que têm interesse na área esportiva podem se inscrever no Programa Estudante Atleta (PEA). De acordo com os projetos apresentados pelos professores de educação física, são disponibilizadas vagas tanto para modalidades esportivas individuais quanto para modalidades coletivas. Preferencialmente, são esses atletas que participam dos jogos institucionais, regionais e nacionais. Todos os estudantes podem se inscrever para o programa, mas somente podem receber bolsa aqueles que estiverem em situação de vulnerabilidade socioeconômica. O edital de seleção é publicado no início do período letivo.5.1.2 Aproveitamento de Estudos Anteriores
 
-## 5.1 FORMAS DE ACESSO E PERMANÊNCIA 
+## **5.1.3  Certificação de Conhecimentos Anteriores**
 
-O presente projeto possui suas referências na Lei de Diretrizes e Bases da Educação Nacional – LDB – Lei nº 9394/96; na Lei 11.892/2008 que institui a Rede Federal de Educação Profissional,  Científica  e  Tecnológica,  cria  os  Institutos  Federais  de  Educação,  Ciência  e Tecnologia; nas Diretrizes Curriculares para os cursos de graduação em Engenharia – Resolução CNE/CES nº 11/02; na Resolução 055/2011 - CONSUP-IFPR, que dispõe sobre a Organização Didático-Pedagógica  da Educação  Superior  no  Âmbito do Instituto  Federal  do Paraná;  na Resolução CNE/CES nº 11/02 que dispõe sobre carga horária mínima e procedimentos relativos a integralização e duração dos cursos de graduação, bacharelados, na modalidade presencial. As formas de acesso ao curso são: 
+O aproveitamento de estudos anteriores compreende a possibilidade de aproveitamento de componentes curriculares cursadas com aprovação no componente curricular em outro curso de ensino superior.
 
-## **Processo Seletivo para os cursos regulares do Ensino Superior** 
+O pedido de aproveitamento de estudos deverá ser avaliado por Comissão de Análise composta de professores da área de conhecimento, seguindo os critérios:
 
-Conforme  Art.  38  da  Resolução  055/2011  -  CONSUP-IFPR,  o  ingresso  nos  cursos regulares do Ensino Superior do IFPR se faz mediante processo seletivo público, a partir de critérios e normas definidas em edital específico. 
+- Correspondência entre as ementas, conteúdo programático e a carga horária cursados na instituição de origem. A carga horária cursada não deverá ser inferior a 75% daquela indicada na componente curricular do curso do IFPR;
 
-## **Processos Simplificados para Vagas Remanescentes** 
+- Além da correspondência entre  as componentes curriculares o processo de aproveitamento  de  estudos  poderá  envolver  avaliação  teórico  e/ou  prática acerca do conhecimento a ser aproveitado.
 
-Conforme  Art.  39  da  Resolução  055/2011  -  CONSUP-IFPR,  o  Processo  Seletivo Simplificado destina-se ao preenchimento das vagas remanescentes do primeiro período letivo do curso. 
+## **5.1.4  Expedição de Diplomas e Certificados**
 
-Vagas remanescentes são aquelas não ocupadas após realizadas todas as chamadas do processo  seletivo  e/ou  aquelas  geradas  pela  não  confirmação  da  matrícula  no  prazo estabelecido. 
+O estudante que frequentar todos os módulos/unidades curriculares previstos no curso, tendo obtido aproveitamento em todos eles, frequência mínima de setenta e cinco por cento (75%) das horas-aula, ter o Trabalho de Conclusão de Curso aprovado, ter cumprido o estágio supervisionado  e  carga  horária  das  atividades  complementares,  receberá  o  diploma  de Tecnológo em Gastronomia que será expedido pelo Instituto Federal do Paraná, o qual será conferido em sessão pública presidida pelo Reitor do IFPR, ou seu representante.
 
-O referido processo seletivo simplificado será definido em edital próprio do campus Foz do Iguaçu, com as devidas orientações da PROENS. 
+## **5.1.5  Acessibilidade**
 
-## **Sistema de Seleção Unificada/SiSU** 
+Visando a inserção e o atendimento aos alunos com necessidades educacionais especiais nos cursos de nível básico, técnico e tecnológico, o IFPR possui o Núcleo de Atendimento às Pessoas com Necessidades Educacionais Específicas (NAPNE). O núcleo é responsável pela preparação da instituição para receber pessoas com deficiência nos cursos de Formação Inicial e Continuada (FIC), Cursos Técnicos e Tecnológicos (Lato Sensu e Stricto Sensu).  O objetivo é de fomentar a implantação e consolidação de políticas inclusivas no Instituto, por meio da garantia do acesso, permanência e êxito do estudante com necessidades educacionais específicas IFPR, nas áreas de ensino, pesquisa e extensão.
 
-Segundo o Art. 40 da Resolução 055/2011 - CONSUP-IFPR - O Sistema de Seleção Unificada/SiSU é destinado ao preenchimento de vagas dos cursos superiores de graduação do IFPR e é aberto para a participação de candidatos que concluíram o Ensino Médio ou os estudos equivalentes. 
+Atualmente, o NAPNE no IFPR é vinculado à Pró-Reitoria de Ensino (Proens), que tem por finalidade desenvolver políticas de apoio estudantil através de ações que promovam a melhoria do desempenho acadêmico. O NAPNE visa criar na Instituição a cultura da “educação para a convivência”, a aceitação da diversidade, e, principalmente, buscar a quebra das barreiras arquitetônicas, educacionais e atitudinais.
 
-O Sistema de Seleção Unificada/SiSU, é promovido pelo Ministério da Educação/MEC e utilizará a nota do Exame Nacional do Ensino Médio/ENEM do ano correspondente ao ano da edição do SiSU como base para a classificação dos candidatos inscritos no referido sistema que 
+Em termos de acessibilidade física, o campus Foz do Iguaçu possui as seguintes estruturações:
 
-75 
+   - Sanitários no bloco novo, adequados a pessoas com necessidades específicas;
 
-**==> picture [472 x 55] intentionally omitted <==**
+- Rampas e corredores largos, facilitando a locomoção e acesso aos vários ambientes.
 
-indicaram os cursos do IFPR. Após seleção, o Campus Foz do Iguaçu publicará o resultado Edital próprio  e  a  validade  do  Processo  Seletivo  restringir-se-á  ao  período  letivo  que  esteja expressamente referido no edital. 
+- O campus está em expansão de sua estrutura física e está se adaptando para proporcionar
 
-## **Estudante Especial** 
+- condições de acesso e utilização de todos os seus ambientes para pessoas portadoras de deficiência ou com mobilidade reduzida, conforme o Decreto nº 5.296/2004.
 
-O estudante matriculado em Curso Superior do IFPR ou de outra Instituição de Ensino Superior, ou formado em nível  superior  poderá cursar no âmbito do IFPR, componentes curriculares em outro curso de mesmo nível de ensino, sendo denominado aluno especial. Conforme Art. 50 da Resolução 055/2011 - CONSUP-IFPR - São requisitos básicos para matrícula de aluno especial: 
+## **5.1.6  Educação Inclusiva**
 
-- I. Compatibilidade de horário; 
+A Educação Inclusiva implica no desenvolvimento da sociedade como um todo, respeitando a individualidade e proporcionando que cada um seja sujeito na construção da aprendizagem, bem como cidadão apto ao exercício de cidadania.
 
-- II. Existência de vaga na disciplina pretendida. 
+A inclusão é um aspecto que precisa está presente em todas as instâncias do convívio em sociedade, seja na família, na escola ou na comunidade no sentido de evidenciar as potencialidades e minimizar as dificuldades.
 
-O aluno especial, desde que cumpridas as exigências de frequência e de aproveitamento estabelecidas  para  os  estudantes  regulares,  terá  direito  ao  atestado  de  aprovação  no componente curricular. O aluno do IFPR que obtiver aprovação terá o referido componente curricular registrado em seu histórico escolar. 
+A inclusão social, portanto é um processo que contribui para a construção de um novo tipo de sociedade através de transformações pequenas e grandes, nos ambientes físico (espaços internos e externos. Equipamentos, aparelhos e utensílios, mobiliários e meios de transporte) e na mentalidade de todas as pessoas, portanto também do próprio portador de necessidades especiais (SASSAKI, 2010).
 
-Caberá a coordenação do curso a publicação, a cada início de período letivo, comunicado com a relação de disciplinas e número de vagas disponíveis para o ingresso de aluno especial e os respectivos critérios de seleção. 
+A superação das barreiras arquitetônicas, atitudinais e pedagógicas é um dos desafios da Instituição no que diz respeito a educação inclusiva. No entanto, várias ações estão sendo planejadas e executadas no sentido de facilitar o acesso e permanência das pessoas com deficiência e/ou necessidades educacionais específicas.
 
-Ainda conforme a Resolução 055/2011 - CONSUP-IFPR, a seleção do aluno especial será realizada através de entrevista por pelo menos 1 (um) membro do colegiado do curso e pelo professor responsável pela disciplina, com registro em ata. 
+Em  termos  de  acessibilidade  física,  o  Campus  Foz  do  Iguaçu  possui  as  seguintes estruturas:
 
-## **Por Transferência** 
+Sanitários no bloco didático, adequados a pessoas com necessidades específicas.
 
-a) Transferência interna: transferência de estudante regularmente matriculado em curso do IFPR para outro curso no mesmo Campus ou em outro Campus do IFPR. 
+Rampas e corredores largos, facilitando a locomoção e acesso aos vários ambientes.
 
-b) Transferência externa: transferência disponibilizada para estudantes de outras instituições de educação da Rede Pública, somente a partir do 2º período letivo do curso, mediante a existência de vaga, seguindo os critérios divulgados em edital próprio. 
+Bloco Administrativo: sanitários adaptados, elevador de acesso, escadas sinalizadas em braille e corredores e portas largas.
 
-c) Transferência ex offício: transferência de estudante de uma instituição para outra por motivo de mudança no domicílio, quando se tratar de servidor público federal civil ou militar estudante, ou seu dependente estudante. É requerida em razão de comprovada remoção ou transferência de ofício que acarrete mudança de domicílio para o município onde se situe a instituição recebedora, ou para localidade mais próxima desta. 
+O  Campus  está  em  expansão  de  sua  estrutura  física  e  está  se  adaptando  para proporcionar condições de acesso e utilização de todos os seus ambientes para pessoas com necessidades específicas ou com mobilidade reduzida, conforme o Decreto nº 5.296/2004 e a Lei Federal nº 13146/2015 e desse modo permitir em sua arquitetura condições para atender estudantes com necessidades especiais, tais como transporte coletivo localizado em frente ao campus, estrutura de acesso em rampas facilitando o acesso às salas de aula, serviço de atendimento a pessoas com deficiência auditiva, prestado por tradutores e intérpretes de Libras
 
-Com caráter socioeducativo e a finalidade de incentivar a permanência do estudante no curso, o IFPR visa propiciar ao estudante as condições básicas necessárias à continuidade de sua atividade  acadêmica,  tais  como:  moradia,  alimentação,  transporte;  por  meio  do  PACE  - PROGRAMA DE ASSISTÊNCIA COMPLEMENTAR AO ESTUDANTE (AUXÍLIO-MORADIA, AUXÍLIOTRANSPORTE E AUXÍLIO-ALIMENTAÇÃO). 
+ou pessoas capacitadas em Língua Brasileira de Sinais.
 
-Também há disponibilidade de auxílio evento, o que contribui de forma significativa para 
+Contemplando  a Lei Nº 12.764 de 27 de dezembro de 2012, que trata da proteção da pessoa com transtorno do espectro autista, está garantido o acesso e permanência  à educação e ao ensino profissionalizante com base também na Lei Nº 13.409 de 20 de dezembro de 2016, que dispõe sobre a reserva de vagas para pessoas com deficiência nos cursos técnico de nível médio e superior das instituições federais de ensino.
 
-76 
+Uma das ações desenvolvidas para promover a educação inclusiva é a consolidação do NAPNE – Núcleo de Atendimento a Pessoas com Necessidades Educacionais Específicas. O NAPNE é um espaço para Atendimento Educacional Especializado (AEE) e recurso multifuncional e pedagógico, sendo, portanto, uma ação do sistema de ensino no sentido de oferecer suporte às  necessidades  educacionais  dos  alunos,  favorecendo  seu  acesso  ao  conhecimento  e desenvolvendo competências e habilidades próprias. O núcleo também consolida as políticas inclusivas no Instituto por meio da garantia de acesso, através das cotas de vagas destinadas a esse  público,  oferecendo  as  possibilidades  de  permanência  e  êxito  do  estudante  com necessidades educacionais específicas no IFPR, nas áreas de ensino, pesquisa e extensão, fomentando projetos e ações de conscientização a toda comunidade acadêmica, sobre o direito de acesso a educação técnica, profissional e tecnológica às pessoas com deficiência e ou necessidades específicas educacionais.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **5.1.7  Mobilidade Estudantil e Internacionalização**
 
-a formação profissional do estudante, permitindo a sua participação em eventos técnicos e científicos. A participação dos alunos, nestes eventos, será incentivada pelos professores e pelo Colegiado do Curso, através da divulgação de eventos e através da orientação de trabalhos. Estas atividades propiciarão a troca de conhecimentos, atualização em novas tecnologias, contatos profissionais, bem como a divulgação de trabalhos desenvolvidos no curso. 
+Entende-se por mobilidade escolar e acadêmica o processo pelo qual o estudante desenvolve atividades em instituição de ensino distinta da que mantém vínculo acadêmico escolar/acadêmico. A mobilidade acadêmica é caracterizada como: nacional e internacional. A Instrução Interna de Procedimentos nº 02/2014- IFPR/PROENS cria e regulamenta as normas e procedimentos para a Mobilidade Estudantil do Instituto Federal do Paraná.
 
-## **5.1.1 Programas de Pesquisa, Extensão, Inovação, Inclusão Social, Monitoria e Bolsa-Atleta** 
+A mobilidade escolar/acadêmica poderá ocorrer por meio de adesão a programas do Governo Federal e através de convênio/parceria interinstitucional.
 
-O Curso Superior de Tecnologia em Gastronomia conta com a implementação de ações para valorização e envolvimento dos estudantes, para a redução da evasão escolar e para uma formação qualificada dos futuros gastrônomos, por meio da oferta de Bolsas do Instituto Federal do Paraná. A seguir seguem bolsas fomentadas por duas pró-reitoras, a PROEPPI e a PROENS. 
+O IFPR, por meio de sua Coordenadoria de Relações Internacionais, busca promover a internacionalização ampla do IFPR, através da formulação de políticas, da interlocução com parceiros  nacionais  e  internacionais  e  do  apoio  às  ações,  projetos  e  programas  de internacionalização dos _campi_ e outros setores.
 
-A Pró-Reitoria de Extensão, Pesquisa, Pós-Graduação e Inovação – PROEPPI tem como objetivo o planejamento, a estruturação e o desenvolvimento das políticas de incentivo às atividades  de  extensão  social  e  tecnológica,  pesquisa  científica  e  aplicada,  inovação  e propriedade intelectual e pós-graduação em toda rede formada pelos campi do IFPR. Os Programas de Bolsas da Pró Reitoria de Pesquisa Extensão e Inovação são: 
+O  governo  federal  prevê  um  programa  de  mobilidade  acadêmica  internacional,  o Programa de Mobilidade Acadêmica em Cursos Acreditados (MARCA), gerenciado pela CAPES e pela SESU. Este programa possibilita o intercâmbio de docentes e alunos por um semestre, em cursos avaliados pelo Sistema de Acreditação Regional de Cursos Universitários do MERCOSUL (ARCU-SUL).
 
-## **PIBIC** 
+Outra possibilidade em termos de mobilidade acadêmica existe a partir do convênio firmado em 2011 pela Associação Nacional de Dirigentes das Instituições Federais de Ensino Superior (ANDIFES).
 
-Programa  Institucional  de  Bolsas  de  Iniciação  Científica  do  Instituto  Federal  do  Paraná (PIBIC/IFPR) é um programa da Pró-reitoria de Extensão, Pesquisa e Inovação destinado a alunos do Ensino Superior que tem por finalidade despertar a vocação científica e incentivar talentos potenciais nos  alunos  mediante  sua participação em atividade de pesquisa orientada por pesquisador qualificado; 
+A participação do curso de Tecnologia em Gastronomia dependerá da adesão do IFPR aos programas de mobilidade acadêmica mencionados.
 
-## **Extensão** 
+## **6. CORPO DOCENTE E CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO**
 
-O Programa Institucional de Bolsas de Extensão tem por objetivos principais: a) Apoiar o resgate e  a  valorização  dos  saberes  produzidos  nas  comunidades, reconhecendo  a  educação  em processos formais e não formais. b) Contribuir para a formação do estudante em seus aspectos técnico, tecnológico e humano. c) Considerar de forma holística a formação do jovem e do adulto - seu desenvolvimento para exercício da cidadania, sua inserção no mundo do trabalho e a  capacitação  necessária  à  gestão  de  seus  empreendimentos  individuais  e  coletivos.  d) Promover  a  participação  de  servidores  e  estudantes  em  atividades de  integração  com  a sociedade, constituindo relações pautadas pela cooperação, respeito e solidariedade entre a população, bem como o fortalecimento de ações inclusivas em todos os seus aspectos. e) Estímulo a políticas públicas locais, regionais e/ou nacionais que contribuam para a formação integral  de cidadãos  de todas  as idades, considerando  o pleno desenvolvimento de suas potencialidades oportunizando condições para sua autonomia intelectual, criativa e consciente 
+## 6.1. CORPO DOCENTE
 
-77 
+## **6.1.1 Atribuições do Coordenador**
 
-**==> picture [472 x 55] intentionally omitted <==**
+A  coordenação  do  curso  é  o  órgão  é  responsável  por  responder  acadêmica  e administrativamente pelo curso no âmbito do campus. As atribuições da coordenação do curso Superior  de  Tecnologia  em  Gastronomia  estão  descritas  abaixo  conforme  manual  de Competências do IFPR:
 
-de seus direitos sociais. f) Apoio a ações que permitam acesso da população aos bens materiais e culturais da humanidade. g) Incentivar a interação entre o conhecimento acadêmico e o empírico, contribuindo com as políticas públicas vigentes. h) Colaborar com a articulação entre ensino, pesquisa, extensão e inovação e incrementar o apoio aos projetos de extensão. 
+- Cumprir e fazer cumprir as normas e procedimentos institucionais;
 
-## **IFTECH** 
+- Planejar ação didático/pedagógica dos cursos com a Coordenação de Ensino/Direção de Ensino;
 
-A Feira de Inovação Tecnológica do IFPR (IFTECH) representa um espaço de apresentações e exposição de protótipos e produtos desenvolvidos pelos estudantes do IFPR de todos os níveis de formação, oferecendo uma rica oportunidade de trocas de experiências ligadas à execução de protótipos e produtos científicos, tecnológicos e inovadores. 
+- Executar as deliberações do CONSAP e CONSUP;
 
-## **PIAP** 
+- Orientar  o  corpo discente  e  docente  dos cursos sob sua coordenação  sobre  currículo, frequência, avaliação e demais atividades de ensino;
 
-O Programa Institucional de Apoio à Pesquisa (PIAP) do Instituto Federal do Paraná é um programa da Pró-reitoria de Extensão, Pesquisa e Inovação (PROEPI) que tem por finalidade fomentar  projetos  de  pesquisa  desenvolvidos  no  IFPR,  bem  como  custear  atividades relacionadas aos mesmos. 
+- Organizar e registrar por meio de atas, reuniões com os docentes do curso;
 
-## **PIBIN** 
+- Supervisionar situações acordadas em reuniões:
 
-O Programa Institucional de Bolsas de Incentivo ao Empreendedorismo Inovador (PIBIN) do Instituto Federal do Paraná tem por finalidade estimular o desenvolvimento tecnológico, a inovação, o empreendedorismo e ações de melhoramento de 32 produtos e processos através da  inserção  de  alunos  em  Programas  de  Iniciação  Científica  com  foco  em  Inovação  e Empreendedorismo. 
+- Assessorar a coordenação de ensino na fixação dos horários das aulas nos cursos ofertados;
 
-## **PIBITI** 
+- Planejar em conjunto com a Coordenação de Ensino/Direção de Ensino as dependências do curso;
 
-O Programa Institucional de Bolsas de Iniciação em Desenvolvimento Tecnológico e Inovação (PIBITI)  tem  por  objetivo  estimular  os  jovens  dos  cursos  de  graduação  nas  atividades, metodologias, conhecimentos e práticas próprias ao desenvolvimento tecnológico e processos de inovação. 
+- Presidir  a  comissão  de  avaliação  dos  pedidos  de  dispensa  e  opinar  na  transferência, verificando a equivalência dos estudos feitos, tomando as providências cabíveis;
 
-## **PIBEX** 
+- Atender os pais juntamente com a Coordenação de Ensino;
 
-O  Programa  Institucional  de  Bolsas  de  Extensão  da  Fundação  Araucária  –  PIBEX-FA  visa contribuir para a formação profissional e cidadã de seus estudantes de graduação por meio da sua participação em projetos de extensão universitária, através da concessão de bolsas. As atividades serão acompanhadas e supervisionadas por docentes da instituição no âmbito de projetos que serão selecionados por meio deste edital. 
+- Exercer o papel de "ouvidor" de alunos e professores em assuntos relacionados ao curso;
 
-## **PROEQ** 
+- Zelar pelos laboratórios, materiais e equipamentos da sua coordenação específica;
 
-O Programa Institucional de Apoio à Aquisição de Equipamentos para Pesquisa, Desenvolvimento,  Extensão  e  Inovação  (PROEQ)  visa  o  suprimento  da  necessidade  de equipamentos de uso compartilhado e destinados à melhoria da infraestrutura nos campi do 
+- Supervisionar  o  preenchimento  do  diário  de  classe  e  solicitar  correções  caso  sejam necessárias, assinando-os e encaminhando para a Coordenação de Ensino.
 
-78 
+• Implementação e manutenção dos programas de Assistência Estudantil mantidos pelo IFPR no Campus, garantindo desta forma, a permanência e o êxito no processo formativo do aluno, através de atividades como:
 
-**==> picture [472 x 55] intentionally omitted <==**
+   - Divulgar os editais para a comunidade acadêmica (coordenadores, professores e alunos);
 
-IFPR, em todas as áreas do conhecimento. 
+   - Preencher relatórios e planilhas (mensais e/ou semanais e/ou anuais);
 
-Já a Pró-Reitoria de Ensino (PROENS) é responsável pelo planejamento, superintendência, coordenação e fomento das políticas e acompanhamento da execução das atividades de ensino, na área de educação profissional e tecnológica, de graduação e pósgraduação,  articuladas  com  a  extensão,  a  pesquisa,  o  empreendedorismo  e  a  inovação tecnológica no âmbito do IFPR. A Assistência Estudantil é um conjunto de ações e programas, implantados pela Diretoria de Assuntos Estudantis e Atividades Especiais (DAES) da Pró-Reitoria de Ensino (PROENS), voltados ao estudante, para garantir seu acesso, permanência e êxito no Instituto Federal do Paraná (IFPR). Esses programas, em sua maioria, são voltados àqueles que se encontram em situação de vulnerabilidade socioeconômica. Entende-se que determinado indivíduo ou família encontra-se em situação de vulnerabilidade socioeconômica quando é/foi submetido a processos de exclusão, discriminação ou enfraquecimento de seu grupo social, tendo sua capacidade de reação limitada e suas oportunidades para superação restritas. Tal situação é decorrente de desigualdade social e financeira, privação e/ou fragilização de vínculos de pertencimento social ou afetivo relacionais. As bolsas provenientes dos programas  da Assistência Estudantil são: 
+- Acompanhar a coordenação de Ensino na supervisão dos registros de frequência;
 
-## **Monitoria** 
+- Acompanhar a revisão e atualização dos PPC;
 
-O  Programa  de  Monitoria  é  voltado  àqueles  estudantes  que  têm  bom  domínio  dos componentes  curriculares,  com  disposição  para  auxiliar  os  colegas  no  processo  ensino aprendizagem, sob orientação do professor. As vagas são disponibilizadas para os componentes curriculares indicados pelos campi. O edital de seleção, contendo o período de inscrição e as regras específicas do programa, é publicado no início do período letivo. 
+- Acompanhar novas propostas de cursos e auxiliar na elaboração dos PPC;
 
-## **PBIS - Programa de Bolsas Acadêmicas de Inclusão Social** 
+- Elaborar calendário acadêmico;
 
-O Programa de Bolsas Acadêmicas de Inclusão Social (PBIS) proporciona a participação de estudantes, em vulnerabilidade socioeconômica, em projetos acadêmicos sob a orientação de servidores da instituição. As atividades dos projetos podem ser desenvolvidas nas dependências do campi ou externamente, respeitada a carga horária de 06 horas semanais. 
+- Auxiliar a coordenação de Ensino/Coordenação de Curso na elaboração dos horários de aulas;
 
-## **Estudante Atleta** 
+- Elaborar, revisar e acompanhar os projetos pedagógicos do curso;
 
-Os estudantes que têm interesse na área esportiva podem se inscrever no Programa Estudante Atleta (PEA). De acordo com os projetos apresentados pelos professores de educação física, são disponibilizadas vagas tanto para modalidades esportivas individuais quanto para modalidades coletivas. Preferencialmente, são esses atletas que participam dos jogos institucionais, regionais e nacionais. Todos os estudantes podem se inscrever para o programa, mas somente podem receber bolsa aqueles que estiverem em situação de vulnerabilidade socioeconômica. O edital de seleção é publicado no início do período letivo.5.1.2 Aproveitamento de Estudos Anteriores 
+- Supervisionar  os  planos  de  ensino  docente  e  solicitar  correções,  caso  seja  necessário, assinando-os e encaminhando-os à coordenação de ensino;
 
-79 
+- Articular a integração entre as áreas de base nacional comum e de formação específica;
 
-**==> picture [472 x 55] intentionally omitted <==**
+- Elaborar, com o auxílio dos docentes, termos de referências, especificações, planilhas e memoriais, para suprimento de materiais, obras, serviços e equipamentos as necessidades do curso;
 
-## **5.1.3  Certificação de Conhecimentos Anteriores** 
+- Acompanhar comissões de avaliação de curso, bem como fornecer informações do curso solicitadas pelos órgãos da Reitoria e também pelas Seções do MEC;
 
-O aproveitamento de estudos anteriores compreende a possibilidade de aproveitamento de componentes curriculares cursadas com aprovação no componente curricular em outro curso de ensino superior. 
+- Desempenhar outras atividades inerentes à unidade, função ou cargo, não previstas neste manual, mas de interesse da Administração.
 
-O pedido de aproveitamento de estudos deverá ser avaliado por Comissão de Análise composta de professores da área de conhecimento, seguindo os critérios: 
+## **6.1.2 Experiência do Coordenador**
 
-- Correspondência entre as ementas, conteúdo programático e a carga horária cursados na instituição de origem. A carga horária cursada não deverá ser inferior a 75% daquela indicada na componente curricular do curso do IFPR; 
+## **6.1.3 Núcleo Docente Estruturante (NDE)**
 
-- Além da correspondência entre  as componentes curriculares o processo de aproveitamento  de  estudos  poderá  envolver  avaliação  teórico  e/ou  prática acerca do conhecimento a ser aproveitado. 
+O  Núcleo  Docente  Estruturante  NDE  constitui  segmento  da  estrutura  de  gestão acadêmica de cada curso de graduação, com atribuições consultivas, propositivas e avaliativas sobre matéria de natureza acadêmica, responsável pela criação, implementação e consolidação dos Projetos Pedagógicos de cada curso (RESOLUÇÃO Nº 08/11 do IFPR).
 
-## **5.1.4  Expedição de Diplomas e Certificados** 
+A  composição  do  Núcleo  Docente  Estruturante  NDE  do  curso  de  Tecnologia  em Gastronomia segue a normatização expressa pelos Artigos 3º e 4º da Resolução Nº 08/11 do IFPR:
 
-O estudante que frequentar todos os módulos/unidades curriculares previstos no curso, tendo obtido aproveitamento em todos eles, frequência mínima de setenta e cinco por cento (75%) das horas-aula, ter o Trabalho de Conclusão de Curso aprovado, ter cumprido o estágio supervisionado  e  carga  horária  das  atividades  complementares,  receberá  o  diploma  de Tecnológo em Gastronomia que será expedido pelo Instituto Federal do Paraná, o qual será conferido em sessão pública presidida pelo Reitor do IFPR, ou seu representante. 
+Art. 3º Cada Núcleo Docente Estruturante é constituído: I – pelo Coordenador do Curso que o preside;
 
-## **5.1.5  Acessibilidade** 
+II – por, pelo menos, trinta por cento (30%) dos docentes efetivos atuantes no curso. Art. 4º Os docentes componentes do Núcleo Docente Estruturante são designados por Ato Especial do Reitor, específico para cada curso, atendidas as seguintes condições: I – cem por cento (100%) devem ser possuidores de titulação acadêmica em nível de Pós-graduação Stricto Sensu;
 
-Visando a inserção e o atendimento aos alunos com necessidades educacionais especiais nos cursos de nível básico, técnico e tecnológico, o IFPR possui o Núcleo de Atendimento às Pessoas com Necessidades Educacionais Específicas (NAPNE). O núcleo é responsável pela preparação da instituição para receber pessoas com deficiência nos cursos de Formação Inicial e Continuada (FIC), Cursos Técnicos e Tecnológicos (Lato Sensu e Stricto Sensu).  O objetivo é de fomentar a implantação e consolidação de políticas inclusivas no Instituto, por meio da garantia do acesso, permanência e êxito do estudante com necessidades educacionais específicas IFPR, nas áreas de ensino, pesquisa e extensão. 
+II – Cinquenta por cento (50%) devem possuir título de Doutor;
 
-Atualmente, o NAPNE no IFPR é vinculado à Pró-Reitoria de Ensino (Proens), que tem por finalidade desenvolver políticas de apoio estudantil através de ações que promovam a melhoria do desempenho acadêmico. O NAPNE visa criar na Instituição a cultura da “educação para a convivência”, a aceitação da diversidade, e, principalmente, buscar a quebra das barreiras arquitetônicas, educacionais e atitudinais. 
+III – sessenta por cento (60%) devem possuir graduação no curso do qual é parte o NDE; IV – quarenta por cento (40%) devem estar em atuação ininterrupta no curso desde o último ato regulatório do mesmo;
 
-Em termos de acessibilidade física, o campus Foz do Iguaçu possui as seguintes estruturações: 
+V – cem por cento (100%) devem exercer suas atividades acadêmicas no regime de Tempo Integral (40 horas).
 
-80 
+As atribuições do Núcleo Docente Estruturante NDE estão componentes curriculares Artigo 5º da Resolução Nº 08/11 do IFPR,
 
-**==> picture [472 x 55] intentionally omitted <==**
+I – propor a formulação ou a reformulação do Projeto Pedagógico do curso para apreciação e aprovação pelo respectivo Colegiado e, posteriormente, pelo Conselho Superior do IFPR;
 
-   - Sanitários no bloco novo, adequados a pessoas com necessidades específicas; 
+II  –  acompanhar  e  avaliar  o  desenvolvimento  do  Projeto  Pedagógico  do  curso, propondo as correções que se apresentem necessárias à sua integral consecução; III – estabelecer parâmetros de resultados a serem alcançados pelo curso nos diversos instrumentos de avaliação externa como, ENADE, PROVA DE ORDEM e similares;
 
-- Rampas e corredores largos, facilitando a locomoção e acesso aos vários ambientes. 
+IV  –  elaborar  e  propor  para  apreciação  do  Colegiado  do  Curso  e  das instâncias deliberativas  superiores  competentes,  Projetos  de  Pesquisa,  de  Cursos  de  Pósgraduação Lato Sensu e
 
-- O campus está em expansão de sua estrutura física e está se adaptando para proporcionar 
+Stricto Sensu e de Cursos ou Atividades de Extensão, com vistas a tornar efetiva a aplicação, no âmbito da instituição, do princípio da indissociabilidade entre ensino, pesquisa, extensão
 
-- condições de acesso e utilização de todos os seus ambientes para pessoas portadoras de deficiência ou com mobilidade reduzida, conforme o Decreto nº 5.296/2004. 
+e inovação;
 
-## **5.1.6  Educação Inclusiva** 
+V – incentivar a produção científica do corpo docente, estabelecendo metas a serem alcançadas pelos docentes do curso nesta área;
 
-A Educação Inclusiva implica no desenvolvimento da sociedade como um todo, respeitando a individualidade e proporcionando que cada um seja sujeito na construção da aprendizagem, bem como cidadão apto ao exercício de cidadania. 
+VI – definir parâmetros com vistas a apreciar e avaliar os Planos de Ensino elaborados pelos Professores do curso, apresentando sugestões de melhoria;
 
-A inclusão é um aspecto que precisa está presente em todas as instâncias do convívio em sociedade, seja na família, na escola ou na comunidade no sentido de evidenciar as potencialidades e minimizar as dificuldades. 
+VII – propor alternativas teórico-metodológicas que promovam a inovação na sala de aula e a melhoria do processo ensino-aprendizagem.
 
-A inclusão social, portanto é um processo que contribui para a construção de um novo tipo de sociedade através de transformações pequenas e grandes, nos ambientes físico (espaços internos e externos. Equipamentos, aparelhos e utensílios, mobiliários e meios de transporte) e na mentalidade de todas as pessoas, portanto também do próprio portador de necessidades especiais (SASSAKI, 2010). 
+VIII – acompanhar os alunos do curso no desempenho de suas atividades acadêmicas e orientá-los quanto às suas dificuldades, contribuindo para a fidelização do discente ao curso e à instituição;
 
-A superação das barreiras arquitetônicas, atitudinais e pedagógicas é um dos desafios da Instituição no que diz respeito a educação inclusiva. No entanto, várias ações estão sendo planejadas e executadas no sentido de facilitar o acesso e permanência das pessoas com deficiência e/ou necessidades educacionais específicas. 
+IX  –  apreciar  os  instrumentos  de  avaliação  da  aprendizagem  aplicados  pelos professores aos discentes do curso, propondo à Coordenação de Ensino do campus correspondente e as
 
-Em  termos  de  acessibilidade  física,  o  Campus  Foz  do  Iguaçu  possui  as  seguintes estruturas: 
+correções que se façam pertinentes;
 
-Sanitários no bloco didático, adequados a pessoas com necessidades específicas. 
+X – apreciar e avaliar, quando for o caso, os relatórios de experiências de atividades desenvolvidas  em  laboratório  e  a  infraestrutura  disponível  nesses  laboratórios, encaminhando à Coordenação do Curso as sugestões e alternativas de melhoria; XI – orientar, supervisionar e/ou acompanhar e/ou participar de Bancas Examinadoras através de seus integrantes expressamente designados pela Coordenação do Curso, das seguintes atividades:
 
-Rampas e corredores largos, facilitando a locomoção e acesso aos vários ambientes. 
+a) projetos de pesquisa;
 
-Bloco Administrativo: sanitários adaptados, elevador de acesso, escadas sinalizadas em braille e corredores e portas largas. 
+b) projetos de iniciação científica;
 
-O  Campus  está  em  expansão  de  sua  estrutura  física  e  está  se  adaptando  para proporcionar condições de acesso e utilização de todos os seus ambientes para pessoas com necessidades específicas ou com mobilidade reduzida, conforme o Decreto nº 5.296/2004 e a Lei Federal nº 13146/2015 e desse modo permitir em sua arquitetura condições para atender estudantes com necessidades especiais, tais como transporte coletivo localizado em frente ao campus, estrutura de acesso em rampas facilitando o acesso às salas de aula, serviço de atendimento a pessoas com deficiência auditiva, prestado por tradutores e intérpretes de Libras 
+c) projetos de extensão;
 
-81 
+d) trabalhos de conclusão de curso – TCCs ou trabalhos finais de graduação – TFGs ou monografias;
 
-**==> picture [472 x 55] intentionally omitted <==**
+e) estágios obrigatórios e não obrigatórios;
 
-ou pessoas capacitadas em Língua Brasileira de Sinais. 
+f) atividades complementares;
 
-Contemplando  a Lei Nº 12.764 de 27 de dezembro de 2012, que trata da proteção da pessoa com transtorno do espectro autista, está garantido o acesso e permanência  à educação e ao ensino profissionalizante com base também na Lei Nº 13.409 de 20 de dezembro de 2016, que dispõe sobre a reserva de vagas para pessoas com deficiência nos cursos técnico de nível médio e superior das instituições federais de ensino. 
+g) concurso para admissão de docentes;
 
-Uma das ações desenvolvidas para promover a educação inclusiva é a consolidação do NAPNE – Núcleo de Atendimento a Pessoas com Necessidades Educacionais Específicas. O NAPNE é um espaço para Atendimento Educacional Especializado (AEE) e recurso multifuncional e pedagógico, sendo, portanto, uma ação do sistema de ensino no sentido de oferecer suporte às  necessidades  educacionais  dos  alunos,  favorecendo  seu  acesso  ao  conhecimento  e desenvolvendo competências e habilidades próprias. O núcleo também consolida as políticas inclusivas no Instituto por meio da garantia de acesso, através das cotas de vagas destinadas a esse  público,  oferecendo  as  possibilidades  de  permanência  e  êxito  do  estudante  com necessidades educacionais específicas no IFPR, nas áreas de ensino, pesquisa e extensão, fomentando projetos e ações de conscientização a toda comunidade acadêmica, sobre o direito de acesso a educação técnica, profissional e tecnológica às pessoas com deficiência e ou necessidades específicas educacionais. 
+h) concurso de monitoria;
 
-## **5.1.7  Mobilidade Estudantil e Internacionalização** 
+i) implantação da componente curricular LIBRAS.
 
-Entende-se por mobilidade escolar e acadêmica o processo pelo qual o estudante desenvolve atividades em instituição de ensino distinta da que mantém vínculo acadêmico escolar/acadêmico. A mobilidade acadêmica é caracterizada como: nacional e internacional. A Instrução Interna de Procedimentos nº 02/2014- IFPR/PROENS cria e regulamenta as normas e procedimentos para a Mobilidade Estudantil do Instituto Federal do Paraná. 
+XII – ter acesso e apreciar o resultado das avaliações dos docentes pelos discentes do curso, indicando ao segmento competente as correções desejáveis no desempenho, com vistas a melhor capacitação do docente;
 
-A mobilidade escolar/acadêmica poderá ocorrer por meio de adesão a programas do Governo Federal e através de convênio/parceria interinstitucional. 
+XIII – participar da elaboração do Plano Anual de Trabalho do Curso a ser apreciado pelo Colegiado do Curso e aprovado pelos órgãos deliberativos competentes do IFPR, no prazo de sessenta (60) dias antes do término do ano civil, com vistas ao Plano Anual de Trabalho do IFPR, bem como acompanhar sua execução.
 
-O IFPR, por meio de sua Coordenadoria de Relações Internacionais, busca promover a internacionalização ampla do IFPR, através da formulação de políticas, da interlocução com parceiros  nacionais  e  internacionais  e  do  apoio  às  ações,  projetos  e  programas  de internacionalização dos _campi_ e outros setores. 
+Segundo o Artigo 7º da Resolução Nº 08/11 do IFPR compete ao Coordenador do Curso no exercício da Presidência do Núcleo Docente Estruturante, sem prejuízo de outras atribuições:
 
-82 
+I – convocar e presidir, quinzenalmente, as reuniões dos integrantes do NDE, em horário  apropriado,  traduzindo  as  decisões  que  forem  adotadas  em  Resoluções numeradas na ordem de suas edições e identificadas com a sigla no Núcleo respectivo, submetendo-as aos órgãos deliberativos superiores quando for o caso;
 
-**==> picture [472 x 55] intentionally omitted <==**
+II – definir, em comum acordo com os docentes integrantes do NDE, os “grupos de trabalho” que devam ser formados, atendendo as competências e especializações de cada docente em relação à matéria a ser tratada pelo “grupo”;
 
-O  governo  federal  prevê  um  programa  de  mobilidade  acadêmica  internacional,  o Programa de Mobilidade Acadêmica em Cursos Acreditados (MARCA), gerenciado pela CAPES e pela SESU. Este programa possibilita o intercâmbio de docentes e alunos por um semestre, em cursos avaliados pelo Sistema de Acreditação Regional de Cursos Universitários do MERCOSUL (ARCU-SUL). 
+III – estabelecer a distribuição da carga horária e o horário diário de cada componente do NDE, tendo em vistas as diversas atividades a serem desempenhadas pelo mesmo; IV – mediante formulários próprios promover a avaliação do desenvolvimento do Projeto Pedagógico do curso;
 
-Outra possibilidade em termos de mobilidade acadêmica existe a partir do convênio firmado em 2011 pela Associação Nacional de Dirigentes das Instituições Federais de Ensino Superior (ANDIFES). 
+V – estabelecer cronograma de produção de Publicações Científicas, de Projetos de Pesquisa  e  de  Cursos  de  Pós-graduação  e  de  Atividades  de  Extensão  a  serem desenvolvidos pelo curso;
 
-A participação do curso de Tecnologia em Gastronomia dependerá da adesão do IFPR aos programas de mobilidade acadêmica mencionados. 
+VI – promover a divulgação de experiências docentes exitosas desenvolvidas no curso.
 
-## **6. CORPO DOCENTE E CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO** 
+Atualmente,  o  Núcleo  Docente  Estruturante  NDE  do  curso  Superior  de  Tecnologia  em Gastronomia  é  composto  pelos  docentes (Portaria  xx):  Paola  Stefannutti,  Gislaine  Silveira Simões, Raphael M. M. Cruz, Thiago Henrique Lopes e Lauisa Barbosa Pinto.
 
-## 6.1. CORPO DOCENTE 
-
-## **6.1.1 Atribuições do Coordenador** 
-
-A  coordenação  do  curso  é  o  órgão  é  responsável  por  responder  acadêmica  e administrativamente pelo curso no âmbito do campus. As atribuições da coordenação do curso Superior  de  Tecnologia  em  Gastronomia  estão  descritas  abaixo  conforme  manual  de Competências do IFPR: 
-
-- Cumprir e fazer cumprir as normas e procedimentos institucionais; 
-
-- Planejar ação didático/pedagógica dos cursos com a Coordenação de Ensino/Direção de Ensino; 
-
-- Executar as deliberações do CONSAP e CONSUP; 
-
-- Orientar  o  corpo discente  e  docente  dos cursos sob sua coordenação  sobre  currículo, frequência, avaliação e demais atividades de ensino; 
-
-- Organizar e registrar por meio de atas, reuniões com os docentes do curso; 
-
-- Supervisionar situações acordadas em reuniões: 
-
-- Assessorar a coordenação de ensino na fixação dos horários das aulas nos cursos ofertados; 
-
-- Planejar em conjunto com a Coordenação de Ensino/Direção de Ensino as dependências do curso; 
-
-- Presidir  a  comissão  de  avaliação  dos  pedidos  de  dispensa  e  opinar  na  transferência, verificando a equivalência dos estudos feitos, tomando as providências cabíveis; 
-
-- Atender os pais juntamente com a Coordenação de Ensino; 
-
-- Exercer o papel de "ouvidor" de alunos e professores em assuntos relacionados ao curso; 
-
-- Zelar pelos laboratórios, materiais e equipamentos da sua coordenação específica; 
-
-- Supervisionar  o  preenchimento  do  diário  de  classe  e  solicitar  correções  caso  sejam necessárias, assinando-os e encaminhando para a Coordenação de Ensino. 
-
-83 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-• Implementação e manutenção dos programas de Assistência Estudantil mantidos pelo IFPR no Campus, garantindo desta forma, a permanência e o êxito no processo formativo do aluno, através de atividades como: 
-
-   - Divulgar os editais para a comunidade acadêmica (coordenadores, professores e alunos); 
-
-   - Preencher relatórios e planilhas (mensais e/ou semanais e/ou anuais); 
-
-- Acompanhar a coordenação de Ensino na supervisão dos registros de frequência; 
-
-- Acompanhar a revisão e atualização dos PPC; 
-
-- Acompanhar novas propostas de cursos e auxiliar na elaboração dos PPC; 
-
-- Elaborar calendário acadêmico; 
-
-- Auxiliar a coordenação de Ensino/Coordenação de Curso na elaboração dos horários de aulas; 
-
-- Elaborar, revisar e acompanhar os projetos pedagógicos do curso; 
-
-- Supervisionar  os  planos  de  ensino  docente  e  solicitar  correções,  caso  seja  necessário, assinando-os e encaminhando-os à coordenação de ensino; 
-
-- Articular a integração entre as áreas de base nacional comum e de formação específica; 
-
-- Elaborar, com o auxílio dos docentes, termos de referências, especificações, planilhas e memoriais, para suprimento de materiais, obras, serviços e equipamentos as necessidades do curso; 
-
-- Acompanhar comissões de avaliação de curso, bem como fornecer informações do curso solicitadas pelos órgãos da Reitoria e também pelas Seções do MEC; 
-
-- Desempenhar outras atividades inerentes à unidade, função ou cargo, não previstas neste manual, mas de interesse da Administração. 
-
-## **6.1.2 Experiência do Coordenador** 
-
-## **6.1.3 Núcleo Docente Estruturante (NDE)** 
-
-O  Núcleo  Docente  Estruturante  NDE  constitui  segmento  da  estrutura  de  gestão acadêmica de cada curso de graduação, com atribuições consultivas, propositivas e avaliativas sobre matéria de natureza acadêmica, responsável pela criação, implementação e consolidação dos Projetos Pedagógicos de cada curso (RESOLUÇÃO Nº 08/11 do IFPR). 
-
-A  composição  do  Núcleo  Docente  Estruturante  NDE  do  curso  de  Tecnologia  em Gastronomia segue a normatização expressa pelos Artigos 3º e 4º da Resolução Nº 08/11 do IFPR: 
-
-Art. 3º Cada Núcleo Docente Estruturante é constituído: I – pelo Coordenador do Curso que o preside; 
-
-II – por, pelo menos, trinta por cento (30%) dos docentes efetivos atuantes no curso. Art. 4º Os docentes componentes do Núcleo Docente Estruturante são designados por Ato Especial do Reitor, específico para cada curso, atendidas as seguintes condições: I – cem por cento (100%) devem ser possuidores de titulação acadêmica em nível de Pós-graduação Stricto Sensu; 
-
-II – Cinquenta por cento (50%) devem possuir título de Doutor; 
-
-84 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-III – sessenta por cento (60%) devem possuir graduação no curso do qual é parte o NDE; IV – quarenta por cento (40%) devem estar em atuação ininterrupta no curso desde o último ato regulatório do mesmo; 
-
-V – cem por cento (100%) devem exercer suas atividades acadêmicas no regime de Tempo Integral (40 horas). 
-
-As atribuições do Núcleo Docente Estruturante NDE estão componentes curriculares Artigo 5º da Resolução Nº 08/11 do IFPR, 
-
-I – propor a formulação ou a reformulação do Projeto Pedagógico do curso para apreciação e aprovação pelo respectivo Colegiado e, posteriormente, pelo Conselho Superior do IFPR; 
-
-II  –  acompanhar  e  avaliar  o  desenvolvimento  do  Projeto  Pedagógico  do  curso, propondo as correções que se apresentem necessárias à sua integral consecução; III – estabelecer parâmetros de resultados a serem alcançados pelo curso nos diversos instrumentos de avaliação externa como, ENADE, PROVA DE ORDEM e similares; 
-
-IV  –  elaborar  e  propor  para  apreciação  do  Colegiado  do  Curso  e  das instâncias deliberativas  superiores  competentes,  Projetos  de  Pesquisa,  de  Cursos  de  Pósgraduação Lato Sensu e 
-
-Stricto Sensu e de Cursos ou Atividades de Extensão, com vistas a tornar efetiva a aplicação, no âmbito da instituição, do princípio da indissociabilidade entre ensino, pesquisa, extensão 
-
-e inovação; 
-
-V – incentivar a produção científica do corpo docente, estabelecendo metas a serem alcançadas pelos docentes do curso nesta área; 
-
-VI – definir parâmetros com vistas a apreciar e avaliar os Planos de Ensino elaborados pelos Professores do curso, apresentando sugestões de melhoria; 
-
-VII – propor alternativas teórico-metodológicas que promovam a inovação na sala de aula e a melhoria do processo ensino-aprendizagem. 
-
-VIII – acompanhar os alunos do curso no desempenho de suas atividades acadêmicas e orientá-los quanto às suas dificuldades, contribuindo para a fidelização do discente ao curso e à instituição; 
-
-IX  –  apreciar  os  instrumentos  de  avaliação  da  aprendizagem  aplicados  pelos professores aos discentes do curso, propondo à Coordenação de Ensino do campus correspondente e as 
-
-correções que se façam pertinentes; 
-
-X – apreciar e avaliar, quando for o caso, os relatórios de experiências de atividades desenvolvidas  em  laboratório  e  a  infraestrutura  disponível  nesses  laboratórios, encaminhando à Coordenação do Curso as sugestões e alternativas de melhoria; XI – orientar, supervisionar e/ou acompanhar e/ou participar de Bancas Examinadoras através de seus integrantes expressamente designados pela Coordenação do Curso, das seguintes atividades: 
-
-a) projetos de pesquisa; 
-
-b) projetos de iniciação científica; 
-
-c) projetos de extensão; 
-
-d) trabalhos de conclusão de curso – TCCs ou trabalhos finais de graduação – TFGs ou monografias; 
-
-e) estágios obrigatórios e não obrigatórios; 
-
-85 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-f) atividades complementares; 
-
-g) concurso para admissão de docentes; 
-
-h) concurso de monitoria; 
-
-i) implantação da componente curricular LIBRAS. 
-
-XII – ter acesso e apreciar o resultado das avaliações dos docentes pelos discentes do curso, indicando ao segmento competente as correções desejáveis no desempenho, com vistas a melhor capacitação do docente; 
-
-XIII – participar da elaboração do Plano Anual de Trabalho do Curso a ser apreciado pelo Colegiado do Curso e aprovado pelos órgãos deliberativos competentes do IFPR, no prazo de sessenta (60) dias antes do término do ano civil, com vistas ao Plano Anual de Trabalho do IFPR, bem como acompanhar sua execução. 
-
-Segundo o Artigo 7º da Resolução Nº 08/11 do IFPR compete ao Coordenador do Curso no exercício da Presidência do Núcleo Docente Estruturante, sem prejuízo de outras atribuições: 
-
-I – convocar e presidir, quinzenalmente, as reuniões dos integrantes do NDE, em horário  apropriado,  traduzindo  as  decisões  que  forem  adotadas  em  Resoluções numeradas na ordem de suas edições e identificadas com a sigla no Núcleo respectivo, submetendo-as aos órgãos deliberativos superiores quando for o caso; 
-
-II – definir, em comum acordo com os docentes integrantes do NDE, os “grupos de trabalho” que devam ser formados, atendendo as competências e especializações de cada docente em relação à matéria a ser tratada pelo “grupo”; 
-
-III – estabelecer a distribuição da carga horária e o horário diário de cada componente do NDE, tendo em vistas as diversas atividades a serem desempenhadas pelo mesmo; IV – mediante formulários próprios promover a avaliação do desenvolvimento do Projeto Pedagógico do curso; 
-
-V – estabelecer cronograma de produção de Publicações Científicas, de Projetos de Pesquisa  e  de  Cursos  de  Pós-graduação  e  de  Atividades  de  Extensão  a  serem desenvolvidos pelo curso; 
-
-VI – promover a divulgação de experiências docentes exitosas desenvolvidas no curso. 
-
-Atualmente,  o  Núcleo  Docente  Estruturante  NDE  do  curso  Superior  de  Tecnologia  em Gastronomia  é  composto  pelos  docentes (Portaria  xx):  Paola  Stefannutti,  Gislaine  Silveira Simões, Raphael M. M. Cruz, Thiago Henrique Lopes e Lauisa Barbosa Pinto. 
-
-6.1.4 Relação do Corpo docente 
+6.1.4 Relação do Corpo docente
 
 ||**Nome Completo**|**Curso de**<br>**Graduação**|**Maior**<br>**Titulação**|**Link Currículo**<br>**Lates**|**Componente Curricular**||
 |---|---|---|---|---|---|---|
-
-
-
-86 
-
-**==> picture [472 x 55] intentionally omitted <==**
 
 |Paola Stefanut|Gastronomia|Doutora|http://lattes.cnpq.br/<br>6497653542951435|História da Gastronomia,<br>Habilidades básicas de<br>cozinha 1, Introdução à<br>Gastronomia,<br>Habilidades básicas de<br>cozinha 2,<br>Garde Manger,<br>Gastronomia Europeia,<br>Projeto de conclusão de<br>curso, Orientação de<br>estágio.|
 |---|---|---|---|---|
 |Raphael M. M.<br>Cruz|Administraçã<br>o com ênfase<br>em Hotelaria|Mestrado|http://lattes.cnpq.br/<br>8612731440557292|Serviço de salão e bar,<br>Ambientação profssional,<br>Gastronomia Clássicas<br>Francesa e Italiana,<br>Gastronomia Brasileira,<br>Eventos, Bebidas,<br>Enogastronomia, Projeto<br>de conclusão de curso,<br>Orientação de estágio.|
 |Thiago H. Lopes|Gastronomia|Mestrado|http://lattes.cnpq.br/<br>9853915079197629|Habilidades básicas de<br>cozinha 1, Ambientação<br>profssional, Habilidades<br>básicas de cozinha 2,<br>Garde Manger,<br>Planejamento de<br>cardápios, Gastronomia<br>Clássicas Francesa e<br>Italiana, Gastronomia<br>Brasileira, Gastronomia<br>Europeia, Gestão<br>Gastronômica, Projeto de<br>conclusão de curso,<br>Orientação de estágio.|
 |Gislaine S.<br>Simões|||http://lattes.cnpq.br/<br>0731115558457893|Higiene e Manipulação de<br>alimentos, Nutrição<br>aplicada à gastronomia,<br>Tecnologia dos alimentos|
-
-
-
-87 
-
-**==> picture [472 x 55] intentionally omitted <==**
 
 |||||aplicada à Gastronomia,<br>Bases para panifcação,<br>Projeto de conclusão de<br>curso, Orientação de<br>estágio.|
 |---|---|---|---|---|
@@ -2578,55 +2204,45 @@ Atualmente,  o  Núcleo  Docente  Estruturante  NDE  do  curso  Superior  de  Te
 |Professor a ser<br>contratado A||||Bases para panifcação,<br>Confeitaria, Ambientação<br>profssional, Bebidas,<br>Gastronomia Clássicas<br>Francesa e Italiana,<br>Gastronomia Brasileira,<br>Gastronomia Europeia,<br>Gestão Gastronômica,<br>Projeto de conclusão de<br>curso, Orientação de<br>estágio.|
 |Professor a ser<br>contratado B||||História da Gastronomia,<br>Habilidades básicas de<br>cozinha 1, Introdução à<br>Gastronomia,<br>Enogastronomia,<br>Garde Manger,<br>Gastronomia Europeia,<br>Gastronomia Étnica,<br>Projeto de conclusão de<br>curso, Orientação de<br>estágio.|
 
+## **6.1.5 Colegiado de Curso**
 
+O Colegiado do Curso é propositivo em matéria didático-pedagógica, possuindo as seguintes atribuições:
 
-88 
+- Apreciar e sugerir mudanças no Projeto Pedagógico do Curso;
 
-**==> picture [472 x 55] intentionally omitted <==**
+- Dar parecer sobre matéria didático-pedagógica e de pesquisa referente ao
 
-## **6.1.5 Colegiado de Curso** 
+- Curso;
 
-O Colegiado do Curso é propositivo em matéria didático-pedagógica, possuindo as seguintes atribuições: 
+- Supervisionar a execução dos planos de atividades do curso;
 
-- Apreciar e sugerir mudanças no Projeto Pedagógico do Curso; 
+- Propor alterações no currículo e apreciar os programas das disciplinas;
 
-- Dar parecer sobre matéria didático-pedagógica e de pesquisa referente ao 
+- Realizar a avaliação interna do Curso, nos parâmetros definidos pelo MEC;
 
-- Curso; 
+- Avaliar o cumprimento dos planos de avaliação e desenvolvimento do curso.
 
-- Supervisionar a execução dos planos de atividades do curso; 
+O colegiado é propositivo em matéria didático-pedagógica, no âmbito do curso, sendo constituído:
 
-- Propor alterações no currículo e apreciar os programas das disciplinas; 
+## I. Pelo Coordenador do Curso;
 
-- Realizar a avaliação interna do Curso, nos parâmetros definidos pelo MEC; 
+II. Por todos os professores que ministram aulas nas turmas do mesmo no ano corrente; III. Por dois representantes titulares e dois suplentes do corpo discente do curso, desde que maior de idade, escolhidos dentre os estudantes, regularmente matriculados no curso, com mandato de um ano, que não participem de qualquer outro colegiado ou entidade estudantil.
 
-- Avaliar o cumprimento dos planos de avaliação e desenvolvimento do curso. 
+O Colegiado do Curso tem a obrigação legal de reunir-se ordinariamente duas vezes durante o semestre e, extraordinariamente, quando convocado por solicitação do Coordenador do Curso, ou por solicitação de mais da metade de seus membros.
 
-O colegiado é propositivo em matéria didático-pedagógica, no âmbito do curso, sendo constituído: 
+O Colegiado do Curso de Tecnologia em Gastronomia é composto por:
 
-## I. Pelo Coordenador do Curso; 
+Prof. Thiago Henrique Lopes Profª. Paola Stefanutti Profª. Gislaine Silveira Simões Prof. Raphael Miranda Medeiros Cruz Profª Lauísa Barbosa Pinto Profª Talitha Perez Bianchini Profª Kayla Walquíria Garmus
 
-II. Por todos os professores que ministram aulas nas turmas do mesmo no ano corrente; III. Por dois representantes titulares e dois suplentes do corpo discente do curso, desde que maior de idade, escolhidos dentre os estudantes, regularmente matriculados no curso, com mandato de um ano, que não participem de qualquer outro colegiado ou entidade estudantil. 
+## **6.1.6 Políticas de Capacitação do Corpo Docente**
 
-O Colegiado do Curso tem a obrigação legal de reunir-se ordinariamente duas vezes durante o semestre e, extraordinariamente, quando convocado por solicitação do Coordenador do Curso, ou por solicitação de mais da metade de seus membros. 
+A  formação  permanente  do  corpo  docente  do  Curso  Superior  de  Tecnologia  em Gastronomia será objeto constante de discussões e planejamento, visando o aprimoramento do curso e possibilitando aos docentes a constante capacitação.
 
-O Colegiado do Curso de Tecnologia em Gastronomia é composto por: 
+No âmbito do IFPR, os docentes estão contemplados pelo Programa de Qualificação e Formação dos Servidores do IFPR, estabelecido pela Resolução nº 48/2011. O programa prevê, entre outras ações, incentivo a capacitação em nível de pós-graduação _Lato_ e _Stricto Sensu_ , nos
 
-Prof. Thiago Henrique Lopes Profª. Paola Stefanutti Profª. Gislaine Silveira Simões Prof. Raphael Miranda Medeiros Cruz Profª Lauísa Barbosa Pinto Profª Talitha Perez Bianchini Profª Kayla Walquíria Garmus 
+níveis especialização, mestrado e doutorado. Também a formação inicial e continuada em áreas específicas da gastronomia será objeto permanente de busca por aprimoramento para o corpo docente.
 
-## **6.1.6 Políticas de Capacitação do Corpo Docente** 
-
-A  formação  permanente  do  corpo  docente  do  Curso  Superior  de  Tecnologia  em Gastronomia será objeto constante de discussões e planejamento, visando o aprimoramento do curso e possibilitando aos docentes a constante capacitação. 
-
-No âmbito do IFPR, os docentes estão contemplados pelo Programa de Qualificação e Formação dos Servidores do IFPR, estabelecido pela Resolução nº 48/2011. O programa prevê, entre outras ações, incentivo a capacitação em nível de pós-graduação _Lato_ e _Stricto Sensu_ , nos 
-
-89 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-níveis especialização, mestrado e doutorado. Também a formação inicial e continuada em áreas específicas da gastronomia será objeto permanente de busca por aprimoramento para o corpo docente. 
-
-## 6.2 CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO 
+## 6.2 CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO
 
 |Nome|Cargo/Função|Formação|Carga horária|
 |---|---|---|---|
@@ -2643,9 +2259,7 @@ níveis especialização, mestrado e doutorado. Também a formação inicial e c
 |Emannuelle Barbosa Silva|Assistente de Alunos|-Bacharel em Administração|40 horas|
 |Flávio Lúcio Alves<br>Pedrosa|Assistente<br>Administratvo - Diretor<br>Administratvo|-Bacharelado em Turismo<br>-Especialização em Gestão Ambiental de<br>Municípios<br>- Especialização em Gestão ública com|40 horas|
 
-
-
-90 
+90
 
 |||||
 |---|---|---|---|
@@ -2670,9 +2284,7 @@ níveis especialização, mestrado e doutorado. Também a formação inicial e c
 |Murilo Odilon Nichele<br>Scroccaro|Administrador|-Graduação em Administração|40 horas|
 |Nivaldo Marques da Silva|Assistente de Alunos|-Graduação em Jornalismo|40 horas|
 
-
-
-91 
+91
 
 |||||
 |---|---|---|---|
@@ -2687,255 +2299,221 @@ níveis especialização, mestrado e doutorado. Também a formação inicial e c
 |Telma Maria Viola de<br>Souza|Auxiliar de Biblioteca|Graduação em Letras (2010)|40 horas|
 |Vanessa Demarchi Peron|Auxiliar em<br>Administração|Especialização em Gestão Empresarial<br>(2012) e Relações Contemporâneas<br>(2017), Graduação em Comunicação Social<br>- Jornalismo(2010)|40 horas|
 
+## **6.2.1 Políticas de Capacitação do Corpo Técnico Administrativo em Educação**
 
+Segundo o Plano de Desenvolvimento Institucional PDI, vigência (2009-2013) “Aperfeiçoamento, com o objetivo de: contribuir para o desenvolvimento do servidor, como profissional e cidadão; capacitá-lo para o desenvolvimento de ações de gestão pública; e para o exercício de atividades de forma articulada com a função social da capacitação do corpo técnico-administrativo atual e ingressante ao quadro de servidores do Instituto Federal do Paraná.
 
-## **6.2.1 Políticas de Capacitação do Corpo Técnico Administrativo em Educação** 
+A Diretoria de Desenvolvimento de Pessoas, através da Coordenadoria de Capacitação e Aperfeiçoamento apresenta um programa de capacitação para técnicos no qual os próprios servidores podem atuar nos eventos internos de capacitação, apoiando o desenvolvimento da aprendizagem continuada do IFPR, como facilitadores/instrutores.
 
-Segundo o Plano de Desenvolvimento Institucional PDI, vigência (2009-2013) “Aperfeiçoamento, com o objetivo de: contribuir para o desenvolvimento do servidor, como profissional e cidadão; capacitá-lo para o desenvolvimento de ações de gestão pública; e para o exercício de atividades de forma articulada com a função social da capacitação do corpo técnico-administrativo atual e ingressante ao quadro de servidores do Instituto Federal do Paraná. 
+Enfim, as políticas de capacitação dos servidores do Instituto Federal do Paraná estão definidas na Resolução nº 48/2011, que trata do Programa de Qualificação e Formação dos
 
-A Diretoria de Desenvolvimento de Pessoas, através da Coordenadoria de Capacitação e Aperfeiçoamento apresenta um programa de capacitação para técnicos no qual os próprios servidores podem atuar nos eventos internos de capacitação, apoiando o desenvolvimento da aprendizagem continuada do IFPR, como facilitadores/instrutores. 
+Servidores do IFPR.
 
-Enfim, as políticas de capacitação dos servidores do Instituto Federal do Paraná estão definidas na Resolução nº 48/2011, que trata do Programa de Qualificação e Formação dos 
+O Plano de Carreira dos cargos técnico-administrativos em Educação está estruturado pela Lei n° 11.091/2005. Nele, estão contidas as regras sobre o desenvolvimento do servidor na carreira que ocorre por meio das progressões por mérito profissional e por capacitação, além do incentivo à qualificação.
 
-92 
+## 6.3 INSTRUMENTOS DE GESTÃO DEMOCRÁTICA
 
-**==> picture [472 x 55] intentionally omitted <==**
+As formas de direcionar as decisões individuais e/ou coletivas originaram posturas diferenciadas na trajetória administrativa das instituições educacionais. Como decorrência deste processo emergiu uma nova concepção de gestão: a gestão democrática.
 
-Servidores do IFPR. 
+A Constituição Federal e a LDB estabelecem que a gestão democrática deve orientar o processo de organização e de gestão do trabalho pedagógico nas instituições públicas de educação, voltando-se para a garantia de qualidade da educação.
 
-O Plano de Carreira dos cargos técnico-administrativos em Educação está estruturado pela Lei n° 11.091/2005. Nele, estão contidas as regras sobre o desenvolvimento do servidor na carreira que ocorre por meio das progressões por mérito profissional e por capacitação, além do incentivo à qualificação. 
+O texto da Constituição (BRASIL, 1988) acerca da gestão democrática, em seu artigo
 
-## 6.3 INSTRUMENTOS DE GESTÃO DEMOCRÁTICA 
+206, inciso VI, estabelece que o ensino será ministrado com base no princípio da gestão democrática do ensino público na forma da lei.
 
-As formas de direcionar as decisões individuais e/ou coletivas originaram posturas diferenciadas na trajetória administrativa das instituições educacionais. Como decorrência deste processo emergiu uma nova concepção de gestão: a gestão democrática. 
+A LDB, nos artigos 14 e 15, apresenta as seguintes determinações, no tocante à gestão democrática:
 
-A Constituição Federal e a LDB estabelecem que a gestão democrática deve orientar o processo de organização e de gestão do trabalho pedagógico nas instituições públicas de educação, voltando-se para a garantia de qualidade da educação. 
+Art.  14  –  Os  sistemas  de  ensino  definirão  as  normas  da  gestão democrática do ensino público na educação básica, de acordo com as suas peculiaridades e conforme os seguintes princípios:
 
-O texto da Constituição (BRASIL, 1988) acerca da gestão democrática, em seu artigo 
+I. Participação dos profissionais da educação na elaboração do projeto pedagógico da escola; II. Participação da comunidade escolar e local em conselhos escolares ou equivalentes.
 
-206, inciso VI, estabelece que o ensino será ministrado com base no princípio da gestão democrática do ensino público na forma da lei. 
+Art. 15 – Os sistemas de ensino assegurarão às unidades escolares públicas de educação básica que os integram progressivos graus de autonomia  pedagógica e administrativa  e de gestão financeira, observadas as normas de direito financeiro público.
 
-A LDB, nos artigos 14 e 15, apresenta as seguintes determinações, no tocante à gestão democrática: 
+Baseando-se no que preconiza a legislação o ponto de partida para consolidar uma Gestão Democrática e Participativa dentro do espaço escolar é a participação efetiva de todos, em um exercício de cidadania profissional e de compromisso com a educação. É de extrema importância  que  a  comunidade  escolar  participe  das  discussões  e  do  funcionamento  da
 
-Art.  14  –  Os  sistemas  de  ensino  definirão  as  normas  da  gestão democrática do ensino público na educação básica, de acordo com as suas peculiaridades e conforme os seguintes princípios: 
+organização escolar, bem como das tomadas de decisões, ou seja, só é possível a prática de uma Gestão Democrática e Participativa se docentes, servidores técnico-administrativos, discentes, pais participem comprometidamente e ativamente do processo.
 
-I. Participação dos profissionais da educação na elaboração do projeto pedagógico da escola; II. Participação da comunidade escolar e local em conselhos escolares ou equivalentes. 
+São diretrizes para uma gestão democrática e participativa:
 
-Art. 15 – Os sistemas de ensino assegurarão às unidades escolares públicas de educação básica que os integram progressivos graus de autonomia  pedagógica e administrativa  e de gestão financeira, observadas as normas de direito financeiro público. 
+- Assegurar a efetivação de processos de gestão pedagógica, administrativa e financeira democrática, cooperativa, transparente e participativa;
 
-Baseando-se no que preconiza a legislação o ponto de partida para consolidar uma Gestão Democrática e Participativa dentro do espaço escolar é a participação efetiva de todos, em um exercício de cidadania profissional e de compromisso com a educação. É de extrema importância  que  a  comunidade  escolar  participe  das  discussões  e  do  funcionamento  da 
+- • Promover o planejamento, a execução, acompanhamento e avaliação das ações de forma participativa;
 
-93 
+- Criar mecanismos de acompanhamento e avaliação institucional;
 
-**==> picture [472 x 55] intentionally omitted <==**
+- • Estabelecer diretrizes para organizar as rotinas e normas organizativas que assegurem o melhor fluxo e transparência dos processos;
 
-organização escolar, bem como das tomadas de decisões, ou seja, só é possível a prática de uma Gestão Democrática e Participativa se docentes, servidores técnico-administrativos, discentes, pais participem comprometidamente e ativamente do processo. 
+- • Promover a valorização e a formação continuada dos servidores com vistas à qualificação profissional e satisfação pessoal dos mesmos;
 
-São diretrizes para uma gestão democrática e participativa: 
+- • Promover a contínua melhoria das condições físicas e materiais, bem como a adequação do quadro de servidores necessários ao bom funcionamento da escola;
 
-- Assegurar a efetivação de processos de gestão pedagógica, administrativa e financeira democrática, cooperativa, transparente e participativa; 
+- Acompanhar e divulgar as decisões da reitoria nos âmbitos administrativos e pedagógicos;
 
-- • Promover o planejamento, a execução, acompanhamento e avaliação das ações de forma participativa; 
+- Criar  mecanismos  que  estabeleçam  processos  de  comunicação  efetiva  no ambiente interno e externo do campus;
 
-- Criar mecanismos de acompanhamento e avaliação institucional; 
+- • Propiciar espaços para reflexão e debates acerca das questões institucionais visando sempre a eficácia organizacional;
 
-- • Estabelecer diretrizes para organizar as rotinas e normas organizativas que assegurem o melhor fluxo e transparência dos processos; 
+- Conhecer e respeitar leis e normas que regem a educação e a instituição;
 
-- • Promover a valorização e a formação continuada dos servidores com vistas à qualificação profissional e satisfação pessoal dos mesmos; 
+- • Garantir o cumprimento dos direitos e deveres de todos os segmentos da escola (docentes, discentes e técnico-administrativos), bem como atribuir as funções dos diversos profissionais nos seus respectivos setores;
 
-- • Promover a contínua melhoria das condições físicas e materiais, bem como a adequação do quadro de servidores necessários ao bom funcionamento da escola; 
+- • Promover integração entre as diversas áreas profissionais, bem como em todo ambiente organizacional (interno e externo);
 
-- Acompanhar e divulgar as decisões da reitoria nos âmbitos administrativos e pedagógicos; 
+- Respeitar a pluralidade de ideias, buscando catalisar as diferentes visões para ampliar as possibilidades de ação no IFPR – Campus Foz do Iguaçu.
 
-- Criar  mecanismos  que  estabeleçam  processos  de  comunicação  efetiva  no ambiente interno e externo do campus; 
+## **6.3.1 Funcionamento dos Colegiados de Gestão**
 
-- • Propiciar espaços para reflexão e debates acerca das questões institucionais visando sempre a eficácia organizacional; 
+Conforme disposto no Estatuto do IFPR, o seu Conselho Superior é o órgão máximo
 
-- Conhecer e respeitar leis e normas que regem a educação e a instituição; 
+normativo, deliberativo, nas dimensões de planejamento, acadêmica, administrativa, financeira, patrimonial e disciplinar do IFPR, sendo  atribuições do Conselho Superior:
 
-- • Garantir o cumprimento dos direitos e deveres de todos os segmentos da escola (docentes, discentes e técnico-administrativos), bem como atribuir as funções dos diversos profissionais nos seus respectivos setores; 
+I. zelar pelo cumprimento dos princípios, finalidades e objetivos do IFPR;
 
-- • Promover integração entre as diversas áreas profissionais, bem como em todo ambiente organizacional (interno e externo); 
+I. aprovar o Estatuto, Regimento Geral e Regulamentos do IFPR;
 
-- Respeitar a pluralidade de ideias, buscando catalisar as diferentes visões para ampliar as possibilidades de ação no IFPR – Campus Foz do Iguaçu. 
+II. aprovar as diretrizes para atuação do IFPR e zelar pela execução de sua política de ensino, pesquisa e extensão;
 
-## **6.3.1 Funcionamento dos Colegiados de Gestão** 
+III. deflagrar o processo de consulta à comunidade escolar para escolha de Reitor e dos Diretores Gerais dos Câmpus do IFPR, em consonância com a legislação vigente;
 
-Conforme disposto no Estatuto do IFPR, o seu Conselho Superior é o órgão máximo 
+IV. aprovar o Projeto Político Pedagógico (PPI), o Plano de Desenvolvimento Institucional (PDI) e os planos de Gestão, metas e de ação;
 
-94 
+V. estabelecer políticas nas áreas de administração, planejamento, patrimonial,  financeira  e  de  gestão  de  pessoas  e  apreciar  a  proposta orçamentária anual;
 
-**==> picture [472 x 55] intentionally omitted <==**
+VI. apreciar as contas do exercício financeiro.
 
-normativo, deliberativo, nas dimensões de planejamento, acadêmica, administrativa, financeira, patrimonial e disciplinar do IFPR, sendo  atribuições do Conselho Superior: 
+XIII. instituir e regulamentar programa institucional de concessão de bolsas de assistência ou de prestação de serviços;
 
-I. zelar pelo cumprimento dos princípios, finalidades e objetivos do IFPR; 
+XIV. julgar os recursos resultantes das decisões do Reitor, dos Diretores Gerais dos Câmpus e das Diretorias Sistêmicas (DTIC e EaD), das Pró-reitorias e de outras instâncias e colegiados representativos dos interesses da comunidade interna;
 
-I. aprovar o Estatuto, Regimento Geral e Regulamentos do IFPR; 
+XV. Atuar como instância de recurso e de homologação das decisões do CONSEPE e do CONSAP;
 
-II. aprovar as diretrizes para atuação do IFPR e zelar pela execução de sua política de ensino, pesquisa e extensão; 
+XVI. aprovar o regimento do Conselho Superior, da Reitoria, dos Câmpus, das Diretorias Sistêmicas (DTIC e EaD), do CONSEPE e CONSAP e demais Órgãos Suplementares e Colegiados;
 
-III. deflagrar o processo de consulta à comunidade escolar para escolha de Reitor e dos Diretores Gerais dos Câmpus do IFPR, em consonância com a legislação vigente; 
+XVII. deliberar sobre propostas de criação, modificação e extinção de órgãos administrativos e suas respectivas estruturas;
 
-IV. aprovar o Projeto Político Pedagógico (PPI), o Plano de Desenvolvimento Institucional (PDI) e os planos de Gestão, metas e de ação; 
+XVIII. homologar o resultado das eleições para o cargos executivos de Reitor, de Diretores Gerais dos Câmpus, e dos representantes ao Consup;
 
-V. estabelecer políticas nas áreas de administração, planejamento, patrimonial,  financeira  e  de  gestão  de  pessoas  e  apreciar  a  proposta orçamentária anual; 
+XIX. eleger os membros deste Conselho, quando previsto em edital específico; XX. deliberar sobre medidas preventivas e corretivas de atos que envolvem indisciplina coletiva no âmbito do Instituto;
 
-VI. apreciar as contas do exercício financeiro. 
+XXI. Aprovar indicação de nomes para Chefe da Auditoria Interna e do titular
 
-XIII. instituir e regulamentar programa institucional de concessão de bolsas de assistência ou de prestação de serviços; 
+da Ouvidoria;
 
-XIV. julgar os recursos resultantes das decisões do Reitor, dos Diretores Gerais dos Câmpus e das Diretorias Sistêmicas (DTIC e EaD), das Pró-reitorias e de outras instâncias e colegiados representativos dos interesses da comunidade interna; 
+XXII. elaborar normas e regulamentos específicos ou complementares sobre qualquer assunto de interesse do Instituto;
 
-XV. Atuar como instância de recurso e de homologação das decisões do CONSEPE e do CONSAP; 
+XXIII. emitir parecer nas consultas sobre matérias regulamentadas ou quando for solicitado por qualquer órgão da Administração Superior;
 
-XVI. aprovar o regimento do Conselho Superior, da Reitoria, dos Câmpus, das Diretorias Sistêmicas (DTIC e EaD), do CONSEPE e CONSAP e demais Órgãos Suplementares e Colegiados; 
+XXIV. decidir sobre os casos omissos no Estatuto e no Regimento Geral do IFPR e deste Regimento Interno.
 
-XVII. deliberar sobre propostas de criação, modificação e extinção de órgãos administrativos e suas respectivas estruturas; 
+Nos _Campi_ , a gestão colegiada é realizada através do Colégio Dirigente do Campus, que   é o órgão consultivo, propositivo, avaliativo, mobilizador e normativo de apoio técnicopolítico  à  gestão  do  Campus,  sendo  seu  funcionamento  regulamentado  pela  Resolução 22/2014 .
 
-XVIII. homologar o resultado das eleições para o cargos executivos de Reitor, de Diretores Gerais dos Câmpus, e dos representantes ao Consup; 
+A função consultiva e propositiva corresponde às competências para assessorar a gestão, opinando sobre as ações pedagógicas, administrativas, orçamentárias e disciplinares exercidas pelas Unidades Executivas.
 
-XIX. eleger os membros deste Conselho, quando previsto em edital específico; XX. deliberar sobre medidas preventivas e corretivas de atos que envolvem indisciplina coletiva no âmbito do Instituto; 
+A função avaliativa corresponde às competências para diagnosticar, avaliar e fiscalizar o cumprimento das ações desenvolvidas pelo Campus.
 
-XXI. Aprovar indicação de nomes para Chefe da Auditoria Interna e do titular 
+A  função  mobilizadora  corresponde  às  competências  para  apoiar,  promover  e estimular a comunidade escolar e local em busca da melhoria da qualidade do ensino e do acesso à escola.
 
-95 
+A função normativa corresponde à função de orientar e disciplinar, por meio de normas  complementares,  diretrizes  e  indicações,  dentro  do  âmbito  de  sua  competência, obedecendo aos marcos legais do IFPR.
 
-**==> picture [472 x 55] intentionally omitted <==**
+## **6.3.2 Representatividade da Comunidade Acadêmica**
 
-da Ouvidoria; 
+Conforme  estabelecido  pelo  estatuto  do  IFPR,  o  Conselho  Superior,  de  caráter consultivo e deliberativo, é o órgão máximo do Instituto Federal, tendo a seguinte composição:
 
-XXII. elaborar normas e regulamentos específicos ou complementares sobre qualquer assunto de interesse do Instituto; 
+I – o Reitor, como presidente;
 
-XXIII. emitir parecer nas consultas sobre matérias regulamentadas ou quando for solicitado por qualquer órgão da Administração Superior; 
+II – representação de 1/3 (um terço) do número de câmpus, destinada aos servidores docentes, sendo o mínimo de 02 (dois) e o máximo de 04 (quatro) representantes, eleitos por seus pares;
 
-XXIV. decidir sobre os casos omissos no Estatuto e no Regimento Geral do IFPR e deste Regimento Interno. 
+III – representação de 1/3 (um terço) do número de câmpus, destinada ao corpo discente, dentre os alunos matriculados nos cursos regulares do IFPR,
 
-Nos _Campi_ , a gestão colegiada é realizada através do Colégio Dirigente do Campus, que   é o órgão consultivo, propositivo, avaliativo, mobilizador e normativo de apoio técnicopolítico  à  gestão  do  Campus,  sendo  seu  funcionamento  regulamentado  pela  Resolução 22/2014 . 
+sendo o mínimo de 02 (dois) e o máximo de 04 (quatro) representantes, eleitos por seus pares;
 
-A função consultiva e propositiva corresponde às competências para assessorar a gestão, opinando sobre as ações pedagógicas, administrativas, orçamentárias e disciplinares exercidas pelas Unidades Executivas. 
+IV – representação de 1/3 (um terço) do número de câmpus, destinada aos servidores técnico–administrativos, sendo o mínimo de 02 (dois) e o máximo de 04 (quatro) representantes, eleitos por seus pares;
 
-A função avaliativa corresponde às competências para diagnosticar, avaliar e fiscalizar o cumprimento das ações desenvolvidas pelo Campus. 
+V – 01 (um) representante dos egressos da instituição;
 
-A  função  mobilizadora  corresponde  às  competências  para  apoiar,  promover  e estimular a comunidade escolar e local em busca da melhoria da qualidade do ensino e do acesso à escola. 
+VI – 06 (seis) representantes externos, da sociedade civil, sendo 02 (dois) indicados  por  entidades patronais,  02  (dois) indicados  por  entidades dos trabalhadores, e 02 (dois) representantes do setor público e/ou empresas estatais.
 
-A função normativa corresponde à função de orientar e disciplinar, por meio de normas  complementares,  diretrizes  e  indicações,  dentro  do  âmbito  de  sua  competência, obedecendo aos marcos legais do IFPR. 
+VII  –  01  (um)  representante  do  Ministério  da  Educação,  designado  pela Secretaria de Educação Profissional e Tecnológica;
 
-## **6.3.2 Representatividade da Comunidade Acadêmica** 
+VIII  –  representação  de  1/3  dos Diretores Gerais dos  câmpus, sendo no mínimo de 02(dois) e o máximo de 04(quatro), eleitos por seus pares;
 
-Conforme  estabelecido  pelo  estatuto  do  IFPR,  o  Conselho  Superior,  de  caráter consultivo e deliberativo, é o órgão máximo do Instituto Federal, tendo a seguinte composição: 
+IX – representação de 1/3 dos Pró–Reitores, sendo no mínimo de 02(dois) e o máximo de 04 (quatro), escolhidos entre seus pares;
 
-I – o Reitor, como presidente; 
+No ambito local, a Resolução 22/2014 estabelece a seguinte composição para o Colégio de Dirigentes nos _Campi_ :
 
-II – representação de 1/3 (um terço) do número de câmpus, destinada aos servidores docentes, sendo o mínimo de 02 (dois) e o máximo de 04 (quatro) representantes, eleitos por seus pares; 
+I - Direção-Geral, como Presidente;
 
-III – representação de 1/3 (um terço) do número de câmpus, destinada ao corpo discente, dentre os alunos matriculados nos cursos regulares do IFPR, 
+II - Diretoria de Planejamento e Administração;
 
-96 
+III - Diretoria de Ensino, Pesquisa e Extensão;
 
-**==> picture [472 x 55] intentionally omitted <==**
+IV - representação de 50% das Coordenações de Curso e/ou área, de eixos tecnológicos distintos, sendo no mínimo de 02 (dois) e no máximo de 04 (quatro), eleitos por seus pares;
 
-sendo o mínimo de 02 (dois) e o máximo de 04 (quatro) representantes, eleitos por seus pares; 
+V - 02 (dois) representantes dos docentes;
 
-IV – representação de 1/3 (um terço) do número de câmpus, destinada aos servidores técnico–administrativos, sendo o mínimo de 02 (dois) e o máximo de 04 (quatro) representantes, eleitos por seus pares; 
+VI - 02 (dois) representantes dos Técnicos Administrativos em Educação;
 
-V – 01 (um) representante dos egressos da instituição; 
+VII - 02 (dois) representantes discentes, sendo um do ensino superior, quando
 
-VI – 06 (seis) representantes externos, da sociedade civil, sendo 02 (dois) indicados  por  entidades patronais,  02  (dois) indicados  por  entidades dos trabalhadores, e 02 (dois) representantes do setor público e/ou empresas estatais. 
+houver;
 
-VII  –  01  (um)  representante  do  Ministério  da  Educação,  designado  pela Secretaria de Educação Profissional e Tecnológica; 
+VIII - 01 (um) representante dos pais de alunos da Educação Profissional
 
-VIII  –  representação  de  1/3  dos Diretores Gerais dos  câmpus, sendo no mínimo de 02(dois) e o máximo de 04(quatro), eleitos por seus pares; 
+Técnica Integrada ao Ensino Médio;
 
-IX – representação de 1/3 dos Pró–Reitores, sendo no mínimo de 02(dois) e o máximo de 04 (quatro), escolhidos entre seus pares; 
+IX - 02 (dois) representantes da sociedade civil, sendo 01 (um) indicado por entidades patronais e 01 (um) indicado por entidades dos(as) trabalhadores(as).
 
-No ambito local, a Resolução 22/2014 estabelece a seguinte composição para o Colégio de Dirigentes nos _Campi_ : 
+Todos  os  membros  terão mandato  representativos  de  dois anos, permitida  uma recondução.
 
-I - Direção-Geral, como Presidente; 
+## **6.3.3 Participação da Sociedade Civil na Gestão do Curso**
 
-II - Diretoria de Planejamento e Administração; 
+Através do Colégio Dirigente do Câmpus — CODIC — a sociedade participa ativamente do apoio técnico-político à gestão no Câmpus, através de ações consultivas, propositivas, avaliativas, mobilizadoras e normativas.
 
-III - Diretoria de Ensino, Pesquisa e Extensão; 
+A função consultiva e propositiva corresponde às competências para assessorar a gestão do Câmpus, opinando sobre as ações pedagógicas, administrativas, orçamentárias e disciplinares exercidas pelas Unidades Executivas, abrangendo as seguintes atividades:
 
-IV - representação de 50% das Coordenações de Curso e/ou área, de eixos tecnológicos distintos, sendo no mínimo de 02 (dois) e no máximo de 04 (quatro), eleitos por seus pares; 
+I - manifestar sobre a proposta curricular do Câmpus, bem como analisar dados do desempenho educacional da instituição para propor o planejamento das atividades pedagógicas;
 
-V - 02 (dois) representantes dos docentes; 
+II - participar do processo de avaliação institucional da unidade e opinar sobre os processos que lhe forem encaminhados;
 
-VI - 02 (dois) representantes dos Técnicos Administrativos em Educação; 
+III - recomendar providências para a melhor utilização do espaço físico, bens e serviços e do pessoal do Câmpus;
 
-VII - 02 (dois) representantes discentes, sendo um do ensino superior, quando 
+IV  -  opinar  sobre  o  planejamento  global  e  orçamentário  do  Câmpus  e recomendar sobre suas prioridades, para fins de aplicação dos recursos a elas destinados;
 
-houver; 
+V - manifestar  sobre  a prestação  de  contas referentes aos programas  e projetos
 
-VIII - 01 (um) representante dos pais de alunos da Educação Profissional 
+desenvolvidos pelo Câmpus, antes de ser encaminhada ao setor competente do IFPR;
 
-97 
+VI - propor estratégias para atender com eficiência e eficácia as atividades finalísticas do Câmpus.
 
-**==> picture [472 x 55] intentionally omitted <==**
+A função avaliativa corresponde às competências para diagnosticar, avaliar e fiscalizar o cumprimento das ações desenvolvidas pelo Câmpus, abrangendo as seguintes atividades:
 
-Técnica Integrada ao Ensino Médio; 
+I - acompanhar e avaliar, periodicamente e ao final de cada ano letivo, o desenvolvimento do Projeto Político Pedagógico, bem como o cumprimento de outros marcos regulatórios da gestão;
 
-IX - 02 (dois) representantes da sociedade civil, sendo 01 (um) indicado por entidades patronais e 01 (um) indicado por entidades dos(as) trabalhadores(as). 
+II - acompanhar os indicadores educacionais — evasão, aprovação, reprovação — e propor ações pedagógicas e sócioeducativas para a melhoria do processo educativo no Câmpus;
 
-Todos  os  membros  terão mandato  representativos  de  dois anos, permitida  uma recondução. 
+III  -  acompanhar  o  cumprimento  do  Calendário  Escolar  estabelecido  e participar da elaboração de Calendário Especial, quando necessário, conforme orientações da Reitoria do IFPR;
 
-## **6.3.3 Participação da Sociedade Civil na Gestão do Curso** 
+IV  -  acompanhar  o  desempenho  do  corpo  docente  e  administrativo comunicando à Direção-Geral caso seja detectada alguma irregularidade;
 
-Através do Colégio Dirigente do Câmpus — CODIC — a sociedade participa ativamente do apoio técnico-político à gestão no Câmpus, através de ações consultivas, propositivas, avaliativas, mobilizadoras e normativas. 
+V - acompanhar e analisar a execução orçamentária e financeira do Câmpus, zelando  por sua  correta  aplicação, observados os  dispositivos  legais pertinentes;
 
-A função consultiva e propositiva corresponde às competências para assessorar a gestão do Câmpus, opinando sobre as ações pedagógicas, administrativas, orçamentárias e disciplinares exercidas pelas Unidades Executivas, abrangendo as seguintes atividades: 
+VI - contribuir na avaliação das ações de ensino e dos projetos de pesquisa, de extensão e de inovação do Câmpus.
 
-I - manifestar sobre a proposta curricular do Câmpus, bem como analisar dados do desempenho educacional da instituição para propor o planejamento das atividades pedagógicas; 
+A  função  mobilizadora  corresponde  às  competências  para  apoiar,  promover  e estimular a comunidade escolar e local em busca da melhoria da qualidade do ensino e do acesso à escola, abrangendo as seguintes atividades:
 
-II - participar do processo de avaliação institucional da unidade e opinar sobre os processos que lhe forem encaminhados; 
+I - criar mecanismos para estimular a participação da comunidade escolar e local na execução do Projeto Político Pedagógico, promovendo a correspondente divulgação;
 
-III - recomendar providências para a melhor utilização do espaço físico, bens e serviços e do pessoal do Câmpus; 
+II - manter articulação com as Unidades Executivas do Câmpus, colaborando para  a  realização  das  respectivas  atividades  com  as  famílias,  com  a comunidade e com as empresas, inclusive apoiando as ações de resgate e conservação do patrimônio público;
 
-IV  -  opinar  sobre  o  planejamento  global  e  orçamentário  do  Câmpus  e recomendar sobre suas prioridades, para fins de aplicação dos recursos a elas destinados; 
+III - mobilizar a comunidade local a estabelecer parcerias com o Câmpus voltadas para o desenvolvimento do Projeto Político Pedagógico;
 
-V - manifestar  sobre  a prestação  de  contas referentes aos programas  e projetos 
+IV - propor a promoção de eventos culturais, comunitários e pedagógicos que favoreçam o respeito ao saber do estudante e valorizem a cultura local, bem como  estimular  a  instalação  de  fóruns  de  debates  que  elevem  o  nível intelectual, técnico e político dos diversos segmentos da comunidade escolar; V - incentivar a criação de grêmios estudantis e/ou diretórios acadêmicos e apoiar seu funcionamento.
 
-desenvolvidos pelo Câmpus, antes de ser encaminhada ao setor competente do IFPR; 
+A função normativa corresponde à função de orientar e disciplinar, por meio de normas  complementares,  diretrizes  e  indicações,  dentro  do  âmbito  de  sua  competência, obedecendo aos marcos legais do IFPR.
 
-VI - propor estratégias para atender com eficiência e eficácia as atividades finalísticas do Câmpus. 
+## **7. INFRAESTRUTURA**
 
-98 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-A função avaliativa corresponde às competências para diagnosticar, avaliar e fiscalizar o cumprimento das ações desenvolvidas pelo Câmpus, abrangendo as seguintes atividades: 
-
-I - acompanhar e avaliar, periodicamente e ao final de cada ano letivo, o desenvolvimento do Projeto Político Pedagógico, bem como o cumprimento de outros marcos regulatórios da gestão; 
-
-II - acompanhar os indicadores educacionais — evasão, aprovação, reprovação — e propor ações pedagógicas e sócioeducativas para a melhoria do processo educativo no Câmpus; 
-
-III  -  acompanhar  o  cumprimento  do  Calendário  Escolar  estabelecido  e participar da elaboração de Calendário Especial, quando necessário, conforme orientações da Reitoria do IFPR; 
-
-IV  -  acompanhar  o  desempenho  do  corpo  docente  e  administrativo comunicando à Direção-Geral caso seja detectada alguma irregularidade; 
-
-V - acompanhar e analisar a execução orçamentária e financeira do Câmpus, zelando  por sua  correta  aplicação, observados os  dispositivos  legais pertinentes; 
-
-VI - contribuir na avaliação das ações de ensino e dos projetos de pesquisa, de extensão e de inovação do Câmpus. 
-
-A  função  mobilizadora  corresponde  às  competências  para  apoiar,  promover  e estimular a comunidade escolar e local em busca da melhoria da qualidade do ensino e do acesso à escola, abrangendo as seguintes atividades: 
-
-I - criar mecanismos para estimular a participação da comunidade escolar e local na execução do Projeto Político Pedagógico, promovendo a correspondente divulgação; 
-
-II - manter articulação com as Unidades Executivas do Câmpus, colaborando para  a  realização  das  respectivas  atividades  com  as  famílias,  com  a comunidade e com as empresas, inclusive apoiando as ações de resgate e conservação do patrimônio público; 
-
-III - mobilizar a comunidade local a estabelecer parcerias com o Câmpus voltadas para o desenvolvimento do Projeto Político Pedagógico; 
-
-99 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-IV - propor a promoção de eventos culturais, comunitários e pedagógicos que favoreçam o respeito ao saber do estudante e valorizem a cultura local, bem como  estimular  a  instalação  de  fóruns  de  debates  que  elevem  o  nível intelectual, técnico e político dos diversos segmentos da comunidade escolar; V - incentivar a criação de grêmios estudantis e/ou diretórios acadêmicos e apoiar seu funcionamento. 
-
-A função normativa corresponde à função de orientar e disciplinar, por meio de normas  complementares,  diretrizes  e  indicações,  dentro  do  âmbito  de  sua  competência, obedecendo aos marcos legais do IFPR. 
-
-## **7. INFRAESTRUTURA** 
-
-## 7.1 ÁREAS DE ENSINO ESPECÍFICAS 
+## 7.1 ÁREAS DE ENSINO ESPECÍFICAS
 
 |Ambiente|Existente (sim/não)|A construir (sim/não)|Área (m2)|
 |---|---|---|---|
@@ -2944,26 +2522,18 @@ A função normativa corresponde à função de orientar e disciplinar, por meio
 |Coordenadoria de curso|sim|||
 |Sala de reuniões|sim|||
 
-
-
-## 7.2 ÁREAS DE ESTUDO GERAL 
+## 7.2 ÁREAS DE ESTUDO GERAL
 
 |Ambiente|Existente(sim/não)|A construir(sim/não)|Área(m<br>2<br>)|
 |---|---|---|---|
 |Biblioteca|SIM|NÃO||
 |Laboratório de<br>informátca*|SIM|NÃO||
 
+* descrever o total de equipamentos e as configurações das máquinas
 
+** descrever os equipamentos e os insumos
 
-* descrever o total de equipamentos e as configurações das máquinas 
-
-** descrever os equipamentos e os insumos 
-
-100 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-## 7.3 ÁREAS DE ESTUDO ESPECÍFICO 
+## 7.3 ÁREAS DE ESTUDO ESPECÍFICO
 
 |Ambiente|Existente(sim/não)|A construir(sim/não)|A construir(sim/não)|Área(m2)|
 |---|---|---|---|---|
@@ -3004,12 +2574,6 @@ A função normativa corresponde à função de orientar e disciplinar, por meio
 |LIQUIDIFICADOR PROFISSIONAL 1,5L, INOX 127V, 800W FAK/LBR2L|||1||
 |MESA EM AÇO INOXIDÁVEL COM TAMPO E PÉS EM INOX 190X90CM|||2||
 |MINI FORNO DE CONVECÇÃO ELÉTRICO PARA PANIFICAÇÃO|||1||
-
-
-
-101 
-
-**==> picture [472 x 55] intentionally omitted <==**
 
 |MOEDOR DE CARNE|1|
 |---|---|
@@ -3063,12 +2627,6 @@ A função normativa corresponde à função de orientar e disciplinar, por meio
 |Bandeja Retangular|2|
 |Bicos de Confeitar|13|
 
-
-
-102 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |Bicos de Confeitar (Plástico)|3|
 |---|---|
 |Bisnaga Para Molhos|4|
@@ -3120,12 +2678,6 @@ A função normativa corresponde à função de orientar e disciplinar, por meio
 |Espelhos para Servir Pequenos|3|
 |Espremedor de Limão|1|
 |Espumadeira|1|
-
-
-
-103 
-
-**==> picture [472 x 55] intentionally omitted <==**
 
 |Faca Curvadas|5|
 |---|---|
@@ -3179,12 +2731,6 @@ A função normativa corresponde à função de orientar e disciplinar, por meio
 |Panela|6|
 |Panela de Cerveja|1|
 
-
-
-104 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |Panela Grande Porte|4|
 |---|---|
 |Panela Média|3|
@@ -3237,21 +2783,13 @@ A função normativa corresponde à função de orientar e disciplinar, por meio
 |Travessa Arredondada Grande|6|
 |Travessa Arredondada Média|6|
 
-
-
-105 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |Travessa Grande Cerâmica|2|
 |---|---|
 |Travessa Retangular|5|
 
+* descrever os equipamentos, insumos, etc. Os laboratórios específicos devem ter regulamento próprio para utilização, atualização e manutenção do mesmo.
 
-
-* descrever os equipamentos, insumos, etc. Os laboratórios específicos devem ter regulamento próprio para utilização, atualização e manutenção do mesmo. 
-
-A ocupação de espaço físico será realizada da seguinte maneira: 
+A ocupação de espaço físico será realizada da seguinte maneira:
 
 |**SALAS DE**<br>**AULA**|**TURNO**|**2019**|**2020**|**2021**|**2022**|
 |---|---|---|---|---|---|
@@ -3276,12 +2814,6 @@ A ocupação de espaço físico será realizada da seguinte maneira:
 |**Sala 07**|Matutino|Edificações|Edificações|Edificações|Edificações|
 ||Vespertin|Edificações|Edificações|Edificações|Edificações|
 
-
-
-106 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 ||o|||||
 |---|---|---|---|---|---|
 ||Noturno|||Tecnologia em<br>Análise  Desen.<br>Sistemas|Tecnologia em<br>Análise  Desen.<br>Sistemas|
@@ -3295,13 +2827,11 @@ A ocupação de espaço físico será realizada da seguinte maneira:
 ||Vespertin<br>o|Física|Física|Física|Física|
 ||Noturno|||||
 
+A ocupação dos laboratórios é baseada na carga horária de aulas práticas do curso. Considerando o volume de aulas diárias (até 6h) e o número de dias letivos semanais (cinco), teremos até 30 (trinta) horas semanais para uso de cada laboratório, ou 600 (seiscentas) horas semestrais (20 semanas de aula). Outro aspecto importante é que as turmas de gastronomia serão divididas em duas para a boa execução das técnicas e também por questõ es de higiene e segurança do trabalho.
 
+De acordo com a matriz curricular do curso, a carga horária com demanda por laboratório será apresentada no quadro abaixo:
 
-A ocupação dos laboratórios é baseada na carga horária de aulas práticas do curso. Considerando o volume de aulas diárias (até 6h) e o número de dias letivos semanais (cinco), teremos até 30 (trinta) horas semanais para uso de cada laboratório, ou 600 (seiscentas) horas semestrais (20 semanas de aula). Outro aspecto importante é que as turmas de gastronomia serão divididas em duas para a boa execução das técnicas e também por questõ es de higiene e segurança do trabalho. 
-
-De acordo com a matriz curricular do curso, a carga horária com demanda por laboratório será apresentada no quadro abaixo: 
-
-107 
+107
 
 ||1° SEMESTRE<br>h/aula CH PRÁTICA<br>LABORATÓRIOS<br>Habilidades básicas de cozinha 1<br>120<br>100<br>CQ<br>PAN<br>Nutrição aplicada àgastronomia<br>40<br>12<br>DEMO<br>REST<br>Serviço de salão e bar<br>40<br>20<br>DEMO<br>REST<br>Ambientaçãoprofssional(restaurante escola)<br>120<br>120<br>DEMO<br>REST<br>2° SEMESTRE<br>h/aula CH PRÁTICA<br>LABORATÓRIOS<br>Habilidades básicas de cozinha 2<br>80<br>60<br>CQ<br>PAN<br>Garde Manger<br>80<br>72<br>CQ<br>PAN<br>Tecnologia dos alimentos aplicada à Gastronomia<br>80<br>40<br>DEMO<br>REST<br>Basesparapanifcação<br>80<br>72<br>CQ<br>PAN<br>Gastronomia Clássicas Francesa e Italiana<br>120<br>120<br>CQ<br>PAN<br>3° SEMESTRE<br>h/aula CH PRÁTICA<br>LABORATÓRIOS<br>Gastronomia Brasileira<br>120<br>100<br>CQ<br>PAN<br>Eventos<br>40<br>20<br>DEMO<br>REST<br>Confeitaria<br>80<br>72<br>CQ<br>PAN<br>Bebidas<br>40<br>20<br>DEMO<br>REST<br>Gastronomia Europeia<br>120<br>120<br>CQ<br>PAN<br>4° SEMESTRE<br>h/aula CH PRÁTICA<br>LABORATÓRIOS<br>Gastronomia Étnica(Américas,Ásia e África)<br>240<br>200<br>CQ<br>PAN<br>Enogastronomia<br>80<br>40<br>DEMO<br>REST|1° SEMESTRE<br>h/aula CH PRÁTICA<br>LABORATÓRIOS<br>Habilidades básicas de cozinha 1<br>120<br>100<br>CQ<br>PAN<br>Nutrição aplicada àgastronomia<br>40<br>12<br>DEMO<br>REST<br>Serviço de salão e bar<br>40<br>20<br>DEMO<br>REST<br>Ambientaçãoprofssional(restaurante escola)<br>120<br>120<br>DEMO<br>REST<br>2° SEMESTRE<br>h/aula CH PRÁTICA<br>LABORATÓRIOS<br>Habilidades básicas de cozinha 2<br>80<br>60<br>CQ<br>PAN<br>Garde Manger<br>80<br>72<br>CQ<br>PAN<br>Tecnologia dos alimentos aplicada à Gastronomia<br>80<br>40<br>DEMO<br>REST<br>Basesparapanifcação<br>80<br>72<br>CQ<br>PAN<br>Gastronomia Clássicas Francesa e Italiana<br>120<br>120<br>CQ<br>PAN<br>3° SEMESTRE<br>h/aula CH PRÁTICA<br>LABORATÓRIOS<br>Gastronomia Brasileira<br>120<br>100<br>CQ<br>PAN<br>Eventos<br>40<br>20<br>DEMO<br>REST<br>Confeitaria<br>80<br>72<br>CQ<br>PAN<br>Bebidas<br>40<br>20<br>DEMO<br>REST<br>Gastronomia Europeia<br>120<br>120<br>CQ<br>PAN<br>4° SEMESTRE<br>h/aula CH PRÁTICA<br>LABORATÓRIOS<br>Gastronomia Étnica(Américas,Ásia e África)<br>240<br>200<br>CQ<br>PAN<br>Enogastronomia<br>80<br>40<br>DEMO<br>REST|1° SEMESTRE<br>h/aula CH PRÁTICA<br>LABORATÓRIOS<br>Habilidades básicas de cozinha 1<br>120<br>100<br>CQ<br>PAN<br>Nutrição aplicada àgastronomia<br>40<br>12<br>DEMO<br>REST<br>Serviço de salão e bar<br>40<br>20<br>DEMO<br>REST<br>Ambientaçãoprofssional(restaurante escola)<br>120<br>120<br>DEMO<br>REST<br>2° SEMESTRE<br>h/aula CH PRÁTICA<br>LABORATÓRIOS<br>Habilidades básicas de cozinha 2<br>80<br>60<br>CQ<br>PAN<br>Garde Manger<br>80<br>72<br>CQ<br>PAN<br>Tecnologia dos alimentos aplicada à Gastronomia<br>80<br>40<br>DEMO<br>REST<br>Basesparapanifcação<br>80<br>72<br>CQ<br>PAN<br>Gastronomia Clássicas Francesa e Italiana<br>120<br>120<br>CQ<br>PAN<br>3° SEMESTRE<br>h/aula CH PRÁTICA<br>LABORATÓRIOS<br>Gastronomia Brasileira<br>120<br>100<br>CQ<br>PAN<br>Eventos<br>40<br>20<br>DEMO<br>REST<br>Confeitaria<br>80<br>72<br>CQ<br>PAN<br>Bebidas<br>40<br>20<br>DEMO<br>REST<br>Gastronomia Europeia<br>120<br>120<br>CQ<br>PAN<br>4° SEMESTRE<br>h/aula CH PRÁTICA<br>LABORATÓRIOS<br>Gastronomia Étnica(Américas,Ásia e África)<br>240<br>200<br>CQ<br>PAN<br>Enogastronomia<br>80<br>40<br>DEMO<br>REST|1° SEMESTRE<br>h/aula CH PRÁTICA<br>LABORATÓRIOS<br>Habilidades básicas de cozinha 1<br>120<br>100<br>CQ<br>PAN<br>Nutrição aplicada àgastronomia<br>40<br>12<br>DEMO<br>REST<br>Serviço de salão e bar<br>40<br>20<br>DEMO<br>REST<br>Ambientaçãoprofssional(restaurante escola)<br>120<br>120<br>DEMO<br>REST<br>2° SEMESTRE<br>h/aula CH PRÁTICA<br>LABORATÓRIOS<br>Habilidades básicas de cozinha 2<br>80<br>60<br>CQ<br>PAN<br>Garde Manger<br>80<br>72<br>CQ<br>PAN<br>Tecnologia dos alimentos aplicada à Gastronomia<br>80<br>40<br>DEMO<br>REST<br>Basesparapanifcação<br>80<br>72<br>CQ<br>PAN<br>Gastronomia Clássicas Francesa e Italiana<br>120<br>120<br>CQ<br>PAN<br>3° SEMESTRE<br>h/aula CH PRÁTICA<br>LABORATÓRIOS<br>Gastronomia Brasileira<br>120<br>100<br>CQ<br>PAN<br>Eventos<br>40<br>20<br>DEMO<br>REST<br>Confeitaria<br>80<br>72<br>CQ<br>PAN<br>Bebidas<br>40<br>20<br>DEMO<br>REST<br>Gastronomia Europeia<br>120<br>120<br>CQ<br>PAN<br>4° SEMESTRE<br>h/aula CH PRÁTICA<br>LABORATÓRIOS<br>Gastronomia Étnica(Américas,Ásia e África)<br>240<br>200<br>CQ<br>PAN<br>Enogastronomia<br>80<br>40<br>DEMO<br>REST|1° SEMESTRE<br>h/aula CH PRÁTICA<br>LABORATÓRIOS<br>Habilidades básicas de cozinha 1<br>120<br>100<br>CQ<br>PAN<br>Nutrição aplicada àgastronomia<br>40<br>12<br>DEMO<br>REST<br>Serviço de salão e bar<br>40<br>20<br>DEMO<br>REST<br>Ambientaçãoprofssional(restaurante escola)<br>120<br>120<br>DEMO<br>REST<br>2° SEMESTRE<br>h/aula CH PRÁTICA<br>LABORATÓRIOS<br>Habilidades básicas de cozinha 2<br>80<br>60<br>CQ<br>PAN<br>Garde Manger<br>80<br>72<br>CQ<br>PAN<br>Tecnologia dos alimentos aplicada à Gastronomia<br>80<br>40<br>DEMO<br>REST<br>Basesparapanifcação<br>80<br>72<br>CQ<br>PAN<br>Gastronomia Clássicas Francesa e Italiana<br>120<br>120<br>CQ<br>PAN<br>3° SEMESTRE<br>h/aula CH PRÁTICA<br>LABORATÓRIOS<br>Gastronomia Brasileira<br>120<br>100<br>CQ<br>PAN<br>Eventos<br>40<br>20<br>DEMO<br>REST<br>Confeitaria<br>80<br>72<br>CQ<br>PAN<br>Bebidas<br>40<br>20<br>DEMO<br>REST<br>Gastronomia Europeia<br>120<br>120<br>CQ<br>PAN<br>4° SEMESTRE<br>h/aula CH PRÁTICA<br>LABORATÓRIOS<br>Gastronomia Étnica(Américas,Ásia e África)<br>240<br>200<br>CQ<br>PAN<br>Enogastronomia<br>80<br>40<br>DEMO<br>REST|
 |---|---|---|---|---|---|
@@ -3326,17 +2856,15 @@ De acordo com a matriz curricular do curso, a carga horária com demanda por lab
 ||Gastronomia Étnica(Américas,Ásia e África)|240|200|CQ|PAN|
 ||Enogastronomia|80|40|DEMO|REST|
 
+**Legenda:** DEMO (laboratório de demonstrações); CQ (Cozinha quente e fria); PAN (Panificação e confeitaria); REST (Restaurante).
 
+Em funcionamento pleno, o curso terá no primeiro semestre de cada ano as turmas de 1°semestre e 3°semestre simultaneamente, e ainda, no segundo semestre de cada ano teremos as turmas de 2°semestre e 4° semestre em curso. Assim, devemos computar a soma das cargas horárias práticas em cada semestre do ano, assim, teremos a seguinte situação:
 
-**Legenda:** DEMO (laboratório de demonstrações); CQ (Cozinha quente e fria); PAN (Panificação e confeitaria); REST (Restaurante). 
+- 1° semestre do ano (turmas de 1° semestre e 3° semestre): 620 (seiscentos e vinte) horas de aulas práticas;
 
-Em funcionamento pleno, o curso terá no primeiro semestre de cada ano as turmas de 1°semestre e 3°semestre simultaneamente, e ainda, no segundo semestre de cada ano teremos as turmas de 2°semestre e 4° semestre em curso. Assim, devemos computar a soma das cargas horárias práticas em cada semestre do ano, assim, teremos a seguinte situação: 
+- 2° semestre de ano (turmas de 2°semestre e 4° semestre): 608 (seiscentos e oito) horas. Ao verificarmos a demanda de uso de cada laboratório por semestre de cada ano,
 
-- 1° semestre do ano (turmas de 1° semestre e 3° semestre): 620 (seiscentos e vinte) horas de aulas práticas; 
-
-- 2° semestre de ano (turmas de 2°semestre e 4° semestre): 608 (seiscentos e oito) horas. Ao verificarmos a demanda de uso de cada laboratório por semestre de cada ano, 
-
-teremos: 
+teremos:
 
 |<br>teremos:|||
 |---|---|---|
@@ -3346,15 +2874,9 @@ teremos:
 |Lab. Panifcação e Confeitaria|332 horas|348 horas|
 |Lab. Cozinha Quente e Fria|332 horas|348 horas|
 
+Assim, percebe-se que a demanda por cada laboratório é inferior à disponibilidade mencionada acima (600h), e portanto é possível afirmar que não haverá falta de espaço físico e que ainda é possível ofertar o técnico em cozinha.
 
-
-108 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-Assim, percebe-se que a demanda por cada laboratório é inferior à disponibilidade mencionada acima (600h), e portanto é possível afirmar que não haverá falta de espaço físico e que ainda é possível ofertar o técnico em cozinha. 
-
-## 7.4 ÁREAS DE ESPORTE E VIVÊNCIA 
+## 7.4 ÁREAS DE ESPORTE E VIVÊNCIA
 
 |Existente(sim/não)|A construir(sim/não)|Área(m2)<br>2.160<br>28<br>843|
 |---|---|---|
@@ -3362,9 +2884,7 @@ Assim, percebe-se que a demanda por cada laboratório é inferior à disponibili
 |sim|||
 |sim|||
 
-
-
-## 7.5 ÁREAS DE ATENDIMENTO DISCENTE 
+## 7.5 ÁREAS DE ATENDIMENTO DISCENTE
 
 |Ambiente|Existente(sim/não)|A construir(sim/não)|Área(m2)|
 |---|---|---|---|
@@ -3374,9 +2894,7 @@ Assim, percebe-se que a demanda por cada laboratório é inferior à disponibili
 |Primeiros socorros|não|não||
 |Serviço social|sim||23,12|
 
-
-
-## 7.6 ÁREAS DE APOIO 
+## 7.6 ÁREAS DE APOIO
 
 |Ambiente|Existente(sim/não)|A construir(sim/não)|Área(m2)|
 |---|---|---|---|
@@ -3385,19 +2903,13 @@ Assim, percebe-se que a demanda por cada laboratório é inferior à disponibili
 |Sala de áudio-visual|não|sim||
 |Mecanografa|não|não||
 
+7.7 BIBLIOTECA
 
+A biblioteca Engenheiro Luiz Eduardo Guimarães Borges, localizada no IFPR - Campus Foz do Iguaçu consta com espaço físico de 674,33 m² e um acervo composto por cerca de 11.200 obras que  incluem livros, periódicos, revistas, jornais e multimídias tecnicamente  organizados  e disponíveis para discentes, docentes, técnicos administrativos do IFPR e comunidade externa.
 
-109 
+A  biblioteca  funciona  de  segunda  a  sexta,  das  07:30  às  21:00  horas  e  possui  sistema informatizado de empréstimos, renovação, reserva e devolução realizadas através do Sistema Pergamum, que permite acesso e a realização de serviços por parte do usuário, fora do ambiente  da  instituição.  Além  disso,  é  possível  que  os  usuários  solicitem  materiais  das bibliotecas dos demais _campi_ do IFPR, que são enviadas via malote.
 
-**==> picture [472 x 55] intentionally omitted <==**
-
-7.7 BIBLIOTECA 
-
-A biblioteca Engenheiro Luiz Eduardo Guimarães Borges, localizada no IFPR - Campus Foz do Iguaçu consta com espaço físico de 674,33 m² e um acervo composto por cerca de 11.200 obras que  incluem livros, periódicos, revistas, jornais e multimídias tecnicamente  organizados  e disponíveis para discentes, docentes, técnicos administrativos do IFPR e comunidade externa. 
-
-A  biblioteca  funciona  de  segunda  a  sexta,  das  07:30  às  21:00  horas  e  possui  sistema informatizado de empréstimos, renovação, reserva e devolução realizadas através do Sistema Pergamum, que permite acesso e a realização de serviços por parte do usuário, fora do ambiente  da  instituição.  Além  disso,  é  possível  que  os  usuários  solicitem  materiais  das bibliotecas dos demais _campi_ do IFPR, que são enviadas via malote. 
-
-Os prazos e número de materiais autorizados para empréstimo são os seguintes: 
+Os prazos e número de materiais autorizados para empréstimo são os seguintes:
 
 |Categoria de usuários|Quantdade|Número de dias de<br>empréstmo|
 |---|---|---|
@@ -3406,25 +2918,19 @@ Os prazos e número de materiais autorizados para empréstimo são os seguintes:
 |Servidores (Docentes e<br>técnicos administratvos)|5 materiais|15 dias|
 |Comunidade externa|CONSULTA LOCAL|CONSULTA LOCAL|
 
+Quanto ao acervo ligado à área de Gastronomia, este é composto atualmente por mais de 500 obras, já disponíveis para utilização pela comunidade acadêmica. Cabe ressaltar que novas títulos serão adquiridos para o referido curso, o que possibilitará formação completa por parte dos alunos.
 
+## **8. PLANEJAMENTO ECONÔMICO E SUSTENTABILIDADE  FINANCEIRA**
 
-Quanto ao acervo ligado à área de Gastronomia, este é composto atualmente por mais de 500 obras, já disponíveis para utilização pela comunidade acadêmica. Cabe ressaltar que novas títulos serão adquiridos para o referido curso, o que possibilitará formação completa por parte dos alunos. 
+O IFPR Campus Foz do Iguaçu já possui estrutura física adequada a oferta do referido curso, a partir da conclusão da obra de reforma dos laboratórios de Gastronomia em Janeiro de 2019.  A  partir  da  disponibilidade  de  recursos  financeiros,  serão  demandados  novos equipamentos, mobiliário e serão realizadas substituições de outros já em uso prolongado, como fogões, fornos e bancadas.
 
-## **8. PLANEJAMENTO ECONÔMICO E SUSTENTABILIDADE  FINANCEIRA** 
+## 8.1 EXPANSÃO DO QUADRO DOCENTE
 
-O IFPR Campus Foz do Iguaçu já possui estrutura física adequada a oferta do referido curso, a partir da conclusão da obra de reforma dos laboratórios de Gastronomia em Janeiro de 2019.  A  partir  da  disponibilidade  de  recursos  financeiros,  serão  demandados  novos equipamentos, mobiliário e serão realizadas substituições de outros já em uso prolongado, como fogões, fornos e bancadas. 
+A expansão de quadro docente prevê somente a contratação de 1 (um) docente, com graduação em Gastronomia para atuar em disciplinas específicas da área. A forma de divisão de
 
-## 8.1 EXPANSÃO DO QUADRO DOCENTE 
+trabalho docente adotada pelo colegiado não prevê a fixação de professores em disciplinas, então é possível considerar que o mesmo atuará em qualquer disciplina técnica do CST em Gastronomia. Considera-se ainda a manutenção do Curso Técnico em Cozinha, e dessa forma o quadro docente completo terá carga horária adequada ao regulamento de ocupação de carga horária docente do IFPR.
 
-A expansão de quadro docente prevê somente a contratação de 1 (um) docente, com graduação em Gastronomia para atuar em disciplinas específicas da área. A forma de divisão de 
-
-110 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-trabalho docente adotada pelo colegiado não prevê a fixação de professores em disciplinas, então é possível considerar que o mesmo atuará em qualquer disciplina técnica do CST em Gastronomia. Considera-se ainda a manutenção do Curso Técnico em Cozinha, e dessa forma o quadro docente completo terá carga horária adequada ao regulamento de ocupação de carga horária docente do IFPR. 
-
-## 8.2 PROJEÇÃO DE AQUISIÇÃO DE MATERIAIS PERMANENTE E CONSUMO 
+## 8.2 PROJEÇÃO DE AQUISIÇÃO DE MATERIAIS PERMANENTE E CONSUMO
 
 |**DESCRIÇÃO DO ESPAÇO OU EQUIPAMENTO**|**QUANTIDAD**<br>**E**|**Valor unitário**|**VALOR ESTIMADO**<br>**(TOTAL - R$)**|
 |---|---|---|---|
@@ -3455,12 +2961,6 @@ trabalho docente adotada pelo colegiado não prevê a fixação de professores e
 |ULTRACONGELADOR 5 GNS|1|R$        18.000,00|R$             18.000,00|
 |BANCADA DE INOX 150X70 CM COM DUAS CUBAS DE<br>50 CM|3|R$          7.000,00|R$               21.000,00|
 |FORNO DE LASTRO|1|R$          1.500,00|R$               1.500,00|
-
-
-
-111 
-
-**==> picture [472 x 55] intentionally omitted <==**
 
 |CONGELADOR VERTICAL 10 GNS|1|R$          5.000,00|R$               5.000,00|
 |---|---|---|---|
@@ -3502,12 +3002,6 @@ trabalho docente adotada pelo colegiado não prevê a fixação de professores e
 |Copopara suco|100|R$8,00|R$800,00|
 |Taça de milk shake|30|R$15,00|R$450,00|
 |Xícara de chá(compires)|80|R$18,00|R$1.440,00|
-
-
-
-112 
-
-**==> picture [472 x 55] intentionally omitted <==**
 
 |Xícarapara café expresso(compires)|100|R$15,00|R$1.500,00|
 |---|---|---|---|
@@ -3551,12 +3045,6 @@ trabalho docente adotada pelo colegiado não prevê a fixação de professores e
 |Bulepara chá com coador interno(0,7L)|4|R$60,00|R$240,00|
 |Cremeira(para máquina de expresso)inox 0,6L|2|R$30,00|R$60,00|
 
-
-
-113 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |Açucareiropara mesa com tampa e colher/pá|10|R$15,00|R$150,00|
 |---|---|---|---|
 |Manteigueirapara mesa|10|R$15,00|R$150,00|
@@ -3598,12 +3086,6 @@ trabalho docente adotada pelo colegiado não prevê a fixação de professores e
 |Panela empedra sabãopequena|10|R$70,00|R$700,00|
 |Toalha de bandeja|40|R$4,00|R$160,00|
 |Toalha de mesa retangular|4|R$15,00|R$60,00|
-
-
-
-114 
-
-**==> picture [472 x 55] intentionally omitted <==**
 
 |Coqueteleira|6|R$30,00|R$180,00|
 |---|---|---|---|
@@ -3647,12 +3129,6 @@ trabalho docente adotada pelo colegiado não prevê a fixação de professores e
 |Passador tipo chinoisgrande|10|R$251,89|R$2.518,90|
 |Passador tipo chinois médio|12|R$159,90|R$1.918,80|
 
-
-
-115 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |Passador tipopeneira médio|20|R$77,99|R$1.559,80|
 |---|---|---|---|
 |Passador tipopeneirapequeno|20|R$48,52|R$970,40|
@@ -3694,12 +3170,6 @@ trabalho docente adotada pelo colegiado não prevê a fixação de professores e
 |Bowl inox médio|60|R$31,55|R$1.893,00|
 |Bowl inoxgrande|50|R$42,50|R$2.125,00|
 |Canudo/caçarola em alumínio médio|20|R$112,50|R$2.250,00|
-
-
-
-116 
-
-**==> picture [472 x 55] intentionally omitted <==**
 
 |Canudo/caçarola em alumíniopequeno|20|R$89,50|R$1.790,00|
 |---|---|---|---|
@@ -3743,12 +3213,6 @@ trabalho docente adotada pelo colegiado não prevê a fixação de professores e
 |Caixa PP branca|16|R$38,90|R$622,40|
 |Centrífugapara vegetais|20|R$33,24|R$664,80|
 
-
-
-117 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
 |Copo medidor|80|R$14,90|R$1.192,00|
 |---|---|---|---|
 |Cuscuzeira|10|R$53,96|R$539,60|
@@ -3761,159 +3225,137 @@ trabalho docente adotada pelo colegiado não prevê a fixação de professores e
 |Placa de corte vermelha|30|R$64,90|R$1.947,00|
 |INVESTIMENTO TOTAL|||R$           271.030,37|
 
+Destaca-se que a atual estrutura física, equipamentos e utensílios já nos permitem o início do curso, porém, a aquisição de novos materiais se fará necessária para melhor adequação do espaço físico e para substituição de outros pelo desgaste, fato inerente à equipamentos e utensílios de cozinhas profissionais.
 
+## 8.3 PROJEÇÃO DE AQUISIÇÃO DE ACERVO BIBLIOGRÁFICO
 
-Destaca-se que a atual estrutura física, equipamentos e utensílios já nos permitem o início do curso, porém, a aquisição de novos materiais se fará necessária para melhor adequação do espaço físico e para substituição de outros pelo desgaste, fato inerente à equipamentos e utensílios de cozinhas profissionais. 
+O processo de seleção de bibliografias básicas e complementares ocorre a partir da elaboração das ementas dos Projetos Pedagógicos de Cursos (PPCs). Os critérios de seleção das obras são os seguintes:
 
-## 8.3 PROJEÇÃO DE AQUISIÇÃO DE ACERVO BIBLIOGRÁFICO 
+- I. Adequação da obra ao conteúdo proposto pela ementa e ao nível educacional do curso;
 
-O processo de seleção de bibliografias básicas e complementares ocorre a partir da elaboração das ementas dos Projetos Pedagógicos de Cursos (PPCs). Os critérios de seleção das obras são os seguintes: 
+- II. Notoriedade do autor e/ou editor;
 
-- I. Adequação da obra ao conteúdo proposto pela ementa e ao nível educacional do curso; 
+- III. Atualidade;
 
-- II. Notoriedade do autor e/ou editor; 
+- IV. Relevância técnico-científica-cultural;
 
-- III. Atualidade; 
+- V. Escassez de material sobre o assunto na coleção da Biblioteca;
 
-- IV. Relevância técnico-científica-cultural; 
+- VI. Idioma acessível;
 
-- V. Escassez de material sobre o assunto na coleção da Biblioteca; 
+VII. Número de usuárias/os que poderão utilizar o material informacional;
 
-- VI. Idioma acessível; 
+VIII. Condições físicas do material;
 
-VII. Número de usuárias/os que poderão utilizar o material informacional; 
+- IX. Custo justificável, quando aplicável;
 
-VIII. Condições físicas do material; 
+- X. Formato e compatibilização com tecnologias disponíveis na instituição;
 
-- IX. Custo justificável, quando aplicável; 
+no XI. A quantidade de referências para cada ementa do mesmo PPC deverá conter, mínimo, **três** títulos de bibliografia básica, sendo a proporção mínima de dois terços em suporte físico, considerando-se **um** exemplar para cada cinco vagas anuais pretendidas/autorizadas;
 
-- X. Formato e compatibilização com tecnologias disponíveis na instituição; 
+- no
 
-no XI. A quantidade de referências para cada ementa do mesmo PPC deverá conter, mínimo, **três** títulos de bibliografia básica, sendo a proporção mínima de dois terços em suporte físico, considerando-se **um** exemplar para cada cinco vagas anuais pretendidas/autorizadas; 
+- XII. A quantidade de referências para a bibliografia complementar deverá ser de, mínimo, **quatro** títulos e **dois** exemplares para cada título, independente do suporte (físico e/ou eletrônico/virtual);
 
-118 
+- XIII. As  referências  eletrônicas  e  virtuais  indicadas  em  cada  ementa  devem  ter obrigatoriamente a garantia do acesso por meio de contrato, gerenciado pela biblioteca do campus e/ou CGB.
 
-**==> picture [472 x 55] intentionally omitted <==**
+Cabe destacar que o modelo atual de licitação é o pregão no qual o critério de seleção da vencedora é a empresa que fornecer o maior desconto por obra e não a que oferecer o menor preço por item, não sendo necessária a obrigatoriedade da realização de três orçamentos.
 
-- no 
+## **REFERÊNCIAS**
 
-- XII. A quantidade de referências para a bibliografia complementar deverá ser de, mínimo, **quatro** títulos e **dois** exemplares para cada título, independente do suporte (físico e/ou eletrônico/virtual); 
+- ABRASEL (Ed.). **Bares e restaurantes são a alavanca do Brasil empreendedor.** 2015. Disponível em: <http://www.abrasel.com.br/noticias/3164-07012015-bares-e-
 
-- XIII. As  referências  eletrônicas  e  virtuais  indicadas  em  cada  ementa  devem  ter obrigatoriamente a garantia do acesso por meio de contrato, gerenciado pela biblioteca do campus e/ou CGB. 
+   - restaurantes-sao-a-alavanca-do-brasil-empreendedor.html>. Acesso em: 09 ago. 2018.
 
-Cabe destacar que o modelo atual de licitação é o pregão no qual o critério de seleção da vencedora é a empresa que fornecer o maior desconto por obra e não a que oferecer o menor preço por item, não sendo necessária a obrigatoriedade da realização de três orçamentos. 
+- BARRETO, Ronaldo Lopes Pontes; SENRA, Asdrubal. A gastronomia e o turismo. In: ANSARAH, Marilia Gomes dos Reis et al. **Turismo como aprender como ensinar.** São Paulo: Senac, 2000. p. 235-265.
 
-## **REFERÊNCIAS** 
+- BECKER, Fernando. Ensino e construção de conhecimento. Porto Alegre, Armed, 2001. 125p.BRASIL.
 
-- ABRASEL (Ed.). **Bares e restaurantes são a alavanca do Brasil empreendedor.** 2015. Disponível em: <http://www.abrasel.com.br/noticias/3164-07012015-bares-e- 
+- BRILLAT-SAVARIN, Jean-anthelme. **Fisiologia do gosto.** São Paulo: Companhia das Letras, 1995. Tradução: Paulo Neves.
 
-   - restaurantes-sao-a-alavanca-do-brasil-empreendedor.html>. Acesso em: 09 ago. 2018. 
+- CARNEIRO, Henrique. **Comida e sociedade** : uma história da alimentação. Rio de Janeiro: Elsevier, 2003 – 3ª edição.
 
-- BARRETO, Ronaldo Lopes Pontes; SENRA, Asdrubal. A gastronomia e o turismo. In: ANSARAH, Marilia Gomes dos Reis et al. **Turismo como aprender como ensinar.** São Paulo: Senac, 2000. p. 235-265. 
+- CASTELLI, Geraldo. **Hospitalidade** : Na perspectiva da Gastronomia e Hotelaria. São Paulo: Saraiva, 2005.
 
-- BECKER, Fernando. Ensino e construção de conhecimento. Porto Alegre, Armed, 2001. 125p.BRASIL. 
+- CERVO, Amado Luiz; SILVA, Roberto da; BERVIAN, Pedro A.. **Metodologia Científica.** São Paulo: Pearson Education Brasil, 2007.
 
-- BRILLAT-SAVARIN, Jean-anthelme. **Fisiologia do gosto.** São Paulo: Companhia das Letras, 1995. Tradução: Paulo Neves. 
+- DEMO, Pedro. **Introdução à metodologia da ciência** . São Paulo: Atlas, 1985.
 
-- CARNEIRO, Henrique. **Comida e sociedade** : uma história da alimentação. Rio de Janeiro: Elsevier, 2003 – 3ª edição. 
+- DÓRIA, Carlos Alberto. **A culinária materialista** : construção racional do alimento e do prazer gastronômico. São Paulo: SENAC São Paulo, 2009.
 
-- CASTELLI, Geraldo. **Hospitalidade** : Na perspectiva da Gastronomia e Hotelaria. São Paulo: Saraiva, 2005. 
+- FLANDRIN, Jean-Louis; MONTANARI, Massimo. (tradução de Luciano Vieira Machado, Guilherme J. F. Teixeira) – **Historia da alimentação** . São Paulo: Estação liberdade, 1998.
 
-- CERVO, Amado Luiz; SILVA, Roberto da; BERVIAN, Pedro A.. **Metodologia Científica.** São Paulo: Pearson Education Brasil, 2007. 
+- FOZ DO IGUAÇU. Foz do Iguaçu. Secretaria de Turismo (Ed.). **Inventário técnico de**
 
-- DEMO, Pedro. **Introdução à metodologia da ciência** . São Paulo: Atlas, 1985. 
+   - **estatísticas turísticas.** Foz do Iguaçu, 2017.
 
-- DÓRIA, Carlos Alberto. **A culinária materialista** : construção racional do alimento e do prazer gastronômico. São Paulo: SENAC São Paulo, 2009. 
+- FOZ DO IGUAÇU - PARANÁ. SECRETARIA MUNICIPAL DE TURISMO. . **Número total de visitantes - 2016:** Principais Atrativos Turísticos e Portões de Entrada (Aeroporto e
 
-- FLANDRIN, Jean-Louis; MONTANARI, Massimo. (tradução de Luciano Vieira Machado, Guilherme J. F. Teixeira) – **Historia da alimentação** . São Paulo: Estação liberdade, 1998. 
+- Rodoviária) de Foz do Iguaçu. Foz do Iguaçu: ________, 2017.
 
-- FOZ DO IGUAÇU. Foz do Iguaçu. Secretaria de Turismo (Ed.). **Inventário técnico de** 
+- FRANCO, Ariovaldo. **De caçador a Gourmet** : uma história da Gastronomia. São Paulo: Editora Senac São Paulo, 2001.
 
-119 
+- GANDIN, Danilo; GANDIN, Luís Armando. **Temas para um projeto político-pedagógico** . 8. ed.Petrópolis: Vozes, 1999. 176 p.
 
-**==> picture [472 x 55] intentionally omitted <==**
+- GUIA DO ESTUDANTE (Ed.). **Gastronomia é o curso mais concorrido da UFRJ.** Disponível em: <https://guiadoestudante.abril.com.br/universidades/gastronomia-e-o-curso-maisconcorrido-da-ufrj/>. Acesso em: 09 ago. 2018.
 
-   - **estatísticas turísticas.** Foz do Iguaçu, 2017. 
+- HARRINGTON, Robert J. et al. The Institutionalization of Culinary Education: An Initial Assessment. **Journal Of Culinary Science & Technology,** ______, v. 4, n. 4, p.31-49, jan. 2005.
 
-- FOZ DO IGUAÇU - PARANÁ. SECRETARIA MUNICIPAL DE TURISMO. . **Número total de visitantes - 2016:** Principais Atrativos Turísticos e Portões de Entrada (Aeroporto e 
+- HORNG, Jeou-shyan; TSAI, Chen-tsang. Culinary Tourism Strategic Development: an AsiaPacifi c Perspective. **International Journal Of Tourism Research** _,_ _**_______,**_ p.40-55, fev. 2012.
 
-- Rodoviária) de Foz do Iguaçu. Foz do Iguaçu: ________, 2017. 
+- HOUAISS, Antonio. **Míni Dicionário Houaiss da Língua Portuguesa.** Rio de Janeiro: Objetiva, 2010.
 
-- FRANCO, Ariovaldo. **De caçador a Gourmet** : uma história da Gastronomia. São Paulo: Editora Senac São Paulo, 2001. 
+- IFCE Vestibular. 2018. Disponível em: <ifce.edu.br>. Acesso em: 09 ago. 2018.
 
-- GANDIN, Danilo; GANDIN, Luís Armando. **Temas para um projeto político-pedagógico** . 8. ed.Petrópolis: Vozes, 1999. 176 p. 
+- IFSC Concorrência do Vestibular 2018. 2018. Disponível em: <ifsc.edu.br>. Acesso em: 09 ago. 2018.
 
-- GUIA DO ESTUDANTE (Ed.). **Gastronomia é o curso mais concorrido da UFRJ.** Disponível em: <https://guiadoestudante.abril.com.br/universidades/gastronomia-e-o-curso-maisconcorrido-da-ufrj/>. Acesso em: 09 ago. 2018. 
+- IFPI Vestibular 2018. Disponível em: <ifpi.edu.br>. Acesso em: 09 ago. 2018.
 
-- HARRINGTON, Robert J. et al. The Institutionalization of Culinary Education: An Initial Assessment. **Journal Of Culinary Science & Technology,** ______, v. 4, n. 4, p.31-49, jan. 2005. 
+- INSTITUTO PARANAENSE DE DESENVOLVIMENTO ECONÔMICO E SOCIAL (Comp.). **Mapa das regiões turísticas do Paraná:** Cataratas do Iguaçu e Caminhos do Lago de Itaipu. Disponível em: <http://www.ipardes.gov.br/perfil_municipal/MontaPerfil_novo.php? codlocal=972&btOk=ok>. Acesso em: 09 ago. 2018.
 
-- HORNG, Jeou-shyan; TSAI, Chen-tsang. Culinary Tourism Strategic Development: an AsiaPacifi c Perspective. **International Journal Of Tourism Research** _,_ _**_______,**_ p.40-55, fev. 2012. 
+- INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS ANÍSIO TEIXEIRA. . **EMec.** 2006. Disponível em: <www.inep.gov.br>. Acesso em: 10 ago. 2006.
 
-- HOUAISS, Antonio. **Míni Dicionário Houaiss da Língua Portuguesa.** Rio de Janeiro: Objetiva, 2010. 
+- KRAUSE, Rodolfo Wendhausen; DIAS, Celia Maria de Moraes. **. Educaçao superior em gastronomia no Brasil:** da necessidade ao projeto pedagogico do curso da UNIVALI. 2001. 132 f. Dissertação (Mestrado) - Curso de Mestrado em Turismo e Hotelaria, Universidade do Vale do Itajaí, Balneário Camboriú, 2001.
 
-- IFCE Vestibular. 2018. Disponível em: <ifce.edu.br>. Acesso em: 09 ago. 2018. 
+- LAKATOS, Eva Maria; MARCONI, Marina de Andrade. **Fundamentos de Metodologia Científica.** Curitiba: Atlas, 2010.
 
-- IFSC Concorrência do Vestibular 2018. 2018. Disponível em: <ifsc.edu.br>. Acesso em: 09 ago. 2018. 
+- MEC, **RESOLUÇÃO CNE/CEB 06/2012, de 20 de setembro de 2012** . Define Diretrizes
 
-- IFPI Vestibular 2018. Disponível em: <ifpi.edu.br>. Acesso em: 09 ago. 2018. 
+   - Curriculares Nacionais para Educação Profissional Técnica de Nível Médio.
 
-- INSTITUTO PARANAENSE DE DESENVOLVIMENTO ECONÔMICO E SOCIAL (Comp.). **Mapa das regiões turísticas do Paraná:** Cataratas do Iguaçu e Caminhos do Lago de Itaipu. Disponível em: <http://www.ipardes.gov.br/perfil_municipal/MontaPerfil_novo.php? codlocal=972&btOk=ok>. Acesso em: 09 ago. 2018. 
+- MINISTÉRIO DA EDUCAÇÃO (Comp.). **Cursos superiores de gastronomia no Brasil:** EMEC. 2018. Disponível em: <emec.mec.gov.br>. Acesso em: 09 ago. 2018.
 
-- INSTITUTO NACIONAL DE ESTUDOS E PESQUISAS EDUCACIONAIS ANÍSIO TEIXEIRA. . **EMec.** 2006. Disponível em: <www.inep.gov.br>. Acesso em: 10 ago. 2006. 
+- MINISTÉRIO DO TURISMO (Brasil) (Org.). **Indicadores do turismo no Brasil.** 2015. Disponível em: <turismo.gov.br>. Acesso em: 09 ago. 2018.
 
-- KRAUSE, Rodolfo Wendhausen; DIAS, Celia Maria de Moraes. **. Educaçao superior em gastronomia no Brasil:** da necessidade ao projeto pedagogico do curso da UNIVALI. 2001. 132 f. Dissertação (Mestrado) - Curso de Mestrado em Turismo e Hotelaria, Universidade do Vale do Itajaí, Balneário Camboriú, 2001. 
+- PITTE,  Jean-Robert. **Gastronomie  française** : historie  et  géographie  d'une  passion. France: Librarie Arthème Fayard, 2005.
 
-- LAKATOS, Eva Maria; MARCONI, Marina de Andrade. **Fundamentos de Metodologia Científica.** Curitiba: Atlas, 2010. 
+- SÁNCHEZ-CAÑIZARES, Sandra María; LÓPEZ-GUZMÁN, Tomás. Gastronomy as a tourism resource: profile of the culinary tourist. **Current Issues In Tourism** _,_ Córdoba, Espanha, v. 15, n. 03, p.229-245, 2012.
 
-- MEC, **RESOLUÇÃO CNE/CEB 06/2012, de 20 de setembro de 2012** . Define Diretrizes 
+- SPANG, Rebecca L., **A invenção do restaurante** : Paris e a moderna cultura gastronômica. Rio de Janeiro: Record, 2003.
 
-120 
+- RUSCHMAN, Doris van de Meene. SOLHA, Karina Toledo. (org.) **Planejamento turístico** . Barueri: Manole, 2006.
 
-**==> picture [472 x 55] intentionally omitted <==**
+- World Tourism Organization. **UNWTO Tourism Highlights 2016.** _____: OMT, 2016.s
 
-   - Curriculares Nacionais para Educação Profissional Técnica de Nível Médio. 
+- ZABALLA, Antoni. **A prática educativa** _:_ como ensinar. Porto Alegre: Artmed, 1998.
 
-- MINISTÉRIO DA EDUCAÇÃO (Comp.). **Cursos superiores de gastronomia no Brasil:** EMEC. 2018. Disponível em: <emec.mec.gov.br>. Acesso em: 09 ago. 2018. 
+## **APÊNDICES**
 
-- MINISTÉRIO DO TURISMO (Brasil) (Org.). **Indicadores do turismo no Brasil.** 2015. Disponível em: <turismo.gov.br>. Acesso em: 09 ago. 2018. 
+APÊNDICE A - REGULAMENTO DE ESTÁGIO
 
-- PITTE,  Jean-Robert. **Gastronomie  française** : historie  et  géographie  d'une  passion. France: Librarie Arthème Fayard, 2005. 
+APÊNDICE B - REGULAMENTO DE TRABALHO DE CONCLUSÃO DE CURSO
 
-- SÁNCHEZ-CAÑIZARES, Sandra María; LÓPEZ-GUZMÁN, Tomás. Gastronomy as a tourism resource: profile of the culinary tourist. **Current Issues In Tourism** _,_ Córdoba, Espanha, v. 15, n. 03, p.229-245, 2012. 
+APÊNDICE C - REGULAMENTO DE ATIVIDADES COMPLEMENTARES
 
-- SPANG, Rebecca L., **A invenção do restaurante** : Paris e a moderna cultura gastronômica. Rio de Janeiro: Record, 2003. 
+## **ANEXOS**
 
-- RUSCHMAN, Doris van de Meene. SOLHA, Karina Toledo. (org.) **Planejamento turístico** . Barueri: Manole, 2006. 
+- Atas de reuniões;
 
-- World Tourism Organization. **UNWTO Tourism Highlights 2016.** _____: OMT, 2016.s 
+- Atas do colegiado do curso;
 
-- ZABALLA, Antoni. **A prática educativa** _:_ como ensinar. Porto Alegre: Artmed, 1998. 
+- Atas do NDE;
 
-121 
+- Demais documentos comprobatórios necessários.
 
-**==> picture [472 x 55] intentionally omitted <==**
-
-## **APÊNDICES** 
-
-APÊNDICE A - REGULAMENTO DE ESTÁGIO 
-
-APÊNDICE B - REGULAMENTO DE TRABALHO DE CONCLUSÃO DE CURSO 
-
-APÊNDICE C - REGULAMENTO DE ATIVIDADES COMPLEMENTARES 
-
-122 
-
-**==> picture [472 x 55] intentionally omitted <==**
-
-## **ANEXOS** 
-
-- Atas de reuniões; 
-
-- Atas do colegiado do curso; 
-
-- Atas do NDE; 
-
-- Demais documentos comprobatórios necessários. 
-
-123 
+123
 
