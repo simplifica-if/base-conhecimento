@@ -33,6 +33,9 @@ from base_utils import (
     PROCESSOS_SELETIVOS_INDEX_PATH,
     PROCESSOS_SELETIVOS_INDEX_SCHEMA_PATH,
     PROCESSOS_SELETIVOS_ROOT,
+    PPCS_INDEX_PATH,
+    PPCS_INDEX_SCHEMA_PATH,
+    PPCS_SECOES_PATH,
     README_PATH,
     REQUIRED_FIELDS,
     ROOT,
@@ -82,6 +85,22 @@ CNCT_COURSE_FIELDS = [
     "infraestrutura_minima",
     "legislacao_profissional",
 ]
+PPC_SECTION_KINDS = {
+    "identificacao",
+    "justificativa",
+    "objetivos",
+    "perfil_egresso",
+    "concepcao_pedagogica",
+    "organizacao_curricular",
+    "matriz_curricular",
+    "ementas",
+    "avaliacao",
+    "estagio_praticas",
+    "infraestrutura",
+    "corpo_docente",
+    "referencias",
+    "outros",
+}
 
 
 def validate_links(path: Path, text: str) -> list[str]:
@@ -477,6 +496,9 @@ def validate_institucional() -> list[str]:
             processos_collection = next((item for item in colecoes if isinstance(item, dict) and item.get("id") == "processos-seletivos-ifpr"), None)
             if processos_collection is not None and processos_collection.get("path") != relative(PROCESSOS_SELETIVOS_INDEX_PATH):
                 errors.append("institucional_manifest.json: path da coleção processos-seletivos-ifpr diverge do índice")
+            ppcs_collection = next((item for item in colecoes if isinstance(item, dict) and item.get("id") == "ppcs-ifpr"), None)
+            if ppcs_collection is not None and ppcs_collection.get("path") != relative(PPCS_INDEX_PATH):
+                errors.append("institucional_manifest.json: path da coleção ppcs-ifpr diverge do índice")
 
     if not isinstance(index, dict):
         errors.append(f"{relative(CAMPI_INDEX_PATH)} deve conter um objeto JSON")
@@ -533,8 +555,164 @@ def validate_institucional() -> list[str]:
             f"index={sorted(index_paths)} arquivos={sorted(campus_paths)}"
         )
 
+    errors.extend(validate_ppcs(manifest))
     errors.extend(validate_processos_seletivos(manifest))
 
+    return errors
+
+
+def converted_ppcs_from_campi() -> dict[str, str]:
+    ppcs: dict[str, str] = {}
+    for campus_path in sorted((INSTITUCIONAL_ROOT / "ifpr" / "campi").glob("*.json")):
+        if campus_path.name == "index.json":
+            continue
+        data, errors = load_json(campus_path, f"campus {relative(campus_path)}")
+        if errors or not isinstance(data, dict):
+            continue
+        campus_id = data.get("id")
+        if not isinstance(campus_id, str):
+            continue
+        for curso in data.get("cursos", []):
+            if not isinstance(curso, dict):
+                continue
+            curso_id = curso.get("id")
+            ppc = curso.get("ppc")
+            if not isinstance(curso_id, str) or not isinstance(ppc, dict):
+                continue
+            conversao = ppc.get("conversao")
+            markdown_path = ppc.get("markdown_path")
+            if (
+                isinstance(conversao, dict)
+                and conversao.get("status") == "convertido"
+                and isinstance(markdown_path, str)
+                and (ROOT / markdown_path).exists()
+            ):
+                ppcs[f"{campus_id}/{curso_id}"] = markdown_path
+    return ppcs
+
+
+def validate_ppc_sections(index_items_by_id: dict[str, dict[str, object]]) -> list[str]:
+    errors: list[str] = []
+    if not PPCS_SECOES_PATH.exists():
+        return [f"{relative(PPCS_SECOES_PATH)} não encontrado"]
+
+    required = {"id", "ppc_id", "campus_id", "curso_id", "curso_nome", "section_kind", "heading", "path", "texto"}
+    seen_ids: set[str] = set()
+    with PPCS_SECOES_PATH.open(encoding="utf-8") as file:
+        for line_number, line in enumerate(file, start=1):
+            line = line.strip()
+            if not line:
+                errors.append(f"{relative(PPCS_SECOES_PATH)}:{line_number}: linha vazia")
+                continue
+            try:
+                item = json.loads(line)
+            except Exception as exc:  # noqa: BLE001
+                errors.append(f"{relative(PPCS_SECOES_PATH)}:{line_number}: JSON inválido: {exc}")
+                continue
+            if not isinstance(item, dict):
+                errors.append(f"{relative(PPCS_SECOES_PATH)}:{line_number}: item deve ser objeto")
+                continue
+            missing = sorted(required - set(item))
+            if missing:
+                errors.append(f"{relative(PPCS_SECOES_PATH)}:{line_number}: campos ausentes: {', '.join(missing)}")
+                continue
+            section_id = item.get("id")
+            ppc_id = item.get("ppc_id")
+            if not isinstance(section_id, str) or not isinstance(ppc_id, str):
+                errors.append(f"{relative(PPCS_SECOES_PATH)}:{line_number}: id e ppc_id devem ser texto")
+                continue
+            if section_id in seen_ids:
+                errors.append(f"{relative(PPCS_SECOES_PATH)}:{line_number}: id duplicado: {section_id}")
+            seen_ids.add(section_id)
+            if not section_id.startswith(f"{ppc_id}#"):
+                errors.append(f"{relative(PPCS_SECOES_PATH)}:{line_number}: id não deriva de ppc_id: {section_id}")
+            ppc_item = index_items_by_id.get(ppc_id)
+            if ppc_item is None:
+                errors.append(f"{relative(PPCS_SECOES_PATH)}:{line_number}: ppc_id inexistente no índice: {ppc_id}")
+                continue
+            for field in ["campus_id", "curso_id", "curso_nome", "path"]:
+                if item.get(field) != ppc_item.get(field):
+                    errors.append(f"{relative(PPCS_SECOES_PATH)}:{line_number}: campo {field} diverge do índice para {ppc_id}")
+            if item.get("section_kind") not in PPC_SECTION_KINDS:
+                errors.append(f"{relative(PPCS_SECOES_PATH)}:{line_number}: section_kind inválido: {item.get('section_kind')}")
+            for field in ["heading", "texto"]:
+                value = item.get(field)
+                if not isinstance(value, str) or not value.strip():
+                    errors.append(f"{relative(PPCS_SECOES_PATH)}:{line_number}: {field} deve ser texto não vazio")
+            texto = item.get("texto")
+            if isinstance(texto, str) and len(texto) > 8000:
+                errors.append(f"{relative(PPCS_SECOES_PATH)}:{line_number}: texto excede 8000 caracteres")
+
+    if not seen_ids:
+        errors.append(f"{relative(PPCS_SECOES_PATH)}: deve conter ao menos uma seção")
+    return errors
+
+
+def validate_ppcs(manifest: object) -> list[str]:
+    errors: list[str] = []
+    index, index_errors = load_json(PPCS_INDEX_PATH, "índice de PPCs")
+    errors.extend(index_errors)
+    if errors:
+        return errors
+    if not isinstance(index, dict):
+        return [f"{relative(PPCS_INDEX_PATH)} deve conter um objeto JSON"]
+
+    errors.extend(validate_with_schema(index, PPCS_INDEX_SCHEMA_PATH, relative(PPCS_INDEX_PATH)))
+    if index.get("secoes_path") != relative(PPCS_SECOES_PATH):
+        errors.append(f"{relative(PPCS_INDEX_PATH)}: secoes_path diverge do caminho esperado")
+
+    items = index.get("items")
+    if not isinstance(items, list) or not items:
+        errors.append(f"{relative(PPCS_INDEX_PATH)}: items deve ser lista não vazia")
+        return errors
+    if index.get("total_itens") != len(items):
+        errors.append(f"{relative(PPCS_INDEX_PATH)}: total_itens diverge de items")
+
+    if isinstance(manifest, dict):
+        colecoes = manifest.get("colecoes")
+        if isinstance(colecoes, list):
+            ppcs_collection = next((item for item in colecoes if isinstance(item, dict) and item.get("id") == "ppcs-ifpr"), None)
+            if ppcs_collection is None:
+                errors.append("institucional_manifest.json: coleção ppcs-ifpr ausente")
+            elif ppcs_collection.get("total_itens") != len(items):
+                errors.append("institucional_manifest.json: total_itens de ppcs-ifpr diverge do index.json")
+
+    expected_ppcs = converted_ppcs_from_campi()
+    seen_ids: set[str] = set()
+    index_items_by_id: dict[str, dict[str, object]] = {}
+    for item in items:
+        if not isinstance(item, dict):
+            errors.append(f"{relative(PPCS_INDEX_PATH)}: item deve ser objeto")
+            continue
+        ppc_id = item.get("id")
+        campus_id = item.get("campus_id")
+        curso_id = item.get("curso_id")
+        path_value = item.get("path")
+        if not isinstance(ppc_id, str):
+            errors.append(f"{relative(PPCS_INDEX_PATH)}: item sem id textual")
+            continue
+        if ppc_id in seen_ids:
+            errors.append(f"{relative(PPCS_INDEX_PATH)}: id duplicado: {ppc_id}")
+        seen_ids.add(ppc_id)
+        index_items_by_id[ppc_id] = item
+        if isinstance(campus_id, str) and isinstance(curso_id, str) and ppc_id != f"{campus_id}/{curso_id}":
+            errors.append(f"{relative(PPCS_INDEX_PATH)}: id diverge de campus_id/curso_id: {ppc_id}")
+        if not isinstance(path_value, str):
+            errors.append(f"{relative(PPCS_INDEX_PATH)}: path ausente em {ppc_id}")
+            continue
+        if not (ROOT / path_value).exists():
+            errors.append(f"{relative(PPCS_INDEX_PATH)}: path inexistente em {ppc_id}: {path_value}")
+        expected_path = expected_ppcs.get(ppc_id)
+        if expected_path is not None and path_value != expected_path:
+            errors.append(f"{relative(PPCS_INDEX_PATH)}: path diverge do campus JSON em {ppc_id}: {path_value}")
+
+    if seen_ids != set(expected_ppcs):
+        errors.append(
+            "índice de PPCs não cobre exatamente os PPCs convertidos dos campi: "
+            f"index={sorted(seen_ids)} campi={sorted(expected_ppcs)}"
+        )
+
+    errors.extend(validate_ppc_sections(index_items_by_id))
     return errors
 
 

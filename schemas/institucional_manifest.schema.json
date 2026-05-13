@@ -53,12 +53,13 @@
             "enum": [
               "campus",
               "processo_seletivo",
-              "referencia_institucional"
+              "referencia_institucional",
+              "ppc"
             ]
           },
           "path": {
             "type": "string",
-            "pattern": "^institucional/ifpr/(campi|processos-seletivos|referencias)/index\\.json$"
+            "pattern": "^institucional/ifpr/(campi|processos-seletivos|referencias|ppcs)/index\\.json$"
           },
           "total_itens": {
             "type": "integer",

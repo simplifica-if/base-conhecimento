@@ -43,6 +43,20 @@ Exemplos de perguntas que você pode fazer depois de colar o prompt:
 - Onde encontro o calendário acadêmico do Campus Curitiba?
 - Qual é a carga horária mínima do Técnico em Desenvolvimento de Sistemas no CNCT?
 - Quais cursos técnicos do CNCT têm ocupações CBO ligadas a enfermagem?
+- Me ajude a construir a concepção do curso Técnico em Química com base em PPCs semelhantes.
+- Compare justificativas de PPCs de cursos técnicos integrados.
+- Quais PPCs posso usar como referência para perfil profissional de conclusão?
+
+## PPCs convertidos para consulta
+
+A base também publica Projetos Pedagógicos de Curso (PPCs) do IFPR convertidos para Markdown, em `institucional/ifpr/ppcs/`. Esses arquivos servem como repertório institucional para consulta, comparação e apoio à elaboração ou revisão de PPCs.
+
+Para consumo por agentes IA, use:
+
+- [Índice de PPCs](institucional/ifpr/ppcs/index.json): catálogo estruturado com um item por PPC, filtrável por campus, curso, nível, tipo de oferta, ano do documento e links de origem.
+- [Índice de seções dos PPCs](institucional/ifpr/ppcs/secoes.jsonl): índice textual com seções extraídas dos PPCs, útil para localizar justificativas, objetivos, perfil profissional de conclusão, concepção pedagógica, organização curricular, avaliação, infraestrutura e outras partes recorrentes.
+
+Ao usar PPCs como apoio para redigir ou revisar textos, diferencie exemplos observados em PPCs de obrigações normativas. Para fundamentação regulatória, combine os PPCs com as normas da base e, quando se tratar de curso técnico, com o CNCT.
 
 ## Normas publicadas
 
@@ -79,6 +93,7 @@ Exemplos de perguntas que você pode fazer depois de colar o prompt:
 
 ```bash
 python3 scripts/gerar_base.py
+python3 scripts/gerar_indice_ppcs.py
 python3 scripts/validar_base.py
 ```
 
@@ -95,6 +110,7 @@ python3 scripts/validar_base.py
 
 - `normas/`: leis, resoluções, portarias, notas técnicas e compilações, organizadas por jurisdição e tipo documental.
 - `institucional/`: metadados e referências institucionais, como o cadastro de campi do IFPR e notas de referência em `institucional/ifpr/referencias/`.
+- `institucional/ifpr/ppcs/`: PPCs convertidos para Markdown e índices globais de PPCs e seções.
 - `catalogos/`: catálogos estruturados para busca por agentes IA, como o CNCT.
 - `manifest.json`: índice estruturado para consumo automático.
 - `institucional_manifest.json`: índice estruturado das coleções institucionais.

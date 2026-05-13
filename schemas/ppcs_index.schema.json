@@ -1,0 +1,124 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://raw.githubusercontent.com/simplifica-if/base-conhecimento/main/schemas/ppcs_index.schema.json",
+  "title": "Índice de PPCs do IFPR",
+  "type": "object",
+  "required": [
+    "title",
+    "tipo",
+    "versao",
+    "atualizado_em",
+    "total_itens",
+    "secoes_path",
+    "items"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "tipo": {
+      "const": "indice_ppcs"
+    },
+    "versao": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "atualizado_em": {
+      "type": "string",
+      "format": "date"
+    },
+    "total_itens": {
+      "type": "integer",
+      "minimum": 1
+    },
+    "secoes_path": {
+      "const": "institucional/ifpr/ppcs/secoes.jsonl"
+    },
+    "items": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": [
+          "id",
+          "campus_id",
+          "campus_nome",
+          "curso_id",
+          "curso_nome",
+          "nivel",
+          "tipo_oferta",
+          "curso_url",
+          "fonte_pdf",
+          "path"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*/[a-z0-9]+(?:-[a-z0-9]+)*$"
+          },
+          "campus_id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          },
+          "campus_nome": {
+            "type": "string",
+            "minLength": 1
+          },
+          "curso_id": {
+            "type": "string",
+            "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+          },
+          "curso_nome": {
+            "type": "string",
+            "minLength": 1
+          },
+          "nivel": {
+            "type": "string",
+            "minLength": 1
+          },
+          "tipo_oferta": {
+            "type": "string",
+            "minLength": 1
+          },
+          "modalidade": {
+            "type": "string",
+            "minLength": 1
+          },
+          "situacao": {
+            "type": "string",
+            "minLength": 1
+          },
+          "escopo": {
+            "type": "string",
+            "minLength": 1
+          },
+          "ano_documento": {
+            "type": "integer",
+            "minimum": 1900
+          },
+          "vagas": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "curso_url": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https://"
+          },
+          "fonte_pdf": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https://"
+          },
+          "path": {
+            "type": "string",
+            "pattern": "^institucional/ifpr/ppcs/[a-z0-9]+(?:-[a-z0-9]+)*/[a-z0-9]+(?:-[a-z0-9]+)*\\.md$"
+          }
+        }
+      }
+    }
+  }
+}

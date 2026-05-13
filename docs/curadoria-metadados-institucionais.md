@@ -69,6 +69,23 @@ Quando a página oficial do curso indicar o Projeto Pedagógico de Curso, regist
 10. A conversão para Markdown é apoio à leitura e extração. A fonte oficial continua sendo o PDF indicado em `ppc.url`.
 11. Para converter PDFs em Markdown, use o script opcional `scripts/converter_ppcs_markdown.py`, com dependências instaladas por `uv venv && uv pip install -r requirements-ppc.txt`. O conversor padrão é PyMuPDF4LLM com OCR local disponível.
 12. Registre o ano do PPC em `ppc.metadados.ano_documento` quando houver evidência no documento, preferencialmente na capa, folha de rosto, ato de ajuste ou indicação clara de revisão vigente.
+13. Depois de converter PPCs ou alterar metadados de cursos com PPC convertido, regenere os índices globais com `python3 scripts/gerar_indice_ppcs.py`.
+
+## Índices globais de PPCs
+
+A coleção `institucional/ifpr/ppcs/` contém os PPCs convertidos para Markdown e dois índices globais derivados:
+
+- `institucional/ifpr/ppcs/index.json`: catálogo estruturado com um item por PPC convertido.
+- `institucional/ifpr/ppcs/secoes.jsonl`: índice textual com uma linha JSON por seção extraída dos PPCs.
+
+Esses arquivos são gerados automaticamente a partir dos JSONs de campus e dos Markdown convertidos. Não edite `index.json` ou `secoes.jsonl` manualmente; ajuste a origem nos arquivos de campus ou no Markdown convertido e rode novamente:
+
+```bash
+python3 scripts/gerar_indice_ppcs.py
+python3 scripts/validar_base.py
+```
+
+Use os PPCs como referência institucional observada para comparação, repertório e apoio à elaboração de textos. Eles não substituem normas vigentes, resoluções, portarias ou o CNCT quando houver exigência normativa aplicável.
 
 ## Exemplo: Arapongas
 

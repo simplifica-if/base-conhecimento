@@ -24,6 +24,13 @@
       "tipo_item": "referencia_institucional",
       "path": "institucional/ifpr/referencias/index.json",
       "total_itens": 1
+    },
+    {
+      "id": "ppcs-ifpr",
+      "title": "Projetos Pedagógicos de Curso do IFPR",
+      "tipo_item": "ppc",
+      "path": "institucional/ifpr/ppcs/index.json",
+      "total_itens": 192
     }
   ]
 }
