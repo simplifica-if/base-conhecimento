@@ -6,6 +6,13 @@
     "site": "https://campolargo.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/campo-largo/espaco-do-aluno/calendario-academico-2/"
   },
+  "horario_aulas": {
+    "url": "https://ifpr.edu.br/campo-largo/espaco-do-aluno/horarios-de-aula-calendario/",
+    "titulo_fonte": "Horários de Aula",
+    "coletado_em": "2026-05-14T11:48:09-03:00",
+    "tipo_fonte": "pagina_ifpr",
+    "status_curadoria": "revisado"
+  },
   "cursos": [
     {
       "id": "administracao",
@@ -425,7 +432,8 @@
       "https://campolargo.ifpr.edu.br/",
       "https://ifpr.edu.br/campo-largo/",
       "https://ifpr.edu.br/campo-largo/nossos-cursos/cursos-ensino-medio-integrado/",
-      "https://ifpr.edu.br/campo-largo/nossos-cursos/cursos-tecnicos-subsequentes/"
+      "https://ifpr.edu.br/campo-largo/nossos-cursos/cursos-tecnicos-subsequentes/",
+      "https://ifpr.edu.br/campo-largo/espaco-do-aluno/horarios-de-aula-calendario/"
     ]
   }
 }

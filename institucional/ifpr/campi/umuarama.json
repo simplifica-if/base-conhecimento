@@ -6,6 +6,14 @@
     "site": "https://ifpr.edu.br/umuarama/",
     "calendario_academico": "https://ifpr.edu.br/umuarama/academico/calendario-academico/"
   },
+  "horario_aulas": {
+    "url": "https://ifprumuarama.edupage.org/timetable/",
+    "titulo_fonte": "Horário Escolar",
+    "coletado_em": "2026-05-14T11:48:09-03:00",
+    "tipo_fonte": "edupage",
+    "status_curadoria": "revisado",
+    "observacoes": "Sistema externo apontado pelo menu oficial do campus."
+  },
   "cursos": [
     {
       "id": "licenciatura-em-quimica",
@@ -309,7 +317,8 @@
     "verificado_em": "2026-05-11",
     "fontes": [
       "https://ifpr.edu.br/umuarama/",
-      "https://ifpr.edu.br/umuarama/cursos/cursos-tecnicos/"
+      "https://ifpr.edu.br/umuarama/cursos/cursos-tecnicos/",
+      "https://ifprumuarama.edupage.org/timetable/"
     ]
   }
 }

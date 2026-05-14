@@ -6,6 +6,13 @@
     "site": "https://ifpr.edu.br/assis-chateaubriand/",
     "calendario_academico": "https://ifpr.edu.br/assis-chateaubriand/menu-academico/area-do-estudante/vida-academica/calendario-academico/"
   },
+  "horario_aulas": {
+    "url": "https://ifpr.edu.br/assis-chateaubriand/menu-academico/area-do-estudante/vida-academica/horarios-de-aula/",
+    "titulo_fonte": "Horários de Aula",
+    "coletado_em": "2026-05-14T11:48:09-03:00",
+    "tipo_fonte": "pagina_ifpr",
+    "status_curadoria": "revisado"
+  },
   "cursos": [
     {
       "id": "tecnologia-em-automacao-industrial",
@@ -354,7 +361,8 @@
     "fontes": [
       "https://ifpr.edu.br/assis-chateaubriand/",
       "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/cursos-subsequentes/eletrotecnica/",
-      "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/cursos-subsequentes/eletromecanica/"
+      "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/cursos-subsequentes/eletromecanica/",
+      "https://ifpr.edu.br/assis-chateaubriand/menu-academico/area-do-estudante/vida-academica/horarios-de-aula/"
     ]
   }
 }

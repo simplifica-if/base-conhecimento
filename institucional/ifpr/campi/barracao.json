@@ -6,6 +6,13 @@
     "site": "https://barracao.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/barracao/academico/calendario-academico-e-administrativo/"
   },
+  "horario_aulas": {
+    "url": "https://ifpr.edu.br/barracao/academico/horarios-das-aulas/",
+    "titulo_fonte": "Horários das Aulas e do Atendimento",
+    "coletado_em": "2026-05-14T11:48:09-03:00",
+    "tipo_fonte": "pagina_ifpr",
+    "status_curadoria": "revisado"
+  },
   "cursos": [
     {
       "id": "tecnologia-em-comercio-exterior",
@@ -126,7 +133,8 @@
     "status_cursos": "dados_parciais",
     "verificado_em": "2026-05-11",
     "fontes": [
-      "https://barracao.ifpr.edu.br/"
+      "https://barracao.ifpr.edu.br/",
+      "https://ifpr.edu.br/barracao/academico/horarios-das-aulas/"
     ]
   }
 }

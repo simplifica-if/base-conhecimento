@@ -6,6 +6,12 @@
     "site": "https://quedasdoiguacu.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/quedas-do-iguacu/academico/calendario/"
   },
+  "horario_aulas": {
+    "titulo_fonte": "Páginas parciais de horário por curso",
+    "coletado_em": "2026-05-14T11:48:09-03:00",
+    "status_curadoria": "parcial",
+    "observacoes": "Não foi localizada página agregadora atual de horário das aulas. Foram encontradas apenas páginas antigas ou parciais por curso, como horários RDE e páginas de cursos técnicos."
+  },
   "cursos": [
     {
       "id": "tecnico-em-informatica",
@@ -90,7 +96,10 @@
     "status_cursos": "dados_parciais",
     "verificado_em": "2026-05-11",
     "fontes": [
-      "https://ifpr.edu.br/quedas-do-iguacu/"
+      "https://ifpr.edu.br/quedas-do-iguacu/",
+      "https://ifpr.edu.br/quedas-do-iguacu/medio-integrado-2/tecnico-em-meio-ambiente/horario/",
+      "https://ifpr.edu.br/quedas-do-iguacu/medio-integrado-2/tecnico-em-informatica/horario-2018/",
+      "https://ifpr.edu.br/quedas-do-iguacu/medio-integrado-2/tecnico-em-informatica/5691-2/rde-2020/"
     ]
   }
 }

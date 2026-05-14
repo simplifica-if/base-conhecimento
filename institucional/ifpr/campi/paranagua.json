@@ -6,6 +6,13 @@
     "site": "https://paranagua.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/paranagua/menu-do-aluno/calendario-academico-e-administrativo/"
   },
+  "horario_aulas": {
+    "url": "https://ifpr.edu.br/paranagua/menu-do-aluno/horarios-e-salas/",
+    "titulo_fonte": "Horários e Salas",
+    "coletado_em": "2026-05-14T11:48:09-03:00",
+    "tipo_fonte": "pagina_ifpr",
+    "status_curadoria": "revisado"
+  },
   "cursos": [
     {
       "id": "tecnico-em-producao-cultural",
@@ -295,7 +302,8 @@
     "status_cursos": "dados_parciais",
     "verificado_em": "2026-05-11",
     "fontes": [
-      "https://paranagua.ifpr.edu.br/"
+      "https://paranagua.ifpr.edu.br/",
+      "https://ifpr.edu.br/paranagua/menu-do-aluno/horarios-e-salas/"
     ]
   }
 }

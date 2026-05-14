@@ -6,6 +6,13 @@
     "site": "https://curitiba.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/curitiba/calendario-academico/"
   },
+  "horario_aulas": {
+    "url": "https://ifpr.edu.br/curitiba/horarios-de-aula/",
+    "titulo_fonte": "Horários",
+    "coletado_em": "2026-05-14T11:48:09-03:00",
+    "tipo_fonte": "pagina_ifpr",
+    "status_curadoria": "revisado"
+  },
   "cursos": [
     {
       "id": "tecnico-em-administracao-integrado-ao-ensino-medio",
@@ -1454,7 +1461,8 @@
       "https://ifpr.edu.br/curitiba/nossos-cursos/pos-graduacao-2/",
       "https://ifpr.edu.br/curitiba/curso-defesacivil/",
       "https://ifpr.edu.br/curitiba/pronacampo/",
-      "https://ifpr.edu.br/curitiba/pronacampo/editais-pronacampo/"
+      "https://ifpr.edu.br/curitiba/pronacampo/editais-pronacampo/",
+      "https://ifpr.edu.br/curitiba/horarios-de-aula/"
     ],
     "verificado_em": "2026-05-11"
   },

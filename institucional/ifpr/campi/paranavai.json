@@ -6,6 +6,13 @@
     "site": "https://paranavai.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/paranavai/secretaria/protocolos-academicos/"
   },
+  "horario_aulas": {
+    "url": "https://ifpr.edu.br/paranavai/horario/",
+    "titulo_fonte": "Horário de Aula",
+    "coletado_em": "2026-05-14T11:48:09-03:00",
+    "tipo_fonte": "pagina_ifpr",
+    "status_curadoria": "revisado"
+  },
   "cursos": [
     {
       "id": "especializacao-em-gestao-da-qualidade-e-tecnologia-de-alimentos",
@@ -259,7 +266,8 @@
     "status_cursos": "dados_parciais",
     "verificado_em": "2026-05-11",
     "fontes": [
-      "https://paranavai.ifpr.edu.br/"
+      "https://paranavai.ifpr.edu.br/",
+      "https://ifpr.edu.br/paranavai/horario/"
     ]
   }
 }

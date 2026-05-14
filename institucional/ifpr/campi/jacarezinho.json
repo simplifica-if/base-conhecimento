@@ -6,6 +6,12 @@
     "site": "https://jacarezinho.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/jacarezinho/calendario-academico/"
   },
+  "horario_aulas": {
+    "titulo_fonte": "Páginas de horário por curso",
+    "coletado_em": "2026-05-14T11:48:09-03:00",
+    "status_curadoria": "parcial",
+    "observacoes": "Não foi localizada página agregadora de horário das aulas. Foram encontradas páginas por curso, como Licenciatura em Química e Engenharia de Controle e Automação."
+  },
   "cursos": [
     {
       "id": "educacao-sociedade-e-tecnologia",
@@ -383,7 +389,9 @@
     "fontes": [
       "https://jacarezinho.ifpr.edu.br/",
       "https://ifpr.edu.br/jacarezinho/",
-      "https://ifpr.edu.br/jacarezinho/cursos/cursos-integrados/"
+      "https://ifpr.edu.br/jacarezinho/cursos/cursos-integrados/",
+      "https://ifpr.edu.br/jacarezinho/cursos/graduacao/licenciatura-em-quimica/horario-das-aulas/",
+      "https://ifpr.edu.br/jacarezinho/cursos/graduacao/engenharia-de-controle-e-automacao/horario-eca/"
     ]
   }
 }

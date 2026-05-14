@@ -6,6 +6,13 @@
     "site": "https://ivaipora.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/ivaipora/estudantes/calendario-academico/"
   },
+  "horario_aulas": {
+    "url": "https://ifpr.edu.br/ivaipora/estudantes/horario-de-aulas/",
+    "titulo_fonte": "Horário de aulas",
+    "coletado_em": "2026-05-14T11:48:09-03:00",
+    "tipo_fonte": "pagina_ifpr",
+    "status_curadoria": "revisado"
+  },
   "cursos": [
     {
       "id": "tecnico-em-agropecuaria-integrado-ao-ensino-medio",
@@ -302,7 +309,8 @@
     "status_cursos": "dados_parciais",
     "verificado_em": "2026-05-11",
     "fontes": [
-      "https://ivaipora.ifpr.edu.br/"
+      "https://ivaipora.ifpr.edu.br/",
+      "https://ifpr.edu.br/ivaipora/estudantes/horario-de-aulas/"
     ]
   }
 }

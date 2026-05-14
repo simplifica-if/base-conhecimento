@@ -6,6 +6,15 @@
     "site": "https://colombo.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/colombo/menu-academico/calendario-academico/"
   },
+  "horario_aulas": {
+    "url": "https://docs.google.com/spreadsheets/d/1CeRwx7rge749MRhPrsKJOmMl95k9_NPMMTtuVDI0LWM/edit?usp=sharing",
+    "titulo_fonte": "HORÁRIO PRIMEIRO SEMESTRE 2026.1",
+    "coletado_em": "2026-05-14T11:48:09-03:00",
+    "periodo_referencia": "2026.1",
+    "tipo_fonte": "google_sheets",
+    "status_curadoria": "revisado",
+    "observacoes": "Link externo apontado pelo item Horário das Aulas no menu oficial do campus."
+  },
   "cursos": [
     {
       "id": "tecnico-em-administracao-integrado-ao-ensino-medio",
@@ -337,7 +346,8 @@
       "https://ifpr.edu.br/colombo/tecnicos-subsequentes/",
       "https://ifpr.edu.br/colombo/superiores-tecnologia/",
       "https://ifpr.edu.br/colombo/superiores-licenciaturas/",
-      "https://ifpr.edu.br/colombo/menu-academico/calendario-academico/"
+      "https://ifpr.edu.br/colombo/menu-academico/calendario-academico/",
+      "https://docs.google.com/spreadsheets/d/1CeRwx7rge749MRhPrsKJOmMl95k9_NPMMTtuVDI0LWM/edit?usp=sharing"
     ],
     "verificado_em": "2026-05-11"
   }

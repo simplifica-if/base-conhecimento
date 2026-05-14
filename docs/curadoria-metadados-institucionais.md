@@ -32,6 +32,30 @@ Aprendizado a partir do Campus Arapongas:
 13. Use `situacao` para registrar a vigência atual da oferta: `ativo`, `em_oferta`, `suspenso` ou `incerto`.
 14. Quando a oferta estiver vinculada a programa institucional, como Pronacampo, cadastre o programa em `programas` e suas ofertas em `programas[].ofertas`, não misturadas com os cursos regulares do campus.
 
+## Horário das aulas nos sites dos campi
+
+Use o campo opcional `horario_aulas` para registrar a fonte principal de consulta aos horários de aula do campus. Essa informação costuma mudar semestralmente; por isso, registre sempre `horario_aulas.coletado_em` com data, hora e fuso da consulta.
+
+1. Use `horario_aulas.url` para a página, planilha ou sistema principal de horários do campus.
+2. Use `horario_aulas.titulo_fonte` com o título observado no menu, no HTML da página, no `h1` ou no documento externo.
+3. Use `horario_aulas.periodo_referencia` quando a própria fonte indicar semestre, ano ou período, como `2026.1`, `2026 - 1º semestre` ou `2025`.
+4. Use `horario_aulas.tipo_fonte` como `pagina_ifpr`, `google_sheets`, `edupage` ou `app_externo`.
+5. Use `horario_aulas.status_curadoria` como `revisado` quando houver fonte agregadora atual ou institucionalmente apontada pelo site do campus.
+6. Use `horario_aulas.status_curadoria` como `parcial` quando só houver páginas por curso, páginas antigas, RDE ou outra fonte que não represente claramente o conjunto do campus.
+7. Use `horario_aulas.status_curadoria` como `nao_encontrado` quando a busca não localizar fonte confiável de horário das aulas; nesse caso, omita `url` e registre a evidência em `observacoes`.
+8. Aceite links externos, como Google Sheets, Edupage ou aplicativos próprios, somente quando forem apontados pelo site oficial do campus.
+9. Inclua em `curadoria.fontes` as URLs consultadas para preencher ou justificar `horario_aulas`, inclusive fontes parciais usadas como evidência.
+10. Não cadastre horário de atendimento, horário de servidores, monitorias, ônibus, laboratórios ou secretaria como substituto de horário das aulas.
+
+Procedimento eficiente para agentes IA:
+
+1. Primeiro consulte a página inicial oficial registrada em `links.site` e, quando diferente, `https://ifpr.edu.br/<campus_id>/`. Extraia links de menu cujo texto ou URL contenha termos como `horário`, `horario`, `horários`, `horarios`, `aulas`, `horário escolar` ou `horários e salas`.
+2. Depois consulte a API WordPress do multisite oficial, usando buscas como `https://ifpr.edu.br/<campus_id>/wp-json/wp/v2/pages?per_page=100&search=horario%20aulas`, `horário aulas`, `horarios aula`, `horários aula`, `horario escolar` e `quadro horarios`.
+3. Se a busca não retornar candidato confiável, pagine `https://ifpr.edu.br/<campus_id>/wp-json/wp/v2/pages?per_page=100&page=N` e filtre títulos e URLs pelos mesmos termos.
+4. Para validar o candidato, faça uma requisição à URL e compare o título HTML, o `h1` e/ou o texto do item de menu. Priorize páginas agregadoras e fontes com indicação de período recente.
+5. Quando a página oficial apontar para Google Sheets, Edupage ou outro aplicativo externo, registre esse link externo como `horario_aulas.url` e mantenha a página oficial ou inicial em `curadoria.fontes` como evidência de origem.
+6. Evite resultados de notícias, editais de concurso, RDE antigo, páginas de um único curso ou páginas de atendimento. Use esses links apenas em `observacoes` ou como `parcial` quando forem a melhor evidência disponível.
+
 ## Metadados do SUAP
 
 Use o campo opcional `cursos[].suap` para registrar metadados administrativos vindos do sistema acadêmico SUAP.

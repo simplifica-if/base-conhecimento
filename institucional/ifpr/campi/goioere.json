@@ -6,6 +6,12 @@
     "site": "https://goioere.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/goioere/institucional/calendario-academico/"
   },
+  "horario_aulas": {
+    "titulo_fonte": "Horário das aulas não encontrado",
+    "coletado_em": "2026-05-14T11:48:09-03:00",
+    "status_curadoria": "nao_encontrado",
+    "observacoes": "Não foi localizado link oficial de horário das aulas. A busca encontrou apenas página de horário de atendimento do campus."
+  },
   "cursos": [
     {
       "id": "tecnico-em-informatica",
@@ -90,7 +96,8 @@
     "status_cursos": "dados_parciais",
     "verificado_em": "2026-05-11",
     "fontes": [
-      "https://ifpr.edu.br/goioere/"
+      "https://ifpr.edu.br/goioere/",
+      "https://ifpr.edu.br/goioere/institucional/horario-de-atendimento-2/"
     ]
   }
 }

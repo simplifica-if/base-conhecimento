@@ -6,6 +6,13 @@
     "site": "https://londrina.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/londrina/menu-alunos/area-do-estudante/orientacoes-de-procedimentos/"
   },
+  "horario_aulas": {
+    "url": "https://ifpr.edu.br/londrina/horario-de-aulas-dos-cursos/",
+    "titulo_fonte": "Horário de Aulas dos Cursos",
+    "coletado_em": "2026-05-14T11:48:09-03:00",
+    "tipo_fonte": "pagina_ifpr",
+    "status_curadoria": "revisado"
+  },
   "cursos": [
     {
       "id": "tecnico-em-biotecnologia-integrado-ao-ensino-medio",
@@ -339,7 +346,8 @@
     "status_cursos": "dados_parciais",
     "verificado_em": "2026-05-11",
     "fontes": [
-      "https://ifpr.edu.br/londrina/"
+      "https://ifpr.edu.br/londrina/",
+      "https://ifpr.edu.br/londrina/horario-de-aulas-dos-cursos/"
     ]
   }
 }
