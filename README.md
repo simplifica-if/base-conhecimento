@@ -88,6 +88,7 @@ Ao usar PPCs como apoio para redigir ou revisar textos, diferencie exemplos obse
 | [Resolução CNE/CEB nº 7/2025](normas/br/resolucoes/RESOLUCAO_CNE-CEB_7-2025_tempo-integral.md) | Resolução | 2025 | Institui as Diretrizes Operacionais Nacionais para a Educação Integral em Tempo Integral na Educação Básica. |
 | [Nota Técnica PROENS/IFPR nº 1/2025](normas/ifpr/notas-tecnicas/NOTA-TECNICA_PROENS-IFPR_1-2025_aee-nao-componente-curricular.md) | Nota Técnica | 2025 | Esclarece que processos de abertura, elaboração, ajuste e atualização de PPCs não devem incorporar o AEE como componente curricular. |
 | [Resolução CONSUP/IFPR nº 259/2025](normas/ifpr/resolucoes/RESOLUCAO_CONSUP-IFPR_259-2025_calendario-academico.md) | Resolução | 2025 | Define diretrizes para elaboração dos calendários acadêmicos dos campi do IFPR. |
+| [Resolução CONSUP/IFPR nº 271/2026](normas/ifpr/resolucoes/RESOLUCAO_CONSUP-IFPR_271-2026_estatuto-ifpr.md) | Resolução | 2026 | Aprova o novo Estatuto do Instituto Federal de Educação, Ciência e Tecnologia do Paraná. |
 
 ## Manutenção
 

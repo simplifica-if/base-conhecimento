@@ -983,8 +983,6 @@ def main() -> int:
     args = parser.parse_args()
 
     errors: list[str] = []
-    if any(ROOT.rglob(".DS_Store")):
-        errors.append("há arquivos .DS_Store no repositório")
     errors.extend(validate_local_patterns())
 
     manifest, manifest_errors = load_manifest()

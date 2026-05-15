@@ -643,5 +643,32 @@
     ],
     "fonte": "Fonte oficial pendente de confirmação pública",
     "path": "normas/ifpr/resolucoes/RESOLUCAO_CONSUP-IFPR_259-2025_calendario-academico.md"
+  },
+  {
+    "title": "Resolução CONSUP/IFPR nº 271/2026",
+    "tipo_documento": "Resolução",
+    "numero": "271",
+    "ano": 2026,
+    "data_publicacao": "2026-02-04",
+    "orgao": "CONSUP/IFPR",
+    "jurisdicao": "IFPR",
+    "ementa": "Aprova o novo Estatuto do Instituto Federal de Educação, Ciência e Tecnologia do Paraná.",
+    "status_vigencia": "vigente",
+    "keywords": [
+      "Estatuto do IFPR",
+      "organização institucional",
+      "Consup",
+      "Reitoria",
+      "campi",
+      "gestão institucional"
+    ],
+    "aliases": [
+      "Resolução CONSUP/IFPR nº 271/2026",
+      "Resolução IFPR 271/2026",
+      "Estatuto do IFPR",
+      "Novo Estatuto do IFPR"
+    ],
+    "fonte": "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=4216886&id_orgao_publicacao=0",
+    "path": "normas/ifpr/resolucoes/RESOLUCAO_CONSUP-IFPR_271-2026_estatuto-ifpr.md"
   }
 ]
