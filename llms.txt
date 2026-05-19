@@ -36,6 +36,20 @@ Use conhecimento treinado apenas para contexto geral, explicações auxiliares o
 
 - Matriz orçamentária da Rede Federal: https://simplifica-if.github.io/base-conhecimento/institucional/ifpr/referencias/matriz-orcamentaria-rede-federal.md
 
+## Painéis e dados processados
+
+A pasta `paineis/` contém páginas públicas derivadas da Base de Conhecimento do IFPR, publicadas como HTML enxuto para navegação humana e consulta por LLMs.
+
+Os HTMLs de painéis devem manter os dados principais no próprio documento, em tabelas sem estilos inline e sem depender de scripts para renderizar o conteúdo. Para consulta por LLMs, use o HTML do painel quando a pergunta for sobre dados processados publicados nessa área.
+
+Índice de painéis:
+
+- https://simplifica-if.github.io/base-conhecimento/paineis/index.html
+
+Exemplo:
+
+- https://simplifica-if.github.io/base-conhecimento/paineis/processos-seletivos/vagas-cursos-tecnicos-2025-2026.html
+
 ## PPCs do IFPR
 
 - Índice de PPCs: https://simplifica-if.github.io/base-conhecimento/institucional/ifpr/ppcs/index.json
