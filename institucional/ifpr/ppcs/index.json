@@ -2,8 +2,8 @@
   "title": "Projetos Pedagógicos de Curso do IFPR",
   "tipo": "indice_ppcs",
   "versao": 1,
-  "atualizado_em": "2026-05-13",
-  "total_itens": 192,
+  "atualizado_em": "2026-05-19",
+  "total_itens": 194,
   "secoes_path": "institucional/ifpr/ppcs/secoes.jsonl",
   "items": [
     {
@@ -2649,6 +2649,21 @@
       "vagas": 40
     },
     {
+      "id": "paranavai/tecnico-em-agroindustria",
+      "campus_id": "paranavai",
+      "campus_nome": "Paranavaí",
+      "curso_id": "tecnico-em-agroindustria",
+      "curso_nome": "Técnico em Agroindústria",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "curso_url": "https://ifpr.edu.br/paranavai/tecnico-em-agroindustria/",
+      "fonte_pdf": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2017/05/PPC_Integrado_Agroindustria_enviadoPROENS_12-01-2017_curso2017.pdf",
+      "path": "institucional/ifpr/ppcs/paranavai/tecnico-em-agroindustria.md",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
+    },
+    {
       "id": "paranavai/tecnico-em-eletromecanica-subsequente",
       "campus_id": "paranavai",
       "campus_nome": "Paranavaí",
@@ -3003,6 +3018,21 @@
       "escopo": "campus",
       "ano_documento": 2025,
       "vagas": 40
+    },
+    {
+      "id": "telemaco-borba/tecnico-em-programacao-de-jogos-digitais",
+      "campus_id": "telemaco-borba",
+      "campus_nome": "Avançado Telêmaco Borba",
+      "curso_id": "tecnico-em-programacao-de-jogos-digitais",
+      "curso_nome": "Técnico em Programação de Jogos Digitais",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "curso_url": "https://ifpr.edu.br/telemaco-borba/cursos-tecnicos-integrados/programacao-de-jogos-digitais/",
+      "fonte_pdf": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2026/02/PPC-CURSOS-TECNICOS-EM-PROGRAMACAO-DE-JOGOS-DIGITAIS_VERSAO_FINAL.pdf",
+      "path": "institucional/ifpr/ppcs/telemaco-borba/tecnico-em-programacao-de-jogos-digitais.md",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus"
     },
     {
       "id": "umuarama/bacharelado-em-arquitetura-e-urbanismo",

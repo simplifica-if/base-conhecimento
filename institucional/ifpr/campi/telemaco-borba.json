@@ -201,6 +201,26 @@
       }
     },
     {
+      "id": "tecnico-em-programacao-de-jogos-digitais",
+      "nome": "Técnico em Programação de Jogos Digitais",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/telemaco-borba/cursos-tecnicos-integrados/programacao-de-jogos-digitais/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2026/02/PPC-CURSOS-TECNICOS-EM-PROGRAMACAO-DE-JOGOS-DIGITAIS_VERSAO_FINAL.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/tecnico-em-programacao-de-jogos-digitais.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-19",
+          "status": "convertido"
+        }
+      }
+    },
+    {
       "id": "tecnico-em-mecanica",
       "nome": "Técnico em Mecânica",
       "nivel": "médio",

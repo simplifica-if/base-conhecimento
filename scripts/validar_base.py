@@ -591,6 +591,28 @@ def converted_ppcs_from_campi() -> dict[str, str]:
     return ppcs
 
 
+def campus_courses_from_campi() -> dict[str, set[str]]:
+    campus_courses: dict[str, set[str]] = {}
+    for campus_path in sorted((INSTITUCIONAL_ROOT / "ifpr" / "campi").glob("*.json")):
+        if campus_path.name == "index.json":
+            continue
+        data, errors = load_json(campus_path, f"campus {relative(campus_path)}")
+        if errors or not isinstance(data, dict):
+            continue
+        campus_id = data.get("id")
+        if not isinstance(campus_id, str):
+            continue
+        courses: set[str] = set()
+        for curso in data.get("cursos", []):
+            if not isinstance(curso, dict):
+                continue
+            curso_id = curso.get("id")
+            if isinstance(curso_id, str):
+                courses.add(curso_id)
+        campus_courses[campus_id] = courses
+    return campus_courses
+
+
 def validate_ppc_sections(index_items_by_id: dict[str, dict[str, object]]) -> list[str]:
     errors: list[str] = []
     if not PPCS_SECOES_PATH.exists():
@@ -718,6 +740,7 @@ def validate_ppcs(manifest: object) -> list[str]:
 
 def validate_processos_seletivos(manifest: object) -> list[str]:
     errors: list[str] = []
+    campus_courses = campus_courses_from_campi()
     index, index_errors = load_json(PROCESSOS_SELETIVOS_INDEX_PATH, "índice de processos seletivos")
     errors.extend(index_errors)
     if errors:
@@ -791,9 +814,25 @@ def validate_processos_seletivos(manifest: object) -> list[str]:
         for edital in data.get("editais", []):
             if isinstance(edital, dict):
                 errors.extend(validate_https_url(edital.get("url"), f"{path_value}: editais[].url"))
+        seen_offer_ids: set[str] = set()
         for oferta in data.get("ofertas", []):
             if not isinstance(oferta, dict):
                 continue
+            oferta_id = oferta.get("id")
+            if isinstance(oferta_id, str):
+                if oferta_id in seen_offer_ids:
+                    errors.append(f"{path_value}: oferta duplicada: {oferta_id}")
+                seen_offer_ids.add(oferta_id)
+            campus_id = oferta.get("campus_id")
+            if isinstance(campus_id, str):
+                curso_id = oferta.get("curso_id")
+                if isinstance(curso_id, str):
+                    if campus_id not in campus_courses:
+                        errors.append(f"{path_value}: ofertas[].curso_id informado para campus_id não cadastrado: {campus_id}")
+                    elif curso_id not in campus_courses[campus_id]:
+                        errors.append(f"{path_value}: ofertas[].curso_id inexistente em {campus_id}: {curso_id}")
+            elif "curso_id" in oferta:
+                errors.append(f"{path_value}: ofertas[].curso_id informado sem campus_id textual")
             fonte = oferta.get("fonte")
             if isinstance(fonte, dict):
                 errors.extend(validate_https_url(fonte.get("url"), f"{path_value}: ofertas[].fonte.url"))

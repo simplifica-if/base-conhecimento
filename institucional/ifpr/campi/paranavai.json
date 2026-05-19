@@ -203,6 +203,16 @@
       "situacao": "ativo",
       "escopo": "campus",
       "url": "https://ifpr.edu.br/paranavai/tecnico-em-agroindustria/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2017/05/PPC_Integrado_Agroindustria_enviadoPROENS_12-01-2017_curso2017.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/paranavai/tecnico-em-agroindustria.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-19",
+          "status": "convertido"
+        }
+      },
       "suap": {
         "codigo": "PVAI001",
         "vagas": 40

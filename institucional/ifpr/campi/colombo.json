@@ -69,7 +69,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "url": "https://drive.google.com/file/d/1jHQ6KClwctTpQ8k0zWnhNFULMhqqcoyl/view?usp=sharing",
+        "url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2023/03/PPC-Alimentos-Ultima-Versao-PDF-1-1.pdf",
         "markdown_path": "institucional/ifpr/ppcs/colombo/tecnico-em-alimentos-integrado-ao-ensino-medio.md",
         "conversao": {
           "ferramenta": "pymupdf4llm",
@@ -94,7 +94,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "url": "https://drive.google.com/file/d/1-CWGEpZfgRXQeT9UT3qLT5JCDpBn9biB/view?usp=sharing",
+        "url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2023/03/PPC-Tecnico-em-Informatica-2.pdf",
         "markdown_path": "institucional/ifpr/ppcs/colombo/tecnico-em-informatica-integrado-ao-ensino-medio.md",
         "conversao": {
           "ferramenta": "pymupdf4llm",
