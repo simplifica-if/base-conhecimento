@@ -3,7 +3,7 @@
   "tipo": "indice_ppcs",
   "versao": 1,
   "atualizado_em": "2026-05-20",
-  "total_itens": 199,
+  "total_itens": 200,
   "secoes_path": "institucional/ifpr/ppcs/secoes.jsonl",
   "items": [
     {
@@ -138,6 +138,23 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ano_documento": 2023,
+      "vagas": 40
+    },
+    {
+      "id": "assis-chateaubriand/tecnico-em-agropecuaria-integrado-ao-ensino-medio",
+      "campus_id": "assis-chateaubriand",
+      "campus_nome": "Assis Chateaubriand",
+      "curso_id": "tecnico-em-agropecuaria-integrado-ao-ensino-medio",
+      "curso_nome": "Técnico em Agropecuária Integrado ao Ensino Médio",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "curso_url": "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/",
+      "fonte_pdf": "https://ifpr.edu.br/assis-chateaubriand/wp-content/uploads/sites/3/2017/08/PPC-Agropecuaria.pdf",
+      "path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnico-em-agropecuaria-integrado-ao-ensino-medio.md",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "ano_documento": 2017,
       "vagas": 40
     },
     {

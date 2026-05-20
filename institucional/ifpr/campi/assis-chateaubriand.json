@@ -172,6 +172,32 @@
       "situacao": "ativo",
       "escopo": "campus",
       "url": "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/assis-chateaubriand/wp-content/uploads/sites/3/2017/08/PPC-Agropecuaria.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnico-em-agropecuaria-integrado-ao-ensino-medio.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-20",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2017,
+            "trecho_fonte": "ASSIS CHATEAUBRIAND 2017",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Número máximo de vagas do curso: 40; Número mínimo de vagas do curso: 20",
+            "secao": "Características do Curso",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-20",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+          }
+        }
+      },
       "suap": {
         "id": 77,
         "codigo": "AC001",
