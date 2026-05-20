@@ -9,7 +9,7 @@
       "title": "Campi do IFPR",
       "tipo_item": "campus",
       "path": "institucional/ifpr/campi/index.json",
-      "total_itens": 26
+      "total_itens": 27
     },
     {
       "id": "processos-seletivos-ifpr",
@@ -30,7 +30,7 @@
       "title": "Projetos Pedagógicos de Curso do IFPR",
       "tipo_item": "ppc",
       "path": "institucional/ifpr/ppcs/index.json",
-      "total_itens": 195
+      "total_itens": 199
     }
   ]
 }

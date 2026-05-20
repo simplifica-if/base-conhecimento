@@ -283,6 +283,26 @@
       "situacao": "ativo",
       "escopo": "campus",
       "url": "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/cursos-tecnicos/curso-tecnico-em-informatica-para-a-internet/",
+      "ppc": {
+        "url": "https://drive.google.com/file/d/1hZ3CEJOKSC0oqwAD2EIU7YwXRraTcYba/view",
+        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnico-em-informatica-para-internet-integrado-ao-ensino-medio.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-20",
+          "status": "convertido"
+        },
+        "metadados": {
+          "vagas": {
+            "quantidade": 30,
+            "trecho_fonte": "Número máximo de vagas do curso: 30 Número mínimo de vagas do curso: 20",
+            "secao": "1.2 Característica do curso",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-20",
+            "forma_oferta": "mínimo de 20 vagas e máximo de 30 vagas"
+          }
+        }
+      },
       "suap": {
         "codigo": "AC008",
         "vagas": 40

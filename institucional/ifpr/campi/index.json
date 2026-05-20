@@ -72,6 +72,12 @@
       "path": "institucional/ifpr/campi/pinhais.json"
     },
     {
+      "id": "ponta-grossa",
+      "nome": "Ponta Grossa",
+      "tipo_unidade": "campus",
+      "path": "institucional/ifpr/campi/ponta-grossa.json"
+    },
+    {
       "id": "curitiba",
       "nome": "Curitiba",
       "tipo_unidade": "campus",

@@ -263,7 +263,7 @@ tbody tr:hover {
   margin-top: 16px;
 }
 
-@media (max-width: 760px) {
+@media (max-width: 560px) {
   .site-shell {
     padding: 22px 14px 36px;
   }

@@ -1,0 +1,55 @@
+{
+  "id": "ponta-grossa",
+  "nome": "Ponta Grossa",
+  "tipo_unidade": "campus",
+  "links": {
+    "site": "https://ifpr.edu.br/ponta-grossa/",
+    "calendario_academico": "https://ifpr.edu.br/ponta-grossa/"
+  },
+  "cursos": [
+    {
+      "id": "tecnico-em-informatica-integrado-ao-ensino-medio",
+      "nome": "Técnico em Informática Integrado ao Ensino Médio",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/ponta-grossa/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/ponta-grossa/wp-content/uploads/sites/28/2022/07/PPC-Informatica_2019-Final-REVISADO.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/ponta-grossa/tecnico-em-informatica-integrado-ao-ensino-medio.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-20",
+          "status": "convertido"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2019,
+            "trecho_fonte": "CURITIBA 2019",
+            "secao": "Capa / folha inicial",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 35,
+            "trecho_fonte": "Número máximo de vagas do curso: 35; Número mínimo de vagas do curso: 30",
+            "secao": "Identificação do Curso",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-20",
+            "forma_oferta": "máximo de 35 vagas e mínimo de 30 vagas"
+          }
+        }
+      }
+    }
+  ],
+  "curadoria": {
+    "status_cursos": "dados_parciais",
+    "fontes": [
+      "https://ifpr.edu.br/ponta-grossa/",
+      "https://ifpr.edu.br/ponta-grossa/wp-content/uploads/sites/28/2022/07/PPC-Informatica_2019-Final-REVISADO.pdf"
+    ],
+    "verificado_em": "2026-05-20"
+  }
+}

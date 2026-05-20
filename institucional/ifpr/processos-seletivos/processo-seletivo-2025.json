@@ -444,8 +444,8 @@
       "curso_id": "tecnico-em-cooperativismo"
     },
     {
-      "id": "cr-ponta-grossa-tecnico-em-informatica-integral",
-      "campus_id": "cr-ponta-grossa",
+      "id": "ponta-grossa-tecnico-em-informatica-integral",
+      "campus_id": "ponta-grossa",
       "curso_nome": "Técnico em Informática",
       "tipo_oferta": "técnico integrado",
       "modalidade": "presencial",

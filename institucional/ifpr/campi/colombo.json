@@ -74,9 +74,18 @@
         "conversao": {
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "erro",
-          "mensagem_erro": "Conversão interrompida após tempo excessivo em PDF grande ou digitalizado; requer estratégia OCR dedicada."
+          "convertido_em": "2026-05-20",
+          "status": "convertido"
+        },
+        "metadados": {
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Número máximo de vagas do curso : 40 vagas; Número mínimo de vagas do curso: 20 vagas",
+            "secao": "Características gerais do curso",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-20",
+            "forma_oferta": "mínimo de 20 vagas e máximo de 40 vagas"
+          }
         }
       },
       "suap": {
@@ -99,9 +108,18 @@
         "conversao": {
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "erro",
-          "mensagem_erro": "Conversão interrompida após tempo excessivo em PDF grande ou digitalizado; requer estratégia OCR dedicada."
+          "convertido_em": "2026-05-20",
+          "status": "convertido"
+        },
+        "metadados": {
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Número máximo de vagas do curso : 40 vagas; Número mínimo de vagas do curso: 20 vagas",
+            "secao": "Características gerais do curso",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-20",
+            "forma_oferta": "mínimo de 20 vagas e máximo de 40 vagas"
+          }
         }
       },
       "suap": {
