@@ -51,6 +51,7 @@
         }
       },
       "suap": {
+        "id": 211,
         "codigo": "CTB001",
         "vagas": 40
       }
@@ -92,6 +93,7 @@
         }
       },
       "suap": {
+        "id": 140,
         "codigo": "CTB003",
         "vagas": 40
       }
@@ -133,6 +135,7 @@
         }
       },
       "suap": {
+        "id": 55,
         "codigo": "CTB006",
         "vagas": 40
       }
@@ -174,6 +177,7 @@
         }
       },
       "suap": {
+        "id": 176,
         "codigo": "CTB010",
         "vagas": 40
       }
@@ -215,6 +219,7 @@
         }
       },
       "suap": {
+        "id": 53,
         "codigo": "CTB012",
         "vagas": 40
       }
@@ -256,6 +261,7 @@
         }
       },
       "suap": {
+        "id": 179,
         "codigo": "CTB014",
         "vagas": 40
       }
@@ -297,6 +303,7 @@
         }
       },
       "suap": {
+        "id": 180,
         "codigo": "CTB015",
         "vagas": 40
       }
@@ -338,6 +345,7 @@
         }
       },
       "suap": {
+        "id": 95,
         "codigo": "CTB018",
         "vagas": 40
       }
@@ -379,6 +387,7 @@
         }
       },
       "suap": {
+        "id": 15,
         "codigo": "CTB002",
         "vagas": 30
       }
@@ -420,6 +429,7 @@
         }
       },
       "suap": {
+        "id": 43,
         "codigo": "CTB004",
         "vagas": 30
       }
@@ -461,6 +471,7 @@
         }
       },
       "suap": {
+        "id": 74,
         "codigo": "CTB005",
         "vagas": 30
       }
@@ -502,6 +513,7 @@
         }
       },
       "suap": {
+        "id": 112,
         "codigo": "CTB007",
         "vagas": 30
       }
@@ -527,6 +539,7 @@
         }
       },
       "suap": {
+        "id": 151,
         "codigo": "CTB008",
         "vagas": 30
       }
@@ -568,6 +581,7 @@
         }
       },
       "suap": {
+        "id": 69,
         "codigo": "CTB009",
         "vagas": 30
       }
@@ -609,6 +623,7 @@
         }
       },
       "suap": {
+        "id": 177,
         "codigo": "CTB011",
         "vagas": 30
       }
@@ -651,6 +666,7 @@
         }
       },
       "suap": {
+        "id": 84,
         "codigo": "CTB013",
         "vagas": 30
       }
@@ -692,6 +708,7 @@
         }
       },
       "suap": {
+        "id": 14,
         "codigo": "CTB016",
         "vagas": 30
       }
@@ -733,6 +750,7 @@
         }
       },
       "suap": {
+        "id": 146,
         "codigo": "CTB017",
         "vagas": 30
       }
@@ -747,6 +765,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "id": 121,
         "codigo": "CTB019",
         "vagas": 30
       }
@@ -788,6 +807,7 @@
         }
       },
       "suap": {
+        "id": 44,
         "codigo": "CTB020",
         "vagas": 30
       }
@@ -830,6 +850,7 @@
         }
       },
       "suap": {
+        "id": 210,
         "codigo": "CTB021",
         "vagas": 35
       }
@@ -855,6 +876,7 @@
         }
       },
       "suap": {
+        "id": 39,
         "codigo": "CTB022",
         "vagas": 30
       }

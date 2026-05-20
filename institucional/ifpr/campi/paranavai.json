@@ -190,6 +190,7 @@
         }
       },
       "suap": {
+        "id": 82,
         "codigo": "PVAI002",
         "vagas": 40
       }
@@ -214,6 +215,7 @@
         }
       },
       "suap": {
+        "id": 72,
         "codigo": "PVAI001",
         "vagas": 40
       }
@@ -248,6 +250,7 @@
         }
       },
       "suap": {
+        "id": 81,
         "codigo": "PVAI003",
         "vagas": 40
       }
@@ -262,6 +265,7 @@
       "escopo": "campus",
       "url": "https://ifpr.edu.br/paranavai/ensino-medio/tecnico-em-mecatronica/",
       "suap": {
+        "id": 73,
         "codigo": "PVAI004",
         "vagas": 40
       },

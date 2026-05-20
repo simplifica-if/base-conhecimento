@@ -173,6 +173,10 @@
             "minProperties": 1,
             "additionalProperties": false,
             "properties": {
+              "id": {
+                "type": "integer",
+                "minimum": 1
+              },
               "codigo": {
                 "type": "string",
                 "minLength": 1

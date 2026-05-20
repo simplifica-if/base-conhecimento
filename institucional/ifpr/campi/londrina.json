@@ -17,8 +17,8 @@
     {
       "id": "tecnico-em-biotecnologia-integrado-ao-ensino-medio",
       "nome": "Técnico em Biotecnologia Integrado ao Ensino Médio",
-      "nivel": "superior",
-      "tipo_oferta": "graduação tecnológica",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
@@ -49,6 +49,7 @@
         }
       },
       "suap": {
+        "id": 189,
         "codigo": "LON001",
         "vagas": 40
       }
@@ -145,6 +146,7 @@
         }
       },
       "suap": {
+        "id": 178,
         "codigo": "LON002",
         "vagas": 30
       }
@@ -184,6 +186,7 @@
         }
       },
       "suap": {
+        "id": 205,
         "codigo": "LON003",
         "vagas": 40
       }
@@ -223,6 +226,7 @@
         }
       },
       "suap": {
+        "id": 204,
         "codigo": "LON004",
         "vagas": 40
       }
@@ -262,6 +266,7 @@
         }
       },
       "suap": {
+        "id": 202,
         "codigo": "LON005",
         "vagas": 40
       }
@@ -301,6 +306,7 @@
         }
       },
       "suap": {
+        "id": 200,
         "codigo": "LON006",
         "vagas": 30
       }

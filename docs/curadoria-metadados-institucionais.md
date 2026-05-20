@@ -61,9 +61,12 @@ Procedimento eficiente para agentes IA:
 Use o campo opcional `cursos[].suap` para registrar metadados administrativos vindos do sistema acadêmico SUAP.
 
 1. Registre o código do curso no sistema em `cursos[].suap.codigo`.
-2. Registre o número de vagas cadastradas no sistema em `cursos[].suap.vagas`.
-3. `cursos[].suap.vagas` representa o dado administrativo do SUAP, não a quantidade de vagas declarada no PPC.
-4. Preserve `cursos[].ppc.metadados.vagas` para vagas extraídas do Projeto Pedagógico de Curso, sempre com contexto e evidência textual.
+2. Registre o ID interno do curso no sistema em `cursos[].suap.id`.
+3. Registre o número de vagas cadastradas no sistema em `cursos[].suap.vagas`.
+4. `cursos[].suap.vagas` representa o dado administrativo do SUAP, não a quantidade de vagas declarada no PPC.
+5. Preserve `cursos[].ppc.metadados.vagas` para vagas extraídas do Projeto Pedagógico de Curso, sempre com contexto e evidência textual.
+
+Para relatórios exportados do SUAP que usam a coluna `DIRETORIA`, use o mapeamento versionado em `institucional/ifpr/referencias/suap-diretorias.json` para associar o código da diretoria ao `campus_id` desta base. Não inferir diretorias novas sem evidência nos próprios dados ou sem curadoria explícita.
 
 ## Processos seletivos
 

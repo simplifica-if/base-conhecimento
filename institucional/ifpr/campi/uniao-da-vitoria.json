@@ -191,6 +191,7 @@
         }
       },
       "suap": {
+        "id": 41,
         "codigo": "UVIT001",
         "vagas": 50
       }
@@ -230,6 +231,7 @@
         }
       },
       "suap": {
+        "id": 40,
         "codigo": "UVIT002",
         "vagas": 40
       }

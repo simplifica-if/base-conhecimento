@@ -49,6 +49,7 @@
         }
       },
       "suap": {
+        "id": 452,
         "codigo": "IVAAGROP",
         "vagas": 35
       }
@@ -160,6 +161,7 @@
         }
       },
       "suap": {
+        "id": 173,
         "codigo": "IVA001",
         "vagas": 36
       }
@@ -267,6 +269,11 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
+      },
+      "suap": {
+        "id": 456,
+        "codigo": "IVA007",
+        "vagas": 40
       }
     },
     {
@@ -277,7 +284,12 @@
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/ivaipora/"
+      "url": "https://ifpr.edu.br/ivaipora/",
+      "suap": {
+        "id": 341,
+        "codigo": "ELES1",
+        "vagas": 40
+      }
     },
     {
       "id": "tecnico-em-informatica-integrado-ao-ensino-medio",
@@ -312,6 +324,11 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
+      },
+      "suap": {
+        "id": 45,
+        "codigo": "IVA003",
+        "vagas": 40
       }
     }
   ],

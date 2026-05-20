@@ -157,6 +157,7 @@
         }
       },
       "suap": {
+        "id": 25,
         "codigo": "TBOR001",
         "vagas": 40
       }
@@ -196,6 +197,7 @@
         }
       },
       "suap": {
+        "id": 34,
         "codigo": "TBOR002",
         "vagas": 40
       }
@@ -218,6 +220,11 @@
           "convertido_em": "2026-05-19",
           "status": "convertido"
         }
+      },
+      "suap": {
+        "id": 50,
+        "codigo": "TBOR004",
+        "vagas": 50
       }
     },
     {
@@ -230,6 +237,7 @@
       "escopo": "campus",
       "url": "https://ifpr.edu.br/telemaco-borba/cursos-tecnicos-integrados/tecnico-em-mecanica/",
       "suap": {
+        "id": 36,
         "codigo": "TBOR003",
         "vagas": 40
       },

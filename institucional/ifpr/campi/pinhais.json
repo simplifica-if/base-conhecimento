@@ -149,6 +149,7 @@
         }
       },
       "suap": {
+        "id": 195,
         "codigo": "PIN001",
         "vagas": 40
       }
@@ -188,7 +189,8 @@
         }
       },
       "suap": {
-        "codigo": "PIN002",
+        "id": 574,
+        "codigo": "PIN003",
         "vagas": 80
       }
     }

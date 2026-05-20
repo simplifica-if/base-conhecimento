@@ -49,6 +49,7 @@
         }
       },
       "suap": {
+        "id": 75,
         "codigo": "CL001",
         "vagas": 40
       }
@@ -303,6 +304,7 @@
         }
       },
       "suap": {
+        "id": 38,
         "codigo": "CL003",
         "vagas": 40
       }
@@ -317,6 +319,7 @@
       "escopo": "campus",
       "url": "https://ifpr.edu.br/campo-largo/nossos-cursos/cursos-ensino-medio-integrado/agroecologia/",
       "suap": {
+        "id": 51,
         "codigo": "CL002",
         "vagas": 40
       },
@@ -356,6 +359,7 @@
       "escopo": "campus",
       "url": "https://ifpr.edu.br/campo-largo/nossos-cursos/cursos-ensino-medio-integrado/mecanica/",
       "suap": {
+        "id": 49,
         "codigo": "CL004",
         "vagas": 40
       },
@@ -395,6 +399,7 @@
       "escopo": "campus",
       "url": "https://ifpr.edu.br/campo-largo/nossos-cursos/cursos-tecnicos-subsequentes/mecanica/",
       "suap": {
+        "id": 83,
         "codigo": "CL005",
         "vagas": 40
       },

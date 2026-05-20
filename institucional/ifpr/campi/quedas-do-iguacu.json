@@ -48,6 +48,7 @@
         }
       },
       "suap": {
+        "id": 170,
         "codigo": "QUED001",
         "vagas": 40
       }
@@ -87,6 +88,7 @@
         }
       },
       "suap": {
+        "id": 197,
         "codigo": "QUED002",
         "vagas": 40
       }

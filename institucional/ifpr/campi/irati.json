@@ -178,6 +178,7 @@
         }
       },
       "suap": {
+        "id": 111,
         "codigo": "IRA002",
         "vagas": 160
       }
@@ -192,6 +193,7 @@
       "escopo": "campus",
       "url": "https://ifpr.edu.br/irati/tecnico-em-agroecologia/",
       "suap": {
+        "id": 54,
         "codigo": "IRA001",
         "vagas": 160
       },

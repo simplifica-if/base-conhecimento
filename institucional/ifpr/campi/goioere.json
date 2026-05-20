@@ -23,6 +23,7 @@
       "escopo": "campus",
       "url": "https://ifpr.edu.br/goioere/integrados-ao-ensino-medio/curso-tecnico/",
       "suap": {
+        "id": 214,
         "codigo": "GOI001",
         "vagas": 40
       },
@@ -62,6 +63,7 @@
       "escopo": "campus",
       "url": "https://ifpr.edu.br/goioere/integrados-ao-ensino-medio/tecnico-em-producao-de-moda/",
       "suap": {
+        "id": 213,
         "codigo": "GOI002",
         "vagas": 40
       },

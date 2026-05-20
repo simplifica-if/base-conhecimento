@@ -55,6 +55,7 @@
         }
       },
       "suap": {
+        "id": 35,
         "codigo": "COL001",
         "vagas": 40
       }
@@ -89,6 +90,7 @@
         }
       },
       "suap": {
+        "id": 76,
         "codigo": "COL002",
         "vagas": 40
       }
@@ -123,6 +125,7 @@
         }
       },
       "suap": {
+        "id": 122,
         "codigo": "COL003",
         "vagas": 40
       }

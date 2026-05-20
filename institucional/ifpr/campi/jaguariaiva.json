@@ -49,6 +49,7 @@
         }
       },
       "suap": {
+        "id": 79,
         "codigo": "JAG001",
         "vagas": 40
       }
@@ -56,8 +57,8 @@
     {
       "id": "tecnico-em-biotecnologia-integrado-ao-ensino-medio",
       "nome": "Técnico em Biotecnologia Integrado ao Ensino Médio",
-      "nivel": "superior",
-      "tipo_oferta": "graduação tecnológica",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
@@ -88,6 +89,7 @@
         }
       },
       "suap": {
+        "id": 215,
         "codigo": "JAG002",
         "vagas": 40
       }

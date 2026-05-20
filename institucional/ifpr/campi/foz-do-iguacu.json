@@ -263,6 +263,7 @@
         }
       },
       "suap": {
+        "id": 52,
         "codigo": "FOZ001",
         "vagas": 40
       }
@@ -302,6 +303,7 @@
         }
       },
       "suap": {
+        "id": 113,
         "codigo": "FOZ002",
         "vagas": 40
       }
@@ -341,6 +343,7 @@
         }
       },
       "suap": {
+        "id": 133,
         "codigo": "FOZ003",
         "vagas": 40
       }
@@ -380,6 +383,7 @@
         }
       },
       "suap": {
+        "id": 171,
         "codigo": "FOZ005",
         "vagas": 40
       }
@@ -419,6 +423,7 @@
         }
       },
       "suap": {
+        "id": 126,
         "codigo": "FOZ004",
         "vagas": 40
       }

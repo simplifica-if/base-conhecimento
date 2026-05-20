@@ -48,6 +48,7 @@
         }
       },
       "suap": {
+        "id": 615,
         "codigo": "AR002",
         "vagas": 40
       }
@@ -128,6 +129,7 @@
       "tipo_oferta": "técnico subsequente",
       "url": "https://ifpr.edu.br/arapongas/nossos-cursos/tecnico-subsequente/tecnico-em-melhoria-de-processos/",
       "suap": {
+        "id": 1,
         "codigo": "AR001",
         "vagas": 40
       },

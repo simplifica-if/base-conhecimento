@@ -1,0 +1,121 @@
+{
+  "id": "suap-diretorias-ifpr",
+  "titulo": "Mapeamento de códigos de diretoria SUAP para campi do IFPR",
+  "descricao": "Associação entre valores da coluna DIRETORIA em relatórios do SUAP e os campus_id usados nesta base de conhecimento.",
+  "atualizado_em": "2026-05-20",
+  "fonte_curadoria": [
+    "Relatorio integrado.xlsx",
+    "Relatorio subsequente.xlsx",
+    "cursos[].suap.codigo já existentes nos JSONs de campi"
+  ],
+  "observacoes": [
+    "Mapeamento inferido por cruzamento entre códigos de curso SUAP presentes nas planilhas e códigos já curados nos JSONs de campi.",
+    "O valor EAD/IFPR apareceu nas planilhas, mas não foi mapeado para campus por não representar uma diretoria de campus específica nesta base."
+  ],
+  "diretorias": {
+    "ARAPDIRGER": {
+      "campus_id": "arapongas",
+      "campus_nome": "Arapongas"
+    },
+    "ASTORGADG": {
+      "campus_id": "astorga",
+      "campus_nome": "Astorga"
+    },
+    "BARRACAODG": {
+      "campus_id": "barracao",
+      "campus_nome": "Barracão"
+    },
+    "CAPANEMADG": {
+      "campus_id": "capanema",
+      "campus_nome": "Capanema"
+    },
+    "CASCAVELDG": {
+      "campus_id": "cascavel",
+      "campus_nome": "Cascavel"
+    },
+    "CASSISDG": {
+      "campus_id": "assis-chateaubriand",
+      "campus_nome": "Assis Chateaubriand"
+    },
+    "CCLDG": {
+      "campus_id": "campo-largo",
+      "campus_nome": "Campo Largo"
+    },
+    "COLOMBODG": {
+      "campus_id": "colombo",
+      "campus_nome": "Colombo"
+    },
+    "CORONELVIV": {
+      "campus_id": "coronel-vivida",
+      "campus_nome": "Coronel Vivida"
+    },
+    "CTBADG": {
+      "campus_id": "curitiba",
+      "campus_nome": "Curitiba"
+    },
+    "FOZDG": {
+      "campus_id": "foz-do-iguacu",
+      "campus_nome": "Foz do Iguaçu"
+    },
+    "GOIOEREDG": {
+      "campus_id": "goioere",
+      "campus_nome": "Goioerê"
+    },
+    "IRATIDG": {
+      "campus_id": "irati",
+      "campus_nome": "Irati"
+    },
+    "IVAIPODG": {
+      "campus_id": "ivaipora",
+      "campus_nome": "Ivaiporã"
+    },
+    "JACAREZDG": {
+      "campus_id": "jacarezinho",
+      "campus_nome": "Jacarezinho"
+    },
+    "JAGUARIADG": {
+      "campus_id": "jaguariaiva",
+      "campus_nome": "Jaguariaíva"
+    },
+    "LONDRINADG": {
+      "campus_id": "londrina",
+      "campus_nome": "Londrina"
+    },
+    "PALMASDG": {
+      "campus_id": "palmas",
+      "campus_nome": "Palmas"
+    },
+    "PARANAGDG": {
+      "campus_id": "paranagua",
+      "campus_nome": "Paranaguá"
+    },
+    "PARANAVDG": {
+      "campus_id": "paranavai",
+      "campus_nome": "Paranavaí"
+    },
+    "PINHAISDG": {
+      "campus_id": "pinhais",
+      "campus_nome": "Pinhais"
+    },
+    "PITANGADG": {
+      "campus_id": "pitanga",
+      "campus_nome": "Pitanga"
+    },
+    "QUEDASDG": {
+      "campus_id": "quedas-do-iguacu",
+      "campus_nome": "Quedas do Iguaçu"
+    },
+    "TELEMACODG": {
+      "campus_id": "telemaco-borba",
+      "campus_nome": "Telêmaco Borba"
+    },
+    "UMUARAMADG": {
+      "campus_id": "umuarama",
+      "campus_nome": "Umuarama"
+    },
+    "UNIVITDG": {
+      "campus_id": "uniao-da-vitoria",
+      "campus_nome": "União da Vitória"
+    }
+  }
+}

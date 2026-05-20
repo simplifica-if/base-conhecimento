@@ -204,6 +204,7 @@
       "escopo": "campus",
       "url": "https://ifpr.edu.br/umuarama/cursos/cursos-tecnicos/edificacoes-integrado/",
       "suap": {
+        "id": 42,
         "codigo": "UMU001",
         "vagas": 40
       },
@@ -243,6 +244,7 @@
       "escopo": "campus",
       "url": "https://ifpr.edu.br/umuarama/cursos/cursos-tecnicos/informatica-integrado/",
       "suap": {
+        "id": 58,
         "codigo": "UMU002",
         "vagas": 40
       },
@@ -282,6 +284,7 @@
       "escopo": "campus",
       "url": "https://ifpr.edu.br/umuarama/cursos/cursos-tecnicos/quimica-integrado/",
       "suap": {
+        "id": 57,
         "codigo": "UMU003",
         "vagas": 40
       },

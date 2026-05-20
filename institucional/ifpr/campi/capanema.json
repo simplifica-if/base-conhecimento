@@ -96,6 +96,7 @@
       "escopo": "campus",
       "url": "https://ifpr.edu.br/capanema/nossos-cursos/tecnico-integrado-ao-ensino-medio/tecnico-em-agroecologia/",
       "suap": {
+        "id": 68,
         "codigo": "CAP003",
         "vagas": 40
       },
@@ -135,6 +136,7 @@
       "escopo": "campus",
       "url": "https://ifpr.edu.br/capanema/nossos-cursos/tecnico-integrado-ao-ensino-medio/tecnico-em-cooperativismo/",
       "suap": {
+        "id": 66,
         "codigo": "CAP001",
         "vagas": 40
       },
@@ -174,6 +176,7 @@
       "escopo": "campus",
       "url": "https://ifpr.edu.br/capanema/nossos-cursos/tecnico-integrado-ao-ensino-medio/tecnico-integrado-informatica/",
       "suap": {
+        "id": 67,
         "codigo": "CAP002",
         "vagas": 50
       },

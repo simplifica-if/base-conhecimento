@@ -49,6 +49,7 @@
         }
       },
       "suap": {
+        "id": 217,
         "codigo": "PGUA004",
         "vagas": 40
       }
@@ -189,6 +190,7 @@
         }
       },
       "suap": {
+        "id": 65,
         "codigo": "PGUA003",
         "vagas": 40
       }
@@ -263,6 +265,7 @@
         }
       },
       "suap": {
+        "id": 63,
         "codigo": "PGUA001",
         "vagas": 40
       }
@@ -302,6 +305,7 @@
         }
       },
       "suap": {
+        "id": 64,
         "codigo": "PGUA002",
         "vagas": 40
       }

@@ -119,6 +119,7 @@
         }
       },
       "suap": {
+        "id": 80,
         "codigo": "JAC003",
         "vagas": 40
       }
@@ -222,6 +223,7 @@
         }
       },
       "suap": {
+        "id": 71,
         "codigo": "JAC001",
         "vagas": 40
       }
@@ -261,6 +263,7 @@
         }
       },
       "suap": {
+        "id": 37,
         "codigo": "JAC005",
         "vagas": 30
       }
@@ -275,6 +278,7 @@
       "escopo": "campus",
       "url": "https://ifpr.edu.br/jacarezinho/cursos/cursos-integrados/tecnico-em-eletromecanica-2/projeto-pedagogico-do-curso/",
       "suap": {
+        "id": 265,
         "codigo": "JAC006",
         "vagas": 40
       },
@@ -314,6 +318,7 @@
       "escopo": "campus",
       "url": "https://ifpr.edu.br/jacarezinho/cursos/cursos-integrados/tecnico-em-eletrotecnica/",
       "suap": {
+        "id": 78,
         "codigo": "JAC002",
         "vagas": 40
       },
@@ -353,6 +358,7 @@
       "escopo": "campus",
       "url": "https://ifpr.edu.br/jacarezinho/cursos/cursos-integrados/tecnico-em-mecanica/",
       "suap": {
+        "id": 92,
         "codigo": "JAC004",
         "vagas": 40
       },

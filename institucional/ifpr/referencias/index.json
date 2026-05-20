@@ -1,6 +1,6 @@
 {
   "title": "Referências institucionais do IFPR",
-  "total_itens": 1,
+  "total_itens": 2,
   "items": [
     {
       "id": "matriz-orcamentaria-rede-federal",
@@ -8,6 +8,13 @@
       "tipo": "nota_tecnica",
       "path": "institucional/ifpr/referencias/matriz-orcamentaria-rede-federal.md",
       "descricao": "Nota técnica sobre a Matriz de Distribuição Orçamentária da Rede Federal de EPCT, com foco em carga horária para matriz e cursos técnicos integrados."
+    },
+    {
+      "id": "suap-diretorias-ifpr",
+      "titulo": "Mapeamento de diretorias SUAP para campi do IFPR",
+      "tipo": "mapeamento",
+      "path": "institucional/ifpr/referencias/suap-diretorias.json",
+      "descricao": "Associação entre valores da coluna DIRETORIA em relatórios do SUAP e os campus_id usados nesta base de conhecimento."
     }
   ]
 }

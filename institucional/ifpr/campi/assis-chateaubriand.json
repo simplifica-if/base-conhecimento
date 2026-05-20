@@ -78,6 +78,7 @@
         }
       },
       "suap": {
+        "id": 636,
         "codigo": "AC013",
         "vagas": 40
       }
@@ -117,6 +118,7 @@
         }
       },
       "suap": {
+        "id": 212,
         "codigo": "AC003",
         "vagas": 40
       }
@@ -156,6 +158,7 @@
         }
       },
       "suap": {
+        "id": 119,
         "codigo": "AC004",
         "vagas": 40
       }
@@ -168,7 +171,12 @@
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/"
+      "url": "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/",
+      "suap": {
+        "id": 77,
+        "codigo": "AC001",
+        "vagas": 40
+      }
     },
     {
       "id": "tecnico-em-agropecuaria",
@@ -205,6 +213,7 @@
         }
       },
       "suap": {
+        "id": 172,
         "codigo": "AC002",
         "vagas": 40
       }
@@ -255,6 +264,7 @@
       "escopo": "campus",
       "url": "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/cursos-tecnicos/eletromecanica-integradoensino-medio/informacoes/",
       "suap": {
+        "id": 2,
         "codigo": "AC005",
         "vagas": 40
       },
@@ -314,6 +324,7 @@
         }
       },
       "suap": {
+        "id": 162,
         "codigo": "AC008",
         "vagas": 40
       }
@@ -328,6 +339,7 @@
       "escopo": "campus",
       "url": "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/cursos-subsequentes/eletrotecnica/informacoes/",
       "suap": {
+        "id": 175,
         "codigo": "AC007",
         "vagas": 40
       },
@@ -361,6 +373,7 @@
       "escopo": "campus",
       "url": "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/cursos-subsequentes/eletromecanica/informacoes/",
       "suap": {
+        "id": 174,
         "codigo": "AC006",
         "vagas": 40
       },

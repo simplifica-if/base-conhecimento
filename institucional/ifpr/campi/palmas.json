@@ -19,7 +19,7 @@
       "id": "tecnico-em-informatica-para-internet",
       "nome": "Técnico em Informática para Internet",
       "nivel": "médio",
-      "tipo_oferta": "técnico subsequente",
+      "tipo_oferta": "técnico integrado",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
@@ -51,6 +51,7 @@
         }
       },
       "suap": {
+        "id": 256,
         "codigo": "PAL003",
         "vagas": 40
       }
@@ -59,7 +60,7 @@
       "id": "tecnico-em-alimentos",
       "nome": "Técnico em Alimentos",
       "nivel": "médio",
-      "tipo_oferta": "técnico subsequente",
+      "tipo_oferta": "técnico integrado",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
@@ -91,6 +92,7 @@
         }
       },
       "suap": {
+        "id": 47,
         "codigo": "PAL001",
         "vagas": 40
       }
@@ -99,7 +101,7 @@
       "id": "tecnico-em-servicos-juridicos",
       "nome": "Técnico em Serviços Jurídicos",
       "nivel": "médio",
-      "tipo_oferta": "técnico subsequente",
+      "tipo_oferta": "técnico integrado",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
@@ -131,6 +133,7 @@
         }
       },
       "suap": {
+        "id": 60,
         "codigo": "PAL002",
         "vagas": 40
       }

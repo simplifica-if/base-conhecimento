@@ -85,6 +85,7 @@
         }
       },
       "suap": {
+        "id": 32,
         "codigo": "CAS003",
         "vagas": 40
       }
@@ -160,6 +161,7 @@
         }
       },
       "suap": {
+        "id": 30,
         "codigo": "CAS002",
         "vagas": 40
       }
@@ -210,6 +212,7 @@
       "escopo": "campus",
       "url": "https://ifpr.edu.br/cascavel/cursos/ensino-medio-integrado/tecnico-em-edificacoes/apresentacao/",
       "suap": {
+        "id": 29,
         "codigo": "CAS001",
         "vagas": 40
       },

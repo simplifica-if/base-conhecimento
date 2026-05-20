@@ -49,6 +49,7 @@
         }
       },
       "suap": {
+        "id": 621,
         "codigo": "PIT003",
         "vagas": 40
       }
@@ -88,6 +89,7 @@
         }
       },
       "suap": {
+        "id": 216,
         "codigo": "PIT001",
         "vagas": 40
       }
@@ -235,6 +237,7 @@
         }
       },
       "suap": {
+        "id": 61,
         "codigo": "PIT002",
         "vagas": 40
       }
