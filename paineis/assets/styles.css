@@ -5,6 +5,7 @@
   --bg: #f7f8fb;
   --surface: #ffffff;
   --surface-muted: #eef2f7;
+  --surface-ppc: #f1f5f9;
   --text: #172033;
   --muted: #5f6f86;
   --line: #d9e0ea;
@@ -210,13 +211,22 @@ th:nth-child(5),
 td:nth-child(5),
 th:nth-child(6),
 td:nth-child(6) {
-  width: 9%;
+  width: 10%;
 }
 
 th:nth-child(7),
 td:nth-child(7) {
-  width: 8%;
+  width: 9%;
   white-space: nowrap;
+}
+
+th.ppc-col,
+td.ppc-col {
+  background: var(--surface-ppc);
+}
+
+tbody tr:hover td.ppc-col {
+  background: #e8eef6;
 }
 
 td.number,
