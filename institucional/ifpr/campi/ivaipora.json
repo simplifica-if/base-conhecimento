@@ -270,6 +270,16 @@
       }
     },
     {
+      "id": "tecnico-em-eletrotecnica-subsequente",
+      "nome": "Técnico em Eletrotécnica Subsequente",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/ivaipora/"
+    },
+    {
       "id": "tecnico-em-informatica-integrado-ao-ensino-medio",
       "nome": "Técnico em Informática Integrado ao Ensino Médio",
       "nivel": "médio",

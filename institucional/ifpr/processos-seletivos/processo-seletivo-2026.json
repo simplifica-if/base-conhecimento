@@ -63,7 +63,8 @@
       },
       "fonte": {
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      }
+      },
+      "curso_id": "tecnico-em-agropecuaria-integrado-ao-ensino-medio"
     },
     {
       "id": "assis-chateaubriand-tecnico-em-comercio-diurno-manha-2-tardes-por-semana-2",
@@ -1783,7 +1784,8 @@
       },
       "fonte": {
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/cursos/"
-      }
+      },
+      "curso_id": "tecnico-em-eletrotecnica-subsequente"
     },
     {
       "id": "jacarezinho-tecnico-em-teatro-noturno",

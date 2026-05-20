@@ -161,6 +161,16 @@
       }
     },
     {
+      "id": "tecnico-em-agropecuaria-integrado-ao-ensino-medio",
+      "nome": "Técnico em Agropecuária Integrado ao Ensino Médio",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "url": "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/"
+    },
+    {
       "id": "tecnico-em-agropecuaria",
       "nome": "Técnico em Agropecuária",
       "nivel": "médio",
