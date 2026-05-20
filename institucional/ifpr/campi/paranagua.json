@@ -176,6 +176,15 @@
             "trecho_fonte": "Colegiado de Gestão Pedagógica de Campus (Portaria de Pessoal 154/2023)",
             "secao": "Capa / folha inicial",
             "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "periodicidade": "anual",
+            "trecho_fonte": "Quarenta vagas anuais.",
+            "secao": "1.1.14 Vagas totais",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-19",
+            "forma_oferta": "40 vagas anuais"
           }
         }
       },

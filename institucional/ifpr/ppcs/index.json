@@ -2561,7 +2561,8 @@
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "ano_documento": 2023
+      "ano_documento": 2023,
+      "vagas": 40
     },
     {
       "id": "paranagua/tecnico-em-producao-cultural",
