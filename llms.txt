@@ -48,7 +48,7 @@ Os HTMLs de painéis devem manter os dados principais no próprio documento, em 
 
 Exemplo:
 
-- https://simplifica-if.github.io/base-conhecimento/paineis/processos-seletivos/vagas-cursos-tecnicos-2025-2026.html
+- https://simplifica-if.github.io/base-conhecimento/paineis/processos-seletivos/vagas-cursos-tecnicos-ps-vs-ppc.html
 
 ## PPCs do IFPR
 

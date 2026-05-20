@@ -227,6 +227,26 @@
       "situacao": "ativo",
       "escopo": "campus",
       "url": "https://ifpr.edu.br/paranavai/tecnico-em-informatica/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2017/05/PPC-INFORMARTICA-TURMAS-INICIO-2016.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/paranavai/tecnico-em-informatica.md",
+        "conversao": {
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-20",
+          "status": "convertido"
+        },
+        "metadados": {
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Quantidade de Vagas : 20 (mínimo) a 40 (máximo)",
+            "secao": "Características gerais do curso",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-20",
+            "forma_oferta": "mínimo de 20 vagas e máximo de 40 vagas"
+          }
+        }
+      },
       "suap": {
         "codigo": "PVAI003",
         "vagas": 40

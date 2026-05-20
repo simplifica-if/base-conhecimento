@@ -2,8 +2,8 @@
   "title": "Projetos Pedagógicos de Curso do IFPR",
   "tipo": "indice_ppcs",
   "versao": 1,
-  "atualizado_em": "2026-05-19",
-  "total_itens": 194,
+  "atualizado_em": "2026-05-20",
+  "total_itens": 195,
   "secoes_path": "institucional/ifpr/ppcs/secoes.jsonl",
   "items": [
     {
@@ -2682,6 +2682,22 @@
       "vagas": 40
     },
     {
+      "id": "paranavai/tecnico-em-informatica",
+      "campus_id": "paranavai",
+      "campus_nome": "Paranavaí",
+      "curso_id": "tecnico-em-informatica",
+      "curso_nome": "Técnico em Informática",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "curso_url": "https://ifpr.edu.br/paranavai/tecnico-em-informatica/",
+      "fonte_pdf": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2017/05/PPC-INFORMARTICA-TURMAS-INICIO-2016.pdf",
+      "path": "institucional/ifpr/ppcs/paranavai/tecnico-em-informatica.md",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "vagas": 40
+    },
+    {
       "id": "paranavai/tecnico-em-mecatronica",
       "campus_id": "paranavai",
       "campus_nome": "Paranavaí",
@@ -2921,7 +2937,7 @@
     {
       "id": "telemaco-borba/engenharia-eletrica",
       "campus_id": "telemaco-borba",
-      "campus_nome": "Avançado Telêmaco Borba",
+      "campus_nome": "Telêmaco Borba",
       "curso_id": "engenharia-eletrica",
       "curso_nome": "Engenharia Elétrica",
       "nivel": "superior",
@@ -2938,7 +2954,7 @@
     {
       "id": "telemaco-borba/licenciatura-em-fisica",
       "campus_id": "telemaco-borba",
-      "campus_nome": "Avançado Telêmaco Borba",
+      "campus_nome": "Telêmaco Borba",
       "curso_id": "licenciatura-em-fisica",
       "curso_nome": "Licenciatura em Física",
       "nivel": "superior",
@@ -2955,7 +2971,7 @@
     {
       "id": "telemaco-borba/tecnologia-em-manutencao-industrial",
       "campus_id": "telemaco-borba",
-      "campus_nome": "Avançado Telêmaco Borba",
+      "campus_nome": "Telêmaco Borba",
       "curso_id": "tecnologia-em-manutencao-industrial",
       "curso_nome": "Tecnologia em Manutenção Industrial",
       "nivel": "superior",
@@ -2972,7 +2988,7 @@
     {
       "id": "telemaco-borba/tecnico-em-automacao-industrial-integrado-ao-ensino-medio",
       "campus_id": "telemaco-borba",
-      "campus_nome": "Avançado Telêmaco Borba",
+      "campus_nome": "Telêmaco Borba",
       "curso_id": "tecnico-em-automacao-industrial-integrado-ao-ensino-medio",
       "curso_nome": "Técnico em Automação Industrial Integrado ao Ensino Médio",
       "nivel": "médio",
@@ -2989,7 +3005,7 @@
     {
       "id": "telemaco-borba/tecnico-em-informatica-para-internet-integrado-ao-ensino-medio",
       "campus_id": "telemaco-borba",
-      "campus_nome": "Avançado Telêmaco Borba",
+      "campus_nome": "Telêmaco Borba",
       "curso_id": "tecnico-em-informatica-para-internet-integrado-ao-ensino-medio",
       "curso_nome": "Técnico em Informática para Internet Integrado ao Ensino Médio",
       "nivel": "médio",
@@ -3006,7 +3022,7 @@
     {
       "id": "telemaco-borba/tecnico-em-mecanica",
       "campus_id": "telemaco-borba",
-      "campus_nome": "Avançado Telêmaco Borba",
+      "campus_nome": "Telêmaco Borba",
       "curso_id": "tecnico-em-mecanica",
       "curso_nome": "Técnico em Mecânica",
       "nivel": "médio",
@@ -3023,7 +3039,7 @@
     {
       "id": "telemaco-borba/tecnico-em-programacao-de-jogos-digitais",
       "campus_id": "telemaco-borba",
-      "campus_nome": "Avançado Telêmaco Borba",
+      "campus_nome": "Telêmaco Borba",
       "curso_id": "tecnico-em-programacao-de-jogos-digitais",
       "curso_nome": "Técnico em Programação de Jogos Digitais",
       "nivel": "médio",
