@@ -80,7 +80,8 @@ https://simplifica-if.github.io/base-conhecimento/<path>
 10. Use `institucional/ifpr/ppcs/secoes.jsonl` para localizar seções semelhantes ao trecho pedido pelo usuário, como justificativa, objetivos, perfil profissional de conclusão, concepção pedagógica, organização curricular, avaliação, estágio/práticas, infraestrutura e corpo docente.
 11. Depois de identificar PPCs e seções candidatos, baixe os arquivos Markdown completos indicados em `path` antes de redigir respostas substantivas, especialmente quando precisar citar, comparar ou adaptar conteúdo.
 12. Em pedidos de elaboração de PPC, combine os PPCs similares com normas vigentes da base e, quando se tratar de curso técnico, com o CNCT. Trate PPCs como exemplos institucionais observados, não como fonte normativa obrigatória.
-13. Quando houver mais de um documento relevante, compare as fontes e indique eventuais diferenças de escopo, vigência ou hierarquia normativa.
+13. Para perguntas sobre processos SEI, abertura, ajuste, atualização, suspensão, reversão de suspensão ou extinção de cursos, consulte os arquivos de campus em `institucional/ifpr/campi/*.json` e use `cursos[].sei.processos[]` como metadado administrativo do curso. Não confunda esses processos com metadados do PPC.
+14. Quando houver mais de um documento relevante, compare as fontes e indique eventuais diferenças de escopo, vigência ou hierarquia normativa.
 
 ## Regras de resposta
 

@@ -68,6 +68,38 @@ Use o campo opcional `cursos[].suap` para registrar metadados administrativos vi
 
 Para relatórios exportados do SUAP que usam a coluna `DIRETORIA`, use o mapeamento versionado em `institucional/ifpr/referencias/suap-diretorias.json` para associar o código da diretoria ao `campus_id` desta base. Não inferir diretorias novas sem evidência nos próprios dados ou sem curadoria explícita.
 
+## Processos SEI dos cursos
+
+Use o campo opcional `cursos[].sei.processos` para registrar processos administrativos SEI associados ao histórico do curso, como abertura, ajuste, atualização, suspensão, reversão de suspensão ou extinção.
+
+1. Registre processos SEI no nível do curso, não dentro de `ppc`, porque o PPC é apenas uma das informações documentais do curso.
+2. Use `sei.processos[]` como lista mesmo quando houver apenas um processo, pois o curso pode acumular processos administrativos ao longo do tempo.
+3. Registre o número em `numero`, no formato `00000.000000/0000-00`.
+4. Use `tipo` para classificar a finalidade principal do processo: `abertura`, `ajuste`, `atualização`, `suspensão`, `reversão de suspensão`, `extinção` ou `outro`.
+5. Quando a situação atual do curso decorrer de processo SEI, atualize também `cursos[].situacao`, por exemplo `suspenso`.
+6. Use `status_curadoria`, `revisado_em` e, quando disponível, `trecho_fonte` para registrar a evidência usada na curadoria.
+
+Exemplo:
+
+```json
+"sei": {
+  "processos": [
+    {
+      "numero": "23411.005166/2020-38",
+      "tipo": "abertura",
+      "status_curadoria": "revisado",
+      "revisado_em": "2026-05-21"
+    },
+    {
+      "numero": "23411.011730/2025-66",
+      "tipo": "suspensão",
+      "status_curadoria": "revisado",
+      "revisado_em": "2026-05-21"
+    }
+  ]
+}
+```
+
 ## Processos seletivos
 
 Use a coleção `institucional/ifpr/processos-seletivos/` para registrar vagas efetivamente ofertadas em editais de ingresso. Cada arquivo representa um ano de ingresso e pode conter múltiplos editais e ofertas.
