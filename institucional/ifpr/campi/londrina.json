@@ -309,9 +309,13 @@
       "sei": {
         "processos": [
           {
+            "numero": "23403.000265/2017-27",
+            "tipo": "abertura"
+          },
+          {
             "numero": "23411.003388/2025-21",
             "tipo": "ajuste",
-            "trecho_fonte": "Linha 44: Ajuste Curricular - apenas mudança de turno de noturno para matutino\nLinha 45: Manifestação de Viabilidade de Ajuste para mudança de turno"
+            "trecho_fonte": "Ajuste Curricular - apenas mudança de turno de noturno para matutino. Manifestação de Viabilidade de Ajuste para mudança de turno. Enviado à SOC/Consepe em 8/8/25.\nEvidências: SEI 3747558 (19/08/2025): ato/manifestação CONSEPE localizado (Parecer Consepe 31).; SEI 3805159 (16/09/2025): PPC localizado: (Projeto Pedagógico de Curso)."
           }
         ]
       }

@@ -197,9 +197,17 @@
       "sei": {
         "processos": [
           {
+            "numero": "23411.017355/2020-53",
+            "tipo": "abertura"
+          },
+          {
+            "numero": "23411.005166/2020-38",
+            "tipo": "abertura"
+          },
+          {
             "numero": "23411.011730/2025-66",
             "tipo": "suspensão",
-            "trecho_fonte": "Linha 3: Suspensão de curso por tempo indeterminado"
+            "trecho_fonte": "Suspensão de curso por tempo indeterminado. Manifestação favorável do Consepe em 25/03/26.\nEvidências: SEI 4128783 (25/03/2026): ato definitivo, Parecer CONSEPE 06/2026, favorável ao pedido de suspensão por tempo indeterminado."
           }
         ]
       }
@@ -246,7 +254,7 @@
           {
             "numero": "23411.012333/2025-10",
             "tipo": "abertura",
-            "trecho_fonte": "Linha 2: PPC (curso novo)"
+            "trecho_fonte": "PPC (curso novo). Aprovado Consup.\nEvidências: SEI 3747547 (19/08/2025): ato definitivo, Parecer CONSEPE 27/2025, favorável ao PPC.; SEI 3727280 (07/08/2025): PPC localizado: Projeto Pedagógico de Curso."
           }
         ]
       }

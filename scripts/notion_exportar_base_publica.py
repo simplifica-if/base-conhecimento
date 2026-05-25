@@ -49,7 +49,7 @@ def plain_text(prop: dict[str, Any] | None) -> str:
 def select_name(prop: dict[str, Any] | None) -> str:
     if not prop:
         return ""
-    selected = prop.get("select")
+    selected = prop.get("select") or prop.get("status")
     return selected.get("name", "") if selected else ""
 
 
@@ -407,19 +407,28 @@ class Exporter:
     def lifecycle_processes(self, lifecycles: list[dict[str, Any]], processos_by_page: dict[str, str]) -> list[dict[str, Any]]:
         seen: set[tuple[str, str]] = set()
         processos: list[dict[str, Any]] = []
-        for page in sorted(lifecycles, key=lambda item: plain_text(item["properties"].get("lifecycle_id"))):
+        for page in sorted(lifecycles, key=self.lifecycle_sort_key):
             props = page["properties"]
             tipo = select_name(props.get("Tipo")) or "outro"
-            resumo = plain_text(props.get("Resumo da mudança"))
+            anotacoes = plain_text(props.get("Anotações"))
             for process_page_id in relation_ids(page, "Processo SEI"):
                 numero = processos_by_page.get(process_page_id, "")
                 if not numero or (numero, tipo) in seen:
                     continue
                 item = {"numero": numero, "tipo": tipo}
-                add_if_text(item, "trecho_fonte", resumo)
+                add_if_text(item, "trecho_fonte", anotacoes)
                 processos.append(item)
                 seen.add((numero, tipo))
         return processos
+
+    def lifecycle_sort_key(self, page: dict[str, Any]) -> tuple[str, str, str, str]:
+        props = page["properties"]
+        return (
+            json_date(date_start(props.get("Data do ato"))) or json_date(date_start(props.get("Data efetiva"))),
+            select_name(props.get("Tipo")),
+            plain_text(props.get("Título")),
+            page.get("id", ""),
+        )
 
     def build_campi_index(self, campi: list[dict[str, Any]]) -> dict[str, Any]:
         return {

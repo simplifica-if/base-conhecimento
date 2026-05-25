@@ -142,17 +142,18 @@ python3 scripts/validar_base.py
 2. Localize ou crie o processo em `Processos SEI`.
 3. Crie uma entrada em `Lifecycle de Cursos`.
 4. Relacione o lifecycle ao curso e ao processo SEI principal.
-5. Preencha classe, tipo, fase, resumo, situação resultante e campos de origem quando houver.
+5. Preencha classe, tipo, situação, situação resultante e anotações quando houver evidências, pendências ou nuances de curadoria.
 
 ### Registrar processo SEI
 
 1. Use `Número SEI` como identificador operacional.
 2. Relacione o processo aos cursos e campi pertinentes.
 3. Relacione os lifecycles que representam eventos na linha do tempo.
-4. Mantenha `Data de abertura` e `Última movimentação` preenchidas sempre que o processo for localizado ou revisado. `Data de abertura` é a autuação/criação do processo; `Última movimentação` é a data mais recente encontrada no andamento ou nos documentos, não a conclusão administrativa.
-5. Se a autuação exata não estiver disponível e você usar a primeira data documentada como aproximação, registre isso em `Observações`.
-6. Escreva `Observações` em blocos curtos, com quebras de linha e marcadores, para facilitar leitura humana e reuso por agentes. Comece com uma frase simples no formato `Revisado em AAAA-MM-DD via <ferramenta ou fonte>.` Em seguida, use, quando aplicável, os blocos `Contexto`, `Evidências`, `Datas de controle` e `Observação técnica`. Não inclua caminho local de snapshot.
-7. Se a informação vier de coleta automatizada, preserve `Planilha origem`, `Linhas origem`, observações ou notas relevantes.
+4. Use `Status` como propriedade Notion do tipo `status`, com os valores `Não iniciada`, `Em andamento`, `Concluído`, `Cancelado` e `Arquivado`. Não use `Status` para diferenciar instrução, análise Proens ou colegiados; essas etapas pertencem a `Lifecycle de Cursos.Situação`.
+5. Mantenha `Data de abertura` e `Última movimentação` preenchidas sempre que o processo for localizado ou revisado. `Data de abertura` é a autuação/criação do processo; `Última movimentação` é a data mais recente encontrada no andamento ou nos documentos, não a conclusão administrativa.
+6. Se a autuação exata não estiver disponível e você usar a primeira data documentada como aproximação, registre isso em `Observações`.
+7. Escreva `Observações` em blocos curtos, com quebras de linha e marcadores, para facilitar leitura humana e reuso por agentes. Comece com uma frase simples no formato `Revisado em AAAA-MM-DD via <ferramenta ou fonte>.` Em seguida, use, quando aplicável, os blocos `Contexto`, `Evidências`, `Datas de controle` e `Observação técnica`. Não inclua caminho local de snapshot.
+8. Se a informação vier de coleta automatizada, preserve `Planilha origem`, `Linhas origem`, observações ou notas relevantes.
 
 ## Documentos relacionados
 

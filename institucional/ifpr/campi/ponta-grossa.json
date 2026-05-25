@@ -49,9 +49,13 @@
       "sei": {
         "processos": [
           {
+            "numero": "23411.020155/2025-92",
+            "tipo": "abertura"
+          },
+          {
             "numero": "23411.018225/2025-42",
             "tipo": "ajuste",
-            "trecho_fonte": "Linha 19: Viabilidade de Ajuste Curricular para o CR Ponta Grossa. Análise de PPC."
+            "trecho_fonte": "Viabilidade de Ajuste Curricular para o CR Ponta Grossa. Análise de PPC. Manifestação da Dentec encaminhada no dia 14/10/25 ao campus, DIEPI e DGA.Enviado ao Consepe.\nEvidências: SEI 3930709 (26/11/2025): ato/manifestação CONSEPE localizado (Parecer Consepe 54).; SEI 3908680 (11/11/2025): PPC localizado: (Projeto Pedagógico de Curso)."
           }
         ]
       }

@@ -485,7 +485,11 @@
           {
             "numero": "23411.012780/2025-61",
             "tipo": "ajuste",
-            "trecho_fonte": "Linha 24: Ajuste curricular"
+            "trecho_fonte": "Ajuste curricular. Enviado ao campus - viabilidade favorável.\nEvidências: SEI 3748757 (18/08/2025): parecer localizado.\nPendência: Ato definitivo CONSEPE não localizado na coleta."
+          },
+          {
+            "numero": "23411.020211/2019-41",
+            "tipo": "abertura"
           }
         ]
       }
@@ -584,9 +588,13 @@
       "sei": {
         "processos": [
           {
+            "numero": "23397.000293/2014-28",
+            "tipo": "abertura"
+          },
+          {
             "numero": "23411.021515/2022-21",
             "tipo": "ajuste",
-            "trecho_fonte": "Linha 25: Viabilidade de ajuste"
+            "trecho_fonte": "Viabilidade de ajuste. Enviado ao campus - viabilidade favorável.\nEvidências: SEI 3768231 (28/08/2025): parecer localizado.\nPendência: Ato definitivo CONSEPE não localizado na coleta."
           }
         ]
       }
@@ -1208,9 +1216,13 @@
       "sei": {
         "processos": [
           {
+            "numero": "00063.008113/2010-07",
+            "tipo": "abertura"
+          },
+          {
             "numero": "23411.010326/2023-11",
             "tipo": "ajuste",
-            "trecho_fonte": "Linha 20: Viabilidade de Solicitação de Aj Curricular "
+            "trecho_fonte": "Viabilidade de Solicitação de Aj Curricular. Parecer técnico-pedagógico emitido pela Dentec em 26/03.\nEvidências: SEI 4130994 (26/03/2026): parecer localizado.; SEI 4111971 (13/03/2026): PPC localizado: (Anexo Indicadores Ajuste PPC - Radiologia).\nPendência: Ato definitivo CONSEPE não localizado na coleta."
           }
         ]
       }
@@ -1259,9 +1271,13 @@
       "sei": {
         "processos": [
           {
+            "numero": "23397.000294/2014-72",
+            "tipo": "abertura"
+          },
+          {
             "numero": "23411.007861/2023-87",
             "tipo": "ajuste",
-            "trecho_fonte": "Linha 22: Ajuste de PPC (não é curso novo)"
+            "trecho_fonte": "Ajuste de PPC (não é curso novo). Aprovado pelo Consepe e solicitação de portaria de início das atividaes enviada à Proens em 29/8/25.\nEvidências: SEI 3747569 (19/08/2025): ato/manifestação CONSEPE localizado (Parecer Consepe 35).; SEI 3854325 (13/10/2025): PPC localizado: (Anexo PPC Saúde Bucal 2025 Versão Final)."
           }
         ]
       }
@@ -1293,9 +1309,13 @@
       "sei": {
         "processos": [
           {
+            "numero": "23411.005801/2026-72",
+            "tipo": "abertura"
+          },
+          {
             "numero": "23411.003654/2026-04",
             "tipo": "ajuste",
-            "trecho_fonte": "Linha 21: Viabilidade de Solicitação de Aj Curricular "
+            "trecho_fonte": "Viabilidade de Solicitação de Aj Curricular. Viabilidade de solicitação concluída. Agora a CAJ irá encaminhar o ajuste curricular (PPC).\nEvidências: SEI 4141294 (06/04/2026): parecer localizado.\nPendência: Ato definitivo CONSEPE não localizado na coleta."
           }
         ]
       }

@@ -131,6 +131,12 @@ def select(name: object | None) -> dict[str, Any]:
     return {"select": {"name": str(name)}}
 
 
+def status(name: object | None) -> dict[str, Any]:
+    if name in (None, ""):
+        return {"status": None}
+    return {"status": {"name": str(name)}}
+
+
 def multi_select(values: list[object] | None) -> dict[str, Any]:
     if not values:
         return {"multi_select": []}

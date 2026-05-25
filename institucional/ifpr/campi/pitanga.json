@@ -207,14 +207,14 @@
       "sei": {
         "processos": [
           {
-            "numero": "23411.010391/2025-09",
-            "tipo": "abertura",
-            "trecho_fonte": "Linha 48: PPC (curso novo)"
-          },
-          {
             "numero": "23411.019587/2022-16",
             "tipo": "abertura",
-            "trecho_fonte": "Linha 49: Proposta de Abertura de Curso - PAC"
+            "trecho_fonte": "Proposta de Abertura de Curso - PAC. Encaminhado à Proplan em 24/02/25.\nEvidências: SEI 3593317 (19/05/2025): ato/manifestação CONSEPE localizado (Parecer Consepe 12)."
+          },
+          {
+            "numero": "23411.010391/2025-09",
+            "tipo": "abertura",
+            "trecho_fonte": "PPC (curso novo). Finalizado - Resolução Consup nº 248, de 16 de setembro de 2025. Despachado para Proens (portaria de autorização), DGA e Diepex.\nEvidências: SEI 3747409 (19/08/2025): ato/manifestação CONSEPE localizado (Parecer Consepe 26).; SEI 3674470 (04/07/2025): PPC localizado: (Projeto Pedagógico de Curso Revisado)."
           }
         ]
       }

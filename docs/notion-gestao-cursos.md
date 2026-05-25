@@ -38,13 +38,19 @@ Linha do tempo operacional e histórica dos cursos.
 
 Cada mudança relevante vira um registro próprio. O eixo da linha do tempo é a relação única `Processo SEI`.
 
-Campos principais: `Título`, `lifecycle_id`, `Classe`, `Tipo`, `Fase`, `Modo`, `Cursos`, `Campi`, `Processo SEI`, `Processos SEI citados`, `Resumo da mudança`, `Situação resultante`, `Planilha origem`, `Linhas origem`, `Notas da planilha`, `Acompanhamento`.
+Campos principais: `Título`, `Classe`, `Tipo`, `Situação`, `Cursos`, `Campi`, `Processo SEI`, `Situação resultante`, `Anotações`.
+
+`Situação` é uma propriedade Notion do tipo `status` e representa a etapa do evento de lifecycle, como `Não iniciada`, `Triagem`, `Em instrução no campus`, `Em análise Proens`, `Em colegiados/conselhos`, `Em andamento`, `Aguardando ato/publicação`, `Concluído` ou `Arquivado`. Não use `Ativo` em lifecycle: atividade, suspensão ou extinção do curso pertencem à propriedade `Situação` da base `Cursos`, não ao estado do evento.
+
+`Anotações` consolida observações de curadoria, evidências e pendências em texto curto. Evite repetir o que já está classificado em `Tipo`, remover referências internas como `Linha 12` e não registrar caminhos locais de coleta.
 
 ### Processos SEI
 
 Entidade própria para processos administrativos associados ao histórico de cursos.
 
 Campos principais: `Número SEI`, `Tipo principal`, `Status`, `Data de abertura`, `Última movimentação`, `Unidade responsável`, `Campi`, `Cursos`, `Lifecycle de Cursos`, `Observações`, `Planilha origem`, `Linhas origem`.
+
+`Status` é uma propriedade Notion do tipo `status`, não `select`. Use como estado geral do processo na base: `Não iniciada` para processo ainda não localizado/revisado; `Em andamento` para processo localizado sem encerramento claro; `Concluído` para processo com ato/evento principal concluído; `Cancelado` para cancelamento formal; `Arquivado` para arquivamento formal. Não use `Status` para distinguir etapas finas como instrução no campus, análise Proens ou colegiados; registre essa granularidade em `Lifecycle de Cursos.Situação`.
 
 `Data de abertura` registra a data de autuação/criação do processo no SEI. Quando a autuação exata não estiver disponível, use a primeira movimentação ou o primeiro documento datado apenas se isso estiver claro nas evidências; se for uma aproximação, registre a limitação em `Observações`.
 
@@ -78,7 +84,7 @@ Ofertas de ingresso não criam lifecycle de curso automaticamente. Quando uma of
 
 Base única da equipe.
 
-Nem toda tarefa cria lifecycle. Templates formais, como suspensão, abertura, reversão, extinção ou ajuste de curso, devem criar ou exigir vínculo com um item de lifecycle em fase inicial.
+Nem toda tarefa cria lifecycle. Templates formais, como suspensão, abertura, reversão, extinção ou ajuste de curso, devem criar ou exigir vínculo com um item de lifecycle em situação inicial.
 
 ## Publicação
 

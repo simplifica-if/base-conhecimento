@@ -163,9 +163,13 @@
       "sei": {
         "processos": [
           {
+            "numero": "23411.007970/2018-37",
+            "tipo": "abertura"
+          },
+          {
             "numero": "23411.002791/2026-13",
             "tipo": "ajuste",
-            "trecho_fonte": "Linha 62: Ajuste Curricular Técnico em Edificações"
+            "trecho_fonte": "Ajuste Curricular Técnico em Edificações. 30/03 e 13/04 Parecer técnico-pedagógico emitido pela Dentec. Processo esta de acordo com a continuidade do processo de ajuste curricular. 22/04 Campus envia PPC para revisão.\nEvidências: SEI 4188064 (08/05/2026): parecer localizado.; SEI 4186938 (07/05/2026): PPC localizado: (Anexo PPC Técnico em Edificações-v2).\nPendência: Ato definitivo CONSEPE não localizado na coleta."
           }
         ]
       }
@@ -211,9 +215,13 @@
       "sei": {
         "processos": [
           {
+            "numero": "23411.006050/2024-40",
+            "tipo": "abertura"
+          },
+          {
             "numero": "23411.002979/2026-61",
             "tipo": "ajuste",
-            "trecho_fonte": "Linha 63: Viabilidade de Solicitação de Aj Curricular \nLinha 64: Ajuste Curricular"
+            "trecho_fonte": "Viabilidade de Solicitação de Aj Curricular. Ajuste Curricular. Viabilidade de solicitação concluída. Agora a CAJ irá encaminhar o ajuste curricular (PPC).\nEvidências: SEI 4183489 (18/05/2026): parecer localizado.; SEI 4162547 (17/04/2026): PPC localizado: (Anexo PPC).\nPendência: Ato definitivo CONSEPE não localizado na coleta."
           }
         ]
       }
@@ -259,9 +267,13 @@
       "sei": {
         "processos": [
           {
+            "numero": "23404.000225/2014-22",
+            "tipo": "abertura"
+          },
+          {
             "numero": "23411.002858/2026-10",
             "tipo": "ajuste",
-            "trecho_fonte": "Linha 61: Ajuste Curricular do Projeto Pedagógico de Curso (PPC)"
+            "trecho_fonte": "Ajuste Curricular do Projeto Pedagógico de Curso (PPC). Viabilidade de Solicitação de Aj Curricular:. 30/03 Parecer técnico-pedagógico emitido pela Dentec.\nEvidências: SEI 4201964 (18/05/2026): parecer localizado.; SEI 4201956 (18/05/2026): PPC localizado: (Projeto Pedagógico de Curso Técnico em Química).\nPendência: Ato definitivo CONSEPE não localizado na coleta."
           }
         ]
       }

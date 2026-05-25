@@ -50,17 +50,17 @@ SELECTS = {
         "correção de cadastro",
         "outro",
     ],
-    "lifecycle_fase": [
+    "lifecycle_situacao": [
+        "Não iniciada",
         "Triagem",
         "Em instrução no campus",
         "Em análise Proens",
         "Em colegiados/conselhos",
+        "Em andamento",
         "Aguardando ato/publicação",
-        "Efetivado",
-        "Cancelado",
+        "Concluído",
         "Arquivado",
     ],
-    "lifecycle_modo": ["Histórico", "Operacional"],
     "processo_tipo": [
         "Abertura de Curso",
         "Ajuste de PPC",
@@ -73,7 +73,7 @@ SELECTS = {
         "correção de cadastro",
         "outro",
     ],
-    "processo_status": ["A localizar", "Em instrução", "Em análise", "Concluído", "Arquivado", "Cancelado"],
+    "processo_status": ["Não iniciada", "Em andamento", "Concluído", "Cancelado", "Arquivado"],
     "edital_tipo": [
         "técnico integrado",
         "técnico subsequente",
@@ -95,6 +95,10 @@ SELECTS = {
 
 def select_schema(options: list[str]) -> dict[str, Any]:
     return {"select": {"options": [{"name": option} for option in options]}}
+
+
+def status_schema(options: list[str]) -> dict[str, Any]:
+    return {"status": {"options": [{"name": option} for option in options]}}
 
 
 def multi_select_schema(options: list[str]) -> dict[str, Any]:
@@ -160,25 +164,14 @@ def base_schemas() -> dict[str, dict[str, Any]]:
             "title": "Lifecycle de Cursos",
             "properties": {
                 "Título": {"title": {}},
-                "lifecycle_id": {"rich_text": {}},
                 "Classe": select_schema(SELECTS["lifecycle_classe"]),
                 "Tipo": select_schema(SELECTS["lifecycle_tipo"]),
-                "Fase": select_schema(SELECTS["lifecycle_fase"]),
-                "Modo": select_schema(SELECTS["lifecycle_modo"]),
-                "Situação anterior": select_schema(SELECTS["situacao"]),
+                "Situação": status_schema(SELECTS["lifecycle_situacao"]),
                 "Situação resultante": select_schema(SELECTS["situacao"]),
-                "Campos afetados": multi_select_schema(["situação", "PPC", "vagas", "modalidade", "URL", "SUAP", "escopo", "nome"]),
-                "Resumo da mudança": {"rich_text": {}},
+                "Anotações": {"rich_text": {}},
                 "Data de início": {"date": {}},
                 "Data do ato": {"date": {}},
                 "Data efetiva": {"date": {}},
-                "Aplicado ao cadastro?": {"checkbox": {}},
-                "Aplicado em": {"date": {}},
-                "Planilha origem": {"rich_text": {}},
-                "Linhas origem": {"rich_text": {}},
-                "Notas da planilha": {"rich_text": {}},
-                "Acompanhamento": {"rich_text": {}},
-                "Processos SEI citados": {"rich_text": {}},
             },
         },
         "processos_sei": {
@@ -186,7 +179,7 @@ def base_schemas() -> dict[str, dict[str, Any]]:
             "properties": {
                 "Número SEI": {"title": {}},
                 "Tipo principal": select_schema(SELECTS["processo_tipo"]),
-                "Status": select_schema(SELECTS["processo_status"]),
+                "Status": status_schema(SELECTS["processo_status"]),
                 "Data de abertura": {"date": {}},
                 "Última movimentação": {"date": {}},
                 "Unidade responsável": {"rich_text": {}},
@@ -402,7 +395,8 @@ def sync_base_properties(client: NotionClient, data_source_id: str, properties: 
         if property_name not in current:
             updates[property_name] = schema
             continue
-        # Keep select option sets current as the model evolves.
+        # Keep select option sets current as the model evolves. Existing Notion
+        # status properties also carry UI groups, so do not overwrite them here.
         if "select" in schema or "multi_select" in schema:
             updates[property_name] = schema
     if updates:

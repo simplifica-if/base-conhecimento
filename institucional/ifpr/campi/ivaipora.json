@@ -256,14 +256,18 @@
       "sei": {
         "processos": [
           {
-            "numero": "23411.004828/2021-33",
-            "tipo": "reversão de suspensão",
-            "trecho_fonte": "Linha 43: Reversão de suspensão (Reoferta)"
+            "numero": "00063.007364/2010-66",
+            "tipo": "abertura"
           },
           {
             "numero": "23411.008369/2025-91",
             "tipo": "reversão de suspensão",
-            "trecho_fonte": "Linha 42: Solicitação de Viab de Ajuste Curricular de PPC em razão de Reversão de Suspensão de Curso (Reoferta)"
+            "trecho_fonte": "Solicitação de Viab de Ajuste Curricular de PPC em razão de Reversão de Suspensão de Curso (Reoferta). Aprovado Consepe.\nEvidências: SEI 3931562 (26/11/2025): ato/manifestação CONSEPE localizado (Parecer Consepe 56).; SEI 3911002 (12/11/2025): PPC localizado: (Anexo PPC Reformulado V4.0)."
+          },
+          {
+            "numero": "23411.004828/2021-33",
+            "tipo": "reversão de suspensão",
+            "trecho_fonte": "Reversão de suspensão (Reoferta). Enviado à Diepex em 14/7/25.\nEvidências: SEI 3930375 (26/11/2025): ato/manifestação CONSEPE localizado (Parecer Consepe 48)."
           }
         ]
       }

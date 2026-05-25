@@ -135,7 +135,11 @@
           {
             "numero": "23411.011762/2025-61",
             "tipo": "suspensão",
-            "trecho_fonte": "Linha 15: Suspensão de curso por tempo indeterminado"
+            "trecho_fonte": "Suspensão de curso por tempo indeterminado. Aprovado Consepe.\nEvidências: SEI 3931525 (26/11/2025): ato/manifestação CONSEPE localizado (Parecer Consepe 55)."
+          },
+          {
+            "numero": "23411.009814/2024-59",
+            "tipo": "abertura"
           }
         ]
       }

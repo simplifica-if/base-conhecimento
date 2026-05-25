@@ -131,12 +131,12 @@
           {
             "numero": "23406.000171/2017-28",
             "tipo": "ajuste",
-            "trecho_fonte": "Linha 56: Ajuste curricular"
+            "trecho_fonte": "Ajuste curricular. Enviado ao Consepe em 10/11/2025."
           },
           {
             "numero": "23411.021089/2025-78",
             "tipo": "ajuste",
-            "trecho_fonte": "Linha 59: Atualização - Bimestre para Trimestre"
+            "trecho_fonte": "Atualização - Bimestre para Trimestre.\nEvidências: SEI 3928357 (24/11/2025): PPC localizado: (Projeto Pedagógico de Curso Curso Técnico em Automação Industrial).\nPendência: Ato definitivo CONSEPE não localizado na coleta."
           }
         ]
       }
@@ -182,14 +182,18 @@
       "sei": {
         "processos": [
           {
-            "numero": "23411.016533/2025-33",
-            "tipo": "ajuste",
-            "trecho_fonte": "Linha 54: Ajuste curricular"
-          },
-          {
             "numero": "23411.021099/2025-11",
             "tipo": "ajuste",
-            "trecho_fonte": "Linha 60: Atualização - Bimestre para Trimestre"
+            "trecho_fonte": "Atualização - Bimestre para Trimestre.\nEvidências: SEI 3928508 (24/11/2025): Ata/NDE com parecer favorável à implementação do regime trimestral para turmas ingressantes até 2025.; SEI 3928504 (24/11/2025): Ata do CGPC com aprovação da proposta de alteração para regime trimestral.; SEI 3997802 (27/12/2025): matriz curricular 852 do curso em regime trimestral para 2026.; SEI 3928501 (24/11/2025): PPC localizado para atualização do regime acadêmico para trimestre.\nPendência: Ato definitivo CONSEPE não localizado na coleta."
+          },
+          {
+            "numero": "23411.016533/2025-33",
+            "tipo": "ajuste",
+            "trecho_fonte": "Ajuste curricular. Enviado ao Consepe em 10/11/2025.\nEvidências: SEI 3930530 (26/11/2025): ato/manifestação CONSEPE localizado (Parecer Consepe 50).; SEI 3944611 (01/12/2025): PPC localizado: (Projeto Pedagógico de Curso Técnico em Informática para Internet)."
+          },
+          {
+            "numero": "23406.000172/2017-72",
+            "tipo": "ajuste"
           }
         ]
       }
@@ -235,14 +239,14 @@
       "sei": {
         "processos": [
           {
-            "numero": "23406.000173/2017-17",
-            "tipo": "ajuste",
-            "trecho_fonte": "Linha 53: Ajuste curricular"
-          },
-          {
             "numero": "23411.021076/2025-07",
             "tipo": "ajuste",
-            "trecho_fonte": "Linha 58: Atualização - Bimestre para Trimestre"
+            "trecho_fonte": "Atualização - Bimestre para Trimestre.\nEvidências: SEI 3927610 (24/11/2025): PPC localizado: (Projeto Pedagógico de Curso Técnico Mecânica_2018).\nPendência: Ato definitivo CONSEPE não localizado na coleta."
+          },
+          {
+            "numero": "23406.000173/2017-17",
+            "tipo": "ajuste",
+            "trecho_fonte": "Ajuste curricular. Enviado ao Consepe em 10/11/2025.\nEvidências: SEI 3930594 (26/11/2025): ato/manifestação CONSEPE localizado (Parecer Consepe 51).; SEI 3944623 (01/12/2025): PPC localizado: (Projeto Pedagógico de Curso Técnico em Mecânica)."
           }
         ]
       }
@@ -274,14 +278,18 @@
       "sei": {
         "processos": [
           {
-            "numero": "23411.016537/2025-11",
-            "tipo": "ajuste",
-            "trecho_fonte": "Linha 55: Ajuste curricular"
-          },
-          {
             "numero": "23411.021100/2025-08",
             "tipo": "ajuste",
-            "trecho_fonte": "Linha 57: Atualização - Bimestre para Trimestre"
+            "trecho_fonte": "Atualização - Bimestre para Trimestre.\nEvidências: SEI 3928525 (24/11/2025): PPC localizado: (Projeto Pedagógico de Curso PPC Programação Jogos Digitais).\nPendência: Ato definitivo CONSEPE não localizado na coleta."
+          },
+          {
+            "numero": "23411.016537/2025-11",
+            "tipo": "ajuste",
+            "trecho_fonte": "Ajuste curricular. Enviado ao Consepe em 10/11/2025.\nEvidências: SEI 3930441 (26/11/2025): ato/manifestação CONSEPE localizado (Parecer Consepe 49).; SEI 3944638 (01/12/2025): PPC localizado: (Projeto Pedagógico de Curso Curso Técnico em Programação de Jogos Digitais)."
+          },
+          {
+            "numero": "23406.000268/2017-31",
+            "tipo": "abertura"
           }
         ]
       }
