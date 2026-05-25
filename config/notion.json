@@ -16,10 +16,10 @@
       "data_source_id": "5bd3fa13-c7d7-45a4-aedf-9a3af4a7adb2",
       "title": "Documentos de Curso"
     },
-    "lifecycle": {
+    "movimentacoes_cursos": {
       "id": "9f13718a-9524-4feb-bc79-b13b32cf0bbd",
       "data_source_id": "9686928b-c284-4526-8534-f6477f39f6ae",
-      "title": "Lifecycle de Cursos"
+      "title": "Movimentações de Cursos"
     },
     "processos_sei": {
       "id": "40436bea-72f7-4e8d-b845-5ce8054beef1",

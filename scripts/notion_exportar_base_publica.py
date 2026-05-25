@@ -170,7 +170,7 @@ class Exporter:
         document_pages = self.query_all("documentos")
         suap_pages = self.query_all("suap_cursos")
         horario_pages = self.query_all("horarios_aula")
-        lifecycle_pages = self.query_all("lifecycle")
+        movimentacao_pages = self.query_all("movimentacoes_cursos")
         processo_pages = self.query_all("processos_sei")
 
         campuses_by_page = {page["id"]: self.campus_ref(page) for page in campus_pages}
@@ -197,10 +197,10 @@ class Exporter:
             for campus_page_id in relation_ids(page, "Campus"):
                 horarios_by_campus[campus_page_id].append(page)
 
-        lifecycle_by_course: dict[str, list[dict[str, Any]]] = defaultdict(list)
-        for page in lifecycle_pages:
+        movimentacoes_by_course: dict[str, list[dict[str, Any]]] = defaultdict(list)
+        for page in movimentacao_pages:
             for course_page_id in relation_ids(page, "Cursos"):
-                lifecycle_by_course[course_page_id].append(page)
+                movimentacoes_by_course[course_page_id].append(page)
 
         campi: list[dict[str, Any]] = []
         for page in campus_pages:
@@ -213,7 +213,7 @@ class Exporter:
                     course_page,
                     docs_by_course.get(course_page["id"], []),
                     suap_by_course.get(course_page["id"], []),
-                    lifecycle_by_course.get(course_page["id"], []),
+                    movimentacoes_by_course.get(course_page["id"], []),
                     processos_by_page,
                 )
                 for course_page in courses_by_campus.get(page["id"], [])
@@ -289,7 +289,7 @@ class Exporter:
         page: dict[str, Any],
         documents: list[dict[str, Any]],
         suap_pages: list[dict[str, Any]],
-        lifecycles: list[dict[str, Any]],
+        movimentacoes: list[dict[str, Any]],
         processos_by_page: dict[str, str],
     ) -> dict[str, Any]:
         props = page["properties"]
@@ -312,7 +312,7 @@ class Exporter:
         if ppc:
             course["ppc"] = ppc
 
-        processos = self.lifecycle_processes(lifecycles, processos_by_page)
+        processos = self.movimentacao_processes(movimentacoes, processos_by_page)
         if processos:
             course["sei"] = {"processos": processos}
 
@@ -404,10 +404,10 @@ class Exporter:
         add_if_text(vagas, "revisado_em", json_date(date_start(props.get("Revisado em"))))
         return vagas
 
-    def lifecycle_processes(self, lifecycles: list[dict[str, Any]], processos_by_page: dict[str, str]) -> list[dict[str, Any]]:
+    def movimentacao_processes(self, movimentacoes: list[dict[str, Any]], processos_by_page: dict[str, str]) -> list[dict[str, Any]]:
         seen: set[tuple[str, str]] = set()
         processos: list[dict[str, Any]] = []
-        for page in sorted(lifecycles, key=self.lifecycle_sort_key):
+        for page in sorted(movimentacoes, key=self.movimentacao_sort_key):
             props = page["properties"]
             tipo = select_name(props.get("Tipo")) or "outro"
             anotacoes = plain_text(props.get("Anotações"))
@@ -421,7 +421,7 @@ class Exporter:
                 seen.add((numero, tipo))
         return processos
 
-    def lifecycle_sort_key(self, page: dict[str, Any]) -> tuple[str, str, str, str]:
+    def movimentacao_sort_key(self, page: dict[str, Any]) -> tuple[str, str, str, str]:
         props = page["properties"]
         return (
             json_date(date_start(props.get("Data do ato"))) or json_date(date_start(props.get("Data efetiva"))),

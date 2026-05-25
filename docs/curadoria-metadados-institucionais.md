@@ -4,7 +4,7 @@ Este documento registra práticas para manter metadados institucionais do IFPR, 
 
 ## Fonte operacional
 
-O Notion é a fonte operacional de verdade para campi, cursos, documentos de curso, SUAP Cursos, horários de aula, lifecycle de cursos, processos SEI, processos seletivos, editais e ofertas de ingresso.
+O Notion é a fonte operacional de verdade para campi, cursos, documentos de curso, SUAP Cursos, horários de aula, movimentações de cursos, processos SEI, processos seletivos, editais e ofertas de ingresso.
 
 Os arquivos JSON em `institucional/ifpr/campi/` e `institucional/ifpr/processos-seletivos/` são artefatos públicos gerados a partir do Notion. Não edite esses JSONs manualmente para curadoria operacional.
 
@@ -97,14 +97,14 @@ Para relatórios exportados do SUAP que usam a coluna `DIRETORIA`, use o mapeame
 
 ## Processos SEI dos cursos
 
-Use as bases Notion `Lifecycle de Cursos` e `Processos SEI` para registrar processos administrativos associados ao histórico do curso, como abertura, ajuste, atualização, suspensão, reversão de suspensão ou extinção.
+Use as bases Notion `Movimentações de Cursos` e `Processos SEI` para registrar processos administrativos associados ao histórico do curso, como abertura, ajuste, atualização, suspensão, reversão de suspensão ou extinção.
 
 1. Registre processos SEI no nível do curso, não dentro de `ppc`, porque o PPC é apenas uma das informações documentais do curso.
 2. Use `sei.processos[]` como lista mesmo quando houver apenas um processo, pois o curso pode acumular processos administrativos ao longo do tempo.
 3. Registre o número em `numero`, no formato `00000.000000/0000-00`.
 4. Use `tipo` para classificar a finalidade principal do processo: `abertura`, `ajuste`, `atualização`, `suspensão`, `reversão de suspensão`, `extinção` ou `outro`.
 5. Quando a situação atual do curso decorrer de processo SEI, atualize também `cursos[].situacao`, por exemplo `suspenso`.
-6. Na base Notion `Processos SEI`, trate `Status` como propriedade do tipo `status`, com os valores `Não iniciada`, `Em andamento`, `Concluído`, `Cancelado` e `Arquivado`. Use esse campo apenas para o estado geral do processo; etapas como instrução no campus, análise Proens e colegiados devem ficar em `Lifecycle de Cursos.Situação`.
+6. Na base Notion `Processos SEI`, trate `Status` como propriedade do tipo `status`, com os valores `Não iniciada`, `Em andamento`, `Concluído`, `Cancelado` e `Arquivado`. Use esse campo apenas para o estado geral do processo; etapas como instrução no campus, análise Proens e colegiados devem ficar em `Movimentações de Cursos.Situação`.
 7. Na base Notion `Processos SEI`, mantenha `Data de abertura` e `Última movimentação` atualizadas a cada revisão. `Data de abertura` é a autuação/criação do processo; `Última movimentação` é a data mais recente localizada no andamento ou nos documentos e não deve ser tratada como data de conclusão.
 8. Quando a data exata de autuação não estiver disponível, use a primeira data documentada somente como aproximação e registre essa limitação em `Observações`.
 9. Formate `Observações` em blocos escaneáveis, com quebras de linha e bullets. Comece com uma frase simples no formato `Revisado em AAAA-MM-DD via <ferramenta ou fonte>.` Em seguida, use blocos como `Contexto`, `Evidências`, `Datas de controle` e `Observação técnica` quando houver conteúdo para eles. Não inclua caminho local de snapshot.
