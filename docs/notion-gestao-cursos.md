@@ -7,7 +7,7 @@ Este documento registra o modelo operacional de gestão de Campi, Cursos, docume
 - O Notion é a fonte da verdade operacional.
 - Os JSONs em `institucional/ifpr/campi/` e `institucional/ifpr/processos-seletivos/` são artefatos públicos gerados.
 - Não edite os JSONs institucionais manualmente para curadoria operacional.
-- O repositório mantém o bootstrap do schema Notion, o exportador público, validações, normas, catálogos, PPCs convertidos e índices.
+- O repositório mantém o exportador público, validações, normas, catálogos, PPCs convertidos e índices.
 - Campos de sincronização da importação inicial foram removidos, não escondidos.
 
 ## Bases operacionais
@@ -106,20 +106,6 @@ Valide a base:
 python3 scripts/validar_base.py
 ```
 
-## Bootstrap
+## Schema Notion
 
-Crie uma integração Notion, compartilhe a página raiz com ela e configure as variáveis:
-
-```bash
-export NOTION_PARENT_PAGE_ID=367f5b131dbd803eb664f38a3ce8d8f9
-export NOTION_TOKEN=...
-```
-
-Bootstrap do schema:
-
-```bash
-python3 scripts/notion_bootstrap.py --dry-run
-python3 scripts/notion_bootstrap.py
-```
-
-Os antigos scripts de importação JSON -> Notion foram removidos. O fluxo ativo é Notion -> JSON público.
+A base Notion operacional já existe e é mantida diretamente no workspace organizacional. Quando o schema mudar, atualize este documento e os scripts de leitura/exportação afetados. O fluxo ativo é Notion -> JSON público.

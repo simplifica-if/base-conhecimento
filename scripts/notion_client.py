@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Cliente mínimo para a API do Notion usado pelos scripts de migração."""
+"""Cliente mínimo para a API do Notion usado pelos scripts locais."""
 
 from __future__ import annotations
 

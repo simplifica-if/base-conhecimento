@@ -23,7 +23,7 @@ VALID_CURADORIA_STATUS = {"dados_pendentes", "dados_parciais", "dados_curados"}
 
 def load_config() -> dict[str, Any]:
     if not CONFIG_PATH.exists():
-        raise NotionError("config/notion.json não encontrado. Rode scripts/notion_bootstrap.py primeiro.")
+        raise NotionError("config/notion.json não encontrado. Configure os IDs da base Notion operacional.")
     return json.loads(CONFIG_PATH.read_text(encoding="utf-8"))
 
 

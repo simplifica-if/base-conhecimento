@@ -45,7 +45,7 @@ Os scripts Notion deste repositório carregam `.env.local` automaticamente quand
 
 Ordem preferida de operação:
 
-1. Use os scripts locais quando a tarefa já estiver coberta por eles, como exportar JSON público ou aplicar bootstrap de schema.
+1. Use os scripts locais quando a tarefa já estiver coberta por eles, como exportar JSON público, regenerar índices ou validar a base.
 2. Use a API do Notion com `scripts/notion_client.py` para operações repetíveis, migrações, consultas estruturadas ou alterações em lote.
 3. Use Notion MCP apenas quando estiver claro que o MCP disponível está conectado ao workspace organizacional correto e consegue acessar a página raiz desta base.
 
@@ -105,7 +105,7 @@ Ao alterar dados no Notion:
 
 - preserve identificadores estáveis, como `campus_id`, `curso_id`, `id_composto`, `documento_id`, `Número SEI`, `suap_curso_id` e IDs de processo seletivo;
 - não crie campos técnicos de sincronização, migração ou controle interno sem necessidade operacional atual;
-- não crie propriedades novas diretamente no Notion sem também avaliar `scripts/notion_bootstrap.py` e a documentação em `docs/notion-gestao-cursos.md`;
+- não crie propriedades novas no Notion sem atualizar `docs/notion-gestao-cursos.md` e os scripts que leem ou exportam a base;
 - registre fontes, datas de coleta e notas de curadoria quando a informação vier de site externo, planilha, SEI ou SUAP;
 - prefira relações entre bases, não duplicação textual, quando a relação já existir no modelo;
 - não edite manualmente os JSONs públicos para refletir curadoria operacional.
@@ -161,5 +161,4 @@ python3 scripts/validar_base.py
 - `docs/curadoria-metadados-institucionais.md`: regras de curadoria institucional.
 - `config/notion.json`: IDs das bases Notion.
 - `scripts/notion_client.py`: cliente mínimo da API Notion.
-- `scripts/notion_bootstrap.py`: bootstrap e atualização de schema.
 - `scripts/notion_exportar_base_publica.py`: exportação Notion para JSON público.
