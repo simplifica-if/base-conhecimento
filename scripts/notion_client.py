@@ -5,6 +5,7 @@ from __future__ import annotations
 
 import json
 import os
+from pathlib import Path
 import time
 import urllib.error
 import urllib.request
@@ -16,10 +17,27 @@ NOTION_API_BASE = "https://api.notion.com/v1"
 # Use the current Notion API version and the data_sources API shape introduced
 # after 2025-09-03, instead of deprecated database-row endpoints.
 NOTION_VERSION = "2026-03-11"
+ROOT = Path(__file__).resolve().parents[1]
+ENV_LOCAL_PATH = ROOT / ".env.local"
 
 
 class NotionError(RuntimeError):
     """Erro retornado pela API do Notion."""
+
+
+def load_env_local(path: Path = ENV_LOCAL_PATH) -> None:
+    """Carrega variáveis simples de .env.local sem sobrescrever o ambiente."""
+    if not path.exists():
+        return
+    for raw_line in path.read_text(encoding="utf-8").splitlines():
+        line = raw_line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, value = line.split("=", 1)
+        key = key.strip()
+        value = value.strip().strip('"').strip("'")
+        if key and key not in os.environ:
+            os.environ[key] = value
 
 
 @dataclass
@@ -30,9 +48,14 @@ class NotionClient:
 
     @classmethod
     def from_env(cls) -> "NotionClient":
+        load_env_local()
         token = os.environ.get("NOTION_TOKEN")
         if not token:
-            raise NotionError("Defina NOTION_TOKEN no ambiente.")
+            raise NotionError(
+                "Defina NOTION_TOKEN no ambiente ou em .env.local. "
+                "Se o token não estiver disponível, solicite ao usuário o token da integração "
+                "Notion organizacional desta base e grave como NOTION_TOKEN=... em .env.local."
+            )
         return cls(token=token)
 
     def request(

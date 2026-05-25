@@ -105,6 +105,7 @@ python3 scripts/validar_base.py
 ## Documentos de apoio à manutenção
 
 - [Curadoria de metadados institucionais](docs/curadoria-metadados-institucionais.md)
+- [Operação do Notion por agentes](docs/notion-operacao-agentes.md)
 - [Padrão de front matter para legislação](docs/padrao-front-matter-legislacao.md)
 
 ## Estrutura

@@ -12,8 +12,16 @@ Para tarefas de curadoria de metadados institucionais, especialmente campi e cur
 
 - [Curadoria de metadados institucionais](docs/curadoria-metadados-institucionais.md)
 
-Depois de alterar dados institucionais, rode:
+Para solicitações sobre dados operacionais no Notion, como Campi, Cursos, Documentos de Curso, Lifecycle de Cursos, Processos SEI, SUAP Cursos, Horários de Aula, Processos Seletivos, Editais ou Ofertas de Ingresso, leia primeiro:
+
+- [Operação do Notion por agentes](docs/notion-operacao-agentes.md)
+
+Por padrão, use a API do Notion com `NOTION_TOKEN` do projeto. Não presuma que o Notion MCP local do usuário acessa esta base, pois ele pode estar conectado ao Notion pessoal do usuário. Se `NOTION_TOKEN` não estiver disponível, peça ao usuário o token da integração Notion organizacional e grave em `.env.local`.
+
+Depois de alterar dados institucionais no Notion, rode:
 
 ```bash
+python3 scripts/notion_exportar_base_publica.py
+python3 scripts/gerar_indice_ppcs.py
 python3 scripts/validar_base.py
 ```
