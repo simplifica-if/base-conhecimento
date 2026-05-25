@@ -104,7 +104,10 @@ Use as bases Notion `Lifecycle de Cursos` e `Processos SEI` para registrar proce
 3. Registre o número em `numero`, no formato `00000.000000/0000-00`.
 4. Use `tipo` para classificar a finalidade principal do processo: `abertura`, `ajuste`, `atualização`, `suspensão`, `reversão de suspensão`, `extinção` ou `outro`.
 5. Quando a situação atual do curso decorrer de processo SEI, atualize também `cursos[].situacao`, por exemplo `suspenso`.
-6. Use `status_curadoria`, `revisado_em` e, quando disponível, `trecho_fonte` para registrar a evidência usada na curadoria.
+6. Na base Notion `Processos SEI`, mantenha `Data de abertura` e `Última movimentação` atualizadas a cada revisão. `Data de abertura` é a autuação/criação do processo; `Última movimentação` é a data mais recente localizada no andamento ou nos documentos e não deve ser tratada como data de conclusão.
+7. Quando a data exata de autuação não estiver disponível, use a primeira data documentada somente como aproximação e registre essa limitação em `Observações`.
+8. Formate `Observações` em blocos escaneáveis, com quebras de linha e bullets. Comece com uma frase simples no formato `Revisado em AAAA-MM-DD via <ferramenta ou fonte>.` Em seguida, use blocos como `Contexto`, `Evidências`, `Datas de controle` e `Observação técnica` quando houver conteúdo para eles. Não inclua caminho local de snapshot.
+9. Use `status_curadoria`, `revisado_em` e, quando disponível, `trecho_fonte` para registrar a evidência usada na curadoria.
 
 Exemplo:
 

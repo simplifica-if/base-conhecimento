@@ -44,7 +44,13 @@ Campos principais: `Título`, `lifecycle_id`, `Classe`, `Tipo`, `Fase`, `Modo`, 
 
 Entidade própria para processos administrativos associados ao histórico de cursos.
 
-Campos principais: `Número SEI`, `Tipo principal`, `Status`, `Link SEI`, `Campi`, `Cursos`, `Lifecycle de Cursos`, `Observações`, `Planilha origem`, `Linhas origem`.
+Campos principais: `Número SEI`, `Tipo principal`, `Status`, `Link SEI`, `Data de abertura`, `Última movimentação`, `Unidade responsável`, `Campi`, `Cursos`, `Lifecycle de Cursos`, `Observações`, `Planilha origem`, `Linhas origem`.
+
+`Data de abertura` registra a data de autuação/criação do processo no SEI. Quando a autuação exata não estiver disponível, use a primeira movimentação ou o primeiro documento datado apenas se isso estiver claro nas evidências; se for uma aproximação, registre a limitação em `Observações`.
+
+`Última movimentação` registra a data mais recente localizada no andamento ou nos documentos do processo. Não é data de conclusão: processos antigos podem continuar recebendo despachos, portarias, declarações ou juntadas depois do ato principal. Sempre atualize `Data de abertura` e `Última movimentação` ao localizar, baixar ou revisar um processo SEI.
+
+`Observações` deve ser legível no próprio Notion. Prefira texto em blocos com quebras de linha e marcadores, em vez de parágrafo corrido. Comece com uma frase simples, como `Revisado em 2026-05-25 via sei-cli.` Em seguida, use blocos como `Contexto` para curso, campus e origem; `Evidências` para documentos SEI citados; `Datas de controle` para justificar `Data de abertura` e `Última movimentação`; `Observação técnica` para limitações da extração ou ressalvas. Não inclua caminho local de snapshot.
 
 ### SUAP Cursos
 

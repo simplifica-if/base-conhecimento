@@ -112,6 +112,11 @@
             "numero": "23411.006241/2025-92",
             "tipo": "ajuste",
             "trecho_fonte": "Linha 6: Ajuste Curricular do Projeto Pedagógico de Curso (PPC)\nLinha 9: Ajuste de PPC (não é curso novo)"
+          },
+          {
+            "numero": "23412.000140/2017-98",
+            "tipo": "ajuste",
+            "trecho_fonte": "Tentativa de ajuste curricular do PPC do Curso Técnico em Agropecuária Integrado ao Ensino Médio; parecer CONSEPE inconcluso e ajuste posteriormente suspenso/arquivado pela DIEPEX."
           }
         ]
       }
@@ -377,6 +382,11 @@
             "numero": "23411.017271/2025-24",
             "tipo": "ajuste",
             "trecho_fonte": "Linha 14: Viabilidade de ajuste"
+          },
+          {
+            "numero": "23412.000384/2017-71",
+            "tipo": "suspensão",
+            "trecho_fonte": "Suspensão temporária do Curso Técnico em Informática Integrado ao Ensino Médio, com parecer favorável da PROENS/DEMTEC e Parecer Consepe 43/2019."
           }
         ]
       }
