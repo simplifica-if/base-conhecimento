@@ -6,48 +6,64 @@
     "site": "https://barracao.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/barracao/academico/calendario-academico-e-administrativo/"
   },
+  "curadoria": {
+    "status_cursos": "dados_parciais",
+    "verificado_em": "2026-05-11"
+  },
   "horario_aulas": {
+    "coletado_em": "2026-05-14T11:48:00-03:00",
+    "status_curadoria": "revisado",
     "url": "https://ifpr.edu.br/barracao/academico/horarios-das-aulas/",
     "titulo_fonte": "Horários das Aulas e do Atendimento",
-    "coletado_em": "2026-05-14T11:48:09-03:00",
-    "tipo_fonte": "pagina_ifpr",
-    "status_curadoria": "revisado"
+    "tipo_fonte": "pagina_ifpr"
   },
   "cursos": [
     {
-      "id": "tecnologia-em-comercio-exterior",
-      "nome": "Tecnologia em Comércio Exterior",
-      "nivel": "superior",
-      "tipo_oferta": "graduação tecnológica",
+      "id": "tecnico-em-administracao",
+      "nome": "Técnico em Administração",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/barracao/nossos-cursos/integrados-ao-ensino-medio/tecnico-em-administracao/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/barracao/nossos-cursos/graduacao/comercio-exterior/",
+      "suap": {
+        "id": 70,
+        "codigo": "BA001",
+        "vagas": 80
+      },
       "ppc": {
-        "url": "https://ifpr.edu.br/barracao/wp-content/uploads/sites/5/2025/02/PPC-Comercio-Exterior-Atualizada-2025.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/barracao/tecnologia-em-comercio-exterior.md",
+        "url": "https://ifpr.edu.br/barracao/wp-content/uploads/sites/5/2023/12/Projeto-Pedagogico-de-Curso-Tecnico-em-Administracao-Barracao-APROVADO-CONSEPE.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/barracao/tecnico-em-administracao.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
-            "ano": 2008,
-            "trecho_fonte": "A instituição foi criada em dezembro de 2008 através da Lei 11.892, que instituiu a Rede Federal de Educação Profissional e Tecnológica e os 38 institutos federais hoje existentes no país. Com a Lei em vigor, a Escola Técnica da Universidade Federal do Paraná (ET-UFPR) foi transf",
-            "secao": "Capa / folha inicial",
+            "ano": 2022,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2022",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "Vagas totais (anual) 40 vagas",
-            "secao": "Vagas totais (anual)",
+            "trecho_fonte": "Vagas totais Mínimo: 20. Máximo: 40",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Vagas totais"
           }
         }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23411.014772/2024-78",
+            "tipo": "ajuste",
+            "trecho_fonte": "Linha 16: Ajuste de PPC (não é curso novo) para mudança no qtitavo de vagas: de 40 vagas para 40 ou 80 vagas"
+          }
+        ]
       }
     },
     {
@@ -55,88 +71,74 @@
       "nome": "Técnico em Informática",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/barracao/nossos-cursos/integrados-ao-ensino-medio/tecnico-em-informatica/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/barracao/nossos-cursos/integrados-ao-ensino-medio/tecnico-em-informatica/",
+      "suap": {
+        "id": 62,
+        "codigo": "BA002",
+        "vagas": 40
+      },
       "ppc": {
         "url": "https://ifpr.edu.br/barracao/wp-content/uploads/sites/5/2023/12/PPC_INFO_Barracao-APROVACAO-CONSEPE.pdf",
         "markdown_path": "institucional/ifpr/ppcs/barracao/tecnico-em-informatica.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2022,
-            "trecho_fonte": "(Designada pela Portaria de Pessoal DG/CAPANEMA/ IFPR Nº 169/2022)",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2022",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais Número mínimo de vagas do curso: 20. Número máximo de vagas do curso: 40",
-            "secao": "Número mínimo de vagas do curso",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Número mínimo de vagas do curso"
           }
         }
-      },
-      "suap": {
-        "id": 62,
-        "codigo": "BA002",
-        "vagas": 40
       }
     },
     {
-      "id": "tecnico-em-administracao",
-      "nome": "Técnico em Administração",
-      "nivel": "médio",
-      "tipo_oferta": "técnico integrado",
+      "id": "tecnologia-em-comercio-exterior",
+      "nome": "Tecnologia em Comércio Exterior",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "url": "https://ifpr.edu.br/barracao/nossos-cursos/graduacao/comercio-exterior/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/barracao/nossos-cursos/integrados-ao-ensino-medio/tecnico-em-administracao/",
       "ppc": {
-        "url": "https://ifpr.edu.br/barracao/wp-content/uploads/sites/5/2023/12/Projeto-Pedagogico-de-Curso-Tecnico-em-Administracao-Barracao-APROVADO-CONSEPE.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/barracao/tecnico-em-administracao.md",
+        "url": "https://ifpr.edu.br/barracao/wp-content/uploads/sites/5/2025/02/PPC-Comercio-Exterior-Atualizada-2025.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/barracao/tecnologia-em-comercio-exterior.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
-            "ano": 2022,
-            "trecho_fonte": "(Designada pela Portaria de Pessoal DG/CAPANEMA/ IFPR Nº 169/2022)",
-            "secao": "Capa / folha inicial",
+            "ano": 2008,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2008",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "Vagas totais Mínimo: 20. Máximo: 40",
-            "secao": "Vagas totais",
+            "trecho_fonte": "Vagas totais (anual) 40 vagas",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais",
+            "secao": "Vagas totais (anual)"
           }
         }
-      },
-      "suap": {
-        "id": 70,
-        "codigo": "BA001",
-        "vagas": 80
       }
     }
-  ],
-  "curadoria": {
-    "status_cursos": "dados_parciais",
-    "verificado_em": "2026-05-11",
-    "fontes": [
-      "https://barracao.ifpr.edu.br/",
-      "https://ifpr.edu.br/barracao/academico/horarios-das-aulas/"
-    ]
-  }
+  ]
 }

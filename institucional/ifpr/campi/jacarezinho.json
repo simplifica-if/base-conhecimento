@@ -6,10 +6,14 @@
     "site": "https://jacarezinho.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/jacarezinho/calendario-academico/"
   },
+  "curadoria": {
+    "status_cursos": "dados_parciais",
+    "verificado_em": "2026-05-11"
+  },
   "horario_aulas": {
-    "titulo_fonte": "Páginas de horário por curso",
-    "coletado_em": "2026-05-14T11:48:09-03:00",
+    "coletado_em": "2026-05-14T11:48:00-03:00",
     "status_curadoria": "parcial",
+    "titulo_fonte": "Páginas de horário por curso",
     "observacoes": "Não foi localizada página agregadora de horário das aulas. Foram encontradas páginas por curso, como Licenciatura em Química e Engenharia de Controle e Automação."
   },
   "cursos": [
@@ -18,110 +22,33 @@
       "nome": "Educação, Sociedade e Tecnologia",
       "nivel": "pós-graduação",
       "tipo_oferta": "especialização",
+      "url": "https://ifpr.edu.br/jacarezinho/cursos/especializacao/educacao-sociedade-e-tecnologia/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/jacarezinho/cursos/especializacao/educacao-sociedade-e-tecnologia/",
       "ppc": {
         "url": "https://ifpr.edu.br/jacarezinho/wp-content/uploads/sites/16/2025/06/PPC_especializacao_2025.pdf",
         "markdown_path": "institucional/ifpr/ppcs/jacarezinho/educacao-sociedade-e-tecnologia.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2020,
-            "trecho_fonte": "MINISTÉRIO DA EDUCAÇÃO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ PRÓ-REITORIA DE EXTENSÃO, PESQUISA, PÓS-GRADUAÇÃO E INOVAÇÃO DIRETORIA DE PÓS-GRADUAÇÃO RESOLUÇÃO CONSUP/IFPR N.38/2020 – CONSUP/IFPR",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2020",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 50,
             "trecho_fonte": "Vagas ofertadas a) Mínimo: 20 vagas (Resolução Consup/IFPR n.121/2023) b) Máximo: 50 vagas, conforme oferta e ingresso descrita no PPC",
-            "secao": "Vagas ofertadas",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 50 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 50 vagas e mínimo de 20 vagas",
+            "secao": "Vagas ofertadas"
           }
         }
-      }
-    },
-    {
-      "id": "tecnologia-em-sistemas-para-internet",
-      "nome": "Tecnologia em Sistemas para Internet",
-      "nivel": "superior",
-      "tipo_oferta": "graduação tecnológica",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/jacarezinho/cursos/graduacao/tecnologia-em-sistemas-para-internet/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/jacarezinho/wp-content/uploads/sites/16/2025/02/PPCSistemasparaInternet.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/jacarezinho/tecnologia-em-sistemas-para-internet.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2014,
-            "trecho_fonte": "1. APRESENTAÇÃO DO PROJETO .................................................................................... 7 1.1 IDENTIFICAÇÃO ........................................................................................................... 7 1.1.1 Denominação do Curso: Curso Supe",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 40,
-            "trecho_fonte": "Vagas Totais (anual): 40",
-            "secao": "Vagas Totais (anual)",
-            "status_curadoria": "sugerido",
-            "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais"
-          }
-        }
-      }
-    },
-    {
-      "id": "tecnico-em-informatica",
-      "nome": "Técnico em Informática",
-      "nivel": "médio",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/jacarezinho/cursos/cursos-integrados/tecnico-em-informatica-2/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/jacarezinho/wp-content/uploads/sites/16/2018/11/PPC-Informatica-1.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/jacarezinho/tecnico-em-informatica.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2013,
-            "trecho_fonte": "Não há fórmula, receita ou manual que explique passo a passo como se faz para conceber um currículo que atenda aos anseios da comunidade escolar. Entretanto, há pistas que indicam quando algo está no caminho desejado ou no indesejado, e este é o caso do Campus Jacarezinho do Inst",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 40,
-            "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 15",
-            "secao": "Número máximo de vagas do curso",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 15 vagas"
-          }
-        }
-      },
-      "suap": {
-        "id": 80,
-        "codigo": "JAC003",
-        "vagas": 40
       }
     },
     {
@@ -129,33 +56,32 @@
       "nome": "Engenharia de Controle e Automação",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
+      "url": "https://ifpr.edu.br/jacarezinho/cursos/graduacao/engenharia-de-controle-e-automacao/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/jacarezinho/cursos/graduacao/engenharia-de-controle-e-automacao/",
       "ppc": {
         "url": "https://ifpr.edu.br/jacarezinho/wp-content/uploads/sites/16/2025/02/PPC_ECA_IFPR___2017_Atualizado_em_2022.pdf",
         "markdown_path": "institucional/ifpr/ppcs/jacarezinho/engenharia-de-controle-e-automacao.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2017,
-            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO 44 DE 14 DE JULHO DE 2017",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2017",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas Totais (anual) Mínimo de 20 e máximo de 40 vagas",
-            "secao": "Vagas Totais",
             "status_curadoria": "sugerido",
             "periodicidade": "anual",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Vagas Totais"
           }
         }
       }
@@ -165,24 +91,23 @@
       "nome": "Licenciatura em Química",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
+      "url": "https://ifpr.edu.br/jacarezinho/cursos/graduacao/licenciatura-em-quimica/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/jacarezinho/cursos/graduacao/licenciatura-em-quimica/",
       "ppc": {
         "url": "https://ifpr.edu.br/jacarezinho/wp-content/uploads/sites/16/2025/01/PPC_Licenciatura_FINAL_2022_proens__1__atualizado.pdf",
         "markdown_path": "institucional/ifpr/ppcs/jacarezinho/licenciatura-em-quimica.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2018,
-            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO N° 28, 23 DE OUTUBRO DE 2014 AJUSTE PARECER CONSEPE Nº105/2018",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2018",
             "status_curadoria": "sugerido"
           }
         }
@@ -193,79 +118,38 @@
       "nome": "Técnico em Alimentos",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/jacarezinho/cursos/cursos-integrados/tecnico-em-alimentos-3/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/jacarezinho/cursos/cursos-integrados/tecnico-em-alimentos-3/",
+      "suap": {
+        "id": 71,
+        "codigo": "JAC001",
+        "vagas": 40
+      },
       "ppc": {
         "url": "https://ifpr.edu.br/jacarezinho/wp-content/uploads/sites/16/2019/12/PPC___Alimentos_2020_A-partir-2020.pdf",
         "markdown_path": "institucional/ifpr/ppcs/jacarezinho/tecnico-em-alimentos.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2013,
-            "trecho_fonte": "Não há fórmula, receita ou manual que explique passo a passo como se faz para conceber um currículo que atenda aos anseios da comunidade escolar. Entretanto, há pistas que indicam quando algo está no caminho desejado ou no indesejado, e este é o caso do Campus Jacarezinho do Inst",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2013",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 30",
-            "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas",
+            "secao": "Número máximo de vagas do curso"
           }
         }
-      },
-      "suap": {
-        "id": 71,
-        "codigo": "JAC001",
-        "vagas": 40
-      }
-    },
-    {
-      "id": "tecnico-em-teatro",
-      "nome": "Técnico em Teatro",
-      "nivel": "médio",
-      "tipo_oferta": "técnico subsequente",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/jacarezinho/cursos/cursos-subsequentes/tecnico-em-teatro/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/jacarezinho/wp-content/uploads/sites/16/2019/11/PPC_Tecnico_em_Teatro-1.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/jacarezinho/tecnico-em-teatro.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2012,
-            "trecho_fonte": "AJUSTE CURRICULAR DE CURSO RESOLUÇÃO DE CRIAÇÃO: Resolução n° 15/2012 do Conselho Superior – IFPR",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 30,
-            "trecho_fonte": "Número máximo de vagas do curso: 30 Número mínimo de vagas do curso: 15",
-            "secao": "Número máximo de vagas do curso",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 30 vagas e mínimo de 15 vagas"
-          }
-        }
-      },
-      "suap": {
-        "id": 37,
-        "codigo": "JAC005",
-        "vagas": 30
       }
     },
     {
@@ -273,10 +157,10 @@
       "nome": "Técnico em Eletromecânica",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/jacarezinho/cursos/cursos-integrados/tecnico-em-eletromecanica-2/projeto-pedagogico-do-curso/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/jacarezinho/cursos/cursos-integrados/tecnico-em-eletromecanica-2/projeto-pedagogico-do-curso/",
       "suap": {
         "id": 265,
         "codigo": "JAC006",
@@ -286,24 +170,23 @@
         "url": "https://ifpr.edu.br/jacarezinho/wp-content/uploads/sites/16/2018/07/Projeto-Pedagogico-do-Curso-Tecnico-em-Eletromecanica.pdf",
         "markdown_path": "institucional/ifpr/ppcs/jacarezinho/tecnico-em-eletromecanica.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2017,
-            "trecho_fonte": "Jacarezinho 2017",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2017",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 20,
             "trecho_fonte": "Número máximo de vagas do curso: 20 Número mínimo de vagas do curso: 15",
-            "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 20 vagas e mínimo de 15 vagas"
+            "forma_oferta": "máximo de 20 vagas e mínimo de 15 vagas",
+            "secao": "Número máximo de vagas do curso"
           }
         }
       }
@@ -313,10 +196,10 @@
       "nome": "Técnico em Eletrotécnica",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/jacarezinho/cursos/cursos-integrados/tecnico-em-eletrotecnica/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/jacarezinho/cursos/cursos-integrados/tecnico-em-eletrotecnica/",
       "suap": {
         "id": 78,
         "codigo": "JAC002",
@@ -326,24 +209,62 @@
         "url": "https://ifpr.edu.br/jacarezinho/wp-content/uploads/sites/16/2018/06/Projeto-Pedagogico-de-Curso-Eletrotecnica.pdf",
         "markdown_path": "institucional/ifpr/ppcs/jacarezinho/tecnico-em-eletrotecnica.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2017,
-            "trecho_fonte": "Jacarezinho 2017",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2017",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 20,
             "trecho_fonte": "Número máximo de vagas do curso: 20 Número mínimo de vagas do curso: 15",
-            "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 20 vagas e mínimo de 15 vagas"
+            "forma_oferta": "máximo de 20 vagas e mínimo de 15 vagas",
+            "secao": "Número máximo de vagas do curso"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-informatica",
+      "nome": "Técnico em Informática",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/jacarezinho/cursos/cursos-integrados/tecnico-em-informatica-2/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "suap": {
+        "id": 80,
+        "codigo": "JAC003",
+        "vagas": 40
+      },
+      "ppc": {
+        "url": "https://ifpr.edu.br/jacarezinho/wp-content/uploads/sites/16/2018/11/PPC-Informatica-1.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/jacarezinho/tecnico-em-informatica.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2013,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2013",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 15",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 15 vagas",
+            "secao": "Número máximo de vagas do curso"
           }
         }
       }
@@ -353,10 +274,10 @@
       "nome": "Técnico em Mecânica",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/jacarezinho/cursos/cursos-integrados/tecnico-em-mecanica/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/jacarezinho/cursos/cursos-integrados/tecnico-em-mecanica/",
       "suap": {
         "id": 92,
         "codigo": "JAC004",
@@ -366,38 +287,100 @@
         "url": "https://ifpr.edu.br/jacarezinho/wp-content/uploads/sites/16/2018/06/Projeto-Pedagogico-do-Curso-Tecnico-em-Mecanica.pdf",
         "markdown_path": "institucional/ifpr/ppcs/jacarezinho/tecnico-em-mecanica.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2017,
-            "trecho_fonte": "Jacarezinho 2017",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2017",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 20,
             "trecho_fonte": "Número máximo de vagas do curso: 20 Número mínimo de vagas do curso: 15",
-            "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 20 vagas e mínimo de 15 vagas"
+            "forma_oferta": "máximo de 20 vagas e mínimo de 15 vagas",
+            "secao": "Número máximo de vagas do curso"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-teatro",
+      "nome": "Técnico em Teatro",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "url": "https://ifpr.edu.br/jacarezinho/cursos/cursos-subsequentes/tecnico-em-teatro/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "suap": {
+        "id": 37,
+        "codigo": "JAC005",
+        "vagas": 30
+      },
+      "ppc": {
+        "url": "https://ifpr.edu.br/jacarezinho/wp-content/uploads/sites/16/2019/11/PPC_Tecnico_em_Teatro-1.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/jacarezinho/tecnico-em-teatro.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2012,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2012",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 30,
+            "trecho_fonte": "Número máximo de vagas do curso: 30 Número mínimo de vagas do curso: 15",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 30 vagas e mínimo de 15 vagas",
+            "secao": "Número máximo de vagas do curso"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnologia-em-sistemas-para-internet",
+      "nome": "Tecnologia em Sistemas para Internet",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "url": "https://ifpr.edu.br/jacarezinho/cursos/graduacao/tecnologia-em-sistemas-para-internet/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://ifpr.edu.br/jacarezinho/wp-content/uploads/sites/16/2025/02/PPCSistemasparaInternet.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/jacarezinho/tecnologia-em-sistemas-para-internet.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2014,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2014",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Vagas Totais (anual): 40",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais",
+            "secao": "Vagas Totais (anual)"
           }
         }
       }
     }
-  ],
-  "curadoria": {
-    "status_cursos": "dados_parciais",
-    "verificado_em": "2026-05-11",
-    "fontes": [
-      "https://jacarezinho.ifpr.edu.br/",
-      "https://ifpr.edu.br/jacarezinho/",
-      "https://ifpr.edu.br/jacarezinho/cursos/cursos-integrados/",
-      "https://ifpr.edu.br/jacarezinho/cursos/graduacao/licenciatura-em-quimica/horario-das-aulas/",
-      "https://ifpr.edu.br/jacarezinho/cursos/graduacao/engenharia-de-controle-e-automacao/horario-eca/"
-    ]
-  }
+  ]
 }

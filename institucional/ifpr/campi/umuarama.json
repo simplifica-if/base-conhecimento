@@ -6,154 +6,49 @@
     "site": "https://ifpr.edu.br/umuarama/",
     "calendario_academico": "https://ifpr.edu.br/umuarama/academico/calendario-academico/"
   },
+  "curadoria": {
+    "status_cursos": "dados_parciais",
+    "verificado_em": "2026-05-11"
+  },
   "horario_aulas": {
+    "coletado_em": "2026-05-14T11:48:00-03:00",
+    "status_curadoria": "revisado",
     "url": "https://ifprumuarama.edupage.org/timetable/",
     "titulo_fonte": "Horário Escolar",
-    "coletado_em": "2026-05-14T11:48:09-03:00",
-    "tipo_fonte": "edupage",
-    "status_curadoria": "revisado",
-    "observacoes": "Sistema externo apontado pelo menu oficial do campus."
+    "tipo_fonte": "edupage"
   },
   "cursos": [
-    {
-      "id": "licenciatura-em-quimica",
-      "nome": "Licenciatura em Química",
-      "nivel": "superior",
-      "tipo_oferta": "licenciatura",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/umuarama/cursos/cursos-superiores/licenciatura-em-quimica/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/umuarama/wp-content/uploads/sites/26/2026/03/PPC_Lic._em_Quimica___APS.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/umuarama/licenciatura-em-quimica.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2018,
-            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO 29/2018 AJUSTE PARECER CONSEPE NºXX/ANO",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 10,
-            "trecho_fonte": "Vagas Totais (Anual) 6",
-            "secao": "Oferta",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "6 vagas anuais"
-          }
-        }
-      }
-    },
-    {
-      "id": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
-      "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
-      "nivel": "superior",
-      "tipo_oferta": "graduação tecnológica",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/umuarama/cursos/cursos-superiores/tecnologia-em-analise-e-desenvolvimento-de-sistemas/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/umuarama/wp-content/uploads/sites/26/2026/03/PPC_ADS_2023___APS.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/umuarama/tecnologia-em-analise-e-desenvolvimento-de-sistemas.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2017,
-            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO 42/2017 CONSUP/IFPR AJUSTE PARECER CONSEPE NºXX/ANO",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 40,
-            "trecho_fonte": "Vagas totais (anual) Mínimo: 20 vagas – Máximo: 40 vagas. 7",
-            "secao": "Vagas totais (anual)",
-            "status_curadoria": "sugerido",
-            "periodicidade": "anual",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
-          }
-        }
-      }
-    },
     {
       "id": "bacharelado-em-arquitetura-e-urbanismo",
       "nome": "Bacharelado em Arquitetura e Urbanismo",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
+      "url": "https://ifpr.edu.br/umuarama/cursos/cursos-superiores/arquitetura-e-urbanismo/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/umuarama/cursos/cursos-superiores/arquitetura-e-urbanismo/",
       "ppc": {
         "url": "https://ifpr.edu.br/umuarama/wp-content/uploads/sites/26/2026/03/PPC_Arq_Urb_2023___APS.pdf",
         "markdown_path": "institucional/ifpr/ppcs/umuarama/bacharelado-em-arquitetura-e-urbanismo.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2008,
-            "trecho_fonte": "O Instituto Federal do Paraná (IFPR) foi criado em dezembro de 2008, por meio da Lei n° 11.892, que transformou a Escola Técnica da Universidade Federal do Paraná (ET-UFPR) em Instituto Federal do Paraná. Ganharam o status de instituto os antigos CEFETS, escolas técnicas e agroté",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2008",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) Mínimo: 20 – Máximo: 40",
-            "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
             "periodicidade": "anual",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
-          }
-        }
-      }
-    },
-    {
-      "id": "tecnologia-em-gestao-do-agronegocio",
-      "nome": "Tecnologia em Gestão do Agronegócio",
-      "nivel": "superior",
-      "tipo_oferta": "graduação tecnológica",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/umuarama/cursos/cursos-superiores/tecnologo-em-gestao-do-agronegocio/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/umuarama/wp-content/uploads/sites/26/2026/03/PPC_GESTAO_AGRO_APS.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/umuarama/tecnologia-em-gestao-do-agronegocio.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2008,
-            "trecho_fonte": "O Instituto Federal do Paraná (IFPR) foi criado em dezembro de 2008, por meio da Lei 11.892, que transformou a Escola Técnica da Universidade Federal do Paraná (ET-UFPR) em Instituto Federal do Paraná. Ganharam o status de instituto os antigos CEFETS, escolas técnicas e agrotécni",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 40,
-            "trecho_fonte": "Vagas Totais (anual) Mínimo 20 - Máximo 40",
-            "secao": "Vagas Totais (anual)",
-            "status_curadoria": "sugerido",
-            "periodicidade": "anual",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Vagas totais (anual)"
           }
         }
       }
@@ -163,33 +58,66 @@
       "nome": "Licenciatura em Ciências Biológicas",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
+      "url": "https://ifpr.edu.br/umuarama/cursos/cursos-superiores/licenciatura-em-ciencias-biologicas/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/umuarama/cursos/cursos-superiores/licenciatura-em-ciencias-biologicas/",
       "ppc": {
         "url": "https://ifpr.edu.br/umuarama/wp-content/uploads/sites/26/2026/03/PPC_CBIO_APS.pdf",
         "markdown_path": "institucional/ifpr/ppcs/umuarama/licenciatura-em-ciencias-biologicas.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2008,
-            "trecho_fonte": "O Instituto Federal do Paraná (IFPR) foi criado em dezembro de 2008, por meio da Lei n° 11.892, que transformou a Escola Técnica da Universidade Federal do Paraná (ET-UFPR) em Instituto Federal do Paraná. Ganharam o status de instituto os antigos CEFETS, escolas técnicas e agroté",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2008",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas Totais (anual) Mínimo 20 - Máximo 40",
-            "secao": "Vagas Totais (anual)",
             "status_curadoria": "sugerido",
             "periodicidade": "anual",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Vagas Totais (anual)"
+          }
+        }
+      }
+    },
+    {
+      "id": "licenciatura-em-quimica",
+      "nome": "Licenciatura em Química",
+      "nivel": "superior",
+      "tipo_oferta": "licenciatura",
+      "url": "https://ifpr.edu.br/umuarama/cursos/cursos-superiores/licenciatura-em-quimica/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://ifpr.edu.br/umuarama/wp-content/uploads/sites/26/2026/03/PPC_Lic._em_Quimica___APS.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/umuarama/licenciatura-em-quimica.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2018,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2018",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 10,
+            "trecho_fonte": "Vagas Totais (Anual) 6",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "6 vagas anuais",
+            "secao": "Oferta"
           }
         }
       }
@@ -199,10 +127,10 @@
       "nome": "Técnico em Edificações Integrado ao Ensino Médio",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/umuarama/cursos/cursos-tecnicos/edificacoes-integrado/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/umuarama/cursos/cursos-tecnicos/edificacoes-integrado/",
       "suap": {
         "id": 42,
         "codigo": "UMU001",
@@ -212,26 +140,34 @@
         "url": "https://drive.google.com/file/d/1F3UIy62w60j3JixsuLyLwAYY7NvXEyTA/view?usp=drive_link",
         "markdown_path": "institucional/ifpr/ppcs/umuarama/tecnico-em-edificacoes-integrado-ao-ensino-medio.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2018,
-            "trecho_fonte": "UMUARAMA 2018",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2018",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 20 vagas",
-            "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Número máximo de vagas do curso"
           }
         }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23411.002791/2026-13",
+            "tipo": "ajuste",
+            "trecho_fonte": "Linha 62: Ajuste Curricular Técnico em Edificações"
+          }
+        ]
       }
     },
     {
@@ -239,10 +175,10 @@
       "nome": "Técnico em Informática Integrado ao Ensino Médio",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/umuarama/cursos/cursos-tecnicos/informatica-integrado/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/umuarama/cursos/cursos-tecnicos/informatica-integrado/",
       "suap": {
         "id": 58,
         "codigo": "UMU002",
@@ -252,26 +188,34 @@
         "url": "https://drive.google.com/file/d/1mg4GH7XmsItSmsU7CzrpENX3wpVblfWn/view?usp=drive_link",
         "markdown_path": "institucional/ifpr/ppcs/umuarama/tecnico-em-informatica-integrado-ao-ensino-medio.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2014,
-            "trecho_fonte": "UMUARAMA 2014",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2014",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 20 vagas",
-            "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Número máximo de vagas do curso"
           }
         }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23411.002979/2026-61",
+            "tipo": "ajuste",
+            "trecho_fonte": "Linha 63: Viabilidade de Solicitação de Aj Curricular \nLinha 64: Ajuste Curricular"
+          }
+        ]
       }
     },
     {
@@ -279,10 +223,10 @@
       "nome": "Técnico em Química Integrado ao Ensino Médio",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/umuarama/cursos/cursos-tecnicos/quimica-integrado/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/umuarama/cursos/cursos-tecnicos/quimica-integrado/",
       "suap": {
         "id": 57,
         "codigo": "UMU003",
@@ -292,36 +236,105 @@
         "url": "https://drive.google.com/file/d/1Tkq2ZXIcrXtW-Esq1BY_xHPciDf0uP_d/view?usp=drive_link",
         "markdown_path": "institucional/ifpr/ppcs/umuarama/tecnico-em-quimica-integrado-ao-ensino-medio.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2014,
-            "trecho_fonte": "UMUARAMA 2014",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2014",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 20 vagas",
-            "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Número máximo de vagas do curso"
+          }
+        }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23411.002858/2026-10",
+            "tipo": "ajuste",
+            "trecho_fonte": "Linha 61: Ajuste Curricular do Projeto Pedagógico de Curso (PPC)"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
+      "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "url": "https://ifpr.edu.br/umuarama/cursos/cursos-superiores/tecnologia-em-analise-e-desenvolvimento-de-sistemas/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://ifpr.edu.br/umuarama/wp-content/uploads/sites/26/2026/03/PPC_ADS_2023___APS.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/umuarama/tecnologia-em-analise-e-desenvolvimento-de-sistemas.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2017,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2017",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Vagas totais (anual) Mínimo: 20 vagas – Máximo: 40 vagas. 7",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Vagas totais (anual)"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnologia-em-gestao-do-agronegocio",
+      "nome": "Tecnologia em Gestão do Agronegócio",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "url": "https://ifpr.edu.br/umuarama/cursos/cursos-superiores/tecnologo-em-gestao-do-agronegocio/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://ifpr.edu.br/umuarama/wp-content/uploads/sites/26/2026/03/PPC_GESTAO_AGRO_APS.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/umuarama/tecnologia-em-gestao-do-agronegocio.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2008,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2008",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Vagas Totais (anual) Mínimo 20 - Máximo 40",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Vagas Totais (anual)"
           }
         }
       }
     }
-  ],
-  "curadoria": {
-    "status_cursos": "dados_parciais",
-    "verificado_em": "2026-05-11",
-    "fontes": [
-      "https://ifpr.edu.br/umuarama/",
-      "https://ifpr.edu.br/umuarama/cursos/cursos-tecnicos/",
-      "https://ifprumuarama.edupage.org/timetable/"
-    ]
-  }
+  ]
 }

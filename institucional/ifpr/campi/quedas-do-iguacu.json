@@ -6,10 +6,14 @@
     "site": "https://quedasdoiguacu.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/quedas-do-iguacu/academico/calendario/"
   },
+  "curadoria": {
+    "status_cursos": "dados_parciais",
+    "verificado_em": "2026-05-11"
+  },
   "horario_aulas": {
-    "titulo_fonte": "Páginas parciais de horário por curso",
-    "coletado_em": "2026-05-14T11:48:09-03:00",
+    "coletado_em": "2026-05-14T11:48:00-03:00",
     "status_curadoria": "parcial",
+    "titulo_fonte": "Páginas parciais de horário por curso",
     "observacoes": "Não foi localizada página agregadora atual de horário das aulas. Foram encontradas apenas páginas antigas ou parciais por curso, como horários RDE e páginas de cursos técnicos."
   },
   "cursos": [
@@ -18,39 +22,38 @@
       "nome": "Tecnico em Informatica",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/quedas-do-iguacu/medio-integrado-2/tecnico-em-informatica/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/quedas-do-iguacu/medio-integrado-2/tecnico-em-informatica/",
+      "suap": {
+        "id": 170,
+        "codigo": "QUED001",
+        "vagas": 40
+      },
       "ppc": {
         "url": "https://ifpr.edu.br/quedas-do-iguacu/wp-content/uploads/sites/24/2024/04/2_PPC-INFORMATICA_3-ANOS_VERSAO-APROVADA_AGOSTO-2018-2.pdf",
         "markdown_path": "institucional/ifpr/ppcs/quedas-do-iguacu/tecnico-em-informatica.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2018,
-            "trecho_fonte": "2018",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2018",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
-            "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Número máximo de vagas do curso"
           }
         }
-      },
-      "suap": {
-        "id": 170,
-        "codigo": "QUED001",
-        "vagas": 40
       }
     },
     {
@@ -58,50 +61,39 @@
       "nome": "Tecnico em Meio Ambiente",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/quedas-do-iguacu/medio-integrado-2/tecnico-em-meio-ambiente/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/quedas-do-iguacu/medio-integrado-2/tecnico-em-meio-ambiente/",
+      "suap": {
+        "id": 197,
+        "codigo": "QUED002",
+        "vagas": 40
+      },
       "ppc": {
         "url": "https://ifpr.edu.br/quedas-do-iguacu/wp-content/uploads/sites/24/2023/05/PPC_Meio_Ambiente.pdf",
         "markdown_path": "institucional/ifpr/ppcs/quedas-do-iguacu/tecnico-em-meio-ambiente.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2019,
-            "trecho_fonte": "CURITIBA 2019",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2019",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
-            "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Número máximo de vagas do curso"
           }
         }
-      },
-      "suap": {
-        "id": 197,
-        "codigo": "QUED002",
-        "vagas": 40
       }
     }
-  ],
-  "curadoria": {
-    "status_cursos": "dados_parciais",
-    "verificado_em": "2026-05-11",
-    "fontes": [
-      "https://ifpr.edu.br/quedas-do-iguacu/",
-      "https://ifpr.edu.br/quedas-do-iguacu/medio-integrado-2/tecnico-em-meio-ambiente/horario/",
-      "https://ifpr.edu.br/quedas-do-iguacu/medio-integrado-2/tecnico-em-informatica/horario-2018/",
-      "https://ifpr.edu.br/quedas-do-iguacu/medio-integrado-2/tecnico-em-informatica/5691-2/rde-2020/"
-    ]
-  }
+  ]
 }

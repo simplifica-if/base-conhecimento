@@ -32,6 +32,8 @@ Use conhecimento treinado apenas para contexto geral, explicações auxiliares o
 - Manifesto institucional: https://simplifica-if.github.io/base-conhecimento/institucional_manifest.json
 - Manifesto de catálogos: https://simplifica-if.github.io/base-conhecimento/catalogos_manifest.json
 
+Os metadados institucionais publicados em JSON são artefatos gerados a partir da base operacional no Notion. Para consulta pública e respostas de LLM, use os JSONs publicados por esta base; para curadoria operacional, edite o Notion e regenere os JSONs.
+
 ## Documentos institucionais de referência
 
 - Matriz orçamentária da Rede Federal: https://simplifica-if.github.io/base-conhecimento/institucional/ifpr/referencias/matriz-orcamentaria-rede-federal.md

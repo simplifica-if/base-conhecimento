@@ -6,88 +6,18 @@
     "site": "https://arapongas.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/arapongas/calendarios-academicos-administrativos/"
   },
+  "curadoria": {
+    "status_cursos": "dados_curados",
+    "verificado_em": "2026-05-11"
+  },
   "horario_aulas": {
+    "coletado_em": "2026-05-14T11:48:00-03:00",
+    "status_curadoria": "revisado",
     "url": "https://ifpr.edu.br/arapongas/academico/area-do-estudante/horario-de-aulas/",
     "titulo_fonte": "Horário de Aulas",
-    "coletado_em": "2026-05-14T11:48:09-03:00",
-    "tipo_fonte": "pagina_ifpr",
-    "status_curadoria": "revisado"
+    "tipo_fonte": "pagina_ifpr"
   },
   "cursos": [
-    {
-      "id": "tecnico-em-sistemas-de-energia-renovavel-integrado-ao-ensino-medio",
-      "nome": "Curso Técnico em Sistemas de Energia Renovável Integrado ao Ensino Médio",
-      "nivel": "médio",
-      "tipo_oferta": "técnico integrado",
-      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/curso-tecnico-integrado-ao-ensino-medio/tecnico-integrado-ao-ensino-medio-tecnico-em-sistemas-de-energia-renovavel/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/arapongas/wp-content/uploads/sites/2/2025/12/PPC_Tecnico_em_Sistemas_de_Energia_Renovavel___Arapongas-2.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/arapongas/tecnico-em-sistemas-de-energia-renovavel-integrado-ao-ensino-medio.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2025,
-            "trecho_fonte": "CAMPUS AVANÇADO ARAPONGAS 2025",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "revisado",
-            "revisado_em": "2026-05-11"
-          },
-          "vagas": {
-            "quantidade": 40,
-            "trecho_fonte": "Vagas totais: Mínimo: 20 vagas; Máximo: 40 vagas",
-            "secao": "1.1.14 Vagas totais",
-            "status_curadoria": "revisado",
-            "revisado_em": "2026-05-11",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
-          }
-        }
-      },
-      "suap": {
-        "id": 615,
-        "codigo": "AR002",
-        "vagas": 40
-      }
-    },
-    {
-      "id": "tecnologia-em-processos-gerenciais",
-      "nome": "Tecnologia em Processos Gerenciais",
-      "nivel": "superior",
-      "tipo_oferta": "graduação tecnológica",
-      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/graduacao-em-processos-gerenciais/tecnologia-em-processos-gerenciais/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/arapongas/wp-content/uploads/sites/2/2025/12/PPC_Graduacao_IFPR___PROCESSOS_GERENCIAIS_ARAPONGAS__1-1.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/arapongas/tecnologia-em-processos-gerenciais.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2025,
-            "trecho_fonte": "Arapongas 2025",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "revisado",
-            "revisado_em": "2026-05-11"
-          },
-          "vagas": {
-            "quantidade": 40,
-            "trecho_fonte": "Vagas totais (anual): 40 vagas",
-            "secao": "1.1.10 Vagas totais (anual)",
-            "status_curadoria": "revisado",
-            "revisado_em": "2026-05-11",
-            "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais"
-          }
-        }
-      }
-    },
     {
       "id": "especializacao-em-docencia-e-praticas-educativas",
       "nome": "Especialização em Docência e Práticas Educativas",
@@ -98,63 +28,112 @@
         "url": "https://ifpr.edu.br/arapongas/wp-content/uploads/sites/2/2023/10/PPC-Pos-em-Docencia-e-Praticas-educativas.pdf",
         "markdown_path": "institucional/ifpr/ppcs/arapongas/especializacao-em-docencia-e-praticas-educativas.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2023,
-            "trecho_fonte": "2023",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2023",
             "status_curadoria": "revisado",
             "revisado_em": "2026-05-11"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas ofertadas: a) Mínimo: 20 vagas (Resolução Consup/IFPR n.121/2023); b) Máximo: 40 vagas",
-            "secao": "2.3 Vagas ofertadas",
             "status_curadoria": "revisado",
-            "revisado_em": "2026-05-11",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "2.3 Vagas ofertadas",
+            "revisado_em": "2026-05-11"
           }
         }
       }
     },
     {
-      "id": "tecnico-em-melhoria-de-processos",
-      "nome": "Técnico em Melhoria de Processos",
+      "id": "gestao-de-competencias-para-exames-de-larga-escala",
+      "nome": "Gestão de Competências para Exames de Larga Escala (Cursinho)",
+      "nivel": "formação inicial e continuada",
+      "tipo_oferta": "FIC",
+      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/cursos-fic/gestao-de-competencias-para-exames-de-larga-escala/"
+    },
+    {
+      "id": "partiu-if",
+      "nome": "Partiu IF",
       "nivel": "médio",
-      "tipo_oferta": "técnico subsequente",
-      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/tecnico-subsequente/tecnico-em-melhoria-de-processos/",
-      "suap": {
-        "id": 1,
-        "codigo": "AR001",
-        "vagas": 40
-      },
+      "tipo_oferta": "programa institucional",
+      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/partiu-if/"
+    },
+    {
+      "id": "portugues-como-lingua-de-acolhimento-plac",
+      "nome": "Português como Língua de Acolhimento - PLAc",
+      "nivel": "formação inicial e continuada",
+      "tipo_oferta": "FIC",
+      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/cursos-fic/portugues-como-lingua-de-acolhimento-plac/"
+    },
+    {
+      "id": "programacao-com-enfase-em-analise-de-dados",
+      "nome": "Programação com ênfase em Análise de Dados",
+      "nivel": "formação inicial e continuada",
+      "tipo_oferta": "FIC",
+      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/cursos-fic/programacao-com-enfase-em-analise-de-dados/",
       "ppc": {
-        "url": "https://ifpr.edu.br/arapongas/wp-content/uploads/sites/2/2022/09/PPC___CURSO_TECNICO_EM_MELHORIA_DE_PROCESSOS___VERSAO_FINAL.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/arapongas/tecnico-em-melhoria-de-processos.md",
+        "url": "https://ifpr.edu.br/arapongas/wp-content/uploads/sites/2/2024/06/PPC_FIC_Programacao_com_enfase_em_AD.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/arapongas/programacao-com-enfase-em-analise-de-dados.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
-            "ano": 2021,
-            "trecho_fonte": "ARAPONGAS 2021",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
+            "ano": 2024,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2024",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-11"
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
-            "secao": "Número máximo de vagas do curso",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "trecho_fonte": "Vagas totais: 20 a 40 vagas",
+            "status_curadoria": "revisado",
+            "forma_oferta": "20 a 40 vagas",
+            "secao": "1.11 Vagas totais",
+            "revisado_em": "2026-05-11"
+          }
+        }
+      }
+    },
+    {
+      "id": "programacao-web",
+      "nome": "Programação Web",
+      "nivel": "formação inicial e continuada",
+      "tipo_oferta": "FIC",
+      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/cursos-fic/programacao-web/",
+      "ppc": {
+        "url": "https://ifpr.edu.br/arapongas/wp-content/uploads/sites/2/2025/03/PPC_FIC_Programacao_WEB.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/arapongas/programacao-web.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2025,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2025",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-11"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Vagas totais: 20 a 40 vagas",
+            "status_curadoria": "revisado",
+            "forma_oferta": "20 a 40 vagas",
+            "secao": "1.11 Vagas totais",
+            "revisado_em": "2026-05-11"
           }
         }
       }
@@ -181,108 +160,130 @@
       "url": "https://ifpr.edu.br/arapongas/nossos-cursos/ead/tecnico-em-meio-ambiente/"
     },
     {
-      "id": "partiu-if",
-      "nome": "Partiu IF",
+      "id": "tecnico-em-melhoria-de-processos",
+      "nome": "Técnico em Melhoria de Processos",
       "nivel": "médio",
-      "tipo_oferta": "programa institucional",
-      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/partiu-if/"
-    },
-    {
-      "id": "programacao-web",
-      "nome": "Programação Web",
-      "nivel": "formação inicial e continuada",
-      "tipo_oferta": "FIC",
-      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/cursos-fic/programacao-web/",
+      "tipo_oferta": "técnico subsequente",
+      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/tecnico-subsequente/tecnico-em-melhoria-de-processos/",
+      "suap": {
+        "id": 1,
+        "codigo": "AR001",
+        "vagas": 40
+      },
       "ppc": {
-        "url": "https://ifpr.edu.br/arapongas/wp-content/uploads/sites/2/2025/03/PPC_FIC_Programacao_WEB.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/arapongas/programacao-web.md",
+        "url": "https://ifpr.edu.br/arapongas/wp-content/uploads/sites/2/2022/09/PPC___CURSO_TECNICO_EM_MELHORIA_DE_PROCESSOS___VERSAO_FINAL.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/arapongas/tecnico-em-melhoria-de-processos.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2021,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2021",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Número máximo de vagas do curso"
+          }
+        }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23411.011730/2025-66",
+            "tipo": "suspensão",
+            "trecho_fonte": "Linha 3: Suspensão de curso por tempo indeterminado"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tecnico-em-sistemas-de-energia-renovavel-integrado-ao-ensino-medio",
+      "nome": "Técnico em Sistemas de Energia Renovável",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/curso-tecnico-integrado-ao-ensino-medio/tecnico-integrado-ao-ensino-medio-tecnico-em-sistemas-de-energia-renovavel/",
+      "suap": {
+        "id": 615,
+        "codigo": "AR002",
+        "vagas": 40
+      },
+      "ppc": {
+        "url": "https://ifpr.edu.br/arapongas/wp-content/uploads/sites/2/2025/12/PPC_Tecnico_em_Sistemas_de_Energia_Renovavel___Arapongas-2.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/arapongas/tecnico-em-sistemas-de-energia-renovavel-integrado-ao-ensino-medio.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2025,
-            "trecho_fonte": "Arapongas 2025",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2025",
             "status_curadoria": "revisado",
             "revisado_em": "2026-05-11"
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "Vagas totais: 20 a 40 vagas",
-            "secao": "1.11 Vagas totais",
+            "trecho_fonte": "Vagas totais: Mínimo: 20 vagas; Máximo: 40 vagas",
             "status_curadoria": "revisado",
-            "revisado_em": "2026-05-11",
-            "forma_oferta": "20 a 40 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "1.1.14 Vagas totais",
+            "revisado_em": "2026-05-11"
           }
         }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23411.012333/2025-10",
+            "tipo": "abertura",
+            "trecho_fonte": "Linha 2: PPC (curso novo)"
+          }
+        ]
       }
     },
     {
-      "id": "programacao-com-enfase-em-analise-de-dados",
-      "nome": "Programação com ênfase em Análise de Dados",
-      "nivel": "formação inicial e continuada",
-      "tipo_oferta": "FIC",
-      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/cursos-fic/programacao-com-enfase-em-analise-de-dados/",
+      "id": "tecnologia-em-processos-gerenciais",
+      "nome": "Tecnologia em Processos Gerenciais",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/graduacao-em-processos-gerenciais/tecnologia-em-processos-gerenciais/",
       "ppc": {
-        "url": "https://ifpr.edu.br/arapongas/wp-content/uploads/sites/2/2024/06/PPC_FIC_Programacao_com_enfase_em_AD.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/arapongas/programacao-com-enfase-em-analise-de-dados.md",
+        "url": "https://ifpr.edu.br/arapongas/wp-content/uploads/sites/2/2025/12/PPC_Graduacao_IFPR___PROCESSOS_GERENCIAIS_ARAPONGAS__1-1.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/arapongas/tecnologia-em-processos-gerenciais.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
-            "ano": 2024,
-            "trecho_fonte": "Arapongas 2024",
-            "secao": "Capa / folha inicial",
+            "ano": 2025,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2025",
             "status_curadoria": "revisado",
             "revisado_em": "2026-05-11"
           },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "Vagas totais: 20 a 40 vagas",
-            "secao": "1.11 Vagas totais",
+            "trecho_fonte": "Vagas totais (anual): 40 vagas",
             "status_curadoria": "revisado",
-            "revisado_em": "2026-05-11",
-            "forma_oferta": "20 a 40 vagas"
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais",
+            "secao": "1.1.10 Vagas totais (anual)",
+            "revisado_em": "2026-05-11"
           }
         }
       }
-    },
-    {
-      "id": "gestao-de-competencias-para-exames-de-larga-escala",
-      "nome": "Gestão de Competências para Exames de Larga Escala (Cursinho)",
-      "nivel": "formação inicial e continuada",
-      "tipo_oferta": "FIC",
-      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/cursos-fic/gestao-de-competencias-para-exames-de-larga-escala/"
-    },
-    {
-      "id": "portugues-como-lingua-de-acolhimento-plac",
-      "nome": "Português como Língua de Acolhimento - PLAc",
-      "nivel": "formação inicial e continuada",
-      "tipo_oferta": "FIC",
-      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/cursos-fic/portugues-como-lingua-de-acolhimento-plac/"
     }
-  ],
-  "curadoria": {
-    "status_cursos": "dados_curados",
-    "fontes": [
-      "https://ifpr.edu.br/arapongas/nossos-cursos/",
-      "https://ifpr.edu.br/arapongas/nossos-cursos/curso-tecnico-integrado-ao-ensino-medio/",
-      "https://ifpr.edu.br/arapongas/nossos-cursos/graduacao-em-processos-gerenciais/",
-      "https://ifpr.edu.br/arapongas/nossos-cursos/pos-graduacao/",
-      "https://ifpr.edu.br/arapongas/nossos-cursos/tecnico-subsequente/",
-      "https://ifpr.edu.br/arapongas/nossos-cursos/ead/",
-      "https://ifpr.edu.br/arapongas/nossos-cursos/partiu-if/",
-      "https://ifpr.edu.br/arapongas/nossos-cursos/cursos-fic/",
-      "https://ifpr.edu.br/arapongas/academico/area-do-estudante/horario-de-aulas/"
-    ],
-    "verificado_em": "2026-05-11"
-  }
+  ]
 }

@@ -6,226 +6,48 @@
     "site": "https://paranagua.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/paranagua/menu-do-aluno/calendario-academico-e-administrativo/"
   },
+  "curadoria": {
+    "status_cursos": "dados_parciais",
+    "verificado_em": "2026-05-11"
+  },
   "horario_aulas": {
+    "coletado_em": "2026-05-14T11:48:00-03:00",
+    "status_curadoria": "revisado",
     "url": "https://ifpr.edu.br/paranagua/menu-do-aluno/horarios-e-salas/",
     "titulo_fonte": "Horários e Salas",
-    "coletado_em": "2026-05-14T11:48:09-03:00",
-    "tipo_fonte": "pagina_ifpr",
-    "status_curadoria": "revisado"
+    "tipo_fonte": "pagina_ifpr"
   },
   "cursos": [
-    {
-      "id": "tecnico-em-producao-cultural",
-      "nome": "Técnico em Produção Cultural",
-      "nivel": "médio",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/paranagua/nossos-cursos/ensino-medio-integrado/tecnico-em-producao-cultural/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2023/04/PPC_2022_Producao_Cultural-1-1.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/paranagua/tecnico-em-producao-cultural.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2023,
-            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO Nº 120, DE 24 DE MARÇO DE 2023",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 40,
-            "trecho_fonte": "Vagas totais 40 (quarenta) vagas",
-            "secao": "Vagas totais",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "40 vagas"
-          }
-        }
-      },
-      "suap": {
-        "id": 217,
-        "codigo": "PGUA004",
-        "vagas": 40
-      }
-    },
-    {
-      "id": "tecnologia-em-gestao-ambiental",
-      "nome": "Tecnologia em Gestão Ambiental",
-      "nivel": "superior",
-      "tipo_oferta": "graduação tecnológica",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/paranagua/nossos-cursos/ensino-superior/tecnologia-em-gestao-ambiental/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2025/02/PPC_TGA_2025.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/paranagua/tecnologia-em-gestao-ambiental.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2017,
-            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO 39/2017 AJUSTE PARECER CONSEPE NºXX/ANO",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 40,
-            "trecho_fonte": "Vagas totais (anual) 40 vagas",
-            "secao": "Vagas totais (anual)",
-            "status_curadoria": "sugerido",
-            "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais"
-          }
-        }
-      }
-    },
-    {
-      "id": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
-      "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
-      "nivel": "superior",
-      "tipo_oferta": "graduação tecnológica",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/paranagua/nossos-cursos/ensino-superior/tecnologia-em-analise-de-sistemas/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2025/02/PPC_TADS_2025.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/paranagua/tecnologia-em-analise-e-desenvolvimento-de-sistemas.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2014,
-            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO 31/2014",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          }
-        }
-      }
-    },
     {
       "id": "licenciatura-em-ciencias-sociais",
       "nome": "Licenciatura em Ciências Sociais",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
+      "url": "https://ifpr.edu.br/paranagua/nossos-cursos/ensino-superior/licenciatura-em-ciencias-sociais2/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/paranagua/nossos-cursos/ensino-superior/licenciatura-em-ciencias-sociais2/",
       "ppc": {
         "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2025/04/PPC_Ciencias_Sociais_Pgua_2011.pdf",
         "markdown_path": "institucional/ifpr/ppcs/paranagua/licenciatura-em-ciencias-sociais.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2008,
-            "trecho_fonte": "O Instituto Federal de Educação, Ciência e Tecnologia do Paraná (IFPR), nasceu do antigo Setor Escola Técnica da Universidade Federal do Paraná, no final de 2008, e está construindo em seu projeto político pedagógico uma experiência diferenciada cujo objetivo está em atender as d",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2008",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "NÚMERO DE VAGAS: DURAÇÃO DE 4 ANOS. MÍNIMO MÁXIMO 10 40 3. ESTRUTURA E FUNCIONAMENTO 3.1 Justificativa da oferta do Curso 3.1.1 Os Inst",
-            "secao": "NÚMERO DE VAGAS",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 10 vagas"
-          }
-        }
-      }
-    },
-    {
-      "id": "tecnico-em-meio-ambiente",
-      "nome": "Técnico em Meio Ambiente",
-      "nivel": "médio",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/paranagua/nossos-cursos/ensino-medio-integrado/tecnico-em-meio-ambiente/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2024/04/PPC-EMI-Meio-Ambiente.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/paranagua/tecnico-em-meio-ambiente.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2023,
-            "trecho_fonte": "Colegiado de Gestão Pedagógica de Campus (Portaria de Pessoal 154/2023)",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 40,
-            "periodicidade": "anual",
-            "trecho_fonte": "Quarenta vagas anuais.",
-            "secao": "1.1.14 Vagas totais",
-            "status_curadoria": "revisado",
-            "revisado_em": "2026-05-19",
-            "forma_oferta": "40 vagas anuais"
-          }
-        }
-      },
-      "suap": {
-        "id": 65,
-        "codigo": "PGUA003",
-        "vagas": 40
-      }
-    },
-    {
-      "id": "tecnologia-em-manutencao-industrial",
-      "nome": "Tecnologia em Manutenção Industrial",
-      "nivel": "superior",
-      "tipo_oferta": "graduação tecnológica",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/paranagua/nossos-cursos/ensino-superior/manutencaoindustrial/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2013/12/PPC-Tecnologia-em-Manutencao-Industrial.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/paranagua/tecnologia-em-manutencao-industrial.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2011,
-            "trecho_fonte": "PROCESSO NÚMERO: 23399.000618/2011-18",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 40,
-            "trecho_fonte": "A TOTAL: 3369 horas NÚMERO DE VAGAS: MÍNIMO MÁXIMO 20 40 Observar a carga horária mínima e máxima da área profissional do curso, conform",
-            "secao": "NÚMERO DE VAGAS",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 10 vagas",
+            "secao": "NÚMERO DE VAGAS"
           }
         }
       }
@@ -235,39 +57,38 @@
       "nome": "Técnico em Informática",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/paranagua/nossos-cursos/ensino-medio-integrado/tecnico-em-manutencao-e-suporte-em-informatica/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/paranagua/nossos-cursos/ensino-medio-integrado/tecnico-em-manutencao-e-suporte-em-informatica/",
+      "suap": {
+        "id": 63,
+        "codigo": "PGUA001",
+        "vagas": 40
+      },
       "ppc": {
         "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2024/04/PPC-EMI-Informatica.pdf",
         "markdown_path": "institucional/ifpr/ppcs/paranagua/tecnico-em-informatica.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2024,
-            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO 45/2010 AJUSTE PARECER CONSEPE Nº 06/2024",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2024",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais Número máximo de vagas do curso: 40 (quarenta). Número mínimo de vagas do curso: 20 (vinte)",
-            "secao": "Vagas totais",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Vagas totais"
           }
         }
-      },
-      "suap": {
-        "id": 63,
-        "codigo": "PGUA001",
-        "vagas": 40
       }
     },
     {
@@ -275,48 +96,216 @@
       "nome": "Técnico em Mecânica",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/paranagua/nossos-cursos/ensino-medio-integrado/mecanica-e-eletromecanica/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/paranagua/nossos-cursos/ensino-medio-integrado/mecanica-e-eletromecanica/",
+      "suap": {
+        "id": 64,
+        "codigo": "PGUA002",
+        "vagas": 40
+      },
       "ppc": {
         "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2025/04/PPC_TEC-MECANICA_PARANAGUA_2013_-_2024.pdf",
         "markdown_path": "institucional/ifpr/ppcs/paranagua/tecnico-em-mecanica.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2011,
-            "trecho_fonte": "Autorizado pela Resolução n° 78/2011 do Conselho Superior - IFPR",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2011",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 (quarenta). Número mínimo de vagas do curso: 20 (vinte)",
-            "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Número máximo de vagas do curso"
           }
         }
-      },
+      }
+    },
+    {
+      "id": "tecnico-em-meio-ambiente",
+      "nome": "Técnico em Meio Ambiente",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/paranagua/nossos-cursos/ensino-medio-integrado/tecnico-em-meio-ambiente/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
       "suap": {
-        "id": 64,
-        "codigo": "PGUA002",
+        "id": 65,
+        "codigo": "PGUA003",
         "vagas": 40
+      },
+      "ppc": {
+        "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2024/04/PPC-EMI-Meio-Ambiente.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/paranagua/tecnico-em-meio-ambiente.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2023,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2023",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-19"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Quarenta vagas anuais.",
+            "status_curadoria": "revisado",
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais",
+            "secao": "1.1.14 Vagas totais",
+            "revisado_em": "2026-05-19"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-producao-cultural",
+      "nome": "Técnico em Produção Cultural",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/paranagua/nossos-cursos/ensino-medio-integrado/tecnico-em-producao-cultural/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "suap": {
+        "id": 217,
+        "codigo": "PGUA004",
+        "vagas": 40
+      },
+      "ppc": {
+        "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2023/04/PPC_2022_Producao_Cultural-1-1.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/paranagua/tecnico-em-producao-cultural.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2023,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2023",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Vagas totais 40 (quarenta) vagas",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "40 vagas",
+            "secao": "Vagas totais"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
+      "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "url": "https://ifpr.edu.br/paranagua/nossos-cursos/ensino-superior/tecnologia-em-analise-de-sistemas/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2025/02/PPC_TADS_2025.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/paranagua/tecnologia-em-analise-e-desenvolvimento-de-sistemas.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2014,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2014",
+            "status_curadoria": "sugerido"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnologia-em-gestao-ambiental",
+      "nome": "Tecnologia em Gestão Ambiental",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "url": "https://ifpr.edu.br/paranagua/nossos-cursos/ensino-superior/tecnologia-em-gestao-ambiental/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2025/02/PPC_TGA_2025.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/paranagua/tecnologia-em-gestao-ambiental.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2017,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2017",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Vagas totais (anual) 40 vagas",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais",
+            "secao": "Vagas totais (anual)"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnologia-em-manutencao-industrial",
+      "nome": "Tecnologia em Manutenção Industrial",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "url": "https://ifpr.edu.br/paranagua/nossos-cursos/ensino-superior/manutencaoindustrial/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2013/12/PPC-Tecnologia-em-Manutencao-Industrial.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/paranagua/tecnologia-em-manutencao-industrial.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2011,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2011",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "A TOTAL: 3369 horas NÚMERO DE VAGAS: MÍNIMO MÁXIMO 20 40 Observar a carga horária mínima e máxima da área profissional do curso, conform",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "NÚMERO DE VAGAS"
+          }
+        }
       }
     }
-  ],
-  "curadoria": {
-    "status_cursos": "dados_parciais",
-    "verificado_em": "2026-05-11",
-    "fontes": [
-      "https://paranagua.ifpr.edu.br/",
-      "https://ifpr.edu.br/paranagua/menu-do-aluno/horarios-e-salas/"
-    ]
-  }
+  ]
 }

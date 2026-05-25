@@ -6,82 +6,49 @@
     "site": "https://capanema.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/capanema/?page_id=644"
   },
+  "curadoria": {
+    "status_cursos": "dados_parciais",
+    "verificado_em": "2026-05-11"
+  },
   "horario_aulas": {
+    "coletado_em": "2026-05-14T11:48:00-03:00",
+    "status_curadoria": "revisado",
     "url": "https://ifpr.edu.br/capanema/horarios-de-aula/",
     "titulo_fonte": "Horários de Aula",
-    "coletado_em": "2026-05-14T11:48:09-03:00",
-    "tipo_fonte": "pagina_ifpr",
-    "status_curadoria": "revisado"
+    "tipo_fonte": "pagina_ifpr"
   },
   "cursos": [
-    {
-      "id": "tecnologia-em-sistemas-para-internet",
-      "nome": "Tecnologia em Sistemas para Internet",
-      "nivel": "superior",
-      "tipo_oferta": "graduação tecnológica",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/capanema/nossos-cursos/graduacao/tecnologia-em-sistemas-para-internet/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/capanema/wp-content/uploads/sites/7/2026/01/PPC-SISTEMAS-PARA-INTERNET-CAPANEMA-2026.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/capanema/tecnologia-em-sistemas-para-internet.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2025,
-            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO CONSUP Nº 269/2025 AJUSTE PARECER CONSEPE NºXX/ANO",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 40,
-            "trecho_fonte": "Vagas totais (anual) 40 vagas",
-            "secao": "Vagas totais (anual)",
-            "status_curadoria": "sugerido",
-            "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais"
-          }
-        }
-      }
-    },
     {
       "id": "licenciatura-em-matematica",
       "nome": "Licenciatura em Matemática",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
+      "url": "https://ifpr.edu.br/capanema/nossos-cursos/graduacao/licenciatura-em-matematica/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/capanema/nossos-cursos/graduacao/licenciatura-em-matematica/",
       "ppc": {
         "url": "https://ifpr.edu.br/capanema/wp-content/uploads/sites/7/2023/07/PPC-2023.pdf",
         "markdown_path": "institucional/ifpr/ppcs/capanema/licenciatura-em-matematica.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2023,
-            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO Nº 28 de 29 de junho de 2018 AJUSTE PARECER CONSEPE Nº 2369914/2023",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2023",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) 40 vagas",
-            "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
             "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais"
+            "forma_oferta": "40 vagas anuais",
+            "secao": "Vagas totais (anual)"
           }
         }
       }
@@ -91,10 +58,10 @@
       "nome": "Técnico em Agroecologia",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/capanema/nossos-cursos/tecnico-integrado-ao-ensino-medio/tecnico-em-agroecologia/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/capanema/nossos-cursos/tecnico-integrado-ao-ensino-medio/tecnico-em-agroecologia/",
       "suap": {
         "id": 68,
         "codigo": "CAP003",
@@ -104,24 +71,23 @@
         "url": "https://ifpr.edu.br/capanema/wp-content/uploads/sites/7/2018/02/PPC-Versao-Aprovada-CONSUP.pdf",
         "markdown_path": "institucional/ifpr/ppcs/capanema/tecnico-em-agroecologia.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2017,
-            "trecho_fonte": "Autorizado pela Resolução nº 33, de 14 de julho de 2017, do Conselho Superior - IFPR",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2017",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso : 40 Número mínimo de vagas do curso: 20",
-            "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Número máximo de vagas do curso"
           }
         }
       }
@@ -131,10 +97,10 @@
       "nome": "Técnico em Cooperativismo",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/capanema/nossos-cursos/tecnico-integrado-ao-ensino-medio/tecnico-em-cooperativismo/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/capanema/nossos-cursos/tecnico-integrado-ao-ensino-medio/tecnico-em-cooperativismo/",
       "suap": {
         "id": 66,
         "codigo": "CAP001",
@@ -144,24 +110,23 @@
         "url": "https://ifpr.edu.br/capanema/wp-content/uploads/sites/7/2018/04/PPC-Cooperativismo-2018-Capanema.pdf",
         "markdown_path": "institucional/ifpr/ppcs/capanema/tecnico-em-cooperativismo.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2017,
-            "trecho_fonte": "CAMPUS CAPANEMA CAPANEMA 2017",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2017",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso : 40 Número mínimo de vagas do curso: 20",
-            "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Número máximo de vagas do curso"
           }
         }
       }
@@ -171,10 +136,10 @@
       "nome": "Técnico em Informática",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/capanema/nossos-cursos/tecnico-integrado-ao-ensino-medio/tecnico-integrado-informatica/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/capanema/nossos-cursos/tecnico-integrado-ao-ensino-medio/tecnico-integrado-informatica/",
       "suap": {
         "id": 67,
         "codigo": "CAP002",
@@ -184,35 +149,61 @@
         "url": "https://ifpr.edu.br/capanema/wp-content/uploads/sites/7/2020/09/Projeto-Pedagogico-do-Curso-Tecnico-em-Informatica-versao-final-ingresso-2021-3-1.pdf",
         "markdown_path": "institucional/ifpr/ppcs/capanema/tecnico-em-informatica.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2020,
-            "trecho_fonte": "CAPANEMA - PR 2020",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2020",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
-            "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Número máximo de vagas do curso"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnologia-em-sistemas-para-internet",
+      "nome": "Tecnologia em Sistemas para Internet",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "url": "https://ifpr.edu.br/capanema/nossos-cursos/graduacao/tecnologia-em-sistemas-para-internet/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://ifpr.edu.br/capanema/wp-content/uploads/sites/7/2026/01/PPC-SISTEMAS-PARA-INTERNET-CAPANEMA-2026.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/capanema/tecnologia-em-sistemas-para-internet.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2025,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2025",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Vagas totais (anual) 40 vagas",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais",
+            "secao": "Vagas totais (anual)"
           }
         }
       }
     }
-  ],
-  "curadoria": {
-    "status_cursos": "dados_parciais",
-    "verificado_em": "2026-05-11",
-    "fontes": [
-      "https://capanema.ifpr.edu.br/",
-      "https://ifpr.edu.br/capanema/horarios-de-aula/"
-    ]
-  }
+  ]
 }

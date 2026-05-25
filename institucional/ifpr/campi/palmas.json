@@ -6,381 +6,49 @@
     "site": "https://palmas.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/palmas/about/menu-academico/calendario-academico/"
   },
+  "curadoria": {
+    "status_cursos": "dados_parciais",
+    "verificado_em": "2026-05-11"
+  },
   "horario_aulas": {
+    "coletado_em": "2026-05-14T11:48:00-03:00",
+    "status_curadoria": "revisado",
     "url": "https://ifpr.edu.br/palmas/horarios-das-aulas/",
     "titulo_fonte": "Horários das Aulas 2026",
-    "coletado_em": "2026-05-14T11:48:09-03:00",
     "periodo_referencia": "2026",
-    "tipo_fonte": "pagina_ifpr",
-    "status_curadoria": "revisado"
+    "tipo_fonte": "pagina_ifpr"
   },
   "cursos": [
-    {
-      "id": "tecnico-em-informatica-para-internet",
-      "nome": "Técnico em Informática para Internet",
-      "nivel": "médio",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/curso-tecnico-presencial/tecnico-em-informatica-para-internet/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/12/PPC-Tecnico-em-Informatica-para-Internet-2025-1.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/palmas/tecnico-em-informatica-para-internet.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2023,
-            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO CONSUP/IFPR N° 157 de 12/12/2023",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 40,
-            "trecho_fonte": "Vagas totais (anual) 40",
-            "secao": "Vagas totais (anual)",
-            "status_curadoria": "sugerido",
-            "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais"
-          }
-        }
-      },
-      "suap": {
-        "id": 256,
-        "codigo": "PAL003",
-        "vagas": 40
-      }
-    },
-    {
-      "id": "tecnico-em-alimentos",
-      "nome": "Técnico em Alimentos",
-      "nivel": "médio",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/curso-tecnico-presencial/tecnico-em-alimentos/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/12/PPC_Alimentos_2025.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/palmas/tecnico-em-alimentos.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2022,
-            "trecho_fonte": "Palmas/PR 2022",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 40,
-            "trecho_fonte": "Vagas totais (anual) 40",
-            "secao": "Vagas totais (anual)",
-            "status_curadoria": "sugerido",
-            "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais"
-          }
-        }
-      },
-      "suap": {
-        "id": 47,
-        "codigo": "PAL001",
-        "vagas": 40
-      }
-    },
-    {
-      "id": "tecnico-em-servicos-juridicos",
-      "nome": "Técnico em Serviços Jurídicos",
-      "nivel": "médio",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/curso-tecnico-presencial/tecnico-em-servicos-juridicos/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/12/PPC_Servicos_Juridicos_Trimestral-2025.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/palmas/tecnico-em-servicos-juridicos.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2022,
-            "trecho_fonte": "Palmas/PR 2022",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 40,
-            "trecho_fonte": "Vagas totais (anual) 40 (número mínimo vagas 20)",
-            "secao": "Vagas totais (anual)",
-            "status_curadoria": "sugerido",
-            "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais"
-          }
-        }
-      },
-      "suap": {
-        "id": 60,
-        "codigo": "PAL002",
-        "vagas": 40
-      }
-    },
-    {
-      "id": "enfermagem",
-      "nome": "Enfermagem",
-      "nivel": "superior",
-      "tipo_oferta": "bacharelado",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/about-nossos-cursos-cursos-de-graduacao-regulamentos/enfermagem-2-2/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2023/06/PPC_Enfermagem_2023-1.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/palmas/enfermagem.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2010,
-            "trecho_fonte": "Autorizado pela Resolução 13/2010",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 30,
-            "trecho_fonte": "Vagas totais (anuais): 30 12",
-            "secao": "Vagas totais (anuais)",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "30 vagas anuais"
-          }
-        }
-      }
-    },
     {
       "id": "agronomia",
       "nome": "Agronomia",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
+      "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/about-nossos-cursos-cursos-de-graduacao-regulamentos/engenharia-agronomica/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/about-nossos-cursos-cursos-de-graduacao-regulamentos/engenharia-agronomica/",
       "ppc": {
         "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/03/PPC-Agronomia-Atualizado-2025.pdf",
         "markdown_path": "institucional/ifpr/ppcs/palmas/agronomia.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2008,
-            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO CONSUN 02/2008 DE 10/07/2008",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2008",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anuais): 40",
-            "secao": "Vagas totais (anuais)",
             "status_curadoria": "sugerido",
-            "forma_oferta": "40 vagas anuais"
-          }
-        }
-      }
-    },
-    {
-      "id": "sistemas-de-informacao",
-      "nome": "Sistemas de Informação",
-      "nivel": "superior",
-      "tipo_oferta": "bacharelado",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/about-nossos-cursos-cursos-de-graduacao-regulamentos/sistemas-de-informacao/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/03/PPC-Sistemas-de-Informacao-Atualizado-2025.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/palmas/sistemas-de-informacao.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2008,
-            "trecho_fonte": "O Instituto Federal do Paraná (IFPR) teve origem a partir da Lei n.º 11.892 de 29 de dezembro de 2008, que instituiu a Rede Federal de Educação Profissional, Científica e Tecnológica, criando a Rede Federal de Educação, Ciência e Tecnologia. O Art. 2º desta lei caracteriza os Ins",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 40,
-            "trecho_fonte": "Vagas totais (anuais): 40",
-            "secao": "Vagas totais (anuais)",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "40 vagas anuais"
-          }
-        }
-      }
-    },
-    {
-      "id": "licenciatura-em-quimica",
-      "nome": "Licenciatura em Química",
-      "nivel": "superior",
-      "tipo_oferta": "licenciatura",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/about-nossos-cursos-cursos-de-graduacao-regulamentos/quimica-9/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/10/PPC_GrauacaoQuimica_2025_2.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/palmas/licenciatura-em-quimica.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2023,
-            "trecho_fonte": "PALMAS 2023",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 40,
-            "trecho_fonte": "Vagas totais (anual): 40 vagas",
-            "secao": "Vagas totais (anual)",
-            "status_curadoria": "sugerido",
-            "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais"
-          }
-        }
-      }
-    },
-    {
-      "id": "pedagogia",
-      "nome": "Pedagogia",
-      "nivel": "superior",
-      "tipo_oferta": "licenciatura",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/about-nossos-cursos-cursos-de-graduacao-regulamentos/pedagogia-8/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/03/PPC-Pedagogia-Atualizado-2025.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/palmas/pedagogia.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2022,
-            "trecho_fonte": "PALMAS – 2022",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 40,
-            "trecho_fonte": "Quantidade de Vagas: 40 vagas anuais",
-            "secao": "Quantidade de Vagas",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "40 vagas anuais"
-          }
-        }
-      }
-    },
-    {
-      "id": "farmacia",
-      "nome": "Farmácia",
-      "nivel": "superior",
-      "tipo_oferta": "bacharelado",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/about-nossos-cursos-cursos-de-graduacao-regulamentos/farmacia-12/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/03/PPC-Farmacia-Atualizado-2025.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/palmas/farmacia.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2010,
-            "trecho_fonte": "Autorizado pela Portaria nº 636 de 15 de março de 2004 (MEC), publicado no Diário Oficial da União em 16 de março de 2004, e pela Resolução nº 15, de 22 de abril de 2010 (CONSUP/IFPR)",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 40,
-            "trecho_fonte": "Vagas totais (anuais): 40",
-            "secao": "Vagas totais (anuais)",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "40 vagas anuais"
-          }
-        }
-      }
-    },
-    {
-      "id": "licenciatura-em-educacao-fisica",
-      "nome": "Licenciatura em Educação Física",
-      "nivel": "superior",
-      "tipo_oferta": "licenciatura",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/about-nossos-cursos-cursos-de-graduacao-regulamentos/educacao-fisica/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/03/PPC-Educacao-Fisica-Atualizado-2025.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/palmas/licenciatura-em-educacao-fisica.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2021,
-            "trecho_fonte": "Autorizado pelo Decreto 89.186, de 16/12/1983, DO 19/12/1983. Reconhecido pela Portaria 137/87, de 10/03/1987, DO de 11/03/1987.Renovação de Reconhecimento pela Portaria 3.273, de 27/11/02, DO 231, de 29/11/2002. Renovação de Reconhecimento pela Portaria 1.278, de 17/05/2004, DO",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 50,
-            "trecho_fonte": "Vagas totais (anual) 50 Vagas",
-            "secao": "Vagas totais (anual)",
-            "status_curadoria": "sugerido",
-            "periodicidade": "anual",
-            "forma_oferta": "50 vagas anuais"
+            "forma_oferta": "40 vagas anuais",
+            "secao": "Vagas totais (anuais)"
           }
         }
       }
@@ -390,43 +58,360 @@
       "nome": "Bacharelado em Administração",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
+      "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/about-nossos-cursos-cursos-de-graduacao-regulamentos/administracao-6/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/about-nossos-cursos-cursos-de-graduacao-regulamentos/administracao-6/",
       "ppc": {
         "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2023/06/PPC_Administracao_2023.pdf",
         "markdown_path": "institucional/ifpr/ppcs/palmas/bacharelado-em-administracao.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2011,
-            "trecho_fonte": "AUTORIZADO PELO DECRETO Nº 84.784/1980 TRANSFERIDO AO IFPR PELA RESOLUÇÃO 09/2010 RETIFICADA PELA RESOLUÇÃO 144/2011",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2011",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anuais): 40",
-            "secao": "Vagas totais (anuais)",
             "status_curadoria": "sugerido",
-            "forma_oferta": "40 vagas anuais"
+            "forma_oferta": "40 vagas anuais",
+            "secao": "Vagas totais (anuais)"
+          }
+        }
+      }
+    },
+    {
+      "id": "enfermagem",
+      "nome": "Enfermagem",
+      "nivel": "superior",
+      "tipo_oferta": "bacharelado",
+      "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/about-nossos-cursos-cursos-de-graduacao-regulamentos/enfermagem-2-2/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2023/06/PPC_Enfermagem_2023-1.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/palmas/enfermagem.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2010,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2010",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 30,
+            "trecho_fonte": "Vagas totais (anuais): 30 12",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "30 vagas anuais",
+            "secao": "Vagas totais (anuais)"
+          }
+        }
+      }
+    },
+    {
+      "id": "farmacia",
+      "nome": "Farmácia",
+      "nivel": "superior",
+      "tipo_oferta": "bacharelado",
+      "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/about-nossos-cursos-cursos-de-graduacao-regulamentos/farmacia-12/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/03/PPC-Farmacia-Atualizado-2025.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/palmas/farmacia.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2010,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2010",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Vagas totais (anuais): 40",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "40 vagas anuais",
+            "secao": "Vagas totais (anuais)"
+          }
+        }
+      }
+    },
+    {
+      "id": "licenciatura-em-educacao-fisica",
+      "nome": "Licenciatura em Educação Física",
+      "nivel": "superior",
+      "tipo_oferta": "licenciatura",
+      "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/about-nossos-cursos-cursos-de-graduacao-regulamentos/educacao-fisica/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/03/PPC-Educacao-Fisica-Atualizado-2025.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/palmas/licenciatura-em-educacao-fisica.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2021,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2021",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 50,
+            "trecho_fonte": "Vagas totais (anual) 50 Vagas",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual",
+            "forma_oferta": "50 vagas anuais",
+            "secao": "Vagas totais (anual)"
+          }
+        }
+      }
+    },
+    {
+      "id": "licenciatura-em-quimica",
+      "nome": "Licenciatura em Química",
+      "nivel": "superior",
+      "tipo_oferta": "licenciatura",
+      "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/about-nossos-cursos-cursos-de-graduacao-regulamentos/quimica-9/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/10/PPC_GrauacaoQuimica_2025_2.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/palmas/licenciatura-em-quimica.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2023,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2023",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Vagas totais (anual): 40 vagas",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais",
+            "secao": "Vagas totais (anual)"
+          }
+        }
+      }
+    },
+    {
+      "id": "pedagogia",
+      "nome": "Pedagogia",
+      "nivel": "superior",
+      "tipo_oferta": "licenciatura",
+      "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/about-nossos-cursos-cursos-de-graduacao-regulamentos/pedagogia-8/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/03/PPC-Pedagogia-Atualizado-2025.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/palmas/pedagogia.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2022,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2022",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Quantidade de Vagas: 40 vagas anuais",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "40 vagas anuais",
+            "secao": "Quantidade de Vagas"
+          }
+        }
+      }
+    },
+    {
+      "id": "sistemas-de-informacao",
+      "nome": "Sistemas de Informação",
+      "nivel": "superior",
+      "tipo_oferta": "bacharelado",
+      "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/about-nossos-cursos-cursos-de-graduacao-regulamentos/sistemas-de-informacao/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/03/PPC-Sistemas-de-Informacao-Atualizado-2025.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/palmas/sistemas-de-informacao.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2008,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2008",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Vagas totais (anuais): 40",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "40 vagas anuais",
+            "secao": "Vagas totais (anuais)"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-alimentos",
+      "nome": "Técnico em Alimentos",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/curso-tecnico-presencial/tecnico-em-alimentos/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "suap": {
+        "id": 47,
+        "codigo": "PAL001",
+        "vagas": 40
+      },
+      "ppc": {
+        "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/12/PPC_Alimentos_2025.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/palmas/tecnico-em-alimentos.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2022,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2022",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Vagas totais (anual) 40",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais",
+            "secao": "Vagas totais (anual)"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-informatica-para-internet",
+      "nome": "Técnico em Informática para Internet",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/curso-tecnico-presencial/tecnico-em-informatica-para-internet/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "suap": {
+        "id": 256,
+        "codigo": "PAL003",
+        "vagas": 40
+      },
+      "ppc": {
+        "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/12/PPC-Tecnico-em-Informatica-para-Internet-2025-1.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/palmas/tecnico-em-informatica-para-internet.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2023,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2023",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Vagas totais (anual) 40",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais",
+            "secao": "Vagas totais (anual)"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-servicos-juridicos",
+      "nome": "Técnico em Serviços Jurídicos",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/curso-tecnico-presencial/tecnico-em-servicos-juridicos/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "suap": {
+        "id": 60,
+        "codigo": "PAL002",
+        "vagas": 40
+      },
+      "ppc": {
+        "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/12/PPC_Servicos_Juridicos_Trimestral-2025.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/palmas/tecnico-em-servicos-juridicos.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2022,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2022",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Vagas totais (anual) 40 (número mínimo vagas 20)",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais",
+            "secao": "Vagas totais (anual)"
           }
         }
       }
     }
-  ],
-  "curadoria": {
-    "status_cursos": "dados_parciais",
-    "verificado_em": "2026-05-11",
-    "fontes": [
-      "https://palmas.ifpr.edu.br/",
-      "https://ifpr.edu.br/palmas/horarios-das-aulas/"
-    ]
-  }
+  ]
 }

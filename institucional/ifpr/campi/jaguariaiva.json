@@ -6,52 +6,89 @@
     "site": "https://jaguariaiva.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/jaguariaiva/academico/calendario-academico/"
   },
+  "curadoria": {
+    "status_cursos": "dados_parciais",
+    "verificado_em": "2026-05-11"
+  },
   "horario_aulas": {
+    "coletado_em": "2026-05-14T11:48:00-03:00",
+    "status_curadoria": "revisado",
     "url": "https://ifpr.edu.br/jaguariaiva/academico/aulas/",
     "titulo_fonte": "Horário de Aulas",
-    "coletado_em": "2026-05-14T11:48:09-03:00",
-    "tipo_fonte": "pagina_ifpr",
-    "status_curadoria": "revisado"
+    "tipo_fonte": "pagina_ifpr"
   },
   "cursos": [
+    {
+      "id": "especializacao-em-educacao-e-tecnologia",
+      "nome": "Especialização em Educação e Tecnologia",
+      "nivel": "pós-graduação",
+      "tipo_oferta": "especialização",
+      "url": "https://ifpr.edu.br/jaguariaiva/pos-graduacao/curso-de-pos-graduacao/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://ifpr.edu.br/jaguariaiva/wp-content/uploads/sites/17/2023/06/PPC.pos.2023.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/jaguariaiva/especializacao-em-educacao-e-tecnologia.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2016,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2016",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 30,
+            "trecho_fonte": "Número de vagas ofertadas: 30 vagas",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "30 vagas",
+            "secao": "vagas ofertadas"
+          }
+        }
+      }
+    },
     {
       "id": "tecnico-em-alimentos-integrado-ao-ensino-medio",
       "nome": "Técnico em Alimentos Integrado ao Ensino Médio",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/jaguariaiva/integrados-ao-ensino-medio/curso-tecnico-em-alimentos/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/jaguariaiva/integrados-ao-ensino-medio/curso-tecnico-em-alimentos/",
+      "suap": {
+        "id": 79,
+        "codigo": "JAG001",
+        "vagas": 40
+      },
       "ppc": {
         "url": "https://ifpr.edu.br/jaguariaiva/wp-content/uploads/sites/17/2023/03/PPC_Alimentos.2024.pdf",
         "markdown_path": "institucional/ifpr/ppcs/jaguariaiva/tecnico-em-alimentos-integrado-ao-ensino-medio.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2018,
-            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO RESOLUÇÃO Nº 19 29/06/2018 IFPR/CONSUP AJUSTE PARECER CONSEPE Nº XX/ANO",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2018",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais Mínimo de 25 (vinte e cinco) e máximo de 40 (quarenta) vagas anuais",
-            "secao": "Vagas totais",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 25 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 25 vagas",
+            "secao": "Vagas totais"
           }
         }
-      },
-      "suap": {
-        "id": 79,
-        "codigo": "JAG001",
-        "vagas": 40
       }
     },
     {
@@ -59,72 +96,36 @@
       "nome": "Técnico em Biotecnologia Integrado ao Ensino Médio",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/jaguariaiva/integrados-ao-ensino-medio/curso-tecnico/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/jaguariaiva/integrados-ao-ensino-medio/curso-tecnico/",
+      "suap": {
+        "id": 215,
+        "codigo": "JAG002",
+        "vagas": 40
+      },
       "ppc": {
         "url": "https://ifpr.edu.br/jaguariaiva/wp-content/uploads/sites/17/2023/10/Projeto_Pedagogico_de_Cursos_Tecnicos_do_IFPR_formulario_BIOTECNOLOGIA.docx.pdf",
         "markdown_path": "institucional/ifpr/ppcs/jaguariaiva/tecnico-em-biotecnologia-integrado-ao-ensino-medio.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2014,
-            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO 42/2014 IFPR/CONSUP AJUSTE PARECER CONSEPE Nº XX/ANO",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2014",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais 40 (quarenta) vagas anuais, sendo: mínimo de 25 e máximo de 40 vagas",
-            "secao": "Vagas totais",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 25 vagas"
-          }
-        }
-      },
-      "suap": {
-        "id": 215,
-        "codigo": "JAG002",
-        "vagas": 40
-      }
-    },
-    {
-      "id": "especializacao-em-educacao-e-tecnologia",
-      "nome": "Especialização em Educação e Tecnologia",
-      "nivel": "pós-graduação",
-      "tipo_oferta": "especialização",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/jaguariaiva/pos-graduacao/curso-de-pos-graduacao/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/jaguariaiva/wp-content/uploads/sites/17/2023/06/PPC.pos.2023.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/jaguariaiva/especializacao-em-educacao-e-tecnologia.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2016,
-            "trecho_fonte": "Hoje, no Campus Jaguariaíva, há uma gama multidisciplinar de docentes que atuam nas mais diversas áreas do conhecimento. Assim, para suprir uma demanda regional de capacitação, este corpo docente se apresenta preparado para proporcionar um curso de qualidade e que alcança a reali",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 30,
-            "trecho_fonte": "Número de vagas ofertadas: 30 vagas",
-            "secao": "vagas ofertadas",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "30 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 25 vagas",
+            "secao": "Vagas totais"
           }
         }
       }
@@ -134,44 +135,35 @@
       "nome": "Tecnologo em Gestao da Qualidade",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",
+      "url": "https://ifpr.edu.br/jaguariaiva/superiores/tecnologo-em-gestao-da-qualidade/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/jaguariaiva/superiores/tecnologo-em-gestao-da-qualidade/",
       "ppc": {
         "url": "https://ifpr.edu.br/jaguariaiva/wp-content/uploads/sites/17/2024/09/PPC_Tecnologo-em-Gestao-da-Qualidade_IFPR_2023.pdf",
         "markdown_path": "institucional/ifpr/ppcs/jaguariaiva/tecnologo-em-gestao-da-qualidade.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2018,
-            "trecho_fonte": "AUTORIZADO PELA Resolução CONSUP 32, de 29 de junho de 2018 AJUSTE PARECER CONSEPE Nº XXXXX",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2018",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual): 40 vagas",
-            "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
             "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais"
+            "forma_oferta": "40 vagas anuais",
+            "secao": "Vagas totais (anual)"
           }
         }
       }
     }
-  ],
-  "curadoria": {
-    "status_cursos": "dados_parciais",
-    "verificado_em": "2026-05-11",
-    "fontes": [
-      "https://ifpr.edu.br/jaguariaiva/",
-      "https://ifpr.edu.br/jaguariaiva/academico/aulas/"
-    ]
-  }
+  ]
 }

@@ -6,12 +6,16 @@
     "site": "https://ifpr.edu.br/uniao-da-vitoria/",
     "calendario_academico": "https://ifpr.edu.br/uniao-da-vitoria/menu-academico/calendario-academico-2/calendarios-oficiais/"
   },
+  "curadoria": {
+    "status_cursos": "dados_parciais",
+    "verificado_em": "2026-05-11"
+  },
   "horario_aulas": {
+    "coletado_em": "2026-05-14T11:48:00-03:00",
+    "status_curadoria": "revisado",
     "url": "https://ifpr.edu.br/uniao-da-vitoria/menu-academico/horario-das-aulas/",
     "titulo_fonte": "Horário das aulas",
-    "coletado_em": "2026-05-14T11:48:09-03:00",
-    "tipo_fonte": "pagina_ifpr",
-    "status_curadoria": "revisado"
+    "tipo_fonte": "pagina_ifpr"
   },
   "cursos": [
     {
@@ -19,69 +23,32 @@
       "nome": "Bacharelado em Agronomia",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
+      "url": "https://ifpr.edu.br/uniao-da-vitoria/curso-superior/bacharelado-em-agronomia/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/uniao-da-vitoria/curso-superior/bacharelado-em-agronomia/",
       "ppc": {
         "url": "https://ifpr.edu.br/uniao-da-vitoria/wp-content/uploads/sites/27/2025/03/PPC_AGRONOMIA.pdf",
         "markdown_path": "institucional/ifpr/ppcs/uniao-da-vitoria/bacharelado-em-agronomia.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2019,
-            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO CONSUP Nº 22, DE 13 DE JUNHO DE 2019",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2019",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) 40 vagas",
-            "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
             "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais"
-          }
-        }
-      }
-    },
-    {
-      "id": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
-      "nome": "Tecnologia em Analise e Desenvolvimento de Sistemas",
-      "nivel": "superior",
-      "tipo_oferta": "graduação tecnológica",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/uniao-da-vitoria/curso-superior/tecnologia-em-analise-e-desenvolvimento-de-sistemas/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/uniao-da-vitoria/wp-content/uploads/sites/27/2025/03/ppc_tads_2025.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/uniao-da-vitoria/tecnologia-em-analise-e-desenvolvimento-de-sistemas.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2022,
-            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO Nº 26 DE 29 DE JUNHO DE 2018 AJUSTE PARECER CONSEPE Nº 2051662/2022",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 40,
-            "trecho_fonte": "Vagas totais (anual) 40",
-            "secao": "Vagas totais (anual)",
-            "status_curadoria": "sugerido",
-            "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais"
+            "forma_oferta": "40 vagas anuais",
+            "secao": "Vagas totais (anual)"
           }
         }
       }
@@ -91,67 +58,31 @@
       "nome": "Especialização em Educação, Ciência e Tecnologia",
       "nivel": "pós-graduação",
       "tipo_oferta": "especialização",
+      "url": "https://ifpr.edu.br/uniao-da-vitoria/especializacao/pos-graduacao-lato-sensu-em-educacao-ciencia-e-tecnologia/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/uniao-da-vitoria/especializacao/pos-graduacao-lato-sensu-em-educacao-ciencia-e-tecnologia/",
       "ppc": {
         "url": "https://ifpr.edu.br/uniao-da-vitoria/wp-content/uploads/sites/27/2025/06/PPC_ESPECIALIZACAO__REVISADO_APOS_CONSEP-1.pdf",
         "markdown_path": "institucional/ifpr/ppcs/uniao-da-vitoria/especializacao-em-educacao-ciencia-e-tecnologia.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2023,
-            "trecho_fonte": "MINISTÉRIO DA EDUCAÇÃO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ PRÓ-REITORIA DE EXTENSÃO, PESQUISA, PÓS-GRADUAÇÃO E INOVAÇÃO DIRETORIA DE PÓS-GRADUAÇÃO RESOLUÇÃO CONSUP/IFPR N.121/2023 – CONSUP/IFPR",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2023",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas ofertadas a) Mínimo: 20 vagas (Resolução Consup/IFPR n.121/2023) b) Máximo: 40 vagas",
-            "secao": "Vagas ofertadas",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
-          }
-        }
-      }
-    },
-    {
-      "id": "tecnico-em-manutencao-e-suporte-em-informatica-proeja",
-      "nome": "Técnico em Manutenção e Suporte em Informática PROEJA",
-      "nivel": "médio",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/uniao-da-vitoria/proeja/tecnico-em-manutencao-e-suporte-em-informatica-na-modalidade-proeja/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/uniao-da-vitoria/wp-content/uploads/sites/27/2018/10/PPC-PROEJA-ULTIMA-VERSAO.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/uniao-da-vitoria/tecnico-em-manutencao-e-suporte-em-informatica-proeja.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2014,
-            "trecho_fonte": "Autorizado pela Resolução n° 55, de 16 de dezembro de 2014, do Conselho Superior - IFPR",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 40,
-            "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
-            "secao": "Número máximo de vagas do curso",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Vagas ofertadas"
           }
         }
       }
@@ -161,39 +92,72 @@
       "nome": "Técnico em Informática Integrado ao Ensino Médio",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/uniao-da-vitoria/tecnico-integrado/tecnico-em-informatica-integrado-ao-ensino-medio-duracao-3-anos/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/uniao-da-vitoria/tecnico-integrado/tecnico-em-informatica-integrado-ao-ensino-medio-duracao-3-anos/",
+      "suap": {
+        "id": 41,
+        "codigo": "UVIT001",
+        "vagas": 50
+      },
       "ppc": {
         "url": "https://ifpr.edu.br/uniao-da-vitoria/wp-content/uploads/sites/27/2026/02/ppc-ti-atualizado.pdf",
         "markdown_path": "institucional/ifpr/ppcs/uniao-da-vitoria/tecnico-em-informatica-integrado-ao-ensino-medio.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2014,
-            "trecho_fonte": "PROJETO PEDAGÓGICO DE CURSO CURSO TÉCNICO EM INFORMÁTICA FORMA DE OFERTA: Integrado AUTORIZADO PELA RESOLUÇÃO 53, de 16 de dezembro de 2014, do Conselho Superior – IFPR",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2014",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais Número mínimo de vagas do curso: 20. Número máximo de vagas do curso: 40. 1 Para melhor compreensão vide SILVA, Fabiane Aparecida de Souza Soares da. Cu",
-            "secao": "Número mínimo de vagas do curso",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Número mínimo de vagas do curso"
           }
         }
-      },
-      "suap": {
-        "id": 41,
-        "codigo": "UVIT001",
-        "vagas": 50
+      }
+    },
+    {
+      "id": "tecnico-em-manutencao-e-suporte-em-informatica-proeja",
+      "nome": "Técnico em Manutenção e Suporte em Informática PROEJA",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/uniao-da-vitoria/proeja/tecnico-em-manutencao-e-suporte-em-informatica-na-modalidade-proeja/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://ifpr.edu.br/uniao-da-vitoria/wp-content/uploads/sites/27/2018/10/PPC-PROEJA-ULTIMA-VERSAO.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/uniao-da-vitoria/tecnico-em-manutencao-e-suporte-em-informatica-proeja.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2014,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2014",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Número máximo de vagas do curso"
+          }
+        }
       }
     },
     {
@@ -201,48 +165,74 @@
       "nome": "Técnico em Meio Ambiente Integrado ao Ensino Médio",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/uniao-da-vitoria/tecnico-integrado/tecnico-em-meio-ambiente-integrado-ao-ensino-medio-duracao-3-anos/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/uniao-da-vitoria/tecnico-integrado/tecnico-em-meio-ambiente-integrado-ao-ensino-medio-duracao-3-anos/",
+      "suap": {
+        "id": 40,
+        "codigo": "UVIT002",
+        "vagas": 40
+      },
       "ppc": {
         "url": "https://ifpr.edu.br/uniao-da-vitoria/wp-content/uploads/sites/27/2023/07/MA-Projeto-Pedagogico-com-parecer.docx.pdf",
         "markdown_path": "institucional/ifpr/ppcs/uniao-da-vitoria/tecnico-em-meio-ambiente-integrado-ao-ensino-medio.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2023,
-            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO Nº 18 DE 29 DE JUNHO DE 2018 PARECER CONSEPE - 20 / 2023",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2023",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
-            "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Número máximo de vagas do curso"
           }
         }
-      },
-      "suap": {
-        "id": 40,
-        "codigo": "UVIT002",
-        "vagas": 40
+      }
+    },
+    {
+      "id": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
+      "nome": "Tecnologia em Analise e Desenvolvimento de Sistemas",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "url": "https://ifpr.edu.br/uniao-da-vitoria/curso-superior/tecnologia-em-analise-e-desenvolvimento-de-sistemas/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://ifpr.edu.br/uniao-da-vitoria/wp-content/uploads/sites/27/2025/03/ppc_tads_2025.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/uniao-da-vitoria/tecnologia-em-analise-e-desenvolvimento-de-sistemas.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2022,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2022",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Vagas totais (anual) 40",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais",
+            "secao": "Vagas totais (anual)"
+          }
+        }
       }
     }
-  ],
-  "curadoria": {
-    "status_cursos": "dados_parciais",
-    "verificado_em": "2026-05-11",
-    "fontes": [
-      "https://ifpr.edu.br/uniao-da-vitoria/",
-      "https://ifpr.edu.br/uniao-da-vitoria/menu-academico/horario-das-aulas/"
-    ]
-  }
+  ]
 }

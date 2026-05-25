@@ -1,0 +1,60 @@
+{
+  "parent_page_id": "367f5b131dbd803eb664f38a3ce8d8f9",
+  "databases": {
+    "campi": {
+      "id": "284de7e6-3945-4ed6-8d7f-0a5dbce878f5",
+      "data_source_id": "265f7ffb-00a2-4e8f-99d2-f2e6d48f12f8",
+      "title": "Campi"
+    },
+    "cursos": {
+      "id": "1773d414-8c18-4b1a-b862-ea1aed991b6e",
+      "data_source_id": "ab7b6a7d-2ff5-460b-abc8-e5087b22cdd3",
+      "title": "Cursos"
+    },
+    "documentos": {
+      "id": "16723d94-76b3-4d7b-96e9-eb80db37b726",
+      "data_source_id": "5bd3fa13-c7d7-45a4-aedf-9a3af4a7adb2",
+      "title": "Documentos de Curso"
+    },
+    "lifecycle": {
+      "id": "9f13718a-9524-4feb-bc79-b13b32cf0bbd",
+      "data_source_id": "9686928b-c284-4526-8534-f6477f39f6ae",
+      "title": "Lifecycle de Cursos"
+    },
+    "processos_sei": {
+      "id": "40436bea-72f7-4e8d-b845-5ce8054beef1",
+      "data_source_id": "d89c4952-740b-485a-85b1-ba9c5310f003",
+      "title": "Processos SEI"
+    },
+    "tarefas": {
+      "id": "27112efb-ef37-4343-b6e8-45156597e684",
+      "data_source_id": "a734f7c6-aa30-4f78-a7a8-272ce7d929f7",
+      "title": "Tarefas"
+    },
+    "processos_seletivos": {
+      "id": "42e12c46-5b58-4558-b7e1-c1b26b929ba7",
+      "data_source_id": "eeefe89c-5dac-4679-a760-1217c72bcf39",
+      "title": "Processos Seletivos"
+    },
+    "editais_ingresso": {
+      "id": "e08eb796-955c-469d-b2dd-e6daf68363cd",
+      "data_source_id": "81d69507-b90a-495f-a548-6842c1106c1b",
+      "title": "Editais de Ingresso"
+    },
+    "ofertas_ingresso": {
+      "id": "8a62dfd8-f618-4e4a-bb84-d93c27ca1e96",
+      "data_source_id": "890a2ce1-1165-41e9-8f4d-b001f44e7b9d",
+      "title": "Ofertas de Ingresso"
+    },
+    "suap_cursos": {
+      "id": "0197c81b-4235-4d27-a7b9-caadf2759cce",
+      "data_source_id": "9e560c2a-2e4b-4ebf-a572-c262531d40fe",
+      "title": "SUAP Cursos"
+    },
+    "horarios_aula": {
+      "id": "2e104211-25bb-43dc-aa8c-6c80266cdb09",
+      "data_source_id": "1aa0b1f9-dde1-460e-889a-ede3e7d44253",
+      "title": "Horários de Aula"
+    }
+  }
+}

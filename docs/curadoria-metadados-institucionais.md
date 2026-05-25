@@ -1,6 +1,33 @@
 # Curadoria de metadados institucionais
 
-Este documento registra práticas para manter metadados institucionais do IFPR em JSON, com foco em consumo por agentes IA.
+Este documento registra práticas para manter metadados institucionais do IFPR, com foco em consumo por agentes IA.
+
+## Fonte operacional
+
+O Notion é a fonte operacional de verdade para campi, cursos, documentos de curso, SUAP Cursos, horários de aula, lifecycle de cursos, processos SEI, processos seletivos, editais e ofertas de ingresso.
+
+Os arquivos JSON em `institucional/ifpr/campi/` e `institucional/ifpr/processos-seletivos/` são artefatos públicos gerados a partir do Notion. Não edite esses JSONs manualmente para curadoria operacional.
+
+Fluxo normal de manutenção:
+
+1. Faça a curadoria nas bases Notion.
+2. Exporte os JSONs públicos:
+
+```bash
+python3 scripts/notion_exportar_base_publica.py
+```
+
+3. Regenere os índices de PPCs quando houver mudança em cursos, documentos de curso ou caminhos de PPC:
+
+```bash
+python3 scripts/gerar_indice_ppcs.py
+```
+
+4. Valide a base:
+
+```bash
+python3 scripts/validar_base.py
+```
 
 ## Organização de documentos da base
 
@@ -34,7 +61,7 @@ Aprendizado a partir do Campus Arapongas:
 
 ## Horário das aulas nos sites dos campi
 
-Use o campo opcional `horario_aulas` para registrar a fonte principal de consulta aos horários de aula do campus. Essa informação costuma mudar semestralmente; por isso, registre sempre `horario_aulas.coletado_em` com data, hora e fuso da consulta.
+Use a base Notion `Horários de Aula` para registrar a fonte principal de consulta aos horários de aula do campus. Essa informação costuma mudar semestralmente; por isso, registre sempre `Coletado em` com data, hora e fuso da consulta.
 
 1. Use `horario_aulas.url` para a página, planilha ou sistema principal de horários do campus.
 2. Use `horario_aulas.titulo_fonte` com o título observado no menu, no HTML da página, no `h1` ou no documento externo.
@@ -58,7 +85,7 @@ Procedimento eficiente para agentes IA:
 
 ## Metadados do SUAP
 
-Use o campo opcional `cursos[].suap` para registrar metadados administrativos vindos do sistema acadêmico SUAP.
+Use a base Notion `SUAP Cursos` para registrar metadados administrativos vindos do sistema acadêmico SUAP.
 
 1. Registre o código do curso no sistema em `cursos[].suap.codigo`.
 2. Registre o ID interno do curso no sistema em `cursos[].suap.id`.
@@ -70,7 +97,7 @@ Para relatórios exportados do SUAP que usam a coluna `DIRETORIA`, use o mapeame
 
 ## Processos SEI dos cursos
 
-Use o campo opcional `cursos[].sei.processos` para registrar processos administrativos SEI associados ao histórico do curso, como abertura, ajuste, atualização, suspensão, reversão de suspensão ou extinção.
+Use as bases Notion `Lifecycle de Cursos` e `Processos SEI` para registrar processos administrativos associados ao histórico do curso, como abertura, ajuste, atualização, suspensão, reversão de suspensão ou extinção.
 
 1. Registre processos SEI no nível do curso, não dentro de `ppc`, porque o PPC é apenas uma das informações documentais do curso.
 2. Use `sei.processos[]` como lista mesmo quando houver apenas um processo, pois o curso pode acumular processos administrativos ao longo do tempo.
@@ -102,7 +129,7 @@ Exemplo:
 
 ## Processos seletivos
 
-Use a coleção `institucional/ifpr/processos-seletivos/` para registrar vagas efetivamente ofertadas em editais de ingresso. Cada arquivo representa um ano de ingresso e pode conter múltiplos editais e ofertas.
+Use as bases Notion `Processos Seletivos`, `Editais de Ingresso` e `Ofertas de Ingresso` para registrar vagas efetivamente ofertadas em editais de ingresso. Os arquivos em `institucional/ifpr/processos-seletivos/` são gerados para publicação.
 
 1. Não registre vagas de processo seletivo dentro do JSON do campus.
 2. `cursos[].ppc.metadados.vagas` representa vagas previstas no PPC.

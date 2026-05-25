@@ -11,23 +11,23 @@
     {
       "id": "edital-integrados-2026",
       "titulo": "Edital do Processo Seletivo IFPR 2026 - Cursos Técnicos Integrados",
+      "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/editais/",
       "ano": 2025,
-      "tipo": "técnico integrado",
-      "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/editais/"
+      "tipo": "técnico integrado"
     },
     {
       "id": "edital-subsequentes-curitiba-assis-2026",
       "titulo": "Edital do Processo Seletivo IFPR 2026 - Cursos Técnicos Subsequentes de Curitiba e Assis Chateaubriand",
+      "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/inscricoes/",
       "ano": 2025,
-      "tipo": "técnico subsequente",
-      "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/inscricoes/"
+      "tipo": "técnico subsequente"
     },
     {
       "id": "edital-subsequentes-demais-campi-2026",
       "titulo": "Edital do Processo Seletivo IFPR 2026 - Cursos Técnicos Subsequentes dos demais campi",
+      "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/inscricoes/",
       "ano": 2025,
-      "tipo": "técnico subsequente",
-      "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/inscricoes/"
+      "tipo": "técnico subsequente"
     }
   ],
   "ofertas": [
@@ -36,1869 +36,1973 @@
       "campus_id": "arapongas",
       "curso_nome": "Técnico em Sistemas de Energias Renováveis",
       "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Vespertino",
       "vagas": {
         "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Vespertino; duração 4 anos",
         "trecho_fonte": "Arapongas; Técnico em Sistemas de Energias Renováveis; Turmas: 1; Turno: Vespertino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Vespertino; duração 4 anos"
       },
       "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      }
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "modalidade": "presencial",
+      "turno": "Vespertino"
     },
     {
       "id": "assis-chateaubriand-tecnico-em-agropecuaria-diurno-manha-3-tardes-por-semana-1",
       "campus_id": "assis-chateaubriand",
       "curso_nome": "Técnico em Agropecuária",
       "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno (Manhã + 3 tardes por semana)¹",
       "vagas": {
         "quantidade": 80,
-        "forma_oferta": "80 vagas; 2 turma(s); turno Diurno (Manhã + 3 tardes por semana)¹; duração 3 anos",
         "trecho_fonte": "Assis Chateaubriand; Técnico em Agropecuária; Turmas: 2; Turno: Diurno (Manhã + 3 tardes por semana)¹; Vagas: 80; Duração: 3 anos",
-        "status_curadoria": "sugerido"
+        "status_curadoria": "sugerido",
+        "forma_oferta": "80 vagas; 2 turma(s); turno Diurno (Manhã + 3 tardes por semana)¹; duração 3 anos"
       },
       "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-agropecuaria-integrado-ao-ensino-medio"
+      "curso_id": "tecnico-em-agropecuaria-integrado-ao-ensino-medio",
+      "modalidade": "presencial",
+      "turno": "Diurno (Manhã + 3 tardes por semana)¹"
     },
     {
       "id": "assis-chateaubriand-tecnico-em-comercio-diurno-manha-2-tardes-por-semana-2",
       "campus_id": "assis-chateaubriand",
       "curso_nome": "Técnico em Comércio",
       "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno (Manhã + 2 tardes por semana)²",
       "vagas": {
         "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (Manhã + 2 tardes por semana)²; duração 3 anos",
         "trecho_fonte": "Assis Chateaubriand; Técnico em Comércio; Turmas: 1; Turno: Diurno (Manhã + 2 tardes por semana)²; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido"
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (Manhã + 2 tardes por semana)²; duração 3 anos"
       },
       "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-comercio"
-    },
-    {
-      "id": "assis-chateaubriand-tecnico-em-informatica-para-internet-diurno-manha-2-tardes-por-semana-1",
-      "campus_id": "assis-chateaubriand",
-      "curso_nome": "Técnico em Informática para Internet",
-      "tipo_oferta": "técnico integrado",
+      "curso_id": "tecnico-em-comercio",
       "modalidade": "presencial",
-      "turno": "Diurno (manhã + 2 tardes por semana)¹",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã + 2 tardes por semana)¹; duração 3 anos",
-        "trecho_fonte": "Assis Chateaubriand; Técnico em Informática para Internet; Turmas: 1; Turno: Diurno (manhã + 2 tardes por semana)¹; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-informatica-para-internet-integrado-ao-ensino-medio"
-    },
-    {
-      "id": "assis-chateaubriand-tecnico-em-mecatronica-diurno-manha-2-tardes-por-semana-1",
-      "campus_id": "assis-chateaubriand",
-      "curso_nome": "Técnico em Mecatrônica",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno (manhã + 2 tardes por semana)¹",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã + 2 tardes por semana)¹; duração 3 anos",
-        "trecho_fonte": "Assis Chateaubriand; Técnico em Mecatrônica; Turmas: 1; Turno: Diurno (manhã + 2 tardes por semana)¹; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-mecatronica-integrado-ao-ensino-medio"
-    },
-    {
-      "id": "astorga-tecnico-em-informatica-matutino",
-      "campus_id": "astorga",
-      "curso_nome": "Técnico em Informática",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos",
-        "trecho_fonte": "Astorga; Técnico em Informática; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "curso-tecnico-de-informatica-integrado-ao-ensino-medio"
-    },
-    {
-      "id": "barracao-tecnico-em-administracao-matutino",
-      "campus_id": "barracao",
-      "curso_nome": "Técnico em Administração",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos",
-        "trecho_fonte": "Barracão; Técnico em Administração; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-administracao"
-    },
-    {
-      "id": "barracao-tecnico-em-informatica-matutino",
-      "campus_id": "barracao",
-      "curso_nome": "Técnico em Informática",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos",
-        "trecho_fonte": "Barracão; Técnico em Informática; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-informatica"
-    },
-    {
-      "id": "campo-largo-tecnico-em-administracao-matutino",
-      "campus_id": "campo-largo",
-      "curso_nome": "Técnico em Administração",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos",
-        "trecho_fonte": "Campo Largo; Técnico em Administração; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "administracao"
-    },
-    {
-      "id": "campo-largo-tecnico-em-agroecologia-vespertino",
-      "campus_id": "campo-largo",
-      "curso_nome": "Técnico em Agroecologia",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Vespertino",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Vespertino; duração 4 anos",
-        "trecho_fonte": "Campo Largo; Técnico em Agroecologia; Turmas: 1; Turno: Vespertino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "agroecologia"
-    },
-    {
-      "id": "campo-largo-tecnico-em-automacao-industrial-vespertino",
-      "campus_id": "campo-largo",
-      "curso_nome": "Técnico em Automação Industrial",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Vespertino",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Vespertino; duração 4 anos",
-        "trecho_fonte": "Campo Largo; Técnico em Automação Industrial; Turmas: 1; Turno: Vespertino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "automacao-industrial"
-    },
-    {
-      "id": "campo-largo-tecnico-em-mecanica-matutino",
-      "campus_id": "campo-largo",
-      "curso_nome": "Técnico em Mecânica",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos",
-        "trecho_fonte": "Campo Largo; Técnico em Mecânica; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "mecanica"
-    },
-    {
-      "id": "capanema-tecnico-em-agroecologia-diurno-manha-e-tarde-1",
-      "campus_id": "capanema",
-      "curso_nome": "Técnico em Agroecologia",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno (manhã e tarde)¹",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã e tarde)¹; duração 3 anos",
-        "trecho_fonte": "Capanema; Técnico em Agroecologia; Turmas: 1; Turno: Diurno (manhã e tarde)¹; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-agroecologia"
-    },
-    {
-      "id": "capanema-tecnico-em-cooperativismo-matutino",
-      "campus_id": "capanema",
-      "curso_nome": "Técnico em Cooperativismo",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos",
-        "trecho_fonte": "Capanema; Técnico em Cooperativismo; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-cooperativismo"
-    },
-    {
-      "id": "capanema-tecnico-em-informatica-matutino",
-      "campus_id": "capanema",
-      "curso_nome": "Técnico em Informática",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos",
-        "trecho_fonte": "Capanema; Técnico em Informática; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-informatica"
-    },
-    {
-      "id": "cascavel-tecnico-em-edificacoes-diurno-manha-duas-tardes-1",
-      "campus_id": "cascavel",
-      "curso_nome": "Técnico em Edificações",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno (manhã+duas tardes)¹",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã+duas tardes)¹; duração 3 anos",
-        "trecho_fonte": "Cascavel; Técnico em Edificações; Turmas: 1; Turno: Diurno (manhã+duas tardes)¹; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-edificacoes"
-    },
-    {
-      "id": "cascavel-tecnico-em-informatica-diurno-manha-duas-tardes-1",
-      "campus_id": "cascavel",
-      "curso_nome": "Técnico em Informática",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno (manhã+duas tardes)¹",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã+duas tardes)¹; duração 3 anos",
-        "trecho_fonte": "Cascavel; Técnico em Informática; Turmas: 1; Turno: Diurno (manhã+duas tardes)¹; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-informatica"
-    },
-    {
-      "id": "cascavel-tecnico-em-quimica-diurno-manha-duas-tardes-1",
-      "campus_id": "cascavel",
-      "curso_nome": "Técnico em Química",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno (manhã+duas tardes)¹",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã+duas tardes)¹; duração 3 anos",
-        "trecho_fonte": "Cascavel; Técnico em Química; Turmas: 1; Turno: Diurno (manhã+duas tardes)¹; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-quimica"
-    },
-    {
-      "id": "colombo-tecnico-em-administracao-matutino-duas-tardes-por-semana1",
-      "campus_id": "colombo",
-      "curso_nome": "Técnico em Administração",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino + duas tardes por semana¹",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino + duas tardes por semana¹; duração 3 anos",
-        "trecho_fonte": "Colombo; Técnico em Administração; Turmas: 1; Turno: Matutino + duas tardes por semana¹; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-administracao-integrado-ao-ensino-medio"
-    },
-    {
-      "id": "colombo-tecnico-em-alimentos-vespertino",
-      "campus_id": "colombo",
-      "curso_nome": "Técnico em Alimentos",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Vespertino",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Vespertino; duração 4 anos",
-        "trecho_fonte": "Colombo; Técnico em Alimentos; Turmas: 1; Turno: Vespertino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-alimentos-integrado-ao-ensino-medio"
-    },
-    {
-      "id": "colombo-tecnico-em-informatica-matutino",
-      "campus_id": "colombo",
-      "curso_nome": "Técnico em Informática",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos",
-        "trecho_fonte": "Colombo; Técnico em Informática; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-informatica-integrado-ao-ensino-medio"
-    },
-    {
-      "id": "coronel-vivida-tecnico-em-administracao-diurno-manha-2-tardes-1",
-      "campus_id": "coronel-vivida",
-      "curso_nome": "Técnico em Administração",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno (Manhã + 2 tardes)¹",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (Manhã + 2 tardes)¹; duração 3 anos",
-        "trecho_fonte": "Coronel Vivida; Técnico em Administração; Turmas: 1; Turno: Diurno (Manhã + 2 tardes)¹; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-administracao"
-    },
-    {
-      "id": "coronel-vivida-tecnico-em-cooperativismo-diurno-manha-2-tardes-1",
-      "campus_id": "coronel-vivida",
-      "curso_nome": "Técnico em Cooperativismo",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno (Manhã + 2 tardes)¹",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (Manhã + 2 tardes)¹; duração 3 anos",
-        "trecho_fonte": "Coronel Vivida; Técnico em Cooperativismo; Turmas: 1; Turno: Diurno (Manhã + 2 tardes)¹; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-cooperativismo"
-    },
-    {
-      "id": "curitiba-tecnico-em-administracao-matutino-com-contraturno-a-tarde",
-      "campus_id": "curitiba",
-      "curso_nome": "Técnico em Administração",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino com contraturno a tarde",
-      "vagas": {
-        "quantidade": 30,
-        "forma_oferta": "30 vagas; 1 turma(s); turno Matutino com contraturno a tarde; duração 3 anos",
-        "trecho_fonte": "Curitiba; Técnico em Administração; Turmas: 1; Turno: Matutino com contraturno a tarde; Vagas: 30; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-administracao-integrado-ao-ensino-medio"
-    },
-    {
-      "id": "curitiba-tecnico-em-contabilidade-matutino-com-contraturno-a-tarde",
-      "campus_id": "curitiba",
-      "curso_nome": "Técnico em Contabilidade",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino com contraturno a tarde",
-      "vagas": {
-        "quantidade": 30,
-        "forma_oferta": "30 vagas; 1 turma(s); turno Matutino com contraturno a tarde; duração 3 anos",
-        "trecho_fonte": "Curitiba; Técnico em Contabilidade; Turmas: 1; Turno: Matutino com contraturno a tarde; Vagas: 30; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-contabilidade-integrado-ao-ensino-medio"
-    },
-    {
-      "id": "curitiba-tecnico-em-eletronica-vespertino-com-contraturno-pela-manha",
-      "campus_id": "curitiba",
-      "curso_nome": "Técnico em Eletrônica",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Vespertino com contraturno pela manhã",
-      "vagas": {
-        "quantidade": 30,
-        "forma_oferta": "30 vagas; 1 turma(s); turno Vespertino com contraturno pela manhã; duração 3 anos",
-        "trecho_fonte": "Curitiba; Técnico em Eletrônica; Turmas: 1; Turno: Vespertino com contraturno pela manhã; Vagas: 30; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-eletronica-integrado-ao-ensino-medio"
-    },
-    {
-      "id": "curitiba-tecnico-em-informatica-matutino",
-      "campus_id": "curitiba",
-      "curso_nome": "Técnico em Informática",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino",
-      "vagas": {
-        "quantidade": 30,
-        "forma_oferta": "30 vagas; 1 turma(s); turno Matutino; duração 4 anos",
-        "trecho_fonte": "Curitiba; Técnico em Informática; Turmas: 1; Turno: Matutino; Vagas: 30; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-informatica-integrado-ao-ensino-medio"
-    },
-    {
-      "id": "curitiba-tecnico-em-mecanica-vespertino-com-contraturno-pela-manha",
-      "campus_id": "curitiba",
-      "curso_nome": "Técnico em Mecânica",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Vespertino com contraturno pela manhã",
-      "vagas": {
-        "quantidade": 30,
-        "forma_oferta": "30 vagas; 1 turma(s); turno Vespertino com contraturno pela manhã; duração 3 anos",
-        "trecho_fonte": "Curitiba; Técnico em Mecânica; Turmas: 1; Turno: Vespertino com contraturno pela manhã; Vagas: 30; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-mecanica-integrado-ao-ensino-medio"
-    },
-    {
-      "id": "curitiba-tecnico-em-petroleo-e-gas-matutino-com-contraturno-a-tarde",
-      "campus_id": "curitiba",
-      "curso_nome": "Técnico em Petróleo e Gás",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino com contraturno a tarde",
-      "vagas": {
-        "quantidade": 30,
-        "forma_oferta": "30 vagas; 1 turma(s); turno Matutino com contraturno a tarde; duração 3 anos",
-        "trecho_fonte": "Curitiba; Técnico em Petróleo e Gás; Turmas: 1; Turno: Matutino com contraturno a tarde; Vagas: 30; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-petroleo-e-gas-integrado-ao-ensino-medio"
-    },
-    {
-      "id": "curitiba-tecnico-em-processos-fotograficos-vespertino-com-contraturno-pela-manha",
-      "campus_id": "curitiba",
-      "curso_nome": "Técnico em Processos Fotográficos",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Vespertino com contraturno pela manhã",
-      "vagas": {
-        "quantidade": 30,
-        "forma_oferta": "30 vagas; 1 turma(s); turno Vespertino com contraturno pela manhã; duração 3 anos",
-        "trecho_fonte": "Curitiba; Técnico em Processos Fotográficos; Turmas: 1; Turno: Vespertino com contraturno pela manhã; Vagas: 30; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-processos-fotograficos-integrado-ao-ensino-medio"
-    },
-    {
-      "id": "curitiba-tecnico-em-programacao-de-jogos-digitais-vespertino",
-      "campus_id": "curitiba",
-      "curso_nome": "Técnico em Programação de Jogos Digitais",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Vespertino",
-      "vagas": {
-        "quantidade": 30,
-        "forma_oferta": "30 vagas; 1 turma(s); turno Vespertino; duração 4 anos",
-        "trecho_fonte": "Curitiba; Técnico em Programação de Jogos Digitais; Turmas: 1; Turno: Vespertino; Vagas: 30; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-programacao-de-jogos-digitais-integrado-ao-ensino-medio"
-    },
-    {
-      "id": "foz-do-iguacu-tecnico-em-aquicultura-diurno-manha-1-tarde-2",
-      "campus_id": "foz-do-iguacu",
-      "curso_nome": "Técnico em Aquicultura",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno (Manhã + 1 tarde)²",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (Manhã + 1 tarde)²; duração 3 anos",
-        "trecho_fonte": "Foz do Iguaçu; Técnico em Aquicultura; Turmas: 1; Turno: Diurno (Manhã + 1 tarde)²; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-aquicultura"
-    },
-    {
-      "id": "foz-do-iguacu-tecnico-em-desenvolvimento-de-sistemas-matutino",
-      "campus_id": "foz-do-iguacu",
-      "curso_nome": "Técnico em Desenvolvimento de Sistemas",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos",
-        "trecho_fonte": "Foz do Iguaçu; Técnico em Desenvolvimento de Sistemas; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-desenvolvimento-de-sistemas"
-    },
-    {
-      "id": "foz-do-iguacu-tecnico-em-edificacoes-diurno-manha-1-tarde-2",
-      "campus_id": "foz-do-iguacu",
-      "curso_nome": "Técnico em Edificações",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno (Manhã + 1 tarde)²",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (Manhã + 1 tarde)²; duração 3 anos",
-        "trecho_fonte": "Foz do Iguaçu; Técnico em Edificações; Turmas: 1; Turno: Diurno (Manhã + 1 tarde)²; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-edificacoes-3"
-    },
-    {
-      "id": "foz-do-iguacu-tecnico-em-meio-ambiente-matutino",
-      "campus_id": "foz-do-iguacu",
-      "curso_nome": "Técnico em Meio Ambiente",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos",
-        "trecho_fonte": "Foz do Iguaçu; Técnico em Meio Ambiente; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-meio-ambiente"
-    },
-    {
-      "id": "goioere-tecnico-em-informatica-matutino",
-      "campus_id": "goioere",
-      "curso_nome": "Técnico em Informática",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino",
-      "vagas": {
-        "quantidade": 80,
-        "forma_oferta": "80 vagas; 2 turma(s); turno Matutino; duração 4 anos",
-        "trecho_fonte": "Goioerê; Técnico em Informática; Turmas: 2; Turno: Matutino; Vagas: 80; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-informatica"
-    },
-    {
-      "id": "irati-tecnico-em-agroecologia-matutino",
-      "campus_id": "irati",
-      "curso_nome": "Técnico em Agroecologia",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino",
-      "vagas": {
-        "quantidade": 80,
-        "forma_oferta": "80 vagas; 2 turma(s); turno Matutino; duração 3 anos",
-        "trecho_fonte": "Irati; Técnico em Agroecologia; Turmas: 2; Turno: Matutino; Vagas: 80; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-agroecologia"
-    },
-    {
-      "id": "irati-tecnico-em-informatica-vespertino",
-      "campus_id": "irati",
-      "curso_nome": "Técnico em Informática",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Vespertino",
-      "vagas": {
-        "quantidade": 80,
-        "forma_oferta": "80 vagas; 2 turma(s); turno Vespertino; duração 3 anos",
-        "trecho_fonte": "Irati; Técnico em Informática; Turmas: 2; Turno: Vespertino; Vagas: 80; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-informatica"
-    },
-    {
-      "id": "irati-tecnico-em-informatica-matutino",
-      "campus_id": "irati",
-      "curso_nome": "Técnico em Informática",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 3 anos",
-        "trecho_fonte": "Irati; Técnico em Informática; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-informatica"
-    },
-    {
-      "id": "ivaipora-tecnico-em-agropecuaria-diurno-manha-e-tarde-2",
-      "campus_id": "ivaipora",
-      "curso_nome": "Técnico em Agropecuária",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno (manhã e tarde)²",
-      "vagas": {
-        "quantidade": 35,
-        "forma_oferta": "35 vagas; 1 turma(s); turno Diurno (manhã e tarde)²; duração 3 anos",
-        "trecho_fonte": "Ivaiporã; Técnico em Agropecuária; Turmas: 1; Turno: Diurno (manhã e tarde)²; Vagas: 35; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-agropecuaria-integrado-ao-ensino-medio"
-    },
-    {
-      "id": "ivaipora-tecnico-em-eletrotecnica-diurno-manha-e-tarde-2",
-      "campus_id": "ivaipora",
-      "curso_nome": "Técnico em Eletrotécnica",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno (manhã e tarde)²",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã e tarde)²; duração 3 anos",
-        "trecho_fonte": "Ivaiporã; Técnico em Eletrotécnica; Turmas: 1; Turno: Diurno (manhã e tarde)²; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-eletrotecnica-integrado"
-    },
-    {
-      "id": "ivaipora-tecnico-em-informatica-diurno-manha-e-tarde-2",
-      "campus_id": "ivaipora",
-      "curso_nome": "Técnico em Informática",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno (manhã e tarde)²",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã e tarde)²; duração 3 anos",
-        "trecho_fonte": "Ivaiporã; Técnico em Informática; Turmas: 1; Turno: Diurno (manhã e tarde)²; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-informatica-integrado-ao-ensino-medio"
-    },
-    {
-      "id": "jacarezinho-tecnico-em-alimentos-diurno",
-      "campus_id": "jacarezinho",
-      "curso_nome": "Técnico em Alimentos",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno; duração 3,5 a 4 anos",
-        "trecho_fonte": "Jacarezinho; Técnico em Alimentos; Turmas: 1; Turno: Diurno; Vagas: 40; Duração: 3,5 a 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-alimentos"
-    },
-    {
-      "id": "jacarezinho-tecnico-em-eletrotecnica-diurno",
-      "campus_id": "jacarezinho",
-      "curso_nome": "Técnico em Eletrotécnica",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno",
-      "vagas": {
-        "quantidade": 20,
-        "forma_oferta": "20 vagas; 1 turma(s); turno Diurno; duração 4 anos",
-        "trecho_fonte": "Jacarezinho; Técnico em Eletrotécnica; Turmas: 1; Turno: Diurno; Vagas: 20; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-eletrotecnica"
-    },
-    {
-      "id": "jacarezinho-tecnico-em-informatica-diurno",
-      "campus_id": "jacarezinho",
-      "curso_nome": "Técnico em Informática",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno; duração 4 anos",
-        "trecho_fonte": "Jacarezinho; Técnico em Informática; Turmas: 1; Turno: Diurno; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-informatica"
-    },
-    {
-      "id": "jacarezinho-tecnico-em-mecanica-diurno",
-      "campus_id": "jacarezinho",
-      "curso_nome": "Técnico em Mecânica",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno",
-      "vagas": {
-        "quantidade": 20,
-        "forma_oferta": "20 vagas; 1 turma(s); turno Diurno; duração 4 anos",
-        "trecho_fonte": "Jacarezinho; Técnico em Mecânica; Turmas: 1; Turno: Diurno; Vagas: 20; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-mecanica"
-    },
-    {
-      "id": "jaguariaiva-tecnico-em-alimentos-diurno-manha-e-tarde-1",
-      "campus_id": "jaguariaiva",
-      "curso_nome": "Técnico em Alimentos",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno (manhã e tarde)¹",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã e tarde)¹; duração 4 anos",
-        "trecho_fonte": "Jaguariaíva; Técnico em Alimentos; Turmas: 1; Turno: Diurno (manhã e tarde)¹; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-alimentos-integrado-ao-ensino-medio"
-    },
-    {
-      "id": "jaguariaiva-tecnico-em-biotecnologia-diurno-manha-e-tarde-1",
-      "campus_id": "jaguariaiva",
-      "curso_nome": "Técnico em Biotecnologia",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno (manhã e tarde)¹",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã e tarde)¹; duração 4 anos",
-        "trecho_fonte": "Jaguariaíva; Técnico em Biotecnologia; Turmas: 1; Turno: Diurno (manhã e tarde)¹; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      }
-    },
-    {
-      "id": "londrina-tecnico-em-biotecnologia-matutino",
-      "campus_id": "londrina",
-      "curso_nome": "Técnico em Biotecnologia",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos",
-        "trecho_fonte": "Londrina; Técnico em Biotecnologia; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      }
-    },
-    {
-      "id": "londrina-tecnico-em-informatica-vespertino",
-      "campus_id": "londrina",
-      "curso_nome": "Técnico em Informática",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Vespertino",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Vespertino; duração 4 anos",
-        "trecho_fonte": "Londrina; Técnico em Informática; Turmas: 1; Turno: Vespertino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-informatica-integrado-ao-ensino-medio"
-    },
-    {
-      "id": "palmas-tecnico-em-alimentos-diurno-manha-e-tarde",
-      "campus_id": "palmas",
-      "curso_nome": "Técnico em Alimentos",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno (manhã e tarde)",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã e tarde); duração 3 anos",
-        "trecho_fonte": "Palmas; Técnico em Alimentos; Turmas: 1; Turno: Diurno (manhã e tarde); Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      }
-    },
-    {
-      "id": "palmas-tecnico-em-informatica-para-internet-diurno-manha-e-tarde",
-      "campus_id": "palmas",
-      "curso_nome": "Técnico em Informática para Internet",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno (manhã e tarde)",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã e tarde); duração 3 anos",
-        "trecho_fonte": "Palmas; Técnico em Informática para Internet; Turmas: 1; Turno: Diurno (manhã e tarde); Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      }
-    },
-    {
-      "id": "palmas-tecnico-em-servicos-juridicos-diurno-manha-e-tarde",
-      "campus_id": "palmas",
-      "curso_nome": "Técnico em Serviços Jurídicos",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno (manhã e tarde)",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã e tarde); duração 3 anos",
-        "trecho_fonte": "Palmas; Técnico em Serviços Jurídicos; Turmas: 1; Turno: Diurno (manhã e tarde); Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      }
-    },
-    {
-      "id": "paranagua-tecnico-em-informatica-vespertino",
-      "campus_id": "paranagua",
-      "curso_nome": "Técnico em Informática",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Vespertino",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Vespertino; duração 4 anos",
-        "trecho_fonte": "Paranaguá; Técnico em Informática; Turmas: 1; Turno: Vespertino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-informatica"
-    },
-    {
-      "id": "paranagua-tecnico-em-mecanica-diurno-tarde-e-manha-1",
-      "campus_id": "paranagua",
-      "curso_nome": "Técnico em Mecânica",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno (tarde e manhã)¹",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (tarde e manhã)¹; duração 4 anos",
-        "trecho_fonte": "Paranaguá; Técnico em Mecânica; Turmas: 1; Turno: Diurno (tarde e manhã)¹; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-mecanica"
-    },
-    {
-      "id": "paranagua-tecnico-em-meio-ambiente-vespertino",
-      "campus_id": "paranagua",
-      "curso_nome": "Técnico em Meio Ambiente",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Vespertino",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Vespertino; duração 4 anos",
-        "trecho_fonte": "Paranaguá; Técnico em Meio Ambiente; Turmas: 1; Turno: Vespertino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-meio-ambiente"
-    },
-    {
-      "id": "paranagua-tecnico-em-producao-cultural-matutino",
-      "campus_id": "paranagua",
-      "curso_nome": "Técnico em Produção Cultural",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos",
-        "trecho_fonte": "Paranaguá; Técnico em Produção Cultural; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-producao-cultural"
-    },
-    {
-      "id": "paranavai-tecnico-em-agroindustria-matutino",
-      "campus_id": "paranavai",
-      "curso_nome": "Técnico em Agroindústria",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos",
-        "trecho_fonte": "Paranavaí; Técnico em Agroindústria; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-agroindustria"
-    },
-    {
-      "id": "paranavai-tecnico-em-informatica-matutino",
-      "campus_id": "paranavai",
-      "curso_nome": "Técnico em Informática",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos",
-        "trecho_fonte": "Paranavaí; Técnico em Informática; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-informatica"
-    },
-    {
-      "id": "paranavai-tecnico-em-mecatronica-matutino",
-      "campus_id": "paranavai",
-      "curso_nome": "Técnico em Mecatrônica",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos",
-        "trecho_fonte": "Paranavaí; Técnico em Mecatrônica; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-mecatronica"
-    },
-    {
-      "id": "pinhais-tecnico-em-administracao-matutino",
-      "campus_id": "pinhais",
-      "curso_nome": "Técnico em Administração",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos",
-        "trecho_fonte": "Pinhais; Técnico em Administração; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-administracao-integrado-ao-ensino-medio"
-    },
-    {
-      "id": "pinhais-tecnico-em-administracao-vespertino",
-      "campus_id": "pinhais",
-      "curso_nome": "Técnico em Administração",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Vespertino",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Vespertino; duração 4 anos",
-        "trecho_fonte": "Pinhais; Técnico em Administração; Turmas: 1; Turno: Vespertino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-administracao-integrado-ao-ensino-medio"
-    },
-    {
-      "id": "pinhais-tecnico-em-informatica-matutino",
-      "campus_id": "pinhais",
-      "curso_nome": "Técnico em Informática",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos",
-        "trecho_fonte": "Pinhais; Técnico em Informática; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-informatica-integrado-ao-ensino-medio"
-    },
-    {
-      "id": "pinhais-tecnico-em-informatica-vespertino",
-      "campus_id": "pinhais",
-      "curso_nome": "Técnico em Informática",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Vespertino",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Vespertino; duração 4 anos",
-        "trecho_fonte": "Pinhais; Técnico em Informática; Turmas: 1; Turno: Vespertino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-informatica-integrado-ao-ensino-medio"
-    },
-    {
-      "id": "pitanga-tecnico-em-alimentos-matutino",
-      "campus_id": "pitanga",
-      "curso_nome": "Técnico em Alimentos",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos",
-        "trecho_fonte": "Pitanga; Técnico em Alimentos; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-alimentos"
-    },
-    {
-      "id": "pitanga-tecnico-em-cooperativismo-matutino",
-      "campus_id": "pitanga",
-      "curso_nome": "Técnico em Cooperativismo",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos",
-        "trecho_fonte": "Pitanga; Técnico em Cooperativismo; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-cooperativismo"
-    },
-    {
-      "id": "pitanga-tecnico-em-desenvolvimento-de-sistemas-matutino",
-      "campus_id": "pitanga",
-      "curso_nome": "Técnico em Desenvolvimento de Sistemas",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos",
-        "trecho_fonte": "Pitanga; Técnico em Desenvolvimento de Sistemas; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-desenvolvimento-de-sistemas"
-    },
-    {
-      "id": "ponta-grossa-tecnico-em-informatica-diurno-integral",
-      "campus_id": "ponta-grossa",
-      "curso_nome": "Técnico em Informática",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno (Integral)",
-      "vagas": {
-        "quantidade": 35,
-        "forma_oferta": "35 vagas; 1 turma(s); turno Diurno (Integral); duração 4 anos",
-        "trecho_fonte": "Ponta Grossa; Técnico em Informática; Turmas: 1; Turno: Diurno (Integral); Vagas: 35; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      }
-    },
-    {
-      "id": "quedas-do-iguacu-tecnico-em-informatica-diurno-manha-2-tardes-por-semana-1",
-      "campus_id": "quedas-do-iguacu",
-      "curso_nome": "Técnico em Informática",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno (Manhã + 2 tardes por semana)¹",
-      "vagas": {
-        "quantidade": 38,
-        "forma_oferta": "38 vagas; 1 turma(s); turno Diurno (Manhã + 2 tardes por semana)¹; duração 3 anos",
-        "trecho_fonte": "Quedas do Iguaçu; Técnico em Informática; Turmas: 1; Turno: Diurno (Manhã + 2 tardes por semana)¹; Vagas: 38; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-informatica"
-    },
-    {
-      "id": "quedas-do-iguacu-tecnico-em-meio-ambiente-diurno-manha-2-tardes-por-semana-1",
-      "campus_id": "quedas-do-iguacu",
-      "curso_nome": "Técnico em Meio Ambiente",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno (Manhã + 2 tardes por semana)¹",
-      "vagas": {
-        "quantidade": 38,
-        "forma_oferta": "38 vagas; 1 turma(s); turno Diurno (Manhã + 2 tardes por semana)¹; duração 3 anos",
-        "trecho_fonte": "Quedas do Iguaçu; Técnico em Meio Ambiente; Turmas: 1; Turno: Diurno (Manhã + 2 tardes por semana)¹; Vagas: 38; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-meio-ambiente"
-    },
-    {
-      "id": "telemaco-borba-tecnico-em-automacao-industrial-matutino-vespertino1",
-      "campus_id": "telemaco-borba",
-      "curso_nome": "Técnico em Automação Industrial",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino/Vespertino¹",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino/Vespertino¹; duração 4 anos",
-        "trecho_fonte": "Telêmaco Borba; Técnico em Automação Industrial; Turmas: 1; Turno: Matutino/Vespertino¹; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-automacao-industrial-integrado-ao-ensino-medio"
-    },
-    {
-      "id": "telemaco-borba-tecnico-em-informatica-para-internet-matutino-vespertino1",
-      "campus_id": "telemaco-borba",
-      "curso_nome": "Técnico em Informática para Internet",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino/Vespertino¹",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino/Vespertino¹; duração 4 anos",
-        "trecho_fonte": "Telêmaco Borba; Técnico em Informática para Internet; Turmas: 1; Turno: Matutino/Vespertino¹; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-informatica-para-internet-integrado-ao-ensino-medio"
-    },
-    {
-      "id": "telemaco-borba-tecnico-em-mecanica-matutino-vespertino1",
-      "campus_id": "telemaco-borba",
-      "curso_nome": "Técnico em Mecânica",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino/Vespertino¹",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino/Vespertino¹; duração 4 anos",
-        "trecho_fonte": "Telêmaco Borba; Técnico em Mecânica; Turmas: 1; Turno: Matutino/Vespertino¹; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-mecanica"
-    },
-    {
-      "id": "telemaco-borba-tecnico-em-programacao-de-jogos-digitais-matutino-vespertino1",
-      "campus_id": "telemaco-borba",
-      "curso_nome": "Técnico em Programação de Jogos Digitais",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino/Vespertino¹",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino/Vespertino¹; duração 4 anos",
-        "trecho_fonte": "Telêmaco Borba; Técnico em Programação de Jogos Digitais; Turmas: 1; Turno: Matutino/Vespertino¹; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-programacao-de-jogos-digitais"
-    },
-    {
-      "id": "toledo-tecnico-em-informatica-para-internet-diurno-manha-2-tardes-1",
-      "campus_id": "toledo",
-      "curso_nome": "Técnico em Informática para Internet",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno (Manhã + 2 tardes)¹",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (Manhã + 2 tardes)¹; duração 3 anos",
-        "trecho_fonte": "Toledo; Técnico em Informática para Internet; Turmas: 1; Turno: Diurno (Manhã + 2 tardes)¹; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      }
-    },
-    {
-      "id": "umuarama-tecnico-em-edificacoes-matutino-vespertino1",
-      "campus_id": "umuarama",
-      "curso_nome": "Técnico em Edificações",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino/Vespertino¹",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino/Vespertino¹; duração 4 anos",
-        "trecho_fonte": "Umuarama; Técnico em Edificações; Turmas: 1; Turno: Matutino/Vespertino¹; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-edificacoes-integrado-ao-ensino-medio"
-    },
-    {
-      "id": "umuarama-tecnico-em-informatica-matutino-vespertino1",
-      "campus_id": "umuarama",
-      "curso_nome": "Técnico em Informática",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino/Vespertino¹",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino/Vespertino¹; duração 4 anos",
-        "trecho_fonte": "Umuarama; Técnico em Informática; Turmas: 1; Turno: Matutino/Vespertino¹; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-informatica-integrado-ao-ensino-medio"
-    },
-    {
-      "id": "umuarama-tecnico-em-quimica-matutino-vespertino1",
-      "campus_id": "umuarama",
-      "curso_nome": "Técnico em Química",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Matutino/Vespertino¹",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino/Vespertino¹; duração 4 anos",
-        "trecho_fonte": "Umuarama; Técnico em Química; Turmas: 1; Turno: Matutino/Vespertino¹; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-quimica-integrado-ao-ensino-medio"
-    },
-    {
-      "id": "uniao-da-vitoria-tecnico-em-informatica-diurno-manha-2-tardes-1",
-      "campus_id": "uniao-da-vitoria",
-      "curso_nome": "Técnico em Informática",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno (Manhã + 2 tardes)¹",
-      "vagas": {
-        "quantidade": 80,
-        "forma_oferta": "80 vagas; 2 turma(s); turno Diurno (Manhã + 2 tardes)¹; duração 3 anos",
-        "trecho_fonte": "União da Vitória; Técnico em Informática; Turmas: 2; Turno: Diurno (Manhã + 2 tardes)¹; Vagas: 80; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-informatica-integrado-ao-ensino-medio"
-    },
-    {
-      "id": "uniao-da-vitoria-tecnico-em-meio-ambiente-diurno-manha-2-tardes-1",
-      "campus_id": "uniao-da-vitoria",
-      "curso_nome": "Técnico em Meio Ambiente",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "turno": "Diurno (Manhã + 2 tardes)¹",
-      "vagas": {
-        "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (Manhã + 2 tardes)¹; duração 3 anos",
-        "trecho_fonte": "União da Vitória; Técnico em Meio Ambiente; Turmas: 1; Turno: Diurno (Manhã + 2 tardes)¹; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/"
-      },
-      "curso_id": "tecnico-em-meio-ambiente-integrado-ao-ensino-medio"
+      "turno": "Diurno (Manhã + 2 tardes por semana)²"
     },
     {
       "id": "assis-chateaubriand-tecnico-em-eletromecanica-noturno",
       "campus_id": "assis-chateaubriand",
       "curso_nome": "Técnico em Eletromecânica",
       "tipo_oferta": "técnico subsequente",
-      "modalidade": "presencial",
-      "turno": "Noturno",
       "vagas": {
         "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Noturno; duração 2 anos",
         "trecho_fonte": "Assis Chateaubriand; Técnico em Eletromecânica; Turmas: 1; Turno: Noturno; Vagas: 40; Duração: 2 anos",
-        "status_curadoria": "sugerido"
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Noturno; duração 2 anos"
       },
       "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/"
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
+        "edital_id": "edital-subsequentes-curitiba-assis-2026"
       },
-      "curso_id": "tecnico-em-eletromecanica-subsequente"
+      "curso_id": "tecnico-em-eletromecanica-subsequente",
+      "modalidade": "presencial",
+      "turno": "Noturno"
     },
     {
-      "id": "curitiba-tecnico-em-condominio-noturno",
-      "campus_id": "curitiba",
-      "curso_nome": "Técnico em Condomínio",
-      "tipo_oferta": "técnico subsequente",
-      "modalidade": "presencial",
-      "turno": "Noturno",
+      "id": "assis-chateaubriand-tecnico-em-informatica-para-internet-diurno-manha-2-tardes-por-semana-1",
+      "campus_id": "assis-chateaubriand",
+      "curso_nome": "Técnico em Informática para Internet",
+      "tipo_oferta": "técnico integrado",
       "vagas": {
         "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Noturno; duração 1 ano",
-        "trecho_fonte": "Curitiba; Técnico em Condomínio; Turmas: 1; Turno: Noturno; Vagas: 40; Duração: 1 ano",
-        "status_curadoria": "sugerido"
+        "trecho_fonte": "Assis Chateaubriand; Técnico em Informática para Internet; Turmas: 1; Turno: Diurno (manhã + 2 tardes por semana)¹; Vagas: 40; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã + 2 tardes por semana)¹; duração 3 anos"
       },
       "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/"
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-condominio"
+      "curso_id": "tecnico-em-informatica-para-internet-integrado-ao-ensino-medio",
+      "modalidade": "presencial",
+      "turno": "Diurno (manhã + 2 tardes por semana)¹"
     },
     {
-      "id": "curitiba-tecnico-em-edificacoes-noturno",
-      "campus_id": "curitiba",
-      "curso_nome": "Técnico em Edificações",
-      "tipo_oferta": "técnico subsequente",
-      "modalidade": "presencial",
-      "turno": "Noturno",
+      "id": "assis-chateaubriand-tecnico-em-mecatronica-diurno-manha-2-tardes-por-semana-1",
+      "campus_id": "assis-chateaubriand",
+      "curso_nome": "Técnico em Mecatrônica",
+      "tipo_oferta": "técnico integrado",
       "vagas": {
         "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Noturno; duração 2 anos",
-        "trecho_fonte": "Curitiba; Técnico em Edificações; Turmas: 1; Turno: Noturno; Vagas: 40; Duração: 2 anos",
-        "status_curadoria": "sugerido"
+        "trecho_fonte": "Assis Chateaubriand; Técnico em Mecatrônica; Turmas: 1; Turno: Diurno (manhã + 2 tardes por semana)¹; Vagas: 40; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã + 2 tardes por semana)¹; duração 3 anos"
       },
       "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/"
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-edificacoes"
-    },
-    {
-      "id": "curitiba-tecnico-em-eletromecanica-noturno",
-      "campus_id": "curitiba",
-      "curso_nome": "Técnico em Eletromecânica",
-      "tipo_oferta": "técnico subsequente",
+      "curso_id": "tecnico-em-mecatronica-integrado-ao-ensino-medio",
       "modalidade": "presencial",
-      "turno": "Noturno",
-      "vagas": {
-        "quantidade": 30,
-        "forma_oferta": "30 vagas; 1 turma(s); turno Noturno; duração 2 anos",
-        "trecho_fonte": "Curitiba; Técnico em Eletromecânica; Turmas: 1; Turno: Noturno; Vagas: 30; Duração: 2 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/"
-      },
-      "curso_id": "tecnico-em-eletromecanica"
+      "turno": "Diurno (manhã + 2 tardes por semana)¹"
     },
     {
-      "id": "curitiba-tecnico-em-eletrotecnica-noturno",
-      "campus_id": "curitiba",
-      "curso_nome": "Técnico em Eletrotécnica",
-      "tipo_oferta": "técnico subsequente",
+      "id": "astorga-tecnico-em-informatica-matutino",
+      "campus_id": "astorga",
+      "curso_nome": "Técnico em Informática",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Astorga; Técnico em Informática; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "curso-tecnico-de-informatica-integrado-ao-ensino-medio",
       "modalidade": "presencial",
-      "turno": "Noturno",
-      "vagas": {
-        "quantidade": 35,
-        "forma_oferta": "35 vagas; 1 turma(s); turno Noturno; duração 2 anos",
-        "trecho_fonte": "Curitiba; Técnico em Eletrotécnica; Turmas: 1; Turno: Noturno; Vagas: 35; Duração: 2 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/"
-      },
-      "curso_id": "tecnico-em-eletrotecnica"
+      "turno": "Matutino"
     },
     {
-      "id": "curitiba-tecnico-em-enfermagem-matutino",
-      "campus_id": "curitiba",
-      "curso_nome": "Técnico em Enfermagem",
-      "tipo_oferta": "técnico subsequente",
+      "id": "barracao-tecnico-em-administracao-matutino",
+      "campus_id": "barracao",
+      "curso_nome": "Técnico em Administração",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Barracão; Técnico em Administração; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-administracao",
       "modalidade": "presencial",
-      "turno": "Matutino",
-      "vagas": {
-        "quantidade": 30,
-        "forma_oferta": "30 vagas; 1 turma(s); turno Matutino; duração 2 anos",
-        "trecho_fonte": "Curitiba; Técnico em Enfermagem; Turmas: 1; Turno: Matutino; Vagas: 30; Duração: 2 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/"
-      },
-      "curso_id": "tecnico-em-enfermagem"
+      "turno": "Matutino"
     },
     {
-      "id": "curitiba-tecnico-em-eventos-noturno",
-      "campus_id": "curitiba",
-      "curso_nome": "Técnico em Eventos",
-      "tipo_oferta": "técnico subsequente",
+      "id": "barracao-tecnico-em-informatica-matutino",
+      "campus_id": "barracao",
+      "curso_nome": "Técnico em Informática",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Barracão; Técnico em Informática; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-informatica",
       "modalidade": "presencial",
-      "turno": "Noturno",
-      "vagas": {
-        "quantidade": 35,
-        "forma_oferta": "35 vagas; 1 turma(s); turno Noturno; duração 1 ano",
-        "trecho_fonte": "Curitiba; Técnico em Eventos; Turmas: 1; Turno: Noturno; Vagas: 35; Duração: 1 ano",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/"
-      },
-      "curso_id": "tecnico-em-eventos"
+      "turno": "Matutino"
     },
     {
-      "id": "curitiba-tecnico-em-mecanica-noturno",
-      "campus_id": "curitiba",
+      "id": "campo-largo-tecnico-em-administracao-matutino",
+      "campus_id": "campo-largo",
+      "curso_nome": "Técnico em Administração",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Campo Largo; Técnico em Administração; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "administracao",
+      "modalidade": "presencial",
+      "turno": "Matutino"
+    },
+    {
+      "id": "campo-largo-tecnico-em-agroecologia-vespertino",
+      "campus_id": "campo-largo",
+      "curso_nome": "Técnico em Agroecologia",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Campo Largo; Técnico em Agroecologia; Turmas: 1; Turno: Vespertino; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Vespertino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "agroecologia",
+      "modalidade": "presencial",
+      "turno": "Vespertino"
+    },
+    {
+      "id": "campo-largo-tecnico-em-automacao-industrial-vespertino",
+      "campus_id": "campo-largo",
+      "curso_nome": "Técnico em Automação Industrial",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Campo Largo; Técnico em Automação Industrial; Turmas: 1; Turno: Vespertino; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Vespertino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "automacao-industrial",
+      "modalidade": "presencial",
+      "turno": "Vespertino"
+    },
+    {
+      "id": "campo-largo-tecnico-em-mecanica-matutino",
+      "campus_id": "campo-largo",
       "curso_nome": "Técnico em Mecânica",
-      "tipo_oferta": "técnico subsequente",
-      "modalidade": "presencial",
-      "turno": "Noturno",
+      "tipo_oferta": "técnico integrado",
       "vagas": {
-        "quantidade": 36,
-        "forma_oferta": "36 vagas; 1 turma(s); turno Noturno; duração 2 anos",
-        "trecho_fonte": "Curitiba; Técnico em Mecânica; Turmas: 1; Turno: Noturno; Vagas: 36; Duração: 2 anos",
-        "status_curadoria": "sugerido"
+        "quantidade": 40,
+        "trecho_fonte": "Campo Largo; Técnico em Mecânica; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
       },
       "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/"
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-mecanica"
-    },
-    {
-      "id": "curitiba-tecnico-em-processos-fotograficos-matutino",
-      "campus_id": "curitiba",
-      "curso_nome": "Técnico em Processos Fotográficos",
-      "tipo_oferta": "técnico subsequente",
+      "curso_id": "mecanica",
       "modalidade": "presencial",
-      "turno": "Matutino",
-      "vagas": {
-        "quantidade": 30,
-        "forma_oferta": "30 vagas; 1 turma(s); turno Matutino; duração 1,5 anos",
-        "trecho_fonte": "Curitiba; Técnico em Processos Fotográficos; Turmas: 1; Turno: Matutino; Vagas: 30; Duração: 1,5 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/"
-      },
-      "curso_id": "tecnico-em-processos-fotograficos"
-    },
-    {
-      "id": "curitiba-tecnico-em-producao-de-audio-e-video-vespertino",
-      "campus_id": "curitiba",
-      "curso_nome": "Técnico em Produção de Áudio e Vídeo",
-      "tipo_oferta": "técnico subsequente",
-      "modalidade": "presencial",
-      "turno": "Vespertino",
-      "vagas": {
-        "quantidade": 30,
-        "forma_oferta": "30 vagas; 1 turma(s); turno Vespertino; duração 2 anos",
-        "trecho_fonte": "Curitiba; Técnico em Produção de Áudio e Vídeo; Turmas: 1; Turno: Vespertino; Vagas: 30; Duração: 2 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/"
-      },
-      "curso_id": "tecnico-em-producao-de-audio-e-video"
-    },
-    {
-      "id": "curitiba-tecnico-em-protese-dentaria-vespertino",
-      "campus_id": "curitiba",
-      "curso_nome": "Técnico em Prótese Dentária",
-      "tipo_oferta": "técnico subsequente",
-      "modalidade": "presencial",
-      "turno": "Vespertino",
-      "vagas": {
-        "quantidade": 25,
-        "forma_oferta": "25 vagas; 1 turma(s); turno Vespertino; duração 2 anos",
-        "trecho_fonte": "Curitiba; Técnico em Prótese Dentária; Turmas: 1; Turno: Vespertino; Vagas: 25; Duração: 2 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/"
-      },
-      "curso_id": "tecnico-em-protese-dentaria"
-    },
-    {
-      "id": "curitiba-tecnico-em-protese-dentaria-noturno",
-      "campus_id": "curitiba",
-      "curso_nome": "Técnico em Prótese Dentária",
-      "tipo_oferta": "técnico subsequente",
-      "modalidade": "presencial",
-      "turno": "Noturno",
-      "vagas": {
-        "quantidade": 25,
-        "forma_oferta": "25 vagas; 1 turma(s); turno Noturno; duração 2 anos",
-        "trecho_fonte": "Curitiba; Técnico em Prótese Dentária; Turmas: 1; Turno: Noturno; Vagas: 25; Duração: 2 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/"
-      },
-      "curso_id": "tecnico-em-protese-dentaria"
-    },
-    {
-      "id": "curitiba-tecnico-em-radiologia-matutino",
-      "campus_id": "curitiba",
-      "curso_nome": "Técnico em Radiologia",
-      "tipo_oferta": "técnico subsequente",
-      "modalidade": "presencial",
-      "turno": "Matutino",
-      "vagas": {
-        "quantidade": 35,
-        "forma_oferta": "35 vagas; 1 turma(s); turno Matutino; duração 2 anos",
-        "trecho_fonte": "Curitiba; Técnico em Radiologia; Turmas: 1; Turno: Matutino; Vagas: 35; Duração: 2 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/"
-      },
-      "curso_id": "tecnico-em-radiologia"
-    },
-    {
-      "id": "curitiba-tecnico-em-saude-bucal-noturno",
-      "campus_id": "curitiba",
-      "curso_nome": "Técnico em Saúde Bucal",
-      "tipo_oferta": "técnico subsequente",
-      "modalidade": "presencial",
-      "turno": "Noturno",
-      "vagas": {
-        "quantidade": 25,
-        "forma_oferta": "25 vagas; 1 turma(s); turno Noturno; duração 2 anos",
-        "trecho_fonte": "Curitiba; Técnico em Saúde Bucal; Turmas: 1; Turno: Noturno; Vagas: 25; Duração: 2 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/"
-      },
-      "curso_id": "tecnico-em-saude-bucal"
-    },
-    {
-      "id": "curitiba-tecnico-em-telecomunicacoes-noturno",
-      "campus_id": "curitiba",
-      "curso_nome": "Técnico em Telecomunicações",
-      "tipo_oferta": "técnico subsequente",
-      "modalidade": "presencial",
-      "turno": "Noturno",
-      "vagas": {
-        "quantidade": 36,
-        "forma_oferta": "36 vagas; 1 turma(s); turno Noturno; duração 2 anos",
-        "trecho_fonte": "Curitiba; Técnico em Telecomunicações; Turmas: 1; Turno: Noturno; Vagas: 36; Duração: 2 anos",
-        "status_curadoria": "sugerido"
-      },
-      "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/"
-      },
-      "curso_id": "tecnico-em-telecomunicacoes"
+      "turno": "Matutino"
     },
     {
       "id": "campo-largo-tecnico-em-mecanica-noturno",
       "campus_id": "campo-largo",
       "curso_nome": "Técnico em Mecânica",
       "tipo_oferta": "técnico subsequente",
-      "modalidade": "presencial",
-      "turno": "Noturno",
       "vagas": {
         "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Noturno; duração 2 anos",
         "trecho_fonte": "Campo Largo; Técnico em Mecânica; Turmas: 1; Turno: Noturno; Vagas: 40; Duração: 2 anos",
-        "status_curadoria": "sugerido"
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Noturno; duração 2 anos"
       },
       "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/cursos/"
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/cursos/",
+        "edital_id": "edital-subsequentes-demais-campi-2026"
       },
-      "curso_id": "tecnico-em-mecanica-subsequente"
+      "curso_id": "tecnico-em-mecanica-subsequente",
+      "modalidade": "presencial",
+      "turno": "Noturno"
+    },
+    {
+      "id": "capanema-tecnico-em-agroecologia-diurno-manha-e-tarde-1",
+      "campus_id": "capanema",
+      "curso_nome": "Técnico em Agroecologia",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Capanema; Técnico em Agroecologia; Turmas: 1; Turno: Diurno (manhã e tarde)¹; Vagas: 40; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã e tarde)¹; duração 3 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-agroecologia",
+      "modalidade": "presencial",
+      "turno": "Diurno (manhã e tarde)¹"
+    },
+    {
+      "id": "capanema-tecnico-em-cooperativismo-matutino",
+      "campus_id": "capanema",
+      "curso_nome": "Técnico em Cooperativismo",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Capanema; Técnico em Cooperativismo; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-cooperativismo",
+      "modalidade": "presencial",
+      "turno": "Matutino"
+    },
+    {
+      "id": "capanema-tecnico-em-informatica-matutino",
+      "campus_id": "capanema",
+      "curso_nome": "Técnico em Informática",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Capanema; Técnico em Informática; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-informatica",
+      "modalidade": "presencial",
+      "turno": "Matutino"
+    },
+    {
+      "id": "cascavel-tecnico-em-edificacoes-diurno-manha-duas-tardes-1",
+      "campus_id": "cascavel",
+      "curso_nome": "Técnico em Edificações",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Cascavel; Técnico em Edificações; Turmas: 1; Turno: Diurno (manhã+duas tardes)¹; Vagas: 40; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã+duas tardes)¹; duração 3 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-edificacoes",
+      "modalidade": "presencial",
+      "turno": "Diurno (manhã+duas tardes)¹"
+    },
+    {
+      "id": "cascavel-tecnico-em-informatica-diurno-manha-duas-tardes-1",
+      "campus_id": "cascavel",
+      "curso_nome": "Técnico em Informática",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Cascavel; Técnico em Informática; Turmas: 1; Turno: Diurno (manhã+duas tardes)¹; Vagas: 40; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã+duas tardes)¹; duração 3 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-informatica",
+      "modalidade": "presencial",
+      "turno": "Diurno (manhã+duas tardes)¹"
+    },
+    {
+      "id": "cascavel-tecnico-em-quimica-diurno-manha-duas-tardes-1",
+      "campus_id": "cascavel",
+      "curso_nome": "Técnico em Química",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Cascavel; Técnico em Química; Turmas: 1; Turno: Diurno (manhã+duas tardes)¹; Vagas: 40; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã+duas tardes)¹; duração 3 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-quimica",
+      "modalidade": "presencial",
+      "turno": "Diurno (manhã+duas tardes)¹"
+    },
+    {
+      "id": "colombo-tecnico-em-administracao-matutino-duas-tardes-por-semana1",
+      "campus_id": "colombo",
+      "curso_nome": "Técnico em Administração",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Colombo; Técnico em Administração; Turmas: 1; Turno: Matutino + duas tardes por semana¹; Vagas: 40; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino + duas tardes por semana¹; duração 3 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-administracao-integrado-ao-ensino-medio",
+      "modalidade": "presencial",
+      "turno": "Matutino + duas tardes por semana¹"
+    },
+    {
+      "id": "colombo-tecnico-em-alimentos-vespertino",
+      "campus_id": "colombo",
+      "curso_nome": "Técnico em Alimentos",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Colombo; Técnico em Alimentos; Turmas: 1; Turno: Vespertino; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Vespertino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-alimentos-integrado-ao-ensino-medio",
+      "modalidade": "presencial",
+      "turno": "Vespertino"
+    },
+    {
+      "id": "colombo-tecnico-em-informatica-matutino",
+      "campus_id": "colombo",
+      "curso_nome": "Técnico em Informática",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Colombo; Técnico em Informática; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-informatica-integrado-ao-ensino-medio",
+      "modalidade": "presencial",
+      "turno": "Matutino"
+    },
+    {
+      "id": "coronel-vivida-tecnico-em-administracao-diurno-manha-2-tardes-1",
+      "campus_id": "coronel-vivida",
+      "curso_nome": "Técnico em Administração",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Coronel Vivida; Técnico em Administração; Turmas: 1; Turno: Diurno (Manhã + 2 tardes)¹; Vagas: 40; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (Manhã + 2 tardes)¹; duração 3 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-administracao",
+      "modalidade": "presencial",
+      "turno": "Diurno (Manhã + 2 tardes)¹"
+    },
+    {
+      "id": "coronel-vivida-tecnico-em-cooperativismo-diurno-manha-2-tardes-1",
+      "campus_id": "coronel-vivida",
+      "curso_nome": "Técnico em Cooperativismo",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Coronel Vivida; Técnico em Cooperativismo; Turmas: 1; Turno: Diurno (Manhã + 2 tardes)¹; Vagas: 40; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (Manhã + 2 tardes)¹; duração 3 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-cooperativismo",
+      "modalidade": "presencial",
+      "turno": "Diurno (Manhã + 2 tardes)¹"
+    },
+    {
+      "id": "curitiba-tecnico-em-administracao-matutino-com-contraturno-a-tarde",
+      "campus_id": "curitiba",
+      "curso_nome": "Técnico em Administração",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 30,
+        "trecho_fonte": "Curitiba; Técnico em Administração; Turmas: 1; Turno: Matutino com contraturno a tarde; Vagas: 30; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "30 vagas; 1 turma(s); turno Matutino com contraturno a tarde; duração 3 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-administracao-integrado-ao-ensino-medio",
+      "modalidade": "presencial",
+      "turno": "Matutino com contraturno a tarde"
+    },
+    {
+      "id": "curitiba-tecnico-em-condominio-noturno",
+      "campus_id": "curitiba",
+      "curso_nome": "Técnico em Condomínio",
+      "tipo_oferta": "técnico subsequente",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Curitiba; Técnico em Condomínio; Turmas: 1; Turno: Noturno; Vagas: 40; Duração: 1 ano",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Noturno; duração 1 ano"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
+        "edital_id": "edital-subsequentes-curitiba-assis-2026"
+      },
+      "curso_id": "tecnico-em-condominio",
+      "modalidade": "presencial",
+      "turno": "Noturno"
+    },
+    {
+      "id": "curitiba-tecnico-em-contabilidade-matutino-com-contraturno-a-tarde",
+      "campus_id": "curitiba",
+      "curso_nome": "Técnico em Contabilidade",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 30,
+        "trecho_fonte": "Curitiba; Técnico em Contabilidade; Turmas: 1; Turno: Matutino com contraturno a tarde; Vagas: 30; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "30 vagas; 1 turma(s); turno Matutino com contraturno a tarde; duração 3 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-contabilidade-integrado-ao-ensino-medio",
+      "modalidade": "presencial",
+      "turno": "Matutino com contraturno a tarde"
+    },
+    {
+      "id": "curitiba-tecnico-em-edificacoes-noturno",
+      "campus_id": "curitiba",
+      "curso_nome": "Técnico em Edificações",
+      "tipo_oferta": "técnico subsequente",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Curitiba; Técnico em Edificações; Turmas: 1; Turno: Noturno; Vagas: 40; Duração: 2 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Noturno; duração 2 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
+        "edital_id": "edital-subsequentes-curitiba-assis-2026"
+      },
+      "curso_id": "tecnico-em-edificacoes",
+      "modalidade": "presencial",
+      "turno": "Noturno"
+    },
+    {
+      "id": "curitiba-tecnico-em-eletromecanica-noturno",
+      "campus_id": "curitiba",
+      "curso_nome": "Técnico em Eletromecânica",
+      "tipo_oferta": "técnico subsequente",
+      "vagas": {
+        "quantidade": 30,
+        "trecho_fonte": "Curitiba; Técnico em Eletromecânica; Turmas: 1; Turno: Noturno; Vagas: 30; Duração: 2 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "30 vagas; 1 turma(s); turno Noturno; duração 2 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
+        "edital_id": "edital-subsequentes-curitiba-assis-2026"
+      },
+      "curso_id": "tecnico-em-eletromecanica",
+      "modalidade": "presencial",
+      "turno": "Noturno"
+    },
+    {
+      "id": "curitiba-tecnico-em-eletronica-vespertino-com-contraturno-pela-manha",
+      "campus_id": "curitiba",
+      "curso_nome": "Técnico em Eletrônica",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 30,
+        "trecho_fonte": "Curitiba; Técnico em Eletrônica; Turmas: 1; Turno: Vespertino com contraturno pela manhã; Vagas: 30; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "30 vagas; 1 turma(s); turno Vespertino com contraturno pela manhã; duração 3 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-eletronica-integrado-ao-ensino-medio",
+      "modalidade": "presencial",
+      "turno": "Vespertino com contraturno pela manhã"
+    },
+    {
+      "id": "curitiba-tecnico-em-eletrotecnica-noturno",
+      "campus_id": "curitiba",
+      "curso_nome": "Técnico em Eletrotécnica",
+      "tipo_oferta": "técnico subsequente",
+      "vagas": {
+        "quantidade": 35,
+        "trecho_fonte": "Curitiba; Técnico em Eletrotécnica; Turmas: 1; Turno: Noturno; Vagas: 35; Duração: 2 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "35 vagas; 1 turma(s); turno Noturno; duração 2 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
+        "edital_id": "edital-subsequentes-curitiba-assis-2026"
+      },
+      "curso_id": "tecnico-em-eletrotecnica",
+      "modalidade": "presencial",
+      "turno": "Noturno"
+    },
+    {
+      "id": "curitiba-tecnico-em-enfermagem-matutino",
+      "campus_id": "curitiba",
+      "curso_nome": "Técnico em Enfermagem",
+      "tipo_oferta": "técnico subsequente",
+      "vagas": {
+        "quantidade": 30,
+        "trecho_fonte": "Curitiba; Técnico em Enfermagem; Turmas: 1; Turno: Matutino; Vagas: 30; Duração: 2 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "30 vagas; 1 turma(s); turno Matutino; duração 2 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
+        "edital_id": "edital-subsequentes-curitiba-assis-2026"
+      },
+      "curso_id": "tecnico-em-enfermagem",
+      "modalidade": "presencial",
+      "turno": "Matutino"
+    },
+    {
+      "id": "curitiba-tecnico-em-eventos-noturno",
+      "campus_id": "curitiba",
+      "curso_nome": "Técnico em Eventos",
+      "tipo_oferta": "técnico subsequente",
+      "vagas": {
+        "quantidade": 35,
+        "trecho_fonte": "Curitiba; Técnico em Eventos; Turmas: 1; Turno: Noturno; Vagas: 35; Duração: 1 ano",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "35 vagas; 1 turma(s); turno Noturno; duração 1 ano"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
+        "edital_id": "edital-subsequentes-curitiba-assis-2026"
+      },
+      "curso_id": "tecnico-em-eventos",
+      "modalidade": "presencial",
+      "turno": "Noturno"
+    },
+    {
+      "id": "curitiba-tecnico-em-informatica-matutino",
+      "campus_id": "curitiba",
+      "curso_nome": "Técnico em Informática",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 30,
+        "trecho_fonte": "Curitiba; Técnico em Informática; Turmas: 1; Turno: Matutino; Vagas: 30; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "30 vagas; 1 turma(s); turno Matutino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-informatica-integrado-ao-ensino-medio",
+      "modalidade": "presencial",
+      "turno": "Matutino"
+    },
+    {
+      "id": "curitiba-tecnico-em-mecanica-noturno",
+      "campus_id": "curitiba",
+      "curso_nome": "Técnico em Mecânica",
+      "tipo_oferta": "técnico subsequente",
+      "vagas": {
+        "quantidade": 36,
+        "trecho_fonte": "Curitiba; Técnico em Mecânica; Turmas: 1; Turno: Noturno; Vagas: 36; Duração: 2 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "36 vagas; 1 turma(s); turno Noturno; duração 2 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
+        "edital_id": "edital-subsequentes-curitiba-assis-2026"
+      },
+      "curso_id": "tecnico-em-mecanica",
+      "modalidade": "presencial",
+      "turno": "Noturno"
+    },
+    {
+      "id": "curitiba-tecnico-em-mecanica-vespertino-com-contraturno-pela-manha",
+      "campus_id": "curitiba",
+      "curso_nome": "Técnico em Mecânica",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 30,
+        "trecho_fonte": "Curitiba; Técnico em Mecânica; Turmas: 1; Turno: Vespertino com contraturno pela manhã; Vagas: 30; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "30 vagas; 1 turma(s); turno Vespertino com contraturno pela manhã; duração 3 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-mecanica-integrado-ao-ensino-medio",
+      "modalidade": "presencial",
+      "turno": "Vespertino com contraturno pela manhã"
+    },
+    {
+      "id": "curitiba-tecnico-em-petroleo-e-gas-matutino-com-contraturno-a-tarde",
+      "campus_id": "curitiba",
+      "curso_nome": "Técnico em Petróleo e Gás",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 30,
+        "trecho_fonte": "Curitiba; Técnico em Petróleo e Gás; Turmas: 1; Turno: Matutino com contraturno a tarde; Vagas: 30; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "30 vagas; 1 turma(s); turno Matutino com contraturno a tarde; duração 3 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-petroleo-e-gas-integrado-ao-ensino-medio",
+      "modalidade": "presencial",
+      "turno": "Matutino com contraturno a tarde"
+    },
+    {
+      "id": "curitiba-tecnico-em-processos-fotograficos-matutino",
+      "campus_id": "curitiba",
+      "curso_nome": "Técnico em Processos Fotográficos",
+      "tipo_oferta": "técnico subsequente",
+      "vagas": {
+        "quantidade": 30,
+        "trecho_fonte": "Curitiba; Técnico em Processos Fotográficos; Turmas: 1; Turno: Matutino; Vagas: 30; Duração: 1,5 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "30 vagas; 1 turma(s); turno Matutino; duração 1,5 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
+        "edital_id": "edital-subsequentes-curitiba-assis-2026"
+      },
+      "curso_id": "tecnico-em-processos-fotograficos",
+      "modalidade": "presencial",
+      "turno": "Matutino"
+    },
+    {
+      "id": "curitiba-tecnico-em-processos-fotograficos-vespertino-com-contraturno-pela-manha",
+      "campus_id": "curitiba",
+      "curso_nome": "Técnico em Processos Fotográficos",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 30,
+        "trecho_fonte": "Curitiba; Técnico em Processos Fotográficos; Turmas: 1; Turno: Vespertino com contraturno pela manhã; Vagas: 30; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "30 vagas; 1 turma(s); turno Vespertino com contraturno pela manhã; duração 3 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-processos-fotograficos-integrado-ao-ensino-medio",
+      "modalidade": "presencial",
+      "turno": "Vespertino com contraturno pela manhã"
+    },
+    {
+      "id": "curitiba-tecnico-em-producao-de-audio-e-video-vespertino",
+      "campus_id": "curitiba",
+      "curso_nome": "Técnico em Produção de Áudio e Vídeo",
+      "tipo_oferta": "técnico subsequente",
+      "vagas": {
+        "quantidade": 30,
+        "trecho_fonte": "Curitiba; Técnico em Produção de Áudio e Vídeo; Turmas: 1; Turno: Vespertino; Vagas: 30; Duração: 2 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "30 vagas; 1 turma(s); turno Vespertino; duração 2 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
+        "edital_id": "edital-subsequentes-curitiba-assis-2026"
+      },
+      "curso_id": "tecnico-em-producao-de-audio-e-video",
+      "modalidade": "presencial",
+      "turno": "Vespertino"
+    },
+    {
+      "id": "curitiba-tecnico-em-programacao-de-jogos-digitais-vespertino",
+      "campus_id": "curitiba",
+      "curso_nome": "Técnico em Programação de Jogos Digitais",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 30,
+        "trecho_fonte": "Curitiba; Técnico em Programação de Jogos Digitais; Turmas: 1; Turno: Vespertino; Vagas: 30; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "30 vagas; 1 turma(s); turno Vespertino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-programacao-de-jogos-digitais-integrado-ao-ensino-medio",
+      "modalidade": "presencial",
+      "turno": "Vespertino"
+    },
+    {
+      "id": "curitiba-tecnico-em-protese-dentaria-noturno",
+      "campus_id": "curitiba",
+      "curso_nome": "Técnico em Prótese Dentária",
+      "tipo_oferta": "técnico subsequente",
+      "vagas": {
+        "quantidade": 25,
+        "trecho_fonte": "Curitiba; Técnico em Prótese Dentária; Turmas: 1; Turno: Noturno; Vagas: 25; Duração: 2 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "25 vagas; 1 turma(s); turno Noturno; duração 2 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
+        "edital_id": "edital-subsequentes-curitiba-assis-2026"
+      },
+      "curso_id": "tecnico-em-protese-dentaria",
+      "modalidade": "presencial",
+      "turno": "Noturno"
+    },
+    {
+      "id": "curitiba-tecnico-em-protese-dentaria-vespertino",
+      "campus_id": "curitiba",
+      "curso_nome": "Técnico em Prótese Dentária",
+      "tipo_oferta": "técnico subsequente",
+      "vagas": {
+        "quantidade": 25,
+        "trecho_fonte": "Curitiba; Técnico em Prótese Dentária; Turmas: 1; Turno: Vespertino; Vagas: 25; Duração: 2 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "25 vagas; 1 turma(s); turno Vespertino; duração 2 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
+        "edital_id": "edital-subsequentes-curitiba-assis-2026"
+      },
+      "curso_id": "tecnico-em-protese-dentaria",
+      "modalidade": "presencial",
+      "turno": "Vespertino"
+    },
+    {
+      "id": "curitiba-tecnico-em-radiologia-matutino",
+      "campus_id": "curitiba",
+      "curso_nome": "Técnico em Radiologia",
+      "tipo_oferta": "técnico subsequente",
+      "vagas": {
+        "quantidade": 35,
+        "trecho_fonte": "Curitiba; Técnico em Radiologia; Turmas: 1; Turno: Matutino; Vagas: 35; Duração: 2 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "35 vagas; 1 turma(s); turno Matutino; duração 2 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
+        "edital_id": "edital-subsequentes-curitiba-assis-2026"
+      },
+      "curso_id": "tecnico-em-radiologia",
+      "modalidade": "presencial",
+      "turno": "Matutino"
+    },
+    {
+      "id": "curitiba-tecnico-em-saude-bucal-noturno",
+      "campus_id": "curitiba",
+      "curso_nome": "Técnico em Saúde Bucal",
+      "tipo_oferta": "técnico subsequente",
+      "vagas": {
+        "quantidade": 25,
+        "trecho_fonte": "Curitiba; Técnico em Saúde Bucal; Turmas: 1; Turno: Noturno; Vagas: 25; Duração: 2 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "25 vagas; 1 turma(s); turno Noturno; duração 2 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
+        "edital_id": "edital-subsequentes-curitiba-assis-2026"
+      },
+      "curso_id": "tecnico-em-saude-bucal",
+      "modalidade": "presencial",
+      "turno": "Noturno"
+    },
+    {
+      "id": "curitiba-tecnico-em-telecomunicacoes-noturno",
+      "campus_id": "curitiba",
+      "curso_nome": "Técnico em Telecomunicações",
+      "tipo_oferta": "técnico subsequente",
+      "vagas": {
+        "quantidade": 36,
+        "trecho_fonte": "Curitiba; Técnico em Telecomunicações; Turmas: 1; Turno: Noturno; Vagas: 36; Duração: 2 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "36 vagas; 1 turma(s); turno Noturno; duração 2 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
+        "edital_id": "edital-subsequentes-curitiba-assis-2026"
+      },
+      "curso_id": "tecnico-em-telecomunicacoes",
+      "modalidade": "presencial",
+      "turno": "Noturno"
+    },
+    {
+      "id": "foz-do-iguacu-tecnico-em-aquicultura-diurno-manha-1-tarde-2",
+      "campus_id": "foz-do-iguacu",
+      "curso_nome": "Técnico em Aquicultura",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Foz do Iguaçu; Técnico em Aquicultura; Turmas: 1; Turno: Diurno (Manhã + 1 tarde)²; Vagas: 40; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (Manhã + 1 tarde)²; duração 3 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-aquicultura",
+      "modalidade": "presencial",
+      "turno": "Diurno (Manhã + 1 tarde)²"
+    },
+    {
+      "id": "foz-do-iguacu-tecnico-em-desenvolvimento-de-sistemas-matutino",
+      "campus_id": "foz-do-iguacu",
+      "curso_nome": "Técnico em Desenvolvimento de Sistemas",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Foz do Iguaçu; Técnico em Desenvolvimento de Sistemas; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-desenvolvimento-de-sistemas",
+      "modalidade": "presencial",
+      "turno": "Matutino"
+    },
+    {
+      "id": "foz-do-iguacu-tecnico-em-edificacoes-diurno-manha-1-tarde-2",
+      "campus_id": "foz-do-iguacu",
+      "curso_nome": "Técnico em Edificações",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Foz do Iguaçu; Técnico em Edificações; Turmas: 1; Turno: Diurno (Manhã + 1 tarde)²; Vagas: 40; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (Manhã + 1 tarde)²; duração 3 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-edificacoes-3",
+      "modalidade": "presencial",
+      "turno": "Diurno (Manhã + 1 tarde)²"
     },
     {
       "id": "foz-do-iguacu-tecnico-em-gastronomia-vespertino",
       "campus_id": "foz-do-iguacu",
       "curso_nome": "Técnico em Gastronomia",
       "tipo_oferta": "técnico subsequente",
-      "modalidade": "presencial",
-      "turno": "Vespertino",
       "vagas": {
         "quantidade": 22,
-        "forma_oferta": "22 vagas; 1 turma(s); turno Vespertino; duração 1 ano",
         "trecho_fonte": "Foz do Iguaçu; Técnico em Gastronomia; Turmas: 1; Turno: Vespertino; Vagas: 22; Duração: 1 ano",
-        "status_curadoria": "sugerido"
+        "status_curadoria": "sugerido",
+        "forma_oferta": "22 vagas; 1 turma(s); turno Vespertino; duração 1 ano"
       },
       "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/cursos/"
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/cursos/",
+        "edital_id": "edital-subsequentes-demais-campi-2026"
       },
-      "curso_id": "tecnico-em-gastronomia"
+      "curso_id": "tecnico-em-gastronomia",
+      "modalidade": "presencial",
+      "turno": "Vespertino"
+    },
+    {
+      "id": "foz-do-iguacu-tecnico-em-meio-ambiente-matutino",
+      "campus_id": "foz-do-iguacu",
+      "curso_nome": "Técnico em Meio Ambiente",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Foz do Iguaçu; Técnico em Meio Ambiente; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-meio-ambiente",
+      "modalidade": "presencial",
+      "turno": "Matutino"
+    },
+    {
+      "id": "goioere-tecnico-em-informatica-matutino",
+      "campus_id": "goioere",
+      "curso_nome": "Técnico em Informática",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 80,
+        "trecho_fonte": "Goioerê; Técnico em Informática; Turmas: 2; Turno: Matutino; Vagas: 80; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "80 vagas; 2 turma(s); turno Matutino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-informatica",
+      "modalidade": "presencial",
+      "turno": "Matutino"
+    },
+    {
+      "id": "irati-tecnico-em-agroecologia-matutino",
+      "campus_id": "irati",
+      "curso_nome": "Técnico em Agroecologia",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 80,
+        "trecho_fonte": "Irati; Técnico em Agroecologia; Turmas: 2; Turno: Matutino; Vagas: 80; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "80 vagas; 2 turma(s); turno Matutino; duração 3 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-agroecologia",
+      "modalidade": "presencial",
+      "turno": "Matutino"
+    },
+    {
+      "id": "irati-tecnico-em-informatica-matutino",
+      "campus_id": "irati",
+      "curso_nome": "Técnico em Informática",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Irati; Técnico em Informática; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 3 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-informatica",
+      "modalidade": "presencial",
+      "turno": "Matutino"
+    },
+    {
+      "id": "irati-tecnico-em-informatica-vespertino",
+      "campus_id": "irati",
+      "curso_nome": "Técnico em Informática",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 80,
+        "trecho_fonte": "Irati; Técnico em Informática; Turmas: 2; Turno: Vespertino; Vagas: 80; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "80 vagas; 2 turma(s); turno Vespertino; duração 3 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-informatica",
+      "modalidade": "presencial",
+      "turno": "Vespertino"
+    },
+    {
+      "id": "ivaipora-tecnico-em-agropecuaria-diurno-manha-e-tarde-2",
+      "campus_id": "ivaipora",
+      "curso_nome": "Técnico em Agropecuária",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 35,
+        "trecho_fonte": "Ivaiporã; Técnico em Agropecuária; Turmas: 1; Turno: Diurno (manhã e tarde)²; Vagas: 35; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "35 vagas; 1 turma(s); turno Diurno (manhã e tarde)²; duração 3 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-agropecuaria-integrado-ao-ensino-medio",
+      "modalidade": "presencial",
+      "turno": "Diurno (manhã e tarde)²"
+    },
+    {
+      "id": "ivaipora-tecnico-em-eletrotecnica-diurno-manha-e-tarde-2",
+      "campus_id": "ivaipora",
+      "curso_nome": "Técnico em Eletrotécnica",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Ivaiporã; Técnico em Eletrotécnica; Turmas: 1; Turno: Diurno (manhã e tarde)²; Vagas: 40; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã e tarde)²; duração 3 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-eletrotecnica-integrado",
+      "modalidade": "presencial",
+      "turno": "Diurno (manhã e tarde)²"
     },
     {
       "id": "ivaipora-tecnico-em-eletrotecnica-noturno",
       "campus_id": "ivaipora",
       "curso_nome": "Técnico em Eletrotécnica",
       "tipo_oferta": "técnico subsequente",
-      "modalidade": "presencial",
-      "turno": "Noturno",
       "vagas": {
         "quantidade": 30,
-        "forma_oferta": "30 vagas; 1 turma(s); turno Noturno; duração 2 anos",
         "trecho_fonte": "Ivaiporã; Técnico em Eletrotécnica; Turmas: 1; Turno: Noturno; Vagas: 30; Duração: 2 anos",
-        "status_curadoria": "sugerido"
+        "status_curadoria": "sugerido",
+        "forma_oferta": "30 vagas; 1 turma(s); turno Noturno; duração 2 anos"
       },
       "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/cursos/"
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/cursos/",
+        "edital_id": "edital-subsequentes-demais-campi-2026"
       },
-      "curso_id": "tecnico-em-eletrotecnica-subsequente"
+      "curso_id": "tecnico-em-eletrotecnica-subsequente",
+      "modalidade": "presencial",
+      "turno": "Noturno"
+    },
+    {
+      "id": "ivaipora-tecnico-em-informatica-diurno-manha-e-tarde-2",
+      "campus_id": "ivaipora",
+      "curso_nome": "Técnico em Informática",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Ivaiporã; Técnico em Informática; Turmas: 1; Turno: Diurno (manhã e tarde)²; Vagas: 40; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã e tarde)²; duração 3 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-informatica-integrado-ao-ensino-medio",
+      "modalidade": "presencial",
+      "turno": "Diurno (manhã e tarde)²"
+    },
+    {
+      "id": "jacarezinho-tecnico-em-alimentos-diurno",
+      "campus_id": "jacarezinho",
+      "curso_nome": "Técnico em Alimentos",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Jacarezinho; Técnico em Alimentos; Turmas: 1; Turno: Diurno; Vagas: 40; Duração: 3,5 a 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno; duração 3,5 a 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-alimentos",
+      "modalidade": "presencial",
+      "turno": "Diurno"
+    },
+    {
+      "id": "jacarezinho-tecnico-em-eletrotecnica-diurno",
+      "campus_id": "jacarezinho",
+      "curso_nome": "Técnico em Eletrotécnica",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 20,
+        "trecho_fonte": "Jacarezinho; Técnico em Eletrotécnica; Turmas: 1; Turno: Diurno; Vagas: 20; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "20 vagas; 1 turma(s); turno Diurno; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-eletrotecnica",
+      "modalidade": "presencial",
+      "turno": "Diurno"
+    },
+    {
+      "id": "jacarezinho-tecnico-em-informatica-diurno",
+      "campus_id": "jacarezinho",
+      "curso_nome": "Técnico em Informática",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Jacarezinho; Técnico em Informática; Turmas: 1; Turno: Diurno; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-informatica",
+      "modalidade": "presencial",
+      "turno": "Diurno"
+    },
+    {
+      "id": "jacarezinho-tecnico-em-mecanica-diurno",
+      "campus_id": "jacarezinho",
+      "curso_nome": "Técnico em Mecânica",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 20,
+        "trecho_fonte": "Jacarezinho; Técnico em Mecânica; Turmas: 1; Turno: Diurno; Vagas: 20; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "20 vagas; 1 turma(s); turno Diurno; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-mecanica",
+      "modalidade": "presencial",
+      "turno": "Diurno"
     },
     {
       "id": "jacarezinho-tecnico-em-teatro-noturno",
       "campus_id": "jacarezinho",
       "curso_nome": "Técnico em Teatro",
       "tipo_oferta": "técnico subsequente",
-      "modalidade": "presencial",
-      "turno": "Noturno",
       "vagas": {
         "quantidade": 30,
-        "forma_oferta": "30 vagas; 1 turma(s); turno Noturno; duração 2 anos",
         "trecho_fonte": "Jacarezinho; Técnico em Teatro; Turmas: 1; Turno: Noturno; Vagas: 30; Duração: 2 anos",
-        "status_curadoria": "sugerido"
+        "status_curadoria": "sugerido",
+        "forma_oferta": "30 vagas; 1 turma(s); turno Noturno; duração 2 anos"
       },
       "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/cursos/"
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/cursos/",
+        "edital_id": "edital-subsequentes-demais-campi-2026"
       },
-      "curso_id": "tecnico-em-teatro"
+      "curso_id": "tecnico-em-teatro",
+      "modalidade": "presencial",
+      "turno": "Noturno"
+    },
+    {
+      "id": "jaguariaiva-tecnico-em-alimentos-diurno-manha-e-tarde-1",
+      "campus_id": "jaguariaiva",
+      "curso_nome": "Técnico em Alimentos",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Jaguariaíva; Técnico em Alimentos; Turmas: 1; Turno: Diurno (manhã e tarde)¹; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã e tarde)¹; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-alimentos-integrado-ao-ensino-medio",
+      "modalidade": "presencial",
+      "turno": "Diurno (manhã e tarde)¹"
+    },
+    {
+      "id": "jaguariaiva-tecnico-em-biotecnologia-diurno-manha-e-tarde-1",
+      "campus_id": "jaguariaiva",
+      "curso_nome": "Técnico em Biotecnologia",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Jaguariaíva; Técnico em Biotecnologia; Turmas: 1; Turno: Diurno (manhã e tarde)¹; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã e tarde)¹; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "modalidade": "presencial",
+      "turno": "Diurno (manhã e tarde)¹"
+    },
+    {
+      "id": "londrina-tecnico-em-biotecnologia-matutino",
+      "campus_id": "londrina",
+      "curso_nome": "Técnico em Biotecnologia",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Londrina; Técnico em Biotecnologia; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "modalidade": "presencial",
+      "turno": "Matutino"
     },
     {
       "id": "londrina-tecnico-em-enfermagem-diurno1",
       "campus_id": "londrina",
       "curso_nome": "Técnico em Enfermagem",
       "tipo_oferta": "técnico subsequente",
-      "modalidade": "presencial",
-      "turno": "Diurno¹",
       "vagas": {
         "quantidade": 30,
-        "forma_oferta": "30 vagas; 1 turma(s); turno Diurno¹; duração 2 anos",
         "trecho_fonte": "Londrina; Técnico em Enfermagem; Turmas: 1; Turno: Diurno¹; Vagas: 30; Duração: 2 anos",
-        "status_curadoria": "sugerido"
+        "status_curadoria": "sugerido",
+        "forma_oferta": "30 vagas; 1 turma(s); turno Diurno¹; duração 2 anos"
       },
       "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/cursos/"
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/cursos/",
+        "edital_id": "edital-subsequentes-demais-campi-2026"
       },
-      "curso_id": "tecnico-em-enfermagem"
+      "curso_id": "tecnico-em-enfermagem",
+      "modalidade": "presencial",
+      "turno": "Diurno¹"
+    },
+    {
+      "id": "londrina-tecnico-em-informatica-vespertino",
+      "campus_id": "londrina",
+      "curso_nome": "Técnico em Informática",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Londrina; Técnico em Informática; Turmas: 1; Turno: Vespertino; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Vespertino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-informatica-integrado-ao-ensino-medio",
+      "modalidade": "presencial",
+      "turno": "Vespertino"
     },
     {
       "id": "londrina-tecnico-em-massoterapia-matutino",
       "campus_id": "londrina",
       "curso_nome": "Técnico em Massoterapia",
       "tipo_oferta": "técnico subsequente",
-      "modalidade": "presencial",
-      "turno": "Matutino",
       "vagas": {
         "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 2 anos",
         "trecho_fonte": "Londrina; Técnico em Massoterapia; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 2 anos",
-        "status_curadoria": "sugerido"
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 2 anos"
       },
       "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/cursos/"
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/cursos/",
+        "edital_id": "edital-subsequentes-demais-campi-2026"
       },
-      "curso_id": "tecnico-em-massoterapia"
+      "curso_id": "tecnico-em-massoterapia",
+      "modalidade": "presencial",
+      "turno": "Matutino"
     },
     {
       "id": "londrina-tecnico-em-protese-dentaria-noturno",
       "campus_id": "londrina",
       "curso_nome": "Técnico em Prótese Dentária",
       "tipo_oferta": "técnico subsequente",
-      "modalidade": "presencial",
-      "turno": "Noturno",
       "vagas": {
         "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Noturno; duração 2 anos",
         "trecho_fonte": "Londrina; Técnico em Prótese Dentária; Turmas: 1; Turno: Noturno; Vagas: 40; Duração: 2 anos",
-        "status_curadoria": "sugerido"
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Noturno; duração 2 anos"
       },
       "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/cursos/"
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/cursos/",
+        "edital_id": "edital-subsequentes-demais-campi-2026"
       },
-      "curso_id": "tecnico-em-protese-dentaria-2"
+      "curso_id": "tecnico-em-protese-dentaria-2",
+      "modalidade": "presencial",
+      "turno": "Noturno"
     },
     {
       "id": "londrina-tecnico-em-saude-bucal-matutino",
       "campus_id": "londrina",
       "curso_nome": "Técnico em Saúde Bucal",
       "tipo_oferta": "técnico subsequente",
-      "modalidade": "presencial",
-      "turno": "Matutino",
       "vagas": {
         "quantidade": 30,
-        "forma_oferta": "30 vagas; 1 turma(s); turno Matutino; duração 2 anos",
         "trecho_fonte": "Londrina; Técnico em Saúde Bucal; Turmas: 1; Turno: Matutino; Vagas: 30; Duração: 2 anos",
-        "status_curadoria": "sugerido"
+        "status_curadoria": "sugerido",
+        "forma_oferta": "30 vagas; 1 turma(s); turno Matutino; duração 2 anos"
       },
       "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/cursos/"
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/cursos/",
+        "edital_id": "edital-subsequentes-demais-campi-2026"
       },
-      "curso_id": "tecnico-em-saude-bucal"
+      "curso_id": "tecnico-em-saude-bucal",
+      "modalidade": "presencial",
+      "turno": "Matutino"
+    },
+    {
+      "id": "palmas-tecnico-em-alimentos-diurno-manha-e-tarde",
+      "campus_id": "palmas",
+      "curso_nome": "Técnico em Alimentos",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Palmas; Técnico em Alimentos; Turmas: 1; Turno: Diurno (manhã e tarde); Vagas: 40; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã e tarde); duração 3 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "modalidade": "presencial",
+      "turno": "Diurno (manhã e tarde)"
+    },
+    {
+      "id": "palmas-tecnico-em-informatica-para-internet-diurno-manha-e-tarde",
+      "campus_id": "palmas",
+      "curso_nome": "Técnico em Informática para Internet",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Palmas; Técnico em Informática para Internet; Turmas: 1; Turno: Diurno (manhã e tarde); Vagas: 40; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã e tarde); duração 3 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "modalidade": "presencial",
+      "turno": "Diurno (manhã e tarde)"
+    },
+    {
+      "id": "palmas-tecnico-em-servicos-juridicos-diurno-manha-e-tarde",
+      "campus_id": "palmas",
+      "curso_nome": "Técnico em Serviços Jurídicos",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Palmas; Técnico em Serviços Jurídicos; Turmas: 1; Turno: Diurno (manhã e tarde); Vagas: 40; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã e tarde); duração 3 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "modalidade": "presencial",
+      "turno": "Diurno (manhã e tarde)"
+    },
+    {
+      "id": "paranagua-tecnico-em-informatica-vespertino",
+      "campus_id": "paranagua",
+      "curso_nome": "Técnico em Informática",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Paranaguá; Técnico em Informática; Turmas: 1; Turno: Vespertino; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Vespertino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-informatica",
+      "modalidade": "presencial",
+      "turno": "Vespertino"
+    },
+    {
+      "id": "paranagua-tecnico-em-mecanica-diurno-tarde-e-manha-1",
+      "campus_id": "paranagua",
+      "curso_nome": "Técnico em Mecânica",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Paranaguá; Técnico em Mecânica; Turmas: 1; Turno: Diurno (tarde e manhã)¹; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (tarde e manhã)¹; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-mecanica",
+      "modalidade": "presencial",
+      "turno": "Diurno (tarde e manhã)¹"
+    },
+    {
+      "id": "paranagua-tecnico-em-meio-ambiente-vespertino",
+      "campus_id": "paranagua",
+      "curso_nome": "Técnico em Meio Ambiente",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Paranaguá; Técnico em Meio Ambiente; Turmas: 1; Turno: Vespertino; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Vespertino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-meio-ambiente",
+      "modalidade": "presencial",
+      "turno": "Vespertino"
+    },
+    {
+      "id": "paranagua-tecnico-em-producao-cultural-matutino",
+      "campus_id": "paranagua",
+      "curso_nome": "Técnico em Produção Cultural",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Paranaguá; Técnico em Produção Cultural; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-producao-cultural",
+      "modalidade": "presencial",
+      "turno": "Matutino"
+    },
+    {
+      "id": "paranavai-tecnico-em-agroindustria-matutino",
+      "campus_id": "paranavai",
+      "curso_nome": "Técnico em Agroindústria",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Paranavaí; Técnico em Agroindústria; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-agroindustria",
+      "modalidade": "presencial",
+      "turno": "Matutino"
     },
     {
       "id": "paranavai-tecnico-em-eletromecanica-noturno",
       "campus_id": "paranavai",
       "curso_nome": "Técnico em Eletromecânica",
       "tipo_oferta": "técnico subsequente",
-      "modalidade": "presencial",
-      "turno": "Noturno",
       "vagas": {
         "quantidade": 40,
-        "forma_oferta": "40 vagas; 1 turma(s); turno Noturno; duração 2 anos",
         "trecho_fonte": "Paranavaí; Técnico em Eletromecânica; Turmas: 1; Turno: Noturno; Vagas: 40; Duração: 2 anos",
-        "status_curadoria": "sugerido"
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Noturno; duração 2 anos"
       },
       "fonte": {
-        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/cursos/"
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/cursos/",
+        "edital_id": "edital-subsequentes-demais-campi-2026"
       },
-      "curso_id": "tecnico-em-eletromecanica-subsequente"
+      "curso_id": "tecnico-em-eletromecanica-subsequente",
+      "modalidade": "presencial",
+      "turno": "Noturno"
+    },
+    {
+      "id": "paranavai-tecnico-em-informatica-matutino",
+      "campus_id": "paranavai",
+      "curso_nome": "Técnico em Informática",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Paranavaí; Técnico em Informática; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-informatica",
+      "modalidade": "presencial",
+      "turno": "Matutino"
+    },
+    {
+      "id": "paranavai-tecnico-em-mecatronica-matutino",
+      "campus_id": "paranavai",
+      "curso_nome": "Técnico em Mecatrônica",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Paranavaí; Técnico em Mecatrônica; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-mecatronica",
+      "modalidade": "presencial",
+      "turno": "Matutino"
+    },
+    {
+      "id": "pinhais-tecnico-em-administracao-matutino",
+      "campus_id": "pinhais",
+      "curso_nome": "Técnico em Administração",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Pinhais; Técnico em Administração; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-administracao-integrado-ao-ensino-medio",
+      "modalidade": "presencial",
+      "turno": "Matutino"
+    },
+    {
+      "id": "pinhais-tecnico-em-administracao-vespertino",
+      "campus_id": "pinhais",
+      "curso_nome": "Técnico em Administração",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Pinhais; Técnico em Administração; Turmas: 1; Turno: Vespertino; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Vespertino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-administracao-integrado-ao-ensino-medio",
+      "modalidade": "presencial",
+      "turno": "Vespertino"
+    },
+    {
+      "id": "pinhais-tecnico-em-informatica-matutino",
+      "campus_id": "pinhais",
+      "curso_nome": "Técnico em Informática",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Pinhais; Técnico em Informática; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-informatica-integrado-ao-ensino-medio",
+      "modalidade": "presencial",
+      "turno": "Matutino"
+    },
+    {
+      "id": "pinhais-tecnico-em-informatica-vespertino",
+      "campus_id": "pinhais",
+      "curso_nome": "Técnico em Informática",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Pinhais; Técnico em Informática; Turmas: 1; Turno: Vespertino; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Vespertino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-informatica-integrado-ao-ensino-medio",
+      "modalidade": "presencial",
+      "turno": "Vespertino"
+    },
+    {
+      "id": "pitanga-tecnico-em-alimentos-matutino",
+      "campus_id": "pitanga",
+      "curso_nome": "Técnico em Alimentos",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Pitanga; Técnico em Alimentos; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-alimentos",
+      "modalidade": "presencial",
+      "turno": "Matutino"
+    },
+    {
+      "id": "pitanga-tecnico-em-cooperativismo-matutino",
+      "campus_id": "pitanga",
+      "curso_nome": "Técnico em Cooperativismo",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Pitanga; Técnico em Cooperativismo; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-cooperativismo",
+      "modalidade": "presencial",
+      "turno": "Matutino"
+    },
+    {
+      "id": "pitanga-tecnico-em-desenvolvimento-de-sistemas-matutino",
+      "campus_id": "pitanga",
+      "curso_nome": "Técnico em Desenvolvimento de Sistemas",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Pitanga; Técnico em Desenvolvimento de Sistemas; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-desenvolvimento-de-sistemas",
+      "modalidade": "presencial",
+      "turno": "Matutino"
+    },
+    {
+      "id": "ponta-grossa-tecnico-em-informatica-diurno-integral",
+      "campus_id": "ponta-grossa",
+      "curso_nome": "Técnico em Informática",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 35,
+        "trecho_fonte": "Ponta Grossa; Técnico em Informática; Turmas: 1; Turno: Diurno (Integral); Vagas: 35; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "35 vagas; 1 turma(s); turno Diurno (Integral); duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "modalidade": "presencial",
+      "turno": "Diurno (Integral)"
+    },
+    {
+      "id": "quedas-do-iguacu-tecnico-em-informatica-diurno-manha-2-tardes-por-semana-1",
+      "campus_id": "quedas-do-iguacu",
+      "curso_nome": "Técnico em Informática",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 38,
+        "trecho_fonte": "Quedas do Iguaçu; Técnico em Informática; Turmas: 1; Turno: Diurno (Manhã + 2 tardes por semana)¹; Vagas: 38; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "38 vagas; 1 turma(s); turno Diurno (Manhã + 2 tardes por semana)¹; duração 3 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-informatica",
+      "modalidade": "presencial",
+      "turno": "Diurno (Manhã + 2 tardes por semana)¹"
+    },
+    {
+      "id": "quedas-do-iguacu-tecnico-em-meio-ambiente-diurno-manha-2-tardes-por-semana-1",
+      "campus_id": "quedas-do-iguacu",
+      "curso_nome": "Técnico em Meio Ambiente",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 38,
+        "trecho_fonte": "Quedas do Iguaçu; Técnico em Meio Ambiente; Turmas: 1; Turno: Diurno (Manhã + 2 tardes por semana)¹; Vagas: 38; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "38 vagas; 1 turma(s); turno Diurno (Manhã + 2 tardes por semana)¹; duração 3 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-meio-ambiente",
+      "modalidade": "presencial",
+      "turno": "Diurno (Manhã + 2 tardes por semana)¹"
+    },
+    {
+      "id": "telemaco-borba-tecnico-em-automacao-industrial-matutino-vespertino1",
+      "campus_id": "telemaco-borba",
+      "curso_nome": "Técnico em Automação Industrial",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Telêmaco Borba; Técnico em Automação Industrial; Turmas: 1; Turno: Matutino/Vespertino¹; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino/Vespertino¹; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-automacao-industrial-integrado-ao-ensino-medio",
+      "modalidade": "presencial",
+      "turno": "Matutino/Vespertino¹"
+    },
+    {
+      "id": "telemaco-borba-tecnico-em-informatica-para-internet-matutino-vespertino1",
+      "campus_id": "telemaco-borba",
+      "curso_nome": "Técnico em Informática para Internet",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Telêmaco Borba; Técnico em Informática para Internet; Turmas: 1; Turno: Matutino/Vespertino¹; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino/Vespertino¹; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-informatica-para-internet-integrado-ao-ensino-medio",
+      "modalidade": "presencial",
+      "turno": "Matutino/Vespertino¹"
+    },
+    {
+      "id": "telemaco-borba-tecnico-em-mecanica-matutino-vespertino1",
+      "campus_id": "telemaco-borba",
+      "curso_nome": "Técnico em Mecânica",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Telêmaco Borba; Técnico em Mecânica; Turmas: 1; Turno: Matutino/Vespertino¹; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino/Vespertino¹; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-mecanica",
+      "modalidade": "presencial",
+      "turno": "Matutino/Vespertino¹"
+    },
+    {
+      "id": "telemaco-borba-tecnico-em-programacao-de-jogos-digitais-matutino-vespertino1",
+      "campus_id": "telemaco-borba",
+      "curso_nome": "Técnico em Programação de Jogos Digitais",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Telêmaco Borba; Técnico em Programação de Jogos Digitais; Turmas: 1; Turno: Matutino/Vespertino¹; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino/Vespertino¹; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-programacao-de-jogos-digitais",
+      "modalidade": "presencial",
+      "turno": "Matutino/Vespertino¹"
+    },
+    {
+      "id": "toledo-tecnico-em-informatica-para-internet-diurno-manha-2-tardes-1",
+      "campus_id": "toledo",
+      "curso_nome": "Técnico em Informática para Internet",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Toledo; Técnico em Informática para Internet; Turmas: 1; Turno: Diurno (Manhã + 2 tardes)¹; Vagas: 40; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (Manhã + 2 tardes)¹; duração 3 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "modalidade": "presencial",
+      "turno": "Diurno (Manhã + 2 tardes)¹"
+    },
+    {
+      "id": "umuarama-tecnico-em-edificacoes-matutino-vespertino1",
+      "campus_id": "umuarama",
+      "curso_nome": "Técnico em Edificações",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Umuarama; Técnico em Edificações; Turmas: 1; Turno: Matutino/Vespertino¹; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino/Vespertino¹; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-edificacoes-integrado-ao-ensino-medio",
+      "modalidade": "presencial",
+      "turno": "Matutino/Vespertino¹"
+    },
+    {
+      "id": "umuarama-tecnico-em-informatica-matutino-vespertino1",
+      "campus_id": "umuarama",
+      "curso_nome": "Técnico em Informática",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Umuarama; Técnico em Informática; Turmas: 1; Turno: Matutino/Vespertino¹; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino/Vespertino¹; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-informatica-integrado-ao-ensino-medio",
+      "modalidade": "presencial",
+      "turno": "Matutino/Vespertino¹"
+    },
+    {
+      "id": "umuarama-tecnico-em-quimica-matutino-vespertino1",
+      "campus_id": "umuarama",
+      "curso_nome": "Técnico em Química",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "Umuarama; Técnico em Química; Turmas: 1; Turno: Matutino/Vespertino¹; Vagas: 40; Duração: 4 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Matutino/Vespertino¹; duração 4 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-quimica-integrado-ao-ensino-medio",
+      "modalidade": "presencial",
+      "turno": "Matutino/Vespertino¹"
+    },
+    {
+      "id": "uniao-da-vitoria-tecnico-em-informatica-diurno-manha-2-tardes-1",
+      "campus_id": "uniao-da-vitoria",
+      "curso_nome": "Técnico em Informática",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 80,
+        "trecho_fonte": "União da Vitória; Técnico em Informática; Turmas: 2; Turno: Diurno (Manhã + 2 tardes)¹; Vagas: 80; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "80 vagas; 2 turma(s); turno Diurno (Manhã + 2 tardes)¹; duração 3 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-informatica-integrado-ao-ensino-medio",
+      "modalidade": "presencial",
+      "turno": "Diurno (Manhã + 2 tardes)¹"
+    },
+    {
+      "id": "uniao-da-vitoria-tecnico-em-meio-ambiente-diurno-manha-2-tardes-1",
+      "campus_id": "uniao-da-vitoria",
+      "curso_nome": "Técnico em Meio Ambiente",
+      "tipo_oferta": "técnico integrado",
+      "vagas": {
+        "quantidade": 40,
+        "trecho_fonte": "União da Vitória; Técnico em Meio Ambiente; Turmas: 1; Turno: Diurno (Manhã + 2 tardes)¹; Vagas: 40; Duração: 3 anos",
+        "status_curadoria": "sugerido",
+        "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (Manhã + 2 tardes)¹; duração 3 anos"
+      },
+      "fonte": {
+        "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
+        "edital_id": "edital-integrados-2026"
+      },
+      "curso_id": "tecnico-em-meio-ambiente-integrado-ao-ensino-medio",
+      "modalidade": "presencial",
+      "turno": "Diurno (Manhã + 2 tardes)¹"
     }
   ],
   "curadoria": {
     "status_ofertas": "dados_parciais",
-    "observacoes": "Ofertas de cursos técnicos integrados e subsequentes extraídas das páginas oficiais de cursos do Processo Seletivo 2026. Editais registrados por página oficial; detalhamento por cotas ainda pendente.",
-    "verificado_em": "2026-05-11"
+    "verificado_em": "2026-05-11",
+    "observacoes": "Ofertas de cursos técnicos integrados e subsequentes extraídas das páginas oficiais de cursos do Processo Seletivo 2026. Editais registrados por página oficial; detalhamento por cotas ainda pendente."
   }
 }

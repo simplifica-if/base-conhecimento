@@ -6,80 +6,48 @@
     "site": "https://paranavai.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/paranavai/secretaria/protocolos-academicos/"
   },
+  "curadoria": {
+    "status_cursos": "dados_parciais",
+    "verificado_em": "2026-05-11"
+  },
   "horario_aulas": {
+    "coletado_em": "2026-05-14T11:48:00-03:00",
+    "status_curadoria": "revisado",
     "url": "https://ifpr.edu.br/paranavai/horario/",
     "titulo_fonte": "Horário de Aula",
-    "coletado_em": "2026-05-14T11:48:09-03:00",
-    "tipo_fonte": "pagina_ifpr",
-    "status_curadoria": "revisado"
+    "tipo_fonte": "pagina_ifpr"
   },
   "cursos": [
-    {
-      "id": "especializacao-em-gestao-da-qualidade-e-tecnologia-de-alimentos",
-      "nome": "Especialização em Gestão da Qualidade e Tecnologia de Alimentos",
-      "nivel": "pós-graduação",
-      "tipo_oferta": "especialização",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/paranavai/cursos-de-pos-graduacao/gestao-da-qualidade-e-tecnologia-de-alimentos/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2021/11/PPC_final.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/paranavai/especializacao-em-gestao-da-qualidade-e-tecnologia-de-alimentos.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2014,
-            "trecho_fonte": "Observa-se o seguinte artigo da Resolução CONSUP/IFPR nº 09/2014: 39",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 40,
-            "trecho_fonte": "Número de vagas ofertadas: mínimo 20, máximo 40 vagas",
-            "secao": "vagas ofertadas",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
-          }
-        }
-      }
-    },
     {
       "id": "engenharia-de-software",
       "nome": "Engenharia de Software (bacharelado)",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
+      "url": "https://ifpr.edu.br/paranavai/cursos-superiores/engenharia-de-software-bacharelado/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/paranavai/cursos-superiores/engenharia-de-software-bacharelado/",
       "ppc": {
         "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2025/01/PPC-de-Engenharia-de-Software-–-Turmas-iniciadas-ate-2022-Atualizado.pdf",
         "markdown_path": "institucional/ifpr/ppcs/paranavai/engenharia-de-software.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2018,
-            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO 37 DE 29 DE JULHO DE 2018",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2018",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anuais): 40",
-            "secao": "Vagas totais (anuais)",
             "status_curadoria": "sugerido",
-            "forma_oferta": "40 vagas anuais"
+            "forma_oferta": "40 vagas anuais",
+            "secao": "Vagas totais (anuais)"
           }
         }
       }
@@ -89,33 +57,66 @@
       "nome": "Engenharia Elétrica (bacharelado)",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
+      "url": "https://ifpr.edu.br/paranavai/cursos-superiores/engenharia-eletrica/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/paranavai/cursos-superiores/engenharia-eletrica/",
       "ppc": {
         "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2025/01/PPC_Eletrica2023__APS_2025_vf.pdf",
         "markdown_path": "institucional/ifpr/ppcs/paranavai/engenharia-eletrica.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2014,
-            "trecho_fonte": "O Jubilamento do curso obedece à regulamentação da Resolução CONSUP/IFPR n°14 de 10 de junho de 2014, onde define que o tempo máximo para jubilamento consiste no dobro do tempo mínimo previsto no PPC menos um ano",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2014",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) 40 vagas por ano",
-            "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
             "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais"
+            "forma_oferta": "40 vagas anuais",
+            "secao": "Vagas totais (anual)"
+          }
+        }
+      }
+    },
+    {
+      "id": "especializacao-em-gestao-da-qualidade-e-tecnologia-de-alimentos",
+      "nome": "Especialização em Gestão da Qualidade e Tecnologia de Alimentos",
+      "nivel": "pós-graduação",
+      "tipo_oferta": "especialização",
+      "url": "https://ifpr.edu.br/paranavai/cursos-de-pos-graduacao/gestao-da-qualidade-e-tecnologia-de-alimentos/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2021/11/PPC_final.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/paranavai/especializacao-em-gestao-da-qualidade-e-tecnologia-de-alimentos.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2014,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2014",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Número de vagas ofertadas: mínimo 20, máximo 40 vagas",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "vagas ofertadas"
           }
         }
       }
@@ -125,33 +126,57 @@
       "nome": "Licenciatura em Química",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
+      "url": "https://ifpr.edu.br/paranavai/cursos-superiores/licenciatura-em-quimica/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/paranavai/cursos-superiores/licenciatura-em-quimica/",
       "ppc": {
         "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2025/01/PPC_LicQUIMICA_2025_AJUSTES_EXTRAORDINARIOS_ATIVIDADES_PRATICAS_SUPERVISIONADAS_SEi.pdf",
         "markdown_path": "institucional/ifpr/ppcs/paranavai/licenciatura-em-quimica.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2013,
-            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO 24/2013",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2013",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Quantidade de Vagas: 40 (máximo) anuais Carga horária do curso: 3201 horas",
-            "secao": "Quantidade de Vagas",
             "status_curadoria": "sugerido",
-            "forma_oferta": "40 vagas anuais"
+            "forma_oferta": "40 vagas anuais",
+            "secao": "Quantidade de Vagas"
           }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-agroindustria",
+      "nome": "Técnico em Agroindústria",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/paranavai/tecnico-em-agroindustria/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "suap": {
+        "id": 72,
+        "codigo": "PVAI001",
+        "vagas": 40
+      },
+      "ppc": {
+        "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2017/05/PPC_Integrado_Agroindustria_enviadoPROENS_12-01-2017_curso2017.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/paranavai/tecnico-em-agroindustria.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-19"
         }
       }
     },
@@ -160,64 +185,38 @@
       "nome": "Técnico em Eletromecânica Subsequente",
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
+      "url": "https://ifpr.edu.br/paranavai/cursos-tecnicos-subsequentes/tecnico-em-eletromecanica-subsequente/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/paranavai/cursos-tecnicos-subsequentes/tecnico-em-eletromecanica-subsequente/",
+      "suap": {
+        "id": 82,
+        "codigo": "PVAI002",
+        "vagas": 40
+      },
       "ppc": {
         "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2019/12/PPC-Eletromecanica-2020.pdf",
         "markdown_path": "institucional/ifpr/ppcs/paranavai/tecnico-em-eletromecanica-subsequente.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2020,
-            "trecho_fonte": "Nível: Médio Forma de oferta: Subsequente Modalidade de oferta: ( x ) Presencial ( ) A distância Tempo de duração total do curso em anos: 2 Turno de oferta: ( ) Matutino ( ) Vespertino ( x ) Noturno ( ) Diurno ( ) Integral Horário de oferta do curso: 19:20 - 22:50 Carga horária t",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2020",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
-            "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Número máximo de vagas do curso"
           }
         }
-      },
-      "suap": {
-        "id": 82,
-        "codigo": "PVAI002",
-        "vagas": 40
-      }
-    },
-    {
-      "id": "tecnico-em-agroindustria",
-      "nome": "Técnico em Agroindústria",
-      "nivel": "médio",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/paranavai/tecnico-em-agroindustria/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2017/05/PPC_Integrado_Agroindustria_enviadoPROENS_12-01-2017_curso2017.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/paranavai/tecnico-em-agroindustria.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-19",
-          "status": "convertido"
-        }
-      },
-      "suap": {
-        "id": 72,
-        "codigo": "PVAI001",
-        "vagas": 40
       }
     },
     {
@@ -225,34 +224,34 @@
       "nome": "Técnico em Informática",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/paranavai/tecnico-em-informatica/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/paranavai/tecnico-em-informatica/",
+      "suap": {
+        "id": 81,
+        "codigo": "PVAI003",
+        "vagas": 40
+      },
       "ppc": {
         "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2017/05/PPC-INFORMARTICA-TURMAS-INICIO-2016.pdf",
         "markdown_path": "institucional/ifpr/ppcs/paranavai/tecnico-em-informatica.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-20",
-          "status": "convertido"
+          "convertido_em": "2026-05-20"
         },
         "metadados": {
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Quantidade de Vagas : 20 (mínimo) a 40 (máximo)",
-            "secao": "Características gerais do curso",
             "status_curadoria": "revisado",
-            "revisado_em": "2026-05-20",
-            "forma_oferta": "mínimo de 20 vagas e máximo de 40 vagas"
+            "forma_oferta": "mínimo de 20 vagas e máximo de 40 vagas",
+            "secao": "Características gerais do curso",
+            "revisado_em": "2026-05-20"
           }
         }
-      },
-      "suap": {
-        "id": 81,
-        "codigo": "PVAI003",
-        "vagas": 40
       }
     },
     {
@@ -260,10 +259,10 @@
       "nome": "Técnico em Mecatrônica",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/paranavai/ensino-medio/tecnico-em-mecatronica/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/paranavai/ensino-medio/tecnico-em-mecatronica/",
       "suap": {
         "id": 73,
         "codigo": "PVAI004",
@@ -273,35 +272,26 @@
         "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2017/05/PPC_Mecatronica_Pvai_inicio2017.pdf",
         "markdown_path": "institucional/ifpr/ppcs/paranavai/tecnico-em-mecatronica.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2016,
-            "trecho_fonte": "Paranavaí 2016",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2016",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso : 40 alunos",
-            "secao": "2. Características do Curso",
             "status_curadoria": "sugerido",
-            "forma_oferta": "40 vagas"
+            "forma_oferta": "40 vagas",
+            "secao": "2. Características do Curso"
           }
         }
       }
     }
-  ],
-  "curadoria": {
-    "status_cursos": "dados_parciais",
-    "verificado_em": "2026-05-11",
-    "fontes": [
-      "https://paranavai.ifpr.edu.br/",
-      "https://ifpr.edu.br/paranavai/horario/"
-    ]
-  }
+  ]
 }

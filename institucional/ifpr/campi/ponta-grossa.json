@@ -6,50 +6,55 @@
     "site": "https://ifpr.edu.br/ponta-grossa/",
     "calendario_academico": "https://ifpr.edu.br/ponta-grossa/"
   },
+  "curadoria": {
+    "status_cursos": "dados_parciais",
+    "verificado_em": "2026-05-20"
+  },
   "cursos": [
     {
       "id": "tecnico-em-informatica-integrado-ao-ensino-medio",
       "nome": "Técnico em Informática Integrado ao Ensino Médio",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/ponta-grossa/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/ponta-grossa/",
       "ppc": {
         "url": "https://ifpr.edu.br/ponta-grossa/wp-content/uploads/sites/28/2022/07/PPC-Informatica_2019-Final-REVISADO.pdf",
         "markdown_path": "institucional/ifpr/ppcs/ponta-grossa/tecnico-em-informatica-integrado-ao-ensino-medio.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-20",
-          "status": "convertido"
+          "convertido_em": "2026-05-20"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2019,
-            "trecho_fonte": "CURITIBA 2019",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
+            "trecho_fonte": "Ano do documento registrado no Notion: 2019",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-20"
           },
           "vagas": {
             "quantidade": 35,
             "trecho_fonte": "Número máximo de vagas do curso: 35; Número mínimo de vagas do curso: 30",
-            "secao": "Identificação do Curso",
             "status_curadoria": "revisado",
-            "revisado_em": "2026-05-20",
-            "forma_oferta": "máximo de 35 vagas e mínimo de 30 vagas"
+            "forma_oferta": "máximo de 35 vagas e mínimo de 30 vagas",
+            "secao": "Identificação do Curso",
+            "revisado_em": "2026-05-20"
           }
         }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23411.018225/2025-42",
+            "tipo": "ajuste",
+            "trecho_fonte": "Linha 19: Viabilidade de Ajuste Curricular para o CR Ponta Grossa. Análise de PPC."
+          }
+        ]
       }
     }
-  ],
-  "curadoria": {
-    "status_cursos": "dados_parciais",
-    "fontes": [
-      "https://ifpr.edu.br/ponta-grossa/",
-      "https://ifpr.edu.br/ponta-grossa/wp-content/uploads/sites/28/2022/07/PPC-Informatica_2019-Final-REVISADO.pdf"
-    ],
-    "verificado_em": "2026-05-20"
-  }
+  ]
 }

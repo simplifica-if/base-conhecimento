@@ -6,10 +6,14 @@
     "site": "https://goioere.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/goioere/institucional/calendario-academico/"
   },
+  "curadoria": {
+    "status_cursos": "dados_parciais",
+    "verificado_em": "2026-05-11"
+  },
   "horario_aulas": {
-    "titulo_fonte": "Horário das aulas não encontrado",
-    "coletado_em": "2026-05-14T11:48:09-03:00",
+    "coletado_em": "2026-05-14T11:48:00-03:00",
     "status_curadoria": "nao_encontrado",
+    "titulo_fonte": "Horário das aulas não encontrado",
     "observacoes": "Não foi localizado link oficial de horário das aulas. A busca encontrou apenas página de horário de atendimento do campus."
   },
   "cursos": [
@@ -18,10 +22,10 @@
       "nome": "Técnico em Informática",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/goioere/integrados-ao-ensino-medio/curso-tecnico/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/goioere/integrados-ao-ensino-medio/curso-tecnico/",
       "suap": {
         "id": 214,
         "codigo": "GOI001",
@@ -31,26 +35,39 @@
         "url": "https://ifpr.edu.br/goioere/wp-content/uploads/sites/13/2017/05/PPC-informatica-integrado-2016.pdf",
         "markdown_path": "institucional/ifpr/ppcs/goioere/tecnico-em-informatica.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2016,
-            "trecho_fonte": "GOIOERÊ 2016",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2016",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 20 vagas",
-            "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Número máximo de vagas do curso"
           }
         }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23411.008038/2024-70",
+            "tipo": "ajuste",
+            "trecho_fonte": "Linha 36: Justificativa para dobra de vagas no PS2026 de 40 para 80 vagas não previstas no PPC vigente"
+          },
+          {
+            "numero": "23411.017825/2025-93",
+            "tipo": "ajuste",
+            "trecho_fonte": "Linha 35: Ajuste Curricular do Projeto Pedagógico de Curso (PPC)"
+          }
+        ]
       }
     },
     {
@@ -58,10 +75,10 @@
       "nome": "Técnico em Produção de Moda",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/goioere/integrados-ao-ensino-medio/tecnico-em-producao-de-moda/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/goioere/integrados-ao-ensino-medio/tecnico-em-producao-de-moda/",
       "suap": {
         "id": 213,
         "codigo": "GOI002",
@@ -71,35 +88,26 @@
         "url": "https://ifpr.edu.br/goioere/wp-content/uploads/sites/13/2017/05/PPC-TECNICO-EM-PRODUCAO-DE-MODA-REVISADO-Piveta-Final.pdf",
         "markdown_path": "institucional/ifpr/ppcs/goioere/tecnico-em-producao-de-moda.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2016,
-            "trecho_fonte": "GOIOERÊ 2016",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2016",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 20 vagas",
-            "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Número máximo de vagas do curso"
           }
         }
       }
     }
-  ],
-  "curadoria": {
-    "status_cursos": "dados_parciais",
-    "verificado_em": "2026-05-11",
-    "fontes": [
-      "https://ifpr.edu.br/goioere/",
-      "https://ifpr.edu.br/goioere/institucional/horario-de-atendimento-2/"
-    ]
-  }
+  ]
 }

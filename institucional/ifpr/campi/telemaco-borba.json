@@ -6,82 +6,49 @@
     "site": "https://ifpr.edu.br/telemaco-borba/",
     "calendario_academico": "https://ifpr.edu.br/telemaco-borba/estudantes/calendario-academico-5/"
   },
+  "curadoria": {
+    "status_cursos": "dados_parciais",
+    "verificado_em": "2026-05-11"
+  },
   "horario_aulas": {
+    "coletado_em": "2026-05-14T11:48:00-03:00",
+    "status_curadoria": "revisado",
     "url": "https://ifpr.edu.br/telemaco-borba/estudantes/horario-de-aulas/",
     "titulo_fonte": "Horários de Aulas",
-    "coletado_em": "2026-05-14T11:48:09-03:00",
-    "tipo_fonte": "pagina_ifpr",
-    "status_curadoria": "revisado"
+    "tipo_fonte": "pagina_ifpr"
   },
   "cursos": [
-    {
-      "id": "tecnologia-em-manutencao-industrial",
-      "nome": "Tecnologia em Manutenção Industrial",
-      "nivel": "superior",
-      "tipo_oferta": "graduação tecnológica",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/telemaco-borba/cursos-graduacao/tecnologia-em-manutencao-industrial/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2025/08/07_2025_PPC_Tecnologia-em-Manutencao-Industrial-Atualizacao-1.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/tecnologia-em-manutencao-industrial.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2019,
-            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO N° 21, DE 13 DE JUNHO DE 2019",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 40,
-            "trecho_fonte": "Vagas totais (anual) 40 vagas",
-            "secao": "Vagas totais (anual)",
-            "status_curadoria": "sugerido",
-            "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais"
-          }
-        }
-      }
-    },
     {
       "id": "engenharia-eletrica",
       "nome": "Engenharia Elétrica",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
+      "url": "https://ifpr.edu.br/telemaco-borba/cursos-graduacao/engenharia-eletrica/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/telemaco-borba/cursos-graduacao/engenharia-eletrica/",
       "ppc": {
         "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2025/10/PPC_Engenharia_Eletrica_Campus_TB_2019_2021-REVISADO.pdf",
         "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/engenharia-eletrica.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2018,
-            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO 24/2018 – CONSUP/IFPR",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2018",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual): 40 vagas",
-            "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
             "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais"
+            "forma_oferta": "40 vagas anuais",
+            "secao": "Vagas totais (anual)"
           }
         }
       }
@@ -91,33 +58,32 @@
       "nome": "Licenciatura em Física",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
+      "url": "https://ifpr.edu.br/telemaco-borba/cursos-graduacao/licenciatura-em-fisica-2014/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/telemaco-borba/cursos-graduacao/licenciatura-em-fisica-2014/",
       "ppc": {
         "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2023/02/PPC-2022-LFIS-Graduacao-IFPR-TB-.pdf",
         "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/licenciatura-em-fisica.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2013,
-            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO 25/2013 AJUSTE PARECER CONSEPE NºXX/ANO",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2013",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual): 40 (quarenta) vagas. 7",
-            "secao": "Vagas totais",
             "status_curadoria": "sugerido",
             "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais"
+            "forma_oferta": "40 vagas anuais",
+            "secao": "Vagas totais"
           }
         }
       }
@@ -127,39 +93,52 @@
       "nome": "Técnico em Automação Industrial Integrado ao Ensino Médio",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/telemaco-borba/cursos-tecnicos-integrados/automacao-industrial/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/telemaco-borba/cursos-tecnicos-integrados/automacao-industrial/",
+      "suap": {
+        "id": 25,
+        "codigo": "TBOR001",
+        "vagas": 40
+      },
       "ppc": {
         "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2026/02/PPC-TECNICO-EM-AUTOMACAO-VERSAO-FINAL.pdf",
         "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/tecnico-em-automacao-industrial-integrado-ao-ensino-medio.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2019,
-            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO 33/2014 (CONSUP) AJUSTE PARECER CONSEPE Nº 49/2019",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2019",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Total de vagas anuais: Uma turma de 40 vagas por ano",
-            "secao": "Total de vagas anuais",
             "status_curadoria": "sugerido",
-            "forma_oferta": "40 vagas"
+            "forma_oferta": "40 vagas",
+            "secao": "Total de vagas anuais"
           }
         }
       },
-      "suap": {
-        "id": 25,
-        "codigo": "TBOR001",
-        "vagas": 40
+      "sei": {
+        "processos": [
+          {
+            "numero": "23406.000171/2017-28",
+            "tipo": "ajuste",
+            "trecho_fonte": "Linha 56: Ajuste curricular"
+          },
+          {
+            "numero": "23411.021089/2025-78",
+            "tipo": "ajuste",
+            "trecho_fonte": "Linha 59: Atualização - Bimestre para Trimestre"
+          }
+        ]
       }
     },
     {
@@ -167,64 +146,52 @@
       "nome": "Técnico em Informática para Internet Integrado ao Ensino Médio",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/telemaco-borba/cursos-tecnicos-integrados/informatica-para-internet/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/telemaco-borba/cursos-tecnicos-integrados/informatica-para-internet/",
+      "suap": {
+        "id": 34,
+        "codigo": "TBOR002",
+        "vagas": 40
+      },
       "ppc": {
         "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2026/02/PPC-CURSO-TECNICO-EM-INFORMATICA-VERSAO-FINAL.pdf",
         "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/tecnico-em-informatica-para-internet-integrado-ao-ensino-medio.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2012,
-            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO 41/2012 (CONSUP)",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2012",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Total de vagas anuais: Uma turma de 40 vagas por ano",
-            "secao": "Total de vagas anuais",
             "status_curadoria": "sugerido",
-            "forma_oferta": "40 vagas"
+            "forma_oferta": "40 vagas",
+            "secao": "Total de vagas anuais"
           }
         }
       },
-      "suap": {
-        "id": 34,
-        "codigo": "TBOR002",
-        "vagas": 40
-      }
-    },
-    {
-      "id": "tecnico-em-programacao-de-jogos-digitais",
-      "nome": "Técnico em Programação de Jogos Digitais",
-      "nivel": "médio",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/telemaco-borba/cursos-tecnicos-integrados/programacao-de-jogos-digitais/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2026/02/PPC-CURSOS-TECNICOS-EM-PROGRAMACAO-DE-JOGOS-DIGITAIS_VERSAO_FINAL.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/tecnico-em-programacao-de-jogos-digitais.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-19",
-          "status": "convertido"
-        }
-      },
-      "suap": {
-        "id": 50,
-        "codigo": "TBOR004",
-        "vagas": 50
+      "sei": {
+        "processos": [
+          {
+            "numero": "23411.016533/2025-33",
+            "tipo": "ajuste",
+            "trecho_fonte": "Linha 54: Ajuste curricular"
+          },
+          {
+            "numero": "23411.021099/2025-11",
+            "tipo": "ajuste",
+            "trecho_fonte": "Linha 60: Atualização - Bimestre para Trimestre"
+          }
+        ]
       }
     },
     {
@@ -232,10 +199,10 @@
       "nome": "Técnico em Mecânica",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/telemaco-borba/cursos-tecnicos-integrados/tecnico-em-mecanica/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/telemaco-borba/cursos-tecnicos-integrados/tecnico-em-mecanica/",
       "suap": {
         "id": 36,
         "codigo": "TBOR003",
@@ -245,35 +212,114 @@
         "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2026/02/PPC-CURSO-TECNICO-INTEGRADO-EM-MECANICA_FINAL.pdf",
         "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/tecnico-em-mecanica.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2025,
-            "trecho_fonte": "Telêmaco Borba 2025",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2025",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Total de vagas anuais: Uma turma de 40 vagas por ano",
-            "secao": "Total de vagas anuais",
             "status_curadoria": "sugerido",
-            "forma_oferta": "40 vagas"
+            "forma_oferta": "40 vagas",
+            "secao": "Total de vagas anuais"
+          }
+        }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23406.000173/2017-17",
+            "tipo": "ajuste",
+            "trecho_fonte": "Linha 53: Ajuste curricular"
+          },
+          {
+            "numero": "23411.021076/2025-07",
+            "tipo": "ajuste",
+            "trecho_fonte": "Linha 58: Atualização - Bimestre para Trimestre"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tecnico-em-programacao-de-jogos-digitais",
+      "nome": "Técnico em Programação de Jogos Digitais",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/telemaco-borba/cursos-tecnicos-integrados/programacao-de-jogos-digitais/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "suap": {
+        "id": 50,
+        "codigo": "TBOR004",
+        "vagas": 50
+      },
+      "ppc": {
+        "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2026/02/PPC-CURSOS-TECNICOS-EM-PROGRAMACAO-DE-JOGOS-DIGITAIS_VERSAO_FINAL.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/tecnico-em-programacao-de-jogos-digitais.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-19"
+        }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23411.016537/2025-11",
+            "tipo": "ajuste",
+            "trecho_fonte": "Linha 55: Ajuste curricular"
+          },
+          {
+            "numero": "23411.021100/2025-08",
+            "tipo": "ajuste",
+            "trecho_fonte": "Linha 57: Atualização - Bimestre para Trimestre"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tecnologia-em-manutencao-industrial",
+      "nome": "Tecnologia em Manutenção Industrial",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "url": "https://ifpr.edu.br/telemaco-borba/cursos-graduacao/tecnologia-em-manutencao-industrial/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2025/08/07_2025_PPC_Tecnologia-em-Manutencao-Industrial-Atualizacao-1.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/tecnologia-em-manutencao-industrial.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2019,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2019",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Vagas totais (anual) 40 vagas",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais",
+            "secao": "Vagas totais (anual)"
           }
         }
       }
     }
-  ],
-  "curadoria": {
-    "status_cursos": "dados_parciais",
-    "verificado_em": "2026-05-11",
-    "fontes": [
-      "https://ifpr.edu.br/telemaco-borba/",
-      "https://ifpr.edu.br/telemaco-borba/estudantes/horario-de-aulas/"
-    ]
-  }
+  ]
 }

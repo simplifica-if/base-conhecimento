@@ -6,46 +6,50 @@
     "site": "https://ifpr.edu.br/foz-do-iguacu/",
     "calendario_academico": "https://ifpr.edu.br/foz-do-iguacu/alunos/calendario-academico/"
   },
+  "curadoria": {
+    "status_cursos": "dados_parciais",
+    "verificado_em": "2026-05-11"
+  },
   "horario_aulas": {
+    "coletado_em": "2026-05-14T11:48:00-03:00",
+    "status_curadoria": "revisado",
     "url": "https://ifpr.edu.br/foz-do-iguacu/29284-2/",
     "titulo_fonte": "Horários - 2026 - 1º semestre",
-    "coletado_em": "2026-05-14T11:48:09-03:00",
     "periodo_referencia": "2026 - 1º semestre",
-    "tipo_fonte": "pagina_ifpr",
-    "status_curadoria": "revisado"
+    "tipo_fonte": "pagina_ifpr"
   },
   "cursos": [
     {
-      "id": "pos-graduacao-lato-sensu-em-internet-das-coisas-iot-do-ifpr",
-      "nome": "Pos Graduacao Lato Sensu em Internet das Coisas Iot do Ifpr",
-      "nivel": "pós-graduação",
-      "tipo_oferta": "especialização",
+      "id": "engenharia-de-aquicultura",
+      "nome": "Engenharia de Aquicultura",
+      "nivel": "superior",
+      "tipo_oferta": "bacharelado",
+      "url": "https://ifpr.edu.br/foz-do-iguacu/superior/engenharia-de-aquicultura/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/foz-do-iguacu//pos-graduacao-lato-sensu-em-internet-das-coisas-iot-do-ifpr/",
       "ppc": {
-        "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2021/08/PPC-IoT-Foz-do-Iguacu-v-4.0.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/pos-graduacao-lato-sensu-em-internet-das-coisas-iot-do-ifpr.md",
+        "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2025/05/PPC_Engenharia_de_Aquicultura___06_12_23-1.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/engenharia-de-aquicultura.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
-            "ano": 2017,
-            "trecho_fonte": "RESOLUÇÃO Nº 18/2017 – CONSUP/IFPR",
-            "secao": "Capa / folha inicial",
+            "ano": 2011,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2011",
             "status_curadoria": "sugerido"
           },
           "vagas": {
-            "quantidade": 30,
-            "trecho_fonte": "Vagas: 30 vagas Mínimo: 20 vagas Máximo: 30 vagas O número máximo de vagas é limitado pela infr",
-            "secao": "Vagas",
+            "quantidade": 40,
+            "trecho_fonte": "Vagas totais (anual) Mínimo de 20 e máximo de 40. Sendo, 90% das vagas (36) para brasileiros e 10% das vagas (4) destinadas à Ar",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas"
+            "periodicidade": "anual",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Vagas totais (anual)"
           }
         }
       }
@@ -55,104 +59,31 @@
       "nome": "Especializacao em Ensino de Ciencias e Matematica",
       "nivel": "pós-graduação",
       "tipo_oferta": "especialização",
+      "url": "https://ifpr.edu.br/foz-do-iguacu/especializacao-em-ensino-de-ciencias-e-matematica/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/foz-do-iguacu/especializacao-em-ensino-de-ciencias-e-matematica/",
       "ppc": {
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2025/06/ppc_ens_cienc_mat_atualizado_2025_oficial.pdf",
         "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/especializacao-em-ensino-de-ciencias-e-matematica.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2023,
-            "trecho_fonte": "MINISTÉRIO DA EDUCAÇÃO INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ PRÓ-REITORIA DE EXTENSÃO, PESQUISA, PÓS-GRADUAÇÃO E INOVAÇÃO DIRETORIA DE PÓS-GRADUAÇÃO RESOLUÇÃO CONSUP/IFPR N.121/2023 – CONSUP/IFPR",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2023",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 30,
             "trecho_fonte": "Vagas ofertadas a) Mínimo: 20 vagas (Resolução Consup/IFPR n.121/2023) b) Máximo: 30 vagas",
-            "secao": "Vagas ofertadas",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas"
-          }
-        }
-      }
-    },
-    {
-      "id": "tecnologia-em-gastronomia",
-      "nome": "Tecnologia em Gastronomia",
-      "nivel": "superior",
-      "tipo_oferta": "graduação tecnológica",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/foz-do-iguacu/superior/curso-superior-de-tecnologia-em-gastronomia/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2019/07/PPC-Tecnologia-em-Gastronomia-aprovado-com-portaria-de-autorizacao-1.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/tecnologia-em-gastronomia.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2017,
-            "trecho_fonte": "O Pró-reitor de Ensino do Ins�tuto Federal do Paraná, no uso das atribuições que lhe são conferidas pela Portaria IFPR 1224, de 29 de setembro de 2017, publicada no Diário Oficial da União de 2 de outubro de 2017, Seção 2, p. 25",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 44,
-            "trecho_fonte": "Vagas totais (anual) 44 (quarenta e quatro), sendo 40 brasileiros e 4 estrangeiros",
-            "secao": "Vagas totais (anual)",
-            "status_curadoria": "sugerido",
-            "periodicidade": "anual",
-            "forma_oferta": "44 vagas anuais"
-          }
-        }
-      }
-    },
-    {
-      "id": "engenharia-de-aquicultura",
-      "nome": "Engenharia de Aquicultura",
-      "nivel": "superior",
-      "tipo_oferta": "bacharelado",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/foz-do-iguacu/superior/engenharia-de-aquicultura/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2025/05/PPC_Engenharia_de_Aquicultura___06_12_23-1.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/engenharia-de-aquicultura.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2011,
-            "trecho_fonte": "O Instituto Federal do Paraná – IFPR, de acordo com o seu Estatuto (Resolução 013/2011 – CONSUP) foi criado nos termos da Lei n.º 11.892, de 29 de dezembro de 2008, vinculado ao Ministério da Educação, possui natureza jurídica de autarquia, sendo detentor de autonomia administrat",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 40,
-            "trecho_fonte": "Vagas totais (anual) Mínimo de 20 e máximo de 40. Sendo, 90% das vagas (36) para brasileiros e 10% das vagas (4) destinadas à Ar",
-            "secao": "Vagas totais (anual)",
-            "status_curadoria": "sugerido",
-            "periodicidade": "anual",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas",
+            "secao": "Vagas ofertadas"
           }
         }
       }
@@ -162,68 +93,65 @@
       "nome": "Licenciatura em Fisica",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
+      "url": "https://ifpr.edu.br/foz-do-iguacu/superior/licenciatura-em-fisica/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/foz-do-iguacu/superior/licenciatura-em-fisica/",
       "ppc": {
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2023/08/PPC-Licenciatura-em-Fisica-Foz-2022-v7.pdf",
         "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/licenciatura-em-fisica.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2022,
-            "trecho_fonte": "Autorizado pela Resolução IFPR nº 21, de 11 de novembro de 2013 Reconhecido pela Portaria nº 578, de 9 de junho de 2017 Ajuste Parecer CONSEPE nº 43/2022",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2022",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número de vagas ofertadas: Mínimo 20 e Máximo 40 vagas por ano",
-            "secao": "Número de vagas",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Número de vagas"
           }
         }
       }
     },
     {
-      "id": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
-      "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
-      "nivel": "superior",
-      "tipo_oferta": "graduação tecnológica",
+      "id": "pos-graduacao-lato-sensu-em-internet-das-coisas-iot-do-ifpr",
+      "nome": "Pos Graduacao Lato Sensu em Internet das Coisas Iot do Ifpr",
+      "nivel": "pós-graduação",
+      "tipo_oferta": "especialização",
+      "url": "https://ifpr.edu.br/foz-do-iguacu//pos-graduacao-lato-sensu-em-internet-das-coisas-iot-do-ifpr/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/foz-do-iguacu/superior/tecnologia-em-analise-e-desenvolvimento-de-sistemas-superior/",
       "ppc": {
-        "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2025/12/PPC_TADS_Foz_do_Iguacu_Versao_2025.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/tecnologia-em-analise-e-desenvolvimento-de-sistemas.md",
+        "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2021/08/PPC-IoT-Foz-do-Iguacu-v-4.0.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/pos-graduacao-lato-sensu-em-internet-das-coisas-iot-do-ifpr.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
-            "ano": 2013,
-            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO 22 DE 11 DE NOVEMBRO DE 2013 AJUSTE PARECER CONSEPE NºXX/ANO",
-            "secao": "Capa / folha inicial",
+            "ano": 2017,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2017",
             "status_curadoria": "sugerido"
           },
           "vagas": {
-            "quantidade": 40,
-            "trecho_fonte": "Vagas totais (anual) 40",
-            "secao": "Vagas totais (anual)",
+            "quantidade": 30,
+            "trecho_fonte": "Vagas: 30 vagas Mínimo: 20 vagas Máximo: 30 vagas O número máximo de vagas é limitado pela infr",
             "status_curadoria": "sugerido",
-            "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais"
+            "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas",
+            "secao": "Vagas"
           }
         }
       }
@@ -233,39 +161,47 @@
       "nome": "Tecnico em Aquicultura",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/foz-do-iguacu/tecnicos-integrados-3/tecnico-em-aquicultura/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/foz-do-iguacu/tecnicos-integrados-3/tecnico-em-aquicultura/",
+      "suap": {
+        "id": 52,
+        "codigo": "FOZ001",
+        "vagas": 40
+      },
       "ppc": {
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2020/04/PPC-Aqui-Integrado.pdf",
         "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/tecnico-em-aquicultura.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2008,
-            "trecho_fonte": "Nesse sentido o IFPR campus Foz do Iguaçu ofertou o curso Técnico em Aquicultura nas formas, Proeja, Subsequente e Concomitante, além de Cursos de Formação Inicial e Continuada na área de Recursos Naturais visando atender à demanda local de profissionais e, desde 2008, o IFPR vem",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2008",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 24 vagas",
-            "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 24 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 24 vagas",
+            "secao": "Número máximo de vagas do curso"
           }
         }
       },
-      "suap": {
-        "id": 52,
-        "codigo": "FOZ001",
-        "vagas": 40
+      "sei": {
+        "processos": [
+          {
+            "numero": "23411.009668/2025-42",
+            "tipo": "ajuste",
+            "trecho_fonte": "Linha 29: Ajuste Curricular de PPC com intervalo pedagógico e contab simultânea de Libras\nLinha 34: Solicitação de Viabilidade de Ajuste de PPC"
+          }
+        ]
       }
     },
     {
@@ -273,39 +209,47 @@
       "nome": "Tecnico em Desenvolvimento de Sistemas",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/foz-do-iguacu/tecnicos-integrados-3/tecnico-em-desenvolvimento-de-sistemas/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/foz-do-iguacu/tecnicos-integrados-3/tecnico-em-desenvolvimento-de-sistemas/",
+      "suap": {
+        "id": 113,
+        "codigo": "FOZ002",
+        "vagas": 40
+      },
       "ppc": {
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2023/04/PPC-TDS.pdf",
         "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/tecnico-em-desenvolvimento-de-sistemas.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2019,
-            "trecho_fonte": "FOZ DO IGUAÇU 2019",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2019",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 35",
-            "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 35 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 35 vagas",
+            "secao": "Número máximo de vagas do curso"
           }
         }
       },
-      "suap": {
-        "id": 113,
-        "codigo": "FOZ002",
-        "vagas": 40
+      "sei": {
+        "processos": [
+          {
+            "numero": "23411.009670/2025-11",
+            "tipo": "ajuste",
+            "trecho_fonte": "Linha 28: Ajuste Curricular de PPC com intervalo pedagógico e contab simultânea de Libras\nLinha 33: Solicitação de Viabilidade de Ajuste de PPC"
+          }
+        ]
       }
     },
     {
@@ -313,79 +257,47 @@
       "nome": "Tecnico em Edificacoes 3",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/foz-do-iguacu/tecnicos-integrados-3/tecnico-em-edificacoes-3/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/foz-do-iguacu/tecnicos-integrados-3/tecnico-em-edificacoes-3/",
+      "suap": {
+        "id": 133,
+        "codigo": "FOZ003",
+        "vagas": 40
+      },
       "ppc": {
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2019/07/PPC-Edificacoes-FINAL-novo-2016.pdf",
         "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/tecnico-em-edificacoes-3.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2014,
-            "trecho_fonte": "Portaria IFPR/Foz do Iguaçu n° 010/2014 de 23/04/2014 designa: Anderson Coldebella; Andrea Marcia Legnani; Andreza Seixas; Evandro Cantú; Franco Ezequiel Harlos; Geovan Carlos Soethe; Henri Araujo Leboeuf; Humberto Martins Beneduzzi; Kathleen Dall Bello de Souza; Leonir Olderico",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2014",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 35",
-            "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 35 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 35 vagas",
+            "secao": "Número máximo de vagas do curso"
           }
         }
       },
-      "suap": {
-        "id": 133,
-        "codigo": "FOZ003",
-        "vagas": 40
-      }
-    },
-    {
-      "id": "tecnico-em-meio-ambiente",
-      "nome": "Tecnico em Meio Ambiente",
-      "nivel": "médio",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/foz-do-iguacu/tecnicos-integrados-3/tecnico-em-meio-ambiente/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2020/02/PPC-Integrado-Meio-Ambiente-4-anos.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/tecnico-em-meio-ambiente.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2016,
-            "trecho_fonte": "RESOLUÇÃO DE CRIAÇÃO: 28, de 20 de setembro de 2016 - CONSUP/IFPR",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 40,
-            "trecho_fonte": "Número máximo de vagas do curso: 40 alunos anuais. Número mínimo de vagas do curso: 24 alunos anuais",
-            "secao": "Número máximo de vagas do curso",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 24 vagas"
+      "sei": {
+        "processos": [
+          {
+            "numero": "23411.009868/2025-03",
+            "tipo": "ajuste",
+            "trecho_fonte": "Linha 27: Ajuste Curricular de PPC com intervalo pedagógico e contab simultânea de Libras\nLinha 30: Manifestação de Viabilidade de Ajuste\nLinha 31: Ajuste Curricular"
           }
-        }
-      },
-      "suap": {
-        "id": 171,
-        "codigo": "FOZ005",
-        "vagas": 40
+        ]
       }
     },
     {
@@ -393,49 +305,157 @@
       "nome": "Técnico em Gastronomia",
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
+      "url": "https://ifpr.edu.br/foz-do-iguacu/tecnicos-subsequentes/tecnico-em-cozinha/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/foz-do-iguacu/tecnicos-subsequentes/tecnico-em-cozinha/",
+      "suap": {
+        "id": 126,
+        "codigo": "FOZ004",
+        "vagas": 40
+      },
       "ppc": {
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2022/10/PPC-Tecnico-em-Gastronomia.2022.10.10.22.pdf",
         "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/tecnico-em-gastronomia.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2022,
-            "trecho_fonte": "PPC-Tecnico-em-Gastronomia.2022.10.10.22.pdf",
-            "secao": "Nome do arquivo oficial / PPC vigente",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2022",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 26,
             "trecho_fonte": "Número máximo de vagas do curso: 26 (vinte e seis), sendo 22 brasileiros e 4 estrangeiros (oriundos exclusivamente do Paraguai ou da Argentina) Número mínimo de vagas do curso: 13 (treze)",
-            "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 26 vagas e mínimo de 13 vagas"
+            "forma_oferta": "máximo de 26 vagas e mínimo de 13 vagas",
+            "secao": "Número máximo de vagas do curso"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-meio-ambiente",
+      "nome": "Tecnico em Meio Ambiente",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/foz-do-iguacu/tecnicos-integrados-3/tecnico-em-meio-ambiente/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "suap": {
+        "id": 171,
+        "codigo": "FOZ005",
+        "vagas": 40
+      },
+      "ppc": {
+        "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2020/02/PPC-Integrado-Meio-Ambiente-4-anos.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/tecnico-em-meio-ambiente.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2016,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2016",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Número máximo de vagas do curso: 40 alunos anuais. Número mínimo de vagas do curso: 24 alunos anuais",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 24 vagas",
+            "secao": "Número máximo de vagas do curso"
           }
         }
       },
-      "suap": {
-        "id": 126,
-        "codigo": "FOZ004",
-        "vagas": 40
+      "sei": {
+        "processos": [
+          {
+            "numero": "23411.009669/2025-97",
+            "tipo": "ajuste",
+            "trecho_fonte": "Linha 26: Ajuste Curricular de PPC com intervalo pedagógico e contab simultânea de Libras\nLinha 32: Solicitação de Viabilidade de Ajuste de PPC"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
+      "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "url": "https://ifpr.edu.br/foz-do-iguacu/superior/tecnologia-em-analise-e-desenvolvimento-de-sistemas-superior/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2025/12/PPC_TADS_Foz_do_Iguacu_Versao_2025.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/tecnologia-em-analise-e-desenvolvimento-de-sistemas.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2013,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2013",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Vagas totais (anual) 40",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual",
+            "forma_oferta": "40 vagas anuais",
+            "secao": "Vagas totais (anual)"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnologia-em-gastronomia",
+      "nome": "Tecnologia em Gastronomia",
+      "nivel": "superior",
+      "tipo_oferta": "graduação tecnológica",
+      "url": "https://ifpr.edu.br/foz-do-iguacu/superior/curso-superior-de-tecnologia-em-gastronomia/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "ppc": {
+        "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2019/07/PPC-Tecnologia-em-Gastronomia-aprovado-com-portaria-de-autorizacao-1.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/tecnologia-em-gastronomia.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2017,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2017",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 44,
+            "trecho_fonte": "Vagas totais (anual) 44 (quarenta e quatro), sendo 40 brasileiros e 4 estrangeiros",
+            "status_curadoria": "sugerido",
+            "periodicidade": "anual",
+            "forma_oferta": "44 vagas anuais",
+            "secao": "Vagas totais (anual)"
+          }
+        }
       }
     }
-  ],
-  "curadoria": {
-    "status_cursos": "dados_parciais",
-    "verificado_em": "2026-05-11",
-    "fontes": [
-      "https://ifpr.edu.br/foz-do-iguacu/",
-      "https://ifpr.edu.br/foz-do-iguacu/tecnicos-subsequentes/",
-      "https://ifpr.edu.br/foz-do-iguacu/29284-2/"
-    ]
-  }
+  ]
 }

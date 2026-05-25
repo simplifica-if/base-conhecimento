@@ -6,72 +6,35 @@
     "site": "https://londrina.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/londrina/menu-alunos/area-do-estudante/orientacoes-de-procedimentos/"
   },
+  "curadoria": {
+    "status_cursos": "dados_parciais",
+    "verificado_em": "2026-05-11"
+  },
   "horario_aulas": {
+    "coletado_em": "2026-05-14T11:48:00-03:00",
+    "status_curadoria": "revisado",
     "url": "https://ifpr.edu.br/londrina/horario-de-aulas-dos-cursos/",
     "titulo_fonte": "Horário de Aulas dos Cursos",
-    "coletado_em": "2026-05-14T11:48:09-03:00",
-    "tipo_fonte": "pagina_ifpr",
-    "status_curadoria": "revisado"
+    "tipo_fonte": "pagina_ifpr"
   },
   "cursos": [
-    {
-      "id": "tecnico-em-biotecnologia-integrado-ao-ensino-medio",
-      "nome": "Técnico em Biotecnologia Integrado ao Ensino Médio",
-      "nivel": "médio",
-      "tipo_oferta": "técnico integrado",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "url": "https://ifpr.edu.br/londrina/ensino-medio-integrado-a-biotecnologia/",
-      "ppc": {
-        "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2025/11/PPC-Tecnico-em-Biotecnologia-Integrado-ao-Ensino-Medio-2-1.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/londrina/tecnico-em-biotecnologia-integrado-ao-ensino-medio.md",
-        "conversao": {
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
-        },
-        "metadados": {
-          "ano_documento": {
-            "ano": 2001,
-            "trecho_fonte": "LOCAL DE REALIZAÇÃO/CAMPUS: Rua Alagoas, 2001, Jardim Canadá. CEP 86.020-430 – Londrina – Paraná E-mail: HOME-PAGE: TEL: secretarialondrina@ifpr.edu.br http://londrina.ifpr.edu.br (43) 3878-6100",
-            "secao": "Capa / folha inicial",
-            "status_curadoria": "sugerido"
-          },
-          "vagas": {
-            "quantidade": 40,
-            "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
-            "secao": "Número máximo de vagas do curso",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
-          }
-        }
-      },
-      "suap": {
-        "id": 189,
-        "codigo": "LON001",
-        "vagas": 40
-      }
-    },
     {
       "id": "especializacao-lato-sensu-em-saude-coletiva-com-enfase-na-promocao-da-saude",
       "nome": "Especializacao Lato Sensu em Saude Coletiva com Enfase na Promocao da Saude",
       "nivel": "pós-graduação",
       "tipo_oferta": "especialização",
+      "url": "https://ifpr.edu.br/londrina/especializacao-lato-sensu-em-saude-coletiva-com-enfase-na-promocao-da-saude/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/londrina/especializacao-lato-sensu-em-saude-coletiva-com-enfase-na-promocao-da-saude/",
       "ppc": {
         "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2025/09/PPC_PG_Saude-Coletiva_2025.pdf",
         "markdown_path": "institucional/ifpr/ppcs/londrina/especializacao-lato-sensu-em-saude-coletiva-com-enfase-na-promocao-da-saude.md",
         "conversao": {
+          "status": "erro",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "erro",
-          "mensagem_erro": "Conversão sem texto útil; PDF parece digitalizado/baseado em imagens e exige OCR dedicado."
+          "convertido_em": "2026-05-11"
         }
       }
     },
@@ -80,33 +43,71 @@
       "nome": "Licenciatura em Ciencias Biologicas 2",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
+      "url": "https://ifpr.edu.br/londrina/licenciatura-em-ciencias-biologicas-2/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/londrina/licenciatura-em-ciencias-biologicas-2/",
       "ppc": {
         "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2025/12/PPC-MATRIZ-288.pdf",
         "markdown_path": "institucional/ifpr/ppcs/londrina/licenciatura-em-ciencias-biologicas-2.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2014,
-            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO nº 26 / 2014 AJUSTE PARECER CONSEPE NºXX/ANO",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2014",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) No mínimo 20 e no máximo 40 vagas",
-            "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
             "periodicidade": "anual",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Vagas totais (anual)"
+          }
+        }
+      }
+    },
+    {
+      "id": "tecnico-em-biotecnologia-integrado-ao-ensino-medio",
+      "nome": "Técnico em Biotecnologia Integrado ao Ensino Médio",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/londrina/ensino-medio-integrado-a-biotecnologia/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "suap": {
+        "id": 189,
+        "codigo": "LON001",
+        "vagas": 40
+      },
+      "ppc": {
+        "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2025/11/PPC-Tecnico-em-Biotecnologia-Integrado-ao-Ensino-Medio-2-1.pdf",
+        "markdown_path": "institucional/ifpr/ppcs/londrina/tecnico-em-biotecnologia-integrado-ao-ensino-medio.md",
+        "conversao": {
+          "status": "convertido",
+          "ferramenta": "pymupdf4llm",
+          "versao_ferramenta": "1.27.2.3",
+          "convertido_em": "2026-05-11"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2001,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2001",
+            "status_curadoria": "sugerido"
+          },
+          "vagas": {
+            "quantidade": 40,
+            "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
+            "status_curadoria": "sugerido",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Número máximo de vagas do curso"
           }
         }
       }
@@ -116,39 +117,38 @@
       "nome": "Tecnico em Enfermagem",
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
+      "url": "https://ifpr.edu.br/londrina/tecnico-em-enfermagem/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/londrina/tecnico-em-enfermagem/",
+      "suap": {
+        "id": 178,
+        "codigo": "LON002",
+        "vagas": 30
+      },
       "ppc": {
         "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2023/12/PPC-2022_-CURSO-TECNICO-EM-ENFERMAGEM.pdf",
         "markdown_path": "institucional/ifpr/ppcs/londrina/tecnico-em-enfermagem.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2011,
-            "trecho_fonte": "AUTORIZADO PELA RESOLUÇÃO N° 073 DE 21 DE DEZEMBRO DE 2011 DO CONSELHO SUPERIOR - IFPR",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2011",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 30,
             "trecho_fonte": "Número máximo de vagas do curso: 30 vagas Número mínimo de vagas do curso: 20 vagas",
-            "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas",
+            "secao": "Número máximo de vagas do curso"
           }
         }
-      },
-      "suap": {
-        "id": 178,
-        "codigo": "LON002",
-        "vagas": 30
       }
     },
     {
@@ -156,39 +156,38 @@
       "nome": "Técnico em Informática Integrado ao Ensino Médio",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/londrina/tecnico-em-informatica-integrado/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/londrina/tecnico-em-informatica-integrado/",
+      "suap": {
+        "id": 205,
+        "codigo": "LON003",
+        "vagas": 40
+      },
       "ppc": {
         "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2025/11/PPC-Tecnico-Informatica-Integrado-ao-Ensino-Medio-PDF-2017-1-1.pdf",
         "markdown_path": "institucional/ifpr/ppcs/londrina/tecnico-em-informatica-integrado-ao-ensino-medio.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2001,
-            "trecho_fonte": "LOCAL DE REALIZAÇÃO/CAMPUS: Rua Alagoas, nº 2001 – Centro – CEP 86020-430 - Londrina – Paraná",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2001",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
-            "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Número máximo de vagas do curso"
           }
         }
-      },
-      "suap": {
-        "id": 205,
-        "codigo": "LON003",
-        "vagas": 40
       }
     },
     {
@@ -196,39 +195,38 @@
       "nome": "Tecnico em Massoterapia",
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
+      "url": "https://ifpr.edu.br/londrina/tecnico-em-massoterapia/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/londrina/tecnico-em-massoterapia/",
+      "suap": {
+        "id": 204,
+        "codigo": "LON004",
+        "vagas": 40
+      },
       "ppc": {
         "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2018/04/PPC-Tecnico-em-Massoterapia.pdf",
         "markdown_path": "institucional/ifpr/ppcs/londrina/tecnico-em-massoterapia.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2011,
-            "trecho_fonte": "Autorizado pela Resolução n° 75/2011 de 21/12/2011 do Conselho Superior - IFPR",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2011",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
-            "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "Número máximo de vagas do curso"
           }
         }
-      },
-      "suap": {
-        "id": 204,
-        "codigo": "LON004",
-        "vagas": 40
       }
     },
     {
@@ -236,39 +234,38 @@
       "nome": "Tecnico em Protese Dentaria 2",
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
+      "url": "https://ifpr.edu.br/londrina/tecnico-em-protese-dentaria-2/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/londrina/tecnico-em-protese-dentaria-2/",
+      "suap": {
+        "id": 202,
+        "codigo": "LON005",
+        "vagas": 40
+      },
       "ppc": {
         "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2023/12/PPC-Tecnico-em-Protese-Dentaria.pdf",
         "markdown_path": "institucional/ifpr/ppcs/londrina/tecnico-em-protese-dentaria-2.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2009,
-            "trecho_fonte": "A avaliação do processo de ensino aprendizagem segue a Portaria nº 120 de 06 de agosto de 2009/IFPR e demais normativas correlatas institucionais e a LDBEN nº 9394/96. No processo pedagógico, alunos e professores são sujeitos ativos e devem atuar de forma consciente, não apenas c",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2009",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "NÚMERO DE VAGAS: 40 ESTÁGIO SUPERVISIONADO: 0 CARGA HORÁRIA TOTAL: 1200 horas MÍNIMO MÁXIMO 20 40",
-            "secao": "NÚMERO DE VAGAS",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
+            "secao": "NÚMERO DE VAGAS"
           }
         }
-      },
-      "suap": {
-        "id": 202,
-        "codigo": "LON005",
-        "vagas": 40
       }
     },
     {
@@ -276,39 +273,47 @@
       "nome": "Tecnico em Saude Bucal",
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
+      "url": "https://ifpr.edu.br/londrina/tecnico-em-saude-bucal/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/londrina/tecnico-em-saude-bucal/",
+      "suap": {
+        "id": 200,
+        "codigo": "LON006",
+        "vagas": 30
+      },
       "ppc": {
         "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2023/12/PPC-Tecnico-em-Saude-Bucal.pdf",
         "markdown_path": "institucional/ifpr/ppcs/londrina/tecnico-em-saude-bucal.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2011,
-            "trecho_fonte": "Ano de criação do curso: 2011 (Resolução CONSUP/IFPR 74/11)",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2011",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 30,
             "trecho_fonte": "Número máximo de vagas do curso: 30 Número mínimo de vagas do curso: 20",
-            "secao": "Número máximo de vagas do curso",
             "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas"
+            "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas",
+            "secao": "Número máximo de vagas do curso"
           }
         }
       },
-      "suap": {
-        "id": 200,
-        "codigo": "LON006",
-        "vagas": 30
+      "sei": {
+        "processos": [
+          {
+            "numero": "23411.003388/2025-21",
+            "tipo": "ajuste",
+            "trecho_fonte": "Linha 44: Ajuste Curricular - apenas mudança de turno de noturno para matutino\nLinha 45: Manifestação de Viabilidade de Ajuste para mudança de turno"
+          }
+        ]
       }
     },
     {
@@ -316,44 +321,35 @@
       "nome": "Tecnologia em Analise e Desenvolvimento de Sistemas",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",
+      "url": "https://ifpr.edu.br/londrina/tecnologia-em-analise-e-desenvolvimento-de-sistemas/",
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "url": "https://ifpr.edu.br/londrina/tecnologia-em-analise-e-desenvolvimento-de-sistemas/",
       "ppc": {
         "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2025/02/IFPR_PPC_TADS_Londrina_2025_v1.pdf",
         "markdown_path": "institucional/ifpr/ppcs/londrina/tecnologia-em-analise-e-desenvolvimento-de-sistemas.md",
         "conversao": {
+          "status": "convertido",
           "ferramenta": "pymupdf4llm",
           "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11",
-          "status": "convertido"
+          "convertido_em": "2026-05-11"
         },
         "metadados": {
           "ano_documento": {
             "ano": 2024,
-            "trecho_fonte": "A Região Metropolitana de Londrina (RMLO), segundo o IBGE (2024) é estimada em 1.088.006 hab., a segunda maior do Paraná. A RMLO é formada pelos municípios de Londrina, Alvorada do Sul, Arapongas, Assaí, Bela Vista do Paraíso, Cambé, Centenário do Sul, Florestópolis, Guaraci, Ibi",
-            "secao": "Capa / folha inicial",
+            "trecho_fonte": "Ano do documento registrado no Notion: 2024",
             "status_curadoria": "sugerido"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) Quarenta vagas",
-            "secao": "Vagas totais (anual)",
             "status_curadoria": "sugerido",
             "periodicidade": "anual",
-            "forma_oferta": "40 vagas"
+            "forma_oferta": "40 vagas",
+            "secao": "Vagas totais (anual)"
           }
         }
       }
     }
-  ],
-  "curadoria": {
-    "status_cursos": "dados_parciais",
-    "verificado_em": "2026-05-11",
-    "fontes": [
-      "https://ifpr.edu.br/londrina/",
-      "https://ifpr.edu.br/londrina/horario-de-aulas-dos-cursos/"
-    ]
-  }
+  ]
 }

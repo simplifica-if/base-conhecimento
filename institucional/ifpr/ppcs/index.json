@@ -2,24 +2,10 @@
   "title": "Projetos Pedagógicos de Curso do IFPR",
   "tipo": "indice_ppcs",
   "versao": 1,
-  "atualizado_em": "2026-05-20",
+  "atualizado_em": "2026-05-25",
   "total_itens": 200,
   "secoes_path": "institucional/ifpr/ppcs/secoes.jsonl",
   "items": [
-    {
-      "id": "arapongas/tecnico-em-sistemas-de-energia-renovavel-integrado-ao-ensino-medio",
-      "campus_id": "arapongas",
-      "campus_nome": "Arapongas",
-      "curso_id": "tecnico-em-sistemas-de-energia-renovavel-integrado-ao-ensino-medio",
-      "curso_nome": "Curso Técnico em Sistemas de Energia Renovável Integrado ao Ensino Médio",
-      "nivel": "médio",
-      "tipo_oferta": "técnico integrado",
-      "curso_url": "https://ifpr.edu.br/arapongas/nossos-cursos/curso-tecnico-integrado-ao-ensino-medio/tecnico-integrado-ao-ensino-medio-tecnico-em-sistemas-de-energia-renovavel/",
-      "fonte_pdf": "https://ifpr.edu.br/arapongas/wp-content/uploads/sites/2/2025/12/PPC_Tecnico_em_Sistemas_de_Energia_Renovavel___Arapongas-2.pdf",
-      "path": "institucional/ifpr/ppcs/arapongas/tecnico-em-sistemas-de-energia-renovavel-integrado-ao-ensino-medio.md",
-      "ano_documento": 2025,
-      "vagas": 40
-    },
     {
       "id": "arapongas/especializacao-em-docencia-e-praticas-educativas",
       "campus_id": "arapongas",
@@ -88,6 +74,20 @@
       "fonte_pdf": "https://ifpr.edu.br/arapongas/wp-content/uploads/sites/2/2022/09/PPC___CURSO_TECNICO_EM_MELHORIA_DE_PROCESSOS___VERSAO_FINAL.pdf",
       "path": "institucional/ifpr/ppcs/arapongas/tecnico-em-melhoria-de-processos.md",
       "ano_documento": 2021,
+      "vagas": 40
+    },
+    {
+      "id": "arapongas/tecnico-em-sistemas-de-energia-renovavel-integrado-ao-ensino-medio",
+      "campus_id": "arapongas",
+      "campus_nome": "Arapongas",
+      "curso_id": "tecnico-em-sistemas-de-energia-renovavel-integrado-ao-ensino-medio",
+      "curso_nome": "Técnico em Sistemas de Energia Renovável",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "curso_url": "https://ifpr.edu.br/arapongas/nossos-cursos/curso-tecnico-integrado-ao-ensino-medio/tecnico-integrado-ao-ensino-medio-tecnico-em-sistemas-de-energia-renovavel/",
+      "fonte_pdf": "https://ifpr.edu.br/arapongas/wp-content/uploads/sites/2/2025/12/PPC_Tecnico_em_Sistemas_de_Energia_Renovavel___Arapongas-2.pdf",
+      "path": "institucional/ifpr/ppcs/arapongas/tecnico-em-sistemas-de-energia-renovavel-integrado-ao-ensino-medio.md",
+      "ano_documento": 2025,
       "vagas": 40
     },
     {

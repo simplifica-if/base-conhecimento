@@ -1,9 +1,9 @@
 {
   "id": "campi-ifpr",
   "title": "Campi do IFPR",
-  "descricao": "Cadastro institucional estruturado dos campi do Instituto Federal do Paraná para consumo por agentes IA.",
+  "descricao": "Índice de campi e campi avançados do Instituto Federal do Paraná.",
   "tipo_item": "campus",
-  "atualizado_em": "2026-04-30",
+  "atualizado_em": "2026-05-25",
   "items": [
     {
       "id": "arapongas",
@@ -12,88 +12,10 @@
       "path": "institucional/ifpr/campi/arapongas.json"
     },
     {
-      "id": "telemaco-borba",
-      "nome": "Telêmaco Borba",
-      "tipo_unidade": "campus_avancado",
-      "path": "institucional/ifpr/campi/telemaco-borba.json"
-    },
-    {
-      "id": "palmas",
-      "nome": "Palmas",
-      "tipo_unidade": "campus",
-      "path": "institucional/ifpr/campi/palmas.json"
-    },
-    {
-      "id": "quedas-do-iguacu",
-      "nome": "Quedas do Iguaçu",
-      "tipo_unidade": "campus",
-      "path": "institucional/ifpr/campi/quedas-do-iguacu.json"
-    },
-    {
-      "id": "irati",
-      "nome": "Irati",
-      "tipo_unidade": "campus",
-      "path": "institucional/ifpr/campi/irati.json"
-    },
-    {
-      "id": "coronel-vivida",
-      "nome": "Coronel Vivida",
-      "tipo_unidade": "campus",
-      "path": "institucional/ifpr/campi/coronel-vivida.json"
-    },
-    {
-      "id": "foz-do-iguacu",
-      "nome": "Foz do Iguaçu",
-      "tipo_unidade": "campus",
-      "path": "institucional/ifpr/campi/foz-do-iguacu.json"
-    },
-    {
-      "id": "ivaipora",
-      "nome": "Ivaiporã",
-      "tipo_unidade": "campus",
-      "path": "institucional/ifpr/campi/ivaipora.json"
-    },
-    {
-      "id": "colombo",
-      "nome": "Colombo",
-      "tipo_unidade": "campus",
-      "path": "institucional/ifpr/campi/colombo.json"
-    },
-    {
-      "id": "pitanga",
-      "nome": "Pitanga",
-      "tipo_unidade": "campus",
-      "path": "institucional/ifpr/campi/pitanga.json"
-    },
-    {
-      "id": "pinhais",
-      "nome": "Pinhais",
-      "tipo_unidade": "campus",
-      "path": "institucional/ifpr/campi/pinhais.json"
-    },
-    {
-      "id": "ponta-grossa",
-      "nome": "Ponta Grossa",
-      "tipo_unidade": "campus",
-      "path": "institucional/ifpr/campi/ponta-grossa.json"
-    },
-    {
-      "id": "curitiba",
-      "nome": "Curitiba",
-      "tipo_unidade": "campus",
-      "path": "institucional/ifpr/campi/curitiba.json"
-    },
-    {
       "id": "assis-chateaubriand",
       "nome": "Assis Chateaubriand",
       "tipo_unidade": "campus",
       "path": "institucional/ifpr/campi/assis-chateaubriand.json"
-    },
-    {
-      "id": "goioere",
-      "nome": "Goioerê",
-      "tipo_unidade": "campus",
-      "path": "institucional/ifpr/campi/goioere.json"
     },
     {
       "id": "astorga",
@@ -102,46 +24,10 @@
       "path": "institucional/ifpr/campi/astorga.json"
     },
     {
-      "id": "londrina",
-      "nome": "Londrina",
+      "id": "barracao",
+      "nome": "Barracão",
       "tipo_unidade": "campus",
-      "path": "institucional/ifpr/campi/londrina.json"
-    },
-    {
-      "id": "jacarezinho",
-      "nome": "Jacarezinho",
-      "tipo_unidade": "campus",
-      "path": "institucional/ifpr/campi/jacarezinho.json"
-    },
-    {
-      "id": "cascavel",
-      "nome": "Cascavel",
-      "tipo_unidade": "campus",
-      "path": "institucional/ifpr/campi/cascavel.json"
-    },
-    {
-      "id": "paranavai",
-      "nome": "Paranavaí",
-      "tipo_unidade": "campus",
-      "path": "institucional/ifpr/campi/paranavai.json"
-    },
-    {
-      "id": "capanema",
-      "nome": "Capanema",
-      "tipo_unidade": "campus",
-      "path": "institucional/ifpr/campi/capanema.json"
-    },
-    {
-      "id": "jaguariaiva",
-      "nome": "Jaguariaíva",
-      "tipo_unidade": "campus",
-      "path": "institucional/ifpr/campi/jaguariaiva.json"
-    },
-    {
-      "id": "paranagua",
-      "nome": "Paranaguá",
-      "tipo_unidade": "campus",
-      "path": "institucional/ifpr/campi/paranagua.json"
+      "path": "institucional/ifpr/campi/barracao.json"
     },
     {
       "id": "campo-largo",
@@ -150,16 +36,130 @@
       "path": "institucional/ifpr/campi/campo-largo.json"
     },
     {
+      "id": "capanema",
+      "nome": "Capanema",
+      "tipo_unidade": "campus",
+      "path": "institucional/ifpr/campi/capanema.json"
+    },
+    {
+      "id": "cascavel",
+      "nome": "Cascavel",
+      "tipo_unidade": "campus",
+      "path": "institucional/ifpr/campi/cascavel.json"
+    },
+    {
+      "id": "colombo",
+      "nome": "Colombo",
+      "tipo_unidade": "campus",
+      "path": "institucional/ifpr/campi/colombo.json"
+    },
+    {
+      "id": "coronel-vivida",
+      "nome": "Coronel Vivida",
+      "tipo_unidade": "campus",
+      "path": "institucional/ifpr/campi/coronel-vivida.json"
+    },
+    {
+      "id": "curitiba",
+      "nome": "Curitiba",
+      "tipo_unidade": "campus",
+      "path": "institucional/ifpr/campi/curitiba.json"
+    },
+    {
+      "id": "foz-do-iguacu",
+      "nome": "Foz do Iguaçu",
+      "tipo_unidade": "campus",
+      "path": "institucional/ifpr/campi/foz-do-iguacu.json"
+    },
+    {
+      "id": "goioere",
+      "nome": "Goioerê",
+      "tipo_unidade": "campus",
+      "path": "institucional/ifpr/campi/goioere.json"
+    },
+    {
+      "id": "irati",
+      "nome": "Irati",
+      "tipo_unidade": "campus",
+      "path": "institucional/ifpr/campi/irati.json"
+    },
+    {
+      "id": "ivaipora",
+      "nome": "Ivaiporã",
+      "tipo_unidade": "campus",
+      "path": "institucional/ifpr/campi/ivaipora.json"
+    },
+    {
+      "id": "jacarezinho",
+      "nome": "Jacarezinho",
+      "tipo_unidade": "campus",
+      "path": "institucional/ifpr/campi/jacarezinho.json"
+    },
+    {
+      "id": "jaguariaiva",
+      "nome": "Jaguariaíva",
+      "tipo_unidade": "campus",
+      "path": "institucional/ifpr/campi/jaguariaiva.json"
+    },
+    {
+      "id": "londrina",
+      "nome": "Londrina",
+      "tipo_unidade": "campus",
+      "path": "institucional/ifpr/campi/londrina.json"
+    },
+    {
+      "id": "palmas",
+      "nome": "Palmas",
+      "tipo_unidade": "campus",
+      "path": "institucional/ifpr/campi/palmas.json"
+    },
+    {
+      "id": "paranagua",
+      "nome": "Paranaguá",
+      "tipo_unidade": "campus",
+      "path": "institucional/ifpr/campi/paranagua.json"
+    },
+    {
+      "id": "paranavai",
+      "nome": "Paranavaí",
+      "tipo_unidade": "campus",
+      "path": "institucional/ifpr/campi/paranavai.json"
+    },
+    {
+      "id": "pinhais",
+      "nome": "Pinhais",
+      "tipo_unidade": "campus",
+      "path": "institucional/ifpr/campi/pinhais.json"
+    },
+    {
+      "id": "pitanga",
+      "nome": "Pitanga",
+      "tipo_unidade": "campus",
+      "path": "institucional/ifpr/campi/pitanga.json"
+    },
+    {
+      "id": "ponta-grossa",
+      "nome": "Ponta Grossa",
+      "tipo_unidade": "campus",
+      "path": "institucional/ifpr/campi/ponta-grossa.json"
+    },
+    {
+      "id": "quedas-do-iguacu",
+      "nome": "Quedas do Iguaçu",
+      "tipo_unidade": "campus",
+      "path": "institucional/ifpr/campi/quedas-do-iguacu.json"
+    },
+    {
+      "id": "telemaco-borba",
+      "nome": "Telêmaco Borba",
+      "tipo_unidade": "campus_avancado",
+      "path": "institucional/ifpr/campi/telemaco-borba.json"
+    },
+    {
       "id": "umuarama",
       "nome": "Umuarama",
       "tipo_unidade": "campus",
       "path": "institucional/ifpr/campi/umuarama.json"
-    },
-    {
-      "id": "barracao",
-      "nome": "Barracão",
-      "tipo_unidade": "campus",
-      "path": "institucional/ifpr/campi/barracao.json"
     },
     {
       "id": "uniao-da-vitoria",
