@@ -187,7 +187,6 @@ def base_schemas() -> dict[str, dict[str, Any]]:
                 "Número SEI": {"title": {}},
                 "Tipo principal": select_schema(SELECTS["processo_tipo"]),
                 "Status": select_schema(SELECTS["processo_status"]),
-                "Link SEI": {"url": {}},
                 "Data de abertura": {"date": {}},
                 "Última movimentação": {"date": {}},
                 "Unidade responsável": {"rich_text": {}},

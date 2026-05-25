@@ -44,7 +44,7 @@ Campos principais: `Título`, `lifecycle_id`, `Classe`, `Tipo`, `Fase`, `Modo`, 
 
 Entidade própria para processos administrativos associados ao histórico de cursos.
 
-Campos principais: `Número SEI`, `Tipo principal`, `Status`, `Link SEI`, `Data de abertura`, `Última movimentação`, `Unidade responsável`, `Campi`, `Cursos`, `Lifecycle de Cursos`, `Observações`, `Planilha origem`, `Linhas origem`.
+Campos principais: `Número SEI`, `Tipo principal`, `Status`, `Data de abertura`, `Última movimentação`, `Unidade responsável`, `Campi`, `Cursos`, `Lifecycle de Cursos`, `Observações`, `Planilha origem`, `Linhas origem`.
 
 `Data de abertura` registra a data de autuação/criação do processo no SEI. Quando a autuação exata não estiver disponível, use a primeira movimentação ou o primeiro documento datado apenas se isso estiver claro nas evidências; se for uma aproximação, registre a limitação em `Observações`.
 
