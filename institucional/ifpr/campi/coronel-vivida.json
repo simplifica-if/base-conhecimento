@@ -21,6 +21,7 @@
   "cursos": [
     {
       "id": "tecnico-em-administracao",
+      "notion_page_id": "367f5b13-1dbd-8139-8071-ea7127d2a030",
       "nome": "Técnico em Administração",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
@@ -65,6 +66,7 @@
     },
     {
       "id": "tecnico-em-cooperativismo",
+      "notion_page_id": "367f5b13-1dbd-8108-88d7-def4cee33de0",
       "nome": "Técnico em Cooperativismo",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
@@ -109,6 +111,7 @@
     },
     {
       "id": "tecnologia-em-gestao-financeira",
+      "notion_page_id": "367f5b13-1dbd-81de-a098-e0adb3999d59",
       "nome": "Tecnologia em Gestão Financeira",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

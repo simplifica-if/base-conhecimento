@@ -294,7 +294,7 @@ class Exporter:
         return {
             "id": plain_text(props.get("curso_id")),
             "nome": plain_text(props.get("Nome")),
-            "id_composto": plain_text(props.get("id_composto")),
+            "notion_page_id": page["id"],
         }
 
     def campus_json(self, page: dict[str, Any]) -> dict[str, Any]:
@@ -353,6 +353,7 @@ class Exporter:
         props = page["properties"]
         course: dict[str, Any] = {
             "id": plain_text(props.get("curso_id")),
+            "notion_page_id": page["id"],
             "nome": plain_text(props.get("Nome")),
             "nivel": select_name(props.get("Nível")),
             "tipo_oferta": select_name(props.get("Forma de oferta") or props.get("Tipo de oferta")),

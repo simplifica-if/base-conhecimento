@@ -20,6 +20,7 @@
   "cursos": [
     {
       "id": "bacharelado-em-agronomia",
+      "notion_page_id": "367f5b13-1dbd-810f-a71b-fb5b9f8dcdb4",
       "nome": "Bacharelado em Agronomia",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -51,6 +52,7 @@
     },
     {
       "id": "bacharelado-em-engenharia-de-software",
+      "notion_page_id": "367f5b13-1dbd-81ce-8701-ed6c1758b5ee",
       "nome": "Bacharelado em Engenharia de Software",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -82,6 +84,7 @@
     },
     {
       "id": "licenciatura-em-quimica",
+      "notion_page_id": "367f5b13-1dbd-8164-90da-f8a58bd907f3",
       "nome": "Licenciatura em Química",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -106,6 +109,7 @@
     },
     {
       "id": "tecnico-em-agroecologia",
+      "notion_page_id": "367f5b13-1dbd-811b-abad-f2217e873483",
       "nome": "Técnico em Agroecologia",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
@@ -150,7 +154,8 @@
     },
     {
       "id": "tecnico-em-informatica",
-      "nome": "Técnico em Informática (Integrado)",
+      "notion_page_id": "367f5b13-1dbd-81f9-9ff9-c924607eba5a",
+      "nome": "Técnico em Informática",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/irati/nossos-cursos/tecnicos-integrados/tecnico-em-informatica-integrado-ao-ensino-medio/",
@@ -197,7 +202,8 @@
     },
     {
       "id": "tecnico-em-quimica-integrado-ao-ensino-medio",
-      "nome": "Técnico em Química Integrado ao Ensino Médio",
+      "notion_page_id": "36cf5b13-1dbd-8137-8ed9-eb52562c9bd4",
+      "nome": "Técnico em Química",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://irati.ifpr.edu.br/",
@@ -216,6 +222,7 @@
     },
     {
       "id": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
+      "notion_page_id": "367f5b13-1dbd-8154-aaaa-d6126b0897fd",
       "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

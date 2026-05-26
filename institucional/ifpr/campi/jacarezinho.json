@@ -19,6 +19,7 @@
   "cursos": [
     {
       "id": "educacao-sociedade-e-tecnologia",
+      "notion_page_id": "367f5b13-1dbd-8105-9dbb-eb2bfb58b1d9",
       "nome": "Educação, Sociedade e Tecnologia",
       "nivel": "pós-graduação",
       "tipo_oferta": "especialização",
@@ -51,6 +52,7 @@
     },
     {
       "id": "engenharia-de-controle-e-automacao",
+      "notion_page_id": "367f5b13-1dbd-8103-92c8-f503945e2f8a",
       "nome": "Engenharia de Controle e Automação",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -84,6 +86,7 @@
     },
     {
       "id": "licenciatura-em-quimica",
+      "notion_page_id": "367f5b13-1dbd-81f5-ac86-f5f47058b3ba",
       "nome": "Licenciatura em Química",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -108,6 +111,7 @@
     },
     {
       "id": "tecnico-em-alimentos",
+      "notion_page_id": "367f5b13-1dbd-81fd-8bf5-e5d4c34d24d6",
       "nome": "Técnico em Alimentos",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
@@ -145,6 +149,7 @@
     },
     {
       "id": "tecnico-em-eletromecanica",
+      "notion_page_id": "367f5b13-1dbd-81a5-ac32-cab66eaac919",
       "nome": "Técnico em Eletromecânica",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
@@ -182,6 +187,7 @@
     },
     {
       "id": "tecnico-em-eletrotecnica",
+      "notion_page_id": "367f5b13-1dbd-81c1-a3d0-cb58699842e2",
       "nome": "Técnico em Eletrotécnica",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
@@ -219,6 +225,7 @@
     },
     {
       "id": "tecnico-em-informatica",
+      "notion_page_id": "367f5b13-1dbd-81d1-a39a-ec1aae86a7be",
       "nome": "Técnico em Informática",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
@@ -256,6 +263,7 @@
     },
     {
       "id": "tecnico-em-mecanica",
+      "notion_page_id": "367f5b13-1dbd-816d-af39-efaeac61c117",
       "nome": "Técnico em Mecânica",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
@@ -293,6 +301,7 @@
     },
     {
       "id": "tecnico-em-teatro",
+      "notion_page_id": "367f5b13-1dbd-8190-aa1e-c063edfab6b7",
       "nome": "Técnico em Teatro",
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
@@ -330,6 +339,7 @@
     },
     {
       "id": "tecnologia-em-sistemas-para-internet",
+      "notion_page_id": "367f5b13-1dbd-811b-8c43-ff6dd3a2fa45",
       "nome": "Tecnologia em Sistemas para Internet",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

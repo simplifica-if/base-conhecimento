@@ -105,7 +105,7 @@ Nesses casos, use os arquivos locais e a hierarquia de fontes definida em `llms.
 
 Ao alterar dados no Notion:
 
-- preserve identificadores estáveis, como `campus_id`, `curso_id`, `id_composto`, `documento_id`, `Número SEI`, `suap_curso_id` e IDs de processo seletivo;
+- preserve identificadores estáveis, como `campus_id`, `curso_id`, `notion_page_id`, `documento_id`, `Número SEI`, `suap_curso_id` e IDs de processo seletivo;
 - não crie campos técnicos de sincronização, migração ou controle interno sem necessidade operacional atual;
 - não crie propriedades novas no Notion sem atualizar `docs/notion-gestao-cursos.md` e os scripts que leem ou exportam a base;
 - registre fontes, datas de coleta e notas de curadoria quando a informação vier de site externo, planilha, SEI ou SUAP;

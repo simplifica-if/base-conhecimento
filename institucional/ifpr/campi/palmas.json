@@ -21,6 +21,7 @@
   "cursos": [
     {
       "id": "agronomia",
+      "notion_page_id": "367f5b13-1dbd-811e-a3d4-df36a75852a3",
       "nome": "Agronomia",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -51,6 +52,7 @@
     },
     {
       "id": "bacharelado-em-administracao",
+      "notion_page_id": "367f5b13-1dbd-8140-ad8f-edc8baf0a457",
       "nome": "Bacharelado em Administração",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -81,6 +83,7 @@
     },
     {
       "id": "enfermagem",
+      "notion_page_id": "367f5b13-1dbd-8143-bf98-e3786fa32631",
       "nome": "Enfermagem",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -111,6 +114,7 @@
     },
     {
       "id": "farmacia",
+      "notion_page_id": "367f5b13-1dbd-8176-a2b4-e73858cfb152",
       "nome": "Farmácia",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -141,6 +145,7 @@
     },
     {
       "id": "licenciatura-em-educacao-fisica",
+      "notion_page_id": "367f5b13-1dbd-812c-99aa-ef62ffb9564c",
       "nome": "Licenciatura em Educação Física",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -172,6 +177,7 @@
     },
     {
       "id": "licenciatura-em-quimica",
+      "notion_page_id": "367f5b13-1dbd-812b-8649-e210befe8efc",
       "nome": "Licenciatura em Química",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -203,6 +209,7 @@
     },
     {
       "id": "pedagogia",
+      "notion_page_id": "367f5b13-1dbd-818a-a6f8-ee6e13f97acc",
       "nome": "Pedagogia",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -233,6 +240,7 @@
     },
     {
       "id": "sistemas-de-informacao",
+      "notion_page_id": "367f5b13-1dbd-8171-a23f-e09760497754",
       "nome": "Sistemas de Informação",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -263,6 +271,7 @@
     },
     {
       "id": "tecnico-em-alimentos",
+      "notion_page_id": "367f5b13-1dbd-81ab-9aa8-ff3e199ede91",
       "nome": "Técnico em Alimentos",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
@@ -299,6 +308,7 @@
     },
     {
       "id": "tecnico-em-informatica-para-internet",
+      "notion_page_id": "367f5b13-1dbd-81e2-9056-e0bf029ffd5b",
       "nome": "Técnico em Informática para Internet",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
@@ -335,6 +345,7 @@
     },
     {
       "id": "tecnico-em-servicos-juridicos",
+      "notion_page_id": "367f5b13-1dbd-817a-ba49-d5ca8f5bc39b",
       "nome": "Técnico em Serviços Jurídicos",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",

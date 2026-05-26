@@ -20,9 +20,9 @@ Campos principais: `Nome`, `campus_id`, `Tipo de unidade`, `Site`, `Calendário 
 
 ### Cursos
 
-Cada registro representa uma oferta de curso em um campus, identificada por `campus_id/curso_id`.
+Cada registro representa uma oferta de curso em um campus. O vínculo operacional entre os JSONs publicados e o Notion é feito por `notion_page_id`; `campus_id` e `curso_id` seguem como identificadores semânticos públicos.
 
-Campos principais: `Nome`, `curso_id`, `id_composto`, `Campus`, `Nível`, `Forma de oferta`, `Modalidade`, `Situação`, `Escopo`, `URL oficial`.
+Campos principais: `Nome`, `curso_id`, `Campus`, `Nível`, `Forma de oferta`, `Modalidade`, `Situação`, `Escopo`, `URL oficial`.
 
 Metadados SUAP ficam apenas na base `SUAP Cursos`.
 

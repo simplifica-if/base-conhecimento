@@ -20,6 +20,7 @@
   "cursos": [
     {
       "id": "bacharelado-em-sistemas-de-informacao",
+      "notion_page_id": "367f5b13-1dbd-813f-82df-f2ca10f72183",
       "nome": "Bacharelado em Sistemas de Informação",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -51,6 +52,7 @@
     },
     {
       "id": "engenharia-agronomica",
+      "notion_page_id": "367f5b13-1dbd-81fc-ad24-e33363f177c3",
       "nome": "Engenharia Agronômica",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -82,6 +84,7 @@
     },
     {
       "id": "licenciatura-em-fisica",
+      "notion_page_id": "367f5b13-1dbd-81f4-b3c5-f8b0fb15b363",
       "nome": "Licenciatura em Física",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -114,7 +117,8 @@
     },
     {
       "id": "tecnico-em-agroecologia-integrado",
-      "nome": "Técnico em Agroecologia Integrado",
+      "notion_page_id": "367f5b13-1dbd-81c6-98af-d088aa97d909",
+      "nome": "Técnico em Agroecologia",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/ivaipora/nossos-cursos/cursos-tecnicos/tecnico-em-agroecologia-integrado/",
@@ -151,7 +155,8 @@
     },
     {
       "id": "tecnico-em-agropecuaria-integrado-ao-ensino-medio",
-      "nome": "Técnico em Agropecuária Integrado ao Ensino Médio",
+      "notion_page_id": "367f5b13-1dbd-8168-8668-c9c51071dc83",
+      "nome": "Técnico em Agropecuária",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/ivaipora/nossos-cursos/cursos-tecnicos/tecnico-em-agropecuaria-integrado-ao-ensino-medio/",
@@ -188,7 +193,8 @@
     },
     {
       "id": "tecnico-em-eletrotecnica-integrado",
-      "nome": "Técnico em Eletrotécnica Integrado",
+      "notion_page_id": "367f5b13-1dbd-8124-a56e-e0be3554cb40",
+      "nome": "Técnico em Eletrotécnica",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/ivaipora/nossos-cursos/cursos-tecnicos/eletrotecnica-integrado-ao-ensino-medio/",
@@ -225,7 +231,8 @@
     },
     {
       "id": "tecnico-em-eletrotecnica-subsequente",
-      "nome": "Técnico em Eletrotécnica Subsequente",
+      "notion_page_id": "367f5b13-1dbd-8188-873d-dee5937cfb93",
+      "nome": "Técnico em Eletrotécnica",
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
       "url": "https://ifpr.edu.br/ivaipora/",
@@ -258,7 +265,8 @@
     },
     {
       "id": "tecnico-em-informatica-integrado-ao-ensino-medio",
-      "nome": "Técnico em Informática Integrado ao Ensino Médio",
+      "notion_page_id": "367f5b13-1dbd-8192-94a8-f73ace0e992f",
+      "nome": "Técnico em Informática",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/ivaipora/nossos-cursos/cursos-tecnicos/tecnico-em-informatica/",
@@ -295,6 +303,7 @@
     },
     {
       "id": "tecnologia-em-agroecologia",
+      "notion_page_id": "367f5b13-1dbd-81ca-9620-ea98993c333b",
       "nome": "Tecnologia em Agroecologia",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

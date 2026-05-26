@@ -20,6 +20,7 @@
   "cursos": [
     {
       "id": "licenciatura-em-pedagogia",
+      "notion_page_id": "367f5b13-1dbd-8186-ad88-d2281b61651b",
       "nome": "Licenciatura em Pedagogia",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -51,6 +52,7 @@
     },
     {
       "id": "licenciatura-em-quimica",
+      "notion_page_id": "367f5b13-1dbd-8183-8e63-f6f376c393a9",
       "nome": "Licenciatura em Química",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -82,7 +84,8 @@
     },
     {
       "id": "tecnico-em-alimentos",
-      "nome": "Técnico Em Alimentos",
+      "notion_page_id": "367f5b13-1dbd-81d7-a966-cdd556c14ddc",
+      "nome": "Técnico em Alimentos",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/pitanga/nossos-cursos/integrados-ao-ensino-medio/tecnico-em-alimentos/",
@@ -117,7 +120,8 @@
     },
     {
       "id": "tecnico-em-cooperativismo",
-      "nome": "Técnico Em Cooperativismo",
+      "notion_page_id": "367f5b13-1dbd-818d-8654-d87a78f32b30",
+      "nome": "Técnico em Cooperativismo",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/pitanga/nossos-cursos/integrados-ao-ensino-medio/tecnico-em-cooperativismo/",
@@ -154,7 +158,8 @@
     },
     {
       "id": "tecnico-em-desenvolvimento-de-sistemas",
-      "nome": "Técnico Em Desenvolvimento de Sistemas",
+      "notion_page_id": "367f5b13-1dbd-81cc-8404-d6615508ef66",
+      "nome": "Técnico em Desenvolvimento de Sistemas",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/pitanga/nossos-cursos/integrados-ao-ensino-medio/tecnico-em-desenvolvimento-de-sistemas/",
@@ -203,6 +208,7 @@
     },
     {
       "id": "tecnologia-em-agroindustria",
+      "notion_page_id": "367f5b13-1dbd-81d6-842f-ff5e1e00a590",
       "nome": "Tecnologia em Agroindústria",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

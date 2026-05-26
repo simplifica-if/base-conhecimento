@@ -19,6 +19,7 @@
   "cursos": [
     {
       "id": "tecnico-em-informatica",
+      "notion_page_id": "367f5b13-1dbd-81e5-b0e8-f109b21f387d",
       "nome": "Técnico em Informática",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
@@ -70,6 +71,7 @@
     },
     {
       "id": "tecnico-em-producao-de-moda",
+      "notion_page_id": "367f5b13-1dbd-81e7-adef-e6ca5016c747",
       "nome": "Técnico em Produção de Moda",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",

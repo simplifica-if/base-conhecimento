@@ -20,6 +20,7 @@
   "cursos": [
     {
       "id": "bacharelado-em-administracao",
+      "notion_page_id": "367f5b13-1dbd-81c7-80fb-d3a542f70536",
       "nome": "Bacharelado em Administração",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -44,6 +45,7 @@
     },
     {
       "id": "bacharelado-em-ciencia-da-computacao",
+      "notion_page_id": "367f5b13-1dbd-81f3-aaf2-f437107a795a",
       "nome": "Bacharelado em Ciência da Computação",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -75,7 +77,8 @@
     },
     {
       "id": "tecnico-em-administracao-integrado-ao-ensino-medio",
-      "nome": "Curso Técnico em Administração Integrado ao Ensino Médio",
+      "notion_page_id": "367f5b13-1dbd-8197-bc28-efb0534185e0",
+      "nome": "Técnico em Administração",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/pinhais/institucional/nossos-cursos/tecnicos-integrados/administracao/",
@@ -119,7 +122,8 @@
     },
     {
       "id": "tecnico-em-informatica-integrado-ao-ensino-medio",
-      "nome": "Curso Técnico em Informática Integrado ao Ensino Médio",
+      "notion_page_id": "367f5b13-1dbd-810a-b0e9-cb0d6dc5fd8b",
+      "nome": "Técnico em Informática",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/pinhais/institucional/nossos-cursos/tecnicos-integrados/informatica/",
@@ -165,6 +169,7 @@
     },
     {
       "id": "tecnologia-em-gestao-da-tecnologia-da-informacao",
+      "notion_page_id": "367f5b13-1dbd-81cd-9d9e-d4cb516c33c8",
       "nome": "Tecnologia em Gestão da Tecnologia da Informação",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

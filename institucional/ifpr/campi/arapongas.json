@@ -20,6 +20,7 @@
   "cursos": [
     {
       "id": "especializacao-em-docencia-e-praticas-educativas",
+      "notion_page_id": "367f5b13-1dbd-8111-9d7b-c3839b43d567",
       "nome": "Especialização em Docência e Práticas Educativas",
       "nivel": "pós-graduação",
       "tipo_oferta": "especialização",
@@ -51,6 +52,7 @@
     },
     {
       "id": "gestao-de-competencias-para-exames-de-larga-escala",
+      "notion_page_id": "367f5b13-1dbd-818d-b073-d2977bb0f66c",
       "nome": "Gestão de Competências para Exames de Larga Escala (Cursinho)",
       "nivel": "formação inicial e continuada",
       "tipo_oferta": "FIC",
@@ -58,6 +60,7 @@
     },
     {
       "id": "partiu-if",
+      "notion_page_id": "367f5b13-1dbd-81cd-a1bb-dab53f179ef7",
       "nome": "Partiu IF",
       "nivel": "médio",
       "tipo_oferta": "programa institucional",
@@ -65,6 +68,7 @@
     },
     {
       "id": "portugues-como-lingua-de-acolhimento-plac",
+      "notion_page_id": "367f5b13-1dbd-8114-9d63-f8145ccb33b1",
       "nome": "Português como Língua de Acolhimento - PLAc",
       "nivel": "formação inicial e continuada",
       "tipo_oferta": "FIC",
@@ -72,6 +76,7 @@
     },
     {
       "id": "programacao-com-enfase-em-analise-de-dados",
+      "notion_page_id": "367f5b13-1dbd-8166-b663-eec25419e5bf",
       "nome": "Programação com ênfase em Análise de Dados",
       "nivel": "formação inicial e continuada",
       "tipo_oferta": "FIC",
@@ -103,6 +108,7 @@
     },
     {
       "id": "programacao-web",
+      "notion_page_id": "367f5b13-1dbd-8130-bbe3-e268039ebd38",
       "nome": "Programação Web",
       "nivel": "formação inicial e continuada",
       "tipo_oferta": "FIC",
@@ -134,6 +140,7 @@
     },
     {
       "id": "tecnico-em-agente-comunitario-de-saude",
+      "notion_page_id": "367f5b13-1dbd-81b3-9ec2-f563ba5c3315",
       "nome": "Técnico em Agente Comunitário de Saúde",
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
@@ -141,6 +148,7 @@
     },
     {
       "id": "tecnico-em-logistica",
+      "notion_page_id": "367f5b13-1dbd-81bc-98fc-f999330db98f",
       "nome": "Técnico em Logística",
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
@@ -148,6 +156,7 @@
     },
     {
       "id": "tecnico-em-meio-ambiente",
+      "notion_page_id": "367f5b13-1dbd-81ed-99de-e1cb9c25d2e6",
       "nome": "Técnico em Meio Ambiente",
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
@@ -155,6 +164,7 @@
     },
     {
       "id": "tecnico-em-melhoria-de-processos",
+      "notion_page_id": "367f5b13-1dbd-81de-ba00-f107fda34d0b",
       "nome": "Técnico em Melhoria de Processos",
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
@@ -206,6 +216,7 @@
     },
     {
       "id": "tecnico-em-sistemas-de-energia-renovavel-integrado-ao-ensino-medio",
+      "notion_page_id": "367f5b13-1dbd-81f1-b676-c39748960d78",
       "nome": "Técnico em Sistemas de Energia Renovável",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
@@ -251,6 +262,7 @@
     },
     {
       "id": "tecnologia-em-processos-gerenciais",
+      "notion_page_id": "367f5b13-1dbd-810e-a7f8-ff61319c1721",
       "nome": "Tecnologia em Processos Gerenciais",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

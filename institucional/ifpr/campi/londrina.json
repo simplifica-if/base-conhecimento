@@ -20,6 +20,7 @@
   "cursos": [
     {
       "id": "especializacao-lato-sensu-em-saude-coletiva-com-enfase-na-promocao-da-saude",
+      "notion_page_id": "367f5b13-1dbd-8177-b5ac-e7a9bf1e916f",
       "nome": "Especializacao Lato Sensu em Saude Coletiva com Enfase na Promocao da Saude",
       "nivel": "pós-graduação",
       "tipo_oferta": "especialização",
@@ -36,6 +37,7 @@
     },
     {
       "id": "licenciatura-em-ciencias-biologicas-2",
+      "notion_page_id": "367f5b13-1dbd-814e-938d-f3172fbae3de",
       "nome": "Licenciatura em Ciencias Biologicas 2",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -69,7 +71,8 @@
     },
     {
       "id": "tecnico-em-biotecnologia-integrado-ao-ensino-medio",
-      "nome": "Técnico em Biotecnologia Integrado ao Ensino Médio",
+      "notion_page_id": "367f5b13-1dbd-81d4-a17f-f2bd0a0a5c14",
+      "nome": "Técnico em Biotecnologia",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/londrina/ensino-medio-integrado-a-biotecnologia/",
@@ -106,7 +109,8 @@
     },
     {
       "id": "tecnico-em-enfermagem",
-      "nome": "Tecnico em Enfermagem",
+      "notion_page_id": "367f5b13-1dbd-81c0-8f84-d2e3f95baa56",
+      "nome": "Técnico em Enfermagem",
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
       "url": "https://ifpr.edu.br/londrina/tecnico-em-enfermagem/",
@@ -143,7 +147,8 @@
     },
     {
       "id": "tecnico-em-informatica-integrado-ao-ensino-medio",
-      "nome": "Técnico em Informática Integrado ao Ensino Médio",
+      "notion_page_id": "367f5b13-1dbd-81bc-9191-cb4ac0fef278",
+      "nome": "Técnico em Informática",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/londrina/tecnico-em-informatica-integrado/",
@@ -180,7 +185,8 @@
     },
     {
       "id": "tecnico-em-massoterapia",
-      "nome": "Tecnico em Massoterapia",
+      "notion_page_id": "367f5b13-1dbd-8120-b265-cbf1bcb9529a",
+      "nome": "Técnico em Massoterapia",
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
       "url": "https://ifpr.edu.br/londrina/tecnico-em-massoterapia/",
@@ -217,7 +223,8 @@
     },
     {
       "id": "tecnico-em-protese-dentaria-2",
-      "nome": "Tecnico em Protese Dentaria 2",
+      "notion_page_id": "367f5b13-1dbd-8112-86e8-f6bf4563c29d",
+      "nome": "Técnico em Prótese Dentária",
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
       "url": "https://ifpr.edu.br/londrina/tecnico-em-protese-dentaria-2/",
@@ -252,7 +259,8 @@
     },
     {
       "id": "tecnico-em-saude-bucal",
-      "nome": "Tecnico em Saude Bucal",
+      "notion_page_id": "367f5b13-1dbd-8159-beff-ed56af44968c",
+      "nome": "Técnico em Saúde Bucal",
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
       "url": "https://ifpr.edu.br/londrina/tecnico-em-saude-bucal/",
@@ -302,6 +310,7 @@
     },
     {
       "id": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
+      "notion_page_id": "367f5b13-1dbd-81b9-bdca-eb2ef575ccad",
       "nome": "Tecnologia em Analise e Desenvolvimento de Sistemas",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

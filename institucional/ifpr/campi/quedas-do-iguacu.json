@@ -19,7 +19,8 @@
   "cursos": [
     {
       "id": "tecnico-em-informatica",
-      "nome": "Tecnico em Informatica",
+      "notion_page_id": "367f5b13-1dbd-8136-8ce1-d9ce68619e78",
+      "nome": "Técnico em Informática",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/quedas-do-iguacu/medio-integrado-2/tecnico-em-informatica/",
@@ -56,7 +57,8 @@
     },
     {
       "id": "tecnico-em-meio-ambiente",
-      "nome": "Tecnico em Meio Ambiente",
+      "notion_page_id": "367f5b13-1dbd-8131-b258-c9c5953518ff",
+      "nome": "Técnico em Meio Ambiente",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/quedas-do-iguacu/medio-integrado-2/tecnico-em-meio-ambiente/",

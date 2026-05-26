@@ -20,6 +20,7 @@
   "cursos": [
     {
       "id": "especializacao-em-educacao-e-tecnologia",
+      "notion_page_id": "367f5b13-1dbd-815d-8984-df316322b6ee",
       "nome": "Especialização em Educação e Tecnologia",
       "nivel": "pós-graduação",
       "tipo_oferta": "especialização",
@@ -50,7 +51,8 @@
     },
     {
       "id": "tecnico-em-alimentos-integrado-ao-ensino-medio",
-      "nome": "Técnico em Alimentos Integrado ao Ensino Médio",
+      "notion_page_id": "367f5b13-1dbd-8139-8f8c-f8338dba0cbf",
+      "nome": "Técnico em Alimentos",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/jaguariaiva/integrados-ao-ensino-medio/curso-tecnico-em-alimentos/",
@@ -87,7 +89,8 @@
     },
     {
       "id": "tecnico-em-biotecnologia-integrado-ao-ensino-medio",
-      "nome": "Técnico em Biotecnologia Integrado ao Ensino Médio",
+      "notion_page_id": "367f5b13-1dbd-81f8-9ed5-da464dd949fc",
+      "nome": "Técnico em Biotecnologia",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/jaguariaiva/integrados-ao-ensino-medio/curso-tecnico/",
@@ -124,6 +127,7 @@
     },
     {
       "id": "tecnologo-em-gestao-da-qualidade",
+      "notion_page_id": "367f5b13-1dbd-81a0-886d-dc31982a8c75",
       "nome": "Tecnologo em Gestao da Qualidade",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

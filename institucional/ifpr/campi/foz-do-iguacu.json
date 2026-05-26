@@ -21,6 +21,7 @@
   "cursos": [
     {
       "id": "engenharia-de-aquicultura",
+      "notion_page_id": "367f5b13-1dbd-8130-a812-c39dfe4f3978",
       "nome": "Engenharia de Aquicultura",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -54,6 +55,7 @@
     },
     {
       "id": "especializacao-em-ensino-de-ciencias-e-matematica",
+      "notion_page_id": "367f5b13-1dbd-810b-88c5-f6a626534bbb",
       "nome": "Especializacao em Ensino de Ciencias e Matematica",
       "nivel": "pós-graduação",
       "tipo_oferta": "especialização",
@@ -86,6 +88,7 @@
     },
     {
       "id": "licenciatura-em-fisica",
+      "notion_page_id": "367f5b13-1dbd-81d9-9b83-e92c9248f362",
       "nome": "Licenciatura em Fisica",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -118,6 +121,7 @@
     },
     {
       "id": "pos-graduacao-lato-sensu-em-internet-das-coisas-iot-do-ifpr",
+      "notion_page_id": "367f5b13-1dbd-81f9-b29f-e1194b9764f1",
       "nome": "Pos Graduacao Lato Sensu em Internet das Coisas Iot do Ifpr",
       "nivel": "pós-graduação",
       "tipo_oferta": "especialização",
@@ -150,7 +154,8 @@
     },
     {
       "id": "tecnico-em-aquicultura",
-      "nome": "Tecnico em Aquicultura",
+      "notion_page_id": "367f5b13-1dbd-816b-8fd4-d727fa0babfa",
+      "nome": "Técnico em Aquicultura",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/foz-do-iguacu/tecnicos-integrados-3/tecnico-em-aquicultura/",
@@ -200,7 +205,8 @@
     },
     {
       "id": "tecnico-em-desenvolvimento-de-sistemas",
-      "nome": "Tecnico em Desenvolvimento de Sistemas",
+      "notion_page_id": "367f5b13-1dbd-8104-9e7a-e12e43c3cdc8",
+      "nome": "Técnico em Desenvolvimento de Sistemas",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/foz-do-iguacu/tecnicos-integrados-3/tecnico-em-desenvolvimento-de-sistemas/",
@@ -250,7 +256,8 @@
     },
     {
       "id": "tecnico-em-edificacoes-3",
-      "nome": "Tecnico em Edificacoes 3",
+      "notion_page_id": "367f5b13-1dbd-81c7-86a3-e7fa50f6c607",
+      "nome": "Técnico em Edificações",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/foz-do-iguacu/tecnicos-integrados-3/tecnico-em-edificacoes-3/",
@@ -300,6 +307,7 @@
     },
     {
       "id": "tecnico-em-gastronomia",
+      "notion_page_id": "367f5b13-1dbd-81c2-b725-da73f0542eab",
       "nome": "Técnico em Gastronomia",
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
@@ -337,7 +345,8 @@
     },
     {
       "id": "tecnico-em-meio-ambiente",
-      "nome": "Tecnico em Meio Ambiente",
+      "notion_page_id": "367f5b13-1dbd-81f4-a8ad-f03fd1449d2b",
+      "nome": "Técnico em Meio Ambiente",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/foz-do-iguacu/tecnicos-integrados-3/tecnico-em-meio-ambiente/",
@@ -387,6 +396,7 @@
     },
     {
       "id": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
+      "notion_page_id": "367f5b13-1dbd-8186-8c70-d6f0d29b6766",
       "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",
@@ -418,6 +428,7 @@
     },
     {
       "id": "tecnologia-em-gastronomia",
+      "notion_page_id": "367f5b13-1dbd-8178-ba2f-f3afa6a936f6",
       "nome": "Tecnologia em Gastronomia",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

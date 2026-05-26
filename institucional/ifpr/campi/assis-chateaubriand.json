@@ -20,6 +20,7 @@
   "cursos": [
     {
       "id": "tecnico-em-agropecuaria",
+      "notion_page_id": "367f5b13-1dbd-81d0-be8f-ead8e61a8e4f",
       "nome": "Técnico em Agropecuária",
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
@@ -66,7 +67,8 @@
     },
     {
       "id": "tecnico-em-agropecuaria-integrado-ao-ensino-medio",
-      "nome": "Técnico em Agropecuária Integrado ao Ensino Médio",
+      "notion_page_id": "367f5b13-1dbd-8132-8c61-ee0dab217a87",
+      "nome": "Técnico em Agropecuária",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/",
@@ -119,6 +121,7 @@
     },
     {
       "id": "tecnico-em-alimentos",
+      "notion_page_id": "367f5b13-1dbd-8199-824d-e129f653991f",
       "nome": "Técnico em Alimentos",
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
@@ -163,6 +166,7 @@
     },
     {
       "id": "tecnico-em-comercio",
+      "notion_page_id": "367f5b13-1dbd-81b0-810a-f7436aeba227",
       "nome": "Técnico em Comércio",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
@@ -213,7 +217,8 @@
     },
     {
       "id": "tecnico-em-eletromecanica-integrado-ao-ensino-medio",
-      "nome": "Técnico em Eletromecânica Integrado ao Ensino Médio",
+      "notion_page_id": "367f5b13-1dbd-816d-ace2-d2f307219c9c",
+      "nome": "Técnico em Eletromecânica",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/cursos-tecnicos/eletromecanica-integradoensino-medio/informacoes/",
@@ -259,7 +264,8 @@
     },
     {
       "id": "tecnico-em-eletromecanica-subsequente",
-      "nome": "Técnico em Eletromecânica Subsequente",
+      "notion_page_id": "367f5b13-1dbd-81f5-87eb-e26e89ea61e0",
+      "nome": "Técnico em Eletromecânica",
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
       "url": "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/cursos-subsequentes/eletromecanica/informacoes/",
@@ -289,7 +295,8 @@
     },
     {
       "id": "tecnico-em-eletrotecnica-subsequente",
-      "nome": "Técnico em Eletrotécnica Subsequente",
+      "notion_page_id": "367f5b13-1dbd-8121-b0b4-ddef8c4df4e6",
+      "nome": "Técnico em Eletrotécnica",
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
       "url": "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/cursos-subsequentes/eletrotecnica/informacoes/",
@@ -330,7 +337,8 @@
     },
     {
       "id": "tecnico-em-informatica-para-internet-integrado-ao-ensino-medio",
-      "nome": "Técnico em Informática para Internet Integrado ao Ensino Médio",
+      "notion_page_id": "367f5b13-1dbd-8121-95a9-f4005cfca015",
+      "nome": "Técnico em Informática para Internet",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/cursos-tecnicos/curso-tecnico-em-informatica-para-a-internet/",
@@ -377,7 +385,8 @@
     },
     {
       "id": "tecnico-em-mecatronica-integrado-ao-ensino-medio",
-      "nome": "Técnico em Mecatrônica Integrado ao Ensino Médio",
+      "notion_page_id": "367f5b13-1dbd-8189-b1fc-db70d4a32bc7",
+      "nome": "Técnico em Mecatrônica",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/assis-chateaubriand/nossos-cursos/cursos-tecnicos/tecnico-em-mecatronica-integrado-ao-ensino-medio/",
@@ -427,6 +436,7 @@
     },
     {
       "id": "tecnologia-em-automacao-industrial",
+      "notion_page_id": "367f5b13-1dbd-81e6-a4d5-fa55a1547ab2",
       "nome": "Tecnologia em Automação Industrial",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",
@@ -451,6 +461,7 @@
     },
     {
       "id": "tecnologia-em-gestao-comercial",
+      "notion_page_id": "367f5b13-1dbd-815e-99b5-ff68b8745c5c",
       "nome": "Tecnologia em Gestão Comercial",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

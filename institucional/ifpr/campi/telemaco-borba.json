@@ -20,6 +20,7 @@
   "cursos": [
     {
       "id": "engenharia-eletrica",
+      "notion_page_id": "367f5b13-1dbd-8101-9c4a-cd21476e112e",
       "nome": "Engenharia Elétrica",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -51,6 +52,7 @@
     },
     {
       "id": "licenciatura-em-fisica",
+      "notion_page_id": "367f5b13-1dbd-8157-bcef-dff39701ac84",
       "nome": "Licenciatura em Física",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -82,7 +84,8 @@
     },
     {
       "id": "tecnico-em-automacao-industrial-integrado-ao-ensino-medio",
-      "nome": "Técnico em Automação Industrial Integrado ao Ensino Médio",
+      "notion_page_id": "367f5b13-1dbd-81fc-a17d-e9d90d3e48bd",
+      "nome": "Técnico em Automação Industrial",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/telemaco-borba/cursos-tecnicos-integrados/automacao-industrial/",
@@ -131,7 +134,8 @@
     },
     {
       "id": "tecnico-em-eletromecanica-subsequente",
-      "nome": "Técnico em Eletromecânica Subsequente",
+      "notion_page_id": "36cf5b13-1dbd-81b9-b396-e4da2d83c8c5",
+      "nome": "Técnico em Eletromecânica",
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
       "url": "https://ifpr.edu.br/telemaco-borba/",
@@ -150,7 +154,8 @@
     },
     {
       "id": "tecnico-em-eletrotecnica-integrado-ao-ensino-medio",
-      "nome": "Técnico em Eletrotécnica Integrado ao Ensino Médio",
+      "notion_page_id": "36cf5b13-1dbd-819c-ad4c-c867bb91ab4c",
+      "nome": "Técnico em Eletrotécnica",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/telemaco-borba/",
@@ -169,7 +174,8 @@
     },
     {
       "id": "tecnico-em-informatica-para-internet-integrado-ao-ensino-medio",
-      "nome": "Técnico em Informática para Internet Integrado ao Ensino Médio",
+      "notion_page_id": "367f5b13-1dbd-81c2-a47c-ebd88281594e",
+      "nome": "Técnico em Informática para Internet",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/telemaco-borba/cursos-tecnicos-integrados/informatica-para-internet/",
@@ -222,7 +228,8 @@
     },
     {
       "id": "tecnico-em-instrumentacao-industrial-subsequente",
-      "nome": "Técnico em Instrumentação Industrial Subsequente",
+      "notion_page_id": "36cf5b13-1dbd-81ea-ba91-fd2f32e994cb",
+      "nome": "Técnico em Instrumentação Industrial",
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
       "url": "https://ifpr.edu.br/telemaco-borba/",
@@ -241,6 +248,7 @@
     },
     {
       "id": "tecnico-em-mecanica",
+      "notion_page_id": "367f5b13-1dbd-8145-9202-e796e84bc193",
       "nome": "Técnico em Mecânica",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
@@ -290,6 +298,7 @@
     },
     {
       "id": "tecnico-em-programacao-de-jogos-digitais",
+      "notion_page_id": "367f5b13-1dbd-81bd-b9ad-ef240997ff4e",
       "nome": "Técnico em Programação de Jogos Digitais",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
@@ -330,6 +339,7 @@
     },
     {
       "id": "tecnologia-em-manutencao-industrial",
+      "notion_page_id": "367f5b13-1dbd-812e-a843-fe21b53653d1",
       "nome": "Tecnologia em Manutenção Industrial",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

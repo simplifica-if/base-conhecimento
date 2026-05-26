@@ -20,6 +20,7 @@
   "cursos": [
     {
       "id": "administracao",
+      "notion_page_id": "367f5b13-1dbd-81fb-92e1-c913119d5ec7",
       "nome": "Administração",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
@@ -57,6 +58,7 @@
     },
     {
       "id": "administracao-proeja",
+      "notion_page_id": "367f5b13-1dbd-81d4-a0ec-f62eabd13093",
       "nome": "Administração – PROEJA",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
@@ -89,6 +91,7 @@
     },
     {
       "id": "agroecologia",
+      "notion_page_id": "367f5b13-1dbd-8174-b4a1-e20c43acc442",
       "nome": "Agroecologia",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
@@ -126,6 +129,7 @@
     },
     {
       "id": "automacao-industrial",
+      "notion_page_id": "367f5b13-1dbd-810a-82b5-cf60558c8957",
       "nome": "Automação Industrial",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
@@ -163,6 +167,7 @@
     },
     {
       "id": "bacharelado-em-engenharia-eletrica",
+      "notion_page_id": "367f5b13-1dbd-81d6-9e1d-d668f2487aba",
       "nome": "Bacharelado em Engenharia Elétrica",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -194,6 +199,7 @@
     },
     {
       "id": "licenciatura-em-matematica",
+      "notion_page_id": "367f5b13-1dbd-81af-810a-f1378b656106",
       "nome": "Licenciatura em Matemática",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -225,6 +231,7 @@
     },
     {
       "id": "mecanica",
+      "notion_page_id": "367f5b13-1dbd-8141-bde5-d3666eab573e",
       "nome": "Mecânica",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
@@ -262,7 +269,8 @@
     },
     {
       "id": "tecnico-em-mecanica-subsequente",
-      "nome": "Técnico em Mecânica Subsequente",
+      "notion_page_id": "367f5b13-1dbd-810f-a5d9-f6dc47c64fd1",
+      "nome": "Técnico em Mecânica",
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
       "url": "https://ifpr.edu.br/campo-largo/nossos-cursos/cursos-tecnicos-subsequentes/mecanica/",
@@ -297,6 +305,7 @@
     },
     {
       "id": "tecnologia-em-agroecologia",
+      "notion_page_id": "367f5b13-1dbd-818d-a848-f45d5ccc8535",
       "nome": "Curso Superior de Tecnologia em Agroecologia",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",
@@ -328,6 +337,7 @@
     },
     {
       "id": "tecnologia-em-materiais",
+      "notion_page_id": "367f5b13-1dbd-8179-92bb-f8592296efb2",
       "nome": "Curso Superior de Tecnologia em Materiais",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",
@@ -359,6 +369,7 @@
     },
     {
       "id": "tecnologia-em-processos-gerenciais",
+      "notion_page_id": "367f5b13-1dbd-81a1-a793-cb5d67bb80a9",
       "nome": "Curso Superior de Tecnologia em Processos Gerenciais",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",
