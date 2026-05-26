@@ -178,6 +178,8 @@
             "quantidade": 80,
             "trecho_fonte": "Vagas totais (anual): número máximo de vagas do curso: 80 (ingresso matutino) e 80 (ingresso vespertino); número mínimo de vagas do curso: 20 (ingresso matutino) e 20 (ingresso vespertino)",
             "status_curadoria": "precisa_revisao",
+            "minimo": 20,
+            "maximo": 80,
             "periodicidade": "anual",
             "forma_oferta": "máximo de 80 vagas por ingresso matutino e 80 por ingresso vespertino; mínimo de 20 por ingresso"
           }

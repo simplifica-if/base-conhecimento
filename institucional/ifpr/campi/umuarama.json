@@ -43,6 +43,8 @@
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) Mínimo: 20 – Máximo: 40",
             "status_curadoria": "precisa_revisao",
+            "minimo": 20,
+            "maximo": 40,
             "periodicidade": "anual",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
@@ -74,6 +76,8 @@
             "quantidade": 40,
             "trecho_fonte": "Vagas Totais (anual) Mínimo 20 - Máximo 40",
             "status_curadoria": "precisa_revisao",
+            "minimo": 20,
+            "maximo": 40,
             "periodicidade": "anual",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
@@ -102,7 +106,7 @@
             "status_curadoria": "precisa_revisao"
           },
           "vagas": {
-            "quantidade": 10,
+            "quantidade": 6,
             "trecho_fonte": "Vagas Totais (Anual) 6",
             "status_curadoria": "precisa_revisao",
             "forma_oferta": "6 vagas anuais"
@@ -140,6 +144,8 @@
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 20 vagas",
             "status_curadoria": "precisa_revisao",
+            "minimo": 20,
+            "maximo": 40,
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
@@ -188,6 +194,8 @@
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 20 vagas",
             "status_curadoria": "precisa_revisao",
+            "minimo": 20,
+            "maximo": 40,
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
@@ -236,6 +244,8 @@
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 20 vagas",
             "status_curadoria": "precisa_revisao",
+            "minimo": 20,
+            "maximo": 40,
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
@@ -279,6 +289,8 @@
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) Mínimo: 20 vagas – Máximo: 40 vagas. 7",
             "status_curadoria": "precisa_revisao",
+            "minimo": 20,
+            "maximo": 40,
             "periodicidade": "anual",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
@@ -310,6 +322,8 @@
             "quantidade": 40,
             "trecho_fonte": "Vagas Totais (anual) Mínimo 20 - Máximo 40",
             "status_curadoria": "precisa_revisao",
+            "minimo": 20,
+            "maximo": 40,
             "periodicidade": "anual",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }

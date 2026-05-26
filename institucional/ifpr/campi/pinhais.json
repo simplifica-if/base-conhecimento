@@ -100,7 +100,7 @@
             "status_curadoria": "precisa_revisao"
           },
           "vagas": {
-            "quantidade": 40,
+            "quantidade": 20,
             "trecho_fonte": "Vagas totais: número mínimo de vagas por turno: 20 vagas de ingresso; número máximo de vagas por turno: 40 vagas de ingresso; número máximo de vagas: 80 vagas de ingresso",
             "status_curadoria": "precisa_revisao",
             "forma_oferta": "mínimo de 20 e máximo de 40 vagas por turno; máximo de 80 vagas de ingresso"
@@ -147,6 +147,8 @@
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
             "status_curadoria": "precisa_revisao",
+            "minimo": 20,
+            "maximo": 40,
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }

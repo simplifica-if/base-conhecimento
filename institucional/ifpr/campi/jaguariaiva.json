@@ -78,6 +78,8 @@
             "quantidade": 40,
             "trecho_fonte": "Vagas totais Mínimo de 25 (vinte e cinco) e máximo de 40 (quarenta) vagas anuais",
             "status_curadoria": "precisa_revisao",
+            "minimo": 25,
+            "maximo": 40,
             "forma_oferta": "máximo de 40 vagas e mínimo de 25 vagas"
           }
         }
@@ -113,6 +115,8 @@
             "quantidade": 40,
             "trecho_fonte": "Vagas totais 40 (quarenta) vagas anuais, sendo: mínimo de 25 e máximo de 40 vagas",
             "status_curadoria": "precisa_revisao",
+            "minimo": 25,
+            "maximo": 40,
             "forma_oferta": "máximo de 40 vagas e mínimo de 25 vagas"
           }
         }

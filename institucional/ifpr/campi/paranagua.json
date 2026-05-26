@@ -78,6 +78,8 @@
             "quantidade": 40,
             "trecho_fonte": "Vagas totais Número máximo de vagas do curso: 40 (quarenta). Número mínimo de vagas do curso: 20 (vinte)",
             "status_curadoria": "precisa_revisao",
+            "minimo": 20,
+            "maximo": 40,
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
@@ -113,6 +115,8 @@
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 (quarenta). Número mínimo de vagas do curso: 20 (vinte)",
             "status_curadoria": "precisa_revisao",
+            "minimo": 20,
+            "maximo": 40,
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }

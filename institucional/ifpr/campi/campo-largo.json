@@ -48,6 +48,8 @@
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 30",
             "status_curadoria": "precisa_revisao",
+            "minimo": 30,
+            "maximo": 40,
             "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
           }
         }
@@ -78,6 +80,8 @@
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 30",
             "status_curadoria": "precisa_revisao",
+            "minimo": 30,
+            "maximo": 40,
             "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
           }
         }
@@ -113,6 +117,8 @@
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 30",
             "status_curadoria": "precisa_revisao",
+            "minimo": 30,
+            "maximo": 40,
             "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
           }
         }
@@ -148,6 +154,8 @@
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do Curso: 40 Número mínimo de vagas do Curso: 30",
             "status_curadoria": "precisa_revisao",
+            "minimo": 30,
+            "maximo": 40,
             "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
           }
         }
@@ -245,6 +253,8 @@
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 30",
             "status_curadoria": "precisa_revisao",
+            "minimo": 30,
+            "maximo": 40,
             "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
           }
         }

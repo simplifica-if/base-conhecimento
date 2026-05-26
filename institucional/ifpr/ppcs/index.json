@@ -2827,7 +2827,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ano_documento": 2025,
-      "vagas": 40
+      "vagas": 20
     },
     {
       "id": "pinhais/tecnico-em-informatica-integrado-ao-ensino-medio",
@@ -3182,7 +3182,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ano_documento": 2018,
-      "vagas": 10
+      "vagas": 6
     },
     {
       "id": "umuarama/tecnologia-em-analise-e-desenvolvimento-de-sistemas",
@@ -3334,7 +3334,7 @@
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "ano_documento": 2014,
+      "ano_documento": 2025,
       "vagas": 40
     },
     {
@@ -3368,7 +3368,7 @@
       "modalidade": "presencial",
       "situacao": "ativo",
       "escopo": "campus",
-      "ano_documento": 2023,
+      "ano_documento": 2022,
       "vagas": 40
     }
   ]

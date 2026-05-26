@@ -147,7 +147,7 @@ Use as bases Notion `Processos Seletivos`, `Editais de Ingresso` e `Ofertas de I
 
 ## Links para PPC dos cursos
 
-Quando a página oficial do curso indicar o Projeto Pedagógico de Curso, registre os dados no campo opcional `ppc` do item em `cursos`. O PDF oficial fica em `ppc.url`, e o Markdown convertido, quando existir, fica versionado à parte e referenciado em `ppc.markdown_path`.
+Quando a página oficial do curso indicar o Projeto Pedagógico de Curso, registre os dados no campo opcional `ppc` do item em `cursos`. O PDF oficial fica em `ppc.url`, e o Markdown convertido, quando existir, fica versionado à parte e referenciado no Notion em `Markdown Link`.
 
 1. Use como fonte primária a própria página oficial cadastrada em `cursos[].url`.
 2. Aceite links descritos como PPC, Projeto Pedagógico do Curso, Projeto Político Pedagógico do Curso ou Plano de Curso equivalente.
@@ -156,9 +156,9 @@ Quando a página oficial do curso indicar o Projeto Pedagógico de Curso, regist
 5. Quando houver mais de um PPC, registre apenas o documento vigente ou mais recente, priorizando textos como "vigente", "novo", "atualizado", "válido a partir de" ou o ano mais recente.
 6. Se não houver link oficial claro para PPC, omita `ppc`; não use `null` nem marcador de pendência no curso.
 7. Preserve URLs HTTPS absolutas. Links oficiais em Google Drive podem ser usados quando a página do curso apontar diretamente para eles.
-8. `ppc.conversao.status` é derivado na publicação: fica `convertido` quando houver `Markdown path` e `pendente` enquanto o Markdown ainda não tiver sido gerado.
-9. Use `Status curadoria` no Notion como campo `select`: `Precisa de revisão`, `Revisado`, `Inconsistente` ou `Pendente`. Na publicação, esses valores são normalizados para `precisa_revisao`, `revisado`, `inconsistente` e `pendente`.
-10. Metadados extraídos do PPC, como ano do documento e vagas, devem ficar em `ppc.metadados` com contexto e evidência textual; não registre apenas um número solto.
+8. `ppc.conversao.status` é derivado na publicação: fica `convertido` quando houver `Markdown Link` e `pendente` enquanto o Markdown ainda não tiver sido gerado. Na publicação JSON, `Markdown Link` é convertido para o caminho relativo `ppc.markdown_path`.
+9. Use `Curadoria` no Notion como campo `select`: `Precisa de revisão`, `Revisado`, `Inconsistente` ou `Pendente`. Use `Data curadoria` para registrar a data da conferência manual. Na publicação, esses valores são normalizados para `precisa_revisao`, `revisado`, `inconsistente` e `pendente`.
+10. Metadados extraídos do PPC, como ano do documento e vagas, devem ficar em `ppc.metadados` com contexto e evidência textual. No Notion, registre `Vagas` como texto: número simples para quantidade fixa, como `40`, ou intervalo quando o PPC declarar mínimo e máximo, como `20-40`.
 11. A conversão para Markdown é apoio à leitura e extração. A fonte oficial continua sendo o PDF indicado em `ppc.url`.
 12. Para converter PDFs em Markdown, use o script opcional `scripts/converter_ppcs_markdown.py`, com dependências instaladas por `uv venv && uv pip install -r requirements-ppc.txt`. O conversor padrão é PyMuPDF4LLM com OCR local disponível.
 13. Registre o ano do PPC em `ppc.metadados.ano_documento` quando houver evidência no documento, preferencialmente na capa, folha de rosto, ato de ajuste ou indicação clara de revisão vigente.

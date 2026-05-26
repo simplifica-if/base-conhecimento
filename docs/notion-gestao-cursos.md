@@ -32,13 +32,13 @@ Base operacional dos Projetos Pedagógicos de Curso. Cada registro representa um
 
 Regra operacional: um curso pode ter vários PPCs históricos, mas deve haver no máximo um PPC vigente por curso.
 
-Campos principais: `Título`, `Curso`, `Campus`, `Status`, `URL oficial`, `Markdown path`, `Ano do documento`, `Vagas`, `Periodicidade vagas`, `Trecho fonte das vagas`, `Status curadoria`, `Revisado em`, `Observações`.
+Campos principais: `Título`, `Curso`, `Campus`, `Status`, `URL oficial`, `Markdown Link`, `Ano do documento`, `Vagas`, `Periodicidade vagas`, `Trecho fonte das vagas`, `Curadoria`, `Data curadoria`, `Observações`.
 
-`URL oficial` registra a fonte oficial do PPC. `Markdown path` aponta para a versão convertida versionada neste repositório quando disponível; o status público de conversão é derivado desse campo, não de propriedades técnicas no Notion.
+`URL oficial` registra a fonte oficial do PPC. `Markdown Link` aponta para a versão Markdown publicada, quando disponível, usando URL absoluta em `https://simplifica-if.github.io/base-conhecimento/institucional/ifpr/ppcs/...`. Na publicação JSON, esse link é convertido de volta para `ppc.markdown_path`; o status público de conversão é derivado desse campo, não de propriedades técnicas no Notion.
 
-`Status curadoria` é uma propriedade Notion do tipo `select`, usada para indicar a confiabilidade dos metadados extraídos do PPC. Use `Precisa de revisão` para extrações automáticas ou preenchimentos ainda não conferidos, `Revisado` para metadados conferidos na fonte oficial, `Inconsistente` quando houver conflito ou ambiguidade, e `Pendente` quando a informação ainda não foi localizada.
+`Curadoria` é uma propriedade Notion do tipo `select`, usada para indicar a confiabilidade dos metadados extraídos do PPC. Use `Precisa de revisão` para extrações automáticas ou preenchimentos ainda não conferidos, `Revisado` para metadados conferidos na fonte oficial, `Inconsistente` quando houver conflito ou ambiguidade, e `Pendente` quando a informação ainda não foi localizada. `Data curadoria` registra quando essa conferência foi feita.
 
-Metadados extraídos do PPC, como ano do documento e vagas, devem sempre ter contexto de curadoria. Para vagas, registre a quantidade junto de `Trecho fonte das vagas`, `Periodicidade vagas` quando aplicável, `Status curadoria` e `Revisado em`. Na publicação JSON, o status é normalizado como `precisa_revisao`, `revisado`, `inconsistente` ou `pendente`.
+Metadados extraídos do PPC, como ano do documento e vagas, devem sempre ter contexto de curadoria. `Vagas` é um campo de texto: use número simples quando o PPC declarar quantidade fixa, como `40`, e intervalo quando o PPC declarar mínimo e máximo, como `20-40`. Registre junto `Trecho fonte das vagas`, `Periodicidade vagas` quando aplicável, `Curadoria` e `Data curadoria`. Na publicação JSON, o status é normalizado como `precisa_revisao`, `revisado`, `inconsistente` ou `pendente`.
 
 ### Movimentações de Cursos
 

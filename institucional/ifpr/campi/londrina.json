@@ -59,6 +59,8 @@
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) No mínimo 20 e no máximo 40 vagas",
             "status_curadoria": "precisa_revisao",
+            "minimo": 20,
+            "maximo": 40,
             "periodicidade": "anual",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
@@ -95,6 +97,8 @@
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
             "status_curadoria": "precisa_revisao",
+            "minimo": 20,
+            "maximo": 40,
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
@@ -130,6 +134,8 @@
             "quantidade": 30,
             "trecho_fonte": "Número máximo de vagas do curso: 30 vagas Número mínimo de vagas do curso: 20 vagas",
             "status_curadoria": "precisa_revisao",
+            "minimo": 20,
+            "maximo": 30,
             "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas"
           }
         }
@@ -165,6 +171,8 @@
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
             "status_curadoria": "precisa_revisao",
+            "minimo": 20,
+            "maximo": 40,
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
@@ -200,6 +208,8 @@
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
             "status_curadoria": "precisa_revisao",
+            "minimo": 20,
+            "maximo": 40,
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
@@ -270,6 +280,8 @@
             "quantidade": 30,
             "trecho_fonte": "Número máximo de vagas do curso: 30 Número mínimo de vagas do curso: 20",
             "status_curadoria": "precisa_revisao",
+            "minimo": 20,
+            "maximo": 30,
             "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas"
           }
         }

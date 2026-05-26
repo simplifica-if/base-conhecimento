@@ -117,6 +117,8 @@
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 vagas; Número mínimo de vagas do curso: 20 vagas",
             "status_curadoria": "revisado",
+            "minimo": 20,
+            "maximo": 40,
             "periodicidade": "anual",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas do curso",
             "revisado_em": "2026-05-11"
@@ -150,6 +152,8 @@
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 vagas; Número mínimo de vagas do curso: 20 vagas",
             "status_curadoria": "revisado",
+            "minimo": 20,
+            "maximo": 40,
             "periodicidade": "não especificada",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas do curso",
             "revisado_em": "2026-05-11"
@@ -182,6 +186,8 @@
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso : 40 vagas; Número mínimo de vagas do curso: 20 vagas",
             "status_curadoria": "revisado",
+            "minimo": 20,
+            "maximo": 40,
             "forma_oferta": "mínimo de 20 vagas e máximo de 40 vagas",
             "revisado_em": "2026-05-20"
           }
@@ -213,6 +219,8 @@
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso : 40 vagas; Número mínimo de vagas do curso: 20 vagas",
             "status_curadoria": "revisado",
+            "minimo": 20,
+            "maximo": 40,
             "forma_oferta": "mínimo de 20 vagas e máximo de 40 vagas",
             "revisado_em": "2026-05-20"
           }
@@ -311,6 +319,8 @@
             "quantidade": 40,
             "trecho_fonte": "1.1.10 Vagas totais (anual): Máximo 40 vagas; Mínimo 20 vagas",
             "status_curadoria": "revisado",
+            "minimo": 20,
+            "maximo": 40,
             "periodicidade": "anual",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
             "revisado_em": "2026-05-11"

@@ -44,6 +44,8 @@
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) Mínimo de 20 e máximo de 40. Sendo, 90% das vagas (36) para brasileiros e 10% das vagas (4) destinadas à Ar",
             "status_curadoria": "precisa_revisao",
+            "minimo": 20,
+            "maximo": 40,
             "periodicidade": "anual",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
@@ -75,6 +77,8 @@
             "quantidade": 30,
             "trecho_fonte": "Vagas ofertadas a) Mínimo: 20 vagas (Resolução Consup/IFPR n.121/2023) b) Máximo: 30 vagas",
             "status_curadoria": "precisa_revisao",
+            "minimo": 20,
+            "maximo": 30,
             "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas"
           }
         }
@@ -105,6 +109,8 @@
             "quantidade": 40,
             "trecho_fonte": "Número de vagas ofertadas: Mínimo 20 e Máximo 40 vagas por ano",
             "status_curadoria": "precisa_revisao",
+            "minimo": 20,
+            "maximo": 40,
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
@@ -135,6 +141,8 @@
             "quantidade": 30,
             "trecho_fonte": "Vagas: 30 vagas Mínimo: 20 vagas Máximo: 30 vagas O número máximo de vagas é limitado pela infr",
             "status_curadoria": "precisa_revisao",
+            "minimo": 20,
+            "maximo": 30,
             "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas"
           }
         }
@@ -170,6 +178,8 @@
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 24 vagas",
             "status_curadoria": "precisa_revisao",
+            "minimo": 24,
+            "maximo": 40,
             "forma_oferta": "máximo de 40 vagas e mínimo de 24 vagas"
           }
         }
@@ -218,6 +228,8 @@
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 35",
             "status_curadoria": "precisa_revisao",
+            "minimo": 35,
+            "maximo": 40,
             "forma_oferta": "máximo de 40 vagas e mínimo de 35 vagas"
           }
         }
@@ -266,6 +278,8 @@
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 35",
             "status_curadoria": "precisa_revisao",
+            "minimo": 35,
+            "maximo": 40,
             "forma_oferta": "máximo de 40 vagas e mínimo de 35 vagas"
           }
         }
@@ -314,6 +328,8 @@
             "quantidade": 26,
             "trecho_fonte": "Número máximo de vagas do curso: 26 (vinte e seis), sendo 22 brasileiros e 4 estrangeiros (oriundos exclusivamente do Paraguai ou da Argentina) Número mínimo de vagas do curso: 13 (treze)",
             "status_curadoria": "precisa_revisao",
+            "minimo": 13,
+            "maximo": 26,
             "forma_oferta": "máximo de 26 vagas e mínimo de 13 vagas"
           }
         }
@@ -349,6 +365,8 @@
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 alunos anuais. Número mínimo de vagas do curso: 24 alunos anuais",
             "status_curadoria": "precisa_revisao",
+            "minimo": 24,
+            "maximo": 40,
             "forma_oferta": "máximo de 40 vagas e mínimo de 24 vagas"
           }
         }

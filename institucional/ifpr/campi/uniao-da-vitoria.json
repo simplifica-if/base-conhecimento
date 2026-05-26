@@ -74,6 +74,8 @@
             "quantidade": 40,
             "trecho_fonte": "Vagas ofertadas a) Mínimo: 20 vagas (Resolução Consup/IFPR n.121/2023) b) Máximo: 40 vagas",
             "status_curadoria": "precisa_revisao",
+            "minimo": 20,
+            "maximo": 40,
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
@@ -101,14 +103,16 @@
         "markdown_path": "institucional/ifpr/ppcs/uniao-da-vitoria/tecnico-em-informatica-integrado-ao-ensino-medio.md",
         "metadados": {
           "ano_documento": {
-            "ano": 2014,
-            "trecho_fonte": "Ano do documento registrado no Notion: 2014",
+            "ano": 2025,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2025",
             "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais Número mínimo de vagas do curso: 20. Número máximo de vagas do curso: 40. 1 Para melhor compreensão vide SILVA, Fabiane Aparecida de Souza Soares da. Cu",
             "status_curadoria": "precisa_revisao",
+            "minimo": 20,
+            "maximo": 40,
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
@@ -139,6 +143,8 @@
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
             "status_curadoria": "precisa_revisao",
+            "minimo": 20,
+            "maximo": 40,
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
@@ -166,14 +172,16 @@
         "markdown_path": "institucional/ifpr/ppcs/uniao-da-vitoria/tecnico-em-meio-ambiente-integrado-ao-ensino-medio.md",
         "metadados": {
           "ano_documento": {
-            "ano": 2023,
-            "trecho_fonte": "Ano do documento registrado no Notion: 2023",
-            "status_curadoria": "precisa_revisao"
+            "ano": 2022,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2022",
+            "status_curadoria": "revisado"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
-            "status_curadoria": "precisa_revisao",
+            "status_curadoria": "revisado",
+            "minimo": 20,
+            "maximo": 40,
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }

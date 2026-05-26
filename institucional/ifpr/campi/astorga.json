@@ -48,6 +48,8 @@
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 30 vagas",
             "status_curadoria": "precisa_revisao",
+            "minimo": 30,
+            "maximo": 40,
             "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
           }
         }
@@ -114,6 +116,8 @@
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 30 INSTITUTO FEDERAL DO PARANÁ Pró-Reitoria de Ensino - PROENS Av. Victor Ferreira",
             "status_curadoria": "precisa_revisao",
+            "minimo": 30,
+            "maximo": 40,
             "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
           }
         }

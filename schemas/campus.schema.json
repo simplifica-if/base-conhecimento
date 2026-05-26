@@ -342,6 +342,14 @@
                         "type": "integer",
                         "minimum": 0
                       },
+                      "minimo": {
+                        "type": "integer",
+                        "minimum": 0
+                      },
+                      "maximo": {
+                        "type": "integer",
+                        "minimum": 0
+                      },
                       "periodicidade": {
                         "type": "string",
                         "minLength": 1

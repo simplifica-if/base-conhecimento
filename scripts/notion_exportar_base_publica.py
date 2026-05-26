@@ -17,6 +17,7 @@ from notion_client import NotionClient, NotionError
 
 CONFIG_PATH = ROOT / "config" / "notion.json"
 CAMPI_ROOT = ROOT / "institucional" / "ifpr" / "campi"
+PUBLIC_BASE_URL = "https://simplifica-if.github.io/base-conhecimento/"
 CURADORIA_STATUS_ALIASES = {
     "precisa de revisão": "precisa_revisao",
     "precisa de revisao": "precisa_revisao",
@@ -125,6 +126,14 @@ def relation_ids(page: dict[str, Any], property_name: str) -> list[str]:
     return [item["id"] for item in prop.get("relation", [])]
 
 
+def first_prop(props: dict[str, Any], *names: str) -> dict[str, Any] | None:
+    for name in names:
+        prop = props.get(name)
+        if prop:
+            return prop
+    return None
+
+
 def add_if_text(target: dict[str, Any], key: str, value: str) -> None:
     if value:
         target[key] = value
@@ -133,6 +142,35 @@ def add_if_text(target: dict[str, Any], key: str, value: str) -> None:
 def add_if_number(target: dict[str, Any], key: str, value: int | None) -> None:
     if value is not None:
         target[key] = value
+
+
+def vagas_text(prop: dict[str, Any] | None) -> str:
+    value = plain_text(prop)
+    if value:
+        return value.strip()
+    number = number_value(prop)
+    return str(number) if number is not None else ""
+
+
+def parse_vagas_interval(value: str) -> tuple[int | None, int | None, int | None]:
+    text = value.strip()
+    match = re.fullmatch(r"(\d{1,4})\s*[-–]\s*(\d{1,4})", text)
+    if match:
+        minimo, maximo = sorted((int(match.group(1)), int(match.group(2))))
+        return maximo, minimo, maximo
+    if re.fullmatch(r"\d{1,4}", text):
+        quantidade = int(text)
+        return quantidade, None, None
+    return None, None, None
+
+
+def markdown_path_from_link(prop: dict[str, Any] | None) -> str:
+    value = url_value(prop) or plain_text(prop)
+    if value.startswith(PUBLIC_BASE_URL):
+        value = value[len(PUBLIC_BASE_URL) :]
+    if value.startswith("institucional/ifpr/ppcs/") and value.endswith(".md"):
+        return value
+    return ""
 
 
 class Exporter:
@@ -364,7 +402,7 @@ class Exporter:
             ),
         )[0]
         props = page["properties"]
-        markdown_path = plain_text(props.get("Markdown path"))
+        markdown_path = markdown_path_from_link(props.get("Markdown Link") or props.get("Markdown path"))
 
         ppc: dict[str, Any] = {
             "url": url_value(props.get("URL oficial")),
@@ -389,8 +427,8 @@ class Exporter:
         ano = number_value(props.get("Ano do documento"))
         if ano is None:
             return None
-        reviewed_at = json_date(date_start(props.get("Revisado em")))
-        status = curadoria_status(props.get("Status curadoria"), reviewed_at)
+        reviewed_at = json_date(date_start(first_prop(props, "Data curadoria", "Revisado em")))
+        status = curadoria_status(first_prop(props, "Curadoria", "Status curadoria"), reviewed_at)
         item: dict[str, Any] = {
             "ano": ano,
             "trecho_fonte": f"Ano do documento registrado no Notion: {ano}",
@@ -400,17 +438,19 @@ class Exporter:
         return item
 
     def ppc_vagas(self, props: dict[str, Any]) -> dict[str, Any] | None:
-        quantidade = number_value(props.get("Vagas"))
+        quantidade, minimo, maximo = parse_vagas_interval(vagas_text(props.get("Vagas")))
         trecho = plain_text(props.get("Trecho fonte das vagas"))
         if quantidade is None or not trecho:
             return None
-        reviewed_at = json_date(date_start(props.get("Revisado em")))
-        status = curadoria_status(props.get("Status curadoria"), reviewed_at)
+        reviewed_at = json_date(date_start(first_prop(props, "Data curadoria", "Revisado em")))
+        status = curadoria_status(first_prop(props, "Curadoria", "Status curadoria"), reviewed_at)
         vagas: dict[str, Any] = {
             "quantidade": quantidade,
             "trecho_fonte": trecho,
             "status_curadoria": status,
         }
+        add_if_number(vagas, "minimo", minimo)
+        add_if_number(vagas, "maximo", maximo)
         add_if_text(vagas, "periodicidade", plain_text(props.get("Periodicidade vagas")))
         add_if_text(vagas, "forma_oferta", plain_text(props.get("Forma de oferta")))
         add_if_text(vagas, "revisado_em", reviewed_at)
