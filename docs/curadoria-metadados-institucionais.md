@@ -99,6 +99,8 @@ Para relatórios exportados do SUAP que usam a coluna `DIRETORIA`, use o mapeame
 
 Use as bases Notion `Movimentações de Cursos` e `Processos SEI` para registrar processos administrativos associados ao histórico do curso, como abertura, ajuste, atualização, suspensão, reversão de suspensão ou extinção.
 
+Quando for necessário localizar, revisar ou confirmar evidências no Sistema Eletrônico de Informações, use o repositório irmão `../sei-cli` conforme `docs/sei-cli-operacao-agentes.md`.
+
 1. Registre processos SEI no nível do curso, não dentro de `ppc`, porque o PPC é apenas uma das informações documentais do curso.
 2. Use `sei.processos[]` como lista mesmo quando houver apenas um processo, pois o curso pode acumular processos administrativos ao longo do tempo.
 3. Registre o número em `numero`, no formato `00000.000000/0000-00`.

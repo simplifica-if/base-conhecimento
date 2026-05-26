@@ -16,6 +16,10 @@ Para solicitações sobre dados operacionais no Notion, como Campi, Cursos, Docu
 
 - [Operação do Notion por agentes](docs/notion-operacao-agentes.md)
 
+Para perguntas, conferências ou curadoria que dependam de dados do Sistema Eletrônico de Informações (SEI), use o repositório irmão `../sei-cli` como ferramenta operacional e leia primeiro:
+
+- [Uso do sei-cli por agentes](docs/sei-cli-operacao-agentes.md)
+
 Por padrão, use a API do Notion com `NOTION_TOKEN` do projeto. Não presuma que o Notion MCP local do usuário acessa esta base, pois ele pode estar conectado ao Notion pessoal do usuário. Se `NOTION_TOKEN` não estiver disponível, peça ao usuário o token da integração Notion organizacional e grave em `.env.local`.
 
 Depois de alterar dados institucionais no Notion, rode:

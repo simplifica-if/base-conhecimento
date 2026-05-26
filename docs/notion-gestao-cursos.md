@@ -48,6 +48,8 @@ Campos principais: `Título`, `Classe`, `Tipo`, `Situação`, `Cursos`, `Campi`,
 
 Entidade própria para processos administrativos associados ao histórico de cursos.
 
+Quando a curadoria depender de dados do Sistema Eletrônico de Informações, use `../sei-cli` conforme `docs/sei-cli-operacao-agentes.md` para extrair ou inspecionar uma fotografia local do processo antes de preencher estes campos.
+
 Campos principais: `Número SEI`, `Tipo principal`, `Status`, `Data de abertura`, `Última movimentação`, `Unidade responsável`, `Campi`, `Cursos`, `Movimentações de Cursos`, `Observações`, `Planilha origem`, `Linhas origem`.
 
 `Status` é uma propriedade Notion do tipo `status`, não `select`. Use como estado geral do processo na base: `Não iniciada` para processo ainda não localizado/revisado; `Em andamento` para processo localizado sem encerramento claro; `Concluído` para processo com ato/evento principal concluído; `Cancelado` para cancelamento formal; `Arquivado` para arquivamento formal. Não use `Status` para distinguir etapas finas como instrução no campus, análise Proens ou colegiados; registre essa granularidade em `Movimentações de Cursos.Situação`.

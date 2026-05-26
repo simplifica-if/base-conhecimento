@@ -88,6 +88,8 @@ Use Notion quando o usuário pedir para:
 - criar ou revisar processo seletivo, edital ou oferta de ingresso;
 - executar curadoria operacional que depois será publicada nos JSONs.
 
+Quando a consulta ou alteração depender de evidência do Sistema Eletrônico de Informações, leia também `docs/sei-cli-operacao-agentes.md` e use `../sei-cli` para localizar, extrair ou inspecionar o processo antes de registrar dados no Notion.
+
 ## Quando não usar Notion primeiro
 
 Não comece pelo Notion quando a tarefa for:
@@ -155,10 +157,13 @@ python3 scripts/validar_base.py
 7. Escreva `Observações` em blocos curtos, com quebras de linha e marcadores, para facilitar leitura humana e reuso por agentes. Comece com uma frase simples no formato `Revisado em AAAA-MM-DD via <ferramenta ou fonte>.` Em seguida, use, quando aplicável, os blocos `Contexto`, `Evidências`, `Datas de controle` e `Observação técnica`. Não inclua caminho local de snapshot.
 8. Se a informação vier de coleta automatizada, preserve `Planilha origem`, `Linhas origem`, observações ou notas relevantes.
 
+Quando usar `sei-cli`, registre `Revisado em AAAA-MM-DD via sei-cli.` e cite nas evidências os documentos ou eventos usados, como `SEI 1234567 (AAAA-MM-DD): Parecer ...`. Não grave caminhos locais do snapshot em `Observações`.
+
 ## Documentos relacionados
 
 - `docs/notion-gestao-cursos.md`: modelo operacional das bases.
 - `docs/curadoria-metadados-institucionais.md`: regras de curadoria institucional.
+- `docs/sei-cli-operacao-agentes.md`: uso do `../sei-cli` para extrair e inspecionar processos SEI.
 - `config/notion.json`: IDs das bases Notion.
 - `scripts/notion_client.py`: cliente mínimo da API Notion.
 - `scripts/notion_exportar_base_publica.py`: exportação Notion para JSON público.
