@@ -1,14 +1,9 @@
 {
   "id": "foz-do-iguacu",
   "nome": "Foz do Iguaçu",
-  "tipo_unidade": "campus",
   "links": {
     "site": "https://ifpr.edu.br/foz-do-iguacu/",
     "calendario_academico": "https://ifpr.edu.br/foz-do-iguacu/alunos/calendario-academico/"
-  },
-  "curadoria": {
-    "status_cursos": "dados_parciais",
-    "verificado_em": "2026-05-11"
   },
   "horario_aulas": {
     "coletado_em": "2026-05-14T11:48:00-03:00",
@@ -167,6 +162,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-8135-8a44-d764588cbecb",
         "id": 52,
         "codigo": "FOZ001",
         "vagas": 40
@@ -219,6 +215,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-818b-8410-f7e88a0c3a88",
         "id": 113,
         "codigo": "FOZ002",
         "vagas": 40
@@ -271,6 +268,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-8129-b39e-c697eacdf15c",
         "id": 133,
         "codigo": "FOZ003",
         "vagas": 40
@@ -323,6 +321,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-816e-8cd9-c97d21b08d2d",
         "id": 126,
         "codigo": "FOZ004",
         "vagas": 40
@@ -362,6 +361,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-819f-91c0-d29a6c33fa74",
         "id": 171,
         "codigo": "FOZ005",
         "vagas": 40

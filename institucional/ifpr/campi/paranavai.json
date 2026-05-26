@@ -1,14 +1,9 @@
 {
   "id": "paranavai",
   "nome": "Paranavaí",
-  "tipo_unidade": "campus",
   "links": {
     "site": "https://paranavai.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/paranavai/secretaria/protocolos-academicos/"
-  },
-  "curadoria": {
-    "status_cursos": "dados_parciais",
-    "verificado_em": "2026-05-11"
   },
   "horario_aulas": {
     "coletado_em": "2026-05-14T11:48:00-03:00",
@@ -160,6 +155,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-817c-92d5-f8182c419991",
         "id": 72,
         "codigo": "PVAI001",
         "vagas": 40
@@ -184,6 +180,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-8178-b4d0-ed82301cbec1",
         "id": 82,
         "codigo": "PVAI002",
         "vagas": 40
@@ -223,6 +220,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-815a-a5a0-e1d2da2cfd61",
         "id": 81,
         "codigo": "PVAI003",
         "vagas": 40
@@ -258,6 +256,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-81e6-a646-fad6d4d180f0",
         "id": 73,
         "codigo": "PVAI004",
         "vagas": 40

@@ -1,14 +1,9 @@
 {
   "id": "assis-chateaubriand",
   "nome": "Assis Chateaubriand",
-  "tipo_unidade": "campus",
   "links": {
     "site": "https://ifpr.edu.br/assis-chateaubriand/",
     "calendario_academico": "https://ifpr.edu.br/assis-chateaubriand/menu-academico/area-do-estudante/vida-academica/calendario-academico/"
-  },
-  "curadoria": {
-    "status_cursos": "dados_parciais",
-    "verificado_em": "2026-05-11"
   },
   "horario_aulas": {
     "coletado_em": "2026-05-14T11:48:00-03:00",
@@ -29,6 +24,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-817b-8f99-fbe0e636712f",
         "id": 172,
         "codigo": "AC002",
         "vagas": 40
@@ -77,6 +73,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-81b5-9627-d219d9ef00c9",
         "id": 77,
         "codigo": "AC001",
         "vagas": 40
@@ -132,6 +129,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-814e-b3cd-d055b36f86e1",
         "id": 212,
         "codigo": "AC003",
         "vagas": 40
@@ -178,6 +176,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-81fe-be69-c12a6a4609f3",
         "id": 119,
         "codigo": "AC004",
         "vagas": 40
@@ -230,6 +229,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-81e4-95ac-f7b9f1ebca89",
         "id": 2,
         "codigo": "AC005",
         "vagas": 40
@@ -278,6 +278,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-816e-8735-fa5f2e260f4c",
         "id": 174,
         "codigo": "AC006",
         "vagas": 40
@@ -310,6 +311,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-8131-bddd-c69fa6956910",
         "id": 175,
         "codigo": "AC007",
         "vagas": 40
@@ -353,6 +355,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-816f-9807-d8158b17897a",
         "id": 162,
         "codigo": "AC008",
         "vagas": 40
@@ -402,6 +405,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-81c1-809d-c38c59d8ca24",
         "id": 636,
         "codigo": "AC013",
         "vagas": 40

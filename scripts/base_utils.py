@@ -67,7 +67,6 @@ TIPO_DIRETORIOS = {
     ("IFPR", "Portaria"): "normas/ifpr/portarias",
     ("IFPR", "Nota Técnica"): "normas/ifpr/notas-tecnicas",
 }
-TIPOS_UNIDADE_INSTITUCIONAL = {"campus", "campus_avancado"}
 
 
 def relative(path: Path) -> str:

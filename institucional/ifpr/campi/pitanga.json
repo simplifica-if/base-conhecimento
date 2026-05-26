@@ -1,14 +1,9 @@
 {
   "id": "pitanga",
   "nome": "Pitanga",
-  "tipo_unidade": "campus",
   "links": {
     "site": "https://ifpr.edu.br/pitanga/",
     "calendario_academico": "https://ifpr.edu.br/pitanga/academico/calendario-academico/"
-  },
-  "curadoria": {
-    "status_cursos": "dados_parciais",
-    "verificado_em": "2026-05-11"
   },
   "horario_aulas": {
     "coletado_em": "2026-05-14T11:48:00-03:00",
@@ -95,6 +90,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-8133-8fa9-c9db98f0f43a",
         "id": 216,
         "codigo": "PIT001",
         "vagas": 40
@@ -132,6 +128,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-81cb-87f2-c7ed0703627e",
         "id": 61,
         "codigo": "PIT002",
         "vagas": 40
@@ -171,6 +168,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-81b2-85e4-de83dc6a8204",
         "id": 621,
         "codigo": "PIT003",
         "vagas": 40

@@ -1,14 +1,9 @@
 {
   "id": "ponta-grossa",
   "nome": "Ponta Grossa",
-  "tipo_unidade": "campus",
   "links": {
     "site": "https://ifpr.edu.br/ponta-grossa/",
     "calendario_academico": "https://ifpr.edu.br/ponta-grossa/"
-  },
-  "curadoria": {
-    "status_cursos": "dados_parciais",
-    "verificado_em": "2026-05-20"
   },
   "cursos": [
     {

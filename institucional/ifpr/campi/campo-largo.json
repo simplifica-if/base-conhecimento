@@ -1,14 +1,9 @@
 {
   "id": "campo-largo",
   "nome": "Campo Largo",
-  "tipo_unidade": "campus",
   "links": {
     "site": "https://campolargo.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/campo-largo/espaco-do-aluno/calendario-academico-2/"
-  },
-  "curadoria": {
-    "status_cursos": "dados_parciais",
-    "verificado_em": "2026-05-11"
   },
   "horario_aulas": {
     "coletado_em": "2026-05-14T11:48:00-03:00",
@@ -29,6 +24,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-81dd-8bd2-fd409459ced4",
         "id": 75,
         "codigo": "CL001",
         "vagas": 40
@@ -102,6 +98,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-8102-a9d6-cdb92252d176",
         "id": 51,
         "codigo": "CL002",
         "vagas": 40
@@ -141,6 +138,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-8104-a95b-d1f02e313c96",
         "id": 38,
         "codigo": "CL003",
         "vagas": 40
@@ -246,6 +244,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-81ab-baa1-c6084347f82f",
         "id": 49,
         "codigo": "CL004",
         "vagas": 40
@@ -285,6 +284,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-81db-80c7-e18b458614fe",
         "id": 83,
         "codigo": "CL005",
         "vagas": 40

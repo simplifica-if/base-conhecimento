@@ -1,14 +1,9 @@
 {
   "id": "astorga",
   "nome": "Astorga",
-  "tipo_unidade": "campus",
   "links": {
     "site": "https://astorga.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/astorga/estudantes/calendario-academico/"
-  },
-  "curadoria": {
-    "status_cursos": "dados_parciais",
-    "verificado_em": "2026-05-11"
   },
   "horario_aulas": {
     "coletado_em": "2026-05-14T11:48:00-03:00",
@@ -29,6 +24,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-816b-b3a7-d1bdc2145605",
         "id": 56,
         "codigo": "AST002",
         "vagas": 40
@@ -101,6 +97,7 @@
       "situacao": "suspenso",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-8153-8dbb-c1c0ff267899",
         "id": 48,
         "codigo": "AST001",
         "vagas": 40

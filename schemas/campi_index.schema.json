@@ -39,7 +39,6 @@
         "required": [
           "id",
           "nome",
-          "tipo_unidade",
           "path"
         ],
         "additionalProperties": false,
@@ -51,12 +50,6 @@
           "nome": {
             "type": "string",
             "minLength": 1
-          },
-          "tipo_unidade": {
-            "enum": [
-              "campus",
-              "campus_avancado"
-            ]
           },
           "path": {
             "type": "string",

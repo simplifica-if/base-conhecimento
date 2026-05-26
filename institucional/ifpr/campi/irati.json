@@ -1,14 +1,9 @@
 {
   "id": "irati",
   "nome": "Irati",
-  "tipo_unidade": "campus",
   "links": {
     "site": "https://irati.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/irati/calendario-academico/"
-  },
-  "curadoria": {
-    "status_cursos": "dados_parciais",
-    "verificado_em": "2026-05-11"
   },
   "horario_aulas": {
     "coletado_em": "2026-05-14T11:48:00-03:00",
@@ -121,6 +116,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-81be-a55a-c8990ad3eb62",
         "id": 54,
         "codigo": "IRA001",
         "vagas": 160
@@ -167,6 +163,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-81e4-b6d0-d7fcc31d2664",
         "id": 111,
         "codigo": "IRA002",
         "vagas": 160
@@ -213,14 +210,13 @@
       "tipo_oferta": "técnico integrado",
       "url": "https://irati.ifpr.edu.br/",
       "modalidade": "presencial",
-      "situacao": "incerto",
+      "situacao": "abertura",
       "escopo": "campus",
       "sei": {
         "processos": [
           {
             "numero": "23411.021133/2025-40",
-            "tipo": "abertura",
-            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 14. Encaminhado para SOC/CIA/Consepe em 05/05/2026"
+            "tipo": "abertura"
           }
         ]
       }

@@ -1,14 +1,9 @@
 {
   "id": "telemaco-borba",
   "nome": "Telêmaco Borba",
-  "tipo_unidade": "campus_avancado",
   "links": {
     "site": "https://ifpr.edu.br/telemaco-borba/",
     "calendario_academico": "https://ifpr.edu.br/telemaco-borba/estudantes/calendario-academico-5/"
-  },
-  "curadoria": {
-    "status_cursos": "dados_parciais",
-    "verificado_em": "2026-05-11"
   },
   "horario_aulas": {
     "coletado_em": "2026-05-14T11:48:00-03:00",
@@ -95,6 +90,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-8129-9e82-ecf27112d751",
         "id": 25,
         "codigo": "TBOR001",
         "vagas": 40
@@ -163,7 +159,7 @@
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/telemaco-borba/",
       "modalidade": "presencial",
-      "situacao": "incerto",
+      "situacao": "abertura",
       "escopo": "campus",
       "sei": {
         "processos": [
@@ -186,6 +182,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-81b9-9267-ccdc4e84e47e",
         "id": 34,
         "codigo": "TBOR002",
         "vagas": 40
@@ -238,14 +235,13 @@
       "tipo_oferta": "técnico subsequente",
       "url": "https://ifpr.edu.br/telemaco-borba/",
       "modalidade": "presencial",
-      "situacao": "incerto",
+      "situacao": "abertura",
       "escopo": "campus",
       "sei": {
         "processos": [
           {
             "numero": "23411.007314/2026-44",
-            "tipo": "abertura",
-            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 7. 10/05 Recebimento do processo na Dentec"
+            "tipo": "abertura"
           }
         ]
       }
@@ -261,6 +257,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-81ab-8ff4-fc858c8dfcd1",
         "id": 36,
         "codigo": "TBOR003",
         "vagas": 40
@@ -312,6 +309,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-8181-a9f2-e4b48df1e03d",
         "id": 50,
         "codigo": "TBOR004",
         "vagas": 50

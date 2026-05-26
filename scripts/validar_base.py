@@ -40,7 +40,6 @@ from base_utils import (
     REQUIRED_FIELDS,
     ROOT,
     TIPO_DIRETORIOS,
-    TIPOS_UNIDADE_INSTITUCIONAL,
     frontmatter,
     relative,
 )
@@ -345,7 +344,7 @@ def validate_campus_file(path: Path, index_item: dict[str, object]) -> list[str]
         return [f"{relative(path)} deve conter um objeto JSON"]
     errors.extend(validate_with_schema(data, CAMPUS_SCHEMA_PATH, relative(path)))
 
-    required = ["id", "nome", "tipo_unidade", "links", "cursos", "curadoria"]
+    required = ["id", "nome", "links", "cursos"]
     for field in required:
         if field not in data:
             errors.append(f"{relative(path)}: campo obrigatório ausente: {field}")
@@ -356,12 +355,9 @@ def validate_campus_file(path: Path, index_item: dict[str, object]) -> list[str]
     elif path.name != f"{campus_id}.json":
         errors.append(f"{relative(path)}: nome do arquivo diverge do id")
 
-    for field in ["id", "nome", "tipo_unidade"]:
+    for field in ["id", "nome"]:
         if data.get(field) != index_item.get(field):
             errors.append(f"{relative(path)}: campo {field} diverge do index.json")
-
-    if data.get("tipo_unidade") not in TIPOS_UNIDADE_INSTITUCIONAL:
-        errors.append(f"{relative(path)}: tipo_unidade inválido: {data.get('tipo_unidade')}")
 
     links = data.get("links")
     if not isinstance(links, dict):
@@ -455,21 +451,6 @@ def validate_campus_file(path: Path, index_item: dict[str, object]) -> list[str]
                 if "url" in oferta:
                     errors.extend(validate_https_url(oferta["url"], f"{relative(path)}: programas[].ofertas[].url"))
 
-    curadoria = data.get("curadoria")
-    if not isinstance(curadoria, dict):
-        errors.append(f"{relative(path)}: curadoria deve ser objeto")
-    else:
-        if curadoria.get("status_cursos") not in {"dados_pendentes", "dados_parciais", "dados_curados"}:
-            errors.append(f"{relative(path)}: curadoria.status_cursos inválido")
-        fontes = curadoria.get("fontes", [])
-        if not isinstance(fontes, list):
-            errors.append(f"{relative(path)}: curadoria.fontes deve ser array")
-        else:
-            for fonte in fontes:
-                errors.extend(validate_https_url(fonte, f"{relative(path)}: curadoria.fontes[]"))
-        if not isinstance(curadoria.get("verificado_em"), str) or not re.fullmatch(r"\d{4}-\d{2}-\d{2}", curadoria.get("verificado_em", "")):
-            errors.append(f"{relative(path)}: curadoria.verificado_em deve estar em YYYY-MM-DD")
-
     return errors
 
 
@@ -534,8 +515,6 @@ def validate_institucional() -> list[str]:
             errors.append(f"{relative(CAMPI_INDEX_PATH)}: id duplicado: {campus_id}")
         else:
             seen_ids.add(campus_id)
-        if item.get("tipo_unidade") not in TIPOS_UNIDADE_INSTITUCIONAL:
-            errors.append(f"{relative(CAMPI_INDEX_PATH)}: tipo_unidade inválido em {campus_id}")
         if not isinstance(item.get("nome"), str) or not item.get("nome"):
             errors.append(f"{relative(CAMPI_INDEX_PATH)}: nome ausente em {campus_id}")
         if not isinstance(path_value, str):

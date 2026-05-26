@@ -1,14 +1,9 @@
 {
   "id": "palmas",
   "nome": "Palmas",
-  "tipo_unidade": "campus",
   "links": {
     "site": "https://palmas.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/palmas/about/menu-academico/calendario-academico/"
-  },
-  "curadoria": {
-    "status_cursos": "dados_parciais",
-    "verificado_em": "2026-05-11"
   },
   "horario_aulas": {
     "coletado_em": "2026-05-14T11:48:00-03:00",
@@ -288,6 +283,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-8178-a7fd-e6c48dd05095",
         "id": 47,
         "codigo": "PAL001",
         "vagas": 40
@@ -326,6 +322,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-8130-a9cc-df2d197ff5f1",
         "id": 256,
         "codigo": "PAL003",
         "vagas": 40
@@ -364,6 +361,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-819d-b2c8-d96a0b240ef6",
         "id": 60,
         "codigo": "PAL002",
         "vagas": 40

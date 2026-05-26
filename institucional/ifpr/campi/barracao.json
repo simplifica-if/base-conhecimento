@@ -1,14 +1,9 @@
 {
   "id": "barracao",
   "nome": "Barracão",
-  "tipo_unidade": "campus",
   "links": {
     "site": "https://barracao.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/barracao/academico/calendario-academico-e-administrativo/"
-  },
-  "curadoria": {
-    "status_cursos": "dados_parciais",
-    "verificado_em": "2026-05-11"
   },
   "horario_aulas": {
     "coletado_em": "2026-05-14T11:48:00-03:00",
@@ -29,6 +24,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-81ef-a8e0-d556b15e0e24",
         "id": 70,
         "codigo": "BA001",
         "vagas": 80
@@ -81,6 +77,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-814c-a050-fefcf2d84fbe",
         "id": 62,
         "codigo": "BA002",
         "vagas": 40

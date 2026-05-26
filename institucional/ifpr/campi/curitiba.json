@@ -1,14 +1,9 @@
 {
   "id": "curitiba",
   "nome": "Curitiba",
-  "tipo_unidade": "campus",
   "links": {
     "site": "https://curitiba.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/curitiba/calendario-academico/"
-  },
-  "curadoria": {
-    "status_cursos": "dados_curados",
-    "verificado_em": "2026-05-11"
   },
   "horario_aulas": {
     "coletado_em": "2026-05-14T11:48:00-03:00",
@@ -405,6 +400,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-8197-8b2c-f9bc20307f01",
         "id": 211,
         "codigo": "CTB001",
         "vagas": 40
@@ -446,6 +442,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-8165-947c-c736bd0e4fa0",
         "id": 15,
         "codigo": "CTB002",
         "vagas": 30
@@ -500,6 +497,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-813c-b615-f799c331d522",
         "id": 140,
         "codigo": "CTB003",
         "vagas": 40
@@ -552,6 +550,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-8107-bb51-e4e6129ac91e",
         "id": 43,
         "codigo": "CTB004",
         "vagas": 30
@@ -606,6 +605,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-813d-9244-c4aa522b6427",
         "id": 74,
         "codigo": "CTB005",
         "vagas": 30
@@ -647,6 +647,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-8160-ba68-d66f75fd84a3",
         "id": 55,
         "codigo": "CTB006",
         "vagas": 40
@@ -688,6 +689,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-8157-92c4-d94a2d5ec1ef",
         "id": 112,
         "codigo": "CTB007",
         "vagas": 30
@@ -729,6 +731,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-8163-9159-d448ed600946",
         "id": 151,
         "codigo": "CTB008",
         "vagas": 30
@@ -752,6 +755,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-8176-bca6-d7127b0e9460",
         "id": 69,
         "codigo": "CTB009",
         "vagas": 30
@@ -793,6 +797,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-812a-8445-e6825f653528",
         "id": 176,
         "codigo": "CTB010",
         "vagas": 40
@@ -834,6 +839,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-8169-8f59-c6b0e955a5e0",
         "id": 177,
         "codigo": "CTB011",
         "vagas": 30
@@ -884,6 +890,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-81f8-9eb5-fe776d87631c",
         "id": 84,
         "codigo": "CTB013",
         "vagas": 30
@@ -924,6 +931,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-8155-8cc6-fdba8b6f82e2",
         "id": 53,
         "codigo": "CTB012",
         "vagas": 40
@@ -965,6 +973,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-81cb-b750-c95a054bbe48",
         "id": 179,
         "codigo": "CTB014",
         "vagas": 40
@@ -1006,6 +1015,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-81bd-8ec9-d31febe46190",
         "id": 14,
         "codigo": "CTB016",
         "vagas": 30
@@ -1047,6 +1057,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-8158-9b58-ea26a9fdbe75",
         "id": 180,
         "codigo": "CTB015",
         "vagas": 40
@@ -1088,6 +1099,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-8146-a692-fa61ea8e2307",
         "id": 146,
         "codigo": "CTB017",
         "vagas": 30
@@ -1129,6 +1141,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-817e-b6f9-f839f10ede34",
         "id": 95,
         "codigo": "CTB018",
         "vagas": 40
@@ -1170,6 +1183,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-81d7-ac76-fef91e8d2e85",
         "id": 121,
         "codigo": "CTB019",
         "vagas": 30
@@ -1186,6 +1200,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-8190-8ec2-f222832a3604",
         "id": 44,
         "codigo": "CTB020",
         "vagas": 30
@@ -1240,6 +1255,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-81b4-bf9f-e9d242558643",
         "id": 210,
         "codigo": "CTB021",
         "vagas": 35
@@ -1336,6 +1352,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-81bb-b8d1-eed9fdc6ee21",
         "id": 39,
         "codigo": "CTB022",
         "vagas": 30

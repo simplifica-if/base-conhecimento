@@ -1,14 +1,9 @@
 {
   "id": "uniao-da-vitoria",
   "nome": "União da Vitória",
-  "tipo_unidade": "campus",
   "links": {
     "site": "https://ifpr.edu.br/uniao-da-vitoria/",
     "calendario_academico": "https://ifpr.edu.br/uniao-da-vitoria/menu-academico/calendario-academico-2/calendarios-oficiais/"
-  },
-  "curadoria": {
-    "status_cursos": "dados_parciais",
-    "verificado_em": "2026-05-11"
   },
   "horario_aulas": {
     "coletado_em": "2026-05-14T11:48:00-03:00",
@@ -96,6 +91,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-814a-9d21-cf73c0786ef8",
         "id": 41,
         "codigo": "UVIT001",
         "vagas": 50
@@ -169,6 +165,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-8169-b098-c144c0529043",
         "id": 40,
         "codigo": "UVIT002",
         "vagas": 40

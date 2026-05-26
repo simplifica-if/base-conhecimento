@@ -1,14 +1,9 @@
 {
   "id": "cascavel",
   "nome": "Cascavel",
-  "tipo_unidade": "campus",
   "links": {
     "site": "https://cascavel.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/cascavel/calendario-academico/"
-  },
-  "curadoria": {
-    "status_cursos": "dados_parciais",
-    "verificado_em": "2026-05-11"
   },
   "horario_aulas": {
     "coletado_em": "2026-05-14T11:48:00-03:00",
@@ -62,6 +57,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-81e4-b3d2-d807176cb744",
         "id": 29,
         "codigo": "CAS001",
         "vagas": 40
@@ -99,6 +95,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-8192-afd2-c8440f91da62",
         "id": 30,
         "codigo": "CAS002",
         "vagas": 40
@@ -138,6 +135,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-8122-9268-e3fc03af5231",
         "id": 32,
         "codigo": "CAS003",
         "vagas": 40

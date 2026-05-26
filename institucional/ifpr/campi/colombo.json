@@ -1,14 +1,9 @@
 {
   "id": "colombo",
   "nome": "Colombo",
-  "tipo_unidade": "campus",
   "links": {
     "site": "https://colombo.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/colombo/menu-academico/calendario-academico/"
-  },
-  "curadoria": {
-    "status_cursos": "dados_curados",
-    "verificado_em": "2026-05-11"
   },
   "horario_aulas": {
     "coletado_em": "2026-05-14T11:48:00-03:00",
@@ -101,6 +96,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-810e-a1b6-f076fd23e94e",
         "id": 35,
         "codigo": "COL001",
         "vagas": 40
@@ -180,6 +176,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-813a-8f3f-c5fa899bd418",
         "id": 76,
         "codigo": "COL002",
         "vagas": 40
@@ -215,6 +212,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-8106-b64a-ccea11a57dff",
         "id": 122,
         "codigo": "COL003",
         "vagas": 40

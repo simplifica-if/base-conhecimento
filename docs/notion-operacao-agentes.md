@@ -4,7 +4,7 @@ Este guia orienta agentes IA trabalhando a partir de um checkout local deste rep
 
 ## Regra principal
 
-Para dados operacionais de gestão, o Notion é a fonte da verdade. Os JSONs em `institucional/ifpr/campi/` e `institucional/ifpr/processos-seletivos/` são artefatos públicos gerados.
+Para dados operacionais de gestão, o Notion é a fonte da verdade, inclusive para propriedades, tipos e opções vigentes das bases. Os JSONs em `institucional/ifpr/campi/` e `institucional/ifpr/processos-seletivos/` são artefatos públicos gerados.
 
 Use este guia quando a solicitação envolver:
 
@@ -62,6 +62,8 @@ Use `config/notion.json` como mapa operacional. Ele contém:
 
 Não dependa apenas do nome visual da base no Notion. Use as chaves e IDs de `config/notion.json`.
 
+Antes de criar ou alterar registros, consulte o data source no Notion para confirmar as propriedades, tipos e opções atuais. A documentação local descreve fluxos e propriedades recorrentes, mas não substitui o schema vivo do Notion.
+
 Chaves atuais:
 
 - `campi`;
@@ -105,9 +107,10 @@ Nesses casos, use os arquivos locais e a hierarquia de fontes definida em `llms.
 
 Ao alterar dados no Notion:
 
-- preserve identificadores estáveis, como `campus_id`, `curso_id`, `notion_page_id`, `Número SEI`, `suap_curso_id` e IDs de processo seletivo;
+- preserve identificadores estáveis, como `campus_id`, `curso_id`, `notion_page_id`, `Número SEI`, `SUAP ID`, `Código SUAP` e IDs de processo seletivo;
 - não crie campos técnicos de sincronização, migração ou controle interno sem necessidade operacional atual;
-- não crie propriedades novas no Notion sem atualizar `docs/notion-gestao-cursos.md` e os scripts que leem ou exportam a base;
+- não crie propriedades novas no Notion sem verificar o schema atual, a necessidade operacional e os scripts que leem ou exportam a base;
+- se o Notion contiver um valor ou propriedade operacional legítima que a validação local rejeite, ajuste o exportador, schemas públicos ou validadores locais. Não altere o Notion apenas para caber em enumerações locais desatualizadas;
 - registre fontes, datas de coleta e notas de curadoria quando a informação vier de site externo, planilha, SEI ou SUAP;
 - prefira relações entre bases, não duplicação textual, quando a relação já existir no modelo;
 - não edite manualmente os JSONs públicos para refletir curadoria operacional.
@@ -118,7 +121,7 @@ Ao alterar dados no Notion:
 
 1. Leia `config/notion.json`.
 2. Obtenha o `data_source_id` da base.
-3. Consulte o data source com a API do Notion ou com script local.
+3. Consulte o data source com a API do Notion ou com script local, incluindo o schema/propriedades quando isso afetar escrita, filtros ou validação.
 4. Se precisar cruzar relações, busque os registros relacionados pelos IDs de página.
 
 ### Alterar dados operacionais
@@ -151,7 +154,7 @@ python3 scripts/validar_base.py
 1. Use `Número SEI` como identificador operacional.
 2. Relacione o processo aos cursos e campi pertinentes.
 3. Relacione as movimentações que representam eventos na linha do tempo.
-4. Use `Status` como propriedade Notion do tipo `status`, com os valores `Não iniciada`, `Em andamento`, `Concluído`, `Cancelado` e `Arquivado`. Não use `Status` para diferenciar instrução, análise Proens ou colegiados; essas etapas pertencem a `Movimentações de Cursos.Situação`.
+4. Use `Status` como propriedade Notion do tipo `status` para o estado geral do processo, conforme as opções atuais da base no Notion. Não use `Status` para diferenciar instrução, análise Proens ou colegiados; essas etapas pertencem a `Movimentações de Cursos.Situação`.
 5. Preencha `Link SEI` com a URL interna limpa do processo, no formato `https://sei.ifpr.edu.br/sei/controlador.php?acao=procedimento_trabalhar&id_procedimento=<id>`, quando o `id_procedimento` for confirmado no SEI. Não grave URLs com `infra_hash`, pois esse parâmetro é volátil.
 6. Mantenha `Data de abertura`, `Data Última mov.` e `Última movimentação` preenchidas sempre que o processo for localizado ou revisado. `Data de abertura` é a autuação/criação do processo; `Data Última mov.` é a data mais recente encontrada no andamento ou nos documentos, não a conclusão administrativa. `Última movimentação` é um resumo textual curto das duas movimentações mais recentes.
 7. Se a autuação exata não estiver disponível e você usar a primeira data documentada como aproximação, registre isso em `Observações`.

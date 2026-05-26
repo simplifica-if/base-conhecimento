@@ -1,14 +1,9 @@
 {
   "id": "coronel-vivida",
   "nome": "Coronel Vivida",
-  "tipo_unidade": "campus",
   "links": {
     "site": "https://coronelvivida.ifpr.edu.br/",
     "calendario_academico": "https://ifpr.edu.br/coronel-vivida/academico/calendario-academico/"
-  },
-  "curadoria": {
-    "status_cursos": "dados_parciais",
-    "verificado_em": "2026-05-11"
   },
   "horario_aulas": {
     "coletado_em": "2026-05-14T11:48:00-03:00",
@@ -30,6 +25,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-81d7-ac8a-c4e9fa3efa4d",
         "id": 59,
         "codigo": "CV001",
         "vagas": 40
@@ -76,6 +72,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
+        "notion_page_id": "36bf5b13-1dbd-81e6-a1ca-f4aa7e1675bd",
         "id": 120,
         "codigo": "CV002",
         "vagas": 40

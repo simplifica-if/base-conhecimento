@@ -286,7 +286,6 @@ class Exporter:
         return {
             "id": plain_text(props.get("campus_id")),
             "nome": plain_text(props.get("Nome")),
-            "tipo_unidade": select_name(props.get("Tipo de unidade")),
         }
 
     def course_ref(self, page: dict[str, Any]) -> dict[str, str]:
@@ -303,14 +302,9 @@ class Exporter:
         campus: dict[str, Any] = {
             "id": campus_id,
             "nome": plain_text(props.get("Nome")),
-            "tipo_unidade": select_name(props.get("Tipo de unidade")),
             "links": {
                 "site": url_value(props.get("Site")),
                 "calendario_academico": url_value(props.get("Calendário acadêmico")),
-            },
-            "curadoria": {
-                "status_cursos": select_name(props.get("Status de curadoria")) or "dados_parciais",
-                "verificado_em": json_date(date_start(props.get("Verificado em"))) or str(date.today()),
             },
         }
         return campus
@@ -380,8 +374,16 @@ class Exporter:
     def pick_suap(self, pages: list[dict[str, Any]]) -> dict[str, Any] | None:
         if not pages:
             return None
-        props = sorted(pages, key=lambda page: plain_text(page["properties"].get("suap_curso_id")))[0]["properties"]
-        suap: dict[str, Any] = {}
+        page = sorted(
+            pages,
+            key=lambda item: (
+                number_value(item["properties"].get("SUAP ID")) or 0,
+                plain_text(item["properties"].get("Código SUAP")),
+                item["id"],
+            ),
+        )[0]
+        props = page["properties"]
+        suap: dict[str, Any] = {"notion_page_id": page["id"]}
         add_if_number(suap, "id", number_value(props.get("SUAP ID")))
         add_if_text(suap, "codigo", plain_text(props.get("Código SUAP")))
         add_if_number(suap, "vagas", number_value(props.get("Vagas SUAP")))
@@ -495,7 +497,6 @@ class Exporter:
                 {
                     "id": campus["id"],
                     "nome": campus["nome"],
-                    "tipo_unidade": campus["tipo_unidade"],
                     "path": f"institucional/ifpr/campi/{campus['id']}.json",
                 }
                 for campus in campi
