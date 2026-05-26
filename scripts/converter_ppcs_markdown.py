@@ -13,8 +13,6 @@ import json
 import re
 import tempfile
 from http.client import IncompleteRead
-from datetime import date
-from importlib.metadata import PackageNotFoundError, version
 from pathlib import Path
 from urllib.parse import quote, unquote, urlparse, urlsplit, urlunsplit
 from urllib.request import Request, urlopen
@@ -93,18 +91,8 @@ def convert_file(source_path: Path, force_ocr: bool = False) -> str:
     return markdown
 
 
-def converter_version() -> str | None:
-    try:
-        return version("pymupdf4llm")
-    except PackageNotFoundError:
-        return None
-
-
 def set_conversion_error(ppc: dict[str, object], message: str) -> None:
     ppc["conversao"] = {
-        "ferramenta": "pymupdf4llm",
-        "versao_ferramenta": converter_version() or "desconhecida",
-        "convertido_em": date.today().isoformat(),
         "status": "erro",
         "mensagem_erro": message,
     }
@@ -251,9 +239,6 @@ def convert_ppcs(
             continue
         target.write_text(markdown, encoding="utf-8")
         ppc["conversao"] = {
-            "ferramenta": "pymupdf4llm",
-            "versao_ferramenta": converter_version() or "desconhecida",
-            "convertido_em": date.today().isoformat(),
             "status": "convertido",
         }
         campus_path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

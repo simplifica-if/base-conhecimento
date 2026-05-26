@@ -85,7 +85,7 @@ def extract_year(markdown: str) -> dict[str, object] | None:
         "ano": selected[0],
         "trecho_fonte": clean_source(selected[1]),
         "secao": "Capa / folha inicial",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
     }
 
 
@@ -217,7 +217,7 @@ def extract_vagas(markdown: str) -> dict[str, object] | None:
                 "quantidade": quantidade,
                 "trecho_fonte": clean_source(trecho),
                 "secao": clean_source(match.group(1)),
-                "status_curadoria": "sugerido",
+                "status_curadoria": "precisa_revisao",
             }
             if "anual" in match.group(0).lower():
                 vagas["periodicidade"] = "anual"

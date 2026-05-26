@@ -30,10 +30,11 @@ Se `../sei-cli` não existir, diga ao usuário que a ferramenta não está dispo
 Use `sei-cli` quando a tarefa envolver:
 
 - localizar ou revisar um processo SEI;
-- confirmar `Data de abertura` ou `Última movimentação`;
+- localizar o link interno limpo de acesso ao processo no SEI;
+- confirmar `Data de abertura`, `Data Última mov.` ou o resumo textual de `Última movimentação`;
 - identificar documentos relevantes, como pareceres, despachos, PPCs, portarias, resoluções, atas ou documentos externos;
 - verificar se houve ato definitivo, arquivamento, cancelamento ou encaminhamento recente;
-- extrair evidências para preencher `Processos SEI`, `Movimentações de Cursos` ou `Documentos de Curso` no Notion;
+- extrair evidências para preencher `Processos SEI`, `Movimentações de Cursos` ou `PPCs` no Notion;
 - responder a dúvidas operacionais quando os JSONs publicados não tiverem evidência suficiente.
 
 Não use `sei-cli` para substituir a consulta normativa da base pública. Para normas, legislação, resoluções, portarias publicadas, catálogos e PPCs já convertidos, siga primeiro `llms.txt`.
@@ -82,6 +83,15 @@ bun run sei inspecionar ultima-atualizacao dados/sei/23411.018179_2025-81/<execu
 bun run sei inspecionar documentos dados/sei/23411.018179_2025-81/<execucao> --ultimos 20
 bun run sei inspecionar historico dados/sei/23411.018179_2025-81/<execucao> --ultimos 50
 ```
+
+Para obter apenas o link interno limpo do processo no SEI, sem baixar o ZIP:
+
+```bash
+cd ../sei-cli
+bun run sei localizar link 23411.018179/2025-81 --json
+```
+
+O campo `sei_link_processo` retornado deve usar `acao=procedimento_trabalhar&id_procedimento=<id>`. Não persista URLs de sessão com `infra_hash`.
 
 Use `--json` quando precisar processar a saída por script, `jq` ou outro programa:
 
@@ -149,26 +159,30 @@ Ao usar o SEI para curadoria, registre no Notion somente informações sustentad
 Em `Processos SEI`:
 
 - use `Número SEI` como identificador operacional;
+- preencha `Link SEI` com `sei_link_processo`, quando o `sei-cli` conseguir confirmar o processo exato;
 - preencha `Data de abertura` com a autuação/criação do processo quando encontrada;
-- preencha `Última movimentação` com a data mais recente localizada em `historico[]` ou nos documentos;
+- preencha `Data Última mov.` com a data mais recente localizada em `historico[]` ou nos documentos;
+- preencha `Última movimentação` com um resumo curto das duas movimentações mais recentes do histórico, para dar contexto humano à data;
+- em campos textuais do Notion, use datas em formato brasileiro curto `DD/MM/AA`; preserve datas estruturadas do tipo `date` como propriedades de data do Notion;
 - use `Status` apenas para o estado geral do processo: `Não iniciada`, `Em andamento`, `Concluído`, `Cancelado` ou `Arquivado`;
 - escreva `Observações` em blocos curtos.
 
 Modelo recomendado de `Observações`:
 
 ```text
-Revisado em AAAA-MM-DD via sei-cli.
+Revisado em DD/MM/AA via sei-cli.
 
 Contexto
 - Curso/campus e finalidade do processo.
 
 Evidências
-- SEI 1234567 (AAAA-MM-DD): título do documento e síntese da evidência.
-- Histórico em AAAA-MM-DD: descrição relevante do andamento.
+- SEI 1234567 (DD/MM/AA): título do documento e síntese da evidência.
+- Histórico em DD/MM/AA: descrição relevante do andamento.
 
 Datas de controle
-- Data de abertura: AAAA-MM-DD, conforme ...
-- Última movimentação: AAAA-MM-DD, conforme ...
+- Data de abertura: DD/MM/AA, conforme ...
+- Data Última mov.: DD/MM/AA, conforme ...
+- Última movimentação: resumo das duas movimentações mais recentes, quando disponível.
 
 Observação técnica
 - Limitação da extração, pendência ou ressalva, quando houver.

@@ -165,8 +165,10 @@
               },
               "status_curadoria": {
                 "enum": [
-                  "sugerido",
-                  "revisado"
+                  "precisa_revisao",
+                  "revisado",
+                  "inconsistente",
+                  "pendente"
                 ]
               },
               "revisado_em": {

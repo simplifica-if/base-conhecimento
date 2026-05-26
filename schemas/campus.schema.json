@@ -226,8 +226,10 @@
                     },
                     "status_curadoria": {
                       "enum": [
-                        "sugerido",
-                        "revisado"
+                        "precisa_revisao",
+                        "revisado",
+                        "inconsistente",
+                        "pendente"
                       ]
                     },
                     "revisado_em": {
@@ -243,7 +245,6 @@
             "type": "object",
             "required": [
               "url",
-              "markdown_path",
               "conversao"
             ],
             "additionalProperties": false,
@@ -316,8 +317,10 @@
                       },
                       "status_curadoria": {
                         "enum": [
-                          "sugerido",
-                          "revisado"
+                          "precisa_revisao",
+                          "revisado",
+                          "inconsistente",
+                          "pendente"
                         ]
                       },
                       "revisado_em": {
@@ -365,8 +368,10 @@
                       },
                       "status_curadoria": {
                         "enum": [
-                          "sugerido",
-                          "revisado"
+                          "precisa_revisao",
+                          "revisado",
+                          "inconsistente",
+                          "pendente"
                         ]
                       },
                       "revisado_em": {

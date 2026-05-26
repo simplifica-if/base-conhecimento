@@ -10,7 +10,7 @@ Use este guia quando a solicitação envolver:
 
 - Campi;
 - Cursos;
-- Documentos de Curso;
+- PPCs;
 - Movimentações de Cursos;
 - Processos SEI;
 - Tarefas;
@@ -66,7 +66,7 @@ Chaves atuais:
 
 - `campi`;
 - `cursos`;
-- `documentos`;
+- `documentos` (`PPCs`);
 - `movimentacoes_cursos`;
 - `processos_sei`;
 - `tarefas`;
@@ -144,7 +144,7 @@ python3 scripts/validar_base.py
 2. Localize ou crie o processo em `Processos SEI`.
 3. Crie uma entrada em `Movimentações de Cursos`.
 4. Relacione a movimentação ao curso e ao processo SEI principal.
-5. Preencha classe, tipo, situação, situação resultante e anotações quando houver evidências, pendências ou nuances de curadoria.
+5. Preencha categoria, tipo, situação e anotações quando houver evidências, pendências ou nuances de curadoria.
 
 ### Registrar processo SEI
 
@@ -152,12 +152,13 @@ python3 scripts/validar_base.py
 2. Relacione o processo aos cursos e campi pertinentes.
 3. Relacione as movimentações que representam eventos na linha do tempo.
 4. Use `Status` como propriedade Notion do tipo `status`, com os valores `Não iniciada`, `Em andamento`, `Concluído`, `Cancelado` e `Arquivado`. Não use `Status` para diferenciar instrução, análise Proens ou colegiados; essas etapas pertencem a `Movimentações de Cursos.Situação`.
-5. Mantenha `Data de abertura` e `Última movimentação` preenchidas sempre que o processo for localizado ou revisado. `Data de abertura` é a autuação/criação do processo; `Última movimentação` é a data mais recente encontrada no andamento ou nos documentos, não a conclusão administrativa.
-6. Se a autuação exata não estiver disponível e você usar a primeira data documentada como aproximação, registre isso em `Observações`.
-7. Escreva `Observações` em blocos curtos, com quebras de linha e marcadores, para facilitar leitura humana e reuso por agentes. Comece com uma frase simples no formato `Revisado em AAAA-MM-DD via <ferramenta ou fonte>.` Em seguida, use, quando aplicável, os blocos `Contexto`, `Evidências`, `Datas de controle` e `Observação técnica`. Não inclua caminho local de snapshot.
-8. Se a informação vier de coleta automatizada, preserve `Planilha origem`, `Linhas origem`, observações ou notas relevantes.
+5. Preencha `Link SEI` com a URL interna limpa do processo, no formato `https://sei.ifpr.edu.br/sei/controlador.php?acao=procedimento_trabalhar&id_procedimento=<id>`, quando o `id_procedimento` for confirmado no SEI. Não grave URLs com `infra_hash`, pois esse parâmetro é volátil.
+6. Mantenha `Data de abertura`, `Data Última mov.` e `Última movimentação` preenchidas sempre que o processo for localizado ou revisado. `Data de abertura` é a autuação/criação do processo; `Data Última mov.` é a data mais recente encontrada no andamento ou nos documentos, não a conclusão administrativa. `Última movimentação` é um resumo textual curto das duas movimentações mais recentes.
+7. Se a autuação exata não estiver disponível e você usar a primeira data documentada como aproximação, registre isso em `Observações`.
+8. Escreva `Observações` em blocos curtos, com quebras de linha e marcadores, para facilitar leitura humana e reuso por agentes. Em campos textuais do Notion, use datas no formato brasileiro curto `DD/MM/AA`. Comece com uma frase simples no formato `Revisado em DD/MM/AA via <ferramenta ou fonte>.` Em seguida, use, quando aplicável, os blocos `Contexto`, `Evidências`, `Datas de controle` e `Observação técnica`. Não inclua caminho local de snapshot.
+9. Se a informação vier de coleta automatizada, preserve `Planilha origem`, `Linhas origem`, observações ou notas relevantes.
 
-Quando usar `sei-cli`, registre `Revisado em AAAA-MM-DD via sei-cli.` e cite nas evidências os documentos ou eventos usados, como `SEI 1234567 (AAAA-MM-DD): Parecer ...`. Não grave caminhos locais do snapshot em `Observações`.
+Quando usar `sei-cli`, registre `Revisado em DD/MM/AA via sei-cli.` e cite nas evidências os documentos ou eventos usados, como `SEI 1234567 (DD/MM/AA): Parecer ...`. Não grave caminhos locais do snapshot em `Observações`.
 
 ## Documentos relacionados
 

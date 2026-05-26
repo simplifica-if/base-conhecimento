@@ -12,7 +12,7 @@ Para tarefas de curadoria de metadados institucionais, especialmente campi e cur
 
 - [Curadoria de metadados institucionais](docs/curadoria-metadados-institucionais.md)
 
-Para solicitações sobre dados operacionais no Notion, como Campi, Cursos, Documentos de Curso, Movimentações de Cursos, Processos SEI, SUAP Cursos, Horários de Aula, Processos Seletivos, Editais ou Ofertas de Ingresso, leia primeiro:
+Para solicitações sobre dados operacionais no Notion, como Campi, Cursos, PPCs, Movimentações de Cursos, Processos SEI, SUAP Cursos, Horários de Aula, Processos Seletivos, Editais ou Ofertas de Ingresso, leia primeiro:
 
 - [Operação do Notion por agentes](docs/notion-operacao-agentes.md)
 

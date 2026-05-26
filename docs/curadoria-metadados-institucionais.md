@@ -4,7 +4,7 @@ Este documento registra práticas para manter metadados institucionais do IFPR, 
 
 ## Fonte operacional
 
-O Notion é a fonte operacional de verdade para campi, cursos, documentos de curso, SUAP Cursos, horários de aula, movimentações de cursos, processos SEI, processos seletivos, editais e ofertas de ingresso.
+O Notion é a fonte operacional de verdade para campi, cursos, PPCs, SUAP Cursos, horários de aula, movimentações de cursos, processos SEI, processos seletivos, editais e ofertas de ingresso.
 
 Os arquivos JSON em `institucional/ifpr/campi/` e `institucional/ifpr/processos-seletivos/` são artefatos públicos gerados a partir do Notion. Não edite esses JSONs manualmente para curadoria operacional.
 
@@ -17,7 +17,7 @@ Fluxo normal de manutenção:
 python3 scripts/notion_exportar_base_publica.py
 ```
 
-3. Regenere os índices de PPCs quando houver mudança em cursos, documentos de curso ou caminhos de PPC:
+3. Regenere os índices de PPCs quando houver mudança em cursos, PPCs ou caminhos de PPC:
 
 ```bash
 python3 scripts/gerar_indice_ppcs.py
@@ -107,9 +107,9 @@ Quando for necessário localizar, revisar ou confirmar evidências no Sistema El
 4. Use `tipo` para classificar a finalidade principal do processo: `abertura`, `ajuste`, `atualização`, `suspensão`, `reversão de suspensão`, `extinção` ou `outro`.
 5. Quando a situação atual do curso decorrer de processo SEI, atualize também `cursos[].situacao`, por exemplo `suspenso`.
 6. Na base Notion `Processos SEI`, trate `Status` como propriedade do tipo `status`, com os valores `Não iniciada`, `Em andamento`, `Concluído`, `Cancelado` e `Arquivado`. Use esse campo apenas para o estado geral do processo; etapas como instrução no campus, análise Proens e colegiados devem ficar em `Movimentações de Cursos.Situação`.
-7. Na base Notion `Processos SEI`, mantenha `Data de abertura` e `Última movimentação` atualizadas a cada revisão. `Data de abertura` é a autuação/criação do processo; `Última movimentação` é a data mais recente localizada no andamento ou nos documentos e não deve ser tratada como data de conclusão.
+7. Na base Notion `Processos SEI`, mantenha `Link SEI`, `Data de abertura`, `Data Última mov.` e `Última movimentação` atualizadas a cada revisão. `Link SEI` deve usar a URL limpa com `acao=procedimento_trabalhar&id_procedimento=<id>`, sem `infra_hash`; `Data de abertura` é a autuação/criação do processo; `Data Última mov.` é a data mais recente localizada no andamento ou nos documentos e não deve ser tratada como data de conclusão. `Última movimentação` é um resumo textual curto das duas movimentações mais recentes.
 8. Quando a data exata de autuação não estiver disponível, use a primeira data documentada somente como aproximação e registre essa limitação em `Observações`.
-9. Formate `Observações` em blocos escaneáveis, com quebras de linha e bullets. Comece com uma frase simples no formato `Revisado em AAAA-MM-DD via <ferramenta ou fonte>.` Em seguida, use blocos como `Contexto`, `Evidências`, `Datas de controle` e `Observação técnica` quando houver conteúdo para eles. Não inclua caminho local de snapshot.
+9. Formate `Observações` em blocos escaneáveis, com quebras de linha e bullets. Em campos textuais do Notion, use datas no formato brasileiro curto `DD/MM/AA`. Comece com uma frase simples no formato `Revisado em DD/MM/AA via <ferramenta ou fonte>.` Em seguida, use blocos como `Contexto`, `Evidências`, `Datas de controle` e `Observação técnica` quando houver conteúdo para eles. Não inclua caminho local de snapshot.
 10. Use `status_curadoria`, `revisado_em` e, quando disponível, `trecho_fonte` para registrar a evidência usada na curadoria.
 
 Exemplo:
@@ -156,12 +156,13 @@ Quando a página oficial do curso indicar o Projeto Pedagógico de Curso, regist
 5. Quando houver mais de um PPC, registre apenas o documento vigente ou mais recente, priorizando textos como "vigente", "novo", "atualizado", "válido a partir de" ou o ano mais recente.
 6. Se não houver link oficial claro para PPC, omita `ppc`; não use `null` nem marcador de pendência no curso.
 7. Preserve URLs HTTPS absolutas. Links oficiais em Google Drive podem ser usados quando a página do curso apontar diretamente para eles.
-8. Use `ppc.conversao.status` como `pendente` enquanto o Markdown ainda não tiver sido gerado.
-9. Metadados extraídos do PPC, como ano do documento e vagas, devem ficar em `ppc.metadados` com contexto e evidência textual; não registre apenas um número solto.
-10. A conversão para Markdown é apoio à leitura e extração. A fonte oficial continua sendo o PDF indicado em `ppc.url`.
-11. Para converter PDFs em Markdown, use o script opcional `scripts/converter_ppcs_markdown.py`, com dependências instaladas por `uv venv && uv pip install -r requirements-ppc.txt`. O conversor padrão é PyMuPDF4LLM com OCR local disponível.
-12. Registre o ano do PPC em `ppc.metadados.ano_documento` quando houver evidência no documento, preferencialmente na capa, folha de rosto, ato de ajuste ou indicação clara de revisão vigente.
-13. Depois de converter PPCs ou alterar metadados de cursos com PPC convertido, regenere os índices globais com `python3 scripts/gerar_indice_ppcs.py`.
+8. `ppc.conversao.status` é derivado na publicação: fica `convertido` quando houver `Markdown path` e `pendente` enquanto o Markdown ainda não tiver sido gerado.
+9. Use `Status curadoria` no Notion como campo `select`: `Precisa de revisão`, `Revisado`, `Inconsistente` ou `Pendente`. Na publicação, esses valores são normalizados para `precisa_revisao`, `revisado`, `inconsistente` e `pendente`.
+10. Metadados extraídos do PPC, como ano do documento e vagas, devem ficar em `ppc.metadados` com contexto e evidência textual; não registre apenas um número solto.
+11. A conversão para Markdown é apoio à leitura e extração. A fonte oficial continua sendo o PDF indicado em `ppc.url`.
+12. Para converter PDFs em Markdown, use o script opcional `scripts/converter_ppcs_markdown.py`, com dependências instaladas por `uv venv && uv pip install -r requirements-ppc.txt`. O conversor padrão é PyMuPDF4LLM com OCR local disponível.
+13. Registre o ano do PPC em `ppc.metadados.ano_documento` quando houver evidência no documento, preferencialmente na capa, folha de rosto, ato de ajuste ou indicação clara de revisão vigente.
+14. Depois de converter PPCs ou alterar metadados de cursos com PPC convertido, regenere os índices globais com `python3 scripts/gerar_indice_ppcs.py`.
 
 ## Índices globais de PPCs
 

@@ -398,16 +398,19 @@ def validate_campus_file(path: Path, index_item: dict[str, object]) -> list[str]
                 errors.extend(validate_https_url(ppc.get("url"), f"{relative(path)}: cursos[].ppc.url"))
 
                 markdown_path = ppc.get("markdown_path")
-                if not isinstance(markdown_path, str):
-                    errors.append(f"{relative(path)}: cursos[].ppc.markdown_path deve ser texto")
-                elif not markdown_path.startswith("institucional/ifpr/ppcs/") or not markdown_path.endswith(".md"):
+                conversao = ppc.get("conversao")
+                conversion_status = conversao.get("status") if isinstance(conversao, dict) else ""
+                if conversion_status == "convertido" and not isinstance(markdown_path, str):
+                    errors.append(f"{relative(path)}: cursos[].ppc.markdown_path deve ser texto quando conversao.status=convertido")
+                elif isinstance(markdown_path, str) and (
+                    not markdown_path.startswith("institucional/ifpr/ppcs/") or not markdown_path.endswith(".md")
+                ):
                     errors.append(f"{relative(path)}: cursos[].ppc.markdown_path deve apontar para institucional/ifpr/ppcs/*.md")
                 elif isinstance(campus_id, str) and isinstance(curso_id, str):
                     expected = f"institucional/ifpr/ppcs/{campus_id}/{curso_id}.md"
-                    if markdown_path != expected:
+                    if isinstance(markdown_path, str) and markdown_path != expected:
                         errors.append(f"{relative(path)}: cursos[].ppc.markdown_path esperado para {curso_id}: {expected}")
 
-                conversao = ppc.get("conversao")
                 if not isinstance(conversao, dict):
                     errors.append(f"{relative(path)}: cursos[].ppc.conversao deve ser objeto")
                 elif conversao.get("status") == "convertido":

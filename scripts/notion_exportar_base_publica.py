@@ -17,7 +17,15 @@ from notion_client import NotionClient, NotionError
 
 CONFIG_PATH = ROOT / "config" / "notion.json"
 CAMPI_ROOT = ROOT / "institucional" / "ifpr" / "campi"
-VALID_VAGAS_STATUS = {"sugerido", "revisado"}
+CURADORIA_STATUS_ALIASES = {
+    "precisa de revisão": "precisa_revisao",
+    "precisa de revisao": "precisa_revisao",
+    "precisa_revisao": "precisa_revisao",
+    "sugerido": "precisa_revisao",
+    "revisado": "revisado",
+    "inconsistente": "inconsistente",
+    "pendente": "pendente",
+}
 VALID_CURADORIA_STATUS = {"dados_pendentes", "dados_parciais", "dados_curados"}
 
 
@@ -51,6 +59,18 @@ def select_name(prop: dict[str, Any] | None) -> str:
         return ""
     selected = prop.get("select") or prop.get("status")
     return selected.get("name", "") if selected else ""
+
+
+def property_label(prop: dict[str, Any] | None) -> str:
+    return select_name(prop) or plain_text(prop)
+
+
+def curadoria_status(prop: dict[str, Any] | None, reviewed_at: str) -> str:
+    label = property_label(prop).strip().lower()
+    status = CURADORIA_STATUS_ALIASES.get(label)
+    if status:
+        return status
+    return "revisado" if reviewed_at else "precisa_revisao"
 
 
 def number_value(prop: dict[str, Any] | None) -> int | None:
@@ -297,7 +317,7 @@ class Exporter:
             "id": plain_text(props.get("curso_id")),
             "nome": plain_text(props.get("Nome")),
             "nivel": select_name(props.get("Nível")),
-            "tipo_oferta": select_name(props.get("Tipo de oferta")),
+            "tipo_oferta": select_name(props.get("Forma de oferta") or props.get("Tipo de oferta")),
             "url": url_value(props.get("URL oficial")),
         }
         add_if_text(course, "modalidade", select_name(props.get("Modalidade")))
@@ -332,9 +352,7 @@ class Exporter:
         candidates = [
             page
             for page in pages
-            if select_name(page["properties"].get("Tipo")) == "PPC"
-            and url_value(page["properties"].get("URL oficial"))
-            and plain_text(page["properties"].get("Markdown path"))
+            if url_value(page["properties"].get("URL oficial"))
         ]
         if not candidates:
             return None
@@ -346,18 +364,15 @@ class Exporter:
             ),
         )[0]
         props = page["properties"]
-        conversion: dict[str, Any] = {
-            "status": select_name(props.get("Status conversão")) or "pendente",
-        }
-        add_if_text(conversion, "ferramenta", plain_text(props.get("Ferramenta conversão")))
-        add_if_text(conversion, "versao_ferramenta", plain_text(props.get("Versão ferramenta")))
-        add_if_text(conversion, "convertido_em", json_date(date_start(props.get("Convertido em"))))
+        markdown_path = plain_text(props.get("Markdown path"))
 
         ppc: dict[str, Any] = {
             "url": url_value(props.get("URL oficial")),
-            "markdown_path": plain_text(props.get("Markdown path")),
-            "conversao": conversion,
+            "conversao": {
+                "status": "convertido" if markdown_path else "pendente",
+            },
         }
+        add_if_text(ppc, "markdown_path", markdown_path)
 
         metadados: dict[str, Any] = {}
         ano_documento = self.ppc_ano_documento(props)
@@ -374,25 +389,23 @@ class Exporter:
         ano = number_value(props.get("Ano do documento"))
         if ano is None:
             return None
-        status = plain_text(props.get("Status curadoria"))
-        if status not in VALID_VAGAS_STATUS:
-            status = "revisado" if date_start(props.get("Revisado em")) else "sugerido"
+        reviewed_at = json_date(date_start(props.get("Revisado em")))
+        status = curadoria_status(props.get("Status curadoria"), reviewed_at)
         item: dict[str, Any] = {
             "ano": ano,
             "trecho_fonte": f"Ano do documento registrado no Notion: {ano}",
             "status_curadoria": status,
         }
-        add_if_text(item, "revisado_em", json_date(date_start(props.get("Revisado em"))))
+        add_if_text(item, "revisado_em", reviewed_at)
         return item
 
     def ppc_vagas(self, props: dict[str, Any]) -> dict[str, Any] | None:
         quantidade = number_value(props.get("Vagas"))
         trecho = plain_text(props.get("Trecho fonte das vagas"))
-        status = plain_text(props.get("Status curadoria"))
         if quantidade is None or not trecho:
             return None
-        if status not in VALID_VAGAS_STATUS:
-            status = "revisado" if date_start(props.get("Revisado em")) else "sugerido"
+        reviewed_at = json_date(date_start(props.get("Revisado em")))
+        status = curadoria_status(props.get("Status curadoria"), reviewed_at)
         vagas: dict[str, Any] = {
             "quantidade": quantidade,
             "trecho_fonte": trecho,
@@ -400,8 +413,7 @@ class Exporter:
         }
         add_if_text(vagas, "periodicidade", plain_text(props.get("Periodicidade vagas")))
         add_if_text(vagas, "forma_oferta", plain_text(props.get("Forma de oferta")))
-        add_if_text(vagas, "secao", plain_text(props.get("Seção das vagas")))
-        add_if_text(vagas, "revisado_em", json_date(date_start(props.get("Revisado em"))))
+        add_if_text(vagas, "revisado_em", reviewed_at)
         return vagas
 
     def movimentacao_processes(self, movimentacoes: list[dict[str, Any]], processos_by_page: dict[str, str]) -> list[dict[str, Any]]:
@@ -424,7 +436,7 @@ class Exporter:
     def movimentacao_sort_key(self, page: dict[str, Any]) -> tuple[str, str, str, str]:
         props = page["properties"]
         return (
-            json_date(date_start(props.get("Data do ato"))) or json_date(date_start(props.get("Data efetiva"))),
+            json_date(date_start(props.get("Data do ato"))) or json_date(date_start(props.get("Início da vigência"))),
             select_name(props.get("Tipo")),
             plain_text(props.get("Título")),
             page.get("id", ""),
@@ -567,9 +579,8 @@ class Exporter:
         return oferta
 
     def oferta_vagas(self, props: dict[str, Any]) -> dict[str, Any]:
-        status = plain_text(props.get("Status de curadoria"))
-        if status not in VALID_VAGAS_STATUS:
-            status = "revisado" if date_start(props.get("Revisado em")) else "sugerido"
+        reviewed_at = json_date(date_start(props.get("Revisado em")))
+        status = curadoria_status(props.get("Status de curadoria"), reviewed_at)
         vagas: dict[str, Any] = {
             "quantidade": number_value(props.get("Vagas")) or 0,
             "trecho_fonte": plain_text(props.get("Trecho fonte")) or "Informação migrada do cadastro operacional.",
@@ -577,7 +588,7 @@ class Exporter:
         }
         add_if_text(vagas, "forma_oferta", plain_text(props.get("Forma de oferta")))
         add_if_number(vagas, "pagina", number_value(props.get("Página fonte")))
-        add_if_text(vagas, "revisado_em", json_date(date_start(props.get("Revisado em"))))
+        add_if_text(vagas, "revisado_em", reviewed_at)
         return vagas
 
     def oferta_fonte(self, page: dict[str, Any], editais_by_page: dict[str, dict[str, str]]) -> dict[str, Any]:
