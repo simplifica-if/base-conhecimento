@@ -29,12 +29,8 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2025/09/PPC_PG_Saude-Coletiva_2025.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/londrina/especializacao-lato-sensu-em-saude-coletiva-com-enfase-na-promocao-da-saude.md",
         "conversao": {
-          "status": "erro",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "pendente"
         }
       }
     },
@@ -49,26 +45,22 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2025/12/PPC-MATRIZ-288.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/londrina/licenciatura-em-ciencias-biologicas-2.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/londrina/licenciatura-em-ciencias-biologicas-2.md",
         "metadados": {
           "ano_documento": {
             "ano": 2014,
             "trecho_fonte": "Ano do documento registrado no Notion: 2014",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) No mínimo 20 e no máximo 40 vagas",
-            "status_curadoria": "sugerido",
+            "status_curadoria": "precisa_revisao",
             "periodicidade": "anual",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Vagas totais (anual)"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       }
@@ -89,25 +81,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2025/11/PPC-Tecnico-em-Biotecnologia-Integrado-ao-Ensino-Medio-2-1.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/londrina/tecnico-em-biotecnologia-integrado-ao-ensino-medio.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/londrina/tecnico-em-biotecnologia-integrado-ao-ensino-medio.md",
         "metadados": {
           "ano_documento": {
             "ano": 2001,
             "trecho_fonte": "Ano do documento registrado no Notion: 2001",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Número máximo de vagas do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       }
@@ -128,25 +116,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2023/12/PPC-2022_-CURSO-TECNICO-EM-ENFERMAGEM.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/londrina/tecnico-em-enfermagem.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/londrina/tecnico-em-enfermagem.md",
         "metadados": {
           "ano_documento": {
             "ano": 2011,
             "trecho_fonte": "Ano do documento registrado no Notion: 2011",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 30,
             "trecho_fonte": "Número máximo de vagas do curso: 30 vagas Número mínimo de vagas do curso: 20 vagas",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas",
-            "secao": "Número máximo de vagas do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas"
           }
         }
       }
@@ -167,25 +151,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2025/11/PPC-Tecnico-Informatica-Integrado-ao-Ensino-Medio-PDF-2017-1-1.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/londrina/tecnico-em-informatica-integrado-ao-ensino-medio.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/londrina/tecnico-em-informatica-integrado-ao-ensino-medio.md",
         "metadados": {
           "ano_documento": {
             "ano": 2001,
             "trecho_fonte": "Ano do documento registrado no Notion: 2001",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Número máximo de vagas do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       }
@@ -206,25 +186,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2018/04/PPC-Tecnico-em-Massoterapia.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/londrina/tecnico-em-massoterapia.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/londrina/tecnico-em-massoterapia.md",
         "metadados": {
           "ano_documento": {
             "ano": 2011,
             "trecho_fonte": "Ano do documento registrado no Notion: 2011",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Número máximo de vagas do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       }
@@ -245,25 +221,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2023/12/PPC-Tecnico-em-Protese-Dentaria.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/londrina/tecnico-em-protese-dentaria-2.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/londrina/tecnico-em-protese-dentaria-2.md",
         "metadados": {
           "ano_documento": {
             "ano": 2009,
             "trecho_fonte": "Ano do documento registrado no Notion: 2009",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "NÚMERO DE VAGAS: 40 ESTÁGIO SUPERVISIONADO: 0 CARGA HORÁRIA TOTAL: 1200 horas MÍNIMO MÁXIMO 20 40",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "NÚMERO DE VAGAS"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       }
@@ -284,25 +256,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2023/12/PPC-Tecnico-em-Saude-Bucal.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/londrina/tecnico-em-saude-bucal.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/londrina/tecnico-em-saude-bucal.md",
         "metadados": {
           "ano_documento": {
             "ano": 2011,
             "trecho_fonte": "Ano do documento registrado no Notion: 2011",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 30,
             "trecho_fonte": "Número máximo de vagas do curso: 30 Número mínimo de vagas do curso: 20",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas",
-            "secao": "Número máximo de vagas do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas"
           }
         }
       },
@@ -315,7 +283,7 @@
           {
             "numero": "23411.003388/2025-21",
             "tipo": "ajuste",
-            "trecho_fonte": "Ajuste Curricular - apenas mudança de turno de noturno para matutino. Manifestação de Viabilidade de Ajuste para mudança de turno. Enviado à SOC/Consepe em 8/8/25.\nEvidências: SEI 3747558 (19/08/2025): ato/manifestação CONSEPE localizado (Parecer Consepe 31).; SEI 3805159 (16/09/2025): PPC localizado: (Projeto Pedagógico de Curso)."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 39. Enviado à SOC/Consepe em 8/8/25\n"
           }
         ]
       }
@@ -331,26 +299,22 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2025/02/IFPR_PPC_TADS_Londrina_2025_v1.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/londrina/tecnologia-em-analise-e-desenvolvimento-de-sistemas.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/londrina/tecnologia-em-analise-e-desenvolvimento-de-sistemas.md",
         "metadados": {
           "ano_documento": {
             "ano": 2024,
             "trecho_fonte": "Ano do documento registrado no Notion: 2024",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) Quarenta vagas",
-            "status_curadoria": "sugerido",
+            "status_curadoria": "precisa_revisao",
             "periodicidade": "anual",
-            "forma_oferta": "40 vagas",
-            "secao": "Vagas totais (anual)"
+            "forma_oferta": "40 vagas"
           }
         }
       }

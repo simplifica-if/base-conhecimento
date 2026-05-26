@@ -33,25 +33,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/quedas-do-iguacu/wp-content/uploads/sites/24/2024/04/2_PPC-INFORMATICA_3-ANOS_VERSAO-APROVADA_AGOSTO-2018-2.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/quedas-do-iguacu/tecnico-em-informatica.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/quedas-do-iguacu/tecnico-em-informatica.md",
         "metadados": {
           "ano_documento": {
             "ano": 2018,
             "trecho_fonte": "Ano do documento registrado no Notion: 2018",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Número máximo de vagas do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       }
@@ -72,25 +68,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/quedas-do-iguacu/wp-content/uploads/sites/24/2023/05/PPC_Meio_Ambiente.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/quedas-do-iguacu/tecnico-em-meio-ambiente.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/quedas-do-iguacu/tecnico-em-meio-ambiente.md",
         "metadados": {
           "ano_documento": {
             "ano": 2019,
             "trecho_fonte": "Ano do documento registrado no Notion: 2019",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Número máximo de vagas do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       }

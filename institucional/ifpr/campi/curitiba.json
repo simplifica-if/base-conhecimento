@@ -29,13 +29,10 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2024/03/PPC-Aperfeicoamento-ERER-2.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/aperfeicoamento-em-educacao-para-relacoes-etnico-raciais.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/aperfeicoamento-em-educacao-para-relacoes-etnico-raciais.md",
         "metadados": {
           "ano_documento": {
             "ano": 2023,
@@ -48,7 +45,6 @@
             "trecho_fonte": "Vagas ofertadas: a) Mínimo: 100 vagas (Resolução Consup/IFPR n.121/2023); b) Máximo: 100 vagas",
             "status_curadoria": "revisado",
             "forma_oferta": "mínimo de 100 vagas e máximo de 100 vagas",
-            "secao": "2.3 Vagas ofertadas",
             "revisado_em": "2026-05-11"
           }
         }
@@ -65,13 +61,10 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2026/02/PPC-Bacharelado-em-Ciencias-Contabeis-IFPR-Campus-Curitiba-inicio-em-2026.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/bacharelado-em-ciencias-contabeis.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/bacharelado-em-ciencias-contabeis.md",
         "metadados": {
           "ano_documento": {
             "ano": 2025,
@@ -85,7 +78,6 @@
             "status_curadoria": "revisado",
             "periodicidade": "anual",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas anuais",
-            "secao": "1.1.10 Vagas totais (anual)",
             "revisado_em": "2026-05-11"
           }
         }
@@ -102,13 +94,10 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2025/04/PPC_2025-2.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/especializacao-em-ciencias-da-natureza-ensino-de-fisica-e-astronomia.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/especializacao-em-ciencias-da-natureza-ensino-de-fisica-e-astronomia.md",
         "metadados": {
           "ano_documento": {
             "ano": 2025,
@@ -121,7 +110,6 @@
             "trecho_fonte": "Vagas ofertadas: a) Mínimo: 20 vagas; b) Máximo: 30 vagas",
             "status_curadoria": "revisado",
             "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas",
-            "secao": "2.3 Vagas ofertadas",
             "revisado_em": "2026-05-11"
           }
         }
@@ -148,12 +136,8 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2017/12/PPC-ESPECIALIZA%C3%87%C3%83O-EDUCA%C3%87%C3%83O-MUSICAL.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/especializacao-em-educacao-musical-para-educacao-basica.md",
         "conversao": {
-          "status": "erro",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "pendente"
         }
       }
     },
@@ -168,13 +152,10 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2024/03/3-Formulario-atualizado-PPC_versao-final_pos-parecer-DPG-5.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/especializacao-em-educacao-profissional.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/especializacao-em-educacao-profissional.md",
         "metadados": {
           "ano_documento": {
             "ano": 2023,
@@ -187,7 +168,6 @@
             "trecho_fonte": "Vagas ofertadas: a) Mínimo: 20 vagas (Resolução Consup/IFPR nº.121/2023); b) Máximo: 40 vagas",
             "status_curadoria": "revisado",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "2.3 Vagas ofertadas",
             "revisado_em": "2026-05-11"
           }
         }
@@ -204,12 +184,8 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2020/02/PPC-GN-FEV2020.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/especializacao-em-gestao-e-negocios.md",
         "conversao": {
-          "status": "erro",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "pendente"
         }
       }
     },
@@ -224,12 +200,8 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2020/03/ESPECIALIZA%C3%87%C3%83O-EM-GEST%C3%83O-EMPRESARIAL-CONT%C3%81BIL-E-TRIBUT%C3%81RIA-2019-2020-.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/especializacao-em-gestao-empresarial-contabil-e-tributaria.md",
         "conversao": {
-          "status": "erro",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "pendente"
         }
       }
     },
@@ -244,13 +216,10 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2024/09/PPC-Pos-Graduacao-GP-3-habilitacoes-_3.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/especializacao-em-gestao-publica.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/especializacao-em-gestao-publica.md",
         "metadados": {
           "ano_documento": {
             "ano": 2017,
@@ -263,7 +232,6 @@
             "trecho_fonte": "Vagas: Mínimo: 30 vagas; Máximo: 40 vagas",
             "status_curadoria": "revisado",
             "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas",
-            "secao": "3.2 Vagas",
             "revisado_em": "2026-05-11"
           }
         }
@@ -280,13 +248,10 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2022/03/PPC_2022_Projeto_Pedagogico_do_Curso_Atual_2022.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/especializacao-em-gestao-social-de-politicas-publicas.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/especializacao-em-gestao-social-de-politicas-publicas.md",
         "metadados": {
           "ano_documento": {
             "ano": 2021,
@@ -299,7 +264,6 @@
             "trecho_fonte": "Vagas: Mínimo: 20 vagas (Res. nº 18/2017, Art. 8º, § 1º, XI); Máximo: 30 vagas",
             "status_curadoria": "revisado",
             "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas",
-            "secao": "3.2 Vagas",
             "revisado_em": "2026-05-11"
           }
         }
@@ -316,13 +280,10 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2025/02/PPC_Lic_Ed_Campo_Consup.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/licenciatura-em-educacao-do-campo.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/licenciatura-em-educacao-do-campo.md",
         "metadados": {
           "ano_documento": {
             "ano": 2023,
@@ -336,7 +297,6 @@
             "status_curadoria": "revisado",
             "periodicidade": "anual",
             "forma_oferta": "40 vagas",
-            "secao": "1.1.10 Vagas totais (anual)",
             "revisado_em": "2026-05-11"
           }
         }
@@ -353,13 +313,10 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2025/05/PPC-PEDAGOGIA-AJUSTE-APS.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/licenciatura-em-pedagogia.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/licenciatura-em-pedagogia.md",
         "metadados": {
           "ano_documento": {
             "ano": 2023,
@@ -373,7 +330,6 @@
             "status_curadoria": "revisado",
             "periodicidade": "anual",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas anuais",
-            "secao": "1.1.10 Vagas totais (anual)",
             "revisado_em": "2026-05-11"
           }
         }
@@ -415,13 +371,10 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2018/11/TECNICO-EM-ADMINISTRACAO-Medio-Integrado-1.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-administracao-integrado-ao-ensino-medio.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-administracao-integrado-ao-ensino-medio.md",
         "metadados": {
           "ano_documento": {
             "ano": 2014,
@@ -434,7 +387,6 @@
             "trecho_fonte": "Número máximo de vagas do curso: 35; Número mínimo de vagas do curso: 20",
             "status_curadoria": "revisado",
             "forma_oferta": "máximo de 35 vagas e mínimo de 20 vagas do curso",
-            "secao": "2. Características do Curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -456,13 +408,10 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2021/04/PPC_Tec_Condominio_22_de_marco.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-condominio.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-condominio.md",
         "metadados": {
           "ano_documento": {
             "ano": 2020,
@@ -475,7 +424,6 @@
             "trecho_fonte": "Número máximo de vagas do curso: 40; Número mínimo de vagas do curso: 25",
             "status_curadoria": "revisado",
             "forma_oferta": "máximo de 40 vagas e mínimo de 25 vagas do curso",
-            "secao": "Características do Curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -483,13 +431,13 @@
       "sei": {
         "processos": [
           {
-            "numero": "23411.012780/2025-61",
-            "tipo": "ajuste",
-            "trecho_fonte": "Ajuste curricular. Enviado ao campus - viabilidade favorável.\nEvidências: SEI 3748757 (18/08/2025): parecer localizado.\nPendência: Ato definitivo CONSEPE não localizado na coleta."
-          },
-          {
             "numero": "23411.020211/2019-41",
             "tipo": "abertura"
+          },
+          {
+            "numero": "23411.012780/2025-61",
+            "tipo": "ajuste",
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 67. Enviado ao campus - viabilidade favorável"
           }
         ]
       }
@@ -510,13 +458,10 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2022/11/PPC-TECNICO-EM-CONTABILIDADE-INTEGRADO_vigente.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-contabilidade-integrado-ao-ensino-medio.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-contabilidade-integrado-ao-ensino-medio.md",
         "metadados": {
           "ano_documento": {
             "ano": 2015,
@@ -529,7 +474,6 @@
             "trecho_fonte": "Número máximo de vagas do curso: 37; Número mínimo de vagas do curso: 30",
             "status_curadoria": "revisado",
             "forma_oferta": "máximo de 37 vagas e mínimo de 30 vagas do curso",
-            "secao": "Características do Curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -561,13 +505,10 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2010/12/TECNICO-EM-EDIFICACOES-Subsequente-1.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-edificacoes.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-edificacoes.md",
         "metadados": {
           "ano_documento": {
             "ano": 2014,
@@ -580,7 +521,6 @@
             "trecho_fonte": "Número máximo de vagas do curso: 40 vagas; Número mínimo de vagas do curso: 20 vagas",
             "status_curadoria": "revisado",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas do curso",
-            "secao": "Características do Curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -594,7 +534,7 @@
           {
             "numero": "23411.021515/2022-21",
             "tipo": "ajuste",
-            "trecho_fonte": "Viabilidade de ajuste. Enviado ao campus - viabilidade favorável.\nEvidências: SEI 3768231 (28/08/2025): parecer localizado.\nPendência: Ato definitivo CONSEPE não localizado na coleta."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 69. Enviado ao campus - viabilidade favorável"
           }
         ]
       }
@@ -615,13 +555,10 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2020/10/PPC-ELETROMECANICA-Valido-a-partir-de-2018.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-eletromecanica.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-eletromecanica.md",
         "metadados": {
           "ano_documento": {
             "ano": 2017,
@@ -634,7 +571,6 @@
             "trecho_fonte": "Número máximo de vagas do curso: 40; Número mínimo de vagas do curso: 20",
             "status_curadoria": "revisado",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas do curso",
-            "secao": "Características do Curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -656,13 +592,10 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2013/04/TECNICO-EM-ELETRONICA-Integrado.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-eletronica-integrado-ao-ensino-medio.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-eletronica-integrado-ao-ensino-medio.md",
         "metadados": {
           "ano_documento": {
             "ano": 2014,
@@ -675,7 +608,6 @@
             "trecho_fonte": "Número máximo de vagas do curso: 35; Número mínimo de vagas do curso: 20",
             "status_curadoria": "revisado",
             "forma_oferta": "máximo de 35 vagas e mínimo de 20 vagas do curso",
-            "secao": "Características do Curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -697,13 +629,10 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2022/05/PPC_ELETROTECNICA_SUBSEQUENTE_2015.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-eletrotecnica.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-eletrotecnica.md",
         "metadados": {
           "ano_documento": {
             "ano": 2015,
@@ -716,7 +645,6 @@
             "trecho_fonte": "Número máximo de vagas do curso: 35; Número mínimo de vagas do curso: 20",
             "status_curadoria": "revisado",
             "forma_oferta": "máximo de 35 vagas e mínimo de 20 vagas do curso",
-            "secao": "Características do Curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -738,12 +666,8 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2024/11/PPC_VERSAO_FINAL_2024.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-enfermagem.md",
         "conversao": {
-          "status": "erro",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "pendente"
         }
       }
     },
@@ -763,13 +687,10 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2022/04/PPC-Tecnico-em-Eventos-2020-1.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-eventos.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-eventos.md",
         "metadados": {
           "ano_documento": {
             "ano": 2020,
@@ -782,7 +703,6 @@
             "trecho_fonte": "Número máximo de vagas do curso: 40; Número mínimo de vagas do curso: 25",
             "status_curadoria": "revisado",
             "forma_oferta": "máximo de 40 vagas e mínimo de 25 vagas do curso",
-            "secao": "Características do Curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -804,13 +724,10 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2020/04/PPC-Informatica_2019-Final-REVISADO.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-informatica-integrado-ao-ensino-medio.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-informatica-integrado-ao-ensino-medio.md",
         "metadados": {
           "ano_documento": {
             "ano": 2019,
@@ -823,7 +740,6 @@
             "trecho_fonte": "Número máximo de vagas do curso: 35; Número mínimo de vagas do curso: 30",
             "status_curadoria": "revisado",
             "forma_oferta": "máximo de 35 vagas e mínimo de 30 vagas do curso",
-            "secao": "Identificação do Curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -845,13 +761,10 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2022/06/PPC_Final_MASSOTERAPIA-SUBS_Valido-a-partir-de-2023.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-massoterapia.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-massoterapia.md",
         "metadados": {
           "ano_documento": {
             "ano": 2021,
@@ -864,10 +777,18 @@
             "trecho_fonte": "Número máximo de vagas do curso: 36; Número mínimo de vagas do curso: 30",
             "status_curadoria": "revisado",
             "forma_oferta": "máximo de 36 vagas e mínimo de 30 vagas do curso",
-            "secao": "Características do Curso",
             "revisado_em": "2026-05-11"
           }
         }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23397.000296/2014-61",
+            "tipo": "reversão de suspensão",
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 2. Manifestação favorável do Consepe"
+          }
+        ]
       }
     },
     {
@@ -886,13 +807,10 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2025/06/PPC-Curso-Tecnico-de-Mecanica-Subsequente-Campus-Curitiba.docx.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-mecanica.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-mecanica.md",
         "metadados": {
           "ano_documento": {
             "ano": 2025,
@@ -906,7 +824,6 @@
             "status_curadoria": "revisado",
             "periodicidade": "anual",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas por ingresso anual",
-            "secao": "1.1.14 Vagas totais (anuais)",
             "revisado_em": "2026-05-11"
           }
         }
@@ -928,13 +845,10 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2022/04/PPP-MECANICA_INTEGRADO-2016_03.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-mecanica-integrado-ao-ensino-medio.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-mecanica-integrado-ao-ensino-medio.md",
         "metadados": {
           "ano_documento": {
             "ano": 2016,
@@ -947,7 +861,6 @@
             "trecho_fonte": "Número máximo de vagas do curso: 35; Número mínimo de vagas do curso: 20",
             "status_curadoria": "revisado",
             "forma_oferta": "máximo de 35 vagas e mínimo de 20 vagas do curso",
-            "secao": "Características do Curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -969,13 +882,10 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2023/09/tecnico_petroleo_gas-1.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-petroleo-e-gas-integrado-ao-ensino-medio.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-petroleo-e-gas-integrado-ao-ensino-medio.md",
         "metadados": {
           "ano_documento": {
             "ano": 2017,
@@ -988,7 +898,6 @@
             "trecho_fonte": "Número máximo de vagas do curso: 35 vagas; Número mínimo de vagas do curso: 30 vagas",
             "status_curadoria": "revisado",
             "forma_oferta": "máximo de 35 vagas e mínimo de 30 vagas do curso",
-            "secao": "Características do Curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -1010,13 +919,10 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2024/10/PPC-PF-SUB_V.2018-FINAL_pos-SEPAE-1.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-processos-fotograficos.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-processos-fotograficos.md",
         "metadados": {
           "ano_documento": {
             "ano": 2018,
@@ -1029,7 +935,6 @@
             "trecho_fonte": "Número máximo de vagas do curso: 40; Número mínimo de vagas do curso: 20",
             "status_curadoria": "revisado",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas do curso",
-            "secao": "Características do Curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -1051,13 +956,10 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2025/07/PPC_PF-integrado_v.2018_1.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-processos-fotograficos-integrado-ao-ensino-medio.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-processos-fotograficos-integrado-ao-ensino-medio.md",
         "metadados": {
           "ano_documento": {
             "ano": 2015,
@@ -1070,7 +972,6 @@
             "trecho_fonte": "Número máximo de vagas do curso: 30; Número mínimo de vagas do curso: 15",
             "status_curadoria": "revisado",
             "forma_oferta": "máximo de 30 vagas e mínimo de 15 vagas do curso",
-            "secao": "Características do Curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -1092,13 +993,10 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2022/06/PPC_Final_PAV-SUBS_Valido-a-partir-de-2023.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-producao-de-audio-e-video.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-producao-de-audio-e-video.md",
         "metadados": {
           "ano_documento": {
             "ano": 2022,
@@ -1111,7 +1009,6 @@
             "trecho_fonte": "Número máximo de vagas do curso: 40 (por turno); Número mínimo de vagas do curso: 25 (por turno)",
             "status_curadoria": "revisado",
             "forma_oferta": "máximo de 40 vagas e mínimo de 25 vagas por turno",
-            "secao": "Características do Curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -1133,13 +1030,10 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2025/03/PPC_Jogos_Atualizacao_09_12_2024.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-programacao-de-jogos-digitais-integrado-ao-ensino-medio.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-programacao-de-jogos-digitais-integrado-ao-ensino-medio.md",
         "metadados": {
           "ano_documento": {
             "ano": 2019,
@@ -1152,7 +1046,6 @@
             "trecho_fonte": "Número máximo de vagas do curso: 35; Número mínimo de vagas do curso: 30",
             "status_curadoria": "revisado",
             "forma_oferta": "máximo de 35 vagas e mínimo de 30 vagas do curso",
-            "secao": "Identificação do Curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -1189,13 +1082,10 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2022/05/PPC_RADIOLOGIA_2014-1-PDF-1.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-radiologia.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-radiologia.md",
         "metadados": {
           "ano_documento": {
             "ano": 2013,
@@ -1208,7 +1098,6 @@
             "trecho_fonte": "Número máximo de vagas do curso: 35; Número mínimo de vagas do curso: 20",
             "status_curadoria": "revisado",
             "forma_oferta": "máximo de 35 vagas e mínimo de 20 vagas do curso",
-            "secao": "Características do Curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -1222,7 +1111,7 @@
           {
             "numero": "23411.010326/2023-11",
             "tipo": "ajuste",
-            "trecho_fonte": "Viabilidade de Solicitação de Aj Curricular. Parecer técnico-pedagógico emitido pela Dentec em 26/03.\nEvidências: SEI 4130994 (26/03/2026): parecer localizado.; SEI 4111971 (13/03/2026): PPC localizado: (Anexo Indicadores Ajuste PPC - Radiologia).\nPendência: Ato definitivo CONSEPE não localizado na coleta."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 20. Parecer técnico-pedagógico emitido pela Dentec em 26/03"
           }
         ]
       }
@@ -1243,13 +1132,10 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2026/04/PPC_Saude_Bucal_2025_Versao_Final.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-saude-bucal.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-saude-bucal.md",
         "metadados": {
           "ano_documento": {
             "ano": 2025,
@@ -1263,7 +1149,6 @@
             "status_curadoria": "revisado",
             "periodicidade": "anual",
             "forma_oferta": "máximo de 25 vagas, mínimo de 15 vagas e reserva de 2 vagas por ingresso anual",
-            "secao": "1.1.16 Vagas totais",
             "revisado_em": "2026-05-11"
           }
         }
@@ -1277,7 +1162,26 @@
           {
             "numero": "23411.007861/2023-87",
             "tipo": "ajuste",
-            "trecho_fonte": "Ajuste de PPC (não é curso novo). Aprovado pelo Consepe e solicitação de portaria de início das atividaes enviada à Proens em 29/8/25.\nEvidências: SEI 3747569 (19/08/2025): ato/manifestação CONSEPE localizado (Parecer Consepe 35).; SEI 3854325 (13/10/2025): PPC localizado: (Anexo PPC Saúde Bucal 2025 Versão Final)."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 38. \nAprovado pelo Consepe e solicitação de portaria de início das atividaes enviada à Proens em 29/8/25"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tecnico-em-soldagem-subsequente",
+      "nome": "Técnico em Soldagem Subsequente",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "url": "https://curitiba.ifpr.edu.br/",
+      "modalidade": "presencial",
+      "situacao": "incerto",
+      "escopo": "campus",
+      "sei": {
+        "processos": [
+          {
+            "numero": "23411.007447/2025-30",
+            "tipo": "abertura",
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 40. Enviado à SOC (04/08/25)"
           }
         ]
       }
@@ -1298,12 +1202,8 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2010/12/Plano-de-Curso-Telecomunica%C3%A7%C3%B5es.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-telecomunicacoes.md",
         "conversao": {
-          "status": "erro",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "pendente"
         }
       },
       "sei": {
@@ -1315,7 +1215,7 @@
           {
             "numero": "23411.003654/2026-04",
             "tipo": "ajuste",
-            "trecho_fonte": "Viabilidade de Solicitação de Aj Curricular. Viabilidade de solicitação concluída. Agora a CAJ irá encaminhar o ajuste curricular (PPC).\nEvidências: SEI 4141294 (06/04/2026): parecer localizado.\nPendência: Ato definitivo CONSEPE não localizado na coleta."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 21. Viabilidade de solicitação concluída. Agora a CAJ irá encaminhar o ajuste curricular (PPC)"
           }
         ]
       }
@@ -1331,13 +1231,10 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2013/04/PPC-TECNOLOGIA-EM-GESTAO-PUBLICA-Superior.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnologia-em-gestao-publica.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnologia-em-gestao-publica.md",
         "metadados": {
           "ano_documento": {
             "ano": 2015,
@@ -1350,7 +1247,6 @@
             "trecho_fonte": "Quantidade de Vagas: Mínimo 20 e máximo 40",
             "status_curadoria": "revisado",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Identificação do Curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -1367,13 +1263,10 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2024/10/ppc_matutino.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnologia-em-massoterapia.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnologia-em-massoterapia.md",
         "metadados": {
           "ano_documento": {
             "ano": 2022,
@@ -1387,7 +1280,6 @@
             "status_curadoria": "revisado",
             "periodicidade": "anual",
             "forma_oferta": "máximo de 35 vagas e mínimo de 20 vagas anuais",
-            "secao": "Vagas totais (anual)",
             "revisado_em": "2026-05-11"
           }
         }
@@ -1404,13 +1296,10 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2024/09/PPC_Processos-escolares_v14_15092024.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnologia-em-processos-escolares.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnologia-em-processos-escolares.md",
         "metadados": {
           "ano_documento": {
             "ano": 2023,
@@ -1424,7 +1313,6 @@
             "status_curadoria": "revisado",
             "periodicidade": "anual",
             "forma_oferta": "mínimo de 40 vagas por turma ingressante",
-            "secao": "1.1.10 Vagas totais (anual)",
             "revisado_em": "2026-05-11"
           }
         }
@@ -1441,13 +1329,10 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2018/08/PPC-Processos-Gerenciais-16-de-junho.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnologia-em-processos-gerenciais.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnologia-em-processos-gerenciais.md",
         "metadados": {
           "ano_documento": {
             "ano": 2018,
@@ -1461,7 +1346,6 @@
             "status_curadoria": "revisado",
             "periodicidade": "anual",
             "forma_oferta": "40 vagas anuais",
-            "secao": "Vagas totais (anual)",
             "revisado_em": "2026-05-11"
           }
         }
@@ -1478,13 +1362,10 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2025/05/PPCSECRETARIADOMAIO25.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnologia-em-secretariado.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnologia-em-secretariado.md",
         "metadados": {
           "ano_documento": {
             "ano": 2024,
@@ -1498,7 +1379,6 @@
             "status_curadoria": "revisado",
             "periodicidade": "anual",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas anuais",
-            "secao": "1.1.9 Vagas totais (anual)",
             "revisado_em": "2026-05-11"
           }
         }

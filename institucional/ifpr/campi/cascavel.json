@@ -29,26 +29,22 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/cascavel/wp-content/uploads/sites/8/2025/01/ATUALIZACAO_DO_AJUSTE_CURRICULAR_ORDINARIO_PPC_LICENCIATURA_EM_QUIMICA.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/cascavel/licenciatura-em-quimica.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/cascavel/licenciatura-em-quimica.md",
         "metadados": {
           "ano_documento": {
             "ano": 2023,
             "trecho_fonte": "Ano do documento registrado no Notion: 2023",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) 40 vagas",
-            "status_curadoria": "sugerido",
+            "status_curadoria": "precisa_revisao",
             "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais",
-            "secao": "Vagas totais (anual)"
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -69,25 +65,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/cascavel/wp-content/uploads/sites/8/2024/01/Edificacoes-Projeto_Pedagogico_de_Cursos_Tecnicos_do_IFPR.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/cascavel/tecnico-em-edificacoes.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/cascavel/tecnico-em-edificacoes.md",
         "metadados": {
           "ano_documento": {
             "ano": 2023,
             "trecho_fonte": "Ano do documento registrado no Notion: 2023",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo e mínimo de vagas do curso respectivamente: 40 e 30.",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas",
-            "secao": "1.1.14 Vagas totais"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
           }
         }
       }
@@ -108,25 +100,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/cascavel/wp-content/uploads/sites/8/2018/02/PPC-INFORMATICA-vigente_01_2018.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/cascavel/tecnico-em-informatica.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/cascavel/tecnico-em-informatica.md",
         "metadados": {
           "ano_documento": {
             "ano": 2013,
             "trecho_fonte": "Ano do documento registrado no Notion: 2013",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número Máximo de Vagas por Curso: 40 Número Mínimo de Vagas por Curso: 30",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas",
-            "secao": "Número Máximo de Vagas por Curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
           }
         }
       }
@@ -147,25 +135,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/cascavel/wp-content/uploads/sites/8/2021/11/PPC-Tec.-em-Quimica-2021-2.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/cascavel/tecnico-em-quimica.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/cascavel/tecnico-em-quimica.md",
         "metadados": {
           "ano_documento": {
             "ano": 2015,
             "trecho_fonte": "Ano do documento registrado no Notion: 2015",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Número máximo de vagas do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       }
@@ -181,26 +165,22 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/cascavel/wp-content/uploads/sites/8/2026/02/PPC_TADS_2023_ATUALIZACAO_2026.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/cascavel/tecnologia-em-analise-e-desenvolvimento-de-sistemas.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/cascavel/tecnologia-em-analise-e-desenvolvimento-de-sistemas.md",
         "metadados": {
           "ano_documento": {
             "ano": 2025,
             "trecho_fonte": "Ano do documento registrado no Notion: 2025",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) 40 vagas",
-            "status_curadoria": "sugerido",
+            "status_curadoria": "precisa_revisao",
             "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais",
-            "secao": "Vagas totais (anual)"
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -216,26 +196,22 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/cascavel/wp-content/uploads/sites/8/2026/02/NOVO-PPC-Tecnologia-em-gestao-ambiental_2026.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/cascavel/tecnologia-em-gestao-ambiental.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/cascavel/tecnologia-em-gestao-ambiental.md",
         "metadados": {
           "ano_documento": {
             "ano": 2026,
             "trecho_fonte": "Ano do documento registrado no Notion: 2026",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) 40 vagas",
-            "status_curadoria": "sugerido",
+            "status_curadoria": "precisa_revisao",
             "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais",
-            "secao": "Vagas totais (anual)"
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }

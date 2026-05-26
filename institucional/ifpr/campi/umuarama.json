@@ -29,26 +29,22 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/umuarama/wp-content/uploads/sites/26/2026/03/PPC_Arq_Urb_2023___APS.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/umuarama/bacharelado-em-arquitetura-e-urbanismo.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/umuarama/bacharelado-em-arquitetura-e-urbanismo.md",
         "metadados": {
           "ano_documento": {
             "ano": 2008,
             "trecho_fonte": "Ano do documento registrado no Notion: 2008",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) Mínimo: 20 – Máximo: 40",
-            "status_curadoria": "sugerido",
+            "status_curadoria": "precisa_revisao",
             "periodicidade": "anual",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Vagas totais (anual)"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       }
@@ -64,26 +60,22 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/umuarama/wp-content/uploads/sites/26/2026/03/PPC_CBIO_APS.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/umuarama/licenciatura-em-ciencias-biologicas.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/umuarama/licenciatura-em-ciencias-biologicas.md",
         "metadados": {
           "ano_documento": {
             "ano": 2008,
             "trecho_fonte": "Ano do documento registrado no Notion: 2008",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas Totais (anual) Mínimo 20 - Máximo 40",
-            "status_curadoria": "sugerido",
+            "status_curadoria": "precisa_revisao",
             "periodicidade": "anual",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Vagas Totais (anual)"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       }
@@ -99,25 +91,21 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/umuarama/wp-content/uploads/sites/26/2026/03/PPC_Lic._em_Quimica___APS.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/umuarama/licenciatura-em-quimica.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/umuarama/licenciatura-em-quimica.md",
         "metadados": {
           "ano_documento": {
             "ano": 2018,
             "trecho_fonte": "Ano do documento registrado no Notion: 2018",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 10,
             "trecho_fonte": "Vagas Totais (Anual) 6",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "6 vagas anuais",
-            "secao": "Oferta"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "6 vagas anuais"
           }
         }
       }
@@ -138,25 +126,21 @@
       },
       "ppc": {
         "url": "https://drive.google.com/file/d/1F3UIy62w60j3JixsuLyLwAYY7NvXEyTA/view?usp=drive_link",
-        "markdown_path": "institucional/ifpr/ppcs/umuarama/tecnico-em-edificacoes-integrado-ao-ensino-medio.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/umuarama/tecnico-em-edificacoes-integrado-ao-ensino-medio.md",
         "metadados": {
           "ano_documento": {
             "ano": 2018,
             "trecho_fonte": "Ano do documento registrado no Notion: 2018",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 20 vagas",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Número máximo de vagas do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       },
@@ -169,7 +153,7 @@
           {
             "numero": "23411.002791/2026-13",
             "tipo": "ajuste",
-            "trecho_fonte": "Ajuste Curricular Técnico em Edificações. 30/03 e 13/04 Parecer técnico-pedagógico emitido pela Dentec. Processo esta de acordo com a continuidade do processo de ajuste curricular. 22/04 Campus envia PPC para revisão.\nEvidências: SEI 4188064 (08/05/2026): parecer localizado.; SEI 4186938 (07/05/2026): PPC localizado: (Anexo PPC Técnico em Edificações-v2).\nPendência: Ato definitivo CONSEPE não localizado na coleta."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 11. 30/03 e 13/04 Parecer técnico-pedagógico emitido pela Dentec. Processo esta de acordo com a continuidade do processo de ajuste curricular\n22/04 Campus envia PPC para revisão\n05/05 Parecer de revisão do PPC enviado"
           }
         ]
       }
@@ -190,25 +174,21 @@
       },
       "ppc": {
         "url": "https://drive.google.com/file/d/1mg4GH7XmsItSmsU7CzrpENX3wpVblfWn/view?usp=drive_link",
-        "markdown_path": "institucional/ifpr/ppcs/umuarama/tecnico-em-informatica-integrado-ao-ensino-medio.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/umuarama/tecnico-em-informatica-integrado-ao-ensino-medio.md",
         "metadados": {
           "ano_documento": {
             "ano": 2014,
             "trecho_fonte": "Ano do documento registrado no Notion: 2014",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 20 vagas",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Número máximo de vagas do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       },
@@ -221,7 +201,7 @@
           {
             "numero": "23411.002979/2026-61",
             "tipo": "ajuste",
-            "trecho_fonte": "Viabilidade de Solicitação de Aj Curricular. Ajuste Curricular. Viabilidade de solicitação concluída. Agora a CAJ irá encaminhar o ajuste curricular (PPC).\nEvidências: SEI 4183489 (18/05/2026): parecer localizado.; SEI 4162547 (17/04/2026): PPC localizado: (Anexo PPC).\nPendência: Ato definitivo CONSEPE não localizado na coleta."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 22. Viabilidade de solicitação concluída. Agora a CAJ irá encaminhar o ajuste curricular (PPC)"
           }
         ]
       }
@@ -242,25 +222,21 @@
       },
       "ppc": {
         "url": "https://drive.google.com/file/d/1Tkq2ZXIcrXtW-Esq1BY_xHPciDf0uP_d/view?usp=drive_link",
-        "markdown_path": "institucional/ifpr/ppcs/umuarama/tecnico-em-quimica-integrado-ao-ensino-medio.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/umuarama/tecnico-em-quimica-integrado-ao-ensino-medio.md",
         "metadados": {
           "ano_documento": {
             "ano": 2014,
             "trecho_fonte": "Ano do documento registrado no Notion: 2014",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 20 vagas",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Número máximo de vagas do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       },
@@ -273,7 +249,7 @@
           {
             "numero": "23411.002858/2026-10",
             "tipo": "ajuste",
-            "trecho_fonte": "Ajuste Curricular do Projeto Pedagógico de Curso (PPC). Viabilidade de Solicitação de Aj Curricular:. 30/03 Parecer técnico-pedagógico emitido pela Dentec.\nEvidências: SEI 4201964 (18/05/2026): parecer localizado.; SEI 4201956 (18/05/2026): PPC localizado: (Projeto Pedagógico de Curso Técnico em Química).\nPendência: Ato definitivo CONSEPE não localizado na coleta."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 9. Viabilidade de Solicitação de Aj Curricular:\n30/03 Parecer técnico-pedagógico emitido pela Dentec\n27/04 Segundo parecer técnico-pedagógico após correções (aprovado)\nRevisão do PPC\n30/04 Recebimento do PPC para revisão\n14/05 Parecer de revisão do PPC emitido e enviado ao campus"
           }
         ]
       }
@@ -289,26 +265,22 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/umuarama/wp-content/uploads/sites/26/2026/03/PPC_ADS_2023___APS.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/umuarama/tecnologia-em-analise-e-desenvolvimento-de-sistemas.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/umuarama/tecnologia-em-analise-e-desenvolvimento-de-sistemas.md",
         "metadados": {
           "ano_documento": {
             "ano": 2017,
             "trecho_fonte": "Ano do documento registrado no Notion: 2017",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) Mínimo: 20 vagas – Máximo: 40 vagas. 7",
-            "status_curadoria": "sugerido",
+            "status_curadoria": "precisa_revisao",
             "periodicidade": "anual",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Vagas totais (anual)"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       }
@@ -324,26 +296,22 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/umuarama/wp-content/uploads/sites/26/2026/03/PPC_GESTAO_AGRO_APS.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/umuarama/tecnologia-em-gestao-do-agronegocio.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/umuarama/tecnologia-em-gestao-do-agronegocio.md",
         "metadados": {
           "ano_documento": {
             "ano": 2008,
             "trecho_fonte": "Ano do documento registrado no Notion: 2008",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas Totais (anual) Mínimo 20 - Máximo 40",
-            "status_curadoria": "sugerido",
+            "status_curadoria": "precisa_revisao",
             "periodicidade": "anual",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Vagas Totais (anual)"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       }

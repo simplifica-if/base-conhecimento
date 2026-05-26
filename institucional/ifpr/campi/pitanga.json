@@ -29,26 +29,22 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/pitanga/wp-content/uploads/sites/23/2023/09/PPC-Pedagogia-novo-2022.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/pitanga/licenciatura-em-pedagogia.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/pitanga/licenciatura-em-pedagogia.md",
         "metadados": {
           "ano_documento": {
             "ano": 2017,
             "trecho_fonte": "Ano do documento registrado no Notion: 2017",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 20,
             "trecho_fonte": "Vagas totais (anual): 20 vagas (mínimo) a 40 vagas (máximo)",
-            "status_curadoria": "sugerido",
+            "status_curadoria": "precisa_revisao",
             "periodicidade": "anual",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Vagas totais (anual)"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       }
@@ -64,26 +60,22 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/pitanga/wp-content/uploads/sites/23/2025/04/NOVO_PPC_Quimica___APSs.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/pitanga/licenciatura-em-quimica.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/pitanga/licenciatura-em-quimica.md",
         "metadados": {
           "ano_documento": {
             "ano": 2017,
             "trecho_fonte": "Ano do documento registrado no Notion: 2017",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) 40 vagas",
-            "status_curadoria": "sugerido",
+            "status_curadoria": "precisa_revisao",
             "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais",
-            "secao": "Vagas totais (anual)"
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -104,25 +96,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/pitanga/wp-content/uploads/sites/23/2023/11/PPC_Tecnico_em_Alimentos___Revisado_23_02_2023.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/pitanga/tecnico-em-alimentos.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/pitanga/tecnico-em-alimentos.md",
         "metadados": {
           "ano_documento": {
             "ano": 2022,
             "trecho_fonte": "Ano do documento registrado no Notion: 2022",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais 40 (quarenta) vagas/ano",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "40 vagas",
-            "secao": "Vagas totais"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "40 vagas"
           }
         }
       }
@@ -143,25 +131,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/pitanga/wp-content/uploads/sites/23/2018/04/PPC_Cooperativismo-atualizado.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/pitanga/tecnico-em-cooperativismo.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/pitanga/tecnico-em-cooperativismo.md",
         "metadados": {
           "ano_documento": {
             "ano": 2014,
             "trecho_fonte": "Ano do documento registrado no Notion: 2014",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 5 Número mínimo de vagas do curso: 20",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Número máximo de vagas do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       }
@@ -182,25 +166,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/pitanga/wp-content/uploads/sites/23/2025/09/PPC_Desenvolvimento_de_Sistemas_Integrado.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/pitanga/tecnico-em-desenvolvimento-de-sistemas.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/pitanga/tecnico-em-desenvolvimento-de-sistemas.md",
         "metadados": {
           "ano_documento": {
             "ano": 2025,
             "trecho_fonte": "Ano do documento registrado no Notion: 2025",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais 40 (quarenta) vagas/ano",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "40 vagas",
-            "secao": "Vagas totais"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "40 vagas"
           }
         }
       },
@@ -209,12 +189,12 @@
           {
             "numero": "23411.019587/2022-16",
             "tipo": "abertura",
-            "trecho_fonte": "Proposta de Abertura de Curso - PAC. Encaminhado à Proplan em 24/02/25.\nEvidências: SEI 3593317 (19/05/2025): ato/manifestação CONSEPE localizado (Parecer Consepe 12)."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 77. Encaminhado à Proplan em 24/02/25"
           },
           {
             "numero": "23411.010391/2025-09",
             "tipo": "abertura",
-            "trecho_fonte": "PPC (curso novo). Finalizado - Resolução Consup nº 248, de 16 de setembro de 2025. Despachado para Proens (portaria de autorização), DGA e Diepex.\nEvidências: SEI 3747409 (19/08/2025): ato/manifestação CONSEPE localizado (Parecer Consepe 26).; SEI 3674470 (04/07/2025): PPC localizado: (Projeto Pedagógico de Curso Revisado)."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 48. Finalizado - Resolução Consup nº 248, de 16 de setembro de 2025.  Despachado para Proens (portaria de autorização), DGA e Diepex."
           }
         ]
       }
@@ -230,26 +210,22 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/pitanga/wp-content/uploads/sites/23/2024/02/PPC-AGROINDUSTRIA-IFPR_Pitanga-_ATUALIZACAO-TROCA-DISCIPLINAS-2019-_-18-12-2018.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/pitanga/tecnologia-em-agroindustria.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/pitanga/tecnologia-em-agroindustria.md",
         "metadados": {
           "ano_documento": {
             "ano": 2018,
             "trecho_fonte": "Ano do documento registrado no Notion: 2018",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 20,
             "trecho_fonte": "Vagas totais (anual): 20 vagas (mínimo) a 40 vagas (máximo)",
-            "status_curadoria": "sugerido",
+            "status_curadoria": "precisa_revisao",
             "periodicidade": "anual",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Vagas totais (anual)"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       }

@@ -29,26 +29,22 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2025/10/PPC_Engenharia_Eletrica_Campus_TB_2019_2021-REVISADO.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/engenharia-eletrica.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/engenharia-eletrica.md",
         "metadados": {
           "ano_documento": {
             "ano": 2018,
             "trecho_fonte": "Ano do documento registrado no Notion: 2018",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual): 40 vagas",
-            "status_curadoria": "sugerido",
+            "status_curadoria": "precisa_revisao",
             "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais",
-            "secao": "Vagas totais (anual)"
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -64,26 +60,22 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2023/02/PPC-2022-LFIS-Graduacao-IFPR-TB-.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/licenciatura-em-fisica.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/licenciatura-em-fisica.md",
         "metadados": {
           "ano_documento": {
             "ano": 2013,
             "trecho_fonte": "Ano do documento registrado no Notion: 2013",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual): 40 (quarenta) vagas. 7",
-            "status_curadoria": "sugerido",
+            "status_curadoria": "precisa_revisao",
             "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais",
-            "secao": "Vagas totais"
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -104,25 +96,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2026/02/PPC-TECNICO-EM-AUTOMACAO-VERSAO-FINAL.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/tecnico-em-automacao-industrial-integrado-ao-ensino-medio.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/tecnico-em-automacao-industrial-integrado-ao-ensino-medio.md",
         "metadados": {
           "ano_documento": {
             "ano": 2019,
             "trecho_fonte": "Ano do documento registrado no Notion: 2019",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Total de vagas anuais: Uma turma de 40 vagas por ano",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "40 vagas",
-            "secao": "Total de vagas anuais"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "40 vagas"
           }
         }
       },
@@ -131,12 +119,50 @@
           {
             "numero": "23406.000171/2017-28",
             "tipo": "ajuste",
-            "trecho_fonte": "Ajuste curricular. Enviado ao Consepe em 10/11/2025."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 73. Enviado ao Consepe em 10/11/2025"
           },
           {
             "numero": "23411.021089/2025-78",
-            "tipo": "ajuste",
-            "trecho_fonte": "Atualização - Bimestre para Trimestre.\nEvidências: SEI 3928357 (24/11/2025): PPC localizado: (Projeto Pedagógico de Curso Curso Técnico em Automação Industrial).\nPendência: Ato definitivo CONSEPE não localizado na coleta."
+            "tipo": "atualização",
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 81. Ciência no processo"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tecnico-em-eletromecanica-subsequente",
+      "nome": "Técnico em Eletromecânica Subsequente",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "url": "https://ifpr.edu.br/telemaco-borba/",
+      "modalidade": "presencial",
+      "situacao": "suspenso",
+      "escopo": "campus",
+      "sei": {
+        "processos": [
+          {
+            "numero": "23411.011619/2025-70",
+            "tipo": "reversão de suspensão",
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 4. 12/05 Recebimento do processo na Dentec"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tecnico-em-eletrotecnica-integrado-ao-ensino-medio",
+      "nome": "Técnico em Eletrotécnica Integrado ao Ensino Médio",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "url": "https://ifpr.edu.br/telemaco-borba/",
+      "modalidade": "presencial",
+      "situacao": "incerto",
+      "escopo": "campus",
+      "sei": {
+        "processos": [
+          {
+            "numero": "23411.007407/2026-79",
+            "tipo": "abertura",
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 5. 12/05 Recebimento do processo na Dentec"
           }
         ]
       }
@@ -157,43 +183,58 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2026/02/PPC-CURSO-TECNICO-EM-INFORMATICA-VERSAO-FINAL.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/tecnico-em-informatica-para-internet-integrado-ao-ensino-medio.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/tecnico-em-informatica-para-internet-integrado-ao-ensino-medio.md",
         "metadados": {
           "ano_documento": {
             "ano": 2012,
             "trecho_fonte": "Ano do documento registrado no Notion: 2012",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Total de vagas anuais: Uma turma de 40 vagas por ano",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "40 vagas",
-            "secao": "Total de vagas anuais"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "40 vagas"
           }
         }
       },
       "sei": {
         "processos": [
           {
+            "numero": "23406.000172/2017-72",
+            "tipo": "ajuste"
+          },
+          {
             "numero": "23411.021099/2025-11",
-            "tipo": "ajuste",
-            "trecho_fonte": "Atualização - Bimestre para Trimestre.\nEvidências: SEI 3928508 (24/11/2025): Ata/NDE com parecer favorável à implementação do regime trimestral para turmas ingressantes até 2025.; SEI 3928504 (24/11/2025): Ata do CGPC com aprovação da proposta de alteração para regime trimestral.; SEI 3997802 (27/12/2025): matriz curricular 852 do curso em regime trimestral para 2026.; SEI 3928501 (24/11/2025): PPC localizado para atualização do regime acadêmico para trimestre.\nPendência: Ato definitivo CONSEPE não localizado na coleta."
+            "tipo": "atualização",
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 82. Ciência no processo"
           },
           {
             "numero": "23411.016533/2025-33",
             "tipo": "ajuste",
-            "trecho_fonte": "Ajuste curricular. Enviado ao Consepe em 10/11/2025.\nEvidências: SEI 3930530 (26/11/2025): ato/manifestação CONSEPE localizado (Parecer Consepe 50).; SEI 3944611 (01/12/2025): PPC localizado: (Projeto Pedagógico de Curso Técnico em Informática para Internet)."
-          },
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 71. Enviado ao Consepe em 10/11/2025"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tecnico-em-instrumentacao-industrial-subsequente",
+      "nome": "Técnico em Instrumentação Industrial Subsequente",
+      "nivel": "médio",
+      "tipo_oferta": "técnico subsequente",
+      "url": "https://ifpr.edu.br/telemaco-borba/",
+      "modalidade": "presencial",
+      "situacao": "incerto",
+      "escopo": "campus",
+      "sei": {
+        "processos": [
           {
-            "numero": "23406.000172/2017-72",
-            "tipo": "ajuste"
+            "numero": "23411.007314/2026-44",
+            "tipo": "abertura",
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 7. 10/05 Recebimento do processo na Dentec"
           }
         ]
       }
@@ -214,25 +255,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2026/02/PPC-CURSO-TECNICO-INTEGRADO-EM-MECANICA_FINAL.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/tecnico-em-mecanica.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/tecnico-em-mecanica.md",
         "metadados": {
           "ano_documento": {
             "ano": 2025,
             "trecho_fonte": "Ano do documento registrado no Notion: 2025",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Total de vagas anuais: Uma turma de 40 vagas por ano",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "40 vagas",
-            "secao": "Total de vagas anuais"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "40 vagas"
           }
         }
       },
@@ -240,13 +277,13 @@
         "processos": [
           {
             "numero": "23411.021076/2025-07",
-            "tipo": "ajuste",
-            "trecho_fonte": "Atualização - Bimestre para Trimestre.\nEvidências: SEI 3927610 (24/11/2025): PPC localizado: (Projeto Pedagógico de Curso Técnico Mecânica_2018).\nPendência: Ato definitivo CONSEPE não localizado na coleta."
+            "tipo": "atualização",
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 80. Ciência no processo"
           },
           {
             "numero": "23406.000173/2017-17",
             "tipo": "ajuste",
-            "trecho_fonte": "Ajuste curricular. Enviado ao Consepe em 10/11/2025.\nEvidências: SEI 3930594 (26/11/2025): ato/manifestação CONSEPE localizado (Parecer Consepe 51).; SEI 3944623 (01/12/2025): PPC localizado: (Projeto Pedagógico de Curso Técnico em Mecânica)."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 70. Enviado ao Consepe em 10/11/2025"
           }
         ]
       }
@@ -267,29 +304,26 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2026/02/PPC-CURSOS-TECNICOS-EM-PROGRAMACAO-DE-JOGOS-DIGITAIS_VERSAO_FINAL.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/tecnico-em-programacao-de-jogos-digitais.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-19"
-        }
+          "status": "convertido"
+        },
+        "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/tecnico-em-programacao-de-jogos-digitais.md"
       },
       "sei": {
         "processos": [
           {
+            "numero": "23406.000268/2017-31",
+            "tipo": "abertura"
+          },
+          {
             "numero": "23411.021100/2025-08",
-            "tipo": "ajuste",
-            "trecho_fonte": "Atualização - Bimestre para Trimestre.\nEvidências: SEI 3928525 (24/11/2025): PPC localizado: (Projeto Pedagógico de Curso PPC Programação Jogos Digitais).\nPendência: Ato definitivo CONSEPE não localizado na coleta."
+            "tipo": "atualização",
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 79. Ciência no processo"
           },
           {
             "numero": "23411.016537/2025-11",
             "tipo": "ajuste",
-            "trecho_fonte": "Ajuste curricular. Enviado ao Consepe em 10/11/2025.\nEvidências: SEI 3930441 (26/11/2025): ato/manifestação CONSEPE localizado (Parecer Consepe 49).; SEI 3944638 (01/12/2025): PPC localizado: (Projeto Pedagógico de Curso Curso Técnico em Programação de Jogos Digitais)."
-          },
-          {
-            "numero": "23406.000268/2017-31",
-            "tipo": "abertura"
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 72. Enviado ao Consepe em 10/11/2025"
           }
         ]
       }
@@ -305,26 +339,22 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2025/08/07_2025_PPC_Tecnologia-em-Manutencao-Industrial-Atualizacao-1.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/tecnologia-em-manutencao-industrial.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/telemaco-borba/tecnologia-em-manutencao-industrial.md",
         "metadados": {
           "ano_documento": {
             "ano": 2019,
             "trecho_fonte": "Ano do documento registrado no Notion: 2019",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) 40 vagas",
-            "status_curadoria": "sugerido",
+            "status_curadoria": "precisa_revisao",
             "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais",
-            "secao": "Vagas totais (anual)"
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }

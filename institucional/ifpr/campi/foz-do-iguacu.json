@@ -30,26 +30,22 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2025/05/PPC_Engenharia_de_Aquicultura___06_12_23-1.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/engenharia-de-aquicultura.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/engenharia-de-aquicultura.md",
         "metadados": {
           "ano_documento": {
             "ano": 2011,
             "trecho_fonte": "Ano do documento registrado no Notion: 2011",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) Mínimo de 20 e máximo de 40. Sendo, 90% das vagas (36) para brasileiros e 10% das vagas (4) destinadas à Ar",
-            "status_curadoria": "sugerido",
+            "status_curadoria": "precisa_revisao",
             "periodicidade": "anual",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Vagas totais (anual)"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       }
@@ -65,25 +61,21 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2025/06/ppc_ens_cienc_mat_atualizado_2025_oficial.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/especializacao-em-ensino-de-ciencias-e-matematica.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/especializacao-em-ensino-de-ciencias-e-matematica.md",
         "metadados": {
           "ano_documento": {
             "ano": 2023,
             "trecho_fonte": "Ano do documento registrado no Notion: 2023",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 30,
             "trecho_fonte": "Vagas ofertadas a) Mínimo: 20 vagas (Resolução Consup/IFPR n.121/2023) b) Máximo: 30 vagas",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas",
-            "secao": "Vagas ofertadas"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas"
           }
         }
       }
@@ -99,25 +91,21 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2023/08/PPC-Licenciatura-em-Fisica-Foz-2022-v7.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/licenciatura-em-fisica.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/licenciatura-em-fisica.md",
         "metadados": {
           "ano_documento": {
             "ano": 2022,
             "trecho_fonte": "Ano do documento registrado no Notion: 2022",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número de vagas ofertadas: Mínimo 20 e Máximo 40 vagas por ano",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Número de vagas"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       }
@@ -133,25 +121,21 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2021/08/PPC-IoT-Foz-do-Iguacu-v-4.0.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/pos-graduacao-lato-sensu-em-internet-das-coisas-iot-do-ifpr.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/pos-graduacao-lato-sensu-em-internet-das-coisas-iot-do-ifpr.md",
         "metadados": {
           "ano_documento": {
             "ano": 2017,
             "trecho_fonte": "Ano do documento registrado no Notion: 2017",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 30,
             "trecho_fonte": "Vagas: 30 vagas Mínimo: 20 vagas Máximo: 30 vagas O número máximo de vagas é limitado pela infr",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas",
-            "secao": "Vagas"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas"
           }
         }
       }
@@ -172,25 +156,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2020/04/PPC-Aqui-Integrado.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/tecnico-em-aquicultura.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/tecnico-em-aquicultura.md",
         "metadados": {
           "ano_documento": {
             "ano": 2008,
             "trecho_fonte": "Ano do documento registrado no Notion: 2008",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 24 vagas",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 24 vagas",
-            "secao": "Número máximo de vagas do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 24 vagas"
           }
         }
       },
@@ -203,7 +183,7 @@
           {
             "numero": "23411.009668/2025-42",
             "tipo": "ajuste",
-            "trecho_fonte": "Ajuste Curricular de PPC com intervalo pedagógico e contab simultânea de Libras. Solicitação de Viabilidade de Ajuste de PPC. Parecer técnico-pedagógico emitido pela Dentec e incluído novo despacho sobre a atualização de entendimento institucional sobre a contabiliz simultânea de CH.\nEvidências: SEI 4075364 (23/02/2026): parecer localizado.; SEI 4177351 (30/04/2026): PPC localizado: (Projeto Pedagógico de Curso).\nPendência: Ato definitivo CONSEPE não localizado na coleta."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 18. Parecer técnico-pedagógico emitido pela Dentec e incluído novo despacho sobre a atualização de entendimento institucional sobre a contabiliz simultânea de CH"
           }
         ]
       }
@@ -224,25 +204,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2023/04/PPC-TDS.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/tecnico-em-desenvolvimento-de-sistemas.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/tecnico-em-desenvolvimento-de-sistemas.md",
         "metadados": {
           "ano_documento": {
             "ano": 2019,
             "trecho_fonte": "Ano do documento registrado no Notion: 2019",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 35",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 35 vagas",
-            "secao": "Número máximo de vagas do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 35 vagas"
           }
         }
       },
@@ -255,7 +231,7 @@
           {
             "numero": "23411.009670/2025-11",
             "tipo": "ajuste",
-            "trecho_fonte": "Ajuste Curricular de PPC com intervalo pedagógico e contab simultânea de Libras. Solicitação de Viabilidade de Ajuste de PPC. Parecer técnico-pedagógico emitido pela Dentec e incluído novo despacho sobre a atualização de entendimento institucional sobre a contabiliz simultânea de CH.\nEvidências: SEI 4075123 (23/02/2026): parecer localizado.; SEI 4177744 (30/04/2026): PPC localizado: (Projeto Pedagógico de Curso).\nPendência: Ato definitivo CONSEPE não localizado na coleta."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 17. Parecer técnico-pedagógico emitido pela Dentec e incluído novo despacho sobre a atualização de entendimento institucional sobre a contabiliz simultânea de CH"
           }
         ]
       }
@@ -276,25 +252,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2019/07/PPC-Edificacoes-FINAL-novo-2016.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/tecnico-em-edificacoes-3.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/tecnico-em-edificacoes-3.md",
         "metadados": {
           "ano_documento": {
             "ano": 2014,
             "trecho_fonte": "Ano do documento registrado no Notion: 2014",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 35",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 35 vagas",
-            "secao": "Número máximo de vagas do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 35 vagas"
           }
         }
       },
@@ -307,7 +279,7 @@
           {
             "numero": "23411.009868/2025-03",
             "tipo": "ajuste",
-            "trecho_fonte": "Ajuste Curricular de PPC com intervalo pedagógico e contab simultânea de Libras. Manifestação de Viabilidade de Ajuste. Ajuste Curricular.\nEvidências: SEI 4075374 (31/03/2026): parecer localizado.; SEI 4177615 (30/04/2026): PPC localizado: (Projeto Pedagógico de Curso).\nPendência: Ato definitivo CONSEPE não localizado na coleta."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 16. Parecer técnico-pedagógico emitido pela Dentec e incluído novo despacho sobre a atualização de entendimento institucional sobre a contabiliz simultânea de CH"
           }
         ]
       }
@@ -328,25 +300,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2022/10/PPC-Tecnico-em-Gastronomia.2022.10.10.22.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/tecnico-em-gastronomia.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/tecnico-em-gastronomia.md",
         "metadados": {
           "ano_documento": {
             "ano": 2022,
             "trecho_fonte": "Ano do documento registrado no Notion: 2022",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 26,
             "trecho_fonte": "Número máximo de vagas do curso: 26 (vinte e seis), sendo 22 brasileiros e 4 estrangeiros (oriundos exclusivamente do Paraguai ou da Argentina) Número mínimo de vagas do curso: 13 (treze)",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 26 vagas e mínimo de 13 vagas",
-            "secao": "Número máximo de vagas do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 26 vagas e mínimo de 13 vagas"
           }
         }
       }
@@ -367,25 +335,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2020/02/PPC-Integrado-Meio-Ambiente-4-anos.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/tecnico-em-meio-ambiente.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/tecnico-em-meio-ambiente.md",
         "metadados": {
           "ano_documento": {
             "ano": 2016,
             "trecho_fonte": "Ano do documento registrado no Notion: 2016",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 alunos anuais. Número mínimo de vagas do curso: 24 alunos anuais",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 24 vagas",
-            "secao": "Número máximo de vagas do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 24 vagas"
           }
         }
       },
@@ -398,7 +362,7 @@
           {
             "numero": "23411.009669/2025-97",
             "tipo": "ajuste",
-            "trecho_fonte": "Ajuste Curricular de PPC com intervalo pedagógico e contab simultânea de Libras. Solicitação de Viabilidade de Ajuste de PPC. Parecer técnico-pedagógico emitido pela Dentec e incluído novo despacho sobre a atualização de entendimento institucional sobre a contabiliz simultânea de CH.\nEvidências: SEI 4076229 (23/02/2026): parecer localizado.; SEI 4177413 (30/04/2026): PPC localizado: (Projeto Pedagógico de Curso).\nPendência: Ato definitivo CONSEPE não localizado na coleta."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 15. Parecer técnico-pedagógico emitido pela Dentec e incluído novo despacho sobre a atualização de entendimento institucional sobre a contabiliz simultânea de CH"
           }
         ]
       }
@@ -414,26 +378,22 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2025/12/PPC_TADS_Foz_do_Iguacu_Versao_2025.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/tecnologia-em-analise-e-desenvolvimento-de-sistemas.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/tecnologia-em-analise-e-desenvolvimento-de-sistemas.md",
         "metadados": {
           "ano_documento": {
             "ano": 2013,
             "trecho_fonte": "Ano do documento registrado no Notion: 2013",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) 40",
-            "status_curadoria": "sugerido",
+            "status_curadoria": "precisa_revisao",
             "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais",
-            "secao": "Vagas totais (anual)"
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -449,26 +409,22 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2019/07/PPC-Tecnologia-em-Gastronomia-aprovado-com-portaria-de-autorizacao-1.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/tecnologia-em-gastronomia.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/foz-do-iguacu/tecnologia-em-gastronomia.md",
         "metadados": {
           "ano_documento": {
             "ano": 2017,
             "trecho_fonte": "Ano do documento registrado no Notion: 2017",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 44,
             "trecho_fonte": "Vagas totais (anual) 44 (quarenta e quatro), sendo 40 brasileiros e 4 estrangeiros",
-            "status_curadoria": "sugerido",
+            "status_curadoria": "precisa_revisao",
             "periodicidade": "anual",
-            "forma_oferta": "44 vagas anuais",
-            "secao": "Vagas totais (anual)"
+            "forma_oferta": "44 vagas anuais"
           }
         }
       }

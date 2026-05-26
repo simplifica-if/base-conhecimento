@@ -22,13 +22,10 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/ponta-grossa/wp-content/uploads/sites/28/2022/07/PPC-Informatica_2019-Final-REVISADO.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/ponta-grossa/tecnico-em-informatica-integrado-ao-ensino-medio.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-20"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/ponta-grossa/tecnico-em-informatica-integrado-ao-ensino-medio.md",
         "metadados": {
           "ano_documento": {
             "ano": 2019,
@@ -41,7 +38,6 @@
             "trecho_fonte": "Número máximo de vagas do curso: 35; Número mínimo de vagas do curso: 30",
             "status_curadoria": "revisado",
             "forma_oferta": "máximo de 35 vagas e mínimo de 30 vagas",
-            "secao": "Identificação do Curso",
             "revisado_em": "2026-05-20"
           }
         }
@@ -55,7 +51,7 @@
           {
             "numero": "23411.018225/2025-42",
             "tipo": "ajuste",
-            "trecho_fonte": "Viabilidade de Ajuste Curricular para o CR Ponta Grossa. Análise de PPC. Manifestação da Dentec encaminhada no dia 14/10/25 ao campus, DIEPI e DGA.Enviado ao Consepe.\nEvidências: SEI 3930709 (26/11/2025): ato/manifestação CONSEPE localizado (Parecer Consepe 54).; SEI 3908680 (11/11/2025): PPC localizado: (Projeto Pedagógico de Curso)."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 47. Manifestação da Dentec encaminhada no dia 14/10/25 ao campus, DIEPI e DGA.Enviado ao Consepe."
           }
         ]
       }

@@ -32,7 +32,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "ARAPONGAS; Técnico em Melhoria de Processos; Turmas: 1; Turno: Noturno; Vagas: 40; Duração: 2 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Noturno; duração 2 anos"
       },
       "fonte": {
@@ -51,7 +51,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "ASSIS CHATEAUBRIAND; Técnico em Agropecuária; Turmas: 1; Turno: Diurno (Manhã + 3 tardes por semana)¹; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (Manhã + 3 tardes por semana)¹; duração 3 anos"
       },
       "fonte": {
@@ -70,7 +70,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "ASSIS CHATEAUBRIAND; Técnico em Agropecuária; Turmas: 1; Turno: Noturno; Vagas: 40; Duração: 2 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Noturno; duração 2 anos"
       },
       "fonte": {
@@ -89,7 +89,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "ASSIS CHATEAUBRIAND; Técnico em Alimentos; Turmas: 1; Turno: Noturno; Vagas: 40; Duração: 2 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Noturno; duração 2 anos"
       },
       "fonte": {
@@ -108,7 +108,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "ASSIS CHATEAUBRIAND; Técnico em Comércio; Turmas: 1; Turno: Diurno (Manhã + 1 tarde por semana)²; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (Manhã + 1 tarde por semana)²; duração 3 anos"
       },
       "fonte": {
@@ -127,7 +127,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "ASSIS CHATEAUBRIAND; Técnico em Eletromecânica; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
       },
       "fonte": {
@@ -146,7 +146,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "ASSIS CHATEAUBRIAND; Técnico em Eletromecânica; Turmas: 1; Turno: Noturno; Vagas: 40; Duração: 2 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Noturno; duração 2 anos"
       },
       "fonte": {
@@ -165,7 +165,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "ASSIS CHATEAUBRIAND; Técnico em Eletrotécnica; Turmas: 1; Turno: Noturno; Vagas: 40; Duração: 2 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Noturno; duração 2 anos"
       },
       "fonte": {
@@ -184,7 +184,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "ASSIS CHATEAUBRIAND; Técnico em Informática para Internet; Turmas: 1; Turno: Diurno (manhã + 2 tardes por semana)¹; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã + 2 tardes por semana)¹; duração 3 anos"
       },
       "fonte": {
@@ -203,7 +203,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "ASTORGA; Técnico em Desenvolvimento de Sistemas; Turmas: 1; Turno: Noturno; Vagas: 40; Duração: 2 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Noturno; duração 2 anos"
       },
       "fonte": {
@@ -222,7 +222,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "ASTORGA; Técnico em Informática; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
       },
       "fonte": {
@@ -241,7 +241,7 @@
       "vagas": {
         "quantidade": 80,
         "trecho_fonte": "BARRACÃO; Técnico em Administração; Turmas: 2; Turno: Matutino; Vagas: 80; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "80 vagas; 2 turma(s); turno Matutino; duração 4 anos"
       },
       "fonte": {
@@ -260,7 +260,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "BARRACÃO; Técnico em Informática; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
       },
       "fonte": {
@@ -279,7 +279,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "CAMPO LARGO; Técnico em Administração; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
       },
       "fonte": {
@@ -298,7 +298,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "CAMPO LARGO; Técnico em Agroecologia; Turmas: 1; Turno: Vespertino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Vespertino; duração 4 anos"
       },
       "fonte": {
@@ -317,7 +317,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "CAMPO LARGO; Técnico em Automação Industrial; Turmas: 1; Turno: Vespertino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Vespertino; duração 4 anos"
       },
       "fonte": {
@@ -336,7 +336,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "CAMPO LARGO; Técnico em Mecânica; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
       },
       "fonte": {
@@ -355,7 +355,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "CAMPO LARGO; Técnico em Mecânica; Turmas: 1; Turno: Noturno; Vagas: 40; Duração: 2 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Noturno; duração 2 anos"
       },
       "fonte": {
@@ -374,7 +374,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "CAPANEMA; Técnico em Agroecologia; Turmas: 1; Turno: Diurno (manhã e tarde)¹; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã e tarde)¹; duração 3 anos"
       },
       "fonte": {
@@ -393,7 +393,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "CAPANEMA; Técnico em Cooperativismo; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
       },
       "fonte": {
@@ -412,7 +412,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "CAPANEMA; Técnico em Informática; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
       },
       "fonte": {
@@ -431,7 +431,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "CASCAVEL; Técnico em Edificações; Turmas: 1; Turno: Diurno (manhã+duas tardes)¹; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã+duas tardes)¹; duração 3 anos"
       },
       "fonte": {
@@ -450,7 +450,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "CASCAVEL; Técnico em Informática; Turmas: 1; Turno: Diurno (manhã+duas tardes)¹; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã+duas tardes)¹; duração 3 anos"
       },
       "fonte": {
@@ -469,7 +469,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "CASCAVEL; Técnico em Química; Turmas: 1; Turno: Diurno (manhã+duas tardes)¹; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã+duas tardes)¹; duração 3 anos"
       },
       "fonte": {
@@ -488,7 +488,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "COLOMBO; Técnico em Administração; Turmas: 1; Turno: Matutino + duas tardes por semana¹; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Matutino + duas tardes por semana¹; duração 3 anos"
       },
       "fonte": {
@@ -507,7 +507,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "COLOMBO; Técnico em Alimentos; Turmas: 1; Turno: Vespertino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Vespertino; duração 4 anos"
       },
       "fonte": {
@@ -526,7 +526,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "COLOMBO; Técnico em Informática; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
       },
       "fonte": {
@@ -545,7 +545,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "CORONEL VIVIDA; Técnico em Administração; Turmas: 1; Turno: Diurno (Manhã + 2 tardes)¹; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (Manhã + 2 tardes)¹; duração 3 anos"
       },
       "fonte": {
@@ -564,7 +564,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "CORONEL VIVIDA; Técnico em Cooperativismo; Turmas: 1; Turno: Diurno (Manhã + 2 tardes)¹; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (Manhã + 2 tardes)¹; duração 3 anos"
       },
       "fonte": {
@@ -583,7 +583,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "CR TOLEDO; Técnico em Informática para Internet; Turmas: 1; Turno: Diurno (manhã + 2 tardes por semana)¹; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã + 2 tardes por semana)¹; duração 3 anos"
       },
       "fonte": {
@@ -601,7 +601,7 @@
       "vagas": {
         "quantidade": 30,
         "trecho_fonte": "CURITIBA; Técnico em Administração; Turmas: 1; Turno: Matutino; Vagas: 30; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "30 vagas; 1 turma(s); turno Matutino; duração 3 anos"
       },
       "fonte": {
@@ -620,7 +620,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "CURITIBA; Técnico em Condomínio; Turmas: 1; Turno: Noturno; Vagas: 40; Duração: 1 ano",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Noturno; duração 1 ano"
       },
       "fonte": {
@@ -639,7 +639,7 @@
       "vagas": {
         "quantidade": 30,
         "trecho_fonte": "CURITIBA; Técnico em Contabilidade; Turmas: 1; Turno: Matutino; Vagas: 30; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "30 vagas; 1 turma(s); turno Matutino; duração 3 anos"
       },
       "fonte": {
@@ -658,7 +658,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "CURITIBA; Técnico em Edificações; Turmas: 1; Turno: Noturno; Vagas: 40; Duração: 2 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Noturno; duração 2 anos"
       },
       "fonte": {
@@ -677,7 +677,7 @@
       "vagas": {
         "quantidade": 30,
         "trecho_fonte": "CURITIBA; Técnico em Eletromecânica; Turmas: 1; Turno: Noturno; Vagas: 30; Duração: 2 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "30 vagas; 1 turma(s); turno Noturno; duração 2 anos"
       },
       "fonte": {
@@ -696,7 +696,7 @@
       "vagas": {
         "quantidade": 30,
         "trecho_fonte": "CURITIBA; Técnico em Eletrônica; Turmas: 1; Turno: Vespertino; Vagas: 30; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "30 vagas; 1 turma(s); turno Vespertino; duração 3 anos"
       },
       "fonte": {
@@ -715,7 +715,7 @@
       "vagas": {
         "quantidade": 35,
         "trecho_fonte": "CURITIBA; Técnico em Eletrotécnica; Turmas: 1; Turno: Noturno; Vagas: 35; Duração: 2 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "35 vagas; 1 turma(s); turno Noturno; duração 2 anos"
       },
       "fonte": {
@@ -734,7 +734,7 @@
       "vagas": {
         "quantidade": 30,
         "trecho_fonte": "CURITIBA; Técnico em Enfermagem; Turmas: 1; Turno: Matutino; Vagas: 30; Duração: 2 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "30 vagas; 1 turma(s); turno Matutino; duração 2 anos"
       },
       "fonte": {
@@ -753,7 +753,7 @@
       "vagas": {
         "quantidade": 35,
         "trecho_fonte": "CURITIBA; Técnico em Eventos; Turmas: 1; Turno: Noturno; Vagas: 35; Duração: 1 ano",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "35 vagas; 1 turma(s); turno Noturno; duração 1 ano"
       },
       "fonte": {
@@ -772,7 +772,7 @@
       "vagas": {
         "quantidade": 30,
         "trecho_fonte": "CURITIBA; Técnico em Informática; Turmas: 1; Turno: Vespertino; Vagas: 30; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "30 vagas; 1 turma(s); turno Vespertino; duração 4 anos"
       },
       "fonte": {
@@ -791,7 +791,7 @@
       "vagas": {
         "quantidade": 36,
         "trecho_fonte": "CURITIBA; Técnico em Mecânica; Turmas: 1; Turno: Noturno; Vagas: 36; Duração: 2 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "36 vagas; 1 turma(s); turno Noturno; duração 2 anos"
       },
       "fonte": {
@@ -810,7 +810,7 @@
       "vagas": {
         "quantidade": 30,
         "trecho_fonte": "CURITIBA; Técnico em Mecânica; Turmas: 1; Turno: Vespertino; Vagas: 30; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "30 vagas; 1 turma(s); turno Vespertino; duração 3 anos"
       },
       "fonte": {
@@ -829,7 +829,7 @@
       "vagas": {
         "quantidade": 30,
         "trecho_fonte": "CURITIBA; Técnico em Petróleo e Gás; Turmas: 1; Turno: Matutino; Vagas: 30; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "30 vagas; 1 turma(s); turno Matutino; duração 3 anos"
       },
       "fonte": {
@@ -848,7 +848,7 @@
       "vagas": {
         "quantidade": 30,
         "trecho_fonte": "CURITIBA; Técnico em Processos Fotográficos; Turmas: 1; Turno: Matutino; Vagas: 30; Duração: 1,5 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "30 vagas; 1 turma(s); turno Matutino; duração 1,5 anos"
       },
       "fonte": {
@@ -867,7 +867,7 @@
       "vagas": {
         "quantidade": 30,
         "trecho_fonte": "CURITIBA; Técnico em Processos Fotográficos; Turmas: 1; Turno: Vespertino; Vagas: 30; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "30 vagas; 1 turma(s); turno Vespertino; duração 3 anos"
       },
       "fonte": {
@@ -886,7 +886,7 @@
       "vagas": {
         "quantidade": 30,
         "trecho_fonte": "CURITIBA; Técnico em Produção de Áudio e Vídeo; Turmas: 1; Turno: Noturno; Vagas: 30; Duração: 2 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "30 vagas; 1 turma(s); turno Noturno; duração 2 anos"
       },
       "fonte": {
@@ -905,7 +905,7 @@
       "vagas": {
         "quantidade": 30,
         "trecho_fonte": "CURITIBA; Técnico em Programação de Jogos Digitais; Turmas: 1; Turno: Matutino; Vagas: 30; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "30 vagas; 1 turma(s); turno Matutino; duração 4 anos"
       },
       "fonte": {
@@ -924,7 +924,7 @@
       "vagas": {
         "quantidade": 25,
         "trecho_fonte": "CURITIBA; Técnico em Prótese Dentária; Turmas: 1; Turno: Noturno; Vagas: 25; Duração: 2 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "25 vagas; 1 turma(s); turno Noturno; duração 2 anos"
       },
       "fonte": {
@@ -943,7 +943,7 @@
       "vagas": {
         "quantidade": 35,
         "trecho_fonte": "CURITIBA; Técnico em Radiologia; Turmas: 1; Turno: Matutino; Vagas: 35; Duração: 2 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "35 vagas; 1 turma(s); turno Matutino; duração 2 anos"
       },
       "fonte": {
@@ -962,7 +962,7 @@
       "vagas": {
         "quantidade": 36,
         "trecho_fonte": "CURITIBA; Técnico em Telecomunicações; Turmas: 1; Turno: Noturno; Vagas: 36; Duração: 2 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "36 vagas; 1 turma(s); turno Noturno; duração 2 anos"
       },
       "fonte": {
@@ -981,7 +981,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "FOZ DO IGUAÇU; Técnico em Aquicultura; Turmas: 1; Turno: Diurno (Manhã + 1 tarde)²; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (Manhã + 1 tarde)²; duração 3 anos"
       },
       "fonte": {
@@ -1000,7 +1000,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "FOZ DO IGUAÇU; Técnico em Desenvolvimento de Sistemas; Turmas: 1; Turno: Integral; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Integral; duração 4 anos"
       },
       "fonte": {
@@ -1019,7 +1019,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "FOZ DO IGUAÇU; Técnico em Edificações; Turmas: 1; Turno: Integral; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Integral; duração 4 anos"
       },
       "fonte": {
@@ -1038,7 +1038,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "FOZ DO IGUAÇU; Técnico em Meio Ambiente; Turmas: 1; Turno: Integral; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Integral; duração 4 anos"
       },
       "fonte": {
@@ -1057,7 +1057,7 @@
       "vagas": {
         "quantidade": 80,
         "trecho_fonte": "GOIOERÊ; Técnico em Informática; Turmas: 2; Turno: Matutino; Vagas: 80; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "80 vagas; 2 turma(s); turno Matutino; duração 4 anos"
       },
       "fonte": {
@@ -1076,7 +1076,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "IRATI; Técnico em Agroecologia; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 3 anos"
       },
       "fonte": {
@@ -1095,7 +1095,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "IRATI; Técnico em Agroecologia; Turmas: 1; Turno: Vespertino; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Vespertino; duração 3 anos"
       },
       "fonte": {
@@ -1114,7 +1114,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "IRATI; Técnico em Informática; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 3 anos"
       },
       "fonte": {
@@ -1133,7 +1133,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "IRATI; Técnico em Informática; Turmas: 1; Turno: Vespertino; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Vespertino; duração 3 anos"
       },
       "fonte": {
@@ -1152,7 +1152,7 @@
       "vagas": {
         "quantidade": 35,
         "trecho_fonte": "IVAIPORÃ; Técnico em Agropecuária; Turmas: 1; Turno: Diurno (Matutino + 1 tarde)²; Vagas: 35; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "35 vagas; 1 turma(s); turno Diurno (Matutino + 1 tarde)²; duração 3 anos"
       },
       "fonte": {
@@ -1171,7 +1171,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "IVAIPORÃ; Técnico em Eletrotécnica; Turmas: 1; Turno: Diurno (Matutino + 1 tarde)²; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (Matutino + 1 tarde)²; duração 3 anos"
       },
       "fonte": {
@@ -1190,7 +1190,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "IVAIPORÃ; Técnico em Informática; Turmas: 1; Turno: Diurno (Matutino + 1 tarde)²; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (Matutino + 1 tarde)²; duração 3 anos"
       },
       "fonte": {
@@ -1209,7 +1209,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "JACAREZINHO; Técnico em Alimentos; Turmas: 1; Turno: Diurno¹; Vagas: 40; Duração: 3,5 a 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Diurno¹; duração 3,5 a 4 anos"
       },
       "fonte": {
@@ -1228,7 +1228,7 @@
       "vagas": {
         "quantidade": 20,
         "trecho_fonte": "JACAREZINHO; Técnico em Eletrotécnica; Turmas: 1; Turno: Diurno¹; Vagas: 20; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "20 vagas; 1 turma(s); turno Diurno¹; duração 4 anos"
       },
       "fonte": {
@@ -1247,7 +1247,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "JACAREZINHO; Técnico em Informática; Turmas: 1; Turno: Diurno¹; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Diurno¹; duração 4 anos"
       },
       "fonte": {
@@ -1266,7 +1266,7 @@
       "vagas": {
         "quantidade": 20,
         "trecho_fonte": "JACAREZINHO; Técnico em Mecânica; Turmas: 1; Turno: Diurno¹; Vagas: 20; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "20 vagas; 1 turma(s); turno Diurno¹; duração 4 anos"
       },
       "fonte": {
@@ -1285,7 +1285,7 @@
       "vagas": {
         "quantidade": 30,
         "trecho_fonte": "JACAREZINHO; Técnico em Teatro; Turmas: 1; Turno: Noturno; Vagas: 30; Duração: 2 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "30 vagas; 1 turma(s); turno Noturno; duração 2 anos"
       },
       "fonte": {
@@ -1304,7 +1304,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "JAGUARIAÍVA; Técnico em Alimentos; Turmas: 1; Turno: Diurno (manhã e tarde)¹; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã e tarde)¹; duração 4 anos"
       },
       "fonte": {
@@ -1323,7 +1323,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "JAGUARIAÍVA; Técnico em Biotecnologia; Turmas: 1; Turno: Diurno (manhã e tarde)¹; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (manhã e tarde)¹; duração 4 anos"
       },
       "fonte": {
@@ -1341,7 +1341,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "LONDRINA; Técnico em Biotecnologia; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
       },
       "fonte": {
@@ -1359,7 +1359,7 @@
       "vagas": {
         "quantidade": 30,
         "trecho_fonte": "LONDRINA; Técnico em Enfermagem; Turmas: 1; Turno: Diurno¹; Vagas: 30; Duração: 2 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "30 vagas; 1 turma(s); turno Diurno¹; duração 2 anos"
       },
       "fonte": {
@@ -1378,7 +1378,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "LONDRINA; Técnico em Informática; Turmas: 1; Turno: Vespertino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Vespertino; duração 4 anos"
       },
       "fonte": {
@@ -1397,7 +1397,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "LONDRINA; Técnico em Massoterapia; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 2 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 2 anos"
       },
       "fonte": {
@@ -1416,7 +1416,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "LONDRINA; Técnico em Prótese Dentária; Turmas: 1; Turno: Noturno; Vagas: 40; Duração: 2 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Noturno; duração 2 anos"
       },
       "fonte": {
@@ -1435,7 +1435,7 @@
       "vagas": {
         "quantidade": 30,
         "trecho_fonte": "LONDRINA; Técnico em Saúde Bucal; Turmas: 1; Turno: Noturno; Vagas: 30; Duração: 2 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "30 vagas; 1 turma(s); turno Noturno; duração 2 anos"
       },
       "fonte": {
@@ -1454,7 +1454,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "PALMAS; Técnico em Alimentos; Turmas: 1; Turno: Diurno (Vespertino + 2 manhãs por semana)¹; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (Vespertino + 2 manhãs por semana)¹; duração 3 anos"
       },
       "fonte": {
@@ -1472,7 +1472,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "PALMAS; Técnico em Informática para Internet; Turmas: 1; Turno: Diurno (Vespertino + 2 manhãs por semana)¹; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (Vespertino + 2 manhãs por semana)¹; duração 3 anos"
       },
       "fonte": {
@@ -1490,7 +1490,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "PALMAS; Técnico em Serviços Jurídicos; Turmas: 1; Turno: Diurno (Vespertino + 2 manhãs por semana)¹; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (Vespertino + 2 manhãs por semana)¹; duração 3 anos"
       },
       "fonte": {
@@ -1508,7 +1508,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "PARANAGUÁ; Técnico em Informática; Turmas: 1; Turno: Vespertino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Vespertino; duração 4 anos"
       },
       "fonte": {
@@ -1527,7 +1527,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "PARANAGUÁ; Técnico em Mecânica; Turmas: 1; Turno: Diurno (tarde e manhã)¹; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (tarde e manhã)¹; duração 4 anos"
       },
       "fonte": {
@@ -1546,7 +1546,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "PARANAGUÁ; Técnico em Meio Ambiente; Turmas: 1; Turno: Vespertino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Vespertino; duração 4 anos"
       },
       "fonte": {
@@ -1565,7 +1565,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "PARANAGUÁ; Técnico em Produção Cultural; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
       },
       "fonte": {
@@ -1584,7 +1584,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "PARANAVAÍ; Técnico em Agroindústria; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
       },
       "fonte": {
@@ -1603,7 +1603,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "PARANAVAÍ; Técnico em Eletromecânica; Turmas: 1; Turno: Noturno; Vagas: 40; Duração: 2 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Noturno; duração 2 anos"
       },
       "fonte": {
@@ -1622,7 +1622,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "PARANAVAÍ; Técnico em Informática; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
       },
       "fonte": {
@@ -1641,7 +1641,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "PARANAVAÍ; Técnico em Mecatrônica; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
       },
       "fonte": {
@@ -1660,7 +1660,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "PINHAIS; Técnico em Administração; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
       },
       "fonte": {
@@ -1679,7 +1679,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "PINHAIS; Técnico em Informática; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
       },
       "fonte": {
@@ -1698,7 +1698,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "PITANGA; Técnico em Alimentos; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
       },
       "fonte": {
@@ -1717,7 +1717,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "PITANGA; Técnico em Cooperativismo; Turmas: 1; Turno: Matutino; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Matutino; duração 4 anos"
       },
       "fonte": {
@@ -1736,7 +1736,7 @@
       "vagas": {
         "quantidade": 35,
         "trecho_fonte": "CR PONTA GROSSA; Técnico em Informática; Turmas: 1; Turno: Integral; Vagas: 35; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "35 vagas; 1 turma(s); turno Integral; duração 4 anos"
       },
       "fonte": {
@@ -1754,7 +1754,7 @@
       "vagas": {
         "quantidade": 38,
         "trecho_fonte": "QUEDAS DO IGUAÇU; Técnico em Informática; Turmas: 1; Turno: Diurno (Manhã + 2 tardes por semana)¹; Vagas: 38; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "38 vagas; 1 turma(s); turno Diurno (Manhã + 2 tardes por semana)¹; duração 3 anos"
       },
       "fonte": {
@@ -1773,7 +1773,7 @@
       "vagas": {
         "quantidade": 38,
         "trecho_fonte": "QUEDAS DO IGUAÇU; Técnico em Meio Ambiente; Turmas: 1; Turno: Diurno (Manhã + 2 tardes por semana)¹; Vagas: 38; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "38 vagas; 1 turma(s); turno Diurno (Manhã + 2 tardes por semana)¹; duração 3 anos"
       },
       "fonte": {
@@ -1792,7 +1792,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "TELÊMACO BORBA; Técnico em Automação Industrial; Turmas: 1; Turno: Matutino/Vespertino¹; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Matutino/Vespertino¹; duração 4 anos"
       },
       "fonte": {
@@ -1811,7 +1811,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "TELÊMACO BORBA; Técnico em Informática para Internet; Turmas: 1; Turno: Matutino/Vespertino¹; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Matutino/Vespertino¹; duração 4 anos"
       },
       "fonte": {
@@ -1830,7 +1830,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "TELÊMACO BORBA; Técnico em Mecânica; Turmas: 1; Turno: Matutino/Vespertino¹; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Matutino/Vespertino¹; duração 4 anos"
       },
       "fonte": {
@@ -1849,7 +1849,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "TELÊMACO BORBA; Técnico em Programação de Jogos Digitais; Turmas: 1; Turno: Matutino/Vespertino¹; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Matutino/Vespertino¹; duração 4 anos"
       },
       "fonte": {
@@ -1867,7 +1867,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "UMUARAMA; Técnico em Edificações; Turmas: 1; Turno: Matutino/Vespertino¹; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Matutino/Vespertino¹; duração 4 anos"
       },
       "fonte": {
@@ -1886,7 +1886,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "UMUARAMA; Técnico em Informática; Turmas: 1; Turno: Matutino/Vespertino¹; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Matutino/Vespertino¹; duração 4 anos"
       },
       "fonte": {
@@ -1905,7 +1905,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "UMUARAMA; Técnico em Química; Turmas: 1; Turno: Matutino/Vespertino¹; Vagas: 40; Duração: 4 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Matutino/Vespertino¹; duração 4 anos"
       },
       "fonte": {
@@ -1924,7 +1924,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "UNIÃO DA VITÓRIA; Técnico em Informática; Turmas: 1; Turno: Diurno (Manhã + 2 tardes)¹; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (Manhã + 2 tardes)¹; duração 3 anos"
       },
       "fonte": {
@@ -1943,7 +1943,7 @@
       "vagas": {
         "quantidade": 40,
         "trecho_fonte": "UNIÃO DA VITÓRIA; Técnico em Meio Ambiente; Turmas: 1; Turno: Diurno (Manhã + 2 tardes)¹; Vagas: 40; Duração: 3 anos",
-        "status_curadoria": "sugerido",
+        "status_curadoria": "precisa_revisao",
         "forma_oferta": "40 vagas; 1 turma(s); turno Diurno (Manhã + 2 tardes)¹; duração 3 anos"
       },
       "fonte": {

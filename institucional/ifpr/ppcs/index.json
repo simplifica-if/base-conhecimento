@@ -2,7 +2,7 @@
   "title": "Projetos Pedagógicos de Curso do IFPR",
   "tipo": "indice_ppcs",
   "versao": 1,
-  "atualizado_em": "2026-05-25",
+  "atualizado_em": "2026-05-26",
   "total_itens": 200,
   "secoes_path": "institucional/ifpr/ppcs/secoes.jsonl",
   "items": [
@@ -274,23 +274,6 @@
       "vagas": 40
     },
     {
-      "id": "astorga/curso-tecnico-de-informatica-integrado-ao-ensino-medio",
-      "campus_id": "astorga",
-      "campus_nome": "Astorga",
-      "curso_id": "curso-tecnico-de-informatica-integrado-ao-ensino-medio",
-      "curso_nome": "Curso Técnico de Informática Integrado ao Ensino Médio (TINFEM)",
-      "nivel": "médio",
-      "tipo_oferta": "técnico integrado",
-      "curso_url": "https://ifpr.edu.br/astorga/menu-principal/nossos-cursos/tecnicos-integrados/tinfem/",
-      "fonte_pdf": "https://ifpr.edu.br/astorga/wp-content/uploads/sites/4/2017/11/PPC-Tecnico-em-Informatica-Integrado-ao-Ensino-Medio-Astorga-2018.pdf",
-      "path": "institucional/ifpr/ppcs/astorga/curso-tecnico-de-informatica-integrado-ao-ensino-medio.md",
-      "modalidade": "presencial",
-      "situacao": "ativo",
-      "escopo": "campus",
-      "ano_documento": 2010,
-      "vagas": 40
-    },
-    {
       "id": "astorga/licenciatura-em-pedagogia",
       "campus_id": "astorga",
       "campus_nome": "Astorga",
@@ -308,6 +291,23 @@
       "vagas": 20
     },
     {
+      "id": "astorga/curso-tecnico-de-informatica-integrado-ao-ensino-medio",
+      "campus_id": "astorga",
+      "campus_nome": "Astorga",
+      "curso_id": "curso-tecnico-de-informatica-integrado-ao-ensino-medio",
+      "curso_nome": "Técnico de Informática Integrado ao Ensino Médio",
+      "nivel": "médio",
+      "tipo_oferta": "técnico integrado",
+      "curso_url": "https://ifpr.edu.br/astorga/menu-principal/nossos-cursos/tecnicos-integrados/tinfem/",
+      "fonte_pdf": "https://ifpr.edu.br/astorga/wp-content/uploads/sites/4/2017/11/PPC-Tecnico-em-Informatica-Integrado-ao-Ensino-Medio-Astorga-2018.pdf",
+      "path": "institucional/ifpr/ppcs/astorga/curso-tecnico-de-informatica-integrado-ao-ensino-medio.md",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "ano_documento": 2010,
+      "vagas": 40
+    },
+    {
       "id": "astorga/tecnico-em-desenvolvimento-de-sistemas",
       "campus_id": "astorga",
       "campus_nome": "Astorga",
@@ -319,7 +319,7 @@
       "fonte_pdf": "https://ifpr.edu.br/astorga/wp-content/uploads/sites/4/2022/10/NOVO_PPC_Subsequente_1200_horas_relogio.docx__4.pdf",
       "path": "institucional/ifpr/ppcs/astorga/tecnico-em-desenvolvimento-de-sistemas.md",
       "modalidade": "presencial",
-      "situacao": "ativo",
+      "situacao": "suspenso",
       "escopo": "campus",
       "ano_documento": 2022,
       "vagas": 40

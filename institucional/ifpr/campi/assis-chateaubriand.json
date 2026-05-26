@@ -34,25 +34,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/assis-chateaubriand/wp-content/uploads/sites/3/2021/09/PPC-Curso-tecnico-em-agropecuaria-subsequente-Versao-2021.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnico-em-agropecuaria.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnico-em-agropecuaria.md",
         "metadados": {
           "ano_documento": {
             "ano": 2023,
             "trecho_fonte": "Ano do documento registrado no Notion: 2023",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 24 vagas",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 24 vagas",
-            "secao": "Número máximo de vagas do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 24 vagas"
           }
         }
       },
@@ -61,7 +57,7 @@
           {
             "numero": "23411.006627/2018-75",
             "tipo": "suspensão",
-            "trecho_fonte": "Suspensão de curso por tempo indeterminado. Aprovado Consepe.\nEvidências: SEI 3747551 (19/08/2025): ato/manifestação CONSEPE localizado (Parecer Consepe 28)."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 43. Aprovado Consepe"
           }
         ]
       }
@@ -82,13 +78,10 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/assis-chateaubriand/wp-content/uploads/sites/3/2017/08/PPC-Agropecuaria.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnico-em-agropecuaria-integrado-ao-ensino-medio.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-20"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnico-em-agropecuaria-integrado-ao-ensino-medio.md",
         "metadados": {
           "ano_documento": {
             "ano": 2017,
@@ -101,7 +94,6 @@
             "trecho_fonte": "Número máximo de vagas do curso: 40; Número mínimo de vagas do curso: 20",
             "status_curadoria": "revisado",
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Características do Curso",
             "revisado_em": "2026-05-20"
           }
         }
@@ -111,12 +103,12 @@
           {
             "numero": "23412.000140/2017-98",
             "tipo": "ajuste",
-            "trecho_fonte": "Tentativa de ajuste curricular do PPC do Curso Técnico em Agropecuária Integrado ao Ensino Médio; parecer CONSEPE inconcluso e ajuste posteriormente suspenso/arquivado pela DIEPEX. Processo localizado em 2026-05-25. Ajuste curricular não efetivado: parecer CONSEPE inconcluso em 12/08/2021 e despacho DIEPEX de 30/06/2022 suspende o ajuste e arquiva os autos.\nEvidências: SEI 1335974: parecer CONSEPE de 12/08/2021 sobre ajuste curricular do PPC, com parecer conclusivo inconcluso.; SEI 1338235: CONSEPE registra parecer inconcluso e retorno à DEMTEC/campus para ajustes.; SEI 0241345: continuidade eletrônica de processo físico em 27/03/2019.; SEI 1289785: Portaria 95/2021 dispõe sobre composição da Comissão de Ajuste Curricular do PPC."
+            "trecho_fonte": "Tentativa de ajuste curricular do PPC do Curso Técnico em Agropecuária Integrado ao Ensino Médio; parecer CONSEPE inconcluso e ajuste posteriormente suspenso/arquivado pela DIEPEX. Processo localizado em 25/05/26. Ajuste curricular não efetivado: parecer CONSEPE inconcluso em 12/08/2021 e despacho DIEPEX de 30/06/2022 suspende o ajuste e arquiva os autos.\nEvidências: SEI 1335974: parecer CONSEPE de 12/08/2021 sobre ajuste curricular do PPC, com parecer conclusivo inconcluso.; SEI 1338235: CONSEPE registra parecer inconcluso e retorno à DEMTEC/campus para ajustes.; SEI 0241345: continuidade eletrônica de processo físico em 27/03/2019.; SEI 1289785: Portaria 95/2021 dispõe sobre composição da Comissão de Ajuste Curricular do PPC."
           },
           {
             "numero": "23411.006241/2025-92",
             "tipo": "ajuste",
-            "trecho_fonte": "Ajuste Curricular do Projeto Pedagógico de Curso (PPC). Ajuste de PPC (não é curso novo). 26/03 Parecer técnico-pedagógico emitido pela Dentec.\nEvidências: SEI 4189334 (08/05/2026): parecer Dentec/Proens registra o PPC 4181052 como 2ª versão aprovada tecnicamente.; SEI 4189334 (08/05/2026): parecer localizado.; SEI 4193462 (12/05/2026): ata CODIC confirma ampliação de 40 para 80 vagas anuais.; SEI 4181052 (04/05/2026): PPC localizado: Anexo PPC.\nPendência: Ato definitivo CONSEPE não localizado na coleta."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 10. 26/03 Parecer técnico-pedagógico emitido pela Dentec\n04/05 Campus devolve PPC revisado\n08/05 Aprovação pela Dentec do PPC, devolução para o campus\n15/05 Envio do processo para CIA/Consepe"
           }
         ]
       }
@@ -137,25 +129,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/assis-chateaubriand/wp-content/uploads/sites/3/2023/07/Versao-3-do-PPC.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnico-em-alimentos.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnico-em-alimentos.md",
         "metadados": {
           "ano_documento": {
             "ano": 2022,
             "trecho_fonte": "Ano do documento registrado no Notion: 2022",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais Serão ofertadas um total de 40 vagas anuais no processo seletivo com um número mínimo de 20 vagas. No IFPR campus As",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "40 vagas",
-            "secao": "ofertadas"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "40 vagas"
           }
         }
       },
@@ -164,7 +152,7 @@
           {
             "numero": "23411.009268/2022-94",
             "tipo": "suspensão",
-            "trecho_fonte": "Suspensão de curso por tempo indeterminado. Aprovada Consepe.\nEvidências: SEI 3747573 (19/08/2025): ato/manifestação CONSEPE localizado (Parecer Consepe 36)."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 44. Aprovada Consepe"
           }
         ]
       }
@@ -185,25 +173,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/assis-chateaubriand/wp-content/uploads/sites/3/2022/10/PPC-do-Curso-de-Tecnico-em-Comercio.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnico-em-comercio.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnico-em-comercio.md",
         "metadados": {
           "ano_documento": {
             "ano": 2019,
             "trecho_fonte": "Ano do documento registrado no Notion: 2019",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Número máximo de vagas do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       },
@@ -216,7 +200,7 @@
           {
             "numero": "23411.006245/2025-71",
             "tipo": "ajuste",
-            "trecho_fonte": "Ajuste Curricular do Projeto Pedagógico de Curso (PPC). 13/05 Recebimento do processo na Dentec. 19/05 Parecer sobre viabilidade desfavorável, faltam docs - devolvido ao campus.\nEvidências: SEI 4202754 (19/05/2026): último parecer localizado, Dentec/Proens, devolvendo o processo ao campus por itens não atendidos.; SEI 4189442 (11/05/2026): justificativa informa reestruturação da matriz dos 3 anos.; SEI 3520489 (02/04/2025): PPC localizado: Anexo PPC a ser ajustado. Não localizei versão posterior de PPC em PDF neste processo.\nPendência: Ato definitivo CONSEPE não localizado na coleta."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 6. 13/05 Recebimento do processo na Dentec\n19/05 Parecer sobre viabilidade desfavorável, faltam docs - devolvido ao campus"
           }
         ]
       }
@@ -237,25 +221,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/assis-chateaubriand/wp-content/uploads/sites/3/2024/02/PPC-Integrado-em-Eletromecanica-11-DE-DEZEMBRO-DE-2013.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnico-em-eletromecanica-integrado-ao-ensino-medio.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnico-em-eletromecanica-integrado-ao-ensino-medio.md",
         "metadados": {
           "ano_documento": {
             "ano": 2013,
             "trecho_fonte": "Ano do documento registrado no Notion: 2013",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "NÚMERO DE VAGAS: CARGA HORÁRIA TOTAL – HORAS RELÓGIO: 3331h/r MÍNIMO 20 MÁXIMO 40 CARGA HORÁRIA DE ESTÁGIO: Não obrigatório PARCERIA COM OUTRAS ESPECIFICAR (anex",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "NÚMERO DE VAGAS"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       },
@@ -264,7 +244,7 @@
           {
             "numero": "23412.000091/2013-60",
             "tipo": "suspensão",
-            "trecho_fonte": "Suspensão de curso por tempo indeterminado. Aprovada no Consepe de 15/8 - enviado ao campus.\nEvidências: SEI 3747553 (19/08/2025): ato/manifestação CONSEPE localizado (Parecer Consepe 29)."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 63. Aprovada no Consepe de 15/8 - enviado ao campus"
           }
         ]
       }
@@ -285,20 +265,16 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/assis-chateaubriand/wp-content/uploads/sites/3/2017/04/PPC-Eletromecanica_Subsequente.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnico-em-eletromecanica-subsequente.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnico-em-eletromecanica-subsequente.md",
         "metadados": {
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "RÁRIA TOTAL: 1.360h NÚMERO DE VAGAS: MÍNIMO MÁXIMO 20 40 3. ESTRUTURA E FUNCIONAMENTO 3.1 Justificativa da oferta do Curso É inegável o",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "NÚMERO DE VAGAS"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       }
@@ -319,20 +295,16 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/assis-chateaubriand/wp-content/uploads/sites/3/2017/08/PPC-Eletrotecnica.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnico-em-eletrotecnica-subsequente.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnico-em-eletrotecnica-subsequente.md",
         "metadados": {
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "NÚMERO DE VAGAS: 40 ESTÁGIO: Não obrigatório MÍNIMO 20 MÁXIMO 40 CARGA HORÁRIA TOTAL: 1.360 h 3. ESTRUTURA E FUNCIONAMENTO 3.1 Justificativa da",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "NÚMERO DE VAGAS"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       },
@@ -341,7 +313,7 @@
           {
             "numero": "23411.004550/2019-80",
             "tipo": "suspensão",
-            "trecho_fonte": "Suspensão de curso por tempo indeterminado. Aprovada no Consepe de 15/8 - enviado ao campus.\nEvidências: SEI 3747392 (19/08/2025): ato/manifestação CONSEPE localizado (Parecer Consepe 22)."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 62. Aprovada no Consepe de 15/8 - enviado ao campus"
           }
         ]
       }
@@ -362,20 +334,16 @@
       },
       "ppc": {
         "url": "https://drive.google.com/file/d/1hZ3CEJOKSC0oqwAD2EIU7YwXRraTcYba/view",
-        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnico-em-informatica-para-internet-integrado-ao-ensino-medio.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-20"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnico-em-informatica-para-internet-integrado-ao-ensino-medio.md",
         "metadados": {
           "vagas": {
             "quantidade": 30,
             "trecho_fonte": "Número máximo de vagas do curso: 30 Número mínimo de vagas do curso: 20",
             "status_curadoria": "revisado",
             "forma_oferta": "mínimo de 20 vagas e máximo de 30 vagas",
-            "secao": "1.2 Característica do curso",
             "revisado_em": "2026-05-20"
           }
         }
@@ -390,7 +358,7 @@
           {
             "numero": "23411.017271/2025-24",
             "tipo": "ajuste",
-            "trecho_fonte": "Viabilidade de ajuste. 07/04 Recebido na Dentec. 23/04 Parecer emitido em 23/04, aguardando retorno.\nEvidências: SEI 4177172 (30/04/2026): parecer localizado.; SEI 4177479 (30/04/2026): PPC localizado: (Anexo PPC - CURSO TÉCNICO INTEGRADO - IIN -ASSIS CHATEAU).\nPendência: Ato definitivo CONSEPE não localizado na coleta."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 12. 07/04 Recebido na Dentec\n23/04 Parecer emitido em 23/04, aguardando retorno\n27/04 PPC Retornado pela campus com as correções selecionadas\n30/04 PPC Enviado para CIA/GR após aprovação da Dentec\n15/05 Envio do processo para CIA/Consepe"
           }
         ]
       }
@@ -411,26 +379,22 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/assis-chateaubriand/wp-content/uploads/sites/3/2026/02/PPC_Tecnico_em_Mecatronica_Integrado_2026.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnico-em-mecatronica-integrado-ao-ensino-medio.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnico-em-mecatronica-integrado-ao-ensino-medio.md",
         "metadados": {
           "ano_documento": {
             "ano": 2025,
             "trecho_fonte": "Ano do documento registrado no Notion: 2025",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) Até 40 vagas",
-            "status_curadoria": "sugerido",
+            "status_curadoria": "precisa_revisao",
             "periodicidade": "anual",
-            "forma_oferta": "40 vagas",
-            "secao": "Vagas totais"
+            "forma_oferta": "40 vagas"
           }
         }
       },
@@ -439,12 +403,12 @@
           {
             "numero": "23411.007623/2024-52",
             "tipo": "abertura",
-            "trecho_fonte": "PAC. Parecer favorável Consepe - encaminhado ao campus.\nEvidências: SEI 3656225 (25/06/2025): ato/manifestação CONSEPE localizado (Parecer Consepe 19)."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 68. Parecer favorável Consepe - encaminhado ao campus"
           },
           {
             "numero": "23411.004239/2025-89",
             "tipo": "abertura",
-            "trecho_fonte": "Curso novo aprovado no Consepe e Consup - trâmites finais. PPC (curso novo). Trâmites finais: encaminhado à Proens para emissão de Portaria de autorização de início das atividades em 14/05/2026.\nEvidências: SEI 3933484 (26/11/2025): ato definitivo, Parecer CONSEPE 57/2025, favorável ao PPC.; SEI 3933484 (26/11/2025): ato/manifestação CONSEPE localizado (Parecer Consepe 57).; SEI 3654038 (04/07/2025): parecer técnico inicial sugeriu prever até duas turmas.; SEI 4172724 (28/04/2026): PPC localizado: Projeto Pedagógico de Curso V4 - publicado."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 8. Trâmites finais concluídos na Dentec: processo encaminhado à DIEPI, DGA e Diepex em 25/05/2026"
           }
         ]
       }
@@ -460,18 +424,15 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/assis-chateaubriand/wp-content/uploads/sites/3/2026/02/PPC_Tecnologia_em_Automacao_Industrial_2026.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnologia-em-automacao-industrial.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnologia-em-automacao-industrial.md",
         "metadados": {
           "ano_documento": {
             "ano": 2025,
             "trecho_fonte": "Ano do documento registrado no Notion: 2025",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           }
         }
       }
@@ -487,26 +448,22 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/assis-chateaubriand/wp-content/uploads/sites/3/2023/07/PPC_curricularizacao_TGC_2023_07.05.2023.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnologia-em-gestao-comercial.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/assis-chateaubriand/tecnologia-em-gestao-comercial.md",
         "metadados": {
           "ano_documento": {
             "ano": 2019,
             "trecho_fonte": "Ano do documento registrado no Notion: 2019",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) Mínimo: 20 vagas Máximo: 40 vagas Oferta: anual",
-            "status_curadoria": "sugerido",
+            "status_curadoria": "precisa_revisao",
             "periodicidade": "anual",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Vagas totais (anual)"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       }

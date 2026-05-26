@@ -29,18 +29,15 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/pinhais/wp-content/uploads/sites/22/2025/12/PPC-Bac.-Administracao-Alterado-2025-Pos-CONSEPE.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/pinhais/bacharelado-em-administracao.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/pinhais/bacharelado-em-administracao.md",
         "metadados": {
           "ano_documento": {
             "ano": 2025,
             "trecho_fonte": "Ano do documento registrado no Notion: 2025",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           }
         }
       }
@@ -56,26 +53,22 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/pinhais/wp-content/uploads/sites/22/2026/04/PPC-BCC-2027.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/pinhais/bacharelado-em-ciencia-da-computacao.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/pinhais/bacharelado-em-ciencia-da-computacao.md",
         "metadados": {
           "ano_documento": {
             "ano": 2021,
             "trecho_fonte": "Ano do documento registrado no Notion: 2021",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) 40 vagas",
-            "status_curadoria": "sugerido",
+            "status_curadoria": "precisa_revisao",
             "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais",
-            "secao": "Vagas totais (anual)"
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -96,25 +89,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/pinhais/wp-content/uploads/sites/22/2025/05/Projeto_Pedagogico_de_Curso_3530515_PPC_ADM_2025_aprovadoCONSEPE.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/pinhais/tecnico-em-administracao-integrado-ao-ensino-medio.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/pinhais/tecnico-em-administracao-integrado-ao-ensino-medio.md",
         "metadados": {
           "ano_documento": {
             "ano": 2025,
             "trecho_fonte": "Ano do documento registrado no Notion: 2025",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais: número mínimo de vagas por turno: 20 vagas de ingresso; número máximo de vagas por turno: 40 vagas de ingresso; número máximo de vagas: 80 vagas de ingresso",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "mínimo de 20 e máximo de 40 vagas por turno; máximo de 80 vagas de ingresso",
-            "secao": "Número mínimo de vagas por turno"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "mínimo de 20 e máximo de 40 vagas por turno; máximo de 80 vagas de ingresso"
           }
         }
       },
@@ -123,7 +112,7 @@
           {
             "numero": "23411.015189/2024-84",
             "tipo": "ajuste",
-            "trecho_fonte": "Ajuste de PPC (não é curso novo). 23/06 - Procedimentos finais - processo enviado para DGA, DIEPI e DIEPEX Pinhais, conforme Portaria 121/2024. Processo finalizado na unidade Dentec.\nEvidências: SEI 3501218 (24/03/2025): ato/manifestação CONSEPE localizado (Parecer Consepe 6).; SEI 3530515 (08/04/2025): PPC localizado: (Projeto Pedagógico de Curso PPC Técnico em Administração Integrado ao EM)."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 75. 23/06 - Procedimentos finais - processo enviado para DGA, DIEPI e DIEPEX Pinhais, conforme Portaria 121/2024.\nProcesso finalizado na unidade Dentec."
           }
         ]
       }
@@ -144,25 +133,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/pinhais/wp-content/uploads/sites/22/2025/04/PPC_Informatica_Integrado_EnsinoMedio_2019.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/pinhais/tecnico-em-informatica-integrado-ao-ensino-medio.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/pinhais/tecnico-em-informatica-integrado-ao-ensino-medio.md",
         "metadados": {
           "ano_documento": {
             "ano": 2014,
             "trecho_fonte": "Ano do documento registrado no Notion: 2014",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Número máximo de vagas do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       },
@@ -171,7 +156,7 @@
           {
             "numero": "23411.010854/2023-62",
             "tipo": "ajuste",
-            "trecho_fonte": "Ajuste de PPC (curso com nova ênfase, curso novo). 09/05 - Procedimentos finais - processo enviado para DGA, DIEPI e DIEPEX Pinhais, conforme Portaria 121/2024. Processo finalizado na unidade Dentec.\nEvidências: SEI 3501202 (24/03/2025): ato/manifestação CONSEPE localizado (Parecer Consepe 3).; SEI 3519142 (01/04/2025): PPC localizado: (Projeto Pedagógico de Curso - Técnico Integrado em Informática para Internet)."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 74. 09/05 - Procedimentos finais - processo enviado para DGA, DIEPI e DIEPEX Pinhais, conforme Portaria 121/2024.\nProcesso finalizado na unidade Dentec."
           }
         ]
       }
@@ -187,26 +172,22 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/pinhais/wp-content/uploads/sites/22/2025/12/PPC_versao_atualizada.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/pinhais/tecnologia-em-gestao-da-tecnologia-da-informacao.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/pinhais/tecnologia-em-gestao-da-tecnologia-da-informacao.md",
         "metadados": {
           "ano_documento": {
             "ano": 2025,
             "trecho_fonte": "Ano do documento registrado no Notion: 2025",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) 40 vagas",
-            "status_curadoria": "sugerido",
+            "status_curadoria": "precisa_revisao",
             "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais",
-            "secao": "Vagas totais (anual)"
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }

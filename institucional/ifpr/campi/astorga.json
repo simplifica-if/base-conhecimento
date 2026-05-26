@@ -20,7 +20,7 @@
   "cursos": [
     {
       "id": "curso-tecnico-de-informatica-integrado-ao-ensino-medio",
-      "nome": "Curso Técnico de Informática Integrado ao Ensino Médio (TINFEM)",
+      "nome": "Técnico de Informática Integrado ao Ensino Médio",
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/astorga/menu-principal/nossos-cursos/tecnicos-integrados/tinfem/",
@@ -34,25 +34,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/astorga/wp-content/uploads/sites/4/2017/11/PPC-Tecnico-em-Informatica-Integrado-ao-Ensino-Medio-Astorga-2018.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/astorga/curso-tecnico-de-informatica-integrado-ao-ensino-medio.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/astorga/curso-tecnico-de-informatica-integrado-ao-ensino-medio.md",
         "metadados": {
           "ano_documento": {
             "ano": 2010,
             "trecho_fonte": "Ano do documento registrado no Notion: 2010",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 30 vagas",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas",
-            "secao": "Número máximo de vagas do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
           }
         }
       }
@@ -68,26 +64,22 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/astorga/wp-content/uploads/sites/4/2026/02/PPC-PEDAGOGIA-2025.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/astorga/licenciatura-em-pedagogia.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/astorga/licenciatura-em-pedagogia.md",
         "metadados": {
           "ano_documento": {
             "ano": 2023,
             "trecho_fonte": "Ano do documento registrado no Notion: 2023",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 20,
             "trecho_fonte": "Vagas totais (anual) 20 vagas (mínimo) a 40 vagas (máximo)",
-            "status_curadoria": "sugerido",
+            "status_curadoria": "precisa_revisao",
             "periodicidade": "anual",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Vagas totais (anual)"
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       }
@@ -99,7 +91,7 @@
       "tipo_oferta": "técnico subsequente",
       "url": "https://ifpr.edu.br/astorga/menu-principal/nossos-cursos/tecnicos-subsequentes/tecnico-em-desenvolvimento-de-sistemas-tads/",
       "modalidade": "presencial",
-      "situacao": "ativo",
+      "situacao": "suspenso",
       "escopo": "campus",
       "suap": {
         "id": 48,
@@ -108,38 +100,34 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/astorga/wp-content/uploads/sites/4/2022/10/NOVO_PPC_Subsequente_1200_horas_relogio.docx__4.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/astorga/tecnico-em-desenvolvimento-de-sistemas.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/astorga/tecnico-em-desenvolvimento-de-sistemas.md",
         "metadados": {
           "ano_documento": {
             "ano": 2022,
             "trecho_fonte": "Ano do documento registrado no Notion: 2022",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 30 INSTITUTO FEDERAL DO PARANÁ Pró-Reitoria de Ensino - PROENS Av. Victor Ferreira",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas",
-            "secao": "Número máximo de vagas do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
           }
         }
       },
       "sei": {
         "processos": [
           {
-            "numero": "23411.011762/2025-61",
-            "tipo": "suspensão",
-            "trecho_fonte": "Suspensão de curso por tempo indeterminado. Aprovado Consepe.\nEvidências: SEI 3931525 (26/11/2025): ato/manifestação CONSEPE localizado (Parecer Consepe 55)."
-          },
-          {
             "numero": "23411.009814/2024-59",
             "tipo": "abertura"
+          },
+          {
+            "numero": "23411.011762/2025-61",
+            "tipo": "suspensão",
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 42. Aprovado Consepe"
           }
         ]
       }

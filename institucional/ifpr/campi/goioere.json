@@ -33,25 +33,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/goioere/wp-content/uploads/sites/13/2017/05/PPC-informatica-integrado-2016.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/goioere/tecnico-em-informatica.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/goioere/tecnico-em-informatica.md",
         "metadados": {
           "ano_documento": {
             "ano": 2016,
             "trecho_fonte": "Ano do documento registrado no Notion: 2016",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 20 vagas",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Número máximo de vagas do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       },
@@ -60,12 +56,12 @@
           {
             "numero": "23411.008038/2024-70",
             "tipo": "ajuste",
-            "trecho_fonte": "Justificativa para dobra de vagas no PS2026 de 40 para 80 vagas não previstas no PPC vigente. Enviado à Proens - concluído.\nEvidências: SEI 2979625 (29/04/2024): PPC localizado: (Projeto Pedagógico de Curso Ajuste Info - Volume IV).\nPendência: Ato definitivo CONSEPE não localizado na coleta."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 49. Enviado à Proens - concluído"
           },
           {
             "numero": "23411.017825/2025-93",
             "tipo": "ajuste",
-            "trecho_fonte": "Ajuste Curricular do Projeto Pedagógico de Curso (PPC). Encaminhado para SOC/CIA/Consepe em 16/04/2026.\nEvidências: SEI 4156249 (15/04/2026): parecer localizado.; SEI 4146723 (08/04/2026): PPC localizado: (Anexo Proposta PPC (3º versão)).\nPendência: Ato definitivo CONSEPE não localizado na coleta."
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 13. Encaminhado para SOC/CIA/Consepe em 16/04/2026"
           }
         ]
       }
@@ -86,25 +82,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/goioere/wp-content/uploads/sites/13/2017/05/PPC-TECNICO-EM-PRODUCAO-DE-MODA-REVISADO-Piveta-Final.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/goioere/tecnico-em-producao-de-moda.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/goioere/tecnico-em-producao-de-moda.md",
         "metadados": {
           "ano_documento": {
             "ano": 2016,
             "trecho_fonte": "Ano do documento registrado no Notion: 2016",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 vagas Número mínimo de vagas do curso: 20 vagas",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Número máximo de vagas do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       }

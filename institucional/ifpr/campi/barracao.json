@@ -34,38 +34,34 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/barracao/wp-content/uploads/sites/5/2023/12/Projeto-Pedagogico-de-Curso-Tecnico-em-Administracao-Barracao-APROVADO-CONSEPE.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/barracao/tecnico-em-administracao.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/barracao/tecnico-em-administracao.md",
         "metadados": {
           "ano_documento": {
             "ano": 2022,
             "trecho_fonte": "Ano do documento registrado no Notion: 2022",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais Mínimo: 20. Máximo: 40",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Vagas totais"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       },
       "sei": {
         "processos": [
           {
-            "numero": "23411.014772/2024-78",
-            "tipo": "ajuste",
-            "trecho_fonte": "Ajuste de PPC (não é curso novo) para mudança no qtitavo de vagas: de 40 vagas para 40 ou 80 vagas. Encaminhado para DGA, DIEPI e DIADJ para publicação. Concluído na Dentec.\nEvidências: SEI 3501209 (24/03/2025): ato/manifestação CONSEPE localizado (Parecer Consepe 4).; SEI 3594730 (20/05/2025): PPC localizado: (Projeto Pedagógico de Curso Barracão - 2025)."
-          },
-          {
             "numero": "23411.001680/2014-56",
             "tipo": "abertura"
+          },
+          {
+            "numero": "23411.014772/2024-78",
+            "tipo": "ajuste",
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 76. Encaminhado para DGA, DIEPI e DIADJ para publicação. Concluído na Dentec"
           }
         ]
       }
@@ -86,25 +82,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/barracao/wp-content/uploads/sites/5/2023/12/PPC_INFO_Barracao-APROVACAO-CONSEPE.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/barracao/tecnico-em-informatica.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/barracao/tecnico-em-informatica.md",
         "metadados": {
           "ano_documento": {
             "ano": 2022,
             "trecho_fonte": "Ano do documento registrado no Notion: 2022",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais Número mínimo de vagas do curso: 20. Número máximo de vagas do curso: 40",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Número mínimo de vagas do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       }
@@ -120,26 +112,22 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/barracao/wp-content/uploads/sites/5/2025/02/PPC-Comercio-Exterior-Atualizada-2025.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/barracao/tecnologia-em-comercio-exterior.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/barracao/tecnologia-em-comercio-exterior.md",
         "metadados": {
           "ano_documento": {
             "ano": 2008,
             "trecho_fonte": "Ano do documento registrado no Notion: 2008",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) 40 vagas",
-            "status_curadoria": "sugerido",
+            "status_curadoria": "precisa_revisao",
             "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais",
-            "secao": "Vagas totais (anual)"
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }

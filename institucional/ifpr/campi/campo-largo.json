@@ -34,25 +34,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2023/01/PPC-EMI-ADMINISTRACAO_-Versao-Resolucao.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/campo-largo/administracao.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/campo-largo/administracao.md",
         "metadados": {
           "ano_documento": {
             "ano": 2010,
             "trecho_fonte": "Ano do documento registrado no Notion: 2010",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 30",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas",
-            "secao": "Número máximo de vagas do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
           }
         }
       }
@@ -68,25 +64,21 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2018/12/PPC-PROEJA.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/campo-largo/administracao-proeja.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/campo-largo/administracao-proeja.md",
         "metadados": {
           "ano_documento": {
             "ano": 2017,
             "trecho_fonte": "Ano do documento registrado no Notion: 2017",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 30",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas",
-            "secao": "Número máximo de vagas do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
           }
         }
       }
@@ -107,25 +99,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2021/01/PPC-Tecnico-em-Agroecologia-2020_23ago-1.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/campo-largo/agroecologia.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/campo-largo/agroecologia.md",
         "metadados": {
           "ano_documento": {
             "ano": 2020,
             "trecho_fonte": "Ano do documento registrado no Notion: 2020",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 30",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas",
-            "secao": "Número máximo de vagas do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
           }
         }
       }
@@ -146,25 +134,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2023/04/PPC-EMI_Automacao-versao-para-sei-POS-PARECER-ultimo.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/campo-largo/automacao-industrial.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/campo-largo/automacao-industrial.md",
         "metadados": {
           "ano_documento": {
             "ano": 2010,
             "trecho_fonte": "Ano do documento registrado no Notion: 2010",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do Curso: 40 Número mínimo de vagas do Curso: 30",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas",
-            "secao": "Número máximo de vagas do Curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
           }
         }
       }
@@ -180,26 +164,22 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2025/08/2023_PPC-Engenharia-Eletrica_v25.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/campo-largo/bacharelado-em-engenharia-eletrica.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/campo-largo/bacharelado-em-engenharia-eletrica.md",
         "metadados": {
           "ano_documento": {
             "ano": 2022,
             "trecho_fonte": "Ano do documento registrado no Notion: 2022",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) 40 vagas",
-            "status_curadoria": "sugerido",
+            "status_curadoria": "precisa_revisao",
             "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais",
-            "secao": "Vagas totais (anual)"
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -215,26 +195,22 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2019/12/PPC_Licenciatura_Matematica_Versao_Pos_CONSUP.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/campo-largo/licenciatura-em-matematica.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/campo-largo/licenciatura-em-matematica.md",
         "metadados": {
           "ano_documento": {
             "ano": 2018,
             "trecho_fonte": "Ano do documento registrado no Notion: 2018",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) 40 vagas",
-            "status_curadoria": "sugerido",
+            "status_curadoria": "precisa_revisao",
             "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais",
-            "secao": "Vagas totais (anual)"
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -255,25 +231,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2020/02/PPC-EMI_Mecanica_Versao_09_08_2019.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/campo-largo/mecanica.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/campo-largo/mecanica.md",
         "metadados": {
           "ano_documento": {
             "ano": 2019,
             "trecho_fonte": "Ano do documento registrado no Notion: 2019",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 30",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas",
-            "secao": "Número máximo de vagas do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
           }
         }
       }
@@ -294,25 +266,21 @@
       },
       "ppc": {
         "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2022/08/PPC-MECANICA-Sub-2016.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/campo-largo/tecnico-em-mecanica-subsequente.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/campo-largo/tecnico-em-mecanica-subsequente.md",
         "metadados": {
           "ano_documento": {
             "ano": 2015,
             "trecho_fonte": "Ano do documento registrado no Notion: 2015",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Numeromaximodevagasdocurso:40(quarenta) Numerominimodevagasdocurso:20(vinte)",
-            "status_curadoria": "sugerido",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
-            "secao": "Identificação do projeto / características do curso"
+            "status_curadoria": "precisa_revisao",
+            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
       }
@@ -328,26 +296,22 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2025/11/PPC_TecnologoAgro_2025_aprovado-CONSEPE-em-2025.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/campo-largo/tecnologia-em-agroecologia.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/campo-largo/tecnologia-em-agroecologia.md",
         "metadados": {
           "ano_documento": {
             "ano": 2025,
             "trecho_fonte": "Ano do documento registrado no Notion: 2025",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) - 40 vagas para turmas ministradas no campus Campo Largo. 1",
-            "status_curadoria": "sugerido",
+            "status_curadoria": "precisa_revisao",
             "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais",
-            "secao": "Vagas totais"
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -363,26 +327,22 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2024/02/PPC_Tecnologo_Materiais_Ext.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/campo-largo/tecnologia-em-materiais.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/campo-largo/tecnologia-em-materiais.md",
         "metadados": {
           "ano_documento": {
             "ano": 2022,
             "trecho_fonte": "Ano do documento registrado no Notion: 2022",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) 40 vagas",
-            "status_curadoria": "sugerido",
+            "status_curadoria": "precisa_revisao",
             "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais",
-            "secao": "Vagas totais (anual)"
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
@@ -398,26 +358,22 @@
       "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2025/08/PPC_Tecnologo_Processos_Gerenciais_ingressantes_2024.pdf",
-        "markdown_path": "institucional/ifpr/ppcs/campo-largo/tecnologia-em-processos-gerenciais.md",
         "conversao": {
-          "status": "convertido",
-          "ferramenta": "pymupdf4llm",
-          "versao_ferramenta": "1.27.2.3",
-          "convertido_em": "2026-05-11"
+          "status": "convertido"
         },
+        "markdown_path": "institucional/ifpr/ppcs/campo-largo/tecnologia-em-processos-gerenciais.md",
         "metadados": {
           "ano_documento": {
             "ano": 2019,
             "trecho_fonte": "Ano do documento registrado no Notion: 2019",
-            "status_curadoria": "sugerido"
+            "status_curadoria": "precisa_revisao"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) 40 vagas",
-            "status_curadoria": "sugerido",
+            "status_curadoria": "precisa_revisao",
             "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais",
-            "secao": "Vagas totais (anual)"
+            "forma_oferta": "40 vagas anuais"
           }
         }
       }
