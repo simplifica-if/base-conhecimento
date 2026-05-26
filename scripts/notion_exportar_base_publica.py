@@ -406,6 +406,7 @@ class Exporter:
         markdown_path = markdown_path_from_link(props.get("Markdown Link") or props.get("Markdown path"))
 
         ppc: dict[str, Any] = {
+            "notion_page_id": page["id"],
             "url": url_value(props.get("URL oficial")),
             "conversao": {
                 "status": "convertido" if markdown_path else "pendente",

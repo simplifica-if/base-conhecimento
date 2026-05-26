@@ -249,11 +249,16 @@
           "ppc": {
             "type": "object",
             "required": [
+              "notion_page_id",
               "url",
               "conversao"
             ],
             "additionalProperties": false,
             "properties": {
+              "notion_page_id": {
+                "type": "string",
+                "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$"
+              },
               "url": {
                 "type": "string",
                 "format": "uri",

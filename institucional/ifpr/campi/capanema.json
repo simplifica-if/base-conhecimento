@@ -29,6 +29,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-8152-9405-e64b3a20d645",
         "url": "https://ifpr.edu.br/capanema/wp-content/uploads/sites/7/2023/07/PPC-2023.pdf",
         "conversao": {
           "status": "convertido"
@@ -66,6 +67,7 @@
         "vagas": 40
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-811b-b148-c545d672a652",
         "url": "https://ifpr.edu.br/capanema/wp-content/uploads/sites/7/2018/02/PPC-Versao-Aprovada-CONSUP.pdf",
         "conversao": {
           "status": "convertido"
@@ -104,6 +106,7 @@
         "vagas": 40
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-813b-8c95-f0c0be139e53",
         "url": "https://ifpr.edu.br/capanema/wp-content/uploads/sites/7/2018/04/PPC-Cooperativismo-2018-Capanema.pdf",
         "conversao": {
           "status": "convertido"
@@ -142,6 +145,7 @@
         "vagas": 50
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-81e9-b9b5-ee597fea140a",
         "url": "https://ifpr.edu.br/capanema/wp-content/uploads/sites/7/2020/09/Projeto-Pedagogico-do-Curso-Tecnico-em-Informatica-versao-final-ingresso-2021-3-1.pdf",
         "conversao": {
           "status": "convertido"
@@ -175,6 +179,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-815c-b298-f5f9ac2af57b",
         "url": "https://ifpr.edu.br/capanema/wp-content/uploads/sites/7/2026/01/PPC-SISTEMAS-PARA-INTERNET-CAPANEMA-2026.pdf",
         "conversao": {
           "status": "convertido"

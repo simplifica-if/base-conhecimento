@@ -29,6 +29,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-8193-87bc-f8862f4f47a4",
         "url": "https://ifpr.edu.br/irati/wp-content/uploads/sites/14/2025/03/PPC-Agronomia_AJUSTE-APS1.pdf",
         "conversao": {
           "status": "convertido"
@@ -61,6 +62,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-814d-87d8-ec7d98190059",
         "url": "https://ifpr.edu.br/irati/wp-content/uploads/sites/14/2025/06/PPC-Bacharelado-em-Engenharia-de-Software-2025.pdf",
         "conversao": {
           "status": "convertido"
@@ -93,6 +95,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-81c0-8347-cef146b5ac79",
         "url": "https://ifpr.edu.br/irati/wp-content/uploads/sites/14/2025/05/PPC_Quimica___Alteracao_APS.pdf",
         "conversao": {
           "status": "convertido"
@@ -123,6 +126,7 @@
         "vagas": 160
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-8199-8f3c-e142233c59d7",
         "url": "https://ifpr.edu.br/irati/wp-content/uploads/sites/14/2025/12/PPC-Tecnico-em-Agroecologia-Vigente.pdf",
         "conversao": {
           "status": "convertido"
@@ -168,6 +172,7 @@
         "vagas": 160
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-81cf-88ee-f2e52fd8e8c9",
         "url": "https://ifpr.edu.br/irati/wp-content/uploads/sites/14/2025/12/PPC-Tecnico-em-Informatica-Vigente.pdf",
         "conversao": {
           "status": "convertido"
@@ -231,6 +236,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-8125-92f0-c8e7fbe66eba",
         "url": "https://ifpr.edu.br/irati/wp-content/uploads/sites/14/2025/03/PPC-Turmas-ingressantes-a-partir-de-2021-ajuste-2025.pdf",
         "conversao": {
           "status": "convertido"

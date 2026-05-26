@@ -29,6 +29,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-81d7-8fcf-dd048b3f6b26",
         "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2025/04/PPC_Ciencias_Sociais_Pgua_2011.pdf",
         "conversao": {
           "status": "convertido"
@@ -65,6 +66,7 @@
         "vagas": 40
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-81c8-999c-e44778db8856",
         "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2024/04/PPC-EMI-Informatica.pdf",
         "conversao": {
           "status": "convertido"
@@ -103,6 +105,7 @@
         "vagas": 40
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-810b-8b7f-d873189427fd",
         "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2025/04/PPC_TEC-MECANICA_PARANAGUA_2013_-_2024.pdf",
         "conversao": {
           "status": "convertido"
@@ -141,6 +144,7 @@
         "vagas": 40
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-811e-a143-ff3a07719c87",
         "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2024/04/PPC-EMI-Meio-Ambiente.pdf",
         "conversao": {
           "status": "convertido"
@@ -180,6 +184,7 @@
         "vagas": 40
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-8147-8d30-ed5c9191a69a",
         "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2023/04/PPC_2022_Producao_Cultural-1-1.pdf",
         "conversao": {
           "status": "convertido"
@@ -211,6 +216,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-81fe-a26f-fb716f371d67",
         "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2025/02/PPC_TADS_2025.pdf",
         "conversao": {
           "status": "convertido"
@@ -236,6 +242,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-81f0-8743-c79c6dc78d6a",
         "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2025/02/PPC_TGA_2025.pdf",
         "conversao": {
           "status": "convertido"
@@ -268,6 +275,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-8199-a9d5-f40012bb9c3d",
         "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2013/12/PPC-Tecnologia-em-Manutencao-Industrial.pdf",
         "conversao": {
           "status": "convertido"

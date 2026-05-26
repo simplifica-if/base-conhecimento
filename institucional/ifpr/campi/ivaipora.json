@@ -29,6 +29,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-81fe-9f6b-dbb9e4034f32",
         "url": "https://ifpr.edu.br/ivaipora/wp-content/uploads/sites/15/2026/02/PPC_SI_2026.pdf",
         "conversao": {
           "status": "convertido"
@@ -61,6 +62,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-81cc-9a78-f1f08b7257a8",
         "url": "https://ifpr.edu.br/ivaipora/wp-content/uploads/sites/15/2024/08/PPC_2019_2022-Agronomia.pdf",
         "conversao": {
           "status": "convertido"
@@ -93,6 +95,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-819a-a5dc-c0e09094b393",
         "url": "https://ifpr.edu.br/ivaipora/wp-content/uploads/sites/15/2025/02/PPC-Fisica_APS.pdf",
         "conversao": {
           "status": "convertido"
@@ -131,6 +134,7 @@
         "vagas": 36
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-81a7-a451-feca2a12fa2b",
         "url": "https://ifpr.edu.br/ivaipora/wp-content/uploads/sites/15/2017/03/PPC-Integrado-em-Agroecologia-26-04-final.pdf",
         "conversao": {
           "status": "convertido"
@@ -169,6 +173,7 @@
         "vagas": 35
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-8114-89f5-fb0c571820c6",
         "url": "https://ifpr.edu.br/ivaipora/wp-content/uploads/sites/15/2024/10/PPC-Agropecuaria.aprovado-CONSUP.pdf",
         "conversao": {
           "status": "convertido"
@@ -207,6 +212,7 @@
         "vagas": 40
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-8183-aefe-cc7660f6ea8c",
         "url": "https://ifpr.edu.br/ivaipora/wp-content/uploads/sites/15/2017/03/PPC-Eletrotecnica-integrado.pdf",
         "conversao": {
           "status": "convertido"
@@ -279,6 +285,7 @@
         "vagas": 40
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-811e-83a7-f2b9361b6f4f",
         "url": "https://ifpr.edu.br/ivaipora/wp-content/uploads/sites/15/2024/03/PPC-Informatica-2025.pdf",
         "conversao": {
           "status": "convertido"
@@ -312,6 +319,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-8183-a011-c95ee69997b3",
         "url": "https://ifpr.edu.br/ivaipora/wp-content/uploads/sites/15/2017/03/PPCSuperiorTecnologiaemAgroecologia.pdf",
         "conversao": {
           "status": "convertido"

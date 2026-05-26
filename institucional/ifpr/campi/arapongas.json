@@ -26,6 +26,7 @@
       "tipo_oferta": "especialização",
       "url": "https://ifpr.edu.br/arapongas/nossos-cursos/pos-graduacao/especializacao-em-docencia-e-praticas-educativas/",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-814c-a6c6-cb5aaaec762b",
         "url": "https://ifpr.edu.br/arapongas/wp-content/uploads/sites/2/2023/10/PPC-Pos-em-Docencia-e-Praticas-educativas.pdf",
         "conversao": {
           "status": "convertido"
@@ -59,14 +60,6 @@
       "url": "https://ifpr.edu.br/arapongas/nossos-cursos/cursos-fic/gestao-de-competencias-para-exames-de-larga-escala/"
     },
     {
-      "id": "partiu-if",
-      "notion_page_id": "367f5b13-1dbd-81cd-a1bb-dab53f179ef7",
-      "nome": "Partiu IF",
-      "nivel": "médio",
-      "tipo_oferta": "programa institucional",
-      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/partiu-if/"
-    },
-    {
       "id": "portugues-como-lingua-de-acolhimento-plac",
       "notion_page_id": "367f5b13-1dbd-8114-9d63-f8145ccb33b1",
       "nome": "Português como Língua de Acolhimento - PLAc",
@@ -82,6 +75,7 @@
       "tipo_oferta": "FIC",
       "url": "https://ifpr.edu.br/arapongas/nossos-cursos/cursos-fic/programacao-com-enfase-em-analise-de-dados/",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-81f5-a346-f3f260f5fa7e",
         "url": "https://ifpr.edu.br/arapongas/wp-content/uploads/sites/2/2024/06/PPC_FIC_Programacao_com_enfase_em_AD.pdf",
         "conversao": {
           "status": "convertido"
@@ -114,6 +108,7 @@
       "tipo_oferta": "FIC",
       "url": "https://ifpr.edu.br/arapongas/nossos-cursos/cursos-fic/programacao-web/",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-8178-854d-ddf3240af7f5",
         "url": "https://ifpr.edu.br/arapongas/wp-content/uploads/sites/2/2025/03/PPC_FIC_Programacao_WEB.pdf",
         "conversao": {
           "status": "convertido"
@@ -144,7 +139,9 @@
       "nome": "Técnico em Agente Comunitário de Saúde",
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
-      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/ead/tecnico-em-agente-comunitario-de-saude/"
+      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/ead/tecnico-em-agente-comunitario-de-saude/",
+      "modalidade": "ead",
+      "situacao": "incerto"
     },
     {
       "id": "tecnico-em-logistica",
@@ -152,7 +149,9 @@
       "nome": "Técnico em Logística",
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
-      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/ead/tecnico-em-logistica/"
+      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/ead/tecnico-em-logistica/",
+      "modalidade": "ead",
+      "situacao": "incerto"
     },
     {
       "id": "tecnico-em-meio-ambiente",
@@ -160,7 +159,9 @@
       "nome": "Técnico em Meio Ambiente",
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
-      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/ead/tecnico-em-meio-ambiente/"
+      "url": "https://ifpr.edu.br/arapongas/nossos-cursos/ead/tecnico-em-meio-ambiente/",
+      "modalidade": "ead",
+      "situacao": "incerto"
     },
     {
       "id": "tecnico-em-melhoria-de-processos",
@@ -169,12 +170,15 @@
       "nivel": "médio",
       "tipo_oferta": "técnico subsequente",
       "url": "https://ifpr.edu.br/arapongas/nossos-cursos/tecnico-subsequente/tecnico-em-melhoria-de-processos/",
+      "modalidade": "ead",
+      "situacao": "suspenso",
       "suap": {
         "id": 1,
         "codigo": "AR001",
         "vagas": 40
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-81eb-a647-f4b0b2dfef97",
         "url": "https://ifpr.edu.br/arapongas/wp-content/uploads/sites/2/2022/09/PPC___CURSO_TECNICO_EM_MELHORIA_DE_PROCESSOS___VERSAO_FINAL.pdf",
         "conversao": {
           "status": "convertido"
@@ -208,8 +212,7 @@
           },
           {
             "numero": "23411.011730/2025-66",
-            "tipo": "suspensão",
-            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 64. Enviada ao campus em 21/8/25"
+            "tipo": "suspensão"
           }
         ]
       }
@@ -221,12 +224,15 @@
       "nivel": "médio",
       "tipo_oferta": "técnico integrado",
       "url": "https://ifpr.edu.br/arapongas/nossos-cursos/curso-tecnico-integrado-ao-ensino-medio/tecnico-integrado-ao-ensino-medio-tecnico-em-sistemas-de-energia-renovavel/",
+      "modalidade": "presencial",
+      "situacao": "ativo",
       "suap": {
         "id": 615,
         "codigo": "AR002",
         "vagas": 40
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-81ab-9a94-fed4257e22b0",
         "url": "https://ifpr.edu.br/arapongas/wp-content/uploads/sites/2/2025/12/PPC_Tecnico_em_Sistemas_de_Energia_Renovavel___Arapongas-2.pdf",
         "conversao": {
           "status": "convertido"
@@ -268,6 +274,7 @@
       "tipo_oferta": "graduação tecnológica",
       "url": "https://ifpr.edu.br/arapongas/nossos-cursos/graduacao-em-processos-gerenciais/tecnologia-em-processos-gerenciais/",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-81f5-bd9a-d3c525222854",
         "url": "https://ifpr.edu.br/arapongas/wp-content/uploads/sites/2/2025/12/PPC_Graduacao_IFPR___PROCESSOS_GERENCIAIS_ARAPONGAS__1-1.pdf",
         "conversao": {
           "status": "convertido"

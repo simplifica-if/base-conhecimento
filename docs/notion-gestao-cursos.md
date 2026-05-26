@@ -28,7 +28,7 @@ Metadados SUAP ficam apenas na base `SUAP Cursos`.
 
 ### PPCs
 
-Base operacional dos Projetos Pedagógicos de Curso. Cada registro representa um PPC associado a um curso; documentos auxiliares, matrizes isoladas, editais, resoluções e formulários não devem ser cadastrados nesta base.
+Base operacional dos Projetos Pedagógicos de Curso. Cada registro representa um PPC associado a um curso; documentos auxiliares, matrizes isoladas, editais, resoluções e formulários não devem ser cadastrados nesta base. O vínculo operacional entre os JSONs publicados e o Notion é feito por `notion_page_id`.
 
 Regra operacional: um curso pode ter vários PPCs históricos, mas deve haver no máximo um PPC vigente por curso.
 

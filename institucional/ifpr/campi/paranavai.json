@@ -29,6 +29,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-8167-a8ac-c99220cb4ad9",
         "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2025/01/PPC-de-Engenharia-de-Software-–-Turmas-iniciadas-ate-2022-Atualizado.pdf",
         "conversao": {
           "status": "convertido"
@@ -60,6 +61,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-81bd-bb41-d86cbe5e2b77",
         "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2025/01/PPC_Eletrica2023__APS_2025_vf.pdf",
         "conversao": {
           "status": "convertido"
@@ -92,6 +94,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-81ac-a67e-eb6884c04905",
         "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2021/11/PPC_final.pdf",
         "conversao": {
           "status": "convertido"
@@ -125,6 +128,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-8156-8810-f0567cff7d1d",
         "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2025/01/PPC_LicQUIMICA_2025_AJUSTES_EXTRAORDINARIOS_ATIVIDADES_PRATICAS_SUPERVISIONADAS_SEi.pdf",
         "conversao": {
           "status": "convertido"
@@ -161,6 +165,7 @@
         "vagas": 40
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-81f3-8475-df33290f4fba",
         "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2017/05/PPC_Integrado_Agroindustria_enviadoPROENS_12-01-2017_curso2017.pdf",
         "conversao": {
           "status": "convertido"
@@ -184,6 +189,7 @@
         "vagas": 40
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-81f6-83b1-d764ba25c4aa",
         "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2019/12/PPC-Eletromecanica-2020.pdf",
         "conversao": {
           "status": "convertido"
@@ -222,6 +228,7 @@
         "vagas": 40
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-8164-b9ce-cb892db4fae2",
         "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2017/05/PPC-INFORMARTICA-TURMAS-INICIO-2016.pdf",
         "conversao": {
           "status": "convertido"
@@ -256,6 +263,7 @@
         "vagas": 40
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-8145-81ac-e70517bbbef6",
         "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2017/05/PPC_Mecatronica_Pvai_inicio2017.pdf",
         "conversao": {
           "status": "convertido"

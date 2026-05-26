@@ -29,6 +29,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-8108-b38a-ffe675859721",
         "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2025/09/PPC_PG_Saude-Coletiva_2025.pdf",
         "conversao": {
           "status": "pendente"
@@ -46,6 +47,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-81ea-ad96-db8812702c6e",
         "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2025/12/PPC-MATRIZ-288.pdf",
         "conversao": {
           "status": "convertido"
@@ -85,6 +87,7 @@
         "vagas": 40
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-81a6-ae76-efeaa0e87fc2",
         "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2025/11/PPC-Tecnico-em-Biotecnologia-Integrado-ao-Ensino-Medio-2-1.pdf",
         "conversao": {
           "status": "convertido"
@@ -123,6 +126,7 @@
         "vagas": 30
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-8163-af81-faf190206a5c",
         "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2023/12/PPC-2022_-CURSO-TECNICO-EM-ENFERMAGEM.pdf",
         "conversao": {
           "status": "convertido"
@@ -161,6 +165,7 @@
         "vagas": 40
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-81c1-90bd-c5d1aea6204a",
         "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2025/11/PPC-Tecnico-Informatica-Integrado-ao-Ensino-Medio-PDF-2017-1-1.pdf",
         "conversao": {
           "status": "convertido"
@@ -199,6 +204,7 @@
         "vagas": 40
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-819d-84c9-c6b4533ae3e6",
         "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2018/04/PPC-Tecnico-em-Massoterapia.pdf",
         "conversao": {
           "status": "convertido"
@@ -237,6 +243,7 @@
         "vagas": 40
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-815c-8668-c22c29a6a6ad",
         "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2023/12/PPC-Tecnico-em-Protese-Dentaria.pdf",
         "conversao": {
           "status": "convertido"
@@ -273,6 +280,7 @@
         "vagas": 30
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-812a-b31e-d7619b7bef8d",
         "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2023/12/PPC-Tecnico-em-Saude-Bucal.pdf",
         "conversao": {
           "status": "convertido"
@@ -319,6 +327,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-8194-b7be-cdf8034096ef",
         "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2025/02/IFPR_PPC_TADS_Londrina_2025_v1.pdf",
         "conversao": {
           "status": "convertido"

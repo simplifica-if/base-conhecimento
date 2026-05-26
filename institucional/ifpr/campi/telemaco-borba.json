@@ -29,6 +29,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-8188-a02e-c365a69f935d",
         "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2025/10/PPC_Engenharia_Eletrica_Campus_TB_2019_2021-REVISADO.pdf",
         "conversao": {
           "status": "convertido"
@@ -61,6 +62,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-81f9-8c7c-e90bde37a6c6",
         "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2023/02/PPC-2022-LFIS-Graduacao-IFPR-TB-.pdf",
         "conversao": {
           "status": "convertido"
@@ -98,6 +100,7 @@
         "vagas": 40
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-8138-8f79-ce5f478715c8",
         "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2026/02/PPC-TECNICO-EM-AUTOMACAO-VERSAO-FINAL.pdf",
         "conversao": {
           "status": "convertido"
@@ -188,6 +191,7 @@
         "vagas": 40
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-813c-b82a-d0423ab38cd0",
         "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2026/02/PPC-CURSO-TECNICO-EM-INFORMATICA-VERSAO-FINAL.pdf",
         "conversao": {
           "status": "convertido"
@@ -262,6 +266,7 @@
         "vagas": 40
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-81fd-9eab-fa7bc6f37220",
         "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2026/02/PPC-CURSO-TECNICO-INTEGRADO-EM-MECANICA_FINAL.pdf",
         "conversao": {
           "status": "convertido"
@@ -312,6 +317,7 @@
         "vagas": 50
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-810f-9ced-d643799ee8b6",
         "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2026/02/PPC-CURSOS-TECNICOS-EM-PROGRAMACAO-DE-JOGOS-DIGITAIS_VERSAO_FINAL.pdf",
         "conversao": {
           "status": "convertido"
@@ -348,6 +354,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-8153-b3ce-e1418f1a2a5c",
         "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2025/08/07_2025_PPC_Tecnologia-em-Manutencao-Industrial-Atualizacao-1.pdf",
         "conversao": {
           "status": "convertido"

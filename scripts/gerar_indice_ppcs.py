@@ -150,6 +150,7 @@ def build_ppc_item(campus: dict[str, object], curso: dict[str, object], ppc: dic
         "campus_nome": campus["nome"],
         "curso_id": curso_id,
         "curso_nome": curso["nome"],
+        "notion_page_id": ppc["notion_page_id"],
         "nivel": curso["nivel"],
         "tipo_oferta": curso["tipo_oferta"],
         "curso_url": curso["url"],

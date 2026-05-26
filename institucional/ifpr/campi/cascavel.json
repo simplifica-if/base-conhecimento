@@ -29,6 +29,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-811d-a4cc-f113ba1a5cea",
         "url": "https://ifpr.edu.br/cascavel/wp-content/uploads/sites/8/2025/01/ATUALIZACAO_DO_AJUSTE_CURRICULAR_ORDINARIO_PPC_LICENCIATURA_EM_QUIMICA.pdf",
         "conversao": {
           "status": "convertido"
@@ -66,6 +67,7 @@
         "vagas": 40
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-8160-beaa-d020a70f7034",
         "url": "https://ifpr.edu.br/cascavel/wp-content/uploads/sites/8/2024/01/Edificacoes-Projeto_Pedagogico_de_Cursos_Tecnicos_do_IFPR.pdf",
         "conversao": {
           "status": "convertido"
@@ -102,6 +104,7 @@
         "vagas": 40
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-81d0-8821-e3834259707c",
         "url": "https://ifpr.edu.br/cascavel/wp-content/uploads/sites/8/2018/02/PPC-INFORMATICA-vigente_01_2018.pdf",
         "conversao": {
           "status": "convertido"
@@ -140,6 +143,7 @@
         "vagas": 40
       },
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-8195-ae9e-fab01bbe10e4",
         "url": "https://ifpr.edu.br/cascavel/wp-content/uploads/sites/8/2021/11/PPC-Tec.-em-Quimica-2021-2.pdf",
         "conversao": {
           "status": "convertido"
@@ -173,6 +177,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-8175-96ae-c2b2eec68dc5",
         "url": "https://ifpr.edu.br/cascavel/wp-content/uploads/sites/8/2026/02/PPC_TADS_2023_ATUALIZACAO_2026.pdf",
         "conversao": {
           "status": "convertido"
@@ -205,6 +210,7 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
+        "notion_page_id": "367f5b13-1dbd-81fd-a834-d79daba2d284",
         "url": "https://ifpr.edu.br/cascavel/wp-content/uploads/sites/8/2026/02/NOVO-PPC-Tecnologia-em-gestao-ambiental_2026.pdf",
         "conversao": {
           "status": "convertido"
