@@ -51,6 +51,20 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
           }
         }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23403.000254/2017-47",
+            "tipo": "revisão de PPC vigente",
+            "trecho_fonte": "Revisado em 27/05/26 via sei-cli e PPC convertido.\n\nEvidências\n- PPC: **PROCESSO NÚMERO: 23403.000336/2014-49; 23403.000254/2017-47**\n- Observação técnica: processo localizado no SEI, mas sem histórico/documentos extraídos nesta execução."
+          },
+          {
+            "numero": "23403.000336/2014-49",
+            "tipo": "revisão de PPC vigente",
+            "trecho_fonte": "Revisado em 27/05/26 via sei-cli e PPC convertido.\n\nEvidências\n- PPC: **PROCESSO NÚMERO: 23403.000336/2014-49; 23403.000254/2017-47**\n- Observação técnica: processo localizado no SEI, mas sem histórico/documentos extraídos nesta execução."
+          }
+        ]
       }
     },
     {

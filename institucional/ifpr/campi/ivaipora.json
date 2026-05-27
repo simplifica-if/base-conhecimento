@@ -231,6 +231,15 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23413.000096/2012-00",
+            "tipo": "revisão de PPC vigente",
+            "trecho_fonte": "Revisado em 27/05/26 via sei-cli e PPC convertido.\n\nEvidências\n- PPC: > **PROCESSO NÚMERO: 23413.000096/2012-00**\n- Tipo no SEI: Ensino: Projeto Pedagógico de Curso - Técnico.\n- Especificação no SEI: Projeto Pedagógico do Curso Técnico Integrado em Eletrotécnica.\n- Data Última mov.: 05/04/23."
+          }
+        ]
       }
     },
     {

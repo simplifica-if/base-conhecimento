@@ -104,6 +104,20 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23411.003765/2017-11",
+            "tipo": "revisão de PPC vigente",
+            "trecho_fonte": "Revisado em 27/05/26 via sei-cli e PPC convertido.\n\nEvidências\n- PPC: 23411.003765/2017-11\n- Tipo no SEI: Ensino: Projeto Pedagógico de Curso - Técnico.\n- Especificação no SEI: Projeto Político Pedagógico do Curso Técnico em Informática - Campus Avançado Barracão.\n- Data Última mov.: 27/11/23."
+          },
+          {
+            "numero": "23411.012065/2020-13",
+            "tipo": "ajuste",
+            "trecho_fonte": "Revisado em 27/05/26 via sei-cli e PPC convertido.\n\nEvidências\n- PPC: 23411.012065/2020-13\n- Tipo no SEI: Ensino: Ajuste curricular de projeto pedagógico de curso.\n- Especificação no SEI: Ajuste Curricular Curso Técnico em Informática - Campus Barracão.\n- Data Última mov.: 30/09/24."
+          }
+        ]
       }
     },
     {

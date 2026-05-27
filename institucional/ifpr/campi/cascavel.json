@@ -82,6 +82,15 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
           }
         }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23398.001075/2018-24",
+            "tipo": "abertura",
+            "trecho_fonte": "Revisado em 27/05/26 via sei-cli e PPC convertido.\n\nEvidências\n- PPC: ||n°23398.001075/2018-24|6|\n- Tipo no SEI: Ensino: Projeto Pedagógico de Curso - Médio.\n- Especificação no SEI: Proposta de Abertura de Curso E. M. I. ao TÉCNICO EM EDIFICAÇÕES - CAMPUS CASCAVEL.\n- Data Última mov.: 13/03/24."
+          }
+        ]
       }
     },
     {
@@ -122,6 +131,15 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
           }
         }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23398.000382/2017-15",
+            "tipo": "outro",
+            "trecho_fonte": "Revisado em 27/05/26 via sei-cli e PPC convertido.\n\nEvidências\n- PPC: **PROCESSO N°:** 23398.000382/2017-15 **NOME DO CURSO:** TÉCNICO EM INFORMÁTICA **EIXO TECNOLÓGICO:** INFORMAÇÃO E COMUNICAÇÃO **COORDENAÇÃO: Coordenador:** Maurício Marcelino de Lima **Telefone:** (45) 99938-8003 **E-mail:** mauricio.lima@ifpr.edu.br **Vice-Coordenador:** Elisângela Maria da Silva Bossone **Telefone:** (45) 999604921 **E-mail:** elisangela.bossone@ifpr.edu.br **LOCAL DE REALIZAÇÃO/CÂMPUS:** Cascavel-PR/Câmpus Cascavel – Av. das pombas, 2020 – CEP: 85.814-800 **Telefone: Home-Pa\n- Observação técnica: processo localizado no SEI, mas sem histórico/documentos extraídos nesta execução."
+          }
+        ]
       }
     },
     {
@@ -162,6 +180,15 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23411.005067/2021-37",
+            "tipo": "ajuste",
+            "trecho_fonte": "Revisado em 27/05/26 via sei-cli e PPC convertido.\n\nEvidências\n- PPC: **NÚMERO DO PROCESSO: 23411.005067/2021-37**\n- Tipo no SEI: Ensino: Ajuste curricular de projeto pedagógico de curso.\n- Data Última mov.: 30/08/21."
+          }
+        ]
       }
     },
     {

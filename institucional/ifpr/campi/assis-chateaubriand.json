@@ -388,8 +388,7 @@
           },
           {
             "numero": "23411.017271/2025-24",
-            "tipo": "ajuste",
-            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 12. 07/04 Recebido na Dentec\n23/04 Parecer emitido em 23/04, aguardando retorno\n27/04 PPC Retornado pela campus com as correções selecionadas\n30/04 PPC Enviado para CIA/GR após aprovação da Dentec\n15/05 Envio do processo para CIA/Consepe"
+            "tipo": "ajuste"
           }
         ]
       }
@@ -441,8 +440,7 @@
           },
           {
             "numero": "23411.004239/2025-89",
-            "tipo": "abertura",
-            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 8. Trâmites finais concluídos na Dentec: processo encaminhado à DIEPI, DGA e Diepex em 25/05/2026"
+            "tipo": "abertura"
           }
         ]
       }

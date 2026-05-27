@@ -83,6 +83,15 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 25 vagas"
           }
         }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23411.006499/2017-89",
+            "tipo": "abertura",
+            "trecho_fonte": "Revisado em 27/05/26 via sei-cli e PPC convertido.\n\nEvidências\n- PPC: ||23411.006499/2017-89 (abertura do curso)|5|\n- Tipo no SEI: Ensino: Proposta de Abertura de Curso.\n- Especificação no SEI: Proposta de Abertura de Curso Técnico em Alimentos integrado ao Ensino Médio.\n- Data Última mov.: 03/10/23."
+          }
+        ]
       }
     },
     {

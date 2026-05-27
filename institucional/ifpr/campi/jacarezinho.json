@@ -145,6 +145,15 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
           }
         }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23407.000158/2012-54",
+            "tipo": "revisão de PPC vigente",
+            "trecho_fonte": "Revisado em 27/05/26 via sei-cli e PPC convertido.\n\nEvidências\n- PPC: **NÚMERO DO PROCESSO:** 23407.000158/2012-54\n- Tipo no SEI: Ensino: Projeto Pedagógico de Curso - Técnico.\n- Data Última mov.: 06/01/21."
+          }
+        ]
       }
     },
     {
@@ -225,6 +234,15 @@
             "forma_oferta": "máximo de 20 vagas e mínimo de 15 vagas"
           }
         }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23407.000132/2017-11",
+            "tipo": "revisão de PPC vigente",
+            "trecho_fonte": "Revisado em 27/05/26 via sei-cli e PPC convertido.\n\nEvidências\n- PPC: PROCESSO NÚMERO: 23407.000132/2017-11\n- Tipo no SEI: Ensino: Projeto Pedagógico de Curso - Técnico.\n- Especificação no SEI: PPC Técnico Integrado Eletrotécnica.\n- Data Última mov.: 30/11/20."
+          }
+        ]
       }
     },
     {
@@ -265,6 +283,15 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 15 vagas"
           }
         }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23407.000157/2012-18",
+            "tipo": "revisão de PPC vigente",
+            "trecho_fonte": "Revisado em 27/05/26 via sei-cli e PPC convertido.\n\nEvidências\n- PPC: PROCESSO NÚMERO: 23407.000157/2012-18\n- Tipo no SEI: Ensino: Projeto Pedagógico de Curso - Técnico.\n- Data Última mov.: 04/10/22."
+          }
+        ]
       }
     },
     {
@@ -305,6 +332,15 @@
             "forma_oferta": "máximo de 20 vagas e mínimo de 15 vagas"
           }
         }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23407.000133/2017-65",
+            "tipo": "revisão de PPC vigente",
+            "trecho_fonte": "Revisado em 27/05/26 via sei-cli e PPC convertido.\n\nEvidências\n- PPC: PROCESSO NÚMERO: 23407.000133/2017-65\n- Tipo no SEI: Ensino: Projeto Pedagógico de Curso - Técnico.\n- Especificação no SEI: PPC Técnico Integrado em Mecânica.\n- Data Última mov.: 30/11/20."
+          }
+        ]
       }
     },
     {

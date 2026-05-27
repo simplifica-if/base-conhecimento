@@ -1,200 +1,263 @@
+**MINISTÉRIO DA EDUCAÇÃO SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ PRÓ-REITORIA DE ENSINO DIRETORIA DE ENSINO**
 
-INSTITUTOFEDERAL<br>PARANA<br>
+**PROJETO PEDAGÓGICO DE CURSO CURSO TÉCNICO EM INFORMÁTICA FORMA DE OFERTA: INTEGRADO AUTORIZADO PELA RESOLUÇÃO** N° 49/2014 – CONSELHO SUPERIOR
 
-Ministerio da Educacao<br>InstitutoFederaldoParana<br>
+**AJUSTE PARECER CONSEPE Nº 03/2024**
 
-## **MINISTÉRIO DA EDUCAÇÃO**
+**COLOMBO 2023**
 
-## **SECRETARIA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA**
+0
 
-## **INSTITUTO FEDERAL DO PARANÁ**
+**INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DO PARANÁ**
 
-## **CAMPUS COLOMBO**
+**Reitor(a)** Odacir Antonio Zanatta
 
-## **PROJETO DO CURSO TÉCNICO EM INFORMÁTICA**
+**Pró-Reitor(a) de Ensino** Patrícia Daniela Maciel
 
-Autorizado pela Resolução n° 49/2014 – Conselho Superior
+**Pró-Reitor(a) de Ensino Adjunta** Cristiane Ribeiro da Silva
 
-**COLOMBO**
+**Diretor(a) de Ensino** Ana Lucia Berno Bonassina
 
-**2017**
+## **Coordenador(a) de Cursos Técnicos**
 
-INSTITUTOFEDERAL PARANA
+Valéria Borges Ribeiro
 
-Ministerio da Educacao<br>InstitutoFederal doParana<br>
+**Diretor(a) Geral do Campus** Ciro Bächtold
 
-## **INSTITUTO FEDERAL DO PARANÁ**
+**Diretor(a) de Ensino, Pesquisa e Extensão do Campus** Eduardo Liquio Takao
 
-## **Reitor Pro tempore**
+**Coordenador(a) de Curso** João Paulo Partala
 
-Odacir Antonio Zanatta
+## **Comissão de Estruturação de Curso**
 
-## **Pró-Reitor de Ensino**
+João Paulo Partala – Presidente Antonio Eduardo Kloc Ariane Saldanha De Olivera Eduardo Liquio Takao – Diepex Alysson Ramos Artuso Benito Eduardo Araujo Maeso Camilla Carpanezzi La Pastina Carmem Lucia Graboski Da Gama
 
-Sérgio Garcia dos Mártires
+Claudia Dell’Agnolo Edson Luiz Linczuk Emilio Rudolfo Fey Neto Fabio Alliguieri Dos Santos Silva Hugo Leonardo Marandola Julio Cesar Gonçalves Da Silva Marco Antonio Benedetti Durigan Marcos Antonio Barbosa Maura Aparecida De Paula Santos Paulo Cesar Medeiros Priscila Célia Giacomassi Vinícius José Henrique Da Costa Leonardi
 
-## **Diretor de Ensino Médio e Técnico**
+Tiago Wolfgang Dopke – Coens Antonio Daudt – Bibliotecário Edineia Groszevicz – Pedagoga Giovanna Fátima De Oliveira Sanches Gasoto – Discente
 
-Amarildo Pinheiro Magalhães
+## **Colegiado de Gestão Pedagógica de Campus**
 
-## **Coordenadora de Ensino Médio e Técnico**
+Portaria nº 23 de 03/04/2023. Eduardo Liquio Takao – Docente Carmem Lucia Graboski da Gama – Membro Docente Claudia Dell´Agnolo Petry Eliege Cristina Pepler – Membro Docente João Paulo Partala – Membro Docente Marianne Heringer Nogeuira Zanirato – Membro Técnica Michele Rosset – Membro Docente Mirele Carolina Werneque Jacomel – Membro docente Taciane Aparecida Soares – Membro Técnica Tiago Wolfgang Dopke
 
-Marissoni do R. Hilgenberg
+## Sumário
 
-## **Direção Geral do Campus**
+**1 APRESENTAÇÃO DO PROJETO ............................................................................................ 6** 1.1 IDENTIFICAÇÃO .................................................................................................................... 6 **1.1.1 Processo .................................................................................................................................... 6 1.1.1.1 Número do processo do PPC ............................................................................................... 6 1.1.1.2 Número do processo de ajuste do PPC............................................................................... 6 1.1.2 Informações do Campus .......................................................................................................... 6 1.1.3 Denominação do Curso ............................................................................................................ 6 1.1.4 Eixo Tecnológico ...................................................................................................................... 6 1.1.5 Modalidade ................................................................................................................................ 6 1.1.6 Forma de Oferta ........................................................................................................................ 6 1.1.7 Turno do curso.......................................................................................................................... 6 1.1.8 Horário de oferta do curso ....................................................................................................... 6 1.1.9 Tempo de Duração do Curso ................................................................................................... 6 1.1.10 Carga-Horária Total do Curso ................................................................................................ 6 1.1.11 Carga Horária de Estágio Obrigatório .................................................................................. 6 1.1.12 Tipo de matrícula .................................................................................................................... 7 1.1.13 Regime acadêmico ................................................................................................................. 7 1.1.13.1 Regime de avaliação: (  ) Bimestral (x) Trimestral (  ) Semestral  (  ) Modular ............... 7 1.1.14 Vagas totais ............................................................................................................................. 7 1.1.15 Escolaridade mínima exigida/requisito de acesso ao curso .............................................. 7 1.1.16 Ano de criação do curso ........................................................................................................ 7 1.1.17 Ano de início da primeira turma ............................................................................................ 7 1.1.18 Ano de ajuste curricular ......................................................................................................... 7 1.1.19 Coordenador(a) ....................................................................................................................... 7 1.1.20 Endereço de realização do curso .......................................................................................... 7 1.1.21 Instituição Conveniada ........................................................................................................... 7 1.1.22 Conselho profissional ou legislação que regula a profissão ............................................. 7 1.1.23 Comissão de Estruturação de Curso (CEC) ou Comissão de Ajuste Curricular (CAJ): .. 8 1.1.24 Curso experimental? () Sim (x)Não ....................................................................................... 9** 1.2 FUNDAMENTOS LEGAIS E NORMATIVOS ......................................................................... 9 **1.3 JUSTIFICATIVA .......................................................................................................................... 10 1.3.1 Contexto histórico do IFPR .................................................................................................... 10 1.3.2 A integração do PDI, PPI e PPP ............................................................................................. 11 1.3.3 A criação do curso no campus.............................................................................................. 13 2 OBJETIVOS ............................................................................................................................ 17** 2.1 OBJETIVO GERAL ............................................................................................................... 17 2.2 OBJETIVOS ESPECÍFICOS ................................................................................................ 18 **3 CONCEPÇÃO DO CURSO ..................................................................................................... 18 4 PERFIL DO EGRESSO ........................................................................................................... 21** 4.1 EXPEDIÇÃO DE DIPLOMAS E CERTIFICADOS ................................................................ 22
 
-Ciro Bächtold
+4.2 ÁREA DE ATUAÇÃO DO EGRESSO .................................................................................. 22 4.3 ACOMPANHAMENTO DO EGRESSO ................................................................................ 22 4.4 REGISTRO PROFISSIONAL ............................................................................................... 24 **5 ORGANIZAÇÃO CURRICULAR ............................................................................................ 24** 5.1 ESTRUTURA CURRICULAR ............................................................................................... 24 5.2 METODOLOGIA E ESTRATÉGIAS PEDAGÓGICAS ......................................................... 26 5.3 RELAÇÃO ENTRE ENSINO, PESQUISA, EXTENSÃO E INOVAÇÃO ............................... 29 **6 AVALIAÇÃO ........................................................................................................................... 30** 6.1 AVALIAÇÃO DA APRENDIZAGEM ..................................................................................... 30 **6.1.1 Recuperação Paralela............................................................................................................. 32 6.1.2 Forma de Emissão de Resultados ........................................................................................ 32 6.1.3 Condições de Aprovação ....................................................................................................... 33 6.1.4 Progressão Parcial ................................................................................................................. 33** 6.2 APROVEITAMENTO DE ESTUDOS ANTERIORES ........................................................... 33 6.3 CERTIFICAÇÃO DE CONHECIMENTOS ANTERIORES ................................................... 34 6.4 REPRESENTAÇÃO GRÁFICA DO PROCESSO FORMATIVO .......................................... 34 6.5 MATRIZ CURRICULAR ........................................................................................................ 35 6.6 ATIVIDADES COMPLEMENTARES .................................................................................... 36 6.7 EMENTÁRIO E BIBLIOGRAFIAS ........................................................................................ 36 6.8 ESTÁGIO CURRICULAR ..................................................................................................... 73 6.9 TRABALHO FINAL DE CURSO ........................................................................................... 73 **7 POLÍTICAS DE ATENDIMENTO AOS(ÀS) ESTUDANTES .................................................. 74** 7.1 AÇÕES DE ACESSO E PERMANÊNCIA DO(A) ESTUDANTE .......................................... 74 **7.1.1 Programas de Ensino, Pesquisa, Extensão, Inovação, Inclusão Social e Assistência estudantil .......................................................................................................................................... 75 7.1.2 Acessibilidade ......................................................................................................................... 76 7.1.3 Educação Inclusiva................................................................................................................. 76 7.1.4 Mobilidade Estudantil e Internacionalização ....................................................................... 79** 7.1.5 Núcleos de Apoio ao Ensino e Aprendizagem .................................................................. 80 **7.1.5.1 - Núcleo de Arte e Cultura (NAC) ........................................................................................ 80 7.1.5.2. Núcleo de Estudos Afro-brasileiros e Indígenas (NEABI). ............................................. 81 8 CORPO DOCENTE E CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO ................. 81** 8.1 CORPO DOCENTE .............................................................................................................. 81 **8.1.1 Atribuições do Coordenador ................................................................................................. 81 8.1.2 Relação do Corpo docente .................................................................................................... 82 8.1.3 Colegiado de Curso ................................................................................................................ 86** 8.2 CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO .................................................... 86 8.3 INSTRUMENTOS DE GESTÃO DEMOCRÁTICA ............................................................... 88 **8.3.1 Funcionamento dos Colegiados de Gestão ......................................................................... 88 8.3.2 Representatividade da Comunidade Acadêmica ................................................................. 89 8.3.3 Participação da Sociedade Civil na Gestão do Curso ........................................................ 90**
 
-## **Direção de Ensino, Pesquisa e Extensão do Campus**
+**9 INFRAESTRUTURA ............................................................................................................... 90** 9.1 ÁREAS DE ENSINO ESPECÍFICAS .................................................................................... 93 9.2 ÁREAS DE ESTUDO GERAL .............................................................................................. 93 9.3 ÁREAS DE ESTUDO ESPECÍFICO ..................................................................................... 94 9.4 ÁREAS DE ESPORTE E VIVÊNCIA .................................................................................... 96 9.5 ÁREAS DE ATENDIMENTO DISCENTE ............................................................................. 97 9.6 ÁREAS DE APOIO ............................................................................................................... 97 9.7 BIBLIOTECA ........................................................................................................................ 97 **10 AVALIAÇÃO DO CURSO ..................................................................................................... 98** 10.1 AVALIAÇÃO DO PROJETO PEDAGÓGICO DO CURSO ................................................. 99 **REFERÊNCIAS ........................................................................................................................ 100 ANEXO I ................................................................................................................................... 107** ANEXO A - REGULAMENTO DE ESTÁGIO NÃO OBRIGATÓRIO DO CURSO TÉCNICO EM INFORMÁTICA INTEGRADO AO ENSINO MÉDIO – DE ACORDO COM REGULAMENTO DE ESTÁGIOS DO IFPR ................................................................................................... 107
 
-Mércia Freire Rocha Cordeiro Machado
+## **1 APRESENTAÇÃO DO PROJETO**
 
-## **Coordenador de Curso**
+1.1 IDENTIFICAÇÃO
 
-Eduard Henry Lui
+## **1.1.1 Processo**
 
-INSTITUTOFEDERAL PARANA
+## **1.1.1.1 Número do processo do PPC**
 
-Ministerio da Educacao<br>InstitutoFederal doParana<br>
+23411.001650/2014-40
 
-## **SUMÁRIO**
+## **1.1.1.2 Número do processo de ajuste do PPC**
 
-|**1 IDENTIFICAÇÃO DO PROJETO..........................................................................................**|3|
+23411.010138/2023-85
+
+## **1.1.2 Informações do Campus**
+
+Endereço: Rua Antônio Chemim, 28 – São Gabriel – Colombo/PR Telefone: (41) 3300-0137
+
+Home-page: https://ifpr.edu.br/colombo/
+
+## **1.1.3 Denominação do Curso**
+
+Curso Técnico em Informática
+
+## **1.1.4 Eixo Tecnológico**
+
+Informação e Comunicação.
+
+## **1.1.5 Modalidade**
+
+Presencial
+
+## **1.1.6 Forma de Oferta**
+
+Integrado
+
+## **1.1.7 Turno do curso**
+
+Matutino
+
+## **1.1.8 Horário de oferta do curso**
+
+Segunda a sexta, das 07h50min às 12h20min – intervalo das 10h20min às 10h40min
+
+## **1.1.9 Tempo de Duração do Curso**
+
+Quatro anos
+
+## **1.1.10 Carga-Horária Total do Curso**
+
+3.340 horas
+
+## **1.1.11 Carga Horária de Estágio Obrigatório**
+
+Não há estágio obrigatório.
+
+## **1.1.12 Tipo de matrícula**
+
+Por série.
+
+## **1.1.13 Regime acadêmico**
+
+Por ano.
+
+## **1.1.13.1 Regime de avaliação: (  ) Bimestral (x) Trimestral (  ) Semestral  (  ) Modular**
+
+## **1.1.14 Vagas totais**
+
+40 vagas (mínimo 20, máximo 40)
+
+## **1.1.15 Escolaridade mínima exigida/requisito de acesso ao curso**
+
+Ensino Fundamental completo.
+
+## **1.1.16 Ano de criação do curso**
+
+2014
+
+## **1.1.17 Ano de início da primeira turma**
+
+2015
+
+## **1.1.18 Ano de ajuste curricular**
+
+2023
+
+## **1.1.19 Coordenador(a)**
+
+Nome: João Paulo Partala Titulação Máxima: Mestre Regime de Trabalho: DE
+
+## **1.1.20 Endereço de realização do curso**
+
+Campus Colombo Rua e número: Antônio Chemin, 28 Bairro: São Gabriel Cidade: Colombo UF: PR CEP: 83403-515
+
+## **1.1.21 Instituição Conveniada**
+
+Sem convênio.
+
+## **1.1.22 Conselho profissional ou legislação que regula a profissão**
+
+Sem conselho.
+
+## **1.1.23 Comissão de Estruturação de Curso (CEC) ou Comissão de Ajuste Curricular (CAJ):**
+
+|Membro|Função|
 |---|---|
-|**2 CARACTERÍSTICAS DO CURSO........................................................................................**|4|
-|**3 ESTRUTURA E FUNCIONAMENTO.....................................................................................**|5|
-|3.1 APRESENTAÇÃO...............................................................................................................|5|
-|3.2 JUSTIFICATIVA DA OFERTA DO CURSO........................................................................|6|
-|**3.2.1 Construção coletiva do curso.......................................................................................**|9|
-|3.3 FINALIDADES E OBJETIVOS............................................................................................|10|
-|**3.3.1 Objetivo do curso...........................................................................................................**|10|
-|3.4 PERFIL PROFISSIONAL DE CONCLUSÃO......................................................................|11|
-|3.5 AVALIAÇÃO DA APRENDIZAGEM....................................................................................|13|
-|3.6 INSTALAÇÕES E EQUIPAMENTOS, RECURSOS TECNOLÓGICOS E BIBLIOTECA...|15|
-|**3.6.1 Equipamentos para atendimento de estudantes com necessidades educacionais**||
-|**especiais..........................................................................................................**|16|
-|3.7 PESSOAS ENVOLVIDAS...................................................................................................|18|
-|**3.7.1 Lista de servidores técnico-administrativos a serem contratados por concurso**||
-|**público.....................................................................................................................................**|19|
-|3.8 DESCRIÇÃO DIPLOMAS E CERTIFICADOS...................................................................|19|
-|**3.8.1 Critérios de aproveitamento estudos anteriores........................................................**|20|
-|**3.8 2 Certificação de reconhecimento de estudos anteriores............................................**|20|
-|3.9 ORGANIZAÇÃO CURRICULAR.........................................................................................|20|
-|**3.9.1 Matriz curricular.............................................................................................................**|28|
-|**3.9.2 Ementas e objetivos......................................................................................................**|34|
-|**REFERÊNCIAS.....................................................................................................................**|147|
-|**ANEXOS A**-**REGULAMENTO DE ESTÁGIO NÃO OBRIGATÓRIO DO CURSO TÉCNICO EM**||
-|**INFORMÁTICA INTEGRADO AO ENSINO MÉDIO........................................................................**|150|
+|João Paulo Partala|Docente (Coordenação)|
+|Antonio Eduardo Kloc|Docente|
+|Ariane Saldanha De Olivera|Docente|
+|Eduardo Liquio Takao|Docente (DIEPEX)|
+|Alysson Ramos Artuso|Docente|
+|Benito Eduardo Araujo Maeso|Docente|
+|Camilla Carpanezzi La Pastina|Docente|
+|Carmem Lucia Graboski Da Gama|Docente|
+|Claudia Dell’agnolo|Docente|
+|Edson Luiz Linczuk|Docente|
+|Emilio Rudolfo Fey Neto|Docente|
+|Fabio Alliguieri Dos Santos Silva|Docente|
+|Hugo Leonardo Marandola|Docente|
+|Julio Cesar Gonçalves Da Silva|Docente|
+|Marco Antonio Benedetti Durigan|Docente|
+|Marcos Antonio Barbosa|Docente|
+|Maura Aparecida De Paula Santos|Docente|
+|Paulo Cesar Medeiros|Docente|
+|Priscila Célia Giacomassi|Docente|
+|Vinícius José Henrique Da Costa Leonardi|Docente|
+|Tiago Wolfgang Dopke|Docente (COENS)|
+|Antonio Daudt|Bibliotecário|
+|Edineia Groszevicz|Pedagoga|
+|Giovanna Fátima De Oliveira Sanches<br>Gasoto|Discente - 20203029805|
 
-Ministerio daEducacao InstitutoFederal doParana
+## **1.1.24 Curso experimental? () Sim (x)Não**
 
-INSTITUTOFEDERAL PARANA
+## 1.2 FUNDAMENTOS LEGAIS E NORMATIVOS
 
-## **1 IDENTIFICAÇÃO DO PROJETO**
+O presente documento constitui-se do Projeto Pedagógico do Curso Técnico em Informática Integrado ao Ensino Médio, na forma Integrada, presencial, referente ao eixo tecnológico Informação e Comunicação. Este Projeto Pedagógico de Curso se propõe a contextualizar e definir as diretrizes pedagógicas para o respectivo curso técnico de nível médio para o Campus Colombo do Instituto Federal do Paraná, destinado a estudantes oriundos do ensino fundamental.
 
-**PROCESSO NÚMERO** : 23411.001650/2014-40
+O curso Técnico em Informática Integrado ao Ensino Médio segue os seguintes dispositivos legais: Constituição da República Federativa do Brasil de 1988; Decreto 678 de 1992: Convenção Americana sobre Direitos Humanos (Pacto San José da Costa Rica); Decreto 3371 de 1999: protocolo de São Salvador (adicional à Convenção Americana); Decreto6949 de 2009: Convenção Internacional sobre os Direitos das Pessoas com Deficiência (Protocolo de Nova York); entre outros dispositivos legais.
 
-**NOME DO CURSO** : Curso Técnico em Informática
+A proposta pedagógica do curso constitui-se nas bases legais do sistema educativo nacional e nos princípios norteadores da educação profissional e tecnológica brasileira, especificados na Lei de Diretrizes e Bases da Educação – LDB, Lei n° 9.394/96 e atualizada pela Lei n° 11.741/08; a Lei n° 11892/2008: Lei da Criação dos Institutos Federais; assim como, nas resoluções que normatizam a Educação Profissional e Tecnológica de Nível Médio – Resolução CNE/CEB n° 1/2021 que define Diretrizes Curriculares Nacionais Gerais para a Educação Profissional e Tecnológica; Diretrizes Curriculares Nacionais do Ensino Médio - Resolução CNE/CEB n° 3/2018: Define Diretrizes Curriculares Nacionais para o Ensino Médio; Resolução CNE/CEB n° 2/2020: Catálogo Nacional dos Cursos Técnicos – 4ª edição; Resolução CONSUP/IFPR nº 64, de 23 de março de 2022: estabelece as diretrizes para oferta de cursos técnicos integrados ao ensino médio do IFPR; Resolução IFPR n° 54/2011: Dispõe sobre a Organização Didático-Pedagógica do IFPR; Resolução IFPR n° 01/2017: Altera a Resolução n° 54/2011; Diretrizes Indutoras para a Oferta de Cursos Técnicos Integrados ao Ensino Médio na Rede Federal de Educação Profissional, Científica e Tecnológica (2018); Resolução IFPR n°50/2017: Estabelece as normas de avaliação dos processos de ensinoaprendizagem no âmbito do IFPR; Decreto n° 5154 de 23/06/2004: Regulamenta o § 2° do art. 36 e os arts. 39 a 41 da Lei n° 9394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, e dá outras providências; Lei n° 13146/2015: Lei Brasileira de Inclusão da Pessoa com Deficiência (Estatuto da Pessoa com Deficiência); e demais referenciais curriculares pertinentes a oferta educacional.
 
-**EIXO TECNOLÓGICO** : Informação e Comunicação
+Também, o curso faz parte do itinerário formativo para o eixo tecnológico Informação e Comunicação, entendendo itinerário formativo como “o conjunto das etapas que compõem a organização da oferta da Educação Profissional pela instituição de Educação Profissional e Tecnológica, no âmbito de um determinado eixo tecnológico, possibilitando contínuo e articulado aproveitamento de estudos e de experiências profissionais devidamente certificadas por instituições educacionais legalizadas” (Resolução CNE/CEB n° 01/2021, parágrafo 3°, art. 3°).
 
-## **COORDENAÇÃO**
+## **1.3 JUSTIFICATIVA**
 
-Coordenador: Eduard Henry Lui
+## **1.3.1 Contexto histórico do IFPR**
 
-E-mail: eduard.lui@ifpr.edu.br
+O Instituto Federal do Paraná (IFPR) é uma instituição pública federal de ensino vinculada ao Ministério da Educação (MEC) por meio da Secretaria de Educação Profissional e Tecnológica (Setec). É voltada à educação básica, profissional e superior, especializada na oferta gratuita de educação profissional e tecnológica nas diferentes modalidades.
 
-Telefone: (41) 3535-1835
+A Instituição foi criada em dezembro de 2008 por meio da Lei nº 11.892, que instituiu a Rede Federal de Educação Profissional e Tecnológica e criou os 38 Institutos Federais hoje existentes no país. Com a Lei em vigor, a Escola Técnica da Universidade Federal do Paraná (ETUFPR) foi transformada no IFPR, que, hoje, possui autonomia administrativa e pedagógica.
 
-## **LOCAL DE REALIZAÇÃO/CÂMPUS**
+Cerca de oito anos após ser instituído formalmente, o IFPR possui 25 campi espalhados pelo estado do Paraná e continua em expansão. Foram implantados os Campi Avançados: unidades vinculadas a um Campus e que prioritariamente ofertam ensino técnico, cursos de formação inicial e continuada e de Educação a Distância, além de atender as ações que integram o Programa Nacional de Acesso ao Ensino Técnico e Emprego (Pronatec). Cinco unidades estão em funcionamento.
 
-Endereço: Rua Antônio Chemim, 28 – São Gabriel – Colombo/PR
+Atualmente, a instituição contempla mais de 26 mil estudantes nos cursos de modalidade presencial e a distância. O IFPR oferece 43 cursos técnicos presenciais; 11 cursos técnicos na modalidade a distância; 38 cursos superiores presenciais; 11 cursos de especialização na modalidade presencial; 1 curso de especialização na modalidade a distância; e 3 Programas de Mestrado, sendo um deles em regime de colaboração com a Rede Federal e outro em parceria com a Universidade Estadual de Maringá.
 
-TEL: (41) 3535-1835 HOME-PAGE: www.ifpr.edu.br
+De acordo com a Lei de criação (Lei nº 11.892/08) e com seu Estatuto, o IFPR tem as seguintes finalidades e características:
 
-E-mail: campus.colombo@ifpr.edu.br
+I – ofertar educação profissional e tecnológica, em todos os seus níveis e modalidades, formando e qualificando cidadãos com vistas à atuação profissional nos diversos setores da economia, com ênfase no desenvolvimento socioeconômico local, regional e nacional;
 
-**DIREÇÃO GERAL:** Ciro Bächtold
+II – desenvolver a educação profissional e tecnológica como processo educativo e investigativo de geração e adaptação de soluções técnicas e tecnológicas às demandas sociais e peculiaridades regionais;
 
-**DIREÇÃO DE ENSINO:** Mércia Freire Rocha Cordeiro Machado
+III – promover a integração e a verticalização da educação básica à educação profissional e educação superior, otimizando a infraestrutura física, os quadros de pessoal e os recursos de gestão;
 
-## **RESOLUÇÃO DE CRIAÇÃO:** 49/2014
+IV – orientar sua oferta formativa em benefício da consolidação e fortalecimento dos arranjos produtivos, sociais e culturais locais, identificados com base no mapeamento das potencialidades de desenvolvimento socioeconômico e cultural no âmbito de atuação do Instituto Federal;
 
-## **APROVAÇÃO DO PROJETO PEDAGÓGICO DO CURSO (** x **)**
+V – constituir-se em centro de excelência na oferta do ensino de ciências, em geral, e de ciências aplicadas, em particular, estimulando o desenvolvimento de espírito crítico, voltado à investigação empírica;
 
-## **COMISSÃO RESPONSÁVEL PELOS AJUSTES DO PPC**
+VI – qualificar-se como centro de referência no apoio à oferta do ensino de ciências nas instituições públicas de ensino, oferecendo capacitação técnica e atualização pedagógica aos docentes das redes públicas de ensino;
 
-Eduard Henry Lui – Coordenador do Curso – Presidente da comissão Patrícia Daniela Maciel – Pedagoga Hermelinda Peixoto Pereira Martins – Bibliotecária Alana de Freitas do Amarante – Representante discente
+VII – desenvolver programas de extensão e de divulgação científica e tecnológica;
 
-João Miguel França Corcovado – Representante discente Ariane Saldanha de Oliveira – Docente Camilla Carpanezi La Pastina – Docente Emilio Rudolfo Fey Neto – Docente Julio Cesar Gonçalves da Silva – Docente Márcio Rodrigo Santos – Docente Priscila Célia Giacomassi – Docente
+VIII – realizar e estimular a pesquisa aplicada, a produção cultural, o empreendedorismo, o cooperativismo e o desenvolvimento científico e tecnológico;
 
-3
+IX – promover a produção, o desenvolvimento e a transferência de tecnologias sociais, notadamente as voltadas à preservação do meio ambiente.
 
-INSTITUTOFEDERAL PARANA
+O IFPR advém, portanto, de uma política de interiorização da educação, planejada para incluir trabalhadores e filhos de trabalhadores no contexto escolar formal e lhes oferecer formação com qualidade, com vistas ao desenvolvimento do ser humano e da sociedade. Com esse olhar, o Campus Colombo subsidia o propósito institucional e trabalha para que a comunidade do município de Colombo seja beneficiada por essa política, justificando sua implantação nessa região e a utilização de recursos públicos para o público que o Campus atende.
 
-Ministerio da Educacao<br>InstitutoFederal doParana<br>
+Dessa forma, o curso Técnico em Informática Integrado do IFPR – Campus Colombo foi desenvolvido com objetivo de reiterar a missão institucional de promover a educação profissional, científica e tecnológica, pública, gratuita e de excelência, por meio do ensino, pesquisa e extensão, visando à formação integral de cidadãos críticos, empreendedores, comprometidos com a sustentabilidade e com o desenvolvimento local e regional. Os projetos desenvolvidos dentro da integralidade Ensino, Pesquisa, Extensão e Inovação busca atender de forma humanizada e sustentável as demandas dos arranjos locais da região do Município de Colombo. Desde a concepção pedagógica, do desenvolvimento de projetos integradores, e da instalação da Incubadora GrapeTech (Parceria IFPR – Campus Colombo e Prefeitura Municipal de Colombo), se tem uma visão sistêmica da integração, a fim de oferecer o melhor da formação cidadã, sustentável e empreendedora a nossos(as) alunos(as).
 
-## **2 CARACTERÍSTICAS DO CURSO**
+## **1.3.2 A integração do PDI, PPI e PPP**
 
-**Nível:** Educação Profissional Técnica de Nível Médio
+Entende-se que as instituições de ensino não podem mais ser apenas transmissores de conhecimento e devem ser geradores de conhecimento, pautando-se no desenvolvimento de postura crítica que acompanha o desenvolvimento da sociedade. Esse conceito está alinhado ao Plano de Desenvolvimento Institucional do IFPR (PDI/IFPR, 2019-2023), na definição das diretrizes institucionais que orientam a normatização e o funcionamento de cursos técnicos integrados.
 
-**Modalidade** : Presencial
+Essas diretrizes estão em concordância com ideias pressupostas no PPP do Campus Colombo, no que diz respeito ao papel da educação para a geração de novas tecnologias através a pesquisa e da inovação, e atuando como instrumento de aprendizado e assimilação dessas novas tecnologias incluindo a aplicação de tais tecnologias na comunidade externa. Assim,
 
-**Forma de Oferta** : Integrado
+No campo teórico e metodológico, os pressupostos da educação se materializam em ações que promovem a solidariedade humana, o pleno desenvolvimento do sujeito, seu preparo para o exercício da cidadania e sua qualificação para o trabalho. A proposta pedagógica do Campus Colombo se inscreve num projeto de sociedade mais justa e democrática, com respeito às diferenças, valorização da diversidade e empenho pela sustentabilidade, valores humanos e éticos que se busca projetar em suas ações curriculares. A compreensão é a de que essa é a responsabilidade dos Institutos Federais, conforme orienta a Lei nº 11.892/2008. (PPP – IFPR Colombo 19/21)
 
-**Tempo de duração do curso** : 04 anos
+A formação para o impacto social na comunidade em que se insere os campi do IFPR, permeia toda a documentação institucional (PPP, PDI e PPI). Essa convergência trata principalmente da formação solidária, na construção dos sujeitos visando a formação propedêutica e técnica partindo do pressuposto da transformação social cidadã e da qualificação para inserção no mundo do trabalho.
 
-**Turno de oferta** : Matutino
+Porém, essa formação em que se pauta a documentação é a que se entende como educação transformadora. A formação integral de um sujeito crítico, solidário e que promova a transformação social em sua comunidade. Para tal, também pesa a indissociabilidade dos processos de Ensino, Extensão, Pesquisa e Inovação que permeiam essa formação transformadora. Essa associação permite que a formação promova a práxis:
 
-**Horário de oferta do curso** : 07:50 às 12:20 horas
+A partir das dimensões trabalho, educação, ciência, tecnologia e cultura, chega-se à compreensão de que o produto do trabalho é o fator que irá impactar na sociedade e, portanto, é necessário que a prática e a teoria sejam concebidas e planejadas de forma indissolúvel na formação do profissional, sendo essa articulação a ferramenta pedagógica necessária à EPT e que fundamentará uma visão mais integral da atividade profissional. (PPP – IFPR Colombo 19/21)
 
-**Carga horária Total** : 3.324 horas
+Concebe-se assim, o curso Técnico em Informática a partir dessa indissociabilidade fundamentada na formação integral, da forma como regem as documentações. Segundo o PPI:
 
-**Carga horária de estágio** : estágio não obrigatório
+Toma-se, para tanto, como pressuposto para organização didático-pedagógica a integração entre trabalho, ciência, tecnologia e cultura no sentido de promover um ensino que comtemple a formação humana mais ampla sem privilégios ou hierarquização de um saber em detrimento de outro ou que forma exclusivamente para uma ocupação no “mercado” de trabalho. Dessa forma, para além de qualificação para o trabalho, os cursos ofertados estabelecem conhecimentos e atividades que trabalham os aspectos sociais, científicos, tecnológicos de maneira que reforçam as condições de participação crítica e consciente na sociedade. (PPI 2019-2023)
 
-**Número máximo de vagas do curso** : 40 vagas
+De acordo com o Plano de Desenvolvimento Institucional do IFPR (2019-2023), a Instituição trabalha para ser referência em Educação Profissional, tecnológica e científica, reconhecida pelo compromisso com a transformação social que promove, a partir das ações que realiza.
 
-**Número mínimo de vagas do curso:** 20 vagas
+Nas atividades econômicas do município de Colombo a indústria de transformação, o setor de serviços e comércios são o forte na oferta de empregos e arrecadação. Dentro destas atividades a necessidade e procura por profissionais de TI é evidente.
 
-**Ano de criação do curso:** 2014
+Diante disso, os cursos que fazem parte do eixo de Informação e Comunicação são adequados às demandas locais da comunidade, como forma de oferecer aprendizado e novas tecnologias.
 
-**Requisitos de acesso ao Curso:** A escolaridade mínima exigida é o ensino fundamental completo, além da aprovação no processo seletivo regulamentado pela Pró-reitora de Ensino em parceria com o Campus.
+Assim, o Curso Técnico em Informática integrado ao Ensino Médio do Campus Colombo constitui-se em uma importante implantação local, que atende à necessidade de uma demanda da região. A concepção deste curso parte de uma construção coletiva, advinda das ideias que orientam as principais ações do Campus e o trabalho pedagógico da equipe docente e técnica que atuam direta e indiretamente no curso.
 
-**Tipo de Matrícula:** série
+O propósito do presente curso é disponibilizar ao mundo do trabalho profissionais de nível médio técnico com competências para atuar profissionalmente, conscientes da realidade do desenvolvimento tecnológico e inseridos no contexto social e humano. A relação entre ensino, pesquisa, extensão e inovação desempenha papel fundamental na formação crítica dos alunos-cidadãos, e é alcançada a partir da integração que se faz entre os docentes dos componentes curriculares, que propõem o aprofundamento de debates e de pesquisas como forma de integrar e de contemplar seus respectivos conteúdos.
 
-**Regime:** regime escolar anual
+Essa estratégia permite que as práticas pedagógicas sejam aplicadas ao desenvolvimento de tecnologias que atendam problemas locais e regionais. Isso é possível com a operacionalizarão da relação entre teoria e prática, a democratização do saber acadêmico e o retorno desse saber, de uma forma aplicada. Essa proposta se dará por meio de políticas de acesso e permanência, no apoio a projetos inovadores e na difusão de conhecimentos e informações com o foco na inclusão no meio acadêmico e na sociedade. O processo ensinoaprendizagem considera a interação entre as demandas produtivas regionais, contribuindo com a formação de competências e habilidades a fim de que os(as) estudantes superem as problemáticas enfrentadas no cotidiano.
 
-**Parcerias:** não há parceria com outras instituições
-
-4
-
-INSTITUTOFEDERAL PARANA
-
-Ministerio da Educacao<br>InstitutoFederal doParana<br>
-
-## **3 ESTRUTURA E FUNCIONAMENTO**
-
-## 3.1 APRESENTAÇÃO
-
-O presente documento constitui-se do projeto pedagógico do Curso Técnico em Informática integrado ao Ensino Médio, na forma Integrada, presencial, referente ao eixo tecnológico Informação e Comunicação. Este projeto pedagógico de curso se propõe a contextualizar e definir as diretrizes pedagógicas para o respectivo curso técnico de nível médio para o Campus Colombo do Instituto Federal do Paraná, destinado a estudantes oriundos do ensino fundamental.
-
-A proposta pedagógica do curso está baseada nas bases legais do sistema educativo nacional e nos princípios norteadores da educação profissional e tecnológica brasileira, especificados na Lei de Diretrizes e Bases da Educação – LDB, Lei n° 9.394/96 e atualizada pela Lei n° 11.741/08, assim como, nas resoluções que normatizam a Educação Profissional e Tecnológica de Nível Médio - Resolução n° 06/12, Diretrizes Curriculares Nacionais do Ensino Médio - Resolução 02/12 e demais referenciais curriculares pertinentes a oferta educacional.
-
-Também, o curso fará parte do itinerário formativo para o eixo tecnológico de Informação e Comunicação, entendendo itinerário formativo como “o conjunto das etapas que compõem a organização da oferta da Educação Profissional pela instituição de Educação Profissional e Tecnológica, no âmbito de um determinado eixo tecnológico, possibilitando contínuo e articulado aproveitamento de estudos e de experiências profissionais devidamente certificadas por instituições educacionais legalizadas (Resolução 06/2012, parágrafo 3°, art. 3°).
-
-Na Educação Profissional articulada ao Ensino Médio é indispensável compreender como trabalho e tecnologia articulam-se à ciência e à cultura. Compreende-se trabalho como mediação básica entre o homem e a natureza e, portanto, elemento central na produção da existência humana. Dessa forma, é na busca da produção da própria existência que o homem gera conhecimentos, os quais são históricas, social e culturalmente acumulados, ampliados e transformados. Nessa perspectiva, o conhecimento é uma produção do pensamento em que se percebem e se representam as relações constitutivas e estruturantes da realidade, enquanto a teoria surge quando essas relações, elevadas ao plano do pensamento, são ordenadas e retiradas do contexto em que foram produzidas e apreendidas originalmente, com o objetivo de potencializar o avanço das forças produtivas (RAMOS, 2005).
-
-Esse processo da relação entre apreensão, desvelamento e intervenção no real, gerado
-
-INSTITUTOFEDERAL PARANA
-
-Ministerio da Educacao InstitutoFederal doParana
-
-do trabalho mediador essencial entre o homem e a natureza, resulta na produção de conhecimentos, teorias, ciência e tecnologia. Contudo, esses movimentos ocorrem a partir das práticas realizadas pelos grupos sociais e, portanto, influenciam e são influenciados pela cultura desses mesmos grupos. Assim, torna-se necessário compreender a cultura como código de comportamento dos indivíduos e grupos e, portanto, constitui o modo de vida de um determinado grupo populacional, pois é por meio dela que se produzem símbolos, representações e significados que determinam suas práticas sociais e vice-versa (BRASIL, 2007).
-
-Dessa forma, a formação integrada, precisa ir além de proporcionar o acesso aos conhecimentos científicos e tecnológicos produzidos e acumulados pela humanidade. Precisa promover o pensamento crítico-reflexivo sobre os códigos de cultura manifestados pelos grupos sociais ao longo da história, como forma de compreender as concepções, problemas, crises e potenciais de uma sociedade e, a partir daí, contribuir para a construção de novos padrões de produção de conhecimento, de ciência e de tecnologia, voltados para os interesses sociais e coletivos.
-
-## 3.2 JUSTIFICATIVA DA OFERTA DO CURSO
+## **1.3.3 A criação do curso no campus**
 
 Para Ciavatta (2005, p. 85), a ideia de formação integrada sugere superar o ser humano dividido historicamente pela divisão social do trabalho entre a ação de executar e a ação de pensar, dirigir ou planejar. Ressalta,
 
@@ -202,3608 +265,2229 @@ Para Ciavatta (2005, p. 85), a ideia de formação integrada sugere superar o se
 
 Dessa maneira, a superação entre trabalho manual e trabalho intelectual significa enfocar o trabalho como princípio educativo. O núcleo básico do currículo estaria centrado no trabalho, ciência e cultura (CIAVATTA, 2005).
 
-O trabalho adotado como princípio educativo originário, articulando e integrando as áreas de conhecimento, propiciará ao estudante a produção e transformação da sua realidade, bem como, de se construir e se realizar. Isso quer dizer que toda a aprendizagem terá origem ou fundamento em atividades dos estudantes que visam, em última instância, a uma intervenção na sua realidade. Nessa perspectiva, o currículo será centrado no planejamento e no desenvolvimento de propostas de trabalho individual e coletivo. Cada estudante as usará
+O trabalho adotado como princípio educativo originário, articulando e integrando as áreas de conhecimento, propiciará ao estudante a produção e transformação da sua realidade, bem como, de se construir e se realizar. Isso quer dizer que toda a aprendizagem terá origem ou fundamento em atividades dos(as) estudantes que visam, em última instância, a uma intervenção na sua realidade. Nessa perspectiva, o currículo será centrado no planejamento e no desenvolvimento de propostas de trabalho individual e coletivo. Cada estudante as usará para produzir e transformar sua realidade e, ao mesmo tempo, desenvolver-se como ser humano.
 
-6
-
-INSTITUTOFEDERAL PARANA
-
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>
-
-para produzir e transformar sua realidade e, ao mesmo tempo, desenvolver-se como ser humano.
-
-Portanto, juntamente com o trabalho, a pesquisa é vista como instrumento de articulação entre o saber acumulado pela humanidade e as propostas de trabalho que estarão no centro do currículo. Vista como forma de conhecimento e crítica da realidade, a pesquisa se apoiará nas áreas de conhecimento para auxiliar na definição da metodologia e dos instrumentos de investigação, na identificação das variáveis de estudo e na interpretação dos resultados. Ao mesmo tempo, a análise dos resultados da pesquisa, também apoiada pelas áreas, ou pelas disciplinas, apontará as atividades de transformação que são necessárias e possíveis (UNESCO, 2013).
+Portanto, juntamente com o trabalho, a pesquisa é vista como instrumento de articulação entre o saber acumulado pela humanidade e as propostas de trabalho que estarão no centro do currículo. Vista como forma de conhecimento e crítica da realidade, a pesquisa se apoiará nas áreas de conhecimento para auxiliar na definição da metodologia e dos instrumentos de investigação, na identificação das variáveis de estudo e na interpretação dos resultados. Ao mesmo tempo, a análise dos resultados da pesquisa, também apoiada pelas áreas, ou pelos componentes curriculares, apontará as atividades de transformação que são necessárias e possíveis (UNESCO, 2013).
 
 Nessa perspectiva está a Tecnologia da Informação e Comunicação – TIC, ou seja, um conjunto de recursos tecnológicos, utilizados de forma integrada, com um objetivo comum. O desenvolvimento de hardwares e softwares garante a operacionalização da comunicação e dos processos decorrentes em meios virtuais. Em particular o acesso à Internet e aos dispositivos móveis tem sido condição necessária para que governo, organizações e cidadãos atuem sob o modelo da sociedade da informação e do conhecimento. As TICs assumem progressiva e fortemente o papel de ferramenta nos domínios da sociedade em rede. É primordial hoje tentar entender o fenômeno social das redes, seu papel, sua forma de ligação e atuação em temas cada vez mais amplos.
 
-São muitas as oportunidades no mundo do trabalho que cresce e muda tão rapidamente, conforme demonstra os gráficos, oriundos da Pesquisa sobre o uso de Tecnologia de Informação e Comunicação (2103), do Comitê Gestor da Internet no Brasil. **Gráfico 1:** Proporção de usuários de computador por área: urbana e rural (2008 – 2012)
+São muitas as oportunidades no mundo do trabalho que cresce e muda tão rapidamente, conforme demonstra os gráficos, oriundos da Pesquisa sobre o uso de Tecnologia de Informação e Comunicação (2013), do Comitê Gestor da Internet no Brasil.
 
-GRAFICO7<br>PROPORCAODEUSUARIOSDECOMPUTADOR,PORAREA(2008-2012)<br>Percentualsobreototaldapopulacao<br>100 TOTAL<br>90 URBANA<br>RURAL<br>80<br>70<br>504060 418 47438 4449 5348O 51560<br>38<br>30<br>20 23<br>10 18 20 20 20<br>2008 2009 2010 2011 2012<br>
-
-INSTITUTOFEDERAL<br>PARANA<br>
-
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>
+**Gráfico 1:** Proporção de usuários de computador por área: urbana e rural (2008 – 2012)
 
 Em 2012, o Brasil atingiu a marca de 80,9 milhões de brasileiros com 10 anos ou mais que utilizam a Internet. A proporção dos que usam a Internet diariamente cresce significativamente: em 2008 era de 53%, em 2012, 69% (TIC Domicílios e Empresas, 2013)
 
 **Gráfico 2:** Proporção de empresas que utilizaram computadores nos últimos 12 meses (2007 – 2012).
 
-GRAFICO1<br>PROPORCAODEEMPRESASQUEUTILIZARAM COMPUTADORESEINTERNETNOSULTIMOS 12MESES(2007-2012)<br>Percentualsobreototaldeempresas<br>100 95 94 97 97 99 98 COMPUTADOR<br>06 928 91 93 95 98 97 口INTERNET<br>80<br>70<br>60<br>50<br>40<br>30<br>20<br>10<br>2007 2008 2009 2010 2011 2012<br>
-
 No setor empresarial, a Internet está presente em 97% das pequenas, médias e grandes empresas. Os websites das empresas brasileiras, de acordo com a TIC, ainda são preponderantemente utilizados para a divulgação de informações institucionais, mas as oportunidades comunicação com os consumidores se ampliam.
 
 Também, aponta que 33% das corporações introduziram novos programas e softwares de TI ou que passaram por algum aperfeiçoamento nos últimos 12 meses anteriores à realização da pesquisa (TIC Domicílios e Empresas, 2013).
 
-O município de Colombo tem uma população estimada de 212.000 habitantes, sendo que desta, aproximadamente, 32.000 habitantes são jovens entre 10 e 17 anos, estudantes do ensino fundamental e médio (IBGE, 2010). No que se refere a TIC o município faz parte do contexto a nível nacional e vem trabalhando, através da Secretaria Municipal de Indústria e Comércio, a viabilização de transformar a região em que o Campus será implantado em polo tecnológico na área de TI. Isto posto, o curso Técnico em Informática integrado ao Ensino Médio propõe a preparação para o trabalho com a educação por meio do trabalho. A tecnologia está presente em nosso dia-a-dia e expandindo de forma significativa. Desta forma, seja nas residências, ou no mundo do trabalho, a informática é hoje uma necessidade de todos os
+O município de Colombo tem uma população estimada de 212.000 habitantes, sendo que desta, aproximadamente, 32.000 habitantes são jovens entre 10 e 17 anos, estudantes do ensino fundamental e médio (IBGE, 2010). No que se refere a TIC o município faz parte
 
-8
+do contexto a nível nacional e vem trabalhando, através da Secretaria Municipal de Indústria e Comércio, a viabilização de transformar a região em que o Campus será implantado em polo tecnológico na área de TI. Isto posto, o curso Técnico em Informática integrado ao Ensino Médio propõe a preparação para o trabalho com a educação por meio do trabalho. A tecnologia está presente em nosso dia a dia e expandindo de forma significativa. Desta forma, seja nas residências, ou no mundo do trabalho, a informática é hoje uma necessidade de todos os setores da sociedade. Com este aumento no número de máquinas, há consequentemente um aumento no número de computadores que precisam ser instalados e configurados, além de necessitar também, de manutenção preventiva e corretiva.
 
-INSTITUTOFEDERAL PARANA
+Também, visa integrar ensino médio e formação técnica, propiciando uma formação humana e integral em que o objetivo profissionalizante não tenha uma finalidade em si, seja orientado pelos interesses do mundo do trabalho, mas se constitui em uma possibilidade para a construção dos projetos de vida dos(as) estudantes.
 
-Ministerio da Educacao<br>InstitutoFederal doParana<br>
-
-setores da sociedade. Com este aumento no número de máquinas, há consequentemente um aumento no número de computadores que precisam ser instalados e configurados, além de necessitar também, de manutenção preventiva e corretiva.
-
-Também, visa integrar ensino médio e formação técnica, propiciando uma formação humana e integral em que o objetivo profissionalizante não tenha uma finalidade em si, seja orientado pelos interesses do mundo do trabalho, mas se constitui em uma possibilidade para a construção dos projetos de vida dos estudantes.
-
-## **3.2.1 Construção Coletiva do Curso**
-
-O processo de construção da adequação do PPC do Curso Técnico em Informática ocorreu de maneira coletiva em resposta a solicitação do Despacho N° 23411.002734/201662. Em reunião do colegiado do curso, realizada em 19 de setembro de 2016, foi designado um grupo de professores, técnicos e representantes discentes para compor a Comissão de Ajuste do Projeto Pedagógico (CAJ), em acordo com a Instrução Interna de Procedimentos (IIP) PROENS/IFPR Nº 1 de 22 de junho de 2016. Posteriormente, em reunião do CAJ realizada em 26 de setembro de 2016, resolveu-se abrir as reuniões desta comissão para todos os docentes interessados em participar.
-
-A comissão ficou responsável pela realização das adequações sugeridas no despacho acima mencionado, assim como levantamentos, justificativas e alterações necessárias ao melhor andamento do curso, tendo como foco o aprimoramento do processo de ensinoaprendizagem. Todas as propostas de ajustes do PPC encaminhadas pela Comissão foram apresentadas para aprovação do Colegiado do Curso Técnico em Informática.
-
-## 3.3  FINALIDADES E OBJETIVOS DO CURSO
-
-A proposta deste projeto tem como base o parágrafo 2°, do artigo 1° da Lei de Diretrizes e Bases da Educação Nacional (LDB), que diz: “A educação escolar deverá vincular-se ao mundo do trabalho e à prática social” (BRASIL, 1996) e busca concretizar todas as finalidades gerais previstas no artigo 35 da mesma lei, que preconiza para o ensino médio brasileiro:
-
-1. A consolidação e o aprofundamento dos conhecimentos adquiridos no ensino fundamental, possibilitando o prosseguimento de estudos;
-
-2. A preparação básica para o trabalho e a cidadania do educando, para continuar aprendendo, de modo a ser capaz de se adaptar com flexibilidade a novas condições
-
-9
-
-INSTITUTOFEDERAL PARANA
-
-Ministerio da Educacao<br>InstitutoFederal doParana<br>
-
-de ocupação ou aperfeiçoamento posteriores;
-
-3. O aprimoramento do educando como pessoa humana, incluindo a formação ética e o desenvolvimento da autonomia intelectual e do pensamento crítico;
-
-4. A compreensão dos fundamentos científico-tecnológicos dos processos produtivos, relacionando a teoria com a prática, no ensino de cada disciplina (BRASIL, 1996).
-
-## **3.3.1 Objetivo do Curso:**
-
-Formar profissionais-cidadãos técnicos de nível médio, com alto grau de responsabilidade social e que contemplem um novo perfil para atuar e gerenciar atividades de concepção, especificação, projeto, implementação, avaliação, armazenamento de informações, suporte e manutenção de sistemas de tecnologias de processamento e transmissão de dados e informações, incluindo hardware, software, aspectos organizacionais e humanos, visando a aplicação na produção de bens, serviços e conhecimentos.
-
-Garantir os direitos e objetivos de aprendizagens referentes à Educação Básica, fornecendo meios para avançar no trabalho e em estudos posteriores. Incluem-se a preparação básica para o trabalho e a cidadania do educando, a serem desenvolvidas por um currículo que destaca a educação tecnológica básica, a compreensão do significado das ciências e sua contribuição para a vida real, das letras e das artes; o processo histórico de transformação da sociedade e da cultura; a língua portuguesa como instrumento de socialização e comunicação, acesso ao conhecimento, a pesquisa e, por fim, o exercício da cidadania.
-
-## 3.4 PERFIL PROFISSIONAL DE CONCLUSÃO
-
-No Ensino Médio Integrado em Informática o estudante deverá estar preparado para desempenhar ativa e solidariamente a sua cidadania, dar continuidade a seus estudos em diferentes níveis e atuar no mundo do trabalho, demonstrando que é apto de:
-
-- Comparar linguagens, compreender a língua materna como geradora de significação para a realidade, de uma organização de mundo e da própria identidade, utilizando eficazmente procedimentos de análise textual;
-
-- Dominar os componentes estruturais das diversas linguagens e seus arranjos possíveis, compreendendo criticamente a diversidade das linguagens entender que o significado de um diálogo se constrói à medida que esse diálogo vai-se engendrando entre dois ou mais indivíduos exige a compreensão e a aplicação de conceitos como
-
-10
-
-## INSTITUTOFEDERAL PARANA
-
-## Ministerio da Educacao InstitutoFederal doParana
-
-língua falada, língua escrita e interlocução;
-
-- Compreender símbolos, códigos e nomenclatura da linguagem científica, seja na forma escrita ou oral, analisando e argumentando criticamente em relação a temas de ciência e tecnologia;
-
-- Identificar fenômenos naturais ou grandezas em dado domínio do conhecimento científico e estabelecer relações, identificar regularidades, invariantes e transformações, compreendendo a utilização de modelos explicativos para fenômenos ou sistemas naturais ou tecnológicos;
-
-- Articular, integrar e sistematizar fenômenos e teorias dentro de uma ciência, entre as várias ciências e áreas de conhecimento, compreendendo o conhecimento científico e o tecnológico como resultados de uma construção humana, inseridos em um processo histórico e social;
-
-- Compreender o desenvolvimento tecnológico contemporâneo, suas relações com as ciências, seu papel na vida humana, sua presença no mundo cotidiano e seus impactos na vida social;
-
-- Compreender o caráter ético do conhecimento científico e tecnológico e utilizar esses conhecimentos no exercício da cidadania;
-
-- Compreender os elementos cognitivos, afetivos, sociais e culturais que constituem a identidade própria e a dos outros;
-
-- Compreender a sociedade, sua gênese, sua transformação e os múltiplos fatores que nela intervêm, como produtos da ação humana; a si mesmo como agente social; e os processos sociais como orientadores da dinâmica dos diferentes grupos de indivíduos;
-
-- Entender os princípios das tecnologias associadas ao conhecimento do indivíduo, da sociedade e da cultura, entre as quais as de planejamento, organização, gestão, trabalho de equipe, e associá-las aos problemas que se propõem resolver;
-
-- Compreender o desenvolvimento da sociedade como processo de ocupação de espaços físicos e das relações da vida humana com a paisagem, em seus desdobramentos políticos, culturais, econômicos e humanos;
-
-- Compreender a produção e o papel histórico das instituições sociais, políticas e econômicas, associando-as às práticas dos diferentes grupos e atores sociais, aos princípios que regulam a convivência em sociedade, aos direitos e deveres da cidadania, à justiça e à distribuição dos benefícios econômicos;
-
-- Traduzir os conhecimentos sobre a pessoa, a sociedade, a economia, as práticas sociais e culturais em condutas de indagação, análise, problematização e protagonismo diante de situações novas, problemas ou questões da vida pessoal, social, política,
-
-11
-
-## INSTITUTOFEDERAL PARANA
-
-Ministerio da Educacao<br>InstitutoFederal doParana<br>
-
-econômica e cultural;
-
-- Entender o impacto das tecnologias associadas às Ciências Humanas sobre sua vida pessoal, os processos de produção, o desenvolvimento do conhecimento e a vida social;
-
-- Entender a importância das tecnologias contemporâneas de comunicação e informação para planejamento, gestão, organização e fortalecimento do trabalho de equipe;
-
-- Reconhecer e compreender as diferentes arquiteturas de computadores, seus componentes e acessórios;
-
-- Identificar as necessidades de uma organização e avaliar quais os softwares aplicativos e utilitários aderentes às necessidades avaliadas;
-
-- Compreender os serviços e funções dos sistemas operacionais;
-
-- Compreender as funções dos ativos de uma rede de computadores, bem como os meios físicos e softwares de controle desses ativos;
-
-- Conhecer e dominar os ambientes de desenvolvimento de software para as diversas tecnologias;
-
-- Conhecer os conceitos, tecnologias e ferramentas inerentes às soluções baseadas em Banco de Dados, bem como, as metodologias, áreas e atividades que envolvem a Gestão de Projetos de Software;
-
-- Dominar as etapas que compreendem a Engenharia de Software, compreendendo os conceitos e técnicas que envolvem a Qualidade de Software.
-
-## 3.5 AVALIAÇÃO DA APRENDIZAGEM
-
-A avaliação é entendida como um dos aspectos do ensino pelo qual o professor estuda e interpreta os dados da aprendizagem e de seu próprio trabalho, com as finalidades de acompanhar e aperfeiçoar o processo de aprendizagem dos alunos, bem como diagnosticar seus resultados e desempenho, em diferentes situações de aprendizagem.
-
-Em acordo com a Lei de Diretrizes e Bases da Educação, preponderarão os aspectos qualitativos da aprendizagem, considerando a transdisciplinaridade dos conteúdos, com relevância à atividade crítica, à capacidade de síntese e à elaboração sobre a memorização, num processo de avaliação contínua, permanente e cumulativa.
-
-O processo de avaliação é permeado de várias conotações e intenções no cotidiano das pessoas e faculta múltiplas possibilidades e contribuições na efetivação do processo de ensino e aprendizagem. Para avaliar, há que sempre considerar: o que está sendo avaliado, como está sendo avaliado, porquê e para que está sendo avaliado. Da mesma maneira há que
-
-12
-
-Ministerio da Educacao InstitutoFederal doParana
-
-INSTITUTOFEDERAL PARANA
-
-se ter a clareza de que a avaliação envolve: os docentes, a instituição, o discente, a sociedade. Sendo um processo dinâmico ele não acontece em um vazio e nem de forma estanque. Nessa concepção, o aluno é agente ativo do seu processo educativo.
-
-A avaliação da aprendizagem não tem como objetivo punir ou cobrar, mas levar o estudante a desenvolver o autoconhecimento e a tomada de decisão. Ela tem a finalidade de aperfeiçoamento da aprendizagem ao alcance de resultados positivos, pois permite a construção e reconstrução em um movimento de aprender/avaliar/reaprender. Com isso, contribui ao sucessivo aprimoramento do aluno e do docente para a prática profissional e vida cotidiana.
-
-O Curso Técnico em Informática integrado ao Ensino Médio, segue a Portaria nº 120/2009 que “estabelece os Critérios de Avaliação do Processo Ensino Aprendizagem do IFPR”. Desta forma, os estudantes do curso serão avaliados de forma processual considerando as competências observadas no desempenho das ações estabelecidas nesse currículo. Os métodos de avaliação deverão ser selecionados para o tipo de desempenho a avaliar: utilizando mais de um recurso (mesclar métodos) para ampliar as condições de inferência da competência do aluno; e, métodos holísticos ou integrados (combinação de conhecimento, compreensão, resolução de problemas, habilidades técnicas, atitudes e ética).
-
-Para atender ao proposto os professores lançarão mão dos instrumentos:
-
-- Seminários;
-
-- Trabalho individual e/ou em grupo;
-
-- Teste escrito e/ou oral;
-
-- Demonstração de técnicas;
-
-- Auto avaliação;
-
-- Projetos de trabalho;
-
-- Oficinas de aprendizagem;
-
-- Entre outros instrumentos de acordo com a Portaria 120/2009 - IFPR.
-
-Os resultados obtidos no processo de avaliação serão emitidos por área curricular, devendo ser expressos por conceitos, sendo:
-
-- **Conceito A** – quando a aprendizagem do aluno foi plena e atingiu os objetivos propostos;
-
-- **Conceito B** – quando a aprendizagem do aluno foi parcialmente plena e atingiu níveis desejáveis aos objetivos propostos;
-
-- **Conceito C** – quando a aprendizagem do aluno foi suficiente e atingiu níveis aceitáveis aos objetivos propostos, sem comprometimento à continuidade; e,
-
-- **Conceito D** – quando a aprendizagem do aluno foi insuficiente e não atingiu os
-
-13
-
-Ministerio da Educacao InstitutoFederal doParana
-
-INSTITUTOFEDERAL PARANA
-
-objetivos propostos, comprometendo ou inviabilizando o desenvolvimento dos processos de ensino e aprendizagem.
-
-Os critérios norteadores do processo de avaliação de ensino-aprendizagem:
-
-- Identificação do problema: atividade em que o aluno toma conhecimento do problema analisa e conclui quanto ao que está solicitado, quanto ao que é necessário fazer para a sua superação;
-
-- Elaboração de hipóteses: após análise da situação, o aluno formula caminhos possíveis para a solução pretendida;
-
-- Encaminhamento de soluções: a partir das hipóteses formuladas e dos seus ensaios, concluir sobre a solução que pareça mais adequada;
-
-- Comunicação escrita e/ou oral: habilidade discente de articulação, fundamentação, clareza e objetividade de ideias;
-
-- Interesse/dedicação: atitude discente primeira e indispensável para o aluno que tem a intenção de construir um conhecimento determinado;
-
-- Indicadores da dedicação: atenção e/ou concentração e esforço para acompanhar as atividades de aula, esclarecendo dúvidas, complementando, exemplificando...
-
-- Participação: conduta discente ativa, como sujeito de reconstrução do conhecimento;
-
-- Indicadores da participação: registro das ideias desenvolvidas e/ou cumprimento das tarefas e/ou intervenções deduzidas e/ou questionamentos fundamentos;
-
-- Pontualidade: atitude discente reveladora de compromisso com as responsabilidades escolares;
-
-- Indicadores da Pontualidade: cumprimento dos horários e/ou tarefas propostas;
-
-- Solidariedade: conduta discente de atenção ao próximo e de preocupação coletiva, socialização de informações experiências e conhecimentos que possam beneficiar o grupo;
-
-- Indicadores da solidariedade: disposição de partilhar conhecimentos já construídos e/ou disposição de acompanhar e orientar o desempenho escolar do companheiro.
-
-São requisitos para aprovação em aulas práticas e estágios:
-
-- Obtenção dos conceitos A, B e C, no conjunto das atividades definidas no Plano de Ensino;
-
-- De acordo com a Resolução n° 54/2011, artigo em seu artigo 73: _é obrigatória a frequência mínima de 75% (setenta e cinco por cento) da carga horária total do período letivo._
-
-14
-
-INSTITUTOFEDERAL PARANA
-
-Ministerio da Educacao<br>InstitutoFederal doParana<br>
-
-O aluno será considerado reprovado quando não atingir o conceito igual ou superior a C e/ou frequência igual ou superior a 75% na disciplina curricular, ao final do período letivo, e ficará em dependência nessa disciplina, podendo avançar para a série seguinte desde que não ultrapasse 03 (três) disciplinas com reprovação. Em caso de haver mais que 03 (três) disciplinas com reprovação, o estudante será retido na série. O aluno cujo aproveitamento, em processos avaliativos, for insuficiente será submetido à recuperação de estudos durante o período letivo. Estes estudos de recuperação paralela ou retomada de conteúdos a todos os estudantes serão de responsabilidade do professor da disciplina.
-
-A recuperação paralela poderá se dar na forma de exercícios e atividades complementares, trabalhos e seminários que possibilitem o aprofundamento do estudante no assunto abordado, acompanhamento do docente em horário de contraturno ou outra forma que conduza o aluno à assimilação do conteúdo. Esta abordagem de recuperação evita que este processo se dê de forma acumulada na véspera de encerramento de períodos, o que normalmente ocasiona sobrecarga aos estudantes e professores.
-
-## 3.6 INSTALAÇÕES E EQUIPAMENTOS, RECURSOS TECNOLÓGICOS E BIBLIOTECA:
-
-O curso iniciou suas atividades em instalações provisórias, em 2015, que estão sendo cedidas pela Prefeitura Municipal de Colombo, conforme descrito abaixo:
-
-- 04 salas de aula;
-
-- 01 laboratório de informática;
-
-- 01 laboratório multidisciplinar;
-
-- 01 sala para robótica
-
-- 01 sala de arte;
-
-- 01 sala de professores
-
-- 01 quadra poliesportiva;
-
-- 01 biblioteca;
-
-- 01 sala administrativa.
-
-INSTITUTOFEDERAL<br>PARANA<br>
-
-Ministerio da Educacao<br>InstitutoFederal doParana<br>
-
-A previsão é que, a partir de 2019, o curso ser realizado em estrutura própria do Campus
-
-- de acordo com o projeto de reforma, apresentando capacidade para:
-
-   - Salas que atenderão as atividades didáticas, as quais serão integrados aos laboratórios de Química, Física, Biologia e Informática;
-
-   - Ambiente para Biblioteca;
-
-   - Ambiente para atividades desportivas;
-
-   - Ambiente para convivência;
-
-   - Ambientes administrativos como: secretaria acadêmica; sala de professores; sala das direções: geral, administrativa e planejamento, e de ensino, pesquisa e extensão; almoxarifado;
-
-   - Computadores para o laboratório de Informática;
-
-   - Materiais e equipamentos para laboratório multidisciplinar: biologia, química e física;
-
-   - Ambientes para atividades e projetos de integração multidisciplinar;
-
-   - Mobiliários para salas de aula, administrativo e convivência;
-
-   - Equipamentos para ambientes administrativos como computadores, impressoras;
-
-   - Equipamentos para adequação de rede de informática e telefonia.
-
-## **3.6.1 Equipamentos para atendimento de estudantes com necessidades educacionais especiais**
-
-Em relação aos equipamentos específicos para o atendimento dos estudantes com deficiências ou transtornos globais do desenvolvimento ou dificuldade de aprendizagem entendemos que o Campus Colombo, dentro de uma perspectiva inclusiva, tem como necessidade a obtenção de uma Sala de Recursos de caráter multifuncional – sala para o serviço de natureza pedagógica, conduzido por professor e por profissionais da área pedagógica, que suplementa  e complementa  o atendimento educacional realizado nas classes comuns. E a necessidade de mobiliários e materiais especializados, recursos pedagógicos e de acessibilidade, para oferecer apoio educacional complementar aos alunos com deficiência.
-
-16
-
-INSTITUTOFEDERAL PARANA
-
-Ministerio da Educacao<br>InstitutoFederaldoParana<br>
-
-Especificação dos itens da Sala de Recursos:
-
-## **Mobiliários**
-
-02 Mesas redondas 08 Cadeiras 01 Mesa para impressora 01 Armário 01 Quadro branco 02 Mesas para computador 02 Cadeiras
-
-## **Equipamentos**
-
-02 Microcomputadores 01 Laptop 01 Estabilizador 01 Scanner 01 Impressora laser 01 Impressora laser Colorida 01 TV
-
-## **Materiais Didático/Pedagógico**
-
-Software Comunicação Alternativa Conjunto de Jogos Pedagógicos Materiais adaptados para estudantes com Dislexia.
-
-## **A seguir a lista de equipamentos que o Campus possui:**
-
-Equipamentos do Campus Teclados para Baixa Visão Fones de Ouvidos com Microfone HEADSET
-
-17
-
-1 INSTITUTOFEDERAL PARANA
-
-Ministerio da Educacao<br>InstitutoFederaldoParana<br>
-
-## 3.7  PESSOAS ENVOLVIDAS
-
-Os servidores docentes atualmente no campus estão descritos no quadro abaixo:
-
-|**Nome**|**Maior titulação**|**Cargo**|**Regime de**<br>**Trabalho**|
-|---|---|---|---|
-|Ademir Luiz do Prado|Mestrado|Docente|Dedicação<br>exclusiva|
-|Alex de Oliveira Chaves|Ensino Médio|Técnico<br>Administrativo|Dedicação<br>exclusiva|
-|Alysson Ramos Artuso|Doutorado em Métodos<br>Numéricos|Docente|Dedicação<br>exclusiva|
-|Ariane Saldanha de Oliveira|Mestrado em Ciências<br>Biológicas|Docente|Dedicação<br>exclusiva|
-|Benito Eduardo Araujo Maeso|Mestrado em Filosofia|Docente|Dedicação<br>exclusiva|
-|Camila Carpanezzi La Pastina|Mestrado em Arte|Docente|Dedicação<br>exclusiva|
-|Caroline Mongruel Eleutério<br>dos Santos|Doutorado em<br>Engenharia de<br>Alimentos|Docente|Dedicação<br>exclusiva|
-|Cassandra Santiago Cardoso<br>Tavares Goes|Bacharel em Ciências<br>Contábeis|Técnico<br>administrativo|40 horas|
-|Ciro Bächtold|Mestrado em Gestão<br>Urbana|Docente<br>(Direçãogeral)|Dedicação<br>exclusiva|
-|Eduard Henry Lui|Mestrado em Educação|Docente|Dedicação<br>exclusiva|
-|Emílio Rudolfo Fey Neto|Mestrado em Informática|Docente|Dedicação<br>exclusiva|
-|Everton Barbosa Cardoso|Bacharel em Direito|Técnico<br>administrativo|Dedicação<br>exclusiva|
-|Gabriela Chicuta Ribeiro|Mestrado em Educação|Docente|Dedicação<br>exclusiva|
-|Gutemberg Angelo Bezerra|Ensino Médio Completo|Técnico<br>administrativo|40 horas|
-|Hermelinda Peixoto Pereira<br>Martins|Especialista em Gestão<br>Estratégica de<br>Qualidade e Especialista<br>em Informática na<br>Educação|Técnico<br>administrativo|40 horas|
-|Jefferson Adriano Brunelli|Licenciado em Letras|Técnico<br>administrativo|40 horas|
-|Joana J. Nagamato|Bacharel em<br>Administração|Técnico<br>administrativo|40 horas|
-|João Paulo Partala|Mestrado em Letras|Docente|Dedicação<br>exclusiva|
-
-18
-
-MinisteriodaEducacao InstitutoFederaldoParana
-
-INSTITUTOFEDERAL PARANA
-
-|INSTITUTOFEDERAL<br>PARANA||InstitutoFederaldoParana|InstitutoFederaldoParana|
-|---|---|---|---|
-|Julio Cesar Gonçalves da Silva|Mestrado em Ciência<br>Política|Docente|Dedicação<br>exclusiva|
-|Luciano Bonfanti|Bacharel em Ciências<br>Contábeis|Técnico<br>Administrativo<br>(Diretor<br>Administrativo)|40 horas|
-|Marcio Rodrigo Santos|Mestrado em Ciências<br>da Computação|Docente|Dedicação<br>exclusiva|
-|Marcos Antônio Barbosa|Mestrado em Educação|Docente|Dedicação<br>exclusiva|
-|Mariana do Amaral Rocha|Bacharel em<br>Comunicação Social|Técnico<br>administrativo|40 horas|
-|Marines dos Santos Silveira|Especialista|Técnico em<br>secretariado|Dedicação<br>exclusiva|
-|Mércia Freire Rocha Cordeiro<br>Machado|Doutorado em Educação|Docente<br>(Direção de<br>Ensino)|Dedicação<br>exclusiva|
-|Michele Rosset|Doutorado em Ciência<br>de Alimentos|Docente|Dedicação<br>exclusiva|
-|Mirele Carolina Werneque<br>Jacomel|Doutorado em Letras|Docente|Dedicação<br>exclusiva|
-|Patrícia Daniela Maciel|Doutorado em Educação|Técnico<br>administrativo|40 horas|
-|Priscila Célia Giacomassi|Mestrado em Letras|Docente|Dedicação<br>exclusiva|
-|Richard Jojima Nagamato|Mestrado em Tecnologia<br>Química|Docente|Dedicação<br>exclusiva|
-|Vagner Zamboni Berto|Mestrado em Geografia|Docente|Dedicação<br>exclusiva|
-|Vicente Estevam Sandeski|Doutorado em Filosofia|Docente|Dedicação<br>exclusiva|
-
-## **3.7.1 Lista de servidores técnico-administrativos a serem contratados por concurso público**
-
-|**Cargo**|**Nível**|
+|Quadro 1 - População ocupada segundo as atividades econômicas – 2010||
 |---|---|
-|Técnico de Laboratório|D|
-
-19
-
-INSTITUTOFEDERAL PARANA
-
-Ministerio da Educacao<br>InstitutoFederal doParana<br>
-
-## **3.8  DESCRIÇÃO DE DIPLOMAS E CERTIFICADOS A SEREM EXPEDIDOS**
-
-O estudante ao integralizar os estudos receberá o diploma de Técnico em Informática do Eixo Tecnológico Informação e Comunicação, e o histórico de conclusão do Ensino Médio.
-
-## **3.8.1 Critérios de aproveitamento de estudos anteriores**
-
-De acordo com a Lei de Diretrizes e Bases, n[o] 9.394/96, Art. 41, com a Resolução IFPR n° 54/2011 e a Resolução 01/2017 o curso subsidiará o Aproveitamento de Estudos dos estudantes validando o conhecimento adquirido dos mesmos na Educação Básica, na Educação Profissional e Tecnológica, inclusive no trabalho. Essa validação será realizada a partir de avaliações individuais em que serão gerados o reconhecimento e certificação para prosseguimento ou conclusão de estudos.
-
-## **3.8.2 Certificação de Reconhecimento de saberes anteriores**
-
-Em conformidade com o artigo 69 da Resolução 54/2011, “o conhecimento adquirido na educação profissional e tecnológica, inclusive no trabalho, poderá ser objeto de avaliação, reconhecimento e certificação para prosseguimento ou conclusão de estudos”.
-
-“Entende-se por certificação de conhecimentos anteriores a dispensa de frequência em componente curricular em que o estudante comprove domínio de conhecimento através da aprovação em avaliação” (Resolução n° 54/2011, art. 70), bem como, os procedimentos para avaliação e critérios de aplicação encontram-se descritos nos parágrafos do artigo 70 da Resolução 54/2011.
-
-## **3.9 ORGANIZAÇÃO CURRICULAR**
-
-De acordo com o documento orientador do Programa de Ensino Médio Inovador (MINISTÉRIO DA EDUCAÇÃO, 2011) a escola tem o desafio de sua própria recriação, pois tudo que a ela se propõe constitui-se como invenção, ou seja, os rituais escolares são invenções de um determinado contexto sociocultural em movimento.
-
-De acordo com as Diretrizes Curriculares Nacionais do Ensino Médio (2012):
-
-_Art. 13 - as unidades escolares devem orientar a definição de toda proposição curricular, fundamentada na seleção dos conhecimentos, componentes,_
-
-20
-
-Ministerio da Educacao InstitutoFederal doParana
-
-INSTITUTOFEDERAL PARANA
-
-_metodologias, tempos, espaços, arranjos alternativos e formas de avaliação, tendo presente:_
-
-_I - as dimensões do trabalho, da ciência, da tecnologia e da cultura como eixo integrador entre os conhecimentos de distintas naturezas, contextualizandoos em sua dimensão histórica e em relação ao contexto social contemporâneo;_
-
-_II - o trabalho como princípio educativo, para a compreensão do processo histórico de produção científica e tecnológica, desenvolvida e apropriada socialmente para a transformação das condições naturais da vida e a ampliação das capacidades, das potencialidades e dos sentidos humanos;_
-
-_III - a pesquisa como princípio pedagógico, possibilitando que o estudante possa ser protagonista na investigação e na busca de respostas em um processo autônomo de (re)construção de conhecimentos._
-
-_IV - os direitos humanos como princípio norteador, desenvolvendo-se sua educação de forma integrada, permeando todo o currículo, para promover o respeito a esses direitos e à convivência humana._
-
-_V - a sustentabilidade socioambiental como meta universal, desenvolvida como prática educativa integrada, contínua e permanente, e baseada na compreensão do necessário equilíbrio e respeito nas relações do ser humano com seu ambiente_ .
-
-Nesse sentido, entende-se que para atender a essa proposta de ensino devemos buscar trabalhar com a transdisciplinaridade, compreendendo-a como a busca do sentido da vida através de relações entre os diversos saberes numa democracia cognitiva, em que transpõe essas áreas de conhecimentos devido ao seu diálogo com as Ciências Exatas, Humanas, Artes e sua reconciliação com a experiência interior. Como o próprio prefixo já anuncia, “trans” diz respeito ao que está ao _mesmo tempo entre_ , _através_ e _além das disciplinas_ .
-
-O objetivo da transdisciplinaridade é a compreensão do mundo presente, para o qual um dos imperativos é a unidade do conhecimento. O conhecimento e o comportamento não são unidades dissociadas, pois,
-
-> [...] como é o mesmo aparelho neurocerebral que determina o conhecimento e o comportamento, os desenvolvimentos de um e de outro são interdependentes; todo o progresso da ação favorece o conhecimento, todo o progresso do conhecimento favorece a ação (MORIN, 2005, p. 248).
-
-INSTITUTOFEDERAL<br>PARANA<br>
-
-Ministerio da Educacao<br>InstitutoFederal doParana<br>
-
-Segundo Maturana (2001) a noção de viver-conhecer está diretamente vinculada ao modo de relacionar e de organizar-se na relação com o meio e com o outro. Para o autor, o aprender, o trabalhar, o brincar, fazem parte do mesmo fenômeno relacional do ser humano com seu espaço vital, assim, os espaços educativos constituem-se em fenômenos sociais que manifestam, com fundamento nas emoções, os pensamentos, os conceitos e os objetivos dos grupos sociais, em um processo histórico e relacional, criando realidades que nesta interação constante, recria sujeitos dela participantes.
-
-A visão transdisciplinar propõe uma realidade estruturada em múltiplos níveis e dimensões, em substituição à realidade unidimensional e com um único nível do pensamento clássico (NICOLESCU, 2005). Além disso, para o autor, o fato de possuir níveis diferenciados de realidade não quer dizer que esses níveis devam estar linearmente organizados. Passar de um nível a outro pode acontecer por meio de “saltos”, sem, necessariamente, ter que seguir uma hierarquia.
-
-Diante disso, a UNESCO (1998), publicou um relatório da Comissão Internacional sobre a Educação para o Vigésimo Primeiro Século, presidida por Jacques Delors, no qual foram destacados os quatro pilares necessários a um novo tipo de Educação: _aprender a conhecer, aprender a fazer, aprender a viver em conjunto e aprender a ser_ .
-
-A transdisciplinaridade pode estabelecer esses quatro pilares. Para Hernández (1998) a transdisciplinaridade representa uma concepção da pesquisa alicerçada em um marco de compreensão novo e compartilhado por várias disciplinas, que vem acompanhado por uma interpretação recíproca das epistemologias disciplinares. A cooperação, nesse caso, dirige-se para a resolução de problemas e se cria a transdisciplinaridade pela construção de um novo modelo de aproximação da realidade do fenômeno que é o objeto de estudo. O autor defende que levar em conta uma perspectiva transdisciplinar do saber na organização do currículo implica que os educandos possam aprender, entre outros assuntos, as seguintes estratégias de interpretação (Hernández,1998, p. 58):
-
-- Questionar toda forma de pensamento único, o que significa suspeitar e questionar a realidade com base em verdades estáveis e objetivas;
-
-- Reconhecer, diante de qualquer fenômeno que se estude, sua epistemologia, a realidade que retrata e as representações que nela influem;
-
-- Incorporar uma visão crítica que permita refletir sobre a quem beneficia essa visão dos fatos e a quem marginaliza;
-
-INSTITUTOFEDERAL<br>PARANA<br>
-
-Ministerio da Educacao<br>InstitutoFederal doParana<br>
-
-- Introduzir, diante do estudo do fenômeno, opiniões diferenciadas, de maneira que se perceba que a realidade se constrói a partir de pontos de vista diferentes e que alguns se impõem diante de outros, nem sempre pelo argumento, mas também pela força que os estabelece;
-
-Hernández (1998) ressalta que:
-
-[...] a transdisciplinaridade vinculada ao currículo integrado implica criar novos objetos de conhecimento para fazer do conhecimento algo ‘efetivo’ que permita continuar aprendendo e converta, de novo, a atividade do ensino numa aventura social e intelectual. Os projetos de trabalho podem servir como facilitadores dessa travessia (HERNÁNDEZ, 1998, p. 59).
-
-Pais (2002) afirma que o excesso de informação gera uma outra provocação: a de obtenção de dados primários para a aprendizagem. Nesse sentido, cresce a cada dia a necessidade de um novo desafio docente que é a competência de trabalhar com informações, ter capacidade para pesquisá-las, associá-las e aplicá-las às situações de interesse do sujeito do conhecimento. E, portanto, a Pedagogia de Projetos, também chamada de Projetos de Trabalho, pode contemplar esse desafio.
-
-De acordo com Hernández (1998), os projetos constituem um “lugar”, entendido em sua dimensão simbólica, que pode permitir:
-
-- Aproximar-se das identidades dos educandos e favorecer a construção da subjetividade, longe de um prisma paternalista, gerencial ou psicologista, o que implica considerar que a função da escola NÃO É apenas ensinar conteúdos, nem vincular a instrução com a aprendizagem;
-
-- Revisar a organização do currículo por disciplinas e a maneira de situá-lo no tempo e nos espaços escolares;
-
-- Levar em conta o que acontece fora da escola, nas transformações sociais e nos saberes, a enorme produção de informação que caracteriza a sociedade atual, e aprender a dialogar de uma maneira crítica com todos esses fenômenos.
-
-Os Projetos de Trabalho traduzem uma visão diferente do que seja conhecimento e currículo e representam uma outra maneira de organizar o trabalho. Caracterizam-se pela forma de abordar um determinado tema ou conhecimento, permitindo uma aproximação da identidade e das experiências dos alunos, e um vínculo dos conteúdos escolares entre si e com os conhecimentos e saberes produzidos no contexto social e cultural, assim como com problemas que dele surgem. Dessa forma, eles extrapolam os limites das áreas e conteúdos curriculares tradicionalmente trabalhados, uma vez que implicam o desenvolvimento de
-
-23
-
-INSTITUTOFEDERAL PARANA
-
-Ministerio da Educacao InstitutoFederal doParana
-
-atividades práticas, de estratégias de pesquisa, de busca e uso de diferentes fontes de informação, de sua ordenação, análise, interpretação e representação. Implicam igualmente atividades individuais, de grupos ou equipes e de turma(s), da escola, considerando os diferentes conteúdos trabalhados (atitudinais, procedimentos, conceituais), as necessidades e interesses dos alunos.
-
-Hernández (1998) define os projetos de trabalho não como uma metodologia, mas como uma concepção de ensino, uma maneira diferente de promover a compreensão dos alunos sobre os conhecimentos que circulam fora da escola e de ajudá-los a construir sua própria identidade. O trabalho por projetos requer mudanças na concepção de ensino e aprendizagem e, consequentemente, na postura do professor. O autor enfatiza ainda que o trabalho por projeto não deve ser visto como uma opção puramente metodológica, mas como uma maneira de repensar a função da escola.
-
-A Pedagogia de Projetos é um meio de trabalho pertinente ao processo de ensinoaprendizagem que se insere na educação, promovendo-a de maneira significativa e compartilhada, auxiliando na formação integral dos indivíduos permeado pelas diversas oportunidades de aprendizagem conceitual, atitudinal, procedimental para os mesmos. Os projetos de trabalho não se inserem apenas numa proposta de renovação de atividades, tornando-as criativas, e sim numa mudança de postura que exige o repensar da prática pedagógica, quebrando paradigmas já estabelecidos. Possibilita que os alunos, ao decidirem, opinarem, debaterem, construam sua autonomia e seu compromisso com o social, formandose como sujeitos culturais e cidadãos.
-
-Para tanto se faz necessário oportunizar situações em que os alunos participem intensamente na resolução das atividades e no processo de elaboração pessoal, em vez de se limitar a copiar e reproduzir automaticamente as instruções ou explicações dos professores. Segundo, Zaballa (1998) o aluno é convidado a buscar, descobrir, construir, criticar, comparar, dialogar, analisar, vivenciar o próprio processo de construção do conhecimento.
-
-Devido a pedagogia de projetos não ser um método para ser aplicado no contexto da escola, mas, sim, uma concepção de ensino, permite ao professor uma liberdade de ação que habitualmente não faz parte do seu cotidiano. O compromisso educacional do professor é justamente saber _o que, como, quando e por quê_ desenvolver determinadas ações pedagógicas. E para isso, é fundamental conhecer o processo de aprendizagem do estudante e ter clareza da sua intenciona.
-
-24
-
-INSTITUTOFEDERAL PARANA
-
-Ministerio da Educacao InstitutoFederal doParana
-
-Nesta proposta de organização curricular, seguiremos as orientações das Diretrizes Curriculares Nacionais do Ensino Médio para a Educação Profissional Técnica de Nível Médio. Será ofertado o curso de 3.332 horas, sendo divididas em 800 horas anuais em 200 dias letivos. Nesta proposta a distribuição da carga horária será organizada por disciplinas em que serão garantidos os componentes curriculares para a formação profissional dos estudantes, bem como, os componentes curriculares para a formação do ensino médio.
-
-Tem-se como proposta de ensino uma organização curricular que, apesar de trabalhar com disciplinas, visa o conhecimento integrado, ou seja, sem a dualidade propedêutico e profissional. Essa proposta será desenvolvida por projetos com temas ligados ao campo de formação e profissional dos estudantes. A organização curricular está dividida em 05 áreas: Linguagens Códigos e suas Tecnologias; Matemática e suas Tecnologias; Ciências da Natureza e suas Tecnologias; Ciências Humanas e suas Tecnologias; Ciências Humanas e suas Tecnologias; e Informação, Comunicação e suas Tecnologias. Para cada área são definidos as suas disciplinas e os objetivos de aprendizagem que possam alcançar as finalidades do ensino médio integrado.
-
-As aprendizagens serão organizadas pela pesquisa como princípio pedagógico, em que serão associados os objetivos de aprendizagem das disciplinas a metodologias em que os estudantes possam construir suas próprias aprendizagens.  As propostas didáticas serão voltadas à participação ativa do estudante no desenvolvimento de suas capacidades e na construção do seu conhecimento.
-
-Os projetos associados aos objetivos de aprendizagem valorizam as formas didáticas voltadas à participação ativa do estudante no desenvolvimento de suas capacidades e na construção do seu conhecimento. Os projetos, somados às atividades de investigação, de intervenção ou de aprendizagem, destacam-se como formas metodológicas fundamentais para que os objetivos curriculares previstos possam ser atingidos, bem como, o envolvimento do estudante nas atividades de pesquisa, intervenção ou aprendizagem promovem as capacidades e os conhecimentos necessários a tal atuação.
-
-O esquema abaixo demonstra o trabalho com projetos no processo ensinoaprendizagem.
-
-INSTITUTOFEDERAL<br>PARANA<br>
-
-MinisteriodaEducacao<br>InstitutoFederaldoParana<br>
-
-INTEAEASLS ALUNO<br>DOALUNG COMAREALLDADE<br>ENTREVTSTA<br>DESAITO ENVOLVE OBSERVACKO<br>INCENTIVA<br>ESTIMULA PROJETODEAPRENDIZAGEM<br>FESQUTSA PESGUISA<br>EXIGE<br>REVISXO<br>REESCRITA<br>APERFEICOAMENTO<br>
-
-**http://amandaedumontezano.blogspot.com.br/**
-
-Nesse sentido, as atividades, organizadas ou não em projetos, precisam garantir experiências reais e diversificadas que aproximem o aprendiz da sua realidade educacional, social, do mundo do trabalho e de si mesmo. Nelas, ele deverá vivenciar e experimentar o exercício e a ampliação de seus conhecimentos e de suas capacidades, estabelecendo continuamente relações entre ação e reflexão. O engajamento dos jovens só será efetivo se o desenvolvimento dos projetos e das atividades atender, realmente, às suas necessidades e aos interesses específicos, e valorizar suas experiências ao definir os problemas e realizar as ações exigidas (UNESCO, 2013). Os projetos são responsáveis pelo desenvolvimento dos objetivos mais amplos e mais complexos de cada disciplina.
-
-As Oficinas de Aprendizagem, segundo Miquelin (2008) são constituídas como estruturas flexíveis, em torno de um desafio central, contextualizado num tema, com modo de funcionamento semelhante a uma rede de significados. Essa rede não prioriza disciplinas, mas, sim, a natureza de um problema que na verdade é interdisciplinar e real, sem caráter artificial. Sendo uma rede, leva os sujeitos a criarem e interpretarem múltiplas soluções e não a encontrarem uma solução predeterminada, pois a questão que possui uma única e determinada resposta não constitui um problema. Morin (2003) aponta que as realidades e os problemas delas são cada vez mais polidisciplinares, transversais, multidimensionais, transnacionais, globais e planetários. Portanto, não há como pensar individualmente, mas sim de forma global.
-
-26
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederaldoParana<br>
-
-Para Candau (1999, p.23) é a “construção coletiva de um saber, de análise da realidade, de confrontação e intercâmbio de experiências”, em que o saber não se constitui apenas no resultado final do processo de aprendizagem, mas também no processo de construção do conhecimento.
-
-Assim, desenvolve-se uma experiência de ensino e aprendizagem em que educadores e educandos constroem juntos o conhecimento num “... tempo-espaço para vivência, a reflexão, a conceitualização: como síntese do pensar, sentir e atuar. Como ‘o’ lugar para a participação, o aprendizado e a sistematização dos conhecimentos” (CANDAU, 1999, p.23).
-
-Enfim, as oficinas de aprendizagem são metodologia de ensino, no qual o professor é um facilitador, orientador e mediador do processo de aprendizagem, estimulando em sala de aula a vivência de situações semelhantes àquelas que os estudantes vão encontrar na vida real e no mundo do trabalho, mediante desafios de aprendizagem, construído coletivamente entre os professores. Os estudantes são responsáveis pelo seu processo de aprendizado, assumindo uma postura ativa e investigativa, construindo seu conhecimento em equipes de estudo e pesquisa (COLÉGIO SESI, 2011).
-
-Na figura a seguir, exemplo de uma proposta de oficina de aprendizagem para área de Linguagens (BARROS, 2013):
-
-Apresentacaoda situacao:sensibilizacaoaogeneroedelimitacaode um<br>contextodeproducao(equilibrio entre ogenero como objetosocial e<br>como objeto de ensino)<br>Producao inicial:avaliacao<br>diagnostica<br>Oficinas:desenvolvi- Oficinas: desenvol- Oficinas:desenvolvi-<br>mento de capacida- vimento de capaci- mento de capacidades<br>des de acao dades discursivas linguistico-discursivas<br>Producaofinal:trabalho de<br>revisoesereescritas<br>Fechamentodainteracao:os<br>textoschegam aseusdesti-<br>natarios<br>
-
-27
-
-INSTITUTOFEDERAL PARANA
-
-Ministerio da Educacao<br>InstitutoFederal doParana<br>
-
-Nesse sentido, os objetivos de aprendizagem serão desenvolvidos ao longo do curso e não, necessariamente, em cada série. O estudante é parte ativa do processo, considerando todas as suas características de aprendizagem, de emoção, de intervenção e modo de vida que apresenta enquanto ser humano. Isto posto, o professor tem um papel decisivo, sendo facilitador e orientador dessa aprendizagem, na busca de estratégias que permitam ao estudante aproveitar e participar de todas as fases do processo ensino-aprendizagem e, assim, a sua formação completa enquanto cidadão e profissional.
-
-28
-
-Ministerio da Educacao InstitutoFederaldoParana
-
-INSTITUTOFEDERAL PARANA
-
-## **3.9.1 Matriz Curricular**
-
-A matriz curricular do curso Técnico em Informática integrado ao Ensino Médio está estruturada em disciplinas, totalizando 3.324 horas/relógio e 4.000 horas/aulas, conforme segue:
-
-|**1º Ano**|**1º Ano**|**1º Ano**|**1º Ano**|**1º Ano**|
+|ATIVIDADES ECONÔMICAS(CNAE Domiciliar 2.0)|PESSOAS|
+|Agricultura,pecuária,produção florestal,pesca e aquicultura|2.785|
+|Indústrias extrativas|493|
+|Indústrias de transformação|14.496|
+|Eletricidade egás|309|
+|Água, esgoto, atividades degestão de resíduos e descontaminação|986|
+|Construção|12.445|
+|Comércio; Reparação de veículos automotores e motocicletas|20.980|
+|Transporte, armazenagem e correio|6.970|
+|Alojamento e alimentação|5.120|
+|Informação e comunicação|1.751|
+|Atividades financeiras, de seguros e serviços relacionados|1.007|
+|Atividades imobiliárias|475|
+|Atividadesprofissionais, científicas e técnicas|2.628|
+|Atividades administrativas e serviços complementares|6.650|
+|Administraçãopública, defesa e seguridade social|3.384|
+|Educação|4.295|
+|Saúde humana e serviços sociais|3.845|
+|Artes, cultura, esporte e recreação|1.274|
+|Outras atividades de serviços|3.714|
+|Serviços domésticos|9.602|
+|Atividades mal especificadas|6.450|
+|TOTAL|109.659|
+
+Observa-se, portanto, que há um público que procura por informações que possam ser úteis à sua organização. Este público interessa ao Curso Técnico em Informática Integrado, por tratar de conteúdos úteis ao microempreendedor e seus colaboradores. Estudos do Observatório Regional do IFPR sobre a participação do Emprego Formal em Colombo em 2015, apresenta a distribuição apresentada no Quadro 2.
+
+– Quadro 2 Participação do emprego formal em Colombo 2015.
+
+|Agropecuária|Indústria|Comércio|Serviços|Construção Civil|
 |---|---|---|---|---|
-|**Área**|**COMPONENTES CURRICULARES**|**Carga horária**<br>**(hora aula*)**|**Carga horária**<br>**Nº aulas**<br>**na**<br>**semana**|**Carga**<br>**Horária**<br>**(hora relógio)**|
-|Linguagens,<br>Códigos e<br>suas<br>Tecnologias|Arte I|40|1|33|
-||Educação Física I|40|1|33|
-||Língua Espanhola I|40|1|33|
-||Língua Inglesa I|40|1|33|
-||Língua Portuguesa e Literatura I|120|3|100|
-||**Subtotal**|**280**|**7**|**232**|
-|Ciências da<br>Natureza e<br>suas<br>Tecnologias|Biologia I|40|1|33|
-||Física I|80|2|67|
-||Química I|40|1|33|
-||**Subtotal**|**160**|**4**|**133**|
-|Ciências<br>Humanas e<br>suas<br>Tecnologias|Filosofia I|40|1|33|
-||Geografia I|80|2|67|
-||História I|40|1|33|
-||Sociologia I|40|1|33|
-||**Subtotal**|**200**|**5**|**166**|
-|Matemática e<br>suas<br>Tecnologias|Matemática I|120|3|100|
-||**Subtotal**|**120**|**3**|**100**|
-|Informação,<br>comunicação<br>e suas<br>Tecnologias|Algoritmos|80|2|67|
-||Linguagem de Programação|120|3|100|
-||Arquitetura e organização de<br>Computadores (AOC)|40|1|33|
-||**Subtotal**|**240**|**6**|**200**|
-|**TOTAL**||**TOTAL**<br>**1.000**|**25**|**831**|
+|2,0%|25,4%|27,4%|38,5%|6,7%|
+|Fonte: Observatório Regional do IFPR (2015).|||||
 
-29
+Considerando os campos de empregos formais oferecidos em Colombo e o percentual dos
 
-Ministerio da Educacao InstitutoFederaldoParana
+participantes identifica-se que o perfil do egresso do Curso Técnico em Informática, além de viabilizar a inserção de novos profissionais nestes segmentos, também contribuiria para a qualificação daqueles que já estão empregados no município e região. Observa-se que, segundo o IBGE (2015), em 2015 foram efetivadas no Município de Colombo 8.018 matrículas no ensino médio (Quadro 3), o que indica a quantidade de potenciais estudantes que podem se inscrever para o processo seletivo concorrendo a uma vaga no Curso Técnico em Informática Integrado ofertado pelo campus Colombo.
 
-INSTITUTOFEDERAL PARANA
+Quadro 3 - Matrículas em 2015 na rede escolar de Colombo
 
-|**2º Ano**|**2º Ano**|**2º Ano**|**2º Ano**|**2º Ano**|
-|---|---|---|---|---|
-|**Área**|**COMPONENTES CURRICULARES**|**Carga horária**<br>**(hora aula*)**|**Carga horária**<br>**Nº aulas**<br>**na**<br>**semana**|**Carga**<br>**Horária**<br>**(hora relógio)**|
-|Linguagens,<br>Códigos e<br>suas<br>Tecnologias|Arte II|40|1|33|
-||Educação Física II|40|1|33|
-||Língua Espanhola II|40|1|33|
-||Língua Inglesa II|40|1|33|
-||Língua Portuguesa e Literatura II|120|3|100|
-||**Subtotal**|**280**|**7**|**232**|
-|Ciências da<br>Natureza e<br>suas<br>Tecnologias|Biologia II|80|2|67|
-||Física II|40|1|33|
-||Química II|40|1|33|
-||**Subtotal**|**160**|**4**|**133**|
-|Ciências<br>Humanas e<br>suas<br>Tecnologias|Filosofia II|40|1|33|
-||Geografia II|40|1|33|
-||História II|80|2|67|
-||Sociologia II|40|1|33|
-||**Subtotal**|**200**|**5**|**166**|
-|Matemática e<br>suas<br>Tecnologias|Matemática II|120|3|100|
-||**Subtotal**|**120**|**3**|**100**|
-|Informação,<br>comunicação<br>e suas<br>Tecnologias|Engenharia de Software I|40|1|33|
-||Introdução a programação orientada<br>a objetos|120|3|100|
-||Banco de Dados|80|2|67|
-||**Subtotal**|**240**|**6**|**200**|
-|**TOTAL**||**TOTAL**<br>**1.000**|**25**|**831**|
-
-30
-
-Ministerio da Educacao InstitutoFederal doParana
-
-INSTITUTOFEDERAL PARANA
-
-## **3º Ano**
-
-|**3º Ano**|**3º Ano**|**3º Ano**|**3º Ano**|**3º Ano**|
-|---|---|---|---|---|
-|**Área**|**COMPONENTES CURRICULARES**|**Carga horária**<br>**(hora aula*)**|**Carga horária**<br>**Nº aulas**<br>**na**<br>**semana**|**Carga**<br>**Horária**<br>**(hora relógio)**|
-|Linguagens,<br>Códigos e<br>suas<br>Tecnologias|Educação Física III|40|1|33|
-||Arte III|40|1|33|
-||Língua Portuguesa e Literatura III|120|3|100|
-||**Subtotal**|**200**|**5**|**166**|
-|Ciências da<br>Natureza e<br>suas<br>Tecnologias|Biologia III|40|1|33|
-||Física III|80|2|67|
-||Química III|40|1|33|
-||**Subtotal**|**160**|**4**|**133**|
-|Ciências<br>Humanas e<br>suas<br>Tecnologias|Filosofia III|40|1|33|
-||Geografia III|40|1|33|
-||História III|40|1|33|
-||Sociologia III|40|1|33|
-||**Subtotal**|**160**|**4**|**132**|
-|Matemática e<br>suas<br>Tecnologias|Matemática III|120|3|100|
-||**Subtotal**|**120**|**3**|**100**|
-|Informação,<br>comunicação<br>e suas<br>Tecnologias|Introdução a rede de computadores|80|2|67|
-||Tópicos avançados de informática|40|1|33|
-||Desenvolvimento Web|160|4|133|
-||Engenharia de Software II|80|2|67|
-||**Subtotal**|**360**|**9**|**300**|
-|**TOTAL**||**TOTAL**<br>**1000**|**25**|**831**|
-
-31
-
-Ministerio da Educacao InstitutoFederaldoParana
-
-INSTITUTOFEDERAL PARANA
-
-## **4º Ano**
-
-|**4º Ano**|**4º Ano**|**4º Ano**|**4º Ano**|**4º Ano**|
-|---|---|---|---|---|
-|**Área**|**COMPONENTES CURRICULARES**|**Carga horária**<br>**(hora aula*)**|**Carga horária**<br>**Nº aulas**<br>**na**<br>**semana**|**Carga**<br>**Horária**<br>**(hora relógio)**|
-|Linguagens,<br>Códigos e<br>suas<br>Tecnologias|Arte IV|40|1|33|
-||Educação Física IV|40|1|33|
-||Língua Portuguesa e Literatura IV|120|3|100|
-||**Subtotal**|**200**|**5**|**166**|
-|Ciências da<br>Natureza e<br>suas<br>Tecnologias|Biologia IV|40|1|33|
-||Física IV|40|1|33|
-||Química IV|80|2|67|
-||**Subtotal**|**160**|**4**|**133**|
-|Ciências<br>Humanas e<br>suas<br>Tecnologias|Filosofia IV|40|1|33|
-||Geografia IV|40|1|33|
-||História IV|40|1|33|
-||Sociologia IV|40|1|33|
-||**Subtotal**|**160**|**4**|**132**|
-|Matemática e<br>suas<br>Tecnologias|Matemática IV|120|3|100|
-||**Subtotal**|**120**|**3**|**100**|
-|Informação,<br>comunicação<br>e suas<br>Tecnologias|Empreendedorismo|80|2|67|
-||Desenvolvimento de dispositivos<br>móveis|120|3|100|
-||Metodologia Científica|40|1|33|
-||Projeto e desenvolvimento de<br>software|120|3|100|
-||**Subtotal**|**360**|**9**|**300**|
-|**TOTAL**||**TOTAL**<br>**1000**|**25**|**831**|
-
-INSTITUTOFEDERAL<br>PARANA<br>
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-Quadro da carga horária em horas aulas e horas relógio:
-
-|**PANORAMA GERAL DO CURSO EM HORAS**|**PANORAMA GERAL DO CURSO EM HORAS**|**PANORAMA GERAL DO CURSO EM HORAS**|**PANORAMA GERAL DO CURSO EM HORAS**|**PANORAMA GERAL DO CURSO EM HORAS**|**PANORAMA GERAL DO CURSO EM HORAS**|**PANORAMA GERAL DO CURSO EM HORAS**|**PANORAMA GERAL DO CURSO EM HORAS**|**PANORAMA GERAL DO CURSO EM HORAS**|**PANORAMA GERAL DO CURSO EM HORAS**|
-|---|---|---|---|---|---|---|---|---|---|
-|**1º ANO**||**2º ANO**||**3º ANO**||**4º ANO**||**TOTAL**||
-|hora/aula|hora/rel|hora/aula|hora/rel|hora/aula|hora/rel.|hora/aula|hora/rel.|hora/aula|hora/rel.|
-|1000|831|1000|831|1000|831|1000|831|**4000**|**3324**|
-
-Quadro da carga horária em horas aulas e horas relógio das disciplinas técnicas:
-
-|**DISCIPLINAS TÉCNICAS**|**DISCIPLINAS TÉCNICAS**|**DISCIPLINAS TÉCNICAS**|**DISCIPLINAS TÉCNICAS**|**DISCIPLINAS TÉCNICAS**|**DISCIPLINAS TÉCNICAS**|**DISCIPLINAS TÉCNICAS**|**DISCIPLINAS TÉCNICAS**|**DISCIPLINAS TÉCNICAS**|**DISCIPLINAS TÉCNICAS**|
-|---|---|---|---|---|---|---|---|---|---|
-|**1º ANO**||**2º ANO**||**3º ANO**||**4º ANO**||**TOTAL**||
-|hora/aula|hora/rel.|hora/aula|hora/rel.|hora/aula|hora/rel.|hora/aula|hora/rel.|hora/aula|hora/rel.|
-|240|200|240|200|360|300|360|300|**1200**|**1000**|
-
-Para a concretização do ensino cada disciplina organizou um grupo de objetivos de aprendizagens em que estão previstas as orientações e as finalidades dos conteúdos a serem trabalhados. Eles são as previsões do que se quer atingir a partir do ensino. A especificação dos conhecimentos da formação crítica e profissional do que se espera que o aluno aprenda no decorrer de um tempo de sala de aula.
-
-Serão abordados os conteúdos referentes aos componentes das áreas de conhecimento, sendo: Língua Portuguesa; Língua Estrangeira Moderna; Arte, em suas diferentes linguagens: artes visuais, dança, música e teatro; Educação Física. Matemática; Biologia; Física; Química; História; Geografia; Filosofia; Sociologia (RESOLUÇÃO 02/2012 – CNE/CEB). Os conteúdos desses diversos componentes serão distribuídos durante o curso, de acordo com o planejamento e execução adotados pelos professores envolvidos no curso em cada ano letivo.
-
-Também serão abordados os temas obrigatórios em legislação, como:
-
-a) Língua Espanhola, de oferta obrigatória pelas unidades escolares, embora facultativa para o estudante, de acordo com a Lei no 11.161/2005;
-
-b) a Lei 10.639/2003 e 11.645/2008, as quais determinam que os conteúdos referentes à história e cultura afro-brasileira e dos povos indígenas brasileiros serão ministrados no âmbito de todo o currículo escolar, em especial em arte, literatura e história;
-
-c) educação alimentar e nutricional, conforme Lei no 11.947/2009, que dispõe sobre o
-
-33
-
-INSTITUTOFEDERAL PARANA
-
-Ministerio da Educacao<br>InstitutoFederal doParana<br>
-
-atendimento da alimentação escolar e do Programa Dinheiro Direto na Escola aos alunos da Educação Básica;
-
-d) processo de envelhecimento, respeito e valorização do idoso, conforme Lei no 10.741/2003, que dispõe sobre o Estatuto do Idoso;
-
-e) educação ambiental (Lei no 9.795/99, que dispõe sobre a Política Nacional de Educação Ambiental);
-
-f) educação para o trânsito, conforme Lei no 9.503/97, que institui o Código de Trânsito Brasileiro;
-
-g) educação em Direitos Humanos, conforme Decreto no 7.037/2009, que institui o Programa Nacional de Direitos Humanos (RESOLUÇÃO 02/2012 – CNE/CEB).
-
-h) Os filmes nacionais serão exibidos mensalmente de acordo (Lei nº 13.006/2014), que prevê no mínimo duas horas mensais. Serão exibidos nos horários alocados para os componentes curriculares regulares e projeto integrador.
-
-i) Os Temas Transversais serão trabalhados nas disciplinas e nos projetos, são eles: Prevenção de todas as formas de violência contra a criança e o adolescente (Lei nº 8.069/1990); 2) Segurança no Trânsito (Art. 74 a 76 da Lei nº 9.503/1997); 3) Educação Ambiental (Lei nº 9.795/1999; artigos 5º e 6º do Decreto nº 4.281/2002 e Res. CNE/CP nº 02/2012); 4) Processo de envelhecimento, respeito e valorização do idoso (artigo 22 da Lei nº 10.741/2003); 5) Educação em Direitos Humanos (Decreto nº 7.037/2009; Resolução CNE/CP nº 01/2012; Resolução CNE/CEB Nº 06/2012); 6) Educação alimentar e nutricional (Lei nº 11.947/2009 e Resolução CNE/CEB nº 02/2012).
-
-INSTITUTOFEDERAL<br>PARANA<br>
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **3.9.2 Ementas e objetivos de aprendizagem**
-
-||**Campus Colombo do IFPR**|**Campus Colombo do IFPR**||
-|---|---|---|---|
-|**Curso:**<br>Técnico em Informática<br>**Eixo tecnológico**||Informação e Comunicação||
-|**Componente curricular**|Língua Portuguesa e Literatura I|||
-|**Carga horária**<br>120 horas/aula|120 horas/aula<br>**Período letivo**||1ª Série|
-|**Ementa:**||||
-
-Linguagem, processos interativos e socioculturais da língua. Fundamentos da linguagem. Aspectos linguísticos da Língua Portuguesa. Introdução aos Estudos Literários. Produção e recepção de textos relacionados ao campo da Informática e dos meios digitais.
-
-## **Bibliografia básica:**
-
-ABAURRE Luiza M.; PONTARA, Marcela. _Gramática - texto: análise e construção de sentido_ . São Paulo: Moderna, 2010. ABAURRE Luiza M.; PONTARA, Marcela. _Literatura brasileira: tempos, leitores e leituras._ São Paulo: Moderna, 2010. ABAURRE Luiza M.; PONTARA, Marcela. _Produção de texto: interlocução e gêneros_ . São Paulo: Moderna, 2010.
-
-BOSI, Alfredo. _História concisa da literatura brasileira_ . 41. ed. São Paulo: Cultrix, 2003. CALVINO, Ítalo. _Por que ler os clássicos_ . São Paulo: Companhia das Letras, 2007. CANDIDO, Antonio. _Formação da literatura brasileira_ .15. ed. Rio de Janeiro: Ouro sobre Azul, 2014. CANDIDO, Antonio. _Literatura e Sociedade_ . 13. ed. Rio de Janeiro: Ouro sobre Azul, 2014. **Bibliografia complementar:**
-
-ANDRADE, Carlos Drummond de. _A rosa do povo_ . São Paulo: Cia. Das Letras, 2012. ANDRADE, Carlos Drummond de. _Sentimento do mundo_ . São Paulo: Cia. Das Letras, 2012. ASSIS, Machado de. _Várias histórias_ . São Paulo: Martin Claret, 2014. BAGNO Marcos. _Gramática, pra que te quero?_ Curitiba: Aymará, 2010. BANDEIRA, Manuel. _Antologia poética_ . 6. ed. São Paulo: Global Editora, 2013. BORGES, Assagra e Alda. _Leitura: o mundo além das palavras_ . Curitiba: Instituto RPC, 2010. BRAGA, Rubem. _200 crônicas escolhidas_ . 35. ed. Rio de Janeiro: Record, 2002. BUARQUE, Chico. _Leite derramado_ . São Paulo: Cia. Das Letras, 2009. DIAS, Gonçalves. _Juca Pirama_ , _Os timbiras, Outros Poemas_ . São Paulo: Martin Claret, 2002. FOLHA DE S. PAULO. _Manual da Redação da Folha de São Paulo_ . São Paulo: Publifolha, 2013. GOMES, Dias. _O pagador de promessas_ . São Paulo: Bertrand Brasil, 2003. LISPECTOR, Clarice. _Felicidade clandestina_ . Rio de Janeiro: Rocco, 1998. LOBATO, Monteiro. _Contos Completos_ . Rio de Janeiro: Biblioteca Azul, 2014. MATOS, Gregório de. _Poemas escolhidos_ . São Paulo: Cia. Das Letras, 2015. MEIRELES, Cecília. _Melhores poemas_ . 14. ed. São Paulo: Global Editora, 2014. MOISÉS, Massaud. _A literatura brasileira através dos textos_ . 29. ed. São Paulo: Cultrix, 2012.
-
-35
-
-Ministerioda Educacao InstitutoFederal doParana
-
-INSTITUTOFEDERAL PARANA
-
-## **Objetivos**
-
-|1.|Extrair informações relevantes de diferentes fontes, como textos, tabelas ou gráficos, interpretá-|
+|Matrículas nas séries|Quantidade de matrículas|
 |---|---|
-||las e relacioná-las;|
-|2. Fazer uso de modos de comunicação e de interação para aplicação e divulgação de|2. Fazer uso de modos de comunicação e de interação para aplicação e divulgação de|
-||conhecimentos científicos e tecnológicos, sabendo comunicar de forma escrita ou oral|
-||resultados e argumentos de base científica, sendo capaz de debater, respeitar opiniões e levar|
-||em conta argumentos contrários;|
-|3. Ter responsabilidade com prazos e realização de tarefas assumidas em atividades em grupo|3. Ter responsabilidade com prazos e realização de tarefas assumidas em atividades em grupo|
-||ou individuais, desenvolvendo o respeito, a proatividade, a empatia, o empreendedorismo e a|
-||criatividade;|
-|4. Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionar-se|4. Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionar-se|
-||quanto a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos,|
-||culturais, religiosos e de qualquer outra natureza;|
-|5. Identificar as diferentes Linguagens e seus recursos expressivos como elementos que|5. Identificar as diferentes Linguagens e seus recursos expressivos como elementos que|
-||caracterizam os sistemas de Comunicação;|
-|6. Reconhecer posições críticas aos usos sociais que são feitos das Linguagens e dos sistemas|6. Reconhecer posições críticas aos usos sociais que são feitos das Linguagens e dos sistemas|
-||de Comunicação e Informação;|
-|7. Analisar, interpretar e aplicar recursos expressivos das Linguagens, relacionando textos com|7. Analisar, interpretar e aplicar recursos expressivos das Linguagens, relacionando textos com|
-||seus contextos, mediante a natureza, função, organização, estrutura das manifestações, de|
-||acordo com as condições de produção e recepção;|
-|8. Estabelecer relações entre o texto literário e o momento de sua produção, situando aspectos|8. Estabelecer relações entre o texto literário e o momento de sua produção, situando aspectos|
-||do contexto histórico, social e político. Relacionar informações sobre concepções artísticas e|
-||procedimentos de construção do texto literário;|
-|9. Reconhecer a presença de valores sociais e anos atualizáveis e permanentes no patrimônio|9. Reconhecer a presença de valores sociais e anos atualizáveis e permanentes no patrimônio|
-||literário nacional;|
-|10. Compreender e usar os sistemas simbólicos das diferentes Linguagens como meios de|10. Compreender e usar os sistemas simbólicos das diferentes Linguagens como meios de|
-||organização cognitiva da realidade, pela constituição de significados, expressão, comunicação|
-||e informação;|
-|11. Identificar os elementos temáticos, a organização e estruturação de textos de diferentes|11. Identificar os elementos temáticos, a organização e estruturação de textos de diferentes|
-||gêneros e tipos, assim como a função da linguagem em situações, em suas especificidades;|
-|12. Reconhecer a importância do patrimônio linguístico para a preservação da memória e da|12. Reconhecer a importância do patrimônio linguístico para a preservação da memória e da|
-||identidade nacional;|
-|13. Confrontar opiniões e pontos de vista sobre as diferentes Linguagens e suas manifestações|13. Confrontar opiniões e pontos de vista sobre as diferentes Linguagens e suas manifestações|
-||específicas.|
+|Ensino fundamental|31.522|
+|Ensino médio|8.018|
+|Ensino pré-escolar|5.646|
 
-36
+Fonte: IBGE Cidades (2015).
 
-INSTITUTOFEDERAL PARANA
+Segundo o Núcleo Regional Estadual (NRE), Área Metropolitana Norte, da Secretaria Estadual de Educação do Paraná, em 2019 foram efetivadas no Município de Colombo 12.516 matrículas no Ensino Fundamental nas escolas da rede estadual de ensino. Destes, 2.885 estão matriculados no Ensino Fundamental II em 2019 conforme indica o Quadro 4.
 
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
+Quadro 4 - Matrículas em 2019 no Ensino Fundamental, em Colombo Fonte: Núcleo Regional Norte da SEED (2019)
 
-## **Campus Colombo do IFPR**
+Este total de matrículas indica a quantidade de potenciais estudantes que podem se inscrever para o processo seletivo concorrendo a uma vaga no Curso Técnico em Informática Integrado ofertado pelo campus Colombo.
 
-**Curso:** Técnico em Informática **Eixo tecnológico** Informação e Comunicação **Componente curricular** Língua Portuguesa e Literatura II **Carga horária** 120 horas/aula **Período letivo** 2ª Série
+Face aos fatores expostos acima, observa-se que a ampliação de cursos técnicos na forma integrada ao Ensino Médio ocorre em tempo e espaço  propícios às novas demandas de formação que a sociedade vem buscando, tanto para atender o desenvolvimento do mundo do trabalho, quanto para contextualizar os princípios formativos dos(as) estudantes em contextos que lhe despertam mais afeição.
 
-**Ementa:**
+Em outras palavras, o Ensino Médio integrado desperta interesse porque a formação é mais aplicada a uma profissão. Com essa perspectiva, analisamos os índices divulgados no site do Movimento Todos pela Educação (TPE), que apontam mais de 300 mil crianças e adolescentes fora da escola no Estado do Paraná, por inúmeros motivos, entre eles a inflexibilidade curricular e a repetência. A mesma pesquisa mostra que 92,7% dos(as) estudantes brasileiros concluem o Ensino Médio sem saber matemática. Tal cenário deve ser objeto de análise, pois os cursos técnicos integrados ao Ensino Médio apresentam um currículo diferente, com vieses mais aplicados à realidade do sujeito e a uma futura profissão.
 
-Aspectos socioculturais da Língua Portuguesa. Gêneros textuais relacionados ao campo da Informática e dos meios digitais. Gêneros textuais acadêmicos. Estruturas profundas e superficiais do texto. Interacionismo sociodiscursivo. Aspectos linguísticos da Língua Portuguesa. Produção e recepção de textos. A prosa na Literatura.
+Outro instrumento de pesquisa subsidiado pelo Estado do Paraná é o Programa de Mobilização para a Inclusão Escolar e a Valorização da Vida, subintitulado “Fica Comigo”. Este mostra que 56% dos(as) estudantes evadem no primeiro ano do Ensino Médio. 30% desses casos, aproximadamente, em razão de repetência ou defasagem idade/série (dados referentes ao ano de 2008).
 
-## **Bibliografia básica:**
+Portanto, é necessário ressignificar o papel da educação ofertada no  Ensino Médio – Estado do Paraná, pois vive-se um novo tempo, clivado por tecnologias e necessidades humanas que os formatos tradicionais não têm atendido com êxito. É a isso que se propõe o curso neste projeto apresentado, ofertar um curso que possibilite aos estudantes uma formação mais contextualizada, mais flexível a humana.
 
-ABAURRE Luiza M.; PONTARA, Marcela. _Gramática - texto: análise e construção de sentido_ . São Paulo: Moderna, 2010.
+Pensando na construção do Curso Técnico em Informática, no ano de 2017 houve um processo de ajuste curricular com o objetivo de alterar principalmente o modelo pedagógico apresentado no PPC de 2014, a metodologia por projetos. Devido à escassez de formação docente e a evidente falta de traquejo pedagógico, uma nova forma híbrida foi confeccionada, porém sem efetiva aplicação no processo ensino-aprendizagem.
 
-ABAURRE Luiza M.; PONTARA, Marcela. _Literatura brasileira: tempos, leitores e leituras._ São Paulo: Moderna, 2010. ABAURRE Luiza M.; PONTARA, Marcela. _Produção de texto: interlocução e gêneros_ . São Paulo: Moderna, 2010. BOSI, Alfredo. _História concisa da literatura brasileira_ . 41. ed. São Paulo: Cultrix, 2003. CALVINO, Ítalo. _Por que ler os clássicos_ . São Paulo: Companhia das Letras, 2007. CANDIDO, Antonio. _Formação da literatura brasileira_ .15. ed. Rio de Janeiro: Ouro sobre Azul, 2014. CANDIDO, Antonio. _Literatura e Sociedade_ . 13. ed. Rio de Janeiro: Ouro sobre Azul, 2014.
+Assim, já no ano de 2023, se fez necessária uma nova convocação para composição coletiva de um novo modelo de curso, trazendo modernização da proposta, dos componentes e ementários a fim de propor uma realidade mais promissora e tangível a nossos(as) estudantes.
 
-**Bibliografia complementar:** ALENCAR, José de. _Lucíola_ . São Paulo: Melhoramentos, 2012. AMADO, Jorge. _Capitães de areia_ . São Paulo: Cia. Das Letras, 2009. ANDRADE, Mario de. _Macunaíma_ . 2. ed. Rio de Janeiro: Nova Fronteira, 2013. ANDRADE, Oswald de. _A utopia antropofágica_ . Rio de Janeiro: Globo, 2011. ANDRADE, Oswald de. _Serafim Pontegrande_ . 9. ed. Rio de Janeiro: Globo, 2007. ASSIS, Machado de. _Várias histórias_ . São Paulo: Martin Claret, 2014. BAGNO Marcos. _Gramática, pra que te quero?_ Curitiba: Aymará, 2010. BARRETO, Lima. _Triste Fim de Policarpo Quaresma_ . São Paulo: Martin Claret, 1999. BORGES, Assagra e Alda. _Leitura: o mundo além das palavras_ . Curitiba: Instituto RPC, 2010. BRAGA, Rubem. _200 crônicas escolhidas_ . 35. ed. Rio de Janeiro: Record, 2002. BUARQUE, Chico. _Leite derramado_ . São Paulo: Cia. Das Letras, 2009. CAMINHA, Adolfo. _O bom crioulo_ . São Paulo: Atelie, 2014. CAMÕES, Luiz Vaz de. _Os Lusíadas_ . São Paulo: Martin Claret, 2000. CUNHA, Euclides da. _Os Sertões_ . Rio de Janeiro: Record, 2000. FOLHA DE S. PAULO. _Manual da Redação da Folha de São Paulo_ . São Paulo: Publifolha, 2013. GOMES, Dias. _O pagador de promessas_ . São Paulo: Bertrand Brasil, 2003. HATOUM, Milton. _Dois irmãos_ . São Paulo: Cia. Das Letras, 2006. LISPECTOR, Clarice. _A legião estrangeira_ . Rio de Janeiro: Rocco, 1999. LOBATO, Monteiro. _Contos Completos_ . Rio de Janeiro: Biblioteca Azul, 2014. LOBATO, Monteiro. _Urupês._ Rio de Janeiro: Globo: 2007. MIRANDA, Ana _. A última quimera_ . 2. ed. São Paulo: Cia. Das Letras, 2000. MOISÉS, .Massaud. _A literatura brasileira através dos textos_ . 29. ed. São Paulo: Cultrix, 2012.
+O atual documento visa a diminuição de componentes curriculares por período, a mudança de organização bimestral para trimestral, a implementação de organismos de integração, a alteração de formato de trabalho de conclusão de curso, de forma a melhorar a vida acadêmica dos(as) estudantes.
 
-37
+## **2 OBJETIVOS**
 
-INSTITUTOFEDERAL PARANA
+## 2.1 OBJETIVO GERAL
 
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
+Formar profissionais-cidadãos técnicos de nível médio, com alto grau de responsabilidade social e que contemplem um novo perfil para atuar e gerenciar atividades de concepção, especificação, projeto, implementação, avaliação, armazenamento de informações, suporte e manutenção de sistemas de tecnologias de processamento e transmissão de dados e informações, incluindo hardware, software, aspectos organizacionais e humanos, visando a aplicação na produção de bens, serviços e conhecimentos, de forma que a formação técnica,
 
-MOISÉS, Massaud. _Dicionário de Termos Literários_ . São Paulo: Cultrix, 2009. MORICONI, Ítalo. _Os cem melhores contos brasileiros do século_ . São Paulo: Objetiva, 2009. NASSAR, Raduan. _Lavoura arcaica_ . São Paulo: Companhia das Letras, 2014. PENA, Luís Carlos Martins. _Os dois ou o inglês maquinista_ . São Paulo: IBEP, 2009. PIÑON, Nélida. _Melhores contos_ . São Paulo: Global Editora, 2014. PRADO, Adélia. _Bagagem_ . Rio de Janeiro: Record, 2003. QUEIRÓZ, Raquel de. _O quinze_ . São Paulo: Ática, 2012.
+científica e profissional ocorra de maneira integrada à formação humana integral, humanista, democrática e cidadã.
 
-RAMOS, Graciliano. _São Bernardo_ . Rio de Janeiro: Record, 2003. RAMOS, Graciliano. _Vidas secas_ . 100. ed. Rio de Janeiro:  Record, 2006. SACONI, Luiz Antônio. _Novíssima gramática ilustrada_ . São Paulo: Nova geração, 2013. SANT'ANNA, Affonso Romano de. _Ler o mundo_ . São Paulo: Global, 2011.
+## 2.2 OBJETIVOS ESPECÍFICOS
 
-SANTOS, Joaquim Ferreira dos. _As cem melhores crônicas brasileiras_ . São Paulo: Objetiva, 2007. SARMENTO, Leila Lauar. _Gramática em textos_ **(** Vereda Digital). São Paulo: Moderna, 2012. SCHWARTZ, Gisele Maria. _Aventuras na natureza: consolidando significados_ . Fontoura, 2006. TELLES, Lygia Fagundes. _Seminário de ratos_ . São Paulo: Cia. Das Letras, 2008. VERÍSSIMO, Luís Fernando. _Comédias para se ler na escola_ . São Paulo: Objetiva, 2001.
+O curso tem como premissa o parágrafo 2°, do artigo 1° da Lei de Diretrizes e Bases da Educação Nacional (LDB), que diz: “A educação escolar deverá vincular-se ao mundo do trabalho e à prática social” (BRASIL, 1996) e busca concretizar todas as finalidades gerais propostas no artigo 35 da mesma lei, que preconiza para o ensino médio brasileiro:
 
-## **Objetivos**
+- A consolidação e o aprofundamento dos conhecimentos adquiridos no ensino fundamental, possibilitando o prosseguimento de estudos;
 
-1. Extrair informações relevantes de diferentes fontes, como textos, tabelas ou gráficos, interpretá-las e relacioná-las;
+- A preparação básica para o trabalho e a cidadania do educando, para continuar aprendendo, de modo a ser capaz de se adaptar com flexibilidade a novas condições de ocupação ou aperfeiçoamento posteriores;
 
-2. Fazer uso de modos de comunicação e de interação para aplicação e divulgação de conhecimentos científicos e tecnológicos, sabendo comunicar de forma escrita ou oral resultados e argumentos de base científica, sendo capaz de debater, respeitar opiniões e levar em conta argumentos contrários;
+- O aprimoramento do educando como pessoa humana, incluindo a formação ética e o desenvolvimento da autonomia intelectual e do pensamento crítico;
 
-3. Ter responsabilidade com prazos e realização de tarefas assumidas em atividades em grupo ou individuais, desenvolvendo o respeito, a proatividade, a empatia, o empreendedorismo e a criatividade;
+- A compreensão dos fundamentos científico-tecnológicos dos processos produtivos, relacionando a teoria com a prática, no ensino de cada componente curricular.
 
-4. Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionar-se quanto a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos, culturais, religiosos e de qualquer outra natureza;
+- Formar o cidadão crítico e reflexivo, preparado para o mundo do trabalho e para as práticas sociais;
 
-5. Identificar as diferentes Linguagens e seus recursos expressivos como elementos que caracterizam os sistemas de Comunicação;
+- Capacitar os(as) estudantes, a partir de conhecimentos científicos e tecnológicos, a desenvolver competências para atuar na área de pesquisa.
 
-6. Reconhecer posições críticas aos usos sociais que são feitos das Linguagens e dos sistemas de Comunicação e Informação;
+## **3 CONCEPÇÃO DO CURSO**
 
-7. Analisar, interpretar e aplicar recursos expressivos das Linguagens, relacionando textos com seus contextos, mediante a natureza, função, organização, estrutura das manifestações, de acordo com as condições de produção e recepção;
+Os pressupostos pedagógicos do curso têm como base o direito à educação escolar pública, descrito na Lei de Diretrizes e Bases, Lei n. 9.394/96, e estão ancorados nos princípios de liberdade e nos ideais de solidariedade humana, tendo por finalidade o pleno desenvolvimento do educando, seu preparo para o exercício da cidadania e sua qualificação para o trabalho.
 
-8. Estabelecer relações entre o texto literário e o momento de sua produção, situando aspectos do contexto histórico, social e político. Relacionar informações sobre concepções artísticas e procedimentos de construção do texto literário;
+Concebido e planejado para promover o desenvolvimento humano e a disseminação de conhecimentos relativos ao Eixo Informação e Comunicação, o Curso Técnico em Informática está ancorado nos princípios da educação inclusiva, que defende a igualdade de oportunidades e condições de acesso para todos, respeitados os limites administrativos e financeiros da Instituição. Trata-se de um projeto de curso que se alinha a um projeto de sociedade na qual todos sejam sujeitos de seus discursos e colaborem para o desenvolvimento social.
 
-9. Reconhecer a presença de valores sociais e anos atualizáveis e permanentes no patrimônio literário nacional;
+A natureza inclusiva desta proposta, que justifica a oferta de educação pública e de qualidade a todos que necessitam de formação profissional, científica e tecnológica. Inscrevese, portanto, num projeto de sociedade mais justa e democrática, com respeito às diferenças, valorização da diversidade e empenho pela sustentabilidade, valores humanos e éticos que o curso buscou projetar em sua organização curricular. A compreensão é a de que essa é a responsabilidade dos Institutos Federais, conforme orienta a Lei nº 11.892/2008. Ao alinhar-se aos propósitos institucionais, o Curso Técnico em Informática se propõe a formar profissionais para a sociedade, sendo a sua formação um instrumento de transformação das estruturas sociais e o canal através do qual perceberá as divisões econômicas e culturais. Assim como versa:
 
-10.Compreender e usar os sistemas simbólicos das diferentes Linguagens como meios de organização cognitiva da realidade, pela constituição de significados, expressão, comunicação e informação;
+A educação Profissional e Tecnológica, enquanto categoria de formação integral, pressupõe o desenvolvimento do sujeito, não podendo ficar sua formação restrita à dimensão lógico-formal ou às funções ocupacionais do trabalho. Pelo contrário, ela se
 
-- 11.Identificar os elementos temáticos, a organização e estruturação de textos de diferentes gêneros e tipos, assim como a função da linguagem em situações, em suas especificidades;
+dá na interface dos fatores psicossociais e cognitivos, que se desenvolvem através das dimensões pedagógicas das relações sociais e produtivas, com a finalidade de criar as condições necessárias a vida em sociedade (PDI/IFPR, 2019-2023, p. 223).
 
-- 12.Reconhecer a importância do patrimônio linguístico para a preservação da memória e da identidade nacional;
+Para cumprirmos a responsabilidade social de ofertar formação humanista e crítica, e contribuir para uma sociedade mais igualitária, é necessário ter em vista um profissional atento às demandas sociais, que compreenda os processos tecnológicos da sua área e saiba analisar os impactos sociais gerados a partir da sua produção. Também é fundamental que esse profissional desenvolva atitudes cidadãs aplicadas ao mundo do trabalho, compreendendo a importância do trabalho coletivo e do respeito ao ser humano. Portanto, na formação desse profissional devese configurar a preocupação com as novas subjetividades, para a análise de conjunturas, para os enfrentamentos e para o respeito, todos elementos que revelam os desafios sociais pelos quais os sujeitos passam, mais ou menos conscientes das transformações próprias da natureza e dos suportes tecnológicos. Tal movimento é necessário para que o sujeito, munido das técnicas de sua profissão, compreenda seu papel social e sua inserção nas relações sociais formais já estabelecidas. Neste contexto, entende-se que a educação formal contribui significativamente para a liberdade, para a formação cultural, para o desenvolvimento de capacidades intelectuais individuais e coletivas.
 
-- 13.Confrontar opiniões e pontos de vista sobre as diferentes Linguagens e suas manifestações específicas.
+O perfil do profissional que se almeja fundamenta-se na concepção de trabalho como o princípio educativo, categoria presente no documento que estabelece as diretrizes da educação profissional e tecnológica dos Institutos Federais, da mesma maneira que a pesquisa, a extensão e a inovação devem ser tratadas como processos formativos articulados ao trabalho. Isso demonstra que a concepção de educação pensada para os Institutos Federais surge de uma análise crítica da sociedade, baseada na realidade que o país enfrenta, sobretudo no interior do país. Por esse motivo, compreende-se a necessidade de se trabalhar a partir da pedagogia histórico-crítica, com base no método histórico e dialético de construção do conhecimento.
 
-38
+Assim, o trabalho deve ser o ponto de partida e chegada para observarmos e compreendermos as transformações da natureza e do homem. Segundo Schelesener (2013), a escola tem o papel de formar para e pelo trabalho, por isso deve possibilitar as condições de emancipação a partir do desenvolvimento do pensamento autônomo, identificando as possibilidades de compreensão do todo e as contradições na realidade social e política.
 
-INSTITUTOFEDERAL PARANA
+O desenvolvimento intelectual, no âmbito do método histórico e dialético, não se dá de modo isolado. É preciso compreender que o ser humano pensa e atua num tempo e espaço e, nessa relação com a natureza, é constantemente modificado em suas reações. Ao produzir mudanças no mundo, os aspectos culturais e tecnológicos absorvem as transformações e se ressignificam. Daí a necessidade de se compreender que toda ação educativa, que produz impacto na realidade, torna-se trabalho.
 
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
+A partir da noção de trabalho, educação, ciência, tecnologia e cultura, chegamos à compreensão de que o produto do trabalho é o fator que irá impactar na sociedade e, portanto, é necessário que a prática e a teoria sejam concebidas e planejadas de forma indissolúvel na formação do profissional, sendo essa articulação a ferramenta pedagógica que fundamentará sua visão mais integral da atividade profissional. Nesse sentido, Vásquez (1997) discorre sobre as capacidades humanas de ser espiritual e sensível, natural e humano, teórico e prático, objetivo e subjetivo, e, por isso, o ser humano em sua vivência é a própria expressão das práxis. Saviani (2008) estende seu pensamento ao de Vásquez e complementa afirmando que a prática se alimenta da teoria e a teoria deriva da prática. A práxis, nesse âmbito, orienta a formação curricular do Curso Técnico em Informática e imprime no perfil do profissional a concretude do processo formativo omnilateral.
 
-## **Campus Colombo do IFPR**
+Partimos do pressuposto de que a educação omnilateral abrange a formação e a emancipação em vários sentidos humanos. Que ela deve levar em consideração todos os lados ou dimensões que constituem as especificidades do ser humano. A formação omnilateral revela
 
-**Curso:** Técnico em Informática **Eixo tecnológico** Informação e Comunicação **Componente curricular** Língua Portuguesa e Literatura III **Carga horária** 120 horas/aula **Período letivo** 3ª Série
+ao sujeito a cultura e as relações de poder nela presentes, de modo que se reconheça as alienações construídas e dominantes. Todas as condições objetivas e subjetivas que envolvem a vida, como a cultura, intelectualidade, afetividade e estética. E que ela se desenvolve e se expressa não por uma essência abstrata, mas pelo processo formativo que cada um constrói individualmente a partir do trabalho e suas múltiplas relações (FRIGOTTO, 2010).
 
-**Ementa:**
+Conscientes da necessidade de formação humanista e crítica do indivíduo, entendemos a importância da análise dos impactos do capitalismo e da retórica liberal na produção do conhecimento, compreendemos o poder de exclusão resultante destes sistemas bem como sua precariedade para regular os direitos fundamentais. Silva (2015, p. 16) alerta para a importância de “identificar e tornar visível o processo pelo qual o discurso neoliberal produz e cria uma “realidade” que acaba por tornar impossível pensar e nominar uma outra “realidade”. Os conflitos da escola na formação do trabalhador atual, por vezes, oferecem um modelo de educação dualista e fragmentário. No âmbito mais amplo, o Curso Técnico em Informática visa a construção de um processo educativo que compreende e avalia a estrutura-econômica, o processo de produção, as mudanças tecnológicas, os processos de divisão do trabalho, a produção da força de trabalho a fim de definir os próprios objetivos e valores de formação profissional tendo como referência o ser humano, o ser social.
 
-Estruturas lexicais e sintáticas. Usos da Língua Portuguesa. Recursos expressivos e argumentativos do texto. A poesia na Literatura. Leitura crítica e receptividade de gêneros textuais acadêmicos e relacionados ao campo da Informática e dos meios digitais.
+Atentamos para o que Thomas Popkewitz denomina de “epistemologia social”, um conjunto de noções, categorias e expressões com os quais pensamos e percebemos a sociedade e o próprio processo pedagógico. O Curso Técnico em Informática ofertado pelo Campus Colombo apresenta e discute os discursos hegemônicos da modernização, globalização, privatizações e males da administração pública que, segundo Silva (2015) obscurecem a memória social, suprimem a educação pública, deslocam o discurso da igualdade e impossibilitam a participação coletiva. Assumimos a educação como um campo de produção de conhecimento e de vida baseado nas condições de existência, na história e no próprio ser humano. Reafirmamos o papel da educação em geral, da educação profissional e tecnológica e dos docentes na configuração da política pedagógica.
 
-**Bibliografia básica:** ABAURRE Luiza M.; PONTARA, Marcela. _Gramática - texto: análise e construção de sentido_ . São Paulo: Moderna, 2010. ABAURRE Luiza M.; PONTARA, Marcela. _Literatura brasileira: tempos, leitores e leituras._ São Paulo: Moderna, 2010. ABAURRE Luiza M.; PONTARA, Marcela. _Produção de texto: interlocução e gêneros_ . São Paulo: Moderna, 2010.
+No plano dos conteúdos, aprendizagem e saberes, o curso fundamenta- se na articulação dos conhecimentos − técnico, profissional e cultural. Nas relações entre trabalho e base científico-tecnológica, a prática pedagógica centra-se na reflexão das estruturas sociais, das relações humanas, da historicidade do conhecimento e do próprio desenvolvimento do ser humano. As práticas pedagógicas desenvolvidas neste curso de Ensino Profissional e Tecnológico tem como base a sistematização dos conhecimentos trazidos pelos(as) estudantes, a ressignificação destes conhecimentos e a compreensão da realidade e a apropriação dos signos e elementos que integram as relações entre as pessoas e o mundo (PDI/IFPR, 2019/2023).
 
-BOSI, Alfredo. _História concisa da literatura brasileira_ . 41. ed. São Paulo: Cultrix, 2003. CALVINO, Ítalo. _Por que ler os clássicos_ . São Paulo: Companhia das Letras, 2007. CANDIDO, Antonio. _Formação da literatura brasileira_ .15. ed. Rio de Janeiro: Ouro sobre Azul, 2014. CANDIDO, Antonio. _Literatura e Sociedade_ . 13. ed. Rio de Janeiro: Ouro sobre Azul, 2014.
+A concepção de conhecimento pressupõe a relação entre sujeito e objeto, entre quem observa, problematiza e atua/modifica o cotidiano, a si próprio e ao conhecimento adquirido. Decorre da compreensão da teoria dialética do conhecimento, das práxis do homem sobre o mundo e do mundo sobre ele, e da prática social como a fonte do conhecimento.
 
-**Bibliografia complementar:**
+Os processos pedagógicos são construídos no curso a partir das situações de aprendizagem que aproximem educação, ciência, trabalho, tecnologia e cultura e que produzam ação construtiva e criadora
 
-ANDRADE, Carlos Drummond de. _A rosa do povo_ . São Paulo: Cia. Das Letras, 2012. ANDRADE, Carlos Drummond de. _Claro enigma_ . São Paulo: Cia. Das Letras, 2012. ANDRADE, Carlos Drummond de. _Sentimento do mundo_ . São Paulo: Cia. Das Letras, 2012. ANDRADE, Oswald de. _A utopia antropofágica_ . Rio de Janeiro: Globo, 2011. BAGNO Marcos. _Gramática, pra que te quero?_ Curitiba: Aymará, 2010. BANDEIRA, Manuel. _Antologia poética_ . 6. ed. São Paulo: Global Editora, 2013. BORGES, Assagra e Alda. _Leitura: o mundo além das palavras_ . Curitiba: Instituto RPC, 2010. DIAS, Gonçalves. Juca Pirama, _Os timbiras, Outros Poemas_ . São Paulo: Martin Claret, 2002. FOLHA DE S. PAULO. _Manual da Redação da Folha de São Paulo_ . São Paulo: Publifolha, 2013. HILST, Hilda. _Contos d'escarnio / textos grotescos_ . Rio de Janeiro: Globo, 2002. HOMERO. _Iliada e Odisseia._ Rio de Janeiro: Nova Fronteira, 2015. MATOS, Gregório de. _Poemas escolhidos_ . São Paulo: Cia. Das Letras, 2015. MEIRELES, Cecília Meireles. _Romanceiro da inconfidência_ . Rio de Janeiro: Nova Fronteira, 2008. MEIRELES, Cecília. _Melhores poemas_ . 14. ed. São Paulo: Global Editora, 2014. MELO NETO, João Cabral de. _Morte e vida Severina._ Rio de Janeiro: Alfaguara, 2007. MOISÉS, .Massaud. _A literatura brasileira através dos textos_ . 29. ed. São Paulo: Cultrix, 2012. MOISÉS, Massaud. _Dicionário de Termos Literários_ . São Paulo: Cultrix, 2009. MORAES, Vinicius de. _Antologia Poética_ . São Paulo: Cia. Das Letras, 2009. MORICONI, Ítalo. _Os cem melhores poemas brasileiros do século_ . São Paulo: Objetiva, 2001. NERUDA, Pablo. _Antologia General_ . Rio de Janeiro: Alfaguara, 2010. QUINTANA, Mario. _Antologia Poética_ . Rio de Janeiro: Nova Fronteira, 2015. SACONI, Luiz Antônio. _Novíssima gramática ilustrada_ . São Paulo: Nova geração, 2013. SANT'ANNA, Affonso Romano de. _Ler o mundo_ . São Paulo: Global, 2011.
+“substituindo a certeza pelo questionamento, o engessamento pela flexibilidade, a recepção passiva pela atividade permanente na elaboração de novas sínteses que possibilitem a construção de novos aprendizados” (PDI/IFPR, 2019/2023, p. 42).
 
-39
+O trajeto pedagógico do curso, de acordo com o que foi apresentado, tem como referência teórico-metodológica a valorização da dimensão humana, socialização entre o conhecimento conjuntural e a biografia dos seres humanos trazidos nas suas histórias de vida. O currículo será um espaço de fala, conversa, diálogo e pensamento sobre os objetos, saberes diversos e a vida.
 
-1INSTITUTOFEDERAL PARANA
+Um espaço de criação coletiva, questionamento, ressignificações a partir da relação entre professor e estudante e de aprendizado.
 
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
+## **4 PERFIL DO EGRESSO**
 
-SARMENTO, Leila Lauar. _Gramática em textos_ **(** Vereda Digital). São Paulo: Moderna, 2012. SCHWARTZ, Gisele Maria. _Aventuras na natureza: consolidando significados_ . Fontoura, 2006.
+No Ensino Médio Integrado em Informática o(a) estudante deverá estar preparado para desempenhar ativa e solidariamente a sua cidadania, dar continuidade a seus estudos em diferentes níveis e atuar no mundo do trabalho, demonstrando que é apto para:
 
-## **Objetivos**
+● Comparar linguagens, compreender a língua materna como geradora de significação para a realidade, de uma organização de mundo e da própria identidade, utilizando eficazmente procedimentos de análise textual;
 
-1. Extrair informações relevantes de diferentes fontes, como textos, tabelas ou gráficos, interpretá-las e relacioná-las;
+● Dominar os componentes estruturais das diversas linguagens e seus arranjos possíveis, compreendendo criticamente a diversidade das linguagens entender que o significado de um diálogo se constrói à medida que esse diálogo vai-se engendrando entre dois ou mais indivíduos exige a compreensão e a aplicação de conceitos como língua falada, língua escrita e interlocução;
 
-2. Fazer uso de modos de comunicação e de interação para aplicação e divulgação de conhecimentos científicos e tecnológicos, sabendo comunicar de forma escrita ou oral resultados e argumentos de base científica, sendo capaz de debater, respeitar opiniões e levar em conta argumentos contrários;
+● Compreender símbolos, códigos e nomenclatura da linguagem científica, seja na forma escrita ou oral, analisando e argumentando criticamente em relação a temas de ciência e tecnologia;
 
-3. Ter responsabilidade com prazos e realização de tarefas assumidas em atividades em grupo ou individuais, desenvolvendo o respeito, a proatividade, a empatia, o empreendedorismo e a criatividade;
+● Identificar fenômenos naturais ou grandezas em dado domínio do conhecimento científico e estabelecer relações, identificar regularidades, invariantes e transformações, compreendendo a utilização de modelos explicativos para fenômenos ou sistemas naturais ou tecnológicos;
 
-4. Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionar-se quanto a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos, culturais, religiosos e de qualquer outra natureza;
+● Articular, integrar e sistematizar fenômenos e teorias dentro de uma ciência, entre as várias ciências e áreas de conhecimento, compreendendo o conhecimento científico e o tecnológico como resultados de uma construção humana, inseridos em um processo histórico e social;
 
-5. Identificar as diferentes Linguagens e seus recursos expressivos como elementos que caracterizam os sistemas de Comunicação;
+● Compreender o desenvolvimento tecnológico contemporâneo, suas relações com as ciências, seu papel na vida humana, sua presença no mundo cotidiano e seus impactos na vida social;
 
-6. Reconhecer posições críticas aos usos sociais que são feitos das Linguagens e dos sistemas de Comunicação e Informação;
+● Compreender o caráter ético do conhecimento científico e tecnológico e utilizar esses conhecimentos no exercício da cidadania;
 
-7. Analisar, interpretar e aplicar recursos expressivos das Linguagens, relacionando textos com seus contextos, mediante a natureza, função, organização, estrutura das manifestações, de acordo com as condições de produção e recepção;
+● Compreender os elementos cognitivos, afetivos, sociais e culturais que constituem a identidade própria e a dos outros;
 
-8. Estabelecer relações entre o texto literário e o momento de sua produção, situando aspectos do contexto histórico, social e político. Relacionar informações sobre concepções artísticas e procedimentos de construção do texto literário;
+● Compreender a sociedade, sua gênese, sua transformação e os múltiplos fatores que nela intervêm, como produtos da ação humana; a si mesmo como agente social; e os processos sociais como orientadores da dinâmica dos diferentes grupos de indivíduos;
 
-9. Reconhecer a presença de valores sociais e anos atualizáveis e permanentes no patrimônio literário nacional;
+● Entender os princípios das tecnologias associadas ao conhecimento do indivíduo, da sociedade e da cultura, entre as quais as de planejamento, organização, gestão, trabalho de equipe, e associá-las aos problemas que se propõem resolver;
 
-10. Compreender e usar os sistemas simbólicos das diferentes Linguagens como meios de organização cognitiva da realidade, pela constituição de significados, expressão, comunicação e informação;
+● Compreender o desenvolvimento da sociedade como processo de ocupação de espaços físicos e das relações da vida humana com a paisagem, em seus desdobramentos políticos, culturais, econômicos e humanos;
 
-11. Identificar os elementos temáticos, a organização e estruturação de textos de diferentes gêneros e tipos, assim como a função da linguagem em situações, em suas especificidades;
+● Compreender a produção e o papel histórico das instituições sociais, políticas e econômicas, associando-as às práticas dos diferentes grupos e atores sociais, aos princípios que regulam a convivência em sociedade, aos direitos e deveres da cidadania, à justiça e à distribuição dos benefícios econômicos;
 
-12. Reconhecer a importância do patrimônio linguístico para a preservação da memória e da identidade nacional;
+● Traduzir os conhecimentos sobre a pessoa, a sociedade, a economia, as práticas sociais e culturais em condutas de indagação, análise, problematização e protagonismo diante
 
-13. Confrontar opiniões e pontos de vista sobre as diferentes Linguagens e suas manifestações específicas.
+de situações novas, problemas ou questões da vida pessoal, social, política, econômica e cultural;
 
-40
+● Entender o impacto das tecnologias associadas às Ciências Humanas sobre sua vida pessoal, os processos de produção, o desenvolvimento do conhecimento e a vida social;
 
-INSTITUTOFEDERAL PARANA
+● Entender a importância das tecnologias contemporâneas de comunicação e informação para planejamento, gestão, organização e fortalecimento do trabalho de equipe;
 
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
+● Reconhecer e compreender as diferentes arquiteturas de computadores, seus componentes e acessórios;
 
-## **Campus Colombo do IFPR**
+● Identificar as necessidades de uma organização e avaliar quais os softwares aplicativos e utilitários aderentes às necessidades avaliadas;
 
-**Curso:** Técnico em Informática **Eixo tecnológico** Informação e Comunicação **Componente curricular** Língua Portuguesa e Literatura IV **Carga horária** 120 horas/aula **Período letivo** 4ª Série
+● Compreender os serviços e funções dos sistemas operacionais;
 
-**Ementa:**
+- Compreender as funções dos ativos de uma rede de computadores, bem como os
 
-Língua e empoderamento. Produção de gêneros acadêmicos e relacionados ao campo da Informática e dos meios digitais. Funções complexas da linguagem. Leitura e análise crítica. Literatura contemporânea. Mídia e linguagens.
+- meios físicos e softwares de controle desses ativos;
 
-**Bibliografia básica:** ABAURRE Luiza M.; PONTARA, Marcela. _Gramática - texto: análise e construção de sentido_ . São Paulo: Moderna, 2010. ABAURRE Luiza M.; PONTARA, Marcela. _Literatura brasileira: tempos, leitores e leituras._ São Paulo: Moderna, 2010. ABAURRE Luiza M.; PONTARA, Marcela. _Produção de texto: interlocução e gêneros_ . São Paulo: Moderna, 2010. BOSI, Alfredo. _História concisa da literatura brasileira_ . 41. ed. São Paulo: Cultrix, 2003. CALVINO, Ítalo. _Por que ler os clássicos_ . São Paulo: Companhia das Letras, 2007. CANDIDO, Antonio. _Formação da literatura brasileira_ .15. ed. Rio de Janeiro: Ouro sobre Azul, 2014. CANDIDO, Antonio. _Literatura e Sociedade_ . 13. ed. Rio de Janeiro: Ouro sobre Azul, 2014. **Bibliografia complementar:** ALENCAR, José de. _Lucíola_ . São Paulo: Melhoramentos, 2012. AMADO, Jorge. _Capitães de areia_ . São Paulo: Cia. Das Letras, 2009. ANDRADE, Carlos Drummond de. _A rosa do povo_ . São Paulo: Cia. Das Letras, 2012. ANDRADE, Carlos Drummond de. _Claro enigma_ . São Paulo: Cia. Das Letras, 2012. ANDRADE, Carlos Drummond de. _Sentimento do mundo_ . São Paulo: Cia. Das Letras, 2012. ANDRADE, Mario de. _Macunaíma_ . 2. ed. Rio de Janeiro: Nova Fronteira, 2013. ANDRADE, Oswald de. _A utopia antropofágica_ . Rio de Janeiro: Globo, 2011. ANDRADE, Oswald de. _Serafim Pontegrande_ . 9. ed. Rio de Janeiro: Globo, 2007. ASSIS, Machado de. _Várias histórias_ . São Paulo: Martin Claret, 2014. BAGNO Marcos. _Gramática, pra que te quero?_ Curitiba: Aymará, 2010. BANDEIRA, Manuel. _Antologia poética_ . 6. ed. São Paulo: Global Editora, 2013. BARRETO, Lima. _Triste Fim de Policarpo Quaresma_ . São Paulo: Martin Claret, 1999. BORGES, Assagra e Alda. _Leitura: o mundo além das palavras_ . Curitiba: Instituto RPC, 2010. BORGES, Jorge Luis. _Ficciones_ . 7 ed. Barcelona: Debolsillo, 2013. BRAGA, Rubem. _200 crônicas escolhidas_ . 35. ed. Rio de Janeiro: Record, 2002. BUARQUE, Chico. _Leite derramado_ . São Paulo: Cia. Das Letras, 2009. CAMINHA, Adolfo. _O bom crioulo_ . São Paulo: Atelie, 2014. CAMÕES, Luiz Vaz de. _Os Lusíadas_ . São Paulo: Martin Claret, 2000. CUNHA, Euclides da. _Os Sertões_ . Rio de Janeiro: Record, 2000. DIAS, Gonçalves. Juca Pirama, _Os timbiras, Outros Poemas_ . São Paulo: Martin Claret, 2002. FOLHA DE S. PAULO. _Manual da Redação da Folha de São Paulo_ . São Paulo: Publifolha, 2013. GOMES, Dias. _O pagador de promessas_ . São Paulo: Bertrand Brasil, 2003. GUARNIERI, Gianfrascesco. _Eles não usam black tie_ . Rio de Janeiro: Civilização Brasileira, 1995.
+● Conhecer e dominar os ambientes de desenvolvimento de software para as diversas tecnologias;
 
-41
+● Conhecer os conceitos, tecnologias e ferramentas inerentes às soluções baseadas em Banco de Dados, bem como, as metodologias, áreas e atividades que envolvem a Gestão de Projetos de Software;
 
-INSTITUTOFEDERAL PARANA
+● Dominar as etapas que compreendem a Engenharia de Software, compreendendo os conceitos e técnicas que envolvem a Qualidade de Software.
 
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
+## 4.1 EXPEDIÇÃO DE DIPLOMAS E CERTIFICADOS
 
-HATOUM, Milton. _Dois irmãos_ . São Paulo: Cia. Das Letras, 2006. HILST, Hilda. _Contos d'escarnio / textos grotescos_ . Rio de Janeiro: Globo, 2002. HOMERO. _Iliada e Odisseia._ Rio de Janeiro: Nova Fronteira, 2015. LISPECTOR, Clarice. _A legião estrangeira_ . Rio de Janeiro: Rocco, 1999. LISPECTOR, Clarice. _Felicidade clandestina_ . Rio de Janeiro: Rocco, 1998. LOBATO, Monteiro. _Contos Completos_ . Rio de Janeiro: Biblioteca Azul, 2014. LOBATO, Monteiro. _Urupês._ Rio de Janeiro: Globo: 2007. MATOS, Gregório de. _Poemas escolhidos_ . São Paulo: Cia. Das Letras, 2015. MEIRELES, Cecília Meireles. _Romanceiro da inconfidência_ . Rio de Janeiro: Nova Fronteira, 2008. MEIRELES, Cecília. _Melhores poemas_ . 14. ed. São Paulo: Global Editora, 2014. MELO NETO, João Cabral de. _Morte e vida Severina._ Rio de Janeiro: Alfaguara, 2007. MIRANDA, Ana _. A última quimera_ . 2. ed. São Paulo: Cia. Das Letras, 2000. MOISÉS, .Massaud. _A literatura brasileira através dos textos_ . 29. ed. São Paulo: Cultrix, 2012. MOISÉS, Massaud. _Dicionário de Termos Literários_ . São Paulo: Cultrix, 2009. MORAES, Vinicius de. _Antologia Poética_ . São Paulo: Cia. Das Letras, 2009. MORICONI, Ítalo. _Os cem melhores contos brasileiros do século_ . São Paulo: Objetiva, 2009. MORICONI, Ítalo. _Os cem melhores poemas brasileiros do século_ . São Paulo: Objetiva, 2001. NASSAR, Raduan. _Lavoura arcaica_ . São Paulo: Companhia das Letras, 2014. NERUDA, Pablo. _Antologia General_ . Rio de Janeiro: Alfaguara, 2010. PENA, Luís Carlos Martins. _Os dois ou o inglês maquinista_ . São Paulo: IBEP, 2009. PIÑON, Nélida. _Melhores contos_ . São Paulo: Global Editora, 2014. PRADO, Adélia. _Bagagem_ . Rio de Janeiro: Record, 2003. QUEIRÓZ, Raquel de. _O quinze_ . São Paulo: Ática, 2012. QUINTANA, Mario. _Antologia Poética_ . Rio de Janeiro: Nova Fronteira, 2015. RAMOS, Graciliano. _São Bernardo_ . Rio de Janeiro: Record, 2003. RAMOS, Graciliano. _Vidas secas_ . 100. ed. Rio de Janeiro:  Record, 2006. REGO, José Lins do. _Fogo morto_ . 69. ed. Rio de Janeiro: José Olímpio, 2010. REGO, José Lins do. _Menino do engenho_ . 100. ed. Rio de Janeiro:  José Olímpio, 2010. ROSA, João Guimarães. _Grande sertão: Veredas_ . Rio de Janeiro: Nova Fronteira, 2006. SACONI, Luiz Antônio. _Novíssima gramática ilustrada_ . São Paulo: Nova geração, 2013. SANT'ANNA, Affonso Romano de. _Ler o mundo_ . São Paulo: Global, 2011.
+Diploma de Técnico em Informática, do Eixo Tecnológico Produção Informação e Comunicação com histórico escolar de conclusão do ensino médio.
 
-SANTOS, Joaquim Ferreira dos. _As cem melhores crônicas brasileiras_ . São Paulo: Objetiva, 2007. SARMENTO, Leila Lauar. _Gramática em textos_ **(** Vereda Digital). São Paulo: Moderna, 2012. SCHWARTZ, Gisele Maria. _Aventuras na natureza: consolidando significados_ . Fontoura, 2006. SOARES, Jô. _O Xangô de Backer street_ . São Paulo: Cia. Das Letras, 2011. SUASSUNA, Ariano. O santo e a porca. 51. ed. Rio de Janeiro: José Olímpio, 2007. TELLES, Lygia Fagundes. _Seminário de ratos_ . São Paulo: Cia. Das Letras, 2008. VERÍSSIMO, Luís Fernando. _Comédias para se ler na escola_ . São Paulo: Objetiva, 2001.
+## 4.2 ÁREA DE ATUAÇÃO DO EGRESSO
 
-## **Objetivos**
+Locais e ambientes de trabalho:
 
-1. Extrair informações relevantes de diferentes fontes, como textos, tabelas ou gráficos, interpretá-las e relacioná-las;
+- Empresas de desenvolvimento de sistemas;
 
-2. Fazer uso de modos de comunicação e de interação para aplicação e divulgação de conhecimentos científicos e tecnológicos, sabendo comunicar de forma escrita ou oral resultados e argumentos de base científica, sendo capaz de debater, respeitar opiniões e levar em conta argumentos contrários;
+- Departamento de desenvolvimento de sistemas em organizações governamentais e não governamentais;
 
-3. Ter responsabilidade com prazos e realização de tarefas assumidas em atividades em grupo ou individuais, desenvolvendo o respeito, a proatividade, a empatia, o empreendedorismo e a criatividade;
+- Empresas de consultoria em sistemas;
 
-42
+- Empresas de Help-Desk;
 
-Ministerioda Educacao InstitutoFederal doParana
+- Empresas de soluções em análise de dados;
 
-INSTITUTOFEDERAL PARANA
+- Profissional autônomo.
 
-4. Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionar-se quanto a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos, culturais, religiosos e de qualquer outra natureza;
+## 4.3 ACOMPANHAMENTO DO EGRESSO
 
-5. Identificar as diferentes Linguagens e seus recursos expressivos como elementos que caracterizam os sistemas de Comunicação;
+Sabe-se que em sua proposta original os Institutos Federais objetivam a formação crítica e cidadã, a atuação coletiva e o trabalho compartilhado; são espaços para construção e democratização do conhecimento e para o desenvolvimento local e regional, buscando promover o conhecimento de forma integrada e verticalizada.
 
-6. Reconhecer posições críticas aos usos sociais que são feitos das Linguagens e dos sistemas de Comunicação e Informação;
+Diante da característica social dos objetivos educacionais estabelecidos para a Rede Federal de Educação Tecnológica, cabe a cada Instituto investigar e acompanhar os(as) estudantes egressos a fim de avaliar a efetividade do trabalho realizado.
 
-7. Analisar, interpretar e aplicar recursos expressivos das Linguagens, relacionando textos com seus contextos, mediante a natureza, função, organização, estrutura das manifestações, de acordo com as condições de produção e recepção;
+Assim sendo, o acompanhamento dos egressos do Curso Técnico em Informática integrado ao Ensino Médio será realizado a partir de um permanente diálogo com os profissionais formados na Instituição para que se possa identificar os caminhos trilhados no trabalho e sua inserção social.
 
-8. Estabelecer relações entre o texto literário e o momento de sua produção, situando aspectos do contexto histórico, social e político. Relacionar informações sobre concepções artísticas e procedimentos de construção do texto literário;
+Todos sabemos que os espaços sociais nos quais as relações se efetivam são sempre dinâmicos e, portanto, estão em constantes transformações. Isso indica diversos desafios no processo educacional, por isso, uma estratégia para o enfrentamento desses desafios é o acompanhamento dos egressos, pois essa ação contribuirá na reflexão acerca das transformações sociais.
 
-9. Reconhecer a presença de valores sociais e anos atualizáveis e permanentes no patrimônio literário nacional;
+Essas iniciativas de acompanhamento dos egressos estão em conformidade com a Política de Acompanhamento de Egressos do IFPR, conforme delineado na Resolução IFPR nº 23, de 23 de julho de 2021, que estabelece diretrizes e orientações para os procedimentos relacionados a esse aspecto crucial da formação técnica. Essas ações são direcionadas para uma avaliação qualitativa e quantitativa dos impactos institucionais no desenvolvimento econômico e social, levando em consideração fatores como empregabilidade, continuidade dos estudos e atuação na área profissional estudada no IFPR.
 
-10. Compreender e usar os sistemas simbólicos das diferentes Linguagens como meios de organização cognitiva da realidade, pela constituição de significados, expressão, comunicação e informação;
+A proposta de acompanhamento pretende estabelecer parâmetros dentro da perspectiva de uma avaliação contínua da formação ofertada, analisando o currículo, o perfil profissional dos egressos e sua trajetória profissional. Assim, o acompanhamento dos egressos visa a:
 
-11. Identificar os elementos temáticos, a organização e estruturação de textos de diferentes gêneros e tipos, assim como a função da linguagem em situações, em suas especificidades;
+- manter registros atualizados de egressos;
 
-12. Reconhecer a importância do patrimônio linguístico para a preservação da memória e da identidade nacional;
+- verificar a empregabilidade, entendida como o conjunto de características do trabalhador, que permite sua inserção (e permanência) no mundo do trabalho;
 
-13. Confrontar opiniões e pontos de vista sobre as diferentes Linguagens e suas manifestações específicas.
+- investigar a atuação dos(as) estudantes recém-formados no mercado de trabalho, se estão exercendo atividades na sua área de formação;
 
-43
+- levantar dados em relação à continuidade de estudos verificando se os egressos permaneceram na área realizada no IFPR;
 
-Ministerioda Educacao InstitutoFederal doParana
+- obter informações sobre a opinião dos egressos acerca da qualidade e adequação do curso Técnico em Informática, avaliando, a partir do distanciamento, como esse egresso percebe o IFPR;
 
-INSTITUTOFEDERAL PARANA
+- possibilitar o conhecimento das dificuldades do egresso para a integração no mundo do trabalho;
 
-## **Campus Colombo do IFPR**
+- promover a realização de atividades extracurriculares (estágios e/ou participação em projetos de iniciação à pesquisa ou extensão), de cunho técnico-profissional, como complemento à sua formação e palestras direcionadas a profissionais formados pela Instituição;
 
-|**Curso:**<br>Técnico em Informática||**Eixo tecnológico**|**Eixo tecnológico**|Informação e Comunicação|Informação e Comunicação|
-|---|---|---|---|---|---|
-|**Componente curricular**||Língua Inglesa I||||
-|**Carga horária**<br>40 horas/aula|||**Período letivo**||1ª Série|
+- valorizar egressos que se destacam nas atividades profissionais;
 
-Ementa:
+- identificar junto às empresas seus critérios de seleção e contratação, enfatizando às capacitações dos profissionais da área;
 
-A importância do inglês como língua estrangeira; inglês para informática; técnicas de leitura instrumental: scanning & skimming; hábitos e preferências; eventos passados e futuros; inglês e literatura; descrições físicas e psicológicas; profissões; comida; gêneros linguísticos e seus elementos composicionais; a aquisição de repertório vocabular; a leitura e a interpretação de textos; desenvolvimento das habilidades de leitura, escrita e oralidade.
+- promover a integração entre os ex-alunos(as) e a Instituição.
 
-**Bibliografia básica:** AGA, Gisele. (ed.) _Upgrade._ São Paulo: Richmond, 2010. AUN, E.; MORAES, M.C.P.; SANSANOVICZ, N.B. _English for All._ Saraiva, v.1, 2010. DIAS, R., JUCÁ, L., FARIA, R. _High up_ . São Paulo: Macmillan: 2013. MCCARTHY, M. & O’DELL. F. _English vocabulary in use_ . Cambridge: Cambridge University Press, 1999. MURPHY, R. _Essential Grammar in Use: self-study reference and practice book for elementary students of English with answers_ . 11th printing. Cambridge: Cambridge University Press, 2011. **Bibliografia complementar:** BRAGA, Junia de Carvalho Fidelis (coord.). _Integrando tecnologias no ensino de Inglês nos anos finais do Ensino Fundamental._ São Paulo: SM, 2012. DIAS, Reinildes **.** _Inglês Instrumental: leitura crítica - uma abordagem construtivista._ Belo Horizonte, Editora UFMG, 3ª edição revista e ampliada, 2002. DOLZ, Joaquim; SCHNEUWLY, Bernand. _Gêneros orais e escritos na escola._ Campinas, SP: Mercado de Letras, 2004. 278 p. (Tradução e organização: Roxane Rojo; Glaís Sales Cordeiro). PAIVA. Vera Lúcia Menezes de Oliveira e. _Ensino de Língua Inglesa no Ensino Médio: teoria e prática._ São Paulo: SM, 2012. SANTOS, Denise. _Ensino de língua inglesa: foco em estratégias_ . Barueri: Disal, 2012. **Objetivos Objetivo Geral:**
+Para isso, será estruturado um sistema de acompanhamento de egressos que inclui coleta e sistematização das informações pela Coordenação do Curso; realização de projetos de qualificação profissional mediante cursos, seminários, jornadas e outros eventos; construção de rede de parcerias com empresas e organismos governamentais e não governamentais em que atuem egressos do Curso Técnico em Informática; e projetos de pesquisa e extensão que articulem os setores produtivos com os processos de formação profissional desenvolvidos no IFPR.
 
-Possibilitar ao aluno que desenvolva as habilidades de compreensão oral e escrita, bem como a produção oral e escrita em Língua Inglesa, conscientizando-o de sua própria cidadania, de sua cultura e de culturas alheias, de forma que conheça e compreenda a heterogeneidade linguística e sociocultural do mundo em que vive.
+## 4.4 REGISTRO PROFISSIONAL
 
-**Objetivos específicos:** 1. Extrair informações relevantes de diferentes fontes, como textos, tabelas ou gráficos, interpretá-las e relacioná-las. 2. Ser capaz de realizar pesquisas de modo crítico e autônomo, estando apto a buscar, comparar, construir e disseminar o conhecimento.
+Não há.
 
-44
+## **5 ORGANIZAÇÃO CURRICULAR**
 
-Ministerioda Educacao InstitutoFederal doParana
+## 5.1 ESTRUTURA CURRICULAR
 
-INSTITUTOFEDERAL PARANA
+A organização curricular do curso Técnico em Informática observa as determinações legais presentes na Lei de Diretrizes e Bases da Educação Nacional, Lei 9.394, de 20 de dezembro de 1996; no Decreto nº 5.154/04; na Resolução CNE/CEB 03/2018, que define as Diretrizes Curriculares Nacionais para o Ensino Médio; na Resolução CNE/CP nº 1, de 5 de janeiro de 2021 que define as Diretrizes Curriculares Nacionais Gerais para a Educação Profissional e Tecnológica; na Resolução CONSUP/IFPR nº 64, de 23 de março de 2022 que estabelece as diretrizes para a oferta de cursos técnicos integrados ao ensino médio do IFPR; no Plano Nacional de Educação (PNE), aprovado pela Lei 13.005, de 25 de junho 27 de 2014 e demais documentos institucionais como o Plano de Desenvolvimento Institucional e o Projeto Político Pedagógico do Campus.
 
-4. Ter responsabilidade com prazos e realização de tarefas assumidas em atividades em grupo ou individuais, desenvolvendo o respeito, a proatividade, a empatia, o empreendedorismo e a criatividade. 13. Conhecer a Língua Estrangeira Moderna (LEM), como instrumento de acesso a informações e a outras Culturas e grupos sociais.
+Segundo o artigo 8º da Resolução nº 64 de 23 de março de 2022 (CONSUP/IFPR), a organização curricular da oferta integrada deve se estruturar:
 
-14. Associar vocábulos e expressões de um texto em Língua Estrangeira ao seu tema.
+I - na articulação orgânica entre a educação básica e a educação profissional, superando a dualidade de configurações curriculares de justaposição no ensino técnico de nível médio;
 
-15. Utilizar os conhecimentos da Língua Estrangeira Moderna e de seus mecanismos como meio de ampliar as possibilidades de acesso a informações, tecnologias e culturas.
+II - no conhecimento profundo da realidade local, regional e na sua relação com a realidade global;
 
-16. Relacionar um texto em Língua Estrangeira, as estruturas linguísticas, a sua função e o seu uso social.
+III - no reconhecimento da equidade entre as áreas do conhecimento, que devem ser contempladas com espaços e tempos curriculares compatíveis e coerentes com a formação humana integral que caracteriza a Rede Federal de Educação Profissional e Tecnológica;
 
-17.  Reconhecer a importância da produção cultural e literária em Língua Estrangeira Moderna como representação da diversidade cultural e linguística.
+IV - na garantia da oferta dos componentes curriculares que desenvolvem os sujeitos nas dimensões ética, estética e cultural, compreendidos pela Arte, Educação Física, Filosofia, Sociologia e Línguas Estrangeiras;
 
-18. Conhecer e compreender as estruturas e especificidades dos gêneros textuais em Língua Estrangeira Moderna.
+V - no reconhecimento da Língua Espanhola como componente curricular necessário ao desenvolvimento contextualizado do(a) estudante do ensino técnico de nível médio, somado à obrigatoriedade de oferta do componente de Língua Inglesa;
 
-45
+VI - nos campi em que há contextos de fronteira e/ou multi/plurilinguístico, avaliar a viabilidade do reconhecimento de outra(s) língua(s) adicional(is) como componente curricular, necessária ao desenvolvimento integral de estudantes do ensino técnico integrado ao ensino médio;
 
-Ministerioda Educacao InstitutoFederal doParana
+VII - no reconhecimento da Língua Brasileira de Sinais (LIBRAS) como política e ação em todos os componentes curriculares do curso;
 
-INSTITUTOFEDERAL PARANA
+VIII - na seleção e organização dos conhecimentos de forma coletiva, que considere a investigação e a compreensão dos processos produtivos em suas múltiplas dimensões;
 
-## **Campus Colombo do IFPR**
+IX - no perfil profissional do egresso do curso de acordo com o Catálogo Nacional de Cursos Técnicos, observando as recomendações dos conselhos regulamentadores de cada categoria profissional.
+
+Diante do exposto, a Matriz Curricular está organizada a partir de 03 (três) núcleos de formação: Formação Geral Básica, que corresponde aos componentes que estão organizados de acordo com a BNCC – Linguagens, Códigos e suas tecnologias; Ciências Humanas, sociais aplicadas e suas tecnologias; e Ciências da Natureza e suas tecnologias, Matemática e suas tecnologias (BRASIL, 2018); Formação Profissional, que se refere aos componentes ligados a
+
+formação específica do curso Técnico em Informática e que atendem aos objetivos e ao perfil do egresso posto no Catálogo Nacional de Cursos Técnicos (BRASIL, 2020); e Núcleo Indivisível ou Articulado, que corresponde à área de integração entre os componentes curriculares da Formação Geral Básica e da Formação Profissional. O Núcleo Indivisível é definido por ser um espaço da organização curricular ao qual se destinam aos componentes que tratam dos conhecimentos e habilidades inerentes à Formação Geral Básica e Formação Profissional e que possuem maior área de integração. O Quadro a seguir apresenta os componentes de acordo com os núcleos de formação:
+
+|Formação Geral Básica (Núcleo Comum)|Formação Profissional (ÁreaTécnica)|
+|---|---|
+|Arte|AOC e sistemas operacionais|
+|Educação Física|Algoritmos e linguagem de programação|
+|Língua Portuguesa e Literatura|Introdução a programação orientada a<br>objetos|
+|Língua Inglesa|Banco de dados|
+|Língua Espanhola|Empreendedorismo e inovação|
+|Física|Tópicos avançados em Informática I<br>(robótica)|
+|Química|Introdução a rede de computadores|
+|Biologia|Engenharia de Software|
+|Matemática|Desenvolvimento web|
+|História|Projeto Integrador I|
+|Geografia|Desenvolvimento de dispositivos móveis|
+|Sociologia|Tópicos avançados em Informática II<br>(Inteligência Artificial)|
+|Filosofia|ProjetoIntegrador II|
+
+No Curso Técnico em Informática, a integração se dará, em maior grau, nos componentes curriculares específicos que possuem, na sua ementa, conhecimentos de importância para a Formação Geral Básica e à Formação Profissional (específica), seja por meio de projetos interdisciplinares que ocorrem durante o curso ou por ações extensionistas desenvolvidas com a participação dos(as) estudantes do curso e a comunidade externa. Ainda de acordo com o art. 11 da Resolução IFPR 64/2022 “a composição das ementas dos componentes curriculares deve ser pautada pelos objetivos de aprendizagem, com a superação de uma tradição curricular conteudista, ao passo que garante o acesso aos conhecimentos historicamente e socialmente referenciados.” A organização curricular visa atender ao disposto dos aspectos legais, com o cômputo de carga horária e conteúdos da Base Nacional Curricular Comum (BNCC) do ensino médio e a formação técnica em conformidade com o perfil do egresso exigido pelo Catálogo Nacional dos Cursos. Para além do aspecto do cômputo de carga-horária indicada nas legislações norteadoras, a organização curricular em núcleos busca aprofundar a integração dos componentes e dos conhecimentos no decorrer do curso e sempre aberto a novos projetos integradores. Para pensar a interdisciplinaridade, segue-se a Resolução Consup IFPR, n.º 64, de 23 de março de 2022, que indica:
+
+Art. 21. As cargas horárias previstas nas regulamentações que tratam do ensino médio nacional não devem ser assumidas de modo a fragmentar a organização curricular dos cursos, visto que a possibilidade dos itinerários formativos integrados é prevista em lei, assegurada a autonomia didático-pedagógica prevista nas legislações específicas sobre a EPT e a criação da rede federal. Parágrafo único. O cômputo de 1.800 horas de conteúdos da Base Nacional Curricular Comum (BNCC) do ensino médio é atendido na totalidade da matriz curricular dos cursos técnicos integrados e pode, inclusive, ser ampliado, uma vez que formação geral e formação específica se articulam de modo a conformar uma unidade indivisível.
+
+Partindo da premissa do pleno atendimento da BNCC e, sem comprometer os princípios que regem a Educação Profissional e Tecnológica (EPT), presentes na Resolução Consup IFPR, n.º 64, de 23 de março de 2022, destaca-se o compromisso da instituição com a construção do conhecimento científico de forma a possibilitar a educação humana e integral. Dessa forma, em resumo, o Curso Técnico em Informática integrado ao Ensino Médio do campus Colombo compreende 4 (quatro) anos, com carga horária total de 3.334 horas-relógio, compostas pelas cargas horárias dos núcleos de Formação Geral Básica e do núcleo de Formação Profissional Específica.
+
+Ainda, de modo a garantir o cumprimento da Lei nº 13.006, de 26 de junho de 2014 que resulta na obrigatoriedade da exibição de filmes de produção nacional como componente complementar curricular integrado, por, no mínimo, 2 (duas) horas mensais, os componentes curriculares das diferentes áreas do conhecimento, no caso, Arte, História, Filosofia, Sociologia, Geografia, Biologia e Língua Portuguesa, alternar-se-ão em suas respectivas cargas horárias para o cumprimento desta legislação. A comprovação de tais atividades se dará pelo registro em diário de classe dos componentes.
+
+Os temas transversais, conforme §7º do artigo 26 da Lei nº 9.394/1996. A integralização curricular deverá incluir assuntos e temáticas, nos componentes curriculares, envolvendo os temas transversais. A definição dos temas precisa seguir o indicado na base nacional comum como: Meio Ambiente, Economia, Saúde, Cidadania e Civismo, Multiculturalismo, Ciência e Tecnologia, a ser complementada por uma parte diversificada de acordo com as características regionais e locais da sociedade, da cultura, da economia, dos(as) estudantes e das legislações vigentes.
+
+Os temas obrigatórios são:
+
+- Prevenção de todas as formas de violência contra a criança e ao adolescente (Lei nº 8.069/1990);
+
+- Segurança no Trânsito (artigo 74 a 76 da Lei nº 9.503/1997);
+
+- Educação Ambiental (Lei nº 9.795/1999; artigos 5º e 6º do Decreto nº 4.281/2002 e Resolução CNE/CP nº 02/2012);
+
+- Processo de envelhecimento, respeito e valorização do idoso (artigo 22 da Lei nº 10.741/2003);
+
+- Educação em Direitos Humanos, conforme § 9º do artigo 26 da Lei nº 9.394/1996, em que se deve inserir os conteúdos relativos aos direitos humanos e à prevenção de todas as formas de violência contra a criança, o adolescente e a mulher (Resolução CNE/CP Nº 1/2012);
+
+- Educação alimentar e nutricional (Lei nº 11.947/2009 e Resolução CNE/CEB nº 02/2012).
+
+## 5.2 METODOLOGIA E ESTRATÉGIAS PEDAGÓGICAS
+
+Considerando o disposto no PDI/IFPR (2019/2023), as práticas pedagógicas desenvolvidas neste curso devem sistematizar os conhecimentos trazidos pelos(as) estudantes, por meio da: i) ressignificação destes conhecimentos; ii) compreensão de realidade; iii) apropriação dos signos e elementos que integram as relações entre as pessoas e o mundo. O processo pedagógico será constantemente avaliado e construído a partir das situações de aprendizagem que promovem a indissociabilidade entre educação, ciência, trabalho, tecnologia e cultura.
+
+Nessa perspectiva, o processo ensino-aprendizagem do Curso Técnico em Informática constitui-se como um fenômeno complexo, relacional, dialético e compartilhado, um fenômeno
+
+coletivo, de questionamento, de ressignificação e interpretação da realidade por meio da relação entre os sujeitos, em que o processo educativo passa a ser visto sob a perspectiva de teia, rede, de interconexão, de inter-relacionamento, no qual o(a) estudante é visto como um ser único, indiviso, integral, autor de sua própria história e dotado de inteligências múltiplas. Nesse sentido, é indispensável considerar o inciso VII do art. 3° das DCNs Gerais para a EPT (Resolução n° 01 de janeiro de 2021) que fala em “metodologias ativas e inovadoras de aprendizagem centradas nos estudantes”, como forma de superar o tradicionalismo (tal como aulas expositivas autoritárias e a pedagogia do exame) promovendo uma sala de aula mais democrática e participativa.
+
+Para tanto, a construção deste processo pedagógico pressupõe princípios básicos: a reflexão crítica dos(as) estudantes sobre a sua aprendizagem. E será por meio da reflexão crítica durante as discussões e o processo educativo que os(as) estudantes analisam suas produções, elaboram argumentos para sustentar suas próprias opiniões por meio da atenção, categorização, seleção e do julgamento e optam em refazê-las sempre que julgam necessário. A partir desse momento, o(a) estudante assume a responsabilidade na planificação, na organização e na avaliação da sua aprendizagem.
+
+Com isso, aprimora o conhecimento produzido favorecendo o desenvolvimento da autonomia. Este princípio está diretamente ligado à escolha da forma de organizar a aprendizagem na busca de formas diferentes de aprender. Assim, organizam seus próprios estudos, buscando fontes de informação e conhecimento, e construindo um saber ligado aos seus próprios objetivos de aprendizagem, por meio da pesquisa. Este princípio configura-se como condição fundamental para a conquista da autonomia intelectual do(a) estudante. Para tanto, serão estimulados a aprender a pesquisar e a dominar diferentes formas de acesso às informações, além de desenvolver sua capacidade crítica de avaliar, de reunir e de organizar informações muito mais relevantes.
+
+Contudo, durante o processo de ensino-aprendizagem é necessário um olhar individualizado para cada estudante. O princípio da singularidade é estabelecido pelo acompanhamento próximo e contínuo de cada estudante, respeitando as suas particularidades, permite ver mais detalhadamente onde o(a) estudante está, onde pode chegar e quais estratégias possibilitam ao processo ser mais efetivo e que o próprio(a) estudante participe ativamente da construção do seu conhecimento. Nesse sentido o desenvolvimento de projetos e indissociabilidade do Ensino, Pesquisa, Extensão e Inovação tornará, de fato, a consolidação da proposta.
+
+Numa ação gradual de reflexão crítica, autonomia, pesquisa e singularidade, os(as) estudantes são conduzidos a avaliar permanentemente seu progresso, favorecendo o exercício da autoavaliação durante o processo de pesquisa, tomando como referência, os objetivos de aprendizagem, bem como os critérios estabelecidos de avaliação. Com isso, o trabalho pedagógico e a avaliação deixam de ser responsabilidade exclusiva do professor e a parceria torna-se um princípio norteador da ação educativa por meio da colaboração e da interação entre professor e estudante.
+
+A colaboração favorece a parceria entre professor e estudante, minimizando as ações e atitudes verticalizadas e centralizadoras. O desenvolvimento dessa ação colaborativa implica em planejamento, desenvolvimento de ações comuns, o estabelecimento de conexões, reflexão sobre o processo juntos e impulsionando à aprendizagem coletiva e ao conhecimento individual, por meio dos conceitos da interajuda, partilha, discussão, interação e em um fim comum para a aprendizagem e a construção do conhecimento.
+
+A ação colaborativa promovida pela interação caracteriza-se como um dos fatores mais importantes para o sucesso ou fracasso do processo de aprendizagem, em que a comunicação, a interação e a interatividade tornam-se elementos basilares para que o processo de aprendizagem e ensino aconteça.
+
+Por último, o desencadeamento do processo de ensino e aprendizagem desenvolverá nos(as) estudantes e professores, a autoria e coautoria durante a organização do trabalho pedagógico e na construção de um novo conhecimento, agora embasado e construído a partir de concepções particulares e de suas experiências de vida. Ou seja, a metodologia de ensino será constituída por práticas pedagógicas desenvolvidas com o propósito de atingir os objetivos a que o curso se propõe e por ações educativas, um processo planejado e intencional, não apenas no aspecto cognitivo, mas também nos aspectos afetivos e sociais, em uma perspectiva emancipatória e de destaque dos sujeitos envolvidos.
+
+O itinerário formativo será fundamentado em aulas presenciais com aulas expositivas e práticas, sem carga horária a distância; seminários, discussões coletivas e palestras; atividades de recuperação ou aprofundamento de estudos; atividades interdisciplinares; atividades culturais e esportivas; projetos de pesquisa e extensão, atividades de ensino, pesquisa, extensão e inovação pertinentes aos cursos, entre outras, em consonância com a Resolução 50/2017IFPR. O Curso Superior de Tecnologia em Análise e Desenvolvimento de Sistemas, do Curso Superior de Tecnologia em Alimentos e do Curso Superior de Tecnologia em Processos Gerenciais, ofertados pelo Campus Colombo, permitem ao egresso do Curso Técnico em Informática a verticalização de seus estudos.
+
+O ensino-aprendizagem no Curso Técnico em Informática será planejado a partir da relação teoria e prática que se dará pela integração entre os componentes curriculares e a práxis. Como forma de articular a teoria e a prática dos conhecimentos oferecidos nos componentes curriculares do curso, serão ofertados os componentes curriculares Inovação e Empreendedorismo, Projeto Integrador I e Projeto Integrador II respectivamente no segundo, terceiro e quarto anos do Curso Técnico em Informática. Para contribuir com o processo ensinoaprendizagem, o Curso Técnico em Informática prevê, nestes três componentes curriculares, o envolvimento dos(as) estudantes com a pesquisa e a proposta de práticas extensionistas cujos resultados sejam percebidos pela comunidade. Neste sentido, nos componentes Inovação e Empreendedorismo, Projeto Integrador I e Projeto Integrador II, será fundamental não somente a articulação dos conteúdos dos demais componentes curriculares ministrados no ano, como também a associação com o conteúdo das experiências compartilhadas por meio de palestras feitas por especialistas, profissionais e gestores.
+
+Além disso, são previstas algumas parcerias com o SEBRAE e Prefeitura Municipal de Colombo, no sentido do desenvolvimento dos produtos/protótipos com possibilidade de incubação de Startups. Estas palestras e parcerias serão parte integrante destes três componentes curriculares como forma de associar a teoria, a práxis e o despertar da percepção dos(as) estudantes para a realidade que os cerca. Nestes três componentes curriculares serão também desenvolvidas as atividades de pesquisa e extensão no contexto de ações de Responsabilidade Socioambiental, Resolução de problemas, Desenvolvimento dos protótipos sustentáveis e Modelo de Negócios. O conhecimento e as pesquisas sobre os temas transversais contribuirão para a constituição da proposta socioambiental contida nos Projetos Integradores. A contribuição extensionista dos(as) estudantes, seja no aspecto social, ambiental ou ambos, será feita na forma de uma proposta de ação para o campus Colombo e para o município de Colombo. Os(as) estudantes deverão compreender e refletir nos seus projetos socioambientais a importância da sustentabilidade no contexto das organizações que produzem bens e serviços respeitando as pessoas e o meio-ambiente.
+
+Outro fator, não menos importante, é que esse perfil pedagógico-metodológico visa concretizar a perspectiva de uma educação inclusiva, cidadã e democrática. Quando se fala de inclusão, entendemos não apenas os(as) discentes com deficiência, mas todos os(as) estudantes em suas particularidades. Se professa a inclusão com o respeito as diferenças sociais, culturais, religiosas, etárias, entre outras.
+
+## 5.3 RELAÇÃO ENTRE ENSINO, PESQUISA, EXTENSÃO E INOVAÇÃO
+
+O Estatuto do IFPR institui que o currículo deve ser fundamentado em bases filosóficas, epistemológicas, metodológicas, socioculturais e legais e expressas no seu projeto político institucional. Além disso, norteado pelos princípios da estética, da sensibilidade, da política da igualdade, da ética, da identidade, da interdisciplinaridade, da contextualização, da flexibilidade e da educação como processo de formação na vida e para a vida, a partir de uma concepção de sociedade, trabalho, cultura, educação, tecnologia e ser humano.
+
+As ações de Ensino, Pesquisa, Extensão e Inovação no Curso Técnico em Informática articulam-se de forma indissociável, com o foco na relação transformadora entre os(as) estudantes, o Campus Colombo, o Instituto Federal e a sociedade. Essas ações integradas à Educação Profissional e Tecnológica têm como objeto a produção e divulgação de ciências e tecnologias que permitam o enfrentamento dos problemas locais e regionais. Ou seja, seu compromisso será a formação de subjetividades que compreendam o potencial transformador do conhecimento enquanto promotor de qualidade de vida, com sustentabilidade e democracia (PDI/IFPR 2019-2023).
+
+Para tanto, as atividades de ensino estão organizadas por meio de cursos de formação inicial e continuada de trabalhadores, da educação profissional técnica de nível médio e da educação superior de graduação e de pós-graduação, no qual a concepção de formação humana preconiza a integração de todas as dimensões da vida – o trabalho, a ciência e a cultura – no processo formativo para a inclusão e para a transformação, comprometida com o desenvolvimento humano por meio do trabalho.
+
+No IFPR, as atividades de extensão estão regulamentadas pela Resolução nº 11/2018, retificada pela Resolução nº 49/2019. As atividades de extensão, em que a interação com a sociedade acontece, objetivam apoiar o desenvolvimento social e cultural, através da oferta de cursos e realização de atividades específicas. Desta forma, objetivam formar recursos humanos para a investigação, a produção, o empreendedorismo e a difusão de conhecimentos científicos e tecnológicos, sendo desenvolvidas em articulação com o ensino e a extensão, ao longo de toda a formação profissional.
+
+Já a pesquisa constitui-se como um processo educativo para a investigação e de produção de conhecimento em que, objetiva atender as demandas dos arranjos produtivos, social e cultural do território em que o Campus está inserido, e ao interesse institucional, com vistas, à inovação, à solução de problemas científicos e tecnológicos e ao seu desenvolvimento social.
+
+As ações de pesquisa e extensão objetivam buscar a indissociabilidade entre ensino pesquisa e extensão: as ações de pesquisa devem articular-se à extensão e vice-versa e ambas deverão vincular-se à formação de pessoas, tendo sempre o(a) aluno(a) como protagonista deste processo. A pesquisa e a extensão, em interação com o ensino, com o Campus Colombo, o IFPR e com a sociedade, operacionalizarão a relação entre teoria e prática, a democratização do saber acadêmico e o retorno desse saber, testado e reelaborado. E isso se dará por meio de políticas de acesso e permanência, no apoio a projetos inovadores e na difusão de conhecimentos e informações com o foco na inclusão no meio acadêmico e na sociedade.
+
+A pesquisa, a extensão e a inovação, em interação com o ensino e com a sociedade, permitem a relação entre teoria e prática, a democratização do saber acadêmico e o retorno desse conhecimento aos institutos para formação de novos profissionais. Ainda, o Instituto Federal do Paraná - Campus Colombo oferta periodicamente cursos de extensão, seminários, feiras, palestras, oficinas, mostras de curso, visitas técnicas e outros eventos que articulam os currículos a temas de relevância social, local e/ou regional, potencializando recursos materiais, físicos e humanos disponíveis.
+
+Nesse contexto, insere-se também o compromisso com a inovação, compreendida tanto com processos e produtos que alavanquem o desenvolvimento, com sustentabilidade e inclusão,
+
+como no desenvolvimento de subjetividades capazes de produzir novas soluções ao pensar cientificamente a prática social, objetivando o aperfeiçoamento desse ambiente produtivo ou social que resulte em novos produtos, processos ou serviços.
+
+A articulação entre o ensino, a pesquisa, a extensão e a inovação estará presente em todos os momentos formativos do Curso Técnico em Informática do Campus Colombo, entendo o princípio da indissociabilidade das atividades de ensino, pesquisa, extensão e inovação como fundamental no fazer acadêmico, afirmando que o IFPR, como instituição formadora que deve produzir conhecimentos e, efetivamente, torná-los acessíveis à formação dos novos profissionais e aos mais variados segmentos da sociedade.
+
+## **6 AVALIAÇÃO**
+
+## 6.1 AVALIAÇÃO DA APRENDIZAGEM
+
+A avaliação educacional tem como finalidade o diagnóstico do processo de construção do ensino-aprendizagem dos(as) estudantes em relação ao projeto de educação pretendido. Os critérios de avaliação, de acordo com a Lei de Diretrizes e Bases da Educação, Lei nº 9.394, de 20 de dezembro de 1996, devem ser contínuos e cumulativos e devem considerar os aspectos qualitativos sobre os quantitativos no desempenho do(a) aluno(a).
+
+O objetivo da avaliação, tendo como referência teórica o materialismo histórico-crítico, é, como meio, propiciar a formação do cidadão autônomo e emancipado, servindo para a inclusão, democracia e transformação social. Com base nos estudos do campo educacional, que analisam historicamente as práticas avaliativas, sabe-se que as técnicas, orientações e pressupostos metodológicos, nem sempre colocaram os sujeitos e suas aprendizagens como a primazia dos processos de avaliação, mas os resultados ou o produto, apresentados pelos(as) alunos(as).
+
+Tradicionalmente, de acordo com Esteban (2000, p. 1), a avaliação na escola “vem sendo pensada a partir de campos disciplinares solidamente demarcados e usada com o objetivo de demarcar fronteiras que distinguem e separam conhecimentos, pessoas, processos e práticas”. A teoria da avaliação como medicação, chamada de Pedagogia do Exame, conforme escreve Luckesi (2003), ou como classificação foi e continua sendo utilizada nas escolas e nas próprias políticas educacionais para regular os projetos de sociedade pretendidos.
+
+O que configura, segundo as pesquisas dos autores a necessidade de reconfiguração do conceito, no sentido de entendê-lo não como um lugar de demarcação e limitação que exclui, mas de acesso e transição, em que se analisa e se refaz o presente. Para Luckesi, (2003, p.47),
+
+[...] a sala de aula é o lugar onde, em termos de avaliação, deveria predominar o diagnóstico como recurso de acompanhamento e reorientação da aprendizagem, em vez de predominarem os exames como recursos classificatórios.
+
+Os processos avaliativos qualitativos precisam observar a pluralidade e o cotidiano das pessoas. A percepção dos professores deve estar centrada na participação, nos conflitos, vozes e contradições do(a) estudante, sobre os movimentos de como o educando aprende.
+
+Neste sentido, seguimos a práxis avaliativa presente na própria legislação vigente da Instituição, ou seja, a Resolução no 50, de 14 de julho de 2017, que orienta para a organização do processo ensino-aprendizagem a partir dos conhecimentos e da formação do(a) estudante, considerando os componentes cognitivo, psicológico, biológico, social, cultural, afetivo, linguístico. E reforça a importância de que os docentes levem em conta a diversidade da composição humana para a proposição de conteúdos e atividades.
+
+Os critérios norteadores do processo de avaliação de ensino- aprendizagem seguem o Art. 5º da Resolução 50/17 do IFPR. São eles:
+
+   - Investigação, reflexão e intervenção;
+
+   - Desenvolvimento da autonomia dos(as) estudantes;
+
+   - Dinamismo, construção, cumulação, continuidade e processo;
+
+   - Inclusão social e democracia;
+
+   - Percepção do ser humano como sujeito capaz de aprender e se desenvolver;
+
+   - Aprendizagem de todos os(as) estudantes;
+
+- O conhecimento a respeito do processo de desenvolvimento do(a) estudante,
+
+- considerando suas dimensões cognitiva, biológica, social, afetiva e cultural;
+
+- Compreensão de que todos os elementos da prática pedagógica e da comunidade
+
+- acadêmica interferem no processo ensino-aprendizagem;
+
+- Elaboração e adequação constantes do planejamento do professor, tendo por referência
+
+- o(a) estudante em sua condição real;
+
+- Interação entre os sujeitos e destes com o mundo como base para a construção do
+
+- conhecimento;
+
+- Escolha de novas estratégias para o processo ensino-aprendizagem, mediante os
+
+- sucessos e insucessos como aspectos igualmente importantes;
+
+   - Predominância dos aspectos qualitativos sobre os quantitativos;
+
+   - Prevalência do desenvolvimento do(a) estudante ao longo do período letivo;
+
+- Constante presença e imbricação da objetividade e subjetividade nas relações
+
+- pedagógicas e avaliativas, dada sua coexistência nas relações humanas.
+
+O processo de avaliação de ensino-aprendizagem, conforme orienta o Art. 7º, da Resolução 50/2017 de 14 de julho de 2017 será diagnóstico, formativo e somativo. Considerará o conhecimento prévio e o constituído durante o processo. Abrangendo a descrição e apreciação qualitativa acerca dos resultados apresentados pelos envolvidos em diferentes etapas do processo educativo, indicando os avanços e entraves para intervir e agir, redefinindo ações e objetivos; o processo ensino-aprendizagem como contínuo, interativo e centrado no processo por meio do qual o(a) estudante (re)constrói seus conhecimentos, possibilitando esse acompanhamento, bem como fornecendo subsídios para a avaliação da própria prática docente; e possibilitando a avaliação dos objetivos pretendidos. Apresentando os resultados de aprendizagem em diferentes períodos a fim de replanejar o ensino para a próxima etapa.
+
+De acordo com decisão dos órgãos colegiados do campus a organização passará a ser trimestral a partir do ano de 2024. Essa configuração permitirá mais tempo hábil para o desenvolvimento dos métodos avaliativos e de recuperação paralela.
+
+Para atender ao proposto, entre outros instrumentos de acordo com a Resolução 50/17 de 14 de julho de 2017, os professores lançarão mão de instrumentos, tais como:
+
+- Seminários realizados pelos(as) estudantes;
+
+- Autoavaliação;
+
+- Portfólios;
+
+- Trabalhos individuais ou em grupo;
+
+- Textos escritos ou orais;
+
+- Dramatizações;
+
+- Atividades avaliativas formais;
+
+- Outros a critério dos docentes.
+
+Os docentes, conforme o Art. 11 da Resolução 50/17 de 14 de julho de 2017, terão autonomia para definir a estratégia, os instrumentos e os critérios avaliativos mais adequados sempre em consonância com os valores, objetivos e princípios adotados pelo IFPR.
+
+## **6.1.1 Recuperação Paralela**
+
+A Recuperação de estudos é orientada pela Resolução no 50, de 14 de julho de 2017, em seus Parágrafos 1º e 2º e pela Nota CNE/CEB (9 de setembro 2013). A Recuperação Contínua será ofertada por meio de um conjunto de ações desenvolvidas pelos docentes ao longo das aulas com o objetivo de retomar conteúdos que não foram apropriados e/ou construídos pelos(as) estudantes. A Recuperação Paralela, se constitui como parte integrante do processo de ensino aprendizagem em busca da superação de dificuldades encontradas pelo(a) estudante e deve envolver a recuperação de conteúdos e conceitos a ser realizada por meio de aulas e instrumentos definidos pelo docente em horário diverso dos componentes curriculares cursados pelo(a) estudante podendo ser presencial e/ou não presencial.
+
+Serão ofertados estudos de recuperação paralela a todos os(as) estudantes, principalmente aos que apresentarem baixo rendimento, tão logo sejam identificadas as dificuldades no processo ensino aprendizagem.
+
+A organização dos horários e da metodologia para esta recuperação é de competência de cada docente em conjunto com a equipe pedagógica e gestores do campus, respeitadas as normativas institucionais e considerando horários especiais para os(as) estudantes em face de aspectos profissionais ou pessoais justificados. Além disso, é responsabilidade do professor comunicar a oferta da recuperação paralela ao(à) estudante, bem como, é responsabilidade do(a) estudante participar das atividades propostas. O Campus ficará com a responsabilidade dos espaços para o desenvolvimento desta ação.
+
+A Recuperação Paralela implica em novos registros acadêmicos e, quando constatada a apropriação dos conteúdos estudados, ocorrerá a mudança do resultado. Consideramos ainda os pressupostos do documento “Estudos de recuperação”, emitido pela Câmara de Educação Básica do Conselho Nacional de Educação integrante do Ministério da Educação de 09/09/2013 que orienta sobre os estudos de recuperação e das práticas de instituições que entendem ser possível a recuperação dentro da carga horária dos componentes curriculares.
+
+## **6.1.2 Forma de Emissão de Resultados**
+
+Conforme orienta a Resolução n. 50, de 14 de julho de 2017, os resultados obtidos no processo de avaliação serão emitidos por disciplinas/ unidades curriculares/ componentes curriculares/ áreas e disponibilizados por meio eletrônico e/ou entrega individual de boletim, devendo ser expressos por conceitos, sendo:
+
+I – conceito A – quando a aprendizagem do(a) estudante for PLENA e atingir os objetivos, conforme critérios propostos no plano de ensino;
+
+II – conceito B – quando a aprendizagem do(a) estudante for PARCIALMENTE PLENA e atingir os objetivos, conforme critérios propostos no plano de ensino;
+
+III – conceito C – quando a aprendizagem do(a) estudante for SUFICIENTE e atingir os objetivos, conforme critérios propostos no plano de ensino;
+
+IV – conceito D – quando a aprendizagem do(a) estudante for INSUFICIENTE e não atingir os objetivos, conforme critérios propostos no plano de ensino;
+
+Ao final de cada período letivo, os conceitos serão emitidos parcialmente obedecendo a organização curricular e o calendário emitido pelo Campus Colombo. Caso o componente curricular seja ministrado por mais de um docente, será atribuído o conceito resultado do consenso destes docentes seguindo critérios pré-estabelecidos por eles e de conhecimento prévio dos(as) estudantes. O processo de ensino-aprendizagem será considerado em sua totalidade envolvendo todos os segmentos da comunidade acadêmica para a definição dos resultados da avaliação.
+
+## **6.1.3 Condições de Aprovação**
+
+Conforme orienta o Art. 16 da Resolução 50/2017 de 14 de julho de 2017, serão considerados aprovados os(as) estudantes que obtiverem o conceito A, B ou C no componente curricular e frequência igual ou superior a 75% (setenta e cinco por cento) da carga horária total no período letivo.
+
+## **6.1.4 Progressão Parcial**
+
+O Art. 18 da Resolução 50/2017 de 14 de julho de 2017 orienta para a progressão parcial dos(as) estudantes que obtiverem no máximo 3 (três) conceitos D no total dos componentes curriculares do curso e frequência mínima de 75% no período letivo, cabendo ao campus ofertar os componentes curriculares para os(as) estudantes em regime de dependência em turmas regulares ou especiais para este fim.
+
+O regime de dependência será organizado pela oferta, nos anos seguintes, dos componentes curriculares em que o(a) estudante reprovou, e\ou a partir da criação de turmas especiais em que poderá ser utilizada a metodologia do Plano Individual de Estudos. A necessidade deste Plano Individual de Estudos será sinalizada pelo professor do componente curricular e deverá ser desenvolvido e concluído durante o módulo em que o componente curricular estiver inserido proporcionando ao(à) estudante a oportunidade de aprovação para o módulo seguinte. No caso de obtenção de 4 (quatro) ou mais conceitos D nos componentes curriculares, os(as) estudantes deverão cursar novamente todo o módulo. Os(as) estudantes que não obtiverem a frequência igual ou superior a 75% (setenta e cinco por cento) da carga horária total no período letivo ficarão retidos sem direito à progressão para o período letivo seguinte.
+
+## 6.2 APROVEITAMENTO DE ESTUDOS ANTERIORES
+
+O aproveitamento de estudos anteriores compreende o processo de aproveitamento de componentes curriculares cursados com êxito em outro curso. De acordo com a Lei de Diretrizes e Bases, no 9.394/96, e com a Resolução IFPR n° 54/2011, atualizada pela Resolução 01/2017, o curso subsidiará o Aproveitamento de Estudos dos(as) estudantes validando o conhecimento adquirido dos mesmos na Educação Básica, na Educação Profissional e Tecnológica, inclusive no trabalho. Essa validação será realizada a partir de avaliações individuais em que serão gerados o reconhecimento e certificação para prosseguimento ou conclusão de estudos. O processo considera ainda o artigo 1º da Resolução 1/2017:
+
+Art. 63. Nos Cursos de Ensino Médio Integrado e PROEJA, a possibilidade de aproveitamento de estudos está condicionada à análise dos documentos e, facultativamente, realização de outras formas de avaliação, que comprovem a coincidência e/ou equivalência de conteúdos entre componentes curriculares cursados com êxito em outro curso e aqueles previstos nas ementas do Projeto Pedagógico do Curso – PPC em que se encontra matriculado no IFPR, bem como à natureza e a especificidade do itinerário formativo de cada curso.
+
+Dessa forma, o pedido de Aproveitamento de Estudos será avaliado por comissão formada para análise do processo, que fará a verificação de correspondência de componentes curriculares, ementas, carga horária e expedir manifestação pertinência pedagógica sobre natureza e especificidade do itinerário formativo para emissão de parecer.
+
+## 6.3 CERTIFICAÇÃO DE CONHECIMENTOS ANTERIORES
+
+De acordo com a Lei de Diretrizes e Bases, no 9.394/96, em seu artigo 41, em conformidade com o artigo 69 da Resolução 54/2011, “o conhecimento adquirido na educação profissional e tecnológica, inclusive no trabalho, poderá ser objeto de avaliação, reconhecimento e certificação para prosseguimento ou conclusão de estudos”.
+
+“Entende-se por certificação de conhecimentos anteriores a dispensa de frequência em componente curricular em que o(a) estudante comprove domínio de conhecimento através da aprovação em avaliação” (Resolução n° 54/2011, art. 70), bem como, os procedimentos para avaliação e critérios de aplicação encontram-se descritos nos parágrafos do artigo 70 da Resolução 54/2011.
+
+## 6.4 REPRESENTAÇÃO GRÁFICA DO PROCESSO FORMATIVO
+
+## 6.5 MATRIZ CURRICULAR
+
+## 6.6 ATIVIDADES COMPLEMENTARES
+
+Não se aplica.
+
+## 6.7 EMENTÁRIO E BIBLIOGRAFIAS
+
+## 1º ANO
+
+COMPONENTE CURRICULAR: Língua Inglesa CARGA HORÁRIA: 80/ha – 67/hr
+
+## EMENTA:
+
+A importância do inglês como língua estrangeira inglês para informática (integração); técnicas de leitura instrumental: _scanning_ & _skimming_ ; hábitos e preferências; eventos passados e futuros; inglês e literatura; descrições físicas e psicológicas; profissões; comida; gêneros linguísticos e seus elementos composicionais; a aquisição de repertório vocabular; a leitura e a interpretação de
+
+textos; Inglês em textos literários e midiáticos; inglês e sustentabilidade; inglês nas artes e nos esportes; inglês e tecnologia (integração); literatura de língua inglesa; gêneros linguísticos e seus elementos composicionais; a aquisição de repertório vocabular; a leitura e a interpretação de textos; desenvolvimento das habilidades de leitura, escrita e oralidade.
+
+BIBLIOGRAFIA BÁSICA:
+
+AGA, Gisele. (ed.) **Upgrade.** São Paulo: Richmond, 2010.
+
+AUN, E.; MORAES, M.C.P.; SANSANOVICZ, N.B. **English for All** . Saraiva, v.1, 2010. DIAS, R., JUCÁ, L., FARIA, R. **High up.** São Paulo: Macmillan, 2013.
+
+MCCARTHY, M. & O’DELL. F. **English vocabulary in use** . Cambridge: Cambridge University Press, 1999.
+
+MURPHY, R. **Essential Grammar in Use** : self-study reference and practice book for elementary students of English with answers. 11th printing. Cambridge: Cambridge University Press, 2011.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BRAGA, Junia de Carvalho Fidelis (coord.). **Integrando tecnologias no ensino de Inglês nos anos finais do Ensino Fundamental** . São Paulo: SM, 2012. DIAS, Reinildes. **Inglês Instrumental** : leitura crítica - uma abordagem construtivista. Belo Horizonte: Editora UFMG, 3ª edição revista e ampliada, 2002. DOLZ, Joaquim; SCHNEUWLY, Bernand. **Gêneros orais e escritos na escola.** Campinas: Mercado de Letras, 2004. PAIVA. Vera Lúcia Menezes de Oliveira e. **Ensino de Língua Inglesa no Ensino Médio** : teoria e prática. São Paulo: SM, 2012. SANTOS, Denise. **Ensino de língua inglesa** : foco em estratégias. Barueri: Disal, 2012.
+
+## COMPONENTE CURRICULAR: Educação Física I
+
+CARGA HORÁRIA: 40/ha – 33/hr
+
+## EMENTA:
+
+Estimulação dos movimentos corporais elementares e aprimoramento das capacidades e habilidades motoras básicas, potencializando a aprendizagem global. Atividades prático recreativas e outras atividades de práticas corporais, como jogos, brincadeiras, esportes, ginástica, e demais manifestações da Cultura Corpórea. Análise das diversas manifestações da Atividade Corporal nas diferentes fases da existência humana.
+
+## BIBLIOGRAFIA BÁSICA:
+
+BARBANTI, Valdir J. **Dicionário de educação física e do esporte** . 3. Ed.. Barueri: Manole, 2011.
+
+BARBOSA FILHO, Valter Cordeiro. **Atividade física e ambiente escolar** : discutindo práticas e percepções na adolescência. 1 ed. Curitiba: Appris Editora, 2016.
+
+GALAHUE, D.L.; OZMUN, J.C. **Compreendendo o desenvolvimento motor** : bebês, crianças, adolescentes e adultos. São Paulo: Phorte Editora, 2013.
+
+## BIBLIOGRAFIA COMPLEMENTAR:
+
+ALMEIDA, Alexandre Gomes de; DECHECHI, Clodoaldo José. **Handebol/ conceitos e aplicações** . Barueri: Manole, 2012.
+
+BARBANTI, Valdir José (Org) et al. **Esporte e atividade física** : interação entre rendimento e qualidade de vida. Barueri: Manole, 2002.
+
+BIZZOCCHI, Carlos “Cacá”. **O voleibol de alto nível** : da iniciação à competição. Barueri: Manole, 2016.
+
+CASTELLANI FILHO, Lino. **Educação física no Brasil** : a história que não se conta. 18. ed. Campinas: Papirus, 2010.
+
+FONSECA, Gerard Maurício Martins; SILVA, Mauro Amâncio da. **Jogos de futsal** . Caxias do Sul: EDUCS, 2011.
+
+GORGATTI, Márcia Greguol; COSTA, Roberto Fernandes da (Org). **Atividade física adaptada** : qualidade de vida para pessoas com necessidades especiais. 2. ed. Barueri: Manole, 2008.
+
+KRÖGER C, ROTH K. **Escola da bola** : um ABC para iniciantes nos jogos esportivos. São Paulo: Phorte, 2002.
+
+MOREIRA, Wagner Wey; SIMÕES, Regina; MARTINS, Ida Carneiro. **Aulas de educação física no ensino médio** . 2. ed. Campinas: Papirus, 2012.
+
+PAES, Roberto Rodrigues; BALBINO, Hermes Ferreira. **A pedagogia do esporte e os jogos coletivos.** In: ROSE JÚNIOR, Dante e colaboradores (Orgs.). Esporte e atividade física na infância e na adolescência: uma abordagem multidisciplinar. 2. ed. Porto Alegre: Artmed, 2009.
+
+PRONI, M. W. e LUCENA, R. **Esporte, História e Sociedade** . Campinas: Autores Associados, 2002.
+
+ROSE JÚNIOR, Dante de; TRICOLI, Valmor (Org). **Basquetebol** : uma visão integrada entre ciência e prática. Barueri: Manole, 2005.
+
+RUFINO, Luiz Gustavo Bonatto; DARIDO, Suraya Cristina. **O ensino das lutas na escola** : possibilidades para a educação física. Porto Alegre: Penso, 2015.
+
+TUBINO, Manuel José Gomes. **O que é esporte** . Coleção primeiros passos. São Paulo: Editora Brasiliense, 2023.
+
+COMPONENTE CURRICULAR: Arte I
+
+CARGA HORÁRIA: 80/ha – 67/hr
+
+EMENTA: Arte rupestre. Conceito de cultura e patrimônio cultural. Arte africana. Etnias indígenas paranaenses. Arte asiática. Período Renascentista e a busca pela perspectiva. A arte modernaprincipais movimentos nas artes visuais, música, teatro e dança. A descolonização dos museus e a restituição das obras de arte. O conceito de ready-made (integração). Práticas artísticas.
+
+BIBLIOGRAFIA BÁSICA: ARGAN, G. C. **Arte moderna** . São Paulo: Companhia das Letras, 1993. CAPRA, Fritjof. **A alma de Leonardo da Vinci** : um gênio em busca do segredo da vida.  São Paulo: Cultrix, 2012. MAIOR, Flávia Souto. **O livro da arte.** São Paulo, Globo, 2019. PAIVA, Alessandra Simões. **A virada decolonial na arte brasileira** .  São Paulo: Editora Mireveja, 2022. PROUS, ANDRE. **Arte pré-histórica do Brasil** . Belo Horizonte: Editora C/Arte, 2021.
+
+BIBLIOGRAFIA COMPLEMENTAR: AVOLESE, Claudia Mattos; MENESES, Patrícia D. (Orgs.). **Arte não Europeia** : conexões historiográficas a partir do Brasil. São Paulo: Estação Liberdade, 2020. FERRARI, S. S. U. [et.al]. **Por toda Parte.** São Paulo: FTD, 2013.
+
+LAGROU, E. **Arte indígena no Brasil** . Belo Horizonte: C/Arte, 2009. RICALDES, João. **História da Arte em 200 Obras** . São Paulo: FTD, 2021. SPINELLI, Mirella. **Leonardo da Vinci - Mestres da arte em quadrinhos.** São Paulo: Nemo, 2014.
+
+COMPONENTE CURRICULAR: Língua Portuguesa e Literatura I CARGA HORÁRIA: 120/ha – 100/hr EMENTA: Estudos da linguagem, processos interativos e socioculturais da língua. Fundamentos da linguagem. Gêneros literários e os diálogos com outras linguagens (integração). Estudo dos aspectos linguísticos da Língua Portuguesa. Produção e recepção de gêneros textuais literários e não-literários (integração). BIBLIOGRAFIA BÁSICA: ABAURRE Luiza M.; PONTARA, Marcela. **Gramática - texto** : análise e construção de sentido. São Paulo: Moderna, 2010. ABAURRE Luiza M.; PONTARA, Marcela. **Produção de texto** : interlocução e gêneros. São Paulo: Moderna, 2010. ANDRADE, Carlos Drummond de. **Claro enigma** . São Paulo: Companhia das Letras, 2012. BAGNO Marcos. **Gramática, pra que te quero?** Curitiba: Aymará, 2010. BAGNO Marcos. **Preconceito Linguístico.** São Paulo: Edições Loyola, 1999. BIBLIOGRAFIA COMPLEMENTAR: ANTUNES, Irandé. **Aula de português** : encontro e interação. São Paulo: Parábola Editorial, 2003. BENITEZ, Regina. **A moça do corpo indiferente.** Curitiba: KAFKA, 2016. BORGES, Assagra e Alda. **Leitura** : o mundo além das palavras. Curitiba: Instituto RPC, 2010. COLLIN, Luci. **Olho reavido** . São Paulo: Iluminuras, 2022. CORTEZ, Clarice. RODRIGUES, Milton. **Operadores de leitura de poesia.** Teoria Literária: abordagens históricas e tendências contemporâneas. 3. Ed. Eduem. 2009. FOLHA DE S. PAULO. **Manual da Redação da Folha de São Paulo** . São Paulo: Publifolha, 2013. GERALDI, João Wanderley. et al. (orgs.). **O texto na sala de aula.** São Paulo: Anglo, 2012. GOTLIB, Nádia B. **A Teoria do Conto** . 11ª edição. São Paulo: Ática, 2006. KOPROSKI, Fernando. **Finais Felizes** – Rio de Janeiro: 7 Letras, 2022 LEMINSKI, Paulo. **Toda Poesia** . São Paulo, Companhia das Letras, 2013. LISPECTOR, Clarice **: Felicidade clandestina.** Rio de Janeiro: Rocco, 1998. LISPECTOR, Clarice **: Laços de família.** Rio de Janeiro: Rocco, 2009. PASSARELI, Lilian. **Ensino e correção na produção de textos escolares** . São Paulo: Telos, 2012. POE, Edgar Allan. **O corvo e outros contos extraordinários.** São Paulo: Principis, 2019. ROSA, Guimarães. **Primeiras Estórias** . São Paulo: Global, 2019. RUIZ, Alice. **Dois em um** . São Paulo: Iluminuras, 2008. SACONI, Luiz Antônio. **Novíssima gramática ilustrada.** São Paulo: Nova geração, 2013.
+
+SANDRINI, Paulo. **O estranho hábito de dormir em pé.** Curitiba: Travessa dos Editores, 2003. SANT'ANNA, Affonso Romano de. **Ler o mundo.** São Paulo: Global, 2011.
+
+SARMENTO, Leila Lauar. **Gramática em textos** (Vereda Digital). São Paulo: Moderna, 2012. SCHWARTZ, Gisele Maria. **Aventuras na natureza:** consolidando significados. Fontoura, 2006.
+
+TRAVAGLIA, L.C. **Gramática e interação:** uma proposta para o ensino de gramática no 1º e 2º graus. São Paulo: Cortez, 1996.
+
+VENTURELLI, Paulo. **A morte** . Rio de Janeiro: 7 Letras, 2006.
+
+VENTURELLI, Paulo. **Fantasmas de Caligem** . Curitiba: Travessa dos Editores, 2006.
+
+## COMPONENTE CURRICULAR: Química I
+
+CARGA HORÁRIA: 120/ha – 100/hr
+
+EMENTA: A química no cotidiano. Conceitos Fundamentais. Propriedades e Estados da matéria. Teoria atômica. Radioatividade. Classificação periódica. Ligação química. Forças intermoleculares. Funções Inorgânicas. Quantidade de matéria. Estequiometria. Reações Químicas. Soluções. Propriedade Coligativas. Termoquímica. Eletroquímica.
+
+BIBLIOGRAFIA BÁSICA: ATKINS, P. W.; JONES, L. **Princípios de química** : questionando a vida moderna e o meio ambiente. 5. ed. Porto Alegre: Bookman, 2012. BRUNI, Al. T.; PETILLO, A. L. N. **Ser Protagonista** - Química - Volumes 1, 2 e 3. 2ª edição. São Paulo: SM, 2015. REIS, M, E. **Química** . Volumes 1, 2 e 3. 1ª edição. São Paulo: Ática, 2014. SANTOS, W.; MOL, G. **Química Cidadã** . Volumes 1, 2 e 3. São Paulo: AJS, 2015.
+
+BIBLIOGRAFIA COMPLEMENTAR: BROWN, T. L. et al. **Química** : a ciência central. 9. ed. São Paulo: Pearson Prentice Hall, 2005. CEZAR, F. L. J. **Ser Protagonista Química** . Volume Único. 1ª Edição. SM Didáticos, 2010. POLITI, E. **Química** : Curso Completo. São Paulo: Moderna, 1992. ROZENBERG, I. M. **Química geral.** São Paulo: Edgard Blücher, 2003. RUSSELL, J. B. **Química geral** . 2 ed. São Paulo: Makron Books, 1994-2008. 2 v.
+
+## COMPONENTE CURRICULAR: Física I
+
+CARGA HORÁRIA: 80/ha – 67/hr
+
+EMENTA:
+
+Cinemática; Leis de Newton e suas aplicações; Energia, Trabalho, potência e Conservação da Energia Mecânica; Impulso e Conservação da Quantidade de Movimento. A abordagem dos conceitos deve objetivar a integração ao campo da informática.
+
+BIBLIOGRAFIA BÁSICA: ARTUSO, A. R.; SOARES, M. V. **Viva Física** . Volume 1. Curitiba: Positivo, 2016. GUIMARÃES, O.; PIQUEIRA, J. R.; CARRON, W. **Física.** Volume 1. São Paulo: Ática, 2014. HEWITT, P. **Física conceitual** . Porto Alegre: Bookman, 2009.
+
+MENEZES, L. C. de et al. **Quanta física** . São Paulo: Pearson, 2014. 3v. PIETROCOLA, M. et al. **Física em contextos** . Volume 1. São Paulo: FTD, 2013. SILVA, C. X.; BARRETO FILHO, B. **Física** – aula por aula. Volume 1. São Paulo: FTD, 2010. BIBLIOGRAFIA COMPLEMENTAR: BELTRAN, Maria Helena Roxo; SAITO, Fumikazu; TRINDADE, Laís dos Santos Pinto (orgs.). **História das ciências** : tópicos atuais. São Paulo: Livraria da Física, 2011. BORGES, J. F. M. **Física do Cotidiano** . Curitiba: Blanche, 2014. BRUCE, C. **As aventuras científicas de Sherlock Holmes.** Rio de Janeiro: Jorge Zahar Editor, 2002.
+
+DOV, Y. B. **Convite à física** . Rio de Janeiro: Jorge Zahar Editor, 1996. FEYNMAN, R. **Sobre as leis da física.** Rio de Janeiro: Contraponto, 2012. FEYNMAN, Richard P.; LEIGHTON, Robert B.; SANDS, Matthew. **Lições de física de Feynman.** Porto Alegre: Artmed, 2008. 4v. FIOLHAIS, C. **Física divertida** . Lisboa: Gradiva Publicações, 1991.
+
+GUERRA, A.; BRAGA, M.; REIS, J. C. **Breve história da ciência moderna** . Rio de Janeiro: Jorge Zahar Editor, 2008. 4v.
+
+HART-DAVIS, A. et al. **O Livro das ciências** . Rio de Janeiro: Globo, 2015. HAWKING, Stephen. **Uma breve história do tempo** . Rio de Janeiro: Intrínseca, 2005. HENRY, John. **A revolução científica e as origens da ciência moderna** . Rio de Janeiro: Zahar, 1998. KOYRÉ, Alexandre. **Estudos de história do pensamento científico** . 2. ed. Rio de Janeiro: Forense Universitária, 1991.
+
+LOPES, Jose Leite. **Uma história da física no Brasil** . São Paulo: Livraria da Física, 2012. MENEZES, L. C. de. **A matéria** . São Paulo: Livraria da Física, 2005. MIGLIAVACCA, A.; WITTE, G. **A física na cozinha** . São Paulo: Livraria da Física, 2014. SAITOVITCH, E. M. B. et al. **Mulheres na física** : casos históricos, panorama e perspectivas. São Paulo: Livraria da Física, 2015.
+
+STEWART, Ian. **17 Equações que mudaram o mundo** . São Paulo: Cia das Letras, 2013. TOLAN, M.; STOLZE, J. **A física de James Bond** . São Paulo: Cultrix, 2013. TUFAILE, Alberto; TUFAILE, Pedrosa Biscaia. **Da física do faraó ao fóton** . São Paulo: Livraria da Física, 2013.
+
+## COMPONENTE CURRICULAR: Geografia I
+
+CARGA HORÁRIA: 120/ha – 100/hr
+
+EMENTA:
+
+Introdução aos estudos geográficos e investigação sobre as diferentes formas de compreensão do mundo. Os fundamentos da Cartografia e das ferramentas digitais utilizadas para a representação dos fenômenos geográficos. Geografia Física e Meio Ambiente. O processo de urbanização e suas consequências para o espaço urbano contemporâneo. O processo de industrialização no Brasil e a distribuição espacial das indústrias. O espaço rural e a produção agropecuária. A gênese das fronteiras brasileiras e processo de formação do território brasileiro. As matrizes culturais brasileiras e a dinâmica demográfica do Brasil contemporâneo.
+
+BIBLIOGRAFIA BÁSICA: AB’SABER, Aziz Nacib. **Os domínios de natureza no Brasil** : potencialidades paisagísticas. 7. ed. São Paulo: Ateliê Editorial, 2012.
+
+DEÁK, Csaba; SCHIFFER, Sueli Ramos (Org.). **O processo de urbanização no Brasil** . 2. ed. São Paulo: EDUSP, 2015.
+
+DUARTE, P. A. **Fundamentos de Cartografia** . Florianópolis: UFSC, 2008. MARTINELLI, Marcello. **Cartografia Temática** : Caderno de Mapas. São Paulo: EdUSP, 2016.
+
+MENDONÇA, Francisco de Assis; LIMA, Myrian Del Vecchio de (Org.). **A cidade e os problemas socioambientais urbanos** : uma perspectiva interdisciplinar. Curitiba: UFPR, 2019. SANTOS, Milton; SILVEIRA, Maria Laura. **O Brasil** : território e sociedade no início do Século XXI. Rio de Janeiro: Record, 2001. 471p.
+
+SOUZA, José Gilberto de; KATUTA, Angela Massumi. **Geografia e conhecimentos cartográficos** : a cartografia no movimento de renovação da geografia brasileira e a importância do uso de mapas. São Paulo: Unesp, 2010.
+
+## BIBLIOGRAFIA COMPLEMENTAR:
+
+ALBERT, Bruce; KOPENAWA, Davi. **O espírito da floresta** . São Paulo: Companhia das Letras, 2023. BRUM, Eliane. Banzeiro **Òkòtó** : uma viagem à Amazônia Centro do Mundo. São Paulo: Companhia das Letras, 2021.
+
+DORÉ, Andréa; FURTADO, Junia (Org.). **História do Brasil em 25 mapas** . São Paulo: Companhia das Letras, 2022.
+
+GOMES, Flávio dos Santos; LAURIANO, Jaime; SCHWARCZ, Lilia Moritz. **Enciclopédia negra** : biografias afro-brasileiras. São Paulo: Companhia das Letras, 2021. JÖRG, Spangenberg. **Natureza em Megacidades** : serviços ambientais da Floresta urbana. São Paulo: EdUSP, 2019. KRENAK, Ailton. **A vida não é útil** . São Paulo: Companhia das Letras, 2020. MARSHALL, Tim. **O poder da geografia** : o futuro do nosso mundo em 10 mapas. São Paulo: Zahar, 2022.
+
+MONTGOMERY, David R. **Erosão** : dos solos às civilizações. São Paulo: EdUSP, 2021. NASCIMENTO, Beatriz. **Uma história feita por mãos negras** . RATT, Alex (Org.). São Paulo: Zahar, 2021.
+
+PRANDI, Reginaldo. **Contos e lendas afro-brasileiros** : A criação do mundo. São Paulo: Seguinte, 2023.
+
+SANTOS, Milton. **A urbanização brasileira** . São Paulo: EdUSP, 2023.
+
+SANTOS, Milton. **A urbanização desigual** : a especificidade do fenômeno urbano em países subdesenvolvidos. São Paulo: EdUSP, 2021.
+
+WERNICK, Eberhard. **Rochas magmáticas** : conceitos fundamentais e classificação modal, química, termodinâmica e tectônica. São Paulo: Unesp, 2004.
+
+## COMPONENTE CURRICULAR: Matemática I
+
+CARGA HORÁRIA: 120/ha – 100/hr
+
+EMENTA: Conjuntos: Operações, Conjuntos Numéricos e Intervalos; Funções: Conceito, gráficos, função polinomial, função inversa, função afim, função quadrática, função modular, função exponencial, função logarítmica. Sequências: PA e PG. Semelhança de Triângulos. Trigonometria no Triângulo Retângulo.
+
+BIBLIOGRAFIA BÁSICA: DANTE, L. R. **Matemática** : contexto e aplicações. 4ª. ed. São Paulo: Ática. 2018. GIOVANNI, J. R.; GIOVANNI JR., J. R.; BONJORNO, J. R. **Matemática Fundamental** : uma nova abordagem. 2ª ed. São Paulo: FTD, 2011. IEZZI, G. _et al_ . **Matemática** : ciência e aplicações. 3 vols. 8ª ed. São Paulo: Atual, 2014. LEONARDO, F. M.; SILVA, W. R. **Conexões com a matemática** . 2ª ed. São Paulo: Editora Moderna, 2017. LOPES, Luiz Fernando; CALLIARI, Luiz Roberto. **Matemática Aplicada na Educação Profissional** . 1ª ed. São Caetano do Sul: Base Editorial, 2012.
+
+## BIBLIOGRAFIA COMPLEMENTAR:
+
+BASSANEZI, R. C. **Ensino-aprendizagem com modelagem matemática** : uma nova estratégia. São Paulo: Editora Contexto, 2002.
+
+IEZZI, G, DOLCE, O., MURAKAMI, C. **Fundamentos da Matemática elementa** r - volume 2. São Paulo, Editora Atual, 2010. MELLO, J. L. P. **Matemática** : construção e significado. 1ª ed. São Paulo: Editora Moderna, 2005. MURAKAMI, C., IEZZI, G. **Fundamentos da Matemática elementar** - volume 1. São Paulo, Editora Atual, 2010.
+
+## COMPONENTE CURRICULAR: AOC e sistemas operacionais
+
+CARGA HORÁRIA: 80/ha – 67/hr
+
+EMENTA: História da Informática. Conceitos de software e hardware. Tipos de dispositivos. A Internet e a Web. Tipos de arquivos. Softwares de tratamento básico de informação (edição de texto, planilha eletrônica e apresentação). Introdução a Sistemas Operacionais.  Conceitos de Sistemas Operacionais. Introdução à arquitetura e organização de computadores. Evolução dos sistemas computacionais. Componentes de hardware. Instalação dos principais componentes de um computador. Particionamento e formatação de discos. Instalação de Sistemas Operacionais. Manutenção preventiva e corretiva. Sistemas de numeração: Base Binária e Hexadecimal; Softwares aplicativos: Editor de textos, E-mail, editor de planilhas, editor de apresentação, navegador de Internet, Sistemas de armazenamento em nuvem.
+
+BIBLIOGRAFIA BÁSICA:
+
+DEITEL, H. M., DEITEL, P.J., CHOFINES, D.R. **Sistemas Operacionais** . São Paulo: Pearson Prenticce-Hall, 2005.
+
+FOROUZAN, B.; MOSHARRAF, F. **Fundamentos da Ciência da Computação** . São Paulo: Cengage Learning, 2011.
+
+HENNESSY, John L.; PATTERSON, David A. **Arquitetura de Computadores** . Uma Abordagem Quantitativa. 4. Edição. Elsevier: Campus, 2008.
+
+STALLINGS, W. **Arquitetura e organização de computadores** . 8. Edição. São Paulo: Pearson Prentice - Hall, 2010.
+
+TANENBAUM, A. S. **Organização estruturada de computadores** . 5. Edição. São Paulo: Pearson Prentice - Hall, 2007.
+
+## BIBLIOGRAFIA COMPLEMENTAR:
+
+ENGLANDER. I **Arquitetura de Hardware Computacional, Software de Sistema e Comunicação em Rede.** 4 ed. Rio de Janeiro: LTC, 2011.
+
+HENNESSY, J.L; PATTERSON, D.A. **Arquitetura de Computadores** - Uma Abordagem Quantitativa. Rio de Janeiro: Elsevier, 2008.
+
+LAUREANO, Marcos Aurelio Pchek; OLSEN, Diogo Roberto, A. S. **Sistemas Operacionais** . 1ª. Edição. Editora LT. 2010.
+
+MONTEIRO, M. A. **Introdução à Organização de Computadores** . 5 ed. Rio de Janeiro: LTC, 2007.
+
+SCHIAVONI, Marilene. **Hardware** . 1ª. Edição. Editora LT. 2010.
+
+## COMPONENTE CURRICULAR: Algoritmos e linguagem de programação
+
+CARGA HORÁRIA: 160/ha – 133/hr
+
+## EMENTA:
+
+Algoritmos e Linguagem de Programação: Raciocínio lógico. Resolução de algoritmos. Tipos de Variáveis, Definição de Variáveis, Conceitos de fundamentos de algoritmos. Variáveis. Operadores Aritméticos, Relacionais e Lógicos. Tipos de Dados. Estruturas de decisão. Estruturas de repetição. Funções. Vetores. Matrizes. Manipulação de Arquivos. Estruturas de dados. Resolução de algoritmos. Tabelas Verdade. Raciocínio lógico. Conceito de Algoritmo: Formas de representação de Algoritmos; Atribuições; Operadores; Estruturas de controle: Sequencial, condicional e repetitiva; Tipos de dados; Variáveis e Constantes; Sub-rotinas (Métodos); Transcrição de Algoritmos para uma Linguagem de Programação
+
+BIBLIOGRAFIA BÁSICA:
+
+ASCENCIO, Ana Fernanda Gomes; CAMPOS, Edilene Aparecida Veneruchi de. **Fundamentos da programação de computadores** : algoritmos, pascal, C/ C++ (padrão ANSI) e Java. 3. ed. São Paulo: Pearson Prentice Hall, 2012.
+
+BENEDUZZI, H.M., METZ, J.A. **Lógica e linguagem de programação** . Curitiba: Editora do Livro Técnico, 2010. CORMEN, Thomas H. **Desmistificando algoritmos** . Rio de Janeiro: Elsevier, 2014. FEOFILOFF, Paulo. **Algoritmos** : em linguagem C. Rio de Janeiro: Elsevier: Campus, 2009. FORBELLONE, André Luiz Villar; EBERSPÄCHER, Henri Frederico. **Lógica de programação** : a construção de algoritmos e estruturas de dados. 3. ed. São Paulo: Pearson Prentice Hall, 2005. FORBELLONE, André Luiz Villar; EBERSPÄCHER, Henri Frederico. **Lógica de programação** : a construção de algoritmos e estruturas de dados com aplicações em Python. 4. ed. São Paulo: Bookman, 2022. MANZANO, José Augusto N.G; OLIVEIRA, Jayr Figueiredo de. **Estudo dirigido de algoritmos.** 15. ed. São Paulo: Érica, 2012.
+
+BIBLIOGRAFIA COMPLEMENTAR: ALVES, William Pereira. **Lógica de programação de computadores** : ensino didático. São Paulo: Érica, 2010. ALVES, William Pereira. **Linguagem e lógica de programação** . 1. ed. São Paulo: Érica, 2014. ARAÚJO, Everton Coimbra de. **Algoritmos** : fundamento e prática. 3. ed. Florianópolis: Visual Books, 2007. BENEDUZZI, Humberto Martins; METZ, João Ariberto. **Lógica e linguagem de programação** :
+
+introdução ao desenvolvimento de software. Curitiba: LT, 2010.
+
+BHARGAVA, Aditya. **Entendendo Algoritmos** : Um Guia Ilustrado Para Programadores e Outros Curiosos. Novatec Editora; 1. ed. 2017.
+
+CORMEN, Thomas H et al. **Algoritmos** : teoria e prática. Rio de Janeiro: Elsevier, 2012. DEITEL, Harvey M.; DEITEL, Paul J.. **C++:** como programar. 5. ed. São Paulo: Pearson Prentice Hall, 2006.
+
+LOPES, A. **Introdução a programação** : 500 algoritmos resolvidos. São Paulo: Editora Campus, 2002.
+
+MANZANO, José Augusto N. G.; OLIVEIRA, Jayr Figueiredo de. **Algoritmos** : lógica para desenvolvimento de programação de computadores. 29. ed., rev. a atual. São Paulo: Érica, 2019. MENEZES, Nilo Ney Coutinho. **Introdução à Programação com Python** : Algoritmos e Lógica de Programação Para Iniciantes. 3. ed. Novatec, 2019.
+
+MIZRAHI, Victorine Viviane. **Treinamento em linguagem c++:** módulo 1. 2. ed. São Paulo: Pearson, 2006.
+
+MIZRAHI, Victorine Viviane. **Treinamento em linguagem c++:** módulo 2. 2.ed. São Paulo: Pearson, 2006.
+
+## **2º ANO**
+
+## COMPONENTE CURRICULAR: Arte II
+
+CARGA HORÁRIA: 80/ha – 67/hr
+
+## EMENTA:
+
+Importância dos espaços de cultura. Características da arte contemporânea. Pop Art e sociedade de consumo. A arte Conceitual. Land Art. Conceito de Instalação. Movimento Neoconcreto brasileiro. A participação do espectador na arte contemporânea. Performance. Intervenção urbana. A mescla de referências para criação de novas linguagens artísticas (integração). Videoarte (integração). A inteligência artificial na arte (integração). Práticas artísticas.
+
+BIBLIOGRAFIA BÁSICA:
+
+CANTON, Kátia. **Temas da Arte Contemporânea** . São Paulo: Martins Fontes, 2019. DANTO, Arthur. **O abuso da beleza** : A estética e o conceito de arte **.** São Paulo: Martins Fontes, 2015.
+
+DOMINGUES, Diana. **A arte no século XXI:** a humanização das tecnologias. São Paulo, Editora Unesp, 2023.
+
+GROU, Oliver. **Arte virtual** : da ilusão à imersão. São Paulo: Editora Unesp, 2007. LIESER, Wolf. **Arte digital** - novos caminhos na arte. São Paulo: Konemann, 2020.
+
+## BIBLIOGRAFIA COMPLEMENTAR:
+
+ARCHER, Michel. **Arte contemporânea** : Uma história concisa. São Paulo: Martins Fontes, 2019.
+
+BASBAUM, Ricardo. **Arte contemporânea brasileira** (1970–1999): Texturas, dicções, ficções, estratégias. Rio de Janeiro: Editora Circuito, 2021. BULHÕES, Maria Amélia. **Arte Contemporânea no Brasil.** João Pessoa: C/Arte, 2019. FREIRE, Cristina. **Arte conceitual** . São Paulo: Zahar, 2006.
+
+NUNES, Fabio Oliveira. **CTRL+ART+DEL** : Distúrbios em arte e tecnologia. Série Big Bang. São Paulo: Editora Perspectiva, 2010.
+
+REZENDE, Renato. **Arte contemporânea brasileira (2000–2020):** Agentes, redes, ativações, rupturas. Rio de Janeiro: Editora Circuito, 2021.
+
+COMPONENTE CURRICULAR: Educação Física II CARGA HORÁRIA: 40/ha – 33/hr EMENTA: Estimulação dos movimentos corporais elementares e aprimoramento das capacidades e habilidades motoras básicas. Atividades prático recreativas e outras atividades de práticas corporais, como jogos, brincadeiras, esportes, ginástica, e demais manifestações da Cultura Corpórea. Conceitos fundamentais do desenvolvimento motor e sua relação com as diferentes etapas do desenvolvimento humano. Entendimento dos aspectos sociais e históricos relacionados à Educação Física, Lazer e Esportes. BIBLIOGRAFIA BÁSICA: FINCK, Silvia Christina Madrid. **A educação física e o esporte na escola/ cotidiano, saberes e formação.** Curitiba: Inter saberes, 2012. GALAHUE, D.L.; OZMUN, J.C. **Compreendendo o desenvolvimento motor** : bebês, crianças, adolescentes e adultos. São Paulo: Phorte Editora, 2013. KISHIMOTO, Tizuko Morchida. **Jogo, brinquedo, brincadeira e a educação.** Petrópolis-RJ: Cortez, 2017. BIBLIOGRAFIA COMPLEMENTAR: BARBANTI, Valdir J. **Dicionário de educação física e do esporte** . 3. ed.. Barueri, SP: Manole, 2011. BIZZOCCHI, Carlos “Cacá”. **O voleibol de alto nível** : da iniciação à competição. Barueri, SP: Manole, 2016. BORGES, CM. **O professor de educação física e a construção do saber** . Campinas: Papirus, 2010. CASTELLANI FILHO, Lino. CASTELLANI, Rafael Moreno. **Os jogos de minha escola** . Editora Autores Associados, 2009. DARIDO, Suraya Cristina. DE MARCO, A., org. **Pensando a educação motora** . Campinas, Papirus, 2004. DUNNING, Eric. **A busca da excitação** . Lisboa, Portugal: Difel, 1992. ELIAS, Norbert. **A gênese do desporto** : um problema sociológico. In: ELIAS, Norbert; GRECO PJ, PRAÇA GM, PÉREZ-MORALES JC, ABURACHID LMC, RIBAS S. **Vinte anos de iniciação esportiva universal** : o conceito de jogar para aprender e aprender jogando, um pedagógico ABC-D. In: Boullosa D, Lara L, Athayde P, editors. Treinamento esportivo: um olhar multidisciplinar. Natal - RN: EDUFRN; 2020. HEYWARD, V.V. **Avaliação física e prescrição do exercício** . 4. ed. Porto Alegre: Artmed, 2013. MAGILL, Richard A. **Aprendizagem motora** : conceito e aplicações. In.: HANITZSCH, Erite Gerhard. [trad.]. São Paulo: Edgard Blucher, 2018. MOREIRA, Wagner Wey; SIMÕES, Regina; MARTINS, Ida Carneiro. **Aulas de educação física no ensino médio.** 2. ed. Campinas: Papirus, 2012. 144 p. (Coleção Papirus Educação). ROTH K, MEMMERT D, SCHUBERT R. **Escola da bola** : jogos de arremesso. São Paulo: Phorte Editora; 2016. SCALON, Roberto Mário. **A psicologia do esporte e a criança** . Porto Alegre: EdiPUC-RS 2004. STUBBS, Ray. **O livro dos esportes** : os esportes, as regras, as táticas, as técnicas. São Paulo: Editora Nova Fronteira, 2012.
+
+COMPONENTE CURRICULAR: Língua Portuguesa e Literatura II
+
+CARGA HORÁRIA: 120/ha – 100/hr
+
+EMENTA:
+
+Aspectos socioculturais da Língua Portuguesa. Estudo de gêneros textuais escritos e orais no contexto da produção alimentícia. Estruturas profundas e superficiais dos gêneros textuais. Interacionismo sociodiscursivo. Gêneros literários e os diálogos com outras linguagens (Integração). Produção e recepção de gêneros textuais literários e não-literários (Integração). BIBLIOGRAFIA BÁSICA: ABAURRE Luiza M.; PONTARA, Marcela. **Gramática - texto** : análise e construção de sentido. São Paulo: Moderna, 2010. ABAURRE Luiza M.; PONTARA, Marcela. **Produção de texto** : interlocução e gêneros. São Paulo: Moderna, 2010. ANDRADE, Carlos Drummond de. **Claro enigma** . São Paulo: Companhia das Letras, 2012. BAGNO Marcos. **Gramática, pra que te quero?** Curitiba: Aymará, 2010. BAGNO Marcos. **Preconceito Linguístico.** São Paulo: Edições Loyola, 1999. BECHARA, E. **Gramática escolar da Língua Portuguesa.** 2. ed. ampl. e atualizada pelo Novo Acordo ortográfico. Rio de Janeiro: Nova Fronteira, 2010. BOSI, Alfredo. **História concisa da literatura brasileira.** 41. ed. São Paulo: Cultrix, 2003. CALVINO, Ítalo. **Por que ler os clássicos.** São Paulo: Companhia das Letras, 2007. CANDIDO, Antonio. **Formação da literatura brasileira.** 15. ed. Rio de Janeiro: Ouro sobre Azul, 2014. MOISÉS, Massaud. **A literatura brasileira através dos textos.** 29. ed. São Paulo: Cultrix, 2012. RAMOS, Graciliano. **Vidas Secas.** Rio de Janeiro: Record, 2011. SACONI, Luiz Antônio. **Novíssima gramática ilustrada.** São Paulo: Nova geração, 2013. BIBLIOGRAFIA COMPLEMENTAR: ABREU, Casimiro. **As Primaveras** . São Paulo: Ática, 2004. AZEVEDO, Aluísio. **O cortiço** . Rio de Janeiro: Nova Fronteira, 2014. AZEVEDO, Alvares. **Lira dos vinte anos e outros poemas** . São Paulo: IBEP, 2006. ASSIS, Machado de. **Dom Casmurro** . São Paulo: Ática, 1992. ASSIS, Machado de. **Memórias póstumas de Brás Cubas** . São Paulo: Ática, 2002. BARRETO, Lima. **Triste fim de Policarpo Quaresma** . Rio de Janeiro: Nova fronteira, 2016. CORALINA, Cora. **Estórias da casa velha da ponte** . São Paulo: Global, 2014. GONZAGA, Tomás Antônio. **Marília de Dirceu** . São Paulo: Martin Claret, 2002. GUIMARÃES, Bernardo. **A escrava Isaura** . São Paulo: Ática, 2015. JECUPÉ, Kaka Werá. **A Terra dos Mil Povos** : História indígena contada por um índio. São Paulo: Peirópolis, 1998. MUNDURUKU, Daniel de. **O Karaíba** : Uma história do pré-Brasil. São Paulo: Manole, 2010. YAMÃ, Yaguarê. Kurumi Guaré no Coração da Amazônia. São Paulo: FTD, 2007.
+
+COMPONENTE CURRICULAR: Química II
+
+CARGA HORÁRIA: 80/ha – 67/hr
+
+## EMENTA:
+
+Cinética Química. Equilíbrio Químico. Fundamentos da Química Orgânica. Características Gerais do átomo de Carbono. Funções Orgânicas. Isomeria. Propriedades Físicas dos Compostos Orgânicos. Reações Orgânicas.
+
+BIBLIOGRAFIA BÁSICA: ATKINS, P. W.; JONES, L. **Princípios de química** : questionando a vida moderna e o meio ambiente. 5. ed. Porto Alegre: Bookman, 2012. BRUNI, Al. T.; PETILLO, A. L. N. **Ser Protagonista** - Química - Volumes 1, 2 e 3. 2ª edição. São Paulo: SM, 2015. MORRISON, R. T., **Química orgânica** . 15. ed. Lisboa: Fundação Calouste Gulbenkian, 2009. REIS, M, E. **Química.** Volumes 1, 2 e 3. 1ª edição. São Paulo: Ática, 2014. SANTOS, W.; MOL, G. **Química Cidadã** . Volumes 1, 2 e 3. São Paulo: AJS, 2015.
+
+BIBLIOGRAFIA COMPLEMENTAR: CEZAR, F. L. J. **Ser Protagonista Química** . Volume Único. 1ª Edição. São Paulo: SM Didáticos, 2010. POLITI, E. **Química: Curso Completo** . São Paulo: Moderna, 1992. ROZENBERG, I. M. **Química geral** . São Paulo: Edgard Blücher, 2003. SOLOMONS, G. **Química.** Volume 1 e 2. 8ª Edição. Rio de Janeiro: LTC, 2006.
+
+## COMPONENTE CURRICULAR: Biologia I
+
+CARGA HORÁRIA: 80/ha – 67/hr
+
+## EMENTA:
+
+Métodos de estudos na Biologia e nas Ciências da Natureza. Os seres vivos e níveis de organização. As primeiras formas de vida na Terra. Classificação dos seres vivos. Química da vida e suas relações com nutrição saudável e cultura alimentar. Citologia. Bioquímica e energética celular. Núcleo celular e código genético. Divisões celulares. Gametogênese e embriologia. Planejamento familiar e prevenção às infecções sexualmente transmissíveis. Histologia. Fisiologia humana: sistemas: digestório, circulatório, respiratório, excretor, nervoso, endócrino, reprodutor.
+
+## BIBLIOGRAFIA BÁSICA:
+
+SADAVA, D. et al. **Vida:** A Ciência da Biologia - Constituintes Químicos da Vida, Células e Genética - Vol I, 11 ed. Porto Alegre: Artmed, 2020.
+
+SADAVA, D. et al. **Vida:** A Ciência da Biologia - Evolução, Diversidade e Ecologia. V. 2, 11 ed. Porto Alegre: Artmed, 2020.
+
+SADAVA, D. et al. **Vida:** A Ciência da Biologia - Forma e Função de Plantas e Animais. V. 3, 11 ed. Porto Alegre: Artmed, 2020.
+
+URRY, L. A. et al. (org.). **Biologia de Campbell** . 12. ed. Porto Alegre: Artmed, 2022.
+
+## BIBLIOGRAFIA COMPLEMENTAR:
+
+ASHCROFT, F. **A vida no limite:** A ciência da sobrevivência. 1. São Paulo: ed. Zahar, 2001.
+
+CUTLER, D.F.; BOTHA, T.; STEVENSON, D.W. **Anatomia Vegetal** . 1.ed. São Paulo: Grupo A - Artmed, 2011.
+
+DAMÁSIO, A. **A estranha ordem das coisas** . 1. ed. São Paulo: Companhia das Letras, 2009. DAWKINS, R. **O gene egoísta** . São Paulo: Companhia das Letras, 2007. EAGLEMAN, D. **Cérebro: Uma biografia** . 1.ed. São Paulo: Rocco, 2017. GUREVITCH, J.; SCHEINER, S.M.; FOX, G.A. **Ecologia Vegetal** . 1. São Paulo: ed. Artmed, 2009.
+
+HART-DAVIS, A. et al. **O Livro da Biologia** . 1. ed. São Paulo: Globo Livros, 2022. KRAUSE, J.; TRAPPE, T. **A jornada dos nossos genes** : Uma história da humanidade e de como as migrações nos tornaram quem somos. 1. ed. São Paulo: Editora Sextante, 2022. MOYES, C.D.; SCHULTE, P.M. **Princípios de Fisiologia Animal** . 2.ed. São Paulo: Artmed, 2010.
+
+MUKHERJEE, S. **A canção da célula** : As descobertas da medicina e o novo humano. 1. ed. São Paulo: Companhia das Letras, 2023.
+
+MUKHERJEE, S. **O imperador de todos os males** . 1. ed. São Paulo: Companhia das Letras, 2012.
+
+NADAL, S. R.; NADAL, C. R. M. **Infecções Sexualmente Transmissíveis em Proctologia** . 1. ed. São Paulo: Di Livros Editora, 2020.
+
+POLLAN, M. **Cozinhar** : Uma história natural de transformação. São Paulo: Intrínseca, 2014. REINACH, F. **A longa marcha dos grilos canibais** . 1. ed. São Paulo: Companhia das Letras, 2010.
+
+REINACH, F. **Folha de lótus, escorregador de mosquito** . 1. ed. São Paulo: Companhia das Letras, 2018.
+
+RICHTEL, M. Imune: **A extraordinária história de como o organismo se defende das doenças** . 1. ed. São Paulo: HarperCollins, 2019.
+
+SACKS, O. **Um antropólogo em marte** . 1 ed. São Paulo: Companhia de Bolso, 2006. VALENCIA, F.F. **Bioquímica do corpo humano** : As bases moleculares do metabolismo. 1. ed. São Paulo: Editora Unesp, 2014.
+
+## COMPONENTE CURRICULAR: História I
+
+CARGA HORÁRIA: 120/ha – 100/hr
+
+EMENTA: Relações de trabalho, de poder e culturais na Antiguidade; História Geral: dimensões econômicas, culturais, políticas e religiosas do período da Idade Antiga; Culturas árabes e africanas da Antiguidade. Idade Média e Feudalismo. Transição do Feudalismo para o Capitalismo. Brasil colonial; Trabalho e Sociedade na Idade Moderna: dimensões econômicas, culturais, políticas e religiosas da Idade Moderna. Trabalho e tecnologia no Brasil Império. História da informática no Brasil republicano. História e cultura afro-brasileira e dos povos indígenas brasileiros: período republicano. Migrações e desenvolvimento.
+
+BIBLIOGRAFIA BÁSICA: FAUSTO, Boris (org.) **História geral da civilização brasileira** . 14 ed. Rio de Janeiro: Bertrand Brasil, 2004. v. 8-11. FERNANDES, Florestan. **O negro no mundo dos brancos** . São Paulo: Difusão Europeia do Livro, 1972. FINLEY, Moses. **Aspectos da Antiguidade** .; Lisboa: Edições 70, 1990. FLORENZANO, M. **As revoluções burguesas** . 8. ed. São Paulo: Brasiliense, 1987.
+
+VAINFAS. Ronaldo, [et al.]. **História** : das sociedades sem Estado às monarquias absolutistas. V.1. São Paulo: Saraiva,2010.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+DUBY, Georges. **Guerreiros e Camponeses** : os Primórdios do Crescimento Econômico Europeu - Séculos VII - XII; Lisboa: Estampa, 1993.
+
+HOBSBAWN, E. **A era das revoluções (1789-1848).** 6. ed. São Paulo: Paz e Terra, 1977. HOLANDA, Sérgio Buarque de. **Raízes do Brasil** . 26. ed. São Paulo: Companhia das Letras, 1995.
+
+KARNAL, Leandro (Org.). **História na sala de aula** . São Paulo: Contexto, 2003. THOMPSON, E. P. **A formação da classe operária inglesa** - v. 3. Rio de Janeiro: Paz e Terra, 1987.
+
+TOCQUEVILLE, A.de. **Democracia na América** . São Paulo: Martins Fontes, 2005. VERNANT, Jean Pierre. **Origens do Pensamento Grego** . São Paulo: Difel, 1981.
+
+COMPONENTE CURRICULAR: Matemática II CARGA HORÁRIA: 120/ha – 100/hr EMENTA: Ciclo trigonométrico. Trigonometria na Circunferência. Funções Trigonométricas. Trigonometria em um triângulo qualquer. Polígonos Regulares. Área de Figuras Planas. Círculo e Circunferência. Geometria Espacial: Posições Relativas. Sólidos Geométricos. Poliedros, Prismas e Pirâmides. Corpos Redondos: Cilindro, Cone e Esfera. Matrizes e Determinantes. Sistemas Lineares. BIBLIOGRAFIA BÁSICA: DANTE, L. R. **Matemática: contexto e aplicações** . 4ª. ed. São Paulo: Ática. 2018. GIOVANNI, J. R.; GIOVANNI JR., J. R.; BONJORNO, J. R. **Matemática Fundamental: uma nova abordagem.** 2ª ed. São Paulo: FTD, 2011. IEZZI, G. _et al_ . **Matemática** : ciência e aplicações. 3 vols. 8ª ed. São Paulo: Atual, 2014. LEONARDO, F. M.; SILVA, W. R. **Conexões com a matemática** . 2ª ed. São Paulo: Editora Moderna,2017. LOPES, Luiz Fernando; CALLIARI, Luiz Roberto. **Matemática Aplicada na Educação Profissional** . 1ª ed. São Caetano do Sul: Base Editorial, 2012. BIBLIOGRAFIA COMPLEMENTAR: BASSANEZI, R. C. **Ensino-aprendizagem com modelagem matemática** : uma nova estratégia. São Paulo: Editora Contexto, 2002. MELLO, J. L. P. **Matemática** : construção e significado. 1ª ed. São Paulo: Editora Moderna, 2005. MURAKAMI, C., IEZZI, G. **Fundamentos da Matemática elementa** r - volume 2. São Paulo, Editora Atual, 2010. RIBEIRO, Jackson. **Matemática** : ciência, linguagem e tecnologia. São Paulo: Editora Scipione, 2010, Vol. 2.
+
+COMPONENTE CURRICULAR: Introdução a programação orientada a objetos CARGA HORÁRIA: 120/ha – 100/hr EMENTA: Classe. Atributos. Métodos. Objetos. Mensagens. Construtores. Destrutores. Encapsulamento. Herança. Polimorfismo. Classes Abstratas. Associações. Herança Múltipla. Interfaces. Integração com Banco De Dados. Diagrama De Classes. BIBLIOGRAFIA BÁSICA: NASCIMENTO Jr., Orlando Saraiva do. **Introdução à orientação a objetos com C++ e Python** . São Paulo: Novatec, 2017. PAIVA, Severino. **Introdução à programação** : do algoritmo às linguagens atuais. Rio de Janeiro: Ciência Moderna, 2015. VILARIM, Gilvan de Oliveira. **Programação Orientada a Objetos** : um curso básico. Curitiba: LT, 2015. BIBLIOGRAFIA COMPLEMENTAR: BLOCH, Joshua. **Java efetivo** : as melhores práticas para a plataforma Java. Rio de Janeiro: Alta Books, 2019. MELE, Antonio. **Aprenda Django 3 com exemplos** : crie aplicações web profissionais em Python, começando do zero. São Paulo: Novatec, 2020. MUELLER, John. **Começando a programar em Python para leigos** . Rio de Janeiro: Alta Books, 2016. YOSHIRIRO, José. **Deixe seu código limpo e brilhante** : desmistificando Clean Code com Java e Python. São Paulo: Casa do Código, 2023.
+
+## COMPONENTE CURRICULAR: Tópicos avançados em Informática I (robótica)
+
+CARGA HORÁRIA: 80/ha – 67/hr
+
+## EMENTA:
+
+Conceitos sobre eletrônica e programação utilizando a plataforma Arduino. Introdução ao Arduino: visão geral da plataforma Arduino. Componentes básicos e acessórios.  Eletrônica Básica: princípios de eletricidade e eletrônica. Componentes eletrônicos (resistores, LEDs, sensores). Programação em Arduino: ambiente de desenvolvimento Arduino IDE. Estrutura de um programa Arduino. Variáveis, tipos de dados e operadores. Funções e bibliotecas. Sensores e Atuadores: introdução aos sensores (ex: sensores de temperatura, luz, movimento). Controle de motores e atuadores. Projetos Práticos. Desenvolvimento de projetos práticos utilizando Arduino: controle de dispositivos físicos. Integração de sensores e atuadores. Desafios e Aplicações Avançadas: Aplicações em robótica. Projeto final: desenvolvimento de um projeto Arduino completo.
+
+BIBLIOGRAFIA BÁSICA: ALMEIDA JUNIOR, Marcos Antonio de. **Arduino** : Projetos e Aplicações. São Paulo: Editora Érica, 2020.
+
+MANZANO, José Augusto N. G. **Arduino** : Tecnologia, Robótica e Sistemas Embarcados. São Paulo: Editora Érica, 2021.
+
+OLIVEIRA, Alan Victor Santos; ANDRADE, Cláudia Regina de. **Arduino em Projetos**
+
+**Multidisciplinares.** São Paulo: Editora Érica, 2021.
+
+## BIBLIOGRAFIA COMPLEMENTAR:
+
+BANZI, Massimo; SHILOH, Michael. **Arduino Para Makers** . São Paulo: Editora Sulina, 2018.
+
+MONK, Simon. **Arduino** : Guia para colocar suas ideias em prática. São Paulo: Editora Gustavo Gili, 2015. PINHÃO, Cláudio G. S. **Internet das Coisas com Arduino** - Introdução ao hardware e conexão de dispositivos à internet. São Paulo: Editora Érica, 2018.
+
+YOSHIRIRO, José. **Deixe seu código limpo e brilhante** : desmistificando Clean Code com Java e Python. São Paulo: Casa do Código, 2023.
+
+COMPONENTE CURRICULAR: Empreendedorismo e inovação CARGA HORÁRIA: 80/ha – 67/hr EMENTA: Definições e conceitos sobre empreendedorismo e inovação. Análise dos cenários tecnológicos nacional e global. O contexto do empreendedorismo no Brasil e no mundo globalizado. As oportunidades nesses cenários. Características e perfil do empreendedor. As redes sociais como ferramenta para alavancar negócios e divulgação científica. Modelos de negócios na Internet e na Informática. Plano de Negócios para empresas de TI. Criando um ambiente empresarial por meio de uma incubadora. Apresentação e discussão de casos de sucesso de empreendedorismo. A inovação como ferramenta de transformação econômica e social. Inovação em produtos, serviços, processos, mercados. Apresentação e discussão de casos de empresas inovadoras. A trajetória de inovação como ferramenta para a construção do conhecimento. Propriedade intelectual. BIBLIOGRAFIA BÁSICA: DORNELAS, José Carlos Assis. **Empreendedorismo** : Transformando Ideias em Negócios. 7ª ed. Rio de Janeiro: Elsevier, 2021. DRUCKER, Peter F. **Inovação e Espírito Empreendedor** : Prática e Princípios. São Paulo: Pioneira, 2007. MORRIS, Michael H.; KURATKO, Donald F.; COVINO, Jeffrey. **Empreendedorismo e Inovação** : Prática e Princípios. São Paulo: Cengage Learning, 2013. PORTER, Michael E. **Vantagem Competitiva** : Criando e Sustentando um Desempenho Superior. Rio de Janeiro: Elsevier, 2004. BIBLIOGRAFIA COMPLEMENTAR: CARVALHO, Fábio Henrique; KLEIN, Vitor Hugo. **Inovação nas Organizações** : Estratégias e Competências para o Desenvolvimento da Capacidade Inovadora. São Paulo: Atlas, 2017. DRUCKER, Peter F. **Inovação e Gestão do Conhecimento** : A Era da Administração Sustentável. São Paulo: Campus, 2002. RIBEIRO, José Luiz et al. **Propriedade Intelectual e Inovação** : Estratégias para o Desenvolvimento. São Paulo: Atlas, 2019. SILVA, Reinaldo O. **Empreendedorismo, Inovação e Sustentabilidade** : Eixos para o Desenvolvimento Local e Regional. São Paulo: Atlas, 2015.
+
+COMPONENTE CURRICULAR: Banco de dados
+
+CARGA HORÁRIA: 80/ha – 67/hr
+
+EMENTA: Introdução à Banco de Dados e Sistemas de Gerenciamento de Banco de Dados; Tipos de Bancos de Dados; Instalação e Configuração de Bancos de Dados e Ferramentas de Apoio; Modelo Relacional; Modelo Entidade-Relacionamento; Normalização; Structured Query Language (SQL); Segurança em Bancos de Dados; Integração de Sites e Sistemas com Sistemas Gerenciadores de Banco de Dados. BIBLIOGRAFIA BÁSICA: DATE, Chris J. **Introdução a sistemas de banco de dados** . 8. Edição. Rio de Janeiro: GEN LTC, 2004.896 p. ELMASRI, R.; NAVATHE, S. **Sistemas de banco de dados** . 6. Edição. São Paulo: Pearson. 2011. 808p. HEUSER, Carlos Alberto. **Projeto de banco de dados** . 5. Edição. Porto Alegre: Editora Sagra Luzzatto. 2004. RAMAKRISHNAN, Raghu; GEHRKE, Johannes. **Sistemas de gerenciamento de bancos de dados** . 3ª Edição. Porto Alegre: Mc Graw Hill. 2008. 912 p. SILBERSCHATZ, Abraham; KORTH, Henry F.; SUDARSHAN, S. **Sistemas de banco de dados** . 7.Edição. São Paulo: GEN LTC, 2020. 754 p.
+
+BIBLIOGRAFIA COMPLEMENTAR: ANGELOTTI, Elaini Simoni. **Banco de dados** . 1. Edição. Curitiba: Editora LT. 2010. GUIMARÃES, Célio C. **Fundamentos de Banco de Dados** . Unicamp, 2003. KROENKE, David M. **Banco de Dados** : fundamentos, projeto e implementação. 6. Edição. Rio de Janeiro: LTC, 1999. 379 p. MACHADO, F; ABREU, M. **Projeto de banco de dados** : uma visão prática. São Paulo, Érica, 1999. PUGA, Sandra, FRANÇA, Edson, GOYA, Milton. **Banco de Dados** : Implementação em SQL, PL/SQL e Oracle 11g. 1. Edição. São Paulo. Pearson. 2013.
+
+## 3º ANO
+
+## COMPONENTE CURRICULAR: Língua Espanhola
+
+CARGA HORÁRIA: 80/ha – 67/hr
+
+## EMENTA:
+
+Características fonéticas e sociolinguísticas da língua espanhola. Aspectos socioculturais e históricos que envolvem a hispanofonia. Análise linguística de enunciados em nível básico e intermediário da língua espanhola. Diversidade linguística e cultural da Espanha e da América Latina. Produção e interpretação oral e escrita de textos que contemplem situações da vida cotidiana, acadêmica e do mundo do trabalho na América Latina. Literatura espanhola e hispanoamericana. Estratégias de tradução de línguas próximas. Espanhol para fins específicos integrado ao eixo Informação e Comunicação (integração). Produção e recepção de diferentes gêneros textuais/discursivos em língua espanhola a partir de conteúdos temáticos que envolvem a área da Informação e Comunicação na América Latina.
+
+BIBLIOGRAFIA BÁSICA: BRASIL. Ministério da Educação. Secretaria de Educação Básica. **Orientações curriculares para o Ensino Médio:** volume 1 – Linguagens, códigos e suas tecnologias. Brasília: MEC/ Secretaria de Educação Básica, 2006. CHIAPPINI, Ligia; AGUIAR, Flavio W. de. (Orgs.) **Literatura e História na América Latina.** São Paulo: Edusp, 2001. MILANI, Esther Maria. **Gramática de espanhol para brasileiros.** 2.ed. São Paulo: Editora Saraiva, 2000. MOLERO, Antonio. **El español de España y el español de América** : vocabulario comparado. Madrid: Ediciones SM, 2003. SEDYCIAS, J. **O Ensino do Espanhol no Brasil** : passado, presente, futuro. São Paulo: Parábola Editorial, 2005. ZOLIN-VESZ, F. (Org.) **A (in)visibilidade da América Latina no Ensino de Espanhol** . Campinas: Pontes Editores, 2013. BIBLIOGRAFIA COMPLEMENTAR: CANCLINI, Néstor García. **Culturas Híbridas.** Estratégias para entrar e sair da modernidade. Tradução de Ana Regina Lessa. São Paulo: Edusp, 2008. CASSANY, D. **Tras las líneas: sobre la lectura contemporánea.** Barcelona: Anagrama, 2006. FANJUL, Adrián Pablo (Org.). **Gramática de español** : paso a paso. 3. ed. São Paulo: Santillana Español, 2014 GALEANO, Eduardo. **As veias abertas da América Latina** . Porto Alegre: L&PM, 2010. MORENO FERNÁNDEZ, Francisco. **Qué español enseñar.** Madrid: Arco Libros, S.L., 2000.
+
+COMPONENTE CURRICULAR: Educação Física III CARGA HORÁRIA: 40/ha – 33/hr
+
+EMENTA: Aplicação prática de conceitos específicos da ciência da ação motriz. Atividades prático recreativas e outras atividades de práticas corporais, como jogos, brincadeiras, esportes, ginástica, e demais manifestações da Cultura Corpórea. Estudo e Vicência da cultura dos componentes fundamentais e das técnicas específicas das mais populares modalidades Desportivas Coletivas. Análise das transformações sociais e culturais da humanidade e sua influência sobre o Corpo e o Movimento.
+
+BIBLIOGRAFIA BÁSICA: GONÇALVES, Maria Augusta Salin. **Sentir, pensar, agir** : corporeidade e educação. 15.ed. Campinas, SP: Papirus, 2012. MAGILL, Richard A. **Aprendizagem motora** : conceito e aplicações. In.: HANITZSCH, Erite Gerhard. [trad.]. São Paulo: Edgard Blucher, 2018. NISTA-PICCOLO, Vilma Lení; MOREIRA, Wagner Wey. **Esporte para a vida no ensino médio.** 1. ed. São Paulo: Telos, 2023.
+
+BIBLIOGRAFIA COMPLEMENTAR: BALZANO, Otávio Nogueira. **Metodologia dos jogos condicionados para o futsal e educação física escolar** . Várzea Paulista, SP: Fontoura, 2012. BARBANTI, Valdir J. **Dicionário de educação física e do esporte** . 3. ed., atual. e ampl.
+
+Barueri, SP: Manole, 2011. BROUGERE, G. **Jogo e educação** . Porto Alegre: ArtMed, 2004. CORBIN, Alain. COURTINE, Jean-Jacques. VIGARELLO, Georges. **História do corpo** : Da Revolução à Grande Guerra. Petrópolis, RJ: Vozes, 2012 FERREIRA, Maria Elisa Caputo. CASTRO, Marcela Rodrigues de Castro. MORGADO, Fabiane Frota da Rocha (Orgs.) **Imagem corporal** : reflexões, diretrizes e práticas de pesquisa. Juiz de Fora: Editora UFJF, 2014.
+
+FREIRE, João Batista. **Educação de corpo inteiro** : teoria e prática da educação física. 1. ed. São Paulo: Scipione, 2011. GALATTI, Larissa Rafaela e colaboradores. **O ensino dos jogos esportivos coletivos** : avanços metodológicos dos aspectos estratégico-tático-técnicos. Pensar a prática, v. 20, n. 3, p. 639654, 2017. KUNZ, Elenor. **Transformação didático-pedagógica do esporte** . 9. ed.  Ijuí: Ed. Unijuí, 2020. MARCO, Ademir de (Org). **Educação física** : cultura e sociedade, contribuições teóricas da educação física no cotidiano da sociedade brasileira. Campinas, SP: Papirus, 2015. MEDINA, João Paulo S. **A educação física cuida do corpo... e 'mente':** Novas contradições e desafios do século XXI. São Paulo: Papirus, 2013. ROTH K, KRÖGER C, MEMMERT D. **Escola da bola** : jogos de rede e raquete. São Paulo: Phorte Editora; 2017. STUBBS, Ray. **O livro dos esportes** : os esportes, as regras, as táticas, as técnicas. Editora Nova Fronteira, 2012. TUBINO, Manoel José Gomes. **Dimensões sociais do esporte** . 2. ed. São Paulo: Cortez, 2023.
+
+COMPONENTE CURRICULAR: Língua Portuguesa e Literatura III
+
+CARGA HORÁRIA: 120/ha – 100/hr EMENTA: Estruturas lexicais e sintáticas. Recursos expressivos e argumentativos do texto. Leitura crítica e receptividade de gêneros textuais acadêmicos. Estrutura, linguagem e intencionalidade dos gêneros textuais argumentativos e artigo de opinião. A presença das obras literárias em processos avaliativos externos. Produção e recepção de gêneros textuais literários e não-literários (integração). BIBLIOGRAFIA BÁSICA: ABAURRE Luiza M.; PONTARA, Marcela. **Gramática - texto** : análise e construção de sentido. São Paulo: Moderna, 2010. ABAURRE Luiza M.; PONTARA, Marcela. **Produção de texto** : interlocução e gêneros. São Paulo: Moderna, 2010. BORGES, Assagra e Alda. **Leitura** : o mundo além das palavras. Curitiba: Instituto RPC, 2010. FOLHA DE S. PAULO. **Manual da Redação da Folha de São Paulo** . São Paulo: Publifolha, 2013. GERALDI, João Wanderley. et al. (orgs.). **O texto na sala de aula** . São Paulo: Anglo, 2012. JESUS, Carolina Maria de. **Quarto de Despejo** : diário de uma favelada. São Paulo: Ática, 2014. MELO NETO, João Cabral de. **Morte e Vida Severina** . Rio de Janeiro: Objetiva, 2007. PASSARELI, Lilian. **Ensino e correção na produção de textos escolares** . São Paulo: Telos, 2012.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+ANTUNES, Irandé. **Aula de português** : encontro e interação. São Paulo: Parábola Editorial, 2003.
+
+BAGNO Marcos. **Gramática, pra que te quero?** Curitiba: Aymará, 2010.
+
+BECHARA, E. **Gramática escolar da Língua Portuguesa** . 2. ed. ampl. e atualizada pelo Novo Acordo ortográfico. Rio de Janeiro: Nova Fronteira, 2010.
+
+BOSI, Alfredo. **História concisa da literatura brasileira** . 41. ed. São Paulo: Cultrix, 2003. CALVINO, Ítalo. **Por que ler os clássicos** . São Paulo: Companhia das Letras, 2007. CANDIDO, Antonio. **Formação da literatura brasileira** .15. ed. Rio de Janeiro: Ouro sobre Azul, 2014.
+
+MOISÉS, Massaud. **A literatura brasileira através dos textos** . 29. ed. São Paulo: Cultrix, 2012.
+
+SACONI, Luiz Antônio. **Novíssima gramática ilustrada** . São Paulo: Nova geração, 2013. SANT'ANNA, Affonso Romano de. **Ler o mundo** . São Paulo: Global, 2011. SARMENTO, Leila Lauar. **Gramática em textos** (Vereda Digital). São Paulo: Moderna, 2012. SCHWARTZ, Gisele Maria. **Aventuras na natureza** : consolidando significados. São Paulo: Fontoura, 2006.
+
+## COMPONENTE CURRICULAR: Física II
+
+CARGA HORÁRIA: 80/ha – 67/hr
+
+EMENTA: Termologia; Termodinâmica; Óptica; Ondulatória. A abordagem dos conceitos deve objetivar a integração ao campo da informática.
+
+BIBLIOGRAFIA BÁSICA: ARTUSO, A. R.; SOARES, M. V. **Viva Física** . Volume 2. Curitiba: Positivo, 2016. GUIMARÃES, O.; PIQUEIRA, J. R.; CARRON, W. **Física** . Volume 2. São Paulo: Ática, 2014. HEWITT, P. **Física conceitual** . Porto Alegre: Bookman, 2009. MENEZES, L. C. de et al. **Quanta física** . São Paulo: Pearson, 2014. 3v. PIETROCOLA, M. et al. **Física em contextos** . Volume 2. São Paulo: FTD, 2013. SILVA, C. X.; BARRETO FILHO, B. **Física** – aula por aula. Volume 2. São Paulo: FTD, 2010. BIBLIOGRAFIA COMPLEMENTAR: BELTRAN, Maria Helena Roxo; SAITO, Fumikazu; TRINDADE, Laís dos Santos Pinto (orgs.). **História das ciências** : tópicos atuais. São Paulo: Livraria da Física, 2011. BORGES, J. F. M. **Física do Cotidiano** . Curitiba: Blanche, 2014. BRUCE, C. **As aventuras científicas de Sherlock Holmes.** Rio de Janeiro: Jorge Zahar Editor, 2002. DOV, Y. B. **Convite à física** . Rio de Janeiro: Jorge Zahar Editor, 1996. FEYNMAN, R. **Sobre as leis da física** . Rio de Janeiro: Contraponto, 2012. FEYNMAN, Richard P.; LEIGHTON, Robert B.; SANDS, Matthew. **Lições de física de Feynman.** Porto Alegre: Artmed, 2008. 4v. FIOLHAIS, C. **Física divertida** . Lisboa: Gradiva Publicações, 1991. GUERRA, A.; BRAGA, M.; REIS, J. C. **Breve história da ciência moderna** . Rio de Janeiro: Jorge Zahar Editor, 2008. 4v. HART-DAVIS, A. et al. **O Livro das ciências** . Rio de Janeiro: Globo, 2015. HAWKING, Stephen. **Uma breve história do tempo** . Rio de Janeiro: Intrínseca, 2005.
+
+HENRY, John. **A revolução científica e as origens da ciência moderna** . Rio de Janeiro: Zahar, 1998.
+
+KOYRÉ, Alexandre. **Estudos de história do pensamento científico** . 2. ed. Rio de Janeiro: Forense Universitária, 1991.
+
+LOPES, Jose Leite. **Uma história da física no Brasil** . São Paulo: Livraria da Física, 2012. MENEZES, L. C. de. **A matéria** . São Paulo: Livraria da Física, 2005.
+
+MIGLIAVACCA, A.; WITTE, G. **A física na cozinha** . São Paulo: Livraria da Física, 2014. SAITOVITCH, E. M. B. et al. **Mulheres na física** : casos históricos, panorama e perspectivas. São Paulo: Livraria da Física, 2015.
+
+STEWART, Ian. **17 Equações que mudaram o mundo** . São Paulo: Cia das Letras, 2013. TOLAN, M.; STOLZE, J. **A física de James Bond** . São Paulo: Cultrix, 2013.
+
+TUFAILE, Alberto; TUFAILE, Pedrosa Biscaia. **Da física do faraó ao fóton** . São Paulo: Livraria da Física, 2013.
+
+## COMPONENTE CURRICULAR: Filosofia I
+
+CARGA HORÁRIA: 80/ha – 67/hr
+
+## EMENTA:
+
+Mito. Logos. Lógica. Ética. Epistemologia. Política. Estética. Fenomenologia. Bioética. Sociedade. Ontologia. Subjetividade. Linguagem. Poder. Conceitos. Cultura. Natureza. Trabalho. Origem do pensar filosófico. Lógica, falácias. Introdução à Filosofia: o mito e o logos, Cosmologia; pré-socráticos. Pensamento socrático. Platão. Aristóteles. Lógica, Metafísica. Subjetividade. Teoria do conhecimento, Filosofia da ciência e tecnologia. Epistemologia moderna e contemporânea. Sistemas éticos. A conceituação de Política. O contratualismo. Estética. Indústria Cultural.
+
+## BIBLIOGRAFIA BÁSICA:
+
+CHAUÍ, Marilena. **Iniciação à Filosofia** : ensino médio. São Paulo: Ática, 2010. COTRIM, G. **Fundamentos da filosofia** : história e grandes temas. São Paulo: Saraiva, 2006. FIGUEIREDO, V. (org). **Filosofia** : temas e percursos. São Paulo: Berlendis & Vertecchia, 2014. GAARDER, J. **O mundo de Sofia** . São Paulo: Cia das Letras, 1995
+
+## BIBLIOGRAFIA COMPLEMENTAR:
+
+CHAUÍ, M. **A ideologia da violência** . BH: Autêntica, 2014. COPI, I. **Introdução à Lógica** . SP: Vozes, 1998.
+
+DELEUZE, G. & GUATTARI, F. **O que é a filosofia?** São Paulo: Ed.34, 2014.
+
+KUHN, T. **A estrutura das revoluções científicas** . São Paulo: Martins Fontes, 2000
+
+## COMPONENTE CURRICULAR: Sociologia I
+
+CARGA HORÁRIA: 80/ha – 67/hr
+
+EMENTA:
+
+Contexto histórico do surgimento da Sociologia; Teorias sociológicas clássicas; Estratificação e desigualdade social; as questões de gênero; A questão dos negros no Brasil; Direitos Humanos e cidadania; Ideologia e Indústria Cultural; Consciência de classe e hegemonia; Movimentos
+
+sociais. Tecnologia e sociedade (Integrado à área técnica).
+
+## BIBLIOGRAFIA BÁSICA:
+
+ADORNO, Theodor W.; HORKHEIMER, Max. **Dialética do Esclarecimento** . Rio de Janeiro: Zahar, 2006.
+
+ALMEIDA, S. **Racismo estrutural** . São Paulo: Pólen, 2019.
+
+BARKER, C. “ **O movimento como um todo”:** ondas e crises. Revista Outubro. n.22, 2014. BOURDIEU, P. **A dominação masculina** . Rio de Janeiro: Bertrand Brasil, 2002. DURKHEIM, E. **As regras do método sociológico** . São Paulo: Martin Claret, 2001. ENGELS, F. **A situação da classe trabalhadora na Inglaterra** . São Paulo: Boitempo, 2010. LUKÁCS, G. **História e consciência de classe** : estudos sobre a dialética marxista. São Paulo: Martins Fontes, 2003.
+
+MARX, K.; ENGELS, F. **Manifesto Comunista.** São Paulo: Boitempo, 1998. MILLS, W. **A imaginação Sociológica** . Campinas: Ed. Papirus, 1995.
+
+QUINTANEIRO, T.; BARBOSA, M. L. O.; OLIVEIRA, M. G. **Um toque de clássicos** : Marx, Durkheim e Weber. 2. Ed. Belo Horizonte, MG: Ed. UFMG, 2002.
+
+SAFFIOTI, H. **Gênero, patriarcado e violência** . São Paulo: Expressão Popular, 2015. WEBER, M. **Ética protestante e o espírito do capitalismo** . São Paulo: Pioneira, 1999.
+
+## BIBLIOGRAFIA COMPLEMENTAR:
+
+ARBEX JR., J. **Showrnalismo** : a notícia como espetáculo. São Paulo, Casa Amarela, 2001. DURKHEIM, E. **O Suicídio** . São Paulo: Martins Fontes, 2004. GIDDENS, A. **Sociologia** . 4ª ed. Porto Alegre: Artmed Ed. S.A., 2005.
+
+IASI, M. L. **As metamorfoses da consciência de classe** : o PT entre a negação e o consentimento. São Paulo, Expressão Popular, 2006.
+
+LOWY, M. **As aventuras de Karl Marx contra o Barão de Münchhausen:** Marxismo e Positivismo na Sociologia do Conhecimento. São Paulo: Editora Cortez, 1994. THOMPSON, E.P. **A formação da classe operária inglesa.** Rio de Janeiro, Paz e Terra, 1987, 3 vols.
+
+WEBER, M. **Max Weber** : sociologia (Gabriel Cohn org). São Paulo, Ática, 1982.
+
+## COMPONENTE CURRICULAR: Geografia II
+
+CARGA HORÁRIA: 80/ha – 67/hr
+
+EMENTA:
+
+Regionalização do espaço mundial. Globalização e regionalização econômica atual. As diferentes fontes de energia. A geografia das religiões e a religiosidade como centro de discussões geopolíticas e de conflitos no mundo. A história, economia e geopolítica da América Latina. Os processos de colonização e descolonização de países do continente africano como geradores de conflitos. A geopolítica da guerra e exame dos conflitos contemporâneos. A informação como poder no mundo atual. Os fluxos materiais mundiais e suas relações com a política econômica. Interface entre os fluxos ilegais de capitais, mercadorias, armas e pessoas no mundo e a geopolítica. O papel das cidades globais no mundo atual. O papel dos EUA e da China na governança mundial. O BRICS ampliado e a nova ordem global. A emergência da questão ambiental na agenda internacional.
+
+## BIBLIOGRAFIA BÁSICA:
+
+ARENAS, Fernando. **África Lusófona** : além da independência. São Paulo: EdUSP, 2019. BODY-GENDROT, Sophie. **Globalização, Medo e Insegurança** : Os desafios de Cidades dos Hemisférios Norte e Sul. São Paulo: EdUSP, 2018.
+
+FLORIANI, Dimas; HEVIA, Antonio Elizalde (Org.). **América Latina Sociedade e Meio Ambiente:** Teorias, Retóricas e Conflitos em Desenvolvimento. Curitiba: UFPR, 2016. HARVEY, David. **O Enigma do Capital** : e as crises do capitalismo. São Paulo, SP: Boitempo, 2011. 224p. SANTOS, Milton. **Por uma outra globalização** : do pensamento único à consciência universal. 25. ed. Rio de Janeiro: Record, 2015.
+
+BIBLIOGRAFIA COMPLEMENTAR: CALDERÓN, Fernando; CASTELLS, Manuel. **A nova América Latina** . São Paulo: Zahar, 2021. COHEN, Benjamin J. **A geografia do dinheiro** . São Paulo: Unesp, 2018. REIS, Lineu Belico dos; SILVEIRA, Semida (Org.). **Energia elétrica para o desenvolvimento sustentável.** São Paulo: EdUSP, 2012.
+
+THUNBERG, Greta. **O livro do clima** . São Paulo: Companhia das Letras, 2023. WALLACE-WELLS, David. **A terra inabitável** : uma história do futuro. São Paulo: Companhia das Letras, 2019.
+
+COMPONENTE CURRICULAR: Matemática III CARGA HORÁRIA: 120/ha – 100/hr EMENTA: Estatística Básica. Matemática Financeira. Análise Combinatória. Probabilidade. Geometria analítica: ponto, reta, circunferência, cônicas. Números Complexos. Polinômios e Equações algébricas. BIBLIOGRAFIA BÁSICA: DANTE, L. R. **Matemática: contexto e aplicações** . 4ª. ed. São Paulo: Ática. 2018. GIOVANNI, J. R.; GIOVANNI JR., J. R.; BONJORNO, J. R. **Matemática Fundamental** : uma nova abordagem. 2ª ed. São Paulo: FTD, 2011. IEZZI, G. _et al_ . **Matemática** : ciência e aplicações. 3 vols. 8ª ed. São Paulo: Atual, 2014. LEONARDO, F. M.; SILVA, W. R. **Conexões com a matemática** . 2ª ed. São Paulo: Editora Moderna,2017. LOPES, Luiz Fernando; CALLIARI, Luiz Roberto. **Matemática Aplicada na Educação Profissional** . 1ª ed. São Caetano do Sul: Base Editorial, 2012. BIBLIOGRAFIA COMPLEMENTAR: BASSANEZI, R. C. **Ensino-aprendizagem com modelagem matemática** : uma nova estratégia. São Paulo: Editora Contexto, 2002. MELLO, J. L. P. **Matemática** : construção e significado. 1ª ed. São Paulo: Editora Moderna, 2005. MURAKAMI, C., IEZZI, G. **Fundamentos da Matemática elementa** r - volume 2. São Paulo, Editora Atual, 2010. RIBEIRO, Jackson. **Matemática** : ciência, linguagem e tecnologia. São Paulo: Editora Scipione, 2010, Vol. 2.
+
+COMPONENTE CURRICULAR: Introdução a rede de computadores
+
+CARGA HORÁRIA: 80/ha – 67/hr
+
+## EMENTA:
+
+Noções básicas de rede de computadores. Tipos de enlaces, códigos, modos de transmissão, controle de erros, ligações ponto a ponto e multiponto e seu controle. Topologias e meios físicos de transmissão, protocolos e serviços de comunicação. Arquitetura de redes abertas e proprietárias: modelo de referência OSI, padrões para redes locais e arquitetura TCP/IP. Redes para IoT: NB-IoT, Lorawan.
+
+## BIBLIOGRAFIA BÁSICA:
+
+PENNA, Manoel Camillo; TAKAHASHI, Tadao. **Redes de Computadores** : Princípios Básicos. São Paulo: Editora Érica, 2021.
+
+PETERSON, Larry L.; DAVIE, Bruce S. **Redes de Computadores** : Uma Abordagem de Sistemas. São Paulo: Editora Campus, 2019.
+
+TORRES, Gabriel. **Redes de Computadores** : Dos Princípios às Aplicações. São Paulo: Editora Nova Terra, 2022.
+
+## BIBLIOGRAFIA COMPLEMENTAR:
+
+AQUINO, André L. L. de; HEIMFARTH, Tales. **Redes de Computadores** : dos Fundamentos às Redes sem Fio. São Paulo: Editora Grupo Gen, 2021.
+
+MORIMOTO, Carlos E. **Redes de Computadores: Guia Prático** . São Paulo: Editora Sulina, 2020.
+
+PIRES, Flávio L. C. **Internet das Coisas (IoT):** Introdução e Aplicações. São Paulo: Editora Érica, 2021.
+
+TANENBAUM, Andrew S.; WETHERALL, David J. **Redes de Computadores:** Versão Revisada e Atualizada. São Paulo: Editora Pearson, 2020.
+
+## COMPONENTE CURRICULAR: Engenharia de Software
+
+CARGA HORÁRIA: 80/ha – 67/hr
+
+## EMENTA:
+
+Introdução à Engenharia de Software. Processos de Desenvolvimento de Software. Engenharia de Requisitos. Modelagem de Sistemas utilizando UML. Padrões de projeto. Introdução ao Gerenciamento e Planejamento de projetos de software. Introdução a Qualidade de Software. Desenvolvimento Ágil de Software.
+
+BIBLIOGRAFIA BÁSICA: BOOCH, Grady; RUMBAUGH, James; JACOBSON, Ivar. **UML** : guia do usuário. 2. ed., rev. e atual. Rio de Janeiro: Elsevier, 2012. GUEDES, Gilleanes. **UML 2** - Uma Abordagem Prática - 2ª Ed. São Paulo: Novatec, 2011. PRESSMAN, Roger S.; MAXIM, Bruce R. **Engenharia de Software** : uma abordagem profissional. 8. ed. Porto Alegre: AMGH, 2016. SOMMERVILLE, Ian. **Engenharia de software** . 10. ed. São Paulo: Pearson Prentice Hall, 2019.
+
+## BIBLIOGRAFIA COMPLEMENTAR:
+
+CARDOSO, Caíque. **UML na Prática** : do problema ao sistema. Rio de Janeiro: Ciência Moderna, 2003.
+
+DEBASTIANI, Carlos Alberto. **Definindo escopo em projetos de software** . São Paulo: Novatec, 2015. JUNIOR, Helio Engholm. **Engenharia de Software na Prática** . Novatec. 2010. MECENAS, Ivan; OLIVEIRA, Vivianne de. **Qualidade em Software** . São Paulo: Alta Books, 2005. MEDEIROS, Ernani Sales de. **Desenvolvendo Software com UML 2.0** . São Paulo. Pearson. Makron Books, 2004.
+
+## COMPONENTE CURRICULAR: Desenvolvimento web
+
+CARGA HORÁRIA: 80/ha – 67/hr
+
+EMENTA: Sistemas WEB. Desenvolvimento estático e dinâmico. Ambientes de interação. Métodos e técnicas no desenvolvimento de aplicações para Internet. Utilização de CSS para formatação das telas. Javascript para melhor interação com o site..  Interação com Banco de Dados. Linguagem de Marcação HTML: Estrutura, textos (Integrado com a ao componente Língua portuguesa I), listas, links, imagens, tabelas, formulários, atributos id e class, áudio, vídeo, parâmetros de configurações em tags, tags semânticas, identificação e agrupamento de elementos. Folhas de estilo (CSS) aplicados ao HTML: Cores, textos, fontes, bordas, preenchimentos, layouts. Linguagem de Marcação Extensível: Construção, interpretação e prática com XML e JSON. Utilização dos comandos básicos de Javascript para entendimento da linguagem BIBLIOGRAFIA BÁSICA: ALVES, Willian Pereira. **Construindo uma Aplicação Web Completa com PHP e MySQL** . São Paulo: Novatec, 2017. DALL´OGLIO P. **Programando com Orientação a Objetos** . São Paulo: Novatec, 2015 DUCKETT, JON. **HTML & CSS.** Projete e construa websites. Rio de Janeiro: Altabooks, 2014. FLANAGAN, David. **JavaScript:** O guia definitivo **.** 6.ed São Paulo: BOOKMAN COMPANHIA, 2012. FREEMAN, Elisabeth e FREEMAN, Eric. **Use a cabeça! HTML e CSS.** São Paulo: Alta Books, 2a edição, 31 mai. 2015. FREEMAN, Elisabeth. **Use a Cabeça HTML com CSS e XHTML** . São Paulo: Editora Alta Books, 2008. MILANI, André. **Construindo aplicações web com PHP e MySQL** . São Paulo: Novatec, c2010. 336 p. NIEDERST ROBBINS, Jennifer. **Aprenda web design** . Rio de Janeiro: Ciência Moderna, 2002. 464 p. OLIVIEIRO, Carlos. **Faça um Site Orientado por Projeto.** PHP 5.2 com MYSQL 5.0. Comércio Eletrônico, São Paulo: Érica, 2012. RODRIGUES, A. **Desenvolvimento para Internet** . São Paulo: Livro Técnico, 2012. SILVA, M. S. **Criando sites com HTML** : Sites de alta qualidade com HTML e CSS. 1.ed. São Paulo: Novatec, 2008. SILVA, M. S. **Fundamentos de HTML5 e CSS3** .  1.ed. São Paulo: Novatec, 2015.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+BASHAN, B., SIERRA, K., BATES, B. **Use a Cabeça! JSP & Servlets** . 2 ed. Rio de Janeiro: Alta Books, 2005.
+
+CRANE, Dave; PASCARELLO, Eric; JAMES, Darren. **Ajax em ação** . São Paulo: Pearson Education, 2006.
+
+DEITEL, Paul J; DEITEL, Harvey M. **Ajax, rich internet aplications e desenvolvimento web para programadores.** São Paulo: Pearson Prentice Hall, 2008. xxiv, 747 p. HOGAN, B. P. **HTML5 e CSS3** – Desenvolva hoje com o padrão de amanhã. Ciência Moderna, 2012.
+
+MANZANO. J. A. N. G.; TOLEDO S. A. **Guia de orientação e Desenvolvimento de Sites** . 2.ed. Érica, 2012. MORRISON, M. **Use a Cabeça** : JavaScript. Alta Books, 2008. do Brasil, 2007. 452 p. SANDERS, B. Smashing. **HTML5** : Técnicas para a Nova Geração da Web. Bookman, 2011. SILVA, M. S. **HTML 5** – A Linguagem de Marcação que Revolucionou a Web. [sl], Novatec, 2011.
+
+ZERVAAS, Quentin. **Aplicações práticas de Web 2.0 com PHP** . Rio de Janeiro: Alta Books, 2008. xix, 521 p.
+
+COMPONENTE CURRICULAR: Projeto Integrador I CARGA HORÁRIA: 80/ha – 67/hr EMENTA: Responsabilidade Socioambiental. Gestão da diversidade e ações afirmativas. Saúde e autocuidado. Educação para o trânsito. Processo de envelhecimento, respeito e valorização do idoso Prevenção de todas as formas de violência contra a criança e ao adolescente. Educação em direitos humanos. Acessibilidade. Metodologia científica. Elaboração de projetos e protótipos. Aplicações de conceitos de Engenharia de Software para solução de problemas reais. BIBLIOGRAFIA BÁSICA: ARANTES, Elaine. **Ética e Cidadania** . Curitiba: Instituto Federal do Paraná, 2012. BARROS, A.J. S. e LEHFELD, N.A.S. **Fundamentos de metodologia científica** . 3ª Edição. São Paulo: Editora Pearson Prentice Hall, 2007. GIL, A. C. **Como elaborar projetos de pesquisa** . 5ª Edição. São Paulo: Editora Atlas, 2010. LAKATOS E.M e MARCONI M.A. **Metodologia do trabalho científico** . 7ª Edição. São Paulo: Editora Atlas, 2012. LARMAN C. **Utilizando UML e padrões** : uma introdução à análise e ao projeto orientados a objetos e ao desenvolvimento iterativo. 3. ed. São Paulo: Bookman, 2005. PRESSMAN R.S. **Engenharia de Software** : uma abordagem profissional. 7. ed. São Paulo: McGraw-Hill, 2011. BIBLIOGRAFIA COMPLEMENTAR: INSTITUTO FEDERAL DO PARANÁ. **Normas para elaboração de trabalhos acadêmicos** . 1ª Edição. Curitiba, 2010. KOCHE J.C. **Fundamentos de metodologia científica** : teoria da ciência e iniciação à pesquisa **.** 26ª Edição Editora Vozes, 2009 SABBAG P.Y. **Gerenciamento de projetos e empreendedorismo** . São Paulo: Saraiva, 2009. SOMMERVILLE, Ian. **Engenharia de software** . 9. Ed. São Paulo: Pearson Prentice Hall,
+
+2011. 529 p.
+
+VEIGA, José Eli. **Sustentabilidade** : a legitimação de um novo valor. São Paulo: Editora Senac, 2010.
+
+## 4º ANO
+
+## COMPONENTE CURRICULAR: Educação Física IV
+
+CARGA HORÁRIA: 40/ha – 33/hr
+
+## EMENTA:
+
+Estímulo dos movimentos corporais elementares e aprimoramento das capacidades e habilidades motoras gerais do(a) aluno(a), através de jogos, brincadeiras e ações esportivas. Esportes - modalidades mais populares e suas características. A vivência do lúdico e suas contribuições motrícias. Estudo da diversidade das práticas corporais na contemporaneidade e sua influência sobre o corpo do Adolescente. Estudo e Promoção da Saúde e da Qualidade de Vida.
+
+BIBLIOGRAFIA BÁSICA:
+
+LOPEZ, Fabio Ancona. **Bases biomecânicas do movimento humano** . 3. ed. Barueri, SP: Manole, 2020.
+
+MAGILL, Richard A. **Aprendizagem motora** : conceito e aplicações. In.: HANITZSCH, Erite Gerhard. [trad.]. São Paulo: Edgard Blucher, 2018.
+
+ROSA, Neto. **Manual de Avaliação Motora** . Porto Alegre: Artmed, 2020 (4a Edição).
+
+## BIBLIOGRAFIA COMPLEMENTAR:
+
+ACKLAND, Timothy R.; ELLIOTT, Bruce C.; BLOOMFIELD, John (Ed). **Anatomia e biomecânica aplicadas no esporte.** 2.ed. São Paulo: Manole 2011.
+
+AYWOOD, Kathleen M. GETCHELL, Nancy. **Desenvolvimento motor ao longo da vida.** 6a edição. Porto Alegre: Artmed, 2016.
+
+BERGER, Artur Goulart; GINCIENE, Guy; LEONARDI, Thiago José. **Pedagogia do esporte e o referencial socioeducativo** : diálogos entre a teoria e a prática. Rio Grande do Sul: Movimento, 2020.
+
+BETTI, Mauro; GOMES-DA-SILA, Pierre Normando. **Corporeidade, jogo, linguagem** : a educação física nos anos iniciais do ensino fundamental. São Paulo: Cortez, 2019.
+
+BROTTO, F. O. **Jogos cooperativos** : o jogo e o esporte como um exercício de convivência **.** Santos: Projeto Cooperação, 2013.
+
+DANTAS, Estélio H. M. **Pensando o corpo e o movimento.** Rio de Janeiro: Shape, 2005. KENNEY, W. Larry; WILMORE, Jack H.; COSTILL, David L. **Fisiologia do esporte e do exercício.** 5. ed. Barueri, SP: Manole, 2013.
+
+MARCELLINO, Nelson Carvalho. **Estudos do lazer** : uma introdução. 2. ed. ampl. Campinas: Autores Associados, 2012. MARTINS, MA. Et al. **Saúde** : a hora é agora. 1.ed. São Paulo: Manole, 2010. MELO, Rogério. **Esportes e jogos alternativos** . Sprint, 2015.
+
+NISTA-PICCOLO, Vilma Lení; MOREIRA, Wagner Wey. **Esporte para a vida no ensino médio.** 1. ed. São Paulo: Telos, 2023.
+
+RIGON, Thiago André; NOVAES, Rafael Batista; TSUKAMOTO, Mariana. Harumi Cruz. **A elaboração de uma matriz de referência para o ensino de jogos esportivos coletivos** . Corpo consciência, v. 24, n. 2, p. 172-186, 2020.
+
+RUFINO, Luiz Gustavo Bonatto; DARIDO, Suraya Cristina. **O ensino das lutas na escola** : possibilidades para a educação física. Porto Alegre: Penso, 2015.
+
+SABA, F. **Mexa-se** . 1.ed. São Paulo: Manole, 2021.
+
+SCHMIDT e WRISBERG. **Aprendizagem e Performance Motora** . 2a edição. Porto Alegre: Artmed. 2016.
+
+STUBBS, Ray. **O livro dos esportes** : os esportes, as regras, as táticas, as técnicas **.** São Paulo: Editora Nova Fronteira, 2012.
+
+VARA, Maria de Fátima Fernandes; PACHECO, Thaís. **Educação física e populações especiais** . São Paulo: Editora Intersaberes, 2012.
+
+COMPONENTE CURRICULAR: Língua Portuguesa e Literatura IV
+
+CARGA HORÁRIA: 120/ha – 100/hr
+
+EMENTA:
+
+Língua e empoderamento. Produção de gêneros acadêmicos. Funções complexas da linguagem. Leitura e análise crítica. Mídia e linguagens (integração). Os hipertextos da área de Informática. A presença dos gêneros textuais literários e não-literários em processos avaliativos externos. Literatura e movimentos literários. Crítica Literária. Literatura e contemporaneidade.
+
+BIBLIOGRAFIA BÁSICA:
+
+ABAURRE Luiza M.; PONTARA, Marcela. **Gramática - texto** : análise e construção de sentido. São Paulo: Moderna, 2010. ABAURRE Luiza M.; PONTARA, Marcela. **Produção de texto** : interlocução e gêneros. São Paulo: Moderna, 2010. ALMEIDA, Julia Lopes de. **A falência** . São Paulo: Penguin & Companhia das Letras, 2018. AZEVEDO, Álvares de. **Noite na taverna** . Jandira: Principis, 2019. BORGES, Assagra e Alda. **Leitura** : o mundo além das palavras. Curitiba: Instituto RPC, 2010. CARVALHO, Bernardo de. **Nove noites** . São Paulo: Companhia das Letras, 2002. GERALDI, João Wanderley. et al. (orgs.). **O texto na sala de aula** . São Paulo: Anglo, 2012. GONZAGA, Tomás Antônio. **Liras de Marília de Dirceu** . São Paulo: Ediouro, 2020. MARQUES, Ana Martins. **O livro das semelhanças** . 1ª ed. — São Paulo: Companhia das Letras, 2015. PASSARELI, Lilian. **Ensino e correção na produção de textos escolares** . São Paulo: Telos, 2012. ROSA, João Guimarães. **Sagarana** . Rio de Janeiro: Nova Fronteira, 2012. BIBLIOGRAFIA COMPLEMENTAR: AMADO, Jorge. **Capitães de areia** . São Paulo: Cia. Das Letras, 2009. ANDRADE, Carlos Drummond de. **A rosa do povo** . São Paulo: Cia. Das Letras, 2012. ANDRADE, Carlos Drummond de. **Claro enigma** . São Paulo: Cia. Das Letras, 2012. ANDRADE, Carlos Drummond de. **Sentimento do mundo** . São Paulo: Cia. Das Letras, 2012. ANDRADE, Mario de. **Macunaíma** . 2. ed. Rio de Janeiro: Nova Fronteira, 2013. ANDRADE, Oswald de. **A utopia antropofágica** . Rio de Janeiro: Globo, 2011. ANDRADE, Oswald de. **Serafim Pontegrande** . 9. ed. Rio de Janeiro: Globo, 2007. ASSIS, Machado de. **Várias histórias** . São Paulo: Martin Claret, 2014. ANTUNES, Irandé. **Aula de português** : encontro e interação. São Paulo: Parábola Editorial, 2003. BAGNO Marcos. **Gramática, pra que te quero?** Curitiba: Aymará, 2010. BANDEIRA, Manuel. **Antologia poética** . 6. ed. São Paulo: Global Editora, 2013. BARRETO, Lima. **Triste Fim de Policarpo Quaresma** . São Paulo: Martin Claret, 1999.
+
+BECHARA, E. **Gramática escolar da Língua Portuguesa** . 2. ed. ampl. e atualizada pelo Novo Acordo ortográfico. Rio de Janeiro: Nova Fronteira, 2010. BORGES, Assagra e Alda. **Leitura** : o mundo além das palavras. Curitiba: Instituto RPC, 2010. BORGES, Jorge Luis. **Ficciones** . 7 ed. Barcelona: Debolsillo, 2013. BOSI, Alfredo. **História concisa da literatura brasileira** . 41. ed. São Paulo: Cultrix, 2003. BRAGA, Rubem. **200 crônicas escolhidas** . 35. ed. Rio de Janeiro: Record, 2002. BUARQUE, Chico. **Leite derramado** . São Paulo: Cia. Das Letras, 2009. CALVINO, Ítalo. **Por que ler os clássicos** . São Paulo: Companhia das Letras, 2007. CAMINHA, Adolfo. **O bom crioulo** . São Paulo: Atelie, 2014. CAMÕES, Luiz Vaz de. **Os Lusíadas** . São Paulo: Martin Claret, 2000. CANDIDO, Antonio. **Formação da literatura brasileira** .15. ed. Rio de Janeiro: Ouro sobre Azul, 2014. CUNHA, Euclides da. **Os Sertões** . Rio de Janeiro: Record, 2000. DIAS, Gonçalves. **Juca Pirama, Os timbiras, Outros Poemas** . São Paulo: Martin Claret, 2002. GOMES, Dias. **O pagador de promessas** . São Paulo: Bertrand Brasil, 2003. GUARNIERI, Gianfrascesco. **Eles não usam black tie** . Rio de Janeiro: Civilização Brasileira, 1995. HATOUM, Milton. **Dois irmãos** . São Paulo: Cia. Das Letras, 2006. HILST, Hilda. **Contos d'escarnio** / textos grotescos. Rio de Janeiro: Globo, 2002. HOMERO. **Ilíada e Odisseia** . Rio de Janeiro: Nova Fronteira, 2015. LISPECTOR, Clarice. **A legião estrangeira** . Rio de Janeiro: Rocco, 1999. LISPECTOR, Clarice. **Felicidade clandestina** . Rio de Janeiro: Rocco, 1998. LISPECTOR, Clarice. **A hora da estrela** . Rio de Janeiro: Rocco, 1998. LOBATO, Monteiro. **Contos Completos** . Rio de Janeiro: Biblioteca Azul, 2014. LOBATO, Monteiro. **Urupês** . Rio de Janeiro: Globo: 2007. MATOS, Gregório de. **Poemas escolhidos** . São Paulo: Cia. Das Letras, 2015. MEIRELES, Cecília Meireles. **Romanceiro da inconfidência** . Rio de Janeiro: Nova Fronteira, 2008. MEIRELES, Cecília. **Melhores poemas** . 14. ed. São Paulo: Global Editora, 2014. MIRANDA, Ana. **A última quimera** . 2. ed. São Paulo: Cia. Das Letras, 2000. MOISÉS, Massaud. **A literatura brasileira através dos textos** . 29. ed. São Paulo: Cultrix, 2012. MORAES, Vinicius de. **Antologia Poética** . São Paulo: Cia. Das Letras, 2009. MORICONI, Ítalo. **Os cem melhores contos brasileiros do século** . São Paulo: Objetiva, 2009. NASSAR, Raduan. **Lavoura arcaica** . São Paulo: Companhia das Letras, 2014. NERUDA, Pablo. **Antologia General** . Rio de Janeiro: Alfaguara, 2010. PENA, Luís Carlos Martins. **Os dois ou o inglês maquinista.** São Paulo: IBEP, 2009. PIÑON, Nélida. **Melhores contos** . São Paulo: Global Editora, 2014. PRADO, Adélia. **Bagagem** . Rio de Janeiro: Record, 2003. QUEIRÓZ, Raquel de. **O quinze** . São Paulo: Ática, 2012. QUINTANA, Mario. **Antologia Poética** . Rio de Janeiro: Nova Fronteira, 2015. RAMOS, Graciliano. **São Bernardo** . Rio de Janeiro: Record, 2003. REGO, José Lins do. **Fogo morto** . 69. ed. Rio de Janeiro: José Olímpio, 2010. REGO, José Lins do. **Menino do engenho** . 100. ed. Rio de Janeiro: José Olímpio, 2010. ROSA, João Guimarães. **Grande sertão: Veredas** . Rio de Janeiro: Nova Fronteira, 2006. SACONI, Luiz Antônio. **Novíssima gramática ilustrada** . São Paulo: Nova geração, 2013. SANT'ANNA, Affonso Romano de. **Ler o mundo** . São Paulo: Global, 2011. SANTOS, Joaquim Ferreira dos. **As cem melhores crônicas brasileiras** . São Paulo: Objetiva,
+
+2007.
+
+SARMENTO, Leila Lauar. **Gramática em textos** (Vereda Digital). São Paulo: Moderna, 2012. SCHWARTZ, Gisele Maria. **Aventuras na natureza** : consolidando significados. Fontoura, 2006. SOARES, Jô. **O Xangô de Backer street** . São Paulo: Cia. Das Letras, 2011. SUASSUNA, Ariano. **O santo e a porca** . 51. ed. Rio de Janeiro: José Olímpio, 2007. TELLES, Lygia Fagundes. **Seminário de ratos** . São Paulo: Cia. Das Letras, 2008. TRAVAGLIA, L.C. **Gramática e interação** : uma proposta para o ensino de gramática no 1o e 2o graus. São Paulo: Cortez, 1996. VERÍSSIMO, Luís Fernando. **Comédias para se ler na escola** . São Paulo: Objetiva, 2001.
+
+## COMPONENTE CURRICULAR: Física III
+
+CARGA HORÁRIA: 80/ha – 67/hr
+
+EMENTA: Eletricidade e Magnetismo. BIBLIOGRAFIA BÁSICA: ARTUSO, A. R.; SOARES, M. V. **Viva Física** . Volume 2. Curitiba: Positivo, 2016. GUIMARÃES, O.; PIQUEIRA, J. R.; CARRON, W. **Física** . Volume 2. São Paulo: Ática, 2014. HEWITT, P. **Física conceitual** . Porto Alegre: Bookman, 2009. MENEZES, L. C. de et al. **Quanta física** . São Paulo: Pearson, 2014. 3v. PIETROCOLA, M. et al. **Física em contextos** . Volume 2. São Paulo: FTD, 2013. SILVA, C. X.; BARRETO FILHO, B. **Física** – aula por aula. Volume 2. São Paulo: FTD, 2010. BIBLIOGRAFIA COMPLEMENTAR: BELTRAN, Maria Helena Roxo; SAITO, Fumikazu; TRINDADE, Laís dos Santos Pinto (orgs.). **História das ciências** : tópicos atuais. São Paulo: Livraria da Física, 2011. BORGES, J. F. M. **Física do Cotidiano** . Curitiba: Blanche, 2014. BRUCE, C. **As aventuras científicas de Sherlock Holmes.** Rio de Janeiro: Jorge Zahar Editor, 2002. DOV, Y. B. **Convite à física** . Rio de Janeiro: Jorge Zahar Editor, 1996. FEYNMAN, R. **Sobre as leis da física** . Rio de Janeiro: Contraponto, 2012. FEYNMAN, Richard P.; LEIGHTON, Robert B.; SANDS, Matthew. **Lições de física de Feynman.** Porto Alegre: Artmed, 2008. 4v. FIOLHAIS, C. **Física divertida** . Lisboa: Gradiva Publicações, 1991. GUERRA, A.; BRAGA, M.; REIS, J. C. **Breve história da ciência moderna** . Rio de Janeiro: Jorge Zahar Editor, 2008. 4v. HART-DAVIS, A. et al. **O Livro das ciências** . Rio de Janeiro: Globo, 2015. HAWKING, Stephen. **Uma breve história do tempo** . Rio de Janeiro: Intrínseca, 2005. HENRY, John. **A revolução científica e as origens da ciência moderna** . Rio de Janeiro: Zahar, 1998. KOYRÉ, Alexandre. **Estudos de história do pensamento científico** . 2. ed. Rio de Janeiro: Forense Universitária, 1991. LOPES, Jose Leite. **Uma história da física no Brasil** . São Paulo: Livraria da Física, 2012. MENEZES, L. C. de. **A matéria** . São Paulo: Livraria da Física, 2005. MIGLIAVACCA, A.; WITTE, G. **A física na cozinha** . São Paulo: Livraria da Física, 2014. SAITOVITCH, E. M. B. et al. **Mulheres na física** : casos históricos, panorama e perspectivas.
+
+São Paulo: Livraria da Física, 2015.
+
+STEWART, Ian. **17 Equações que mudaram o mundo** . São Paulo: Cia das Letras, 2013. TOLAN, M.; STOLZE, J. **A física de James Bond** . São Paulo: Cultrix, 2013. TUFAILE, Alberto; TUFAILE, Pedrosa Biscaia. **Da física do faraó ao fóton** . São Paulo: Livraria da Física, 2013.
+
+## COMPONENTE CURRICULAR: Biologia II
+
+CARGA HORÁRIA: 120/ha – 100/hr
+
+## EMENTA:
+
+Vírus e doenças humanas relacionadas. Bactérias: processos ecológicos e doenças humanas relacionadas. Fungos: características, importância para o ser humano. Protistas: diversidade e ecologia. Plantas: classificação, morfologia e fisiologia vegetal. Animais: filos, diversidade e evolução, fisiologia comparada, importância ecológica, parasitoses e saúde humana. Museus de História Natural e bancos de dados. Genética: 1ª e 2ª Leis de Mendel. Heredogramas. Alelos múltiplos, herança dos grupos sanguíneos e sistema ABO. Interação gênica (epistasia, poligênia e pleiotropia), Sexo e herança genética. Teorias evolutivas, evidências da evolução e especiação. Bases genéticas da evolução. Sistemática e filogenética. Conceitos básicos em Ecologia. Fatores abióticos e bióticos dos ecossistemas. Fluxos de matéria e energia nos ecossistemas: cadeias, teias alimentares e pirâmides ecológicas. Biomas. Dinâmica de populações e de comunidades. Sucessão Ecológica. Ciclos Biogeoquímicos. Antropoceno. Lixo eletrônico e problemas ambientais.
+
+## BIBLIOGRAFIA BÁSICA:
+
+SADAVA, D. et al. **Vida:** A Ciência da Biologia - Constituintes Químicos da Vida, Células e Genética - Vol I, 11 ed. Porto Alegre: Artmed, 2020.
+
+SADAVA, D. et al. **Vida:** A Ciência da Biologia - Evolução, Diversidade e Ecologia. V. 2, 11 ed. Porto Alegre: Artmed, 2020. SADAVA, D. et al. **Vida:** A Ciência da Biologia - Forma e Função de Plantas e Animais. V. 3, 11 ed. Porto Alegre: Artmed, 2020. URRY, L. A. et al. (org.). **Biologia de Campbell** . 12. ed. Porto Alegre: Artmed, 2022.
+
+## BIBLIOGRAFIA COMPLEMENTAR:
+
+BOEGER, W. A. **O tapete de Penélope:** O relacionamento entre as espécies e a evolução orgânica. 1. ed. Editora Unesp, 2009.
+
+CABRAL, L. M. **Plantas e civilização:** Fascinantes histórias da etnobotânica. 1. ed. Edições de Janeiro, 2019. COSTA, J.P.O. **Uma história das florestas brasileiras** . 1. ed. Editora Autêntica, 2022. CROSBY, A.W. **Imperialismo Ecológico:** expansão biológica da Europa 900-1900. 1.ed. Companhia de Bolso, 2011. DAWKINS, R. **O maior espetáculo da Terra** . 1. ed. Companhia das Letras, 2009. HART-DAVIS, A. et al. **O Livro da Ecologia** . 1. ed. Globo Livros, 2020. IAMARINO, A.; LOPES, S. **Corona Vírus** - Explorando a pandemia que mudou o mundo. 1. ed. Moderna, 2020. JOHNSON, S. **Longevidade:** Uma breve história de como e por que vivemos mais. 1. ed. Zahar, 2021. JOHNSON, S. **O mapa fantasma:** Uma epidemia letal e a epopeia científica que transformou nossas cidades. 2. ed. Zahar, 2021.
+
+JUDD, W. S., et al; **Sistemática vegetal:** um enfoque filogenético **.** Trad. de SIMÕES, A. O. et al. 3. ed. Porto Alegre: Artmed, 2009.
+
+KNUPP, V. F.; LORENZI, H. **Plantas alimentícias não convencionais (PANC) no Brasil** . São Paulo: Instituto Plantarum de Estudos da Flora, 2014.
+
+KOLBERT, E. **A sexta extinção** : Uma história não natural. 1. São Paulo: ed. Intrínseca, 2015. LORENZI, H. **Árvores brasileiras:** manual de identificação e cultivo de plantas arbóreas nativas do Brasil. Vol. 1, 5. ed. Nova Odessa: Plantarum, 2008. LORENZI, H. **Árvores brasileiras:** manual de identificação e cultivo de plantas arbóreas nativas do Brasil. Vol. 2, 3. ed. Nova Odessa: Plantarum, 2009. LORENZI, H. **Árvores brasileiras:** manual de identificação e cultivo de plantas arbóreas nativas do Brasil. Vol. 3, 1. ed. Nova Odessa: Plantarum, 2009. LORENZI, H. **Plantas para jardim no Brasil:** herbáceas, arbustivas e trepadeiras. 2. ed. Nova Odessa, SP: Instituto Plantarum, 2015
+
+MARTINS, M.; SANO, P.T. **Biodiversidade tropical** . 1. São Paulo: ed. Editora Unesp, 2010. MEYER, D.; EL-HANI, C. N. **Evolução:** o sentido da biologia. 1. ed. São Paulo: Editora Unesp, 2005. MUKHERJEE, S. **O gene:** uma história íntima. 1.ed. São Paulo: Companhia das Letras, 2019. POLLAN, M. **O dilema do onívoro:** Uma história natural de quatro refeições. São Paulo: Intrínseca, 2007.
+
+QUAMMEN, D. **Contágio:** Infecções de origem animal e a evolução das pandemias. 1. ed. São Paulo: Companhia das Letras, 2020. SOUZA, V. C.; LORENZI, H. **Botânica Sistemática:** guia ilustrado para identificação das famílias de Fanerógamas nativas e exóticas no Brasil, baseado em APG III. Nova Odessa: Instituto Plantarum,. 2008. VANZELA, A. L. L.; SOUZA, R.F. **Avanços da Biologia Celular e da Genética Molecular** . 1. ed. São Paulo: Editora Unesp, 2009. WINEGARD, T. C. **O mosquito:** A incrível história do maior predador da humanidade. 1. ed. São Paulo: Intrínseca, 2022. WULF, A. **A invenção da natureza:** A vida e as descobertas de Alexander Von Humboldt. 2. ed. São Paulo: Editora Crítica, 2019.
+
+ZIMMER, C. **Planeta de virus** . 1 ed. São Paulo: Novo Século, 2021.
+
+COMPONENTE CURRICULAR: Filosofia II
+
+CARGA HORÁRIA: 80/ha – 67/hr
+
+EMENTA: Metafísica e Ontologia. Subjetividade. Fenomenologia. A crise do Sujeito. Teoria marxiana. Teoria freudiana, Nietzsche. Filosofia da linguagem. Filosofias Outras (afrodiaspóricas, feministas, povos originários). Filosofia contemporânea.
+
+BIBLIOGRAFIA BÁSICA: CHAUÍ, Marilena. **Iniciação à Filosofia** : ensino médio. São Paulo: Ática, 2010 COTRIM, G. **Fundamentos da filosofia** : história e grandes temas. São Paulo: Saraiva, 2006. FIGUEIREDO, V. (org). **Filosofia** : temas e percursos. São Paulo: Berlendis & Vertecchia, 2014. GAARDER, J. **O mundo de Sofia.** São Paulo: Cia das Letras, 1995.
+
+BIBLIOGRAFIA COMPLEMENTAR: ABBAGNANO, N. **Dicionário de filosofia** . 4. ed. São Paulo: Mestre Jou, 2000. BUZZI, A. R. **Introdução ao pensar:** o ser, o conhecimento, a linguagem. Petrópolis, RJ: Vozes, 2007.
+
+CHAUÍ, M. **A ideologia da violência** . BH: Autêntica, 2014
+
+COTRIM, G. **Fundamentos da filosofia** : história e grandes temas. São Paulo: Saraiva, 2006. DAVIS, A. **Mulheres, raça e Classe** . SP: Boitempo, 2016
+
+DELACHAMPAGNE. C. **A filosofia política hoje** . Rio de Janeiro: Zahar, 2001. DELEUZE, G. & GUATTARI, F. **O que é a filosofia?** São Paulo: Ed.34, 2014 FEDERICI, S. **Calibã e a Bruxa** . SP: n-1, 2004
+
+GILPIN, R. **O desafio do capitalismo global** . Rio de Janeiro: Record, 2004.
+
+MARCONDES, D. **Iniciação à história da filosofia** : dos pré-socráticos a Wittgenstein. Rio de Janeiro: Zahar, 1997.
+
+MARX, K. **O Capital** : crítica da Economia política. SP: Boitempo, 2015 NIETZSCHE, F. **A filosofia na época trágica dos gregos** . São Paulo: Hedra, 2008. SAVIAN, Juvenal. **Argumentação** . São Paulo, Martins Fontes, 2010.
+
+VERGES, André; HUISMAN, Denis. **História dos filósofos ilustrada pelos textos** . Rio de Janeiro: Freitas Bastos, 1984.
+
+COMPONENTE CURRICULAR: Sociologia II
+
+CARGA HORÁRIA: 80/ha – 67/hr
+
+EMENTA: Cultura enquanto conceito antropológico; Culturas indígenas e afro-brasileiras; O trabalho em diferentes sociedades; Taylorismo e fordismo; Toyotismo, acumulação flexível e precarização do trabalho; Teoria da dependência e o trabalho no Brasil; Conceito sociológico de Estado; Democracia liberal e democracia socialista; Tecnologia social e tecnologia convencional (Integrado com a área técnica)
+
+BIBLIOGRAFIA BÁSICA:
+
+BOBBIO, N. **Liberalismo e democracia.** São Paulo: Brasiliense, 2005.
+
+CLASTRES, P. **A sociedade contra o Estado.** São Paulo: Cosac & Naify, 2003. DURKHEIM, E. **Da divisão do trabalho social** . São Paulo: Martins Fontes, 2008. ENGELS, F. **A origem da família, da propriedade privada e do Estado.** São Paulo: Boitempo, 2019. FEDERICI, S. **O patriarcado do salário** : notas sobre Marx, gênero e feminismo. São Paulo, Boitempo, 2020.
+
+FERNANDES, F. **A revolução burguesa no Brasil:** ensaio de interpretação sociológica. São Paulo: Globo, 2006.
+
+LENIN, V. I. O **Estado e revolução** : doutrina do marxismo sobre o Estado e as tarefasdo proletariado na Revolução **.** São Paulo: Boitempo, 2017. LARAIA, R.B. **Cultura, um conceito antropológico.** Rio de Janeiro: Jorge Zahar, 2004. MÉSZÁROS, I. **A crise estrutural do capital** . São Paulo: Boitempo, 2009. PINTO, G. A. A **organização do trabalho no século 20** : taylorismo, fordismo e toyotismo **.** 2ª ed. São Paulo: Expressão Popular, 2010.
+
+SADER, E. (Org.). **Dialética da dependência** : uma antologia da obra de Ruy Mauro Marini. Petrópolis, RJ: Vozes; Buenos Aires: CLACSO, 2000.
+
+## BIBLIOGRAFIA COMPLEMENTAR:
+
+BOITO JR., A. **Reforma e crise política no Brasil:** os conflitos de classe nos governos do PT. Campinas: Editora Unicamp/ São Paulo: Editora UNESP, 2018.
+
+BURAWOY, M. **O marxismo encontra Bourdieu.** Campinas: Editora Unicamp, 2010. ENGELS, F.; MARX, K. **A ideologia alemã** . São Paulo: Boitempo Editorial, 2007. FONTES, V. **O Brasil e o capital-imperialismo** : teoria e história. Rio de Janeiro: EPSJV/Editora UFRJ, 2010.
+
+LENIN, V.I. I **mperialismo, estágio superior do capitalismo** . São Paulo: Boitempo Editorial, 2017.
+
+TROTSKY, L. **A revolução russa** . São Paulo: Boitempo Editorial, 2007. WEBER, M. **Ciência e Política** : duas Vocações. São Paulo: Editora Cultrix, 2010.
+
+## COMPONENTE CURRICULAR: História II
+
+CARGA HORÁRIA: 80/ha – 67/hr
+
+## EMENTA:
+
+Relações de trabalho, de poder e culturais na Idade Contemporânea; História Geral: dimensões econômicas, culturais, políticas e religiosas do período da Idade Contemporânea; História do Brasil: período republicano, com ênfase nos aspectos políticos, econômicos e culturais; Diversidade Cultural: história e cultura afro-brasileira e dos povos indígenas brasileiros. História do Paraná: dimensões econômicas, culturais, políticas e religiosas do período colonial até a atualidade. Integração da área de História com a área técnica: deve-se utilizar uma metodologia contextualizada para direcionar os conteúdos para a área de informática.
+
+## BIBLIOGRAFIA BÁSICA:
+
+GALEANO, E. **As veias abertas da América Latina** . Rio de Janeiro: Paz e Terra, 2000. HOBSBAWN, E. **Era dos extremos:** o breve século XX – 1914-1991. São Paulo: Companhia das Letras, 1995.
+
+HOBSBAWN, E. **A era do capital (1848-1875).** São Paulo: Paz e Terra, 1996. NOVAIS, F. A. (coord). **História da vida privada no Brasil.** São Paulo: Companhia das Letras, 1998. (5 volumes)
+
+REIS FILHO, Aarão et al. **O Século XX** . Rio de Janeiro: Civilização brasileira, 2000. 3 v. RIBEIRO, D. **O povo brasileiro:** a formação e o sentido do Brasil. 2a ed. São Paulo: Companhia das Letras, 2005.
+
+## BIBLIOGRAFIA COMPLEMENTAR:
+
+CROUZET, M. **A Época Contemporânea.** Vols. XV-XVII da História Geral das Civilizações. São Paulo: Difel, 1977.
+
+IANNI, Octavio. **A formação do estado populista na América Latina** . 2. ed. Rio Janeiro: Civilização Brasileira, 1991.
+
+KARNAL, Leandro (Org.). **História na sala de aula** . São Paulo: Contexto, 2003. KI-ZERBO, Joseph (Coord.). **História geral da África** . São Paulo: Ática/Unesco, 1982. NADALIN, Sérgio O. **Paraná:** ocupação do território, população e migrações. Coleção História do Paraná. Curitiba: SEED, 2001.
+
+COMPONENTE CURRICULAR: Matemática IV CARGA HORÁRIA: 120/ha – 100/hr
+
+EMENTA: Revisão de conteúdos: funções, polinômios, trigonometria, matrizes, sistemas lineares, geometria plana e espacial. Tópicos de modelagem matemática Pré-cálculo: tópicos de Análise Matemática e introdução ao cálculo diferencial e integral. BIBLIOGRAFIA BÁSICA: DANTE, L. R. **Matemática** : contexto e aplicações. 4ª. ed. São Paulo: Ática. 2018. GIOVANNI, J. R.; GIOVANNI JR., J. R.; BONJORNO, J. R. **Matemática Fundamental** : uma nova abordagem. 2ª ed. São Paulo: FTD, 2011. IEZZI, G. _et al_ . **Matemática** : ciência e aplicações. 3 vols. 8ª ed. São Paulo: Atual, 2014. LEONARDO, F. M.; SILVA, W. R. **Conexões com a matemática** . 2ª ed. São Paulo: Editora Moderna,2017. LOPES, Luiz Fernando; CALLIARI, Luiz Roberto. **Matemática Aplicada na Educação Profissional** . 1ª ed. São Caetano do Sul: Base Editorial, 2012.
+
+BIBLIOGRAFIA COMPLEMENTAR: BASSANEZI, R. C. **Ensino-aprendizagem com modelagem matemática** : uma nova estratégia. São Paulo: Editora Contexto, 2002. MELLO, J. L. P. **Matemática:** construção e significado. 1ª ed. São Paulo: Editora Moderna, 2005. MURAKAMI, C., IEZZI, G. **Fundamentos da Matemática elementa** r - volume 2. São Paulo, Editora Atual, 2010. RIBEIRO, Jackson. **Matemática:** ciência, linguagem e tecnologia. São Paulo: Editora Scipione, 2010, Vol. 2.
+
+## COMPONENTE CURRICULAR: Desenvolvimento para dispositivos móveis
+
+CARGA HORÁRIA: 80/ha – 67/hr
+
+## EMENTA:
+
+Programação para dispositivos móveis. Frameworks para desenvolvimento. Diferenças entre aplicativos nativos e híbridos. Planejamento de aplicativos para diferentes plataformas e sistemas. Linguagens de programação para desenvolvimento de aplicativos.
+
+BIBLIOGRAFIA BÁSICA: DEITEL, Paul J. **Android para programadores:** uma abordagem baseada em aplicativos. Porto Alegre: Bookman, 2015. DEITEL, Paul J. Deitel, Harvey M. Wald, Alexander. **Android 6 para programadores:** uma abordagem baseada em aplicativos. Porto Alegre: Bookman, 2016. LECHETA, Ricardo R. Google **Android:** aprenda a criar aplicações para dispositivos móveis com o Android SDK. São Paulo: Novatec, 2015. MONK, Simon. **Projetos com Arduino e Android:** use seu smartphone ou tablet para controlar o Arduino. Porto Alegre: Bookman, 2014.
+
+BIBLIOGRAFIA COMPLEMENTAR:
+
+ALLEN, Sarah. Graupera, Vidal. Lundrigan, Lee. **Desenvolvimento profissional multiplataforma para Smartphone:** iPhone, Android, Windows Mobile e BlackBerry. Porto Alegre: Bookman, 2014 ABLESON, W. Frank. **Android em ação** . Rio de Janeiro: Elsevier, 2012. OGLIARI, Ricardo da Silva; BRITO, Robison Cris. **Android:** do básico ao avançado. Rio de Janeiro: Ciência Moderna, 2014.
+
+PEREIRA, Lúcio Camilo Oliva; SILVA, Michel Lourenço da. **Android para desenvolvedores** . 2. ed. rev. atual. Rio de Janeiro: Brasport, 2012.
+
+COMPONENTE CURRICULAR: Tópicos avançados em Informática II (Inteligência Artificial) CARGA HORÁRIA: 80/ha – 67/hr EMENTA: Introdução aos conceitos básicos de Inteligência Artificial. Interação com ferramentas e algoritmos de aprendizagem de máquina. Reflexão sobre os impactos dos dados sobre o aprendizado de máquina e suas consequências na aplicação. Algoritmos de inteligência artificial e a relação deles com a investigação e as soluções de problemas do cotidiano. BIBLIOGRAFIA BÁSICA: HARRISON, Matt. **Machine learning:** guia de referência rápida: trabalhando com dados estruturados em Python. São Paulo: Novatec, 2020. RUSSELL, Stuart J; Peter Norvig. **Inteligência artificial.** Rio de Janeiro: Elsevier, 2013. TAULLI, Tom. **Introdução à inteligência artificial** : uma abordagem não técnica. São Paulo: Novatec, 2020. BIBLIOGRAFIA COMPLEMENTAR: COPPIN, Ben. **Inteligência artificial** . Rio de Janeiro: LTC, 2010. LARMAN C. **Utilizando UML e padrões:** uma introdução à análise e ao projeto orientados a objetos e ao desenvolvimento iterativo. 3. ed. São Paulo: Bookman, 2005. LINDEN, Ricardo. **Algoritmos genéticos** . Rio de Janeiro: Ciência Moderna, 2012. MUELLER, John. **Inteligência artificial para leigos** . Rio de Janeiro: Alta Books, 2019.
+
+COMPONENTE CURRICULAR: Projeto Integrador II
+
+CARGA HORÁRIA: 120/ha – 100/hr EMENTA: Resolução de problemas reais utilizando as diversas tecnologias. Desenvolvimento e implantação da solução proposta. Produção de texto científico (Ensaio acadêmico, relato de experiência ou artigo). (Possível integração e desenvolvimento do protótipo na incubadora IFPR/GrapeTECH). BIBLIOGRAFIA BÁSICA: ALVES, Willian Pereira. **Construindo uma Aplicação Web Completa com PHP e MySQL** . São Paulo: Novatec, 2017. AQUINO, Italo de Souza. **Como escrever artigos científicos** . São Paulo: Saraiva Educação,
+
+2017. BRASILEIRO, Ada Magaly Matias **. Como produzir textos acadêmicos e científicos** . São Paulo: Contexto, 2021. FONTES-PEREIRA, Aldo. **Escrita científica descomplicada** : como produzir artigos de forma criativa, fluida e produtiva. São Paulo: Labrador, 2021. LARMAN C. **Utilizando UML e padrões** : uma introdução à análise e ao projeto orientados a objetos e ao desenvolvimento iterativo. 3. ed. São Paulo: Bookman, 2005. MARTIN, Robert C. **Desenvolvimento ágil limpo** : de volta às origens. Rio de Janeiro: Alta Books, 2020. 196 p. (Série Robert C. Martin). OLIVEIRA, Djalma de P. R. de. **Planejamento estratégico** : conceitos, metodologia e práticas. 22. ed. São Paulo: Atlas, 2006 PRESSMAN R.S. **Engenharia de Software** : uma abordagem profissional. 7. ed. São Paulo: McGraw-Hill, 2011. SEBRAE. **Como elaborar um plano de negócios** . Brasília: Sebrae, 2013. SILBERSCHATZ, Abraham; KORTH, Henry F.; SUDARSHAN, S. **Sistemas de banco de dados.** 7.Edição. São Paulo: GEN LTC, 2020. 754 p. STADLER, Adriano. HALICKI, Zélia e ARANTES, Elaine. **Empreendedorismo e Responsabilidade Social.** Curitiba: Editora IBPEX, 2011. BIBLIOGRAFIA COMPLEMENTAR: ALVES, Willian Pereira. **Construindo uma Aplicação Web Completa com PHP e MySQL** . São Paulo: Novatec, 2017. DEITEL, Paul J. Deitel, Harvey M. Wald, Alexander. **Android 6 para programadores:** uma abordagem baseada em aplicativos. Porto Alegre: Bookman, 2016. FLANAGAN, David **. JavaScript:** O guia definitivo. 6.ed São Paulo: BOOKMAN COMPANHIA, 2012. LECHETA, Ricardo R. **Google Android:** aprenda a criar aplicações para dispositivos móveis com o Android SDK. São Paulo: Novatec, 2015. MONK, Simon. **Projetos com Arduino e Android:** use seu smartphone ou tablet para controlar o Arduino. Porto Alegre: Bookman, 2014.
+
+## 6.8 ESTÁGIO CURRICULAR
+
+O estágio não será obrigatório, porém o(a) estudante tem a possibilidade de realizá-lo. Assim, compreende-se o estágio como um ato educativo supervisionado e orientado, desenvolvido no ambiente de trabalho por estudantes que estejam frequentes nos cursos do IFPR. O estágio não obrigatório é aquele que não se configura como pré-requisito para a aprovação e certificação no curso, realizado de forma opcional, acrescido à carga horária total do curso, segundo Resolução CONSUP/IFPR n° 82, de 02 de junho de 2022). O regulamento geral de estágio do IFPR Campus Colombo encontra-se no anexo I.
+
+## 6.9 TRABALHO FINAL DE CURSO
+
+No curso Técnico em Informática Integrado ao Ensino Médio não haverá Trabalho de Conclusão de Curso (TCC). No entanto, nos componentes Empreendedorismo e Inovação, Projeto Integrador I e Projeto Integrador II, respectivamente ministrados no 2º, 3º e 4º ano, haverá o desenvolvimento de um projeto por parte dos(as) alunos(as) que culminará na
+
+apresentação de um protótipo no último ano. Além do protótipo, haverá o incentivo para a escrita, e possível publicação, de um texto científico, qual seja, artigo, ensaio ou relato de experiência.
+
+## **7 POLÍTICAS DE ATENDIMENTO AOS(ÀS) ESTUDANTES**
+
+## 7.1 AÇÕES DE ACESSO E PERMANÊNCIA DO(A) ESTUDANTE
+
+O acesso dos(as) estudantes ao Curso Técnico em Informática Integrado ao Ensino Médio se dá, principalmente, por meio de Processo Seletivo, mas também por processo seletivo simplificado (para vagas remanescentes), convênio, transferência e como aluno especial.
+
+O ingresso está amparado pela Lei de Cotas (nº 12.711/2012, alterada pela lei nº 14.723/2023), que dispõe sobre o ingresso nas universidades federais e nas instituições federais de ensino técnico de nível médio. Além disso, a Portaria Normativa nº 18,de 11 de outubro de 2012 dispõe sobre a implementação das reservas de vagas para cotas em instituições federais de ensino. Dessa forma, a distribuição das vagas ocorrerá da seguinte maneira:
+
+I – 60% (sessenta por cento) são reservadas aos candidatos que tenham cursado integralmente o Ensino Fundamental em escolas públicas, em cursos regulares ou no âmbito da modalidade de Educação de Jovens e Adultos (EJA); ou tenham obtido certificado de conclusão com base no resultado do Exame Nacional para Certificação de Competências de Jovens e Adultos (Encceja), ou de exames de certificação de competência ou de avaliação de jovens e adultos realizados pelos sistemas estaduais de ensino. Esse percentual será distribuído da seguinte maneira: a) 50% (cinquenta por cento) serão destinados aos candidatos que possuam renda familiar bruta mensal igual ou inferior a 1 (um) salário-mínimo nacional per capita, havendo reserva de vagas para candidatos: autodeclarados pretos, pardos, indígenas e quilombolas e pessoas com deficiência; b) 50% (cinquenta por cento) serão destinados aos candidatos que possuam renda familiar bruta mensal superior a 1 (um) salário-mínimo nacional per capita, havendo reserva de vagas para candidatos: autodeclarados pretos, pardos,  indígenas e quilombolas e pessoas com deficiência;
+
+II – 10% (dez por cento) do total das vagas ofertadas para cada curso e turma são reservadas aos candidatos autodeclarados pretos ou pardos;
+
+III – 5% (cinco por cento) do total das vagas ofertadas para cada curso e turma são reservadas aos candidatos autodeclarados indígenas ou quilombolas;
+
+IV – 5% (cinco por cento) do total das vagas ofertadas para cada curso e turma são reservadas aos candidatos considerados pessoas com deficiência;
+
+V – 20% (vinte por cento) do total das vagas ofertadas para cada curso e turma são reservadas à concorrência geral.
+
+Com relação ao acolhimento e ambientação dos(as) estudantes, nos primeiros dias são convidados a conhecer a instituição, geralmente interagindo com os outros(as) estudantes, são apresentados os setores do campus, a estrutura física e os servidores. Além disso, se propõe conversas com egressos do curso. De maneira geral, os(as) alunos(as) são acompanhados todo tempo pelos setores acadêmicos do campus, principalmente pela SEPAE. Outros acompanhamentos são realizados pelo professor de Educação Especial, na regência do CNAPNE, e pela psicóloga. As Coordenações de Curso e Ensino, assim como a DIEPEX, também propõe ações de acompanhamento e acolhimento dos(as) estudantes e realizam ações visando a permanência e êxito.
+
+## **7.1.1 Programas de Ensino, Pesquisa, Extensão, Inovação, Inclusão Social e Assistência estudantil**
+
+A Assistência Estudantil, pautada na Política Nacional da Assistência Estudantil – PNAES – Decreto nº 7.234/2010, tem como finalidade ampliar as condições de acesso, permanência e êxito de estudantes no IFPR. As ações planejadas a partir dessa política buscam aprimorar o desenvolvimento intelectual e humano da comunidade acadêmica contemplada pelos benefícios, sobretudo porque estão articuladas ao tripé ensino, pesquisa e extensão (PDI/IFPR, 2019-2023). A Assistência Estudantil é orientada por princípios e diretrizes institucionais que se configuram como fundamentos para a elaboração e a execução de programas e ações, estabelecendo- se de forma transversal a todos os setores que compõem a Instituição (PDI/IFPR, 2019-2023). Os Programas Institucionais de Bolsas de Estudos são regulamentados pelas Resoluções CONSUP nº 11/2009 e nº 53/2011.
+
+A política de Assistência Estudantil do IFPR se apoia nos princípios da educação pública e de qualidade para todos, que promova formação integral, com justiça e respeito à diversidade. Para isso, efetiva-se por meio de Programas Institucionais, de parcerias com órgãos de fomento do Governo do Estado do Paraná e do Governo Federal, além das cooperações eventuais com a iniciativa privada e demais organizações, possuindo, cada uma, seus critérios de participação. O Curso Técnico em Informática Integrado ao Ensino Médio, pensado a partir dos mesmos princípios, poderá ser beneficiado com os seguintes Programas:
+
+- Programa de Apoio à Participação em Eventos Estudantis: concorrem estudantes regularmente matriculados, com a finalidade de participar de evento acadêmico da área relacionada ao curso, mediante critérios de edital específico e disponibilidade orçamentária da Instituição;
+
+- Programa de Bolsas Acadêmicas de Inclusão Social (PBIS): consiste em oportunizar aos(à) estudantes com vulnerabilidade socioeconômica condições de permanência nos cursos, participando com mais dedicação das ações acadêmicas. O critério de participação no PBIS está vinculado à condição socioeconômica dos(as) estudantes e sua forma de ingresso na instituição. Está regulamentado pela Resolução CONSUP nº 64/2010;
+
+- Programa Institucional de Iniciação Científica (PIBIC Jr): voltado ao desenvolvimento do pensamento científico e das práticas de investigação científica para estudantes de Ensino Médio. Recebe suporte de Programas de Iniciação científica de agências de fomento. Insere-se no contexto do incentivo ao desenvolvimento de pesquisas no curso e a partir do curso, estimulando articulação com futuros cursos de Pós-Graduação e visando contribuir para o desenvolvimento da aprendizagem dos(as) estudantes. Podem concorrer a esse tipo de Bolsa os(as) estudantes selecionados para atuar em projetos coordenados por docentes ou técnicos administrativos. Recebe regulamentação da Resolução CONSUP nº 11/2011;
+
+- Programa de Bolsas de Extensão (PIBEX Jr): tem a finalidade de incentivar as atividades de extensão, produzindo e divulgando conhecimentos a partir da realidade local e dos fatores de maior impacto na região. Os projetos de extensão possuem maior integração com a sociedade, sendo a comunidade externa um dos principais espaços para o desenvolvimento de produtos gerados nas ações de extensão. Podem concorrer a esse tipo de Bolsa os(as) estudantes selecionados para atuar em projetos coordenados por docentes ou técnicos administrativos;
+
+- Programa Institucional de Bolsas de Incentivo ao Empreendedorismo Inovador (PIBIN): tem a finalidade de estimular o desenvolvimento da inovação e do empreendedorismo, além do desenvolvimento tecnológico por meio de processos de investigação, produção e formação para o mundo do trabalho. Podem concorrer a esse tipo de Bolsa os(as) estudantes selecionados para atuar em projetos coordenados por docentes ou técnicos administrativos;
+
+- Programa de Auxílio complementar aos Estudantes (PACE): regulamentado pela IIP PROENS/IFPR nº 20/2012, objetiva oferecer apoio e condições de permanência e conclusão do
+
+curso aos(às) estudantes regularmente matriculados, que comprovem situação de vulnerabilidade social. O recurso do PACE pode ser propiciado por meio de auxílio-moradia, auxílio-alimentação e auxílio-transporte;
+
+- Programa Bolsa Atleta: voltado a estudantes que participam de projetos ligados à prática esportiva. Podem concorrer a esse tipo de Bolsa os(as) estudantes selecionados para atuar em projetos da área de esportes coordenados por docentes;
+
+- Programa Bolsa Monitoria: consiste na atividade de monitoria para estudantes que possuem bons rendimentos e desempenho no curso. Podem concorrer a esse tipo de Bolsa os(as) estudantes selecionados para serem orientados por docentes de componentes curriculares específicos. Além dos Programas expostos, a Instituição inova e busca se adequar às necessidades da sociedade, subsidiando muitas outras ações que incentivam o desenvolvimento dos(as) estudantes. Entre essas ações, merecem destaque as Feiras de Inovação Tecnológica (IFTECH), Os Núcleos de Educação em Direitos Humanos, os Jogos escolares (JIFPR) e o Seminário de Ensino, Extensão, Pesquisa e Inovação (SE²PIN).
+
+Nessa perspectiva a Assistência Estudantil, por intermédio de ações afirmativas, assume compromisso com o desenvolvimento e o acompanhamento pedagógico dos(as) estudantes, que lhes subsidiará igualdade de condições para aprendizagem, visando à permanência e ao êxito escolar/acadêmico, e promovendo a formação integral e a inclusão no mundo do trabalho (PDI/IFPR, 2019-2023).
+
+## **7.1.2 Acessibilidade**
+
+De acordo com a Lei nº 13.146, de 6 de julho de 2015, no seu art. 3°, acessibilidade é, segundo inciso I, a
+
+possibilidade e condição de alcance para utilização, com segurança e autonomia, de espaços, mobiliários, equipamentos urbanos, edificações, transportes, informação e comunicação, inclusive seus sistemas e tecnologias, bem como de outros serviços e instalações abertos ao público, de uso público ou privados de uso coletivo, tanto na zona urbana como na rural, por pessoa com deficiência ou com mobilidade reduzida.
+
+Como o campus Colombo passa por desenvolvimento e expansão, conforme Plano de Desenvolvimento Institucional 2019-2023, cumpre registrar o esforço da instituição para tornar os ambientes mais acessíveis faz parte da missão do IFPR, que vem trabalhando pela aquisição de novos e melhores equipamentos, que atendam a comunidade em suas necessidades específicas, para que seja, de fato, uma instituição inclusiva, atendendo os incisos III e IV da Lei, que versam sobre as tecnologias assistivas e as barreiras, respectivamente.
+
+Com o intuito de atender ao Decreto nº 5.296/2004, que regulamenta as Leis nº 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e Leis nº 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida. Além disso, leva-se em consideração as alterações da Lei nº 14.626, de 19 de julho de 2023, que inclui nas ações de acessibilidade, as pessoas com transtorno do espectro autista. Nesse sentido, o Campus Colombo tem trabalhado politicamente para o saneamento das deficiências arquitetônicas de acessibilidade, tornando o local mais acessível à comunidade.
+
+## **7.1.3 Educação Inclusiva**
+
+A Coordenadoria do Núcleo de Apoio a Pessoas com Necessidades Educacionais Específicas — CNAPNE, desempenha um papel fundamental no ambiente educacional e tem
+
+como finalidades: incentivar, mediar e facilitar a inclusão e a igualdade de oportunidades para estudantes com necessidades específicas; contemplar e implementar as Políticas Nacionais de Educação Inclusiva; incentivar, participar e colaborar no desenvolvimento de parcerias com instituições que atuem na educação/atuação/inclusão profissional, para pessoas com necessidades específicas; integrar os diversos segmentos que compõem a comunidade escolar, propiciando corresponsabilidade na construção da ação educativa de inclusão na Instituição; fomentar e participar de capacitações relacionadas à inclusão de pessoas com necessidades específicas; inclusão e a igualdade de oportunidades para estudantes com necessidades específicas, também visa estimular a criação da cultura da educação para a convivência, respeito às diferenças e, principalmente, minimizar as barreiras educacionais, arquitetônicas, comunicacionais, de atitude e tecnológicas no âmbito do IFPR.
+
+Uma das atribuições da CNAPNE é criar um ambiente educacional mais acessível, auxiliando os(as) estudantes, os professores nas adaptações de atividades e proporcionando suporte individualizado para os(as) estudantes que enfrentam desafios especiais em seu processo de aprendizagem. A necessidade e a obrigatoriedade das adaptações de atividades para os(as) estudantes com necessidades específicas são fundamentais para garantir que todos os(as) alunos(as) recebam uma educação de qualidade. A inclusão é um direito de todo(a) estudante, independentemente de suas características individuais, e as adaptações são uma maneira de assegurar que esse direito seja respeitado. As adaptações podem abranger uma ampla gama de estratégias, desde modificações nos materiais didáticos, personalização das avaliações, oferta de suporte adicional e até uma flexibilização no currículo do curso.
+
+Além disso, a CNAPNE trabalha em estreita colaboração com os docentes e demais profissionais da educação para oferecer orientação e capacitação sobre como melhor atender às necessidades dos(as) estudantes com deficiências físicas, sensoriais, intelectuais, transtornos do espectro autista (TEA), entre outras necessidades específicas. A CNAPNE, contribui para a construção de uma sociedade mais inclusiva, onde todas as pessoas têm a oportunidade de desenvolver todo o seu potencial. Além disso, ao mediar e facilitar a inclusão na educação, prepara os(as) estudantes para uma sociedade diversa, ensinando valores de respeito, empatia e aceitação das diferenças. Também desempenha um papel fundamental no cumprimento da legislação educacional, que exige a inclusão de estudantes com necessidades específicas. Isso garante que as instituições de ensino cumpram seu compromisso de oferecer uma educação equitativa a todos os cidadãos. Em resumo, a Coordenadoria do Núcleo de Apoio a Pessoas com Necessidades Educacionais Específicas desempenha um papel crucial na promoção da inclusão e igualdade na educação. Sua função de assessorar e oferecer suporte individualizado é essencial para garantir que todos os(as) estudantes tenham a oportunidade de aprender e se desenvolver plenamente, independente de suas necessidades específicas. Seu trabalho contribui para uma sociedade mais justa, diversa e inclusiva, preparando os(as) estudantes para um futuro em que a aceitação das diferenças é valorizada e respeitada.
+
+O IFPR, em virtude de sua concepção, tem compromisso com a educação inclusiva. Para isso, instituiu, pela Resolução nº 08/2014, o Núcleo de Atendimento às Pessoas com Necessidades Educacionais Específicas (NAPNE), vinculado à Seção Pedagógica e Assuntos Estudantis (SEPAE). Trata-se de um núcleo consultivo, propositivo e de assessoramento, com composição multidisciplinar (estabelecida no campus Colombo pela Portaria nº 8, de 14 de fevereiro de 2020).
+
+O NAPNE visa promover e estimular a criação da cultura da educação para a convivência, respeito às diferenças e, principalmente, minimizar as barreiras educacionais, arquitetônicas, comunicacionais, de atitude e tecnológicas, sendo parte fundamental do trabalho para promover a inclusão de todos(as) os(as) estudantes. O NAPNE tem como finalidade:
+
+- incentivar, mediar e facilitar os processos de inclusão educacional e profissionalizante de pessoas com necessidades específicas e do público-alvo da Educação Especial na
+
+instituição;
+
+- contemplar e implementar as Políticas Nacionais de Educação Inclusiva; incentivar, participar e colaborar no desenvolvimento de parcerias com instituições que atuem na educação/atuação/inclusão profissional, para pessoas com necessidades específicas;
+
+- difundir informações e resultados de estudos sobre a temática, no âmbito interno e externo dos campi, articulando ações de inclusão em consonância com a Rede Federal de Educação Profissional, Científica e Tecnológica;
+
+- promover a cultura da educação inclusiva para a convivência, aceitação e respeito às especificidades dos(as) estudantes;
+
+- integrar os diversos segmentos que compõem a comunidade escolar, propiciando corresponsabilidade na construção da ação educativa de inclusão na Instituição;
+
+- fomentar práticas democráticas de inclusão, como diretrizes de atuação do campus;
+
+- buscar a quebra de barreiras arquitetônicas, educacionais, comunicacionais e atitudinais na Instituição;
+
+- fomentar e participar de capacitações relacionadas à inclusão de pessoas com necessidades específicas.
+
+O campus Colombo vem trabalhando pela qualificação de todos os serviços necessários para a garantia da acessibilidade, tais como: o atendimento às pessoas com deficiência auditiva, às pessoas surdo cegas, prestado por guias-intérpretes ou pessoas capacitadas neste tipo de atendimento; pessoal capacitado para prestar atendimento às pessoas com deficiência visual, mental e múltipla, bem como às pessoas idosas; disponibilidade de áreas especiais para a mobilidade; divulgação dos atos públicos em lugares visíveis.
+
+Com o objetivo de garantir acessibilidade a pessoas com deficiência, bem como o direito individual e social, e sua efetiva integração social, nos termos da Lei nº 7.853/1989, foi planejada a reforma do Bloco Azul com vaga destinada a pessoas com deficiência no estacionamento, rampa e portas padronizadas com mobilidade para pessoas com deficiência física, e um banheiro parcialmente adaptado para cadeirantes. O campus Colombo possui, ainda, um teclado baixa visão, quatro fones de ouvido com microfone Headset, duas mesas adaptadas para cadeirante, cinco tablets PC e um notebook para serem utilizados com objetivo da inclusão. Também estão previstas aquisições de artefatos para pessoas com deficiências visuais e auditivas. A preocupação com a inclusão também se reflete na organização dos ambientes, como a Biblioteca, os Laboratórios e áreas de uso comum.
+
+Tais ações dão cumprimento ao Decreto nº 5.626, de 22 de dezembro de 2005, em atendimento ao Parecer nº 5.626/05; ao Decreto nº 5.296, de 02 de dezembro de 2004, que regulamenta a Lei nº 10.048, de 8 de novembro de 2000, a qual dá prioridade de atendimento às pessoas com deficiência, aos idosos com idade igual ou superior a 60 (sessenta) anos, às gestantes, às lactantes e às pessoas acompanhadas por crianças de colo; e a Lei nº 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas com deficiência ou com mobilidade reduzida, e dá outras providências.
+
+Além disso, de acordo com o disposto na Lei nº 12.764, de 27 de dezembro de 2012, regulamentada pelo Decreto nº 8.368, de 2 de dezembro de 2014, que institui a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista e que é dever do Estado, da família, da comunidade escolar e da sociedade assegurar o direito da pessoa com transtorno do espectro autista à educação, em sistema educacional inclusivo, garantida a transversalidade da educação infantil até a educação superior. Será realizado acompanhamento de acadêmicos com Transtorno do Espectro Autista, visando a sua acessibilidade ao Ensino e o desenvolvimento das competências e habilidades previstas no perfil do egresso do curso escolhido em igualdade de condições. Além disso, em casos de comprovada necessidade, a pessoa com transtorno do espectro autista incluída nas classes comuns de ensino regular, nos
+
+termos do inciso IV do art. 2º, terá direito a acompanhante especializado (professor de apoio), bem como de adaptações curriculares e das avaliações.
+
+Pensando no melhor atendimento dos(as) estudantes com necessidades educacionais específicas, o IFPR organizou procedimentos institucionais de flexibilização curricular para aqueles que apresentam significativo, expressivo e relevante comprometimento de aprendizagem, de caráter permanente, progressivo e/ou transitório, que não estejam em igualdade de condições e oportunidades, no contexto escolar, com o intuito de promover acesso, permanência e êxito a todos(as) os(as) estudantes do IFPR, respeitando as suas especificidades.
+
+A flexibilização curricular envolve adaptações de materiais e atividades para os(as) estudantes com necessidades educacionais específicas do IFPR, em consonância com a Resolução nº 50, de 14 de julho de 2017 do IFPR e com a concepção de adaptações razoáveis, previstas no Art. 3º, inciso VI, da Lei nº 13.146, de 06 de julho de 2015, Lei nº 9.394, de 20 de dezembro de 1996 e Decreto nº 7.611, de 17 de novembro de 2011.
+
+Entende-se por Flexibilização Curricular alterações pedagógicas significativas em apoio ao(à) estudante com necessidades educacionais específicas, que será registrado no Plano de Flexibilização Curricular (PFC). A Flexibilização Curricular será realizada mediante articulação entre os professores do componente curricular e Comissão do Plano de Flexibilização Curricular, visando a implementação de 1 (uma) ou mais possibilidades:
+
+I - Diferenciação dos conteúdos previstos na ementa do componente curricular;
+
+II - Atendimento educacional individualizado realizado pelo professor do componente curricular;
+
+III - Dilação ou redução do prazo para a conclusão do curso;
+
+IV - Reorganização e/ou equivalência de componente curricular;
+
+V - Reopção e/ou transferência entre curso e campi, considerando a existência de vaga no curso pretendido, a qualquer tempo.
+
+VI - Definição de critérios diferenciados e adequados de avaliação, considerando a singularidade e especificidade dos(as) estudantes, de maneira que sejam atendidos em suas necessidades e possam avançar êxito em seu processo de aprendizagem.
+
+Nos casos de estudantes com altas habilidades/superdotação o processo de flexibilização curricular ocorrerá fundamentado no princípio legal da progressão parcial ou total, possibilitando o avanço nos cursos, componentes curriculares específicos ou etapas, mediante verificação de aprendizagem.
+
+Vale lembrar que a Educação Inclusiva, em sentido amplo, não se refere apenas aos(às) estudantes com deficiência, ou com necessidades específicas, mas a todos(as) os(as) estudantes. Afinal a exclusão atinge todo tipo de estudante, seja relacionado a questões sociais, políticas, econômicas, culturais, religiosas, de gênero, entre outras. Em suma, a inclusão é um tema além das questões de deficiência.
+
+## **7.1.4 Mobilidade Estudantil e Internacionalização**
+
+A internacionalização é uma componente essencial da formação educacional no mundo contemporâneo. No contexto do curso técnico em informática do Instituto Federal do Paraná - Campus Colombo, a internacionalização visa preparar nossos(as) estudantes para enfrentar os desafios globais, promover a diversidade cultural e desenvolver habilidades interculturais. Neste tópico, detalharemos como a internacionalização será integrada em nosso PPC.
+
+Componentes da Internacionalização
+
+1. Mobilidade Acadêmica e Intercâmbio - oferecemos oportunidades de mobilidade acadêmica para estudantes em parceria com instituições estrangeiras de renome. Os(as) estudantes podem passar um semestre ou ano no exterior, enriquecendo sua experiência acadêmica.
+
+2. Currículo Internacionalizado - introduziremos nas ementas, módulos eletivos que abordam tópicos relevantes internacionalmente, como segurança da informação global, ética em TI em uma perspectiva global e tendências tecnológicas globais.
+
+3. Língua Estrangeira - oferecemos cursos de línguas estrangeiras, com foco no inglês, para melhorar a proficiência linguística dos(as) estudantes, facilitando a comunicação em ambientes internacionais.
+
+4. Projetos Colaborativos - promoveremos projetos de pesquisa e extensão com colaborações internacionais, incentivando os(as) estudantes a trabalhar em equipes globais e a enfrentar desafios globais.
+
+5. Certificações Internacionais - incentivaremos os(as) estudantes a buscar certificações internacionais reconhecidas em áreas relacionadas à informática.
+
+6. Atividades Extracurriculares - os(as) estudantes serão convidados a participar de clubes e grupos focados em questões internacionais, bem como a organizar eventos culturais.
+
+7. Avaliação e Melhoria Contínua - estabeleceremos uma metodologia de avaliação para monitorar o progresso da internacionalização, incluindo feedback dos(as) estudantes.
+
+8. Recursos e Parcerias - nossa instituição possui recursos como biblioteca atualizada, laboratórios de informática e futuramente uma ampla rede de instituições parceiras internacionais.
+
+9. Conformidade com Regulamentos - as iniciativas de internacionalização estarão em total conformidade com as políticas e regulamentos do Instituto Federal do Paraná e do sistema de ensino proposto.
+
+10. Cronograma de Implementação - a implementação da internacionalização será gradual, com um cronograma claro e metas específicas a serem alcançadas em cada fase.
+
+7.1.5 Núcleos de Apoio ao Ensino e Aprendizagem
+
+## **7.1.5.1 - Núcleo de Arte e Cultura (NAC)**
+
+Os Núcleos de Arte e Cultura (NAC’s) do IFPR têm o papel institucional de fomentar a formação, a difusão e a articulação da produção artístico-cultural do IFPR, assessorando a PróReitoria de Extensão, Pesquisa, Pós-Graduação e Inovação (PROEPPI) na gestão da política cultural da Instituição e contribuindo para a memória e a preservação de seu patrimônio cultural. Esta Unidade, entre suas muitas ações, coordena e operacionaliza, juntamente com a PROEPPI, as Políticas de Cultura, contribuindo assim com o fortalecimento, a criação e a implementação de diretrizes, metas e ações no campo das artes e da cultura no IFPR. A regulamentação dos NAC´s ocorreu por meio da Resolução 69/2017 enfatiza a ideia de que as ações de arte e cultura desenvolvidas nos campi articulam-se de forma indissociável ao Ensino, Pesquisa e Extensão e foi com essa premissa que o NAC Colombo organizou as ações e projetos de pesquisa e extensão que estão vinculados ao NAC no Programa Permanente de Arte e Cultura - IFPR - Colombo (ProPAC).
+
+Assim, desde 2019, todas as ações culturais previstas ou não em calendário acadêmico têm registro junto ao ProPAC e constam nos relatórios que o NAC por meio de seu representante e membros realizam semestralmente junto ao COPE local.
+
+Atualmente, o NAC Colombo tem 5 projetos de extensão vinculados ao NAC, são eles: Casa Encantada, TRAVESSIAS: histórias de refugiados, Mostra de Arte e Cultura, curso FIC Patchwork, somamos 9 membros docentes, 2 membros técnicos e 3 membros discentes.
+
+## **7.1.5.2. Núcleo de Estudos Afro-brasileiros e Indígenas (NEABI).**
+
+Os Núcleos de Estudos Afro-Brasileiros e Indígenas (NEABI) do Instituto Federal do Paraná (IFPR) têm o papel institucional de fomentar a formação, a produção de conhecimentos e a realização de ações que contribuam para a valorização da história, das identidades e culturas negras, africanas, afrodescendentes e dos povos originários tradicionais (etnias indígenas) no IFPR e para a superação de diferentes formas de discriminação étnico-racial.
+
+A criação dos NEABIs no IFPR é relativamente recente, datando de dezembro de 2018. Podemos considerar o ano de 2019 como o primeiro ano de exercício de tais núcleos, em seguida tivemos dois anos de isolamento social, portanto, foi no ano de 2022 que os núcleos voltaram à atuação efetiva.
+
+O Núcleo de Estudos Afro-Brasileiros e Indígenas do Campus Colombo é composto por servidores e alunos. A sua integração com o ensino se dá através do currículo de aulas, em eventos, projetos de extensão e pesquisa. A lei 10.639/03, criada a partir da mobilização do movimento negro, introduz a obrigatoriedade do ensino da História e Cultura Afro-Brasileira no currículo escolar. Cinco anos depois, a lei 11.645/08 complementa a redação estendendo a obrigatoriedade para a cultura indígena. A lei descreve o conteúdo programático a ser adotado: O conteúdo programático a que se refere este artigo incluirá diversos aspectos da história e da cultura que caracterizam a formação da população brasileira, a partir desses dois grupos étnicos, tais como o estudo da história da África e dos africanos, a luta dos negros e dos povos indígenas no Brasil, a cultura negra e indígena brasileira e o negro e o índio na formação da sociedade nacional, resgatando as suas contribuições nas áreas social, econômica e política, pertinentes à história do Brasil.
+
+A recomendação é que as aulas “serão ministrados no âmbito de todo o currículo escolar, em especial nas áreas de educação artística e de literatura e história brasileiras”
+
+No ano de 2023 a lei completou 20 anos de implantação. Apesar de alguns avanços, ainda há muito a ser feito no campo da educação antirracista. Uma pesquisa realizada em 2022 mostra que mais de 70% dos municípios brasileiros não aplicam a lei.
+
+No Campus Colombo temos buscado trabalhar conteúdos, seja em meio às aulas ou em eventos como palestras com lideranças indígenas. O estudo dessas culturas traz ao(à) aluno(a) do Curso Técnico de Informática uma visão abrangente da sociedade brasileira. O NEABI realizou atividades formativas para os servidores e estabeleceu contato com ativistas negros. O Campus possui atualmente uma cadeira no CONSEPIR (Conselho Estadual de Promoção da Igualdade Racial).
+
+## **8 CORPO DOCENTE E CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO**
+
+## 8.1 CORPO DOCENTE
+
+## **8.1.1 Atribuições do Coordenador**
+
+O(a) Coordenador(a) do curso desempenha atividades inerentes às exigências e aos objetivos e compromissos do IFPR Campus Colombo, em regime de dedicação exclusiva, contando, dentre outras, das seguintes atribuições:
+
+   1. Acompanhar em conjunto a equipe pedagógica as práticas pedagógicas.
+
+2. Pronunciar sobre aproveitamento de estudo e adaptação de estudantes, subsidiando o
+
+colegiado de curso, quando for o caso.
+
+   3. Participar da elaboração do calendário acadêmico.
+
+   4. Elaborar o horário do curso em articulação com as demais coordenações.
+
+5. Convocar e presidir reuniões do curso e /ou colegiado.
+
+6. Orientar e acompanhar, em conjunto com a equipe pedagógica, o planejamento e desenvolvimento das unidades curriculares e aproveitamento dos(as) estudantes.
+
+7. Acompanhar em conjunto com a equipe pedagógica a execução de atividades programadas, bem como o cumprimento das mesmas pelo corpo docente do curso.
+
+8. Promover avaliações periódicas do curso em articulação com a Comissão Própria de Avaliação.
+
+9. Promover reuniões periódicas com o colegiado para revisão do projeto pedagógico.
+
+10. Promover reuniões com os docentes para revisão dos programas de ensino, das diretrizes conceituais do curso, dos componentes curriculares e das bibliografias.
+
+11. Aprovar os planos de aula de cada componente curricular.
+
+12. Representar o Curso junto a órgãos, conselhos, eventos e outros, internos e externos.
+
+13. Participar do planejamento e acompanhamento do estágio supervisionado dos(as) estudantes juntamente com a Coordenação Geral de Estágio do campus.
+
+14. Participar e apoiar atividades extraclasses inerentes ao curso (cursos, palestras, seminários, simpósios) juntamente com a Coordenação de Pesquisa e Direção de Ensino, Pesquisa e Extensão.
+
+15. Participar da organização e implementação de estratégias da divulgação da instituição e do curso.
+
+16. Implementar ações de atualização do acervo bibliográfico e laboratórios específicos do curso bem como a sua manutenção.
+
+17. Implementar ações juntamente com o Núcleo Docente Estruturante (NDE) do curso, buscando subsídios que visem a permanente atualização do Projeto Pedagógico do Curso.
+
+18. Participar do processo de seleção dos professores que irão atuar no curso.
+
+## **8.1.2 Relação do Corpo docente**
 
 |||||
 |---|---|---|---|
-|Curso:|Técnico em Informática|Eixo tecnológico|Informação e Comunicação|
-|Componente curricular|Língua Inglesa II|
-|Carga horária|40 horas/aula|Período letivo|2ª Série|
-|Ementa:|
-
-Inglês em textos literários e mediáticos; inglês e sustentabilidade; inglês nas artes e nos esportes; inglês e tecnologia; literatura de língua inglesa; gêneros linguísticos e seus elementos composicionais; a aquisição de repertório vocabular; a leitura e a interpretação de textos; desenvolvimento das habilidades de leitura, escrita e oralidade.
-
-**Bibliografia básica:** AGA, Gisele. (ed.) _Upgrade._ São Paulo: Richmond, 2010. AUN, E.; MORAES, M.C.P.; SANSANOVICZ, N.B. _English for All._ Saraiva, v.1, 2010. DIAS, R., JUCÁ, L., FARIA, R. _High up_ . São Paulo: Macmillan: 2013. MCCARTHY, M. & O’DELL. F. _English vocabulary in use_ . Cambridge: Cambridge University Press, 1999. MURPHY, R. _Essential Grammar in Use: self-study reference and practice book for elementary students of English with answers_ . 11th printing. Cambridge: Cambridge University Press, 2011. **Bibliografia complementar:** BRAGA, Junia de Carvalho Fidelis (coord.). _Integrando tecnologias no ensino de Inglês nos anos finais do Ensino Fundamental._ São Paulo: SM, 2012. DIAS, Reinildes **.** _Inglês Instrumental: leitura crítica - uma abordagem construtivista._ Belo Horizonte, Editora UFMG, 3ª edição revista e ampliada, 2002. DOLZ, Joaquim; SCHNEUWLY, Bernand. _Gêneros orais e escritos na escola._ Campinas, SP: Mercado de Letras, 2004. 278 p. (Tradução e organização: Roxane Rojo; Glaís Sales Cordeiro). PAIVA. Vera Lúcia Menezes de Oliveira e. _Ensino de Língua Inglesa no Ensino Médio: teoria e prática._ São Paulo: SM, 2012. SANTOS, Denise. _Ensino de língua inglesa: foco em estratégias_ . Barueri: Disal, 2012.
-
-**Objetivos**
-
-## **Ementa:**
-
-Inglês em textos literários e mediáticos; inglês e sustentabilidade; inglês nas artes e nos esportes; inglês e tecnologia; literatura de língua inglesa; gêneros linguísticos e seus elementos composicionais; a aquisição de repertório vocabular; a leitura e a interpretação de textos; desenvolvimento das habilidades de leitura, escrita e oralidade. 17. Reconhecer a importância da produção cultural e literária em Língua Estrangeira Moderna como representação da diversidade cultural e linguística. 18. Conhecer e compreender as estruturas e especificidades dos gêneros textuais em Língua Estrangeira Moderna.
-
-46
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-||**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**||
-|---|---|---|---|---|
-|**Curso:**<br>Técnico em Informática||**Eixo tecnológico**|Informação e Comunicação||
-|**Componente curricular**||Língua espanhola I|||
-|**Carga horária**<br>40 horas/aula|40 horas/aula<br>**Período letivo**|||1ª Série|
-|**Ementa:**|||||
-
-Estructura y formación de la Lengua Española nivel básico: alfabeto, fonemas y numerales. Léxico y sus variaciones. Funciones comunicativas: el uso de la lectura y la oralidad nivel básico: presentación, comunicación básica. Géneros textuales: relato personal y narrativa corta.
-
-**Bibliografia básica:** BAGNO Marcos. **Gramática, pra que te quero?** Curitiba: Aymará, 2010. BAGNO Marcos. **Preconceito linguístico.** São Paulo: Loyola, 2011. DUEÑAS, Carlos Romero. **Gramática del español lengua extrangera.** São Paulo: Edelsa, 2011. FANJUL, Adrián. **Gramática y Práctica de Español para brasileños** . 3 ed. São Paulo: Santillana, 2014.
-
-HERMOSO, Alfredo Gonzalez. **Conjugar es fácil** . 5 ed. São Paulo: Edelsa, 2009. OSMAN, Soraia. **Enlaces.** 13 ed. São Paulo: MacMillan, 2013. 3 v.
-
-**Bibliografia complementar:**
-
-ANGEL, Miguel. Asturias. **El señor Presidente** . São Paulo: Santillana, 1995. BOLAÑO, Roberto. **Nocturno de Chile.** Barcelona: Anagrama, 2000. BORGES, Jorge Luis. **Ficciones** . 7 ed. Barcelona: Debolsillo, 2013. CARPENTIER, Alejo. **El reino de este mundo** . Barcelona: Seix Barral, 2007. CERVANTES, Miguel de. **Don Quijote de la Mancha** . Madrid: Mestas: 2014 2 v. KANASHIRO, Daniela; FLAVIAN, Eugenia. **!Acércate! Juventud** . São Paulo: Ática, 2007. KANASHIRO, Daniela; FLAVIAN, Eugenia. **!Acércate! Comunicación** . São Paulo: Ática, 2007. LOS ARGUEDAS, José Maria. **Ríos profundos** . 2 ed. Madrid: Catedra,1995. MARQUEZ, Gabriel Garcia. **Cien años de soledad.** 4 ed. Madrid: Anaya, 1987. MARTIN, Ivan. **Sintesis** - volume único. 2 ed. São Paulo: Ática, 2014. SÁBATO, Ernesto. **Sobre Héroes y Tumbas** . Barcelona: Seix Barral, 2008.
-
-## **Objetivos**
-
-1. Extrair informações relevantes de diferentes fontes, como textos, tabelas ou gráficos, interpretá-las e relacioná-las.
-
-2. Ser capaz de realizar pesquisas de modo crítico e autônomo, estando apto a buscar, comparar, construir e disseminar o conhecimento.
-
-3. Fazer uso de modos de comunicação e de interação para aplicação e divulgação de conhecimentos científicos e tecnológicos, sabendo comunicar de forma escrita ou oral resultados e argumentos de base científica, sendo capaz de debater, respeitar opiniões e levar em conta argumentos contrários.
-
-4. Ter responsabilidade com prazos e realização de tarefas assumidas em atividades em grupo
-
-47
-
-1INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao InstitutoFederal doParana
-
-ou individuais, desenvolvendo o respeito, a proatividade, a empatia, o empreendedorismo e a criatividade.
-
-5. Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionar se quanto a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos, culturais, religiosos e de qualquer outra natureza.
-
-6. Identificar valores humanos, éticos e morais relacionados à aplicação dos conhecimentos científicos e tecnológicos, sendo capaz de refletir e agir criticamente levando em conta essa relação.
-
-7. Identificar problemas, propor, desenvolver, implementar e testar soluções relacionadas à área técnica e à dinâmica das relações interpessoais existentes no ambiente escolar e de trabalho.
-
-8. Reconhecer as possibilidades de uso das Tecnologias da Comunicação e da Informação na escola, no trabalho e em outros contextos relevantes para a vida.
-
-9. Identificar as diferentes Linguagens e seus recursos expressivos como elementos que caracterizam os sistemas de Comunicação.
-
-10. Recorrer aos conhecimentos sobre as Linguagens dos sistemas de Comunicação e Informação para resolver problemas sociais.
-
-11. Relacionar informações geradas nos sistemas de Comunicação e Informação, considerando a função social desses sistemas.
-
-12. Reconhecer posições críticas aos usos sociais que são feitos das Linguagens e dos sistemas de Comunicação e Informação.
-
-13. Conhecer a Língua Estrangeira Moderna (LEM) – inglês e espanhol, como instrumento de acesso a informações e a outras Culturas e grupos sociais.
-
-14.  Associar vocábulos e expressões de um texto em Língua Estrangeira ao seu tema. 15. Utilizar os conhecimentos da Língua Estrangeira Moderna e de seus mecanismos como meio de ampliar as possibilidades de acesso a informações, tecnologias e culturas.
-
-16. Relacionar um texto em Língua Estrangeira, as estruturas linguísticas, a sua função e o seu uso social.
-
-17. Reconhecer a importância da produção cultural e literária em Língua Estrangeira Moderna como representação da diversidade cultural e linguística.
-
-18. Conhecer e compreender as estruturas e especificidades dos gêneros textuais em Língua Estrangeira Moderna.
-
-48
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-**Campus Colombo do IFPR Curso:** Técnico em Informática **Eixo tecnológico** Informação e Comunicação **Componente curricular** Língua espanhola II **Carga horária** 40 horas/aula **Período letivo** 2ª Série **Ementa:** Estructura y formación de la Lengua Española nivel básico: análisis sintáctica y morfológica. Léxico y sus variaciones. Funciones comunicativas: el uso de la lectura y la oralidad nivel básico: comunicación en viajes, hoteles, hospitales, etc. Géneros textuales: relato de viaje, periódicos y crónicas. **Bibliografia básica:** BAGNO Marcos. **Gramática, pra que te quero?** Curitiba: Aymará, 2010. BAGNO Marcos. **Preconceito linguístico.** São Paulo: Loyola, 2011. DUEÑAS, Carlos Romero. **Gramática del español lengua extrangera.** São Paulo: Edelsa, 2011. FANJUL, Adrián. **Gramática y Práctica de Español para brasileños** . 3 ed. São Paulo: Santillana, 2014.
-
-HERMOSO, Alfredo Gonzalez. **Conjugar es fácil** . 5 ed. São Paulo: Edelsa, 2009. OSMAN, Soraia. **Enlaces.** 13 ed. São Paulo : MacMillan, 2013. 3 v. **Bibliografia complementar:**
-
-ANGEL, Miguel. Asturias. **El señor Presidente** . São Paulo: Santillana, 1995. BOLAÑO, Roberto. **Nocturno de Chile.** Barcelona: Anagrama, 2000. CERVANTES, Miguel de. **Don Quijote de la Mancha** . Madrid: Mestas: 2014 2 v. KANASHIRO, Daniela; FLAVIAN, Eugenia. **!Acércate! Juventud** . São Paulo: Ática, 2007. KANASHIRO, Daniela; FLAVIAN, Eugenia. **!Acércate! Comunicación** . São Paulo: Ática, 2007. LOS ARGUEDAS, José Maria. **Ríos profundos** . 2 ed. Madrid: Catedra,1995. MARQUEZ, Gabriel Garcia. **Cien años de soledad.** 4 ed. Madrid: Anaya, 1987. MARTIN, Ivan. **Sintesis** - volume único. 2 ed. São Paulo: Ática, 2014.
-
-## **Objetivos**
-
-1. Extrair informações relevantes de diferentes fontes, como textos, tabelas ou gráficos, interpretá-las e relacioná-las.
-
-2. Ser capaz de realizar pesquisas de modo crítico e autônomo, estando apto a buscar, comparar, construir e disseminar o conhecimento.
-
-3. Fazer uso de modos de comunicação e de interação para aplicação e divulgação de conhecimentos científicos e tecnológicos, sabendo comunicar de forma escrita ou oral resultados e argumentos de base científica, sendo capaz de debater, respeitar opiniões e levar em conta argumentos contrários.
-
-4. Ter responsabilidade com prazos e realização de tarefas assumidas em atividades em grupo ou individuais, desenvolvendo o respeito, a proatividade, a empatia, o empreendedorismo e a criatividade.
-
-5. Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionar se quanto a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos,
-
-49
-
-1INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao InstitutoFederal doParana
-
-## culturais, religiosos e de qualquer outra natureza.
-
-6. Identificar valores humanos, éticos e morais relacionados à aplicação dos conhecimentos científicos e tecnológicos, sendo capaz de refletir e agir criticamente levando em conta essa relação.
-
-7. Identificar problemas, propor, desenvolver, implementar e testar soluções relacionadas à área técnica e à dinâmica das relações interpessoais existentes no ambiente escolar e de trabalho.
-
-8. Reconhecer as possibilidades de uso das Tecnologias da Comunicação e da Informação na escola, no trabalho e em outros contextos relevantes para a vida.
-
-9. Identificar as diferentes Linguagens e seus recursos expressivos como elementos que caracterizam os sistemas de Comunicação.
-
-10. Recorrer aos conhecimentos sobre as Linguagens dos sistemas de Comunicação e Informação para resolver problemas sociais.
-
-11. Relacionar informações geradas nos sistemas de Comunicação e Informação, considerando a função social desses sistemas.
-
-12. Reconhecer posições críticas aos usos sociais que são feitos das Linguagens e dos sistemas de Comunicação e Informação.
-
-13. Conhecer a Língua Estrangeira Moderna (LEM) – inglês e espanhol, como instrumento de acesso a informações e a outras Culturas e grupos sociais.
-
-14.  Associar vocábulos e expressões de um texto em Língua Estrangeira ao seu tema.
-
-15. Utilizar os conhecimentos da Língua Estrangeira Moderna e de seus mecanismos como meio de ampliar as possibilidades de acesso a informações, tecnologias e culturas.
-
-16. Relacionar um texto em Língua Estrangeira, as estruturas linguísticas, a sua função e o seu uso social.
-
-17. Reconhecer a importância da produção cultural e literária em Língua Estrangeira Moderna como representação da diversidade cultural e linguística.
-
-18. Conhecer e compreender as estruturas e especificidades dos gêneros textuais em Língua Estrangeira Moderna.
-
-50
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-**Curso:** Técnico em Informática **Eixo tecnológico** Informação e Comunicação **Componente curricular** Arte I **Carga horária** 40 horas/aula **Período letivo** 1ª Série **Ementa:** Artes visuais no período compreendido entre a Pré-História e o século XIX. Arte africana. Etnias indígenas paranaenses. Apreciação musical. **Bibliografia básica:** ARGAN, G. C. **Arte moderna.** São Paulo: Companhia das Letras, 1993. FERRARI, S. S. U. [et.al]. **Por toda Parte.** São Paulo: FTD, 2013. GOMPERTZ, W. **Isso é arte?** Rio de Janeiro: Zahar, 2013. PROENÇA, G. **A história da arte.** São Paulo: Editora Ática, 1995. PROENÇA, G. **Descobrindo a história da arte.** São Paulo: Editora Ática, 1995. **Bibliografia complementar:**
-
-ARNHEIM. **Arte e percepção visual: uma psicologia da visão criadora.** São Paulo: Cengage Learning, 2015. **LAGROU, E. Arte indígena no Brasil.** Belo Horizonte: C/Arte, 2009. **MUZZILLO, O. Cerâmica sem segredos** . Curitiba: Artes e Textos, 2009. PEDROSA. **Da cor à cor inexistente.** Rio de Janeiro: SENAC Nacional, 2014 SCHLICHTA, C. **Arte e educação: há um lugar para a arte no ensino médio?** Salvador: Editora Aymará, 2009.
-
-**Objetivos Objetivo Geral:** Compreender o contexto sociocultural da arte e aspectos formais da produção artística da Pré-História até o século XIX. **Objetivos específicos:** 23. Reconhecer o papel da Arte como saber cultural gerador de significados. 24. Adquirir conhecimentos da história da arte, relacionando a obra de arte a um contexto histórico e cultural. 25. Ser capaz de identificar características dos principais movimentos artísticos e os períodos aproximados em que ocorreram. 26. Reconhecer o valor da diversidade artística e das inter-relações entre vários grupos sociais e étnicos. 27. Vivenciar a criação artística através de práticas variadas explorando diferentes materiais. 28. Reconhecer que o trabalho artístico provém do esforço contínuo. Gradativamente, atingir níveis de qualidade em sua produção artística, mantendo atenção a detalhes e acabamento. 29. Identificar os elementos formais da linguagem artística trabalhada pelo professor. 30. Organizar a sala após a aula, limpar instrumentos utilizados e zelar constantemente pelos materiais artísticos.
-
-51
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
+|**Servidor**|**Escolaridade**|**Área**|**Componente curricular**|
+|Ademir Luiz do Prado|Mestrado|Processamento<br>de Dados|AOC e sistemas operacionais / Introdução a<br>rede de computadores|
+|Alysson Ramos Artuso|Doutorado|Física|Física I, II e III|
+|Amanda Tavares Naves|Mestrado|Química|Química I e II|
+|Antonio Eduardo Kloc|Doutorado|Gestão da<br>Informação|Empreendedorismo e Inovação / Tópicos<br>avançados em Informática I (robótica) /<br>Introdução a rede de computadores|
 
 |||||
 |---|---|---|---|
-|Curso:|Técnico em Informática|Eixo tecnológico|Informação e Comunicação|
-|Componente curricular|Arte II|
-|Carga horária|40 horas/aula|Período letivo|2ª Série|
-|Ementa:|
-|Arte do século XX. Contexto sociocultural da arte e aspectos formais da produção artística. A|
-|modernidade nas artes visuais, música, teatro e dança.|
-|Bibliografia básica:|
-|ARGAN, G. C.|Arte moderna.|São Paulo: Companhia das Letras, 1993.|
-|FERRARI, S. S. U. [et.al].|Por toda Parte.|São Paulo: FTD, 2013.|
-|GOMPERTZ, W.|Isso é arte?|Rio de Janeiro: Zahar, 2013.|
-|PROENÇA, G.|A história da arte.|São Paulo: Editora Ática, 1995.|
-|PROENÇA, G.|Descobrindo a história da arte.|São Paulo: Editora Ática, 1995.|
-|Bibliografia complementar:|
-|ARNHEIM.|Arte e percepção visual: uma psicologia da visão criadora.|São Paulo: Cengage|
-|Learning, 2015.|
-|LAGROU, E. Arte indígena no Brasil.|Belo Horizonte: C/Arte, 2009.|
-|MUZZILLO, O. Cerâmica sem segredos|. Curitiba: Artes e Textos, 2009.|
-|PEDROSA.|Da cor à cor inexistente.|Rio de Janeiro: SENAC Nacional, 2014|
-|SCHLICHTA, C.|Arte e educação: há um lugar para a arte no ensino médio?|Salvador:|Editora|
-|Aymará, 2009.|
-
-**Objetivos Objetivo Geral:** Compreender o contexto sociocultural da arte e aspectos formais da produção artística no século XX. **Objetivos específicos:** 23. Reconhecer o papel da Arte como saber cultural gerador de significados. 24. Adquirir conhecimentos da história da arte, relacionando a obra de arte a um contexto histórico e cultural. 25. Ser capaz de identificar características dos principais movimentos artísticos e os períodos aproximados em que ocorreram. 26. Reconhecer o valor da diversidade artística e das inter-relações entre vários grupos sociais e étnicos. 27. Vivenciar a criação artística através de práticas variadas explorando diferentes materiais. 28. Reconhecer que o trabalho artístico provém do esforço contínuo. Gradativamente, atingir níveis de qualidade em sua produção artística, mantendo atenção a detalhes e acabamento. 29. Identificar os elementos formais da linguagem artística trabalhada pelo professor. 30. Organizar a sala após a aula, limpar instrumentos utilizados e zelar constantemente pelos materiais artísticos.
-
-52
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
+|Ariane Saldanha de<br>Oliveira|Mestrado|Ciências<br>Biológicas|Biologia I e II|
+|Benito Eduardo Araujo<br>Maeso|Doutorado|Filosofia|Filosofia I e II|
+|Camilla Carpanezzi La<br>Pastina|Mestrado|Educação<br>Artística/Pintura|Arte I e II|
+|Carmem Lucia Graboski<br>da Gama|Doutorado|Matemática|Matemática I, II, III e IV|
+|Claudia Dell’Agnolo|Mestrado|Ciências da<br>Computação|AOC e sistemas operacionais / Banco de<br>dados|
+|Diogo Eduardo Moyses<br>Carvalho dos Santos|Doutorado|História|História I e II|
+|Edson Luiz Linczuk|Mestrado|Educação Física|Educação Física I, II, III e IV|
+|Eduard Henry Lui|Mestrado|História|História I e II|
+|Eduardo Liquio Takao|Doutorado|Gestão em<br>Sistemas de<br>Informação|Engenharia de Software / Projeto Integrador I /<br>Projeto Integrador II|
+|Elaine Cristina Arantes|Doutorado|Administração|Empreendedorismo e Inovação|
+|Eliege Cristina Pepler|Doutorado|Letras|Língua Portuguesa I, II, III e IV|
 
 |||||
 |---|---|---|---|
-|Curso:|Técnico em Informática|Eixo tecnológico|Informação e Comunicação|
-|Componente curricular|Arte III|
-|Carga horária|40 horas/aula|Período letivo|3ª Série|
-|Ementa:|
-
-Arte moderna e contemporânea (séculos XX e XXI) com ênfase em novas tecnologias e arte híbrida.
-
-||||
-|---|---|---|
-|Bibliografia básica:|
-|ARGAN, G. C.|Arte moderna.|São Paulo: Companhia das Letras, 1993.|
-|FERRARI, S. S. U. [et.al].|Por toda Parte.|São Paulo: FTD, 2013.|
-|GOMPERTZ, W.|Isso é arte?|Rio de Janeiro: Zahar, 2013.|
-|PROENÇA, G.|A história da arte.|São Paulo: Editora Ática, 1995.|
-|PROENÇA, G.|Descobrindo a história da arte.|São Paulo: Editora Ática, 1995.|
-|Bibliografia complementar:|
-
-ARNHEIM. **Arte e percepção visual: uma psicologia da visão criadora.** São Paulo: Cengage Learning, 2015. LAGROU, E. **Arte indígena no Brasil.** Belo Horizonte: C/Arte, 2009. MUZZILLO, O. **Cerâmica sem segredos** . Curitiba: Artes e Textos, 2009. PEDROSA. **Da cor à cor inexistente.** Rio de Janeiro: SENAC Nacional, 2014 SCHLICHTA, C. **Arte e educação: há um lugar para a arte no ensino médio?** Salvador: Editora Aymará, 2009.
-
-## **Objetivos**
-
-## **Objetivo Geral:**
-
-- Reconhecer a influência das tecnologias na produção artística dos séculos XX e XXI. **Objetivos específicos:** 23. Reconhecer o papel da Arte como saber cultural gerador de significados. 24. Adquirir conhecimentos da história da arte, relacionando a obra de arte a um contexto histórico e cultural. 25. Ser capaz de identificar características dos principais movimentos artísticos e os períodos aproximados em que ocorreram. 26. Reconhecer o valor da diversidade artística e das inter-relações entre vários grupos sociais e étnicos. 27. Vivenciar a criação artística através de práticas variadas explorando diferentes materiais. 28. Reconhecer que o trabalho artístico provém do esforço contínuo. Gradativamente, atingir níveis de qualidade em sua produção artística, mantendo atenção a detalhes e acabamento. 29. Identificar os elementos formais da linguagem artística trabalhada pelo professor. 30. Organizar a sala após a aula, limpar instrumentos utilizados e zelar constantemente pelos materiais artísticos.
-
-53
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
+|Emilio Rudolfo Fey Neto|Mestrado|Processamento<br>de Dados|Algoritmos e linguagem de programação|
+|Fabio Alliguieri dos<br>Santos Silva|Doutorado|Física|Física I, II e III|
+|Gustavo Luis Lopes<br>Silveira|Mestrado|Ciências<br>Biológicas|Biologia I e II|
+|Hugo Koji Miura|Mestrado|Educação<br>Especial|Educação Especial|
+|Hugo Leonardo<br>Marandola|Mestrado|Geografia|Geografia I e II|
+|Igor Cardoso Pescara|Doutorado|Química|Química I e II|
+|Izabel da Silva|Doutorado|Letras<br>Português/Espa<br>nhol|Língua Espanhola / Língua Portuguesa I, II, III<br>e IV|
+|João Paulo Partala|Mestrado|Letras<br>Português/Espa<br>nhol|Língua Espanhola / Língua Portuguesa I, II, III<br>e IV|
+|Julio Cesar Gonçalves da<br>Silva|Mestrado|Sociologia|Sociologia I e II|
+|Marcio Rodrigo Santos|Mestrado|Processamento<br>de Dados|Introdução a programação orientada a objetos|
 
 |||||
 |---|---|---|---|
-|Curso:|Técnico em Informática|Eixo tecnológico|Informação e Comunicação|
-|Componente curricular|Arte IV|
-|Carga horária|40 horas/aula|Período letivo|4ª Série|
-|Ementa:|
-
-Arte moderna e contemporânea (séculos XX e XXI) com ênfase em novas tecnologias e arte híbrida.
-
-||||
-|---|---|---|
-|Bibliografia básica:|
-|ARGAN, G. C.|Arte moderna.|São Paulo: Companhia das Letras, 1993.|
-|FERRARI, S. S. U. [et.al].|Por toda Parte.|São Paulo: FTD, 2013.|
-|GOMPERTZ, W.|Isso é arte?|Rio de Janeiro: Zahar, 2013.|
-|PROENÇA, G.|A história da arte.|São Paulo: Editora Ática, 1995.|
-|PROENÇA, G.|Descobrindo a história da arte.|São Paulo: Editora Ática, 1995.|
-|Bibliografia complementar:|
-
-ARNHEIM. **Arte e percepção visual: uma psicologia da visão criadora.** São Paulo: Cengage Learning, 2015. LAGROU, E. **Arte indígena no Brasil.** Belo Horizonte: C/Arte, 2009. MUZZILLO, O. **Cerâmica sem segredos** . Curitiba: Artes e Textos, 2009. PEDROSA. **Da cor à cor inexistente.** Rio de Janeiro: SENAC Nacional, 2014 SCHLICHTA, C. **Arte e educação: há um lugar para a arte no ensino médio?** Salvador: Editora Aymará, 2009.
-
-## **Objetivos**
-
-## **Objetivo Geral:**
-
-- Reconhecer a influência das tecnologias na produção artística dos séculos XX e XXI. **Objetivos específicos:** 23. Reconhecer o papel da Arte como saber cultural gerador de significados. 24. Adquirir conhecimentos da história da arte, relacionando a obra de arte a um contexto histórico e cultural. 25. Ser capaz de identificar características dos principais movimentos artísticos e os períodos aproximados em que ocorreram. 26. Reconhecer o valor da diversidade artística e das inter-relações entre vários grupos sociais e étnicos. 27. Vivenciar a criação artística através de práticas variadas explorando diferentes materiais. 28. Reconhecer que o trabalho artístico provém do esforço contínuo. Gradativamente, atingir níveis de qualidade em sua produção artística, mantendo atenção a detalhes e acabamento. 29. Identificar os elementos formais da linguagem artística trabalhada pelo professor. 30. Organizar a sala após a aula, limpar instrumentos utilizados e zelar constantemente pelos materiais artísticos.
-
-54
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|
-|---|---|---|---|---|---|---|
-|**Curso:**|Técnico em Informática||**Eixo tecnológico**||Informação e Comunicação||
-|**Componente curricular**|||Educação Física I||||
-|**Carga horária**||40 horas/aula||**Período letivo**||1ª Série|
-|**Ementa:**<br>Alongamento e aquecimento. Questões nutricionais. Avaliação corporal. Imagem corporal. Direitos<br>humanos. Urbanismo. Trânsito e mobilidade urbana.|||||||
-|**Bibliografia básica:**<br>BENETTI, Gisele Bizon.**Curso Didático de Nutrição - Vol. 1.**Editora Yendis, 2013.<br>FERREIRA, Maria Elisa Caputo. CASTRO, Marcela Rodrigues de Castro. MORGADO, Fabiane Frota<br>da Rocha (Orgs.)**Imagem corporal:**reflexões, diretrizes e práticas de pesquisa. Juiz de Fora: Editora<br>UFJF, 2014.<br>NELSON, Arnold G. KOKKONEN, Jouko.**Anatomia do Alongamento:**Guia Ilustrado para aumentar<br>a flexibilidade e a Força Muscular. Barueri: Editora Manole, 2007.<br>SÁ, Neide Gaudenci de. GALISA, Monica Santiago.**Nutrição -**Conceitos e Aplicações. Editora M.<br>Books, 2007.<br>SANTOS, Ednei Fernando dos.**Manual de Primeiros Socorros da Educação Física aos Esportes.**<br>Editora Galenus, 2014.<br>SILVA et al. Antonio José da.**Medidas e Avaliação.**Editora UFV, 2007.<br>SOARES, Carmen Lúcia (Org.).**Pesquisas sobre o corpo:**ciências humanas e educação, Editora<br>Autores Associados,2007.|||||||
-|**Bibliografia complementar:**<br>AZEVEDO_, Eduardo Gomes de._**_Tudo Novo em Seu Corpo - Nutrição - Volume I._**_Editora Juruá,_<br>_2004._<br>DAVID, Isabela M.B.**Algo Mais**- Contextualizando a Tendência Atual ao Excesso de Peso e de<br>Gordura Corporal e Lhe Propor algo mais. Editora Insular, 2006.<br>FARIA et al.**Nutrição E Saúde Na Adolescência**. Editora Rubio, 2010.<br>KUNZ, Elenor**. Transformação didático-pedagógica do esporte.**Editora Unijuí, 2000.<br>MOREIRA, Wagner Wey. SIMÕES, Regina. MARTINS, Ida C.**Aula de Educação física no Ensino**<br>**Médio**. Editora Papirus,2010.|||||||
-
-AZEVEDO _, Eduardo Gomes de._ _**Tudo Novo em Seu Corpo - Nutrição - Volume I.** Editora Juruá, 2004._ DAVID, Isabela M.B. **Algo Mais** - Contextualizando a Tendência Atual ao Excesso de Peso e de Gordura Corporal e Lhe Propor algo mais. Editora Insular, 2006. FARIA et al. **Nutrição E Saúde Na Adolescência** . Editora Rubio, 2010. KUNZ, Elenor **. Transformação didático-pedagógica do esporte.** Editora Unijuí, 2000. MOREIRA, Wagner Wey. SIMÕES, Regina. MARTINS, Ida C. **Aula de Educação física no Ensino Médio** . Editora Papirus, 2010.
-
-## **Objetivos**
-
-- Extrair informações de diferentes fontes, como textos, tabelas ou gráficos, interpretá-las e relacioná-las.
-
-- ● Ser capaz de realizar pesquisas de modo crítico e autônomo, estando apta/o a buscar, comparar, construir e disseminar o conhecimento.
-
-- ● Ter responsabilidades com prazos e realização de tarefas assumidas em atividades em grupo ou individuais, desenvolvendo o respeito, a proatividade, a empatia, o empreendedorismo e a
-
-55
-
-1INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## criatividade.
-
-- Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionar-se quanto a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos, culturais, religiosos e de qualquer outra natureza.
-
-- Identificar valores humanos, éticos e morais relacionados à aplicação dos conhecimentos científicos e tecnológicos, sendo capaz de refletir e agir criticamente levando em conta essa relação.
-
-- ● Compreender e usar as linguagens corporais como relevantes para a própria vida, como integradoras sociais e formadoras de identidades;
-
-- Reconhecer as manifestações corporais como originárias de necessidades cotidianas de diferentes grupos sociais.
-
-- ● Reconhecer as linguagens corporais como meios de interação social, considerando os limites individuais, coletivos e as alternativas de ressignificação, para diferentes sujeitos.
-
-56
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|
-|---|---|---|---|---|---|---|
-|**Curso:**|Técnico em Informática||**Eixo tecnológico**||Informação e Comunicação||
-|**Componente curricular**|||Educação Física II||||
-|**Carga horária**||40 horas/aula||**Período letivo**||2ª Série|
-|**Ementa:**<br>Esportes na natureza/ Radicais/de Aventura. Ginásticas. Atividades circenses. Lutas, a partir de jogos<br>de lutas. Primeiros socorros.|||||||
-|**Bibliografia básica:**<br>BORTOLETTO, Marco Antônio Coelho.**Introdução à Pedagogia das Atividades Circenses.**Editora<br>Fontoura, 2010.<br>CASTELLANI FILHO, Lino. CASTELLANI, Rafael Moreno.**Os jogos de minha escola.**Editora Autores<br>Associados, 2009.<br>DARIDO, Suraya Cristina. RUFFINO, Luiz Gustavo Bonatto.**O Ensino de lutas na escola:**<br>possibilidades para a Educação física. Editora Penso, 2015.<br>GONZÁLEZ, Fernando Jaime. DARIDO, Suraya Cristina. OLIVEIRA, Amauri Bassoli de.**Ginástica,**<br>**Dança**<br>**e**<br>**Atividades**<br>**circenses.**<br>Maringá,<br>Eduem,<br>2014.<br>Disponível<br>em:<br>http://www.esporte.gov.br/arquivos/snelis/segundoTempo/livros/ginasticaDancaAtividades.pdf<br>.<br>Acesso em: 12 mar 2017.<br>SANTOS, Ednei Fernando dos.**Manual de Primeiros Socorros da Educação Física aos Esportes.**<br>Editora Galenus,2014.|||||||
-|**Bibliografia complementar:**<br>ALTMANN, Helena.**Educação Física Escolar:**Relações de gênero em jogo. Editora Cortez, 2015.<br>COLETIVO DE AUTORES.**Metodologia do ensino de Educação física.**Editora Cortez, 2009.<br>KUNZ, Elenor.**Transformação didático-pedagógica do esporte.**Editora Unijuí, 2000.<br>SCHWARTZ, Gisele Maria.**Aventuras na natureza:**consolidando significados. Editora Fontoura,<br>2006.<br>SILVEIRA, José Francisco Barone. HECKTHEUER, Luiz Felipe Alcantara. SILVA, Méri Rosane Santos<br>da. (Org.).**Circo, lazer e esporte:**políticas públicas em jogo. Rio Grande: Universidade<br>Federal do Rio Grande, 2011.<br>Disponível em:<br>https://repositorio.ufsc.br/bitstream/handle.  Acesso em 12 mar 2017.<br>STUBBS, Ray.**O livro dos esportes**: os esportes, as regras, as táticas, as técnicas. Editora Nova<br>Fronteira,2012|||||||
-
-## **Objetivos**
-
-|●|Extrair informações de diferentes fontes, como textos, tabelas ou gráficos, interpretá-las e|
-|---|---|
-||relacioná-las.|
-|●|Ser capaz de realizar pesquisas de modo crítico e autônomo, estando apta/o a buscar,|
-||comparar, construir e disseminar o conhecimento.|
-|●|Ter responsabilidades comprazos e realização de tarefas assumidas em atividades emgrupo|
-
-57
-
-Ministerioda Educacao InstitutoFederal doParana
-
-INSTITUTOFEDERAL PARANA
-
-ou individuais, desenvolvendo o respeito, a proatividade, a empatia, o empreendedorismo e a criatividade.
-
-- Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionar-se quanto a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos, culturais, religiosos e de qualquer outra natureza.
-
-- ● Identificar valores humanos, éticos e morais relacionados à aplicação dos conhecimentos científicos e tecnológicos, sendo capaz de refletir e agir criticamente levando em conta essa relação.
-
-- ● Compreender e usar as linguagens corporais como relevantes para a própria vida, como integradoras sociais e formadoras de identidades;
-
-- ● Reconhecer as manifestações corporais como originárias de necessidades cotidianas de diferentes grupos sociais.
-
-- ● Reconhecer as linguagens corporais como meios de interação social, considerando os limites individuais, coletivos e as alternativas de ressignificação, para diferentes sujeitos.
-
-58
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|
-|---|---|---|---|---|---|---|
-|**Curso:**|Técnico em Informática||**Eixo tecnológico**||Informação e Comunicação||
-|**Componente curricular**|||Educação Física III||||
-|**Carga horária**||40 horas/aula||**Período letivo**||3ª Série|
-|**Ementa:**<br>Esportes diferentes e suas práticas pré-desportivas. O corpo e as mídias sociais: o exposto e o<br>compartilhado.|||||||
-|**Bibliografia básica:**<br>ALTMANN, Helena.**Educação Física Escolar:**Relações de gênero em jogo. Editora Cortez, 2015.<br>CASTELLANI FILHO, Lino. CASTELLANI, Rafael Moreno.**Os jogos de minha escola.**Editora Autores<br>Associados, 2009.<br>COLETIVO DE AUTORES.**Metodologia do ensino de Educação física.**Editora Cortez, 2009.<br>FERREIRA, Maria Elisa Caputo. CASTRO, Marcela Rodrigues de Castro. MORGADO, Fabiane Frota<br>da Rocha (Orgs.)**Imagem corporal:**reflexões, diretrizes e práticas de pesquisa. Juiz de Fora: Editora<br>UFJF, 2014.<br>MELO,Rogério**. Esportes ejogos alternativos**. Sprint,2015.|||||||
-|**Bibliografia complementar:**<br>CORBIN, Alain. COURTINE, Jean-Jacques. VIGARELLO, Georges.**História do corpo:**Da Revolução<br>à Grande Guerra. Petrópolis, RJ: Vozes, 2012.<br>KUNZ, Elenor.**Transformação didático-pedagógica do esporte.**Editora Unijuí, 2000.<br>LOURO, Guacira Lopes.**Gênero, sexualidade e Educação:**uma perspectiva pós-estruturalista. .<br>Petrópolis: Editora Vozes, 2007.<br>SOARES, Carmen Lúcia (Org.).**Pesquisas sobre o corpo:**ciências humanas e educação, Editora<br>Autores Associados, 2007.<br>STUBBS, Ray.**O livro dos esportes:**os esportes, as regras, as táticas, as técnicas. Editora Nova<br>Fronteira,2012.|||||||
-
-|**Objetivos**|**Objetivos**|
-|---|---|
-|●|Extrair informações de diferentes fontes, como textos, tabelas ou gráficos, interpretá-las e|
-||relacioná-las.|
-|●|Ser capaz de realizar pesquisas de modo crítico e autônomo, estando apta/o a buscar,|
-||comparar, construir e disseminar o conhecimento.|
-|●|Ter responsabilidades com prazos e realização de tarefas assumidas em atividades em grupo|
-||ou individuais, desenvolvendo o respeito, a proatividade, a empatia, o empreendedorismo e a|
-||criatividade.|
-|●|Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionar-se|
-||quanto a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos,|
-||culturais, religiosos e de qualquer outra natureza.|
-|●|Identificar valores humanos, éticos e morais relacionados à aplicação dos conhecimentos|
-||científicos e tecnológicos,sendo capaz de refletir e agir criticamente levando em conta essa|
-
-59
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-relação.
-
-- Compreender e usar as linguagens corporais como relevantes para a própria vida, como integradoras sociais e formadoras de identidades;
-
-- Reconhecer as manifestações corporais como originárias de necessidades cotidianas de diferentes grupos sociais.
-
-- Reconhecer as linguagens corporais como meios de interação social, considerando os limites individuais, coletivos e as alternativas de ressignificação, para diferentes sujeitos.
-
-|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|
-|---|---|---|---|---|---|---|
-|**Curso:**|Técnico em Informática||**Eixo tecnológico**||Informação e Comunicação||
-|**Componente curricular**|||Educação Física IV||||
-|**Carga horária**||40 horas/aula||**Período letivo**||4ª Série|
-|**Ementa:**<br>Jogos intelectivos. Jogos de origem africana. Jogos de origem indígena. Expressão corporal/Atividades<br>rítmicas. Exploração dos ritmos corporais. Usos da linguagem corporal. Práticas corporais e jogos<br>eletrônicos. Danças para todas/os. Danças de rua. Danças folclóricas. Danças circulares. Dança<br>contemporânea.|||||||
-|**Bibliografia básica:**<br>ALTMANN, Helena.**Educação Física Escolar:**Relações de gênero em jogo. Editora Cortez, 2015.<br>CASTELLANI FILHO, Lino. CASTELLANI, Rafael Moreno.**Os jogos de minha escola.**Editora Autores<br>Associados, 2009.<br>COLETIVO DE AUTORES.**Metodologia do ensino de Educação física.**Editora Cortez, 2009.<br>GRANDO, Beleni Salete. (Org.)**Jogos e culturas indígenas:**possibilidades para a educação<br>intercultural<br>na<br>escola.<br>Cuiabá:<br>EdUFMT,<br>2010.<br>Disponível<br>em<br>:<br>http://www.esporte.gov.br/arquivos/snelis/esporteLazer/cedes/jogosCulturasIndigenas.pdf . Acesso<br>em: 08 ago 2017.<br>SAMPAYO, Sonia.**Dança:**Movimento & Expressão Corporal - Beleza, Estética, Forma Física e<br>Diversão. São Paulo: Queen Books, 2013.<br>SARAIVA, Maria do Carmo. KLEINUBING, Neusa Dendena.**Dança:**diversidade, caminhos e<br>encontros. Jundiaí: Paco Editorial, 2014.<br>SILVA, Wilson da.**Xadrez para todos.**Curitiba: UFPR, 2015.<br>SPOLIN, Viola.**Jogos teatrais na sala de aula**. São Paulo: Perspectiva, 2007.|||||||
-|**Bibliografia complementar:**<br>KUNZ, Elenor.**Transformação didático-pedagógica do esporte.**Editora Unijuí, 2000.<br>LOURO, Guacira Lopes.**Gênero, sexualidade e Educação:**uma perspectiva pós-estruturalista. .<br>Petrópolis: Editora Vozes, 2007.<br>MOREIRA,Wagner Wey. SIMÕES,Regina. MARTINS,Ida C.**Aula de Educação física no Ensino**|||||||
-
-**Bibliografia complementar:** KUNZ, Elenor. **Transformação didático-pedagógica do esporte.** Editora Unijuí, 2000. LOURO, Guacira Lopes. **Gênero, sexualidade e Educação:** uma perspectiva pós-estruturalista. . Petrópolis: Editora Vozes, 2007. MOREIRA, Wagner Wey. SIMÕES, Regina. MARTINS, Ida C. **Aula de Educação física no Ensino** 60
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao InstitutoFederal doParana
-
-**Médio.** Campinas, SP: Papirus, 2010.
-
-SOARES, Carmen Lúcia (Org.). **Pesquisas sobre o corpo:** ciências humanas e educação, Editora Autores Associados, 2007.
-
-61
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-|**Campus Colombo do IFPR**|
-|---|
-|**Curso:**<br>Técnico em Informática<br>**Eixo tecnológico**<br>Informação e Comunicação|
-|**Componente curricular**<br>História I|
-|**Carga horária**<br>40 horas/aula<br>**Período letivo**<br>1ª Série|
-|**Ementa:**|
-|Dimensão histórica da disciplina e suas características básicas. Identificação das principais|
-|características culturais e econômicas dos povos da chamada Antiguidade. Origem do universo e da|
-|humanidade historicamente. Organização dos primeiros grupos humanos. Diferenças culturais|
-|fundamentais das civilizações do Ocidente e Oriente incluindo a África, bem como, heranças deixadas|
-|pelos respectivos povos para a sociedade atual. Sociedades islâmicas e europeia nos tempos|
-|medievais; permanências e rupturas de tais contribuições culturais.|
-
-|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|
-|---|---|---|---|---|---|---|
-|**Curso:**|Técnico em Informática||**Eixo tecnológico**||Informação e Comunicação||
-|**Componente curricular**|||História I||||
-|**Carga horária**||40 horas/aula||**Período letivo**||1ª Série|
-|**Ementa:**<br>Dimensão histórica da disciplina e suas características básicas. Identificação das principais<br>características culturais e econômicas dos povos da chamada Antiguidade. Origem do universo e da<br>humanidade historicamente. Organização dos primeiros grupos humanos. Diferenças culturais<br>fundamentais das civilizações do Ocidente e Oriente incluindo a África, bem como, heranças deixadas<br>pelos respectivos povos para a sociedade atual. Sociedades islâmicas e europeia nos tempos<br>medievais; permanências e rupturas de tais contribuições culturais.|||||||
-|**Bibliografia básica:**<br>ANDERSON, Perry.**Linhagens do estado absolutista.**Porto: Afrontamentos, 1984.<br>ANDERSON, Perry.**Passagens da antiguidade ao feudalismo**. São Paulo: Brasiliense, 2000.<br>ARIÈS, P., DUBY, G. (Org.).**História da vida privada - v. 1:**do Império Romano ao ano mil. São<br>Paulo: Cia das Letras, 1990.<br>BENJAMIN, W.**Magia e técnica, arte e política**. São Paulo: Brasiliense,1985.<br>BLOCH, Marc**. A apologia da história ou o ofício do historiador.**Trad. André Telles. Rio de Janeiro:<br>Jorge Zahar, 2001.<br>BURKE, P. (org).**A escrita da história:**novas perspectivas. São Paulo: UNESP, 1992.<br>CARDOSO, Ciro Flamarion S.**Sociedades do antigo oriente próximo**. São Paulo: Ática, 1986.<br>COULANGES, F.**A cidade antiga.**São Paulo: Hemus, 1975.<br>CROUZET, M.**História geral das civilizações:**O Oriente e a Grécia Antiga. As civilizações Imperiais.<br>São Paulo: Difel, 1993. v 1.<br>DUBY. Georges; PERROT, Michelle.**História das mulheres no ocidente**: a antiguidade. Porto:<br>Afrontamento. São Paulo: Ebradil, 1991.<br>ELIADE, Mircea.**O sagrado e o profano**: a essência das religiões. 2. ed. São Paulo: Martins Fontes,<br>2008.<br>FERRO, Marc.**A história vigiada**. São Paulo: Martins Fontes, 1989.<br>FINLEY, Moses.**História antiga:**testemunhos e modelos. São Paulo: Martins Fontes, 1994.<br>FLANDRIN, Jean-louis; MONTANARI, Massimo.**História da alimentação.**São Paulo: Estação<br>Liberdade, 1998. 892 p. Tradução: Luciano Vieira Machado e Guilherme J.F. Teixeira.<br>FLORENZANO, M. B.**O mundo antigo:**economia e sociedade. São Paulo: Brasiliense, 1996.<br>FUNARI, P. P.**A antiguidade clássica:**a história e a cultura a partir dos documentos. Campinas:<br>Unicamp, 1995.<br>GERNET, J.**A China antiga**. Lisboa: Cosmos, 1969.<br>GRAMSCI, Antonio.**Concepção dialética da História.**Rio de Janeiro: Civilização Brasileira, 1981.<br>HOBSBAWN, E.**Sobre a História**. São Paulo: Companhia das Letras, 1998.<br>HUBERMAN, L. A.**História da riqueza do homem.**Trad. da 3. ed. Rio de Janeiro: LTC,1986.<br>KARNAL, Leandro (Org.).**História na sala de aula.**São Paulo: Contexto, 2003.<br>KI-ZERBO, Joseph (Coord.).**História geral da África.**São Paulo: Ática/Unesco, 1982.<br>MOSSÉ, C.**Atenas:**a história de uma democracia. Brasília: UnB, 1999.<br>SKINNER, Quentin. As fundações dopensamentopolitico moderno. São Paulo: Companhia das Letras,|||||||
-
-62
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-2006.
-
-## **Bibliografia complementar:**
-
-BAINES; MÁLEK. **O Mundo egípcio, deuses, templos e faraós -** volume I **.** Madri: Edições Prado, 1984.
-
-BLOCH, Marc. **A sociedade feudal.** São Paulo: Martins Fontes, 1982. BLOCH, Marc. **Os reis taumaturgos.** São Paulo: Cia. das Letras, 1993. CARDOSO, C. F. S. O Egito Antigo. São Paulo: Brasiliense, 1982. (Coleção tudo é história). CORVISIER, A. **História moderna.** 3. ed **.** , São Paulo: Difel, 1983. FUNARI, P. P.; SILVA, Maria Aparecida (Orgs.). **Política e identidades no mundo antigo.** São Paulo: Annablume, Fapesp, 2009. HESÍODO. **Teogonia, a origem dos deuses.** São Paulo: Edit. Iluminuras, 2001. HOMERO. **Odisseia.** São Paulo: Cosac Naify, 2014. NOBLECOURT, Christiane. **A mulher no tempo dos faraós.** Campinas, SP: Papirus, 1994. PAULME, D. As civilizações africanas. Lisboa: Europa-América, 1977. STARR, C. **O nascimento da democracia ateniense.** São Paulo: Odysseus, 2005. VIRGÍLIO. **Eneida.** São Paulo: Editora 34, 2014.
-
-|||
-|---|---|
-|Objetivos|
-|Objetivos Gerais:|
-|1.|Extrair informações relevantes de diferentes fontes, como textos, tabelas ou gráficos,|
-|interpretá-las e relacioná-las.|
-|2.|Ser capaz de realizar pesquisas de modo crítico e autônomo, estando apto a buscar,|
-|comparar, construir e disseminar o conhecimento.|
-|3.|Fazer uso de modos de comunicação e de interação para aplicação e divulgação de|
-|conhecimentos científicos e tecnológicos, sabendo comunicar de forma escrita ou oral resultados e|
-|argumentos de base científica, sendo capaz de debater, respeitar opiniões e levar em conta|
-|argumentos contrários.|
-|4.|Ter responsabilidade com prazos e realização de tarefas assumidas em atividades em grupo|
-|ou individuais, desenvolvendo o respeito, a proatividade, a empatia, o empreendedorismo e a|
-|criatividade.|
-|5.|Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionar-se|
-|quanto a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos,|
-|culturais, religiosos e de qualquer outra natureza.|
-|Objetivos Específicos:|
-|1. Conceituar os princípios básicos da ciência histórica.|
-|2. Pesquisar sobre o modo de vida das diferentes civilizações humanas.|
-|3. Identificar diferentes organizações sociais, econômicas, políticas e culturais ao longo da|
-|história.|
-|4. Definir diferentes estruturas políticas, sociais, econômicas e culturais ao longo da história.|
-|5. Relatar sobre as diferentes formas que a humanidade desenvolveu e utilizou as técnicas e|
-|tecnologias.|
-|6. Produzir textos, tabelas e gráficos sobre causas e consequências de eventos|significativo|
-|para a humanidade.|
-|7. Descrever sobre o surgimento, desenvolvimento e pluralidade das cidades.|
-|63|
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|
-|---|---|---|---|---|---|---|
-|**Curso:**|Técnico em Informática||**Eixo tecnológico**||Informação e Comunicação||
-|**Componente curricular**|||História II||||
-|**Carga horária**||80 horas/aula||**Período letivo**||2ª Série|
-|**Ementa:**<br>Características culturais e econômicas do mundo Moderno e suas implicações políticas. O processo de<br>colonização europeia na América. Organização dos movimentos em prol das independências. As<br>diferenças culturais fundamentais das civilizações americanas. História e cultura dos povos indígenas.<br>Os impactos sociais, políticos e econômicos da Revolução Francesa. História e cultura afro-brasileira.<br>A organização política, econômica, social e cultural do Brasil durante o século XIX. As implicações<br>históricas da Revolução Industrial.|||||||
-|**Bibliografia básica:**<br>BLOCH, Marc**. A apologia da história ou o ofício do historiador.**Trad. André Telles. Rio de Janeiro:<br>Jorge Zahar, 2001.<br>CONDER COMPARATO, F.**A afirmação histórica dos direitos humanos.**São Paulo: Saraiva, 2013.<br>FURTADO, Celso.**Formação econômica do Brasil.**33. ed. São Paulo: Companhia Editora Nacional,<br>2004.<br>ELIADE, Mircea.**História das crenças e das idéias religiosas.**Tradução de Roberto Cortes de<br>Lacerda. Rio de Janeiro: Zahar Editores, 1978<br>FAGE, J. D.**História da África**. Lisboa: Edições 70, 1997.<br>FALCON, Francisco José Calazans.**Iluminismo.**São Paulo, Ática,1986.<br>FAUSTO, Boris (org.)**História geral da civilização brasileira**. 14 ed. Rio de Janeiro: Bertrand Brasil,<br>2004. v. 8-11.<br>FERNANDES, Florestan.**O negro no mundo dos brancos**. São Paulo: Difusão Européia do Livro,<br>1972.<br>FLORENZANO, M.**As revoluções burguesas**. 8. ed. São Paulo: Brasiliense, 1987.<br>FREIRE, G.**Casa grande e senzala**. 47. ed. São Paulo: Circulo do Livro. 1995.<br>GALEANO, E.**As veias abertas da América Latina.**Rio de Janeiro: Paz e Terra, 2000.<br>GRAMSCI, Antonio.**Concepção dialética da História.**Rio de Janeiro: Civilização Brasileira, 1981.<br>HILL, Christopher.**O mundo de ponta-cabeça:**ideias radicais durante a revolução inglesa de 1640.<br>São Paulo: Companhia das Letras, 1991.<br>HOBSBAWN, E.**A era das revoluções**(1789-1848). 6. ed. São Paulo: Paz e Terra, 1977.<br>HOBSBAWN, E.**A revolução francesa**. São Paulo: Paz e Terra, 2005.<br>HOLANDA, Sérgio Buarque de.**Raízes do Brasil**. 26. ed. São Paulo: Companhia das Letras, 1995.<br>KARNAL, Leandro (Org.).**História na sala de aula.**São Paulo: Contexto, 2003.<br>KARNAL, Leandro.**Estados Unidos:**a formação da nação. São Paulo: Contexto, 2001. (Repensando<br>a História).<br>KI-ZERBO, Joseph (Coord.).**História geral da África.**São Paulo: Ática/Unesco, 1982.<br>LEFEBVRE, Georges.**1789:**o surgimento da Revolução Francesa. Rio de Janeiro: Paz e Terra, 1990.<br>NOVAIS, F. A. (coord).**História da vida privada no Brasil.**São Paulo: Companhia das Letras, 1998.<br>(5 volumes)<br>PERROT,Michelle.**Os excluídos da História:**operários,mulheres, prisioneiros. Rio de Janeiro: Paz|||||||
-
-INSTITUTOFEDERAL<br>PARANA<br>
-
-Ministerio da Educacao<br>InstitutoFederal doParana<br>
-
-e Terra, 1988.
-
-PERROT, Michelle.(Org.). **História da Vida Privada -** v.4: da Revolução Francesa á Primeira Guerra. São Paulo: Companhia das Letras. 2001.
-
-THOMPSON, E. P. **A formação da classe operária inglesa** - v. 3. Rio de Janeiro: Paz e Terra, 1987. TOCQUEVILLE, A. de **. Democracia na América.** São Paulo: Martins Fontes, 2005.
-
-## **Bibliografia complementar:**
-
-CORVISIER, A. **História moderna.** 3. ed., São Paulo: Difel, 1983.
-
-COSTA, E. **A globalização e o capitalismo contemporâneo** . 1. ed. São Paulo: Expressão Popular, 2008.
-
-DEL PRIORE, M. (org.). **A mulher na história do Brasil.** São Paulo: Contexto, 1992. IANNI, O. **Origens agrárias do estado brasileiro.** São Paulo: Brasiliense, 1984. MUNANGA, K. **Negritude:** usos e sentidos. São Paulo: Ática. 1986. PANTOJA, S. **Nzinga Mbandi:** mulher, guerra e escravidão. Brasília: Thesaurus, 2000.
-
-## **Objetivos**
-
-## **Objetivos Gerais:**
-
-1. Extrair informações relevantes de diferentes fontes, como textos, tabelas ou gráficos, interpretá-las e relacioná-las.
-
-2. Ser capaz de realizar pesquisas de modo crítico e autônomo, estando apto a buscar, comparar, construir e disseminar o conhecimento.
-
-3. Fazer uso de modos de comunicação e de interação para aplicação e divulgação de conhecimentos científicos e tecnológicos, sabendo comunicar de forma escrita ou oral resultados e argumentos de base científica, sendo capaz de debater, respeitar opiniões e levar em conta argumentos contrários.
-
-4. Ter responsabilidade com prazos e realização de tarefas assumidas em atividades em grupo ou individuais, desenvolvendo o respeito, a proatividade, a empatia, o empreendedorismo e a criatividade.
-
-5. Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionar-se quanto a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos, culturais, religiosos e de qualquer outra natureza.
-
-## **Objetivos Específicos:**
-
-1. Descrever o processo pelo qual ocorreu a posse e ocupação de terras no Brasil e no mundo. 2. Pesquisar sobre o modo de vida das diferentes populações americanas pré-coloniais. 3. Identificar o processo emancipatório das nações americanas. 4. Discriminar o processo de formação do Estado. 5. Relacionar o processo revolucionário francês com a formação dos Estados Nacionais. 6. Relatar sobre as diferentes formas que a humanidade desenvolveu e utilizou as técnicas e tecnologias.
-
-7. Produzir textos, tabelas e gráficos sobre causas e consequências de evento significativo para a humanidade.
-
-65
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|
-|---|---|---|---|---|---|---|
-|**Curso:**|Técnico em Informática||**Eixo tecnológico**||Informação e Comunicação||
-|**Componente curricular**|||História III||||
-|**Carga horária**||40 horas/aula||**Período letivo**||3ª Série|
-|**Ementa:**<br>A história do Brasil e mundial no contexto do século XX. Legislação trabalhista. Questão indígena. As<br>guerras mundiais, a política brasileira e a Guerra Fria.|||||||
-|**Bibliografia básica:**<br>BALHANA, Altiva, PINHEIRO MACHADO, Brasil e WESTPHALEN, Cecilia.**História do Paraná**.<br>Curitiba: Grafipar, 1969.<br>BLOCH, Marc**. A apologia da história ou o ofício do historiador.**Trad. André Telles. Rio de Janeiro:<br>Jorge Zahar, 2001.<br>CROUZET, M.**A Época Contemporânea**. Vols XV-XVII da História Geral das Civilizações. São Paulo:<br>Difel, 1977.<br>GALEANO, E.**As veias abertas da América Latina.**Rio de Janeiro: Paz e Terra, 2000.<br>GRAMSCI, Antonio.**Concepção dialética da História.**Rio de Janeiro: Civilização Brasileira, 1981.<br>HOBSBAWN, E.**Era dos extremos:**o breve século XX – 1914-1991. São Paulo: Companhia das<br>Letras, 1995.<br>IANNI, Octavio.**A formação do estado populista na América Latina.**2. ed. Rio Janeiro: Civilização<br>Brasileira, 1991.<br>KARNAL, Leandro (Org.).**História na sala de aula.**São Paulo: Contexto, 2003.<br>MAGALHÃES, Marion Brepohl de.**Paraná:**política e governo. Coleção História do Paraná. Curitiba:<br>SEED, 2001.<br>MARTINS, Romário.**História do Paraná**. Curitiba: Travessa dos Editores, 1995.<br>NADALIN, Sérgio O.**Paraná:**ocupação do território, população e migrações. Coleção História do<br>Paraná. Curitiba: SEED, 2001.<br>NOVAIS, F. A. (coord).**História da vida privada no Brasil.**São Paulo: Companhia das Letras, 1998.<br>(5 volumes)<br>REIS FILHO, Aarão et al.**O Século XX**. Rio de Janeiro: Civilização brasileira, 2000. 3 v.<br>SANTOS, Carlos Roberto A. dos.**História da alimentação no Paraná**. Curitiba: Fundação Cultural,<br>1995.|||||||
-|**Bibliografia complementar:**<br>D'ARAÚJO, Maria Célia, SOARES, Gláucio Ary Dillon, CASTRO, Celso.**Os anos de chumbo**: a<br>memória militar sobre a repressão. 1.ed. Rio de Janeiro: Relume-Dumará, 1994.<br>DREIFUSS, René Armand, DULCI, Octávio Soares.**As Forças Armadas e a política**. In: SORJ,<br>Bernardo e ALMEIDA, Maria Hermínia Tavares de.**Sociedade e política no Brasil pós-64**. São Paulo:<br>Brasiliense, 1984.<br>FERNANDES, Florestan.**A Revolução Burguesa no Brasil**. Rio de Janeiro: ZAHAR Editores, 1974.<br>NASCIMENTO, A.**O quilombismo:**documentos de uma militância pan-africanista. Brasília: Fundação<br>Cultural Palmares/ Rio de Janeiro: OR Editor Produtor Editor, 2002.<br>OLIVEIRA,Dennison de.**Urbanização e Industrialização no Paraná**. Coleção História do Paraná.|||||||
-
-66
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## Curitiba: SEED, 2001.
-
-WESTPHALEN, Cecília M.; CARDOSO, Jayme A. **Atlas histórico do Paraná** . Curitiba: Livraria do Chain, Editora,1986.
-
-## **Objetivos**
-
-## **Objetivos Gerais:**
-
-1. Extrair informações relevantes de diferentes fontes, como textos, tabelas ou gráficos, interpretá-las e relacioná-las.
-
-2. Ser capaz de realizar pesquisas de modo crítico e autônomo, estando apto a buscar, comparar, construir e disseminar o conhecimento.
-
-3. Fazer uso de modos de comunicação e de interação para aplicação e divulgação de conhecimentos científicos e tecnológicos, sabendo comunicar de forma escrita ou oral resultados e argumentos de base científica, sendo capaz de debater, respeitar opiniões e levar em conta argumentos contrários.
-
-4. Ter responsabilidade com prazos e realização de tarefas assumidas em atividades em grupo ou individuais, desenvolvendo o respeito, a proatividade, a empatia, o empreendedorismo e a criatividade.
-
-5. Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionar-se quanto a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos, culturais, religiosos e de qualquer outra natureza.
-
-## **Objetivos específicos:**
-
-1. Relatar sobre as diferentes formas que a humanidade desenvolveu e utilizou as técnicas e tecnologias.
-
-2. Produzir textos, tabelas e gráficos sobre causas e consequências de evento significativo para a humanidade.
-
-3. Situar a participação brasileira nos grandes conflitos mundiais.
-
-4. Diferenciar os modelos de organização política brasileira.
-
-5. Descrever causas e consequências de conflitos nacionais e mundiais.
-
-6. Demonstrar modelos políticos e econômicos praticados no mundo ao longo da História. 1. Criticar modelos ideológicos propagados internacionalmente.
-
-67
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|
-|---|---|---|---|---|---|---|
-|**Curso:**|Técnico em Informática||**Eixo tecnológico**||Informação e Comunicação||
-|**Componente curricular**|||História IV||||
-|**Carga horária**||40 horas/aula||**Período letivo**||4ª Série|
-|**Ementa:**<br>Os aspectos culturais, políticos e econômicos do mundo atual, fatores políticos e sociais da história do<br>Brasil e da história do Paraná. Cultura e história indígena do estado do Paraná.|||||||
-|**Bibliografia básica:**<br>BALHANA, Altiva, PINHEIRO MACHADO, Brasil e WESTPHALEN, Cecilia.**História do Paraná**.<br>Curitiba: Grafipar, 1969.<br>BLOCH, Marc**. A apologia da história ou o ofício do historiador.**Trad. André Telles. Rio de Janeiro:<br>Jorge Zahar, 2001.<br>CROUZET, M.**A Época Contemporânea**. Vols XV-XVII da História Geral das Civilizações. São Paulo:<br>Difel, 1977.<br>GALEANO, E.**As veias abertas da América Latina.**Rio de Janeiro: Paz e Terra, 2000.<br>GRAMSCI, Antonio.**Concepção dialética da História.**Rio de Janeiro: Civilização Brasileira, 1981.<br>HOBSBAWN, E.**Era dos extremos:**o breve século XX – 1914-1991. São Paulo: Companhia das<br>Letras, 1995.<br>IANNI, Octavio.**A formação do estado populista na América Latina.**2. ed. Rio Janeiro: Civilização<br>Brasileira, 1991.<br>KARNAL, Leandro (Org.).**História na sala de aula.**São Paulo: Contexto, 2003.<br>MAGALHÃES, Marion Brepohl de.**Paraná:**política e governo. Coleção História do Paraná. Curitiba:<br>SEED, 2001.<br>MARTINS, Romário.**História do Paraná**. Curitiba: Travessa dos Editores, 1995.<br>NADALIN, Sérgio O.**Paraná:**ocupação do território, população e migrações. Coleção História do<br>Paraná. Curitiba: SEED, 2001.<br>NOVAIS, F. A. (coord).**História da vida privada no Brasil.**São Paulo: Companhia das Letras, 1998.<br>(5 volumes)<br>REIS FILHO, Aarão et al.**O Século XX**. Rio de Janeiro: Civilização brasileira, 2000. 3 v.<br>SANTOS, Carlos Roberto A. dos.**História da alimentação no Paraná**. Curitiba: Fundação Cultural,<br>1995.|||||||
-|**Bibliografia complementar:**<br>D'ARAÚJO, Maria Célia, SOARES, Gláucio Ary Dillon, CASTRO, Celso.**Os anos de chumbo**: a<br>memória militar sobre a repressão. 1.ed. Rio de Janeiro: Relume-Dumará, 1994.<br>DREIFUSS, René Armand, DULCI, Octávio Soares.**As Forças Armadas e a política**. In: SORJ,<br>Bernardo e ALMEIDA, Maria Hermínia Tavares de.**Sociedade e política no Brasil pós-64**. São Paulo:<br>Brasiliense, 1984.<br>FERNANDES, Florestan.**A Revolução Burguesa no Brasil**. Rio de Janeiro: ZAHAR Editores, 1974.<br>NASCIMENTO, A.**O quilombismo:**documentos de uma militância pan-africanista. Brasília: Fundação<br>Cultural Palmares/ Rio de Janeiro: OR Editor Produtor Editor, 2002.<br>OLIVEIRA,Dennison de.**Urbanização e Industrialização no Paraná**. Coleção História do Paraná.|||||||
-
-68
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## Curitiba: SEED, 2001.
-
-WESTPHALEN, Cecília M.; CARDOSO, Jayme A. **Atlas histórico do Paraná** . Curitiba: Livraria do Chain, Editora,1986.
-
-## **Objetivos**
-
-## **Objetivos Gerais:**
-
-1. Extrair informações relevantes de diferentes fontes, como textos, tabelas ou gráficos, interpretá-las e relacioná-las.
-
-2. Ser capaz de realizar pesquisas de modo crítico e autônomo, estando apto a buscar, comparar, construir e disseminar o conhecimento.
-
-3. Fazer uso de modos de comunicação e de interação para aplicação e divulgação de conhecimentos científicos e tecnológicos, sabendo comunicar de forma escrita ou oral resultados e argumentos de base científica, sendo capaz de debater, respeitar opiniões e levar em conta argumentos contrários.
-
-4. Ter responsabilidade com prazos e realização de tarefas assumidas em atividades em grupo ou individuais, desenvolvendo o respeito, a proatividade, a empatia, o empreendedorismo e a criatividade.
-
-5. Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionar-se quanto a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos, culturais, religiosos e de qualquer outra natureza.
-
-6. Relatar sobre as diferentes formas que a humanidade desenvolveu e utilizou as técnicas e tecnologias.
-
-7. Produzir textos, tabelas e gráficos sobre causas e consequências de evento significativo para a humanidade.
-
-## **Objetivos específicos:**
-
-2. Situar a política brasileira no contexto nacional e internacional.
-
-3. Diferenciar os modelos de organização política e econômica do Paraná.
-
-4. Descrever causas e consequências de conflitos nacionais e mundiais.
-
-5. Demonstrar modelos políticos e econômicos paranaenses.
-
-6. Explicar características transformações no mundo atual.
-
-69
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-|**Curso:**<br>Técnico em Informática||**Eixo tecnológico**|**Eixo tecnológico**|Informação e Comunicação|Informação e Comunicação|
-|---|---|---|---|---|---|
-|**Componente curricular**||Geografia I||||
-|**Carga horária**<br>80 horas/aula|||**Período letivo**||1ª Série|
-
-## **Ementa:**
-
-Introdução aos estudos geográficos e investigação sobre as formas de compreensão do mundo. Os fundamentos da Cartografia e das ferramentas utilizadas para a representação dos fenômenos geográficos. As diferentes formas de visão de mundo, ou cosmovisões, tanto de nossa civilização como de outras e como as novas tecnologias da informação e comunicação, principalmente, tem contribuído para as mudanças destas. O processo de urbanização de nossa sociedade e suas consequências para o espaço urbano contemporâneo. A desigualdade social e segregação socioespacial nas cidades brasileiras com o processo de urbanização. Identificação e classificação dos principais problemas ambientais urbanos.
-
-## **Bibliografia básica:**
-
-BIGOTTO, J. F.; VITIELLO, M. A.; ALBUQUERQUE, M. A. M. de. **Geografia** : sociedade e cotidiano. - 1° e 2° anos. São Paulo: Escala Educacional, 2010. CALDINI, Vera Lúcia de Moraes, ÍSOLA, Leda. **Atlas Geográfico Saraiva** . 3. ed. São Paulo: Saraiva, 2009. 224 p. DUARTE, P. A. **Cartografia básica.** Florianópolis: UFSC, 1988. DUARTE, P. A. **Cartografia temática** . Florianópolis: UFSC, 1991. DUARTE, P. A. **Escala:** fundamentos. Florianópolis: UFSC, 1983. DUARTE, P. A. **Fundamentos de Cartografia** . Florianópolis: UFSC, 1994 MENDONÇA, F. **Impactos socioambientais urbanos** . Curitiba: UFPR, 2004. MOTA, S. **Urbanização e meio ambiente** . Rio de Janeiro; Abes, 2003. OLIVEIRA, D. **Urbanização e industrialização do Paraná** . Curitiba: SEED, 2001. SANTOS, M. **A urbanização brasileira** . São Paulo: Hucitec, 1993. WILLIAMS, Raymond. **O campo e a cidade** : na história e na literatura. (Trad. Paulo Henriques Britto) São Paulo: Companhia das Letras, 2011.
-
-## **Bibliografia complementar:**
-
-ALMEIDA, R., PASSINI, E.Y. **O espaço geográfico:** ensino e representação. São Paulo: Contexto, 1991. CORREA, R. L. **A rede urbana** . São Paulo: Ática, 1989. DARDEL, Éric. **O homem e a terra** : natureza da realidade geográfica. (Trad. Werther Holzer) São Paulo: Perspectiva, 2011. GARCIA, H.C. **Geografia:** de olho no mundo do trabalho: volume único para o ensino médio. SP: Scipione, 2005. GONÇALVES, C. W. P. **Os (des)caminhos do meio ambiente.** São Paulo: Contexto, 1996. MAGNOLI, D. **Mundo contemporâneo** . São Paulo: Atual, 2004. MARTINELLI, M. **Curso de cartografia temática** . São Paulo: Contexto, 1991. MENDONÇA, F.; DANNI-OLIVEIRA, I. M. **Climatologia:** noções básicas e climas do Brasil. São Paulo:
-
-70
-
-## 1INSTITUTOFEDERAL PARANA
-
-Ministerio da Educacao<br>InstitutoFederal doParana<br>
-
-## Oficina de Texto, 2007.
-
-MOREIRA, J.C.; SENE, E. **Geografia.** São Paulo: Scipione, 2010.
-
-MOREIRA, J.C. **Geografia para o ensino médio:** Geografia Geral e do Brasil: volume único/ João Carlos Moreira, Eustáquio de Sene. SP: Scipione, 2005.
-
-OLIVEIRA, Denninson de. **Curitiba e o mito da cidade modelo.** Curitiba: Editora da UFPR, 2000. ROSS, Jurandyr L. Sanches (org.). **Geografia do Brasil** . São Paulo: Editora da Universidade de São Paulo, 2003.
-
-TERRA, L.; ARAÚJO, R.; GUIMARÃES, R. B. **Conexões:** estudos de geografia geral e do Brasil. São Paulo: Moderna, 2010.
-
-TUAN, Yi-Fu. **Topofilia** : um estudo da percepção, atitudes e valores do meio ambiente. (Trad. Lívia de Oliveira) Londrina: Eduel, 2012.
-
-## **Objetivos**
-
-- **Objetivos Gerais:** 1. Extrair informações relevantes de diferentes fontes, como textos, tabelas ou gráficos, interpretálas e relacioná-las. 2. Ser capaz de realizar pesquisas de modo crítico e autônomo, estando apto a buscar, comparar, construir e disseminar o conhecimento. 3. Fazer uso de modos de comunicação e de interação para aplicação e divulgação de conhecimentos científicos e tecnológicos, sabendo comunicar de forma escrita ou oral resultados e argumentos de base científica, sendo capaz de debater, respeitar opiniões e levar em conta argumentos contrários. 4. Ter responsabilidade com prazos e realização de tarefas assumidas em atividades em grupo ou individuais, desenvolvendo o respeito, a proatividade, a empatia, o empreendedorismo e a criatividade. 5. Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionar-se quanto a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos, culturais, religiosos e de qualquer outra natureza.
-
-- **Objetivos Específicos:** 1. Aprofundar a aprendizagem da Linguagem Gráfica e Cartográfica, a partir do cotidiano da escola e do seu entorno, em constante ampliação de escalas (comunidade, espaços geográficos mais amplos e complexos), integrando situações próximas e distantes.
-
-2. Interpretar cartas, imagens fotográficas e de satélite, utilizando diferentes meios de Comunicação e Expressão, assim como recursos da Informática e da internet.
-
-3. Identificar as principais características do processo de constituição, de transformação e de uso dos espaços urbanos e rurais.
-
-4. Relacionar sociedade e natureza, analisando suas interações na organização das sociedades. 5. Utilizar diferentes indicadores para analisar fatores socioeconômicos e ambientais associados ao desenvolvimento, às condições de vida e de saúde das populações.
-
-6. Identificar e propor soluções para problemas relacionados ao uso e à ocupação do solo no campo e na cidade, levando em consideração as políticas de gestão e de planejamento urbano, regional e ambiental.
-
-7. Reconhecer os fenômenos espaciais a partir de conceitos como paisagem, lugar e território, percebendo a importância do conhecimento geográfico inerente a cada pessoa, uma geografia em ato, e das diferentes visões de mundo para a sedimentação de tais conceitos.
-
-8. Identificar as diferentes fases da industrialização brasileira relacionando com os contextos regionais e internacionais, reconhecendo o caráter tardio deste processo no Brasil e suas causas e consequências.
-
-71
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-|**Curso:**<br>Técnico em Informática||**Eixo tecnológico**|**Eixo tecnológico**|Informação e Comunicação|Informação e Comunicação|
-|---|---|---|---|---|---|
-|**Componente curricular**||Geografia II||||
-|**Carga horária**<br>40 horas/aula|||**Período letivo**||2ª Série|
-
-## **Ementa:**
-
-Geografia Física e Meio Ambiente. Estrutura geológica da Terra, estabelecendo relações com o relevo, solo, clima, hidrografia e outros fenômenos geográficos. Biomas terrestres, em especial os presentes no território brasileiro, e a relação com os domínios morfoclimáticos. A problemática ambiental contemporânea e como esta afeta tanto a natureza, como a economia e a política, por exemplo. Os riscos e perigos ambientais e catástrofes naturais contemporâneos. O espaço rural e a produção agropecuária. O processo de industrialização no Brasil, investigando suas diferentes fases e relacionando com a atual distribuição espacial das indústrias. A teoria dos meios geográficos de Milton Santos. A gênese das fronteiras brasileiras e seu processo de delimitação e demarcação, relacionando à gênese do território brasileiro. As matrizes culturais brasileiras confrontando com a dinâmica demográfica do Brasil contemporâneo.
-
-## **Bibliografia básica:**
-
-ADAS, M; ADAS, S. **Panorama geográfico do Brasil** : contradições, impasses e desafios socioespaciais. 3. ed. São Paulo: Moderna, 1998. BIGOTTO, J. F.; VITIELLO, M. A.; ALBUQUERQUE, M. A. M. de. **Geografia** : sociedade e cotidiano. - 1° e 2° anos. São Paulo: Escala Educacional, 2010. CALDINI, Vera Lúcia de Moraes, ÍSOLA, Leda. **Atlas Geográfico Saraiva** . 3. ed. São Paulo: Saraiva, 2009. 224 p. FERNANDES, Florestan. **O negro no mundo dos brancos** . São Paulo: Difusão Européia do Livro, 1972. FRESCA, T.; SALVI, R.; ARCHELA, R. **Dimensões do espaço paranaense.** Londrina: Eduel, 2002. FURTADO, Celso. **Formação econômica do Brasil.** 33. ed. São Paulo: Companhia Editora Nacional, 2004. IANNI, O. **Origens agrárias do estado brasileiro.** São Paulo: Brasiliense, 1984. MAACK, R. **Geografia física do estado do Paraná.** Rio de Janeiro: J. Olympio, 1981. MONTEIRO, C. A. de F.; MENDONÇA, F. **Clima urbano** . São Paulo: Contexto, 2003. OLIVEIRA, D. **Urbanização e industrialização do Paraná** . Curitiba: SEED, 2001. RIBEIRO, D. **O povo brasileiro:** a formação e o sentido do Brasil. 2a ed. São Paulo: Companhia das Letras, 2005. SANTOS, M.; SILVEIRA, M.L. **O Brasil:** território e sociedade no início do século XXI. Rio de Janeiro: Record, 2001. TERRA, L.; ARAÚJO, R.; GUIMARÃES, R. B. **Conexões:** estudos de geografia geral e do Brasil. São Paulo: Moderna, 2010. **Bibliografia complementar:** CARVALHO, M.; FRESCA, T. **Geografia e norte do Paraná:** um resgate histórico. Londrina: Humanidades, 2007. 2 v. DARDEL, Éric. **O homem e a terra** : natureza da realidade geográfica. (Trad. Werther Holzer) São Paulo: Perspectiva, 2011.
-
-72
-
-Ministerioda Educacao InstitutoFederal doParana
-
-INSTITUTOFEDERAL PARANA
-
-DIEGUES, Antonio Carlos. **O mito moderno da natureza intocada** . 4ª edição. São Paulo: Annablume: Hucitec: NUPAUB/USP, 2002, 176p.
-
-GARCIA, H.C. **Geografia:** de olho no mundo do trabalho: volume único para o ensino médio. SP: Scipione, 2005.
-
-GOMES, N. L. (Org.). **Um olhar além das fronteiras** : educação e relações raciais. Belo Horizonte: Autêntica, 2007.
-
-GONÇALVES, C. W. P. **Os (des)caminhos do meio ambiente.** São Paulo: Contexto, 1996. HOLANDA, Sérgio Buarque de. **Raízes do Brasil** . 26. ed. São Paulo: Companhia das Letras, 1995. MAGNOLI, D. **Mundo contemporâneo** . São Paulo: Atual, 2004.
-
-MENDONÇA, F. **Impactos socioambientais urbanos** . Curitiba: UFPR, 2004.
-
-MOREIRA, J.C.; SENE, E. **Geografia.** São Paulo: Scipione, 2010.
-
-MOREIRA, J.C. **Geografia para o ensino médio:** Geografia Geral e do Brasil: volume único/ João Carlos Moreira, Eustáquio de Sene. SP: Scipione, 2005.
-
-ROSS, Jurandyr L. Sanches (org.). **Geografia do Brasil** . São Paulo: Editora da Universidade de São Paulo, 2003.
-
-TUAN, Yi-Fu. **Topofilia** : um estudo da percepção, atitudes e valores do meio ambiente. (Trad. Lívia de Oliveira) Londrina: Eduel, 2012.
-
-WILLIAMS, Raymond. **O campo e a cidade** : na história e na literatura. (Trad. Paulo Henriques Britto) São Paulo: Companhia das Letras, 2011.
-
-## **Objetivos**
-
-- **Objetivos Gerais:** 1. Extrair informações relevantes de diferentes fontes, como textos, tabelas ou gráficos, interpretálas e relacioná-las.
-
-- 2. Ser capaz de realizar pesquisas de modo crítico e autônomo, estando apto a buscar, comparar, construir e disseminar o conhecimento.
-
-- 3. Fazer uso de modos de comunicação e de interação para aplicação e divulgação de conhecimentos científicos e tecnológicos, sabendo comunicar de forma escrita ou oral resultados e argumentos de base científica, sendo capaz de debater, respeitar opiniões e levar em conta argumentos contrários.
-
-4. Ter responsabilidade com prazos e realização de tarefas assumidas em atividades em grupo ou individuais, desenvolvendo o respeito, a proatividade, a empatia, o empreendedorismo e a criatividade.
-
-5. Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionar-se quanto a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos, culturais, religiosos e de qualquer outra natureza.
-
-**Objetivos Específicos:** 1. Identificar as principais características do processo de constituição, de transformação e de uso dos espaços urbanos e rurais.
-
-2. Relacionar sociedade e natureza, analisando suas interações na organização das sociedades.
-
-3. Identificar as principais causas, características e resultados dos movimentos de migração responsáveis pelos processos de ocupação territorial, ao longo do tempo e do espaço.
-
-4. Utilizar diferentes indicadores para analisar fatores socioeconômicos e ambientais associados ao desenvolvimento, às condições de vida e de saúde das populações.
-
-5. Identificar e propor soluções para problemas relacionados ao uso e à ocupação do solo no campo e na cidade, levando em consideração as políticas de gestão e de planejamento urbano, regional e ambiental.
-
-6. Reconhecer a Estrutura Geológica da Terra e sua influência para a compreensão de diversos
-
-73
-
-Ministerioda Educacao InstitutoFederal doParana
-
-INSTITUTOFEDERAL PARANA
-
-fenômenos naturais como a formação do relevo, hidrografia entre outros.
-
-7. Compreender a gênese territorial e econômica brasileira e reconhecer as relações existentes entre este período e a atual situação que se encontra o território brasileiro.
-
-8. Reconhecer as diferentes matrizes culturais que compõem a população brasileira, valorizando e respeitando as diferenças étnicas, religiosas, linguísticas entre outras existentes hoje.
-
-9. Reconhecer os fenômenos espaciais a partir de conceitos como paisagem, lugar e território, percebendo a importância do conhecimento geográfico inerente a cada pessoa, uma geografia em ato, e das diferentes visões de mundo para a sedimentação de tais conceitos.
-
-10. Identificar as diferentes fases da industrialização brasileira relacionando com os contextos regionais e internacionais, reconhecendo o caráter tardio deste processo no Brasil e suas causas e consequências.
-
-11. Relacionar questões de ordem econômica, política e social à dinâmica demográfica brasileira atual, além de identificar e analisar indicadores demográficos nas escalas local, regional e global.
-
-12. Identificar as diferentes fontes de energia disponíveis na Terra e sua utilização como recursos naturais relacionando-os às questões ambientais, políticas, econômicas e sociais.
-
-74
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-|**Curso:**<br>Técnico em Informática||**Eixo tecnológico**|**Eixo tecnológico**|Informação e Comunicação|Informação e Comunicação|
-|---|---|---|---|---|---|
-|**Componente curricular**||Geografia III||||
-|**Carga horária**<br>40 horas/aula|||**Período letivo**||3ª Série|
-|**Ementa:**||||||
-
-|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|
-|---|---|---|---|---|---|---|
-|**Curso:**|Técnico em Informática||**Eixo tecnológico**||Informação e Comunicação||
-|**Componente curricular**|||Geografia III||||
-|**Carga horária**||40 horas/aula||**Período letivo**||3ª Série|
-|**Ementa:**<br>Regionalização do espaço mundial em suas diversas facetas confrontando com a globalização e<br>regionalização econômica atual. As diferentes fontes de energia estabelecendo relações com a disputa<br>pelo poder global sobre estas fontes. A geografia das religiões e reflexão sobre religião e religiosidade<br>como centro de discussões geopolíticas e de conflitos no mundo. A história, economia e geopolítica da<br>América Latina. Os processos de colonização e descolonização de países do continente africano como<br>geradores de conflitos. A geopolítica da guerra e exame dos conflitos contemporâneos.|||||||
-|**Bibliografia básica:**<br>BIGOTTO, J. F.; VITIELLO, M. A.; ALBUQUERQUE, M. A. M. de.**Geografia**: sociedade e cotidiano. -<br>1° e 2° anos. São Paulo: Escala Educacional, 2010.<br>CALDINI, Vera Lúcia de Moraes, ÍSOLA, Leda.**Atlas Geográfico Saraiva**. 3. ed. São Paulo: Saraiva,<br>2009. 224 p.<br>ELIADE, Mircea.**O sagrado e o profano**: a essência das religiões. 2. ed. São Paulo: Martins Fontes,<br>2008.<br>GALEANO, E.**As veias abertas da América Latina.**Rio de Janeiro: Paz e Terra, 2000.<br>HOBSBAWN, E.**Era dos extremos:**o breve século XX – 1914-1991. São Paulo: Companhia das<br>Letras, 1995.<br>HOBSBAWN, E.**A era das revoluções**(1789-1848). 6. ed. São Paulo: Paz e Terra, 1977.<br>HOBSBAWN, E.**A era do capital**(1848-1875). São Paulo: Paz e Terra, 1996.<br>IANNI, Octavio.**A formação do estado populista na América Latina.**2. ed. Rio Janeiro: Civilização<br>Brasileira, 1991.<br>MAGNOLI,D.**Mundo contemporâneo**. São Paulo: Atual,2004.|||||||
-|**Bibliografia complementar:**<br>COSTA, E.**A globalização e o capitalismo contemporâneo**. 1. ed. São Paulo: Expressão Popular,<br>2008.<br>DARDEL, Éric.**O homem e a terra**: natureza da realidade geográfica. (Trad. Werther Holzer) São<br>Paulo: Perspectiva, 2011.<br>GARCIA, H.C.**Geografia:**de olho no mundo do trabalho: volume único para o ensino médio. SP:<br>Scipione, 2005.<br>KI-ZERBO, Joseph (Coord.).**História geral da África.**São Paulo: Ática/Unesco, 1982.<br>MOREIRA, J.C.; SENE, E.**Geografia.**São Paulo: Scipione, 2010.<br>MOREIRA, J.C.**Geografia para o ensino médio:**Geografia Geral e do Brasil: volume único/ João<br>Carlos Moreira, Eustáquio de Sene. SP: Scipione, 2005.<br>ROSS, Jurandyr L. Sanches (org.).**Geografia do Brasil**. São Paulo: Editora da Universidade de São<br>Paulo, 2003.<br>TUAN, Yi-Fu.**Topofilia**: um estudo da percepção, atitudes e valores do meio ambiente. (Trad. Lívia de<br>Oliveira)Londrina: Eduel,2012.|||||||
-
-75
-
-## 1INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Objetivos**
-
-## **Objetivos Gerais:**
-
-1. Extrair informações relevantes de diferentes fontes, como textos, tabelas ou gráficos, interpretá-las e relacioná-las.
-
-2. Ser capaz de realizar pesquisas de modo crítico e autônomo, estando apto a buscar, comparar, construir e disseminar o conhecimento.
-
-3. Fazer uso de modos de comunicação e de interação para aplicação e divulgação de conhecimentos científicos e tecnológicos, sabendo comunicar de forma escrita ou oral resultados e argumentos de base científica, sendo capaz de debater, respeitar opiniões e levar em conta argumentos contrários.
-
-4. Ter responsabilidade com prazos e realização de tarefas assumidas em atividades em grupo ou individuais, desenvolvendo o respeito, a proatividade, a empatia, o empreendedorismo e a criatividade.
-
-5. Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionar-se quanto a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos, culturais, religiosos e de qualquer outra natureza.
-
-## **Objetivos Específicos:**
-
-1. Interpretar cartas, imagens fotográficas e de satélite, utilizando diferentes meios de Comunicação e Expressão, assim como recursos da Informática e da internet.
-
-2. Relacionar sociedade e natureza, analisando suas interações na organização das sociedades. 3. Identificar as principais causas, características e resultados dos movimentos de migração responsáveis pelos processos de ocupação territorial, ao longo do tempo e do espaço.
-
-4. Utilizar diferentes indicadores para analisar fatores socioeconômicos e ambientais associados ao desenvolvimento, às condições de vida e de saúde das populações.
-
-5. Identificar as principais características e consequências da globalização, com foco na interdependência entre as economias nacionais, acentuada por esse processo.
-
-6. Estabelecer relações entre globalização econômica e as esferas política e cultural.
-
-7. Compreender as relações entre globalização, Informação e Comunicação, e perceber a importância da democratização do acesso à informação.
-
-8. Compreender as relações de trabalho e de sociedade no mundo globalizado e identificar os desafios representados pelas desigualdades sociais (nacionais e internacionais).
-
-9. Identificar as diferentes fontes de energia disponíveis na Terra e sua utilização como recursos naturais relacionando-os às questões ambientais, políticas, econômicas e sociais.
-
-10. Reconhecer a diversidade étnica e religiosa existente no Brasil e no mundo identificando as religiões mais praticadas no globo e as tensões oriundas das divergências de crenças.
-
-76
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
+|Marco Antonio Benedetti<br>Durigan|Mestrado|Química<br>Industrial|Química I e II|
+|Marcos Antonio Barbosa|Mestrado|Matemática|Matemática I, II, III e IV|
+|Marcos Dinis Lavarda|Mestrado|Engenharia<br>Industrial<br>Elétrica|Tópicos avançados em Informática I (robótica)<br>/ Desenvolvimento de dispositivos móveis|
+|Maura Aparecida de<br>Paula Santos|Mestrado|Economia<br>Doméstica|Empreendedorismo e Inovação / Projeto<br>Integrador I / Projeto Integrador II|
+|Milton Aparecido<br>Azevedo|Mestrado|História|História I e II|
+|Mirele Carolina<br>Werneque Jacomel|Doutorado|Letras<br>Português/Inglês|Língua Portuguesa I, II, III e IV|
+|Paulo Cesar Medeiros|Doutorado|Geografia|Geografia I e II|
+|Priscila Célia Giacomassi|Doutorado|Letras<br>Português/Inglês|Língua Inglesa / Língua Portuguesa I, II, III e IV|
+|Ronan Assumpção Silva|Doutorado|Tecnologia em<br>Informática|Introdução a programação orientada a objetos<br>/ Desenvolvimento web / Tópicos avançados<br>em Informática II (Inteligência Artificial)|
+|Tiago Wolfgang Dopke|Mestrado|História|História I e II|
 
 |||||
 |---|---|---|---|
-|Campus Colombo do IFPR|
-|Curso:|Técnico em Informática|Eixo tecnológico|Informação e Comunicação|
-|Componente curricular|Geografia IV|
-|Carga horária|40 horas/aula|Período letivo|4ª Série|
-|Ementa:|
-|A informação como poder no mundo atual buscando estabelecer relações com os fluxos imateriais pelo|
-|globo. Os fluxos materiais mundiais e suas relações com a política econômica. Interface entre os fluxos|
-|ilegais de capitais, mercadorias, armas e pessoas no mundo e a geopolítica. O papel das cidades|
-|globais no mundo atual. O papel dos EUA e da China na governa mundial.|
-|Bibliografia básica:|
-|BIGOTTO, J. F.; VITIELLO, M. A.; ALBUQUERQUE, M. A. M. de.|Geografia|: sociedade e cotidiano. -|
-|1° e 2° anos. São Paulo: Escala Educacional, 2010.|
-|CALDINI, Vera Lúcia de Moraes, ÍSOLA, Leda.|Atlas Geográfico Saraiva|. 3. ed. São Paulo: Saraiva,|
-|2009. 224 p.|
-|HOBSBAWN, E.|Era dos extremos:|o breve século XX – 1914-1991. São Paulo: Companhia das|
-|Letras, 1995.|
-|HOBSBAWN, E.|A era das revoluções|(1789-1848). 6. ed. São Paulo: Paz e Terra, 1977.|
-|HOBSBAWN, E.|A era do capital|(1848-1875). São Paulo: Paz e Terra, 1996.|
-|ROSS, Jurandyr L. Sanches (org.).|Geografia do Brasil|. São Paulo: Editora da Universidade de São|
-|Paulo, 2003.|
-|Bibliografia complementar:|
-|BIGOTTO, J. F.; VITIELLO, M. A.; ALBUQUERQUE, M. A. M. de.|Geografia|: sociedade e cotidiano. -|
-|1° e 2° anos. São Paulo: Escala Educacional, 2010.|
-|CALDINI, Vera Lúcia de Moraes, ÍSOLA, Leda.|Atlas Geográfico Saraiva|. 3. ed. São Paulo: Saraiva,|
-|2009. 224 p.|
-|HOBSBAWN, E.|Era dos extremos:|o breve século XX – 1914-1991. São Paulo: Companhia das|
-|Letras, 1995.|
-|HOBSBAWN, E.|A era das revoluções|(1789-1848). 6. ed. São Paulo: Paz e Terra, 1977.|
-|HOBSBAWN, E.|A era do capital|(1848-1875). São Paulo: Paz e Terra, 1996.|
-|ROSS, Jurandyr L. Sanches (org.).|Geografia do Brasil|. São Paulo: Editora da Universidade de São|
-|Paulo, 2003.|
+|Vinicius José Henrique<br>da Costa Leonardi|Doutorado|Matemática|Matemática I, II, III e IV|
 
-|||
-|---|---|
-|Objetivos|
-|Objetivos Gerais:|
-|1. Extrair informações relevantes de diferentes fontes, como textos, tabelas ou gráficos,|
-|interpretá-las e relacioná-las.|
-|2. Ser capaz de realizar|pesquisas de modo crítico e autônomo, estando apto a buscar,|
+## **8.1.3 Colegiado de Curso**
 
-77
+O Colegiado do Curso é um órgão deliberativo, normativo e consultivo setorial, tendo como finalidade acompanhar a implementação do projeto pedagógico, propor alterações dos currículos, discutir temas ligados ao curso, planejar e avaliar as atividades acadêmicas do curso. Conforme a Resolução nº 08 de 30 de abril de 2014, a qual regulamenta o regimento interno comum dos Campi do IFPR, o Colegiado de Curso será constituído:
 
-Ministerioda Educacao InstitutoFederal doParana
+• por todos os Docentes que estão atuando no curso;
 
-INSTITUTOFEDERAL PARANA
+• 02 (dois) representantes discentes, de turmas distintas. O representante discente que não comparecer a três (03) reuniões, consecutivas ou não, perderá o direito de representação, e caberá aos seus representados indicar o novo representante.
 
-comparar, construir e disseminar o conhecimento.
+• 01 (um) representante técnico administrativo em educação ligado diretamente ao curso, quando houver.
 
-3. Fazer uso de modos de comunicação e de interação para aplicação e divulgação de conhecimentos científicos e tecnológicos, sabendo comunicar de forma escrita ou oral resultados e argumentos de base científica, sendo capaz de debater, respeitar opiniões e levar em conta argumentos contrários.
+As reuniões do Colegiado ocorrerão em sessões ordinárias ou extraordinárias com a presença de no mínimo a metade mais um de seus membros e as decisões serão tomadas pela maioria simples dos votos. O Colegiado será coordenado por um(a) docente e, na sua ausência, pela Coordenação de Ensino do campus.
 
-4. Ter responsabilidade com prazos e realização de tarefas assumidas em atividades em grupo ou individuais, desenvolvendo o respeito, a proatividade, a empatia, o empreendedorismo e a criatividade.
+## 8.2 CORPO TÉCNICO ADMINISTRATIVO EM EDUCAÇÃO
 
-5. Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionar-se quanto a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos, culturais, religiosos e de qualquer outra natureza.
+Atualmente o Campus Colombo, possui em seu quadro de servidores Técnicosadministrativos efetivos 21 servidores, distribuídos em três níveis de classificação: C, D e E, quais sejam nível básico (Ensino Fundamental), médio e superior, respectivamente.
 
-## **Objetivos Específicos:**
+A investidura na Carreira de Técnico Administrativo em Educação, se dá unicamente por meio de concurso público promovido pelo Órgão. O Plano de Carreira dos cargos Técnicosadministrativos em Educação é estruturado pela Lei nº 11.091/2005, Lei nº 11.784/2008 e também Lei nº 12.772/2012, estas últimas dispõem, respectivamente, sobre o incentivo à qualificação e à progressão por capacitação).
 
-1. Interpretar cartas, imagens fotográficas e de satélite, utilizando diferentes meios de Comunicação e Expressão, assim como recursos da Informática e da internet.
-
-2. Relacionar sociedade e natureza, analisando suas interações na organização das sociedades. 3. Utilizar diferentes indicadores para analisar fatores socioeconômicos e ambientais associados ao desenvolvimento, às condições de vida e de saúde das populações.
-
-4. Identificar as principais características e consequências da globalização, com foco na interdependência entre as economias nacionais, acentuada por esse processo.
-
-5. Estabelecer relações entre globalização econômica e as esferas política e cultural.
-
-6. Compreender as relações entre globalização, Informação e Comunicação, e perceber a importância da democratização do acesso à informação.
-
-7. Compreender as relações de trabalho e de sociedade no mundo globalizado e identificar os desafios representados pelas desigualdades sociais (nacionais e internacionais).
-
-8. Reconhecer a diversidade étnica e religiosa existente no Brasil e no mundo identificando as religiões mais praticadas no globo e as tensões oriundas das divergências de crenças.
-
-78
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-|**Curso:**<br>Técnico em Informática||**Eixo tecnológico**|**Eixo tecnológico**|Informação e Comunicação|Informação e Comunicação|
-|---|---|---|---|---|---|
-|**Componente curricular**||Filosofia I||||
-|**Carga horária**<br>40 horas/aula|||**Período letivo**||1ª Série|
-
-## **Ementa:**
-
-Introdução à Filosofia e à Teoria do conhecimento. Cultura como característica dos grupos humanos. Desenvolvimento histórico do saber filosófico. Organização dos saberes desde a Antiguidade até os dias de hoje: Cultura, linguagem e pensamento. Consciência mítica, mito e religião. Teoria do conhecimento. Lógica formal e lógica dialética. A Filosofia na Antiguidade clássica. A Filosofia na Idade Média. As teorias do conhecimento na atualidade.
-
-## **Bibliografia básica:**
-
-ARANHA, Maria Lúcia de Arruda; MARTINS, Maria Helena Pires. Filosofando: introdução à filosofia. São Paulo: Editora Moderna, 2010. CHAUÍ, Marilena. Convite à filosofia. São Paulo: Ática, 2010.
-
-CHAUI, Marilena. Iniciação à Filosofia: ensino médio, volume único, 2. Ed. São Paulo: Ática, 2014. GAARDER, J. O mundo de Sofia. São Paulo: Cia das Letras, 1995. GARCIA, José Roberto. VELOSO, Valdecir da conceição. Eureka: construindo cidadãos reflexivos. Sophos, Florianópolis, 2007.
-
-## **Bibliografia complementar:**
-
-ABBAGNANO, N. Dicionário de filosofia. 4. ed. São Paulo: Mestre Jou, 2000.
-
-BUZZI, A. R. Introdução ao pensar: o ser, o conhecimento, a linguagem. Petrópolis, RJ: Vozes, 2007. COTRIM, G. Fundamentos da filosofia: história e grandes temas. São Paulo: Saraiva, 2006. DELACHAMPAGNE. C. A filosofia política hoje. Rio de Janeiro: Zahar, 2001. GILPIN, R. O desafio do capitalismo global. Rio de Janeiro: Record, 2004. MARCONDES, D. Iniciação à história da filosofia: dos pré-socráticos a Wittgenstein. Rio de Janeiro: Zahar, 1997.
-
-SAVIAN, Juvenal. Argumentação. São Paulo, Martins Fontes, 2010.
-
-VERGES, André; HUISMAN, Denis. História dos filósofos ilustrada pelos textos. Rio de Janeiro: Freitas Bastos, 1984.
-
-79
-
-Ministerioda Educacao InstitutoFederal doParana
-
-INSTITUTOFEDERAL PARANA
-
-## **Objetivos**
-
-1. Perceber que os elementos que fazem parte da vida social são "construídos", sendo passíveis de uma "desconstrução" ou de uma "nova construção".
-
-2. Compreender a filosofia como um pensar crítico e reflexivo dialético e histórico;
-
-3. Distinguir as principais questões que norteiam a filosofia;
-
-4. Distinguir as principais características da filosofia que proporciona uma ação crítica;
-
-5. Desenvolver visão contextualizada das Informações;
-
-6. Identificar as percepções ideológicas do sistema capitalista;
-
-7. Compreender a existência de relações de poder que se constrói, as formas de interações culturais, sociais e econômicas em cada contexto;
-
-8. Participar em debates, tomando posição, defendendo-a argumentativamente e mudando de posição face a argumentos mais consistentes;
-
-9. Elaborar, por escrito, o que foi apropriado de modo reflexivo;
-
-10. Desenvolver a capacidade de raciocínio.
-
-80
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-**Curso:** Técnico em Informática **Eixo tecnológico** Informação e Comunicação **Componente curricular** Filosofia II **Carga horária** 40 horas/aula **Período letivo** 2ª Série **Ementa:** Conceitos da bioética, responsabilidade, política, tecnologia. Os filósofos contratualistas e o conceito de estado, poder, política, saberes, crise de representação. Estética. **Bibliografia básica:** ARANHA, Maria Lúcia de Arruda; MARTINS, Maria Helena Pires. Filosofando: introdução à filosofia. São Paulo: Editora Moderna, 2010. CHAUÍ, Marilena. Convite à filosofia. São Paulo: Ática, 2010. CHAUI, Marilena. Iniciação à Filosofia: ensino médio, volume único, 2. Ed. São Paulo: Ática, 2014. GAARDER, J. O mundo de Sofia. São Paulo: Cia das Letras, 1995. GARCIA, José Roberto. VELOSO, Valdecir da conceição. Eureka: construindo cidadãos reflexivos. Sophos, Florianópolis, 2007. **Bibliografia complementar:** BUZZI, A. R. Introdução ao pensar: o ser, o conhecimento, a linguagem. Petrópolis, RJ: Vozes, 2007. COTRIM, G. Fundamentos da filosofia: história e grandes temas. São Paulo: Saraiva, 2006. DELACHAMPAGNE. C. A filosofia política hoje. Rio de Janeiro: Zahar, 2001. FERNANDES, Florestan. **A revolução burguesa no Brasil.** São Paulo: Globo, 2005. FONTES, Virgínia. **O Brasil e o capital-imperialismo.** Teoria e história. Rio de Janeiro: EPSJV, UFRJ, 2010. FURTADO, Celso. **Formação econômica do Brasil.** 33. ed. São Paulo: Companhia Editora Nacional, 2004. GILPIN, R. O desafio do capitalismo global. Rio de Janeiro: Record, 2004. GRAMSCI, Antonio. **Concepção dialética da História.** Rio de Janeiro: Civilização Brasileira, 1981. IANNI, O. **Origens agrárias do estado brasileiro.** São Paulo: Brasiliense, 1984. PRADO JR., C. **Formação do Brasil contemporâneo.** São Paulo: Brasiliense, 2000. ABBAGNANO, N. Dicionário de filosofia. 4. ed. São Paulo: Mestre Jou, 2000. MARCONDES, D. Iniciação à história da filosofia: dos pré-socráticos a Wittgenstein. Rio de Janeiro: Zahar, 1997. SAVIAN, Juvenal. Argumentação. São Paulo, Martins Fontes, 2010. VERGES, André; HUISMAN, Denis. História dos filósofos ilustrada pelos textos. Rio de Janeiro: Freitas Bastos, 1984.
-
-81
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-|||
-|---|---|
-|Objetivos|
-|1.|Reconhecer a participação política como responsabilidade de todos;|
-|2. Estabelecer relação entre a omissão dos cidadãos e a permanência dos problemas sociais e das|
-|práticas de corrupção e injustiças;|
-|3. Identificar os principais direitos e deveres da cidadania, relacionando cidadania, trabalho e|
-|condições de vida, a partir de exemplos do cotidiano;|
-|4. Identificar e valorizar os direitos das minorias;|
-|5. Identificar as estruturas de poder nos mais variados ambientes sociais, como a escola, a|
-|comunidade e os espaços sociais mais amplos;|
-|6. Identificar a capacidade de pensar e buscar o conhecimento como fundamento da condição|
-|humana;|
-|7. Estabelecer relações entre o pensamento crítico e o comportamento ético – condição básica para o|
-|exercício da cidadania.|
-
-82
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-|||||
-|---|---|---|---|
-|Curso:|Técnico em Informática|Eixo tecnológico|Informação e Comunicação|
-|Componente curricular|Filosofia III|
-|Carga horária|40 horas/aula|Período letivo|3ª Série|
-|Ementa:|
-
-Crise de representação, revoluções, Marx, Foucault, Deleuze. Filosofia da tecnologia, subjetividade digital, sociedade do cansaço.
-
-**Bibliografia básica:** ARANHA, Maria Lúcia de Arruda; MARTINS, Maria Helena Pires. Filosofando: introdução à filosofia. São Paulo: Editora Moderna, 2010. CHAUÍ, Marilena. Convite à filosofia. São Paulo: Ática, 2010. CHAUI, Marilena. Iniciação à Filosofia: ensino médio, volume único, 2. Ed. São Paulo: Ática, 2014. GAARDER, J. O mundo de Sofia. São Paulo: Cia das Letras, 1995. GARCIA, José Roberto. VELOSO, Valdecir da conceição. Eureka: construindo cidadãos reflexivos. Sophos, Florianópolis, 2007. **Bibliografia complementar:** ABBAGNANO, N. Dicionário de filosofia. 4. ed. São Paulo: Mestre Jou, 2000. BUZZI, A. R. Introdução ao pensar: o ser, o conhecimento, a linguagem. Petrópolis, RJ: Vozes, 2007. COTRIM, G. Fundamentos da filosofia: história e grandes temas. São Paulo: Saraiva, 2006. DELACHAMPAGNE. C. A filosofia política hoje. Rio de Janeiro: Zahar, 2001. GILPIN, R. O desafio do capitalismo global. Rio de Janeiro: Record, 2004. MARCONDES, D. Iniciação à história da filosofia: dos pré-socráticos a Wittgenstein. Rio de Janeiro: Zahar, 1997. SAVIAN, Juvenal. Argumentação. São Paulo, Martins Fontes, 2010. VERGES, André; HUISMAN, Denis. História dos filósofos ilustrada pelos textos. Rio de Janeiro: Freitas Bastos, 1984.
-
-**Objetivos** 1. Comparar diferentes pontos de vista sobre situações de natureza sociocultural; 2. Identificar os pressupostos de cada interpretação e analisar a validade dos argumentos utilizados; 3. Identificar os mecanismos de estímulo ao consumismo; 4. Reconhecer a necessidade da reflexão – existencial e social – sobre a importância da escolha entre o “ter” e o “ser”; 5. Desenvolver a capacidade de encontrar sentido nas experiências; 6. Descobrir alternativas; 7. Descobrir a coerência; 8. Compreender as relações entre globalização, Informação e Comunicação, e perceber a importância da democratização do acesso à informação.
-
-83
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|
+|**Nível do**<br>**Cargo**|**TITULAÇÃO**|**TITULAÇÃO**|**DOS TÉCNICOS-ADMINISTRATIVOS**|**DOS TÉCNICOS-ADMINISTRATIVOS**|**DOS TÉCNICOS-ADMINISTRATIVOS**|**DOS TÉCNICOS-ADMINISTRATIVOS**||
 |---|---|---|---|---|---|---|---|
-|**Curso:**|Técnico em Informática||**Eixo tecnológico**||Informação e Comunicação|||
-|**Componente curricular**|||Filosofia IV|||||
-|**Carga horária**||40 horas/aula||**Período letivo**||4ª Série||
-|**Ementa:**<br>Economia política da informação, cultura, subjetividade digital. Ética  profissional.Sociedade de<br>controle. O conceito de tecnologia, Álvaro Vieira Pinto.||||||||
-|**Bibliografia básica:**<br>ARANHA, Maria Lúcia de Arruda; MARTINS, Maria Helena Pires. Filosofando: introdução à filosofia.<br>São Paulo: Editora Moderna, 2010.<br>CHAUÍ, Marilena. Convite à filosofia. São Paulo: Ática, 2010.<br>CHAUI, Marilena. Iniciação à Filosofia: ensino médio, volume único, 2. Ed. São Paulo: Ática, 2014.<br>GAARDER, J. O mundo de Sofia. São Paulo: Cia das Letras, 1995.<br>GARCIA, José Roberto. VELOSO, Valdecir da conceição. Eureka: construindo cidadãos reflexivos.<br>Sophos, Florianópolis, 2007.||||||||
-|**Bibliografia complementar:**<br>ABBAGNANO, N. Dicionário de filosofia. 4. ed. São Paulo: Mestre Jou, 2000.<br>BUZZI, A. R. Introdução ao pensar: o ser, o conhecimento, a linguagem. Petrópolis, RJ: Vozes, 2007.<br>COTRIM, G. Fundamentos da filosofia: história e grandes temas. São Paulo: Saraiva, 2006.<br>DELACHAMPAGNE. C. A filosofia política hoje. Rio de Janeiro: Zahar, 2001.<br>GILPIN, R. O desafio do capitalismo global. Rio de Janeiro: Record, 2004.<br>MARCONDES, D. Iniciação à história da filosofia: dos pré-socráticos a Wittgenstein. Rio de Janeiro:<br>Zahar, 1997. <br>SAVIAN, Juvenal. Argumentação. São Paulo, Martins Fontes, 2010.<br>VERGES, André; HUISMAN, Denis. História dos filósofos ilustrada pelos textos. Rio de Janeiro: Freitas<br>Bastos,1984.||||||||
-|**Objetivos**||||||||
-|1. Valorizar a atitude crítica como base para a imaginação, o planejamento e a construção de novas<br>realidades sociais;<br>2. Estabelecer relações para diferenciar as práticas escolares que valorizam a curiosidade intelectual<br>e a reflexão das rotinas;<br>3. Descobrir a capacidade de oferecer razões para as crenças;<br>4. Desenvolver a capacidade de investigação e compreensão: aprender a perceber, reconhecer,<br>definir, atingir, constatar, enfatizar, explicar;<br>5. Compreender as relações de trabalho e de sociedade no mundo globalizado e identificar os desafios<br>representados pelas desigualdades sociais;<br>6. Estabelecer relações entre globalização econômica e as esferas política e cultural;<br>7. Identificar as principais características e consequências da globalização, com foco na<br>interdependência entre as economias nacionais,acentuadapor esseprocesso.||||||||
+||**Médio**<br>**Técnico**|**Graduação**|**Especialização**|**Mestrado**|**Doutorado**|**TOTAL**||
+|C|0|1|4|0|0|5||
+|D|1|0|7|2|0|10||
+|E|0|1|2|3|0|6||
 
-84
+## **QUADRO GERAL DOS TÉCNICOS DO CAMPUS COLOMBO**
 
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|
-|---|---|---|---|---|---|---|
-|**Curso:**|Técnico em Informática||**Eixo tecnológico**||Informação e Comunicação||
-|**Componente curricular**|||Sociologia I||||
-|**Carga horária**||40 horas/aula||**Período letivo**||1ª Série|
-|**Ementa:**<br>A sociologia como ciência da sociedade. Indivíduo e sociedade. Cultura e Socialização.  Teorias<br>Sociológicas Clássicas. Estratificação social. Direitos e cidadania. Temas da Sociologia<br>Contemporânea.|||||||
-|**Bibliografia básica:**<br>BENSAÏD, D.**Marx, manual de instruções.**São. Paulo: Boitempo Editorial, 2013.<br>CONDER COMPARATO, F.**A afirmação histórica dos direitos humanos.**São Paulo: Saraiva, 2013.<br>MUNANGA, K., GOMES, N.L.**O negro no Brasil de hoje**. São Paulo: Global, 2006.<br>OLIVEIRA, L.F., COSTA, R.C.R.**Sociologia para jovens do século XXI**. Rio de Janeiro: Imperial Novo<br>Milênio, 2007.<br>QUINTANEIRO, T.; BARBOSA, M. L. O.; OLIVEIRA, M. G.**Um toque de clássicos:**Marx, Durkheim<br>e Weber. 2. Ed. Belo Horizonte, MG: Ed. UFMG, 2002.<br>SAFFIOTI, H.**A mulher na sociedade de classes:**mito e realidade. São Paulo: Expressão Popular,<br>2013.<br>TOMAZI, N. D.**Iniciação à sociologia.**São Paulo: Atual, 2000.<br>______.**Sociologiapara o ensino médio.**São Paulo: Saraiva,2010.|||||||
-|**Bibliografia complementar:**<br>FERNANDES, Florestan.**O negro no mundo dos brancos**. São Paulo: Difusão Européia do Livro,<br>1972.<br>FREIRE, G.**Casa grande e senzala**. 47. ed. São Paulo: Círculo do Livro. 1995.<br>MARX, K.**O capital:**crítica da economia política. 18. ed. Rio de Janeiro: Civilização Brasileira, 2002.<br>L.1.<br>______.**Manifesto do partido comunista**. 3. ed. Petrópolis: Vozes, 1990.<br>SILVA, Afrânio… [et al.]**Sociologia em movimento.**São Paulo, Moderna, 2013.<br>WEBER,Max.**Ciência e Política:**duas Vocações. São Paulo: Editora Cultrix,2010.|||||||
-
-85
-
-Ministerioda Educacao InstitutoFederal doParana
-
-INSTITUTOFEDERAL PARANA
-
-## **Objetivos**
-
-1. Conhecer o contexto do surgimento do pensamento social e o objeto de estudo da Sociologia. 2. Refletir sobre a influência das instituições e grupos sociais na formação da identidade individual e social, bem como a interdependência das ações nas relações sociais.
-
-3. Compreender as diferentes culturas como processo de mudanças e adaptações, ressaltando que não existe hierarquia cultural, tendo em vista que cada contexto possui uma lógica própria de compreensão do mundo.
-
-4. Compreender os conceitos trabalhados pelas teorias Funcionalista (Durkheim), Compreensiva (Weber) e Materialista Dialética (Marx).
-
-5. Relacionar as desigualdades sociais à posição ocupada pelos diferentes grupos, no processo social de produção.
-
-6. Compreender o contexto histórico da conquista de direitos e sua relação com a cidadania.
-
-7. Identificar e valorizar os direitos das minorias sexuais, geracionais, raciais e étnicas.
-
-8. Identificar grupos que se encontram em situação de vulnerabilidade em nossa sociedade, problematizando a necessidade de garantia de seus direitos básicos.
-
-86
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|
-|---|---|---|---|---|---|---|
-|**Curso:**|Técnico em Informática||**Eixo tecnológico**||Informação e Comunicação||
-|**Componente curricular**|||Sociologia II||||
-|**Carga horária**||40 horas/aula||**Período letivo**||2ª Série|
-|**Ementa:**<br>Concepção de trabalho. O trabalho em diferentes sociedades. O trabalho na sociedade capitalista.  A<br>questão agrária. A formação social brasileira e a teoria da dependência. Legislação trabalhista. Meio<br>ambiente e sociedade. Estado e poder político. Formas históricas do Estado Capitalista. Democracia.<br>Partidos políticos.|||||||
-|**Bibliografia básica:**<br>DUVERGER, M.**Os partidos políticos**. Rio de Janeiro: Zahar, 1980.<br>HUBERMAN, L. A.**História da riqueza do homem.**Trad. da 3. ed. Rio de Janeiro: LTC,1986.<br>LÖWY, M.**O que é ecossocialismo?**São Paulo, Cortez, 2005.<br>MARX, K.**A revolução antes da revolução.**São Paulo: Expressão Popular, 2008. Vol. 2.<br>MANDEL, E.**Teoria Marxista de Estado.**Lisboa: Antidoto, 1977.<br>OLIVEIRA, L.F., COSTA, R.C.R.**Sociologia para jovens do século XXI**. Rio de Janeiro: Imperial Novo<br>Milênio, 2007.<br>SADER, E.(Org.).**Dialética da dependência: uma antologia da obra de Ruy Mauro Marini.**<br>Petrópolis, RJ: Vozes; Buenos Aires: CLACSO, 2000.<br>TOMAZI,N. D.**Sociologiapara o ensino médio.**São Paulo: Saraiva,2010.|||||||
-|**Bibliografia complementar:**<br>GRAMSCI, Antonio.**Concepção dialética da História.**Rio de Janeiro: Civilização Brasileira, 1981.<br>CARDOSO, F.H. & FALETTO, E.**Dependência e desenvolvimento na América Latina.**Rio de<br>Janeiro: Zahar, 1993.<br>FERNANDES, Florestan.**A revolução burguesa no Brasil.**São Paulo: Globo, 2005.<br>FONTES, Virgínia.**O Brasil e o capital-imperialismo.**Teoria e história. Rio de Janeiro: EPSJV, UFRJ,<br>2010.<br>FURTADO, Celso.**Formação econômica do Brasil.**33. ed. São Paulo: Companhia Editora Nacional,<br>2004.<br>GALEANO, E.**As veias abertas da América Latina.**Rio de Janeiro: Paz e Terra, 2000.<br>HOLANDA, Sérgio Buarque de.**Raízes do Brasil**. 26. ed. São Paulo: Companhia das Letras, 1995.<br>IANNI,<br>O.<br>**Origens**<br>**agrárias**<br>**do**<br>**estado**<br>**brasileiro.**<br>São<br>Paulo:<br>Brasiliense,<br>1984.<br>PRADO JR., C.**Formação do Brasil contemporâneo.**São Paulo: Brasiliense, 2000.<br>RIBEIRO, D.**O povo brasileiro:**a formação e o sentido do Brasil. 2a ed. São Paulo: Companhia das<br>Letras, 2005.<br>SKINNER, Quentin.**As fundações do pensamento político moderno**. São Paulo: Companhia das<br>Letras,2006.|||||||
-
-87
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-**Objetivos** 1. Compreender o papel do trabalho como elemento de transformação da natureza e de humanização. 2. Compreender o sentido do trabalho na realidade atual, levando em conta suas transformações nas diversas sociedades ao longo do tempo. 3. Compreender os fundamentos da alienação do trabalho e da exploração da força de trabalho na sociedade capitalista. 4. Compreender o processo histórico de concentração fundiária e a importância das lutas pela reforma agrária como elemento de democratização da sociedade brasileira. 5. Compreender as principais características da formação social brasileira e as explicações teóricas da nossa dependência econômica em relação aos países imperialistas. 6. Identificar o processo de destruição ambiental e compreender suas causas e consequências. 7. Compreender o processo de formação do Estado Moderno e o seu papel segundo as teorias sociológicas. 8. Conhecer e analisar de forma crítica as diferentes configurações assumidas pelo Estado Capitalista ao longo da história 9. Identificar os pressupostos teóricos do regime democrático e suas diferentes configurações. 10. Identificar os principais tipos de organização partidária e entender a importância dos partidos para o estabelecimento de uma sociedade democrática.
-
-88
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|
-|---|---|---|---|---|---|---|
-|**Curso:**|Técnico em Informática||**Eixo tecnológico**||Informação e Comunicação||
-|**Componente curricular**|||Sociologia III||||
-|**Carga horária**||40 horas/aula||**Período letivo**||3ª Série|
-|**Ementa:**<br>Ideologia, consciência de classe e revolução social. As revoluções burguesas. As revoluções<br>socialistas. Movimentos sociais contemporâneos. Diversidade, alteridade e identidade cultural. Culturas<br>indígenas e afrodescendentes. Indústria Cultural. Globalização e culturas híbridas. Contracultura.|||||||
-|**Bibliografia básica:**<br>BENSAÏD, D.**Marx, manual de instruções.**São. Paulo: Boitempo Editorial, 2013.<br>GARCIA, M.A.; VIEIRA, M. A. (Orgs.).**Rebeldes e Contestadores. 1968: Brasil, França e Alemanha.**<br>São Paulo: Fundação Perseu Abramo, 1999.<br>LARAIA, R.B.**Cultura, um conceito antropológico**. Rio de Janeiro: JorgeZahar, 2004.<br>MACHADO, I.J.R… [et al.]**Sociologia hoje:**volume único. São Paulo: Ática, 2013.<br>MANDEL, E.**_A_** **_Teoria Leninista da Organização_**. Lisboa: Edições Antídoto, 1975.<br>MARX, K.**A ideologia alemã**. São Paulo: Martin Claret, 2005.<br>OLIVEIRA, L.F., COSTA, R.C.R.**Sociologia para jovens do século XXI**. Rio de Janeiro: Imperial Novo<br>Milênio, 2007.<br>ORTIZ, Renato.**Cultura brasileira e identidade nacional**. São Paulo: Brasiliense, 2006.<br>PRADO JR., C; FERNANDES, F.**Clássicos sobre a revolução brasileira**. São Paulo: Expressão<br>Popular, 2000.<br>TOMAZI, N.D.**Iniciação à sociologia.**São Paulo: Atual, 2000.<br>TROTSKY, Leon.**A revolução russa.**São Paulo: Boitempo Editorial, 2007.<br>URSO, G.S. (ORG.)**A revolução das mulheres:**emancipação feminina na Rússia soviética: artigos,<br>ataspanfletos,ensaios. São Paulo: Boitempo Editorial,2017.|||||||
-|**Bibliografia complementar:**<br>GRAMSCI, Antonio.**Concepção dialética da História.**Rio de Janeiro: Civilização Brasileira, 1981.<br>MUNANGA, K.**Negritude:**usos e sentidos. São Paulo: Ática. 1986.<br>NASCIMENTO, A.**O quilombismo:**documentos de uma militância pan-africanista. Brasília: Fundação<br>Cultural Palmares/ Rio de Janeiro: OR Editor Produtor Editor, 2002.<br>PANTOJA, S.**Nzinga Mbandi:**mulher, guerra e escravidão. Brasília: Thesaurus, 2000.<br>SILVA,Afrânio…[et al.] **Sociologia em movimento.**São Paulo,Moderna,2013.|||||||
-
-89
-
-## 1INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Objetivos**
-
-1. Relacionar as diferentes concepções do mundo com a manutenção ou transformação social. 2. Identificar o surgimento do capitalismo como produto da crise do feudalismo e da luta de classes associada a ela. 3. Identificar os limites e as potencialidades das revoluções sociais que tentaram superar a sociedade capitalista 4. Identificar os principais movimentos rurais e urbanos voltados à superação dos problemas sociais, políticos e econômicos enfrentados pela sociedade brasileira, ao longo da história. 5. Reconhecer a importância dos movimentos sociais pela melhoria das condições de vida e de trabalho, ao longo da história. 6. Compreender os elementos socioculturais que constituem as identidades, a partir do estudo das questões de alteridade e do uso de dados e informações de natureza variada. 7. Desconstruir as ideologias preconceituosas e discriminatórias quanto a raça, relações de gênero, orientação sexual, religião e classe social presentes no imaginário social. 8. Identificar as principais características das culturas indígenas e afrodescendentes e desenvolver uma atitude de reconhecimento e respeito nas relações de alteridade cultural. 9. Compreender os conceitos de Indústria Cultural e ampliar a capacidade de análise e interpretação sobre as influências dos meios de comunicação, resultando no desenvolvimento de atitudes críticas. 10. Compreender o papel dos movimentos sociais na transformação dos discursos e práticas culturais.
-
-90
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|
-|---|---|---|---|---|---|---|
-|**Curso:**|Técnico em Informática||**Eixo tecnológico**||Informação e Comunicação||
-|**Componente curricular**|||Sociologia IV||||
-|**Carga horária**||40 horas/aula||**Período letivo**||4ª Série|
-|**Ementa:**<br>A organização do trabalho na sociedade capitalista. Acumulação flexível e precarização do trabalho.<br>Mercado de trabalho no Brasil contemporâneo. A revolução informacional. Economia solidária e<br>autogestão.|||||||
-|**Bibliografia básica:**<br>ALVES, Giovanni.**O novo (e precário) mundo do trabalho: reestruturação produtiva e crise do**<br>**sindicalismo**. São Paulo, Boitempo, 2000.<br>ANTUNES, R. ANTUNES, R. (ORG).**Riqueza e miséria do trabalho no Brasil III.**São Paulo,<br>Boitempo Editorial, 2014.<br>ANTUNES, R.; Braga, R. Infoproletários: degradação real do trabalho virtual. São Paulo, Boitempo<br>Editorial, 2009.<br>BRAGA, R.**A política do precariado: do populismo à hegemonia lulista.**São Paulo: Boitempo<br>Editorial, 2012.<br>_______.**A rebeldia do precariado**: Trabalho e neoliberalismo no Sul Global. São Paulo: Boitempo<br>Editorial, 2017.<br>DAGNINO, R. (Org.).**Tecnologia social: ferramenta para construir outra sociedade**. 2 ed.<br>Campinas: Komedi, 2010. v. 1.<br>MACHADO, I.J.R… [et al.]**Sociologia hoje:**volume único. São Paulo: Ática, 2013.<br>NOVAES, H.T.; MAZIN, A.D.; SANTOS, L.**Questão agrária, cooperação e agroecologia – volume**<br>**I.**São Paulo: Outras Expressões, 2015.<br>OLIVEIRA, L.F., COSTA, R.C.R.**Sociologia para jovens do século XXI**. Rio de Janeiro: Imperial Novo<br>Milênio, 2007.<br>PINTO, G. A.**A organização do trabalho no século 20: taylorismo, fordismo e toyotismo.**2ª ed.<br>São Paulo: Expressão Popular, 2010.<br>SINGER, A.; LOUREIRO, I. (orgs.).**As contradições do lulismo:**a que ponto chegamos?. São Paulo:<br>Boitempo Editorial,2017.|||||||
-|**Bibliografia complementar:**<br>HARVEY, D.**17 contradições e o fim do capitalismo**. São Paulo: Boitempo Editorial, 2016.<br>LIGUORI, G; e VOZA, P.**Dicionário gramsciano (1926-1937).**São Paulo: Boitempo Editorial, 2017.<br>MARX, K.**O capital:**Crítica da economia política.**Livro III**: O processo global da produção capitalista.<br>São Paulo: Boitempo Editorial, 2017.<br>POSTEPONE, M.**Tempo, trabalho e dominação social**: uma reinterpretação da teoria crítica de<br>Marx. São Paulo, Boitempo Editorial, 2014.<br>SILVA, Afrânio… [et al.]**Sociologia em movimento.**São Paulo, Moderna, 2013.<br>TOMAZI,N. D.**Sociologiapara o ensino médio.**São Paulo: Saraiva,2010.|||||||
-
-91
-
-1INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Objetivos**
-
-1. Conhecer as diferentes formas de organização do trabalho na sociedade capitalista e compreender o modo particular em que cada uma delas promove a subsunção do trabalho ao capital. 2. Relacionar a tecnologia, a vida social e o mundo do trabalho, e identificar os efeitos dos processos de modernização do trabalho sobre os níveis de emprego, os perfis profissionais e o aumento das ocupações informais. 3. Compreender como as novas tecnologias e as transformações na ordem econômica levam a mudanças no mundo do trabalho e exigem novos perfis de qualificação. 4. Conhecer a possibilidade de organizar a produção social através de critérios não mercantis.
-
-92
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-**Curso:** Técnico em Informática **Eixo tecnológico** Informação e Comunicação **Componente curricular** Biologia I **Carga horária** 40 horas/aula **Período letivo** 1ª Série **Ementa:** Métodos de estudos na Biologia e nas Ciências da Natureza. Os seres vivos e níveis de organização. Taxonomia. As primeiras formas de vida na Terra. Classificação dos seres vivos. Química da vida e suas relações com nutrição saudável e cultura alimentar. Citologia. Bioquímica e energética celular. Núcleo celular, código genético (manipulação genética, bioética, organismos geneticamente modificados). Divisões celulares.
-
-|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|
-|---|---|---|---|---|---|---|
-|**Curso:**|Técnico em Informática||**Eixo tecnológico**||Informação e Comunicação||
-|**Componente curricular**|||Biologia I||||
-|**Carga horária**||40 horas/aula||**Período letivo**||1ª Série|
-|**Ementa:**<br>Métodos de estudos na Biologia e nas Ciências da Natureza. Os seres vivos e níveis de organização.<br>Taxonomia. As primeiras formas de vida na Terra. Classificação dos seres vivos. Química da vida e<br>suas relações com nutrição saudável e cultura alimentar. Citologia. Bioquímica e energética celular.<br>Núcleo celular, código genético (manipulação genética, bioética, organismos geneticamente<br>modificados). Divisões celulares.|||||||
-|**Bibliografia básica:**<br>AMABIS, J. M.; MARTHO, G. R.**Biologi**a. v. 1. 3ª Ed. Moderna, 2010.<br>AMABIS, J. M.; MARTHO, G. R.**Biologia**. v. 2. 3ª Ed. Moderna, 2010.<br>AMABIS, J. M.; MARTHO, G. R.**Biologia**. v. 3. 3ª Ed. Moderna, 2010.<br>LOPES, Sônia; ROSSO, Sergio.**BIO**– volume 1. São Paulo: Saraiva, 2010.<br>LOPES, Sônia; ROSSO, Sergio.**BIO**– volume 2. São Paulo: Saraiva, 2010.<br>LOPES, Sônia; ROSSO, Sergio.**BIO**– volume 3. São Paulo: Saraiva, 2010.<br>PURVES, Willian K. et al**. Vida - A Ciência da Biologia: Célula e Hereditariedade**. Vol.1. 8ª Ed. Porto<br>Alegre: Artmed. 2009.<br>PURVES, Willian K.**Vida: a ciência da biologia: evolução, diversidade e ecologia**. Vol 2. 8ªed. Porto<br>Alegre: Artmed. 2009.<br>PURVES, Willian K.**Vida: a ciência da biologia: plantas e animais**. Vol. 3. 8ªed. Porto Alegre:<br>Artmed. 2009.|||||||
-|**Bibliografia complementar:**<br>ABBAS, A. K.; LICHTMAN; A. H.; PILL, S.**Imunologia celular e molecular**. 7. ed. Rio de Janeiro:<br>Elsevier. 2012.<br>ALBERTS, B. et al.**Biologia molecular da célula**. 3. ed. Porto Alegre: Artmed, 2004.<br>BROCK, Thomas D.**Microbiologia de Brock**. São Paulo: Prentice Hall, 2008.<br>CARVALHO, I.S.**Paleontologia**. Rio de Janeiro: Interciência, 2004. 2 v.<br>FUTUYMA, D. G.**Biologia evolutiva**. 2. ed. Ribeirão Preto: FUNPEC, 2002.<br>GARCIA, S. M. L. FERNÁNDEZ, C. G.**Embriologia**. 3. ed. Porto Alegre: Artmed, 2012.<br>GUYTON, A.C., HALL, J.E**Tratado de fisiologia médica**. 10. ed. Rio de Janeiro: Guanabara Koogan,<br>2002.<br>HICKMAN, C.P.C.; ROBERTS, L.S.; LARSON, A.**Princípios integrados de zoologia**. 11. ed. Rio de<br>Janeiro: Guanabara Koogan, 2009.<br>JUNQUEIRA, L.C.; CARNEIRO, J.**Histologia básica**. 11. ed. Rio de Janeiro: Guanabara Koogan,<br>2008.<br>LEHNINGER, A.L., NELSON, D.L., COX, M.M.**Princípios de bioquímica**. 4 ed. São Paulo: Sarvier,<br>2006.<br>RAVEN, P.H.; EVERT, R.F.; EICHHORN, S.E.**Biologia vegetal.**7. ed. Rio de Janeiro: Guanabara<br>Koogan, 2007.<br>RICKLEFS,R. E.**A economia da natureza**. Rio de Janeiro: Guanabara Koogan,2003.|||||||
-
-93
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-RUPPERT, E.E.; BARNES, R.D. **Zoologia de invertebrados.** 6. ed. São Paulo: Roca, 1996. SOBOTTA, J. **Atlas de anatomia humana** . 22. ed. Rio de Janeiro: Guanabara Koogan, 2006. (2v.) TAIZ, L.; ZEIGER, E. **Fisiologia vegetal.** 4. ed. Porto Alegre: ARTMED, 2008.
-
-|**Objetivos**|
-|---|
-|**Objetivos gerais**|
-|1. Extrair informações relevantes de diferentes fontes, como textos, tabelas ou gráficos, interpretá-las|
-|e relacioná-las.|
-|2. Ser capaz de realizar pesquisas de modo crítico e autônomo, estando apto a buscar, comparar,|
-|construir e disseminar o conhecimento.|
-|3. Fazer uso de modos de comunicação e de interação para aplicação e divulgação de conhecimentos|
-|científicos e tecnológicos, sabendo comunicar de forma escrita ou oral resultados e argumentos de|
-|base científica, sendo capaz de debater, respeitar opiniões e levar em conta argumentos contrários.|
-|4. Compreender a ciência como um empreendimento humano, construído histórica e socialmente,|
-|sendo os princípios científicos sínteses provisórias de uma construção ininterrupta.|
-|5. Relacionar as finalidades de produtos, sistemas ou procedimentos tecnológicos às suas|
-|propriedades físicas, químicas ou biológicas.|
-|6. Ter responsabilidade com prazos e realização de tarefas assumidas em atividades em grupo ou|
-|individuais, desenvolvendo o respeito, a proatividade, a empatia, o empreendedorismo e a criatividade.|
-|7. Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionar-se quanto|
-|a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos, culturais,|
-|religiosos e de qualquer outra natureza.|
-|8. Identificar valores humanos, éticos e morais relacionados à aplicação dos conhecimentos científicos|
-|e tecnológicos, sendo capaz de refletir e agir criticamente levando em conta essa relação.|
-|9. Identificar problemas, propor, desenvolver, implementar e testar soluções relacionadas à área|
-|técnica e à dinâmica das relações interpessoais existentes no ambiente escolar e de trabalho.|
-|**Objetivos específicos**|
-|1.<br>Usar conhecimentos da Biologia para, em situações-problema, interpretar, avaliar e planejar|
-|intervenções científico-tecnológicas; Compreender interações entre os organismos e o ambiente, em|
-|particular aquelas relacionadas à saúde humana, relacionando conhecimentos científicos, aspectos|
-|culturais e características individuais.|
-|2.<br>Caracterizar saúde humana e a saúde ambiental, identificar razões da distribuição desigual da|
-|saúde e de agressões à saúde das populações.|
-|3.<br>Interpretar modelos e experimentos para explicar fenômenos ou processos biológicos em|
-|todos os níveis de organização dos sistemas biológicos.|
-|4.<br>Conhecer e compreender os sistemas de classificação dos seres vivos em reinos, domínios e|
-|demais categorias taxonômicas e filogenia.|
-|5.<br>Relacionar a constituição da atmosfera terrestre primitiva aos componentes essenciais para o|
-|surgimento da vida.|
-|6.<br>Conhecer as teorias a respeito da origem da vida, geração espontânea e biogênese.|
-|7.<br>Compreender a origem e a discussão a respeito da teoria celular como modelo de explicação|
-|da constituição dos organismos e reconhecer a célula como unidade estrutural e funcional dos seres|
-|vivos. Além de classificar e compreender os seres vivos quanto ao número de células (uni e|
-|pluricelular), organização celular (procarionte e eucarionte), forma de obtenção de energia (autótrofo|
-|e heterótrofo) e tipo de reprodução (sexuada e assexuada).|
-|8.<br>Conhecer a constituição das células, identificar as organelas citoplasmáticas, estabelecendo|
-|relações entre elas com as funções celulares e com o funcionamento do organismo.|
-
-94
-
-Ministerioda Educacao InstitutoFederal doParana
-
-INSTITUTOFEDERAL PARANA
-
-|9.<br>Entender os fundamentos da estrutura química da célula, bem como, identificar e compreender|
-|---|
-|seus mecanismos biofísicos e bioquímicos de homeostase, relacionando estes conhecimentos a|
-|manutenção de hábitos de vida saudáveis.|
-|10.<br>Compreender o fenômeno da fotossíntese, da respiração e demais processos de conversão|
-|de energia na célula.|
-|11.<br>Entender a constituição dos sistemas orgânicos e fisiológicos como um todo integrado|
-|12.<br>Compreender as relações entre os órgãos e sistemas animais e vegetais a partir do|
-|entendimento dos mecanismos celulares|
-|13.<br>Entender os processos de divisão celular e reconhecer as fases do ciclo celular,|
-|estabelecendo relações entre estes eventos com aspectos relacionados à saúde humana, como a|
-|gametogênese.|
-|25.<br>Reconhecer e analisar as diferentes teorias sobre a origem da vida e da evolução das|
-|espécies.|
-|26.<br>Compreender o processo de transmissão das características hereditárias entre os seres vivos.|
-|27.<br>Reconhecer a importância da constituição genética para a manutenção da diversidade dos|
-|seres vivos.|
-|29.<br>Discutir e analisar os interesses econômicos, políticos, aspectos éticos e bioéticos da pesquisa|
-|científica que envolvem a manipulação genética, relacionando os conhecimentos biotecnológicos às|
-|alteraçõesproduzidaspelo ser humano na diversidade biológica.|
-
-95
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|
-|---|---|---|---|---|---|---|
-|**Curso:**|Técnico em Informática||**Eixo tecnológico**||Informação e Comunicação||
-|**Componente curricular**|||Biologia II||||
-|**Carga horária**||80 horas/aula||**Período letivo**||2ª Série|
-|**Ementa:**<br>Gametogênese e embriologia. Planejamento familiar e prevenção às DST’s e à AIDS. Histologia. Vírus<br>e doenças humanas relacionadas. Bactérias: processos ecológicos e doenças humanas relacionadas.<br>Fungos: características, importância para o homem.  Protistas: diversidade e ecologia. Plantas:<br>classificação, morfologia e fisiologia vegetais. Animais: filos e fisiologia comparada. Fisiologia humana:<br>sistemas: digestório, circulatório, respiratório, excretor, nervoso, endócrino, reprodutor.|||||||
-|**Bibliografia básica:**<br>AMABIS, J. M.; MARTHO, G. R.**Biologia**. v. 1. 3ª Ed. Moderna, 2010.<br>AMABIS, J. M.; MARTHO, G. R.**Biologia**. v. 2. 3ª Ed. Moderna, 2010.<br>AMABIS, J. M.; MARTHO, G. R.**Biologi**a. v. 3. 3ª Ed. Moderna, 2010.<br>LOPES, Sônia; ROSSO, Sergio.**BIO**– volume 1. São Paulo: Saraiva, 2010.<br>LOPES, Sônia; ROSSO, Sergio.**BIO**– volume 2. São Paulo: Saraiva, 2010.<br>LOPES, Sônia; ROSSO, Sergio.**BIO**– volume 3. São Paulo: Saraiva, 2010.<br>PURVES, Willian K. et al.**Vida - A Ciência da Biologia: Célula e Hereditariedade**. Vol.1. 8ª Ed. Porto<br>Alegre: Artmed. 2009.<br>PURVES, Willian K.**Vida: a ciência da biologia: evolução, diversidade e ecologia**. Vol 2. 8ªed. Porto<br>Alegre: Artmed. 2009.<br>PURVES, Willian K.**Vida: a ciência da biologia: plantas e animais**. Vol. 3. 8ªed. Porto Alegre:<br>Artmed. 2009.|||||||
-|**Bibliografia complementar:**<br>ABBAS, A. K.; LICHTMAN; A. H.; PILL, S.**Imunologia celular e molecular**. 7. ed. Rio de Janeiro:<br>Elsevier. 2012.<br>ALBERTS, B. et al.**Biologia molecular da célula**. 3. ed. Porto Alegre: Artmed, 2004.<br>BROCK, Thomas D.**Microbiologia de Brock**. São Paulo: Prentice Hall, 2008.<br>CARVALHO, I.S.**Paleontologia**. Rio de Janeiro: Interciência, 2004. 2 v.<br>FUTUYMA, D. G.**Biologia evolutiva**. 2. ed. Ribeirão Preto: FUNPEC, 2002.<br>GARCIA, S. M. L.. FERNÁNDEZ, C. G.**Embriologia**. 3. ed. Porto Alegre: Artmed, 2012.<br>GUYTON, A.C., HALL, J.E**Tratado de fisiologia médica**. 10. ed. Rio de Janeiro: Guanabara Koogan,<br>2002.<br>HICKMAN, C.P.C.; ROBERTS, L.S.; LARSON, A.**Princípios integrados de zoologia**. 11. ed. Rio de<br>Janeiro: Guanabara Koogan, 2009.<br>JUNQUEIRA, L.C.; CARNEIRO, J.**Histologia básica**. 11. ed. Rio de Janeiro: Guanabara Koogan,<br>2008.<br>LEHNINGER, A.L., NELSON, D.L., COX, M.M.**Princípios de bioquímica**. 4 ed. São Paulo: Sarvier,<br>2006.<br>RAVEN, P.H.; EVERT, R.F.; EICHHORN, S.E.**Biologia vegetal**. 7. ed. Rio de Janeiro: Guanabara<br>Koogan, 2007.<br>RICKLEFS,R. E.**A economia da natureza.**Rio de Janeiro: Guanabara Koogan,2003.|||||||
-
-96
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-RUPPERT, E.E.; BARNES, R.D. **Zoologia de invertebrados.** 6. ed. São Paulo: Roca, 1996. SOBOTTA, J. **Atlas de anatomia humana** . 22. ed. Rio de Janeiro: Guanabara Koogan, 2006. (2v.) TAIZ, L.; ZEIGER, E. **Fisiologia vegetal** . 4. ed. Porto Alegre: ARTMED, 2008.
-
-## **Objetivos**
-
-## **Objetivos gerais:**
-
-Gametogênese e embriologia. Planejamento familiar e prevenção às DST’s e à AIDS. Histologia. Vírus e doenças humanas relacionadas. Bactérias: processos ecológicos e doenças humanas relacionadas. Fungos: características, importância para o homem.  Protistas: diversidade e ecologia. Plantas: classificação, morfologia e fisiologia vegetais. Animais: filos e fisiologia comparada. Fisiologia humana: sistemas digestório, circulatório, respiratório, excretor, nervoso, endócrino, reprodutor.
-
-- O conteúdo será tratado de forma contextualizada com a realidade do aluno e sempre que possível serão estudados temas transversais que envolvem meio ambiente, ética, pluralidade cultural, saúde e orientação sexual.
-
-Além disso, os conteúdos serão trabalhados de modo integrado com outras disciplinas do núcleo básico e, preferencialmente, com as disciplinas do núcleo técnico.
-
-## **Objetivos específicos**
-
-1. Usar conhecimentos da Biologia para, em situações-problema, interpretar, avaliar e planejar intervenções científico-tecnológicas; Compreender interações entre os organismos e o ambiente, em particular aquelas relacionadas à saúde humana, relacionando conhecimentos científicos, aspectos culturais e características individuais. 2. Caracterizar saúde humana e a saúde ambiental, identificar razões da distribuição desigual da saúde e de agressões à saúde das populações. 3. Interpretar modelos e experimentos para explicar fenômenos ou processos biológicos em todos os níveis de organização dos sistemas biológicos. 4. Conhecer e compreender os sistemas de classificação dos seres vivos em reinos, domínios e demais categorias taxonômicas e filogenia. 9. Entender os fundamentos da estrutura química da célula, bem como, identificar e compreender seus mecanismos biofísicos e bioquímicos de homeostase, relacionando estes conhecimentos a manutenção de hábitos de vida saudáveis. 11. Entender a constituição dos sistemas orgânicos e fisiológicos como um todo integrado 12. Compreender as relações entre os órgãos e sistemas animais e vegetais a partir do entendimento dos mecanismos celulares 13. Entender os processos de divisão celular e reconhecer as fases do ciclo celular, estabelecendo relações entre estes eventos com aspectos relacionados à saúde humana, como a gametogênese. 14. Entender a reprodução humana reconhecendo suas etapas e os principais órgãos, relacionando este conhecimento a estratégias de planejamento familiar. 15. Conhecer medidas de prevenção de doenças sexualmente transmissíveis, identificando seus agentes etiológicos. 16. Diferenciar os tipos celulares dos tecidos que compõem os sistemas biológicos (histologia) dos seres vivos e compreender o seu funcionamento. 17. Entender o funcionamento dos sistemas digestório, cardiovascular, respiratório, excretor, urinário, nervoso, locomotor, sensorial, reprodutor e endócrino e a integração entre eles. 18. Compreender a anatomia, morfologia, fisiologia e embriologia dos diferentes sistemas biológicos e seu funcionamento integrado nos seres vivos. 19. Conhecer as fases da embriogênese, identificar os anexos embrionários, bem como sua importância no desenvolvimento do embrião de modo a comparar e diferenciar o desenvolvimento embrionário nos diversos
-
-97
-
-Ministerioda Educacao InstitutoFederal doParana
-
-INSTITUTOFEDERAL PARANA
-
-## grupos do reino animal.
-
-20. Identificar e comparar as diferentes características dos grupos de seres vivos e dos vírus, tendo como base o pensamento evolutivo.
-
-21. Compreender o pensamento evolutivo como base do conhecimento biológico, ou seja, compreender o papel da evolução na produção de padrões, processos biológicos e na organização filogenética dos seres vivos.
-
-22. Reconhecer e diferenciar as relações de interdependência entre os seres vivos, destes com os vírus e as interações com o ambiente.
-
-23. Associar as características adaptativas dos organismos com seu modo de vida ou com seus limites de distribuição em diferentes ambientes, em especial os localizados no território brasileiro, identificar e diferenciar ecossistemas, comunidades e populações.
-
-26. Compreender o processo de transmissão das características hereditárias entre os seres vivos.
-
-27. Reconhecer a importância da constituição genética para a manutenção da diversidade dos seres vivos. 28. Reconhecer mecanismos de transmissão da vida, do DNA e das características hereditárias, explicando a manifestação dos atributos dos seres vivos e relacionando esses conhecimentos à genética humana e à saúde.
-
-29. Discutir e analisar os interesses econômicos, políticos, aspectos éticos e bioéticos da pesquisa científica que envolvem a manipulação genética, relacionando os conhecimentos biotecnológicos às alterações produzidas pelo ser humano na diversidade biológica.
-
-33. Entender o conceito de biodiversidade e sua amplitude de relações, como os seres vivos, os ecossistemas e os processos evolutivos.
-
-98
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|
-|---|---|---|---|---|---|---|
-|**Curso:**|Técnico em Informática||**Eixo tecnológico**||Informação e Comunicação||
-|**Componente curricular**|||Biologia III||||
-|**Carga horária**||40 horas/aula||**Período letivo**||3ª Série|
-|**Ementa:**<br>Genética: 1ª e 2ª Leis de Mendel. Heredogramas. Alelos múltiplos, herança dos grupos sanguíneos e<br>sistema ABO. Interação gênica (epistasia, poligênia e pleiotropia), Sexo e herança genética. Teorias<br>evolutivas, evidências da evolução e especiação. Bases genéticas da evolução e o princípio de Hardy-<br>Weinberg. Sistmática e filogenética. O conteúdo será tratado de forma contextualizada com a realidade<br>do aluno e sempre que possível serão estudados temas transversais que envolvem meio ambiente,<br>ética, pluralidade étnica e cultural e saúde. Além disso, os conteúdos serão trabalhados de modo<br>integrado com outras disciplinas do núcleo básico e, preferencialmente, com as disciplinas do núcleo<br>técnico.|||||||
-|**Bibliografia básica:**<br>AMABIS, J. M.; MARTHO, G. R.**Biologia.**v. 1. 3ª Ed. Moderna, 2010.<br>AMABIS, J. M.; MARTHO, G. R.**Biologia.**v. 2. 3ª Ed. Moderna, 2010.<br>AMABIS, J. M.; MARTHO, G. R.**Biologia.**v. 3. 3ª Ed. Moderna, 2010.<br>LOPES, S.; ROSSO, S.**BIO**– volume 1. São Paulo: Saraiva, 2010.<br>LOPES, S.; ROSSO, S.**BIO**– volume 2. São Paulo: Saraiva, 2010.<br>LOPES, S.; ROSSO, S.**BIO**– volume 3. São Paulo: Saraiva, 2010.<br>PURVES, W. K. et al.**Vida - A Ciência da Biologia: Célula e Hereditariedade**. Vol.1. 8ª Ed. Porto<br>Alegre: Artmed. 2009.<br>PURVES, W. K.**Vida: a ciência da biologia: evolução, diversidade e ecologia**. Vol. 2. 8ª ed. Porto<br>Alegre: Artmed. 2009.<br>PURVES, W. K.**Vida: a ciência da biologia: plantas e animais.**Vol. 3. 8ª ed. Porto Alegre: Artmed.<br>2009.|||||||
-|**Bibliografia complementar:**<br>ABBAS, A. K.; LICHTMAN; A. H.; PILL, S.**Imunologia celular e molecular**. 7. ed. Rio de Janeiro:<br>Elsevier. 2012.<br>ALBERTS, B._et al._ **Biologia molecular da célula**. 3. ed. Porto Alegre: Artmed, 2004.<br>BROCK, T. D.**Microbiologia de Brock**. São Paulo: Prentice Hall, 2008.<br>CARVALHO, I.S.**Paleontologia.**Rio de Janeiro: Interciência, 2004. 2 v.<br>FUTUYMA, D. G.**Biologia evolutiva**. 2. ed. Ribeirão Preto: FUNPEC, 2002.<br>GARCIA, S. M. L. FERNÁNDEZ, C. G.**Embriologia.**3. ed. Porto Alegre: Artmed, 2012.<br>GUYTON, A.C., HALL, J.E**Tratado de fisiologia médica.**10. ed. Rio de Janeiro: Guanabara Koogan,<br>2002.<br>HICKMAN, C.P.C.; ROBERTS, L.S.; LARSON, A.**Princípios integrados de zoologia**. 11. ed. Rio de<br>Janeiro: Guanabara Koogan, 2009.<br>JUNQUEIRA, L.C.; CARNEIRO, J.**Histologia básica.**11. ed. Rio de Janeiro: Guanabara Koogan,<br>2008.<br>LEHNINGER, A.L., NELSON, D.L., COX, M.M.**Princípios de bioquímica**. 4 ed. São Paulo: Sarvier,<br>2006.|||||||
-
-99
-
-INSTITUTOFEDERAL PARANA
-
-Ministerio da Educacao<br>InstitutoFederal doParana<br>
-
-RAVEN, P.H.; EVERT, R.F.; EICHHORN, S.E. **Biologia vegetal.** 7. ed. Rio de Janeiro: Guanabara Koogan, 2007.
-
-RICKLEFS, R. E. **A economia da natureza** . Rio de Janeiro: Guanabara Koogan, 2003. RUPPERT, E.E.; BARNES, R.D. **Zoologia de invertebrados.** 6. ed. São Paulo: Roca, 1996. SOBOTTA, J. **Atlas de anatomia humana.** 22. ed. Rio de Janeiro: Guanabara Koogan, 2006. (2v.) TAIZ, L.; ZEIGER, E. **Fisiologia vegetal.** 4. ed. Porto Alegre: ARTMED, 2008.
-
-## **Objetivos**
-
-**Objetivos gerais** 1. Extrair informações relevantes de diferentes fontes, como textos, tabelas ou gráficos, interpretá-las e relacioná-las. 2. Ser capaz de realizar pesquisas de modo crítico e autônomo, estando apto a buscar, comparar, construir e disseminar o conhecimento. 3. Fazer uso de modos de comunicação e de interação para aplicação e divulgação de conhecimentos científicos e tecnológicos, sabendo comunicar de forma escrita ou oral resultados e argumentos de base científica, sendo capaz de debater, respeitar opiniões e levar em conta argumentos contrários. 4. Compreender a ciência como um empreendimento humano, construído histórica e socialmente, sendo os princípios científicos sínteses provisórias de uma construção ininterrupta. 5. Relacionar as finalidades de produtos, sistemas ou procedimentos tecnológicos às suas propriedades físicas, químicas ou biológicas. 6. Ter responsabilidade com prazos e realização de tarefas assumidas em atividades em grupo ou individuais, desenvolvendo o respeito, a proatividade, a empatia, o empreendedorismo e a criatividade. 7. Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionarse quanto a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos, culturais, religiosos e de qualquer outra natureza. 8. Identificar valores humanos, éticos e morais relacionados à aplicação dos conhecimentos científicos e tecnológicos, sendo capaz de refletir e agir criticamente levando em conta essa relação. 9. Identificar problemas, propor, desenvolver, implementar e testar soluções relacionadas à área técnica e à dinâmica das relações interpessoais existentes no ambiente escolar e de trabalho. **Objetivos específicos** 1. Usar conhecimentos da Biologia para, em situações-problema, interpretar, avaliar e planejar intervenções científico-tecnológicas; Compreender interações entre os organismos e o ambiente, em particular aquelas relacionadas à saúde humana, relacionando conhecimentos científicos, aspectos culturais e características individuais. 2. Caracterizar saúde humana e a saúde ambiental, identificar razões da distribuição desigual da saúde e de agressões à saúde das populações. 3. Interpretar modelos e experimentos para explicar fenômenos ou processos biológicos em todos os níveis de organização dos sistemas biológicos. 4. Conhecer e compreender os sistemas de classificação dos seres vivos em reinos, domínios e demais categorias taxonômicas e filogenia. 20. Identificar e comparar as diferentes características dos grupos de seres vivos e dos vírus, tendo como base o pensamento evolutivo. 21. Compreender o pensamento evolutivo como base do conhecimento biológico, ou seja, compreender o papel da evolução na produção de padrões, processos biológicos e na organização filogenética dos seres vivos. 22. Reconhecer e diferenciar as relações de interdependência entre os seres vivos, destes com os vírus e as interações com o ambiente. 25. Reconhecer e analisar as diferentes teorias sobre a origem da vida e da evolução das espécies.
-
-100
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-26. Compreender o processo de transmissão das características hereditárias entre os seres vivos.
-
-27. Reconhecer a importância da constituição genética para a manutenção da diversidade dos seres vivos.
-
-28. Reconhecer mecanismos de transmissão da vida, do DNA e das características hereditárias, explicando a manifestação dos atributos dos seres vivos e relacionando esses conhecimentos à genética humana e à saúde.
-
-29. Discutir e analisar os interesses econômicos, políticos, aspectos éticos e bioéticos da pesquisa científica que envolvem a manipulação genética, relacionando os conhecimentos biotecnológicos às alterações produzidas pelo ser humano na diversidade biológica.
-
-33. Entender o conceito de biodiversidade e sua amplitude de relações, como os seres vivos, os ecossistemas e os processos evolutivos.
-
-101
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-|**Curso:**<br>Técnico em Informática<br>**Eixo tecnológico**<br>Informação e Comunicação|**Curso:**<br>Técnico em Informática<br>**Eixo tecnológico**<br>Informação e Comunicação|
-|---|---|
-|**Componente curricular**<br>Biologia IV||
-|**Carga horária**<br>40 horas/aula<br>**Período letivo**|4ª Série|
-|**Ementa:**||
-|Conceitos básicos em Ecologia. Fatores abióticos e bióticos dos ecossistemas. Fluxos de matéria e||
-|energia nos ecossistemas: cadeias, teias alimentares e pirâmides ecológicas. Biomas. Dinâmica de||
-|populações e de comunidades. Sucessão Ecológica. Ciclos Biogeoquímicos. Interferências humanas||
-|na natureza: poluição.||
-
-|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|
-|---|---|---|---|---|---|---|
-|**Curso:**|Técnico em Informática||**Eixo tecnológico**||Informação e Comunicação||
-|**Componente curricular**|||Biologia IV||||
-|**Carga horária**||40 horas/aula||**Período letivo**||4ª Série|
-|**Ementa:**<br>Conceitos básicos em Ecologia. Fatores abióticos e bióticos dos ecossistemas. Fluxos de matéria e<br>energia nos ecossistemas: cadeias, teias alimentares e pirâmides ecológicas. Biomas. Dinâmica de<br>populações e de comunidades. Sucessão Ecológica. Ciclos Biogeoquímicos. Interferências humanas<br>na natureza: poluição.|||||||
-|**Bibliografia básica:**<br>AMABIS, J. M.; MARTHO, G. R.**Biologia.**v. 1. 3ª Ed. Moderna, 2010.<br>AMABIS, J. M.; MARTHO, G. R.**Biologia.**v. 2. 3ª Ed. Moderna, 2010.<br>AMABIS, J. M.; MARTHO, G. R.**Biologia.**v. 3. 3ª Ed. Moderna, 2010.<br>LOPES, S.; ROSSO, S.**BIO**– volume 1. São Paulo: Saraiva, 2010.<br>LOPES, S.; ROSSO, S.**BIO**– volume 2. São Paulo: Saraiva, 2010.<br>LOPES, S.; ROSSO, S.**BIO**– volume 3. São Paulo: Saraiva, 2010.<br>PURVES, W. K. et al.**Vida - A Ciência da Biologia: Célula e Hereditariedade**. Vol.1. 8ª Ed. Porto<br>Alegre: Artmed. 2009.<br>PURVES, W. K.**Vida: a ciência da biologia: evolução, diversidade e ecologia**. Vol. 2. 8ª ed. Porto<br>Alegre: Artmed. 2009.<br>PURVES, W. K.**Vida: a ciência da biologia: plantas e animais.**Vol. 3. 8ª ed. Porto Alegre: Artmed.<br>2009.|||||||
-|**Bibliografia complementar:**<br>ABBAS, A. K.; LICHTMAN; A. H.; PILL, S.**Imunologia celular e molecular**. 7. ed. Rio de Janeiro:<br>Elsevier. 2012.<br>ALBERTS, B._et al._ **Biologia molecular da célula**. 3. ed. Porto Alegre: Artmed, 2004.<br>BROCK, T. D.**Microbiologia de Brock**. São Paulo: Prentice Hall, 2008.<br>CARVALHO, I.S.**Paleontologia.**Rio de Janeiro: Interciência, 2004. 2 v.<br>FUTUYMA, D. G.**Biologia evolutiva**. 2. ed. Ribeirão Preto: FUNPEC, 2002.<br>GARCIA, S. M. L. FERNÁNDEZ, C. G.**Embriologia.**3. ed. Porto Alegre: Artmed, 2012.<br>GUYTON, A.C., HALL, J.E**Tratado de fisiologia médica.**10. ed. Rio de Janeiro: Guanabara Koogan,<br>2002.<br>HICKMAN, C.P.C.; ROBERTS, L.S.; LARSON, A.**Princípios integrados de zoologia**. 11. ed. Rio de<br>Janeiro: Guanabara Koogan, 2009.<br>JUNQUEIRA, L.C.; CARNEIRO, J.**Histologia básica.**11. ed. Rio de Janeiro: Guanabara Koogan,<br>2008.<br>LEHNINGER, A.L., NELSON, D.L., COX, M.M.**Princípios de bioquímica**. 4 ed. São Paulo: Sarvier,<br>2006.<br>RAVEN, P.H.; EVERT, R.F.; EICHHORN, S.E.**Biologia vegetal.**7. ed. Rio de Janeiro: Guanabara<br>Koogan, 2007.<br>RICKLEFS, R. E.**A economia da natureza**. Rio de Janeiro: Guanabara Koogan, 2003.<br>RUPPERT,E.E.;BARNES,R.D.**Zoologia de invertebrados.**6. ed. São Paulo: Roca,1996.|||||||
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-SOBOTTA, J. **Atlas de anatomia humana.** 22. ed. Rio de Janeiro: Guanabara Koogan, 2006. (2v.) TAIZ, L.; ZEIGER, E. **Fisiologia vegetal.** 4. ed. Porto Alegre: ARTMED, 2008.
-
-## **Objetivos**
-
-|||
-|---|---|
-|1.|Extrair informações relevantes de diferentes fontes, como textos, tabelas ou gráficos, interpretá-las|
-|e relacioná-las.|
-|2. Ser capaz de realizar pesquisas de modo crítico e autônomo, estando apto a buscar, comparar,|
-|construir e disseminar o conhecimento.|
-|3. Fazer uso de modos de comunicação e de interação para aplicação e divulgação de conhecimentos|
-|científicos e tecnológicos, sabendo comunicar de forma escrita ou oral resultados e argumentos de|
-|base científica, sendo capaz de debater, respeitar opiniões e levar em conta argumentos contrários.|
-|4. Compreender a ciência como um empreendimento humano, construído histórica e socialmente,|
-|sendo os princípios científicos sínteses provisórias de uma construção ininterrupta.|
-|5. Relacionar as finalidades de produtos, sistemas ou procedimentos tecnológicos às suas|
-|propriedades físicas, químicas ou biológicas.|
-|6. Ter responsabilidade com prazos e realização de tarefas assumidas em atividades em grupo ou|
-|individuais, desenvolvendo o respeito, a proatividade, a empatia, o empreendedorismo e a criatividade.|
-|7. Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionarse quanto|
-|a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos, culturais,|
-|religiosos e de qualquer outra natureza.|
-|8. Identificar valores humanos, éticos e morais relacionados à aplicação dos conhecimentos científicos|
-|e tecnológicos, sendo capaz de refletir e agir criticamente levando em conta essa relação.|
-|9. Identificar problemas, propor, desenvolver, implementar e testar soluções relacionadas à área|
-|técnica e à dinâmica das relações interpessoais existentes no ambiente escolar e de trabalho.|
-|Objetivos específicos|
-|1.|Extrair informações relevantes de diferentes fontes, como textos, tabelas ou gráficos, interpretá-las|
-|e relacioná-las.|
-|2. Ser capaz de realizar pesquisas de modo crítico e autônomo, estando apto a buscar, comparar,|
-|construir e disseminar o conhecimento.|
-|3. Fazer uso de modos de comunicação e de interação para aplicação e divulgação de conhecimentos|
-|científicos e tecnológicos, sabendo comunicar de forma escrita ou oral resultados e argumentos de|
-|base científica, sendo capaz de debater, respeitar opiniões e levar em conta argumentos contrários.|
-|4. Compreender a ciência como um empreendimento humano, construído histórica e socialmente,|
-|sendo os princípios científicos sínteses provisórias de uma construção ininterrupta.|
-|5. Relacionar as finalidades de produtos, sistemas ou procedimentos tecnológicos às suas|
-|propriedades físicas, químicas ou biológicas.|
-|6. Ter responsabilidade com prazos e realização de tarefas assumidas em atividades em grupo ou|
-|individuais, desenvolvendo o respeito, a proatividade, a empatia, o empreendedorismo e a criatividade.|
-|7. Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionarse quanto|
-|a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos, culturais,|
-|religiosos e de qualquer outra natureza.|
-|8. Identificar valores humanos, éticos e morais relacionados à aplicação dos conhecimentos científicos|
-|e tecnológicos, sendo capaz de refletir e agir criticamente levando em conta essa relação.|
-|9. Identificar problemas, propor, desenvolver, implementar e testar soluções relacionadas à área|
-|técnica e à dinâmica das relações interpessoais existentes no ambiente escolar e de trabalho.|
-
-103
-
-Ministerioda Educacao InstitutoFederal doParana
-
-INSTITUTOFEDERAL PARANA
-
-## **Campus Colombo do IFPR**
-
-|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|
-|---|---|---|---|---|---|---|
-|**Curso:**|Técnico em Informática||**Eixo tecnológico**||Informação e Comunicação||
-|**Componente curricular**|||Física I||||
-|**Carga horária**||80 horas/aula||**Período letivo**||1ª Série|
-|**Ementa:**<br>Conhecimentos básicos e fundamentais. O movimento, o equilíbrio e a as leis de Newton.|||||||
-|**Bibliografia básica:**<br>ARTUSO, A. R.; SOARES, M. V.**Vivá Física**. Volume 1. Curitiba: Positivo, 2016.<br>ARTUSO, A. R.; WRUBLEWSKI, M.**Física**. Volume 1.  Curitiba: Positivo, 2013.<br>GUIMARÃES, O.; PIQUEIRA, J. R.; CARRON, W.**Física**. Volume 1. São Paulo: Ática, 2014.<br>HEWITT, P.**Física conceitual**. Porto Alegre: Bookman, 2009.<br>MENEZES, L. C. de et al.**Quanta física.**São Paulo: Pearson, 2014. 3v.<br>PIETROCOLA, M. et al.**Física em contextos**. Volume 1. São Paulo: FTD, 2013.<br>SILVA, C. X.; BARRETO FILHO, B.**Física – aula por aula**. Volume 1. São Paulo: FTD, 2010.|||||||
-|**Bibliografia complementar:**<br>ALES. Gilvan; CARUSO, Francisco; MOTA, Hewlio; SANTORO, Alberto.**O mundo das partículas de**<br>**hoje e de ontem.**2. ed. São Paulo: Livraria da Física, 2012.<br>BELTRAN, Maria Helena Roxo; SAITO, Fumikazu; TRINDADE, Laís dos Santos Pinto (orgs.).**História**<br>**das ciências**: tópicos atuais. São Paulo: Livraria da Física, 2011.<br>BORGES, J. F. M.**Física do Cotidiano**. Curitiba: Blanche, 2014.<br>BRUCE, C.**As aventuras científicas de Sherlock Holmes**. Rio de Janeiro: Jorge Zahar Editor, 2002.<br>CARVALHO JR., Gabriel Dias de.**Aulas de física:**do planejamento a avaliação.**.**São Paulo: Livraria<br>da Física, 2011.<br>DOV, Y. B.**Convite à física**. Rio de Janeiro: Jorge Zahar Editor, 1996.<br>FEYNMAN, R.**Sobre as leis da física**. Rio de Janeiro: Contraponto, 2012.<br>FEYNMAN, Richard P.; LEIGHTON, Robert B.; SANDS, Matthew.**Lições de física de Feynman.**Porto<br>Alegre: Artmed, 2008. 4v.<br>FIOLHAIS, C.**Física divertida**. Lisboa: Gradiva Publicações, 1991.<br>GALILEI, Galileu.**Diálogo sobre os dois máximos sistemas do mundo ptolomaico e copernicano**.<br>São Paulo: Editora 34, 2011.<br>GLEISER, Marcelo.**A dança do universo**. São Paulo: Cia. das letras, 2006.<br>GUERRA, A.; BRAGA, M.; REIS, J. C.**Breve história da ciência moderna**. Rio de Janeiro: Jorge<br>Zahar Editor, 2008. 4v.<br>HART-DAVIS, A. et al.**O Livro das ciências**. Rio de Janeiro: Globo, 2015.<br>HAWKING, Stephen.**Uma breve história do tempo.**Rio de Janeiro: Intrínseca, 2005.<br>HENRY, John.**A revolução científica e as origens da ciência moderna**. Rio de Janeiro: Zahar, 1998.<br>KOYRÉ, Alexandre.**Estudos de história do pensamento científico.**2. ed. Rio de Janeiro: Forense<br>Universitária, 1991.<br>LOPES, Jose Leite.**Uma história da física no Brasil.**São Paulo: Livraria da Física, 2012.<br>MARTINS, Roberto de Andrade.**O universo:**teorias sobre sua origem e evolução. São Paulo: Livraria<br>da Física, 2012.<br>MENEZES,L. C. de.**A matéria**. São Paulo: Livraria da Física,2005.|||||||
-
-104
-
-Ministerioda Educacao InstitutoFederal doParana
-
-INSTITUTOFEDERAL PARANA
-
-MIGLIAVACCA, A.; WITTE, G. **A física na cozinha** . São Paulo: Livraria da Física, 2014. RUSSELL, Robert. **ABC da relatividade.** Rio de Janeiro: Zahar, 2005. SAGAN, Carl. **Pálido ponto azul.** São Paulo: Cia. das Letras, 1996.
-
-SAITOVITCH, E. M. B. et al. **Mulheres na física** : casos históricos, panorama e perspectivas. São Paulo: Livraria da Física, 2015.
-
-STEWART, Ian. **17 Equações que mudaram o mundo** . São Paulo: Cia das Letras, 2013. TOLAN, M.; STOLZE, J. **A física de James Bond** . São Paulo: Cultrix, 2013.
-
-TUFAILE, Alberto; TUFAILE, Pedrosa Biscaia. **Da física do faraó ao fóton.** São Paulo: Livraria da Física, 2013.
-
-## **Objetivos**
-
-1. Extrair informações relevantes de diferentes fontes, como textos, tabelas ou gráficos, interpretá-las e relacioná-las. 2. Ser capaz de realizar pesquisas de modo crítico e autônomo, estando apto a buscar, comparar, construir e disseminar o conhecimento.
-
-3. Fazer uso de modos de comunicação e de interação para aplicação e divulgação de conhecimentos científicos e tecnológicos, sabendo comunicar de forma escrita ou oral resultados e argumentos de base científica, sendo capaz de debater, respeitar opiniões e levar em conta argumentos contrários. 4. Compreender a ciência como um empreendimento humano, construído histórica e socialmente, sendo os princípios científicos sínteses provisórias de uma construção ininterrupta.
-
-5. Relacionar as finalidades de produtos, sistemas ou procedimentos tecnológicos às suas propriedades. 6. Ter responsabilidade com prazos e realização de tarefas assumidas em atividades em grupo ou individuais, desenvolvendo o respeito, a proatividade, a empatia, o empreendedorismo e a criatividade. 7. Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionar-se quanto a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos, culturais, religiosos e de qualquer outra natureza.
-
-8. Identificar valores humanos, éticos e morais relacionados à aplicação dos conhecimentos científicos e tecnológicos, sendo capaz de refletir e agir criticamente levando em conta essa relação.
-
-9. Identificar problemas, propor, desenvolver, implementar e testar soluções relacionadas à área técnica e à dinâmica das relações interpessoais existentes no ambiente escolar e de trabalho. 10. Caracterizar movimentos de partículas, veículos, objetos e fluidos, utilizando as leis de conservação e as leis dos movimentos, assim como o conhecimento das forças envolvidas. 11. Utilizar leis físicas que relacionam trabalho e energia mecânica, assim como equilíbrio estático e dinâmico, para interpretar, analisar ou aprimorar a operação de edificações, de veículos, de máquinas ou de outros processos naturais ou tecnológicos.
-
-16. Relacionar informações e conhecimentos mecânicos, térmicos e eletromagnéticos para compreender manuais de instalação e de utilização de aparelhos ou sistemas tecnológicos de uso comum.
-
-105
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|
-|---|---|---|---|---|---|---|
-|**Curso:**|Técnico em Informática||**Eixo tecnológico**||Informação e Comunicação||
-|**Componente curricular**|||Física II||||
-|**Carga horária**||40 horas/aula||**Período letivo**||2ª Série|
-|**Ementa:**<br>O movimento, o equilíbrio e a as leis de Newton. Energia, trabalho e potência. A Mecânica e o<br>funcionamento do Universo.|||||||
-|**Bibliografia básica:**<br>ARTUSO, A. R.; SOARES, M. V.**Vivá Física**. Volume 1. Curitiba: Positivo, 2016.<br>ARTUSO, A. R.; WRUBLEWSKI, M.**Física**. Volume 1.  Curitiba: Positivo, 2013.<br>GUIMARÃES, O.; PIQUEIRA, J. R.; CARRON, W.**Física**. Volume 1. São Paulo: Ática, 2014.<br>HEWITT, P.**Física conceitual**. Porto Alegre: Bookman, 2009.<br>MENEZES, L. C. de et al.**Quanta física.**São Paulo: Pearson, 2014. 3v.<br>PIETROCOLA, M. et al.**Física em contextos**. Volume 1. São Paulo: FTD, 2013.<br>SILVA, C. X.; BARRETO FILHO, B.**Física – aula por aula**. Volume 1. São Paulo: FTD, 2010.|||||||
-|**Bibliografia complementar:**<br>ASSIS, André Koch Torres.**Arquimedes, o centro de gravidade e a lei da alavanca.**São Paulo:<br>Livraria da Física, 2011.<br>BELTRAN, Maria Helena Roxo; SAITO, Fumikazu; TRINDADE, Laís dos Santos Pinto (orgs.).**História**<br>**das ciências**: tópicos atuais. São Paulo: Livraria da Física, 2011.<br>BORGES, J. F. M.**Física do Cotidiano**. Curitiba: Blanche, 2014.<br>BRUCE, C.**As aventuras científicas de Sherlock Holmes**. Rio de Janeiro: Jorge Zahar Editor, 2002.<br>CARVALHO JR., Gabriel Dias de.**Aulas de física:**do planejamento a avaliação. São Paulo: Livraria<br>da Física, 2011.<br>CARVALHO, Anna Maria Pessoa de (org.).**Calor e temperatura um ensino por investigação.**São<br>Paulo: Livraria da Física, 2014.<br>DOV, Y. B.**Convite à física**. Rio de Janeiro: Jorge Zahar Editor, 1996.<br>ENDLER, Anna Maria Freire.**Introdução à física de partículas.**São Paulo: Livraria da Física, 2010.<br>FEYNMAN, R.**Sobre as leis da física**. Rio de Janeiro: Contraponto, 2012.<br>FEYNMAN, Richard P.; LEIGHTON, Robert B.; SANDS, Matthew.**Lições de física de Feynman.**Porto<br>Alegre: Artmed, 2008. 4v.<br>FIOLHAIS, C.**Física divertida**. Lisboa: Gradiva Publicações, 1991.<br>GUERRA, A.; BRAGA, M.; REIS, J. C.**Breve história da ciência moderna**. Rio de Janeiro: Jorge<br>Zahar Editor, 2008. 4v.<br>HART-DAVIS, A. et al.**O Livro das ciências**. Rio de Janeiro: Globo, 2015.<br>HAWKING, Stephen.**Uma breve história do tempo.**Rio de Janeiro: Intrínseca, 2005.<br>HENRY, John.**A revolução científica e as origens da ciência moderna**. Rio de Janeiro: Zahar, 1998.<br>KOYRÉ, Alexandre.**Estudos de história do pensamento científico.**2. ed. Rio de Janeiro: Forense<br>Universitária, 1991.<br>LOPES, Jose Leite.**Uma história da física no Brasil.**São Paulo: Livraria da Física, 2012.<br>MAIA, Nelson.**O caminho para a física quântica.**São Paulo: Livraria da Física, 2010.<br>MARTINS,Roberto de Andrade.**O universo:**teorias sobre sua origem e evolução. São Paulo: Livraria|||||||
-
-106
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-da Física, 2012. MENEZES, L. C. de. **A matéria** . São Paulo: Livraria da Física, 2005. MIGLIAVACCA, A.; WITTE, G. **A física na cozinha** . São Paulo: Livraria da Física, 2014. OLIVEIRA, Ivan S. **Física moderna para iniciados, interessados e aficionados.** São Paulo: Livraria da Física, 2010.
-
-OLIVEIRA, Paulo Murilo Castro de; OLIVEIRA, Suzana Maria Moss de. **Física em computadores.** São Paulo: Livraria da Física, 2010. RUSSELL, Robert. **ABC da relatividade.** Rio de Janeiro: Zahar, 2005. SAGAN, Carl. **Pálido ponto azul.** São Paulo: Cia. das Letras, 1996.
-
-SAITOVITCH, E. M. B. et al. **Mulheres na física** : casos históricos, panorama e perspectivas. São Paulo: Livraria da Física, 2015. SALVETTI, A. R. **A História da luz** . São Paulo: Livraria da Física, 2008.
-
-SANTOS, Edval J. P. **Nanotecnologia eletrônica do ente quântico ao computador quântico:** uma introdução ao vazio que há lá em baixo. São Paulo: Livraria da Física, 2014. STEWART, Ian. **17 Equações que mudaram o mundo** . São Paulo: Cia das Letras, 2013. TOLAN, M.; STOLZE, J. **A física de James Bond** . São Paulo: Cultrix, 2013. TUFAILE, Alberto; TUFAILE, Pedrosa Biscaia. **Da física do faraó ao fóton.** São Paulo: Livraria da Física, 2013.
-
-**Objetivos**
-
-1. Extrair informações relevantes de diferentes fontes, como textos, tabelas ou gráficos, interpretá-las e relacioná-las. 2. Ser capaz de realizar pesquisas de modo crítico e autônomo, estando apto a buscar, comparar, construir e disseminar o conhecimento. 3. Fazer uso de modos de comunicação e de interação para aplicação e divulgação de conhecimentos científicos e tecnológicos, sabendo comunicar de forma escrita ou oral resultados e argumentos de base científica, sendo capaz de debater, respeitar opiniões e levar em conta argumentos contrários. 4. Compreender a ciência como um empreendimento humano, construído histórica e socialmente, sendo os princípios científicos sínteses provisórias de uma construção ininterrupta. 5. Relacionar as finalidades de produtos, sistemas ou procedimentos tecnológicos às suas propriedades. 6. Ter responsabilidade com prazos e realização de tarefas assumidas em atividades em grupo ou individuais, desenvolvendo o respeito, a proatividade, a empatia, o empreendedorismo e a criatividade. 7. Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionar-se quanto a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos, culturais, religiosos e de qualquer outra natureza. 8. Identificar valores humanos, éticos e morais relacionados à aplicação dos conhecimentos científicos e tecnológicos, sendo capaz de refletir e agir criticamente levando em conta essa relação. 9. Identificar problemas, propor, desenvolver, implementar e testar soluções relacionadas à área técnica e à dinâmica das relações interpessoais existentes no ambiente escolar e de trabalho. 10. Caracterizar movimentos de partículas, veículos, objetos e fluidos, utilizando as leis de conservação e as leis dos movimentos, assim como o conhecimento das forças envolvidas. 11. Utilizar leis físicas que relacionam trabalho e energia mecânica, assim como equilíbrio estático e dinâmico, para interpretar, analisar ou aprimorar a operação de edificações, de veículos, de máquinas ou de outros processos naturais ou tecnológicos. 16. Relacionar informações e conhecimentos mecânicos, térmicos e eletromagnéticos para compreender manuais de instalação e de utilização de aparelhos ou sistemas tecnológicos de uso comum.
-
-107
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|
-|---|---|---|---|---|---|---|
-|**Curso:**|Técnico em Informática||**Eixo tecnológico**||Informação e Comunicação||
-|**Componente curricular**|||Física III||||
-|**Carga horária**||80 horas/aula||**Período letivo**||3ª Série|
-|**Ementa:**<br>O calor e os fenômenos térmicos. Oscilações, ondas, óptica e radiação.|||||||
-|**Bibliografia básica:**<br>ARTUSO, A. R.; SOARES, M. V.**Vivá Física**. Volume 1. Curitiba: Positivo, 2016.<br>ARTUSO, A. R.; WRUBLEWSKI, M.**Física**. Volume 1.  Curitiba: Positivo, 2013.<br>GUIMARÃES, O.; PIQUEIRA, J. R.; CARRON, W.**Física**. Volume 1. São Paulo: Ática, 2014.<br>HEWITT, P.**Física conceitual**. Porto Alegre: Bookman, 2009.<br>MENEZES, L. C. de et al.**Quanta física.**São Paulo: Pearson, 2014. 3v.<br>PIETROCOLA, M. et al.**Física em contextos**. Volume 1. São Paulo: FTD, 2013.<br>SILVA, C. X.; BARRETO FILHO, B.**Física – aula por aula**. Volume 1. São Paulo: FTD, 2010.|||||||
-|**Bibliografia complementar:**<br>ALES. Gilvan; CARUSO, Francisco; MOTA, Hewlio; SANTORO, Alberto.**O mundo das partículas de**<br>**hoje e de ontem.**2. ed. São Paulo: Livraria da Física, 2012.<br>ASSIS, André Koch Torres.**Os fundamentos experimentais e históricos da eletricidade.**São Paulo:<br>Livraria da Física, 2011.<br>BELTRAN, Maria Helena Roxo; SAITO, Fumikazu; TRINDADE, Laís dos Santos Pinto (orgs.).**História**<br>**das ciências**: tópicos atuais. São Paulo: Livraria da Física, 2011.<br>BORGES, J. F. M.**Física do Cotidiano**. Curitiba: Blanche, 2014.<br>BRUCE, C.**As aventuras científicas de Sherlock Holmes**. Rio de Janeiro: Jorge Zahar Editor, 2002.<br>CARVALHO JR., Gabriel Dias de.**Aulas de física:**do planejamento a avaliação.**.**São Paulo: Livraria<br>da Física, 2011.<br>DOV, Y. B.**Convite à física**. Rio de Janeiro: Jorge Zahar Editor, 1996.<br>ENDLER, Anna Maria Freire.**Introdução à física de partículas.**São Paulo: Livraria da Física, 2010.<br>FEYNMAN, R.**Sobre as leis da física**. Rio de Janeiro: Contraponto, 2012.<br>FEYNMAN, Richard P.; LEIGHTON, Robert B.; SANDS, Matthew.**Lições de física de Feynman.**Porto<br>Alegre: Artmed, 2008. 4v.<br>FIOLHAIS, C.**Física divertida**. Lisboa: Gradiva Publicações, 1991.<br>GILMORE, Robert.**Alice no País do Quantum**. Rio de Janeiro: Zahar, 1998.<br>GUERRA, A.; BRAGA, M.; REIS, J. C.**Breve história da ciência moderna**. Rio de Janeiro: Jorge<br>Zahar Editor, 2008. 4v.<br>HART-DAVIS, A. et al.**O Livro das ciências**. Rio de Janeiro: Globo, 2015.<br>HAWKING, Stephen.**Uma breve história do tempo.**Rio de Janeiro: Intrínseca, 2005.<br>KOYRÉ, Alexandre.**Estudos de história do pensamento científico.**2. ed. Rio de Janeiro: Forense<br>Universitária, 1991.<br>LOPES, Jose Leite.**Uma história da física no Brasil.**São Paulo: Livraria da Física, 2012.<br>MAIA, Nelson.**O caminho para a física quântica.**São Paulo: Livraria da Física, 2010.<br>MENEZES, L. C. de.**A matéria**. São Paulo: Livraria da Física, 2005.<br>MIGLIAVACCA, A.; WITTE, G.**A física na cozinha**. São Paulo: Livraria da Física, 2014.<br>OLIVEIRA,Ivan S.**Física modernapara iniciados, interessados e aficionados.**São Paulo: Livraria|||||||
-
-108
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-da Física, 2010.
-
-OLIVEIRA, Paulo Murilo Castro de; OLIVEIRA, Suzana Maria Moss de. **Física em computadores.** São Paulo: Livraria da Física, 2010.
-
-RUSSELL, Robert. **ABC da relatividade.** Rio de Janeiro: Zahar, 2005.
-
-SAITOVITCH, E. M. B. et al. **Mulheres na física** : casos históricos, panorama e perspectivas. São Paulo: Livraria da Física, 2015.
-
-SALVETTI, A. R. **A História da luz** . São Paulo: Livraria da Física, 2008.
-
-SANTOS, Edval J. P. **Nanotecnologia eletrônica do ente quântico ao computador quântico:** uma introdução ao vazio que há lá em baixo. São Paulo: Livraria da Física, 2014.
-
-STEWART, Ian. **17 Equações que mudaram o mundo** . São Paulo: Cia das Letras, 2013. TOLAN, M.; STOLZE, J. **A física de James Bond** . São Paulo: Cultrix, 2013.
-
-TUFAILE, Alberto; TUFAILE, Pedrosa Biscaia. **Da física do faraó ao fóton.** São Paulo: Livraria da Física, 2013.
-
-## **Objetivos**
-
-1. Extrair informações relevantes de diferentes fontes, como textos, tabelas ou gráficos, interpretá-las e relacioná-las. 2. Ser capaz de realizar pesquisas de modo crítico e autônomo, estando apto a buscar, comparar, construir e disseminar o conhecimento. 3. Fazer uso de modos de comunicação e de interação para aplicação e divulgação de conhecimentos científicos e tecnológicos, sabendo comunicar de forma escrita ou oral resultados e argumentos de base científica, sendo capaz de debater, respeitar opiniões e levar em conta argumentos contrários.
-
-4. Compreender a ciência como um empreendimento humano, construído histórica e socialmente, sendo os princípios científicos sínteses provisórias de uma construção ininterrupta.
-
-5. Relacionar as finalidades de produtos, sistemas ou procedimentos tecnológicos às suas propriedades. 6. Ter responsabilidade com prazos e realização de tarefas assumidas em atividades em grupo ou individuais, desenvolvendo o respeito, a proatividade, a empatia, o empreendedorismo e a criatividade. 7. Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionar-se quanto a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos, culturais, religiosos e de qualquer outra natureza.
-
-8. Identificar valores humanos, éticos e morais relacionados à aplicação dos conhecimentos científicos e tecnológicos, sendo capaz de refletir e agir criticamente levando em conta essa relação.
-
-9. Identificar problemas, propor, desenvolver, implementar e testar soluções relacionadas à área técnica e à dinâmica das relações interpessoais existentes no ambiente escolar e de trabalho.
-
-12. Usar conhecimentos da Física Térmica para interpretar, avaliar ou planejar intervenções científicotecnológicas que envolvem calor, temperatura, propriedades térmicas, clima, aquecimento ou refrigeração.
-
-13. Reconhecer características ou propriedades de fenômenos ondulatórios ou oscilatórios, relacionando-os a seus usos em diferentes contextos, como a produção e a difusão do som, na voz e em diversos equipamentos.
-
-14. Reconhecer o caráter da luz como oscilação eletromagnética, associando propriedades como cor, velocidade, reflexão, refração, difração e interferência, as características como frequência e comprimento de onda, aplicando essas relações em diferentes contextos práticos e teóricos.
-
-16. Relacionar informações e conhecimentos mecânicos, térmicos e eletromagnéticos para compreender manuais de instalação e de utilização de aparelhos ou sistemas tecnológicos de uso comum.
-
-17. Compreender fenômenos decorrentes da interação entre a radiação e a matéria e suas manifestações em processos naturais ou tecnológicos, ou suas implicações biológicas, sociais, econômicas e ambientais.
-
-109
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|
-|---|---|---|---|---|---|---|
-|**Curso:**|Técnico em Informática||**Eixo tecnológico**||Informação e Comunicação||
-|**Componente curricular**|||Física IV||||
-|**Carga horária**||40 horas/aula||**Período letivo**||4ª Série|
-|**Ementa:**<br>Fenômenos Elétricos e Magnéticos.|||||||
-|**Bibliografia básica:**<br>ARTUSO, A. R.; SOARES, M. V.**Vivá Física**. Volume 1. Curitiba: Positivo, 2016.<br>ARTUSO, A. R.; WRUBLEWSKI, M.**Física**. Volume 1.  Curitiba: Positivo, 2013.<br>GUIMARÃES, O.; PIQUEIRA, J. R.; CARRON, W.**Física**. Volume 1. São Paulo: Ática, 2014.<br>HEWITT, P.**Física conceitual**. Porto Alegre: Bookman, 2009.<br>MENEZES, L. C. de et al.**Quanta física.**São Paulo: Pearson, 2014. 3v.<br>PIETROCOLA, M. et al.**Física em contextos**. Volume 1. São Paulo: FTD, 2013.<br>SILVA, C. X.; BARRETO FILHO, B.**Física – aula por aula**. Volume 1. São Paulo: FTD, 2010.|||||||
-|**Bibliografia complementar:**<br>ALES. Gilvan; CARUSO, Francisco; MOTA, Hewlio; SANTORO, Alberto.**O mundo das partículas de**<br>**hoje e de ontem.**2. ed. São Paulo: Livraria da Física, 2012.<br>ASSIS, André Koch Torres.**Os fundamentos experimentais e históricos da eletricidade.**São Paulo:<br>Livraria da Física, 2011.<br>BELTRAN, Maria Helena Roxo; SAITO, Fumikazu; TRINDADE, Laís dos Santos Pinto (orgs.).**História**<br>**das ciências**: tópicos atuais. São Paulo: Livraria da Física, 2011.<br>BORGES, J. F. M.**Física do Cotidiano**. Curitiba: Blanche, 2014.<br>BRUCE, C.**As aventuras científicas de Sherlock Holmes**. Rio de Janeiro: Jorge Zahar Editor, 2002.<br>CARVALHO JR., Gabriel Dias de.**Aulas de física:**do planejamento a avaliação. São Paulo: Livraria<br>da Física, 2011.<br>DOV, Y. B.**Convite à física**. Rio de Janeiro: Jorge Zahar Editor, 1996.<br>ENDLER, Anna Maria Freire.**Introdução à física de partículas.**São Paulo: Livraria da Física, 2010.<br>FEYNMAN, R.**Sobre as leis da física**. Rio de Janeiro: Contraponto, 2012.<br>FEYNMAN, Richard P.; LEIGHTON, Robert B.; SANDS, Matthew.**Lições de física de Feynman.**Porto<br>Alegre: Artmed, 2008. 4v.<br>FIOLHAIS, C.**Física divertida**. Lisboa: Gradiva Publicações, 1991.<br>GILMORE, Robert.**Alice no País do Quantum**. Rio de Janeiro: Zahar, 1998.<br>GUERRA, A.; BRAGA, M.; REIS, J. C.**Breve história da ciência moderna**. Rio de Janeiro: Jorge<br>Zahar Editor, 2008. 4v.<br>HART-DAVIS, A. et al.**O Livro das ciências**. Rio de Janeiro: Globo, 2015.<br>HAWKING, Stephen.**Uma breve história do tempo.**Rio de Janeiro: Intrínseca, 2005.<br>KOYRÉ, Alexandre.**Estudos de história do pensamento científico.**2. ed. Rio de Janeiro: Forense<br>Universitária, 1991.<br>LOPES, Jose Leite.**Uma história da física no Brasil.**São Paulo: Livraria da Física, 2012.<br>MAIA, Nelson.**O caminho para a física quântica.**São Paulo: Livraria da Física, 2010.<br>MENEZES, L. C. de.**A matéria**. São Paulo: Livraria da Física, 2005.<br>MIGLIAVACCA,A.;WITTE,G.**A física na cozinha**. São Paulo: Livraria da Física,2014.|||||||
-
-110
-
-1INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao InstitutoFederal doParana
-
-OLIVEIRA, Ivan S. **Física moderna para iniciados, interessados e aficionados.** São Paulo: Livraria da Física, 2010.
-
-OLIVEIRA, Paulo Murilo Castro de; OLIVEIRA, Suzana Maria Moss de. **Física em computadores.** São Paulo: Livraria da Física, 2010.
-
-RUSSELL, Robert. **ABC da relatividade.** Rio de Janeiro: Zahar, 2005.
-
-SAITOVITCH, E. M. B. et al. **Mulheres na física** : casos históricos, panorama e perspectivas. São Paulo: Livraria da Física, 2015.
-
-SALVETTI, A. R. **A História da luz** . São Paulo: Livraria da Física, 2008.
-
-SANTOS, Edval J. P. **Nanotecnologia eletrônica do ente quântico ao computador quântico:** uma introdução ao vazio que há lá em baixo. São Paulo: Livraria da Física, 2014.
-
-STEWART, Ian. **17 Equações que mudaram o mundo** . São Paulo: Cia das Letras, 2013. TOLAN, M.; STOLZE, J. **A física de James Bond** . São Paulo: Cultrix, 2013.
-
-TUFAILE, Alberto; TUFAILE, Pedrosa Biscaia. **Da física do faraó ao fóton.** São Paulo: Livraria da Física, 2013.
-
-## **Objetivos**
-
-1. Extrair informações relevantes de diferentes fontes, como textos, tabelas ou gráficos, interpretá-las e relacioná-las.
-
-2. Ser capaz de realizar pesquisas de modo crítico e autônomo, estando apto a buscar, comparar, construir e disseminar o conhecimento.
-
-3. Fazer uso de modos de comunicação e de interação para aplicação e divulgação de conhecimentos científicos e tecnológicos, sabendo comunicar de forma escrita ou oral resultados e argumentos de base científica, sendo capaz de debater, respeitar opiniões e levar em conta argumentos contrários. 4. Compreender a ciência como um empreendimento humano, construído histórica e socialmente, sendo os princípios científicos sínteses provisórias de uma construção ininterrupta.
-
-5. Relacionar as finalidades de produtos, sistemas ou procedimentos tecnológicos às suas propriedades.
-
-6. Ter responsabilidade com prazos e realização de tarefas assumidas em atividades em grupo ou individuais, desenvolvendo o respeito, a proatividade, a empatia, o empreendedorismo e a criatividade.
-
-7. Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionar-se quanto a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos, culturais, religiosos e de qualquer outra natureza.
-
-8. Identificar valores humanos, éticos e morais relacionados à aplicação dos conhecimentos científicos e tecnológicos, sendo capaz de refletir e agir criticamente levando em conta essa relação.
-
-9. Identificar problemas, propor, desenvolver, implementar e testar soluções relacionadas à área técnica e à dinâmica das relações interpessoais existentes no ambiente escolar e de trabalho.
-
-15. Dimensionar circuitos ou dispositivos elétricos de uso cotidiano: explicitar seus circuitos elétricos, os campos e forças eletromagnéticas e estimar consumo elétrico.
-
-16. Relacionar informações e conhecimentos mecânicos, térmicos e eletromagnéticos para compreender manuais de instalação e de utilização de aparelhos ou sistemas tecnológicos de uso comum.
-
-17. Compreender fenômenos decorrentes da interação entre a radiação e a matéria e suas manifestações em processos naturais ou tecnológicos, ou suas implicações biológicas, sociais, econômicas e ambientais.
-
-111
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-|||||
-|---|---|---|---|
-|Curso:|Técnico em Informática|Eixo tecnológico|Informação e Comunicação|
-|Componente curricular|Química I|
-|Carga horária|40 horas/aula|Período letivo|1ª Série|
-|Ementa:|
-|A química no cotidiano. Conceitos Fundamentais. Propriedades e Estados da matéria.  Teoria atômica.|
-|Classificação periódica. Ligação química. Forças intermoleculares. Funções Inorgânicas. Quantidade|
-|de matéria.|
-|Bibliografia básica:|
-
-ATKINS, P. W.; JONES, L. **Princípios de química: questionando a vida moderna e o meio ambiente** . 5. ed. Porto Alegre: Bookman, 2012. BRUNI, Al. T.; PETILLO, A. L. N. **Ser Protagonista** - Química - Volumes 1, 2 e 3. 2ª edição. SM, 2015. FELTRE, R. **Fundamentos da Química** . Volume Único. São Paulo: Moderna, 2005. SANTOS, W.; MOL, G. **Química Cidadã.** Volumes 1, 2 e 3. AJS, 2015. SARDELLA, A. **Química - Série Novo Ensino Médio** – Volume Único. Ática, 2005. TITO; CANTO. **Química na Abordagem do Cotidiano** . Volume Único. 4ª edição. Moderna, 2012. USBERCO, J.; SALVADOR, E. **Química.** Volumes 1, 2 e 3. 13ª edição. Saraiva, 2014. **Bibliografia complementar:** BROWN, T. L. et al. **Química** : a ciência central. 9. ed. São Paulo: Pearson Prentice Hall, 2005. São Paulo: Editora 34, 2011. CEZAR, F. L. J. **Ser Protagonista Química** . Volume Único. 1ª Edição. SM Didáticos, 2010. POLITI, E. **Química: Curso Completo.** São Paulo: Moderna, 1992. ROZENBERG, I. M. **Química geral** . São Paulo: Edgard Blücher, 2003. RUSSELL, J. B. **Química geral** . 2 ed. São Paulo: Makron Books, 1994-2008. 2 v. USBERCO, J.; SALVADOR, E. **Química** - Volume Único.  9ª edição. Saraiva, 2013.
-
-**Objetivos** 1. Compreender os conceitos básicos da matéria, bem como suas características, transformações e propriedades principais. 2. Conhecer a estrutura atômica da matéria a partir dos modelos atômicos, e analisar por que surgiram vários modelos. 3. Entender a construção da tabela periódica, como usá-la e suas características. 4. Elaborar o conceito de ligação química, na perspectiva da interação entre o núcleo de um átomo e eletrosfera de outro a partir dos desdobramentos deste conteúdo básico; 5. Compreender como os pares de elétrons das ligações estão diretamente relacionados com a geometria e polaridade molecular e, também, como esses elétrons interagem entre si, formando algumas forças intermoleculares que interferem nos pontos de fusão e ebulição e em outras propriedades das moléculas. 6. Reconhecer as espécies químicas, ácidos, bases, sais e óxidos em relação a outra espécie com a
-
-112
-
-Ministerioda Educacao InstitutoFederal doParana
-
-INSTITUTOFEDERAL PARANA
-
-## qual estabelece interação.
-
-7. Compreender a relação das quantidades de reagentes e produtos, que participam de uma reação química com o auxílio das equações químicas correspondentes;
-
-8. Identificar a ação dos fatores que influenciam a velocidade das reações químicas, representações, condições fundamentais para ocorrência, lei da velocidade, inibidores;
-
-9. Diferenciar gás de vapor, a partir dos estados físicos da matéria, propriedades dos gases, modelo de partículas e as leis dos gases;
-
-10. Compreender os conhecimentos básicos sobre a caracterização das soluções e das propriedades de seus componentes;
-
-11. Compreender o que são propriedades coligativas e quais os fenômenos envolvidos;
-
-12. Compreender os conceitos fundamentais para o estudo de eletroquímica;
-
-13. Compreender as reações químicas que envolvem variação de energia e relacionar as transformações e a quantidade de calor associados ao processo;
-
-14. Compreender os princípios e as leis que descrevem a evolução temporal das reações químicas, seus mecanismos e os fatores que afetam a velocidade destas reações.
-
-15. Compreender o conceito de equilíbrio químico, a partir dos conteúdos específicos: concentração, relações matemáticas e o equilíbrio químico, deslocamento de equilíbrio, concentração, pressão, temperatura e efeito dos catalisadores, equilíbrio químico em meio aquoso;
-
-16. Compreender a natureza das radiações e reconhecer as reações nucleares entre as demais reações químicas que ocorrem na natureza; 17. Identificar os diferentes compostos orgânicos, suas nomenclaturas, propriedades e estruturas moleculares.
-
-113
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|
-|---|---|---|---|---|---|---|
-|**Curso:**|Técnico em Informática||**Eixo tecnológico**||Informação e Comunicação||
-|**Componente curricular**|||Química II||||
-|**Carga horária**||40 horas/aula||**Período letivo**||2ª Série|
-|**Ementa:**<br>Estequiometria. Rações Químicas. Estado Gasoso. Soluções. Propriedade Coligativas.|||||||
-|**Bibliografia básica:**<br>ATKINS, P. W.; JONES, L.**Princípios de química: questionando a vida moderna e o meio**<br>**ambiente**. 5. ed. Porto Alegre: Bookman, 2012.<br>BRUNI, Al. T.; PETILLO, A. L. N.**Ser Protagonista**- Química - Volumes 1, 2 e 3. 2ª edição. SM, 2015.<br>FELTRE, R.**Fundamentos da Química**. Volume Único. São Paulo: Moderna, 2005.<br>SANTOS, W.; MOL, G.**Química Cidadã.**Volumes 1, 2 e 3. AJS, 2015.<br>SARDELLA, A.**Química - Série Novo Ensino Médio**– Volume Único. Ática, 2005.<br>TITO; CANTO.**Química na Abordagem do Cotidiano**. Volume Único. 4ª edição. Moderna, 2012.<br>USBERCO,J.;SALVADOR,E.**Química.**Volumes 1,2 e 3. 13ª edição. Saraiva,2014.|||||||
-|**Bibliografia complementar:**<br>CEZAR, F. L. J.**Ser Protagonista Química**. Volume Único. 1ª Edição. SM Didáticos, 2010.<br>HOLLER, F. JAMES; SKOOG, DOUGLAS A.; WEST, DONALD M.**Fundamentos de química**<br>**analítica.**2 ed. São Paulo: Thomson Pioneira, 2015.<br>HOUSECROFT, CATHERINE E.**Química inorgânica.**4. ed. Rio de Janeiro: LTC, 2013. 2v.<br>KOTZ, J. C.; TREICHEL JR, P. M.**Química geral e reações químicas.**São Paulo: Pioneira Thomson<br>Learning, Cengage Learning, 2010. 2v.<br>POLITI, E.**Química: Curso Completo.**São Paulo: Moderna, 1992.<br>ROZENBERG, I. M.**Química geral**. São Paulo: Edgard Blücher, 2003.<br>RUSSELL, J. B.**Química geral**. 2 ed. São Paulo: Makron Books, 1994-2008. 2v.<br>USBERCO,J.;SALVADOR,E.**Química**- Volume Único.  9ª edição. Saraiva,2013.|||||||
-|**Objetivos**|||||||
-|1. Compreender os conceitos básicos da matéria, bem como suas características, transformações e<br>propriedades principais.<br>2. Conhecer a estrutura atômica da matéria a partir dos modelos atômicos, e analisar por que surgiram<br>vários modelos.<br>3. Entender a construção da tabela periódica, como usá-la e suas características.<br>4. Elaborar o conceito de ligação química, na perspectiva da interação entre o núcleo de um átomo e<br>eletrosfera de outro a partir dos desdobramentos deste conteúdo básico;<br>5. Compreender como os pares de elétrons das ligações estão diretamente relacionados com a<br>geometria e polaridade molecular e, também, como esses elétrons interagem entre si, formando<br>algumas forças intermoleculares que interferem nos pontos de fusão e ebulição e em outras<br>propriedades das moléculas.<br>6. Reconhecer as espécies químicas, ácidos, bases, sais e óxidos em relação a outra espécie com a<br>qual estabelece interação.<br>7. Compreender a relação das quantidades de reagentes e produtos, que participam de uma reação<br>química com o auxílio das equaçõesquímicas correspondentes;|||||||
-
-114
-
-Ministerioda Educacao InstitutoFederal doParana
-
-INSTITUTOFEDERAL PARANA
-
-8. Identificar a ação dos fatores que influenciam a velocidade das reações químicas, representações, condições fundamentais para ocorrência, lei da velocidade, inibidores; 9. Diferenciar gás de vapor, a partir dos estados físicos da matéria, propriedades dos gases, modelo de partículas e as leis dos gases; 10. Compreender os conhecimentos básicos sobre a caracterização das soluções e das propriedades de seus componentes; 11. Compreender o que são propriedades coligativas e quais os fenômenos envolvidos; 12. Compreender os conceitos fundamentais para o estudo de eletroquímica; 13. Compreender as reações químicas que envolvem variação de energia e relacionar as transformações e a quantidade de calor associados ao processo; 14. Compreender os princípios e as leis que descrevem a evolução temporal das reações químicas, seus mecanismos e os fatores que afetam a velocidade destas reações. 15. Compreender o conceito de equilíbrio químico, a partir dos conteúdos específicos: concentração, relações matemáticas e o equilíbrio químico, deslocamento de equilíbrio, concentração, pressão, temperatura e efeito dos catalisadores, equilíbrio químico em meio aquoso; 16. Compreender a natureza das radiações e reconhecer as reações nucleares entre as demais reações químicas que ocorrem na natureza; 17. Identificar os diferentes compostos orgânicos, suas nomenclaturas, propriedades e estruturas moleculares.
-
-115
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-**Curso:** Técnico em Informática **Eixo tecnológico** Informação e Comunicação **Componente curricular** Química III **Carga horária** 40 horas/aula **Período letivo** 3ª Série **Ementa:** Eletroquímica. Termoquímica. Cinética Química. Equilíbrio Químico. Radioatividade. **Bibliografia básica:** ATKINS, P. W.; JONES, L. **Princípios de química: questionando a vida moderna e o meio ambiente** . 5. ed. Porto Alegre: Bookman, 2012. BRUNI, Al. T.; PETILLO, A. L. N. **Ser Protagonista** - Química - Volumes 1, 2 e 3. 2ª edição. SM, 2015. FELTRE, R. **Fundamentos da Química** . Volume Único. São Paulo: Moderna, 2005. SANTOS, W.; MOL, G. **Química Cidadã.** Volumes 1, 2 e 3. AJS, 2015. SARDELLA, A. **Química - Série Novo Ensino Médio** – Volume Único. Ática, 2005. TITO; CANTO. **Química na Abordagem do Cotidiano** . Volume Único. 4ª edição. Moderna, 2012. USBERCO, J.; SALVADOR, E. **Química.** Volumes 1, 2 e 3. 13ª edição. Saraiva, 2014. **Bibliografia complementar:** CEZAR, F. L. J. **Ser Protagonista Química** . Volume Único. 1ª Edição. SM Didáticos, 2010. HOLLER, F. JAMES; SKOOG, DOUGLAS A.; WEST, DONALD M. **Fundamentos de química analítica.** 2 ed. São Paulo: Thomson Pioneira, 2015. POLITI, E. **Química: Curso Completo.** São Paulo: Moderna, 1992. ROZENBERG, I. M. **Química geral** . São Paulo: Edgard Blücher, 2003. RUSSELL, J. B. **Química geral** . 2 ed. São Paulo: Makron Books, 1994-2008. 2v. USBERCO, J.; SALVADOR, E. **Química** - Volume Único.  9ª edição. Saraiva, 2013.
-
-## **Objetivos**
-
-|||
-|---|---|
-|1. Compreender os conceitos básicos da matéria, bem como suas características, transformações e|
-|propriedades principais.|
-|2. Conhecer a estrutura atômica da matéria a partir dos modelos atômicos, e analisar por que surgiram|
-|vários modelos.|
-|3. Entender a construção da tabela periódica, como usá-la e suas características.|
-|4. Elaborar o conceito de ligação química, na perspectiva da interação entre o núcleo de um átomo e|
-|eletrosfera de outro a partir dos desdobramentos deste conteúdo básico;|
-|5. Compreender como os pares de elétrons das ligações estão diretamente relacionados com a|
-|geometria e polaridade molecular e, também, como esses elétrons interagem entre si, formando|
-|algumas forças intermoleculares que interferem nos pontos de fusão e ebulição e em outras|
-|propriedades das moléculas.|
-|6. Reconhecer as espécies químicas, ácidos, bases, sais e óxidos em relação a outra espécie com a|
-|qual estabelece interação.|
-|7. Compreender a relação das quantidades de reagentes e produtos,|que participam de uma reação|
-
-116
-
-Ministerioda Educacao InstitutoFederal doParana
-
-INSTITUTOFEDERAL PARANA
-
-química com o auxílio das equações químicas correspondentes; 8. Identificar a ação dos fatores que influenciam a velocidade das reações químicas, representações, condições fundamentais para ocorrência, lei da velocidade, inibidores; 9. Diferenciar gás de vapor, a partir dos estados físicos da matéria, propriedades dos gases, modelo de partículas e as leis dos gases; 10. Compreender os conhecimentos básicos sobre a caracterização das soluções e das propriedades de seus componentes; 11. Compreender o que são propriedades coligativas e quais os fenômenos envolvidos; 12. Compreender os conceitos fundamentais para o estudo de eletroquímica; 13. Compreender as reações químicas que envolvem variação de energia e relacionar as transformações e a quantidade de calor associados ao processo; 14. Compreender os princípios e as leis que descrevem a evolução temporal das reações químicas, seus mecanismos e os fatores que afetam a velocidade destas reações. 15. Compreender o conceito de equilíbrio químico, a partir dos conteúdos específicos: concentração, relações matemáticas e o equilíbrio químico, deslocamento de equilíbrio, concentração, pressão, temperatura e efeito dos catalisadores, equilíbrio químico em meio aquoso; 16. Compreender a natureza das radiações e reconhecer as reações nucleares entre as demais reações químicas que ocorrem na natureza; 17. Identificar os diferentes compostos orgânicos, suas nomenclaturas, propriedades e estruturas moleculares.
-
-117
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-||**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**||
+|**QUADRO GERAL DOS TÉCNICOS DO CAMPUS COLOMBO**|**QUADRO GERAL DOS TÉCNICOS DO CAMPUS COLOMBO**|**QUADRO GERAL DOS TÉCNICOS DO CAMPUS COLOMBO**|**QUADRO GERAL DOS TÉCNICOS DO CAMPUS COLOMBO**|**QUADRO GERAL DOS TÉCNICOS DO CAMPUS COLOMBO**|
 |---|---|---|---|---|
-|**Curso:**<br>Técnico em Informática||**Eixo tecnológico**|Informação e Comunicação||
-|**Componente curricular**||Química IV|||
-|**Carga horária**<br>80 horas/aula|80 horas/aula<br>**Período letivo**|||4ª Série|
-|**Ementa:**|||||
-
-Fundamentos da Química Orgânica. Características Gerais do átomo de Carbono. Funções Orgânicas. Isomeria. Propriedades Físicas dos Compostos Orgânicos. Reações Orgânicas.
-
-**Bibliografia básica:** ATKINS, P. W.; JONES, L. **Princípios de química: questionando a vida moderna e o meio ambiente** . 5. ed. Porto Alegre: Bookman, 2012. BRUNI, Al. T.; PETILLO, A. L. N. **Ser Protagonista** - Química - Volumes 1, 2 e 3. 2ª edição. SM, 2015. FELTRE, R. **Fundamentos da Química** . Volume Único. São Paulo: Moderna, 2005. HOLLER, F. JAMES; SKOOG, DOUGLAS A.; WEST, DONALD M. **Fundamentos de química analítica.** 2 ed. São Paulo: Thomson Pioneira, 2015. MORRISON, R. T., **Química orgânica** . 15. ed. Lisboa: Fundação Calouste Gulbenkian, 2009. SANTOS, W.; MOL, G. **Química Cidadã.** Volumes 1, 2 e 3. AJS, 2015. SARDELLA, A. **Química - Série Novo Ensino Médio** – Volume Único. Ática, 2005. TITO; CANTO. **Química na Abordagem do Cotidiano** . Volume Único. 4ª edição. Moderna, 2012. USBERCO, J.; SALVADOR, E. **Química.** Volumes 1, 2 e 3. 13ª edição. Saraiva, 2014. **Bibliografia complementar:**
-
-CEZAR, F. L. J. **Ser Protagonista Química** . Volume Único. 1ª Edição. SM Didáticos, 2010. POLITI, E. **Química: Curso Completo.** São Paulo: Moderna, 1992. ROZENBERG, I. M. **Química geral** . São Paulo: Edgard Blücher, 2003. SOLOMONS, G. **Química Orgânica.** Volume 1 e 2. 8ª Edição. Rio de Janeiro: LTC, 2006. USBERCO, J.; SALVADOR, E. **Química** - Volume Único.  9ª edição. Saraiva, 2013.
-
-## **Objetivos**
-
-1. Compreender os conceitos básicos da matéria, bem como suas características, transformações e propriedades principais. 2. Conhecer a estrutura atômica da matéria a partir dos modelos atômicos, e analisar por que surgiram vários modelos. 3. Entender a construção da tabela periódica, como usá-la e suas características.
-
-4. Elaborar o conceito de ligação química, na perspectiva da interação entre o núcleo de um átomo e eletrosfera de outro a partir dos desdobramentos deste conteúdo básico;
-
-5. Compreender como os pares de elétrons das ligações estão diretamente relacionados com a geometria e polaridade molecular e, também, como esses elétrons interagem entre si, formando algumas forças intermoleculares que interferem nos pontos de fusão e ebulição e em outras propriedades das moléculas.
-
-118
-
-Ministerioda Educacao InstitutoFederal doParana
-
-INSTITUTOFEDERAL PARANA
-
-6. Reconhecer as espécies químicas, ácidos, bases, sais e óxidos em relação a outra espécie com a qual estabelece interação. 7. Compreender a relação das quantidades de reagentes e produtos, que participam de uma reação química com o auxílio das equações químicas correspondentes; 8. Identificar a ação dos fatores que influenciam a velocidade das reações químicas, representações, condições fundamentais para ocorrência, lei da velocidade, inibidores; 9. Diferenciar gás de vapor, a partir dos estados físicos da matéria, propriedades dos gases, modelo de partículas e as leis dos gases; 10. Compreender os conhecimentos básicos sobre a caracterização das soluções e das propriedades de seus componentes; 11. Compreender o que são propriedades coligativas e quais os fenômenos envolvidos; 12. Compreender os conceitos fundamentais para o estudo de eletroquímica; 13. Compreender as reações químicas que envolvem variação de energia e relacionar as transformações e a quantidade de calor associados ao processo; 14. Compreender os princípios e as leis que descrevem a evolução temporal das reações químicas, seus mecanismos e os fatores que afetam a velocidade destas reações. 15. Compreender o conceito de equilíbrio químico, a partir dos conteúdos específicos: concentração, relações matemáticas e o equilíbrio químico, deslocamento de equilíbrio, concentração, pressão, temperatura e efeito dos catalisadores, equilíbrio químico em meio aquoso; 16. Compreender a natureza das radiações e reconhecer as reações nucleares entre as demais reações químicas que ocorrem na natureza; 17. Identificar os diferentes compostos orgânicos, suas nomenclaturas, propriedades e estruturas moleculares.
-
-119
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|
-|---|---|---|---|---|---|---|
-|**Curso:**|Técnico em Informática||**Eixo tecnológico**||Informação e Comunicação||
-|**Componente curricular**|||Matemática I||||
-|**Carga horária**||120 horas/aula||**Período letivo**||1ª Série|
-|**Ementa:**<br>Conjuntos, funções, matrizes, determinantes e sistemas lineares.|||||||
-|**Bibliografia básica:**<br>DANTE, L. R.**Matemática: contexto e aplicações**. 2. ed. São Paulo: Ática. 2013. v1<br>FUGUITA, F. (et al.)**Ser Protagonista - Matemática 1**. São Paulo: Editora SM, 2011.<br>LOPES, Luiz Fernando; CALLIARI, Luiz Roberto.**Matemática Aplicada na Educação Profissional**.<br>Curitiba: Base Editorial, 2010<br>STROGATZ, Steven.**A matemática do dia a dia.**Rio de Janeiro: Campus – RJ, 2012.<br>IEZZI, G., DOLCE, O., DEGENSZAJN, D., PÉRIGO, R., ALMEIDA, N.**Matemática – ciência e**<br>**aplicações.**Editora Saraiva, 2010.<br>BARROSO,J. M.**Conexões com a matemática**. São Paulo,Editora Moderna,vol. 1,2010.|||||||
-|**Bibliografia complementar:**<br>BASSANEZI, R. C.**Ensino-aprendizagem com modelagem matemática: uma nova estratégia.**São<br>Paulo: Editora Contexto, 2002.<br>GIOVANNI, J. R., BONJORNO, J. R.**Matemática Completa**. São Paulo, Editora FTD, vol. 1, 2005.<br>IEZZI, G, DOLCE, O., MURAKAMI, C.**Fundamentos da Matemática elementar - volume 2**. São<br>Paulo, Editora Atual, 2010.<br>MURAKAMI, C., IEZZI, G.**Fundamentos da Matemática elementar - volume 1**. São Paulo, Editora<br>Atual, 2010.<br>RIBEIRO, Jackson.**Matemática: ciência, linguagem e tecnologia.**São Paulo: Editora Scipione, 2010,<br>Vol. 1.|||||||
-
-1INSTITUTOFEDERAL<br>PARANA<br>
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-6. Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionar-se quanto a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos, culturais, religiosos e de qualquer outra natureza.
-
-7. Identificar problemas, propor, desenvolver, implementar e testar soluções relacionadas à área técnica e à dinâmica das relações interpessoais existentes no ambiente escolar e de trabalho.
-
-8. Identificar os diferentes conjuntos numéricos e as propriedades ligadas a cada um deles. 9. Reconhecer os diferentes significados e representações (decimal, científica, fracionária) dos números naturais, inteiros, racionais e reais, assim como os significados e as representações das operações entre tais números.
-
-10. Analisar, interpretar e construir gráficos de diferentes funções.
-
-11. Reconhecer o crescimento ou o decrescimento de uma Função por meio de seu sinal e/ou representação gráfica.
-
-12. Calcular a raiz de uma Função.
-
-13. Identificar uma Função em situações descritas em um texto, representando-a algébrica e/ou graficamente.
-
-14. Resolver situações-problema que envolvam diferentes tipos de funções.
-
-15. Utilizar programas computacionais para a construção de gráficos de funções e estatísticos.
-
-16. Reconhecer diferentes funções por meio de sua representação algébrica e/ou gráfica.
-
-17. Identificar e resolver os diferentes tipos de equações e inequações.
-
-18. Conceituar logaritmos e operar com suas propriedades.
-
-19. Conceituar e interpretar matrizes e suas operações, e resolver situações-problema envolvendo a igualdade e as operações de adição, subtração e multiplicação de matrizes.
-
-20. Calcular o determinante de matrizes de diferentes ordens.
-
-21. Reconhecer, em uma matriz, a sua respectiva matriz oposta e a sua transposta.
-
-22. Traduzir os dados de uma situação-problema do cotidiano por meio de sistemas lineares, e utilizar adequadamente todos os métodos de resolução de tais sistemas.
-
-23. Discutir, classificar e resolver sistemas lineares.
-
-121
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|
-|---|---|---|---|---|---|---|
-|**Curso:**|Técnico em Informática||**Eixo tecnológico**||Informação e Comunicação||
-|**Componente curricular**|||Matemática II||||
-|**Carga horária**||120 horas/aula||**Período letivo**||2ª Série|
-|**Ementa:**<br>Trigonometria, estatística, geometria plana e geometria espacial.|||||||
-|**Bibliografia básica:**<br>FUGUITA, F. (et al.)**Ser Protagonista - Matemática 2.**São Paulo: Editora SM, 2011.<br>LOPES, Luiz Fernando; CALLIARI, Luiz Roberto.**Matemática Aplicada na Educação Profissional**.<br>Curitiba: Base Editorial, 2010<br>STROGATZ, Steven.**A matemática do dia a dia.**Rio de Janeiro: Campus – RJ, 2012.<br>IEZZI, G., DOLCE, O., DEGENSZAJN, D., PÉRIGO, R., ALMEIDA, N.**Matemática – ciência e**<br>**aplicações.**Editora Saraiva, 2010.<br>BARROSO,J. M.**Conexões com a matemática**. São Paulo,Editora Moderna,vol. 1,2010.|||||||
-|**Bibliografia complementar:**<br>BASSANEZI, R. C.**Ensino-aprendizagem com modelagem matemática: uma nova estratégia.**São<br>Paulo: Editora Contexto, 2002.<br>GIOVANNI, J. R., BONJORNO, J. R.**Matemática Completa**. São Paulo, Editora FTD, vol. 1, 2005.<br>IEZZI, G, DOLCE, O., MURAKAMI, C.**Fundamentos da Matemática elementar - volume 2**. São<br>Paulo, Editora Atual, 2010.<br>MURAKAMI, C., IEZZI, G.**Fundamentos da Matemática elementar - volume 1**. São Paulo, Editora<br>Atual, 2010.<br>RIBEIRO, Jackson.**Matemática: ciência, linguagem e tecnologia.**São Paulo: Editora Scipione, 2010,<br>Vol. 1.|||||||
-
-## **Objetivos**
-
-1. Expressar-se com clareza, oralmente ou por escrito, e utilizar diferentes registros, questionamentos, ideias, raciocínios, argumentos e conclusões, tanto na resolução de problemas quanto em debates ou em outras tarefas que envolvam temas ou procedimentos matemáticos e estatísticos;
-
-2. Extrair informações relevantes de diferentes fontes, como textos, tabelas ou gráficos, interpretá-las e relacioná-las.
-
-3. Compreender e usar os sistemas simbólicos referentes a números e operações, na vida cotidiana e no trabalho, para a construção de significados, de expressão, de comunicação e de informação;
-
-4. Participar ativamente da aula, ter os conteúdos em dia, realizar as atividades em sala e respeitar os colegas.
-
-5. Ter responsabilidade com prazos e realização de tarefas assumidas em atividades em grupo
-
-122
-
-Ministerioda Educacao InstitutoFederal doParana
-
-INSTITUTOFEDERAL PARANA
-
-ou individuais, desenvolvendo o respeito, a proatividade, a empatia, o empreendedorismo e a criatividade.
-
-6. Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionar-se quanto a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos, culturais, religiosos e de qualquer outra natureza.
-
-|6. Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionar-se|ou individuais, desenvolvendo o respeito, a proatividade, a empatia, o empreendedorismo e a<br>criatividade.<br>6. Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionar-se<br>quanto a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos,<br>culturais, religiosos e de qualquer outra natureza.|
-|---|---|
-|7. Identificar problemas, propor, desenvolver, implementar e testar soluções relacionadas à área|7. Identificar problemas, propor, desenvolver, implementar e testar soluções relacionadas à área|
-||técnica e à dinâmica das relações interpessoais existentes no ambiente escolar e de trabalho.|
-|8. Compreender e aplicar a lei dos senos e a lei dos cossenos para resolver situações-problema|8. Compreender e aplicar a lei dos senos e a lei dos cossenos para resolver situações-problema|
-||envolvendo as medidas de um triângulo qualquer.|
-|9. Compreender e efetuar cálculos relacionados a trigonometria.|9. Compreender e efetuar cálculos relacionados a trigonometria.|
-|10. Identificar os elementos do círculo trigonométrico|10. Identificar os elementos do círculo trigonométrico|
-|11. Transformar a medida de um ângulo em graus e radianos.|11. Transformar a medida de um ângulo em graus e radianos.|
-|12. Reconhecer as relações entre tangente, seno e cosseno.|12. Reconhecer as relações entre tangente, seno e cosseno.|
-|13. Compreender os conceitos de ponto, reta e plano.|13. Compreender os conceitos de ponto, reta e plano.|
-|14. Identificar e classificar os polígonos em diversos contextos.|14. Identificar e classificar os polígonos em diversos contextos.|
-|15. Compreender e efetuar os cálculos de área e perímetro dos polígonos.|15. Compreender e efetuar os cálculos de área e perímetro dos polígonos.|
-|16. Operar com as propriedades fundamentais dos poliedros e dos corpos redondos.|16. Operar com as propriedades fundamentais dos poliedros e dos corpos redondos.|
-|17. Calcular área, volume e capacidade de sólidos geométricos.|17. Calcular área, volume e capacidade de sólidos geométricos.|
-|18. Resolver situações-problema envolvendo o cálculo de áreas de superfícies, volume e|18. Resolver situações-problema envolvendo o cálculo de áreas de superfícies, volume e|
-||capacidade de sólidos geométricos.|
-|19. Reconhecer elementos e características de figuras geométricas planas e espaciais.|19. Reconhecer elementos e características de figuras geométricas planas e espaciais.|
-|20. Reconhecer e utilizar figuras e transformações geométricas em situações práticas.|20. Reconhecer e utilizar figuras e transformações geométricas em situações práticas.|
-|21. Interpretar e analisar informações de natureza científica e social obtidas pela leitura de tabelas,|21. Interpretar e analisar informações de natureza científica e social obtidas pela leitura de tabelas,|
-||de textos e de gráficos estatísticos.|
-|22. Identificar as ideias básicas de amostragem, organizar dados em tabelas de frequência e|22. Identificar as ideias básicas de amostragem, organizar dados em tabelas de frequência e|
-||gráficos e realizar cálculos de medidas de tendência central  (moda, média e mediana) e|
-||medidas de dispersão(variância e desvio padrão).|
-|23. Resolver situações-problema envolvendo dados e informações estatísticas.|23. Resolver situações-problema envolvendo dados e informações estatísticas.|
-|24. Utilizar adequadamente procedimentos e conceitos estatísticos para subsidiar a formulação|24. Utilizar adequadamente procedimentos e conceitos estatísticos para subsidiar a formulação|
-||de propostas e a elaboração de projetos que possibilitem realizar ações e valorizar questões|
-||relevantes à sua comunidade, como o desenvolvimento socioambiental sustentável, a saúde|
-||individual ou coletiva, a preservação da diversidade do patrimônio etnocultural dos diferentes|
-||grupos sociais,entre outros.|
-
-123
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|
-|---|---|---|---|---|---|---|
-|**Curso:**|Técnico em Informática||**Eixo tecnológico**||Informação e Comunicação||
-|**Componente curricular**|||Matemática III||||
-|**Carga horária**||120 horas/aula||**Período letivo**||3ª Série|
-|**Ementa:**<br>Estudo de sequências, análise combinatória, binômio de Newton e probabilidade.|||||||
-|**Bibliografia básica:**<br>BARROSO, J. M.**Conexões com a matemática**. São Paulo, Editora Moderna, vol. 1, 2010.<br>DANTE, L. R.**Matemática: contexto e aplicações**. 2. ed. São Paulo: Ática. 2013. v1<br>FUGUITA, F. (et al.)**Ser Protagonista - Matemática 2**. São Paulo: Editora SM, 2011.<br>IEZZI, G., DOLCE, O., DEGENSZAJN, D., PÉRIGO, R., ALMEIDA, N.**Matemática – ciência e**<br>**aplicações.**Editora Saraiva, 2010.<br>LOPES, Luiz Fernando; CALLIARI, Luiz Roberto.**Matemática Aplicada na Educação Profissional**.<br>Curitiba: Base Editorial, 2010<br>PAIVA, M.**Matemática, volume unico**. São Paulo: Moderna, 2005.<br>STROGATZ,Steven.**A matemática do dia a dia.**Rio de Janeiro: Campus – RJ,2012.|||||||
-|**Bibliografia complementar:**<br>BASSANEZI, R. C.**Ensino-aprendizagem com modelagem matemática: uma nova estratégia.**São<br>Paulo: Editora Contexto, 2002.<br>GIOVANNI, J. R., BONJORNO, J. R.**Matemática Completa**. São Paulo, Editora FTD, vol. 1, 2005.<br>IEZZI, G, DOLCE, O., MURAKAMI, C.**Fundamentos da Matemática elementar - volume 2**. São<br>Paulo, Editora Atual, 2010.<br>MURAKAMI, C., IEZZI, G.**Fundamentos da Matemática elementar - volume 1**. São Paulo, Editora<br>Atual, 2010.<br>RIBEIRO, Jackson.**Matemática: ciência, linguagem e tecnologia.**São Paulo: Editora Scipione, 2010,<br>Vol. 1.|||||||
-
-## **Objetivos**
-
-1. Expressar-se com clareza, oralmente ou por escrito, e utilizar diferentes registros, questionamentos, ideias, raciocínios, argumentos e conclusões, tanto na resolução de problemas quanto em debates ou em outras tarefas que envolvam temas ou procedimentos matemáticos e estatísticos;
-
-2. Extrair informações relevantes de diferentes fontes, como textos, tabelas ou gráficos, interpretá-las e relacioná-las.
-
-3. Compreender e usar os sistemas simbólicos referentes a números e operações, na vida cotidiana e no trabalho, para a construção de significados, de expressão, de comunicação e de informação;
-
-4. Participar ativamente da aula, ter os conteúdos em dia, realizar as atividades em sala e
-
-124
-
-1INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao InstitutoFederal doParana
-
-## respeitar os colegas.
-
-5. Ter responsabilidade com prazos e realização de tarefas assumidas em atividades em grupo ou individuais, desenvolvendo o respeito, a proatividade, a empatia, o empreendedorismo e a criatividade.
-
-6. Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionar-se quanto a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos, culturais, religiosos e de qualquer outra natureza.
-
-7. Identificar problemas, propor, desenvolver, implementar e testar soluções relacionadas à área técnica e à dinâmica das relações interpessoais existentes no ambiente escolar e de trabalho.
-
-8. Identificar padrões numéricos como PA (progressão aritmética) e a PG (progressão geométrica).
-
-9. Compreender e operar com a fórmula do termo geral e a fórmula da soma dos termos de uma Progressão Aritmética e/ou Geométrica.
-
-10. Identificar e resolver situações-problema envolvendo Progressões Aritméticas e/ou Geométricas.
-
-11. Compreender e aplicar os conceitos da Análise Combinatória e efetuar cálculos envolvendo os agrupamentos de permutação, arranjo e combinação.
-
-12. Interpretar e resolver problemas combinatórios em contextos diversos, aplicando os princípios de contagem.
-
-13.  Realizar cálculos utilizando Binômio de Newton. 14. Compreender a teoria e a linguagem das probabilidades, identificando fenômenos e experimentos aleatórios, espaço amostral e evento.
-
-15. Aplicar os conceitos de probabilidade para analisar um fenômeno ou uma situação do cotidiano ou de outro contexto.
-
-16.  Calcular a probabilidade de ocorrência de um evento, inclusive com a união e interseção de eventos e resolva situações-problemas envolvendo o cálculo de probabilidades.
-
-125
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|
-|---|---|---|---|---|---|---|
-|**Curso:**|Técnico em Informática||**Eixo tecnológico**||Informação e Comunicação||
-|**Componente curricular**|||Matemática IV||||
-|**Carga horária**||120 horas/aula||**Período letivo**||4ª Série|
-|**Ementa:**<br>Estudo de matemática financeira, geometria analítica, números complexos e polinômios.|||||||
-|**Bibliografia básica:**<br>DANTE, L. R.**Matemática: contexto e aplicações**. 2. ed. São Paulo: Ática. 2013. v1<br>FUGUITA, F. (et al.)**Ser Protagonista - Matemática 1**. São Paulo: Editora SM, 2011.<br>LOPES, Luiz Fernando; CALLIARI, Luiz Roberto.**Matemática Aplicada na Educação Profissional**.<br>Curitiba: Base Editorial, 2010<br>STROGATZ, Steven.**A matemática do dia a dia.**Rio de Janeiro: Campus – RJ, 2012.<br>IEZZI, G., DOLCE, O., DEGENSZAJN, D., PÉRIGO, R., ALMEIDA, N.**Matemática – ciência e**<br>**aplicações.**Editora Saraiva, 2010.<br>BARROSO,J. M.**Conexões com a matemática**. São Paulo,Editora Moderna,vol. 1,2010.|||||||
-|**Bibliografia complementar:**<br>BASSANEZI, R. C.**Ensino-aprendizagem com modelagem matemática: uma nova estratégia.**São<br>Paulo: Editora Contexto, 2002.<br>GIOVANNI, J. R., BONJORNO, J. R.**Matemática Completa**. São Paulo, Editora FTD, vol. 1, 2005.<br>IEZZI, G, DOLCE, O., MURAKAMI, C.**Fundamentos da Matemática elementar - volume 2**. São<br>Paulo, Editora Atual, 2010.<br>MURAKAMI, C., IEZZI, G.**Fundamentos da Matemática elementar - volume 1**. São Paulo, Editora<br>Atual, 2010.<br>RIBEIRO, Jackson.**Matemática: ciência, linguagem e tecnologia.**São Paulo: Editora Scipione, 2010,<br>Vol. 1.|||||||
-
-## **Objetivos**
-
-|1. Expressar-se com clareza, oralmente ou por escrito, e utilizar diferentes registros,|1. Expressar-se com clareza, oralmente ou por escrito, e utilizar diferentes registros,|
-|---|---|
-||questionamentos, ideias, raciocínios, argumentos e conclusões, tanto na resolução de|
-||problemas quanto em debates ou em outras tarefas que envolvam temas ou procedimentos|
-||matemáticos e estatísticos;|
-|2. Extrair informações relevantes de diferentes fontes, como textos, tabelas ou gráficos,|2. Extrair informações relevantes de diferentes fontes, como textos, tabelas ou gráficos,|
-||interpretá-las e relacioná-las.|
-|3. Compreender e usar os sistemas simbólicos referentes a números e operações, na vida|3. Compreender e usar os sistemas simbólicos referentes a números e operações, na vida|
-||cotidiana e no trabalho, para a construção de significados, de expressão, de comunicação e|
-||de informação;|
-|4. Participar ativamente da aula, ter os conteúdos em dia, realizar as atividades em sala e|4. Participar ativamente da aula, ter os conteúdos em dia, realizar as atividades em sala e|
-||respeitar os colegas.|
-|5. Ter responsabilidade com prazos e realização de tarefas assumidas em atividades em grupo|5. Ter responsabilidade com prazos e realização de tarefas assumidas em atividades em grupo|
-||ou individuais,desenvolvendo o respeito,aproatividade,a empatia,o empreendedorismo e a|
-
-126
-
-Ministerioda Educacao InstitutoFederal doParana
-
-INSTITUTOFEDERAL PARANA
-
-## criatividade.
-
-6. Ter um repertório de argumentos e capacidade de se expressar para discutir e posicionar-se quanto a situações da vida cotidiana, incluindo as relacionadas a preconceitos raciais, étnicos, culturais, religiosos e de qualquer outra natureza.
-
-7. Identificar problemas, propor, desenvolver, implementar e testar soluções relacionadas à área técnica e à dinâmica das relações interpessoais existentes no ambiente escolar e de trabalho.
-
-8. Fazer estimativas, cálculos e previsões numéricas de custos, porcentagens, juros e outros valores ou variáveis de caráter econômico ou social, avaliando e fazendo previsões em situações práticas do dia a dia que utilizam a Matemática Financeira.
-
-9. Utilizar sistemas de coordenadas e Geometria Analítica para expressar ideias e resolver problemas que exijam indicação clara de localização de objetos ou pontos de referência.
-
-10. Identificar geométrica e analiticamente posições relativas, entre circunferência, retas, pontos e planos, no espaço.
-
-11. Reconhecer e verificar a condição de alinhamento de três pontos. 12. Resolver analiticamente os cálculos da medida da distância entre dois pontos, entre um ponto e uma reta, no plano cartesiano, e da medida da área de um triângulo por meio das coordenadas de seus vértices.
-
-13. Resolver problemas de situações do cotidiano que envolvam geometria analítica da circunferência, do ponto e da reta.
-
-14. Reconhecer e obter a equação geral da reta e da circunferência. 15. Resolver operações com números complexos. 16. Identificar e representar as formas algébricas e gráficas e trigonométricas dos números complexos.
-
-17. Efetuar cálculos envolvendo equações cujas raízes não são reais. 18. Resolver operações de adição, subtração, multiplicação e divisão de polinômios.
-
-127
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|
-|---|---|---|---|---|---|---|
-|**Curso:**|Técnico em Informática||**Eixo tecnológico**||Informação e Comunicação||
-|**Componente curricular**|||Algoritmos||||
-|**Carga horária**||80 horas/aula||**Período letivo**||1ª Série|
-|**Ementa:**<br>Raciocínio lógico. Resolução de algoritmos.|||||||
-|**Bibliografia básica:**<br>FORBELLONE, André L.V.**Lógica de Programação**. 3. ed. Makron Books, 2005.<br>DO LAGO PEREIRA, Silvio.**Algoritmos e Lógica de Programação em C: Uma Abordagem**<br>**Didática**. Érica, 2010.<br>CORMEN, T.H.; LEISERSON, C. E.; RIVEST, R. L.; STEIN C.**Algoritmos – Teoria e Prática**. 1ª ed.,<br>Campus, 2012.<br>ZIVIANI, N.**Projeto de Algoritmos com Implementações em Java e C++**. 1ª ed., Thomson Pioneira,<br>2006<br>MARJI, Majed.**Aprenda a Programar com Scratch.**Novatec, 2014.|||||||
-|**Bibliografia complementar:**<br>PEREIRA, S. L.**Algoritmos e Lógica de Programação em C - Uma Abordagem Didática**. 1ª ed.,<br>Érica, 2010.<br>MANZANO, J. A. N. G; OLIVEIRA, J. F.**Algoritmos: lógica para desenvolvimento de programação**<br>**de computadores**. 19ª ed., Érica, 2006<br>MEDINA, M.; FERTIG, C.**Algoritmos e Programação - Teoria e Prática**. 3ª ed., Novatec, 2005.<br>VILARIN, G.**Algoritmo: Programação para Iniciantes**. 1ª ed., Ciência Moderna, 2004.<br>FARRER, Harry.**Algoritmos e Estruturados**. 3. ed. LTC, 1999.|||||||
-
-## **Objetivos**
-
-Apresentar técnicas, comandos, estruturas de controle e armazenamento para o desenvolvimento de algoritmos.
-
-128
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-**Curso:** Técnico em Informática **Eixo tecnológico** Informação e Comunicação **Componente curricular** Linguagem de Programação **Carga horária** 120 horas/aula **Período letivo** 1ª Série
-
-## **Ementa:**
-
-Sintaxe de comandos em Linguagem C. Resolução de algoritmos. Raciocínio lógico.
-
-**Bibliografia básica:** DO LAGO PEREIRA, Silvio. **Algoritmos e Lógica de Programação em C: Uma Abordagem Didática** . Érica, 2010. SCHILDT, H. **C – Completo e Total** . 3ª ed., Makron Books, 1997. FARRER, Harry. **Algoritmos e Estruturados** . 3. ed. LTC, 1999. METZ, João Ariberto; BENEDUZZI, Humberto Martins. **Lógica e Linguagem de Programação** . 1a. Edição. Editora LT, 2010. DEITEL, P. J.; DEITEL, H. M. **C: Como Programar** . 6ª ed., Pearson Prentice Hall, 2011.
-
-**Bibliografia complementar:** DAMAS, L. **Linguagem C** . 10ª ed., LTC, 2007. MIZRAHI, V. V. **Treinamento em Linguagem C** . 2ª ed., Pearson, 2008. BACKES, A. **Linguagem C – Completa e Descomplicada** . 1ª ed., Campus, 2013. PINHEIRO, F. A. C. **Elementos de Programação em C** . 1ª ed., Bookman, 2012. MANZANO, J. A. N. G. **Estudo dirigido de linguagem C** . 9ª ed., Érica, 2006.
-
-## **Objetivos**
-
-Conhecer o desenvolvimento de softwares através de divisão modular e refinamentos sucessivos. Identificar as estruturas de dados necessárias para a resolução de problemas computacionais.
-
-129
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-|||||
-|---|---|---|---|
-|Curso:|Técnico em Informática|Eixo tecnológico|Informação e Comunicação|
-|Componente curricular|Arquitetura e Organização de Computadores|
-|Carga horária|40 horas/aula|Período letivo|1ª Série|
-|Ementa:|
-|Conceitos usados na Informática. Componentes que formam o computador. Relação entre software e|
-|hardware. Evolução dos computadores e sistemas.|
-|Bibliografia básica:|
-|TANENBAUM, A. S.|Organização estruturada de computadores|. 5. Edição. São Paulo: Pearson|
-|Prentice - Hall, 2007. 452 p.|
-|STALLINGS, W.|Arquitetura e organização de computadores.|8. Edição. São Paulo: Pearson|
-|Prentice - Hall, 2010. 626 p.|
-|HENNESSY, John L.; PATTERSON, David A.|Arquitetura de Computadores. Uma Abordagem|
-|Quantitativa|. 4. Edição. Elsevier: Campus, 2008.|
-|FOROUZAN, B.; MOSHARRAF, F.|Fundamentos da Ciência da Computação|. São Paulo: Cengage|
-|Learning, 2011.|
-|DEITEL, H. M., DEITEL, P.J., CHOFINES, D.R.|Sistemas Operacionais|. São Paulo: Pearson|
-|Prenticce-Hall, 2005.|
-|Bibliografia complementar:|
-|LAUREANO, Marcos Aurelio Pchek; OLSEN, Diogo Roberto, A. S.|Sistemas Operacionais|.  1ª.|
-|Edição. Editora LT. 2010.|
-|ENGLANDER. I|Arquitetura de Hardware Computacional, Software de Sistema e Comunicação|
-|em Rede|. 4 ed. Rio de Janeiro: LTC, 2011.|
-|SCHIAVONI, Marilene.|Hardware|. 1ª. Edição. Editora LT. 2010|
-|MONTEIRO, M. A.|Introdução à Organização de Computadores|. 5 ed. Rio de Janeiro: LTC, 2007.|
-|HENNESSY, J.L; PATTERSON, D.A.|Arquitetura de Computadores - Uma Abordagem|
-|Quantitativa|. Rio de Janeiro: Elsevier, 2008.|
-
-## **Objetivos**
-
-Compreender o correto funcionamento dos equipamentos, softwares dos sistemas de Informação e Comunicação. Conhecer sistemas operacionais, seus serviços, funções, ferramentas e recursos. Conhecer dispositivos periféricos, componentes do computador e o relacionamento entre eles.
-
-130
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-|||||
-|---|---|---|---|
-|Curso:|Técnico em Informática|Eixo tecnológico|Informação e Comunicação|
-|Componente curricular|Engenharia de Software I|
-|Carga horária|40 horas/aula|Período letivo|2ª Série|
-|Ementa:|
-|Conceitos usados em Engenharia de Software. Ciclo de vida de um sistema. Metodologias, processos,|
-|ferramentas e qualidade na Engenharia de Software.|
-|Bibliografia básica:|
-|PRESSMAN, Roger S.; MAXIM, Bruce R.|Engenharia de Software: uma abordagem profissional|.|
-|8. ed. Porto Alegre: AMGH, 2016.|
-|SOMMERVILLE, Ian.|Engenharia de software.|9. ed. São Paulo: Pearson Prentice Hall, 2011.|
-|LARMAN, Craig.|Utilizando UML e padrões: uma introdução à análise e ao projeto orientado a|
-|objetos e ao desenvolvimento iterativo|. 3. ed. Porto Alegre: Bookman, 2005.|
-|BROD, Cesar.|Scrum: guia prático para projetos ágeis|. 2. ed. São Paulo: Novatec, 2015. 198 p.|
-|BOOCH, Grady; RUMBAUGH, James; JACOBSON, Ivar.|UML: guia do usuário|. 2. ed., rev. e atual.|
-|Rio de Janeiro: Elsevier, 2012. 521 p.|
-|Bibliografia complementar:|
-|DEBASTIANI, Carlos Alberto.|Definindo escopo em projetos de software.|São Paulo: Novatec, 2015.|
-|139p.|
-|CARDOSO, Caíque.|UML na Prática: do problema ao sistema|. Rio de Janeiro: Ciência Moderna,|
-|2003.|
-|MECENAS, Ivan; OLIVEIRA, Vivianne de.|Qualidade em Software|. São Paulo: Alta Books, 2005|
-|JUNIOR, Helio Engholm.|Engenharia de Software na Prática.|Novatec. 2010.|
-|MEDEIROS, Ernani Sales de.|Desenvolvendo Software com UML 2.0.|São Paulo. Pearson. Makron|
-|Books, 2004.|
-
-**Objetivos** Conhecer o desenvolvimento de softwares através de divisão modular e refinamentos sucessivos. Identificar as estruturas de dados necessárias para a resolução de problemas computacionais. Conhecer tecnologias de desenvolvimento de software amigável com uso de IHC e engenharia de software. Conhecer metodologias de desenvolvimento de software. Aplicar técnicas de análise de sistemas para identificação e especificação das necessidades de softwares. Identificar o ciclo de vida de um sistema.
-
-131
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-**Curso:** Técnico em Informática **Eixo tecnológico** Informação e Comunicação **Componente curricular** Introdução à Programação Orientada a Objetos **Carga horária** 120 horas/aula **Período letivo** 2ª Série **Ementa:** Conceitos de Orientação a Objetos. Sistemas orientados a objetos. **Bibliografia básica:** ARNOLD, Ken; GOSLING, James, HOLMES, David. **A Linguagem de Programação Java.** 4. ed.Bookman, 2007. DEITEL, H.M.; DEITEL, P.J.. **Java Como Programar** . 8. ed. Prentice Hall, 2010. BEZERRA, Eduardo. **Princípios de Análise e Projeto de Sistemas com UML** . Rio de Janeiro: Elsevier, 2002. SINTES, A. **Aprenda programação orientada a objetos em 21 dias** . Pearson, 2002. LEMAY, L. **Aprenda em 21 dias Java 2.** São Paulo, Campus, 1998. **Bibliografia complementar:** BLOCK, Joshua. **Java Efetivo** . 2. ed. Alta Books, 2009. DEITEL, H.M.; DEITEL, P.J. **C++ Como Programar** . 5. ed. Prentice Hall, 2006. CARDOSO, Caíque. **UML na Prática: do problema ao sistema** . Rio de Janeiro: Ciência Moderna, 2003. VILARIM, Gilvan de Oliveira. **Programação Orientada a Objetos** . 1a. Edição. Editora LT, 2015. SIERRA, K.; BATES, B. **Use a Cabeça Java.** Editora Alta Books, Rio de Janeiro, 2010.
-
-## **Objetivos**
-
-Conhecer o desenvolvimento de softwares através de divisão modular e refinamentos sucessivos. Compreender as principais técnicas de representação e manipulação de dados. Conhecer os principais tipos e estruturas de dados. Conhecer o paradigma e ferramentas para o desenvolvimento de programas orientados a objetos.
-
-132
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
+||||||
+|**Servidor**|**Departamento**|**Cargo**|**Titulação**|**Nível**|
+|Alex de Oliveira Chaves|Seção de<br>Secretaria<br>Acadêmica|Assistente em<br>Administração|Ensino Médio|D|
+|Andreza Seixas|Coordenadoria de<br>Ensino|Técnico em<br>Assuntos<br>Educacionais|Mestrado|E|
+|Antonio Daudt|Coordenadoria de<br>Ensino|Bibliotecário e<br>Documentalista|Graduação|E|
+|Cassandra Santiago Cardoso<br>Tavares Goes|Seção de Estágio<br>e Relações<br>Comunitárias|Auxiliar em<br>Administração|Especialização|C|
+|Edineia Groszevicz|Seção<br>Pedagógica e<br>Assuntos<br>Estudantis|Pedagoga|Especialização|E|
+|Everton Barboza Cardoso|Seção<br>Pedagógica e<br>Assuntos<br>Estudantis|Assistente de<br>Alunos|Graduação|C|
+|Everton Carlos Pinto|Coordenadoria<br>Administrativa|Assistente em<br>Administração|Especialização|D|
+|Giseli Cristina da Silva<br>Schneider|Seção<br>Pedagógica e<br>Assuntos<br>Estudantis|Psicóloga|Mestrado|E|
+|Hermelinda Peixoto Pereira<br>Martins|Coordenadoria de<br>Ensino|Bibliotecário e<br>Documentalista|Mestrado|E|
+|Jefferson Adriano Brunelli|Seção<br>Pedagógica e<br>Assuntos<br>Estudantis|Assistente de<br>Alunos|Especialização|C|
+|Joana Daic Lopes Nagamato|Seção de<br>Secretaria<br>Acadêmica|Auxiliar em<br>Administração|Especialização|C|
+|Kerly Cristina de Souza|Coordenadoria de<br>Ensino|Assistente em<br>Administração|Especialização|D|
+|Luiz Fernando da Rocha|Seção Contábil e<br>Patrimônio|Assistente<br>Administrativo|Especialização|D|
 
 ||||||
 |---|---|---|---|---|
-|Curso:|Técnico em Informática|Eixo tecnológico|Informação e Comunicação|
-|Componente curricular|Banco de Dados|
-|Carga horária|80 horas/aula|Período letivo|2ª Série|
-|Ementa:|
-|Banco de dados. Sistemas gerenciadores de banco de dados (SGBD). Comandos SQL. Gerenciamento|
-|de transações. Características dos SGBD.|
-|Bibliografia básica:|
-|SILBERSCHATZ, Abraham; KORTH,|Henry F.; SUDARSHAN, S|.|Sistemas de banco de dados|. 3.|
-|Edição. São Paulo: Makron Books, 2008. 778 p.|
-|DATE, Chris J.|Introdução a sistemas de banco de dados|. 8. Edição. Rio de Janeiro: Elsevier, 2004.|
-|896 p.|
-|HEUSER, Carlos Alberto.|Projeto de banco de dados|. 5. Edição.  Porto Alegre: Editora Sagra|
-|Luzzatto. 2004.|
-|ELMASRI, R.; NAVATHE, S.|Sistemas de banco de dados|. 6. Edição. São Paulo: Pearson. 2011. 808|
-|p.|
-|RAMAKRISHNAN, Raghu; GEHRKE, Johannes.|Sistemas de gerenciamento de bancos de dados.|
-|3ª Edição. Porto Alegre: Mc Graw Hill. 2008. 912 p.|
-|Bibliografia complementar:|
-|GUIMARÃES, Célio C.|Fundamentos de Banco de Dados|. Unicamp, 2003.|
-|KROENKE,David M.|Banco de Dados: fundamentos, projeto e implementação|. 6. Edição. Rio de|
-|Janeiro: LTC, 1999. 379 p.|
-|MACHADO, F; ABREU, M.|Projeto de banco de dados: uma visão prática|. São Paulo, Érica, 1999.|
-|ANGELOTTI, Elaini Simoni.|Banco de dados|. 1. Edição. Curitiba: Editora LT. 2010.|
-|PUGA, Sandra, FRANÇA, Edson, GOYA, Milton.|Banco de Dados: Implementação em SQL, PL/SQL|
-|e Oracle 11g|. 1. Edição. São Paulo. Pearson. 2013.|
+|Marcela Fernanda Geton<br>Guelfi|Coordenadoria de<br>Ensino|Técnica em<br>Laboratório|Mestrado|D|
+|Mariana do Amaral Rocha|Seção de Gestão<br>de Pessoas|Assistente<br>Administrativo|Especialização|D|
+|Marianne Heringer Nogueira<br>Zanirato|Seção<br>Pedagógica e<br>Assuntos<br>Estudantis|Pedagoga|Especialização|E|
+|Marilza da Silva|Seção de<br>Compras e<br>Contratos|Assistente em<br>Administração|Mestrado|D|
+|Marines dos Santos Silveira|Seção de<br>Secretaria<br>Acadêmica|Técnico em<br>Secretariado|Especialização|D|
+|Taciane Aparecida Soares|Coordenadoria do<br>Núcleo de Apoio<br>a Pessoas com<br>Necessidades<br>Específicas|Assistente de<br>Alunos|Especialização|C|
+|Thiago Medeiros Granato|Coordenadoria<br>Contábil|Técnico em<br>Tecnologia da<br>Informação|Especialização|D|
+|William Orestes Vitorino de<br>Oliveira|Coordenadoria de<br>Ensino|Técnico em<br>Laboratório|Especialização|D|
 
-## **Objetivos**
+## 8.3 INSTRUMENTOS DE GESTÃO DEMOCRÁTICA
 
-Aplicar Banco de Dados no desenvolvimento de softwares. Compreender as principais técnicas de representação e manipulação de dados. Conhecer os principais tipos e estruturas de dados. Conhecer as técnicas para modelagem de banco de dados. Identificar recursos para o gerenciamento transações, recuperação, integração gerenciadores de banco de dados de usuários, concorrência, segurança e em sistemas.
+## **8.3.1 Funcionamento dos Colegiados de Gestão**
 
-133
+Os artigos 14 e 15 da Lei de Diretrizes e Bases da Educação Nacional estabelecem os princípios e responsabilidades da IES na implementação da Gestão Democrática.
 
-INSTITUTOFEDERAL PARANA
+Art. 14. Os sistemas de ensino definirão as normas da gestão democrática do ensino público na educação básica, de acordo com as suas peculiaridades e conforme os seguintes princípios:
 
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
+I – participação dos profissionais da educação na elaboração do projeto pedagógico da escola;
 
-## **Campus Colombo do IFPR**
+II – participação das comunidades escolar e local em Conselhos Escolares e em Fóruns dos Conselhos Escolares ou equivalentes. (Redação dada pela Lei nº 14.644, de 2023).
 
-**Curso:** Técnico em Informática **Eixo tecnológico** Informação e Comunicação **Componente curricular** Introdução a Redes de Computadores **Carga horária** 80 horas/aula **Período letivo** 3ª Série **Ementa:** Sistemas de Informação e Comunicação. Arquitetura e Sistemas de Redes. Tipos de dados e condicionamentos em rede. Tipos de dados e protocolos nas camadas de rede dos modelos OSI e TCP/IP. Segurança da Informação. **Bibliografia básica:** KUROSE, J. F. e Ross, K. W. **Redes de Computadores e a Internet** , Quinta Edição, Pearson Education do Brasil, 2010. FOROUZAN, B. A. **Comunicação de Dados e Redes de Computadores** , Terceira Edição, Bookman, 2006. TANENBAUM, A. S. **Redes de Computadores** , Quarta Edição, Editora Campus, 2003. OLSEN, Diogo Roberto; LAUREANO, Marcos Aurelio Pchek. **Redes de Computadores** . Primeira Edição, Editora LT. 2010 BRITO, Fábio Timbó; BRITO, Felipe Timbó. **Protocolos de Comunicação** . Primeira Edição, Editora LT. 2015. **Bibliografia complementar:** STALLINGS, W. **Data and Computer Communications** , Seventh Edition, Prentice Hall, 2004. SOARES, L. F. G. et al. **Redes de Computadores, Das LANs, MANs e WANs às Redes ATM** , Segunda Edição, Editora Campus, 1999. COELHO, P. E. **Projetos de Redes Locais com Cabeamento Estruturado** , 1ª. Ed, Instituto Online, 2003. COMER, D. E. **Interligação em Rede com TCP/IP** , Vol. 1. Rio de Janeiro, Campus, 2006. LAUREANO, Marcos Aurelio Pchek. **Segurança da Informação** . Primeira Edição, Editora LT. 2012.
+Art. 15. Os sistemas de ensino assegurarão às unidades escolares públicas de educação básica que os integram progressivos graus de autonomia pedagógica e administrativa e de gestão financeira, observadas as normas gerais de direito financeiro público (LDB, 2005, p. 12).
 
-**Objetivos** Conhecer meios físicos, dispositivos, padrões e protocolos de comunicação. Conhecer documentação técnica de sistemas de Informação e Comunicação. Analisar e dimensionar as necessidades das organizações em relação ao uso de softwares e equipamentos de informática e/ou comunicação. Identificar arquiteturas de redes e tipos, serviços e funções de servidores. Conhecer o funcionamento dos serviços de redes. Identificar e compreender os protocolos de rede como o TCP/IP. Conhecer conceitos relativos à segurança da informação.
+Considerando a lei supracitada, o IFPR, regulamenta por meio das Resoluções nº 08/2014 e nº 22/2014 os regimentos internos de cada campus e regimento internos dos colegiados de cada campus do IFPR, respetivamente.
 
-134
+O Colégio de Dirigentes do Campus – CODIC, consiste num órgão que auxilia e assessora a Gestão do Campus. O CODIC é órgão consultivo, propositivo, avaliativo, mobilizador e normativo de apoio técnico-político à gestão do Campus. A função consultiva e propositiva corresponde às competências para assessorar a gestão do Campus, opinando sobre as ações pedagógicas, administrativas, orçamentárias e disciplinares exercidas pelas Unidades Executivas.
 
-INSTITUTOFEDERAL PARANA
+A função avaliativa corresponde às competências para diagnosticar, avaliar e fiscalizar o cumprimento das ações desenvolvidas pelo Campus. A função mobilizadora corresponde às competências para apoiar, promover e estimular a comunidade escolar e local em busca da melhoria da qualidade do ensino e do acesso à escola. A função normativa corresponde à função de orientar e disciplinar, por meio de normas complementares, diretrizes e indicações, dentro do âmbito de sua competência, obedecendo aos marcos legais do IFPR. O CODIC é constituído pela Direção Geral, Direção de Planejamento e Administração, Direção de Ensino, Pesquisa e Extensão, Coordenações de Curso, representante Docente, representante de Técnico Administrativo em Educação, representante Discente, representante de Pais de estudantes do ensino médio integrado e representante da Sociedade Civil. O Colegiado de Gestão Pedagógica do Campus – CGPC consiste em auxiliar da gestão pedagógica, com atuação regular e planejada na concepção, execução, controle, acompanhamento e avaliação dos processos pedagógicos da ação educativa. A competência do CGPC será exercida nos limites da legislação em vigor, das diretrizes da política educacional vigente expedida pelo IFPR e do compromisso de serem centros permanentes de debates e órgãos articuladores dos setores escolares e comunitários. O CGPC é coordenado pela Direção de Ensino, Pesquisa, Extensão e Inovação e tem como membros a Coordenação de Ensino, as Coordenações de Curso, o Coordenador do NAPNE e uma Pedagoga da SEPAE.
 
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
+Os Colegiados de cursos são órgãos consultivos e deliberativos do Campus para assuntos de natureza pedagógica, didática e disciplinar, no âmbito de cada curso, tendo como finalidade o desenvolvimento e fortalecimento dos cursos ofertados, assegurando a participação dos segmentos da comunidade escolar. Os colegiados de curso são compostos: pelos docentes dos componentes curriculares do curso; 01 representante técnico administrativo em educação ligado diretamente ao curso; 02 representantes discentes de turmas distintas. O Colegiado é coordenado por um(a) docente e na sua ausência pela Coordenação de Ensino do Campus.
 
-## **Campus Colombo do IFPR**
+## **8.3.2 Representatividade da Comunidade Acadêmica**
 
-**Curso:** Técnico em Informática **Eixo tecnológico** Informação e Comunicação **Componente curricular** Tópicos Avançados de Informática **Carga horária** 40 horas/aula **Período letivo** 3ª Série **Ementa:**
+A Comissão Própria de Avaliação (CPA) possui a missão de conduzir os processos de avaliação internos da Instituição, sendo um canal importante para dar voz à comunidade acadêmica. Regulamentada no IFPR pela Resolução nº 56/2012, a CPA assegura a participação de todos os segmentos da comunidade interna e sociedade civil no processo de avaliação do IFPR; quantifica a qualidade, tanto do ensino, como das ações vinculadas a gestão. Estes índices permitem detectar potencialidades e fragilidades da instituição, objetivando corrigir problemas e reforçar pontos fortes. A participação de servidores e discentes também ocorre por meio de
 
-Funcionamento dos componentes Arduino. Programação para Arduino.
+reuniões pedagógicas, reuniões de professores e reuniões de colegiado, onde há presença de um discente, representante da turma em questão. Em relação aos assuntos pedagógicos, os campi do IFPR possuem uma Seção Pedagógica e de Assuntos Estudantis (SEPAE), a qual é responsável por auxiliar os docentes e estudantes nas ações referentes ao processo ensinoaprendizagem articulado com a Assistência Estudantil.
 
-**Bibliografia básica:** MCROBERTS, Michael. **Arduino básico.** 2. ed. São Paulo: Novatec, 2015. 506 EVANS,Martin. NOBLE, Joshua. HOCHENBAUM, Jordan. **Arduino em Ação** . Primeira Edição. São Paulo. 424. MONK, Simon. **Programação com Arduino. Começando com Sketches** . 1a. Edição. Bookman. 2013 ZANETTI, Humberto Augusto Piovesana; OLIVEIRA, Claudio Luis Vieira. **Arduino Descomplicado. Como Elaborar Projetos de Eletrônica** . 1a. Edição. Editora Érica. 2015. FRIZZARIN, Fernando Bryan. **Arduino: Guia Para Colocar Suas Ideias Em Prática** . 1a. Edição. Editora Casa do Código. 2016
+As Resoluções constituídas pelo IFPR por meio do CONSUP e as IIP (Instruções Internas de Procedimentos) das Pró-Reitorias e Diretorias Sistêmicas, orientam tanto servidores quanto estudantes em relação ao que pode ou não ser feito, garantindo a legalidade na tomada de decisões.
 
-**Bibliografia complementar:** BANZI, Massimo. SHILOH, Michael. **Primeiros Passos com o Arduino** . 2a. Edição. São Paulo: Novatec, 2015. 240 MONK, Simon. **Projetos Com Arduino e Android** - Série Tekne.  Bookman. 2013 MONK, Simon. **Arduino + Android projects for the evil genius: control Arduino with your smartphone or tablet** . New York: McGraw-Hill, 2012. 197 p. MONK, Simon. **30 projetos com Arduino** . 2. ed. Porto Alegre: Bookman, 2014. 214 p. LAZAR, Jon. **Arduino and LEGO projects** . San Bernardino, CA: Apress, 2013. 192 p.
+## **8.3.3 Participação da Sociedade Civil na Gestão do Curso**
 
-**Objetivos** Conhecer os componentes Arduino. Conhecer e realizar programação para Arduino.
+A participação e colaboração da Sociedade Civil na Gestão do Campus Colombo e, por consequência, na gestão do Curso Técnico em Informática, se dá por meio da atuação dos membros do CODIC cujas atribuições consultivas, propositivas, avaliativas, mobilizadoras e normativas se dão no âmbito do apoio técnico-político à gestão do campus, bem como dos participantes da APMF. No CODIC, conforme estabelecido pela Resolução nº 8 de 30 de abril de 2014, é assegurada a participação da sociedade civil, por meio de 2 representantes sendo 1 indicado por entidades patronais e 1 indicado por entidades dos (das) trabalhadores (as). No CODIC participam também: as diretorias do campus; representantes dos docentes, técnicos e estudantes, 1 representante dos pais dos(as) alunos(as) da Educação Profissional Técnica integrada ao Ensino Médio.
 
-135
+Além de Codic e APMF, as parcerias com entidades civis e patronais tem aumentado a participação da comunidade externa junto a instituição. Parcerias com entidades como o SEBRAE e CIEE, além da Prefeitura Municipal de Colombo, trazem a colaboração e o incentivo da participação da comunidade. Eventos como feiras, competições, além das incubadoras, tem se mostrado como importantes mecanismos de integração.
 
-INSTITUTOFEDERAL PARANA
+Uma outra forma de participação, é por meio de reuniões de pais, mães e/ou responsáveis, nas quais é apresentada a situação acadêmica do(a) estudante. Neste momento, ocorre a integração instituição sociedade, por meio da interação entre pais/responsáveis, discentes e docentes.
 
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
+## **9 INFRAESTRUTURA**
 
-## **Campus Colombo do IFPR**
+Para possibilitar o funcionamento da instituição com a conclusão da reforma e construção do bloco didático que deverá estar concluído em 2024, é necessário prever as compras dos equipamentos, mobiliários e demais necessárias. No curso Técnico em Informática, temos o acesso de 40 alunos(as) por ano. Em média, levando em consideração a evasão, temos uma média de 36 alunos(as) por sala de aula. Neste contexto, segue uma relação de instalações e equipamentos existentes e a relação dos bens alocados, listados por área de conhecimento e/ou curso, os recursos de informática disponíveis, relação equipamento/aluno e descrição de inovações tecnológicas consideradas significativas aplicáveis aos laboratórios. Essa configuração de infraestrutura atende minimamente o que recomenda o Catálogo Nacional de Cursos Técnicos (4ª edição).
+
+Segundo informações do PDI (2024 – 2028) temos o seguinte cenário:
+
+Quadro 5 - Instalações atuais (instalações, áreas e capacidades)
+
+|||
+|---|---|
+|**DESCRIÇÃO**|**M²**|
+|Área Lote|55.000|
+|Bloco Azul|3.824|
+|Ginásio|2.035|
+|Área Total Construída|5.859|
+
+Quadro 6 – Ambientes atuais (salas e dependências)
+
+|**AMBIENTES**|**Qtde**|**M² Total**|**Capacidade**|
+|---|---|---|---|
+|Instalações Administrativas|<br>5|184,21|35|
+|Salas de Aula|7|678,53|280|
+|Salas de Professores|1|96,09|40|
+|Laboratório de Informática|3|192,03|113|
+|Laboratório de Alimentos|1|138,10|80|
+|Laboratório IF Maker|1|46|20|
+|Sala de Artes|1|54|30|
+|Biblioteca|1|98,91|25|
+|Auditório e Palco|1|394,62|200|
+|Área Esportiva (quadra<br>Ginásio)|1|608|100|
+|Cantina|1|27,5|10|
+|Instalações Sanitárias|10|172|72|
+
+Quadro 7 -Instalações a serem reformadas ou construídas (instalações e áreas conforme tabelas exemplos abaixo):
+
+||**Campus Colombo**|||
+|---|---|---|---|
+|**CÓDIGO**|**OBRA**|**TIPO**|**ANO**<br>**EXECUÇÃO**|
+|C01|Finalização Novo Bloco Didático|Construção|<br>2024-2025|
+|C02|Nova Portaria|Construção|<br>2025|
+
+|C03|Passarela coberta interligando os<br>blocos|<br>Construção|<br>2025|
+|---|---|---|---|
+|C04|Quadra Poliesportiva|Construção|<br>2026|
+|C05|Muramento área do Campus|Construção|<br>2027|
+|C06|Refeitório|Construção|<br>2028|
+|R01|Revitalização Auditório Bloco<br>Azul|Reforma|2024|
+|R02|Revitalização Banheiros<br>estudantes|Reforma|2024|
+|R03|Revitalização Estacionamento<br>(bicicletário, iluminação, reforma<br>pavimento, demarcação vagas)|Reforma|2024-2025|
+|R04|Revitalização quadras de futebol,<br>basquete e tênis|<br>Reforma|2024-2025|
+|R05|Revitalização e ampliação de<br>iluminação nas áreas comuns, ao<br>redor dos blocos e quadras.|<br>Reforma|2024-2025|
+|R06|Reforma Bloco Azul|Reforma|2027-2028|
+
+Quadro 8 - Espaço físico para acervo e para estudos, horário de funcionamento, pessoal técnico administrativo, serviços oferecidos e informatização.
+
+||||
+|---|---|---|
+|**INFRAESTRUTURA**|**Disponível**|**Planejado 2024-2028**|
+||||
+|Rec. Humanos (Servidores/Terceirizados)|2|4|
+|Sala de Estudo Individual/Coletivo|0|4|
+|Mesas Estudos|2|6|
+|Guarda Volumes|40|40|
+|Balcão Atendimento|0|1|
+
+|Computador para Consulta/Estudo|5|10|
+|---|---|---|
+|Rede WiFi|Download/U|Download/Upload:  100|
+||pload:  10|mb /100 mb|
+||mb /10 mb||
+|Horário Funcionamento|9h - 21h|9h - 21h|
+
+## 9.1 ÁREAS DE ENSINO ESPECÍFICAS
 
 |||||
 |---|---|---|---|
-|Curso:|Técnico em Informática|Eixo tecnológico|Informação e Comunicação|
-|Componente curricular|Desenvolvimento Web|
-|Carga horária|160 horas/aula|Período letivo|3ª Série|
-|Ementa:|
-|Sistemas WEB usando linguagem PHP e MySQL. Desenvolvimento estático e dinâmico. Ambientes de|
-|interação e interface homem- computador. Métodos e técnicas no desenvolvimento de aplicações para|
-|Internet.|
-|Bibliografia básica:|
-|GONÇALVES, E.|Desenvolvendo Aplicações Web com JSP, SERVELTS, JAVASERVER FACES,|
-|HIBERNATE, EJB 3 PERSISTANCE E AJAX|. Rio de Janeiro: Ciência Moderna. 2007.|
-|SILVA, M. S.|Criando sites com HTML: Sites de alta qualidade com HTML e CSS.|
-|OLIVIEIRO, Carlos.|Faça um Site Orientado por Projeto. PHP 5.2 com MYSQL 5.0 Comércio|
-|Eletrônico|,São Paulo: Érica, 2012|
-|DALL´OGLIO P.|Programando com Orientação a Objetos|. Novatec, 2015|
-|FREEMAN, Elisabeth.|Use a Cabeça HTML com CSS e XHTML|. São Paulo: Editora Alta Books, 2008.|
-|Bibliografia complementar:|
-|BASHAN, B., SIERRA, K., BATES, B.|Use a Cabeça! JSP & Servlets|. 2 ed. Rio de Janeiro: Alta Books,|
-|2005.|
-|MORRISON, M.|Use a Cabeça: JavaScript.|Alta Books, 2008.|
-|CRANE, Dave; PASCARELLO, Eric; JAMES, Darren.|Ajax em ação|. São Paulo: Pearson Education|
-|do Brasil, 2007. 452 p.|
-|DEITEL, Paul J; DEITEL, Harvey M.|Ajax, rich internet aplications e desenvolvimento web para|
-|programadores|. São Paulo: Pearson Prentice Hall, 2008. xxiv, 747 p.|
-|ZERVAAS, Quentin.|Aplicações práticas de Web 2.0 com PHP|. Rio de Janeiro: Alta Books, 2008.|
-|xix, 521 p.|
+|Ambiente|Existente|A construir|Área (m2)|
+|Salas de aula|7|Sim|678,53|
+|Sala de professores|1|Sim|96,09|
+|Coordenadoria de curso|Não|Sim|25|
+|Sala de reuniões|não|Sim|38|
 
-## **Objetivos**
+## 9.2 ÁREAS DE ESTUDO GERAL
 
-Conhecer tecnologias para desenvolvimento de aplicações WEB em sistemas Cliente-Servidor. Conhecer a dinâmica dos processos envolvidos na estrutura cliente- servidor para a Internet. Conhecer ferramentas básicas para o desenvolvimento de páginas para a Internet. Planejar web sites estatísticos e dinâmicos. Conhecer tecnologias para desenvolvimento de ambientes de interação e interface homemcomputador. Conhecer os princípios gráficos e ergonômicos na construção de interfaces de software baseados na IHC. Conhecer métodos e técnicas de desenvolvimento de aplicações para Internet.
+|Ambiente|Existente|A construir|Área (m2)|
+|---|---|---|---|
+|Biblioteca|sim|sim|98,91|
+|Laboratório de<br>multidisciplinar*|sim|sim|82,18|
 
-136
+## *Laboratório Multidisciplinar:
 
-INSTITUTOFEDERAL PARANA
+Abaixo encontram-se listados os itens existentes nos Laboratórios de Análises FísicoQuímicas, Microbiologia de Alimentos, Biologia, Física, Processamento de Alimentos e Análise Sensorial de Alimentos.
 
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
+|**Descrição**|**Quantidad**<br>**e**|
+|---|---|
+|Alcoômetro com termômetro Gay Lussac e Cartirer (03 unidades)|03|
+|Amassadeira industrial com extrusora|01|
+|Agitador de tubos tipo vórtex|05|
+|Agitador magnético com aquecimento 20 litros|02|
+|Analisador de atividade de água de bancada|01|
+|Armário de açopara oficina com visor transparente categoria industrial|01|
+|Autoclave vertical de chão,capacidade interna de 75 litros|01|
 
-## **Campus Colombo do IFPR**
+|Autoclave vertical de chão|01|
+|---|---|
+|Balança analítica eletrônica|02|
+|Balança de bancada 9094plus Prix|01|
+|Balança deprecisão, precisão: 0,01g,capacidade 3,2 kg|02|
+|Balança determinadora de umidadepor infravermelho|01|
+|Balança semi analítica - resolução 0,001g|02|
+|Banho-mariacom circulação de água 10 litros|02|
+|Banho-mariadigital 30 litros|01|
+|Banho ultrassônico|01|
+|Barrilete em PVC - 50 litros|01|
+|Barrilete em PVC com torneira e visor de nível,capacidade 50 litros|01|
+|Batedeiraplanetária inox 4 litros|01|
+|Bloco digestor micro deproteínas|01|
+|Bomba à vácuo|02|
+|Bureta digital 50 ml|01|
+|Butirômetro degerberpara análise do teor degordura emqueijos|12|
+|Butirômetro degerberpara análise do teor degordura em leites|11|
+|Butirômetro degerberpara análise do teor degordura em manteiga|12|
+|Butirômetro degerberpara análise do teor degordura em leite empó|09|
+|Câmara incubadora tipo BOD|02|
+|Capela de fluxo laminar horizontal|01|
+|Capela de fluxo laminar vertical,tipo PCR|01|
+|Capelapara exaustão degases em fibra de vidro 60m³/min|01|
+|Centrífugapara butirômetro,sem aquecimento,cap.máx 24 butirômetros|01|
+|Centrífuga de bancada refrigerada digital|01|
+|Cilindro laminador semi-industrial 220 v|01|
+|Chapa aquecedora com controle digital|01|
+|Colorímetroportátilpara alimentos, pastas, pós e líquidos|01|
+|Conjunto dequeda livre 4 intervalos|02|
+|Conjunto de vidrariaspara extração Soxleth|01|
+|Conjunto lavador depipetas em PVC(4peças)|01|
+|Conjunto mesa de força|02|
 
-**Curso:** Técnico em Informática **Eixo tecnológico** Informação e Comunicação **Componente curricular** Engenharia de Software II **Carga horária** 80 horas/aula **Período letivo** 3ª Série **Ementa:** Análise orientada a objetos. Técnicas de reutilização, normalização e empacotamento. Notação nos diversos diagramas da UML. **Bibliografia básica:** PRESSMAN, Roger S.; MAXIM, Bruce R. **Engenharia de Software: uma abordagem profissional** . 8. ed. Porto Alegre: AMGH, 2016. SOMMERVILLE, Ian. **Engenharia de software.** 9. ed. São Paulo: Pearson Prentice Hall, 2011. LARMAN, Craig. **Utilizando UML e padrões: uma introdução à análise e ao projeto orientado a objetos e ao desenvolvimento iterativo** . 3. ed. Porto Alegre: Bookman, 2005. BEZERRA, Eduardo. **Princípios de Análise e Projeto de Sistemas com UML** . Rio de Janeiro: Elsevier, 2002. BOOCH, Grady; RUMBAUGH, James; JACOBSON, Ivar. **UML: guia do usuário** . 2. ed., rev. e atual. Rio de Janeiro: Elsevier, 2012. 521 p. **Bibliografia complementar:** DEBASTIANI, Carlos Alberto. **Definindo escopo em projetos de software.** São Paulo: Novatec, 2015. 139p. CARDOSO, Caíque. **UML na Prática: do problema ao sistema** . Rio de Janeiro: Ciência Moderna, 2003. MECENAS, Ivan; OLIVEIRA, Vivianne de. **Qualidade em Software** . São Paulo: Alta Books, 2005 JUNIOR, Helio Engholm. **Engenharia de Software na Prática.** Novatec. 2010. MEDEIROS, Ernani Sales de. **Desenvolvendo Software com UML 2.0.** São Paulo. Pearson. Makron Books, 2004.
-
-## **Objetivos**
-
-Aplicar análise orientada a objetos. Aplicar técnicas de reutilização, normalização e empacotamento. Utilizar notação UML (Diagramas).
-
-137
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
+## 9.3 ÁREAS DE ESTUDO ESPECÍFICO
 
 |||||
 |---|---|---|---|
-|Curso:|Técnico em Informática|Eixo tecnológico|Informação e Comunicação|
-|Componente curricular|Empreendedorismo|
-|Carga horária|80 horas/aula|Período letivo|4ª Série|
+|Ambiente|Existente|A construir|Área (m2)|
+|Laboratório de<br>Informática|sim|sim|192,03|
+|Laboratório Móvel de<br>Informática|sim|sim|-|
+|Laboratório IF Maker|sim|sim|46|
 
-**Ementa:**
+Laboratório Móvel: 40 notebooks
 
-Conceitos de empreendedorismo. Atitudes empreendedoras. Cooperativismo. Gestão da inovação; gestão de pessoas; gestão da qualidade social e ambiental do trabalho. Projetos de empreendedorismo.
+Configuração: Modelo HP EliteBook 745 G3. Processador AMD PRO A10-8700B com 1.8 GHZ de Frequência e 2 MB de Memória Cache. Memória RAM de 8 GB. Memória Permanente do tipo SSD de 256 GB. Windows 10 PRO.
 
-**Bibliografia básica:** BAZZO, A. W. **Ciência, Tecnologia e Sociedade e o Contexto da Educação Tecnológica** . 2ª. Ed. Editora UFSC. 2011. SALIM, Cesar Simões. **Administração empreendedora: teoria e prática usando estudo de casos.** Rio de Janeiro: Campus, 2004. 226 p. MAXIMIANO, Antonio Cesar Amaru. **Administração para empreendedores** . 2. ed. São Paulo: Pearson, 2011. 240 p. DRUCKER, Peter. **Tecnologia, Administração e Sociedade** . 1ª. Ed. Elsevier. 2011. CHIAVENATO, Idalberto. **Empreendedorismo: dando asas ao espírito empreendedor** . 4. ed. Barueri: Manole, 2012. 315 p. **Bibliografia complementar:** STEPHAN, Auresnede Pires. **10 cases do design brasileiro: os bastidores do processo de criação** v.2. São Paulo: Blucher, 2010. 198 p MIGUEL, Isabela Castello. **O administrador empreendedor e o desenvolvimento econômico brasileiro** . Revista Brasileira de Administração, Brasília, DF, v. 15, n. 49 , p. 51-59, jun. 2005 PEREIRA, Heitor José; SANTOS, Silvio Aparecido dos (Org.). **Criando seu próprio negócio: como desenvolver o potencial empreendedor.** Brasília: SEBRAE, 1995. VALE, Gláucia Maria Vasconcellos; AMÂNCIO, Robson; LIMA, Juvêncio Braga de. **Criação e gestão de redes: uma estratégia competitiva para empresas e regiões** . Revista de Administração, São Paulo, SP, v. 41, n. 2 , p. 136-146, jun. 2006. SARKAR, Soumodip. **O empreendedor inovador: faça diferente e conquiste seu espaço no mercado** . Rio de Janeiro: Elsevier, 2008. 265 p.
+Laboratório de Informática 1: 40 Microcomputadores.
 
-## **Objetivos**
+Configuração do Microcomputador: Processador AMD A6-5400B com gráficos Radeon HD 7540D (3,6 GHz, 1MB de cache L2, 65 W) Chipset AMD A75 Form factor Pequeno formato Ambiental Baixo halogênio MEMÓRIA: Memória padrão: DDR3 SDRAM 1600 MHz de 8 GB Slots de memória 4 DIMM ARMAZENAMENTO: Baías para unidades internas Um de 3,5" Baías para unidades externas Um de 3,5"; Um de 5,25" Unidade interna SATA de 500 GB 7200 rpm MONITOR E GRÁFICOS: Vídeo Gráficos Integrados AMD Radeon HD 7540D.
 
-Usar diferentes possibilidades de aprendizagem mediadas por tecnologias no contexto do processo produtivo e da sociedade do conhecimento, desenvolvendo e aprimorando autonomia intelectual, pensamento crítico, espírito investigativo e criativo. Atuar social e profissionalmente de forma ética e empreendedora. Entender e valorizar a leitura como um objeto cultural que promove a inserção no mundo do trabalho. Valorizar e respeitar as variações linguísticas compreendendo-as na dimensão histórico-cultural.
+Laboratório de Informática 2 e 3: 80 Microcomputadores.
 
-138
+Configuração do Microcomputador: Processador Intel® Core I5-8400 (2.8GHZ). Memória de 8 GB (1x8 GB), DDR4, 2400 MHz. Disco Rígido SATA de 500GB. Sistema Operacional Windows 10 Pro, de 64-bits. Teclado e Mouse inclusos. Configuração do Monitor Modelo: P2018Hc. Alimentação: CA 100-240V. Frequência: 50/60 Hz. Consumo elétrico: 1,5ª
 
-Ministerioda Educacao InstitutoFederal doParana
+|**IFMAKER**||
+|---|---|
+|**DESCRIÇÃO**|**QUANTIDADE**|
+|LIXADEIRA ROTO-ORBITAL 220V|1|
+|PLOTTER RECORTE 110V|1|
+|SERRA CIRCULAR PROFISSIONAL 185MM|1|
+|FURADEIRA PARAFUSADEIRA|2|
+|IMPRESSORA CORE H5 PRO|1|
+|MÁQUINA FRESADORA AUTOMATICA H3N NTECH MAKER 3030|1|
+|IMPRESSORA 3D, PADRÃO FFF/FDM|3|
+|MORSA DE BANCADA GIRATORIA COM TRES PINOS SPARTA|1|
+|IMPRESSORA 3D COM NIVELAMENTO AUTOMÁTICO|1|
+|PROJETOR MULTIMIDIA PROJETOR MULTIMIDIA 3LCD MÍNIM|1|
+|SCANNER 3D SCANNER 3D COM CÂMERA 1.3 MP|1|
+|IMPRESSORA 3D COM SISTEMA DE PROTOTIPAGEM|1|
+|PLOTTER RECORTE PLOTTER RECORTE|1|
 
-INSTITUTOFEDERAL PARANA
+|TORNO MORSA EM AÇO, MORSA DE BANCADA Nº 6|1|
+|---|---|
+|OSCILOSCOPIO DIGITAL OSCILOSCÓPIO DIGITAL|1|
+|FONTE ALIMENTAÇÃO 127V/220V FONTE DE BANCADA COM T|1|
+|PARAFUSADEIRA/FURADEIRA|2|
+|SERRA TICO-TICO DW300, 110V, 500W, 3200G|1|
+|LIXADEIRA ORBITAL LIXADEIRA ORBITAL BIVOLT 225 W|1|
+|LUXIMETRO VISOR DIGITAL|1|
+|NOBREAK 2KVA|1|
+|PARAFUSADEIRA/FURADEIRA BA|1|
+|MOTO ESMERIL MOTO ESMERIL 1/2 HP 360 WATTS 127V|1|
+|JOGO LEGO MINDSTORM EV3|3|
+|MULTIMETRO DE BANCADA VISOR LCD 4 ½ DIGITOS|1|
+|SERRA TICO-TICO 380W 110V F0124380|1|
+|FURADEIRA DE BANCADA COM MANDRIL 110/220V|1|
+|IMPRESSORA PROTOTIPAGEM RÁPIDA|1|
+|COMPUTADOR MICROCOMPUTADOR NOTEBOOK LENOVO E14|10|
+|IMPRESSORA 3D CREALITY LD-002H/SLA/LCD|1|
+|IMPRESSORA 3D FLASHFORGE FINDER 2|4|
+|MÁQUINA DE CORTAR MÁQUINA CORTE E GRAVAÇÃO LASER|1|
+|SERRA MÁRMORE 1200 W SERRA MÁRMORE 1200W/127V|1|
+|LEITORES CÓDIGO DE BARRAS|1|
 
-Valorizar a língua como marca identitária dos sujeitos e como objeto que possibilita a interação dos indivíduos nas organizações. Possuir visão contextualizada da Informação e Comunicação em termos políticos, econômicos, sociais, culturais e ambientais. Atuar de forma a melhorar as condições de trabalho dos usuários preservando o meio ambiente. Possuir visão crítica e consistente sobre o impacto de sua atuação profissional na sociedade. Ser inovador e eficiente na solução dos problemas, bem como ser cooperativo em equipes multidisciplinares. Buscar formação continuada na sua área de atuação facilitando o acesso e a disseminação do conhecimento. Conhecer e compreender a dinâmica do ambiente virtual e suas diferentes interfaces. Compreender e se comunicar através do idioma inglês de forma a atender as demandas específicas da área de atuação profissional. Conhecer a Internet e suas ferramentas básicas de comunicação e interação. Conhecer as relações entre os aspectos técnicos, sociais, econômicos, legais e éticos de sua formação. Compreender a dinâmica das relações interpessoais produzidas no ambiente de trabalho. Compreender e estabelece a relação entre as condições do trabalho com a saúde do trabalhador e com o meio ambiente.
+## 9.4 ÁREAS DE ESPORTE E VIVÊNCIA
 
-139
+|Ambiente|Existente|A construir|Área (m2)|
+|---|---|---|---|
+|Áreas de esportes|Sim|Sim|1396|
+|Cantina/<br>Refeitório|Sim|Sim|36,34|
+|Pátio coberto|sim|não|890|
 
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|**Campus Colombo do IFPR**|
-|---|---|---|---|---|---|---|
-|**Curso:**|Técnico em Informática||**Eixo tecnológico**||Informação e Comunicação||
-|**Componente curricular**|||Desenvolvimento de Dispositivos Móveis||||
-|**Carga horária**||120 horas/aula||**Período letivo**||4ª Série|
-|**Ementa:**<br>Programação para dispositivos móveis. Componentes usados no Android.|||||||
-|**Bibliografia básica:**<br>LECHETA, Ricardo.**Google Android.**3ª Edição. São Paulo: Novatec, 2013.<br>LECHETA, Ricardo,**Google Android para Tablets e Smartphones.**São Paulo, Novatec , 2013<br>DEITEL, Paul. DEITEL, Abbey. DEITEL, Harvey. MORGANO, Michael.**Android para Programadores:**<br>**Uma Abordagem Baseada Em Aplicativos**. 1ª Edição, Bookman, 2012.<br>OEHLMAN, Damon; BLANC, Sébastien.**Aplicativos web Pro Android: desenvolvimento Pro**<br>**Andoid usando HTML5, CSS3 & JavaScript**. Rio de Janeiro: Ciência Moderna, 2012.<br>ABLESON, W. Frank.**Android em Ação.**Rio de Janeiro: Elsevier, 2012.455 p.|||||||
-|**Bibliografia complementar:**<br>W. Frank Ableson, Robi Sem, Chris King e C. Enrique Ortiz.**Android em Ação**, 3ª Edição, Campus,<br>2012.<br>DARWIN, Ian F.**Android Cookbook.**São Paulo: Novatec, 2012.<br>OGLIARI, Ricardo da Silva; BRITO, Robison Cris.**Android: do básico ao avançado**. Rio de Janeiro:<br>Ciência Moderna, 2014. 398 p.<br>ANSELMO, Fernando.**Android em 50 projetos: construa aplicações para o Android através de**<br>**projetos explicados passo a passo**. Florianópolis: Visual Books, 2012. 410 p.<br>PEREIRA, Lúcio Camilo Oliva; SILVA, Michel Lourenço da.**Android para desenvolvedores**. 2. ed.<br>rev. atual. Rio de Janeiro: Brasport, 2012. 233 p.|||||||
-
-## **Objetivos**
-
-Desenvolver aplicativos para dispositivos móveis. Conhecer os componentes do Android.
-
-140
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
-
-**Curso:** Técnico em Informática **Eixo tecnológico** Informação e Comunicação **Componente curricular** Metodologia Científica **Carga horária** 40 horas/aula **Período letivo** 4ª Série **Ementa:** Normas ABNT. Projetos de sistemas de acordo com as normas ABNT. **Bibliografia básica:** KÖCHE, José Carlos. **Fundamentos de metodologia científica: teoria da ciência e iniciação à pesquisa** . 26. ed. Petrópolis: Vozes, 2009. LAKATOS, Eva Maria; MARCONI, Marina de Andrade. **Fundamentos de metodologia científica.** 3. ed. São Paulo, SP: Atlas, 1991. 270 p. SEVERINO, Antônio Joaquim. **Metodologia do trabalho científico** . 13. ed. São Paulo: Cortez, 1986. 237 p. RUIZ, João Álvaro. **Metodologia Científica: Guia para Eficiência nos Estudos** . 6a. Edição. São Paulo: Atlas. 2006. CERVO, Amado Luiz. **Metodologia Científica** . 6a. Edição. Pearson. 2007. **Bibliografia complementar:** BOAVENTURA, Edivaldo M.. **Como ordenar as ideias.** 5. ed. São Paulo: Ática, 1997. 59 p. CHASSOT, Áttico. **A ciência através dos tempos** . 2. ed. São Paulo: Moderna, 2004. 280 p. MEDEIROS, João Bosco. **Correspondência: técnicas de comunicação criativa.** 5. ed. São Paulo: Atlas, 1989. 318 p. MEDEIROS, João Bosco. **Manual de redação e normalização textual: técnicas de editoração e revisão.** São Paulo: Atlas, 2002. 433 p. SÁNCHEZ VÁZQUEZ, Adolfo. **Ética** . 18. ed. Rio de Janeiro: Civilização Brasileira, 1998. 260 p.
-
-**Objetivos** Conhecer e correlacionar os fundamentos, os métodos e as técnicas de análise presentes na produção do conhecimento científico. Compreender as diversas fases de elaboração e desenvolvimento de pesquisas e trabalhos acadêmicos. Elaborar e desenvolver pesquisas e trabalhos científicos obedecendo às orientações e normas vigentes nas Instituições de Ensino e Pesquisa no Brasil e na Associação Brasileira de Normas Técnicas.
-
-141
-
-INSTITUTOFEDERAL PARANA
-
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
-
-## **Campus Colombo do IFPR**
+## 9.5 ÁREAS DE ATENDIMENTO DISCENTE
 
 |||||
 |---|---|---|---|
-|Curso:|Técnico em Informática|Eixo tecnológico|Informação e Comunicação|
-|Componente curricular|Projeto e Desenvolvimento de Software|
-|Carga horária|120 horas/aula|Período letivo|4ª Série|
-|Ementa:|
-|Organizações e usos de softwares e equipamentos de informática e/ou comunicação.|
-|Desenvolvimento de softwares através de divisão modular e refinamentos sucessivos. Resolução de|
-|problemas computacionais. Software amigável com uso de IHC e engenharia de software. Sistema|
-|completo, desde a documentação até a implementação através de código em linguagem de|
-|programação e banco de dados.|
-|Bibliografia básica:|
-|PRESSMAN, Roger S.; MAXIM, Bruce R.|Engenharia de Software: uma abordagem profissional|.|
-|8. ed. Porto Alegre: AMGH, 2016.|
-|LARMAN, Craig.|Utilizando UML e padrões: uma introdução à análise e ao projeto orientado a|
-|objetos e ao desenvolvimento iterativo|. 3. ed. Porto Alegre: Bookman, 2005.|
-|HEUSER, Carlos Alberto.|Projeto de banco de dados|. 5. Edição.  Porto Alegre: Editora Sagra|
-|Luzzatto. 2004.|
-|DEITEL, H.M.; DEITEL, P.J..|Java Como Programar|. 8. ed. Prentice Hall, 2010.|
-|GONÇALVES, E.|Desenvolvendo Aplicações Web com JSP, SERVELTS, JAVASERVER FACES,|
-|HIBERNATE, EJB 3 PERSISTANCE E AJAX|. Rio de Janeiro: Ciência Moderna, 2007.|
-|Bibliografia complementar:|
-|DEBASTIANI, Carlos Alberto.|Definindo escopo em projetos de software.|São Paulo: Novatec, 2015.|
-|139p.|
-|SOMMERVILLE, Ian.|Engenharia de software.|9. ed. São Paulo: Pearson Prentice Hall, 2011.|
-|BEZERRA, Eduardo.|Princípios de Análise e Projeto de Sistemas com UML|. Rio de Janeiro:|
-|Elsevier, 2002.|
-|ELMASRI, R.; NAVATHE, S.|Sistemas de banco de dados|. 6. Edição. São Paulo: Pearson. 2011. 808|
-|p.|
-|RODRIGUES, Andréa.|Desenvolvimento para Internet|. 1. Edição. Editora LT. 2010.|
+|Ambiente|Existente|A construir|Área (m2)|
+|Atendimento psicológico|sim|não|6,37|
+|Atendimento pedagógico|sim|não|84,86|
+|Atendimento odontológico|não|não||
+|Primeiros socorros|não|não||
+|Serviço social|não|não||
 
-**Objetivos** Analisar e dimensionar as necessidades das organizações em relação ao uso de softwares e equipamentos de informática e/ou comunicação. Conhecer e compreender as necessidades dos usuários em relação a treinamento e suporte. Conhecer o desenvolvimento de softwares através de divisão modular e refinamentos sucessivos. Identificar as estruturas de dados necessárias para a resolução de problemas computacionais.
+## 9.6 ÁREAS DE APOIO
 
-142
+|Ambiente|Existente|A construir|Área (m2)|
+|---|---|---|---|
+|Auditório|sim|não|331,21|
+|Salão de convenção|não|não||
+|Sala de audiovisual|não|Sim|9,43|
+|Mecanografia|não|não||
 
-## 1INSTITUTOFEDERAL PARANA
+## 9.7 BIBLIOTECA
 
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
+A Seção de Biblioteca do Campus Colombo é biblioteca integrante do Sistema de Bibliotecas do Instituto Federal do Paraná (IFPR), funciona nos termos previstos no Regulamento Geral das Bibliotecas do IFPR, Política de Formação e Desenvolvimento de Acervos, Instrução Interna de Procedimentos de Seleção e Descarte, Manual de Competências, padrões nacionais e internacionais de documentação e informação, políticas de ensino,
 
-Conhecer tecnologias de desenvolvimento de software amigável com uso de IHC e engenharia de software.
+Conselho Federal de Biblioteconomia e demais normativas internas e de órgãos reguladores. É um órgão encarregado de apoiar as atividades de ensino, pesquisa e extensão por meio da aquisição, tratamento técnico, armazenamento, preservação, disseminação e disponibilização de produtos e serviços de informação para a comunidade acadêmica.
 
-Planejar e desenvolver aplicações comerciais com uso de Banco de Dados de forma integrada e coerente com princípios básicos de usabilidade, engenharia de software e interface amigável. Aplicar Banco de Dados no desenvolvimento de softwares. Compreender as principais técnicas de representação e manipulação de dados. Conhecer a aplicação de estruturas de dados em um projeto e análise de sistemas computacionais. Identificar os elementos necessários para coletar e documentar informações sobre o desenvolvimento de projetos.
+O Sistema de Bibliotecas do Instituto Federal do Paraná (IFPR) faz uso do sistema PERGAMUM - Sistema Integrado de Bibliotecas para gerenciamento de acervos. Com inúmeros módulos de gerenciamento, o sistema permite a Biblioteca do Campus Colombo, entre outras atividades, o gerenciamento de seus empréstimos por meio do Módulo de Circulação de Materiais, que tem por objetivo fornecer o controle dos processos de empréstimos, devoluções, renovações, controle de reservas, atualização de débitos, serviços etc., previamente cadastrados no módulo de catalogação.
 
-1INSTITUTOFEDERAL<br>PARANA<br>
+A seção de Biblioteca do Campus Colombo disciplina em seu Regulamento Geral de Bibliotecas os serviços prestados e as normas de utilização de seus serviços, também norteia o número de obras que cada categoria de usuários pode emprestar, bem como a quantidade de
 
-Ministerio da Educacao<br>InstitutoFederal doParana<br>
+dias que as obras podem ficar emprestadas para o mesmo usuário. Assim, respeita a seguinte orientação:
+
+|**Categoria de Usuário**|**Quantidade**|**Prazo**|
+|---|---|---|
+|Alunos de ensinomédioregular/EAD|3 títulos|15 dias|
+|Alunos degraduação/EAD|3títulos|15dias|
+|Alunos depós-graduação|3títulos|15dias|
+|Docentes|5 títulos|15 dias|
+|Técnico-administrativos|5títulos|15dias|
+|Terceirizados/Estagiários|3títulos|07 dias|
+
+O horário de funcionamento da Biblioteca do Campus Colombo é estabelecido de acordo com o horário das atividades de ensino, pesquisa e extensão, assim seu funcionamento é descrito a seguir:
+
+|**Segunda-feira**|**Terça-feira**|**Quarta-feira**|**Quinta-feira**|**Sexta-feira**|
+|---|---|---|---|---|
+|9h às 21h|9h às 21h|9h às 21h|9h às 21h|9h às 21h|
+
+Atualmente a biblioteca conta com dois servidores, TAES, Antonio Daudt, Bibliotecário e Documentalista (15h às 21h); e Kerly Cristina de Souza, Assistente em Administração (09h às 15h). Seu espaço físico consiste em 96m², contendo: duas mesas de estudos; quatro computadores com acesso à internet para consulta dos(as) alunos(as); duas mesas de atendimento com computador; três armários com portas chaveadas; duas estantes de exposição; um carrinho para livros; e, dois armários para bolsas dos(as) alunos(as). O espaço da biblioteca também conta com rede Wi-fi com dedicação exclusiva aos(às) alunos(as) com 20 megas.
+
+Quanto ao seu acervo, a Biblioteca do Campus Colombo, possui 5118 exemplares distribuídos nas áreas de atuação do campus. Especificamente, a área de Comunicação e Informação conta com 518 exemplares.
+
+O espaço da biblioteca está adaptado para a acessibilidade. Há rampas de acesso e amplo espaço para circulação de cadeiras de rodas e um conjunto de mesas ajustáveis. Outros recursos, como livros em Braille, impressora em Braille, softwares adaptados, como leitores de PDF, estão alocados na sala do CNAPNE.
+
+A Biblioteca do campus Colombo ainda dispõe do acesso ao Portal de Periódicos da Capes e oferece suporte por meio de seus serviços de referência. Anualmente, o acervo é atualizado com base na bibliografia básica e complementar dos PPCs. Com o objetivo de atender as bibliografias do Curso Técnico em Informática, será efetuado um levantamento de todos os títulos citados nas ementas para que seja feita a adequação da quantidade e a atualização do acervo depois do Ajuste Curricular.
+
+O regulamento geral da biblioteca se encontra no site Regulamento-da-BibliotecaCampus-Colombo.pdf (ifpr.edu.br).
+
+## **10 AVALIAÇÃO DO CURSO**
+
+No contexto do curso técnico em informática, é importante destacar que a Lei nº 9.394, de 20 de dezembro de 1996, abrange as diretrizes e bases da educação nacional. De acordo com essa legislação, cabe à União, em colaboração com Estados, o Distrito Federal e Municípios, estabelecer competências e diretrizes para a educação infantil, o ensino fundamental e o ensino médio, definindo os currículos e seus conteúdos mínimos para assegurar uma formação básica comum. Além disso, a União é responsável por coordenar um processo nacional de avaliação
+
+do rendimento escolar, em parceria com os sistemas de ensino, visando definir prioridades e melhorar a qualidade do ensino. Os padrões de desempenho esperados para o ensino médio são estabelecidos pela União e servem como referência nos processos nacionais de avaliação, com base na Base Nacional Comum Curricular (BNCC).
+
+No contexto da avaliação para cursos técnicos de nível médio, utiliza-se o sistema de avaliação da educação básica (SAEB), que consiste em avaliações realizadas a cada dois anos, com o objetivo de medir a qualidade do ensino no Brasil. As médias de desempenho dos(as) estudantes, obtidas por meio do SAEB, juntamente com as taxas de aprovação, reprovação e abandono, que são coletadas no censo escolar, são combinadas para calcular o Índice de Desenvolvimento da educação básica (Ideb), expresso em uma escala de 0 a 10.
+
+No âmbito institucional, o plano de avaliação institucional do IFPR segue as diretrizes do Ministério da educação (MEC) com o propósito de aprimorar a qualidade do ensino. Para garantir o acompanhamento, discussão e implementação da avaliação institucional, a lei nº 10.861/2004 prevê a criação da Comissão Própria de Avaliação (CPA). O regimento geral do Instituto Federal do Paraná, por meio da resolução nº 56, de 03 de dezembro de 2012, estabelece que a CPA é responsável por conduzir processos de avaliação institucional e disponibilizar as informações relacionadas.
+
+A Comissão Própria de Avaliação (CPA) do IFPR foi instituída pelo conselho superior (CONSUP) por meio da Resolução nº 23, de 14 de dezembro de 2009, e é composta por docentes, técnicos administrativos, discentes e representantes da sociedade civil. A CPA do IFPR envolve representantes de diferentes campi, que coletam dados anualmente sobre os pontos fortes e fracos da instituição, bem como as ações necessárias para a melhoria da qualidade do ensino. Suas atribuições incluem a observância dos princípios, metas e objetivos institucionais, além da elaboração do plano de desenvolvimento institucional (PDI). Os participantes do processo educativo são consultados por meio de instrumentos de avaliação, e após a coleta e análise dos dados, a CPA divulga um relatório que fica disponível para toda a comunidade interna e externa, servindo de base para implementações e planejamentos institucionais necessários.
+
+## 10.1 AVALIAÇÃO DO PROJETO PEDAGÓGICO DO CURSO
+
+Com o objetivo de sempre atualizar o PPC do Curso Técnico em Informática serão realizadas reuniões do colegiado do curso ao final de cada etapa das turmas iniciadas. Estes encontros terão como objetivos específicos:
+
+- promover a análise do ajuste do PPC;
+
+- discutir e indicar melhorias a serem realizadas;
+
+- analisar a consolidação do perfil profissional do egresso face ao desenvolvimento dos componentes curriculares;
+
+- promover a integração curricular interdisciplinar;
+
+- refletir sobre o desenvolvimento de linhas de pesquisa e extensão pelos(as) estudantes e docentes do curso. As necessidades constatadas na avaliação do PPC serão discutidas com os docentes da etapa seguinte e implantadas conforme orientado pela Coordenação do Curso em convergência com as discussões realizadas com o Colegiado do Curso. As melhorias propostas serão incorporadas ao PPC por ocasião de sua revisão e mediante aprovação do Colegiado do Curso.
 
 ## **REFERÊNCIAS**
 
-BARROS, E. M. D. Memória das aprendizagens: um gesto docente integrador da sequência didática. **Trab. Ling. Aplic** . Campinas, n(52.1): 107-126, jan./jul., 2013.
+ARROYO, Miguel G. **Experiência de inovação Educativa** : o currículo na prática da escola. (Org.) Antônio Flávio Barbosa Moreira. Currículo: Políticas e Práticas. 13º ed. Papirus, Campinas, SP. (Coleção Magistério: Formação e Trabalho Pedagógico).
 
-BRASIL. MINISTÉRIO DA EDUCAÇÃO. **Educação Profissional Técnica de Nível Médio Integrada ao Ensino Médio.** Documento Base. Brasília, 2007. Disponível em: http://portal.mec.gov.br/setec/arquivos/pdf/documento_base.pdf
+AUSUBEL, D. **Aquisição e retenção de conhecimentos:** uma perspectiva cognitiva. Lisboa: Editora Plátano, 2003.
 
-CANDAU, V. M. Educação em Direitos Humanos: uma proposta de trabalho. In: CANDAU, V.
+BARROS, E. M. D. **Memória das aprendizagens** : um gesto docente integrador da sequência didática. Trab. Ling. Aplic. Campinas, (52.1): 107-126, jan./jul., 2013.
 
-M., ZENAIDE, M. N. T. **Oficinas Aprendendo e Ensinando Direitos Humanos** . João Pessoa: Programa Nacional de Direitos Humanos; Secretaria da Segurança Pública do estado da Paraíba; Conselho Estadual da Defesa dos Direitos do Homem e do Cidadão, 1999.
+BRASIL. **Decreto nº 5.154 de 23 de julho de 2004.** Regulamenta o § 2º do artigo 36 e os arts. 39 a 41 da lei nº 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, e dá outras providências. Disponível em:
 
-CIAVATTA, M. A formação integrada: a escola e o trabalho com lugares de memória e de identidade _._ In: FRIGOTTO, Gaudêncio; CIAVATTA, Maria; RAMOS, Marise (Org.). **Ensino médio integrado:** concepções e contradições. São Paulo: Cortez, 2005.
+https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d5154.htm Acesso em: 18 out. 2023.
 
-HERNÁNDEZ, F. **Transgressão e mudança na Educação:** os projetos de trabalho. Porto Alegre: ArtMed, 1998
+BRASIL. **Decreto nº 5.296 de 02 de dezembro de 2004.** Regulamenta as leis nos 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências. Disponível em:
 
-MIQUELIN, A. F. Complexidade educacional: o caminho da escola para a leitura do mundo. In SESI PARANÁ: **Diálogos com a prática:** construções teóricas – Coletânea 1. Curitiba: Serviço Social da Indústria/PR, Edição digital, 2008.
+<https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d5296.htm> Acesso em: 18 out. 2023.
 
-MINISTÉRIO DA EDUCAÇÃO. **Matriz de referência novo ENEM** . Disponível em: http://portal.mec.gov.br/index.php?option=com_content&view=article&id=13318&Itemid=310
+BRASIL. **Decreto nº 8.268 de 18 de junho de 2014.** Altera o decreto nº 5.154, de 23 de julho de 2004, que regulamenta o § 2º do artigo 36 e os arts. 39 a 41 da lei nº 9.394, de 20 de dezembro de 1996. Disponível em: <https://www.planalto.gov.br/ccivil_03/_ato2011 2014/2014/decreto/d8268.htm> Acesso em: 18 out. 2023.
 
-MINISTÉRIO DA EDUCAÇÃO. SEEB. **Programa ensino médio inovador: documento orientador.** Brasília:DF, 2011. Disponível em:
+BRASIL. **Decreto nº 7.824, de 11 de outubro de 2012.** Regulamenta a lei nº 12.711, de 29 de agosto de 2012, que dispõe sobre o ingresso nas universidades federais e nas instituições federais de ensino técnico de nível médio. Disponível em:
 
-).pdf
+<https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/decreto/d7824.htm> Acesso em: 18 out. 2023.
 
-MORIN, E. **O método 2** : a vida da vida. Trad. Marina Lobo. 3. ed. Porto Alegre: Sulina, 2005
+BRASIL. **Lei de diretrizes e bases da educação nacional nº 9394/96** , de 23 de dezembro de 1996. Brasília: Diário Oficial da União, Brasília, DF, 23 dez. 1996.
 
-______. **A cabeça bem feita:** repensar a reforma, reformar o pensamento **.** Rio de Janeiro:
+BRASIL. **Lei nº 10.048, de 8 de novembro de 2000.** Dá prioridade de atendimento às pessoas que especifica, e dá outras providências. Disponível em: https://www.planalto.gov.br/ccivil_03/leis/l10048.htm Acesso em: 18 out. 2023.
 
-144
+BRASIL. **Lei nº 10.098, de 19 de dezembro de 2000.** Estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências. Disponível em:
 
-INSTITUTOFEDERAL PARANA
+<https://www.planalto.gov.br/ccivil_03/leis/l10098.htm>. Acesso em: 18 out. 2023.
 
-Ministerio da Educacao<br>InstitutoFederal doParana<br>
+BRASIL. **Lei nº 13.416, de 6 de julho de 2015.** Institui a lei brasileira de inclusão da pessoa
 
-Bertrand Brasil, 2003. 128 p
+com Deficiência (estatuto da pessoa com deficiência). Disponível em:
 
-MATURANA, H. **Cognição, ciência e vida cotidiana.** Belo Horizonte: Ed. UFMG, 2001.
+<https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13146.htm> Acesso em: 18 out. 2023.
+
+BRASIL. **Lei nº 11.892, de 29 de dezembro de 2008.** Institui a rede federal de educação profissional, científica e tecnológica, cria os Institutos Federais de Educação, Ciência e Tecnologia, e dá outras providências. Disponível em:
+
+http://www.planalto.gov.br/ccivil_03/_áto2007-2010/2008/lei/l11892.htm Acesso em: 18 out. 2023.
+
+BRASIL. Ministério da educação. **Base nacional comum curricular.** Brasília, 2017.
+
+BRASIL. **Parecer CNE/CEB nº 39/2004, aprovado em 08 de dezembro de 2004.** Aplicação do decreto nº 5.154/2004 na educação profissional técnica de nível médio e no ensino médio. Disponível em:
+
+https://normativasconselhos.mec.gov.br/normativa/view/CNE_PAR_CNECEBN392004.pdf? qery=travestis. Acesso em: 18 out. 2023.
+
+BRASIL. **Lei nº 11.788, de 25 de setembro de 2018.** Dispõe sobre o estágio de estudantes; altera a redação do artigo 428 da Consolidação das leis do trabalho – CLT, aprovada pelo decreto lei no 5.452, de 1o de maio de 1943, e a lei no 9.394, de 20 de dezembro de 1996; revoga as leis nos 6.494, de 7 de dezembro de 1977, e 8.859, de 23 de março de 1994, o parágrafo único do artigo 82 da lei no 9.394, de 20 de dezembro de 1996, e o artigo 6o da medida Provisória no 2.164-41, de 24 de agosto de 2001; e dá outras providências. Disponível em: <https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm> Acesso em: 18 out. 2023.
+
+BRASIL. **Lei nº 12.711, de 29 de agosto de 2012.** Dispõe sobre o ingresso nas universidades federais e nas instituições federais de ensino técnico de nível médio e dá outras providências. Disponível em: <https://www.planalto.gov.br/ccivil_03/_ato20112014/2012/lei/l12711.htm> Acesso em: 18 out. 2023.
+
+BRASIL. **Lei nº 13.415, de 16 de fevereiro de 2017.** Altera as leis n º 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, e 11.494, de 20 de junho de 2007, que regulamenta o fundo de manutenção e desenvolvimento da educação. Disponível em: <https://www.planalto.gov.br/ccivil_03/_ato20112014/2012/lei/l12711.htm> Acesso em: 18 out. 2023.
+
+BRASIL. Ministério da educação. Conselho nacional de educação. Câmara de educação Básica. **Resolução nº 6, de 20 de setembro de 2012.** Define diretrizes curriculares nacionais para educação profissional técnica de nível médio. Brasília: MEC/CNE/CEB, 2012.
+
+BRASIL. Ministério da educação. Conselho nacional de educação. Câmara de educação Básica. **Resolução nº 2, de 30 de janeiro de 2012.** Define diretrizes curriculares nacionais para o ensino médio. Brasília: MEC/CNE/CEB, 2012.
+
+BRASIL. Ministério da educação. Conselho nacional de educação. Câmara de educação Básica. **Resolução nº 3, de 21 de novembro de 2012.** Atualiza as diretrizes curriculares nacionais para o ensino médio. Brasília: MEC/CNE/CEB, 2018.
+
+BRASIL. Ministério da educação. Conselho nacional de educação. Conselho Pleno. **Resolução nº 1, de 05 de janeiro de 2021.** Define as diretrizes curriculares nacionais gerais para a educação profissional e tecnológica. Brasília: MEC/CNE/CP, 2021.
+
+BRASIL. Ministério da educação. Conselho nacional de educação. Câmara de educação Básica. **Resolução nº 2, de 15 de dezembro de 2020.** Define o catálogo nacional de cursos técnicos (CNCT). Brasília: MEC/CNE/CEB, 2020.
+
+BRASIL. Ministério da educação. Conselho nacional de educação. Câmara de educação Básica. **Resolução nº 6, de 20 de setembro de 2012.** Define diretrizes curriculares nacionais para educação profissional técnica de nível médio. Brasília: MEC/CNE/CEB, 2012.
+
+BRASIL. Ministério da educação. Conselho nacional de educação. **PORTARIA NORMATIVA No - 18, DE 11 DE OUTUBRO DE 2012.** Dispõe sobre a implementação das reservas de vagas em instituições federais de ensino de que tratam a lei no 12.711, de 29 de agosto de 2012, e o decreto no 7.824, de 11 de outubro de 2012. Brasília: MEC, 2012.
+
+BRASIL. Ministério da educação. Secretaria de educação especial. **POLÍTICA NACIONAL DE EDUCAÇÃO ESPECIAL NA PERSPECTIVA DA EDUCAÇÃO INCLUSIVA.** Brasília: MEC, 2008. Disponível em: <
+
+http://portal.mec.gov.br/arquivos/pdf/politicaeducespecial.pdf> Acesso em 18 out. 2023.
+
+BRASIL, **Lei n° 11.161 de 05 de agosto de 2005.** Dispõe sobre o ensino da Língua Espanhola. Diário Oficial da União, Brasília, DF, 08 ago. 2005.
+
+BRASIL, **Lei n°11.947 de junho de 2009.** Dispõe sobre o atendimento da alimentação escolar e do Programa Dinheiro Direto na Escola aos alunos da educação básica; altera as Leis nos 10.880, de 9 de junho de 2004, 11.273, de 6 de fevereiro de 2006, 11.507, de 20 de julho de 2007; revoga dispositivos da Medida Provisória no 2.178- 36, de 24 de agosto de 2001, e a Lei no 8.913, de 12 de julho de 1994; e dá outras providências. Diário Oficial da União, Brasília, DF, 17 jun. 2009.
+
+BRASIL. **Lei n° 10.741 de 01 de outubro de 2003** . Dispõe sobre o Estatuto do Idoso. Diário Oficial da União, Brasília, DF, 03 out. 2003.
+
+BRASIL. **Lei n° 9.795 de 27 de abril de 1999** . Dispõe sobre a educação ambiental, institui a Política Nacional de Educação Ambiental e dá outras providências. Diário Oficial da União, Brasília, DF, 28 abr. 1999.
+
+BRASIL. **Lei n° 9.503 de 23 de setembro de 1997** . Institui o Código de Trânsito Brasileiro. Diário Oficial da União, Brasília, DF, 25 set. 1997.
+
+BRASIL. **Lei n° 10.639, de 09 de janeiro de 2003.** Altera a Lei no 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da Rede de Ensino a obrigatoriedade da temática "História e Cultura Afro-Brasileira", e dá outras providências. Diário Oficial da União, Brasília, DF, 10 jan. 2003.
+
+BRASIL. **Lei n° 11.645 de 10 de março de 2008.** Altera a Lei no 9.394, de 20 de dezembro de 1996, modificada pela Lei no 10.639, de 9 de janeiro de 2003, que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da rede de ensino a
+
+obrigatoriedade da temática “História e Cultura Afro-Brasileira e Indígena”. Diário Oficial da União, Brasília, DF, 11 mar. 2008.
+
+CANDAU, V. M. **Educação em Direitos Humanos** : uma proposta de trabalho. In: CANDAU, V. M., ZENAIDE, M. N. T. Oficinas Aprendendo e Ensinando Direitos Humanos. João Pessoa: Programa Nacional de Direitos Humanos; Secretaria da Segurança Pública do estado da Paraíba; Conselho Estadual da Defesa dos Direitos do Homem e do Cidadão, 1999
+
+CIAVATTA, M. **A formação integrada** : a escola e o trabalho com lugares de memória e de identidade. In: FRIGOTTO, Gaudêncio; CIAVATTA, Maria; RAMOS, Marise (Org.) Ensino médio integrado: concepções e contradições. São Paulo: Cortez, 2005.
+
+ESTEBAN, Maria Teresa. **Avaliação: uma prática em busca de novos sentidos** . São Paulo: Depetrus, 2010.
+
+FREIRE, Paulo. **Pedagogia da Autonomia.** Editora Paz e Terra. 1996.
+
+FRIGOTTO, G. **Educação e a Crise do Capitalismo** . 6. ed. São Paulo; Cortez, 2010.
+
+FRIGOTTO, Gaudêncio; CIAVATTA, Maria; RAMOS, Marise. **Ensino Médio Integrado** : concepções e contradições. São Paulo: Editora Cortez, 2012.
+
+GENTILI, PABLO **. Pedagogia da Exclusão** : crítica ao neoliberalismo em educação. Petrópolis, R.J: Editora Vozes, 2013.
+
+HALL, S. **A identidade cultural na pós-modernidade** . Trad, Tomaz Tadeu da Silva. Guacira Lopes. Rio de Janeiro: DP&A, 1997.
+
+HERNÁNDEZ, F. **Transgressão e mudança na Educação** : os projetos de trabalho. Porto Alegre: ArtMed, 1998.
+
+IBGE. (2010). Instituto Brasileiro de Geografia e Estatística. **Cadastro Central de Empresas 2010.** Rio de Janeiro: IBGE, 2017. Disponível em: <http://www.cidades.ibge.gov.br/xtras/temas.php?lang=&codmun=410580&idtema=130&sea rch=parana|colombo|estimativa-da-populacao-2010->. Acesso em: 12/10/2023.
+
+INSTITUTO FEDERAL DO PARANÁ. **Resolução Consup/IFPR n° 01/2017.** Altera a resolução 54/2011 que dispõe sobre a organização didático-pedagógica da educação profissional técnica de nível médio e formação incial e continuada de trabalhadores no âmbito do Instituto Federal do Paraná – IFPR. Disponível em: https://reitoria.ifpr.edu.br/resolucao012017/ Acesso em: 18 out. 2023.
+
+INSTITUTO FEDERAL DO PARANÁ. **Resolução Consup/IFPR n° 71/2022.** Altera o artigo 71 da resolução nº 54, de 21 de dezembro de 2011. Disponível em: https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visual izar&id_documento=1793594&idorgaopublicacao=0. Acesso em: 18 out. 2023.
+
+INSTITUTO FEDERAL DO PARANÁ. **Resolução Consup/IFPR nº 64, de 23 de março de 2022.** Estabelece as diretrizes para a oferta de cursos técnicos integrados ao ensino médio do IFPR. Disponível em:
+
+https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verif dor=1659521&codigo_crc=D11024E5&hash_download=6f334245ed5407c6b251f19da244 226a2863ce8b9d92d73598846e75b583ff3353fa7dda9fe4b7107d84a0d9fefe8c808b6b79c77 f1c0dafa8f9a6a4df4004&visualizacao=1&id_orgao_acesso_externo=0 Acesso em: 18 out. 2023.
+
+INSTITUTO FEDERAL DO PARANÁ. **Resolução nº 50/2017, de 14 de julho de 2017.** Estabelece as normas de avaliação dos processos de ensino-aprendizagem no âmbito do IFPR. Disponível em: < https://ifpr.edu.br/resolucao-502017/> Acesso em: 18 out. 2023.
+
+INSTITUTO FEDERAL DO PARANÁ. **Plano de desenvolvimento institucional – PDI, 2019 – 2023.** Disponível em: https://info.ifpr.edu.br/wp-content/uploads/PDI-2019-2023Revisao-2020.pdf Acesso em: 18 out. 2023.
+
+INSTITUTO FEDERAL DO PARANÁ. **Resolução nº 54/11.** Dispõe sobre a organização didático-pedagógica da educação profissional técnica de nível médio e formação inicial e continuada de trabalhadores no âmbito do Instituto Federal do Paraná – IFPR. Disponível em: < https://ifpr.edu.br/resolucao-542011/> Acesso em: 18 out. 2023.
+
+INSTITUTO FEDERAL DO PARANÁ. Conselho superior (CONSUP). **Estatuto do Instituto Federal do Paraná. Aprovado pela resolução nº 13/2011(CONSUP). Retificado pela resolução nº 39/2012 (CONSUP) e resolução nº 02/2014 (CONSUP).** Disponível em: https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verif dor=1659521&codigo_crc=D11024E5&hash_download=6f334245ed5407c6b251f19da244 226a2863ce8b9d92d73598846e75b583ff3353fa7dda9fe4b7107d84a0d9fefe8c808b6b79c77 f1c0dafa8f9a6a4df4004&visualizacao=1&id_orgao_acesso_externo=0 Acesso em: 18 out. 2023.
+
+INSTITUTO FEDERAL DO PARANÁ. Conselho superior (CONSUP). **Resolução nº 56, de 03 de dezembro de 2012.** Aprova o regimento geral do IFPR. Disponível em: https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verif dor=1659521&codigo_crc=D11024E5&hash_download=6f334245ed5407c6b251f19da244 226a2863ce8b9d92d73598846e75b583ff3353fa7dda9fe4b7107d84a0d9fefe8c808b6b79c77 f1c0dafa8f9a6a4df4004&visualizacao=1&id_orgao_acesso_externo=0 Acesso em: 18 out. 2023.
+
+INSTITUTO FEDERAL DO PARANÁ. Conselho superior (CONSUP). **Resolução nº 63, de 17 de dezembro de 2012.** Aprova a identidade institucional do Instituto Federal do Paraná. Disponível em:
+
+https://sei.ifpr.edu.br/sei/controlador_externo.php?acao=documento_conferir&codigo_verif dor=1659521&codigo_crc=D11024E5&hash_download=6f334245ed5407c6b251f19da244 226a2863ce8b9d92d73598846e75b583ff3353fa7dda9fe4b7107d84a0d9fefe8c808b6b79c77 f1c0dafa8f9a6a4df4004&visualizacao=1&id_orgao_acesso_externo=0 Acesso em: 18 out. 2023.
+
+INSTITUTO FEDERAL DO PARANÁ. **Resolução nº 08, de 30 de abril de 2014.** Regulamenta o Regime interno comum aos campi do Instituto Federal do Paraná. Disponível em: < https://ifpr.edu.br/wp-content/uploads/2014/01/Res.-08.2014-CONSUP.pdf> Acesso em: 18 out. 2023.
+
+INSTITUTO FEDERAL DO PARANÁ. **Resolução nº 23, de 23 de julho de 2021.** Dispõe sobre a política de acompanhamento de egressos nos cursos do Instituto Federal de Educação, Ciência e Tecnologia do Paraná, em todos os níveis e modalidades. Disponível em: https://ifpr.edu.br/jacarezinho/wp-content/uploads/sites/16/2022/09/Politica-de-Acompanh amento-de-Egressos.pdf Acesso em: 18 out. 2023.
+
+INSTITUTO PARANAENSE DE DESENVOLVIMENTO ECONÔMICO E SOCIAL. **Caderno Estatístico** : Município de Colombo. Paraná: IPARDES, 2015. Disponível em: <http://www.ipardes.gov.br/cadernos/MontaCadPdf1.php?Municipio=83400&btOk=ok>. Acesso em: 05 ago. 2015.
+
+INSTITUTO PARANAENSE DE DESENVOLVIMENTO ECONÔMICO E SOCIAL. **Dados Econômicos de Municípios.** Disponível em: <http://www.ipardes.gov.br>. Acesso em: 05 ago. 2015.
+
+LOPES, Alice Casimiro; MACEDO, Elizabeth. **Currículo** : debates contemporâneos. 3ed. São Paulo: Editora Cortez, 2010.
+
+LUCKESI, Cipriano C. **Avaliação da aprendizagem na escola** : reelaborando conceitos e recriando a prática. Salvador: Malabares Comunicação e Eventos, 2003.
+
+MIQUELIN, A. F. **Complexidade educacional** : o caminho da escola para a leitura do mundo. In SESI PARANÁ: Diálogos com a prática: construções teóricas – Coletânea 1. Curitiba: Serviço Social da Indústria/PR, Edição digital, 2008.
+
+MINISTÉRIO DA EDUCAÇÃO. **Matriz de referência novo ENEM.** Disponível em: http://portal.mec.gov.br/index.php?option=com_content&view=article&id=13318&Itemid =3 10
+
+MINISTÉRIO DA EDUCAÇÃO. SEEB. **Programa ensino médio inovador** : documento orientador. Brasília: DF, 2011. Disponível em:
+
+).pdf. Acesso em: 18 out. 2023.
+
+MORIN, E. **O método 2** : a vida da vida. Trad. Marina Lobo. 3a ed. Porto Alegre: Sulina, 2005
+
+MORIN, E. **A cabeça bem feita** : repensar a reforma, reformar o pensamento. Rio de Janeiro: Bertrand Brasil, 2003. 128 p
+
+MATURANA, H. **Cognição, ciência e vida cotidiana** . Belo Horizonte: Ed. UFMG, 2001
 
 NICOLESCU, B. **O manifesto da transdisciplinaridade** . São Paulo: TRIOM, 2005.
 
-PAIS, L. C. **Educação escolar e as tecnologias de informática** . Belo Horizonte, MG: Autêntica, 2002
+OBSERVATÓRIO PNE. Disponível em http://www.observatoriodopne.org.br/metas- pne/3ensino-medio. Acesso Jul de 2016.
 
-Pesquisa sobre o uso das tecnologias de informação e comunicação no Brasil [livro eletrônico]: **TIC Domicílios e Empresas 2012** = Survey on the use of information and communication technologies in Brazil: ICT Households and Enterprises 2012 / [coordenação executiva e editorial / executive and editorial coordination, Alexandre F. Barbosa; tradução/translation DB Comunicação(org.)]. -- São Paulo: Comitê Gestor da Internet no Brasil, 2013.
+PAIS, L. C. **Educação escolar e as tecnologias de informática.** Belo Horizonte, MG: Autêntica, 2002.
 
-RAMOS, M. Possibilidades e desafios na organização do currículo integrado. In: RAMOS, M; FRIGOTTO, G.; CIAVATTA, M. (Org. **). Ensino Médio Integrado:** Concepção e Contradições. São Paulo: Cortez, 2005; pp. 106-127.
+PELIZZARI, A.; KRIEGL, M. L.; BARON, M. P.; FINCK, N. T. L & DOROCINSKI, S. I. **Teoria da aprendizagem significativa segundo Ausubel** . Revista PEC, Curitiba. v. 2, n. 1. P. 37-4, 2002.
 
-COLÉGIO SESI. **Ensino médio** . Proposta Pedagógica. Curitiba: SESI-PR, 2011.
+PIAGET, J. A **Linguagem e o Pensamento da Criança.** Trad. Manuel Campos. São Paulo: Martins Fontes, 1986. 212p.
 
-UNESCO. **Currículo integrado para o Ensino Médio:** das normas à prática transformadora. REGATITIERI, M.; CASTRO, J. M. (org.). Brasília/DF, 2013.
+POPKEWITZ, Thomas. **Paradigma e ideología en investigación educativa** . España: Mandadori, 1988.
 
-______. **Relatório da Comissão Internacional sobre a Educação para o Vigésimo Primeiro Século,** presidida por Jacques Delors, 1998.
+RAMOS, M. **Possibilidades e desafios na organização do currículo integrado** . In: RAMOS, M; FRIGOTTO, G.; CIAVATTA, M. (Org.). Ensino Médio Integrado: Concepção e Contradições. São Paulo: Cortez, 2005; pp. 106-127.
 
-## **DOCUMENTOS**
+SAVIANI, D. **Pedagogia histórico-crítica** : primeiras aproximações. 10. ed. Campinas: Autores Associados, 2008.
 
-BRASIL, Lei n° 9.394, de 20 de dezembro de 1996. **Estabelece as diretrizes e bases da educação nacional** . Diário Oficial da União, Brasília, DF, 23 dez.1996. p. 27833.
+SCHLESENER, A. H. (2013). **Educação e emancipação** : limites e possibilidades. In: Germinal: Marxismo e Educação em Debate. Salvador, v. 5, n.1, p. 53-62, jun.
 
-BRASIL, Lei n° 11.161 de 05 de agosto de 2005. **Dispõe sobre o ensino da Língua Espanhola.** Diário Oficial da União, Brasília, DF, 08 ago. 2005.
+SILVA, Adriano Larentes da. **EJA e os conteúdos escolares** . In: SILVA, Adriano L. (Org.). Cadernos de textos para a sala de aula. Florianópolis, n.3, v.1, 2012.
 
-BRASIL, Lei n°11.947 de junho de 2009, **Dispõe sobre o atendimento da alimentação escolar e do Programa Dinheiro Direto na Escola aos alunos da educação básica; altera**
+SUÁREZ, DANIEL. **O Princípio Educativo da Nova Direita** : Neoliberalismo, ética e escola pública. (Or.). GENTILI, PABLO. Pedagogia da Exclusão: crítica ao neoliberalismo em educação. Petrópolis, R.J: Editora Vozes, 2013.
 
-INSTITUTOFEDERAL<br>PARANA<br>
+TIC domicílios e empresas 2013. **Pesquisa sobre o uso das tecnologias de informação e comunicação no Brasil** . São Paulo: CGI no Brasil, 2013.
 
-Ministerioda Educacao<br>InstitutoFederal doParana<br>
+UNESCO. **Currículo integrado para o Ensino Médio** : das normas à prática transformadora. REGATITIERI, M.; CASTRO, J. M. (org.). Brasília/DF, 2013.
 
-**as Leis** ~~**n**~~ **[os] 10.880, de 9 de junho de 2004, 11.273, de 6 de fevereiro de 2006, 11.507, de 20 de julho de 2007; revoga dispositivos da Medida Provisória** ~~**n**~~ **[o] 2.178-36, de 24 de agosto de 2001, e a Lei** ~~**n**~~ **[o] 8.913, de 12 de julho de 1994; e dá outras providências** . Diário Oficial da União, Brasília, DF, 17 jun. 2009.
+UNESCO. **Relatório da Comissão Internacional sobre a Educação para o Vigésimo Primeiro Século** , presidida por Jacques Delors, 1998.
 
-BRASIL. Lei n° 10.741 de 01 de outubro de 2003. **Dispõe sobre o Estatuto do Idoso.** Diário Oficial da União, Brasília, DF, 03 out. 2003.
+VÁSQUEZ, A. S. **Filosofia da práxis** . Tradução de Luiz Fernando Cardoso. 2. ed. Rio de Janeiro: Paz e Terra, 1997.
 
-BRASIL. Lei n° 9.795 de 27 de abril de 1999. **Dispõe sobre a educação ambiental, institui a Política Nacional de Educação Ambiental e dá outras providências** . Diário Oficial da União, Brasília, DF, 28 abr. 1999.
+VYGOTSKY, Lev S. **A formação social da mente.** São Paulo: Martins Fontes, 1984.
 
-BRASIL. Lei n° 9.503 de 23 de setembro de 1997. _**Institui o Código de Trânsito Brasileiro**_ . Diário Oficial da União, Brasília, DF, 25 set. 1997.
+## **ANEXO I**
 
-BRASIL. Lei n° 10.639, de 09 de janeiro de 2003. **Altera a Lei** ~~**n**~~ **[o] 9.394, de 20 de dezembro de 1996, que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da Rede de Ensino a obrigatoriedade da temática "História e Cultura Afro-Brasileira", e dá outras providências** . Diário Oficial da União, Brasília, DF, 10 jan. 2003.
+## ANEXO A - REGULAMENTO DE ESTÁGIO NÃO OBRIGATÓRIO DO CURSO TÉCNICO EM INFORMÁTICA INTEGRADO AO ENSINO MÉDIO – DE ACORDO COM REGULAMENTO DE ESTÁGIOS DO IFPR
 
-BRASIL. Lei n° 11.645 de 10 de março de 2008. **Altera a Lei** ~~**n**~~ **[o] 9.394, de 20 de dezembro de 1996, modificada pela Lei** ~~**n**~~ **[o] 10.639, de 9 de janeiro de 2003, que estabelece as diretrizes e bases da educação nacional, para incluir no currículo oficial da rede de ensino a obrigatoriedade da temática “História e Cultura Afro-Brasileira e Indígena”.** Diário Oficial da União, Brasília, DF, 11 mar. 2008.
+## CAPÍTULO I DO ESTÁGIO SEÇÃO I DISPOSIÇÕES GERAIS
 
-MINISTÉRIO DA EDUCAÇÃO **.** CNE/CEB **.** Resolução n° 2, de 30 de janeiro de 2012. **Define Diretrizes Curriculares Nacionais para o Ensino Médio.** Diário Oficial da União, Brasília, 31 de janeiro de 2012, Seção 1, p. 20.
-
-MINISTÉRIO DA EDUCAÇÃO. CNE/CEB. Resolução n° 6, de 20 de setembro de 2012. **Define Diretrizes Curriculares Nacionais para a Educação Profissional Técnica de Nível Médio** _._ Diário Oficial da União, Brasília, 21 de setembro de 2012, Seção 1, p. 22
-
-INSTITUTO FEDERAL DO PARANÁ. Gabinete do Reitor. Portaria n° 120, de 06 de agosto de 2009. **Estabelece a avaliação do processo ensino-aprendizagem no IFPR** . Curitiba, ago. 2009.
-
-INSTITUTO FEDERAL DO PARANÁ. Conselho Superior. Resolução n° 54, de 21 de dezembro de 2011. **Dispõe sobre a Organização Didático-Pedagógica da Educação Profissional Técnica de Nível Médio e Formação Inicial e Continuada de Trabalhadores no âmbito do Instituto Federal do Paraná – IFPR** . Curitiba, dez, 2012.
-
-INSTITUTOFEDERAL<br>PARANA<br>
-
-Ministerio da Educacao<br>InstitutoFederal doParana<br>
-
-## **ANEXO A - REGULAMENTO DE ESTÁGIO NÃO OBRIGATÓRIO DO CURSO TÉCNICO EM INFORMÁTICA INTEGRADO AO ENSINO MÉDIO – DE ACORDO COM REGULAMENTO DE ESTÁGIOS DO IFPR**
-
-## **CAPÍTULO I**
-
-## **DO ESTÁGIO**
-
-## SEÇÃO I
-
-## DISPOSIÇÕES GERAIS
-
-**Art. 1º** - O Curso Técnico em Informática integrado ao Ensino Médio não requer, em caráter obrigatório, a realização do estágio supervisionado, dada a natureza da atividade profissional do egresso, bem como a metodologia utilizada para o desenvolvimento e aplicação da organização curricular do curso, estruturada para o desenvolvimento das competências profissionais.
+Art. 1º - O Curso Técnico em Informática integrado ao Ensino Médio não requer, em caráter obrigatório, a realização do estágio supervisionado, dada a natureza da atividade profissional do egresso, bem como a metodologia utilizada para o desenvolvimento e aplicação da organização curricular do curso, estruturada para o desenvolvimento das competências profissionais.
 
 Parágrafo único - Embora não seja obrigatório, será incentivada a realização de estágios vivenciais na área da Informática. Os estágios representam atividades formativas e poderão ser certificados pelo curso.
 
-## SEÇÃO II
+## SEÇÃO II DA MATRÍCULA
 
-## DA MATRÍCULA
+Art. 2º - O Estágio, para ser validado, dependerá do cumprimento das demais exigências previstas neste regulamento.
 
-**Art. 2º** - O Estágio, para ser validado, dependerá do cumprimento das demais exigências previstas neste regulamento.
+## SEÇÃO III DA DURAÇÃO E CARGA HORÁRIA
 
-## SEÇÃO III
+Art. 3º - O Estágio não terá duração mínima. Contudo, será validada a carga horária máxima de 300 horas, como atividades formativas.
 
-## DA DURAÇÃO E CARGA HORÁRIA
-
-**Art. 3** º - O Estágio não terá duração mínima. Contudo, será validada a carga horária máxima de 300 horas, como atividades formativas.
-
-- § 1º - Deverão ser respeitados os limites de cargas horárias de até 6 horas diárias e de até 30 horas semanais.
-
-INSTITUTOFEDERAL<br>PARANA<br>
-
-Ministerio da Educacao<br>InstitutoFederal doParana<br>
+§ 1º - Deverão ser respeitados os limites de cargas horárias de até 6 horas diárias e de até 30 horas semanais.
 
 § 2º - A jornada de estágio em períodos de recesso escolar poderá ser ampliada e estabelecida de comum acordo entre o estagiário e a parte concedente do estágio, sempre com a interveniência da Coordenação do Curso, por meio do professor orientador.
 
 § 3º - É vedada a realização de atividade de estágio em horário de outras atividades em que o estudante esteja comprometido na instituição.
 
-## **CAPÍTULO II**
+## CAPÍTULO II DA OFERTA DE ESTÁGIO
 
-## **DA OFERTA DE ESTÁGIO**
+## SEÇÃO I DO CAMPO DE ESTÁGIO
 
-## SEÇÃO I
-
-## DO CAMPO DE ESTÁGIO
-
-**Art. 4º** - O Estágio desenvolver-se-á, prioritariamente, em instituições, empresas públicas ou privadas que desenvolvam ações concorrentes ao propósito de agregação de valor no processo de formação do estudante.
+Art. 4º - O Estágio desenvolver-se-á, prioritariamente, em instituições, empresas públicas ou privadas que desenvolvam ações concorrentes ao propósito de agregação de valor no processo de formação do estudante.
 
 § 1º - Os profissionais autônomos poderão ser equiparados às instituições para efeito de oferta de estágio, estando obrigados à observância das condições estabelecidas para caracterização dos campos de estágio.
 
-§ 2º - Compete ao estudante buscar e propor o local de realização do Estágio.
+- § 2º - Compete ao estudante buscar e propor o local de realização do Estágio.
 
 ## SEÇÃO II
 
 ## DAS CONDIÇÕES PARA CARACTERIZAÇÃO DO CAMPO DE ESTÁGIO
 
-**Art. 5º** - São condições para a caracterização e definição dos campos de estágio, a apresentação de:
+Art. 5º - São condições para a caracterização e definição dos campos de estágio, a apresentação de:
 
 - I. Termo de Convênio entre IFPR e a unidade convenente;
 
@@ -3813,87 +2497,59 @@ Ministerio da Educacao<br>InstitutoFederal doParana<br>
 
 - IV. Projeto de Estágio, do qual constará a identificação do campo de estágio,
 
-INSTITUTOFEDERAL<br>PARANA<br>
+- identificação do(a) aluno(a) estagiário(a), período e horário do estágio, objetivos e atividades a serem desenvolvidas, elaborado pelo estagiário de acordo com o orientador no campo de estágio e com o professor orientador.
 
-Ministerio da Educacao<br>InstitutoFederal doParana<br>
+- § 1º - O Termo de Convênio será assinado em duas vias, devendo ser digitado.
 
-identificação do aluno estagiário, período e horário do estágio, objetivos e atividades a serem desenvolvidas, elaborado pelo estagiário de acordo com o orientador no campo de estágio e com o professor orientador.
+- § 2º - O Termo de Compromisso de Estágio será assinado em quatro vias.
 
-§ 1º - O Termo de Convênio será assinado em duas vias, devendo ser digitado.
+- § 3º - A pessoa física ou jurídica onde se desenvolverá o estágio deverá apresentar profissional para a orientação do aluno estagiário no campo de trabalho, cuja formação seja compatível com as atividades especificadas no projeto de estágio.
 
-§ 2º - O Termo de Compromisso de Estágio será assinado em quatro vias.
+## CAPÍTULO III DOS PARTÍCIPES
 
-§ 3º - A pessoa física ou jurídica onde se desenvolverá o estágio deverá apresentar profissional para a orientação do aluno estagiário no campo de trabalho, cuja formação seja compatível com as atividades especificadas no projeto de estágio.
+## SEÇÃO I DO ALUNO ESTAGIÁRIO
 
-## **CAPÍTULO III**
+Art. 6º - Compete ao estudante:
 
-## **DOS PARTÍCIPES**
+- I- Encaminhar a documentação indicada nos incisos I a IV do art. 5º, para caracterização do campo de estágio, com antecedência mínima de 20 dias do início das atividades e dentro do prazo estabelecido em calendário escolar;
 
-## SEÇÃO I
+- IIApresentar relatório final de estágio, por escrito, de acordo com as normas do IFPR, até o final do semestre letivo no qual pretenda validar o estágio;
 
-## DO ALUNO ESTAGIÁRIO
-
-**Art. 6º** - Compete ao estudante:
-
-I- Encaminhar a documentação indicada nos incisos I a IV do art. 5º, para caracterização do campo de estágio, com antecedência mínima de 20 dias do início das atividades e dentro do prazo estabelecido em calendário escolar;
-
-II- Apresentar relatório final de estágio, por escrito, de acordo com as normas do IFPR, até o final do semestre letivo no qual pretenda validar o estágio;
-
-III- Apresentar, anexo ao relatório, ficha de avaliação preenchida em que conste a avaliação emitida pelo orientador no campo de estágio, sob carimbo;
+- IIIApresentar, anexo ao relatório, ficha de avaliação preenchida em que conste a avaliação emitida pelo orientador no campo de estágio, sob carimbo;
 
 Parágrafo único - A não apresentação destes documentos implicará no não reconhecimento, pelo Curso, do Estágio do estudante.
 
-## SEÇÃO II
+## SEÇÃO II DA ORIENTAÇÃO DO ESTÁGIO
 
-## DA ORIENTAÇÃO DO ESTÁGIO
+Art. 7º - A orientação do estágio dar-se-á na modalidade semidireta por professor orientador, escolhido pelo aluno dentre os professores do colegiado do curso.
 
-**Art. 7º** - A orientação do estágio dar-se-á na modalidade semidireta por professor orientador,
+Art. 8º - Dar-se-á na modalidade direta por orientador do campo de estágio.
 
-INSTITUTOFEDERAL<br>PARANA<br>
+## CAPÍTULO IV
 
-Ministerio da Educacao<br>InstitutoFederal doParana<br>
+## DA INTERRUPÇÃO E APROVAÇÃO DO ESTÁGIO
 
-escolhido pelo aluno dentre os professores do colegiado do curso.
+## SEÇÃO I DA INTERRUPÇÃO DE ESTÁGIO
 
-**Art. 8º** - Dar-se-á na modalidade direta por orientador do campo de estágio.
-
-## **CAPÍTULO IV**
-
-## **DA INTERRUPÇÃO E APROVAÇÃO DO ESTÁGIO**
-
-## SEÇÃO I
-
-## DA INTERRUPÇÃO DE ESTÁGIO
-
-**Art. 9°** - Poderá o estudante requerer a suspensão do estágio por meio de documento escrito encaminhado ao professor–orientador e ao orientador no campo de estágio.
+Art. 9° - Poderá o estudante requerer a suspensão do estágio por meio de documento escrito encaminhado ao professor–orientador e ao orientador no campo de estágio.
 
 Parágrafo único - A aceitação do pedido do estudante implicará no encaminhamento de relatório e ficha de avaliação parcial, ficando o aluno obrigado aos procedimentos constantes deste regulamento para validar a carga horária e aproveitamento mínimos para aprovação no estágio.
 
-## SEÇÃO II
+## SEÇÃO II DA APROVAÇÃO
 
-## DA APROVAÇÃO
-
-**Art. 10** - São condições de aprovação no estágio:
+Art. 10 - São condições de aprovação no estágio:
 
 - I. Observar as formalidades para validação do estágio;
 
-- II. Obter conceito mínimo C, considerando as avaliações do profissional orientador no campo de estágio, do professor orientador e do colegiado de curso.
+II. Obter conceito mínimo C, considerando as avaliações do profissional orientador no campo de estágio, do professor orientador e do colegiado de curso.
 
-- III. O professor orientador deverá proceder a avaliação do estágio, com base no acompanhamento realizado durante o cumprimento do mesmo, e com base no relatório escrito entregue pelo estudante, encaminhando-o para a Comissão Orientadora de Estágio.
+III. O professor orientador deverá proceder a avaliação do estágio, com base no acompanhamento realizado durante o cumprimento do mesmo, e com base no relatório escrito entregue pelo estudante, encaminhando-o para a Comissão Orientadora de Estágio.
 
-**Art. 11** - Compete à Comissão Orientadora de Estágio a elaboração de avaliação conclusiva sobre o aproveitamento do estudante no estágio.
+Art. 11 - Compete à Comissão Orientadora de Estágio a elaboração de avaliação conclusiva sobre o aproveitamento do estudante no estágio.
 
-150
+## CAPÍTULO V DAS DISPOSIÇÕES FINAIS
 
-INSTITUTOFEDERAL PARANA
+Art. 12 - Os casos omissos serão resolvidos pela Comissão Orientadora de Estágio, cabendo recurso de suas decisões ao Colegiado do Curso Técnico em Informática integrado ao Ensino Médio.
 
-Ministerio da Educacao<br>InstitutoFederal doParana<br>
-
-## **CAPÍTULO V**
-
-## **DAS DISPOSIÇÕES FINAIS**
-
-**Art. 12** - Os casos omissos serão resolvidos pela Comissão Orientadora de Estágio, cabendo recurso de suas decisões ao Colegiado do Curso Técnico em Informática integrado ao Ensino Médio.
-
-151
+109
 

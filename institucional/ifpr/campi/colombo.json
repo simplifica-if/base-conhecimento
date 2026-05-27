@@ -126,6 +126,15 @@
             "revisado_em": "2026-05-11"
           }
         }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23411.003203/2018-59",
+            "tipo": "abertura",
+            "trecho_fonte": "Revisado em 27/05/26 via sei-cli e PPC convertido.\n\nEvidências\n- PPC: **NÚMERO DO PROCESSO:** 23411.003203/2018-59\n- Tipo no SEI: Ensino: Projeto Pedagógico de Curso - Médio.\n- Especificação no SEI: Proposta - Abertura de Curso - Técnico em Administração.\n- Data Última mov.: 22/12/25."
+          }
+        ]
       }
     },
     {
@@ -219,22 +228,36 @@
       },
       "ppc": {
         "notion_page_id": "367f5b13-1dbd-81ba-b351-e62416014278",
-        "url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2023/03/PPC-Tecnico-em-Informatica-2.pdf",
+        "url": "https://drive.google.com/file/d/1-CWGEpZfgRXQeT9UT3qLT5JCDpBn9biB/view?usp=sharing",
         "conversao": {
           "status": "convertido"
         },
         "markdown_path": "institucional/ifpr/ppcs/colombo/tecnico-em-informatica-integrado-ao-ensino-medio.md",
         "metadados": {
+          "ano_documento": {
+            "ano": 2023,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2023",
+            "status_curadoria": "revisado",
+            "revisado_em": "2026-05-27"
+          },
           "vagas": {
             "quantidade": 40,
-            "trecho_fonte": "Número máximo de vagas do curso : 40 vagas; Número mínimo de vagas do curso: 20 vagas",
+            "trecho_fonte": "40 vagas (mínimo 20, máximo 40)",
             "status_curadoria": "revisado",
             "minimo": 20,
             "maximo": 40,
             "forma_oferta": "mínimo de 20 vagas e máximo de 40 vagas",
-            "revisado_em": "2026-05-20"
+            "revisado_em": "2026-05-27"
           }
         }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23411.010138/2023-85",
+            "tipo": "revisão de PPC vigente"
+          }
+        ]
       }
     },
     {

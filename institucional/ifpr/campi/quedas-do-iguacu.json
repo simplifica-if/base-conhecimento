@@ -90,6 +90,15 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
           }
         }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23398.001956/2017-64",
+            "tipo": "abertura",
+            "trecho_fonte": "Revisado em 27/05/26 via sei-cli e PPC convertido.\n\nEvidências\n- PPC: O Conselho Superior do Instituto Federal de Educação, Ciência e Tecnologia do Paraná, no uso de suas atribuições legais e estatutárias, considerando o Parecer nº 17/2019 do Conselho de Ensino, Pesquisa e Extensão e o Parecer do Conselheiro Paulo Vasconcelos de Medeiros contido no processo 23398.001956/2017-64,\n- Tipo no SEI: Ensino: Proposta de Abertura de Curso.\n- Especificação no SEI: Proposta - Abertura de Curso - Técnico em Meio Ambiente.\n- Data Última mov.: 16/01/24."
+          }
+        ]
       }
     }
   ]

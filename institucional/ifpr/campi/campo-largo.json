@@ -125,6 +125,15 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
           }
         }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23410.000150/2013-10",
+            "tipo": "revisão de PPC vigente",
+            "trecho_fonte": "Revisado em 27/05/26 via sei-cli e PPC convertido.\n\nEvidências\n- PPC: **NÚMERO DO PROCESSO:** 23410.000150/2013-10\n- Tipo no SEI: Ensino: Projeto Pedagógico de Curso - Médio.\n- Especificação no SEI: Projeto Pedagógico Curso Técnico em Agroecologia PRONERA.\n- Data Última mov.: 16/03/26."
+          }
+        ]
       }
     },
     {
@@ -165,6 +174,15 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
           }
         }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23410.000498/2018-11",
+            "tipo": "abertura",
+            "trecho_fonte": "Revisado em 27/05/26 via sei-cli e PPC convertido.\n\nEvidências\n- PPC: NÚMERO DO PROCESSO: 23410.000498/2018-11\n- Tipo no SEI: Ensino: Proposta de Abertura de Curso.\n- Especificação no SEI: Mecânica EMI Continuidade do Processo 23410.000498/2018-11 -  a partir da folha 082....\n- Data Última mov.: 15/03/23."
+          }
+        ]
       }
     },
     {
@@ -271,6 +289,15 @@
             "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
           }
         }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23410.000498/2018-11",
+            "tipo": "abertura",
+            "trecho_fonte": "Revisado em 27/05/26 via sei-cli e PPC convertido.\n\nEvidências\n- PPC: NÚMERO DO PROCESSO: 23410.000498/2018-11\n- Tipo no SEI: Ensino: Proposta de Abertura de Curso.\n- Especificação no SEI: Mecânica EMI Continuidade do Processo 23410.000498/2018-11 -  a partir da folha 082....\n- Data Última mov.: 15/03/23."
+          }
+        ]
       }
     },
     {
