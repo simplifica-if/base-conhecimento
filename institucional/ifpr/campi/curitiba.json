@@ -43,7 +43,6 @@
             "status_curadoria": "revisado",
             "minimo": 100,
             "maximo": 100,
-            "forma_oferta": "mínimo de 100 vagas e máximo de 100 vagas",
             "revisado_em": "2026-05-11"
           }
         }
@@ -80,7 +79,6 @@
             "minimo": 20,
             "maximo": 40,
             "periodicidade": "anual",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas anuais",
             "revisado_em": "2026-05-11"
           }
         }
@@ -116,7 +114,6 @@
             "status_curadoria": "revisado",
             "minimo": 20,
             "maximo": 30,
-            "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas",
             "revisado_em": "2026-05-11"
           }
         }
@@ -181,7 +178,6 @@
             "status_curadoria": "revisado",
             "minimo": 20,
             "maximo": 40,
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
             "revisado_em": "2026-05-11"
           }
         }
@@ -253,7 +249,6 @@
             "status_curadoria": "revisado",
             "minimo": 30,
             "maximo": 40,
-            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas",
             "revisado_em": "2026-05-11"
           }
         }
@@ -289,7 +284,6 @@
             "status_curadoria": "revisado",
             "minimo": 20,
             "maximo": 30,
-            "forma_oferta": "máximo de 30 vagas e mínimo de 20 vagas",
             "revisado_em": "2026-05-11"
           }
         }
@@ -324,7 +318,6 @@
             "trecho_fonte": "Vagas totais (anual): inicialmente disponibilizando 40 vagas",
             "status_curadoria": "revisado",
             "periodicidade": "anual",
-            "forma_oferta": "40 vagas",
             "revisado_em": "2026-05-11"
           }
         }
@@ -361,7 +354,6 @@
             "minimo": 20,
             "maximo": 40,
             "periodicidade": "anual",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas anuais",
             "revisado_em": "2026-05-11"
           }
         }
@@ -425,7 +417,6 @@
             "status_curadoria": "revisado",
             "minimo": 20,
             "maximo": 35,
-            "forma_oferta": "máximo de 35 vagas e mínimo de 20 vagas do curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -476,7 +467,6 @@
             "status_curadoria": "revisado",
             "minimo": 25,
             "maximo": 40,
-            "forma_oferta": "máximo de 40 vagas e mínimo de 25 vagas do curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -531,7 +521,6 @@
             "status_curadoria": "revisado",
             "minimo": 30,
             "maximo": 37,
-            "forma_oferta": "máximo de 37 vagas e mínimo de 30 vagas do curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -593,7 +582,6 @@
             "status_curadoria": "revisado",
             "minimo": 20,
             "maximo": 40,
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas do curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -648,7 +636,6 @@
             "status_curadoria": "revisado",
             "minimo": 20,
             "maximo": 40,
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas do curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -690,7 +677,6 @@
             "status_curadoria": "revisado",
             "minimo": 20,
             "maximo": 35,
-            "forma_oferta": "máximo de 35 vagas e mínimo de 20 vagas do curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -741,7 +727,6 @@
             "status_curadoria": "revisado",
             "minimo": 20,
             "maximo": 35,
-            "forma_oferta": "máximo de 35 vagas e mínimo de 20 vagas do curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -807,7 +792,6 @@
             "status_curadoria": "revisado",
             "minimo": 25,
             "maximo": 40,
-            "forma_oferta": "máximo de 40 vagas e mínimo de 25 vagas do curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -849,7 +833,6 @@
             "status_curadoria": "revisado",
             "minimo": 30,
             "maximo": 35,
-            "forma_oferta": "máximo de 35 vagas e mínimo de 30 vagas do curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -900,7 +883,6 @@
             "status_curadoria": "revisado",
             "minimo": 30,
             "maximo": 36,
-            "forma_oferta": "máximo de 36 vagas e mínimo de 30 vagas do curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -950,7 +932,6 @@
             "trecho_fonte": "Número máximo de vagas por ingresso (anual): 40 vagas; Número mínimo de vagas por ingresso (anual): 20 vagas",
             "status_curadoria": "revisado",
             "periodicidade": "anual",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas por ingresso anual",
             "revisado_em": "2026-05-11"
           }
         }
@@ -992,7 +973,6 @@
             "status_curadoria": "revisado",
             "minimo": 20,
             "maximo": 35,
-            "forma_oferta": "máximo de 35 vagas e mínimo de 20 vagas do curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -1043,7 +1023,6 @@
             "status_curadoria": "revisado",
             "minimo": 30,
             "maximo": 35,
-            "forma_oferta": "máximo de 35 vagas e mínimo de 30 vagas do curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -1094,7 +1073,6 @@
             "status_curadoria": "revisado",
             "minimo": 20,
             "maximo": 40,
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas do curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -1136,7 +1114,6 @@
             "status_curadoria": "revisado",
             "minimo": 15,
             "maximo": 30,
-            "forma_oferta": "máximo de 30 vagas e mínimo de 15 vagas do curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -1187,7 +1164,6 @@
             "status_curadoria": "revisado",
             "minimo": 25,
             "maximo": 40,
-            "forma_oferta": "máximo de 40 vagas e mínimo de 25 vagas por turno",
             "revisado_em": "2026-05-11"
           }
         }
@@ -1229,7 +1205,6 @@
             "status_curadoria": "revisado",
             "minimo": 30,
             "maximo": 35,
-            "forma_oferta": "máximo de 35 vagas e mínimo de 30 vagas do curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -1297,7 +1272,6 @@
             "status_curadoria": "revisado",
             "minimo": 20,
             "maximo": 35,
-            "forma_oferta": "máximo de 35 vagas e mínimo de 20 vagas do curso",
             "revisado_em": "2026-05-11"
           }
         }
@@ -1351,7 +1325,6 @@
             "trecho_fonte": "Número máximo de vagas por ingresso (anual): 25 vagas; Número mínimo de vagas por ingresso (anual): 15 vagas; Reserva de vagas por ingresso (anual): 2 vagas",
             "status_curadoria": "revisado",
             "periodicidade": "anual",
-            "forma_oferta": "máximo de 25 vagas, mínimo de 15 vagas e reserva de 2 vagas por ingresso anual",
             "revisado_em": "2026-05-11"
           }
         }
@@ -1399,7 +1372,6 @@
             "trecho_fonte": "Vagas totais (anuais). Número de vagas por ingresso: 36 vagas.",
             "status_curadoria": "revisado",
             "periodicidade": "por ingresso",
-            "forma_oferta": "Subsequente",
             "revisado_em": "2026-05-26"
           }
         }
@@ -1480,7 +1452,6 @@
             "status_curadoria": "revisado",
             "minimo": 20,
             "maximo": 40,
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas",
             "revisado_em": "2026-05-11"
           }
         }
@@ -1517,7 +1488,6 @@
             "minimo": 20,
             "maximo": 35,
             "periodicidade": "anual",
-            "forma_oferta": "máximo de 35 vagas e mínimo de 20 vagas anuais",
             "revisado_em": "2026-05-11"
           }
         }
@@ -1552,7 +1522,6 @@
             "trecho_fonte": "Vagas totais (anual): No mínimo 40 vagas atendendo à Resolução IFPR n.o 55/2011, para cada turma ingressante, na modalidade presencial",
             "status_curadoria": "revisado",
             "periodicidade": "anual",
-            "forma_oferta": "mínimo de 40 vagas por turma ingressante",
             "revisado_em": "2026-05-11"
           }
         }
@@ -1587,7 +1556,6 @@
             "trecho_fonte": "Vagas totais (anual): 40 vagas anuais",
             "status_curadoria": "revisado",
             "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais",
             "revisado_em": "2026-05-11"
           }
         }
@@ -1624,7 +1592,6 @@
             "minimo": 20,
             "maximo": 40,
             "periodicidade": "anual",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas anuais",
             "revisado_em": "2026-05-11"
           }
         }

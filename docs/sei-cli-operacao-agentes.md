@@ -34,7 +34,7 @@ Use `sei-cli` quando a tarefa envolver:
 - confirmar `Data de abertura`, `Data Última mov.` ou o resumo textual de `Última movimentação`;
 - identificar documentos relevantes, como pareceres, despachos, PPCs, portarias, resoluções, atas ou documentos externos;
 - verificar se houve ato definitivo, arquivamento, cancelamento ou encaminhamento recente;
-- extrair evidências para preencher `Processos SEI`, `Movimentações de Cursos` ou `PPCs` no Notion;
+- extrair evidências para preencher campos SEI em `Movimentações de Cursos` ou `PPCs` no Notion;
 - responder a dúvidas operacionais quando os JSONs publicados não tiverem evidência suficiente.
 
 Não use `sei-cli` para substituir a consulta normativa da base pública. Para normas, legislação, resoluções, portarias publicadas, catálogos e PPCs já convertidos, siga primeiro `llms.txt`.
@@ -156,16 +156,16 @@ rg -n "termo de busca" documentos/
 
 Ao usar o SEI para curadoria, registre no Notion somente informações sustentadas por evidências do snapshot.
 
-Em `Processos SEI`:
+Em `Movimentações de Cursos`:
 
 - use `Número SEI` como identificador operacional;
 - preencha `Link SEI` com `sei_link_processo`, quando o `sei-cli` conseguir confirmar o processo exato;
-- preencha `Data de abertura` com a autuação/criação do processo quando encontrada;
-- preencha `Data Última mov.` com a data mais recente localizada em `historico[]` ou nos documentos;
-- preencha `Última movimentação` com um resumo curto das duas movimentações mais recentes do histórico, para dar contexto humano à data;
+- preencha `Data de abertura SEI` com a autuação/criação do processo quando encontrada;
+- preencha `Data Última mov. SEI` com a data mais recente localizada em `historico[]` ou nos documentos;
+- preencha `Última movimentação SEI` com um resumo curto das duas movimentações mais recentes do histórico, para dar contexto humano à data;
 - em campos textuais do Notion, use datas em formato brasileiro curto `DD/MM/AA`; preserve datas estruturadas do tipo `date` como propriedades de data do Notion;
-- use `Status` apenas para o estado geral do processo: `Não iniciada`, `Em andamento`, `Concluído`, `Cancelado` ou `Arquivado`;
-- escreva `Observações` em blocos curtos.
+- use `Situação` para a etapa fina da movimentação, como `Em instrução no campus`, `Em análise Proens`, `Em colegiados/conselhos`, `Aguardando ato/publicação`, `Concluído` ou `Arquivado`;
+- escreva `Observações SEI` em blocos curtos.
 
 Modelo recomendado de `Observações`:
 
@@ -180,9 +180,9 @@ Evidências
 - Histórico em DD/MM/AA: descrição relevante do andamento.
 
 Datas de controle
-- Data de abertura: DD/MM/AA, conforme ...
-- Data Última mov.: DD/MM/AA, conforme ...
-- Última movimentação: resumo das duas movimentações mais recentes, quando disponível.
+- Data de abertura SEI: DD/MM/AA, conforme ...
+- Data Última mov. SEI: DD/MM/AA, conforme ...
+- Última movimentação SEI: resumo das duas movimentações mais recentes, quando disponível.
 
 Observação técnica
 - Limitação da extração, pendência ou ressalva, quando houver.
@@ -190,7 +190,7 @@ Observação técnica
 
 Não inclua caminho local de snapshot no Notion. Caminhos como `../sei-cli/dados/sei/...` são úteis para trabalho local, mas não são fonte estável para a base operacional.
 
-Em `Movimentações de Cursos`, use o processo SEI como eixo da linha do tempo e registre a etapa fina em `Situação`, como `Em instrução no campus`, `Em análise Proens`, `Em colegiados/conselhos`, `Aguardando ato/publicação`, `Concluído` ou `Arquivado`.
+O mesmo `Número SEI` pode aparecer em mais de uma movimentação quando um único processo fundamentar mudanças em cursos diferentes.
 
 ## Como citar em respostas
 

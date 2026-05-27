@@ -40,8 +40,7 @@
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) 40",
             "status_curadoria": "precisa_revisao",
-            "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais"
+            "periodicidade": "anual"
           }
         }
       }
@@ -73,8 +72,7 @@
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) 40 vagas",
             "status_curadoria": "precisa_revisao",
-            "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais"
+            "periodicidade": "anual"
           }
         }
       }
@@ -137,8 +135,7 @@
           "vagas": {
             "quantidade": 160,
             "trecho_fonte": "Máximo de 80 alunos para a turma da manhã e máximo de 80 alunos para a turma da tarde.",
-            "status_curadoria": "precisa_revisao",
-            "forma_oferta": "máximo de 80 alunos para a turma da manhã e máximo de 80 alunos para a turma da tarde"
+            "status_curadoria": "precisa_revisao"
           }
         }
       },
@@ -187,8 +184,7 @@
             "status_curadoria": "precisa_revisao",
             "minimo": 20,
             "maximo": 80,
-            "periodicidade": "anual",
-            "forma_oferta": "máximo de 80 vagas por ingresso matutino e 80 por ingresso vespertino; mínimo de 20 por ingresso"
+            "periodicidade": "anual"
           }
         }
       },

@@ -21,11 +21,6 @@
       "data_source_id": "9686928b-c284-4526-8534-f6477f39f6ae",
       "title": "Movimentações de Cursos"
     },
-    "processos_sei": {
-      "id": "40436bea-72f7-4e8d-b845-5ce8054beef1",
-      "data_source_id": "d89c4952-740b-485a-85b1-ba9c5310f003",
-      "title": "Processos SEI"
-    },
     "tarefas": {
       "id": "27112efb-ef37-4343-b6e8-45156597e684",
       "data_source_id": "a734f7c6-aa30-4f78-a7a8-272ce7d929f7",

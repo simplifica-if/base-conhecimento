@@ -3357,7 +3357,8 @@
       "path": "institucional/ifpr/ppcs/telemaco-borba/tecnico-em-programacao-de-jogos-digitais.md",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus"
+      "escopo": "campus",
+      "ano_documento": 2025
     },
     {
       "id": "umuarama/bacharelado-em-arquitetura-e-urbanismo",

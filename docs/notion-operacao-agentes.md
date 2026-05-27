@@ -12,7 +12,6 @@ Use este guia quando a solicitação envolver:
 - Cursos;
 - PPCs;
 - Movimentações de Cursos;
-- Processos SEI;
 - Tarefas;
 - SUAP Cursos;
 - Horários de Aula;
@@ -70,7 +69,6 @@ Chaves atuais:
 - `cursos`;
 - `documentos` (`PPCs`);
 - `movimentacoes_cursos`;
-- `processos_sei`;
 - `tarefas`;
 - `processos_seletivos`;
 - `editais_ingresso`;
@@ -144,22 +142,19 @@ python3 scripts/validar_base.py
 ### Criar movimentação de curso
 
 1. Localize o curso em `Cursos`.
-2. Localize ou crie o processo em `Processos SEI`.
-3. Crie uma entrada em `Movimentações de Cursos`.
-4. Relacione a movimentação ao curso e ao processo SEI principal.
-5. Preencha categoria, tipo, situação e anotações quando houver evidências, pendências ou nuances de curadoria.
+2. Crie uma entrada em `Movimentações de Cursos`.
+3. Preencha categoria, tipo, situação e anotações quando houver evidências, pendências ou nuances de curadoria.
+4. Quando houver processo SEI, preencha na própria movimentação `Número SEI`, `Link SEI`, `Data de abertura SEI`, `Data Última mov. SEI`, `Última movimentação SEI` e `Observações SEI`.
+5. O mesmo `Número SEI` pode aparecer em mais de uma movimentação quando um único processo fundamentar mudanças em cursos diferentes.
 
-### Registrar processo SEI
+### Registrar dados SEI em movimentação
 
 1. Use `Número SEI` como identificador operacional.
-2. Relacione o processo aos cursos e campi pertinentes.
-3. Relacione as movimentações que representam eventos na linha do tempo.
-4. Use `Status` como propriedade Notion do tipo `status` para o estado geral do processo, conforme as opções atuais da base no Notion. Não use `Status` para diferenciar instrução, análise Proens ou colegiados; essas etapas pertencem a `Movimentações de Cursos.Situação`.
-5. Preencha `Link SEI` com a URL interna limpa do processo, no formato `https://sei.ifpr.edu.br/sei/controlador.php?acao=procedimento_trabalhar&id_procedimento=<id>`, quando o `id_procedimento` for confirmado no SEI. Não grave URLs com `infra_hash`, pois esse parâmetro é volátil.
-6. Mantenha `Data de abertura`, `Data Última mov.` e `Última movimentação` preenchidas sempre que o processo for localizado ou revisado. `Data de abertura` é a autuação/criação do processo; `Data Última mov.` é a data mais recente encontrada no andamento ou nos documentos, não a conclusão administrativa. `Última movimentação` é um resumo textual curto das duas movimentações mais recentes.
-7. Se a autuação exata não estiver disponível e você usar a primeira data documentada como aproximação, registre isso em `Observações`.
-8. Escreva `Observações` em blocos curtos, com quebras de linha e marcadores, para facilitar leitura humana e reuso por agentes. Em campos textuais do Notion, use datas no formato brasileiro curto `DD/MM/AA`. Comece com uma frase simples no formato `Revisado em DD/MM/AA via <ferramenta ou fonte>.` Em seguida, use, quando aplicável, os blocos `Contexto`, `Evidências`, `Datas de controle` e `Observação técnica`. Não inclua caminho local de snapshot.
-9. Se a informação vier de coleta automatizada, preserve `Planilha origem`, `Linhas origem`, observações ou notas relevantes.
+2. Preencha `Link SEI` com a URL interna limpa do processo, no formato `https://sei.ifpr.edu.br/sei/controlador.php?acao=procedimento_trabalhar&id_procedimento=<id>`, quando o `id_procedimento` for confirmado no SEI. Não grave URLs com `infra_hash`, pois esse parâmetro é volátil.
+3. Mantenha `Data de abertura SEI`, `Data Última mov. SEI` e `Última movimentação SEI` preenchidas sempre que o processo for localizado ou revisado. `Data de abertura SEI` é a autuação/criação do processo; `Data Última mov. SEI` é a data mais recente encontrada no andamento ou nos documentos, não a conclusão administrativa. `Última movimentação SEI` é um resumo textual curto das duas movimentações mais recentes.
+4. Se a autuação exata não estiver disponível e você usar a primeira data documentada como aproximação, registre isso em `Observações SEI`.
+5. Escreva `Observações SEI` em blocos curtos, com quebras de linha e marcadores, para facilitar leitura humana e reuso por agentes. Em campos textuais do Notion, use datas no formato brasileiro curto `DD/MM/AA`. Comece com uma frase simples no formato `Revisado em DD/MM/AA via <ferramenta ou fonte>.` Em seguida, use, quando aplicável, os blocos `Contexto`, `Evidências`, `Datas de controle` e `Observação técnica`. Não inclua caminho local de snapshot.
+6. Se a informação vier de coleta automatizada, preserve origem, linhas, observações ou notas relevantes em `Observações SEI` ou `Anotações`.
 
 Quando usar `sei-cli`, registre `Revisado em DD/MM/AA via sei-cli.` e cite nas evidências os documentos ou eventos usados, como `SEI 1234567 (DD/MM/AA): Parecer ...`. Não grave caminhos locais do snapshot em `Observações`.
 

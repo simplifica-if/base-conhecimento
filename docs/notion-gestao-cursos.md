@@ -46,41 +46,31 @@ Metadados extraídos do PPC, como ano do documento e vagas, devem sempre ter con
 
 Linha do tempo operacional e histórica dos cursos.
 
-Cada mudança relevante vira um registro próprio. O eixo da linha do tempo é a relação única `Processo SEI`.
+Cada mudança relevante vira um registro próprio. Quando houver processo SEI, registre seus metadados diretamente na movimentação. O mesmo `Número SEI` pode aparecer em mais de uma movimentação quando um único processo fundamentar mudanças em cursos diferentes.
 
-Verifique no Notion as propriedades e opções atuais da base `movimentacoes_cursos`. Propriedades recorrentes usadas pelos scripts incluem `Título`, `Categoria`, `Tipo`, `Situação`, `Cursos`, `Campi`, `Processo SEI`, `Data do ato`, `Início da vigência` e `Anotações`.
+Verifique no Notion as propriedades e opções atuais da base `movimentacoes_cursos`. Propriedades recorrentes usadas pelos scripts incluem `Movimentação`, `Categoria`, `Tipo`, `Situação`, `Curso`, `Campus`, `Número SEI`, `Link SEI`, `Data de abertura SEI`, `Data Última mov. SEI`, `Última movimentação SEI`, `Data do ato`, `Início da vigência`, `Anotações` e `Observações SEI`.
 
 `Categoria` é o agrupamento amplo da movimentação. `Tipo` registra a natureza administrativa específica. Consulte no Notion as opções atuais antes de criar ou alterar registros.
 
 `Situação` é uma propriedade Notion do tipo `status` e representa a etapa da movimentação. Use as opções atuais da base no Notion. Não use esse campo para registrar atividade, suspensão ou extinção do curso: esses estados pertencem à propriedade `Situação` da base `Cursos`.
 
-`Data do ato` registra a data do ato formal que fundamenta a movimentação, como resolução, portaria, aprovação final em conselho/colegiado, despacho decisório ou publicação equivalente. Não use este campo para a autuação do processo ou para a última tramitação no SEI.
-
-`Início da vigência` registra quando a mudança passa a produzir efeito acadêmico ou administrativo no curso, como início da oferta, início de suspensão, reversão de suspensão ou vigência de ajuste curricular. Preencha apenas quando houver evidência explícita; datas gerais de tramitação pertencem à base `Processos SEI`.
-
-`Anotações` consolida observações de curadoria, evidências e pendências em texto curto. Evite repetir o que já está classificado em `Tipo`, remover referências internas como `Linha 12` e não registrar caminhos locais de coleta.
-
-### Processos SEI
-
-Entidade própria para processos administrativos associados ao histórico de cursos.
-
-Quando a curadoria depender de dados do Sistema Eletrônico de Informações, use `../sei-cli` conforme `docs/sei-cli-operacao-agentes.md` para extrair ou inspecionar uma fotografia local do processo antes de preencher estes campos.
-
-Verifique no Notion as propriedades e opções atuais da base `processos_sei`. Propriedades recorrentes usadas pelos scripts incluem `Número SEI`, `Link SEI`, `Tipo principal`, `Status`, `Data de abertura`, `Data Última mov.`, `Última movimentação`, `Unidade responsável`, `Campi`, `Cursos`, `Movimentações de Cursos`, `Observações`, `Planilha origem` e `Linhas origem`.
+`Número SEI` registra o processo administrativo associado à movimentação, no formato `00000.000000/0000-00`. Trate o número como evidência da movimentação, não como chave única da base.
 
 `Link SEI` é uma propriedade URL para acesso rápido ao processo por usuários autenticados e autorizados no SEI. Use o formato limpo `https://sei.ifpr.edu.br/sei/controlador.php?acao=procedimento_trabalhar&id_procedimento=<id>`. Não grave URLs copiadas da barra do navegador que contenham `infra_hash`, `infra_unidade_atual` ou outros parâmetros voláteis de sessão.
 
-`Status` é uma propriedade Notion do tipo `status`, não `select`. Use como estado geral do processo na base, conforme as opções atuais do Notion. Não use `Status` para distinguir etapas finas como instrução no campus, análise Proens ou colegiados; registre essa granularidade em `Movimentações de Cursos.Situação`.
+`Data de abertura SEI` registra a data de autuação/criação do processo no SEI. Quando a autuação exata não estiver disponível, use a primeira movimentação ou o primeiro documento datado apenas se isso estiver claro nas evidências; se for uma aproximação, registre a limitação em `Observações SEI`.
 
-`Data de abertura` registra a data de autuação/criação do processo no SEI. Quando a autuação exata não estiver disponível, use a primeira movimentação ou o primeiro documento datado apenas se isso estiver claro nas evidências; se for uma aproximação, registre a limitação em `Observações`.
+`Data Última mov. SEI` registra a data mais recente localizada no andamento ou nos documentos do processo. Não é data de conclusão: processos antigos podem continuar recebendo despachos, portarias, declarações ou juntadas depois do ato principal.
 
-`Data Última mov.` registra a data mais recente localizada no andamento ou nos documentos do processo. Não é data de conclusão: processos antigos podem continuar recebendo despachos, portarias, declarações ou juntadas depois do ato principal.
+`Última movimentação SEI` registra um resumo textual curto das duas movimentações mais recentes do histórico do SEI, com data em formato `DD/MM/AA`, descrição e unidade quando disponíveis. Esse campo dá contexto humano para `Data Última mov. SEI`, especialmente quando o evento mais recente é apenas recebimento, envio ou atribuição.
 
-`Última movimentação` registra um resumo textual curto das duas movimentações mais recentes do histórico do SEI, com data em formato `DD/MM/AA`, descrição e unidade quando disponíveis. Esse campo dá contexto humano para `Data Última mov.`, especialmente quando o evento mais recente é apenas recebimento, envio ou atribuição.
+`Data do ato` registra a data do ato formal que fundamenta a movimentação, como resolução, portaria, aprovação final em conselho/colegiado, despacho decisório ou publicação equivalente. Não use este campo para a autuação do processo ou para a última tramitação no SEI.
 
-Sempre atualize `Data de abertura`, `Data Última mov.` e `Última movimentação` ao localizar, baixar ou revisar um processo SEI.
+`Início da vigência` registra quando a mudança passa a produzir efeito acadêmico ou administrativo no curso, como início da oferta, início de suspensão, reversão de suspensão ou vigência de ajuste curricular. Preencha apenas quando houver evidência explícita; datas gerais de tramitação ficam nos campos SEI da movimentação.
 
-`Observações` deve ser legível no próprio Notion. Prefira texto em blocos com quebras de linha e marcadores, em vez de parágrafo corrido, e use datas textuais em formato brasileiro curto `DD/MM/AA`. Comece com uma frase simples, como `Revisado em 25/05/26 via sei-cli.` Em seguida, use blocos como `Contexto` para curso, campus e origem; `Evidências` para documentos SEI citados; `Datas de controle` para justificar `Data de abertura` e `Data Última mov.`; `Observação técnica` para limitações da extração ou ressalvas. Não inclua caminho local de snapshot.
+`Anotações` consolida observações de curadoria, evidências e pendências em texto curto. Evite repetir o que já está classificado em `Tipo`, remover referências internas como `Linha 12` e não registrar caminhos locais de coleta.
+
+`Observações SEI` deve ser legível no próprio Notion. Prefira texto em blocos com quebras de linha e marcadores, em vez de parágrafo corrido, e use datas textuais em formato brasileiro curto `DD/MM/AA`. Comece com uma frase simples, como `Revisado em 25/05/26 via sei-cli.` Em seguida, use blocos como `Contexto` para curso, campus e origem; `Evidências` para documentos SEI citados; `Datas de controle` para justificar `Data de abertura SEI` e `Data Última mov. SEI`; `Observação técnica` para limitações da extração ou ressalvas. Não inclua caminho local de snapshot.
 
 ### SUAP Cursos
 

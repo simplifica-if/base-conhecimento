@@ -40,8 +40,7 @@
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) 40 vagas",
             "status_curadoria": "precisa_revisao",
-            "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais"
+            "periodicidade": "anual"
           }
         }
       }
@@ -78,8 +77,7 @@
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Número máximo e mínimo de vagas do curso respectivamente: 40 e 30.",
-            "status_curadoria": "precisa_revisao",
-            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
+            "status_curadoria": "precisa_revisao"
           }
         }
       },
@@ -127,8 +125,7 @@
             "trecho_fonte": "Número Máximo de Vagas por Curso: 40 Número Mínimo de Vagas por Curso: 30",
             "status_curadoria": "precisa_revisao",
             "minimo": 30,
-            "maximo": 40,
-            "forma_oferta": "máximo de 40 vagas e mínimo de 30 vagas"
+            "maximo": 40
           }
         }
       },
@@ -176,8 +173,7 @@
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
             "status_curadoria": "precisa_revisao",
             "minimo": 20,
-            "maximo": 40,
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "maximo": 40
           }
         }
       },
@@ -218,8 +214,7 @@
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) 40 vagas",
             "status_curadoria": "precisa_revisao",
-            "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais"
+            "periodicidade": "anual"
           }
         }
       }
@@ -251,8 +246,7 @@
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) 40 vagas",
             "status_curadoria": "precisa_revisao",
-            "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais"
+            "periodicidade": "anual"
           }
         }
       }

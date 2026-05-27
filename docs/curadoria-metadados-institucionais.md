@@ -97,9 +97,9 @@ Use a base Notion `SUAP Cursos` para registrar metadados administrativos vindos 
 
 Para relatórios brutos exportados do SUAP que tragam a coluna `DIRETORIA`, use o mapeamento versionado em `institucional/ifpr/referencias/suap-diretorias.json` como referência local de apoio para associar o código da diretoria ao `campus_id` desta base. Não trate esse mapeamento como coluna obrigatória no Notion e não infira diretorias novas sem evidência nos próprios dados ou sem curadoria explícita.
 
-## Processos SEI dos cursos
+## Dados SEI dos cursos
 
-Use as bases Notion `Movimentações de Cursos` e `Processos SEI` para registrar processos administrativos associados ao histórico do curso, como abertura, ajuste, atualização, suspensão, reversão de suspensão ou extinção.
+Use a base Notion `Movimentações de Cursos` para registrar processos administrativos associados ao histórico do curso, como abertura, ajuste, atualização, suspensão, reversão de suspensão ou extinção.
 
 Quando for necessário localizar, revisar ou confirmar evidências no Sistema Eletrônico de Informações, use o repositório irmão `../sei-cli` conforme `docs/sei-cli-operacao-agentes.md`.
 
@@ -108,10 +108,10 @@ Quando for necessário localizar, revisar ou confirmar evidências no Sistema El
 3. Registre o número do processo no campo correspondente, no formato `00000.000000/0000-00`.
 4. Classifique a finalidade principal do processo conforme as opções atuais disponíveis no Notion.
 5. Quando a situação atual do curso decorrer de processo SEI, atualize também `cursos[].situacao`, por exemplo `suspenso`.
-6. Na base Notion `Processos SEI`, trate `Status` como propriedade de estado geral do processo, usando as opções atuais do Notion. Etapas como instrução no campus, análise Proens e colegiados devem ficar em `Movimentações de Cursos.Situação`.
-7. Na base Notion `Processos SEI`, mantenha `Link SEI`, `Data de abertura`, `Data Última mov.` e `Última movimentação` atualizadas a cada revisão. `Link SEI` deve usar a URL limpa com `acao=procedimento_trabalhar&id_procedimento=<id>`, sem `infra_hash`; `Data de abertura` é a autuação/criação do processo; `Data Última mov.` é a data mais recente localizada no andamento ou nos documentos e não deve ser tratada como data de conclusão. `Última movimentação` é um resumo textual curto das duas movimentações mais recentes.
-8. Quando a data exata de autuação não estiver disponível, use a primeira data documentada somente como aproximação e registre essa limitação em `Observações`.
-9. Formate `Observações` em blocos escaneáveis, com quebras de linha e bullets. Em campos textuais do Notion, use datas no formato brasileiro curto `DD/MM/AA`. Comece com uma frase simples no formato `Revisado em DD/MM/AA via <ferramenta ou fonte>.` Em seguida, use blocos como `Contexto`, `Evidências`, `Datas de controle` e `Observação técnica` quando houver conteúdo para eles. Não inclua caminho local de snapshot.
+6. Registre etapas como instrução no campus, análise Proens e colegiados em `Movimentações de Cursos.Situação`.
+7. Na base Notion `Movimentações de Cursos`, mantenha `Número SEI`, `Link SEI`, `Data de abertura SEI`, `Data Última mov. SEI` e `Última movimentação SEI` atualizadas a cada revisão. `Link SEI` deve usar a URL limpa com `acao=procedimento_trabalhar&id_procedimento=<id>`, sem `infra_hash`; `Data de abertura SEI` é a autuação/criação do processo; `Data Última mov. SEI` é a data mais recente localizada no andamento ou nos documentos e não deve ser tratada como data de conclusão. `Última movimentação SEI` é um resumo textual curto das duas movimentações mais recentes.
+8. Quando a data exata de autuação não estiver disponível, use a primeira data documentada somente como aproximação e registre essa limitação em `Observações SEI`.
+9. Formate `Observações SEI` em blocos escaneáveis, com quebras de linha e bullets. Em campos textuais do Notion, use datas no formato brasileiro curto `DD/MM/AA`. Comece com uma frase simples no formato `Revisado em DD/MM/AA via <ferramenta ou fonte>.` Em seguida, use blocos como `Contexto`, `Evidências`, `Datas de controle` e `Observação técnica` quando houver conteúdo para eles. Não inclua caminho local de snapshot.
 10. Use `status_curadoria`, `revisado_em` e, quando disponível, `trecho_fonte` para registrar a evidência usada na curadoria.
 
 Exemplo:

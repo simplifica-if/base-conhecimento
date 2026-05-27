@@ -46,8 +46,7 @@
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais Quarenta vagas. 7",
-            "status_curadoria": "precisa_revisao",
-            "forma_oferta": "40 vagas"
+            "status_curadoria": "precisa_revisao"
           }
         }
       },
@@ -93,8 +92,7 @@
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais 40 vagas",
-            "status_curadoria": "precisa_revisao",
-            "forma_oferta": "40 vagas"
+            "status_curadoria": "precisa_revisao"
           }
         }
       },

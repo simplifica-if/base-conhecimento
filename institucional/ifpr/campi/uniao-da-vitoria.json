@@ -40,8 +40,7 @@
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) 40 vagas",
             "status_curadoria": "precisa_revisao",
-            "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais"
+            "periodicidade": "anual"
           }
         }
       }
@@ -74,8 +73,7 @@
             "trecho_fonte": "Vagas ofertadas a) Mínimo: 20 vagas (Resolução Consup/IFPR n.121/2023) b) Máximo: 40 vagas",
             "status_curadoria": "precisa_revisao",
             "minimo": 20,
-            "maximo": 40,
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "maximo": 40
           }
         }
       }
@@ -107,17 +105,24 @@
           "ano_documento": {
             "ano": 2025,
             "trecho_fonte": "Ano do documento registrado no Notion: 2025",
-            "status_curadoria": "precisa_revisao"
+            "status_curadoria": "revisado"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais Número mínimo de vagas do curso: 20. Número máximo de vagas do curso: 40. 1 Para melhor compreensão vide SILVA, Fabiane Aparecida de Souza Soares da. Cu",
-            "status_curadoria": "precisa_revisao",
+            "status_curadoria": "revisado",
             "minimo": 20,
-            "maximo": 40,
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "maximo": 40
           }
         }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23411.007018/2022-10",
+            "tipo": "ajuste"
+          }
+        ]
       }
     },
     {
@@ -148,8 +153,7 @@
             "trecho_fonte": "Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
             "status_curadoria": "precisa_revisao",
             "minimo": 20,
-            "maximo": 40,
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "maximo": 40
           }
         }
       }
@@ -188,10 +192,17 @@
             "trecho_fonte": "Vagas totais Número máximo de vagas do curso: 40 Número mínimo de vagas do curso: 20",
             "status_curadoria": "revisado",
             "minimo": 20,
-            "maximo": 40,
-            "forma_oferta": "máximo de 40 vagas e mínimo de 20 vagas"
+            "maximo": 40
           }
         }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23411.015097/2021-51",
+            "tipo": "ajuste"
+          }
+        ]
       }
     },
     {
@@ -221,8 +232,7 @@
             "quantidade": 40,
             "trecho_fonte": "Vagas totais (anual) 40",
             "status_curadoria": "precisa_revisao",
-            "periodicidade": "anual",
-            "forma_oferta": "40 vagas anuais"
+            "periodicidade": "anual"
           }
         }
       }

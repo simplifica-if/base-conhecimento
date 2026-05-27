@@ -229,11 +229,9 @@ class Exporter:
         suap_pages = self.query_all("suap_cursos")
         horario_pages = self.query_all("horarios_aula")
         movimentacao_pages = self.query_all("movimentacoes_cursos")
-        processo_pages = self.query_all("processos_sei")
 
         campuses_by_page = {page["id"]: self.campus_ref(page) for page in campus_pages}
         courses_by_page = {page["id"]: self.course_ref(page) for page in course_pages}
-        processos_by_page = {page["id"]: plain_text(page["properties"].get("Número SEI")) for page in processo_pages}
 
         courses_by_campus: dict[str, list[dict[str, Any]]] = defaultdict(list)
         for page in course_pages:
@@ -257,7 +255,7 @@ class Exporter:
 
         movimentacoes_by_course: dict[str, list[dict[str, Any]]] = defaultdict(list)
         for page in movimentacao_pages:
-            for course_page_id in relation_ids(page, "Cursos"):
+            for course_page_id in relation_ids(page, "Curso"):
                 movimentacoes_by_course[course_page_id].append(page)
 
         campi: list[dict[str, Any]] = []
@@ -272,7 +270,6 @@ class Exporter:
                     docs_by_course.get(course_page["id"], []),
                     suap_by_course.get(course_page["id"], []),
                     movimentacoes_by_course.get(course_page["id"], []),
-                    processos_by_page,
                 )
                 for course_page in courses_by_campus.get(page["id"], [])
             ]
@@ -342,7 +339,6 @@ class Exporter:
         documents: list[dict[str, Any]],
         suap_pages: list[dict[str, Any]],
         movimentacoes: list[dict[str, Any]],
-        processos_by_page: dict[str, str],
     ) -> dict[str, Any]:
         props = page["properties"]
         course: dict[str, Any] = {
@@ -365,7 +361,7 @@ class Exporter:
         if ppc:
             course["ppc"] = ppc
 
-        processos = self.movimentacao_processes(movimentacoes, processos_by_page)
+        processos = self.movimentacao_processes(movimentacoes)
         if processos:
             course["sei"] = {"processos": processos}
 
@@ -460,21 +456,20 @@ class Exporter:
         add_if_text(vagas, "revisado_em", reviewed_at)
         return vagas
 
-    def movimentacao_processes(self, movimentacoes: list[dict[str, Any]], processos_by_page: dict[str, str]) -> list[dict[str, Any]]:
+    def movimentacao_processes(self, movimentacoes: list[dict[str, Any]]) -> list[dict[str, Any]]:
         seen: set[tuple[str, str]] = set()
         processos: list[dict[str, Any]] = []
         for page in sorted(movimentacoes, key=self.movimentacao_sort_key):
             props = page["properties"]
             tipo = select_name(props.get("Tipo")) or "outro"
             anotacoes = plain_text(props.get("Anotações"))
-            for process_page_id in relation_ids(page, "Processo SEI"):
-                numero = processos_by_page.get(process_page_id, "")
-                if not numero or (numero, tipo) in seen:
-                    continue
-                item = {"numero": numero, "tipo": tipo}
-                add_if_text(item, "trecho_fonte", anotacoes)
-                processos.append(item)
-                seen.add((numero, tipo))
+            numero = plain_text(props.get("Número SEI"))
+            if not numero or (numero, tipo) in seen:
+                continue
+            item = {"numero": numero, "tipo": tipo}
+            add_if_text(item, "trecho_fonte", anotacoes)
+            processos.append(item)
+            seen.add((numero, tipo))
         return processos
 
     def movimentacao_sort_key(self, page: dict[str, Any]) -> tuple[str, str, str, str]:
