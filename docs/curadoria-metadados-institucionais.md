@@ -171,9 +171,9 @@ Quando a página oficial do curso indicar o Projeto Pedagógico de Curso, regist
 A coleção `institucional/ifpr/ppcs/` contém os PPCs convertidos para Markdown e dois índices globais derivados:
 
 - `institucional/ifpr/ppcs/index.json`: catálogo estruturado com um item por PPC convertido.
-- `institucional/ifpr/ppcs/secoes.jsonl`: índice textual com uma linha JSON por seção extraída dos PPCs.
+- `institucional/ifpr/ppcs/secoes/*.jsonl`: índices textuais por tipo de seção, com uma linha JSON por seção extraída dos PPCs e `preview` curto para consulta leve. O texto completo fica apenas no Markdown do PPC indicado em `path`.
 
-Esses arquivos são gerados automaticamente a partir dos JSONs de campus e dos Markdown convertidos. Não edite `index.json` ou `secoes.jsonl` manualmente; ajuste a origem nos arquivos de campus ou no Markdown convertido e rode novamente:
+Esses arquivos são gerados automaticamente a partir dos JSONs de campus e dos Markdown convertidos. Não edite `index.json` ou os arquivos em `secoes/` manualmente; ajuste a origem nos arquivos de campus ou no Markdown convertido e rode novamente:
 
 ```bash
 python3 scripts/gerar_indice_ppcs.py

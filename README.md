@@ -54,7 +54,7 @@ A base também publica Projetos Pedagógicos de Curso (PPCs) do IFPR convertidos
 Para consumo por agentes IA, use:
 
 - [Índice de PPCs](institucional/ifpr/ppcs/index.json): catálogo estruturado com um item por PPC, filtrável por campus, curso, nível, tipo de oferta, ano do documento e links de origem.
-- [Índice de seções dos PPCs](institucional/ifpr/ppcs/secoes.jsonl): índice textual com seções extraídas dos PPCs, útil para localizar justificativas, objetivos, perfil profissional de conclusão, concepção pedagógica, organização curricular, avaliação, infraestrutura e outras partes recorrentes.
+- Índices de seções dos PPCs: arquivos JSONL por tipo de seção em [`institucional/ifpr/ppcs/secoes/`](institucional/ifpr/ppcs/secoes/), úteis para localizar justificativas, objetivos, perfil profissional de conclusão, concepção pedagógica, organização curricular, avaliação, infraestrutura e outras partes recorrentes. Os caminhos estão listados em `secoes.paths` no índice de PPCs. Cada item traz apenas um `preview` curto; para análise substantiva, abra o Markdown completo indicado em `path`.
 
 Ao usar PPCs como apoio para redigir ou revisar textos, diferencie exemplos observados em PPCs de obrigações normativas. Para fundamentação regulatória, combine os PPCs com as normas da base e, quando se tratar de curso técnico, com o CNCT.
 

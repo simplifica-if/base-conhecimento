@@ -4,7 +4,24 @@
   "versao": 1,
   "atualizado_em": "2026-05-27",
   "total_itens": 201,
-  "secoes_path": "institucional/ifpr/ppcs/secoes.jsonl",
+  "secoes": {
+    "preview_limite": 500,
+    "paths": {
+      "avaliacao": "institucional/ifpr/ppcs/secoes/avaliacao.jsonl",
+      "concepcao_pedagogica": "institucional/ifpr/ppcs/secoes/concepcao_pedagogica.jsonl",
+      "corpo_docente": "institucional/ifpr/ppcs/secoes/corpo_docente.jsonl",
+      "ementas": "institucional/ifpr/ppcs/secoes/ementas.jsonl",
+      "estagio_praticas": "institucional/ifpr/ppcs/secoes/estagio_praticas.jsonl",
+      "identificacao": "institucional/ifpr/ppcs/secoes/identificacao.jsonl",
+      "infraestrutura": "institucional/ifpr/ppcs/secoes/infraestrutura.jsonl",
+      "justificativa": "institucional/ifpr/ppcs/secoes/justificativa.jsonl",
+      "matriz_curricular": "institucional/ifpr/ppcs/secoes/matriz_curricular.jsonl",
+      "objetivos": "institucional/ifpr/ppcs/secoes/objetivos.jsonl",
+      "organizacao_curricular": "institucional/ifpr/ppcs/secoes/organizacao_curricular.jsonl",
+      "perfil_egresso": "institucional/ifpr/ppcs/secoes/perfil_egresso.jsonl",
+      "referencias": "institucional/ifpr/ppcs/secoes/referencias.jsonl"
+    }
+  },
   "items": [
     {
       "id": "arapongas/especializacao-em-docencia-e-praticas-educativas",

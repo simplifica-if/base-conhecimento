@@ -12,10 +12,10 @@ from collections import defaultdict
 from datetime import date
 from pathlib import Path
 
-from base_utils import INSTITUCIONAL_ROOT, PPCS_INDEX_PATH, PPCS_SECOES_PATH, ROOT, relative
+from base_utils import INSTITUCIONAL_ROOT, PPCS_INDEX_PATH, PPCS_SECOES_ROOT, ROOT, relative
 
 
-SECTION_TEXT_LIMIT = 8000
+SECTION_PREVIEW_LIMIT = 500
 SECTION_KINDS = {
     "identificacao",
     "justificativa",
@@ -32,6 +32,7 @@ SECTION_KINDS = {
     "referencias",
     "outros",
 }
+INDEXED_SECTION_KINDS = sorted(SECTION_KINDS - {"outros"})
 
 
 def strip_accents(text: str) -> str:
@@ -213,7 +214,7 @@ def split_sections(markdown: str) -> list[tuple[str, str]]:
             if current_heading is not None:
                 text = clean_text("\n".join(current_lines))
                 if len(text) >= 40:
-                    sections.append((current_heading, text[:SECTION_TEXT_LIMIT]))
+                    sections.append((current_heading, text))
             current_heading = heading
             current_lines = []
             continue
@@ -223,7 +224,7 @@ def split_sections(markdown: str) -> list[tuple[str, str]]:
     if current_heading is not None:
         text = clean_text("\n".join(current_lines))
         if len(text) >= 40:
-            sections.append((current_heading, text[:SECTION_TEXT_LIMIT]))
+            sections.append((current_heading, text))
 
     return sections
 
@@ -237,6 +238,8 @@ def build_section_items(ppc_items: list[dict[str, object]]) -> list[dict[str, ob
             kind = section_kind(heading)
             if kind not in SECTION_KINDS:
                 kind = "outros"
+            if kind not in INDEXED_SECTION_KINDS:
+                continue
             counters[kind] += 1
             section_items.append(
                 {
@@ -248,7 +251,7 @@ def build_section_items(ppc_items: list[dict[str, object]]) -> list[dict[str, ob
                     "section_kind": kind,
                     "heading": heading,
                     "path": ppc_item["path"],
-                    "texto": text,
+                    "preview": text[:SECTION_PREVIEW_LIMIT],
                 }
             )
     return section_items
@@ -272,7 +275,10 @@ def build_index(items: list[dict[str, object]], atualizado_em: str) -> dict[str,
         "versao": 1,
         "atualizado_em": atualizado_em,
         "total_itens": len(items),
-        "secoes_path": relative(PPCS_SECOES_PATH),
+        "secoes": {
+            "preview_limite": SECTION_PREVIEW_LIMIT,
+            "paths": section_paths(),
+        },
         "items": items,
     }
 
@@ -285,6 +291,22 @@ def secoes_jsonl(section_items: list[dict[str, object]]) -> str:
     return "".join(json.dumps(item, ensure_ascii=False, separators=(",", ":")) + "\n" for item in section_items)
 
 
+def section_path(kind: str) -> Path:
+    return PPCS_SECOES_ROOT / f"{kind}.jsonl"
+
+
+def section_paths() -> dict[str, str]:
+    return {kind: relative(section_path(kind)) for kind in INDEXED_SECTION_KINDS}
+
+
+def group_sections_by_kind(section_items: list[dict[str, object]]) -> dict[str, list[dict[str, object]]]:
+    grouped: dict[str, list[dict[str, object]]] = {kind: [] for kind in INDEXED_SECTION_KINDS}
+    for item in section_items:
+        kind = str(item["section_kind"])
+        grouped.setdefault(kind, []).append(item)
+    return grouped
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--check", action="store_true", help="verifica se os índices de PPCs estão atualizados")
@@ -292,16 +314,27 @@ def main() -> int:
 
     ppc_items = collect_ppc_items()
     section_items = build_section_items(ppc_items)
+    section_items_by_kind = group_sections_by_kind(section_items)
     atualizado_em = current_index_date() if args.check else date.today().isoformat()
     expected_index = index_json(build_index(ppc_items, atualizado_em))
-    expected_sections = secoes_jsonl(section_items)
+    expected_sections = {
+        kind: secoes_jsonl(items)
+        for kind, items in section_items_by_kind.items()
+    }
 
     if args.check:
         errors: list[str] = []
         if not PPCS_INDEX_PATH.exists() or PPCS_INDEX_PATH.read_text(encoding="utf-8") != expected_index:
             errors.append(f"{relative(PPCS_INDEX_PATH)} está desatualizado")
-        if not PPCS_SECOES_PATH.exists() or PPCS_SECOES_PATH.read_text(encoding="utf-8") != expected_sections:
-            errors.append(f"{relative(PPCS_SECOES_PATH)} está desatualizado")
+        for kind, expected_text in expected_sections.items():
+            path = section_path(kind)
+            if not path.exists() or path.read_text(encoding="utf-8") != expected_text:
+                errors.append(f"{relative(path)} está desatualizado")
+        if PPCS_SECOES_ROOT.exists():
+            expected_names = {f"{kind}.jsonl" for kind in expected_sections}
+            extra_names = {path.name for path in PPCS_SECOES_ROOT.glob("*.jsonl")} - expected_names
+            for name in sorted(extra_names):
+                errors.append(f"{relative(PPCS_SECOES_ROOT / name)} não é mais gerado")
         if errors:
             for error in errors:
                 print(f"ERRO: {error}", file=sys.stderr)
@@ -310,7 +343,14 @@ def main() -> int:
         return 0
 
     PPCS_INDEX_PATH.write_text(expected_index, encoding="utf-8")
-    PPCS_SECOES_PATH.write_text(expected_sections, encoding="utf-8")
+    legacy_sections_path = PPCS_SECOES_ROOT.parent / "secoes.jsonl"
+    if legacy_sections_path.exists():
+        legacy_sections_path.unlink()
+    PPCS_SECOES_ROOT.mkdir(parents=True, exist_ok=True)
+    for path in PPCS_SECOES_ROOT.glob("*.jsonl"):
+        path.unlink()
+    for kind, expected_text in expected_sections.items():
+        section_path(kind).write_text(expected_text, encoding="utf-8")
     print(f"Índices de PPCs gerados: {len(ppc_items)} PPCs, {len(section_items)} seções.")
     return 0
 

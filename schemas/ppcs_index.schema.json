@@ -9,7 +9,7 @@
     "versao",
     "atualizado_em",
     "total_itens",
-    "secoes_path",
+    "secoes",
     "items"
   ],
   "additionalProperties": false,
@@ -33,8 +33,78 @@
       "type": "integer",
       "minimum": 1
     },
-    "secoes_path": {
-      "const": "institucional/ifpr/ppcs/secoes.jsonl"
+    "secoes": {
+      "type": "object",
+      "required": [
+        "preview_limite",
+        "paths"
+      ],
+      "additionalProperties": false,
+      "properties": {
+        "preview_limite": {
+          "const": 500
+        },
+        "paths": {
+          "type": "object",
+          "required": [
+            "avaliacao",
+            "concepcao_pedagogica",
+            "corpo_docente",
+            "ementas",
+            "estagio_praticas",
+            "identificacao",
+            "infraestrutura",
+            "justificativa",
+            "matriz_curricular",
+            "objetivos",
+            "organizacao_curricular",
+            "perfil_egresso",
+            "referencias"
+          ],
+          "additionalProperties": false,
+          "properties": {
+            "avaliacao": {
+              "const": "institucional/ifpr/ppcs/secoes/avaliacao.jsonl"
+            },
+            "concepcao_pedagogica": {
+              "const": "institucional/ifpr/ppcs/secoes/concepcao_pedagogica.jsonl"
+            },
+            "corpo_docente": {
+              "const": "institucional/ifpr/ppcs/secoes/corpo_docente.jsonl"
+            },
+            "ementas": {
+              "const": "institucional/ifpr/ppcs/secoes/ementas.jsonl"
+            },
+            "estagio_praticas": {
+              "const": "institucional/ifpr/ppcs/secoes/estagio_praticas.jsonl"
+            },
+            "identificacao": {
+              "const": "institucional/ifpr/ppcs/secoes/identificacao.jsonl"
+            },
+            "infraestrutura": {
+              "const": "institucional/ifpr/ppcs/secoes/infraestrutura.jsonl"
+            },
+            "justificativa": {
+              "const": "institucional/ifpr/ppcs/secoes/justificativa.jsonl"
+            },
+            "matriz_curricular": {
+              "const": "institucional/ifpr/ppcs/secoes/matriz_curricular.jsonl"
+            },
+            "objetivos": {
+              "const": "institucional/ifpr/ppcs/secoes/objetivos.jsonl"
+            },
+            "organizacao_curricular": {
+              "const": "institucional/ifpr/ppcs/secoes/organizacao_curricular.jsonl"
+            },
+            "perfil_egresso": {
+              "const": "institucional/ifpr/ppcs/secoes/perfil_egresso.jsonl"
+            },
+            "referencias": {
+              "const": "institucional/ifpr/ppcs/secoes/referencias.jsonl"
+            }
+          }
+        }
+      }
     },
     "items": {
       "type": "array",
