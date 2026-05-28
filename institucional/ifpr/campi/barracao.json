@@ -52,11 +52,11 @@
         "processos": [
           {
             "numero": "23411.001680/2014-56",
-            "tipo": "abertura"
+            "tipo": "abertura OLD"
           },
           {
             "numero": "23411.014772/2024-78",
-            "tipo": "ajuste",
+            "tipo": "Ajuste PPC",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 76. Encaminhado para DGA, DIEPI e DIADJ para publicação. Concluído na Dentec"
           }
         ]
@@ -109,7 +109,7 @@
           },
           {
             "numero": "23411.012065/2020-13",
-            "tipo": "ajuste",
+            "tipo": "Ajuste PPC",
             "trecho_fonte": "Revisado em 27/05/26 via sei-cli e PPC convertido.\n\nEvidências\n- PPC: 23411.012065/2020-13\n- Tipo no SEI: Ensino: Ajuste curricular de projeto pedagógico de curso.\n- Especificação no SEI: Ajuste Curricular Curso Técnico em Informática - Campus Barracão.\n- Data Última mov.: 30/09/24."
           }
         ]

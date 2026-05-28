@@ -190,15 +190,15 @@
         "processos": [
           {
             "numero": "23411.005166/2020-38",
-            "tipo": "abertura"
+            "tipo": "abertura OLD"
           },
           {
             "numero": "23411.017355/2020-53",
-            "tipo": "abertura"
+            "tipo": "abertura OLD"
           },
           {
             "numero": "23411.011730/2025-66",
-            "tipo": "suspensão"
+            "tipo": "Suspensão"
           }
         ]
       }
@@ -247,7 +247,7 @@
         "processos": [
           {
             "numero": "23411.012333/2025-10",
-            "tipo": "abertura",
+            "tipo": "abertura OLD",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 50. Aprovado Consup"
           }
         ]

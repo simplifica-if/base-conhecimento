@@ -112,7 +112,7 @@
         "processos": [
           {
             "numero": "23406.000171/2017-28",
-            "tipo": "ajuste",
+            "tipo": "Ajuste PPC",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 73. Enviado ao Consepe em 10/11/2025"
           },
           {
@@ -137,7 +137,7 @@
         "processos": [
           {
             "numero": "23411.011619/2025-70",
-            "tipo": "reversão de suspensão",
+            "tipo": "Reversão Suspensão",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 4. 12/05 Recebimento do processo na Dentec"
           }
         ]
@@ -156,12 +156,12 @@
       "sei": {
         "processos": [
           {
-            "numero": "23411.007407/2026-79",
-            "tipo": "abertura"
+            "numero": "23411.011614/2025-47",
+            "tipo": "Abertura PAC"
           },
           {
-            "numero": "23411.011614/2025-47",
-            "tipo": "abertura"
+            "numero": "23411.007407/2026-79",
+            "tipo": "Abertura PPC"
           }
         ]
       }
@@ -206,7 +206,7 @@
         "processos": [
           {
             "numero": "23406.000172/2017-72",
-            "tipo": "ajuste"
+            "tipo": "Ajuste PPC"
           },
           {
             "numero": "23411.021099/2025-11",
@@ -215,7 +215,7 @@
           },
           {
             "numero": "23411.016533/2025-33",
-            "tipo": "ajuste",
+            "tipo": "Ajuste PPC",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 71. Enviado ao Consepe em 10/11/2025"
           }
         ]
@@ -235,11 +235,11 @@
         "processos": [
           {
             "numero": "23411.016828/2025-18",
-            "tipo": "abertura"
+            "tipo": "Abertura PAC"
           },
           {
             "numero": "23411.007314/2026-44",
-            "tipo": "abertura"
+            "tipo": "Abertura PPC"
           }
         ]
       }
@@ -289,7 +289,7 @@
           },
           {
             "numero": "23406.000173/2017-17",
-            "tipo": "ajuste",
+            "tipo": "Ajuste PPC",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 70. Enviado ao Consepe em 10/11/2025"
           }
         ]
@@ -330,7 +330,7 @@
         "processos": [
           {
             "numero": "23406.000268/2017-31",
-            "tipo": "abertura"
+            "tipo": "abertura OLD"
           },
           {
             "numero": "23411.021100/2025-08",
@@ -339,7 +339,7 @@
           },
           {
             "numero": "23411.016537/2025-11",
-            "tipo": "ajuste",
+            "tipo": "Ajuste PPC",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 72. Enviado ao Consepe em 10/11/2025"
           }
         ]

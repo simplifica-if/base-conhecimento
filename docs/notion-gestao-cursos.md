@@ -62,7 +62,7 @@ PPCs históricos, quando forem relevantes para o histórico administrativo, deve
 
 Linha do tempo operacional e histórica dos cursos. Cada mudança relevante vira um registro próprio.
 
-Propriedades recorrentes usadas pelos scripts: `Movimentação`, `Categoria`, `Tipo`, `Situação`, `Curso`, `Campus`, `Número SEI`, `Link SEI`, `Data de abertura SEI`, `Data Última mov. SEI`, `Última movimentação SEI`, `Data do ato`, `Início da vigência`, `Anotações` e `Observações SEI`.
+Propriedades recorrentes usadas pelos scripts: `Movimentação`, `Tipo`, `Situação`, `Curso`, `Campus`, `Número SEI`, `Link SEI`, `Data de abertura SEI`, `Data Última mov. SEI`, `Última movimentação SEI`, `Data do ato`, `Início da vigência`, `Anotações` e `Observações SEI`.
 
 Quando houver processo SEI, registre seus metadados na movimentação. O mesmo `Número SEI` pode aparecer em mais de uma movimentação quando um único processo fundamentar mudanças em cursos diferentes.
 

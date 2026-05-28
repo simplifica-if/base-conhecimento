@@ -139,7 +139,7 @@ python3 scripts/validar_base.py
 
 1. Localize o curso em `Cursos`.
 2. Crie uma entrada em `Movimentações de Cursos`.
-3. Preencha categoria, tipo, situação e anotações quando houver evidências, pendências ou nuances de curadoria.
+3. Preencha tipo, situação e anotações quando houver evidências, pendências ou nuances de curadoria.
 4. Quando houver processo SEI, preencha na própria movimentação `Número SEI`, `Link SEI`, `Data de abertura SEI`, `Data Última mov. SEI`, `Última movimentação SEI` e `Observações SEI`.
 5. O mesmo `Número SEI` pode aparecer em mais de uma movimentação quando um único processo fundamentar mudanças em cursos diferentes.
 

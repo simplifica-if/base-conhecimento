@@ -137,7 +137,7 @@
         "processos": [
           {
             "numero": "23411.010256/2025-55",
-            "tipo": "ajuste",
+            "tipo": "Ajuste PPC",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 24.  Aprovado no Consepe e em trâmites finais na DGA e no campus para pubicação."
           }
         ]
@@ -186,7 +186,7 @@
         "processos": [
           {
             "numero": "23411.010258/2025-44",
-            "tipo": "ajuste",
+            "tipo": "Ajuste PPC",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 25.  Aprovado no Consepe e em trâmites finais na DGA e no campus para pubicação."
           }
         ]
@@ -206,7 +206,7 @@
         "processos": [
           {
             "numero": "23411.021133/2025-40",
-            "tipo": "abertura"
+            "tipo": "Abertura PPC"
           }
         ]
       }

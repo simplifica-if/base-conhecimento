@@ -461,11 +461,11 @@
         "processos": [
           {
             "numero": "23411.020211/2019-41",
-            "tipo": "abertura"
+            "tipo": "abertura OLD"
           },
           {
             "numero": "23411.012780/2025-61",
-            "tipo": "ajuste",
+            "tipo": "Ajuste PPC",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 67. Enviado ao campus - viabilidade favorável"
           }
         ]
@@ -576,11 +576,11 @@
         "processos": [
           {
             "numero": "23397.000293/2014-28",
-            "tipo": "abertura"
+            "tipo": "abertura OLD"
           },
           {
             "numero": "23411.021515/2022-21",
-            "tipo": "ajuste",
+            "tipo": "Ajuste PPC",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 69. Enviado ao campus - viabilidade favorável"
           }
         ]
@@ -877,7 +877,7 @@
         "processos": [
           {
             "numero": "23397.000296/2014-61",
-            "tipo": "reversão de suspensão",
+            "tipo": "Reversão Suspensão",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 2. Manifestação favorável do Consepe"
           }
         ]
@@ -1267,11 +1267,11 @@
         "processos": [
           {
             "numero": "00063.008113/2010-07",
-            "tipo": "abertura"
+            "tipo": "abertura OLD"
           },
           {
             "numero": "23411.010326/2023-11",
-            "tipo": "ajuste",
+            "tipo": "Ajuste PPC",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 20. Parecer técnico-pedagógico emitido pela Dentec em 26/03"
           }
         ]
@@ -1320,11 +1320,11 @@
         "processos": [
           {
             "numero": "23397.000294/2014-72",
-            "tipo": "abertura"
+            "tipo": "abertura OLD"
           },
           {
             "numero": "23411.007861/2023-87",
-            "tipo": "ajuste",
+            "tipo": "Ajuste PPC",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 38. \nAprovado pelo Consepe e solicitação de portaria de início das atividaes enviada à Proens em 29/8/25"
           }
         ]
@@ -1366,7 +1366,7 @@
         "processos": [
           {
             "numero": "23411.007447/2025-30",
-            "tipo": "abertura"
+            "tipo": "abertura OLD"
           }
         ]
       }
@@ -1398,11 +1398,11 @@
         "processos": [
           {
             "numero": "23411.005801/2026-72",
-            "tipo": "abertura"
+            "tipo": "abertura OLD"
           },
           {
             "numero": "23411.003654/2026-04",
-            "tipo": "ajuste",
+            "tipo": "Ajuste PPC",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 21. Viabilidade de solicitação concluída. Agora a CAJ irá encaminhar o ajuste curricular (PPC)"
           }
         ]

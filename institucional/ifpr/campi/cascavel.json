@@ -81,7 +81,7 @@
         "processos": [
           {
             "numero": "23398.001075/2018-24",
-            "tipo": "abertura",
+            "tipo": "abertura OLD",
             "trecho_fonte": "Revisado em 27/05/26 via sei-cli e PPC convertido.\n\nEvidências\n- PPC: ||n°23398.001075/2018-24|6|\n- Tipo no SEI: Ensino: Projeto Pedagógico de Curso - Médio.\n- Especificação no SEI: Proposta de Abertura de Curso E. M. I. ao TÉCNICO EM EDIFICAÇÕES - CAMPUS CASCAVEL.\n- Data Última mov.: 13/03/24."
           }
         ]
@@ -177,7 +177,7 @@
         "processos": [
           {
             "numero": "23411.005067/2021-37",
-            "tipo": "ajuste",
+            "tipo": "Ajuste PPC",
             "trecho_fonte": "Revisado em 27/05/26 via sei-cli e PPC convertido.\n\nEvidências\n- PPC: **NÚMERO DO PROCESSO: 23411.005067/2021-37**\n- Tipo no SEI: Ensino: Ajuste curricular de projeto pedagógico de curso.\n- Data Última mov.: 30/08/21."
           }
         ]

@@ -43,11 +43,11 @@
         "processos": [
           {
             "numero": "23411.020155/2025-92",
-            "tipo": "abertura"
+            "tipo": "abertura OLD"
           },
           {
             "numero": "23411.018225/2025-42",
-            "tipo": "ajuste",
+            "tipo": "Ajuste PPC",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 47. Manifestação da Dentec encaminhada no dia 14/10/25 ao campus, DIEPI e DGA.Enviado ao Consepe."
           }
         ]

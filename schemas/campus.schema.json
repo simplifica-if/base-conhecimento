@@ -192,10 +192,18 @@
                     "tipo": {
                       "enum": [
                         "abertura",
+                        "abertura OLD",
+                        "Abertura PAC",
+                        "Abertura PPC",
                         "ajuste",
+                        "Ajuste PPC",
                         "atualização",
+                        "atualização SUAP",
+                        "correção de cadastro",
                         "suspensão",
+                        "Suspensão",
                         "reversão de suspensão",
+                        "Reversão Suspensão",
                         "extinção",
                         "revisão de PPC vigente",
                         "outro"

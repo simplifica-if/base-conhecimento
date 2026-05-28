@@ -52,7 +52,7 @@
         "processos": [
           {
             "numero": "23411.006627/2018-75",
-            "tipo": "suspensão",
+            "tipo": "Suspensão",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 43. Aprovado Consepe"
           }
         ]
@@ -102,12 +102,12 @@
         "processos": [
           {
             "numero": "23412.000140/2017-98",
-            "tipo": "ajuste",
+            "tipo": "Ajuste PPC",
             "trecho_fonte": "Tentativa de ajuste curricular do PPC do Curso Técnico em Agropecuária Integrado ao Ensino Médio; parecer CONSEPE inconcluso e ajuste posteriormente suspenso/arquivado pela DIEPEX. Processo localizado em 25/05/26. Ajuste curricular não efetivado: parecer CONSEPE inconcluso em 12/08/2021 e despacho DIEPEX de 30/06/2022 suspende o ajuste e arquiva os autos.\nEvidências: SEI 1335974: parecer CONSEPE de 12/08/2021 sobre ajuste curricular do PPC, com parecer conclusivo inconcluso.; SEI 1338235: CONSEPE registra parecer inconcluso e retorno à DEMTEC/campus para ajustes.; SEI 0241345: continuidade eletrônica de processo físico em 27/03/2019.; SEI 1289785: Portaria 95/2021 dispõe sobre composição da Comissão de Ajuste Curricular do PPC."
           },
           {
             "numero": "23411.006241/2025-92",
-            "tipo": "ajuste",
+            "tipo": "Ajuste PPC",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 10. 26/03 Parecer técnico-pedagógico emitido pela Dentec\n04/05 Campus devolve PPC revisado\n08/05 Aprovação pela Dentec do PPC, devolução para o campus\n15/05 Envio do processo para CIA/Consepe"
           }
         ]
@@ -153,7 +153,7 @@
         "processos": [
           {
             "numero": "23411.009268/2022-94",
-            "tipo": "suspensão",
+            "tipo": "Suspensão",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 44. Aprovada Consepe"
           }
         ]
@@ -201,11 +201,11 @@
         "processos": [
           {
             "numero": "23411.006660/2018-03",
-            "tipo": "abertura"
+            "tipo": "abertura OLD"
           },
           {
             "numero": "23411.006245/2025-71",
-            "tipo": "ajuste",
+            "tipo": "Ajuste PPC",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 6. 13/05 Recebimento do processo na Dentec\n19/05 Parecer sobre viabilidade desfavorável, faltam docs - devolvido ao campus"
           }
         ]
@@ -253,7 +253,7 @@
         "processos": [
           {
             "numero": "23412.000091/2013-60",
-            "tipo": "suspensão",
+            "tipo": "Suspensão",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 63. Aprovada no Consepe de 15/8 - enviado ao campus"
           }
         ]
@@ -328,7 +328,7 @@
         "processos": [
           {
             "numero": "23411.004550/2019-80",
-            "tipo": "suspensão",
+            "tipo": "Suspensão",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 62. Aprovada no Consepe de 15/8 - enviado ao campus"
           }
         ]
@@ -372,12 +372,12 @@
         "processos": [
           {
             "numero": "23412.000384/2017-71",
-            "tipo": "suspensão",
+            "tipo": "Suspensão",
             "trecho_fonte": "Suspensão temporária do Curso Técnico em Informática Integrado ao Ensino Médio, com parecer favorável da PROENS/DEMTEC e Parecer Consepe 43/2019. O processo também contém documentos posteriores de colegiado/declarações, por isso o status do processo foi mantido como Em instrução.\nEvidências: SEI 0412603: Parecer Consepe 43/2019 favorável ao pedido de suspensão do Curso Técnico em Informática, Integrado ao Ensino Médio, do Campus Assis Chateaubriand.; SEI 0378000: assunto \"Suspensão temporária do Curso Técnico em Informática\"; parecer PROENS/DEMTEC favorável à suspensão do Curso Técnico em Informática, forma de oferta Integrado."
           },
           {
             "numero": "23411.017271/2025-24",
-            "tipo": "ajuste"
+            "tipo": "Ajuste PPC"
           }
         ]
       }
@@ -423,11 +423,11 @@
         "processos": [
           {
             "numero": "23411.007623/2024-52",
-            "tipo": "abertura"
+            "tipo": "Abertura PAC"
           },
           {
             "numero": "23411.004239/2025-89",
-            "tipo": "abertura"
+            "tipo": "Abertura PPC"
           }
         ]
       }
