@@ -7,12 +7,7 @@
   },
   "horario_aulas": {
     "coletado_em": "2026-05-14T11:48:00-03:00",
-    "status_curadoria": "revisado",
-    "url": "https://docs.google.com/spreadsheets/d/1CeRwx7rge749MRhPrsKJOmMl95k9_NPMMTtuVDI0LWM/edit?usp=sharing",
-    "titulo_fonte": "HORÁRIO PRIMEIRO SEMESTRE 2026.1",
-    "periodo_referencia": "2026.1",
-    "tipo_fonte": "google_sheets",
-    "observacoes": "Link externo apontado pelo item Horário das Aulas no menu oficial do campus."
+    "url": "https://docs.google.com/spreadsheets/d/1CeRwx7rge749MRhPrsKJOmMl95k9_NPMMTtuVDI0LWM/edit?usp=sharing"
   },
   "cursos": [
     {
@@ -26,7 +21,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81b5-97fb-f5750926c555",
         "url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2024/10/PPC-HISTORIA-COLOMBO_APROVADO-FINAL.pdf",
         "conversao": {
           "status": "convertido"
@@ -60,7 +54,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81a4-9c2b-ff613327f9ba",
         "url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2024/10/PPC_PEDAGOGIA_COLOMBO_2024.pdf",
         "conversao": {
           "status": "convertido"
@@ -94,13 +87,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-810e-a1b6-f076fd23e94e",
         "id": 35,
         "codigo": "COL001",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8147-9855-f9e23cd7d9c5",
         "url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2022/08/PPC_Integrado_ADM_final.pdf",
         "conversao": {
           "status": "convertido"
@@ -145,7 +138,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8118-bebb-c57829af1c8b",
         "url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2022/08/PPC_Subs_Adm_Versao_Final.pdf",
         "conversao": {
           "status": "convertido"
@@ -181,13 +173,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-813a-8f3f-c5fa899bd418",
         "id": 76,
         "codigo": "COL002",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-812f-99b6-c1eff9cd087b",
         "url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2023/03/PPC-Alimentos-Ultima-Versao-PDF-1-1.pdf",
         "conversao": {
           "status": "convertido"
@@ -216,13 +208,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-8106-b64a-ccea11a57dff",
         "id": 122,
         "codigo": "COL003",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81ba-b351-e62416014278",
         "url": "https://drive.google.com/file/d/1-CWGEpZfgRXQeT9UT3qLT5JCDpBn9biB/view?usp=sharing",
         "conversao": {
           "status": "convertido"
@@ -265,7 +257,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81cb-8e13-d61098d78640",
         "url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2022/08/PPCTAL_2022_Final-1.pdf",
         "conversao": {
           "status": "convertido"
@@ -299,7 +290,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81ad-949a-f99dcc1b2ee2",
         "url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2022/12/PPC-DO-TADS-APROVADO-PELO-CONSEPE-52-2022.pdf",
         "conversao": {
           "status": "convertido"
@@ -333,7 +323,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81d8-9238-e7ceac547034",
         "url": "https://ifpr.edu.br/colombo/wp-content/uploads/sites/9/2025/03/PPC_TPG_COLOMBO_FINAL_CONSEPE_REV.pdf",
         "conversao": {
           "status": "convertido"

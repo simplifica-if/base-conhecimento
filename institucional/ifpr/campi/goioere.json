@@ -6,10 +6,7 @@
     "calendario_academico": "https://ifpr.edu.br/goioere/institucional/calendario-academico/"
   },
   "horario_aulas": {
-    "coletado_em": "2026-05-14T11:48:00-03:00",
-    "status_curadoria": "nao_encontrado",
-    "titulo_fonte": "Horário das aulas não encontrado",
-    "observacoes": "Não foi localizado link oficial de horário das aulas. A busca encontrou apenas página de horário de atendimento do campus."
+    "coletado_em": "2026-05-14T11:48:00-03:00"
   },
   "cursos": [
     {
@@ -23,13 +20,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-81e9-b8fa-d0b7e1c12b95",
         "id": 214,
         "codigo": "GOI001",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81f7-8942-e5fd6a495d41",
         "url": "https://ifpr.edu.br/goioere/wp-content/uploads/sites/13/2017/05/PPC-informatica-integrado-2016.pdf",
         "conversao": {
           "status": "convertido"
@@ -76,13 +73,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-8154-91ef-d54cf2ab0329",
         "id": 213,
         "codigo": "GOI002",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81a4-89b5-fcaaf8d866cf",
         "url": "https://ifpr.edu.br/goioere/wp-content/uploads/sites/13/2017/05/PPC-TECNICO-EM-PRODUCAO-DE-MODA-REVISADO-Piveta-Final.pdf",
         "conversao": {
           "status": "convertido"

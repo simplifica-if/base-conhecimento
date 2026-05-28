@@ -7,10 +7,7 @@
   },
   "horario_aulas": {
     "coletado_em": "2026-05-14T11:48:00-03:00",
-    "status_curadoria": "revisado",
-    "url": "https://ifprumuarama.edupage.org/timetable/",
-    "titulo_fonte": "Horário Escolar",
-    "tipo_fonte": "edupage"
+    "url": "https://ifprumuarama.edupage.org/timetable/"
   },
   "cursos": [
     {
@@ -24,7 +21,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-810b-9154-c2cf2429febc",
         "url": "https://ifpr.edu.br/umuarama/wp-content/uploads/sites/26/2026/03/PPC_Arq_Urb_2023___APS.pdf",
         "conversao": {
           "status": "convertido"
@@ -58,7 +54,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81b9-8e9c-f6129a54937b",
         "url": "https://ifpr.edu.br/umuarama/wp-content/uploads/sites/26/2026/03/PPC_CBIO_APS.pdf",
         "conversao": {
           "status": "convertido"
@@ -92,7 +87,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81f4-b787-f68f598cd863",
         "url": "https://ifpr.edu.br/umuarama/wp-content/uploads/sites/26/2026/03/PPC_Lic._em_Quimica___APS.pdf",
         "conversao": {
           "status": "convertido"
@@ -123,13 +117,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-814d-84ee-f92f907ba51a",
         "id": 42,
         "codigo": "UMU001",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-813f-9a5e-e0a62dabeee9",
         "url": "https://drive.google.com/file/d/1F3UIy62w60j3JixsuLyLwAYY7NvXEyTA/view?usp=drive_link",
         "conversao": {
           "status": "convertido"
@@ -175,13 +169,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-81ef-8a50-ee75e5dfba39",
         "id": 58,
         "codigo": "UMU002",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81c2-8bac-eb0822103cb0",
         "url": "https://drive.google.com/file/d/1mg4GH7XmsItSmsU7CzrpENX3wpVblfWn/view?usp=drive_link",
         "conversao": {
           "status": "convertido"
@@ -227,13 +221,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-810d-ac2c-c7852846ab7a",
         "id": 57,
         "codigo": "UMU003",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-813d-9f1b-d5b89804e59b",
         "url": "https://drive.google.com/file/d/1Tkq2ZXIcrXtW-Esq1BY_xHPciDf0uP_d/view?usp=drive_link",
         "conversao": {
           "status": "convertido"
@@ -279,7 +273,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81ae-b5a4-c65474f11a8a",
         "url": "https://ifpr.edu.br/umuarama/wp-content/uploads/sites/26/2026/03/PPC_ADS_2023___APS.pdf",
         "conversao": {
           "status": "convertido"
@@ -313,7 +306,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-810f-80d2-d06d8c20b511",
         "url": "https://ifpr.edu.br/umuarama/wp-content/uploads/sites/26/2026/03/PPC_GESTAO_AGRO_APS.pdf",
         "conversao": {
           "status": "convertido"

@@ -7,10 +7,7 @@
   },
   "horario_aulas": {
     "coletado_em": "2026-05-14T11:48:00-03:00",
-    "status_curadoria": "revisado",
-    "url": "https://ifpr.edu.br/jaguariaiva/academico/aulas/",
-    "titulo_fonte": "Horário de Aulas",
-    "tipo_fonte": "pagina_ifpr"
+    "url": "https://ifpr.edu.br/jaguariaiva/academico/aulas/"
   },
   "cursos": [
     {
@@ -24,7 +21,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81bf-a823-e5d6cfa3816c",
         "url": "https://ifpr.edu.br/jaguariaiva/wp-content/uploads/sites/17/2023/06/PPC.pos.2023.pdf",
         "conversao": {
           "status": "convertido"
@@ -55,13 +51,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-818e-8254-c8bd25df0a6d",
         "id": 79,
         "codigo": "JAG001",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81d0-9574-e3d9842464a7",
         "url": "https://ifpr.edu.br/jaguariaiva/wp-content/uploads/sites/17/2023/03/PPC_Alimentos.2024.pdf",
         "conversao": {
           "status": "convertido"
@@ -103,13 +99,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-811c-86bb-fcc3ce390f00",
         "id": 215,
         "codigo": "JAG002",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8197-91c5-c9669ff35acc",
         "url": "https://ifpr.edu.br/jaguariaiva/wp-content/uploads/sites/17/2023/10/Projeto_Pedagogico_de_Cursos_Tecnicos_do_IFPR_formulario_BIOTECNOLOGIA.docx.pdf",
         "conversao": {
           "status": "convertido"
@@ -142,7 +138,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81cb-9339-e7892d4ebfe6",
         "url": "https://ifpr.edu.br/jaguariaiva/wp-content/uploads/sites/17/2024/09/PPC_Tecnologo-em-Gestao-da-Qualidade_IFPR_2023.pdf",
         "conversao": {
           "status": "convertido"

@@ -126,14 +126,6 @@ def relation_ids(page: dict[str, Any], property_name: str) -> list[str]:
     return [item["id"] for item in prop.get("relation", [])]
 
 
-def first_prop(props: dict[str, Any], *names: str) -> dict[str, Any] | None:
-    for name in names:
-        prop = props.get(name)
-        if prop:
-            return prop
-    return None
-
-
 def add_if_text(target: dict[str, Any], key: str, value: str) -> None:
     if value:
         target[key] = value
@@ -225,9 +217,6 @@ class Exporter:
     def build_campi(self) -> list[dict[str, Any]]:
         campus_pages = self.query_all("campi")
         course_pages = self.query_all("cursos")
-        document_pages = self.query_all("documentos")
-        suap_pages = self.query_all("suap_cursos")
-        horario_pages = self.query_all("horarios_aula")
         movimentacao_pages = self.query_all("movimentacoes_cursos")
 
         campuses_by_page = {page["id"]: self.campus_ref(page) for page in campus_pages}
@@ -238,21 +227,6 @@ class Exporter:
             for campus_page_id in relation_ids(page, "Campus"):
                 courses_by_campus[campus_page_id].append(page)
 
-        docs_by_course: dict[str, list[dict[str, Any]]] = defaultdict(list)
-        for page in document_pages:
-            for course_page_id in relation_ids(page, "Curso"):
-                docs_by_course[course_page_id].append(page)
-
-        suap_by_course: dict[str, list[dict[str, Any]]] = defaultdict(list)
-        for page in suap_pages:
-            for course_page_id in relation_ids(page, "Curso"):
-                suap_by_course[course_page_id].append(page)
-
-        horarios_by_campus: dict[str, list[dict[str, Any]]] = defaultdict(list)
-        for page in horario_pages:
-            for campus_page_id in relation_ids(page, "Campus"):
-                horarios_by_campus[campus_page_id].append(page)
-
         movimentacoes_by_course: dict[str, list[dict[str, Any]]] = defaultdict(list)
         for page in movimentacao_pages:
             for course_page_id in relation_ids(page, "Curso"):
@@ -261,14 +235,9 @@ class Exporter:
         campi: list[dict[str, Any]] = []
         for page in campus_pages:
             campus = self.campus_json(page)
-            horario = self.pick_horario(horarios_by_campus.get(page["id"], []))
-            if horario:
-                campus["horario_aulas"] = horario
             courses = [
                 self.course_json(
                     course_page,
-                    docs_by_course.get(course_page["id"], []),
-                    suap_by_course.get(course_page["id"], []),
                     movimentacoes_by_course.get(course_page["id"], []),
                 )
                 for course_page in courses_by_campus.get(page["id"], [])
@@ -304,40 +273,24 @@ class Exporter:
                 "calendario_academico": url_value(props.get("Calendário acadêmico")),
             },
         }
+        horario = self.campus_horario(props)
+        if horario:
+            campus["horario_aulas"] = horario
         return campus
 
-    def pick_horario(self, pages: list[dict[str, Any]]) -> dict[str, Any] | None:
-        if not pages:
-            return None
-        ordered = sorted(
-            pages,
-            key=lambda page: (
-                not checkbox_value(page["properties"].get("Fonte ativa?")),
-                select_name(page["properties"].get("Status de curadoria")) != "revisado",
-                plain_text(page["properties"].get("Nome")),
-            ),
-        )
-        props = ordered[0]["properties"]
-        status = select_name(props.get("Status de curadoria"))
-        collected_at = json_datetime(date_start(props.get("Coletado em")))
-        if not status or not collected_at:
+    def campus_horario(self, props: dict[str, Any]) -> dict[str, Any] | None:
+        collected_at = json_datetime(date_start(props.get("Horários Coletado em")))
+        if not collected_at:
             return None
         horario: dict[str, Any] = {
             "coletado_em": collected_at,
-            "status_curadoria": status,
         }
-        add_if_text(horario, "url", url_value(props.get("URL")))
-        add_if_text(horario, "titulo_fonte", plain_text(props.get("Título da fonte")))
-        add_if_text(horario, "periodo_referencia", plain_text(props.get("Período de referência")))
-        add_if_text(horario, "tipo_fonte", select_name(props.get("Tipo de fonte")))
-        add_if_text(horario, "observacoes", plain_text(props.get("Observações")))
+        add_if_text(horario, "url", url_value(props.get("Horários URL")))
         return horario
 
     def course_json(
         self,
         page: dict[str, Any],
-        documents: list[dict[str, Any]],
-        suap_pages: list[dict[str, Any]],
         movimentacoes: list[dict[str, Any]],
     ) -> dict[str, Any]:
         props = page["properties"]
@@ -353,11 +306,11 @@ class Exporter:
         add_if_text(course, "situacao", select_name(props.get("Situação")))
         add_if_text(course, "escopo", select_name(props.get("Escopo")))
 
-        suap = self.pick_suap(suap_pages)
+        suap = self.course_suap(props)
         if suap:
             course["suap"] = suap
 
-        ppc = self.pick_ppc(documents)
+        ppc = self.course_ppc(props)
         if ppc:
             course["ppc"] = ppc
 
@@ -367,45 +320,23 @@ class Exporter:
 
         return course
 
-    def pick_suap(self, pages: list[dict[str, Any]]) -> dict[str, Any] | None:
-        if not pages:
-            return None
-        page = sorted(
-            pages,
-            key=lambda item: (
-                number_value(item["properties"].get("SUAP ID")) or 0,
-                plain_text(item["properties"].get("Código SUAP")),
-                item["id"],
-            ),
-        )[0]
-        props = page["properties"]
-        suap: dict[str, Any] = {"notion_page_id": page["id"]}
+    def course_suap(self, props: dict[str, Any]) -> dict[str, Any] | None:
+        suap: dict[str, Any] = {}
         add_if_number(suap, "id", number_value(props.get("SUAP ID")))
-        add_if_text(suap, "codigo", plain_text(props.get("Código SUAP")))
-        add_if_number(suap, "vagas", number_value(props.get("Vagas SUAP")))
+        add_if_text(suap, "codigo", plain_text(props.get("SUAP Código")))
+        add_if_number(suap, "vagas", number_value(props.get("SUAP Vagas")))
+        add_if_text(suap, "coletado_em", json_datetime(date_start(props.get("SUAP Coletado em"))))
+        add_if_text(suap, "atualizado_em", json_datetime(date_start(props.get("SUAP Atualizado em"))))
         return suap or None
 
-    def pick_ppc(self, pages: list[dict[str, Any]]) -> dict[str, Any] | None:
-        candidates = [
-            page
-            for page in pages
-            if url_value(page["properties"].get("URL oficial"))
-        ]
-        if not candidates:
+    def course_ppc(self, props: dict[str, Any]) -> dict[str, Any] | None:
+        ppc_url = url_value(props.get("PPC URL oficial"))
+        if not ppc_url:
             return None
-        page = sorted(
-            candidates,
-            key=lambda item: (
-                select_name(item["properties"].get("Status")) != "Vigente",
-                plain_text(item["properties"].get("Título")),
-            ),
-        )[0]
-        props = page["properties"]
-        markdown_path = markdown_path_from_link(props.get("Markdown Link") or props.get("Markdown path"))
+        markdown_path = markdown_path_from_link(props.get("PPC Markdown Link"))
 
         ppc: dict[str, Any] = {
-            "notion_page_id": page["id"],
-            "url": url_value(props.get("URL oficial")),
+            "url": ppc_url,
             "conversao": {
                 "status": "convertido" if markdown_path else "pendente",
             },
@@ -424,11 +355,11 @@ class Exporter:
         return ppc
 
     def ppc_ano_documento(self, props: dict[str, Any]) -> dict[str, Any] | None:
-        ano = number_value(props.get("Ano do documento"))
+        ano = number_value(props.get("PPC Ano do documento"))
         if ano is None:
             return None
-        reviewed_at = json_date(date_start(first_prop(props, "Data curadoria", "Revisado em")))
-        status = curadoria_status(first_prop(props, "Curadoria", "Status curadoria"), reviewed_at)
+        reviewed_at = json_date(date_start(props.get("PPC Data curadoria")))
+        status = curadoria_status(props.get("PPC Curadoria"), reviewed_at)
         item: dict[str, Any] = {
             "ano": ano,
             "trecho_fonte": f"Ano do documento registrado no Notion: {ano}",
@@ -438,12 +369,12 @@ class Exporter:
         return item
 
     def ppc_vagas(self, props: dict[str, Any]) -> dict[str, Any] | None:
-        quantidade, minimo, maximo = parse_vagas_interval(vagas_text(props.get("Vagas")))
-        trecho = plain_text(props.get("Trecho fonte das vagas"))
+        quantidade, minimo, maximo = parse_vagas_interval(vagas_text(props.get("PPC Vagas")))
+        trecho = plain_text(props.get("PPC Trecho fonte das vagas"))
         if quantidade is None or not trecho:
             return None
-        reviewed_at = json_date(date_start(first_prop(props, "Data curadoria", "Revisado em")))
-        status = curadoria_status(first_prop(props, "Curadoria", "Status curadoria"), reviewed_at)
+        reviewed_at = json_date(date_start(props.get("PPC Data curadoria")))
+        status = curadoria_status(props.get("PPC Curadoria"), reviewed_at)
         vagas: dict[str, Any] = {
             "quantidade": quantidade,
             "trecho_fonte": trecho,
@@ -451,7 +382,7 @@ class Exporter:
         }
         add_if_number(vagas, "minimo", minimo)
         add_if_number(vagas, "maximo", maximo)
-        add_if_text(vagas, "periodicidade", plain_text(props.get("Periodicidade vagas")))
+        add_if_text(vagas, "periodicidade", plain_text(props.get("PPC Periodicidade vagas")))
         add_if_text(vagas, "forma_oferta", plain_text(props.get("Forma de oferta")))
         add_if_text(vagas, "revisado_em", reviewed_at)
         return vagas

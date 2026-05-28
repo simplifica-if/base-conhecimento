@@ -7,11 +7,7 @@
   },
   "horario_aulas": {
     "coletado_em": "2026-05-14T11:48:00-03:00",
-    "status_curadoria": "revisado",
-    "url": "https://ifpr.edu.br/foz-do-iguacu/29284-2/",
-    "titulo_fonte": "Horários - 2026 - 1º semestre",
-    "periodo_referencia": "2026 - 1º semestre",
-    "tipo_fonte": "pagina_ifpr"
+    "url": "https://ifpr.edu.br/foz-do-iguacu/29284-2/"
   },
   "cursos": [
     {
@@ -25,7 +21,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-810c-8bd9-d4731d32f015",
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2025/05/PPC_Engenharia_de_Aquicultura___06_12_23-1.pdf",
         "conversao": {
           "status": "convertido"
@@ -59,7 +54,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-810d-9569-e8705bcb3eb0",
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2025/06/ppc_ens_cienc_mat_atualizado_2025_oficial.pdf",
         "conversao": {
           "status": "convertido"
@@ -92,7 +86,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-814e-9001-ea2fc0c2cefc",
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2023/08/PPC-Licenciatura-em-Fisica-Foz-2022-v7.pdf",
         "conversao": {
           "status": "convertido"
@@ -125,7 +118,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81c5-896e-c41e2962534b",
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2021/08/PPC-IoT-Foz-do-Iguacu-v-4.0.pdf",
         "conversao": {
           "status": "convertido"
@@ -158,13 +150,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-8135-8a44-d764588cbecb",
         "id": 52,
         "codigo": "FOZ001",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81fc-97ed-d1a3d011e7f5",
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2020/04/PPC-Aqui-Integrado.pdf",
         "conversao": {
           "status": "convertido"
@@ -210,13 +202,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-818b-8410-f7e88a0c3a88",
         "id": 113,
         "codigo": "FOZ002",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81d3-b211-e97cf86f88f9",
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2023/04/PPC-TDS.pdf",
         "conversao": {
           "status": "convertido"
@@ -262,13 +254,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-8129-b39e-c697eacdf15c",
         "id": 133,
         "codigo": "FOZ003",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81b7-a974-ca7c141fc82d",
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2019/07/PPC-Edificacoes-FINAL-novo-2016.pdf",
         "conversao": {
           "status": "convertido"
@@ -314,13 +306,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-816e-8cd9-c97d21b08d2d",
         "id": 126,
         "codigo": "FOZ004",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8199-8207-e3acc586ea7f",
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2022/10/PPC-Tecnico-em-Gastronomia.2022.10.10.22.pdf",
         "conversao": {
           "status": "convertido"
@@ -353,13 +345,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-819f-91c0-d29a6c33fa74",
         "id": 171,
         "codigo": "FOZ005",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8176-8cfc-cfbd51f993ef",
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2020/02/PPC-Integrado-Meio-Ambiente-4-anos.pdf",
         "conversao": {
           "status": "convertido"
@@ -405,7 +397,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8173-a4a8-f08637de5ae5",
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2025/12/PPC_TADS_Foz_do_Iguacu_Versao_2025.pdf",
         "conversao": {
           "status": "convertido"
@@ -437,7 +428,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8153-8f6a-f06ba7d35bac",
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2019/07/PPC-Tecnologia-em-Gastronomia-aprovado-com-portaria-de-autorizacao-1.pdf",
         "conversao": {
           "status": "convertido"

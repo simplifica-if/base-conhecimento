@@ -7,10 +7,7 @@
   },
   "horario_aulas": {
     "coletado_em": "2026-05-14T11:48:00-03:00",
-    "status_curadoria": "revisado",
-    "url": "https://ifpr.edu.br/pinhais/institucional/area-do-aluno/horario-de-aulas-e-atendimento/",
-    "titulo_fonte": "Horário de aulas e atendimento",
-    "tipo_fonte": "pagina_ifpr"
+    "url": "https://ifpr.edu.br/pinhais/institucional/area-do-aluno/horario-de-aulas-e-atendimento/"
   },
   "cursos": [
     {
@@ -24,7 +21,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-812e-997e-da37d453bcc6",
         "url": "https://ifpr.edu.br/pinhais/wp-content/uploads/sites/22/2025/12/PPC-Bac.-Administracao-Alterado-2025-Pos-CONSEPE.pdf",
         "conversao": {
           "status": "convertido"
@@ -50,7 +46,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81a5-90c2-c5bfacad23e6",
         "url": "https://ifpr.edu.br/pinhais/wp-content/uploads/sites/22/2026/04/PPC-BCC-2027.pdf",
         "conversao": {
           "status": "convertido"
@@ -82,13 +77,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-812c-bdfd-eaa9dfbb6d40",
         "id": 195,
         "codigo": "PIN001",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81b2-a0c7-c304034f3acb",
         "url": "https://ifpr.edu.br/pinhais/wp-content/uploads/sites/22/2025/05/Projeto_Pedagogico_de_Curso_3530515_PPC_ADM_2025_aprovadoCONSEPE.pdf",
         "conversao": {
           "status": "convertido"
@@ -128,13 +123,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-8183-be9f-eff4d3ed7f28",
         "id": 574,
         "codigo": "PIN003",
-        "vagas": 80
+        "vagas": 80,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81e0-b32c-dfd4a8c3c0f7",
         "url": "https://ifpr.edu.br/pinhais/wp-content/uploads/sites/22/2025/04/PPC_Informatica_Integrado_EnsinoMedio_2019.pdf",
         "conversao": {
           "status": "convertido"
@@ -176,7 +171,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81e3-9dc7-cf4770a39d8b",
         "url": "https://ifpr.edu.br/pinhais/wp-content/uploads/sites/22/2025/12/PPC_versao_atualizada.pdf",
         "conversao": {
           "status": "convertido"

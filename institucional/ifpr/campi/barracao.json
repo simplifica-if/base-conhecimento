@@ -7,10 +7,7 @@
   },
   "horario_aulas": {
     "coletado_em": "2026-05-14T11:48:00-03:00",
-    "status_curadoria": "revisado",
-    "url": "https://ifpr.edu.br/barracao/academico/horarios-das-aulas/",
-    "titulo_fonte": "Horários das Aulas e do Atendimento",
-    "tipo_fonte": "pagina_ifpr"
+    "url": "https://ifpr.edu.br/barracao/academico/horarios-das-aulas/"
   },
   "cursos": [
     {
@@ -24,13 +21,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-81ef-a8e0-d556b15e0e24",
         "id": 70,
         "codigo": "BA001",
-        "vagas": 80
+        "vagas": 80,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8195-8752-c21699ba747c",
         "url": "https://ifpr.edu.br/barracao/wp-content/uploads/sites/5/2023/12/Projeto-Pedagogico-de-Curso-Tecnico-em-Administracao-Barracao-APROVADO-CONSEPE.pdf",
         "conversao": {
           "status": "convertido"
@@ -76,13 +73,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-814c-a050-fefcf2d84fbe",
         "id": 62,
         "codigo": "BA002",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8120-b9e4-c4aec8a35262",
         "url": "https://ifpr.edu.br/barracao/wp-content/uploads/sites/5/2023/12/PPC_INFO_Barracao-APROVACAO-CONSEPE.pdf",
         "conversao": {
           "status": "convertido"
@@ -129,7 +126,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81a8-8ca9-f7d420a39dea",
         "url": "https://ifpr.edu.br/barracao/wp-content/uploads/sites/5/2025/02/PPC-Comercio-Exterior-Atualizada-2025.pdf",
         "conversao": {
           "status": "convertido"

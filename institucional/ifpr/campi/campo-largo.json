@@ -7,10 +7,7 @@
   },
   "horario_aulas": {
     "coletado_em": "2026-05-14T11:48:00-03:00",
-    "status_curadoria": "revisado",
-    "url": "https://ifpr.edu.br/campo-largo/espaco-do-aluno/horarios-de-aula-calendario/",
-    "titulo_fonte": "Horários de Aula",
-    "tipo_fonte": "pagina_ifpr"
+    "url": "https://ifpr.edu.br/campo-largo/espaco-do-aluno/horarios-de-aula-calendario/"
   },
   "cursos": [
     {
@@ -24,13 +21,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-81dd-8bd2-fd409459ced4",
         "id": 75,
         "codigo": "CL001",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81b0-962d-df3d9e3b5ac8",
         "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2023/01/PPC-EMI-ADMINISTRACAO_-Versao-Resolucao.pdf",
         "conversao": {
           "status": "convertido"
@@ -63,7 +60,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8148-b075-d6819aea0d8c",
         "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2018/12/PPC-PROEJA.pdf",
         "conversao": {
           "status": "convertido"
@@ -96,13 +92,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-8102-a9d6-cdb92252d176",
         "id": 51,
         "codigo": "CL002",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8171-9517-e32f248fd0d9",
         "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2021/01/PPC-Tecnico-em-Agroecologia-2020_23ago-1.pdf",
         "conversao": {
           "status": "convertido"
@@ -144,13 +140,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-8104-a95b-d1f02e313c96",
         "id": 38,
         "codigo": "CL003",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8100-8b0b-f97f0ee96c23",
         "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2023/04/PPC-EMI_Automacao-versao-para-sei-POS-PARECER-ultimo.pdf",
         "conversao": {
           "status": "convertido"
@@ -192,7 +188,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-816b-b6d7-e86209ce1939",
         "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2025/08/2023_PPC-Engenharia-Eletrica_v25.pdf",
         "conversao": {
           "status": "convertido"
@@ -224,7 +219,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81dc-8db0-efab404dca70",
         "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2019/12/PPC_Licenciatura_Matematica_Versao_Pos_CONSUP.pdf",
         "conversao": {
           "status": "convertido"
@@ -256,13 +250,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-81ab-baa1-c6084347f82f",
         "id": 49,
         "codigo": "CL004",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8100-9b7f-d900e48c9854",
         "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2020/02/PPC-EMI_Mecanica_Versao_09_08_2019.pdf",
         "conversao": {
           "status": "convertido"
@@ -295,13 +289,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-81db-80c7-e18b458614fe",
         "id": 83,
         "codigo": "CL005",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8174-8809-ce676bf862f3",
         "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2022/08/PPC-MECANICA-Sub-2016.pdf",
         "conversao": {
           "status": "convertido"
@@ -332,7 +326,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81cb-9b54-e0ffff76fc71",
         "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2025/11/PPC_TecnologoAgro_2025_aprovado-CONSEPE-em-2025.pdf",
         "conversao": {
           "status": "convertido"
@@ -364,7 +357,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81c2-92db-dfc5f5416f2c",
         "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2024/02/PPC_Tecnologo_Materiais_Ext.pdf",
         "conversao": {
           "status": "convertido"
@@ -396,7 +388,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8183-9745-c748fcc43d7e",
         "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2025/08/PPC_Tecnologo_Processos_Gerenciais_ingressantes_2024.pdf",
         "conversao": {
           "status": "convertido"

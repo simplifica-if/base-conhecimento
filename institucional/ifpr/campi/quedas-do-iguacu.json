@@ -6,10 +6,7 @@
     "calendario_academico": "https://ifpr.edu.br/quedas-do-iguacu/academico/calendario/"
   },
   "horario_aulas": {
-    "coletado_em": "2026-05-14T11:48:00-03:00",
-    "status_curadoria": "parcial",
-    "titulo_fonte": "Páginas parciais de horário por curso",
-    "observacoes": "Não foi localizada página agregadora atual de horário das aulas. Foram encontradas apenas páginas antigas ou parciais por curso, como horários RDE e páginas de cursos técnicos."
+    "coletado_em": "2026-05-14T11:48:00-03:00"
   },
   "cursos": [
     {
@@ -23,13 +20,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-813e-b1a2-d2e1de38e168",
         "id": 170,
         "codigo": "QUED001",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-810c-b736-e4e67ace570b",
         "url": "https://ifpr.edu.br/quedas-do-iguacu/wp-content/uploads/sites/24/2024/04/2_PPC-INFORMATICA_3-ANOS_VERSAO-APROVADA_AGOSTO-2018-2.pdf",
         "conversao": {
           "status": "convertido"
@@ -62,13 +59,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-812c-a738-f26e7e7f0444",
         "id": 197,
         "codigo": "QUED002",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-819d-8869-cd575c807989",
         "url": "https://ifpr.edu.br/quedas-do-iguacu/wp-content/uploads/sites/24/2023/05/PPC_Meio_Ambiente.pdf",
         "conversao": {
           "status": "convertido"

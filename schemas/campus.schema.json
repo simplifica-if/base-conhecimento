@@ -46,8 +46,7 @@
     "horario_aulas": {
       "type": "object",
       "required": [
-        "coletado_em",
-        "status_curadoria"
+        "coletado_em"
       ],
       "additionalProperties": false,
       "properties": {
@@ -56,36 +55,9 @@
           "format": "uri",
           "pattern": "^https://"
         },
-        "titulo_fonte": {
-          "type": "string",
-          "minLength": 1
-        },
         "coletado_em": {
           "type": "string",
           "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}(?:Z|[+-]\\d{2}:\\d{2})$"
-        },
-        "periodo_referencia": {
-          "type": "string",
-          "minLength": 1
-        },
-        "tipo_fonte": {
-          "enum": [
-            "pagina_ifpr",
-            "google_sheets",
-            "edupage",
-            "app_externo"
-          ]
-        },
-        "status_curadoria": {
-          "enum": [
-            "revisado",
-            "parcial",
-            "nao_encontrado"
-          ]
-        },
-        "observacoes": {
-          "type": "string",
-          "minLength": 1
         }
       }
     },
@@ -168,16 +140,9 @@
           },
           "suap": {
             "type": "object",
-            "required": [
-              "notion_page_id"
-            ],
             "minProperties": 1,
             "additionalProperties": false,
             "properties": {
-              "notion_page_id": {
-                "type": "string",
-                "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$"
-              },
               "id": {
                 "type": "integer",
                 "minimum": 1
@@ -189,6 +154,14 @@
               "vagas": {
                 "type": "integer",
                 "minimum": 0
+              },
+              "coletado_em": {
+                "type": "string",
+                "format": "date-time"
+              },
+              "atualizado_em": {
+                "type": "string",
+                "format": "date-time"
               }
             }
           },
@@ -250,16 +223,11 @@
           "ppc": {
             "type": "object",
             "required": [
-              "notion_page_id",
               "url",
               "conversao"
             ],
             "additionalProperties": false,
             "properties": {
-              "notion_page_id": {
-                "type": "string",
-                "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$"
-              },
               "url": {
                 "type": "string",
                 "format": "uri",

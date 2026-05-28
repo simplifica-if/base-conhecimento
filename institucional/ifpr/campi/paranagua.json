@@ -7,10 +7,7 @@
   },
   "horario_aulas": {
     "coletado_em": "2026-05-14T11:48:00-03:00",
-    "status_curadoria": "revisado",
-    "url": "https://ifpr.edu.br/paranagua/menu-do-aluno/horarios-e-salas/",
-    "titulo_fonte": "Horários e Salas",
-    "tipo_fonte": "pagina_ifpr"
+    "url": "https://ifpr.edu.br/paranagua/menu-do-aluno/horarios-e-salas/"
   },
   "cursos": [
     {
@@ -24,7 +21,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81d7-8fcf-dd048b3f6b26",
         "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2025/04/PPC_Ciencias_Sociais_Pgua_2011.pdf",
         "conversao": {
           "status": "convertido"
@@ -55,13 +51,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-8100-8982-c401d168c32e",
         "id": 63,
         "codigo": "PGUA001",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81c8-999c-e44778db8856",
         "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2024/04/PPC-EMI-Informatica.pdf",
         "conversao": {
           "status": "convertido"
@@ -103,13 +99,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-8157-aa46-ceec095bb273",
         "id": 64,
         "codigo": "PGUA002",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-810b-8b7f-d873189427fd",
         "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2025/04/PPC_TEC-MECANICA_PARANAGUA_2013_-_2024.pdf",
         "conversao": {
           "status": "convertido"
@@ -142,13 +138,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-81e7-91b7-d1100d90595e",
         "id": 65,
         "codigo": "PGUA003",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-811e-a143-ff3a07719c87",
         "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2024/04/PPC-EMI-Meio-Ambiente.pdf",
         "conversao": {
           "status": "convertido"
@@ -191,13 +187,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-81ea-98bd-fead8b76a0e6",
         "id": 217,
         "codigo": "PGUA004",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8147-8d30-ed5c9191a69a",
         "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2023/04/PPC_2022_Producao_Cultural-1-1.pdf",
         "conversao": {
           "status": "convertido"
@@ -228,7 +224,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81fe-a26f-fb716f371d67",
         "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2025/02/PPC_TADS_2025.pdf",
         "conversao": {
           "status": "convertido"
@@ -254,7 +249,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81f0-8743-c79c6dc78d6a",
         "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2025/02/PPC_TGA_2025.pdf",
         "conversao": {
           "status": "convertido"
@@ -286,7 +280,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8199-a9d5-f40012bb9c3d",
         "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2013/12/PPC-Tecnologia-em-Manutencao-Industrial.pdf",
         "conversao": {
           "status": "convertido"

@@ -7,11 +7,7 @@
   },
   "horario_aulas": {
     "coletado_em": "2026-05-14T11:48:00-03:00",
-    "status_curadoria": "revisado",
-    "url": "https://ifpr.edu.br/palmas/horarios-das-aulas/",
-    "titulo_fonte": "Horários das Aulas 2026",
-    "periodo_referencia": "2026",
-    "tipo_fonte": "pagina_ifpr"
+    "url": "https://ifpr.edu.br/palmas/horarios-das-aulas/"
   },
   "cursos": [
     {
@@ -25,7 +21,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8146-935d-dd2f6908d909",
         "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/03/PPC-Agronomia-Atualizado-2025.pdf",
         "conversao": {
           "status": "convertido"
@@ -56,7 +51,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8106-bb17-f831ca3af66e",
         "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2023/06/PPC_Administracao_2023.pdf",
         "conversao": {
           "status": "convertido"
@@ -87,7 +81,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-819a-9cf9-e3e84e3d6090",
         "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2023/06/PPC_Enfermagem_2023-1.pdf",
         "conversao": {
           "status": "convertido"
@@ -118,7 +111,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8187-852d-eab652e61293",
         "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/03/PPC-Farmacia-Atualizado-2025.pdf",
         "conversao": {
           "status": "convertido"
@@ -149,7 +141,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81f2-b580-e735b2acf0e8",
         "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/03/PPC-Educacao-Fisica-Atualizado-2025.pdf",
         "conversao": {
           "status": "convertido"
@@ -181,7 +172,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-818f-a311-e7281b0a16d3",
         "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/10/PPC_GrauacaoQuimica_2025_2.pdf",
         "conversao": {
           "status": "convertido"
@@ -213,7 +203,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8137-a7f3-f103bc718eaa",
         "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/03/PPC-Pedagogia-Atualizado-2025.pdf",
         "conversao": {
           "status": "convertido"
@@ -244,7 +233,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81a9-934f-fdc0cf1b8e0c",
         "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/03/PPC-Sistemas-de-Informacao-Atualizado-2025.pdf",
         "conversao": {
           "status": "convertido"
@@ -275,13 +263,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-8178-a7fd-e6c48dd05095",
         "id": 47,
         "codigo": "PAL001",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8194-8553-e174a01c059c",
         "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/12/PPC_Alimentos_2025.pdf",
         "conversao": {
           "status": "convertido"
@@ -313,13 +301,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-8130-a9cc-df2d197ff5f1",
         "id": 256,
         "codigo": "PAL003",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81c4-adb9-f29f7b727985",
         "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/12/PPC-Tecnico-em-Informatica-para-Internet-2025-1.pdf",
         "conversao": {
           "status": "convertido"
@@ -351,13 +339,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-819d-b2c8-d96a0b240ef6",
         "id": 60,
         "codigo": "PAL002",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8177-9baf-e78505379b2a",
         "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/12/PPC_Servicos_Juridicos_Trimestral-2025.pdf",
         "conversao": {
           "status": "convertido"

@@ -117,7 +117,6 @@
           "campus_nome",
           "curso_id",
           "curso_nome",
-          "notion_page_id",
           "nivel",
           "tipo_oferta",
           "curso_url",
@@ -145,10 +144,6 @@
           "curso_nome": {
             "type": "string",
             "minLength": 1
-          },
-          "notion_page_id": {
-            "type": "string",
-            "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$"
           },
           "nivel": {
             "type": "string",

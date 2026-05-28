@@ -11,11 +11,6 @@
       "data_source_id": "ab7b6a7d-2ff5-460b-abc8-e5087b22cdd3",
       "title": "Cursos"
     },
-    "documentos": {
-      "id": "16723d94-76b3-4d7b-96e9-eb80db37b726",
-      "data_source_id": "5bd3fa13-c7d7-45a4-aedf-9a3af4a7adb2",
-      "title": "PPCs"
-    },
     "movimentacoes_cursos": {
       "id": "9f13718a-9524-4feb-bc79-b13b32cf0bbd",
       "data_source_id": "9686928b-c284-4526-8534-f6477f39f6ae",
@@ -40,16 +35,6 @@
       "id": "8a62dfd8-f618-4e4a-bb84-d93c27ca1e96",
       "data_source_id": "890a2ce1-1165-41e9-8f4d-b001f44e7b9d",
       "title": "Ofertas de Ingresso"
-    },
-    "suap_cursos": {
-      "id": "0197c81b-4235-4d27-a7b9-caadf2759cce",
-      "data_source_id": "9e560c2a-2e4b-4ebf-a572-c262531d40fe",
-      "title": "SUAP Cursos"
-    },
-    "horarios_aula": {
-      "id": "2e104211-25bb-43dc-aa8c-6c80266cdb09",
-      "data_source_id": "1aa0b1f9-dde1-460e-889a-ede3e7d44253",
-      "title": "Horários de Aula"
     }
   }
 }

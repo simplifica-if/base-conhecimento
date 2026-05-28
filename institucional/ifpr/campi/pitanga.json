@@ -7,10 +7,7 @@
   },
   "horario_aulas": {
     "coletado_em": "2026-05-14T11:48:00-03:00",
-    "status_curadoria": "revisado",
-    "url": "https://ifpr.edu.br/pitanga/horario-academico/",
-    "titulo_fonte": "Horário Acadêmico",
-    "tipo_fonte": "pagina_ifpr"
+    "url": "https://ifpr.edu.br/pitanga/horario-academico/"
   },
   "cursos": [
     {
@@ -24,7 +21,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81a4-9cf5-fee292d38858",
         "url": "https://ifpr.edu.br/pitanga/wp-content/uploads/sites/23/2023/09/PPC-Pedagogia-novo-2022.pdf",
         "conversao": {
           "status": "convertido"
@@ -56,7 +52,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8141-8a1d-c56d4cc98dc0",
         "url": "https://ifpr.edu.br/pitanga/wp-content/uploads/sites/23/2025/04/NOVO_PPC_Quimica___APSs.pdf",
         "conversao": {
           "status": "convertido"
@@ -88,13 +83,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-8133-8fa9-c9db98f0f43a",
         "id": 216,
         "codigo": "PIT001",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8172-b8fc-ce60ab3fcc4d",
         "url": "https://ifpr.edu.br/pitanga/wp-content/uploads/sites/23/2023/11/PPC_Tecnico_em_Alimentos___Revisado_23_02_2023.pdf",
         "conversao": {
           "status": "convertido"
@@ -125,13 +120,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-81cb-87f2-c7ed0703627e",
         "id": 61,
         "codigo": "PIT002",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8120-a4a5-ce9aeb7989cd",
         "url": "https://ifpr.edu.br/pitanga/wp-content/uploads/sites/23/2018/04/PPC_Cooperativismo-atualizado.pdf",
         "conversao": {
           "status": "convertido"
@@ -173,13 +168,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-81b2-85e4-de83dc6a8204",
         "id": 621,
         "codigo": "PIT003",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81ee-b184-d71908bd64b0",
         "url": "https://ifpr.edu.br/pitanga/wp-content/uploads/sites/23/2025/09/PPC_Desenvolvimento_de_Sistemas_Integrado.pdf",
         "conversao": {
           "status": "convertido"
@@ -224,7 +219,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8118-8138-e8e0c052acfb",
         "url": "https://ifpr.edu.br/pitanga/wp-content/uploads/sites/23/2024/02/PPC-AGROINDUSTRIA-IFPR_Pitanga-_ATUALIZACAO-TROCA-DISCIPLINAS-2019-_-18-12-2018.pdf",
         "conversao": {
           "status": "convertido"

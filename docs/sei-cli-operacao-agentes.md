@@ -34,7 +34,7 @@ Use `sei-cli` quando a tarefa envolver:
 - confirmar `Data de abertura`, `Data Última mov.` ou o resumo textual de `Última movimentação`;
 - identificar documentos relevantes, como pareceres, despachos, PPCs, portarias, resoluções, atas ou documentos externos;
 - verificar se houve ato definitivo, arquivamento, cancelamento ou encaminhamento recente;
-- extrair evidências para preencher campos SEI em `Movimentações de Cursos` ou `PPCs` no Notion;
+- extrair evidências para preencher campos SEI em `Movimentações de Cursos` ou metadados de PPC em `Cursos` no Notion;
 - responder a dúvidas operacionais quando os JSONs publicados não tiverem evidência suficiente.
 
 Não use `sei-cli` para substituir a consulta normativa da base pública. Para normas, legislação, resoluções, portarias publicadas, catálogos e PPCs já convertidos, siga primeiro `llms.txt`.

@@ -7,10 +7,7 @@
   },
   "horario_aulas": {
     "coletado_em": "2026-05-14T11:48:00-03:00",
-    "status_curadoria": "revisado",
-    "url": "https://ifpr.edu.br/uniao-da-vitoria/menu-academico/horario-das-aulas/",
-    "titulo_fonte": "Horário das aulas",
-    "tipo_fonte": "pagina_ifpr"
+    "url": "https://ifpr.edu.br/uniao-da-vitoria/menu-academico/horario-das-aulas/"
   },
   "cursos": [
     {
@@ -24,7 +21,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-812d-bb57-eea056cdbf5b",
         "url": "https://ifpr.edu.br/uniao-da-vitoria/wp-content/uploads/sites/27/2025/03/PPC_AGRONOMIA.pdf",
         "conversao": {
           "status": "convertido"
@@ -56,7 +52,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-814e-98ba-f7cb2c7ab1fb",
         "url": "https://ifpr.edu.br/uniao-da-vitoria/wp-content/uploads/sites/27/2025/06/PPC_ESPECIALIZACAO__REVISADO_APOS_CONSEP-1.pdf",
         "conversao": {
           "status": "convertido"
@@ -89,13 +84,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-814a-9d21-cf73c0786ef8",
         "id": 41,
         "codigo": "UVIT001",
-        "vagas": 50
+        "vagas": 50,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-815f-8c3e-cad971bcbea3",
         "url": "https://ifpr.edu.br/uniao-da-vitoria/wp-content/uploads/sites/27/2026/02/ppc-ti-atualizado.pdf",
         "conversao": {
           "status": "convertido"
@@ -136,7 +131,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8107-bae6-ead28802ef86",
         "url": "https://ifpr.edu.br/uniao-da-vitoria/wp-content/uploads/sites/27/2018/10/PPC-PROEJA-ULTIMA-VERSAO.pdf",
         "conversao": {
           "status": "convertido"
@@ -169,13 +163,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-8169-b098-c144c0529043",
         "id": 40,
         "codigo": "UVIT002",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8120-93ed-dcffcd8be454",
         "url": "https://ifpr.edu.br/uniao-da-vitoria/wp-content/uploads/sites/27/2023/07/MA-Projeto-Pedagogico-com-parecer.docx.pdf",
         "conversao": {
           "status": "convertido"
@@ -216,7 +210,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81cc-b5b9-dd0b3193cdfd",
         "url": "https://ifpr.edu.br/uniao-da-vitoria/wp-content/uploads/sites/27/2025/03/ppc_tads_2025.pdf",
         "conversao": {
           "status": "convertido"

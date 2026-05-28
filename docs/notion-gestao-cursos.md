@@ -1,127 +1,101 @@
 # Gestão de cursos no Notion
 
-Este documento registra o modelo operacional de gestão de Campi, Cursos, PPCs, movimentações de cursos, processos SEI, SUAP, horários de aula e processos seletivos no Notion.
+Este documento resume o modelo operacional atual das bases Notion da Gestão de Cursos do IFPR.
 
-## Decisões atuais
+## Princípios
 
-- O Notion é a fonte da verdade operacional, inclusive para o schema vigente das bases.
-- Os JSONs em `institucional/ifpr/campi/` e `institucional/ifpr/processos-seletivos/` são artefatos públicos gerados.
+- O Notion é a fonte operacional de verdade para campi, cursos, metadados de PPC, horários dos campi, movimentações, processos seletivos, editais e ofertas de ingresso.
+- Os JSONs em `institucional/ifpr/campi/` e `institucional/ifpr/processos-seletivos/` são artefatos públicos gerados a partir do Notion.
 - Não edite os JSONs institucionais manualmente para curadoria operacional.
-- O repositório mantém o exportador público, validações, normas, catálogos, PPCs convertidos e índices.
-- Campos de sincronização da importação inicial foram removidos, não escondidos.
-- Esta documentação orienta o uso esperado das bases, mas não é contrato fechado de propriedades ou valores. Antes de operar, verifique no Notion as propriedades atuais do data source indicado em `config/notion.json`.
-- Se uma propriedade ou valor válido no Notion ainda não for aceito pelo exportador, schema ou validador local, ajuste o modelo local em vez de corrigir o Notion apenas para satisfazer uma enumeração desatualizada.
+- Antes de escrever no Notion, confira o schema vivo do data source em `config/notion.json`.
+- Se o Notion contiver uma opção operacional legítima ainda rejeitada por scripts ou schemas locais, ajuste o modelo local.
 
 ## Bases operacionais
 
 ### Campi
 
-Cadastro institucional dos campi.
-
-Verifique no Notion as propriedades atuais da base `campi`. Propriedades recorrentes usadas pelos scripts incluem `Nome`, `campus_id`, `Site`, `Calendário acadêmico` e relações com outras bases.
+Cadastro institucional dos campi. Propriedades recorrentes usadas pelos scripts: `Nome`, `campus_id`, `Site`, `Calendário acadêmico`, `Horários URL`, `Horários Coletado em` e relações com outras bases.
 
 ### Cursos
 
-Cada registro representa uma oferta de curso em um campus. O vínculo operacional entre os JSONs publicados e o Notion é feito por `notion_page_id`; `campus_id` e `curso_id` seguem como identificadores semânticos públicos.
+Cada registro representa uma oferta de curso em um campus. O vínculo público com o Notion é `notion_page_id`; `campus_id` e `curso_id` seguem como identificadores semânticos.
 
-Verifique no Notion as propriedades e opções atuais da base `cursos`. Propriedades recorrentes usadas pelos scripts incluem `Nome`, `curso_id`, `Campus`, `Nível`, `Forma de oferta`, `Modalidade`, `Situação`, `Escopo` e `URL oficial`.
+Propriedades recorrentes usadas pelos scripts:
 
-Metadados SUAP ficam apenas na base `SUAP Cursos`.
+- `Nome`;
+- `curso_id`;
+- `Campus`;
+- `Nível`;
+- `Forma de oferta`;
+- `Modalidade`;
+- `Situação`;
+- `Escopo`;
+- `URL oficial`;
+- `SUAP ID`;
+- `SUAP Código`;
+- `SUAP Vagas`;
+- `SUAP Coletado em`;
+- `SUAP Atualizado em`;
+- `PPC URL oficial`;
+- `PPC Markdown Link`;
+- `PPC Ano do documento`;
+- `PPC Vagas`;
+- `PPC Periodicidade vagas`;
+- `PPC Trecho fonte das vagas`;
+- `PPC Curadoria`;
+- `PPC Data curadoria`;
+- `PPC Observações`.
 
-### PPCs
+Os metadados SUAP ficam diretamente em `Cursos`. No JSON público, são publicados em `cursos[].suap`. `SUAP Vagas` representa o dado administrativo do sistema acadêmico, não as vagas previstas no PPC nem as vagas ofertadas em edital.
 
-Base operacional dos Projetos Pedagógicos de Curso. Cada registro representa um PPC associado a um curso; documentos auxiliares, matrizes isoladas, editais, resoluções e formulários não devem ser cadastrados nesta base. O vínculo operacional entre os JSONs publicados e o Notion é feito por `notion_page_id`.
+### PPC vigente
 
-Regra operacional: um curso pode ter vários PPCs históricos, mas deve haver no máximo um PPC vigente por curso.
+O PPC vigente é registrado diretamente em `Cursos`. A base operacional não mantém uma tabela separada de PPCs nem múltiplos PPCs históricos por curso.
 
-Verifique no Notion as propriedades e opções atuais da base `documentos` (`PPCs`). Propriedades recorrentes usadas pelos scripts incluem `Título`, `Curso`, `Campus`, `Status do PPC`, `URL oficial`, `Markdown Link`, `Ano do documento`, `Vagas`, `Periodicidade vagas`, `Trecho fonte das vagas`, `Curadoria`, `Data curadoria` e `Observações`.
+`PPC URL oficial` registra a fonte oficial do PPC. `PPC Markdown Link` aponta para a versão Markdown publicada, quando disponível. Na publicação JSON, esse link vira `ppc.markdown_path`; o status de conversão é derivado desse campo.
 
-`URL oficial` registra a fonte oficial do PPC. `Markdown Link` aponta para a versão Markdown publicada, quando disponível, usando URL absoluta em `https://simplifica-if.github.io/base-conhecimento/institucional/ifpr/ppcs/...`. Na publicação JSON, esse link é convertido de volta para `ppc.markdown_path`; o status público de conversão é derivado desse campo, não de propriedades técnicas no Notion.
+Metadados extraídos do PPC, como ano do documento e vagas, devem ter evidência e status de curadoria. `PPC Vagas` é texto: use número simples, como `40`, ou intervalo, como `20-40`.
 
-`Curadoria` indica a confiabilidade dos metadados extraídos do PPC. Use as opções atuais disponíveis no Notion, preservando a semântica esperada: extração ainda não conferida, metadado revisado na fonte oficial, conflito/ambiguidade ou informação ainda não localizada. `Data curadoria` registra quando essa conferência foi feita.
-
-Metadados extraídos do PPC, como ano do documento e vagas, devem sempre ter contexto de curadoria. `Vagas` é um campo de texto: use número simples quando o PPC declarar quantidade fixa, como `40`, e intervalo quando o PPC declarar mínimo e máximo, como `20-40`. Registre junto `Trecho fonte das vagas`, `Periodicidade vagas` quando aplicável, `Curadoria` e `Data curadoria`. Na publicação JSON, o status pode ser normalizado para os valores públicos esperados pelo validador local. Se o Notion passar a usar opções novas legítimas, ajuste a normalização local.
+PPCs históricos, quando forem relevantes para o histórico administrativo, devem ser documentados em `Movimentações de Cursos` e nas evidências SEI, não em registros paralelos de PPC.
 
 ### Movimentações de Cursos
 
-Linha do tempo operacional e histórica dos cursos.
+Linha do tempo operacional e histórica dos cursos. Cada mudança relevante vira um registro próprio.
 
-Cada mudança relevante vira um registro próprio. Quando houver processo SEI, registre seus metadados diretamente na movimentação. O mesmo `Número SEI` pode aparecer em mais de uma movimentação quando um único processo fundamentar mudanças em cursos diferentes.
+Propriedades recorrentes usadas pelos scripts: `Movimentação`, `Categoria`, `Tipo`, `Situação`, `Curso`, `Campus`, `Número SEI`, `Link SEI`, `Data de abertura SEI`, `Data Última mov. SEI`, `Última movimentação SEI`, `Data do ato`, `Início da vigência`, `Anotações` e `Observações SEI`.
 
-Verifique no Notion as propriedades e opções atuais da base `movimentacoes_cursos`. Propriedades recorrentes usadas pelos scripts incluem `Movimentação`, `Categoria`, `Tipo`, `Situação`, `Curso`, `Campus`, `Número SEI`, `Link SEI`, `Data de abertura SEI`, `Data Última mov. SEI`, `Última movimentação SEI`, `Data do ato`, `Início da vigência`, `Anotações` e `Observações SEI`.
+Quando houver processo SEI, registre seus metadados na movimentação. O mesmo `Número SEI` pode aparecer em mais de uma movimentação quando um único processo fundamentar mudanças em cursos diferentes.
 
-`Categoria` é o agrupamento amplo da movimentação. `Tipo` registra a natureza administrativa específica. Consulte no Notion as opções atuais antes de criar ou alterar registros.
+`Situação` da movimentação representa etapa de tramitação. A situação operacional do curso fica em `Cursos.Situação`.
 
-`Situação` é uma propriedade Notion do tipo `status` e representa a etapa da movimentação. Use as opções atuais da base no Notion. Não use esse campo para registrar atividade, suspensão ou extinção do curso: esses estados pertencem à propriedade `Situação` da base `Cursos`.
+### Horários dos campi
 
-`Número SEI` registra o processo administrativo associado à movimentação, no formato `00000.000000/0000-00`. Trate o número como evidência da movimentação, não como chave única da base.
+A fonte principal de horários de aula fica diretamente em `Campi`.
 
-`Link SEI` é uma propriedade URL para acesso rápido ao processo por usuários autenticados e autorizados no SEI. Use o formato limpo `https://sei.ifpr.edu.br/sei/controlador.php?acao=procedimento_trabalhar&id_procedimento=<id>`. Não grave URLs copiadas da barra do navegador que contenham `infra_hash`, `infra_unidade_atual` ou outros parâmetros voláteis de sessão.
-
-`Data de abertura SEI` registra a data de autuação/criação do processo no SEI. Quando a autuação exata não estiver disponível, use a primeira movimentação ou o primeiro documento datado apenas se isso estiver claro nas evidências; se for uma aproximação, registre a limitação em `Observações SEI`.
-
-`Data Última mov. SEI` registra a data mais recente localizada no andamento ou nos documentos do processo. Não é data de conclusão: processos antigos podem continuar recebendo despachos, portarias, declarações ou juntadas depois do ato principal.
-
-`Última movimentação SEI` registra um resumo textual curto das duas movimentações mais recentes do histórico do SEI, com data em formato `DD/MM/AA`, descrição e unidade quando disponíveis. Esse campo dá contexto humano para `Data Última mov. SEI`, especialmente quando o evento mais recente é apenas recebimento, envio ou atribuição.
-
-`Data do ato` registra a data do ato formal que fundamenta a movimentação, como resolução, portaria, aprovação final em conselho/colegiado, despacho decisório ou publicação equivalente. Não use este campo para a autuação do processo ou para a última tramitação no SEI.
-
-`Início da vigência` registra quando a mudança passa a produzir efeito acadêmico ou administrativo no curso, como início da oferta, início de suspensão, reversão de suspensão ou vigência de ajuste curricular. Preencha apenas quando houver evidência explícita; datas gerais de tramitação ficam nos campos SEI da movimentação.
-
-`Anotações` consolida observações de curadoria, evidências e pendências em texto curto. Evite repetir o que já está classificado em `Tipo`, remover referências internas como `Linha 12` e não registrar caminhos locais de coleta.
-
-`Observações SEI` deve ser legível no próprio Notion. Prefira texto em blocos com quebras de linha e marcadores, em vez de parágrafo corrido, e use datas textuais em formato brasileiro curto `DD/MM/AA`. Comece com uma frase simples, como `Revisado em 25/05/26 via sei-cli.` Em seguida, use blocos como `Contexto` para curso, campus e origem; `Evidências` para documentos SEI citados; `Datas de controle` para justificar `Data de abertura SEI` e `Data Última mov. SEI`; `Observação técnica` para limitações da extração ou ressalvas. Não inclua caminho local de snapshot.
-
-### SUAP Cursos
-
-Base própria para metadados administrativos de cursos vindos do SUAP.
-
-Verifique no Notion as propriedades atuais da base `suap_cursos`. Propriedades recorrentes usadas pelos scripts incluem `Nome`, `SUAP ID`, `Código SUAP`, `Vagas SUAP`, `Curso`, `Coletado em` e `Atualizado em`. No JSON público, o vínculo operacional com a página Notion é publicado em `cursos[].suap.notion_page_id`.
-
-### Horários de Aula
-
-Base própria para fontes de horários de aula dos campi.
-
-Verifique no Notion as propriedades e opções atuais da base `horarios_aula`. Propriedades recorrentes usadas pelos scripts incluem `Nome`, `horario_aula_id`, `Campus`, `campus_id_original`, `URL`, `Título da fonte`, `Tipo de fonte`, `Período de referência`, `Status de curadoria`, `Fonte ativa?`, `Coletado em` e `Observações`.
+Use `Horários URL` para a página, planilha ou sistema principal de horários do campus. Use `Horários Coletado em` para registrar quando a fonte foi conferida.
 
 ### Processos seletivos
 
-Processos seletivos formam um módulo próprio conectado a `Campi`, `Cursos` e `Tarefas`.
+Processos seletivos usam três bases conectadas:
 
-- `Processos Seletivos`: uma página por campanha/ano de ingresso.
-- `Editais de Ingresso`: uma página por edital dentro de um processo seletivo.
-- `Ofertas de Ingresso`: uma página por oferta de vagas em edital/processo seletivo.
+- `Processos Seletivos`: uma página por campanha/ano de ingresso;
+- `Editais de Ingresso`: uma página por edital;
+- `Ofertas de Ingresso`: uma página por oferta de vagas.
 
-Ofertas de ingresso não criam movimentação de curso automaticamente. Quando uma oferta revelar divergência relevante no cadastro de curso, a equipe pode criar tarefa e movimentação de `Curadoria de cadastro`.
+Ofertas de ingresso não alteram automaticamente o cadastro de curso. Quando uma oferta revelar divergência relevante, crie tarefa ou movimentação de curadoria.
 
 ### Tarefas
 
-Base única da equipe.
-
-Nem toda tarefa cria movimentação. Templates formais, como suspensão, abertura, reversão, extinção ou ajuste de curso, devem criar ou exigir vínculo com um item de movimentação em situação inicial.
+Base única da equipe. Nem toda tarefa cria movimentação. Templates formais, como abertura, suspensão, reversão, extinção ou ajuste de curso, devem exigir vínculo com uma movimentação quando houver mudança administrativa do curso.
 
 ## Publicação
 
-O exportador Notion gera os JSONs públicos usados pela base de conhecimento:
+Depois de alterar dados institucionais no Notion:
 
 ```bash
 python3 scripts/notion_exportar_base_publica.py
-```
-
-Depois de exportar, regenere índices de PPCs quando a alteração afetar cursos, documentos ou caminhos de PPC:
-
-```bash
 python3 scripts/gerar_indice_ppcs.py
-```
-
-Valide a base:
-
-```bash
 python3 scripts/validar_base.py
 ```
 
-## Schema Notion
-
-A base Notion operacional já existe e é mantida diretamente no workspace organizacional. O schema vigente deve ser consultado no próprio Notion, via API/data source configurado em `config/notion.json`.
-
-Quando o schema mudar, atualize os scripts de leitura/exportação, schemas públicos e validações afetadas. Atualize esta documentação apenas quando a mudança alterar uma regra operacional ou um fluxo de trabalho; não repita listas fechadas de propriedades que possam ser conferidas no Notion. O fluxo ativo é Notion -> JSON público.
+O fluxo ativo é sempre Notion -> JSON público.

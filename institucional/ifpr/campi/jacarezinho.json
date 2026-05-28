@@ -6,10 +6,7 @@
     "calendario_academico": "https://ifpr.edu.br/jacarezinho/calendario-academico/"
   },
   "horario_aulas": {
-    "coletado_em": "2026-05-14T11:48:00-03:00",
-    "status_curadoria": "parcial",
-    "titulo_fonte": "Páginas de horário por curso",
-    "observacoes": "Não foi localizada página agregadora de horário das aulas. Foram encontradas páginas por curso, como Licenciatura em Química e Engenharia de Controle e Automação."
+    "coletado_em": "2026-05-14T11:48:00-03:00"
   },
   "cursos": [
     {
@@ -23,7 +20,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-818a-83a3-c83881b95293",
         "url": "https://ifpr.edu.br/jacarezinho/wp-content/uploads/sites/16/2025/06/PPC_especializacao_2025.pdf",
         "conversao": {
           "status": "convertido"
@@ -56,7 +52,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8179-a1bd-fae0c0e74cbd",
         "url": "https://ifpr.edu.br/jacarezinho/wp-content/uploads/sites/16/2025/02/PPC_ECA_IFPR___2017_Atualizado_em_2022.pdf",
         "conversao": {
           "status": "convertido"
@@ -90,7 +85,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81bd-9d9a-cd294be87e71",
         "url": "https://ifpr.edu.br/jacarezinho/wp-content/uploads/sites/16/2025/01/PPC_Licenciatura_FINAL_2022_proens__1__atualizado.pdf",
         "conversao": {
           "status": "convertido"
@@ -116,13 +110,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-8101-b6b0-ef22448e4a9d",
         "id": 71,
         "codigo": "JAC001",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8112-baf8-f0c93a0db12f",
         "url": "https://ifpr.edu.br/jacarezinho/wp-content/uploads/sites/16/2019/12/PPC___Alimentos_2020_A-partir-2020.pdf",
         "conversao": {
           "status": "convertido"
@@ -164,13 +158,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-8153-8bb9-dada2bc94c93",
         "id": 265,
         "codigo": "JAC006",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8151-b0e4-fba29169be53",
         "url": "https://ifpr.edu.br/jacarezinho/wp-content/uploads/sites/16/2018/07/Projeto-Pedagogico-do-Curso-Tecnico-em-Eletromecanica.pdf",
         "conversao": {
           "status": "convertido"
@@ -203,13 +197,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-81c1-b260-c864aa3b8c58",
         "id": 78,
         "codigo": "JAC002",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81ad-998a-fc21f9f21019",
         "url": "https://ifpr.edu.br/jacarezinho/wp-content/uploads/sites/16/2018/06/Projeto-Pedagogico-de-Curso-Eletrotecnica.pdf",
         "conversao": {
           "status": "convertido"
@@ -251,13 +245,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-8161-aeff-ed07f1df4ed1",
         "id": 80,
         "codigo": "JAC003",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81e0-b6c0-d7b6db1ea8fa",
         "url": "https://ifpr.edu.br/jacarezinho/wp-content/uploads/sites/16/2018/11/PPC-Informatica-1.pdf",
         "conversao": {
           "status": "convertido"
@@ -299,13 +293,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-81ca-bba9-c39de8bff99a",
         "id": 92,
         "codigo": "JAC004",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81bf-8fe2-d6f841de70ab",
         "url": "https://ifpr.edu.br/jacarezinho/wp-content/uploads/sites/16/2018/06/Projeto-Pedagogico-do-Curso-Tecnico-em-Mecanica.pdf",
         "conversao": {
           "status": "convertido"
@@ -347,13 +341,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-81b3-8b3f-f68c9339de8b",
         "id": 37,
         "codigo": "JAC005",
-        "vagas": 30
+        "vagas": 30,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81b3-8255-c9c668ed9aee",
         "url": "https://ifpr.edu.br/jacarezinho/wp-content/uploads/sites/16/2019/11/PPC_Tecnico_em_Teatro-1.pdf",
         "conversao": {
           "status": "convertido"
@@ -386,7 +380,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-817f-b102-e2abb7ae2aef",
         "url": "https://ifpr.edu.br/jacarezinho/wp-content/uploads/sites/16/2025/02/PPCSistemasparaInternet.pdf",
         "conversao": {
           "status": "convertido"

@@ -10,11 +10,10 @@ Use este guia quando a solicitação envolver:
 
 - Campi;
 - Cursos;
-- PPCs;
+- metadados de PPC em Cursos;
 - Movimentações de Cursos;
 - Tarefas;
-- SUAP Cursos;
-- Horários de Aula;
+- horários dos campi;
 - Processos Seletivos;
 - Editais de Ingresso;
 - Ofertas de Ingresso.
@@ -67,14 +66,11 @@ Chaves atuais:
 
 - `campi`;
 - `cursos`;
-- `documentos` (`PPCs`);
 - `movimentacoes_cursos`;
 - `tarefas`;
 - `processos_seletivos`;
 - `editais_ingresso`;
-- `ofertas_ingresso`;
-- `suap_cursos`;
-- `horarios_aula`.
+- `ofertas_ingresso`.
 
 ## Quando usar Notion
 
@@ -83,8 +79,8 @@ Use Notion quando o usuário pedir para:
 - consultar ou alterar cadastro atual de campus ou curso;
 - registrar ou revisar processo SEI de curso;
 - criar, corrigir ou consultar movimentação de curso;
-- preencher horários de aula;
-- revisar dados SUAP de cursos;
+- revisar dados de horários dos campi;
+- revisar dados SUAP em cursos;
 - criar ou revisar processo seletivo, edital ou oferta de ingresso;
 - executar curadoria operacional que depois será publicada nos JSONs.
 
@@ -105,7 +101,7 @@ Nesses casos, use os arquivos locais e a hierarquia de fontes definida em `llms.
 
 Ao alterar dados no Notion:
 
-- preserve identificadores estáveis, como `campus_id`, `curso_id`, `notion_page_id`, `Número SEI`, `SUAP ID`, `Código SUAP` e IDs de processo seletivo;
+- preserve identificadores estáveis, como `campus_id`, `curso_id`, `notion_page_id`, `Número SEI`, `SUAP ID`, `SUAP Código` e IDs de processo seletivo;
 - não crie campos técnicos de sincronização, migração ou controle interno sem necessidade operacional atual;
 - não crie propriedades novas no Notion sem verificar o schema atual, a necessidade operacional e os scripts que leem ou exportam a base;
 - se o Notion contiver um valor ou propriedade operacional legítima que a validação local rejeite, ajuste o exportador, schemas públicos ou validadores locais. Não altere o Notion apenas para caber em enumerações locais desatualizadas;

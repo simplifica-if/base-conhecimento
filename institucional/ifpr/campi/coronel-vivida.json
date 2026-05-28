@@ -7,11 +7,7 @@
   },
   "horario_aulas": {
     "coletado_em": "2026-05-14T11:48:00-03:00",
-    "status_curadoria": "revisado",
-    "url": "https://ifpr.edu.br/coronel-vivida/horarios-de-atendimento/",
-    "titulo_fonte": "Horários de aulas 2025",
-    "periodo_referencia": "2025",
-    "tipo_fonte": "pagina_ifpr"
+    "url": "https://ifpr.edu.br/coronel-vivida/horarios-de-atendimento/"
   },
   "cursos": [
     {
@@ -25,13 +21,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-81d7-ac8a-c4e9fa3efa4d",
         "id": 59,
         "codigo": "CV001",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-8147-ae42-d0ec1d6c30f1",
         "url": "https://ifpr.edu.br/coronel-vivida/wp-content/uploads/sites/10/2026/05/PPC-ADM-VERSAO-FINAL-09.12.2025.pdf",
         "conversao": {
           "status": "convertido"
@@ -71,13 +67,13 @@
       "situacao": "ativo",
       "escopo": "campus",
       "suap": {
-        "notion_page_id": "36bf5b13-1dbd-81e6-a1ca-f4aa7e1675bd",
         "id": 120,
         "codigo": "CV002",
-        "vagas": 40
+        "vagas": 40,
+        "coletado_em": "2026-05-25T00:00:00-03:00",
+        "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-813d-b682-cd03ba78dc5c",
         "url": "https://ifpr.edu.br/coronel-vivida/wp-content/uploads/sites/10/2026/05/PPC-COOP-VERSAO-FINAL-09.12.2025.pdf",
         "conversao": {
           "status": "convertido"
@@ -117,7 +113,6 @@
       "situacao": "ativo",
       "escopo": "campus",
       "ppc": {
-        "notion_page_id": "367f5b13-1dbd-81b7-907e-db7f497fba59",
         "url": "https://ifpr.edu.br/coronel-vivida/wp-content/uploads/sites/10/2025/12/PPC_TECNOLOGO_EM_GESTAO_FINANCEIRA_atualizacao_12-2025.pdf",
         "conversao": {
           "status": "convertido"
