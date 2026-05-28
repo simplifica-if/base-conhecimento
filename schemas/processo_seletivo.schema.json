@@ -68,6 +68,8 @@
           },
           "tipo": {
             "enum": [
+              "integrado",
+              "subsequente",
               "técnico integrado",
               "técnico subsequente",
               "técnico ead",
@@ -116,6 +118,8 @@
           },
           "tipo_oferta": {
             "enum": [
+              "integrado",
+              "subsequente",
               "técnico integrado",
               "técnico subsequente",
               "graduação tecnológica",
