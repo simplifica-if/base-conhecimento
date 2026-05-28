@@ -738,7 +738,15 @@
       "ppc": {
         "url": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2024/11/PPC_VERSAO_FINAL_2024.pdf",
         "conversao": {
-          "status": "pendente"
+          "status": "convertido"
+        },
+        "markdown_path": "institucional/ifpr/ppcs/curitiba/tecnico-em-enfermagem.md",
+        "metadados": {
+          "ano_documento": {
+            "ano": 2023,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2023",
+            "status_curadoria": "pendente"
+          }
         }
       }
     },

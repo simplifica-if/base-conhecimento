@@ -3,7 +3,7 @@
   "tipo": "indice_ppcs",
   "versao": 1,
   "atualizado_em": "2026-05-28",
-  "total_itens": 201,
+  "total_itens": 202,
   "secoes": {
     "preview_limite": 500,
     "paths": {
@@ -1312,6 +1312,22 @@
       "escopo": "campus",
       "ano_documento": 2014,
       "vagas": 35
+    },
+    {
+      "id": "curitiba/tecnico-em-enfermagem",
+      "campus_id": "curitiba",
+      "campus_nome": "Curitiba",
+      "curso_id": "tecnico-em-enfermagem",
+      "curso_nome": "Técnico em Enfermagem",
+      "nivel": "médio",
+      "tipo_oferta": "subsequente",
+      "curso_url": "https://ifpr.edu.br/curitiba/nossos-cursos/cursos-tecnicos-subsequentes/enfermagem-2/",
+      "fonte_pdf": "https://ifpr.edu.br/curitiba/wp-content/uploads/sites/11/2024/11/PPC_VERSAO_FINAL_2024.pdf",
+      "path": "institucional/ifpr/ppcs/curitiba/tecnico-em-enfermagem.md",
+      "modalidade": "presencial",
+      "situacao": "ativo",
+      "escopo": "campus",
+      "ano_documento": 2023
     },
     {
       "id": "curitiba/tecnico-em-eventos",

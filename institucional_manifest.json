@@ -2,7 +2,7 @@
   "title": "Metadados institucionais do IFPR",
   "tipo": "cadastro_institucional",
   "versao": 1,
-  "atualizado_em": "2026-04-30",
+  "atualizado_em": "2026-05-28",
   "colecoes": [
     {
       "id": "campi-ifpr",
@@ -30,7 +30,7 @@
       "title": "Projetos Pedagógicos de Curso do IFPR",
       "tipo_item": "ppc",
       "path": "institucional/ifpr/ppcs/index.json",
-      "total_itens": 201
+      "total_itens": 202
     }
   ]
 }
