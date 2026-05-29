@@ -101,8 +101,8 @@ Quando a curadoria depender do Sistema Eletrônico de Informações, leia `docs/
 Regras:
 
 1. Registre processos SEI no nível da movimentação, não dentro de `ppc`.
-2. Use `Número SEI` no formato `00000.000000/0000-00`.
-3. Preencha `Link SEI` com URL limpa no formato `https://sei.ifpr.edu.br/sei/controlador.php?acao=procedimento_trabalhar&id_procedimento=<id>`.
+2. Use `SEI Processo` no formato `00000.000000/0000-00`.
+3. Quando o processo tiver link confirmado, faça do próprio valor de `SEI Processo` um hyperlink para a URL limpa no formato `https://sei.ifpr.edu.br/sei/controlador.php?acao=procedimento_trabalhar&id_procedimento=<id>`.
 4. Mantenha `Data de abertura SEI`, `Data Última mov. SEI` e `Última movimentação SEI` atualizadas quando o processo for revisado.
 5. Use `Data do ato` para o ato formal que fundamenta a movimentação.
 6. Use `Início da vigência` apenas quando houver evidência de efeito acadêmico ou administrativo.

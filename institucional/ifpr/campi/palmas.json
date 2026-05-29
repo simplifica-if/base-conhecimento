@@ -253,6 +253,23 @@
       }
     },
     {
+      "id": "tecnico-em-agroindustria",
+      "notion_page_id": "36ef5b13-1dbd-803a-925c-d243b0c8b11a",
+      "nome": "Técnico em Agroindústria",
+      "nivel": "médio",
+      "tipo_oferta": "integrado",
+      "situacao": "abertura",
+      "escopo": "campus",
+      "sei": {
+        "processos": [
+          {
+            "numero": "23411.013919/2025-93",
+            "tipo": "Abertura PAC"
+          }
+        ]
+      }
+    },
+    {
       "id": "tecnico-em-alimentos",
       "notion_page_id": "367f5b13-1dbd-81ab-9aa8-ff3e199ede91",
       "nome": "Técnico em Alimentos",
@@ -288,6 +305,14 @@
             "periodicidade": "anual"
           }
         }
+      },
+      "sei": {
+        "processos": [
+          {
+            "numero": "23411.008300/2018-38",
+            "tipo": "Ajuste PPC"
+          }
+        ]
       }
     },
     {

@@ -189,16 +189,16 @@
       "sei": {
         "processos": [
           {
+            "numero": "23411.011730/2025-66",
+            "tipo": "Suspensão"
+          },
+          {
             "numero": "23411.005166/2020-38",
             "tipo": "abertura OLD"
           },
           {
             "numero": "23411.017355/2020-53",
             "tipo": "abertura OLD"
-          },
-          {
-            "numero": "23411.011730/2025-66",
-            "tipo": "Suspensão"
           }
         ]
       }

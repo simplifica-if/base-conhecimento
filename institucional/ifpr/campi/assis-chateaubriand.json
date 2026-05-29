@@ -200,13 +200,13 @@
       "sei": {
         "processos": [
           {
-            "numero": "23411.006660/2018-03",
-            "tipo": "abertura OLD"
-          },
-          {
             "numero": "23411.006245/2025-71",
             "tipo": "Ajuste PPC",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 6. 13/05 Recebimento do processo na Dentec\n19/05 Parecer sobre viabilidade desfavorável, faltam docs - devolvido ao campus"
+          },
+          {
+            "numero": "23411.006660/2018-03",
+            "tipo": "abertura OLD"
           }
         ]
       }
@@ -371,13 +371,13 @@
       "sei": {
         "processos": [
           {
+            "numero": "23411.017271/2025-24",
+            "tipo": "Ajuste PPC"
+          },
+          {
             "numero": "23412.000384/2017-71",
             "tipo": "Suspensão",
             "trecho_fonte": "Suspensão temporária do Curso Técnico em Informática Integrado ao Ensino Médio, com parecer favorável da PROENS/DEMTEC e Parecer Consepe 43/2019. O processo também contém documentos posteriores de colegiado/declarações, por isso o status do processo foi mantido como Em instrução.\nEvidências: SEI 0412603: Parecer Consepe 43/2019 favorável ao pedido de suspensão do Curso Técnico em Informática, Integrado ao Ensino Médio, do Campus Assis Chateaubriand.; SEI 0378000: assunto \"Suspensão temporária do Curso Técnico em Informática\"; parecer PROENS/DEMTEC favorável à suspensão do Curso Técnico em Informática, forma de oferta Integrado."
-          },
-          {
-            "numero": "23411.017271/2025-24",
-            "tipo": "Ajuste PPC"
           }
         ]
       }

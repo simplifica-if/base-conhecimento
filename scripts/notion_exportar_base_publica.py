@@ -55,6 +55,14 @@ def plain_text(prop: dict[str, Any] | None) -> str:
     return "".join(part.get("plain_text", "") for part in prop.get(prop_type, []))
 
 
+def plain_text_from_first_existing(props: dict[str, Any], *names: str) -> str:
+    for name in names:
+        value = plain_text(props.get(name)).strip()
+        if value:
+            return value
+    return ""
+
+
 def select_name(prop: dict[str, Any] | None) -> str:
     if not prop:
         return ""
@@ -91,6 +99,14 @@ def url_value(prop: dict[str, Any] | None) -> str:
     if not prop:
         return ""
     return prop.get("url") or ""
+
+
+def url_from_first_existing(props: dict[str, Any], *names: str) -> str:
+    for name in names:
+        value = url_value(props.get(name)).strip()
+        if value:
+            return value
+    return ""
 
 
 def checkbox_value(prop: dict[str, Any] | None) -> bool:
@@ -300,8 +316,8 @@ class Exporter:
             "nome": plain_text(props.get("Nome")),
             "nivel": select_name(props.get("Nível")),
             "tipo_oferta": select_name(props.get("Forma de oferta") or props.get("Tipo de oferta")),
-            "url": url_value(props.get("URL oficial")),
         }
+        add_if_text(course, "url", url_from_first_existing(props, "Página oficial", "URL oficial"))
         add_if_text(course, "modalidade", select_name(props.get("Modalidade")))
         add_if_text(course, "situacao", select_name(props.get("Situação")))
         add_if_text(course, "escopo", select_name(props.get("Escopo")))
@@ -394,7 +410,7 @@ class Exporter:
             props = page["properties"]
             tipo = select_name(props.get("Tipo")) or "outro"
             anotacoes = plain_text(props.get("Anotações"))
-            numero = plain_text(props.get("Número SEI"))
+            numero = plain_text_from_first_existing(props, "SEI Processo", "Número SEI")
             if not numero or (numero, tipo) in seen:
                 continue
             item = {"numero": numero, "tipo": tipo}

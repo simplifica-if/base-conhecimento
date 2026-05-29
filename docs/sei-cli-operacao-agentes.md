@@ -158,8 +158,8 @@ Ao usar o SEI para curadoria, registre no Notion somente informações sustentad
 
 Em `Movimentações de Cursos`:
 
-- use `Número SEI` como identificador operacional;
-- preencha `Link SEI` com `sei_link_processo`, quando o `sei-cli` conseguir confirmar o processo exato;
+- use `SEI Processo` como identificador operacional;
+- faça do próprio valor de `SEI Processo` um hyperlink para `sei_link_processo`, quando o `sei-cli` conseguir confirmar o processo exato;
 - preencha `Data de abertura SEI` com a autuação/criação do processo quando encontrada;
 - preencha `Data Última mov. SEI` com a data mais recente localizada em `historico[]` ou nos documentos;
 - preencha `Última movimentação SEI` com um resumo curto das duas movimentações mais recentes do histórico, para dar contexto humano à data;
@@ -190,7 +190,7 @@ Observação técnica
 
 Não inclua caminho local de snapshot no Notion. Caminhos como `../sei-cli/dados/sei/...` são úteis para trabalho local, mas não são fonte estável para a base operacional.
 
-O mesmo `Número SEI` pode aparecer em mais de uma movimentação quando um único processo fundamentar mudanças em cursos diferentes.
+O mesmo `SEI Processo` pode aparecer em mais de uma movimentação quando um único processo fundamentar mudanças em cursos diferentes.
 
 ## Como citar em respostas
 

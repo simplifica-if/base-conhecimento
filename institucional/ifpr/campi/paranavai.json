@@ -160,14 +160,14 @@
       "sei": {
         "processos": [
           {
-            "numero": "23405.000166/2013-00",
-            "tipo": "abertura OLD",
-            "trecho_fonte": "Revisado em 27/05/26 via sei-cli e PPC convertido.\n\nEvidências\n- PPC: **PROCESSO NÚMERO:** 23405.000166/2013-00 (abertura do curso) / 23405.000264.2016-81 (alterações curriculares)\n- Tipo no SEI: Ensino: Projeto Pedagógico de Curso - Técnico.\n- Especificação no SEI: Curso Técnico em Agroindústria Integrado ao Ensino Médio.\n- Data Última mov.: 06/04/22."
-          },
-          {
             "numero": "23405.000264/2016-81",
             "tipo": "Ajuste PPC",
             "trecho_fonte": "Revisado em 27/05/26 via sei-cli e PPC convertido.\n\nEvidências\n- PPC: PROCESSO NÚMERO: 23405.000166/2013-00 (abertura do curso) / 23405.000264.2016-81 (alterações curriculares)\n- Tipo no SEI: Ensino: Ajuste curricular de projeto pedagógico de curso.\n- Especificação no SEI: Ajuste Curricular do Curso Técnico em Agroindústria Integrado ao Ensino Médio.\n- Data Última mov.: 01/02/23."
+          },
+          {
+            "numero": "23405.000166/2013-00",
+            "tipo": "abertura OLD",
+            "trecho_fonte": "Revisado em 27/05/26 via sei-cli e PPC convertido.\n\nEvidências\n- PPC: **PROCESSO NÚMERO:** 23405.000166/2013-00 (abertura do curso) / 23405.000264.2016-81 (alterações curriculares)\n- Tipo no SEI: Ensino: Projeto Pedagógico de Curso - Técnico.\n- Especificação no SEI: Curso Técnico em Agroindústria Integrado ao Ensino Médio.\n- Data Última mov.: 06/04/22."
           }
         ]
       }

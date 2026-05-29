@@ -30,7 +30,7 @@ Propriedades recorrentes usadas pelos scripts:
 - `Modalidade`;
 - `Situação`;
 - `Escopo`;
-- `URL oficial`;
+- `Página oficial`;
 - `SUAP ID`;
 - `SUAP Código`;
 - `SUAP Vagas`;
@@ -48,6 +48,8 @@ Propriedades recorrentes usadas pelos scripts:
 
 Os metadados SUAP ficam diretamente em `Cursos`. No JSON público, são publicados em `cursos[].suap`. `SUAP Vagas` representa o dado administrativo do sistema acadêmico, não as vagas previstas no PPC nem as vagas ofertadas em edital.
 
+`Página oficial` deve ser preenchida quando houver página pública específica do curso. Cursos em abertura podem ficar temporariamente sem URL pública no JSON até a página oficial existir.
+
 ### PPC vigente
 
 O PPC vigente é registrado diretamente em `Cursos`. A base operacional não mantém uma tabela separada de PPCs nem múltiplos PPCs históricos por curso.
@@ -62,9 +64,9 @@ PPCs históricos, quando forem relevantes para o histórico administrativo, deve
 
 Linha do tempo operacional e histórica dos cursos. Cada mudança relevante vira um registro próprio.
 
-Propriedades recorrentes usadas pelos scripts: `Movimentação`, `Tipo`, `Situação`, `Curso`, `Campus`, `Número SEI`, `Link SEI`, `Data de abertura SEI`, `Data Última mov. SEI`, `Última movimentação SEI`, `Data do ato`, `Início da vigência`, `Anotações` e `Observações SEI`.
+Propriedades recorrentes usadas pelos scripts: `Movimentação`, `Tipo`, `Situação`, `Curso`, `Campus`, `SEI Processo`, `Data de abertura SEI`, `Data Última mov. SEI`, `Última movimentação SEI`, `Data do ato`, `Início da vigência`, `Anotações` e `Observações SEI`.
 
-Quando houver processo SEI, registre seus metadados na movimentação. O mesmo `Número SEI` pode aparecer em mais de uma movimentação quando um único processo fundamentar mudanças em cursos diferentes.
+Quando houver processo SEI, registre seus metadados na movimentação. O mesmo `SEI Processo` pode aparecer em mais de uma movimentação quando um único processo fundamentar mudanças em cursos diferentes. Quando o link interno limpo estiver confirmado, o próprio número em `SEI Processo` deve ser hyperlink para o processo no SEI, sem propriedade separada de link.
 
 `Situação` da movimentação representa etapa de tramitação. A situação operacional do curso fica em `Cursos.Situação`.
 

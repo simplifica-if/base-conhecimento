@@ -70,8 +70,7 @@
           "notion_page_id",
           "nome",
           "nivel",
-          "tipo_oferta",
-          "url"
+          "tipo_oferta"
         ],
         "additionalProperties": false,
         "properties": {

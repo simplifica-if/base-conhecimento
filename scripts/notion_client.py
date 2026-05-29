@@ -121,6 +121,15 @@ def rich_text(content: object | None) -> dict[str, Any]:
     return {"rich_text": [{"text": {"content": str(content)[:2000]}}]}
 
 
+def linked_rich_text(content: object | None, url_value: object | None) -> dict[str, Any]:
+    if content is None:
+        return {"rich_text": []}
+    text = {"content": str(content)[:2000]}
+    if url_value:
+        text["link"] = {"url": str(url_value)}
+    return {"rich_text": [{"text": text}]}
+
+
 def title(content: object) -> dict[str, Any]:
     return {"title": [{"text": {"content": str(content)[:2000]}}]}
 

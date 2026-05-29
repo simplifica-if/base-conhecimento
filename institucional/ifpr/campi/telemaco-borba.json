@@ -209,14 +209,14 @@
             "tipo": "Ajuste PPC"
           },
           {
-            "numero": "23411.021099/2025-11",
-            "tipo": "atualização",
-            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 82. Ciência no processo"
-          },
-          {
             "numero": "23411.016533/2025-33",
             "tipo": "Ajuste PPC",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 71. Enviado ao Consepe em 10/11/2025"
+          },
+          {
+            "numero": "23411.021099/2025-11",
+            "tipo": "atualização",
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 82. Ciência no processo"
           }
         ]
       }
@@ -283,14 +283,14 @@
       "sei": {
         "processos": [
           {
-            "numero": "23411.021076/2025-07",
-            "tipo": "atualização",
-            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 80. Ciência no processo"
-          },
-          {
             "numero": "23406.000173/2017-17",
             "tipo": "Ajuste PPC",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 70. Enviado ao Consepe em 10/11/2025"
+          },
+          {
+            "numero": "23411.021076/2025-07",
+            "tipo": "atualização",
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 80. Ciência no processo"
           }
         ]
       }
@@ -329,6 +329,11 @@
       "sei": {
         "processos": [
           {
+            "numero": "23411.016537/2025-11",
+            "tipo": "Ajuste PPC",
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 72. Enviado ao Consepe em 10/11/2025"
+          },
+          {
             "numero": "23406.000268/2017-31",
             "tipo": "abertura OLD"
           },
@@ -336,11 +341,6 @@
             "numero": "23411.021100/2025-08",
             "tipo": "atualização",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 79. Ciência no processo"
-          },
-          {
-            "numero": "23411.016537/2025-11",
-            "tipo": "Ajuste PPC",
-            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 72. Enviado ao Consepe em 10/11/2025"
           }
         ]
       }

@@ -247,21 +247,29 @@
         "coletado_em": "2026-05-25T00:00:00-03:00",
         "atualizado_em": "2026-05-25T00:00:00-03:00"
       },
+      "ppc": {
+        "url": "https://s3.sa-east-1.amazonaws.com/suap-prod/edu/ppc/PPC_Ivaipor%C3%A3_Eletrotecnica_Subsequente_V4_0_2026-2e70c17d312a4cc8bcf3fd097b142c17.pdf?AWSAccessKeyId=AKIASFWDS4NOF4NNFMVA&Signature=7VwiZ4gKC18gK2Gp9VyGcdd1naA%3D&Expires=1780059125",
+        "conversao": {
+          "status": "pendente"
+        },
+        "metadados": {
+          "ano_documento": {
+            "ano": 2025,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2025",
+            "status_curadoria": "precisa_revisao"
+          }
+        }
+      },
       "sei": {
         "processos": [
           {
-            "numero": "00063.007364/2010-66",
-            "tipo": "abertura OLD"
+            "numero": "23411.008369/2025-91",
+            "tipo": "Ajuste PPC"
           },
           {
             "numero": "23411.004828/2021-33",
             "tipo": "Reversão Suspensão",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 61. Enviado à Diepex em 14/7/25"
-          },
-          {
-            "numero": "23411.008369/2025-91",
-            "tipo": "reversão de suspensão",
-            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 41. Aprovado Consepe"
           }
         ]
       }

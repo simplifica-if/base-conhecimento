@@ -312,13 +312,13 @@
       "sei": {
         "processos": [
           {
-            "numero": "23403.000265/2017-27",
-            "tipo": "abertura OLD"
-          },
-          {
             "numero": "23411.003388/2025-21",
             "tipo": "Ajuste PPC",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 39. Enviado à SOC/Consepe em 8/8/25\n"
+          },
+          {
+            "numero": "23403.000265/2017-27",
+            "tipo": "abertura OLD"
           }
         ]
       }
