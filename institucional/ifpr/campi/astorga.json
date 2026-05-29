@@ -11,7 +11,7 @@
   },
   "cursos": [
     {
-      "id": "curso-tecnico-de-informatica-integrado-ao-ensino-medio",
+      "curso_slug": "curso-tecnico-de-informatica-integrado-ao-ensino-medio",
       "notion_page_id": "367f5b13-1dbd-8187-8062-cbf0d86c68cd",
       "nome": "Técnico em Informática",
       "nivel": "médio",
@@ -19,7 +19,6 @@
       "url": "https://ifpr.edu.br/astorga/menu-principal/nossos-cursos/tecnicos-integrados/tinfem/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 56,
         "codigo": "AST002",
@@ -64,7 +63,7 @@
       }
     },
     {
-      "id": "licenciatura-em-pedagogia",
+      "curso_slug": "licenciatura-em-pedagogia",
       "notion_page_id": "367f5b13-1dbd-81e8-84dc-dfc1c2a41605",
       "nome": "Licenciatura em Pedagogia",
       "nivel": "superior",
@@ -72,7 +71,6 @@
       "url": "https://ifpr.edu.br/astorga/menu-principal/nossos-cursos/pedagogia/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/astorga/wp-content/uploads/sites/4/2026/02/PPC-PEDAGOGIA-2025.pdf",
         "conversao": {
@@ -95,7 +93,7 @@
       }
     },
     {
-      "id": "tecnico-em-desenvolvimento-de-sistemas",
+      "curso_slug": "tecnico-em-desenvolvimento-de-sistemas",
       "notion_page_id": "367f5b13-1dbd-8105-bcb1-c2cfced33690",
       "nome": "Técnico em Desenvolvimento de Sistemas",
       "nivel": "médio",
@@ -103,7 +101,6 @@
       "url": "https://ifpr.edu.br/astorga/menu-principal/nossos-cursos/tecnicos-subsequentes/tecnico-em-desenvolvimento-de-sistemas-tads/",
       "modalidade": "presencial",
       "situacao": "suspenso",
-      "escopo": "campus",
       "suap": {
         "id": 48,
         "codigo": "AST001",

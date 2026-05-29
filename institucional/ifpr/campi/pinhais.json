@@ -11,7 +11,7 @@
   },
   "cursos": [
     {
-      "id": "bacharelado-em-administracao",
+      "curso_slug": "bacharelado-em-administracao",
       "notion_page_id": "367f5b13-1dbd-81c7-80fb-d3a542f70536",
       "nome": "Bacharelado em Administração",
       "nivel": "superior",
@@ -19,7 +19,6 @@
       "url": "https://ifpr.edu.br/pinhais/institucional/nossos-cursos/cursos-superiores/bacharelado-em-administracao/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/pinhais/wp-content/uploads/sites/22/2025/12/PPC-Bac.-Administracao-Alterado-2025-Pos-CONSEPE.pdf",
         "conversao": {
@@ -36,7 +35,7 @@
       }
     },
     {
-      "id": "bacharelado-em-ciencia-da-computacao",
+      "curso_slug": "bacharelado-em-ciencia-da-computacao",
       "notion_page_id": "367f5b13-1dbd-81f3-aaf2-f437107a795a",
       "nome": "Bacharelado em Ciência da Computação",
       "nivel": "superior",
@@ -44,7 +43,6 @@
       "url": "https://ifpr.edu.br/pinhais/institucional/nossos-cursos/cursos-superiores/bacharelado-em-ciencia-da-computacao/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/pinhais/wp-content/uploads/sites/22/2026/04/PPC-BCC-2027.pdf",
         "conversao": {
@@ -67,7 +65,7 @@
       }
     },
     {
-      "id": "tecnico-em-administracao-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-administracao-integrado-ao-ensino-medio",
       "notion_page_id": "367f5b13-1dbd-8197-bc28-efb0534185e0",
       "nome": "Técnico em Administração",
       "nivel": "médio",
@@ -75,7 +73,6 @@
       "url": "https://ifpr.edu.br/pinhais/institucional/nossos-cursos/tecnicos-integrados/administracao/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 195,
         "codigo": "PIN001",
@@ -113,7 +110,7 @@
       }
     },
     {
-      "id": "tecnico-em-informatica-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-informatica-integrado-ao-ensino-medio",
       "notion_page_id": "367f5b13-1dbd-810a-b0e9-cb0d6dc5fd8b",
       "nome": "Técnico em Informática",
       "nivel": "médio",
@@ -121,7 +118,6 @@
       "url": "https://ifpr.edu.br/pinhais/institucional/nossos-cursos/tecnicos-integrados/informatica/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 574,
         "codigo": "PIN003",
@@ -161,7 +157,7 @@
       }
     },
     {
-      "id": "tecnologia-em-gestao-da-tecnologia-da-informacao",
+      "curso_slug": "tecnologia-em-gestao-da-tecnologia-da-informacao",
       "notion_page_id": "367f5b13-1dbd-81cd-9d9e-d4cb516c33c8",
       "nome": "Tecnologia em Gestão da Tecnologia da Informação",
       "nivel": "superior",
@@ -169,7 +165,6 @@
       "url": "https://ifpr.edu.br/pinhais/institucional/nossos-cursos/cursos-superiores/gti/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/pinhais/wp-content/uploads/sites/22/2025/12/PPC_versao_atualizada.pdf",
         "conversao": {

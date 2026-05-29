@@ -64,7 +64,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-agropecuaria-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-agropecuaria-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Diurno (Manhã + 3 tardes por semana)¹"
     },
@@ -83,7 +83,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-comercio",
+      "curso_slug": "tecnico-em-comercio",
       "modalidade": "presencial",
       "turno": "Diurno (Manhã + 2 tardes por semana)²"
     },
@@ -102,7 +102,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
         "edital_id": "edital-subsequentes-curitiba-assis-2026"
       },
-      "curso_id": "tecnico-em-eletromecanica-subsequente",
+      "curso_slug": "tecnico-em-eletromecanica-subsequente",
       "modalidade": "presencial",
       "turno": "Noturno"
     },
@@ -121,7 +121,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-informatica-para-internet-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-informatica-para-internet-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Diurno (manhã + 2 tardes por semana)¹"
     },
@@ -140,7 +140,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-mecatronica-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-mecatronica-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Diurno (manhã + 2 tardes por semana)¹"
     },
@@ -159,7 +159,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "curso-tecnico-de-informatica-integrado-ao-ensino-medio",
+      "curso_slug": "curso-tecnico-de-informatica-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Matutino"
     },
@@ -178,7 +178,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-administracao",
+      "curso_slug": "tecnico-em-administracao",
       "modalidade": "presencial",
       "turno": "Matutino"
     },
@@ -197,7 +197,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-informatica",
+      "curso_slug": "tecnico-em-informatica",
       "modalidade": "presencial",
       "turno": "Matutino"
     },
@@ -216,7 +216,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "administracao",
+      "curso_slug": "administracao",
       "modalidade": "presencial",
       "turno": "Matutino"
     },
@@ -235,7 +235,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "agroecologia",
+      "curso_slug": "agroecologia",
       "modalidade": "presencial",
       "turno": "Vespertino"
     },
@@ -254,7 +254,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "automacao-industrial",
+      "curso_slug": "automacao-industrial",
       "modalidade": "presencial",
       "turno": "Vespertino"
     },
@@ -273,7 +273,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "mecanica",
+      "curso_slug": "mecanica",
       "modalidade": "presencial",
       "turno": "Matutino"
     },
@@ -292,7 +292,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/cursos/",
         "edital_id": "edital-subsequentes-demais-campi-2026"
       },
-      "curso_id": "tecnico-em-mecanica-subsequente",
+      "curso_slug": "tecnico-em-mecanica-subsequente",
       "modalidade": "presencial",
       "turno": "Noturno"
     },
@@ -311,7 +311,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-agroecologia",
+      "curso_slug": "tecnico-em-agroecologia",
       "modalidade": "presencial",
       "turno": "Diurno (manhã e tarde)¹"
     },
@@ -330,7 +330,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-cooperativismo",
+      "curso_slug": "tecnico-em-cooperativismo",
       "modalidade": "presencial",
       "turno": "Matutino"
     },
@@ -349,7 +349,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-informatica",
+      "curso_slug": "tecnico-em-informatica",
       "modalidade": "presencial",
       "turno": "Matutino"
     },
@@ -368,7 +368,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-edificacoes",
+      "curso_slug": "tecnico-em-edificacoes",
       "modalidade": "presencial",
       "turno": "Diurno (manhã+duas tardes)¹"
     },
@@ -387,7 +387,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-informatica",
+      "curso_slug": "tecnico-em-informatica",
       "modalidade": "presencial",
       "turno": "Diurno (manhã+duas tardes)¹"
     },
@@ -406,7 +406,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-quimica",
+      "curso_slug": "tecnico-em-quimica",
       "modalidade": "presencial",
       "turno": "Diurno (manhã+duas tardes)¹"
     },
@@ -425,7 +425,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-administracao-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-administracao-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Matutino + duas tardes por semana¹"
     },
@@ -444,7 +444,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-alimentos-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-alimentos-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Vespertino"
     },
@@ -463,7 +463,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-informatica-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-informatica-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Matutino"
     },
@@ -482,7 +482,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-administracao",
+      "curso_slug": "tecnico-em-administracao",
       "modalidade": "presencial",
       "turno": "Diurno (Manhã + 2 tardes)¹"
     },
@@ -501,7 +501,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-cooperativismo",
+      "curso_slug": "tecnico-em-cooperativismo",
       "modalidade": "presencial",
       "turno": "Diurno (Manhã + 2 tardes)¹"
     },
@@ -520,7 +520,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-administracao-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-administracao-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Matutino com contraturno a tarde"
     },
@@ -539,7 +539,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
         "edital_id": "edital-subsequentes-curitiba-assis-2026"
       },
-      "curso_id": "tecnico-em-condominio",
+      "curso_slug": "tecnico-em-condominio",
       "modalidade": "presencial",
       "turno": "Noturno"
     },
@@ -558,7 +558,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-contabilidade-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-contabilidade-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Matutino com contraturno a tarde"
     },
@@ -577,7 +577,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
         "edital_id": "edital-subsequentes-curitiba-assis-2026"
       },
-      "curso_id": "tecnico-em-edificacoes",
+      "curso_slug": "tecnico-em-edificacoes",
       "modalidade": "presencial",
       "turno": "Noturno"
     },
@@ -596,7 +596,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
         "edital_id": "edital-subsequentes-curitiba-assis-2026"
       },
-      "curso_id": "tecnico-em-eletromecanica",
+      "curso_slug": "tecnico-em-eletromecanica",
       "modalidade": "presencial",
       "turno": "Noturno"
     },
@@ -615,7 +615,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-eletronica-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-eletronica-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Vespertino com contraturno pela manhã"
     },
@@ -634,7 +634,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
         "edital_id": "edital-subsequentes-curitiba-assis-2026"
       },
-      "curso_id": "tecnico-em-eletrotecnica",
+      "curso_slug": "tecnico-em-eletrotecnica",
       "modalidade": "presencial",
       "turno": "Noturno"
     },
@@ -653,7 +653,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
         "edital_id": "edital-subsequentes-curitiba-assis-2026"
       },
-      "curso_id": "tecnico-em-enfermagem",
+      "curso_slug": "tecnico-em-enfermagem",
       "modalidade": "presencial",
       "turno": "Matutino"
     },
@@ -672,7 +672,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
         "edital_id": "edital-subsequentes-curitiba-assis-2026"
       },
-      "curso_id": "tecnico-em-eventos",
+      "curso_slug": "tecnico-em-eventos",
       "modalidade": "presencial",
       "turno": "Noturno"
     },
@@ -691,7 +691,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-informatica-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-informatica-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Matutino"
     },
@@ -710,7 +710,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
         "edital_id": "edital-subsequentes-curitiba-assis-2026"
       },
-      "curso_id": "tecnico-em-mecanica",
+      "curso_slug": "tecnico-em-mecanica",
       "modalidade": "presencial",
       "turno": "Noturno"
     },
@@ -729,7 +729,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-mecanica-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-mecanica-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Vespertino com contraturno pela manhã"
     },
@@ -748,7 +748,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-petroleo-e-gas-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-petroleo-e-gas-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Matutino com contraturno a tarde"
     },
@@ -767,7 +767,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
         "edital_id": "edital-subsequentes-curitiba-assis-2026"
       },
-      "curso_id": "tecnico-em-processos-fotograficos",
+      "curso_slug": "tecnico-em-processos-fotograficos",
       "modalidade": "presencial",
       "turno": "Matutino"
     },
@@ -786,7 +786,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-processos-fotograficos-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-processos-fotograficos-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Vespertino com contraturno pela manhã"
     },
@@ -805,7 +805,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
         "edital_id": "edital-subsequentes-curitiba-assis-2026"
       },
-      "curso_id": "tecnico-em-producao-de-audio-e-video",
+      "curso_slug": "tecnico-em-producao-de-audio-e-video",
       "modalidade": "presencial",
       "turno": "Vespertino"
     },
@@ -824,7 +824,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-programacao-de-jogos-digitais-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-programacao-de-jogos-digitais-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Vespertino"
     },
@@ -843,7 +843,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
         "edital_id": "edital-subsequentes-curitiba-assis-2026"
       },
-      "curso_id": "tecnico-em-protese-dentaria",
+      "curso_slug": "tecnico-em-protese-dentaria",
       "modalidade": "presencial",
       "turno": "Noturno"
     },
@@ -862,7 +862,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
         "edital_id": "edital-subsequentes-curitiba-assis-2026"
       },
-      "curso_id": "tecnico-em-protese-dentaria",
+      "curso_slug": "tecnico-em-protese-dentaria",
       "modalidade": "presencial",
       "turno": "Vespertino"
     },
@@ -881,7 +881,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
         "edital_id": "edital-subsequentes-curitiba-assis-2026"
       },
-      "curso_id": "tecnico-em-radiologia",
+      "curso_slug": "tecnico-em-radiologia",
       "modalidade": "presencial",
       "turno": "Matutino"
     },
@@ -900,7 +900,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
         "edital_id": "edital-subsequentes-curitiba-assis-2026"
       },
-      "curso_id": "tecnico-em-saude-bucal",
+      "curso_slug": "tecnico-em-saude-bucal",
       "modalidade": "presencial",
       "turno": "Noturno"
     },
@@ -919,7 +919,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/curitiba-e-assis-chateaubriand/cursos/",
         "edital_id": "edital-subsequentes-curitiba-assis-2026"
       },
-      "curso_id": "tecnico-em-telecomunicacoes",
+      "curso_slug": "tecnico-em-telecomunicacoes",
       "modalidade": "presencial",
       "turno": "Noturno"
     },
@@ -938,7 +938,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-aquicultura",
+      "curso_slug": "tecnico-em-aquicultura",
       "modalidade": "presencial",
       "turno": "Diurno (Manhã + 1 tarde)²"
     },
@@ -957,7 +957,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-desenvolvimento-de-sistemas",
+      "curso_slug": "tecnico-em-desenvolvimento-de-sistemas",
       "modalidade": "presencial",
       "turno": "Matutino"
     },
@@ -976,7 +976,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-edificacoes-3",
+      "curso_slug": "tecnico-em-edificacoes-3",
       "modalidade": "presencial",
       "turno": "Diurno (Manhã + 1 tarde)²"
     },
@@ -995,7 +995,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/cursos/",
         "edital_id": "edital-subsequentes-demais-campi-2026"
       },
-      "curso_id": "tecnico-em-gastronomia",
+      "curso_slug": "tecnico-em-gastronomia",
       "modalidade": "presencial",
       "turno": "Vespertino"
     },
@@ -1014,7 +1014,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-meio-ambiente",
+      "curso_slug": "tecnico-em-meio-ambiente",
       "modalidade": "presencial",
       "turno": "Matutino"
     },
@@ -1033,7 +1033,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-informatica",
+      "curso_slug": "tecnico-em-informatica",
       "modalidade": "presencial",
       "turno": "Matutino"
     },
@@ -1052,7 +1052,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-agroecologia",
+      "curso_slug": "tecnico-em-agroecologia",
       "modalidade": "presencial",
       "turno": "Matutino"
     },
@@ -1071,7 +1071,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-informatica",
+      "curso_slug": "tecnico-em-informatica",
       "modalidade": "presencial",
       "turno": "Matutino"
     },
@@ -1090,7 +1090,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-informatica",
+      "curso_slug": "tecnico-em-informatica",
       "modalidade": "presencial",
       "turno": "Vespertino"
     },
@@ -1109,7 +1109,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-agropecuaria-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-agropecuaria-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Diurno (manhã e tarde)²"
     },
@@ -1128,7 +1128,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-eletrotecnica-integrado",
+      "curso_slug": "tecnico-em-eletrotecnica-integrado",
       "modalidade": "presencial",
       "turno": "Diurno (manhã e tarde)²"
     },
@@ -1147,7 +1147,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/cursos/",
         "edital_id": "edital-subsequentes-demais-campi-2026"
       },
-      "curso_id": "tecnico-em-eletrotecnica-subsequente",
+      "curso_slug": "tecnico-em-eletrotecnica-subsequente",
       "modalidade": "presencial",
       "turno": "Noturno"
     },
@@ -1166,7 +1166,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-informatica-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-informatica-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Diurno (manhã e tarde)²"
     },
@@ -1185,7 +1185,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-alimentos",
+      "curso_slug": "tecnico-em-alimentos",
       "modalidade": "presencial",
       "turno": "Diurno"
     },
@@ -1204,7 +1204,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-eletrotecnica",
+      "curso_slug": "tecnico-em-eletrotecnica",
       "modalidade": "presencial",
       "turno": "Diurno"
     },
@@ -1223,7 +1223,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-informatica",
+      "curso_slug": "tecnico-em-informatica",
       "modalidade": "presencial",
       "turno": "Diurno"
     },
@@ -1242,7 +1242,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-mecanica",
+      "curso_slug": "tecnico-em-mecanica",
       "modalidade": "presencial",
       "turno": "Diurno"
     },
@@ -1261,7 +1261,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/cursos/",
         "edital_id": "edital-subsequentes-demais-campi-2026"
       },
-      "curso_id": "tecnico-em-teatro",
+      "curso_slug": "tecnico-em-teatro",
       "modalidade": "presencial",
       "turno": "Noturno"
     },
@@ -1280,7 +1280,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-alimentos-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-alimentos-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Diurno (manhã e tarde)¹"
     },
@@ -1335,7 +1335,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/cursos/",
         "edital_id": "edital-subsequentes-demais-campi-2026"
       },
-      "curso_id": "tecnico-em-enfermagem",
+      "curso_slug": "tecnico-em-enfermagem",
       "modalidade": "presencial",
       "turno": "Diurno¹"
     },
@@ -1354,7 +1354,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-informatica-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-informatica-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Vespertino"
     },
@@ -1373,7 +1373,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/cursos/",
         "edital_id": "edital-subsequentes-demais-campi-2026"
       },
-      "curso_id": "tecnico-em-massoterapia",
+      "curso_slug": "tecnico-em-massoterapia",
       "modalidade": "presencial",
       "turno": "Matutino"
     },
@@ -1392,7 +1392,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/cursos/",
         "edital_id": "edital-subsequentes-demais-campi-2026"
       },
-      "curso_id": "tecnico-em-protese-dentaria-2",
+      "curso_slug": "tecnico-em-protese-dentaria-2",
       "modalidade": "presencial",
       "turno": "Noturno"
     },
@@ -1411,7 +1411,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/cursos/",
         "edital_id": "edital-subsequentes-demais-campi-2026"
       },
-      "curso_id": "tecnico-em-saude-bucal",
+      "curso_slug": "tecnico-em-saude-bucal",
       "modalidade": "presencial",
       "turno": "Matutino"
     },
@@ -1484,7 +1484,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-informatica",
+      "curso_slug": "tecnico-em-informatica",
       "modalidade": "presencial",
       "turno": "Vespertino"
     },
@@ -1503,7 +1503,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-mecanica",
+      "curso_slug": "tecnico-em-mecanica",
       "modalidade": "presencial",
       "turno": "Diurno (tarde e manhã)¹"
     },
@@ -1522,7 +1522,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-meio-ambiente",
+      "curso_slug": "tecnico-em-meio-ambiente",
       "modalidade": "presencial",
       "turno": "Vespertino"
     },
@@ -1541,7 +1541,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-producao-cultural",
+      "curso_slug": "tecnico-em-producao-cultural",
       "modalidade": "presencial",
       "turno": "Matutino"
     },
@@ -1560,7 +1560,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-agroindustria",
+      "curso_slug": "tecnico-em-agroindustria",
       "modalidade": "presencial",
       "turno": "Matutino"
     },
@@ -1579,7 +1579,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/subsequentes/subsequentes-demais-campi/cursos/",
         "edital_id": "edital-subsequentes-demais-campi-2026"
       },
-      "curso_id": "tecnico-em-eletromecanica-subsequente",
+      "curso_slug": "tecnico-em-eletromecanica-subsequente",
       "modalidade": "presencial",
       "turno": "Noturno"
     },
@@ -1598,7 +1598,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-informatica",
+      "curso_slug": "tecnico-em-informatica",
       "modalidade": "presencial",
       "turno": "Matutino"
     },
@@ -1617,7 +1617,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-mecatronica",
+      "curso_slug": "tecnico-em-mecatronica",
       "modalidade": "presencial",
       "turno": "Matutino"
     },
@@ -1636,7 +1636,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-administracao-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-administracao-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Matutino"
     },
@@ -1655,7 +1655,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-administracao-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-administracao-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Vespertino"
     },
@@ -1674,7 +1674,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-informatica-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-informatica-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Matutino"
     },
@@ -1693,7 +1693,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-informatica-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-informatica-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Vespertino"
     },
@@ -1712,7 +1712,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-alimentos",
+      "curso_slug": "tecnico-em-alimentos",
       "modalidade": "presencial",
       "turno": "Matutino"
     },
@@ -1731,7 +1731,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-cooperativismo",
+      "curso_slug": "tecnico-em-cooperativismo",
       "modalidade": "presencial",
       "turno": "Matutino"
     },
@@ -1750,7 +1750,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-desenvolvimento-de-sistemas",
+      "curso_slug": "tecnico-em-desenvolvimento-de-sistemas",
       "modalidade": "presencial",
       "turno": "Matutino"
     },
@@ -1787,7 +1787,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-informatica",
+      "curso_slug": "tecnico-em-informatica",
       "modalidade": "presencial",
       "turno": "Diurno (Manhã + 2 tardes por semana)¹"
     },
@@ -1806,7 +1806,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-meio-ambiente",
+      "curso_slug": "tecnico-em-meio-ambiente",
       "modalidade": "presencial",
       "turno": "Diurno (Manhã + 2 tardes por semana)¹"
     },
@@ -1825,7 +1825,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-automacao-industrial-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-automacao-industrial-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Matutino/Vespertino¹"
     },
@@ -1844,7 +1844,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-informatica-para-internet-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-informatica-para-internet-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Matutino/Vespertino¹"
     },
@@ -1863,7 +1863,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-mecanica",
+      "curso_slug": "tecnico-em-mecanica",
       "modalidade": "presencial",
       "turno": "Matutino/Vespertino¹"
     },
@@ -1882,7 +1882,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-programacao-de-jogos-digitais",
+      "curso_slug": "tecnico-em-programacao-de-jogos-digitais",
       "modalidade": "presencial",
       "turno": "Matutino/Vespertino¹"
     },
@@ -1919,7 +1919,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-edificacoes-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-edificacoes-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Matutino/Vespertino¹"
     },
@@ -1938,7 +1938,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-informatica-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-informatica-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Matutino/Vespertino¹"
     },
@@ -1957,7 +1957,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-quimica-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-quimica-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Matutino/Vespertino¹"
     },
@@ -1976,7 +1976,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-informatica-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-informatica-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Diurno (Manhã + 2 tardes)¹"
     },
@@ -1995,7 +1995,7 @@
         "url": "https://ifpr.edu.br/processo-seletivo/processo-seletivo-2026/integrados/cursos/",
         "edital_id": "edital-integrados-2026"
       },
-      "curso_id": "tecnico-em-meio-ambiente-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-meio-ambiente-integrado-ao-ensino-medio",
       "modalidade": "presencial",
       "turno": "Diurno (Manhã + 2 tardes)¹"
     }

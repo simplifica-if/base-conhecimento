@@ -11,7 +11,7 @@
   },
   "cursos": [
     {
-      "id": "licenciatura-em-quimica",
+      "curso_slug": "licenciatura-em-quimica",
       "notion_page_id": "367f5b13-1dbd-8140-a383-f6399f25158a",
       "nome": "Licenciatura em Química",
       "nivel": "superior",
@@ -19,7 +19,6 @@
       "url": "https://ifpr.edu.br/cascavel/cursos/graduacao/licenciatura-em-quimica/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/cascavel/wp-content/uploads/sites/8/2025/01/ATUALIZACAO_DO_AJUSTE_CURRICULAR_ORDINARIO_PPC_LICENCIATURA_EM_QUIMICA.pdf",
         "conversao": {
@@ -42,7 +41,7 @@
       }
     },
     {
-      "id": "tecnico-em-edificacoes",
+      "curso_slug": "tecnico-em-edificacoes",
       "notion_page_id": "367f5b13-1dbd-8107-8ef8-da8b6b9807fc",
       "nome": "Técnico em Edificações",
       "nivel": "médio",
@@ -50,7 +49,6 @@
       "url": "https://ifpr.edu.br/cascavel/cursos/ensino-medio-integrado/tecnico-em-edificacoes/apresentacao/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 29,
         "codigo": "CAS001",
@@ -88,7 +86,7 @@
       }
     },
     {
-      "id": "tecnico-em-informatica",
+      "curso_slug": "tecnico-em-informatica",
       "notion_page_id": "367f5b13-1dbd-8125-83c1-dbe426d85335",
       "nome": "Técnico em Informática",
       "nivel": "médio",
@@ -96,7 +94,6 @@
       "url": "https://ifpr.edu.br/cascavel/cursos/ensino-medio-integrado/tecnico-em-informatica/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 30,
         "codigo": "CAS002",
@@ -136,7 +133,7 @@
       }
     },
     {
-      "id": "tecnico-em-quimica",
+      "curso_slug": "tecnico-em-quimica",
       "notion_page_id": "367f5b13-1dbd-8178-a1ee-f0fb092c2214",
       "nome": "Técnico em Química",
       "nivel": "médio",
@@ -144,7 +141,6 @@
       "url": "https://ifpr.edu.br/cascavel/cursos/ensino-medio-integrado/tecnico-em-quimica/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 32,
         "codigo": "CAS003",
@@ -184,7 +180,7 @@
       }
     },
     {
-      "id": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
+      "curso_slug": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
       "notion_page_id": "367f5b13-1dbd-81c1-8ece-e01547c60141",
       "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
       "nivel": "superior",
@@ -192,7 +188,6 @@
       "url": "https://ifpr.edu.br/cascavel/cursos/graduacao/tads/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/cascavel/wp-content/uploads/sites/8/2026/02/PPC_TADS_2023_ATUALIZACAO_2026.pdf",
         "conversao": {
@@ -215,7 +210,7 @@
       }
     },
     {
-      "id": "tecnologia-em-gestao-ambiental",
+      "curso_slug": "tecnologia-em-gestao-ambiental",
       "notion_page_id": "367f5b13-1dbd-81c5-81b8-eee5e2d96960",
       "nome": "Tecnologia em Gestão Ambiental",
       "nivel": "superior",
@@ -223,7 +218,6 @@
       "url": "https://ifpr.edu.br/cascavel/cursos/graduacao/tecnologia-em-gestao-ambiental/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/cascavel/wp-content/uploads/sites/8/2026/02/NOVO-PPC-Tecnologia-em-gestao-ambiental_2026.pdf",
         "conversao": {

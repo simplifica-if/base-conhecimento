@@ -115,7 +115,7 @@
           "id",
           "campus_id",
           "campus_nome",
-          "curso_id",
+          "curso_slug",
           "curso_nome",
           "nivel",
           "tipo_oferta",
@@ -137,7 +137,7 @@
             "type": "string",
             "minLength": 1
           },
-          "curso_id": {
+          "curso_slug": {
             "type": "string",
             "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
           },
@@ -158,10 +158,6 @@
             "minLength": 1
           },
           "situacao": {
-            "type": "string",
-            "minLength": 1
-          },
-          "escopo": {
             "type": "string",
             "minLength": 1
           },

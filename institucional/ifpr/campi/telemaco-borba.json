@@ -11,7 +11,7 @@
   },
   "cursos": [
     {
-      "id": "engenharia-eletrica",
+      "curso_slug": "engenharia-eletrica",
       "notion_page_id": "367f5b13-1dbd-8101-9c4a-cd21476e112e",
       "nome": "Engenharia Elétrica",
       "nivel": "superior",
@@ -19,7 +19,6 @@
       "url": "https://ifpr.edu.br/telemaco-borba/cursos-graduacao/engenharia-eletrica/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2025/10/PPC_Engenharia_Eletrica_Campus_TB_2019_2021-REVISADO.pdf",
         "conversao": {
@@ -42,7 +41,7 @@
       }
     },
     {
-      "id": "licenciatura-em-fisica",
+      "curso_slug": "licenciatura-em-fisica",
       "notion_page_id": "367f5b13-1dbd-8157-bcef-dff39701ac84",
       "nome": "Licenciatura em Física",
       "nivel": "superior",
@@ -50,7 +49,6 @@
       "url": "https://ifpr.edu.br/telemaco-borba/cursos-graduacao/licenciatura-em-fisica-2014/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2023/02/PPC-2022-LFIS-Graduacao-IFPR-TB-.pdf",
         "conversao": {
@@ -73,7 +71,7 @@
       }
     },
     {
-      "id": "tecnico-em-automacao-industrial-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-automacao-industrial-integrado-ao-ensino-medio",
       "notion_page_id": "367f5b13-1dbd-81fc-a17d-e9d90d3e48bd",
       "nome": "Técnico em Automação Industrial",
       "nivel": "médio",
@@ -81,7 +79,6 @@
       "url": "https://ifpr.edu.br/telemaco-borba/cursos-tecnicos-integrados/automacao-industrial/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 25,
         "codigo": "TBOR001",
@@ -124,7 +121,7 @@
       }
     },
     {
-      "id": "tecnico-em-eletromecanica-subsequente",
+      "curso_slug": "tecnico-em-eletromecanica-subsequente",
       "notion_page_id": "36cf5b13-1dbd-81b9-b396-e4da2d83c8c5",
       "nome": "Técnico em Eletromecânica",
       "nivel": "médio",
@@ -132,7 +129,6 @@
       "url": "https://ifpr.edu.br/telemaco-borba/",
       "modalidade": "presencial",
       "situacao": "suspenso",
-      "escopo": "campus",
       "sei": {
         "processos": [
           {
@@ -144,7 +140,7 @@
       }
     },
     {
-      "id": "tecnico-em-eletrotecnica-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-eletrotecnica-integrado-ao-ensino-medio",
       "notion_page_id": "36cf5b13-1dbd-819c-ad4c-c867bb91ab4c",
       "nome": "Técnico em Eletrotécnica",
       "nivel": "médio",
@@ -152,7 +148,6 @@
       "url": "https://ifpr.edu.br/telemaco-borba/",
       "modalidade": "presencial",
       "situacao": "abertura",
-      "escopo": "campus",
       "sei": {
         "processos": [
           {
@@ -167,7 +162,7 @@
       }
     },
     {
-      "id": "tecnico-em-informatica-para-internet-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-informatica-para-internet-integrado-ao-ensino-medio",
       "notion_page_id": "367f5b13-1dbd-81c2-a47c-ebd88281594e",
       "nome": "Técnico em Informática para Internet",
       "nivel": "médio",
@@ -175,7 +170,6 @@
       "url": "https://ifpr.edu.br/telemaco-borba/cursos-tecnicos-integrados/informatica-para-internet/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 34,
         "codigo": "TBOR002",
@@ -222,7 +216,7 @@
       }
     },
     {
-      "id": "tecnico-em-instrumentacao-industrial-subsequente",
+      "curso_slug": "tecnico-em-instrumentacao-industrial-subsequente",
       "notion_page_id": "36cf5b13-1dbd-81ea-ba91-fd2f32e994cb",
       "nome": "Técnico em Instrumentação Industrial",
       "nivel": "médio",
@@ -230,7 +224,6 @@
       "url": "https://ifpr.edu.br/telemaco-borba/",
       "modalidade": "presencial",
       "situacao": "abertura",
-      "escopo": "campus",
       "sei": {
         "processos": [
           {
@@ -245,7 +238,7 @@
       }
     },
     {
-      "id": "tecnico-em-mecanica",
+      "curso_slug": "tecnico-em-mecanica",
       "notion_page_id": "367f5b13-1dbd-8145-9202-e796e84bc193",
       "nome": "Técnico em Mecânica",
       "nivel": "médio",
@@ -253,7 +246,6 @@
       "url": "https://ifpr.edu.br/telemaco-borba/cursos-tecnicos-integrados/tecnico-em-mecanica/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 36,
         "codigo": "TBOR003",
@@ -296,7 +288,7 @@
       }
     },
     {
-      "id": "tecnico-em-programacao-de-jogos-digitais",
+      "curso_slug": "tecnico-em-programacao-de-jogos-digitais",
       "notion_page_id": "367f5b13-1dbd-81bd-b9ad-ef240997ff4e",
       "nome": "Técnico em Programação de Jogos Digitais",
       "nivel": "médio",
@@ -304,7 +296,6 @@
       "url": "https://ifpr.edu.br/telemaco-borba/cursos-tecnicos-integrados/programacao-de-jogos-digitais/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 50,
         "codigo": "TBOR004",
@@ -346,7 +337,7 @@
       }
     },
     {
-      "id": "tecnologia-em-manutencao-industrial",
+      "curso_slug": "tecnologia-em-manutencao-industrial",
       "notion_page_id": "367f5b13-1dbd-812e-a843-fe21b53653d1",
       "nome": "Tecnologia em Manutenção Industrial",
       "nivel": "superior",
@@ -354,7 +345,6 @@
       "url": "https://ifpr.edu.br/telemaco-borba/cursos-graduacao/tecnologia-em-manutencao-industrial/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/telemaco-borba/wp-content/uploads/sites/25/2025/08/07_2025_PPC_Tecnologia-em-Manutencao-Industrial-Atualizacao-1.pdf",
         "conversao": {

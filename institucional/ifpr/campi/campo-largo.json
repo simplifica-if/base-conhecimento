@@ -11,7 +11,7 @@
   },
   "cursos": [
     {
-      "id": "administracao",
+      "curso_slug": "administracao",
       "notion_page_id": "367f5b13-1dbd-81fb-92e1-c913119d5ec7",
       "nome": "Administração",
       "nivel": "médio",
@@ -19,7 +19,6 @@
       "url": "https://ifpr.edu.br/campo-largo/nossos-cursos/cursos-ensino-medio-integrado/administracao/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 75,
         "codigo": "CL001",
@@ -50,7 +49,7 @@
       }
     },
     {
-      "id": "administracao-proeja",
+      "curso_slug": "administracao-proeja",
       "notion_page_id": "367f5b13-1dbd-81d4-a0ec-f62eabd13093",
       "nome": "Administração – PROEJA",
       "nivel": "médio",
@@ -58,7 +57,6 @@
       "url": "https://ifpr.edu.br/campo-largo/nossos-cursos/cursos-ensino-medio-integrado/administracao-proeja/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2018/12/PPC-PROEJA.pdf",
         "conversao": {
@@ -82,7 +80,7 @@
       }
     },
     {
-      "id": "agroecologia",
+      "curso_slug": "agroecologia",
       "notion_page_id": "367f5b13-1dbd-8174-b4a1-e20c43acc442",
       "nome": "Agroecologia",
       "nivel": "médio",
@@ -90,7 +88,6 @@
       "url": "https://ifpr.edu.br/campo-largo/nossos-cursos/cursos-ensino-medio-integrado/agroecologia/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 51,
         "codigo": "CL002",
@@ -130,7 +127,7 @@
       }
     },
     {
-      "id": "automacao-industrial",
+      "curso_slug": "automacao-industrial",
       "notion_page_id": "367f5b13-1dbd-810a-82b5-cf60558c8957",
       "nome": "Automação Industrial",
       "nivel": "médio",
@@ -138,7 +135,6 @@
       "url": "https://ifpr.edu.br/campo-largo/nossos-cursos/cursos-ensino-medio-integrado/automacao/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 38,
         "codigo": "CL003",
@@ -178,7 +174,7 @@
       }
     },
     {
-      "id": "bacharelado-em-engenharia-eletrica",
+      "curso_slug": "bacharelado-em-engenharia-eletrica",
       "notion_page_id": "367f5b13-1dbd-81d6-9e1d-d668f2487aba",
       "nome": "Bacharelado em Engenharia Elétrica",
       "nivel": "superior",
@@ -186,7 +182,6 @@
       "url": "https://ifpr.edu.br/campo-largo/nossos-cursos/cursos-superiores/curso-de-bacharelado-em-engenharia-eletrica/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2025/08/2023_PPC-Engenharia-Eletrica_v25.pdf",
         "conversao": {
@@ -209,7 +204,7 @@
       }
     },
     {
-      "id": "licenciatura-em-matematica",
+      "curso_slug": "licenciatura-em-matematica",
       "notion_page_id": "367f5b13-1dbd-81af-810a-f1378b656106",
       "nome": "Licenciatura em Matemática",
       "nivel": "superior",
@@ -217,7 +212,6 @@
       "url": "https://ifpr.edu.br/campo-largo/nossos-cursos/cursos-superiores/curso-de-licenciatura-em-matematica/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2019/12/PPC_Licenciatura_Matematica_Versao_Pos_CONSUP.pdf",
         "conversao": {
@@ -240,7 +234,7 @@
       }
     },
     {
-      "id": "mecanica",
+      "curso_slug": "mecanica",
       "notion_page_id": "367f5b13-1dbd-8141-bde5-d3666eab573e",
       "nome": "Mecânica",
       "nivel": "médio",
@@ -248,7 +242,6 @@
       "url": "https://ifpr.edu.br/campo-largo/nossos-cursos/cursos-ensino-medio-integrado/mecanica/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 49,
         "codigo": "CL004",
@@ -279,7 +272,7 @@
       }
     },
     {
-      "id": "tecnico-em-mecanica-subsequente",
+      "curso_slug": "tecnico-em-mecanica-subsequente",
       "notion_page_id": "367f5b13-1dbd-810f-a5d9-f6dc47c64fd1",
       "nome": "Técnico em Mecânica",
       "nivel": "médio",
@@ -287,7 +280,6 @@
       "url": "https://ifpr.edu.br/campo-largo/nossos-cursos/cursos-tecnicos-subsequentes/mecanica/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 83,
         "codigo": "CL005",
@@ -316,7 +308,7 @@
       }
     },
     {
-      "id": "tecnologia-em-agroecologia",
+      "curso_slug": "tecnologia-em-agroecologia",
       "notion_page_id": "367f5b13-1dbd-818d-a848-f45d5ccc8535",
       "nome": "Curso Superior de Tecnologia em Agroecologia",
       "nivel": "superior",
@@ -324,7 +316,6 @@
       "url": "https://ifpr.edu.br/campo-largo/nossos-cursos/cursos-superiores/curso-superior-de-tecnologia-em-agroecologia/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2025/11/PPC_TecnologoAgro_2025_aprovado-CONSEPE-em-2025.pdf",
         "conversao": {
@@ -347,7 +338,7 @@
       }
     },
     {
-      "id": "tecnologia-em-materiais",
+      "curso_slug": "tecnologia-em-materiais",
       "notion_page_id": "367f5b13-1dbd-8179-92bb-f8592296efb2",
       "nome": "Curso Superior de Tecnologia em Materiais",
       "nivel": "superior",
@@ -355,7 +346,6 @@
       "url": "https://ifpr.edu.br/campo-largo/nossos-cursos/cursos-superiores/curso-superior-de-tecnologia-em-materiais/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2024/02/PPC_Tecnologo_Materiais_Ext.pdf",
         "conversao": {
@@ -378,7 +368,7 @@
       }
     },
     {
-      "id": "tecnologia-em-processos-gerenciais",
+      "curso_slug": "tecnologia-em-processos-gerenciais",
       "notion_page_id": "367f5b13-1dbd-81a1-a793-cb5d67bb80a9",
       "nome": "Curso Superior de Tecnologia em Processos Gerenciais",
       "nivel": "superior",
@@ -386,7 +376,6 @@
       "url": "https://ifpr.edu.br/campo-largo/nossos-cursos/cursos-superiores/curso-superior-de-tecnologia-em-processos-gerenciais/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/campo-largo/wp-content/uploads/sites/6/2025/08/PPC_Tecnologo_Processos_Gerenciais_ingressantes_2024.pdf",
         "conversao": {

@@ -101,7 +101,7 @@ Nesses casos, use os arquivos locais e a hierarquia de fontes definida em `llms.
 
 Ao alterar dados no Notion:
 
-- preserve identificadores estáveis, como `campus_id`, `curso_id`, `notion_page_id`, `SEI Processo`, `SUAP ID`, `SUAP Código` e IDs de processo seletivo;
+- preserve identificadores estáveis, como `campus_id`, `curso_slug`, `notion_page_id`, `SEI Processo`, `SUAP ID`, `SUAP Código` e IDs de processo seletivo;
 - não crie campos técnicos de sincronização, migração ou controle interno sem necessidade operacional atual;
 - não crie propriedades novas no Notion sem verificar o schema atual, a necessidade operacional e os scripts que leem ou exportam a base;
 - se o Notion contiver um valor ou propriedade operacional legítima que a validação local rejeite, ajuste o exportador, schemas públicos ou validadores locais. Não altere o Notion apenas para caber em enumerações locais desatualizadas;

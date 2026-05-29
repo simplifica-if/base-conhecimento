@@ -18,18 +18,17 @@ Cadastro institucional dos campi. Propriedades recorrentes usadas pelos scripts:
 
 ### Cursos
 
-Cada registro representa uma oferta de curso em um campus. O vínculo público com o Notion é `notion_page_id`; `campus_id` e `curso_id` seguem como identificadores semânticos.
+Cada registro representa uma oferta de curso em um campus. O vínculo público com o Notion é `notion_page_id`; `curso_slug` é um slug local, legível e único apenas dentro do campus. Quando for preciso identificar um curso globalmente na base pública, use o par `campus_id/curso_slug`.
 
 Propriedades recorrentes usadas pelos scripts:
 
 - `Nome`;
-- `curso_id`;
+- `curso_slug`;
 - `Campus`;
 - `Nível`;
 - `Forma de oferta`;
 - `Modalidade`;
 - `Situação`;
-- `Escopo`;
 - `Página oficial`;
 - `SUAP ID`;
 - `SUAP Código`;

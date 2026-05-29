@@ -11,7 +11,7 @@
   },
   "cursos": [
     {
-      "id": "agronomia",
+      "curso_slug": "agronomia",
       "notion_page_id": "367f5b13-1dbd-811e-a3d4-df36a75852a3",
       "nome": "Agronomia",
       "nivel": "superior",
@@ -19,7 +19,6 @@
       "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/about-nossos-cursos-cursos-de-graduacao-regulamentos/engenharia-agronomica/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/03/PPC-Agronomia-Atualizado-2025.pdf",
         "conversao": {
@@ -41,7 +40,7 @@
       }
     },
     {
-      "id": "bacharelado-em-administracao",
+      "curso_slug": "bacharelado-em-administracao",
       "notion_page_id": "367f5b13-1dbd-8140-ad8f-edc8baf0a457",
       "nome": "Bacharelado em Administração",
       "nivel": "superior",
@@ -49,7 +48,6 @@
       "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/about-nossos-cursos-cursos-de-graduacao-regulamentos/administracao-6/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2023/06/PPC_Administracao_2023.pdf",
         "conversao": {
@@ -71,7 +69,7 @@
       }
     },
     {
-      "id": "enfermagem",
+      "curso_slug": "enfermagem",
       "notion_page_id": "367f5b13-1dbd-8143-bf98-e3786fa32631",
       "nome": "Enfermagem",
       "nivel": "superior",
@@ -79,7 +77,6 @@
       "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/about-nossos-cursos-cursos-de-graduacao-regulamentos/enfermagem-2-2/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2023/06/PPC_Enfermagem_2023-1.pdf",
         "conversao": {
@@ -101,7 +98,7 @@
       }
     },
     {
-      "id": "farmacia",
+      "curso_slug": "farmacia",
       "notion_page_id": "367f5b13-1dbd-8176-a2b4-e73858cfb152",
       "nome": "Farmácia",
       "nivel": "superior",
@@ -109,7 +106,6 @@
       "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/about-nossos-cursos-cursos-de-graduacao-regulamentos/farmacia-12/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/03/PPC-Farmacia-Atualizado-2025.pdf",
         "conversao": {
@@ -131,7 +127,7 @@
       }
     },
     {
-      "id": "licenciatura-em-educacao-fisica",
+      "curso_slug": "licenciatura-em-educacao-fisica",
       "notion_page_id": "367f5b13-1dbd-812c-99aa-ef62ffb9564c",
       "nome": "Licenciatura em Educação Física",
       "nivel": "superior",
@@ -139,7 +135,6 @@
       "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/about-nossos-cursos-cursos-de-graduacao-regulamentos/educacao-fisica/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/03/PPC-Educacao-Fisica-Atualizado-2025.pdf",
         "conversao": {
@@ -162,7 +157,7 @@
       }
     },
     {
-      "id": "licenciatura-em-quimica",
+      "curso_slug": "licenciatura-em-quimica",
       "notion_page_id": "367f5b13-1dbd-812b-8649-e210befe8efc",
       "nome": "Licenciatura em Química",
       "nivel": "superior",
@@ -170,7 +165,6 @@
       "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/about-nossos-cursos-cursos-de-graduacao-regulamentos/quimica-9/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/10/PPC_GrauacaoQuimica_2025_2.pdf",
         "conversao": {
@@ -193,7 +187,7 @@
       }
     },
     {
-      "id": "pedagogia",
+      "curso_slug": "pedagogia",
       "notion_page_id": "367f5b13-1dbd-818a-a6f8-ee6e13f97acc",
       "nome": "Pedagogia",
       "nivel": "superior",
@@ -201,7 +195,6 @@
       "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/about-nossos-cursos-cursos-de-graduacao-regulamentos/pedagogia-8/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/03/PPC-Pedagogia-Atualizado-2025.pdf",
         "conversao": {
@@ -223,7 +216,7 @@
       }
     },
     {
-      "id": "sistemas-de-informacao",
+      "curso_slug": "sistemas-de-informacao",
       "notion_page_id": "367f5b13-1dbd-8171-a23f-e09760497754",
       "nome": "Sistemas de Informação",
       "nivel": "superior",
@@ -231,7 +224,6 @@
       "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/about-nossos-cursos-cursos-de-graduacao-regulamentos/sistemas-de-informacao/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/palmas/wp-content/uploads/sites/31/2025/03/PPC-Sistemas-de-Informacao-Atualizado-2025.pdf",
         "conversao": {
@@ -253,13 +245,12 @@
       }
     },
     {
-      "id": "tecnico-em-agroindustria",
+      "curso_slug": "tecnico-em-agroindustria",
       "notion_page_id": "36ef5b13-1dbd-803a-925c-d243b0c8b11a",
       "nome": "Técnico em Agroindústria",
       "nivel": "médio",
       "tipo_oferta": "integrado",
       "situacao": "abertura",
-      "escopo": "campus",
       "sei": {
         "processos": [
           {
@@ -270,7 +261,7 @@
       }
     },
     {
-      "id": "tecnico-em-alimentos",
+      "curso_slug": "tecnico-em-alimentos",
       "notion_page_id": "367f5b13-1dbd-81ab-9aa8-ff3e199ede91",
       "nome": "Técnico em Alimentos",
       "nivel": "médio",
@@ -278,7 +269,6 @@
       "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/curso-tecnico-presencial/tecnico-em-alimentos/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 47,
         "codigo": "PAL001",
@@ -316,7 +306,7 @@
       }
     },
     {
-      "id": "tecnico-em-informatica-para-internet",
+      "curso_slug": "tecnico-em-informatica-para-internet",
       "notion_page_id": "367f5b13-1dbd-81e2-9056-e0bf029ffd5b",
       "nome": "Técnico em Informática para Internet",
       "nivel": "médio",
@@ -324,7 +314,6 @@
       "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/curso-tecnico-presencial/tecnico-em-informatica-para-internet/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 256,
         "codigo": "PAL003",
@@ -354,7 +343,7 @@
       }
     },
     {
-      "id": "tecnico-em-servicos-juridicos",
+      "curso_slug": "tecnico-em-servicos-juridicos",
       "notion_page_id": "367f5b13-1dbd-817a-ba49-d5ca8f5bc39b",
       "nome": "Técnico em Serviços Jurídicos",
       "nivel": "médio",
@@ -362,7 +351,6 @@
       "url": "https://ifpr.edu.br/palmas/about/nossos-cursos/curso-tecnico-presencial/tecnico-em-servicos-juridicos/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 60,
         "codigo": "PAL002",

@@ -11,7 +11,7 @@
   },
   "cursos": [
     {
-      "id": "especializacao-em-educacao-e-tecnologia",
+      "curso_slug": "especializacao-em-educacao-e-tecnologia",
       "notion_page_id": "367f5b13-1dbd-815d-8984-df316322b6ee",
       "nome": "Especialização em Educação e Tecnologia",
       "nivel": "pós-graduação",
@@ -19,7 +19,6 @@
       "url": "https://ifpr.edu.br/jaguariaiva/pos-graduacao/curso-de-pos-graduacao/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/jaguariaiva/wp-content/uploads/sites/17/2023/06/PPC.pos.2023.pdf",
         "conversao": {
@@ -41,7 +40,7 @@
       }
     },
     {
-      "id": "tecnico-em-alimentos-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-alimentos-integrado-ao-ensino-medio",
       "notion_page_id": "367f5b13-1dbd-8139-8f8c-f8338dba0cbf",
       "nome": "Técnico em Alimentos",
       "nivel": "médio",
@@ -49,7 +48,6 @@
       "url": "https://ifpr.edu.br/jaguariaiva/integrados-ao-ensino-medio/curso-tecnico-em-alimentos/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 79,
         "codigo": "JAG001",
@@ -89,7 +87,7 @@
       }
     },
     {
-      "id": "tecnico-em-biotecnologia-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-biotecnologia-integrado-ao-ensino-medio",
       "notion_page_id": "367f5b13-1dbd-81f8-9ed5-da464dd949fc",
       "nome": "Técnico em Biotecnologia",
       "nivel": "médio",
@@ -97,7 +95,6 @@
       "url": "https://ifpr.edu.br/jaguariaiva/integrados-ao-ensino-medio/curso-tecnico/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 215,
         "codigo": "JAG002",
@@ -128,7 +125,7 @@
       }
     },
     {
-      "id": "tecnologo-em-gestao-da-qualidade",
+      "curso_slug": "tecnologo-em-gestao-da-qualidade",
       "notion_page_id": "367f5b13-1dbd-81a0-886d-dc31982a8c75",
       "nome": "Tecnologo em Gestao da Qualidade",
       "nivel": "superior",
@@ -136,7 +133,6 @@
       "url": "https://ifpr.edu.br/jaguariaiva/superiores/tecnologo-em-gestao-da-qualidade/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/jaguariaiva/wp-content/uploads/sites/17/2024/09/PPC_Tecnologo-em-Gestao-da-Qualidade_IFPR_2023.pdf",
         "conversao": {

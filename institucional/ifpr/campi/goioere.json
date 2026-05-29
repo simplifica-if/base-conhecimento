@@ -10,7 +10,7 @@
   },
   "cursos": [
     {
-      "id": "tecnico-em-informatica",
+      "curso_slug": "tecnico-em-informatica",
       "notion_page_id": "367f5b13-1dbd-81e5-b0e8-f109b21f387d",
       "nome": "Técnico em Informática",
       "nivel": "médio",
@@ -18,7 +18,6 @@
       "url": "https://ifpr.edu.br/goioere/integrados-ao-ensino-medio/curso-tecnico/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 214,
         "codigo": "GOI001",
@@ -63,7 +62,7 @@
       }
     },
     {
-      "id": "tecnico-em-producao-de-moda",
+      "curso_slug": "tecnico-em-producao-de-moda",
       "notion_page_id": "367f5b13-1dbd-81e7-adef-e6ca5016c747",
       "nome": "Técnico em Produção de Moda",
       "nivel": "médio",
@@ -71,7 +70,6 @@
       "url": "https://ifpr.edu.br/goioere/integrados-ao-ensino-medio/tecnico-em-producao-de-moda/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 213,
         "codigo": "GOI002",

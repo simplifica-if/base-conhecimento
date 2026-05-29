@@ -258,7 +258,7 @@ class Exporter:
                 )
                 for course_page in courses_by_campus.get(page["id"], [])
             ]
-            campus["cursos"] = sorted(courses, key=lambda item: str(item["id"]))
+            campus["cursos"] = sorted(courses, key=lambda item: str(item["curso_slug"]))
             campi.append(campus)
 
         return sorted(campi, key=lambda item: str(item["id"]))
@@ -273,7 +273,7 @@ class Exporter:
     def course_ref(self, page: dict[str, Any]) -> dict[str, str]:
         props = page["properties"]
         return {
-            "id": plain_text(props.get("curso_id")),
+            "slug": plain_text(props.get("curso_slug")),
             "nome": plain_text(props.get("Nome")),
             "notion_page_id": page["id"],
         }
@@ -311,7 +311,7 @@ class Exporter:
     ) -> dict[str, Any]:
         props = page["properties"]
         course: dict[str, Any] = {
-            "id": plain_text(props.get("curso_id")),
+            "curso_slug": plain_text(props.get("curso_slug")),
             "notion_page_id": page["id"],
             "nome": plain_text(props.get("Nome")),
             "nivel": select_name(props.get("Nível")),
@@ -320,7 +320,6 @@ class Exporter:
         add_if_text(course, "url", url_from_first_existing(props, "Página oficial", "URL oficial"))
         add_if_text(course, "modalidade", select_name(props.get("Modalidade")))
         add_if_text(course, "situacao", select_name(props.get("Situação")))
-        add_if_text(course, "escopo", select_name(props.get("Escopo")))
 
         suap = self.course_suap(props)
         if suap:
@@ -546,9 +545,9 @@ class Exporter:
         for campus_page_id in relation_ids(page, "Campus"):
             campus_id = campuses_by_page.get(campus_page_id, {}).get("id") or campus_id
 
-        curso_id = plain_text(props.get("curso_id_original"))
+        curso_slug = plain_text(props.get("curso_slug_original"))
         for course_page_id in relation_ids(page, "Curso"):
-            curso_id = courses_by_page.get(course_page_id, {}).get("id") or curso_id
+            curso_slug = courses_by_page.get(course_page_id, {}).get("slug") or curso_slug
 
         oferta: dict[str, Any] = {
             "id": plain_text(props.get("oferta_id")),
@@ -558,7 +557,7 @@ class Exporter:
             "vagas": self.oferta_vagas(props),
             "fonte": self.oferta_fonte(page, editais_by_page),
         }
-        add_if_text(oferta, "curso_id", curso_id)
+        add_if_text(oferta, "curso_slug", curso_slug)
         add_if_text(oferta, "modalidade", select_name(props.get("Modalidade")))
         add_if_text(oferta, "turno", plain_text(props.get("Turno")))
         return oferta

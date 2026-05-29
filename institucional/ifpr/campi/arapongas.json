@@ -11,7 +11,7 @@
   },
   "cursos": [
     {
-      "id": "especializacao-em-docencia-e-praticas-educativas",
+      "curso_slug": "especializacao-em-docencia-e-praticas-educativas",
       "notion_page_id": "367f5b13-1dbd-8111-9d7b-c3839b43d567",
       "nome": "Especialização em Docência e Práticas Educativas",
       "nivel": "pós-graduação",
@@ -42,7 +42,7 @@
       }
     },
     {
-      "id": "gestao-de-competencias-para-exames-de-larga-escala",
+      "curso_slug": "gestao-de-competencias-para-exames-de-larga-escala",
       "notion_page_id": "367f5b13-1dbd-818d-b073-d2977bb0f66c",
       "nome": "Gestão de Competências para Exames de Larga Escala (Cursinho)",
       "nivel": "formação inicial e continuada",
@@ -50,7 +50,7 @@
       "url": "https://ifpr.edu.br/arapongas/nossos-cursos/cursos-fic/gestao-de-competencias-para-exames-de-larga-escala/"
     },
     {
-      "id": "portugues-como-lingua-de-acolhimento-plac",
+      "curso_slug": "portugues-como-lingua-de-acolhimento-plac",
       "notion_page_id": "367f5b13-1dbd-8114-9d63-f8145ccb33b1",
       "nome": "Português como Língua de Acolhimento - PLAc",
       "nivel": "formação inicial e continuada",
@@ -58,7 +58,7 @@
       "url": "https://ifpr.edu.br/arapongas/nossos-cursos/cursos-fic/portugues-como-lingua-de-acolhimento-plac/"
     },
     {
-      "id": "programacao-com-enfase-em-analise-de-dados",
+      "curso_slug": "programacao-com-enfase-em-analise-de-dados",
       "notion_page_id": "367f5b13-1dbd-8166-b663-eec25419e5bf",
       "nome": "Programação com ênfase em Análise de Dados",
       "nivel": "formação inicial e continuada",
@@ -89,7 +89,7 @@
       }
     },
     {
-      "id": "programacao-web",
+      "curso_slug": "programacao-web",
       "notion_page_id": "367f5b13-1dbd-8130-bbe3-e268039ebd38",
       "nome": "Programação Web",
       "nivel": "formação inicial e continuada",
@@ -120,7 +120,7 @@
       }
     },
     {
-      "id": "tecnico-em-agente-comunitario-de-saude",
+      "curso_slug": "tecnico-em-agente-comunitario-de-saude",
       "notion_page_id": "367f5b13-1dbd-81b3-9ec2-f563ba5c3315",
       "nome": "Técnico em Agente Comunitário de Saúde",
       "nivel": "médio",
@@ -130,7 +130,7 @@
       "situacao": "incerto"
     },
     {
-      "id": "tecnico-em-logistica",
+      "curso_slug": "tecnico-em-logistica",
       "notion_page_id": "367f5b13-1dbd-81bc-98fc-f999330db98f",
       "nome": "Técnico em Logística",
       "nivel": "médio",
@@ -140,7 +140,7 @@
       "situacao": "incerto"
     },
     {
-      "id": "tecnico-em-meio-ambiente",
+      "curso_slug": "tecnico-em-meio-ambiente",
       "notion_page_id": "367f5b13-1dbd-81ed-99de-e1cb9c25d2e6",
       "nome": "Técnico em Meio Ambiente",
       "nivel": "médio",
@@ -150,7 +150,7 @@
       "situacao": "incerto"
     },
     {
-      "id": "tecnico-em-melhoria-de-processos",
+      "curso_slug": "tecnico-em-melhoria-de-processos",
       "notion_page_id": "367f5b13-1dbd-81de-ba00-f107fda34d0b",
       "nome": "Técnico em Melhoria de Processos",
       "nivel": "médio",
@@ -204,7 +204,7 @@
       }
     },
     {
-      "id": "tecnico-em-sistemas-de-energia-renovavel-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-sistemas-de-energia-renovavel-integrado-ao-ensino-medio",
       "notion_page_id": "367f5b13-1dbd-81f1-b676-c39748960d78",
       "nome": "Técnico em Sistemas de Energia Renovável",
       "nivel": "médio",
@@ -212,7 +212,6 @@
       "url": "https://ifpr.edu.br/arapongas/nossos-cursos/curso-tecnico-integrado-ao-ensino-medio/tecnico-integrado-ao-ensino-medio-tecnico-em-sistemas-de-energia-renovavel/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 615,
         "codigo": "AR002",
@@ -254,7 +253,7 @@
       }
     },
     {
-      "id": "tecnologia-em-processos-gerenciais",
+      "curso_slug": "tecnologia-em-processos-gerenciais",
       "notion_page_id": "367f5b13-1dbd-810e-a7f8-ff61319c1721",
       "nome": "Tecnologia em Processos Gerenciais",
       "nivel": "superior",

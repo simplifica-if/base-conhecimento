@@ -11,7 +11,7 @@
   },
   "cursos": [
     {
-      "id": "especializacao-lato-sensu-em-saude-coletiva-com-enfase-na-promocao-da-saude",
+      "curso_slug": "especializacao-lato-sensu-em-saude-coletiva-com-enfase-na-promocao-da-saude",
       "notion_page_id": "367f5b13-1dbd-8177-b5ac-e7a9bf1e916f",
       "nome": "Especializacao Lato Sensu em Saude Coletiva com Enfase na Promocao da Saude",
       "nivel": "pós-graduação",
@@ -19,7 +19,6 @@
       "url": "https://ifpr.edu.br/londrina/especializacao-lato-sensu-em-saude-coletiva-com-enfase-na-promocao-da-saude/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2025/09/PPC_PG_Saude-Coletiva_2025.pdf",
         "conversao": {
@@ -28,7 +27,7 @@
       }
     },
     {
-      "id": "licenciatura-em-ciencias-biologicas-2",
+      "curso_slug": "licenciatura-em-ciencias-biologicas-2",
       "notion_page_id": "367f5b13-1dbd-814e-938d-f3172fbae3de",
       "nome": "Licenciatura em Ciencias Biologicas 2",
       "nivel": "superior",
@@ -36,7 +35,6 @@
       "url": "https://ifpr.edu.br/londrina/licenciatura-em-ciencias-biologicas-2/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2025/12/PPC-MATRIZ-288.pdf",
         "conversao": {
@@ -61,7 +59,7 @@
       }
     },
     {
-      "id": "tecnico-em-biotecnologia-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-biotecnologia-integrado-ao-ensino-medio",
       "notion_page_id": "367f5b13-1dbd-81d4-a17f-f2bd0a0a5c14",
       "nome": "Técnico em Biotecnologia",
       "nivel": "médio",
@@ -69,7 +67,6 @@
       "url": "https://ifpr.edu.br/londrina/ensino-medio-integrado-a-biotecnologia/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 189,
         "codigo": "LON001",
@@ -109,7 +106,7 @@
       }
     },
     {
-      "id": "tecnico-em-enfermagem",
+      "curso_slug": "tecnico-em-enfermagem",
       "notion_page_id": "367f5b13-1dbd-81c0-8f84-d2e3f95baa56",
       "nome": "Técnico em Enfermagem",
       "nivel": "médio",
@@ -117,7 +114,6 @@
       "url": "https://ifpr.edu.br/londrina/tecnico-em-enfermagem/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 178,
         "codigo": "LON002",
@@ -148,7 +144,7 @@
       }
     },
     {
-      "id": "tecnico-em-informatica-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-informatica-integrado-ao-ensino-medio",
       "notion_page_id": "367f5b13-1dbd-81bc-9191-cb4ac0fef278",
       "nome": "Técnico em Informática",
       "nivel": "médio",
@@ -156,7 +152,6 @@
       "url": "https://ifpr.edu.br/londrina/tecnico-em-informatica-integrado/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 205,
         "codigo": "LON003",
@@ -196,7 +191,7 @@
       }
     },
     {
-      "id": "tecnico-em-massoterapia",
+      "curso_slug": "tecnico-em-massoterapia",
       "notion_page_id": "367f5b13-1dbd-8120-b265-cbf1bcb9529a",
       "nome": "Técnico em Massoterapia",
       "nivel": "médio",
@@ -204,7 +199,6 @@
       "url": "https://ifpr.edu.br/londrina/tecnico-em-massoterapia/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 204,
         "codigo": "LON004",
@@ -235,7 +229,7 @@
       }
     },
     {
-      "id": "tecnico-em-protese-dentaria-2",
+      "curso_slug": "tecnico-em-protese-dentaria-2",
       "notion_page_id": "367f5b13-1dbd-8112-86e8-f6bf4563c29d",
       "nome": "Técnico em Prótese Dentária",
       "nivel": "médio",
@@ -243,7 +237,6 @@
       "url": "https://ifpr.edu.br/londrina/tecnico-em-protese-dentaria-2/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 202,
         "codigo": "LON005",
@@ -272,7 +265,7 @@
       }
     },
     {
-      "id": "tecnico-em-saude-bucal",
+      "curso_slug": "tecnico-em-saude-bucal",
       "notion_page_id": "367f5b13-1dbd-8159-beff-ed56af44968c",
       "nome": "Técnico em Saúde Bucal",
       "nivel": "médio",
@@ -280,7 +273,6 @@
       "url": "https://ifpr.edu.br/londrina/tecnico-em-saude-bucal/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 200,
         "codigo": "LON006",
@@ -324,7 +316,7 @@
       }
     },
     {
-      "id": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
+      "curso_slug": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
       "notion_page_id": "367f5b13-1dbd-81b9-bdca-eb2ef575ccad",
       "nome": "Tecnologia em Analise e Desenvolvimento de Sistemas",
       "nivel": "superior",
@@ -332,7 +324,6 @@
       "url": "https://ifpr.edu.br/londrina/tecnologia-em-analise-e-desenvolvimento-de-sistemas/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/londrina/wp-content/uploads/sites/18/2025/02/IFPR_PPC_TADS_Londrina_2025_v1.pdf",
         "conversao": {

@@ -11,7 +11,7 @@
   },
   "cursos": [
     {
-      "id": "licenciatura-em-ciencias-sociais",
+      "curso_slug": "licenciatura-em-ciencias-sociais",
       "notion_page_id": "367f5b13-1dbd-8136-a5ec-c3e8416ac40c",
       "nome": "Licenciatura em Ciências Sociais",
       "nivel": "superior",
@@ -19,7 +19,6 @@
       "url": "https://ifpr.edu.br/paranagua/nossos-cursos/ensino-superior/licenciatura-em-ciencias-sociais2/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2025/04/PPC_Ciencias_Sociais_Pgua_2011.pdf",
         "conversao": {
@@ -41,7 +40,7 @@
       }
     },
     {
-      "id": "tecnico-em-informatica",
+      "curso_slug": "tecnico-em-informatica",
       "notion_page_id": "367f5b13-1dbd-8188-8a9d-db15a0ea8149",
       "nome": "Técnico em Informática",
       "nivel": "médio",
@@ -49,7 +48,6 @@
       "url": "https://ifpr.edu.br/paranagua/nossos-cursos/ensino-medio-integrado/tecnico-em-manutencao-e-suporte-em-informatica/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 63,
         "codigo": "PGUA001",
@@ -89,7 +87,7 @@
       }
     },
     {
-      "id": "tecnico-em-mecanica",
+      "curso_slug": "tecnico-em-mecanica",
       "notion_page_id": "367f5b13-1dbd-81b3-acef-e4fa62cd0ac4",
       "nome": "Técnico em Mecânica",
       "nivel": "médio",
@@ -97,7 +95,6 @@
       "url": "https://ifpr.edu.br/paranagua/nossos-cursos/ensino-medio-integrado/mecanica-e-eletromecanica/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 64,
         "codigo": "PGUA002",
@@ -128,7 +125,7 @@
       }
     },
     {
-      "id": "tecnico-em-meio-ambiente",
+      "curso_slug": "tecnico-em-meio-ambiente",
       "notion_page_id": "367f5b13-1dbd-81bd-bc60-c16dde40f411",
       "nome": "Técnico em Meio Ambiente",
       "nivel": "médio",
@@ -136,7 +133,6 @@
       "url": "https://ifpr.edu.br/paranagua/nossos-cursos/ensino-medio-integrado/tecnico-em-meio-ambiente/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 65,
         "codigo": "PGUA003",
@@ -177,7 +173,7 @@
       }
     },
     {
-      "id": "tecnico-em-producao-cultural",
+      "curso_slug": "tecnico-em-producao-cultural",
       "notion_page_id": "367f5b13-1dbd-812e-ac95-f5496330f425",
       "nome": "Técnico em Produção Cultural",
       "nivel": "médio",
@@ -185,7 +181,6 @@
       "url": "https://ifpr.edu.br/paranagua/nossos-cursos/ensino-medio-integrado/tecnico-em-producao-cultural/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 217,
         "codigo": "PGUA004",
@@ -214,7 +209,7 @@
       }
     },
     {
-      "id": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
+      "curso_slug": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
       "notion_page_id": "367f5b13-1dbd-81f8-b6e7-d3cb9adc2d6b",
       "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
       "nivel": "superior",
@@ -222,7 +217,6 @@
       "url": "https://ifpr.edu.br/paranagua/nossos-cursos/ensino-superior/tecnologia-em-analise-de-sistemas/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2025/02/PPC_TADS_2025.pdf",
         "conversao": {
@@ -239,7 +233,7 @@
       }
     },
     {
-      "id": "tecnologia-em-gestao-ambiental",
+      "curso_slug": "tecnologia-em-gestao-ambiental",
       "notion_page_id": "367f5b13-1dbd-81e5-ae3d-db9e9f5febcd",
       "nome": "Tecnologia em Gestão Ambiental",
       "nivel": "superior",
@@ -247,7 +241,6 @@
       "url": "https://ifpr.edu.br/paranagua/nossos-cursos/ensino-superior/tecnologia-em-gestao-ambiental/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2025/02/PPC_TGA_2025.pdf",
         "conversao": {
@@ -270,7 +263,7 @@
       }
     },
     {
-      "id": "tecnologia-em-manutencao-industrial",
+      "curso_slug": "tecnologia-em-manutencao-industrial",
       "notion_page_id": "367f5b13-1dbd-81d7-9451-d15661e821b5",
       "nome": "Tecnologia em Manutenção Industrial",
       "nivel": "superior",
@@ -278,7 +271,6 @@
       "url": "https://ifpr.edu.br/paranagua/nossos-cursos/ensino-superior/manutencaoindustrial/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/paranagua/wp-content/uploads/sites/20/2013/12/PPC-Tecnologia-em-Manutencao-Industrial.pdf",
         "conversao": {

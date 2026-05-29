@@ -144,12 +144,12 @@ def ppc_metadata_value(ppc: dict[str, object], key: str, nested_key: str) -> obj
 
 def build_ppc_item(campus: dict[str, object], curso: dict[str, object], ppc: dict[str, object]) -> dict[str, object]:
     campus_id = str(campus["id"])
-    curso_id = str(curso["id"])
+    curso_slug = str(curso["curso_slug"])
     item: dict[str, object] = {
-        "id": f"{campus_id}/{curso_id}",
+        "id": f"{campus_id}/{curso_slug}",
         "campus_id": campus_id,
         "campus_nome": campus["nome"],
-        "curso_id": curso_id,
+        "curso_slug": curso_slug,
         "curso_nome": curso["nome"],
         "nivel": curso["nivel"],
         "tipo_oferta": curso["tipo_oferta"],
@@ -157,7 +157,7 @@ def build_ppc_item(campus: dict[str, object], curso: dict[str, object], ppc: dic
         "fonte_pdf": ppc["url"],
         "path": ppc["markdown_path"],
     }
-    for key in ["modalidade", "situacao", "escopo"]:
+    for key in ["modalidade", "situacao"]:
         value = curso.get(key)
         if isinstance(value, str) and value:
             item[key] = value
@@ -194,7 +194,7 @@ def collect_ppc_items() -> list[dict[str, object]]:
                 or not (ROOT / markdown_path).exists()
             ):
                 continue
-            required = [campus.get("id"), campus.get("nome"), curso.get("id"), curso.get("nome")]
+            required = [campus.get("id"), campus.get("nome"), curso.get("curso_slug"), curso.get("nome")]
             required.extend([curso.get("nivel"), curso.get("tipo_oferta"), curso.get("url"), ppc.get("url")])
             if not all(isinstance(value, str) and value for value in required):
                 continue
@@ -245,7 +245,7 @@ def build_section_items(ppc_items: list[dict[str, object]]) -> list[dict[str, ob
                     "id": f"{ppc_item['id']}#{kind}-{counters[kind]}",
                     "ppc_id": ppc_item["id"],
                     "campus_id": ppc_item["campus_id"],
-                    "curso_id": ppc_item["curso_id"],
+                    "curso_slug": ppc_item["curso_slug"],
                     "curso_nome": ppc_item["curso_nome"],
                     "section_kind": kind,
                     "heading": heading,

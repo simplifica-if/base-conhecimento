@@ -375,15 +375,15 @@ def validate_campus_file(path: Path, index_item: dict[str, object]) -> list[str]
     if not isinstance(cursos, list):
         errors.append(f"{relative(path)}: cursos deve ser array")
     else:
-        seen_course_ids: set[str] = set()
+        seen_course_slugs: set[str] = set()
         for curso in cursos:
             if not isinstance(curso, dict):
                 continue
-            curso_id = curso.get("id")
-            if isinstance(curso_id, str):
-                if curso_id in seen_course_ids:
-                    errors.append(f"{relative(path)}: curso duplicado: {curso_id}")
-                seen_course_ids.add(curso_id)
+            curso_slug = curso.get("curso_slug")
+            if isinstance(curso_slug, str):
+                if curso_slug in seen_course_slugs:
+                    errors.append(f"{relative(path)}: curso duplicado: {curso_slug}")
+                seen_course_slugs.add(curso_slug)
             if "url" in curso:
                 errors.extend(validate_https_url(curso["url"], f"{relative(path)}: cursos[].url"))
             if "ppc_url" in curso:
@@ -404,10 +404,10 @@ def validate_campus_file(path: Path, index_item: dict[str, object]) -> list[str]
                     not markdown_path.startswith("institucional/ifpr/ppcs/") or not markdown_path.endswith(".md")
                 ):
                     errors.append(f"{relative(path)}: cursos[].ppc.markdown_path deve apontar para institucional/ifpr/ppcs/*.md")
-                elif isinstance(campus_id, str) and isinstance(curso_id, str):
-                    expected = f"institucional/ifpr/ppcs/{campus_id}/{curso_id}.md"
+                elif isinstance(campus_id, str) and isinstance(curso_slug, str):
+                    expected = f"institucional/ifpr/ppcs/{campus_id}/{curso_slug}.md"
                     if isinstance(markdown_path, str) and markdown_path != expected:
-                        errors.append(f"{relative(path)}: cursos[].ppc.markdown_path esperado para {curso_id}: {expected}")
+                        errors.append(f"{relative(path)}: cursos[].ppc.markdown_path esperado para {curso_slug}: {expected}")
 
                 if not isinstance(conversao, dict):
                     errors.append(f"{relative(path)}: cursos[].ppc.conversao deve ser objeto")
@@ -559,9 +559,9 @@ def converted_ppcs_from_campi() -> dict[str, str]:
         for curso in data.get("cursos", []):
             if not isinstance(curso, dict):
                 continue
-            curso_id = curso.get("id")
+            curso_slug = curso.get("curso_slug")
             ppc = curso.get("ppc")
-            if not isinstance(curso_id, str) or not isinstance(ppc, dict):
+            if not isinstance(curso_slug, str) or not isinstance(ppc, dict):
                 continue
             conversao = ppc.get("conversao")
             markdown_path = ppc.get("markdown_path")
@@ -571,7 +571,7 @@ def converted_ppcs_from_campi() -> dict[str, str]:
                 and isinstance(markdown_path, str)
                 and (ROOT / markdown_path).exists()
             ):
-                ppcs[f"{campus_id}/{curso_id}"] = markdown_path
+                ppcs[f"{campus_id}/{curso_slug}"] = markdown_path
     return ppcs
 
 
@@ -590,9 +590,9 @@ def campus_courses_from_campi() -> dict[str, set[str]]:
         for curso in data.get("cursos", []):
             if not isinstance(curso, dict):
                 continue
-            curso_id = curso.get("id")
-            if isinstance(curso_id, str):
-                courses.add(curso_id)
+            curso_slug = curso.get("curso_slug")
+            if isinstance(curso_slug, str):
+                courses.add(curso_slug)
         campus_courses[campus_id] = courses
     return campus_courses
 
@@ -602,7 +602,7 @@ def validate_ppc_sections(index_items_by_id: dict[str, dict[str, object]]) -> li
     if not PPCS_SECOES_ROOT.exists() or not PPCS_SECOES_ROOT.is_dir():
         return [f"{relative(PPCS_SECOES_ROOT)} não encontrado"]
 
-    required = {"id", "ppc_id", "campus_id", "curso_id", "curso_nome", "section_kind", "heading", "path", "preview"}
+    required = {"id", "ppc_id", "campus_id", "curso_slug", "curso_nome", "section_kind", "heading", "path", "preview"}
     seen_ids: set[str] = set()
     expected_files = {f"{kind}.jsonl" for kind in INDEXED_PPC_SECTION_KINDS}
     actual_files = {path.name for path in PPCS_SECOES_ROOT.glob("*.jsonl")}
@@ -647,7 +647,7 @@ def validate_ppc_sections(index_items_by_id: dict[str, dict[str, object]]) -> li
                 if ppc_item is None:
                     errors.append(f"{relative(path)}:{line_number}: ppc_id inexistente no índice: {ppc_id}")
                     continue
-                for field in ["campus_id", "curso_id", "curso_nome", "path"]:
+                for field in ["campus_id", "curso_slug", "curso_nome", "path"]:
                     if item.get(field) != ppc_item.get(field):
                         errors.append(f"{relative(path)}:{line_number}: campo {field} diverge do índice para {ppc_id}")
                 section_kind = item.get("section_kind")
@@ -718,7 +718,7 @@ def validate_ppcs(manifest: object) -> list[str]:
             continue
         ppc_id = item.get("id")
         campus_id = item.get("campus_id")
-        curso_id = item.get("curso_id")
+        curso_slug = item.get("curso_slug")
         path_value = item.get("path")
         if not isinstance(ppc_id, str):
             errors.append(f"{relative(PPCS_INDEX_PATH)}: item sem id textual")
@@ -727,8 +727,8 @@ def validate_ppcs(manifest: object) -> list[str]:
             errors.append(f"{relative(PPCS_INDEX_PATH)}: id duplicado: {ppc_id}")
         seen_ids.add(ppc_id)
         index_items_by_id[ppc_id] = item
-        if isinstance(campus_id, str) and isinstance(curso_id, str) and ppc_id != f"{campus_id}/{curso_id}":
-            errors.append(f"{relative(PPCS_INDEX_PATH)}: id diverge de campus_id/curso_id: {ppc_id}")
+        if isinstance(campus_id, str) and isinstance(curso_slug, str) and ppc_id != f"{campus_id}/{curso_slug}":
+            errors.append(f"{relative(PPCS_INDEX_PATH)}: id diverge de campus_id/curso_slug: {ppc_id}")
         if not isinstance(path_value, str):
             errors.append(f"{relative(PPCS_INDEX_PATH)}: path ausente em {ppc_id}")
             continue
@@ -835,14 +835,14 @@ def validate_processos_seletivos(manifest: object) -> list[str]:
                 seen_offer_ids.add(oferta_id)
             campus_id = oferta.get("campus_id")
             if isinstance(campus_id, str):
-                curso_id = oferta.get("curso_id")
-                if isinstance(curso_id, str):
+                curso_slug = oferta.get("curso_slug")
+                if isinstance(curso_slug, str):
                     if campus_id not in campus_courses:
-                        errors.append(f"{path_value}: ofertas[].curso_id informado para campus_id não cadastrado: {campus_id}")
-                    elif curso_id not in campus_courses[campus_id]:
-                        errors.append(f"{path_value}: ofertas[].curso_id inexistente em {campus_id}: {curso_id}")
-            elif "curso_id" in oferta:
-                errors.append(f"{path_value}: ofertas[].curso_id informado sem campus_id textual")
+                        errors.append(f"{path_value}: ofertas[].curso_slug informado para campus_id não cadastrado: {campus_id}")
+                    elif curso_slug not in campus_courses[campus_id]:
+                        errors.append(f"{path_value}: ofertas[].curso_slug inexistente em {campus_id}: {curso_slug}")
+            elif "curso_slug" in oferta:
+                errors.append(f"{path_value}: ofertas[].curso_slug informado sem campus_id textual")
             fonte = oferta.get("fonte")
             if isinstance(fonte, dict):
                 errors.extend(validate_https_url(fonte.get("url"), f"{path_value}: ofertas[].fonte.url"))

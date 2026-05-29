@@ -33,7 +33,7 @@ Ao pesquisar cursos em páginas dos campi:
 1. Prefira fontes oficiais do IFPR.
 2. Quando existir, use a origem `https://ifpr.edu.br/<campus_id>/`.
 3. Em sites WordPress do IFPR, use a REST API para localizar páginas: `https://ifpr.edu.br/<campus_id>/wp-json/wp/v2/pages?per_page=100`.
-4. Use a página oficial do curso para preencher nome, nível, forma de oferta, modalidade, situação, escopo e URL.
+4. Use a página oficial do curso para preencher nome, nível, forma de oferta, modalidade, situação e URL.
 5. Não cadastre páginas auxiliares, notícias, páginas históricas ou ofertas temporárias como cursos ativos sem evidência clara de vigência atual.
 6. Para FIC e programas institucionais, preserve a distinção entre curso regular, oferta temporária e programa conforme o modelo vigente no Notion e no JSON público.
 

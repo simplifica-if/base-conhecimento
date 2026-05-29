@@ -164,7 +164,7 @@ def post_process_markdown(markdown: str) -> str:
 
 
 def should_convert(curso: dict[str, object], curso_filter: str | None, force: bool, retry_errors: bool) -> bool:
-    if curso_filter and curso.get("id") != curso_filter:
+    if curso_filter and curso.get("curso_slug") != curso_filter:
         return False
     ppc = curso.get("ppc")
     if not isinstance(ppc, dict):

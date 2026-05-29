@@ -11,7 +11,7 @@
   },
   "cursos": [
     {
-      "id": "licenciatura-em-matematica",
+      "curso_slug": "licenciatura-em-matematica",
       "notion_page_id": "367f5b13-1dbd-81f6-a894-c61147f45560",
       "nome": "Licenciatura em Matemática",
       "nivel": "superior",
@@ -19,7 +19,6 @@
       "url": "https://ifpr.edu.br/capanema/nossos-cursos/graduacao/licenciatura-em-matematica/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/capanema/wp-content/uploads/sites/7/2023/07/PPC-2023.pdf",
         "conversao": {
@@ -42,7 +41,7 @@
       }
     },
     {
-      "id": "tecnico-em-agroecologia",
+      "curso_slug": "tecnico-em-agroecologia",
       "notion_page_id": "367f5b13-1dbd-81b8-ae9e-ed1f4f65c26d",
       "nome": "Técnico em Agroecologia",
       "nivel": "médio",
@@ -50,7 +49,6 @@
       "url": "https://ifpr.edu.br/capanema/nossos-cursos/tecnico-integrado-ao-ensino-medio/tecnico-em-agroecologia/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 68,
         "codigo": "CAP003",
@@ -90,7 +88,7 @@
       }
     },
     {
-      "id": "tecnico-em-cooperativismo",
+      "curso_slug": "tecnico-em-cooperativismo",
       "notion_page_id": "367f5b13-1dbd-812d-9cc8-cf3ea91bb77a",
       "nome": "Técnico em Cooperativismo",
       "nivel": "médio",
@@ -98,7 +96,6 @@
       "url": "https://ifpr.edu.br/capanema/nossos-cursos/tecnico-integrado-ao-ensino-medio/tecnico-em-cooperativismo/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 66,
         "codigo": "CAP001",
@@ -138,7 +135,7 @@
       }
     },
     {
-      "id": "tecnico-em-informatica",
+      "curso_slug": "tecnico-em-informatica",
       "notion_page_id": "367f5b13-1dbd-8162-bb7f-f97ad48794b3",
       "nome": "Técnico em Informática",
       "nivel": "médio",
@@ -146,7 +143,6 @@
       "url": "https://ifpr.edu.br/capanema/nossos-cursos/tecnico-integrado-ao-ensino-medio/tecnico-integrado-informatica/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 67,
         "codigo": "CAP002",
@@ -186,7 +182,7 @@
       }
     },
     {
-      "id": "tecnologia-em-sistemas-para-internet",
+      "curso_slug": "tecnologia-em-sistemas-para-internet",
       "notion_page_id": "367f5b13-1dbd-8103-9791-e4d6808c3a62",
       "nome": "Tecnologia em Sistemas para Internet",
       "nivel": "superior",
@@ -194,7 +190,6 @@
       "url": "https://ifpr.edu.br/capanema/nossos-cursos/graduacao/tecnologia-em-sistemas-para-internet/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/capanema/wp-content/uploads/sites/7/2026/01/PPC-SISTEMAS-PARA-INTERNET-CAPANEMA-2026.pdf",
         "conversao": {

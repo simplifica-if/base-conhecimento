@@ -11,7 +11,7 @@
   },
   "cursos": [
     {
-      "id": "bacharelado-em-agronomia",
+      "curso_slug": "bacharelado-em-agronomia",
       "notion_page_id": "367f5b13-1dbd-810f-a71b-fb5b9f8dcdb4",
       "nome": "Bacharelado em Agronomia",
       "nivel": "superior",
@@ -19,7 +19,6 @@
       "url": "https://ifpr.edu.br/irati/nossos-cursos/cursos_superiores/bacharelado-em-agronomia/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/irati/wp-content/uploads/sites/14/2025/03/PPC-Agronomia_AJUSTE-APS1.pdf",
         "conversao": {
@@ -42,7 +41,7 @@
       }
     },
     {
-      "id": "bacharelado-em-engenharia-de-software",
+      "curso_slug": "bacharelado-em-engenharia-de-software",
       "notion_page_id": "367f5b13-1dbd-81ce-8701-ed6c1758b5ee",
       "nome": "Bacharelado em Engenharia de Software",
       "nivel": "superior",
@@ -50,7 +49,6 @@
       "url": "https://ifpr.edu.br/irati/nossos-cursos/cursos_superiores/bacharelado-em-engenharia-de-software/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/irati/wp-content/uploads/sites/14/2025/06/PPC-Bacharelado-em-Engenharia-de-Software-2025.pdf",
         "conversao": {
@@ -73,7 +71,7 @@
       }
     },
     {
-      "id": "licenciatura-em-quimica",
+      "curso_slug": "licenciatura-em-quimica",
       "notion_page_id": "367f5b13-1dbd-8164-90da-f8a58bd907f3",
       "nome": "Licenciatura em Química",
       "nivel": "superior",
@@ -81,7 +79,6 @@
       "url": "https://ifpr.edu.br/irati/nossos-cursos/cursos_superiores/licenciatura-em-quimica/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/irati/wp-content/uploads/sites/14/2025/05/PPC_Quimica___Alteracao_APS.pdf",
         "conversao": {
@@ -98,7 +95,7 @@
       }
     },
     {
-      "id": "tecnico-em-agroecologia",
+      "curso_slug": "tecnico-em-agroecologia",
       "notion_page_id": "367f5b13-1dbd-811b-abad-f2217e873483",
       "nome": "Técnico em Agroecologia",
       "nivel": "médio",
@@ -106,7 +103,6 @@
       "url": "https://ifpr.edu.br/irati/tecnico-em-agroecologia/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 54,
         "codigo": "IRA001",
@@ -144,7 +140,7 @@
       }
     },
     {
-      "id": "tecnico-em-informatica",
+      "curso_slug": "tecnico-em-informatica",
       "notion_page_id": "367f5b13-1dbd-81f9-9ff9-c924607eba5a",
       "nome": "Técnico em Informática",
       "nivel": "médio",
@@ -152,7 +148,6 @@
       "url": "https://ifpr.edu.br/irati/nossos-cursos/tecnicos-integrados/tecnico-em-informatica-integrado-ao-ensino-medio/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 111,
         "codigo": "IRA002",
@@ -193,7 +188,7 @@
       }
     },
     {
-      "id": "tecnico-em-quimica-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-quimica-integrado-ao-ensino-medio",
       "notion_page_id": "36cf5b13-1dbd-8137-8ed9-eb52562c9bd4",
       "nome": "Técnico em Química",
       "nivel": "médio",
@@ -201,7 +196,6 @@
       "url": "https://irati.ifpr.edu.br/",
       "modalidade": "presencial",
       "situacao": "abertura",
-      "escopo": "campus",
       "sei": {
         "processos": [
           {
@@ -212,7 +206,7 @@
       }
     },
     {
-      "id": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
+      "curso_slug": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
       "notion_page_id": "367f5b13-1dbd-8154-aaaa-d6126b0897fd",
       "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
       "nivel": "superior",
@@ -220,7 +214,6 @@
       "url": "https://ifpr.edu.br/irati/nossos-cursos/cursos_superiores/tecnologia-em-analise-e-desenvolvimento-de-sistemas/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/irati/wp-content/uploads/sites/14/2025/03/PPC-Turmas-ingressantes-a-partir-de-2021-ajuste-2025.pdf",
         "conversao": {

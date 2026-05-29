@@ -11,7 +11,7 @@
   },
   "cursos": [
     {
-      "id": "bacharelado-em-sistemas-de-informacao",
+      "curso_slug": "bacharelado-em-sistemas-de-informacao",
       "notion_page_id": "367f5b13-1dbd-813f-82df-f2ca10f72183",
       "nome": "Bacharelado em Sistemas de Informação",
       "nivel": "superior",
@@ -19,7 +19,6 @@
       "url": "https://ifpr.edu.br/ivaipora/nossos-cursos/ensino-superior/bacharelado-em-sistemas-de-informacao/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/ivaipora/wp-content/uploads/sites/15/2026/02/PPC_SI_2026.pdf",
         "conversao": {
@@ -42,7 +41,7 @@
       }
     },
     {
-      "id": "engenharia-agronomica",
+      "curso_slug": "engenharia-agronomica",
       "notion_page_id": "367f5b13-1dbd-81fc-ad24-e33363f177c3",
       "nome": "Engenharia Agronômica",
       "nivel": "superior",
@@ -50,7 +49,6 @@
       "url": "https://ifpr.edu.br/ivaipora/nossos-cursos/ensino-superior/engenharia-agronomica/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/ivaipora/wp-content/uploads/sites/15/2024/08/PPC_2019_2022-Agronomia.pdf",
         "conversao": {
@@ -73,7 +71,7 @@
       }
     },
     {
-      "id": "licenciatura-em-fisica",
+      "curso_slug": "licenciatura-em-fisica",
       "notion_page_id": "367f5b13-1dbd-81f4-b3c5-f8b0fb15b363",
       "nome": "Licenciatura em Física",
       "nivel": "superior",
@@ -81,7 +79,6 @@
       "url": "https://ifpr.edu.br/ivaipora/nossos-cursos/ensino-superior/licenciatura-em-fisica/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/ivaipora/wp-content/uploads/sites/15/2025/02/PPC-Fisica_APS.pdf",
         "conversao": {
@@ -105,7 +102,7 @@
       }
     },
     {
-      "id": "tecnico-em-agroecologia-integrado",
+      "curso_slug": "tecnico-em-agroecologia-integrado",
       "notion_page_id": "367f5b13-1dbd-81c6-98af-d088aa97d909",
       "nome": "Técnico em Agroecologia",
       "nivel": "médio",
@@ -113,7 +110,6 @@
       "url": "https://ifpr.edu.br/ivaipora/nossos-cursos/cursos-tecnicos/tecnico-em-agroecologia-integrado/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 173,
         "codigo": "IVA001",
@@ -144,7 +140,7 @@
       }
     },
     {
-      "id": "tecnico-em-agropecuaria-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-agropecuaria-integrado-ao-ensino-medio",
       "notion_page_id": "367f5b13-1dbd-8168-8668-c9c51071dc83",
       "nome": "Técnico em Agropecuária",
       "nivel": "médio",
@@ -152,7 +148,6 @@
       "url": "https://ifpr.edu.br/ivaipora/nossos-cursos/cursos-tecnicos/tecnico-em-agropecuaria-integrado-ao-ensino-medio/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 452,
         "codigo": "IVAAGROP",
@@ -183,7 +178,7 @@
       }
     },
     {
-      "id": "tecnico-em-eletrotecnica-integrado",
+      "curso_slug": "tecnico-em-eletrotecnica-integrado",
       "notion_page_id": "367f5b13-1dbd-8124-a56e-e0be3554cb40",
       "nome": "Técnico em Eletrotécnica",
       "nivel": "médio",
@@ -191,7 +186,6 @@
       "url": "https://ifpr.edu.br/ivaipora/nossos-cursos/cursos-tecnicos/eletrotecnica-integrado-ao-ensino-medio/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 456,
         "codigo": "IVA007",
@@ -231,7 +225,7 @@
       }
     },
     {
-      "id": "tecnico-em-eletrotecnica-subsequente",
+      "curso_slug": "tecnico-em-eletrotecnica-subsequente",
       "notion_page_id": "367f5b13-1dbd-8188-873d-dee5937cfb93",
       "nome": "Técnico em Eletrotécnica",
       "nivel": "médio",
@@ -239,7 +233,6 @@
       "url": "https://ifpr.edu.br/ivaipora/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 341,
         "codigo": "ELES1",
@@ -275,7 +268,7 @@
       }
     },
     {
-      "id": "tecnico-em-informatica-integrado-ao-ensino-medio",
+      "curso_slug": "tecnico-em-informatica-integrado-ao-ensino-medio",
       "notion_page_id": "367f5b13-1dbd-8192-94a8-f73ace0e992f",
       "nome": "Técnico em Informática",
       "nivel": "médio",
@@ -283,7 +276,6 @@
       "url": "https://ifpr.edu.br/ivaipora/nossos-cursos/cursos-tecnicos/tecnico-em-informatica/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 45,
         "codigo": "IVA003",
@@ -314,7 +306,7 @@
       }
     },
     {
-      "id": "tecnologia-em-agroecologia",
+      "curso_slug": "tecnologia-em-agroecologia",
       "notion_page_id": "367f5b13-1dbd-81ca-9620-ea98993c333b",
       "nome": "Tecnologia em Agroecologia",
       "nivel": "superior",
@@ -322,7 +314,6 @@
       "url": "https://ifpr.edu.br/ivaipora/nossos-cursos/ensino-superior/tecnologia-em-agroecologia/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/ivaipora/wp-content/uploads/sites/15/2017/03/PPCSuperiorTecnologiaemAgroecologia.pdf",
         "conversao": {

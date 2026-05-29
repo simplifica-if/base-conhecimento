@@ -11,7 +11,7 @@
   },
   "cursos": [
     {
-      "id": "engenharia-de-software",
+      "curso_slug": "engenharia-de-software",
       "notion_page_id": "367f5b13-1dbd-818c-820b-cc2205795400",
       "nome": "Engenharia de Software (bacharelado)",
       "nivel": "superior",
@@ -19,7 +19,6 @@
       "url": "https://ifpr.edu.br/paranavai/cursos-superiores/engenharia-de-software-bacharelado/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2025/01/PPC-de-Engenharia-de-Software-–-Turmas-iniciadas-ate-2022-Atualizado.pdf",
         "conversao": {
@@ -41,7 +40,7 @@
       }
     },
     {
-      "id": "engenharia-eletrica",
+      "curso_slug": "engenharia-eletrica",
       "notion_page_id": "367f5b13-1dbd-816f-ac21-d45f9faefa38",
       "nome": "Engenharia Elétrica (bacharelado)",
       "nivel": "superior",
@@ -49,7 +48,6 @@
       "url": "https://ifpr.edu.br/paranavai/cursos-superiores/engenharia-eletrica/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2025/01/PPC_Eletrica2023__APS_2025_vf.pdf",
         "conversao": {
@@ -72,7 +70,7 @@
       }
     },
     {
-      "id": "especializacao-em-gestao-da-qualidade-e-tecnologia-de-alimentos",
+      "curso_slug": "especializacao-em-gestao-da-qualidade-e-tecnologia-de-alimentos",
       "notion_page_id": "367f5b13-1dbd-811c-8d74-fbcce7ef5da1",
       "nome": "Especialização em Gestão da Qualidade e Tecnologia de Alimentos",
       "nivel": "pós-graduação",
@@ -80,7 +78,6 @@
       "url": "https://ifpr.edu.br/paranavai/cursos-de-pos-graduacao/gestao-da-qualidade-e-tecnologia-de-alimentos/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2021/11/PPC_final.pdf",
         "conversao": {
@@ -104,7 +101,7 @@
       }
     },
     {
-      "id": "licenciatura-em-quimica",
+      "curso_slug": "licenciatura-em-quimica",
       "notion_page_id": "367f5b13-1dbd-815f-b62c-ee4e60520e49",
       "nome": "Licenciatura em Química",
       "nivel": "superior",
@@ -112,7 +109,6 @@
       "url": "https://ifpr.edu.br/paranavai/cursos-superiores/licenciatura-em-quimica/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/paranavai/wp-content/uploads/sites/21/2025/01/PPC_LicQUIMICA_2025_AJUSTES_EXTRAORDINARIOS_ATIVIDADES_PRATICAS_SUPERVISIONADAS_SEi.pdf",
         "conversao": {
@@ -134,7 +130,7 @@
       }
     },
     {
-      "id": "tecnico-em-agroindustria",
+      "curso_slug": "tecnico-em-agroindustria",
       "notion_page_id": "367f5b13-1dbd-81e2-8aca-cf2e49601de9",
       "nome": "Técnico em Agroindústria",
       "nivel": "médio",
@@ -142,7 +138,6 @@
       "url": "https://ifpr.edu.br/paranavai/tecnico-em-agroindustria/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 72,
         "codigo": "PVAI001",
@@ -173,7 +168,7 @@
       }
     },
     {
-      "id": "tecnico-em-eletromecanica-subsequente",
+      "curso_slug": "tecnico-em-eletromecanica-subsequente",
       "notion_page_id": "367f5b13-1dbd-813b-a273-c5b93877da61",
       "nome": "Técnico em Eletromecânica",
       "nivel": "médio",
@@ -181,7 +176,6 @@
       "url": "https://ifpr.edu.br/paranavai/cursos-tecnicos-subsequentes/tecnico-em-eletromecanica-subsequente/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 82,
         "codigo": "PVAI002",
@@ -212,7 +206,7 @@
       }
     },
     {
-      "id": "tecnico-em-informatica",
+      "curso_slug": "tecnico-em-informatica",
       "notion_page_id": "367f5b13-1dbd-81fa-9668-e3bba392ca0d",
       "nome": "Técnico em Informática",
       "nivel": "médio",
@@ -220,7 +214,6 @@
       "url": "https://ifpr.edu.br/paranavai/tecnico-em-informatica/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 81,
         "codigo": "PVAI003",
@@ -256,7 +249,7 @@
       }
     },
     {
-      "id": "tecnico-em-mecatronica",
+      "curso_slug": "tecnico-em-mecatronica",
       "notion_page_id": "367f5b13-1dbd-81df-876d-f252e11a7b10",
       "nome": "Técnico em Mecatrônica",
       "nivel": "médio",
@@ -264,7 +257,6 @@
       "url": "https://ifpr.edu.br/paranavai/ensino-medio/tecnico-em-mecatronica/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 73,
         "codigo": "PVAI004",

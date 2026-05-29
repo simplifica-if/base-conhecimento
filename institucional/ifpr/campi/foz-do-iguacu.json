@@ -11,7 +11,7 @@
   },
   "cursos": [
     {
-      "id": "engenharia-de-aquicultura",
+      "curso_slug": "engenharia-de-aquicultura",
       "notion_page_id": "367f5b13-1dbd-8130-a812-c39dfe4f3978",
       "nome": "Engenharia de Aquicultura",
       "nivel": "superior",
@@ -19,7 +19,6 @@
       "url": "https://ifpr.edu.br/foz-do-iguacu/superior/engenharia-de-aquicultura/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2025/05/PPC_Engenharia_de_Aquicultura___06_12_23-1.pdf",
         "conversao": {
@@ -44,7 +43,7 @@
       }
     },
     {
-      "id": "especializacao-em-ensino-de-ciencias-e-matematica",
+      "curso_slug": "especializacao-em-ensino-de-ciencias-e-matematica",
       "notion_page_id": "367f5b13-1dbd-810b-88c5-f6a626534bbb",
       "nome": "Especializacao em Ensino de Ciencias e Matematica",
       "nivel": "pós-graduação",
@@ -52,7 +51,6 @@
       "url": "https://ifpr.edu.br/foz-do-iguacu/especializacao-em-ensino-de-ciencias-e-matematica/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2025/06/ppc_ens_cienc_mat_atualizado_2025_oficial.pdf",
         "conversao": {
@@ -76,7 +74,7 @@
       }
     },
     {
-      "id": "licenciatura-em-fisica",
+      "curso_slug": "licenciatura-em-fisica",
       "notion_page_id": "367f5b13-1dbd-81d9-9b83-e92c9248f362",
       "nome": "Licenciatura em Fisica",
       "nivel": "superior",
@@ -84,7 +82,6 @@
       "url": "https://ifpr.edu.br/foz-do-iguacu/superior/licenciatura-em-fisica/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2023/08/PPC-Licenciatura-em-Fisica-Foz-2022-v7.pdf",
         "conversao": {
@@ -108,7 +105,7 @@
       }
     },
     {
-      "id": "pos-graduacao-lato-sensu-em-internet-das-coisas-iot-do-ifpr",
+      "curso_slug": "pos-graduacao-lato-sensu-em-internet-das-coisas-iot-do-ifpr",
       "notion_page_id": "367f5b13-1dbd-81f9-b29f-e1194b9764f1",
       "nome": "Pos Graduacao Lato Sensu em Internet das Coisas Iot do Ifpr",
       "nivel": "pós-graduação",
@@ -116,7 +113,6 @@
       "url": "https://ifpr.edu.br/foz-do-iguacu//pos-graduacao-lato-sensu-em-internet-das-coisas-iot-do-ifpr/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2021/08/PPC-IoT-Foz-do-Iguacu-v-4.0.pdf",
         "conversao": {
@@ -140,7 +136,7 @@
       }
     },
     {
-      "id": "tecnico-em-aquicultura",
+      "curso_slug": "tecnico-em-aquicultura",
       "notion_page_id": "367f5b13-1dbd-816b-8fd4-d727fa0babfa",
       "nome": "Técnico em Aquicultura",
       "nivel": "médio",
@@ -148,7 +144,6 @@
       "url": "https://ifpr.edu.br/foz-do-iguacu/tecnicos-integrados-3/tecnico-em-aquicultura/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 52,
         "codigo": "FOZ001",
@@ -192,7 +187,7 @@
       }
     },
     {
-      "id": "tecnico-em-desenvolvimento-de-sistemas",
+      "curso_slug": "tecnico-em-desenvolvimento-de-sistemas",
       "notion_page_id": "367f5b13-1dbd-8104-9e7a-e12e43c3cdc8",
       "nome": "Técnico em Desenvolvimento de Sistemas",
       "nivel": "médio",
@@ -200,7 +195,6 @@
       "url": "https://ifpr.edu.br/foz-do-iguacu/tecnicos-integrados-3/tecnico-em-desenvolvimento-de-sistemas/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 113,
         "codigo": "FOZ002",
@@ -244,7 +238,7 @@
       }
     },
     {
-      "id": "tecnico-em-edificacoes-3",
+      "curso_slug": "tecnico-em-edificacoes-3",
       "notion_page_id": "367f5b13-1dbd-81c7-86a3-e7fa50f6c607",
       "nome": "Técnico em Edificações",
       "nivel": "médio",
@@ -252,7 +246,6 @@
       "url": "https://ifpr.edu.br/foz-do-iguacu/tecnicos-integrados-3/tecnico-em-edificacoes-3/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 133,
         "codigo": "FOZ003",
@@ -296,7 +289,7 @@
       }
     },
     {
-      "id": "tecnico-em-gastronomia",
+      "curso_slug": "tecnico-em-gastronomia",
       "notion_page_id": "367f5b13-1dbd-81c2-b725-da73f0542eab",
       "nome": "Técnico em Gastronomia",
       "nivel": "médio",
@@ -304,7 +297,6 @@
       "url": "https://ifpr.edu.br/foz-do-iguacu/tecnicos-subsequentes/tecnico-em-cozinha/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 126,
         "codigo": "FOZ004",
@@ -335,7 +327,7 @@
       }
     },
     {
-      "id": "tecnico-em-meio-ambiente",
+      "curso_slug": "tecnico-em-meio-ambiente",
       "notion_page_id": "367f5b13-1dbd-81f4-a8ad-f03fd1449d2b",
       "nome": "Técnico em Meio Ambiente",
       "nivel": "médio",
@@ -343,7 +335,6 @@
       "url": "https://ifpr.edu.br/foz-do-iguacu/tecnicos-integrados-3/tecnico-em-meio-ambiente/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "suap": {
         "id": 171,
         "codigo": "FOZ005",
@@ -387,7 +378,7 @@
       }
     },
     {
-      "id": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
+      "curso_slug": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
       "notion_page_id": "367f5b13-1dbd-8186-8c70-d6f0d29b6766",
       "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
       "nivel": "superior",
@@ -395,7 +386,6 @@
       "url": "https://ifpr.edu.br/foz-do-iguacu/superior/tecnologia-em-analise-e-desenvolvimento-de-sistemas-superior/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2025/12/PPC_TADS_Foz_do_Iguacu_Versao_2025.pdf",
         "conversao": {
@@ -418,7 +408,7 @@
       }
     },
     {
-      "id": "tecnologia-em-gastronomia",
+      "curso_slug": "tecnologia-em-gastronomia",
       "notion_page_id": "367f5b13-1dbd-8178-ba2f-f3afa6a936f6",
       "nome": "Tecnologia em Gastronomia",
       "nivel": "superior",
@@ -426,7 +416,6 @@
       "url": "https://ifpr.edu.br/foz-do-iguacu/superior/curso-superior-de-tecnologia-em-gastronomia/",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "escopo": "campus",
       "ppc": {
         "url": "https://ifpr.edu.br/foz-do-iguacu/wp-content/uploads/sites/12/2019/07/PPC-Tecnologia-em-Gastronomia-aprovado-com-portaria-de-autorizacao-1.pdf",
         "conversao": {
