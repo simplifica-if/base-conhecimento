@@ -11,7 +11,7 @@
   "cursos": [
     {
       "curso_slug": "educacao-sociedade-e-tecnologia",
-      "notion_page_id": "367f5b13-1dbd-8105-9dbb-eb2bfb58b1d9",
+      "notion_page_id": "8b0c2da1-4048-83e9-9094-81e1be6033db",
       "nome": "Educação, Sociedade e Tecnologia",
       "nivel": "pós-graduação",
       "tipo_oferta": "especialização",
@@ -42,7 +42,7 @@
     },
     {
       "curso_slug": "engenharia-de-controle-e-automacao",
-      "notion_page_id": "367f5b13-1dbd-8103-92c8-f503945e2f8a",
+      "notion_page_id": "524c2da1-4048-8266-b3ab-8187b9eebe6e",
       "nome": "Engenharia de Controle e Automação",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -74,7 +74,7 @@
     },
     {
       "curso_slug": "licenciatura-em-quimica",
-      "notion_page_id": "367f5b13-1dbd-81f5-ac86-f5f47058b3ba",
+      "notion_page_id": "ac5c2da1-4048-8305-9eec-01612cd24d80",
       "nome": "Licenciatura em Química",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -98,7 +98,7 @@
     },
     {
       "curso_slug": "tecnico-em-alimentos",
-      "notion_page_id": "367f5b13-1dbd-81fd-8bf5-e5d4c34d24d6",
+      "notion_page_id": "eb8c2da1-4048-826a-a763-813c5208aa51",
       "nome": "Técnico em Alimentos",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -145,7 +145,7 @@
     },
     {
       "curso_slug": "tecnico-em-eletromecanica",
-      "notion_page_id": "367f5b13-1dbd-81a5-ac32-cab66eaac919",
+      "notion_page_id": "92ac2da1-4048-83b3-b212-816f12410f2b",
       "nome": "Técnico em Eletromecânica",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -183,7 +183,7 @@
     },
     {
       "curso_slug": "tecnico-em-eletrotecnica",
-      "notion_page_id": "367f5b13-1dbd-81c1-a3d0-cb58699842e2",
+      "notion_page_id": "af0c2da1-4048-8346-be90-81c56d43dc62",
       "nome": "Técnico em Eletrotécnica",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -230,7 +230,7 @@
     },
     {
       "curso_slug": "tecnico-em-informatica",
-      "notion_page_id": "367f5b13-1dbd-81d1-a39a-ec1aae86a7be",
+      "notion_page_id": "cc5c2da1-4048-8255-bd7a-81017768e400",
       "nome": "Técnico em Informática",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -277,7 +277,7 @@
     },
     {
       "curso_slug": "tecnico-em-mecanica",
-      "notion_page_id": "367f5b13-1dbd-816d-af39-efaeac61c117",
+      "notion_page_id": "bcbc2da1-4048-833c-abc0-8154f706d9eb",
       "nome": "Técnico em Mecânica",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -324,7 +324,7 @@
     },
     {
       "curso_slug": "tecnico-em-teatro",
-      "notion_page_id": "367f5b13-1dbd-8190-aa1e-c063edfab6b7",
+      "notion_page_id": "93ec2da1-4048-82f7-a511-8188ed5464d8",
       "nome": "Técnico em Teatro",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -362,7 +362,7 @@
     },
     {
       "curso_slug": "tecnologia-em-sistemas-para-internet",
-      "notion_page_id": "367f5b13-1dbd-811b-8c43-ff6dd3a2fa45",
+      "notion_page_id": "edcc2da1-4048-838f-83ba-8122ecdc6c77",
       "nome": "Tecnologia em Sistemas para Internet",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

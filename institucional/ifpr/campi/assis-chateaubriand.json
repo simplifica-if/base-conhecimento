@@ -12,7 +12,7 @@
   "cursos": [
     {
       "curso_slug": "tecnico-em-agropecuaria",
-      "notion_page_id": "367f5b13-1dbd-81d0-be8f-ead8e61a8e4f",
+      "notion_page_id": "71ac2da1-4048-82ca-9289-01f51dd6628c",
       "nome": "Técnico em Agropecuária",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -59,7 +59,7 @@
     },
     {
       "curso_slug": "tecnico-em-agropecuaria-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-8132-8c61-ee0dab217a87",
+      "notion_page_id": "922c2da1-4048-821d-aea4-01c8ca956b87",
       "nome": "Técnico em Agropecuária",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -99,21 +99,21 @@
       "sei": {
         "processos": [
           {
-            "numero": "23412.000140/2017-98",
-            "tipo": "Ajuste PPC",
-            "trecho_fonte": "Tentativa de ajuste curricular do PPC do Curso Técnico em Agropecuária Integrado ao Ensino Médio; parecer CONSEPE inconcluso e ajuste posteriormente suspenso/arquivado pela DIEPEX. Processo localizado em 25/05/26. Ajuste curricular não efetivado: parecer CONSEPE inconcluso em 12/08/2021 e despacho DIEPEX de 30/06/2022 suspende o ajuste e arquiva os autos.\nEvidências: SEI 1335974: parecer CONSEPE de 12/08/2021 sobre ajuste curricular do PPC, com parecer conclusivo inconcluso.; SEI 1338235: CONSEPE registra parecer inconcluso e retorno à DEMTEC/campus para ajustes.; SEI 0241345: continuidade eletrônica de processo físico em 27/03/2019.; SEI 1289785: Portaria 95/2021 dispõe sobre composição da Comissão de Ajuste Curricular do PPC."
-          },
-          {
             "numero": "23411.006241/2025-92",
             "tipo": "Ajuste PPC",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 10. 26/03 Parecer técnico-pedagógico emitido pela Dentec\n04/05 Campus devolve PPC revisado\n08/05 Aprovação pela Dentec do PPC, devolução para o campus\n15/05 Envio do processo para CIA/Consepe"
+          },
+          {
+            "numero": "23412.000140/2017-98",
+            "tipo": "Ajuste PPC",
+            "trecho_fonte": "Tentativa de ajuste curricular do PPC do Curso Técnico em Agropecuária Integrado ao Ensino Médio; parecer CONSEPE inconcluso e ajuste posteriormente suspenso/arquivado pela DIEPEX. Processo localizado em 25/05/26. Ajuste curricular não efetivado: parecer CONSEPE inconcluso em 12/08/2021 e despacho DIEPEX de 30/06/2022 suspende o ajuste e arquiva os autos.\nEvidências: SEI 1335974: parecer CONSEPE de 12/08/2021 sobre ajuste curricular do PPC, com parecer conclusivo inconcluso.; SEI 1338235: CONSEPE registra parecer inconcluso e retorno à DEMTEC/campus para ajustes.; SEI 0241345: continuidade eletrônica de processo físico em 27/03/2019.; SEI 1289785: Portaria 95/2021 dispõe sobre composição da Comissão de Ajuste Curricular do PPC."
           }
         ]
       }
     },
     {
       "curso_slug": "tecnico-em-alimentos",
-      "notion_page_id": "367f5b13-1dbd-8199-824d-e129f653991f",
+      "notion_page_id": "7b2c2da1-4048-827a-b3b8-013afdcfb8ce",
       "nome": "Técnico em Alimentos",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -158,7 +158,7 @@
     },
     {
       "curso_slug": "tecnico-em-comercio",
-      "notion_page_id": "367f5b13-1dbd-81b0-810a-f7436aeba227",
+      "notion_page_id": "7a8c2da1-4048-839c-8846-01ff4b314729",
       "nome": "Técnico em Comércio",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -209,7 +209,7 @@
     },
     {
       "curso_slug": "tecnico-em-eletromecanica-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-816d-ace2-d2f307219c9c",
+      "notion_page_id": "8dbc2da1-4048-82b0-90a5-8150b6a8354a",
       "nome": "Técnico em Eletromecânica",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -256,7 +256,7 @@
     },
     {
       "curso_slug": "tecnico-em-eletromecanica-subsequente",
-      "notion_page_id": "367f5b13-1dbd-81f5-87eb-e26e89ea61e0",
+      "notion_page_id": "453c2da1-4048-827c-bc1e-017270848d3b",
       "nome": "Técnico em Eletromecânica",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -287,7 +287,7 @@
     },
     {
       "curso_slug": "tecnico-em-eletrotecnica-subsequente",
-      "notion_page_id": "367f5b13-1dbd-8121-b0b4-ddef8c4df4e6",
+      "notion_page_id": "4f2c2da1-4048-82b1-8ba6-0120e7471ebf",
       "nome": "Técnico em Eletrotécnica",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -329,7 +329,7 @@
     },
     {
       "curso_slug": "tecnico-em-informatica-para-internet-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-8121-95a9-f4005cfca015",
+      "notion_page_id": "729c2da1-4048-83c1-ad96-01d8485b04ee",
       "nome": "Técnico em Informática para Internet",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -376,7 +376,7 @@
     },
     {
       "curso_slug": "tecnico-em-mecatronica-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-8189-b1fc-db70d4a32bc7",
+      "notion_page_id": "b5ac2da1-4048-83e2-97f2-813ea897ceed",
       "nome": "Técnico em Mecatrônica",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -425,7 +425,7 @@
     },
     {
       "curso_slug": "tecnologia-em-automacao-industrial",
-      "notion_page_id": "367f5b13-1dbd-81e6-a4d5-fa55a1547ab2",
+      "notion_page_id": "629c2da1-4048-836c-9756-01e2116b7958",
       "nome": "Tecnologia em Automação Industrial",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",
@@ -449,7 +449,7 @@
     },
     {
       "curso_slug": "tecnologia-em-gestao-comercial",
-      "notion_page_id": "367f5b13-1dbd-815e-99b5-ff68b8745c5c",
+      "notion_page_id": "5ebc2da1-4048-82ba-90f0-8141162387ff",
       "nome": "Tecnologia em Gestão Comercial",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

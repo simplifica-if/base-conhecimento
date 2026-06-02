@@ -12,7 +12,7 @@
   "cursos": [
     {
       "curso_slug": "engenharia-de-software",
-      "notion_page_id": "367f5b13-1dbd-818c-820b-cc2205795400",
+      "notion_page_id": "218c2da1-4048-8386-9168-01d8cfe99299",
       "nome": "Engenharia de Software (bacharelado)",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -41,7 +41,7 @@
     },
     {
       "curso_slug": "engenharia-eletrica",
-      "notion_page_id": "367f5b13-1dbd-816f-ac21-d45f9faefa38",
+      "notion_page_id": "ea2c2da1-4048-8239-be96-017a485ee152",
       "nome": "Engenharia Elétrica (bacharelado)",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -71,7 +71,7 @@
     },
     {
       "curso_slug": "especializacao-em-gestao-da-qualidade-e-tecnologia-de-alimentos",
-      "notion_page_id": "367f5b13-1dbd-811c-8d74-fbcce7ef5da1",
+      "notion_page_id": "de1c2da1-4048-82cb-acb4-8112ebb5bae3",
       "nome": "Especialização em Gestão da Qualidade e Tecnologia de Alimentos",
       "nivel": "pós-graduação",
       "tipo_oferta": "especialização",
@@ -102,7 +102,7 @@
     },
     {
       "curso_slug": "licenciatura-em-quimica",
-      "notion_page_id": "367f5b13-1dbd-815f-b62c-ee4e60520e49",
+      "notion_page_id": "ee3c2da1-4048-8335-9fb2-01c770f89352",
       "nome": "Licenciatura em Química",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -131,7 +131,7 @@
     },
     {
       "curso_slug": "tecnico-em-agroindustria",
-      "notion_page_id": "367f5b13-1dbd-81e2-8aca-cf2e49601de9",
+      "notion_page_id": "59ac2da1-4048-83f6-9d57-81bc6d275788",
       "nome": "Técnico em Agroindústria",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -169,7 +169,7 @@
     },
     {
       "curso_slug": "tecnico-em-eletromecanica-subsequente",
-      "notion_page_id": "367f5b13-1dbd-813b-a273-c5b93877da61",
+      "notion_page_id": "495c2da1-4048-830c-8366-0179e08f9e43",
       "nome": "Técnico em Eletromecânica",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -207,7 +207,7 @@
     },
     {
       "curso_slug": "tecnico-em-informatica",
-      "notion_page_id": "367f5b13-1dbd-81fa-9668-e3bba392ca0d",
+      "notion_page_id": "56fc2da1-4048-824c-a200-01b10ea3bf59",
       "nome": "Técnico em Informática",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -250,7 +250,7 @@
     },
     {
       "curso_slug": "tecnico-em-mecatronica",
-      "notion_page_id": "367f5b13-1dbd-81df-876d-f252e11a7b10",
+      "notion_page_id": "ee7c2da1-4048-8329-b03d-0174ba1d3030",
       "nome": "Técnico em Mecatrônica",
       "nivel": "médio",
       "tipo_oferta": "integrado",

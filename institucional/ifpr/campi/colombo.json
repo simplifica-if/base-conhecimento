@@ -12,7 +12,7 @@
   "cursos": [
     {
       "curso_slug": "licenciatura-em-historia",
-      "notion_page_id": "367f5b13-1dbd-812d-aa5d-d4239a91434b",
+      "notion_page_id": "8c7c2da1-4048-82da-8d25-01e1cbc1ef34",
       "nome": "Licenciatura em História",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -44,7 +44,7 @@
     },
     {
       "curso_slug": "licenciatura-em-pedagogia",
-      "notion_page_id": "367f5b13-1dbd-81c6-931a-cf8c8580ab27",
+      "notion_page_id": "4f3c2da1-4048-83f7-b875-0180c1cdc822",
       "nome": "Licenciatura em Pedagogia",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -76,7 +76,7 @@
     },
     {
       "curso_slug": "tecnico-em-administracao-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-81b1-ad20-c864debac7cc",
+      "notion_page_id": "ce4c2da1-4048-8200-8cbc-01463ab544dd",
       "nome": "Técnico em Administração",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -126,7 +126,7 @@
     },
     {
       "curso_slug": "tecnico-em-administracao-subsequente",
-      "notion_page_id": "367f5b13-1dbd-8102-abfd-d2ee077bda63",
+      "notion_page_id": "799c2da1-4048-83d0-9aa6-813a74f55dfb",
       "nome": "Técnico em Administração",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -160,7 +160,7 @@
     },
     {
       "curso_slug": "tecnico-em-alimentos-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-819d-b0e9-c335f3cc77d1",
+      "notion_page_id": "5b2c2da1-4048-83c1-88a7-81d98f9ce454",
       "nome": "Técnico em Alimentos",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -194,7 +194,7 @@
     },
     {
       "curso_slug": "tecnico-em-informatica-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-817c-81a7-feb9b28ff1f6",
+      "notion_page_id": "d32c2da1-4048-82b7-bada-017ce54388bf",
       "nome": "Técnico em Informática",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -242,7 +242,7 @@
     },
     {
       "curso_slug": "tecnologia-em-alimentos",
-      "notion_page_id": "367f5b13-1dbd-81bc-b7f2-f177b8d55476",
+      "notion_page_id": "d49c2da1-4048-824f-bd21-01b2ab47af1f",
       "nome": "Tecnologia em Alimentos",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",
@@ -274,7 +274,7 @@
     },
     {
       "curso_slug": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
-      "notion_page_id": "367f5b13-1dbd-816f-ae98-f8f75c92bb1b",
+      "notion_page_id": "452c2da1-4048-83a1-94df-8115bb20b37e",
       "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",
@@ -306,7 +306,7 @@
     },
     {
       "curso_slug": "tecnologia-em-processos-gerenciais",
-      "notion_page_id": "367f5b13-1dbd-8104-b759-f438b936ac14",
+      "notion_page_id": "25cc2da1-4048-82ed-afc5-81a141f88418",
       "nome": "Tecnologia em Processos Gerenciais",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

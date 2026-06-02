@@ -12,7 +12,7 @@
   "cursos": [
     {
       "curso_slug": "licenciatura-em-ciencias-sociais",
-      "notion_page_id": "367f5b13-1dbd-8136-a5ec-c3e8416ac40c",
+      "notion_page_id": "9f0c2da1-4048-838f-a869-019abbf7dc49",
       "nome": "Licenciatura em Ciências Sociais",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -41,7 +41,7 @@
     },
     {
       "curso_slug": "tecnico-em-informatica",
-      "notion_page_id": "367f5b13-1dbd-8188-8a9d-db15a0ea8149",
+      "notion_page_id": "2e8c2da1-4048-82ce-991c-017622f95c38",
       "nome": "Técnico em Informática",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -88,7 +88,7 @@
     },
     {
       "curso_slug": "tecnico-em-mecanica",
-      "notion_page_id": "367f5b13-1dbd-81b3-acef-e4fa62cd0ac4",
+      "notion_page_id": "8f0c2da1-4048-826d-8c11-011862971ef0",
       "nome": "Técnico em Mecânica",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -126,7 +126,7 @@
     },
     {
       "curso_slug": "tecnico-em-meio-ambiente",
-      "notion_page_id": "367f5b13-1dbd-81bd-bc60-c16dde40f411",
+      "notion_page_id": "d68c2da1-4048-8322-bc45-01bb545315ce",
       "nome": "Técnico em Meio Ambiente",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -174,7 +174,7 @@
     },
     {
       "curso_slug": "tecnico-em-producao-cultural",
-      "notion_page_id": "367f5b13-1dbd-812e-ac95-f5496330f425",
+      "notion_page_id": "082c2da1-4048-82a9-aab3-814c63842081",
       "nome": "Técnico em Produção Cultural",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -210,7 +210,7 @@
     },
     {
       "curso_slug": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
-      "notion_page_id": "367f5b13-1dbd-81f8-b6e7-d3cb9adc2d6b",
+      "notion_page_id": "785c2da1-4048-83c7-9a0f-010eeed8042b",
       "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",
@@ -234,7 +234,7 @@
     },
     {
       "curso_slug": "tecnologia-em-gestao-ambiental",
-      "notion_page_id": "367f5b13-1dbd-81e5-ae3d-db9e9f5febcd",
+      "notion_page_id": "fb0c2da1-4048-8352-afcb-01d273bfbeb4",
       "nome": "Tecnologia em Gestão Ambiental",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",
@@ -264,7 +264,7 @@
     },
     {
       "curso_slug": "tecnologia-em-manutencao-industrial",
-      "notion_page_id": "367f5b13-1dbd-81d7-9451-d15661e821b5",
+      "notion_page_id": "cafc2da1-4048-834c-9d78-81aab181f78b",
       "nome": "Tecnologia em Manutenção Industrial",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

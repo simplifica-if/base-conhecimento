@@ -12,7 +12,7 @@
   "cursos": [
     {
       "curso_slug": "bacharelado-em-sistemas-de-informacao",
-      "notion_page_id": "367f5b13-1dbd-813f-82df-f2ca10f72183",
+      "notion_page_id": "45bc2da1-4048-8292-8e31-01da5897978a",
       "nome": "Bacharelado em Sistemas de Informação",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -42,7 +42,7 @@
     },
     {
       "curso_slug": "engenharia-agronomica",
-      "notion_page_id": "367f5b13-1dbd-81fc-ad24-e33363f177c3",
+      "notion_page_id": "0e5c2da1-4048-83cb-a306-0136b1e679b5",
       "nome": "Engenharia Agronômica",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -72,7 +72,7 @@
     },
     {
       "curso_slug": "licenciatura-em-fisica",
-      "notion_page_id": "367f5b13-1dbd-81f4-b3c5-f8b0fb15b363",
+      "notion_page_id": "555c2da1-4048-820e-aadf-81b2f7db757d",
       "nome": "Licenciatura em Física",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -103,7 +103,7 @@
     },
     {
       "curso_slug": "tecnico-em-agroecologia-integrado",
-      "notion_page_id": "367f5b13-1dbd-81c6-98af-d088aa97d909",
+      "notion_page_id": "c8dc2da1-4048-8390-84b4-01dce2299163",
       "nome": "Técnico em Agroecologia",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -141,7 +141,7 @@
     },
     {
       "curso_slug": "tecnico-em-agropecuaria-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-8168-8668-c9c51071dc83",
+      "notion_page_id": "7d3c2da1-4048-82c0-840e-81a9b54dbc63",
       "nome": "Técnico em Agropecuária",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -179,7 +179,7 @@
     },
     {
       "curso_slug": "tecnico-em-eletrotecnica-integrado",
-      "notion_page_id": "367f5b13-1dbd-8124-a56e-e0be3554cb40",
+      "notion_page_id": "48bc2da1-4048-82dd-a63a-01090190fbec",
       "nome": "Técnico em Eletrotécnica",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -226,7 +226,7 @@
     },
     {
       "curso_slug": "tecnico-em-eletrotecnica-subsequente",
-      "notion_page_id": "367f5b13-1dbd-8188-873d-dee5937cfb93",
+      "notion_page_id": "549c2da1-4048-838f-946c-818d3aa630de",
       "nome": "Técnico em Eletrotécnica",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -269,7 +269,7 @@
     },
     {
       "curso_slug": "tecnico-em-informatica-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-8192-94a8-f73ace0e992f",
+      "notion_page_id": "83ec2da1-4048-829a-8eab-81a4e4c19e0c",
       "nome": "Técnico em Informática",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -307,7 +307,7 @@
     },
     {
       "curso_slug": "tecnologia-em-agroecologia",
-      "notion_page_id": "367f5b13-1dbd-81ca-9620-ea98993c333b",
+      "notion_page_id": "f86c2da1-4048-8304-87c9-01592c984591",
       "nome": "Tecnologia em Agroecologia",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

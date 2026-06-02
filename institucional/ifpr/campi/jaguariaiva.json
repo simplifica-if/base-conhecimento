@@ -12,7 +12,7 @@
   "cursos": [
     {
       "curso_slug": "especializacao-em-educacao-e-tecnologia",
-      "notion_page_id": "367f5b13-1dbd-815d-8984-df316322b6ee",
+      "notion_page_id": "7dec2da1-4048-82ec-9349-812dcf1310f6",
       "nome": "Especialização em Educação e Tecnologia",
       "nivel": "pós-graduação",
       "tipo_oferta": "especialização",
@@ -41,7 +41,7 @@
     },
     {
       "curso_slug": "tecnico-em-alimentos-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-8139-8f8c-f8338dba0cbf",
+      "notion_page_id": "c1bc2da1-4048-825a-aaaf-01bd115b62dd",
       "nome": "Técnico em Alimentos",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -88,7 +88,7 @@
     },
     {
       "curso_slug": "tecnico-em-biotecnologia-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-81f8-9ed5-da464dd949fc",
+      "notion_page_id": "515c2da1-4048-8341-8176-81f008dd3470",
       "nome": "Técnico em Biotecnologia",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -126,7 +126,7 @@
     },
     {
       "curso_slug": "tecnologo-em-gestao-da-qualidade",
-      "notion_page_id": "367f5b13-1dbd-81a0-886d-dc31982a8c75",
+      "notion_page_id": "e77c2da1-4048-8228-a28b-81562f0bcc7d",
       "nome": "Tecnologo em Gestao da Qualidade",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

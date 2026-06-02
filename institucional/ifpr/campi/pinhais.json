@@ -12,7 +12,7 @@
   "cursos": [
     {
       "curso_slug": "bacharelado-em-administracao",
-      "notion_page_id": "367f5b13-1dbd-81c7-80fb-d3a542f70536",
+      "notion_page_id": "0f2c2da1-4048-83cc-9d34-01da4e4f9fb0",
       "nome": "Bacharelado em Administração",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -36,7 +36,7 @@
     },
     {
       "curso_slug": "bacharelado-em-ciencia-da-computacao",
-      "notion_page_id": "367f5b13-1dbd-81f3-aaf2-f437107a795a",
+      "notion_page_id": "633c2da1-4048-834f-84e0-81e6508ae9a0",
       "nome": "Bacharelado em Ciência da Computação",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -66,7 +66,7 @@
     },
     {
       "curso_slug": "tecnico-em-administracao-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-8197-bc28-efb0534185e0",
+      "notion_page_id": "09fc2da1-4048-82dc-aed8-01fc83bd5fd6",
       "nome": "Técnico em Administração",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -111,7 +111,7 @@
     },
     {
       "curso_slug": "tecnico-em-informatica-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-810a-b0e9-cb0d6dc5fd8b",
+      "notion_page_id": "243c2da1-4048-82b2-bdf7-81857c219b4a",
       "nome": "Técnico em Informática",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -158,7 +158,7 @@
     },
     {
       "curso_slug": "tecnologia-em-gestao-da-tecnologia-da-informacao",
-      "notion_page_id": "367f5b13-1dbd-81cd-9d9e-d4cb516c33c8",
+      "notion_page_id": "dc8c2da1-4048-8310-a327-814c32914101",
       "nome": "Tecnologia em Gestão da Tecnologia da Informação",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

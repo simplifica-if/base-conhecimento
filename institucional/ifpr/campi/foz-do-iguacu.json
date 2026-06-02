@@ -12,7 +12,7 @@
   "cursos": [
     {
       "curso_slug": "engenharia-de-aquicultura",
-      "notion_page_id": "367f5b13-1dbd-8130-a812-c39dfe4f3978",
+      "notion_page_id": "b30c2da1-4048-8223-958d-0155845e0ed1",
       "nome": "Engenharia de Aquicultura",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -44,7 +44,7 @@
     },
     {
       "curso_slug": "especializacao-em-ensino-de-ciencias-e-matematica",
-      "notion_page_id": "367f5b13-1dbd-810b-88c5-f6a626534bbb",
+      "notion_page_id": "6edc2da1-4048-82d8-a6dc-01035c17af99",
       "nome": "Especializacao em Ensino de Ciencias e Matematica",
       "nivel": "pós-graduação",
       "tipo_oferta": "especialização",
@@ -75,7 +75,7 @@
     },
     {
       "curso_slug": "licenciatura-em-fisica",
-      "notion_page_id": "367f5b13-1dbd-81d9-9b83-e92c9248f362",
+      "notion_page_id": "993c2da1-4048-8356-a657-81f62791275d",
       "nome": "Licenciatura em Fisica",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -106,7 +106,7 @@
     },
     {
       "curso_slug": "pos-graduacao-lato-sensu-em-internet-das-coisas-iot-do-ifpr",
-      "notion_page_id": "367f5b13-1dbd-81f9-b29f-e1194b9764f1",
+      "notion_page_id": "ea6c2da1-4048-83d3-9b42-0112a2ca5e9e",
       "nome": "Pos Graduacao Lato Sensu em Internet das Coisas Iot do Ifpr",
       "nivel": "pós-graduação",
       "tipo_oferta": "especialização",
@@ -137,7 +137,7 @@
     },
     {
       "curso_slug": "tecnico-em-aquicultura",
-      "notion_page_id": "367f5b13-1dbd-816b-8fd4-d727fa0babfa",
+      "notion_page_id": "6fcc2da1-4048-83f5-9ef3-01f271612282",
       "nome": "Técnico em Aquicultura",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -188,7 +188,7 @@
     },
     {
       "curso_slug": "tecnico-em-desenvolvimento-de-sistemas",
-      "notion_page_id": "367f5b13-1dbd-8104-9e7a-e12e43c3cdc8",
+      "notion_page_id": "f67c2da1-4048-83a0-9d2e-0115cf0a22b6",
       "nome": "Técnico em Desenvolvimento de Sistemas",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -239,7 +239,7 @@
     },
     {
       "curso_slug": "tecnico-em-edificacoes-3",
-      "notion_page_id": "367f5b13-1dbd-81c7-86a3-e7fa50f6c607",
+      "notion_page_id": "865c2da1-4048-8332-bdc4-01dbbfc1412f",
       "nome": "Técnico em Edificações",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -290,7 +290,7 @@
     },
     {
       "curso_slug": "tecnico-em-gastronomia",
-      "notion_page_id": "367f5b13-1dbd-81c2-b725-da73f0542eab",
+      "notion_page_id": "1fdc2da1-4048-8364-8f31-01793cf2b475",
       "nome": "Técnico em Gastronomia",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -328,7 +328,7 @@
     },
     {
       "curso_slug": "tecnico-em-meio-ambiente",
-      "notion_page_id": "367f5b13-1dbd-81f4-a8ad-f03fd1449d2b",
+      "notion_page_id": "b35c2da1-4048-8219-81b1-8162c2cbc1bd",
       "nome": "Técnico em Meio Ambiente",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -379,7 +379,7 @@
     },
     {
       "curso_slug": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
-      "notion_page_id": "367f5b13-1dbd-8186-8c70-d6f0d29b6766",
+      "notion_page_id": "faac2da1-4048-839d-803b-0110439472d2",
       "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",
@@ -409,7 +409,7 @@
     },
     {
       "curso_slug": "tecnologia-em-gastronomia",
-      "notion_page_id": "367f5b13-1dbd-8178-ba2f-f3afa6a936f6",
+      "notion_page_id": "07fc2da1-4048-827d-b9e7-015d900ee546",
       "nome": "Tecnologia em Gastronomia",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

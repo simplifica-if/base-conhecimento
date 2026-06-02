@@ -12,7 +12,7 @@
   "cursos": [
     {
       "curso_slug": "bacharelado-em-arquitetura-e-urbanismo",
-      "notion_page_id": "367f5b13-1dbd-818c-bf38-e1aee6b04845",
+      "notion_page_id": "f37c2da1-4048-829a-b194-8155bc77c474",
       "nome": "Bacharelado em Arquitetura e Urbanismo",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -44,7 +44,7 @@
     },
     {
       "curso_slug": "licenciatura-em-ciencias-biologicas",
-      "notion_page_id": "367f5b13-1dbd-8196-853c-c61fd2d33ce3",
+      "notion_page_id": "92cc2da1-4048-824a-8bc0-813685d01024",
       "nome": "Licenciatura em Ciências Biológicas",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -76,7 +76,7 @@
     },
     {
       "curso_slug": "licenciatura-em-quimica",
-      "notion_page_id": "367f5b13-1dbd-815c-a759-eeed4ce115e3",
+      "notion_page_id": "06cc2da1-4048-83c5-bf8b-8159887381cc",
       "nome": "Licenciatura em Química",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -105,7 +105,7 @@
     },
     {
       "curso_slug": "tecnico-em-edificacoes-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-8189-83ba-d13f2687168e",
+      "notion_page_id": "30fc2da1-4048-8292-b4be-01ac9733d872",
       "nome": "Técnico em Edificações",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -156,7 +156,7 @@
     },
     {
       "curso_slug": "tecnico-em-informatica-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-8110-9a0f-eeeb35d364fd",
+      "notion_page_id": "1eec2da1-4048-8365-8731-010127fc6971",
       "nome": "Técnico em Informática",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -207,7 +207,7 @@
     },
     {
       "curso_slug": "tecnico-em-quimica-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-812c-bda3-d2575ddf1791",
+      "notion_page_id": "844c2da1-4048-8372-a70d-8196f542b39b",
       "nome": "Técnico em Química",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -258,7 +258,7 @@
     },
     {
       "curso_slug": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
-      "notion_page_id": "367f5b13-1dbd-8146-abb5-e677b7695647",
+      "notion_page_id": "943c2da1-4048-8248-abac-01692b7ddd30",
       "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",
@@ -290,7 +290,7 @@
     },
     {
       "curso_slug": "tecnologia-em-gestao-do-agronegocio",
-      "notion_page_id": "367f5b13-1dbd-81dd-bb42-da77177d1d70",
+      "notion_page_id": "c39c2da1-4048-83ca-bdb4-81c7b22c705a",
       "nome": "Tecnologia em Gestão do Agronegócio",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

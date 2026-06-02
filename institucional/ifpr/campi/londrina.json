@@ -12,7 +12,7 @@
   "cursos": [
     {
       "curso_slug": "especializacao-lato-sensu-em-saude-coletiva-com-enfase-na-promocao-da-saude",
-      "notion_page_id": "367f5b13-1dbd-8177-b5ac-e7a9bf1e916f",
+      "notion_page_id": "0c6c2da1-4048-820d-98ad-01dbb128587e",
       "nome": "Especializacao Lato Sensu em Saude Coletiva com Enfase na Promocao da Saude",
       "nivel": "pós-graduação",
       "tipo_oferta": "especialização",
@@ -28,7 +28,7 @@
     },
     {
       "curso_slug": "licenciatura-em-ciencias-biologicas-2",
-      "notion_page_id": "367f5b13-1dbd-814e-938d-f3172fbae3de",
+      "notion_page_id": "a02c2da1-4048-82ba-89fc-819b0a362c12",
       "nome": "Licenciatura em Ciencias Biologicas 2",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -60,7 +60,7 @@
     },
     {
       "curso_slug": "tecnico-em-biotecnologia-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-81d4-a17f-f2bd0a0a5c14",
+      "notion_page_id": "f3ac2da1-4048-8322-b70e-01eaef034785",
       "nome": "Técnico em Biotecnologia",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -107,7 +107,7 @@
     },
     {
       "curso_slug": "tecnico-em-enfermagem",
-      "notion_page_id": "367f5b13-1dbd-81c0-8f84-d2e3f95baa56",
+      "notion_page_id": "2ecc2da1-4048-82af-90d6-814bd8d38c62",
       "nome": "Técnico em Enfermagem",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -145,7 +145,7 @@
     },
     {
       "curso_slug": "tecnico-em-informatica-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-81bc-9191-cb4ac0fef278",
+      "notion_page_id": "d8ec2da1-4048-8226-8274-81af4b8a5333",
       "nome": "Técnico em Informática",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -192,7 +192,7 @@
     },
     {
       "curso_slug": "tecnico-em-massoterapia",
-      "notion_page_id": "367f5b13-1dbd-8120-b265-cbf1bcb9529a",
+      "notion_page_id": "ac9c2da1-4048-831c-8d4b-0164435cf309",
       "nome": "Técnico em Massoterapia",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -230,7 +230,7 @@
     },
     {
       "curso_slug": "tecnico-em-protese-dentaria-2",
-      "notion_page_id": "367f5b13-1dbd-8112-86e8-f6bf4563c29d",
+      "notion_page_id": "35cc2da1-4048-8338-ae1c-0134687e783f",
       "nome": "Técnico em Prótese Dentária",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -266,7 +266,7 @@
     },
     {
       "curso_slug": "tecnico-em-saude-bucal",
-      "notion_page_id": "367f5b13-1dbd-8159-beff-ed56af44968c",
+      "notion_page_id": "c26c2da1-4048-8255-8c93-010cee35bc33",
       "nome": "Técnico em Saúde Bucal",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -317,7 +317,7 @@
     },
     {
       "curso_slug": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
-      "notion_page_id": "367f5b13-1dbd-81b9-bdca-eb2ef575ccad",
+      "notion_page_id": "580c2da1-4048-82b8-884e-81fe2c2d6b42",
       "nome": "Tecnologia em Analise e Desenvolvimento de Sistemas",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

@@ -12,7 +12,7 @@
   "cursos": [
     {
       "curso_slug": "bacharelado-em-agronomia",
-      "notion_page_id": "367f5b13-1dbd-810f-a71b-fb5b9f8dcdb4",
+      "notion_page_id": "461c2da1-4048-83d8-a7eb-0115b5384647",
       "nome": "Bacharelado em Agronomia",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -42,7 +42,7 @@
     },
     {
       "curso_slug": "bacharelado-em-engenharia-de-software",
-      "notion_page_id": "367f5b13-1dbd-81ce-8701-ed6c1758b5ee",
+      "notion_page_id": "571c2da1-4048-823d-b472-019d81d6a9a5",
       "nome": "Bacharelado em Engenharia de Software",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -72,7 +72,7 @@
     },
     {
       "curso_slug": "licenciatura-em-quimica",
-      "notion_page_id": "367f5b13-1dbd-8164-90da-f8a58bd907f3",
+      "notion_page_id": "201c2da1-4048-8215-88a1-810d6cc54698",
       "nome": "Licenciatura em Química",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -96,7 +96,7 @@
     },
     {
       "curso_slug": "tecnico-em-agroecologia",
-      "notion_page_id": "367f5b13-1dbd-811b-abad-f2217e873483",
+      "notion_page_id": "87ec2da1-4048-837e-a606-814cb1da487a",
       "nome": "Técnico em Agroecologia",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -141,7 +141,7 @@
     },
     {
       "curso_slug": "tecnico-em-informatica",
-      "notion_page_id": "367f5b13-1dbd-81f9-9ff9-c924607eba5a",
+      "notion_page_id": "3d5c2da1-4048-8321-b89b-0148794c50cb",
       "nome": "Técnico em Informática",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -189,7 +189,7 @@
     },
     {
       "curso_slug": "tecnico-em-quimica-integrado-ao-ensino-medio",
-      "notion_page_id": "36cf5b13-1dbd-8137-8ed9-eb52562c9bd4",
+      "notion_page_id": "186c2da1-4048-83d3-9524-019e8ca3b4c6",
       "nome": "Técnico em Química",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -199,6 +199,10 @@
       "sei": {
         "processos": [
           {
+            "numero": "23411.005326/2025-53",
+            "tipo": "Abertura PAC"
+          },
+          {
             "numero": "23411.021133/2025-40",
             "tipo": "Abertura PPC"
           }
@@ -207,7 +211,7 @@
     },
     {
       "curso_slug": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
-      "notion_page_id": "367f5b13-1dbd-8154-aaaa-d6126b0897fd",
+      "notion_page_id": "64cc2da1-4048-8236-8874-8165c87a41fd",
       "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

@@ -12,7 +12,7 @@
   "cursos": [
     {
       "curso_slug": "agronomia",
-      "notion_page_id": "367f5b13-1dbd-811e-a3d4-df36a75852a3",
+      "notion_page_id": "736c2da1-4048-82fb-bc84-812ab00f2ed0",
       "nome": "Agronomia",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -41,7 +41,7 @@
     },
     {
       "curso_slug": "bacharelado-em-administracao",
-      "notion_page_id": "367f5b13-1dbd-8140-ad8f-edc8baf0a457",
+      "notion_page_id": "d7ac2da1-4048-826a-8c14-014818559a2a",
       "nome": "Bacharelado em Administração",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -70,7 +70,7 @@
     },
     {
       "curso_slug": "enfermagem",
-      "notion_page_id": "367f5b13-1dbd-8143-bf98-e3786fa32631",
+      "notion_page_id": "a92c2da1-4048-834e-b46a-813775df36e4",
       "nome": "Enfermagem",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -99,7 +99,7 @@
     },
     {
       "curso_slug": "farmacia",
-      "notion_page_id": "367f5b13-1dbd-8176-a2b4-e73858cfb152",
+      "notion_page_id": "cd8c2da1-4048-8386-b059-01586e215d4b",
       "nome": "Farmácia",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -128,7 +128,7 @@
     },
     {
       "curso_slug": "licenciatura-em-educacao-fisica",
-      "notion_page_id": "367f5b13-1dbd-812c-99aa-ef62ffb9564c",
+      "notion_page_id": "2dcc2da1-4048-83da-9d18-01d10324f29b",
       "nome": "Licenciatura em Educação Física",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -158,7 +158,7 @@
     },
     {
       "curso_slug": "licenciatura-em-quimica",
-      "notion_page_id": "367f5b13-1dbd-812b-8649-e210befe8efc",
+      "notion_page_id": "60fc2da1-4048-83b0-bc51-012a38d4ec79",
       "nome": "Licenciatura em Química",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -188,7 +188,7 @@
     },
     {
       "curso_slug": "pedagogia",
-      "notion_page_id": "367f5b13-1dbd-818a-a6f8-ee6e13f97acc",
+      "notion_page_id": "bf2c2da1-4048-83c8-9f05-01c9ad689d16",
       "nome": "Pedagogia",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -217,7 +217,7 @@
     },
     {
       "curso_slug": "sistemas-de-informacao",
-      "notion_page_id": "367f5b13-1dbd-8171-a23f-e09760497754",
+      "notion_page_id": "3d6c2da1-4048-826e-bd20-812fed2c03f7",
       "nome": "Sistemas de Informação",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -246,7 +246,7 @@
     },
     {
       "curso_slug": "tecnico-em-agroindustria",
-      "notion_page_id": "36ef5b13-1dbd-803a-925c-d243b0c8b11a",
+      "notion_page_id": "0d4c2da1-4048-8346-ab39-01feb786f364",
       "nome": "Técnico em Agroindústria",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -262,7 +262,7 @@
     },
     {
       "curso_slug": "tecnico-em-alimentos",
-      "notion_page_id": "367f5b13-1dbd-81ab-9aa8-ff3e199ede91",
+      "notion_page_id": "592c2da1-4048-82de-93b2-01710877cbf8",
       "nome": "Técnico em Alimentos",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -307,7 +307,7 @@
     },
     {
       "curso_slug": "tecnico-em-informatica-para-internet",
-      "notion_page_id": "367f5b13-1dbd-81e2-9056-e0bf029ffd5b",
+      "notion_page_id": "80bc2da1-4048-83cd-bf5f-8134bb4d59d0",
       "nome": "Técnico em Informática para Internet",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -344,7 +344,7 @@
     },
     {
       "curso_slug": "tecnico-em-servicos-juridicos",
-      "notion_page_id": "367f5b13-1dbd-817a-ba49-d5ca8f5bc39b",
+      "notion_page_id": "754c2da1-4048-83bf-94b6-0168db77850f",
       "nome": "Técnico em Serviços Jurídicos",
       "nivel": "médio",
       "tipo_oferta": "integrado",

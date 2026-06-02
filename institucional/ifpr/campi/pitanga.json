@@ -12,7 +12,7 @@
   "cursos": [
     {
       "curso_slug": "licenciatura-em-pedagogia",
-      "notion_page_id": "367f5b13-1dbd-8186-ad88-d2281b61651b",
+      "notion_page_id": "d33c2da1-4048-8330-805e-01ac77a196ef",
       "nome": "Licenciatura em Pedagogia",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -42,7 +42,7 @@
     },
     {
       "curso_slug": "licenciatura-em-quimica",
-      "notion_page_id": "367f5b13-1dbd-8183-8e63-f6f376c393a9",
+      "notion_page_id": "0b1c2da1-4048-82e0-b6d3-815c440c67ec",
       "nome": "Licenciatura em Química",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -72,7 +72,7 @@
     },
     {
       "curso_slug": "tecnico-em-alimentos",
-      "notion_page_id": "367f5b13-1dbd-81d7-a966-cdd556c14ddc",
+      "notion_page_id": "a34c2da1-4048-82f7-bb63-8165ed810181",
       "nome": "Técnico em Alimentos",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -108,7 +108,7 @@
     },
     {
       "curso_slug": "tecnico-em-cooperativismo",
-      "notion_page_id": "367f5b13-1dbd-818d-8654-d87a78f32b30",
+      "notion_page_id": "c12c2da1-4048-82fa-b004-818dfa82dcf2",
       "nome": "Técnico em Cooperativismo",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -155,7 +155,7 @@
     },
     {
       "curso_slug": "tecnico-em-desenvolvimento-de-sistemas",
-      "notion_page_id": "367f5b13-1dbd-81cc-8404-d6615508ef66",
+      "notion_page_id": "8b8c2da1-4048-82b7-b0db-816db73af853",
       "nome": "Técnico em Desenvolvimento de Sistemas",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -191,21 +191,21 @@
       "sei": {
         "processos": [
           {
-            "numero": "23411.010391/2025-09",
-            "tipo": "abertura OLD",
-            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 48. Finalizado - Resolução Consup nº 248, de 16 de setembro de 2025.  Despachado para Proens (portaria de autorização), DGA e Diepex."
-          },
-          {
             "numero": "23411.019587/2022-16",
             "tipo": "abertura OLD",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 77. Encaminhado à Proplan em 24/02/25"
+          },
+          {
+            "numero": "23411.010391/2025-09",
+            "tipo": "abertura OLD",
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 48. Finalizado - Resolução Consup nº 248, de 16 de setembro de 2025.  Despachado para Proens (portaria de autorização), DGA e Diepex."
           }
         ]
       }
     },
     {
       "curso_slug": "tecnologia-em-agroindustria",
-      "notion_page_id": "367f5b13-1dbd-81d6-842f-ff5e1e00a590",
+      "notion_page_id": "df4c2da1-4048-8221-abe3-0137f4294802",
       "nome": "Tecnologia em Agroindústria",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

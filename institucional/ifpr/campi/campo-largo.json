@@ -12,7 +12,7 @@
   "cursos": [
     {
       "curso_slug": "administracao",
-      "notion_page_id": "367f5b13-1dbd-81fb-92e1-c913119d5ec7",
+      "notion_page_id": "485c2da1-4048-828a-b8a1-8124e5383c77",
       "nome": "Administração",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -50,7 +50,7 @@
     },
     {
       "curso_slug": "administracao-proeja",
-      "notion_page_id": "367f5b13-1dbd-81d4-a0ec-f62eabd13093",
+      "notion_page_id": "af8c2da1-4048-83c5-8a22-81f851d89484",
       "nome": "Administração – PROEJA",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -81,7 +81,7 @@
     },
     {
       "curso_slug": "agroecologia",
-      "notion_page_id": "367f5b13-1dbd-8174-b4a1-e20c43acc442",
+      "notion_page_id": "41ec2da1-4048-822b-9c10-818cf8fc6f8d",
       "nome": "Agroecologia",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -128,7 +128,7 @@
     },
     {
       "curso_slug": "automacao-industrial",
-      "notion_page_id": "367f5b13-1dbd-810a-82b5-cf60558c8957",
+      "notion_page_id": "451c2da1-4048-82b7-811f-815379fcbd8e",
       "nome": "Automação Industrial",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -175,7 +175,7 @@
     },
     {
       "curso_slug": "bacharelado-em-engenharia-eletrica",
-      "notion_page_id": "367f5b13-1dbd-81d6-9e1d-d668f2487aba",
+      "notion_page_id": "6c8c2da1-4048-822f-a7dc-8181b0550977",
       "nome": "Bacharelado em Engenharia Elétrica",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -205,7 +205,7 @@
     },
     {
       "curso_slug": "licenciatura-em-matematica",
-      "notion_page_id": "367f5b13-1dbd-81af-810a-f1378b656106",
+      "notion_page_id": "53cc2da1-4048-8302-9e56-813615c9d1da",
       "nome": "Licenciatura em Matemática",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -235,7 +235,7 @@
     },
     {
       "curso_slug": "mecanica",
-      "notion_page_id": "367f5b13-1dbd-8141-bde5-d3666eab573e",
+      "notion_page_id": "147c2da1-4048-8347-a456-8189f9fc93af",
       "nome": "Mecânica",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -273,7 +273,7 @@
     },
     {
       "curso_slug": "tecnico-em-mecanica-subsequente",
-      "notion_page_id": "367f5b13-1dbd-810f-a5d9-f6dc47c64fd1",
+      "notion_page_id": "92bc2da1-4048-820b-b4a2-0129076ccc11",
       "nome": "Técnico em Mecânica",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -309,7 +309,7 @@
     },
     {
       "curso_slug": "tecnologia-em-agroecologia",
-      "notion_page_id": "367f5b13-1dbd-818d-a848-f45d5ccc8535",
+      "notion_page_id": "3abc2da1-4048-8389-91db-8114f8d913ad",
       "nome": "Curso Superior de Tecnologia em Agroecologia",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",
@@ -339,7 +339,7 @@
     },
     {
       "curso_slug": "tecnologia-em-materiais",
-      "notion_page_id": "367f5b13-1dbd-8179-92bb-f8592296efb2",
+      "notion_page_id": "eb0c2da1-4048-8262-8b07-014788d5fbb5",
       "nome": "Curso Superior de Tecnologia em Materiais",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",
@@ -369,7 +369,7 @@
     },
     {
       "curso_slug": "tecnologia-em-processos-gerenciais",
-      "notion_page_id": "367f5b13-1dbd-81a1-a793-cb5d67bb80a9",
+      "notion_page_id": "97bc2da1-4048-82ed-97d1-01518ee35281",
       "nome": "Curso Superior de Tecnologia em Processos Gerenciais",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

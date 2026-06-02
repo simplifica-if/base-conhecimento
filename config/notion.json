@@ -1,39 +1,39 @@
 {
-  "parent_page_id": "367f5b131dbd803eb664f38a3ce8d8f9",
+  "parent_page_id": "a57c2da140488306bf0601a9baeae584",
   "databases": {
     "campi": {
-      "id": "284de7e6-3945-4ed6-8d7f-0a5dbce878f5",
-      "data_source_id": "265f7ffb-00a2-4e8f-99d2-f2e6d48f12f8",
+      "id": "740c2da1-4048-82f2-89ab-01cc301bb56c",
+      "data_source_id": "156c2da1-4048-8373-a983-079d3832bb67",
       "title": "Campi"
     },
     "cursos": {
-      "id": "1773d414-8c18-4b1a-b862-ea1aed991b6e",
-      "data_source_id": "ab7b6a7d-2ff5-460b-abc8-e5087b22cdd3",
+      "id": "e64c2da1-4048-8240-9f50-0178815cbda8",
+      "data_source_id": "164c2da1-4048-8319-9ca2-07bb9c7fdfe4",
       "title": "Cursos"
     },
     "movimentacoes_cursos": {
-      "id": "9f13718a-9524-4feb-bc79-b13b32cf0bbd",
-      "data_source_id": "9686928b-c284-4526-8534-f6477f39f6ae",
+      "id": "f2ac2da1-4048-836a-8900-012bb5cff08c",
+      "data_source_id": "5f1c2da1-4048-8357-b126-0736ec25b50c",
       "title": "Movimentações de Cursos"
     },
     "tarefas": {
-      "id": "27112efb-ef37-4343-b6e8-45156597e684",
-      "data_source_id": "a734f7c6-aa30-4f78-a7a8-272ce7d929f7",
-      "title": "Tarefas"
+      "id": "dd9c2da1-4048-82ef-8b0d-8168467c2438",
+      "data_source_id": "703c2da1-4048-83d4-b3bd-076a8ccf9c9e",
+      "title": "Atividades Dentec"
     },
     "processos_seletivos": {
-      "id": "42e12c46-5b58-4558-b7e1-c1b26b929ba7",
-      "data_source_id": "eeefe89c-5dac-4679-a760-1217c72bcf39",
+      "id": "6d6c2da1-4048-8289-a2ba-010ae7f21083",
+      "data_source_id": "dccc2da1-4048-820f-b6e6-879c0e2fdce2",
       "title": "Processos Seletivos"
     },
     "editais_ingresso": {
-      "id": "e08eb796-955c-469d-b2dd-e6daf68363cd",
-      "data_source_id": "81d69507-b90a-495f-a548-6842c1106c1b",
+      "id": "e9cc2da1-4048-8392-af2f-01b31cd5fc9a",
+      "data_source_id": "d40c2da1-4048-82c6-b669-87a39f534f68",
       "title": "Editais de Ingresso"
     },
     "ofertas_ingresso": {
-      "id": "8a62dfd8-f618-4e4a-bb84-d93c27ca1e96",
-      "data_source_id": "890a2ce1-1165-41e9-8f4d-b001f44e7b9d",
+      "id": "5e3c2da1-4048-823c-ab30-0170fd0e413c",
+      "data_source_id": "be8c2da1-4048-8263-9cf5-07d4263b72e8",
       "title": "Ofertas de Ingresso"
     }
   }

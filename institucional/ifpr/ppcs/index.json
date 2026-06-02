@@ -2,7 +2,7 @@
   "title": "Projetos Pedagógicos de Curso do IFPR",
   "tipo": "indice_ppcs",
   "versao": 1,
-  "atualizado_em": "2026-05-29",
+  "atualizado_em": "2026-06-02",
   "total_itens": 202,
   "secoes": {
     "preview_limite": 500,
@@ -360,7 +360,7 @@
       "path": "institucional/ifpr/ppcs/barracao/tecnico-em-administracao.md",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "ano_documento": 2022,
+      "ano_documento": 2023,
       "vagas": 40
     },
     {
@@ -376,7 +376,7 @@
       "path": "institucional/ifpr/ppcs/barracao/tecnico-em-informatica.md",
       "modalidade": "presencial",
       "situacao": "ativo",
-      "ano_documento": 2022,
+      "ano_documento": 2023,
       "vagas": 40
     },
     {

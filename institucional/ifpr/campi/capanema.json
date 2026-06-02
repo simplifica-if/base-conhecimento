@@ -12,7 +12,7 @@
   "cursos": [
     {
       "curso_slug": "licenciatura-em-matematica",
-      "notion_page_id": "367f5b13-1dbd-81f6-a894-c61147f45560",
+      "notion_page_id": "2f7c2da1-4048-8304-861c-019c4358ddb6",
       "nome": "Licenciatura em Matemática",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -42,7 +42,7 @@
     },
     {
       "curso_slug": "tecnico-em-agroecologia",
-      "notion_page_id": "367f5b13-1dbd-81b8-ae9e-ed1f4f65c26d",
+      "notion_page_id": "fc9c2da1-4048-82b9-b219-014ef0ec5c9b",
       "nome": "Técnico em Agroecologia",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -89,7 +89,7 @@
     },
     {
       "curso_slug": "tecnico-em-cooperativismo",
-      "notion_page_id": "367f5b13-1dbd-812d-9cc8-cf3ea91bb77a",
+      "notion_page_id": "febc2da1-4048-8275-8052-819d2c684a63",
       "nome": "Técnico em Cooperativismo",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -136,7 +136,7 @@
     },
     {
       "curso_slug": "tecnico-em-informatica",
-      "notion_page_id": "367f5b13-1dbd-8162-bb7f-f97ad48794b3",
+      "notion_page_id": "b0ac2da1-4048-8226-88f0-81e4b4b4235b",
       "nome": "Técnico em Informática",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -183,7 +183,7 @@
     },
     {
       "curso_slug": "tecnologia-em-sistemas-para-internet",
-      "notion_page_id": "367f5b13-1dbd-8103-9791-e4d6808c3a62",
+      "notion_page_id": "09ec2da1-4048-8321-9b1e-0172e002788b",
       "nome": "Tecnologia em Sistemas para Internet",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

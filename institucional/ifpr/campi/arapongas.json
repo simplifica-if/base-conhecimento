@@ -12,7 +12,7 @@
   "cursos": [
     {
       "curso_slug": "especializacao-em-docencia-e-praticas-educativas",
-      "notion_page_id": "367f5b13-1dbd-8111-9d7b-c3839b43d567",
+      "notion_page_id": "c12c2da1-4048-822f-b03b-817e1b9eaca3",
       "nome": "Especialização em Docência e Práticas Educativas",
       "nivel": "pós-graduação",
       "tipo_oferta": "especialização",
@@ -43,7 +43,7 @@
     },
     {
       "curso_slug": "gestao-de-competencias-para-exames-de-larga-escala",
-      "notion_page_id": "367f5b13-1dbd-818d-b073-d2977bb0f66c",
+      "notion_page_id": "86dc2da1-4048-82de-b493-810c6b49b5f4",
       "nome": "Gestão de Competências para Exames de Larga Escala (Cursinho)",
       "nivel": "formação inicial e continuada",
       "tipo_oferta": "FIC",
@@ -51,7 +51,7 @@
     },
     {
       "curso_slug": "portugues-como-lingua-de-acolhimento-plac",
-      "notion_page_id": "367f5b13-1dbd-8114-9d63-f8145ccb33b1",
+      "notion_page_id": "dfcc2da1-4048-8366-8109-813793ad0114",
       "nome": "Português como Língua de Acolhimento - PLAc",
       "nivel": "formação inicial e continuada",
       "tipo_oferta": "FIC",
@@ -59,7 +59,7 @@
     },
     {
       "curso_slug": "programacao-com-enfase-em-analise-de-dados",
-      "notion_page_id": "367f5b13-1dbd-8166-b663-eec25419e5bf",
+      "notion_page_id": "ff0c2da1-4048-8372-89e7-017e0a82de39",
       "nome": "Programação com ênfase em Análise de Dados",
       "nivel": "formação inicial e continuada",
       "tipo_oferta": "FIC",
@@ -90,7 +90,7 @@
     },
     {
       "curso_slug": "programacao-web",
-      "notion_page_id": "367f5b13-1dbd-8130-bbe3-e268039ebd38",
+      "notion_page_id": "880c2da1-4048-826e-89c5-01ecf61168d6",
       "nome": "Programação Web",
       "nivel": "formação inicial e continuada",
       "tipo_oferta": "FIC",
@@ -121,7 +121,7 @@
     },
     {
       "curso_slug": "tecnico-em-agente-comunitario-de-saude",
-      "notion_page_id": "367f5b13-1dbd-81b3-9ec2-f563ba5c3315",
+      "notion_page_id": "45bc2da1-4048-82b8-b64b-01b1b724ab8d",
       "nome": "Técnico em Agente Comunitário de Saúde",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -131,7 +131,7 @@
     },
     {
       "curso_slug": "tecnico-em-logistica",
-      "notion_page_id": "367f5b13-1dbd-81bc-98fc-f999330db98f",
+      "notion_page_id": "c9fc2da1-4048-821a-8020-812fc3d0e689",
       "nome": "Técnico em Logística",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -141,7 +141,7 @@
     },
     {
       "curso_slug": "tecnico-em-meio-ambiente",
-      "notion_page_id": "367f5b13-1dbd-81ed-99de-e1cb9c25d2e6",
+      "notion_page_id": "33ec2da1-4048-820f-b81a-01fe59f15878",
       "nome": "Técnico em Meio Ambiente",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -151,7 +151,7 @@
     },
     {
       "curso_slug": "tecnico-em-melhoria-de-processos",
-      "notion_page_id": "367f5b13-1dbd-81de-ba00-f107fda34d0b",
+      "notion_page_id": "96bc2da1-4048-832a-b782-016b30ec7bde",
       "nome": "Técnico em Melhoria de Processos",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -193,11 +193,11 @@
             "tipo": "Suspensão"
           },
           {
-            "numero": "23411.005166/2020-38",
+            "numero": "23411.017355/2020-53",
             "tipo": "abertura OLD"
           },
           {
-            "numero": "23411.017355/2020-53",
+            "numero": "23411.005166/2020-38",
             "tipo": "abertura OLD"
           }
         ]
@@ -205,7 +205,7 @@
     },
     {
       "curso_slug": "tecnico-em-sistemas-de-energia-renovavel-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-81f1-b676-c39748960d78",
+      "notion_page_id": "89ac2da1-4048-832b-9d58-817b9570a4f1",
       "nome": "Técnico em Sistemas de Energia Renovável",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -246,15 +246,14 @@
         "processos": [
           {
             "numero": "23411.012333/2025-10",
-            "tipo": "abertura OLD",
-            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 50. Aprovado Consup"
+            "tipo": "abertura OLD"
           }
         ]
       }
     },
     {
       "curso_slug": "tecnologia-em-processos-gerenciais",
-      "notion_page_id": "367f5b13-1dbd-810e-a7f8-ff61319c1721",
+      "notion_page_id": "a68c2da1-4048-83c1-8ca8-819486844548",
       "nome": "Tecnologia em Processos Gerenciais",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

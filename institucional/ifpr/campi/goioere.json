@@ -11,7 +11,7 @@
   "cursos": [
     {
       "curso_slug": "tecnico-em-informatica",
-      "notion_page_id": "367f5b13-1dbd-81e5-b0e8-f109b21f387d",
+      "notion_page_id": "a85c2da1-4048-8380-9246-81a02c45654f",
       "nome": "Técnico em Informática",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -49,21 +49,21 @@
       "sei": {
         "processos": [
           {
-            "numero": "23411.017825/2025-93",
-            "tipo": "Ajuste PPC",
-            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 13. Encaminhado para SOC/CIA/Consepe em 16/04/2026"
-          },
-          {
             "numero": "23411.008038/2024-70",
             "tipo": "Ajuste PPC",
             "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 49. Enviado à Proens - concluído"
+          },
+          {
+            "numero": "23411.017825/2025-93",
+            "tipo": "Ajuste PPC",
+            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 13. Encaminhado para SOC/CIA/Consepe em 16/04/2026"
           }
         ]
       }
     },
     {
       "curso_slug": "tecnico-em-producao-de-moda",
-      "notion_page_id": "367f5b13-1dbd-81e7-adef-e6ca5016c747",
+      "notion_page_id": "e21c2da1-4048-828e-aa50-81558b2c8309",
       "nome": "Técnico em Produção de Moda",
       "nivel": "médio",
       "tipo_oferta": "integrado",

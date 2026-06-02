@@ -12,7 +12,7 @@
   "cursos": [
     {
       "curso_slug": "bacharelado-em-agronomia",
-      "notion_page_id": "367f5b13-1dbd-8191-a771-eb7c12a7808c",
+      "notion_page_id": "1fdc2da1-4048-82a0-b10c-810f1c9d94ee",
       "nome": "Bacharelado em Agronomia",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -42,7 +42,7 @@
     },
     {
       "curso_slug": "especializacao-em-educacao-ciencia-e-tecnologia",
-      "notion_page_id": "367f5b13-1dbd-819b-a28e-f6d13435b06c",
+      "notion_page_id": "90cc2da1-4048-82e5-9a41-8151d2c2eb40",
       "nome": "Especialização em Educação, Ciência e Tecnologia",
       "nivel": "pós-graduação",
       "tipo_oferta": "especialização",
@@ -73,7 +73,7 @@
     },
     {
       "curso_slug": "tecnico-em-informatica-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-8117-8658-efbcea7d8ac6",
+      "notion_page_id": "770c2da1-4048-8215-aede-013f71105d2c",
       "nome": "Técnico em Informática",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -119,7 +119,7 @@
     },
     {
       "curso_slug": "tecnico-em-manutencao-e-suporte-em-informatica-proeja",
-      "notion_page_id": "367f5b13-1dbd-8140-b03b-ff110ec427b9",
+      "notion_page_id": "da4c2da1-4048-83a4-914d-815de1ecc014",
       "nome": "Técnico em Manutenção e Suporte em Informática PROEJA",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -150,7 +150,7 @@
     },
     {
       "curso_slug": "tecnico-em-meio-ambiente-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-81e2-9ed0-d2e6218cde1c",
+      "notion_page_id": "2c5c2da1-4048-8301-948a-81b11327db3d",
       "nome": "Técnico em Meio Ambiente",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -196,7 +196,7 @@
     },
     {
       "curso_slug": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
-      "notion_page_id": "367f5b13-1dbd-81a0-b889-fa5e5bd263ff",
+      "notion_page_id": "192c2da1-4048-8293-8b59-011edc316cd8",
       "nome": "Tecnologia em Analise e Desenvolvimento de Sistemas",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

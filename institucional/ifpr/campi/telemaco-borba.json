@@ -12,7 +12,7 @@
   "cursos": [
     {
       "curso_slug": "engenharia-eletrica",
-      "notion_page_id": "367f5b13-1dbd-8101-9c4a-cd21476e112e",
+      "notion_page_id": "448c2da1-4048-8377-bae8-81e25fd63d16",
       "nome": "Engenharia Elétrica",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -42,7 +42,7 @@
     },
     {
       "curso_slug": "licenciatura-em-fisica",
-      "notion_page_id": "367f5b13-1dbd-8157-bcef-dff39701ac84",
+      "notion_page_id": "fa2c2da1-4048-839f-a420-812f9e0e5cd7",
       "nome": "Licenciatura em Física",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -72,7 +72,7 @@
     },
     {
       "curso_slug": "tecnico-em-automacao-industrial-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-81fc-a17d-e9d90d3e48bd",
+      "notion_page_id": "c4dc2da1-4048-83d5-9fa4-01c1ab582206",
       "nome": "Técnico em Automação Industrial",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -122,7 +122,7 @@
     },
     {
       "curso_slug": "tecnico-em-eletromecanica-subsequente",
-      "notion_page_id": "36cf5b13-1dbd-81b9-b396-e4da2d83c8c5",
+      "notion_page_id": "42cc2da1-4048-830a-8a50-81f302cf9057",
       "nome": "Técnico em Eletromecânica",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -133,15 +133,14 @@
         "processos": [
           {
             "numero": "23411.011619/2025-70",
-            "tipo": "Reversão Suspensão",
-            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 4. 12/05 Recebimento do processo na Dentec"
+            "tipo": "Reversão Suspensão"
           }
         ]
       }
     },
     {
       "curso_slug": "tecnico-em-eletrotecnica-integrado-ao-ensino-medio",
-      "notion_page_id": "36cf5b13-1dbd-819c-ad4c-c867bb91ab4c",
+      "notion_page_id": "430c2da1-4048-828c-bed5-01b0f8b3e240",
       "nome": "Técnico em Eletrotécnica",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -163,7 +162,7 @@
     },
     {
       "curso_slug": "tecnico-em-informatica-para-internet-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-81c2-a47c-ebd88281594e",
+      "notion_page_id": "385c2da1-4048-831d-ab8b-0146516bd4f1",
       "nome": "Técnico em Informática para Internet",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -217,7 +216,7 @@
     },
     {
       "curso_slug": "tecnico-em-instrumentacao-industrial-subsequente",
-      "notion_page_id": "36cf5b13-1dbd-81ea-ba91-fd2f32e994cb",
+      "notion_page_id": "5f9c2da1-4048-82d9-a42c-81fe40402c8f",
       "nome": "Técnico em Instrumentação Industrial",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -239,7 +238,7 @@
     },
     {
       "curso_slug": "tecnico-em-mecanica",
-      "notion_page_id": "367f5b13-1dbd-8145-9202-e796e84bc193",
+      "notion_page_id": "edec2da1-4048-82a3-ad7f-010b0ae7d2d9",
       "nome": "Técnico em Mecânica",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -289,7 +288,7 @@
     },
     {
       "curso_slug": "tecnico-em-programacao-de-jogos-digitais",
-      "notion_page_id": "367f5b13-1dbd-81bd-b9ad-ef240997ff4e",
+      "notion_page_id": "5f9c2da1-4048-8274-b1da-016a44250b18",
       "nome": "Técnico em Programação de Jogos Digitais",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -338,7 +337,7 @@
     },
     {
       "curso_slug": "tecnologia-em-manutencao-industrial",
-      "notion_page_id": "367f5b13-1dbd-812e-a843-fe21b53653d1",
+      "notion_page_id": "d77c2da1-4048-8341-9d9a-0186dac88edc",
       "nome": "Tecnologia em Manutenção Industrial",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

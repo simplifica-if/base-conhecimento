@@ -12,7 +12,7 @@
   "cursos": [
     {
       "curso_slug": "tecnico-em-administracao",
-      "notion_page_id": "367f5b13-1dbd-81a8-9c48-cbf6a1019961",
+      "notion_page_id": "9afc2da1-4048-821a-aa0a-01234ccf1c65",
       "nome": "Técnico em Administração",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -34,14 +34,14 @@
         "markdown_path": "institucional/ifpr/ppcs/barracao/tecnico-em-administracao.md",
         "metadados": {
           "ano_documento": {
-            "ano": 2022,
-            "trecho_fonte": "Ano do documento registrado no Notion: 2022",
-            "status_curadoria": "precisa_revisao"
+            "ano": 2023,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2023",
+            "status_curadoria": "revisado"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais Mínimo: 20. Máximo: 40",
-            "status_curadoria": "precisa_revisao",
+            "status_curadoria": "revisado",
             "minimo": 20,
             "maximo": 40
           }
@@ -63,7 +63,7 @@
     },
     {
       "curso_slug": "tecnico-em-informatica",
-      "notion_page_id": "367f5b13-1dbd-8117-9b45-fb7eb0f75d49",
+      "notion_page_id": "37ac2da1-4048-8291-9de8-81851340f1e1",
       "nome": "Técnico em Informática",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -85,14 +85,14 @@
         "markdown_path": "institucional/ifpr/ppcs/barracao/tecnico-em-informatica.md",
         "metadados": {
           "ano_documento": {
-            "ano": 2022,
-            "trecho_fonte": "Ano do documento registrado no Notion: 2022",
-            "status_curadoria": "precisa_revisao"
+            "ano": 2023,
+            "trecho_fonte": "Ano do documento registrado no Notion: 2023",
+            "status_curadoria": "revisado"
           },
           "vagas": {
             "quantidade": 40,
             "trecho_fonte": "Vagas totais Número mínimo de vagas do curso: 20. Número máximo de vagas do curso: 40",
-            "status_curadoria": "precisa_revisao",
+            "status_curadoria": "revisado",
             "minimo": 20,
             "maximo": 40
           }
@@ -107,7 +107,7 @@
           },
           {
             "numero": "23411.003765/2017-11",
-            "tipo": "revisão de PPC vigente",
+            "tipo": "outro",
             "trecho_fonte": "Revisado em 27/05/26 via sei-cli e PPC convertido.\n\nEvidências\n- PPC: 23411.003765/2017-11\n- Tipo no SEI: Ensino: Projeto Pedagógico de Curso - Técnico.\n- Especificação no SEI: Projeto Político Pedagógico do Curso Técnico em Informática - Campus Avançado Barracão.\n- Data Última mov.: 27/11/23."
           }
         ]
@@ -115,7 +115,7 @@
     },
     {
       "curso_slug": "tecnologia-em-comercio-exterior",
-      "notion_page_id": "367f5b13-1dbd-8152-83ab-c2ed70803674",
+      "notion_page_id": "3a9c2da1-4048-83ff-bfca-0148f4ba2663",
       "nome": "Tecnologia em Comércio Exterior",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

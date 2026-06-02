@@ -12,7 +12,7 @@
   "cursos": [
     {
       "curso_slug": "licenciatura-em-quimica",
-      "notion_page_id": "367f5b13-1dbd-8140-a383-f6399f25158a",
+      "notion_page_id": "1ebc2da1-4048-82d9-aacd-017b0af99586",
       "nome": "Licenciatura em Química",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -42,7 +42,7 @@
     },
     {
       "curso_slug": "tecnico-em-edificacoes",
-      "notion_page_id": "367f5b13-1dbd-8107-8ef8-da8b6b9807fc",
+      "notion_page_id": "f48c2da1-4048-8306-954b-8190e0586c6a",
       "nome": "Técnico em Edificações",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -87,7 +87,7 @@
     },
     {
       "curso_slug": "tecnico-em-informatica",
-      "notion_page_id": "367f5b13-1dbd-8125-83c1-dbe426d85335",
+      "notion_page_id": "bedc2da1-4048-828a-a6ae-011cac55ced0",
       "nome": "Técnico em Informática",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -134,7 +134,7 @@
     },
     {
       "curso_slug": "tecnico-em-quimica",
-      "notion_page_id": "367f5b13-1dbd-8178-a1ee-f0fb092c2214",
+      "notion_page_id": "669c2da1-4048-838c-a813-01a8c599d37d",
       "nome": "Técnico em Química",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -181,7 +181,7 @@
     },
     {
       "curso_slug": "tecnologia-em-analise-e-desenvolvimento-de-sistemas",
-      "notion_page_id": "367f5b13-1dbd-81c1-8ece-e01547c60141",
+      "notion_page_id": "506c2da1-4048-8210-a3e4-011a4e47c721",
       "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",
@@ -211,7 +211,7 @@
     },
     {
       "curso_slug": "tecnologia-em-gestao-ambiental",
-      "notion_page_id": "367f5b13-1dbd-81c5-81b8-eee5e2d96960",
+      "notion_page_id": "54dc2da1-4048-8343-b43c-81d7523a2a36",
       "nome": "Tecnologia em Gestão Ambiental",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",

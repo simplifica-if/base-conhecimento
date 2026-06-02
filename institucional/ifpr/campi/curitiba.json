@@ -12,7 +12,7 @@
   "cursos": [
     {
       "curso_slug": "aperfeicoamento-em-educacao-para-relacoes-etnico-raciais",
-      "notion_page_id": "367f5b13-1dbd-81c6-997b-dc6db50ccd1c",
+      "notion_page_id": "0e7c2da1-4048-82e5-bf56-01b15fe61156",
       "nome": "Aperfeiçoamento em Educação para Relações Étnico-raciais",
       "nivel": "pós-graduação",
       "tipo_oferta": "especialização",
@@ -45,7 +45,7 @@
     },
     {
       "curso_slug": "bacharelado-em-ciencias-contabeis",
-      "notion_page_id": "367f5b13-1dbd-8196-a177-d75a9534c5b8",
+      "notion_page_id": "8cfc2da1-4048-83db-8622-0180bb7134f8",
       "nome": "Bacharelado em Ciências Contábeis",
       "nivel": "superior",
       "tipo_oferta": "bacharelado",
@@ -79,7 +79,7 @@
     },
     {
       "curso_slug": "especializacao-em-ciencias-da-natureza-ensino-de-fisica-e-astronomia",
-      "notion_page_id": "367f5b13-1dbd-8181-ad6d-e696327c1f23",
+      "notion_page_id": "ab8c2da1-4048-835a-947c-81fded4b8cb9",
       "nome": "Especialização em Ciências da Natureza: Ensino de Física e Astronomia",
       "nivel": "pós-graduação",
       "tipo_oferta": "especialização",
@@ -112,7 +112,7 @@
     },
     {
       "curso_slug": "especializacao-em-design-educacional",
-      "notion_page_id": "367f5b13-1dbd-8137-b26b-eaf41477464b",
+      "notion_page_id": "3dfc2da1-4048-8284-977f-012646dcda2a",
       "nome": "Especialização em Design Educacional: Formação docente para construção de materiais didáticos digitais",
       "nivel": "pós-graduação",
       "tipo_oferta": "especialização",
@@ -122,7 +122,7 @@
     },
     {
       "curso_slug": "especializacao-em-educacao-musical-para-educacao-basica",
-      "notion_page_id": "367f5b13-1dbd-8194-9358-d5affc119aa2",
+      "notion_page_id": "4abc2da1-4048-83d4-90d0-0108a4858aaa",
       "nome": "Especialização em Educação Musical para a Educação Básica",
       "nivel": "pós-graduação",
       "tipo_oferta": "especialização",
@@ -138,7 +138,7 @@
     },
     {
       "curso_slug": "especializacao-em-educacao-profissional",
-      "notion_page_id": "367f5b13-1dbd-8151-b595-c3efcf7df788",
+      "notion_page_id": "a28c2da1-4048-8277-accc-818a8d0efe5d",
       "nome": "Especialização em Educação Profissional",
       "nivel": "pós-graduação",
       "tipo_oferta": "especialização",
@@ -171,7 +171,7 @@
     },
     {
       "curso_slug": "especializacao-em-gestao-e-negocios",
-      "notion_page_id": "367f5b13-1dbd-810c-a42a-e3f729e4c688",
+      "notion_page_id": "f55c2da1-4048-8215-acf8-817240c4346d",
       "nome": "Especialização em Gestão e Negócios",
       "nivel": "pós-graduação",
       "tipo_oferta": "especialização",
@@ -187,7 +187,7 @@
     },
     {
       "curso_slug": "especializacao-em-gestao-empresarial-contabil-e-tributaria",
-      "notion_page_id": "367f5b13-1dbd-81ea-bf01-f74fe100a0ef",
+      "notion_page_id": "98bc2da1-4048-83cf-83d2-019df81efdb5",
       "nome": "Especialização em Gestão Empresarial, Contábil e Tributária",
       "nivel": "pós-graduação",
       "tipo_oferta": "especialização",
@@ -203,7 +203,7 @@
     },
     {
       "curso_slug": "especializacao-em-gestao-publica",
-      "notion_page_id": "367f5b13-1dbd-818b-a34b-d5cff305705a",
+      "notion_page_id": "e54c2da1-4048-82d3-abbc-0132f1b3b3a3",
       "nome": "Especialização em Gestão Pública",
       "nivel": "pós-graduação",
       "tipo_oferta": "especialização",
@@ -236,7 +236,7 @@
     },
     {
       "curso_slug": "especializacao-em-gestao-social-de-politicas-publicas",
-      "notion_page_id": "367f5b13-1dbd-81c6-9e67-d7120906aaf9",
+      "notion_page_id": "76dc2da1-4048-838a-b039-015265682de4",
       "nome": "Especialização em Gestão Social de Políticas Públicas",
       "nivel": "pós-graduação",
       "tipo_oferta": "especialização",
@@ -269,7 +269,7 @@
     },
     {
       "curso_slug": "licenciatura-em-educacao-do-campo",
-      "notion_page_id": "367f5b13-1dbd-8173-9e39-db1c70df9026",
+      "notion_page_id": "7e0c2da1-4048-839b-8550-01a74fbcfadc",
       "nome": "Licenciatura em Educação do Campo",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -301,7 +301,7 @@
     },
     {
       "curso_slug": "licenciatura-em-pedagogia",
-      "notion_page_id": "367f5b13-1dbd-8145-8781-e1d9efaf7fb2",
+      "notion_page_id": "22dc2da1-4048-8246-a454-81ce8901c078",
       "nome": "Licenciatura em Pedagogia",
       "nivel": "superior",
       "tipo_oferta": "licenciatura",
@@ -335,7 +335,7 @@
     },
     {
       "curso_slug": "mestrado-profissional-em-educacao-profissional-e-tecnologica-profept",
-      "notion_page_id": "367f5b13-1dbd-814f-bb35-ee711173cc48",
+      "notion_page_id": "85ac2da1-4048-8206-a929-815a0f40d61a",
       "nome": "Mestrado Profissional em Educação Profissional e Tecnológica (ProfEPT)",
       "nivel": "pós-graduação",
       "tipo_oferta": "mestrado",
@@ -345,7 +345,7 @@
     },
     {
       "curso_slug": "mestrado-profissional-em-propriedade-intelectual-e-transferencia-de-tecnologia-para-inovacao-profnit",
-      "notion_page_id": "367f5b13-1dbd-81c6-b4c4-d28e0b10a117",
+      "notion_page_id": "6c8c2da1-4048-82f0-9266-014ac26b952b",
       "nome": "Mestrado Profissional em Propriedade Intelectual e Transferência de Tecnologia para Inovação (PROFNIT)",
       "nivel": "pós-graduação",
       "tipo_oferta": "mestrado",
@@ -355,7 +355,7 @@
     },
     {
       "curso_slug": "tecnico-em-administracao-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-81e4-84c0-ca1f9f5ffbdf",
+      "notion_page_id": "d67c2da1-4048-834d-ae93-81c94bddfb11",
       "nome": "Técnico em Administração",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -403,7 +403,7 @@
     },
     {
       "curso_slug": "tecnico-em-condominio",
-      "notion_page_id": "367f5b13-1dbd-81c5-a633-f46133e11685",
+      "notion_page_id": "aa3c2da1-4048-8257-94e9-01f1da9839c6",
       "nome": "Técnico em Condomínio",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -456,7 +456,7 @@
     },
     {
       "curso_slug": "tecnico-em-contabilidade-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-81a4-82c3-facf3518ffbe",
+      "notion_page_id": "8bfc2da1-4048-824b-bd69-01b9bda19ba3",
       "nome": "Técnico em Contabilidade",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -505,7 +505,7 @@
     },
     {
       "curso_slug": "tecnico-em-defesa-civil-ead",
-      "notion_page_id": "367f5b13-1dbd-8147-a190-c77900262430",
+      "notion_page_id": "36dc2da1-4048-82ab-b0f8-81af949edc9c",
       "nome": "Técnico em Defesa Civil",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -515,7 +515,7 @@
     },
     {
       "curso_slug": "tecnico-em-edificacoes",
-      "notion_page_id": "367f5b13-1dbd-812c-898d-de7ca4dcb687",
+      "notion_page_id": "2ffc2da1-4048-8356-a85b-81eaf7206781",
       "nome": "Técnico em Edificações",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -556,8 +556,7 @@
         "processos": [
           {
             "numero": "23411.021515/2022-21",
-            "tipo": "Ajuste PPC",
-            "trecho_fonte": "Revisado em 26/05/26 via sei-cli. Origem: https://docs.google.com/spreadsheets/d/1ZyZkQIWHRlaMyiYj9RbO1UofhgZJTmZuMZtr2kMTs2A/edit?gid=732417574#gid=732417574, aba TAREFAS e ATIVIDADES, linha 69. Enviado ao campus - viabilidade favorável"
+            "tipo": "Ajuste PPC"
           },
           {
             "numero": "23397.000293/2014-28",
@@ -568,7 +567,7 @@
     },
     {
       "curso_slug": "tecnico-em-eletromecanica",
-      "notion_page_id": "367f5b13-1dbd-81a0-9928-ff408425df2e",
+      "notion_page_id": "93cc2da1-4048-8298-b2ce-819ab0227864",
       "nome": "Técnico em Eletromecânica",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -608,7 +607,7 @@
     },
     {
       "curso_slug": "tecnico-em-eletronica-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-8146-a7a7-c2405fce913a",
+      "notion_page_id": "a16c2da1-4048-82ff-a0c6-01f90687329d",
       "nome": "Técnico em Eletrônica",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -657,7 +656,7 @@
     },
     {
       "curso_slug": "tecnico-em-eletrotecnica",
-      "notion_page_id": "367f5b13-1dbd-81b4-a816-ef7535e6e0e9",
+      "notion_page_id": "42ec2da1-4048-8245-849c-0176f02f1c6f",
       "nome": "Técnico em Eletrotécnica",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -697,7 +696,7 @@
     },
     {
       "curso_slug": "tecnico-em-enfermagem",
-      "notion_page_id": "367f5b13-1dbd-81a6-b93d-f453e81f3a60",
+      "notion_page_id": "2f3c2da1-4048-8291-a6bd-81601bf5090e",
       "nome": "Técnico em Enfermagem",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -728,7 +727,7 @@
     },
     {
       "curso_slug": "tecnico-em-eventos",
-      "notion_page_id": "367f5b13-1dbd-8170-bdf6-f85e27310db2",
+      "notion_page_id": "a80c2da1-4048-82b9-9a3e-01f604908e82",
       "nome": "Técnico em Eventos",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -768,7 +767,7 @@
     },
     {
       "curso_slug": "tecnico-em-informatica-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-81e4-9a90-d81343941892",
+      "notion_page_id": "a47c2da1-4048-82d0-982f-81d14711bf98",
       "nome": "Técnico em Informática",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -817,7 +816,7 @@
     },
     {
       "curso_slug": "tecnico-em-massoterapia",
-      "notion_page_id": "367f5b13-1dbd-81ee-835e-d2cf5423b87e",
+      "notion_page_id": "b01c2da1-4048-8339-a772-01f49b276009",
       "nome": "Técnico em Massoterapia",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -866,7 +865,7 @@
     },
     {
       "curso_slug": "tecnico-em-mecanica",
-      "notion_page_id": "367f5b13-1dbd-8196-a638-e770953bd77d",
+      "notion_page_id": "906c2da1-4048-8382-84e7-01f161283b68",
       "nome": "Técnico em Mecânica",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -905,7 +904,7 @@
     },
     {
       "curso_slug": "tecnico-em-mecanica-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-81e2-9962-c460544ddb64",
+      "notion_page_id": "ef7c2da1-4048-83c8-935c-81cb69a1d1bc",
       "nome": "Técnico em Mecânica",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -954,7 +953,7 @@
     },
     {
       "curso_slug": "tecnico-em-petroleo-e-gas-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-81ba-8e10-eb6238890d24",
+      "notion_page_id": "2f2c2da1-4048-82fc-ad63-8193deeaffcc",
       "nome": "Técnico em Petróleo e Gás",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -1003,7 +1002,7 @@
     },
     {
       "curso_slug": "tecnico-em-processos-fotograficos",
-      "notion_page_id": "367f5b13-1dbd-81ad-9331-c730599e0d57",
+      "notion_page_id": "87ac2da1-4048-8253-a7c1-814b364097c2",
       "nome": "Técnico em Processos Fotográficos",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -1043,7 +1042,7 @@
     },
     {
       "curso_slug": "tecnico-em-processos-fotograficos-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-819b-b281-d8a1781f07bc",
+      "notion_page_id": "465c2da1-4048-8321-9b79-81145e6ed0ce",
       "nome": "Técnico em Processos Fotográficos",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -1092,7 +1091,7 @@
     },
     {
       "curso_slug": "tecnico-em-producao-de-audio-e-video",
-      "notion_page_id": "367f5b13-1dbd-81d1-b8c4-c1074b1e3aba",
+      "notion_page_id": "8c8c2da1-4048-82ef-9fcd-8165ad2b357f",
       "nome": "Técnico em Produção de Áudio e Vídeo",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -1132,7 +1131,7 @@
     },
     {
       "curso_slug": "tecnico-em-programacao-de-jogos-digitais-integrado-ao-ensino-medio",
-      "notion_page_id": "367f5b13-1dbd-8150-88e2-c3ba8691ff90",
+      "notion_page_id": "16ac2da1-4048-8202-b585-81f208acfed6",
       "nome": "Técnico em Programação de Jogos Digitais",
       "nivel": "médio",
       "tipo_oferta": "integrado",
@@ -1181,7 +1180,7 @@
     },
     {
       "curso_slug": "tecnico-em-protese-dentaria",
-      "notion_page_id": "367f5b13-1dbd-818f-bd67-f39dc6118ea9",
+      "notion_page_id": "c43c2da1-4048-83a5-830e-01c58d958787",
       "nome": "Técnico em Prótese Dentária",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -1211,7 +1210,7 @@
     },
     {
       "curso_slug": "tecnico-em-radiologia",
-      "notion_page_id": "367f5b13-1dbd-81a3-9118-dac79e5e040e",
+      "notion_page_id": "8d8c2da1-4048-839e-8edc-81cb27541b9d",
       "nome": "Técnico em Radiologia",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -1264,7 +1263,7 @@
     },
     {
       "curso_slug": "tecnico-em-saude-bucal",
-      "notion_page_id": "367f5b13-1dbd-8122-825c-f6d9caee6682",
+      "notion_page_id": "7bec2da1-4048-8279-a297-010bdc36b220",
       "nome": "Técnico em Saúde Bucal",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -1295,6 +1294,8 @@
             "quantidade": 25,
             "trecho_fonte": "Número máximo de vagas por ingresso (anual): 25 vagas; Número mínimo de vagas por ingresso (anual): 15 vagas; Reserva de vagas por ingresso (anual): 2 vagas",
             "status_curadoria": "revisado",
+            "minimo": 15,
+            "maximo": 25,
             "periodicidade": "anual",
             "revisado_em": "2026-05-11"
           }
@@ -1316,7 +1317,7 @@
     },
     {
       "curso_slug": "tecnico-em-soldagem-subsequente",
-      "notion_page_id": "36cf5b13-1dbd-81f8-acb2-ee435ed1f9d1",
+      "notion_page_id": "83cc2da1-4048-8373-82af-01c03f49eb01",
       "nome": "Técnico em Soldagem",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -1348,15 +1349,19 @@
       "sei": {
         "processos": [
           {
+            "numero": "23411.017821/2024-24",
+            "tipo": "Abertura PAC"
+          },
+          {
             "numero": "23411.007447/2025-30",
-            "tipo": "abertura OLD"
+            "tipo": "Abertura PPC"
           }
         ]
       }
     },
     {
       "curso_slug": "tecnico-em-telecomunicacoes",
-      "notion_page_id": "367f5b13-1dbd-8169-ac68-d1c505241d53",
+      "notion_page_id": "f9ec2da1-4048-8242-887b-011b0b56695a",
       "nome": "Técnico em Telecomunicações",
       "nivel": "médio",
       "tipo_oferta": "subsequente",
@@ -1392,7 +1397,7 @@
     },
     {
       "curso_slug": "tecnologia-em-gestao-publica",
-      "notion_page_id": "367f5b13-1dbd-81f8-8146-e136a071ac48",
+      "notion_page_id": "5bfc2da1-4048-82ad-ab5a-0198825b8ac8",
       "nome": "Tecnologia em Gestão Pública",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",
@@ -1425,7 +1430,7 @@
     },
     {
       "curso_slug": "tecnologia-em-massoterapia",
-      "notion_page_id": "367f5b13-1dbd-81a0-ae1e-c6ae0c90b0c3",
+      "notion_page_id": "058c2da1-4048-82e7-85a3-81eb06786d35",
       "nome": "Tecnologia em Massoterapia",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",
@@ -1459,7 +1464,7 @@
     },
     {
       "curso_slug": "tecnologia-em-processos-escolares",
-      "notion_page_id": "367f5b13-1dbd-8124-94d7-cac49e1d662e",
+      "notion_page_id": "32cc2da1-4048-8241-af36-81a97dcfe6aa",
       "nome": "Tecnologia em Processos Escolares",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",
@@ -1491,7 +1496,7 @@
     },
     {
       "curso_slug": "tecnologia-em-processos-gerenciais",
-      "notion_page_id": "367f5b13-1dbd-81dc-8b0e-f66408d849ac",
+      "notion_page_id": "bf8c2da1-4048-8360-9030-8148106567f7",
       "nome": "Tecnologia em Processos Gerenciais",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",
@@ -1523,7 +1528,7 @@
     },
     {
       "curso_slug": "tecnologia-em-secretariado",
-      "notion_page_id": "367f5b13-1dbd-812d-8034-c70b55c708c9",
+      "notion_page_id": "8edc2da1-4048-8270-b60f-81bee7954b10",
       "nome": "Tecnologia em Secretariado",
       "nivel": "superior",
       "tipo_oferta": "graduação tecnológica",
