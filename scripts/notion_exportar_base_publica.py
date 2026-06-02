@@ -28,12 +28,42 @@ CURADORIA_STATUS_ALIASES = {
     "pendente": "pendente",
 }
 VALID_CURADORIA_STATUS = {"dados_pendentes", "dados_parciais", "dados_curados"}
+REQUIRED_DATABASES = {
+    "campi",
+    "cursos",
+    "movimentacoes_cursos",
+    "tarefas",
+    "processos_seletivos",
+    "editais_ingresso",
+    "ofertas_ingresso",
+}
+SLUG_RE = re.compile(r"^[a-z0-9]+(?:-[a-z0-9]+)*$")
+HTTPS_RE = re.compile(r"^https://")
 
 
 def load_config() -> dict[str, Any]:
     if not CONFIG_PATH.exists():
         raise NotionError("config/notion.json não encontrado. Configure os IDs da base Notion operacional.")
     return json.loads(CONFIG_PATH.read_text(encoding="utf-8"))
+
+
+def validate_config(config: dict[str, Any]) -> list[str]:
+    errors: list[str] = []
+    parent_page_id = config.get("parent_page_id")
+    if not isinstance(parent_page_id, str) or not parent_page_id.strip():
+        errors.append("config/notion.json: parent_page_id ausente")
+    databases = config.get("databases")
+    if not isinstance(databases, dict):
+        return ["config/notion.json: databases deve ser objeto"]
+    for key in sorted(REQUIRED_DATABASES):
+        item = databases.get(key)
+        if not isinstance(item, dict):
+            errors.append(f"config/notion.json: base ausente: {key}")
+            continue
+        for field in ["id", "data_source_id", "title"]:
+            if not isinstance(item.get(field), str) or not item[field].strip():
+                errors.append(f"config/notion.json: databases.{key}.{field} ausente")
+    return errors
 
 
 def write_json(path: Path, data: object, dry_run: bool) -> None:
@@ -181,6 +211,27 @@ def markdown_path_from_link(prop: dict[str, Any] | None) -> str:
     return ""
 
 
+def page_title(page: dict[str, Any]) -> str:
+    props = page.get("properties", {})
+    for name in ["Nome", "Título", "Movimentação"]:
+        value = plain_text(props.get(name)).strip()
+        if value:
+            return value
+    return page.get("id", "sem-id")
+
+
+def page_label(kind: str, page: dict[str, Any]) -> str:
+    return f"{kind} '{page_title(page)}' ({page.get('id', 'sem-id')})"
+
+
+def is_slug(value: object) -> bool:
+    return isinstance(value, str) and bool(SLUG_RE.fullmatch(value))
+
+
+def is_https(value: object) -> bool:
+    return isinstance(value, str) and bool(HTTPS_RE.match(value))
+
+
 class Exporter:
     def __init__(self, client: NotionClient, databases: dict[str, Any]) -> None:
         self.client = client
@@ -211,6 +262,18 @@ class Exporter:
             cursor = response.get("next_cursor")
 
     def export(self, dry_run: bool) -> dict[str, int]:
+        self.load_all()
+        notion_counts = {key: len(value) for key, value in sorted(self.pages.items())}
+        print("\nRegistros lidos do Notion:")
+        print(json.dumps(notion_counts, ensure_ascii=False, indent=2))
+
+        audit_errors = self.audit_pages()
+        if audit_errors:
+            print("\nAuditoria do Notion encontrou problemas que impedem exportação confiável:")
+            for error in audit_errors:
+                print(f"- {error}")
+            raise NotionError(f"Auditoria falhou com {len(audit_errors)} problema(s).")
+
         campi = self.build_campi()
         processos = self.build_processos_seletivos()
 
@@ -223,12 +286,240 @@ class Exporter:
         write_json(PROCESSOS_SELETIVOS_INDEX_PATH, self.build_processos_index(processos), dry_run)
 
         return {
+            "notion_lidos": notion_counts,
             "campi": len(campi),
             "cursos": sum(len(campus.get("cursos", [])) for campus in campi),
             "processos_seletivos": len(processos),
             "editais": sum(len(processo.get("editais", [])) for processo in processos),
             "ofertas": sum(len(processo.get("ofertas", [])) for processo in processos),
         }
+
+    def load_all(self) -> None:
+        for key in sorted(REQUIRED_DATABASES):
+            self.query_all(key)
+
+    def audit_pages(self) -> list[str]:
+        errors: list[str] = []
+        campus_pages = self.pages.get("campi", [])
+        course_pages = self.pages.get("cursos", [])
+        movimentacao_pages = self.pages.get("movimentacoes_cursos", [])
+        processo_pages = self.pages.get("processos_seletivos", [])
+        edital_pages = self.pages.get("editais_ingresso", [])
+        oferta_pages = self.pages.get("ofertas_ingresso", [])
+
+        campus_ids_by_page = {page["id"]: plain_text(page["properties"].get("campus_id")) for page in campus_pages}
+        course_slugs_by_page = {page["id"]: plain_text(page["properties"].get("curso_slug")) for page in course_pages}
+        processo_ids_by_page = {
+            page["id"]: plain_text(page["properties"].get("processo_seletivo_id")) for page in processo_pages
+        }
+        edital_ids_by_page = {page["id"]: plain_text(page["properties"].get("edital_id")) for page in edital_pages}
+
+        errors.extend(self.audit_campi(campus_pages))
+        errors.extend(self.audit_cursos(course_pages, campus_ids_by_page))
+        errors.extend(self.audit_movimentacoes(movimentacao_pages, course_slugs_by_page))
+        errors.extend(self.audit_processos_seletivos(processo_pages))
+        errors.extend(self.audit_editais(edital_pages, processo_ids_by_page))
+        errors.extend(
+            self.audit_ofertas(
+                oferta_pages,
+                campus_ids_by_page,
+                course_slugs_by_page,
+                processo_ids_by_page,
+                edital_ids_by_page,
+            )
+        )
+        return errors
+
+    def audit_campi(self, pages: list[dict[str, Any]]) -> list[str]:
+        errors: list[str] = []
+        seen: dict[str, str] = {}
+        for page in pages:
+            props = page["properties"]
+            label = page_label("Campus", page)
+            campus_id = plain_text(props.get("campus_id"))
+            if not is_slug(campus_id):
+                errors.append(f"{label}: campus_id ausente ou inválido")
+            elif campus_id in seen:
+                errors.append(f"{label}: campus_id duplicado com {seen[campus_id]}: {campus_id}")
+            else:
+                seen[campus_id] = label
+            if not plain_text(props.get("Nome")):
+                errors.append(f"{label}: Nome ausente")
+            for prop_name in ["Site", "Calendário acadêmico"]:
+                value = url_value(props.get(prop_name))
+                if not is_https(value):
+                    errors.append(f"{label}: {prop_name} ausente ou não HTTPS")
+        return errors
+
+    def audit_cursos(self, pages: list[dict[str, Any]], campus_ids_by_page: dict[str, str]) -> list[str]:
+        errors: list[str] = []
+        seen_by_campus: dict[tuple[str, str], str] = {}
+        for page in pages:
+            props = page["properties"]
+            label = page_label("Curso", page)
+            slug = plain_text(props.get("curso_slug"))
+            if not is_slug(slug):
+                errors.append(f"{label}: curso_slug ausente ou inválido")
+            if not plain_text(props.get("Nome")):
+                errors.append(f"{label}: Nome ausente")
+            if not select_name(props.get("Nível")):
+                errors.append(f"{label}: Nível ausente")
+            if not select_name(props.get("Forma de oferta") or props.get("Tipo de oferta")):
+                errors.append(f"{label}: Forma de oferta/Tipo de oferta ausente")
+
+            campus_relations = relation_ids(page, "Campus")
+            if len(campus_relations) != 1:
+                errors.append(f"{label}: relação Campus deve conter exatamente 1 página")
+                continue
+            campus_page_id = campus_relations[0]
+            campus_id = campus_ids_by_page.get(campus_page_id)
+            if not campus_id:
+                errors.append(f"{label}: relação Campus aponta para página desconhecida ou sem campus_id: {campus_page_id}")
+                continue
+            if is_slug(slug):
+                key = (campus_id, slug)
+                if key in seen_by_campus:
+                    errors.append(f"{label}: curso_slug duplicado no campus {campus_id} com {seen_by_campus[key]}: {slug}")
+                else:
+                    seen_by_campus[key] = label
+
+            ppc_url = url_value(props.get("PPC URL oficial"))
+            markdown_path = markdown_path_from_link(props.get("PPC Markdown Link"))
+            if ppc_url and not is_https(ppc_url):
+                errors.append(f"{label}: PPC URL oficial não HTTPS")
+            if markdown_path and is_slug(slug):
+                expected = f"institucional/ifpr/ppcs/{campus_id}/{slug}.md"
+                if markdown_path != expected:
+                    errors.append(f"{label}: PPC Markdown Link esperado {expected}, encontrado {markdown_path}")
+        return errors
+
+    def audit_movimentacoes(self, pages: list[dict[str, Any]], course_slugs_by_page: dict[str, str]) -> list[str]:
+        errors: list[str] = []
+        for page in pages:
+            label = page_label("Movimentação de curso", page)
+            course_relations = relation_ids(page, "Curso")
+            if len(course_relations) > 1:
+                errors.append(f"{label}: relação Curso deve conter no máximo 1 página")
+            for course_page_id in course_relations:
+                if course_page_id not in course_slugs_by_page:
+                    errors.append(f"{label}: relação Curso aponta para página desconhecida: {course_page_id}")
+            props = page["properties"]
+            has_sei = plain_text_from_first_existing(props, "SEI Processo", "Número SEI")
+            if has_sei and not course_relations:
+                errors.append(f"{label}: SEI Processo informado sem relação Curso")
+        return errors
+
+    def audit_processos_seletivos(self, pages: list[dict[str, Any]]) -> list[str]:
+        errors: list[str] = []
+        seen_ids: dict[str, str] = {}
+        seen_years: dict[int, str] = {}
+        for page in pages:
+            props = page["properties"]
+            label = page_label("Processo seletivo", page)
+            processo_id = plain_text(props.get("processo_seletivo_id"))
+            if not is_slug(processo_id):
+                errors.append(f"{label}: processo_seletivo_id ausente ou inválido")
+            elif processo_id in seen_ids:
+                errors.append(f"{label}: processo_seletivo_id duplicado com {seen_ids[processo_id]}: {processo_id}")
+            else:
+                seen_ids[processo_id] = label
+            if not plain_text(props.get("Nome")):
+                errors.append(f"{label}: Nome ausente")
+            year = number_value(props.get("Ano de ingresso"))
+            if year is None or year < 1900:
+                errors.append(f"{label}: Ano de ingresso ausente ou inválido")
+            elif year in seen_years:
+                errors.append(f"{label}: Ano de ingresso duplicado com {seen_years[year]}: {year}")
+            else:
+                seen_years[year] = label
+            fontes = [line.strip() for line in plain_text(props.get("Fontes")).splitlines() if line.strip()]
+            if not fontes:
+                errors.append(f"{label}: Fontes ausente")
+            for fonte in fontes:
+                if not is_https(fonte):
+                    errors.append(f"{label}: Fontes contém URL não HTTPS: {fonte}")
+        return errors
+
+    def audit_editais(self, pages: list[dict[str, Any]], processo_ids_by_page: dict[str, str]) -> list[str]:
+        errors: list[str] = []
+        seen: dict[str, str] = {}
+        for page in pages:
+            props = page["properties"]
+            label = page_label("Edital de ingresso", page)
+            edital_id = plain_text(props.get("edital_id"))
+            if not is_slug(edital_id):
+                errors.append(f"{label}: edital_id ausente ou inválido")
+            elif edital_id in seen:
+                errors.append(f"{label}: edital_id duplicado com {seen[edital_id]}: {edital_id}")
+            else:
+                seen[edital_id] = label
+            if not plain_text(props.get("Título")):
+                errors.append(f"{label}: Título ausente")
+            if not is_https(url_value(props.get("URL"))):
+                errors.append(f"{label}: URL ausente ou não HTTPS")
+            processo_relations = relation_ids(page, "Processo Seletivo")
+            if not processo_relations:
+                errors.append(f"{label}: relação Processo Seletivo ausente")
+            for processo_page_id in processo_relations:
+                if processo_page_id not in processo_ids_by_page:
+                    errors.append(f"{label}: relação Processo Seletivo aponta para página desconhecida: {processo_page_id}")
+        return errors
+
+    def audit_ofertas(
+        self,
+        pages: list[dict[str, Any]],
+        campus_ids_by_page: dict[str, str],
+        course_slugs_by_page: dict[str, str],
+        processo_ids_by_page: dict[str, str],
+        edital_ids_by_page: dict[str, str],
+    ) -> list[str]:
+        errors: list[str] = []
+        seen_by_process: dict[tuple[str, str], str] = {}
+        for page in pages:
+            props = page["properties"]
+            label = page_label("Oferta de ingresso", page)
+            oferta_id = plain_text(props.get("oferta_id"))
+            if not is_slug(oferta_id):
+                errors.append(f"{label}: oferta_id ausente ou inválido")
+            if not plain_text(props.get("Curso nome no edital")):
+                errors.append(f"{label}: Curso nome no edital ausente")
+            if not select_name(props.get("Tipo de oferta")):
+                errors.append(f"{label}: Tipo de oferta ausente")
+            if number_value(props.get("Vagas")) is None:
+                errors.append(f"{label}: Vagas ausente ou inválida")
+            if not is_https(url_value(props.get("URL fonte"))):
+                errors.append(f"{label}: URL fonte ausente ou não HTTPS")
+
+            processo_relations = relation_ids(page, "Processo Seletivo")
+            if not processo_relations:
+                errors.append(f"{label}: relação Processo Seletivo ausente")
+            for processo_page_id in processo_relations:
+                processo_id = processo_ids_by_page.get(processo_page_id)
+                if not processo_id:
+                    errors.append(f"{label}: relação Processo Seletivo aponta para página desconhecida: {processo_page_id}")
+                    continue
+                if is_slug(oferta_id):
+                    key = (processo_id, oferta_id)
+                    if key in seen_by_process:
+                        errors.append(f"{label}: oferta_id duplicado no processo {processo_id} com {seen_by_process[key]}: {oferta_id}")
+                    else:
+                        seen_by_process[key] = label
+
+            campus_relations = relation_ids(page, "Campus")
+            campus_id_original = plain_text(props.get("campus_id_original"))
+            if not campus_relations and not is_slug(campus_id_original):
+                errors.append(f"{label}: informe relação Campus ou campus_id_original válido")
+            for campus_page_id in campus_relations:
+                if campus_page_id not in campus_ids_by_page:
+                    errors.append(f"{label}: relação Campus aponta para página desconhecida: {campus_page_id}")
+
+            for course_page_id in relation_ids(page, "Curso"):
+                if course_page_id not in course_slugs_by_page:
+                    errors.append(f"{label}: relação Curso aponta para página desconhecida: {course_page_id}")
+            for edital_page_id in relation_ids(page, "Edital"):
+                if edital_page_id not in edital_ids_by_page:
+                    errors.append(f"{label}: relação Edital aponta para página desconhecida: {edital_page_id}")
+        return errors
 
     def build_campi(self) -> list[dict[str, Any]]:
         campus_pages = self.query_all("campi")
@@ -609,13 +900,22 @@ def parse_args() -> argparse.Namespace:
 
 
 def main() -> int:
-    args = parse_args()
-    config = load_config()
-    client = NotionClient.from_env()
-    counts = Exporter(client, config.get("databases", {})).export(dry_run=args.dry_run)
-    print("\nResumo:")
-    print(json.dumps(counts, ensure_ascii=False, indent=2))
-    return 0
+    try:
+        args = parse_args()
+        config = load_config()
+        config_errors = validate_config(config)
+        if config_errors:
+            for error in config_errors:
+                print(f"- {error}")
+            raise NotionError(f"Configuração Notion inválida: {len(config_errors)} problema(s).")
+        client = NotionClient.from_env()
+        counts = Exporter(client, config.get("databases", {})).export(dry_run=args.dry_run)
+        print("\nResumo:")
+        print(json.dumps(counts, ensure_ascii=False, indent=2))
+        return 0
+    except NotionError as exc:
+        print(f"\nErro: {exc}")
+        return 1
 
 
 if __name__ == "__main__":

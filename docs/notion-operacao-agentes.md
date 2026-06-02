@@ -123,7 +123,7 @@ Ao alterar dados no Notion:
 1. Confirme que `NOTION_TOKEN` está disponível em `.env.local`.
 2. Localize a base e o registro Notion correto.
 3. Aplique a alteração via API ou MCP conectado ao workspace correto.
-4. Exporte os JSONs públicos.
+4. Exporte os JSONs públicos. A exportação audita o Notion antes de escrever arquivos e falha quando encontra campos obrigatórios ausentes, IDs locais duplicados ou relações que impediriam reconstrução confiável dos JSONs.
 5. Regenere índices quando necessário.
 6. Valide a base.
 
@@ -133,6 +133,12 @@ Comandos:
 python3 scripts/notion_exportar_base_publica.py
 python3 scripts/gerar_indice_ppcs.py
 python3 scripts/validar_base.py
+```
+
+Para conferir a reconstrução sem alterar arquivos, use:
+
+```bash
+python3 scripts/notion_exportar_base_publica.py --dry-run
 ```
 
 ### Criar movimentação de curso
