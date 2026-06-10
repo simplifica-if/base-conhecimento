@@ -303,6 +303,61 @@
     "path": "normas/ifpr/resolucoes/RESOLUCAO_CONSUP-IFPR_50-2017_avaliacao.md"
   },
   {
+    "title": "Resolução CONSUP/IFPR nº 65/2017",
+    "tipo_documento": "Resolução",
+    "numero": "65",
+    "ano": 2017,
+    "data_publicacao": "2017-12-13",
+    "orgao": "CONSUP/IFPR",
+    "jurisdicao": "IFPR",
+    "ementa": "Dispõe sobre a instituição e funcionamento do Centro de Línguas do IFPR.",
+    "status_vigencia": "vigente",
+    "keywords": [
+      "CELIF",
+      "Centro de Línguas",
+      "línguas",
+      "política linguística",
+      "internacionalização",
+      "IFPR"
+    ],
+    "aliases": [
+      "Resolução CONSUP/IFPR nº 65/2017",
+      "Resolução nº 65/2017",
+      "Resolução IFPR 65/2017",
+      "Regulamento do CELIF"
+    ],
+    "fonte": "https://ifpr.edu.br/resolucao-no-65-2017/",
+    "path": "normas/ifpr/resolucoes/RESOLUCAO_CONSUP-IFPR_65-2017_celif.md"
+  },
+  {
+    "title": "Resolução CONSUP/IFPR nº 11/2019",
+    "tipo_documento": "Resolução",
+    "numero": "11",
+    "ano": 2019,
+    "data_publicacao": "2019-06-13",
+    "orgao": "CONSUP/IFPR",
+    "jurisdicao": "IFPR",
+    "ementa": "Institui a Política Linguística do IFPR e fixa diretrizes, normas e concepções de língua, ensino e aprendizagem de línguas e apoio à internacionalização.",
+    "status_vigencia": "vigente",
+    "keywords": [
+      "política linguística",
+      "línguas",
+      "CELIF",
+      "Centro de Línguas",
+      "internacionalização",
+      "proficiência",
+      "IFPR"
+    ],
+    "aliases": [
+      "Resolução CONSUP/IFPR nº 11/2019",
+      "Resolução nº 11/2019",
+      "Resolução IFPR 11/2019",
+      "Política Linguística do IFPR"
+    ],
+    "fonte": "https://sei.ifpr.edu.br/sei/publicacoes/controlador_publicacoes.php?acao=publicacao_visualizar&id_documento=349406&id_orgao_publicacao=0",
+    "path": "normas/ifpr/resolucoes/RESOLUCAO_CONSUP-IFPR_11-2019_politica-linguistica.md"
+  },
+  {
     "title": "Resolução CNE/CP nº 1/2021",
     "tipo_documento": "Resolução",
     "numero": "1",
