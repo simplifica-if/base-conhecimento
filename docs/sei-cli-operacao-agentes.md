@@ -37,7 +37,7 @@ Use `sei-cli` quando a tarefa envolver:
 - extrair evidências para preencher campos SEI em `Movimentações de Cursos` ou metadados de PPC em `Cursos` no Notion;
 - responder a dúvidas operacionais quando os JSONs publicados não tiverem evidência suficiente.
 
-Não use `sei-cli` para substituir a consulta normativa da base pública. Para normas, legislação, resoluções, portarias publicadas, catálogos e PPCs já convertidos, siga primeiro `llms.txt`.
+Não use `sei-cli` para substituir a consulta normativa da base local. Para normas, legislação, resoluções, portarias publicadas, catálogos e PPCs já convertidos, consulte primeiro os manifestos e arquivos locais deste repositório.
 
 ## Autenticação
 

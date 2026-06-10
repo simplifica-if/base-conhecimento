@@ -90,12 +90,12 @@ Quando a consulta ou alteração depender de evidência do Sistema Eletrônico d
 
 Não comece pelo Notion quando a tarefa for:
 
-- responder pergunta normativa geral: leia `llms.txt`;
+- responder pergunta normativa geral: consulte primeiro os manifestos e arquivos locais deste repositório;
 - consultar legislação, resoluções, portarias, CNCT ou PPCs publicados;
 - alterar scripts, schemas ou documentação do repositório;
 - debugar geração ou validação de JSON público.
 
-Nesses casos, use os arquivos locais e a hierarquia de fontes definida em `llms.txt`.
+Nesses casos, use os arquivos locais. Comece por `manifest.json`, `institucional_manifest.json`, `catalogos_manifest.json` ou `institucional/ifpr/ppcs/index.json`, conforme o tipo de consulta, e abra os arquivos indicados no campo `path`.
 
 ## Regras de escrita
 
